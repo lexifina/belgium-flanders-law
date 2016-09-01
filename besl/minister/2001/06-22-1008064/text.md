@@ -44,698 +44,378 @@ Dit besluit treedt in werking op 1 september 2001.
 
 ### BIJLAGE
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+1. Opdracht : oogstand - strabisme (artikel 4, 5 en 7)<br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<p>1. Opdracht: oogstand-strabisme (artikelen 4, 5 en 7)<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
-			</td>
+			<td>Doelgroep :</td>
+			<td>a) eerste jaar kleuteronderwijs;<br>
+			b) tweede jaar kleuteronderwijs;<br>
+			c) eerste jaar lager onderwijs.</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Doelgroep:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) eerste jaar kleuteronderwijs;</p>
-			</td>
+			<td>Definitie van de afwijking :</td>
+			<td>afwijkende oogstand, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen, waarbij de neiging bestaat het niet-fixerend oog uit te sluiten.</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) tweede jaar kleuteronderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>c) eerste jaar lager onderwijs.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Definitie van de afwijking:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Afwijkende oogstand, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen, waarbij de neiging bestaat het niet fixerend oog uit te sluiten.</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Gegevens:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) basisset;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) aantal verwezen leerlingen van wie de afwijking bevestigd is.</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>2. Opdracht: visuele functie (artikel 4, 5 en 7)</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Doelgroep:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) eerste jaar kleuteronderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) tweede jaar kleuteronderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>c) eerste jaar lager onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>d) derde jaar lager onderwijs.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Definitie van de afwijking:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Uni- of bilaterale afwijking van het vertezicht met eventuele correctie, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Gegevens:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) basisset;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) aantal verwezen leerlingen van wie de afwijking bevestigd is.</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>3. Opdracht: lengte en groei (artikel 4, 5, 6 en 7)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Doelgroep:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) eerste jaar kleuteronderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) tweede jaar kleuteronderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>c) eerste jaar lager onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>d) derde jaar lager onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>e) vijfde jaar lager onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>f) eerste jaar secundair onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>g) derde jaar secundair onderwijs.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Definitie van de afwijking:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Afwijking van de lengtegroei ten overstaan van de referentiewaarden (geleverd door de administratie), zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Gegevens:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) basisset;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) voor iedere kleuter of leerling wordt op individueel niveau de lengte geregistreerd samen met de gegevens, genoemd in artikel 6 van het besluit.</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>4. Opdracht: gewicht (artikel 4, 5, 6 en 7)</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="7" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Doelgroep:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) eerste jaar kleuteronderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) tweede jaar kleuteronderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>c) eerste jaar lager onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>d) derde jaar lager onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>e) vijfde jaar lager onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>f) eerste jaar secundair onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>g) derde jaar secundair onderwijs.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Definitie van de afwijking:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Afwijking van het gewicht in relatie tot de lengte, ten overstaan van de referentiewaarden (geleverd door de administratie), zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Gegevens:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) basisset;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) voor iedere kleuter of leerling wordt op individueel niveau het gewicht geregistreerd samen met de gegevens, genoemd in artikel 6 van het besluit.</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>5. Opdracht: gehoor (artikelen 4, 5 en 7)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Doelgroep:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Tweede jaar kleuteronderwijs.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Definitie van de afwijking:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Uni- of bilaterale daling van het gehoor zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Gegevens:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Per onderwijstype, school en geslacht:</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) basisset;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) aantal verwezen leerlingen van wie de afwijking bevestigd is.</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>6. Opdracht: kleurenzin (artikelen 4, 5 en 7)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Doelgroep:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Eerste jaar lager onderwijs.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Definitie van de afwijking:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Afwijking in het vermogen om het normale kleurspectrum waar te nemen, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Gegevens:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Per onderwijstype, school en geslacht:</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) aantal leerlingen, behorend tot de doelgroep;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) aantal leerlingen, onderzocht volgens het onderzoeksprotocol;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>c) aantal leerlingen met afwijkingen volgens het onderzoeksprotocol.</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>7. Opdracht: geit (artikelen 4, 5 en 7)</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>Alleen tandbederf wordt als afwijking van het gebit geregistreerd.</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Doelgroep:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) eerste jaar lager onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) eerste jaar secundair onderwijs.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Definitie van de afwijking:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Een caviteit in dentine en/of pulpa ten gevolge van tandweefselverval in het melkgebit of in het definitieve gebit, vastgesteld volgens het onderzoeksprotocol dat de administratie heeft aangenomen.</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Gegevens:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Per doelgroep, onderwijstype, school en geslacht:</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) aantal leerlingen behorend tot de doelgroep;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) aantal leerlingen dat een mondonderzoek ondergaan heeft volgens het onderzoeksprotocol;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>c) aantal leerlingen met tandbederf;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>d) aantal leerlingen met tandbederf in het melkgebit (enkel voor het eerste jaar lager onderwijs);</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>e) aantal leerlingen met tandbederf in het definitieve gebit.</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>8. Opdracht: houdings- en bewegingsstelsel (artikelen 4, 5 en 7)</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>Alleen scoliose wordt als afwijking van het houdings- en bewegingsstelsel geregistreerd.</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Doelgroep:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) vijfde jaar lager onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) eerste jaar secundair onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>c) derde jaar secundair onderwijs.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Definitie:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Afbuiging van de wervelzuil zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Gegevens:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) basisset;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) aantal verwezen leerlingen bij wie de afwijking bevestigd is.</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>9. Opdracht: puberteit (artikelen 4, 5, 6 en 7)</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Doelgroep:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) vijfde jaar lager onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) eerste jaar secundair onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>c) derde jaar secundair onderwijs.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Definitie:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Puberale ontwikkeling zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Gegevens:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>1° per doelgroep, onderwijstype, school en geslacht:</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) aantal leerlingen, behorend tot de doelgroep;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) aantal leerlingen, onderzocht volgens het onderzoeksprotocol;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>2° voor iedere leerling wordt op individueel niveau de Tanner-score, menarche en beoordeling van het testisvolume geregistreerd samen met de gegevens, genoemd in artikel 6 van het besluit.</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>10. Opdracht: genitaliën (artikelen 4, 5 en 7)</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>Alleen varicocoele wordt als afwijking van de genitaliën bij jongens geregistreerd</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Doelgroep:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Derde jaar secundair onderwijs.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Definitie van de afwijking:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Een abnormale dilatatie van de venen in de plexus pampiniformis met reflux van bloed uit de ven arenalis zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Gegevens:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) basisset;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) aantal reeds behandelde leerlingen;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>c) aantal verwezen leerlingen van wie de afwijking bevestigd is.</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>11. Opdracht: vaccinatie (artikelen 4 en 5)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>a) Poliomyelitis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Doelgroep:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Eerste jaar lager onderwijs.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Definitie:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Het nastreven van een immunisering door de toediening van het vaccin tegen poliomyelitis.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Gegevens:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Vaccinatietest.</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>b) Difterie – tetanus</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Doelgroep:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) eerste jaar lager onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) derde jaar secundair onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Definitie:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Het nastreven van een immunisering door de toediening van het vaccin tegen difterie en tetanus.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Gegevens:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Vaccinatieset.</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>c) Mazelen – bof&nbsp; - rubella</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Doelgroep:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Vijfde jaar lager onderwijs;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Definitie:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Het nastreven van een immunisering door de toediening van het vaccin tegen mazelen, bof en rubella</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Gegevens:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) vaccinatieset;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) aantal leerlingen voor wie vaccinatie niet nodig is omdat ze het bewijs kunnen leveren dat ze tegen de drie aandoeningen voldoende immuniteit hebben verworven</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>d) Hepatitis B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Doelgroep:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Eerste jaar secundair onderwijs.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Definitie:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>Het nastreven van een immunisering door de toediening van het vaccin tegen hepatitis B.</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.4pt">
-			<p>Gegevens:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>a) vaccinatieset;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.2pt">
-			<p>b) aantal leerlingen voor wie vaccinatie niet nodig is omdat ze het bewijs kunnen leveren dat ze tegen de aandoening voldoende immuniteit hebben verworven of dat ze chronisch drager van de ziekte zijn.</p>
-			</td>
+			<td>Gegevens :</td>
+			<td>a) basisset;<br>
+			b) aantal doorverwezen leerlingen van wie de afwijking bevestigd is.</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+<br>
+2. Opdracht : visuele functie (artikel 4, 5 en 7)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>a) eerste jaar kleuteronderwijs;<br>
+			b) tweede jaar kleuteronderwijs;<br>
+			c) eerste jaar lager onderwijs;<br>
+			d) derde jaar lager onderwijs;<br>
+			e) vijfde jaar lager onderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>uni- of bilaterale afwijking van het vertezicht met eventuele correctie, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>a) basisset;<br>
+			b) aantal doorverwezen leerlingen van wie de afwijking bevestigd is;<br>
+			c) aantal leerlingen met gekende oogafwijking en/of visuele correctie;<br>
+			d) registratie voor elke individuele leerling van het monoculaire verzicht van elk oog apart of het binoculaire verzicht met correctie bij brildragende kinderen.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+3. Opdracht : lengte en groei (artikel 4, 5, 6 en 7)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>a) eerste jaar kleuteronderwijs;<br>
+			b) tweede jaar kleuteronderwijs;<br>
+			c) eerste jaar lager onderwijs;<br>
+			d) derde jaar lager onderwijs;<br>
+			e) vijfde jaar lager onderwijs;<br>
+			f) eerste jaar secundair onderwijs;<br>
+			g) derde jaar secundair onderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>afwijking van de lengtegroei ten overstaan van de referentiewaarden (geleverd door de administratie), zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>a) basisset;<br>
+			b) registratie voor iedere individuele kleuter of leerling van de lengte samen met de gegevens, vermeld in artikel 6 van het besluit.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+4. Opdracht : gewicht (artikel 4, 5, 6 en 7)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>a) eerste jaar kleuteronderwijs;<br>
+			b) tweede jaar kleuteronderwijs;<br>
+			c) eerste jaar lager onderwijs;<br>
+			d) derde jaar lager onderwijs;<br>
+			e) vijfde jaar lager onderwijs;<br>
+			f) eerste jaar secundair onderwijs;<br>
+			g) derde jaar secundair onderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>afwijking van het gewicht in relatie tot de lengte, ten overstaan van de referentiewaarden (geleverd door de administratie), zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>a) basisset;<br>
+			b) registratie voor iedere individuele kleuter of leerling van het gewicht samen met de gegevens, vermeld in artikel 6 van het besluit.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+5. Opdracht : gehoor (artikel 4, 5 en 7)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>eerste jaar lager onderwijs;<br>
+			vijfde jaar lager onderwijs;<br>
+			derde jaar secundair onderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>uni- of bilaterale daling van het gehoor, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>per onderwijstype, school en geslacht :<br>
+			a) basisset;<br>
+			b) aantal doorverwezen leerlingen van wie de afwijking bevestigd is;<br>
+			c) aantal leerlingen met gekende gehoorafwijking en/of auditieve hulpmiddelen;<br>
+			d) registratie voor iedere individuele leerling zonder gekende gehoorafwijking van het resultaat op het gehooronderzoek voor elk oor apart, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+6. Opdracht : risicofactoren voor neurosensorieel gehoorverlies (artikel 4, 5 en 7)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>eerste jaar kleuteronderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>een of meer risicofactoren voor neurosensorieel gehoorverlies, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>per onderwijstype, school en geslacht :<br>
+			a) aantal leerlingen die behoren tot de doelgroep;<br>
+			b) aantal leerlingen bij wie de risicoanalyse is uitgevoerd;<br>
+			c) aantal leerlingen met aanwezige risicofactoren volgens het onderzoeksprotocol;<br>
+			d) aantal leerlingen met gekende gehoorafwijking en/of auditieve hulpmiddelen;<br>
+			e) aantal leerlingen die naar aanleiding van de risicoanalyse in het CLB onderzocht zijn, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen;<br>
+			f) aantal leerlingen met uni- of bilaterale daling van het gehoor, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen;<br>
+			g) registratie voor iedere individuele onderzochte leerling van het resultaat op het gehooronderzoek voor elk oor apart, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen;<br>
+			h) aantal doorverwezen leerlingen van wie de afwijking bevestigd is.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+7. Opdracht : kleurenzin (artikel 4, 5 en 7)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>eerste jaar lager onderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>afwijking van het vermogen om het normale kleurenspectrum waar te nemen, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>per onderwijstype, school en geslacht :<br>
+			a) aantal leerlingen die behoren tot de doelgroep;<br>
+			b) aantal leerlingen die onderzocht zijn volgens het onderzoeksprotocol;<br>
+			c) aantal leerlingen met afwijkingen volgens het onderzoeksprotocol.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+8. Opdracht : dieptezicht (artikel 4, 5 en 7)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>vijfde jaar lager onderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>afwijking van het vermogen om binoculair stereozicht waar te nemen, met eventuele visuele correctie, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>per onderwijstype, school en geslacht :<br>
+			a) aantal leerlingen die behoren tot de doelgroep;<br>
+			b) aantal leerlingen die onderzocht zijn volgens het onderzoeksprotocol;<br>
+			c) aantal leerlingen met afwijking volgens het onderzoeksprotocol;<br>
+			d) aantal leerlingen met gekende oogafwijking en/of visuele correctie;<br>
+			e) registratie voor iedere individuele leerling van het binoculaire stereozicht, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+9. Opdracht : gebit (artikel 4, 5 en 7)<br>
+Zowel mondhygiëne als tandbederf wordt onderzocht.<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>a) eerste jaar lager onderwijs;<br>
+			b) eerste jaar secundair onderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>a) voor mondhygiëne : de aanwezigheid van tandplaque, tandsteen en/of bloedend tandvlees;<br>
+			b) voor tandbederf : een caviteit in dentine en/of pulpa ten gevolge van tandweefselverval in het melkgebit of in het definitieve gebit, vastgesteld volgens het onderzoeksprotocol dat de administratie heeft aangenomen.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>per doelgroep, onderwijstype, school en geslacht :<br>
+			a) aantal leerlingen die behoren tot de doelgroep;<br>
+			b) aantal leerlingen die een mondonderzoek ondergaan hebben volgens het onderzoeksprotocol;<br>
+			c) aantal leerlingen met tandbederf;<br>
+			d) aantal leerlingen met tandbederf in het melkgebit (alleen voor het eerste jaar lager onderwijs);<br>
+			e) aantal leerlingen met tandbederf in het definitieve gebit;<br>
+			f) aantal leerlingen met onvoldoende mondhygiëne.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+10. Opdracht : houdings- en bewegingsstelsel (artikel 4, 5 en 7)<br>
+Alleen scoliose wordt als afwijking van het houdings- en bewegingsstelsel geregistreerd.<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>a) vijfde jaar lager onderwijs;<br>
+			b) eerste jaar secundair onderwijs;<br>
+			c) derde jaar secundair onderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>afbuiging van de wervelzuil, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>a) basisset;<br>
+			b) aantal verwezen leerlingen bij wie de afwijking bevestigd is.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+11. Opdracht : puberteit (artikel 4, 5, 6 en 7)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>a) vijfde jaar lager onderwijs;<br>
+			b) eerste jaar secundair onderwijs;<br>
+			c) derde jaar secundair onderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>puberale ontwikkeling, zoals beschreven in het onderzoeksprotocol dat de administratie<br>
+			heeft aangenomen.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>1° per doelgroep, onderwijstype, school en geslacht :<br>
+			a) aantal leerlingen die behoren tot de doelgroep;<br>
+			b) aantal leerlingen, onderzocht volgens het onderzoeksprotocol;<br>
+			2° registratie voor iedere individuele leerling van de Tannerscore, de menarche en de beoordeling van het testisvolume, geregistreerd samen met de gegevens, vermeld in artikel 6 van het besluit.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+12. Opdracht : genitaliën jongens (artikel 4, 5, en 7)<br>
+Alleen varicocele wordt als afwijking van de genitaliën bij jongens geregistreerd.<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>derde jaar secundair onderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>een abnormale dilatatie van de venen in de plexus pampiniformis met reflux van bloed uit de vena renalis, zoals beschreven in het onderzoeksprotocol dat de administratie heeft aangenomen.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>a) basisset;<br>
+			b) aantal reeds behandelde leerlingen;<br>
+			c) aantal doorverwezen leerlingen van wie de afwijking bevestigd is.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+13. Opdracht : vaccinatie (artikel 4 en 5)<br>
+a) Poliomyelitis<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>eerste jaar lager onderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>het nastreven van een immunisering door de toediening van het vaccin tegen poliomyelitis.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>vaccinatieset.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+b) Difterie - tetanus<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>a) eerste jaar lager onderwijs;<br>
+			b) derde jaar secundair onderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>het nastreven van een immunisering door de toediening van het vaccin tegen difterie en tetanus.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>vaccinatieset.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+c) Mazelen - bof - rubella<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>vijfde jaar lager onderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>het nastreven van een immunisering door de toediening van het vaccin tegen mazelen, bof en rubella.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>a) vaccinatieset;<br>
+			b) aantal leerlingen voor wie vaccinatie niet nodig is omdat ze kunnen bewijzen dat ze tegen de drie aandoeningen voldoende immuniteit hebben verworven.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+d) Hepatitis B<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Doelgroep :</td>
+			<td>eerste jaar secundair onderwijs.</td>
+		</tr>
+		<tr>
+			<td>Definitie van de afwijking :</td>
+			<td>het nastreven van een immunisering door de toediening van het vaccin tegen hepatitis B.</td>
+		</tr>
+		<tr>
+			<td>Gegevens :</td>
+			<td>a) vaccinatieset;<br>
+			b) aantal leerlingen voor wie vaccinatie niet nodig is omdat ze kunnen bewijzen dat ze tegen de aandoening voldoende immuniteit hebben verworven of dat ze chronisch drager van de ziekte zijn.</td>
+		</tr>
+	</tbody>
+</table>
