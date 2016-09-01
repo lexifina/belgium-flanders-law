@@ -40,6 +40,10 @@ Aan artikel 3 van hetzelfde besluit wordt een tweede lid toegevoegd, dat   luidt
 
 Aan hetzelfde besluit worden een bijlage VI en VII toegevoegd, die als   bijlage 3 en 4 bij dit besluit zijn gevoegd.<BR>
 
+### ART. 9.
+
+Bijlage I en II bij hetzelfde besluit worden opgeheven.<BR>
+
 ## HOOFDSTUK 3 Wijziging van de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied Nederlands tweede taal
 
 ### ART. 10.
@@ -89,6 +93,10 @@ In artikel 1 van het besluit van de Vlaamse Regering van 1 september 2006   betr
 ### ART. 20.
 
 Bijlage XXXV bij hetzelfde besluit wordt opgeheven.<BR>
+
+### ART. 21.
+
+Bijlage XXXVI bij hetzelfde besluit wordt opgeheven.<BR>
 
 ## HOOFDSTUK 6 Wijziging van de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied land- en tuinbouw
 
