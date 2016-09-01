@@ -112,7 +112,20 @@ In artikel 12, § 1, derde lid, van hetzelfde decreet, gewijzigd bij de   decret
 
 ### ART. 19.
 
-<P>§ 1. Er wordt een Fonds Wapenhandelgerelateerde Boeten opgericht, hierna   genoemd `het fonds'.<BR></P>  <P>§ 2. Het fonds is een begrotingsfonds in de zin van artikel 12 van het   decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de   toekenning van subsidies en de controle op de aanwending ervan, en de controle   door het Rekenhof.<BR></P>  <P>§ 3. Het fonds wordt gespijsd door de invordering van de administratieve   boeten bepaald in artikel 48 van het Wapenhandeldecreet van 15 juni   2012.<BR></P>  <P>§ 4. Het fonds wordt aangewend voor het toezicht op de naleving van het   Wapenhandeldecreet, de uitvoering en de handhaving ervan, en voor initiatieven   om de compliance van de Vlaamse defensie-industrie, wapenhandelaars en   wapenbezitters te bevorderen, zoals informatiesessies en   documentatiemateriaal.<BR></P>  <P>§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks   over de kredieten van het fonds.</P>
+<p>§ 1. Er wordt een Fonds Wapenhandelgerelateerde Boeten opgericht, hierna genoemd `het fonds'.</p>
+
+<p>§ 2. Het fonds is een begrotingsfonds in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.</p>
+
+<p>§ 3. Het fonds wordt gespijsd door de invordering van de administratieve boeten bepaald in :<br>
+1° artikel 48 van het Wapenhandeldecreet van 15 juni 2012;<br>
+2° artikel 24, § 2, van het samenwerkingsakkoord van 2 maart 2007 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering van de Overeenkomst tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, gedaan te Parijs op 13 januari 1993 (de Overeenkomst).<br>
+<br>
+§ 4. Het fonds wordt aangewend voor :<br>
+1° het toezicht op de naleving van het Wapenhandeldecreet en van de andere regelgeving inzake de controle op de handel in strategische goederen;<br>
+2° de uitvoering en de handhaving van deze regelgeving;<br>
+3° initiatieven om de compliance van de Vlaamse defensie-industrie, wapenhandelaars en wapenbezitters te bevorderen, zoals informatiesessies en documentatiemateriaal..</p>
+
+<p>§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.</p>
 
 ## HOOFDSTUK 8 Fonds voor de Waarborgregeling van de NV Waarborgbeheer
 
@@ -226,7 +239,22 @@ In artikel 14, tweede lid, van hetzelfde decreet worden de woorden "samen   met 
 
 ### ART. 41.
 
-<P>§ 1. Er wordt een begrotingsfonds Dienstverlening Onderwijscommunicatie   opgericht, hierna genoemd `het fonds'.<BR><BR>In afwijking van het eerste lid,   draagt het begrotingsfonds met ingang van 1 april 2014 de naam begrotingsfonds   Departement Onderwijs en Vorming.<BR><BR>§ 2. Het fonds is een begrotingsfonds   in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van   de begroting, de boekhouding, de toekenning van subsidies en de controle op de   aanwending ervan, en de controle door het Rekenhof.<BR><BR>§ 3. Het fonds wordt   gespijsd door alle ontvangsten die voortvloeien uit :<BR>1° de publiciteit in,   de abonnementen op en andere ontvangsten met betrekking tot het tijdschrift   Klasse;<BR>2° communicatie-initiatieven;<BR>3° projectsubsidies verkregen door   Europese of internationale (co-)financiering van projecten.<BR><BR>§ 4. Het   fonds wordt aangewend ter financiering van :<BR>1° de specifieke werkingskosten   in verband met Onderwijscommunicatie, Klasse, Klascement en met inbegrip van   projecten met Europese of internationale (co-)financiering;<BR>2° alle   personeels- en werkingskosten die voortvloeien uit projecten met internationale   en Europese (co-)financiering te financieren.<BR><BR>§ 5. De rekenplichtige die   de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het   fonds.</P>
+<p>§ 1. Er wordt een begrotingsfonds Dienstverlening Onderwijscommunicatie opgericht, hierna genoemd `het fonds'.<br>
+<br>
+In afwijking van het eerste lid, draagt het begrotingsfonds met ingang van 1 april 2014 de naam begrotingsfonds Departement Onderwijs en Vorming.<br>
+<br>
+§ 2. Het fonds is een begrotingsfonds in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+<br>
+§ 3. Het fonds wordt gespijsd door alle ontvangsten die voortvloeien uit :<br>
+1° de publiciteit in, de abonnementen op en andere ontvangsten met betrekking tot het tijdschrift Klasse;<br>
+2° communicatie-initiatieven;<br>
+3° projectsubsidies, verkregen door Vlaamse, Europese en/of (inter)nationale (co)financiering van projecten.<br>
+<br>
+§ 4. Het fonds wordt aangewend ter financiering van :<br>
+1° de specifieke werkingskosten in verband met Onderwijscommunicatie, Klasse, Klascement en met inbegrip van projecten met Vlaamse, Europese of (inter)nationale (co)financiering;<br>
+2° alle personeels- en werkingskosten die voortvloeien uit projecten met Vlaamse, Europese en/of (inter)nationale (co)financiering.<br>
+<br>
+§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.</p>
 
 ### ART. 42.
 
