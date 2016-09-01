@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027119,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-24 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027119/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "15f5ea42e9c1b4d5b3dcb75a1e77f9ea6086cd2d1499de36ef6f5fe8aa5a21be",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027119&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-06-24",
+  "gazette": "2016-08-12",
+  "numac": 2016036144,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
