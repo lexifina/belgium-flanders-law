@@ -189,7 +189,13 @@ Werkingsmiddelen die niet tijdig aangewend worden, moeten onmiddellijk worden te
 
 ### ART. 27/2.
 
-<P>De pedagogische begeleidingsdiensten die beschikken over een   personeelsformatie als vermeld in artikel 16, ontvangen jaarlijks 609.000 euro   aan aanvullende werkingsmiddelen voor de uitvoering van volgende   opdrachten:<BR>1° de competentieontwikkeling ondersteunen voor de implementatie   van het decreet van 21 maart 2014 betreffende maatregelen voor leerlingen met   specifieke onderwijsbehoeften in een hoofdstedelijke context ten aanzien van de   scholen van het basisonderwijs en secundair onderwijs die erkend, gefinancierd   of gesubsidieerd zijn door de Vlaamse Gemeenschap en gelegen zijn in het   tweetalige gebied Brussel-Hoofdstad;<BR>2° een transfer voorzien van de   inzichten opgedaan onder 1° naar het Vlaamse onderwijs en de ontsluiting van de   kennis op het gebied van taalvaardigheidsonderwijs met prioriteit naar de   scholen van de Vlaamse Rand realiseren.<BR><BR>De pedagogische   begeleidingsdiensten werken nauw samen met het Onderwijscentrum Brussel van de   Vlaamse Gemeenschapscommissie teneinde deze opdrachten te kunnen vervullen. Een   protocol tussen deze actoren teneinde vorm te geven aan deze samenwerking wordt   afgesloten. In hun regulier werkingsverslag/jaarverslag rapporteren de   pedagogische begeleidingsdiensten en het Onderwijscentrum Brussel van de Vlaamse   Gemeenschapscommissie op welke wijze invulling wordt gegeven aan de opdrachten,   welke goede voorbeelden evenals andere multiplicatoreffecten gerealiseerd   werden.<BR><BR>De werkingsmiddelen, vermeld in het eerste lid, worden verdeeld   over deze pedagogische begeleidingsdiensten naar rato van het aantal organieke   betrekkingen in het Nederlandstalig onderwijs in Brussel in de instellingen   verbonden aan de pedagogische begeleidingsdiensten.</P>
+<p>De pedagogische begeleidingsdiensten die beschikken over een personeelsformatie als vermeld in artikel 16, ontvangen jaarlijks 609.000 euro aan aanvullende werkingsmiddelen voor de uitvoering van volgende opdrachten:<br>
+1° de competentieontwikkeling ondersteunen voor de implementatie van het decreet van 21 maart 2014 betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften in een hoofdstedelijke context ten aanzien van de scholen van het basisonderwijs en secundair onderwijs die erkend, gefinancierd of gesubsidieerd zijn door de Vlaamse Gemeenschap en gelegen zijn in het tweetalige gebied Brussel-Hoofdstad;<br>
+2° een transfer voorzien van de inzichten opgedaan onder 1° naar het Vlaamse onderwijs en de ontsluiting van de kennis op het gebied van taalvaardigheidsonderwijs met prioriteit naar de scholen van de Vlaamse Rand realiseren.<br>
+<br>
+De pedagogische begeleidingsdiensten werken nauw samen met het Onderwijscentrum Brussel van de Vlaamse Gemeenschapscommissie teneinde deze opdrachten te kunnen vervullen. Een protocol tussen deze actoren teneinde vorm te geven aan deze samenwerking wordt afgesloten. In hun regulier werkingsverslag/jaarverslag rapporteren de pedagogische begeleidingsdiensten en het Onderwijscentrum Brussel van de Vlaamse Gemeenschapscommissie op welke wijze invulling wordt gegeven aan de opdrachten, welke goede voorbeelden evenals andere multiplicatoreffecten gerealiseerd werden.<br>
+<br>
+De werkingsmiddelen, vermeld in het eerste lid, worden verdeeld over deze pedagogische begeleidingsdiensten naar rato van het aantal organieke betrekkingen in de scholen en de centra van het basisonderwijs en secundair onderwijs die erkend, gefinancierd of gesubsidieerd zijn door de Vlaamse Gemeenschap en gelegen zijn in het tweetalig gebied Brussel-Hoofdstad en die zij begeleiden.</p>
 
 ### ART. 27/3.
 
@@ -873,7 +879,16 @@ Behoudens uitdrukkelijk strijdige bepalingen heeft het personeelslid in dienstac
 
 ### ART. 142.
 
-Het personeelslid krijgt onder de door de Vlaamse Regering bepaalde voorwaarden verlof, gelijkgesteld met dienstactiviteit. <br /><br />In afwachting van de uitvaardiging van die verlofstelsels door de Vlaamse Regering blijven de op het ogenblik van het van kracht worden van dit decreet geldende wettelijke of reglementaire verlofstelsels van toepassing. <br /><br />De Vlaamse Regering bepaalt eveneens de prestatieregeling van de personeelsleden.
+Het personeelslid krijgt onder de door de Vlaamse Regering bepaalde voorwaarden verlof, gelijkgesteld met dienstactiviteit.<br>
+<br>
+In afwachting van de uitvaardiging van die verlofstelsels door de Vlaamse Regering blijven de op het ogenblik van het van kracht worden van dit decreet geldende wettelijke of reglementaire verlofstelsels van toepassing.<br>
+<br>
+Als in de voormelde wettelijke of reglementaire bepalingen of in de door de Vlaamse Regering uitgevaardigde verlofstelsels wordt vermeld dat als gevolg van een tijdens het schooljaar of dienstjaar genoten verlof het salaris tijdens het jaarlijkse vakantieverlof in evenredige mate wordt verminderd, heeft dat tot gevolg dat in de zomervakantie van dat schooljaar of dienstjaar, enkel voor de bezoldiging, een aantal kalenderdagen eveneens als dergelijk verlof wordt beschouwd. De aldus met een periode van verlof gelijkgestelde dagen worden niet meegerekend om de duur te bepalen van de periode van verlof waarop het personeelslid nog recht heeft. Voor het berekenen van dit aantal kalenderdagen :<br>
+1° worden het aantal kalenderdagen genoten verlof opgeteld met een maximum van driehonderd dagen per schooljaar of dienstjaar;<br>
+2° wordt het resultaat met 0,2 vermenigvuldigd;<br>
+3° wordt het resultaat naar de lagere eenheid afgerond.<br>
+<br>
+De Vlaamse Regering bepaalt eveneens de prestatieregeling van de personeelsleden.
 
 ## Afdeling III. Non-activiteit
 
@@ -893,7 +908,19 @@ Ongewettigde afwezigheid plaatst het personeelslid ambtshalve in de stand non-ac
 
 ### ART. 146.
 
-Het personeelslid kan, onder de door de Vlaamse Regering bepaalde voorwaarden, ter beschikking worden gesteld wegens : <br />1° ziekte; <br />2° persoonlijke aangelegenheden; <br />3° persoonlijke aangelegenheden voorafgaand aan het rustpensioen. <br /><br />Een personeelslid dat ter beschikking gesteld is om de reden, vermeld in het eerste lid, 1°, kan gedurende twee jaar zijn aanspraak op een ander ambt en op bevordering tot een hoger salaris doen gelden. <br /><br />In afwachting dat de Vlaamse Regering de voorwaarden, vermeld in het eerste lid, vaststelt, gelden voor de personeelsleden de bepalingen die van toepassing zijn op de personeelsleden van het gemeenschapsonderwijs.
+Het personeelslid kan, onder de door de Vlaamse Regering bepaalde voorwaarden, ter beschikking worden gesteld wegens :<br>
+1° ziekte;<br>
+2° persoonlijke aangelegenheden;<br>
+3° persoonlijke aangelegenheden voorafgaand aan het rustpensioen.<br>
+<br>
+Een personeelslid dat ter beschikking gesteld is om de reden, vermeld in het eerste lid, 1°, kan gedurende twee jaar zijn aanspraak op een ander ambt en op bevordering tot een hoger salaris doen gelden.<br>
+<br>
+In afwachting dat de Vlaamse Regering de voorwaarden, vermeld in het eerste lid, vaststelt, gelden voor de personeelsleden de bepalingen die van toepassing zijn op de personeelsleden van het gemeenschapsonderwijs.<br>
+<br>
+Als in de voormelde wettelijke of reglementaire bepalingen of in de door de Vlaamse Regering uitgevaardigde verlofstelsels wordt vermeld dat als gevolg van een tijdens het schooljaar of dienstjaar genoten terbeschikkingstelling wegens persoonlijke aangelegenheden het salaris tijdens het jaarlijkse vakantieverlof in evenredige mate wordt verminderd, heeft dat tot gevolg dat in de zomervakantie van dat schooljaar of dienstjaar, enkel voor de bezoldiging, een aantal kalenderdagen eveneens als dergelijk verlof wordt beschouwd. De aldus met een periode van verlof gelijkgestelde dagen worden niet meegerekend om de duur te bepalen van de periode van verlof waarop het personeelslid nog recht heeft. Voor het berekenen van dit aantal kalenderdagen :<br>
+1° worden het aantal kalenderdagen genoten verlof opgeteld met een maximum van driehonderd dagen per schooljaar of dienstjaar;<br>
+2° wordt het resultaat met 0,2 vermenigvuldigd;<br>
+3° wordt het resultaat naar de lagere eenheid afgerond.
 
 ### ART. 147.
 
