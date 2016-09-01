@@ -34,7 +34,10 @@ Onder de integrale jeugdhulp valt de jeugdhulpverlening die wordt   aangeboden d
 
 ### ART. 7.
 
-Onder de integrale jeugdhulp valt de jeugdhulpverlening die wordt   aangeboden door de centra voor leerlingenbegeleiding, vermeld in artikel 4 van   het decreet van 1 december 1998 betreffende de centra voor   leerlingenbegeleiding.<BR>
+Onder de integrale jeugdhulp valt de jeugdhulpverlening die wordt aangeboden door:<br>
+1° de centra voor leerlingenbegeleiding, vermeld in artikel 4 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br>
+2° de internaten van het Gemeenschapsonderwijs, vermeld in artikel 3, § 1, eerste lid, 1° tot en met 8°, van het besluit van de Vlaamse Regering van 21 november 2014 betreffende verblijf en begeleiding tijdens de schoolvrije dagen in de internaten van het Gemeenschapsonderwijs tijdens de transitiefase;<br>
+3° het internaat, vermeld in artikel 1 van het besluit van de Vlaamse regering van 28 augustus 2000 inzake het tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bijstandsregeling.
 
 ### ART. 8.
 
@@ -204,7 +207,24 @@ De kennisgeving voldoet minstens aan de volgende voorwaarden:<BR>1° ze is   zo 
 
 ### ART. 37.
 
-<P>Met behoud van artikel 26 van het decreet van 12 juli 2013, beslist het team   Jeugdhulpregie in voorkomend geval over:<BR>1° de prioritering van een   dossier;<BR>2° de toekenning van subsidies voor een aanvullend   geïndividualiseerd hulpaanbod als vermeld in artikel 67, tweede lid, van het   decreet van 12 juli 2013, als de inschakeling van een intersectoraal zorgnetwerk   als vermeld in artikel 1, 4°, van het besluit van de Vlaamse Regering van 9   oktober 2015 betreffende het intersectorale zorgnetwerk en tot wijziging van het   besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale   jeugdhulp, wat betreft de prioritair toe te wijzen hulpvragen, niet noodzakelijk   is;<BR>3° de aanwending van het resterende bedrag van het derde van de   kinderbijslag conform artikel 70 van de samengeordende wetten van 19 december   1939 betreffende de kinderbijslag voor loonarbeiders of conform artikel 33, 2°,   van het koninklijk besluit van 8 april 1976 houdende regeling van de   gezinsbijslag ten voordele van de zelfstandigen.<BR></P>  <P>De bedragen, overgeschreven op de spaarrekeningen van de minderjarigen die   geplaatst zijn in uitvoering van het decreet van 12 juli 2013, kunnen niet   worden afgehaald zonder uitdrukkelijke machtiging van de toegangspoort, het   ondersteuningscentrum of de jeugdrechter.<BR></P>  <P>Als de minderjarige bij het beëindigen van de hulpverlening één of meer   spaarrekeningen heeft, licht de jeugdhulpaanbieder of de sociale dienst die met   het dossier is belast, de ouders van de minderjarige en de minderjarige in van   het bestaan van die spaarrekeningen.<BR></P>  <P>Het team Jeugdhulpregie kan een jeugdhulpregiebespreking organiseren om de   jeugdhulpregie vlot te laten verlopen. De uitgenodigde jeugdhulpaanbieders zijn   ertoe gehouden om deel te nemen aan een jeugdhulpregiebespreking, georganiseerd   door het team Jeugdhulpregie, waarvoor ze zijn uitgenodigd.<BR></P>  <P>In het vierde lid wordt verstaan onder jeugdhulpregiebespreking: een overleg   dat door het team Jeugdhulpregie van de toegangspoort wordt georganiseerd om   zijn opdrachten, vermeld in artikel 26 van het decreet van 12 juli 2013, te   kunnen uitvoeren, en waarvoor de betrokken jeugdhulpaanbieders, andere personen   en voorzieningen die jeugdhulpverlening aanbieden, en de minderjarige, zijn   ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken worden   uitgenodigd.<BR></P>  <P>De prioritering, vermeld in het eerste lid, 1°, houdt een van de volgende   gevallen in:<BR>1° het dossier krijgt voorrang waardoor jeugdhulpaanbieders   alleen van een opname van het dossier kunnen afzien als ze dat motiveren en als   het team Jeugdhulpregie akkoord gaat met de opname door de jeugdhulpaanbieder   van een ander dossier;<BR>2° het dossier wordt een dossier met de hoogste   prioriteit als vermeld in artikel 26, § 1, eerste lid, 6°, van het decreet van   12 juli 2013.<BR></P>  <P>De prioritering, vermeld in het eerste lid, 1° en 2°, kan geen betrekking   hebben op de dossiers, vermeld in artikel 26, § 1, derde lid, van het decreet   van 12 juli 2013. <BR></P>
+<p>Met behoud van artikel 26 van het decreet van 12 juli 2013, beslist het team Jeugdhulpregie in voorkomend geval over:<br>
+1° de prioritering van een dossier;<br>
+2° de toekenning van subsidies voor een aanvullend geïndividualiseerd hulpaanbod als vermeld in artikel 67, tweede lid, van het decreet van 12 juli 2013, als de inschakeling van een intersectoraal zorgnetwerk als vermeld in artikel 1, 4°, van het besluit van de Vlaamse Regering van 9 oktober 2015 betreffende het intersectorale zorgnetwerk en tot wijziging van het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp, wat betreft de prioritair toe te wijzen hulpvragen, niet noodzakelijk is;<br>
+3° de aanwending van het resterende bedrag van het derde van de kinderbijslag conform artikel 70 van de samengeordende wetten van 19 december 1939 betreffende de kinderbijslag voor loonarbeiders of conform artikel 33, 2°, van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag ten voordele van de zelfstandigen.</p>
+
+<p>De bedragen, overgeschreven op de spaarrekeningen van de minderjarigen die geplaatst zijn in uitvoering van het decreet van 12 juli 2013, kunnen niet worden afgehaald zonder uitdrukkelijke machtiging van de toegangspoort, het ondersteuningscentrum of de jeugdrechter.</p>
+
+<p>Als de minderjarige bij het beëindigen van de hulpverlening één of meer spaarrekeningen heeft, licht de jeugdhulpaanbieder of de sociale dienst die met het dossier is belast, de ouders van de minderjarige en de minderjarige in van het bestaan van die spaarrekeningen.</p>
+
+<p>Het team Jeugdhulpregie kan een jeugdhulpregiebespreking organiseren om de jeugdhulpregie vlot te laten verlopen. De uitgenodigde jeugdhulpaanbieders zijn ertoe gehouden om deel te nemen aan een jeugdhulpregiebespreking, georganiseerd door het team Jeugdhulpregie, waarvoor ze zijn uitgenodigd.</p>
+
+<p>In het vierde lid wordt verstaan onder jeugdhulpregiebespreking: een overleg dat door het team Jeugdhulpregie van de toegangspoort wordt georganiseerd om zijn opdrachten, vermeld in artikel 26 van het decreet van 12 juli 2013, te kunnen uitvoeren, en waarvoor de betrokken jeugdhulpaanbieders, andere personen en voorzieningen die jeugdhulpverlening aanbieden, en de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken worden uitgenodigd.</p>
+
+<p>De prioritering, vermeld in het eerste lid, 1°, houdt een van de volgende gevallen in:<br>
+1° het dossier krijgt voorrang waardoor jeugdhulpaanbieders alleen van een opname van het dossier kunnen afzien als ze dat motiveren en als het team Jeugdhulpregie akkoord gaat met de opname door de jeugdhulpaanbieder van een ander dossier;<br>
+2° het dossier wordt een dossier met de hoogste prioriteit als vermeld in artikel 26, § 1, eerste lid, 6°, van het decreet van 12 juli 2013.</p>
+
+<p>De prioritering, vermeld in het&nbsp;zesde lid, 1°, kan geen betrekking hebben op de dossiers, vermeld in artikel 26, § 1, derde lid, van het decreet van 12 juli 2013.</p>
 
 ### ART. 38.
 
