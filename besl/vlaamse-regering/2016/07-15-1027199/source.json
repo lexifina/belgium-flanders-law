@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027199,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-15 houdende de overdracht van de personeelsleden van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Inspectie RWO aan het departement Leefmilieu, Natuur en Energie en het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027199/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "35ed94cc951818504da8c3b36fa26016687b6d7dd59436ae70eb1772115cda35",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027199&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-07-15",
+  "gazette": "2016-09-07",
+  "numac": 2016036330,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
