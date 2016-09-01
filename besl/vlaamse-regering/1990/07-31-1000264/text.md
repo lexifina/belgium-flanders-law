@@ -239,7 +239,86 @@ Voor de toepassing van titel IV van het koninklijk besluit van 10 maart 1965 hou
 
 ### ART. 14.
 
-§ 1. Overgangsbepalingen zijn van toepassing op:<br />1° de personeelsleden die ten laatste op 31 augustus 1990 op grond van de op deze datum geldende reglementering hetzij tot de stage toegelaten, hetzij vastbenoemd en als dusdanig erkend zijn, daar waar de erkenning bestaat, hetzij gelijkgesteld zijn met de vastbenoemde of definitief erkende personeelsleden;<br />2° de tijdelijke personeelsleden die behoudens de hiernavermelde verloven en afwezigheden vanaf 1 september 1987 ononderbroken in dienst waren in het kunstonderwijs met beperkt leerplan en sedertdien ononderbroken in dienst zijn gebleven in het onderwijs, het universitair onderwijs uitgezonderd, in een ambt van het bestuurs- en onderwijzend personeel, het opvoedend hulppersoneel, en als dusdanig bezoldigd zijn geweest door het Rijk of de Gemeenschap.<br /><br />Voor de toepassing van voormelde bepaling worden niet als dienstonderbreking beschouwd: de vakantieperioden, de loopbaanonderbreking, de militaire dienst, de periode van wederoproeping, de ziekte- of bevallingsverloven, de borstvoedingsverloven, de verloven van korte duur met behoud van wedde(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard, alsook de verloven zonder behoud van wedde(toelage) voor een maximum duur van zes werkdagen per schooljaar, alsmede een periode van ten hoogste dertig kalenderdagen per schooljaar. Voornoemde verloven en afwezigheden kunnen eveneens aanvangen op 1 september 1987.<br /><br />§ 2. De overgangsbepalingen gelden voor:<br />1° de in § 1 bedoelde personeelsleden voor het ambt, het vak of de specialiteit die zij uitoefenden op 1 juni 1990;<br />2° de in § 1, 1°, bedoelde personeelsleden, met dien verstande dat de voornoemde bepalingen niet alleen gelden voor het ambt, het vak en/of de specialiteit van het ambt dat zij op 1 juni 1990 effectief uitoefenden, maar eveneens voor het ambt, het vak en/of de specialiteit van het ambt waarvan zij titularis zijn gebleven;<br />3° de in § 1 bedoelde personeelsleden:<br />- die op basis van de reglementering van kracht vóór 1 september 1990 in het bezit waren van een vereist bekwaamheidsbewijs en geen vereist bekwaamheidsbewijs meer bezitten bij toepassing van dit besluit: zij worden geacht in het bezit te zijn van een vereist bekwaamheidsbewijs;<br />- die op basis van de reglementering van kracht vóór 1 september 1990 niet in het bezit waren van een vereist bekwaamheidsbewijs en geen vereist of voldoende geacht bekwaamheidsbewijs bezitten bij toepassing van dit besluit: zij worden geacht in het bezit te zijn van een voldoende geacht bekwaamheidsbewijs;<br />- die op grond van artikel 20 van het koninklijk besluit van 22 maart 1969 tot vaststelling van het statuut van de leden van het bestuurs- en onderwijzend personeel, van het opvoedend hulppersoneel, van het paramedisch personeel der inrichtingen voor kleuter-, lager-, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs van de Staat, alsmede der internaten die van deze inrichtingen afhangen en van de leden van de inspectiedienst die belast is met het toezicht op deze inrichtingen, drie jaar gefungeerd hebben: zij worden geacht in het bezit te zijn van een voldoende ge-acht bekwaamheidsbewijs.<br /><br />§ 3. De onder § 1 bedoelde personeelsleden, die houder zijn van een vereist of een voldoende geacht bekwaamheidsbewijs en titularis van een betrekking vermeld in onderstaande linkse kolom worden geacht houder te zijn van een vereist of voldoende geacht bekwaamheidsbewijs en zich in dezelfde administratieve toestand te bevinden voor de vakken vermeld in onderstaande rechtse kolom:<br />1° notenleer (lagere en middelbare graad)<br />- algemene muzikale vorming (lagere graad)<br />- samenzang<br />2° notenleer (hogere graad en graad van uitmuntendheid)<br />- algemene muzikale vorming (lagere graad en hogere graad)<br />- samenzang<br />- algemene muziekcultuur<br />- luisterpraktijk<br />3° alle instrumenten<br />- samenspel<br />4° instrument piano, orgel, gitaar, luit, harp, clavecimbel, accordeon en slagwerk<br />- begeleidingspraktijk<br />5° kamermuziek<br />- instrumentaal ensemble<br />6° zang<br />- koor<br />- vocaal ensemble<br />- stemvorming<br />7° lyrische kunst<br />- koor<br />- vocaal ensemble<br />- stemvorming<br />8° muziekgeschiedenis<br />- algemene muziekcultuur<br />- luisterpraktijk<br />9° harmonie<br />- algemene muziekcultuur<br />- algemene muziektheorie<br />- muziektheorie<br />- luisterpraktijk<br />10° dictie-voordracht<br />- algemene verbale vorming<br />- dramatische expressie<br />- algemene verbale vorming en dramatische expressie<br />- voordracht<br />- algemene inleiding op de repertoirestudie<br />- welsprekendheid<br />- repertoirestudie voordracht<br />- repertoirestudie welsprekendheid<br />- taalcultuur<br />- repertoirestudie woordkunst-drama <br />11° toneel<br />- algemene verbale vorming<br />- dramatische expressie<br />- algemene verbale vorming en dramatische expressie<br />- voordracht<br />- algemene inleiding op de repertoirestudie<br />- welsprekendheid<br />- repertoirestudie voordracht<br />- repertoirestudie welsprekendheid<br />- taalcultuur<br />- toneel<br />- repertoirestudie toneel<br />- repertoirestudie woordkunst-drama <br />12° literatuurgeschiedenis (letterkunde) en toneelgeschiedenis<br />- algemene inleiding op de repertoirestudie<br />- repertoirestudie voordracht<br />- repertoirestudie welsprekendheid<br />- repertoirestudie toneel<br />- repertoirestudie woordkunst <br />13° klassieke dans<br />- alle cursussen die in het lessenrooster van de studierichting dans zijn opgenomen<br />14° samenzang-koor <br /><br />§ 4. De onder § 1, 1°, bedoelde personeelsleden worden geacht houder te zijn van het bewijs van pedagogische bekwaamheid voor de vakken waarvoor ze het basisdiploma bezitten, behoudens voor de vakken algemene muzikale vorming en muziekgeschiedenis.
+§ 1. Overgangsbepalingen zijn van toepassing op:<br>
+1° de personeelsleden die ten laatste op 31 augustus 1990 op grond van de op deze datum geldende reglementering hetzij tot de stage toegelaten, hetzij vastbenoemd en als dusdanig erkend zijn, daar waar de erkenning bestaat, hetzij gelijkgesteld zijn met de vastbenoemde of definitief erkende personeelsleden;<br>
+2° de tijdelijke personeelsleden die behoudens de hiernavermelde verloven en afwezigheden vanaf 1 september 1987 ononderbroken in dienst waren in het kunstonderwijs met beperkt leerplan en sedertdien ononderbroken in dienst zijn gebleven in het onderwijs, het universitair onderwijs uitgezonderd, in een ambt van het bestuurs- en onderwijzend personeel, het opvoedend hulppersoneel, en als dusdanig bezoldigd zijn geweest door het Rijk of de Gemeenschap.<br>
+<br>
+Voor de toepassing van voormelde bepaling worden niet als dienstonderbreking beschouwd: de vakantieperioden, de loopbaanonderbreking en zorgkrediet, de militaire dienst, de periode van wederoproeping, de ziekte- of bevallingsverloven, de borstvoedingsverloven, de verloven van korte duur met behoud van wedde(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard, alsook de verloven zonder behoud van wedde(toelage) voor een maximum duur van zes werkdagen per schooljaar, alsmede een periode van ten hoogste dertig kalenderdagen per schooljaar. Voornoemde verloven en afwezigheden kunnen eveneens aanvangen op 1 september 1987.<br>
+<br>
+§ 2. De overgangsbepalingen gelden voor:<br>
+1° de in § 1 bedoelde personeelsleden voor het ambt, het vak of de specialiteit die zij uitoefenden op 1 juni 1990;<br>
+2° de in § 1, 1°, bedoelde personeelsleden, met dien verstande dat de voornoemde bepalingen niet alleen gelden voor het ambt, het vak en/of de specialiteit van het ambt dat zij op 1 juni 1990 effectief uitoefenden, maar eveneens voor het ambt, het vak en/of de specialiteit van het ambt waarvan zij titularis zijn gebleven;<br>
+3° de in § 1 bedoelde personeelsleden:<br>
+- die op basis van de reglementering van kracht vóór 1 september 1990 in het bezit waren van een vereist bekwaamheidsbewijs en geen vereist bekwaamheidsbewijs meer bezitten bij toepassing van dit besluit: zij worden geacht in het bezit te zijn van een vereist bekwaamheidsbewijs;<br>
+- die op basis van de reglementering van kracht vóór 1 september 1990 niet in het bezit waren van een vereist bekwaamheidsbewijs en geen vereist of voldoende geacht bekwaamheidsbewijs bezitten bij toepassing van dit besluit: zij worden geacht in het bezit te zijn van een voldoende geacht bekwaamheidsbewijs;<br>
+- die op grond van artikel 20 van het koninklijk besluit van 22 maart 1969 tot vaststelling van het statuut van de leden van het bestuurs- en onderwijzend personeel, van het opvoedend hulppersoneel, van het paramedisch personeel der inrichtingen voor kleuter-, lager-, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs van de Staat, alsmede der internaten die van deze inrichtingen afhangen en van de leden van de inspectiedienst die belast is met het toezicht op deze inrichtingen, drie jaar gefungeerd hebben: zij worden geacht in het bezit te zijn van een voldoende ge-acht bekwaamheidsbewijs.<br>
+<br>
+§ 3. De onder § 1 bedoelde personeelsleden, die houder zijn van een vereist of een voldoende geacht bekwaamheidsbewijs en titularis van een betrekking vermeld in onderstaande linkse kolom worden geacht houder te zijn van een vereist of voldoende geacht bekwaamheidsbewijs en zich in dezelfde administratieve toestand te bevinden voor de vakken vermeld in onderstaande rechtse kolom:<br>
+1° notenleer (lagere en middelbare graad)<br>
+- algemene muzikale vorming (lagere graad)<br>
+- samenzang<br>
+2° notenleer (hogere graad en graad van uitmuntendheid)<br>
+- algemene muzikale vorming (lagere graad en hogere graad)<br>
+- samenzang<br>
+- algemene muziekcultuur<br>
+- luisterpraktijk<br>
+3° alle instrumenten<br>
+- samenspel<br>
+4° instrument piano, orgel, gitaar, luit, harp, clavecimbel, accordeon en slagwerk<br>
+- begeleidingspraktijk<br>
+5° kamermuziek<br>
+- instrumentaal ensemble<br>
+6° zang<br>
+- koor<br>
+- vocaal ensemble<br>
+- stemvorming<br>
+7° lyrische kunst<br>
+- koor<br>
+- vocaal ensemble<br>
+- stemvorming<br>
+8° muziekgeschiedenis<br>
+- algemene muziekcultuur<br>
+- luisterpraktijk<br>
+9° harmonie<br>
+- algemene muziekcultuur<br>
+- algemene muziektheorie<br>
+- muziektheorie<br>
+- luisterpraktijk<br>
+10° dictie-voordracht<br>
+- algemene verbale vorming<br>
+- dramatische expressie<br>
+- algemene verbale vorming en dramatische expressie<br>
+- voordracht<br>
+- algemene inleiding op de repertoirestudie<br>
+- welsprekendheid<br>
+- repertoirestudie voordracht<br>
+- repertoirestudie welsprekendheid<br>
+- taalcultuur<br>
+- repertoirestudie woordkunst-drama<br>
+11° toneel<br>
+- algemene verbale vorming<br>
+- dramatische expressie<br>
+- algemene verbale vorming en dramatische expressie<br>
+- voordracht<br>
+- algemene inleiding op de repertoirestudie<br>
+- welsprekendheid<br>
+- repertoirestudie voordracht<br>
+- repertoirestudie welsprekendheid<br>
+- taalcultuur<br>
+- toneel<br>
+- repertoirestudie toneel<br>
+- repertoirestudie woordkunst-drama<br>
+12° literatuurgeschiedenis (letterkunde) en toneelgeschiedenis<br>
+- algemene inleiding op de repertoirestudie<br>
+- repertoirestudie voordracht<br>
+- repertoirestudie welsprekendheid<br>
+- repertoirestudie toneel<br>
+- repertoirestudie woordkunst<br>
+13° klassieke dans<br>
+- alle cursussen die in het lessenrooster van de studierichting dans zijn opgenomen<br>
+14° samenzang-koor<br>
+<br>
+§ 4. De onder § 1, 1°, bedoelde personeelsleden worden geacht houder te zijn van het bewijs van pedagogische bekwaamheid voor de vakken waarvoor ze het basisdiploma bezitten, behoudens voor de vakken algemene muzikale vorming en muziekgeschiedenis.
 
 ### ART. 15.
 
@@ -259,11 +338,55 @@ Voor de toepassing van de overgangsbepalingen van artikel 14, 15 en 15bis worden
 
 ### ART. 15quinquies.
 
-§ 1. Het personeelslid dat in een instelling voor deeltijds kunstonderwijs in de schooljaren 2007-2008 en 2008-2009 aangesteld was in een erkend tijdelijk project volksmuziek en dat op basis van de voor het tijdelijke project geldende voorwaarden een voldoende geacht bekwaamheidsbewijs had en geen vereist of voldoende geacht bekwaamheidsbewijs meer bezit bij de toepassing van dit besluit, wordt voor de rechtspositie en de bezoldiging bij overgangsmaatregel beschouwd een voldoende geacht bekwaamheidsbewijs te hebben. Die overgangsregeling geldt voor het ambt van leraar in het vak en de specialiteit waarvoor het personeelslid aangesteld was in het schooljaar 2008-2009.<br /><br />§ 2. Voor het personeelslid, vermeld in paragraaf 1, blijft de overgangsregeling gelden zolang hij als vastbenoemd personeelslid in dienst blijft in het onderwijs, het academisch onderwijs uitgezonderd, of als tijdelijk personeelslid ononderbroken in dienst blijft in het onderwijs, het academisch onderwijs uitgezonderd, en gefinancierd of gesubsidieerd wordt door de Vlaamse Gemeenschap. <br /><br />Voor de toepassing van deze bepaling worden de volgende perioden niet als een onderbreking beschouwd : <br />1°de vakantieperioden; <br />2° de loopbaanonderbreking; <br />3° de militaire dienst; <br />4° de perioden van wederoproeping;<br />5° de ziekte- en bevallingsverloven; <br />6° de onbezoldigde ouderschapsverloven; <br />7° de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming; <br />8° de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard; <br />9° de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar; <br />10° een onderbreking voor een doorlopende periode van maximaal twee kalenderjaren.<br /><br />§ 3. Voor de personeelsleden die onder de toepassing van paragraaf 1 vallen, zijn de bepalingen van artikel 9 van het koninklijk besluit van 10 maart 1965 houdende bezoldigingsregeling van het personeel der leergangen met beperkt leerplan afhangend van het Ministerie van Nationale Opvoeding en Cultuur niet van toepassing op de bekwaamheidsbewijzen en salarisschalen.
+§ 1. Het personeelslid dat in een instelling voor deeltijds kunstonderwijs in de schooljaren 2007-2008 en 2008-2009 aangesteld was in een erkend tijdelijk project volksmuziek en dat op basis van de voor het tijdelijke project geldende voorwaarden een voldoende geacht bekwaamheidsbewijs had en geen vereist of voldoende geacht bekwaamheidsbewijs meer bezit bij de toepassing van dit besluit, wordt voor de rechtspositie en de bezoldiging bij overgangsmaatregel beschouwd een voldoende geacht bekwaamheidsbewijs te hebben. Die overgangsregeling geldt voor het ambt van leraar in het vak en de specialiteit waarvoor het personeelslid aangesteld was in het schooljaar 2008-2009.<br>
+<br>
+§ 2. Voor het personeelslid, vermeld in paragraaf 1, blijft de overgangsregeling gelden zolang hij als vastbenoemd personeelslid in dienst blijft in het onderwijs, het academisch onderwijs uitgezonderd, of als tijdelijk personeelslid ononderbroken in dienst blijft in het onderwijs, het academisch onderwijs uitgezonderd, en gefinancierd of gesubsidieerd wordt door de Vlaamse Gemeenschap.<br>
+<br>
+Voor de toepassing van deze bepaling worden de volgende perioden niet als een onderbreking beschouwd :<br>
+1°de vakantieperioden;<br>
+2° de loopbaanonderbreking en zorgkrediet;<br>
+3° de militaire dienst;<br>
+4° de perioden van wederoproeping;<br>
+5° de ziekte- en bevallingsverloven;<br>
+6° de onbezoldigde ouderschapsverloven;<br>
+7° de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming;<br>
+8° de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard;<br>
+9° de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar;<br>
+10° een onderbreking voor een doorlopende periode van maximaal twee kalenderjaren.<br>
+<br>
+§ 3. Voor de personeelsleden die onder de toepassing van paragraaf 1 vallen, zijn de bepalingen van artikel 9 van het koninklijk besluit van 10 maart 1965 houdende bezoldigingsregeling van het personeel der leergangen met beperkt leerplan afhangend van het Ministerie van Nationale Opvoeding en Cultuur niet van toepassing op de bekwaamheidsbewijzen en salarisschalen.
 
 ### ART. 15sexies.
 
-&nbsp;§ 1. Er worden overgangsmaatregelen toegekend aan de personeelsleden   die in het bezit zijn van een van de volgende diploma's of getuigschriften   :<BR>1° het diploma van de voortgezette lerarenopleiding zorgverbreding en   remediërend leren;<BR>2° het diploma van bachelor in het onderwijs :   zorgverbreding en remediërend leren;<BR>3° het diploma van de voortgezette   studie van geaggregeerde voor het buitengewoon onderwijs;<BR>4° het diploma van   de voortgezette studie van geaggregeerde voor het buitengewoon onderwijs en   remedial teaching;<BR>5° het diploma van de voortgezette studie van remedial   teacher;<BR>6° het diploma van de voortgezette lerarenopleiding buitengewoon   onderwijs;<BR>7° het diploma van bachelor in het onderwijs : buitengewoon   onderwijs;<BR>8° het bekwaamheidsgetuigschrift tot het geven van buitengewoon   onderwijs.<BR><BR>Zij moeten aan een van de volgende voorwaarden voldoen :<BR>1°   uiterlijk op 31 augustus 2013 vastbenoemd zijn;<BR>2° tijdens de schooljaren   2010-2011, 2011-2012 of 2012-2013 tijdelijk aangesteld of tijdelijk belast   geweest zijn met een opdracht in het onderwijs, met uitzondering van de   hogescholen en universiteiten.<BR><BR>§ 2. De personeelsleden, vermeld in   paragraaf 1, die op basis van de reglementering die van kracht was voor 1   september 2013 in het bezit waren van een bewijs van pedagogische bekwaamheid en   vanaf 1 september 2013 krachtens de gewijzigde reglementering geen bewijs van   pedagogische bekwaamheid meer hebben, worden geacht alsnog over een bewijs van   pedagogische bekwaamheid te beschikken.<BR><BR>§ 3. De overgangsmaatregel,   vermeld in paragraaf 2, wordt toegekend op 1 september 2013, rekening houdend   met de onderstaande bepalingen :<BR>1° voor de personeelsleden, vermeld in   paragraaf 1, tweede lid, 1°, blijven de overgangsmaatregelen gelden, zolang ze   in dienst blijven in het onderwijs, met uitzondering van de hogescholen en   universiteiten;<BR>2° voor de personeelsleden, vermeld in paragraaf 1, tweede   lid, 2°, blijven de overgangsmaatregelen gelden, zolang zij ononderbroken in   dienst blijven in het onderwijs, met uitzondering van de hogescholen en   universiteiten, en gefinancierd of gesubsidieerd worden door de Vlaamse   Gemeenschap. De volgende perioden worden daarbij niet als een onderbreking   beschouwd :<BR>a) de vakantieperioden;<BR>b) de loopbaanonderbreking;<BR>c) de   militaire dienst;<BR>d) de perioden van wederoproeping;<BR>e) de ziekte- en   bevallingsverloven;<BR>f) de onbezoldigde ouderschapsverloven; <BR>g) de   perioden van verwijdering uit een risico in het kader van bedreiging door een   beroepsziekte of moederschapsbescherming;<BR>h) de verloven van korte duur met   behoud van salaris of salaristoelage ter gelegenheid van sommige gebeurtenissen   van familiale of sociale aard;<BR>i) de verloven zonder behoud van salaris of   salaristoelage voor een maximumduur van zes werkdagen per schooljaar;<BR>j) een   onderbreking van een doorlopende periode van maximaal twee   kalenderjaren.
+&nbsp;§ 1. Er worden overgangsmaatregelen toegekend aan de personeelsleden die in het bezit zijn van een van de volgende diploma's of getuigschriften :<br>
+1° het diploma van de voortgezette lerarenopleiding zorgverbreding en remediërend leren;<br>
+2° het diploma van bachelor in het onderwijs : zorgverbreding en remediërend leren;<br>
+3° het diploma van de voortgezette studie van geaggregeerde voor het buitengewoon onderwijs;<br>
+4° het diploma van de voortgezette studie van geaggregeerde voor het buitengewoon onderwijs en remedial teaching;<br>
+5° het diploma van de voortgezette studie van remedial teacher;<br>
+6° het diploma van de voortgezette lerarenopleiding buitengewoon onderwijs;<br>
+7° het diploma van bachelor in het onderwijs : buitengewoon onderwijs;<br>
+8° het bekwaamheidsgetuigschrift tot het geven van buitengewoon onderwijs.<br>
+<br>
+Zij moeten aan een van de volgende voorwaarden voldoen :<br>
+1° uiterlijk op 31 augustus 2013 vastbenoemd zijn;<br>
+2° tijdens de schooljaren 2010-2011, 2011-2012 of 2012-2013 tijdelijk aangesteld of tijdelijk belast geweest zijn met een opdracht in het onderwijs, met uitzondering van de hogescholen en universiteiten.<br>
+<br>
+§ 2. De personeelsleden, vermeld in paragraaf 1, die op basis van de reglementering die van kracht was voor 1 september 2013 in het bezit waren van een bewijs van pedagogische bekwaamheid en vanaf 1 september 2013 krachtens de gewijzigde reglementering geen bewijs van pedagogische bekwaamheid meer hebben, worden geacht alsnog over een bewijs van pedagogische bekwaamheid te beschikken.<br>
+<br>
+§ 3. De overgangsmaatregel, vermeld in paragraaf 2, wordt toegekend op 1 september 2013, rekening houdend met de onderstaande bepalingen :<br>
+1° voor de personeelsleden, vermeld in paragraaf 1, tweede lid, 1°, blijven de overgangsmaatregelen gelden, zolang ze in dienst blijven in het onderwijs, met uitzondering van de hogescholen en universiteiten;<br>
+2° voor de personeelsleden, vermeld in paragraaf 1, tweede lid, 2°, blijven de overgangsmaatregelen gelden, zolang zij ononderbroken in dienst blijven in het onderwijs, met uitzondering van de hogescholen en universiteiten, en gefinancierd of gesubsidieerd worden door de Vlaamse Gemeenschap. De volgende perioden worden daarbij niet als een onderbreking beschouwd :<br>
+a) de vakantieperioden;<br>
+b) de loopbaanonderbreking en zorgkrediet;<br>
+c) de militaire dienst;<br>
+d) de perioden van wederoproeping;<br>
+e) de ziekte- en bevallingsverloven;<br>
+f) de onbezoldigde ouderschapsverloven;<br>
+g) de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming;<br>
+h) de verloven van korte duur met behoud van salaris of salaristoelage ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard;<br>
+i) de verloven zonder behoud van salaris of salaristoelage voor een maximumduur van zes werkdagen per schooljaar;<br>
+j) een onderbreking van een doorlopende periode van maximaal twee kalenderjaren.
 
 ### ART. 16.
 
