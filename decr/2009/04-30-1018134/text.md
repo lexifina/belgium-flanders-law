@@ -234,6 +234,10 @@ De bevoegde dienst van de Vlaamse Regering formuleert een erkenningsadvies. Het 
 
 De bevoegde dienst van de Vlaamse Regering registreert de erkende beroepskwalificatie met de daarin vervatte competenties in een kwalificatiedatabank.<br /><br />
 
+### ART 13/1.
+
+De Vlaamse Regering bepaalt een verkorte procedure voor het actualiseren of schrappen van een beroepskwalificatie.
+
 ## Afdeling II Procedure voor de erkenning van onderwijskwalificaties van niveau één tot en met [vier (verv. decr. 23 december 2016, art. 49, I: 1 februari 2017)]
 
 ### ART. 14.
