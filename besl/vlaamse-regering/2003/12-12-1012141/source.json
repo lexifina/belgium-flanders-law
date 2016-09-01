@@ -2,16 +2,16 @@
   "codex_id": 1012141,
   "title": "Besluit van de Vlaamse Regering van 2003-12-12 betreffende de [inclusie] van leerlingen met een verstandelijke [beperking] in het gewoon lager en secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012141/VolledigDocument?datum=2015-09-01",
-  "source_sha256": "779cfb355e8ad4ac85fcf22eab3d937887b9a04f646a90d2b8af8bb2f2e9308c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012141/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "855efa1774248ddb47bc4608dfec2b3e8fb3dc9d3df25490e158f75eec3eb08d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012141&param=informatie",
-  "as_of": "2015-09-01",
+  "as_of": "2016-09-01",
   "made": "2003-12-12",
   "gazette": "2004-03-02",
   "numac": 2004035307,
   "document_start": "2002-09-01",
   "document_end": "2016-09-01",
-  "in_force": "2015-09-01",
+  "in_force": "2016-09-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
 }
