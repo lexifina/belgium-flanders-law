@@ -30,6 +30,10 @@ De directeur en leerkrachten motiveren de afwijkingen in functie van de leerwins
 
 Artikel 26quater van het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichting `Beeldende kunst' wordt opgeheven.
 
+### ART IV.3.
+
+In artikel IV.8 van het decreet van 17 juni 2016 betreffende het onderwijs XXVI wordt in het derde streepje de zinsnede "artikel 26ter en artikel 26quater" vervangen door de zinsnede "en artikel 26ter".
+
 ### ART IV.4.
 
 Dit hoofdstuk treedt in werking op 1 september 2015<br>
@@ -94,6 +98,18 @@ In artikel II.378, § 2, van dezelfde codex wordt de zinsnede "artikel II.140, �
 ## Afdeling 6 Besluit van de Vlaamse Regering tot vaststelling van de bij decreet te bekrachtigen decretale specifieke eindtermen `topsport', algemeen en technisch secundair onderwijs
 
 ## Afdeling 7 Decreet betreffende de studiefinanciering
+
+### ART IX.10.
+
+&nbsp;In artikel 9, § 2, van hetzelfde decreet, gewijzigd bij het decreet van 8 mei 2009, wordt punt 6° vervangen door wat volgt :<br>
+"6° leerlingen of studenten met een buitenlandse nationaliteit die toegelaten zijn tot een verblijf van bepaalde duur in België op basis van de artikelen 49, § 1, of 49/2, § 1, van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;".
+
+### ART IX.11.
+
+In artikel 23 van hetzelfde decreet, gewijzigd met het decreet van 4 juli 2008 en van 1 juli 2011, wordt een paragraaf 4 toegevoegd, die luidt als volgt :<br>
+" § 4. In afwijking van § 3 is de student die vanaf het academiejaar 2016-2017 ingeschreven is voor de opleiding verpleegkunde van 240 studiepunten, studietoelagegerechtigd voor het behalen van zijn eerste bachelordiploma totdat hij maximaal 300 studiepunten verworven heeft voor het volgen van bacheloropleidingen.<br>
+<br>
+In afwijking van § 3 is de student die reeds een bachelordiploma behaald heeft en vanaf het academiejaar 2016-2017 is ingeschreven voor de opleiding verpleegkunde van 240 studiepunten, studietoelagegerechtigd voor het behalen van zijn tweede bachelordiploma totdat hij in totaal maximaal 480 studiepunten verworven heeft voor het volgen van bacheloropleidingen.".
 
 ## Afdeling 8 Decreet houdende oprichting van onderhandelingscomités voor de basiseducatie en voor het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs
 
