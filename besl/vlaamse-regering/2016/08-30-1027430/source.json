@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027430,
+  "title": "Besluit van de Vlaamse Regering van 2016-08-30 tot wijziging van artikel 11ter, 11sexies en 11novies van het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de organisatie van het opleidingsaanbod in het volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027430/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "b4d54863f77d632de3c22b41c0182737e93bc86c16b4a1fa19a3932faadcb802",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027430&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-08-30",
+  "gazette": "2016-09-23",
+  "numac": 2016036381,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
