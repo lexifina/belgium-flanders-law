@@ -37,7 +37,7 @@ Als het besluit van de burgemeester waarbij een woning ongeschikt of onbewoonbaa
 
 ### ART. 3.
 
-De leidend ambtenaar van het intern verzelfstandigd agentschap Wonen-Vlaanderen kan, met instemming van de leidend ambtenaar van het intern verzelfstandigd agentschap Inspectie RWO, een of meer wooninspecteurs, aangewezen overeenkomstig artikel 7, § 3, 1°, van het besluit van de Vlaamse Regering van 10 november 2005 tot oprichting van het intern verzelfstandigd agentschap Inspectie RWO, de bevoegdheid geven om :<br />1° advies over ongeschiktheid, onbewoonbaarheid of overbewoning te verlenen aan de burgemeester overeenkomstig artikel 15, § 1, eerste lid, en artikel 17, eerste lid, van de Vlaamse Wooncode;<br />2° conformiteitsattesten in te trekken overeenkomstig artikel 15 van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers en overeenkomstig artikel 12 van de Vlaamse Wooncode.<br /><br />
+...
 
 ### ART. 4.
 
