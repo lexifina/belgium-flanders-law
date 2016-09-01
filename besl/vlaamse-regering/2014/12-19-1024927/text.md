@@ -85,6 +85,7 @@ a) het Departement Kanselarij en Bestuur, met uitzondering van:<br>
 b) het Departement Ruimte Vlaanderen :<br>
 de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het onroerend-erfgoedbeleid;<br>
 c) het Departement internationaal Vlaanderen, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen ter uitvoering van het decreet van 10 juli 2008 betreffende de toeristische logies.<br>
+d) het Departement Leefmilieu, Natuur en Energie : de personeelsleden die alleen of hoofdzakelijk taken uitvoeren in het kader van de handhaving met betrekking tot onroerend erfgoed;<br>
 2. De viceminister-president van de Vlaamse Regering en Vlaams minister van Onderwijs is, wat het specifieke personeelsbeleid betreft, bevoegd voor:<br>
 a) het Departement Onderwijs en Vorming.<br>
 3. De viceminister-president van de Vlaamse Regering en Vlaams minister van Begroting, Financiën en Energie is, wat het specifieke personeelsbeleid betreft, bevoegd voor:<br>
@@ -110,7 +111,10 @@ a) het Departement Welzijn, Volksgezondheid en Gezin.<br>
 7. De Vlaamse minister van Werk, Economie, Innovatie en Sport is, wat het specifieke personeelsbeleid betreft, bevoegd voor : het Departement Economie, Wetenschap en Innovatie.<br>
 8. De Vlaamse minister van Omgeving, Natuur en Landbouw is, wat het specifieke personeelsbeleid betreft, bevoegd voor:<br>
 a) het Departement Landbouw en Visserij;<br>
-b) het Departement Leefmilieu, Natuur en Energie, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het energiebeleid of het dierenwelzijn;<br>
+b) het Departement Leefmilieu, Natuur en Energie, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van :<br>
+1) het energiebeleid;<br>
+2) het dierenwelzijn;<br>
+3) de handhaving met betrekking tot onroerend erfgoed;<br>
 c) het Departement Ruimte Vlaanderen, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het onroerend-erfgoedbeleid en het woonbeleid.<br>
 9. De Vlaamse minister van Cultuur, Media, Jeugd en Brussel is, wat het specifieke personeelsbeleid betreft, bevoegd voor : het Departement Cultuur, Jeugd, Sport en Media.<br>
 10. De minister-president van de Vlaamse Regering, Vlaams minister van Buitenlands Beleid en Onroerend Erfgoed en de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn zijn, wat het specifieke personeelsbeleid betreft, bevoegd voor:<br>
