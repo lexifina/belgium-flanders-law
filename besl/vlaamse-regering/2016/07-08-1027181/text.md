@@ -53,7 +53,29 @@ decreet van 10 juni 2016 : het decreet van 10 juni 2016 tot regeling van bepaald
 
 ## HOOFDSTUK 2 Model van de stageovereenkomst alternerende opleiding en model van de overeenkomst van alternerende opleiding
 
+### ART 2.
+
+Het model van de stageovereenkomst alternerende opleiding en het model van de overeenkomst van alternerende opleiding, vermeld in artikel 3 van het decreet van 10 juni 2016, zijn opgenomen in bijlage 1 en 2 die bij dit besluit zijn gevoegd.<br>
+&nbsp;
+
 ## HOOFDSTUK 3 Voorwaarden voor de onderneming
+
+### ART 3.
+
+De onderneming en eventueel het sectoraal partnerschap of bij afwezigheid van een sectoraal partnerschap het Vlaams Partnerschap Duaal Leren, nemen de nodige initiatieven voor de professionalisering van de mentor.
+
+### ART 4.
+
+In dit artikel wordt verstaan onder jongere elke jongere die in de onderneming een alternerende opleiding als vermeld in artikel 2, 2°, van het decreet van 10 juni 2016 volgt.<br>
+<br>
+Per vestigingsplaats mag het aantal jongeren in opleiding niet meer bedragen dan het aantal werknemers verbonden door een arbeidsovereenkomst.<br>
+<br>
+Met behoud van de toepassing van het vierde en vijfde lid, kan een onderneming die geen werknemers met een arbeidsovereenkomst in dienst heeft, gelijktijdig één jongere opleiden.<br>
+<br>
+Het sectoraal partnerschap kan het maximumaantal jongeren bepalen dat per mentor gelijktijdig kan worden opgeleid in de sector in kwestie.<br>
+<br>
+In de sectoren waar geen maximumaantal jongeren per mentor is bepaald door een sectoraal partnerschap, kan het Vlaams Partnerschap Duaal Leren het maximumaantal jongeren bepalen dat per mentor kan worden opgeleid.<br>
+&nbsp;
 
 ### ART 5.
 
@@ -86,12 +108,124 @@ Als de beslissing tot de niet-erkenning, de opheffing van de erkenning of de uit
 
 ## Afdeling 2 Beroep tegen de beëindiging van de overeenkomst van alternerende opleiding of de stageovereenkomst alternerende opleiding
 
+### ART 8.
+
+Met toepassing van artikel 26, § 3, derde lid en artikel 28 van het decreet van 10 juni 2016 wordt het beroep ingesteld binnen een termijn van tien dagen na ontvangst van de kennisgeving van de beëindiging van de overeenkomst met een aangetekende brief. Die aangetekende brief is gericht aan de voorzitter van het Vlaams Partnerschap Duaal Leren en bevat als bijlage een afschrift van de kennisgeving van de beëindiging.<br>
+<br>
+Het Vlaams Partnerschap spreekt zich binnen zestig dagen na de verzending van de brief, vermeld in het eerste lid, uit over de gegrondheid van de reden tot beëindiging van de overeenkomst. Daarbij hoort het Vlaams Partnerschap Duaal Leren de partijen die bij de overeenkomst betrokken zijn. De partijen kunnen zich hierbij laten bijstaan.<br>
+<br>
+De onderneming stelt de leerling in staat om aanwezig te zijn op de vergadering van het Vlaams Partnerschap Duaal Leren waarop de partijen conform het tweede lid gehoord worden.<br>
+&nbsp;
+
 ## HOOFDSTUK 5 Vergoeding van de overeenkomst van alternerende opleiding
 
+### ART 9.
+
+De onderneming, verbonden door een overeenkomst van alternerende opleiding, is aan de leerling een leervergoeding verschuldigd.<br>
+<br>
+De leervergoeding bedraagt het volgende percentage van het nationaal gewaarborgd gemiddeld minimum maandinkomen zoals bepaald voor werknemers van achttien jaar bij collectieve arbeidsovereenkomst, gesloten in de Nationale Arbeidsraad :<br>
+1° 29 % tijdens het eerste opleidingsjaar van een alternerende opleiding;<br>
+2° 32 % als de leerling een van de volgende jaren of graden met succes heeft beëindigd :<br>
+a) het eerste opleidingsjaar van een alternerende opleiding;<br>
+b) de tweede graad van het secundair onderwijs;<br>
+3° 34,50 % als de leerling een van de volgende jaren, kwalificatiefases of opleidingen met succes heeft beëindigd :<br>
+a) het tweede opleidingsjaar van een alternerende opleiding;<br>
+b) het eerste jaar van de derde graad van het secundair onderwijs;<br>
+c) de kwalificatiefase van het buitengewoon secundair onderwijs (opleidingsvorm 3);<br>
+<br>
+Een leerling wordt geacht het opleidingsjaar met succes te hebben beëindigd als hij op basis van de competenties, verworven tijdens dat opleidingsjaar, studievoortgang kan maken.<br>
+<br>
+De verhoging van de leervergoeding vangt aan bij de start van het volgende opleidingsjaar, op 1 september.<br>
+<br>
+Het bedrag van de maandelijkse leervergoeding vastgesteld conform het tweede lid, wordt afgerond naar het hogere veelvoud van 10 cent.<br>
+&nbsp;
+
+### ART 10.
+
+De leervergoeding is niet hoger dan het bedrag dat een leerling maximaal mag verdienen om recht te hebben op een uitkering in het kader van de wetgeving op de kinderbijslagen.<br>
+&nbsp;
+
+### ART 11.
+
+De onderneming betaalt de leervergoeding aan de leerling, tenzij er verzet is door de wettelijke vertegenwoordiger van de minderjarige leerling.<br>
+<br>
+Bij verzet van de wettelijke vertegenwoordiger betaalt de onderneming de leervergoeding aan de wettelijke vertegenwoordiger.<br>
+&nbsp;
+
 ## HOOFDSTUK 6 Huishoudelijk Reglement van het Vlaams Partnerschap Duaal Leren
+
+### ART 12.
+
+De Vlaamse minister, bevoegd voor onderwijs, en de Vlaamse minister, bevoegd voor werk, keuren gezamenlijk het huishoudelijk reglement van het Vlaams Partnerschap Duaal Leren goed.
 
 ## [HOOFDSTUK 6/1 Schorsing van de uitvoering van de overeenkomst wegens vakantie (ing. BVR 3 mei 2019, art. 3, I: 1 september 2019)]
 
 ## HOOFDSTUK 7 Wijzigingsbepalingen
 
+### ART 13.
+
+In artikel 18 van het koninklijk besluit van 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen van de sociale zekerheidsbijdragen, vervangen bij het koninklijk besluit van 29 maart 2006 en gewijzigd bij de koninklijke besluiten van 3 februari 2010, 2 april 2010 en 24 januari 2013 en het besluit van de Vlaamse Regering van 10 juni 2016, wordt paragraaf 1 vervangen door wat volgt :<br>
+<br>
+§ 1. De doelgroepvermindering voor de tewerkstelling tijdens de opleiding van jongeren bestaat uit een forfaitaire vermindering van G1 per kwartaal tijdens de duur van hun tewerkstelling.<br>
+<br>
+In het eerste lid wordt verstaan onder jongeren :<br>
+1° de jongeren, vermeld in artikel 1bis van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;<br>
+2° de jongeren, tewerkgesteld met een arbeidsovereenkomst als vermeld in artikel 3, derde lid van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen.<br>
+<br>
+Na afloop van de opleiding van de jongere, vermeld in het eerste lid, kan de werkgever een beroep doen op de doelgroepvermindering voor jonge werknemers, vermeld in paragraaf 2 of 3.".<br>
+&nbsp;
+
+### ART 14.
+
+In artikel 20 van hetzelfde koninklijk besluit, vervangen bij het koninklijk besluit van 21 januari 2004 en gewijzigd bij de koninklijke besluiten van 2 april 2010 en 24 januari 2013 en het besluit van de Vlaamse Regering van 10 juni 2016, wordt de zinsnede "artikel 18" telkens vervangen door de zinsnede "artikel 18, § 1, tweede lid, 2° ".<br>
+&nbsp;
+
+### ART 15.
+
+In artikel 2 van het besluit van de Vlaamse Regering van 16 september 2005 tot vaststelling van de voorwaarden waartegen beroepsinlevingsovereenkomsten kunnen worden afgesloten door sommige rechtspersonen wordt een tweede lid toegevoegd dat luidt als volgt :<br>
+"De alternerende opleiding vermeld in artikel 2, 2° van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen, komt niet in aanmerking als opleiding in alternerend leren vermeld in het eerste lid.".<br>
+&nbsp;
+
+### ART 16.
+
+In artikel 1 van het koninklijk besluit van 1 september 2006 betreffende de start- en stagebonus wordt punt 4° vervangen door wat volgt :<br>
+<br>
+4° opleidingsovereenkomst :<br>
+a) een leerovereenkomst, gesloten met toepassing van de wet van 19 juli 1983 op het leerlingwezen voor beroepen uitgeoefend door werknemers in loondienst;<br>
+b) een leerovereenkomst, gesloten met toepassing van de regelgeving betreffende de voortdurende vorming in de Middenstand;<br>
+c) een overeenkomst van alternerende opleiding als vermeld in artikel 3, eerste lid, 1°, van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen;<br>
+d) een opleidingsovereenkomst als vermeld in artikel 20ter van het besluit van de Vlaamse Regering van 24 oktober 2008 houdende uitvoering van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap;<br>
+e) een beroepsinlevingsovereenkomst als vermeld in titel IV, hoofdstuk X, van de programmawet van 2 augustus 2002.".<br>
+&nbsp;
+
 ## HOOFDSTUK 8 Slotbepalingen
+
+### ART 17.
+
+Het besluit van de Vlaamse Regering van 2 september 2005 tot vaststelling van de voorwaarden waartegen beroepsinlevingsovereenkomsten kunnen worden afgesloten bij haar diensten wordt opgeheven.
+
+### ART 18.
+
+Het besluit van de Vlaamse Regering van 2 september 2005 tot vaststelling van de voorwaarden waartegen beroepsinlevingsovereenkomsten kunnen worden afgesloten bij haar diensten en het besluit van de Vlaamse Regering van 16 september 2005 tot vaststelling van de voorwaarden waartegen beroepsinlevingsovereenkomsten kunnen worden afgesloten door sommige rechtspersonen, zoals van kracht vóór de inwerkingtreding van dit besluit, blijven van toepassing op de overeenkomsten die met toepassing van de voormelde besluiten zijn gesloten vóór 1 september 2016 en tot hun einddatum. Op die overeenkomsten zijn de bepalingen van dit besluit niet van toepassing.<br>
+&nbsp;
+
+### ART 19.
+
+Dit besluit treedt in werking op 1 september 2016 met uitzondering van artikel 1, 5, 6 en 7 die in werking treden op 1 juli 2016.
+
+### ART 20.
+
+De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd voor werk, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.<br>
+&nbsp;
+
+### BIJLAGE
+
+Model van een overeenkomst van alternerende opleiding<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=136">http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=136</a>
+
+### BIJLAGE
+
+Model van stageovereenkomst<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=141">http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=141</a>
