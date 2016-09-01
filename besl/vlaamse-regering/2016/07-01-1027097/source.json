@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027097,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-01 betreffende de toekenning van subsidies voor de tewerkstelling in een gewezen DAC-statuut van personeelsleden in de gesubsidieerde vrije [onderwijsinternaten]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027097/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "a1a4ec2855a2d874891b7200efd7b04ac6a6544fc14c0dbfd36089a1884a5d6c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027097&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-07-01",
+  "gazette": "2016-08-04",
+  "numac": 2016036187,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
