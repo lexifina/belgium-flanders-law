@@ -30,6 +30,20 @@
 
 ## HOOFDSTUK 15. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
+### ART 86.
+
+In artikel II.3 van de Codex Hoger Onderwijs van 11 oktober 2013, het laatst gewijzigd door het decreet van 19 juni 2015, wordt punt 11° vervangen door wat volgt:<br>
+<br>
+"11° de "Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen";".
+
+### ART 87.
+
+In artikel II.93 van dezelfde codex wordt de zinsnede "Karel de GroteHogeschool - Katholieke Hogeschool Antwerpen" vervangen door de zinsnede "Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen".
+
+### ART 91.
+
+In artikel III.24, § 2, van dezelfde codex worden de woorden "Karel de Grote-Hogeschool KH Antwerpen" vervangen door de zinsnede "Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen".
+
 ### ART 92.
 
 In artikel III.34 van dezelfde codex, het laatst gewijzigd bij het decreet van 8 december 2017, worden de volgende wijzigingen aangebracht:<br>
@@ -39,6 +53,10 @@ In artikel III.34 van dezelfde codex, het laatst gewijzigd bij het decreet van 8
 2° er wordt een paragraaf 8 toegevoegd die luidt als volgt:<br>
 <br>
 " § 8. Vanaf het begrotingsjaar 2017 kent de Vlaamse Regering jaarlijks binnen de beschikbare budgetten een compensatie toe aan de publiekrechtelijke hogescholen voor de meerkost van de toekenning van het gewaarborgd maandloon uit het bediendenstatuut aan hun arbeiders, zoals voorzien in het kader van cao III van 10 december 2010.".
+
+### ART 93.
+
+In artikel III.46, § 3, van dezelfde codex, het laatst gewijzigd bij het decreet van 8 december 2017, wordt de zinsnede "Karel de Grote Hogeschool - Katholieke Hogeschool Antwerpen" vervangen door de zinsnede "Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen".
 
 ### ART 117.
 
