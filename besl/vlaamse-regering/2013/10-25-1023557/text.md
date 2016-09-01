@@ -60,7 +60,19 @@ Dit besluit wordt aangehaald als het Procedurebesluit   Wonen.<BR>
 
 ### ART. 5.
 
-<P>De VMSW stelt een digitaal projectplatform ter beschikking, het   Projectportaal genaamd. Het Projectportaal heeft de volgende doelstellingen   :<BR>1° de interactie tussen de VMSW, Wonen-Vlaanderen en de initiatiefnemers   van projecten;<BR>2° de aanmelding van projecten en de projectopvolging;<BR>3°   de opvolging van de programmatie.<BR></P>  <P>De volgende instanties hebben toegang tot het Projectportaal :<BR>1° de   initiatiefnemers, voor de projecten die ze hebben aangemeld;<BR>2° de gemeenten,   voor de projecten op hun grondgebied;<BR>3° Wonen-Vlaanderen;<BR>4° de afdeling   Toezicht van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid   Inspectie RWO;<BR>5° de visitatieraad, vermeld in artikel 22 van het besluit van   de Vlaamse Regering van 22 oktober 2010 tot vaststelling van de aanvullende   voorwaarden en de procedure voor de erkenning als sociale   huisvestingsmaatschappij en tot vaststelling van de procedure voor de   beoordeling van de prestaties van sociale huisvestingsmaatschappijen.<BR></P>  <P>De VMSW staat in voor het digitale beheer van het Projectportaal. De   initiatiefnemers staan in voor de actualisatie van het geheel van de projecten   die worden aangemeld overeenkomstig artikel 6, en de verrichtingen die eraan   verbonden zijn.<BR></P>
+<p>De VMSW stelt een digitaal projectplatform ter beschikking, het Projectportaal genaamd. Het Projectportaal heeft de volgende doelstellingen :<br>
+1° de interactie tussen de VMSW, Wonen-Vlaanderen en de initiatiefnemers van projecten;<br>
+2° de aanmelding van projecten en de projectopvolging;<br>
+3° de opvolging van de programmatie.</p>
+
+<p>De volgende instanties hebben toegang tot het Projectportaal :<br>
+1° de initiatiefnemers, voor de projecten die ze hebben aangemeld;<br>
+2° de gemeenten, voor de projecten op hun grondgebied;<br>
+3° Wonen-Vlaanderen;<br>
+4° ...;<br>
+5° de visitatieraad, vermeld in artikel 22 van het besluit van de Vlaamse Regering van 22 oktober 2010 tot vaststelling van de aanvullende voorwaarden en de procedure voor de erkenning als sociale huisvestingsmaatschappij en tot vaststelling van de procedure voor de beoordeling van de prestaties van sociale huisvestingsmaatschappijen.</p>
+
+<p>De VMSW staat in voor het digitale beheer van het Projectportaal. De initiatiefnemers staan in voor de actualisatie van het geheel van de projecten die worden aangemeld overeenkomstig artikel 6, en de verrichtingen die eraan verbonden zijn.</p>
 
 ### ART. 6.
 
