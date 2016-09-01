@@ -2,16 +2,16 @@
   "codex_id": 1016899,
   "title": "Besluit van de Vlaamse Regering van 2006-09-22 betreffende de subsidiëring van ouderkoepelverenigingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016899/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "04988d64344d8b476cc6aeec291d2053a4fc3fd68886876e176eab6b53c539b4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016899/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "6f51224c0874fce6dd00655381dab4712268beac1e953b3192971eaed2827a97",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016899&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2016-09-01",
   "made": "2006-09-22",
   "gazette": "2008-07-15",
   "numac": 2008202481,
   "document_start": "2006-01-01",
   "document_end": "2016-09-01",
-  "in_force": "2015-01-01",
+  "in_force": "2016-09-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
 }

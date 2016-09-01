@@ -27,25 +27,25 @@ Besluit :<br>
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het decreet van 20 juni 1996 betreffende de subsidiëring van ouderkoepelverenigingen;<br />2° minister : de Vlaamse minister, bevoegd voor het Onderwijs;<br />3° school : pedagogisch geheel waar onderwijs georganiseerd wordt en dat onder het bestuur staat van één directeur.<br /><br />
+...
 
 ## HOOFDSTUK II Subsidiëring
 
 ### ART. 2.
 
-Ouderkoepelverenigingen die in aanmerking willen komen voor een subsidie-enveloppe moeten uiterlijk op 15 oktober voorafgaand aan een periode van drie jaar, te beginnen vanaf het jaar 2006, die ze met een aangetekende brief versturen of afgeven tegen ontvangstbewijs, een aanvraag indienen.<br /><br />
+...
 
 ### ART. 3.
 
-§ 1. De aanvraag vermeld in artikel 2, bestaat uit :<br />1° de statuten van de VZW die tenminste de doelstellingen bevatten, vermeld in artikel 3 van het decreet;<br />2° een voorstel van werkingsprogramma voor de volgende drie jaar;<br />3° bewijzen van het aantal aangesloten ouderverenigingen of ouderraden op 1 oktober van het jaar dat voorafgaat aan de periode van drie jaar.<br /><br />§ 2. De Vlaamse Regering bepaalt het model waarmee de aanvraag moet worden ingediend. Dat model wordt tijdig meegedeeld.<br /><br />
+...
 
 ### ART. 4.
 
-§ 1. Op basis van het ingediende dossier beslist de Vlaamse Regering of de ouderkoepelvereniging voldoet aan de voorwaarden, vermeld in artikelen 3 en 4 van het decreet, en in aanmerking komt voor een subsidie-enveloppe.<br /><br />§ 2. De beschikbare begrotingskredieten worden als volgt verdeeld over de erkende ouderkoepelverenigingen : <br />1° een vast bedrag van 16 % van de totale kredieten wordt gelijkmatig verdeeld over de erkende ouderkoepelverenigingen, en geldt als sokkel;<br />2° het resterende bedrag van de totale kredieten wordt lineair verdeeld a rato van het aantal leerlingen dat het onderwijsnet waartoe de erkende ouderkoepelvereniging behoort, telt op 1 februari van het jaar dat voorafgaat aan de periode van drie jaar.<br />
+...
 
 ### ART. 4/1.
 
-In afwijking van artikel 4, § 2, worden de beschikbare begrotingskredieten in 2011 als volgt verdeeld over de erkende ouderkoepelverenigingen : <br />1° een vast bedrag van 16 % van de totale kredieten wordt gelijkmatig verdeeld over de erkende ouderkoepelverenigingen, en geldt als sokkel;<br />2° het resterende bedrag van de totale kredieten wordt lineair verdeeld a rato van het aantal leerlingen dat het onderwijsnet waartoe de erkende ouderkoepelvereniging behoort, telt op 1 februari 2009.
+...
 
 ### ART. 5.
 
@@ -53,26 +53,26 @@ In afwijking van artikel 4, § 2, worden de beschikbare begrotingskredieten in 2
 
 ### ART. 6.
 
-De tegemoetkoming wordt jaarlijks uitgekeerd in drie schijven : <br />1° 40 % binnen een maand na de goedkeuring door de functioneel bevoegde minister van het jaarwerkplan, vermeld in de beheersovereenkomst;<br />2° 40 % in de loop van de maand juli van het betreffende jaar;<br />3° het saldo van 20 % op het einde van het jaar, als het jaarrapport en het financiële verslag van dat jaar werden goedgekeurd door de functioneel bevoegd minister.<br /><br />
+...
 
 ### ART. 7.
 
-Tussen de Vlaamse Regering en de betrokken ouderkoepelverenigingen, vermeld in artikel 4, wordt een beheersovereenkomst gesloten die de essentiële elementen van de subsidie-enveloppe vastlegt. <br /><br />
+...
 
 ### ART. 8.
 
-Die beheersovereenkomst bevat tenminste :<br />1° een driejaarlijks werkingsprogramma als vermeld in artikel 4, 1°, van het decreet;<br />2° de prestatie- en resultaatgerichte indicatoren;<br />3° de verplichting tot en de richtlijnen voor tussentijdse- en eindrapportering;<br />4° de voorwaarden voor de uitbetaling van de subsidies;<br />5° de controlebepalingen en sancties betreffende de aangewende subsidies.<br /><br />
+...
 
 ### ART. 8/1.
 
-In aansluiting op de bepalingen van artikel 4 en 8 van het decreet worden   met betrekking tot de verlenging voor periode 1 januari tot en met 31 december   2015 bij elke beheersovereenkomst 2012-2014 via een addendum de doelstellingen   en het werkingsprogramma 2015 gevoegd. De verdeling van de beschikbare   begrotingskredieten voor 2015 gebeurt op basis van de bepalingen van artikel 4   van dit besluit, met uitzondering van de teldatum die op 3 februari 2014 wordt   vastgesteld.
+...
 
 ## HOOFDSTUK III Slotbepalingen
 
 ### ART. 9.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2006.<br /><br />
+...
 
 ### ART. 10.
 
-De Vlaamse minister, bevoegd voor het Onderwijs is belast met de uitvoering van dit besluit.<br /><br />
+...
