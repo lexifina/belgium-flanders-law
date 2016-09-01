@@ -32,9 +32,7 @@ Het debetsaldo van de centralisatierekening van het Investeringsfonds, zoals ged
 <br>
 (wijzigt artikel 19 van het decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede de bepalingen tot begeleiding van de begroting 1991)<br>
 <br>
-§ 2. De dienst met afzonderlijk beheer « Vlaams Infrastructuurfonds » neemt over :<br>
-1° de rechten en verplichtingen van het Cargovilfonds, ingeschreven onder basisallocatie 70.91 van het programma 24.10 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br>
-2° de uitstaande verbintenissen lastens basisallocatie 70.91 hierboven vernoemd.
+§ 2. ...
 
 ## HOOFDSTUK VI BEKRACHTIGING VAN HET BESLUIT VAN DE VLAAMSE REGERING VAN 19 NOVEMBER 2004 BETREFFENDE DE RECHTSOPVOLGING NAAR AANLEIDING VAN DE OMZETTING VAN DE DIENST VOOR DE SCHEEPVAART IN EEN PUBLIEKRECHTELIJK VORMGEGEVEN EXTERN VERZELFSTANDIGD AGENTSCHAP DE SCHEEPVAART, EN NAAR AANLEIDING VAN DE KWALIFICATIE VAN DE N.V. ZEEKANAAL EN WATERGEBONDEN GRONDBEHEER VLAANDEREN WAARVAN DE NAAM WORDT GEWIJZIGD IN WATERWEGEN EN ZEEKANAAL ALS PUBLIEKRECHTELIJK VORMGEGEVEN EXTERN VERZELFSTANDIG AGENTSCHAP
 
@@ -196,7 +194,15 @@ De Maatschappij past ten aanzien van heffingsdossiers die nog niet afgesloten zi
 
 ### ART. 38.
 
-§ 1. Er wordt een "Fonds ter valorisatie van de GIMV-participatie" opgericht, hierna genoemd "het Fonds". Het Fonds is een begrotingsfonds zoals bedoeld in artikel 45 van de gecoordineerde wetten op de Rijkscomptabiliteit.<br /><br />§ 2. Het Fonds wordt gespijsd met de opbrengsten die voortvloeien uit de verkoop van de GIMV-participatie die door de naamloze vennootschap Vlaamse Participatiemaatschappij aan het Vlaamse Gewest uitgekeerd worden.<br /><br />§ 3. De middelen van het Fonds kunnen worden aangewend voor :<br />- inbreng in de naamloze vennootschap Participatiemaatschappij Vlaanderen;<br />- financiering van de uitgaven en participaties in het kader van PPS-projecten.".<br /><br />§ 4. De Rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het in § 1 bedoelde Fonds.
+§ 1. Er wordt een "Fonds ter valorisatie van de GIMV-participatie" opgericht, hierna genoemd "het Fonds". Het Fonds is een begrotingsfonds zoals bedoeld in artikel 45 van de gecoordineerde wetten op de Rijkscomptabiliteit.<br>
+<br>
+§ 2. Het Fonds wordt gespijsd met de opbrengsten die voortvloeien uit de verkoop van de GIMV-participatie die door de naamloze vennootschap Vlaamse Participatiemaatschappij aan het Vlaamse Gewest uitgekeerd worden.<br>
+<br>
+§ 3. De middelen van het Fonds kunnen worden aangewend voor :<br>
+- inbreng in de naamloze vennootschap Participatiemaatschappij Vlaanderen;<br>
+- financiering van de uitgaven en participaties in het kader van PPS-projecten.".<br>
+<br>
+§ 4. De Rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het in § 1 bedoelde Fonds.
 
 ## HOOFDSTUK XIV VLAAMSE ZORGVERZEKERING
 
