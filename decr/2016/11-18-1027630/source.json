@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027630,
+  "title": "Decreet van 2016-11-18 houdende de dringende verlenging van een tijdelijke maatregel in het kader van het stijgend aantal anderstalige kleuters",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027630/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "b55ff92341185c2f94406a79a084364e8e68c6142c5470f32029dc5b1f1768a1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027630&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-11-18",
+  "gazette": "2016-12-13",
+  "numac": 2016036589,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
