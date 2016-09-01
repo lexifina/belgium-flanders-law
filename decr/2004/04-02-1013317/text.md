@@ -84,7 +84,13 @@ De schoolraad wordt om de vier jaar opnieuw samengesteld.<br /><br />Bij beëind
 
 ### ART. 15.
 
-<P>De leden van de schoolraad hebben in functie van de uitoefening van de   bevoegdheden van de schoolraad een algemeen informatierecht.<BR><BR>De   schoolraad heeft ten behoeve van al het personeel, ouders en leerlingen een   communicatie- en informatieplicht over hun activiteiten en standpunten en over   de wijze waarop hij zijn bevoegdheden uitoefent.</P>
+<p>De leden van de schoolraad hebben in functie van de uitoefening van de bevoegdheden van de schoolraad een algemeen informatierecht.<br>
+<br>
+Het schoolbestuur bezorgt daartoe aan de leden van de schoolraad, samen met de vergaderagenda, alle relevante documenten. Indien tijdens of na een overleg vastgesteld wordt dat er cruciale informatie ontbrak, dan wordt de desbetreffende beslissing van het schoolbestuur opgeschort.<br>
+<br>
+De schoolraad heeft ten behoeve van al het personeel, ouders en leerlingen een communicatie- en informatieplicht over hun activiteiten en standpunten en over de wijze waarop hij zijn bevoegdheden uitoefent.<br>
+<br>
+Indien een schoolbestuur een overleg vraagt over een ontwerp van beslissing die de schoolorganisatie en de eigenheid van de school fundamenteel verandert, dan moeten de leden van de schoolraad eerst de geleding die ze vertegenwoordigen informeren én raadplegen.</p>
 
 ### ART. 16.
 
@@ -120,7 +126,13 @@ De schoolraad wordt om de vier jaar opnieuw samengesteld.<br /><br />Bij beëind
 
 ### ART. 22.
 
-<P>Het schoolbestuur informeert tijdig de schoolraad over de geplande   beslissingen die voor overleg zullen worden voorgelegd. Op basis daarvan bepaalt   de raad zijn overlegagenda. Een schoolraad kan afzien van het recht op overleg.   Het overleg heeft plaats in een gezamenlijke vergadering van het schoolbestuur   of zijn gemandateerde en de schoolraad.<BR><BR>Het overleg leidt tot een verslag   waarin alle standpunten worden opgenomen. Het schoolbestuur of zijn   gemandateerde neemt een gemotiveerde eindbeslissing na het overleg of na de   onderhandeling zoals bepaald in artikel 30 en brengt de schoolraad in kennis van   de beslissing.<BR><BR>Wanneer een overleg niet plaatsvindt binnen een termijn   van eenentwintig kalenderdagen, die ingaat de dag nadat een geplande beslissing   voor overleg wordt voorgelegd, wordt het overleg geacht te hebben   plaatsgevonden.</P>
+<p>Het schoolbestuur informeert tijdig de schoolraad over de geplande beslissingen die voor overleg zullen worden voorgelegd. Op basis daarvan bepaalt de raad zijn overlegagenda. Een schoolraad kan afzien van het recht op overleg. Het overleg heeft plaats in een gezamenlijke vergadering van het schoolbestuur of zijn gemandateerde en de schoolraad.<br>
+<br>
+Het overleg leidt tot een verslag waarin alle standpunten worden opgenomen. Het schoolbestuur of zijn gemandateerde neemt een gemotiveerde eindbeslissing na het overleg of na de onderhandeling zoals bepaald in artikel 30 en brengt de schoolraad in kennis van de beslissing.<br>
+<br>
+Indien een schoolbestuur een overleg vraagt over een ontwerp van beslissing die de schoolorganisatie en de eigenheid van de school fundamenteel verandert, dan moeten de leden van de schoolraad eerst de geleding die ze vertegenwoordigen informeren én raadplegen zoals voorzien in artikel 15.<br>
+<br>
+Wanneer een overleg niet plaatsvindt binnen een termijn van eenentwintig kalenderdagen, die ingaat de dag nadat een geplande beslissing voor overleg wordt voorgelegd, wordt het overleg geacht te hebben plaatsgevonden.</p>
 
 ## AFDELING 5 DE WERKING VAN DE SCHOOLRAAD
 
