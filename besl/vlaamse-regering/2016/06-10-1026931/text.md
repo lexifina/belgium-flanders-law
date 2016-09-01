@@ -85,6 +85,11 @@
 <span style="color: rgb(0, 0, 0);">Art. 6/3. De Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding bezorgt via elektronische weg aan de instelling die belast is met de inning en de invordering van de socialezekerheidsbijdragen, alle gegevens die die instelling nodig heeft om op een geautomatiseerde manier het recht op de doelgroepvermindering voor de oudere niet-werkende werkzoekenden, vermeld in artikel 6/1, te beoordelen.".</span><br>
 &nbsp;
 
+### ART 7.
+
+<span style="color: rgb(0, 0, 0);">Artikel 12 van hetzelfde besluit, gewijzigd bij het koninklijk besluit van 21 januari 2004, wordt opgeheven.</span><br>
+&nbsp;
+
 ### ART 8.
 
 <span style="color: rgb(0, 0, 0);">In artikel 14 bis, eerste lid van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 21 januari 2004 en gewijzigd bij het koninklijk 28 maart 2007, wordt de zinsnede "artikelen 9 en 9bis" vervangen door de zinsnede "artikel 9bis".</span><br>
