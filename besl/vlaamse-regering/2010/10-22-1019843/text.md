@@ -23,7 +23,25 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° beveiligde zending : een van de hiernavolgende betekeningswijzen :<br />a) een aangetekende brief;<br />b) een afgifte tegen ontvangstbewijs;<br />c) elke andere door de minister toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br />2° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />3° entiteiten van het beleidsveld Wonen : het agentschap, het intern verzelfstandig agentschap zonder rechtspersoonlijkheid Inspectie RWO en de VMSW van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />4° minister : de Vlaamse minister, bevoegd voor wonen;<br />5° operationele doelstellingen : de uit de Vlaamse Wooncode afgeleide doelstellingen voor SHM's, zo veel mogelijk geformuleerd in indicatoren die specifiek, meetbaar, acceptabel, resultaatgericht en tijdsgebonden zijn;<br />6° prestatiebeoordeling : de procedure voor de beoordeling van de prestaties van een SHM, desgevallend in vergelijking met een voorgaande beoordeling, bestaande uit de volgende stappen die achtereenvolgens doorlopen worden :<br />a) een meting van de prestaties van de SHM;<br />b) een visitatie van de SHM;<br />c) de opmaak van een visitatierapport waarin de prestaties van de SHM worden beoordeeld;<br />7° Prestatiedatabank : de databank, vermeld in artikel 33, § 1, tweede lid, 10°, van de Vlaamse Wooncode;<br />8° SHM : een sociale huisvestingsmaatschappij als vermeld in artikel 40, § 1, eerste lid, van de Vlaamse Wooncode;<br />9° strategische doelstellingen : de uit de Vlaamse Wooncode afgeleide doelstellingen die de algemene beleidskeuzen aangeven;<br />10° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br />11° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van de Vlaamse Wooncode.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° beveiligde zending : een van de hiernavolgende betekeningswijzen :<br>
+a) een aangetekende brief;<br>
+b) een afgifte tegen ontvangstbewijs;<br>
+c) elke andere door de minister toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
+2° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+3° entiteiten van het beleidsveld Wonen : het agentschap en de VMSW van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+4° minister : de Vlaamse minister, bevoegd voor wonen;<br>
+5° operationele doelstellingen : de uit de Vlaamse Wooncode afgeleide doelstellingen voor SHM's, zo veel mogelijk geformuleerd in indicatoren die specifiek, meetbaar, acceptabel, resultaatgericht en tijdsgebonden zijn;<br>
+6° prestatiebeoordeling : de procedure voor de beoordeling van de prestaties van een SHM, desgevallend in vergelijking met een voorgaande beoordeling, bestaande uit de volgende stappen die achtereenvolgens doorlopen worden :<br>
+a) een meting van de prestaties van de SHM;<br>
+b) een visitatie van de SHM;<br>
+c) de opmaak van een visitatierapport waarin de prestaties van de SHM worden beoordeeld;<br>
+7° Prestatiedatabank : de databank, vermeld in artikel 33, § 1, tweede lid, 10°, van de Vlaamse Wooncode;<br>
+8° SHM : een sociale huisvestingsmaatschappij als vermeld in artikel 40, § 1, eerste lid, van de Vlaamse Wooncode;<br>
+9° strategische doelstellingen : de uit de Vlaamse Wooncode afgeleide doelstellingen die de algemene beleidskeuzen aangeven;<br>
+10° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+11° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van de Vlaamse Wooncode.<br>
+&nbsp;
 
 ## HOOFDSTUK II De erkenning en de intrekking van de erkenning als SHM en de statuten van SHM's
 
