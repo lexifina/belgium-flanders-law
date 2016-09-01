@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026969,
+  "title": "Besluit van de Vlaamse Regering van 2016-05-13 tot wijziging van het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp, wat betreft het toepassingsgebied van de integrale jeugdhulp",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026969/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "34cc40eda948b43aa388c03d57c2924b0ed4a4123a2c29a667ade6f91e24a222",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026969&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-05-13",
+  "gazette": "2016-07-01",
+  "numac": 2016035949,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
