@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027432,
+  "title": "Besluit van de Vlaamse Regering van 2016-08-30 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de invoering van het zorgkrediet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027432/VolledigDocument?datum=2016-09-02",
+  "source_sha256": "4132174aeb247a9999918d1fa2ae9bb4a8d6f4b7ebe746d43197444ac229ac8d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027432&param=informatie",
+  "as_of": "2016-09-02",
+  "made": "2016-08-30",
+  "gazette": "2016-09-23",
+  "numac": 2016036427,
+  "document_start": "2016-09-02",
+  "document_end": null,
+  "in_force": "2016-09-02",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2016-09-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
