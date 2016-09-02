@@ -186,7 +186,7 @@ De loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand of voor p
 
 ### ART. 33.
 
-De volledige loopbaanonderbreking, voor medische bijstand of voor   palliatieve zorgen, moet gebeuren overeenkomstig de voorwaarden van artikel 2, 3   en 4, met uitzondering van de voorwaarden, vermeld in artikel 3, eerste lid, 1°   en 2°, die niet van toepassing zijn op de tijdelijke personeelsleden.<BR><BR>De   volledige loopbaanonderbreking voor ouderschapverlof omvat al de door de Vlaamse   Gemeenschap gefinancierde en gesubsidieerde ambten die het personeelslid   uitoefent in het onderwijs en in de centra voor leerlingenbegeleiding.<BR><BR>De   gedeeltelijke loopbaanonderbreking, voor medische bijstand of voor palliatieve   zorgen moet gebeuren overeenkomstig de voorwaarden van artikel 5, 6, 7 en 8 met   uitzondering van de voorwaarden, vermeld in artikel 6, eerste lid, 1° en 2° en   artikel 8, eerste lid, 1° en 2°, die niet van toepassing zijn op de tijdelijke   personeelsleden.<BR><BR>De gedeeltelijke loopbaanonderbreking voor   ouderschapsverlof moet gebeuren overeenkomstig de voorwaarden vermeld in artikel   5, 2°, artikel 6, 4°, artikel 7, 2° en 3° en artikel 8, 4° en   5°.<BR><BR>
+<P>De volledige loopbaanonderbreking voor ouderschapsverlof, voor medische   bijstand of voor palliatieve zorgen omvat al de door de Vlaamse Gemeenschap   gefinancierde en gesubsidieerde ambten die het personeelslid uitoefent in het   onderwijs en in de centra voor leerlingenbegeleiding.<BR><BR>De gedeeltelijke   loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand of voor   palliatieve zorgen moet gebeuren overeenkomstig de voorwaarden vermeld in   artikel 5, 2°, artikel 6, 4°, artikel 7, 2° en 3° en artikel 8, 4° en 5°.   </P>
 
 ### ART. 34.
 
@@ -222,11 +222,19 @@ Voor de personeelsleden van de Centra voor Basiseducatie wordt het maximum   van
 
 ### ART. 37/2.
 
-Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties   en Studietoelagen vult, indien nodig, het bedrag van de aanmoedigingspremie voor   de personeelsleden van de Centra voor Basiseducatie aan tot het bedrag conform   de bepalingen van het besluit van de Vlaamse Regering van 3 mei 2002 tot   instelling van de aanmoedigingspremies in de Vlaamse private sociale   profit-sector.
+Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen vult, indien nodig, het bedrag van de aanmoedigingspremie voor de personeelsleden van de Centra voor Basiseducatie aan tot het bedrag conform de bepalingen van het besluit van de Vlaamse Regering van 3 mei 2002 tot instelling van de aanmoedigingspremies in de Vlaamse private sociale profit-sector.<br>
+<br>
+Het eerste lid is alleen van toepassing op aanvragen die uiterlijk op 1 september 2016 ingaan.
 
 ### ART. 37/3.
 
-Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties   en Studietoelagen vult, indien nodig, het bedrag van de   onderbrekingsuitkeringen, toegekend door de Rijksdienst voor Arbeidsvoorziening,   voor de personeelsleden van de centra voor basiseducatie aan tot een bedrag dat   toegekend wordt, naargelang van het opgenomen stelsel, overeenkomstig de   bepalingen van :<BR>1° het koninklijk besluit van 12 december 2001 tot   uitvoering van hoofdstuk IV van de wet van 10 augustus 2001 betreffende   verzoening van werkgelegenheid en kwaliteit van het leven betreffende het   stelsel van tijdskrediet, loopbaanvermindering en vermindering van de   arbeidsprestaties tot een halftijdse betrekking voor de onderbreking van de   beroepsloopbaan of de vermindering van de arbeidsprestaties;<BR>2° het   koninklijk besluit van 2 januari 1991 betreffende de toekenning van   onderbrekingsuitkeringen;<BR>3° het koninklijk besluit van 10 augustus 1998 tot   invoering van een recht op loopbaanonderbreking voor bijstand of verzorging van   een zwaar ziek gezins- of familielid;<BR>4° het koninklijk besluit van 29   oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van   de onderbreking van de beroepsloopbaan.
+Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen vult, indien nodig, het bedrag van de onderbrekingsuitkeringen, toegekend door de Rijksdienst voor Arbeidsvoorziening, voor de personeelsleden van de centra voor basiseducatie aan tot een bedrag dat toegekend wordt, naargelang van het opgenomen stelsel, overeenkomstig de bepalingen van :<br>
+1° het koninklijk besluit van 12 december 2001 tot uitvoering van hoofdstuk IV van de wet van 10 augustus 2001 betreffende verzoening van werkgelegenheid en kwaliteit van het leven betreffende het stelsel van tijdskrediet, loopbaanvermindering en vermindering van de arbeidsprestaties tot een halftijdse betrekking voor de onderbreking van de beroepsloopbaan of de vermindering van de arbeidsprestaties;<br>
+2° het koninklijk besluit van 2 januari 1991 betreffende de toekenning van onderbrekingsuitkeringen;<br>
+3° het koninklijk besluit van 10 augustus 1998 tot invoering van een recht op loopbaanonderbreking voor bijstand of verzorging van een zwaar ziek gezins- of familielid;<br>
+4° het koninklijk besluit van 29 oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van de onderbreking van de beroepsloopbaan.<br>
+<br>
+Het eerste lid is alleen van toepassing op aanvragen die uiterlijk op 1 september 2016 ingaan.
 
 ## HOOFDSTUK 5 Slotbepalingen
 
