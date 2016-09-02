@@ -2,16 +2,16 @@
   "codex_id": 1026822,
   "title": "Besluit van de Vlaamse Regering van 2016-04-15 tot wijziging van het besluit van de Vlaamse Regering van 24 mei 2002 betreffende de onderbreking van de beroepsloopbaan van de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool en het besluit van de Vlaamse Regering van 9 september 2011 betreffende de loopbaanonderbreking van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding, wat betreft de loopbaanonderbreking voor ouderschapsverlof, medische bijstand en palliatieve zorgen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026822/VolledigDocument?datum=2016-09-01",
-  "source_sha256": "a0bc7161dc8cd6707522791b0ea3c5a5c631a99941fc86e38b28a1cf56fb5ae0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026822/VolledigDocument?datum=2016-09-02",
+  "source_sha256": "edd6293728005d07a99134b4a0c883f9ca3cacd75e5acde2c0f4cac03f4ddd7e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026822&param=informatie",
-  "as_of": "2016-09-01",
+  "as_of": "2016-09-02",
   "made": "2016-04-15",
   "gazette": "2016-05-19",
   "numac": 2016035773,
   "document_start": "2016-09-02",
   "document_end": null,
-  "in_force": "2016-09-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-09-02",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2016-09-02; future article versions excluded; article text as the API gives it"
 }
