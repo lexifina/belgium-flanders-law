@@ -70,13 +70,31 @@ In afwijking van artikel 5 wordt de volledige en de gedeeltelijke   onderbreking
 
 ### ART. 12.
 
-§ 1. In afwijking van artikel 5 hebben de personeelsleden het recht om hun   beroepsloopbaan volledig of gedeeltelijk te onderbreken voor een periode van één   maand, eventueel verlengbaar met één maand, voor het verstrekken van palliatieve   verzorging aan een persoon.<BR><BR>Voor de toepassing van het eerste lid wordt   onder palliatieve verzorging verstaan elke vorm van bijstand en inzonderheid   medische, sociale, administratieve en psychologische bijstand en verzorging van   personen die lijden aan een ongeneeslijke ziekte en die zich in een terminale   fase bevinden.<BR><BR>De voorwaarden vermeld in punt 1 en 2 van het eerste lid   van artikel 3 zijn niet van toepassing indien tijdelijke personeelsleden een   loopbaanonderbreking wensen te nemen voor palliatieve verzorging.<BR><BR>§ 2.   Voor de berekening van de termijn van&nbsp;60 maanden voorzien in artikel 4   wordt geen rekening gehouden met de periodes van loopbaanonderbreking voor   palliatieve verzorging.<BR><BR>In afwijking van artikel 19 geldt de   vervangingsplicht niet voor de personeelsleden die hun beroepsloopbaan   onderbreken voor palliatieve verzorging.
+§ 1. In afwijking van artikel 5 hebben de personeelsleden het recht om hun beroepsloopbaan volledig of gedeeltelijk te onderbreken voor een periode van één maand, eventueel verlengbaar met één maand, voor het verstrekken van palliatieve verzorging aan een persoon.<br>
+<br>
+Voor de toepassing van het eerste lid wordt onder palliatieve verzorging verstaan elke vorm van bijstand en inzonderheid medische, sociale, administratieve en psychologische bijstand en verzorging van personen die lijden aan een ongeneeslijke ziekte en die zich in een terminale fase bevinden.<br>
+<br>
+De voorwaarden vermeld in punt 1 en 2 van het eerste lid van artikel 3 zijn niet van toepassing indien tijdelijke personeelsleden een loopbaanonderbreking wensen te nemen voor palliatieve verzorging.&nbsp; De bepaling, vermeld in artikel 2, en de voorwaarde "in hoofdambt", vermeld in artikel 10, tweede lid, zijn niet van toepassing op de volledige loopbaanonderbreking voor palliatieve verzorging.<br>
+<br>
+§ 2. Voor de berekening van de termijn van&nbsp;60 maanden voorzien in artikel 4 wordt geen rekening gehouden met de periodes van loopbaanonderbreking voor palliatieve verzorging.<br>
+<br>
+In afwijking van artikel 19 geldt de vervangingsplicht niet voor de personeelsleden die hun beroepsloopbaan onderbreken voor palliatieve verzorging.
 
 ## SUBAFDELING 3 OUDERSCHAPSVERLOF
 
 ### ART. 13.
 
-<P>In afwijking van artikel 5 hebben de personeelsleden het recht om hun   beroepsloopbaan volledig of gedeeltelijk te onderbreken om voor hun kind te   zorgen. De bepalingen, vermeld in artikel 2 en artikel 10, tweede lid, zijn niet   van toepassing op de volledige loopbaanonderbreking voor   ouderschapsverlof.<BR><BR>De volledige onderbreking van de beroepsloopbaan kan   in periodes van een maand of een veelvoud daarvan, met een maximumduur van 4   maanden worden genomen.<BR><BR>De&nbsp;halftijdse onderbreking van de   beroepsloopbaan kan worden genomen in periodes van twee maanden of een veelvoud   daarvan, met een maximumduur van acht maanden.<BR><BR>De onderbreking van de   beroepsloopbaan met een vijfde kan worden opgenomen in periodes van vijf maanden   of een veelvoud daarvan, met een maximumduur van 20 maanden.<BR><BR>Voor de   berekening van de termijn van 60 maanden voorzien in artikel 4 wordt geen   rekening gehouden met de periodes van ouderschapsverlof zoals bedoeld in dit   artikel.<BR><BR>De voorwaarden vermeld in punt 1 en 2 van het eerste lid van   artikel 3 zijn niet van toepassing indien tijdelijke personeelsleden een   loopbaan wensen te onderbreken om voor hun kind te zorgen.</P>
+<p>In afwijking van artikel 5 hebben de personeelsleden het recht om hun beroepsloopbaan volledig of gedeeltelijk te onderbreken om voor hun kind te zorgen.&nbsp;De bepaling, vermeld in artikel 2, en de voorwaarde "in hoofdambt", vermeld in artikel 10, tweede lid, zijn niet van toepassing op de volledige loopbaanonderbreking voor ouderschapsverlof.<br>
+<br>
+De volledige onderbreking van de beroepsloopbaan kan in periodes van een maand of een veelvoud daarvan, met een maximumduur van 4 maanden worden genomen.<br>
+<br>
+De&nbsp;halftijdse onderbreking van de beroepsloopbaan kan worden genomen in periodes van twee maanden of een veelvoud daarvan, met een maximumduur van acht maanden.<br>
+<br>
+De onderbreking van de beroepsloopbaan met een vijfde kan worden opgenomen in periodes van vijf maanden of een veelvoud daarvan, met een maximumduur van 20 maanden.<br>
+<br>
+Voor de berekening van de termijn van 60 maanden voorzien in artikel 4 wordt geen rekening gehouden met de periodes van ouderschapsverlof zoals bedoeld in dit artikel.<br>
+<br>
+De voorwaarden vermeld in punt 1 en 2 van het eerste lid van artikel 3 zijn niet van toepassing indien tijdelijke personeelsleden een loopbaan wensen te onderbreken om voor hun kind te zorgen.</p>
 
 ### ART. 14.
 
@@ -88,7 +106,19 @@ Het personeelslid heeft recht op het ouderschapsverlof : <BR>1° naar   aanleidi
 
 ### ART. 15.
 
-§ 1. In afwijking van artikel 5 hebben de personeelsleden het recht hun   beroepsloopbaan volledig of gedeeltelijk te onderbreken voor het verlenen van   bijstand of verzorging aan een gezinslid of een familielid tot de tweede graad   dat lijdt aan een zware ziekte.<BR><BR>De voorwaarden vermeld in punt 1 en 2 van   het eerste lid van artikel 3 zijn niet van toepassing indien de tijdelijke   personeelsleden een loopbaanonderbreking wensen te nemen voor van een ziek   gezinslid of ziek familielid.<BR><BR>Voor de toepassing van deze subafdeling   wordt verstaan onder gezinslid, elke persoon die samenwoont met het   personeelslid en als familielid zowel de bloed- als de aanverwanten.<BR><BR>Voor   de toepassing van deze subafdeling wordt onder zware ziekte verstaan, elke   ziekte of medische ingreep die door de behandelende arts als dusdanig wordt   beschouwd en waarbij de arts oordeelt dat elke vorm van sociale, familiale of   emotionele bijstand of verzorging noodzakelijk is voor het herstel.<BR><BR>§ 2.   Voor de berekening van de termijn van 60 maanden voorzien in artikel 4 wordt   geen rekening gehouden met de periodes van loopbaanonderbreking voor de   verzorging van een ziek gezinslid of ziek familielid.<BR><BR>In afwijking van   artikel 19 geldt de vervangingsplicht niet voor de personeelsleden die hun   beroepsloopbaan onderbreken voor de verzorging van een ziek gezinslid of ziek   familielid.
+§ 1. In afwijking van artikel 5 hebben de personeelsleden het recht hun beroepsloopbaan volledig of gedeeltelijk te onderbreken voor het verlenen van bijstand of verzorging aan een gezinslid of een familielid tot de tweede graad dat lijdt aan een zware ziekte.<br>
+<br>
+De voorwaarden vermeld in punt 1 en 2 van het eerste lid van artikel 3 zijn niet van toepassing indien de tijdelijke personeelsleden een loopbaanonderbreking wensen te nemen voor van een ziek gezinslid of ziek familielid.<br>
+<br>
+Voor de toepassing van deze subafdeling wordt verstaan onder gezinslid, elke persoon die samenwoont met het personeelslid en als familielid zowel de bloed- als de aanverwanten.<br>
+<br>
+Voor de toepassing van deze subafdeling wordt onder zware ziekte verstaan, elke ziekte of medische ingreep die door de behandelende arts als dusdanig wordt beschouwd en waarbij de arts oordeelt dat elke vorm van sociale, familiale of emotionele bijstand of verzorging noodzakelijk is voor het herstel.<br>
+<br>
+De bepaling, vermeld in artikel 2, en de voorwaarde "in hoofdambt", vermeld in artikel 10, tweede lid, zijn niet van toepassing op de volledige loopbaanonderbreking voor de verzorging van een ziek gezinslid of ziek familielid.<br>
+<br>
+§ 2. Voor de berekening van de termijn van 60 maanden voorzien in artikel 4 wordt geen rekening gehouden met de periodes van loopbaanonderbreking voor de verzorging van een ziek gezinslid of ziek familielid.<br>
+<br>
+In afwijking van artikel 19 geldt de vervangingsplicht niet voor de personeelsleden die hun beroepsloopbaan onderbreken voor de verzorging van een ziek gezinslid of ziek familielid.
 
 ### ART. 16.
 
@@ -110,7 +140,35 @@ Het personeelslid heeft recht op het ouderschapsverlof : <BR>1° naar   aanleidi
 
 ### ART. 18.
 
-§ 1. Het personeelslid dat zijn loopbaan wenst te onderbreken, dient   daartoe een aanvraag in bij het hogeschoolbestuur. Deze aanvraag vermeldt de   gewenste aanvangsdatum en de duur van de volledige of de gedeeltelijke   loopbaanonderbreking.<BR><BR>Het hogeschoolbestuur deelt zijn beslissing aan het   personeelslid mee binnen vijftien dagen te rekenen vanaf de ontvangst van de   aanvraag.<BR><BR>Het invullen en overhandigen van het formulier bedoeld in   artikel 16, § 2, van het voormelde koninklijk besluit van 12 augustus 1991,   geldt als toestemming.<BR><BR>§ 2. Het personeelslid dat zijn loopbaan wenst te   onderbreken om een beroepsopleiding te volgen, voegt bij zijn aanvraag een   attest van de onderwijs- of opleidingsinstelling. Dit attest vermeldt de   inschrijving van het personeelslid en de aanvangsdatum, de duur en het aantal   lesuren van de opleiding.<BR><BR>§ 3. Het personeelslid dat zijn loopbaan wenst   te onderbreken voor het verstrekken van palliatieve verzorging, deelt dit mee   aan zijn hogeschoolbestuur. Hij voegt bij deze mededeling een attest afgeleverd   door de behandelende geneesheer van de persoon die palliatieve verzorging nodig   heeft en waaruit blijkt dat het personeelslid zich bereid heeft verklaard deze   palliatieve verzorging te verstrekken. Het attest vermeldt in geen geval de   identiteit van de patiënt.<BR><BR>De onderbreking van de beroepsloopbaan voor   het verstrekken van palliatieve verzorging begint de eerste dag van de week die   volgt op de week waarin de voornoemde mededeling is gebeurd of op een vroeger   tijdstip mits akkoord van het hogeschoolbestuur.<BR><BR>In geval het   personeelslid wenst gebruik te maken van de verlenging van de periode met één   maand, moet hij opnieuw een doktersattest indienen. Een personeelslid kan   maximum twee attesten indienen voor de palliatieve verzorging van eenzelfde   persoon.<BR><BR>Het hogeschoolbestuur vult het formulier bedoeld in artikel 16,   § 2 van het voormelde koninklijk besluit van 12 augustus 1991 in, en overhandigt   het aan het personeelslid.<BR><BR>§ 4. Het personeelslid dat zijn loopbaan wenst   te onderbreken om voor zijn kind te zorgen in het kader van het   ouderschapsverlof, deelt dit mee aan zijn hogeschoolbestuur.<BR><BR>Bij deze   mededeling moeten de begin- en einddatum van het ouderschapsverlof worden   vermeld.<BR><BR>Het personeelslid verstrekt uiterlijk op het ogenblik dat het   ouderschapsverlof ingaat, naar gelang van het geval, volgende   stavingdocumenten:<BR>1° een uittrekstel uit de geboorteakte van het kind;<BR>2°   een attest waaruit de adoptie blijkt.<BR><BR>Bij de in het derde lid, 1° en 2°,   vermelde documenten moet steeds een uittreksel uit het bevolkings- of   vreemdelingenregister worden gevoegd, waaruit de samenstelling van het gezin   blijkt.<BR><BR>§ 5. Het personeelslid dat zijn loopbaanonderbreking wenst te   onderbreken voor de verzorging van een ziek gezinslid of ziek familielid deelt   dit mee aan zijn hogeschoolbestuur. Hij voegt bij deze mededeling een attest   afgeleverd door de behandelende geneesheer van het zwaar ziek gezins- of   familielid tot de tweede graad, waaruit blijkt dat het personeelslid bereid is   bijstand of verzorging te verlenen aan de zwaar zieke persoon. In geval van   hospitalisatie van het kind wordt het bewijs van hospitalisatie geleverd door   een attest van het betrokken ziekenhuis.
+§ 1. Het personeelslid dat zijn loopbaan wenst te onderbreken, dient daartoe een aanvraag in bij het hogeschoolbestuur. Deze aanvraag vermeldt de gewenste aanvangsdatum en de duur van de volledige of de gedeeltelijke loopbaanonderbreking.<br>
+<br>
+Het hogeschoolbestuur deelt zijn beslissing aan het personeelslid mee binnen vijftien dagen te rekenen vanaf de ontvangst van de aanvraag.<br>
+<br>
+Het invullen en overhandigen van het formulier bedoeld in artikel 16, § 2, van het voormelde koninklijk besluit van 12 augustus 1991, geldt als toestemming.<br>
+<br>
+§ 2. Het personeelslid dat zijn loopbaan wenst te onderbreken om een beroepsopleiding te volgen, voegt bij zijn aanvraag een attest van de onderwijs- of opleidingsinstelling. Dit attest vermeldt de inschrijving van het personeelslid en de aanvangsdatum, de duur en het aantal lesuren van de opleiding.<br>
+<br>
+§ 3. Het personeelslid dat zijn loopbaan wenst te onderbreken voor het verstrekken van palliatieve verzorging, deelt dit mee aan zijn hogeschoolbestuur. Hij voegt bij deze mededeling een attest afgeleverd door de behandelende geneesheer van de persoon die palliatieve verzorging nodig heeft en waaruit blijkt dat het personeelslid zich bereid heeft verklaard deze palliatieve verzorging te verstrekken. Het attest vermeldt in geen geval de identiteit van de patiënt.<br>
+<br>
+De onderbreking van de beroepsloopbaan voor het verstrekken van palliatieve verzorging begint de eerste dag van de week die volgt op de week waarin de voornoemde mededeling is gebeurd of op een vroeger tijdstip mits akkoord van het hogeschoolbestuur.<br>
+<br>
+In geval het personeelslid wenst gebruik te maken van de verlenging van de periode met één maand, moet hij opnieuw een doktersattest indienen. Een personeelslid kan maximum twee attesten indienen voor de palliatieve verzorging van eenzelfde persoon.<br>
+<br>
+Het hogeschoolbestuur vult het formulier bedoeld in artikel 16, § 2 van het voormelde koninklijk besluit van 12 augustus 1991 in, en overhandigt het aan het personeelslid.<br>
+<br>
+§ 4. Het personeelslid dat zijn loopbaan wenst te onderbreken om voor zijn kind te zorgen in het kader van het ouderschapsverlof, deelt dit mee aan zijn hogeschoolbestuur.<br>
+<br>
+Bij deze mededeling moeten de begin- en einddatum van het ouderschapsverlof worden vermeld.<br>
+<br>
+Het personeelslid verstrekt uiterlijk op het ogenblik dat het ouderschapsverlof ingaat, naar gelang van het geval, volgende stavingdocumenten:<br>
+1° een uittrekstel uit de geboorteakte van het kind;<br>
+2° een attest waaruit de adoptie blijkt.<br>
+<br>
+Bij de in het derde lid, 1° en 2°, vermelde documenten moet steeds een uittreksel uit het bevolkings- of vreemdelingenregister worden gevoegd, waaruit de samenstelling van het gezin blijkt.<br>
+<br>
+§ 5. Het personeelslid dat zijn loopbaanonderbreking wenst te onderbreken voor de verzorging van een ziek gezinslid of ziek familielid deelt dit mee aan zijn hogeschoolbestuur. Hij voegt bij deze mededeling een attest afgeleverd door de behandelende geneesheer van het zwaar ziek gezins- of familielid tot de tweede graad, waaruit blijkt dat het personeelslid bereid is bijstand of verzorging te verlenen aan de zwaar zieke persoon. In geval van hospitalisatie van het kind wordt het bewijs van hospitalisatie geleverd door een attest van het betrokken ziekenhuis.<br>
+<br>
+De loopbaanonderbreking voor de verzorging van een zwaar ziek gezins- of familielid begint de eerste dag van de week die volgt op de week waarin de voornoemde mededeling is gebeurd of op een vroeger tijdstip, mits akkoord van het hogeschoolbestuur.
 
 ### ART. 19.
 
