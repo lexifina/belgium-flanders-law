@@ -11,6 +11,14 @@ Op voorstel van de Vlaamse minister van Welzijn, Volksgezondheid en Gezin;<br>
 Na beraadslaging,<br>
 Besluit :
 
+### ART 1.
+
+In artikel 8, e), van het koninklijk besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen, vervangen bij het koninklijk besluit van 26 oktober 2011, wordt de zinsnede "b) en d), voor de financiering van de maatregelen bedoeld in artikel 71 van dit besluit" vervangen door de woorden "en b)".
+
+### ART 2.
+
+In artikel 15 van hetzelfde besluit, het laatst gewijzigd bij het koninklijk besluit van 17 december 2012, wordt punt 37° opgeheven.
+
 ### ART 3.
 
 In hetzelfde besluit wordt een artikel 55/1 ingevoegd, dat luidt als volgt:<br>
@@ -84,9 +92,21 @@ De Vlaamse minister, bevoegd voor het gezondheidsbeleid, bepaalt de nadere regel
 <br>
 § 7. In dit artikel wordt verstaan onder het Agentschap Zorg en Gezondheid: het agentschap, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid".
 
+### ART 5.
+
+Artikel 71 van hetzelfde besluit, hersteld bij het koninklijk besluit van 26 november 2010, wordt opgeheven.
+
+### ART 6.
+
+In artikel 92 van hetzelfde besluit wordt punt 14°, ingevoegd bij het koninklijk besluit van 26 november 2010, opgeheven.
+
 ### ART 7.
 
 Aan hetzelfde besluit wordt een bijlage 20 toegevoegd, die bij dit besluit is gevoegd.
+
+### ART 8.
+
+Als ziekenhuizen erkende verpleegkundigen tewerkstellen voor wie de overgangsbepaling, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 15 juli 2016 tot wijziging van artikel 1 van het koninklijk besluit van 28 december 2011 betreffende uitvoering van het attractiviteitsplan voor het verpleegkundig beroep, in bepaalde federale gezondheidssectoren, wat betreft de premies voor de titels en bijzondere beroepsbekwaamheden en ongemakkelijke prestaties, van toepassing is, blijft het koninklijk besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen, zoals van kracht vóór de inwerkingtreding van dit besluit, gelden.
 
 ### BIJLAGE
 
