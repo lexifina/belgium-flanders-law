@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027159,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-24 houdende goedkeuring van de programmatie van structuuronderdelen van het voltijds secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027159/VolledigDocument?datum=2016-09-02",
+  "source_sha256": "d8ef59edc6b37fcd0f3bcdca945a90f63fd4e777f56253ffcb204faf17702775",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027159&param=informatie",
+  "as_of": "2016-09-02",
+  "made": "2016-06-24",
+  "gazette": "2016-08-23",
+  "numac": 2016036181,
+  "document_start": "2016-09-02",
+  "document_end": null,
+  "in_force": "2016-09-02",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-09-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
