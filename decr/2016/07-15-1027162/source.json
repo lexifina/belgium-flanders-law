@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027162,
+  "title": "Decreet van 2016-07-15 houdende wijziging van artikel 99 van de herstelwet van 22 januari 1985 houdende sociale bepalingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027162/VolledigDocument?datum=2016-09-02",
+  "source_sha256": "965de024f964f10bbdb1d962a3041b6627ad90dc630c45a3c88b1ffa44f25fd3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027162&param=informatie",
+  "as_of": "2016-09-02",
+  "made": "2016-07-15",
+  "gazette": "2016-08-24",
+  "numac": 2016036209,
+  "document_start": "2016-09-02",
+  "document_end": null,
+  "in_force": "2016-09-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-09-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
