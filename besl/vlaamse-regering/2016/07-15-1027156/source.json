@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027156,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-15 tot wijziging van artikel 1 van het koninklijk besluit van 28 december 2011 betreffende uitvoering van het attractiviteitsplan voor het verpleegkundig beroep, in bepaalde federale gezondheidssectoren, wat betreft de premies voor de titels en bijzondere beroepsbekwaamheden en ongemakkelijke prestaties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027156/VolledigDocument?datum=2016-09-02",
+  "source_sha256": "4688f2522e33e09cff44c127743b460195879510045d073545159e49888e27aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027156&param=informatie",
+  "as_of": "2016-09-02",
+  "made": "2016-07-15",
+  "gazette": "2016-08-23",
+  "numac": 2016036205,
+  "document_start": "2016-09-02",
+  "document_end": null,
+  "in_force": "2016-09-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-09-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
