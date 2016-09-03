@@ -56,7 +56,7 @@ Omwille van kwaliteit en efficiëntie concentreert de Vlaamse ontwikkelingssamen
 
 ### ART. 10.
 
-Bij alle beleidsinitiatieven en acties die de Vlaamse ontwikkelingssamenwerking onderneemt, besteedt ze bijzondere aandacht aan de transversale thema's gender, hiv/aids, kinderrechten, personen met een handicap, goed bestuur en duurzame ontwikkeling.<br />
+Bij alle beleidsinitiatieven en acties die de Vlaamse ontwikkelingssamenwerking onderneemt, besteedt ze bijzondere aandacht aan de transversale thema's onderwijs, gender, hiv/aids, kinderrechten, personen met een handicap, goed bestuur en duurzame ontwikkeling.
 
 ## HOOFDSTUK IV. Actoren
 
