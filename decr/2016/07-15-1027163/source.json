@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027163,
+  "title": "Decreet van 2016-07-15 houdende wijziging van het kaderdecreet van 22 juni 2007 inzake ontwikkelingssamenwerking, wat onderwijs als transversaal thema betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027163/VolledigDocument?datum=2016-09-03",
+  "source_sha256": "0e4d2864fd6a13978b1f3af54574a0a5be0d405bfc15619059801524fd6ac261",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027163&param=informatie",
+  "as_of": "2016-09-03",
+  "made": "2016-07-15",
+  "gazette": "2016-08-24",
+  "numac": 2016036215,
+  "document_start": "2016-09-03",
+  "document_end": null,
+  "in_force": "2016-09-03",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-09-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
