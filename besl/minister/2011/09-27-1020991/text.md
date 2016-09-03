@@ -8,7 +8,94 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-Ter uitvoering van artikel 59, § 1, 1°, van het Fokkerijbesluit van 19   maart 2010 zijn de volgende verenigingen en organisaties van fokkers erkend :   <BR>1° Vlaamse Piétrain Fokkerij vzw, met ondernemingsnummer 479.920.168, voor   het bijhouden van een stamboek voor alle varkensrassen;<BR>2° de vzw Kleine   Herkauwers Vlaanderen, met ondernemingsnummer 865.752.417, voor het bijhouden   van een stamboek voor de rassen : <BR>a) voor schapen : <BR>1) Texel; <BR>2)   Suffolk; <BR>3) Hampshire Down; <BR>4) Ile-de-France; <BR>5) Bleu du Maine;   <BR>6) Belgisch Melkschaap; <BR>7) Zwartbles; <BR>8) Swifter; <BR>9) Blauwe   Texelaar;<BR>10) Rouge de l'Ouest; <BR>11) Wiltshire Horn; <BR>12) Kerry Hill;   <BR>13) Clun Forest; <BR>14) Romanov;<BR>15) Herdwick; <BR>b) voor geiten :   <BR>1) Witte Geit; <BR>2) Hertkleurige Geit; <BR>3) Toggenburger Geit; <BR>4)   Anglo-Nubische Geit; <BR>5) Bonte Geit; <BR>6) Boergeit;<BR>3° het Steunpunt   Levend Erfgoed vzw, met ondernemingsnummer 450.819.178, voor het bijhouden van   een stamboek voor de rassen : <BR>a) voor schapen : <BR>1) Ardense Voskop;<BR>2)   Houtlandschaap;<BR>3) Entre-Sambre et Meuse;<BR>4) Kempens Schaap;<BR>5) Lakens   Schaap;<BR>6) Mergellandschaap;<BR>7) Vlaams Kuddeschaap;<BR>8) Vlaams   Schaap;<BR>9) Ouessant; <BR>10) Castlemilk Moorit;<BR>b) voor geiten : <BR>1)   Kempense Geit;<BR>2) Vlaamse Geit; <BR>4° de vzw Belgisch Warmbloedpaard, met   ondernemingsnummer 410.346.424 voor het bijhouden van een stamboek voor de   rassen : <BR>a) Belgisch Warmbloedpaard;<BR>b) Belgische Rijpony;<BR>c) Dartmoor   Pony;<BR>d) Connemara Pony;<BR>e) Tuigpaard;<BR>5° de vzw Belgisch Arabische   Paardenstamboek, met ondernemingsnummer 415.358.453, voor het bijhouden van een   stamboek voor de rassen : <BR>a) Arabisch Volbloedpaard;<BR>b) Anglo-Arabisch   Volbloedpaard;<BR>c) Arabisch Halfbloedpaard;<BR>d) Anglo-Arabisch Sportpaard;   <BR>e) Belgian Pinto Arabian Horse <BR>6° de vzw De Belgische   Haflingervereniging, met ondernemingsnummer 407.971.508, voor het bijhouden van   een stamboek voor het ras Haflinger;<BR>7° de vzw Belgisch Welsh Pony Stamboek,   met ondernemingsnummer 410.727.494, voor het bijhouden van een stamboek voor het   ras Welsh Pony;<BR>8° de vzw Belgian New Forest Pony Studbook, met   ondernemingsnummer 412.046.892, voor het bijhouden van een stamboek voor het ras   New Forest Pony;<BR>9° de vzw Belgisch Studbook van de Shetland Pony, met   ondernemingsnummer 410.727.395, voor het bijhouden van een stamboek voor het ras   Shetland Pony;<BR>10° de vzw Belgisch Stamboek voor IJslandse Paarden,   vereniging voor de bevordering van het IJslands paardenras, met   ondernemingsnummer 418.197.286, voor het bijhouden van een stamboek voor het   bijhouden van een stamboek, voor het ras IJslandse Paard;<BR>11° de vzw Belgisch   Stamboek van de Lipizzaner, met ondernemingsnummer 419.603.291, voor het   bijhouden van een stamboek voor het ras Lipizzaner;<BR>12° de vzw Belgian   Highland Pony Society, met ondernemingsnummer 454.808.254, voor het bijhouden   van een stamboek voor het ras Highland Pony;<BR>13° de vzw Studbook   Zangersheide, met ondernemingsnummer 449.503.542, voor het bijhouden van een   stamboek, voor het ras Zangersheide;<BR>14° de vzw Belgisch Stamboek voor het   Miniatuurpaard, met ondernemingsnummer 453.342.366, voor het bijhouden van een   stamboek voor het ras Miniatuurpaard;<BR>15° de vzw Vlaamse Fokkers van het   Belgisch Trekpaard, met ondernemingsnummer 461.206.294, voor het bijhouden van   een stamboek voor het ras Belgisch Trekpaard;<BR>16° de vzw Vlaams Paard, met   ondernemingsnummer 470.503.052, voor het bijhouden van een stamboek voor het ras   Vlaams Paard;<BR>17° de vzw Belgische Ezel Vrienden, met ondernemingsnummer   476.665.027, voor het bijhouden van een stamboek voor alle rassen van   ezels;<BR>18° de vzw Het Belgisch Mérens Stamboek - Le Studbook belge du Mérens   asbl, met ondernemingsnummer 876.489.624, voor het bijhouden van een stamboek   voor het ras Merens;<BR>19° de vzw Europese Arabo-Friezen Stamboek, met   ondernemingsnummer 870.957.951, voor het bijhouden van een stamboek voor het ras   Arabo-Friese Paard;<BR>20° de vzw Belgisch Stamboek van het Friese Paard, met   ondernemingsnummer 426.528.103, voor het bijhouden van een stamboek voor het ras   Friese Paard;<BR>21° de vzw Belgian Quarter Horse Association, met   ondernemingsnummer 443.584.562, voor het bijhouden van een stamboek voor de   rassen:<BR>a) American Quarter Horse;<BR>b) American Paint Horse;<BR>22° de vzw   Irish Cob Society België, met ondernemingsnummer 891.307.264, voor het bijhouden   van een stamboek voor het ras Irish Cob;<BR>23° de vzw Belgisch Tinker Stamboek,   met ondernemingsnummer 861.995.250, voor het bijhouden van een stamboek voor het   ras Tinker;<BR>24° de vzw Vlaamse Federatie voor Paardenwedrennen, met   ondernemingsnummer 871.062.869, voor het bijhouden van een stamboek voor de   rassen : <BR>a) Belgische Draver;<BR>b) Engels Volbloed;<BR>25° de vzw Belgisch   Stamboek voor Fjordenpaarden - Studbook belge du Fjording, met   ondernemingsnummer 415.580.662, voor het bijhouden van een stamboek voor het ras   Fjord;<BR>26° de vzw Vlaamse Rundveeteeltvereniging, met ondernemingsnummer   440.734.841, voor het bijhouden van een stamboek voor de rassen : <BR>a)   Holstein;<BR>b) Belgisch Witblauw;<BR>c) Witrood;<BR>d) Rood;<BR>e) Vlaams   Blonde d'Aquitaine;<BR>f) Kempens Roodbont.<BR>27° de VZW Koudbloed koepel, met   ondernemingsnummer 820.316.627, voor het bijhouden van een stamboek voor het ras   Boulonnais.<BR>
+Ter uitvoering van artikel 59, § 1, 1°, van het Fokkerijbesluit van 19 maart 2010 zijn de volgende verenigingen en organisaties van fokkers erkend:<br>
+1° Vlaamse Piétrain Fokkerij vzw, met ondernemingsnummer 479.920.168, voor het bijhouden van een stamboek voor alle varkensrassen;<br>
+2° de vzw Kleine Herkauwers Vlaanderen, met ondernemingsnummer 865.752.417, voor het bijhouden van een stamboek voor de rassen:<br>
+a) voor schapen:<br>
+1) Texel;<br>
+2) Suffolk;<br>
+3) Hampshire Down;<br>
+4) Ile-de-France;<br>
+5) Bleu du Maine;<br>
+6) Belgisch Melkschaap;<br>
+7) Zwartbles;<br>
+8) Swifter;<br>
+9) Blauwe Texelaar;<br>
+10) Rouge de l'Ouest;<br>
+11) Wiltshire Horn;<br>
+12) Kerry Hill;<br>
+13) Clun Forest;<br>
+14) Romanov;<br>
+15) Herdwick;<br>
+b) voor geiten :<br>
+1) Witte Geit;<br>
+2) Hertkleurige Geit;<br>
+3) Toggenburger Geit;<br>
+4) Anglo-Nubische Geit;<br>
+5) Bonte Geit;<br>
+6) Boergeit;<br>
+3° het Steunpunt Levend Erfgoed vzw, met ondernemingsnummer 450.819.178, voor het bijhouden van een stamboek voor de rassen:<br>
+a) voor schapen:<br>
+1) Ardense Voskop;<br>
+2) Houtlandschaap;<br>
+3) Entre-Sambre et Meuse;<br>
+4) Kempens Schaap;<br>
+5) Lakens Schaap;<br>
+6) Mergellandschaap;<br>
+7) Vlaams Kuddeschaap;<br>
+8) Vlaams Schaap;<br>
+9) Ouessant;<br>
+10) Castlemilk Moorit;<br>
+b) voor geiten:<br>
+1) Kempense Geit;<br>
+2) Vlaamse Geit;<br>
+4° de vzw Belgisch Warmbloedpaard, met ondernemingsnummer 410.346.424 voor het bijhouden van een stamboek voor de rassen:<br>
+a) Belgisch Warmbloedpaard;<br>
+b) Belgische Rijpony;<br>
+c) Dartmoor Pony;<br>
+d) Connemara Pony;<br>
+e) Tuigpaard;<br>
+5° de vzw Belgisch Arabisch Paardenstamboek, met ondernemingsnummer 415.358.453, voor het bijhouden van een stamboek voor het ras Arabisch Volbloed;<br>
+6° de vzw De Belgische Haflingervereniging, met ondernemingsnummer 407.971.508, voor het bijhouden van een stamboek voor het ras Haflinger;<br>
+7° de vzw Belgisch Welsh Pony Stamboek, met ondernemingsnummer 410.727.494, voor het bijhouden van een stamboek voor het ras Welsh Pony;<br>
+8° de vzw Belgian New Forest Pony Studbook, met ondernemingsnummer 412.046.892, voor het bijhouden van een stamboek voor het ras New Forest Pony;<br>
+9° de vzw Belgisch Studbook van de Shetland Pony, met ondernemingsnummer 410.727.395, voor het bijhouden van een stamboek voor het ras Shetland Pony;<br>
+10° de vzw Belgisch Stamboek voor IJslandse Paarden, vereniging voor de bevordering van het IJslands paardenras, met ondernemingsnummer 418.197.286, voor het bijhouden van een stamboek voor het bijhouden van een stamboek, voor het ras IJslandse Paard;<br>
+11° de vzw Belgisch Stamboek van de Lipizzaner, met ondernemingsnummer 419.603.291, voor het bijhouden van een stamboek voor het ras Lipizzaner;<br>
+12° de vzw Belgian Highland Pony Society, met ondernemingsnummer 454.808.254, voor het bijhouden van een stamboek voor het ras Highland Pony;<br>
+13° de vzw Studbook Zangersheide, met ondernemingsnummer 449.503.542, voor het bijhouden van een stamboek, voor het ras Zangersheide;<br>
+14° de vzw Belgisch Stamboek voor het Miniatuurpaard, met ondernemingsnummer 453.342.366, voor het bijhouden van een stamboek voor het ras Miniatuurpaard;<br>
+15° de vzw Vlaamse Fokkers van het Belgisch Trekpaard, met ondernemingsnummer 461.206.294, voor het bijhouden van een stamboek voor het ras Belgisch Trekpaard;<br>
+16° de vzw Vlaams Paard, met ondernemingsnummer 470.503.052, voor het bijhouden van een stamboek voor het ras Vlaams Paard;<br>
+17° de vzw Belgische Ezel Vrienden, met ondernemingsnummer 476.665.027, voor het bijhouden van een stamboek voor alle rassen van ezels;<br>
+18° de vzw Het Belgisch Mérens Stamboek - Le Studbook belge du Mérens asbl, met ondernemingsnummer 876.489.624, voor het bijhouden van een stamboek voor het ras Merens;<br>
+19° de vzw Europese Arabo-Friezen Stamboek, met ondernemingsnummer 870.957.951, voor het bijhouden van een stamboek voor het ras Arabo-Friese Paard;<br>
+20° de vzw Belgisch Stamboek van het Friese Paard, met ondernemingsnummer 426.528.103, voor het bijhouden van een stamboek voor het ras Friese Paard;<br>
+21° de vzw Belgian Quarter Horse Association, met ondernemingsnummer 443.584.562, voor het bijhouden van een stamboek voor het ras American Quarter Horse;<br>
+22° de vzw Irish Cob Society België, met ondernemingsnummer 891.307.264, voor het bijhouden van een stamboek voor het ras Irish Cob;<br>
+23° de vzw Belgisch Tinker Stamboek, met ondernemingsnummer 861.995.250, voor het bijhouden van een stamboek voor het ras Tinker;<br>
+24° de vzw Vlaamse Federatie voor Paardenwedrennen, met ondernemingsnummer 871.062.869, voor het bijhouden van een stamboek voor de rassen:<br>
+a) Belgische Draver;<br>
+b) Engels Volbloed;<br>
+25° de vzw Belgisch Stamboek voor Fjordenpaarden - Studbook belge du Fjording, met ondernemingsnummer 415.580.662, voor het bijhouden van een stamboek voor het ras Fjord.".<br>
+26° de vzw Vlaamse Rundveeteeltvereniging, met ondernemingsnummer 440.734.841, voor het bijhouden van stamboek voor de rassen:<br>
+a) Holstein;<br>
+b) Belgisch Witblauw;<br>
+c) Witrood;<br>
+d) Rood;<br>
+e) Vlaams Blonde d'Aquitaine.
+
+### ART 1/1.
+
+Ter uitvoering van artikel 3, vijfde lid, van het Fokkerijbesluit van 19 maart 2010 zijn de volgende verenigingen erkend als een vereniging als vermeld in artikel 3, eerste lid,van hetzelfde besluit:<br>
+1° de vzw Belgisch Arabisch Paardenstamboek, met ondernemingsnummer 415.358.453, voor het bijhouden van een stamboek voor de rassen:<br>
+a) Anglo-Arabisch Volbloedpaard;<br>
+b) Arabisch Halfbloedpaard;<br>
+c) Anglo-Arabisch Sportpaard;<br>
+d) Belgian Pinto Arabian Horse;<br>
+2° de vzw Belgian Quarter Horse Association, met ondernemingsnummer 443.584.562, voor het bijhouden van een stamboek voor het ras American Paint Horse;<br>
+3° de vzw Koudbloedkoepel, met ondernemingsnummer 820.316.627, voor het bijhouden van een stamboek voor het ras Boulonnais;<br>
+4° de vzw Vlaamse Rundveeteeltvereniging, met ondernemingsnummer 440.734.841, voor het bijhouden van een stamboek voor het ras Kempens Roodbont.
 
 ### ART. 2.
 
@@ -16,7 +103,11 @@ Ter uitvoering van artikel 59, § 1, 2°, van het Fokkerijbesluit van 19   maart
 
 ### ART. 3.
 
-Ter uitvoering van artikel 59, § 1, 3°, van het Fokkerijbesluit van 19 maart 2010 zijn de volgende verenigingen erkend : <br />1° de vzw Vlaamse Confederatie van het Paard, met ondernemingsnummer 478.828.820, voor het opnemen van coördinerende taken in de fokkerij van paardachtigen;<br />2° de vzw Vlaams Interprovinciaal Verbond van Fokkers van Neerhofdieren, met ondernemingsnummer 447.471.886, voor het opnemen van coördinerende taken in de fokkerij van pluimvee en konijnen;<br />3° de vzw Vlaamse Bedrijfspluimvee- en Konijnenhouders, met ondernemingsnummer 463.941.397, voor het opnemen van coördinerende taken in de fokkerij van bedrijfspluimvee en -konijnen.<br /><br />
+Ter uitvoering van artikel 59, § 1, 3°, van het Fokkerijbesluit van 19 maart 2010 zijn de volgende verenigingen erkend :<br>
+1° de vzw PaardenPunt Vlaanderen, met ondernemingsnummer 478.828.820, voor het opnemen van coördinerende taken in de fokkerij van paardachtigen;<br>
+2° de vzw Vlaams Interprovinciaal Verbond van Fokkers van Neerhofdieren, met ondernemingsnummer 447.471.886, voor het opnemen van coördinerende taken in de fokkerij van pluimvee en konijnen;<br>
+3° de vzw Vlaamse Bedrijfspluimvee- en Konijnenhouders, met ondernemingsnummer 463.941.397, voor het opnemen van coördinerende taken in de fokkerij van bedrijfspluimvee en -konijnen.<br>
+&nbsp;
 
 ### ART. 3/1.
 
