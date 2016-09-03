@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027165,
+  "title": "Ministerieel besluit van 2016-06-27 tot wijziging van diverse bepalingen van het ministerieel besluit van 27 september 2011 tot erkenning van verenigingen, organisaties en ondernemingen ter uitvoering van artikel 4, 5, 6, 7 en 59, § 1, van het Fokkerijbesluit van 19 maart 2010",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027165/VolledigDocument?datum=2016-09-03",
+  "source_sha256": "5c428aef33a8e1a290e629c1143a3c677f4bcebd4ee2f85e4fed143fed57d2b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027165&param=informatie",
+  "as_of": "2016-09-03",
+  "made": "2016-06-27",
+  "gazette": "2016-08-24",
+  "numac": 2016036211,
+  "document_start": "2016-09-03",
+  "document_end": null,
+  "in_force": "2016-09-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-09-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
