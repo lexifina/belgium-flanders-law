@@ -20,7 +20,83 @@ De minister kan de bijlagen bij dit besluit wijzigen, met uitzondering van bijla
 
 ### ART. 4.
 
-§ 1. Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° wet   Geluidshinder : de wet van 18 juli 1973 betreffende de bestrijding van de   geluidshinder;<BR>2° decreet Milieubeleid : het decreet van 5 april 1995   houdende algemene bepalingen inzake milieubeleid;<BR>3° titel I van het VLAREM :   het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling   van het Vlaams reglement betreffende de milieuvergunning;<BR>4° titel II van het   VLAREM : het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene   en sectorale bepalingen inzake milieuhygiëne;<BR>5° besluit inzake het onderhoud   en nazicht van centrale stooktoestellen : het besluit van de Vlaamse Regering   van 8 december 2006 betreffende het onderhoud en het nazicht van stooktoestellen   voor verwarming van gebouwen of voor de aanmaak van warm verbruikswater;<BR>6°   de afdeling : de afdeling, bevoegd voor erkenningen: de afdeling   Milieuvergunningen van het Departement Leefmilieu, Natuur en Energie, zoals   thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse   Regering van 10 oktober 2003 tot regeling van de delegatie van   beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse   ministeries;<BR>7° de afdeling, bevoegd voor milieuvergunningen : de afdeling   Milieuvergunningen van het Departement Leefmilieu, Natuur en Energie, zoals   thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse   Regering van 10 oktober 2003 tot regeling van de delegatie van   beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse   ministeries;<BR>8° de afdeling, bevoegd voor geluidshinder : de afdeling Lucht,   Hinder, Risicobeheer, Milieu en Gezondheid van het Departement Leefmilieu,   Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het   besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de   delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de   Vlaamse ministeries;<BR>9° de afdeling, bevoegd voor luchtverontreiniging : de   afdeling Lucht, Hinder, Risicobeheersing, Milieu en Gezondheid van het   Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing   van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot   regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de   departementen van de Vlaamse ministeries;<BR>10° de afdeling, bevoegd voor   milieueffectrapportage : de afdeling Milieu-, Natuur- en Energiebeleid van het   Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing   van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot   regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de   departementen van de Vlaamse ministeries;<BR>11° de afdeling, bevoegd voor   natuurlijke rijkdommen : de afdeling Land en Bodembescherming, Ondergrond,   Natuurlijke Rijkdommen van het Departement Leefmilieu, Natuur en Energie, zoals   thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse   Regering van 10 oktober 2003 tot regeling van de delegatie van   beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse   ministeries;<BR>12° de afdeling, bevoegd voor bodembescherming : de afdeling   Land en Bodembescherming, Ondergrond, Natuurlijke Rijkdommen van het Departement   Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10   van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de   delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de   Vlaamse ministeries;<BR>13° de afdeling, bevoegd voor het toezicht   volksgezondheid : de afdeling Toezicht Volksgezondheid van het Vlaams Agentschap   Zorg en Gezondheid;<BR>14° de afdeling, bevoegd voor veiligheidsrapportage : de   afdeling Milieu-, Natuur- en Energiebeleid van het Departement Leefmilieu,   Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het   besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de   delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de   Vlaamse ministeries;<BR>15° het één-loket : het ondernemersloket, vermeld in het   besluit van de Vlaamse Regering van 11 december 2009 tot gedeeltelijke omzetting   van artikel 6 en 8 van Richtlijn 2006/123/EG van het Europees Parlement en de   Raad van 12 december 2006 betreffende diensten op de interne markt;<BR>16° de   minister : de Vlaamse minister, bevoegd voor het leefmilieu en het   waterbeleid;<BR>17° gebruik van de erkenning : het uitoefenen van bepaalde   functies, het verstrekken van opleidingen, het nemen van monsters en het   uitvoeren van metingen, beproevingen en analyses waarvoor de erkenning   geldt;<BR>18° referentielaboratorium : geaccrediteerde organisatie of   internationaal of nationaal erkende organisatie die voldoet aan de eisen van   ISO/IEC 17043 en die programma's van geschiktheidsbeproeving organiseert voor de   laboratoria,&nbsp;vermeld in artikel 6, 5°, voor een gedeelte van een pakket of   een volledig pakket als vermeld in bijlage 3, die bij dit besluit is gevoegd, in   voorkomend geval op concentratieniveaus die door de minister vastgelegd kunnen   worden;<BR>19° drinkwater : water, bestemd voor menselijke consumptie, als   vermeld in het decreet van 24 mei 2002 betreffende water, bestemd voor   menselijke aanwending;<BR>20° compendium : bundel met methoden voor het nemen   van monsters en het uitvoeren van metingen en analyses, die Europese (EN),   internationale (ISO) of andere genormeerde methoden of methoden die door het   referentielaboratorium van het Vlaamse Gewest werden gevalideerd in opdracht van   de Vlaamse overheid, omvatten. Het compendium wordt goedgekeurd bij ministerieel   besluit en de inhoudstafel wordt bij uittreksel bekendgemaakt in het Belgisch   Staatsblad ;<BR>21° code van goede praktijk : door de bevoegde afdeling   aanvaarde en voor het publiek toegankelijke geschreven regels met betrekking tot   de activiteiten en maatregelen, vermeld in dit besluit;<BR>22° deeldomein   afvalwater : water waarbij de te meten parameters concentratieniveaus bestrijken   die representatief zijn met betrekking tot de emissiegrenswaarden voor   afvalwater, vermeld in titel II van het VLAREM. Die concentratieniveaus kunnen   door de minister vastgelegd worden;<BR>23° deeldomein oppervlaktewater : water   waarbij de te meten parameters concentratieniveaus bestrijken die representatief   zijn met betrekking tot de milieukwaliteitsnormen voor oppervlaktewater, vermeld   in titel II van het VLAREM. Die concentratieniveaus kunnen door de minister   vastgelegd worden;<BR>24° deeldomein grondwater : water waarbij de te meten   parameters concentratieniveaus bestrijken die representatief zijn met betrekking   tot de milieukwaliteitsnormen voor grondwater, vermeld in titel II van het   VLAREM. Die concentratieniveaus kunnen door de minister vastgelegd   worden;<BR>25° deeldomein drinkwater : water waarbij de te meten parameters   concentratieniveaus bestrijken die representatief zijn met betrekking tot het   besluit van de Vlaamse Regering van 13 december 2002 houdende reglementering   inzake de kwaliteit en levering van water, bestemd voor menselijke consumptie.   Die concentratieniveaus kunnen door de minister vastgelegd worden.<BR>26°   Materialendecreet : het decreet van 23 december 2011 betreffende het duurzaam   beheer van materiaalkringlopen en afvalstoffen;<BR>27° Bodemdecreet : het   decreet van 27 oktober 2006 betreffende de bodemsanering en de   bodembescherming;<BR>28° VLAREBO : het besluit van de Vlaamse Regering van 14   december 2007 houdende vaststelling van het Vlaams reglement betreffende de   bodemsanering en de bodembescherming;<BR>29° OVAM : Openbare Vlaamse   Afvalstoffenmaatschappij;<BR>30° de afdeling, bevoegd voor afval- en   materialenbeheer : de afdeling Afval- en Materialenbeheer van de OVAM;<BR>31°   afdeling, bevoegd voor bodembeheer : de afdeling Bodembeheer van de OVAM;<BR>32°   Mestbank : de afdeling Mestbank van de Vlaamse Landmaatschappij;<BR>33°   Mestdecreet : het Mestdecreet van 22 december 2006;<BR>34° gps-datalogger :   systeem dat plaats en tijdstip van een monsterneming ondubbelzinnig registreert   op basis van global positioning;<BR>35° het compendium bemonsterings- en   analysemethodes in het kader van het Mestdecreet : het methodenboek met   bemonsterings- en analysemethodes voor meststoffen, bodem en diervoeders in het   kader van het Mestdecreet, vermeld in artikel 61, § 8, eerste lid, van het   Mestdecreet;<BR>36° het referentielaboratorium van het Vlaamse Gewest : de   Vlaamse Instelling voor Technologisch Onderzoek;<BR>37° VMM : Vlaamse   Milieumaatschappij;<BR>38° de afdeling, bevoegd voor grondwater : de afdeling   Operationeel Waterbeheer van de VMM;<BR>39° de afdeling, bevoegd voor   operationeel waterbeheer : de afdeling Operationeel Waterbeheer van de   VMM;<BR>40° de afdeling, bevoegd voor het ecologisch toezicht : de afdeling   Ecologisch Toezicht van de VMM;<BR>41° de afdeling, bevoegd voor het opvolgen   van de luchtkwaliteit : de afdeling Lucht, Milieu en Communicatie van de   VMM;<BR>42° agentschap Onroerend Erfgoed : het agentschap Onroerend Erfgoed van   het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<BR>43°   bevoegde afdeling :<BR>a) voor de aanvragen tot erkenning, vermeld in artikel 6,   1°, 2°, 4°, b) tot en met f), en 5°, a) tot en met c) : de afdeling, bevoegd   voor erkenningen;<BR>b) voor de aanvragen tot erkenning, vermeld in artikel 6,   3° en 4°, a) : de afdeling, bevoegd voor milieuvergunningen;<BR>c) voor de   aanvragen tot erkenning, vermeld in artikel 6, 5°, d) : de Mestbank;<BR>d) voor   de aanvragen tot erkenning, vermeld in artikel 6, 5°, e) : de afdeling, bevoegd   voor afval- en materialenbeheer;<BR>e) voor de aanvragen tot erkenning, vermeld   in artikel 6, 4°, g), 5°, f), en 6° : de afdeling, bevoegd voor   bodembeheer;<BR>f) voor de aanvragen tot erkenning, vermeld in artikel 6, 7° :   de afdeling, bevoegd voor grondwater. <BR>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal; TEXT-AUTOSPACE: ; mso-layout-grid-align: none">44°   de afdeling, bevoegd voor milieuhandhaving : de afdeling Milieu-inspectie van   het Departement, vermeld in artikel 10 van het besluit van de Vlaamse Regering   van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden   aan de hoofden van de departementen van de ministeries.<BR><BR>§ 2. Voor de   toepassing van artikel 25/1 en 25/2 wordt verstaan onder in dienst hebben :   kennis of ervaring op continue basis ter beschikking hebben van :<BR>1° een   werknemer die zich via arbeidsovereenkomst ertoe verbindt om tegen loon en onder   het gezag van de bodemsaneringsdeskundige arbeid te verrichten;<BR>2° een   zelfstandige op voorwaarde dat hij zijn dienstverlening met betrekking tot die   kennis of ervaring maximaal aan drie bodemsaneringsdeskundigen ter beschikking   stelt. <BR><BR><BR></P>
+§ 1. Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° wet Geluidshinder : de wet van 18 juli 1973 betreffende de bestrijding van de geluidshinder;<br>
+2° decreet Milieubeleid : het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
+3° titel I van het VLAREM : het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning;<br>
+4° titel II van het VLAREM : het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
+5° besluit inzake het onderhoud en nazicht van centrale stooktoestellen : het besluit van de Vlaamse Regering van 8 december 2006 betreffende het onderhoud en het nazicht van stooktoestellen voor verwarming van gebouwen of voor de aanmaak van warm verbruikswater;<br>
+6° de afdeling : de afdeling, bevoegd voor erkenningen: de afdeling Milieuvergunningen van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
+7° de afdeling, bevoegd voor milieuvergunningen : de afdeling Milieuvergunningen van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
+8° de afdeling, bevoegd voor geluidshinder : de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
+9° de afdeling, bevoegd voor luchtverontreiniging : de afdeling Lucht, Hinder, Risicobeheersing, Milieu en Gezondheid van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
+10° de afdeling, bevoegd voor milieueffectrapportage : de afdeling Milieu-, Natuur- en Energiebeleid van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
+11° de afdeling, bevoegd voor natuurlijke rijkdommen : de afdeling Land en Bodembescherming, Ondergrond, Natuurlijke Rijkdommen van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
+12° de afdeling, bevoegd voor bodembescherming : de afdeling Land en Bodembescherming, Ondergrond, Natuurlijke Rijkdommen van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
+13° de afdeling, bevoegd voor het toezicht volksgezondheid : de afdeling Toezicht Volksgezondheid van het Vlaams Agentschap Zorg en Gezondheid;<br>
+14° de afdeling, bevoegd voor veiligheidsrapportage : de afdeling Milieu-, Natuur- en Energiebeleid van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
+15° het één-loket : het ondernemersloket, vermeld in het besluit van de Vlaamse Regering van 11 december 2009 tot gedeeltelijke omzetting van artikel 6 en 8 van Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende diensten op de interne markt;<br>
+16° de minister : de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid;<br>
+17° gebruik van de erkenning : het uitvoeren van bepaalde werkzaamheden of keuringen, het uitoefenen van bepaalde functies, het verstrekken van opleidingen, het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses waarvoor de erkenning geldt;<br>
+18° referentielaboratorium : geaccrediteerde organisatie of internationaal of nationaal erkende organisatie die voldoet aan de eisen van ISO/IEC 17043 en die programma's van geschiktheidsbeproeving organiseert voor de laboratoria,&nbsp;vermeld in artikel 6, 5°, voor een gedeelte van een pakket of een volledig pakket als vermeld in bijlage 3, die bij dit besluit is gevoegd, in voorkomend geval op concentratieniveaus die door de minister vastgelegd kunnen worden;<br>
+19° drinkwater : water, bestemd voor menselijke consumptie, als vermeld in het decreet van 24 mei 2002 betreffende water, bestemd voor menselijke aanwending;<br>
+20° compendium : bundel met methoden voor het nemen van monsters en het uitvoeren van metingen en analyses, die Europese (EN), internationale (ISO) of andere genormeerde methoden of methoden die door het referentielaboratorium van het Vlaamse Gewest werden gevalideerd in opdracht van de Vlaamse overheid, omvatten. Het compendium wordt goedgekeurd bij ministerieel besluit en de inhoudstafel wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad ;<br>
+21° code van goede praktijk : door de bevoegde afdeling aanvaarde en voor het publiek toegankelijke geschreven regels met betrekking tot de activiteiten en maatregelen, vermeld in dit besluit;<br>
+22° deeldomein afvalwater : water waarbij de te meten parameters concentratieniveaus bestrijken die representatief zijn met betrekking tot de emissiegrenswaarden voor afvalwater, vermeld in titel II van het VLAREM. Die concentratieniveaus kunnen door de minister vastgelegd worden;<br>
+23° deeldomein oppervlaktewater : water waarbij de te meten parameters concentratieniveaus bestrijken die representatief zijn met betrekking tot de milieukwaliteitsnormen voor oppervlaktewater, vermeld in titel II van het VLAREM. Die concentratieniveaus kunnen door de minister vastgelegd worden;<br>
+24° deeldomein grondwater : water waarbij de te meten parameters concentratieniveaus bestrijken die representatief zijn met betrekking tot de milieukwaliteitsnormen voor grondwater, vermeld in titel II van het VLAREM. Die concentratieniveaus kunnen door de minister vastgelegd worden;<br>
+25° deeldomein drinkwater : water waarbij de te meten parameters concentratieniveaus bestrijken die representatief zijn met betrekking tot het besluit van de Vlaamse Regering van 13 december 2002 houdende reglementering inzake de kwaliteit en levering van water, bestemd voor menselijke consumptie. Die concentratieniveaus kunnen door de minister vastgelegd worden.<br>
+26° Materialendecreet : het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
+27° Bodemdecreet : het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming;<br>
+28° VLAREBO : het besluit van de Vlaamse Regering van 14 december 2007 houdende vaststelling van het Vlaams reglement betreffende de bodemsanering en de bodembescherming;<br>
+29° OVAM : Openbare Vlaamse Afvalstoffenmaatschappij;<br>
+30° de afdeling, bevoegd voor afval- en materialenbeheer : de afdeling Afval- en Materialenbeheer van de OVAM;<br>
+31° afdeling, bevoegd voor bodembeheer : de afdeling Bodembeheer van de OVAM;<br>
+32° Mestbank : de afdeling Mestbank van de Vlaamse Landmaatschappij;<br>
+33° Mestdecreet : het Mestdecreet van 22 december 2006;<br>
+34° gps-datalogger : systeem dat plaats en tijdstip van een monsterneming ondubbelzinnig registreert op basis van global positioning;<br>
+35° het compendium bemonsterings- en analysemethodes in het kader van het Mestdecreet : het methodenboek met bemonsterings- en analysemethodes voor meststoffen, bodem en diervoeders in het kader van het Mestdecreet, vermeld in artikel 61, § 8, eerste lid, van het Mestdecreet;<br>
+36° het referentielaboratorium van het Vlaamse Gewest : de Vlaamse Instelling voor Technologisch Onderzoek;<br>
+37° VMM : Vlaamse Milieumaatschappij;<br>
+38° de afdeling, bevoegd voor grondwater : de afdeling Operationeel Waterbeheer van de VMM;<br>
+39° de afdeling, bevoegd voor operationeel waterbeheer : de afdeling Operationeel Waterbeheer van de VMM;<br>
+40° de afdeling, bevoegd voor het ecologisch toezicht : de afdeling Ecologisch Toezicht van de VMM;<br>
+41° de afdeling, bevoegd voor het opvolgen van de luchtkwaliteit : de afdeling Lucht, Milieu en Communicatie van de VMM;<br>
+42° agentschap Onroerend Erfgoed : het agentschap Onroerend Erfgoed van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+43° bevoegde afdeling :<br>
+a) voor de aanvragen tot erkenning,&nbsp;vermeld in artikel 6, 1°, 2°, 4°, b) tot en met f) en h) tot en met l), 5°, a) tot en met c), 7°, b) en c) en 8° : de afdeling, bevoegd voor erkenningen;<br>
+b) voor de aanvragen tot erkenning, vermeld in artikel 6, 3° en 4°, a) : de afdeling, bevoegd voor milieuvergunningen;<br>
+c) voor de aanvragen tot erkenning, vermeld in artikel 6, 5°, d) : de Mestbank;<br>
+d) voor de aanvragen tot erkenning, vermeld in artikel 6, 5°, e) : de afdeling, bevoegd voor afval- en materialenbeheer;<br>
+e) voor de aanvragen tot erkenning, vermeld in artikel 6, 4°, g), 5°, f), en 6° : de afdeling, bevoegd voor bodembeheer;<br>
+f) voor de aanvragen tot erkenning,&nbsp;vermeld in artikel 6, 7°, a) : de afdeling, bevoegd voor grondwater.<br>
+44° de afdeling, bevoegd voor milieuhandhaving : de afdeling Milieu-inspectie van het Departement, vermeld in artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de ministeries.<br>
+45° titel III van het VLAREM : het besluit van de Vlaamse Regering van 16 mei 2014 houdende bijkomende algemene en sectorale milieuvoorwaarden voor GPBV-installaties;<br>
+46° verordening nr. 1005/2009 : verordening (EG) nr. 1005/2009 van het Europees Parlement en de Raad van 16 september 2009 betreffende de ozonlaag afbrekende stoffen;<br>
+47° verordening nr. 517/2014 : verordening (EU) nr. 517/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van verordening (EG) nr. 842/2006;<br>
+48° verordening nr. 2015/2066 : uitvoeringsverordening (EU) 2015/2066 van de Commissie van 17 november 2015 tot vaststelling, ingevolge Verordening (EU) nr. 517/2014 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van natuurlijke personen die gefluoreerde broeikasgassen bevattende elektrische schakelinrichtingen installeren, servicen, onderhouden, repareren of buiten dienst stellen of gefluoreerde broeikasgassen terugwinnen uit stationaire elektrische schakelinrichtingen;<br>
+49° verordening nr. 2015/2067 : uitvoeringsverordening (EU) 2015/2067 van de Commissie van 17 november 2015 tot vaststelling, ingevolge Verordening (EU) nr. 517/2014 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van natuurlijke personen betreffende stationaire koel-, klimaatregelings- en warmtepompapparatuur en koeleenheden op koelwagens en koelaanhangwagens die gefluoreerde broeikasgassen bevatten, en voor de certificering van bedrijven betreffende stationaire koel-, klimaatregelings- en warmtepompapparatuur die gefluoreerde broeikasgassen bevat;<br>
+50° verordening nr. 304/2008 : verordening (EG) nr. 304/2008 van de Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning van de certificering van bedrijven en personeel op het gebied van stationaire brandbeveiligingssystemen en brandblusapparaten die bepaalde gefluoreerde broeikasgassen bevatten;<br>
+51° verordening nr. 306/2008 : verordening (EG) nr. 306/2008 van de Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning van de certificering van personeel voor de terugwinning van bepaalde oplosmiddelen op basis van gefluoreerde broeikasgassen uit apparatuur;<br>
+52° verordening nr. 307/2008 : verordening (EG) nr. 307/2008 van de Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen voor opleidingsprogramma's en de voorwaarden voor wederzijdse erkenning van opleidingsgetuigschriften voor personeel op het gebied van bepaalde gefluoreerde broeikasgassen bevattende klimaatregelingssystemen in bepaalde motorvoertuigen;<br>
+53° gefluoreerde broeikasgassen : fluorkoolwaterstoffen, perfluorkoolstoffen, zwavelhexafluoride en andere broeikasgassen die fluor bevatten als vermeld in bijlage I van verordening nr. 517/2014, afzonderlijk of in een mengsel;<br>
+54° ozonlaagafbrekende stoffen : de stoffen die zijn opgenomen in bijlage I van verordening nr. 1005/2009, met inbegrip van de isomeren ervan, afzonderlijk of in een mengsel, ongeacht of het nieuw geproduceerde, teruggewonnen, gerecycleerde of geregenereerde stoffen betreft;<br>
+55° koelinstallatie : het geheel van de onderdelen en apparaten die nodig zijn voor de werking van een koelsysteem. Het gaat hier ook om luchtconditioneringsinstallaties en warmtepompen die een koelsysteem bevatten;<br>
+56° ton CO2-equivalent : een hoeveelheid broeikasgassen, uitgedrukt als het product van het gewicht van de broeikasgassen in metrische ton en het aardopwarmingsvermogen ervan;<br>
+57° aardopwarmingsvermogen : het klimaatopwarmingsvermogen van een broeikasgas in verhouding tot dat van CO2, berekend in termen van het opwarmingsvermogen in een periode van honderd jaar van één kilogram van een broeikasgas in verhouding tot één kilogram CO2, als opgenomen in bijlage I, II en IV van verordening nr. 517/2014 of, voor mengsels, berekend volgens de methode, vermeld in bijlage IV van verordening nr. 517/2014;<br>
+58° brandbeveiligingsapparatuur : de apparatuur en de systemen die worden gebruikt bij brandbeveiligings- en brandblustoepassingen. Brandblussers maken hier ook deel van uit;<br>
+59° instantie die het sectorale opleidingsbeleid ondersteunt : een instantie die het sectorale opleidingsbeleid ondersteunt zoals bepaald in de collectieve arbeidsovereenkomsten van de sectoren voor het Garagebedrijf (P.C. 112), het Koetswerk (P.s.C. 149.02), de Metaalhandel (P.s.C. 149.04) en de Terugwinning van metalen (P.s.C. 142.01);<br>
+60° klimaatregelingsapparatuur in bepaalde motorvoertuigen : de apparatuur die hoofdzakelijk bedoeld is om de luchttemperatuur en de vochtigheid in de passagiersruimte van een voertuig te regelen;<br>
+61° elektrische schakelinrichtingen : schakeltoestellen en combinaties daarvan met de bijbehorende controle-, meet-, beschermings- en reguleringsapparatuur, en samenstellingen van dergelijke toestellen en apparatuur met de bijbehorende koppelingen, accessoires, behuizingen en ondersteunende structuren, die bedoeld zijn voor gebruik in verband met het opwekken, het overbrengen, de distributie en de omzetting van elektrische energie;<br>
+62° installatie : het samenvoegen van twee of meer delen van apparatuur of circuits die gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevatten of daartoe ontworpen zijn, om een systeem te monteren op de plaats waar het zal worden geëxploiteerd, dat met zich meebrengt dat gastransporterende geleiders van een systeem worden samengevoegd om een circuit te voltooien, ongeacht of het systeem na montage moet worden gevuld of niet;<br>
+63° onderhoud : alle activiteiten, met uitsluiting van terugwinning en controles op lekken als vermeld in artikel 4 van verordening nr. 517/2014 en artikel 23 van verordening nr. 1005/2009 die met zich brengen dat de circuits die gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevatten of daartoe ontworpen zijn, worden geopend, namelijk het toevoegen aan het systeem van gefluoreerde broeikasgassen, het verwijderen van een of meer onderdelen van het circuit of de apparatuur, het opnieuw monteren van twee of meer onderdelen van het circuit of de apparatuur, alsook het repareren van lekkages;<br>
+64° reparatie : het herstel van beschadigde of lekkende producten of apparatuur die gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevatten of nodig hebben voor de werking ervan, en waarvan een onderdeel zulke gassen bevat dan wel daartoe ontworpen is;<br>
+65° buitendienststelling : het definitieve stilleggen en buiten werking of gebruik stellen van een product of deel van de apparatuur dat gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevat;<br>
+66° terugwinning : het verzamelen en opslaan van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen uit producten, waaronder houders, en apparatuur gedurende het onderhoud, dan wel voorafgaand aan de verwijdering van de producten of de apparatuur.<br>
+<br>
+§ 2. Voor de toepassing van artikel 25/1 en 25/2 wordt verstaan onder beschikken over : ofwel zelf beschikken over, ofwel op continue basis ter beschikking hebben via :<br>
+1° een werknemer die zich via arbeidsovereenkomst ertoe verbindt om tegen loon en onder het gezag van de bodemsaneringsdeskundige arbeid te verrichten;<br>
+2° een zelfstandige op voorwaarde dat hij zijn dienstverlening met betrekking tot die kennis of ervaring maximaal aan drie bodemsaneringsdeskundigen ter beschikking stelt.
 
 ## HOOFDSTUK 2 [Het referentielaboratorium van het Vlaamse Gewest (verv. BVR 1 maart 2013, art. 87, I: 3 mei 2013)]
 
@@ -32,7 +108,84 @@ De minister kan de bijlagen bij dit besluit wijzigen, met uitzondering van bijla
 
 ### ART. 6.
 
-De erkenningen worden ingedeeld in de volgende categorieën :<BR>1°   deskundigen :<BR>a) milieudeskundige in de discipline houders voor gassen of   gevaarlijke stoffen, vermeld in artikel 1.3.1.1, § 1, van titel II van het   VLAREM, met betrekking tot een of meer van de domeinen, vermeld in bijlage 4,   die bij dit besluit is gevoegd;<BR>b) milieudeskundige in de discipline   bodemcorrosie, vermeld in artikel 1.3.1.1, § 1, van titel II van het   VLAREM;<BR>c) milieudeskundige in de discipline geluid en trillingen, vermeld in   artikel 1.3.1.1, § 2, van titel II van het VLAREM, met betrekking tot een van de   deeldomeinen of voor beide :<BR>1) geluid, voor :<BR>a. het uitvoeren van   akoestische onderzoeken, het opstellen en begeleiden van saneringsplannen   volgens de bijlagen 4.5.2 en 4.5.3 van titel II van het VLAREM en het beproeven   of controleren van apparaten en inrichtingen die lawaai kunnen veroorzaken, die   bestemd zijn om het lawaai te meten of de hinder ervan te verhelpen;<BR>b.   optioneel, het beproeven of controleren van apparaten en inrichtingen die   bestemd zijn om het lawaai te dempen of op te slorpen;<BR>2) trillingen, voor   het uitvoeren van trillingsmetingen, het opstellen en begeleiden van   saneringsplannen en het beproeven of controleren van apparaten en inrichtingen   die trillingen kunnen veroorzaken, die bestemd zijn om trillingen te meten of de   hinder ervan te verhelpen;<BR>d) MER-deskundige : deskundige voor het opstellen   van milieueffectrapporten als vermeld in titel IV van het decreet Milieubeleid,   met betrekking tot een of meer van de volgende disciplines en deeldomeinen   :<BR>1) mens : toxicologie, psychosomatische aspecten, mobiliteit en ruimtelijke   aspecten;<BR>2) fauna en flora;<BR>3) bodem : pedologie en geologie;<BR>4) water   : geohydrologie, oppervlakte- en afvalwater, en mariene waters;<BR>5) lucht :   geur en luchtverontreiniging;<BR>6) licht, warmte en elektromagnetische   golven;<BR>7) geluid en trillingen : geluid en trillingen;<BR>8) klimaat;<BR>9)   landschap, bouwkundig erfgoed en archeologie : landschap, bouwkundig erfgoed en   archeologie;<BR>e) VR-deskundige : deskundige voor het opstellen van omgevings-   en ruimtelijke veiligheidsrapporten als vermeld in titel IV van het decreet   Milieubeleid;<BR>f) airco-energiedeskundige : deskundige voor het uitvoeren van   keuringen aan airconditioningsystemen met een nominaal koelvermogen van meer dan   12 kW als vermeld in artikel 5.16.3.3, § 3, eerste lid, 4°, artikel   5bis.15.5.4.5.4, § 6, eerste lid, of artikel 5bis.19.8.4.8.4, § 6, eerste lid,   van titel II van het VLAREM; <BR>2° technici :<BR>a) technicus vloeibare   brandstof als vermeld in artikel 2 van het besluit inzake het onderhoud en   nazicht van centrale stooktoestellen;<BR>b) technicus gasvormige brandstof als   vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van   centrale stooktoestellen;<BR>c) technicus verwarmingsaudit als vermeld in   artikel 2 van het besluit inzake het onderhoud en nazicht van centrale   stooktoestellen;<BR>d) stookolietechnicus : de erkende technicus als vermeld in   artikel 6.5.6.3 van titel II van het VLAREM;<BR>3° milieucoördinatoren en   milieuverificateurs, belast met de validatie van de decretale milieuaudit   :<BR>a) milieucoördinatoren als vermeld in artikel 4.1.9.1.2, § 2, 2°, d), van   titel II van het VLAREM;<BR>b) milieuverificateurs, belast met de validatie van   de decretaal verplichte milieuaudit als vermeld in artikel 4.1.9.2.5, § 3, van   titel II van het VLAREM;<BR>4° opleidingscentra :<BR>a) voor het verstrekken van   de aanvullende vorming voor milieucoördinatoren, vermeld in artikel 4.1.9.1.2, §   3, van titel II van het VLAREM;<BR>b) voor het uitreiken van het certificaat van   bekwaamheid en bijscholing inzake vloeibare brandstof, vermeld in artikel 2 van   het besluit inzake het onderhoud en nazicht van   centrale&nbsp;stooktoestellen;<BR>c) voor het uitreiken van het certificaat van   bekwaamheid en bijscholing inzake gasvormige brandstof, vermeld in artikel 2 van   het besluit inzake het onderhoud en nazicht van   centrale&nbsp;stooktoestellen;<BR>d) voor het uitreiken van het certificaat van   bekwaamheid en bijscholing inzake de verwarmingsaudit, vermeld in artikel 2 van   het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<BR>e)   voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de   controle en het onderhoud van stookolietanks, vermeld in artikel 6.5.6.4 van   titel II van het VLAREM;<BR>f) voor het uitreiken van het certificaat van   bekwaamheid en bijscholing inzake de keuring van airconditioningsystemen met een   nominaal koelvermogen van meer dan 12 kW, vermeld in artikel 5.16.3.3, § 3, 4°,   artikel 5bis.15.5.4.5.4, § 6, eerste lid, of artikel 5bis.19.8.4.8.4, § 6,   eerste lid, van titel II van het VLAREM;<BR>g) voor het verstrekken van de   aanvullende vorming voor bodemsaneringsdeskundigen, vermeld in artikel 8 van het   Bodemdecreet;<BR>5° laboratoria :<BR>a) laboratorium in de discipline water voor   het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses   op afvalwater, oppervlaktewater, grondwater en drinkwater in het kader van de   wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen   verontreiniging, het decreet van 24 januari 1984 houdende maatregelen inzake het   grondwaterbeheer en het decreet van 24 mei 2002 betreffende water bestemd voor   menselijke aanwending, en de uitvoeringsbesluiten ervan, en titel I en titel II   van het VLAREM, voor een of meer van de pakketten, vermeld in bijlage 3, 1°, die   bij dit besluit is gevoegd.<BR>Een laboratorium in de discipline water kan   erkend worden voor een of meer van de volgende deeldomeinen :<BR>1)   afvalwater;<BR>2) oppervlaktewater;<BR>3) grondwater;<BR>4) drinkwater;<BR>De minister kan de deeldomeinen voor een pakket vastleggen;<BR>b)   laboratorium in de discipline lucht voor het nemen van monsters en het uitvoeren   van metingen, beproevingen en analyses in het kader van de wet van 28 december   1964 betreffende de bestrijding van de luchtverontreiniging, en de   uitvoeringsbesluiten ervan, en titel I en titel II van het VLAREM, voor een of   meer van de pakketten, vermeld in bijlage 3, 2°, die bij dit besluit is   gevoegd;<BR>c) laboratorium in de discipline bodem, deeldomein bodembescherming,   voor het nemen van monsters en het uitvoeren van metingen en analyses in het   kader van de bodembescherming, vermeld in artikel 9, § 4, van het besluit van de   Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling   en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot   toepassing van de randvoorwaarden voor het pakket, vermeld in bijlage 3, 3°, die   bij dit besluit is gevoegd.<BR>d) laboratorium in de discipline bodem,   deeldomein bemesting, de discipline mest en de discipline diervoeder, voor het   nemen van monsters en het uitvoeren van analyses op bodem, meststoffen en   diervoeders in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan,   voor een of meer van de pakketten, vermeld in bijlage 3, 4°, die bij dit besluit   is gevoegd;<BR>e) laboratorium in de discipline afvalstoffen en andere   materialen voor het nemen van monsters en het uitvoeren van metingen,   beproevingen en analyses ter uitvoering van titel I en titel II van het VLAREM   en het Materialendecreet en de uitvoeringsbesluiten ervan, voor een of meer van   de pakketten, vermeld in bijlage 3, 5°, die bij dit besluit is gevoegd;<BR>f)   laboratorium in de discipline bodem, deeldomein bodemsanering, voor het   uitvoeren van analyses op bodems in het kader van bodemonderzoek ter uitvoering   van het Bodemdecreet en de uitvoeringsbesluiten ervan, voor een of meer van de   pakketten, vermeld in bijlage 3, 6°, die bij dit besluit is gevoegd;<BR>6°   bodemsaneringsdeskundigen : bodemsaneringsdeskundigen als vermeld in het   Bodemdecreet, van type 1 of type 2 :<BR>Een bodemsaneringsdeskundige van type 1   kan de volgende taken uitvoeren in het kader van het Bodemdecreet en de   uitvoeringsbesluiten ervan :<BR>a) het leiden van de uitvoering van een   oriënterend bodemonderzoek;<BR>b) het voorstellen en het leiden van de   uitvoering van voorzorgsmaatregelen en veiligheidsmaatregelen, voor zover die   maatregelen geen grondwateronttrekkingen omvatten;<BR>c) het leiden van het   opstellen van een technisch verslag;<BR>d) het leiden van het opstellen van een   studie van de ontvangende grond;<BR>e) het opstellen van een evaluatierapport   als vermeld in artikel 78 van het Bodemdecreet.<BR>Een bodemsaneringsdeskundige   van type 2 kan alle taken uitvoeren die in het kader van het Bodemdecreet en de   uitvoeringsbesluiten ervan aan een bodemsaneringsdeskundige zijn   toegewezen;<BR>7° boorbedrijven : boorbedrijven met betrekking tot een of meer   van de volgende disciplines, waarbij de boringen uitgevoerd in het kader van het   Bodemdecreet en de uitvoeringsbesluiten ervan, en handboringen en horizontale   boringen, voor zover deze niet vergunningsplichtig zijn, worden uitgesloten van   het toepassingsgebied van deze disciplines :<BR>a) bemalingen en draineringen :   bemalingen en draineringen als vermeld in rubriek 53.2, 53.3, 53.4 en 53.5 van   bijlage 1 van titel I van het VLAREM;<BR>b) andere grondwaterwinningen : andere   grondwaterwinningen dan de grondwaterwinningen, vermeld in punt a);<BR>c)   stabiliteitsboringen en geotechnische boringen, met uitzondering van   stabiliteitsboringen en geotechnische boringen als vermeld in rubriek 55.2 en   55.3 van bijlage 1 van titel I van het VLAREM;<BR>d) verticale boringen :   verticale boringen als vermeld in rubriek 55.1 van bijlage 1 van titel I van het   VLAREM, met uitzondering van de boringen, vermeld in punt c);<BR>e) andere   boringen : andere boringen dan de boringen, vermeld in punt a) tot en met   d).<BR><BR>
+De erkenningen worden ingedeeld in de volgende categorieën :<br>
+1° deskundigen :<br>
+a) milieudeskundige in de discipline houders voor gassen of gevaarlijke stoffen, vermeld in artikel 1.3.1.1, § 1, van titel II van het VLAREM, met betrekking tot een of meer van de domeinen, vermeld in bijlage 4, die bij dit besluit is gevoegd;<br>
+b) milieudeskundige in de discipline bodemcorrosie, vermeld in artikel 1.3.1.1, § 1, van titel II van het VLAREM;<br>
+c) milieudeskundige in de discipline geluid en trillingen, vermeld in artikel 1.3.1.1, § 2, van titel II van het VLAREM, met betrekking tot een van de deeldomeinen of voor beide :<br>
+1) geluid, voor :<br>
+a. het uitvoeren van akoestische onderzoeken, het opstellen en begeleiden van saneringsplannen volgens de bijlagen 4.5.2 en 4.5.3 van titel II van het VLAREM en het beproeven of controleren van apparaten en inrichtingen die lawaai kunnen veroorzaken, die bestemd zijn om het lawaai te meten of de hinder ervan te verhelpen;<br>
+b. optioneel, het beproeven of controleren van apparaten en inrichtingen die bestemd zijn om het lawaai te dempen of op te slorpen;<br>
+2) trillingen, voor het uitvoeren van trillingsmetingen, het opstellen en begeleiden van saneringsplannen en het beproeven of controleren van apparaten en inrichtingen die trillingen kunnen veroorzaken, die bestemd zijn om trillingen te meten of de hinder ervan te verhelpen;<br>
+d) MER-deskundige : deskundige voor het opstellen van milieueffectrapporten als vermeld in titel IV van het decreet Milieubeleid, met betrekking tot een of meer van de volgende disciplines en deeldomeinen :<br>
+1) mens : toxicologie, psychosomatische aspecten, mobiliteit en ruimtelijke aspecten;<br>
+2) fauna en flora;<br>
+3) bodem : pedologie en geologie;<br>
+4) water : geohydrologie, oppervlakte- en afvalwater, en mariene waters;<br>
+5) lucht : geur en luchtverontreiniging;<br>
+6) licht, warmte en elektromagnetische golven;<br>
+7) geluid en trillingen : geluid en trillingen;<br>
+8) klimaat;<br>
+9) landschap, bouwkundig erfgoed en archeologie : landschap, bouwkundig erfgoed en archeologie;<br>
+e) VR-deskundige : deskundige voor het opstellen van omgevings- en ruimtelijke veiligheidsrapporten als vermeld in titel IV van het decreet Milieubeleid;<br>
+f) airco-energiedeskundige : deskundige voor het uitvoeren van keuringen aan airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW als vermeld in artikel 5.16.3.3, § 3, eerste lid, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, of artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM;<br>
+2° technici :<br>
+a) technicus vloeibare brandstof als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
+b) technicus gasvormige brandstof als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
+c) technicus verwarmingsaudit als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
+d) stookolietechnicus : de erkende technicus als vermeld in artikel 6.5.6.3 van titel II van het VLAREM;<br>
+e) koeltechnicus van categorie I, II, III of IV als vermeld in artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, of artikel 6.8.1.1 van titel II van het VLAREM;<br>
+f) technicus voor brandbeveiligingsapparatuur als vermeld in artikel 4.4.8.1 of artikel 6.8.2.1 van titel II van het VLAREM;<br>
+g) technicus voor elektrische schakelinrichtingen als vermeld in artikel 4.4.8.2 of artikel 6.8.3.1 van titel II van het VLAREM;<br>
+h) technicus voor apparatuur die oplosmiddelen bevat als vermeld in artikel 4.4.8.3 of artikel 6.8.4.1 van titel II van het VLAREM;<br>
+i) technicus voor klimaatregelingsapparatuur in bepaalde motorvoertuigen als vermeld in artikel 5.15.0.8, artikel 5bis.15.5.2.3, § 1, of artikel 6.8.5.1 van titel II van het VLAREM of artikel 5.2.4.4 van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
+3° milieucoördinatoren en milieuverificateurs, belast met de validatie van de decretale milieuaudit :<br>
+a) milieucoördinatoren als vermeld in artikel 4.1.9.1.2, § 2, 2°, d), van titel II van het VLAREM;<br>
+b) milieuverificateurs, belast met de validatie van de decretaal verplichte milieuaudit als vermeld in artikel 4.1.9.2.5, § 3, van titel II van het VLAREM;<br>
+4° opleidingscentra :<br>
+a) voor het verstrekken van de aanvullende vorming voor milieucoördinatoren, vermeld in artikel 4.1.9.1.2, § 3, van titel II van het VLAREM;<br>
+b) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake vloeibare brandstof, vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale&nbsp;stooktoestellen;<br>
+c) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake gasvormige brandstof, vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale&nbsp;stooktoestellen;<br>
+d) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de verwarmingsaudit, vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
+e) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de controle en het onderhoud van stookolietanks, vermeld in artikel 6.5.6.4 van titel II van het VLAREM;<br>
+f) voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW, vermeld in artikel 5.16.3.3, § 3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, of artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM;<br>
+g) voor het verstrekken van de aanvullende vorming voor bodemsaneringsdeskundigen, vermeld in artikel 8 van het Bodemdecreet;<br>
+h) voor het uitreiken van het certificaat van bekwaamheid in de koeltechniek van categorie I, II, III of IV en van het actualisatie-examen, vermeld in artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, of artikel 6.8.1.1 van titel II van het VLAREM;<br>
+i) voor het uitreiken van het certificaat van bekwaamheid voor brandbeveiligingsapparatuur, vermeld in artikel 4.4.8.1 of artikel 6.8.2.1 van titel II van het VLAREM;<br>
+j) voor het uitreiken van het certificaat van bekwaamheid voor elektrische schakelinrichtingen, vermeld in artikel 4.4.8.2 of artikel 6.8.3.1 van titel II van het VLAREM;<br>
+k) voor het uitreiken van het certificaat van bekwaamheid voor apparatuur die oplosmiddelen bevat, vermeld in artikel 4.4.8.3 of artikel 6.8.4.1 van titel II van het VLAREM;<br>
+l) voor het uitreiken van het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, vermeld in artikel 5.15.0.8, artikel 5bis.15.5.2.3, § 1, of artikel 6.8.5.1 van titel II van het VLAREM of artikel 5.2.4.4 van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
+5° laboratoria :<br>
+a) laboratorium in de discipline water voor het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses op afvalwater, oppervlaktewater, grondwater en drinkwater in het kader van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer en het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, en de uitvoeringsbesluiten ervan, en titel I, II en III van het VLAREM, voor een of meer van de pakketten, vermeld in bijlage 3, 1°, die bij dit besluit is gevoegd.<br>
+Een laboratorium in de discipline water kan erkend worden voor een of meer van de volgende deeldomeinen :<br>
+1) afvalwater;<br>
+2) oppervlaktewater;<br>
+3) grondwater;<br>
+4) drinkwater;<br>
+De minister kan de deeldomeinen voor een pakket vastleggen;<br>
+b) laboratorium in de discipline lucht voor het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses in het kader van de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging, en de uitvoeringsbesluiten ervan, en titel I, II en III van het VLAREM, voor een of meer van de pakketten, vermeld in bijlage 3, 2°, die bij dit besluit is gevoegd;<br>
+c) laboratorium in de discipline bodem, deeldomein bodembescherming, voor het nemen van monsters en het uitvoeren van metingen en analyses in het kader van de bodembescherming,&nbsp;vermeld in artikel 59, § 1 en artikel 60, § 4, van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid voor het pakket, vermeld in bijlage 3, 3°, die bij dit besluit is gevoegd.<br>
+d) laboratorium in de discipline bodem, deeldomein bemesting, de discipline mest en de discipline diervoeder, voor het nemen van monsters en het uitvoeren van analyses op bodem, meststoffen en diervoeders in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan, voor een of meer van de pakketten, vermeld in bijlage 3, 4°, die bij dit besluit is gevoegd;<br>
+e) laboratorium in de discipline afvalstoffen en andere materialen voor het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses ter uitvoering van&nbsp;titel I, II en III van het VLAREM en het Materialendecreet en de uitvoeringsbesluiten ervan, voor een of meer van de pakketten, vermeld in bijlage 3, 5°, die bij dit besluit is gevoegd;<br>
+f) laboratorium in de discipline bodem, deeldomein bodemsanering, voor het uitvoeren van analyses op bodems in het kader van bodemonderzoek ter uitvoering van het Bodemdecreet en de uitvoeringsbesluiten ervan, voor een of meer van de pakketten, vermeld in bijlage 3, 6°, die bij dit besluit is gevoegd;<br>
+6° bodemsaneringsdeskundigen : bodemsaneringsdeskundigen als vermeld in het Bodemdecreet, van type 1 of type 2 :<br>
+Een bodemsaneringsdeskundige van type 1 kan de volgende taken uitvoeren in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan :<br>
+a) het leiden van de uitvoering van een oriënterend bodemonderzoek;<br>
+b) het voorstellen en het leiden van de uitvoering van voorzorgsmaatregelen en veiligheidsmaatregelen, voor zover die maatregelen geen grondwateronttrekkingen omvatten;<br>
+c) het leiden van het opstellen van een technisch verslag;<br>
+d) het leiden van het opstellen van een studie van de ontvangende grond;<br>
+e) het opstellen van een evaluatierapport als vermeld in artikel 78 van het Bodemdecreet.<br>
+Een bodemsaneringsdeskundige van type 2 kan alle taken uitvoeren die in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan aan een bodemsaneringsdeskundige zijn toegewezen;<br>
+7° bedrijven :<br>
+a) boorbedrijf met betrekking tot een of meer van de volgende disciplines, waarbij de boringen die uitgevoerd worden in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan, funderingsboringen, handboringen en horizontale boringen voor zover die niet vergunningsplichtig zijn, worden uitgesloten van het toepassingsgebied van deze disciplines :<br>
+1) bemalingen en draineringen : bemalingen en draineringen als vermeld in rubriek 53.2, 53.3, 53.4 en 53.5 van bijlage 1 van titel I van het VLAREM;<br>
+2) andere grondwaterwinningen : andere grondwaterwinningen dan de grondwaterwinningen, vermeld in punt 1);<br>
+3) stabiliteitsboringen en geotechnische boringen, met uitzondering van stabiliteitsboringen en geotechnische boringen als vermeld in rubriek 55.2 en 55.3 van bijlage 1 van titel I van het VLAREM;<br>
+4) verticale boringen : verticale boringen als vermeld in rubriek 55.1 van bijlage 1 van titel I van het VLAREM, met uitzondering van de boringen, vermeld in punt 3);<br>
+5) andere boringen : andere boringen dan de boringen, vermeld in punt 1) tot en met 4);<br>
+b) koeltechnisch bedrijf als vermeld in artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, of artikel 6.8.1.1 van titel II van het VLAREM;<br>
+c) bedrijf voor brandbeveiligingsapparatuur als vermeld in artikel 4.4.8.1 of artikel 6.8.2.1 van titel II van het VLAREM;<br>
+8° keuringsinstelling voor het keuren van een koeltechnisch bedrijf als vermeld in artikel 25/4, 4°.
 
 ## HOOFDSTUK 4 Erkenningsvoorwaarden
 
@@ -54,7 +207,12 @@ Met behoud van de toepassing van de bepalingen inzake erkenning van rechtswege w
 
 ### ART. 9.
 
-De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een milieudeskundige in de discipline houders voor gassen of gevaarlijke stoffen, vermeld in artikel 6, 1°, a) :<br />1° een natuurlijke persoon zijn;<br />2° a) hetzij minstens de graad van bachelor uit een afstudeerrichting of opleiding, vermeld in bijlage 5, die bij dit besluit is gevoegd, of een daarmee gelijkgeschakelde graad hebben behaald, en minstens één jaar praktische ervaring in de discipline houders voor gassen of gevaarlijke stoffen hebben verworven binnen vijf jaar voorafgaand aan de erkenningsaanvraag;<br />b) hetzij minstens de opleiding secundaire of secundaire technische leergangen hebben genoten of een gelijkwaardig getuigschrift of certificaat hebben behaald, en een praktische ervaring van minstens vijf jaar in de discipline houders voor gassen of gevaarlijke stoffen hebben verworven binnen tien jaar voorafgaand aan de erkenningsaanvraag.<br /><br />
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een milieudeskundige in de discipline houders voor gassen of gevaarlijke stoffen, vermeld in artikel 6, 1°, a) :<br>
+1° een natuurlijke persoon zijn;<br>
+2° a) hetzij minstens de graad van bachelor uit een afstudeerrichting of opleiding, vermeld in bijlage 5, die bij dit besluit is gevoegd, of een daarmee gelijkgeschakelde graad hebben behaald, en minstens één jaar praktische ervaring in de discipline houders voor gassen of gevaarlijke stoffen hebben verworven binnen vijf jaar voorafgaand aan de erkenningsaanvraag;<br>
+b) hetzij minstens de opleiding secundaire of secundaire technische leergangen hebben genoten of een gelijkwaardig getuigschrift of certificaat hebben behaald, en een praktische ervaring van minstens vijf jaar in de discipline houders voor gassen of gevaarlijke stoffen hebben verworven binnen tien jaar voorafgaand aan de erkenningsaanvraag.<br>
+3° als de erkenning wordt aangevraagd voor het domein E, over een gunstige beoordeling van het referentielaboratorium van het Vlaamse Gewest beschikken die niet ouder is dan één jaar, gegeven op basis van de werkwijze en gebruikte meetapparatuur bij de meting van de damp-benzineverhouding door de aanvrager.<br>
+&nbsp;
 
 ### ART. 10.
 
@@ -94,6 +252,41 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een   technicus 
 
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een   stookolietechnicus als vermeld in artikel 6, 2°, d) :<BR>1° een natuurlijke   persoon zijn;<BR>2° in het bezit zijn van een certificaat van bekwaamheid inzake   de controle en het onderhoud van stookolietanks, dat uitgereikt is door een   erkend opleidingscentrum als vermeld in artikel 6, 4°, e), nadat de persoon de   opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in   artikel 43/3, § 1. Als het certificaat van bekwaamheid ouder is dan vijf jaar na   de datum van het slagen voor het examen, moet hij een bewijs voorleggen dat hij   een bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld   in artikel 40, eerste lid, 3°, in een erkend opleidingscentrum als vermeld in   artikel 6, 4°, e). De datum van het slagen voor het examen van de bijscholing   mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van   de retributie, vermeld in punt 3° ; <BR>3° een geldig bewijs van betaling van de   retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan de afdeling,   bevoegd voor erkenningen, of aan een erkend opleidingscentrum als vermeld in   artikel 6, 4°, e).
 
+### ART 17/1.
+
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een koeltechnicus als vermeld in artikel 6, 2°, e) :<br>
+1° een natuurlijke persoon zijn;<br>
+2° in het bezit zijn van een certificaat van bekwaamheid in de koeltechniek van categorie I, II, III of IV, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, h), nadat de persoon geslaagd is voor het examen, vermeld in artikel 43/6, § 1;<br>
+3° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan de afdeling, bevoegd voor erkenningen, of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, h).
+
+### ART 17/2.
+
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus voor brandbeveiligingsapparatuur als vermeld in artikel 6, 2°, f) :<br>
+1° een natuurlijke persoon zijn;<br>
+2° in het bezit zijn van een certificaat van bekwaamheid voor brandbeveiligingsapparatuur, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, i), nadat de persoon geslaagd is voor het examen, vermeld in artikel 43/7, § 1;<br>
+3° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan de afdeling, bevoegd voor erkenningen, of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, i).
+
+### ART 17/3.
+
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus voor elektrische schakelinrichtingen als vermeld in artikel 6, 2°, g) :<br>
+1° een natuurlijke persoon zijn;<br>
+2° in het bezit zijn van een certificaat van bekwaamheid voor elektrische schakelinrichtingen, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, j), nadat de persoon geslaagd is voor het examen, vermeld in artikel 43/8, § 1;<br>
+3° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan de afdeling, bevoegd voor erkenningen, of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, j).
+
+### ART 17/4.
+
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus voor apparatuur die oplosmiddelen bevat als vermeld in artikel 6, 2°, h) :<br>
+1° een natuurlijke persoon zijn;<br>
+2° in het bezit zijn van een certificaat van bekwaamheid voor apparatuur die oplosmiddelen bevat, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, k), nadat de persoon geslaagd is voor het examen, vermeld in artikel 43/9, § 1;<br>
+3° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan de afdeling, bevoegd voor erkenningen, of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, k).
+
+### ART 17/5.
+
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus voor klimaatregelingsapparatuur in bepaalde motorvoertuigen als vermeld in artikel 6, 2°, i) :<br>
+1° een natuurlijke persoon zijn;<br>
+2° in het bezit zijn van een certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, dat uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, l), nadat de persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in artikel 43/10, § 1;<br>
+3° een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan de afdeling, bevoegd voor erkenningen, of aan een erkend opleidingscentrum als vermeld in artikel 6, 4°, l).
+
 ## Onderafdeling 3 Erkenningsvoorwaarden voor milieucoördinatoren en verificateurs
 
 ### ART. 18.
@@ -128,35 +321,162 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een   opleidings
 
 ### ART. 24/1.
 
-De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een   opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en   bijscholing inzake de keuring van airconditioningsystemen met een nominaal   koelvermogen van meer dan 12 kW als vermeld in artikel 6, 4°, f) :<BR>1°   beschikken over degelijke procedures om de opleiding en de bijscholing met het   bijhorende examen, vermeld in artikel 43/4, § 1 en § 2, te organiseren, waarbij   alleen de personen tot de opleiding worden toegelaten die voldoen aan minstens   een van de voorwaarden, vermeld in bijlage 13, die bij dit besluit is   gevoegd;<BR>2° het personeel dat belast wordt met het onderricht, beschikt over   een erkenning als airco-energiedeskundige als vermeld in artikel 32, § 2, eerste   lid, 6° ;<BR>3° een examenjury samenstellen, waarbij aan de volgende voorwaarden   wordt voldaan :<BR>a) de voorzitter van de examenjury is master in de   ingenieurswetenschappen, master in de bio-ingenieurswetenschappen, master in de   industriële wetenschappen, bachelor in de elektromechanica met afstudeerrichting   klimatisering, of een persoon met minstens drie jaar praktijkervaring in de   koelsector;<BR>b) minstens één examenjurylid beschikt over een erkenning als   airco-energiedeskundige als vermeld in artikel 32, § 2, eerste lid, 6°.
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW als vermeld in artikel 6, 4°, f) :<br>
+1° beschikken over degelijke procedures om de opleiding en de bijscholing met het bijhorende examen, vermeld in artikel 43/4, § 1 en § 2, te organiseren, waarbij alleen de personen tot de opleiding worden toegelaten die voldoen aan minstens een van de voorwaarden, vermeld in bijlage 13, die bij dit besluit is gevoegd;<br>
+2° het personeel dat belast wordt met het onderricht, beschikt over een erkenning als airco-energiedeskundige als vermeld in artikel 32, § 2, eerste lid, 6° ;<br>
+3° een examenjury samenstellen, waarbij aan de volgende voorwaarden wordt voldaan :<br>
+a) de examenjury bestaat uit minstens twee specialisten in de onderwezen vakken en staat onder het voorzitterschap van een master in de ingenieurswetenschappen, master in de bio-ingenieurswetenschappen, master in de industriële wetenschappen, bachelor in de elektromechanica met afstudeerrichting klimatisering, of een persoon met minstens drie jaar praktijkervaring in de koelsector;<br>
+b) minstens één examenjurylid beschikt over een erkenning als airco-energiedeskundige als vermeld in artikel 32, § 2, eerste lid, 6°.
 
 ### ART. 24/2.
 
 De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een   opleidingscentrum voor het verstrekken van de aanvullende vorming voor   bodemsaneringsdeskundigen, vermeld in artikel 6, 4°, g) :<BR>1° de cursussen en   de examens organiseren, waarvan het programma minstens beantwoordt aan de   voorwaarden, vermeld in bijlage 17, die bij dit besluit is gevoegd;<BR>2° over   in de materie onderlegde docenten beschikken die de graad van master of een   daarmee gelijkgeschakelde graad bezitten, of die meer dan vijf jaar ervaring   hebben in het lesdomein in kwestie;<BR>3° over een opvolgingscommissie   beschikken die de organisatie en de programma-inhoud van de cursussen bewaakt.
 
+### ART 24/3.
+
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid in de koeltechniek van categorie I, II, III of IV en van het actualisatie-examen, vermeld in artikel 6, 4°, h) :<br>
+1° beschikken over degelijke procedures om het examen in de koeltechniek van categorie I, II, III of IV, vermeld in artikel 43/6, § 1, en het actualisatie-examen, vermeld in artikel 43/6, § 2, te organiseren;<br>
+2° een examenjury samenstellen, waarbij aan de volgende voorwaarden wordt voldaan :<br>
+a) de voorzitter van de examenjury is master in de ingenieurswetenschappen, master in de bio-ingenieurswetenschappen, master in de industriële wetenschappen, bachelor in de elektromechanica met afstudeerrichting klimatisering, of een persoon met minstens drie jaar aantoonbare ervaring in het afnemen van examens over koeltechniek;<br>
+b) minstens drie juryleden, respectievelijk twee juryleden, beschikken over een erkenning als koeltechnicus als vermeld in artikel 32, § 2, eerste lid, 7°, in geval van een examen van categorie I, II of III, respectievelijk categorie IV of actualisatie-examen. Het certificaat van bekwaamheid in de koeltechniek werd behaald in een ander opleidingscentrum dan waar ze jureren;<br>
+c) minstens een van de leden van de examenjury is extern aan het opleidingscentrum en actief in de koelsector. Deze voorwaarde is niet van toepassing in geval van een actualisatie-examen.
+
+### ART 24/4.
+
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid voor brandbeveiligingsapparatuur, vermeld in artikel 6, 4°, i) :<br>
+1° beschikken over degelijke procedures om het examen, vermeld in artikel 43/7, § 1, te organiseren;<br>
+2° een examenjury samenstellen, waarbij aan de volgende voorwaarden wordt voldaan :<br>
+a) de voorzitter van de examenjury is master in de ingenieurswetenschappen, master in de bio-ingenieurswetenschappen, master in de industriële wetenschappen of een persoon met minstens drie jaar aantoonbare ervaring in het afnemen van examens over brandbeveiligingsapparatuur;<br>
+b) minstens twee leden van de examenjury zijn specialisten in de materie over brandbeveiligingsapparatuur;<br>
+c) minstens een van de leden van de examenjury is extern aan het opleidingscentrum en actief in de brandbeveiligingsapparatuursector.
+
+### ART 24/5.
+
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid voor elektrische schakelinrichtingen, vermeld in artikel 6, 4°, j) :<br>
+1° beschikken over degelijke procedures om het examen, vermeld in artikel 43/8, § 1, te organiseren;<br>
+2° een examenjury samenstellen, waarbij aan de volgende voorwaarden wordt voldaan :<br>
+a) de jury bestaat uit minstens twee personen van wie een wordt aangewezen als voorzitter;<br>
+b) de juryleden voldoen ten minste aan een van de volgende voorwaarden :<br>
+1) in het bezit zijn van een diploma van master in de ingenieurswetenschappen, master in de bio-ingenieurswetenschappen of master in de industriële wetenschappen;<br>
+2) beschikken over minstens drie jaar aantoonbare ervaring in het afnemen van examens over een of meer vaardigheden of onderwerpen als vermeld in bijlage 1 van verordening nr. 2015/2066;<br>
+3) beschikken over minstens drie jaar aantoonbare ervaring in een of meer vaardigheden of onderwerpen als vermeld in bijlage 1 van verordening nr. 2015/2066;<br>
+c) de persoon die de jury bijstaat tijdens het praktijkgedeelte van het examen, heeft praktijkervaring met de toestellen waarop het examen plaatsvindt.
+
+### ART 24/6.
+
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid voor apparatuur die oplosmiddelen bevat, vermeld in artikel 6, 4°, k) :<br>
+1° beschikken over degelijke procedures om de opleiding en het examen, vermeld in artikel 43/9, § 1, te organiseren;<br>
+2° een examenjury samenstellen, waarbij aan de volgende voorwaarden wordt voldaan :<br>
+a) de voorzitter van de examenjury is master in de ingenieurswetenschappen, master in de bio-ingenieurswetenschappen, master in de industriële wetenschappen of een persoon met minstens drie jaar aantoonbare ervaring in het afnemen van examens met betrekking tot de terugwinning van bepaalde oplosmiddelen op basis van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen;<br>
+b) minstens twee leden van de examenjury zijn specialisten in de materie over het terugwinnen van bepaalde oplosmiddelen op basis van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen uit apparatuur.
+
+### ART 24/7.
+
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, vermeld in artikel 6, 4°, l) :<br>
+1° beschikken over degelijke procedures om de opleiding en het bijhorende examen, vermeld in artikel 43/10, § 1, te organiseren;<br>
+2° het personeel dat belast wordt met het theoretische en praktische onderricht, beschikt over een erkenning als technicus voor klimaatregelingsapparatuur in bepaalde motorvoertuigen als vermeld in artikel 32, § 2, eerste lid, 11°, en staat onder leiding van een persoon die in het bezit is van een bachelor in de autotechnologie, een master in de ingenieurswetenschappen, een master in de industriële wetenschappen of een master in de bio-ingenieurswetenschappen, of van een persoon met minstens drie jaar aantoonbare ervaring in het geven van opleidingen in die materie. Het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen werd behaald in een ander opleidingscentrum dan waar het personeelslid onderricht geeft;<br>
+3° een examenjury samenstellen, waarbij aan de volgende voorwaarden wordt voldaan :<br>
+a) er is altijd minstens één jurylid aanwezig per vier cursisten die het praktisch onderdeel van het examen gelijktijdig afleggen;<br>
+b) er wordt altijd een jurylid aangewezen als voorzitter;<br>
+c) de juryleden voldoen ten minste aan een van de volgende voorwaarden :<br>
+1) in het bezit zijn van een bachelor in de autotechnologie, master in de ingenieurswetenschappen, master in de bio-ingenieurswetenschappen of master in de industriële wetenschappen;<br>
+2) beschikken over minstens drie jaar aantoonbare ervaring in het afnemen van examens over een of meer vaardigheden of onderwerpen als vermeld in de bijlage bij verordening nr. 307/2008;<br>
+3) beschikken over minstens drie jaar aantoonbare ervaring in een of meer vaardigheden of onderwerpen als vermeld in de bijlage bij verordening nr. 307/2008;<br>
+d) minstens de helft van de juryleden beschikt over een erkenning als technicus voor klimaatregelingsapparatuur in bepaalde motorvoertuigen als vermeld in artikel 32, § 2, eerste lid, 11°. Het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen werd behaald in een ander opleidingscentrum dan waar ze jureren;<br>
+e) minstens één jurylid heeft praktijkervaring met de toestellen die worden gebruikt bij het examen.
+
 ## Onderafdeling 5 Erkenningsvoorwaarden voor laboratoria
 
 ### ART. 25.
 
-<P>De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een   laboratorium als vermeld in artikel 6, 5° :<BR>1° een rechtspersoon zijn;<BR>2°   voor de aangevraagde pakketten over een gunstige beoordeling van het   referentielaboratorium van het Vlaamse Gewest beschikken, gegeven op basis van   de evaluatie van beproevingen, monsternemingen, metingen en analyses op   typemonsters van referentiestalen of reële stalen die door een   referentielaboratorium ter beschikking gesteld zijn en die door de aanvrager   uitgevoerd zijn. De beproevingen, monsternemingen, metingen en analyses zijn   uitgevoerd volgens de methoden, vermeld in artikel 45. Een gedeelte van een   pakket of een volledig pakket wordt beoordeeld :<BR>a) in geval van een ringtest   op basis van de evaluatie van de criteria, vermeld in bijlage 10, hoofdstuk 1,   die bij dit besluit is gevoegd. Alleen de resultaten van ringtesten die   georganiseerd zijn overeenkomstig de voorwaarden, vermeld in bijlage 10/1, die   bij dit besluit is gevoegd, komen in aanmerking voor evaluatie;<BR>b) in geval   van een technische proef op basis van de evaluatie van de criteria, vermeld in   bijlage 10, hoofdstuk 2, die bij dit besluit is gevoegd;<BR>3° voor ten minste   één parameter per discipline waarvoor het laboratorium de erkenning aanvraagt,   over een ISO/IEC 17025-accreditatie beschikken met betrekking tot de te volgen   methoden, vermeld in artikel 45. Als het laboratorium over een ISO/IEC   17025-accreditatie beschikt voor een parameter waarvoor het al een erkenning   heeft verkregen en die deel uitmaakt van dezelfde discipline als de parameter   waarvoor het de erkenning aanvraagt, wordt deze erkenningsvoorwaarde als vervuld   beschouwd;<BR>4° voor de overige parameters die het voorwerp uitmaken van de   erkenningsaanvraag, beschikken over :<BR>a) hetzij een ISO/IEC   17025-accreditatie met betrekking tot de te volgen methoden, vermeld in artikel   45;<BR>b) hetzij een gunstige beoordeling van het referentielaboratorium van het   Vlaamse Gewest over de toepassing van ISO/IEC 17025 met betrekking tot de te   volgen methoden, vermeld in artikel 45.<BR><BR>De gunstige beoordeling, vermeld   in het eerste lid, 2° en 4°, b), mag niet ouder zijn dan één jaar, voorafgaand   aan de datum van de indiening van de volledige erkenningsaanvraag.<BR><BR>Een   laboratorium dat alleen erkend wil worden voor een pakket dat alleen monstername   en monstervoorbehandeling ter plaatse omvat of een laboratorium als vermeld in   artikel 6, 5°, b), dat alleen erkend wil worden voor het pakket L.11.1, L.11.2   of L.18, vermeld in bijlage 3, 2°, die bij dit besluit is gevoegd, is   vrijgesteld van de erkenningsvoorwaarden, vermeld in het eerste lid, 3° en 4°.   Dat laboratorium moet beschikken over een gunstige beoordeling van het   referentielaboratorium van het Vlaamse Gewest over de toepassing van ISO/IEC   17025 met betrekking tot de te volgen methoden, vermeld in artikel 45. De   gunstige beoordeling mag niet ouder zijn dan één jaar, voorafgaand aan de datum   van de indiening van de volledige erkenningsaanvraag.<BR><BR>Voor monstername   wordt ISO/IEC 17020 evenwaardig beschouwd aan ISO/IEC 17025.<BR><BR>Een   laboratorium als vermeld in artikel 6, 5°, e) en f), kan maximaal 10 % van de   parameters van een pakket uitbesteden aan andere laboratoria op voorwaarde dat   het pakket tien of meer parameters bevat. De laboratoria waaraan de parameters   worden uitbesteed, moeten erkend zijn voor de analyse van de desbetreffende   parameters en moeten de analyses zelf uitvoeren.</P>
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een laboratorium als vermeld in artikel 6, 5° :<br>
+1° voor de aangevraagde pakketten over een gunstige beoordeling van het referentielaboratorium van het Vlaamse Gewest beschikken, gegeven op basis van de evaluatie van beproevingen, monsternemingen, metingen en analyses op typemonsters van referentiestalen of reële stalen die door een referentielaboratorium ter beschikking gesteld zijn en die door de aanvrager uitgevoerd zijn, of op basis van de evaluatie van een technische proef. De beproevingen, monsternemingen, metingen en analyses op typemonsters van referentiestalen of reële stalen of de technische proef zijn uitgevoerd volgens de methoden, vermeld in artikel 45. Een gedeelte van een pakket of een volledig pakket wordt beoordeeld :<br>
+a) in geval van een ringtest op basis van de evaluatie van de criteria, vermeld in bijlage 10, hoofdstuk 1, die bij dit besluit is gevoegd. Alleen de resultaten van ringtesten die georganiseerd zijn conform de voorwaarden, vermeld in bijlage 10/1, die bij dit besluit is gevoegd, komen in aanmerking voor evaluatie;<br>
+b) in geval van een technische proef op basis van de evaluatie van de criteria, vermeld in bijlage 10, hoofdstuk 2, die bij dit besluit is gevoegd;<br>
+2° voor ten minste één parameter per discipline waarvoor het laboratorium de erkenning aanvraagt, over een ISO/IEC 17025-accreditatie beschikken voor de te volgen methoden, vermeld in artikel 45. Als het laboratorium over een ISO/IEC 17025-accreditatie beschikt voor een parameter waarvoor het al een erkenning heeft verkregen en die deel uitmaakt van dezelfde discipline als de parameter waarvoor het de erkenning aanvraagt, wordt deze erkenningsvoorwaarde als vervuld beschouwd;<br>
+3° voor de overige parameters die het voorwerp uitmaken van de erkenningsaanvraag, beschikken over :<br>
+a) hetzij een ISO/IEC 17025-accreditatie voor de te volgen methoden, vermeld in artikel 45;<br>
+b) hetzij een gunstige beoordeling van het referentielaboratorium van het Vlaamse Gewest over de toepassing van ISO/IEC 17025 voor de te volgen methoden, vermeld in artikel 45.<br>
+<br>
+In de volgende gevallen is het laboratorium vrijgesteld van de erkenningsvoorwaarde, vermeld in het eerste lid, 2° en 3°, a), op voorwaarde dat het beschikt over een gunstige beoordeling van het referentielaboratorium van het Vlaamse Gewest over de toepassing van ISO/IEC 17025 voor de te volgen methoden, vermeld in artikel 45 :<br>
+1° een laboratorium als vermeld in artikel 6, 5°, a), dat alleen erkend wil worden voor het pakket W.1, vermeld in bijlage 3, 1°, die bij dit besluit is gevoegd;<br>
+2° een laboratorium als vermeld in artikel 6, 5°, b), dat alleen erkend wil worden voor het pakket L.11.1, L.11.2 of L.18, vermeld in bijlage 3, 2°, die bij dit besluit is gevoegd;<br>
+3° een laboratorium als vermeld in artikel 6, 5°, d), dat alleen erkend wil worden voor het pakket M-M1 of M-M3, vermeld in bijlage 3, 4°, die bij dit besluit is gevoegd;<br>
+4° een laboratorium als vermeld in artikel 6, 5°, e), dat alleen erkend wil worden voor het pakket MA.1, MA.2, MA.3, MA.4, MA.5, MA.6, MA.7.1 of MA.7.2, vermeld in bijlage 3, 5°, die bij dit besluit is gevoegd.<br>
+<br>
+De gunstige beoordeling, vermeld in het eerste lid, 1°, en 3°, b), en het tweede lid, mag niet ouder zijn dan één jaar, voorafgaand aan de datum van de indiening van de volledige erkenningsaanvraag.<br>
+<br>
+Een laboratorium als vermeld in artikel 6, 5°, e) en f), kan maximaal 10 % van de parameters van een pakket uitbesteden aan andere laboratoria, op voorwaarde dat het pakket tien of meer parameters bevat. De laboratoria waaraan de parameters worden uitbesteed, moeten erkend zijn voor de analyse van de desbetreffende parameters en moeten de analyses zelf uitvoeren.
 
 ## [Onderafdeling 6 Erkenningsvoorwaarden voor bodemsaneringsdeskundigen (ing. BVR 1 maart 2013, art. 101, I: 3 mei 2013)]
 
 ### ART. 25/1.
 
-§ 1. Om als natuurlijke persoon te worden erkend als   bodemsaneringsdeskundige van type 1 als vermeld in artikel 6, 6°, gelden de   hierna vermelde bijzondere erkenningsvoorwaarden :<BR>1° a) ofwel minstens de   graad van master of een daarmee gelijkgeschakelde graad hebben behaald in een   opleiding of in opleidingen waarin de disciplines bodemkunde, geologie en   scheikunde aan bod komen, en minstens drie jaar praktische ervaring hebben wat   betreft het onderzoek inzake bodemverontreiniging, verworven binnen zes jaar,   voorafgaand aan de erkenningsaanvraag;<BR>b) ofwel minstens de graad van   bachelor of een daarmee gelijkgeschakelde graad hebben behaald in een opleiding   of in opleidingen waarin de disciplines bodemkunde, geologie en scheikunde aan   bod komen, en minstens zes jaar praktische ervaring hebben wat betreft het   onderzoek inzake bodemverontreiniging, verworven binnen tien jaar, voorafgaand   aan de erkenningsaanvraag;<BR>2° in het bezit zijn van een getuigschrift van   aanvullende vorming voor bodemsaneringsdeskundigen, module 1, dat door een   erkend opleidingscentrum als vermeld in artikel 6, 4°, g), is uitgereikt met   toepassing van de bepalingen van bijlage 17, die bij dit besluit is   gevoegd.<BR><BR>§ 2. Om als rechtspersoon te worden erkend als   bodemsaneringsdeskundige van type 1 als vermeld in artikel 6, 6°, gelden de   hierna vermelde bijzondere erkenningsvoorwaarden :<BR>1° een natuurlijke persoon   in dienst hebben die voldoet aan de volgende vereisten, of verschillende   natuurlijke personen in dienst hebben die afzonderlijk of samen voldoen aan de   volgende vereisten :<BR>a) minstens de graad van master of een daarmee   gelijkgeschakelde graad hebben behaald in een opleiding waarin de discipline   scheikunde aan bod komt, dan wel minstens de graad van bachelor of een daarmee   gelijkgeschakelde graad hebben behaald in een dergelijke opleiding op voorwaarde   dat die personen minstens zes jaar praktische ervaring hebben in het uitvoeren   van bodemonderzoeken, verworven binnen tien jaar, voorafgaand aan de   erkenningsaanvraag;<BR>b) minstens de graad van master of een daarmee   gelijkgeschakelde graad hebben behaald in een opleiding waarin de disciplines   geologie en bodemkunde aan bod komen, dan wel minstens de graad van bachelor of   een daarmee gelijkgeschakelde graad hebben behaald in een dergelijke opleiding   op voorwaarde dat die personen minstens zes jaar praktische ervaring hebben in   het uitvoeren van bodemonderzoeken, verworven binnen tien jaar, voorafgaand aan   de erkenningsaanvraag;<BR>2° minstens één natuurlijke persoon in dienst hebben   die minstens drie jaar praktische ervaring heeft in een milieusector die   relevant is voor het onderzoek inzake bodemverontreiniging, verworven binnen zes   jaar, voorafgaand aan de erkenningsaanvraag;<BR>3° minstens één natuurlijke   persoon in dienst hebben die in het bezit is van een getuigschrift van   aanvullende vorming voor bodemsaneringsdeskundigen, module 1, dat door een   erkend opleidingscentrum als vermeld in artikel 6, 4°, g), is uitgereikt met   toepassing van de bepalingen van bijlage 17, die bij dit besluit is   gevoegd.
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een bodemsaneringsdeskundige van type 1 als vermeld in artikel 6, 6° :<br>
+1° beschikken over :<br>
+a) ofwel minstens de graad van master of een daarmee gelijkgeschakelde graad in een opleiding waarin de discipline scheikunde aan bod komt;<br>
+b) ofwel minstens de graad van bachelor of een daarmee gelijkgeschakelde graad in een dergelijke opleiding en minstens zes jaar praktische ervaring in het uitvoeren van bodemonderzoeken, verworven binnen tien jaar, voorafgaand aan de erkenningsaanvraag;<br>
+2° beschikken over :<br>
+a) ofwel minstens de graad van master of een daarmee gelijkgeschakelde graad in een opleiding waarin de disciplines geologie en bodemkunde aan bod komen;<br>
+b) ofwel minstens de graad van bachelor of een daarmee gelijkgeschakelde graad in een dergelijke opleiding en minstens zes jaar praktische ervaring hebben in het uitvoeren van bodemonderzoeken, verworven binnen tien jaar, voorafgaand aan de erkenningsaanvraag;<br>
+3° beschikken over minstens drie jaar praktische ervaring in een milieusector die relevant is voor het onderzoek inzake bodemverontreiniging, verworven binnen zes jaar, voorafgaand aan de erkenningsaanvraag;<br>
+4° beschikken over een getuigschrift van aanvullende vorming voor bodemsaneringsdeskundigen, module 1, dat door een erkend opleidingscentrum als vermeld in artikel 6, 4°, g), is uitgereikt met toepassing van de bepalingen van bijlage 17, die bij dit besluit is gevoegd.
 
 ### ART. 25/2.
 
-De volgende bijzondere erkenningsvoorwaarden gelden voor een   bodemsaneringsdeskundige van type 2 als vermeld in artikel 6, 6° :<BR>1° een   rechtspersoon zijn;<BR>2° een natuurlijke persoon in dienst hebben die voldoet   aan de volgende vereisten, of verschillende natuurlijke personen in dienst   hebben die afzonderlijk of samen voldoen aan de volgende vereisten :<BR>a)   minstens de graad van master of een daarmee gelijkgeschakelde graad hebben   behaald in een opleiding waarin de discipline biologie aan bod komt, dan wel   minstens de graad van bachelor of een daarmee gelijkgeschakelde graad hebben   behaald in een dergelijke opleiding op voorwaarde dat die personen minstens zes   jaar praktische ervaring hebben in het uitvoeren van bodemonderzoeken en   bodemsanering, verworven binnen tien jaar, voorafgaand aan de   erkenningsaanvraag;<BR>b) minstens de graad van master of een daarmee   gelijkgeschakelde graad hebben behaald in een opleiding waarin de discipline   microbiologie aan bod komt, dan wel minstens de graad van bachelor of een   daarmee gelijkgeschakelde graad hebben behaald in een dergelijke opleiding op   voorwaarde dat die personen minstens zes jaar praktische ervaring hebben in het   uitvoeren van bodemonderzoeken en bodemsanering, verworven binnen tien jaar,   voorafgaand aan de erkenningsaanvraag;<BR>c) minstens de graad van master of een   daarmee gelijkgeschakelde graad hebben behaald in een opleiding waarin de   discipline scheikunde aan bod komt, dan wel minstens de graad van bachelor of   een daarmee gelijkgeschakelde graad hebben behaald in een dergelijke opleiding   op voorwaarde dat die personen minstens zes jaar praktische ervaring hebben in   het uitvoeren van bodemonderzoeken en bodemsanering, verworven binnen tien jaar,   voorafgaand aan de erkenningsaanvraag;<BR>d) minstens de graad van master of een   daarmee gelijkgeschakelde graad hebben behaald in een opleiding waarin de   disciplines geologie en bodemkunde aan bod komen, dan wel minstens de graad van   bachelor of een daarmee gelijkgeschakelde graad hebben behaald in een dergelijke   opleiding op voorwaarde dat die personen minstens zes jaar praktische ervaring   hebben in het uitvoeren van bodemonderzoeken en bodemsanering, verworven binnen   tien jaar, voorafgaand aan de erkenningsaanvraag;<BR>3° een of meer natuurlijke   personen in dienst hebben of contractueel ter beschikking hebben die minstens de   graad van master of een daarmee gelijkgeschakelde graad hebben behaald in een   opleiding waarin de disciplines bouwkunde en grondmechanica aan bod komen, dan   wel minstens de graad van bachelor of een daarmee gelijkgestelde graad hebben   behaald in een dergelijke opleiding op voorwaarde dat die personen minstens zes   jaar ervaring hebben in het leiden van de bodemsanering, verworven binnen tien   jaar, voorafgaand aan de erkenningsaanvraag;<BR>4° minstens één natuurlijke   persoon in dienst hebben die minstens drie jaar praktische ervaring heeft in een   milieusector die relevant is zowel voor het uitvoeren van bodemonderzoeken als   voor het onderzoek inzake risico's van bodemverontreiniging, verworven binnen   zes jaar, voorafgaand aan de erkenningsaanvraag;<BR>5° minstens één natuurlijke   persoon in dienst hebben die minstens vijf jaar praktische ervaring heeft in een   milieusector die relevant is voor het leiden van de bodemsanering, verworven   binnen tien jaar, voorafgaand aan de erkenningsaanvraag;<BR>6° minstens één   natuurlijke persoon in dienst hebben die minstens vijf jaar praktische ervaring   heeft met werfopvolging, verworven binnen tien jaar, voorafgaand aan de   erkenningsaanvraag;<BR>7° minstens één natuurlijke persoon in dienst hebben die   in het bezit is van een getuigschrift van aanvullende vorming voor   bodemsaneringsdeskundigen, module 2, dat door een erkend opleidingscentrum als   vermeld in artikel 6, 4°, g), is uitgereikt met toepassing van de bepalingen van   bijlage 17, die bij dit besluit is gevoegd;<BR>8° minstens één natuurlijke   persoon in dienst hebben die met gunstig gevolg een opleiding heeft genoten   waarin minstens de volgende onderwerpen aan bod zijn gekomen : de Vlaamse   reglementeringen inzake de milieuvergunning, het grondwaterbeheer en de   stedenbouw en ruimtelijke ordening;<BR>9° minstens één natuurlijke persoon in   dienst hebben of contractueel ter beschikking hebben met de nodige ervaring om   een mathematisch grondwatermodel te hanteren en de resultaten ervan correct te   interpreteren.
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een bodemsaneringsdeskundige van type 2 als vermeld in artikel 6, 6° :<br>
+1° beschikken over :<br>
+a) ofwel minstens de graad van master of een daarmee gelijkgeschakelde graad in een opleiding waarin de discipline biologie aan bod komt;<br>
+b) ofwel minstens de graad van bachelor of een daarmee gelijkgeschakelde graad in een dergelijke opleiding en minstens zes jaar praktische ervaring hebben in het uitvoeren van bodemonderzoeken en bodemsanering, verworven binnen tien jaar, voorafgaand aan de erkenningsaanvraag;<br>
+2° beschikken over :<br>
+a) ofwel minstens de graad van master of een daarmee gelijkgeschakelde graad in een opleiding waarin de discipline microbiologie aan bod komt;<br>
+b) ofwel minstens de graad van bachelor of een daarmee gelijkgeschakelde graad in een dergelijke opleiding en minstens zes jaar praktische ervaring hebben in het uitvoeren van bodemonderzoeken en bodemsanering, verworven binnen tien jaar, voorafgaand aan de erkenningsaanvraag;<br>
+3° beschikken over :<br>
+a) ofwel minstens de graad van master of een daarmee gelijkgeschakelde graad in een opleiding waarin de discipline scheikunde aan bod komt;<br>
+b) ofwel minstens de graad van bachelor of een daarmee gelijkgeschakelde graad in een dergelijke opleiding en minstens zes jaar praktische ervaring hebben in het uitvoeren van bodemonderzoeken en bodemsanering, verworven binnen tien jaar, voorafgaand aan de erkenningsaanvraag;<br>
+4° beschikken over :<br>
+a) ofwel minstens de graad van master of een daarmee gelijkgeschakelde graad in een opleiding waarin de disciplines geologie en bodemkunde aan bod komen;<br>
+b) ofwel minstens de graad van bachelor of een daarmee gelijkgeschakelde graad in een dergelijke opleiding en minstens zes jaar praktische ervaring hebben in het uitvoeren van bodemonderzoeken en bodemsanering, verworven binnen tien jaar, voorafgaand aan de erkenningsaanvraag;<br>
+5° beschikken over :<br>
+a) ofwel minstens de graad van master of een daarmee gelijkgeschakelde graad in een opleiding waarin de disciplines bouwkunde en grondmechanica aan bod komen;<br>
+b) ofwel minstens de graad van bachelor of een daarmee gelijkgestelde graad in een dergelijke opleiding en minstens zes jaar ervaring hebben in het leiden van de bodemsanering, verworven binnen tien jaar, voorafgaand aan de erkenningsaanvraag;<br>
+6° beschikken over minstens drie jaar praktische ervaring in een milieusector die relevant is zowel voor het uitvoeren van bodemonderzoeken als voor het onderzoek inzake risico's van bodemverontreiniging, verworven binnen zes jaar, voorafgaand aan de erkenningsaanvraag;<br>
+7° beschikken over minstens vijf jaar praktische ervaring in een milieusector die relevant is voor het leiden van de bodemsanering, verworven binnen tien jaar, voorafgaand aan de erkenningsaanvraag;<br>
+8° beschikken over minstens vijf jaar praktische ervaring in werfopvolging, verworven binnen tien jaar, voorafgaand aan de erkenningsaanvraag;<br>
+9° beschikken over een getuigschrift van aanvullende vorming voor bodemsaneringsdeskundigen, module 2, dat door een erkend opleidingscentrum als vermeld in artikel 6, 4°, g), is uitgereikt met toepassing van de bepalingen van bijlage 17, die bij dit besluit is gevoegd;<br>
+10° beschikken over minstens één natuurlijk persoon die met gunstig gevolg een opleiding heeft genoten waarin minstens de volgende onderwerpen aan bod zijn gekomen : de Vlaamse reglementeringen inzake de milieuvergunning, het grondwaterbeheer en de stedenbouw en ruimtelijke ordening;<br>
+11° beschikken over minstens één natuurlijk persoon of minstens één natuurlijk persoon contractueel ter beschikking hebben met de nodige ervaring om een mathematisch grondwatermodel te hanteren en de resultaten ervan correct te interpreteren.
 
 ## [Onderafdeling 7 Erkenningsvoorwaarden voor bedrijven (verv. BVR 18 maart 2016, art. 223, I: 5 september 2016)]
 
 ### ART. 25/3.
 
-De hierna vermelde bijzondere erkenningsvoorwaarde geldt voor een   boorbedrijf als vermeld in artikel 6, 7° :<BR>1° ...;<BR>2° voor elk   operationeel boortoestel voor het uitvoeren van de werken in het kader van de   gewenste erkenning een natuurlijke persoon in dienst hebben die aan minstens een   van de volgende voorwaarden voldoet :<BR>a) over minstens drie jaar praktische   ervaring beschikken in het uitvoeren van werken in het kader van de gewenste   erkenning, verworven binnen vijf jaar, voorafgaand aan de   erkenningsaanvraag;<BR>b) over een attest beschikken dat een algemene opleiding   als vermeld in bijlage 16, die bij dit besluit is gevoegd, met gunstig gevolg   werd gevolgd binnen vijf jaar, voorafgaand aan de   erkenningsaanvraag.
+De hierna vermelde bijzondere erkenningsvoorwaarde geldt voor een boorbedrijf als vermeld in artikel 6, 7°, a) :<br>
+1° voor elk operationeel boortoestel voor het uitvoeren van de werken in het kader van de gewenste erkenning een natuurlijke persoon in dienst hebben die aan minstens een van de volgende voorwaarden voldoet :<br>
+a) over minstens drie jaar praktische ervaring beschikken in het uitvoeren van werken in het kader van de gewenste erkenning, verworven binnen vijf jaar, voorafgaand aan de erkenningsaanvraag;<br>
+b) over een attest beschikken dat een algemene opleiding als vermeld in bijlage 16, die bij dit besluit is gevoegd, met gunstig gevolg werd gevolgd binnen vijf jaar, voorafgaand aan de erkenningsaanvraag.
+
+### ART 25/4.
+
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een koeltechnisch bedrijf als vermeld in artikel 6, 7°, b) :<br>
+1° minstens één erkende koeltechnicus als vermeld in artikel 32, § 2, eerste lid, 7°, in dienst hebben;<br>
+2° voldoende erkende koeltechnici als vermeld in artikel 32, § 2, eerste lid, 7°, in dienst hebben om het verwachte activiteitenvolume te halen;<br>
+3° het bewijs leveren dat de nodige instrumenten en procedures beschikbaar zijn voor de erkende koeltechnicus, vermeld in artikel 32, § 2, eerste lid, 7° ;<br>
+4° met goed gevolg gekeurd zijn door een erkende keuringsinstelling als vermeld in artikel 32, § 2, eerste lid, 14°, waarbij de voorwaarden, vermeld in punt 1° tot en met 3°, nagegaan worden.
+
+### ART 25/5.
+
+De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een bedrijf voor brandbeveiligingsapparatuur als vermeld in artikel 6, 7°, c) :<br>
+1° minstens één erkende technicus voor brandbeveiligingsapparatuur als vermeld in artikel 32, § 2, eerste lid, 8°, in dienst hebben;<br>
+2° voldoende erkende technici voor brandbeveiligingsapparatuur als vermeld in artikel 32, § 2, eerste lid, 8°, in dienst hebben om het verwachte activiteitenvolume te halen;<br>
+3° het bewijs leveren dat de nodige instrumenten en procedures beschikbaar zijn voor de erkende technicus voor brandbeveiligingsapparatuur, vermeld in artikel 32, § 2, eerste lid, 8°.
 
 ## [Onderafdeling 8 Erkenningsvoorwaarden voor keuringsinstellingen (ing. BVR 18 maart 2016, art. 224, I: 5 september 2016)]
+
+### ART 25/6.
+
+De hierna vermelde bijzondere erkenningsvoorwaarde geldt voor een keuringsinstelling als vermeld in artikel 6, 8° :<br>
+1° ofwel geaccrediteerd zijn als keuringsinstelling van het type A op basis van de criteria van de norm ISO/IEC 17020 voor de keuring, vermeld in artikel 25/4, 4°, ofwel geaccrediteerd zijn als keuringsinstelling van het type A op basis van de criteria van de norm ISO/IEC 17020 en een bewijs leveren dat een aanvraag voor de accreditatie als keuringsinstelling van het type A op basis van de criteria van de norm ISO/IEC 17020 voor de keuring, vermeld in artikel 25/4, 4°, aanvaard is door BELAC of een gelijkwaardig accreditatiesysteem.
 
 ## HOOFDSTUK 5 Aanvraag, behandeling, beslissing en bekendmaking
 
@@ -170,13 +490,68 @@ Dit hoofdstuk is niet van toepassing op erkenningen van rechtswege.<br /><br />
 
 ### ART. 27.
 
-§ 1. De aanvraag tot erkenning wordt aangetekend, tegen afgifte van   ontvangstbewijs of elektronisch via het één-loket ingediend bij de bevoegde   afdeling.<BR><BR>§ 2. De aanvraag bevat minstens :<BR>1° het aanvraagformulier,   waarvan het model wordt vastgesteld door de bevoegde afdeling, dat minstens de   volgende gegevens omvat :<BR>a) de identificatiegegevens van de aanvrager   :<BR>indien een natuurlijke persoon :<BR>1) de voor- en achternaam;<BR>2) het   privéadres;<BR>3) het rijksregisternummer;<BR>4) in voorkomend geval, de naam   van het statuut, het ondernemingsnummer en het adres van de werkgever;<BR>5) de   contactgegevens van de aanvrager;<BR>6) als de erkenningsaanvraag uitgaat van   een natuurlijke persoon die een zelfstandig beroep uitoefent : het   ondernemingsnummer;<BR>indien een rechtspersoon :<BR>1) de naam;<BR>2) het   statuut van de rechtspersoon die de aanvraag indient of namens wie ze wordt   ingediend;<BR>3) het adres van de maatschappelijke zetel;<BR>4) het   ondernemingsnummer;<BR>5) de identificatiegegevens van de personeelsleden en de   erkenningen of beroepskwalificaties die ze bezitten;<BR>6) de   identificatiegegevens van de bestuurders;<BR>b) een omschrijving van het   voorwerp van de erkenning die wordt aangevraagd. Als een erkenning als vermeld   in artikel 6, 1°, a), wordt aangevraagd, wordt het voorwerp van de aanvraag   gespecificeerd op basis van de deeldomeinen, vermeld in bijlage 4, die bij dit   besluit is gevoegd. Als een erkenning als vermeld in artikel 6, 1°, c) en d),   wordt aangevraagd, wordt het voorwerp van de aanvraag gespecificeerd op basis   van de deeldomeinen, vermeld in de respectieve artikels. Als een erkenning als   vermeld in artikel 6, 5°, wordt aangevraagd, wordt het voorwerp van de aanvraag   gespecificeerd op basis van de pakketten, vermeld in bijlage 3, die bij dit   besluit is gevoegd, en, in voorkomend geval, op basis van een of meer van de   deeldomeinen, vermeld in artikel 6, 5°, a). Als een erkenning als vermeld in   artikel 6, 7°, wordt aangevraagd, wordt het voorwerp van de aanvraag   gespecificeerd op basis van een of meer van de disciplines, vermeld in artikel   6, 7° ;<BR>c) de gegevens en verklaringen die bewijzen dat voldaan is aan de van   toepassing zijnde erkenningsvoorwaarden, vermeld in hoofdstuk 4;<BR>2° een   ondertekende verklaring van de aanvrager dat alle gegevens naar waarheid zijn   ingevuld;<BR>3° in voorkomend geval, een kopie van de diploma's en   getuigschriften, alsook de andere bewijsstukken, vermeld in de   erkenningsvoorwaarden;<BR>4° in voorkomend geval, als een laboratorium als   vermeld in artikel 6, 5°, e) of f), geen volledig pakket ontleedt en   gebruikmaakt van de mogelijkheid, vermeld in artikel 25, vijfde lid : alle   schriftelijke overeenkomsten met erkende laboratoria waaraan parameters worden   uitbesteed met vermelding van welke parameters worden uitbesteed;<BR>5° in   voorkomend geval, het bewijs van betaling van de retributie, vermeld in artikel   54/1, § 1.
+§ 1. De aanvraag tot erkenning wordt aangetekend, tegen afgifte van ontvangstbewijs of elektronisch via het één-loket ingediend bij de bevoegde afdeling.<br>
+<br>
+§ 2. De aanvraag bevat minstens :<br>
+1° het aanvraagformulier, waarvan het model wordt vastgesteld door de bevoegde afdeling, dat minstens de volgende gegevens omvat :<br>
+a) de identificatiegegevens van de aanvrager, vermeld in bijlage 19, die bij dit besluit is gevoegd;<br>
+b) een omschrijving van het voorwerp van de erkenning die wordt aangevraagd. Als een erkenning als vermeld in artikel 6, 1°, a), wordt aangevraagd, wordt het voorwerp van de aanvraag gespecificeerd op basis van de deeldomeinen, vermeld in bijlage 4, die bij dit besluit is gevoegd. Als een erkenning als vermeld in artikel 6, 1°, c) en d), wordt aangevraagd, wordt het voorwerp van de aanvraag gespecificeerd op basis van de deeldomeinen, vermeld in de respectieve artikels. Als een erkenning als vermeld in artikel 6, 5°, wordt aangevraagd, wordt het voorwerp van de aanvraag gespecificeerd op basis van de pakketten, vermeld in bijlage 3, die bij dit besluit is gevoegd, en, in voorkomend geval, op basis van een of meer van de deeldomeinen, vermeld in artikel 6, 5°, a). Als een erkenning als vermeld in artikel 6, 7°, a), wordt aangevraagd, wordt het voorwerp van de aanvraag gespecificeerd op basis van een of meer van de disciplines, vermeld in artikel 6, 7°, a);<br>
+c) de gegevens en verklaringen die bewijzen dat voldaan is aan de van toepassing zijnde erkenningsvoorwaarden, vermeld in hoofdstuk 4;<br>
+2° een ondertekende verklaring van de aanvrager dat alle gegevens naar waarheid zijn ingevuld;<br>
+3° in voorkomend geval, een kopie van de diploma's en getuigschriften, alsook de andere bewijsstukken, vermeld in de erkenningsvoorwaarden;<br>
+4° in voorkomend geval, als een laboratorium als vermeld in artikel 6, 5°, e) of f), geen volledig pakket ontleedt en gebruikmaakt van de mogelijkheid, vermeld in artikel 25, vierde lid : alle schriftelijke overeenkomsten met erkende laboratoria waaraan parameters worden uitbesteed met vermelding van welke parameters worden uitbesteed;<br>
+5° in voorkomend geval, het bewijs van betaling van de retributie, vermeld in artikel 54/1, § 1.
 
 ## Afdeling 3 Behandeling van de aanvraag
 
 ### ART. 28.
 
-§ 1. De bevoegde afdeling of het één-loket, als de aanvraag elektronisch   wordt ingediend, stuurt een ontvangstbevestiging naar de aanvrager binnen een   termijn van dertig dagen, te rekenen vanaf de dag na de datum van de indiening   van de aanvraag. De ontvangstbevestiging bevat :<BR>1° de datum waarop de   aanvraag is ontvangen;<BR>2° in voorkomend geval, de gegevens en documenten die   de aanvrager aan het dossier moet toevoegen opdat de aanvraag volledig zou   zijn;<BR>3° de termijn waarbinnen de beslissing genomen moet worden;<BR>4° in   voorkomend geval, de vermelding dat de termijn, vermeld in 3°, pas begint te   lopen op het moment dat alle ontbrekende documenten zijn ingediend;<BR>5° de   vermelding van de beschikbare rechtsmiddelen, de bevoegde instanties die er   kennis van nemen, alsook de te respecteren formaliteiten en termijnen.<BR><BR>§   2. De bevoegde afdeling onderzoekt de aanvraag tot erkenning. De bevoegde   afdeling vraagt advies aan de volgende overheidsorganen : <BR>1° voor de   aanvragen tot erkenning als milieudeskundige in de discipline geluid en   trillingen als vermeld in artikel 6, 1°, c) : aan de afdeling, bevoegd voor   geluidshinder, en aan de afdeling, bevoegd voor milieueffectrapportage;<BR>2°   voor de aanvragen tot erkenning als MER-deskundige als vermeld in artikel 6, 1°,   d) : aan de afdeling, bevoegd voor milieueffectrapportage.<BR>Voor de volgende   disciplines wordt een aanvullend advies gevraagd :<BR>a) mens, deeldomeinen   :<BR>1) toxicologie : de afdeling, bevoegd voor het toezicht   volksgezondheid;<BR>2) psychosomatische aspecten : de afdeling, bevoegd voor   het&nbsp;toezicht volksgezondheid;<BR>3) mobiliteit : de afdeling Beleid,   Mobiliteit en Verkeersveiligheid van het Departement Mobiliteit en Openbare   Werken;<BR>4) ruimtelijke aspecten : de afdeling Gebieden en Projecten van het Departement Ruimte   Vlaanderen;<BR>b) fauna en flora : het Agentschap voor Natuur en   Bos;<BR>c) bodem : deeldomeinen :<BR>1) pedologie : de afdeling, bevoegd voor   bodembescherming, en de afdeling, bevoegd voor bodembeheer ;<BR>2) geologie : de   afdeling, bevoegd voor natuurlijke rijkdommen, en de afdeling, bevoegd voor   bodembeheer ;<BR>d) water, deeldomein :<BR>1) geohydrologie : de afdeling,   bevoegd voor operationeel waterbeheer, de afdeling, bevoegd voor natuurlijke   rijkdommen, en de afdeling, bevoegd voor bodembeheer ;<BR>2) oppervlakte- en   afvalwater : de afdeling, bevoegd voor operationeel waterbeheer en de afdeling,   bevoegd voor het ecologisch toezicht;<BR>3) mariene waters : de afdeling,   bevoegd voor het ecologisch toezicht, en het Vlaams Instituut voor de Zee;<BR>e)   lucht, deeldomeinen :<BR>1) geur : de afdeling, bevoegd voor   luchtverontreiniging;<BR>2) luchtverontreiniging : de afdeling, bevoegd voor   luchtverontreiniging, en de afdeling, bevoegd voor het opvolgen van de   luchtkwaliteit;<BR>f) licht, warmte en elektromagnetische golven : de afdeling,   bevoegd voor luchtverontreiniging;<BR>g) geluid en trillingen : de afdeling,   bevoegd voor geluidshinder;<BR>h) klimaat : de afdeling, bevoegd voor   luchtverontreiniging;<BR>i) landschap, bouwkundig erfgoed en archeologie : het   agentschap Onroerend Erfgoed;<BR>3° voor de aanvragen tot erkenning als   VR-deskundige als vermeld in artikel 6, 1°, e) : de afdeling, bevoegd voor   veiligheidsrapportage;<BR>4° voor de aanvragen tot erkenning als laboratorium   als vermeld in artikel 6, 5°, c) : de afdeling, bevoegd voor   bodembescherming.<BR>5° voor de aanvragen tot erkenning als boorbedrijf als   vermeld in artikel 6, 7°, voor de disciplines, vermeld in artikel 6, 7°, c), d)   en e) : de afdeling, bevoegd voor natuurlijke rijkdommen. <BR><BR>§ 3. Als het   advies, vermeld in paragraaf 2, niet wordt verleend binnen een termijn van   dertig dagen, te rekenen vanaf de dag na de datum van het verzenden van het   verzoek om advies, wordt het advies geacht gunstig te zijn.<BR><BR>§ 4. De   bevoegde afdeling kan aanvullende adviezen of inlichtingen van andere overheden   en organisaties inwinnen als ze dat nodig acht.<BR><BR>§ 5. Als de aanvrager   vraagt om gehoord te worden of de bevoegde afdeling het nuttig acht, organiseert   de bevoegde afdeling een hoorzitting waarop de aanvrager wordt   uitgenodigd.<BR><BR>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: auto auto 0pt; TEXT-AUTOSPACE: ; mso-add-space: auto; mso-layout-grid-align: none"   class=MsoNormalCxSpFirst>§6. Voor de aanvraag tot erkenning als vermeld in artikel 6, 1°, a) tot   en met e), 3°, a), 4°, a) tot en met f), 5°, a) tot en met d) en 7° geeft de   bevoegde afdeling een gemotiveerd eindadvies en maakt een voorstel van   beslissing.</P>
+§ 1. De bevoegde afdeling of het één-loket, als de aanvraag elektronisch wordt ingediend, stuurt een ontvangstbevestiging naar de aanvrager binnen een termijn van dertig dagen, te rekenen vanaf de dag na de datum van de indiening van de aanvraag. De ontvangstbevestiging bevat :<br>
+1° de datum waarop de aanvraag is ontvangen;<br>
+2° in voorkomend geval, de gegevens en documenten die de aanvrager aan het dossier moet toevoegen opdat de aanvraag volledig zou zijn;<br>
+3° de termijn waarbinnen de beslissing genomen moet worden;<br>
+4° in voorkomend geval, de vermelding dat de termijn, vermeld in 3°, pas begint te lopen op het moment dat alle ontbrekende documenten zijn ingediend;<br>
+5° de vermelding van de beschikbare rechtsmiddelen, de bevoegde instanties die er kennis van nemen, alsook de te respecteren formaliteiten en termijnen.<br>
+<br>
+Een aanvraag die onvolledig bevonden wordt en waaraan door de aanvrager binnen een termijn van negentig dagen, te rekenen vanaf de dag na de indiening van de aanvraag, geen gegevens of documenten worden toegevoegd opdat de aanvraag volledig zou zijn, wordt definitief onvolledig geacht. De bevoegde afdeling brengt de aanvrager daarvan op de hoogte.<br>
+<br>
+§ 2. De bevoegde afdeling onderzoekt de aanvraag tot erkenning. De bevoegde afdeling vraagt advies aan de volgende overheidsorganen :<br>
+1° voor de aanvragen tot erkenning als milieudeskundige in de discipline geluid en trillingen als vermeld in artikel 6, 1°, c) : aan de afdeling, bevoegd voor geluidshinder, en aan de afdeling, bevoegd voor milieueffectrapportage;<br>
+2° voor de aanvragen tot erkenning als MER-deskundige als vermeld in artikel 6, 1°, d) : aan de afdeling, bevoegd voor milieueffectrapportage.<br>
+Voor de volgende disciplines wordt een aanvullend advies gevraagd :<br>
+a) mens, deeldomeinen :<br>
+1) toxicologie : de afdeling, bevoegd voor het toezicht volksgezondheid;<br>
+2) psychosomatische aspecten : de afdeling, bevoegd voor het&nbsp;toezicht volksgezondheid;<br>
+3) mobiliteit : de afdeling Beleid, Mobiliteit en Verkeersveiligheid van het Departement Mobiliteit en Openbare Werken;<br>
+4) ruimtelijke aspecten : de afdeling Gebieden en Projecten van het Departement Ruimte Vlaanderen;<br>
+b) fauna en flora : het Agentschap voor Natuur en Bos;<br>
+c) bodem : deeldomeinen :<br>
+1) pedologie : de afdeling, bevoegd voor bodembescherming, en de afdeling, bevoegd voor bodembeheer ;<br>
+2) geologie : de afdeling, bevoegd voor natuurlijke rijkdommen, en de afdeling, bevoegd voor bodembeheer ;<br>
+d) water, deeldomein :<br>
+1) geohydrologie : de afdeling, bevoegd voor operationeel waterbeheer, de afdeling, bevoegd voor natuurlijke rijkdommen, en de afdeling, bevoegd voor bodembeheer ;<br>
+2) oppervlakte- en afvalwater : de afdeling, bevoegd voor operationeel waterbeheer en de afdeling, bevoegd voor het ecologisch toezicht;<br>
+3) mariene waters : de afdeling, bevoegd voor het ecologisch toezicht, en het Vlaams Instituut voor de Zee;<br>
+e) lucht, deeldomeinen :<br>
+1) geur : de afdeling, bevoegd voor luchtverontreiniging;<br>
+2) luchtverontreiniging : de afdeling, bevoegd voor luchtverontreiniging, en de afdeling, bevoegd voor het opvolgen van de luchtkwaliteit;<br>
+f) licht, warmte en elektromagnetische golven : de afdeling, bevoegd voor luchtverontreiniging;<br>
+g) geluid en trillingen : de afdeling, bevoegd voor geluidshinder;<br>
+h) klimaat : de afdeling, bevoegd voor luchtverontreiniging;<br>
+i) landschap, bouwkundig erfgoed en archeologie : het agentschap Onroerend Erfgoed;<br>
+3° voor de aanvragen tot erkenning als VR-deskundige als vermeld in artikel 6, 1°, e) : de afdeling, bevoegd voor veiligheidsrapportage;<br>
+4° voor de aanvragen tot erkenning als laboratorium als vermeld in artikel 6, 5°, c) : de afdeling, bevoegd voor bodembescherming.<br>
+5° voor de aanvragen tot erkenning als boorbedrijf als vermeld in artikel 6, 7°, a), voor de disciplines, vermeld in artikel 6, 7°, a), 3) tot en met 5) : de afdeling, bevoegd voor natuurlijke rijkdommen.<br>
+<br>
+De bevoegde afdeling vraagt voor de aanvragen tot erkenning als opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, vermeld in artikel 6, 4°, l), advies aan een instantie die het sectorale opleidingsbeleid ondersteunt als het opleidingscentrum zich daarmee akkoord heeft verklaard in zijn erkenningsaanvraag. Die instantie keurt dan samen met de afdeling, bevoegd voor erkenningen, de opleidingscentra voor het uitreiken van het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, vermeld in artikel 6, 4°, l), in het Vlaamse Gewest.<br>
+<br>
+§ 3. Als het advies, vermeld in paragraaf 2, niet wordt verleend binnen een termijn van dertig dagen, te rekenen vanaf de dag na de datum van het verzenden van het verzoek om advies, wordt het advies geacht gunstig te zijn.<br>
+<br>
+§ 4. De bevoegde afdeling kan aanvullende adviezen of inlichtingen van andere overheden en organisaties inwinnen als ze dat nodig acht.<br>
+<br>
+§ 5. Als de aanvrager vraagt om gehoord te worden of de bevoegde afdeling het nuttig acht, organiseert de bevoegde afdeling een hoorzitting waarop de aanvrager wordt uitgenodigd.<br>
+<br>
+§ 6. Voor de aanvraag tot erkenning als vermeld in artikel 6, 1°, a) tot en met e), 3°, a), 4°, a) tot en met f) en h) tot en met l), 5°, a) tot en met d), en 7°, a) en c), geeft de bevoegde afdeling een gemotiveerd eindadvies en maakt ze een voorstel van beslissing.
 
 ## Afdeling 4 De beslissing
 
@@ -200,7 +575,46 @@ De beslissing wordt binnen een termijn van veertien dagen, te rekenen   vanaf de
 
 ### ART. 32.
 
-§ 1. Personen die houder zijn van een titel die krachtens artikel 31   gelijkwaardig is bevonden aan een erkenning als vermeld in artikel 6, zijn voor   die laatste erkenning van rechtswege erkend.<BR><BR>De erkenning gaat in op de   datum waarop het gebruik van de erkenning wordt gemeld aan de bevoegde afdeling   en een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, §   2, wordt voorgelegd aan de bevoegde afdeling. <BR><BR>§ 2. De volgende personen   zijn van rechtswege erkend als :<BR>1° technicus vloeibare brandstof als vermeld   in artikel 6, 2°, a) : de personen die voldoen aan de bijzondere   erkenningsvoorwaarden, vermeld in artikel 14;<BR>2° technicus gasvormige   brandstof als vermeld in artikel 6, 2°, b) : de personen die voldoen aan de   bijzondere erkenningsvoorwaarden, vermeld in artikel 15;<BR>3° technicus   verwarmingsaudit als vermeld in artikel 6, 2°, c) : de personen die voldoen aan   de bijzondere erkenningsvoorwaarden, vermeld in artikel 16;<BR>4°   stookolietechnicus als vermeld in artikel 6, 2°, d) : de personen die voldoen   aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 17;<BR>5°   milieuverificateurs, belast met de validatie van de decretaal verplichte   milieuaudit, vermeld in artikel 6, 3°, b) : de personen die voldoen aan de   bijzondere erkenningsvoorwaarden, vermeld in artikel 19.<BR>6°   airco-energiedeskundige als vermeld in artikel 6, 1°, f) : de personen die   voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel   13/1.&nbsp;<BR><BR>De erkenning, vermeld in het eerste lid, 5°, gaat in op de   datum waarop het gebruik van de erkenning wordt gemeld aan de afdeling, bevoegd   voor milieuvergunningen, en een geldig bewijs van betaling van de retributie,   vermeld in artikel 54/1, § 2, wordt voorgelegd aan de afdeling, bevoegd voor   milieuvergunningen.<BR><BR>§ 3. De erkenning van rechtswege, vermeld in   paragraaf 1 en 2, is niet van toepassing op personen die niet voldoen aan de   algemene erkenningsvoorwaarden, vermeld in artikel 8.<BR><BR>
+§ 1. Personen die houder zijn van een titel die krachtens artikel 31 gelijkwaardig is bevonden aan een erkenning als vermeld in artikel 6, zijn voor die laatste erkenning van rechtswege erkend.<br>
+<br>
+De erkenning gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de bevoegde afdeling, de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de bevoegde afdeling en een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, wordt voorgelegd aan de bevoegde afdeling.<br>
+<br>
+§ 2. De volgende personen zijn van rechtswege erkend als :<br>
+1° technicus vloeibare brandstof als vermeld in artikel 6, 2°, a) : de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 14;<br>
+2° technicus gasvormige brandstof als vermeld in artikel 6, 2°, b) : de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 15;<br>
+3° technicus verwarmingsaudit als vermeld in artikel 6, 2°, c) : de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 16;<br>
+4° stookolietechnicus als vermeld in artikel 6, 2°, d) : de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 17;<br>
+5° milieuverificateurs, belast met de validatie van de decretaal verplichte milieuaudit, vermeld in artikel 6, 3°, b) : de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 19.<br>
+6° airco-energiedeskundige als vermeld in artikel 6, 1°, f) : de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 13/1.&nbsp;<br>
+7° koeltechnicus als vermeld in artikel 6, 2°, e) :<br>
+a) de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 17/1;<br>
+b) de personen die in een ander gewest in België of in een andere lidstaat van de Europese Economische Ruimte conform artikel 4 van verordening nr. 2015/2067 een geldig certificaat hebben behaald;<br>
+8° technicus voor brandbeveiligingsapparatuur als vermeld in artikel 6, 2°, f) :<br>
+a) de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 17/2;<br>
+b) de personen die in een ander gewest in België of in een andere lidstaat van de Europese Economische Ruimte conform artikel 5 van verordening nr. 304/2008 een geldig certificaat hebben behaald;<br>
+9° technicus voor elektrische schakelinrichtingen als vermeld in artikel 6, 2°, g) :<br>
+a) de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 17/3;<br>
+b) de personen die in een ander gewest in België of in een andere lidstaat van de Europese Economische Ruimte conform artikel 3 van verordening nr. 2015/2066 een geldig certificaat hebben behaald;<br>
+10° technicus voor apparatuur die oplosmiddelen bevat als vermeld in artikel 6, 2°, h) :<br>
+a) de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 17/4;<br>
+b) de personen die in een ander gewest in België of in een andere lidstaat van de Europese Economische Ruimte conform artikel 3 van verordening nr. 306/2008 een geldig certificaat hebben behaald;<br>
+11° technicus voor klimaatregelingsapparatuur in bepaalde motorvoertuigen als vermeld in artikel 6, 2°, i) :<br>
+a) de personen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 17/5;<br>
+b) de personen die in een ander gewest in België of in een andere lidstaat van de Europese Economische Ruimte conform artikel 3 van verordening nr. 307/2008 een geldig certificaat hebben behaald;<br>
+12° koeltechnisch bedrijf als vermeld in artikel 6, 7°, b) :<br>
+a) de bedrijven die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 25/4;<br>
+b) de bedrijven die in een ander gewest in België of in een andere lidstaat van de Europese Economische Ruimte conform artikel 6 van verordening nr. 2015/2067 een geldig certificaat hebben behaald;<br>
+13° bedrijf voor brandbeveiligingsapparatuur als vermeld in artikel 6, 7°, c) : de bedrijven die in een ander gewest in België of in een andere lidstaat van de Europese Economische Ruimte conform artikel 8 van verordening nr. 304/2008 een geldig certificaat hebben behaald;<br>
+14° keuringsinstelling als vermeld in artikel 6, 8° : de instellingen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 25/6.<br>
+<br>
+De erkenning, vermeld in het eerste lid, 5°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de afdeling, bevoegd voor milieuvergunningen, identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de afdeling, bevoegd voor milieuvergunningen,&nbsp;en een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, wordt voorgelegd aan de afdeling, bevoegd voor milieuvergunningen.<br>
+<br>
+De erkenning, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b) en 13°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de afdeling, bevoegd voor erkenningen, de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de afdeling, bevoegd voor erkenningen, en een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, wordt voorgelegd aan de afdeling, bevoegd voor erkenningen. De persoon of het bedrijf, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b), en 13°, beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven, en legt zijn certificaat en, in voorkomend geval, de vertaling ervan voor aan de afdeling, bevoegd voor erkenningen, bij de melding van het gebruik van de erkenning.<br>
+<br>
+De erkenning, vermeld in het eerste lid, 14°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de afdeling, bevoegd voor erkenningen, en de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 3. De erkenning van rechtswege, vermeld in paragraaf 1 en 2, is niet van toepassing op personen die niet voldoen aan de algemene erkenningsvoorwaarden, vermeld in artikel 8.<br>
+&nbsp;
 
 ## HOOFDSTUK 8 Gebruikseisen voor erkenningen
 
@@ -214,16 +628,9 @@ De beslissing wordt binnen een termijn van veertien dagen, te rekenen   vanaf de
 
 ### ART. 34.
 
-§ 1. Het uitoefenen van functies, het verstrekken van opleidingen, het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses waarvoor een persoon erkend is, verloopt op een kwalitatief goede wijze.<br>
+§ 1. Het gebruik van de erkenning verloopt op een kwalitatief goede wijze.<br>
 <br>
-De erkende persoon neemt daarbij een objectieve en onafhankelijke houding aan. Het is hem verboden om zijn erkenning te gebruiken als :<br>
-1° hij, in rechte of in feite, bestuursmandaten opneemt of bestuursfuncties uitoefent bij de opdrachtgever;<br>
-2° de opdrachtgever, zelf of met een tussenpersoon, in rechte of in feite bestuursmandaten opneemt of bestuursfuncties uitoefent bij de erkende persoon;<br>
-3° hij bloed- of aanverwant in de rechte lijn tot en met de derde graad en in de zijlijn tot en met de vierde graad is met de opdrachtgever;<br>
-4° er financiële banden zijn tussen hem en de opdrachtgever;<br>
-5° hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of beheerd wordt door de opdrachtgever.&nbsp;<br>
-<br>
-Het gebruiksverbod, vermeld in het tweede lid, is niet van toepassing op bodemsaneringsdeskundigen. Voor de bodemsaneringsdeskundige geldt de onverenigbaarheidsregeling, vermeld in artikel 53/5.<br>
+De erkende persoon neemt daarbij een objectieve en onafhankelijke houding aan.<br>
 <br>
 § 2. De erkende persoon past de normen en codes van goede praktijk toe die voor het gebruik van de erkenning in het Vlaamse Gewest van toepassing zijn.<br>
 <br>
@@ -237,11 +644,11 @@ De erkende persoon stelt aan de bevoegde afdeling alle inlichtingen en documente
 <br>
 § 6. Het is de erkende persoon, zelfs na het beëindigen van zijn functie, verboden vertrouwelijke gegevens kenbaar te maken, waarvan hij ten gevolge van zijn opdrachten kennis heeft gekregen.<br>
 <br>
-§ 7. Ambtenaren kunnen hun erkenning niet gebruiken als ze met betrekking tot de erkenning of de taken van de erkenninghouder een adviserende, toezichthoudende of beslissende functie uitoefenen.<br>
+§ 7.&nbsp;Personeelsleden van de bevoegde afdeling kunnen hun erkenning niet gebruiken als ze met betrekking tot de erkenning of de taken van de erkenninghouder een adviserende, toezichthoudende of beslissende functie uitoefenen.<br>
 <br>
 § 8. De erkende persoon verleent zijn medewerking aan periodieke evaluaties die door de bevoegde afdeling worden opgezet.<br>
 <br>
-§ 9. De erkende persoon legt vijfjaarlijks een bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, voor aan de bevoegde afdeling.<br>
+§ 9. De erkende persoon legt vijfjaarlijks een bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, voor aan de bevoegde afdeling of voor de erkende airco-energiedeskundige, vermeld in artikel 6, 1°, f), en de erkende technici, vermeld in artikel 6, 2°, a) tot en met e), aan een erkend opleidingscentrum als vermeld in artikel 6, 4°.<br>
 &nbsp;
 
 ## Afdeling 3 Bijzondere gebruikseisen
@@ -252,19 +659,32 @@ De erkende persoon stelt aan de bevoegde afdeling alle inlichtingen en documente
 
 De erkende milieudeskundige in de discipline houders voor gassen of gevaarlijke stoffen, vermeld in artikel 6, 1°, a) :<br>
 1° beschikt over het behoorlijk onderhouden materiaal dat voldoet aan alle reglementaire eisen en dat noodzakelijk is voor de uitvoering van de taken waarvoor de erkenning werd verkregen;<br>
-2° beschikt over de nodige vakliteratuur en technische gegevens over de uit te voeren taken met betrekking tot de erkenning.
+2° beschikt over de nodige vakliteratuur en technische gegevens over de uit te voeren taken met betrekking tot de erkenning.<br>
+3° bezorgt uiterlijk één maand na het opstellen van het attest van prototypekeuring van een houder, een permanent lekdetectiesysteem of een overvulbeveiliging als vermeld in respectievelijk bijlage 5.17.2, bijlage 5.17.3 en bijlage 5.17.7 van titel II van het VLAREM, een kopie van het attest of verslag dat hij opmaakt naar aanleiding van de prototypekeuring aan de afdeling, bevoegd voor erkenningen;<br>
+4° mag zijn erkenning niet gebruiken als :<br>
+a) hij, in rechte of in feite, bestuursmandaten opneemt of bestuursfuncties uitoefent bij de opdrachtgever;<br>
+b) de opdrachtgever, zelf of met een tussenpersoon, in rechte of in feite bestuursmandaten opneemt of bestuursfuncties uitoefent bij de erkende persoon;<br>
+c) hij bloed- of aanverwant in de rechte lijn tot en met de derde graad en in de zijlijn tot en met de vierde graad is met de opdrachtgever;<br>
+d) er financiële banden zijn tussen hem en de opdrachtgever;<br>
+e) hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of beheerd wordt door de opdrachtgever.
 
 ### ART 36.
 
 De erkende milieudeskundige in de discipline bodemcorrosie, vermeld in artikel 6, 1°, b) :<br>
 1° beschikt over het behoorlijk onderhouden materiaal dat voldoet aan alle reglementaire eisen en dat noodzakelijk is voor de uitvoering van de taken waarvoor de erkenning werd verkregen;<br>
-2° beschikt over de nodige vakliteratuur en technische gegevens over de uit te voeren taken met betrekking tot de erkenning.
+2° beschikt over de nodige vakliteratuur en technische gegevens over de uit te voeren taken met betrekking tot de erkenning.<br>
+3° mag zijn erkenning niet gebruiken als :<br>
+a) hij, in rechte of in feite, bestuursmandaten opneemt of bestuursfuncties uitoefent bij de opdrachtgever;<br>
+b) de opdrachtgever, zelf of met een tussenpersoon, in rechte of in feite bestuursmandaten opneemt of bestuursfuncties uitoefent bij de erkende persoon;<br>
+c) hij bloed- of aanverwant in de rechte lijn tot en met de derde graad en in de zijlijn tot en met de vierde graad is met de opdrachtgever;<br>
+d) er financiële banden zijn tussen hem en de opdrachtgever;<br>
+e) hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of beheerd wordt door de opdrachtgever.
 
 ### ART 37.
 
 De erkende milieudeskundige in de discipline geluid en trillingen, vermeld in artikel 6, 1°, c), 1) en 2) :<br>
 1° beschikt minstens over de apparatuur, vermeld in bijlage 8, die bij dit besluit is gevoegd;<br>
-2° kan de softwareprogramma's voor de verwerking van de meetresultaten hanteren en de resultaten ervan correct interpreteren;<br>
+2° kan de nodige software voor het uitvoeren van zijn taken hanteren en de resultaten ervan correct interpreteren;<br>
 3° houdt een kwaliteitshandboek bij dat minstens de inhoud, vermeld in bijlage 7,&nbsp;die bij dit besluit is gevoegd, bevat;<br>
 4° beschikt over de nodige vakliteratuur en gegevens over de uit te voeren taken met betrekking tot de erkenning;<br>
 5° blijft op de hoogte van de recentste ontwikkelingen en wetgeving inzake de discipline geluid en trillingen door jaarlijks een bijscholing van minstens acht uur te volgen;<br>
@@ -275,21 +695,39 @@ De erkende milieudeskundige in de discipline geluid en trillingen, vermeld in ar
 a) eerstelijnskalibratie : ijking van meetapparatuur voor en na elke meting;<br>
 b) tweedelijnskalibratie : jaarlijkse reciproque ijking van meetapparatuur met behulp van een extern gekalibreerd referentiemeetapparaat;<br>
 c) derdelijnskalibratie : tweejaarlijkse externe ijking van een referentiemeetapparaat;<br>
-10° houdt de meetgegevens van onderzoeken in het kader van de erkenning ten minste vijf jaar bij.&nbsp;&nbsp;
+10° houdt de meetgegevens van onderzoeken in het kader van de erkenning ten minste vijf jaar bij.<br>
+11° mag zijn erkenning niet gebruiken als :<br>
+a) hij, in rechte of in feite, bestuursmandaten opneemt of bestuursfuncties uitoefent bij de opdrachtgever;<br>
+b) de opdrachtgever, zelf of met een tussenpersoon, in rechte of in feite bestuursmandaten opneemt of bestuursfuncties uitoefent bij de erkende persoon;<br>
+c) hij bloed- of aanverwant in de rechte lijn tot en met de derde graad en in de zijlijn tot en met de vierde graad is met de opdrachtgever;<br>
+d) er financiële banden zijn tussen hem en de opdrachtgever;<br>
+e) hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of beheerd wordt door de opdrachtgever.
 
 ### ART 38.
 
 De erkende MER-deskundige, vermeld in artikel 6, 1°, d) :<br>
-1° beschikt over de nodige softwareprogramma's voor het voorspellen van effecten van plannen en projecten op mens en milieu en kan die hanteren en de resultaten ervan correct interpreteren;<br>
+1° beschikt over de nodige software voor het voorspellen van effecten van plannen en projecten op mens en milieu en kan die hanteren en de resultaten ervan correct interpreteren;<br>
 2° beschikt over de nodige vakliteratuur en gegevens over de uit te voeren taken met betrekking tot de erkenning;<br>
-3° blijft op de hoogte van de recentste ontwikkelingen en wetgeving inzake de discipline waarvoor hij erkend is, door daarvoor jaarlijks een bijscholing van minstens acht uur te volgen per discipline.
+3° blijft op de hoogte van de recentste ontwikkelingen en wetgeving inzake de discipline waarvoor hij erkend is, door daarvoor jaarlijks een bijscholing van minstens acht uur te volgen per discipline.<br>
+4° mag zijn erkenning niet gebruiken als :<br>
+a) hij, in rechte of in feite, bestuursmandaten opneemt of bestuursfuncties uitoefent bij de opdrachtgever;<br>
+b) de opdrachtgever, zelf of met een tussenpersoon, in rechte of in feite bestuursmandaten opneemt of bestuursfuncties uitoefent bij de erkende persoon;<br>
+c) hij bloed- of aanverwant in de rechte lijn tot en met de derde graad en in de zijlijn tot en met de vierde graad is met de opdrachtgever;<br>
+d) er financiële banden zijn tussen hem en de opdrachtgever;<br>
+e) hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of beheerd wordt door de opdrachtgever.
 
 ### ART 39.
 
 De erkende VR-deskundige, vermeld in artikel 6, 1°, e) :<br>
-1° beschikt over de nodige softwareprogramma's voor het berekenen van risico's voor mens en milieu bij industriële ongevallen waarbij gevaarlijke stoffen betrokken zijn, en kan die hanteren en de resultaten ervan correct interpreteren;<br>
+1° beschikt over de nodige software voor het berekenen van risico's voor mens en milieu bij industriële ongevallen waarbij gevaarlijke stoffen betrokken zijn, en kan die hanteren en de resultaten ervan correct interpreteren;<br>
 2° beschikt over de nodige vakliteratuur en gegevens over de uit te voeren taken met betrekking tot de erkenning;<br>
-3° blijft op de hoogte van de recentste ontwikkelingen en wetgeving inzake veiligheidsrapportage door daarvoor jaarlijks een bijscholing van minstens acht uur te volgen.
+3° blijft op de hoogte van de recentste ontwikkelingen en wetgeving inzake veiligheidsrapportage door daarvoor jaarlijks een bijscholing van minstens acht uur te volgen.<br>
+4° mag zijn erkenning niet gebruiken als :<br>
+a) hij, in rechte of in feite, bestuursmandaten opneemt of bestuursfuncties uitoefent bij de opdrachtgever;<br>
+b) de opdrachtgever, zelf of met een tussenpersoon, in rechte of in feite bestuursmandaten opneemt of bestuursfuncties uitoefent bij de erkende persoon;<br>
+c) hij bloed- of aanverwant in de rechte lijn tot en met de derde graad en in de zijlijn tot en met de vierde graad is met de opdrachtgever;<br>
+d) er financiële banden zijn tussen hem en de opdrachtgever;<br>
+e) hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of beheerd wordt door de opdrachtgever.
 
 ### ART 39/1.
 
@@ -307,43 +745,460 @@ Als een geldig bewijs van betaling van de retributie, vermeld in artikel 13/1, 4
 
 ### ART. 40.
 
-De erkende technicus, vermeld in artikel 6, 2° :<BR>1° toont, op eenvoudig   verzoek, het materiaal dat hij gebruikt bij het uitvoeren van de taken met   betrekking tot de verleende erkenning;<BR>2° maakt uitsluitend gebruik van   apparatuur die voldoet aan alle reglementaire eisen, vermeld in bijlage 6, die   bij dit besluit is gevoegd;<BR>3° volgt vijfjaarlijks de bijscholing, vermeld in   bijlage 1, hoofdstuk 3, die bij dit besluit is gevoegd, en slaagt voor de   bijhorende proef. Die bijscholing wordt gevolgd in een daartoe erkend   opleidingscentrum.<BR>4° voert de keuring, onderhoudsbeurt of verwarmingsaudit,   vermeld in artikel 12, 13, en 14 van het besluit inzake het onderhoud en nazicht   van stooktoestellen, correct uit;<BR>5° levert de attesten en rapporten af en   houdt die ter beschikking, zoals bepaald in artikel 15 van het besluit inzake   het onderhoud en nazicht van stooktoestellen.&nbsp;<BR><BR> Als een geldig   bewijs van betaling van de desbetreffende retributie, vermeld in artikel 14, 3°,   artikel 15, 3°, artikel 16, 4°, of artikel 17, 3°, na een termijn van vijf jaar   na het behalen van het desbetreffende certificaat van bekwaamheid, vermeld in   artikel 14, 2°, artikel 15, 2°, artikel 16, 3°, of artikel 17, 2°, voorgelegd   wordt, moet de technicus de bijscholing, vermeld in het eerste lid, 3°, gevolgd   hebben, en voor het bijhorende examen, vermeld in het eerste lid, 3°, geslaagd   zijn voor hij de desbetreffende erkenning van rechtswege, vermeld in artikel 32,   § 2, eerste lid, 1° tot en met 4°, kan gebruiken. <BR><BR>
+De erkende technicus,&nbsp;vermeld in artikel 6, 2°, a) tot en met d) :<br>
+1° toont, op eenvoudig verzoek, het materiaal dat hij gebruikt bij het uitvoeren van de taken met betrekking tot de verleende erkenning;<br>
+2° maakt uitsluitend gebruik van apparatuur die voldoet aan alle reglementaire eisen, vermeld in bijlage 6, die bij dit besluit is gevoegd;<br>
+3° volgt vijfjaarlijks de bijscholing, vermeld in bijlage 1, hoofdstuk 3, die bij dit besluit is gevoegd, en slaagt voor de bijhorende proef. Die bijscholing wordt gevolgd in een daartoe erkend opleidingscentrum.<br>
+4° voert de keuring, onderhoudsbeurt of verwarmingsaudit, vermeld in artikel 12, 13, en 14 van het besluit inzake het onderhoud en nazicht van stooktoestellen, correct uit;<br>
+5° levert de attesten en rapporten af en houdt die ter beschikking, zoals bepaald in artikel 15 van het besluit inzake het onderhoud en nazicht van stooktoestellen.&nbsp;<br>
+<br>
+Als een geldig bewijs van betaling van de desbetreffende retributie, vermeld in artikel 14, 3°, artikel 15, 3°, artikel 16, 4°, of artikel 17, 3°, na een termijn van vijf jaar na het behalen van het desbetreffende certificaat van bekwaamheid, vermeld in artikel 14, 2°, artikel 15, 2°, artikel 16, 3°, of artikel 17, 2°, voorgelegd wordt, moet de technicus de bijscholing, vermeld in het eerste lid, 3°, gevolgd hebben, en voor het bijhorende examen, vermeld in het eerste lid, 3°, geslaagd zijn voor hij de desbetreffende erkenning van rechtswege, vermeld in artikel 32, § 2, eerste lid, 1° tot en met 4°, kan gebruiken.<br>
+&nbsp;
+
+### ART 40/1.
+
+De erkende koeltechnicus, vermeld in artikel 6, 2°, e) :<br>
+1° die in het bezit is van een certificaat van categorie I, II, III of IV mag de volgende werkzaamheden uitvoeren aan stationaire koelinstallaties met zowel gefluoreerde broeikasgassen als ozonlaagafbrekende stoffen :<br>
+a) in geval van categorie I : de werkzaamheden, vermeld in artikel 3, lid 2, a), van verordening nr. 2015/2067;<br>
+b) in geval van categorie II : de werkzaamheden, vermeld in artikel 3, lid 2, b), van verordening nr. 2015/2067;<br>
+c) in geval van categorie III : de werkzaamheden, vermeld in artikel 3, lid 2, c), van verordening nr. 2015/2067;<br>
+d) in geval van categorie IV : de werkzaamheden, vermeld in artikel 3, lid 2, d), van verordening nr. 2015/2067;<br>
+2° bezorgt een afschrift van de volgende registraties aan de eigenaar of beheerder van de stationaire koelinstallatie die gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevat en noteert ze, als dat van toepassing is, in het installatiegebonden logboek :<br>
+a) bij de initiële installatie of een aanpassing van de koelinstallatie waardoor de nominale koelmiddelinhoud of het type koelmiddel wijzigt :<br>
+1) de nominale koelmiddelinhoud, uitgedrukt in metrische eenheid, en, in geval van gefluoreerde broeikasgassen, eveneens in ton CO2-equivalent;<br>
+2) het type koelmiddel;<br>
+3) indien bij de installatie gerecycleerde of geregenereerde gefluoreerde broeikasgassen gebruikt worden : de vermelding hiervan en de naam en het adres van het recyclage- of regeneratiebedrijf;<br>
+4) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de initiële installatie of de aanpassing van de koelinstallatie uitgevoerd heeft;<br>
+5) de naam en het erkenningsnummer van het koeltechnisch bedrijf waar de technicus werkt;<br>
+b) als gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden bijgevuld of afgetapt :<br>
+1) het type koelmiddel;<br>
+2) de hoeveelheid, uitgedrukt in metrische eenheid;<br>
+3) de datum van bijvulling of aftapping;<br>
+4) de reden van bijvulling of aftapping;<br>
+5) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de bijvulling of aftapping uitgevoerd heeft;<br>
+6) als dat van toepassing is : de naam en het erkenningsnummer van het koeltechnisch bedrijf waar de technicus werkt;<br>
+7) na elke bijvulling voor een koelinstallatie als vermeld in artikel 5.16.3.3, § 5, van titel II van het VLAREM : het relatief lekverlies;<br>
+c) als lekkagecontroles als vermeld in artikel 4 van verordening nr. 517/2014 of artikel 23 van verordening nr. 1005/2009 uitgevoerd worden :<br>
+1) de datum van de lekkagecontrole;<br>
+2) een beschrijving en de resultaten van de uitgevoerde controles;<br>
+3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de lekkagecontrole uitgevoerd heeft;<br>
+d) de nominale koelmiddelinhoud van de koelinstallatie, uitgedrukt in metrische eenheid, en, in geval van gefluoreerde broeikasgassen, eveneens in ton CO2-equivalent, als die niet gekend is;<br>
+e) bij een buitendienststelling :<br>
+1) de datum van de buitendienststelling;<br>
+2) de maatregelen die genomen zijn om de gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen terug te winnen en te verwijderen;<br>
+3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de installatie buiten dienst gesteld heeft;<br>
+4) de naam en het erkenningsnummer van het koeltechnisch bedrijf waar de technicus werkt;<br>
+3° toont op verzoek het materiaal dat hij gebruikt bij de uitvoering van de werkzaamheden met betrekking tot de erkenning;<br>
+4° slaagt vijfjaarlijks voor het actualisatie-examen in een erkend opleidingscentrum als vermeld in artikel 6, 4°, h), of voor een gelijkwaardig examen dat aanvaard is door de afdeling, bevoegd voor erkenningen. Als het certificaat van bekwaamheid als vermeld in artikel 17/1, 2°, of artikel 32, § 2, eerste lid, 7°, b), ouder is dan vijf jaar na de afgiftedatum, vermeld op het certificaat, slaagt hij voor het actualisatie-examen of voor een gelijkwaardig examen vóór hij de erkenning kan gebruiken. De examens die gelijkwaardig worden bevonden, worden gepubliceerd op de website van de afdeling, bevoegd voor erkenningen. De datum van het slagen voor het actualisatie-examen of een gelijkwaardig examen mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van de retributie, vermeld in artikel 17/1, 3°, of artikel 32, § 2, derde lid;<br>
+5° doet al het mogelijke om lekkage van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen te voorkomen of tot een minimum te beperken;<br>
+6° doet al het nodige voor de recycling, regeneratie of vernietiging van gefluoreerde broeikasgassen als een cilinder met dat broeikasgas verwijderd moet worden;<br>
+7° beschikt over een vertaling van zijn certificaat van categorie I, II, III of IV naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven.
+
+### ART 40/2.
+
+De erkende technicus voor brandbeveiligingsapparatuur, vermeld in artikel 6, 2°, f) :<br>
+1° bezorgt een afschrift van de volgende registraties aan de eigenaar of beheerder van de brandbeveiligingsapparatuur die gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevat :<br>
+a) bij de initiële installatie of een aanpassing van de brandbeveiligingsapparatuur waardoor de nominale inhoud aan blusmiddel of het type blusmiddel wijzigt :<br>
+1) de nominale inhoud, uitgedrukt in metrische eenheid, en, in geval van gefluoreerde broeikasgassen, eveneens in ton CO2-equivalent;<br>
+2) het type blusmiddel;<br>
+3) indien bij de installatie gerecycleerde of geregenereerde gefluoreerde broeikasgassen gebruikt worden : de vermelding hiervan en de naam en het adres van het recyclage- of regeneratiebedrijf;<br>
+4) de voor- en achternaam en het erkenningsnummer van de technicus voor brandbeveiligingsapparatuur die de initiële installatie of de aanpassing van de brandbeveiligingsapparatuur uitgevoerd heeft;<br>
+5) de naam en het erkenningsnummer van het bedrijf voor brandbeveiligingsapparatuur waar de technicus werkt;<br>
+b) als gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden bijgevuld of afgetapt :<br>
+1) het type blusmiddel;<br>
+2) de hoeveelheid, uitgedrukt in metrische eenheid;<br>
+3) de datum van bijvulling of aftapping;<br>
+4) de reden van bijvulling of aftapping;<br>
+5) de voor- en achternaam en het erkenningsnummer van de technicus voor brandbeveiligingsapparatuur die de bijvulling of aftapping uitgevoerd heeft;<br>
+6) als dat van toepassing is : de naam en het erkenningsnummer van het bedrijf voor brandbeveiligingsapparatuur waar de technicus werkt;<br>
+c) als lekkagecontroles als vermeld in artikel 4 van verordening nr. 517/2014 of artikel 23 van verordening nr. 1005/2009 uitgevoerd worden :<br>
+1) de datum van de lekkagecontrole;<br>
+2) een beschrijving en de resultaten van de uitgevoerde controles;<br>
+3) de voor- en achternaam en het erkenningsnummer van de technicus voor brandbeveiligingsapparatuur die de lekkagecontrole uitgevoerd heeft;<br>
+d) de nominale inhoud van de brandbeveiligingsapparatuur, uitgedrukt in metrische eenheid, en, in geval van gefluoreerde broeikasgassen, eveneens in ton CO2-equivalent, als die niet gekend is;<br>
+e) bij een buitendienststelling :<br>
+1) de datum van de buitendienststelling;<br>
+2) de maatregelen die genomen zijn om de gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen terug te winnen en te verwijderen;<br>
+3) de voor- en achternaam en het erkenningsnummer van de technicus voor brandbeveiligingsapparatuur die de installatie buiten dienst gesteld heeft;<br>
+4) de naam en het erkenningsnummer van het bedrijf voor brandbeveiligingsapparatuur waar de technicus werkt;<br>
+2° toont op verzoek het materiaal dat hij gebruikt bij de uitvoering van de werkzaamheden met betrekking tot de erkenning;<br>
+3° doet al het mogelijke om lekkage van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen te voorkomen of tot een minimum te beperken;<br>
+4° doet al het nodige voor de recycling, regeneratie of vernietiging van gefluoreerde broeikasgassen als een cilinder met dat broeikasgas verwijderd moet worden;<br>
+5° beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven.
+
+### ART 40/3.
+
+De erkende technicus, vermeld in artikel 6, 2°, g) tot en met i) :<br>
+1° toont op verzoek het materiaal dat hij gebruikt bij de uitvoering van de werkzaamheden met betrekking tot de erkenning;<br>
+2° doet al het mogelijke om lekkage van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen te voorkomen of tot een minimum te beperken;<br>
+3° doet al het nodige voor de recycling, regeneratie of vernietiging van gefluoreerde broeikasgassen als een cilinder met dat broeikasgas verwijderd moet worden;<br>
+4° beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven.
 
 ## Onderafdeling 3 Gebruikseisen voor milieucoördinatoren
 
 ### ART. 41.
 
-§ 1. De erkende milieucoördinator, vermeld in artikel 6, 3°, a), schoolt zich permanent bij inzake milieuwetenschappen, inclusief milieutechnologie en recht, alsook inzake de taken, vermeld in het decreet Milieubeleid door cursussen, seminaries, studiedagen, en dergelijke te volgen. Seminaries, studiedagen en dergelijke komen alleen in aanmerking als de inhoud van de bijscholing betrekking heeft op de leefmilieuproblematiek in het algemeen.<br /><br />De bijscholing van de milieucoördinator bedraagt ten minste dertig uur per kalenderjaar.<br /><br />§ 2. De milieucoördinator is evenwel vrijgesteld van het volgen van de bijscholing in een bepaald kalenderjaar voor het aantal uren dat hij in datzelfde kalenderjaar de aanvullende vorming volgt, als vermeld in bijlage 2, die bij dit besluit is gevoegd.<br /><br />
+§ 1. De erkende milieucoördinator, vermeld in artikel 6, 3°, a), schoolt zich permanent bij inzake milieuwetenschappen, inclusief milieutechnologie en recht, alsook inzake de taken, vermeld in het decreet Milieubeleid door cursussen, seminaries, studiedagen, en dergelijke te volgen. Seminaries, studiedagen en dergelijke komen alleen in aanmerking als de inhoud van de bijscholing betrekking heeft op de leefmilieuproblematiek in het algemeen.<br>
+<br>
+De bijscholing van de milieucoördinator bedraagt ten minste dertig uur per kalenderjaar.<br>
+<br>
+§ 2. De milieucoördinator is evenwel vrijgesteld van het volgen van de bijscholing in een bepaald kalenderjaar voor het aantal uren dat hij in datzelfde kalenderjaar de aanvullende vorming volgt, als vermeld in bijlage 2, die bij dit besluit is gevoegd.<br>
+<br>
+§ 3. De erkende milieucoördinator mag zijn erkenning niet gebruiken als :<br>
+1° hij, in rechte of in feite, bestuursmandaten opneemt of bestuursfuncties uitoefent bij de opdrachtgever;<br>
+2° de opdrachtgever, zelf of met een tussenpersoon, in rechte of in feite bestuursmandaten opneemt of bestuursfuncties uitoefent bij de erkende persoon;<br>
+3° hij bloed- of aanverwant in de rechte lijn tot en met de derde graad en in de zijlijn tot en met de vierde graad is met de opdrachtgever;<br>
+4° er financiële banden zijn tussen hem en de opdrachtgever;<br>
+5° hij rechtstreeks of onrechtstreeks, geheel of gedeeltelijk, gecontroleerd of beheerd wordt door de opdrachtgever.<br>
+&nbsp;
 
 ## Onderafdeling 4 Gebruikseisen voor opleidingscentra
 
 ### ART. 42.
 
-Het erkende opleidingscentrum voor het verstrekken van de aanvullende   vorming voor milieucoördinatoren, vermeld in artikel 6, 4°, a) :<BR>1° beschikt   over de nodige infrastructuur (leslokalen, didactisch materiaal, bibliotheek) om   de cursist in staat te stellen de nodige kennis en bekwaamheid te verwerven voor   het vervullen van de taken van de milieucoördinator;<BR>2° aanvaardt alleen   cursisten die voldoen aan de volgende toelatingsvoorwaarden :<BR>a) voor de   aanvullende vorming van het eerste niveau : de graad van bachelor of een daarmee   gelijkgeschakelde graad bezitten;<BR>b) voor de aanvullende vorming van het   tweede niveau : het diploma van secundair onderwijs of gelijkwaardige   getuigschriften of certificaten bezitten;<BR>c) voor de overgangscursussen van   het tweede niveau naar het eerste niveau : het getuigschrift van aanvullende   vorming voor milieucoördinatoren van het tweede niveau;<BR>3° kan op basis van   de opleiding die ze tot dan toe al hebben genoten, de cursisten vrijstelling   verlenen van het volgen van bepaalde onderdelen van de aanvullende vorming. De   vrijstelling geldt niet voor het maken van een eindwerk;<BR>4° brengt de   afdeling, bevoegd voor milieuvergunningen, minstens één maand vooraf op de   hoogte van de datum van de examens en van de bespreking van de eindwerken. Een   lijst met de vermelding van de titels van de eindwerken wordt gelijktijdig met   de lijst van voormelde data aan de afdeling, bevoegd voor milieuvergunningen,   bezorgd. De afdeling, bevoegd voor milieuvergunningen, kan zetelen in de examen-   of eindwerkjury;&nbsp;<BR>5° stelt ten minste tweemaal per jaar een verslag op   over de inhoudelijke werking van de opvolgingscommissie die waakt over de   organisatie en de programma-inhoud van de cursussen. Dit verslag omvat minimaal   een beschrijving van de vergadering en activiteiten, en wordt aan de afdeling,   bevoegd voor milieuvergunningen, bezorgd;&nbsp;<BR> 6° nodigt de afdeling,   bevoegd voor milieuvergunningen, uit op elke vergadering van de   opvolgingscommissie. Het afdelingshoofd van de afdeling, bevoegd voor   milieuvergunningen, of zijn afgevaardigde maken van rechtswege deel uit van de   opvolgingscommissie;<BR>7° moet, als daarom wordt verzocht door de afdeling,   bevoegd voor milieuvergunningen, ambtenaren de mogelijkheid bieden om de   opleidingen en examens bij te wonen.
+Het erkende opleidingscentrum voor het verstrekken van de aanvullende vorming voor milieucoördinatoren, vermeld in artikel 6, 4°, a) :<br>
+1° beschikt over de nodige infrastructuur (leslokalen, didactisch materiaal, bibliotheek) om de cursist in staat te stellen de nodige kennis en bekwaamheid te verwerven voor het vervullen van de taken van de milieucoördinator;<br>
+2° aanvaardt alleen cursisten die voldoen aan de volgende toelatingsvoorwaarden :<br>
+a) voor de aanvullende vorming van het eerste niveau : de graad van bachelor of een daarmee gelijkgeschakelde graad bezitten;<br>
+b) voor de aanvullende vorming van het tweede niveau : het diploma van secundair onderwijs of gelijkwaardige getuigschriften of certificaten bezitten;<br>
+c) voor de overgangscursussen van het tweede niveau naar het eerste niveau : het getuigschrift van aanvullende vorming voor milieucoördinatoren van het tweede niveau bezitten;<br>
+3° kan op basis van de opleiding die ze tot dan toe al hebben genoten, de cursisten vrijstelling verlenen van het volgen van bepaalde onderdelen van de aanvullende vorming. De vrijstelling geldt niet voor het maken van een eindwerk;<br>
+4° brengt de afdeling, bevoegd voor milieuvergunningen, minstens één maand vooraf op de hoogte van de datum van de examens en van de bespreking van de eindwerken. Een lijst met de vermelding van de titels van de eindwerken wordt gelijktijdig met de lijst van voormelde data aan de afdeling, bevoegd voor milieuvergunningen, bezorgd. De afdeling, bevoegd voor milieuvergunningen, kan zetelen in de examen- of eindwerkjury;&nbsp;<br>
+5° stelt ten minste tweemaal per jaar een verslag op over de inhoudelijke werking van de opvolgingscommissie die waakt over de organisatie en de programma-inhoud van de cursussen. Dit verslag omvat minimaal een beschrijving van de vergadering en activiteiten, en wordt aan de afdeling, bevoegd voor milieuvergunningen, bezorgd;&nbsp;<br>
+6° nodigt de afdeling, bevoegd voor milieuvergunningen, uit op elke vergadering van de opvolgingscommissie. Het afdelingshoofd van de afdeling, bevoegd voor milieuvergunningen, of zijn afgevaardigde maken van rechtswege deel uit van de opvolgingscommissie;<br>
+7° moet, als daarom wordt verzocht door de afdeling, bevoegd voor milieuvergunningen,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen en examens bij te wonen.
 
 ### ART. 43.
 
-<P>§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van   bekwaamheid en bijscholing inzake vloeibare brandstof, vermeld in artikel 6, 4°,   b), organiseert de opleiding met het bijhorende examen inzake vloeibare   brandstof, waarvan de inhoud en de minimale duur van de opleiding worden   vastgelegd in bijlage 1, hoofdstuk 3, afdeling 1, onderafdeling 1 en 2, die bij   dit besluit is gevoegd, en organiseert, in voorkomend geval, de bijscholing met   het bijhorende examen inzake vloeibare brandstof, waarvan de inhoud van de   bijscholing en de minimale duur van de bijscholing en het bijhorende examen   worden vastgelegd in bijlage 1, hoofdstuk 3, afdeling 1, onderafdeling 3, die   bij dit besluit is gevoegd.<BR><BR>Het bijhorende examen bestaat uit vijf   onderdelen :<BR>1° een schriftelijk theoretisch deel;<BR>2° een praktische   proef;<BR>3° een mondeling theoretisch deel;<BR>4° een onderdeel over de kennis   van de Vlaamse wetgeving en de daarin opgenomen terminologie;<BR>5° een proef   over de verwarmingsaudit.<BR><BR>De proef over de verwarmingsaudit bestaat uit   het beoordelen van het rendement en de correcte dimensionering van centrale   verwarmingsketels met het rekeninstrument, vermeld in artikel 14 van het besluit   inzake het onderhoud en nazicht van centrale stooktoestellen.<BR><BR>Een persoon   is geslaagd voor het examen als hij voldoet aan de volgende voorwaarden :<BR>1°   voor het schriftelijke theoretische deel, de praktische proef, het mondelinge   theoretische deel en het onderdeel over de kennis van de Vlaamse wetgeving en de   daarin opgenomen terminologie telkens minstens vijftig procent van de punten   behalen en voor die vier onderdelen in totaal minstens zestig procent van de   punten behalen;<BR>2° voor de proef over de verwarmingsaudit minstens zestig   procent van de punten behalen.<BR><BR>§ 2. Het erkende opleidingscentrum,   vermeld in paragraaf 1, reikt een certificaat van bekwaamheid of, in voorkomend   geval, van bijscholing inzake vloeibare brandstof uit nadat een persoon de   opleiding of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is   voor het bijhorende examen, vermeld in paragraaf 1.<BR><BR>Het certificaat bevat   minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd.   Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies   van de afdeling, bevoegd voor erkenningen. Het model van het certificaat wordt   ter goedkeuring voorgelegd aan de afdeling, bevoegd voor erkenningen. Een kopie   van het uitgereikte certificaat wordt bezorgd aan de afdeling, bevoegd voor   erkenningen.<BR><BR>§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1,   bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de   afdeling, bevoegd voor erkenningen. Dat verslag wordt ondertekend door de   aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15,   die bij dit besluit is gevoegd.<BR><BR>§ 4. Het erkende opleidingscentrum,   vermeld in paragraaf 1, bezorgt binnen een maand nadat door de geslaagde   kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel   14, 3°, of artikel 34, § 9, voorgelegd is, een kopie van dat bewijsaan de   afdeling, bevoegd voor erkenningen.<BR><BR>§ 5. Het erkende opleidingscentrum,   vermeld in paragraaf 1, beschikt over de infrastructuur en het materiaal,   vermeld in bijlage 1, hoofdstuk 1, afdeling 1, die bij dit besluit is gevoegd,   om de opleiding, theoretische en praktische oefeningen, examens en, in   voorkomend geval, de bijscholing te organiseren. De infrastructuur biedt elke   leerling de mogelijkheid om zelf proefnemingen uit te voeren.<BR><BR>§ 6. Het   erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de   resultaten van de examens van de voorbije vijf jaar.<BR><BR>§ 7. Het erkende   opleidingscentrum, vermeld in paragraaf 1, brengt de afdeling, bevoegd voor   erkenningen, minstens een maand voor een opleiding of, in voorkomend geval, de   bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de   geplande opleiding of, in voorkomend geval, van de bijscholing en het bijhorende   examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de   afdeling, bevoegd voor erkenningen, ambtenaren de mogelijkheid bieden om de   opleidingen, bijscholingen en examens bij te wonen. De afdeling, bevoegd voor   erkenningen, kan zetelen in de examenjury.<BR><BR>§ 8. Het erkende   opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten,   ingediend door de afdeling, bevoegd voor erkenningen.</P>
+<p>§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake vloeibare brandstof, vermeld in artikel 6, 4°, b), organiseert de opleiding met het bijhorende examen inzake vloeibare brandstof, waarvan de inhoud en de minimale duur van de opleiding worden vastgelegd in bijlage 1, hoofdstuk 3, afdeling 1, onderafdeling 1 en 2, die bij dit besluit is gevoegd, en organiseert, in voorkomend geval, de bijscholing met het bijhorende examen inzake vloeibare brandstof, waarvan de inhoud van de bijscholing en de minimale duur van de bijscholing en het bijhorende examen worden vastgelegd in bijlage 1, hoofdstuk 3, afdeling 1, onderafdeling 3, die bij dit besluit is gevoegd.<br>
+<br>
+Het bijhorende examen bestaat uit vijf onderdelen :<br>
+1° een schriftelijk theoretisch deel;<br>
+2° een praktische proef;<br>
+3° een mondeling theoretisch deel;<br>
+4° een onderdeel over de kennis van de Vlaamse wetgeving en de daarin opgenomen terminologie;<br>
+5° een proef over de verwarmingsaudit.<br>
+<br>
+De proef over de verwarmingsaudit bestaat uit het beoordelen van het rendement en de correcte dimensionering van centrale verwarmingsketels met het rekeninstrument, vermeld in artikel 14 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen.<br>
+<br>
+Een persoon is geslaagd voor het examen als hij voldoet aan de volgende voorwaarden :<br>
+1° voor het schriftelijke theoretische deel, de praktische proef, het mondelinge theoretische deel en het onderdeel over de kennis van de Vlaamse wetgeving en de daarin opgenomen terminologie telkens minstens vijftig procent van de punten behalen en voor die vier onderdelen in totaal minstens zestig procent van de punten behalen;<br>
+2° voor de proef over de verwarmingsaudit minstens zestig procent van de punten behalen.<br>
+<br>
+§ 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of, in voorkomend geval, van bijscholing inzake vloeibare brandstof uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
+<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de afdeling, bevoegd voor erkenningen. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de afdeling, bevoegd voor erkenningen. Een kopie van het uitgereikte certificaat wordt bezorgd aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de afdeling, bevoegd voor erkenningen. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat door de geslaagde kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel 14, 3°, of artikel 34, § 9, voorgelegd is, een kopie van dat bewijsaan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de infrastructuur en het materiaal, vermeld in bijlage 1, hoofdstuk 1, afdeling 1, die bij dit besluit is gevoegd, om de opleiding, theoretische en praktische oefeningen, examens en, in voorkomend geval, de bijscholing te organiseren. De infrastructuur biedt elke leerling de mogelijkheid om zelf proefnemingen uit te voeren.<br>
+<br>
+§ 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
+<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt de afdeling, bevoegd voor erkenningen, minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, van de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de afdeling, bevoegd voor erkenningen,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen. De afdeling, bevoegd voor erkenningen, kan zetelen in de examenjury.<br>
+<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de afdeling, bevoegd voor erkenningen.</p>
 
 ### ART. 43/1.
 
-<P>§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van   bekwaamheid en bijscholing inzake gasvormige brandstof, vermeld in artikel 6,   4°, c), organiseert de opleiding met het bijhorende examen inzake gasvormige   brandstof, waarvan de inhoud en de minimale duur van de opleiding worden   vastgelegd in bijlage 1, hoofdstuk 3, afdeling 2, onderafdeling 1 tot en met 5,   die bij dit besluit is gevoegd, en organiseert, in voorkomend geval, de   bijscholing met het bijhorende examen inzake gasvormige brandstof waarvan de   inhoud en de minimale duur van de bijscholing worden vastgelegd in bijlage 1,   hoofdstuk 3, afdeling 2, onderafdeling 6, die bij dit besluit is   gevoegd.<BR><BR>De opleiding en bijscholing gasvormige brandstof bestaan telkens uit   twee modules: een basismodule GI over algemeenheden met betrekking tot het   verwarmen met gasvormige brandstof en over gasketels met niet-premix brander en   met premix brander, en een uitbreidingsmodule GII over gasketels met   ventilatorbrander. Na elke module volgt een examen.<BR><BR>Het bijhorende   examen van de module GI bestaat uit vijf onderdelen :<BR>1° een schriftelijk   theoretisch deel;<BR>2° een praktische proef;<BR>3° een mondeling theoretisch   deel;<BR>4° een onderdeel over de kennis van de Vlaamse wetgeving en de daarin   opgenomen terminologie;<BR>5° een proef over de verwarmingsaudit.<BR><BR>De   proef over de verwarmingsaudit bestaat uit het beoordelen van het rendement en   de correcte dimensionering van centrale verwarmingsketels met het   rekeninstrument, vermeld in artikel 14 van het besluit inzake het onderhoud en   nazicht van centrale stooktoestellen.<BR><BR>Een persoon is geslaagd voor het   examen module GI als hij voldoet aan de volgende voorwaarden :<BR>1° voor het   schriftelijke theoretische deel, de praktische proef, het mondelinge   theoretische deel en het onderdeel over de kennis van de Vlaamse wetgeving en de   daarin opgenomen terminologie telkens minstens vijftig procent van de punten   behalen en voor die vier onderdelen in totaal minstens zestig procent van de   punten behalen;<BR>2° voor de proef over de verwarmingsaudit minstens zestig   procent van de punten behalen.<BR><BR>Het bijhorende examen van de module GII   bestaat uit drie onderdelen :<BR>1° een schriftelijk theoretisch deel;<BR>2° een   praktische proef;<BR>3° een mondeling theoretisch deel.<BR><BR>Een persoon is   geslaagd voor het examen module GII als hij voor ieder onderdeel minstens   vijftig procent van de punten behaalt en in totaal minstens zestig procent van   de punten behaalt.<BR><BR>§2.   Het erkende opleidingscentrum, vermeld in paragraaf 1, past de volgende   voorwaarde voor toelating tot het bijhorende examen van de betreffende module   toe : aan het examen met betrekking tot de uitbreidingsmodule GII over gasketels   met ventilatorbrander kan alleen deelgenomen worden door een technicus met een   certificaat van bekwaamheid inzake gasvormige brandstof niveau GI, die geslaagd   is voor een voorafgaande test over elektriciteit.<BR><BR>§ 3. Het erkende   opleidingscentrum, vermeld in paragraaf 1, reikt een certificaat van bekwaamheid   of, in voorkomend geval, van bijscholing inzake gasvormige brandstof uit nadat   een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft   en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<BR><BR>Het   certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit   besluit is gevoegd. Voor de opmaak van het certificaat volgt het   opleidingscentrum de instructies van de afdeling, bevoegd voor erkenningen. Het   model van het certificaat wordt ter goedkeuring voorgelegd aan de afdeling,   bevoegd voor erkenningen. Een kopie van het uitgereikte certificaat wordt   bezorgd aan de afdeling, bevoegd voor erkenningen.<BR><BR>§ 4. Het erkende   opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk   examen een verslag van de examenzitting aan de afdeling, bevoegd voor   erkenningen. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en   bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is   gevoegd.<BR><BR>§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1,   bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van de   betaling van de retributie, vermeld in artikel 15, 3°, of artikel 34, § 9,   voorgelegd heeft, een kopie van dat bewijs aan de afdeling, bevoegd voor   erkenningen.<BR><BR>§ 6. Het erkende opleidingscentrum, vermeld in paragraaf 1,   beschikt over de infrastructuur en het materiaal, vermeld in bijlage 1,   hoofdstuk 1, afdeling 2, die bij dit besluit is gevoegd, om de opleiding,   theoretische en praktische oefeningen, examens en, in voorkomend geval, de   bijscholing te organiseren. De infrastructuur biedt elke leerling de   mogelijkheid om zelf proefnemingen uit te voeren.<BR><BR>§ 7. Het erkende   opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de   resultaten van de examens van de voorbije vijf jaar.<BR><BR>§ 8. Het erkende   opleidingscentrum, vermeld in paragraaf 1, brengt de afdeling, bevoegd voor   erkenningen, minstens een maand voor een opleiding of, in voorkomend geval, de   bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de   geplande opleiding of, in voorkomend geval, van de bijscholing en het bijhorende   examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de   afdeling, bevoegd voor erkenningen, ambtenaren de mogelijkheid bieden om de   opleidingen, bijscholingen en examens bij te wonen. De afdeling, bevoegd voor   erkenningen, kan zetelen in de examenjury.<BR><BR>§ 9. Het erkende   opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten,   ingediend door de afdeling, bevoegd voor erkenningen.</P>
+<p>§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake gasvormige brandstof, vermeld in artikel 6, 4°, c), organiseert de opleiding met het bijhorende examen inzake gasvormige brandstof, waarvan de inhoud en de minimale duur van de opleiding worden vastgelegd in bijlage 1, hoofdstuk 3, afdeling 2, onderafdeling 1 tot en met 5, die bij dit besluit is gevoegd, en organiseert, in voorkomend geval, de bijscholing met het bijhorende examen inzake gasvormige brandstof waarvan de inhoud en de minimale duur van de bijscholing worden vastgelegd in bijlage 1, hoofdstuk 3, afdeling 2, onderafdeling 6, die bij dit besluit is gevoegd.<br>
+<br>
+De opleiding en bijscholing gasvormige brandstof bestaan telkens uit twee modules: een basismodule GI over algemeenheden met betrekking tot het verwarmen met gasvormige brandstof en over gasketels met niet-premix brander en met premix brander, en een uitbreidingsmodule GII over gasketels met ventilatorbrander. Na elke module volgt een examen.<br>
+<br>
+Het bijhorende examen van de module GI bestaat uit vijf onderdelen :<br>
+1° een schriftelijk theoretisch deel;<br>
+2° een praktische proef;<br>
+3° een mondeling theoretisch deel;<br>
+4° een onderdeel over de kennis van de Vlaamse wetgeving en de daarin opgenomen terminologie;<br>
+5° een proef over de verwarmingsaudit.<br>
+<br>
+De proef over de verwarmingsaudit bestaat uit het beoordelen van het rendement en de correcte dimensionering van centrale verwarmingsketels met het rekeninstrument, vermeld in artikel 14 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen.<br>
+<br>
+Een persoon is geslaagd voor het examen module GI als hij voldoet aan de volgende voorwaarden :<br>
+1° voor het schriftelijke theoretische deel, de praktische proef, het mondelinge theoretische deel en het onderdeel over de kennis van de Vlaamse wetgeving en de daarin opgenomen terminologie telkens minstens vijftig procent van de punten behalen en voor die vier onderdelen in totaal minstens zestig procent van de punten behalen;<br>
+2° voor de proef over de verwarmingsaudit minstens zestig procent van de punten behalen.<br>
+<br>
+Het bijhorende examen van de module GII bestaat uit drie onderdelen :<br>
+1° een schriftelijk theoretisch deel;<br>
+2° een praktische proef;<br>
+3° een mondeling theoretisch deel.<br>
+<br>
+Een persoon is geslaagd voor het examen module GII als hij voor ieder onderdeel minstens vijftig procent van de punten behaalt en in totaal minstens zestig procent van de punten behaalt.<br>
+<br>
+§2. Het erkende opleidingscentrum, vermeld in paragraaf 1, past de volgende voorwaarde voor toelating tot het bijhorende examen van de betreffende module toe : aan het examen met betrekking tot de uitbreidingsmodule GII over gasketels met ventilatorbrander kan alleen deelgenomen worden door een technicus met een certificaat van bekwaamheid inzake gasvormige brandstof niveau GI, die geslaagd is voor een voorafgaande test over elektriciteit.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen&nbsp;een certificaat van bekwaamheid of, in voorkomend geval, van bijscholing inzake gasvormige brandstof uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
+<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de afdeling, bevoegd voor erkenningen. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de afdeling, bevoegd voor erkenningen. Een kopie van het uitgereikte certificaat wordt bezorgd aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de afdeling, bevoegd voor erkenningen. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+<br>
+§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van de betaling van de retributie, vermeld in artikel 15, 3°, of artikel 34, § 9, voorgelegd heeft, een kopie van dat bewijs aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de infrastructuur en het materiaal, vermeld in bijlage 1, hoofdstuk 1, afdeling 2, die bij dit besluit is gevoegd, om de opleiding, theoretische en praktische oefeningen, examens en, in voorkomend geval, de bijscholing te organiseren. De infrastructuur biedt elke leerling de mogelijkheid om zelf proefnemingen uit te voeren.<br>
+<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
+<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt de afdeling, bevoegd voor erkenningen, minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, van de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de afdeling, bevoegd voor erkenningen,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen. De afdeling, bevoegd voor erkenningen, kan zetelen in de examenjury.<br>
+<br>
+§ 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de afdeling, bevoegd voor erkenningen.</p>
 
 ### ART. 43/2.
 
-§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat   van bekwaamheid en bijscholing inzake verwarmingsaudit, vermeld in artikel 6,   4°, d), organiseert de opleiding met het bijhorende examen inzake de   verwarmingsaudit, waarvan de inhoud en de minimale duur van de opleiding worden   vastgelegd in bijlage 1, hoofdstuk 3, afdeling 4, onderafdeling 1, die bij dit   besluit is gevoegd, en organiseert, in voorkomend geval, de bijscholing met het   bijhorende examen inzake de verwarmingsaudit. De minister kan de inhoud en de   minimale duur van de bijscholing vastleggen.<BR><BR>Het bijhorende examen   bestaat uit twee onderdelen :<BR>1° een schriftelijk deel;<BR>2° een praktische   proef.<BR><BR>De proef over de verwarmingsaudit bestaat uit het beoordelen van   het rendement en de correcte dimensionering van centrale verwarmingsketels met   software die geschikt is voor toestellen op vloeibare en gasvormige   brandstof.<BR><BR>Een persoon is geslaagd voor het examen als hij in totaal   minstens zestig procent van de punten behaalt.<BR><BR>§ 2. Het erkende   opleidingscentrum, vermeld in paragraaf 1, reikt een certificaat van bekwaamheid   of, in voorkomend geval, van bijscholing inzake de verwarmingsaudit uit nadat   een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft   en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<BR><BR>Het   certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit   besluit is gevoegd. Voor de opmaak van het certificaat volgt het   opleidingscentrum de instructies van de afdeling, bevoegd voor erkenningen. Het   model van het certificaat wordt ter goedkeuring voorgelegd aan de afdeling,   bevoegd voor erkenningen. Een kopie van het uitgereikte certificaat wordt   bezorgd aan de afdeling, bevoegd voor erkenningen.<BR><BR>§ 3. Het erkende   opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk   examen een verslag van de examenzitting aan de afdeling, bevoegd voor   erkenningen. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en   bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is   gevoegd.<BR><BR>§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1,   bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van de   betaling van de retributie, vermeld in artikel 16, 4°, of artikel 34, § 9,   voorgelegd heeft, een kopie van dat bewijs aan de afdeling, bevoegd voor   erkenningen.<BR><BR>§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1,   beschikt over de infrastructuur en het materiaal, vermeld in bijlage 1,   hoofdstuk 1, afdeling 3, die bij dit besluit is gevoegd, om de opleiding,   theoretische en praktische oefeningen, examens en, in voorkomend geval, de   bijscholing te organiseren. De infrastructuur biedt elke leerling de   mogelijkheid om zelf proefnemingen uit te voeren.<BR><BR>§ 6. Het erkende   opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de   resultaten van de examens van de voorbije vijf jaar.<BR><BR>§ 7. Het erkende   opleidingscentrum, vermeld in paragraaf 1, brengt de afdeling, bevoegd voor   erkenningen, minstens een maand voor een opleiding of, in voorkomend geval, de   bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de   geplande opleiding of, in voorkomend geval, de bijscholing en het bijhorende   examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de   afdeling, bevoegd voor erkenningen, ambtenaren de mogelijkheid bieden om de   opleidingen, bijscholingen en examens bij te wonen. De afdeling, bevoegd voor   erkenningen, kan zetelen in de examenjury.<BR><BR>§ 8. Het erkende   opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten,   ingediend door de afdeling, bevoegd voor erkenningen.
+§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake verwarmingsaudit, vermeld in artikel 6, 4°, d), organiseert de opleiding met het bijhorende examen inzake de verwarmingsaudit, waarvan de inhoud en de minimale duur van de opleiding worden vastgelegd in bijlage 1, hoofdstuk 3, afdeling 4, onderafdeling 1, die bij dit besluit is gevoegd, en organiseert, in voorkomend geval, de bijscholing met het bijhorende examen inzake de verwarmingsaudit. De minister kan de inhoud en de minimale duur van de bijscholing vastleggen.<br>
+<br>
+Het bijhorende examen bestaat uit twee onderdelen :<br>
+1° een schriftelijk deel;<br>
+2° een praktische proef.<br>
+<br>
+De proef over de verwarmingsaudit bestaat uit het beoordelen van het rendement en de correcte dimensionering van centrale verwarmingsketels met software die geschikt is voor toestellen op vloeibare en gasvormige brandstof.<br>
+<br>
+Een persoon is geslaagd voor het examen als hij in totaal minstens zestig procent van de punten behaalt.<br>
+<br>
+§ 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of, in voorkomend geval, van bijscholing inzake de verwarmingsaudit uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
+<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de afdeling, bevoegd voor erkenningen. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de afdeling, bevoegd voor erkenningen. Een kopie van het uitgereikte certificaat wordt bezorgd aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de afdeling, bevoegd voor erkenningen. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van de betaling van de retributie, vermeld in artikel 16, 4°, of artikel 34, § 9, voorgelegd heeft, een kopie van dat bewijs aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de infrastructuur en het materiaal, vermeld in bijlage 1, hoofdstuk 1, afdeling 3, die bij dit besluit is gevoegd, om de opleiding, theoretische en praktische oefeningen, examens en, in voorkomend geval, de bijscholing te organiseren. De infrastructuur biedt elke leerling de mogelijkheid om zelf proefnemingen uit te voeren.<br>
+<br>
+§ 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
+<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt de afdeling, bevoegd voor erkenningen, minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de afdeling, bevoegd voor erkenningen,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen. De afdeling, bevoegd voor erkenningen, kan zetelen in de examenjury.<br>
+<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de afdeling, bevoegd voor erkenningen.
 
 ### ART. 43/3.
 
-§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat   van bekwaamheid en bijscholing inzake de controle en het onderhoud van   stookolietanks, vermeld in artikel 6, 4°, e), organiseert de opleiding met het   bijhorende examen inzake de controle en het onderhoud van stookolietanks,   waarvan de inhoud en de minimale duur van de opleiding worden vastgelegd in   bijlage 1, hoofdstuk 3, afdeling 5, onderafdeling 1 en 2, die bij dit besluit is   gevoegd, en organiseert, in voorkomend geval, de bijscholing met het bijhorende   examen inzake de controle en het onderhoud van stookolietanks, waarvan de inhoud   en de minimale duur van de bijscholing worden vastgelegd in bijlage 1, hoofdstuk   3, afdeling 5, onderafdeling 3, die bij dit besluit is gevoegd.<BR><BR>Het   bijhorende examen bestaat uit vier onderdelen :<BR>1° een schriftelijk   theoretisch deel;<BR>2° een praktische proef;<BR>3° een mondeling theoretisch   deel;<BR>4° een onderdeel over de kennis van de Vlaamse wetgeving en de daarin   opgenomen terminologie.<BR><BR>De praktische proef wordt afgesloten met het   invullen van het bijhorende certificaat van de gecontroleerde   opslaghouder.<BR><BR>Een persoon is geslaagd voor het examen als hij voor ieder   onderdeel minstens vijftig procent van de punten behaalt en in totaal minstens   zestig procent van de punten behaalt.<BR><BR>§ 2. Het erkende opleidingscentrum,   vermeld in paragraaf 1, reikt een certificaat van bekwaamheid of, in voorkomend   geval, van bijscholing inzake de controle en het onderhoud van stookolietanks   uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing   gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf   1.<BR><BR>Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die   bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het   opleidingscentrum de instructies van de afdeling, bevoegd voor erkenningen. Het   model van het certificaat wordt ter goedkeuring voorgelegd aan de afdeling,   bevoegd voor erkenningen. Een kopie van het uitgereikte certificaat wordt   bezorgd aan de afdeling, bevoegd voor erkenningen.<BR><BR>§ 3. Het erkende   opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk   examen een verslag van de examenzitting aan de afdeling, bevoegd voor   erkenningen. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en   bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is   gevoegd.<BR><BR>§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1,   bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van de   betaling van de retributie, vermeld in artikel 17, 3°, of artikel 34, § 9,   voorgelegd heeft, een kopie van dat bewijs aan de afdeling, bevoegd voor   erkenningen.<BR><BR>§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1,   beschikt over de infrastructuur en het materiaal, vermeld in bijlage 1,   hoofdstuk 1, afdeling 4, die bij dit besluit is gevoegd, om de opleiding,   theoretische en praktische oefeningen, examens en, in voorkomend geval, de   bijscholing te organiseren. De infrastructuur biedt elke leerling de   mogelijkheid om zelf proefnemingen uit te voeren.<BR><BR>§ 6. Het erkende   opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de   resultaten van de examens van de voorbije vijf jaar.<BR><BR>§ 7. Het erkende   opleidingscentrum, vermeld in paragraaf 1, brengt de afdeling, bevoegd voor   erkenningen, minstens een maand voor een opleiding of, in voorkomend geval, de   bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de   geplande opleiding of, in voorkomend geval, van de bijscholing en het bijhorende   examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de   afdeling, bevoegd voor erkenningen, ambtenaren de mogelijkheid bieden om de   opleidingen, bijscholingen en examens bij te wonen. De afdeling, bevoegd voor   erkenningen, kan zetelen in de examenjury.<BR><BR>§ 8. Het erkende   opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten,   ingediend door de afdeling, bevoegd voor erkenningen.
+§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de controle en het onderhoud van stookolietanks, vermeld in artikel 6, 4°, e), organiseert de opleiding met het bijhorende examen inzake de controle en het onderhoud van stookolietanks, waarvan de inhoud en de minimale duur van de opleiding worden vastgelegd in bijlage 1, hoofdstuk 3, afdeling 5, onderafdeling 1 en 2, die bij dit besluit is gevoegd, en organiseert, in voorkomend geval, de bijscholing met het bijhorende examen inzake de controle en het onderhoud van stookolietanks, waarvan de inhoud en de minimale duur van de bijscholing worden vastgelegd in bijlage 1, hoofdstuk 3, afdeling 5, onderafdeling 3, die bij dit besluit is gevoegd.<br>
+<br>
+Het bijhorende examen bestaat uit vier onderdelen :<br>
+1° een schriftelijk theoretisch deel;<br>
+2° een praktische proef;<br>
+3° een mondeling theoretisch deel;<br>
+4° een onderdeel over de kennis van de Vlaamse wetgeving en de daarin opgenomen terminologie.<br>
+<br>
+De praktische proef wordt afgesloten met het invullen van het bijhorende certificaat van de gecontroleerde opslaghouder.<br>
+<br>
+Een persoon is geslaagd voor het examen als hij voor ieder onderdeel minstens vijftig procent van de punten behaalt en in totaal minstens zestig procent van de punten behaalt.<br>
+<br>
+§ 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of, in voorkomend geval, van bijscholing inzake de controle en het onderhoud van stookolietanks uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
+<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de afdeling, bevoegd voor erkenningen. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de afdeling, bevoegd voor erkenningen. Een kopie van het uitgereikte certificaat wordt bezorgd aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de afdeling, bevoegd voor erkenningen. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van de betaling van de retributie, vermeld in artikel 17, 3°, of artikel 34, § 9, voorgelegd heeft, een kopie van dat bewijs aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de infrastructuur en het materiaal, vermeld in bijlage 1, hoofdstuk 1, afdeling 4, die bij dit besluit is gevoegd, om de opleiding, theoretische en praktische oefeningen, examens en, in voorkomend geval, de bijscholing te organiseren. De infrastructuur biedt elke leerling de mogelijkheid om zelf proefnemingen uit te voeren.<br>
+<br>
+§ 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
+<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt de afdeling, bevoegd voor erkenningen, minstens een maand voor een opleiding of, in voorkomend geval, de bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of, in voorkomend geval, van de bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de afdeling, bevoegd voor erkenningen,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen. De afdeling, bevoegd voor erkenningen, kan zetelen in de examenjury.<br>
+<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de afdeling, bevoegd voor erkenningen.
 
 ### ART. 43/4.
 
-§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat   van bekwaamheid en bijscholing inzake de keuring van airconditioningsystemen met   een nominaal koelvermogen van meer dan 12 kW, vermeld in artikel 6, 4°, f),   organiseert de opleiding met het bijhorende examen voor de keuring van   airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW waarvan   de inhoud van de opleiding en de minimale duur van de opleiding en het   bijhorende examen worden vastgelegd in bijlage 12, 1°, die bij dit besluit is   gevoegd.<BR><BR>De opleiding bestaat uit drie modules :<BR>1° module 1 :   wetgeving;<BR>2° module 2 : energetische aspecten;<BR>3° module 3 : de correcte   uitvoering van de keuring, vermeld in artikel 5.16.3.3, § 3, 4°, artikel   5bis.15.5.4.5.4, § 6, eerste lid, en artikel 5bis.19.8.4.8.4, § 6, eerste lid,   van titel II van het VLAREM.<BR><BR>Het bijhorende examen bestaat uit twee   onderdelen :<BR>1° een theorieonderdeel over de onderwerpen die in de opleiding   aan bod zijn gekomen;<BR>2° een oefening over de keuring, vermeld in artikel   5.16.3.3, § 3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, en artikel   5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM.<BR><BR>Een   persoon is geslaagd voor het examen als hij voor ieder onderdeel minstens   zeventig procent van de punten behaalt.<BR><BR>§ 2. Het erkende   opleidingscentrum, vermeld in paragraaf 1, organiseert de bijscholing met het   bijhorende examen voor de keuring van airconditioningsystemen met een nominaal   koelvermogen van meer dan 12 kW waarvan de inhoud van de bijscholing en de   minimale duur van de bijscholing en het bijhorende examen worden vastgelegd in   bijlage 12, 2°, die bij dit besluit is gevoegd.<BR><BR>Het bijhorende examen   bestaat uit een oefening met betrekking tot de keuring, vermeld in artikel   5.16.3.3, § 3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, en artikel   5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM.<BR><BR>Een   persoon is geslaagd voor het examen als hij minstens zeventig procent van de   punten behaalt.<BR><BR>§ 3. Het erkende opleidingscentrum, vermeld in paragraaf   1, reikt een certificaat van bekwaamheid of van bijscholing inzake de keuring   van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW uit   nadat een persoon de opleiding of, in voorkomend geval, de bijscholing, gevolgd   heeft en geslaagd is voor het bijhorende examen, vermeld in § 1, respectievelijk   § 2.<BR><BR>Het certificaat bevat minstens de gegevens, vermeld in bijlage 14,   die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het   opleidingscentrum de instructies van de afdeling, bevoegd voor erkenningen. Het   model van het certificaat wordt ter goedkeuring voorgelegd aan de afdeling,   bevoegd voor erkenningen. Een kopie van het uitgereikte certificaat wordt   bezorgd aan de afdeling, bevoegd voor erkenningen.<BR><BR>§ 4. Het erkende   opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk   examen een verslag van de examenzitting aan de afdeling, bevoegd voor   erkenningen. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en   bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is   gevoegd.<BR><BR>§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1,   bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van   betaling van de retributie, vermeld in artikel 13/1, 4°, of artikel 34, § 9,   voorgelegd heeft, een kopie van dat bewijs aan de afdeling, bevoegd voor   erkenningen.<BR><BR>§ 6. Het erkende opleidingscentrum, vermeld in paragraaf 1,   beschikt over de nodige infrastructuur en apparatuur om de opleiding,   bijscholing en examens, vermeld in paragraaf 1 en 2, te organiseren.<BR><BR>§ 7.   Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij   met de resultaten van de examens van de voorbije vijf jaar.<BR><BR>§ 8. Het   erkende opleidingscentrum, vermeld in paragraaf 1, brengt de afdeling, bevoegd   voor erkenningen, minstens een maand voor een opleiding of bijscholing van start   gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of   bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als   daarom wordt verzocht door de afdeling, bevoegd voor erkenningen, ambtenaren de   mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen. De   afdeling, bevoegd voor erkenningen, kan zetelen in de examenjury.<BR><BR>§ 9.   Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt   klachten, ingediend door de afdeling, bevoegd voor erkenningen.
+§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW, vermeld in artikel 6, 4°, f), organiseert de opleiding met het bijhorende examen voor de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW waarvan de inhoud van de opleiding en de minimale duur van de opleiding en het bijhorende examen worden vastgelegd in bijlage 12, 1°, die bij dit besluit is gevoegd.<br>
+<br>
+De opleiding bestaat uit drie modules :<br>
+1° module 1 : wetgeving;<br>
+2° module 2 : energetische aspecten;<br>
+3° module 3 : de correcte uitvoering van de keuring, vermeld in artikel 5.16.3.3, § 3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, en artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM.<br>
+<br>
+Het bijhorende examen bestaat uit twee onderdelen :<br>
+1° een theorieonderdeel over de onderwerpen die in de opleiding aan bod zijn gekomen;<br>
+2° een oefening over de keuring, vermeld in artikel 5.16.3.3, § 3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, en artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM.<br>
+<br>
+Een persoon is geslaagd voor het examen als hij voor ieder onderdeel minstens zeventig procent van de punten behaalt.<br>
+<br>
+§ 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, organiseert de bijscholing met het bijhorende examen voor de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW waarvan de inhoud van de bijscholing en de minimale duur van de bijscholing en het bijhorende examen worden vastgelegd in bijlage 12, 2°, die bij dit besluit is gevoegd.<br>
+<br>
+Het bijhorende examen bestaat uit een oefening met betrekking tot de keuring, vermeld in artikel 5.16.3.3, § 3, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, en artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM.<br>
+<br>
+Een persoon is geslaagd voor het examen als hij minstens zeventig procent van de punten behaalt.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid of van bijscholing inzake de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW uit nadat een persoon de opleiding of, in voorkomend geval, de bijscholing, gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in § 1, respectievelijk § 2.<br>
+<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de afdeling, bevoegd voor erkenningen. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de afdeling, bevoegd voor erkenningen. Een kopie van het uitgereikte certificaat wordt bezorgd aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de afdeling, bevoegd voor erkenningen. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+<br>
+§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel 13/1, 4°, of artikel 34, § 9, voorgelegd heeft, een kopie van dat bewijs aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de nodige infrastructuur en apparatuur om de opleiding, bijscholing en examens, vermeld in paragraaf 1 en 2, te organiseren.<br>
+<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
+<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt de afdeling, bevoegd voor erkenningen, minstens een maand voor een opleiding of bijscholing van start gaat, op de hoogte van de plaats en het tijdstip van de geplande opleiding of bijscholing en het bijhorende examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de afdeling, bevoegd voor erkenningen, personeelsleden de mogelijkheid bieden om de opleidingen, bijscholingen en examens bij te wonen. De afdeling, bevoegd voor erkenningen, kan zetelen in de examenjury.<br>
+<br>
+§ 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de afdeling, bevoegd voor erkenningen.
 
 ### ART. 43/5.
 
-Het erkende opleidingscentrum voor het verstrekken van de aanvullende   vorming voor bodemsaneringsdeskundigen, vermeld in artikel 6, 4°, g) :<BR>1°   beschikt over de nodige infrastructuur om de cursist in staat te stellen de   nodige kennis en bekwaamheid te verwerven voor het vervullen van de taken van de   bodemsaneringsdeskundige;<BR>2° brengt de afdeling, bevoegd voor bodembeheer,   minstens één maand vooraf op de hoogte van de datum van de examens. De afdeling,   bevoegd voor bodembeheer, kan zetelen in de examenjury;<BR>3° moet, als daarom   wordt verzocht door de afdeling, bevoegd voor bodembeheer, ambtenaren de   mogelijkheid bieden om de opleidingen en examens bij te wonen;<BR>4° nodigt de   afdeling, bevoegd voor bodembeheer, uit op elke vergadering van de   opvolgingscommissie. Het afdelingshoofd van de afdeling, bevoegd voor   bodembeheer, of zijn afgevaardigde maakt van rechtswege deel uit van de   opvolgingscommissie. De afdeling, bevoegd voor bodembeheer, wordt ook in het   bezit gesteld van het verslag van de vergadering van de   opvolgingscommissie.
+Het erkende opleidingscentrum voor het verstrekken van de aanvullende vorming voor bodemsaneringsdeskundigen, vermeld in artikel 6, 4°, g) :<br>
+1° beschikt over de nodige infrastructuur om de cursist in staat te stellen de nodige kennis en bekwaamheid te verwerven voor het vervullen van de taken van de bodemsaneringsdeskundige;<br>
+2° brengt de afdeling, bevoegd voor bodembeheer, minstens één maand vooraf op de hoogte van de datum van de examens. De afdeling, bevoegd voor bodembeheer, kan zetelen in de examenjury;<br>
+3° moet, als daarom wordt verzocht door de afdeling, bevoegd voor bodembeheer,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen en examens bij te wonen;<br>
+4° nodigt de afdeling, bevoegd voor bodembeheer, uit op elke vergadering van de opvolgingscommissie. Het afdelingshoofd van de afdeling, bevoegd voor bodembeheer, of zijn afgevaardigde maakt van rechtswege deel uit van de opvolgingscommissie. De afdeling, bevoegd voor bodembeheer, wordt ook in het bezit gesteld van het verslag van de vergadering van de opvolgingscommissie.
+
+### ART 43/6.
+
+&nbsp;§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid in de koeltechniek van categorie I, II, III en IV en van het actualisatie-examen, vermeld in artikel 6, 4°, h), organiseert een opleiding en specifieke examens voor personen die een certificaat van categorie I, II, III of IV willen behalen. De inhoud van het examen voldoet aan de eisen, vermeld in bijlage 1 van verordening nr. 2015/2067.<br>
+<br>
+Het examen bestaat uit vier onderdelen :<br>
+1° een theoretisch onderdeel met betrekking tot koeltechniek;<br>
+2° een theoretisch onderdeel met betrekking tot de kennis van de wetgeving inzake koeltechniek;<br>
+3° een praktisch onderdeel met betrekking tot handelingen met gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen;<br>
+4° een praktisch onderdeel met betrekking tot een hardsoldeerproef.<br>
+<br>
+Een persoon die een certificaat van categorie III of IV wil behalen, is vrijgesteld van het praktische onderdeel met betrekking tot een hardsoldeerproef.<br>
+<br>
+Een persoon is geslaagd voor het examen als hij voor ieder onderdeel minstens zestig procent van de punten behaalt.<br>
+<br>
+§ 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, organiseert een actualisatie-examen voor categorie I, II, III of IV.<br>
+<br>
+Het actualisatie-examen bestaat uit een theoretisch onderdeel met betrekking tot de relevante milieuwetgeving en technologie inzake koeltechniek.<br>
+<br>
+Een persoon is geslaagd voor het actualisatie-examen als hij minstens zestig procent van de punten behaalt.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid in de koeltechniek van categorie I, II, III of IV of van het actualisatie-examen uit nadat een persoon geslaagd is voor het examen, vermeld in paragraaf 1, respectievelijk paragraaf 2.<br>
+<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement.<br>
+<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+<br>
+§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel 17/1, 3°, of artikel 34, § 9, voorgelegd heeft, een kopie van dat bewijs aan het departement.<br>
+<br>
+§ 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de nodige infrastructuur, apparatuur, instrumenten en materialen om de examens, vermeld in paragraaf 1 en 2, te organiseren. Voor het praktische gedeelte zijn de apparatuur, instrumenten en materialen, vermeld in bijlage 20, die bij dit besluit is gevoegd, minimaal aanwezig.<br>
+<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
+<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;het departement minstens een maand voor een examen plaatsvindt, op de hoogte van de plaats en het tijdstip van het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;het departement personeelsleden de mogelijkheid bieden om de examens bij te wonen.&nbsp;Het departement kan zetelen in de examenjury.<br>
+<br>
+§ 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door het departement.<br>
+<br>
+§ 10. Het erkende opleidingscentrum, vermeld in paragraaf 1, zorgt ervoor dat de examenjuryleden goed op de hoogte zijn van de relevante examenmethoden en examendocumenten.
+
+### ART 43/7.
+
+§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid voor brandbeveiligingsapparatuur, vermeld in artikel 6, 4°, i), organiseert een opleiding en het examen voor personen die het certificaat van bekwaamheid voor brandbeveiligingsapparatuur willen behalen. De inhoud van het examen voldoet aan de eisen, vermeld in de bijlage bij verordening nr. 304/2008.<br>
+<br>
+Het examen bestaat uit twee onderdelen :<br>
+1° een theoretisch onderdeel;<br>
+2° een praktisch onderdeel.<br>
+<br>
+Een persoon is geslaagd voor het examen als hij voor het theoretische onderdeel minstens zestig procent van de punten behaalt en voor het praktijkonderdeel minstens zeventig procent van de punten.<br>
+<br>
+§ 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid voor brandbeveiligingsapparatuur uit nadat een persoon geslaagd is voor het examen, vermeld in paragraaf 1.<br>
+<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van het departement. Het model van het certificaat wordt ter goedkeuring voorgelegd aan het departement. Een kopie van het uitgereikte certificaat wordt bezorgd aan het departement.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan het departement. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel 17/2, 3°, voorgelegd heeft, een kopie van dat bewijs aan het departement.<br>
+<br>
+§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de nodige infrastructuur, apparatuur, instrumenten en materialen om het examen, vermeld in paragraaf 1, te organiseren.<br>
+<br>
+§ 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
+<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt&nbsp;het departement minstens een maand voor een examen plaatsvindt, op de hoogte van de plaats en het tijdstip van het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door&nbsp;het departement personeelsleden de mogelijkheid bieden om de examens bij te wonen.&nbsp;Het departement kan zetelen in de examenjury.<br>
+<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door het departement.<br>
+<br>
+§ 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, zorgt ervoor dat de examenjuryleden goed op de hoogte zijn van de relevante examenmethoden en examendocumenten.
+
+### ART 43/8.
+
+§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid voor elektrische schakelinrichtingen, vermeld in artikel 6, 4°, j), organiseert een opleiding en het examen voor personen die het certificaat van bekwaamheid voor elektrische schakelinrichtingen willen behalen. De inhoud van het examen voldoet aan de eisen, vermeld in de bijlage bij verordening nr. 2015/2066.<br>
+<br>
+Het examen bestaat uit twee onderdelen :<br>
+1° een theoretisch onderdeel;<br>
+2° een praktisch onderdeel.<br>
+<br>
+Een persoon is geslaagd voor het examen als hij zowel voor het theoretische als het praktische onderdeel minstens zestig procent van de punten behaalt.<br>
+<br>
+§ 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid voor elektrische schakelinrichtingen uit nadat een persoon geslaagd is voor het examen, vermeld in paragraaf 1.<br>
+<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de afdeling, bevoegd voor erkenningen. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de afdeling, bevoegd voor erkenningen. Een kopie van het uitgereikte certificaat wordt bezorgd aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de afdeling, bevoegd voor erkenningen. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel 17/3, 3°, voorgelegd heeft, een kopie van dat bewijs aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de nodige infrastructuur, apparatuur, instrumenten en materialen om het examen, vermeld in paragraaf 1, te organiseren.<br>
+<br>
+§ 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
+<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt de afdeling, bevoegd voor erkenningen, minstens een maand voor een examen plaatsvindt, op de hoogte van de plaats en het tijdstip van het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de afdeling, bevoegd voor erkenningen, personeelsleden de mogelijkheid bieden om de examens bij te wonen. De afdeling, bevoegd voor erkenningen, kan zetelen in de examenjury.<br>
+<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, zorgt ervoor dat de examenjuryleden goed op de hoogte zijn van de relevante examenmethoden en examendocumenten.
+
+### ART 43/9.
+
+§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid voor apparatuur die oplosmiddelen bevat, vermeld in artikel 6, 4°, k), organiseert een opleiding en het examen voor personen die een certificaat van bekwaamheid voor apparatuur die oplosmiddelen bevat willen behalen. De inhoud van het examen voldoet aan de eisen, vermeld in de bijlage bij verordening nr. 306/2008.<br>
+<br>
+Het examen bestaat uit twee onderdelen :<br>
+1° een theoretisch onderdeel;<br>
+2° een praktisch onderdeel.<br>
+<br>
+Een persoon is geslaagd voor het examen als hij zowel voor het theoretische als het praktische onderdeel minstens zestig procent van de punten behaalt.<br>
+<br>
+§ 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid voor apparatuur die oplosmiddelen bevat uit nadat een persoon geslaagd is voor het examen, vermeld in paragraaf 1.<br>
+<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de afdeling, bevoegd voor erkenningen. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de afdeling, bevoegd voor erkenningen. Een kopie van het uitgereikte certificaat wordt bezorgd aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de afdeling, bevoegd voor erkenningen. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel 17/4, 3°, voorgelegd heeft, een kopie van dat bewijs aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de nodige infrastructuur, apparatuur, instrumenten en materialen om het examen, vermeld in paragraaf 1, te organiseren.<br>
+<br>
+§ 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
+<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt de afdeling, bevoegd voor erkenningen, minstens een maand voor een examen plaatsvindt, op de hoogte van de plaats en het tijdstip van het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de afdeling, bevoegd voor erkenningen, personeelsleden de mogelijkheid bieden om de examens bij te wonen. De afdeling, bevoegd voor erkenningen, kan zetelen in de examenjury.<br>
+<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, zorgt ervoor dat de examenjuryleden goed op de hoogte zijn van de relevante examenmethoden en examendocumenten.
+
+### ART 43/10.
+
+§ 1. Het erkende opleidingscentrum voor het uitreiken van het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen, vermeld in artikel 6, 4°, l), organiseert de opleiding met het bijhorende examen voor personen die het certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen willen behalen. Het erkende opleidingscentrum bepaalt de inhoud van de opleiding en het examen aan de hand van de onderwerpen, vermeld in de bijlage bij verordening nr. 307/2008.<br>
+<br>
+Het erkende opleidingscentrum kan gebruikmaken van de opleidings- en examenpakketten die door de instantie die het sectorale opleidingsbeleid ondersteunt, ter beschikking worden gesteld, op voorwaarde dat de afdeling, bevoegd voor erkenningen, de pakketten heeft goedgekeurd.<br>
+<br>
+Het examen bestaat uit twee onderdelen :<br>
+1° een theoretisch onderdeel;<br>
+2° een praktisch onderdeel.<br>
+<br>
+Een persoon is geslaagd voor het examen als hij zowel voor het theoretische als het praktische onderdeel minstens zestig procent van de punten behaalt.<br>
+<br>
+§ 2. Het erkende opleidingscentrum, vermeld in paragraaf 1, reikt binnen een maand na een examen een certificaat van bekwaamheid voor klimaatregelingsapparatuur in bepaalde motorvoertuigen uit nadat een persoon de opleiding gevolgd heeft en geslaagd is voor het bijhorende examen, vermeld in paragraaf 1.<br>
+<br>
+Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt het opleidingscentrum de instructies van de afdeling, bevoegd voor erkenningen. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de afdeling, bevoegd voor erkenningen. Een kopie van het uitgereikte certificaat wordt bezorgd aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 3. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand na elk examen een verslag van de examenzitting aan de afdeling, bevoegd voor erkenningen. Dat verslag wordt ondertekend door de aanwezige examenjuryleden en bevat minstens de gegevens, vermeld in bijlage 15, die bij dit besluit is gevoegd.<br>
+<br>
+§ 4. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt binnen een maand nadat de geslaagde kandidaat een geldig bewijs van betaling van de retributie, vermeld in artikel 17/5, 3°, voorgelegd heeft, een kopie van dat bewijs aan de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 5. Het erkende opleidingscentrum, vermeld in paragraaf 1, beschikt over de nodige infrastructuur, apparatuur, instrumenten en materialen om de opleiding en het examen, vermeld in paragraaf 1, te organiseren.<br>
+<br>
+§ 6. Het erkende opleidingscentrum, vermeld in paragraaf 1, houdt een register bij met de resultaten van de examens van de voorbije vijf jaar.<br>
+<br>
+§ 7. Het erkende opleidingscentrum, vermeld in paragraaf 1, brengt de afdeling, bevoegd voor erkenningen, minstens een maand voor een opleiding van start gaat of het examen plaatsvindt, op de hoogte van de plaats en het tijdstip van de opleiding of het examen. Het erkende opleidingscentrum moet, als daarom wordt verzocht door de afdeling, bevoegd voor erkenningen, personeelsleden de mogelijkheid bieden om de opleidingen en examens bij te wonen. De afdeling, bevoegd voor erkenningen, kan zetelen in de examenjury.<br>
+<br>
+§ 8. Het erkende opleidingscentrum, vermeld in paragraaf 1, behandelt en onderzoekt klachten, ingediend door de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 9. Het erkende opleidingscentrum, vermeld in paragraaf 1, bezorgt de gegevens, vermeld in punt 3° tot en met 6° van bijlage 15, die bij dit besluit is gevoegd, aan een instantie die het sectorale opleidingsbeleid ondersteunt.
 
 ## Onderafdeling 5 Gebruikseisen voor laboratoria
 
@@ -365,7 +1220,13 @@ Het erkende laboratorium verleent op elk moment toegang tot het   laboratorium a
 
 ### ART. 48.
 
-<P>Het erkende laboratorium beschikt voor ten minste één parameter per   discipline waarvoor het erkend is, over een ISO/IEC 17025-accreditatie met   betrekking tot de te volgen methoden, vermeld in artikel 45. Voor de overige   parameters waarvoor het laboratorium erkend is, wordt ISO/IEC 17025 met   betrekking tot de te volgen methoden, vermeld in artikel 45,   toegepast.<BR><BR>Een laboratorium dat alleen erkend is voor een pakket dat   alleen monstername en monstervoorbehandeling ter plaatse omvat of een   laboratorium als vermeld in artikel 6, 5°, b), dat alleen erkend is voor het   pakket L.11.1, L.11.2 of L.18, vermeld in bijlage 3, 2°, die bij dit besluit is   gevoegd, is vrijgesteld van de gebruikseis, vermeld in het eerste lid. Het   voormelde laboratorium moet ISO/IEC 17025 met betrekking tot de te volgen   methoden, vermeld in artikel 45, toepassen.<BR><BR>Voor monstername wordt   ISO/IEC 17020 evenwaardig beschouwd aan ISO/IEC 17025. </P>
+Het erkende laboratorium beschikt voor ten minste één parameter per discipline waarvoor het erkend is, over een ISO/IEC 17025-accreditatie met betrekking tot de te volgen methoden, vermeld in artikel 45. Voor de overige parameters waarvoor het laboratorium erkend is, wordt ISO/IEC 17025 met betrekking tot de te volgen methoden, vermeld in artikel 45, toegepast.<br>
+<br>
+In de volgende gevallen is het laboratorium vrijgesteld van de gebruikseis, vermeld in het eerste lid, op voorwaarde dat het ISO/IEC 17025 met betrekking tot de te volgen methoden, vermeld in artikel 45, toepast :<br>
+1° een laboratorium als vermeld in artikel 6, 5°, a), dat alleen erkend is voor het pakket W.1, vermeld in bijlage 3, 1°, die bij dit besluit is gevoegd;<br>
+2° een laboratorium als vermeld in artikel 6, 5°, b), dat alleen erkend is voor het pakket L.11.1, L.11.2 of L.18, vermeld in bijlage 3, 2°, die bij dit besluit is gevoegd;<br>
+3° een laboratorium als vermeld in artikel 6, 5°, d), dat alleen erkend is voor het pakket M-M1 of M-M3, vermeld in bijlage 3, 4°, die bij dit besluit is gevoegd;<br>
+4° een laboratorium als vermeld in artikel 6, 5°, e), dat alleen erkend is voor het pakket MA.1, MA.2, MA.3, MA.4, MA.5, MA.6, MA.7.1 of MA.7.2, vermeld in bijlage 3, 5°, die bij dit besluit is gevoegd.
 
 ### ART. 49.
 
@@ -373,19 +1234,37 @@ Het erkende laboratorium verleent op elk moment toegang tot het   laboratorium a
 
 ### ART. 50.
 
-<P>§ 1. Alle gegevens van de monsternemingen, metingen, beproevingen en analyses   die nuttig kunnen zijn, worden bijgehouden en blijven op dusdanige wijze bewaard   dat een controle mogelijk is, zowel op het verloop van de verrichtingen als op   de wijze waarop de resultaten verkregen zijn. Die gegevens blijven gedurende ten   minste drie jaar bewaard en worden ter beschikking gehouden van de bevoegde   afdeling en het referentielaboratorium van het Vlaamse Gewest.<BR><BR>§ 2. Het   erkende laboratorium stelt over de uitgevoerde monsternemingen, metingen,   beproevingen en analyses telkens een verslag op dat op zijn minst de volgende   gegevens bevat :<BR>1° de naam en hoedanigheid van de persoon die de monsters   genomen heeft, de volledige identificatie van de monsters en de datum en het uur   van monsterneming;<BR>2° het resultaat van de uitgevoerde monsternemingen,   metingen, beproevingen en analyses, met vermelding van de gebruikte methode, de   meet- en analyseomstandigheden en, in voorkomend geval, de afwijkingen van de   monsternemingsmethode, de meet- en analysemethode en de reden   daarvoor.<BR><BR>Als een erkend laboratorium als vermeld in artikel 6, 5°, e) of   f), analyses heeft uitbesteed aan andere erkende laboratoria, vermeldt het   analyseverslag dat wordt opgesteld door het erkende laboratorium, waaraan de   desbetreffende parameters zijn uitbesteed, de gebruikte methoden en de   gedetailleerde verwijzing naar het monster. Dat analyseverslag wordt gevoegd bij   het analyseverslag van de parameters die niet zijn uitbesteed.</P>
+<p>§ 1. Alle gegevens van de monsternemingen, metingen, beproevingen en analyses die nuttig kunnen zijn, worden bijgehouden en blijven op dusdanige wijze bewaard dat een controle mogelijk is, zowel op het verloop van de verrichtingen als op de wijze waarop de resultaten verkregen zijn. Die gegevens blijven gedurende ten minste drie jaar bewaard en worden ter beschikking gehouden van de bevoegde afdeling en het referentielaboratorium van het Vlaamse Gewest.<br>
+<br>
+§ 2. Het erkende laboratorium stelt over de uitgevoerde monsternemingen, metingen, beproevingen en analyses telkens een verslag op dat op zijn minst de volgende gegevens bevat :<br>
+1° de naam en hoedanigheid van de persoon die de monsters genomen heeft, de volledige identificatie van de monsters en de datum van de monsterneming;<br>
+2° het resultaat van de uitgevoerde monsternemingen, metingen, beproevingen en analyses, met vermelding van de gebruikte methode, de meet- en analyseomstandigheden en, in voorkomend geval, de afwijkingen van de monsternemingsmethode, de meet- en analysemethode en de reden daarvoor.<br>
+<br>
+Als een erkend laboratorium als vermeld in artikel 6, 5°, e) of f), analyses heeft uitbesteed aan andere erkende laboratoria, vermeldt het analyseverslag dat wordt opgesteld door het erkende laboratorium, waaraan de desbetreffende parameters zijn uitbesteed, de gebruikte methoden en de gedetailleerde verwijzing naar het monster. Dat analyseverslag wordt gevoegd bij het analyseverslag van de parameters die niet zijn uitbesteed.</p>
 
 ### ART. 51.
 
-<P>...</P>
+<p>Het erkende laboratorium moet beschikken over :<br>
+1° procedures die garanderen dat directie en personeel gevrijwaard zijn van ongepaste interne en externe commerciële, financiële en andere verplichtingen en invloeden die de kwaliteit van hun werk nadelig kunnen beïnvloeden;<br>
+2° beleid en procedures die betrokkenheid uitsluiten bij activiteiten die het vertrouwen in zijn bekwaamheid, onpartijdigheid, oordeelkundigheid of operationele integriteit zouden kunnen schaden.<br>
+Indien de objectiviteit en onafhankelijkheid door het erkende laboratorium niet kunnen gegarandeerd worden, mag de erkenning niet gebruikt worden.</p>
 
 ### ART. 52.
 
-Het erkende laboratorium, vermeld in artikel 6, 5°, c), stelt de adviezen met betrekking tot het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden op, conform de Code van goede praktijk bodembescherming.<br /><br />
+Het erkende laboratorium, vermeld in artikel 6, 5°, c), stelt de adviezen met betrekking tot het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid op, conform de Code van goede praktijk bodembescherming.<br>
+&nbsp;
 
 ### ART. 53.
 
-Het erkende laboratorium voert de opdrachten met betrekking tot de   erkenning zelf uit, tenzij in een van de volgende gevallen :<BR>1° bij   tijdelijke en onvoorziene omstandigheden, waarbij de opdracht uitbesteed wordt   aan een laboratorium, dat erkend is voor het pakket inzake de uitvoering van de   opdracht. Als het laboratorium monsternemingen, metingen, beproevingen en   analyses laat uitvoeren door een ander daartoe erkend laboratorium, moet de   uitbesteding in kwestie expliciet vermeld worden op de verslagen en andere   documenten die afgeleverd worden door het erkende laboratorium; Het verslag   bevat ook de gedetailleerde verwijzing naar het monster;<BR>2° bij monsterneming   inzake een erkend laboratorium als vermeld in artikel 6, 5°, a), c), d) en e).   Als de monsterneming uitgevoerd wordt door derden in opdracht van het erkende   laboratorium, blijft het erkende laboratorium verantwoordelijk voor de correcte   uitvoering ervan.<BR>3° als een erkend laboratorium als vermeld in artikel 6,   5°, e) of f), gebruikmaakt van de mogelijkheid, vermeld in artikel 25, vijfde   lid. Als de analyses uitgevoerd worden door derden in opdracht van het erkende   laboratorium, blijft het erkende laboratorium verantwoordelijk voor de correcte   uitvoering ervan. <BR><BR>
+Het erkende laboratorium voert de opdrachten met betrekking tot de erkenning zelf uit, tenzij in een van de volgende gevallen :<br>
+1° bij tijdelijke en onvoorziene omstandigheden, waarbij de opdracht uitbesteed wordt aan een laboratorium dat erkend is voor het pakket inzake de uitvoering van de opdracht;<br>
+2° als een erkend laboratorium als vermeld in artikel 6, 5°, e) of f), gebruikmaakt van de mogelijkheid, vermeld in artikel 25, vierde lid;<br>
+3° bij monsterneming inzake een erkend laboratorium als vermeld in artikel 6, 5°, a), c), d) en e) waarbij de opdracht uitbesteed wordt aan een derde die niet erkend is voor de betreffende monsterneming;<br>
+4° bij dataverwerking waarbij de opdracht uitbesteed wordt aan een derde die niet erkend is voor de betreffende meting, beproeving of analyse en mits voorafgaande goedkeuring door de bevoegde afdeling.<br>
+<br>
+Voor de gevallen, vermeld in punt 1° en 2°, moet het erkende laboratorium dat de opdracht uitbesteedt, kunnen aantonen dat dit besluit voor de desbetreffende uitbesteding nageleefd wordt. Het erkende laboratorium dat de opdracht uitbesteedt, is verantwoordelijk voor de correcte overdracht van de monsters naar of vanuit het andere erkende laboratorium en voor de rapportage, inclusief de correcte vermelding in het verslag van de resultaten en gegevens, verstrekt door het andere erkende laboratorium. Het erkende laboratorium dat de opdracht uitvoert, is voor het overige deel van de opdracht verantwoordelijk. De uitbesteding moet vermeld worden op de verslagen en andere documenten die afgeleverd worden door het erkende laboratorium dat de opdracht uitbesteed heeft.<br>
+<br>
+Voor de gevallen, vermeld in punt 3° en 4°, is het erkende laboratorium verantwoordelijk voor de correcte uitvoering van de gehele opdracht. Het erkende laboratorium moet kunnen aantonen dat dit besluit voor de desbetreffende uitbesteding nageleefd wordt.
 
 ### ART. 53/1.
 
@@ -393,13 +1272,30 @@ Het erkende laboratorium voert de opdrachten met betrekking tot de   erkenning z
 
 ### ART. 53/2.
 
-Voor bepaalde door de minister vastgelegde monsternemingen en analyses die   uitgevoerd worden in het kader van het besluit van de Vlaamse Regering van 8   juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van   bepaalde steunregelingen voor landbouwers en tot toepassing van de   randvoorwaarden, moet het erkende laboratorium, vermeld in artikel 6, 5°, c),   een rapportering van de analyseresultaten bezorgen aan de afdeling, bevoegd voor   bodembescherming. De minister bepaalt de procedure voor die   rapportering.<BR><BR>De minister bepaalt voor welke monsternemingen die   uitgevoerd worden in het kader van het voormelde besluit, het erkende   laboratorium moet gebruikmaken van een gps-datalogger.
+Voor bepaalde door de minister vastgelegde monsternemingen en analyses die uitgevoerd worden in het kader van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid, moet het erkende laboratorium, vermeld in artikel 6, 5°, c), een rapportering van de analyseresultaten bezorgen aan de afdeling, bevoegd voor bodembescherming. De minister bepaalt de procedure voor die rapportering.<br>
+<br>
+Voor alle monsternemingen die uitgevoerd worden in het kader van het voormelde besluit, moet het erkende laboratorium gebruikmaken van een gps-datalogger.
 
 ## [Onderafdeling 6 Gebruikseisen voor bodemsaneringsdeskundigen (ing. BVR 1 maart 2013, art. 126, I: 3 mei 2013)]
 
 ### ART. 53/3.
 
-§ 1. De erkende bodemsaneringsdeskundige, vermeld in artikel 6, 6° :<BR>1°   ziet erop toe dat alle monsters die genomen zijn in het kader van het   Bodemdecreet, geanalyseerd worden overeenkomstig het CMA, door een laboratorium   als vermeld in artikel 6, 5°, f);<BR>2° voert het veldwerk uit of ziet erop toe   dat het veldwerk wordt uitgevoerd overeenkomstig het CMA;<BR>3° deelt op   eenvoudig verzoek onmiddellijk aan de afdeling, bevoegd voor bodembeheer, mee   waar veldwerk in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan   wordt gepland in de periode die is aangegeven in het verzoek van de afdeling,   bevoegd voor bodembeheer;<BR>4° voert de taken, vermeld in artikel 6, 6°, uit in   overeenstemming met de standaardprocedures of de codes van goede praktijk,   vermeld in het Bodemdecreet en de uitvoeringsbesluiten ervan;<BR>5° houdt een   klachtenregister bij dat ter inzage ligt voor de toezichthoudende   overheid;<BR>6° beschikt zelf over een model voor risicoanalyse van   bodemverontreiniging dat aanvaard wordt door de afdeling, bevoegd voor   bodembeheer;<BR>7° stelt jaarlijks een jaarverslag op dat minstens de volgende   elementen bevat :<BR>a) een overzicht van de personen die beschikken over de   vereiste kennis en beroepservaring;<BR>b) een evaluatie van de genomen acties   voor de kwaliteitsborging, de opleiding van het personeel en de inhoud van het   klachtenregister;<BR>8° houdt een kwaliteitshandboek bij;<BR>9° schoolt zich of   de personen die bij hem in dienst zijn permanent bij wat betreft het   milieucompartiment bodem, inclusief milieutechnologie en milieuwetgeving in   verband met bodem, door cursussen, seminaries, studiedagen en dergelijke te   volgen. De totale bijscholing van de bodemsaneringsdeskundige van type 1 of de   personen die bij hem in dienst zijn, bedraagt ten minste vijftien uur per   kalenderjaar. De totale bijscholing voor de personen die in dienst zijn bij een   bodemsaneringsdeskundige van type 2, bedraagt ten minste zestig uur per   kalenderjaar.<BR><BR>§ 2. De erkende bodemsaneringsdeskundige van type 2   beschikt bovendien over een mathematisch grondwatermodel dat aanvaard wordt door   de afdeling, bevoegd voor bodembeheer.
+§ 1. De erkende bodemsaneringsdeskundige, vermeld in artikel 6, 6° :<br>
+1° ziet erop toe dat alle monsters die genomen zijn in het kader van het Bodemdecreet, geanalyseerd worden overeenkomstig het CMA, door een laboratorium als vermeld in artikel 6, 5°, f);<br>
+2° voert het veldwerk uit of ziet erop toe dat het veldwerk wordt uitgevoerd overeenkomstig het CMA;<br>
+3° deelt op eenvoudig verzoek onmiddellijk aan de afdeling, bevoegd voor bodembeheer, mee waar veldwerk in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan wordt gepland in de periode die is aangegeven in het verzoek van de afdeling, bevoegd voor bodembeheer;<br>
+4° voert de taken, vermeld in artikel 6, 6°, uit in overeenstemming met de standaardprocedures of de codes van goede praktijk, vermeld in het Bodemdecreet en de uitvoeringsbesluiten ervan;<br>
+5° houdt een klachtenregister bij dat ter inzage ligt voor de toezichthoudende overheid;<br>
+6° beschikt zelf over een model voor risicoanalyse van bodemverontreiniging dat aanvaard wordt door de afdeling, bevoegd voor bodembeheer;<br>
+7° stelt jaarlijks een jaarverslag op dat minstens de volgende elementen bevat :<br>
+a) een overzicht van de personen die beschikken over de vereiste kennis en beroepservaring;<br>
+b) een evaluatie van de genomen acties voor de kwaliteitsborging, de opleiding van het personeel en de inhoud van het klachtenregister;<br>
+8° houdt een kwaliteitshandboek bij;<br>
+9° schoolt zich of de personen die bij hem in dienst zijn, permanent bij wat betreft het milieucompartiment bodem, inclusief milieutechnologie en milieuwetgeving in verband met bodem, door cursussen, seminaries, studiedagen en dergelijke te volgen. De duur van de bijscholing van de bodemsaneringsdeskundige per kalenderjaar is als volgt :<br>
+a) in geval van een bodemsaneringsdeskundige van type 1 : de duur van de bijscholing bedraagt minstens 7,5 uur per persoon die voor de bodemsaneringsdeskundige beschikt over een handtekeningsbevoegdheid module 1 of 2. Als er meer dan twee personen beschikken over de voormelde handtekeningsbevoegdheid voor de bodemsaneringsdeskundige, is voldaan aan de bijscholingsvereiste als de totale duur van de bijscholing minstens 15 uur bedraagt;<br>
+b) in geval van een bodemsaneringsdeskundige van type 2 : de duur van de bijscholing bedraagt minstens 7,5 uur per persoon die voor de bodemsaneringsdeskundige beschikt over een handtekeningsbevoegdheid module 1 of 2, met een minimum van 20 uur als de totale duur van de bijscholing. Als er meer dan acht personen beschikken over de voormelde handtekeningsbevoegdheid voor de bodemsaneringsdeskundige, is voldaan aan de bijscholingsvereiste als de totale duur van de bijscholing minstens 60 uur bedraagt.<br>
+<br>
+§ 2. De erkende bodemsaneringsdeskundige van type 2 beschikt bovendien over een mathematisch grondwatermodel dat aanvaard wordt door de afdeling, bevoegd voor bodembeheer.
 
 ### ART. 53/4.
 
@@ -413,9 +1309,111 @@ Voor bepaalde door de minister vastgelegde monsternemingen en analyses die   uit
 
 ### ART. 53/6.
 
-Het erkende boorbedrijf, vermeld in artikel 6, 7° :<BR>1° beschikt over de   nodige actuele vakliteratuur en technische gegevens over de uit te voeren werken   met betrekking tot de erkenning;<BR>2° zorgt ervoor dat een van de volgende   voorwaarden vervuld is :<BR>a) ieder boortoestel wordt bediend door, of de   bediening staat onder het directe toezicht van een verantwoordelijke die over   minstens drie jaar praktische ervaring beschikt in het uitvoeren van werken in   het kader van de erkenning;<BR>b) ieder boortoestel wordt bediend door een   werknemer die beschikt over een attest dat hij de algemene opleiding, vermeld in   bijlage 16, die bij dit besluit is gevoegd, met gunstig gevolg heeft   gevolgd;<BR>3° zorgt ervoor dat het personeel dat de werken in het kader van de   erkenning uitvoert, vijfjaarlijks een opleiding met gunstig gevolg volgt. Die   opleiding bestaat uit de algemene opleiding, vermeld in bijlage 16, die bij dit   besluit is gevoegd, of uit een bijscholing als vermeld in dezelfde bijlage, voor   het personeel dat de algemene opleiding al met gunstig gevolg heeft   gevolgd;<BR>4° zorgt ervoor dat het personeel dat de werken in het kader van de   erkenning uitvoert, over het meest geschikte en in goede staat verkerende   materieel beschikt dat voldoet aan alle reglementaire eisen en dat noodzakelijk   is voor de uitvoering van de werken waarvoor de erkenning werd verkregen;<BR>5°   zorgt ervoor dat het personeel de nodige notities neemt tijdens de werken in het   kader van de erkenning en, in voorkomend geval, een volledig boorverslag als   vermeld in bijlage 5.53.1 van titel II van het VLAREM, opstelt;<BR>6° blijft op   de hoogte van de recentste ontwikkelingen en wetgeving inzake de werken waarvoor   de erkenning werd verkregen;<BR>7°&nbsp; voert alleen werken uit   met betrekking tot ingedeelde inrichtingen als de nodige vergunning of aktename   daarvoor voorhanden is, meldt de aanvang van de werken, vermeld in artikel   5.53.5.2 en 5.55.1.3, §3, van titel II van het VLAREM voorafgaandelijk aan de   bevoegde afdeling en de afdeling, bevoegd voor milieuhandhaving, en houdt zich   strikt aan de geldende milieuvoorwaarden;<BR>8° houdt een inventaris ter   beschikking van de toezichthouders van alle werken die de laatste vijf jaar zijn   uitgevoerd, met telkens de unieke code die verkregen is bij de Databank   Ondergrond Vlaanderen, een boorverslag en de datum van de vergunning of aktename   dan wel een verklaring dat het werken betrof voor een niet-ingedeelde   inrichting;<BR>9° bezorgt minimaal tweemaandelijks via een webapplicatie van de   Databank Ondergrond Vlaanderen een inventaris van de werken die de voorbije   periode zijn uitgevoerd, waarbij de boorverslagen in het formaat, vastgesteld   door de Databank Ondergrond Vlaanderen, digitaal worden bezorgd.
+Het erkende boorbedrijf, vermeld in artikel 6, 7°, a)&nbsp;:<br>
+1° beschikt over de nodige actuele vakliteratuur en technische gegevens over de uit te voeren werken met betrekking tot de erkenning;<br>
+2° zorgt ervoor dat een van de volgende voorwaarden vervuld is :<br>
+a) ieder boortoestel wordt bediend door, of de bediening staat onder het directe toezicht van een verantwoordelijke die over minstens drie jaar praktische ervaring beschikt in het uitvoeren van werken in het kader van de erkenning;<br>
+b) ieder boortoestel wordt bediend door een werknemer die beschikt over een attest dat hij de algemene opleiding, vermeld in bijlage 16, die bij dit besluit is gevoegd, met gunstig gevolg heeft gevolgd;<br>
+3° zorgt ervoor dat het personeel dat de werken in het kader van de erkenning uitvoert, vijfjaarlijks een opleiding met gunstig gevolg volgt. Die opleiding bestaat uit de algemene opleiding, vermeld in bijlage 16, die bij dit besluit is gevoegd, of uit een bijscholing als vermeld in dezelfde bijlage, voor het personeel dat de algemene opleiding al met gunstig gevolg heeft gevolgd;<br>
+4° zorgt ervoor dat het personeel dat de werken in het kader van de erkenning uitvoert, over het meest geschikte en in goede staat verkerende materieel beschikt dat voldoet aan alle reglementaire eisen en dat noodzakelijk is voor de uitvoering van de werken waarvoor de erkenning werd verkregen;<br>
+5° zorgt ervoor dat het personeel de nodige notities neemt tijdens de werken in het kader van de erkenning en, in voorkomend geval, een volledig boorverslag als vermeld in bijlage 5.53.1 van titel II van het VLAREM, opstelt;<br>
+6° blijft op de hoogte van de recentste ontwikkelingen en wetgeving inzake de werken waarvoor de erkenning werd verkregen;<br>
+7°&nbsp; voert alleen werken uit met betrekking tot ingedeelde inrichtingen als de nodige vergunning of aktename daarvoor voorhanden is, meldt de aanvang van de werken, vermeld in artikel 5.53.5.2 en 5.55.1.3, §3, van titel II van het VLAREM voorafgaandelijk aan de bevoegde afdeling en de afdeling, bevoegd voor milieuhandhaving, en houdt zich strikt aan de geldende milieuvoorwaarden;<br>
+8° houdt een inventaris ter beschikking van de toezichthouders van alle werken die de laatste vijf jaar zijn uitgevoerd, met telkens de unieke code die verkregen is bij de Databank Ondergrond Vlaanderen, een boorverslag en de datum van de vergunning of aktename dan wel een verklaring dat het werken betrof voor een niet-ingedeelde inrichting;<br>
+9° bezorgt minimaal tweemaandelijks via een webapplicatie van de Databank Ondergrond Vlaanderen een inventaris van de werken die de voorbije periode zijn uitgevoerd, waarbij de boorverslagen in het formaat, vastgesteld door de Databank Ondergrond Vlaanderen, digitaal worden bezorgd.
+
+### ART 53/7.
+
+Het erkende koeltechnisch bedrijf, vermeld in artikel 6, 7°, b) :<br>
+1° zorgt ervoor dat erkenningsplichtige werkzaamheden aan stationaire koelinstallaties met gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen uitgevoerd worden door personeel dat beschikt over een erkenning als koeltechnicus als vermeld in artikel 32, § 2, eerste lid, 7° ;<br>
+2° bezorgt een afschrift van de volgende registraties aan de eigenaar of beheerder van de stationaire koelinstallatie die gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevat en noteert dit, als dat van toepassing is, in het installatiegebonden logboek :<br>
+a) bij de initiële installatie of een aanpassing van de koelinstallatie waardoor de nominale koelmiddelinhoud of het type koelmiddel wijzigt :<br>
+1) de nominale koelmiddelinhoud, uitgedrukt in metrische eenheid, en, in geval van gefluoreerde broeikasgassen, eveneens in ton CO2-equivalent;<br>
+2) het type koelmiddel;<br>
+3) indien bij de installatie gerecycleerde of geregenereerde gefluoreerde broeikasgassen gebruikt worden : de vermelding hiervan en de naam en het adres van het recyclage- of regeneratiebedrijf;<br>
+4) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de initiële installatie of de aanpassing van de koelinstallatie uitgevoerd heeft;<br>
+5) de naam en het erkenningsnummer van het koeltechnisch bedrijf waar de technicus werkt;<br>
+b) als gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden bijgevuld of afgetapt :<br>
+1) het type koelmiddel;<br>
+2) de hoeveelheid, uitgedrukt in metrische eenheid;<br>
+3) de datum van bijvulling of aftapping;<br>
+4) de reden van bijvulling of aftapping;<br>
+5) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de bijvulling of aftapping uitgevoerd heeft;<br>
+6) als dat van toepassing is : de naam en het erkenningsnummer van het koeltechnisch bedrijf waar de technicus werkt;<br>
+7) na elke bijvulling voor een koelinstallatie als vermeld in artikel 5.16.3.3, § 5, van titel II van het VLAREM : het relatief lekverlies;<br>
+c) als lekkagecontroles als vermeld in artikel 4 van verordening nr. 517/2014 of artikel 23 van verordening nr. 1005/2009 uitgevoerd worden :<br>
+1) de datum van de lekkagecontrole;<br>
+2) een beschrijving en de resultaten van de uitgevoerde controles;<br>
+3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de lekkagecontrole uitgevoerd heeft;<br>
+d) de nominale koelmiddelinhoud van de koelinstallatie, uitgedrukt in metrische eenheid, en, in geval van gefluoreerde broeikasgassen, eveneens in ton CO2-equivalent, als die niet gekend is;<br>
+e) bij een buitendienststelling :<br>
+1) de datum van de buitendienststelling;<br>
+2) de maatregelen die genomen zijn om de gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen terug te winnen en te verwijderen;<br>
+3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de koelinstallatie buiten dienst gesteld heeft;<br>
+4) de naam en het erkenningsnummer van het koeltechnisch bedrijf waar de technicus werkt;<br>
+3° houdt de volgende zaken ten minste vijf jaar bij :<br>
+a) per exploitant en per koelinstallatie : de registraties, vermeld in punt 2° ;<br>
+b) de hoeveelheid gefluoreerde broeikasgassen die werden aangekocht met vermelding van de datum van aankoop en de naam van de leverancier;<br>
+c) de hoeveelheid gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen die werden afgevoerd met vermelding van de datum van afvoer, de naam van de vervoerder en de bestemming van die koelmiddelen;<br>
+4° gaat na iedere bijvulling na of het maximaal relatief lekverlies, vermeld in artikel 5.16.3.3, § 6, artikel 5bis.15.5.4.5.5, artikel 5bis.19.8.4.8.5 en artikel 6.8.1.2 van titel II van het VLAREM, niet overschreden werd. Als blijkt dat het maximaal relatief lekverlies overschreden is en maatregelen moeten worden getroffen, brengt het koeltechnisch bedrijf ten minste de eigenaar of beheerder schriftelijk op de hoogte van de vastgestelde lekkage en formuleert het een voorstel van te nemen maatregelen;<br>
+5° toont op verzoek het materiaal dat gebruikt wordt bij de uitvoering van de werkzaamheden met betrekking tot de erkenning;<br>
+6° zorgt ervoor dat de koeltechnicus gedurende de erkenningsplichtige werkzaamheden aan stationaire koelinstallaties over de nodige apparatuur, instrumenten en materialen beschikt. Die apparatuur bevat gekalibreerde meetapparatuur en ten minste het materiaal, vermeld in bijlage 21, die bij dit besluit is gevoegd;<br>
+7° doet al het mogelijke om lekkage van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen te voorkomen of tot een minimum te beperken;<br>
+8° doet al het nodige voor de recycling, regeneratie of vernietiging van gefluoreerde broeikasgassen als een cilinder met dat broeikasgas verwijderd moet worden;<br>
+9° licht het betrokken personeel in over nieuwe technologieën en nieuwe relevante milieuwetgeving met betrekking tot koelinstallaties;<br>
+10° beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven.
+
+### ART 53/8.
+
+Het erkende bedrijf voor brandbeveiligingsapparatuur, vermeld in artikel 6, 7°, c) :<br>
+1° zorgt ervoor dat de erkenningsplichtige werkzaamheden aan stationaire brandbeveiligingsapparatuur met gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen uitgevoerd worden door personeel dat beschikt over een erkenning als technicus voor brandbeveiligingsapparatuur als vermeld in artikel 32, § 2, eerste lid, 8° ;<br>
+2° bezorgt een afschrift van de volgende registraties aan de eigenaar of beheerder van de brandbeveiligingsapparatuur die gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevat :<br>
+a) bij de initiële installatie of een aanpassing van de brandbeveiligingsapparatuur waardoor de nominale inhoud aan blusmiddel of het type blusmiddel wijzigt :<br>
+1) de nominale inhoud, uitgedrukt in metrische eenheid, en, in geval van gefluoreerde broeikasgassen, eveneens in ton CO2-equivalent;<br>
+2) het type blusmiddel;<br>
+3) indien bij de installatie gerecycleerde of geregenereerde gefluoreerde broeikasgassen gebruikt worden : de vermelding hiervan en de naam en het adres van het recyclage- of regeneratiebedrijf;<br>
+4) de voor- en achternaam en het erkenningsnummer van de technicus voor brandbeveiligingsapparatuur die de initiële installatie of de aanpassing uitgevoerd heeft;<br>
+5) de naam en het erkenningsnummer van het bedrijf voor brandbeveiligingsapparatuur waar de technicus werkt;<br>
+b) als gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden bijgevuld of afgetapt :<br>
+1) het type blusmiddel;<br>
+2) de hoeveelheid, uitgedrukt in metrische eenheid;<br>
+3) de datum van bijvulling of aftapping;<br>
+4) de reden van bijvulling of aftapping;<br>
+5) de voor- en achternaam en het erkenningsnummer van de technicus voor brandbeveiligingsapparatuur die de bijvulling of aftapping uitgevoerd heeft;<br>
+6) als dat van toepassing is : de naam en het erkenningsnummer van het bedrijf voor brandbeveiligingsapparatuur waar de technicus werkt;<br>
+c) als lekkagecontroles als vermeld in artikel 4 van verordening nr. 517/2014 of artikel 23 van verordening nr. 1005/2009 uitgevoerd worden :<br>
+1) de datum van de lekkagecontrole;<br>
+2) een beschrijving en de resultaten van de uitgevoerde controles;<br>
+3) de voor- en achternaam en het erkenningsnummer van de technicus voor brandbeveiligingsapparatuur die de lekkagecontrole uitgevoerd heeft;<br>
+d) de nominale inhoud van de brandbeveiligingsapparatuur, uitgedrukt in metrische eenheid, en, in geval van gefluoreerde broeikasgassen, eveneens in ton CO2-equivalent, als die niet gekend is;<br>
+e) bij een buitendienststelling :<br>
+1) de datum van de buitendienststelling;<br>
+2) de maatregelen die genomen zijn om de gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen terug te winnen en te verwijderen;<br>
+3) de voor- en achternaam en het erkenningsnummer van de technicus voor brandbeveiligingsapparatuur die de installatie buiten dienst gesteld heeft;<br>
+4) de naam en het erkenningsnummer van het bedrijf voor brandbeveiligingsapparatuur waar de technicus werkt;<br>
+3° houdt de volgende zaken ten minste vijf jaar bij :<br>
+a) per exploitant en per brandbeveiligingsapparatuur : de registraties, vermeld in punt 2° ;<br>
+b) de hoeveelheid gefluoreerde broeikasgassen die werden aangekocht met vermelding van de datum van aankoop en de naam van de leverancier;<br>
+c) de hoeveelheid gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen die werden afgevoerd met vermelding van de datum van afvoer, de naam van de vervoerder en de bestemming van die blusmiddelen;<br>
+4° toont op verzoek het materiaal dat gebruikt wordt bij de uitvoering van de werkzaamheden met betrekking tot de erkenning;<br>
+5° zorgt ervoor dat de technicus voor brandbeveiligingsapparatuur gedurende de erkenningsplichtige werkzaamheden aan brandbeveiligingsapparatuur over de nodige apparatuur, instrumenten en materialen beschikt;<br>
+6° doet al het mogelijke om lekkage van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen te voorkomen of tot een minimum te beperken;<br>
+7° doet al het nodige voor de recycling, regeneratie of vernietiging van gefluoreerde broeikasgassen als een cilinder met dat broeikasgas verwijderd moet worden;<br>
+8° licht het betrokken personeel in over nieuwe technologieën en nieuwe relevante milieuwetgeving met betrekking tot brandbeveiligingsapparatuur;<br>
+9° beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven.
 
 ## [Onderafdeling 8 Gebruikseisen voor keuringsinstellingen (ing. BVR 18 maart 2016, art. 251, I: 5 september 2016)]
+
+### ART 53/9.
+
+De erkende keuringsinstelling, vermeld in artikel 6, 8° :<br>
+1° is geaccrediteerd als keuringsinstelling van het type A op basis van de criteria van de norm ISO/IEC 17020 voor de keuring, vermeld in artikel 25/4, 4°, of behaalt die accreditatie binnen een termijn van een jaar, te rekenen vanaf de dag nadat de erkenning verkregen is;<br>
+2° wijst een of meer keurders aan die beschikken over een erkenning als koeltechnicus als vermeld in artikel 32, § 2, eerste lid, 7°, van categorie I of die over minstens drie jaar praktijkervaring in de koelsector beschikken;<br>
+3° reikt binnen een maand nadat een bedrijf met goed gevolg gekeurd werd als vermeld in artikel 25/4, 4°, een certificaat uit. Het certificaat bevat minstens de gegevens, vermeld in bijlage 14, die bij dit besluit is gevoegd. Voor de opmaak van het certificaat volgt de keuringsinstelling de instructies van de afdeling, bevoegd voor erkenningen. Het model van het certificaat wordt ter goedkeuring voorgelegd aan de afdeling, bevoegd voor erkenningen. Een kopie van het uitgereikte certificaat wordt bezorgd aan de afdeling, bevoegd voor erkenningen;<br>
+4° bezorgt maandelijks aan de afdeling, bevoegd voor erkenningen, een overzicht van de bedrijven die met gunstig gevolg gekeurd zijn. Dat overzicht bevat minstens de gegevens, vermeld in bijlage 22, die bij dit besluit is gevoegd;<br>
+5° behandelt en onderzoekt klachten, ingediend door de afdeling, bevoegd voor erkenningen;<br>
+6° moet, als daarom wordt verzocht door de afdeling, bevoegd voor erkenningen, personeelsleden de mogelijkheid bieden om de keuring bij te wonen;<br>
+7° bewaart de keuringsrapporten minstens vijf jaar.
 
 ## HOOFDSTUK 9 Schorsing en opheffing van de erkenning
 
@@ -427,7 +1425,32 @@ Het erkende boorbedrijf, vermeld in artikel 6, 7° :<BR>1° beschikt over de   n
 
 ### ART. 54/1.
 
-§ 1. Voor de behandeling van een aanvraag tot erkenning wordt een   retributie geheven, waarvan de opbrengst rechtstreeks en integraal in het Fonds   voor de behandeling van de erkenningsaanvragen en de uitoefening van het   toezicht op de erkenningen met betrekking tot het leefmilieu wordt gestort, ten   laste van elke natuurlijke persoon of rechtspersoon die een aanvraag tot   erkenning als vermeld in artikel 6, indient.<BR><BR>De bedragen van die   retributie worden vastgesteld in bijlage 18, A, die bij dit besluit is   gevoegd.<BR><BR>§ 2. Voor de uitoefening van het toezicht op de erkenning wordt   een retributie geheven, waarvan de opbrengst rechtstreeks en integraal in het   Fonds voor de behandeling van de erkenningsaanvragen en de uitoefening van het   toezicht op de erkenningen met betrekking tot het leefmilieu wordt gestort, ten   laste van elke natuurlijke persoon of rechtspersoon die in het bezit is van een   erkenning als vermeld in artikel 6. Die retributie is op de volgende tijdstippen   verschuldigd :<BR>1° in geval van personen die van rechtswege erkend zijn   conform artikel 32, § 2, eerste lid, 1° tot en met 4° en 6° : een eerste keer   voor het verkrijgen van het erkenningscertificaat en vervolgens vijfjaarlijks,   te rekenen vanaf de datum, vermeld op dit certificaat;<BR>2° in alle andere   gevallen : uiterlijk op 31 december 2014 en vervolgens vijfjaarlijks.<BR><BR>De   bedragen van die retributie worden vastgesteld in bijlage 18, B, die bij dit   besluit is gevoegd.<BR><BR>§ 3. De retributies, vermeld in paragraaf 1 en 2,   gelden niet voor de volgende categorieën van erkenningen :<BR>1° de   opleidingscentra, vermeld in artikel 6, 4° ;<BR>2° de laboratoria, vermeld in   artikel 6, 5°. <BR><BR>§ 4. De retributies, vermeld in paragraaf 1 en 2, gelden   ook niet in de volgende gevallen :<BR>1° bij een uitbreiding van de erkenning   van een milieudeskundige als vermeld in artikel 6, 1°, a) en c), in de   discipline waarvoor de milieudeskundige erkend is;<BR>2° bij een uitbreiding van   de erkenning van een MER-deskundige in de discipline waarvoor de MER-deskundige   erkend is;<BR>3° bij de erkenning als MER-deskundige in de discipline geluid en   trillingen als vermeld in artikel 6, 1°, d), 7);<BR>4° bij een uitbreiding van   de erkenning van een technicus gasvormige brandstof als vermeld in artikel 6,   2°, b), met de module GII.<BR><BR>§ 5. De retributie, vermeld in paragraaf 1, is   niet van toepassing op de personen die van rechtswege erkend zijn conform   artikel 32.<BR><BR>§ 6. In uitzonderlijke gevallen kan het afdelingshoofd van de   bevoegde afdeling of diens plaatsvervanger op basis van een gemotiveerde   aanvraag beslissen een persoon geheel of gedeeltelijk vrij te stellen van een   verschuldigde retributie, vermeld in paragraaf 2.
+§ 1. Voor de behandeling van een aanvraag tot erkenning wordt een retributie geheven, waarvan de opbrengst rechtstreeks en integraal in het Fonds voor de behandeling van de erkenningsaanvragen en de uitoefening van het toezicht op de erkenningen met betrekking tot het leefmilieu wordt gestort, ten laste van elke natuurlijke persoon of rechtspersoon die een aanvraag tot erkenning als vermeld in artikel 6, indient.<br>
+<br>
+De bedragen van die retributie worden vastgesteld in bijlage 18, A, die bij dit besluit is gevoegd.<br>
+<br>
+§ 2. Voor de uitoefening van het toezicht op de erkenning wordt een retributie geheven, waarvan de opbrengst rechtstreeks en integraal in het Fonds voor de behandeling van de erkenningsaanvragen en de uitoefening van het toezicht op de erkenningen met betrekking tot het leefmilieu wordt gestort, ten laste van elke natuurlijke persoon of rechtspersoon die in het bezit is van een erkenning als vermeld in artikel 6. Die retributie is op de volgende tijdstippen verschuldigd :<br>
+1° in geval van personen die van rechtswege erkend zijn conform artikel 32, § 2, eerste lid, 1° tot en met 4°, 6° en 7°, of van personen die met toepassing van artikel 32, § 1, op basis van een gelijkwaardige titel van rechtswege erkend worden als technicus als vermeld in artikel 6, 2° : een eerste keer voor het verkrijgen van het erkenningscertificaat en vervolgens vijfjaarlijks, te rekenen vanaf de datum, vermeld op het certificaat, in voorkomend geval bij het volgen van de bijscholing of bij de deelname aan het actualisatie-examen;<br>
+2° in geval van personen die van rechtswege erkend zijn conform artikel 32, § 2, eerste lid, 8° tot en met 11° : een eerste keer voor het verkrijgen van het erkenningscertificaat en vervolgens uiterlijk op 31 december 2019 en vervolgens vijfjaarlijks;<br>
+3° in alle andere gevallen, dan de gevallen, vermeld in punt 1° en 2° : uiterlijk op 31 december 2014 en vervolgens vijfjaarlijks.<br>
+<br>
+De bedragen van die retributie worden vastgesteld in bijlage 18, B, die bij dit besluit is gevoegd.<br>
+<br>
+§ 3. De retributies, vermeld in paragraaf 1 en 2, gelden niet voor de volgende categorieën van erkenningen :<br>
+1° de opleidingscentra, vermeld in artikel 6, 4° ;<br>
+2° de laboratoria, vermeld in artikel 6, 5°.<br>
+3° de keuringsinstellingen, vermeld in artikel 6, 8°.<br>
+<br>
+§ 4. De retributies, vermeld in paragraaf 1 en 2, gelden ook niet in de volgende gevallen :<br>
+1° bij een uitbreiding van de erkenning van een milieudeskundige als vermeld in artikel 6, 1°, a) en c), in de discipline waarvoor de milieudeskundige erkend is;<br>
+2° bij een uitbreiding van de erkenning van een MER-deskundige in de discipline waarvoor de MER-deskundige erkend is;<br>
+3° bij de erkenning als MER-deskundige in de discipline geluid en trillingen als vermeld in artikel 6, 1°, d), 7);<br>
+4° bij een uitbreiding van de erkenning van een technicus gasvormige brandstof als vermeld in artikel 6, 2°, b), met de module GII.<br>
+5° bij een uitbreiding van de erkenning van een koeltechnicus als vermeld in artikel 6, 2°, e), met een andere categorie.<br>
+<br>
+§ 5. De retributie, vermeld in paragraaf 1, is niet van toepassing op de personen die van rechtswege erkend zijn conform artikel 32.<br>
+<br>
+§ 6. In uitzonderlijke gevallen kan het afdelingshoofd van de bevoegde afdeling of diens plaatsvervanger op basis van een gemotiveerde aanvraag beslissen een persoon geheel of gedeeltelijk vrij te stellen van een verschuldigde retributie, vermeld in paragraaf 2.
 
 ### ART. 54/2.
 
@@ -437,7 +1460,26 @@ Het erkende boorbedrijf, vermeld in artikel 6, 7° :<BR>1° beschikt over de   n
 
 ### ART. 55.
 
-§ 1. De erkenning vervalt van rechtswege op de dag dat de erkenninghouder   aan de bevoegde afdeling de stopzetting van het gebruik van de erkenning   meedeelt.<BR><BR>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: auto auto 0pt; TEXT-AUTOSPACE: ; mso-add-space: auto; mso-layout-grid-align: none"   class=MsoNormalCxSpFirst>§1/1. De erkenning als laboratorium als vermeld in artikel 6, 5°, a),   voor een deeldomein van een pakket vervalt van rechtswege als het deeldomein   niet meer vastgelegd is door de minister.<BR><BR>§ 2. De erkenning van   een airco-energiedeskundige als vermeld in artikel 6, 1°, f), of een technicus   als vermeld in artikel 6, 2°, vervalt ook in een van de volgende gevallen   :<BR>1° als hij de bijscholing niet heeft gevolgd;<BR>2° als de erkende persoon   niet tijdig slaagt voor de proef inzake de bijscholing.<BR>In dat geval moet,   voor de erkenning opnieuw kan worden verleend, de airco-energiedeskundige of de   technicus de bijscholing volgen en slagen voor het bijhorende examen, vermeld in   artikel 39/1, eerste lid, 6°, respectievelijk artikel 40, eerste lid,   3°.&nbsp;<BR><BR>§ 2/1. De erkenning van een deskundige als vermeld in artikel   6, 1°, c), d) of e), of een milieucoördinator als vermeld in artikel 6, 3°, a),   vervalt ook als hij gedurende twee opeenvolgende kalenderjaren het totale aantal   te volgen uren van de bijscholing niet gevolgd heeft.<BR><BR>In dat geval moet   hij, voor de erkenning opnieuw kan worden verleend, het resterende aantal nog te   volgen uren van de bijscholing volgen.<BR><BR>Met behoud van de toepassing van   hoofdstuk 9 en 13 van dit besluit zijn de bijzondere erkenningsvoorwaarden,   vermeld in artikel 18, § 1, 2°, of § 2, 2°, niet van toepassing voor   milieucoördinatoren die erkend zijn op basis van een aanvraag die is ingediend   voor 1 januari 2016, en die opnieuw een erkenning willen verkrijgen nadat hun   erkenning van rechtswege is vervallen.<BR><BR>Met behoud van de toepassing van   hoofdstuk 9 en 13 van dit besluit zijn de bijzondere erkenningsvoorwaarden,   vermeld in artikel 18, § 1, 3°, of § 2, 3°, niet van toepassing voor   milieucoördinatoren die erkend zijn op basis van een aanvraag die is ingediend   voor 1 januari 2000, en die opnieuw een erkenning willen verkrijgen nadat hun   erkenning van rechtswege is vervallen. § 3. In afwijking van paragraaf 2 vervalt   de erkenning niet van rechtswege als de bevoegde afdeling beslist, op basis van   de door de erkende persoon voor te leggen bewijzen, dat hij om redenen van   overmacht niet in staat was de bijscholing te volgen of de proef af te leggen.   Als de bevoegde afdeling tot die beslissing komt, zal ze de erkende persoon een   nieuwe termijn opleggen waarbinnen die de bijscholing moet volgen of met gunstig   gevolg de proef moet afleggen, opdat zijn erkenning niet van rechtswege zou   vervallen.<BR><BR>§ 4. De bevoegde&nbsp;afdeling brengt de persoon op de hoogte   van het verval van rechtswege van zijn erkenning.<BR><BR></P>
+§ 1. De erkenning vervalt van rechtswege op de dag dat de erkenninghouder aan de bevoegde afdeling de stopzetting van het gebruik van de erkenning meedeelt.<br>
+&nbsp;
+<p style="text-align: justify;">§1/1. De erkenning als laboratorium als vermeld in artikel 6, 5°, a), voor een deeldomein van een pakket vervalt van rechtswege als het deeldomein niet meer vastgelegd is door de minister.<br>
+<br>
+§ 2. De erkenning van een airco-energiedeskundige als vermeld in artikel 6, 1°, f), of een technicus als&nbsp;vermeld in artikel 6, 2°, a) tot en met d), vervalt ook in een van de volgende gevallen :<br>
+1° als hij de bijscholing niet heeft gevolgd;<br>
+2° als de erkende persoon niet tijdig slaagt voor de proef inzake de bijscholing.<br>
+In dat geval moet, voor de erkenning opnieuw kan worden verleend, de airco-energiedeskundige of de technicus de bijscholing volgen en slagen voor het bijhorende examen, vermeld in artikel 39/1, eerste lid, 6°, respectievelijk artikel 40, eerste lid, 3°.&nbsp;<br>
+<br>
+§ 2/1. De erkenning van een deskundige als vermeld in artikel 6, 1°, c), d) of e), of een milieucoördinator als vermeld in artikel 6, 3°, a), vervalt ook als hij gedurende twee opeenvolgende kalenderjaren het totale aantal te volgen uren van de bijscholing niet gevolgd heeft.<br>
+<br>
+In dat geval moet hij, voor de erkenning opnieuw kan worden verleend, het resterende aantal nog te volgen uren van de bijscholing volgen.<br>
+<br>
+Met behoud van de toepassing van hoofdstuk 9 en 13 van dit besluit zijn de bijzondere erkenningsvoorwaarden, vermeld in artikel 18, § 1, 2°, of § 2, 2°, niet van toepassing voor milieucoördinatoren die erkend zijn op basis van een aanvraag die is ingediend voor 1 januari 2016, en die opnieuw een erkenning willen verkrijgen nadat hun erkenning van rechtswege is vervallen.<br>
+<br>
+Met behoud van de toepassing van hoofdstuk 9 en 13 van dit besluit zijn de bijzondere erkenningsvoorwaarden, vermeld in artikel 18, § 1, 3°, of § 2, 3°, niet van toepassing voor milieucoördinatoren die erkend zijn op basis van een aanvraag die is ingediend voor 1 januari 2000, en die opnieuw een erkenning willen verkrijgen nadat hun erkenning van rechtswege is vervallen.<br>
+<br>
+§ 3. In afwijking van paragraaf 2 tot en met 2/1 vervalt de erkenning niet van rechtswege als de bevoegde afdeling beslist, op basis van de door de erkende persoon voor te leggen bewijzen, dat hij om redenen van overmacht niet in staat was de bijscholing te volgen of de proef af te leggen. Als de bevoegde afdeling tot die beslissing komt, zal ze de erkende persoon een nieuwe termijn opleggen waarbinnen die de bijscholing moet volgen of met gunstig gevolg de proef moet afleggen, opdat zijn erkenning niet van rechtswege zou vervallen.<br>
+<br>
+§ 4. De bevoegde&nbsp;afdeling brengt de persoon op de hoogte van het verval van rechtswege van zijn erkenning.</p>
 
 ## HOOFDSTUK 11 Openbaarheid van informatie
 
@@ -463,13 +1505,32 @@ Voor dit besluit worden het toezicht en de bestuurlijke handhaving uitgeoefend e
 
 ### ART. 58/1.
 
-§ 1. De afdeling, bevoegd voor erkenningen, kan een centraal stooktoestel   dat door een erkende technicus gekeurd is vóór de eerste ingebruikname,   onderhouden is of aan een verwarmingsaudit onderworpen is als vermeld in   het besluit inzake het onderhoud en nazicht van centrale stooktoestellen, op   ieder moment onderwerpen aan een controle door een keuringsinstelling die   aangewezen is door de afdeling, bevoegd voor erkenningen.<BR><BR>Een   willekeurige selectie van ten minste een statistisch relevant percentage van   alle attesten van de onderhoudsbeurten en verwarmingsauditrapporten die   jaarlijks worden verstrekt, wordt aan een controle onderworpen.<BR><BR>§ 2. De   afdeling, bevoegd voor erkenningen, kan de keuringen, vermeld in artikel 39/1,   eerste lid, 2°, of de keuringsverslagen, vermeld in artikel 39/1, eerste lid,   3°, op ieder moment onderwerpen aan een controle door een keuringsinstelling die   aangewezen is door de afdeling, bevoegd voor erkenningen.<BR><BR>Een   willekeurige selectie van ten minste een statistisch relevant percentage van   alle keuringsverslagen die jaarlijks worden verstrekt, wordt aan een controle   onderworpen.<BR><BR>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: auto auto 0pt; TEXT-AUTOSPACE: ; mso-add-space: auto; mso-layout-grid-align: none"   class=MsoNormalCxSpFirst>§3. De afdeling, bevoegd voor erkenningen, kan een stookolietank die   door een erkende stookolietechnicus gecontroleerd, onderhouden of buiten gebruik   gesteld is als vermeld in afdeling 5.17.2, 5.17.3, 6.5.4 en 6.5.5 van titel II   van het VLAREM, op ieder moment onderwerpen aan een controle door een   keuringsinstelling die aangewezen is door de afdeling, bevoegd voor   erkenningen.</P>
+§ 1. De afdeling, bevoegd voor erkenningen, kan een centraal stooktoestel dat door een erkende technicus gekeurd is vóór de eerste ingebruikname, onderhouden is of aan een verwarmingsaudit onderworpen is als vermeld in het besluit inzake het onderhoud en nazicht van centrale stooktoestellen, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de afdeling, bevoegd voor erkenningen.<br>
+<br>
+Een willekeurige selectie van ten minste een statistisch relevant percentage van alle attesten van de onderhoudsbeurten en verwarmingsauditrapporten die jaarlijks worden verstrekt, wordt aan een controle onderworpen.<br>
+<br>
+§ 2. De afdeling, bevoegd voor erkenningen, kan de keuringen, vermeld in artikel 39/1, eerste lid, 2°, of de keuringsverslagen, vermeld in artikel 39/1, eerste lid, 3°, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de afdeling, bevoegd voor erkenningen.<br>
+<br>
+Een willekeurige selectie van ten minste een statistisch relevant percentage van alle keuringsverslagen die jaarlijks worden verstrekt, wordt aan een controle onderworpen.<br>
+&nbsp;
+<p style="text-align: justify;">§3. De afdeling, bevoegd voor erkenningen, kan een stookolietank die door een erkende stookolietechnicus gecontroleerd, onderhouden of buiten gebruik gesteld is als vermeld in afdeling 5.17.2, 5.17.3, 6.5.4 en 6.5.5 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de afdeling, bevoegd voor erkenningen.<br>
+<br>
+§ 4. De afdeling, bevoegd voor erkenningen, kan een koelinstallatie die door een erkende koeltechnicus of een erkend koeltechnisch bedrijf geïnstalleerd, onderhouden, gerepareerd of buiten dienst gesteld werd, die door een erkende koeltechnicus gecontroleerd werd op lekkage of waaruit gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden teruggewonnen door een erkende koeltechnicus als vermeld in artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, of artikel 6.8.1.1 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de afdeling, bevoegd voor erkenningen. Bovendien kan de afdeling, bevoegd voor erkenningen, het gebruik van de erkenning als koeltechnicus of als koeltechnisch bedrijf onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de afdeling, bevoegd voor erkenningen.</p>
 
 ## [HOOFDSTUK 13/2 Keuringsinstelling (ing. BVR 1 maart 2013, art. 133, I: 3 mei 2013)]
 
 ### ART. 58/2.
 
-Om aangewezen te worden als keuringsinstelling, moet een instelling aan de   volgende voorwaarden voldoen :<BR>1° een rechtspersoonlijkheid zijn;<BR>2° een   of meer keurders aanwijzen die aan de volgende voorwaarden voldoen :<BR>a) in   geval van een keuringsinstelling als vermeld in artikel 58/1, § 1 : een   erkenning als technicus vloeibare brandstof, gasvormige brandstof of   verwarmingsaudit als vermeld in artikel 32, § 2, eerste lid, 1°, 2°, en 3°,   bezitten en beschikken over minstens drie jaar praktijkervaring in de   verwarmingssector;<BR>b) in geval van een keuringsinstelling als vermeld in   artikel 58/1, § 2 : een erkenning als airco-energiedeskundige als vermeld in   artikel 32, § 2, eerste lid, 6°, bezitten;<BR>c) in geval van een keuringsinstelling als vermeld in artikel 58/1, §3:   een erkenning als stookolietechnicus als vermeld in artikel 32, §2, eerste lid,   4°, of een erkenning als milieudeskundige in de discipline houders voor gassen   of gevaarlijke stoffen als vermeld in artikel 6, 1°, a), bezitten;<BR>3°   in geval van een keuringsinstelling als vermeld in artikel 58/1, § 1, voor de   activiteiten, vermeld in artikel 58/1, § 1, eerste lid, of in geval van een   keuringsinstelling als vermeld in artikel 58/1, § 2, voor de activiteiten,   vermeld in artikel 58/1, § 2, eerste lid, of in geval van een keuringsinstelling als vermeld in artikel 58/1, §3,   voor de activiteiten, vermeld in artikel 58/1, §3, geaccrediteerd zijn   als keuringsinstelling van het type A op basis van de criteria van de norm   ISO/IEC 17020, hetzij een bewijs leveren dat een aanvraag om die accreditatie te   verkrijgen, aanvaard is door BELAC of een gelijkwaardig   accreditatiesysteem.<BR><BR>De afdeling, bevoegd voor erkenningen, wijst een   keuringsinstelling aan voor een periode van maximaal vier jaar.
+Om aangewezen te worden als keuringsinstelling, moet een instelling aan de volgende voorwaarden voldoen :<br>
+1° een rechtspersoon zijn;<br>
+2° een of meer keurders aanwijzen die aan de volgende voorwaarden voldoen :<br>
+a) in geval van een keuringsinstelling als vermeld in artikel 58/1, § 1 : een erkenning als technicus vloeibare brandstof, gasvormige brandstof of verwarmingsaudit als vermeld in artikel 32, § 2, eerste lid, 1°, 2°, en 3°, bezitten en beschikken over minstens drie jaar praktijkervaring in de verwarmingssector;<br>
+b) in geval van een keuringsinstelling als vermeld in artikel 58/1, § 2 : een erkenning als airco-energiedeskundige als vermeld in artikel 32, § 2, eerste lid, 6°, bezitten;<br>
+c) in geval van een keuringsinstelling als vermeld in artikel 58/1, §3: een erkenning als stookolietechnicus als vermeld in artikel 32, §2, eerste lid, 4°, of een erkenning als milieudeskundige in de discipline houders voor gassen of gevaarlijke stoffen als vermeld in artikel 6, 1°, a), bezitten;<br>
+d) in geval van een keuringsinstelling als vermeld in artikel 58/1, § 4 : een erkenning als koeltechnicus als vermeld in artikel 32, § 2, eerste lid, 7°, van categorie I bezitten en beschikken over minstens drie jaar praktijkervaring in de koelsector;<br>
+3° in geval van een keuringsinstelling als vermeld in artikel 58/1, § 1, voor de activiteiten, vermeld in artikel 58/1, § 1, eerste lid, of in geval van een keuringsinstelling als vermeld in artikel 58/1, § 2, voor de activiteiten, vermeld in artikel 58/1, § 2, eerste lid, of in geval van een keuringsinstelling als vermeld in artikel 58/1, §3, voor de activiteiten, vermeld in artikel 58/1, §3, of in geval van een keuringsinstelling als vermeld in artikel 58/1, § 4, voor de activiteiten, vermeld in artikel 58/1, § 4, geaccrediteerd zijn als keuringsinstelling van het type A op basis van de criteria van de norm ISO/IEC 17020, hetzij een bewijs leveren dat een aanvraag om die accreditatie te verkrijgen, aanvaard is door BELAC of een gelijkwaardig accreditatiesysteem.<br>
+<br>
+De afdeling, bevoegd voor erkenningen, wijst een keuringsinstelling aan voor een periode van maximaal vier jaar.
 
 ## [HOOFDSTUK 13/3 Registratie van een monsternemer (ing. BVR 3 mei 2019, art. 268, I: 1 oktober 2019)]
 
@@ -851,7 +1912,7 @@ Het programma van de bijscholing vloeibare brandstof bestaat uit een   herhaling
 
 ### Tekst
 
-De technische opleiding gasvormige brandstof, module G2, omvat 28 uur met   betrekking tot gastoestellen type C, waarbij het totale aantal te besteden   lesuren en, in voorkomend geval, het aantal te besteden lesuren per   programmaonderdeel als richtwaarden gelden. Het programma bestaat uit de   volgende onderdelen (niet limitatief) : <BR>1° toegepaste elektriciteit (8 uur)   :<BR>2° technologie (14 uur) :<BR>a) bouw en werking van gasunits;<BR>b)   branderautomaten;<BR>c) gas- en luchtdrukmetingen;<BR>d) verhoudingsregelaar   gas/lucht;<BR>3° onderhoud, nazicht en ontstoring van het gastoestel (5 uur)   :<BR>a) onderhoud en nazicht van de verschillende onderdelen;<BR>b) opsporen en   verhelpen van storingen;<BR>c) controle van het toestel na onderhoud en   ontstoring;<BR>d) uitvoeren van de controleproeven;<BR>e) het meten van de   verbranding;<BR>f) het invullen van de verschillende attesten;<BR>4°   reglementering (1 uur) :<BR>a) rol van de erkende technicus gasvormige brandstof   niveau G2.<BR><BR>
+...
 
 ## Onderafdeling 1 Inleiding
 
@@ -869,7 +1930,36 @@ De technische opleiding gasvormige brandstof, module G2, omvat 28 uur met   betr
 
 ### Tekst
 
-De technische opleiding gasvormige brandstof, module GII, omvat 56 uur met   betrekking tot gasketels met ventilatorbrander, waarbij het totale aantal te   besteden lesuren en, in voorkomend geval, het aantal te besteden lesuren als   programmaonderdeel als richtwaarden gelden. Het programma bestaat uit de   volgende onderdelen (niet limitatief) :<BR>1° technologie (14 uur) :<BR>a)   aangeblazen gasbranders : bouw, werking;<BR>b) gaskleppen;<BR>c)   eentrapsbranders, tweetrapsbranders, modulerende branders;<BR>d) servo   motoren;<BR>2° branderautomaten en toegepaste elektriciteit (14 uur) :<BR>a)   ionisatiebeveiliging;<BR>b) UV-beveiliging;<BR>c) bescherming van de   fasen;<BR>d) aarding;<BR>3° gasverbranding (8 uur) :<BR>a) techniek van de   gasverbranding;<BR>b) low NOx-techniek;<BR>c) CO-vorming;<BR>4° onderhoud,   nazicht en ontstoring van het gastoestel (19 uur) :<BR>a) onderhoud en nazicht   van de verschillende onderdelen;<BR>b) opsporen en verhelpen van   storingen;<BR>c) afstellen van de brander;<BR>d) bepaling van het   gasdebiet;<BR>e) meten van de druk;<BR>f) controle van het toestel na onderhoud   en ontstoring;<BR>g) controle van de veiligheden;<BR>h) uitvoeren van de   controleproeven;<BR>i) bepaling van het verbrandingsrendement;<BR>j) meten van   de trek;<BR>k) meten van de luchttoevoer;<BR>l) invullen van de verschillende   attesten;<BR>5° reglementering (1 uur) :<BR>a) rol van de erkende technicus   gasvormige brandstof niveau GII.<BR>
+De technische opleiding gasvormige brandstof, module GII, omvat 56 uur met betrekking tot gasketels met ventilatorbrander, waarbij het totale aantal te besteden lesuren en, in voorkomend geval, het aantal te besteden lesuren als programmaonderdeel als richtwaarden gelden. Het programma bestaat uit de volgende onderdelen (niet limitatief) :<br>
+1° technologie (14 uur) :<br>
+a) aangeblazen gasbranders : bouw, werking;<br>
+b) gaskleppen;<br>
+c) eentrapsbranders, tweetrapsbranders, modulerende branders;<br>
+d) servo motoren;<br>
+2° branderautomaten en toegepaste elektriciteit (14 uur) :<br>
+a) ionisatiebeveiliging;<br>
+b) UV-beveiliging;<br>
+c) bescherming van de fasen;<br>
+d) aarding;<br>
+3° gasverbranding (8 uur) :<br>
+a) techniek van de gasverbranding;<br>
+b) low NOx-techniek;<br>
+c) CO-vorming;<br>
+4° onderhoud, nazicht en ontstoring van het gastoestel (19 uur) :<br>
+a) onderhoud en nazicht van de verschillende onderdelen;<br>
+b) opsporen en verhelpen van storingen;<br>
+c) afstellen van de brander;<br>
+d) bepaling van het gasdebiet;<br>
+e) meten van de druk;<br>
+f) controle van het toestel na onderhoud en ontstoring;<br>
+g) controle van de veiligheden;<br>
+h) uitvoeren van de controleproeven;<br>
+i) bepaling van het verbrandingsrendement;<br>
+j) meten van de trek;<br>
+k) meten van de luchttoevoer;<br>
+l) invullen van de verschillende attesten;<br>
+5° reglementering (1 uur) :<br>
+a) rol van de erkende technicus gasvormige brandstof niveau GII.
 
 ## Onderafdeling 5 Programma van de opleiding van de Vlaamse wetgeving en de daarin opgenomen terminologie inzake gasvormige brandstof
 
@@ -881,7 +1971,7 @@ Het programma van de opleiding van de Vlaamse wetgeving en de daarin   opgenomen
 
 ### Tekst
 
-Het programma van de bijscholing bestaat uit een herhaling van de   belangrijkste aspecten van de verwarming met gasvormige brandstof : de   eigenschappen van de gassen, de verbranding van gas, het onderhoud en het   nazicht van de centrale stooktoestellen, gevoed met gasvormige brandstof, het   uitvoeren van de controleproeven met betrekking tot de goede staat van werking,   de meetprocedures en de meetapparatuur, de vigerende wetgeving, de rol van een   erkende technicus gasvormige brandstof en het invullen van de verschillende   attesten. Verder wordt ingegaan op de nieuwste technologische ontwikkelingen op   het vlak van de stooktoestellen, gevoed met gasvormige brandstof, de regelingen   en de meetapparatuur. Daarnaast wordt informatie verstrekt over bestaande   steunmaatregelen door de overheid of derden met het oog op de vervanging van   oudere, slechtwerkende toestellen en energieverspillende installaties door   energiezuinigere en CO2-vriendelijkere verwarming. Het programma van de bijscholing omvat voor de erkende technicus   gasvormige brandstof niveau GI minstens 10 uur opleiding, en voor de erkende   technicus niveau GII minstens 8 uur opleiding, gevolgd door de   proeven.<BR>
+Het programma van de bijscholing bestaat uit een herhaling van de belangrijkste aspecten van de verwarming met gasvormige brandstof : de eigenschappen van de gassen, de verbranding van gas, het onderhoud en het nazicht van de centrale stooktoestellen, gevoed met gasvormige brandstof, het uitvoeren van de controleproeven met betrekking tot de goede staat van werking, de meetprocedures en de meetapparatuur, de vigerende wetgeving, de rol van een erkende technicus gasvormige brandstof en het invullen van de verschillende attesten. Verder wordt ingegaan op de nieuwste technologische ontwikkelingen op het vlak van centrale stooktoestellen, gevoed met gasvormige brandstof, de regelingen en de meetapparatuur. Daarnaast wordt informatie verstrekt over bestaande steunmaatregelen door de overheid of derden met het oog op de vervanging van oudere, slechtwerkende toestellen en energieverspillende installaties door energiezuinigere en CO2-vriendelijkere verwarming. Het programma van de bijscholing omvat voor de erkende technicus gasvormige brandstof niveau GI minstens&nbsp;6 uur opleiding, gevolgd door proeven, en voor de erkende technicus niveau GI+GII minstens 8 uur opleiding, gevolgd door de proeven.
 
 ## Afdeling 3 Uitbreidingsmodule verwarmingsaudit (installaties met totaal geïnstalleerd nominaal vermogen kleiner of gelijk aan 100 kW)
 
@@ -915,7 +2005,23 @@ De technische opleiding stookolietechnicus omvat minstens 14 uur   theorielessen
 
 ### Tekst
 
-Het programma van de opleiding van de Vlaamse wetgeving en de daarin   opgenomen terminologie inzake stookolietanks omvat minstens 3 uur :<BR>1° de   relevante wetgeving over de bestrijding van de luchtverontreiniging die   veroorzaakt wordt door centrale stooktoestellen, gevoed met vloeibare brandstof,   vermeld in het besluit van de Vlaamse Regering betreffende het onderhoud en het   nazicht van centrale stooktoestellen voor de verwarming van gebouwen of voor de   aanmaak van warm verbruikswater :<BR>a) definitie   waterwingebieden/beschermingszones;<BR>b) particuliere stookolietanks &lt; 5000   liter (hoofdstuk 6.5 van titel II van het VLAREM);<BR>c) ingedeelde eindopslag   van stookolie voor verwarming (hoofdstuk 5.17 van titel II van het VLAREM, voor   wat betreft de toegestane taken voor de stookolietechnicus);<BR>d) toegestane   wijzen van opslag;<BR>e) controle bij de plaatsing;<BR>f) periodieke controles :   wanneer, welke, wat, hoe en door wie;<BR>g) buitengebruikstellen van tanks :   wanneer en hoe;<BR>h) reglementering nieuwe tanks/bestaande tanks   (overgangsbepalingen);<BR>i) rol van de erkende technicus;<BR>j) het   meldingsformulier;<BR>k) het conformiteitsattest (= onderhoudsattest);<BR>l) het   merken van tanks (rood - oranje - groen);<BR>m) domein van de stookolietechnicus   versus dit van de milieudeskundige;<BR>2° de overzichtslijst van de meest   gangbare termen en begrippen met betrekking tot de controle en het onderhoud van   stookolietanks, die de taakuitvoering en de dienstverlening van de technicus aan   de klant ten goede zullen komen.<BR><BR>
+Het programma van de opleiding van de Vlaamse wetgeving en de daarin opgenomen terminologie inzake stookolietanks omvat minstens 3 uur :<br>
+1° de relevante wetgeving over de bestrijding van de luchtverontreiniging die veroorzaakt wordt door centrale stooktoestellen, gevoed met vloeibare brandstof, vermeld in het besluit van de Vlaamse Regering betreffende het onderhoud en het nazicht van centrale stooktoestellen voor de verwarming van gebouwen of voor de aanmaak van warm verbruikswater :<br>
+a) definitie waterwingebieden/beschermingszones;<br>
+b) particuliere stookolietanks &lt; 5000&nbsp;kg (hoofdstuk 6.5 van titel II van het VLAREM);<br>
+c) ingedeelde eindopslag van stookolie voor verwarming (hoofdstuk 5.17 van titel II van het VLAREM, voor wat betreft de toegestane taken voor de stookolietechnicus);<br>
+d) toegestane wijzen van opslag;<br>
+e) controle bij de plaatsing;<br>
+f) periodieke controles : wanneer, welke, wat, hoe en door wie;<br>
+g) buitengebruikstellen van tanks : wanneer en hoe;<br>
+h) reglementering nieuwe tanks/bestaande tanks (overgangsbepalingen);<br>
+i) rol van de erkende technicus;<br>
+j) het meldingsformulier;<br>
+k) het conformiteitsattest (= onderhoudsattest);<br>
+l) het merken van tanks (rood - oranje - groen);<br>
+m) domein van de stookolietechnicus versus dit van de milieudeskundige;<br>
+2° de overzichtslijst van de meest gangbare termen en begrippen met betrekking tot de controle en het onderhoud van stookolietanks, die de taakuitvoering en de dienstverlening van de technicus aan de klant ten goede zullen komen.<br>
+&nbsp;
 
 ## Onderafdeling 3 Programma van de bijscholing inzake de controle en het onderhoud van stookolietanks
 
@@ -1390,7 +2496,810 @@ De overgangscursussen van het tweede niveau naar het eerste niveau zijn zo opgev
 
 ### BIJLAGE 3
 
-<P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">Bijlage 3.   Lijst met pakketten voor de laboratoria, vermeld in artikel 6, 5°, van dit   besluit</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt"><U>1° lijst   met pakketten voor een laboratorium als vermeld in artikel 6, 5°, a):</U></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1   monsternemingen, inclusief conservering, transport en metingen ter plaatse:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1.1   ogenblikkelijke staalname (aan kraan) van water:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1.1 .1   voor chemische analyses</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1.1.2 voor   bacteriologische analyses</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">Pakket W.1.1   is een uitbreiding van pakket W.1.5.1.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1.2   ogenblikkelijke staalname (schepstaal) van water</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1.3 tijds-   en/of debietsgebonden staalname</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1.4   staalname van grondwater (peilbuizen):</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1.4.1 met   ondiepe ( &lt; 30 m) grondwaterstand</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1.4.2 met   diepe ( &#8805; 30 m) grondwaterstand</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">De pakketten   onder W.1.4 zijn telkens een uitbreiding van pakket W.1.5.1 en W.1.5.2.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1.5 meting   ter plaatse van de volgende parameters:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1.5.1   temperatuur</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1.5.2   zuurtegraad en elektrische geleidbaarheid</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1.6 meting   ter plaatse van opgeloste zuurstof</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1. 7   meting ter plaatse van vrije chloor en gebonden chloor</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1.8   controle op vast opgestelde meetapparatuur voor de meting van het debiet</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">Pakket W.1.8   is een uitbreiding van pakket W.1.3.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.1.9   controle op vast opgestelde meetapparatuur voor de meting van de</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">zuurtegraad,   de elektrische geleidbaarheid en de temperatuur</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">Pakket W.1.9   is een uitbreiding van pakket W.1.5.1 en W.1.5.2.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.2.   organoleptische parameters in water, bestemd voor menselijke consumptie:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">kleur,   troebelingsgraad, reuk en smaak</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.3   anorganische fysicochemische parameters:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.3.1   chloride, sulfaat, nitraat, nitriet, totaal orthofosfaat, opgelost fluoride en   ammonium</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.3.2   natrium, calcium, kalium, magnesium en totale hardheid</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.3.3   zuurtegraad en elektrische geleidbaarheid</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.3.6   buffercapaciteit</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.3.7 totaal   anorganisch gebonden fluoride</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.4   metalen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.4.1   standaardreeks: kwik, cadmium, lood, arseen, chroom, nikkel, koper, zink,   antimoon, seleen, mangaan, ijzer en aluminium</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.4.2   aanvullende elementen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.4.2.1   zilver</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.4.2.2   vanadium</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.4.2.3   barium</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.4.2.4   molybdeen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.4.2.5   tin</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.4.2.6   titanium</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.4.2.7   kobalt</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.4.2.8   boor</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5 algemene   verontreinigingsparameters:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.1 BZV,   CZV, Kjeldahlstikstof, bezinkbare stoffen, zwevende stoffen, (totaal) fosfor en   totaal stikstof</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.2   minerale olie met gaschromatografie (met vlamionisatiedetectie)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.3   perchloorethyleenextraheerbare stoffen en perchloorethyleenextraheerbare   apolaire stoffen (infraroodspectrometrische bepaling)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.4   petroleumetherextraheerbare stoffen (gravimetrische bepaling)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.5 TOC   als verschilmeting (TOC = TC-TIC)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.6 TOC   als sommeting (TOC = POC + NPOC)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.7   NPOC</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.8 totaal   cyanide</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.9 vrije   cyanide</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.10   opgelost sulfide en in zuur milieu oplosbaar sulfide</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.11   fenolindex</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.12   chroom VI</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.13   afmeting zwevende stoffen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.14   methyleenblauwactieve stoffen (MBAS)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.15   opgeloste zuurstof</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.16   oxideerbaarheid</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.17   ureum</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.18   bromaat</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.5.19 kleur   van afvalwater</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.6   organische groepsparameters:</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">extraheerbare organische   halogeenverbindingen (EOX), adsorbeerbare organische halogeenverbindingen (AOX)   en purgeerbare organische halogeenverbindingen (POX)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W. 7   specifieke organische stoffen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.7.1   vluchtige organische halogeenverbindingen en monocyclische aromatische   koolwaterstoffen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.7.2 matig   vluchtige organische halogeenverbindingen, uitgezonderd polychloorbifenylen en   organochloorpesticiden</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.7.3   fenolen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.7.5   polychloorbifenylen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.7.6   polycyclische aromatische koolwaterstoffen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.7.7   polychloordibenzodioxines en polychloordibenzofuranen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.7.8   gebromeerde brandvertragers</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.7.9   organofluorverbindingen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W. 7.10   organotinverbindingen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.7.11   organochloorpesticiden</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W. 7. 12   organofosforpesticiden</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W. 7 .13   triazinetype herbiciden</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W. 7.14   uronen (fenylurea), carbamaten en anilides</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W. 7 .15   zure herbiciden</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.7.16   glyfosaat en AMPA</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.7.17   pesticiden, opgenomen in WAC/IV/A/027 of WAC/IV/A/028, die niet behoren tot de   overige pakketten onder W. 7.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W. 7. 19   oppervlakteactieve stoffen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W. 7. 19. 1   kation ische oppervlakteactieve stoffen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.8   bacteriologische parameters:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.8.1 totaal   kiemgetal (22 °C, 37 °C), coliformen, <I   style="mso-bidi-font-style: normal">Escherichia coli</I> en enterokokken</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.8.2   Salmonella</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.8.3 <I   style="mso-bidi-font-style: normal">Legionella pneumophila</I> en <I   style="mso-bidi-font-style: normal">Legionella species</I></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.8.4   Coagulase positieve stafylokokken</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.8.5 <I   style="mso-bidi-font-style: normal">Clostridium perfringens</I></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.8.6 <I   style="mso-bidi-font-style: normal">Pseudomonas aeruginosa</I></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.9   hydrobiologische parameters:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W. 9.1   biotische index</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.9.2   ecotoxiciteit:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.9.2.1   acute toxiciteit voor watervlooien</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.9.2.2   acute toxiciteit voor vissen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.9.2.3   groei-inhibitie voor eencellige algen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.9.2.4   inhibitie van de bioluminescentie in <I   style="mso-bidi-font-style: normal">Vibrio fischeri</I></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.10 andere   analyses:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.10.1   chlorofyl A</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">W.10.2   kwalitatieve karakterisatie van minerale olie met GC-MS</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt"><U>2° lijst   met pakketten voor een laboratorium als vermeld in artikel 6, 5°, b):</U></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.1   monsterneming en analyse met testbuisjes van afgassen (emissie) en   omgevingslucht (immissie) in daartoe geëigende situaties</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.2   emissiemetingen - basispakket: rookgastemperatuur, druk, watergehalte,   gassnelheid, gasdebiet, stofgehalte in een gaskanaal en een continue meting van   zwaveldioxide, stikstofoxide, zuurstof, koolstofdioxide, koolstofmonoxide en   vluchtige organische componenten als totaal organische koolstof</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.3   emissiemetingen - stookinstallaties tot 10 MW: rookgastemperatuur, druk,   watergehalte, gassnelheid, gasdebiet, stofgehalte in een gaskanaal en een   continue meting van zwaveldioxide, stikstofoxide, zuurstof, koolstofdioxide en   koolstofmonoxide</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.4   emissiemetingen - monsterneming en analyse van zware metalen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.4.1   Cd, Tl, As, Sb, Pb, Cr, Co, Cu, Mn, Ni, V, Se, Sn en Hg als totaalgehalte (als   som van stof- en gasvormig) en als gehalte stofvormig</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.4.2   andere metalen, als totaalgehalte (als som van stof- en gasvormig):</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.4.2.1   Be</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.4.2.2   Ti</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.4.2.3   In</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.4.2.4   Mo</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">De   pakketten onder L.4.2 zijn telkens een uitbreiding van pakket L.4.1.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L 4.3 Pt   (gehalte stofvormig)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">Pakket   L.4.3 is een uitbreiding van pakket L.4.1.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.4.4   specifieke metaalverbindingen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.4.4.1   arseenwaterstof</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.4.4.2   Cr(Vl)-verbindingen zoals calciumchromaat</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.4.4.3   Cr(lll)-chromaat, zinkchromaat en strontiumchromaat</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.4.4.4   arseentrioxide en arseenpentoxide</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.4.4.5   arseenzuren en hun zouten</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">De   pakketten onder L.4.4 zijn telkens een uitbreiding van pakket L.4.1.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.5   emissiemetingen - monsterneming en analyse van anorganische stoffen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.5.1   gasvormige anorganische chloor- en fluorverbindingen als HCI en HF</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.5.2   natchemische bepaling van zwaveloxiden SOx</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.5.3   chloor</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.5.4   NH<SUB>3</SUB></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.5.5   waterstofsulfide</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.5.6   broom en zijn damp- of gasvormige verbindingen, uitgedrukt als HBr</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.5.7   cyaanwaterstof</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.5.8   N<SUB>2</SUB>0</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.5.9   bemonstering van stofdeeltjes met specifieke grootte (PM10 en PM2,5)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.5.10   chloorcyaan</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.5.11   fosgeen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.5.12   fosforwaterstof</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.5.13   hydrazine</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.5.14   natchemische bepaling van zwaveltrioxide S0<SUB>3</SUB></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.6.   emissiemetingen - monsterneming en analyse van vluchtige organische stoffen   (VOS) - basispakket VOS: aromatische koolwaterstoffen, paraffinische   koolwaterstoffen, alifatische halogeenkoolwaterstoffen, esters, ketonen,   alcoholen en ethers</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.7.   emissiemetingen - monsterneming en analyse van organische stoffen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L. 7 .1   olefinische koolwaterstoffen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L. 7 .2   glycolethers</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L. 7 .3   chloorbenzenen en chloortoluenen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L. 7.4   methylmethacrylaat</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.7.5   naftaleen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.7.6   dimethylformamide</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L. 7. 7   pinenen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.7.8   N-methylpyrrolidon</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">De   pakketten onder L.7 zijn telkens een uitbreiding van pakket L.6.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.8.   emissiemetingen - monsterneming en analyse van zeer vluchtige organische stoffen   (ZVOS):</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.8.1   ZVOS met uitzondering van methaan, ethyleenoxide en vinylchloride</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.8.2   methaan</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.8.3   ethyleenoxide</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.8.4   vinylchloride</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.9.   emissiemetingen - monsterneming en analyse van weinig vluchtige organische   stoffen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.9.1   dioxines (PCDD's en PCDF's)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.9.2   dioxineachtige PCB's</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.9.3   PCB's</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.9.4   polyaromatische koolwaterstoffen (PAK's)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">De   pakketten onder L.9 zijn telkens een uitbreiding van pakket L.2.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.10.   emissiemetingen - monsterneming en analyse van reactieve organische stoffen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.10.1   formaldehyde</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.10.2   andere aldehydes dan formaldehyde</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.10.3   fenol</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.10.4   alifatische amines</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.10.5   zwavelkoolstof</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.10.6   carbonzuren</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.10. 7   isocyanaten</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.10.8   maleïnezuuranhydride</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.10.9   thio-alcoholen (mercaptanen) en thio-ethers</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.11.   bepaling van niet-geleide emissies:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.11.1   uitvoeren van lekdetectieprogramma's (LDAR) en emissiebepaling</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.11.2   meting van andere diffuse bronnen: te specificeren</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">Pakket   L.11.2 is een uitbreiding van een pakket onder L.4, L.5, L.6, L.7, L.8, L.9,   L.10, L.15 en L.17.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.12.   immissiemetingen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.12.1   de continue meting van zwaveldioxide, stikstofoxiden, koolstofmonoxide, ozon en   zwevend stof met specifieke groottekarakteristiek PM10 en PM2,s</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.12.2   bepaling van neervallend stof</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.12.3   bepaling van de volgende metalen in neervallend stof en zwevend stof: Cd, Tl,   As, Sb, Pb, Cr, Co, Cu, Mn, Ni, V, Se, Sn en Hg</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.12.4   bepaling van gasvormig kwik in omgevingslucht</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.13.   immissiemetingen - monsterneming en analyse van vluchtige en zeer vluchtige   stoffen ((Z)VOS) in omgevingslucht:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L. 13. 1   benzeen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.13.2   vinylchloride</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.14.   immissiemetingen - monsterneming en analyse van organische stoffen en andere   stoffen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.14.1   vluchtige polycyclische aromatische koolwaterstoffen (PAK's) naftaleen,   acenafteen, acenaftyleen, fenantheen, antraceen en fluoreen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.14.2   niet-vluchtige polycyclische aromatische koolwaterstoffen (PAK's):</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">fluorantheen, pyreen,   benzo(a)antraceen, chryseen, benzo(b)fluorantheen, benzo(k)fluorantheen,   benzo(a)pyreen,</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">benzo(g,h,i)peryleen,   indeno(1,2,3,c,d)pyreen en dibenzo( a, h )anthraceen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.14.3   dioxines (PCDD's en PCDF's):</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.14.3.1   gesuspendeerd in omgevingslucht of als gas</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.14.3.2   als depositie in neerslagkruik</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.14.4   PCB's</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.14.5   dioxineachtige PCB's</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.14.6   BTEX: veldmeting met automatische monitoren</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.14.7   HFenHCI</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.14.8   S0<SUB>2</SUB>, N0<SUB>2</SUB>, O<SUB>3</SUB> en BTEX door middel van passieve   samplers en</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">analyse</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.14.9   NH<SUB>3</SUB></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.15   bepaling van de belasting aan asbestvezels en andere vezels in omgevingslucht   met behulp van elektronenmicroscopie</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.16 keuring   en kalibratie van vast opgestelde apparatuur voor de volgende metingen en   bemonsteringen in emissies:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.1   anorganische gasvormige componenten:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.1.1   O<SUB>2</SUB></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.1.2   CO</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.1.3   NO<SUB>x</SUB></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.1.4   S0<SUB>2</SUB></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.1.5   HCl</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.1.6   HF</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.1.7   NH<SUB>3</SUB></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.1.8   N<SUB>2</SUB>O</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.1.9   Hg</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.1.10   Cl<SUB>2</SUB></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.2   stof</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.3   organische gasvormige componenten:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.3.1   TOC via FID</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.3.2   fosgeen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">L.16.4   langetermijnbemonstering van dioxines en PCB's</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">De   pakketten onder L.16 zijn telkens een uitbreiding van pakket L.2 en van een   pakket dat de desbetreffende parameter bevat.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.17 nemen   van geurmonsters en uitvoeren van geuranalyses door middel van olfactometrie</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.18   bepaling van geurverspreiding door middel van snuffelploegmetingen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">L.19 meting   van het NH3-verwijderingsrendement van gaswassers, opgenomen in de lijst van   ammoniakemissiearme stalsystemen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt"><U>3° pakket   voor een laboratorium als vermeld in artikel 6, 5°, c): uitvoering van de   volgende monsternemingen en bodemanalyses:</U></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">a)   monsterneming en analyse van het organische koolstofgehalte(% OC) van de</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">bodem</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">b)   monsterneming en analyse van de zuurtegraad (pH) van de bodem</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">c) bepaling   van de bodemtextuur op een van de volgende manieren:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">1)   volgens de handmatige bepaling;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">2)   volgens de granulometrische bepaling;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">3)   volgens de handmatige en de granulometrische bepaling.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">4° lijst met   pakketten voor een laboratorium als vermeld in artikel 6, 5°, d):</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">M-B1. pakket   bodem-stikstof, voor het nemen van bodemmonsters en het uitvoeren</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">van de   volgende analyses op de bodem:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">a)   bepaling van het vochtgehalte;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">b)   bepaling van nitraatstikstof;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">c)   bepaling van ammoniumstikstof.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">M-B2. pakket   snel vrijkomende organische stikstof, voor het nemen van monsters,</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">het   uitvoeren van incubatieproeven en het uitvoeren van de volgende analyses   voor</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">het bepalen   van de stikstofmineralisatie uit organische meststoffen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">a)   bepaling van het vochtgehalte van de bodem;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">b)   ...;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">c)   bepaling van ammoniumstikstof in de bodem;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">d)   bepaling van nitraatstikstof in de bodem.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">Dit pakket   is een uitbreiding van pakket M-B1.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">M-B3. pakket   bodem-fosfor, voor het nemen van bodemmonsters en het uitvoeren van de volgende   analyses op de bodem:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">a)   bepaling van oxalaatextraheerbaar fosfaatgehalte (Pox);</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">b)   bepaling van fosfaatbindend vermogen;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">c)   bepaling van fosfaat in grond, extraheerbaar met een   ammoniumlactaatazijnzuurbuffer (P-AL).</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">M-B4. pakket   bodem-overige parameters, voor het nemen van bodemmonsters en het uitvoeren van   de volgende analyses op de bodem:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">a)   bepaling van het organische koolstofgehalte.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">M-M1. pakket   meststoffen-bemonstering voor anorganische parameters, voor het nemen van   monsters van meststoffen met het oog op de analyse van anorganische   parameters.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">M-M2. pakket   meststoffen-anorganische parameters, voor het uitvoeren van de volgende   anorganische analyses op meststoffen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">a)   bepaling van drogestofgehalte;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">b)   bepaling van totale fosfor;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">c)   bepaling van ammoniumstikstof;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">d)   bepaling van totale stikstof.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">M-M3. pakket   meststoffen-bemonstering voor microbiologische parameters, voor het nemen van   monsters van meststoffen met het oog op het uitvoeren van microbiologische   analyses.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">M-M4. pakket   meststoffen-microbiologische parameters, voor het uitvoeren van de volgende   microbiologische analyses op meststoffen:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">a)   detectie van <I style="mso-bidi-font-style: normal">Escherichia coli;</I></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">b)   detectie van <I style="mso-bidi-font-style: normal">Enterococcacea;</I></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">c)   detectie van <I style="mso-bidi-font-style: normal">Salmonella;</I></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">d)   detectie van <I style="mso-bidi-font-style: normal">Clostridium   perfringens.</I></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">M-D1. pakket   diervoeders, voor het nemen van monsters van diervoeders en het</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">uitvoeren   van de volgende analyses op diervoeders:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">a)   bepaling van drogestofgehalte;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">b)   bepaling van totale fosfor;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 1cm">c)   bepaling van ruw eiwit.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt"><U>5° lijst   met pakketten voor een laboratorium als vermeld in artikel 6, 5°, e):</U></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">MA   monsternemingen van afvalstoffen en andere materialen en monstervoorbehandeling   ter plaatse</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">MA.1 bagger-   en ruimingsspecie</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">MA.2 gebruik   als meststoflbodemverbeterend middel</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">MA.3 gebruik   als bouwstof-vaste stoffen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">MA.4   verbranden</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">MA.5   storten</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">MA.6   eindproducten bij de verwerking van dierlijk afval</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">MA.7   asbest</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">MA. 7 .1   asbest in hopen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">MA.7.2   asbest in lagen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">A.2 gebruik   als meststof/bodemverbeterend middel</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">A.2.1   gebruik als meststof/bodemverbeterend middel - anorganische parameters:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">zuurtegraad,   droogrest/vocht, organische stof, totale stikstof, difosforpentoxide,   nitraatstikstof en ammoniakale stikstof, geleidbaarheid</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">metalen   (totaalconcentratie):</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">arseen,   cadmium, chroom, koper, kwik, lood, nikkel en zink</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">A.2.2   gebruik als meststof/bodemverbeterend middel - organische parameters:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">BTEXS:   benzeen, tolueen, ethylbenzeen, som xylenen en styreen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">alkanen:   hexaan, heptaan en octaan</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">chloorkoolwaterstoffen:   monochloorbenzeen, 1,2-dichloorbenzeen, 1,3-dichloorbenzeen,   1,4-dichloorbenzeen, som trichloorbenzenen, som tetrachloorbenzenen,   pentachloorbenzeen en hexachloorbenzeen, 1,2-dichloorethaan, dichloormethaan,   trichloormethaan, trich looretheen, tetrachloormethaan, tetrach looretheen,   vinylchloride, 1, 1, 1-trichloorethaan, 1, 1,2-trichloorethaan, 1,   1-dichloorethaan, cis+trans-1,2-dichlooretheen</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">polycyclische aromatische   koolwaterstoffen (PAK): naftaleen, benzo(a)pyreen, fenantreen, fluoranteen,   benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen,   benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">minerale   olie</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">polychloorbifenylen (PCB): PCB   28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">A.2.3   gebruik als meststof/bodemverbeterend middel - specifieke parameters:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">steentjes,   groter dan 5 mm</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">graad van   verontreiniging (glas, metaal, kunststoffen) groter dan 2 mm</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">kiem   krachtige zaden</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">fytotoxiciteit</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">rijpheidsgraad</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">stabiliteit   met gesloten respirometer</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">A.3 gebruik   als bouwstof</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">A.3.1   gebruik als niet-vormgegeven bouwstof (inclusief matrix waterbodem):</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">droog   rest</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">metalen   (totaalconcentratie en uitloogbare fractie via de kolomtest): arseen, cadmium,   chroom, koper, kwik, lood, nikkel en zink</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">BTEXS:   benzeen, tolueen, ethylbenzeen, som xylenen en styreen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">alkanen:   hexaan, heptaan en octaan</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">polycyclische aromatische   koolwaterstoffen (PAK): naftaleen, benzo(a)pyreen, fenantreen, fluoranteen,   benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen,   benzo(ghi)peryleen, indeno(1,2,3-</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">cd)pyreen   </P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">minerale   olie</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">polychloorbifenylen (PCB): PCB   28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">A.3.2   gebruik als vormgegeven bouwstof:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">Dit pakket   is een uitbreiding van het volledige pakket A.3.1.</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">metalen   (uitloogbare fractie met maximale beschikbaarheidstest en via de standtest):   arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">pH, sulfaat,   chloriden en calcium (via uitloging in de maximale beschikbaarheidstest en in de   standtest)</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">geleidbaarheid (via uitloging   in de standtest)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">A.4   verbranden:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">droogrest,   vlampunt, gloeiverlies, totaal organische koolstof (TOC), calorische waarde,   pentachloorfenol (PCP), benzo(a)pyreen, chloriden, fluoriden, zwavel,   extraheerbare organohalogeenverbindingen (EOX)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">metalen   (totaalconcentratie): cadmium, thallium, kwik, antimoon, arseen, lood, chroom,   kobalt, koper, mangaan, nikkel, vanadium en tin</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">polychloorbifenylen (PCB): PCB   28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">A.5 storten   (inclusief matrix waterbodem)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">A.5.1   storten - algemene parameters:</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">droogrest,   minerale olie met GC-FID, extraheerbare apolaire koolwaterstoffen met IR,   gloeiverlies, totaal organische koolstof (TOC), totaal oplosmiddelen   (aspecifiek), totaal extraheerbare organohalogeenverbindingen (EOX),   steekvastheid (afschuifspanning)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">metalen   (totaalconcentratie): arseen, thallium, kwik, cadmium, beryllium, barium, lood,   chroom, koper, nikkel, zink, molybdeen, antimoon en seleen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">vrije   cyaniden</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">fluoriden</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">1-stapsschudproef met bepaling   in eluaat van: pH, arseen, barium, lood, cadmium, chroom totaal, chroom VI,   koper, nikkel, kwik, zink, molybdeen, antimoon, seleen, fluoride, cyanide   (totaal), ammonium, nitriet, chloride, sulfaat, totaal opgeloste vaste stoffen   (TOS), opgeloste organische koolstof (DOC), fenolindex</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">A.5.2   storten - specifieke organische parameters:</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">monocyclische aromatische   koolwaterstoffen (BTEXS): benzeen, tolueen, ethylbenzeen, som xylenen,   styreen</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">polycyclische aromatische   koolwaterstoffen (PAK): naftaleen, benzo(a)pyreen, fenantreen, fluoranteen,   benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen,   benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">polychloorbifenylen (PCB): PCB   28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">A.5.3   storten - vezelvrijstelling van asbest</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">A.6   microbiologische bepalingen op de eindproducten van verwerkt dierlijk afval:</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">Salmonella</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">Enterobacteriaceae</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">Clostridium   perfringens</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">A.7   asbest</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt"><U>6° lijst   met pakketten voor een laboratorium als vermeld in artikel 6, 5°, f):</U></P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">B.1 bodem -   vaste deel</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">klei</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">organisch   materiaal</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">metalen   (totaalconcentratie): arseen, cadmium, chroom, koper, kwik, lood, nikkel,   zink</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">cyaniden:   vrije cyaniden, niet-chlooroxideerbare cyaniden </P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">monocyclische aromatische   koolwaterstoffen: benzeen, tolueen, ethylbenzeen, som xylenen, styreen,   1,2,3-trimethylbenzeen, 1,2,4-trimethylbenzeen, 1,3,5-trimethylbenzeen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">alkanen:   hexaan, heptaan en octaan</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">chloorkoolwaterstoffen:   dichloormethaan, trichloormethaan, tetrachloormethaan, vinylchloride, 1,   1-dichloorethaan, 1,2-dichloorethaan, cis+trans-1,2-dichlooretheen, 1, 1,   1-trichloorethaan, 1, 1,2-trichloorethaan, trichlooretheen, tetrachlooretheen,   monochloorbenzeen, 1,2-dichloorbenzeen, 1,3-dichloorbenzeen,   1,4-dichloorbenzeen, som trichloorbenzenen, som tetrachloorbenzenen,   pentachloorbenzeen en hexachloorbenzeen</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">chloorfenolen: 2-chloorfenol,   2,4-dichloorfenol, 2,4,5-trichloorfenol, 2,4,6-trichloorfenol,   2,3,4,6-tetrachloorfenol, pentachloorfenol</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">methyltertiairbutylether</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">minerale   olie</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">polycyclische aromatische   koolwaterstoffen (PAK): naftaleen, acenaftyleen, acenafteen, fluoreen,   fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen,   benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen,   indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">pH (KCI)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">B.2   uitgegraven bodem</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">Dit pakket   is een uitbreiding van het volledige pakket B.1.</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">polychloorbifenylen (PCB): PCB   28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">stenen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">bodemvreemde   materialen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">schudtest   met bepaling in eluaat van: arseen, cadmium, chroom, koper, kwik, lood, nikkel,   zink, pH en geleidbaarheid</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">B.3   waterbodem als bodem</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">B.3.1   gebruik als bodem</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">Dit pakket   is een uitbreiding van het volledige pakket B.1.</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">droogrest</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">TOC</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">minerale   olie</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">organochloorpesticiden (OCP):   aldrin, dieldrin, chloordaan (a en y- isomeer), DDT, ODE, DDD,   hexachloorcyclohexaan (a-, 13- en y- isomeer), endosulfan (a, 13 en sulfaat)</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">polychloorbifenylen (PCB): PCB   28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180 </P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">polycyclische aromatische   koolwaterstoffen (PAK): naftaleen, acenaftyleen, acenafteen, fluoreen,   fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen,   benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen,   indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">B.3.2   monostortplaats</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">Dit pakket   is een uitbreiding van het volledige pakket B.3.1.</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">extraheerbare apolaire   koolwaterstoffen met IR</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">gloeiverlies</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">totaal   oplosmiddelen (aspecifiek)</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">totaal   extraheerbare organohalogeenverbindingen (EOX)</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">steekvastheid   (afschuifspanning)</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">1-stapsschudproef   (CMA/2/ll/A12) met bepaling in eluaat van: pH, arseen, barium, lood, cadmium,   chroom totaal, chroom VI, koper, nikkel, kwik, zink, molybdeen, antimoon, seleen   , fluoride, cyanide , ammonium, nitriet, chloride, sulfaat, totaal opgeloste   vaste stoffen (TOS), opgeloste organische koolstof (DOC), fenol index</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">G1   grondwater</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">metalen   (totaalconcentratie): arseen, cadmium, chroom, koper, kwik, lood, nikkel,   zink</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">chroom   VI</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">cyaniden:   totaal cyaniden</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">monocyclische aromatische   koolwaterstoffen: benzeen, tolueen, ethylbenzeen, som xylenen, styreen,   1,2,3-trimethylbenzeen, 1,2,4-trimethylbenzeen, 1,3,5-trimethylbenzeen</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">chloorkoolwaterstoffen:   dichloormethaan, trichloormethaan, tetrachloormethaan, vinylchloride, 1,   1-dichloorethaan, 1,2-dichloorethaan, cis+trans-1,2-dichlooretheen, 1, 1,   1-trichloorethaan, 1, 1,2-trichloorethaan, trichlooretheen, tetrachlooretheen,   monochloorbenzeen, 1,2-dichloorbenzeen, 1,3-dichloorbenzeen,   1,4-dichloorbenzeen, som trichloorbenzenen, som tetrachloorbenzenen,   pentachloorbenzeen en hexachloorbenzeen</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">chloorfenolen: 2-chloorfenol,   2,4-dichloorfenol, 2,4,5-trichloorfenol, 2,4,6-trichloorfenol,   2,3,4,6-tetrachloorfenol, pentachloorfenol</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">methyltertiairbutylether</P>  <P class=MsoNormal style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">minerale   olie</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">polycyclische aromatische   koolwaterstoffen (PAK): naftaleen, acenaftyleen, acenafteen, fluoreen,   fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen,   benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen,   indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen</P>  <P class=MsoNormal   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt">organochloorpesticiden (OCP):   aldrin, dieldrin, chloordaan (cis+trans), DDT, DOE, DDD, hexachloorcyclohexaan   (&#945;-,&#946;- en &#947;-isomeer), endosulfan (&#945;, &#946; en sulfaat)</P>
+<p style="text-align: justify;">Bijlage 3. Lijst met pakketten voor de laboratoria, vermeld in artikel 6, 5°, van dit besluit</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><u>1° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, a):</u></p>
+
+<p style="text-align: justify;">W.1 monsternemingen, inclusief conservering, transport en metingen ter plaatse:</p>
+
+<p style="text-align: justify;">W.1.1 ogenblikkelijke staalname (aan kraan) van water:</p>
+
+<p style="text-align: justify;">W.1.1 .1 voor chemische analyses</p>
+
+<p style="text-align: justify;">W.1.1.2 voor bacteriologische analyses</p>
+
+<p style="text-align: justify;">Pakket W.1.1 is een uitbreiding van pakket W.1.5.1.</p>
+
+<p style="text-align: justify;">W.1.2 ogenblikkelijke staalname (schepstaal) van water</p>
+
+<p style="text-align: justify;">W.1.3 tijds- en/of debietsgebonden staalname</p>
+
+<p style="text-align: justify;">W.1.4 staalname van grondwater (peilbuizen):</p>
+
+<p style="text-align: justify;">W.1.4.1 met ondiepe ( &lt; 30 m) grondwaterstand</p>
+
+<p style="text-align: justify;">W.1.4.2 met diepe ( ≥ 30 m) grondwaterstand</p>
+
+<p style="text-align: justify;">De pakketten onder W.1.4 zijn telkens een uitbreiding van pakket W.1.5.1 en W.1.5.2.</p>
+
+<p style="text-align: justify;">W.1.5 meting ter plaatse van de volgende parameters:</p>
+
+<p style="text-align: justify;">W.1.5.1 temperatuur</p>
+
+<p style="text-align: justify;">W.1.5.2 zuurtegraad en elektrische geleidbaarheid</p>
+
+<p style="text-align: justify;">W.1.6 meting ter plaatse van opgeloste zuurstof</p>
+
+<p style="text-align: justify;">W.1. 7 meting ter plaatse van vrije chloor en gebonden chloor</p>
+
+<p style="text-align: justify;">W.1.8 afmeting zwevende stoffen"</p>
+
+<p style="text-align: justify;">W.1.9 ...</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">W.2. organoleptische parameters in water, bestemd voor menselijke consumptie:</p>
+
+<p style="text-align: justify;">kleur, troebelingsgraad, reuk en smaak</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">W.3 anorganische fysicochemische parameters:</p>
+
+<p style="text-align: justify;">W.3.1 chloride, sulfaat, nitraat, nitriet, totaal orthofosfaat, opgelost fluoride en ammonium</p>
+
+<p style="text-align: justify;">W.3.2 natrium, calcium, kalium, magnesium en totale hardheid</p>
+
+<p style="text-align: justify;">W.3.3 zuurtegraad en elektrische geleidbaarheid</p>
+
+<p style="text-align: justify;">W.3.6 buffercapaciteit</p>
+
+<p style="text-align: justify;">W.3.7 totaal anorganisch gebonden fluoride</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">W.4 metalen:</p>
+
+<p style="text-align: justify;">W.4.1 standaardreeks: kwik, cadmium, lood, arseen, chroom, nikkel, koper, zink, antimoon, seleen, mangaan, ijzer en aluminium</p>
+
+<p style="text-align: justify;">W.4.2 aanvullende elementen:</p>
+
+<p style="text-align: justify;">W.4.2.1 zilver</p>
+
+<p style="text-align: justify;">W.4.2.2 vanadium</p>
+
+<p style="text-align: justify;">W.4.2.3 barium</p>
+
+<p style="text-align: justify;">W.4.2.4 molybdeen</p>
+
+<p style="text-align: justify;">W.4.2.5 tin</p>
+
+<p style="text-align: justify;">W.4.2.6 titanium</p>
+
+<p style="text-align: justify;">W.4.2.7 kobalt</p>
+
+<p style="text-align: justify;">W.4.2.8 boor<br>
+W.4.2.9 tin inclusief tindioxide<br>
+W.4.2.10 titanium inclusief titaniumdioxide</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">W.5 algemene verontreinigingsparameters:</p>
+
+<p style="text-align: justify;">W.5.1 BZV, CZV, Kjeldahlstikstof, bezinkbare stoffen, zwevende stoffen, (totaal) fosfor en totaal stikstof</p>
+
+<p style="text-align: justify;">W.5.2 minerale olie met gaschromatografie (met vlamionisatiedetectie)</p>
+
+<p style="text-align: justify;">W.5.3 perchloorethyleenextraheerbare stoffen en perchloorethyleenextraheerbare apolaire stoffen (infraroodspectrometrische bepaling)</p>
+
+<p style="text-align: justify;">W.5.4 petroleumetherextraheerbare stoffen (gravimetrische bepaling)</p>
+
+<p style="text-align: justify;">W.5.5 TOC als verschilmeting (TOC = TC-TIC)</p>
+
+<p style="text-align: justify;">W.5.6 TOC als sommeting (TOC = POC + NPOC)</p>
+
+<p style="text-align: justify;">W.5.7 NPOC</p>
+
+<p style="text-align: justify;">W.5.8 totaal cyanide</p>
+
+<p style="text-align: justify;">W.5.9 vrije cyanide</p>
+
+<p style="text-align: justify;">W.5.10 opgelost sulfide en in zuur milieu oplosbaar sulfide</p>
+
+<p style="text-align: justify;">W.5.11 fenolindex</p>
+
+<p style="text-align: justify;">W.5.12 chroom VI</p>
+
+<p style="text-align: justify;">W.5.13 ...</p>
+
+<p style="text-align: justify;">W.5.14 methyleenblauwactieve stoffen (MBAS)</p>
+
+<p style="text-align: justify;">W.5.15 ...</p>
+
+<p style="text-align: justify;">W.5.16 oxideerbaarheid</p>
+
+<p style="text-align: justify;">W.5.17 ureum</p>
+
+<p style="text-align: justify;">W.5.18 bromaat</p>
+
+<p style="text-align: justify;">W.5.19 kleur van afvalwater</p>
+
+<p style="text-align: justify;">.6 organische groepsparameters :<br>
+W.6.1 extraheerbare organische halogeenverbindingen (EOX)<br>
+W.6.2 adsorbeerbare organische halogeenverbindingen (AOX)<br>
+W.6.3 purgeerbare organische halogeenverbindingen (POX)<br>
+&nbsp;</p>
+
+<p style="text-align: justify;">W. 7 specifieke organische stoffen:</p>
+
+<p style="text-align: justify;">W.7.1 vluchtige organische halogeenverbindingen en monocyclische aromatische koolwaterstoffen</p>
+
+<p style="text-align: justify;">W.7.2 matig vluchtige organische halogeenverbindingen, uitgezonderd polychloorbifenylen en organochloorpesticiden</p>
+
+<p style="text-align: justify;">W.7.3 fenolen</p>
+
+<p style="text-align: justify;">W.7.5 polychloorbifenylen</p>
+
+<p style="text-align: justify;">W.7.6 polycyclische aromatische koolwaterstoffen</p>
+
+<p style="text-align: justify;">W.7.7 polychloordibenzodioxines en polychloordibenzofuranen</p>
+
+<p style="text-align: justify;">W.7.8 gebromeerde brandvertragers</p>
+
+<p style="text-align: justify;">W.7.9 organofluorverbindingen</p>
+
+<p style="text-align: justify;">W. 7.10 organotinverbindingen</p>
+
+<p style="text-align: justify;">W.7.11 organochloorpesticiden</p>
+
+<p style="text-align: justify;">W. 7. 12 organofosforpesticiden</p>
+
+<p style="text-align: justify;">W. 7 .13 triazinetype herbiciden</p>
+
+<p style="text-align: justify;">W. 7.14 uronen (fenylurea), carbamaten en anilides</p>
+
+<p style="text-align: justify;">W. 7 .15 zure herbiciden</p>
+
+<p style="text-align: justify;">W.7.16 glyfosaat en AMPA</p>
+
+<p style="text-align: justify;">W.7.17 pesticiden, opgenomen in WAC/IV/A/027 of WAC/IV/A/028, die niet behoren tot de overige pakketten onder W. 7.</p>
+
+<p style="text-align: justify;">W. 7. 19 oppervlakteactieve stoffen:</p>
+
+<p style="text-align: justify;">W. 7. 19. 1 kation ische oppervlakteactieve stoffen</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">W.8 bacteriologische parameters:</p>
+
+<p style="text-align: justify;">W.8.1 totaal kiemgetal (22 °C, 37 °C), coliformen, <em>Escherichia coli</em> en enterokokken</p>
+
+<p style="text-align: justify;">W.8.2 Salmonella</p>
+
+<p style="text-align: justify;">W.8.3 <em>Legionella pneumophila</em> en <em>Legionella species</em></p>
+
+<p style="text-align: justify;">W.8.4 Coagulase positieve stafylokokken</p>
+
+<p style="text-align: justify;">W.8.5 <em>Clostridium perfringens</em></p>
+
+<p style="text-align: justify;">W.8.6 <em>Pseudomonas aeruginosa</em></p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">W.9 hydrobiologische parameters:</p>
+
+<p style="text-align: justify;">W. 9.1 biotische index</p>
+
+<p style="text-align: justify;">W.9.2 ecotoxiciteit:</p>
+
+<p style="text-align: justify;">W.9.2.1 acute toxiciteit voor watervlooien</p>
+
+<p style="text-align: justify;">W.9.2.2 acute toxiciteit voor vissen</p>
+
+<p style="text-align: justify;">W.9.2.3 groei-inhibitie voor eencellige algen</p>
+
+<p style="text-align: justify;">W.9.2.4 inhibitie van de bioluminescentie in <em>Vibrio fischeri</em></p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">W.10 andere monsternemingen, analyses, metingen of beproevingen :<br>
+W.10.1 chlorofyl A<br>
+W.10.2 kwalitatieve karakterisatie van minerale olie met GC-MS</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><u>2° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, b):</u></p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">L.1 monsterneming en analyse met testbuisjes van afgassen (emissie) en omgevingslucht (immissie) in daartoe geëigende situaties</p>
+
+<p style="text-align: justify;">L.2 emissiemetingen - basispakket: rookgastemperatuur, druk, watergehalte, gassnelheid, gasdebiet, stofgehalte in een gaskanaal en een continue meting van zwaveldioxide, stikstofoxide, zuurstof, koolstofdioxide, koolstofmonoxide en vluchtige organische componenten als totaal organische koolstof</p>
+
+<p style="text-align: justify;">L.3 emissiemetingen - stookinstallaties tot 10 MW: rookgastemperatuur, druk, watergehalte, gassnelheid, gasdebiet, stofgehalte in een gaskanaal en een continue meting van zwaveldioxide, stikstofoxide, zuurstof, koolstofdioxide en koolstofmonoxide</p>
+
+<p style="text-align: justify;">L.4 emissiemetingen - monsterneming en analyse van zware metalen:</p>
+
+<p style="text-align: justify;">L.4.1 Cd, Tl, As, Sb, Pb, Cr, Co, Cu, Mn, Ni, V, Se, Sn en Hg als totaalgehalte (als som van stof- en gasvormig) en als gehalte stofvormig</p>
+
+<p style="text-align: justify;">L.4.2 andere metalen, als totaalgehalte (als som van stof- en gasvormig):</p>
+
+<p style="text-align: justify;">L.4.2.1 Be</p>
+
+<p style="text-align: justify;">L.4.2.2 Ti</p>
+
+<p style="text-align: justify;">L.4.2.3 In</p>
+
+<p style="text-align: justify;">L.4.2.4 Mo</p>
+
+<p style="text-align: justify;">De pakketten onder L.4.2 zijn telkens een uitbreiding van pakket L.4.1.</p>
+
+<p style="text-align: justify;">L 4.3 Pt (gehalte stofvormig)</p>
+
+<p style="text-align: justify;">Pakket L.4.3 is een uitbreiding van pakket L.4.1.</p>
+
+<p style="text-align: justify;">L.4.4 specifieke metaalverbindingen:</p>
+
+<p style="text-align: justify;">L.4.4.1 arseenwaterstof</p>
+
+<p style="text-align: justify;">L.4.4.2 Cr(Vl)-verbindingen zoals calciumchromaat</p>
+
+<p style="text-align: justify;">L.4.4.3 Cr(lll)-chromaat, zinkchromaat en strontiumchromaat</p>
+
+<p style="text-align: justify;">L.4.4.4 arseentrioxide en arseenpentoxide</p>
+
+<p style="text-align: justify;">L.4.4.5 arseenzuren en hun zouten</p>
+
+<p style="text-align: justify;">De pakketten onder L.4.4 zijn telkens een uitbreiding van pakket L.4.1.</p>
+
+<p style="text-align: justify;">L.5 emissiemetingen - monsterneming en analyse van anorganische stoffen:</p>
+
+<p style="text-align: justify;">L.5.1 gasvormige anorganische chloorverbindingen als HCl";</p>
+
+<p style="text-align: justify;">L.5.2 natchemische bepaling van zwaveloxiden SOx</p>
+
+<p style="text-align: justify;">L.5.3 chloor</p>
+
+<p style="text-align: justify;">L.5.4 NH<sub>3</sub></p>
+
+<p style="text-align: justify;">L.5.5 waterstofsulfide</p>
+
+<p style="text-align: justify;">L.5.6 broom en zijn damp- of gasvormige verbindingen, uitgedrukt als HBr</p>
+
+<p style="text-align: justify;">L.5.7 cyaanwaterstof</p>
+
+<p style="text-align: justify;">L.5.8 N<sub>2</sub>0</p>
+
+<p style="text-align: justify;">L.5.9 bemonstering van stofdeeltjes met specifieke grootte (PM10 en PM2,5)</p>
+
+<p style="text-align: justify;">L.5.10 chloorcyaan</p>
+
+<p style="text-align: justify;">L.5.11 fosgeen</p>
+
+<p style="text-align: justify;">L.5.12 fosforwaterstof</p>
+
+<p style="text-align: justify;">L.5.13 hydrazine</p>
+
+<p style="text-align: justify;">L.5.14 natchemische bepaling van zwaveltrioxide S0<sub>3</sub></p>
+
+<p style="text-align: justify;">L.5.15 gasvormige anorganische fluorverbindingen als HF<br>
+<br>
+L.6. emissiemetingen - monsterneming en analyse van vluchtige organische stoffen (VOS) - basispakket VOS: aromatische koolwaterstoffen, paraffinische koolwaterstoffen, alifatische halogeenkoolwaterstoffen, esters, ketonen, alcoholen en ethers</p>
+
+<p style="text-align: justify;">L.7. emissiemetingen - monsterneming en analyse van organische stoffen:</p>
+
+<p style="text-align: justify;">L. 7 .1 olefinische koolwaterstoffen</p>
+
+<p style="text-align: justify;">L. 7 .2 glycolethers</p>
+
+<p style="text-align: justify;">L. 7 .3 chloorbenzenen en chloortoluenen</p>
+
+<p style="text-align: justify;">L. 7.4 methylmethacrylaat</p>
+
+<p style="text-align: justify;">L.7.5 naftaleen</p>
+
+<p style="text-align: justify;">L.7.6 dimethylformamide</p>
+
+<p style="text-align: justify;">L. 7. 7 pinenen</p>
+
+<p style="text-align: justify;">L.7.8 N-methylpyrrolidon</p>
+
+<p style="text-align: justify;">De pakketten onder L.7 zijn telkens een uitbreiding van pakket L.6.</p>
+
+<p style="text-align: justify;">L.8. emissiemetingen - monsterneming en analyse van zeer vluchtige organische stoffen (ZVOS):</p>
+
+<p style="text-align: justify;">L.8.1 ZVOS met uitzondering van methaan, ethyleenoxide en vinylchloride</p>
+
+<p style="text-align: justify;">L.8.2 methaan</p>
+
+<p style="text-align: justify;">L.8.3 ethyleenoxide</p>
+
+<p style="text-align: justify;">L.8.4 vinylchloride</p>
+
+<p style="text-align: justify;">L.9. emissiemetingen - monsterneming en analyse van weinig vluchtige organische stoffen:</p>
+
+<p style="text-align: justify;">L.9.1 dioxines (PCDD's en PCDF's)</p>
+
+<p style="text-align: justify;">L.9.2 dioxineachtige PCB's</p>
+
+<p style="text-align: justify;">L.9.3 PCB's</p>
+
+<p style="text-align: justify;">L.9.4 polyaromatische koolwaterstoffen (PAK's)</p>
+
+<p style="text-align: justify;">De pakketten onder L.9 zijn telkens een uitbreiding van pakket L.2.</p>
+
+<p style="text-align: justify;">L.10. emissiemetingen - monsterneming en analyse van reactieve organische stoffen:</p>
+
+<p style="text-align: justify;">L.10.1 formaldehyde</p>
+
+<p style="text-align: justify;">L.10.2 andere aldehydes dan formaldehyde</p>
+
+<p style="text-align: justify;">L.10.3 fenol</p>
+
+<p style="text-align: justify;">L.10.4 alifatische amines</p>
+
+<p style="text-align: justify;">L.10.5 zwavelkoolstof</p>
+
+<p style="text-align: justify;">L.10.6 carbonzuren</p>
+
+<p style="text-align: justify;">L.10. 7 isocyanaten</p>
+
+<p style="text-align: justify;">L.10.8 maleïnezuuranhydride</p>
+
+<p style="text-align: justify;">L.10.9 thio-alcoholen (mercaptanen) en thio-ethers</p>
+
+<p style="text-align: justify;">L.11. bepaling van niet-geleide emissies:</p>
+
+<p style="text-align: justify;">L.11.1 uitvoeren van lekdetectieprogramma's (LDAR) en emissiebepaling</p>
+
+<p style="text-align: justify;">L.11.2 meting van andere diffuse bronnen: te specificeren</p>
+
+<p style="text-align: justify;">Pakket L.11.2 is een uitbreiding van een pakket onder L.4, L.5, L.6, L.7, L.8, L.9, L.10, L.15 en L.17.</p>
+
+<p style="text-align: justify;">L.12. immissiemetingen:</p>
+
+<p style="text-align: justify;">L.12.1 de continue meting van zwaveldioxide, stikstofoxiden, koolstofmonoxide, ozon en zwevend stof met specifieke groottekarakteristiek PM10 en PM2,s</p>
+
+<p style="text-align: justify;">L.12.2 bepaling van neervallend stof</p>
+
+<p style="text-align: justify;">L.12.3 bepaling van de volgende metalen in neervallend stof en zwevend stof: Cd, Tl, As, Sb, Pb, Cr, Co, Cu, Mn, Ni, V, Se, Sn en Hg</p>
+
+<p style="text-align: justify;">L.12.4 bepaling van gasvormig kwik in omgevingslucht</p>
+
+<p style="text-align: justify;">L.13. immissiemetingen - monsterneming en analyse van vluchtige en zeer vluchtige stoffen ((Z)VOS) in omgevingslucht:</p>
+
+<p style="text-align: justify;">L. 13. 1 benzeen</p>
+
+<p style="text-align: justify;">L.13.2 vinylchloride</p>
+
+<p style="text-align: justify;">L.14. immissiemetingen - monsterneming en analyse van organische stoffen en andere stoffen:</p>
+
+<p style="text-align: justify;">L.14.1 vluchtige polycyclische aromatische koolwaterstoffen (PAK's) naftaleen, acenafteen, acenaftyleen, fenantheen, antraceen en fluoreen</p>
+
+<p style="text-align: justify;">L.14.2 niet-vluchtige polycyclische aromatische koolwaterstoffen (PAK's):</p>
+
+<p style="text-align: justify;">fluorantheen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluorantheen, benzo(k)fluorantheen, benzo(a)pyreen,</p>
+
+<p style="text-align: justify;">benzo(g,h,i)peryleen, indeno(1,2,3,c,d)pyreen en dibenzo( a, h )anthraceen</p>
+
+<p style="text-align: justify;">L.14.3 dioxines (PCDD's en PCDF's):</p>
+
+<p style="text-align: justify;">L.14.3.1 gesuspendeerd in omgevingslucht of als gas</p>
+
+<p style="text-align: justify;">L.14.3.2 als depositie in neerslagkruik</p>
+
+<p style="text-align: justify;">L.14.4 PCB's</p>
+
+<p style="text-align: justify;">L.14.5 dioxineachtige PCB's</p>
+
+<p style="text-align: justify;">L.14.6 BTEX: veldmeting met automatische monitoren</p>
+
+<p style="text-align: justify;">L.14.7 HFenHCI</p>
+
+<p style="text-align: justify;">L.14.8 S0<sub>2</sub>, N0<sub>2</sub>, O<sub>3</sub> en BTEX door middel van passieve samplers en</p>
+
+<p style="text-align: justify;">analyse</p>
+
+<p style="text-align: justify;">L.14.9 NH<sub>3</sub></p>
+
+<p style="text-align: justify;">L.15 bepaling van de belasting aan asbestvezels en andere vezels in omgevingslucht met behulp van elektronenmicroscopie</p>
+
+<p style="text-align: justify;">L.16 keuring en kalibratie van vast opgestelde apparatuur voor de volgende metingen en bemonsteringen in emissies:</p>
+
+<p style="text-align: justify;">L.16.1 anorganische gasvormige componenten:</p>
+
+<p style="text-align: justify;">L.16.1.1 O<sub>2</sub></p>
+
+<p style="text-align: justify;">L.16.1.2 CO</p>
+
+<p style="text-align: justify;">L.16.1.3 NO<sub>x</sub></p>
+
+<p style="text-align: justify;">L.16.1.4 S0<sub>2</sub></p>
+
+<p style="text-align: justify;">L.16.1.5 HCl</p>
+
+<p style="text-align: justify;">L.16.1.6 HF</p>
+
+<p style="text-align: justify;">L.16.1.7 NH<sub>3</sub></p>
+
+<p style="text-align: justify;">L.16.1.8 N<sub>2</sub>O</p>
+
+<p style="text-align: justify;">L.16.1.9 Hg</p>
+
+<p style="text-align: justify;">L.16.1.10 Cl<sub>2</sub></p>
+
+<p style="text-align: justify;">L.16.2 stof</p>
+
+<p style="text-align: justify;">L.16.3 organische gasvormige componenten:</p>
+
+<p style="text-align: justify;">L.16.3.1 TOC via FID</p>
+
+<p style="text-align: justify;">L.16.3.2 fosgeen</p>
+
+<p style="text-align: justify;">L.16.4 langetermijnbemonstering van dioxines en PCB's</p>
+
+<p style="text-align: justify;">De pakketten onder L.16 zijn telkens een uitbreiding van pakket L.2 en van een pakket dat de desbetreffende parameter bevat.</p>
+
+<p style="text-align: justify;">L.17 nemen van geurmonsters en uitvoeren van geuranalyses door middel van olfactometrie</p>
+
+<p style="text-align: justify;">L.18 bepaling van geurverspreiding door middel van snuffelploegmetingen</p>
+
+<p style="text-align: justify;">L.19 meting van het NH3-verwijderingsrendement van gaswassers, opgenomen in de lijst van ammoniakemissiearme stalsystemen<br>
+<br>
+L.20 monsterneming en analyse van trichlooramine in zwembadlucht"</p>
+
+<p style="text-align: justify;"><br>
+<u>3° pakket voor een laboratorium als vermeld in artikel 6, 5°, c): uitvoering van de volgende monsternemingen en bodemanalyses:</u></p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">a) monsterneming en analyse van het organische koolstofgehalte(% OC) van de</p>
+
+<p style="text-align: justify;">bodem</p>
+
+<p style="text-align: justify;">b) monsterneming en analyse van de zuurtegraad (pH) van de bodem</p>
+
+<p style="text-align: justify;">c) bepaling van de bodemtextuur op een van de volgende manieren:</p>
+
+<p style="text-align: justify;">1) volgens de handmatige bepaling;</p>
+
+<p style="text-align: justify;">2) volgens de granulometrische bepaling;</p>
+
+<p style="text-align: justify;">3) volgens de handmatige en de granulometrische bepaling.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">4° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, d):</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">M-B1. pakket bodem-stikstof, voor het nemen van bodemmonsters en het uitvoeren</p>
+
+<p style="text-align: justify;">van de volgende analyses op de bodem:</p>
+
+<p style="text-align: justify;">a) bepaling van het vochtgehalte;</p>
+
+<p style="text-align: justify;">b) bepaling van nitraatstikstof;</p>
+
+<p style="text-align: justify;">c) bepaling van ammoniumstikstof.</p>
+
+<p style="text-align: justify;">M-B2. pakket snel vrijkomende organische stikstof, voor het nemen van monsters,</p>
+
+<p style="text-align: justify;">het uitvoeren van incubatieproeven en het uitvoeren van de volgende analyses voor</p>
+
+<p style="text-align: justify;">het bepalen van de stikstofmineralisatie uit organische meststoffen:</p>
+
+<p style="text-align: justify;">a) bepaling van het vochtgehalte van de bodem;</p>
+
+<p style="text-align: justify;">b) ...;</p>
+
+<p style="text-align: justify;">c) bepaling van ammoniumstikstof in de bodem;</p>
+
+<p style="text-align: justify;">d) bepaling van nitraatstikstof in de bodem.</p>
+
+<p style="text-align: justify;">Dit pakket is een uitbreiding van pakket M-B1.</p>
+
+<p style="text-align: justify;">M-B3. pakket bodem-fosfor, voor het nemen van bodemmonsters en het uitvoeren van de volgende analyses op de bodem:</p>
+
+<p style="text-align: justify;">a) bepaling van oxalaatextraheerbaar fosfaatgehalte (Pox);</p>
+
+<p style="text-align: justify;">b) bepaling van fosfaatbindend vermogen;</p>
+
+<p style="text-align: justify;">c) bepaling van fosfaat in grond, extraheerbaar met een ammoniumlactaatazijnzuurbuffer (P-AL).</p>
+
+<p style="text-align: justify;">M-B4. pakket bodem-overige parameters, voor het nemen van bodemmonsters en het uitvoeren van de volgende analyses op de bodem:</p>
+
+<p style="text-align: justify;">a) bepaling van het organische koolstofgehalte.</p>
+
+<p style="text-align: justify;">M-M1. pakket meststoffen-bemonstering voor anorganische parameters, voor het nemen van monsters van meststoffen met het oog op de analyse van anorganische parameters.</p>
+
+<p style="text-align: justify;">M-M2. pakket meststoffen-anorganische parameters, voor het uitvoeren van de volgende anorganische analyses op meststoffen:</p>
+
+<p style="text-align: justify;">a) bepaling van drogestofgehalte;</p>
+
+<p style="text-align: justify;">b) bepaling van totale fosfor;</p>
+
+<p style="text-align: justify;">c) bepaling van ammoniumstikstof;</p>
+
+<p style="text-align: justify;">d) bepaling van totale stikstof.</p>
+
+<p style="text-align: justify;">M-M3. pakket meststoffen-bemonstering voor microbiologische parameters, voor het nemen van monsters van meststoffen met het oog op het uitvoeren van microbiologische analyses.</p>
+
+<p style="text-align: justify;">M-M4. pakket meststoffen-microbiologische parameters, voor het uitvoeren van de volgende microbiologische analyses op meststoffen:</p>
+
+<p style="text-align: justify;">a) detectie van <em>Escherichia coli;</em></p>
+
+<p style="text-align: justify;">b) detectie van <em>Enterococcacea;</em></p>
+
+<p style="text-align: justify;">c) detectie van <em>Salmonella;</em></p>
+
+<p style="text-align: justify;">d) detectie van <em>Clostridium perfringens.</em></p>
+
+<p style="text-align: justify;">M-D1. pakket diervoeders, voor het nemen van monsters van diervoeders en het</p>
+
+<p style="text-align: justify;">uitvoeren van de volgende analyses op diervoeders:</p>
+
+<p style="text-align: justify;">a) bepaling van drogestofgehalte;</p>
+
+<p style="text-align: justify;">b) bepaling van totale fosfor;</p>
+
+<p style="text-align: justify;">c) bepaling van ruw eiwit.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><u>5° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, e):</u></p>
+
+<p style="text-align: justify;">MA monsternemingen van afvalstoffen en andere materialen en monstervoorbehandeling ter plaatse</p>
+
+<p style="text-align: justify;">MA.1 specie<br>
+MA.1.1 specie in situ<br>
+MA.1.2 specie ex situ</p>
+
+<p style="text-align: justify;">MA.2 gebruik als meststoflbodemverbeterend middel</p>
+
+<p style="text-align: justify;">MA.3 gebruik als bouwstof-vaste stoffen</p>
+
+<p style="text-align: justify;">MA.4 verbranden</p>
+
+<p style="text-align: justify;">MA.5 storten</p>
+
+<p style="text-align: justify;">MA.6 eindproducten bij de verwerking van dierlijke bijproducten</p>
+
+<p style="text-align: justify;">MA.7 asbest</p>
+
+<p style="text-align: justify;">MA. 7 .1 asbest in hopen</p>
+
+<p style="text-align: justify;">MA.7.2 asbest in lagen</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">A.2 gebruik als meststof/bodemverbeterend middel</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">A.2.1 gebruik als meststof/bodemverbeterend middel - anorganische parameters:</p>
+
+<p style="text-align: justify;">zuurtegraad, droogrest/vocht, organische stof, totale stikstof, difosforpentoxide, nitraatstikstof en ammoniakale stikstof, geleidbaarheid</p>
+
+<p style="text-align: justify;">metalen (totaalconcentratie):</p>
+
+<p style="text-align: justify;">arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">A.2.2 gebruik als meststof/bodemverbeterend middel - organische parameters:</p>
+
+<p style="text-align: justify;">BTEXS: benzeen, tolueen, ethylbenzeen, som xylenen en styreen</p>
+
+<p style="text-align: justify;">alkanen: hexaan, heptaan en octaan</p>
+
+<p style="text-align: justify;">chloorkoolwaterstoffen: monochloorbenzeen, 1,2-dichloorbenzeen, 1,3-dichloorbenzeen, 1,4-dichloorbenzeen, som trichloorbenzenen, som tetrachloorbenzenen, pentachloorbenzeen en hexachloorbenzeen, 1,2-dichloorethaan, dichloormethaan, trichloormethaan, trich looretheen, tetrachloormethaan, tetrach looretheen, vinylchloride, 1, 1, 1-trichloorethaan, 1, 1,2-trichloorethaan, 1, 1-dichloorethaan, cis+trans-1,2-dichlooretheen</p>
+
+<p style="text-align: justify;">polycyclische aromatische koolwaterstoffen (PAK): naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen</p>
+
+<p style="text-align: justify;">minerale olie</p>
+
+<p style="text-align: justify;">polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">A.2.3 gebruik als meststof/bodemverbeterend middel - specifieke parameters:</p>
+
+<p style="text-align: justify;">steentjes, groter dan 5 mm</p>
+
+<p style="text-align: justify;">graad van verontreiniging (glas, metaal, kunststoffen) groter dan 2 mm</p>
+
+<p style="text-align: justify;">kiem krachtige zaden</p>
+
+<p style="text-align: justify;">fytotoxiciteit</p>
+
+<p style="text-align: justify;">rijpheidsgraad</p>
+
+<p style="text-align: justify;">stabiliteit met gesloten respirometer</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">A.3 gebruik als bouwstof</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">A.3.1 gebruik als niet-vormgegeven bouwstof (inclusief matrix waterbodem):</p>
+
+<p style="text-align: justify;">droog rest</p>
+
+<p style="text-align: justify;">metalen (totaalconcentratie en uitloogbare fractie via de kolomtest): arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink</p>
+
+<p style="text-align: justify;">BTEXS: benzeen, tolueen, ethylbenzeen, som xylenen en styreen</p>
+
+<p style="text-align: justify;">alkanen: hexaan, heptaan en octaan</p>
+
+<p style="text-align: justify;">polycyclische aromatische koolwaterstoffen (PAK): naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-</p>
+
+<p style="text-align: justify;">cd)pyreen</p>
+
+<p style="text-align: justify;">minerale olie</p>
+
+<p style="text-align: justify;">polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">A.3.2 gebruik als vormgegeven bouwstof:</p>
+
+<p style="text-align: justify;">Dit pakket is een uitbreiding van het volledige pakket A.3.1.</p>
+
+<p style="text-align: justify;">metalen (uitloogbare fractie met maximale beschikbaarheidstest en via de standtest): arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink</p>
+
+<p style="text-align: justify;">pH, sulfaat, chloriden en calcium (via uitloging in de maximale beschikbaarheidstest en in de standtest)</p>
+
+<p style="text-align: justify;">geleidbaarheid (via uitloging in de standtest)</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">A.4 verbranden:</p>
+
+<p style="text-align: justify;">droogrest, vlampunt, gloeiverlies, totaal organische koolstof (TOC), calorische waarde, pentachloorfenol (PCP), benzo(a)pyreen, chloriden, fluoriden, zwavel, extraheerbare organohalogeenverbindingen (EOX)</p>
+
+<p style="text-align: justify;">metalen (totaalconcentratie): cadmium, thallium, kwik, antimoon, arseen, lood, chroom, kobalt, koper, mangaan, nikkel, vanadium en tin</p>
+
+<p style="text-align: justify;">polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">A.5 storten (inclusief matrix waterbodem)</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">A.5.1 storten - algemene parameters:</p>
+
+<p style="text-align: justify;">droogrest, minerale olie met GC-FID, extraheerbare apolaire koolwaterstoffen met IR, gloeiverlies, totaal organische koolstof (TOC), totaal oplosmiddelen (aspecifiek), totaal extraheerbare organohalogeenverbindingen (EOX), steekvastheid (afschuifspanning)</p>
+
+<p style="text-align: justify;">metalen (totaalconcentratie): arseen, thallium, kwik, cadmium, beryllium, barium, lood, chroom, koper, nikkel, zink, molybdeen, antimoon en seleen</p>
+
+<p style="text-align: justify;">vrije cyaniden</p>
+
+<p style="text-align: justify;">fluoriden</p>
+
+<p style="text-align: justify;">1-stapsschudproef met bepaling in eluaat van: pH, arseen, barium, lood, cadmium, chroom totaal, chroom VI, koper, nikkel, kwik, zink, molybdeen, antimoon, seleen, fluoride, cyanide (totaal), ammonium, nitriet, chloride, sulfaat, totaal opgeloste vaste stoffen (TOS), opgeloste organische koolstof (DOC), fenolindex</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">A.5.2 storten - specifieke organische parameters:<br>
+monocyclische aromatische koolwaterstoffen (BTEXS): benzeen, tolueen, ethylbenzeen, som xylenen, styreen<br>
+polycyclische aromatische koolwaterstoffen (PAK): naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen<br>
+polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</p>
+
+<p style="text-align: justify;">A.5.3 storten - vezelvrijstelling van asbest</p>
+
+<p style="text-align: justify;">A.6 microbiologische bepalingen op de eindproducten bij de verwerking van dierlijke bijproducten:<br>
+Salmonella<br>
+Enterobacteriaceae<br>
+Clostridium perfringens</p>
+
+<p style="text-align: justify;">A.7 asbest</p>
+
+<p style="text-align: justify;"><u>6° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, f):</u></p>
+
+<p style="text-align: justify;">B.1 bodem - vaste deel</p>
+
+<p style="text-align: justify;">klei</p>
+
+<p style="text-align: justify;">organisch materiaal</p>
+
+<p style="text-align: justify;">metalen (totaalconcentratie): arseen, cadmium, chroom, koper, kwik, lood, nikkel, zink</p>
+
+<p style="text-align: justify;">cyaniden: vrije cyaniden, niet-chlooroxideerbare cyaniden</p>
+
+<p style="text-align: justify;">monocyclische aromatische koolwaterstoffen: benzeen, tolueen, ethylbenzeen, som xylenen, styreen, 1,2,3-trimethylbenzeen, 1,2,4-trimethylbenzeen, 1,3,5-trimethylbenzeen</p>
+
+<p style="text-align: justify;">alkanen: hexaan, heptaan en octaan</p>
+
+<p style="text-align: justify;">chloorkoolwaterstoffen: dichloormethaan, trichloormethaan, tetrachloormethaan, vinylchloride, 1, 1-dichloorethaan, 1,2-dichloorethaan, cis+trans-1,2-dichlooretheen, 1, 1, 1-trichloorethaan, 1, 1,2-trichloorethaan, trichlooretheen, tetrachlooretheen, monochloorbenzeen, 1,2-dichloorbenzeen, 1,3-dichloorbenzeen, 1,4-dichloorbenzeen, som trichloorbenzenen, som tetrachloorbenzenen, pentachloorbenzeen en hexachloorbenzeen</p>
+
+<p style="text-align: justify;">chloorfenolen: 2-chloorfenol, 2,4-dichloorfenol, 2,4,5-trichloorfenol, 2,4,6-trichloorfenol, 2,3,4,6-tetrachloorfenol, pentachloorfenol</p>
+
+<p style="text-align: justify;">methyltertiairbutylether</p>
+
+<p style="text-align: justify;">minerale olie</p>
+
+<p style="text-align: justify;">polycyclische aromatische koolwaterstoffen (PAK): naftaleen, acenaftyleen, acenafteen, fluoreen, fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen, indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen</p>
+
+<p style="text-align: justify;">pH (KCI)</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">B.2 uitgegraven bodem</p>
+
+<p style="text-align: justify;">Dit pakket is een uitbreiding van het volledige pakket B.1.</p>
+
+<p style="text-align: justify;">polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</p>
+
+<p style="text-align: justify;">stenen</p>
+
+<p style="text-align: justify;">bodemvreemde materialen</p>
+
+<p style="text-align: justify;">schudtest met bepaling in eluaat van: arseen, cadmium, chroom, koper, kwik, lood, nikkel, zink, pH en geleidbaarheid</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">B.3 waterbodem als bodem</p>
+
+<p style="text-align: justify;">B.3.1 gebruik als bodem</p>
+
+<p style="text-align: justify;">Dit pakket is een uitbreiding van het volledige pakket B.1.</p>
+
+<p style="text-align: justify;">droogrest</p>
+
+<p style="text-align: justify;">TOC</p>
+
+<p style="text-align: justify;">minerale olie</p>
+
+<p style="text-align: justify;">organochloorpesticiden (OCP): aldrin, dieldrin, chloordaan (a en y- isomeer), DDT, ODE, DDD, hexachloorcyclohexaan (a-, 13- en y- isomeer), endosulfan (a, 13 en sulfaat)</p>
+
+<p style="text-align: justify;">polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</p>
+
+<p style="text-align: justify;">polycyclische aromatische koolwaterstoffen (PAK): naftaleen, acenaftyleen, acenafteen, fluoreen, fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen, indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen</p>
+
+<p style="text-align: justify;">B.3.2 monostortplaats</p>
+
+<p style="text-align: justify;">Dit pakket is een uitbreiding van het volledige pakket B.3.1.</p>
+
+<p style="text-align: justify;">extraheerbare apolaire koolwaterstoffen met IR</p>
+
+<p style="text-align: justify;">gloeiverlies</p>
+
+<p style="text-align: justify;">totaal oplosmiddelen (aspecifiek)</p>
+
+<p style="text-align: justify;">totaal extraheerbare organohalogeenverbindingen (EOX)</p>
+
+<p style="text-align: justify;">steekvastheid (afschuifspanning)</p>
+
+<p style="text-align: justify;">1-stapsschudproef (CMA/2/ll/A12) met bepaling in eluaat van: pH, arseen, barium, lood, cadmium, chroom totaal, chroom VI, koper, nikkel, kwik, zink, molybdeen, antimoon, seleen , fluoride, cyanide , ammonium, nitriet, chloride, sulfaat, totaal opgeloste vaste stoffen (TOS), opgeloste organische koolstof (DOC), fenol index</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">G1 grondwater</p>
+
+<p style="text-align: justify;">metalen (totaalconcentratie): arseen, cadmium, chroom, koper, kwik, lood, nikkel, zink</p>
+
+<p style="text-align: justify;">chroom VI</p>
+
+<p style="text-align: justify;">cyaniden: totaal cyaniden</p>
+
+<p style="text-align: justify;">monocyclische aromatische koolwaterstoffen: benzeen, tolueen, ethylbenzeen, som xylenen, styreen, 1,2,3-trimethylbenzeen, 1,2,4-trimethylbenzeen, 1,3,5-trimethylbenzeen</p>
+
+<p style="text-align: justify;">chloorkoolwaterstoffen: dichloormethaan, trichloormethaan, tetrachloormethaan, vinylchloride, 1, 1-dichloorethaan, 1,2-dichloorethaan, cis+trans-1,2-dichlooretheen, 1, 1, 1-trichloorethaan, 1, 1,2-trichloorethaan, trichlooretheen, tetrachlooretheen, monochloorbenzeen, 1,2-dichloorbenzeen, 1,3-dichloorbenzeen, 1,4-dichloorbenzeen, som trichloorbenzenen, som tetrachloorbenzenen, pentachloorbenzeen en hexachloorbenzeen</p>
+
+<p style="text-align: justify;">chloorfenolen: 2-chloorfenol, 2,4-dichloorfenol, 2,4,5-trichloorfenol, 2,4,6-trichloorfenol, 2,3,4,6-tetrachloorfenol, pentachloorfenol</p>
+
+<p style="text-align: justify;">methyltertiairbutylether</p>
+
+<p style="text-align: justify;">minerale olie</p>
+
+<p style="text-align: justify;">polycyclische aromatische koolwaterstoffen (PAK): naftaleen, acenaftyleen, acenafteen, fluoreen, fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen, indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen</p>
+
+<p style="text-align: justify;">organochloorpesticiden (OCP): aldrin, dieldrin, chloordaan (cis+trans), DDT, DOE, DDD, hexachloorcyclohexaan (α-,β- en γ-isomeer), endosulfan (α, β en sulfaat)</p>
 
 ## BIJLAGE 4 [Erkenning milieudeskundigen houders voor gassen of gevaarlijke stoffen - (deel)domeinen (verv. BVR 16 mei 2014, art. 625, I: 4 oktober 2014)]
 
@@ -1538,13 +3447,165 @@ MINIMUMCHECKLIST VOOR HET KWALITEITSHANDBOEK<BR>Hieronder volgt een   overzicht 
 
 ### BIJLAGE 8
 
-1° Een milieudeskundige in de discipline geluid en trillingen, deeldomein   geluid, vermeld in artikel 6, 1°, c), 1), a. beschikt over minstens :<BR>a) een   klasse 1 sonometer, conform de norm IEC 61672;<BR>b) een klasse 1 kalibrator, conform de norm IEC 60942;<BR>c) een   anemometer;<BR>d) een meetruimte met een diffuus geluidsveld;<BR>e) een ruisbron   die een roze ruis genereert waarvan het spectrum, gemeten in tertsbanden van 100   Hz tot 5 kHz, vlak is binnen een zone van 10dB;<BR>f) de nodige   softwareprogramma's voor de verwerking van de meetresultaten.<BR>2° Een   milieudeskundige in de discipline geluid en trillingen, deeldomein geluid,   vermeld in artikel 6, 1°, c), 1), b. voldoet aan een van de volgende voorwaarden   :<BR>a) beschikken over een dode kamer;<BR>b) beschikken over een   nagalmkamer;<BR>c) beschikken over de buis van Kundt;<BR>d) kunnen aantonen dat   hij samenwerkt met een instelling die in het bezit is van de infrastructuur,   vermeld in punt a), b) of c).<BR>3° Een milieudeskundige in de discipline geluid   en trillingen, deeldomein trillingen, vermeld in artikel 6, 1°, c), 2), beschikt   over minstens een toestel voor het meten van trillingen, conform de norm DIN   45669-1.<BR><BR>
+1° Een milieudeskundige in de discipline geluid en trillingen, deeldomein geluid, vermeld in artikel 6, 1°, c), 1), a. beschikt over minstens :<br>
+a) een klasse 1 sonometer, conform de norm IEC 61672;<br>
+b) een klasse 1 kalibrator, conform de norm IEC 60942;<br>
+c) een anemometer;<br>
+d) een meetruimte met een diffuus geluidsveld;<br>
+e) een ruisbron die een roze ruis genereert waarvan het spectrum, gemeten in tertsbanden van 100 Hz tot 5 kHz, vlak is binnen een zone van 10dB;<br>
+f) de nodige software voor het uitvoeren van zijn taken.<br>
+2° Een milieudeskundige in de discipline geluid en trillingen, deeldomein geluid, vermeld in artikel 6, 1°, c), 1), b. voldoet aan een van de volgende voorwaarden :<br>
+a) beschikken over een dode kamer;<br>
+b) beschikken over een nagalmkamer;<br>
+c) beschikken over de buis van Kundt;<br>
+d) kunnen aantonen dat hij samenwerkt met een instelling die in het bezit is van de infrastructuur, vermeld in punt a), b) of c).<br>
+3° Een milieudeskundige in de discipline geluid en trillingen, deeldomein trillingen, vermeld in artikel 6, 1°, c), 2), beschikt over minstens een toestel voor het meten van trillingen, conform de norm DIN 45669-1.<br>
+&nbsp;
 
 ## BIJLAGE 9 Onderwerpen van de opleiding voor de milieudeskundige in de discipline geluid en trillingen, [de MER-deskundige, de VR-deskundige en de MER-coördinator, vermeld in artikel 11, 12, 13 en 13/2 van dit besluit (verv. BVR 3 mei 2019, art. 272, I: 1 oktober 2019)]
 
 ### BIJLAGE 9
 
-1° a) Een milieudeskundige in de discipline geluid en trillingen,   deeldomein geluid als vermeld in artikel 6, 1°, c), 1), heeft met gunstig gevolg   een opleiding van minstens 50 uur gevolgd, waarin de volgende onderwerpen aan   bod kwamen :<BR>1) elementaire fysische begrippen in verband met de   geluidsleer;<BR>2) geluidsgrootheden en -begrippen;<BR>3) grondbeginselen   geluid;<BR>4) gehoor, gehoorschade, effecten van lawaai, geluidshinder;<BR>5)   lawaaibeheersing;<BR>6) meettechnieken en -apparatuur;<BR>7) berekenen van   emissie- en immissieniveaus;<BR>8) bronnen van lawaai;<BR>b) een   milieudeskundige in de discipline geluid en trillingen, deeldomein trillingen   als vermeld in artikel 6, 1°, c), 2), heeft met gunstig gevolg een opleiding van   minstens 20 uur gevolgd, waarin de volgende onderwerpen aan bod kwamen :<BR>1)   elementaire fysische begrippen in verband met de trillingsleer;<BR>2)   trillingsparameters en -begrippen;<BR>3) grondbeginselen trillingen;<BR>4)   effecten van trillingen, trillingshinder;<BR>5) trillingsbeheersing;<BR>6)   meettechnieken en -apparatuur;<BR>7) berekenen van emissie- en   immissieniveaus;<BR>8) bronnen van trillingen.<BR>2° De opleiding voor de   MER-deskundige, vermeld in artikel 12, § 1, 3° bestaat uit minstens 60 uur per   deeldomein of als er geen deeldomeinen zijn, per discipline, uitgezonderd voor   de discipline licht, warmte en elektromagnetische golven en het deeldomein geur,   waarvoor de opleiding uit minstens 25 uur bestaat. De onderwerpen van de   opleiding per deeldomein of, als er geen deeldomeinen zijn, per discipline zijn   de volgende :<BR>a) discipline mens :<BR>1) deeldomein toxicologie :<BR>1.1.   chemische en ecologische principes en begrippen in verband met   ecotoxicologie;<BR>1.2. effecten van chemische, fysische en biologische stoffen   op het milieu;<BR>1.3. evaluatie van blootstelling en effecten;<BR>1.4.   basisbegrippen van de epidemiologie;<BR>1.5. risico-evaluatie van chemische,   fysische, biologische stoffen in het milieu;<BR>1.6. essentiële begrippen over   celbiologie en menselijke fysiologie in hun relatie met toxicologie;<BR>1.7.   toxicokinetiek en -dynamiek;<BR>1.8. toxicologisch onderzoek en   normstelling;<BR>1.9. overzicht wijzen waarop het lichaam aan polluenten kan   worden blootgesteld en de effecten ervan in het lichaam;<BR>1.10.   biomonitoring;<BR>1.11. milderende maatregelen met betrekking tot het deeldomein   toxicologie.<BR>2) deeldomein psychosomatische aspecten;<BR>2.1.   milieugezondheidskunde;<BR>2.2. basisbegrippen van acute en chronische   toxiciteit;<BR>2.3. basisbegrippen van de epidemiologie en hun toepassing in   milieusettings;<BR>2.4. blootstellingsevalutatie in de gevoelige populaties en   in gevoelige settings;<BR>2.5. risico-evalutie van chemische, fysische en   biologische stoffen;<BR>2.6. psychosomatische en psychosociale gevolgen van   milieublootstellingen en gepercipieerde milieublootstelling;<BR>2.7. mentaal en   sociaal welzijn;<BR>2.8. gevolgen van hinder op het welzijn van de mens;<BR>2.9.   milderende maatregelen met betrekking tot het deeldomein psychosomatische   aspecten.<BR>3) deeldomein mobiliteit :<BR>3.1. verkeerskunde;<BR>3.2.   verkeerstechnologie en -planologie;<BR>3.3. milderende maatregelen met   betrekking tot het deeldomein mobiliteit.<BR>4) deeldomein ruimtelijke aspecten   :<BR>4.1. stedenbouwkunde :<BR>4.2. ruimtelijke planning : ruimtelijke   structuurplannen, ruimtelijke uitvoeringsplannen, planschade, planbaten;<BR>4.3.   ruimtelijke ordening en planologie;<BR>4.4. milderende maatregelen met   betrekking tot het deeldomein ruimtelijke aspecten.<BR>b) discipline fauna en   flora :<BR>1) principes en concepten van levende organisatievormen van   verschillende complexiteit van individu tot gemeenschap;<BR>2) interacties   tussen organismen onderling en tussen organismen en hun niet-levende   omgeving;<BR>3) werken met determinatiesleutels;<BR>4) plantenkunde;<BR>5)   dierkunde;<BR>6) biodiversiteit;<BR>7) milderende maatregelen met betrekking tot   de discipline fauna en flora.<BR>c) discipline bodem :<BR>1) deeldomein   pedologie :<BR>1.1 samenstelling van de bodem, bodemeigenschappen,   bodemhorizonten, bodemstructuur en -textuur, bodemgenetische processen en   bodemclassificatie;<BR>1.2 bodemchemie;<BR>1.3 bodemverontreiniging;<BR>1.4   bodemsaneringstechnieken.<BR>2) deeldomein geologie :<BR>2.1 samenstelling van   de bodem, bodemeigenschappen, bodemhorizonten, bodemstructuur en -textuur,   bodemgenetische processen en bodemclassificatie;<BR>2.2 bodemchemie;<BR>2.3   geologische processen, geologische structuren en geologische   geschiedenis;<BR>2.4 geologische kaarten;<BR>2.5 indeling, samenstelling en   eigenschappen van mineralen en gesteenten;<BR>2.6 bodemverontreiniging;<BR>2.7   bodemsaneringstechnieken.<BR>d) discipline water :<BR>1) deeldomein   geohydrologie :<BR>1.1 porositeit, verticale verdeling van grondwater, wet van   Darcy, grondwaterstromingen en grondwateronttrekking;<BR>1.2 basiskennis   hydrologie en hydrochemie;<BR>1.3 waterkwaliteit, waterecologie en   waterverontreiniging;<BR>1.4 impactmodellering;<BR>1.5   waterzuiveringstechnieken.<BR>2) deeldomein oppervlakte- en afvalwater :<BR>2.1   basiskennis hydrologie en hydrochemie;<BR>2.2 waterkwaliteit, waterecologie en   waterverontreiniging;<BR>2.3 impactmodellering;<BR>2.4 waterbesparing en   waterrecuperatie;<BR>2.5 waterzuiveringstechnieken.<BR>3) deeldomein mariene   waters :<BR>3.1 basiskennis hydrologie en hydrochemie;<BR>3.2 waterkwaliteit,   waterecologie en waterverontreiniging;<BR>3.3 waterzuiveringstechnieken.<BR>e)   discipline lucht :<BR>1) deeldomein geur :<BR>2.1 basisbegrippen emissie,   immissie en eenheid van geur;<BR>2.2 geurhinder;<BR>2.3 olfactometrie en   snuffelmetingen;<BR>2.4 impactmodellering;<BR>2.5 technieken voor   geurbestrijding.<BR>2) deeldomein luchtverontreiniging<BR>2.1 basisbegrippen   emissie, immissie, parts per million, microgram per m3, geleide emissies en   niet-geleide emissies;<BR>2.2 transport van polluenten : atmosferische dispersie   en depositie;<BR>2.3 aantasting ozonlaag, broeikaseffect, fotochemische   luchtverontreiniging, verzuring, fijn stof en gevaarlijke stoffen;<BR>2.4   impactmodellering;<BR>2.5 luchtzuiveringstechnieken.<BR>f) discipline licht,   warmte en elektromagnetische golven :<BR>1) elementaire fysische begrippen in   verband met licht;<BR>2) grondbeginselen optica;<BR>3) studie van   elektromagnetische golven;<BR>4) milderende maatregelen met betrekking tot de   discipline licht, warmte en elektromagnetische golven.<BR>g) discipline klimaat   :<BR>1) klimatologische processen en hun onderlinge verbanden;<BR>2) regionale   klimatologie;<BR>3) globale klimaatsverandering<BR>4) milderende maatregelen met   betrekking tot de discipline klimaat.<BR>h) discipline landschap, bouwkundig   erfgoed en archeologie :<BR>1) deeldomein landschap<BR>1.1   landschapsecologie;<BR>1.2 landschapsgenese;<BR>1.3 landschapsbeheer;<BR>1.4   landschapsontwikkeling en landschapszorg<BR>1.5 milderende maatregelen met   betrekking tot het deeldomein landschap.<BR>2) deeldomein bouwkundig   erfgoed<BR>2.1 monumentenzorg;<BR>2.2 erfgoed;<BR>2.3 milderende maatregelen met   betrekking tot het deeldomein bouwkundig erfgoed.<BR>3) deeldomein   archeologie<BR>3.1 inleiding tot archeologie;<BR>3.2 milderende maatregelen met   betrekking tot het deeldomein archeologie.<BR>3° a) Een MER-deskundige in de   discipline geluid en trillingen, deeldomein geluid als vermeld in artikel 6, 1°,   d), heeft met gunstig gevolg een opleiding gevolgd van minstens 10 uur inzake   het beperken van geluidshinder;<BR>b) Een MER-deskundige in de discipline geluid   en trillingen, deeldomein trillingen als vermeld in artikel 6, 1°, d), heeft met   gunstig gevolg een opleiding gevolgd van minstens 4 uur inzake het beperken van   trillingshinder.<BR>4° Een VR-deskundige als vermeld in artikel 6, 1°, e), heeft   met gunstig gevolg een opleiding gevolgd van minstens 60 uur, waarin de volgende   onderwerpen aan bod kwamen :<BR>a) gevaarlijke stoffen en hun eigenschappen en   gedrag;<BR>b) het inventariseren, analyseren en evalueren van risico's voor mens   en milieu, bij industriële ongevallen waarbij gevaarlijke stoffen betrokken   zijn;<BR>c) het gebruiken van methoden om fysische effecten ten gevolge van de   vrijzetting van gevaarlijke stoffen te berekenen en aan schadeberekening en   risicoberekening te doen;<BR>d) het uitvoeren van schade- en   risicoberekeningen;<BR>e) ruimtelijke ordening en ruimtelijke   planning.<BR><BR>
+1° a) Een milieudeskundige in de discipline geluid en trillingen, deeldomein geluid als vermeld in artikel 6, 1°, c), 1), heeft met gunstig gevolg een opleiding van minstens 60 uur gevolgd, waarin de volgende onderwerpen aan bod kwamen :<br>
+1) elementaire fysische begrippen in verband met de geluidsleer;<br>
+2) geluidsgrootheden en -begrippen;<br>
+3) grondbeginselen geluid;<br>
+4) gehoor, gehoorschade, effecten van lawaai, geluidshinder;<br>
+5) lawaaibeheersing;<br>
+6) meettechnieken en -apparatuur;<br>
+7) berekenen van emissie- en immissieniveaus;<br>
+8) bronnen van lawaai;<br>
+9) beperken van geluidshinder;<br>
+b) een milieudeskundige in de discipline geluid en trillingen, deeldomein trillingen als vermeld in artikel 6, 1°, c), 2), heeft met gunstig gevolg een opleiding van minstens 24 uur gevolgd, waarin de volgende onderwerpen aan bod kwamen :<br>
+1) elementaire fysische begrippen in verband met de trillingsleer;<br>
+2) trillingsparameters en -begrippen;<br>
+3) grondbeginselen trillingen;<br>
+4) effecten van trillingen, trillingshinder;<br>
+5) trillingsbeheersing;<br>
+6) meettechnieken en -apparatuur;<br>
+7) berekenen van emissie- en immissieniveaus;<br>
+8) bronnen van trillingen.<br>
+9) beperken van trillingshinder;<br>
+2° De opleiding voor de MER-deskundige, vermeld in artikel 12, § 1, 3° bestaat uit minstens 60 uur per deeldomein of als er geen deeldomeinen zijn, per discipline, uitgezonderd voor de discipline licht, warmte en elektromagnetische golven en het deeldomein geur, waarvoor de opleiding uit minstens 25 uur bestaat. De onderwerpen van de opleiding per deeldomein of, als er geen deeldomeinen zijn, per discipline zijn de volgende :<br>
+a) discipline mens :<br>
+1) deeldomein toxicologie :<br>
+1.1. chemische en ecologische principes en begrippen in verband met ecotoxicologie;<br>
+1.2. effecten van chemische, fysische en biologische stoffen op het milieu;<br>
+1.3. evaluatie van blootstelling en effecten;<br>
+1.4. basisbegrippen van de epidemiologie;<br>
+1.5. risico-evaluatie van chemische, fysische, biologische stoffen in het milieu;<br>
+1.6. essentiële begrippen over celbiologie en menselijke fysiologie in hun relatie met toxicologie;<br>
+1.7. toxicokinetiek en -dynamiek;<br>
+1.8. toxicologisch onderzoek en normstelling;<br>
+1.9. overzicht wijzen waarop het lichaam aan polluenten kan worden blootgesteld en de effecten ervan in het lichaam;<br>
+1.10. biomonitoring;<br>
+1.11. milderende maatregelen met betrekking tot het deeldomein toxicologie.<br>
+2) deeldomein psychosomatische aspecten;<br>
+2.1. milieugezondheidskunde;<br>
+2.2. basisbegrippen van acute en chronische toxiciteit;<br>
+2.3. basisbegrippen van de epidemiologie en hun toepassing in milieusettings;<br>
+2.4. blootstellingsevalutatie in de gevoelige populaties en in gevoelige settings;<br>
+2.5. risico-evalutie van chemische, fysische en biologische stoffen;<br>
+2.6. psychosomatische en psychosociale gevolgen van milieublootstellingen en gepercipieerde milieublootstelling;<br>
+2.7. mentaal en sociaal welzijn;<br>
+2.8. gevolgen van hinder op het welzijn van de mens;<br>
+2.9. milderende maatregelen met betrekking tot het deeldomein psychosomatische aspecten.<br>
+3) deeldomein mobiliteit :<br>
+3.1. verkeerskunde;<br>
+3.2. verkeerstechnologie en -planologie;<br>
+3.3. milderende maatregelen met betrekking tot het deeldomein mobiliteit.<br>
+3.4. impactmodellering.<br>
+4) deeldomein ruimtelijke aspecten :<br>
+4.1. stedenbouwkunde :<br>
+4.2. ruimtelijke planning : ruimtelijke structuurplannen, ruimtelijke uitvoeringsplannen, planschade, planbaten;<br>
+4.3. ruimtelijke ordening en planologie;<br>
+4.4. milderende maatregelen met betrekking tot het deeldomein ruimtelijke aspecten.<br>
+4.5. geografische informatiesystemen.<br>
+b) discipline fauna en flora :<br>
+1) principes en concepten van levende organisatievormen van verschillende complexiteit van individu tot gemeenschap;<br>
+2) interacties tussen organismen onderling en tussen organismen en hun niet-levende omgeving;<br>
+3) werken met determinatiesleutels;<br>
+4) plantenkunde;<br>
+5) dierkunde;<br>
+6) biodiversiteit;<br>
+7) milderende maatregelen met betrekking tot de discipline fauna en flora.<br>
+c) discipline bodem :<br>
+1) deeldomein pedologie :<br>
+1.1 samenstelling van de bodem, bodemeigenschappen, bodemhorizonten, bodemstructuur en -textuur, bodemgenetische processen en bodemclassificatie;<br>
+1.2 bodemchemie;<br>
+1.3 bodemverontreiniging;<br>
+1.4 bodemsaneringstechnieken.<br>
+2) deeldomein geologie :<br>
+2.1 samenstelling van de bodem, bodemeigenschappen, bodemhorizonten, bodemstructuur en -textuur, bodemgenetische processen en bodemclassificatie;<br>
+2.2 bodemchemie;<br>
+2.3 geologische processen, geologische structuren en geologische geschiedenis;<br>
+2.4 geologische kaarten;<br>
+2.5 indeling, samenstelling en eigenschappen van mineralen en gesteenten;<br>
+2.6 bodemverontreiniging;<br>
+2.7 bodemsaneringstechnieken.<br>
+d) discipline water :<br>
+1) deeldomein geohydrologie :<br>
+1.1 porositeit, verticale verdeling van grondwater, wet van Darcy, grondwaterstromingen en grondwateronttrekking;<br>
+1.2 basiskennis hydrologie en hydrochemie;<br>
+1.3 waterkwaliteit, waterecologie en waterverontreiniging;<br>
+1.4 impactmodellering;<br>
+1.5 waterzuiveringstechnieken.<br>
+2) deeldomein oppervlakte- en afvalwater :<br>
+2.1 basiskennis hydrologie en hydrochemie;<br>
+2.2 waterkwaliteit, waterecologie en waterverontreiniging;<br>
+2.3 impactmodellering;<br>
+2.4 waterbesparing en waterrecuperatie;<br>
+2.5 waterzuiveringstechnieken.<br>
+3) deeldomein mariene waters :<br>
+3.1 basiskennis hydrologie en hydrochemie;<br>
+3.2 waterkwaliteit, waterecologie en waterverontreiniging;<br>
+3.3 waterzuiveringstechnieken.<br>
+e) discipline lucht :<br>
+1) deeldomein geur :<br>
+2.1 basisbegrippen emissie, immissie en eenheid van geur;<br>
+2.2 geurhinder;<br>
+2.3 olfactometrie en snuffelmetingen;<br>
+2.4 impactmodellering;<br>
+2.5 technieken voor geurbestrijding.<br>
+2) deeldomein luchtverontreiniging<br>
+2.1 basisbegrippen emissie, immissie, parts per million, microgram per m3, geleide emissies en niet-geleide emissies;<br>
+2.2 transport van polluenten : atmosferische dispersie en depositie;<br>
+2.3 aantasting ozonlaag, broeikaseffect, fotochemische luchtverontreiniging, verzuring, fijn stof en gevaarlijke stoffen;<br>
+2.4 impactmodellering;<br>
+2.5 luchtzuiveringstechnieken.<br>
+f) discipline licht, warmte en elektromagnetische golven :<br>
+1) elementaire fysische begrippen in verband met licht;<br>
+2) grondbeginselen optica;<br>
+3) studie van elektromagnetische golven;<br>
+4) milderende maatregelen met betrekking tot de discipline licht, warmte en elektromagnetische golven.<br>
+g) discipline klimaat :<br>
+1) klimatologische processen en hun onderlinge verbanden;<br>
+2) regionale klimatologie;<br>
+3) globale klimaatsverandering<br>
+4) milderende maatregelen met betrekking tot de discipline klimaat.<br>
+h) discipline landschap, bouwkundig erfgoed en archeologie :<br>
+1) deeldomein landschap<br>
+1.1 landschapsecologie;<br>
+1.2 landschapsgenese;<br>
+1.3 landschapsbeheer;<br>
+1.4 landschapsontwikkeling en landschapszorg<br>
+1.5 milderende maatregelen met betrekking tot het deeldomein landschap.<br>
+1.6. geografische informatiesystemen.<br>
+2) deeldomein bouwkundig erfgoed<br>
+2.1 monumentenzorg;<br>
+2.2 erfgoed;<br>
+2.3 milderende maatregelen met betrekking tot het deeldomein bouwkundig erfgoed.<br>
+3) deeldomein archeologie<br>
+3.1 inleiding tot archeologie;<br>
+3.2 milderende maatregelen met betrekking tot het deeldomein archeologie.<br>
+3° ...<br>
+4° Een VR-deskundige als vermeld in artikel 6, 1°, e), heeft met gunstig gevolg een opleiding gevolgd van minstens 60 uur, waarin de volgende onderwerpen aan bod kwamen :<br>
+a) gevaarlijke stoffen en hun eigenschappen en gedrag;<br>
+b) het inventariseren, analyseren en evalueren van risico's voor mens en milieu, bij industriële ongevallen waarbij gevaarlijke stoffen betrokken zijn;<br>
+c) het gebruiken van methoden om fysische effecten ten gevolge van de vrijzetting van gevaarlijke stoffen te berekenen en aan schadeberekening en risicoberekening te doen;<br>
+d) het uitvoeren van schade- en risicoberekeningen;<br>
+e) ruimtelijke ordening en ruimtelijke planning.<br>
+&nbsp;
 
 ## BIJLAGE 10 Criteria voor een gunstige beoordeling van de pakketten, vermeld in artikel 25, 2°, tweede lid, b), en artikel 44, vierde lid, 2°, voor laboratoria als vermeld in artikel 6, 5°
 
@@ -1552,11 +3613,7 @@ MINIMUMCHECKLIST VOOR HET KWALITEITSHANDBOEK<BR>Hieronder volgt een   overzicht 
 
 <p style="text-align: justify;">Bijlage 10. Criteria voor de beoordeling van ringtesten en technische proeven</p>
 
-<p style="text-align: justify;">&nbsp;</p>
-
 <p style="text-align: justify;">Hoofdstuk 1. Ringtesten</p>
-
-<p style="text-align: justify;">&nbsp;</p>
 
 <p style="text-align: justify;">1° Algemene bepalingen met betrekking tot de beoordeling van ringtesten:</p>
 
@@ -1566,11 +3623,9 @@ MINIMUMCHECKLIST VOOR HET KWALITEITSHANDBOEK<BR>Hieronder volgt een   overzicht 
 
 <p style="text-align: justify;">c) een gedeelte van de ruwe meetdata of alle ruwe meetdata over het door het laboratorium gerapporteerde resultaat kan bij of na de rapportering opgevraagd worden. Het al dan niet rapporteren van die ruwe meetdata en het al dan niet traceerbaar zijn van het resultaat dat het laboratorium gerapporteerd heeft, vertrekkend van de ruwe meetdata, maken deel uit van de beoordeling van het door het laboratorium gerapporteerde resultaat per parameter als vermeld in 3° en 5°;</p>
 
-<p style="text-align: justify;">d) de deelnemende laboratoria worden uiterlijk op de dag van de verdeling van de ringtestmonsters schriftelijk op de hoogte gebracht van de manier waarop de ringtestresultaten verwerkt en beoordeeld worden.</p>
-
-<p style="text-align: justify;">Als aan de deelnemende laboratoria gevraagd wordt om voor een ringtest bijkomende parameters, die niet behoren tot een pakket als vermeld in bijlage 3, te analyseren, wordt met het gerapporteerde resultaat van die bijkomende parameters geen rekening gehouden bij de beoordeling van de ringtestresultaten per pakket, vermeld in 6°, 7° en 8°;</p>
-
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;">d) de deelnemende laboratoria worden uiterlijk op de dag van de verdeling van de ringtestmonsters schriftelijk op de hoogte gebracht van de manier waarop de ringtestresultaten verwerkt en beoordeeld worden;<br>
+<br>
+e) als aan de deelnemende laboratoria gevraagd wordt om voor een ringtest bijkomende parameters, die niet behoren tot een pakket als vermeld in bijlage 3, te analyseren, wordt met het gerapporteerde resultaat van die bijkomende parameters geen rekening gehouden bij de beoordeling van de ringtestresultaten per pakket, vermeld in 6°, 7° en 8°.</p>
 
 <p style="text-align: justify;">2° Verwerking per parameter van het gerapporteerde resultaat, voor parameters waarvoor getalwaarden gerapporteerd worden:</p>
 
@@ -1590,11 +3645,11 @@ MINIMUMCHECKLIST VOOR HET KWALITEITSHANDBOEK<BR>Hieronder volgt een   overzicht 
 
 <p style="text-align: justify;">b) van de dataset, vermeld in a), worden voor elke parameter de statistische kengetallen, namelijk het gemiddelde en de spreiding, berekend via een robuuste statistische methode als vermeld in ISO/IEC 17043 of ISO 13528;</p>
 
-<p style="text-align: justify;">c) als voor een bepaalde parameter uit de statistische verwerking van de dataset blijkt dat die op basis van de eisen, opgenomen in ISO/IEC 17043 of ISO 13528, niet behouden kan worden, wordt die parameter niet opgenomen in de beoordeling, vermeld in 3° en 5°;</p>
+<p style="text-align: justify;">c) als voor een bepaalde parameter uit de statistische verwerking van de dataset blijkt dat die op basis van de eisen, opgenomen in ISO/IEC 17043 of ISO 13528, of met toepassing van 1°, d), niet behouden kan worden, wordt die parameter niet opgenomen in de beoordeling, vermeld in 3° en 5°;</p>
 
-<p style="text-align: justify;">d) als voor een bepaalde parameter het aantal getalwaarden in de dataset kleiner is dan 5 of wanneer meer dan 1/3 maar minder dan 2/3 van de laboratoria een grenswaarde rapporteerde, wordt die parameter niet behouden voor verwerking;</p>
+<p style="text-align: justify;">d) als voor een bepaalde parameter het aantal getalwaarden in de dataset kleiner is dan 5 of wanneer meer dan 1/3 maar minder dan 2/3 van de laboratoria een grenswaarde of een waarde lager dan de rapportagegrens, vermeld in de desbetreffende wetgeving die van toepassing is in het Vlaamse Gewest, rapporteerde, wordt die parameter niet behouden voor verwerking;</p>
 
-<p style="text-align: justify;">e) aan elke parameter worden een waarde en een spreiding toegewezen. De toegewezen waarde van een parameter is het robuuste gemiddelde van de dataset, vermeld in b), of een bekende waarde op basis van het aanmaakproces. De toegewezen spreiding van een parameter is de robuuste spreiding van de dataset, vermeld in b), of een vaste waarde op basis van een beoogde of toegestane afwijking, die goedgekeurd is door het referentielaboratorium van het Vlaamse Gewest. In het laatste geval kan de beoordeling gebeuren ten opzichte van die vaste toegestane afwijking in plaats van op basis van z-scores;</p>
+<p style="text-align: justify;">e) aan elke parameter worden een waarde en een spreiding toegewezen. De toegewezen waarde van een parameter is het robuuste gemiddelde van de dataset, vermeld in b), of een bekende waarde op basis van het aanmaakproces. De toegewezen spreiding van een parameter is de robuuste spreiding van de dataset, vermeld in b), zo nodig aangepast volgens de modaliteiten, vermeld in 1°, d), of een vaste waarde op basis van een beoogde of toegestane afwijking, die goedgekeurd is door het referentielaboratorium van het Vlaamse Gewest.. In het laatste geval kan de beoordeling gebeuren ten opzichte van die vaste toegestane afwijking in plaats van op basis van z-scores;</p>
 
 <p style="text-align: justify;">f) als het berekende robuuste gemiddelde kleiner is dan de rapportagegrens, vermeld in de desbetreffende wetgeving die van toepassing is in het Vlaamse Gewest, of als 2/3 of meer van de laboratoria een waarde rapporteerden lager dan de rapportagegrens, vermeld in de desbetreffende wetgeving die van toepassing is in het Vlaamse Gewest, of als het aanmaakproces uitsluit dat de parameter aanwezig was, wordt de beoordeling uitgevoerd ten opzichte van de rapportagegrens, vermeld in de desbetreffende wetgeving die van toepassing is in het Vlaamse Gewest;</p>
 
@@ -1606,7 +3661,7 @@ MINIMUMCHECKLIST VOOR HET KWALITEITSHANDBOEK<BR>Hieronder volgt een   overzicht 
 
 <p style="text-align: justify;">a) het resultaat dat het laboratorium gerapporteerd heeft, wordt beoordeeld als "goed" wanneer de absolute waarde van de z-score, berekend zoals vermeld in 2°, g), kleiner is dan of gelijk is aan twee, of, als de toegestane afwijking een vaste waarde is zoals vermeld in 2°, e), wanneer de afwijking tussen het gerapporteerde resultaat en de toegewezen waarde van de parameter kleiner is dan of gelijk is aan die vaste afwijking;</p>
 
-<p style="text-align: justify;">b) als een parameter niet of in een zeer lage concentratie aanwezig was volgens de criteria beschreven in 2°, f), wordt het resultaat van een laboratorium beoordeeld als "goed" wanneer het resultaat dat het laboratorium gerapporteerd heeft lager is dan of gelijk is aan tweemaal de rapportagegrens, vermeld in de desbetreffende wetgeving die van toepassing is in het Vlaamse Gewest;</p>
+<p style="text-align: justify;">b) als een parameter niet of in een zeer lage concentratie aanwezig was volgens de criteria beschreven in 2°, f), wordt het resultaat van een laboratorium beoordeeld als "goed" wanneer het resultaat dat het laboratorium gerapporteerd heeft, indien het een getalwaarde betreft, lager is dan of gelijk is aan tweemaal de rapportagegrens, vermeld in de desbetreffende wetgeving die van toepassing is in het Vlaamse Gewest, of als de rapportagegrens, die gehanteerd wordt door het laboratorium, voldoet aan de rapportagegrens, vermeld in de desbetreffende wetgeving die van toepassing is in het Vlaamse Gewest;</p>
 
 <p style="text-align: justify;">c) het resultaat dat het laboratorium gerapporteerd heeft, wordt beoordeeld als "twijfelachtig" wanneer de absolute waarde van de z-score, berekend zoals vermeld in 2°, g), groter is dan twee maar kleiner is dan of gelijk is aan drie;<br>
 d) in de volgende gevallen wordt het resultaat dat het laboratorium gerapporteerd heeft, beoordeeld als "slecht":</p>
@@ -1631,11 +3686,11 @@ d) in de volgende gevallen wordt het resultaat dat het laboratorium gerapporteer
 
 <p style="text-align: justify;">10) er werd een vals positief resultaat gerapporteerd; dit wil zeggen dat een resultaat werd gerapporteerd dat hoger is dan tweemaal de rapportagegrens, vermeld in de desbetreffende wetgeving die van toepassing is in het Vlaams Gewest terwijl de parameter niet of in zeer lage concentratie aanwezig was volgens de criteria beschreven in 2°, f);</p>
 
-<p style="text-align: justify;">11) er werd een vals negatief resultaat gerapporteerd;</p>
+<p style="text-align: justify;">11) er werd geen melding gemaakt van de uitbesteding als dat toegelaten is;<br>
+<br>
+12) als de toegestane afwijking een vaste waarde is : de afwijking tussen het gerapporteerde resultaat en de toegewezen waarde van de parameter, vermeld in 2°, e), is groter dan de toegestane afwijking;</p>
 
-<p style="text-align: justify;">12) er werd geen melding gemaakt van de uitbesteding als dat toegelaten is;</p>
-
-<p style="text-align: justify;">13) als de toegestane afwijking een vaste waarde is: de afwijking tussen het gerapporteerde resultaat en de toegewezen waarde van de parameter, vermeld in 2°, e), is groter dan de toegestane afwijking;</p>
+<p style="text-align: justify;">13) ...</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
@@ -1647,33 +3702,23 @@ d) in de volgende gevallen wordt het resultaat dat het laboratorium gerapporteer
 
 <p style="text-align: justify;">a) het resultaat dat het laboratorium gerapporteerd heeft, wordt beoordeeld als "goed" wanneer het resultaat dat het laboratorium gerapporteerd heeft, overeenkomt met het referentieresultaat;</p>
 
-<p style="text-align: justify;">b) in de volgende gevallen wordt het resultaat dat het laboratorium gerapporteerd heeft, beoordeeld als "slecht":</p>
-
-<p style="text-align: justify;">1) het resultaat dat het laboratorium gerapporteerd heeft, komt niet overeen met het referentieresultaat;</p>
-
-<p style="text-align: justify;">2) het resultaat dat het laboratorium gerapporteerd heeft, is niet verkregen door de methode, vermeld in 1°, a), toe te passen;</p>
-
-<p style="text-align: justify;">3) de termijn voor het uitvoeren van de analyse, vermeld in 1°, a), werd niet gerespecteerd;</p>
-
-<p style="text-align: justify;">4) de termijn of wijze voor rapportering, vermeld in 1°, b), werd niet gerespecteerd;</p>
-
-<p style="text-align: justify;">5) de ruwe meetdata, vermeld in 1°, c), werden niet gerapporteerd;</p>
-
-<p style="text-align: justify;">6) het gerapporteerde resultaat kan niet worden aangetoond, vertrekkend van de gerapporteerde ruwe meetdata;</p>
-
-<p style="text-align: justify;">7) er werd geen melding gemaakt van de uitbesteding als dat toegelaten is;</p>
-
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;">b) in de volgende gevallen wordt het resultaat dat het laboratorium gerapporteerd heeft, beoordeeld als "slecht" :<br>
+1) er werd geen resultaat gerapporteerd;<br>
+2) het resultaat dat het laboratorium gerapporteerd heeft, komt niet overeen met het referentieresultaat;<br>
+3) het resultaat dat het laboratorium gerapporteerd heeft, is niet verkregen door de methode, vermeld in 1°, a), toe te passen;<br>
+4) de termijn voor het uitvoeren van de analyse, vermeld in 1°, a), werd niet gerespecteerd;<br>
+5) de termijn of wijze voor rapportering, vermeld in 1°, b), werd niet gerespecteerd;<br>
+6) de ruwe meetdata, vermeld in 1°, c), werden niet gerapporteerd;<br>
+7) het gerapporteerde resultaat kan niet worden aangetoond, vertrekkend van de gerapporteerde ruwe meetdata;<br>
+8) er werd geen melding gemaakt van de uitbesteding als dat toegelaten is;<br>
+&nbsp;</p>
 
 <p style="text-align: justify;">6° Beoordeling van de ringtestresultaten per pakket, uitgezonderd microbiologie en het pakket, vermeld in bijlage 3, 3°:</p>
 
-<p style="text-align: justify;">a) het totale aantal te beoordelen parameters voor een pakket wordt berekend als het totale aantal parameters waarvoor een resultaat gerapporteerd moest worden, in voorkomend geval verminderd met:</p>
-
-<p style="text-align: justify;">1) het aantal bijkomende parameters, vermeld in 1°, d), tweede alinea;</p>
-
-<p style="text-align: justify;">2) de niet behouden parameters, vermeld in 2°, c).</p>
-
-<p style="text-align: justify;">Als uitbestedingen worden toegelaten binnen een pakket, wordt voor elke deelnemer afzonderlijk dat aantal nog verminderd met het aantal uitbestede parameters op voorwaarde dat die uitbesteding bij de rapportering van de resultaten als dusdanig opgegeven is;</p>
+<p style="text-align: justify;">a) het totale aantal te beoordelen parameters voor een pakket wordt berekend als het totale aantal parameters waarvoor een resultaat gerapporteerd moest worden, in voorkomend geval verminderd met :<br>
+1) het aantal bijkomende parameters, vermeld in 1°, e);<br>
+2) de niet-behouden parameters, vermeld in 2°, c).<br>
+Als uitbestedingen worden toegelaten binnen een pakket, wordt voor elke deelnemer afzonderlijk dat aantal nog verminderd met het aantal uitbestede parameters op voorwaarde dat van die uitbesteding melding gemaakt is;</p>
 
 <p style="text-align: justify;">b) om een gunstige beoordeling voor een pakket als vermeld in bijlage 3, met vijf of minder parameters te krijgen, mag voor geen enkele parameter die behoort tot het pakket, een beoordeling "twijfelachtig" of "slecht" gescoord worden;</p>
 
@@ -1689,11 +3734,10 @@ d) in de volgende gevallen wordt het resultaat dat het laboratorium gerapporteer
 
 <p style="text-align: justify;">7° Beoordeling van ringtestresultaten per pakket met betrekking tot microbiologie:</p>
 
-<p style="text-align: justify;">a) per parameter worden verschillende stalen aangeboden. Een laboratorium is geslaagd voor een parameter als voor niet meer dan een derde van de aangeboden stalen een beoordeling "twijfelachtig" of "slecht" gescoord wordt en voor niet meer dan een zesde van de aangeboden stalen een beoordeling "slecht" behaald wordt;</p>
+<p style="text-align: justify;">a) per parameter worden verschillende stalen aangeboden. Een laboratorium is geslaagd voor een parameter als voor niet meer dan een derde, afgerond op het dichtstbijzijnde gehele getal, van het aantal beoordeelde stalen een beoordeling "twijfelachtig" of "slecht" gescoord wordt en voor niet meer dan een zesde, afgerond op het dichtstbijzijnde gehele getal, van het aantal beoordeelde stalen een beoordeling "slecht" behaald wordt;"</p>
 
-<p style="text-align: justify;">b) een laboratorium is geslaagd voor een pakket als het geslaagd is voor alle parameters die deel uitmaken van het pakket;</p>
-
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;">b) een laboratorium is geslaagd voor een pakket als het geslaagd is voor alle parameters die deel uitmaken van het pakket;<br>
+&nbsp;</p>
 
 <p style="text-align: justify;">8° Beoordeling van ringtestresultaten per pakket met betrekking tot het pakket, vermeld in bijlage 3, 3° :<br>
 a) als voor dezelfde parameter, met uitzondering van de handmatige bepaling van de bodemtextuur, verschillende stalen worden aangeboden, worden de resultaten van de verschillende stalen beoordeeld als volgt :<br>
@@ -1705,7 +3749,7 @@ b) als voor de parameter handmatige bepaling van de bodemtextuur verschillende s
 2) de parameter krijgt de beoordeling "slecht" als meer dan 10 % van de stalen, afgerond op het dichtstbijzijnde gehele getal, de beoordeling "slecht" kreeg;<br>
 c) om een gunstige beoordeling voor een pakket als vermeld in bijlage 3, 3°, te krijgen, moet voldaan worden aan de volgende voorwaarden :<br>
 1) voor geen enkele parameter als vermeld in bijlage 3, 3°, a) en b), mag een beoordeling "twijfelachtig" of "slecht" verkregen worden;<br>
-2) wat de parameter, vermeld in bijlage 3, 3°, c), betreft : voor hetzij de handmatige bepaling voor minstens één werknemer, hetzij de granulometrische bepaling, moet een beoordeling "goed" verkregen worden.</p>
+2) wat de parameter, vermeld in bijlage 3, 3°, c), betreft : voor hetzij de handmatige bepaling voor minstens één werknemer, hetzij de granulometrische bepaling, moet een beoordeling "goed" verkregen worden."</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
@@ -1715,21 +3759,21 @@ c) om een gunstige beoordeling voor een pakket als vermeld in bijlage 3, 3°, te
 
 <p style="text-align: justify;">Als het laboratorium moet slagen voor een technische proef, kan die, afhankelijk van het pakket, bestaan uit een of meer van de volgende mogelijkheden:</p>
 
-<p style="text-align: justify;">1° het door het referentielaboratorium van het Vlaamse Gewest bijwonen van een typische monsterneming. Daarbij wordt aan het laboratorium gevraagd om specifieke aspecten van de uitvoering te demonsteren. Daarvan wordt door het referentielaboratorium van het Vlaamse Gewest een verslag opgemaakt met vermelding van de vastgestelde tekortkomingen. Een laboratorium is geslaagd als de tekortkomingen die zijn opgenomen in het verslag, werden weggewerkt. De nodige evidentie daarvoor wordt bezorgd aan en geëvalueerd door het referentielaboratorium van het Vlaamse Gewest;</p>
+<p style="text-align: justify;">1° het door het referentielaboratorium van het Vlaamse Gewest bijwonen van een typische monsterneming. Daarbij wordt aan het laboratorium gevraagd om specifieke aspecten van de uitvoering toe te lichten of te demonsteren. Daarvan wordt door het referentielaboratorium van het Vlaamse Gewest een verslag opgemaakt met vermelding van de vastgestelde tekortkomingen. Een laboratorium is geslaagd als de tekortkomingen die zijn opgenomen in het verslag, werden weggewerkt. De nodige evidentie daarvoor wordt bezorgd aan en geëvalueerd door het referentielaboratorium van het Vlaamse Gewest;</p>
 
 <p style="text-align: justify;">2° het deelnemen aan een door het referentielaboratorium van het Vlaamse Gewest georganiseerde meting. Een laboratorium is geslaagd als de resultaten van die meting voldoen aan de criteria die zijn meegedeeld voorafgaand aan de uitvoering van de technische proef;</p>
 
-<p style="text-align: justify;">3° het bijwonen van een typische meting door het referentielaboratorium van het Vlaamse Gewest. Daarbij wordt aan het laboratorium gevraagd om de specifieke aspecten van de meting te demonstreren. Daarvan wordt door het referentielaboratorium van het Vlaamse Gewest een verslag opgesteld met vermelding van de vastgestelde tekortkomingen. Een laboratorium is geslaagd als de tekortkomingen die zijn opgenomen in het verslag, werden weggewerkt. De nodige evidentie daarvoor wordt bezorgd aan en geëvalueerd door het referentielaboratorium van het Vlaamse Gewest;</p>
+<p style="text-align: justify;">3° het bijwonen van een typische meting door het referentielaboratorium van het Vlaamse Gewest. Daarbij wordt aan het laboratorium gevraagd om de specifieke aspecten van de meting toe te lichten of te demonstreren. Daarvan wordt door het referentielaboratorium van het Vlaamse Gewest een verslag opgesteld met vermelding van de vastgestelde tekortkomingen. Een laboratorium is geslaagd als de tekortkomingen die zijn opgenomen in het verslag, werden weggewerkt. De nodige evidentie daarvoor wordt bezorgd aan en geëvalueerd door het referentielaboratorium van het Vlaamse Gewest;</p>
 
-<p style="text-align: justify;">4° documentaire controle door het referentielaboratorium van het Vlaamse Gewest van de inhoud van de rapporten. Daarvan wordt door het referentielaboratorium van het Vlaamse Gewest een verslag opgemaakt met vermelding van de vastgestelde tekortkomingen. Een laboratorium is geslaagd als de tekortkomingen die zijn opgenomen in het verslag, werden weggewerkt. De nodige evidentie daarvoor wordt bezorgd aan en geëvalueerd door het referentielaboratorium van het Vlaamse Gewest;</p>
+<p style="text-align: justify;">4° een documentaire controle door het referentielaboratorium van het Vlaamse Gewest van de inhoud van de rapporten. Daarvan wordt door het referentielaboratorium van het Vlaamse Gewest een verslag opgemaakt met vermelding van de vastgestelde tekortkomingen. Een laboratorium is geslaagd als de tekortkomingen die zijn opgenomen in het verslag, werden weggewerkt. De nodige evidentie daarvoor wordt bezorgd aan en geëvalueerd door het referentielaboratorium van het Vlaamse Gewest;</p>
 
-<p style="text-align: justify;">5° controle door het referentielaboratorium van het Vlaamse Gewest van de gehanteerde berekenings- en rapportagewijze. Daarvan wordt door het referentielaboratorium van het Vlaamse Gewest een verslag opgemaakt met vermelding van de vastgestelde tekortkomingen. Een laboratorium is geslaagd als de tekortkomingen, vermeld in het verslag, werden weggewerkt. De nodige evidentie daarvoor wordt bezorgd aan en geëvalueerd door het referentielaboratorium van het Vlaamse Gewest;</p>
+<p style="text-align: justify;">5° de controle door het referentielaboratorium van het Vlaamse Gewest van de gehanteerde berekenings- en rapportagewijze. Daarvan wordt door het referentielaboratorium van het Vlaamse Gewest een verslag opgemaakt met vermelding van de vastgestelde tekortkomingen. Een laboratorium is geslaagd als de tekortkomingen, vermeld in het verslag, werden weggewerkt. De nodige evidentie daarvoor wordt bezorgd aan en geëvalueerd door het referentielaboratorium van het Vlaamse Gewest;</p>
 
 <p style="text-align: justify;">6° het uitvoeren van een meting op een door het referentielaboratorium van het Vlaamse Gewest aangeboden proefobject. Een laboratorium is geslaagd als de resultaten van die meting niet meer afwijken van de referentiewaarde dan de toegelaten afwijkingen die zijn meegedeeld voorafgaand aan de uitvoering van de technische proef;</p>
 
 <p style="text-align: justify;">7° een documentaire controle door het referentielaboratorium van het Vlaamse Gewest van het validatiedossier en de berekende meetonzekerheid, opgesteld door het laboratorium. Daarvan wordt door het referentielaboratorium van het Vlaamse Gewest een verslag opgemaakt met vermelding van de vastgestelde tekortkomingen. Een laboratorium is geslaagd als de tekortkomingen die zijn opgenomen in het verslag, werden weggewerkt. De nodige evidentie daarvoor wordt bezorgd aan en geëvalueerd door het referentielaboratorium van het Vlaamse Gewest;</p>
 
-<p style="text-align: justify;">8° deelnemen aan een multiplechoice-examen, georganiseerd door het referentielaboratorium van het Vlaamse Gewest. Een laboratorium is geslaagd als voldaan wordt aan de voorwaarden die zijn meegedeeld voorafgaand aan de deelname aan het examen.</p>
+<p style="text-align: justify;">8° het deelnemen aan een multiplechoice-examen, georganiseerd door het referentielaboratorium van het Vlaamse Gewest. Een laboratorium is geslaagd als voldaan wordt aan de voorwaarden die zijn meegedeeld voorafgaand aan de deelname aan het examen.</p>
 
 <p>&nbsp;</p>
 
@@ -1845,240 +3889,711 @@ Enig artikel. Het niet-voldoen aan de hiernavolgende wettelijke verplichtingen, 
 
 ### BIJLAGE 14.
 
-<P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bijlage   14 bij het VLAREL<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bijlage   14. Lijst met minimumgegevens van het certificaat als vermeld in artikel 43, §   2, artikel 43/1, § 3, artikel 43/2, § 2, artikel 43/3, § 2, en artikel 43/4, §   3</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>1°   de naam, het adres, het telefoon- en faxnummer en het e-mailadres van het   opleidingscentrum;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>2°   het erkenningsnummer dat is toegekend door de Vlaamse overheid aan het   opleidingscentrum;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>3°   het logo van het opleidingscentrum;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>4°   de voor- en achternaam en de geboortedatum en -plaats van de geslaagde   persoon;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>5°   de voor- en achternaam en de handtekening van alle juryleden en van de directeur   van het erkende opleidingscentrum en de handtekening van de geslaagde   persoon;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>6°   in geval van een bijscholing: de datum van de bijscholing;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>7°   in geval van een opleiding: als een persoon voldoet aan de bijzondere   erkenningsvoorwaarden, vermeld in artikel 13/1, 14, 15, 16 of 17: het   erkenningsnummer dat toegekend wordt aan de geslaagde persoon en de   aanvangsdatum van de erkenning.</P>
+<p style="text-align: justify;">1° de naam, het adres, het telefoon- en faxnummer en het e-mailadres van het opleidingscentrum;<br>
+2° het erkenningsnummer dat is toegekend door de Vlaamse overheid aan het opleidingscentrum;<br>
+3° het logo van het opleidingscentrum;<br>
+4° de voor- en achternaam en de geboortedatum&nbsp;van de geslaagde persoon;<br>
+5° de voor- en achternaam en de handtekening van alle juryleden en van de directeur van het erkende opleidingscentrum en de handtekening van de geslaagde persoon;<br>
+6° in geval van een bijscholing of actualisatie-examen : de datum van de bijscholing of het actualisatie-examen;<br>
+7° in geval van een opleiding of examen : als een persoon voldoet aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 13/1, 14, 15, 16, 17, 17/1, 17/2, 17/3, 17/4 of 17/5 : het erkenningsnummer dat toegekend wordt aan de geslaagde persoon en de aanvangsdatum van de erkenning;<br>
+8° in geval van een koeltechnicus als vermeld in artikel 6, 2°, e) : de categorie van certificaat en de activiteiten die de certificaathouder op grond daarvan mag uitvoeren;<br>
+9° in geval van een technicus als vermeld in artikel 6, 2°, f) tot en met i), of een bedrijf als vermeld in artikel 6, 7°, b) en c) : de activiteiten die de certificaathouder mag verrichten.</p>
 
 ## [BIJLAGE 15 Lijst met minimumgegevens voor het verslag als vermeld in artikel 43, § 3, artikel 43/1, § 4, artikel 43/2, § 3, (ing. BVR 1 maart 2013, art. 180)] [artikel 43/3, § 3, artikel 43/4, § 4, artikel 43/6, § 4, artikel 43/7, § 3, artikel 43/8, § 3, artikel 43/9, § 3, en artikel 43/10, § 3 (verv. BVR 18 maart 2016, art. 280, I: 5 september 2016)]
 
 ### BIJLAGE 15.
 
-<P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bijlage   15 bij het VLAREL<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bijlage   15. Lijst met minimumgegevens voor het verslag als vermeld in artikel 43, § 3,   artikel 43/1, § 4, artikel 43/2, § 3, artikel 43/3, § 3, en artikel 43/4, §   4</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>1°   de datum van het afgelegde examen;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>2°   een lijst van de aanwezige examenjuryleden, met vermelding van de voorzitter van   de examenjury;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>3°   een aanwezigheidslijst van alle kandidaten, met hun   handtekeningen;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>4°   voor elke kandidaat, de vermelding van de behaalde percentages per onderdeel van   het examen en, in voorkomend geval, het totaalpercentage;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>5°   de voor- en achternaam, de geboortedatum en -plaats, het adres, het   telefoonnummer en het e-mailadres van de geslaagde   persoon;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>6°   de naam, het adres, het telefoon- en faxnummer en het e-mailadres van de   werkgever van de geslaagde kandidaat;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>7°   in voorkomend geval, onregelmatigheden of bijzonderheden over het   examen;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>8°   in geval van een bijscholing: de datum van de bijscholing;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>9°   in geval van een opleiding: als een persoon voldoet aan de bijzondere   erkenningsvoorwaarden, vermeld in artikel 13/1, 14, 15, 16 of 17: het   erkenningsnummer dat toegekend wordt aan de geslaagde persoon en de   aanvangsdatum van de erkenning.</P>
+<p style="text-align: justify;">1° de datum van het afgelegde examen;<br>
+2° een lijst van de aanwezige examenjuryleden, met vermelding van de voorzitter van de examenjury;<br>
+3° een aanwezigheidslijst van alle kandidaten, met hun handtekeningen;<br>
+4° voor elke kandidaat, de vermelding van de behaalde percentages per onderdeel van het examen en, in voorkomend geval, het totaalpercentage;<br>
+5° de voor- en achternaam, de geboortedatum en -plaats, het rijksregisternummer, het adres, het telefoonnummer en het e-mailadres van de geslaagde persoon;<br>
+6° de naam, het adres, het telefoon- en faxnummer en het e-mailadres van de werkgever van de geslaagde kandidaat;<br>
+7° in voorkomend geval, onregelmatigheden of bijzonderheden over het examen;<br>
+8° in geval van een bijscholing of actualisatie-examen : de datum van de bijscholing of het actualisatie-examen;<br>
+9° in geval van een opleiding of examen : als een persoon voldoet aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 13/1, 14, 15, 16, 17, 17/1, 17/2, 17/3, 17/4 of 17/5 : het erkenningsnummer dat toegekend wordt aan de geslaagde persoon en de aanvangsdatum van de erkenning;<br>
+10° in geval van een koeltechnicus als vermeld in artikel 6, 2°, e) : de categorie van certificaat.</p>
 
 ## [BIJLAGE 16 Inhoud van de algemene opleiding en bijscholing, vermeld in [artikel 25/3, 1°, b),] en artikel 53/6, 2° en 3° (ing. BVR 1 maart 2013, art. 180)]
 
 ### BIJLAGE 16.
 
-<P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bijlage   16 bij het VLAREL<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bijlage   16. Inhoud van de algemene opleiding en bijscholing, vermeld in artikel 25/3,   2°, b), en artikel 53/6, 2° en 3°</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>De   programma's van de algemene opleiding en bijscholing beantwoorden ten minste aan   de volgende voorwaarden:</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>1°   ze zijn zo opgevat dat ze de kandidaat in staat stellen de nodige kennis en   bekwaamheid te verwerven voor het vervullen van het geheel van de decretale en   reglementaire taken;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>2°   ze omvatten ten minste:</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 11.35pt"   class=MsoNormal>-   16 uur theoretisch onderricht en 8 uur praktisch onderricht voor de algemene   opleiding;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 11.35pt"   class=MsoNormal>-   4 uur theoretisch onderricht en 4 uur praktisch onderricht voor een   bijscholing.</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>In   de algemene opleiding komen, als dat relevant is, de volgende onderwerpen aan   bod:</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>1°   wetgeving:</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 11.35pt"   class=MsoNormal>a)   titel 1 en Il van het VLAREM met betrekking tot de werken, vermeld in artikel 6,   7°, van het VLAREL;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 11.35pt"   class=MsoNormal>b)   het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer   en de uitvoeringsbesluiten ervan met betrekking tot de werken, vermeld in   artikel 6, 7°, van het VLAREL;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt 11.35pt"   class=MsoNormal>c)   VLAREL met betrekking tot boorbedrijven;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>2°   de verschillende boortechnieken;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>3°   de bediening en werking van de machines;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>4°   (hydro)geologie;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>5°   geotechniek;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>6°   de monsternames;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>7°   de afwerking van pomp- en peilputten en boringen;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>8°   het buiten gebruik stellen van pomp- en peilputten en   boringen;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>9°   het boorverslag;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>10°   informatiebronnen.</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>De   bijscholing bestaat uit een herhaling van de belangrijkste aspecten van de   algemene opleiding, rekening houdend met de evolutie van de regelgeving en de   technieken, en de disciplines waarvoor het boorbedrijf erkend   is.</P>
+<p style="text-align: justify;">Inhoud van de algemene opleiding en bijscholing, vermeld in artikel 25/3, 1°, b), en artikel 53/6, 2° en 3°<br>
+<br>
+De programma's van de algemene opleiding en bijscholing beantwoorden ten minste aan de volgende voorwaarden:<br>
+1° ze zijn zo opgevat dat ze de kandidaat in staat stellen de nodige kennis en bekwaamheid te verwerven voor het vervullen van het geheel van de decretale en reglementaire taken;<br>
+2° ze omvatten ten minste:<br>
+- 16 uur theoretisch onderricht en 8 uur praktisch onderricht voor de algemene opleiding;<br>
+- 4 uur theoretisch onderricht en 4 uur praktisch onderricht voor een bijscholing.<br>
+<br>
+In de algemene opleiding komen, als dat relevant is, de volgende onderwerpen aan bod:<br>
+1° wetgeving:<br>
+a) titel 1 en Il van het VLAREM met betrekking tot de werken, vermeld in artikel 6, 7°, a),&nbsp;van het VLAREL;<br>
+b) het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer en de uitvoeringsbesluiten ervan met betrekking tot de werken, vermeld in artikel 6, 7°, a) van het VLAREL;<br>
+c) VLAREL met betrekking tot boorbedrijven;<br>
+2° de verschillende boortechnieken;<br>
+3° de bediening en werking van de machines;<br>
+4° (hydro)geologie;<br>
+5° geotechniek;<br>
+6° de monsternames;<br>
+7° de afwerking van pomp- en peilputten en boringen;<br>
+8° het buiten gebruik stellen van pomp- en peilputten en boringen;<br>
+9° het boorverslag;<br>
+10° informatiebronnen.<br>
+<br>
+De bijscholing bestaat uit een herhaling van de belangrijkste aspecten van de algemene opleiding, rekening houdend met de evolutie van de regelgeving en de technieken, en de disciplines waarvoor het boorbedrijf erkend is.</p>
 
 ## [BIJLAGE 17 Programma van de aanvullende vorming voor bodemsaneringsdeskundigen (ing. BVR 1 maart 2013, art. 180)]
 
 ### BIJLAGE 17.
 
-<P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bijlage   17 bij het VLAREL<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bijlage   17. Programma van de aanvullende vorming voor   bodemsaneringsdeskundigen</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>1°   Het programma van de aanvullende vorming beantwoordt ten minste aan de volgende   voorwaarden:</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>a)   het programma is zo opgevat dat het de kandidaat in staat stelt de nodige kennis   en bekwaamheid te verwerven met betrekking tot de taken van de   bodemsaneringsdeskundige, vermeld in artikel 6, 6°;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>b)   het programma wordt opgesplitst in de volgende twee   modules:</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt"   class=MsoTableGrid border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 460.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=614>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>PROGRAMMA-INHOUD</P></TD></TR>    <TR style="mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 460.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=614>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>Module 1.         Relevante milieuwetgeving in verband met bodem, de standaardprocedure         'oriënterend bodemonderzoek', de standaardprocedures en codes van goede         praktijk inzake het grondverzet, en het compendium voor de monsterneming         en analyse in het kader van het Materialendecreet en Bodemdecreet,         afgekort CMA</P></TD></TR>    <TR style="mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 460.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=614>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>1.1.         Relevante milieuwetgeving in verband met bodem</P></TD></TR>    <TR style="mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 460.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=614>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>Kennis van         de volgende wetgeving:</P>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>1° het         Bodemdecreet en het VLAREBO;</P>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>2° bijlage         1 van titel 1 van het VLAREM;</P>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>3° de         bepalingen over verminderde milieuheffing van de         afvalstoffenreglementering;</P>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>4° de         bepalingen van het VLAREL met betrekking tot de erkenning als         bodemsaneringsdeskundige.</P></TD></TR>    <TR style="mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 460.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=614>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>1.2.         Standaardprocedure 'oriënterend   bodemonderzoek'</P></TD></TR>    <TR style="mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 460.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=614>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>Inhoudelijk         vertrouwd raken met de standaardprocedure 'oriënterend bodemonderzoek'.         </P>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>Een         oriënterend bodemonderzoek correct kunnen uitvoeren en erover         rapporteren.</P></TD></TR>    <TR style="mso-yfti-irow: 6">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 460.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=614>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>1.3.         Standaardprocedures en codes van goede praktijk inzake het         grondverzet</P></TD></TR>    <TR style="mso-yfti-irow: 7">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 460.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=614>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>Kennis van         de wettelijke bepalingen inzake de grondverzetsregeling. Het inhoudelijk         vertrouwd raken met de bestaande standaardprocedures en codes van goede         praktijk zodat de verschillende studies en verslagen correct kunnen worden         uitgevoerd en gerapporteerd:</P>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>1°         standaardprocedure 'studie van de ontvangende   grond';</P>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>2°         standaardprocedure 'opmaak van een technisch         verslag'.</P></TD></TR>    <TR style="mso-yfti-irow: 8">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 460.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=614>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>1.4. Het         CMA wat betreft de monsterneming in het kader van het Bodemdecreet en de         uitvoeringsbesluiten ervan</P></TD></TR>    <TR style="mso-yfti-irow: 9">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 460.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=614>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>Module 2.         Overige standaardprocedures en codes van goede praktijk, vermeld in het         Bodemdecreet en de uitvoeringsbesluiten ervan</P></TD></TR>    <TR style="mso-yfti-irow: 10">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 460.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=614>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>2.1. De         overige standaardprocedures</P></TD></TR>    <TR style="mso-yfti-irow: 11">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 460.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=614>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>Inhoudelijk         vertrouwd raken met de bestaande standaardprocedures zodat de         verschillende bodemonderzoeken en projecten correct kunnen worden         uitgevoerd en gerapporteerd:</P>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>1°         standaardprocedure 'beschrijvend bodemonderzoek';</P>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>2°         standaardprocedure 'oriënterend en beschrijvend         bodemonderzoek';</P>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>3°         standaardprocedure 'bodemsaneringsproject';</P>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>4°         standaardprocedure 'beperkt bodemsaneringsproject';</P>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>5°         standaardprocedure 'bodemsaneringswerken, eindevaluatieonderzoek en         nazorg'.</P></TD></TR>    <TR style="mso-yfti-irow: 12">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 460.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=614>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>2.2. De         overige codes van goede praktijk</P></TD></TR>    <TR style="mso-yfti-irow: 13; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 460.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=614>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>Inhoudelijk         vertrouwd raken met de belangrijkste elementen van de verschillende door         de</P>        <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"         class=MsoNormal>OVAM         opgestelde en gepubliceerde codes van goede       praktijk.</P></TD></TR></TBODY></TABLE>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>c)   het programma omvat ten minste 30 uur voor module 1 en 30 uur voor module   2.</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Beide   modules van de aanvullende vorming kunnen afzonderlijk worden   gevolgd;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>2°   Beide modules van de aanvullende vorming worden afgesloten met een   examen.</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Een   persoon die slaagt voor het examen, krijgt een getuigschrift van de aanvullende   vorming voor bodemsaneringsdeskundigen voor de overeenstemmende   module.</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Een   persoon die het onderricht van module 1 van de aanvullende vorming voor   bodemsaneringsdeskundigen heeft gevolgd, kan deelnemen aan het examen voor   module 1.</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Een   persoon die het onderricht van module 2 van de aanvullende vorming voor   bodemsaneringsdeskundigen heeft gevolgd, kan deelnemen aan het examen voor   module 2 als hij in het bezit is van een getuigschrift van de aanvullende   vorming voor bodemsaneringsdeskundigen, module 1.</P>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>3°   In afwijking van punt 2° worden de personen, vermeld in artikel 53/4, § 3,   artikel 103/2 en 103/3, door de erkende opleidingscentra toegelaten om deel te   nemen aan het examen van de overeenstemmende module zonder dat ze   voorafgaandelijk het onderricht van de modules hebben   gevolgd.
+<p style="text-align: justify;">Programma van de aanvullende vorming voor bodemsaneringsdeskundigen</p>
+
+<p style="text-align: justify;">1° Het programma van de aanvullende vorming beantwoordt ten minste aan de volgende voorwaarden:</p>
+
+<p style="text-align: justify;">a) het programma is zo opgevat dat het de kandidaat in staat stelt de nodige kennis en bekwaamheid te verwerven met betrekking tot de taken van de bodemsaneringsdeskundige, vermeld in artikel 6, 6°;</p>
+
+<p style="text-align: justify;">b) het programma wordt opgesplitst in de volgende twee modules:</p>
+
+<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 460.6pt; background-color: transparent;">
+			<p style="text-align: justify;">PROGRAMMA-INHOUD</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
+			<p style="text-align: justify;">Module 1. Relevante milieuwetgeving in verband met bodem, de standaardprocedure 'oriënterend bodemonderzoek', de standaardprocedures en codes van goede praktijk inzake het grondverzet, en het compendium voor de monsterneming en analyse in het kader van het Materialendecreet en Bodemdecreet, afgekort CMA</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
+			<p style="text-align: justify;">1.1. Relevante milieuwetgeving in verband met bodem</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
+			<p style="text-align: justify;">Kennis van de volgende wetgeving:</p>
+
+			<p style="text-align: justify;">1° het Bodemdecreet en het VLAREBO;</p>
+
+			<p style="text-align: justify;">2° bijlage 1 van titel 1 van het VLAREM;</p>
+
+			<p style="text-align: justify;">3° de bepalingen over verminderde milieuheffing van de afvalstoffenreglementering;</p>
+
+			<p style="text-align: justify;">4° de bepalingen van het VLAREL met betrekking tot de erkenning als bodemsaneringsdeskundige.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
+			<p style="text-align: justify;">1.2. Standaardprocedure 'oriënterend bodemonderzoek'</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
+			<p style="text-align: justify;">Inhoudelijk vertrouwd raken met de standaardprocedure 'oriënterend bodemonderzoek'.</p>
+
+			<p style="text-align: justify;">Een oriënterend bodemonderzoek correct kunnen uitvoeren en erover rapporteren.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
+			<p style="text-align: justify;">1.3. Standaardprocedures en codes van goede praktijk inzake het grondverzet</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
+			<p style="text-align: justify;">Kennis van de wettelijke bepalingen inzake de grondverzetsregeling. Het inhoudelijk vertrouwd raken met de bestaande standaardprocedures en codes van goede praktijk zodat de verschillende studies en verslagen correct kunnen worden uitgevoerd en gerapporteerd:</p>
+
+			<p style="text-align: justify;">1° standaardprocedure 'studie van de ontvangende grond';</p>
+
+			<p style="text-align: justify;">2° standaardprocedure 'opmaak van een technisch verslag'.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
+			<p style="text-align: justify;">1.4. Het CMA wat betreft de monsterneming in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
+			<p style="text-align: justify;">Module 2. Overige standaardprocedures en codes van goede praktijk, vermeld in het Bodemdecreet en de uitvoeringsbesluiten ervan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
+			<p style="text-align: justify;">2.1. De overige standaardprocedures</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
+			<p style="text-align: justify;">Inhoudelijk vertrouwd raken met de bestaande standaardprocedures zodat de verschillende bodemonderzoeken en projecten correct kunnen worden uitgevoerd en gerapporteerd:</p>
+
+			<p style="text-align: justify;">1° standaardprocedure 'beschrijvend bodemonderzoek';</p>
+
+			<p style="text-align: justify;">2° standaardprocedure 'oriënterend en beschrijvend bodemonderzoek';</p>
+
+			<p style="text-align: justify;">3° standaardprocedure 'bodemsaneringsproject';</p>
+
+			<p style="text-align: justify;">4° standaardprocedure 'beperkt bodemsaneringsproject';</p>
+
+			<p style="text-align: justify;">5° standaardprocedure 'bodemsaneringswerken, eindevaluatieonderzoek en nazorg'.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
+			<p style="text-align: justify;">2.2. De overige codes van goede praktijk</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 460.6pt; background-color: transparent;">
+			<p style="text-align: justify;">Inhoudelijk vertrouwd raken met de belangrijkste elementen van de verschillende door de</p>
+
+			<p style="text-align: justify;">OVAM opgestelde en gepubliceerde codes van goede praktijk.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="text-align: justify;">c) het programma omvat ten minste 30 uur voor module 1 en 30 uur voor module 2.</p>
+
+<p style="text-align: justify;">Beide modules van de aanvullende vorming kunnen afzonderlijk worden gevolgd;</p>
+
+<p style="text-align: justify;">2° Beide modules van de aanvullende vorming worden afgesloten met een examen.</p>
+
+<p style="text-align: justify;">Een persoon die slaagt voor het examen, krijgt een getuigschrift van de aanvullende vorming voor bodemsaneringsdeskundigen voor de overeenstemmende module. In afwijking daarvan krijgen de personen, vermeld in artikel 103/2 en 103/3, na het volgen van de aanvullende vorming voor bodemsaneringsdeskundigen een getuigschrift van de aanvullende vorming voor de gevolgde module.</p>
+
+<p style="text-align: justify;">Een persoon die het onderricht van module 1 van de aanvullende vorming voor bodemsaneringsdeskundigen heeft gevolgd, kan deelnemen aan het examen voor module 1.</p>
+
+<p style="text-align: justify;">Een persoon die het onderricht van module 2 van de aanvullende vorming voor bodemsaneringsdeskundigen heeft gevolgd, kan deelnemen aan het examen voor module 2 als hij in het bezit is van een getuigschrift van de aanvullende vorming voor bodemsaneringsdeskundigen, module 1.</p>
+
+<p style="text-align: justify;">3° In afwijking van punt 2° worden de personen, vermeld in artikel 53/4, § 3, artikel 103/2 en 103/3, door de erkende opleidingscentra toegelaten om deel te nemen aan het examen van de overeenstemmende module zonder dat ze voorafgaandelijk het onderricht van de modules hebben gevolgd.</p>
 
 ## [BIJLAGE 18 Retributies voor de behandeling van de aanvraag en de uitoefening van het toezicht op de erkenningen met betrekking tot het leefmilieu (ing. BVR 1 maart 2013, art. 180)]
 
 ### BIJLAGE 18.
 
-<p style="text-align: justify;">Retributies voor de behandeling van de aanvraag en de uitoefening van het toezicht op de erkenningen met betrekking tot het leefmilieu</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">A. Retributie voor de behandeling van de aanvraag tot erkenning</p>
-
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
+Retributies voor de behandeling van de aanvraag en de uitoefening van het toezicht op de erkenningen met betrekking tot het leefmilieu<br>
+A. Retributie voor de behandeling van de aanvraag tot erkenning<br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="width: 395.25pt; background-color: transparent;">
-			<p style="text-align: justify;">categorie erkenning</p>
-			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(212, 208, 200); width: 65.35pt; background-color: transparent;">
-			<p style="text-align: justify;">bedrag</p>
-			</td>
+			<td>categorie erkenning</td>
+			<td>bedrag</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 395.25pt; background-color: transparent;">
-			<p style="text-align: justify;">deskundigen</p>
-
-			<p style="text-align: justify;">- milieudeskundige in de discipline houders voor gassen of gevaarlijke stoffen</p>
-
-			<p style="text-align: justify;">- milieudeskundige in de discipline bodemcorrosie</p>
-
-			<p style="text-align: justify;">- milieudeskundige in de discipline geluid en trillingen</p>
-
-			<p style="text-align: justify;">- MER-deskundige</p>
-
-			<p style="text-align: justify;">a) voor een eerste discipline</p>
-
-			<p style="text-align: justify;">b) per bijkomende discipline</p>
-
-			<p style="text-align: justify;">- VR-deskundige</p>
-			</td>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext rgb(212, 208, 200); width: 65.35pt; background-color: transparent;">
-			<p style="text-align: justify;">&nbsp;</p>
-
-			<p style="text-align: justify;">500 euro</p>
-
-			<p style="text-align: justify;">500 euro</p>
-
-			<p style="text-align: justify;">500 euro</p>
-
-			<p style="text-align: justify;">&nbsp;</p>
-
-			<p style="text-align: justify;">500 euro</p>
-
-			<p style="text-align: justify;">125 euro</p>
-
-			<p style="text-align: justify;">500 euro</p>
-			</td>
+			<td>deskundigen</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 395.25pt; background-color: transparent;">
-			<p style="text-align: justify;">milieucoördinatoren en milieuverificateurs</p>
-
-			<p style="text-align: justify;">- milieucoördinatoren</p>
-			</td>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext rgb(212, 208, 200); width: 65.35pt; background-color: transparent;">
-			<p style="text-align: justify;">&nbsp;</p>
-
-			<p style="text-align: justify;">250 euro</p>
-			</td>
+			<td>- milieudeskundige in de discipline houders voor gassen of gevaarlijke stoffen</td>
+			<td>500 euro</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 395.25pt; background-color: transparent;">
-			<p style="text-align: justify;">bodemsaneringsdeskundigen</p>
-			</td>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext rgb(212, 208, 200); width: 65.35pt; background-color: transparent;">
-			<p style="text-align: justify;">500 euro</p>
-			</td>
+			<td>- milieudeskundige in de discipline bodemcorrosie</td>
+			<td>500 euro</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 395.25pt; background-color: transparent;">
-			<p style="text-align: justify;">boorbedrijven</p>
-
-			<p style="text-align: justify;">a) voor een eerste discipline</p>
-
-			<p style="text-align: justify;">b) per bijkomende discipline</p>
-			</td>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext rgb(212, 208, 200); width: 65.35pt; background-color: transparent;">
-			<p style="text-align: justify;">&nbsp;</p>
-
-			<p style="text-align: justify;">500 euro</p>
-
-			<p style="text-align: justify;">125 euro</p>
-			</td>
+			<td>- milieudeskundige in de discipline geluid en trillingen</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>- MER-deskundige</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>a) voor een eerste discipline</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>b) per bijkomende discipline</td>
+			<td>125 euro</td>
+		</tr>
+		<tr>
+			<td>- VR-deskundige</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>milieucoördinatoren en milieuverificateurs</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- milieucoördinatoren</td>
+			<td>250 euro</td>
+		</tr>
+		<tr>
+			<td>bodemsaneringsdeskundigen</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>a) type 1</td>
+			<td>250 euro</td>
+		</tr>
+		<tr>
+			<td>b) type 2</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>bedrijven</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- boorbedrijf</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>a) voor een eerste discipline</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>b) per bijkomende discipline</td>
+			<td>125 euro</td>
+		</tr>
+		<tr>
+			<td>- bedrijf voor brandbeveiligingsapparatuur</td>
+			<td>500 euro</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+B. Retributie voor de uitoefening van het toezicht op de erkenning<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>categorie erkenning</td>
+			<td>bedrag</td>
+		</tr>
+		<tr>
+			<td>deskundigen</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- milieudeskundige in de discipline houders voor gassen of gevaarlijke stoffen</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>- milieudeskundige in de discipline bodemcorrosie</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>- milieudeskundige in de discipline geluid en trillingen</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>- MER-deskundige</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>a) voor een eerste discipline</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>b) per bijkomende discipline</td>
+			<td>125 euro</td>
+		</tr>
+		<tr>
+			<td>- VR-deskundige</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>- airco-energiedeskundige</td>
+			<td>125 euro</td>
+		</tr>
+		<tr>
+			<td>technici</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- technicus vloeibare brandstof</td>
+			<td>125 euro</td>
+		</tr>
+		<tr>
+			<td>- technicus gasvormige brandstof</td>
+			<td>125 euro</td>
+		</tr>
+		<tr>
+			<td>- technicus verwarmingsaudit</td>
+			<td>125 euro</td>
+		</tr>
+		<tr>
+			<td>- technicus stookolietanks</td>
+			<td>125 euro</td>
+		</tr>
+		<tr>
+			<td>- koeltechnicus</td>
+			<td>125 euro</td>
+		</tr>
+		<tr>
+			<td>- technicus voor brandbeveiligingsapparatuur</td>
+			<td>125 euro</td>
+		</tr>
+		<tr>
+			<td>- technicus voor elektrische schakelinrichtingen</td>
+			<td>125 euro</td>
+		</tr>
+		<tr>
+			<td>- technicus voor apparatuur die oplosmiddelen bevat</td>
+			<td>125 euro</td>
+		</tr>
+		<tr>
+			<td>- technicus voor klimaatregelingsapparatuur in bepaalde motorvoertuigen</td>
+			<td>30 euro</td>
+		</tr>
+		<tr>
+			<td>milieucoördinatoren en milieuverificateurs</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- milieucoördinatoren</td>
+			<td>250 euro</td>
+		</tr>
+		<tr>
+			<td>- milieuverificateurs</td>
+			<td>250 euro</td>
+		</tr>
+		<tr>
+			<td>bodemsaneringsdeskundigen</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>a) type 1</td>
+			<td>250 euro</td>
+		</tr>
+		<tr>
+			<td>b) type 2</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>bedrijven</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- boorbedrijf</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>a) voor een eerste discipline</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>b) per bijkomende discipline</td>
+			<td>125 euro</td>
+		</tr>
+		<tr>
+			<td>- koeltechnisch bedrijf</td>
+			<td>500 euro</td>
+		</tr>
+		<tr>
+			<td>- bedrijf voor brandbeveiligingsapparatuur</td>
+			<td>500 euro</td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="text-align: justify;">&nbsp;</p>
+### BIJLAGE 19
 
-<p style="text-align: justify;">B. Retributie voor de uitoefening van het toezicht op de erkenning</p>
+Identificatiegegevens als vermeld in artikel 27, § 2, 1°, a), en artikel 32<br>
+<br>
+1° in geval van een natuurlijke persoon :<br>
+a) de voor- en achternaam;<br>
+b) het privéadres;<br>
+c) het rijksregisternummer;<br>
+d) in voorkomend geval, de naam, de rechtsvorm, het ondernemingsnummer en het adres van de werkgever;<br>
+e) de contactgegevens van de aanvrager;<br>
+f) als de erkenningsaanvraag uitgaat van een natuurlijke persoon die een zelfstandig beroep uitoefent : het ondernemingsnummer;<br>
+2° in geval van een rechtspersoon :<br>
+a) de naam;<br>
+b) de rechtsvorm van de rechtspersoon die de aanvraag indient of namens wie ze wordt ingediend;<br>
+c) het adres van de maatschappelijke zetel;<br>
+d) het ondernemingsnummer;<br>
+e) de identificatiegegevens van de personeelsleden en de erkenningen of beroepskwalificaties die ze bezitten;<br>
+f) de identificatiegegevens van de bestuurders.
 
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
+### BIJLAGE 20
+
+Lijst van de apparatuur, instrumenten en materialen die ten minste aanwezig zijn voor het afnemen van het praktische examen, vermeld in artikel 43/6, § 6<br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="width: 395.25pt; background-color: transparent;">
-			<p style="text-align: justify;">categorie erkenning</p>
-			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(212, 208, 200); width: 65.35pt; background-color: transparent;">
-			<p style="text-align: justify;">bedrag</p>
-			</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;cat. I</td>
+			<td>cat. II</td>
+			<td>cat. III</td>
+			<td>cat. IV</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 395.25pt; background-color: transparent;">
-			<p style="text-align: justify;">deskundigen</p>
-
-			<p style="text-align: justify;">- milieudeskundige in de discipline houders voor gassen of gevaarlijke stoffen</p>
-
-			<p style="text-align: justify;">- milieudeskundige in de discipline bodemcorrosie</p>
-
-			<p style="text-align: justify;">- milieudeskundige in de discipline geluid en trillingen</p>
-
-			<p style="text-align: justify;">- MER-deskundige</p>
-
-			<p style="text-align: justify;">a) voor een eerste discipline</p>
-
-			<p style="text-align: justify;">b) per bijkomende discipline</p>
-
-			<p style="text-align: justify;">- VR-deskundige</p>
-
-			<p style="text-align: justify;">- airco-energiedeskundige</p>
-			</td>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext rgb(212, 208, 200); width: 65.35pt; background-color: transparent;">
-			<p style="text-align: justify;">&nbsp;</p>
-
-			<p style="text-align: justify;">500 euro</p>
-
-			<p style="text-align: justify;">500 euro</p>
-
-			<p style="text-align: justify;">500 euro</p>
-
-			<p style="text-align: justify;">&nbsp;</p>
-
-			<p style="text-align: justify;">500 euro</p>
-
-			<p style="text-align: justify;">125 euro</p>
-
-			<p style="text-align: justify;">500 euro</p>
-
-			<p style="text-align: justify;">125 euro</p>
-			</td>
+			<td>onderdelen van de koelinstallatie :<br>
+			- compressor<br>
+			- condensor<br>
+			- koelmiddelreservoir<br>
+			- filter of droger<br>
+			- elektromagnetisch ventiel<br>
+			- thermostatisch expansieventiel<br>
+			- verdamper<br>
+			- afsluitklep<br>
+			- veiligheids-, meet- en regelapparatuur : manometers, pressostaten en thermostaten</td>
+			<td>X</td>
+			<td>X</td>
+			<td>X</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 395.25pt; background-color: transparent;">
-			<p style="text-align: justify;">technici:</p>
-
-			<p style="text-align: justify;">- technicus vloeibare brandstof</p>
-
-			<p style="text-align: justify;">- technicus gasvormige brandstof</p>
-
-			<p style="text-align: justify;">- technicus verwarmingsaudit</p>
-
-			<p style="text-align: justify;">- technicus stookolietanks</p>
-			</td>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext rgb(212, 208, 200); width: 65.35pt; background-color: transparent;">
-			<p style="text-align: justify;">&nbsp;</p>
-
-			<p style="text-align: justify;">125 euro</p>
-
-			<p style="text-align: justify;">125 euro</p>
-
-			<p style="text-align: justify;">125 euro</p>
-
-			<p style="text-align: justify;">125 euro</p>
-			</td>
+			<td>- manifold en soepele verbindingen</td>
+			<td>X</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 395.25pt; background-color: transparent;">
-			<p style="text-align: justify;">milieucoördinatoren en milieuverificateurs</p>
-
-			<p style="text-align: justify;">- milieucoördinatoren</p>
-
-			<p style="text-align: justify;">- milieuverificateurs</p>
-			</td>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext rgb(212, 208, 200); width: 65.35pt; background-color: transparent;">
-			<p style="text-align: justify;">&nbsp;</p>
-
-			<p style="text-align: justify;">250 euro</p>
-
-			<p style="text-align: justify;">250 euro</p>
-			</td>
+			<td>- recuperatiegroep voor koelmiddelen waarbij na het overpompen een druk van 0,5 bar absoluut wordt bereikt</td>
+			<td>X</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 395.25pt; background-color: transparent;">
-			<p style="text-align: justify;">bodemsaneringsdeskundigen</p>
-			</td>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext rgb(212, 208, 200); width: 65.35pt; background-color: transparent;">
-			<p style="text-align: justify;">500 euro</p>
-			</td>
+			<td>- koelmiddelcilinder (nieuw of gerecycleerd) met geldige keuring voor het benodigde gas + lege koelmiddelcilinder met geldige keuring en met dubbele afsluiters, geschikt voor de recuperatie en afvalophaling van koelgassen</td>
+			<td>X</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext; width: 395.25pt; background-color: transparent;">
-			<p style="text-align: justify;">boorbedrijven</p>
-
-			<p style="text-align: justify;">a) voor een eerste discipline</p>
-
-			<p style="text-align: justify;">b) per bijkomende discipline</p>
-			</td>
-			<td style="border-color: rgb(212, 208, 200) windowtext windowtext rgb(212, 208, 200); width: 65.35pt; background-color: transparent;">
-			<p style="text-align: justify;">&nbsp;</p>
-
-			<p style="text-align: justify;">500 euro</p>
-
-			<p style="text-align: justify;">125 euro</p>
-			</td>
+			<td>- tweetrapsvacuümpomp</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>weegschaal met een aanwijsnauwkeurigheid van minimaal 10 g</td>
+			<td>X</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- vacuümmeter</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- elektronische lekdetector met een detectiegrens van ten minste 5 g/jaar</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+		</tr>
+		<tr>
+			<td>- zeepoplossing of een vergelijkbaar product</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+		</tr>
+		<tr>
+			<td>- cilinder of een netwerk met een inert gas (droge stikstof, argon of helium), voorzien van een reduceerventiel en een debietregelaar</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- verbindingselementen, leidingen en dichtingen</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- snijgereedschap voor koperleidingen</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- ontbramer</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- buigapparaat of -tang</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- hardsoldeerinstallatie met gasdrukregelaar en zuurstofdrukregelaar en leidingen, voorzien van terugslagkleppen en soepele verbindingen</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- aanhechtingsmateriaal voor hardsolderen</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- fosforbevattend aanhechtingsmateriaal met 5% zilver</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- beitsmiddel of reinigingsproduct</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- handgereedschap : sleutels, schroevendraaiers en tangen</td>
+			<td>X</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>- digitale thermometer met contactsonde of infraroodthermometer</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="text-align: justify;">&nbsp;</p>
+### BIJLAGE 21
+
+Minimale technische uitrusting als vermeld in artikel 53/7, 7°<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;cat. I</td>
+			<td>cat. II</td>
+			<td>cat. III</td>
+			<td>cat. IV</td>
+		</tr>
+		<tr>
+			<td>manifold met soepele verbindingen</td>
+			<td>X</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>recuperatiegroep voor koelmiddelen waarbij na het overpompen een druk van 0,5 bar absoluut wordt bereikt</td>
+			<td>X</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>koelmiddelcilinder (nieuw of gerecycleerd) met geldige keuring voor het benodigde gas + lege koelmiddelcilinder met geldige keuring en met dubbele afsluiters, geschikt voor de recuperatie en afvalophaling van koelgassen</td>
+			<td>X</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>tweetrapsvacuümpomp</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>weegschaal met een aanwijsnauwkeurigheid van minimaal 0,01 kg voor koelmiddelcilinders met een inhoud aan koelmiddel die kleiner is dan 30 kg, met een aanwijsnauwkeurigheid van minimaal 0,1 kg voor koelmiddelcilinders met een koelmiddelinhoud die groter is dan of gelijk is aan 30 kg, en met een minimale aanwijsnauwkeurigheid van 0,3% van de koelmiddelinhoud van de koelmiddelcilinder voor koelmiddelcilinders met een inhoud vanaf 300 kg</td>
+			<td>X</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>vacuümmeter</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>elektronische lekdetector met een lekdetectiegevoeligheid van ten minste 5 g/jaar</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+		</tr>
+		<tr>
+			<td>zeepoplossing of een vergelijkbaar product</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>cilinder met een inert gas (droge stikstof, argon of helium), voorzien van reduceerventiel en debietmeter</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>digitale thermometer met contactsonde of infraroodthermometer</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>hardsoldeerinstallatie met gasdrukregelaar en zuurstofdrukregelaar en leidingen, voorzien van terugslagkleppen</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>elektrische multimeter</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>ampèremeter</td>
+			<td>X</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+### BIJLAGE 22
+
+Lijst met minimumgegevens voor het overzicht van de koeltechnische bedrijven die met gunstig gevolg gekeurd zijn als vermeld in artikel 53/9, 4°<br>
+<br>
+1° de naam van het bedrijf;<br>
+2° de rechtsvorm van het bedrijf;<br>
+3° het adres van de maatschappelijke zetel en van de exploitatiezetels;<br>
+4° het ondernemingsnummer en het vestigingsnummer;<br>
+5° het telefoonnummer van het bedrijf;<br>
+6° het e-mailadres van het bedrijf;<br>
+7° de voor- en achternaam van de directeur van het bedrijf;<br>
+8° de voor- en achternaam, de geboortedatum en -plaats, het certificaatnummer en de categorie van de koeltechnici;<br>
+9° het erkenningsnummer dat toegekend wordt aan het bedrijf en de aanvangsdatum van de erkenning.
