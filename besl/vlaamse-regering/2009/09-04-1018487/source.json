@@ -2,16 +2,16 @@
   "codex_id": 1018487,
   "title": "Besluit van de Vlaamse Regering van 2009-09-04 inzake de certificering van personeel voor de terugwinning van bepaalde oplosmiddelen op basis van gefluoreerde broeikasgassen uit apparatuur",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018487/VolledigDocument?datum=2013-05-03",
-  "source_sha256": "be46ce6331a2af9b6c4029e6787ca1b4ed1e180d554e31654a0533cf78136e17",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018487/VolledigDocument?datum=2016-09-05",
+  "source_sha256": "9d8aa9a1887a0569ae064a7bf39787ba817f21c6b42ef3a54817817c7dcaabc8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018487&param=informatie",
-  "as_of": "2013-05-03",
+  "as_of": "2016-09-05",
   "made": "2009-09-04",
   "gazette": "2009-10-27",
   "numac": 2009036009,
   "document_start": "2009-11-06",
   "document_end": "2016-09-05",
-  "in_force": "2013-05-03",
+  "in_force": "2016-09-05",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2013-05-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-09-05; future article versions excluded; article text as the API gives it"
 }
