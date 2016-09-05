@@ -2,16 +2,16 @@
   "codex_id": 1018475,
   "title": "Besluit van de Vlaamse Regering van 2009-09-04 inzake de certificering van bedrijven en hun technici voor brandbeveiligingssystemen die [ozonlaagafbrekende (verv. BVR 1 maart 2013, art. 61)] stoffen of gefluoreerde broeikasgassen bevatten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018475/VolledigDocument?datum=2013-05-03",
-  "source_sha256": "e99507e3f0899474b82eef92b64df665b66f7ddbdd193603f97e9385d45414dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018475/VolledigDocument?datum=2016-09-05",
+  "source_sha256": "17682237ee8f5a16b0d564d9453dcf2451f4a443a7d560b0e3d1b9a6fcc63393",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018475&param=informatie",
-  "as_of": "2013-05-03",
+  "as_of": "2016-09-05",
   "made": "2009-09-04",
   "gazette": "2009-10-22",
   "numac": 2009035981,
   "document_start": "2009-11-01",
   "document_end": "2016-09-05",
-  "in_force": "2013-05-03",
+  "in_force": "2016-09-05",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2013-05-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-09-05; future article versions excluded; article text as the API gives it"
 }
