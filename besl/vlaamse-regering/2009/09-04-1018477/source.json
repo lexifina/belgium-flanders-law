@@ -2,16 +2,16 @@
   "codex_id": 1018477,
   "title": "Besluit van de Vlaamse Regering van 2009-09-04 inzake de certificering van koeltechnische bedrijven en hun koeltechnici",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018477/VolledigDocument?datum=2014-10-04",
-  "source_sha256": "7e9f03756f7967a794cfe63a909b176ae59aac5715156564da44a5eacc40d362",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018477/VolledigDocument?datum=2016-09-05",
+  "source_sha256": "60ac1d938d34043f87e9693a826903fe95de6971361b111d6fc37bc56e5f852c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018477&param=informatie",
-  "as_of": "2014-10-04",
+  "as_of": "2016-09-05",
   "made": "2009-09-04",
   "gazette": "2009-10-22",
   "numac": 2009035993,
   "document_start": "2009-11-01",
   "document_end": "2016-09-05",
-  "in_force": "2014-10-04",
+  "in_force": "2016-09-05",
   "article_versions": 59,
-  "record_form": "consolidated version as in force on 2014-10-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-09-05; future article versions excluded; article text as the API gives it"
 }
