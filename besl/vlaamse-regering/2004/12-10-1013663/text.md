@@ -337,9 +337,7 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
-			<p style="text-align: justify;">a) Ruilverkavelingsprojecten.</p>
-
-			<p style="text-align: justify;">° Vergunningsplichtige werken ter uitvoering van een nuttig verklaarde ruilverkaveling</p>
+			<p style="text-align: justify;">a) ...</p>
 			</td>
 		</tr>
 		<tr>
@@ -364,8 +362,6 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			<p style="text-align: justify;">- een droogleggingsproject van 50 ha of meer; of</p>
 
 			<p style="text-align: justify;">- een droogleggingsproject van 15 ha of meer, dat een aanzienlijke verlaging van de freatische grondwatertafel in een bijzonder beschermd gebied tot gevolg kan hebben.</p>
-
-			<p style="text-align: justify;">° Waterbeheersingsprojecten op onbevaarbare waterlopen, zoals de aanleg van overstromingsgebieden, wachtbekkens of van nieuwe waterlopen, die gelegen zijn in of een aanzienlijke invloed kunnen hebben op een bijzonder beschermd gebied, met uitzondering van instandhoudings-, herstel- of onderhoudswerken.</p>
 			</td>
 		</tr>
 		<tr>
@@ -1005,7 +1001,12 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
-			<p style="text-align: justify;">h) Werken inzake kanalisering, met inbegrip van de vergroting of verdieping van de vaargeul, en ter beperking van overstromingen, met inbegrip van de aanleg van sluizen, stuwen, dijken, overstromingsge-bieden en wachtbekkens, die gelegen zijn in of een aanzienlijke invloed kunnen hebben op een bijzonder beschermd gebied.</p>
+			<p style="text-align: justify;">h) ° Werken op of langs niet-kunstmatige bevaarbare waterlopen, namelijk :<br>
+			1) verbreden of verdiepen van de vaargeul;<br>
+			2) aanleg van stuwen.<br>
+			° Werken ter beperking van overstromingen, namelijk :<br>
+			1) aanleg van overstromingsgebieden met een volumecapaciteit van 250.000 m3 of meer;<br>
+			2) aanleg van dijken met een lengte van 500 m of meer.</p>
 			</td>
 		</tr>
 		<tr>
@@ -1184,7 +1185,7 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
-			<p style="text-align: justify;">k) Inrichtingen bestemd voor de destructie van kadavers.</p>
+			<p style="text-align: justify;">k) Inrichtingen bestemd voor de destructie van kadavers met een verwerkingscapaciteit van meer dan 10 ton per dag.</p>
 			</td>
 		</tr>
 		<tr>
@@ -1285,7 +1286,7 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 De categorieën van projecten waarvoor overeenkomstig artikel 4.3.2, § 2bis en § 3bis, van het decreet een project-MER of een project-m.e.r.-screeningsnota moet worden opgesteld.<br>
 <br>
 1. Landbouw, bosbouw en aquacultuur<br>
-a) ruilverkavelingsprojecten (projecten die niet in bijlage II zijn opgenomen)<br>
+a) ruilverkavelingsprojecten<br>
 b) projecten voor het gebruik van niet in cultuur gebrachte gronden of seminatuurlijke gebieden voor intensieve landbouw (projecten die niet in bijlage II zijn opgenomen)<br>
 c) waterbeheersingsprojecten voor landbouwdoeleinden, met inbegrip van irrigatie- en droogleggingsprojecten (projecten die niet in bijlage II zijn opgenomen)<br>
 d) eerste bebossing en ontbossing met het oog op omschakeling naar een ander bodemgebruik (projecten die niet in bijlage II zijn opgenomen)<br>
@@ -1363,6 +1364,7 @@ h) aanleg van olie- en gaspijpleidinginstallaties (projecten die niet onder bijl
 i) aanleg van aquaducten over lange afstand (projecten die niet onder bijlage II vallen)<br>
 j) werken voor het onttrekken of kunstmatig aanvullen van grondwater, die niet zijn opgenomen in bijlage I of II<br>
 k) projecten voor de overbrenging van water tussen stroomgebieden, die niet zijn opgenomen in bijlage I of II<br>
+l) Werken inzake kanalisering en ter beperking van overstromingen (flood relief werken) (projecten die niet in bijlage II zijn opgenomen);<br>
 11. Andere projecten<br>
 a) permanente race- en testbanen voor gemotoriseerde voertuigen (projecten die niet onder bijlage II vallen)<br>
 b) installaties voor de verwijdering van afval (projecten die niet onder bijlage I of II vallen)<br>
