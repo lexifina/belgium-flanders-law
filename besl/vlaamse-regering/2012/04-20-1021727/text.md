@@ -498,7 +498,9 @@ Een emissierecht kan worden overgedragen door en aan personen binnen de   Europe
 
 ### ART. 58.
 
-Een exploitant van een BKG-installatie van wie het emissiejaarrapport van   het voorgaande kalenderjaar uiterlijk op 31 maart van het lopende jaar niet is   geverifieerd overeenkomstig artikel 4.10.1.5. van titel II van het VLAREM, mag   geen emissierechten meer overdragen tot dat rapport is geverifieerd en   goedgekeurd. <BR><BR>Het eerste lid is alleen van toepassing op   BKG-installaties.
+Een exploitant van een BKG-installatie van wie het emissiejaarrapport van het voorgaande kalenderjaar uiterlijk op 31 maart van het lopende jaar niet is geverifieerd overeenkomstig artikel 4.10.1.5. van titel II van het VLAREM, mag geen emissierechten meer overdragen tot dat rapport is geverifieerd.<br>
+<br>
+Het eerste lid is alleen van toepassing op BKG-installaties.
 
 ### ART. 59.
 
