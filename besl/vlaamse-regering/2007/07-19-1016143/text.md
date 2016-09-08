@@ -14,7 +14,36 @@ In dit besluit wordt verstaan onder :<br />1° raadgevende comités : de raadgev
 
 ### ART. 2.
 
-§ 1. De raadgevende comités van Jongerenwelzijn en Zorg en Gezondheid, bestaan elk uit 18 leden, waarvan :<br />1° vier vertegenwoordigers van de gebruikers van de door het betrokken agentschap georganiseerde ondersteuning;<br />2° vier vertegenwoordigers van de voorzieningen, die actief zijn op het werkterrein van het betrokken agentschap;<br />3° vier vertegenwoordigers van de werknemers van de voorzieningen, vermeld in 2°;<br />4° zes onafhankelijke deskundigen.<br /><br />§ 2. Het raadgevend comité van het VAPH bestaat uit 24 leden, waarvan :<br />1° zes vertegenwoordigers van de gebruikers van de door het agentschap georganiseerde ondersteuning;<br />2° zes vertegenwoordigers van de voorzieningen, die actief zijn op het werkterrein van het agentschap;<br />3° zes vertegenwoordigers van de werknemers van de voorzieningen, vermeld in 2°;<br />4° zes onafhankelijke deskundigen.<br /><br />§ 3. Het raadgevend comité van Kind en Gezin bestaat uit 20 leden, waarvan :<br />1° vier vertegenwoordigers van de gebruikers van de door het betrokken agentschap georganiseerde ondersteuning;<br />2° vier vertegenwoordigers van de voorzieningen, die actief zijn op het werkterrein van het betrokken agentschap;<br />3° vier vertegenwoordigers van de werknemers van de voorzieningen, vermeld in 2°;<br />4° acht onafhankelijke deskundigen.<br /><br />§ 4. Het raadgevend comité van het Vlaams Zorgfonds bestaat uit 20 leden, waarvan :<br />1° vier vertegenwoordigers van de zorgkassen;<br />2° vier vertegenwoordigers van de verenigingen van gebruikers en mantelzorgers;<br />3° vier vertegenwoordigers van de erkende zorgverleners;<br />4° vier vertegenwoordigers van de Vlaamse sociale partners;<br />5° vier onafhankelijke deskundigen.<br /><br />
+§ 1. Het raadgevend comité van Zorg en Gezondheid bestaat uit achttien leden, waarvan :<br>
+1° vier vertegenwoordigers van de gebruikers van de door het betrokken agentschap georganiseerde ondersteuning;<br>
+2° vier vertegenwoordigers van de voorzieningen, die actief zijn op het werkterrein van het betrokken agentschap;<br>
+3° vier vertegenwoordigers van de werknemers van de voorzieningen, vermeld in 2°;<br>
+4° zes onafhankelijke deskundigen.<br>
+<br>
+§ 2. Het raadgevend comité van het VAPH bestaat uit 24 leden, waarvan :<br>
+1° zes vertegenwoordigers van de gebruikers van de door het agentschap georganiseerde ondersteuning;<br>
+2° zes vertegenwoordigers van de voorzieningen, die actief zijn op het werkterrein van het agentschap;<br>
+3° zes vertegenwoordigers van de werknemers van de voorzieningen, vermeld in 2°;<br>
+4° zes onafhankelijke deskundigen.<br>
+<br>
+§ 3. Het raadgevend comité van Kind en Gezin bestaat uit 20 leden, waarvan :<br>
+1° vier vertegenwoordigers van de gebruikers van de door het betrokken agentschap georganiseerde ondersteuning;<br>
+2° vier vertegenwoordigers van de voorzieningen, die actief zijn op het werkterrein van het betrokken agentschap;<br>
+3° vier vertegenwoordigers van de werknemers van de voorzieningen, vermeld in 2°;<br>
+4° acht onafhankelijke deskundigen.<br>
+<br>
+§ 4. Het raadgevend comité van het Vlaams Zorgfonds bestaat uit 20 leden, waarvan :<br>
+1° vier vertegenwoordigers van de zorgkassen;<br>
+2° vier vertegenwoordigers van de verenigingen van gebruikers en mantelzorgers;<br>
+3° vier vertegenwoordigers van de erkende zorgverleners;<br>
+4° vier vertegenwoordigers van de Vlaamse sociale partners;<br>
+5° vier onafhankelijke deskundigen.<br>
+<br>
+§ 5 Het raadgevend comité van Jongerenwelzijn bestaat uit 23 leden, waarvan :<br>
+1° zes vertegenwoordigers van de gebruikers van de ondersteuning, georganiseerd door de departementen en agentschappen die betrokken zijn bij de integrale jeugdhulp;<br>
+2° acht vertegenwoordigers van de voorzieningen die actief zijn op het terrein van de departementen en agentschappen die betrokken zijn bij de integrale jeugdhulp;<br>
+3° drie vertegenwoordigers van de werknemers van de voorzieningen vermeld in punt 2° ;<br>
+4° zes onafhankelijke deskundigen.
 
 ### ART. 3.
 
