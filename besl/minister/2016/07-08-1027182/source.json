@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027182,
+  "title": "Ministerieel besluit van 2016-07-08 houdende vaststelling van het subsidiëringsprogramma voor gemeentelijke rioleringen, kwzi's en individuele waterzuiveringsinstallaties, voor het eerste kwartaalprogramma 2017",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027182/VolledigDocument?datum=2016-09-11",
+  "source_sha256": "a013580d3e523eaa37f0e0c9815bb651103d2d23dacc4ab81f8b65f33588d741",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027182&param=informatie",
+  "as_of": "2016-09-11",
+  "made": "2016-07-08",
+  "gazette": "2016-09-01",
+  "numac": 2016036336,
+  "document_start": "2016-09-11",
+  "document_end": null,
+  "in_force": "2016-09-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-09-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
