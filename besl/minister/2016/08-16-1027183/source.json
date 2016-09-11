@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027183,
+  "title": "Ministerieel besluit van 2016-08-16 houdende vaststelling van de forfaitaire basiskosten, de variabelen en de franchise voor de berekening van het bedrag van de premie voor buitensporige opgravingskosten en van de inhoud van het aanvraagdossier",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027183/VolledigDocument?datum=2016-09-11",
+  "source_sha256": "99e16a76cb8b5f43f682d9f1bd224752f63fad762f70b8b59fe0301ed7f7ae73",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027183&param=informatie",
+  "as_of": "2016-09-11",
+  "made": "2016-08-16",
+  "gazette": "2016-09-01",
+  "numac": 2016036337,
+  "document_start": "2016-09-11",
+  "document_end": "2019-03-31",
+  "in_force": "2016-09-11",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-09-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
