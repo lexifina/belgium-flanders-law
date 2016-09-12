@@ -54,7 +54,7 @@ In   afwijking van alle andersluidende bepalingen wordt aan de algemene middelen
 
 ### ART. 14.
 
-Het naar 2016 over te dragen saldo beschikbaar op 1 januari   2016 op de DAB Herstelfonds (begrotingsartikel NGZ-2NAXAZZ-OG) wordt a rato van   9% gedesaffecteerd ten gunste van het Fonds Onroerend erfgoed (begrotingsartikel   NF0-9NFATAA-OW), a rato van 18% ten gunste van het Fonds Wooninspectie   (begrotingsartikel NE0-9NECTAK-OW) en a rato van 73% ten gunste van de DAB   Grondfonds (begrotingsartikel NCZ-2NDHAZZ-OG).
+Het naar 2016 over te dragen saldo beschikbaar op 1 januari 2016 op de DAB Herstelfonds (begrotingsartikel NGZ-2NAXAZZ-OG) wordt ten bedrage van 900.000 euro gedesaffecteerd ten gunste van het Fonds Onroerend Erfgoed (begrotingsartikel NF0-9NFATAA-OW). Het resterende saldo beschikbaar op 1 januari 2016 op de DAB Herstelfonds (begrotingsartikel NGZ-2NAXAZZ-OG) wordt vervolgens a rato van 9% gedesaffecteerd ten gunste van het Fonds Onroerend Erfgoed (begrotingsartikel NF0-9NFATAA-OW), a rato van 18% ten gunste van het Fonds Wooninspectie (begrotingsartikel NE0-9NECTAK-OW) en a rato van 73% ten gunste van de DAB Grondfonds (begrotingsartikel NCZ-2NDHAZZ-OG).
 
 ### ART. 15.
 
