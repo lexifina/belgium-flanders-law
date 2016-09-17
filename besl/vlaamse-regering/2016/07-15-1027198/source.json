@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027198,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-15 betreffende de wijziging van de ligging van de installaties voor het vervoer van gasachtige vloeistoffen, in eigendom van N.V. P.A.L.L., die nu in beheer zijn bij Petrochemical Pipeline Services B.V., gelegen in het openbaar domein onder de Hoogmolenbrug over het Albertkanaal in Schoten, beheerd door nv De Scheepvaart",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027198/VolledigDocument?datum=2016-09-17",
+  "source_sha256": "71b42befa135c79d5cf60f9dd23f0f9e458d1c525cce50e6b5c23b33adbf2ad0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027198&param=informatie",
+  "as_of": "2016-09-17",
+  "made": "2016-07-15",
+  "gazette": "2016-09-07",
+  "numac": 2016036265,
+  "document_start": "2016-09-17",
+  "document_end": null,
+  "in_force": "2016-09-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-09-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
