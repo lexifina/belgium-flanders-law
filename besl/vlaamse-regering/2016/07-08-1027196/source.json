@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027196,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-08 houdende subsidiëring van intergemeentelijke projecten ter ondersteuning van het lokaal woonbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027196/VolledigDocument?datum=2016-09-17",
+  "source_sha256": "d721c2324d60456ebe83335ebb00ee739bce8da9b3056746fc39166fbe1de2cd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027196&param=informatie",
+  "as_of": "2016-09-17",
+  "made": "2016-07-08",
+  "gazette": "2016-09-07",
+  "numac": 2016036303,
+  "document_start": "2016-09-17",
+  "document_end": "2019-12-31",
+  "in_force": "2016-09-17",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2016-09-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
