@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027251,
+  "title": "Ministerieel besluit van 2016-06-24 tot vaststelling van de urencontingenten gezinszorg 2016 van de openbare diensten voor gezinszorg en aanvullende thuiszorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027251/VolledigDocument?datum=2016-09-22",
+  "source_sha256": "68d1aa33611522182fb062e6a61d139e28c6177a80c1fe7d2c984fc38f6d903b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027251&param=informatie",
+  "as_of": "2016-09-22",
+  "made": "2016-06-24",
+  "gazette": "2016-09-12",
+  "numac": 2016036357,
+  "document_start": "2016-09-22",
+  "document_end": null,
+  "in_force": "2016-09-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-09-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
