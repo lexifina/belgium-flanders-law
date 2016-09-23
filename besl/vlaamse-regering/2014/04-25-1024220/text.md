@@ -11,14 +11,15 @@ Dit besluit is alleen van toepassing op de vergunningsaanvragen en   beroepen di
 ### ART. 2.
 
 Met toepassing van artikel 11 van de wet van 13 augustus 2004 betreffende de vergunning van handelsvestigingen, zal het Interministerieel Comité voor de Distributie bestaan uit de volgende afgevaardigden van de Vlaamse Regering:<br>
-1° Wim Adriaens of zijn plaatsvervanger Bruno Lambrecht<br>
+1° Johan Guldix of zijn plaatsvervanger Bruno Lambrecht<br>
 2° Steven Van Muylder of zijn plaatsvervanger Michiel Boodts<br>
 3° Gaëtane Maes of haar plaatsvervanger Helena Muyldermans<br>
 4° Myriam Parys of zijn plaatsvervanger&nbsp;Ingo Luypaert
 
 ### ART. 3.
 
-In artikel 2 van het koninklijk besluit van 12 april 2005 tot vaststelling   van de organisatie, werking, vergoeding en incompatibiliteitsregels van het   Interministerieel Comité voor de Distributie bedoeld bij artikel 11, § 1, van de   wet van 13 augustus 2004 betreffende de vergunning van handelsvestigingen, wordt   het eerste lid vervangen door wat volgt:<BR>"Het voorzitterschap wordt   waargenomen door Wim Adriaens of zijn plaatsvervanger Bruno   Lambrecht."<BR>
+In artikel 2 van het koninklijk besluit van 12 april 2005 tot vaststelling van de organisatie, werking, vergoeding en incompatibiliteitsregels van het Interministerieel Comité voor de Distributie bedoeld bij artikel 11, § 1, van de wet van 13 augustus 2004 betreffende de vergunning van handelsvestigingen, wordt het eerste lid vervangen door wat volgt:<br>
+"Het voorzitterschap wordt waargenomen door Johan Guldix of zijn plaatsvervanger Bruno Lambrecht."
 
 ### ART. 4.
 
