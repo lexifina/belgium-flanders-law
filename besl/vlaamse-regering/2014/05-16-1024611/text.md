@@ -10,7 +10,7 @@
 
 ### ART. 2.
 
-De subsidie, vermeld in artikel 1, heeft betrekking op de periode van   1&nbsp;oktober 2014 tot en met 31 december 2015.<BR>
+De subsidie, vermeld in artikel 1, heeft betrekking op de periode van 1&nbsp;oktober 2014 tot en met 31 december 2016.
 
 ### ART. 3.
 
@@ -26,15 +26,24 @@ Voor de aanwending van de subsidie, vermeld in artikel 1, worden alleen de   kos
 
 ### ART. 6.
 
-De subsidie, vermeld in artikel 1, wordt als volgt uitbetaald:<BR>- 100 %   van het subsidiebedrag, wordt binnen een ordetermijn van 6 maanden na geldige en   volledige aanvraag betaald aan de begunstigde;<BR>- De subsidie wordt   aangerekend op de uitgavenbegroting van de Vlaamse Gemeenschap voor het   begrotingsjaar 2014 en 2015, begrotingsartikel LB0/1LC-H-4-I/WT van het Vlaams   Klimaatfonds.<BR>
+De subsidie, vermeld in artikel 1, wordt als volgt uitbetaald:<br>
+- 100 % van het subsidiebedrag, wordt binnen een ordetermijn van 6 maanden na geldige en volledige aanvraag betaald aan de begunstigde;<br>
+- De subsidie wordt aangerekend op de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016, begrotingsartikel LB0/1LC-H-4-I/WT van het Vlaams Klimaatfonds.
 
 ### ART. 7.
 
-<P>§ 1. De functionele verantwoording van de subsidie, vermeld in artikel 1,   waarbij de mate van realisatie van de bovenstaande activiteiten wordt   aangetoond, bestaat uit:<BR>1° een proces verbaal van uitvoering der werken,   opgesteld door personeelsleden van het Agentschap Wegen en Verkeer;<BR></P>  <P>§ 2. De functionele verantwoording, vermeld in paragraaf 1, moet uiterlijk 6   december 2015 worden ingediend op elektronische of schriftelijke wijze, bij de   afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid van het Departement   Leefmilieu, Natuur en Energie.<BR></P>
+<p>§ 1. De functionele verantwoording van de subsidie, vermeld in artikel 1, waarbij de mate van realisatie van de bovenstaande activiteiten wordt aangetoond, bestaat uit:<br>
+1° een proces verbaal van uitvoering der werken, opgesteld door personeelsleden van het Agentschap Wegen en Verkeer;</p>
+
+<p>§ 2. De functionele verantwoording, vermeld in paragraaf 1, moet uiterlijk 6 december 2016 worden ingediend op elektronische of schriftelijke wijze, bij de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid van het Departement Leefmilieu, Natuur en Energie.</p>
 
 ### ART. 8.
 
-<P>§ 1. De financiële verantwoording van de subsidie, vermeld in artikel 1,   bestaat uit de verantwoordingsstukken, met name:<BR>1° de factuur voor de kosten   van de aanleg van nutsleidingen voor elektriciteit, teneinde de elektrische   laadinfrastructuur te kunnen aansluiten op het elektriciteitsnetwerk,<BR>2°   Bewijs van betaling van de factuur.<BR></P>  <P>§ 2. De financiële verantwoording, vermeld in paragraaf 1, moet uiterlijk 6   december 2015 worden ingediend op elektronische of schriftelijke wijze, bij de   afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid van het Departement   Leefmilieu, Natuur en Energie. De aanvrager vermeldt tevens het rekeningnummer,   waarop de subsidie kan betaald worden.<BR></P>
+<p>§ 1. De financiële verantwoording van de subsidie, vermeld in artikel 1, bestaat uit de verantwoordingsstukken, met name:<br>
+1° de factuur voor de kosten van de aanleg van nutsleidingen voor elektriciteit, teneinde de elektrische laadinfrastructuur te kunnen aansluiten op het elektriciteitsnetwerk,<br>
+2° Bewijs van betaling van de factuur.</p>
+
+<p>§ 2. De financiële verantwoording, vermeld in paragraaf 1, moet uiterlijk 6 december 2016 worden ingediend op elektronische of schriftelijke wijze, bij de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid van het Departement Leefmilieu, Natuur en Energie. De aanvrager vermeldt tevens het rekeningnummer, waarop de subsidie kan betaald worden.</p>
 
 ### ART. 9.
 
