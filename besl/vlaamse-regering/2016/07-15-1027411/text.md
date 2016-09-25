@@ -74,12 +74,39 @@ Dit artikel is van overeenkomstige toepassing op de levering van elektriciteit e
 
 ## HOOFDSTUK 3 Wijzigingen aan titel V van het Energiebesluit van 19 november 2010
 
+### ART 3.
+
+In artikel 5.4.6 van hetzelfde besluit wordt het woord "winterperiode" vervangen door de woorden "periode van 1 november tot en met 31 maart".<br>
+&nbsp;
+
+### ART 4.
+
+In artikel 5.4.7 van hetzelfde besluit wordt het woord "winterperiode" telkens vervangen door de woorden "periode van 1 november tot en met 31 maart".<br>
+&nbsp;
+
+### ART 5.
+
+In artikel 5.4.8 van hetzelfde besluit wordt de zinsnede "winterperiode inclusief de mogelijke verlenging ervan door de minister, vermeld in artikel 5.5.6" vervangen door de woorden "periode van 1 november tot en met 31 maart".<br>
+&nbsp;
+
+### ART 6.
+
+In artikel 5.4.10 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede "winterperiode inclusief de mogelijke verlenging ervan door de minister, vermeld in artikel 5.5.6" vervangen door de woorden "periode van 1 november tot en met 31 maart";<br>
+2° in het tweede lid wordt het woord "winterperiode" vervangen door de woorden "periode van 1 november tot en met 31 maart".<br>
+&nbsp;
+
 ### ART 7.
 
 In artikel 5.6.1 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2012, worden punt 1° tot en met 8° opgeheven.<br>
 &nbsp;
 
 ## HOOFDSTUK 4 Wijzigingen aan titel VI van het Energiebesluit van 19 november 2010
+
+### ART 8.
+
+In artikel 6.2/1.2, eerste lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 december 2012 en gewijzigd bij de besluiten van de Vlaamse Regering van 10 januari 2014 en 29 mei 2015, wordt punt 8° opgeheven.<br>
+&nbsp;
 
 ### ART 9.
 
@@ -253,6 +280,250 @@ Artikel 6.4.1/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse 
 </table>
 <br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De minister kan nadere regels bepalen en technische vereisten vastleggen waaraan de werkzaamheden, de producten en de gebouwschildelen, vermeld in het eerste lid, of de uitvoerders van de werkzaamheden, respectievelijk de plaatsers van deze producten moeten voldoen om in aanmerking te komen voor de premies.".</span>
+
+### ART 10.
+
+Artikel 6.4.1/1/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 november 2013, wordt vervangen door wat volgt:<br>
+"Art. 6.4.1/1/1. Aan investeerders in woningen, wooneenheden of woongebouwen die vóór 1 januari 2014 zijn aangesloten op het elektriciteitsdistributienet of waarvoor de aanvraag van een stedenbouwkundige vergunning dateert van vóór 1 januari 2014, worden de volgende premies verleend voor energiebesparende werkzaamheden in de betreffende woningen, wooneenheden of woongebouwen:<br>
+1° een premie voor een door een aannemer nieuw geplaatste thermisch zonnecollectorsysteem, volgens de volgende criteria:
+<table style="text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: times new roman; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px;" border="1">
+	<tbody>
+		<tr>
+			<td>datum van de eindfactuur</td>
+			<td>koppeling aan kwaliteitssysteem</td>
+			<td>premie</td>
+		</tr>
+		<tr>
+			<td>1/1/2016-31/12/2016</td>
+			<td>/</td>
+			<td>550 euro per m<sup>2</sup> apertuuroppervlakte van door een aannemer nieuw geplaatste thermische zonnecollectoren die voor de productie van sanitair warm water worden gebruikt, tot maximaal 2750 euro per woning of wooneenheid en begrensd tot 50% van de investeringskosten, vermeld op de betreffende facturen</td>
+		</tr>
+		<tr>
+			<td>1/1/2017 - 30/6/2017</td>
+			<td>/</td>
+			<td>550 euro per m<sup>2</sup> apertuuroppervlakte van door een aannemer nieuw geplaatste thermische zonnecollectoren die voor de productie van sanitair warm water worden gebruikt, tot maximaal 2750 euro per woning of wooneenheid en begrensd tot 40% van de investeringskosten, vermeld op de betreffende facturen</td>
+		</tr>
+		<tr>
+			<td>1/7/2017-31/12/2018</td>
+			<td>Vanaf 1 juli 2017 moeten de installaties worden uitgevoerd door een aannemer die beschikt over een certificaat van bekwaamheid als vermeld in artikel 8.5.1, § 1, 2° of 3°.</td>
+			<td>550 euro per m<sup>2</sup> apertuuroppervlakte van door een aannemer nieuw geplaatste thermische zonnecollectoren die voor de productie van sanitair warm water worden gebruikt, tot maximaal 2750 euro per woning of wooneenheid en begrensd tot 40% van de investeringskosten, vermeld op de betreffende facturen</td>
+		</tr>
+		<tr>
+			<td>Vanaf 1/1/2019</td>
+			<td>De installaties worden uitgevoerd door een aannemer die beschikt over een certificaat van bekwaamheid als vermeld in artikel 8.5.1, § 1, 2° of 3°.</td>
+			<td>375 euro per m<sup>2</sup> apertuuroppervlakte van door een aannemer nieuw geplaatste thermische zonnecollectoren die voor de productie van sanitair warm water worden gebruikt, tot maximaal 1875 euro per woning of wooneenheid en begrensd tot 40% van de investeringskosten, vermeld op de betreffende facturen</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° een premie voor een door een aannemer nieuw geplaatste warmtepomp, volgens de volgende criteria:</span><br>
+&nbsp;
+<table style="text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: times new roman; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px;" border="1">
+	<tbody>
+		<tr>
+			<td>datum van de eindfactuur</td>
+			<td>koppeling aan kwaliteitssysteem</td>
+			<td>type warmtepomp</td>
+			<td>premie</td>
+		</tr>
+		<tr>
+			<td>1/1/2016-31/12/2016</td>
+			<td>/</td>
+			<td>elektrische warmtepomp</td>
+			<td>270 euro x ((0,87 x COP) - 2,5) x het elektrisch compressorvermogen uitgedrukt in kWatt en vervolgens beperkt tot 1700 euro per woning of wooneenheid</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>gaswarmtepomp</td>
+			<td>270 euro x ((0,87 x COP) - 1) x het geïnstalleerd gasvermogen uitgedrukt in kWatt en vervolgens beperkt tot 1700 euro per woning of wooneenheid</td>
+		</tr>
+		<tr>
+			<td>1/1/2017-30/06/2017</td>
+			<td>/</td>
+			<td>geothermische warmtepomp</td>
+			<td>4000 euro per woning of wooneenheid, begrensd tot 40% van de investeringskosten, vermeld op de betreffende facturen</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>lucht-waterwarmtepomp</td>
+			<td>1500 euro per woning of wooneenheid, begrensd tot 40% van de investeringskosten, vermeld op de betreffende facturen</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>hybride lucht-waterwarmtepomp</td>
+			<td>800 euro per woning of wooneenheid, begrensd tot 40% van de investeringskosten, vermeld op de betreffende facturen</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>lucht-luchtwarmtepomp</td>
+			<td>300 euro per woning of wooneenheid, begrensd tot 40% van de investeringskosten, vermeld op de betreffende facturen</td>
+		</tr>
+		<tr>
+			<td>vanaf 1/7/2017</td>
+			<td>Vanaf 1 juli 2017 moeten de installaties worden uitgevoerd door een aannemer die beschikt over een certificaat van bekwaamheid als vermeld in artikel 8.5.1, § 1, 6° of 7°.</td>
+			<td>geothermische warmtepomp</td>
+			<td>4000 euro per woning of wooneenheid, begrensd tot 40% van de investeringskosten, vermeld op de betreffende facturen</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>lucht-waterwarmtepomp</td>
+			<td>1500 euro per woning of wooneenheid, begrensd tot 40% van de investeringskosten, vermeld op de betreffende facturen</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>hybride lucht-waterwarmtepomp</td>
+			<td>800 euro per woning of wooneenheid, begrensd tot 40% van de investeringskosten, vermeld op de betreffende facturen</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>lucht-luchtwarmtepomp</td>
+			<td>300 euro per woning of wooneenheid, begrensd tot 40% van de investeringskosten, vermeld op de betreffende facturen</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de plaatsing van de warmtepomp, vermeld in het eerste lid, het gevolg is van de vervanging van de bestaande elektrische weerstandsverwarming door de betreffende warmtepomp, wordt de premie evenals desgevallend het maximum, vermeld in het eerste lid, verdubbeld als het betreffende gebouw al sinds 1 januari 2006 op het elektriciteitsdistributienet is aangesloten met toepassing van uitsluitend nachttarief. De verdubbeling wordt desgevallend beperkt tot 40% van de in aanmerking komende investeringskosten.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor warmtepompen geplaatst vanaf 2017 en met eindfacturen vanaf 2017, wordt de premie, vermeld in het eerste lid, 2°, verdubbeld als de warmtepomp wordt geplaatst in een woning, wooneenheid of woongebouw, gelegen in een gebied waar geen aardgasdistributienet aanwezig is. De verdubbeling wordt desgevallend beperkt tot 40% van de in aanmerking komende investeringskosten.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De verhogingen vermeld in het tweede en derde lid zijn niet cumuleerbaar met elkaar.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Per woning of per wooneenheid kan slechts één keer een premie voor een warmtepomp worden toegekend. Per woning of per wooneenheid kan slechts één keer een premie voor een thermisch zonnecollectorsysteem worden toegekend.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De minister kan nadere regels bepalen en technische vereisten vastleggen waaraan de werkzaamheden en de installaties, vermeld in het eerste lid, of de uitvoerders van de werkzaamheden, respectievelijk de plaatsers van deze installaties moeten voldoen om in aanmerking te komen voor de premies.".</span>
+
+### ART 11.
+
+In artikel 6.4.1/1/2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 november 2013, worden de volgende wijzigingen aangebracht:<br>
+1° in het derde lid worden na de woorden "aan de buitenzijde van een bestaande buitenmuur" de woorden "met een Rd-waarde van minimum 2 m2K/W" toegevoegd;<br>
+2° in het vierde lid wordt tussen de zinsnede "niet meer dan 12 maanden uit elkaar liggen" en de woorden "Bovendien geldt" de zinsnede "en moet de eindfactuur van de eerste investering niet later gedateerd zijn dan 31/12/2016 en de eindfactuur van de tweede investering niet later gedateerd zijn dan 31/12/2017" ingevoegd;<br>
+3° het zevende lid wordt vervangen door wat volgt:<br>
+"De gecombineerde premie, vermeld in dit artikel, kan voor dezelfde investeringen niet worden gecumuleerd met de premies, vermeld in artikel 6.4.1/1, die voor hetzelfde type investering worden gegeven.".<br>
+&nbsp;
+
+### ART 12.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 8 januari 2016, wordt een artikel 6.4.1/1/3 ingevoegd, dat luidt als volgt:<br>
+"Art. 6.4.1/1/3. Investeerders in woningen, wooneenheden of woongebouwen die vóór 1 januari 2006 zijn aangesloten op het elektriciteitsdistributienet of waarvoor de aanvraag van een stedenbouwkundige vergunning dateert van vóór 1 januari 2006, kunnen vanaf 1 januari 2017 een voucher totaalrenovatie activeren als ze in hun woning, wooneenheid of woongebouw binnen een periode van vijf jaar minstens drie van de volgende zeven energiebesparende investeringen plannen uit te voeren:<br>
+1° dak- of zoldervloerisolatie, met een nieuw te isoleren oppervlakte van minimaal 30 m2;<br>
+2° isolatie van buitenmuren, bestaande uit isolatie aan de buitenzijde, aan de binnenzijde of in de spouw, met een nieuw te isoleren oppervlakte van minimaal 30 m2;<br>
+3° isolatie van vloeren op volle grond of van plafonds van kelders of verluchte ruimtes onder een verwarmde ruimte, met een nieuw te isoleren minimaal oppervlakte van 30 m2;<br>
+4° plaatsing van beglazing, met nieuw te plaatsen beglazing van minimaal 5 m2;<br>
+5° plaatsing van een thermisch zonnecollectorsysteem;<br>
+6° plaatsing van een warmtepomp;<br>
+7° plaatsing van een ventilatiesysteem.<br>
+<br>
+De voucher kan worden geactiveerd zodra de premie-aanvraag voor de eerste investering met eindfactuur vanaf 1 januari 2017 wordt ingediend of in elke daarna volgende premie-aanvraag. Bij de activatie van de voucher moet de investeerder aangeven welke investeringen hij onder de voucher wil laten vallen, met aanduiding van de oppervlaktes in kwestie bij isolatie- en beglazingsinvesteringen. De in de voucher aangegeven investeringen kunnen evenwel doorheen de tijd aangepast worden. Voor de isolatie- en beglazingsinvesteringen moet de woning, de wooneenheid of het woongebouw na uitvoering van de aangegeven investeringen binnen het beschermd volume volledig zijn geïsoleerd tot op de niveaus, vermeld in artikel 6.4.1/1 voor eindfacturen vanaf 2017.<br>
+<br>
+De voucher totaalrenovatie geeft recht op een forfaitair premiesupplement boven op de premies die voor de individuele investeringen worden toegekend, waarvan de hoogte volgens de volgende criteria wordt berekend:
+<table style="text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: times new roman; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px;" border="1">
+	<tbody>
+		<tr>
+			<td>na tijdige uitvoering van</td>
+			<td>forfaitair supplement per woning</td>
+			<td>forfaitair supplement per wooneenheid</td>
+		</tr>
+		<tr>
+			<td>de derde investering</td>
+			<td>1250 euro</td>
+			<td>625 euro</td>
+		</tr>
+		<tr>
+			<td>de vierde investering</td>
+			<td>bijkomend 500 euro</td>
+			<td>bijkomend 250 euro</td>
+		</tr>
+		<tr>
+			<td>de vijfde investering</td>
+			<td>bijkomend 1000 euro</td>
+			<td>bijkomend 500 euro</td>
+		</tr>
+		<tr>
+			<td>de zesde investering</td>
+			<td>bijkomend 1000 euro</td>
+			<td>Bijkomend 500 euro</td>
+		</tr>
+		<tr>
+			<td>de zevende investering</td>
+			<td>bijkomend 1000 euro</td>
+			<td>bijkomend 500 euro</td>
+		</tr>
+	</tbody>
+</table>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">&nbsp;Om als een tijdige uitvoering te worden beschouwd als vermeld in het derde lid, moeten de eindfacturen van de investeringen binnen een periode van vijf jaar vallen vanaf de datum van de eindfactuur van de investering waarmee de voucher is geactiveerd.<br>
+<br>
+Investeringen in gemeenschappelijke delen van een woongebouw of collectief geplaatste thermische zonnecollectorsystemen, warmtepompsystemen of ventilatiesystemen, tellen mee voor de voucher totaalrenovatie van elk van de betrokken wooneenheden.<br>
+<br>
+Om in aanmerking te komen voor de forfaitaire supplementen vanaf de vijfde investering, moet de investeerder een energieprestatiecertificaat voorleggen waaruit blijkt wat de huidige energieprestatie is van de betreffende woning of wooneenheid.<br>
+<br>
+De minister kan nadere regels bepalen en technische vereisten vastleggen waaraan het ventilatiesysteem, vermeld in het eerste lid, of de uitvoerders van de werkzaamheden, respectievelijk de plaatsers van deze installaties moeten voldoen om in aanmerking te komen als een van de zeven investeringen.<br>
+<br>
+Per woning en wooneenheid kan maar één voucher totaalrenovatie worden geactiveerd. De voucher blijft verbonden aan de woning of wooneenheid.<br>
+<br>
+Indien als gevolg van een uit 2017 daterende eindfactuur voor beglazing dan wel spouwmuurisolatie of isolatie langs de buitenzijde van een buitenmuur een gecombineerde premie, zoals vermeld in artikel 6.4.1/1/2, werd toegekend, dan telt elke investering in beglazing, spouwmuurisolatie of isolatie langs de buitenzijde van een buitenmuur, in afwijking van het eerste lid, niet mee als een van de zeven investeringen.".</span><br>
+<br>
+<br>
+&nbsp;
+
+### ART 13.
+
+In artikel 6.4.1/3, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 september 2011 en vervangen bij het besluit van de Vlaamse Regering van 29 november 2013, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "vanaf 1 januari 2016 tot en met 31 december 2017" wordt telkens vervangen door de zinsnede "vanaf 1 januari 2016 tot en met 31 december 2016";<br>
+2° in punt 1° worden de volgende rijen opgeheven:
+<table style="text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: times new roman; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px;" border="1">
+	<tbody>
+		<tr>
+			<td>vanaf 1 januari 2018 tot en met 31 december 2020</td>
+			<td>10 of lager</td>
+			<td>1800 euro, verhoogd met 50 euro per E-peilpunt beter dan 10</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2021</td>
+			<td>0 of lager</td>
+			<td>1800 euro, verhoogd met 50 euro per E-peilpunt beter dan 0</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° in punt 2° worden de volgende rijen opgeheven:</span><br>
+&nbsp;
+<table style="text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: times new roman; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px;" border="1">
+	<tbody>
+		<tr>
+			<td>vanaf 1 januari 2018 tot en met 31 december 2020</td>
+			<td>10 of lager</td>
+			<td>800 euro, verhoogd met 30 euro per E-peilpunt beter dan 10</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2021</td>
+			<td>0 of lager</td>
+			<td>800 euro, verhoogd met 30 euro per E-peilpunt beter dan 0</td>
+		</tr>
+	</tbody>
+</table>
+
+### ART 14.
+
+In artikel 6.4.1/4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 september 2011 en gewijzigd bij het besluit van de Vlaamse Regering van 29 november 2013, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+" § 1. Voor beschermde afnemers wordt de premie, vermeld in artikel 6.4.1/1, 1° voor eindfacturen tot en met 31 december 2016 met 50% verhoogd en voor eindfacturen vanaf 1 januari 2017 vastgelegd op 10,5 euro per m2 ingeval van uitvoering door een aannemer en 5,25 euro per m2 in geval van uitvoering door een doe-het-zelver. Voor beschermde afnemers wordt de premie, vermeld in artikel 6.4.1/1, 2° voor eindfacturen tot en met 31 december 2016 met 50% verhoogd en voor eindfacturen vanaf 1 januari 2017 vastgelegd op 9 euro per m2. Voor beschermde afnemers worden de premies vermeld in artikel 6.4.1/1, 3°, 4° en 5°, evenals in artikel 6.4.1/1/3 met 50% verhoogd. Voor beschermde afnemers wordt de premie, vermeld in artikel 6.4.1/1, 6° voor eindfacturen tot en met 31 december 2016 met 50% verhoogd en voor eindfacturen vanaf 1 januari 2017 vastgelegd op 56 euro per m2, begrensd tot 40% van de investeringskosten. Voor beschermde afnemers worden de premies, evenals de maxima, vermeld in artikel 6.4.1/1/1 met 20% verhoogd. Voor beschermde afnemers worden de premies, evenals de maxima, vermeld in artikel 6.4.1/1/2 met 50% verhoogd. Voor beschermde afnemers worden de premies, vermeld in artikel 6.4.1/3, met 20% verhoogd.<br>
+<br>
+In afwijking van het eerste lid, worden deze verhogingen niet toegepast voor de gevallen vermeld in artikel 6.4.1/2, eerste lid, 1° en tweede lid.<br>
+<br>
+2° paragraaf 3 wordt vervangen door wat volgt:<br>
+" § 3. De elektriciteitsdistributienetbeheerder verleent aan elke beschermde afnemer een premie voor de plaatsing van een nieuwe individuele condenserende gasgestookte of oliegestookte centraleverwarmingsketel ter vervanging van een oudere verwarmingsinstallatie in een bestaande woning, wooneenheid of woongebouw die voor 1 januari 2006 werden aangesloten op het elektriciteitsdistributienet of waarvoor de aanvraag van een stedenbouwkundige vergunning dateert van voor 1 januari 2006.<br>
+<br>
+De premie vermeld in het eerste lid bedraagt 800 euro voor eindfacturen tot en met 31 december 2016 en 1800 euro, begrensd tot 40% van de investeringskosten, voor eindfacturen vanaf 1 januari 2017.<br>
+<br>
+De minister kan nadere regels bepalen en technische vereisten vastleggen waaraan de nieuwe individuele centraleverwarmingsketels of de plaatsers van deze ketels moeten voldoen om in aanmerking te komen voor de premie.".<br>
+&nbsp;
 
 ### ART 15.
 
@@ -593,6 +864,44 @@ In artikel 6.4.1/5 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaam
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De minister kan nadere regels bepalen en technische vereisten vastleggen waaraan de werkzaamheden, de producten, de gebouwschildelen en de installaties, vermeld in het eerste lid, of de uitvoerders van de werkzaamheden, respectievelijk de plaatsers van deze producten en installaties moeten voldoen om in aanmerking te komen voor de premies.".</span><br>
 &nbsp;
 
+### ART 16.
+
+In artikel 6.4.1/6, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 september 2011 en vervangen bij het besluit van de Vlaamse Regering van 29 november 2013, worden de volgende wijzigingen aangebracht:<br>
+1° de zin "De premies, vermeld in artikel 6.4.1/1, 6.4.1/1/1, 6.4.1/1/2, 6.4.1/4 en 6.4.1/5, kunnen nooit hoger zijn dan het factuurbedrag." wordt vervangen door de zin "Elke individuele premie, alsmede de som van de uitbetaalde premies, vermeld in artikel 6.4.1/1, 6.4.1/1/1, 6.4.1/1/2, 6.4.1/1/3, 6.4.1/4,6.4.1/5 en 6.4.1/9 kan nooit hoger zijn dan het factuurbedrag.";<br>
+2° de zin "Bovendien moeten, voor de gecombineerde premie vermeld in artikel 6.4.1/1/2, alle ingediende eindfacturen een factuurdatum hebben die niet voor 1 januari 2014 ligt." wordt vervangen door de zin "Bovendien moeten, voor de gecombineerde premie, vermeld in artikel 6.4.1/1/2, alle ingediende eindfacturen een factuurdatum hebben die niet vóór 1 januari 2014 en niet na 31 december 2017 ligt.".<br>
+&nbsp;
+
+### ART 19.
+
+In titel VI, hoofdstuk IV, van hetzelfde besluit, laatst gewijzigd bij het besluit van de Vlaamse Regering van 10 juli 2015, worden een artikel 6.4.1/9/1 en 6.4.1/9/2 ingevoegd, die luiden als volgt:<br>
+"Art. 6.4.1/9/1. Elke elektriciteitsdistributienetbeheerder ondersteunt de collectieve aanpak van renovatiewerken van woningen, wooneenheden of woongebouwen door samen te werken met projectbegeleiders collectieve renovatie en vanaf 1 januari 2017 een aanbod inzake collectieve renovatieprojecten te lanceren en daarbij minstens per kwartaal de inschrijvingen op dit aanbod te bundelen in concrete renovatieprojecten, waarbij elk project minstens tien woningen of wooneenheden uit dezelfde buurt bevat die intekenen op hetzelfde thematische collectieve projectaanbod.<br>
+<br>
+In afwijking van het eerste lid komen sociale huisvestingsmaatschappijen niet in aanmerking voor ondersteuning van collectieve renovatiewerken.<br>
+<br>
+De minister kan nadere regels bepalen voor het profiel waaraan de projectbegeleiders collectieve renovatie, vermeld in het eerste lid, moeten voldoen, alsook voor de taken die in een collectief renovatieproject moeten worden uitgevoerd en voor de financiële ondersteuning. De minister kan nadere regels vastleggen voor de inhoudelijke invulling van het aanbod collectieve renovatie, vermeld in het eerste lid.<br>
+<br>
+Art. 6.4.1/9/2. § 1. De elektriciteitsdistributienetbeheerders kennen aan investeerders in andere gebouwen dan woningen, wooneenheden of woongebouwen, die aangesloten zijn op gesloten distributienetten, gekoppeld aan hun net, de premies, vermeld in artikel 6.4.1/5, § 1 en § 2, toe. De inhoudelijke premievoorwaarden zijn van overeenkomstige toepassing.<br>
+<br>
+§ 2. De beheerder van het plaatselijk vervoernet van elektriciteit kent aan investeerders in andere gebouwen dan woningen, wooneenheden of woongebouwen, die aangesloten zijn op gesloten distributienetten, gekoppeld aan zijn net, de premies, vermeld in artikel 6.4.1/5, § 3, toe. De inhoudelijke premievoorwaarden zijn van overeenkomstige toepassing.".<br>
+&nbsp;
+
+### ART 20.
+
+In artikel 6.4.1/12 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 september 2011 en gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2012 en 29 november 2013, worden de volgende wijzigingen aangebracht:<br>
+1° in de tweede paragraaf, eerste lid worden na de woorden "artikel 6.4.1/1 tot en met 6.4.1/4" de woorden "en artikel 6.4.1/9/1" ingevoegd;<br>
+2° in de tweede paragraaf, wordt het derde lid vervangen door wat volgt:<br>
+"Indien de reële premie-uitgaven voor de actieverplichtingen vermeld in artikel 6.4.1/1 tot en met 6.4.1/4 en artikel 6.4.1/9/1, verminderd met de premie-uitgaven waarvoor andere vergoedingen vanwege de Vlaamse overheid voor diezelfde actieverplichtingen werden ontvangen, van een bepaalde elektriciteitsdistributienetbeheerder lager zijn dan de vergoeding berekend met toepassing van het tweede lid, wordt de vergoeding beperkt tot de reële premie-uitgaven verminderd met de premie-uitgaven waarvoor andere vergoedingen vanwege de Vlaamse overheid voor diezelfde actieverplichtingen werden ontvangen. Het bekomen saldo op het door de minister bepaalde totale bedrag aan vergoedingen, wordt als vergoeding herverdeeld naar de elektriciteitsdistributienetbeheerders waarvoor de reële premie-uitgaven voor de actieverplichtingen vermeld in artikel 6.4.1/1 tot en met 6.4.1/4 en artikel 6.4.1/9/1, verminderd met de premie-uitgaven waarvoor andere vergoedingen vanwege de Vlaamse overheid voor diezelfde actieverplichtingen werden ontvangen, de vergoeding berekend met toepassing van het tweede lid overschrijden. De minister bepaalt de manier waarop deze herverdeling gebeurt.";<br>
+3° in paragraaf 4, worden de woorden "waarvan het dak of de zoldervloer geïsoleerd is" vervangen door de woorden "waarvan het dak of de zoldervloer, respectievelijk de spouwmuur geïsoleerd is dan wel waarin hoogrendementsglas geplaatst werd" .<br>
+&nbsp;
+
+### ART 21.
+
+In artikel 6.4.15 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 23 september 2011, wordt paragraaf 3 vervangen door wat volgt:<br>
+" § 3. Elke elektriciteitsdistributienetbeheerder of elke beheerder van het plaatselijk vervoernet van elektriciteit legt per premiecategorie, vermeld in artikel 6.4.1/1 tot en met 6.4.1/5, een overzicht voor van het aantal premies, de forfaitaire supplementen totaalrenovatie of kortingsbonnen die hij het vorige trimester heeft uitbetaald, alsook van het aantal scans, vermeld in artikel 6.4.1/8, het aantal uitgevoerde dak- of zoldervloerisolatiedossiers, spouwmuurisolatiedossiers dan wel hoogrendementsbeglazingsdossiers, vermeld in artikel 6.4.1/9 en het aantal wijkrenovatiedossiers, vermeld in artikel 6.4.1/9/1, die hij in het vorige trimester heeft laten uitvoeren. Naast de rapportering over de aantallen wordt ook gerapporteerd over de daarmee gepaard gaande uitbetaalde bedragen, alsook over enkele detailgegevens per premiecategorie.<br>
+<br>
+Elke elektriciteitsdistributienetbeheerder of elke beheerder van het plaatselijk vervoernet van elektriciteit legt per premiecategorie, vermeld in artikel 6.4.1/1 tot en met 6.4.1/5 evenals artikel 6.4.1/9, een overzicht voor van het in het vorige trimester ingediende aantal aanvragen, alsook van het in diezelfde periode aantal geweigerde premiedossiers.".<br>
+&nbsp;
+
 ### ART 22.
 
 In artikel 6.4.23, § 1 van hetzelfde besluit wordt na de woorden "overzichtelijke manier" en voor het woord "weergegeven" de woorden "en bij voorkeur in grafische vorm" ingevoegd.<br>
@@ -603,16 +912,115 @@ In artikel 6.4.23, § 1 van hetzelfde besluit wordt na de woorden "overzichtelij
 In artikel 6.4.25, § 1 van hetzelfde besluit wordt na de woorden "overzichtelijke manier" en voor het woord "weergegeven" de woorden "en bij voorkeur in grafische vorm" ingevoegd.<br>
 &nbsp;
 
+### ART 24.
+
+In titel VI, hoofdstuk IV, wordt afdeling VIII, opgeheven bij besluit van de Vlaamse Regering van 23 september 2011, hernomen in de volgende lezing:<br>
+"Afdeling VIII. Toegang van de netbeheerders tot de energieprestatiedatabank en de energieprestatiecertificatendatabank<br>
+<br>
+Art. 6.4.26. De netbeheerder, of zijn werkmaatschappij, heeft in het kader van de uitvoering van zijn hem door of krachtens het Energiedecreet van 8 mei 2009 opgelegde taken leesrecht met betrekking tot al de gegevens van de energieprestatiedatabank en de energieprestatiecertificatendatabank die betrekking hebben op de gebouwen gelegen in het geografisch afgebakend gebied waarvoor hij door de VREG werd aangewezen voor het beheer van het elektriciteitsdistributienet, het aardgasdistributienet of het plaatselijk vervoersnet van elektriciteit.".<br>
+&nbsp;
+
 ## HOOFDSTUK 5 Wijzigingen aan titel VII van het Energiebesluit van 19 november 2010
+
+### ART 25.
+
+In artikel 7.4.1, § 2, tweede lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 september 2013 en gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2015, wordt het woord "zes" vervangen door het woord "twaalf".<br>
+&nbsp;
+
+### ART 29.
+
+In artikel 7.5.1, § 2, tweede lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 september 2013 en gewijzigd bij de besluiten van de Vlaamse Regering van 10 juli 2015 en 17 juli 2015, wordt het woord "zes" vervangen door het woord "twaalf".<br>
+&nbsp;
+
+### ART 30.
+
+In artikel 7.6.1, § 2, tweede lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 september 2013 en gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2015, wordt het woord "zes" vervangen door het woord "twaalf".<br>
+&nbsp;
+
+### ART 31.
+
+In artikel 7.7.1, § 2, tweede lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 juli 2015, wordt het woord "zes" vervangen door het woord "twaalf".<br>
+&nbsp;
+
+### ART 32.
+
+In artikel 7.8.1, § 1, derde lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 8 januari 2016, worden de woorden "derde lid" vervangen door de woorden "tweede lid".<br>
+&nbsp;
 
 ## HOOFDSTUK 6 Wijzigingen aan titel VIII van het Energiebesluit van 19 november 2010
 
 ## HOOFDSTUK 7 Wijzigingen aan titel IX van het Energiebesluit van 19 november 2010
 
+### ART 39.
+
+In artikel 9.2.12 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 20 mei 2011 en 27 april 2012, wordt paragraaf 6 vervangen door wat volgt:<br>
+" § 6. Het energieprestatiecertificaat publieke gebouwen is pas geldig als het, conform artikel 11.2.1, § 2, van het Energiedecreet van 8 mei 2009, door de gebruiker van het publieke gebouw opgehangen is op een voor het publiek zichtbare plaats in het gebouw waarop het betrekking heeft.".<br>
+&nbsp;
+
+### ART 40.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 8 januari 2016, worden een artikel 9.2.12/1 en 9.2.12/2 ingevoegd, die luiden als volgt:<br>
+"Art. 9.2.12/1. In afwijking van artikel 9.2.12, § 1, kan de eigenaar van een publiek gebouw die al over een geldig energieprestatiecertificaat bij de bouw beschikt, dat slaat op het hele gebouw, dat energieprestatiecertificaat gebruiken om te voldoen aan de verplichtingen, vermeld in artikel 9.2.12, § 1.<br>
+<br>
+Art. 9.2.12/2. In afwijking van artikel 9.2.12, § 1, kan de gebruiker van een publiek gebouw die al over een geldig energieprestatiecertificaat voor niet-residentiële gebouwen beschikt, dat slaat op het hele gebouw, dat energieprestatiecertificaat gebruiken om te voldoen aan de verplichtingen, vermeld in artikel 9.2.12, § 1.".
+
 ## HOOFDSTUK 8 Wijzigingen aan titel X van het Energiebesluit van 19 november 2010
+
+### ART 41.
+
+In artikel 10.1.3 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 21 december 2012, wordt de datum "1 februari" vervangen door de datum "1 april".<br>
+&nbsp;
+
+### ART 42.
+
+In artikel 10.1.4 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 21 december 2012, wordt de datum "1 februari" vervangen door de datum "1 april".<br>
+&nbsp;
+
+### ART 43.
+
+In artikel 10.1.5 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 21 december 2012, wordt de datum "1 februari" vervangen door de datum "1 april".<br>
+&nbsp;
+
+### ART 44.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2015, wordt een artikel 10.1.10 ingevoegd, dat luidt als volgt:<br>
+"Art. 10.1.10. Publieke organisaties stellen op eenvoudig verzoek aan het Vlaams Energieagentschap op accurate, volledige en consistente wijze de gegevens ter beschikking die zijn gebruikt in het kader van de opmaak en het uithangen van het energieprestatiecertificaat, vermeld in artikel 9.2.12. Als het Vlaams Energieagentschap anomalieën of belangrijke incoherenties vaststelt in de gerapporteerde gegevens, kan het de publieke organisatie verdere informatie vragen over de betreffende afzonderlijke gegevens en over de berekeningsmethode waarop de gegevens gebaseerd zijn.<br>
+<br>
+De minister kan nadere regels bepalen voor de rapporteringswijze van die gegevens.".<br>
+&nbsp;
 
 ## HOOFDSTUK 9 Wijzigingen aan titel XI van het Energiebesluit van 19 november 2010
 
+### ART 45.
+
+In artikel 11.2.1 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 27 april 2012, wordt een paragraaf 1/1 ingevoegd, die luidt als volgt:<br>
+" § 1/1. Onverminderd paragraaf 1 kan het Vlaams Energieagentschap energiedeskundigen die herhaaldelijk fouten maken, verplichten om binnen een door het agentschap vastgestelde termijn te slagen voor het centrale examen, vermeld in artikel 8.1.1. Als een energiedeskundige die door het Vlaams Energieagentschap verplicht is om binnen een door het agentschap vastgestelde termijn te slagen voor het centrale examen, vermeld in artikel 8.1.1, binnen die voormelde termijn niet slaagt, wordt hij automatisch geschorst, wordt hem de toegang ontzegd tot de energieprestatiecertificatendatabank en heeft de geschorste energiedeskundige alleen leesrecht in de energieprestatiecertificatendatabank voor de energieprestatiecertificaten die hij zelf heeft opgemaakt. De geschorste energiedeskundige krijgt pas weer toegang tot de energieprestatiedatabank als hij slaagt voor het centrale examen, vermeld in artikel 8.1.1.<br>
+<br>
+Als de energiedeskundige een rechtspersoon is, kan het Vlaams Energieagentschap de sanctie, vermeld in het eerste lid, opleggen aan een of meer van de natuurlijke personen, vermeld in artikel 8.1.1/1.".<br>
+&nbsp;
+
 ## HOOFDSTUK 10 Wijziging aan titel XII van het Energiebesluit van 19 november 2010
 
+### ART 46.
+
+Artikel 12.3.6 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 november 2013 tot wijziging van het besluit van de Vlaamse Regering van 2 maart 2007 tot instelling van een tegemoetkoming in de kosten bij de renovatie van een woning en van het Energiebesluit van 19 november 2010, wat betreft de openbaredienstverplichtingen van de distributienetbeheerders of de beheerder van het plaatselijk vervoernet van elektriciteit aangaande de sociale energiemaatregelen en ter stimulering van het rationeel energiegebruik, wordt opgeheven.<br>
+&nbsp;
+
+### ART 47.
+
+Artikel 12.3.11, in de versie zoals ingevoegd bij het besluit van de Vlaamse Regering van 8 januari 2016, wordt vernummerd als artikel 12.3.12.<br>
+&nbsp;
+
 ## HOOFDSTUK 11 Slotbepalingen
+
+### ART 49.
+
+Artikel 1 treedt in werking vanaf het aanslagjaar 2018.<br>
+Artikel 2, 7, 9, 15, 22 en 23 treden in werking op de datum van de bekendmaking van dit besluit in het Belgisch Staatsblad.<br>
+Artikel 26, 27, 28, 33, 34, 35, 36, 37, 38 en 48 treden in werking op een door de Vlaamse minister, bevoegd voor het energiebeleid, te bepalen datum en uiterlijk op 1 juli 2017.<br>
+Artikel 17 en 18 treden in werking op 1 januari 2017.<br>
+&nbsp;
+
+### ART 50.
+
+De Vlaamse minister, bevoegd voor het energiebeleid, is belast met de uitvoering van dit besluit.
