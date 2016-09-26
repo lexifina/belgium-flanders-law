@@ -2,16 +2,16 @@
   "codex_id": 1021994,
   "title": "Decreet van 2012-07-13 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021994/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "13c81bfcf6a28df139797010dc4a5ea2c9db0d9086a21f1975a0c6cab5b1c60f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021994/VolledigDocument?datum=2016-09-26",
+  "source_sha256": "2a17f640c4d85f688c270e5e307c1cfdcdb0954eee035d1458182b08fb3c42dd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021994&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2016-09-26",
   "made": "2012-07-13",
   "gazette": "2012-08-01",
   "numac": 2012035894,
   "document_start": "2012-08-01",
   "document_end": null,
-  "in_force": "2016-01-01",
+  "in_force": "2016-09-26",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-09-26; future article versions excluded; article text as the API gives it"
 }
