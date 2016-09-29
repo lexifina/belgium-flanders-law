@@ -62,11 +62,23 @@ De diensten en agentschappen die afhangen van het Vlaamse Gewest, de   besturen,
 
 ### ART. 6.
 
-<P>De aanvangsdatum van een beheerovereenkomst is altijd 1 januari.<BR></P>  <P>Per aanvangsdatum kan een landbouwer maar één beheerovereenkomst hebben die   gericht is op de beheerdoelstellingen, vermeld in artikel 11, 1° tot en met 6°.   Een beheerovereenkomst die gericht is op de beheerdoelstellingen, vermeld in   artikel 11, 1° tot en met 6°, kan alleen gesloten worden als die   beheerovereenkomst bij aanvang gedurende de looptijd van vijf jaar recht geeft   op een totale beheervergoeding van minstens 750 euro.<BR></P>  <P>Gedurende de programmeringsperiode 2014-2020 kan een landbouwer maar één   beheerovereenkomst hebben die gericht is op de beheerdoelstelling, vermeld in   artikel 11, 7°. Een beheerovereenkomst die gericht is op de beheerdoelstelling,   vermeld in artikel 11, 7°, kan alleen gesloten worden als de oppervlakte waarop   deze beheerovereenkomst wordt toegepast, minimaal twee hectare   bedraagt.<BR></P>
+<p>De aanvangsdatum van een beheerovereenkomst is altijd 1 januari.</p>
+
+<p>Per aanvangsdatum kan een landbouwer maar één beheerovereenkomst hebben die gericht is op de beheerdoelstellingen, vermeld in artikel 11, 1° tot en met 6°. Een beheerovereenkomst die gericht is op de beheerdoelstellingen, vermeld in artikel 11, 1° tot en met 6°, kan alleen gesloten worden als die beheerovereenkomst bij aanvang gedurende de looptijd van vijf jaar recht geeft op een totale beheervergoeding van minstens 750 euro.</p>
+
+<p>Gedurende de programmeringsperiode 2014-2020 kan een landbouwer maar één beheerovereenkomst hebben die gericht is op de beheerdoelstelling, vermeld in artikel 11, 7°. Een beheerovereenkomst die gericht is op de beheerdoelstelling, vermeld in artikel 11, 7°, kan alleen gesloten worden als de oppervlakte waarop deze beheerovereenkomst wordt toegepast, minimaal twee hectare bedraagt.<br>
+<br>
+In afwijking van het tweede lid, eerste zin, kan een landbouwer gedurende de programmeringsperiode 2014-2020 maar één beheerovereenkomst hebben met het beheerpakket hamstervriendelijke nateelt binnen de beheerdoelstelling soortenbescherming, vermeld in artikel 11, 5°. In afwijking van het tweede lid, tweede zin, kan een beheerovereenkomst met het beheerpakket hamstervriendelijke nateelt ook gesloten worden als die beheerovereenkomst gedurende de looptijd van vijf jaar recht geeft op een totale beheervergoeding die lager is dan 750 euro. Een beheerovereenkomst met het beheerpakket hamstervriendelijke nateelt kan alleen gesloten worden als de oppervlakte waarop deze beheerovereenkomst wordt toegepast, minimaal 0,5 hectare bedraagt.</p>
 
 ### ART. 7.
 
-<P>§ 1. Een beheerovereenkomst kan gecombineerd worden met andere   beheerovereenkomsten, milieuacties of maatregelen, op voorwaarde dat ze elkaar   aanvullen en onderling verenigbaar zijn. Een beheerovereenkomst kan gecombineerd   worden met de vergroeningspraktijken.<BR></P>  <P>Een beheervergoeding kan niet gecumuleerd worden met andere vormen van   vergoeding, toegekend voor dezelfde of soortgelijke prestaties.<BR></P>  <P>De aanvraag voor een beheerovereenkomst wordt afgewezen als degene die de   beheerovereenkomst wil sluiten, een vergoeding ontvangt voor dezelfde of   soortgelijke prestaties als opgenomen in de aangevraagde   beheerpakketten.<BR></P>  <P>§ 2. In afwijking van paragraaf 1 wordt bij een combinatie van een   beheerovereenkomst met de vergroeningspraktijken de beheervergoeding verlaagd of   niet uitbetaald zodat een dubbele financiering voor dezelfde of soortgelijke   prestaties wordt uitgesloten. De minister kan nadere regels vaststellen voor de   verlaging of niet-uitbetaling van beheervergoedingen om zo een dubbele   financiering te vermijden.<BR></P>
+<p>§ 1. Een beheerovereenkomst kan gecombineerd worden met andere beheerovereenkomsten, milieuacties of maatregelen, op voorwaarde dat ze elkaar aanvullen en onderling verenigbaar zijn. Een beheerovereenkomst kan gecombineerd worden met de vergroeningspraktijken.</p>
+
+<p>Een beheervergoeding kan niet gecumuleerd worden met andere vormen van vergoeding, toegekend voor dezelfde of soortgelijke prestaties.</p>
+
+<p>De aanvraag voor een beheerovereenkomst wordt afgewezen als degene die de beheerovereenkomst wil sluiten, een vergoeding ontvangt voor dezelfde of soortgelijke prestaties als opgenomen in de aangevraagde beheerpakketten.</p>
+
+<p>§ 2. In afwijking van paragraaf 1 wordt bij een combinatie van een beheerovereenkomst met de vergroeningspraktijken en bij een combinatie van een beheerovereenkomst met de erosiebestrijdingsmaatregelen, vermeld in artikel 59 van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid, de beheervergoeding verlaagd of niet uitbetaald zodat een dubbele financiering voor dezelfde of soortgelijke prestaties wordt uitgesloten. De minister kan nadere regels vaststellen voor de verlaging of niet-uitbetaling van beheervergoedingen om zo een dubbele financiering te vermijden.</p>
 
 ### ART. 8.
 
@@ -228,9 +240,8 @@ De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, en de   Vla
 
 ### BIJLAGE
 
-Beheerpakketten die ingezet kunnen worden voor de beheerdoelstellingen als vermeld in artikel 19<br>
-&nbsp;
-<table border="1">
+Beheerpakketten die ingezet kunnen worden voor de beheerdoelstellingen als vermeld in artikel 19
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
 			<td>beheerdoelstelling</td>
@@ -269,7 +280,7 @@ Beheerpakketten die ingezet kunnen worden voor de beheerdoelstellingen als verme
 			<td>aanleg en onderhoud strategisch grasland</td>
 		</tr>
 		<tr>
-			<td rowspan="6">het onderhoud van kleine landschapselementen</td>
+			<td rowspan="9">het onderhoud van kleine landschapselementen</td>
 			<td>onderhoud haag</td>
 		</tr>
 		<tr>
@@ -282,10 +293,19 @@ Beheerpakketten die ingezet kunnen worden voor de beheerdoelstellingen als verme
 			<td>onderhoud houtkant</td>
 		</tr>
 		<tr>
-			<td>omvormingsbeheer houtkant</td>
+			<td>onderhoud knotbomenrij</td>
 		</tr>
 		<tr>
-			<td>onderhoud knotbomenrij</td>
+			<td>onderhoud houtkant 75% afzetten</td>
+		</tr>
+		<tr>
+			<td>onderhoud houtkant 50% afzetten</td>
+		</tr>
+		<tr>
+			<td>onderhoud houtkant 25% afzetten</td>
+		</tr>
+		<tr>
+			<td>onderhoud houtsingel</td>
 		</tr>
 		<tr>
 			<td rowspan="6">het perceelsrandenbeheer</td>
@@ -307,7 +327,7 @@ Beheerpakketten die ingezet kunnen worden voor de beheerdoelstellingen als verme
 			<td>aanleg en onderhoud bloemenstrook</td>
 		</tr>
 		<tr>
-			<td rowspan="10">de soortenbescherming</td>
+			<td rowspan="14">de soortenbescherming</td>
 			<td>faunabeheer grasland uitgestelde maaidatum</td>
 		</tr>
 		<tr>
@@ -336,6 +356,18 @@ Beheerpakketten die ingezet kunnen worden voor de beheerdoelstellingen als verme
 		</tr>
 		<tr>
 			<td>aanleg en onderhoud vluchtstrook</td>
+		</tr>
+		<tr>
+			<td>aanleg en onderhoud gemengde grasstrook vogelakker</td>
+		</tr>
+		<tr>
+			<td>aanleg en onderhoud luzernestrook vogelakker</td>
+		</tr>
+		<tr>
+			<td>aanleg en onderhoud luzernestrook hamster</td>
+		</tr>
+		<tr>
+			<td>hamstervriendelijke nateelt</td>
 		</tr>
 		<tr>
 			<td rowspan="3">het bijdragen aan de realisatie van instandhoudingsdoelstellingen</td>
