@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027417,
+  "title": "Besluit van de Vlaamse Regering van 2016-09-09 tot wijziging van het besluit van de Vlaamse Regering van 6 juni 2014 betreffende de landinrichting, wat betreft de vrijwillige bedrijfsverplaatsing en de vrijwillige bedrijfsreconversie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027417/VolledigDocument?datum=2016-09-30",
+  "source_sha256": "bcfd44dbb89c60ffb7b4539fd8feea9125d2fa4ef4ed81fc0c7077f6051e5650",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027417&param=informatie",
+  "as_of": "2016-09-30",
+  "made": "2016-09-09",
+  "gazette": "2016-09-20",
+  "numac": 2016036419,
+  "document_start": "2016-09-30",
+  "document_end": null,
+  "in_force": "2016-09-30",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2016-09-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
