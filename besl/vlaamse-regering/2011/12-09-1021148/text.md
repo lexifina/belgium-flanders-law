@@ -18,7 +18,10 @@ Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besl
 
 ### ART. 2.
 
-De Belgische vissersvaartuigen met een lengte over alles van meer dan 12 meter zijn uitgerust met werkende satellietvolgapparatuur voor de monitoring, de controle en de bewaking van de visserijactiviteiten overeenkomstig artikel 9, tweede lid, eerste zin van verordening (EG) nr. 1224/2009. Die apparatuur dient uitsluitend voor het doorseinen van de gegevens, vermeld in artikel 19 van verordening (EU) nr. 404/2011, naar het Belgische visserijcontrolecentrum door in een formaat voor elektronische gegevensuitwisseling dat door de softwareprogrammatuur van het controlecentrum gelezen kan worden.<br /><br />Geen enkele apparatuur, van welke aard ook mag verbonden of aangesloten worden op de geïnstalleerde satellietvolgapparatuur.<br /><br />
+De Belgische vissersvaartuigen met een lengte over alles van meer dan 12 meter zijn uitgerust met werkende satellietvolgapparatuur voor de monitoring, de controle en de bewaking van de visserijactiviteiten overeenkomstig artikel 9, tweede lid, eerste zin van verordening (EG) nr. 1224/2009. Die apparatuur dient uitsluitend voor het doorseinen van de gegevens, vermeld in artikel 19 van verordening (EU) nr. 404/2011, naar het Belgische visserijcontrolecentrum door in een formaat voor elektronische gegevensuitwisseling dat door de softwareprogrammatuur van het controlecentrum gelezen kan worden.<br>
+<br>
+Satcom-C GMDSS apparatuur mag als satellietvolgapparatuur (V.M.S) gebruikt worden.<br>
+&nbsp;
 
 ### ART. 3.
 
