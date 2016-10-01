@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027616,
+  "title": "Ministerieel besluit van 2016-09-16 tot vaststelling van het model van conformiteitsattest voor kamerwoningen, bestemd voor de huisvesting van seizoenarbeiders",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027616/VolledigDocument?datum=2016-10-01",
+  "source_sha256": "96e272a7d7ea1181ea76d2e7a9ff97b178b606a34e76a64554d93d87cfc21eab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027616&param=informatie",
+  "as_of": "2016-10-01",
+  "made": "2016-09-16",
+  "gazette": "2016-12-06",
+  "numac": 2016036549,
+  "document_start": "2016-10-01",
+  "document_end": null,
+  "in_force": "2016-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
