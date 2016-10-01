@@ -713,23 +713,113 @@ Het saldo van de subsidie wordt uitbetaald vóór 1 juli van het jaar dat volgt 
 
 ## HOOFDSTUK 1. Aanvraag en ontvankelijkheidsonderzoek
 
+### ART 65.
+
+Een aanvraag tot erkenning moet ingediend worden bij het agentschap Sport Vlaanderen uiterlijk op 1 september voorafgaand aan het jaar van de erkenning.<br>
+<br>
+Als vastgesteld wordt dat een aanvraag onvolledig is en nog vervolledigd kan worden, vraagt het agentschap Sport Vlaanderen de aanvullende gegevens op.<br>
+<br>
+Het agentschap Sport Vlaanderen brengt voor 1 oktober de aanvrager ervan op de hoogte als zijn aanvraag tot erkenning onontvankelijk is en vermeldt de reden van de onontvankelijkheid. Een aanvraag is onontvankelijk als ze niet tijdig is ingediend of als blijkt dat de sportorganisatie niet kan voldoen aan de erkenningsvoorwaarden.
+
 ## HOOFDSTUK 2. Begeleiding en controle
+
+### ART 66.
+
+§ 1. Het agentschap Sport Vlaanderen begeleidt de sportorganisatie en onderzoekt haar erkenningsaanvraag. Voor 15 december brengt het agentschap Sport Vlaanderen bij de Vlaamse Regering advies uit over de sportorganisaties die erkend kunnen worden.<br>
+<br>
+§ 2. Voor 15 januari deelt de Vlaamse Regering aan de aanvrager zijn beslissing mee om de sportorganisatie te erkennen of zijn voornemen om ze niet te erkennen.<br>
+<br>
+§ 3. Een sportorganisatie die het bericht krijgt van het voornemen van de Vlaamse Regering om haar niet te erkennen, kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na de melding van het bericht ingediend moet worden bij het agentschap Sport Vlaanderen. Als de sportorganisatie daarom verzoekt, kan ze gehoord worden door een commissie die bestaat uit een vertegenwoordiger van de sectorraad voor Sport van de Raad voor Cultuur, Jeugd, Sport en Media, een vertegenwoordiger van de gesubsidieerde koepelorganisatie en een vertegenwoordiger van het agentschap Sport Vlaanderen, die de secretariaatsrol opneemt.<br>
+<br>
+Het agentschap Sport Vlaanderen stelt op basis van het advies van deze commissie binnen dertig dagen na de ontvangst van het bezwaarschrift een gemotiveerd advies op, dat voor advies aan de Inspectie van Financiën wordt voorgelegd. Het advies van de Inspectie van Financiën kadert in de administratieve en begrotingscontrole. De Vlaamse Regering beslist uiterlijk dertig dagen na de ontvangst van dat advies om de organisatie al dan niet te erkennen.
 
 ## HOOFDSTUK 3. Rapportering
 
+### ART 67.
+
+Uiterlijk tegen 1 april bezorgt elke erkende sportorganisatie, vermeld in dit decreet, aan het agentschap Sport Vlaanderen het financiële verslag en het werkingsverslag over het voorbije werkingsjaar.<br>
+<br>
+Het financiële verslag en het werkingsverslag worden ingediend op de wijze die de Vlaamse Regering bepaalt.<br>
+<br>
+Voor de erkende sportorganisaties bestaat het werkingsverslag uit een overzicht van de werking en de behaalde resultaten met het oog op de gestelde doelstellingen in het voorgaande werkingsjaar, alsook, voor de erkende sportfederatie en erkende koepelorganisatie, uit de evaluatie van het beleidsplan op basis van effectmeting en, in voorkomend geval, de bijsturing van het beleidsplan.
+
 ## HOOFDSTUK 4. Procedure voor schorsing en intrekking van een erkenning
+
+### ART 68.
+
+§ 1. Als het agentschap Sport Vlaanderen vaststelt dat een erkende sportorganisatie niet meer voldoet aan een of meer erkenningsvoorwaarden, brengt het de erkende sportorganisatie op de hoogte van de vastgestelde overtredingen.<br>
+<br>
+§ 2. De erkende sportorganisatie krijgt de mogelijkheid om haar standpunt over die overtredingen in te dienen bij het agentschap Sport Vlaanderen. Daarna stelt het agentschap Sport Vlaanderen een gemotiveerd advies op over de mogelijke sancties.<br>
+<br>
+§ 3. De Vlaamse Regering beslist, na de kennisname van het advies, vermeld in paragraaf 2, en, in voorkomend geval, van het meegedeelde standpunt van de erkende sportorganisatie, om ofwel de erkenning te schorsen en haar een termijn toe te staan waarin ze de vastgestelde overtredingen moet regulariseren, ofwel de erkenning in te trekken. De Vlaamse Regering houdt daarbij rekening met de aard van de vastgestelde overtreding en de mogelijkheid tot regularisatie.<br>
+<br>
+§ 4. De erkenning van de sportorganisatie wordt geschorst vanaf de datum, vermeld in de beslissing. In de beslissing wordt ook de termijn meegedeeld waarin ze de vastgestelde overtredingen moet regulariseren.<br>
+<br>
+Als het agentschap Sport Vlaanderen vaststelt dat de organisatie, na afloop van de in de beslissing gestelde termijn, niet opnieuw voldoet aan alle erkenningsvoorwaarden, mag de Vlaamse Regering onmiddellijk een beslissing nemen tot intrekking van de erkenning.<br>
+<br>
+De beslissing tot intrekking van de erkenning heeft uitwerking met terugwerkende kracht vanaf de datum waarop de erkenning van de organisatie is geschorst.<br>
+<br>
+Als het agentschap Sport Vlaanderen vaststelt dat de organisatie tijdig de vastgestelde overtredingen heeft geregulariseerd, wordt de schorsing opgeheven. De organisatie wordt op de hoogte gebracht van de beslissing van de Vlaamse Regering over de datum van de opheffing van de schorsing.<br>
+<br>
+§ 5. In afwijking van paragraaf 1 tot en met 4 mag de Vlaamse Regering een erkenning onmiddellijk intrekken als dat in het belang is van de Vlaamse Gemeenschap en als dat door zwaarwegende feiten wordt verantwoord. In dat geval wordt de sportorganisatie op de hoogte gebracht van de beslissing van de Vlaamse Regering om haar erkenning onmiddellijk in te trekken.
 
 ## Titel 2. Subsidiëringsprocedure
 
 ## HOOFDSTUK 1. Aanvraag en ontvankelijkheidsonderzoek
 
+### ART 69.
+
+Een aanvraag tot subsidiëring moet ingediend worden bij het agentschap Sport Vlaanderen uiterlijk op 1 september voorafgaand aan het werkingsjaar waarvoor subsidies gevraagd worden. Bij de aanvraag wordt het beleidsplan of het geactualiseerde beleidsplan gevoegd.<br>
+<br>
+Als vastgesteld wordt dat een aanvraag onvolledig is en nog vervolledigd kan worden, vraagt het agentschap Sport Vlaanderen de aanvullende gegevens op.<br>
+<br>
+Het agentschap Sport Vlaanderen brengt voor 1 oktober de organisaties ervan op de hoogte als hun aanvraag tot subsidiëring onontvankelijk is en vermeldt de reden van de onontvankelijkheid. Een aanvraag is onontvankelijk als ze niet tijdig is ingediend, of als uit de aanvraag tot subsidiëring blijkt dat de organisatie niet kan voldoen aan de subsidiëringsvoorwaarden.
+
 ## HOOFDSTUK 2. Begeleiding en controle
+
+### ART 70.
+
+§ 1. Het agentschap Sport Vlaanderen begeleidt de sportorganisatie en onderzoekt haar subsidieaanvraag. Voor 15 december brengt het agentschap Sport Vlaanderen bij de Vlaamse Regering advies uit over de sportorganisaties die gesubsidieerd kunnen worden.<br>
+<br>
+§ 2. Voor 15 januari deelt de Vlaamse Regering aan de aanvrager zijn beslissing mee om de sportorganisatie te subsidiëren of zijn voornemen om ze niet te subsidiëren.<br>
+<br>
+§ 3. Een sportorganisatie die het bericht krijgt van het voornemen van de Vlaamse Regering om haar niet te subsidiëren, kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na de melding ingediend moet worden bij het agentschap Sport Vlaanderen. Als de sportorganisatie daarom verzoekt, kan ze gehoord worden door een commissie die bestaat uit een vertegenwoordiger van de sectorraad voor Sport van de Raad voor Cultuur, Jeugd, Sport en Media, een vertegenwoordiger van de gesubsidieerde koepelorganisatie en een vertegenwoordiger van het agentschap Sport Vlaanderen, die de secretariaatsrol opneemt.<br>
+<br>
+Het agentschap Sport Vlaanderen stelt op basis van het advies van deze commissie binnen dertig dagen na de ontvangst van het bezwaarschrift een gemotiveerd advies op, dat voor advies aan de Inspectie van Financiën wordt voorgelegd. Het advies van de Inspectie van Financiën kadert in de administratieve en begrotingscontrole. De Vlaamse Regering beslist uiterlijk dertig dagen na de ontvangst van dat advies om de sportorganisatie al dan niet te subsidiëren.
 
 ## HOOFDSTUK 3. Procedure voor intrekking van de subsidiëring
 
+### ART 71.
+
+Als het agentschap Sport Vlaanderen vaststelt dat een gesubsidieerde sportorganisatie niet meer voldoet aan de subsidiëringsvoorwaarden, een of meer opdrachten, respectievelijk beleidsfocussen waarvoor ze wordt gesubsidieerd, niet uitvoert, of als zwaarwegende feiten de intrekking van de subsidiëring in het belang van de Vlaamse Gemeenschap verantwoorden, brengt het agentschap Sport Vlaanderen de sportorganisatie op de hoogte van de vastgestelde overtredingen.<br>
+<br>
+De sportorganisatie krijgt de mogelijkheid om haar standpunt over die overtredingen in te dienen bij het agentschap Sport Vlaanderen. Daarna stelt het agentschap Sport Vlaanderen een gemotiveerd advies op over de mogelijke sancties.<br>
+<br>
+De Vlaamse Regering beslist, na kennisname van het advies, vermeld in het tweede lid, en, in voorkomend geval, van het meegedeelde standpunt van de sportorganisatie, over het al dan niet geheel of gedeeltelijk intrekken en terugvorderen van de subsidiëring. De terugvordering van de subsidiëring gebeurt conform artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.
+
 ## HOOFDSTUK 4. Specifieke procedure voor de proportionele correctie van de basissubsidie van een [sportorganisatie (verv. decr. 20 mei 2022, art. 48, I: 1 december 2022)] in geval van niet-naleving van de samenwerkingsovereenkomst, vermeld in artikel 17 [, 35/1, 48/1 en 63/1 (ing. decr. 20 mei 2022, art. 48, I: 1 november 2022)]
 
+### ART 72.
+
+Als het agentschap Sport Vlaanderen vaststelt dat een gesubsidieerde sportfederatie de afspraken die opgenomen zijn in de samenwerkingsovereenkomst, vermeld in artikel 17, niet realiseert, brengt het agentschap Sport Vlaanderen de sportfederatie op de hoogte van de vastgestelde overtredingen.<br>
+<br>
+De sportfederatie krijgt de mogelijkheid om haar standpunt over die overtredingen in te dienen bij het agentschap Sport Vlaanderen. Daarna stelt het agentschap Sport Vlaanderen een gemotiveerd advies op over de mogelijke sancties.<br>
+<br>
+Onverminderd de toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, beslist de Vlaamse Regering, na de kennisname van dat advies en, in voorkomend geval, van het meegedeelde standpunt van de sportfederatie over een proportionele correctie van de basissubsidie, vermeld in artikel 9, tweede lid, 1°, a), vanaf het volgende werkingsjaar en tot bij de jaarlijkse evaluatie wordt vastgesteld dat de overtredingen geremedieerd zijn.
+
 ## HOOFDSTUK 5. Verificatie en afrekening
+
+### ART 73.
+
+Uiterlijk tegen 1 april bezorgt elke gesubsidieerde sportorganisatie, vermeld in dit decreet, aan het agentschap Sport Vlaanderen het financiële verslag en het werkingsverslag over het voorbije werkingsjaar.<br>
+<br>
+Het financiële verslag en het werkingsverslag worden ingediend op de wijze die de Vlaamse Regering bepaalt.<br>
+<br>
+Voor de gesubsidieerde sportorganisaties bestaat het werkingsverslag uit een overzicht van de werking en de behaalde resultaten met het oog op de gestelde doelstellingen in het voorgaande werkingsjaar, alsook de evaluatie van het beleidsplan op basis van effectmeting. In het werkingsverslag worden de opdrachten en, in voorkomend geval, de beleidsfocussen waarvoor ze gesubsidieerd worden, afzonderlijk behandeld.
+
+### ART 74.
+
+De inhoudelijke en financiële controles kunnen enerzijds tijdens het betreffende werkingsjaar, anderzijds op basis van het financiële verslag en het werkingsverslag uitgevoerd worden. Uit het financiële verslag moet duidelijk blijken welke kosten zijn gemaakt voor elke opdracht, in voorkomend geval voor elke beleidsfocus.
 
 ## DEEL 8. [... (opgeh. decr. 20 mei 2022, art. 52, I: 1 november 2022)]
 
