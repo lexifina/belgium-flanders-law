@@ -2,16 +2,16 @@
   "codex_id": 1017635,
   "title": "Besluit van de Vlaamse Regering van 2009-01-16 tot vaststelling van de voorwaarden tot het verkrijgen van de subsidies inzake de door de sportfederaties georganiseerde sportkampen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017635/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "478bdca25d70ede314f8285c5753d987c2716101215dcaa64009681d8dd462ff",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017635/VolledigDocument?datum=2016-10-01",
+  "source_sha256": "eea240f57a6a105d391432a24b146dbdaf57885155b4825c95cb7e974802fb1f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017635&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2016-10-01",
   "made": "2009-01-16",
   "gazette": "2009-02-26",
   "numac": 2009035174,
   "document_start": "2009-02-26",
   "document_end": "2016-10-01",
-  "in_force": "2016-01-01",
+  "in_force": "2016-10-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-10-01; future article versions excluded; article text as the API gives it"
 }
