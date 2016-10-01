@@ -37,7 +37,7 @@
 In dit besluit wordt verstaan onder:<br>
 1° administratie: het agentschap Sport Vlaanderen, opgericht bij het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen";<br>
 2° het decreet: het decreet van 20 december 2013 inzake gezond en ethisch sporten;<br>
-3° erkende sportfederatie: de sportorganisatie die erkend is als Vlaamse sportfederatie met toepassing van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector;<br>
+3° erkende sportfederatie: de sportorganisatie die erkend is als&nbsp;sportfederatie met toepassing van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector;<br>
 4° kwaliteitsstandaard: de kwaliteitsstandaard, vermeld in artikel 2, 5°, van het decreet.<br>
 5° lerend netwerk: het lerend netwerk, vermeld in artikel 2, 7°, van het decreet;<br>
 6° minister: de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br>
