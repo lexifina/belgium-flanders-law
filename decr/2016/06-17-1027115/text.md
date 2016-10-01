@@ -954,9 +954,26 @@ De evaluatie slaat op de theoretische vorming en de praktijkopleiding in de onde
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"4° de examencommissie stelt een werkings- en examenreglement op;".</span><br>
 &nbsp;
 
+### ART VII.7.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel II.198 van dezelfde codex worden in het tweede lid na het woord "noodzakelijk," de woorden ", of dient de student het voorbereidings- of schakelprogramma met succes voltooid te hebben" ingevoegd.</span><br>
+&nbsp;
+
 ### ART VII.8.
 
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel II.265, § 1, van dezelfde codex worden tussen de woorden "gezamenlijke diplomering wordt vooropgesteld" en de woorden "of als het gaat om onderzoeksmasters" de woorden ", ook wanneer de opleiding na afloop van de erkenning wordt voortgezet," ingevoegd.</span>
+
+### ART VII.9.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel II.283, tweede lid, van dezelfde codex worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° het getal "5" wordt vervangen door het getal "7";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° in het punt 2° wordt de zinsnede "de dag na deze waarop de student kennis heeft genomen van de genomen beslissing" vervangen door de zinsnede "de dag na de kennisgeving van de genomen beslissing aan de student".</span><br>
+&nbsp;
+
+### ART VII.10.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel II.284 van dezelfde codex wordt het getal "15" vervangen door het getal "20".</span><br>
+&nbsp;
 
 ### ART VII.11.
 
@@ -964,6 +981,31 @@ De evaluatie slaat op de theoretische vorming en de praktijkopleiding in de onde
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° in punt 1° wordt tussen het woord "en" en de zinsnede "2 plaatsvervangende" het woord "minimaal" ingevoegd;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° in punt 2° wordt tussen het woord "en" en de zinsnede "4 plaatsvervangende" het woord "minimaal" ingevoegd;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° na de woorden "de werkende bijzitters vervangen." wordt de zin "In functie van de werkbelasting van de Raad kan de Vlaamse Regering bijkomende plaatsvervangende leden benoemen" ingevoegd.".</span><br>
+&nbsp;
+
+### ART VII.12.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel II.292, § 1, van dezelfde codex wordt een derde lid toegevoegd dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De termijn voor het nemen van een nieuwe beslissing overeenkomstig het eerste lid, 2°, bedraagt ten minste 7 kalenderdagen.".</span><br>
+&nbsp;
+
+### ART VII.13.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel II.294, § 1, van dezelfde codex worden volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° het getal "5" wordt viermaal vervangen door het getal "7";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° het woord "vijfde" wordt vervangen door het woord "zevende";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° in het tweede lid worden de woorden "binnen een vervaltermijn van 30 dagen die ingaat de dag na kennisname van de definitieve beslissing van het bij of krachtens het decreet bevoegd orgaan en" opgeheven;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° het woord "kennisname" wordt telkens vervangen door het woord "kennisgeving";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° de woorden "kennis heeft genomen" worden vervangen door de woorden "ter kennis is gebracht".</span><br>
+&nbsp;
+
+### ART VII.14.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel II.302 van dezelfde codex wordt het getal "48" vervangen door het getal "96".</span>
+
+### ART VII.15.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel II.308 van dezelfde codex wordt het getal "15" vervangen door het getal "20".</span><br>
 &nbsp;
 
 ### ART VII.16.
