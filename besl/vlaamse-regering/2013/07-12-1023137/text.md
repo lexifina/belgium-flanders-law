@@ -43,13 +43,75 @@ Gelet op het advies van de Inspectie van Financiën, gegeven op 22 maart 2013;</
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° agentschap : het agentschap   Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid   en Onroerend Erfgoed;<BR>2° bad : een lig- of zitbad, voorzien van koud- en   warmwatertoevoer en aansluiting op het rioleringsnet;<BR>3° beveiligde zending :   een aangetekende brief of een afgifte tegen ontvangstbewijs;<BR>4° decreet van 1   juni 2012 : het decreet van 1 juni 2012 houdende de beveiliging van woningen   door optische rookmelders;<BR>5° douche : een stortbad, voorzien van koud- en   warmwatertoevoer en aansluiting op het rioleringsnet;<BR>6° gemeenschappelijk   sanitair lokaal : een gemeenschappelijk lokaal dat uitsluitend bestemd is voor   de persoonlijke hygiëne van de kamerbewoners;<BR>7° gemeenschappelijk wc-lokaal   : een gemeenschappelijk sanitair lokaal met een wc;<BR>8° gemeenschappelijke   badkamer of douche : een gemeenschappelijk sanitair lokaal met een bad of een   douche;<BR>9° gemeenschappelijke kookruimte : een gemeenschappelijk woonlokaal   of deel ervan dat bestemd is om te koken en dat uitgerust is met een of meer   gootstenen, voorzien van koudwatertoevoer met een aansluiting op het   rioleringsnet, en met een of meer kooktoestellen op gas of elektriciteit;<BR>10°   gemeenschappelijke ruimte : een gemeenschappelijk deel van de kamerwoning dat   aangewend wordt als zitplaats, keuken, interne circulatieruimte of   gemeenschappelijk sanitair lokaal;<BR>11° houder van het zakelijk recht : de   persoon of de personen met een recht van volle eigendom, opstal, erfpacht of   vruchtgebruik met betrekking tot een gebouw of een woning;<BR>12° geïndexeerd   kadastraal inkomen : het kadastraal inkomen aangepast aan het indexcijfer van de   consumptieprijzen van het rijk als vermeld in artikel 518 van het Wetboek van de   Inkomstenbelastingen 1992;<BR>13° kamerwoning : elk gebouw of deel ervan dat   bestaat uit een of meer kamers en gemeenschappelijke ruimten;<BR>14° kookruimte   : een lokaal of deel ervan dat bestemd is om te koken en dat uitgerust is met   een gootsteen met koudwatertoevoer en een aansluiting op het   rioleringsnet;<BR>15° minister : de Vlaamse minister, bevoegd voor de   huisvesting;<BR>16° oppervlakte : de vloeroppervlakte gemeten tussen de   begrenzende bouwdelen en berekend als het verschil van de bruto-vloeroppervlakte   en de constructieoppervlakte;<BR>17° seizoenarbeider : de gelegenheidsarbeider   vermeld in 8bis, tweede lid, van het koninklijk besluit van 28 november 1969 tot   uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28   december 1944 betreffende de maatschappelijke zekerheid der arbeiders, voor de   duur van zijn tewerkstelling als gelegenheidsarbeider;<BR>18° student : iedere   persoon die ingeschreven is bij een instelling van het hoger onderwijs, waarvan   hij de lessen volgt en voor wie dat zijn hoofdbezigheid vormt of de   schoolverlater van het hoger onderwijs die de wachtperiode doorloopt met   toepassing van de bepalingen van het koninklijk besluit van 25 november 1991   houdende de werkloosheidsreglementering;<BR>19° technisch verslag : het verslag   dat in het kader van een conformiteitsonderzoek door een bevoegd persoon is   opgesteld aan de hand van de bij dit besluit vastgelegde modellen;<BR>20°   Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse   Wooncode;<BR>21° wc : een toilet met waterspoeling, reukafsnijder en aansluiting   op het rioleringsnet;<BR>22° woonlokaal : een lokaal, bestemd om te worden   gebruikt als keuken, woon- of slaapkamer, met uitsluiting van de voorhal, de   gangen, de wc's en sanitaire lokalen, de wasruimten, de bergplaatsen, de niet   voor bewoning ingerichte kelders, zolders en bijgebouwen, de garages en de   lokalen voor beroepsbezigheden;<BR>23° wooninspecteur : de ambtenaar, vermeld in   artikel 20, § 2, van de Vlaamse Wooncode;<BR>24° zelfstandige woning : een   woning die beschikt over een toilet, een bad of douche en een   kookgelegenheid.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+2° bad : een lig- of zitbad, voorzien van koud- en warmwatertoevoer en aansluiting op het rioleringsnet;<br>
+3° beveiligde zending : een aangetekende brief of een afgifte tegen ontvangstbewijs;<br>
+4° decreet van 1 juni 2012 : het decreet van 1 juni 2012 houdende de beveiliging van woningen door optische rookmelders;<br>
+5° douche : een stortbad, voorzien van koud- en warmwatertoevoer en aansluiting op het rioleringsnet;<br>
+6° gemeenschappelijk sanitair lokaal : een gemeenschappelijk lokaal dat uitsluitend bestemd is voor de persoonlijke hygiëne van de kamerbewoners;<br>
+7° gemeenschappelijk wc-lokaal : een gemeenschappelijk sanitair lokaal met een wc;<br>
+8° gemeenschappelijke badkamer of douche : een gemeenschappelijk sanitair lokaal met een bad of een douche;<br>
+9° gemeenschappelijke kookruimte : een gemeenschappelijk woonlokaal of deel ervan dat bestemd is om te koken en dat uitgerust is met een of meer gootstenen, voorzien van koudwatertoevoer met een aansluiting op het rioleringsnet, en met een of meer kooktoestellen op gas of elektriciteit;<br>
+10° gemeenschappelijke ruimte : een gemeenschappelijk deel van de kamerwoning dat aangewend wordt als zitplaats, keuken, interne circulatieruimte of gemeenschappelijk sanitair lokaal;<br>
+11° houder van het zakelijk recht : de persoon of de personen met een recht van volle eigendom, opstal, erfpacht of vruchtgebruik met betrekking tot een gebouw of een woning;<br>
+12° geïndexeerd kadastraal inkomen : het kadastraal inkomen aangepast aan het indexcijfer van de consumptieprijzen van het rijk als vermeld in artikel 518 van het Wetboek van de Inkomstenbelastingen 1992;<br>
+13° kamerwoning : elk gebouw of deel ervan dat bestaat uit een of meer kamers en gemeenschappelijke ruimten;<br>
+14° kookruimte : een lokaal of deel ervan dat bestemd is om te koken, waarin een kooktoestel op gas of elektriciteit geplaatst kan worden en dat uitgerust is met een gootsteen met koudwatertoevoer en een aansluiting op het rioleringsnet;<br>
+15° minister : de Vlaamse minister, bevoegd voor de huisvesting;<br>
+16° oppervlakte : de vloeroppervlakte gemeten tussen de begrenzende bouwdelen en berekend als het verschil van de bruto-vloeroppervlakte en de constructieoppervlakte;<br>
+17° seizoenarbeider : de gelegenheidsarbeider vermeld in 8bis, tweede lid, van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, voor de duur van zijn tewerkstelling als gelegenheidsarbeider;<br>
+18° student : iedere persoon die ingeschreven is bij een instelling van het hoger onderwijs, waarvan hij de lessen volgt en voor wie dat zijn hoofdbezigheid vormt of de schoolverlater van het hoger onderwijs die de wachtperiode doorloopt met toepassing van de bepalingen van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering;<br>
+19° technisch verslag : het verslag dat in het kader van een conformiteitsonderzoek door een bevoegd persoon is opgesteld aan de hand van de bij dit besluit vastgelegde modellen;<br>
+20° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+21° wc : een toilet met waterspoeling, reukafsnijder en aansluiting op het rioleringsnet;<br>
+22° woonlokaal : een lokaal, bestemd om te worden gebruikt als keuken, woon- of slaapkamer, met uitsluiting van de voorhal, de gangen, de wc's en sanitaire lokalen, de wasruimten, de bergplaatsen, de niet voor bewoning ingerichte kelders, zolders en bijgebouwen, de garages en de lokalen voor beroepsbezigheden;<br>
+23° wooninspecteur : de ambtenaar, vermeld in artikel 20, § 2, van de Vlaamse Wooncode;<br>
+24° zelfstandige woning : een woning die beschikt over een toilet, een bad of douche en een kookgelegenheid.
 
 ## HOOFDSTUK 2. Veiligheids-, gezondheids- en woonkwaliteitsnormen
 
 ### ART. 2.
 
-<P>§ 1.De vereisten en normen waaraan elke woning moet voldoen, vermeld in   artikel 5, § 1, van de Vlaamse Wooncode, zijn die welke, naargelang het geval,   nader worden bepaald in het model van technisch verslag, dat bij dit besluit is   gevoegd als :<BR>1° bijlage 1 voor kamers;<BR>2° bijlage 2 voor kamers die   verhuurd worden aan seizoenarbeiders;<BR>3° bijlage 3 voor zelfstandige   woningen.<BR></P>  <P>§ 2. Een woning of kamerwoning is per bouwlaag uitgerust met minstens één   rookmelder als vermeld in artikel 2, 2°, van het decreet van 1 juni 2012. Een   zolder of een kelder, al dan niet bestemd voor gedeeld gebruik, waarin zich een   technische installatie bevindt of die een directe toegang heeft en normaal en   onmiddellijk te betreden is, wordt als bouwlaag beschouwd.<BR></P>  <P>Een kamer is uitgerust met een rookmelder.<BR></P>  <P>De verplichtingen, vermeld in het eerste en tweede lid, gelden niet zolang   geen nieuw huurcontract is afgesloten als vermeld in artikel 4, eerste lid, van   het decreet van 1 juni 2012 of zolang de termijn, vermeld in artikel 4, tweede   en derde lid, van het voormelde decreet, niet verstreken is.<BR></P>  <P>De minister stelt minstens via een voor het publiek toegankelijke website van   de Vlaamse overheid een handleiding voor de plaatsing van rookmelders ter   beschikking.<BR></P>  <P>§ 3. Een kamer heeft een oppervlakte van minimaal 12 m². De oppervlakte van   de kamer is de totale nettovloeroppervlakte van de woonlokalen, vermeld in deel   F van bijlage 1.<BR></P>  <P>In afwijking van het eerste lid geldt er een minimale oppervlakte van 8   m<SUP>2</SUP> voor een kamer die verhuurd wordt of te huur of ter beschikking   gesteld wordt met het oog op de huisvesting van een of meer studentenen die   voldoet aan de volgende voorwaarden :<BR>1° ze is gebouwd of gerealiseerd voor 1   september 1998;<BR>2° er werd op basis van een aanvraag van voor 1 september   2001 een eerste conformiteitsattest afgegeven dat zonder onderbreking verlengd   werd en nooit ingetrokken of vervallen is vanwege een ander criterium dan de   oppervlakte.<BR></P>  <P>Voor de toepassing van de voorwaarde, vermeld in het tweede lid, 2°, wordt   een eerste conformiteitsattest waarvan de normale geldigheidsduur verstreken is   onder de volgende voorwaarden beschouwd als zonder onderbreking verlengd :<BR>1°   als er een nieuw conformiteitsattest afgegeven is dat aangevraagd is voor het   verstrijken van een termijn van&nbsp;dertig maanden na de inwerkingtreding van   dit besluit;<BR>2° zolang er na het nieuwe conformiteitsattest, vermeld in punt   1°, conformiteitsattesten afgegeven worden die telkens minimaal drie maanden   voor het verstrijken van de geldigheidsduur, vastgesteld met toepassing van   artikel 10, eerste lid, 5°, of tweede lid, van de Vlaamse Wooncode, aangevraagd   worden.<BR><BR>In afwijking van het eerste lid geldt er een minimale oppervlakte   van 8 m² voor een kamer die verhuurd wordt of te huur of ter beschikking gesteld   wordt aan seizoenarbeiders op voorwaarde dat de kamer en de gemeenschappelijke   ruimte samen een totale oppervlakte van minimaal 18 m² hebben.<BR></P>  <P>§ 4. In afwijking van de minimale totale nettovloeroppervlakte, vermeld in de   bijlage 3, kan een gemeten nettovloeroppervlakte van minder dan 18 m<SUP>2</SUP>   voor de enige woon- en slaapkamer in een zelfstandige woning, gebouwd of vergund   voor 1 februari 2008, met 2 m<SUP>2</SUP> verhoogd worden als het woonlokaal bij   wijze van structurele plaatsbesparende maatregel uitgerust is met een wandmeubel   met opklapbaar bed van minimaal 2 m<SUP>2</SUP>, dat dubbel gebruik   aantoont.<BR><BR>§ 5. Voor de verhuring buiten het sociale huurstelsel, vermeld   in artikel 55bis, eerste lid, 2°, van het besluit van de Vlaamse Regering van 12   oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van   titel VII van de Vlaamse Wooncode, zijn, onder voorbehoud van het tweede lid,   afwijkingen toegestaan op de vereisten en normen, opgenomen in bijlage 1 en 3   die bij dit besluit zijn gevoegd, als aan de volgende voorwaarden is voldaan   :<BR>1° de verhuring gebeurt uitsluitend met het oog op de opvang van dak- en   thuislozen tijdens de winterperiode, vermeld in artikel 14, § 1, van het   Samenwerkingsakkoord van 12 mei 2014 inzake dak- en thuisloosheid waarbij de   termijn van zes maanden niet overschreden mag worden;<BR>2° de woning vertoont   geen veiligheids- of gezondheidsrisico's;<BR>3° de verhurende instelling,   vermeld in artikel 1, eerste lid, 28° ter, van het voormelde besluit, zorgt voor   woonbegeleiding van de personen die in de woning worden opgevangen.<BR><BR>De   afwijkingen, vermeld in het eerste lid, kunnen geen betrekking hebben op de   volgende gebreken, opgenomen in bijlage 1 en 3 die bij dit besluit zijn gevoegd   :<BR>1° gebreken van categorie III in verband met vocht, stabiliteit en   toegankelijkheid;<BR>2° gebreken van categorie IV met uitzondering van het   gebrek in verband met de totale nettovloeroppervlakte van de   woonlokalen.</P>
+<p>§ 1.De vereisten en normen waaraan elke woning moet voldoen, vermeld in artikel 5, § 1, van de Vlaamse Wooncode, zijn die welke, naargelang het geval, nader worden bepaald in het model van technisch verslag, dat bij dit besluit is gevoegd als :<br>
+1° bijlage 1 voor kamers;<br>
+2° bijlage 2 voor kamers die verhuurd worden aan seizoenarbeiders;<br>
+3° bijlage 3 voor zelfstandige woningen.</p>
+
+<p>§ 2. Een woning of kamerwoning is per bouwlaag uitgerust met minstens één rookmelder als vermeld in artikel 2, 2°, van het decreet van 1 juni 2012. Een zolder of een kelder, al dan niet bestemd voor gedeeld gebruik, waarin zich een technische installatie bevindt of die een directe toegang heeft en normaal en onmiddellijk te betreden is, wordt als bouwlaag beschouwd.</p>
+
+<p>Een kamer is uitgerust met een rookmelder.</p>
+
+<p>De verplichtingen, vermeld in het eerste en tweede lid, gelden niet zolang geen nieuw huurcontract is afgesloten als vermeld in artikel 4, eerste lid, van het decreet van 1 juni 2012 of zolang de termijn, vermeld in artikel 4, tweede en derde lid, van het voormelde decreet, niet verstreken is.</p>
+
+<p>De minister stelt minstens via een voor het publiek toegankelijke website van de Vlaamse overheid een handleiding voor de plaatsing van rookmelders ter beschikking.</p>
+
+<p>§ 3. Een kamer heeft een oppervlakte van minimaal 12 m². De oppervlakte van de kamer is de totale nettovloeroppervlakte van de woonlokalen, vermeld in deel F van bijlage 1.</p>
+
+<p>In afwijking van het eerste lid geldt er een minimale oppervlakte van 8 m<sup>2</sup> voor een kamer die verhuurd wordt of te huur of ter beschikking gesteld wordt met het oog op de huisvesting van een of meer studentenen die voldoet aan de volgende voorwaarden :<br>
+1° ze is gebouwd of gerealiseerd voor 1 september 1998;<br>
+2° er werd op basis van een aanvraag van voor 1 september 2001 een eerste conformiteitsattest afgegeven dat zonder onderbreking verlengd werd en nooit ingetrokken of vervallen is vanwege een ander criterium dan de oppervlakte.</p>
+
+<p>Voor de toepassing van de voorwaarde, vermeld in het tweede lid, 2°, wordt een eerste conformiteitsattest waarvan de normale geldigheidsduur verstreken is onder de volgende voorwaarden beschouwd als zonder onderbreking verlengd :<br>
+1° als er een nieuw conformiteitsattest afgegeven is dat aangevraagd is voor het verstrijken van een termijn van&nbsp;dertig maanden na de inwerkingtreding van dit besluit;<br>
+2° zolang er na het nieuwe conformiteitsattest, vermeld in punt 1°, conformiteitsattesten afgegeven worden die telkens minimaal drie maanden voor het verstrijken van de geldigheidsduur, vastgesteld met toepassing van artikel 10, eerste lid, 5°, of tweede lid, van de Vlaamse Wooncode, aangevraagd worden.<br>
+<br>
+In afwijking van het eerste lid geldt er een minimale oppervlakte van 8 m² voor een kamer die verhuurd wordt of te huur of ter beschikking gesteld wordt aan seizoenarbeiders op voorwaarde dat de kamer en de gemeenschappelijke ruimte samen een totale oppervlakte van minimaal 18 m² hebben.</p>
+
+<p>§ 4. In afwijking van de minimale totale nettovloeroppervlakte, vermeld in paragraaf 3, eerste lid, en bijlage 3, deel C, punt 241, en deel D, geldt voor een woning die gebouwd of vergund is vóór 1 oktober 2016, dat de gemeten nettovloeroppervlakte die kleiner is dan de minimale oppervlaktenorm van 12 m² of 18 m²:<br>
+1° met 2 m<sup>2</sup> wordt verhoogd als de woning bij wijze van structurele plaatsbesparende maatregel uitgerust is met een bed van minimaal 2 m<sup>2 </sup>dat gemonteerd is op een hoogte van minimaal 180 cm en op een afstand van minimaal 100 cm onder het plafond, of met een wandmeubel met opklapbaar bed van minimaal 2 m<sup>2</sup>, dat dubbel gebruik aantoont;<br>
+2° wordt verhoogd met maximaal 3 m² van de gemeten oppervlakte in de aparte badkamer.<br>
+<br>
+De afwijkingen in het eerste lid kunnen niet gecumuleerd worden met de afwijkingen, vermeld in paragraaf 3, tweede en vierde lid.<br>
+<br>
+§ 5. Voor de verhuring buiten het sociale huurstelsel, vermeld in artikel 55bis, eerste lid, 2°, van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode, zijn, onder voorbehoud van het tweede lid, afwijkingen toegestaan op de vereisten en normen, opgenomen in bijlage 1 en 3 die bij dit besluit zijn gevoegd, als aan de volgende voorwaarden is voldaan :<br>
+1° de verhuring gebeurt uitsluitend met het oog op de opvang van dak- en thuislozen tijdens de winterperiode, vermeld in artikel 14, § 1, van het Samenwerkingsakkoord van 12 mei 2014 inzake dak- en thuisloosheid waarbij de termijn van zes maanden niet overschreden mag worden;<br>
+2° de woning vertoont geen veiligheids- of gezondheidsrisico's;<br>
+3° de verhurende instelling, vermeld in artikel 1, eerste lid, 28° ter, van het voormelde besluit, zorgt voor woonbegeleiding van de personen die in de woning worden opgevangen.<br>
+<br>
+De afwijkingen, vermeld in het eerste lid, kunnen geen betrekking hebben op de volgende gebreken, opgenomen in bijlage 1 en 3 die bij dit besluit zijn gevoegd :<br>
+1° gebreken van categorie III in verband met vocht, stabiliteit en toegankelijkheid;<br>
+2° gebreken van categorie IV met uitzondering van het gebrek in verband met de totale nettovloeroppervlakte van de woonlokalen.</p>
 
 ## HOOFDSTUK 3. Het conformiteitsonderzoek
 
@@ -125,7 +187,9 @@ De vergoeding voor de afgifte van een conformiteitsattest door de burgemeester w
 
 ### ART. 10.
 
-De bepalingen van dit hoofdstuk zijn niet van toepassing op kamers die   verhuurd worden voor de huisvesting van seizoenarbeiders. In voorkomend geval is   artikel 9 van de Vlaamse Wooncode van toepassing.
+Dit artikel voorziet in de gedeeltelijke omzetting van artikel 20, lid 1, van richtlijn 2014/36/EU van het Europees Parlement en de Raad van 26 februari 2014 `betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op tewerkstelling als seizoenarbeider'<br>
+<br>
+De bepalingen van titel III, hoofdstuk II van de Vlaamse Wooncode en van dit hoofdstuk zijn van toepassing op kamers die verhuurd worden voor de huisvesting van seizoenarbeiders.
 
 ## HOOFDSTUK 5. Ongeschikt-, onbewoonbaar- of overbewoondverklaring
 
@@ -393,12 +457,38 @@ De Vlaamse minister, bevoegd voor de huisvesting, is belast met de uitvoering va
 
 ### BIJLAGE
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/01_1.pdf#page=157">Model   van technisch verslag voor kamers als vermeld in artikel 2, § 1, 1°</A><BR><BR>*   In deel B van de bijlage wordt in punt 81 tussen de woorden "brandweer" en   "blijkt" de zinsnede "of de brandtoezichter, aangewezen door de burgemeester"   ingevoegd (Zie BVR 27 november 2015, art. 4, I: 22 januari 2016).</P>  <P>&nbsp;</P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2013/08/01_1.pdf#page=157">Model van technisch verslag voor kamers als vermeld in artikel 2, § 1, 1°</a><br>
+<br>
+* In deel B van de bijlage wordt in punt 81 tussen de woorden "brandweer" en "blijkt" de zinsnede "of de brandtoezichter, aangewezen door de burgemeester" ingevoegd (Zie BVR 27 november 2015, art. 4, I: 22 januari 2016).</p>
+
+<p>In deel C en D van bijlage 1&nbsp;wordt punt 121 vervangen door wat volgt: <a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56">http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56</a><br>
+<br>
+In bijlage 1&nbsp;worden de volgende wijzigingen aangebracht:<br>
+1° in deel C, punt 236, wordt tussen het woord "brievenbus" en het woord "en" de zinsnede "(alleen als het geen studentenkamer betreft)" ingevoegd;<br>
+2° in deel D wordt punt 241 vervangen door wat volgt: <a href="www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56#page=57">www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56#page=57</a><br>
+3° in hetzelfde deel D worden de zinnen&nbsp;... vervangen door de volgende zinnen:<a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=57">http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=57</a><br>
+4° in de bijlage "berekening gemeenschappelijke functies" worden de zinnen ...vervangen door de volgende zinnen:<a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=57">http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=57</a></p>
 
 ### BIJLAGE
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/01_1.pdf#page=167">Model   van technisch verslag voor kamers die verhuurd worden aan seizoensarbeiders als   vermeld in artikel 2, § 1, 2°</A></P>  <P>* In deel B van de bijlage wordt in punt 81 tussen de woorden "brandweer" en   "blijkt" de zinsnede "of de brandtoezichter, aangewezen door de burgemeester"   ingevoegd (Zie BVR 27 november 2015, art. 4, I: 22 januari   2016).</P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2013/08/01_1.pdf#page=167">Model van technisch verslag voor kamers die verhuurd worden aan seizoensarbeiders als vermeld in artikel 2, § 1, 2°</a></p>
+
+<p>* In deel B van de bijlage wordt in punt 81 tussen de woorden "brandweer" en "blijkt" de zinsnede "of de brandtoezichter, aangewezen door de burgemeester" ingevoegd (Zie BVR 27 november 2015, art. 4, I: 22 januari 2016).<br>
+<br>
+* In deel C en D van bijlage 2&nbsp;wordt punt 121 vervangen door wat volgt: <a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56">http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56</a><br>
+<br>
+* In de bijlage "berekening gemeenschappelijke functies" bij bijlage 2 worden de zinnen ...vervangen door de volgende zinnen: &nbsp;<a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56">http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=58</a><br>
+&nbsp;</p>
 
 ### BIJLAGE
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/01_1.pdf#page=177">Model   van technisch verslag voor zelfstandige woningen als vermeld in artikel 2, § 1,   3°</A></P>  <P>* In deel B van de bijlage wordt in punt 81 tussen de woorden "brandweer" en   "blijkt" de zinsnede "of de brandtoezichter, aangewezen door de burgemeester"   ingevoegd (Zie BVR 27 november 2015, art. 4, I: 22 januari 2016).<BR><BR>* In   deel D van de&nbsp;bijlage&nbsp;wordt in punt D.1 tussen de woorden "woning" en   "gebouwd" de zinsnede "met een totale nettovloeroppervlakte van de woonlokalen   kleiner dan 18 m² en" ingevoegd (Zie BVR 27 november 2015, art. 5, I: 22 januari   2016).<BR></P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2013/08/01_1.pdf#page=177">Model van technisch verslag voor zelfstandige woningen als vermeld in artikel 2, § 1, 3°</a></p>
+
+<p>* In deel B van de bijlage wordt in punt 81 tussen de woorden "brandweer" en "blijkt" de zinsnede "of de brandtoezichter, aangewezen door de burgemeester" ingevoegd (Zie BVR 27 november 2015, art. 4, I: 22 januari 2016).<br>
+<br>
+* In deel D van de&nbsp;bijlage&nbsp;wordt in punt D.1 tussen de woorden "woning" en "gebouwd" de zinsnede "met een totale nettovloeroppervlakte van de woonlokalen kleiner dan 18 m² en" ingevoegd (Zie BVR 27 november 2015, art. 5, I: 22 januari 2016).<br>
+<br>
+* In deel C van bijlage 3&nbsp;wordt punt 121 vervangen door wat volgt: <a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56">http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56</a><br>
+<br>
+* &nbsp;In deel D van bijlage 3 worden aan punt D.1 de volgende zinnen toegevoegd:<br>
+"Een leefruimte van minstens 8 m² met open keuken geldt als twee woonlokalen. Onder open keuken wordt verstaan: de enige kookruimte die geïntegreerd is in de leefruimte.".</p>
