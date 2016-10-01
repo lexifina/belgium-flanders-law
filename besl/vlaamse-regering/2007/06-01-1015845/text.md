@@ -12,7 +12,7 @@ In dit besluit wordt verstaan onder :<br>
 1° het decreet : het decreet van 11 mei 2007 houdende het statuut van de sportschutter;<br>
 2° de minister : de Vlaamse minister bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br>
 3° de bevoegde dienst : een van de volgende entiteiten :<br>
-a) &nbsp;Sport Vlaanderen voor de Vlaamse sportfederaties of organisaties die erkend zijn op basis van het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding die het sportschieten aanbieden;<br>
+a) &nbsp;Sport Vlaanderen voor de sportfederaties of de organisatie voor de sportieve vrijetijdsbesteding die gesubsidieerd zijn met toepassing van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector die het sportschieten aanbieden;<br>
 b) het Departement Cultuur, Jeugd, Sport en Media van het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media voor de organisaties voor volkscultuur die erkend zijn op basis van het decreet van 27 oktober 1998 houdende de erkenning en subsidiëring van organisaties voor volkscultuur en de oprichting van het Vlaams Centrum voor Volkscultuur die het sportschieten met vergunningsplichtige wapens aanbieden.
 
 ## HOOFDSTUK II. Stavingsstukken en procedure voor het verkrijgen en het hernieuwen van een sportschutterslicentie
