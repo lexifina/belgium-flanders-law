@@ -6,4 +6,127 @@
 
 ### Tekst
 
-<P>1.1. Algemene bepalingen<BR>1.1.1. Het Contactpunt betreffende   grensoverschrijdende gezondheidszorg omvat :<BR>- een contactcenter dat   bereikbaar zal zijn per mail, telefoon, een webformulier en post in de 3   landstalen en in het Engels.<BR>- een informatieve website die toegankelijk is   in de 3 landstalen en in het Engels.<BR>1.2. Organisatie<BR>1.2.1. Contact   center<BR>De Federale Overheidsdienst Volksgezondheid, Veiligheid van de   Voedselketen en Leefmilieu (FOD VVVL) coördineert het opzetten en de opvolging   van het contactcenter dat bestaat uit een eerste en een tweede lijn.<BR>De   bevoegde administraties nemen deel aan de opleiding van de operatoren van de   front office (eerste lijn).<BR>De kwaliteitscriteria (antwoordtermijn,   percentage van gemiste oproepen, ...) voor het werk van de front office zullen   vastgelegd worden in SLA's (Service Level Agreement).<BR>De front office moet   aan de FOD VVVL statistische informatie bezorgen onder andere over het aantal   vragen, de behandelde onderwerpen en de gemaakte kosten.<BR>De tweede lijn   (back-office) van het contactcenter zal bestaan uit de bevoegde administraties   in functie van de bevoegdheden gelinkt aan elke vraag.<BR>Het Contactpunt   betreffende grensoverschrijdende gezondheidszorg is belast met volgende taken   :<BR>o de uitwisseling van informatie bevorderen, samenwerken met andere   contactpunten en de Commissie en patiënten op hun vraag contactgegevens van   nationale contactpunten van andere lidstaten verstrekken;<BR>o maatregelen nemen   opdat de informatie toegankelijk is voor personen met een handicap;<BR>o   patiënten informeren omtrent de gegevens die moeten worden opgenomen in recepten   die in een andere lidstaat worden verstrekt dan de lidstaat waarin het   geneesmiddel of hulpmiddel wordt verstrekt. <BR>1.2.2. Website<BR>De FOD VVVL   coördineert de keuzes op technologisch vlak, verbonden aan de oprichting en het   beheer van de website.<BR>De website omvat :<BR>- een inleidende tekst voor elk   element van informatie dat conform de Richtlijn 2011/24/EU moet aangeleverd   worden. Deze teksten worden door elke administratie opgemaakt, vertaald (Frans,   Nederlands, Duits en Engels) en doorgegeven aan de coördinator van de website   met betrekking tot hun specifieke bevoegdheden.<BR>- links die voor elk element   van informatie verwijzen naar meer specifieke informatie op de websites van elke   entiteit.<BR>De verschillende administraties zijn verantwoordelijk voor het   actualiseren van de inleidende teksten en van de links van zodra de   omstandigheden het noodzakelijk maken om de informatie te wijzigen.<BR>1.2.3.   Beheerscomité<BR>Een beheerscomité verzekert de opvolging en de evaluatie van de   organisatie van het contactpunt. Het beheerscomité kan de kwaliteitscriteria van   het contactcenter evalueren en aanpassen.<BR>Elk van de ondertekenende partijen   van dit protocol zal twee personen aanduiden die deelnemen aan de activiteiten   van dit comité : een vertegenwoordiger van elke Minister en een   vertegenwoordiger van de betrokken administratie.<BR>Het voorzitterschap en het   secretariaat van dit comité zullen waargenomen worden door de FOD VVVL.<BR>In   onderling overleg zal een reglement van inwendige orde vastgesteld worden   teneinde de werkingsmodaliteiten van dit Comité te bepalen.<BR>Om de drie   maanden zal de FOD VVVL aan het beheerscomité meedelen hoeveel vragen het call   center ontvangen heeft, over welke onderwerpen en hoeveel de gemaakte kosten   bedragen.<BR>1.3. Financiering<BR>Elk van de ondertekenende entiteiten neemt   deel aan de financiering van het contactpunt volgens de volgende modaliteiten   :<BR>1.3.1. Voor het jaar 2013<BR>De FOD VVVL neemt op zich de kosten verbonden   aan :<BR>- de front office (call center)<BR>- de technologische ontwikkeling en   onderhoud van de website.<BR>1.3.2. Voor het jaar 2014<BR>De FOD VVVL neemt de   kosten voor de technologische ontwikkeling en onderhoud van de website op   zich.<BR></P>  <P>Er wordt verwacht dat de kosten verbonden aan de front office van het   callcenter 60.000 € zullen bedragen en deze kosten worden verdeeld tussen de   verschillende entiteiten volgens de volgende verdeelsleutel :<BR></P>  <TABLE border=1>    <TBODY>    <TR>      <TD>Gouvernement fédéral       <TD>50,0 %       <TD>30.000 €       <TD>Federale overheid       <TD>50,0 %       <TD>30.000 € <BR>    <TR>      <TD>Communauté flamande       <TD>25,0 %       <TD>15.000 €       <TD>Vlaamse Gemeenschap       <TD>25,0 %       <TD>15.000 € <BR>    <TR>      <TD>Communauté française       <TD>8,0 %       <TD>4.800 €       <TD>Franse Gemeenschap       <TD>8,0 %       <TD>4.800 € <BR>    <TR>      <TD>Région wallonne       <TD>12,0 %       <TD>7.200 €       <TD>Waals Gewest       <TD>12,0 %       <TD>7.200 € <BR>    <TR>      <TD>COCOM       <TD>2,5 %       <TD>1.500 €       <TD>GGC       <TD>2,5 %       <TD>1.500 € <BR>    <TR>      <TD>COCOF       <TD>2,0 %       <TD>1.200 €       <TD>COCOF       <TD>2,0 %       <TD>1.200 € <BR>    <TR>      <TD>Communauté germanophone       <TD>0,5 %       <TD>300 €       <TD>Duitstalige Gemeenschap       <TD>0,5 %       <TD>300 € <BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;100 %       <TD>60.000 €       <TD>&nbsp;       <TD>&nbsp;100 %       <TD>60.000 € <BR></TD></TR></TBODY></TABLE>  <P><BR>De verschuldigde bedragen (hierboven) worden gestort op de rekening   679-2004206-89 van de Federale Overheidsdienst Volksgezondheid, Veiligheid van   de Voedselketen en Leefmilieu vóór 1 maart 2014. Het overschot van 2014 wordt   niet terug gestort aan de voormelde entiteiten maar wordt overgedragen voor de   werking van 2015.<BR></P>  <P>De Interministeriële Conferentie kan steeds beslissen om zowel de bijdrage   als de hierboven vermelde verdeelsleutel aan te passen mits unanimiteit van de   stemmen.<BR></P>  <P>De bedragen die niet gerechtvaardigd worden door de reële prestaties van het   call center zullen aan elke enititeit terugbetaald worden volgens de   modaliteiten die eigen zijn aan hun organisatie.<BR></P>
+<p>1.1. Algemene bepalingen<br>
+1.1.1. Het Contactpunt betreffende grensoverschrijdende gezondheidszorg omvat :<br>
+- een contactcenter dat bereikbaar zal zijn per mail, telefoon, een webformulier en post in de 3 landstalen en in het Engels.<br>
+- een informatieve website die toegankelijk is in de 3 landstalen en in het Engels.<br>
+1.2. Organisatie<br>
+1.2.1. Contact center<br>
+De Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu (FOD VVVL) coördineert het opzetten en de opvolging van het contactcenter dat bestaat uit een eerste en een tweede lijn.<br>
+De bevoegde administraties nemen deel aan de opleiding van de operatoren van de front office (eerste lijn).<br>
+De kwaliteitscriteria (antwoordtermijn, percentage van gemiste oproepen, ...) voor het werk van de front office zullen vastgelegd worden in SLA's (Service Level Agreement).<br>
+De front office moet aan de FOD VVVL statistische informatie bezorgen onder andere over het aantal vragen, de behandelde onderwerpen en de gemaakte kosten.<br>
+De tweede lijn (back-office) van het contactcenter zal bestaan uit de bevoegde administraties in functie van de bevoegdheden gelinkt aan elke vraag.<br>
+Het Contactpunt betreffende grensoverschrijdende gezondheidszorg is belast met volgende taken :<br>
+o de uitwisseling van informatie bevorderen, samenwerken met andere contactpunten en de Commissie en patiënten op hun vraag contactgegevens van nationale contactpunten van andere lidstaten verstrekken;<br>
+o maatregelen nemen opdat de informatie toegankelijk is voor personen met een handicap;<br>
+o patiënten informeren omtrent de gegevens die moeten worden opgenomen in recepten die in een andere lidstaat worden verstrekt dan de lidstaat waarin het geneesmiddel of hulpmiddel wordt verstrekt.<br>
+1.2.2. Website<br>
+De FOD VVVL coördineert de keuzes op technologisch vlak, verbonden aan de oprichting en het beheer van de website.<br>
+De website omvat :<br>
+- een inleidende tekst voor elk element van informatie dat conform de Richtlijn 2011/24/EU moet aangeleverd worden. Deze teksten worden door elke administratie opgemaakt, vertaald (Frans, Nederlands, Duits en Engels) en doorgegeven aan de coördinator van de website met betrekking tot hun specifieke bevoegdheden.<br>
+- links die voor elk element van informatie verwijzen naar meer specifieke informatie op de websites van elke entiteit.<br>
+De verschillende administraties zijn verantwoordelijk voor het actualiseren van de inleidende teksten en van de links van zodra de omstandigheden het noodzakelijk maken om de informatie te wijzigen.<br>
+1.2.3. Beheerscomité<br>
+Een beheerscomité verzekert de opvolging en de evaluatie van de organisatie van het contactpunt. Het beheerscomité kan de kwaliteitscriteria van het contactcenter evalueren en aanpassen.<br>
+Elk van de ondertekenende partijen van dit protocol zal twee personen aanduiden die deelnemen aan de activiteiten van dit comité : een vertegenwoordiger van elke Minister en een vertegenwoordiger van de betrokken administratie.<br>
+Het voorzitterschap en het secretariaat van dit comité zullen waargenomen worden door de FOD VVVL.<br>
+In onderling overleg zal een reglement van inwendige orde vastgesteld worden teneinde de werkingsmodaliteiten van dit Comité te bepalen.<br>
+Om de drie maanden zal de FOD VVVL aan het beheerscomité meedelen hoeveel vragen het call center ontvangen heeft, over welke onderwerpen en hoeveel de gemaakte kosten bedragen.<br>
+1.3. Financiering<br>
+Elk van de ondertekenende entiteiten neemt deel aan de financiering van het contactpunt volgens de volgende modaliteiten :<br>
+1.3.1. Voor het jaar 2013<br>
+De FOD VVVL neemt op zich de kosten verbonden aan :<br>
+- de front office (call center)<br>
+- de technologische ontwikkeling en onderhoud van de website.<br>
+1.3.2. Voor het jaar 2014<br>
+De FOD VVVL neemt de kosten voor de technologische ontwikkeling en onderhoud van de website op zich.</p>
+
+<p>Er wordt verwacht dat de kosten verbonden aan de front office van het callcenter 60.000 € zullen bedragen en deze kosten worden verdeeld tussen de verschillende entiteiten volgens de volgende verdeelsleutel :</p>
+&nbsp;
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Gouvernement fédéral</td>
+			<td>50,0 %</td>
+			<td>30.000 €</td>
+			<td>Federale overheid</td>
+			<td>50,0 %</td>
+			<td>30.000 €</td>
+		</tr>
+		<tr>
+			<td>Communauté flamande</td>
+			<td>25,0 %</td>
+			<td>15.000 €</td>
+			<td>Vlaamse Gemeenschap</td>
+			<td>25,0 %</td>
+			<td>15.000 €</td>
+		</tr>
+		<tr>
+			<td>Communauté française</td>
+			<td>8,0 %</td>
+			<td>4.800 €</td>
+			<td>Franse Gemeenschap</td>
+			<td>8,0 %</td>
+			<td>4.800 €</td>
+		</tr>
+		<tr>
+			<td>Région wallonne</td>
+			<td>12,0 %</td>
+			<td>7.200 €</td>
+			<td>Waals Gewest</td>
+			<td>12,0 %</td>
+			<td>7.200 €</td>
+		</tr>
+		<tr>
+			<td>COCOM</td>
+			<td>2,5 %</td>
+			<td>1.500 €</td>
+			<td>GGC</td>
+			<td>2,5 %</td>
+			<td>1.500 €</td>
+		</tr>
+		<tr>
+			<td>COCOF</td>
+			<td>2,0 %</td>
+			<td>1.200 €</td>
+			<td>COCOF</td>
+			<td>2,0 %</td>
+			<td>1.200 €</td>
+		</tr>
+		<tr>
+			<td>Communauté germanophone</td>
+			<td>0,5 %</td>
+			<td>300 €</td>
+			<td>Duitstalige Gemeenschap</td>
+			<td>0,5 %</td>
+			<td>300 €</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;100 %</td>
+			<td>60.000 €</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;100 %</td>
+			<td>60.000 €</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+De verschuldigde bedragen (hierboven) worden gestort op de rekening 679-2004206-89 van de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu vóór 1 maart 2014. Het overschot van 2014 wordt niet terug gestort aan de voormelde entiteiten maar wordt overgedragen voor de werking van 2015. Het eventuele overschot van 2015 wordt niet terug gestort aan de voormelde entiteiten maar wordt overgedragen voor de werking van 2016.</p>
+
+<p>De Interministeriële Conferentie kan steeds beslissen om zowel de bijdrage als de hierboven vermelde verdeelsleutel aan te passen mits unanimiteit van de stemmen.</p>
+
+<p>De bedragen die niet gerechtvaardigd worden door de reële prestaties van het call center zullen aan elke enititeit terugbetaald worden volgens de modaliteiten die eigen zijn aan hun organisatie.<br>
+<br>
+Er wordt verwacht dat de kosten verbonden aan de front office van het callcenter voor het jaar 2016 30.000 euro zullen bedragen.<br>
+<br>
+Overeenkomstig de Sainte Emilie akkoorden tussen de Franstalige entiteiten, zullen deze kosten verdeeld worden tussen de verschillende entiteiten volgens de volgende verdeelsleutel :<br>
+Federale overheid : 50 %&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15.000 €<br>
+Vlaamse Gemeenschap : 25%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.500 €<br>
+Waals Gewest : 17.4 %&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.220 €<br>
+GGC : 2.5 %&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;750 €<br>
+COCOF : 4.6 %&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.480 €<br>
+Duitstalige gemeenschap : 0,5 %&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;150 €."</p>
