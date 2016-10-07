@@ -54,7 +54,8 @@
 45° Lieve Verfaillie;<br>
 46° Jan Mertens;<br>
 47° Johan Reymen;<br>
-48° Hans Duyck;</p>
+48° Hans Duyck;<br>
+49° Anke Symens;</p>
 
 ### ART. 2.
 
