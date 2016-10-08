@@ -26,4 +26,5 @@ Overeenkomstig artikel 4bis, tweede lid, van het koninklijk besluit van 21 april
 7° Erkenningscommissie voor de bijzondere beroepstitel in de pediatrie: bijzondere beroepstitel in de pediatrische hematologie en oncologie;<br>
 8° Erkenningscommissie voor de bijzondere beroepstitel in de inwendige geneeskunde: bijzondere beroepstitel in de nefrologie;<br>
 9° Erkenningscommissie voor de bijzondere beroepstitel in de inwendige geneeskunde: bijzondere beroepstitel in de endocrino-diabetologie;<br>
-10° Erkenningscommissie voor de bijzondere beroepstitel in de inwendige geneeskunde: bijzondere beroepstitel in de klinische hematologie.
+10° Erkenningscommissie voor de bijzondere beroepstitel in de inwendige geneeskunde: bijzondere beroepstitel in de klinische hematologie;<br>
+11° Erkenningscommissie voor de bijzondere beroepstitel in de psychiatrie: bijzondere beroepstitel in de forensische psychiatrie.
