@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027470,
+  "title": "Ministerieel besluit van 2016-10-03 houdende de organisatie van een oproep voor het indienen van voorstellen voor energieconsulentenprojecten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027470/VolledigDocument?datum=2016-10-10",
+  "source_sha256": "94c3a0886801aedffb336dfea507e95a528b4f0a14d42e4411c40fdcf68f3d3c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027470&param=informatie",
+  "as_of": "2016-10-10",
+  "made": "2016-10-03",
+  "gazette": "2016-10-10",
+  "numac": 2016036470,
+  "document_start": "2016-10-10",
+  "document_end": null,
+  "in_force": "2016-10-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-10-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
