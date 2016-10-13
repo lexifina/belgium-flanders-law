@@ -22,7 +22,7 @@ Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besl
 
 ### ART. 3.
 
-De producentenorganisatie of unie van erkende producentenorganisaties moet   bij de aanvraag tot erkenning aantonen dat de producentenorganisatie of unie van   erkende producentenorganisaties een belangrijk deel van zijn leden of omzet   heeft in het Vlaamse Gewest en gevestigd is in het Vlaamse, Brussels   Hoofdstedelijk of Waalse Gewest.<BR>
+De producentenorganisatie of unie van erkende producentenorganisaties moet bij de aanvraag tot erkenning aantonen dat de maatschappelijke zetel van de producentenorganisatie of unie van erkende producentenorganisaties op het grondgebied van het Vlaamse Gewest gevestigd is.
 
 ### ART. 4.
 
@@ -30,7 +30,9 @@ De producentenorganisatie of unie van erkende producentenorganisaties moet   bij
 
 ### ART. 5.
 
-Producentenorganisaties kunnen alleen erkend worden en blijven als ze de   juridische vorm van een coöperatieve vennootschap hebben, waarvan de statuten   voldoen aan de voorwaarden, vermeld in artikel 153 van Verordening (EU) nr.   1308/2013, en als ze als coöperatieve vennootschap erkend zijn door de Nationale   Raad voor de Coöperatie.<BR>
+Een producentenorganisatie of een unie van producentenorganisaties kan alleen erkend worden en blijven als ze de juridische vorm van een coöperatieve vennootschap heeft, die aan al de volgende voorwaarden voldoet:<br>
+1° de statuten voldoen aan de voorwaarden, vermeld in artikel 153 van Verordening (EU) nr. 1308/2013;<br>
+2° de coöperatieve vennootschap is erkend door de Nationale Raad voor de Coöperatie.
 
 ### ART. 6.
 
@@ -42,7 +44,22 @@ De aanvraag tot erkenning van een producentenorganisatie of een unie van   produ
 
 ### ART. 8.
 
-<P>Een aanvraag tot erkenning van een producentenorganisatie of unie van   producentenorganisaties bevat de volgende elementen:<BR>1° de benaming en   rechtspersoonlijkheid van de producentenorganisatie of unie van   producentenorganisaties;<BR>2° het statuut van de producentenorganisatie of unie   van producentenorganisaties dat voldoet aan de voorwaarden van dit besluit en   dat minimaal de volgende elementen bevat:<BR>a) de duur van het lidmaatschap van   de producentenorganisatie of unie van producentenorganisaties, die minimaal één   jaar bedraagt, en de opzegtermijn van het lidmaatschap;<BR>b) de voorwaarden om   lid te worden en te blijven van de producentenorganisatie;<BR>c) de wijze van   bestuur en democratische besluitvorming;<BR>d) de redenen voor en het doel van   de oprichting van de producentenorganisatie of de unie van   producentenorganisaties;<BR>e) het adres van de hoofdzetel van de   producentenorganisatie of van de unie van producentenorganisaties;<BR>f) de   verklaring dat de producentenorganisatie is opgericht door de producenten zelf   en spreekt uit naam van zijn leden;<BR>g) de voorwaarde dat een bepaald bedrijf   dat lid is van de producentenorganisatie met betrekking tot de productie van een   bepaald product uit een sector, zoals in artikel 2 van dit besluit bedoelde   sectoren of deelsectoren, bij niet meer dan één producentenorganisatie is   aangesloten;<BR>3° het huishoudelijk reglement;<BR>4° een geactualiseerde   ledenlijst van de leden van de producentenorganisatie met de geproduceerde   hoeveelheden tijdens het afgelopen kalenderjaar.<BR></P>  <P>De minister kan de procedure van de erkenningsaanvraag en de elementen en   bewijsstukken die de erkenningsaanvraag moet bevatten om de aanvraag aan de   erkenningsvoorwaarden te kunnen toetsen, vastleggen.<BR></P>
+<p>Een aanvraag tot erkenning van een producentenorganisatie of unie van producentenorganisaties bevat de volgende elementen:<br>
+1° de benaming en rechtspersoonlijkheid van de producentenorganisatie of unie van producentenorganisaties;<br>
+1° /1 de verklaring dat de producentenorganisatie is opgericht door de producenten zelf en spreekt uit naam van zijn leden;<br>
+1° /2 de redenen voor de oprichting van de producentenorganisatie of de unie van producentenorganisaties;<br>
+2° het statuut van de producentenorganisatie of unie van producentenorganisaties dat voldoet aan de voorwaarden van dit besluit en dat minimaal de volgende elementen bevat:<br>
+a) de duur van het lidmaatschap van de producentenorganisatie of unie van producentenorganisaties, die minimaal één jaar bedraagt, en de opzegtermijn van het lidmaatschap;<br>
+b) de voorwaarden om lid te worden en te blijven van de producentenorganisatie;<br>
+c) de wijze van bestuur en democratische besluitvorming;<br>
+d)&nbsp;de doelstellingen&nbsp;van de producentenorganisatie of de unie van producentenorganisaties;<br>
+e) het adres van de hoofdzetel van de producentenorganisatie of van de unie van producentenorganisaties;<br>
+f) ...;<br>
+g) de voorwaarde dat een bepaald bedrijf dat lid is van de producentenorganisatie met betrekking tot de productie van een bepaald product uit een sector, zoals in artikel 2 van dit besluit bedoelde sectoren of deelsectoren, bij niet meer dan één producentenorganisatie is aangesloten;<br>
+3° het huishoudelijk reglement;<br>
+4° een geactualiseerde ledenlijst van de leden van de producentenorganisatie met de geproduceerde hoeveelheden tijdens het afgelopen kalenderjaar.</p>
+
+<p>De minister kan de procedure van de erkenningsaanvraag en de elementen en bewijsstukken die de erkenningsaanvraag moet bevatten om de aanvraag aan de erkenningsvoorwaarden te kunnen toetsen, vastleggen.</p>
 
 ### ART. 9.
 
@@ -50,7 +67,7 @@ De producentenorganisaties en unies van producentenorganisaties bieden bij   de 
 
 ### ART. 10.
 
-De minister neemt, overeenkomstig artikel 154, vierde lid, a), van   Verordening (EU) nr. 1308/2013, binnen een termijn van vier maanden na de   ontvangst van de aanvraag een beslissing over de erkenning.<BR>
+De minister neemt, overeenkomstig artikel 154, vierde lid, a), van Verordening (EU) nr. 1308/2013, binnen een termijn van vier maanden na de ontvangst van een volledige aanvraag een beslissing over de erkenning.
 
 ### ART. 11.
 
@@ -62,7 +79,9 @@ Wijzigingen van de statuten, het huishoudelijk reglement of het   ledenbestand v
 
 ### ART. 12.
 
-Alleen brancheorganisaties waarvan de hoofdzetel gevestigd is in het   Vlaamse, Brussels Hoofdstedelijk of Waalse Gewest en die actief zijn in Vlaamse   Gewest, kunnen op hun verzoek erkend worden door de minister.<BR>
+Alleen brancheorganisaties waarvan de hoofdzetel gevestigd is in het Vlaamse Gewest en die actief zijn in Vlaamse Gewest, kunnen op hun verzoek erkend worden door de minister.<br>
+<br>
+In het eerste lid wordt verstaan onder hoofdzetel: de maatschappelijke zetel van de rechtspersoon of als het niet om een rechtspersoon gaat, de feitelijke zetel van waaruit de activiteiten worden gestuurd en van waaruit de administratieve verplichtingen van de brancheorganisatie worden gestuurd, en die vermeld staat in de overeenkomst die aan de basis ligt van de brancheorganisatie.
 
 ### ART. 13.
 
@@ -82,7 +101,7 @@ De minister kan de procedure van de erkenningsaanvraag en de elementen en   bewi
 
 ### ART. 17.
 
-&nbsp;De minister neemt, overeenkomstig artikel 158, vijfde lid, a), van   verordening (EU) nr. 1308/2013, binnen een termijn van vier maanden na de   ontvangst van de aanvraag een beslissing over de erkenning.<BR>
+&nbsp;De minister neemt, overeenkomstig artikel 158, vijfde lid, a), van verordening (EU) nr. 1308/2013, binnen een termijn van vier maanden na de ontvangst van&nbsp;een volledige&nbsp;aanvraag een beslissing over de erkenning.
 
 ## Afdeling 2 Specifieke sector gebonden voorwaarden voor de tabakssector en sector olijfolie en tafelolijven
 
@@ -98,7 +117,11 @@ Met behoud van toepassing van de algemene voorwaarden, vermeld in artikel   13, 
 
 ### ART. 19.
 
-<P>Als een erkende producentenorganisatie, een erkende unie van   producentenorganisaties of een erkende brancheorganisatie verzoekt om   uitbreiding van regels, kan de Vlaamse Regering bepaalde overeenkomsten of   besluiten van die organisatie of unie voor een beperkte periode bindend   verklaren voor andere marktdeelnemers of groeperingen van marktdeelnemers die in   het Vlaamse Gewest werken in de betrokken sector of deelsector en die niet bij   de organisatie of unie zijn aangesloten.<BR></P>  <P>De Vlaamde Regering kan de regels alleen bindend verklaren als voldaan is aan   de voorwaarden, vermeld in artikel 164 van Verordening (EU) nr.   1308/2013.<BR></P>  <P>De Vlaamse Regering kan op eigen initiatief of op verzoek van belanghebbenden   een besluit als vermeld in het eerste lid, sneller opheffen dan in dat besluit   vermeld is, als de erkende producentenorganisatie, de erkende unie van   producentenorganisaties of de erkende brancheorganisatie die de overeenkomsten,   besluiten of onderling afgestemde feitelijke gedragingen heeft gesloten, niet   langer representatief is of de erkenning heeft verloren.<BR></P>
+<p>Als een producentenorganisatie, een unie van producentenorganisaties of een brancheorganisatie die werkzaam is in het Vlaamse Gewest en die erkend is in het Vlaamse Gewest, of in het Brusselse Hoofdstedelijke Gewest of het Waalse Gewest, verzoekt om uitbreiding van regels, kan de Vlaamse Regering bepaalde overeenkomsten of besluiten van die organisatie of unie voor een beperkte periode bindend verklaren voor andere marktdeelnemers of groeperingen van marktdeelnemers die in het Vlaamse Gewest werken in de betrokken sector of deelsector en die niet bij de organisatie of unie zijn aangesloten.</p>
+
+<p>De Vlaamse Regering kan de regels alleen bindend verklaren als voldaan is aan de voorwaarden, vermeld in artikel 164 van Verordening (EU) nr. 1308/2013.</p>
+
+<p>De Vlaamse Regering kan op eigen initiatief of op verzoek van belanghebbenden een besluit als vermeld in het eerste lid, sneller opheffen dan in dat besluit vermeld is, als de erkende producentenorganisatie, de erkende unie van producentenorganisaties of de erkende brancheorganisatie die de overeenkomsten, besluiten of onderling afgestemde feitelijke gedragingen heeft gesloten, niet langer representatief is of de erkenning heeft verloren.</p>
 
 ### ART. 20.
 
@@ -112,7 +135,7 @@ Met behoud van toepassing van de algemene voorwaarden, vermeld in artikel   13, 
 
 ### ART. 22.
 
-Als de voorschriften van een erkende producentenorganisatie, een erkende   unie van producentenorganisaties of een erkende brancheorganisatie worden   uitgebreid naar niet-leden, met toepassing van afdeling 1, en de activiteiten   waarop die voorschriften van toepassing zijn, van algemeen economisch belang   zijn voor de personen van wie de activiteiten verband houden met de producten in   kwestie, kan de Vlaamse Regering, op vraag van de betrokken organisatie die de   uitbreiding van de regels voor niet-leden vraagt en na consultatie van alle   belanghebbenden, besluiten dat ook niet bij de organisatie of de unie   aangesloten personen of groepen die voordeel hebben bij de activiteiten, de   volle financiële bijdrage die de leden betalen of een gedeelte daarvan aan de   organisatie of de unie moeten betalen, voor zover die financiële bijdragen   bestemd zijn voor de kosten die rechtstreeks uit de betrokken activiteiten   voortvloeien.<BR>
+Als de voorschriften van een producentenorganisatie, een unie van producentenorganisaties of een brancheorganisatie die werkzaam is in het Vlaamse Gewest en die erkend is in het Vlaamse Gewest, of in het Brusselse Hoofdstedelijke Gewest of het Waalse Gewest, worden uitgebreid naar niet-leden, met toepassing van afdeling 1, en de activiteiten waarop die voorschriften van toepassing zijn, van algemeen economisch belang zijn voor de personen van wie de activiteiten verband houden met de producten in kwestie, kan de Vlaamse Regering, op vraag van de betrokken organisatie die de uitbreiding van de regels voor niet-leden vraagt en na consultatie van alle belanghebbenden, besluiten dat ook niet bij de organisatie of de unie aangesloten personen of groepen die voordeel hebben bij de activiteiten, de volle financiële bijdrage die de leden betalen of een gedeelte daarvan aan de organisatie of de unie moeten betalen, voor zover die financiële bijdragen bestemd zijn voor de kosten die rechtstreeks uit de betrokken activiteiten voortvloeien.
 
 ### ART. 23.
 

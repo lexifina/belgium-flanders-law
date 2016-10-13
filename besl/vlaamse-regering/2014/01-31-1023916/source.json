@@ -2,16 +2,16 @@
   "codex_id": 1023916,
   "title": "Besluit van de Vlaamse Regering van 2014-01-31 betreffende erkenningen van producenten- en brancheorganisaties",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023916/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "6aaf40f7eb48aa1bad9059de609bfa46e40e0bdbd6e4a5bb36c9eaadc3513869",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023916/VolledigDocument?datum=2016-10-13",
+  "source_sha256": "7486e352d023eb5a6a6e0ced049e562291c24b10f5d448e83e94ade4adf33b04",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023916&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2016-10-13",
   "made": "2014-01-31",
   "gazette": "2014-03-19",
   "numac": 2014035231,
   "document_start": "2014-03-29",
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2016-10-13",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-10-13; future article versions excluded; article text as the API gives it"
 }
