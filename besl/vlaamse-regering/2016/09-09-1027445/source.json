@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027445,
+  "title": "Besluit van de Vlaamse Regering van 2016-09-09 tot wijziging van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de arrondissementscommissarissen en de adjunct-arrondissementscommissaris en het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de provinciegouverneurs en de adjunct van de gouverneur van de provincie Vlaams-Brabant wat betreft de loopbaanonderbreking en andere bepalingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027445/VolledigDocument?datum=2016-10-13",
+  "source_sha256": "6602bb1f107f1229059170a03e65a3c5bfb509bdbf74f1c345dc746ef6de87e1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027445&param=informatie",
+  "as_of": "2016-10-13",
+  "made": "2016-09-09",
+  "gazette": "2016-10-03",
+  "numac": 2016036430,
+  "document_start": "2016-10-13",
+  "document_end": null,
+  "in_force": "2016-10-13",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2016-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
