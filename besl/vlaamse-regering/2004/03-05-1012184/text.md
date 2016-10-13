@@ -180,7 +180,7 @@ De Vlaamse regering kan in beroep geen zwaardere tuchtstraf uitspreken dan de st
 
 ### ART. 37.
 
-De strafvordering schorst de tuchtprocedure en de tuchtuitspraak.<br /><br />Ongeacht het resultaat van de strafvordering oordelen alleen de gouverneur en de Vlaamse regering over de gepastheid om een tuchtstraf uit te spreken.
+De tuchtprocedure wordt geschorst in de gevallen bepaald in artikel 32tredecies, § 1, van de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk.
 
 ### ART. 38.
 
@@ -192,7 +192,7 @@ Bij de beoordeling van de strafmaat mag de overheid echter evenwel relevante ver
 
 ### ART. 40.
 
-In geval van strafrechtelijke vervolging voor dezelfde feiten, begint deze termijn van zes maanden te lopen de dag dat de gerechtelijke overheid de tuchtoverheid ervan op de hoogte brengt dat er een onherroepelijke beslissing uitgesproken is of dat de strafrechtelijke procedure niet wordt voortgezet.
+...
 
 ### ART. 41.
 
@@ -290,7 +290,22 @@ Dit verlof wordt gelijkgesteld met een periode van dienstactiviteit.
 
 ### ART. 60.
 
-§ 1. Ziekteverlof wordt toegestaan voor de duur van de afwezigheid naar aanleiding van:<br />1° een arbeidsongeval;<br />2° een ongeval op weg naar en van het werk;<br />3° een beroepsziekte.<br />4° een ongeval van gemeen recht, veroorzaakt door de schuld van een derde;<br />5° de dagen afwezigheid wegens ziekte die zich voordoen binnen zes weken voor de werkelijke bevallingsdatum. Bij geboorte van een meerling wordt die periode verlengd tot acht weken.<br /><br />§ 2. Is de afwezigheid te wijten aan de in § 1 vermelde redenen of aan een ongeval, veroorzaakt door de schuld van een derde dan ontvangt de arrondissementscommissaris zijn salaris alleen als voorschot dat betaald wordt op de door de derde verschuldigde vergoeding en dat op de derde te verhalen is.<br /><br />Het Vlaamse Gewest treedt in dit geval van rechtswege in alle rechten, vorderingen en rechtsmiddelen die de getroffene mocht kunnen doen gelden tegen de persoon die verantwoordelijk is voor het ongeval tot het bedrag van het salaris.<br /><br />§ 3. De minister van Binnenlandse Aangelegenheden neemt de juridische beslissing over de erkenning van arbeidsongevallen en van ongevallen op weg naar en van het werk.<br /><br />Hij neemt ook de juridische beslissing over de toekenning van schadevergoeding voor arbeidsongevallen, voor ongevallen op weg naar en van het werk en voor beroepsziekten in de overheidssector.
+§ 1. Ziekteverlof wordt toegestaan voor de duur van de afwezigheid naar aanleiding van:<br>
+1° een arbeidsongeval;<br>
+2° een ongeval op weg naar en van het werk;<br>
+3° een beroepsziekte.<br>
+4° een ongeval van gemeen recht, veroorzaakt door de schuld van een derde;<br>
+5° de dagen afwezigheid wegens ziekte die zich voordoen binnen zes weken voor de werkelijke bevallingsdatum. Bij geboorte van een meerling wordt die periode verlengd tot acht weken.<br>
+<br>
+§ 2. Is de afwezigheid te wijten aan de in § 1 vermelde redenen of aan een ongeval, veroorzaakt door de schuld van een derde dan ontvangt de arrondissementscommissaris zijn salaris alleen als voorschot dat betaald wordt op de door de derde verschuldigde vergoeding en dat op de derde te verhalen is.<br>
+<br>
+Het Vlaamse Gewest treedt in dit geval van rechtswege in alle rechten, vorderingen en rechtsmiddelen die de getroffene mocht kunnen doen gelden tegen de persoon die verantwoordelijk is voor het ongeval tot het bedrag van het salaris.<br>
+<br>
+§ 3. De minister van Binnenlandse Aangelegenheden neemt de juridische beslissing over de erkenning van arbeidsongevallen en van ongevallen op weg naar en van het werk.<br>
+<br>
+Hij neemt ook de juridische beslissing over de toekenning van schadevergoeding voor arbeidsongevallen, voor ongevallen op weg naar en van het werk en voor beroepsziekten in de overheidssector.<br>
+<br>
+Als de tijdelijke arbeidsongeschiktheid minder dan dertig kalenderdagen duurt en als de arrondissementscommissaris een medisch attest van genezing zonder blijvende arbeidsongeschiktheid indient, deelt de gouverneur met een aangetekende brief de beslissing tot genezenverklaring zonder blijvende arbeidsongeschiktheid mee aan de arrondissementscommissaris.
 
 ## [TITEL 4/1 VERLOF VOOR DEELTIJDSE PRESTATIES (ing. BVR 18 juni 2010, art. 18, I: 13 juli 2010)]
 
@@ -328,17 +343,52 @@ De arrondissementscommissaris heeft recht op voltijdse of halftijdse loopbaanond
 
 ### ART. 64.
 
-§ 1. De arrondissementscommissaris heeft recht op voltijdse of halftijdse loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek gezins- of familielid.<br /><br />De maximumduur per patiënt bedraagt voor de voltijdse loopbaanonderbreking 12 maanden en voor de halftijdse loopbaanonderbreking 24 maanden. <br /><br />Als de arrondissementscommissaris uitsluitend en effectief samenwoont met minstens één kind en het verlof opneemt voor de bijstand aan een zwaar ziek kind van hoogstens 16 jaar, dan bedraagt de maximumduur van de voltijdse loopbaanonderbreking evenwel 24 maanden, en van de halftijdse loopbaanonderbreking 48 maanden.<br /><br />§ 2. De voltijdse en halftijdse loopbaanonderbreking voor de bijstand aan of de verzorging van een zwaar ziek gezins- of familielid kan worden genomen in al dan niet opeenvolgende perioden van minimaal één en maximaal drie maanden. De arrondissementscommissaris kan, bij elke nieuwe periode van loopbaanonderbreking voor de bijstand aan of de verzorging van een zwaar ziek gezins- of familielid veranderen van opnamevorm, overeenkomstig het principe dat één maand voltijdse loopbaanonderbreking gelijkstaat met twee maanden halftijdse loopbaanonderbreking. Het equivalent van, naargelang van het geval, 12 of 24 maanden voltijdse loopbaanonderbreking mag evenwel niet worden overschreden.<br /><br />§ 3. Het equivalent van de 12 of 24 maanden voltijdse loopbaanonderbreking wordt verminderd met de duur van de voltijdse of halftijdse loopbaanonderbrekingen die de arrondissementscommissaris in om het even welke hoedanigheid bij dezelfde of een andere werkgever voor dezelfde patiënt heeft genoten.
+§ 1. De arrondissementscommissaris heeft recht op voltijdse of halftijdse loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek gezins- of familielid.<br>
+<br>
+De maximumduur per patiënt bedraagt voor de voltijdse loopbaanonderbreking 12 maanden en voor de halftijdse loopbaanonderbreking 24 maanden.<br>
+<br>
+Als de arrondissementscommissaris uitsluitend en effectief samenwoont met minstens één kind en het verlof opneemt voor de bijstand aan een zwaar ziek kind van hoogstens 16 jaar, dan bedraagt de maximumduur van de voltijdse loopbaanonderbreking evenwel 24 maanden, en van de halftijdse loopbaanonderbreking 48 maanden.<br>
+<br>
+§ 2. De voltijdse en halftijdse loopbaanonderbreking voor de bijstand aan of de verzorging van een zwaar ziek gezins- of familielid kan worden genomen in al dan niet opeenvolgende perioden van minimaal één en maximaal drie maanden. De arrondissementscommissaris kan, bij elke nieuwe periode van loopbaanonderbreking voor de bijstand aan of de verzorging van een zwaar ziek gezins- of familielid veranderen van opnamevorm, overeenkomstig het principe dat één maand voltijdse loopbaanonderbreking gelijkstaat met twee maanden halftijdse loopbaanonderbreking. Het equivalent van, naargelang van het geval, 12 of 24 maanden voltijdse loopbaanonderbreking mag evenwel niet worden overschreden.<br>
+<br>
+In afwijking van het eerste lid kan een arrondissementscommissaris voor de bijstand of de verzorging van een minderjarig kind, tijdens of vlak na de ziekenhuisopname van het kind als gevolg van een zware ziekte, gedurende een week voltijdse loopbaanonderbreking opnemen, eventueel verlengbaar met een week.<br>
+<br>
+In het tweede lid wordt verstaan onder een zware ziekte: elke ziekte of medische ingreep die door de behandelende geneesheer van het zwaar zieke kind als dusdanig wordt beschouwd en waarbij de geneesheer oordeelt dat elke vorm van sociale, familiale of psychologische bijstand of verzorging noodzakelijk is.<br>
+<br>
+De volgende arrondissementscommissarissen kunnen gebruikmaken van de opnamemogelijkheid, vermeld in het tweede lid:<br>
+1° de arrondissementscommissaris die ouder is in de eerste graad van het zwaar zieke kind en ermee samenwoont;<br>
+2° de arrondissementscommissaris die samenwoont met het zwaar zieke kind en belast is met de dagelijkse opvoeding.<br>
+<br>
+Als de arrondissementscommissarissen, vermeld in het vierde lid, niet kunnen gebruikmaken van de opnamemogelijkheid, vermeld in het tweede lid, kunnen de volgende arrondissementscommissarissen ervan gebruikmaken:<br>
+1° de arrondissementscommissaris die ouder is in de eerste graad van het zwaar zieke kind en er niet mee samenwoont;<br>
+2° een familielid van het zwaar zieke kind tot de tweede graad, als de arrondissementscommissaris, vermeld in punt 1°, in de onmogelijkheid verkeert om het verlof op te nemen.<br>
+<br>
+De arrondissementscommissaris die de verlengingsmogelijkheid, vermeld in het tweede lid, heeft uitgeput, kan zijn voltijdse medische-bijstandsverlof nog uitbreiden tot een maand door ook voor de tussenliggende periode voltijds medische-bijstandsverlof te nemen.<br>
+<br>
+§ 3. Het equivalent van de 12 of 24 maanden voltijdse loopbaanonderbreking wordt verminderd met de duur van de voltijdse of halftijdse loopbaanonderbrekingen die de arrondissementscommissaris in om het even welke hoedanigheid bij dezelfde of een andere werkgever voor dezelfde patiënt heeft genoten.
 
 ## HOOFDSTUK 4 [OUDERSCHAPSVERLOF (verv. BVR 9 september 2011, art. 1)]
 
 ### ART. 65.
 
-§ 1. Elke arrondissementscommissaris heeft recht op loopbaanonderbreking voor ouderschapsverlof, waarvan de duur : <br />1° in geval van voltijdse loopbaanonderbreking, drie maanden per kind bedraagt, op te nemen in periodes van één maand of een veelvoud daarvan;<br />2° in geval van halftijdse loopbaanonderbreking, zes maanden per kind bedraagt, op te nemen in periodes van twee maanden, of een veelvoud daarvan;<br />3° in geval van loopbaanonderbreking met een vijfde, vijftien maanden per kind bedraagt, op te nemen in periodes van vijf maanden of een veelvoud daarvan. <br /><br />§ 2. De arrondissementscommissaris heeft de mogelijkheid om bij ouderschapsverlof in de vorm van loopbaanonderbreking te veranderen van opnamevorm. Het reeds opgenomen ouderschapsverlof wordt in dat geval aangerekend overeenkomstig het principe dat één maand voltijdse loopbaanonderbreking gelijkstaat aan twee maanden halftijdse loopbaanonderbreking en aan vijf maanden loopbaanonderbreking met een vijfde. <br /><br />§ 3. De mannelijke arrondissementscommissaris heeft alleen recht op ouderschapsverlof in de vorm van loopbaanonderbreking als de afstamming van het kind in zijnen hoofde vaststaat, of als het gaat om een kind dat door hem werd geadopteerd.
+§ 1. Elke arrondissementscommissaris heeft recht op loopbaanonderbreking voor ouderschapsverlof, waarvan de duur :<br>
+1° in geval van voltijdse loopbaanonderbreking,&nbsp;vier maanden per kind bedraagt, op te nemen in periodes van één maand of een veelvoud daarvan;<br>
+2° in geval van halftijdse loopbaanonderbreking,&nbsp;acht maanden per kind bedraagt, op te nemen in periodes van twee maanden, of een veelvoud daarvan;<br>
+3° in geval van loopbaanonderbreking met een vijfde,&nbsp;twintig maanden per kind bedraagt, op te nemen in periodes van vijf maanden of een veelvoud daarvan.<br>
+<br>
+§ 2. De arrondissementscommissaris heeft de mogelijkheid om bij ouderschapsverlof in de vorm van loopbaanonderbreking te veranderen van opnamevorm. Het reeds opgenomen ouderschapsverlof wordt in dat geval aangerekend overeenkomstig het principe dat één maand voltijdse loopbaanonderbreking gelijkstaat aan twee maanden halftijdse loopbaanonderbreking en aan vijf maanden loopbaanonderbreking met een vijfde.<br>
+<br>
+§ 3. De mannelijke arrondissementscommissaris heeft alleen recht op ouderschapsverlof in de vorm van loopbaanonderbreking als de afstamming van het kind in zijnen hoofde vaststaat, of als het gaat om een kind dat door hem werd geadopteerd.
 
 ### ART. 66.
 
-Bij geboorte moet het ouderschapsverlof in de vorm van loopbaanonderbreking een aanvang hebben genomen voor het kind zes jaar is.<br /><br />Bij adoptie moet het ouderschapsverlof in de vorm van loopbaanonderbreking opgenomen worden binnen een periode van 4 jaar, die loopt vanaf de inschrijving van het kind als lid van het gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar de arrondissementscommissaris zijn verblijfplaats heeft, uiterlijk tot het kind 8 jaar wordt.<br /><br />Als het kind voor minstens 66 % getroffen is door een vermindering van lichamelijke of geestelijke geschiktheid in de zin van de kinderbijslagregeling, wordt het recht op ouderschapsverlof toegekend uiterlijk tot het kind 8 jaar wordt.
+De arrondissementscommissaris heeft recht op ouderschapsverlof:<br>
+1° naar aanleiding van de geboorte van zijn kind tot het kind twaalf jaar wordt;<br>
+2° in het kader van de adoptie van een kind, gedurende een periode die loopt vanaf de inschrijving van het kind als lid van zijn gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar de arrondissementscommissaris zijn verblijfplaats heeft, uiterlijk tot het kind twaalf jaar wordt.<br>
+<br>
+Aan de voorwaarde van de twaalfde verjaardag moet zijn voldaan uiterlijk gedurende de periode van het ouderschapsverlof.<br>
+<br>
+De leeftijdsgrens van twaalf jaar wordt verhoogd tot 21 jaar als het kind voor ten minste 66% getroffen is door een lichamelijke of geestelijke ongeschiktheid of een aandoening die tot gevolg heeft dat ten minste vier punten toegekend worden in pijler I van de medisch-sociale schaal als vermeld in de regelgeving over de kinderbijslag.
 
 ## [HOOFDSTUK 5 ONDERBREKINGSUITKERINGEN (ing. BVR 9 september 2011, art. 1)]
 
@@ -460,7 +510,9 @@ De arrondissementscommissaris kan vrijwillig zijn ontslag indienen.<br /><br />H
 
 ### ART. 84.
 
-De arrondissementscommissaris gaat op rust ten laatste wanneer hij vijfenzestig jaar wordt.
+Ambtshalve wordt een einde gemaakt aan het ambt van arrondissementscommissaris op de laatste dag van de maand waarin hij de leeftijd van 65 jaar bereikt.<br>
+<br>
+In afwijking van het eerste lid wordt, als een tuchtprocedure tegen de arrondissementscommissaris loopt, ambtshalve een einde gemaakt aan het ambt van arrondissementscommissaris na afloop van de tuchtprocedure.
 
 ### ART. 84/1.
 
@@ -662,11 +714,16 @@ Elke arrondissementscommissaris heeft per effectieve werkdag recht op één maal
 
 ### ART. 117/4.
 
-De nominale waarde van de maaltijdcheque bedraagt 7,00 euro, waarvan 1,09 euro werknemersbijdrage en 5,91 euro werkgeversbijdrage.
+De nominale waarde van de maaltijdcheques, alsook het bedrag van het werknemers- en werkgeversaandeel daarin, wordt vastgesteld conform artikel VII 109ter van het Vlaams personeelsstatuut van 13 januari 2006.
 
 ### ART. 117/5.
 
-Bij een verlof voor opdracht blijft het recht op maaltijdcheques behouden als het salaris door de Vlaamse overheid wordt doorbetaald.<br /><br />Bij dienstvrijstelling die een volledige werkdag in beslag neemt, beslist de provinciegouverneur naargelang van de aard van de dienstvrijstelling of het recht op maaltijdcheques behouden blijft.<br /><br />Een buitenlandse dienstreis geeft geen recht op de toekenning van een maaltijdcheque.<br /><br />Er is geen recht op maaltijdcheques in geval van tuchtschorsing als vermeld in artikel 18, punt 2°.<br /><br />
+Bij een verlof voor opdracht blijft het recht op maaltijdcheques behouden als het salaris door de Vlaamse overheid wordt doorbetaald.<br>
+<br>
+Bij dienstvrijstelling die een volledige werkdag in beslag neemt, beslist de provinciegouverneur naargelang van de aard van de dienstvrijstelling of het recht op maaltijdcheques behouden blijft.<br>
+<br>
+Er is geen recht op maaltijdcheques in geval van tuchtschorsing als vermeld in artikel 18, punt 2°.<br>
+&nbsp;
 
 ## [HOOFDSTUK 8 RECHTSBIJSTAND (ing. BVR 18 juni 2010, art. 27, I: 13 juli 2010)]
 
