@@ -40,6 +40,10 @@ Het   maximale aantal te erkennen woongelegenheden in woonzorgcentra en centra v
 
 De   administrateur-generaal van het intern verzelfstandigd Agentschap Zorg en   Gezondheid vult de aanvragen tot opname in de erkenningskalender op basis van   het maximale aantal te erkennen woongelegenheden voor woonzorgcentra en centra   voor kortverblijf in, enkel voor de jaren 2015 tot en met 2018.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART 2/1.
+
+Het maximale aantal te erkennen woongelegenheden voor 2017 en 2018, vermeld in artikel 1 van dit besluit, wordt verhoogd met het aantal woongelegenheden waarvoor een erkenningskalender wordt verleend door de administrateur-generaal naar aanleiding van de oproep, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 16 september 2016 houdende de bepaling van voorwaarden voor een bijzondere oproep om voor bepaalde woongelegenheden een erkenningskalender in te dienen en tot wijziging van de regelgeving betreffende de voorafgaande vergunning voor centra voor kortverblijf en woonzorgcentra en het besluit van de Vlaamse Regering van 24 april 2015 betreffende het maximale aantal te erkennen woongelegenheden voor woonzorgcentra en centra voor kortverblijf in het kader van de erkenningskalender, tot maximaal 1389 woongelegenheden voor beide jaren samen.
+
 ### ART. 3.
 
 <P>De   Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de   uitvoering van dit besluit.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
