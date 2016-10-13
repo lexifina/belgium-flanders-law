@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027443,
+  "title": "Besluit van de Vlaamse Regering van 2016-05-13 tot opheffing van het besluit van de Vlaamse Regering van 19 juni 2009 met betrekking tot het overnemen van de verplichtingen inzake plan-milieueffectrapportage over ruimtelijke uitvoeringsplannen van de bevoegde overheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027443/VolledigDocument?datum=2016-10-13",
+  "source_sha256": "bdeb15fc9fb42e0b66a4a7c66ee01d85f42a4fe1a1adbd7d231d0d87f56394d3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027443&param=informatie",
+  "as_of": "2016-10-13",
+  "made": "2016-05-13",
+  "gazette": "2016-10-03",
+  "numac": 2016036408,
+  "document_start": "2016-10-13",
+  "document_end": null,
+  "in_force": "2016-10-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
