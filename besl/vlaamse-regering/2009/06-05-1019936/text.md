@@ -79,7 +79,9 @@ Het besluit van de Vlaamse Regering van 17 maart 1998 tot vaststelling van de re
 
 ### ART. 11/1.
 
-In afwijking van artikel 11, § 2 wordt de geldigheidsduur van voorafgaande   vergunningen voor centra voor kortverblijf of woonzorgcentra die verleend zijn   voor 1 januari 2014 voor de volgende werken en die vervallen voor 31 december   2020, verlengd tot en met 31 december 2020 :<BR>1° het bouwen, het inrichten,   het in gebruik nemen of het verplaatsen van de activiteiten naar een andere   inplantingsplaats binnen de zorgregio van een centrum voor kortverblijf of een   woonzorgcentrum, als die initiatieven een verdere invulling van de programmatie   van die centra impliceren;<BR>2° het verhogen van de capaciteit van een centrum   voor kortverblijf of een woonzorgcentrum dat erkend of voorafgaandelijk vergund   is.
+In afwijking van artikel 11, § 2 wordt de geldigheidsduur van voorafgaande vergunningen voor centra voor kortverblijf of woonzorgcentra die verleend zijn voor 1 januari 2014 voor de volgende werken&nbsp;verlengd tot en met 31 december 2025:<br>
+1° het bouwen, het inrichten, het in gebruik nemen of het verplaatsen van de activiteiten naar een andere inplantingsplaats binnen de zorgregio van een centrum voor kortverblijf of een woonzorgcentrum, als die initiatieven een verdere invulling van de programmatie van die centra impliceren;<br>
+2° het verhogen van de capaciteit van een centrum voor kortverblijf of een woonzorgcentrum dat erkend of voorafgaandelijk vergund is.
 
 ### ART. 12.
 
