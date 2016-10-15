@@ -403,6 +403,12 @@ In artikel 7, § 8, van hetzelfde besluit worden de volgende wijzigingen aangebr
 2° in punt 2° wordt de zinsnede "het Departement Cultuur, Jeugd, Sport en Media" vervangen door de woorden "de administratie".<br>
 &nbsp;
 
+### ART 51.
+
+In artikel 8, tweede lid, van hetzelfde besluit wordt punt 2° vervangen door wat volgt:<br>
+"2° twee leden, van wie een wordt voorgedragen door de organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van ethisch sporten, en een wordt voorgedragen door de organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van gezond sporten, erkend en gesubsidieerd conform artikel 14 van het decreet;".<br>
+&nbsp;
+
 ### ART 52.
 
 In artikel 18, § 5, tweede lid, van hetzelfde besluit worden de woorden "van de administratie" vervangen door de woorden "aangewezen door de administratie".<br>
