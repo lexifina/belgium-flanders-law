@@ -115,7 +115,14 @@ De minister richt een lerend netwerk voor ethisch sporten op overeenkomstig de m
 
 ### ART. 8.
 
-<P>Er wordt een expertencommissie risicovechtsporten opgericht, overeenkomstig   het bepaalde in artikel 7, met als taak, op eigen initiatief of op verzoek, de   minister te adviseren inzake risicovechtsporten.<BR></P>  <P>De expertencommissie risicovechtsporten bestaat uit negen leden, waaronder   minstens één arts, namelijk:<BR>1° twee leden voorgedragen door de   koepelorganisatie, erkend en gesubsidieerd conform het decreet van 13 juli 2001   houdende de regeling van de erkenning en subsidiëring van de Vlaamse   sportfederaties, de koepelorganisatie en de organisaties voor de sportieve   vrijetijdsbesteding;<BR>2° twee leden voorgedragen door het agentschap ter   Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie,   opgericht bij het decreet van 7 mei 2004 tot omvorming van de Vlaamse openbare   instelling Commissariaat-generaal voor de Bevordering van de Lichamelijke   Ontwikkeling, de Sport en de Openluchtrecreatie tot het intern verzelfstandigd   agentschap met rechtspersoonlijkheid BLOSO;<BR>3° drie leden voorgedragen door   de administratie;<BR>4° één lid voorgedragen door de Raad voor Cultuur, Jeugd,   Sport en Media, vermeld in artikel 2 van het decreet van 30 november 2007   houdende oprichting van de Raad voor Cultuur, Jeugd, Sport en Media;<BR>5° één   lid voorgedragen door de organisatie voor de begeleiding van de gemeenten, de   Vlaamse Gemeenschapscommissie en de provincies in het kader van de Vlaamse   beleidsprioriteiten Sport voor Allen, erkend en gesubsidieerd conform het   decreet van 6 juli 2012 houdende het stimuleren en subsidiëren van een lokaal   sportbeleid.<BR></P>
+<p>Er wordt een expertencommissie risicovechtsporten opgericht, overeenkomstig het bepaalde in artikel 7, met als taak, op eigen initiatief of op verzoek, de minister te adviseren inzake risicovechtsporten.</p>
+
+<p>De expertencommissie risicovechtsporten bestaat uit negen leden, waaronder minstens één arts, namelijk:<br>
+1° twee leden voorgedragen door de koepelorganisatie, erkend en gesubsidieerd conform het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+2° twee leden, van wie een wordt voorgedragen door de organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van ethisch sporten, en een wordt voorgedragen door de organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van gezond sporten, erkend en gesubsidieerd conform artikel 14 van het decreet;<br>
+3° drie leden voorgedragen door de administratie;<br>
+4° één lid voorgedragen door de Raad voor Cultuur, Jeugd, Sport en Media, vermeld in artikel 2 van het decreet van 30 november 2007 houdende oprichting van de Raad voor Cultuur, Jeugd, Sport en Media;<br>
+5° één lid voorgedragen door de organisatie voor de begeleiding van de gemeenten, de Vlaamse Gemeenschapscommissie en de provincies in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen, erkend en gesubsidieerd conform het decreet van 6 juli 2012 houdende het stimuleren en subsidiëren van een lokaal sportbeleid.</p>
 
 ## Afdeling 2 Erkenning en subsidiëring van een of meer organisaties voor beleidsondersteuning en praktijkontwikkeling
 
@@ -246,7 +253,7 @@ zoals onder meer het bepalen van aanvraagmodaliteiten of het bepalen van de mani
 ### ART. 20.
 
 Voor het toezicht op de artsen die getalenteerde sporters onderzoeken zoals vermeld in artikel 18, hebben de artsen, daarvoor aangewezen door de administratie, het recht om ter plaatse controle te doen uitoefenen op de aanwending van de toegekende gelden. Die artsen moeten evenwel aan de twee onderstaande voorwaarden voldoen:<br>
-1° ze zijn arts of master in de geneeskunde;<br>
+1° ze zijn arts of master in de geneeskunde of ze beschikken over een gelijkwaardig diploma;<br>
 2° ze zijn houder van een van de volgende diploma's:<br>
 a) licentie in de lichamelijke opvoeding;<br>
 b) master in de lichamelijke opvoeding en de bewegingswetenschappen;<br>
