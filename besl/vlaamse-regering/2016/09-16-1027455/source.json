@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027455,
+  "title": "Besluit van de Vlaamse Regering van 2016-09-16 houdende indeling bij de gemeentewegen van de ventweg N38-Callicannesweg (lengte: 429,79 meter + 283,15 meter) en de wegenis ex-douanecomplex Callicannes (lengte: 316 meter) op het grondgebied van de stad Poperinge",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027455/VolledigDocument?datum=2016-10-16",
+  "source_sha256": "b343fa67fffda70c8e47ef7eb451781782a23d3b06a56e59f9906f2880a93a63",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027455&param=informatie",
+  "as_of": "2016-10-16",
+  "made": "2016-09-16",
+  "gazette": "2016-10-06",
+  "numac": 2016036450,
+  "document_start": "2016-10-16",
+  "document_end": null,
+  "in_force": "2016-10-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-10-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
