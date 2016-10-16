@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027456,
+  "title": "Besluit van de Vlaamse Regering van 2016-09-16 houdende indeling bij de gemeentewegen van de gewestweg Breestraat (lengte: 58 meter) op het grondgebied van de gemeente Deerlijk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027456/VolledigDocument?datum=2016-10-16",
+  "source_sha256": "f9dbdbe8da05afd51e3f134d15a5fe0863f029221e457ec41d41cfcb3e38c601",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027456&param=informatie",
+  "as_of": "2016-10-16",
+  "made": "2016-09-16",
+  "gazette": "2016-10-06",
+  "numac": 2016036451,
+  "document_start": "2016-10-16",
+  "document_end": null,
+  "in_force": "2016-10-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-10-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
