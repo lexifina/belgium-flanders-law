@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027454,
+  "title": "Besluit van de Vlaamse Regering van 2016-09-16 houdende indeling bij de gemeentewegen van de gewestwegen N49c-Paul Parmentierlaan (tussen kmp. 0,085 en kmp. 0,636) en N49d-Koningslaan (tussen kmp. 0,000 en kmp. 0,573) op het grondgebied van de gemeente Knokke-Heist",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027454/VolledigDocument?datum=2016-10-16",
+  "source_sha256": "91598b275f4d762f3371076ed78cf12b1e12e5dc5a50a0000ccad0cebcc84b45",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027454&param=informatie",
+  "as_of": "2016-10-16",
+  "made": "2016-09-16",
+  "gazette": "2016-10-06",
+  "numac": 2016036449,
+  "document_start": "2016-10-16",
+  "document_end": null,
+  "in_force": "2016-10-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-10-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
