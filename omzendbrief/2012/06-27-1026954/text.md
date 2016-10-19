@@ -32,7 +32,7 @@ De keuringslijn op verplaatsing moet dus aan dezelfde regels voldoen als deze di
 <br>
 Het project, bestaande uit de installatie van minimaal 20 en maximaal 30 keuringslijnen op verplaatsing, voor alle instellingen, is bedoeld als proefproject. Daarom is het belangrijk om keuringslijnen op verplaatsing te kiezen die een maximum aan verschillende aspecten bieden. Het project zal tevens evenredig verspreid worden over het heel nationaal territorium en de verschillende transportsectoren en vaklui voor het onderhoud en de herstelling van voertuigen.<br>
 <br>
-Het proefproject loopt over een periode van vier jaar.<br>
+Het proefproject loopt tot en met 28 februari 2017.<br>
 <br>
 Bij het einde van het project zal een evaluatie van het project opgemaakt worden. Deze evaluatie wordt uitgevoerd door een Begeleidingscomité, voorgezeten door een vertegenwoordiger van één van de drie gewesten, aangeduid in onderling overleg. Een eindverslag zal worden voorgelegd na een periode van vier jaar.<br>
 <br>
