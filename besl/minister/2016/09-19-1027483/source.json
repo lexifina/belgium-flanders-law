@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027483,
+  "title": "Ministerieel besluit van 2016-09-19 houdende wijziging van het ministerieel besluit van 13 november 2006 tot regeling van specifieke en aanvullende delegatie van beslissingsbevoegdheden aan het hoofd van het intern verzelfstandigd Agentschap voor Natuur en Bos",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027483/VolledigDocument?datum=2016-10-24",
+  "source_sha256": "4d4c6e94af3ead75c035ff774851ef82551b4a9d0e88786dafe5d6026ea3b514",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027483&param=informatie",
+  "as_of": "2016-10-24",
+  "made": "2016-09-19",
+  "gazette": "2016-10-14",
+  "numac": 2016205015,
+  "document_start": "2016-10-24",
+  "document_end": null,
+  "in_force": "2016-10-24",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-10-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
