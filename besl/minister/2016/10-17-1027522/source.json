@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027522,
+  "title": "Ministerieel besluit van 2016-10-17 tot samenstelling van de pachtprijzencommissie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027522/VolledigDocument?datum=2016-10-25",
+  "source_sha256": "cb7407861eef029a1f709b191a2dcb030e9b0b67d9069719e8e59e9a2355d0c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027522&param=informatie",
+  "as_of": "2016-10-25",
+  "made": "2016-10-17",
+  "gazette": "2016-10-25",
+  "numac": 2016036505,
+  "document_start": "2016-10-25",
+  "document_end": null,
+  "in_force": "2016-10-25",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-10-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
