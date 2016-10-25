@@ -26,20 +26,20 @@
 
 ### ART. 1.
 
-<P>De volgende personen worden benoemd tot leden-pachters van de   pachtprijzencommissie van Antwerpen : <BR>1° Renaat Schelfaut, Puursesteenweg   370, 2880 Bornem;<BR>2° Wim Verbreuken, Roosendaalsebaan 140a, 2920   Kalmthout;<BR>3° Marcel Heylen, Larumsgoor 4, 2440 Geel.<BR></P>  <P>De volgende personen worden benoemd tot leden-grondeigenaars van de   pachtprijzencommissie van Antwerpen : <BR>1° Vincent Dierckx de Casterlee,   Turnhoutseweg 48, 2440 Geel;<BR>2° Christophe Lenaerts, Heihuizen 3, 2390   Oostmalle;<BR>3° Francis Van Schoubroeck, Nederrij 45, 2200   Herentals.<BR></P>
+...
 
 ### ART. 2.
 
-<P>De volgende personen worden benoemd tot plaatsvervangende leden-pachters van   de pachtprijzencommissie van Antwerpen : <BR>1° Rene 'S Jongers, Pierstraat 228,   2550 Konitch;<BR>2° Bart Floren, Ploegsdijk 7, 2960 Brecht;<BR>3° Richard   Dewitte, Opstal 5, 2360 Oud-Turnhout.<BR></P>  <P>De volgende personen worden benoemd tot plaatsvervangende   leden-grondeigenaars van de pachtprijzencommissie van Antwerpen : <BR>1° Thierry   van der Straeten, Kleistraat 1, 2390 Malle;<BR>2° Luc Francken, Akkerveken 16,   2990 Wuustwezel;<BR>3° Willy Maes, Bergstraat 23, 2220   Heist-op-den-Berg.<BR></P>
+...
 
 ### ART. 3.
 
-De volgende personen worden benoemd tot voorzitter en plaatsvervangend   voorzitter van de pachtprijzencommissie van Antwerpen : <BR>1° voorzitter :   Sonia De Meuter, directeur bij het Departement Landbouw en Visserij;<BR>2°   plaatsvervangend voorzitter : Wim Stoop, adviseur bij het Departement Landbouw   en Visserij.<BR>
+...
 
 ### ART. 4.
 
-Het ministerieel besluit van 17 september 2010 tot samenstelling van de   pachtprijzencommissie van Antwerpen wordt opgeheven.<BR>
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het   Belgisch Staatsblad.<BR>
+...
