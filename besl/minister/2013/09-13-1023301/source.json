@@ -2,16 +2,16 @@
   "codex_id": 1023301,
   "title": "Ministerieel besluit van 2013-09-13 tot samenstelling van de pachtprijzencommissie van West-Vlaanderen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023301/VolledigDocument?datum=2013-10-11",
-  "source_sha256": "af8592031ae25ca5849a8cd8342dfb6e0910e0f352276f1abaed2ec81b7d8499",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023301/VolledigDocument?datum=2016-10-25",
+  "source_sha256": "a7cf1efb79cd9550064e92b633ce5c49d8e3e75f1ac1426afaa565fb9316d23e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023301&param=informatie",
-  "as_of": "2013-10-11",
+  "as_of": "2016-10-25",
   "made": "2013-09-13",
   "gazette": "2013-10-11",
   "numac": 2013205395,
   "document_start": "2013-10-11",
   "document_end": "2016-10-25",
-  "in_force": "2013-10-11",
+  "in_force": "2016-10-25",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2013-10-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-10-25; future article versions excluded; article text as the API gives it"
 }

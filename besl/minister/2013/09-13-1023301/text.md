@@ -26,20 +26,20 @@
 
 ### ART. 1.
 
-<P>De volgende personen worden benoemd tot leden-pachters van de   pachtprijzencommissie van West-Vlaanderen : <BR>1° Dirk Fevery, Zeebruggelaan   167, 8370 Blankenberge;<BR>2° Eric Boussery, Mandestraat 2, 8950   Heuvelland;<BR>3° Eric Schollier, Beiaardstraat 49, 8870 Izegem.<BR></P>  <P>De volgende personen worden benoemd tot leden-grondeigenaars van de   pachtprijzencommissie van West-Vlaanderen : <BR>1° Eddy Baudry, Barrièrestraat   37/0001, 8200 Brugge;<BR>2° Patrick Geelhand de Merxem, Reningelstraat 10, 8956   Kemmel;<BR>3° Bernard-Henry d'Udekem d'Acoz, Munkenstraat 6, 8020   Ruddervoorde.<BR></P>
+...
 
 ### ART. 2.
 
-<P>De volgende personen worden benoemd tot plaatsvervangende leden-pachters van   de pachtprijzencommissie van West-Vlaanderen : <BR>1° Geert Defruyt,   Nieuwendammeweg 2, 8620 Nieuwpoort;<BR>2° Koen Verhoest, Grote Noordstraat 52,   8830 Hooglede;<BR>3° Hendrik Vandamme, Kruishofstraat 2, 8400 Oostende.<BR></P>  <P>De volgende personen worden benoemd tot plaatsvervangende   leden-grondeigenaars van de pachtprijzencommissie van West-Vlaanderen : <BR>1°   Bernard D'Hoore, Bloemendalestraat 44, 8730 Beernem;<BR>2° Joseph Thiery,   Rumbeeksesteenweg 352, 8800 Roeselare-Rumbeke;<BR>3° Jean van der Haert, Oude   Sint-Annadreef 80, 8200 Brugge Sint-Andries.<BR></P>
+...
 
 ### ART. 3.
 
-De volgende personen worden benoemd tot voorzitter en plaatsvervangend   voorzitter van de pachtprijzencommissie van West-Vlaanderen : <BR>1° voorzitter   : Sonia De Meuter, directeur bij het Departement Landbouw en Visserij;<BR>2°   plaatsvervangend voorzitter : Wim Stoop, adviseur bij het Departement Landbouw   en Visserij.<BR>
+...
 
 ### ART. 4.
 
-Het ministerieel besluit van 17 september 2010 tot samenstelling van de   pachtprijzencommissie van West-Vlaanderen wordt opgeheven.<BR>
+...
 
 ### ART. 5.
 
-&nbsp;Dit besluit treedt in werking op de dag van de bekendmaking ervan in   het Belgisch Staatsblad.<BR>
+...
