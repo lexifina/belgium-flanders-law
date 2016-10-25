@@ -26,20 +26,20 @@
 
 ### ART. 1.
 
-<P>De volgende personen worden benoemd tot leden-pachters van de   pachtprijzencommissie van Oost-Vlaanderen : <BR>1° Philip De Visscher, Gentdam   37, 9160 Lokeren;<BR>2° Hubert De Coninck, Kouterstraat 6, 9772   Wannegem-Lede;<BR>3° Guido Van Mieghem, Oostlangeweg 3, 9130 Doel.<BR></P>  <P>De volgende personen worden benoemd tot leden-grondeigenaars van de   pachtprijzencommissie van Oost-Vlaanderen : <BR>1° Jean-François Agneessens,   Groendreef 2, 9810 Nazareth;<BR>2° Pierre-Michel de Vuyst, Provincieweg 2, 9552   Borsbeke;<BR>3° Marleen Vandewalle, Wortegemplein 7, 9790   Wortegem-Petegem.<BR></P>
+...
 
 ### ART. 2.
 
-<P>De volgende personen worden benoemd tot plaatsvervangende leden-pachters van   de pachtprijzencommissie van Oost-Vlaanderen : <BR>1° Lut D'Hondt,   Rokalseidestraat 18, 9990 Maldegem;<BR>2° Christian De Cock, Kouterstraat 57,   9700 Welden;<BR>3° Serafien Ryckaert, Blekkersdijk 31, 9988 Watervliet.<BR></P>  <P>De volgende personen worden benoemd tot plaatsvervangende   leden-grondeigenaars van de pachtprijzencommissie van Oost-Vlaanderen : <BR>1°   Jozef Dauwe, Koning Albertstraat 59, 9900 Eeklo;<BR>2° André Depuydt,   Kloosterstraat 23, 9150 Rupelmonde;<BR>3° Xavier Van den Weghe, Staatsbaan 20,   9870 Zulte.<BR></P>
+...
 
 ### ART. 3.
 
-De volgende personen worden benoemd tot voorzitter en plaatsvervangend   voorzitter van de pachtprijzencommissie van Oost-Vlaanderen : <BR>1° voorzitter   : Sonia De Meuter, directeur bij het Departement Landbouw en Visserij;<BR>2°   plaatsvervangend voorzitter : Wim Stoop, adviseur bij het Departement Landbouw   en Visserij.<BR>
+...
 
 ### ART. 4.
 
-&nbsp;Het ministerieel besluit van 17 september 2010 tot samenstelling van   de pachtprijzencommissie van Oost-Vlaanderen wordt opgeheven.<BR>
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het   Belgisch Staatsblad.<BR>
+...
