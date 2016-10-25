@@ -26,20 +26,20 @@
 
 ### ART. 1.
 
-<P>De volgende personen worden benoemd tot leden-pachters van de   pachtprijzencommissie van Vlaams-Brabant : <BR>1° Stefaan Van Assche,   Gasthuisstraat 26, 1785 Merchtem;<BR>2° Joris Claeys, Luitenant Jacopsstraat   110, 1750 Lennik;<BR>3° Frans Nackaerts, Stappersestraat 31, 3290 Diest.<BR></P>  <P>De volgende personen worden benoemd tot leden-grondeigenaars van de   pachtprijzencommissie van Vlaams-Brabant : <BR>1° Michel Brandhof, Guido   Gezellestraat 21, 3290 Diest;<BR>2° Jean-Werner de Crombrugghe, Goedeluchtlaan   28, 1640 Sint-Genesius-Rode;<BR>3° Eric de Neeff, Brakumdreef 4, 3210   Lubbeek.<BR></P>
+...
 
 ### ART. 2.
 
-<P>De volgende personen worden benoemd tot plaatsvervangende leden-pachters van   de pachtprijzencommissie van Vlaams-Brabant : <BR>1° Bart Vanderstraeten,   Koeweidestraat 25A, 1785 Merchtem;<BR>2° André Leroy, Teleweidestraat 2, 1670   Pepingen;<BR>3° Pieter Stessel, Schoonstraat 9, 3020 Herent.<BR></P>  <P>De volgende personen worden benoemd tot plaatsvervangende   leden-grondeigenaars van de pachtprijzencommissie van Vlaams-Brabant : <BR>1°   Frederic Veldekens, Lenniksebaan 1081, 1602 Sint-Pieters-Leeuw;<BR>2° François   de Jonghe d'Ardoye, Lenniksesteenweg 775, 1500 Halle;<BR>3° Patrick Uyttenhove,   Manebroek 2, 1670 Pepingen.<BR></P>
+...
 
 ### ART. 3.
 
-De volgende personen worden benoemd tot voorzitter en plaatsvervangend   voorzitter van de pachtprijzencommissie van Vlaams-Brabant : <BR>1° voorzitter :   Sonia De Meuter, directeur bij het Departement Landbouw en Visserij;<BR>2°   plaatsvervangend voorzitter : Wim Stoop, adviseur bij het Departement Landbouw   en Visserij.<BR>
+...
 
 ### ART. 4.
 
-Het ministerieel besluit van 17 september 2010 tot samenstelling van de   pachtprijzencommissie van Vlaams-Brabant wordt opgeheven.<BR>
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het   Belgisch Staatsblad.<BR>
+...
