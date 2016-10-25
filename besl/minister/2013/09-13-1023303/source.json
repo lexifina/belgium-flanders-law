@@ -2,16 +2,16 @@
   "codex_id": 1023303,
   "title": "Ministerieel besluit van 2013-09-13 tot samenstelling van de pachtprijzencommissie van Limburg",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023303/VolledigDocument?datum=2013-10-11",
-  "source_sha256": "7b4f6077b3d8898b507e27e4598db2d1bf05cb31a006810027af7ed0d45bcf01",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023303/VolledigDocument?datum=2016-10-25",
+  "source_sha256": "bdfd86b760ac19208d5e30df78db4ebea7abc93cdb9c1901bb458a554c5ca514",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023303&param=informatie",
-  "as_of": "2013-10-11",
+  "as_of": "2016-10-25",
   "made": "2013-09-13",
   "gazette": "2013-10-11",
   "numac": 2013205397,
   "document_start": "2013-10-11",
   "document_end": "2016-10-25",
-  "in_force": "2013-10-11",
+  "in_force": "2016-10-25",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2013-10-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-10-25; future article versions excluded; article text as the API gives it"
 }
