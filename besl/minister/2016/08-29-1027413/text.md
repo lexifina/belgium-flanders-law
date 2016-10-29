@@ -49,18 +49,20 @@ Dit besluit treedt in werking op de datum van ondertekening ervan.
 
 ### BIJLAGE 1
 
-Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen voor het jaar 2016
-<table style="text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: times new roman; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px;" border="1">
+Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen voor het jaar 2016<br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
-			<td>Erkenningsnummer</td>
+			<td>Erkennings-<br>
+			nummer</td>
 			<td>Naam EKM</td>
-			<td>Tranche van 40 MIO</td>
+			<td>Tranche van 40.000.000 euro</td>
 		</tr>
 		<tr>
 			<td>1</td>
 			<td>Mijn Huis</td>
-			<td>517.000</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>2</td>
@@ -70,17 +72,17 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 		<tr>
 			<td>3</td>
 			<td>Onesto Kredietmaatschappij</td>
-			<td>8.197.000</td>
+			<td>7.605.000</td>
 		</tr>
 		<tr>
 			<td>4</td>
 			<td>Sociaal Woonkrediet voor Vlaanderen</td>
-			<td>3.172.000</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>5</td>
 			<td>Elk Zijn Huis</td>
-			<td>4.402.000</td>
+			<td>7.402.000</td>
 		</tr>
 		<tr>
 			<td>7</td>
@@ -135,12 +137,12 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 		<tr>
 			<td>46</td>
 			<td>Volkskrediet de Toren</td>
-			<td>3.236.000</td>
+			<td>5.236.000</td>
 		</tr>
 		<tr>
 			<td>47</td>
 			<td>Krediet voor Sociale Woningen</td>
-			<td>719.000</td>
+			<td>-</td>
 		</tr>
 	</tbody>
 </table>
