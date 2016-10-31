@@ -2,16 +2,16 @@
   "codex_id": 1026915,
   "title": "Besluit van de Vlaamse Regering van 2016-05-20 waarbij de overvloedige regenval die heeft plaatsgevonden op 5 juni 2015 op het grondgebied van de provincies Vlaams-Brabant en West-Vlaanderen en op 29 en 30 augustus 2015 op het grondgebied van de provincies Oost- en West-Vlaanderen als een algemene ramp wordt beschouwd en waarbij de geografische uitgestrektheid van deze ramp wordt afgebakend",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026915/VolledigDocument?datum=2016-07-02",
-  "source_sha256": "89d498bf9970e69568d08228e8dd5b24c08173e1c2cc724a6a9323b77fba4604",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026915/VolledigDocument?datum=2016-10-31",
+  "source_sha256": "3399d1a2204d0e2f9cab04199546831dc881a0f126b6cd366b5974b591daa9b0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026915&param=informatie",
-  "as_of": "2016-07-02",
+  "as_of": "2016-10-31",
   "made": "2016-05-20",
   "gazette": "2016-06-22",
   "numac": 2016035923,
   "document_start": "2016-07-02",
   "document_end": null,
-  "in_force": "2016-07-02",
+  "in_force": "2016-10-31",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2016-07-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-10-31; future article versions excluded; article text as the API gives it"
 }

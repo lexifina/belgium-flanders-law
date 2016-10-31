@@ -39,7 +39,8 @@
 <span style="color: rgb(0, 0, 0);">Provincie Vlaams-Brabant</span><br>
 <span style="color: rgb(0, 0, 0);">Drogenbos</span><br>
 <span style="color: rgb(0, 0, 0);">Overijse</span><br>
-<span style="color: rgb(0, 0, 0);">Provincie West-Vlaanderen</span><br>
+<span style="color: rgb(0, 0, 0);">Provincie West-Vlaanderen<br>
+Ingelmunster</span><br>
 <span style="color: rgb(0, 0, 0);">Meulebeke</span><br>
 <span style="color: rgb(0, 0, 0);">Wervik</span><br>
 &nbsp;
