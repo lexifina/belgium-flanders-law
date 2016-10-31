@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027506,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-08 tot erkenning van de beroepskwalificatie [pijpfitter-monteur]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027506/VolledigDocument?datum=2016-10-31",
+  "source_sha256": "d3769340987c5a6cd92bfacf9f5116ac4d0b508ace926e6252b15d4f3424b84a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027506&param=informatie",
+  "as_of": "2016-10-31",
+  "made": "2016-07-08",
+  "gazette": "2016-10-21",
+  "numac": 2016036372,
+  "document_start": "2016-10-31",
+  "document_end": null,
+  "in_force": "2016-10-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
