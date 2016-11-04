@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027520,
+  "title": "Ministerieel besluit van 2016-09-14 tot vaststelling van het herkenningsteken voor varend erfgoed, opgenomen in de vastgestelde inventaris van het varend erfgoed",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027520/VolledigDocument?datum=2016-11-04",
+  "source_sha256": "3732d18b06a1d51ee3cc63dfea1b34790bf8008a5c4198de1aa3bdfdb5f4168b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027520&param=informatie",
+  "as_of": "2016-11-04",
+  "made": "2016-09-14",
+  "gazette": "2016-10-25",
+  "numac": 2016036479,
+  "document_start": "2016-11-04",
+  "document_end": null,
+  "in_force": "2016-11-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-11-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
