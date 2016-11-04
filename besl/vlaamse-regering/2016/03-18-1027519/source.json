@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027519,
+  "title": "Besluit van de Vlaamse Regering van 2016-03-18 houdende de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027519/VolledigDocument?datum=2016-11-04",
+  "source_sha256": "543dad511a4ad9e7663be9dfb4eb56f8766de05ce76b1f83a196b48f0e151160",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027519&param=informatie",
+  "as_of": "2016-11-04",
+  "made": "2016-03-18",
+  "gazette": "2016-10-25",
+  "numac": 2016036437,
+  "document_start": "2016-11-04",
+  "document_end": null,
+  "in_force": "2016-11-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-11-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
