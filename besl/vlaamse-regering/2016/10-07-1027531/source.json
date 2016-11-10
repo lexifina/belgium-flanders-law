@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027531,
+  "title": "Besluit van de Vlaamse Regering van 2016-10-07 waarbij de langdurige overvloedige regenval en overstromingen die hebben plaatsgevonden van 27 mei tot 26 juni 2016 op het grondgebied van alle Vlaamse provincies en waarbij de geografische uitgestrektheid van deze ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027531/VolledigDocument?datum=2016-11-10",
+  "source_sha256": "3d7569db7cf4584831bf27fe18fddd9b3ff057f615a3c8cd77ecc1d7c85bbce9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027531&param=informatie",
+  "as_of": "2016-11-10",
+  "made": "2016-10-07",
+  "gazette": "2016-10-31",
+  "numac": 2016036497,
+  "document_start": "2016-11-10",
+  "document_end": null,
+  "in_force": "2016-11-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-11-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
