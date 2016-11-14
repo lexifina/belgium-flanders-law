@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027535,
+  "title": "Ministerieel besluit van 2016-09-27 betreffende de registratieaanvraag van de benaming Vlees van het rood ras van West-Vlaanderen als Beschermde Oorsprongsbenaming",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027535/VolledigDocument?datum=2016-11-14",
+  "source_sha256": "c80c798568cf8c167f66fe9c96e078cc16501b0731c0d2c24131595c21040a48",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027535&param=informatie",
+  "as_of": "2016-11-14",
+  "made": "2016-09-27",
+  "gazette": "2016-11-04",
+  "numac": 2016036487,
+  "document_start": "2016-11-14",
+  "document_end": null,
+  "in_force": "2016-11-14",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-11-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
