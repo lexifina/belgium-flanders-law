@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027537,
+  "title": "Besluit van de Vlaamse Regering van 2016-09-23 tot gedeeltelijke intrekking van het besluit van de Vlaamse Regering van 18 juli 2008 houdende de definitieve vaststelling van het gewestelijk ruimtelijk uitvoeringsplan `Afbakening regionaalstedelijk gebied Mechelen'",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027537/VolledigDocument?datum=2016-11-17",
+  "source_sha256": "82e52c72c53037e38d5ea5e09a2e3639e0555e86a287a87394217422b856c0e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027537&param=informatie",
+  "as_of": "2016-11-17",
+  "made": "2016-09-23",
+  "gazette": "2016-11-07",
+  "numac": 2016036485,
+  "document_start": "2016-11-17",
+  "document_end": null,
+  "in_force": "2016-11-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-11-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
