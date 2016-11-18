@@ -15,7 +15,7 @@
 6° Christine De Pus;<br>
 7° Sofie De Wolf;<br>
 8° Els Dobbelaere;<br>
-9° Marc Fettes;<br>
+9° ...;<br>
 10° ...;<br>
 11° Peter Gallein;<br>
 12° Jacques Geerdens;<br>
@@ -55,7 +55,8 @@
 46° Jan Mertens;<br>
 47° Johan Reymen;<br>
 48° Hans Duyck;<br>
-49° Anke Symens;</p>
+49° Anke Symens;<br>
+50° Carolien Neckebrouck;</p>
 
 ### ART. 2.
 
