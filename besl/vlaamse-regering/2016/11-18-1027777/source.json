@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027777,
+  "title": "Besluit van de Vlaamse Regering van 2016-11-18 houdende de herverdeling van het provisionele krediet ingeschreven onder begrotingsartikel FC0-1FBE2ZZ-PR basisallocatie 1FB101 van de algemene uitgavenbegroting van de Vlaamse gemeenschap voor het begrotingsjaar 2016",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027777/VolledigDocument?datum=2016-11-18",
+  "source_sha256": "3bc4c64a8ad4eee6cbac791837e37994c810dd1ed0ed292be253a9ee2607e20c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027777&param=informatie",
+  "as_of": "2016-11-18",
+  "made": "2016-11-18",
+  "gazette": "2017-01-25",
+  "numac": 2016036674,
+  "document_start": "2016-11-18",
+  "document_end": null,
+  "in_force": "2016-11-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-11-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
