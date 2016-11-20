@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027546,
+  "title": "Decreet van 2016-07-08 houdende aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027546/VolledigDocument?datum=2016-11-20",
+  "source_sha256": "9efcdcb944092f86f34bec5642bb4cd8d148ee7566d2b2dac5b07ef11c3bfc55",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027546&param=informatie",
+  "as_of": "2016-11-20",
+  "made": "2016-07-08",
+  "gazette": "2016-11-10",
+  "numac": 2016036458,
+  "document_start": "2016-11-20",
+  "document_end": null,
+  "in_force": "2016-11-20",
+  "article_versions": 93,
+  "record_form": "consolidated version as in force on 2016-11-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
