@@ -66,6 +66,18 @@ In   artikel 9.1.1 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaa
 
 <P>In artikel 9.1.28, § 1 van hetzelfde besluit wordt het tweede   lid vervangen door wat volgt :</P>  <P><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"In   afwijking van het eerste lid kan voor nieuw op te richten gebouwen en gebouwen   die ingrijpend energetisch worden gerenoveerd, geen afwijking worden aangevraagd   voor de E-peileisen, vermeld in dit hoofdstuk.".</P>
 
+### ART. 15.
+
+<p>In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2015, wordt een artikel 9.1.29/1 ingevoegd, dat luidt als volgt :</p>
+
+<p>"Art. 9.1.29/1. In afwijking van de waarden bij ontstentenis die voor een systeem van externe warmtelevering zijn geformuleerd, vermeld in artikel 9.1.12/2, 9.1.12/3, en in punten 10.2.3.2, 10.3.3.4.2, 13.3 van bijlage V, kan voor één gebouw dat aangesloten is of wordt op een externe warmtelevering of voor een ontwikkeling van verschillende gebouwen die aangesloten zijn of worden op een externe warmtelevering, een afwijking worden aangevraagd om te worden beoordeeld met een detailberekening.</p>
+
+<p>Met toepassing van het eerste lid moet de externe warmtelevering worden gerealiseerd binnen de vijf jaar na de eerste vergunningsaanvraag van een gebouw dat aangesloten wordt op het systeem van externe warmtelevering en waarvoor een afwijking wordt aangevraagd. Bij de EPB-aangifte van elk gebouw waarop de afwijking van toepassing is, worden de volgende documenten voorgelegd :<br>
+1° een verwijzing naar het uniek nummer van de afwijking voor externe warmtelevering;<br>
+2° als op het moment van de indiening van de EPB-aangifte de aansluiting van het gebouw op de externe warmtelevering nog niet is gerealiseerd, een contract van aansluiting met een clausule die de planning van aansluiting vastlegt binnen de vijf jaar na de eerste vergunningsaanvraag waarvoor een afwijking wordt aangevraagd.</p>
+
+<p>De minister kan nadere regels vastleggen voor de uitvoering en controle van deze maatregel.".</p>
+
 ### ART. 16.
 
 <P>In artikel 9.1.30 van hetzelfde besluit, vervangen bij het   besluit van de Vlaamse Regering van 28 september 2012 en gewijzigd bij de   besluiten van de Vlaamse regering van 29 november 2013 en 4 april 2014, worden   de volgende wijzigingen aangebracht :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1°   aan paragraaf 2 wordt een tweede lid toegevoegd, dat luidt als volgt   :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"De   aanvraag van een afwijking, vermeld in artikel 9.1.29/1, wordt ingediend namens   de aangifteplichtige en kan alleen tot op het moment van de indiening van de   startverklaring worden ingediend en voor zover de werken nog niet zijn   gestart.";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2°   in paragraaf 4 wordt de zinsnede "artikel 9.1.26 tot en met 9.1.29" vervangen   door de zinsnede "artikel 9.1.26 tot en met 9.1.29/1".</P>
@@ -79,6 +91,12 @@ In   artikel 9.1.1 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaa
 <P>In   hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering   van 17 juli 2015, wordt een artikel 9.1.32/1 en een artikel 9.1.32/2 ingevoegd,   die luiden als volgt :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"Art.   9.1.32/1. De minister kan in het kader van de toepassing van de   berekeningsmethode, vermeld in bijlage V tot en met bijlage XII, kwaliteitseisen   en kwaliteitscontroles opleggen aan aannemers. De minister kan nadere regels   bepalen betreffende hoe die controles worden uitgevoerd.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"Art.   9.1.32/2. De minister kan in het kader van de toepassing van de   berekeningsmethode, vermeld in bijlage V tot en met bijlage XII, kwaliteitseisen   opleggen aan verslaggevers. De minister kan nadere regels bepalen betreffende   hoe die eisen worden uitgevoerd.".</P>
 
 ## HOOFDSTUK IV. Wijzigingen van titel XII van het Energiebesluit van 19 november 2010
+
+### ART. 19.
+
+<p>In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2015, wordt een artikel 12.3.11 ingevoegd, dat luidt als volgt :</p>
+
+<p>"Art. 12.3.11. In afwijking van artikel 9.1.30, § 2, tweede lid, kan voor dossiers waarvan op 31 maart 2016 de gebouwen al in gebruik zijn genomen, maar waarvoor er nog geen EPB-aangifte is ingediend, of waarvan de werken zijn gestart, maar de gebouwen nog niet in gebruik zijn genomen, er tot een door de minister te bepalen datum toch een aanvraag worden ingediend om te worden behandeld conform de procedure, vermeld in artikel 9.1.29/1.".</p>
 
 ## HOOFDSTUK V. Wijzigingen aan de bijlages van het Energiebesluit van 19 november 2010
 
