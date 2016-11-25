@@ -88,6 +88,14 @@ Enkel die activiteiten die door een verslaggever gevolgd werden vanaf 1   januar
 
 ## [HOOFDSTUK 2/4 Erkenning van de exameninstellingen voor verslaggevers (verv. MB 7 januari 2018, art. 8, I: 24 februari 2018)]
 
+### ART 7/1.
+
+Het centraal examen voor verslaggevers, vermeld in artikel 8.7.1 van het Energiebesluit van 19 november 2010, bestaat uit vier onderdelen :<br>
+1° Onderdeel 1 : Regelgeving en verslaggeving;<br>
+2° Onderdeel 2 : bouwkundige gegevens en netto-energiebehoefte;<br>
+3° Onderdeel 3 : installaties;<br>
+4° Onderdeel 4 : hygiënische ventilatie.
+
 ## [HOOFDSTUK 2/5 Kwaliteitsborging exameninstellingen (ing. MB 7 januari 2018, art. 9, I: 24 februari 2018)]
 
 ## HOOFDSTUK 3 Slotbepalingen
