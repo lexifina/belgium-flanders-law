@@ -20,7 +20,23 @@ Besluit :
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder : <BR>1° ATG-E :   Verslag van energetische karakterisering die is afgeleverd in het kader van de   vzw Belgische Unie voor de technische goedkeuring in de Bouw (BUtgb); <BR>2°   alternatieve berekeningsmethode : methode die gebruikt wordt om de verbetering   van de energieprestatie door het toepassen van een innovatief bouwconcept of   technologie te bepalen.<BR>3° Energiebesluit : het besluit van de Vlaamse   Regering van 19 november 2010 houdende algemene bepalingen over het   energiebeleid;<BR>3/1° externe warmtelevering: volgende gevallen worden als   externe warmtelevering beschouwd: <BR>a) de warmte wordt niet op het eigen   perceel geproduceerd, maar wordt via een extern warmtenet aangeleverd;<BR>b) de   warmte wordt op het eigen perceel geproduceerd en via een warmtenet dat zich   geheel of gedeeltelijk buiten de gebouwen bevindt aan één of meerdere gebouwen   op het eigen perceel geleverd;<BR>4° geldende berekeningsmethode : reglementaire   berekeningsmethode van de energieprestatie, zoals bedoeld in de bijlage V en VI   van het Energiebesluit, en in de bijlage IV van het ministerieel besluit van 2   april 2007 betreffende de vastlegging van de vorm en de inhoud van de   EPB-aangifte en het model van het energieprestatiecertificaat bij de bouw;   <BR>5° innovatief bouwconcept of technologie : technologie of concept zoals   vermeld in artikel 9.1.29 van het Energiebesluit waarop de geldende   berekeningsmethode niet kunnen worden toegepast of waarvoor in de geldende   berekeningsmethode voorzien is dat een gelijkwaardigheid kan aangevraagd   worden;<BR>6° innovatief gebouw : gebouw waarin een innovatief bouwconcept of   technologie wordt toegepast;<BR>7° innovatief systeem : innovatief bouwconcept   of technologie die beschikt over een ATG-E;<BR>8° minister : de Vlaamse   minister, bevoegd voor het energiebeleid;<BR>9° publieke website : de publieke   website www.energiesparen.be;<BR>10° stavingsnota : nota waarin de bijkomende   primaire energiebesparing in een innovatief gebouw volgens de alternatieve   berekeningsmethode berekend wordt en minstens volgende gegevens bevat : <BR>a)   de op het gebouw toegepaste algemene hypothesen. Indien de berekeningen   betreffende het innovatieve bouwconcept of technologie het noodzakelijk maken om   deze hypothesen aan te passen, zal een bewijsvoering van de aanpassingen   bijgevoegd worden; <BR>b) de naam van de gebruikte evaluatie-instrument(en);   <BR>c) de resultaten verkregen met de evaluatie-instrument(en) zonder gebruik   van het innovatieve bouwconcept of technologie; <BR>d) de resultaten verkregen   met de evaluatie-instrument(en), met gebruik van het innovatieve bouwconcept of   technologie;<BR>e) de vergelijking van de resultaten met en zonder het gebruik   van het innovatieve bouwconcept of technologie, en de primaire energiebesparing   voor elk deel van het gebouw waarop het innovatieve bouwconcept of technologie   van toepassing is.
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° ATG-E : Verslag van energetische karakterisering die is afgeleverd in het kader van de vzw Belgische Unie voor de technische goedkeuring in de Bouw (BUtgb);<br>
+2° alternatieve berekeningsmethode : methode die gebruikt wordt om de verbetering van de energieprestatie door het toepassen van een innovatief bouwconcept of technologie te bepalen.<br>
+3° Energiebesluit : het besluit van de Vlaamse Regering van 19 november 2010 houdende algemene bepalingen over het energiebeleid;<br>
+3/1° ...;<br>
+4° geldende berekeningsmethode : reglementaire berekeningsmethode van de energieprestatie, zoals bedoeld in de bijlage V en VI van het Energiebesluit, en in de bijlage IV van het ministerieel besluit van 2 april 2007 betreffende de vastlegging van de vorm en de inhoud van de EPB-aangifte en het model van het energieprestatiecertificaat bij de bouw;<br>
+5° innovatief bouwconcept of technologie : technologie of concept zoals vermeld in artikel 9.1.29 van het Energiebesluit waarop de geldende berekeningsmethode niet kunnen worden toegepast of waarvoor in de geldende berekeningsmethode voorzien is dat een gelijkwaardigheid kan aangevraagd worden;<br>
+6° innovatief gebouw : gebouw waarin een innovatief bouwconcept of technologie wordt toegepast;<br>
+7° innovatief systeem : innovatief bouwconcept of technologie die beschikt over een ATG-E;<br>
+8° minister : de Vlaamse minister, bevoegd voor het energiebeleid;<br>
+9° publieke website : de publieke website www.energiesparen.be;<br>
+10° stavingsnota : nota waarin de bijkomende primaire energiebesparing in een innovatief gebouw volgens de alternatieve berekeningsmethode berekend wordt en minstens volgende gegevens bevat :<br>
+a) de op het gebouw toegepaste algemene hypothesen. Indien de berekeningen betreffende het innovatieve bouwconcept of technologie het noodzakelijk maken om deze hypothesen aan te passen, zal een bewijsvoering van de aanpassingen bijgevoegd worden;<br>
+b) de naam van de gebruikte evaluatie-instrument(en);<br>
+c) de resultaten verkregen met de evaluatie-instrument(en) zonder gebruik van het innovatieve bouwconcept of technologie;<br>
+d) de resultaten verkregen met de evaluatie-instrument(en), met gebruik van het innovatieve bouwconcept of technologie;<br>
+e) de vergelijking van de resultaten met en zonder het gebruik van het innovatieve bouwconcept of technologie, en de primaire energiebesparing voor elk deel van het gebouw waarop het innovatieve bouwconcept of technologie van toepassing is.
 
 ## HOOFDSTUK II. Beoordeling van innovatieve systemen
 
@@ -40,7 +56,7 @@ Het Vlaams Energieagentschap, respectievelijk de minister bepaalt de geldigheids
 
 ### ART. 4/1.
 
-§ 1. De aanvraag voor het beoordelen van één innovatief gebouw dat   aangesloten is op een systeem van externe warmtelevering of de aanvraag voor het   beoordelen van één ontwikkeling van meerdere innovatieve gebouwen in dezelfde   bouwfase die aangesloten zijn op hetzelfde systeem van externe warmtelevering,   wordt door middel van een gedateerd ontvangstbewijs of per aangetekende brief   bij het Vlaams Energieagentschap ingediend.<BR><BR>De aanvraag, vermeld in het   eerste lid, wordt ingediend door de aangifteplichtige, de warmtenetbeheerder of   de projectontwikkelaar.<BR><BR>De aanvraag, vermeld in het eerste lid, kan enkel   tot op het moment van het indienen van de startverklaring worden ingediend en   voor zover de werken nog niet zijn gestart.<BR><BR>§ 2. De aanvraag kan worden   ingediend voor elk innovatief gebouw dat is aangesloten op een systeem van   externe warmtelevering of elke ontwikkeling van meerdere innovatieve gebouwen in   dezelfde bouwfase die zijn aangesloten op hetzelfde systeem van externe   warmtelevering, indien het gebouw of desgevallend elk gebouw van de betreffende   ontwikkeling, voldoet aan alle EPB-eisen.<BR><BR>§ 3. Het aanvraagdossier   bestaat uit:<BR>1° de naam, voornaam en woonplaats van de aanvrager of indien   het gaat om een rechtspersoon, de juridische vorm, de naam of handelsnaam, de   maatschappelijke zetel en de hoedanigheid van de ondertekenaar van de aanvraag   én de relatie van de aanvrager tot het systeem van externe warmtelevering;<BR>2°   de naam en de ligging van het systeem van externe warmtelevering;<BR>3° een   beschrijving van de warmtelevering, de warmteopwekkingsinstallatie(s) en de   warmtedistributie-elementen van het systeem van externe warmtelevering op het   moment van de aanvraag;<BR>4° een beschrijving van de geplande wijzigingen aan   de warmtelevering, de warmteopwekkingsinstallatie(s) en de   warmtedistributie-elementen van het systeem van externe warmtelevering in de   betreffende bouwfase en een projectie van de timing van die wijzigingen;<BR>5°   een beschrijving van de technische en energetische eigenschappen van de   warmtelevering, de warmteopwekkingsinstallatie(s) en de   warmtedistributie-elementen van het systeem van externe warmtelevering voor de   betreffende bouwfase; <BR>6° desgevallend, een beschrijving en een projectie van   de timing van de andere bouwfasen die geen deel uitmaken van de aanvraag maar   die wel betrekking hebben tot hetzelfde systeem van externe   warmtelevering;<BR>7° de ligging van het gebouw of desgevallend elk gebouw van   de ontwikkeling aan de hand van het adres en de kadastrale gegevens en indien   reeds gekend, het/de energieprestatiedossiernummer(s);<BR>8° een beschrijving   van de fase waarin het innovatief gebouw of elk gebouw van de ontwikkeling van   meerdere innovatieve gebouwen op moment van de aanvraag verkeert en een   projectie van de timing van de volgende fasen. Volgende worden als fasen   beschouwd: het indienen van de verkavelingsaanvraag, het aanvragen van de   bouwvergunning, het verlenen van de bouwvergunning, het indienen van de   startverklaring, het uitvoeren van de werken, het aansluiten van een gebouw op   het systeem van externe warmtelevering, de ingebruikname van het gebouw en het   indienen van de EPB-aangifte;<BR>9° minstens de plannen van de   verkavelingsaanvraag of de plannen van de aanvraag tot stedenbouwkundige   vergunning en indien mogelijk beiden;<BR>10° de naam en de beschrijving van de   delen van het gebouw/de gebouwen waarin het systeem van externe warmtelevering   wordt toegepast met een overzicht van hun voornaamste technische en energetische   eigenschappen, waaronder de warmtevraag;<BR>11° een stavingsnota met   berekeningen uitgevoerd volgens de methode opgenomen in de   goedkeuringsleidraad;<BR>12° het resultaat op vlak van de EPB-eisen en het   elektronische bestand van de officiële software van de berekening van de   energieprestatie van de verschillende delen van het gebouw of desgevallend de   verschillende delen van elk gebouw van de ontwikkeling volgens de geldende   berekeningsmethode en mits in acht name van het resultaat van de berekeningen   uitgevoerd volgens de methode opgenomen in de goedkeuringsleidraad;<BR>13° het   bewijs dat het gebouw of de ontwikkeling van meerdere gebouwen voldoet aan de   voorwaarden opgenomen in § 2;<BR>14° het dossier van de auteurs van de   stavingsnota, te weten:<BR>a) de naam, voornaam en woonplaats of indien het gaat   om een rechtspersoon, de juridische vorm, de naam of handelsnaam, de   maatschappelijke zetel en de hoedanigheid van de auteurs van het dossier;<BR>b)   de beschrijving van de technische beheersing in het domein van het innovatief   gebouw of de ontwikkeling van meerdere innovatieve gebouwen in dezelfde bouwfase   die voor hun warmtelevering aangesloten zijn op hetzelfde systeem van externe   warmtelevering;<BR>c) de beschrijving van de bekwaamheid van de auteurs om de   energieprestaties van het innovatief gebouw of de ontwikkeling van meerdere   innovatieve gebouwen te evalueren, met behulp van aangepaste   evaluatie-instrumenten.<BR><BR>§ 4. De bij de berekening te hanteren hypotheses   en de voorwaarden waaraan de te gebruiken evaluatie-instrumenten moeten voldoen,   worden door het Vlaams Energieagentschap vastgelegd in een goedkeuringsleidraad.   Deze goedkeuringsleidraad wordt gepubliceerd op de publieke website.<BR><BR>§ 5.   Het Vlaams Energieagentschap beslist binnen de honderdtwintig kalenderdagen na   ontvangst van de aanvraag over de gelijkwaardigheid. Als aanvullende informatie   betreffende de inhoud van het aanvraagdossier, vermeld in § 3, wordt opgevraagd   of als het aanvraagdossier onvolledig is, wordt de in het vorige lid vermelde   termijn voor het nemen van de beslissing opgeschort. De aanvrager wordt van de   opschorting van die termijn per brief op de hoogte gesteld. Na ontvangst van de   gevraagde informatie loopt de termijn verder.<BR><BR>De beslissing over de   gelijkwaardigheid blijft geldig zolang er in de as-builtsituatie niet wordt   afgeweken van de gegevens van het aanvraagdossier vermeld in § 3, 3°, 4°, 5°,   10° en 11°. <BR><BR>§ 6. De aanvrager verbindt er zich toe het Vlaams   Energieagentschap onmiddellijk in kennis te stellen van elke afwijking tussen de   as-builtsituatie van de warmtelevering, de warmteopwekkingsinstallatie(s) en de   warmtedistributie-elementen van het systeem van externe warmtelevering en de   gegevens van het aanvraagdossier vermeld in § 3, 3°, 4°, 5°, 10° en 11°.   <BR><BR>Het Vlaams Energieagentschap beslist binnen de 60 kalenderdagen na   ontvangst van de kennisgeving, vermeld in het eerste lid, of een nieuwe   stavingsnota met berekeningen uitgevoerd volgens de methode opgenomen in de   goedkeuringsleidraad op basis van de as-builtsituatie moet worden bezorgd. Als   aanvullende informatie betreffende de afwijkingen, vermeld in het eerste lid,   wordt opgevraagd, wordt de in het vorige lid vermelde termijn voor het nemen van   de beslissing opgeschort. De aanvrager wordt van de opschorting van die termijn   per brief op de hoogte gesteld. Na ontvangst van de gevraagde informatie loopt   de termijn verder. <BR><BR>De aanvrager bezorgt de nieuwe stavingsnota, vermeld   in het tweede lid, binnen de 60 kalenderdagen na de beslissing, vermeld in het   tweede lid, aan het Vlaams Energieagentschap. Als het resultaat van de op basis   van de as-builtsituatie gemaakte berekening in de nieuwe stavingsnota niet   overeenstemt met het resultaat van de berekening in het aanvraagdossier, vermeld   in § 3, 11°, kan het Vlaams Energieagentschap binnen de 60 kalenderdagen na   ontvangst van de nieuwe stavingsnota haar beslissing, vermeld in § 5, herzien.   Na het verstrijken van deze termijn is de beslissing echter   definitief.<BR><BR>De definitieve beslissing van het Vlaams Energieagentschap   wordt als bijlage bij de EPB-aangifte gevoegd.<BR><BR>§ 7. Als de aanvraag,   vermeld in § 1, wordt ingediend door de warmtenetbeheerder of de   projectontwikkelaar, dan bezorgt deze de definitieve beslissing van het Vlaams   Energieagentschap aan de aangifteplichtige.
+...
 
 ### ART. 5.
 
@@ -72,7 +88,7 @@ Het Vlaams Energieagentschap kan technische richtsnoeren vastleggen met betrekki
 
 ### ART. 7/1.
 
-In afwijking van artikel 4/1, § 1, derde lid kan voor dossiers waar op 1   juni 2014 de innovatieve gebouwen reeds in gebruik zijn genomen, maar waarvoor   er nog geen EPB-aangifte is ingediend, of de werken zijn gestart maar de   innovatieve gebouwen zijn nog niet in gebruik genomen, er tot 30 september 2014   toch een aanvraag worden ingediend om te worden behandeld conform de procedure,   vermeld in artikel 4/1.
+...
 
 ### ART. 7/2.
 
@@ -88,4 +104,53 @@ Het ministerieel besluit van 10 april 2007 betreffende de vaststelling van de ge
 
 ### BIJLAGE 2
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2012/12/17_1.pdf#page=61">Bijlage   2</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/12/17_1.pdf#page=61">Bijlage 2</a><br>
+<br>
+Aan bijlage 2&nbsp;wordt een punt 5 toegevoegd, dat luidt als volgt:<br>
+<br>
+"5. Warmtepomp op waterlus<br>
+<br>
+Een warmtepompsysteem op waterlus bestaat uit verschillende warmtepompen van het type water-lucht of water-water, waarbij elke warmtepomp aan een of meerdere EPB-eenheden in het gebouw is gekoppeld en in verbinding staat met een gesloten waterlus die het gebouw doorloopt. Elke warmtepomp op de waterlus gebruikt de waterlus als warmtebron of als koudebron en onttrekt of injecteert warmte aan de waterlus.<br>
+<br>
+Voor de warmtepompen op de waterlus die de waterlus als warmtebron gebruiken, wordt de prestatiecoëfficiënt (coefficient of performance) COPtest van de warmtepomp voor gebruik in bijlage V bij het Energiebesluit van 19 november 2010 § 10.2.3.3 bij conventie bepaald bij de volgende testomstandigheden :<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>warmtebron</td>
+			<td>warmteafvoer</td>
+			<td>testomstandigheden</td>
+		</tr>
+		<tr>
+			<td rowspan="3" colspan="1">waterlus</td>
+			<td>gerecycleerde lucht, eventueel in combinatie met buitenlucht</td>
+			<td>W10/A20</td>
+		</tr>
+		<tr>
+			<td>enkel buitenlucht, zonder gebruik van een warmteterugwinapparaat</td>
+			<td>W10/A2</td>
+		</tr>
+		<tr>
+			<td>enkel buitenlucht, met gebruik van een warmteterugwinapparaat</td>
+			<td>W10/A20</td>
+		</tr>
+		<tr>
+			<td>waterlus</td>
+			<td>water</td>
+			<td>W10/W35</td>
+		</tr>
+		<tr>
+			<td colspan="3">waarin :<br>
+			A lucht als medium (air). Het cijfer erna is de droge bol inlaattemperatuur, in ° C.<br>
+			W water als medium (water). Het cijfer erna is de inlaattemperatuur in de verdamper of de uitlaattemperatuur aan de condensor, in ° C.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De voorwaarden waaraan de waterlus moet voldoen om de COP-test te gebruiken bij bovenvermelde testomstandigheden zijn de volgende :<br>
+1° op elk moment dat aangesloten warmtepompen aan het verwarmen zijn, moet tegelijkertijd een koelmachine warmte injecteren in de waterlus of moet restwarmte geïnjecteerd worden;<br>
+2° er is geen bijkomend verwarmingssysteem aanwezig die de waterlus op constante temperatuur houdt. De warmte die in de waterlus komt, mag enkel afkomstig zijn van koelmachines waarvan de koude nuttig gebruikt wordt in het gebouw of afkomstig zijn van restwarmte in het gebouw;<br>
+3° de waterlus moet zich volledig in het gebouw bevinden;<br>
+4° de waterlus bevindt zich op elk moment boven 10° C.<br>
+<br>
+Er moet een stavingstuk worden bijgehouden waarin het voldoen aan de hierboven beschreven voorwaarden wordt aangetoond." (Zie MB 9 september 2016, BS 25 november 2016, art. 11)
