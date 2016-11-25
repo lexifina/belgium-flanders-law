@@ -59,6 +59,12 @@ Het Vlaams Energieagentschap kan de erkenning van het getuigschrift betreffende 
 
 ## [HOOFDSTUK VI/1 Erkenning van de exameninstellingen voor energiedeskundigen type A (verv. MB 7 januari 2018, art. 3, I: 24 februari 2018)]
 
+### ART 7/1.
+
+Het centraal examen voor energiedeskundigen, vermeld in artikel 8.3.1 van het Energiebesluit van 19 november 2010, bestaat uit twee onderdelen :<br>
+1° een theoretisch onderdeel;<br>
+2° een praktisch onderdeel.
+
 ## [HOOFDSTUK VI/2 Kwaliteitsborging exameninstellingen (ing. MB 7 januari 2018, art. 4, I: 24 februari 2018)]
 
 ## HOOFDSTUK VII Gebruik van de auditsoftware
