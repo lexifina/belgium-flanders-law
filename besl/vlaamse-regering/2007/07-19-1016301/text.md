@@ -12,11 +12,27 @@ Er wordt een beroepsinstantie opgericht inzake openbaarheid van bestuur en herge
 
 ### ART. 2.
 
-§ 1. De afdeling openbaarheid van bestuur, die de beroepsinstantie zal uitmaken, vermeld in artikel 22 van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, is samengesteld uit vier leden onder wie een voorzitter. Elk lid heeft een plaatsvervanger.<br /><br />De leden en hun plaatsvervangers hebben minstens twee jaar nuttige juridische ervaring opgedaan.<br /><br />§ 2. De afdeling hergebruik van overheidsinformatie, die de beroepsinstantie zal uitmaken, vermeld in artikel 15 van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie, is samengesteld uit vier leden onder wie een voorzitter. Elk lid heeft een plaatsvervanger.<br /><br />De leden en hun plaatsvervangers hebben minstens twee jaar nuttige economische of juridische ervaring opgedaan.<br /><br />
+§ 1. De afdeling openbaarheid van bestuur, die de beroepsinstantie zal uitmaken, vermeld in artikel 22 van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, is samengesteld uit vier leden onder wie een voorzitter. Elk lid heeft een plaatsvervanger.<br>
+<br>
+De leden en hun plaatsvervangers hebben minstens twee jaar nuttige juridische ervaring opgedaan.<br>
+<br>
+§ 2. De afdeling hergebruik van overheidsinformatie, die de beroepsinstantie zal uitmaken, vermeld in artikel 15 van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie, is samengesteld uit vier leden onder wie een voorzitter. Elk lid heeft een plaatsvervanger.<br>
+<br>
+De leden en hun plaatsvervangers hebben minstens twee jaar nuttige economische, technische&nbsp;of juridische ervaring opgedaan.<br>
+&nbsp;
 
 ### ART. 3.
 
-§ 1. De leden van de afdeling openbaarheid van bestuur en hun plaatsvervangers worden als volgt benoemd onder de ambtenaren uit diverse beleidsdomeinen van de Vlaamse overheid :<br />1° een lid, tevens voorzitter, en zijn plaatsvervanger worden benoemd door de minister-president van de Vlaamse Regering;<br />2° een lid en zijn plaatsvervanger worden benoemd door de Vlaamse minister, bevoegd voor de Binnenlandse Aangelegenheden;<br />3° een lid en zijn plaatsvervanger worden benoemd door de Vlaamse minister, bevoegd voor het Leefmilieu en het Waterbeleid;<br />4° een lid en zijn plaatsvervanger worden benoemd door de Vlaamse minister, bevoegd voor de Ruimtelijke Ordening.<br /><br />§ 2. De leden van de afdeling hergebruik van overheidsinformatie, onder wie de voorzitter, worden aangeduid door de Vlaamse Regering op voorstel van de Vlaams minister, bevoegd voor het Algemeen Beleid inzake Personeel en Organisatieontwikkeling onder de ambtenaren uit diverse beleidsdomeinen van de Vlaamse overheid.<br /><br />De Vlaamse Regering zorgt er voor dat - wat betreft de afdeling hergebruik van overheidsinformatie - zowel mensen met juridische als economische ervaring deel uitmaken van die afdeling. <br /><br />§ 3. De leden en hun plaatsvervangers worden door de benoemende minister - voor wat betreft de leden van de afdeling openbaarheid - of de Vlaamse Regering - voor wat betreft de aangeduide leden van de afdeling hergebruik van overheidsinformatie - aangeduid voor een telkens verlengbare termijn van vijf jaar.<br /><br />
+§ 1. De leden van de afdeling openbaarheid van bestuur en hun plaatsvervangers worden als volgt benoemd onder de ambtenaren uit diverse beleidsdomeinen van de Vlaamse overheid :<br>
+1° een lid, tevens voorzitter, en zijn plaatsvervanger worden benoemd door de minister-president van de Vlaamse Regering;<br>
+2° een lid en zijn plaatsvervanger worden benoemd door de Vlaamse minister, bevoegd voor de Binnenlandse Aangelegenheden;<br>
+3° een lid en zijn plaatsvervanger worden benoemd door de Vlaamse minister, bevoegd voor het Leefmilieu en het Waterbeleid;<br>
+4° een lid en zijn plaatsvervanger worden benoemd door de Vlaamse minister, bevoegd voor de Ruimtelijke Ordening.<br>
+<br>
+§ 2. De leden van de afdeling hergebruik van overheidsinformatie, onder wie de voorzitter, worden aangewezen door de Vlaamse minister, bevoegd voor de informatiemaatschappij, het structureren, opslaan, uitwisselen en ontsluiten van informatie en de infolijn, op voordracht van het coördinatiecomité, vermeld in artikel 20 van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator, en na mededeling aan de Vlaamse Regering.<br>
+<br>
+§ 3. De leden en hun plaatsvervangers worden door de benoemende minister&nbsp;aangeduid voor een telkens verlengbare termijn van vijf jaar.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -24,7 +40,13 @@ Het is de leden van beide afdelingen van de beroepsinstantie verboden tegenwoord
 
 ### ART. 5.
 
-De benoemende minister - voor wat betreft de leden van de afdeling openbaarheid - of de Vlaamse Regering - voor wat betreft de aangeduide leden van de afdeling hergebruik van overheidsinformatie - kan op verzoek van de betrokkene een einde maken aan het mandaat van een lid of plaatsvervangend lid van één van de afdelingen van de beroepsinstantie.<br /><br />Bovendien kan de benoemende minister - voor wat betreft de leden van de afdeling openbaarheid - of de Vlaamse Regering - voor wat betreft de aangeduide leden van de afdeling hergebruik van overheidsinformatie - ambtshalve en nadat hij het lid gehoord heeft een einde maken aan het mandaat van een lid of plaatsvervangend lid van een afdeling van de beroepsinstantie in de volgende gevallen :<br />1° als de betrokkene tekort schiet in de opdrachten van de beroepsinstantie;<br />2° als de betrokkene het vertrouwelijke karakter van de beraadslagingen niet respecteert of vertrouwelijke documenten verspreidt;<br />3° als de betrokkene het verbod, vermeld in artikel 4, niet naleeft.<br /><br />
+De benoemende minister kan op verzoek van de betrokkene een einde maken aan het mandaat van een lid of plaatsvervangend lid van één van de afdelingen van de beroepsinstantie.<br>
+<br>
+Bovendien kan de benoemende minister&nbsp;ambtshalve en nadat hij het lid gehoord heeft een einde maken aan het mandaat van een lid of plaatsvervangend lid van een afdeling van de beroepsinstantie in de volgende gevallen :<br>
+1° als de betrokkene tekort schiet in de opdrachten van de beroepsinstantie;<br>
+2° als de betrokkene het vertrouwelijke karakter van de beraadslagingen niet respecteert of vertrouwelijke documenten verspreidt;<br>
+3° als de betrokkene het verbod, vermeld in artikel 4, niet naleeft.<br>
+&nbsp;
 
 ### ART. 6.
 
@@ -40,7 +62,14 @@ De afdeling openbaarheid van bestuur oefent haar opdracht als beroepsinstantie u
 
 ### ART. 8.
 
-Het secretariaat van beide afdelingen van de beroepsinstantie is gevestigd   bij de afdeling Kanselarij van het Departement Kanselarij en   Bestuur.<BR><BR>Alle briefwisseling en communicatie met de beroepsinstantie   wordt gericht aan het adres van het secretariaat.<BR><BR>
+Het secretariaat van de afdeling openbaarheid van bestuur is gevestigd bij de afdeling Kanselarij van het Departement Kanselarij en Bestuur.<br>
+<br>
+Het secretariaat van de afdeling hergebruik is gevestigd bij Informatie Vlaanderen.<br>
+<br>
+In het tweede lid wordt verstaan onder Informatie Vlaanderen : het agentschap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen.<br>
+<br>
+Alle briefwisseling en communicatie met de beroepsinstantie wordt gericht aan het adres van het secretariaat.<br>
+&nbsp;
 
 ### ART. 9.
 
