@@ -10,6 +10,26 @@
 
 ## Afdeling 3 Projectvergadering
 
+### ART. 9.
+
+<p>§ 1. Iedere gemeente wijst bij gemeenteraadsbeslissing minimaal één gemeentelijke omgevingsambtenaar aan. De gemeente kan daarvoor een beroep doen op eigen personeel, op personeel van een intergemeentelijk samenwerkingsverband of op personeel van een intercommunale.</p>
+
+<p>De gemeente zorgt ervoor dat de aangestelde ambtenaar of ambtenaren gezamenlijk voldoende kennis van zowel de ruimtelijke ordening als het milieu in zich verenigen. De Vlaamse Regering kan de kwaliteitseisen vastleggen waaruit deze kennis blijkt.</p>
+
+<p>§ 2. De gemeentelijke omgevingsambtenaar oefent de taken, vermeld in dit decreet, onafhankelijk en neutraal uit. Hij mag geen nadeel ondervinden van de uitoefening hiervan.</p>
+
+<p>§ 3. Als er geen gemeentelijke omgevingsambtenaar binnen de gemeente, het intergemeentelijk samenwerkingsverband of de intercommunale beschikbaar is, oefent de gemeentesecretaris&nbsp;de taken van de gemeentelijke omgevingsambtenaar uit of wijst hij een waarnemende gemeentelijke omgevingsambtenaar aan die de taken van de gemeentelijke omgevingsambtenaar uitoefent.</p>
+
+<p>§ 4. Binnen de perken van de begrotingskredieten kan de Vlaamse Regering financiële of andere ondersteuning verlenen aan de gemeenten voor de opleiding en loonkosten van de gemeentelijke omgevingsambtenaar.</p>
+
+### ART. 10.
+
+<p>De Vlaamse Regering wijst een of meer gewestelijke omgevingsambtenaren aan.</p>
+
+<p>De Vlaamse Regering zorgt ervoor dat de aangestelde ambtenaar of ambtenaren gezamenlijk voldoende kennis van zowel de ruimtelijke ordening als het milieu in zich verenigen. De Vlaamse Regering kan de kwaliteitseisen vastleggen waaruit deze kennis blijkt.</p>
+
+<p>De gewestelijke omgevingsambtenaar oefent de taken, vermeld in dit decreet, onafhankelijk en neutraal uit. Hij mag geen nadeel ondervinden van de uitoefening hiervan.</p>
+
 ## Afdeling 5 Omgevingsfonds en dossiertaksen
 
 ## Afdeling 6 Administratieve lus
@@ -23,6 +43,20 @@
 De procedures, vermeld in dit decreet, en de procedures die door dit   decreet in andere decreten gewijzigd of ingevoerd worden, kunnen geheel of   gedeeltelijk digitaal verlopen, conform de regels die de Vlaamse Regering   bepaalt.<BR><BR>Zij kan ook nadere regels uitwerken in geval van   onbeschikbaarheid wegens technische storingen van het door Vlaanderen ter   beschikking gestelde digitaal systeem, en hierbij de termijnen van de   procedures, vermeld in dit decreet, opschorten of verlengen voor de duur van de   technische storingen.
 
 ## Afdeling 1 Algemene bepalingen
+
+### ART. 16.
+
+<p>§ 1. In iedere provincie wordt een provinciale omgevingsvergunningscommissie opgericht die het college van burgemeester en schepenen en de deputatie advies verleent in de gevallen die door de Vlaamse Regering worden bepaald.</p>
+
+<p>Er wordt een gewestelijke omgevingsvergunningscommissie opgericht die de Vlaamse Regering advies verleent in de gevallen die door de Vlaamse Regering worden bepaald.</p>
+
+<p>§ 2. De commissies zijn samengesteld uit een voorzitter, een secretaris, deskundigen en vertegenwoordigers van de instanties die bevoegd zijn om advies te geven. Het betrokken college van burgemeester en schepenen of de gemeentelijke omgevingsambtenaar maakt deel uit van de commissies met raadgevende stem behalve als de te behandelen aanvraag of het te behandelen beroep van het college uitgaat.</p>
+
+<p>De deputatie en de Vlaamse Regering wijzen de voorzitter, de secretaris en de deskundigen aan die in de provinciale respectievelijk de gewestelijke omgevingsvergunningscommissie zetelen.</p>
+
+<p>De provinciale en de gewestelijke omgevingsvergunningscommissie beschikken elk over een permanent secretariaat.</p>
+
+<p>§ 3. De Vlaamse Regering bepaalt de verdere regels voor de samenstelling en de werking van de provinciale en de gewestelijke omgevingsvergunningscommissie.</p>
 
 ## Afdeling 1 Algemene bepalingen
 
