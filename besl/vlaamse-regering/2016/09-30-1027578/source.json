@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027578,
+  "title": "Besluit van de Vlaamse Regering van 2016-09-30 houdende gedeeltelijke herverdeling van de provisie CB0 -1CB-B-2-AB -PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027578/VolledigDocument?datum=2016-11-28",
+  "source_sha256": "65cb48a4e34bc05a32460c5e88383655e5e1a9a44bf033ddedd6ec7fd6e6f72c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027578&param=informatie",
+  "as_of": "2016-11-28",
+  "made": "2016-09-30",
+  "gazette": "2016-11-18",
+  "numac": 2016036543,
+  "document_start": "2016-11-28",
+  "document_end": null,
+  "in_force": "2016-11-28",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-11-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
