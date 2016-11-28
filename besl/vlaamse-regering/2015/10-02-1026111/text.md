@@ -20,7 +20,7 @@ Voor   de toegang tot en het gebruik van de grootschalige referentiegegevens die
 
 ### ART. 4.
 
-Voor   het hergebruik van de grootschalige referentiegegevens die in het GRB zijn   opgenomen, conform het decreet van 12 juni 2015 betreffende het hergebruik van   overheidsinformatie, gelden de toegangs- en gebruiksvoorwaarden, vermeld in de   licentie, die is opgenomen in de bijlage die bij dit besluit is   gevoegd.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Voor het hergebruik van de grootschalige referentiegegevens die in het GRB zijn opgenomen, conform het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie, wordt de modellicentie voor gratis hergebruik, vermeld in artikel 7, 2°, van het besluit van de Vlaamse Regering van 16 september 2016 tot uitvoering van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie en tot bepaling van de kosteloze uitwisseling van bestuursdocumenten tussen instanties, vermeld in artikel 7/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, gehanteerd.
 
 ### ART. 5.
 
