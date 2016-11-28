@@ -2,16 +2,16 @@
   "codex_id": 1016300,
   "title": "Besluit van de Vlaamse Regering van 2007-07-19 betreffende het hergebruik van overheidsinformatie bij de diverse departementen binnen de Vlaamse ministeries en bij de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016300/VolledigDocument?datum=2007-11-05",
-  "source_sha256": "bc657926814a1e0de3206f83ab3b083b96555ae9ce637004043a740033629b7a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016300/VolledigDocument?datum=2016-11-28",
+  "source_sha256": "abfbc40a7d8be6245fefeb0facf46061fbbead748d04d3a9838dfea5b8325e83",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016300&param=informatie",
-  "as_of": "2007-11-05",
+  "as_of": "2016-11-28",
   "made": "2007-07-19",
   "gazette": "2007-11-05",
   "numac": 2007036439,
   "document_start": "2007-11-05",
   "document_end": "2016-11-28",
-  "in_force": "2007-11-05",
+  "in_force": "2016-11-28",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2007-11-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-11-28; future article versions excluded; article text as the API gives it"
 }

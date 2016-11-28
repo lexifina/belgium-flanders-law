@@ -21,16 +21,16 @@ Besluit :<br>
 
 ### ART. 1.
 
-Voor de diverse departementen binnen de Vlaamse ministeries en voor de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid geldt dat het hergebruik van bestuursdocumenten, in de zin van artikel 2 van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie, is toegestaan.<br /><br />De beslissing over een concrete aanvraag tot hergebruik van overheidsinformatie, vermeld in hoofdstuk III van voormeld decreet van 27 april 2007, wordt genomen door een bevoegd leidinggevend personeelslid van de Vlaamse overheid die met die overheidsinformatie vertrouwd is, onverminderd de mogelijkheid tot delegatie. <br /><br />
+...
 
 ### ART. 2.
 
-De minister bevoegd voor het Algemeen Communicatiebeleid stelt een modellicentie op die door de departementen binnen de diverse ministeries en de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid als leidraad gehanteerd kan worden om voorwaarden op te leggen bij het hergebruik van bestuursdocumenten.<br /><br />
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op de datum van de inwerkingtreding van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie.<br /><br />
+...
 
 ### ART. 4.
 
-De minister-president, bevoegd voor het Algemeen Communicatiebeleid en de Vlaamse minister, bevoegd voor het Algemeen Beleid inzake Personeel en Organisatieontwikkeling zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.<br /><br />
+...
