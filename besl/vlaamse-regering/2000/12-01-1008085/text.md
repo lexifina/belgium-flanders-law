@@ -1156,7 +1156,20 @@ XI 8. In afwijking van het voorgaande artikel is het statutaire personeelslid da
 
 ### ART. XI 9.
 
-§ 1. De statutaire personeelsleden genieten jaarlijkse vakantiedagen   waarvan vijf werkdagen op-eenvolgend genomen dienen te worden en waarvan het   aantal naar gelang van hun leeftijd als volgt wordt bepaald:<BR>1° minder dan   vijfenveertig jaar: 26&nbsp;werkdagen;<BR>2° van vijfenveertig tot   negenenveertig jaar: 27&nbsp;werkdagen;<BR>3° vanaf vijftig jaar:   28&nbsp;werkdagen.<BR><BR>Voor het bepalen van het aantal vakantiedagen wordt de   leeftijd in aanmerking genomen die het statutaire personeelslid bereikt in de   loop van het dienstjaar.<BR><BR>§ 2. Onverminderd § 1 worden de vakantiedagen   genomen naar keuze van het statutaire personeelslid doch met inachtneming van de   behoeften van de dienst.<BR><BR>§ 3. De jaarlijkse vakantiedagen moeten worden   opgenomen voor het einde van de kerstvakantie in het onderwijs, met uitzondering   van vijf vakantiedagen die mogen worden overgedragen naar het volgende   dienstjaar, op voorwaarde dat zij worden opgenomen voor het einde van de   paasvakantie in het onderwijs.<BR><BR>Onverminderd de toepassing van het eerste   lid, worden de vakantiedagen die niet konden worden opgenomen in het lopend   dienstjaar ingevolge ziekte, beroepsziekte of arbeidsongeval van het statutaire   personeelslid, volledig overgedragen naar het volgend dienstjaar.<BR><BR>Ingeval   het statutaire personeelslid door ziekte, beroepsziekte of arbeidsongeval zijn   vakantiedagen niet heeft kunnen opnemen vóór de pensionering, worden de   bepalingen van artikel XIII 41bis toegepast.
+§ 1. De statutaire personeelsleden genieten jaarlijkse vakantiedagen waarvan vijf werkdagen op-eenvolgend genomen dienen te worden en waarvan het aantal naar gelang van hun leeftijd als volgt wordt bepaald:<br>
+1° minder dan vijfenveertig jaar: 26&nbsp;werkdagen;<br>
+2° van vijfenveertig tot negenenveertig jaar: 27&nbsp;werkdagen;<br>
+3° vanaf vijftig jaar: 28&nbsp;werkdagen.<br>
+<br>
+Voor het bepalen van het aantal vakantiedagen wordt de leeftijd in aanmerking genomen die het statutaire personeelslid bereikt in de loop van het dienstjaar.<br>
+<br>
+§ 2. Onverminderd § 1 worden de vakantiedagen genomen naar keuze van het statutaire personeelslid doch met inachtneming van de behoeften van de dienst.<br>
+<br>
+§ 3. Het statutaire personeelslid kan maximaal elf werkdagen als vermeld in paragraaf 1 en artikel XI 11, jaarlijks geheel of gedeeltelijk opsparen en in overleg met zijn hiërarchische meerdere aanwenden in een van de volgende kalenderjaren, uiterlijk vóór zijn pensionering.<br>
+<br>
+Onverminderd de toepassing van het eerste lid, worden de vakantiedagen die niet konden worden opgenomen in het lopend dienstjaar ingevolge ziekte, beroepsziekte of arbeidsongeval van het statutaire personeelslid, volledig overgedragen naar het volgend dienstjaar.<br>
+<br>
+Ingeval het statutaire personeelslid door ziekte, beroepsziekte of arbeidsongeval zijn vakantiedagen niet heeft kunnen opnemen vóór de pensionering, worden de bepalingen van artikel XIII 41bis toegepast.
 
 ### ART. XI 10.
 
