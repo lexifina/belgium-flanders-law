@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031538,
+  "title": "Besluit van de Vlaamse Regering van 2019-01-18 tot wijziging van het besluit van de Vlaamse Regering van 18 november 2016 houdende de uitvoering van het decreet van 25 april 2014 betreffende de organisatie van het netwerk voor de gegevensdeling tussen de actoren in de zorg, wat betreft de vergoedingen van de leden van de raad van bestuur, de regeringsafgevaardigden, de leden van een overlegcomité en de deskundigen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031538/VolledigDocument?datum=2016-12-01",
+  "source_sha256": "165305cad9c7be4b4981a83d187bb1b8a75f0d7c31681de7bbab62629cdbcdbd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031538&param=informatie",
+  "as_of": "2016-12-01",
+  "made": "2019-01-18",
+  "gazette": "2019-04-12",
+  "numac": 2019040771,
+  "document_start": "2016-12-01",
+  "document_end": null,
+  "in_force": "2016-12-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
