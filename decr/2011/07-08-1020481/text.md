@@ -16,7 +16,89 @@ Voor de toepassing van dit decreet wordt verstaan onder :<BR>1°   Algemenebepal
 
 ### ART. 4.
 
-§ 1. Dit decreet is van toepassing op :<BR><BR>1° wat de Vlaamse   Gemeenschap en het Vlaamse Gewest betreft : de Vlaamse ministeries en de   diensten met afzonderlijk beheer; <BR><BR>2° de volgende   rechtspersonen:<BR><BR>a) intern verzelfstandigde agentschappen met   rechtspersoonlijkheid:<BR>1) Agentschap ter bevordering van de Lichamelijke   Ontwikkeling, de Sport en de Openluchtrecreatie - Bloso;<BR>2) Fonds   Jongerenwelzijn;<BR>3) Kind en Gezin;<BR>4) Openbare Vlaamse   Afvalstoffenmaatschappij - OVAM;<BR>5) Toerisme Vlaanderen;<BR>6) Vlaams   Agentschap voor Personen met een Handicap - VAPH;<BR>7) Vlaams   Infrastructuurfonds voor Persoonsgebonden Aangelegenheden - VIPA;<BR>8) Vlaams   Toekomstfonds;<BR>9) Vlaams Zorgfonds;<BR>10) Vlaamse Milieumaatschappij -   VMM;<BR><BR>b) extern verzelfstandigde agentschappen naar publiek recht:<BR>1)   ...;<BR>2) Agentschap voor Infrastructuur in het Onderwijs - AGIOn;<BR>3) nv De   Scheepvaart;<BR>4) ...;<BR>5) Luchthavenontwikkelingsmaatschappij   Oostende-Brugge;<BR>6) Luchthavenontwikkelingsmaatschappij   Kortrijk-Wevelgem;<BR>7) Luchthavenontwikkelingsmaatschappij Antwerpen;<BR>8)   Psychiatrisch Zorgcentrum Geel;<BR>9) Psychiatrisch Zorgcentrum Rekem;<BR>10)   Vlaams Agentschap voor Internationaal Ondernemen - FIT;<BR>11) Vlaams Agentschap   voor Ondernemersvorming - Syntra Vlaanderen;<BR>12) Vlaamse Dienst voor   Arbeidsbemiddeling en Beroepsopleiding - VDAB;<BR>13) Vlaamse Maatschappij voor   Sociaal Wonen - VMSW;<BR>14) Vlaamse Landmaatschappij - VLM;<BR>15) Vlaamse   Regulator voor de Media - VRM;<BR>16) Vlaamse Reguleringsinstantie voor de   Elektriciteits- en Gasmarkt - VREG;<BR>17) Vlaamse Vervoermaatschappij - De   Lijn;<BR>18) Waterwegen en Zeekanaal NV;<BR>19) Agentschap Plantentuin   Meise;<BR><BR>c) Vlaamse openbare instellingen van het type A:<BR>1) Fonds   Flankerend Economisch Beleid - Hermes;<BR>2) Financieringsinstrument voor de   Vlaamse Visserij- en Aquicultuursector - FIVA;<BR>3) Fonds Culturele   Infrastructuur - FoCI;<BR>4) Financieringsfonds voor Schuldafbouw en Eenmalige   Investeringsuitgaven - FFEU;<BR>5) Garantiefonds Huisvesting;<BR>6)   Grindfonds;<BR>7) Vlaams Financieringsfonds voor Grond- en Woonbeleid voor   Vlaams-Brabant;<BR>8) Pendelfonds;<BR>9) Rubiconfonds;<BR>10)   Topstukkenfonds;<BR>11) Vlaams Brusselfonds;<BR>12) Vlaams Fonds voor de   Lastendelging - VFLD;<BR>13) Vlaams Landbouwinvesteringsfonds - VLIF;<BR><BR>d)   Vlaamse openbare instellingen van het type B:<BR>1) Universitair Ziekenhuis   Gent;<BR>2) Vlaamse Maatschappij voor Watervoorziening - de   Watergroep;<BR><BR>e) Vlaamse openbare instellingen sui generis:<BR>1) Vlaams   Fonds voor de Letteren - VFL;<BR>2) Vlaamse Radio en Televisie - VRT;<BR>3) nv   Vlaamse Instelling voor Technologisch Onderzoek - VITO;<BR><BR>f) eigen   vermogens:<BR>1) Eigen vermogen Instituut voor Landbouw- en Visserijonderzoek -   ILVO;<BR>2) Eigen vermogen Flanders Hydraulics;<BR>3) Eigen vermogen Instituut   voor Natuur- en Bosonderzoek - INBO;<BR>4) Ondersteunend centrum van het   Agentschap voor Natuur en Bos - ANB;<BR>5) Eigen Vermogen Informatie Vlaanderen   - AIV.<BR><BR>g) strategische adviesraden:<BR>1) Milieu- en Natuurraad van   Vlaanderen - Minaraad;<BR>2) Mobiliteitsraad van Vlaanderen - MORA;<BR>3)   Sociaal-Economische Raad van Vlaanderen - SERV;<BR>4) Strategische Adviesraad   Welzijn, Gezondheid en Gezin - SAR WGG;<BR>5) Strategische Adviesraad   Ruimtelijke Ordening - Onroerend Erfgoed - SARO;<BR>6) Vlaamse Onderwijsraad -   Vlor;<BR>7) Vlaamse Raad voor Wetenschap en Innovatie - VRWI;.<BR><BR>§ 2.   Artikel 37, § 1, artikel 46, § 2, artikel 48, en artikel 50, § 2, zijn ook van   toepassing op alle andere rechtspersonen dan deze die vermeld worden in   paragraaf 1 als die, in overeenstemming met het Europees systeem van nationale   en regionale rekeningen, vermeld in verordening (EG) nr. 2223/96 van de Raad van   25 juni 1996 betreffende het Europees systeem van de nationale en regionale   rekeningen in de gemeenschap, deel uitmaken van de Vlaamse deel-staatoverheid   door onder sectorale code 13.12 te ressorteren.<BR><BR>§ 3. Jaarlijks wordt de   lijst van Vlaamse rechtspersonen die bedoeld wordt onder paragraaf 2 opgenomen   in het begrotingsdecreet.
+<p>§ 1. Dit decreet is van toepassing op :<br>
+<br>
+1° wat de Vlaamse Gemeenschap en het Vlaamse Gewest betreft : de Vlaamse ministeries en de diensten met afzonderlijk beheer;&nbsp;<br>
+<br>
+2° de volgende rechtspersonen:<br>
+<br>
+a) intern verzelfstandigde agentschappen met rechtspersoonlijkheid:<br>
+1) Agentschap ter bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie - Bloso;<br>
+2) Fonds Jongerenwelzijn;<br>
+3) Kind en Gezin;<br>
+4) Openbare Vlaamse Afvalstoffenmaatschappij - OVAM;<br>
+5) Toerisme Vlaanderen;<br>
+6) Vlaams Agentschap voor Personen met een Handicap - VAPH;<br>
+7) Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden - VIPA;<br>
+8) Vlaams Toekomstfonds;<br>
+9) Vlaams Zorgfonds;<br>
+10) Vlaamse Milieumaatschappij - VMM;<br>
+<br>
+b) extern verzelfstandigde agentschappen naar publiek recht:<br>
+1) ...;<br>
+2) Agentschap voor Infrastructuur in het Onderwijs - AGIOn;<br>
+3) nv De Scheepvaart;<br>
+4) ...;<br>
+5) Luchthavenontwikkelingsmaatschappij Oostende-Brugge;<br>
+6) Luchthavenontwikkelingsmaatschappij Kortrijk-Wevelgem;<br>
+7) Luchthavenontwikkelingsmaatschappij Antwerpen;<br>
+8) Psychiatrisch Zorgcentrum Geel;<br>
+9) Psychiatrisch Zorgcentrum Rekem;<br>
+10) Vlaams Agentschap voor Internationaal Ondernemen - FIT;<br>
+11) Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br>
+- Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg<br>
+12) Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding - VDAB;<br>
+13) Vlaamse Maatschappij voor Sociaal Wonen - VMSW;<br>
+14) Vlaamse Landmaatschappij - VLM;<br>
+15) Vlaamse Regulator voor de Media - VRM;<br>
+16) Vlaamse Reguleringsinstantie voor de Elektriciteits- en Gasmarkt - VREG;<br>
+17) Vlaamse Vervoermaatschappij - De Lijn;<br>
+18) Waterwegen en Zeekanaal NV;<br>
+19) Agentschap Plantentuin Meise;<br>
+<br>
+c) Vlaamse openbare instellingen van het type A:<br>
+1) Fonds Flankerend Economisch Beleid - Hermes;<br>
+2) Financieringsinstrument voor de Vlaamse Visserij- en Aquicultuursector - FIVA;<br>
+3) Fonds Culturele Infrastructuur - FoCI;<br>
+4) Financieringsfonds voor Schuldafbouw en Eenmalige Investeringsuitgaven - FFEU;<br>
+5) Garantiefonds Huisvesting;<br>
+6) Grindfonds;<br>
+7) Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant;<br>
+8) Pendelfonds;<br>
+9) Rubiconfonds;<br>
+10) Topstukkenfonds;<br>
+11) Vlaams Brusselfonds;<br>
+12) Vlaams Fonds voor de Lastendelging - VFLD;<br>
+13) Vlaams Landbouwinvesteringsfonds - VLIF;<br>
+<br>
+d) Vlaamse openbare instellingen van het type B:<br>
+1) Universitair Ziekenhuis Gent;<br>
+2) Vlaamse Maatschappij voor Watervoorziening - de Watergroep;<br>
+<br>
+e) Vlaamse openbare instellingen sui generis:<br>
+1) Vlaams Fonds voor de Letteren - VFL;<br>
+2) Vlaamse Radio en Televisie - VRT;<br>
+3) nv Vlaamse Instelling voor Technologisch Onderzoek - VITO;<br>
+<br>
+f) eigen vermogens:<br>
+1) Eigen vermogen Instituut voor Landbouw- en Visserijonderzoek - ILVO;<br>
+2) Eigen vermogen Flanders Hydraulics;<br>
+3) Eigen vermogen Instituut voor Natuur- en Bosonderzoek - INBO;<br>
+4) Ondersteunend centrum van het Agentschap voor Natuur en Bos - ANB;<br>
+5) Eigen Vermogen Informatie Vlaanderen - AIV<br>
+<br>
+g) strategische adviesraden:<br>
+1) Milieu- en Natuurraad van Vlaanderen - Minaraad;<br>
+2) Mobiliteitsraad van Vlaanderen - MORA;<br>
+3) Sociaal-Economische Raad van Vlaanderen - SERV;<br>
+4) Strategische Adviesraad Welzijn, Gezondheid en Gezin - SAR WGG;<br>
+5) Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed - SARO;<br>
+6) Vlaamse Onderwijsraad - Vlor;<br>
+7) Vlaamse Raad voor Wetenschap en Innovatie - VRWI;.<br>
+<br>
+§ 2. Artikel 37, § 1, artikel 46, § 2, artikel 48, en artikel 50, § 2, zijn ook van toepassing op alle andere rechtspersonen dan deze die vermeld worden in paragraaf 1 als die, in overeenstemming met het Europees systeem van nationale en regionale rekeningen, vermeld in verordening (EG) nr. 2223/96 van de Raad van 25 juni 1996 betreffende het Europees systeem van de nationale en regionale rekeningen in de gemeenschap, deel uitmaken van de Vlaamse deel-staatoverheid door onder sectorale code 13.12 te ressorteren.<br>
+<br>
+§ 3. Jaarlijks wordt de lijst van Vlaamse rechtspersonen die bedoeld wordt onder paragraaf 2 opgenomen in het begrotingsdecreet.</p>
 
 ### ART. 5.
 
