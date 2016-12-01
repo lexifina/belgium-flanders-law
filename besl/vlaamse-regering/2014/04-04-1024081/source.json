@@ -2,16 +2,16 @@
   "codex_id": 1024081,
   "title": "Besluit van de Vlaamse Regering van 2014-04-04 tot vaststelling van de regels betreffende een eenmalige subsidie aan de gemeenten in het kader van het digitaliseren van het ruimtelijke vergunningenbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024081/VolledigDocument?datum=2014-05-18",
-  "source_sha256": "c50053e7793b5eb22a353ea9205ecef83e776cd344403835ef9f81bb63d9bcf6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024081/VolledigDocument?datum=2016-12-01",
+  "source_sha256": "42960b3f287c7b1ae4af3cc7682d9d759f87812cedff98a1288f5fbac9a084e4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024081&param=informatie",
-  "as_of": "2014-05-18",
+  "as_of": "2016-12-01",
   "made": "2014-04-04",
   "gazette": "2014-05-08",
   "numac": 2014035505,
   "document_start": "2014-05-18",
   "document_end": "2016-12-01",
-  "in_force": "2014-05-18",
+  "in_force": "2016-12-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2014-05-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-12-01; future article versions excluded; article text as the API gives it"
 }
