@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027710,
+  "title": "Besluit van de Vlaamse Regering van 2016-11-18 houdende de uitvoering van het decreet van 25 april 2014 betreffende de organisatie van het netwerk voor de gegevensdeling tussen de actoren in de zorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027710/VolledigDocument?datum=2016-12-01",
+  "source_sha256": "adc0c42d37e9eee929d722a911ffef7280d66965ddd2f5d9d129b633b8d2bcf0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027710&param=informatie",
+  "as_of": "2016-12-01",
+  "made": "2016-11-18",
+  "gazette": "2017-01-09",
+  "numac": 2016036675,
+  "document_start": "2016-12-01",
+  "document_end": null,
+  "in_force": "2016-12-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2016-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
