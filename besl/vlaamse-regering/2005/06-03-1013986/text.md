@@ -168,7 +168,22 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 23.
 
-§ 1. Voor het beleidsdomein Welzijn, Volksgezondheid en Gezin wordt het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin opgericht, dat bestaat uit het gelijknamige departement en drie agentschappen zonder rechtspersoonlijkheid : <br />1° Zorg en Gezondheid; <br />2° Jongerenwelzijn; <br />3° Zorginspectie. <br /><br />§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Welzijn, Volksgezondheid en Gezin behoren, zijn : <br />1° Openbaar Psychiatrisch Zorgcentrum Geel; <br />2° Openbaar Psychiatrisch Zorgcentrum Rekem; <br />3° Kind en Gezin; <br />4° Vlaams Agentschap voor Personen met een Handicap; <br />5° Vlaams Zorgfonds; <br />6° Fonds Jongerenwelzijn; <br />7° Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden.<br /><br />§ 3. De strategische adviesraad die tot het beleidsdomein Welzijn, Volksgezondheid en Gezin behoort, is de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid.
+§ 1. Voor het beleidsdomein Welzijn, Volksgezondheid en Gezin wordt het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin opgericht, dat bestaat uit het gelijknamige departement en drie agentschappen zonder rechtspersoonlijkheid :<br>
+1° Zorg en Gezondheid;<br>
+2° Jongerenwelzijn;<br>
+3° Zorginspectie.<br>
+<br>
+§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Welzijn, Volksgezondheid en Gezin behoren, zijn :<br>
+1° Openbaar Psychiatrisch Zorgcentrum Geel;<br>
+2° Openbaar Psychiatrisch Zorgcentrum Rekem;<br>
+3° Kind en Gezin;<br>
+4° Vlaams Agentschap voor Personen met een Handicap;<br>
+5° Vlaams Zorgfonds;<br>
+6° Fonds Jongerenwelzijn;<br>
+7° Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
+9° Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg.<br>
+<br>
+§ 3. De strategische adviesraad die tot het beleidsdomein Welzijn, Volksgezondheid en Gezin behoort, is de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid.
 
 ### ART. 24.
 
