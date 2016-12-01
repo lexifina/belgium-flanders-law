@@ -2,16 +2,16 @@
   "codex_id": 1014930,
   "title": "Decreet van 2006-06-16 betreffende het gezondheidsinformatiesysteem",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014930/VolledigDocument?datum=2009-12-01",
-  "source_sha256": "0df0c602bf8349723ef1a740c37bf4e64428c09be173d7a7843d6259a3b00b79",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014930/VolledigDocument?datum=2016-12-01",
+  "source_sha256": "f7749bd34543f0074b3c7f50b9e9de707126f9b13eefb351f27fd671287a9b9a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014930&param=informatie",
-  "as_of": "2009-12-01",
+  "as_of": "2016-12-01",
   "made": "2006-06-16",
   "gazette": "2006-09-07",
   "numac": 2006036321,
   "document_start": "2009-01-01",
   "document_end": "2016-12-01",
-  "in_force": "2009-12-01",
+  "in_force": "2016-12-01",
   "article_versions": 89,
-  "record_form": "consolidated version as in force on 2009-12-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-12-01; future article versions excluded; article text as the API gives it"
 }
