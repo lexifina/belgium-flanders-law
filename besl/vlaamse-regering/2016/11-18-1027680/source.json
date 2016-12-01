@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027680,
+  "title": "Besluit van de Vlaamse Regering van 2016-11-18 tot regeling van de structurele financiering van partnerships van ondernemersorganisaties, gemengde kamers van koophandel en samenwerkingsverbanden met het Vlaams Agentschap voor Internationaal Ondernemen met het oog op de verdere internationalisering van de Vlaamse economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027680/VolledigDocument?datum=2016-12-01",
+  "source_sha256": "04699de64d16020845115c79fa4cbd7f65fb1b207730960b68eb287211b8a1de",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027680&param=informatie",
+  "as_of": "2016-12-01",
+  "made": "2016-11-18",
+  "gazette": "2016-12-27",
+  "numac": 2016036628,
+  "document_start": "2016-12-01",
+  "document_end": null,
+  "in_force": "2016-12-01",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2016-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
