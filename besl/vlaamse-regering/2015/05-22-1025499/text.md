@@ -95,11 +95,19 @@ De   organisator voldoet aan de volgende voorwaarden :<BR   style="WIDOWS: 1; TE
 
 ## [HOOFDSTUK 5/1 Verlenging van het project (ing. BVR 24 februari 2017, art. 1, I: 1 december 2016)]
 
+### ART 16/1.
+
+Het project en de bijbehorende subsidie, vermeld in dit besluit, wordt verlengd voor een periode van twee jaar, meer bepaald loopt de verlenging van 1 januari 2017 tot en met 31 december 2018. Tijdens de verlenging van het project gelden de voorwaarden, vermeld in artikel 2, 4, 5, 12 tot en met 16.<br>
+<br>
+De organisator die voor het project, vermeld in dit besluit, een subsidie ontvangt op 31 december 2016, kan een verlenging van het project en de bijbehorende subsidie krijgen tot en met 31 december 2018.<br>
+<br>
+De verlenging van het project en de bijbehorende subsidie kan gevraagd worden via een melding aan Kind en Gezin. Die melding gebeurt elektronisch en volgens de administratieve richtlijnen van Kind en Gezin.
+
 ## HOOFDSTUK 6 Slotbepalingen
 
 ### ART. 17.
 
-&nbsp;Dit besluit heeft uitwerking met ingang   van 1 september 2014 en houdt op uitwerking te hebben op 31 december   2016.
+&nbsp;Dit besluit heeft uitwerking met ingang van 1 september 2014 en houdt op uitwerking te hebben op 31 december 2018.
 
 ### ART. 18.
 
