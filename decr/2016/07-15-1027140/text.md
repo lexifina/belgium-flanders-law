@@ -142,6 +142,22 @@ In artikel 14, § 1, van hetzelfde decreet wordt in punt 3° het woord "vzw" ver
 
 ## HOOFDSTUK 4. Netwerk voor de gegevensdeling tussen de actoren in de zorg
 
+### ART 57.
+
+In artikel 32 van het decreet van 25 april 2014 betreffende de organisatie van het netwerk voor de gegevensdeling tussen de actoren in de zorg worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"Het Agentschap wordt bestuurd door een raad van bestuur, samengesteld uit:<br>
+1° vierentwintig leden met aantoonbare deskundigheid, met inbegrip van een voorzitter en een ondervoorzitter, van wie:<br>
+a) vijf vertegenwoordigers van voorzieningen;<br>
+b) vier vertegenwoordigers van zorggebruikers;<br>
+c) vier vertegenwoordigers van zorgverleners en hulpverleners die bij een voorziening werken, onder wie minstens één vertegenwoordiger van de artsen;<br>
+d) vier vertegenwoordigers van zorgverleners en hulpverleners die niet in een voorziening werken, onder wie minstens twee vertegenwoordigers van de artsen;<br>
+e) twee vertegenwoordigers van de sociale partners;<br>
+f) vijf vertegenwoordigers van de ziekenfondsen en de zorgkassen;<br>
+2° vier onafhankelijke bestuurders met aantoonbare deskundigheid.";<br>
+2° een vierde lid wordt toegevoegd, dat luidt als volgt:<br>
+"Op de raad van bestuur zijn de bepalingen van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector van toepassing, met uitzondering van artikel 4 van dat decreet.".
+
 ## HOOFDSTUK 5. Bijzondere jeugdbijstand
 
 ## Afdeling 1. Wijzigingen van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand
