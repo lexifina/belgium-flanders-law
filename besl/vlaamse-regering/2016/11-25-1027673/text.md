@@ -25,6 +25,12 @@ Na beraadslaging,<br>
 Besluit :<br>
 &nbsp;
 
+### ART 1.
+
+In artikel XI 9, § 3, van het besluit van de Vlaamse Regering van 1 december 2000 houdende organisatie van de Vlaamse Maatschappij voor Watervoorziening en de regeling van de rechtspositie van het personeel, ingevoegd bij het besluit van de Vlaamse Regering van 30 oktober 2015, wordt het eerste lid vervangen door wat volgt:<br>
+"Het statutaire personeelslid kan maximaal elf werkdagen als vermeld in paragraaf 1 en artikel XI 11, jaarlijks geheel of gedeeltelijk opsparen en in overleg met zijn hiërarchische meerdere aanwenden in een van de volgende kalenderjaren, uiterlijk vóór zijn pensionering.".<br>
+&nbsp;
+
 ### ART 6.
 
 In artikel XIII 66 van hetzelfde besluit wordt de zinsnede "van 1/1976" vervangen door de zinsnede "van 1/1924".<br>
