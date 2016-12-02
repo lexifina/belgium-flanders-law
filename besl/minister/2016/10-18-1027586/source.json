@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027586,
+  "title": "Ministerieel besluit van 2016-10-18 tot wijziging van het ministerieel besluit van 16 maart 2016 tot vaststelling van de faunabeheerzones",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027586/VolledigDocument?datum=2016-12-02",
+  "source_sha256": "06166328d2681b95536aa0224896c6b6f2a2ab49e101223ff4eb73bdf3118e96",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027586&param=informatie",
+  "as_of": "2016-12-02",
+  "made": "2016-10-18",
+  "gazette": "2016-11-22",
+  "numac": 2016036535,
+  "document_start": "2016-12-02",
+  "document_end": null,
+  "in_force": "2016-12-02",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-12-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
