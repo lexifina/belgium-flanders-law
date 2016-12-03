@@ -2,16 +2,16 @@
   "codex_id": 1023111,
   "title": "Besluit van de Vlaamse Regering van 2013-04-26 tot vaststelling van het geactualiseerde monitoringprogramma van de watertoestand ter uitvoering van artikel [1.7.5.1 en 1.7.5.3 (verv. BVR 26 april 2019, art. 115, I: 1 januari 2019)] van het decreet van 18 juli 2003 betreffende het integraal waterbeleid[, gecoördineerd op 15 juni 2018 (ing. BVR 26 april 2019, art. 115, I: 1 januari 2019)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023111/VolledigDocument?datum=2015-12-11",
-  "source_sha256": "2f03f6c6d513ac98af3163c4a998444e3988ef0451f133ec0bcf03341653e3be",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023111/VolledigDocument?datum=2016-12-03",
+  "source_sha256": "59931d79864871869edf1e7bd006991a8e6a657f14c4f3857add6014c560c62d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023111&param=informatie",
-  "as_of": "2015-12-11",
+  "as_of": "2016-12-03",
   "made": "2013-04-26",
   "gazette": "2013-07-23",
   "numac": 2013035611,
   "document_start": "2013-08-02",
   "document_end": null,
-  "in_force": "2015-12-11",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2015-12-11; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-12-03",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2016-12-03; future article versions excluded; article text as the API gives it"
 }
