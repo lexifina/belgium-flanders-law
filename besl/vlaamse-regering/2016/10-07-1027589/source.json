@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027589,
+  "title": "Besluit van de Vlaamse Regering van 2016-10-07 tot wijziging van het besluit van de Vlaamse Regering van 26 april 2013 tot vaststelling van het geactualiseerde monitoringprogramma van de watertoestand ter uitvoering van artikel 67 en 69 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, wat betreft de omzetting van Richtlijn 2014/101/EU",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027589/VolledigDocument?datum=2016-12-03",
+  "source_sha256": "96b211b3e31a83b69649c95c928725269d776079458ce42b17f015020565ec3f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027589&param=informatie",
+  "as_of": "2016-12-03",
+  "made": "2016-10-07",
+  "gazette": "2016-11-23",
+  "numac": 2016036538,
+  "document_start": "2016-12-03",
+  "document_end": null,
+  "in_force": "2016-12-03",
+  "article_versions": 41,
+  "record_form": "consolidated version as in force on 2016-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
