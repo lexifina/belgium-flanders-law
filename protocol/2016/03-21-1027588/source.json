@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027588,
+  "title": "Protocol van 2016-03-21 Actieplan e-Gezondheid 2.0. - Corrigendum actiepunt 15",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027588/VolledigDocument?datum=2016-12-03",
+  "source_sha256": "517cd78fce9f305c6221d2197a1846ebe553a3b4b8ef5529e1cd1627e5f7ce39",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027588&param=informatie",
+  "as_of": "2016-12-03",
+  "made": "2016-03-21",
+  "gazette": "2016-11-23",
+  "numac": 2016024208,
+  "document_start": "2016-12-03",
+  "document_end": null,
+  "in_force": "2016-12-03",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
