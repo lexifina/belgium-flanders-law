@@ -36,7 +36,9 @@ Kind   en Gezin kent een attest van toezicht of een erkenning toe als :<BR   sty
 
 ### ART. 5.
 
-<P>Kind en Gezin kan bij de beoordeling van de vraag of voldaan is   aan de voorwaarden om een erkenning of een attest van toezicht te krijgen,   rekening houden met de gegevens die blijken uit het dossier en uit inspectie ter   plaatse, evenals met andere elementen die een gegronde indicatie vormen van het   gegeven of de organisator aan de voorwaarden voldoet of zal kunnen voldoen.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   Kind en Gezin het voornemen heeft om de erkenning of het attest van toezicht te   weigeren op basis van een gegronde indicatie als vermeld in het eerste lid,   wordt de organisator gehoord. De termijn, vermeld in artikel 22, wordt   geschorst.</P>
+<p>Kind en Gezin kan bij de beoordeling van de vraag of voldaan is aan de voorwaarden om een erkenning of een attest van toezicht te krijgen, rekening houden met de gegevens die blijken uit het dossier en uit inspectie ter plaatse, evenals met andere elementen die een gegronde indicatie vormen van&nbsp;het gegeven dat de organisator niet aan de voorwaarden voldoet of zal kunnen voldoen.</p>
+
+<p>Als Kind en Gezin het voornemen heeft om de erkenning of het attest van toezicht te weigeren op basis van een gegronde indicatie als vermeld in het eerste lid, wordt de organisator gehoord. De termijn, vermeld in artikel 22, wordt geschorst.</p>
 
 ### ART. 6.
 
@@ -64,7 +66,14 @@ De   aanvraag van een attest van toezicht voor vakantieopvang wordt ingediend me
 
 ### ART. 11.
 
-Naast het aanvraagformulier, vermeld in artikel 9 en 10,   bezorgt de organisator de volgende documenten, met de post of elektronisch,   volgens de administratieve richtlijnen van Kind en Gezin :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   voor een erkenning of een attest van toezicht voor groepsopvang   :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   het brandveiligheidsattest A of B;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   het uittreksel uit het strafregister, model 2, of een gelijkwaardig attest voor   de verantwoordelijke, vermeld in artikel 33, § 1, eerste lid, 2°, van het   Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   voor een erkenning of een attest van toezicht voor gezinsopvang :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   het document, vermeld in punt 1°, b);<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   het uittreksel uit het strafregister, model 2, of een gelijkwaardig attest voor   de kinderbegeleider, vermeld in artikel 38, § 1, eerste lid, 2°, van het   Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   voor een attest van toezicht voor vakantieopvang : het document, vermeld in punt   1°, b).
+Naast het aanvraagformulier, vermeld in artikel 9 en 10, bezorgt de organisator de volgende documenten, met de post of elektronisch, volgens de administratieve richtlijnen van Kind en Gezin :<br>
+1° voor een erkenning of een attest van toezicht voor groepsopvang :<br>
+a) het brandveiligheidsattest A of B;<br>
+b) het uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, of een gelijkwaardig attest voor de verantwoordelijke, vermeld in artikel 33, § 1, eerste lid, 2°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+2° voor een erkenning of een attest van toezicht voor gezinsopvang :<br>
+a) het document, vermeld in punt 1°, b);<br>
+b) het uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, of een gelijkwaardig attest voor de kinderbegeleider, vermeld in artikel 38, § 1, eerste lid, 2°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+3° voor een attest van toezicht voor vakantieopvang : het document, vermeld in punt 1°, b).
 
 ### ART. 12.
 
@@ -81,6 +90,18 @@ De   aanvraag van een aanpassing van de erkenning of het attest van toezicht voo
 Naast het aanvraagformulier, vermeld in artikel 13, bezorgt   de organisator met een erkenning of een attest van toezicht voor groepsopvang   het brandveiligheidsattest A of B.
 
 ## [Afdeling 2/1. De aanvraag van een erkenning of een attest van toezicht bij wijziging van de organisator (ing. BVR 21 oktober 2016, art. 29, I: 4 december 2016)]
+
+### ART 14/1.
+
+De organisator die op het moment van de aanvraag gelijktijdig een aanvraag indient voor verschillende erkenningen voor dezelfde opvangvorm, of voor verschillende attesten van toezicht voor dezelfde opvangvorm, die overgenomen worden van een andere organisator die ze wil stopzetten, en die in feite niets wijzigt aan de organisatie en aan de personen die instaan voor de organisatie:<br>
+1° hoeft de documenten, vermeld in artikel 11, niet te bezorgen;<br>
+2° hoeft de reeds toegekende afwijkingen van de infrastructuur of brandveiligheid niet opnieuw aan te vragen op voorwaarde dat hij de beslissing over de afwijking naleeft.
+
+### ART 14/2.
+
+De organisator die wijzigt van rechtsvorm, maar in feite niets wijzigt aan de organisatie en aan de personen die instaan voor de organisatie:<br>
+1° hoeft de documenten, vermeld in artikel 11, niet te bezorgen;<br>
+2° hoeft de reeds toegekende afwijkingen van de infrastructuur of brandveiligheid niet opnieuw aan te vragen op voorwaarde dat hij de beslissing over de afwijking naleeft.
 
 ## Afdeling 3. Ontvankelijkheid van de aanvraag van een erkenning of een attest van toezicht of van de aanpassing ervan
 
@@ -162,7 +183,14 @@ Als Kind en Gezin geen beslissing heeft genomen of de   organisator daarvan niet
 
 ### ART. 32.
 
-Als   de organisator met een erkenning of een attest van toezicht beslist tot   volledige definitieve stopzetting van de werking van de opvanglocatie of   gedeeltelijke definitieve stopzetting, zijnde een vermindering van het aantal   opvangplaatsen als vermeld in artikel 7, meldt hij dat elektronisch uiterlijk   vijf kalenderdagen na de stopzetting aan Kind en Gezin. Hij bezorgt daarbij de   volgende gegevens :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de naam, de rechtsvorm en het ondernemingsnummer van de organisator;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de naam en het adres van de opvanglocatie;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   het dossiernummer;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de datum van volledige stopzetting of vermindering;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   als het geen volledige stopzetting betreft : het aantal opvangplaatsen waarvoor   de organisator de vermindering wil;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   de datum en de handtekening van de organisator.
+Als de organisator met een erkenning of een attest van toezicht beslist tot volledige definitieve stopzetting van de werking van de opvanglocatie of gedeeltelijke definitieve stopzetting, zijnde een vermindering van het aantal opvangplaatsen als vermeld in artikel 7, meldt hij dat elektronisch uiterlijk vijf kalenderdagen na de stopzetting aan Kind en Gezin. Hij bezorgt daarbij de volgende gegevens :<br>
+1° de naam, de rechtsvorm en het ondernemingsnummer van de organisator;<br>
+2° de naam en het adres van de opvanglocatie;<br>
+3° het dossiernummer;<br>
+4° de datum van volledige stopzetting of vermindering;<br>
+5° als het geen volledige stopzetting betreft : het aantal opvangplaatsen waarvoor de organisator de vermindering wil;<br>
+5° /1 als het een volledige stopzetting betreft: de reden van stopzetting en, in geval van overname door een andere organisator, de gegevens van de nieuwe organisator;<br>
+6° de datum en de handtekening van de organisator.
 
 ### ART. 33.
 
@@ -255,7 +283,27 @@ Kind en Gezin kan naast de informatie en stukken, vermeld in het eerste en tweed
 
 ### ART. 49.
 
-<P>De   aanvraag van een afwijking van de brandveiligheidsvoorschriften, vermeld in   artikel 57, 2°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014,   wordt ingediend bij de technische commissie voor de brandveiligheid met het   aanvraagformulier van de technische commissie, dat de volgende gegevens bevat   :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de identificatiegegevens en de contactgegevens van de organisator;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de naam, het adres en het aantal opvangplaatsen van de opvanglocatie;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de omschrijving van de opvanglocatie waarvoor een afwijking gevraagd   wordt;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de voorwaarde waarvan een afwijking wordt gevraagd;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de motivatie waarom een afwijking wordt gevraagd;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   de context en een voorstel met maatregelen die een gelijkwaardige veiligheid en   kwaliteit kunnen garanderen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   de datum en een handtekening vanwege de organisator.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Naast   het aanvraagformulier, vermeld in het eerste lid, bezorgt de organisator, met de   post of elektronisch, minstens de volgende documenten die de gegevens, vermeld   in het eerste lid, aantonen :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   een duidelijk grondplan van de opvanglocatie op schaal 1/50 of 1/100 met   minstens de volgende aanduidingen :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   de speelruimtes met alle binnenafmetingen en het aantal kinderen dat er   opgevangen zal worden;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   de sanitaire ruimte;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">c)   de buitenspeelruimte;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">d)   de eventuele zone voor de keukenactiviteit met afmetingen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">e)   de eventuele andere aanwezige lokalen met benoeming van hun functie;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het verslag van de bevoegde brandweerdienst en, in voorkomend geval, het   brandveiligheidsattest, het stappenplan en het advies van de brandweer over dat   stappenplan.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   technische commissie kan naast de informatie en stukken, vermeld in het eerste   en tweede lid, bijkomende informatie of stukken opvragen na ontvangst van het   aanvraagformulier van afwijking, vermeld in het eerste lid.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   technische commissie bezorgt na ontvangst van de aanvraag een   ontvangstmelding.</P>
+<p>De aanvraag van een afwijking van de brandveiligheidsvoorschriften, vermeld in artikel 57, 2°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, wordt ingediend bij de technische commissie voor de brandveiligheid met het aanvraagformulier van de technische commissie, dat de volgende gegevens bevat :<br>
+1° de identificatiegegevens en de contactgegevens van de organisator;<br>
+2° de naam, het adres en het aantal opvangplaatsen van de opvanglocatie;<br>
+3° de omschrijving van de opvanglocatie waarvoor een afwijking gevraagd wordt;<br>
+4° de voorwaarde waarvan een afwijking wordt gevraagd;<br>
+5° de motivatie waarom een afwijking wordt gevraagd;<br>
+6° de context en een voorstel met maatregelen die een gelijkwaardige veiligheid en kwaliteit kunnen garanderen;<br>
+7° de datum en een handtekening vanwege de organisator.</p>
+
+<p>Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de organisator, met de post of elektronisch, minstens de volgende documenten die de gegevens, vermeld in het eerste lid, aantonen :<br>
+1° een duidelijk grondplan van de opvanglocatie op schaal 1/50 of 1/100 met minstens de volgende aanduidingen :<br>
+a) de speelruimtes met alle binnenafmetingen en het aantal kinderen dat er opgevangen zal worden;<br>
+b) de sanitaire ruimte;<br>
+c) de buitenspeelruimte;<br>
+d) ...;<br>
+e) de eventuele andere aanwezige lokalen met benoeming van hun functie;<br>
+2° het verslag van de bevoegde brandweerdienst en, in voorkomend geval, het brandveiligheidsattest, het stappenplan en het advies van de brandweer over dat stappenplan.</p>
+
+<p>De technische commissie kan naast de informatie en stukken, vermeld in het eerste en tweede lid, bijkomende informatie of stukken opvragen na ontvangst van het aanvraagformulier van afwijking, vermeld in het eerste lid.</p>
+
+<p>De technische commissie bezorgt na ontvangst van de aanvraag een ontvangstmelding.</p>
 
 ### ART. 50.
 
@@ -275,7 +323,9 @@ Kind   en Gezin kent een subsidie toe als aan de volgende voorwaarden is voldaan
 
 ### ART. 53.
 
-<P>In afwijking van artikel 52 kent Kind en Gezin geen subsidie toe   als er een gegronde indicatie is waaruit blijkt dat de organisator geen   specifieke dienstverlening zal organiseren conform de bepalingen van het   Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   Kind en Gezin het voornemen heeft om de subsidie te weigeren met toepassing van   het eerste lid, wordt de organisator gehoord. Dat heeft geen schorsing van de   termijnen, vermeld in artikel 70, 78 en 109, als   gevolg.</P>
+Kind en Gezin kan bij de beoordeling van de vraag of voldaan is aan de voorwaarden om een subsidie te krijgen, rekening houden met de gegevens die blijken uit het dossier en uit een inspectie ter plaatse, alsook met andere elementen die een gegronde indicatie vormen van het gegeven dat de organisator niet aan de voorwaarden voldoet of zal kunnen voldoen.<br>
+<br>
+Als Kind en Gezin het voornemen heeft om de subsidie te weigeren op basis van een gegronde indicatie als vermeld in het eerste lid, wordt de organisator gehoord. Dat heeft geen schorsing van de termijnen, vermeld in artikel 70, 78 en 109, als gevolg.
 
 ### ART. 54.
 
@@ -316,6 +366,10 @@ De aanvraag wordt ingediend binnen de in de algemene oproep   vastgelegde termij
 De organisator die een aanvraag doet na een terugvordering,   een stopzetting, een schorsing of een vermindering van een subsidie door Kind en   Gezin, bezorgt boven op de documenten, vermeld in artikel 59, bijkomende   documenten waaruit blijkt dat de reden waarop de terugvordering, de stopzetting,   de schorsing of de vermindering is gebaseerd, niet langer   bestaat.
 
 ## [Afdeling 1/1. Subsidiebelofte bij wijziging van de organisator (ing. BVR 21 oktober 2016, art. 33, I: 4 december 2016)]
+
+### ART 61/1.
+
+Als de organisator van een opvanglocatie die recht heeft op een subsidiebelofte, stopt, vervalt van rechtswege het recht op die subsidiebelofte. Het recht op een subsidiebelofte kan niet worden verhandeld.
 
 ## Afdeling 2. Ontvankelijkheid van de aanvraag
 
@@ -409,7 +463,13 @@ De   aanvraag van een subsidie na een subsidiebelofte wordt ingediend met het   
 
 ### ART. 81.
 
-<P>De aanvraag van een subsidie na een subsidiebelofte wordt   ingediend op zijn vroegste zes maanden voor de datum waarop de organisator de   subsidies wil laten ingaan.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   de organisator nog niet hetzelfde aantal opvangplaatsen met een erkenning of   attest van toezicht heeft als waarvoor hij een subsidie aanvraagt, kan de   aanvraag bovendien alleen gedaan worden als er gelijktijdig voor hetzelfde   aantal opvangplaatsen een aanvraag van een erkenning of een attest van toezicht,   naargelang de subsidie, wordt ingediend. In dat geval wordt de aanvraag van een   subsidie, waarvoor de organisator opvangplaatsen nodig heeft met een erkenning   of attest van toezicht, als ontvangen beschouwd op de datum van beslissing tot   erkenning of attest van toezicht voor het nodige aantal   opvangplaatsen.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   subsidie die toegekend wordt aan een organisator met een vergunning kan op zijn   vroegste ingaan op de eerste dag van de maand die volgt op de beslissing van   Kind en Gezin.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   subsidie die toegekend wordt aan een organisator met een erkenning of attest van   toezicht kan op zijn vroegste ingaan op de datum dat de organisator voldoende   opvangplaatsen met een erkenning of attest van toezicht heeft en op zijn   vroegste op de ingangsdatum van de subsidiebelofte. De ingangsdatum van de   subsidie kan in elk geval maximum 6 maanden voorafgaan aan de datum van   beslissing tot subsidietoekenning.</P>
+<p>De aanvraag van een subsidie na een subsidiebelofte wordt ingediend op zijn vroegste zes maanden voor de datum waarop de organisator de subsidies wil laten ingaan.</p>
+
+<p>Als de organisator nog niet hetzelfde aantal opvangplaatsen met een erkenning of attest van toezicht heeft als waarvoor hij een subsidie aanvraagt, kan de aanvraag bovendien alleen gedaan worden als er gelijktijdig voor hetzelfde aantal opvangplaatsen een aanvraag van een erkenning of een attest van toezicht, naargelang de subsidie, wordt ingediend. In dat geval wordt de aanvraag van een subsidie, waarvoor de organisator opvangplaatsen nodig heeft met een erkenning of attest van toezicht, als ontvangen beschouwd op de datum van beslissing tot erkenning of attest van toezicht voor het nodige aantal opvangplaatsen.</p>
+
+<p>De subsidie die toegekend wordt aan een organisator met een vergunning kan op zijn vroegste ingaan vanaf de dag van de beslissing van Kind en Gezin, tenzij de subsidiebelofte het anders bepaalt.</p>
+
+<p>De subsidie die toegekend wordt aan een organisator met een erkenning of attest van toezicht kan op zijn vroegste ingaan op de datum dat de organisator voldoende opvangplaatsen met een erkenning of attest van toezicht heeft en op zijn vroegste op de ingangsdatum van de subsidiebelofte. De ingangsdatum van de subsidie kan in elk geval maximum 6 maanden voorafgaan aan de datum van beslissing tot subsidietoekenning.</p>
 
 ### ART. 82.
 
