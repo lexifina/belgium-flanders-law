@@ -26,25 +26,79 @@
 
 ### ART. 1.
 
-<P>§ 1. In de aanvraag voor de erkenning als opleidingsinstelling moet de   kandidaat-opleidingsinstelling gedetailleerd beschrijven in welke mate aan de   kwaliteitsvereisten en de inhoud van de opleidingen, als vermeld in bijlage I,   is voldaan.<BR></P>  <P>Een erkende opleidingsinstelling moet bij het geven van de opleiding gebruik   maken van de aanbevelingen, de praktische ondersteuning en het lesmateriaal die   het certificeringsorgaan ter beschikking stelt. Een erkende opleidingsinstelling   mag het verstrekte handboek niet aanpassen of wijzigen.<BR></P>  <P>Een erkende opleidingsinstelling maakt bij het geven van de opleiding geen   gebruik van de examenvragen.<BR></P>  <P>§ 2. In afwijking van § 1 bezorgen organisaties die hun bestaande opleiding   conform artikel 12.3.5 van het Energiebesluit van 19 november 2010 als   gelijkwaardig wensen te laten erkennen uiterlijk tegen 1 september 2014 aan het   Vlaams Energieagentschap een dossier waarin gedetailleerd wordt beschreven in   welke mate de inhoud van hun opleiding overeenkomt met de categorie die ze als   gelijkwaardig willen laten beschouwd worden.<BR></P>  <P>Het Vlaams Energieagentschap beslist of de opleiding gelijkwaardig is aan de   in bijlage I vermelde inhoud.<BR></P>
+<p>§ 1. In de aanvraag voor de erkenning als opleidingsinstelling moet de kandidaat-opleidingsinstelling gedetailleerd beschrijven in welke mate aan de kwaliteitsvereisten en de inhoud van de opleidingen, als vermeld in bijlage I, is voldaan.</p>
+
+<p>Een erkende opleidingsinstelling moet bij het geven van de opleiding gebruik maken van de aanbevelingen, de praktische ondersteuning en het lesmateriaal die het certificeringsorgaan ter beschikking stelt. Een erkende opleidingsinstelling mag het verstrekte handboek niet aanpassen of wijzigen.</p>
+
+<p>Een erkende opleidingsinstelling maakt bij het geven van de opleiding geen gebruik van de examenvragen.</p>
+
+<p>§ 2. In afwijking van § 1 bezorgen organisaties die hun bestaande opleiding conform artikel 12.3.5 van het Energiebesluit van 19 november 2010 als gelijkwaardig wensen te laten erkennen uiterlijk tegen 1 september 2014 aan het Vlaams Energieagentschap een dossier waarin gedetailleerd wordt beschreven in welke mate de inhoud van hun opleiding overeenkomt met de categorie die ze als gelijkwaardig willen laten beschouwd worden.</p>
+
+<p>Het Vlaams Energieagentschap beslist of de opleiding gelijkwaardig is aan de in bijlage I vermelde inhoud.<br>
+<br>
+§ 3. Om de erkenning als opleidingsinstelling te behouden moet minstens één opleider aanwezig zijn tijdens de train-de-trainer opleidingen die het Vlaams Energieagentschap organiseert.</p>
 
 ## Afdeling II Erkenning als exameninstelling voor de certificering van aannemers en installateurs
 
 ### ART. 2.
 
-<P>§ 1. In de aanvraag voor de erkenning als exameninstelling moet de   kandidaat-exameninstelling gedetailleerd beschrijven in welke mate aan de   kwaliteitsvereisten en de inhoud van de examens, als vermeld in bijlage II, is   voldaan.<BR></P>  <P>Een erkende exameninstelling voorziet dat het examen gebaseerd is op de   aanbevelingen en praktische ondersteuning die het certificeringsorgaan ter   beschikking stelt.<BR></P>  <P>§ 2. Een erkende exameninstelling dient minstens tien dagen voordat een   examen zal plaatsvinden, de datum hiervan door te geven aan het   certificeringsorgaan.<BR></P>  <P>De examenvragen worden telkens door het certificeringsorgaan voor het examen   plaatsvindt ter beschikking gesteld aan de erkende exameninstelling. Een erkende   exameninstelling ziet erop toe dat tijdens de examens de installateurs de   examenvragen niet meenemen of kopiëren.<BR></P>  <P>Een erkende exameninstelling laat enkel deelnemers toe die over een   getuigschrift beschikken van een opleiding voor de desbetreffende categorie, als   vermeld in artikel 8.5.1 van het Energiebesluit van 19 november 2010.<BR></P>  <P>In afwijking van het derde lid kunnen kandidaten die voor die relevante   categorie beschikken over een getuigschrift van een gelijkwaardige opleiding,   volgens artikel 1, § 2, gegeven door een andere opleidingsinstelling dan de   opleidingsinstellingen, vermeld in artikel 8.4.1, § 1, tot 1 september 2014   rechtstreeks deelnemen aan het examen.<BR></P>  <P>Na deliberatie hebben de erkende exameninstellingen 15 werkdagen om aan het   certificeringsorgaan lijsten met geslaagde en niet geslaagde kandidaten te   bezorgen. Een template voor die lijsten wordt door het certificeringsorgaan aan   de exameninstellingen bezorgd.<BR></P>
+<p>§ 1. In de aanvraag voor de erkenning als exameninstelling moet de kandidaat-exameninstelling gedetailleerd beschrijven in welke mate aan de kwaliteitsvereisten en de inhoud van de examens, als vermeld in bijlage II, is voldaan.</p>
+
+<p>Een erkende exameninstelling voorziet dat het examen gebaseerd is op de aanbevelingen en praktische ondersteuning die het certificeringsorgaan ter beschikking stelt.</p>
+
+<p>§ 2. Een erkende exameninstelling dient minstens tien dagen voordat een examen zal plaatsvinden, de datum hiervan door te geven aan het certificeringsorgaan.</p>
+
+<p>De examenvragen worden telkens door het certificeringsorgaan voor het examen plaatsvindt ter beschikking gesteld aan de erkende exameninstelling. Een erkende exameninstelling ziet erop toe dat tijdens de examens de installateurs de examenvragen niet meenemen of kopiëren.</p>
+
+<p>Een erkende exameninstelling laat enkel deelnemers toe die over een getuigschrift beschikken van een opleiding voor de desbetreffende categorie, als vermeld in artikel 8.5.1 van het Energiebesluit van 19 november 2010.</p>
+
+<p>In afwijking van het derde lid kunnen kandidaten die voor die relevante categorie beschikken over een getuigschrift van een gelijkwaardige opleiding, volgens artikel 1, § 2, gegeven door een andere opleidingsinstelling dan de opleidingsinstellingen, vermeld in artikel 8.4.1, § 1, tot 1 september 2014 rechtstreeks deelnemen aan het examen.</p>
+
+<p>Na deliberatie hebben de erkende exameninstellingen 15 werkdagen om aan het certificeringsorgaan lijsten met geslaagde en niet geslaagde kandidaten te bezorgen. Een template voor die lijsten wordt door het certificeringsorgaan aan de exameninstellingen bezorgd.<br>
+<br>
+§ 3. Een erkende exameninstelling, voor de categorie vermeld in artikel 8.5.1, § 1, 1° tot en met 7° van het Energiebesluit van 19 november 2010, stelt een examenjury samen, waarbij aan de volgende voorwaarden wordt voldaan:<br>
+1° de jury bestaat uit drie specialisten in de onderwezen vakken;<br>
+2° minstens één jurylid is onafhankelijk van de instelling die het examen organiseert.<br>
+<br>
+Een erkende exameninstelling, voor de categorie vermeld in artikel 8.5.1, § 1, 8° van het Energiebesluit van 19 november 2010, stelt een examenjury samen, waarbij aan de volgende voorwaarden wordt voldaan:<br>
+1° de jury bestaat uit specialisten in de onderwezen vakken en bestaat uit minstens één jurylid per 30 deelnemers, met een maximum van drie juryleden;<br>
+2° minstens één jurylid mag niet opgetreden hebben als lesgever van de te examineren deelnemers.<br>
+<br>
+§ 4. De maximale duur van het examen, voor de categorie vermeld in artikel 8.5.1, § 1, 8° van het Energiebesluit van 19 november 2010, bedraagt 1 uur. Tijdens het examen is het gebruik van lesmateriaal niet toegelaten.</p>
 
 ## HOOFDSTUK II Aanduiding als certificeringsorgaan
 
 ### ART. 3.
 
-&nbsp;De tijdelijke vereniging RESCert, bestaande uit BCCA-Quest-Blue   Planet Academy and Consulting, wordt gemachtigd om als certificeringsorgaan het   certificaat van bekwaamheid en het certificaat van bekwaamheid als aspirant te   beheren en uit te reiken.<BR>
+&nbsp;De tijdelijke vereniging RESCert, bestaande uit BCCA-Quest-Blue Planet Academy and Consulting, wordt gemachtigd om als certificeringsorgaan het certificaat van bekwaamheid en het certificaat van bekwaamheid als aspirant te beheren en uit te reiken.<br>
+<br>
+In afwijking van het eerste lid wordt het Vlaams Energieagentschap gemachtigd om voor de categorie vermeld in artikel 8.5.1, § 1, 8° van het Energiebesluit van 19 november 2010, als certificeringsorgaan het certificaat van bekwaamheid en het certificaat van bekwaamheid als aspirant te beheren en uit te reiken.
 
 ## HOOFDSTUK III Certificering van aannemers en installateurs
 
 ### ART. 4.
 
-<P>Om een getuigschrift van een opleidingsinstelling voor een bepaalde   categorie, vermeld in artikel 8.5.1, § 1 van het Energiebesluit van 19 november   2010, te krijgen, moet de kandidaat alle modules van de voor die categorie van   toepassing zijnde opleiding hebben gevolgd.<BR></P>  <P>Om het certificaat van bekwaamheid of het certificaat van bekwaamheid als   aspirant te verkrijgen voor de categorie, vermeld in artikel 8.5.1, § 1, 3° van   het Energiebesluit van 19 november 2010, moet de kandidaat reeds een   getuigschrift hebben behaald voor het slagen voor het examen voor de categorie,   vermeld in artikel 8.5.1, § 1, 2° van het Energiebesluit van 19 november   2010.<BR></P>  <P>Om het certificaat van bekwaamheid of het certificaat van bekwaamheid als   aspirant voor de categorie, vermeld in artikel 8.5.1, § 1, 6° van het   Energiebesluit van 19 november 2010, te verkrijgen, komen de volgende   basisberoepen in aanmerking :<BR>1° Elektrotechnische activiteiten;<BR>2°   Installatieactiviteiten voor centrale verwarming, klimaatregeling, gas en   sanitair;<BR>3° Installateur-frigorist.<BR></P>  <P>De beroepservaring, vermeld in artikel 8.5.1, § 3, 3° van het Energiebesluit   van 19 november 2010, betreft volgende ervaring :<BR>1° voor de categorie   vermeld in artikel 8.5.1, § 1, 1° : elektrotechnische activiteiten of   dakdekkers- en waterdichtingsactiviteiten;<BR>2° voor de categorie vermeld in   artikel 8.5.1, § 1, 2° : installatieactiviteiten voor centrale verwarming,   klimaatregeling, gas en sanitair of dakdekkers- en   waterdichtingsactiviteiten;<BR>3° voor de categorie vermeld in artikel 8.5.1, §   1, 3° : installatieactiviteiten voor centrale verwarming, klimaatregeling, gas   en sanitair;<BR>4° voor de categorie vermeld in artikel 8.5.1, § 1, 5° :   installatieactiviteiten voor centrale verwarming, klimaatregeling, gas en   sanitair;<BR>5° voor de categorie vermeld in artikel 8.5.1, § 1, 6° :   elektrotechnische activiteiten of installatieactiviteiten voor centrale   verwarming, klimaatregeling, gas en sanitair of installateur-frigorist;<BR>6°   voor de categorie vermeld in artikel 8.5.1, § 1, 7° : boorder of   geologie.<BR></P>
+<p>Om een getuigschrift van een opleidingsinstelling voor een bepaalde categorie, vermeld in artikel 8.5.1, § 1 van het Energiebesluit van 19 november 2010, te krijgen, moet de kandidaat alle modules van de voor die categorie van toepassing zijnde opleiding hebben gevolgd.<br>
+<br>
+In afwijking van het eerste lid moet een kandidaat om een getuigschrift van een opleidingsinstelling voor de categorie, vermeld in artikel 8.5.1, § 1, 8° van het Energiebesluit van 19 november 2010, te krijgen, minstens volgende modules van de opleiding hebben gevolgd:<br>
+1° module over wettelijk kader, subsidieregeling en essentiële aspecten bij de plaatsing van binnenmuurisolatie, in minimaal 1 lesuur;<br>
+2° alle modules, indien een deelnemer de opleiding moet volgen alvorens opnieuw te kunnen deelnemen aan het examen, zoals vermeld in artikel 8.5.1, § 5, vijfde lid van het Energiebesluit van 19 november 2010, in minimaal 7 lesuren.</p>
+
+<p>Om het certificaat van bekwaamheid of het certificaat van bekwaamheid als aspirant te verkrijgen voor de categorie, vermeld in artikel 8.5.1, § 1, 3° van het Energiebesluit van 19 november 2010, moet de kandidaat reeds een getuigschrift hebben behaald voor het slagen voor het examen voor de categorie, vermeld in artikel 8.5.1, § 1, 2° van het Energiebesluit van 19 november 2010.</p>
+
+<p>Om het certificaat van bekwaamheid of het certificaat van bekwaamheid als aspirant voor de categorie, vermeld in artikel 8.5.1, § 1, 6° van het Energiebesluit van 19 november 2010, te verkrijgen, komen de volgende basisberoepen in aanmerking :<br>
+1° Elektrotechnische activiteiten;<br>
+2° Installatieactiviteiten voor centrale verwarming, klimaatregeling, gas en sanitair;<br>
+3° Installateur-frigorist.</p>
+
+<p>De beroepservaring, vermeld in artikel 8.5.1, § 3, 3° van het Energiebesluit van 19 november 2010, betreft volgende ervaring :<br>
+1° voor de categorie vermeld in artikel 8.5.1, § 1, 1° : elektrotechnische activiteiten of dakdekkers- en waterdichtingsactiviteiten;<br>
+2° voor de categorie vermeld in artikel 8.5.1, § 1, 2° : installatieactiviteiten voor centrale verwarming, klimaatregeling, gas en sanitair of dakdekkers- en waterdichtingsactiviteiten;<br>
+3° voor de categorie vermeld in artikel 8.5.1, § 1, 3° : installatieactiviteiten voor centrale verwarming, klimaatregeling, gas en sanitair;<br>
+4° voor de categorie vermeld in artikel 8.5.1, § 1, 5° : installatieactiviteiten voor centrale verwarming, klimaatregeling, gas en sanitair;<br>
+5° voor de categorie vermeld in artikel 8.5.1, § 1, 6° : elektrotechnische activiteiten of installatieactiviteiten voor centrale verwarming, klimaatregeling, gas en sanitair of installateur-frigorist;<br>
+6° voor de categorie vermeld in artikel 8.5.1, § 1, 7° : boorder of geologie;<br>
+7° voor de categorie vermeld in artikel 8.5.1, § 1, 8° : binnenmuurisolatiewerkzaamheden.</p>
 
 ## HOOFDSTUK IV Slotbepalingen
 
