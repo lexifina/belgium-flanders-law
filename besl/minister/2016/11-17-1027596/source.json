@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027596,
+  "title": "Ministerieel besluit van 2016-11-17 tot wijziging van het ministerieel besluit van 20 januari 2014 houdende de erkenning van opleidings- en exameninstellingen voor de certificering van aannemers en installateurs en houdende de certificering van aannemers en installateurs",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027596/VolledigDocument?datum=2016-12-05",
+  "source_sha256": "fe41a6a1a2f311d06bbfdba5d33cbb43f49aa80ca3e51c8d94d6a8bcc5e6a301",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027596&param=informatie",
+  "as_of": "2016-12-05",
+  "made": "2016-11-17",
+  "gazette": "2016-11-25",
+  "numac": 2016036568,
+  "document_start": "2016-12-05",
+  "document_end": null,
+  "in_force": "2016-12-05",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-12-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
