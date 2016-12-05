@@ -949,6 +949,20 @@ In artikel 7.8.1, § 1, derde lid van hetzelfde besluit, ingevoegd bij het beslu
 
 ## HOOFDSTUK 6 Wijzigingen aan titel VIII van het Energiebesluit van 19 november 2010
 
+### ART 35.
+
+In artikel 8.4.1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 juli 2013 en gewijzigd bij het besluit van de Vlaamse Regering van 10 juli 2015, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, 2° wordt de zinsnede "ander opleidings- of", vervangen door het woord "andere";<br>
+2° in paragraaf 2, 2°, a) wordt het woord "minstens" vervangen door het woord "maximaal";<br>
+3° in paragraaf 2, 2° wordt litera b) opgeheven;<br>
+4° aan paragraaf 3 wordt de zin "De minister kan voor elk type van examen het aantal juryleden, vermeld in § 2, 2°, a vaststellen en kan voorwaarden vaststellen met betrekking tot de onafhankelijkheid van de juryleden." toegevoegd.<br>
+&nbsp;
+
+### ART 36.
+
+Aan artikel 8.5.1, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 juli 2013, wordt een punt 8° toegevoegd, dat luidt als volgt:<br>
+"8° de plaatsing van binnenmuurisolatie.".
+
 ## HOOFDSTUK 7 Wijzigingen aan titel IX van het Energiebesluit van 19 november 2010
 
 ### ART 39.
