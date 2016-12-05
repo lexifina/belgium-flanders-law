@@ -10,11 +10,11 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-Iedere gemeente moet over ten minste één begraafplaats beschikken.Meerdere gemeenten kunnen zich evenwel verenigen om over een gemeenschappelijke begraafplaats te beschikken.<br>
+Iedere gemeente moet over ten minste één begraafplaats beschikken. Meerdere gemeenten kunnen zich evenwel verenigen om over een gemeenschappelijke begraafplaats te beschikken. Het geheel van begraafplaatsen op het grondgebied van een gemeente moet alle vormen van lijkbezorging kunnen aanbieden die bepaald zijn in dit decreet, met uitzondering van de wijze van lijkbezorging, vermeld in artikel 24, § 1, tweede lid, 2°.<br>
 <br>
 Enkel een gemeente of een intergemeentelijk samenwerkingsverband kan een crematorium oprichten en beheren.<br>
 <br>
-Iedere begraafplaats en ieder intergemeentelijk crematorium moeten over een urnenveld, een strooiweide en een columbarium beschikken.<br>
+Ieder gemeentelijk of intergemeentelijk crematorium moet over een urnenveld, een strooiweide en een columbarium beschikken.<br>
 <br>
 In afwijking van het voorgaande lid, kan evenwel tussen de gemeente die een begraafplaats beheert en het intergemeentelijke samenwerkingsverband dat een aangrenzend intergemeentelijk crematorium beheert een overeenkomst worden afgesloten waarin bepaald wordt dat het urnenveld, de strooiweide en het columbarium van de gemeentelijke begraafplaats ter beschikking van het aangrenzende intergemeentelijke crematorium wordt gesteld.<br>
 <br>
@@ -30,7 +30,17 @@ Gemeentelijke begraafplaatsen en crematoria vallen onder het gezag, de politie e
 
 ### ART. 5.
 
-§ 1. Wanneer nieuwe voor begraving bestemde ruimten aangelegd zijn, bepaalt de gemeenteraad of het bevoegde orgaan van het intergemeentelijke samenwerkingsverband de datum waarop niet meer begraven wordt op de oude begraafplaatsen. Een afschrift van deze beslissing wordt tot de definitieve ontruiming van de begraafplaats aan de ingang ervan uitgehangen.<br /><br />De oude begraafplaatsen worden in de staat gelaten waarin ze zich bevinden.<br /><br />Gedurende ten minste tien jaar mag er geen gebruik van worden gemaakt.<br /><br />Na verloop van de in het voorgaande lid bepaalde tijd of ten minste tien jaar na de laatste begraving, waarbij de inschrijving in het begrafenisregister als bewijs geldt, kan de gemeenteraad of het bevoegde orgaan van het intergemeentelijke samenwerkingsverband beslissen een andere bestemming te geven aan de oude begraafplaatsen.<br /><br />§ 2. Met toepassing van § 1 wordt een perceel van dezelfde grootte als het geconcedeerde op de nieuwe begraafplaats voorbehouden als enige belanghebbende daartoe een aanvraag indient.<br /><br />De gemeenteraad of het bevoegde orgaan van het intergemeentelijke samenwerkingsverband bepaalt de voorwaarden inzake overbrenging, zonder dat deze voorwaarden kunnen inhouden dat de belanghebbenden de overbrenging van de stoffelijke resten moeten vergoeden.
+§ 1. Wanneer nieuwe voor begraving bestemde ruimten aangelegd zijn, bepaalt de gemeenteraad of het bevoegde orgaan van het intergemeentelijke samenwerkingsverband de datum waarop niet meer begraven wordt op de oude begraafplaatsen. Een afschrift van deze beslissing wordt tot de definitieve ontruiming van de begraafplaats aan de ingang ervan uitgehangen.<br>
+<br>
+De oude begraafplaatsen worden in de staat gelaten waarin ze zich bevinden. Gedurende ten minste tien jaar mag er geen gebruik van worden gemaakt, behalve voor die vormen van lijkbezorging waarvoor nog ruimte beschikbaar is.<br>
+<br>
+Gedurende ten minste tien jaar mag er geen gebruik van worden gemaakt.<br>
+<br>
+Na verloop van de in het voorgaande lid bepaalde tijd of ten minste tien jaar na de laatste begraving, waarbij de inschrijving in het begrafenisregister als bewijs geldt, kan de gemeenteraad of het bevoegde orgaan van het intergemeentelijke samenwerkingsverband beslissen een andere bestemming te geven aan de oude begraafplaatsen.<br>
+<br>
+§ 2. Met toepassing van § 1 wordt een perceel van dezelfde grootte als het geconcedeerde op de nieuwe begraafplaats voorbehouden als enige belanghebbende daartoe een aanvraag indient.<br>
+<br>
+De gemeenteraad of het bevoegde orgaan van het intergemeentelijke samenwerkingsverband bepaalt de voorwaarden inzake overbrenging, zonder dat deze voorwaarden kunnen inhouden dat de belanghebbenden de overbrenging van de stoffelijke resten moeten vergoeden.
 
 ## AFDELING 2 CONCESSIES
 
@@ -132,7 +142,24 @@ De Vlaamse regering bepaalt de nadere regels volgens dewelke de crematie verloop
 
 ### ART. 24.
 
-§ 1. De as van gecremeerde lijken kan in urnen worden geplaatst die op de begraafplaats worden begraven of in een columbarium worden bijgezet.<br /><br />De as van gecremeerde lijken kan op een van de volgende plaatsen worden uitgestrooid:<br />1° op een daartoe bestemd perceel van de begraafplaats;<br />2 op de aan het grondgebied van België grenzende territoriale zee onder de voorwaarden die de Vlaamse regering bepaalt.<br /><br />De as van de overledene wordt met respect en eerbied behandeld en kan geen voorwerp uitmaken van een commerciële activiteit, met uitzondering van die activiteiten die verband houden met het uitstrooien of begraven van de as of met het overbrengen ervan naar de plaats waar de as bewaard zal worden.<br /><br />Indien de overledene dit schriftelijk heeft bepaald of, bij gebrek aan schriftelijke bepaling door de overledene, op gezamenlijk schriftelijk verzoek van zowel de echtgenoot of van diegene met wie de overledene een feitelijk gezin vormde als van alle bloed- of aanverwanten van de eerste graad of, indien het om een minderjarige gaat, op verzoek van de ouders of voogd, kan de as van gecremeerde lijken:<br />1° worden uitgestrooid op een andere plaats dan de begraafplaats. Deze uitstrooiing kan evenwel niet gebeuren op het openbaar domein, uitgezonderd de begraafplaats bedoeld in het eerste lid en het tweede lid. Indien het een terrein betreft dat niet in eigendom is van de overledene of zijn nabestaanden, is een voorafgaande, schriftelijke toestemming van de eigenaar van het betrokken terrein vereist;<br />2° worden begraven op een andere plaats dan de begraafplaats. Deze begraving kan evenwel niet gebeuren op het openbaar domein, uitgezonderd de begraafplaats bedoeld in het eerste en het tweede lid. Indien het een terrein betreft dat niet in eigendom is van de overledene of zijn nabestaanden, is een voorafgaande, schriftelijke toestemming van de eigenaar van het betrokken terrein vereist;<br />3° in een urne ter beschikking worden gesteld van de nabestaanden om te worden bewaard op een andere plaats dan de begraafplaats. Indien er een einde komt aan de bewaring van de as op een andere plaats dan de begraafplaats, wordt de as door toedoen van de nabestaande die er de zorg voor heeft of zijn erfgenamen in geval van diens overlijden, ofwel naar een begraafplaats gebracht om er begraven, in een columbarium bijgezet of uitgestrooid te worden ofwel op de aan het grondgebied van België grenzende territoriale zee uitgestrooid te worden.<br /><br />De persoon die de as in ontvangst neemt, is verantwoordelijk voor de naleving van deze bepalingen.<br /><br />De Vlaamse regering kan nadere voorwaarden bepalen waaraan de in het vierde lid bedoelde bewaringen, begravingen of uitstrooiingen moeten voldoen.<br /><br />§ 2. Onverminderd hetgeen is bepaald in § 1 kan, op verzoek van de echtgenoot en van de bloed- of aanverwanten tot en met de tweede graad, een gedeelte van de as van het gecremeerde lijk aan hen worden meegegeven.
+§ 1. De as van gecremeerde lijken kan in urnen worden geplaatst die op de begraafplaats worden begraven of in een columbarium worden bijgezet.<br>
+<br>
+De as van gecremeerde lijken kan op een van de volgende plaatsen worden uitgestrooid:<br>
+1° op een daartoe bestemd perceel van de begraafplaats;<br>
+2 op de aan het grondgebied van België grenzende territoriale zee onder de voorwaarden die de Vlaamse regering bepaalt.<br>
+<br>
+De as van de overledene wordt met respect en eerbied behandeld en kan geen voorwerp uitmaken van een commerciële activiteit, met uitzondering van die activiteiten die verband houden met het uitstrooien of begraven van de as of met het overbrengen ervan naar de plaats waar de as bewaard zal worden.<br>
+<br>
+Indien de overledene dit schriftelijk heeft bepaald of, bij gebrek aan schriftelijke bepaling door de overledene, op gezamenlijk schriftelijk verzoek van zowel de echtgenoot of van diegene met wie de overledene een feitelijk gezin vormde als van alle bloed- of aanverwanten van de eerste graad of, indien het om een minderjarige gaat, op verzoek van de ouders of voogd, kan de as van gecremeerde lijken:<br>
+1° worden uitgestrooid op een andere plaats dan de begraafplaats. Deze uitstrooiing kan evenwel niet gebeuren op het openbaar domein, uitgezonderd de begraafplaats bedoeld in het eerste lid en het tweede lid. In afwijking van deze bepaling kan de gemeente zones afbakenen, andere dan de begraafplaats, waar de as van gecremeerde lijken kan worden uitgestrooid. Indien het een terrein betreft dat niet in eigendom is van de overledene of zijn nabestaanden, is een voorafgaande, schriftelijke toestemming van de eigenaar van het betrokken terrein vereist;<br>
+2° worden begraven op een andere plaats dan de begraafplaats. Deze begraving kan evenwel niet gebeuren op het openbaar domein, uitgezonderd de begraafplaats bedoeld in het eerste en het tweede lid. In afwijking van deze bepaling kan de gemeente zones afbakenen, andere dan de begraafplaats, waar de as van gecremeerde lijken kan worden bewaard of begraven in een urne vervaardigd uit biologisch afbreekbare materialen. Indien het een terrein betreft dat niet in eigendom is van de overledene of zijn nabestaanden, is een voorafgaande, schriftelijke toestemming van de eigenaar van het betrokken terrein vereist;<br>
+3° in een urne ter beschikking worden gesteld van de nabestaanden om te worden bewaard op een andere plaats dan de begraafplaats. Indien er een einde komt aan de bewaring van de as op een andere plaats dan de begraafplaats, kan de as door toedoen van de nabestaande die er de zorg voor heeft of zijn erfgenamen in geval van diens overlijden, worden teruggebracht naar de begraafplaats om er begraven, bijgezet in een columbarium of uitgestrooid te worden of kan de as worden uitgestrooid, bewaard of begraven in een urne vervaardigd uit biologisch afbreekbare materialen op een door de gemeenteraad afgebakende andere plaats dan de begraafplaats.<br>
+<br>
+De persoon die de as in ontvangst neemt, is verantwoordelijk voor de naleving van deze bepalingen.<br>
+<br>
+De Vlaamse regering kan nadere voorwaarden bepalen waaraan de in het vierde lid bedoelde bewaringen, begravingen of uitstrooiingen moeten voldoen.<br>
+<br>
+§ 2. Onverminderd hetgeen is bepaald in § 1 kan, op verzoek van de echtgenoot en van de bloed- of aanverwanten tot en met de tweede graad, een gedeelte van de as van het gecremeerde lijk aan hen worden meegegeven.
 
 ### ART. 24bis.
 
