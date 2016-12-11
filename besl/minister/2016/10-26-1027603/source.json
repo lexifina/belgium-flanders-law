@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027603,
+  "title": "Ministerieel besluit van 2016-10-26 houdende vaststelling van de maatregelen en de modaliteiten tot uitvoering van het natuurinrichtingsproject Berlare Broek - Donkmeer en houdende ontheffing van verbodsbepalingen die gelden in het Vlaams Ecologisch Netwerk",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027603/VolledigDocument?datum=2016-12-11",
+  "source_sha256": "37ec6f8ccb13b9243cecb70a112b9a9e97b5b946575a856a39ffe22a1327195e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027603&param=informatie",
+  "as_of": "2016-12-11",
+  "made": "2016-10-26",
+  "gazette": "2016-12-01",
+  "numac": 2016036573,
+  "document_start": "2016-12-11",
+  "document_end": null,
+  "in_force": "2016-12-11",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-12-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
