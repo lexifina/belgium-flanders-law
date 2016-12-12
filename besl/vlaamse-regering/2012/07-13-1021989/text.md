@@ -22,54 +22,54 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder raadgevend comité :<br />1° decreet van 20 januari 2012 : het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen;<br />2° raadgevend comité opgericht bij artikel 20, § 8, van het decreet van 20 januari 2012.
+...
 
 ## HOOFDSTUK 2. Vlaamse adoptieambtenaar
 
 ### ART. 2.
 
-De functie van Vlaamse adoptieambtenaar is een mandaatfunctie met een duur van maximaal zes jaar. Die termijn is hernieuwbaar.<br /><br />De Vlaamse adoptieambtenaar wordt benoemd als afdelingshoofd van het Vlaams Centrum voor Adoptie.
+...
 
 ### ART. 3.
 
-De Vlaamse adoptieambtenaar heeft naast de taken vermeld in artikel 21, § 2, van het decreet van 20 januari 2012 de volgende taken :<br />1° leiding geven aan de medewerkers van het Vlaams Centrum voor Adoptie in overeenstemming met de missie en de doelstellingen van het Vlaams Centrum voor Adoptie;<br />2° een duidelijke visie uitwerken voor de werking van het Vlaams Centrum voor Adoptie en die vertalen naar concrete strategische en operationele doelstellingen;<br />3° het adoptiebeleid maximaal afstemmen op de maatschappelijke verwachtingen;<br />4° contacten uitbouwen en onderhouden met externe betrokken partijen.
+...
 
 ## HOOFDSTUK 3. Raadgevend comité
 
 ### ART. 4.
 
-Het raadgevend comité van het Vlaams Centrum voor Adoptie bestaat uit dertien leden :<br />1° drie vertegenwoordigers van de adoptieouders en geadopteerden;<br />2° drie vertegenwoordigers van de voorzieningen, die werkzaam zijn op de taakgebieden van het Vlaams Centrum voor Adoptie;<br />3° drie vertegenwoordigers van de werknemers van de voorzieningen, vermeld in punt 2° ;<br />4° vier onafhankelijke deskundigen.<br /><br />De leden, vermeld in het eerste lid, 1° tot en met 3°, hebben een plaatsvervanger. Ze worden benoemd op voordracht van de representatieve middenveldorganisaties, waarbij voor elke vertegenwoordiger één mannelijke en één vrouwelijke kandidaat wordt voorgedragen.
+...
 
 ### ART. 5.
 
-De Vlaamse Regering wijst onder de leden van het raadgevend comité een voorzitter en hoogstens twee ondervoorzitters aan.
+...
 
 ### ART. 6.
 
-De leden van het raadgevend comité worden door de Vlaamse Regering ontslagen op eigen verzoek, op verzoek van de organisaties, vermeld in artikel 4, tweede lid, of om ernstige redenen.<br /><br />Ontslagen leden worden voor de resterende duur van hun mandaat vervangen door hun plaatsvervanger.
+...
 
 ### ART. 7.
 
-De leden van het raadgevend comité ontvangen voor hun werkzaamheden een presentiegeld van 83,89 euro per vergadering. Aan de voorzitter wordt een presentiegeld van 150 % van dat bedrag toegekend, namelijk 125,84 euro.<br /><br />Het presentiegeld wordt toegekend bij elke effectieve aanwezigheid op een vergadering met een maximum van zes vergaderingen per jaar. Als een vergadering wordt beschouwd : een vergadering van het raadgevend comité. Twee of meer vergaderingen op dezelfde dag gelden als één vergadering.
+...
 
 ### ART. 8.
 
-De voorzitter van het raadgevend comité krijgt een vaste vergoeding van 838,94 euro per jaar. Er wordt geen vaste vergoeding toegekend aan de leden van het raadgevend comité en hun eventuele plaatsvervangers.<br /><br />Er wordt geen vergoeding toegekend voor reiskosten die verbonden zijn aan de uitoefening van hun werkzaamheden.
+...
 
 ### ART. 9.
 
-De presentiegelden en de vergoedingen, vermeld in artikel 7 en 8, worden per jaar uitbetaald.
+...
 
 ## HOOFDSTUK 4. Slotbepalingen
 
 ### ART. 10.
 
-De presentiegelden en vergoedingen, vermeld in artikel 7 en 8, volgen de evolutie van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld. Ze zijn gekoppeld aan het spilindexcijfer 116,49 (basis augustus 2011).<br /><br />
+...
 
 ### ART. 11.
 
-De volgende regelgevende teksten treden in werking op de eerste dag van de maand die volgt op het verstrijken van een termijn van tien dagen, die ingaat op de dag na de bekendmaking van dit besluit in het Belgisch Staatsblad :<br />1° artikel 20 en 21 van het decreet van 20 januari 2012;<br />2° dit besluit, met uitzondering van hoofdstuk 3 dat in werking treedt op 1 januari 2013.
+...
 
 ### ART. 12.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
+...
