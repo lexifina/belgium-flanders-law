@@ -475,6 +475,11 @@ In dit artikel wordt verstaan onder:<br>
 
 In artikel 8, § 3, van het decreet van 3 juli 2015 houdende regeling van de binnenlandse adoptie van kinderen en houdende wijziging van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen wordt de zinsnede "artikel 1231.31 van het Gerechtelijk Wetboek" vervangen door de zinsnede "artikel 1231.3 van het Gerechtelijk Wetboek".
 
+### ART 110.
+
+Aan artikel 14, § 2, eerste lid, van hetzelfde decreet wordt een punt 6° toegevoegd, dat luidt als volgt:<br>
+"6° het onderzoek voeren, vermeld in artikel 1231.10, 3°, van het Gerechtelijk Wetboek.".
+
 ### ART 111.
 
 In artikel 15, § 2, van het decreet van 3 juli 2015 houdende regeling van de binnenlandse adoptie van kinderen en houdende wijziging van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen wordt de zin "Tevens voorziet zij in een bezwaarprocedure." opgeheven.
