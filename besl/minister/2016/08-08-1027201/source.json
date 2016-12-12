@@ -2,16 +2,16 @@
   "codex_id": 1027201,
   "title": "Ministerieel besluit van 2016-08-08 tot bepaling van de criteria en de multidisciplinaire informatie die recht verlenen op de Vlaamse ondersteuningspremie en tot aanduiding van de organisatie die gelast is met de beoordeling van zelfstandige activiteiten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027201/VolledigDocument?datum=2016-07-01",
-  "source_sha256": "de23fc8fbb17d7ce023f96a472589484e6c66d7926c43d501f5a2e464ea5ef63",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027201/VolledigDocument?datum=2016-12-12",
+  "source_sha256": "bcbd847afc6e814c7bef5e705e4cac939a602d51a711b24840fe09963f28a1d1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027201&param=informatie",
-  "as_of": "2016-07-01",
+  "as_of": "2016-12-12",
   "made": "2016-08-08",
   "gazette": "2016-09-07",
   "numac": 2016036315,
   "document_start": "2016-07-01",
   "document_end": null,
-  "in_force": "2016-07-01",
+  "in_force": "2016-12-12",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2016-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-12-12; future article versions excluded; article text as the API gives it"
 }
