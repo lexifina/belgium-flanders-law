@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027615,
+  "title": "Ministerieel besluit van 2016-10-17 houdende uitvoering van artikel 2 en 4 van het besluit van de Vlaamse Regering van 31 januari 2014 betreffende erkenningen van producenten- en brancheorganisaties, voor de sector eieren,",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027615/VolledigDocument?datum=2016-12-16",
+  "source_sha256": "926591d455dca03976b3c25b9663ec362d45e7613ea3f8c64c4aba46ea4e9c49",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027615&param=informatie",
+  "as_of": "2016-12-16",
+  "made": "2016-10-17",
+  "gazette": "2016-12-06",
+  "numac": 2016036552,
+  "document_start": "2016-12-16",
+  "document_end": null,
+  "in_force": "2016-12-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-12-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
