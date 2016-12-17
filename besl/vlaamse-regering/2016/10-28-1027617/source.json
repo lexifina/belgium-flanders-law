@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027617,
+  "title": "Besluit van de Vlaamse Regering van 2016-10-28 tot erkenning van de kwaliteitsstandaard voor het organiseren van risicovechtsporten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027617/VolledigDocument?datum=2016-12-17",
+  "source_sha256": "6daa3116383630b02a2926a3d64c399c46f8ce03880800f0fe2b2b39e1858798",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027617&param=informatie",
+  "as_of": "2016-12-17",
+  "made": "2016-10-28",
+  "gazette": "2016-12-07",
+  "numac": 2016036590,
+  "document_start": "2016-12-17",
+  "document_end": null,
+  "in_force": "2016-12-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-12-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
