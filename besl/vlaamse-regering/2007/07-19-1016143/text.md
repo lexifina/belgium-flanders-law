@@ -14,11 +14,14 @@ In dit besluit wordt verstaan onder :<br />1° raadgevende comités : de raadgev
 
 ### ART. 2.
 
-§ 1. Het raadgevend comité van Zorg en Gezondheid bestaat uit achttien leden, waarvan :<br>
-1° vier vertegenwoordigers van de gebruikers van de door het betrokken agentschap georganiseerde ondersteuning;<br>
-2° vier vertegenwoordigers van de voorzieningen, die actief zijn op het werkterrein van het betrokken agentschap;<br>
-3° vier vertegenwoordigers van de werknemers van de voorzieningen, vermeld in 2°;<br>
-4° zes onafhankelijke deskundigen.<br>
+§ 1. Het raadgevend comité van Zorg en Gezondheid bestaat uit dertig leden, van wie :<br>
+1° tien vertegenwoordigers van de representatieve beroepsverenigingen van zorgverleners;<br>
+2° zes vertegenwoordigers van voorzieningen die actief zijn op het werkterrein van het agentschap;<br>
+3° vier vertegenwoordigers van de gebruikers van diensten die het agentschap ondersteunt;<br>
+4° zes vertegenwoordigers van de sociale partners binnen het domein Welzijn, Volksgezondheid en Gezin;<br>
+5° vier onafhankelijke deskundigen met een bijzondere deskundigheid binnen het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br>
+<br>
+De voorzitter, vermeld in artikel 5, wordt aangewezen onder de deskundigen, vermeld in het eerste lid, 5°.<br>
 <br>
 § 2. Het raadgevend comité van het VAPH bestaat uit 24 leden, waarvan :<br>
 1° zes vertegenwoordigers van de gebruikers van de door het agentschap georganiseerde ondersteuning;<br>
@@ -51,7 +54,10 @@ De leden worden door de Vlaamse Regering voor een periode van vier jaar benoemd.
 
 ### ART. 4.
 
-De minister nodigt organisaties en geledingen uit om kandidaten voor te dragen voor de mandaten vermeld in artikel 2, § 1, 1° tot en met 3°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3° en § 4, 1° tot en met 4°.<br /><br />Hij houdt hierbij rekening met de maatschappelijke relevantie en de belangrijkheid van deze organisaties en geledingen evenals met de verscheidenheid ervan.<br /><br />
+De minister nodigt organisaties en geledingen uit om kandidaten voor te dragen voor de mandaten vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3° en § 4, 1° tot en met 4°.<br>
+<br>
+Hij houdt hierbij rekening met de maatschappelijke relevantie en de belangrijkheid van deze organisaties en geledingen evenals met de verscheidenheid ervan.<br>
+&nbsp;
 
 ### ART. 5.
 
@@ -59,11 +65,15 @@ De minister wijst onder de leden van de raadgevende comités een voorzitter en h
 
 ### ART. 6.
 
-De voordragende organisaties en geledingen duiden een plaatsvervanger aan voor de vertegenwoordigers, vermeld in artikel 2, § 1, 1° tot en met 3°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3° en § 4, 1° tot en met 4°.<br /><br />
+De voordragende organisaties en geledingen duiden een plaatsvervanger aan voor de vertegenwoordigers, vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3° en § 4, 1° tot en met 4°.<br>
+&nbsp;
 
 ### ART. 7.
 
-De vertegenwoordigers, vermeld in artikel 2, § 1, 1° tot en met 3°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3°, en § 4, 1° tot en met 4°, worden voorgedragen op lijsten, waarbij voor elke vertegenwoordiger één mannelijke en één vrouwelijke kandidaat worden voorgedragen.<br /><br />Telkens als in een raadgevend comité één of meerdere mandaten ten gevolge van een voordrachtprocedure vacant zijn, moeten per mandaat, één man en één vrouw worden voorgedragen.<br /><br />
+De vertegenwoordigers, vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3°, en § 4, 1° tot en met 4°, worden voorgedragen op lijsten, waarbij voor elke vertegenwoordiger één mannelijke en één vrouwelijke kandidaat worden voorgedragen.<br>
+<br>
+Telkens als in een raadgevend comité één of meerdere mandaten ten gevolge van een voordrachtprocedure vacant zijn, moeten per mandaat, één man en één vrouw worden voorgedragen.<br>
+&nbsp;
 
 ### ART. 8.
 
