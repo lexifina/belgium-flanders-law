@@ -8,7 +8,105 @@ Dit decreet, hierna Vlaamse Wooncode te noemen, regelt een aangelegenheid bedoel
 
 ### ART. 2.
 
-§ 1. Voor de toepassing van de Vlaamse Wooncode en de besluiten genomen   ter uitvoering ervan, worden de hierna vermelde begrippen gebruikt :<BR>1°   aanpassing : de uitvoering van specifieke werkzaamheden om een woning te doen   beantwoorden aan de woningbezetting, de gezinssamenstelling of aan de fysieke   mogelijkheden van bejaarden en personen met een handicap;<BR>2°&nbsp;decreet   Grond- en Pandenbeleid : het decreet van 27 maart 2009 betreffende het Grond- en   Pandenbeleid; <BR>3° bestaande woonkern : een gebied met dichte bebouwing,   bestemd voor bewoning, waar gemakkelijk een aansluiting op bestaande   infrastructuur kan worden gerealiseerd en dat gekarakteriseerd wordt door de   effectieve beschikbaarheid van primaire voorzieningen van dagelijkse,   commerciële, dienstverlenende en socio-culturele aard;<BR>4° Heffingsdecreet :   afdeling 2, van hoofdstuk VIII, van het decreet van 22 december 1995 houdende   bepalingen tot begeleiding van de begroting 1996;<BR>5°   gemeenschapsvoorzieningen : de installaties of gebouwen van collectieve aard en   van sociaal of cultureel belang, met inbegrip van voorzieningen die bijdragen   tot een verwevenheid van functies op buurtniveau;<BR>6° woonbehoeftig :   verkerend in een feitelijke economische en maatschappelijke situatie waarin een   behoorlijke huisvesting slechts kan worden verworven of behouden met extra of   omvattende steun;<BR>7° gewestelijk ambtenaar : de ambtenaar die met toepassing   van de regels, vastgesteld door de Vlaamse Regering wordt aangewezen en die   binnen zijn ambtsgebied belast is met opdrachten inzake kwaliteitsbewaking,   zoals bedoeld in titel III; <BR>8° gezin : meerdere personen die op duurzame   wijze in dezelfde woning samenwonen en daar hun hoofdverblijfplaats   hebben;<BR>9° ...;<BR>10° hoofdverblijfplaats : de woning waar een gezin of een   alleenstaande effectief en gewoonlijk verblijft;<BR>10° bis kamer : een woning   waarin een toilet, een bad of douche of een kookgelegenheid ontbreken en waarvan   de bewoners voor een of meer van die voorzieningen aangewezen zijn op de   gemeenschappelijke ruimten in of aansluitend bij het gebouw waarvan de woning   deel uitmaakt;<BR>11° onaangepaste woning : een woning die niet aangepast is aan   de fysieke mogelijkheden van bejaarden of personen met een handicap of die niet   aangepast is aan de woningbezetting volgens de normen, vastgesteld met   toepassing van artikel 5, § 1, derde lid;<BR>12° onbewoonbare woning : een   woning die niet in aanmerking komt voor bewoning omdat ze gebreken vertoont die   een veiligheids- of gezondheidsrisico inhouden;<BR>13° ongeschikt gebouw : een   gebouw dat niet meer geschikt is voor een gebruik waarvoor het oorspronkelijk   bestemd was;<BR>14° ongeschikte woning : een woning die niet beantwoordt aan de   veiligheids-, gezondheids- of kwaliteitsnormen, opgelegd door de Vlaamse   Wooncode;<BR>15° opvulbouw : de realisatie van één of meer woningen binnen een   bestaande woonkern, die in verhouding tot het aantal bestaande woningen een   klein deel ervan uitmaken;<BR>16° overbewoonde woning : een woning die   onaangepast is vanwege de woningbezetting, waarbij het aantal bewoners van de   woning zo groot is dat het een veiligheids- of gezondheidsrisico vormt;<BR>17°   personen met een handicap : personen die voldoen aan de criteria om een attest   te bekomen volgens het besluit van de Vlaamse Regering tot bepaling van de   attesten die in aanmerking worden genomen om een ernstige handicap vast te   stellen;<BR>18° renovatie : de uitvoering van structurele ingrepen die vooral   betrekking hebben op de stabiliteit, de bouwfysica of de veiligheid, aan een   woning of gebouw dat bestemd is om te worden bewoond;<BR>19° renovatie- of   opvulbouwproject : een sociaal woonproject dat omvangrijke structurele ingrepen   inhoudt, met name renovatie, vervangingsbouw en/of opvulbouw, met betrekking tot   één of meer woningen, gebouwen of percelen die gelegen zijn in een bestaande   woonkern;<BR>20° sociale huisvestingsmaatschappij : de erkende sociale   huisvestingsmaatschappijen, vermeld in artikel 40;<BR>21° erkende huurdiensten :   huurdersbonden of sociale verhuurkantoren die door de Vlaamse Regering erkend   zijn overeenkomstig artikel 56;<BR>22° sociale huurwoning : een woning die als   hoofdverblijfplaats verhuurd of onderverhuurd wordt door : <BR>a) de Vlaamse   Maatschappij voor Sociaal Wonen of een sociale huisvestingsmaatschappij;<BR>b)   de sociale verhuurkantoren die overeenkomstig artikel 56 erkend zijn als   huurdienst; <BR>c) het Vlaams Woningfonds, een gemeente, een intergemeentelijk   samenwerkingsverband, een OCMW of een OCMW-vereniging, voor zover er voor die   woning een van de volgende subsidies werd verleend : <BR>1) een subsidie met   toepassing van artikel 38, tweede lid, 5°, van de Huisvestingscode, gevoegd bij   het koninklijk besluit van 10 december 1970, bekrachtigd bij de wet van 2 juli   1971;<BR>2) een subsidie als vermeld in artikel 49 van het decreet van 25 juni   1992 houdende diverse bepalingen tot begeleiding van de begroting 1992, in   artikel 38, § 1, of in hoofdstuk II of III van titel VI;<BR>d) een gemeente, een   OCMW of een sociale woonorganisatie, met uitzondering van de   huurdersorganisaties, voor zover op de woning het sociaal beheersrecht, vermeld   in artikel 90, wordt uitgeoefend of voor zover het een woning als vermeld in   artikel 18, § 2, betreft;<BR>e) een gemeente of een OCMW, voor zover de woning   verworven werd met toepassing van het recht van voorkoop, vermeld in artikel   85;<BR>f) een gemeente of een intergemeentelijk samenwerkingsverband, voor zover   er toepassing gemaakt wordt van artikel 4.1.15 van het decreet Grond- en   Pandenbeleid;<BR>23° sociale koopwoning : een woning die wordt bestemd om   verkocht te worden aan woonbehoeftige gezinnen en alleenstaanden door : <BR>a)   de Vlaamse Maatschappij voor Sociaal Wonen of een sociale   huisvestingsmaatschappij;<BR>b) een gemeente of een intergemeentelijk   samenwerkingsverband, voor zover er toepassing gemaakt wordt van artikel 4.1.15   van het decreet Grond- en Pandenbeleid;<BR>c) het Vlaams Woningfonds, een   gemeente of een intergemeentelijk samenwerkingsverband, voor zover er voor die   woning een subsidie verleend werd als vermeld in artikel 49 van het decreet van   25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992,   in artikel 38, § 1, of in hoofdstuk II of III van titel VI;<BR>d) een gemeente,   voor zover de woning verworven werd met toepassing van het recht van   voorkoop;<BR>24° sociale lening : een lening die overeenkomstig de bepalingen   van artikel 78 of 79 aan een gezin of alleenstaande wordt toegekend voor de   bouw, de verwerving, de renovatie, de verbetering of de aanpassing van een   woning en die gedekt is door een hypotheek op die woning;<BR>25° sociale kavel :   een in een goedgekeurde en niet-vervallen verkaveling gelegen afgebakend   perceel, voorzien van de nodige infrastructuur en nutsvoorzieningen, dat wordt   bestemd om verkocht te worden aan woonbehoeftige gezinnen en alleenstaanden door   : <BR>a) de Vlaamse Maatschappij voor Sociaal Wonen of een sociale   huisvestingsmaatschappij;<BR>b) een gemeente of een intergemeentelijk   samenwerkingsverband, voor zover er met betrekking tot dat perceel een van de   volgende gevallen zich voordoet : <BR>1) er werd een subsidie verleend als   vermeld in punt 23°, c);<BR>2) er wordt toepassing gemaakt van artikel 4.1.15   van het decreet Grond- en Pandenbeleid;<BR>c) een gemeente, voor zover het   perceel verworven werd met toepassing van het recht van voorkoop;<BR>26° sociale   woonorganisaties : de Vlaamse Maatschappij voor Sociaal Wonen, een sociale   huisvestingsmaatschappij, het Vlaams Woningfonds, een sociaal verhuurkantoor of   een huurdersbond;<BR>27° subsidiabel bedrag : de kostprijs van de gesubsidieerde   verrichting of het bedrag dat de Vlaamse Regering vaststelt en waarop de   subsidie of de tegemoetkoming wordt berekend;<BR>28° subsidie : een voordeel dat   betrekking heeft op een woonproject en krachtens de Vlaamse Wooncode wordt   verleend aan andere initiatiefnemers dan gezinnen of alleenstaanden;<BR>29°   tegemoetkoming : een voordeel dat krachtens de Vlaamse Wooncode wordt verleend   aan gezinnen of alleenstaanden;<BR>30° verbetering : de uitvoering van beperkte   ingrepen aan een woning, vooral met betrekking tot het comfort, de   toegankelijkheid, de energie-efficiëntie of de privacy ten aanzien van de   onmiddellijke woonomgeving;<BR>31° woning : elk onroerend goed of het deel ervan   dat hoofdzakelijk bestemd is voor de huisvesting van een gezin of   alleenstaande;<BR>32° woonproject : een sociaal woonproject of een ander   woonproject dat wordt opgezet om te voorzien in de huisvesting van gezinnen of   alleenstaanden of om hun woonsituatie te verbeteren. <BR>Een woonproject is   sociaal wanneer het de realisatie van sociale huurwoningen, sociale koopwoningen   of sociale kavels, met inbegrip van de eventuele gemeenschappelijke   voorzieningen betreft.<BR>Een sociaal woonproject is gemengd wanneer aan   minstens één van de volgende voorwaarden is voldaan :<BR>a) het woonproject   omvat of realiseert een menging van sociale huur- en sociale koopwoningen;<BR>b)   de sociale huurwoningen en/of sociale koopwoningen worden zodanig geïntegreerd   in de bestaande woonstructuur dat er een menging ontstaat met woningen van de   privésector;<BR>33° woonwagen : een woongelegenheid, gekenmerkt door   flexibiliteit en verplaatsbaarheid, bestemd voor permanente en niet-recreatieve   bewoning;<BR>34° huurder van een sociale huurwoning : <BR>a) de persoon die zich   bij de inschrijving voor een sociale huurwoning heeft opgegeven als   referentiehuurder, en de persoon die bij aanvang van de huurovereenkomst met hem   gehuwd is of wettelijk samenwoont of die bij aanvang van de huurovereenkomst   zijn feitelijke partner is;<BR>b) de persoon die na de aanvang van de   huurovereenkomst huwt of wettelijk gaat samenwonen, met de persoon, vermeld in   punt a), en die de huurovereenkomst mee ondertekent of de feitelijke partner die   een jaar als huurder als vermeld in punt c), samenwoont met de persoon, vermeld   in punt a);<BR>c) alle andere personen dan de personen, vermeld in punt a) en   b), met uitzondering van de minderjarige kinderen, die in de sociale huurwoning   hun hoofdverblijfplaats hebben, en die de huurovereenkomst mee   ondertekenen;<BR>35° de Vlaamse Grondenbank : afdeling van de Vlaamse   Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende de   oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse   bepalingen;<BR>36° niet-residentiële ruimte : elk onroerend goed of deel ervan   dat niet bestemd is voor de huisvesting van een gezin of een alleenstaande en   dat geen gemeenschapsvoorziening is noch een specifieke voorziening zoals   bedoeld in artikel 72, eerste lid, 2°. <BR>37° landmeter-expert: de   landmeter-expert, ingeschreven op het tableau van de beoefenaars van het beroep   als bedoeld in de wet van 11 mei 2003 tot bescherming van de titel en van het   beroep van landmeter-expert en op wie het koninklijk besluit van 15 december   2005 tot vaststelling van de voorschriften inzake de plichtenleer van de   landmeter-expert van toepassing is.<BR>38° OCMW-vereniging : een vereniging als   vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008   betreffende de organisatie van openbare centra voor maatschappelijk   welzijn;<BR>39° venale waarde : de prijs die de meestbiedende kandidaat-koper   bereid zou zijn te betalen als een onroerend goed te koop gesteld zou worden   onder de meest gunstige voorwaarden en na een degelijke voorbereiding;<BR>40°   Vlabinvest apb : het Agentschap voor Grond- en Woonbeleid voor Vlaams-Brabant,   opgericht bij artikel 1 van het besluit van de provincieraad van Vlaams-Brabant   van 22 oktober 2013.<BR><BR>De Vlaamse regering kan de betekenis van   bovengenoemde begrippen nader omschrijven.<BR><BR>§ 2. De Vlaamse regering   bepaalt per vorm van steunverlening de criteria voor de evaluatie van de   feitelijke situatie, bedoeld in § 1, eerste lid, 6°, waarbij de inkomensgrenzen   telkens worden vastgesteld in verhouding tot de gezinssamenstelling.<BR><BR>De   Vlaamse Regering kan een bijzondere regeling treffen ten aanzien van de huurder,   die niet onder de toepassing valt van titel VII en wiens recht op wonen wordt   uitgeoefend met toepassing van woonbehoeftigheidsvoorwaarden die niet werden   bepaald volgens het eerste lid, wanneer de betrokken woning een sociale   huurwoning wordt.<BR><BR>§ 3. ...<BR><BR>§ 4. De Vlaamse regering kan andere dan   de in § 1, eerste lid, 17°, bedoelde criteria vaststellen op grond waarvan   personen, voor de toepassing van dit decreet, kunnen worden erkend als personen   met een handicap.<BR><BR>§ 5. In deze paragraaf wordt verstaan onder : <BR>1°   nutsbedrijven : de instanties die in het kader van de openbare nutsvoorziening   instaan voor de levering van water;<BR>2° distributienetbeheerders : de   natuurlijke personen of rechtspersonen, vermeld in artikel 2, 8°, van de wet van   29 april 1999 betreffende de organisatie van de elektriciteitsmarkt, en artikel   1, 31°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige   producten en andere door middel van leidingen. <BR><BR>Met behoud van de   toepassing van de machtigingsprocedure bepaald in de wet van 8 december 1992 tot   bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van   persoonsgegevens of van het decreet van 18 juli 2008 betreffende het   elektronisch bestuurlijke gegevensverkeer kan de toezichthouder, vermeld in   artikel 29bis, of de wooninspecteur, vermeld in artikel 20, § 2, in het kader   van een onderzoek naar effectieve bewoning met het oog op de vaststelling van de   misdrijven, vermeld in artikel 20 en 102bis, § 9, de verbruiksgegevens van   water, elektriciteit en gas opvragen bij de nutsbedrijven of de   distributienetbeheerders.<BR><BR>De nutsbedrijven of de distributienetbeheerders   moeten de verbruiksgegevens binnen een termijn van 14 dagen na ontvangst van de   aanvraag aan de toezichthouder of de wooninspecteur bezorgen.<BR><BR>De Vlaamse   Regering kan de wijze bepalen waarop de toezichthouder of de wooninspecteur de   verbruiksgegevens kan opvragen en de manier waarop de gegevens moeten worden   bezorgd.
+§ 1. Voor de toepassing van de Vlaamse Wooncode en de besluiten genomen ter uitvoering ervan, worden de hierna vermelde begrippen gebruikt :<br>
+1° aanpassing : de uitvoering van specifieke werkzaamheden om een woning te doen beantwoorden aan de woningbezetting, de gezinssamenstelling of aan de fysieke mogelijkheden van bejaarden en personen met een handicap;<br>
+2°&nbsp;decreet Grond- en Pandenbeleid : het decreet van 27 maart 2009 betreffende het Grond- en Pandenbeleid;<br>
+3° bestaande woonkern : een gebied met dichte bebouwing, bestemd voor bewoning, waar gemakkelijk een aansluiting op bestaande infrastructuur kan worden gerealiseerd en dat gekarakteriseerd wordt door de effectieve beschikbaarheid van primaire voorzieningen van dagelijkse, commerciële, dienstverlenende en socio-culturele aard;<br>
+4° Heffingsdecreet : afdeling 2, van hoofdstuk VIII, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
+5° gemeenschapsvoorzieningen : de installaties of gebouwen van collectieve aard en van sociaal of cultureel belang, met inbegrip van voorzieningen die bijdragen tot een verwevenheid van functies op buurtniveau;<br>
+6° woonbehoeftig : verkerend in een feitelijke economische en maatschappelijke situatie waarin een behoorlijke huisvesting slechts kan worden verworven of behouden met extra of omvattende steun;<br>
+7° gewestelijk ambtenaar : de ambtenaar die met toepassing van de regels, vastgesteld door de Vlaamse Regering wordt aangewezen en die binnen zijn ambtsgebied belast is met opdrachten inzake kwaliteitsbewaking, zoals bedoeld in titel III;<br>
+8° gezin : meerdere personen die op duurzame wijze in dezelfde woning samenwonen en daar hun hoofdverblijfplaats hebben;<br>
+9° ...;<br>
+10° hoofdverblijfplaats : de woning waar een gezin of een alleenstaande effectief en gewoonlijk verblijft;<br>
+10° bis kamer : een woning waarin een toilet, een bad of douche of een kookgelegenheid ontbreken en waarvan de bewoners voor een of meer van die voorzieningen aangewezen zijn op de gemeenschappelijke ruimten in of aansluitend bij het gebouw waarvan de woning deel uitmaakt;<br>
+11° onaangepaste woning : een woning die niet aangepast is aan de fysieke mogelijkheden van bejaarden of personen met een handicap of die niet aangepast is aan de woningbezetting volgens de normen, vastgesteld met toepassing van artikel 5, § 1, derde lid;<br>
+12° onbewoonbare woning : een woning die niet in aanmerking komt voor bewoning omdat ze gebreken vertoont die een veiligheids- of gezondheidsrisico inhouden;<br>
+13° ongeschikt gebouw : een gebouw dat niet meer geschikt is voor een gebruik waarvoor het oorspronkelijk bestemd was;<br>
+14° ongeschikte woning : een woning die niet beantwoordt aan de veiligheids-, gezondheids- of kwaliteitsnormen, opgelegd door de Vlaamse Wooncode;<br>
+15° opvulbouw : de realisatie van één of meer woningen binnen een bestaande woonkern, die in verhouding tot het aantal bestaande woningen een klein deel ervan uitmaken;<br>
+16° overbewoonde woning : een woning die onaangepast is vanwege de woningbezetting, waarbij het aantal bewoners van de woning zo groot is dat het een veiligheids- of gezondheidsrisico vormt;<br>
+17° personen met een handicap : personen die voldoen aan de criteria om een attest te bekomen volgens het besluit van de Vlaamse Regering tot bepaling van de attesten die in aanmerking worden genomen om een ernstige handicap vast te stellen;<br>
+18° renovatie : de uitvoering van structurele ingrepen die vooral betrekking hebben op de stabiliteit, de bouwfysica of de veiligheid, aan een woning of gebouw dat bestemd is om te worden bewoond;<br>
+19° renovatie- of opvulbouwproject : een sociaal woonproject dat omvangrijke structurele ingrepen inhoudt, met name renovatie, vervangingsbouw en/of opvulbouw, met betrekking tot één of meer woningen, gebouwen of percelen die gelegen zijn in een bestaande woonkern;<br>
+19° bis vervangingsbouw: een gebouw of woning volledig afbreken en op hetzelfde perceel een of meer nieuwe woningen oprichten;<br>
+20° sociale huisvestingsmaatschappij : de erkende sociale huisvestingsmaatschappijen, vermeld in artikel 40;<br>
+21° erkende huurdiensten : huurdersbonden of sociale verhuurkantoren die door de Vlaamse Regering erkend zijn overeenkomstig artikel 56;<br>
+22° sociale huurwoning : een woning die als hoofdverblijfplaats verhuurd of onderverhuurd wordt door :<br>
+a) de Vlaamse Maatschappij voor Sociaal Wonen of een sociale huisvestingsmaatschappij;<br>
+b) de sociale verhuurkantoren die overeenkomstig artikel 56 erkend zijn als huurdienst;<br>
+c) het Vlaams Woningfonds, een gemeente, een intergemeentelijk samenwerkingsverband, een OCMW of een OCMW-vereniging, voor zover er voor die woning een van de volgende subsidies werd verleend :<br>
+1) een subsidie met toepassing van artikel 38, tweede lid, 5°, van de Huisvestingscode, gevoegd bij het koninklijk besluit van 10 december 1970, bekrachtigd bij de wet van 2 juli 1971;<br>
+2) een subsidie als vermeld in artikel 49 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992, in artikel 38, § 1, of in hoofdstuk II of III van titel VI;<br>
+d) een gemeente, een OCMW of een sociale woonorganisatie, met uitzondering van de huurdersorganisaties, voor zover op de woning het sociaal beheersrecht, vermeld in artikel 90, wordt uitgeoefend of voor zover het een woning als vermeld in artikel 18, § 2, betreft;<br>
+e) een gemeente of een OCMW, voor zover de woning verworven werd met toepassing van het recht van voorkoop, vermeld in artikel 85;<br>
+f) een gemeente of een intergemeentelijk samenwerkingsverband, voor zover er toepassing gemaakt wordt van artikel 4.1.15 van het decreet Grond- en Pandenbeleid;<br>
+23° sociale koopwoning : een woning die wordt bestemd om verkocht te worden aan woonbehoeftige gezinnen en alleenstaanden door :<br>
+a) de Vlaamse Maatschappij voor Sociaal Wonen of een sociale huisvestingsmaatschappij;<br>
+b) een gemeente of een intergemeentelijk samenwerkingsverband, voor zover er toepassing gemaakt wordt van artikel 4.1.15 van het decreet Grond- en Pandenbeleid;<br>
+c) het Vlaams Woningfonds, een gemeente of een intergemeentelijk samenwerkingsverband, voor zover er voor die woning een subsidie verleend werd als vermeld in artikel 49 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992, in artikel 38, § 1, of in hoofdstuk II of III van titel VI;<br>
+d) een gemeente, voor zover de woning verworven werd met toepassing van het recht van voorkoop;<br>
+24° sociale lening : een lening die overeenkomstig de bepalingen van artikel 78 of 79 aan een gezin of alleenstaande wordt toegekend voor de bouw, de verwerving, de renovatie, de verbetering of de aanpassing van een woning en die gedekt is door een hypotheek op die woning;<br>
+25° sociale kavel : een in een goedgekeurde en niet-vervallen verkaveling gelegen afgebakend perceel, voorzien van de nodige infrastructuur en nutsvoorzieningen, dat wordt bestemd om verkocht te worden aan woonbehoeftige gezinnen en alleenstaanden door :<br>
+a) de Vlaamse Maatschappij voor Sociaal Wonen of een sociale huisvestingsmaatschappij;<br>
+b) een gemeente of een intergemeentelijk samenwerkingsverband, voor zover er met betrekking tot dat perceel een van de volgende gevallen zich voordoet :<br>
+1) er werd een subsidie verleend als vermeld in punt 23°, c);<br>
+2) er wordt toepassing gemaakt van artikel 4.1.15 van het decreet Grond- en Pandenbeleid;<br>
+c) een gemeente, voor zover het perceel verworven werd met toepassing van het recht van voorkoop;<br>
+26° sociale woonorganisaties : de Vlaamse Maatschappij voor Sociaal Wonen, een sociale huisvestingsmaatschappij, het Vlaams Woningfonds, een sociaal verhuurkantoor of een huurdersbond;<br>
+27° subsidiabel bedrag : de kostprijs van de gesubsidieerde verrichting of het bedrag dat de Vlaamse Regering vaststelt en waarop de subsidie of de tegemoetkoming wordt berekend;<br>
+28° subsidie : een voordeel dat betrekking heeft op een woonproject en krachtens de Vlaamse Wooncode wordt verleend aan andere initiatiefnemers dan gezinnen of alleenstaanden;<br>
+29° tegemoetkoming : een voordeel dat krachtens de Vlaamse Wooncode wordt verleend aan gezinnen of alleenstaanden;<br>
+30° verbetering : de uitvoering van beperkte ingrepen aan een woning, vooral met betrekking tot het comfort, de toegankelijkheid, de energie-efficiëntie of de privacy ten aanzien van de onmiddellijke woonomgeving;<br>
+31° woning : elk onroerend goed of het deel ervan dat hoofdzakelijk bestemd is voor de huisvesting van een gezin of alleenstaande;<br>
+32° woonproject : een sociaal woonproject of een ander woonproject dat wordt opgezet om te voorzien in de huisvesting van gezinnen of alleenstaanden of om hun woonsituatie te verbeteren.<br>
+Een woonproject is sociaal wanneer het de realisatie van sociale huurwoningen, sociale koopwoningen of sociale kavels, met inbegrip van de eventuele gemeenschappelijke voorzieningen betreft.<br>
+Een sociaal woonproject is gemengd wanneer aan minstens één van de volgende voorwaarden is voldaan :<br>
+a) het woonproject omvat of realiseert een menging van sociale huur- en sociale koopwoningen;<br>
+b) de sociale huurwoningen en/of sociale koopwoningen worden zodanig geïntegreerd in de bestaande woonstructuur dat er een menging ontstaat met woningen van de privésector;<br>
+33° woonwagen : een woongelegenheid, gekenmerkt door flexibiliteit en verplaatsbaarheid, bestemd voor permanente en niet-recreatieve bewoning;<br>
+34° huurder van een sociale huurwoning :<br>
+a) de persoon die zich bij de inschrijving voor een sociale huurwoning heeft opgegeven als referentiehuurder, en de persoon die bij aanvang van de huurovereenkomst met hem gehuwd is of wettelijk samenwoont of die bij aanvang van de huurovereenkomst zijn feitelijke partner is;<br>
+b) de persoon die na de aanvang van de huurovereenkomst huwt of wettelijk gaat samenwonen, met de persoon, vermeld in punt a), en die de huurovereenkomst mee ondertekent of de feitelijke partner die een jaar als huurder als vermeld in punt c), samenwoont met de persoon, vermeld in punt a);<br>
+c) alle andere personen dan de personen, vermeld in punt a) en b), met uitzondering van de minderjarige kinderen, die in de sociale huurwoning hun hoofdverblijfplaats hebben, en die de huurovereenkomst mee ondertekenen;<br>
+35° de Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen;<br>
+36° niet-residentiële ruimte : elk onroerend goed of deel ervan dat niet bestemd is voor de huisvesting van een gezin of een alleenstaande en dat geen gemeenschapsvoorziening is noch een specifieke voorziening zoals bedoeld in artikel 72, eerste lid, 2°.<br>
+37° landmeter-expert: de landmeter-expert, ingeschreven op het tableau van de beoefenaars van het beroep als bedoeld in de wet van 11 mei 2003 tot bescherming van de titel en van het beroep van landmeter-expert en op wie het koninklijk besluit van 15 december 2005 tot vaststelling van de voorschriften inzake de plichtenleer van de landmeter-expert van toepassing is.<br>
+38° OCMW-vereniging : een vereniging als vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van openbare centra voor maatschappelijk welzijn;<br>
+39° venale waarde : de prijs die de meestbiedende kandidaat-koper bereid zou zijn te betalen als een onroerend goed te koop gesteld zou worden onder de meest gunstige voorwaarden en na een degelijke voorbereiding;<br>
+40° Vlabinvest apb : het Agentschap voor Grond- en Woonbeleid voor Vlaams-Brabant, opgericht bij artikel 1 van het besluit van de provincieraad van Vlaams-Brabant van 22 oktober 2013.<br>
+<br>
+De Vlaamse regering kan de betekenis van bovengenoemde begrippen nader omschrijven.<br>
+<br>
+§ 2. De Vlaamse regering bepaalt per vorm van steunverlening de criteria voor de evaluatie van de feitelijke situatie, bedoeld in § 1, eerste lid, 6°, waarbij de inkomensgrenzen telkens worden vastgesteld in verhouding tot de gezinssamenstelling.<br>
+<br>
+De Vlaamse Regering kan een bijzondere regeling treffen ten aanzien van de huurder, die niet onder de toepassing valt van titel VII en wiens recht op wonen wordt uitgeoefend met toepassing van woonbehoeftigheidsvoorwaarden die niet werden bepaald volgens het eerste lid, wanneer de betrokken woning een sociale huurwoning wordt.<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. De Vlaamse regering kan andere dan de in § 1, eerste lid, 17°, bedoelde criteria vaststellen op grond waarvan personen, voor de toepassing van dit decreet, kunnen worden erkend als personen met een handicap.<br>
+<br>
+§ 5. In deze paragraaf wordt verstaan onder :<br>
+1° nutsbedrijven : de instanties die in het kader van de openbare nutsvoorziening instaan voor de levering van water;<br>
+2° distributienetbeheerders : de natuurlijke personen of rechtspersonen, vermeld in artikel 2, 8°, van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt, en artikel 1, 31°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen.<br>
+<br>
+Met behoud van de toepassing van de machtigingsprocedure bepaald in de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens of van het decreet van 18 juli 2008 betreffende het elektronisch bestuurlijke gegevensverkeer kan de toezichthouder, vermeld in artikel 29bis, of de wooninspecteur, vermeld in artikel 20, § 2, in het kader van een onderzoek naar effectieve bewoning met het oog op de vaststelling van de misdrijven, vermeld in artikel 20 en 102bis, § 9, de verbruiksgegevens van water, elektriciteit en gas opvragen bij de nutsbedrijven of de distributienetbeheerders.<br>
+<br>
+De nutsbedrijven of de distributienetbeheerders moeten de verbruiksgegevens binnen een termijn van 14 dagen na ontvangst van de aanvraag aan de toezichthouder of de wooninspecteur bezorgen.<br>
+<br>
+De Vlaamse Regering kan de wijze bepalen waarop de toezichthouder of de wooninspecteur de verbruiksgegevens kan opvragen en de manier waarop de gegevens moeten worden bezorgd.<br>
+<br>
+§ 6. Als ze het noodzakelijk achten, delen de wooninspecteurs, vermeld in artikel 20, § 2, of de toezichthouders, vermeld in artikel 29bis, de informatie die ze tijdens hun onderzoek hebben verkregen, mee aan alle ambtenaren die belast zijn met het toezicht op een andere wetgeving of met de toepassing van een andere wetgeving, als die informatie hen kan aanbelangen bij de uitoefening van het toezicht waarmee ze belast zijn of voor de toepassing van een andere wetgeving. De wooninspecteurs, vermeld in artikel 20, § 2, of de toezichthouders, vermeld in artikel 29bis, kunnen die informatie ook meedelen aan de sociale verhuurders, vermeld in paragraaf 1, eerste lid, 22°, als ze dat noodzakelijk achten.<br>
+<br>
+De informatie die werd verkregen tijdens de uitoefening van plichten, voorgeschreven door de rechterlijke overheid, mag alleen worden meegedeeld met de uitdrukkelijke machtiging van de rechterlijke overheid.<br>
+<br>
+De ambtenaren die belast zijn met het toezicht op een andere wetgeving of met de toepassing van een andere wetgeving, en de sociale verhuurders, vermeld in paragraaf 1, eerste lid, 22°, mogen de informatie, verkregen op grond van deze paragraaf, alleen gebruiken voor de uitoefening van alle opdrachten waarmee ze belast zijn.<br>
+<br>
+§ 7. Met behoud van de toepassing van artikel 44/1 van de wet van 5 augustus 1992 op het politieambt verstrekken alle diensten van het Vlaamse Gewest, de Vlaamse Gemeenschap, de provincies, de gemeenten, de verenigingen waartoe ze behoren, en de sociale verhuurders, vermeld in paragraaf 1, eerste lid, 22°, aan de wooninspecteurs, vermeld in artikel 20, § 2, en de toezichthouders, vermeld in artikel 29bis, op hun verzoek, alle informatie die de laatstgenoemden nuttig achten voor het toezicht op de naleving van de wetgeving waarmee ze belast zijn. Ze geven inzage in alle informatiedragers en verstrekken kopieën ervan in om het even welke vorm. De inlichtingen en kopieën worden kosteloos verstrekt.<br>
+<br>
+De inlichtingen en informatiedragers, verzameld tijdens de uitvoering van de taken die door de rechterlijke overheid zijn opgelegd, mogen alleen worden meegedeeld met de uitdrukkelijke machtiging van de rechterlijke overheid.<br>
+<br>
+De wooninspecteurs, vermeld in artikel 20, § 2, en de toezichthouders, vermeld in artikel 29bis, mogen de inlichtingen, verkregen op grond van deze paragraaf, alleen gebruiken voor de uitoefening van alle opdrachten met betrekking tot het toezicht waarmee ze belast zijn.
 
 ### ART. 2bis.
 
@@ -30,23 +128,77 @@ Iedereen heeft recht op menswaardig wonen.<br /><br />Daartoe moet de beschikkin
 
 ## [HOOFDSTUK III LANGETERMIJNVISIE EN -DOELSTELLINGEN (ing. decr. 14 oktober 2016, art. 7, I: 23 december 2016)]
 
+### ART 4bis.
+
+§ 1. De Vlaamse Regering stelt in 2017 een Woonbeleidsplan Vlaanderen vast na advies van de Vlaamse Woonraad.<br>
+<br>
+Het Woonbeleidsplan Vlaanderen bevat:<br>
+1° een informatief gedeelte;<br>
+2° een gedeelte met de langetermijnvisie en langetermijndoelstellingen voor het Vlaamse woonbeleid met tijdshorizon 2050.<br>
+<br>
+Het Woonbeleidsplan Vlaanderen moet de realisatie van de doelstellingen, vermeld in artikel 3 en 4, garanderen op de lange termijn. De langetermijnvisie en -doelstellingen worden vijftienjaarlijks herzien door de Vlaamse Regering. Ze kunnen worden herzien naar aanleiding van maatschappelijke evoluties of nieuwe inzichten uit wetenschappelijk onderzoek.<br>
+<br>
+§ 2. In het eerste jaar van iedere legislatuur wordt door de Vlaamse Regering een actieprogramma vastgesteld dat een selectie van initiatieven bevat die op korte termijn kunnen worden opgestart of voortgezet en die bijdragen aan de realisatie van de langetermijndoelstellingen. Tegelijkertijd wordt een actualisatie van het informatieve gedeelte vastgesteld.
+
 ## TITEL III KWALITEITSBEWAKING
 
 ## HOOFDSTUK I DE VEILIGHEIDS-, GEZONDHEIDS- EN WOONKWALITEITSNORMEN
 
 ### ART. 5.
 
-§ 1. Elke woning moet op de volgende vlakken voldoen aan de elementaire   veiligheids-, gezondheids- en woonkwaliteitsvereisten, die door de Vlaamse   Regering nader bepaald worden :<BR>1° de oppervlakte van de woongedeelten,   rekening houdend met het type van woning en de functie van het   woongedeelte;<BR>2° de sanitaire voorzieningen, vooral de aanwezigheid van een   goed functionerend toilet in of aansluitend bij de woning en een wasgelegenheid   met stromend water, beide aangesloten op een afvoerkanaal zonder   geurhinder;<BR>3° de winddichtheid, de thermische isolatie en de   verwarmingsmogelijkheden, vooral de aanwezigheid van voldoende veilige   verwarmingsmiddelen om de woongedeelten met een woonfunctie tot een normale   temperatuur te kunnen verwarmen en, indien nodig, te kunnen koelen tegen   redelijke energiekosten of de mogelijkheid om die middelen op een veilige manier   aan te sluiten;<BR>4° de ventilatie-, verluchtings- en   verlichtingsmogelijkheden, waarbij de verlichtingsmogelijkheid van de   woongedeelten wordt vastgesteld in relatie tot de functie, de ligging en de   vloeroppervlakte ervan, en de ventilatie- en verluchtingsmogelijkheid in relatie   tot de functie en de ligging van het woongedeelte en tot de aanwezigheid van   kook-, verwarmings- of warmwaterinstallaties die verbrandingsgassen   produceren;<BR>5° de aanwezigheid van voldoende en veilige elektrische   installaties voor de verlichting van de woning en voor het veilige gebruik van   elektrische apparaten;<BR>6° de gasinstallaties, waarbij zowel de toestellen als   de plaatsing en de aansluiting ervan de nodige veiligheidsgaranties   bieden;<BR>7° de stabiliteit en de bouwfysica met betrekking tot de fundering,   de daken, de buiten-en binnenmuren, de draagvloeren en het timmerwerk;<BR>8° de   toegankelijkheid en het respect voor de persoonlijke levenssfeer;<BR>9° de   minimale energetische prestaties;<BR>10° de aanwezigheid van drinkbaar   water.<BR><BR>Elke woning moet voldoen aan de vereisten van brandveiligheid, met   inbegrip van de specifieke en aanvullende veiligheidsnormen die de Vlaamse   Regering vaststelt.<BR><BR>De omvang van de woning moet minstens beantwoorden   aan de woningbezetting. De Vlaamse Regering stelt de normen voor de vereiste   minimale omvang van de woning vast in relatie tot de   gezinssamenstelling.<BR><BR>§ 2. Met behoud van de toepassing van paragraaf 1   stelt de Vlaamse Regering aanvullende vereisten en normen vast voor kamers. De   bepalingen van deze titel zijn van toepassing op de kamers.<BR><BR>§ 3. De   Vlaamse Regering houdt rekening met specifieke woonvormen en met de situatie van   woonwagenbewoners en andere kwetsbare bewonersgroepen en kan het   toepassingsgebied van de paragrafen 1 en 2 uitbreiden tot roerende   woonwagens.<BR><BR>De Vlaamse Regering kan voor de tijdelijke huisvesting van   gezinnen of alleenstaanden die dakloos zijn of dreigen te worden en voor de   huisvesting van bewoners van sociale huurwoningen, die tijdelijk ontruimd moeten   worden voor renovatiewerkzaamheden, beperkte afwijkingen toestaan van de   vereisten en normen die ze vaststelt met toepassing van paragraaf 1 of 2. De   Vlaamse Regering bepaalt de aard van die afwijkingen. Ze bepaalt ook een   termijn, die niet langer mag zijn dan zes maanden, waarbinnen die afwijkingen   gelden.<BR><BR>Tenzij de Vlaamse Regering anders bepaalt zijn de bepalingen van   hoofdstuk II van deze titel niet van toepassing als de uitvoering van het eerste   of het tweede lid aanleiding geeft tot specifieke of afwijkende vereisten of   normen.<BR><BR>In afwachting van de uitvoering van het eerste lid gelden de   vereisten en normen, vermeld in paragraaf 1 en 2, niet voor woonvormen en   bewonersgroepen die gevat worden door een regeling waarbij de bevoegde overheid   :<BR>1° hetzij erkenningsvoorwaarden gesteld heeft en de erkenning verleend   heeft;<BR>2° hetzij de vrijheid van vestiging voor de bewoners beperkt.<BR><BR>§   4. De Vlaamse Regering bepaalt de criteria en de procedure om de conformiteit   van een woning met de vereisten en normen, vastgesteld met toepassing van   paragraaf 1 en 2 en paragraaf 3, eerste en tweede lid, vast te stellen. Ze kan   ook de wijze bepalen waarop de mogelijkheid om eventuele tekortkomingen via   renovatie-, verbeterings- of aanpassings-werkzaamheden te verhelpen, beoordeeld   wordt.<BR><BR>§ 5. De Vlaamse Regering stelt een webtoepassing ter beschikking   van huurders en verhuurders, die toelaat een inschatting te maken van de   markthuurprijs van een woning op basis van de woningkenmerken, de ligging en het   adres. Daarbij houdt ze rekening met de woonkwaliteit, met de omvang en de   ligging van de woning, met het onderscheid tussen kamers en andere woningen en   met eventuele specifieke woonvormen als vermeld in paragraaf 3, eerste lid.
+§ 1. Elke woning moet op de volgende vlakken voldoen aan de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, die door de Vlaamse Regering nader bepaald worden :<br>
+1° de oppervlakte van de woongedeelten, rekening houdend met het type van woning en de functie van het woongedeelte;<br>
+2° de sanitaire voorzieningen, vooral de aanwezigheid van een goed functionerend toilet in of aansluitend bij de woning en een wasgelegenheid met stromend water, beide aangesloten op een afvoerkanaal zonder geurhinder;<br>
+3° de winddichtheid, de thermische isolatie en de verwarmingsmogelijkheden, vooral de aanwezigheid van voldoende veilige verwarmingsmiddelen om de woongedeelten met een woonfunctie tot een normale temperatuur te kunnen verwarmen en, indien nodig, te kunnen koelen tegen redelijke energiekosten of de mogelijkheid om die middelen op een veilige manier aan te sluiten;<br>
+4° de ventilatie-, verluchtings- en verlichtingsmogelijkheden, waarbij de verlichtingsmogelijkheid van de woongedeelten wordt vastgesteld in relatie tot de functie, de ligging en de vloeroppervlakte ervan, en de ventilatie- en verluchtingsmogelijkheid in relatie tot de functie en de ligging van het woongedeelte en tot de aanwezigheid van kook-, verwarmings- of warmwaterinstallaties die verbrandingsgassen produceren;<br>
+5° de aanwezigheid van voldoende en veilige elektrische installaties voor de verlichting van de woning en voor het veilige gebruik van elektrische apparaten;<br>
+6° de gasinstallaties, waarbij zowel de toestellen als de plaatsing en de aansluiting ervan de nodige veiligheidsgaranties bieden;<br>
+7° de stabiliteit en de bouwfysica met betrekking tot de fundering, de daken, de buiten-en binnenmuren, de draagvloeren en het timmerwerk;<br>
+8° de toegankelijkheid en het respect voor de persoonlijke levenssfeer;<br>
+9° de minimale energetische prestaties;<br>
+10° de aanwezigheid van drinkbaar water.<br>
+<br>
+Elke woning moet voldoen aan de vereisten van brandveiligheid, met inbegrip van de specifieke en aanvullende veiligheidsnormen die de Vlaamse Regering vaststelt.<br>
+<br>
+De omvang van de woning moet minstens beantwoorden aan de woningbezetting. De Vlaamse Regering stelt de normen voor de vereiste minimale omvang van de woning vast in relatie tot de gezinssamenstelling.<br>
+<br>
+§ 2. Met behoud van de toepassing van paragraaf 1 stelt de Vlaamse Regering aanvullende vereisten en normen vast voor kamers. De bepalingen van deze titel zijn van toepassing op de kamers.<br>
+<br>
+§ 3. De Vlaamse Regering houdt rekening met specifieke woonvormen en met de situatie van woonwagenbewoners en andere kwetsbare bewonersgroepen en kan het toepassingsgebied van de paragrafen 1 en 2 uitbreiden tot roerende woonwagens.<br>
+<br>
+De Vlaamse Regering kan voor de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden en voor de huisvesting van bewoners van sociale huurwoningen, die tijdelijk ontruimd moeten worden voor renovatiewerkzaamheden, beperkte afwijkingen toestaan van de vereisten en normen die ze vaststelt met toepassing van paragraaf 1 of 2. De Vlaamse Regering bepaalt de aard van die afwijkingen. Ze bepaalt ook een termijn, die niet langer mag zijn dan zes maanden, waarbinnen die afwijkingen gelden.<br>
+<br>
+Tenzij de Vlaamse Regering anders bepaalt zijn de bepalingen van hoofdstuk II van deze titel niet van toepassing als de uitvoering van het eerste of het tweede lid aanleiding geeft tot specifieke of afwijkende vereisten of normen.<br>
+<br>
+§ 4. De Vlaamse Regering bepaalt de criteria en de procedure om de conformiteit van een woning met de vereisten en normen, vastgesteld met toepassing van paragraaf 1 en 2 en paragraaf 3, eerste en tweede lid, vast te stellen. Ze kan ook de wijze bepalen waarop de mogelijkheid om eventuele tekortkomingen via renovatie-, verbeterings- of aanpassings-werkzaamheden te verhelpen, beoordeeld wordt.<br>
+<br>
+§ 5. De Vlaamse Regering stelt een webtoepassing ter beschikking van huurders en verhuurders, die toelaat een inschatting te maken van de markthuurprijs van een woning op basis van de woningkenmerken, de ligging en het adres. Daarbij houdt ze rekening met de woonkwaliteit, met de omvang en de ligging van de woning, met het onderscheid tussen kamers en andere woningen en met eventuele specifieke woonvormen als vermeld in paragraaf 3, eerste lid.
 
 ### ART. 6.
 
-<P>De gemeenteraad kan bij verordening :<BR>1° het conformiteitsattest, vermeld   in artikel 7, verplicht stellen;<BR>2° strengere veiligheids- en   kwaliteitsnormen voor kamers opleggen dan vastgesteld door de Vlaamse Regering   met toepassing van artikel 5, § 2; <BR>3° het verhuren of ter beschikking of te   huur stellen van kamers aan een voorafgaande vergunning onderwerpen met het oog   op de naleving van de normen, vermeld in punt 2°. <BR><BR>Een gemeentelijke   verordening als vermeld in het eerste lid geldt pas vanaf de goedkeuring door de   Vlaamse Regering en tot ze herzien of vervangen wordt met toepassing van   dezelfde procedure. Als een goedgekeurde verordening opgeheven wordt, brengt de   gemeente de Vlaamse Regering daarvan op de hoogte.<BR><BR>De Vlaamse Regering   kan nadere regels bepalen voor de gemeentelijke verordeningen, vermeld in het   eerste lid. </P>
+<p>De gemeenteraad kan bij verordening :<br>
+1° het conformiteitsattest, vermeld in artikel 7, verplicht stellen;<br>
+2° strengere veiligheids- en kwaliteitsnormen voor kamers opleggen dan vastgesteld door de Vlaamse Regering met toepassing van artikel 5, § 2;<br>
+3° het verhuren of ter beschikking of te huur stellen van kamers aan een voorafgaande vergunning onderwerpen met het oog op de naleving van de normen, vermeld in punt 2°;<br>
+4° opleggen dat kamers in hetzelfde gebouw hetzij aan studenten, hetzij aan niet-studenten worden verhuurd.<br>
+<br>
+Een gemeentelijke verordening als vermeld in het eerste lid geldt pas vanaf de goedkeuring door de Vlaamse Regering en tot ze herzien of vervangen wordt met toepassing van dezelfde procedure. Als een goedgekeurde verordening opgeheven wordt, brengt de gemeente de Vlaamse Regering daarvan op de hoogte.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de gemeentelijke verordeningen, vermeld in het eerste lid.</p>
 
 ## HOOFDSTUK II HET CONFORMITEITSATTEST
 
 ### ART. 7.
 
-§ 1. De conformiteit met de vereisten en normen, vastgesteld met   toepassing van artikel 5, van een woning die verhuurd wordt of te huur of ter   beschikking gesteld wordt als hoofdverblijfplaats of met het oog op de   huisvesting van een of meer studenten, kan blijken uit het conformiteitsattest   dat de burgemeester afgeeft op eigen initiatief of op verzoek. Het   conformiteitsattest vermeldt ook de toegestane maximale woningbezetting volgens   de normen, vastgesteld met toepassing van artikel 5, § 1, derde lid.<BR><BR>De   Vlaamse Regering stelt het model, de vergoeding voor de afgifte en de regels   voor de bekendmaking van het conformiteitsattest vast.<BR><BR>§ 2. In afwijking   van paragraaf 1 :<BR>1° geldt het proces-verbaal van uitvoering, vermeld in   artikel 20bis, § 6, derde lid, als conformiteitsattest;<BR>2° kan de gewestelijk   ambtenaar een conformiteitsattest afgeven aan de verhuurder :<BR>a) voor een   woning die voor verhuring aangeboden wordt aan een sociaal verhuurkantoor als   vermeld in artikel 56;<BR>b) na een conformiteitsonderzoek voor de   tegemoetkoming in de huurprijs, vermeld in artikel 82.
+§ 1. De conformiteit met de vereisten en normen, vastgesteld met toepassing van artikel 5, van een woning die verhuurd wordt of te huur of ter beschikking gesteld wordt als hoofdverblijfplaats of met het oog op de huisvesting van een of meer studenten, kan blijken uit het conformiteitsattest dat de burgemeester afgeeft op eigen initiatief of op verzoek. Het conformiteitsattest vermeldt ook de toegestane maximale woningbezetting volgens de normen, vastgesteld met toepassing van artikel 5, § 1, derde lid.<br>
+<br>
+De Vlaamse Regering stelt het model, de vergoeding voor de afgifte en de regels voor de bekendmaking van het conformiteitsattest vast.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 :<br>
+1° geldt het proces-verbaal van uitvoering, vermeld in artikel 20bis, § 6, derde lid, als conformiteitsattest, op voorwaarde dat uit het proces-verbaal blijkt dat de woning opnieuw voldoet aan de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vastgesteld met toepassing van artikel 5;<br>
+2° kan de gewestelijk ambtenaar een conformiteitsattest afgeven aan de verhuurder :<br>
+a) voor een woning die voor verhuring aangeboden wordt aan een sociaal verhuurkantoor als vermeld in artikel 56;<br>
+b) na een conformiteitsonderzoek voor de tegemoetkoming in de huurprijs, vermeld in artikel 82.
 
 ### ART. 8.
 
@@ -58,7 +210,16 @@ Het verzoek tot opheffing van het besluit waarbij een woning ongeschikt of   onb
 
 ### ART. 10.
 
-Het conformiteitsattest vervalt van rechtswege vanaf het ogenblik dat   :<BR>1° aan de woning werkzaamheden uitgevoerd worden als vermeld in artikel 3,   § 3, van boek 3, titel 8, hoofdstuk 2, afdeling 2, van het Burgerlijk   Wetboek;<BR>2° de woning ongeschikt of onbewoonbaar verklaard wordt met   toepassing van hoofdstuk III;<BR>3° de woning onbewoonbaar verklaard wordt met   toepassing van artikel 135 van de Nieuwe Gemeentewet;<BR>4° er voor de woning   een proces-verbaal als vermeld in artikel 20, § 2, opgesteld wordt;<BR>5° er een   termijn van tien jaar of een termijn die vastgesteld wordt door de gemeenteraad,   met een maximum van tien jaar, verstreken is na de afgifte van het   conformiteitsattest.<BR><BR>De Vlaamse Regering kan de termijn van tien jaar,   vermeld in het eerste lid, 5°, beperken voor conformiteitsattesten die afgegeven   worden nadat beperkte gebreken vastgesteld zijn bij het conformiteitsonderzoek.
+Het conformiteitsattest vervalt van rechtswege vanaf het ogenblik dat :<br>
+1° aan de woning werkzaamheden uitgevoerd worden als vermeld in artikel 3, § 3, van boek 3, titel 8, hoofdstuk 2, afdeling 2, van het Burgerlijk Wetboek;<br>
+2° de woning ongeschikt of onbewoonbaar verklaard wordt met toepassing van hoofdstuk III;<br>
+3° de woning onbewoonbaar verklaard wordt met toepassing van artikel 135 van de Nieuwe Gemeentewet;<br>
+4° er voor de woning een proces-verbaal als vermeld in artikel 20, § 2, opgesteld wordt;<br>
+5° er een termijn van tien jaar of een termijn die vastgesteld wordt door de gemeenteraad, met een maximum van tien jaar, verstreken is na de afgifte van het conformiteitsattest.<br>
+<br>
+De Vlaamse Regering kan de termijn van tien jaar, vermeld in het eerste lid, 5°, beperken voor conformiteitsattesten die afgegeven worden nadat beperkte gebreken vastgesteld zijn bij het conformiteitsonderzoek.<br>
+<br>
+Met behoud van de toepassing van het tweede lid geldt de termijn, vermeld in het eerste lid, 5°, ook voor de conformiteitsattesten die de gewestelijke ambtenaar afgeeft met toepassing van artikel 7, § 2, 2°, en artikel 8, § 2.
 
 ### ART. 11.
 
@@ -94,7 +255,9 @@ De Vlaamse Regering kan in beroep het besluit nemen om de woning   ongeschikt of
 
 ### ART. 16ter.
 
-De instantie die het besluit tot ongeschikt- of onbewoonbaarverklaring   genomen heeft, deelt onmiddellijk aan de gewestelijk ambtenaar en aan de   wooninspecteur mee welke woningen door het besluit gevat zijn.<BR><BR>Als het   aantal woningen binnen hetzelfde gebouw gewijzigd wordt en die wijziging ook   gevolgen heeft voor een woning die ongeschikt of onbewoonbaar verklaard is, kan   het besluit tot ongeschikt- of onbewoonbaarverklaring maar opgeheven worden met   toepassing van artikel 9 als de woningen, wat hun aantal betreft,   stedenbouwkundig vergund zijn.
+De instantie die het besluit tot ongeschikt- of onbewoonbaarverklaring genomen heeft, deelt onmiddellijk aan de gewestelijk ambtenaar en aan de wooninspecteur mee welke woningen door het besluit gevat zijn.<br>
+<br>
+Als een ongeschikt of onbewoonbaar verklaarde woning wordt samengevoegd met een of meer andere woningen of wordt opgesplitst in twee of meer woningen, kan het besluit tot ongeschikt- of onbewoonbaarverklaring alleen opgeheven worden met toepassing van artikel 9 als deze wijziging stedenbouwkundig vergund is en als de conformiteit van alle woningen waarop de herindeling van toepassing is, vastgesteld is.
 
 ### ART. 16quater.
 
@@ -112,7 +275,19 @@ De Vlaamse Regering kan nadere formele en procedurele regels bepalen voor   de t
 
 ### ART. 17bis.
 
-§ 1. Als de bewoners van een ongeschikte, onbewoonbare of overbewoonde   woning geherhuisvest moeten worden en de bepalingen van artikel 18, § 2, niet   toegepast kunnen worden, neemt de burgemeester de nodige maatregelen voor de   bewoners die voldoen aan de voorwaarden die de Vlaamse Regering vaststelt. Hij   kan daarbij onder meer de gemeentelijke huisvestingsmogelijkheden benutten of   een beroep doen op de medewerking van het openbaar centrum voor maatschappelijk   welzijn of van de sociale woonorganisaties, waarvan het werkingsgebied zich   uitstrekt tot het grondgebied van de gemeente.<BR><BR>De Vlaamse Regering kan,   binnen de kredieten die daartoe ingeschreven worden op de begroting van het   Vlaamse Gewest en onder de voorwaarden die ze bepaalt, initiatieven nemen om de   ontwikkeling van gemeentelijke herhuisvestingsmogelijkheden aan te moedigen of   te ondersteunen.<BR><BR>§ 2. Als de burgemeester overgaat tot herhuisvesting van   de bewoners van een ongeschikte of onbewoonbare woning kan hij de volgende   kosten verhalen op de verhuurder of de persoon die de woning ter beschikking   heeft gesteld :<BR>1° de kosten om de woning te ontruimen;<BR>2° de kosten voor   het vervoer en de opslag van het meubilair en de goederen van de bewoners;<BR>3°   de installatiekosten met betrekking tot de nieuw te betrekken woning;<BR>4° het   verschil tussen de kosten per maand van de woning, vermeld in punt 3°, of van   het verblijf in een daartoe uitgeruste voorziening, en 20 % van het maandelijkse   beschikbare inkomen van de bewoner.<BR><BR>De Vlaamse Regering kan de kosten,   vermeld in het eerste lid, nader omschrijven. Het verschil, vermeld in het   eerste lid, 4°, kan verhaald worden voor een periode van maximaal een   jaar.<BR><BR>Als de gemeente daartoe een samenwerkingsovereenkomst sluit met de   Vlaamse Regering, kan de Vlaamse Regering de kosten, vermeld in het eerste lid,   laten prefinancieren door het Vlaamse Gewest. In dat geval treedt het Vlaamse   Gewest voor de geprefinancierde kosten in alle rechten die de gemeente heeft ten   aanzien van de schuldenaar. De eventuele invordering gebeurt met een dwangbevel   dat opgesteld, geviseerd en uitvoerbaar verklaard wordt door de ambtenaren die   aangewezen zijn met toepassing van artikel 59.
+§ 1. Als de bewoners van een ongeschikte, onbewoonbare of overbewoonde woning geherhuisvest moeten worden&nbsp;omdat dit noodzakelijk is wegens ernstige risico's voor hun veiligheid en gezondheid en de bepalingen van artikel 18, § 2, niet toegepast kunnen worden, neemt de burgemeester de nodige maatregelen voor de bewoners die voldoen aan de voorwaarden die de Vlaamse Regering vaststelt. Hij kan daarbij onder meer de gemeentelijke huisvestingsmogelijkheden benutten of een beroep doen op de medewerking van het openbaar centrum voor maatschappelijk welzijn of van de sociale woonorganisaties, waarvan het werkingsgebied zich uitstrekt tot het grondgebied van de gemeente.<br>
+<br>
+De Vlaamse Regering kan, binnen de kredieten die daartoe ingeschreven worden op de begroting van het Vlaamse Gewest en onder de voorwaarden die ze bepaalt, initiatieven nemen om de ontwikkeling van gemeentelijke herhuisvestingsmogelijkheden aan te moedigen of te ondersteunen.<br>
+<br>
+§ 2. Als de burgemeester overgaat tot herhuisvesting van de bewoners van een ongeschikte of onbewoonbare woning, kan de gemeente onder meer de volgende kosten terugvorderen van de verhuurder of de persoon die de woning ter beschikking heeft gesteld:<br>
+1° de kosten om de woning te ontruimen;<br>
+2° de kosten voor het vervoer en de opslag van het meubilair en de goederen van de bewoners;<br>
+3° de installatiekosten met betrekking tot de nieuw te betrekken woning;<br>
+4° het verschil tussen de kosten per maand van de woning, vermeld in punt 3°, of van het verblijf in een daartoe uitgeruste voorziening, en 20% van het maandelijkse beschikbare inkomen van de bewoner.<br>
+<br>
+Het verschil, vermeld in het eerste lid, 4°, kan teruggevorderd worden voor een periode van maximaal een jaar.<br>
+<br>
+Als de gemeente daartoe een samenwerkingsovereenkomst sluit met de Vlaamse Regering, kan de Vlaamse Regering de kosten, vermeld in het eerste lid, laten prefinancieren door het Vlaamse Gewest. In dat geval treedt het Vlaamse Gewest voor de geprefinancierde kosten in alle rechten die de gemeente heeft ten aanzien van de schuldenaar. De eventuele invordering gebeurt met een dwangbevel dat opgesteld, geviseerd en uitvoerbaar verklaard wordt door de ambtenaren die aangewezen zijn met toepassing van artikel 59.
 
 ## HOOFDSTUK V SANCTIES
 
@@ -168,11 +343,13 @@ De woningen, panden en goederen waarop een vordering als vermeld in paragraaf 1 
 § 5. De wooninspecteur en het college van burgemeester en schepenen kunnen ook voor de rechtbank van eerste aanleg, zetelend in burgerlijke aangelegenheden, in het gerechtelijk arrondissement waar de woning, het pand, de specifieke woonvorm of het goed, vermeld in artikel 20, § 1, zich bevindt, de uitvoering van herstelmaatregelen<br>
 vorderen zoals omschreven in § 1.<br>
 <br>
+§ 5bis. De hoven en rechtbanken die uitspraak doen over de vorderingen, vermeld in paragraaf 1, bezorgen een afschrift aan de herstelvorderende overheid binnen de termijn om rechtsmiddelen tegen de uitspraak aan te wenden.<br>
+<br>
 § 6. Als de overtreder de gevorderde of de door de rechtbank opgelegde herstelmaatregelen vrijwillig heeft uitgevoerd, brengt hij de wooninspecteur en het college van burgemeester en schepenen daarvan onmiddellijk op de hoogte. De kennisgeving wordt aangetekend verstuurd of wordt afgegeven tegen ontvangstbewijs. Na ontvangst van de vergoeding, vermeld in het tweede lid, doet de ambtenaar, vermeld in artikel 20, § 2, eerste lid, een controle ter plaatse en stelt hij een proces-verbaal van vaststelling op.<br>
 <br>
 De controle ter plaatse, vermeld in het eerste lid, wordt pas uitgevoerd na de betaling van een vergoeding. De Vlaamse Regering bepaalt het bedrag van de vergoeding en de nadere regelen voor de inning ervan. De opbrengst van de vergoeding wordt toegewezen aan het Fonds voor de Wooninspectie, vermeld in artikel 19 van het decreet van 29 juni 2007 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2007.<br>
 <br>
-De wooninspecteur stelt een proces-verbaal van uitvoering op. Behoudens bewijs van het tegendeel geldt alleen het proces-verbaal van uitvoering als bewijs van het herstel en van de datum van het herstel. De wooninspecteur zendt een afschrift van het proces-verbaal van uitvoering aan het college van burgemeester en schepenen en aan de overtreder en de eigenaar van de woning, het pand, de specifieke woonvorm of het goed, vermeld in artikel 20, § 1. Het college van burgemeester en schepenen kan geen conformiteitsattest afleveren zolang uit het proces-verbaal van uitvoering niet blijkt dat de herstelmaatregel volledig uitgevoerd is.<br>
+De wooninspecteur stelt een proces-verbaal van uitvoering op. Behoudens bewijs van het tegendeel geldt alleen het proces-verbaal van uitvoering als bewijs van het herstel en van de datum van het herstel. De wooninspecteur zendt een afschrift van het proces-verbaal van uitvoering aan het college van burgemeester en schepenen en aan de overtreder en de eigenaar van de woning, het pand, de specifieke woonvorm of het goed, vermeld in artikel 20, § 1. De burgemeester kan geen conformiteitsattest afleveren zolang uit het proces-verbaal van uitvoering niet blijkt dat de herstelmaatregel volledig uitgevoerd is.<br>
 <br>
 § 7. Voor het geval dat de herstelmaatregelen door de overtreder niet binnen de door de rechtbank gestelde termijn worden uitgevoerd, beveelt het vonnis van de rechter, bedoeld in §§ 1 en 5, dat de wooninspecteur, het college van burgemeester en schepenen of eventueel de burgerlijke partij, ambtshalve in de uitvoering ervan kan voorzien.<br>
 <br>
@@ -191,7 +368,9 @@ De dagvaarding voor de correctionele rechtbank op grond van artikel 20, of   het
 
 ### ART. 20quater.
 
-Als er op een roerend of onroerend goed ten gevolge van een definitieve   rechterlijke beslissing een verplichting rust om herstelmaatregelen uit te   voeren als vermeld in artikel 20bis, wordt die verplichting op het ogenblik dat   een authentieke akte wordt opgesteld voor de overdracht van een zakelijk recht   op het goed, in een afzonderlijke akte vermeld. In die akte wordt ook vermeld   dat de nieuwe houder van het zakelijk recht de verbintenis aangaat om, met   behoud van de toepassing van de verplichting voor de overtreder, de opgelegde   herstelmaatregelen uit te voeren en de eventuele uitvoeringskosten te vergoeden   overeenkomstig artikel 20bis, § 7, tweede lid.<BR><BR>De instrumenterende   ambtenaar bezorgt een afschrift van de afzonderlijke akte, vermeld in het eerste   lid, aan de wooninspecteur.
+Als er op een roerend of onroerend goed ten gevolge van een definitieve rechterlijke beslissing een verplichting rust om herstelmaatregelen uit te voeren als vermeld in artikel 20bis, wordt die verplichting op het ogenblik dat een authentieke akte wordt opgesteld voor de overdracht van een zakelijk recht op het goed, in een afzonderlijke akte vermeld. In die akte wordt ook vermeld dat de nieuwe houder van het zakelijk recht de verbintenis aangaat om, met behoud van de toepassing van de verplichting voor de overtreder, de opgelegde herstelmaatregelen uit te voeren en de eventuele uitvoeringskosten te vergoeden overeenkomstig artikel 20bis, § 7, tweede lid.<br>
+<br>
+De instrumenterende ambtenaar bezorgt een afschrift van de afzonderlijke akte, vermeld in het eerste lid, aan de wooninspecteur en is ertoe gehouden de grosse af te leveren op zijn verzoek.
 
 ### ART. 20quinquies.
 
@@ -217,9 +396,37 @@ De overtreder brengt voor het afsluiten van de overeenkomst tot overdracht van e
 
 ### ART. 22bis.
 
-§ 1. In de periode 2009-2023 breidt de Vlaamse overheid het bestaande   sociaal woonaanbod, zoals dat blijkt uit de nulmeting, vermeld in artikel 4.1.1   van het decreet Grond- en Pandenbeleid, uit met 65 610 eenheden. De uitbreiding   betreft : 1° 43 440 sociale huurwoningen, die verwezenlijkt worden in de periode   2009-2023;<BR>2° 21 170 sociale koopwoningen, die verwezenlijkt worden in de   periode 2009-2020;<BR>3° 1 000 sociale kavels, die verwezenlijkt worden in de   periode 2009-2020. <BR><BR>De Vlaamse Regering is ertoe gemachtigd om de cijfers   voor de sociale koopsector, vermeld in het eerste lid, op te trekken, indien uit   een wetenschappelijke studie, op te leveren in 2011, blijkt dat deze cijfers ten   opzichte van de reële behoefte onderraamd zijn en/of dat de onderlinge   verhouding tussen sociale koopwoningen en sociale kavels niet adequaat is ten   opzichte van de sociale woonbehoefte.<BR><BR>De uitbreiding, vermeld in het   eerste lid, wordt verwezenlijkt :<BR>1° op initiatief van de initiatiefnemers,   vermeld in artikel 33, § 1, eerste lid, van dit decreet, alsook in artikel   4.1.15 van het decreet Grond- en Pandenbeleid;<BR>2° op grond van :<BR>a) de   reguliere investeringen voor sociale huisvesting, in de zin van artikel   22;<BR>b) een op grond van specifieke begrotingskredieten georganiseerde   inhaalbeweging, bijzondere inhaalbeweging 2009-2020 genoemd.<BR><BR>Ongeacht de   reële toename, in de periode 2009-2020, van de door de sociale verhuurkantoren   in de huisvesting van woonbehoeftige gezinnen en alleenstaanden ingeschakelde   privéhuurwoningen, worden in die periode ten hoogste 6000 eenheden meegeteld   voor het behalen van het gewestelijk objectief voor sociale huurwoningen,   vermeld in het eerste lid.<BR><BR>§ 1bis. In de periode 2012-2023 breidt de   Vlaamse overheid het bescheiden woonaanbod uit met 6 000 eenheden.<BR>De   uitbreiding, vermeld in het eerste lid, wordt verwezenlijkt op initiatief van :   <BR>1° de sociale huisvestingsmaatschappijen, voor zover voldaan wordt aan alle   voorwaarden, vermeld in artikel 41, § 2;<BR>2° de private actoren, voor zover   voldaan wordt aan alle voorwaarden, vermeld in artikel 4.2.6 van het decreet   Grond- en Pandenbeleid.<BR><BR>§ 2. Met het oog op de bewaking van de   verwezenlijking van de gewestelijke objectieven, vermeld in § 1, voert de   Vlaamse Regering voor het eerst in 2012 en daarna periodiek om de twee jaar, een   voortgangstoets uit over de implementatie van het bindend sociaal objectief,   vermeld in artikel 4.1.2 van het decreet Grond- en Pandenbeleid. Indien de   Vlaamse Regering vaststelt dat een gemeente kennelijk onvoldoende inspanningen   levert om het bindend sociaal objectief tijdig te bereiken, sluit zij een   overeenkomst met sociale woonorganisaties die bereid worden gevonden om het   vereiste sociaal woonaanbod op het grondgebied van de gemeente te   verwezenlijken.<BR><BR>De Vlaamse Regering bepaalt de methodologie en de   criteria aan de hand waarvan de voortgangstoets, vermeld in het eerste lid,   wordt uitgevoerd. Zij legt een nadere omschrijving vast van het begrip «   kennelijk onvoldoende inspanningen om het bindend sociaal objectief te bereiken   ».<BR><BR>De Vlaamse Regering waakt over de medewerking van de gemeenten aan de   implementatie van de overeenkomsten met sociale woonorganisaties, vermeld in het   eerste lid. Onverminderd gevallen van overmacht kan zij daartoe elk financieel   mechanisme aanwenden dat in rechte is voorgeschreven ter sanctionering van de   niet-uitvoering van gemeentelijke verplichtingen.
+§ 1. In de periode van 1 september 2009 tot en met 31 december 2025 breidt de Vlaamse overheid het bestaande sociaal woonaanbod, zoals dat blijkt uit de nulmeting, vermeld in artikel 4.1.1 van het decreet Grond- en Pandenbeleid, uit met 50.000 sociale huurwoningen.<br>
+<br>
+De uitbreiding, vermeld in het eerste lid, wordt verwezenlijkt :<br>
+1° op initiatief van de initiatiefnemers, vermeld in artikel 33, § 1, eerste lid, van dit decreet, alsook in artikel 4.1.15 van het decreet Grond- en Pandenbeleid;<br>
+2° op grond van :<br>
+a) de reguliere investeringen voor sociale huisvesting, in de zin van artikel 22;<br>
+b) een op grond van specifieke begrotingskredieten georganiseerde inhaalbeweging, bijzondere inhaalbeweging 2009-2020 genoemd.<br>
+<br>
+§ 1bis. In de periode 2012-2023 breidt de Vlaamse overheid het bescheiden woonaanbod uit met 6 000 eenheden.<br>
+De uitbreiding, vermeld in het eerste lid, wordt verwezenlijkt op initiatief van :<br>
+1° de sociale huisvestingsmaatschappijen, voor zover voldaan wordt aan alle voorwaarden, vermeld in artikel 41, § 2;<br>
+2° de private actoren, voor zover voldaan wordt aan alle voorwaarden, vermeld in artikel 4.2.6 van het decreet Grond- en Pandenbeleid.<br>
+<br>
+§ 2. Met het oog op de bewaking van de verwezenlijking van de gewestelijke objectieven, vermeld in § 1, voert de Vlaamse Regering voor het eerst in 2012 en daarna periodiek om de twee jaar, een voortgangstoets uit over de implementatie van het bindend sociaal objectief, vermeld in artikel 4.1.2 van het decreet Grond- en Pandenbeleid. Indien de Vlaamse Regering vaststelt dat een gemeente kennelijk onvoldoende inspanningen levert om het bindend sociaal objectief tijdig te bereiken, sluit zij een overeenkomst met sociale woonorganisaties die bereid worden gevonden om het vereiste sociaal woonaanbod op het grondgebied van de gemeente te verwezenlijken.<br>
+<br>
+De Vlaamse Regering bepaalt de methodologie en de criteria aan de hand waarvan de voortgangstoets, vermeld in het eerste lid, wordt uitgevoerd. Zij legt een nadere omschrijving vast van het begrip « kennelijk onvoldoende inspanningen om het bindend sociaal objectief te bereiken ».<br>
+<br>
+De Vlaamse Regering waakt over de medewerking van de gemeenten aan de implementatie van de overeenkomsten met sociale woonorganisaties, vermeld in het eerste lid. Onverminderd gevallen van overmacht kan zij daartoe elk financieel mechanisme aanwenden dat in rechte is voorgeschreven ter sanctionering van de niet-uitvoering van gemeentelijke verplichtingen.
 
 ## [AFDELING 3 GEWESTELIJKE EN PROVINCIALE DOELSTELLINGEN VOOR SOCIALE EIGENDOMSVERWERVING (ing. decr. 14 oktober 2016, art. 20, I: 23 december 2016)]
+
+### ART 22ter.
+
+In de periode 2015-2020 staat de Vlaamse overheid ten minste 17.000 bijzondere sociale leningen voor de aankoop van een in het Vlaamse Gewest gelegen woning als vermeld in artikel 79, § 2, eerste lid, 2°, toe aan woonbehoeftige gezinnen en alleenstaanden.<br>
+<br>
+Het gewestelijk objectief, vermeld in het eerste lid, wordt als volgt verdeeld over de provincies:<br>
+1° provincie Antwerpen: 27,53%;<br>
+2° provincie Limburg: 15,00%;<br>
+3° provincie Oost-Vlaanderen: 22,51%;<br>
+4° provincie Vlaams-Brabant: 16,64%;<br>
+5° provincie West-Vlaanderen: 18,32%.
 
 ## HOOFDSTUK III DE TERRITORIALE PLANNING
 
@@ -231,7 +438,24 @@ De overtreder brengt voor het afsluiten van de overeenkomst tot overdracht van e
 
 ### ART. 24.
 
-§ 1. De Vlaamse Regering regelt de uitbouw en het beheer van een   gecentraliseerde databank, het Datawarehouse Wonen, met informatie rond wonen en   woonbeleid in Vlaanderen. Die databank heeft de volgende doelstellingen : <BR>1°   het ondersteunen van de voorbereiding en evaluatie van het Vlaamse woonbeleid;   <BR>2° het aanleveren van data voor beleidsmatig wetenschappelijk onderzoek rond   wonen; <BR>3° het beantwoorden van informatievragen van derden rond wonen.   <BR><BR>Om de doelstellingen, vermeld in het eerste lid, te bereiken, worden in   het Datawarehouse Wonen de gegevens verzameld over het Vlaamse woonbeleid,   vermeld in artikel 3 en 4.<BR><BR>De entiteit die door de Vlaamse Regering wordt   belast met de ondersteuning van het lokale woonbeleid en de sociale   woonorganisaties verstrekken daarvoor de voor het Vlaamse woonbeleid   noodzakelijke gegevens waarover ze beschikken, op voorwaarde van machtiging van   de mededeling van persoonsgegevens op basis van de wet van 8 december 1992 tot   bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van   persoonsgegevens of van het decreet van 18 juli 2008 betreffende het   elektronische bestuurlijke gegevensverkeer. De voormelde entiteit is   verantwoordelijk voor de verwerking van de gegevens.<BR><BR>De geanonimiseerde   individuele gegevens kunnen onder contractuele voorwaarden ook doorgegeven   worden aan wetenschappelijke instellingen met het oog op beleidsrelevant   onderzoek waarvan de output eigendom blijft van de Vlaamse Gemeenschap. Met het   oog op statistische verwerkingen die de tijdsevolutie van het wonen in   Vlaanderen weergeven, worden de gegevens gedurende een periode van vijftig jaar   bewaard.<BR><BR>De Vlaamse Regering bepaalt de voorwaarden voor de raadpleging,   het gebruik en de verkrijging van de verwerkte gegevens. Ze bepaalt tevens de   algemene organisatorische en technische maatregelen die genomen moeten worden om   de kwaliteit, de vertrouwelijkheid en de veiligheid van de gegevens te   garanderen.<BR><BR>§ 2. De Vlaamse regering richt een onderzoekscel in die   verantwoordelijk is voor de organisatie van het we-tenschappelijk onderzoek   inzake wonen en woonbeleid. De Vlaamse regering bepaalt de   aanstellingsvoorwaarden van de wetenschappelijke onderzoekers en draagt daarbij   zorg voor de deskundigheid en onafhankelijkheid van de wetenschappelijke   onderzoekers van deze cel.<BR><BR>De onderzoekscel publiceert tweejaarlijks een   wetenschappelijk woonrapport, waarin de Vlaamse woonsituatie wordt geëvalueerd.
+§ 1. De Vlaamse Regering regelt de uitbouw en het beheer van een gecentraliseerde databank, het Datawarehouse Wonen, met informatie rond wonen en woonbeleid in Vlaanderen. Die databank heeft de volgende doelstellingen :<br>
+1° het ondersteunen van de voorbereiding en evaluatie van het Vlaamse woonbeleid;<br>
+2° het aanleveren van data voor beleidsmatig wetenschappelijk onderzoek rond wonen;<br>
+3° het beantwoorden van informatievragen van derden rond wonen.<br>
+<br>
+Om de doelstellingen, vermeld in het eerste lid, te bereiken, worden in het Datawarehouse Wonen de gegevens verzameld over het Vlaamse woonbeleid, vermeld in artikel 3 en 4.<br>
+<br>
+De entiteit die door de Vlaamse Regering wordt belast met de ondersteuning van het lokale woonbeleid en de sociale woonorganisaties verstrekken daarvoor de voor het Vlaamse woonbeleid noodzakelijke gegevens waarover ze beschikken, op voorwaarde van machtiging van de mededeling van persoonsgegevens op basis van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens of van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. De voormelde entiteit is verantwoordelijk voor de verwerking van de gegevens.<br>
+<br>
+De geanonimiseerde individuele gegevens kunnen onder contractuele voorwaarden ook doorgegeven worden aan wetenschappelijke instellingen met het oog op beleidsrelevant onderzoek waarvan de output eigendom blijft van de Vlaamse Gemeenschap. Met het oog op statistische verwerkingen die de tijdsevolutie van het wonen in Vlaanderen weergeven, worden de gegevens gedurende een periode van vijftig jaar bewaard.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden voor de raadpleging, het gebruik en de verkrijging van de verwerkte gegevens. Ze bepaalt tevens de algemene organisatorische en technische maatregelen die genomen moeten worden om de kwaliteit, de vertrouwelijkheid en de veiligheid van de gegevens te garanderen.<br>
+<br>
+§ 2. De Vlaamse regering richt een onderzoekscel in die verantwoordelijk is voor de organisatie van het we-tenschappelijk onderzoek inzake wonen en woonbeleid. De Vlaamse regering bepaalt de aanstellingsvoorwaarden van de wetenschappelijke onderzoekers en draagt daarbij zorg voor de deskundigheid en onafhankelijkheid van de wetenschappelijke onderzoekers van deze cel.<br>
+<br>
+De onderzoekscel publiceert tweejaarlijks een wetenschappelijk woonrapport, waarin de Vlaamse woonsituatie wordt geëvalueerd.<br>
+<br>
+§ 3. De Vlaamse Regering regelt de organisatie van structurele, wetenschappelijke dataverzameling over de woningen en hun bewoners in Vlaanderen. Dat steekproefonderzoek wordt tienjaarlijks herhaald.
 
 ## TITEL V DE SOCIALE WOONORGANISATIES
 
@@ -251,7 +475,14 @@ De sociale woonorganisaties verstrekken op eigen initiatief of op verzoek alle n
 
 ### ART. 27bis.
 
-Voor de opmaak van schattingsverslagen, in het kader van onroerende   transacties krachtens dit decreet, doen sociale woonorganisaties een beroep op   een van de hierna volgende personen of instanties : <BR>1° de ambtenaar van de   Algemene Administratie van de Patrimoniale Documentatie van de Federale   Overheidsdienst Financiën die bevoegd is voor schattingen; <BR>2° een comité   voor aankoop van onroerende goederen, overeenkomstig artikel 3, 7°, van het   protocol van 5 maart 1985 tussen de Regering en de Vlaamse Executieve, de Franse   Gemeenschapsexecutieve, de Waalse Gewestexecutieve en de Executieve van de   Duitstalige Gemeenschap, betreffende de bevoegdheid van de comités tot aankoop   van onroerende goederen en van de kantoren der domeinen van de Staat; <BR>3° een   notaris; <BR>4° een landmeter-expert, na gezamenlijk akkoord over de schatter;   <BR>5° een door de VMSW gemachtigde ambtenaar, als de VMSW zelf geen partij is   bij de onroerende transactie waarvoor het schattingsverslag wordt opgemaakt.   <BR><BR>De raming van de waarde van een onroerend goed door een persoon of   instantie als ver meld in het eerste lid, 1° en 2°, primeert op de raming van   een onroerend goed door een persoon of instantie als vermeld in het eerste lid,   3°, 4° en 5°.
+Voor de opmaak van schattingsverslagen, in het kader van onroerende transacties krachtens dit decreet, doen sociale woonorganisaties een beroep op een van de hierna volgende personen of instanties :<br>
+1° een commissaris van de Vlaamse Belastingdienst die bevoegd is voor schattingen;<br>
+2°...;<br>
+3° een notaris;<br>
+4° een landmeter-expert, na gezamenlijk akkoord over de schatter;<br>
+5° een door de VMSW gemachtigde ambtenaar, als de VMSW zelf geen partij is bij de onroerende transactie waarvoor het schattingsverslag wordt opgemaakt.<br>
+<br>
+De raming van de waarde van een onroerend goed door een persoon of instantie als ver meld in het eerste lid, 1° en 2°, primeert op de raming van een onroerend goed door een persoon of instantie als vermeld in het eerste lid, 3°, 4° en 5°.
 
 ### ART. 28.
 
@@ -265,13 +496,16 @@ De Vlaamse Regering waakt erover dat : <br />1° de verrichtingen van de sociale
 
 § 1. Een toezichthouder voor de sociale huisvesting, hierna de toezichthouder te noemen, oefent, binnen het ambtsgebied dat hem wordt toegewezen, het toezicht uit op de volgende verrichtingen :<br>
 1° de verrichtingen van de sociale woonorganisaties, met uitzondering van de VMSW, krachtens titels V, VI en VII;<br>
-2° de verrichtingen van de VMSW krachtens artikel 34, § 1, met uitzondering van het voorschieten van financiële middelen aan de sociale huisvestingsmaatschappijen als vermeld in 2° en van 6°; krachtens artikel 34, § 3, eerste en tweede lid, en § 5; krachtens titel VI, met uitzondering van artikel 79, § 2, tweede lid, en krachtens titel VII;<br>
+2° de verrichtingen van de VMSW krachtens artikel 34, § 1, met uitzondering van het voorschieten van financiële middelen aan de sociale huisvestingsmaatschappijen als vermeld in 2° en van 6°; krachtens artikel 34, § 3, eerste en tweede lid, en § 5; krachtens titel VI en krachtens titel VII;<br>
 3° de volgende verrichtingen van het OCMW, een OCMW-vereniging, de gemeente en een intergemeentelijk samenwerkingsverband :<br>
 a) de verrichtingen krachtens titel VI en VII;<br>
 b) de verhuring van andere woningen dan sociale woningen krachtens titel VII, met het oog op het bereiken van het bindend sociaal objectief, vermeld in artikel 4.1.2 van het decreet Grond- en Pandenbeleid;<br>
 c) de verkoop van andere woningen en kavels dan sociale woningen en kavels met toepassing van artikel 34, § 3, eerste lid, 2°, met het oog op het bereiken van het bindend sociaal objectief, vermeld in artikel 4.1.2 van het decreet Grond- en Pandenbeleid;<br>
 4° de verrichtingen van de erkende ondersteuningsstructuur, vermeld in artikel 57, krachtens titel V;<br>
-5° de verrichtingen van de erkende kredietmaatschappijen, vermeld in artikel 78, § 1, eerste lid, 1°.<br>
+5° de verrichtingen van de erkende kredietmaatschappijen, vermeld in artikel 78, § 1, eerste lid, 1°;<br>
+6° de volgende verrichtingen van Vlabinvest apb:<br>
+a) de beslissingen tot beschikbaarstelling, inclusief bewijsstukken, voor verhuring, erfpacht of verkoop van woningen en kavels binnen een woonproject met sociaal karakter;<br>
+b) de beoordeling, inclusief bewijsstukken, van de kandidaat-huurders, -erfpachtnemers of -kopers door het beoordelingscomité.<br>
 <br>
 In het kader van de uitoefening van het toezicht heeft de toezichthouder het recht om plaatsbezoeken af te leggen en ter plaatse inzage te nemen in alle stukken en bescheiden.<br>
 <br>
@@ -347,13 +581,8 @@ Daarnaast heeft de VMSW als opdracht :<br>
 5° zelf woonprojecten te realiseren die hetzij vernieuwend of experimenteel zijn, hetzij noodzakelijk zijn ter uitvoering van het investeringsprogramma, vermeld in artikel 22, § 2, bij gebrek aan initiatieven van actoren als vermeld in het eerste lid of van initiatiefnemers als vermeld in artikel 75;<br>
 6° grondbeleidsmaatregelen uit te voeren die noodzakelijk worden geacht om in de door de Vlaamse Regering te bepalen gebieden een hoogwaardige woonkwaliteit te behouden of te bevorderen;<br>
 ...<br>
-8° periodiek oproepen lanceren tot private actoren om projectvoorstellen in te dienen met betrekking tot de verwezenlijking van sociale huurwoningen overeenkomstig de voor de sociale huisvestingsmaatschappijen geldende prijs- en kwaliteitsnormen, rekening houdend met volgende modaliteiten :<br>
-a) de VMSW wordt door middel van lastgeving gemandateerd door de sociale huisvestingsmaatschappijen van de betrokken gebieden;<br>
-b) de kandidaten die voldoen, worden uitgenodigd om een voorontwerp, met een prijs voor de grond en een prijs voor de opbouw in te dienen;<br>
-c) de voorontwerpen en de prijzen worden door een jury naar haalbaarheid getoetst;<br>
-d) de betrokken sociale huisvestingsmaatschappij gaat voor de verdere realisatie in onderhandeling met de inschrijver of de inschrijvers, voor de oppuntstelling van het uitvoeringsdossier;<br>
-e) na de goedkeuring, door de VMSW, van de definitieve offertebedragen en op voorwaarde dat de vereiste stedenbouwkundige vergunning door de inschrijver werd verkregen, verwerft de sociale huisvestingsmaatschappij het terrein waarna zij de aannemingsopdracht gunt aan de inschrijver;<br>
-9° de taken met betrekking tot het grond- en pandenbeleid uitoefenen dewelke worden toegewezen bij of krachtens het decreet Grond- en Pandenbeleid;<br>
+8° periodiek oproepen lanceren bij private actoren om projectvoorstellen in te dienen voor de verwezenlijking van sociale huurwoningen of sociale koopwoningen overeenkomstig de voor de sociale huisvestingsmaatschappijen geldende prijs- en kwaliteitsnormen;<br>
+9° de conformiteit met de voor de sociale huisvestingsmaatschappijen geldende prijs- en kwaliteitsnormen beoordelen van woningen die door private actoren worden opgericht in het kader van een koop-verkoopovereenkomst met een sociale huisvestingsmaatschappij, die de woningen na de overname zal verhuren als sociale huurwoningen of overdragen als sociale koopwoningen;<br>
 10° te zorgen voor de opbouw en het beheer van een databank met informatie over de prestaties van de sociale woonorganisaties en andere door de Vlaamse Regering erkende instanties.<br>
 <br>
 De VMSW kan, onder de voorwaarden die de Vlaamse Regering bepaalt, gewaarborgde kredieten toestaan aan de instanties die bijzondere sociale leningen of sociale leningen toestaan als vermeld in artikelen 78 en 79.<br>
@@ -370,37 +599,40 @@ De Vlaamse Regering stelt een procedure vast voor de goedkeuring of de bekrachti
 
 ### ART. 34.
 
-§ 1. Om het uitvoeringsprogramma, bedoeld in artikel 33, § 3, te realiseren kan de VMSW:<br>
+§ 1. Om doeleinden die te maken hebben met het sociaal woonaanbod, het bescheiden woonaanbod, of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen, bedoeld in artikel 33, § 3, te realiseren kan de VMSW:<br>
 1° zakelijke rechten verwerven op alle onroerende goe&shy;de&shy;ren die nodig zijn voor de sociale huisvesting en voor de verwerving van onroerende goederen, of on&shy;roeren&shy;de goe&shy;deren huren;<br>
-2° aan&nbsp;de initiatiefnemers, vermeld in artikel 33, § 1, eerste lid, finan&shy;ciële mid&shy;delen voorschieten en de onroerende goede&shy;ren die ze zelf verworven heeft, aan hen ver&shy;kopen, in erfpacht afstaan of verhuren;<br>
+2° aan&nbsp;de initiatiefnemers, vermeld in artikel 33, § 1, eerste lid, finan&shy;ciële mid&shy;delen voorschieten;<br>
 3° gebouwen slopen en oprichten;<br>
-4° gebouwen waarop ze een zakelijk of per&shy;soonlijk recht be&shy;zit, renoveren, verbeteren, aanpassen en in&shy;rich&shy;ten, er zakelijke rechten op afstaan en ze ver&shy;hu&shy;ren;<br>
+4° gebouwen waarop ze een zakelijk of per&shy;soonlijk recht be&shy;zit, renoveren, verbeteren, aanpassen en in&shy;rich&shy;ten en ze ver&shy;hu&shy;ren;<br>
 5° de bouwverplichting opleggen aan woonbe&shy;hoeftige gezinnen en alleenstaanden aan wie ze zakelijke rech&shy;ten op onroe&shy;rende goederen afstaat en aan hen erf&shy;dienst&shy;baarheden op&shy;leggen om het uitzicht en de func&shy;tionele inrichting van groepen van woningen te be&shy;houden;<br>
 6° voor de in de artikelen 78 en 79 vermelde sociale lenin&shy;gen, brandverzekeringen en tijdelijke overlijdensverze&shy;keringen aanbieden en alle verrichtingen doen die daar rechtstreeks uit voort&shy;vloei&shy;en, met inbegrip van alle accessoire waar&shy;bor&shy;gen die aan een dergelijke verzekering kunnen worden verbon&shy;den;<br>
-7° overeenkomsten sluiten met betrekking tot onroe&shy;rende goederen waarop of waarin woonprojecten in de privé-sec&shy;tor worden gerealiseerd, zoals vermeld in arti&shy;kel 75.<br>
+7° overeenkomsten sluiten met betrekking tot onroe&shy;rende goederen waarop of waarin woonprojecten in de privé-sec&shy;tor worden gerealiseerd, zoals vermeld in arti&shy;kel 75;<br>
+8° zakelijke rechten op onroerende goederen afstaan aan de entiteiten, vermeld in paragraaf 3, eerste lid, en de sociale verhuurkantoren.<br>
 <br>
 Onder de voorwaarden die de Vlaamse Regering bepaalt, kan de VMSW in het kader van haar opdracht, vermeld in artikel 33, § 1, vierde lid, 6°, :<br>
 1° zakelijke rechten vestigen op alle onroerende goederen die nodig zijn om projecten te verwezenlijken waarbij een vermenging wordt gerealiseerd van enerzijds sociale huurwoningen, sociale koopwoningen of sociale kavels, en anderzijds :<br>
 a) huurwoningen, koopwoningen of kavels die gefinancierd worden door Vlabinvest apb;<br>
 b) een bescheiden woonaanbod als vermeld in artikel 1.2, eerste lid, 1°, van het decreet&nbsp;Grond- en Pandenbeleid;<br>
-c) studentenhuizen of studentengemeenschapshuizen als vermeld in artikel 2 van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers;<br>
+c) studentenkamers;<br>
 d) zorgvoorzieningen als vermeld in artikel 1.2, eerste lid, 29°, van het decreet&nbsp;Grond- en Pandenbeleid;<br>
 e) woningen van de privésector;<br>
 f) functiegebonden gebouwen van publieke en semipublieke rechtspersonen;<br>
 2° de onroerende goederen, vermeld in 1°, huren;<br>
 3° de onroerende goederen die ze zelf heeft verworven met toepassing van 1°, aan de sociale huisvestingsmaatschappijen, aan Vlabinvest apb, of functiegebonden aan de initiatiefnemers van projecten als vermeld in 1° verkopen, er zakelijke rechten op afstaan of verhuren;<br>
+4° leningen met rentevermindering toestaan aan de initiatiefnemers, vermeld in artikel 33, § 1, eerste lid, en aan Vlabinvest apb voor de verwerving van onroerende goederen, vermeld in 1°, voor de realisatie van sociale huurwoningen.<br>
 <br>
 § 2. De Vlaamse regering kan de VMSW en de sociale huisvestingsmaatschappijen machtigen om onroerende goederen te onteigenen in de gevallen waar&shy;in zij oordeelt dat de verkrijging van de betrok&shy;ken goederen noodzakelijk is in het algemeen belang.<br>
 <br>
 Bij onteigening van onbebouwde terreinen wordt deze machtiging bij voorkeur verleend voor terreinen bin&shy;nen een woonvernieu&shy;wings- of woningbouwge&shy;bied.<br>
 <br>
-De VMSW en de sociale huisvestingsmaatschappijen kunnen voor het uitvoeren van hun vermogensrechte&shy;lijke verrichtingen een beroep doen op de ambtenaren van de administratie van de BTW, registratie en do&shy;meinen. Wanneer op hen een beroep wordt ge&shy;daan, oefenen deze ambtenaren in naam en voor re&shy;kening van de VMSW of de betrokken sociale huisves&shy;tings&shy;maat&shy;schappij alle bevoegdheden uit die door de regel&shy;geving inzake de goederen van de Staat werden ver&shy;leend. Ze zijn bevoegd om de akten te verlijden.<br>
+De VMSW en de sociale huisvestingsmaatschappijen kunnen voor het uitvoeren van hun vermogensrechte&shy;lijke verrichtingen een beroep doen op de Vlaamse commissarissen van de Vlaamse Belastingdienst. Wanneer op hen een beroep wordt ge&shy;daan, oefenen deze ambtenaren in naam en voor re&shy;kening van de VMSW of de betrokken sociale huisves&shy;tings&shy;maat&shy;schappij alle bevoegdheden uit die voor de verrichtingen nodig zijn volgens de richtlijnen van de VMSW of de betrokken sociale huisvestingsmaatschappij. Ze zijn bevoegd om de akten te verlijden.<br>
 <br>
 § 3. De VMSW verkoopt haar onroerende goederen openbaar. Ze kan ze enkel uit de hand verkopen aan:<br>
 1° de sociale huisvestingsmaatschappijen;<br>
 2° aan gezinnen of alleenstaanden ter uitvoering van de opdrachten, vermeld in artikel 33, waarbij ze rekening houdt met de prijsnormen, met de chronologie van de aanvragen en met de prioriteiten en andere voorwaarden die de Vlaamse Regering dienaangaande vaststelt;<br>
-3° gemeenten, autonome gemeentebedrijven als vermeld in titel VII, hoofdstuk II, afdeling II, van het Gemeentedecreet van 15 juli 2005 of openbare centra voor maat&shy;schappe&shy;lijk wel&shy;zijn, voor doeleinden die te maken hebben met het sociale woon&shy;beleid;<br>
-3° /1 initiatiefnemers van projecten als vermeld in paragraaf 1, tweede lid, 1° ; onder de voorwaarden die de Vlaamse Regering bepaalt;<br>
+2° /1 aan gezinnen en alleenstaanden ter uitvoering van de opdrachten met betrekking tot het bescheiden woonaanbod in de zin van artikel 41, § 2;<br>
+3° gemeenten, autonome gemeentebedrijven als vermeld in titel VII, hoofdstuk II, afdeling II, van het Gemeentedecreet van 15 juli 2005, intergemeentelijke samenwerkingsverbanden, of openbare centra voor maatschappelijk welzijn, voor doeleinden die te maken hebben met sociaal woonaanbod, het bescheiden woonaanbod of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen;<br>
+3° /1 initiatiefnemers van en partners in projecten als vermeld in paragraaf 1, tweede lid, 1° ; onder de voorwaarden die de Vlaamse Regering bepaalt;<br>
 4° andere personen, voor zover de onroerende goederen in kwestie niet meer van nut zijn voor huisvesting, en een openbare verkoop niet de venale waarde oplevert of de kosten van een openbare verkoop niet in verhouding staan tot de venale waarde en voor zover voldaan is aan de voorwaarden die de Vlaamse Regering bepaalt;<br>
 5° Vlabinvest apb.<br>
 <br>
@@ -443,7 +675,45 @@ De Vlaamse regering kan de VMSW machtigen om roe­rende en onroe­rende giften e
 
 ### ART. 40.
 
-§ 1. De Vlaamse Regering kan vennootschappen met een maatschappelijk doel   dat beantwoordt aan de bijzondere doelstellingen van het Vlaamse woonbeleid   erkennen als sociale huisvestingsmaatschappij. De sociale   huisvestingsmaatschappijen zijn autonome vennootschappen die verantwoordelijk   zijn voor het behoorlijk uitvoeren van de taken die hen opgedragen   zijn.<BR><BR>Om erkend te kunnen worden en te blijven als sociale   huisvestingsmaatschappij moeten die vennootschappen ten minste aan de volgende   voorwaarden voldoen :<BR>1° de vennootschap werkt in het Vlaamse Gewest;<BR>2°   de zetel van de vennootschap is gevestigd in het Vlaamse Gewest;<BR>3° de   vennootschap verbindt er zich toe de opdrachten uit te voeren die haar worden   opgelegd door :<BR>a) de Vlaamse Wooncode en de besluiten ter uitvoering   ervan;<BR>b) elk ander decreet of besluit, voorzover dat betrekking heeft op   aspecten van het sociale woonbeleid;<BR>4° de vennootschap verbindt er zich toe   het toezicht, zoals geregeld door de Vlaamse Wooncode en de besluiten ter   uitvoering ervan, te aanvaarden;<BR>5° de vennootschap neemt de door de Vlaamse   Regering opgestelde modelstatuten aan en verbindt er zich toe haar statuten   onmiddellijk aan te passen aan elke latere wijziging die de Vlaamse Regering aan   die modelstatuten zou aanbrengen;<BR>6° de vennootschap stelt een commissaris   aan die belast wordt met de controles zoals bepaald in het Wetboek van   vennootschappen;<BR>7° de vennootschap zorgt voor een behoorlijk werkend systeem   van interne controle;<BR>8° de vennootschap verbindt er zich toe haar financiële   middelen die niet noodzakelijk zijn voor de dagelijkse werking te laten beheren   door de VMSW.<BR><BR>De Vlaamse Regering stelt de procedure voor de erkenning en   de intrekking van de erkenning, alsook de modelstatuten van de sociale   huisvestingsmaatschappijen en de regeling voor het beheer van de middelen als   vermeld in het tweede lid, 8°, vast. Aan de statuten van een sociale   huisvestingsmaatschappij kan geen enkele wijziging worden aangebracht zonder de   voorafgaande goedkeuring van de Vlaamse Regering, tenzij in de gevallen die door   de Vlaamse Regering anders bepaald zijn. Die modelstatuten bepalen dat de   bestuurders van de sociale huisvestingsmaatschappijen verplicht zijn het   toezicht zoals dat geregeld is in de Vlaamse Wooncode te eerbiedigen en te doen   eerbiedigen en tevens te zorgen voor een behoorlijk werkend systeem van interne   controle.<BR><BR>De Vlaamse Regering kan aanvullende voorwaarden opleggen om   erkend te worden als sociale huisvestingsmaatschappij.<BR><BR>§ 2. De sociale   huisvestingsmaatschappijen nemen, zonder hun burgerlijk karakter te verliezen,   de vorm aan van coöperatieve of naamloze vennootschappen met een sociaal   oogmerk. Het Wetboek van vennootschappen is van toepassing op die maatschappijen   voorzover daarvan niet wordt afgeweken in de Vlaamse Wooncode of in de   statuten.<BR><BR>Artikel 661, eerste lid, 7° en 8°, van het Wetboek van   vennootschappen is niet van toepassing op de sociale huisvestingsmaatschappijen.   In afwijking van artikel 413 en 559 van het Wetboek van Vennootschappen kan de   staat van activa en passiva bij een statutenwijziging die betrekking heeft op   het doel van de sociale huisvestingsmaatschappij, tot zes maanden voordien zijn   vastgesteld. <BR><BR>De Vlaamse Regering stelt de voorwaarden vast waaronder   sociale huisvestingsmaatschappijen kunnen intekenen op het maatschappelijk   kapitaal van andere sociale woonorganisaties, van vennootschappen die erkend   zijn bij of krachtens dit decreet, en van verzekeringstussenpersonen als vermeld   in artikel 1, 3°, van de wet van 27 maart 1995 betreffende de verzekerings- en   herverzekeringsbemiddeling en de distributie van verzekeringen.<BR><BR>De   Vlaamse Regering stelt de voorwaarden vast waaronder sociale woonorganisaties,   sociale huisvestingsmaatschappijen uitgezonderd, vennootschappen die erkend zijn   bij of krachtens dit decreet, en verzekeringstussenpersonen als vermeld in   artikel 1, 3°, van de wet van 27 maart 1995 betreffende de verzekerings- en   herverzekeringsbemiddeling en de distributie van verzekeringen, kunnen intekenen   op het maatschappelijk kapitaal van een sociale huisvestingsmaatschappij,   gezamenlijk voor ten hoogste een vierde van het maatschappelijk kapitaal van de   sociale huisvestingsmaatschappij. <BR><BR>De sociale huisvestingsmaatschappij   wendt de netto-opbrengst van de participatie, vermeld in het derde lid, aan in   het kader van haar opdrachten, vermeld in artikel 41. <BR><BR>§ 3. De Vlaamse   Regering heeft het recht om bij de erkenning, fusie of omvorming van een sociale   huisvestingsmaatschappij namens het Vlaamse Gewest in te tekenen op ten hoogste   een vierde van het maatschappelijk kapitaal van de sociale   huisvestingsmaatschappij.<BR><BR>Als het Vlaamse Gewest, een provincie,   gemeenten en openbare centra voor maatschappelijk welzijn gezamenlijk de   meerderheid van het maatschappelijk kapitaal bezitten, moeten hun afgevaardigden   gezamenlijk de meerderheid bezitten in de raad van bestuur. Artikel 661, eerste   lid, 4°, van het Wetboek van Vennootschappen is niet op hen van   toepassing.<BR><BR>§ 4. De Vlaamse Regering legt de voorwaarden vast voor het   interne beheer en het rekeningstelsel dat de sociale huisvestingsmaatschappijen   hanteren.<BR><BR>
+§ 1. De Vlaamse Regering kan vennootschappen met een maatschappelijk doel dat beantwoordt aan de bijzondere doelstellingen van het Vlaamse woonbeleid erkennen als sociale huisvestingsmaatschappij. De sociale huisvestingsmaatschappijen zijn autonome vennootschappen die verantwoordelijk zijn voor het behoorlijk uitvoeren van de taken die hen opgedragen zijn.<br>
+<br>
+Om erkend te kunnen worden en te blijven als sociale huisvestingsmaatschappij moeten die vennootschappen ten minste aan de volgende voorwaarden voldoen :<br>
+1° de vennootschap werkt in het Vlaamse Gewest;<br>
+2° de zetel van de vennootschap is gevestigd in het Vlaamse Gewest;<br>
+3° de vennootschap verbindt er zich toe de opdrachten uit te voeren die haar worden opgelegd door :<br>
+a) de Vlaamse Wooncode en de besluiten ter uitvoering ervan;<br>
+b) elk ander decreet of besluit, voorzover dat betrekking heeft op aspecten van het sociale woonbeleid;<br>
+4° de vennootschap verbindt er zich toe het toezicht, zoals geregeld door de Vlaamse Wooncode en de besluiten ter uitvoering ervan, te aanvaarden;<br>
+5° de vennootschap neemt de door de Vlaamse Regering opgestelde modelstatuten aan en verbindt er zich toe haar statuten onmiddellijk aan te passen aan elke latere wijziging die de Vlaamse Regering aan die modelstatuten zou aanbrengen;<br>
+6° de vennootschap stelt een commissaris aan die belast wordt met de controles zoals bepaald in het Wetboek van vennootschappen;<br>
+7° de vennootschap zorgt voor een behoorlijk werkend systeem van interne controle;<br>
+8° de vennootschap verbindt er zich toe haar financiële middelen die niet noodzakelijk zijn voor de dagelijkse werking te laten beheren door de VMSW;<br>
+9° de vennootschap heeft een voldoende lokale binding met een welomschreven werkgebied en een voldoende laagdrempelige bereikbaarheid voor de doelgroep;<br>
+10° de vennootschap stelt een raad van bestuur aan waarvan ten minste een derde van de aangestelde leden van een ander geslacht is, en die maximaal uit een door de Vlaamse Regering te bepalen aantal leden bestaat;<br>
+11° de vennootschap draagt in voldoende mate bij aan het bereiken van het bindend sociaal objectief, vermeld in artikel 4.1.2 van het decreet Grond- en Pandenbeleid, van de gemeenten in haar werkgebied, tenzij zij aantoont dat er externe factoren zijn die verantwoorden waarom het objectief niet wordt bereikt.<br>
+<br>
+De Vlaamse Regering bepaalt de methodologie en de criteria aan de hand waarvan het in voldoende mate bijdragen aan het bereiken van het bindend sociaal objectief, vermeld in artikel 4.1.2 van het decreet Grond- en Pandenbeleid, van de gemeenten in het werkgebied van de vennootschap, vermeld in het tweede lid, 11°, wordt beoordeeld. Ten minste moet rekening gehouden worden met de andere sociale huisvestingsmaatschappijen en de sociale verhuurkantoren die in hetzelfde werkgebied actief zijn.<br>
+<br>
+De Vlaamse Regering stelt de procedure voor de erkenning en de intrekking van de erkenning, alsook de modelstatuten van de sociale huisvestingsmaatschappijen en de regeling voor het beheer van de middelen als vermeld in het tweede lid, 8°, vast. Aan de statuten van een sociale huisvestingsmaatschappij kan geen enkele wijziging worden aangebracht zonder de voorafgaande goedkeuring van de Vlaamse Regering, tenzij in de gevallen die door de Vlaamse Regering anders bepaald zijn. Die modelstatuten bepalen dat de bestuurders van de sociale huisvestingsmaatschappijen verplicht zijn het toezicht zoals dat geregeld is in de Vlaamse Wooncode te eerbiedigen en te doen eerbiedigen en tevens te zorgen voor een behoorlijk werkend systeem van interne controle.<br>
+<br>
+De Vlaamse Regering kan aanvullende voorwaarden opleggen om erkend te worden als sociale huisvestingsmaatschappij.<br>
+<br>
+§ 2. De sociale huisvestingsmaatschappijen nemen, zonder hun burgerlijk karakter te verliezen, de vorm aan van coöperatieve of naamloze vennootschappen met een sociaal oogmerk. Het Wetboek van vennootschappen is van toepassing op die maatschappijen voorzover daarvan niet wordt afgeweken in de Vlaamse Wooncode of in de statuten.<br>
+<br>
+Artikel 661, eerste lid, 7° en 8°, van het Wetboek van vennootschappen is niet van toepassing op de sociale huisvestingsmaatschappijen. In afwijking van artikel 413 en 559 van het Wetboek van Vennootschappen kan de staat van activa en passiva bij een statutenwijziging die betrekking heeft op het doel van de sociale huisvestingsmaatschappij, tot zes maanden voordien zijn vastgesteld.<br>
+<br>
+De Vlaamse Regering stelt de voorwaarden vast waaronder sociale huisvestingsmaatschappijen kunnen intekenen op het maatschappelijk kapitaal van andere sociale woonorganisaties, van vennootschappen die erkend zijn bij of krachtens dit decreet, en van verzekeringstussenpersonen als vermeld in artikel 1, 3°, van de wet van 27 maart 1995 betreffende de verzekerings- en herverzekeringsbemiddeling en de distributie van verzekeringen.<br>
+<br>
+De Vlaamse Regering stelt de voorwaarden vast waaronder sociale woonorganisaties, sociale huisvestingsmaatschappijen uitgezonderd, vennootschappen die erkend zijn bij of krachtens dit decreet, en verzekeringstussenpersonen als vermeld in artikel 1, 3°, van de wet van 27 maart 1995 betreffende de verzekerings- en herverzekeringsbemiddeling en de distributie van verzekeringen, kunnen intekenen op het maatschappelijk kapitaal van een sociale huisvestingsmaatschappij, gezamenlijk voor ten hoogste een vierde van het maatschappelijk kapitaal van de sociale huisvestingsmaatschappij.<br>
+<br>
+De sociale huisvestingsmaatschappij wendt de netto-opbrengst van de participatie, vermeld in het derde lid, aan in het kader van haar opdrachten, vermeld in artikel 41.<br>
+<br>
+§ 3. De Vlaamse Regering heeft het recht om bij de erkenning, fusie of omvorming van een sociale huisvestingsmaatschappij namens het Vlaamse Gewest in te tekenen op ten hoogste een vierde van het maatschappelijk kapitaal van de sociale huisvestingsmaatschappij.<br>
+<br>
+Als het Vlaamse Gewest, een provincie, gemeenten en openbare centra voor maatschappelijk welzijn gezamenlijk de meerderheid van het maatschappelijk kapitaal bezitten, moeten hun afgevaardigden gezamenlijk de meerderheid bezitten in de raad van bestuur. Artikel 661, eerste lid, 4°, van het Wetboek van Vennootschappen is niet op hen van toepassing.<br>
+<br>
+§ 4. De Vlaamse Regering legt de voorwaarden vast voor het interne beheer en het rekeningstelsel dat de sociale huisvestingsmaatschappijen hanteren.<br>
+&nbsp;
 
 ### ART. 41.
 
@@ -451,7 +721,14 @@ De Vlaamse regering kan de VMSW machtigen om roe­rende en onroe­rende giften e
 
 ### ART. 42.
 
-De bepalingen van artikel 34, § 1, met uitzondering van het eerste lid, 2° en 6°, § 3, eerste en tweede lid, en § 5, en van artikel 37, tweede lid, zijn van toepassing op de sociale huisvestingsmaatschappijen.<br /><br />De sociale huisvestingsmaatschappijen kunnen eveneens hun onroerende goederen uit de hand verkopen aan derden, en hun rechten op grondreserves onder bezwarende titel afstaan aan derden, telkens om woonprojecten te verwezenlijken middels publiek-private samenwerking of om woonprojecten te verwezenlijken waarbij een menging wordt gerealiseerd van enerzijds sociale koopwoningen, sociale huurwoningen of sociale kavels, en anderzijds woningen van de privésector.<br /><br />De Vlaamse Regering kan nadere regelen vaststellen voor de onroerende transacties, inbegrepen de vrijwillige verkoop van sociale huurwoningen, door sociale huisvestingsmaatschappijen.<br /><br />De Vlaamse Regering stelt de nadere regelen vast voor samenwerkingsverbanden tussen een sociale huisvestingsmaatschappij en andere instanties en tussen de sociale huisvestingsmaatschappijen onderling.<br /><br />
+De bepalingen van artikel 34, § 1, met uitzondering van het eerste lid, 2° en 6°, § 3, eerste lid, en § 5, en van artikel 37, vierde lid, zijn van toepassing op de sociale huisvestingsmaatschappijen.<br>
+<br>
+De sociale huisvestingsmaatschappijen kunnen eveneens hun onroerende goederen uit de hand verkopen aan derden, en hun rechten op grondreserves onder bezwarende titel afstaan aan derden, telkens om woonprojecten te verwezenlijken middels publiek-private samenwerking of om woonprojecten te verwezenlijken waarbij een menging wordt gerealiseerd van enerzijds sociale koopwoningen, sociale huurwoningen of sociale kavels, en anderzijds woningen van de privésector.<br>
+<br>
+De Vlaamse Regering kan nadere regelen vaststellen voor de onroerende transacties, inbegrepen de vrijwillige verkoop van sociale huurwoningen, door sociale huisvestingsmaatschappijen.<br>
+<br>
+De Vlaamse Regering stelt de nadere regelen vast voor samenwerkingsverbanden tussen een sociale huisvestingsmaatschappij en andere instanties en tussen de sociale huisvestingsmaatschappijen onderling.<br>
+&nbsp;
 
 ### ART. 42bis.
 
@@ -516,7 +793,11 @@ Het VWF verbindt er zich toe om een gedeelte van de leningen of kredieten   in k
 
 ### ART. 55.
 
-Voor de naleving van de bepalingen van dit hoofdstuk staat het VWF onder het toezicht van de toezichthouder.<br /><br />De toezichthouder toetst de activiteiten van het VWF en de beslissingen van de raad van bestuur over de aanwending van leningen of kredieten, vermeld in artikel 52, aan de regelgeving hierover.<br /><br />In het bijzonder ziet hij erop toe dat het beleid van het VWF wordt gecoördineerd met en geïntegreerd in het Vlaamse Woonbeleid. Hij waakt erover dat het VWF deelneemt aan het overleg, vermeld in artikel 28, telkens als het daartoe wordt uitgenodigd.<br />
+Voor de naleving van de bepalingen van dit hoofdstuk staat het VWF onder het toezicht van twee regeringsafgevaardigden die door de Vlaamse Regering worden benoemd met een bevoegdheid conform artikel 23 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003.<br>
+<br>
+In het bijzonder zien de regeringsafgevaardigden erop toe dat het beleid van het VWF wordt afgestemd op en geïntegreerd in het Vlaamse woonbeleid. De regeringsafgevaardigden waken erover dat het VWF deelneemt aan het overleg, vermeld in artikel 28, telkens als het daarvoor wordt uitgenodigd.<br>
+<br>
+De toezichthouder ziet in het bijzonder toe op de beslissingen van de raad van bestuur over de aanwending van de leningen of de kredieten, vermeld in artikel 52.
 
 ## HOOFDSTUK IV DE ERKENDE HUURDIENSTEN
 
@@ -540,7 +821,15 @@ De Vlaamse Regering erkent een ondersteuningsstructuur voor initiatieven ter bev
 
 ### ART. 59.
 
-Onverminderd andersluidende bepalingen worden de terugbetalingen van   subsidie of van tegemoet-komingen die krachtens de Vlaamse Wooncode verleend   werden en die teruggevorderd worden omdat de begunstigden de aangegane   verbintenissen of gestelde voorwaarden niet naleven, toegewezen aan het Fonds   voor de Huisvesting ...<BR><BR>Het Fonds voor de huisvesting wordt opgericht als   een begrotingsfonds als vermeld in artikel 12, § 1, van het decreet van 8 juli   2011 houdende regeling van de begroting, de boekhouding, de toekenning van   subsidies en de controle op de aanwending ervan, en de controle door het   Rekenhof .<BR><BR>Aan het Fonds voor de huisvesting worden eveneens de   netto-ontvangsten toegewezen die voortvloeien uit de toepassing van het   Heffingsdecreet met ingang van het heffingsjaar 2005 en de ontvangsten   voortvloeiend uit Europese cofinanciering. <BR><BR>De middelen van dit Fonds   moeten rechtstreeks bijdragen tot wat het woonbeleid ten goede kan komen, onder   meer tot het wetenschappelijk onderzoek en tot vernieuwende of experimentele   woonprojecten die aansluiten bij de doelstellingen van artikel 3 en 4 of die   bijdragen tot de ontwikkeling van het woonbeleid in internationaal   verband.<BR><BR>De Vlaamse regering wijst de ambtenaren aan die belast zijn met   de invordering van de subsidies en tegemoetkomingen, evenals de ambtenaren die   bevoegd zijn om hiervoor een dwangbevel op te stellen, te viseren en uitvoerbaar   te verklaren. De Vlaamse regering kan haar bevoegdheid ter zake delegeren tot op   het meest functionele niveau.
+Onverminderd andersluidende bepalingen worden de terugbetalingen van subsidie of van tegemoet-komingen die krachtens de Vlaamse Wooncode&nbsp;of krachtens het decreet van 28 maart 2014 houdende een subsidie voor investeringen in residentiële woonwagenterreinen en doortrekkersterreinen voor woonwagenbewoners verleend werden en die teruggevorderd worden omdat de begunstigden de aangegane verbintenissen of gestelde voorwaarden niet naleven, toegewezen aan het Fonds voor de Huisvesting ...<br>
+<br>
+Het Fonds voor de huisvesting wordt opgericht als een begrotingsfonds als vermeld in artikel 12, § 1, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof .<br>
+<br>
+Aan het Fonds voor de huisvesting worden eveneens de netto-ontvangsten toegewezen die voortvloeien uit de toepassing van het Heffingsdecreet met ingang van het heffingsjaar 2005 en de ontvangsten voortvloeiend uit Europese cofinanciering.<br>
+<br>
+De middelen van dit Fonds moeten rechtstreeks bijdragen tot wat het woonbeleid ten goede kan komen, onder meer tot het wetenschappelijk onderzoek en tot vernieuwende of experimentele woonprojecten die aansluiten bij de doelstellingen van artikel 3 en 4 of die bijdragen tot de ontwikkeling van het woonbeleid in internationaal verband.<br>
+<br>
+De Vlaamse regering wijst de ambtenaren aan die belast zijn met de invordering van de subsidies en tegemoetkomingen, evenals de ambtenaren die bevoegd zijn om hiervoor een dwangbevel op te stellen, te viseren en uitvoerbaar te verklaren. De Vlaamse regering kan haar bevoegdheid ter zake delegeren tot op het meest functionele niveau.
 
 ## HOOFDSTUK II SUBSIDIERING VAN OVERHEIDSINITIATIEVEN
 
@@ -548,7 +837,24 @@ Onverminderd andersluidende bepalingen worden de terugbetalingen van   subsidie 
 
 ### ART. 60.
 
-§ 1. Om het recht op wonen te bevorderen, kan de Vlaamse regering,   afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest   worden ingeschreven, subsidie verlenen voor een aantal verrichtingen die   betrekking hebben op sociale huurwoningen en die passen in:<BR>1° de verwerving   van bebouwde of onbebouwde onroerende goederen;<BR>2° de aanleg of de aanpassing   van wooninfrastructuur;<BR>3° ...;<BR>4° de verhuring van sociale huurwoningen.   <BR><BR>Rekening houdend met de bepalingen van dit hoofdstuk stelt de Vlaamse   regering de bijzondere voorwaarden vast waaronder ze subsidie verleent.<BR><BR>§   2. Onverminderd de uitzonderingen die in dit hoofdstuk en in artikel 4.1.15 van   het decreet&nbsp;Grond- en Pandenbeleid zijn bepaald en rekening houdend met de   bepalingen van artikel 29, kan subsidie, zoals bedoeld in § 1, worden verleend   aan de volgende initiatiefnemers:<BR>1° de VMSW en de sociale   huisvestingsmaatschappijen;<BR>2° het VWF;<BR>3° de gemeenten;<BR>4° de   intergemeentelijke samenwerkingsverbanden, evenwel beperkt tot de subsidie voor   wooninfrastructuur;<BR>5° de openbare centra voor maatschappelijk welzijn en   OCMW-verenigingen.<BR><BR>§ 3. Wanneer de uitvoering van een verrichting,   bedoeld in deze titel, de ontruiming van woningen vereist, is de   initia-tiefnemer verplicht de bewoners die voldoen aan de voorwaarden die worden   vastgesteld op grond van artikel 95 en de bewoners van een woning die toebehoort   aan een sociale woonorganisatie of de initiatiefnemer, te herhuisvesten onder de   door de Vlaamse regering gestelde voorwaarden.
+§ 1. Om het recht op wonen te bevorderen, kan de Vlaamse regering, afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, subsidie verlenen voor een aantal verrichtingen die betrekking hebben op sociale huurwoningen en die passen in:<br>
+1° de verwerving van bebouwde of onbebouwde onroerende goederen;<br>
+2° de aanleg of de aanpassing van wooninfrastructuur;<br>
+3° ...;<br>
+4° de verhuring van sociale huurwoningen.<br>
+<br>
+De Vlaamse Regering kan, afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, een subsidie verlenen voor de aanleg of de aanpassing van wooninfrastructuur die nodig is voor de realisatie van een gemengd sociaal woonproject als vermeld in artikel 2, § 1, eerste lid, 32°, a). De Vlaamse Regering bepaalt het minimum aandeel sociale huurwoningen dat binnen het voornoemde gemengd sociaal woonproject moet worden gerealiseerd om in aanmerking te komen voor een subsidie voor de aanleg of de aanpassing van wooninfrastructuur.<br>
+<br>
+Rekening houdend met de bepalingen van dit hoofdstuk stelt de Vlaamse regering de bijzondere voorwaarden vast waaronder ze subsidie verleent.<br>
+<br>
+§ 2. Onverminderd de uitzonderingen die in dit hoofdstuk en in artikel 4.1.15 van het decreet&nbsp;Grond- en Pandenbeleid zijn bepaald en rekening houdend met de bepalingen van artikel 29, kan subsidie, zoals bedoeld in § 1, worden verleend aan de volgende initiatiefnemers:<br>
+1° de VMSW en de sociale huisvestingsmaatschappijen;<br>
+2° het VWF;<br>
+3° de gemeenten;<br>
+4° de intergemeentelijke samenwerkingsverbanden, evenwel beperkt tot de subsidie voor wooninfrastructuur;<br>
+5° de openbare centra voor maatschappelijk welzijn en OCMW-verenigingen.<br>
+<br>
+§ 3. Wanneer de uitvoering van een verrichting, bedoeld in deze titel, de ontruiming van woningen vereist, is de initia-tiefnemer verplicht de bewoners die voldoen aan de voorwaarden die worden vastgesteld op grond van artikel 95 en de bewoners van een woning die toebehoort aan een sociale woonorganisatie of de initiatiefnemer, te herhuisvesten onder de door de Vlaamse regering gestelde voorwaarden.
 
 ### ART. 61.
 
@@ -556,7 +862,9 @@ De Vlaamse regering bepaalt het bedrag van de subsidies, vermeld in dit   hoofds
 
 ### ART. 62.
 
-§ 1. De toezichthouder is bevoegd om namens de Vlaamse regering controle uit te oefenen op de aanwending van de subsidies, vermeld in dit hoofdstuk.<br /><br />§ 2. De Vlaamse regering stelt de bijzondere regels vast voor de eventuele terugbetaling van de ontvangen subsidie in de gevallen waarin, bij de realisatie van het sociaal woonproject, één of meer elementen werden gewijzigd, in het bijzonder de bestemming van gronden of gebouwen.
+§ 1. ...<br>
+<br>
+§ 2. De Vlaamse regering stelt de bijzondere regels vast voor de eventuele terugbetaling van de ontvangen subsidie in de gevallen waarin, bij de realisatie van het sociaal woonproject, één of meer elementen werden gewijzigd, in het bijzonder de bestemming van gronden of gebouwen.
 
 ## AFDELING 2 [SUBSIDIE VOOR DE VERWERVING VAN ONROERENDE GOEDEREN (verv. Decr. 31 mei 2013, art. 27, I: 21 juli 2013)]
 
@@ -572,7 +880,15 @@ De Vlaamse regering bepaalt het bedrag van de subsidies, vermeld in dit   hoofds
 
 ### ART. 65.
 
-De subsidiëring van infrastructuurwerken en van aanpassingswerkzaamheden aan de woonomge-ving, vermeld in artikel 64, § 1, eerste lid, 2° en 4°, is slechts mogelijk als de initiatiefnemer er zich toe verbindt de wooninfrastructuur in kwestie, samen met de grond waarin of waarop ze wordt uitgevoerd, binnen de termijn die door de Vlaamse regering wordt bepaald aan de gemeente over te dragen om in het gemeentelijke openbare domein te worden ingelijfd.<br /><br />De initiatiefnemer kan de gemeenschapsvoorzieningen die niet uitsluitend bedoeld zijn voor de bewoners van de woningen van het sociaal woonproject, aan de gemeente overdragen om in het gemeentelijke openbare domein te worden ingelijfd.<br /><br />De initiatiefnemer mag voor de overdracht aan de gemeente, bedoeld in dit artikel, een vergoeding vragen die niet meer mag bedragen dan het niet-gesubsidieerde deel van de kostprijs van de werkzaamheden, verrichtingen en voorzieningen.<br /><br />De overdracht gebeurt overeenkomstig een procedure die de Vlaamse regering uitwerkt en die voor de gemeente de nodige waarborgen biedt inzake overleg bij het ontwerp en de uitvoering van de verrichtingen.<br /><br />De gemeente is onderhoudsplichtig voor de infrastructuur en gemeenschapsvoorzieningen die aan haar werden overgedragen.
+De infrastructuurwerken en de aanpassingswerkzaamheden aan de woonomgeving, vermeld in artikel 64, § 1, eerste lid, 2° en 4°, kunnen alleen gesubsidieerd worden als ze samen met de grond waarin of waarop ze worden uitgevoerd, binnen de termijn die door de Vlaamse Regering wordt bepaald, overgedragen worden aan de gemeente om in het gemeentelijke openbare domein te worden opgenomen. De gemeente en de initiatiefnemer verklaren zich uiterlijk bij de indiening van de subsidieaanvraag principieel bereid tot die overdracht.<br>
+<br>
+De initiatiefnemer kan de gemeenschapsvoorzieningen die niet uitsluitend bedoeld zijn voor de bewoners van de woningen van het sociaal woonproject, aan de gemeente overdragen om in het gemeentelijke openbare domein te worden opgenomen.<br>
+<br>
+De initiatiefnemer mag voor de overdracht aan de gemeente, bedoeld in dit artikel, een vergoeding vragen die niet meer mag bedragen dan het niet-gesubsidieerde deel van de kostprijs van de werkzaamheden, verrichtingen en voorzieningen.<br>
+<br>
+De overdracht gebeurt overeenkomstig een procedure die de Vlaamse regering uitwerkt en die voor de gemeente de nodige waarborgen biedt inzake overleg bij het ontwerp en de uitvoering van de verrichtingen.<br>
+<br>
+De gemeente onderhoudt de wooninfrastructuur, vermeld in het eerste lid, vanaf de voorlopige oplevering ervan, of vanaf de ingebruikname ervan als die aan de voorlopige oplevering voorafgaat. De eigenaar onderhoudt de gemeenschapsvoorzieningen vanaf de voorlopige oplevering ervan, of vanaf de ingebruikname ervan als die aan de voorlopige oplevering voorafgaat.
 
 ### ART. 66.
 
@@ -671,7 +987,35 @@ De woningen die worden gefinancierd via een tussenkomst van het Garantiefonds vo
 
 ### ART. 78.
 
-§ 1. Het Vlaamse Gewest waarborgt, onder de voorwaarden die de Vlaamse   regering stelt, de terugbetaling van de hoofdsom en de betaling van de interest   en de extra kosten van sociale leningen toegestaan door:<BR>1° de   kredietmaatschappijen die, onder de voorwaarden die de Vlaamse regering bepaalt,   door de Vlaamse regering of door de rechtsvoorganger van de VMSW erkend   zijn;<BR>2° elke kredietinstelling, hiertoe erkend bij besluit van de Vlaamse   regering. <BR><BR>De waarborg van het Vlaamse Gewest heeft ten hoogste   betrekking op het gedeelte van de lening dat 60 % van de verkoopwaarde van de   woning overschrijdt. De kredietinstelling houdt op de geleende bedragen een   bijdrage in ten voordele van het « Waarborgfonds sociale leningen » dat wordt   opgericht als een begrotingsfonds als vermeld in artikel 12, § 1, van het   decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de   toekenning van subsidies en de controle op de aanwending ervan, en de controle   door het Rekenhof.<BR><BR>Aan het Waarborgfonds sociale leningen worden benevens   voormelde bijdragen ook de ontvangsten die voortvloeien uit terugwinningen, de   inkomsten uit de wederverkoop van ingekochte onroerende goederen en de intresten   op belegde sommen toegewezen.<BR><BR>De middelen van het fonds kunnen enkel   aangewend worden voor de roerende voorheffing op intrestenopbrengsten,   bankkosten, tegemoetkomingen aan de kredietmaatschappijen en -instellingen ter   uitvoering van de gewestwaarborg, alsook voor de aankoop van onroerende   goederen.<BR><BR>Alle schulden, vorderingen en tegoeden van het Fonds voor de   waarborgstelling met betrekking tot huisvesting, vermeld in artikel 28 en 32 van   het decreet van 21 december 1990 houdende begrotingstechnische bepalingen   alsmede bepalingen tot begeleiding van de begroting 1991, worden overgenomen   door het Waarborgfonds sociale leningen. Op het fonds kan rechtstreeks worden   beschikt door de rekenplichtige die de ontvangsten heeft gedaan.<BR><BR>De   Vlaamse Regering regelt het beheer van het fonds en bepaalt de hoogte van de   bijdrage, die in geen geval meer mag bedragen dan 0,5 % van de geleende   bedragen.<BR><BR>Het geleende bedrag mag niet hoger zijn dan de verkoopwaarde   van de woning. De Vlaamse regering stelt de overige voorwaarden vast, onder meer   inzake de maximumverkoopwaarde van de woning, de minimum- en maximumnormen voor   de woningen en de eigendomsvoorwaarden in hoofde van de ontlener.<BR><BR>De   kredietmaatschappijen, vermeld in het eerste lid, 1°, kunnen ook leningen   toestaan aan leners ter financiering van vroeger aangegane schulden, voor de   renovatie, de koop of de bouw van hun woning, onder de voorwaarden die door de   Vlaamse Regering worden bepaald.<BR><BR>§ 2. Het Vlaamse Gewest waarborgt,   binnen het plafond vermeld in de begrotingsdecreten, en onder de voorwaarden die   de Vlaamse Regering stelt, de terugbetaling van de hoofdsom en de betaling van   de interest en de extra kosten van de kredieten aangegaan door de in § 1, eerste   lid, 1°, vermelde kredietmaatschappijen. De onder deze voorwaarden opgenomen   kredieten zijn voor 100 % gewaarborgd.<BR><BR>§ 3. De Vlaamse Regering stelt de   voorwaarden vast waaronder de kredietmaatschappijen, vermeld in paragraaf 1,   eerste lid, 1°, kunnen intekenen op het maatschappelijk kapitaal van sociale   woonorganisaties, van vennootschappen die erkend zijn bij of krachtens dit   decreet, en van verzekeringstussenpersonen als vermeld in artikel 1, 3°, van de   wet van 27 maart 1995 betreffende de verzekerings- en herverzekeringsbemiddeling   en de distributie van verzekeringen.<BR><BR>De Vlaamse Regering stelt de   voorwaarden vast waaronder sociale woonorganisaties, vennootschappen die erkend   zijn bij of krachtens dit decreet, kredietmaatschappijen als vermeld in   paragraaf 1, eerste lid, 1°, uitgezonderd, en verzekeringstussenpersonen als   vermeld in artikel 1, 3°, van de wet van 27 maart 1995 betreffende de   verzekerings- en herverzekeringsbemiddeling en de distributie van verzekeringen,   kunnen intekenen op het maatschappelijk kapitaal van een kredietmaatschappij als   vermeld in paragraaf 1, eerste lid, 1°, gezamenlijk voor ten hoogste een vierde   van het maatschappelijk kapitaal van de kredietmaatschappij. <BR><BR>De   kredietmaatschappij wendt de netto-opbrengst van de participatie, vermeld in het   eerste lid, aan voor de financiering van de sociale leningen, vermeld in dit   decreet.<BR><BR>§ 4. De Vlaamse Regering legt de voorwaarden vast voor het   interne beheer en het rekeningstelsel dat de kredietmaatschappijen, vermeld in   paragraaf 1, eerste lid, 1°, hanteren.
+§ 1. Het Vlaamse Gewest waarborgt, onder de voorwaarden die de Vlaamse regering stelt, de terugbetaling van de hoofdsom en de betaling van de interest en de extra kosten van sociale leningen toegestaan door:<br>
+1° de kredietmaatschappijen die, onder de voorwaarden die de Vlaamse regering bepaalt, door de Vlaamse regering of door de rechtsvoorganger van de VMSW erkend zijn;<br>
+2° elke kredietinstelling, hiertoe erkend bij besluit van de Vlaamse regering.<br>
+<br>
+De waarborg van het Vlaamse Gewest heeft ten hoogste betrekking op het gedeelte van de lening dat 60 % van de verkoopwaarde van de woning overschrijdt. De kredietinstelling houdt op de geleende bedragen een bijdrage in ten voordele van het « Waarborgfonds sociale leningen » dat wordt opgericht als een begrotingsfonds als vermeld in artikel 12, § 1, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+<br>
+Aan het Waarborgfonds sociale leningen worden benevens voormelde bijdragen ook de ontvangsten die voortvloeien uit terugwinningen, de inkomsten uit de wederverkoop van ingekochte onroerende goederen en de intresten op belegde sommen toegewezen.<br>
+<br>
+De middelen van het fonds kunnen enkel aangewend worden voor de roerende voorheffing op intrestenopbrengsten, bankkosten, tegemoetkomingen aan de kredietmaatschappijen en -instellingen ter uitvoering van de gewestwaarborg, alsook voor de aankoop van onroerende goederen.<br>
+<br>
+De Vlaamse Regering stelt de gevallen vast waarbij, om bijzondere sociale redenen, de sommen die in het kader van de uitvoering van de waarborg, vermeld in het vierde lid, aan de kredietmaatschappijen en -instellingen werden betaald, niet worden teruggevorderd bij de kredietnemers.<br>
+<br>
+Alle schulden, vorderingen en tegoeden van het Fonds voor de waarborgstelling met betrekking tot huisvesting, vermeld in artikel 28 en 32 van het decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede bepalingen tot begeleiding van de begroting 1991, worden overgenomen door het Waarborgfonds sociale leningen. Op het fonds kan rechtstreeks worden beschikt door de rekenplichtige die de ontvangsten heeft gedaan.<br>
+<br>
+De Vlaamse Regering regelt het beheer van het fonds en bepaalt de hoogte van de bijdrage, die in geen geval meer mag bedragen dan 0,5 % van de geleende bedragen.<br>
+<br>
+Het geleende bedrag mag niet hoger zijn dan de verkoopwaarde van de woning. De Vlaamse regering stelt de overige voorwaarden vast, onder meer inzake de maximumverkoopwaarde van de woning, de minimum- en maximumnormen voor de woningen en de eigendomsvoorwaarden in hoofde van de ontlener.<br>
+<br>
+De kredietmaatschappijen, vermeld in het eerste lid, 1°, kunnen ook leningen toestaan aan leners ter financiering van vroeger aangegane schulden, voor de renovatie, de koop of de bouw van hun woning, onder de voorwaarden die door de Vlaamse Regering worden bepaald.<br>
+<br>
+§ 2. Het Vlaamse Gewest waarborgt, binnen het plafond vermeld in de begrotingsdecreten, en onder de voorwaarden die de Vlaamse Regering stelt, de terugbetaling van de hoofdsom en de betaling van de interest en de extra kosten van de kredieten aangegaan door de in § 1, eerste lid, 1°, vermelde kredietmaatschappijen. De onder deze voorwaarden opgenomen kredieten zijn voor 100 % gewaarborgd.<br>
+<br>
+§ 3. De Vlaamse Regering stelt de voorwaarden vast waaronder de kredietmaatschappijen, vermeld in paragraaf 1, eerste lid, 1°, kunnen intekenen op het maatschappelijk kapitaal van sociale woonorganisaties, van vennootschappen die erkend zijn bij of krachtens dit decreet, en van verzekeringstussenpersonen als vermeld in artikel 1, 3°, van de wet van 27 maart 1995 betreffende de verzekerings- en herverzekeringsbemiddeling en de distributie van verzekeringen.<br>
+<br>
+De Vlaamse Regering stelt de voorwaarden vast waaronder sociale woonorganisaties, vennootschappen die erkend zijn bij of krachtens dit decreet, kredietmaatschappijen als vermeld in paragraaf 1, eerste lid, 1°, uitgezonderd, en verzekeringstussenpersonen als vermeld in artikel 1, 3°, van de wet van 27 maart 1995 betreffende de verzekerings- en herverzekeringsbemiddeling en de distributie van verzekeringen, kunnen intekenen op het maatschappelijk kapitaal van een kredietmaatschappij als vermeld in paragraaf 1, eerste lid, 1°, gezamenlijk voor ten hoogste een vierde van het maatschappelijk kapitaal van de kredietmaatschappij.<br>
+<br>
+De kredietmaatschappij wendt de netto-opbrengst van de participatie, vermeld in het eerste lid, aan voor de financiering van de sociale leningen, vermeld in dit decreet.<br>
+<br>
+§ 4. De Vlaamse Regering legt de voorwaarden vast voor het interne beheer en het rekeningstelsel dat de kredietmaatschappijen, vermeld in paragraaf 1, eerste lid, 1°, hanteren.
 
 ### ART. 79.
 
@@ -736,11 +1080,48 @@ Als de Vlaamse regering een tegemoetkoming verleent voor het bouwen van een woni
 
 ### ART. 85.
 
-§ 1. De VMSW, de sociale huisvestingsmaatschappijen, de gemeenten en de   openbare centra voor maatschappelijk welzijn beschikken over een recht van   voorkoop op de woningen waaraan ze renovatie-, verbeterings- of   aanpassingswerkzaamheden hebben uitgevoerd met toepassing van artikel 18, § 2,   en 90.<BR><BR>Onverminderd het eerste lid, krijgen de VMSW, Vlabinvest apb, de   sociale huisvestingsmaatschappijen binnen hun werkgebied, en de gemeenten op hun   grondgebied, een recht van voorkoop op:<BR>1° een woning die is opgenomen in het   leegstandsregister, vermeld in artikel 2.2.6 van het decreet Grond- en   Pandenbeleid, of op een van de lijsten van de inventaris, bedoeld in artikel 28,   § 1, van het Heffingsdecreet;<BR>2° de woning, bedoeld in artikel 19, die niet   werd gesloopt binnen de door de Vlaamse regering bepaalde termijn;<BR>3° een   perceel, bestemd voor woningbouw, dat gelegen is in een door de Vlaamse regering   te bepalen bijzonder gebied.<BR><BR>Het voorkooprecht geldt niet als een sociale   huisvestingsmaatschappij verkoopt of als in uitvoering van het gemeentelijk   actieprogramma, vermeld in artikel 4.1.7 van het decreet Grond- en Pandenbeleid,   een grond wordt verkocht met het oog op de verwezenlijking van een sociaal   woonaanbod.&nbsp;Bij verkoop door een titularis van het voorkooprecht hebben   alleen de conform artikel 86, eerste lid, hoger in rangorde staande titularissen   van het voorkooprecht een voorkooprecht. <BR><BR>Van het recht van voorkoop zijn   uitgesloten :<BR>1° de woningen die deel uitmaken van een gebouw met meerdere   woningen, waarbij de verkoop mede-eigendom over gemeenschappelijke delen doet   ontstaan;<BR>2° afzonderlijke garages; <BR>3° afzonderlijke loten van een   goedgekeurde verkaveling die niet in zijn geheel wordt verkocht; <BR>4° de   aankoop van een eerste woning of een perceel bestemd voor woningbouw door een of   meer natuurlijke personen, op voorwaarde dat deze verkrijgers geen andere woning   of ander perceel bestemd voor woningbouw volledig in volle eigendom of volledig   in vruchtgebruik hebben, op de dag van het sluiten van de overeenkomst tot koop.   <BR><BR>De Vlaamse Regering kan uitzonderingen vaststellen op de in het vierde   lid bepaalde uitsluitingen van het recht van voorkoop.<BR><BR>§ 2. ...<BR><BR>§   3. ...<BR><BR>§ 4. De bepalingen van titel IV, hoofdstukken I, II en VI, van het   decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en   houdende wijziging van diverse bepalingen zijn van toepassing op dit recht van   voorkoop.<BR><BR>§ 5. In de gemeenten waarin het aandeel sociale huurwoningen   ten opzichte van het totale woningpatrimonium meer bedraagt dan 10 %, kunnen de   VMSW en de socialehuisvestingsmaatschappijen het recht op voorkoop vermeld in §   1, tweede lid, slechts uitoefenen na een positief advies van het college van   burgemeester en schepenen van de gemeente waarin de woning of het perceel waarop   het recht van voorkoop van toepassing, gelegen is. Het advies vanwege het   college van burgemeester en schepenen moet gemotiveerd zijn en minstens de   redenen aangeven volgens dewelke het betrokken project voor sociaal wonen geen   meerwaarde zou opleveren. <BR><BR>De Vlaamse Regering stelt de lijst van de   gemeenten, vermeld in het eerste lid jaarlijks vast. <BR><BR>De VMSW en de   socialehuisvestingsmaatschappijen vragen het in het eerste lid vermelde advies   binnen twintig dagen nadat ze in kennis werden gesteld van de geplande verkoop.   Wanneer het advies negatief is, zien de VMSW of de   socialehuisvestingsmaatschappijen af van het recht van voorkoop. Wordt geen   advies gegeven binnen een termijn van twintig dagen, dan wordt het advies geacht   gunstig te zijn.<BR><BR>§ 6. Het decreet van 25 mei 2007 houdende de   harmonisering van de procedures van voorkooprechten is van toepassing op dit   recht van voorkoop.
+§ 1. De VMSW, de sociale huisvestingsmaatschappijen , het Vlaams Woningfonds, de sociale verhuurkantoren, de gemeenten en de openbare centra voor maatschappelijk welzijn beschikken over een recht van voorkoop op de woningen waaraan ze renovatie-, verbeterings- of aanpassingswerkzaamheden hebben uitgevoerd met toepassing van artikel 18, § 2, en 90.<br>
+<br>
+Onverminderd het eerste lid, krijgen het Vlaams Woningfonds, Vlabinvest apb, de sociale huisvestingsmaatschappijen binnen hun werkgebied, en de gemeenten op hun grondgebied, een recht van voorkoop op:<br>
+1° een woning die is opgenomen in het leegstandsregister, vermeld in artikel 2.2.6 van het decreet Grond- en Pandenbeleid, of op een van de lijsten van de inventaris, bedoeld in artikel 28, § 1, van het Heffingsdecreet;<br>
+2° de woning, bedoeld in artikel 19, die niet werd gesloopt binnen de door de Vlaamse regering bepaalde termijn;<br>
+3° een perceel, bestemd voor woningbouw, dat gelegen is in een door de Vlaamse regering te bepalen bijzonder gebied.<br>
+<br>
+Het voorkooprecht geldt niet als een sociale huisvestingsmaatschappij verkoopt of als in uitvoering van het gemeentelijk actieprogramma, vermeld in artikel 4.1.7 van het decreet Grond- en Pandenbeleid, een grond wordt verkocht met het oog op de verwezenlijking van een sociaal woonaanbod.&nbsp;Bij verkoop door een titularis van het voorkooprecht hebben alleen de conform artikel 86, eerste lid, hoger in rangorde staande titularissen van het voorkooprecht een voorkooprecht.<br>
+<br>
+Van het recht van voorkoop zijn uitgesloten :<br>
+1° de woningen die deel uitmaken van een gebouw met meerdere woningen, waarbij de verkoop mede-eigendom over gemeenschappelijke delen doet ontstaan;<br>
+2° afzonderlijke garages;<br>
+3° afzonderlijke loten van een goedgekeurde verkaveling die niet in zijn geheel wordt verkocht;<br>
+4° de aankoop van een eerste woning of een perceel bestemd voor woningbouw door een of meer natuurlijke personen, op voorwaarde dat deze verkrijgers geen andere woning of ander perceel bestemd voor woningbouw volledig in volle eigendom of volledig in vruchtgebruik hebben, op de dag van het sluiten van de overeenkomst tot koop.<br>
+<br>
+De Vlaamse Regering kan uitzonderingen vaststellen op de in het vierde lid bepaalde uitsluitingen van het recht van voorkoop.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. De bepalingen van titel IV, hoofdstukken I, II en VI, van het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen zijn van toepassing op dit recht van voorkoop.<br>
+<br>
+§ 5. In de gemeenten waarin het aandeel sociale huurwoningen ten opzichte van het aantal huishoudens in de nulmeting op het vlak van het bestaande sociaal woonaanbod, vastgesteld bij of krachtens het decreet Grond- en Pandenbeleid, ten minste 9% bedraagt, kunnen de sociale huisvestingsmaatschappijen, het Vlaams Woningfonds, de sociale verhuurkantoren en Vlabinvest apb het recht van voorkoop, vermeld in § 1, tweede lid, slechts uitoefenen na een positief advies van het college van burgemeester en schepenen van de gemeente waarin de woning of het perceel waarop het recht van voorkoop van toepassing, gelegen is. Het advies vanwege het college van burgemeester en schepenen moet gemotiveerd zijn en minstens de redenen aangeven volgens dewelke het betrokken project voor sociaal wonen geen meerwaarde zou opleveren.<br>
+<br>
+De Vlaamse Regering stelt de lijst van de gemeenten, vermeld in het eerste lid, vast bij elke voortgangstoets over de implementatie van het bindend sociaal objectief, vermeld in artikel 22bis, § 2, eerste lid.<br>
+<br>
+De sociale huisvestingsmaatschappijen, het Vlaams Woningfonds en Vlabinvest apb vragen het in het eerste lid vermelde advies binnen twintig dagen nadat ze in kennis werden gesteld van de geplande verkoop. Wanneer het advies negatief is, zien de sociale huisvestingsmaatschappijen, het Vlaams Woningfonds of Vlabinvest apb af van het recht van voorkoop. Wordt geen advies gegeven binnen een termijn van twintig dagen, dan wordt het advies geacht gunstig te zijn.<br>
+<br>
+§ 6. Het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten is van toepassing op dit recht van voorkoop.
 
 ### ART. 86.
 
-Willen twee of meer begunstigden hun recht van voorkoop uitoefenen dan   wordt het goed in de hierna vermelde volgorde toegewezen :<BR>1° de sociale   huisvestingsmaatschappij; <BR>2° de VMSW; <BR>3° Vlabinvest   apb;&nbsp;&nbsp;<BR>4° de gemeente. <BR><BR>Wanneer het goed gelegen is in het   werkgebied van meerdere sociale huisvestingsmaatschappijen bepaalt de Vlaamse   Regering volgens de regels die zij vaststelt, in welke volgorde die sociale   huisvestingsmaatschappijen hun recht van voorkoop kunnen uitoefenen. Deze   volgorde wordt hen door het e-voorkooploket, bedoeld in artikel 2, 7°, van het   decreet van 25 mei 2007 houdende de harmonisering van de procedures van   voorkooprechten meegedeeld samen met het aanbod of melding van openbare verkoop.
+Willen twee of meer begunstigden hun recht van voorkoop uitoefenen dan wordt het goed in de hierna vermelde volgorde toegewezen :<br>
+1° de sociale huisvestingsmaatschappij;<br>
+2° de VMSW;<br>
+3° Vlabinvest apb;&nbsp;&nbsp;<br>
+4° de gemeente;<br>
+5° het Vlaams Woningfonds;<br>
+6° de sociale verhuurkantoren.<br>
+<br>
+Wanneer het goed gelegen is in het werkgebied van meerdere sociale huisvestingsmaatschappijen bepaalt de Vlaamse Regering volgens de regels die zij vaststelt, in welke volgorde die sociale huisvestingsmaatschappijen hun recht van voorkoop kunnen uitoefenen. Deze volgorde wordt hen door het e-voorkooploket, bedoeld in artikel 2, 7°, van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten meegedeeld samen met het aanbod of melding van openbare verkoop.
 
 ### ART. 87.
 
@@ -834,7 +1215,7 @@ De huurder stelt bij de toewijzing van de sociale huurwoning een waarborg   ter 
 
 ### ART. 100.
 
-Met behoud van de toepassing van artikel 93 kan de Vlaamse Regering een centraal kandidatenregister met betrekking tot de sociale huurwoningen van de verhuurders, vermeld in artikel 2, § 1, 22°, invoeren.
+Met behoud van de toepassing van artikel 93 kan de Vlaamse Regering een centraal kandidatenregister met betrekking tot de sociale huurwoningen van de verhuurders, vermeld in artikel 2, § 1, eerste lid, 22° , invoeren.
 
 ### ART. 101.
 
@@ -946,7 +1327,20 @@ Zolang ze niet worden gewijzigd, vervangen op opgeheven blijven de besluiten en 
 
 ### ART. 112.
 
-De Vlaamse regering kan de bepalingen van de Vlaamse Wooncode en alle decretale bepalingen die betrekking hebben op het woonbeleid en het sociale grond- en pandenbeleid, en op de instellingen en besturen die daarbij betrokken zijn, cordineren met inachtneming van de wijzigingen die daarin uitdrukkelijk of stilzwijgend zijn aangebracht tot het tijdstip van de coördinatie.<br /><br />Te dien einde kan zij:<br /><br />1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br /><br />2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br /><br />3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven, zonder te raken aan de erin neergelegde beginselen;<br /><br />4° in de bepalingen die niet in de coördinatie worden opgenomen, de verwijzingen naar de gecoördineerde bepalingen aanpassen.
+De Vlaamse Regering kan de bepalingen van dit decreet en van de volgende wetten en decreten, als ze betrekking hebben op het Vlaamse woonbeleid en op de instellingen en besturen die daarbij betrokken zijn, codificeren:<br>
+1° het Burgerlijk Wetboek;<br>
+2° afdeling 2 van hoofdstuk VIII van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
+3° het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid;<br>
+4° hoofdstuk 9 van het decreet van 23 december 2011 houdende bepalingen tot begeleiding van de begroting 2012;<br>
+5° het decreet van 1 juni 2012 houdende de beveiliging van woningen door optische rookmelders.<br>
+<br>
+De Vlaamse Regering neemt daarbij de wijzigingen in acht die in de voormelde wetten en decreten uitdrukkelijk of stilzwijgend zijn of worden aangebracht tot aan het tijdstip van de codificatie.<br>
+In functie van de codificatie kan de Vlaamse Regering:<br>
+1° de volgorde en de nummering van de te codificeren bepalingen veranderen en in het algemeen de teksten naar de vorm wijzigen;<br>
+2° de verwijzingen die voorkomen in de te codificeren bepalingen, met de nieuwe nummering overeenbrengen;<br>
+3° zonder afbreuk te doen aan de beginselen die in de te codificeren bepalingen opgenomen zijn, de redactie ervan wijzigen om ze onderling te doen overeenstemmen en eenheid in de terminologie te brengen;<br>
+4° in de bepalingen die niet in de codificatie worden opgenomen, de verwijzingen naar de gecodificeerde bepalingen aanpassen;<br>
+5° het opschrift van de codificatie bepalen.
 
 ### ART. 113.
 
