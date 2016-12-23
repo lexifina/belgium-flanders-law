@@ -60,19 +60,45 @@ Provincie- en gemeenteraden kunnen in hun ruimtelijke structuurplannen de beleid
 
 ### ART. 2.2.6.
 
-§ 1. Elke gemeente houdt een register van leegstaande gebouwen en woningen bij, hierna het leegstandsregister genoemd.<br /><br />De opmaak en opbouw van het leegstandsregister kunnen geheel of gedeeltelijk worden overgedragen aan een intergemeentelijke administratieve eenheid met rechtspersoonlijkheid. In dat geval worden, voor de toepassing van paragraaf 7, van artikel 2.2.7, § 1 tot en met § 4, en van artikel 2.2.8, de woorden « de gemeente » en de woorden « de gemeentelijke administratie » vervangen door de woorden « de intergemeentelijke administratieve eenheid », en worden de woorden « het college van burgemeester en schepenen » en de woorden « het college » vervangen door de woorden « het beslissingsorgaan van de intergemeentelijke administratieve eenheid.<br /><br />Het tweede lid is van overeenkomstige toepassing op intergemeentelijke administratieve eenheden zonder rechtspersoonlijkheid, met uitsluiting van de bevoegdheden betreffende het ontvangen van en het uitspraak doen over de beroepen, vermeld in artikel 2.2.7, § 2 en § 3. Die bevoegdheden blijven, in voorkomend geval, voorbehouden aan het college van burgemeester en schepenen. <br /><br />§ 2. Een gebouw wordt als leegstaand beschouwd indien meer dan de helft van de totale vloeroppervlakte niet overeenkomstig de functie van het gebouw wordt aangewend gedurende een termijn van ten minste twaalf opeenvolgende maanden. Daarbij wordt geen rekening gehouden met woningen die deel uitmaken van het gebouw. De functie van het gebouw is deze die overeenkomt met een voor het gebouw of voor gedeelten daarvan afgeleverde of gedane stedenbouwkundige vergunning, melding in de zin van artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening, milieuvergunning of melding in de zin van het decreet van 28 juni 1985 betreffende de milieuvergunning. Bij een gebouw waarvoor geen vergunning of melding voorhanden is, of waarvan de functie niet duidelijk uit een vergunning of melding blijkt, wordt deze functie afgeleid uit het gewoonlijk gebruik van het gebouw voorafgaand aan het vermoeden van leegstand, zoals dat blijkt uit aangiften, akten of bescheiden.<br /><br />Een gebouw dat in hoofdzaak gediend heeft voor een economische activiteit, vermeld in artikel 2, 2°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten, wordt niet beschouwd als leegstaand zolang de oorspronkelijke beoefenaar van deze activiteit een gedeelte van het gebouw bewoont en dat gedeelte niet afsplitsbaar is. Een gedeelte is eerst afsplitsbaar indien het na sloping van de overige gedeelten kan worden beschouwd als een afzonderlijke woning die voldoet aan de bouwfysische vereisten.<br /><br />§ 3. Een woning wordt als leegstaand beschouwd wanneer zij gedurende een termijn van ten minste twaalf opeenvolgende maanden niet aangewend wordt in overeenstemming met :<br />1° hetzij de woonfunctie;<br />2° hetzij elke andere door de Vlaamse Regering omschreven functie die een effectief en niet-occasioneel gebruik van de woning met zich mee brengt.<br /><br />§ 4. In afwijking van § 2 en § 3, wordt een nieuw gebouw of een nieuwe woning als leegstaand beschouwd indien dat gebouw of die woning binnen zeven jaar na de afgifte van een stedenbouwkundige vergunning in laatste administratieve aanleg niet aangewend wordt overeenkomstig § 2, eerste lid, respectievelijk § 3.<br /><br />§ 5. Een gebouw dat of een woning die in aanmerking komt voor inventarisatie in de zin van hoofdstuk II van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten, wordt nooit als een leegstaand gebouw of als een leegstaande woning beschouwd.<br /><br />De bedrijfsruimten die op grond van artikel 2, 1°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten worden uitgesloten van de toepassing van voormeld decreet, worden onder de aldaar vermelde voorwaarden evenmin als leegstaande gebouwen of woningen in de zin van deze afdeling beschouwd.<br /><br />§ 6. Een gebouw dat of een woning die door het Vlaamse Gewest geïnventariseerd is als verwaarloosd, kan eveneens opgenomen worden in het leegstandsregister, en omgekeerd.<br /><br />Woningen die door het Vlaamse Gewest geïnventariseerd zijn als ongeschikt en/of onbewoonbaar, worden niet opgenomen in het leegstandsregister.<br /><br />§ 7. De door het college van burgemeester en schepenen met de opsporing van leegstaande gebouwen en woningen belaste personeelsleden bezitten de onderzoeks-, controle- en vaststellingsbevoegdheden, vermeld in artikel 6 van het decreet van 30 mei 2008 betreffende de vestiging, de invordering en de geschillenprocedure van provincie- en gemeentebelastingen.
+§ 1. Gemeenten kunnen een register van leegstaande gebouwen en woningen bijhouden, hierna leegstandsregister te noemen. Een gemeentelijke verordening kan nadere materiële en procedurele regelen bepalen.<br>
+<br>
+De opmaak, de opbouw, het beheer en de actualisering van het leegstandsregister kunnen ook toevertrouwd worden aan een intergemeentelijke administratieve eenheid met rechtspersoonlijkheid of, met uitzondering van de beroepsprocedure, aan een intergemeentelijke administratieve eenheid zonder rechtspersoonlijkheid.<br>
+<br>
+§ 2. Een gebouw wordt als leegstaand beschouwd indien meer dan de helft van de totale vloeroppervlakte niet overeenkomstig de functie van het gebouw wordt aangewend gedurende een termijn van ten minste twaalf opeenvolgende maanden. Daarbij wordt geen rekening gehouden met woningen die deel uitmaken van het gebouw. De functie van het gebouw is deze die overeenkomt met een voor het gebouw of voor gedeelten daarvan afgeleverde of gedane stedenbouwkundige vergunning, melding in de zin van artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening, milieuvergunning of melding in de zin van het decreet van 28 juni 1985 betreffende de milieuvergunning. Bij een gebouw waarvoor geen vergunning of melding voorhanden is, of waarvan de functie niet duidelijk uit een vergunning of melding blijkt, wordt deze functie afgeleid uit het gewoonlijk gebruik van het gebouw voorafgaand aan het vermoeden van leegstand, zoals dat blijkt uit aangiften, akten of bescheiden.<br>
+<br>
+Een gebouw dat in hoofdzaak gediend heeft voor een economische activiteit, vermeld in artikel 2, 2°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten, wordt niet beschouwd als leegstaand zolang de oorspronkelijke beoefenaar van deze activiteit een gedeelte van het gebouw bewoont en dat gedeelte niet afsplitsbaar is. Een gedeelte is eerst afsplitsbaar indien het na sloping van de overige gedeelten kan worden beschouwd als een afzonderlijke woning die voldoet aan de bouwfysische vereisten.<br>
+<br>
+§ 3. Een woning wordt als leegstaand beschouwd wanneer zij gedurende een termijn van ten minste twaalf opeenvolgende maanden niet aangewend wordt in overeenstemming met :<br>
+1° hetzij de woonfunctie;<br>
+2° hetzij elke andere bij gemeentelijke verordening omschreven functie die een effectief en niet-occasioneel gebruik van de woning met zich mee brengt.<br>
+<br>
+§ 4. In afwijking van § 2 en § 3, wordt een nieuw gebouw of een nieuwe woning als leegstaand beschouwd indien dat gebouw of die woning binnen zeven jaar na de afgifte van een stedenbouwkundige vergunning in laatste administratieve aanleg niet aangewend wordt overeenkomstig § 2, eerste lid, respectievelijk § 3.<br>
+<br>
+§ 4/1. Een gebouw wordt uit het leegstandsregister geschrapt als een zakelijk gerechtigde bewijst dat meer dan de helft van de totale vloeroppervlakte overeenkomstig de functie, vermeld in paragraaf 2, eerste lid, aangewend wordt gedurende een termijn van ten minste zes opeenvolgende maanden.<br>
+<br>
+Een woning wordt uit het leegstandsregister geschrapt als een zakelijk gerechtigde bewijst dat de woning gedurende een termijn van ten minste zes opeenvolgende maanden aangewend wordt in overeenstemming met de functie, vermeld in paragraaf 3.<br>
+<br>
+§ 5. Een gebouw dat of een woning die in aanmerking komt voor inventarisatie in de zin van hoofdstuk II van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten, wordt nooit als een leegstaand gebouw of als een leegstaande woning beschouwd.<br>
+<br>
+De bedrijfsruimten die op grond van artikel 2, 1°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten worden uitgesloten van de toepassing van voormeld decreet, worden onder de aldaar vermelde voorwaarden evenmin als leegstaande gebouwen of woningen in de zin van deze afdeling beschouwd.<br>
+<br>
+§ 6. Een gebouw dat of een woning die door het Vlaamse Gewest geïnventariseerd is als verwaarloosd, kan eveneens opgenomen worden in het leegstandsregister, en omgekeerd.<br>
+<br>
+Woningen die door het Vlaamse Gewest geïnventariseerd zijn als ongeschikt en/of onbewoonbaar, worden niet opgenomen in het leegstandsregister.<br>
+<br>
+§ 7. De door het college van burgemeester en schepenen of het beslissingsorgaan van de intergemeentelijke administratieve eenheid met de opsporing van leegstaande gebouwen en woningen belaste personeelsleden bezitten de onderzoeks-, controle- en vaststellingsbevoegdheden, vermeld in artikel 6 van het decreet van 30 mei 2008 betreffende de vestiging, de invordering en de geschillenprocedure van provincie- en gemeentebelastingen.
 
 ### ART. 2.2.7.
 
-§ 1. De gemeente stelt de zakelijk gerechtigden per beveiligde zending in kennis van de beslissing tot opname van leegstaande gebouwen en woningen in het leegstandsregister. Het schrijven geeft desgevallend aan welke vrijstellingen van de leegstandsheffing in het leegstandsregister worden vermeld.<br /><br />§ 2. Binnen een termijn van dertig dagen, ingaand de dag na deze van de betekening van het schrijven, vermeld in § 1, kan een zakelijk gerechtigde bij het college van burgemeester en schepenen beroep aantekenen tegen de beslissing tot opname in het leegstandsregister. Het beroep wordt per beveiligde zending betekend.<br /><br />§ 3. Het college doet uitspraak over het beroep en betekent zijn beslissing aan de indiener ervan binnen een termijn van negentig dagen, ingaand de dag na deze van de betekening van het beroepschrift. De uitspraak wordt per beveiligde zending betekend.<br /><br />Als het college het beroep gegrond acht, of nalaat om binnen de termijn, vermeld in het eerste lid, kennis te geven van zijn beslissing, kunnen de eerder gedane vaststellingen geen aanleiding geven tot een nieuwe beslissing tot opname in het leegstandsregister.<br /><br />§ 4. Indien de beslissing tot opname in het leegstandsregister niet tijdig betwist wordt, of het beroep van de zakelijk gerechtigde onontvankelijk of ongegrond is, neemt de gemeentelijke administratie het gebouw of de woning in het leegstandsregister op vanaf de datum van de vaststelling van de leegstand.<br /><br />§ 5. Het college kan de bevoegdheden, vermeld in dit artikel, delegeren aan één of meer personeelsleden van de gemeente.<br /><br />
+...
 
 ### ART. 2.2.8.
 
-Een gebouw wordt uit het leegstandsregister geschrapt, eens een zakelijk   gerechtigde bewijst dat meer dan de helft van de totale vloeroppervlakte   overeenkomstig de functie, vermeld in artikel 2.2.6, § 2, eerste lid, aangewend   wordt gedurende een termijn van ten minste zes opeenvolgende maanden. De   gemeente vermeldt als datum van schrapping de eerste dag van de aanwending   overeenkomstig de functie, vermeld in artikel 2.2.6, § 2, eerste lid.<BR><BR>Een   woning wordt uit het leegstandsregister geschrapt, eens een zakelijk gerechtigde   bewijst dat deze woning gedurende een termijn van ten minste zes opeenvolgende   maanden aangewend wordt in overeenstemming met de functie, vermeld in artikel   2.2.6, § 3. De gemeente vermeldt als datum van schrapping de eerste dag van de   aanwending overeenkomstig de functie, vermeld in artikel 2.2.6, §   3.<BR><BR>Artikel 2.2.7, § 2 en § 3, eerste lid, zijn van overeenkomstige   toepassing op beslissingen over het verzoek tot schrapping van een gebouw of   woning uit het leegstandsregister.<BR><BR>Als het college het beroep gegrond   acht, of nalaat om binnen de termijn, vermeld in artikel 2.2.7, § 3, eerste lid,   kennis te geven van zijn beslissing, is het beroep ingewilligd met als datum van   schrapping het initiële verzoek tot schrapping. <BR><BR>
+...
 
 ### ART. 2.2.9.
 
-De Vlaamse Regering bepaalt nadere materiële, methodologische en procedurele regelen betreffende :<br />1° de opmaak, opbouw en digitalisering van het leegstandsregister;<br />1° /1 de procedure van opname van een gebouw of woning in het leegstandsregister;<br />2° de wijze waarop de vrijstellingen van de leegstandsheffing in het leegstandsregister worden vermeld;<br />3° de actualisering van het leegstandsregister, in het bijzonder de periodiciteit ervan;<br />4° de kennisgeving en beroepsprocedure, vermeld in artikel 2.2.7;<br />5° de procedure van schrapping van een gebouw of woning uit het leegstandsregister;<br />6° de betoelaging van het leegstandsregister;<br />7° de toegankelijkheid van het leegstandsregister, in het bijzonder voor de toepassing van artikel 85, § 1, tweede lid, 1°, en artikel 90, § 1, eerste lid, 1°, van de Vlaamse Wooncode;<br />8° de specifieke wijze waarop artikel 261 van het Gemeentedecreet van 15 juli 2005, respectievelijk artikel 75 van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, geoperationaliseerd wordt indien het gemeentebestuur of het intergemeentelijk samenwerkingsverband, vermeld in artikel 2.2.6, § 1, tweede lid, zich niet gedraagt naar de bij of krachtens deze afdeling voorgeschreven regelen.<br /><br />
+...
 
 ## Afdeling 3 Koppeling van gegevensbanken
 
@@ -84,11 +110,44 @@ De Vlaamse Regering bepaalt nadere materiële, methodologische en procedurele re
 
 ### ART. 3.1.1.
 
-§ 1. Activeringsprojecten zijn complexe en grootschalige ruimtelijke projecten die kaderen binnen de doelstellingen van de structuurplanning, structureel ingrijpen op het sociaal, economisch, cultureel en ruimtelijk functioneren van een buurt, een wijk, een stadsdeel of een gebied, en de hefboom vormen voor nieuwe ruimtelijke en sectorale ontwikkelingen.<br /><br />Zij worden georganiseerd op initiatief van publieke, publiek-private of private initiatiefnemers.<br /><br />Zij vertrekken vanuit een visie en een plan van aanpak, vastgelegd op grond van een overleg tussen de projectleiding, planners, deskundigen, betrokken gebiedsoverheden en vertegenwoordigers van de lokale bevolking.<br /><br />§ 2. De Vlaamse Regering kan de aard, de doelstelling, de omvang en de organisatorische voorwaarden van activeringsprojecten nader omschrijven.<br /><br />Zij kan tevens bepalen dat een prioriteitsrecht toegekend wordt aan activeringsprojecten in de schoot van gemeenten die significante inspanningen leveren op het vlak van het grond- en pandenbeleid, of die belangrijke planschade lijden.<br /><br />
+§ 1. Activeringsprojecten zijn projecten die aansluiten bij de doelstellingen van het Vlaamse woonbeleid, structureel ingrijpen op het sociaal, economisch, cultureel en ruimtelijk functioneren van een buurt, een wijk, een stadsdeel of een gebied, en de hefboom vormen voor nieuwe ontwikkelingen op het vlak van het lokaal woonbeleid.<br>
+<br>
+Zij worden georganiseerd op initiatief van publieke, publiek-private of private initiatiefnemers.<br>
+<br>
+Zij vertrekken vanuit een visie en een plan van aanpak, vastgelegd op grond van een overleg tussen de projectleiding, planners, deskundigen, betrokken gebiedsoverheden en vertegenwoordigers van de lokale bevolking.<br>
+<br>
+§ 1/1. Activeringsprojecten zijn in hoofdzaak gericht op:<br>
+1° enerzijds de renovatie van onroerende goederen die ten hoogste vier opeenvolgende jaren zijn opgenomen in een of meer van de volgende inventarissen of lijsten, gelijktijdig of consecutief:<br>
+a) het leegstandsregister van de gemeente;<br>
+b) de inventaris van leegstaande of verwaarloosde bedrijfsruimten, vermeld in artikel 3, § 1, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br>
+c) de lijsten van ongeschikte of onbewoonbare woningen en verwaarloosde gebouwen of woningen, vermeld in artikel 28, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
+2° anderzijds de terbeschikkingstelling van de gerenoveerde onroerende goederen voor de realisatie van een sociaal of bescheiden woonaanbod.<br>
+<br>
+In de subsidieaanvragen moet worden aangetoond dat de projectorganisatoren niet aan de oorzaak liggen van de opname van de onroerende goederen in het register, vermeld in het eerste lid, 1°, a), of in de inventarissen, vermeld in het eerste lid, 1°, b). Daarvoor wordt ten minste een verklaring op erewoord opgenomen, waarin wordt gesteld dat geen van de projectorganisatoren langer dan een maximumtermijn die de Vlaamse Regering bepaalt, eigenaar is van de onroerende goederen in kwestie.<br>
+<br>
+Voor de toepassing van deze bepaling worden de volgende natuurlijke of rechtspersonen niet als nieuwe eigenaar beschouwd:<br>
+1° een vennootschap waarover de vroegere eigenaar de controle, vermeld in artikel 5 van het Wetboek van Vennootschappen, uitoefent;<br>
+2° bloed- en aanverwanten van de vroegere eigenaar tot en met de derde graad, tenzij in geval van overdracht door erfopvolging of testament.<br>
+<br>
+§ 2. De Vlaamse Regering kan de aard, de doelstelling, de omvang en de organisatorische voorwaarden van activeringsprojecten nader omschrijven.<br>
+<br>
+Zij kan tevens bepalen dat een prioriteitsrecht toegekend wordt aan activeringsprojecten in de schoot van gemeenten die significante inspanningen leveren op het vlak van het grond- en pandenbeleid, of die belangrijke planschade lijden.<br>
+&nbsp;
 
 ### ART. 3.1.2.
 
-§ 1. De Vlaamse Regering kan binnen de perken van de verordening (EG) nr. 1998/2006 van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun subsidie-enveloppes toekennen aan activeringsprojecten.<br /><br />De subsidie-enveloppes worden bekostigd vanuit het Grondfonds, vermeld in artikel 5.6.3 van de Vlaamse Codex Ruimtelijke Ordening.<br /><br />§ 2. De projectleiding kan de Vlaamse Regering om een subsidie-enveloppe verzoeken door middel van een standaardaanvraagformulier.<br /><br />De Vlaamse Regering kan bepalen dat de standaard-aanvraagformulieren worden ingediend op grond van een oproepsysteem. Zij kan in de oproepen specifieke projectkenmerken opnemen op het vlak van de doelstellingen van het activeringsproject, de aard van de maatschappelijke groepen waarvan de ruimtelijke behoeften worden ondersteund, de aard van de gediende ruimtelijke doelstellingen of de ruimtelijke karakteristieken van het projectgebied.<br /><br />§ 3. De Vlaamse Regering omschrijft de subsidiabele kosten en de procentuele grootte van de ondersteuning.<br /><br />Zij bepaalt de nadere materiële en formele ondersteuningsvoorwaarden, de mogelijkheden op het vlak van de cumulatie van een subsidie-enveloppe met andere publieke middelen, evenals de methodologie aangaande de selectie van projectvoorstellen en de toekenning van de ondersteuning. De vastgestelde selectiecriteria houden rekening met de missie van het grond- en pandenbeleid, vermeld in artikelen 2.1.1 en 2.1.2.<br /><br />
+§ 1. De Vlaamse Regering kan onder de voorwaarden, vermeld in verordening (EU) nr. 360/2012 van de Commissie van 25 april 2012 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen subsidie-enveloppen toekennen aan activeringsprojecten.<br>
+<br>
+De subsidie-enveloppes worden bekostigd vanuit het Grondfonds, vermeld in artikel 5.6.3 van de Vlaamse Codex Ruimtelijke Ordening.<br>
+<br>
+§ 2. De projectleiding kan de Vlaamse Regering om een subsidie-enveloppe verzoeken door middel van een standaardaanvraagformulier.<br>
+<br>
+De Vlaamse Regering kan bepalen dat de standaard-aanvraagformulieren worden ingediend op grond van een oproepsysteem. Zij kan in de oproepen specifieke projectkenmerken opnemen op het vlak van de doelstellingen van het activeringsproject, de aard van de maatschappelijke groepen waarvan de ruimtelijke behoeften worden ondersteund, de aard van de gediende ruimtelijke doelstellingen of de ruimtelijke karakteristieken van het projectgebied.<br>
+<br>
+§ 3. De Vlaamse Regering omschrijft de subsidiabele kosten en de procentuele grootte van de ondersteuning.<br>
+<br>
+Zij bepaalt de nadere materiële en formele ondersteuningsvoorwaarden, de mogelijkheden op het vlak van de cumulatie van een subsidie-enveloppe met andere publieke middelen, evenals de methodologie aangaande de selectie van projectvoorstellen en de toekenning van de ondersteuning. De vastgestelde selectiecriteria houden rekening met de missie van het grond- en pandenbeleid, vermeld in artikelen 2.1.1 en 2.1.2.<br>
+&nbsp;
 
 ## HOOFDSTUK 2 Belastingvermindering voor renovatieovereenkomsten
 
@@ -212,76 +271,65 @@ De Vlaamse Regering kan nadere formele en procedurele regelen bepalen voor de to
 
 ### ART. 3.2.17.
 
-Gemeenten voorkomen en bestrijden de leegstand van gebouwen en woningen op hun grondgebied.<br>
-<br>
-Met dat oogmerk zijn de gemeenteraden gemachtigd tot het heffen van een leegstandsheffing op gebouwen en woningen die zijn opgenomen in het leegstandsregister, waarbij de minimumaanslag per leegstaand gebouw of leegstaande woning in elk geval gelijk is aan :<br>
-1° 990 euro voor een leegstaand gebouw in de zin van artikel 2.2.6, § 2 of § 4;<br>
-2° voor een leegstaande woning in de zin van artikel 2.2.6, § 3 of § 4 :<br>
-a) 990 euro voor een eengezinswoning;<br>
-b) 75 euro voor een kamer als vermeld in artikel 2, § 1, eerste lid, 10° bis, van de Vlaamse Wooncode;<br>
-c) 300 euro voor elke andere woning dan deze, vermeld onder a) en b).<br>
-3° ...<br>
-<br>
-De bedragen, vermeld in het tweede lid, zijn gekoppeld aan de evolutie van de ABEX-index en stemmen overeen met de index van november 2009. Ze worden jaarlijks op 1 januari aangepast aan het ABEX-indexcijfer van de maand november die aan de aanpassing voorafgaat.<br>
-&nbsp;
+...
 
 ## Onderafdeling 2 [... (opgeh. decr. 14 oktober 2016, art. 52, I: 23 december 2016)]
 
 ### ART. 3.2.18.
 
-Deze onderafdeling is van toepassing zoverre de gemeentelijke heffingsreglementen daarvan niet afwijken.<br /><br />
+...
 
 ### ART. 3.2.19.
 
-§ 1. De gemeentelijke leegstandsheffing op gebouwen en woningen bezwaart gebouwen en woningen die gedurende twaalf opeenvolgende maanden zijn opgenomen in het leegstandsregister.<br /><br />§ 2. Zolang het gebouw of de woning niet uit het leegstandsregister geschrapt is, blijft de heffing verschuldigd op het ogenblik van het verstrijken van elke nieuwe periode van twaalf maanden vanaf de datum van de eerste verjaardag.
+...
 
 ### ART. 3.2.20.
 
-§ 1. Heffingsplichtig is diegene die op het ogenblik van het verschuldigd worden van de heffing zakelijk gerechtigde is van het leegstaande gebouw of de leegstaande woning.<br /><br />§ 2. Zolang het gebouw of de woning niet uit het leegstandsregister is geschrapt, is de zakelijk gerechtigde, vermeld in § 1, op het ogenblik dat een nieuwe termijn van twaalf maanden verstrijkt, de heffingsplichtige voor de nieuwe heffing.<br /><br />§ 3. Zo er meerdere heffingsplichtigen zijn, zijn deze hoofdelijk gehouden tot betaling van de verschuldigde heffing.<br /><br />§ 4. In voorkomend geval stelt de instrumenterende ambtenaar de verkrijger van het volle eigendomsrecht, of van een recht van opstal, van erfpacht of van vruchtgebruik, voorafgaand aan de overdracht in kennis van de opname van het goed in het leegstandsregister.<br /><br />De instrumenterende ambtenaar stelt de gemeentelijke administratie binnen de twee maanden na het verlijden van de authentieke overdrachtsakte in kennis van de overdracht, de datum ervan, en de identiteitsgegevens van de nieuwe eigenaar.<br /><br />
+...
 
 ### ART. 3.2.21.
 
-Van de leegstandsheffing zijn vrijgesteld :<BR>1° de heffingsplichtige die   volle eigenaar is van één enkele woning, bij uitsluiting van enige andere   woning;<BR>2° de heffingsplichtige die in een erkende ouderenvoorziening   verblijft, of voor een langdurig verblijf werd opgenomen in een psychiatrische   instelling;<BR>3° de heffingsplichtige waarvan de handelingsbekwaamheid beperkt   werd ingevolge een gerechtelijke beslissing;<BR>4° de heffingsplichtige die   sinds minder dan één jaar zakelijk gerechtigde is van het gebouw of de woning,   met dien verstande dat deze vrijstelling slechts geldt voor het heffingsjaar   volgend op het verkrijgen van het zakelijk recht.<BR><BR>Een vrijstelling wordt   verleend indien het gebouw of de woning :<BR>1° gelegen is binnen de grenzen van   een door de bevoegde overheid goedgekeurd onteigeningsplan;<BR>2° geen voorwerp   meer kan uitmaken van een stedenbouwkundige vergunning omdat een voorlopig of   definitief onteigeningsplan is vastgesteld;<BR>3° ...;<BR>4° ...;<BR>5° vernield   of beschadigd werd ten gevolge van een plotse ramp, met dien verstande dat deze   vrijstelling slechts geldt gedurende een periode van drie jaar volgend op de   datum van de vernieling of beschadiging;<BR>6° onmogelijk daadwerkelijk gebruikt   kan worden omwille van een verzegeling in het kader van een strafrechtelijk   onderzoek of omwille van een expertise in het kader van een gerechtelijke   procedure, met dien verstande dat deze vrijstelling slechts geldt gedurende een   periode van twee jaar volgend op de aanvang van de onmogelijkheid tot   daadwerkelijk gebruik;<BR>7° gerenoveerd wordt blijkens een niet vervallen   stedenbouwkundige vergunning voor stabiliteitswerken of sloopwerkzaamheden, met   dien verstande dat deze vrijstelling slechts geldt gedurende een termijn van   drie jaar volgend op het uitvoerbaar worden van de stedenbouwkundige   vergunning;<BR>8° het voorwerp uitmaakt van een overeenkomst met het oog op   renovatie-, verbeterings- of aanpassingswerkzaamheden in de zin van artikel 18,   § 2, van de Vlaamse Wooncode;<BR>9° het voorwerp uitmaakt van een door de   gemeente, het Openbaar Centrum voor Maatschappelijk Welzijn of een sociale   woonorganisatie verkregen sociaal beheersrecht, overeenkomstig artikel 90 van de   Vlaamse Wooncode.<BR><BR>Indien de heffingsplichtige de leegstand laat aanhouden   omwille van een vreemde oorzaak die de heffingsplichtige niet kan worden   toegerekend, wordt eveneens een vrijstelling verleend.<BR><BR>
+...
 
 ## Onderafdeling 3 [... (opgeh. decr. 14 oktober 2016, art. 52, I: 23 december 2016)]
 
 ### ART. 3.2.22.
 
-Het decreet van 30 mei 2008 betreffende de vestiging, de invordering en de geschillenprocedure van provincie- en gemeentebelastingen is op de gemeentelijke leegstandsheffing op gebouwen en woningen van toepassing. In het geval, vermeld in artikel 2.2.6, § 1, tweede lid, zijn de bepalingen van voormeld decreet overeenkomstig van toepassing op het personeel van de intergemeentelijke administratieve eenheid.<br /><br />De heffingsplichtige die in de mogelijkheid werd gesteld om het beroep, vermeld in artikel 2.2.7, § 2, aan te tekenen, kan in het kader van de krachtens voormeld decreet georganiseerde bezwarenprocedure geen excepties inroepen tegen de in het leegstandsregister opgenomen vermeldingen, tenzij de ingeroepen gronden tot bezwaar na de opname van het gebouw of de woning in het leegstandsregister zijn ontstaan.<br /><br />
+...
 
 ## Onderafdeling 4 [... (opgeh. decr. 14 oktober 2016, art. 52, I: 23 december 2016)]
 
 ### ART. 3.2.23.
 
-Gemeenten bewerkstelligen bij de opmaak van hun begrotingen dat ten minste een equivalent van de in het vorige begrotingsjaar geïnde gemeentelijke leegstandsheffing op gebouwen en woningen, bestemd wordt voor de operationalisering van het gemeentelijke woonbeleid.<br /><br />
+...
 
 ## Onderafdeling 5 [... (opgeh. decr. 14 oktober 2016, art. 52, I: 23 december 2016)]
 
 ### ART. 3.2.24.
 
-Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering in bijkomende middelen voor het gemeentelijke woonbeleid voorzien, waarbij de bijkomende middelen voor een bepaalde gemeente in verhouding staan tot de in die gemeente gegenereerde opbrengsten van de gemeentelijke leegstandsheffing op gebouwen en woningen.<br /><br />De Vlaamse Regering kan regelen bepalen betreffende de verantwoording van de aanwending van de bijkomende middelen, vermeld in het eerste lid.<br /><br />
+...
 
 ### ART. 3.2.25.
 
-De Vlaamse Regering stelt een niet-bindend modelreglement voor de gemeentelijke leegstandsheffing op gebouwen en woningen vast, op voorstel van de gewestelijke administratie, belast met de inning en invordering van de Vlaamse belastingen, en de Vereniging van Vlaamse Steden en Gemeenten.<br /><br />
+...
 
 ### ART. 3.2.26.
 
-De Vlaamse Regering, de gewestelijke administratie, belast met de inning en invordering van de Vlaamse belastingen, en de Vereniging van Vlaamse Steden en Gemeenten, sluiten een samenwerkingsprotocol aangaande de ondersteuning van gemeenten die een gemeentelijke leegstandsheffing op gebouwen en woningen hanteren of invoeren.<br /><br />
+..
 
 ## Afdeling 2 [... (opgeh. decr. 14 oktober 2016, art. 52, I: 23 december 2016)]
 
 ### ART. 3.2.27.
 
-§ 1. Het Vlaamse Gewest kan vanaf 1 januari 2013 een uitzonderlijke gewestelijke leegstandsheffing heffen op gebouwen en woningen die zijn opgenomen in het leegstandsregister, in die gemeenten die voldoen aan alle hiernavolgende voorwaarden :<br />1° zij hanteren geen gemeentelijke leegstandsheffing op gebouwen en woningen;<br />2° zij behoren in de referentieperiode « x » tot de tien procent Vlaamse gemeenten waar de relatieve leegstand van gebouwen en woningen blijkens het leegstandsregister het hoogst is;<br />3° de gemiddelde leegstand in de referentieperiode « x » is hoger dan de gemiddelde leegstand in de referentieperiode « x-1 ». <br /><br />§ 2. Voor de toepassing van paragraaf 1 wordt verstaan onder :<br />1° referentieperiode « x » : de periode van 1 januari 2012 tot en met 31 december 2012, vervolgens de periode van 1 januari 2013 tot en met 31 december 2013, en vervolgens elk daaropvolgend glijdend tijdsvenster van één jaar, dat telkens aanvangt op 1 januari;<br />2° referentieperiode « x-1 » : de periode van 1 januari 2011 tot en met 31 december 2011, vervolgens de periode van 1 januari 2012 tot en met 31 december 2012, en vervolgens elk daaropvolgend glijdend tijdsvenster van één jaar, dat telkens aanvangt op 1 januari.<br /><br />In beide referentieperiodes worden jaarlijkse metingen verricht, op de door de Vlaamse Regering te bepalen datum.
+...
 
 ### ART. 3.2.28.
 
-De uitzonderlijke gewestelijke leegstandsheffing wordt geïnd overeenkomstig de volgende bepalingen :<br />1° artikel 3.2.19, met dien verstande dat de aanslag kan worden gevestigd tot uiterlijk de laatste dag van het kwartaal dat volgt op elke verjaardag van de opname in het leegstandsregister;<br />2° artikel 3.2.20 en 3.2.21;<br />3° artikel 38 tot en met 40 en artikel 40bis van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996.<br /><br />De heffingsplichtige die in de mogelijkheid werd gesteld om het beroep, vermeld in artikel 2.2.7, § 2, aan te tekenen, kan in het kader van de beroepsprocedure, georganiseerd overeenkomstig artikel 39, § 2, van het decreet van 22 december 1995, vermeld in het eerste lid, 3°, geen excepties inroepen tegen de in het leegstandsregister opgenomen vermel- dingen, tenzij de ingeroepen gronden tot bezwaar na de opname van het gebouw of de woning in het leegstandsregister zijn ontstaan.
+...
 
 ### ART. 3.2.29.
 
-Het bedrag van de uitzonderlijke gewestelijke leegstandsheffing wordt berekend op basis van volgende formule : (KI + M) x P,<br />waarbij :<br />1° KI gelijk is aan :<br />a) hetzij het overeenkomstig artikel 518 van het Wetboek van de inkomstenbelasting geïndexeerde kadastraal inkomen van het gebouw of de woning;<br />b) hetzij, indien zich meerdere gebouwen of woningen op een kadastraal perceel bevinden, het overeenkomstig artikel 518 van het Wetboek van de inkomstenbelasting geïndexeerde kadastraal inkomen van de grond en de opstanden van het gehele perceel, vermenigvuldigd met volgende breuk : (oppervlakte van het gebouw of de woning/totale oppervlakte van de gebouwen of woningen die zich op het perceel bevinden);<br />2° M gelijk is aan het bedrag waarmee KI in voorkomend geval moet worden verhoogd om het bedrag van 990 euro te bereiken;<br />3° P gelijk is aan het aantal periodes van twaalf opeenvolgende maanden waarin het gebouw of de woning opgenomen is in het leegstandsregister.
+...
 
 ## BOEK 4 MAATREGELEN BETREFFENDE BETAALBAAR WONEN
 
@@ -293,7 +341,14 @@ Het bedrag van de uitzonderlijke gewestelijke leegstandsheffing wordt berekend o
 
 ### ART. 4.1.1.
 
-De Vlaamse Regering gelast periodiek een nulmeting op het vlak van het bestaande sociaal woonaanbod binnen elke Vlaamse gemeente.<br /><br />Een nulmeting wordt georganiseerd naar aanleiding van elke algehele herziening van het Ruimtelijk Structuurplan Vlaanderen.<br /><br />De Vlaamse Regering kan nadere materiële, methodologische en procedurele regelen voor de nulmeting bepalen.<br /><br />
+§ 1. De Vlaamse Regering gelast periodiek een nulmeting op het vlak van het bestaande sociaal woonaanbod binnen elke Vlaamse gemeente.<br>
+<br>
+Een nulmeting wordt georganiseerd naar aanleiding van de organisatie van een grootschalig steekproefonderzoek als vermeld in artikel 24, § 3, van de Vlaamse Wooncode.<br>
+<br>
+De Vlaamse Regering kan nadere materiële, methodologische en procedurele regelen voor de nulmeting bepalen.<br>
+<br>
+§ 2. De resultaten van de nulmeting op het vlak van het bestaande sociaal woonaanbod, opgenomen in de bijlage bij dit decreet, die zijn bekrachtigd bij artikel 7.3.6, voor het werd opgeheven bij artikel 61 van het decreet van 14 oktober 2016 houdende wijziging van diverse decreten met betrekking tot wonen, gelden voor de periode vanaf 1 januari 2008 tot en met 31 december 2025.<br>
+&nbsp;
 
 ## Afdeling 2 [... (opgeh. Decr. 9 juli 2021, art. 200, I: 20 september 2021)]
 
@@ -301,18 +356,35 @@ De Vlaamse Regering gelast periodiek een nulmeting op het vlak van het bestaande
 
 ### ART. 4.1.2.
 
-§ 1. Een bindend sociaal objectief is een gemeentelijke omschrijving van   het sociaal woonaanbod dat binnen de tijdshorizon van het Ruimtelijk   Structuurplan Vlaanderen ten minste moet worden verwezenlijkt.<BR><BR>Het   bindend sociaal objectief wordt bekendgemaakt op de wijze, vermeld in artikel   186 van het Gemeentedecreet van 15 juli 2005.<BR><BR>§ 2. Het bindend sociaal   objectief houdt voor de gemeentelijke overheid een rechtsplicht in om :<BR>1°   bestaande gemeentelijke plannen en reglementen met een invloed op de   verwezenlijking van het sociaal woonaanbod waar nodig af te stemmen op het   vooropgestelde percentage;<BR>2° de normen, vermeld in hoofdstuk 2, vast te   stellen in lijn met het vooropgestelde percentage.<BR><BR>Een gemeentelijk   ruimtelijk structuurplan dat zich niet verdraagt met het bindend sociaal   objectief, en dat nog niet is aangepast overeenkomstig het eerste lid, 1°, kan   niet worden ingeroepen om de maatregelen af te wijzen die voor de   verwezenlijking van het bindend sociaal objectief zijn   vereist.<BR><BR>
+§ 1. Een bindend sociaal objectief is een gemeentelijke omschrijving van het sociaal woonaanbod dat binnen een periode van tien jaar naar aanleiding van de organisatie van een grootschalig steekproefonderzoek als vermeld in artikel 24, § 3, van de Vlaamse Wooncode, ten minste moet worden verwezenlijkt.<br>
+<br>
+Het bindend sociaal objectief wordt bekendgemaakt op de wijze, vermeld in artikel 186 van het Gemeentedecreet van 15 juli 2005.<br>
+<br>
+§ 1/1. Met behoud van de mogelijkheid tot bijstelling met toepassing van artikel 4.1.4, § 1, tweede en derde lid, en § 2, gelden de eerste bindende sociale objectieven voor de periode vanaf 1 september 2009 tot en met 31 december 2025.<br>
+<br>
+Of een bindend sociaal objectief als vermeld in het eerste lid, al dan niet tijdig bereikt is, wordt beoordeeld op basis van het sociaal woonaanbod dat verwezenlijkt is in de periode vanaf 1 januari 2008 tot en met 31 december 2025.<br>
+<br>
+§ 2. Het bindend sociaal objectief houdt voor de gemeentelijke overheid een rechtsplicht in om :<br>
+1° bestaande gemeentelijke plannen en reglementen met een invloed op de verwezenlijking van het sociaal woonaanbod waar nodig af te stemmen op het vooropgestelde percentage;<br>
+2° de normen, vermeld in hoofdstuk 2, vast te stellen in lijn met het vooropgestelde percentage.<br>
+<br>
+Een gemeentelijk ruimtelijk structuurplan dat zich niet verdraagt met het bindend sociaal objectief, en dat nog niet is aangepast overeenkomstig het eerste lid, 1°, kan niet worden ingeroepen om de maatregelen af te wijzen die voor de verwezenlijking van het bindend sociaal objectief zijn vereist.<br>
+&nbsp;
 
 ### ART. 4.1.3.
 
-Het bindend sociaal objectief van een gemeente is samengesteld uit volgende delen :<br />1° het gemeentelijk objectief voor sociale huurwoningen, vastgesteld op de wijze, vermeld in onderafdeling 2;<br />2° een objectief voor sociale koopwoningen, vastgesteld op de wijze, vermeld in onderafdeling 3;<br />3° een objectief voor sociale kavels, vastgesteld op de wijze, vermeld in onderafdeling 4.<br /><br />
+Het bindend sociaal objectief van een gemeente is samengesteld uit volgende delen :<br>
+1° het gemeentelijk objectief voor sociale huurwoningen, vastgesteld op de wijze, vermeld in onderafdeling 2;<br>
+2° ...;<br>
+3° ...<br>
+&nbsp;
 
 ## Onderafdeling 2 [... (opgeh. Decr. 9 juli 2021, art. 200, I: 20 september 2021)]
 
 ### ART. 4.1.4.
 
-<p>§ 1. Het gemeentelijk objectief voor sociale huurwoningen dat binnen de tijdshorizon van het Ruimtelijk Structuurplan Vlaanderen ten minste moet worden verwezenlijkt, is gelijk aan het resultaat van volgende formule : « MACRO Huurw prov x (HH Gem / HH Prov) », waarbij :<br>
-1° « MACRO Huurw prov » gelijk is aan het in de Vlaamse Wooncode vastgelegde gewestelijke macro-objectief op het vlak van de verwezenlijking van sociale huurwoningen, dat op basis van de nulmeting wordt vertaald naar het niveau van de betrokken provincie door middel van de vermenigvuldiging met de breuk « aantal huishoudens op het niveau van de provincie/aantal huishoudens op het niveau van het Vlaamse Gewest », met dien verstande dat voor de periode 2009-2023 volgende cijfers gelden :<br>
+<p>§ 1. Het gemeentelijk objectief voor sociale huurwoningen dat binnen een periode van tien jaar naar aanleiding van de organisatie van een grootschalig steekproefonderzoek als vermeld in artikel 24, § 3, van de Vlaamse Wooncode, ten minste moet worden verwezenlijkt, is gelijk aan het resultaat van volgende formule : « MACRO Huurw prov x (HH Gem / HH Prov) », waarbij :<br>
+1° « MACRO Huurw prov » gelijk is aan het in de Vlaamse Wooncode vastgelegde gewestelijke macro-objectief op het vlak van de verwezenlijking van sociale huurwoningen, dat op basis van de nulmeting wordt vertaald naar het niveau van de betrokken provincie door middel van de vermenigvuldiging met de breuk « aantal huishoudens op het niveau van de provincie/aantal huishoudens op het niveau van het Vlaamse Gewest », met dien verstande dat voor de periode 2009-2025 volgende cijfers gelden :<br>
 a) voor de provincie West-Vlaanderen : 8125;<br>
 b) voor de provincie Oost-Vlaanderen : 9918;<br>
 c) voor de provincie Vlaams-Brabant : 7684;<br>
@@ -323,7 +395,7 @@ e) voor de provincie Limburg : 5590;<br>
 <br>
 De factor « MACRO Huurw prov », vermeld in het eerste lid, 1°, kan worden verhoogd met een door de provincieraad van de betrokken provincie vastgesteld aantal eenheden, op voorwaarde dat het Vlaamse Gewest en de provincie een protocolakkoord sluiten over de financiële inspanningen ter dekking van de aldus gegenereerde meerkosten.<br>
 <br>
-Indien een gemeente op grond van een wetenschappelijk onderbouwd dossier aantoont dat het gemeentelijk objectief voor sociale huurwoningen omwille van manifeste ruimtelijke beperkingen niet volledig kan worden verwezenlijkt binnen de periode waarvoor het objectief geldt, kan de Vlaamse Regering een uitstel van ten hoogste vijf jaar verlenen.<br>
+Indien een gemeente op grond van een wetenschappelijk onderbouwd dossier aantoont dat het gemeentelijk objectief voor sociale huurwoningen omwille van manifeste ruimtelijke beperkingen, vastgesteld op basis van het gemeentelijk actieprogramma, vermeld in artikel 4.1.7, niet volledig kan worden verwezenlijkt binnen de periode waarvoor het objectief geldt, kan de Vlaamse Regering een uitstel van ten hoogste vijf jaar verlenen.<br>
 <br>
 § 2. Indien de procentuele verhouding van het sociaal huuraanbod ten opzichte van het aantal huishoudens in een gemeente blijkens de nulmeting, toegevoegd als bijlage bij dit decreet, lager is dan drie procent, dan wordt de inspanning ten behoeve van het gemeentelijk objectief voor sociale huurwoningen aangevuld met een specifieke inhaalbeweging in de periode 2013-2025.<br>
 <br>
@@ -333,271 +405,271 @@ De specifieke inhaalbeweging, vermeld in het eerste lid, heeft betrekking op de 
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Procentuele verhouding tussen het aantal sociale huurwoningen en het aantal huishoudens binnen de gemeente, telkens zoals vermeld in de nulmeting</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Procentuele omvang van het bijkomend sociaal huuraanbod in het kader van de specifieke inhaalbeweging ten opzichte van het aantal huishoudens, zoals vermeld in de nulmeting</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,00 - 0,09 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,83 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,10 - 0,19 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,80 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,20 - 0,29 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,77 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,30 - 0,39 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,75 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,40 - 0,49 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,72 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,50 - 0,59 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,69 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,60 - 0,69 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,66 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,70 - 0,79 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,64 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,80 - 0,89 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,61 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,90 - 0,99 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,58 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>1,00 - 1,09 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,55 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>1,10 - 1,19 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,53 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>1,20 - 1,29 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,50 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>1,30 - 1,39 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,47 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>1,40 - 1,49 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,44 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>1,50 - 1,59 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,42 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>1,60 - 1,69 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,39 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>1,70 - 1,79 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,36 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>1,80 - 1,89 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,33 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>1,90 - 1,99 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,30 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>2,00 - 2,09 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,28 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>2,10 - 2,19 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,25 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>2,20 - 2,29 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,22 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>2,30 - 2,39 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,19 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>2,40 - 2,49 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,17 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>2,50 - 2,59 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,14 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>2,60 - 2,69 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,11 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>2,70 - 2,79 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,08 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>2,80 - 2,89 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,06 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>2,90 - 2,99 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>0,03 %</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>De Vlaamse Regering kan een gemeente geheel of gedeeltelijk vrijstellen van de specifieke inhaalbeweging, vermeld in het eerste lid, indien de gemeente in een wetenschappelijk onderbouwd dossier aantoont dat voldaan is aan ten minste één van volgende criteria :<br>
-1° de specifieke inhaalbeweging kan niet of niet volledig worden gerealiseerd omwille van manifeste ruimtelijke beperkingen, en deze beperkingen kunnen niet of onvoldoende worden opgevangen door middel van de verhuring van private woningen via sociale verhuurkantoren;<br>
+<p><br>
+De Vlaamse Regering kan een gemeente geheel of gedeeltelijk vrijstellen van de specifieke inhaalbeweging, vermeld in het eerste lid, indien de gemeente in een wetenschappelijk onderbouwd dossier aantoont dat voldaan is aan ten minste één van volgende criteria :<br>
+1° de specifieke inhaalbeweging kan niet of niet volledig worden gerealiseerd omwille van manifeste ruimtelijke beperkingen,&nbsp;vastgesteld op basis van het gemeentelijk actieprogramma, vermeld in artikel 4.1.7, en deze beperkingen kunnen niet of onvoldoende worden opgevangen door middel van de verhuring van private woningen via sociale verhuurkantoren;<br>
 2° de cumulatie van de inspanning ten behoeve van het gemeentelijk objectief voor sociale huurwoningen en de specifieke inhaalbeweging leidt ertoe dat jaarlijks een aantal nieuwe sociale huurwoningen moet worden vergund dat hoger is dan 25 procent van het gemiddeld aantal vergunde woningen op jaarbasis, berekend op grond van de afgifte van stedenbouwkundige vergunningen in de voorbije vijf jaar, met dien verstande dat een vrijstellingsverzoek op basis van dit criterium eerst kan worden ingediend :<br>
-a) in 2013, op voorwaarde dat 30 procent van de reguliere inspanning, vermeld in § 1, verwezenlijkt is;<br>
-b) in 2016, op voorwaarde dat 60 procent van de reguliere inspanning, vermeld in § 1, verwezenlijkt is;<br>
-c) in 2019, op voorwaarde dat 90 procent van de reguliere inspanning, vermeld in § 1, verwezenlijkt is;<br>
-3° de gemeente levert reeds belangrijke inspanningen op het vlak van de opvang van woonbehoeftige doelgroepen, door middel van de aanwezigheid van één of meer van volgende voorzieningen :<br>
-a) woningen die bestemd zijn voor het begeleid wonen van jongeren en opvangtehuizen voor daklozen, ex-gedetineerden, ex-psychiatrische patiënten;<br>
+a) in 2016, op voorwaarde dat 30 procent van de reguliere inspanning, vermeld in § 1, verwezenlijkt is;<br>
+b) in 2019, op voorwaarde dat 60 procent van de reguliere inspanning, vermeld in § 1, verwezenlijkt is;<br>
+c) in 2022, op voorwaarde dat 90 procent van de reguliere inspanning, vermeld in § 1, verwezenlijkt is;<br>
+3° de gemeente levert al belangrijke inspanningen op het vlak van de opvang van woonbehoeftige doelgroepen door middel van de aanwezigheid van een of meer van de volgende voorzieningen:<br>
+a) woningen en voorzieningen die bestemd zijn voor het begeleid wonen van jongeren en opvangtehuizen voor daklozen, ex-gedetineerden en ex-psychiatrische patiënten, meer in het bijzonder:<br>
+1) voorzieningen als vermeld in artikel 2, 18°, van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<br>
+2) voorzieningen en woningen voor de opvang van daklozen, ex-gedetineerden of ex-psychiatrische patiënten, waarbij de opvang altijd gecombineerd wordt met begeleiding vanuit het beleidsveld Welzijn;<br>
+3) voorzieningen en woningen voor crisisopvang die in eigendom of in beheer zijn van de gemeente, het OCMW, een CAW of een intergemeentelijke administratieve entiteit;<br>
+4) nood- en transitwoningen die in eigendom of in beheer zijn van de gemeente, het OCMW, een CAW of een intergemeentelijke administratieve entiteit;<br>
 b) open en gesloten asielcentra;<br>
-c) doortrekkersterreinen voor woonwagenbewoners;<br>
-d) vergelijkbare door de Vlaamse Regering aangewezen (semi-)residentiële voorzieningen;<br>
+c) doortrekkersterreinen en residentiële terreinen voor woonwagenbewoners;<br>
 4° de gemeente beschikt over huurwoningen binnen één of meer van volgende categorieën :<br>
 a) huurwoningen die middels een betoelaging door het Vlaamse Gewest zijn verwezenlijkt door initiatiefnemers, vermeld in artikel 33, § 1, eerste lid, van de Vlaamse Wooncode, met uitzondering van sociale huisvestingsmaatschappijen, op voorwaarde dat deze woningen onder de marktprijs worden aangeboden aan woonbehoeftigen, en met dien verstande dat zij niet in rekening worden gebracht voor het bereiken van het bindend sociaal objectief;<br>
 b) ...<br>
@@ -606,23 +678,21 @@ De Vlaamse Regering bepaalt wegingsfactoren voor de voorzieningen en huurwoninge
 <br>
 § 3. Indien binnen de betrokken gemeente reeds een sociaal huuraanbod van ten minste negen procent van het in de nulmeting vermelde aantal huishoudens voorhanden is, dan geldt de verplichte toenameregeling, vermeld in § 1, niet. De verplichte toenameregeling geldt daarenboven slechts totdat de procentuele verhouding tussen het aantal sociale huurwoningen en het in de nulmeting vermelde aantal huishoudens binnen de gemeente de drempel van negen procent bereikt.<br>
 <br>
-Het gedeelte van het gewestelijke macro-objectief op het vlak van de verwezenlijking van sociale huurwoningen dat ingevolge de toepassing van het eerste lid niet kan worden gerealiseerd, wordt verwezenlijkt door middel van sociale woonbeleidsconvenanten, gesloten tussen de Vlaamse Regering en één of meer gemeenten. In een sociaal woonbeleidsconvenant verbindt een gemeente zich tot de verwezenlijking van een bepaald aantal sociale huurwoningen en doet de Vlaamse Regering toezeggingen over de bekostiging van dat sociaal woonaanbod.<br>
+Het gedeelte van het gewestelijke macro-objectief op het vlak van de verwezenlijking van sociale huurwoningen dat niet kan worden gerealiseerd met de verplichte toenameregeling, vermeld in paragraaf 1, of met de specifieke inhaalbeweging, vermeld in paragraaf 2, wordt verwezenlijkt met sociaal woonbeleidsconvenanten, gesloten tussen de Vlaamse Regering en een of meer gemeenten. In een sociaal woonbeleidsconvenant verbindt een gemeente zich tot de verwezenlijking van een bepaald aantal sociale huurwoningen en doet de Vlaamse Regering toezeggingen over de bekostiging van dat sociaal woonaanbod.<br>
 <br>
-De sociale woonbeleidsconvenanten bewaken de verhouding die door het Ruimtelijk Structuurplan Vlaanderen is bepaald voor de ruimtelijke verdeling van bijkomende woongelegenheden in het stedelijk gebied versus het buitengebied. Zij kunnen zowel op het stedelijk gebied als het buitengebied betrekking hebben, maar worden prioritair gesloten met gemeenten die behoren tot de stedelijke gebieden, zoals aangewezen door het Ruimtelijk Structuurplan Vlaanderen.<br>
-<br>
-&nbsp;</p>
+De sociale woonbeleidsconvenanten bewaken de verhouding die door het Ruimtelijk Structuurplan Vlaanderen is bepaald voor de ruimtelijke verdeling van bijkomende woongelegenheden in het stedelijk gebied versus het buitengebied. Zij kunnen zowel op het stedelijk gebied als het buitengebied betrekking hebben, maar worden prioritair gesloten met gemeenten die behoren tot de stedelijke gebieden, zoals aangewezen door het Ruimtelijk Structuurplan Vlaanderen. Bij het sluiten van de sociaal woonbeleidsconvenanten houdt de Vlaamse Regering geen rekening met de verdeling van het gewestelijk macro-objectief op het vlak van de verwezenlijking van sociale huurwoningen over de provincies, vermeld in paragraaf 1, eerste lid, 1°.</p>
 
 ## Onderafdeling 3 [... (opgeh. decr. 14 oktober 2016, art. 57, I: 23 december 2016)]
 
 ### ART. 4.1.5.
 
-§ 1. Het provinciaal objectief voor sociale koopwoningen dat binnen de tijdshorizon van het Ruimtelijk Structuurplan Vlaanderen ten minste moet worden verwezenlijkt, is gelijk aan het resultaat van volgende formule : « MACRO Koopw x (HH Prov / HH Gew) », waarbij :<br />1° « MACRO Koopw » gelijk is aan het in de Vlaamse Wooncode vastgelegde gewestelijke macro-objectief op het vlak van de verwezenlijking van sociale koopwoningen, met dien verstande dat dit objectief voor de eerste vaststelling van het provinciaal objectief voor sociale koopwoningen gelijk is aan 21.000;<br />2° « HH Prov » gelijk is aan het aantal huishoudens op het niveau van de provincie, zoals afgeleid uit de nulmeting;<br />3° « HH Gew » gelijk is aan het aantal huishoudens op het niveau van het Vlaamse Gewest, zoals opgenomen in de nulmeting.<br /><br />Voor de eerste vaststelling van het provinciaal objectief voor sociale koopwoningen wordt de uitkomst van de formule, vermeld in het eerste lid, vastgesteld op volgende cijfers, onverminderd het derde lid :<br />1° voor de provincie West-Vlaanderen : 3846;<br />2° voor de provincie Oost-Vlaanderen : 4727;<br />3° voor de provincie Vlaams-Brabant : 3665; <br />4° voor de provincie Antwerpen : 5782;<br />5° voor de provincie Limburg : 3150.<br /><br />De factor « MACRO Koopw », vermeld in het eerste lid, 1°, kan worden verhoogd met een door de provincieraad van de betrokken provincie vastgesteld aanvullend objectief, op voorwaarde dat het Vlaamse Gewest en de provincie een protocolakkoord sluiten over de financiële inspanningen ter dekking van de aldus gegenereerde meerkosten.<br /><br />§ 2. Het bedrag dat wordt verkregen in toepassing van § 1, wordt als volgt uitgesplitst over de diverse gemeenten binnen de provincie :<br />1° elke gemeenteraad formuleert op grond van een advies van het gemeentelijk woonoverleg in de zin van artikel 28 van de Vlaamse Wooncode, een gemotiveerd voorstel, rekening houdend met de sociale woonbehoefte, sociale contextfactoren en de bestaande en de geplande ruimtelijke structuur;<br />2° de deputatie stelt op grond van de gemeentelijke voorstellen een verdelingsschema op, inzonderheid rekening houdend met :<br />a) de verhouding die door het Ruimtelijk Structuurplan Vlaanderen is bepaald voor de ruimtelijke verdeling van bijkomende woongelegenheden in het stedelijk gebied versus het buitengebied;<br />b) de verhoudingen die in de Vlaamse Wooncode worden bepaald voor de verwezenlijking van sociale koopwoningen door enerzijds initiatiefnemers, vermeld in artikel 33, § 1, eerste lid, van de Vlaamse Wooncode, alsook in artikel 4.1.15 van dit decreet, en anderzijds overige actoren, met dien verstande dat voor de eerste vaststelling van het verdelingsschema volgende cijfers gelden :<br />1) voor de provincie West-Vlaanderen : ten minste 3113 sociale koopwoningen te realiseren door initiatiefnemers, vermeld in artikel 33, § 1, eerste lid, van de Vlaamse Wooncode, alsook in artikel 4.1.15 van dit decreet;<br />2) voor de provincie Oost-Vlaanderen : ten minste 3827 sociale koopwoningen te realiseren door de initiatiefnemers, vermeld in 1);<br />3) voor de provincie Vlaams-Brabant : ten minste 2829 sociale koopwoningen te realiseren door de initiatiefnemers, vermeld in 1);<br />4) voor de provincie Antwerpen : ten minste 4681 sociale koopwoningen te realiseren door de initiatiefnemers, vermeld in 1);<br />5) voor de provincie Limburg : ten minste 2550 sociale koopwoningen te realiseren door de initiatiefnemers, vermeld in 1).<br /><br />
+...
 
 ## Onderafdeling 4 [... (opgeh. decr. 14 oktober 2016, art. 58, I: 23 december 2016)]
 
 ### ART. 4.1.6.
 
-§ 1. Het provinciaal objectief voor sociale kavels dat binnen de tijdshorizon van het Ruimtelijk Structuurplan Vlaanderen ten minste moet worden verwezenlijkt, is gelijk aan het resultaat van volgende formule : « MACRO Kavels x (HH Prov / HH Gew) », waarbij :<br />1° « MACRO Kavels » gelijk is aan het in de Vlaamse Wooncode vastgelegde gewestelijke macro-objectief op het vlak van de verwezenlijking van sociale kavels, met dien verstande dat dit objectief voor de eerste vaststelling van het provinciaal objectief voor sociale kavels gelijk is aan 1000;<br />2° « HH Prov » gelijk is aan het aantal huishoudens op het niveau van de provincie, zoals afgeleid uit de nulmeting;<br />3° « HH Gew » gelijk is aan het aantal huishoudens op het niveau van het Vlaamse Gewest, zoals opgenomen in de nulmeting.<br /><br />Voor de eerste vaststelling van het provinciaal objectief voor sociale kavels wordt de uitkomst van de formule, vermeld in het eerste lid, vastgesteld op volgende cijfers, onverminderd het derde lid :<br />1° voor de provincie West-Vlaanderen : 183;<br />2° voor de provincie Oost-Vlaanderen : 225;<br />3° voor de provincie Vlaams-Brabant : 167;<br />4° voor de provincie Antwerpen : 275;<br />5° voor de provincie Limburg : 150.<br /><br />De factor « MACRO Kavels », vermeld in het eerste lid, 1°, kan worden verhoogd met een door de provincieraad van de betrokken provincie vastgesteld aanvullend objectief, op voorwaarde dat het Vlaamse Gewest en de provincie een protocolakkoord sluiten over de financiële inspanningen ter dekking van de aldus gegenereerde meerkosten.<br /><br />§ 2. Het bedrag dat wordt verkregen in toepassing van § 1, wordt als volgt uitgesplitst over de diverse gemeenten binnen de provincie :<br />1° elke gemeenteraad formuleert op grond van een advies van het gemeentelijk woonoverleg in de zin van artikel 28 van de Vlaamse Wooncode, een gemotiveerd voorstel, rekening houdend met de sociale woonbehoefte, sociale contextfactoren en de bestaande en de geplande ruimtelijke structuur;<br />2° de deputatie stelt op grond van de gemeentelijke voorstellen een verdelingsschema op, inzonderheid rekening houdend met :<br />a) de verhouding die door het Ruimtelijk Structuurplan Vlaanderen is bepaald voor de ruimtelijke verdeling van bijkomende woongelegenheden in het stedelijk gebied versus het buitengebied;<br />b) de verhoudingen die in de Vlaamse Wooncode worden bepaald voor de verwezenlijking van sociale kavels door enerzijds initiatiefnemers, vermeld in artikel 33, § 1, eerste lid, van de Vlaamse Wooncode, alsook in artikel 4.1.15 van dit decreet, en anderzijds overige actoren, met dien verstande dat voor de eerste vaststelling van het verdelingsschema het minimaal aantal sociale kavels, te realiseren door initiatiefnemers, vermeld in artikel 33, § 1, eerste lid, van de Vlaamse Wooncode, alsook in artikel 4.1.15 van dit decreet, gelijk is aan de cijfers, vermeld in § 1, tweede lid.<br /><br />
+...
 
 ## Afdeling 3 [... (opgeh. Decr. 9 juli 2021, art. 200, I: 20 september 2021)]
 
@@ -632,7 +702,21 @@ De sociale woonbeleidsconvenanten bewaken de verhouding die door het Ruimtelijk 
 
 ### ART. 4.1.7.
 
-Bij elke algehele herziening van het Ruimtelijk Structuurplan Vlaanderen berekent elke gemeente, voor haar grondgebied, de gezamenlijke oppervlakte van de onbebouwde bouwgronden en kavels in eigendom van Vlaamse besturen en Vlaamse semipublieke rechtspersonen, met uitzondering van :<br />1° de gronden die voldoen aan één of meer van de bijzondere karakteristieken, vermeld in artikel 3.2.1, 1°;<br />2° de gronden die eigendom zijn van sociale woonorganisaties, respectievelijk het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, vermeld in artikel 16 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992.<br /><br />Door middel van haar regiefunctie, vermeld in artikel 28 van de Vlaamse Wooncode, waakt de gemeente er over dat de diverse Vlaamse besturen en Vlaamse semipublieke rechtspersonen geconcerteerde acties ondernemen opdat, binnen de tijdshorizon van het Ruimtelijk Structuurplan Vlaanderen, ten minste een kwart van deze gezamenlijke oppervlakte aangewend wordt voor de verwezenlijking van een sociaal woonaanbod. De gemeenteraad stelt ter zake een actieprogramma vast.<br /><br />
+§ 1. Bij de organisatie van een grootschalig steekproefonderzoek als vermeld in artikel 24, § 3, van de Vlaamse Wooncode, berekent elke gemeente, voor haar grondgebied, de gezamenlijke oppervlakte van de onbebouwde bouwgronden en kavels in eigendom van Vlaamse besturen en Vlaamse semipublieke rechtspersonen, met uitzondering van :<br>
+1° de gronden die voldoen aan één of meer van de bijzondere karakteristieken, vermeld in artikel 3.2.1, 1°;<br>
+2° ...<br>
+<br>
+Door middel van haar regiefunctie, vermeld in artikel 28 van de Vlaamse Wooncode, waakt de gemeente er over dat de diverse Vlaamse besturen en Vlaamse semipublieke rechtspersonen geconcerteerde acties ondernemen opdat, binnen een periode van tien jaar naar aanleiding van de organisatie van een grootschalig steekproefonderzoek als vermeld in artikel 24, § 3, van de Vlaamse Wooncode, de gezamenlijke oppervlakte aangewend wordt om het bindend sociaal objectief, vermeld in artikel 4.1.2 van dit decreet, te behalen. De gemeenteraad stelt ter zake een actieprogramma vast.<br>
+<br>
+§ 2. De eerste gemeentelijke berekening van de gezamenlijke oppervlakte van onbebouwde bouwgronden en kavels in eigendom van Vlaamse besturen gebeurt in afwijking van paragraaf 1, eerste lid, uiterlijk op 31 oktober 2010. De resultaten van die berekening gelden tot en met 31 december 2025.<br>
+<br>
+In afwijking van paragraaf 1, eerste lid, kan elke gemeente in de periode 2009-2025, voor haar grondgebied, de gezamenlijke oppervlakte van de onbebouwde bouwgronden en kavels in eigendom van Vlaamse semipublieke rechtspersonen berekenen. De resultaten van die berekening gelden tot en met 31 december 2025.<br>
+<br>
+In afwijking van paragraaf 1, tweede lid, waakt de gemeente erover dat gezamenlijke oppervlakte, berekend conform het eerste lid, aangewend wordt om het bindend sociaal objectief, vermeld in artikel 4.1.2 van dit decreet, te behalen. Als de gemeente toepassing gemaakt heeft van het tweede lid, geldt die verplichting ten aanzien van de gezamenlijke oppervlakte, berekend conform het eerste en het tweede lid.<br>
+<br>
+In afwijking van het derde lid is een gemeente die kennelijk onvoldoende inspanningen levert om het bindend sociaal objectief, vermeld in artikel 22bis, § 2, eerste lid, van de Vlaamse Wooncode, te bereiken, ertoe gehouden ten minste een kwart van de gezamenlijke oppervlakte, vermeld in paragraaf 1, eerste lid, aan te wenden voor een sociaal woonaanbod. De gronden die eigendom zijn van sociale woonorganisaties, respectievelijk van het Vlabinvest apb, tellen niet mee voor de berekening van het minimale aandeel.<br>
+<br>
+Aan de verplichting, vermeld in het derde lid, is voldaan als het bindend sociaal objectief, vermeld in artikel 4.1.2 van dit decreet, in een gemeente wordt behaald in de periode van 1 september 2009 tot en met 31 december 2025.
 
 ## Afdeling 2 Per bouw- of verkavelingsproject
 
@@ -1268,7 +1352,7 @@ Gemeentelijke leegstandsreglementen kunnen tot en met 31 december 2012   afwijke
 
 ### ART. 7.3.3.
 
-§ 1. Tot en met het begrotingsjaar 2016 worden krachtens artikel 3.1.2, § 2, tweede lid, tenminste oproepen gelanceerd voor activeringsprojecten die in hoofdzaak zijn gericht op :<br />1° enerzijds de renovatie van onroerende goederen die ten hoogste vier opeenvolgende jaren zijn opgenomen in één of meer van volgende registers, inventarissen of lijsten, gelijktijdig of consecutief :<br />a) het leegstandsregister;<br />b) de inventaris van leegstaande en/of verwaarloosde bedrijfsruimten, vermeld in artikel 3, § 1, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br />c) de lijsten van ongeschikte en/of onbewoonbare woningen en verwaarloosde gebouwen en/of woningen, vermeld in artikel 28, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br />2° anderzijds de terbeschikkingstelling van de gerenoveerde onroerende goederen voor de creatie van een sociaal of bescheiden woonaanbod.<br /><br />§ 2. In de aanvragen op basis van de oproepen, vermeld in § 1, moet worden aangetoond dat de projectorganisatoren niet aan de oorzaak liggen van de opname van de onroerende goederen in het leegstandsregister, de inventaris, vermeld in § 1, 1°, b), of de lijsten, vermeld in § 1, 1°, c).<br /><br />Daartoe wordt ten minste een verklaring op eer opgenomen, waarin wordt gesteld dat geen van de projectorganisatoren langer dan een door de Vlaamse Regering te bepalen maximumtermijn eigenaar is van de betrokken onroerende goederen.<br /><br />Voor de toepassing van deze bepaling worden volgende natuurlijke of rechtspersonen niet als nieuwe eigenaar beschouwd :<br />1° een vennootschap waarover de vroegere eigenaar de controle, vermeld in artikel 5 van het Wetboek van vennootschappen, uitoefent;<br />2° bloed- en aanverwanten van de vroegere eigenaar tot en met de derde graad, tenzij in geval van overdracht door erfopvolging of testament.<br /><br />
+...
 
 ## HOOFDSTUK 4 Invoering activeringsheffing
 
@@ -1286,21 +1370,21 @@ De gewestelijke of gemeentelijke heffingen op leegstaande gebouwen of woningen w
 
 ### ART. 7.3.6.
 
-In afwijking van artikel 4.1.1, tweede lid, wordt de eerste nulmeting op   het vlak van het bestaande sociaal woonaanbod, toegevoegd als bijlage bij dit   decreet, bekrachtigd. De resultaten van deze nulmeting gelden voor de periode   vanaf 2009 tot en met 31 december 2023.<BR><BR>
+...
 
 ### ART. 7.3.7.
 
-Met behoud van de mogelijkheid tot bijstelling in functie van de   toepassing van artikel 4.1.4, § 1, tweede en derde lid, en § 2, artikel 4.1.5, §   1, derde lid, of artikel 4.1.6, § 1, derde lid, van dit decreet, en/of van   artikel 22bis, § 1, tweede lid, van de Vlaamse Wooncode, gelden de eerste   bindende sociale objectieven voor de periode vanaf de inwerkingtreding van dit   decreet tot en met : <BR>a) 31 december 2023, wat betreft het deelobjectief   sociale huur;<BR>b) 31 december 2020, wat betreft het deelobjectief sociale   koop;<BR>c) 31 december 2020, wat betreft het deelobjectief sociale   kavels.<BR><BR>Of een bindend sociaal objectief als vermeld in het eerste lid,   al dan niet tijdig bereikt is, wordt beoordeeld op basis van het sociaal   woonaanbod dat verwezenlijkt is in de periode vanaf 1 januari 2008 tot en met de   einddatum van de geldigheid van het bindend sociaal objectief.
+...
 
 ### ART. 7.3.8.
 
-In 2012 omvatten de bij het Vlaams Parlement in te dienen beleidsbrieven over het beleidsdomein « ruimtelijke ordening, woonbeleid en onroerend erfgoed » een voortgangsrapportering over de aard en de intensiteit van de lopende en geplande gemeentelijke processen die het bindend sociaal objectief bewerkstelligen.<br /><br />
+...
 
 ## HOOFDSTUK 7 Normen sociaal en bescheiden woonaanbod
 
 ### ART. 7.3.9.
 
-De eerste gemeentelijke berekening van de gezamenlijke oppervlakte van   onbebouwde bouwgronden en kavels in eigendom van Vlaamse besturen gebeurt in   afwijking van artikel 4.1.7, eerste lid, uiterlijk op 31 oktober 2010. De   resultaten van die berekening gelden tot 31 december 2023.<BR><BR>In afwijking   van artikel 4.1.7, eerste lid, kan elke gemeente in de periode 2009-2023, voor   haar grondgebied, de gezamenlijke oppervlakte van de onbebouwde bouwgronden en   kavels, in eigendom van Vlaamse semipublieke rechtspersonen, berekenen. De   resultaten van die berekening gelden tot 31 december 2023.<BR><BR>In afwijking   van artikel 4.1.7, tweede lid, waakt de gemeente erover dat in de periode   2009-2023 op ten minste een kwart van de gezamenlijke oppervlakte, berekend   overeenkomstig het eerste lid, een sociaal woonaanbod verwezenlijkt wordt. Als   de gemeente toepassing gemaakt heeft van het tweede lid, geldt die verplichting   ten aanzien van de gezamenlijke oppervlakte, berekend overeenkomstig het eerste   en het tweede lid.<BR><BR>Aan de verplichting, vermeld in het derde lid, is   voldaan als het bindend sociaal objectief, vermeld in artikel 4.1.2, in een   gemeente wordt verwezenlijkt in de periode 2009-2023.<BR>
+...
 
 ### ART. 7.3.10.
 
