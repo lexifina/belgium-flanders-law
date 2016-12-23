@@ -1,0 +1,58 @@
+# Decreet van 2016-11-18 houdende wijziging van diverse bepalingen over vliegtuigexploitanten van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid
+
+### ART 1.
+
+Dit decreet regelt een gewestaangelegenheid.<br>
+<br>
+Dit decreet voorziet in de gedeeltelijke omzetting van richtlijn 2003/87/EG tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap, laatst gewijzigd door verordening (EU) nr. 421/2014, met het oog op de tenuitvoerlegging tegen 2020 van een internationale overeenkomst die op emissies van de internationale luchtvaart wereldwijd één marktgebaseerde maatregel toepast.<br>
+&nbsp;
+
+### ART 2.
+
+Aan artikel 8.1.2, 9°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, ingevoegd bij het decreet van 14 februari 2014, wordt de volgende zin toegevoegd:<br>
+"In het geval dat er aan meerdere luchthavens evenveel luchtvaartactiviteiten worden toegeschreven, is de luchthavenbeheerder de publiekrechtelijke of privaatrechtelijke persoon die verantwoordelijk is voor de luchthaven waarvoor de CO2-emissies van de aan haar toegeschreven luchtvaartactiviteiten het grootste zijn.".<br>
+&nbsp;
+
+### ART 3.
+
+In titel VIII, hoofdstuk III, van hetzelfde decreet, ingevoegd bij het decreet van 14 februari 2014, wordt een afdeling 1bis ingevoegd, die luidt als volgt:<br>
+"Afdeling 1bis. - Afwijkingen die gelden vooruitlopend op de tenuitvoerlegging tegen 2020 van een internationale overeenkomst die wereldwijd één marktgebaseerde maatregel toepast".<br>
+&nbsp;
+
+### ART 4.
+
+In titel VIII, hoofdstuk III, van hetzelfde decreet, ingevoegd bij het decreet van 14 februari 2014, wordt in afdeling 1bis, ingevoegd bij artikel 3, een artikel 8.3.3bis ingevoegd, dat luidt als volgt:<br>
+"Art. 8.3.3bis. § 1. In afwijking van artikel 8.3.6 beschouwt de bevoegde autoriteit de verplichtingen, vermeld in de voormelde artikelen, als vervuld en onderneemt ze geen actie tegen vliegtuigexploitanten voor:<br>
+1° alle emissies van vluchten naar of van luchthavens gelegen in landen buiten de Europese Economische Ruimte in elk kalenderjaar met ingang van 1 januari 2013 tot en met 31 december 2016;<br>
+2° alle emissies van vluchten tussen een luchthaven gelegen in een ultraperifeer gebied in de zin van artikel 349 van het Verdrag betreffende de werking van de Europese Unie, en een luchthaven gelegen in een ander gebied van de Europese Economische Ruimte in elk kalenderjaar met ingang van 1 januari 2013 tot en met 31 december 2016;<br>
+3° de inlevering van emissierechten voor geverifieerde emissies voor 2013 voor vluchten tussen luchthavens gelegen in landen van de Europese Economische Ruimte, die uiterlijk op 30 april 2015 in plaats van uiterlijk op 30 april 2014 plaatsvindt, en geverifieerde emissies van 2013 van die vluchten, die uiterlijk op 31 maart 2015 in plaats van 31 maart 2014 worden gerapporteerd.<br>
+<br>
+Voor de toepassing van artikel 8.3.6, § 2 en § 3, worden de geverifieerde emissies van vluchten andere dan deze vermeld in het eerste lid, 1° en 2°, beschouwd als geverifieerde emissies van de vliegtuigexploitant.<br>
+<br>
+§ 2. In afwijking van artikel 8.3.4, § 6, en artikel 8.3.5, § 6, worden aan vliegtuigexploitanten voor wie de tijdelijke afwijkingen, vermeld in paragraaf 1, eerste lid, 1° en 2°, gelden, een aantal kosteloze emissierechten toegewezen die zijn verminderd in verhouding tot de vermindering van de verplichting om emissierechten in te leveren, vermeld in paragraaf 1, eerste lid, 1° en 2°.<br>
+<br>
+§ 3. In afwijking van artikel 8.3.6, § 1, zijn vliegtuigexploitanten niet verplicht om emissiemonitoringplannen in te dienen die de maatregelen beschrijven om emissies te bewaken en te rapporteren met betrekking tot vluchten waarvoor de tijdelijke afwijkingen, vermeld in paragraaf 1, eerste lid, 1° en 2°, gelden.<br>
+<br>
+§ 4. In afwijking van artikel 8.3.6, § 2 en § 4, worden de emissies van een vliegtuigexploitant met totale jaarlijkse emissies van minder dan 25.000 ton CO2 beschouwd als geverifieerde emissies als deze werden vastgesteld met gebruikmaking van het instrument voor kleine emittenten dat door verordening (EU) nr. 606/2010 van de Commissie van 9 juli 2010 inzake de goedkeuring van een vereenvoudigd instrument, ontwikkeld door Eurocontrol, voor de raming van het brandstofverbruik van bepaalde vliegtuigexploitanten met een geringe emissie, is goedgekeurd en door Eurocontrol werd voorzien van gegevens uit zijn ETS-ondersteuningsfaciliteit.".<br>
+&nbsp;
+
+### ART 5.
+
+In artikel 8.3.4, § 6, van hetzelfde decreet, ingevoegd bij het decreet van 14 februari 2014, worden de volgende wijzigingen aangebracht:<br>
+1° aan het eerste lid, 1°, wordt de volgende zinsnede toegevoegd:<br>
+", berekend door de in het rapport tonkilometergegevens opgenomen tonkilometergegevens te vermenigvuldigen met de benchmark vastgesteld overeenkomstig het besluit 2011/638/EU van de Commissie van 26 september 2011 tot vaststelling van benchmarks voor de kosteloze toewijzing van broeikasgasemissierechten aan vliegtuigexploitanten overeenkomstig artikel 3sexies van richtlijn 2003/87/EG van het Europees Parlement en de Raad;";<br>
+2° aan het eerste lid, 2°, wordt de volgende zinsnede toegevoegd:<br>
+", die wordt bepaald door de berekende totale hoeveelheid emissierechten, vermeld in punt 1°, voor de betreffende periode te delen door het aantal jaren in de periode waarin die vliegtuigexploitant een luchtvaartactiviteit als vermeld in bijlage VI bij dit decreet, uitvoert.".<br>
+&nbsp;
+
+### ART 6.
+
+In bijlage VI bij hetzelfde decreet, ingevoegd bij het decreet van 14 februari 2014, worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "lidstaat van de Europese Unie" worden telkens vervangen door de woorden "lidstaat van de Europese Economische Ruimte";<br>
+2° er wordt een punt 10° toegevoegd, dat luidt als volgt:<br>
+"10° met ingang van 1 januari 2013 tot en met 31 december 2020, vluchten die zonder dit punt onder deze activiteit zouden vallen, en die worden uitgevoerd door een niet-commerciële vliegtuigexploitant die vluchten uitvoert met een totale emissie van minder dan 1000 ton per jaar.".<br>
+&nbsp;
+
+### ART 7.
+
+Dit decreet treedt in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad.

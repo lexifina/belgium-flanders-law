@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027657,
+  "title": "Decreet van 2016-11-18 houdende wijziging van diverse bepalingen over vliegtuigexploitanten van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027657/VolledigDocument?datum=2016-12-23",
+  "source_sha256": "06ac947a62ba2bfc8765dea93feac63680e5b2c5c1bd3f3f1434bb53ca4751d3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027657&param=informatie",
+  "as_of": "2016-12-23",
+  "made": "2016-11-18",
+  "gazette": "2016-12-22",
+  "numac": 2016036626,
+  "document_start": "2016-12-23",
+  "document_end": null,
+  "in_force": "2016-12-23",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2016-12-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
