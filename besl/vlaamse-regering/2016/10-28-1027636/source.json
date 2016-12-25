@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027636,
+  "title": "Besluit van de Vlaamse Regering van 2016-10-28 betreffende de oprichting van een raadgevend comité bij het Agentschap voor Maritieme Dienstverlening en Kust",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027636/VolledigDocument?datum=2016-12-25",
+  "source_sha256": "f757519d31ef7023a1dfb61225da24bb450ec60af647de99e0af0b429d34f1cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027636&param=informatie",
+  "as_of": "2016-12-25",
+  "made": "2016-10-28",
+  "gazette": "2016-12-15",
+  "numac": 2016036614,
+  "document_start": "2016-12-25",
+  "document_end": null,
+  "in_force": "2016-12-25",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2016-12-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
