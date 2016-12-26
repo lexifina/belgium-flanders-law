@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027642,
+  "title": "Protocol van 2016-06-27 gesloten tussen de federale regering en de overheden bedoeld in de artikelen 128, 130, 135 en 138 van de Grondwet, over de ontwikkeling en de implementatie van het BelRAI-instrument in 2016",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027642/VolledigDocument?datum=2016-12-26",
+  "source_sha256": "23df7518a4fa6aa639b18f3fc3c1f5db30f03376db9a212302bf1aef0383335e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027642&param=informatie",
+  "as_of": "2016-12-26",
+  "made": "2016-06-27",
+  "gazette": "2016-12-16",
+  "numac": 216024217,
+  "document_start": "2016-12-26",
+  "document_end": null,
+  "in_force": "2016-12-26",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2016-12-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
