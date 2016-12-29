@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027691,
+  "title": "Ministerieel besluit van 2016-11-10 houdende vaststelling van de nadere regels, technische vereisten en hoogten van de premies, trajectbegeleidingen en collectieve renovatieprojecten, vermeld in artikel 6.4.1/1, artikel 6.4.1/1/1, artikel 6.4.1/1/2, artikel 6.4.1/1/3, artikel 6.4.1/4, artikel 6.4.1/5, artikel 6.4.1/9 en artikel 6.4.1/9/1 van het Energiebesluit van 19 november 2010",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027691/VolledigDocument?datum=2016-12-29",
+  "source_sha256": "296b694b4e3b249e5a46af651b56faaa82a00998dad1c780e5f8d175ad3646e4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027691&param=informatie",
+  "as_of": "2016-12-29",
+  "made": "2016-11-10",
+  "gazette": "2016-12-29",
+  "numac": 2016036622,
+  "document_start": "2017-01-01",
+  "document_end": "2018-12-31",
+  "in_force": "2016-12-29",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-12-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
