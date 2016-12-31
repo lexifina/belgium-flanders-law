@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027648,
+  "title": "Decreet van 2016-11-25 houdende instemming met de Overeenkomst die is aangenomen op de 21ste Conferentie van Partijen bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering, gedaan te Parijs op 12 december 2015",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027648/VolledigDocument?datum=2016-12-31",
+  "source_sha256": "6ac725564fb30b4ddaa35668d6749cc53fd22b574ab2a6295652321d635d1d65",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027648&param=informatie",
+  "as_of": "2016-12-31",
+  "made": "2016-11-25",
+  "gazette": "2016-12-21",
+  "numac": 2016036630,
+  "document_start": "2016-12-31",
+  "document_end": null,
+  "in_force": "2016-12-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
