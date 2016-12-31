@@ -2,16 +2,16 @@
   "codex_id": 1008629,
   "title": "Besluit van de Vlaamse Regering van 2001-07-13 betreffende de erkenning en subsidiëring van diensten voor begeleid wonen voor personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008629/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "eded0961a309cd9c66a661b814241c27de706291b68b01fea0299a931b12c897",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008629/VolledigDocument?datum=2016-12-31",
+  "source_sha256": "9018f6c975b6c22529b800e28b1eb897550a06bcaa0b07928d3d71f86137a689",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008629&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2016-12-31",
   "made": "2001-07-13",
   "gazette": "2002-01-30",
   "numac": 2002035034,
   "document_start": "2001-05-01",
   "document_end": "2016-12-30",
-  "in_force": "2015-01-01",
+  "in_force": "2016-12-31",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-12-31; future article versions excluded; article text as the API gives it"
 }
