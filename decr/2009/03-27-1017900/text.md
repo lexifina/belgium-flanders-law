@@ -978,7 +978,7 @@ De Vlaamse Landmaatschappij is belast met de behandeling van aanvragen voor een 
 
 ### ART. 6.2.4.
 
-Een bestemmingswijzigingscompensatie wordt toegekend voor een perceel dat voldoet aan beide hiernavolgende voorwaarden :<br />1° het perceel is in het kalenderjaar voorafgaand aan het jaar waarin het ruimtelijk uitvoeringsplan of het plan van aanleg definitief wordt vastgesteld of aangenomen, geregistreerd in het Geïntegreerd Beheers- en Controlesysteem;<br />2° het perceel heeft een oppervlakte van ten minste 0,5 hectare of behoort tot een groep van getroffen percelen van dezelfde eigenaar met een totale oppervlakte van ten minste 0,5 hectare.<br /><br />
+Een bestemmingswijzigingscompensatie wordt toegekend voor een perceel dat   voldoet aan beide hiernavolgende voorwaarden :<BR>1° het perceel is in het   kalenderjaar voorafgaand aan het jaar waarin het ruimtelijk uitvoeringsplan of   het plan van aanleg definitief wordt vastgesteld of aangenomen, geregistreerd in   het Geïntegreerd Beheers- en Controlesysteem, uitgezonderd de percelen die   geregistreerd worden binnen de teeltgroep `geen cultuurgrond';<BR>2° het perceel   heeft een oppervlakte van ten minste 0,5 hectare of behoort tot een groep van   getroffen percelen van dezelfde eigenaar met een totale oppervlakte van ten   minste 0,5 hectare.<BR><BR>
 
 ## HOOFDSTUK 4 [... (opgeh. decr. 26 mei 2023, art. 50)]
 
@@ -1016,7 +1016,7 @@ Als het perceel is opgenomen in een grondruilplan als vermeld in artikel   2.1.6
 
 ### ART. 6.2.11.
 
-Een bestemmingswijzigingscompensatie kan slechts worden aangevraagd door de persoon die op het ogenblik van de inwerkingtreding van de bestemmingswijziging titularis is van ten minste het naakte eigendomsrecht op het perceel, of aan de persoon waaraan dit eigendomsrecht of naakt eigendomsrecht kosteloos of ingevolge erfopvolging of testament wordt overgedragen.<br /><br />Een bestemmingswijzigingscompensatie kan evenwel niet worden aangevraagd door het Vlaamse Gewest en de diensten, instellingen, besturen en vennootschappen, vermeld in artikel 2.1.2, § 2, tweede, derde en vierde lid, van de Vlaamse Codex Ruimtelijke Ordening.
+Een bestemmingswijzigingscompensatie kan slechts worden aangevraagd door   de eigenaar die op het ogenblik van de inwerkingtreding van de   bestemmingswijziging titularis is van ten minste het naakte eigendomsrecht op   het perceel, of aan de eigenaar waaraan dit eigendomsrecht of naakt   eigendomsrecht kosteloos of ingevolge erfopvolging of testament wordt   overgedragen.<BR><BR>Een bestemmingswijzigingscompensatie kan evenwel niet   worden aangevraagd door het Vlaamse Gewest en de diensten, instellingen,   besturen en vennootschappen, vermeld in artikel 2.1.2, § 2, tweede, derde en   vierde lid, van de Vlaamse Codex Ruimtelijke Ordening.<BR><BR>Het recht op   bestemmingswijzigingscompensatie ontstaat ofwel bij een overdracht onder   bezwarende titel van het goed, ofwel bij inbreng van het goed in een   vennootschap.
 
 ## HOOFDSTUK 7 [... (opgeh. decr. 26 mei 2023, art. 52)]
 
