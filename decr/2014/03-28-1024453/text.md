@@ -672,9 +672,17 @@ In hetzelfde decreet, het laatst gewijzigd bij het decreet   van 1 maart 2013, w
 
 In   artikel 2.1.3, § 1, tweede lid, 8°, van het decreet van 27 maart 2009   betreffende het grond- en pandenbeleid wordt het woord "landinrichting"   vervangen door de zinsnede "landinrichting als vermeld in het decreet van 28   maart 2014 betreffende de landinrichting".
 
+### ART. 7.4.2.
+
+Aan artikel 6.2.4, 1°, van hetzelfde decreet wordt de   zinsnede ", uitgezonderd de percelen die geregistreerd worden binnen de   teeltgroep `geen cultuurgrond'" toegevoegd.
+
 ### ART. 7.4.3.
 
 <P>In hetzelfde decreet, gewijzigd bij de decreten van 18 december   2009, 9 juli 2010 en 23 december 2011, wordt een artikel 6.2.9/1 ingevoegd, dat   luidt als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"Art.   6.2.9/1. Als het perceel is opgenomen in een grondruilplan als vermeld in   artikel 2.1.65 van het decreet van 28 maart 2014 betreffende de landinrichting   is geen bestemmingswijzigingscompensatie van toepassing op dat   perceel.".</P>
+
+### ART. 7.4.4.
+
+<P>In artikel 6.2.11 van hetzelfde decreet worden de volgende   wijzigingen aangebracht:</P>  <P><BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   in het eerste lid worden de woorden "de persoon" telkens vervangen door de   woorden "de eigenaar";<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2°   er wordt een derde lid toegevoegd, dat luidt als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"Het   recht op bestemmingswijzigingscompensatie ontstaat ofwel bij een overdracht   onder bezwarende titel van het goed, ofwel bij inbreng van het goed in een   vennootschap.".</P>
 
 ### ART. 7.4.5.
 
@@ -697,6 +705,18 @@ In artikel 36, § 2, 2°, van het decreet van 21 oktober 1997   betreffende het 
 ### ART. 7.5.4.
 
 <P>Aan   artikel 161 van het Wetboek der Registratie-, Hypotheek- en Griffierechten, het   laatst gewijzigd bij het decreet van 23 december 2011, worden een punt 15° tot   en met 17° toegevoegd, die luiden als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"15°   de akten houdende ruiling, vermeld in artikel 5, § 2, 5°, § 3, 1°, § 5 en § 7,   van het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse   Grondenbank en houdende wijziging van diverse bepalingen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">16°   de natuurinrichtingsakten, vermeld in artikel 41 van het besluit van de Vlaamse   Regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van   het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk   milieu;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">17°   de akten houdende vrijwillige herverkaveling, de akten houdende herverkaveling   uit kracht van wet en de akten houdende herverkaveling uit kracht van wet met   planologische ruil, vermeld in artikel 2.1.18, 2.1.49 en 2.1.66 van het decreet   van 28 maart 2014 betreffende de landinrichting.".</P>
+
+### ART. 7.5.5.
+
+In artikel 3, 4°, van het decreet van 27 maart 2009 houdende   vaststelling van een kader voor de gebruikerscompensatie bij   bestemmingswijzigingen, overdrukken en erfdienstbaarheden tot openbaar nut,   wordt tussen de woorden "de inwerkingtreding van" en de woorden "een ruimtelijk   uitvoeringsplan" de zinsnede "de gebruiksbeperkingen, veroorzaakt door"   ingevoegd.
+
+### ART. 7.5.6.
+
+In artikel 4, § 1, van hetzelfde decreet wordt tussen de   woorden "de inwerkingtreding van de" en de woorden "bestemmingswijziging of   overdruk" de zinsnede "gebruiksbeperkingen, veroorzaakt door een"   ingevoegd.
+
+### ART. 7.5.7.
+
+<P>Aan   artikel 6 van hetzelfde decreet wordt een paragraaf 7 toegevoegd, die luidt als   volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"   § 7. De gebruikerscompensatie is niet verschuldigd ingeval het perceel op het   moment van de aanvraag van de gebruikerscompensatie is opgenomen in een   onteigeningsplan opgemaakt ter verwezenlijking van het ruimtelijk   uitvoeringsplan of het plan van aanleg dat een gebruikersschade doet ontstaan.   Bij verval van het onteigeningsplan komt de gebruiker alsnog in aanmerking voor   een gebruikerscompensatie, voor zover de aanvrager niet eerder in aanmerking   kwam voor de gebruikerscompensatie waarbij de vervaltermijn voor de aanvraag was   verstreken.".</P>
 
 ### ART. 7.5.8.
 
