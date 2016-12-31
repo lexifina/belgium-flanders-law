@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027647,
+  "title": "Decreet van 2016-11-18 tot bekrachtiging van het besluit van de Vlaamse Regering van 18 maart 2016 tot uitvoering van artikel 13 van het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027647/VolledigDocument?datum=2016-12-31",
+  "source_sha256": "d59d7ea850c7e62a612ab7ae8ee4bfbdfad1e980e5c5e92062bf1a194ded6b96",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027647&param=informatie",
+  "as_of": "2016-12-31",
+  "made": "2016-11-18",
+  "gazette": "2016-12-21",
+  "numac": 2016036618,
+  "document_start": "2016-12-31",
+  "document_end": null,
+  "in_force": "2016-12-31",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
