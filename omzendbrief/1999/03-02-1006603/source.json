@@ -2,16 +2,16 @@
   "codex_id": 1006603,
   "title": "Omzendbrief van 1999-03-02 RO 99/01 over de advisering m.b.t. de verenigbaarheid van \"omlopen voor wedstrijden, test- en oefenritten met motorvoertuigen\" zoals bepaald in rubriek 32.9, 1° en 2° van Vlarem I, bijlage 1, vastgesteld bij artikel 1 van het besluit van de Vlaamse regering van 26 juni 1996",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006603/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "25ce20896c6ea8b8a995f736708c97d66ec0d9423d1f0bab203dcafab4347213",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006603/VolledigDocument?datum=2016-12-31",
+  "source_sha256": "584efa5778ea8a78770705f3dc68dcde1a72f4884d0e403a10d9302107464ec6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006603&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2016-12-31",
   "made": "1999-03-02",
   "gazette": "1999-04-17",
   "numac": 1999035492,
   "document_start": "1999-04-27",
   "document_end": "2016-12-30",
-  "in_force": "2006-06-01",
+  "in_force": "2016-12-31",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-12-31; future article versions excluded; article text as the API gives it"
 }
