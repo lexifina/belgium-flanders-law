@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de aanvragen tot stedenbouwkundige vergunning en de verkavelings-aanvragen ingediend binnen de bijzondere procedure in de zin van artikel 4.7.26 van de Vlaamse Codex Ruimtelijke Ordening.<br /><br />Hoofdstuk III/1 heeft evenwel betrekking op handelingen die volgens de reguliere procedure worden behandeld conform artikel 4.7.1, § 2, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening.
+...
 
 ### ART. 1/1.
 
@@ -14,7 +14,20 @@ In dit besluit wordt verstaan onder :<br />1° aanvrager : de aanvrager van een 
 
 ### ART. 2.
 
-Als handelingen van algemeen belang, zoals bedoeld in artikel 4.1.1, 5°, van de Vlaamse Codex Ruimtelijke Ordening worden de werken, handelingen en wijzigingen beschouwd die betrekking hebben op:<br />1° de openbare wegen, met inbegrip van de bijbehorende infrastructuur, zoals tunnels, viaducten, bruggen, duikers, langsgrachten, tolinfrastructuur en parkings;<br />2° de openbare spoorwegen voor het personen- en goederenvervoer, met inbegrip van tram en metro en met inbegrip van de bijbehorende infrastructuur, zoals stations, dienstgebouwen en andere;<br />3° de openbare waterwegen en waterlopen, alsook de bouw van de dokken en de sluizen in de havens, de aanleg van openbare bufferbekkens en overstromingsgebieden, de hermeandering van waterlopen en de uitvoering van andere waterbeheersingswerken, met inbegrip van de bijbehorende infrastructuur, zoals dienstgebouwen en andere; <br />4° de openbare elektrische leidingen, met inbegrip van de bijbehorende infrastructuur, zoals transformatorstations, installaties voor de productie van electriciteit, dienstgebouwen en andere;<br />5° de openbare leidingen voor het vervoer van specifieke vloeibare stoffen en gassen, zoals zuurstof, waterstof, aardgas, olie, nafta, water en afvalwater met inbegrip van de bijbehorende infrastructuur, zoals waterzuiveringsstations, controlepunten, pomp- en overslagstations, dienstgebouwen en andere; <br />6° de infrastructuren en leidingen op het grondgebied van twee of meer gemeenten;<br />7° de gebouwen en constructies opgericht voor het gebruik of de uitbating door de overheid of in opdracht ervan. De PPS-projecten, zoals bedoeld in het decreet van 18 juli 2003 betreffende publiek-private samenwerking; <br />8° alle handelingen van algemeen belang, aangewezen in artikel 3 van dit besluit;<br />9° de infrastructuur voor luchtverkeer en de erbij horende afhandeling van personen- en goederentransport, met uitzondering van infrastructuur voor louter privatief of recreatief gebruik. <br />10° de scholenbouwprojecten van instellingen, internaten en centra in het kader van het DBFM-programma zoals bedoeld in het decreet betreffende de inhaalbeweging voor schoolinfrastructuur;<br />11° de uitrustingswerken, gebouwen en constructies, in een gebied dat overeenkomstig het besluit van de Vlaamse Regering van 16 mei 2007 houdende subsidiëring van bedrijventerreinen, beschouwd wordt als wetenschapspark;<br />12° de bebossing, natuur- en landinrichtingswerken door of in opdracht van de overheid. De uitvoering van ruilverkavelingen door of in opdracht van de overheid;<br />13° de bos- en natuurcompensatieprojecten, nodig voor de uitvoering van de handelingen vermeld in punt 1° tot en met 12°.  <br />
+Als handelingen van algemeen belang, zoals bedoeld in artikel 4.1.1, 5°, van de Vlaamse Codex Ruimtelijke Ordening worden de werken, handelingen en wijzigingen beschouwd die betrekking hebben op:<br>
+1° de openbare wegen, met inbegrip van de bijbehorende infrastructuur, zoals tunnels, viaducten, bruggen, duikers, langsgrachten, tolinfrastructuur en parkings;<br>
+2° de openbare spoorwegen voor het personen- en goederenvervoer, met inbegrip van tram en metro en met inbegrip van de bijbehorende infrastructuur, zoals stations, dienstgebouwen en andere;<br>
+3° de openbare waterwegen en waterlopen, alsook de bouw van de dokken en de sluizen in de havens, de aanleg van openbare bufferbekkens en overstromingsgebieden, de hermeandering van waterlopen en de uitvoering van andere waterbeheersingswerken, met inbegrip van de bijbehorende infrastructuur, zoals dienstgebouwen en andere;<br>
+4° de openbare elektrische leidingen, met inbegrip van de bijbehorende infrastructuur, zoals transformatorstations, installaties voor de productie van electriciteit, dienstgebouwen en andere;<br>
+5° de openbare leidingen voor het vervoer van specifieke vloeibare stoffen en gassen, zoals zuurstof, waterstof, aardgas, olie, nafta, water en afvalwater met inbegrip van de bijbehorende infrastructuur, zoals waterzuiveringsstations, controlepunten, pomp- en overslagstations, dienstgebouwen en andere;<br>
+6° de infrastructuren en leidingen op het grondgebied van twee of meer gemeenten;<br>
+7° de gebouwen en constructies opgericht voor het gebruik of de uitbating door de overheid of in opdracht ervan. De PPS-projecten, zoals bedoeld in het decreet van 18 juli 2003 betreffende publiek-private samenwerking;<br>
+8° alle handelingen van algemeen belang, aangewezen in artikel 3 van dit besluit;<br>
+9° de infrastructuur voor luchtverkeer en de erbij horende afhandeling van personen- en goederentransport, met uitzondering van infrastructuur voor louter privatief of recreatief gebruik.<br>
+10° scholenbouwprojecten en de bouw van universitaire instellingen, met inbegrip van internaten en studentenkamerwoningen;<br>
+11° de uitrustingswerken, gebouwen en constructies, in een gebied dat overeenkomstig het besluit van de Vlaamse Regering van 16 mei 2007 houdende subsidiëring van bedrijventerreinen, beschouwd wordt als wetenschapspark;<br>
+12° de bebossing, natuur- en landinrichtingswerken door of in opdracht van de overheid. De uitvoering van ruilverkavelingen door of in opdracht van de overheid;<br>
+13° de bos- en natuurcompensatieprojecten, nodig voor de uitvoering van de handelingen vermeld in punt 1° tot en met 12°.
 
 ## HOOFDSTUK III [DE HANDELINGEN VAN ALGEMEEN BELANG DIE EEN RUIMTELIJKE BEPERKTE IMPACT HEBBEN OF ALS DERGELIJKE HANDELINGEN BESCHOUWD KUNNEN WORDEN (verv. BVR 20 juli 2012 , art. 3)]
 
@@ -32,7 +45,22 @@ Alleen de volgende handelingen worden behandeld binnen de reguliere   procedure,
 
 ### ART. 4.
 
-§ 1. Zowel de aanvrager, het college van burgemeester en   schepenen,&nbsp;als de gewestelijke stedenbouwkundige ambtenaar kunnen alle   vraagstukken van esthetische of architectonische aard, die een aanvraag, zoals   bedoeldin artikel 4.7.26 van de Vlaamse Codex Ruimtelijke Ordening, doet rijzen,   voor advies voorleggen aan de Vlaamse Bouwmeester of de Vlaamse Bouwmeester   uitnodigen voor een gesprek.<BR><BR>Dit verzoek om advies kan ook betrekking   hebben op projectdefinities, schetsontwerpen of ontwerpen van een aanvraag om   een stedenbouwkundige vergunning.<BR><BR>De Vlaamse Bouwmeester verleent een   advies binnen 30 dagen na ontvangst van de adviesaanvraag.<BR><BR>§ 2. De   aanvrager dient de volgende aanvragen tot stedenbouwkundige vergunning, bedoeld   in in artikel 4.7.26 van de Vlaamse Codex Ruimtelijke Ordening, steeds   voorafgaand te overleggen met de Vlaamse Bouwmeester:<BR>1° aanvragen tot   nieuwbouw en herbouw van gebouwen met een vloeroppervlakte groter dan 10000 m2;   <BR>2° aanvragen tot nieuwbouw en herbouw van spoorwegbruggen, bruggen voor   gemotoriseerd verkeer en viaducten.<BR>3° de scholenbouwprojecten van   instellingen, internaten en centra in het kader van het DBFM-programma zoals   bedoeld in het decreet betreffende de inhaalbeweging voor schoolinfrastructuur.   <BR><BR>Indien de aanvrager het advies van de Vlaamse Bouwmeester schriftelijk   inwint, verleent die een advies binnen 30 dagen na ontvangst van de   adviesaanvraag, zoniet wordt het advies geacht gunstig te zijn.<BR><BR>De   aanvrager voegt bij zijn aanvraag het schriftelijke bewijs van voorafgaand   overleg met de Vlaamse Bouwmeester. Dat bewijs kan bestaan uit:<BR>1° een door   de Vlaamse Bouwmeester geviseerd verslag van een vergadering over de   aanvraag;<BR>2° of een schriftelijk advies van de Vlaamse Bouwmeester over de   aanvraag;<BR>3° of een kopie van de brief waarmee het advies van de Vlaamse   Bouwmeester werd ingewonnen, met de mededeling dat de Vlaamse Bouwmeester binnen   30 dagen geen advies heeft uitgebracht.
+§ 1. Zowel de aanvrager, het college van burgemeester en schepenen,&nbsp;als de gewestelijke stedenbouwkundige ambtenaar kunnen alle vraagstukken van esthetische of architectonische aard, die een aanvraag, zoals bedoeldin artikel 4.7.26 van de Vlaamse Codex Ruimtelijke Ordening, doet rijzen, voor advies voorleggen aan de Vlaamse Bouwmeester of de Vlaamse Bouwmeester uitnodigen voor een gesprek.<br>
+<br>
+Dit verzoek om advies kan ook betrekking hebben op projectdefinities, schetsontwerpen of ontwerpen van een aanvraag om een stedenbouwkundige vergunning.<br>
+<br>
+De Vlaamse Bouwmeester verleent een advies binnen 30 dagen na ontvangst van de adviesaanvraag.<br>
+<br>
+§ 2. De aanvrager dient de volgende aanvragen tot stedenbouwkundige vergunning, bedoeld in in artikel 4.7.26 van de Vlaamse Codex Ruimtelijke Ordening, steeds voorafgaand te overleggen met de Vlaamse Bouwmeester:<br>
+1° aanvragen tot nieuwbouw en herbouw van gebouwen met een vloeroppervlakte groter dan 10000 m2;<br>
+2° aanvragen tot nieuwbouw en herbouw van spoorwegbruggen, bruggen voor gemotoriseerd verkeer en viaducten.<br>
+<br>
+Indien de aanvrager het advies van de Vlaamse Bouwmeester schriftelijk inwint, verleent die een advies binnen 30 dagen na ontvangst van de adviesaanvraag, zoniet wordt het advies geacht gunstig te zijn.<br>
+<br>
+De aanvrager voegt bij zijn aanvraag het schriftelijke bewijs van voorafgaand overleg met de Vlaamse Bouwmeester. Dat bewijs kan bestaan uit:<br>
+1° een door de Vlaamse Bouwmeester geviseerd verslag van een vergadering over de aanvraag;<br>
+2° of een schriftelijk advies van de Vlaamse Bouwmeester over de aanvraag;<br>
+3° of een kopie van de brief waarmee het advies van de Vlaamse Bouwmeester werd ingewonnen, met de mededeling dat de Vlaamse Bouwmeester binnen 30 dagen geen advies heeft uitgebracht.
 
 ## HOOFDSTUK IVbis [... (opgeh. BVR 27 november 2015, art. 566, I: 23 februari 2017)]
 
