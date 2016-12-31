@@ -66,6 +66,22 @@ De Vlaamse Regering kan de datum waarop deze overeenkomst in werking treedt bepa
 
 ## HOOFDSTUK 5 Mobiliteit en Openbare Werken
 
+### ART 8.
+
+<p>De instelling belast met de controle van de in het verkeer gebrachte voertuigen stort in het fonds, bedoeld in artikel 42, § 1, van het decreet van 3 juli 2015 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015 een financiële bijdrage voor de regularisatie van de exploitatievoorwaarden van de instellingen belast met de controle van de in het verkeer gebrachte voertuigen teneinde de organisatie van deze controle over het hele grondgebied te verzekeren. De bijdrage bedraagt 0,25 euro per prestatie die voortvloeit uit de door de Vlaamse Regering aan de instelling toevertrouwde opdrachten.</p>
+
+### ART 9.
+
+<p>De regularisatie van de exploitatievoorwaarden van de instelling belast met de controle van de in het verkeer gebrachte voertuigen gebeurt door het totaal van de door haar in rekening te brengen kosten en vergoedingen vast te stellen.<br>
+<br>
+Indien het jaarlijks totaal van de netto-ontvangsten van de instelling belast met de controle van de in het verkeer gebrachte voertuigen, hoger is dan het bedrag, bedoeld in het eerste lid, stort de instelling het overschot aan het fonds, bedoeld in artikel 42, § 1, van het decreet van 3 juli 2015 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015. Onder netto-ontvangsten worden de geïnde vergoedingen begrepen na aftrek van de btw, de bijdragen die de instelling verschuldigd is ter financiering van de uitgaven voor de werking, de subsidies en de investeringen ten bate van de verkeersveiligheid en de in artikel 8 van dit decreet bedoelde bijdragen.<br>
+<br>
+Indien het totaal lager is dan het bedrag, bedoeld in het eerste lid, wordt het negatief saldo gedekt door het fonds, bedoeld in artikel 42, § 1, van het decreet van 3 juli 2015 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015.<br>
+<br>
+Deze regularisatie gebeurt per boekjaar.<br>
+<br>
+De kosten en de vergoedingen, bedoeld in het eerste lid, worden bepaald door de Vlaamse Regering.</p>
+
 ### ART 10.
 
 <p>In artikel 42 van het decreet van 3 juli 2015 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015, gewijzigd bij het decreet van 18 december 2015, worden volgende wijzigingen aangebracht :<br>
@@ -73,6 +89,10 @@ De Vlaamse Regering kan de datum waarop deze overeenkomst in werking treedt bepa
 "3° de bijdrage en overschotten bedoeld in artikel 8 en 9 van het decreet van 8 juli 2016 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2016;<br>
 4° de middelen voortvloeiend uit de activa van het Fonds voor Voorziening en van Openbaar Nut voor de Inspectie van Automobielen, afgekort FIA, vereniging zonder winstoogmerk, opgericht op 7 juli 1970.";<br>
 2° aan paragraaf 4 worden na de woorden "ten bate van verkeersveiligheid" de woorden "met inbegrip van de regeling van de regularisatie van de exploitatievoorwaarden van de instellingen belast met de controle van de in het verkeer gebrachte voertuigen teneinde de organisatie van deze controle over het hele grondgebied te verzekeren" toegevoegd.</p>
+
+### ART 11.
+
+<p>In artikel 1, § 1, tweede lid, van de wet van 21 juni 1985 betreffende de technische eisen waaraan elk voertuig voor vervoer te land, de onderdelen ervan, evenals het veiligheidstoebehoren moeten voldoen, worden de woorden "op de regularisatie van hun exploitatievoorwaarden teneinde de organisatie van deze controle over het hele grondgebied te verzekeren en" geschrapt.</p>
 
 ## HOOFDSTUK 6 Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed
 

@@ -2,16 +2,16 @@
   "codex_id": 1027145,
   "title": "Decreet van 2016-07-08 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2016",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027145/VolledigDocument?datum=2016-09-01",
-  "source_sha256": "7d9d1a1f51967599a9c9cbce7e41d9f0592bccc77ff858d666f7dbed4b709e01",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027145/VolledigDocument?datum=2016-12-31",
+  "source_sha256": "2aae74d33b64ec73888209f3c0e39d7d7b9c92604a1e9f0dcae71530767bcb63",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027145&param=informatie",
-  "as_of": "2016-09-01",
+  "as_of": "2016-12-31",
   "made": "2016-07-08",
   "gazette": "2016-08-22",
   "numac": 2016036317,
   "document_start": "2016-09-01",
   "document_end": null,
-  "in_force": "2016-09-01",
-  "article_versions": 35,
-  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-12-31",
+  "article_versions": 38,
+  "record_form": "consolidated version as in force on 2016-12-31; future article versions excluded; article text as the API gives it"
 }
