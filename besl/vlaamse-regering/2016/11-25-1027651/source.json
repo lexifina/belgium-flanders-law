@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027651,
+  "title": "Besluit van de Vlaamse Regering van 2016-11-25 tot wijziging van artikel 1, 2 en 4 van het besluit van de Vlaamse Regering van 5 mei 2000 tot aanwijzing van de handelingen in de zin van artikel 4.1.1, 5°, artikel 4.4.7, § 2, en artikel 4.7.1, § 2, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening en tot regeling van het vooroverleg met de Vlaamse Bouwmeester en van artikel 561 van het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027651/VolledigDocument?datum=2016-12-31",
+  "source_sha256": "dccec245f5c04efed3c5c6a8f7363ebf41e3572ef0b181353387a2d20ae62652",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027651&param=informatie",
+  "as_of": "2016-12-31",
+  "made": "2016-11-25",
+  "gazette": "2016-12-21",
+  "numac": 2016036631,
+  "document_start": "2016-12-31",
+  "document_end": null,
+  "in_force": "2016-12-31",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2016-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
