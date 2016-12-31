@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027649,
+  "title": "Decreet van 2016-12-02 houdende instemming met de versterkte partnerschaps- en samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Kazachstan, anderzijds, ondertekend te Astana op 21 december 2015",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027649/VolledigDocument?datum=2016-12-31",
+  "source_sha256": "f6ac9db565644a8fed8d45c1ca4547361f63c818a1174573603f5965f551e113",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027649&param=informatie",
+  "as_of": "2016-12-31",
+  "made": "2016-12-02",
+  "gazette": "2016-12-21",
+  "numac": 2016036637,
+  "document_start": "2016-12-31",
+  "document_end": null,
+  "in_force": "2016-12-31",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
