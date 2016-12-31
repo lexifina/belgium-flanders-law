@@ -2,16 +2,16 @@
   "codex_id": 1019277,
   "title": "Ministerieel besluit van 2010-06-11 houdende het zorgzwaarte-instrument ter inschaling van de ondersteuningsnood van personen met een handicap van de diensten Inclusieve Ondersteuning",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019277/VolledigDocument?datum=2010-06-01",
-  "source_sha256": "915d0967eb52e9b3807c012350d8dca47c3232be81dd791c880c0a5902ffaa55",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019277/VolledigDocument?datum=2016-12-31",
+  "source_sha256": "7cfb269debe4a4863bc4259d4cd0e00c0779f55b8d7b05ad341f94e3978ff3b0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019277&param=informatie",
-  "as_of": "2010-06-01",
+  "as_of": "2016-12-31",
   "made": "2010-06-11",
   "gazette": "2010-08-05",
   "numac": 2010035531,
   "document_start": "2010-06-01",
   "document_end": "2016-12-30",
-  "in_force": "2010-06-01",
+  "in_force": "2016-12-31",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2010-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-12-31; future article versions excluded; article text as the API gives it"
 }
