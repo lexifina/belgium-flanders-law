@@ -8,7 +8,53 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder:<BR>1°   administratie: de administratie van de diensten van de Vlaamse regering, bevoegd   voor de gezondheidszorg;<BR>2° bevolkingsonderzoek: een gezondheidsonderzoek dat   wordt verricht ter uitvoering van een aan de bevolking of aan een vooraf   bepaalde bevolkingsgroep gedaan aanbod dat gericht is op het bevorderen,   beschermen of behouden van de gezondheid;<BR>3° biotische factoren:<BR>a)   micro-organismen, met inbegrip van de genetisch gemodificeerde, zijnde al dan   niet cellulaire microbiologische entiteiten, met het vermogen tot replicatie of   overdracht van genetisch materiaal;<BR>b) celculturen, zijnde resultaten van het   in vitro kweken van cellen, afkomstig van meercellige organismen;<BR>c)   menselijke endoparasieten;<BR>d) allergenen van biologische oorsprong;<BR>e)   andere biologische organismen die potentieel schade kunnen toebrengen aan de   menselijke gezondheid;<BR>4° biomonitoring: het systematisch bepalen in levende   organismen, waaronder de mens, van concentraties van organismevreemde stoffen,   hun metabolieten, of van andere indicatoren van blootstelling en/of effect, om   het schadelijke effect op de mens van fysische of chemische factoren te kunnen   evalueren;<BR>5° chemische factoren: scheikundige stoffen die potentieel   schadelijk zijn voor de gezondheid van de mens door hun toxische, mutagene,   carcinogene, traumatogene, teratogene, caustische, allergene eigenschappen,   en/of door een combinatie van deze eigenschappen;<BR>6° collectieve   gezondheidsovereenkomst: een overeenkomst tussen de Vlaamse regering en een   organisatie die een bijdrage kan leveren aan het preventieve gezondheidsbeleid,   waarin de organisatie een inspanningsverbintenis onderschrijft om een of meer   Vlaamse gezondheidsdoelstellingen of andere aspecten van het preventieve   gezondheidsbeleid mee te helpen nastreven door haar leden of de doelgroep tot   wie ze zich richt hierover te informeren, te sensibiliseren en aan te zetten tot   gezond gedrag;<BR>7° determinant van gezondheid: een factor die de mate van   gezondheid van individuen of populaties mee bepaalt, hierna determinant te   noemen;<BR>8° duurzame ontwikkeling: maatschappelijke ontwikkeling die niet   enkel rekening houdt met de behoeften van de huidige generatie, maar ook met die   van toekomstige generaties;<BR>9° facettenbeleid: beleid dat buiten het domein   van de gezondheidszorg valt en bijdraagt tot het bevorderen, beschermen of   behouden van gezondheid;<BR>10° fysische factoren: natuurkundige verschijnselen   die potentieel schadelijk zijn voor de gezondheid van de mens door hun   akoestische, mechanische, thermische of elektromagnetische eigenschappen, met   uitzondering van ioniserende straling;<BR>11° gezondheid: toestand van   lichamelijk, geestelijk en sociaal welbevinden bij de mens;<BR>12°   gezondheidsbevordering: preventiemethode, gebruikt binnen het preventieve   gezondheidsbeleid, die tot doel heeft de gezondheid te bevorderen, te beschermen   of te behouden door die processen te ondersteunen die individuen en groepen in   staat stellen om de determinanten van hun gezondheid positief te   beïnvloeden;<BR>13° gezondheidsconferentie: bijeenkomst van personen op   initiatief van de Vlaamse regering met als doel het uitwisselen van inzichten,   gegevens en ervaringen om te komen tot een voorstel van een nieuwe of te   herziene Vlaamse gezondheidsdoelstelling of om andere opdrachten te vervullen   met betrekking tot het preventieve gezondheidsbeleid;<BR>14°   gezondheidsindicator: een kwantitatieve aanduiding van de gezondheid van de   bevolking of van een aanwijsbaar deel ervan;<BR>15° gezondheidswinst: het   positieve resultaat van een systematisch en algemeen aanvaard meetproces aan de   hand van parameters die gerelateerd zijn aan de levensduur en de levenskwaliteit   van een bepaalde bevolking;<BR>16° grenswaarde in de mens voor fysische of   chemische factoren: de drempelwaarde in de mens van een lichaamsvreemde factor   of de drempelwaarde in de mens van metabolieten van deze factor of van andere   indicatoren van blootstelling en/of effect, die, bij overschrijding, een   maatschappelijk onaanvaardbare graad van gezondheidsbedreiging met zich   meebrengt voor de bevolking als geheel of voor bepaalde risicogroepen, hierna   grenswaarde in de mens te noemen;<BR>17° individuele zorgaanbieder: een arts,   paramedicus of beoefenaar van een andere erkende medische of paramedische   discipline die handelingen stelt op het gebied van preventieve gezondheidszorg,   al dan niet in een mono- of multidisciplinair samenwerkingsverband en die   hiervoor erkend en/of gesubsidieerd kan worden door de Vlaamse regering;<BR>18°   initiatief: een beslissing die genomen wordt ter uitvoering van het preventieve   gezondheidsbeleid, met een al dan niet regelgevend karakter;<BR>19° Logo: een   door de Vlaamse regering erkend samenwerkingsverband voor loco-regionaal   gezondheidsoverleg en -organisatie binnen een geografisch aaneengesloten   gebied;<BR>20° middelengebruik: het al dan niet legale gebruik van psychotrope   stoffen die gezondheidsschade kunnen veroorzaken;<BR>21° ontwikkelingsstoornis:   een verstoring in het verwerven van motorische, sociale of cognitieve   vaardigheden;<BR>22° organisatie met terreinwerking: een van rechtswege erkende   of een door de Vlaamse Regering erkende of erkende en gesubsidieerde   organisatie, die op het terrein de opdrachten uitvoert, de methodieken toepast   of de diensten levert met betrekking tot de preventieve gezondheidszorg;<BR>23°   partnerorganisatie: een organisatie met rechtspersoonlijkheid die als een kern   binnen een expertisenetwerk fungeert en die van rechtswege erkend en   gesubsidieerd is of door de Vlaamse Regering erkend of erkend en gesubsidieerd   wordt vanwege minstens een van de hiernavolgende competenties:<BR>a) de   inhoudelijke deskundigheid in verband met ziektepreventie;<BR>b) de inhoudelijke   deskundigheid in verband met gezondheidsbevordering;<BR>c) het verstrekken van   gegevens inzake gezondheidszorg;<BR>24° preventieve gezondheidszorg: het deel   van de gezondheidszorg dat maatregelen en acties omvat die tot doel hebben de   gezondheid te bevorderen, te beschermen of te behouden;<BR>25° seksuele   gezondheid: aan intieme lichamelijke relaties verbonden lichamelijk, geestelijk   en sociaal welbevinden;<BR>26° sociale omgeving: de interrelationele en   psychosociale realiteit waarbinnen de mens zich situeert;<BR>27° streefwaarde   voor fysische en chemische factoren: waarde die richtinggevend is voor een   milieukwaliteitsniveau dat afgestemd is op een duurzame ontwikkeling, hierna   streefwaarde te noemen;<BR>28° stresshantering: methode die gericht is op het   wegnemen of beperken van stress en/of op het leren omgaan met stress;<BR>29°   vaccinator: een arts of een verpleegkundige onder toezicht van een arts, die   inentingen toedient die beschikbaar gesteld worden via de Vlaamse   Gemeenschap;<BR>30° verworven factoren: biologische eigenschappen die in de loop   van het leven opgebouwd zijn en als indicator voor de gezondheidstoestand kunnen   fungeren;<BR>31° Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid   en Gezin : de commissie, vermeld in artikel 12 van het decreet van 7 december   2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse   Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin;<BR>32° Vlaamse   gezondheidsdoelstelling: een op het vlak van gezondheid na te streven,   tijdsgebonden, meetbare, haalbare en maatschappelijk aanvaardbare doelstelling,   die op initiatief van de Vlaamse regering wordt goedgekeurd door het Vlaams   Parlement;<BR>33° Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid : de strategische adviesraad, vermeld in artikel 3   van het decreet van 7 december 2007 houdende de oprichting van een Strategische   Adviesraad voor het Vlaamse Welzijns, Gezondheids- en Gezinsbeleid en van een   Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin;;   <BR>34° ziektepreventie: preventiemethode die gebruikt wordt binnen het   preventieve gezondheidsbeleid en die tot doel heeft de gezondheid te bevorderen,   te beschermen of te behouden door:<BR>a) het optreden van welbepaalde ziekten of   aandoeningen te voorkomen en dit door bronnen van gevaar of bedreigende factoren   voor de gezondheid weg te nemen of te beperken of door beschermende factoren te   versterken;<BR>b) de gezondheidsschade door ziekten of aandoeningen te beperken   of de genezingskans te vergroten en dit door vroegtijdige detectie van ziekten   en aandoeningen of van de aanleg hiervoor;<BR>35° Centrum voor   Leerlingenbegeleiding : een centrum zoals bedoeld in het decreet van 1 december   1998 betreffende de centra voor leerlingenbegeleiding;<BR>36° kansarmoede: een   duurzame toestand waarbij mensen zowel materieel als immaterieel worden beknot   in hun kansen om voldoende deel te hebben aan maatschappelijk hooggewaarde   goederen zoals onderwijs, arbeid en huisvesting.
+Voor de toepassing van dit decreet wordt verstaan onder:<br>
+1° administratie: de administratie van de diensten van de Vlaamse regering, bevoegd voor de gezondheidszorg;<br>
+2° bevolkingsonderzoek: een geheel van acties met betrekking tot een onderzoek naar een ziekte of aandoening of naar risicofactoren, voorstadia of verwikkelingen ervan, aangeboden aan een groep personen. Dat onderzoek gebeurt niet naar aanleiding van gezondheidsklachten van individuele personen die uit eigen beweging worden geformuleerd, en die verband houden met de opgespoorde ziekte of aandoening of de risicofactoren, voorstadia of verwikkelingen ervan;<br>
+3° biotische factoren:<br>
+a) micro-organismen, met inbegrip van de genetisch gemodificeerde, zijnde al dan niet cellulaire microbiologische entiteiten, met het vermogen tot replicatie of overdracht van genetisch materiaal;<br>
+b) celculturen, zijnde resultaten van het in vitro kweken van cellen, afkomstig van meercellige organismen;<br>
+c) menselijke endoparasieten;<br>
+d) allergenen van biologische oorsprong;<br>
+e) andere biologische organismen die potentieel schade kunnen toebrengen aan de menselijke gezondheid;<br>
+4° biomonitoring: het systematisch bepalen in levende organismen, waaronder de mens, van concentraties van organismevreemde stoffen, hun metabolieten, of van andere indicatoren van blootstelling en/of effect, om het schadelijke effect op de mens van fysische of chemische factoren te kunnen evalueren;<br>
+5° chemische factoren: scheikundige stoffen die potentieel schadelijk zijn voor de gezondheid van de mens door hun toxische, mutagene, carcinogene, traumatogene, teratogene, caustische, allergene eigenschappen, en/of door een combinatie van deze eigenschappen;<br>
+6° collectieve gezondheidsovereenkomst: een overeenkomst tussen de Vlaamse regering en een organisatie die een bijdrage kan leveren aan het preventieve gezondheidsbeleid, waarin de organisatie een inspanningsverbintenis onderschrijft om een of meer Vlaamse gezondheidsdoelstellingen of andere aspecten van het preventieve gezondheidsbeleid mee te helpen nastreven door haar leden of de doelgroep tot wie ze zich richt hierover te informeren, te sensibiliseren en aan te zetten tot gezond gedrag;<br>
+7° determinant van gezondheid: een factor die de mate van gezondheid van individuen of populaties mee bepaalt, hierna determinant te noemen;<br>
+8° duurzame ontwikkeling: maatschappelijke ontwikkeling die niet enkel rekening houdt met de behoeften van de huidige generatie, maar ook met die van toekomstige generaties;<br>
+9° facettenbeleid: beleid dat buiten het domein van de gezondheidszorg valt en bijdraagt tot het bevorderen, beschermen of behouden van gezondheid;<br>
+10° fysische factoren: natuurkundige verschijnselen die potentieel schadelijk zijn voor de gezondheid van de mens door hun akoestische, mechanische, thermische of elektromagnetische eigenschappen, met uitzondering van ioniserende straling;<br>
+11° gezondheid: toestand van lichamelijk, geestelijk en sociaal welbevinden bij de mens;<br>
+12° gezondheidsbevordering: preventiemethode, gebruikt binnen het preventieve gezondheidsbeleid, die tot doel heeft de gezondheid te bevorderen, te beschermen of te behouden door die processen te ondersteunen die individuen en groepen in staat stellen om de determinanten van hun gezondheid positief te beïnvloeden;<br>
+13° gezondheidsconferentie: bijeenkomst van personen op initiatief van de Vlaamse regering met als doel het uitwisselen van inzichten, gegevens en ervaringen om te komen tot een voorstel van een nieuwe of te herziene Vlaamse gezondheidsdoelstelling of om andere opdrachten te vervullen met betrekking tot het preventieve gezondheidsbeleid;<br>
+14° gezondheidsindicator: een kwantitatieve aanduiding van de gezondheid van de bevolking of van een aanwijsbaar deel ervan;<br>
+15° gezondheidswinst: het positieve resultaat van een systematisch en algemeen aanvaard meetproces aan de hand van parameters die gerelateerd zijn aan de levensduur en de levenskwaliteit van een bepaalde bevolking;<br>
+16° grenswaarde in de mens voor fysische of chemische factoren: de drempelwaarde in de mens van een lichaamsvreemde factor of de drempelwaarde in de mens van metabolieten van deze factor of van andere indicatoren van blootstelling en/of effect, die, bij overschrijding, een maatschappelijk onaanvaardbare graad van gezondheidsbedreiging met zich meebrengt voor de bevolking als geheel of voor bepaalde risicogroepen, hierna grenswaarde in de mens te noemen;<br>
+17° individuele zorgaanbieder: een persoon die meewerkt aan een of meer initiatieven van het Vlaamse preventieve gezondheidsbeleid, al dan niet in een mono- of multidisciplinair samenwerkingsverband, en die daarvoor erkend of gesubsidieerd kan worden door de Vlaamse Regering;<br>
+18° initiatief: een beslissing die genomen wordt ter uitvoering van het preventieve gezondheidsbeleid, met een al dan niet regelgevend karakter;<br>
+19° Logo: een door de Vlaamse regering erkend samenwerkingsverband voor loco-regionaal gezondheidsoverleg en -organisatie binnen een geografisch aaneengesloten gebied;<br>
+20° middelengebruik: het al dan niet legale gebruik van psychotrope stoffen die gezondheidsschade kunnen veroorzaken;<br>
+21° ontwikkelingsstoornis: een verstoring in het verwerven van motorische, sociale of cognitieve vaardigheden;<br>
+22° organisatie met terreinwerking: een van rechtswege erkende organisatie, een door de Vlaamse Regering erkende of erkende en gesubsidieerde organisatie, of een organisatie die gesubsidieerd wordt via een beheersovereenkomst, die op het terrein de opdrachten uitvoert, de methodieken toepast of de diensten levert met betrekking tot de preventieve gezondheidszorg;<br>
+23° partnerorganisatie: een organisatie met rechtspersoonlijkheid die als een kern binnen een expertisenetwerk fungeert en die van rechtswege erkend en gesubsidieerd is, door de Vlaamse Regering erkend of erkend en gesubsidieerd wordt, of gesubsidieerd wordt via een beheersovereenkomst, vanwege minstens een van de hiernavolgende competenties:<br>
+a) de inhoudelijke deskundigheid in verband met ziektepreventie;<br>
+b) de inhoudelijke deskundigheid in verband met gezondheidsbevordering;<br>
+c) het verstrekken van gegevens inzake gezondheidszorg;<br>
+24° preventieve gezondheidszorg: het deel van de gezondheidszorg dat maatregelen en acties omvat die tot doel hebben de gezondheid te bevorderen, te beschermen of te behouden;<br>
+25° seksuele gezondheid: aan intieme lichamelijke relaties verbonden lichamelijk, geestelijk en sociaal welbevinden;<br>
+26° sociale omgeving: de interrelationele en psychosociale realiteit waarbinnen de mens zich situeert;<br>
+27° streefwaarde voor fysische en chemische factoren: waarde die richtinggevend is voor een milieukwaliteitsniveau dat afgestemd is op een duurzame ontwikkeling, hierna streefwaarde te noemen;<br>
+28° stresshantering: methode die gericht is op het wegnemen of beperken van stress en/of op het leren omgaan met stress;<br>
+29° vaccinator: een arts of een verpleegkundige onder toezicht van een arts, die inentingen toedient die beschikbaar gesteld worden via de Vlaamse Gemeenschap;<br>
+30° verworven factoren: biologische eigenschappen die in de loop van het leven opgebouwd zijn en als indicator voor de gezondheidstoestand kunnen fungeren;<br>
+31° Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin : de commissie, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin;<br>
+32° Vlaamse gezondheidsdoelstelling: een op het vlak van gezondheid na te streven, tijdsgebonden, meetbare, haalbare en maatschappelijk aanvaardbare doelstelling, die op initiatief van de Vlaamse regering wordt goedgekeurd door het Vlaams Parlement;<br>
+33° Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid : de strategische adviesraad, vermeld in artikel 3 van het decreet van 7 december 2007 houdende de oprichting van een Strategische Adviesraad voor het Vlaamse Welzijns, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin;;<br>
+34° ziektepreventie: preventiemethode die gebruikt wordt binnen het preventieve gezondheidsbeleid en die tot doel heeft de gezondheid te bevorderen, te beschermen of te behouden door:<br>
+a) het optreden van welbepaalde ziekten of aandoeningen te voorkomen en dit door bronnen van gevaar of bedreigende factoren voor de gezondheid weg te nemen of te beperken of door beschermende factoren te versterken;<br>
+b) de gezondheidsschade door ziekten of aandoeningen te beperken of de genezingskans te vergroten door tijdige detectie van of vroege interventie bij ziekten, aandoeningen of de aanleg of het verhoogde risico ervoor;<br>
+35° Centrum voor Leerlingenbegeleiding : een centrum zoals bedoeld in het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br>
+36° kansarmoede: een duurzame toestand waarbij mensen zowel materieel als immaterieel worden beknot in hun kansen om voldoende deel te hebben aan maatschappelijk hooggewaarde goederen zoals onderwijs, arbeid en huisvesting.
 
 ## TITEL II OPDRACHTEN EN VERANTWOORDELIJKHEDEN
 
@@ -16,7 +62,9 @@ Voor de toepassing van dit decreet wordt verstaan onder:<BR>1°   administratie:
 
 ### ART. 3.
 
-Dit decreet beoogt een verbetering van de volksgezondheid, meer bepaald het behalen van ge-zondheidswinst op Vlaams bevolkingsniveau, om zo te kunnen bijdragen tot een verhoging van de levenskwaliteit.<br /><br />Hiertoe voert de Vlaamse regering een beleid inzake preventieve gezondheidszorg en legt ze de basis voor een facettenbeleid. Beide aspecten samen vormen het Vlaamse preventieve gezondheidsbeleid.
+Dit decreet beoogt een verbetering van de volksgezondheid, meer bepaald het behalen van gezondheidswinst op Vlaams bevolkingsniveau of het verhogen van de efficiëntie van het gezondheidsbeleid, om zo te kunnen bijdragen tot een verhoging van de levenskwaliteit.<br>
+<br>
+Hiertoe voert de Vlaamse regering een beleid inzake preventieve gezondheidszorg en legt ze de basis voor een facettenbeleid. Beide aspecten samen vormen het Vlaamse preventieve gezondheidsbeleid.
 
 ### ART. 4.
 
@@ -88,7 +136,11 @@ De Vlaamse regering bepaalt de werkingsmodaliteiten en de eventuele financiering
 
 ### ART. 18.
 
-§ 1. De voorstellen van nieuwe of te herziene Vlaamse gezondheidsdoelstellingen worden, na advies door de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid, voorgelegd aan de Vlaamse regering.<br /><br />§ 2. De door de Vlaamse regering aanvaarde voorstellen van nieuwe of te herziene Vlaamse gezondheidsdoelstellingen worden ter goedkeuring voorgelegd aan het Vlaams Parlement.
+§ 1. De voorstellen van nieuwe of te herziene Vlaamse gezondheidsdoelstellingen worden, na advies door de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid, voorgelegd aan de Vlaamse regering.<br>
+<br>
+§ 2. De door de Vlaamse regering aanvaarde voorstellen van nieuwe of te herziene Vlaamse gezondheidsdoelstellingen worden ter goedkeuring voorgelegd aan het Vlaams Parlement.<br>
+<br>
+Een goedgekeurde Vlaamse gezondheidsdoelstelling blijft van kracht tot ze wordt herzien of opgeheven door het Vlaams Parlement.
 
 ### ART. 19.
 
@@ -104,7 +156,21 @@ De Vlaamse regering bepaalt de werkingsmodaliteiten en de eventuele financiering
 
 ### ART. 21.
 
-§ 1. De Vlaamse Regering kan in het kader van haar beleid met betrekking tot preventieve gezondheidszorg, op basis van oproepen voor partnerorganisaties, beheersovereenkomsten sluiten met voorzieningen.<br /><br />De beheersovereenkomst geldt voor minimaal drie en voor maximaal vijf jaar en omvat minstens het beleidsplan voor de duurtijd van de beheersovereenkomst. Het beleidsplan bevat minstens de volgende gegevens : de resultaatgebieden voor de uitvoering van de beheersovereenkomst en de evaluatiecriteria met betrekking tot de resultaatgebieden om onder meer de uitvoering van de beheersovereenkomst te kunnen evalueren.<br /><br />Een voorziening waarmee de Vlaamse Regering een beheersovereenkomst sluit als partnerorganisatie, wordt geacht te zijn erkend als partnerorganisatie voor de duur van de beheersovereenkomst.<br /><br />De Vlaamse Regering bepaalt in voorkomend geval de nadere regels met betrekking tot de oproep en het sluiten van een beheersovereenkomst.<br /><br />§ 2. De Vlaamse Regering kan voorzieningen waarmee geen beheersovereenkomst als partnerorganisatie is gesloten, erkennen als partnerorganisatie.<br /><br />De Vlaamse Regering bepaalt in voorkomend geval de erkenningsvoorwaarden, de duur van de erkenning en de regels voor het verlenen, schorsen en intrekken van de erkenning.<br /><br />§ 3. De Vlaamse Regering bepaalt de subsidie en de subsidievoorwaarden van de partnerorganisaties.<br /><br />§ 4. Paragrafen 1 tot 3 zijn niet van toepassing op het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, dat van rechtswege erkend is als partnerorganisatie.<br /><br />§ 5. Organisaties met een erkenning als partnerorganisatie worden niet uitgesloten van een erkenning en/of subsidiëring als organisatie met terreinwerking.
+§ 1. De Vlaamse Regering kan in het kader van haar beleid met betrekking tot preventieve gezondheidszorg, op basis van oproepen voor partnerorganisaties, beheersovereenkomsten sluiten met voorzieningen.<br>
+<br>
+De beheersovereenkomst geldt voor minimaal drie en voor maximaal vijf jaar en omvat minstens het beleidsplan voor de looptijd van de beheersovereenkomst. Het beleidsplan bevat minstens de volgende gegevens : de resultaatgebieden voor de uitvoering van de beheersovereenkomst en de evaluatiecriteria met betrekking tot de resultaatgebieden om onder meer de uitvoering van de beheersovereenkomst te kunnen evalueren.<br>
+<br>
+De Vlaamse Regering bepaalt in voorkomend geval de nadere regels met betrekking tot de oproep en het sluiten van een beheersovereenkomst.<br>
+<br>
+§ 2. De Vlaamse Regering kan voorzieningen waarmee geen beheersovereenkomst als partnerorganisatie is gesloten, erkennen als partnerorganisatie.<br>
+<br>
+De Vlaamse Regering bepaalt in voorkomend geval de erkenningsvoorwaarden, de duur van de erkenning en de regels voor het verlenen, schorsen en intrekken van de erkenning.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de subsidie en de subsidievoorwaarden van de partnerorganisaties.<br>
+<br>
+§ 4. Paragrafen 1 tot 3 zijn niet van toepassing op het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, dat van rechtswege erkend is als partnerorganisatie.<br>
+<br>
+§ 5. Organisaties met een erkenning als partnerorganisatie worden niet uitgesloten van een erkenning en/of subsidiëring als organisatie met terreinwerking.
 
 ### ART. 22.
 
@@ -114,7 +180,21 @@ De partnerorganisaties bieden minstens ondersteuning aan de organisaties met ter
 
 ### ART. 23.
 
-§ 1. De Vlaamse Regering kan in het kader van haar beleid met betrekking tot preventieve gezondheidszorg, op basis van oproepen voor organisaties met terreinwerking, beheersovereenkomsten sluiten met voorzieningen.<br /><br />De beheersovereenkomst geldt voor minimaal drie en voor maximaal vijf jaar en omvat minstens het beleidsplan voor de duurtijd van de beheersovereenkomst. Het beleidsplan bevat minstens de volgende gegevens : de resultaatgebieden voor de uitvoering van de beheersovereenkomst en de evaluatiecriteria met betrekking tot de resultaatgebieden om onder meer de uitvoering van de beheersovereenkomst te kunnen evalueren.<br /><br />Een voorziening waarmee de Vlaamse Regering een beheersovereenkomst sluit als organisatie met terreinwerking, wordt geacht te zijn erkend als organisatie met terreinwerking voor de duur van de beheersovereenkomst.<br /><br />De Vlaamse Regering bepaalt in voorkomend geval de nadere regels met betrekking tot de oproep en het sluiten van een beheersovereenkomst.<br /><br />§ 2. De Vlaamse Regering kan voorzieningen waarmee geen beheersovereenkomst als organisatie met terreinwerking is gesloten, erkennen als organisatie met terreinwerking.<br /><br />De Vlaamse Regering bepaalt in voorkomend geval de erkenningsvoorwaarden, de duur van de erkenning en de regels voor het verlenen, schorsen en intrekken van de erkenning.<br /><br />§ 3. De Vlaamse Regering bepaalt de subsidie en de subsidievoorwaarden van de organisatie met terreinwerking. <br /><br />§ 4. § 1 tot en met § 3, zijn niet van toepassing op de Centra voor Leerlingenbegeleiding, de Consultatiebureaus voor het Jonge Kind en de Preventieve Zorgcentra die van rechtswege erkend zijn als organisaties met terreinwerking.<br /><br />§ 5. Organisaties met een erkenning en/of subsidiëring als organisatie met terreinwerking worden niet uitgesloten van een erkenning als partnerorganisatie.
+§ 1. De Vlaamse Regering kan in het kader van haar beleid met betrekking tot preventieve gezondheidszorg, op basis van oproepen voor organisaties met terreinwerking, beheersovereenkomsten sluiten met voorzieningen.<br>
+<br>
+De beheersovereenkomst geldt voor minimaal drie en voor maximaal vijf jaar en omvat minstens het beleidsplan voor de looptijd van de beheersovereenkomst. Het beleidsplan bevat minstens de volgende gegevens : de resultaatgebieden voor de uitvoering van de beheersovereenkomst en de evaluatiecriteria met betrekking tot de resultaatgebieden om onder meer de uitvoering van de beheersovereenkomst te kunnen evalueren.<br>
+<br>
+De Vlaamse Regering bepaalt in voorkomend geval de nadere regels met betrekking tot de oproep en het sluiten van een beheersovereenkomst.<br>
+<br>
+§ 2. De Vlaamse Regering kan voorzieningen waarmee geen beheersovereenkomst als organisatie met terreinwerking is gesloten, erkennen als organisatie met terreinwerking.<br>
+<br>
+De Vlaamse Regering bepaalt in voorkomend geval de erkenningsvoorwaarden, de duur van de erkenning en de regels voor het verlenen, schorsen en intrekken van de erkenning.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de subsidie en de subsidievoorwaarden van de organisatie met terreinwerking.<br>
+<br>
+§ 4. § 1 tot en met § 3, zijn niet van toepassing op de Centra voor Leerlingenbegeleiding, de Consultatiebureaus voor het Jonge Kind en de Preventieve Zorgcentra die van rechtswege erkend zijn als organisaties met terreinwerking.<br>
+<br>
+§ 5. Organisaties met een erkenning en/of subsidiëring als organisatie met terreinwerking worden niet uitgesloten van een erkenning als partnerorganisatie.
 
 ### ART. 24.
 
@@ -148,13 +228,39 @@ Ieder Logo heeft een eigen werkgebied dat een geografisch aaneengesloten gebied 
 
 ### ART. 30.
 
-§ 1. Tot de opdrachten van de Logo's behoort minstens het nastreven van de realisatie van de Vlaamse gezondheidsdoelstellingen binnen hun werkgebied.<br /><br />§ 2. Tot de opdrachten van de Logo's behoort ook het vervullen van andere, nader te bepalen, taken inzake het preventieve gezondheidsbeleid in opdracht van de Vlaamse regering.<br /><br />§ 3. Een Logo kan, binnen haar werkgebied, ook andere initiatieven nemen inzake het preventieve gezondheidsbeleid.<br /><br />Het Logo zorgt ervoor dat deze initiatieven de realisatie van de in § 1 en § 2 bedoelde opdrachten niet in het gedrang brengen en niet in strijd zijn met de initiatieven en richtlijnen van de Vlaamse regering.<br /><br />§ 4. Een Logo doet een beroep op het aanbod van de partnerorganisaties, die door hun inhoudelijke deskundigheid of hun vermogen om gegevens aan te leveren, de gevraagde ondersteuning kunnen geven, als het voor bepaalde opdrachten of delen van opdrachten ondersteuning nodig heeft.<br /><br />Een Logo werkt voor de realisatie van zijn opdrachten samen met en doet een beroep op organisaties met terreinwerking, individuele zorgaanbieders en andere organisaties of hun plaatselijke of regionale afdeling of afdelingen die werkzaam zijn in het werkgebied van het Logo, voor zover dat bijdraagt tot de realisatie van zijn opdrachten.
+§ 1. Tot de opdrachten van de Logo's behoort minstens het nastreven van de realisatie van de Vlaamse gezondheidsdoelstellingen binnen hun werkgebied.<br>
+<br>
+§ 2. Tot de opdrachten van de Logo's behoort ook het vervullen van andere, nader te bepalen, taken inzake het preventieve gezondheidsbeleid in opdracht van de Vlaamse regering.<br>
+<br>
+§ 3. Een Logo kan, binnen haar werkgebied, ook andere initiatieven nemen inzake het preventieve gezondheidsbeleid.<br>
+<br>
+Het Logo zorgt ervoor dat deze initiatieven de realisatie van de in § 1 en § 2 bedoelde opdrachten niet in het gedrang brengen en niet in strijd zijn met de initiatieven en richtlijnen van de Vlaamse regering.<br>
+<br>
+§ 4. Een Logo doet een beroep op het aanbod van de partnerorganisaties, die door hun inhoudelijke deskundigheid of hun vermogen om gegevens aan te leveren, de gevraagde ondersteuning kunnen geven, als het voor bepaalde opdrachten of delen van opdrachten ondersteuning nodig heeft.<br>
+<br>
+Een Logo werkt voor de realisatie van zijn opdrachten samen met organisaties met terreinwerking, individuele zorgaanbieders en andere organisaties of hun plaatselijke of regionale afdeling of afdelingen die werkzaam zijn in het werkgebied van het Logo, voor zover dat bijdraagt tot de realisatie van zijn opdrachten.
 
 ## HOOFDSTUK IX BEVOLKINGSONDERZOEK
 
 ### ART. 31.
 
-§ 1. De Vlaamse regering kan initiatieven nemen om te komen tot programmatische bevolkingson-derzoeken. Deze onderzoeken betreffen georganiseerde opsporingsacties in het kader van ziektepreventie.<br /><br />§ 2. Bevolkingsonderzoeken, in het kader van ziektepreventie, die niet in opdracht van de Vlaamse regering wordt uitgevoerd, vereisen een toestemming van de Vlaamse regering.<br /><br />Een dergelijke toestemming kan door de Vlaamse regering verleend worden nadat minstens informatie wordt verschaft door de initiatiefnemers over:<br /><br />1° het doel en de doelgroep van het bevolkingsonderzoek;<br /><br />2° de wetenschappelijke basis voor het opzetten van het bevolkingsonderzoek;<br /><br />3° de mogelijke schadelijke gevolgen van het gezondheidsonderzoek;<br /><br />4° de periode waarin het bevolkingsonderzoek is gepland;<br /><br />5° de beschrijving van het gezondheidsonderzoek en van de ruimten waarin het onderzoek verricht wordt;<br /><br />6° de communicatie met de te onderzoeken en onderzochte personen over het gezondheidsonderzoek en het bevolkingsonderzoek;<br /><br />7° een inschatting van de gezondheidseconomische effecten van het bevolkingsonderzoek;<br /><br />8° de maatregelen die worden genomen voor de beveiliging van de verzamelde onderzoeksgegevens en voor de bescherming van de persoonlijke levenssfeer van de onderzochte personen.<br /><br />§ 3. De Vlaamse regering kan aanvullende regels bepalen inzake het bevolkingsonderzoek.<br /><br />§ 4. De toestemmingsvereiste, bedoeld in § 2, en de aanvullende regels, bedoeld in § 3, mogen geen afbreuk doen aan de diagnostische en therapeutische vrijheid van de beoefenaars van de gezondheidszorgberoepen in hun individuele relatie met de patiënt die klachten of symptomen heeft. Deze diagnostische en therapeutische vrijheid geldt in de mate dat die door de federale wetgeving is gewaarborgd.
+§ 1. De Vlaamse regering kan initiatieven nemen om te komen tot programmatische bevolkingson-derzoeken. Deze onderzoeken betreffen georganiseerde opsporingsacties in het kader van ziektepreventie.<br>
+<br>
+§ 2. Bevolkingsonderzoeken, in het kader van ziektepreventie, die niet in opdracht van de Vlaamse regering wordt uitgevoerd, vereisen een toestemming van de Vlaamse regering.<br>
+<br>
+Een dergelijke toestemming kan door de Vlaamse regering verleend worden nadat minstens informatie wordt verschaft door de initiatiefnemers over:<br>
+1° het doel en de doelgroep van het bevolkingsonderzoek;<br>
+2° de wetenschappelijke basis voor het opzetten van het bevolkingsonderzoek;<br>
+3° de mogelijke schadelijke gevolgen van het bevolkingsonderzoek;<br>
+4° de periode waarin het bevolkingsonderzoek is gepland;<br>
+5° de beschrijving van het bevolkingsonderzoek en van de ruimten waarin het onderzoek verricht wordt;<br>
+6° de communicatie met de te onderzoeken en onderzochte personen over het bevolkingsonderzoek;<br>
+7° een inschatting van de gezondheidseconomische effecten van het bevolkingsonderzoek;<br>
+8° de maatregelen die worden genomen voor de beveiliging van de verzamelde onderzoeksgegevens en voor de bescherming van de persoonlijke levenssfeer van de onderzochte personen.<br>
+<br>
+§ 3. De Vlaamse regering kan aanvullende regels bepalen inzake het bevolkingsonderzoek.<br>
+<br>
+§ 4. De toestemmingsvereiste, bedoeld in § 2, en de aanvullende regels, bedoeld in § 3, mogen geen afbreuk doen aan de diagnostische en therapeutische vrijheid van de beoefenaars van de gezondheidszorgberoepen in hun individuele relatie met de patiënt die klachten of symptomen heeft. Deze diagnostische en therapeutische vrijheid geldt in de mate dat die door de federale wetgeving is gewaarborgd.
 
 ## HOOFDSTUK X GEGEVENSUITWISSELING
 
@@ -337,7 +443,10 @@ De Vlaamse regering neemt initiatieven tot het voorkomen of beperken van gezondh
 
 ### ART. 64.
 
-De Vlaamse regering kan initiatieven nemen om een gezondheidsbevorderende sociale omgeving te ondersteunen en om bedreigende factoren in de sociale omgeving tegen te gaan. Die initiatieven kunnen betrekking hebben op:<br /><br />1° de schoolomgeving;<br /><br />2° de werkomgeving;<br /><br />3° de leefomgeving.
+De Vlaamse regering kan initiatieven nemen om een gezondheidsbevorderende sociale omgeving te ondersteunen en om bedreigende factoren in de sociale omgeving tegen te gaan. Die initiatieven kunnen onder meer betrekking hebben op:<br>
+1° de schoolomgeving;<br>
+2° de werkomgeving;<br>
+3° de leefomgeving.
 
 ## TITEL VI INITIATIEVEN MET BETREKKING TOT ENDOGENE FACTOREN
 
@@ -357,23 +466,35 @@ De Vlaamse regering neemt initiatieven om gezondheidsschade door verworven facto
 
 ### ART. 67.
 
-De Vlaamse regering neemt initiatieven ter preventie van hart- en vaatziekten. Die initiatieven kunnen betrekking hebben op:<br /><br />1° het voorkomen van hart- en vaatziekten door in te grijpen op determinanten en bronnen van gevaar of bedreigende factoren;<br /><br />2° het opsporen van hart- en vaatziekten in een zo vroeg mogelijk stadium.
+De Vlaamse regering neemt initiatieven ter preventie van hart- en vaatziekten. Die initiatieven kunnen onder meer betrekking hebben op:<br>
+1° het voorkomen van hart- en vaatziekten door in te grijpen op determinanten en bronnen van gevaar of bedreigende factoren;<br>
+2° het opsporen van hart- en vaatziekten in een zo vroeg mogelijk stadium.
 
 ### ART. 68.
 
-De Vlaamse regering neemt initiatieven ter preventie van kanker.<br /><br />Die initiatieven kunnen betrekking hebben op:<br /><br />1° het voorkomen van kanker door in te grijpen op determinanten en bronnen van gevaar of bedreigende factoren;<br /><br />2° het opsporen van kanker in een zo vroeg mogelijk stadium.
+De Vlaamse regering neemt initiatieven ter preventie van kanker.<br>
+<br>
+Die initiatieven kunnen onder meer betrekking hebben op:<br>
+1° het voorkomen van kanker door in te grijpen op determinanten en bronnen van gevaar of bedreigende factoren;<br>
+2° het opsporen van kanker in een zo vroeg mogelijk stadium.
 
 ### ART. 69.
 
-De Vlaamse regering neemt initiatieven ter preventie van psychische aandoeningen. Die initiatieven kunnen betrekking hebben op:<br /><br />1° het voorkomen van psychische aandoeningen door in te grijpen op determinanten en bronnen van gevaar of bedreigende factoren;<br /><br />2° het opsporen van psychische aandoeningen in een zo vroeg mogelijk stadium.
+De Vlaamse regering neemt initiatieven ter preventie van psychische aandoeningen. Die initiatieven kunnen onder meer betrekking hebben op:<br>
+1° het voorkomen van psychische aandoeningen door in te grijpen op determinanten en bronnen van gevaar of bedreigende factoren;<br>
+2° het opsporen van psychische aandoeningen in een zo vroeg mogelijk stadium.
 
 ### ART. 70.
 
-De Vlaamse regering neemt initiatieven ter preventie van aangeboren aandoeningen. Die initiatieven kunnen betrekking hebben op:<br /><br />1° het voorkomen van aangeboren aandoeningen door in te grijpen op determinanten en bronnen van gevaar of bedreigende factoren;<br /><br />2° het aanbieden van de mogelijkheid tot het opsporen van aangeboren aandoeningen, die al dan niet genetisch bepaald zijn, in een zo vroeg mogelijk stadium.
+De Vlaamse regering neemt initiatieven ter preventie van aangeboren aandoeningen. Die initiatieven kunnen onder meer betrekking hebben op:<br>
+1° het voorkomen van aangeboren aandoeningen door in te grijpen op determinanten en bronnen van gevaar of bedreigende factoren;<br>
+2° het aanbieden van de mogelijkheid tot het opsporen van aangeboren aandoeningen, die al dan niet genetisch bepaald zijn, in een zo vroeg mogelijk stadium.
 
 ### ART. 71.
 
-De Vlaamse regering neemt initiatieven ter preventie van zintuiglijke en ontwikkelingsstoornissen. Die initiatieven kunnen betrekking hebben op:<br /><br />1° het voorkomen van zintuiglijke en ontwikkelingsstoornissen door in te grijpen op determinanten en bronnen van gevaar of bedreigende factoren;<br /><br />2° het opsporen van zintuiglijke en ontwikkelingsstoornissen in een zo vroeg mogelijk stadium.
+De Vlaamse regering neemt initiatieven ter preventie van zintuiglijke en ontwikkelingsstoornissen. Die initiatieven kunnen onder meer&nbsp;betrekking hebben op:<br>
+1° het voorkomen van zintuiglijke en ontwikkelingsstoornissen door in te grijpen op determinanten en bronnen van gevaar of bedreigende factoren;<br>
+2° het opsporen van zintuiglijke en ontwikkelingsstoornissen in een zo vroeg mogelijk stadium.
 
 ### ART. 72.
 
@@ -383,7 +504,7 @@ De Vlaamse regering kan initiatieven nemen ter preventie van andere ziekten of a
 
 ### ART. 73.
 
-De initiatieven en maatregelen, bedoeld in artikel 39 tot en met artikel 72, worden genomen op basis van wetenschappelijk onderbouwde gegevens en zijn gericht op het behalen van gezondheidswinst op Vlaams bevolkingsniveau.
+De initiatieven en maatregelen, vermeld in artikel 39 tot en met 72 en artikel 74, worden genomen op basis van wetenschappelijk onderbouwde gegevens en zijn gericht op het behalen van gezondheidswinst op Vlaams bevolkingsniveau tegen maatschappelijk aanvaardbare kosten of op het verhogen van de efficiëntie van het gezondheidsbeleid.
 
 ## TITEL IX INITIATIEVEN MET BETREKKING TOT SPECIFIEKE LEEFTIJDSCATEGORIEËN OF ONTWIKKELINGSFASEN
 
@@ -410,7 +531,7 @@ De maatregelen, genomen ter uitvoering van het decreet van 30 april 2004 tot opr
 ### ART. 76.
 
 § 1. Er kan een administratieve geldboete van 100 tot 100.000 euro opgelegd worden aan iedereen die een van de volgende verplichtingen niet naleeft:<br>
-1° toestemming krijgen voor een bevolkingsonderzoek, zoals bedoeld in artikel 31, § 2;<br>
+1° bevolkingsonderzoek als vermeld in artikel 31, § 2, organiseren, uitvoeren of promoten, of meewerken aan het organiseren, uitvoeren of promoten van bevolkingsonderzoek, zonder dat voor het bevolkingsonderzoek in kwestie toestemming is verleend;<br>
 2° gegevens uitwisselen in het kader van het epidemiologisch informatiesysteem, zoals bedoeld in artikel 32, § 2;<br>
 3° ...<br>
 4° zich verantwoorden of zich onderwerpen aan een toezicht, zoals bedoeld in artikel 36 en in artikel 75bis, § 2;<br>
