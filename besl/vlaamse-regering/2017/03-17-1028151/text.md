@@ -70,7 +70,7 @@ In afwijking van het eerste lid kan Kind en Gezin, bij ernstige problemen bij de
 
 ### ART 5.
 
-&nbsp;Het budget voor de subsidie voor werkdrukvermindering voor de organisatoren, vermeld in artikel 8 en 12, bedraagt in totaal 4.445.085,71 euro. Het budget voor de subsidie voor werkdrukvermindering voor de organisatoren, vermeld in artikel 19, 24, 27, 31, 35 en 40, bedraagt in totaal 877.590,78 euro.<br>
+&nbsp;Het budget voor de subsidie voor werkdrukvermindering voor de organisatoren, vermeld in artikel 8 en 12, bedraagt in totaal&nbsp;4.682.890,18 euro. Het budget voor de subsidie voor werkdrukvermindering voor de organisatoren, vermeld in artikel 19, 24, 27, 31, 35 en 40, bedraagt in totaal 746.240,08 euro.<br>
 <br>
 Het totaalbedrag, vermeld in het eerste lid, wordt geïndexeerd conform artikel 3. Na de indexering wordt het totaalbedrag verdeeld, rekening houdend met de criteria, vermeld in het derde lid, en het aantal voltijdsequivalenten, vermeld in het vierde lid.<br>
 <br>
@@ -272,15 +272,15 @@ In het eerste lid wordt verstaan onder subsidie voor een project gesco: een subs
 
 ### ART 38.
 
-Een organisator met een subsidie voor DAC, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor managementondersteuning van 94,31 euro per voltijdsequivalent gewezen DAC-personeelslid zolang de organisator voor dat personeelslid DAC-subsidies ontvangt van Kind en Gezin.
+...
 
 ### ART 39.
 
-Een organisator met een subsidie voor DAC, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor de eindejaarspremie 775,73 euro per voltijdsequivalent gewezen DAC-personeelslid zolang de organisator voor dat personeelslid DAC-subsidies ontvangt van Kind en Gezin.
+...
 
 ### ART 40.
 
-Een organisator met een subsidie voor DAC, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
+...
 
 ## HOOFDSTUK 7 Slotbepalingen
 
