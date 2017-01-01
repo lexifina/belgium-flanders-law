@@ -2,16 +2,16 @@
   "codex_id": 1018738,
   "title": "Decreet van 2009-12-18 houdende bepalingen tot begeleiding van de derde aanpassing van de begroting 2009",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018738/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "01bfbcb355a08c211aaac167a0f535950ad0797fcef57c9adb5a5002623442de",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018738/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "d51a9ccc7a928e4208de7f0cc70fe8c684337535aa7a71a4f7415975427d908d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018738&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2017-01-01",
   "made": "2009-12-18",
   "gazette": "2010-01-29",
   "numac": 2010035075,
   "document_start": "2009-01-01",
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2017-01-01",
   "article_versions": 44,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
