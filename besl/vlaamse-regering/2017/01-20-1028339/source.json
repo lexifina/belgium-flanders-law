@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028339,
+  "title": "Besluit van de Vlaamse Regering van 2017-01-20 tot wijziging van artikel 15 van het besluit van de Vlaamse Regering van 14 oktober 2011 betreffende de begroting en de boekhouding van de Vlaamse rechtspersonen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028339/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "01fed6ee9be24ca71f7f42a419a544d9fa4b9e9d04478e68914bdec456467e7a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028339&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-01-20",
+  "gazette": "2017-06-20",
+  "numac": 2017012605,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
