@@ -77,6 +77,18 @@ Aan artikel 201, § 2, van hetzelfde decreet wordt een tweede lid toegevoegd, da
 
 ## HOOFDSTUK 3. Wijzigingen van het decreet van 25 april 2014 betreffende de rustpensioenen, toegekend aan de vastbenoemde personeelsleden van de Vlaamse Radio- en Televisieomroeporganisatie en betreffende de overlevingspensioenen, toegekend aan de rechtverkrijgenden van die personeelsleden
 
+### ART 13.
+
+In artikel 3 van het decreet van 25 april 2014 betreffende de rustpensioenen, toegekend aan de vastbenoemde personeelsleden van de Vlaamse Radio- en Televisieomroeporganisatie en betreffende de overlevingspensioenen, toegekend aan de rechtverkrijgenden van die personeelsleden, wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"In afwijking van het eerste lid wordt de 65ste verjaardag vervangen door:<br>
+1° de 66ste verjaardag als de pensionering ingaat tussen 1 februari 2025 en 31 januari 2030;<br>
+2° de 67ste verjaardag als de pensionering ingaat vanaf 1 februari 2030.".
+
+### ART 14.
+
+In artikel 7, § 2, van hetzelfde decreet wordt in de tabel de zinsnede "42 jaar" vervangen door de zinsnede "42 jaar of meer".
+
 ## HOOFDSTUK 4. Slotbepalingen
 
 ### ART 15.
