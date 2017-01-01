@@ -11,16 +11,16 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 februari 1994 inzake
 In dit besluit wordt verstaan onder :<br>
 1° ...;<br>
 2° centrum voor kinderzorg en gezinsondersteuning : een door de Vlaamse overheid erkend centrum voor kinderzorg en gezinsondersteuning als vermeld in het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning;<br>
-3° crèche : een kinderdagverblijf dat voorziet in dagopvang van kinderen voor ze naar de basisschool gaan, en in de overgangsperiode tussen de kinderopvang en de basisschool;<br>
+3° kinderopvanglocatie: een kinderopvanglocatie als vermeld in artikel 2, eerste lid, 3°, van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 4° vertrouwenscentrum kindermishandeling : een door de Vlaamse overheid erkend vertrouwenscentrum kindermishandeling als vermeld in het besluit van de Vlaamse Regering van 17 mei 2002 betreffende erkenning en subsidiëring van de vertrouwenscentra kindermishandeling;<br>
-5° sector van de voorzieningen voor gezinnen met kinderen :&nbsp;de centra voor kinderzorg en gezinsondersteuning, de crèches en de vertrouwenscentra kindermishandeling.<br>
+5° sector van de voorzieningen voor gezinnen met kinderen: de centra voor kinderzorg en gezinsondersteuning, de kinderopvanglocaties en de vertrouwenscentra kindermishandeling.<br>
 <br>
-Voor de toepassing van dit besluit gelden bovendien de volgende bepalingen voor een crèche :<br>
-1° het kinderdagverblijf kan, in dezelfde lokalen, kinderen uit het kleuteronderwijs buitenschools opvangen;<br>
-2° het kinderdagverblijf beschikt over een principieel akkoord of een erkenning volgens de geldende regelgeving inzake erkenning en subsidiëring van voorzieningen inzake kinderopvang;<br>
-3° het kinderdagverblijf kan kinderen van de basisschool buitenschools opvangen in aparte lokalen als voldaan wordt aan de voorwaarden die door de Vlaamse minister, bevoegd voor de bijstand aan personen, zijn bepaald ter uitvoering van artikel 5, § 5, van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders, en na toestemming van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
-4° het kinderdagverblijf kan kinderen voor ze naar school gaan, of kinderen uit de basisschool opvangen in een lokale dienst buurtgerichte kinderopvang die verbonden is aan het kinderdagverblijf, als vermeld in het besluit van de Vlaamse Regering van 9 mei 2008 houdende de voorwaarden voor toestemming voor en subsidiëring van lokale diensten buurtgerichte kinderopvang.<br>
-&nbsp;
+Voor de toepassing van dit besluit gelden bovendien de volgende vereisten voor een kinderopvanglocatie om in aanmerking te komen voor een investeringssubsidie:<br>
+1° de aanvrager komt voor de kinderopvanglocatie in kwestie in aanmerking voor een vergunning voor groepsopvang voor minimaal negentien tegelijk aanwezige kinderen, overeenkomstig de regels, vermeld in of ter uitvoering van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
+2° de aanvrager komt voor de kinderopvanglocatie in kwestie in aanmerking voor een subsidie voor inkomenstarief als vermeld in artikel 1, 17°, van het Subsidiebesluit van 22 november 2013;<br>
+3° de aanvrager bezorgt voor de kinderopvanglocatie in kwestie de subsidiebelofte of de subsidiebeslissing in het kader van het Subsidiebesluit van 22 november 2013 aan het Fonds.<br>
+<br>
+De investeringssubsidies voor kinderopvanglocaties worden toegekend met inachtneming van het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen.
 
 ## HOOFDSTUK 2 Bouwtechnische en bouwfysische normen
 
@@ -30,7 +30,51 @@ De algemene bouwtechnische en bouwfysische normen waaraan de infrastructuur met 
 
 ### ART. 3.
 
-§ 1. De specifieke bouwtechnische en bouwfysische normen waaraan een crèche moet voldoen om voor een investeringssubsidie in aanmerking te komen, zijn bepaald in dit artikel.<br /><br />§ 2. Voor de vestiging en de omgeving gelden de volgende normen : <br />1° de crèche is gemakkelijk bereikbaar en bevindt zich in een veilige en gezonde omgeving;<br />2° de crèche beschikt over een buitenspeelruimte, die paalt aan het gebouw.<br /><br />§ 3. Voor de bouw en de inrichting gelden de volgende normen : <br />1° de bruto bebouwde oppervlakte bedraagt minstens 12 m2 per plaats;<br />2° alle lokalen die bestemd zijn voor de kinderen, moeten geventileerd kunnen worden op natuurlijke wijze of op mechanische wijze;<br />3° de lokalen en de buitenspeelruimte, de inrichting, afwerking en uitrusting zijn aangepast aan de leeftijd van de opgevangen kinderen en zijn veilig en hygiënisch;<br />4° de infrastructuur en de technische installaties moeten garanderen dat in de lokalen die bestemd zijn voor de kinderen, de temperatuur in de leefruimte minimaal 22 °C bedraagt en in de rustruimte minimaal 18 °C;<br />5° de temperatuur van het water dat bestemd is voor de kinderen, mag niet hoger zijn dan 38 °C.<br /><br />§ 4. De lokalen die bestemd zijn voor de kinderen, worden onderverdeeld in leefgroepunits. In één leefgroepunit wordt één leefgroep ondergebracht. Een leefgroep bestaat uit maximaal veertien kinderen. De leefgroepunit is samengesteld uit één leefruimte, minstens twee rustruimtes en één verzorgingsruimte. Binnen een leefgroepunit moet visueel toezicht tussen de ruimten onderling mogelijk zijn.<br /><br />§ 5. Voor de leefruimte gelden de volgende normen : <br />1° de vloeroppervlakte in de leefruimte waarop gespeeld kan worden, bedraagt minstens 3 m2 per plaats;<br />2° er is natuurlijk daglicht in de leefruimte;<br />3° de oppervlakte van de buitenramen bedraagt minstens een zesde van de vloeroppervlakte;<br />4° de hoogte van de vensterbanken van de buitenramen in de leefruimtes bedraagt maximaal 0,6 meter;<br />5° de vorm en de inrichting van de leefruimte maken een permanent toezicht mogelijk.<br /><br />§ 6. Voor de rustruimte gelden de volgende normen : <br />1° de nuttige vloeroppervlakte van de rustruimte bedraagt minstens 2 m2 per plaats;<br />2° er kunnen voldoende uitgeruste bedjes geplaatst worden, zodat de kinderen die tegelijkertijd willen slapen, allemaal kunnen slapen;<br />3° de bedjes kunnen zo geplaatst worden dat de kinderen er gemakkelijk in kunnen worden gelegd en uit kunnen worden genomen, en dat de kinderen elkaar niet kunnen aanraken;<br />4° de rustruimte is akoestisch geïsoleerd.<br /><br />§ 7. De verzorgingsruimte is minstens uitgerust met : <br />1° warm- en koudwatervoorziening;<br />2° één ingebouwd badje;<br />3° één verzorgingstafel;<br />4° twee kindertoiletjes als de verzorgingsruimte ook voor lopers is bestemd.<br /><br />§ 8. Voor de buitenspeelruimte gelden de volgende normen : <br />1° de crèche beschikt over een veilige en passend ingerichte buitenspeelruimte die bestemd is voor de opgevangen kinderen;<br />2° de buitenspeelruimte is voor de kinderen veilig en gemakkelijk bereikbaar en is overal omheind;<br />3° de beschikbare oppervlakte van de buitenspeelruimte in geval van nieuwbouw is minstens 3 m2 per kind;<br />4° de buitenspeelruimte voldoet aan de bepalingen van het koninklijk besluit van 28 maart 2001 betreffende de uitbating van speelterreinen.<br /><br />§ 9. Voor de algemene lokalen gelden de volgende normen : <br />1° de algemene lokalen zijn de hoofdingang, de kleedruimte, de ruimte voor kinderwagens, het administratieve lokaal, de personeelslokalen, de keuken, de sanitaire ruimte, het onderhoudslokaal en de berging;<br />2° vanuit de hoofdingang is via de circulatieruimte elke leefgroepunit afzonderlijk te bereiken. De hoofdingang is voorzien van een tochtportaal. Als in het gebouw andere diensten aanwezig zijn, mag die ingang alleen voor de crèche gebruikt worden. Er is een mogelijkheid om toezicht te houden op de hoofdingang;<br />3° er is minstens één kleedruimte voor de kinderen per bouwlaag. De kleedruimte is minstens uitgerust met een bergvak voor de kledij van elk kind en een kapstokje op kinderhoogte per loper. Per zeven plaatsen is er één omkleedtafel of -bank voorhanden;<br />4° er is een ruimte voor kinderwagens in de onmiddellijke nabijheid van de hoofdingang;<br />5° de voorziening voldoet aan de regelgeving over de veiligheid van de voedselketen en de voorwaarden, die gesteld zijn door het Federaal Agentschap voor de Veiligheid van de Voedselketen;<br />6° er is sanitair voor het personeel en voor de bezoekers;<br />7° het lokaal voor onderhoud is minstens uitgerust met een uitgietbak met koud- en warmwatertoevoer.<br /><br />
+§ 1. In dit artikel wordt verstaan onder:<br>
+1° ruimte: een afzonderlijke binnenruimte als vermeld in artikel 14, eerste lid, van het Vergunningsbesluit van 22 november 2013. Deze definitie geldt niet voor de buitenspeelruimte;<br>
+2° zone: een oppervlakte met een bepaalde functie.<br>
+<br>
+§ 2. Een kinderopvanglocatie moet voldoen aan de specifieke bouwtechnische en bouwfysische normen, vermeld in paragraaf 3 tot en met 9, om voor een investeringssubsidie in aanmerking te komen.<br>
+<br>
+§ 3. De kinderopvanglocatie beschikt over een buitenspeelruimte.<br>
+<br>
+Voor de buitenspeelruimte, vermeld in het eerste lid, gelden de volgende normen:<br>
+1° de kinderopvanglocatie beschikt over een aan het gebouw aanpalende, veilige en passend ingerichte buitenspeelruimte die bestemd is voor de opgevangen kinderen;<br>
+2° de buitenspeelruimte is voor de kinderen veilig en gemakkelijk bereikbaar en is overal omheind;<br>
+3° bij nieuwbouw is de beschikbare oppervlakte van de buitenspeelruimte minstens 3 m2 per kind.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, kan op gemotiveerde aanvraag, afwijken van de normen, vermeld in het tweede lid, met behoud van de toepassing van artikel 17 van het Vergunningsbesluit van 22 november 2013.<br>
+<br>
+§ 4. Voor de bouw en de inrichting gelden de volgende normen:<br>
+1° de infrastructuur en de technische installaties garanderen dat in de ruimtes die bestemd zijn voor de kinderen, de temperatuur in de leefruimte minimaal 22 ° C bedraagt en in de rustruimte minimaal 18 ° C;<br>
+2° de technische installaties garanderen dat de temperatuur van het water dat bestemd is voor de kinderen, niet hoger is dan 38 ° C;<br>
+3° alle lokalen die bestemd zijn voor de kinderen, kunnen geventileerd worden op natuurlijke wijze of op mechanische wijze, waardoor de koolstofdioxideconcentratie in de lucht onder 1200 ppm blijft.<br>
+<br>
+§ 5. De gebouwdelen die bestemd zijn voor de kinderen, worden onderverdeeld in leefgroepunits. In één leefgroepunit wordt één leefgroep ondergebracht. De leefgroepunit is samengesteld uit één leefruimte, minstens twee afsluitbare rustruimtes en één verzorgingszone. Binnen een leefgroepunit moet visueel toezicht tussen de ruimtes onderling of tussen de ruimtes en de verzorgingszone mogelijk zijn.<br>
+<br>
+§ 6. Voor de leefruimte gelden de volgende normen:<br>
+1° de nettovloeroppervlakte in de leefruimtes die gebruikt kan worden voor spel, bedraagt minstens 3 m2 per kinderopvangplaats;<br>
+2° de oppervlakte van de buitenramen bedraagt minstens een zesde van de vloeroppervlakte;<br>
+3° de hoogte van de vensterbanken van de buitenramen in de leefruimtes bedraagt maximaal 0,6 meter;<br>
+4° de vorm en de inrichting van de leefruimte maken een permanent toezicht mogelijk.<br>
+<br>
+§ 7. Voor de rustruimte gelden de volgende normen:<br>
+1° de nettovloeroppervlakte van de rustruimte bedraagt minstens 2 m2 per kinderopvangplaats;<br>
+2° de rustruimte is akoestisch geïsoleerd.<br>
+<br>
+§ 8. Voor de verzorgingszone gelden de volgende normen:<br>
+1° de verzorgingszone is minstens uitgerust met een ingebouwd kinderbad;<br>
+2° de verzorgingszone beschikt over twee kindertoiletten als de verzorgingszone ook voor peuters is bestemd.<br>
+<br>
+§ 9. De kinderopvanglocatie beschikt over:<br>
+1° een hoofdingang. Er is een afzonderlijke toegang tot de kinderopvanglocatie, die alleen daarvoor gebruikt wordt, met mogelijkheid tot toezicht. Vanuit die ingang en de circulatieruimte is elke leefgroepunit afzonderlijk te bereiken. Als de hoofdingang een buiteningang is, is die voorzien van een tochtportaal;<br>
+2° een administratieve ruimte;<br>
+3° een zone om kinderwagens te stallen in de onmiddellijke nabijheid van de hoofdingang. Die zone mag de circulatie niet hinderen;<br>
+4° minstens één kleedzone voor de kinderen per bouwlaag;<br>
+5° een keukenzone of -ruimte die voldoet aan de regelgeving over de veiligheid van de voedselketen en de voorwaarden die gesteld zijn door het Federaal Agentschap voor de Veiligheid van de Voedselketen;<br>
+6° een personeelsruimte;<br>
+7° sanitair voor het personeel en voor de bezoekers;<br>
+8° een berging
 
 ### ART. 4.
 
@@ -52,13 +96,32 @@ De bouwfysische normen, vermeld in artikelen 2 tot en met 6, gelden met behoud v
 
 ### ART. 8.
 
-De noodzakelijke uitrusting en meubilering om een crèche, een   vertrouwenscentrum voor kindermishandeling of een centrum voor kinderzorg en   gezinsondersteuning in te richten, komt in aanmerking voor een   investeringssubsidie.<BR><BR>Voor een vertrouwenscentrum kindermishandeling   wordt de video-opnameapparatuur tot de noodzakelijke uitrusting   gerekend.<BR><BR>
+De noodzakelijke uitrusting en meubilering om een kinderopvanglocatie, een vertrouwenscentrum voor kindermishandeling of een centrum voor kinderzorg en gezinsondersteuning in te richten, komt in aanmerking voor een investeringssubsidie.<br>
+<br>
+Voor een vertrouwenscentrum kindermishandeling wordt de video-opnameapparatuur tot de noodzakelijke uitrusting gerekend.<br>
+&nbsp;
 
 ## HOOFDSTUK 4 Subsidiabele oppervlakte
 
 ### ART. 9.
 
-In dit artikel wordt verstaan onder subsidiabele oppervlakte : de som van   de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die   in aanmerking wordt genomen voor subsidiëring.<BR><BR>De subsidiabele   oppervlakte bedraagt maximaal : <BR>1° voor een crèche : 20 m2 per plaats;<BR>2°   voor een vertrouwenscentrum kindermishandeling : 50 m2 per door de Vlaamse   overheid gesubsidieerde voltijdse equivalent van de personeelsbezetting;<BR>3°   ...;<BR>4° voor een centrum voor kinderzorg en gezinsondersteuning:<BR>a) 50 m²   per residentiële opvangplaats waarvoor men subsidies ontvangt van Kind en Gezin   overeenkomstig het besluit van de Vlaamse Regering van 9 november 2012 inzake   erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning.   Dat geldt voor de verschillende typemodules van residentiële opvang, vermeld in   artikel 45, 49 en 53 van het ministerieel besluit van 21 december 2012   betreffende het aanbod, beschreven in typemodules, van de centra voor kinderzorg   en gezinsondersteuning;<BR>b) 30 m² per ambulante opvangplaats als vermeld in   artikel 23 van het voormelde ministerieel besluit, waarvoor men subsidies   ontvangt van Kind en Gezin overeenkomstig het besluit van de Vlaamse Regering   van 9 november 2012 inzake erkenning en subsidiëring van de centra voor   kinderzorg en gezinsondersteuning;<BR>c) 20 m² per voltijdsequivalent, ingezet   voor de mobiele begeleiding, waarvoor men subsidies ontvangt van Kind en Gezin   overeenkomstig het besluit van de Vlaamse Regering van 9 november 2012 inzake   erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning.   Dat geldt voor de verschillende typemodules van mobiele begeleiding, vermeld in   artikel 8, 11, 14, 17 en 20 van het voormelde ministerieel besluit;<BR>d) 30 m²   per voltijdsequivalent, ingezet voor de typemodule ambulante pedagogische   training in groepsverband, van ouders samen met kinderen, als vermeld in artikel   29 van het voormelde ministerieel besluit, waarvoor men subsidies ontvangt van   Kind en Gezin overeenkomstig het besluit van de Vlaamse Regering van 9 november   2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en   gezinsondersteuning;<BR>e) 15 m² per voltijdsequivalent, ingezet voor andere   typemodules van ambulante training in groepsverband als vermeld in artikel 35 en   38 van het voormelde ministerieel besluit, waarvoor men subsidies ontvangt van   Kind en Gezin overeenkomstig het besluit van de Vlaamse Regering van 9 november   2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en   gezinsondersteuning.<BR><BR>Bij uitbreiding van de oppervlakte komt alleen de   nieuw gebouwde of de aangekochte oppervlakte die samen met de oppervlakte van   het behouden gedeelte van het bestaande gebouw de maximale subsidiabele   oppervlakte, vermeld in het tweede lid, niet overschrijdt, voor subsidiëring in   aanmerking.<BR><BR>Van de maximale subsidiabele oppervlakte, vermeld in het   tweede en het derde lid, kan alleen op gemotiveerd verzoek afgeweken worden bij   verbouwing of uitbreiding, voor zover de erkennings- en exploitatievoorwaarden   dat vereisen.<BR><BR>
+In dit artikel wordt verstaan onder subsidiabele oppervlakte : de som van de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in aanmerking wordt genomen voor subsidiëring.<br>
+<br>
+De subsidiabele oppervlakte bedraagt maximaal :<br>
+1° voor de aanvrager van een kinderopvanglocatie: 20 m2 per plaats, bekeken op het niveau van de subsidiegroep van de aanvrager, vermeld in artikel 1, 20°, van het Subsidiebesluit van 22 november 2013;<br>
+2° voor een vertrouwenscentrum kindermishandeling : 50 m2 per door de Vlaamse overheid gesubsidieerde voltijdse equivalent van de personeelsbezetting;<br>
+3° ...;<br>
+4° voor een centrum voor kinderzorg en gezinsondersteuning:<br>
+a) 50 m² per residentiële opvangplaats waarvoor men subsidies ontvangt van Kind en Gezin overeenkomstig het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning. Dat geldt voor de verschillende typemodules van residentiële opvang, vermeld in artikel 45, 49 en 53 van het ministerieel besluit van 21 december 2012 betreffende het aanbod, beschreven in typemodules, van de centra voor kinderzorg en gezinsondersteuning;<br>
+b) 30 m² per ambulante opvangplaats als vermeld in artikel 23 van het voormelde ministerieel besluit, waarvoor men subsidies ontvangt van Kind en Gezin overeenkomstig het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning;<br>
+c) 20 m² per voltijdsequivalent, ingezet voor de mobiele begeleiding, waarvoor men subsidies ontvangt van Kind en Gezin overeenkomstig het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning. Dat geldt voor de verschillende typemodules van mobiele begeleiding, vermeld in artikel 8, 11, 14, 17 en 20 van het voormelde ministerieel besluit;<br>
+d) 30 m² per voltijdsequivalent, ingezet voor de typemodule ambulante pedagogische training in groepsverband, van ouders samen met kinderen, als vermeld in artikel 29 van het voormelde ministerieel besluit, waarvoor men subsidies ontvangt van Kind en Gezin overeenkomstig het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning;<br>
+e) 15 m² per voltijdsequivalent, ingezet voor andere typemodules van ambulante training in groepsverband als vermeld in artikel 35 en 38 van het voormelde ministerieel besluit, waarvoor men subsidies ontvangt van Kind en Gezin overeenkomstig het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning.<br>
+<br>
+Bij uitbreiding van de oppervlakte komt alleen de nieuw gebouwde of de aangekochte oppervlakte die samen met de oppervlakte van het behouden gedeelte van het bestaande gebouw de maximale subsidiabele oppervlakte, vermeld in het tweede lid, niet overschrijdt, voor subsidiëring in aanmerking.<br>
+<br>
+Van de maximale subsidiabele oppervlakte, vermeld in het tweede en het derde lid, kan alleen op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, als de erkennings-, vergunnings- of exploitatievoorwaarden dat vereisen.<br>
+&nbsp;
 
 ## HOOFDSTUK 5 Investeringssubsidie
 
