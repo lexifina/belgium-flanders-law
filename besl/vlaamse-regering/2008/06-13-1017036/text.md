@@ -2,18 +2,18 @@
 
 ### Aanhef
 
-De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, inzonderheid op artikel 72;<br /><br />Gelet op het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen, in zonderheid op artikel 55undecies, ingevoegd bij het decreet van 15 december 2006;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de Begroting, gegeven op 6 juni 2008;<br /><br />Op voorstel van de Vlaamse minister van Werk, Onderwijs en Vorming;<br /><br />Na beraadslaging,<br /><br />Besluit : <br /><br />
+...
 
 ### ART. 1.
 
-Overeenkomstig artikel 72 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en artikel 55undecies van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen, wordt het model van overeenkomst tussen de Vlaamse Regering en de expertisenetwerken en regionale platformen in het kader van de lerarenopleidingen in Vlaanderen, dat als bijlage bij dit besluit is gevoegd, goedgekeurd.<br /><br />
+...
 
 ### ART. 2.
 
-De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
+...
 
 ## Bijlage 1
 
 ### BIJLAGE 1
 
-Bijlage bij het besluit van de Vlaamse Regering van 13 juni 2008 houdende vastlegging van een model van overeenkomst tussen de Vlaamse Regering en de expertisenetwerken en regionale platformen in het kader van de lerarenopleidingen in Vlaanderen<br /><br />1. Inleiding<br /><br />Algemene situering<br /><br />Beschrijving van de contracterende partijen<br /><br />2. Specificatie van de opdrachten van het expertisenetwerk of het regionale platform<br /><br />In de beheersovereenkomst verbindt het expertisenetwerk of het regionaal platform zich tot acties rond de onderstaande thema's :<br />o thema 1 : professionalisering van lerarenopleiders<br />o professionaliseringsbeleid<br />o taal/ict-competenties van lerarenopleiders<br />o vakdidactiek<br />o aandacht voor evaluatie/examineren<br />o ondernemerschap<br />o thema 2 : taalbeleid<br />o thema 3 : stages/organisatie praktijkcomponent<br />o thema 4 : diversiteit/doelgroepenbeleid<br />o thema 5 : onderzoeksondersteuning : praktijkgebaseerd onderzoek om bepaalde wijzigingen/trends in de lerarenopleidingen te onderbouwen.<br />o thema 6 : aantrekkelijkheid van de lerarenopleiding en plaats van de lerarenopleiding in de maatschappij.<br /><br />In één beheersovereenkomst hoeft niet voor alle thema's in een actie voorzien te worden.<br /><br />Voor de acties die plaatsvinden in 2012 en 2013, worden ook meetfactoren gedefinieerd, wordt een timing bepaald en wordt een budget begroot. Voor acties in de jaren 2014 en 2015 worden de nog nader uit te werken activiteiten, de meetfactoren, de timing en de begrootte budgetten opgenomen in een bijlage bij de overeenkomst.<br /><br />3. Rapportering en informatieplicht<br /><br />Het expertisenetwerk of het regionaal platform zal jaarlijks rapporteren aan het Departement Onderwijs en Vorming, afdeling Hoger Onderwijs.<br /><br />De rapportering zal minstens bestaan uit een beschrijving van de realisatie van de overeengekomen acties. Voor de start van het derde werkjaar wordt een meer diepgaande rapportering verwacht, met een interview of bezoek, waarna bijsturing mogelijk is. Als de beheersovereenkomst bijgestuurd wordt, wordt dat opgenomen in een bijlage bij de overeenkomst.<br /><br />4. Financiering<br /><br />Beschrijving en berekening van de verdeling van de financiële middelen die de Vlaamse overheid ter beschikking stelt van de expertisenetwerken en het regionale platform om de overeengekomen acties uit te voeren.<br /><br />De wijze van uitbetaling van de middelen.<br /><br />Het rekeningnummer waarop de subsidie gestort kan worden.<br /><br />De jaarlijkse subsidie wordt toegekend binnen de perken van de begrotingskredieten.<br /><br />5. Duur<br /><br />De overeenkomst loopt van 1 januari 2012 tot en met 31 december 2015.<br /><br />6. Slotbepalingen<br /><br />Deze overeenkomst kan alleen gewijzigd worden in overleg met alle betrokken partijen. De wijzigingen moeten in een door alle partijen ondertekend aanhangsel bij de overeenkomst worden gevoegd.<br /><br />In geval van betwisting is de rechtbank van eerste aanleg van Brussel bevoegd.<br /><br />Brussel, 20 april 2012.<br /><br />Naam en hoedanigheid van de ondertekenaars
+...
