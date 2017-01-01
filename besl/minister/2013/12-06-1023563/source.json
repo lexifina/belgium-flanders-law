@@ -2,16 +2,16 @@
   "codex_id": 1023563,
   "title": "Ministerieel besluit van 2013-12-06 houdende het instellen van een regelluw kader voor het multifunctioneel centrum Emmaus vzw",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023563/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "db82a6f22e00e8fbe130fb6a81b5ba4a0cf1c802f48d0e9a901b4d1fe55cb1ee",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023563/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "1fc80a046de576b4f525ece55a0a9a727bc5eae7f7a0fb069bbd6228538e4ee8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023563&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2017-01-01",
   "made": "2013-12-06",
   "gazette": "2014-01-15",
   "numac": 2014200006,
   "document_start": "2014-01-01",
   "document_end": "2016-12-31",
-  "in_force": "2014-01-01",
+  "in_force": "2017-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
