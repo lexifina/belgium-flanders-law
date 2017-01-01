@@ -2,16 +2,16 @@
   "codex_id": 1017308,
   "title": "Besluit van de Vlaamse Regering van 2008-10-10 betreffende de tegemoetkoming voor het begrotingsjaar 2007 aan de besturen van de Centra voor Volwassenenonderwijs en de Centra voor Basiseducatie in het vrij gesubsidieerd onderwijs met betrekking tot de financiële controle",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017308/VolledigDocument?datum=2008-12-01",
-  "source_sha256": "8f3e54ec12f1cc7e1be4860616fb9a69368103112dae8d2cb904dab464d3ca7f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017308/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "2061de5891e3d5117d2612ea7b748480afc2bd71f2fbaf82ba240827f9421b5f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017308&param=informatie",
-  "as_of": "2008-12-01",
+  "as_of": "2017-01-01",
   "made": "2008-10-10",
   "gazette": "2008-11-21",
   "numac": 2008204124,
   "document_start": "2008-12-01",
   "document_end": "2016-12-31",
-  "in_force": "2008-12-01",
+  "in_force": "2017-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2008-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
