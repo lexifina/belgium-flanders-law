@@ -8,7 +8,10 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 21 november 2008 betref
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° de minister : de Vlaamse   minister, bevoegd voor de culturele aangelegenheden;<BR>2° administratie: het   Departement Cultuur, Jeugd, Sport en Media van het Vlaams Ministerie van   Cultuur, Jeugd, Sport en Media;<BR>3° het decreet : het decreet van 21 november   2008 betreffende de ondersteuning van de circuskunsten in   Vlaanderen.
+In dit besluit wordt verstaan onder :<br>
+1° de minister : de Vlaamse minister, bevoegd voor de culturele aangelegenheden;<br>
+2° administratie: het Departement Cultuur, Jeugd en Media van het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media;<br>
+3° het decreet : het decreet van 21 november 2008 betreffende de ondersteuning van de circuskunsten in Vlaanderen.
 
 ## HOOFDSTUK II. Subsidiëring van de creatie van circuskunstproducties
 
