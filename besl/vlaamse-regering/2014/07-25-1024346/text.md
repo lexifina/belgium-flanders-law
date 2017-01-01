@@ -92,7 +92,7 @@ d) het Openbaar Psychiatrisch Zorgcentrum Geel;<br>
 e) het Openbaar Psychiatrisch Zorgcentrum Rekem;<br>
 f) Kind en Gezin;<br>
 g) het Vlaams Agentschap voor Personen met een Handicap;<br>
-h) het Vlaams Zorgfonds;<br>
+h) het Agentschap voor Vlaamse Sociale Bescherming;<br>
 i) het Fonds Jongerenwelzijn;<br>
 j) het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
 k) het Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg;<br>
@@ -214,6 +214,14 @@ De besluiten van de Vlaamse Regering en de samenwerkingsakkoorden van de   Vlaam
 ### ART. 16.
 
 Als de minister-president of een lid van de Vlaamse Regering afwezig of   verhinderd is, wordt een regeling voor plaatsvervanging getroffen.
+
+### ART 16/1.
+
+§ 1. De beslissingen van de Vlaamse Regering en de documenten waarop ze betrekking hebben, worden systematisch gepubliceerd op de centrale website van de Vlaamse overheid.<br>
+<br>
+Het eerste lid is niet van toepassing op de beslissingen met individuele strekking.<br>
+<br>
+§ 2. Met toepassing van artikel 5/3, § 2, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, kunnen de adviezen van de Raad van State over voorontwerpen van decreet die niet zijn ingediend, de amendementen erop, en de ontwerpen van besluiten die niet zijn bekendgemaakt in het Belgisch Staatsblad, alsook de teksten van die voorontwerpen, amendementen en ontwerpbesluiten worden bekendgemaakt door de Raad van State na de ontbinding van het Vlaams Parlement.
 
 ## HOOFDSTUK 4 Overgangs- en slotbepalingen
 
