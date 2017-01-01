@@ -44,7 +44,23 @@ Een   MFC kan gebruikers opnemen tot en met de leeftijd van eenentwintig   jaar.
 
 ### ART. 9.
 
-<P>§   1. In dit artikel wordt verstaan onder FAM : een flexibel aanbodcentrum voor   meerderjarige personen met een handicap als vermeld in artikel 2 van het besluit   van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring   van flexibele aanbodcentra voor meerderjarige personen met een   handicap.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De gebruiker die in een MFC verblijft en de leeftijd van eenentwintig jaar   heeft bereikt, kan verder ondersteund worden door een MFC tot en met de leeftijd   van vijfentwintig jaar in de volgende gevallen :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de gebruiker komt niet in aanmerking voor opvang door een FAM;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de gebruiker komt in aanmerking voor opvang door een FAM, maar wil er op korte   termijn geen gebruik van maken;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de gebruiker komt in aanmerking voor opvang door een FAM, heeft een zware   ondersteuningsnood en heeft nog geen plaats in een FAM.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. De opname van de gebruiker, vermeld in paragraaf 2, 1° en 2°, heeft tot doel   :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de afronding van zijn schoolloopbaan;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de versterking van het netwerk van de jongvolwassene, met het oog op een zo   groot mogelijke autonomie en zelfzorg en op een zo inclusief mogelijke   opvang;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de begeleide doorstroom naar gezondheids- of welzijnsvoorzienigen of, in   voorkomend geval, naar een FAM.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   gebruiker die in een MFC met module diagnostiek verblijft en de leeftijd van   eenentwintig jaar heeft bereikt, kan in dat MFC blijven ter afronding van zijn   traject dat maximaal zesendertig maanden duurt.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   4. In het geval, vermeld in paragraaf 2, 3°, moet de gebruiker beschikken over   een beslissing tot toewijzing van ondersteuningsveld Z71, Z76, Z80, of Z85 als   vermeld in het ministerieel besluit van 1 maart 2012.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. In dit artikel wordt verstaan onder het besluit van 27 november 2015 het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget.</p>
+
+<p>§ 2. De gebruiker die in een MFC verblijft en de leeftijd van eenentwintig jaar heeft bereikt, kan verder ondersteund worden door een MFC tot en met de leeftijd van vijfentwintig jaar in de volgende gevallen :<br>
+1° de gebruiker komt niet in aanmerking voor een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in artikel 17, eerste lid, van het besluit van 27 november 2015;<br>
+2° ...;<br>
+3° de gebruiker is een budgetcategorie toegekend met toepassing van artikel 17, eerste lid, van het besluit van 27 november 2015, heeft een zware ondersteuningsnood en heeft nog geen plaats in een FAM.</p>
+
+<p>§ 3. De&nbsp;ondersteuning van de gebruiker, vermeld in paragraaf 2, 1°, heeft tot doel :<br>
+1° de afronding van zijn schoolloopbaan;<br>
+2° de versterking van het netwerk van de jongvolwassene, met het oog op een zo groot mogelijke autonomie en zelfzorg en op een zo inclusief mogelijke opvang;<br>
+3° de begeleide doorstroom naar gezondheids- of welzijnsvoorzienigen.<br>
+<br>
+Indien de ondersteuning van de gebruiker, vermeld in paragraaf 2, 1°, niet het afronden van de schoolloopbaan tot doel heeft, gebeurt de ondersteuning in de vorm van de begeleiding, vermeld in artikel 10, § 5.</p>
+
+<p>De gebruiker die in een MFC met module diagnostiek verblijft en de leeftijd van eenentwintig jaar heeft bereikt, kan in dat MFC blijven ter afronding van zijn traject dat maximaal zesendertig maanden duurt.</p>
+
+<p>§ 4. In het geval, vermeld in paragraaf 2, 3°, moet de gebruiker beschikken over een toewijzing van minimaal budgetcategorie V als vermeld in artikel 17 van het besluit van 27 november 2015.</p>
 
 ## HOOFDSTUK 4 Opdracht
 
@@ -128,7 +144,33 @@ De   werkingssubsidies worden verminderd met de niet-geïnde bijdrage, vermeld i
 
 ### ART. 27.
 
-&nbsp;De bepalingen van hoofdstuk 4, afdeling   2, van het besluit van de Vlaamse Regering van 26 februari 2016 houdende   erkenning en subsidiëring van flexibele aanbodcentra voor meerderjarige personen   met een handicap, zijn van toepassing voor de gebruiker, vermeld in artikel 9   van dit besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+§ 1. Er wordt aan de gebruiker, vermeld in artikel 9, een eigen financiële bijdrage gevraagd. Bijlage 2, opgenomen in de bijlage die bij dit besluit is gevoegd, bepaalt de maximale eigen financiële bijdrage die kan gevraagd worden per ondersteuningsfunctie.<br>
+<br>
+De bijdrage per dag kan nooit hoger zijn dan de bijdrage voor woonondersteuning respectievelijk voor -21-jarigen of voor +21-jarigen. Als verschillende MFC's tegelijk ondersteuning bieden aan een gebruiker, regelen ze de verdeling van de maximale bijdrage onderling.<br>
+<br>
+Voor individuele praktische hulp, globale ondersteuning en oproepbare permanentie mag geen bijdrage gevraagd worden.<br>
+<br>
+Aan gebruikers die een financiële bijdrage betalen, mogen alleen nog persoonlijke, individueel toewijsbare kosten aangerekend worden.<br>
+<br>
+Die kosten kunnen geen betrekking hebben op infrastructuur of onderhoud van infrastructuur, energiekosten, vervoer naar de collectieve dagbesteding, kosten en heffingen ten laste van een FAM, kosten voor de collectieve atelierwerking binnen de dagondersteuning of administratiekosten<br>
+<br>
+§ 2. De gebruiker, vermeld in artikel 9, die gebruikmaakt van woonondersteuning en daarvoor de financiële bijdrage betaalt, behoudt 357,39 euro per maand van zijn persoonlijke inkomsten of minstens een derde van zijn arbeidsinkomen of vervangingsinkomen dat gebonden is aan een vroeger arbeidsinkomen, als hij voldoet aan een van de volgende voorwaarden :<br>
+1° hij is bekwaam om tewerkgesteld te worden of in een erkend maatwerkbedrijf te werken;<br>
+2° hij heeft alleen motorische of zintuiglijke of licht mentale beperkingen of een niet-aangeboren hersenletsel.<br>
+<br>
+Een andere gebruiker dan de gebruiker, vermeld in het eerste lid, die gebruikmaakt van woonondersteuning en daarvoor de financiële bijdrage betaalt, en die niet bekwaam is om in een erkend maatwerkbedrijf te werken, behoudt 190,61 euro per maand van zijn persoonlijke inkomsten.<br>
+<br>
+De gebruiker, vermeld in artikel 9, die alleen gebruikmaakt van dagondersteuning en daarvoor de financiële bijdrage betaalt, behoudt 357,39 euro per maand van zijn persoonlijke inkomsten. Dezelfde gebruiker met een vervangingsinkomen dat gebonden is aan een vroeger arbeidsinkomen, behoudt minstens een derde van dat inkomen.<br>
+<br>
+§ 3. Een MFC kent de gebruiker, vermeld in artikel 9, die gebruikmaakt van woonondersteuning en daarvoor de financiële bijdrage betaalt, vanuit zijn werkingssubsidies de socioculturele toelage toe, op voorwaarde dat de toelage besteed wordt door de gebruiker of zijn bewindvoerder voor activiteiten of diensten die bijdragen tot de sociale integratie of tot de handhaving ervan. Voor een gebruiker als vermeld in artikel 9 met motorische of zintuiglijke beperkingen bedraagt de toelage 2,2780 euro per nacht, vermeerderd met factor 1,65. Voor een gebruiker als vermeld in artikel 9 met lichte of matige mentale beperkingen bedraagt de toelage 1,4807 euro per nacht, vermeerderd met factor 1,65. Op jaarbasis wordt de socioculturele toelage begrensd tot respectievelijk maximaal 365 dagen of 366 dagen.<br>
+<br>
+§ 4. De inkomsten voor een gehuwde of wettelijk samenwonende gebruiker, vermeld in artikel 9, worden berekend door de inkomsten van de gehuwden of wettelijk samenwonenden te delen door twee als dat voordeliger is voor de gebruiker.<br>
+<br>
+Met behoud van de toepassing van eventuele rechterlijke beslissingen over de onderhoudsplicht wordt het bedrag dat deze gebruiker behoudt uit zijn persoonlijke inkomsten of uit een derde van zijn arbeidsinkomen of vervangingsinkomen dat gebonden is aan een vroeger arbeidsinkomen, verhoogd met 200 euro per kind ten laste. Dat bedrag is gekoppeld aan de spilindex van de consumptieprijzen, geldig op 1 januari 2008.<br>
+<br>
+§ 5. De bedragen, vermeld in dit artikel, zijn gekoppeld aan de spilindex van de consumptieprijzen, daarvoor berekend en benoemd in het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De basis is de spilindex die geldig is op 1 januari 2014.<br>
+<br>
+De bedragen, vermeld in het eerste lid, worden telkens op 1 januari en 1 juli aangepast overeenkomstig de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening moet worden gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen aan het indexcijfer van de consumptieprijzen worden gekoppeld.
 
 ## Onderafdeling 3 Gemeenschappelijke bepalingen
 
@@ -213,3 +255,47 @@ De   Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de  
 ### BIJLAGE
 
 Tabel   1. De tabel, vermeld in artikel 4, tweede lid<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; TEXT-TRANSFORM: none; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>functie</TD>      <TD>barema</TD>      <TD>functiegroep</TD>      <TD>Punten-<BR>waarde<BR></TD></TR>    <TR>      <TD>&nbsp;</TD>      <TD>&nbsp;</TD>      <TD>1 zorggebonden personeel</TD>      <TD><BR></TD></TR>    <TR>      <TD>1</TD>      <TD>L4</TD>      <TD>logistiek personeel klasse 4</TD>      <TD>53,5<BR></TD></TR>    <TR>      <TD>2</TD>      <TD>L4 ond II</TD>      <TD>logistiek onderhoud categorie II</TD>      <TD>53,5<BR></TD></TR>    <TR>      <TD>3</TD>      <TD>L4 ond III</TD>      <TD>logistiek onderhoud categorie III</TD>      <TD>53,5<BR></TD></TR>    <TR>      <TD>4</TD>      <TD>L3 ond IV</TD>      <TD>logistiek onderhoud categorie IV</TD>      <TD>56<BR></TD></TR>    <TR>      <TD>5</TD>      <TD>L2 ond V</TD>      <TD>logistiek onderhoud categorie V</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>6</TD>      <TD>L3a</TD>      <TD>logistiek klasse 3</TD>      <TD>56<BR></TD></TR>    <TR>      <TD>7</TD>      <TD>L3</TD>      <TD>logistiek klasse 3</TD>      <TD>56<BR></TD></TR>    <TR>      <TD>8</TD>      <TD>L2</TD>      <TD>logistiek personeel klasse 2</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>9</TD>      <TD>A2</TD>      <TD>logistiek personeel klasse 2</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>10</TD>      <TD>A1</TD>      <TD>logistiek personeel klasse 1</TD>      <TD>71<BR></TD></TR>    <TR>      <TD>11</TD>      <TD>MV2</TD>      <TD>verzorgend personeel</TD>      <TD>67<BR></TD></TR>    <TR>      <TD>12</TD>      <TD>B3</TD>      <TD>begeleidend-verzorgend klasse 3</TD>      <TD>57,5<BR></TD></TR>    <TR>      <TD>13</TD>      <TD>B2B</TD>      <TD>begeleidend-verzorgend klasse 2B</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>14</TD>      <TD>B2A</TD>      <TD>begeleidend-verzorgend klasse 2A</TD>      <TD>63,5<BR></TD></TR>    <TR>      <TD>15</TD>      <TD>B1C</TD>      <TD>opvoedend personeel klasse 1</TD>      <TD>71<BR></TD></TR>    <TR>      <TD>16</TD>      <TD>B1b</TD>      <TD>hoofdopvoeder</TD>      <TD>79<BR></TD></TR>    <TR>      <TD>17</TD>      <TD>B1A</TD>      <TD>opvoeder groepschef</TD>      <TD>86<BR></TD></TR>    <TR>      <TD>18</TD>      <TD>MV1</TD>      <TD>sociaal paramedisch en therapeutisch personeel</TD>      <TD>71<BR></TD></TR>    <TR>      <TD>19</TD>      <TD>B1b</TD>      <TD>diensthoofd sociaal paramedisch of therapeutisch personeel</TD>      <TD>79<BR></TD></TR>    <TR>      <TD>20</TD>      <TD>B1A</TD>      <TD>coördinator sociaal paramedisch of therapeutisch personeel</TD>      <TD>86<BR></TD></TR>    <TR>      <TD>21</TD>      <TD>L1</TD>      <TD>licentiaten</TD>      <TD>90<BR></TD></TR>    <TR>      <TD>22</TD>      <TD>G1</TD>      <TD>geneesheer omnipracticus</TD>      <TD>108<BR></TD></TR>    <TR>      <TD>23</TD>      <TD>GS</TD>      <TD>geneesheer specialist</TD>      <TD>143,5<BR></TD></TR>    <TR>      <TD>24</TD>      <TD>B2B</TD>      <TD>adl-assistent</TD>      <TD>61<BR></TD></TR></TBODY></TABLE><BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; TEXT-TRANSFORM: none; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>Barema</TD>      <TD>functiegroep</TD>      <TD>Punten-<BR>waarde<BR></TD></TR>    <TR>      <TD>&nbsp;</TD>      <TD>&nbsp;2 organisatiegebonden personeel</TD>      <TD><BR></TD></TR>    <TR>      <TD>L4</TD>      <TD>logistiek personeel klasse 4</TD>      <TD>53,5<BR></TD></TR>    <TR>      <TD>L4 ond II</TD>      <TD>logistiek onderhoud categorie II</TD>      <TD>53,5<BR></TD></TR>    <TR>      <TD>L4 ond III</TD>      <TD>logistiek onderhoud categorie III</TD>      <TD>53,5<BR></TD></TR>    <TR>      <TD>L3 ond IV</TD>      <TD>logistiek onderhoud categorie IV</TD>      <TD>56 waardewaardewaarde<BR></TD></TR>    <TR>      <TD>L2 ond V</TD>      <TD>logistiek onderhoud categorie V</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>L3a</TD>      <TD>logistiek klasse 3</TD>      <TD>56<BR></TD></TR>    <TR>      <TD>L3</TD>      <TD>logistiek klasse 3</TD>      <TD>56<BR></TD></TR>    <TR>      <TD>L2</TD>      <TD>logistiek personeel klasse 2</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>A2</TD>      <TD>logistiek personeel klasse 2</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>A1</TD>      <TD>logistiek personeel klasse 1</TD>      <TD>71 waardewaarde<BR></TD></TR>    <TR>      <TD>A1</TD>      <TD>administratie klasse 1</TD>      <TD>71<BR></TD></TR>    <TR>      <TD>A2</TD>      <TD>administratie klasse 2</TD>      <TD>61<BR></TD></TR>    <TR>      <TD>A2 boekh kl II</TD>      <TD>administratief personeel boekhouder klasse II</TD>      <TD>61,5<BR></TD></TR>    <TR>      <TD>A3</TD>      <TD>administratief personeel klasse III</TD>      <TD>56<BR></TD></TR>    <TR>      <TD>K5</TD>      <TD>onderdirecteur</TD>      <TD>90 waardewaarde<BR></TD></TR>    <TR>      <TD>K3</TD>      <TD>directeur 30-59 bedden</TD>      <TD>93,5 waardewaarde<BR></TD></TR>    <TR>      <TD>K2</TD>      <TD>directeur 60-89 bedden</TD>      <TD>96,5<BR></TD></TR>    <TR>      <TD>K1</TD>      <TD>directeur +90 bedden</TD>      <TD>100<BR></TD></TR></TBODY></TABLE><BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Tabel   2. Vorken per ondersteuningsfunctie. De tabel, vermeld in artikel 35, derde   lid<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; TEXT-TRANSFORM: none; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>ondersteuningsfunctie<BR></TD></TR>    <TR>      <TD>begeleiding<BR></TD></TR>    <TR>      <TD>schoolaanvullende dagopvang<BR>2-4 dagen per maand<BR>2-3 dagen per         week<BR>4-5 dagen per week<BR>6-7 dagen per week<BR></TD></TR>    <TR>      <TD>schoolvervangende dagopvang<BR>2-4 dagen per maand<BR>2-3 dagen per         week<BR>4-5 dagen per week<BR>6-7 dagen per week<BR></TD></TR>    <TR>      <TD>verblijf<BR>2-4 nachten per maand<BR>2-3 nachten per week<BR>4-5         nachten per week<BR>6-7 nachten per week<BR></TD></TR></TBODY></TABLE><BR   class=Apple-interchange-newline>
+
+### BIJLAGE 2
+
+Bijlage 2 De eigen financiële bijdrage, vermeld in artikel 27, § 1, eerste lid<br>
+<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>ONDERSTEUNINGS-<br>
+			FUNCTIE</td>
+			<td>leeftijd</td>
+			<td>maximale bijdrage</td>
+			<td>bijkomende bepalingen</td>
+		</tr>
+		<tr>
+			<td>dagondersteuning</td>
+			<td>meer dan 21 jaar zonder vervoer</td>
+			<td>4,76 euro per dagdeel</td>
+			<td rowspan="4">De maximale bijdrage per dag (voor dagondersteuning, woonondersteuning en individuele begeleiding samen) mag nooit meer dan 33,35 euro bedragen voor gebruikers ouder dan 21 jaar, en 16,66 euro voor gebruikers jonger dan 21 jaar.<br>
+			Er mogen maximaal twee uren psychosociale begeleiding per dag aangerekend worden.<br>
+			Er mogen geen vervoerskosten aangerekend worden voor mobiele individuele ondersteuning.</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;meer dan 21 jaar met vervoer</td>
+			<td>5,96 euro per dagdeel</td>
+		</tr>
+		<tr>
+			<td>woonondersteuning</td>
+			<td>meer dan 21 jaar</td>
+			<td>33,35 euro per nacht verblijf, met inbegrip van de ondersteuning gedurende de avond en ochtend</td>
+		</tr>
+		<tr>
+			<td>individuele psychosociale begeleiding</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;maximaal 5 euro per uur individuele ondersteuning</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De bedragen, vermeld in deze tabel, zijn gekoppeld aan de spilindex van de consumptieprijzen, daarvoor berekend en benoemd in het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De basis is de spilindex die geldig is op 1 januari 2014.<br>
+<br>
+De bedragen, vermeld in het eerste lid, worden telkens op 1 januari en 1 juli aangepast overeenkomstig de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening moet worden gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen aan het indexcijfer van de consumptieprijzen worden gekoppeld.
