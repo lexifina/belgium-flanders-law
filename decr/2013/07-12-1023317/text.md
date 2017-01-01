@@ -14,7 +14,59 @@ Dit decreet wordt aangehaald als : het Onroerenderfgoeddecreet van 12 juli   201
 
 ### ART. 2.1.
 
-In dit decreet wordt verstaan onder :<BR>1° administratieve overheid : de   federale overheidsbedrijven, het Vlaamse Gewest, de openbare instellingen die   ervan afhangen, de publiekrechtelijke en privaatrechtelijke instellingen die   belast zijn met taken van openbaar nut en de andere besturen die onderworpen   zijn aan het administratief toezicht van het Vlaamse Gewest;<BR>2° agentschap :   de entiteit die door de Vlaamse Regering belast is met de beleidsvoorbereiding,   de beleidsuitvoering, de beleidsmonitoring en de beleidsevaluatie inzake   onroerend erfgoed;<BR>3° algemene landschapszorg : het stimuleren van het   behoud, het herstel en de ontwikkeling van cultuurhistorische,   fysisch-geografische en esthetische landschapswaarden en van typische   landschapskenmerken waaronder kleine landschapselementen;<BR>4° archeologie :   het bestuderen van overblijfselen en voorwerpen of een ander spoor van menselijk   bestaan in het verleden, alsook de bestaansomgeving van de mens, waarvan het   behoud en de bestudering bijdragen tot het reconstrueren van de   bestaansgeschiedenis van de mensheid en haar relatie tot de natuurlijke omgeving   en ten aanzien waarvan opgravingen, ontdekkingen en andere methoden van   onderzoek betreffende de mensheid en haar omgeving betekenisvolle bronnen van   informatie zijn;<BR>5° archeologisch artefact : een roerend goed dat van   algemeen belang is wegens de archeologische erfgoedwaarde;<BR>6° archeologisch   ensemble : het geheel van archeologische artefacten en onderzoeksdocumenten   afkomstig van een archeologisch onderzoek;<BR>7° archeologisch onderzoek : het   gebruik van technieken en methoden waarmee archeologische sites, archeologische   zones of delen ervan worden opgespoord en onderzocht met inbegrip van   archeologisch vooronderzoek en archeologische opgravingen;<BR>8° archeologisch   vooronderzoek : het gebruik van wetenschappelijke methoden en technieken waarmee   doelbewust archeologische artefacten en archeologische sites worden opgespoord   en gewaardeerd zonder de erfgoedwaarden in situ wezenlijk aan te tasten, te   onderscheiden in archeologisch vooronderzoek met ingreep in de bodem met   mogelijks enig effect op de erfgoedwaarden in situ zoals de aanleg van   proefsleuven, proefputten, vlakken of andere intrusieve methoden met grondverzet   en archeologisch vooronderzoek zonder ingreep in de bodem zonder aanwending van   grondwerkzaamheden of activiteiten die enig effect hebben op de erfgoedwaarden   in situ. Voorbeelden van archeologisch vooronderzoek zonder ingreep in de bodem   zijn veldprospectie, luchtfotografische prospectie, geofysische prospectie en   archivalisch onderzoek;<BR>9° archeologische opgraving : het gebruik van   wetenschappelijke methoden en technieken waarmee doelbewust de ondergrondse, aan   de oppervlakte of onder water aanwezige archeologische artefacten en   archeologische sites worden opgespoord, vrijgelegd en door opgraving worden   onderzocht en waarbij de archeologische artefacten en onderzoeksdocumenten   archeologische ensembles vormen;<BR>10° archeologische site : een onroerend goed   dat ondergronds, aan de oppervlakte of onder water aanwezig is, met inbegrip van   de archeologische artefacten die er integrerend deel van uitmaken, van algemeen   belang wegens de archeologische erfgoedwaarde;<BR>11° archeologische zone : zone   waar op basis van waarnemingen en wetenschappelijke argumenten onderbouwd kan   worden dat ze met hoge waarschijnlijkheid archeologische waarde heeft;<BR>12°   archeoloog : een natuurlijke persoon of rechtspersoon die archeologisch   vooronderzoek of archeologische opgravingen uitvoert;<BR>13° beheer : het geheel   van maatregelen, werkzaamheden en handelingen die erop gericht zijn de   erfgoedwaarden van een onroerend goed in stand te houden of te   herstellen;<BR>14° beschermd cultuurhistorisch landschap : een cultuurhistorisch   landschap dat voorlopig of definitief beschermd is overeenkomstig hoofdstuk   6;<BR>15° beschermd goed : een beschermde archeologische site, een beschermd   monument, een beschermd cultuurhistorisch landschap of een beschermd stads- of   dorpsgezicht;<BR>16° beschermd monument : een monument dat voorlopig of   definitief beschermd is overeenkomstig hoofdstuk 6;<BR>17° beschermd stads- of   dorpsgezicht : een stads- of dorpsgezicht dat voorlopig of definitief beschermd   is overeenkomstig hoofdstuk 6;<BR>18° beschermde archeologische site : een   archeologische site die voorlopig of definitief beschermd is overeenkomstig   hoofdstuk 6;<BR>19° bestuursdwang : het handelen vanwege de inspecteur Onroerend   Erfgoed tegen wat in strijd is met de bij of krachtens dit decreet en de   uitvoeringsbesluiten ervan gestelde verplichtingen;<BR>20° beveiligde zending :   een van de volgende betekeningswijzen :<BR>a) een aangetekende brief;<BR>b) een   afgifte tegen ontvangstbewijs;<BR>c) elke andere door de Vlaamse Regering   toegelaten betekeningswijze, waarbij de datum van kennisgeving met zekerheid kan   worden vastgesteld;<BR>21° code van goede praktijk : geschreven en publiek   toegankelijke regels met betrekking tot de uitvoering van en de rapportering   over archeologisch vooronderzoek en archeologische opgravingen en met betrekking   tot het gebruik van detectoren en de bij de betrokken beroepscategorieën   algemeen aanvaarde regels van goed vakmanschap;<BR>22° cultuurhistorisch   landschap : een begrensde grondoppervlakte met een geringe dichtheid van   bebouwing en een onderlinge samenhang waarvan de verschijningsvorm en de   samenhang het resultaat zijn van natuurlijke processen en van maatschappelijke   ontwikkelingen van algemeen belang wegens de erfgoedwaarde;<BR>23°   erfgoedelementen : de structurele en visuele componenten die de eigenheid van   het onroerend erfgoed bepalen en die de waarden vormen die aan de grondslag   liggen van een bescherming;<BR>24° erfgoedkenmerk : typologie, stijl, cultuur,   datering, materiaal, biologische soort, thema of ander kenmerk;<BR>25°   erfgoedlandschap : een gebied dat wegens de erfgoedwaarde overeenkomstig de   geldende regelgeving opgenomen is in een ruimtelijk uitvoeringsplan op basis van   een onroerenderfgoedrichtplan of vastgestelde inventaris;<BR>26° erfgoedwaarde :   de archeologische, architecturale, artistieke, culturele, esthetische,   historische, industrieel-archeologische, technische waarde,   ruimtelijk-structurerende, sociale, stedenbouwkundige, volkskundige of   wetenschappelijke waarde waaraan onroerende goederen en de cultuurgoederen die   er integrerend deel van uitmaken hun huidige of toekomstige maatschappelijke   betekenis ontlenen;<BR>27° gebruiker : de natuurlijke persoon of rechtspersoon   die houder is van een zakelijk of persoonlijk recht, met uitsluiting van de   eigenaar, blote eigenaar, erfpachthouder, opstalhouder of leasinggever;<BR>28°   handelingen : werkzaamheden, wijzigingen of activiteiten met gevolgen voor   erfgoedwaarden;<BR>29° inspecteur Onroerend Erfgoed : de ambtenaar die belast is   met de hem door dit decreet toegewezen handhavingstaken, aangesteld door de   leidend ambtenaar van de entiteit die door de Vlaamse Regering belast is met de   handhaving van de regelgeving inzake onroerend erfgoed op het grondgebied van   het Vlaamse Gewest of een gedeelte ervan;<BR>30° intergemeentelijke   onroerenderfgoeddienst : een intergemeentelijke dienst die ter uitvoering van   dit decreet met betrekking tot het onroerend erfgoed beleidsuitvoerende taken   opneemt;<BR>31° inventaris : een oplijsting van onroerende goederen en gehelen   van onroerende goederen met erfgoedwaarde;<BR>32° kleine landschapselementen :   lijn- of puntvormige elementen, met inbegrip van de bijbehorende vegetaties,   waarvan het uitzicht, de structuur of de aard al dan niet het resultaat zijn van   menselijk handelen en die deel uitmaken van het landschap zoals bermen, bomen,   bronnen, dijken, grachten, houtkanten, hagen, holle wegen, hoogstamboomgaarden,   perceelsrandbegroeiingen, sloten, struwelen, poelen, veedrinkputten en   waterlopen;<BR>33° landschap : een deel van het grondgebied, zoals dat door de   menselijke bevolking wordt waargenomen en waarvan het karakter bepaald wordt   door natuurlijke en/of menselijke factoren en de wisselwerking   daartussen;<BR>34° landschapsatlas : de inventaris van de relicten van de   traditionele landschappen waarin de landschapskenmerken weergegeven worden als   ze een erfgoedwaarde hebben;<BR>35° last onder dwangsom : de door de inspecteur   Onroerend Erfgoed opgelegde last die ertoe strekt de overtreder onder dreiging   van aantasting van zijn vermogen aan te zetten de gevolgen van de inbreuk   ongedaan te maken of verdere inbreuk of herhaling van de inbreuk te   voorkomen;<BR>36° lijninfrastructuur en haar aanhorigheden : het geheel van   infrastructuur en haar omgeving bedoeld voor verkeer en vervoer van mensen,   zaken en goederen en berichten. De lijninfrastructuur omvat autowegen,   waterwegen en waterlopen, spoorwegen, luchthavens, havens, pijpleidingen,   elektriciteitsleidingen, infrastructuur ten behoeve van telecommunicatie,   leidingen voor het vervoer en de verdeling van aardgas, drinkwater en   brandstoffen en leidingen voor het verzamelen en vervoeren van afval- en   hemelwater. Onder aanhorigheden worden alle uitrusting, voorzieningen en   infrastructuur verstaan die nodig of nuttig zijn voor het beheer en de   exploitatie van de lijninfrastructuur;<BR>37° metaaldetectorist : een   natuurlijke persoon of rechtspersoon die met behulp van een metaaldetector   archeologische artefacten of archeologische sites opspoort;<BR>38° monument :   een onroerend goed, werk van de mens of van de natuur of van beide samen, met   inbegrip van de cultuurgoederen die er integrerend deel van uitmaken,   inzonderheid de bijhorende uitrusting en de decoratieve elementen van algemeen   belang wegens de erfgoedwaarde(n);<BR>39° onroerend erfgoed : het geheel van   archeologische sites, monumenten, cultuurhistorische landschappen en stads- en   dorpsgezichten;<BR>40° onroerenderfgoeddepot : een bewaarplaats met een   onderzoeksruimte waar in gecontroleerde omstandigheden archeologische ensembles,   archeologische artefacten of onderdelen van beschermd erfgoed, afkomstig uit het   Vlaamse Gewest, worden bewaard en beheerd;<BR>41° onroerenderfgoedgemeente : een   gemeente die ter uitvoering van dit decreet met betrekking tot het onroerend   erfgoed beleidsuitvoerende taken opneemt;<BR>42° onroerenderfgoedondernemer :   een natuurlijke persoon of rechtspersoon die een of meer disciplines uitoefent   in of diensten levert aan de onroerenderfgoedsector;<BR>43° overgangszone : een   begrensde grondoppervlakte die de erfgoedwaarde van een archeologische site,   monument, cultuurhistorisch landschap of stads- en dorpsgezicht   ondersteunt;<BR>44° SARO : de strategische adviesraad opgericht bij het decreet   van 10 maart 2006 houdende de oprichting van de Strategische Adviesraad   Ruimtelijke Ordening - Onroerend Erfgoed;<BR>45° stads- of dorpsgezicht : een   geheel van een of meer monumenten en/of onroerende goederen met omgevende   bestanddelen zoals beplantingen, omheiningen, waterlopen, bruggen, wegen,   straten en pleinen, van algemeen belang wegens de erfgoedwaarde;<BR>46° VCRO :   Vlaamse Codex Ruimtelijke Ordening;<BR>47° zakelijkrechthouder : de eigenaar,   blote eigenaar, erfpachthouder, opstalhouder of leasinggever.<BR>
+In dit decreet wordt verstaan onder :<br>
+1° administratieve overheid : de federale overheidsbedrijven, het Vlaamse Gewest, de openbare instellingen die ervan afhangen, de publiekrechtelijke en privaatrechtelijke instellingen die belast zijn met taken van openbaar nut en de andere besturen die onderworpen zijn aan het administratief toezicht van het Vlaamse Gewest;<br>
+2° agentschap : de entiteit die door de Vlaamse Regering belast is met de beleidsvoorbereiding, de beleidsuitvoering, de beleidsmonitoring en de beleidsevaluatie inzake onroerend erfgoed;<br>
+3° algemene landschapszorg : het stimuleren van het behoud, het herstel en de ontwikkeling van cultuurhistorische, fysisch-geografische en esthetische landschapswaarden en van typische landschapskenmerken waaronder kleine landschapselementen;<br>
+4° archeologie : het bestuderen van overblijfselen en voorwerpen of een ander spoor van menselijk bestaan in het verleden, alsook de bestaansomgeving van de mens, waarvan het behoud en de bestudering bijdragen tot het reconstrueren van de bestaansgeschiedenis van de mensheid en haar relatie tot de natuurlijke omgeving en ten aanzien waarvan opgravingen, ontdekkingen en andere methoden van onderzoek betreffende de mensheid en haar omgeving betekenisvolle bronnen van informatie zijn;<br>
+5° archeologisch artefact : een roerend goed dat van algemeen belang is wegens de archeologische erfgoedwaarde;<br>
+6° archeologisch ensemble : het geheel van archeologische artefacten en onderzoeksdocumenten afkomstig van een archeologisch onderzoek;<br>
+7° archeologisch onderzoek : het gebruik van technieken en methoden waarmee archeologische sites, archeologische zones of delen ervan worden opgespoord en onderzocht met inbegrip van archeologisch vooronderzoek en archeologische opgravingen;<br>
+8° archeologisch vooronderzoek : het gebruik van wetenschappelijke methoden en technieken waarmee doelbewust archeologische artefacten en archeologische sites worden opgespoord en gewaardeerd zonder de erfgoedwaarden in situ wezenlijk aan te tasten, te onderscheiden in archeologisch vooronderzoek met ingreep in de bodem met mogelijks enig effect op de erfgoedwaarden in situ zoals de aanleg van proefsleuven, proefputten, vlakken of andere intrusieve methoden met grondverzet en archeologisch vooronderzoek zonder ingreep in de bodem zonder aanwending van grondwerkzaamheden of activiteiten die enig effect hebben op de erfgoedwaarden in situ. Voorbeelden van archeologisch vooronderzoek zonder ingreep in de bodem zijn veldprospectie, luchtfotografische prospectie, geofysische prospectie en archivalisch onderzoek;<br>
+9° archeologische opgraving : het gebruik van wetenschappelijke methoden en technieken waarmee doelbewust de ondergrondse, aan de oppervlakte of onder water aanwezige archeologische artefacten en archeologische sites worden opgespoord, vrijgelegd en door opgraving worden onderzocht en waarbij de archeologische artefacten en onderzoeksdocumenten archeologische ensembles vormen;<br>
+10° archeologische site : een onroerend goed dat ondergronds, aan de oppervlakte of onder water aanwezig is, met inbegrip van de archeologische artefacten die er integrerend deel van uitmaken, van algemeen belang wegens de archeologische erfgoedwaarde;<br>
+11° archeologische zone : zone waar op basis van waarnemingen en wetenschappelijke argumenten onderbouwd kan worden dat ze met hoge waarschijnlijkheid archeologische waarde heeft;<br>
+12° archeoloog : een natuurlijke persoon of rechtspersoon die archeologisch vooronderzoek of archeologische opgravingen uitvoert;<br>
+13° beheer : het geheel van maatregelen, werkzaamheden en handelingen die erop gericht zijn de erfgoedwaarden van een onroerend goed in stand te houden of te herstellen;<br>
+14° beschermd cultuurhistorisch landschap : een cultuurhistorisch landschap dat voorlopig of definitief beschermd is overeenkomstig hoofdstuk 6;<br>
+15° beschermd goed : een beschermde archeologische site, een beschermd monument, een beschermd cultuurhistorisch landschap of een beschermd stads- of dorpsgezicht;<br>
+16° beschermd monument : een monument dat voorlopig of definitief beschermd is overeenkomstig hoofdstuk 6;<br>
+17° beschermd stads- of dorpsgezicht : een stads- of dorpsgezicht dat voorlopig of definitief beschermd is overeenkomstig hoofdstuk 6;<br>
+18° beschermde archeologische site : een archeologische site die voorlopig of definitief beschermd is overeenkomstig hoofdstuk 6;<br>
+19° bestuursdwang : het handelen vanwege de inspecteur Onroerend Erfgoed tegen wat in strijd is met de bij of krachtens dit decreet en de uitvoeringsbesluiten ervan gestelde verplichtingen;<br>
+20° beveiligde zending : een van de volgende betekeningswijzen :<br>
+a) een aangetekende brief;<br>
+b) een afgifte tegen ontvangstbewijs;<br>
+c) elke andere door de Vlaamse Regering toegelaten betekeningswijze, waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
+21° code van goede praktijk : geschreven en publiek toegankelijke regels met betrekking tot de uitvoering van en de rapportering over archeologisch vooronderzoek en archeologische opgravingen en met betrekking tot het gebruik van detectoren en de bij de betrokken beroepscategorieën algemeen aanvaarde regels van goed vakmanschap;<br>
+22° cultuurhistorisch landschap : een begrensde grondoppervlakte met een geringe dichtheid van bebouwing en een onderlinge samenhang waarvan de verschijningsvorm en de samenhang het resultaat zijn van natuurlijke processen en van maatschappelijke ontwikkelingen van algemeen belang wegens de erfgoedwaarde;<br>
+23° erfgoedelementen : de structurele en visuele componenten die de eigenheid van het onroerend erfgoed bepalen en die de waarden vormen die aan de grondslag liggen van een bescherming;<br>
+24° erfgoedkenmerk : typologie, stijl, cultuur, datering, materiaal, biologische soort, thema of ander kenmerk;<br>
+25° erfgoedlandschap : een gebied dat wegens de erfgoedwaarde overeenkomstig de geldende regelgeving opgenomen is in een ruimtelijk uitvoeringsplan op basis van een onroerenderfgoedrichtplan of vastgestelde inventaris;<br>
+26° erfgoedwaarde : de archeologische, architecturale, artistieke, culturele, esthetische, historische, industrieel-archeologische, technische waarde, ruimtelijk-structurerende, sociale, stedenbouwkundige, volkskundige of wetenschappelijke waarde waaraan onroerende goederen en de cultuurgoederen die er integrerend deel van uitmaken hun huidige of toekomstige maatschappelijke betekenis ontlenen;<br>
+27° gebruiker : de natuurlijke persoon of rechtspersoon die houder is van een zakelijk of persoonlijk recht, met uitsluiting van de eigenaar, blote eigenaar, erfpachthouder, opstalhouder of leasinggever;<br>
+28° handelingen : werkzaamheden, wijzigingen of activiteiten met gevolgen voor erfgoedwaarden;<br>
+29° inspecteur Onroerend Erfgoed : de ambtenaar die belast is met de hem door dit decreet toegewezen handhavingstaken, aangesteld door de leidend ambtenaar van de entiteit die door de Vlaamse Regering belast is met de handhaving van de regelgeving inzake onroerend erfgoed op het grondgebied van het Vlaamse Gewest of een gedeelte ervan;<br>
+30° intergemeentelijke onroerenderfgoeddienst : een intergemeentelijke dienst die ter uitvoering van dit decreet met betrekking tot het onroerend erfgoed beleidsuitvoerende taken opneemt;<br>
+31° inventaris : een oplijsting van onroerende goederen en gehelen van onroerende goederen met erfgoedwaarde;<br>
+31° /1 kerkenbeleidsplan: een schriftelijk document dat eerst door het representatief orgaan van de betrokken eredienst en vervolgens door de gemeente- of de provincieraad werd goedgekeurd en dat een lokaal gedragen langetermijnvisie biedt voor alle gebouwen die bestemd zijn voor de betrokken eredienst op het grondgebied van de gemeente of provincie. De langetermijnvisie moet minimaal volgende basisgegevens bevatten: a) een beschrijving van de betrokken gebouwen bestemd voor de eredienst, met onder meer hun cultuurhistorische waarde, hun architecturale mogelijkheden, hun bouwfysische toestand; b) de situering van elk gebouw bestemd voor de eredienst in zijn ruimtelijke omgeving; c) een beschrijving van het actueel gebruik en de actuele functie van de betrokken gebouwen bestemd voor de eredienst en d) een onderbouwde visie op het toekomstig gebruik en de toekomstige functie van de betrokken gebouwen, inclusief een plan van aanpak hoe de toekomstige invulling met nevenfuncties of herbestemming ervan zal worden onderzocht;<br>
+32° kleine landschapselementen : lijn- of puntvormige elementen, met inbegrip van de bijbehorende vegetaties, waarvan het uitzicht, de structuur of de aard al dan niet het resultaat zijn van menselijk handelen en die deel uitmaken van het landschap zoals bermen, bomen, bronnen, dijken, grachten, houtkanten, hagen, holle wegen, hoogstamboomgaarden, perceelsrandbegroeiingen, sloten, struwelen, poelen, veedrinkputten en waterlopen;<br>
+33° landschap : een deel van het grondgebied, zoals dat door de menselijke bevolking wordt waargenomen en waarvan het karakter bepaald wordt door natuurlijke of menselijke factoren en de wisselwerking daartussen;<br>
+34° landschapsatlas : de inventaris van de relicten van de traditionele landschappen waarin de landschapskenmerken weergegeven worden als ze een erfgoedwaarde hebben;<br>
+35° last onder dwangsom : de door de inspecteur Onroerend Erfgoed opgelegde last die ertoe strekt de overtreder onder dreiging van aantasting van zijn vermogen aan te zetten de gevolgen van de inbreuk ongedaan te maken of verdere inbreuk of herhaling van de inbreuk te voorkomen;<br>
+36° lijninfrastructuur en haar aanhorigheden : het geheel van infrastructuur en haar omgeving bedoeld voor verkeer en vervoer van mensen, zaken en goederen en berichten. De lijninfrastructuur omvat autowegen, waterwegen en waterlopen, spoorwegen, luchthavens, havens, pijpleidingen, elektriciteitsleidingen, infrastructuur ten behoeve van telecommunicatie, leidingen voor het vervoer en de verdeling van aardgas, drinkwater en brandstoffen en leidingen voor het verzamelen en vervoeren van afval- en hemelwater. Onder aanhorigheden worden alle uitrusting, voorzieningen en infrastructuur verstaan die nodig of nuttig zijn voor het beheer en de exploitatie van de lijninfrastructuur;<br>
+37° metaaldetectorist : een natuurlijke persoon of rechtspersoon die met behulp van een metaaldetector archeologische artefacten of archeologische sites opspoort;<br>
+38° monument : een onroerend goed, werk van de mens of van de natuur of van beide samen, met inbegrip van de cultuurgoederen die er integrerend deel van uitmaken, inzonderheid de bijhorende uitrusting en de decoratieve elementen van algemeen belang wegens de erfgoedwaarde(n);<br>
+38° /1 monument, bestemd voor een erkende eredienst: de gebouwen vermeld in artikel 4, 81, 117, 153, 189 en 232 van het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten, voor zover ze bestemd zijn voor de eredienst en ook als dusdanig worden gebruikt;<br>
+39° onroerend erfgoed : het geheel van archeologische sites, monumenten, cultuurhistorische landschappen en stads- en dorpsgezichten;<br>
+40° onroerenderfgoeddepot : een bewaarplaats met een onderzoeksruimte waar in gecontroleerde omstandigheden archeologische ensembles, archeologische artefacten of onderdelen van beschermd erfgoed, afkomstig uit het Vlaamse Gewest, worden bewaard en beheerd;<br>
+41° onroerenderfgoedgemeente : een gemeente die ter uitvoering van dit decreet met betrekking tot het onroerend erfgoed beleidsuitvoerende taken opneemt;<br>
+42° onroerenderfgoedondernemer : een natuurlijke persoon of rechtspersoon die een of meer disciplines uitoefent in of diensten levert aan de onroerenderfgoedsector;<br>
+43° overgangszone : een begrensde grondoppervlakte die de erfgoedwaarde van een archeologische site, monument, cultuurhistorisch landschap of stads- en dorpsgezicht ondersteunt;<br>
+44° SARO : de strategische adviesraad opgericht bij het decreet van 10 maart 2006 houdende de oprichting van de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br>
+45° stads- of dorpsgezicht : een geheel van een of meer monumenten of onroerende goederen met omgevende bestanddelen zoals beplantingen, omheiningen, waterlopen, bruggen, wegen, straten en pleinen, van algemeen belang wegens de erfgoedwaarde;<br>
+46° VCRO : Vlaamse Codex Ruimtelijke Ordening;<br>
+47° zakelijkrechthouder : de eigenaar, blote eigenaar, erfpachthouder, opstalhouder of leasinggever.
 
 ## HOOFDSTUK 3 Instanties en actoren van het onroerenderfgoedbeleid
 
@@ -144,7 +196,7 @@ De opname van een onroerend goed in een vastgestelde inventaris vormt,   uitgezo
 
 ### ART. 4.1.10.
 
-<P>Als voor het verwijderen van een onroerend goed opgenomen in de vastgestelde   inventaris bouwkundig erfgoed of van een onroerend goed, opgenomen in de   vastgestelde inventaris van houtige beplantingen met erfgoedwaarde een   vergunning vereist is, wint de vergunningverlenende overheid advies in bij het   agentschap. Als de vergunningverlenende overheid een onroerenderfgoedgemeente   is, wint deze het advies in van een deskundig medewerker van de eigen diensten   of de intergemeentelijke onroerenderfgoeddienst waar de gemeente deel van   uitmaakt. Dat advies is onderworpen aan de algemene procedurevoorschriften en   termijnen die gelden voor andere adviezen die ingewonnen moeten worden binnen de   toepasselijke vergunningsprocedure.<BR></P>  <P>De Vlaamse Regering kan daarvoor de nadere regels   bepalen.<BR></P>
+Als voor de sloop van een onroerend goed opgenomen in de vastgestelde inventaris van het bouwkundig erfgoed of voor de kap van een onroerend goed, opgenomen in de vastgestelde inventaris van houtige beplantingen met erfgoedwaarde een vergunning vereist is, motiveert de vergunningverlenende overheid haar beslissing en geeft ze in haar beslissing aan hoe ze de erfgoedwaarden in acht heeft genomen.
 
 ### ART. 4.1.11.
 
@@ -170,27 +222,51 @@ Het is verboden zonder erkenning als metaaldetectorist of in afwijking van   de 
 
 ### ART. 5.1.3.
 
-&nbsp;Het is verboden zonder toelating van het agentschap en zonder   melding aan het agentschap of in voorkomend geval aan de erkende   onroerenderfgoedgemeente een archeologisch vooronderzoek met ingreep in de   bodem, een archeologische opgraving of graafwerken uit te voeren met de   bedoeling archeologische sites op te sporen en vrij te leggen of archeologische   artefacten uit hun originele context te verwijderen.<BR>
+Het is verboden zonder toelating van het agentschap of in voorkomend geval van de erkende onroerenderfgoedgemeente&nbsp;en zonder melding aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente een archeologisch vooronderzoek met ingreep in de bodem, een archeologische opgraving of graafwerken uit te voeren met de bedoeling archeologische sites op te sporen en vrij te leggen of archeologische artefacten uit hun originele context te verwijderen.
 
 ## Onderafdeling 4 Toevalsvondsten
 
 ### ART. 5.1.4.
 
-<P>Iedereen die, op een ander moment dan bij het uitvoeren van een archeologisch   vooronderzoek, een archeologische opgraving of het gebruik van een   metaaldetector, een roerend of onroerend goed vindt waarvan hij weet of   redelijkerwijs moet vermoeden dat het archeologische erfgoedwaarde heeft, is   verplicht daarvan binnen drie dagen aangifte te doen bij het agentschap. De   Vlaamse Regering kan de nadere regels daarvoor bepalen.<BR></P>  <P>In voorkomend geval brengt het agentschap de zakelijkrechthouder en de   gebruiker van de betrokken percelen, als ze niet de vinder zijn, en de gemeenten   waar de vondsten worden gedaan ervan op de hoogte dat er vondsten zijn gedaan   die vermoedelijk archeologische erfgoedwaarde hebben en wat de rechtsgevolgen   daarvan zijn.<BR></P>  <P>De zakelijkrechthouder, de gebruiker en de vinder moeten tot de tiende dag na   de aangifte :<BR>1° de archeologische artefacten en hun vindplaats in   onveranderde toestand bewaren;<BR>2° de archeologische artefacten en hun context   tegen beschadiging of vernieling beschermen;<BR>3° de archeologische artefacten   en hun context toegankelijk maken voor onderzoek door het agentschap.<BR></P>  <P>De Vlaamse Regering kan de nadere regels daarvoor bepalen.<BR></P>  <P>Na het onderzoek, vermeld in het derde lid, 3°, kan het agentschap de termijn   van tien dagen inkorten of verlengen. Het agentschap brengt de   zakelijkrechthouder en de gebruiker daarvan per beveiligde zending op de hoogte.   Na het verstrijken van de termijn zijn de zakelijkrechthouder, de gebruiker en   de vinder niet langer onderworpen aan het passief-behoudsbeginsel voor   archeologisch erfgoed voor wat betreft de gemelde vondst.<BR></P>
+<p>Iedereen die, op een ander moment dan bij het uitvoeren van een archeologisch vooronderzoek, een archeologische opgraving of het gebruik van een metaaldetector, een roerend of onroerend goed vindt waarvan hij weet of redelijkerwijs moet vermoeden dat het archeologische erfgoedwaarde heeft, is verplicht daarvan binnen drie dagen aangifte te doen bij het agentschap. De Vlaamse Regering kan de nadere regels daarvoor bepalen.</p>
+
+<p>In voorkomend geval brengt het agentschap de zakelijkrechthouder en de gebruiker van de betrokken percelen, als ze niet de vinder zijn, en de gemeenten waar de vondsten worden gedaan ervan op de hoogte dat er vondsten zijn gedaan die vermoedelijk archeologische erfgoedwaarde hebben en wat de rechtsgevolgen daarvan zijn.</p>
+
+<p>De zakelijkrechthouder, de gebruiker en de vinder moeten tot de tiende dag na de aangifte de gevonden goederen, vermeld in het eerste lid, en hun context:<br>
+1° in onveranderde toestand bewaren;<br>
+2° tegen beschadiging of vernieling beschermen;<br>
+3° toegankelijk maken voor archeologisch onderzoek door het agentschap..</p>
+
+<p>De Vlaamse Regering kan de nadere regels daarvoor bepalen.</p>
+
+<p>In functie van het onderzoek, vermeld in het derde lid, 3°, kan het agentschap de termijn van tien dagen inkorten of verlengen. Het agentschap brengt de zakelijkrechthouder en de gebruiker daarvan per beveiligde zending op de hoogte. Na het verstrijken van de termijn zijn de zakelijkrechthouder, de gebruiker en de vinder niet langer onderworpen aan het passief-behoudsbeginsel voor archeologisch erfgoed voor wat betreft de gemelde vondst.</p>
 
 ## Afdeling 2 Verplichtingen zakelijkrechthouders en gebruikers van archeologische artefacten en archeologische ensembles
 
 ### ART. 5.2.1.
 
-<P>De zakelijkrechthouders en de gebruikers van een archeologisch ensemble   moeten het :<BR>1° als een geheel bewaren;<BR>2° in goede staat behouden;<BR>3°   beschikbaar houden voor wetenschappelijk onderzoek.<BR></P>  <P>De zakelijkrechthouder die het beheer van een archeologisch ensemble   toevertrouwt aan een erkend onroerenderfgoeddepot voldoet aan de verplichtingen,   vermeld in het eerste lid.<BR></P>  <P>De Vlaamse Regering kan de nadere regels daarvoor   bepalen.<BR></P>
+<p>De zakelijkrechthouders en de gebruikers van een archeologisch ensemble moeten het :<br>
+1° als een geheel bewaren;<br>
+2° in goede staat behouden;<br>
+3° beschikbaar houden voor wetenschappelijk onderzoek.<br>
+<br>
+In afwijking van het eerste lid, 1°, mogen onderdelen van een archeologisch ensemble gedurende een periode van maximaal vijf jaar uit het archeologisch ensemble worden gelicht voor educatieve, wetenschappelijke of conservatiedoeleinden als daarvoor een schriftelijke overeenkomst is gesloten. De schriftelijke overeenkomst kan meermaals voor een periode van maximaal vijf jaar hernieuwd worden.</p>
+
+<p>De zakelijkrechthouder die het beheer van een archeologisch ensemble toevertrouwt aan een erkend onroerenderfgoeddepot voldoet aan de verplichtingen, vermeld in het eerste lid.</p>
+
+<p>De Vlaamse Regering kan de nadere regels daarvoor bepalen.</p>
 
 ### ART. 5.2.2.
 
-De zakelijkrechthouder of de gebruiker van een archeologisch artefact of   van een archeologisch ensemble, dat afkomstig is uit het Vlaamse Gewest, meldt   binnen dertig dagen elke wijziging van bewaarplaats of zakelijkrechthouder aan   het agentschap. De Vlaamse Regering kan daarvoor de nadere regels   bepalen.<BR>
+De zakelijkrechthouder of de gebruiker van een archeologisch artefact of van een archeologisch ensemble, dat afkomstig is uit het Vlaamse Gewest, meldt binnen dertig dagen elke wijziging van bewaarplaats of zakelijkrechthouder aan het agentschap. De Vlaamse Regering kan daarvoor de nadere regels bepalen.<br>
+<br>
+De zakelijkrechthouder of de gebruiker van een archeologisch artefact of een archeologisch ensemble wordt vrijgesteld van de melding van de wijziging van bewaarplaats, vermeld in het eerste lid, als de wijziging van bewaarplaats maximaal vijf jaar duurt en gebeurt wegens educatieve, wetenschappelijke of conservatiedoeleinden en als daarvoor een schriftelijke overeenkomst wordt gesloten. De schriftelijke overeenkomst kan meermaals voor een periode van maximaal vijf jaar worden hernieuwd. Bij hernieuwing van de overeenkomst is evenmin een melding nodig.
 
 ### ART. 5.2.3.
 
-De zakelijkrechthouder of de gebruiker van een archeologisch artefact of   van een archeologisch ensemble, dat afkomstig is uit het Vlaamse Gewest, meldt   minstens dertig dagen voorafgaand aan het buiten het Vlaamse Gewest brengen   ervan zijn voornemen daartoe aan het agentschap. De Vlaamse Regering kan   daarvoor de nadere regels bepalen.<BR>
+De zakelijkrechthouder of de gebruiker van een archeologisch artefact of van een archeologisch ensemble, dat afkomstig is uit het Vlaamse Gewest, meldt minstens dertig dagen voorafgaand aan het buiten het Vlaamse Gewest brengen ervan zijn voornemen daartoe aan het agentschap. De Vlaamse Regering kan daarvoor de nadere regels bepalen.<br>
+<br>
+De zakelijkrechthouder of de gebruiker van een archeologisch artefact of een archeologisch ensemble wordt vrijgesteld van de melding van zijn voornemen om het buiten het Vlaamse Gewest te brengen, vermeld in het eerste lid, als het buiten het Vlaamse Gewest brengen maximaal vijf jaar duurt en gebeurt wegens educatieve, wetenschappelijke of conservatiedoeleinden en als daarvoor een schriftelijke overeenkomst wordt gesloten. De schriftelijke overeenkomst kan meermaals voor een periode van maximaal vijf jaar worden hernieuwd. Bij hernieuwing van de overeenkomst is evenmin een melding nodig.
 
 ## Afdeling 3 Code van goede praktijk
 
@@ -204,11 +280,36 @@ De Vlaamse Regering stelt een code van goede praktijk vast voor de   uitvoering 
 
 ### ART. 5.4.1.
 
-<P>Een bekrachtigde archeologienota zoals vermeld in artikel 5.4.8 wordt bij de   aanvraag van een stedenbouwkundige vergunning met ingreep in de bodem toegevoegd   in volgende situaties :<BR>1° aanvragen met betrekking tot percelen die gelegen   zijn in een voorlopig of definitief beschermde archeologische site;<BR>2°   aanvragen waarbij de totale oppervlakte van de ingreep in de bodem 100   m<SUP>2</SUP> of meer beslaat en de totale oppervlakte van de kadastrale   percelen waarop de vergunning betrekking heeft 300 m<SUP>2</SUP> of meer   bedraagt en waarbij de betrokken percelen geheel of gedeeltelijk gelegen zijn in   archeologische zones, opgenomen in de vastgestelde inventaris van archeologische   zones;<BR>3° aanvragen waarbij de totale oppervlakte van de ingreep in de bodem   1000 m<SUP>2</SUP> of meer beslaat en de totale oppervlakte van de kadastrale   percelen waarop de vergunning betrekking heeft 3000 m<SUP>2</SUP> of meer   bedraagt en waarbij de percelen volledig gelegen zijn buiten archeologische   zones, opgenomen in de vastgestelde inventaris van archeologische zones.<BR></P>  <P>Voor de toepassing van het eerste lid, 2° en 3°, op terreinen zonder   kadastraal nummer geldt de totale oppervlakte van de hele werf van het te   vergunnen werk.<BR></P>  <P>De aanvrager van een stedenbouwkundige vergunning wordt van die verplichting   vrijgesteld :<BR>1° indien de aanvraag betrekking heeft op een gebied waar geen   archeologisch erfgoed te verwachten valt, zoals vastgesteld door de Vlaamse   Regering;<BR>2° indien de aanvraag betrekking heeft op werkzaamheden binnen het   gabarit van bestaande lijninfrastructuur en haar aanhorigheden;<BR>3° indien de   aanvrager een natuurlijke persoon of privaatrechtelijke rechtspersoon is, de   totale oppervlakte van de ingreep in de bodem minder dan 5000 m<SUP>2</SUP>   beslaat, en de betrokken percelen volledig gelegen zijn buiten woongebied of   recreatiegebied en buiten archeologische zones opgenomen in de vastgestelde   inventaris van archeologische zones en buiten beschermde archeologische   sites.<BR></P>  <P>De Vlaamse Regering kan de nadere regels voor deze vrijstellingen   bepalen.<BR></P>  <P>Voor de toepassing van het derde lid, 3°, op terreinen zonder kadastraal   nummer geldt de totale oppervlakte van de hele werf van het te vergunnen   werk.<BR></P>  <P>De aanvrager van een stedenbouwkundige vergunning met ingreep in de bodem kan   een archeologienota indienen die in het kader van een vorige vergunningsaanvraag   is bekrachtigd, als de stedenbouwkundige vergunning betrekking heeft op   hetzelfde perceel of dezelfde percelen en als de ingreep in de bodem van de te   vergunnen werken overeenkomt met de ingreep in de bodem van de werken omschreven   in de bekrachtigde archeologienota.<BR></P>
+<p>Een bekrachtigde archeologienota zoals vermeld in artikel 5.4.8 en artikel 5.4.12 wordt bij de aanvraag van stedenbouwkundige vergunning met ingreep in de bodem toegevoegd in volgende situaties :<br>
+1° aanvragen met betrekking tot percelen die gelegen zijn in een voorlopig of definitief beschermde archeologische site;<br>
+2° aanvragen waarbij de totale oppervlakte van de ingreep in de bodem 100 m<sup>2</sup> of meer beslaat en de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 300 m<sup>2</sup> of meer bedraagt en waarbij de betrokken percelen geheel of gedeeltelijk gelegen zijn in archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones;<br>
+3° aanvragen waarbij de totale oppervlakte van de ingreep in de bodem 1000 m<sup>2</sup> of meer beslaat en de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 3000 m<sup>2</sup> of meer bedraagt en waarbij de percelen volledig gelegen zijn buiten archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones.</p>
+
+<p>Voor de toepassing van het eerste lid, 2° en 3°, op terreinen zonder kadastraal nummer geldt de totale oppervlakte van de hele werf van het te vergunnen werk.</p>
+
+<p>De aanvrager van een stedenbouwkundige vergunning wordt van die verplichting vrijgesteld :<br>
+1° indien de aanvraag volledig&nbsp;betrekking heeft op een gebied waar geen archeologisch erfgoed te verwachten valt, zoals vastgesteld door de Vlaamse Regering;<br>
+2° indien de aanvraag betrekking heeft op werkzaamheden binnen het gabarit van bestaande lijninfrastructuur en haar aanhorigheden;<br>
+3° indien de aanvrager een natuurlijke persoon of privaatrechtelijke rechtspersoon is, de totale oppervlakte van de ingreep in de bodem minder dan 5000 m<sup>2</sup> beslaat, en de betrokken percelen volledig gelegen zijn buiten woongebied of recreatiegebied en buiten archeologische zones opgenomen in de vastgestelde inventaris van archeologische zones en buiten beschermde archeologische sites.</p>
+
+<p>De Vlaamse Regering kan de nadere regels voor deze vrijstellingen bepalen.</p>
+
+<p>Voor de toepassing van het derde lid, 3°, op terreinen zonder kadastraal nummer geldt de totale oppervlakte van de hele werf van het te vergunnen werk.</p>
+
+<p>De aanvrager van een stedenbouwkundige vergunning met ingreep in de bodem kan een archeologienota indienen die in het kader van een vorige vergunningsaanvraag is bekrachtigd, als de stedenbouwkundige vergunning betrekking heeft op hetzelfde perceel of dezelfde percelen en als de ingreep in de bodem van de te vergunnen werken overeenkomt met de ingreep in de bodem van de werken omschreven in de bekrachtigde archeologienota.</p>
 
 ### ART. 5.4.2.
 
-<P>Een bekrachtigde archeologienota zoals vermeld in artikel 5.4.8 wordt bij de   aanvraag van een verkavelingsvergunning toegevoegd in volgende situaties :<BR>1°   aanvragen met betrekking tot percelen die gelegen zijn in een voorlopig of   definitief beschermde archeologische site;<BR>2° aanvragen waarbij de totale   oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 300   m<SUP>2</SUP> of meer bedraagt en waarbij de betrokken percelen geheel of   gedeeltelijk gelegen zijn in archeologische zones, opgenomen in de vastgestelde   inventaris van archeologische zones;<BR>3° aanvragen waarbij de totale   oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft   3000 m<SUP>2</SUP> of meer bedraagt en waarbij de percelen helemaal buiten de   archeologische zones, opgenomen in de vastgestelde inventaris van archeologische   zones, liggen.<BR></P>  <P>Voor de toepassing van het eerste lid, 2° en 3°, op terreinen zonder   kadastraal nummer geldt de totale oppervlakte van de werf van de te vergunnen   verkaveling.<BR></P>  <P>De aanvrager van een verkavelingsvergunning wordt van die verplichting   vrijgesteld indien de aanvraag betrekking heeft op een gebied waar geen   archeologisch erfgoed te verwachten valt, zoals vastgesteld door de Vlaamse   Regering.<BR></P>  <P>De aanvrager van een verkavelingsvergunning kan een archeologienota indienen   die in het kader van een vorige vergunningsaanvraag is bekrachtigd, als de   verkavelingsvergunning betrekking heeft op dezelfde percelen en als de ingreep   in de bodem van de te vergunnen werken overeenkomt met de ingreep in de bodem   van de werken omschreven in de bekrachtigde   archeologienota.<BR></P>
+<p>Een bekrachtigde archeologienota zoals vermeld in artikel 5.4.8 en artikel 5.4.12 wordt bij de aanvraag van een verkavelingsvergunning toegevoegd in volgende situaties :<br>
+1° aanvragen met betrekking tot percelen die gelegen zijn in een voorlopig of definitief beschermde archeologische site;<br>
+2° aanvragen waarbij de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 300 m<sup>2</sup> of meer bedraagt en waarbij de betrokken percelen geheel of gedeeltelijk gelegen zijn in archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones;<br>
+3° aanvragen waarbij de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 3000 m<sup>2</sup> of meer bedraagt en waarbij de percelen helemaal buiten de archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones, liggen.</p>
+
+<p>Voor de toepassing van het eerste lid, 2° en 3°, op terreinen zonder kadastraal nummer geldt de totale oppervlakte van de werf van de te vergunnen verkaveling.</p>
+
+<p>De aanvrager van een verkavelingsvergunning wordt van die verplichting vrijgesteld indien de aanvraag betrekking heeft op een gebied waar geen archeologisch erfgoed te verwachten valt, zoals vastgesteld door de Vlaamse Regering.</p>
+
+<p>De aanvrager van een verkavelingsvergunning kan een archeologienota indienen die in het kader van een vorige vergunningsaanvraag is bekrachtigd, als de verkavelingsvergunning betrekking heeft op dezelfde percelen en als de ingreep in de bodem van de te vergunnen werken overeenkomt met de ingreep in de bodem van de werken omschreven in de bekrachtigde archeologienota.</p>
 
 ### ART. 5.4.3.
 
@@ -218,17 +319,39 @@ De aanvrager van een stedenbouwkundige vergunning met ingreep in de bodem   of v
 
 ### ART. 5.4.4.
 
-De verlener van de stedenbouwkundige vergunning of verkavelingsvergunning   neemt, behoudens in de gevallen omschreven in artikel 5.4.1, derde lid, en   artikel 5.4.2, derde lid, het naleven van de bekrachtigde archeologienota en van   dit decreet op als voorwaarde in de vergunning. De werken in de bekrachtigde   archeologienota overeenkomstig artikel 5.4.8 en in de bekrachtigde nota   overeenkomstig artikel 5.4.16 worden geacht te zijn vergund.<BR>
+De verlener van de stedenbouwkundige vergunning of verkavelingsvergunning neemt, behoudens in de gevallen omschreven in artikel 5.4.1, derde lid, en artikel 5.4.2, derde lid, het naleven van de bekrachtigde archeologienota en van dit decreet op als voorwaarde in de vergunning. De werken in de bekrachtigde archeologienota overeenkomstig artikel 5.4.8 en in de bekrachtigde nota overeenkomstig artikel 5.4.16 worden geacht te zijn vergund.<br>
+<br>
+Een afschrift van de stedenbouwkundige vergunning of verkavelingsvergunning of van de omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden waarin het naleven van de bekrachtigde archeologienota als voorwaarde wordt opgenomen, wordt door de vergunningverlener binnen een ordetermijn van tien dagen en per beveiligde zending bezorgd aan het agentschap.
 
 ## Onderafdeling 3 Verplichtingen aangestelde erkende archeoloog - Archeologisch vooronderzoek met ingreep in de bodem
 
 ### ART. 5.4.5.
 
-Als het onmogelijk of juridisch, economisch of maatschappelijk onwenselijk   is om voorafgaand aan het aanvragen van de stedenbouwkundige vergunning of   verkavelingsvergunning een archeologisch vooronderzoek met ingreep in de bodem   uit te voeren, dient de erkende archeoloog de resultaten van het archeologisch   vooronderzoek zonder ingreep in de bodem bij het agentschap in als te   bekrachtigen archeologienota overeenkomstig onderafdeling 7 en volgt verder de   procedure omschreven in die onderafdeling.<BR>
+Als het onmogelijk of juridisch, economisch of maatschappelijk onwenselijk is om voorafgaand aan het aanvragen van de stedenbouwkundige vergunning of verkavelingsvergunning een archeologisch vooronderzoek met ingreep in de bodem uit te voeren, dient de erkende archeoloog de resultaten van het archeologisch vooronderzoek zonder ingreep in de bodem bij het agentschap of in voorkomend geval bij de erkende onroerenderfgoedgemeente&nbsp;in als te bekrachtigen archeologienota overeenkomstig onderafdeling 7 en volgt verder de procedure omschreven in die onderafdeling.<br>
+<br>
+Als de archeologienota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, dient de erkende archeoloog de archeologienota in bij het agentschap.
 
 ### ART. 5.4.6.
 
-<P>§ 1. De door de initiatiefnemer aangestelde erkende archeoloog meldt per   beveiligde zending aan het agentschap of in voorkomend geval aan de erkende   onroerenderfgoedgemeente het voornemen om een archeologisch vooronderzoek met   ingreep in de bodem uit te voeren.<BR></P>  <P>De melding bevat minstens de volgende gegevens :<BR>1° de naam en het adres   van de initiatiefnemer;<BR>2° het erkenningsnummer van de erkende   archeoloog;<BR>3° de woonplaats of maatschappelijke zetel van de erkende   archeoloog;<BR>4° de locatie van het archeologisch vooronderzoek met in   voorkomend geval de kadastrale gegevens van de betrokken percelen;<BR>5° de   aanleiding voor het archeologisch vooronderzoek;<BR>6° de voorgestelde   uitvoeringswijze.<BR></P>  <P>De Vlaamse Regering kan de in de melding op te nemen gegevens nader   omschrijven of uitbreiden.<BR></P>  <P>Het archeologisch vooronderzoek met ingreep in de bodem mag slechts worden   aangevat na het verstrijken van de termijn, vermeld in paragraaf 2.<BR></P>  <P>§ 2. Het agentschap of in voorkomend geval de erkende   onroerenderfgoedgemeente kan het archeologisch vooronderzoek met ingreep in de   bodem weigeren of er voorwaarden aan koppelen en meldt dit in voorkomend geval   binnen vijftien dagen na ontvangst van de melding aan de door de initiatiefnemer   aangestelde erkende archeoloog.<BR></P>  <P>§ 3. Als het agentschap of in voorkomend geval de erkende   onroerenderfgoedgemeente het archeologisch vooronderzoek met ingreep in de bodem   weigert of er voorwaarden aan koppelt, kan de initiatiefnemer een georganiseerd   administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan   over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend   Erfgoed. De Vlaamse Regering bepaalt de nadere regels   daarvoor.<BR></P>
+<p>§ 1. De door de initiatiefnemer aangestelde erkende archeoloog meldt per beveiligde zending aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente het voornemen om een archeologisch vooronderzoek met ingreep in de bodem uit te voeren.<br>
+<br>
+Als het archeologisch vooronderzoek met ingreep in de bodem betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, meldt de erkende archeoloog het voornemen tot het uitvoeren ervan bij het agentschap.</p>
+
+<p>De melding bevat minstens de volgende gegevens :<br>
+1° de naam en het adres van de initiatiefnemer;<br>
+2° het erkenningsnummer van de erkende archeoloog;<br>
+3° de woonplaats of maatschappelijke zetel van de erkende archeoloog;<br>
+4° de locatie van het archeologisch vooronderzoek met in voorkomend geval de kadastrale gegevens van de betrokken percelen;<br>
+5° de aanleiding voor het archeologisch vooronderzoek;<br>
+6° de voorgestelde uitvoeringswijze.</p>
+
+<p>De Vlaamse Regering kan de in de melding op te nemen gegevens nader omschrijven of uitbreiden.</p>
+
+<p>Het archeologisch vooronderzoek met ingreep in de bodem mag slechts worden aangevat na het verstrijken van de termijn, vermeld in paragraaf 2.</p>
+
+<p>§ 2. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente kan het archeologisch vooronderzoek met ingreep in de bodem weigeren of er voorwaarden aan koppelen en meldt dit in voorkomend geval binnen vijftien dagen na ontvangst van de melding aan de door de initiatiefnemer aangestelde erkende archeoloog.</p>
+
+<p>§ 3. Als het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente het archeologisch vooronderzoek met ingreep in de bodem weigert of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
 
 ### ART. 5.4.7.
 
@@ -238,13 +361,31 @@ Het archeologisch vooronderzoek met ingreep in de bodem moet worden   uitgevoerd
 
 ### ART. 5.4.8.
 
-<P>Na het beëindigen van het archeologisch vooronderzoek bezorgt de door de   initiatiefnemer gemachtigde archeoloog een archeologienota aan het agentschap   per beveiligde zending. Die archeologienota bevat minstens de volgende gegevens   :<BR>1° een gegeorefereerd plan waarop de betrokken percelen, de precieze plaats   van het archeologisch vooronderzoek en de geplande werken nauwkeurig worden   afgelijnd;<BR>2° de resultaten van het archeologisch vooronderzoek;<BR>3° een   gemotiveerd advies over het al dan niet moeten nemen van maatregelen met in   voorkomend geval een programma hierover;<BR>4° in voorkomend geval de   noodzakelijke competenties die de uitvoerders van de voorgestelde maatregelen   moeten bezitten;<BR>5° in voorkomend geval een kostenraming en de geschatte duur   van de voorgestelde maatregelen;<BR>6° in voorkomend geval een gemotiveerd   voorstel over het bewaren of deponeren van het archeologisch ensemble dat het   resultaat is van het archeologisch vooronderzoek en de archeologische   opgraving.<BR></P>  <P>De archeologienota kan :<BR>1° voorzien in een fasering van de in voorkomend   geval uit te voeren archeologische opgravingen;<BR>2° voorzien dat delen van de   kadastrale percelen waar de ingreep in de bodem is gepland van archeologische   opgraving worden vrijgesteld.<BR></P>  <P>De Vlaamse Regering kan de in de archeologienota op te nemen gegevens nader   omschrijven of uitbreiden.<BR></P>
+<p>Na het beëindigen van het archeologisch vooronderzoek bezorgt de door de initiatiefnemer gemachtigde archeoloog een archeologienota aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente&nbsp;per beveiligde zending. Als de archeologienota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, dient de erkende archeoloog de archeologienota in bij het agentschap. Die archeologienota bevat minstens de volgende gegevens :<br>
+1° een gegeorefereerd plan waarop de betrokken percelen, de precieze plaats van het archeologisch vooronderzoek en de geplande werken nauwkeurig worden afgelijnd;<br>
+2° de resultaten van het archeologisch vooronderzoek;<br>
+3° een gemotiveerd advies over het al dan niet moeten nemen van maatregelen met in voorkomend geval een programma hierover;<br>
+4° in voorkomend geval de noodzakelijke competenties die de uitvoerders van de voorgestelde maatregelen moeten bezitten;<br>
+5° in voorkomend geval een kostenraming en de geschatte duur van de voorgestelde maatregelen;<br>
+6° in voorkomend geval een gemotiveerd voorstel over het bewaren of deponeren van het archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek en de archeologische opgraving.</p>
+
+<p>De archeologienota kan :<br>
+1° voorzien in een fasering van de in voorkomend geval uit te voeren archeologische opgravingen;<br>
+2° voorzien dat delen van de kadastrale percelen waar de ingreep in de bodem is gepland van archeologische opgraving worden vrijgesteld.</p>
+
+<p>De Vlaamse Regering kan de in de archeologienota op te nemen gegevens nader omschrijven of uitbreiden.</p>
 
 ## Onderafdeling 5 [Verplichtingen aangestelde erkende archeoloog - Aktename archeologienota (verv. Decr. 13 juli 2018, art. 19, I: 1 april 2019)]
 
 ### ART. 5.4.9.
 
-<P>Binnen een vervaltermijn van eenentwintig dagen na de ontvangst van de   archeologienota bekrachtigt of weigert het agentschap de archeologienota of   koppelt er voorwaarden aan. Het agentschap bezorgt de gemotiveerde beslissing   per beveiligde zending aan de initiatiefnemer en de erkende archeoloog. Als deze   termijn wordt overschreden, wordt de archeologienota geacht bekrachtigd te zijn.   De Vlaamse Regering kan daarvoor de nadere regels bepalen.<BR></P>  <P>De initiatiefnemer kan tegen de bekrachtiging, tegen de voorwaarden waarvan   de bekrachtiging afhankelijk wordt gemaakt of tegen de weigering van de   bekrachtiging van de archeologienota een georganiseerd administratief beroep   instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het   beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De   Vlaamse Regering bepaalt de nadere regels daarvoor.<BR></P>  <P>In voorkomend geval geldt de bekrachtigde archeologienota als toelating voor   de in de nota omschreven archeologische opgraving in de mate dat de vergunde   werken, vermeld in artikelen 5.4.1 en 5.4.2, overeenstemmen met de werken zoals   omschreven in de bekrachtigde archeologienota. De Vlaamse Regering kan de nadere   regels daarvoor bepalen.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels over het verspreiden van de   informatie uit de bekrachtigde archeologienota ten aanzien van alle   belanghebbenden.<BR></P>
+<p>Binnen een vervaltermijn van eenentwintig dagen na de ontvangst van de archeologienota bekrachtigt of weigert het&nbsp;agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente de archeologienota of koppelt er voorwaarden aan. Het&nbsp;agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente bezorgt de gemotiveerde beslissing per beveiligde zending aan de initiatiefnemer en de erkende archeoloog. Als deze termijn wordt overschreden, wordt de archeologienota geacht bekrachtigd te zijn. De Vlaamse Regering kan daarvoor de nadere regels bepalen.</p>
+
+<p>Als het agentschap of de erkende onroerenderfgoedgemeente de archeologienota bekrachtigt, weigert of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
+
+<p>In voorkomend geval geldt de bekrachtigde archeologienota als toelating voor de in de archeologienota omschreven archeologische opgraving in de mate dat de vergunde werken, vermeld in artikelen 5.4.1 en 5.4.2, overeenstemmen met de werken zoals omschreven in de bekrachtigde archeologienota. De Vlaamse Regering kan de nadere regels daarvoor bepalen.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere regels over het verspreiden van de informatie uit de bekrachtigde archeologienota ten aanzien van alle belanghebbenden.</p>
 
 ## Onderafdeling 6 [Verplichtingen aangestelde erkende archeoloog - Uitvoering archeologienota waarvan akte is genomen (verv. Decr. 13 juli 2018, art. 21, I: 1 april 2019)]
 
@@ -254,17 +395,31 @@ Het archeologisch vooronderzoek met ingreep in de bodem moet worden   uitgevoerd
 
 ### ART. 5.4.11.
 
-De archeologische opgraving, beperkt tot de zone die daadwerkelijk   verstoord wordt door de geplande ingreep in de bodem, moet worden uitgevoerd   overeenkomstig de voorwaarden van de bekrachtigde archeologienota en de code van   goede praktijk. Bij verkavelingsdossiers heeft de opgraving betrekking op de   volledige zone die voor ontwikkeling in aanmerking komt en op het volledige   projectgebied.<BR>
+De archeologische opgraving, beperkt tot de zone die daadwerkelijk verstoord wordt door de geplande ingreep in de bodem, moet worden uitgevoerd overeenkomstig de voorwaarden van de bekrachtigde archeologienota en de code van goede praktijk. Bij verkavelingsdossiers heeft de opgraving in voorkomend geval betrekking op de volledige zone die voor ontwikkeling in aanmerking komt en op het volledige projectgebied.
 
 ## Onderafdeling 7 Procedure bij de onmogelijkheid of de onwenselijkheid om voorafgaand aan het aanvragen van de vergunning een archeologisch vooronderzoek met ingreep in de bodem uit te voeren
 
 ### ART. 5.4.12.
 
-<P>In het geval dat er alleen een archeologisch vooronderzoek zonder ingreep in   de bodem plaatsvond omdat een archeologisch vooronderzoek met ingreep in de   bodem onmogelijk of juridisch, economisch of maatschappelijk onwenselijk was   voorafgaand aan het aanvragen van de stedenbouwkundige vergunning of   verkavelingsvergunning bezorgt de door de initiatiefnemer aangestelde erkende   archeoloog een archeologienota aan het agentschap per beveiligde zending. Die   archeologienota bevat minstens de volgende gegevens :<BR>1° de naam en het adres   van de initiatiefnemer;<BR>2° het erkenningsnummer van de erkende   archeoloog;<BR>3° de woonplaats of maatschappelijke zetel van de erkende   archeoloog;<BR>4° de locatie van het archeologisch vooronderzoek met in   voorkomend geval de kadastrale gegevens van de betrokken percelen;<BR>5° de   redenen en motivering waarom het vooronderzoek voor het indienen van de   vergunning beperkt wordt tot een vooronderzoek zonder ingreep in de bodem;<BR>6°   de resultaten van het archeologisch vooronderzoek zonder ingreep in de   bodem;<BR>7° een gegeorefereerd plan waarop de betrokken percelen, de precieze   plaats van het archeologisch vooronderzoek en de geplande werken nauwkeuring   worden afgelijnd;<BR>8° de voorgestelde uitvoeringswijze van het archeologisch   vooronderzoek met ingreep in de bodem.<BR></P>  <P>De Vlaamse Regering kan de in de archeologienota op te nemen gegevens nader   omschrijven of uitbreiden.<BR></P>
+<p>In het geval dat er alleen een archeologisch vooronderzoek zonder ingreep in de bodem plaatsvond omdat een archeologisch vooronderzoek met ingreep in de bodem onmogelijk of juridisch, economisch of maatschappelijk onwenselijk was voorafgaand aan het aanvragen van de stedenbouwkundige vergunning of verkavelingsvergunning bezorgt de door de initiatiefnemer aangestelde erkende archeoloog een archeologienota aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente&nbsp;per beveiligde zending. Als de archeologienota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, dient de erkende archeoloog de archeologienota in bij het agentschap. Die archeologienota bevat minstens de volgende gegevens :<br>
+1° de naam en het adres van de initiatiefnemer;<br>
+2° het erkenningsnummer van de erkende archeoloog;<br>
+3° de woonplaats of maatschappelijke zetel van de erkende archeoloog;<br>
+4° de locatie van het archeologisch vooronderzoek met in voorkomend geval de kadastrale gegevens van de betrokken percelen;<br>
+5° de redenen en motivering waarom het vooronderzoek voor het indienen van de vergunning beperkt wordt tot een vooronderzoek zonder ingreep in de bodem;<br>
+6° de resultaten van het archeologisch vooronderzoek zonder ingreep in de bodem;<br>
+7° een gegeorefereerd plan waarop de betrokken percelen, de precieze plaats van het archeologisch vooronderzoek en de geplande werken nauwkeuring worden afgelijnd;<br>
+8° de voorgestelde uitvoeringswijze van het archeologisch vooronderzoek met ingreep in de bodem.</p>
+
+<p>De Vlaamse Regering kan de in de archeologienota op te nemen gegevens nader omschrijven of uitbreiden.</p>
 
 ### ART. 5.4.13.
 
-<P>Binnen een vervaltermijn van eenentwintig dagen na de ontvangst van de   archeologienota bekrachtigt of weigert het agentschap de archeologienota of   koppelt er voorwaarden aan. Het agentschap bezorgt de gemotiveerde beslissing   per beveiligde zending aan de initiatiefnemer en de erkende archeoloog. Als deze   termijn wordt overschreden, wordt de archeologienota geacht bekrachtigd te zijn.   De Vlaamse Regering kan daarvoor de nadere regels bepalen.<BR></P>  <P>De initiatiefnemer kan tegen de bekrachtiging, tegen de voorwaarden waarvan   de bekrachtiging afhankelijk wordt gemaakt of tegen de weigering van de   bekrachtiging van de archeologienota een georganiseerd administratief beroep   instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het   beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De   Vlaamse Regering bepaalt de nadere regels daarvoor.<BR></P>  <P>In voorkomend geval geldt de bekrachtigde archeologienota als toelating voor   het archeologisch vooronderzoek met ingreep in de bodem. De Vlaamse Regering kan   de nadere regels daarvoor bepalen.<BR></P>
+<p>Binnen een vervaltermijn van eenentwintig dagen na de ontvangst van de archeologienota bekrachtigt of weigert het&nbsp;agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente de archeologienota of koppelt er voorwaarden aan. Het&nbsp;agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente bezorgt de gemotiveerde beslissing per beveiligde zending aan de initiatiefnemer en de erkende archeoloog. Als deze termijn wordt overschreden, wordt de archeologienota geacht bekrachtigd te zijn. De Vlaamse Regering kan daarvoor de nadere regels bepalen.</p>
+
+<p>Als het agentschap of de erkende onroerenderfgoedgemeente de archeologienota bekrachtigt, weigert of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
+
+<p>In voorkomend geval geldt de bekrachtigde archeologienota als toelating voor het archeologisch vooronderzoek met ingreep in de bodem. De Vlaamse Regering kan de nadere regels daarvoor bepalen.</p>
 
 ### ART. 5.4.14.
 
@@ -272,15 +427,32 @@ De archeologische opgraving, beperkt tot de zone die daadwerkelijk   verstoord w
 
 ### ART. 5.4.15.
 
-Het archeologisch vooronderzoek met ingreep in de bodem moet worden   uitgevoerd overeenkomstig de uitvoeringswijze in de bekrachtigde   archeologienota, de eventuele voorwaarden van het agentschap en de code van   goede praktijk.<BR>
+Het archeologisch vooronderzoek met ingreep in de bodem moet worden uitgevoerd overeenkomstig de uitvoeringswijze in de bekrachtigde archeologienota, de eventuele voorwaarden van het&nbsp;agentschap of de erkende onroerenderfgoedgemeente en de code van goede praktijk.
 
 ### ART. 5.4.16.
 
-<P>Na het beëindigen van het archeologisch vooronderzoek met ingreep in de bodem   bezorgt de erkende archeoloog een nota aan het agentschap. Die nota bevat   minstens de volgende gegevens :<BR>1° de resultaten van het archeologisch   vooronderzoek met ingreep in de bodem;<BR>2° een gemotiveerd advies over het al   dan niet moeten nemen van maatregelen met in voorkomend geval een programma   hierover;<BR>3° in voorkomend geval de noodzakelijke competenties die de   uitvoerders van de voorgestelde maatregelen moeten bezitten;<BR>4° in voorkomend   geval een kostenraming en de geschatte duur van de voorgestelde   maatregelen;<BR>5° in voorkomend geval een gemotiveerd voorstel over het bewaren   of deponeren van het archeologisch ensemble dat het resultaat is van het   archeologisch vooronderzoek met ingreep in de bodem en de archeologische   opgraving.<BR></P>  <P>De nota kan :<BR>1° voorzien in een fasering van de in voorkomend geval uit   te voeren archeologische opgravingen;<BR>2° voorzien dat delen van de kadastrale   percelen waar de ingreep in de bodem is gepland van archeologische opgraving   worden vrijgesteld.<BR></P>  <P>De Vlaamse Regering kan de in de nota op te nemen gegevens nader omschrijven   of uitbreiden.<BR></P>
+<p>Na het beëindigen van het archeologisch vooronderzoek met ingreep in de bodem bezorgt de erkende archeoloog een nota aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente. Als de nota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, dient de erkende archeoloog de nota in bij het agentschap.&nbsp;Die nota bevat minstens de volgende gegevens :<br>
+1° de resultaten van het archeologisch vooronderzoek met ingreep in de bodem;<br>
+2° een gemotiveerd advies over het al dan niet moeten nemen van maatregelen met in voorkomend geval een programma hierover;<br>
+3° in voorkomend geval de noodzakelijke competenties die de uitvoerders van de voorgestelde maatregelen moeten bezitten;<br>
+4° in voorkomend geval een kostenraming en de geschatte duur van de voorgestelde maatregelen;<br>
+5° in voorkomend geval een gemotiveerd voorstel over het bewaren of deponeren van het archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek met ingreep in de bodem en de archeologische opgraving.</p>
+
+<p>De nota kan :<br>
+1° voorzien in een fasering van de in voorkomend geval uit te voeren archeologische opgravingen;<br>
+2° voorzien dat delen van de kadastrale percelen waar de ingreep in de bodem is gepland van archeologische opgraving worden vrijgesteld.</p>
+
+<p>De Vlaamse Regering kan de in de nota op te nemen gegevens nader omschrijven of uitbreiden.</p>
 
 ### ART. 5.4.17.
 
-<P>Binnen een vervaltermijn van eenentwintig dagen na de ontvangst van de nota   bekrachtigt of weigert het agentschap de nota of koppelt er voorwaarden aan. Het   agentschap bezorgt de gemotiveerde beslissing per beveiligde zending aan de   initiatiefnemer en de erkende archeoloog. Als deze termijn wordt overschreden,   wordt de nota geacht bekrachtigd te zijn. De Vlaamse Regering kan daarvoor de   nadere regels bepalen.<BR></P>  <P>De initiatiefnemer kan tegen de bekrachtiging, tegen de voorwaarden waarvan   de bekrachtiging afhankelijk wordt gemaakt of tegen de weigering van de   bekrachtiging van de nota een georganiseerd administratief beroep instellen bij   de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies   inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt   de nadere regels daarvoor.<BR></P>  <P>In voorkomend geval geldt de bekrachtigde nota als toelating voor de in de   nota omschreven archeologische opgraving in de mate dat de vergunde werken,   vermeld in artikel 5.4.3, overeenstemmen met de werken zoals omschreven in de   bekrachtigde archeologienota. De Vlaamse Regering kan de nadere regels daarvoor   bepalen.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels over het verspreiden van de   informatie uit de bekrachtigde nota ten aanzien van alle   belanghebbenden.<BR></P>
+<p>Binnen een vervaltermijn van eenentwintig dagen na de ontvangst van de nota bekrachtigt of weigert het&nbsp;agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente de nota of koppelt er voorwaarden aan. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente bezorgt de gemotiveerde beslissing per beveiligde zending aan de initiatiefnemer en de erkende archeoloog. Als deze termijn wordt overschreden, wordt de nota geacht bekrachtigd te zijn. De Vlaamse Regering kan daarvoor de nadere regels bepalen.</p>
+
+<p>Als het agentschap of de erkende onroerenderfgoedgemeente de nota bekrachtigt, weigert of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
+
+<p>In voorkomend geval geldt de bekrachtigde nota als toelating voor de in de nota omschreven archeologische opgraving in de mate dat de vergunde werken, vermeld in artikel 5.4.3, overeenstemmen met de werken zoals omschreven in de bekrachtigde nota. De Vlaamse Regering kan de nadere regels daarvoor bepalen.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere regels over het verspreiden van de informatie uit de bekrachtigde nota ten aanzien van alle belanghebbenden.</p>
 
 ### ART. 5.4.18.
 
@@ -288,13 +460,16 @@ De erkende archeoloog meldt de aanvang van de archeologische opgraving aan   het
 
 ### ART. 5.4.19.
 
-De archeologische opgraving, beperkt tot de zone die daadwerkelijk   verstoord wordt door de geplande ingreep in de bodem, moet worden uitgevoerd   overeenkomstig de voorwaarden van de bekrachtigde nota en de code van goede   praktijk.<BR>
+De archeologische opgraving, beperkt tot de zone die daadwerkelijk verstoord wordt door de geplande ingreep in de bodem, moet worden uitgevoerd overeenkomstig de voorwaarden van de bekrachtigde nota en de code van goede praktijk. Bij verkavelingsdossiers heeft de opgraving in voorkomend geval betrekking op de volledige zone die voor ontwikkeling in aanmerking komt en op het volledige projectgebied.
 
 ## Onderafdeling 8 Verplichtingen aangestelde erkende archeoloog - Archeologierapport
 
 ### ART. 5.4.20.
 
-De erkende archeoloog bezorgt binnen twee maanden na het beëindigen van de   opgraving een archeologierapport aan het agentschap per beveiligde zending. Dat   archeologierapport omvat minstens de volgende gegevens :<BR>1° een beknopte   beschrijving van de uitgevoerde werken en de resultaten;<BR>2° een beschrijving   van de verdere aanpak;<BR>3° een gemotiveerd voorstel over het bewaren of   deponeren van het archeologisch ensemble als dat de voorstellen die erover   geformuleerd zijn in de archeologienota, wijzigt of aanvult.<BR>
+De erkende archeoloog bezorgt binnen twee maanden na het beëindigen van de opgraving een archeologierapport aan het agentschap per beveiligde zending. Het agentschap stelt het archeologierapport in voorkomend geval ter beschikking van de erkende onroerenderfgoedgemeente. Dat archeologierapport omvat minstens de volgende gegevens :<br>
+1° een beknopte beschrijving van de uitgevoerde werken en de resultaten;<br>
+2° een beschrijving van de verdere aanpak;<br>
+3° een gemotiveerd voorstel over het bewaren of deponeren van het archeologisch ensemble als dat de voorstellen die erover geformuleerd zijn in de archeologienota, wijzigt of aanvult.
 
 ## Onderafdeling 9 Verplichtingen aangestelde erkende archeoloog - Eindverslag
 
@@ -303,6 +478,19 @@ De erkende archeoloog bezorgt binnen twee maanden na het beëindigen van de   op
 <P>De erkende archeoloog bezorgt binnen twee jaar na het beëindigen van de   archeologische opgraving per beveiligde zending een eindverslag aan het   agentschap overeenkomstig de code van goede praktijk, vermeld in artikel   5.3.1.<BR></P>  <P>De erkende archeoloog publiceert het eindverslag. De Vlaamse Regering bepaalt   de nadere regels daarvoor.<BR></P>  <P>De eindverslagen van de archeologische opgravingen worden digitaal ontsloten.   De Vlaamse Regering bepaalt de nadere regels daarvoor.<BR></P>
 
 ## [Onderafdeling 10 (ing. Decr. 15 juli 2016, art. 24, I: 1 januari 2017)] [Databank van toelatingen en meldingen voor archeologisch vooronderzoek met ingreep in de bodem, archeologienota's en nota's (verv. Decr. 13 juli 2018, art. 32, I: 1 april 2019)]
+
+### ART 5.4.22.
+
+Het agentschap stelt een databank van meldingen van vooronderzoek met ingreep in de bodem, archeologienota's en nota's digitaal beschikbaar. Die databank bevat:<br>
+1° de meldingen van een archeologisch vooronderzoek met ingreep in de bodem, vermeld in artikel 5.4.6, § 1, en artikel 5.4.14, en de beslissing die daarover is genomen in eerste administratieve aanleg, vermeld in artikel 5.4.6, § 2;<br>
+2° de archeologienota's, vermeld in artikel 5.4.8, eerste lid, en artikel 5.4.12, eerste lid, en de beslissingen die daarover zijn genomen in eerste administratieve aanleg, vermeld in artikel 5.4.9, eerste lid, en artikel 5.4.13, eerste lid;<br>
+3° de nota's, vermeld in artikel 5.4.16, eerste lid, en de beslissingen die daarover zijn genomen in eerste administratieve aanleg, vermeld in artikel 5.4.17, eerste lid;<br>
+4° de in beroep genomen beslissingen over de meldingen van archeologisch vooronderzoek met ingreep in de bodem, vermeld in artikel 5.4.6, § 3;<br>
+5° de in beroep genomen beslissingen over de archeologienota's, vermeld in artikel 5.4.9, tweede lid, en artikel 5.4.13, tweede lid;<br>
+6° de in beroep genomen beslissingen over de nota's, vermeld in artikel 5.4.17, tweede lid;<br>
+7° de adviezen van de Vlaamse Commissie Onroerend Erfgoed over de in beroep genomen beslissingen over de meldingen van archeologisch vooronderzoek met ingreep in de bodem, de archeologienota's en de nota's, vermeld in artikel 5.4.6, § 3, artikel 5.4.9, tweede lid, artikel 5.4.13, tweede lid, en artikel 5.4.17, tweede lid.<br>
+<br>
+De Vlaamse Regering kan de nadere regels over de vorm van de databank en de toegang ertoe bepalen.
 
 ## [Onderafdeling 11 Digitaal platform voor archeologie (ing. Decr. 13 juli 2008, art. 34, I: 1 april 2019)]
 
@@ -314,11 +502,26 @@ Erkende archeologen kunnen archeologisch vooronderzoek of archeologische   opgra
 
 ### ART. 5.5.2.
 
-De erkende archeoloog sluit met de zakelijkrechthouders van de betrokken   onroerende goederen een overeenkomst die de vergoeding voor eventuele schade, de   bestemming van het archeologisch ensemble en de verwachte duur van het onderzoek   regelt.<BR>
+De erkende archeoloog sluit met de zakelijkrechthouders van de betrokken onroerende goederen een overeenkomst die de vergoeding voor eventuele schade, de bestemming van het archeologisch ensemble en de verwachte duur van het onderzoek regelt behalve als het onderzoek in het kader van een toevalsvondst gebeurt.
 
 ### ART. 5.5.3.
 
-<P>§ 1. De erkende archeoloog vraagt aan het agentschap een toelating om een   archeologisch vooronderzoek met ingreep in de bodem of een archeologische   opgraving met het oog op wetenschappelijke vraagstellingen uit te   voeren.<BR></P>  <P>De aanvraag tot toelating bevat minstens de volgende gegevens :<BR>1° het   erkenningsnummer van de erkende archeoloog;<BR>2° de woonplaats of   maatschappelijke zetel van de erkende archeoloog;<BR>3° de locatie van het   archeologisch vooronderzoek met in voorkomend geval de kadastrale gegevens van   de betrokken percelen;<BR>4° de wetenschappelijke vraagstellingen en het belang   van het wetenschappelijk onderzoek;<BR>5° de voorgestelde   uitvoeringswijze;<BR>6° de overeenkomst, vermeld in artikel 5.5.2;<BR>7° de   motivatie waarom onderzoek primeert op behoud.<BR></P>  <P>De Vlaamse Regering :<BR>1° kan de in de aanvraag op te nemen gegevens nader   omschrijven of uitbreiden;<BR>2° bepaalt de nadere regels voor het aanvragen en   het afleveren van de toelating.<BR></P>  <P>§ 2. Als het agentschap de toelating voor het archeologisch vooronderzoek met   ingreep in de bodem of voor de archeologische opgraving met het oog op   wetenschappelijke vraagstellingen weigert of er voorwaarden aan koppelt, kan de   erkende archeoloog een georganiseerd administratief beroep instellen bij de   Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen   bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de   nadere regels daarvoor.<BR></P>
+<p>§ 1. De erkende archeoloog vraagt aan het agentschap een toelating om een archeologisch vooronderzoek met ingreep in de bodem of een archeologische opgraving met het oog op wetenschappelijke vraagstellingen uit te voeren.</p>
+
+<p>De aanvraag tot toelating bevat minstens de volgende gegevens :<br>
+1° het erkenningsnummer van de erkende archeoloog;<br>
+2° de woonplaats of maatschappelijke zetel van de erkende archeoloog;<br>
+3° de locatie van het archeologisch vooronderzoek of de archeologische opgraving&nbsp;met in voorkomend geval de kadastrale gegevens van de betrokken percelen;<br>
+4° de wetenschappelijke vraagstellingen en het belang van het wetenschappelijk onderzoek;<br>
+5° de voorgestelde uitvoeringswijze;<br>
+6° de overeenkomst, vermeld in artikel 5.5.2;<br>
+7° de motivatie waarom onderzoek primeert op behoud.</p>
+
+<p>De Vlaamse Regering :<br>
+1° kan de in de aanvraag op te nemen gegevens nader omschrijven of uitbreiden;<br>
+2° bepaalt de nadere regels voor het aanvragen en het afleveren van de toelating.</p>
+
+<p>§ 2. Als het agentschap de toelating voor het archeologisch vooronderzoek met ingreep in de bodem of voor de archeologische opgraving met het oog op wetenschappelijke vraagstellingen weigert of er voorwaarden aan koppelt, kan de erkende archeoloog een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
 
 ### ART. 5.5.4.
 
@@ -328,7 +531,15 @@ De erkende archeoloog sluit met de zakelijkrechthouders van de betrokken   onroe
 
 ### ART. 5.6.1.
 
-<P>§ 1. De Vlaamse Regering evalueert jaarlijks de effectiviteit van dit   hoofdstuk. Het evaluatierapport wordt ter informatie voorgelegd aan het Vlaams   Parlement.<BR></P>  <P>In het rapport, vermeld in het eerste lid, komen ten minste een beschrijving   en beoordeling van de sterktes en te verbeteren punten, de kansen en de   moeilijkheden bij archeologisch onderzoek en de financiering ervan.<BR></P>  <P>§ 2. De bevoegde administratie binnen het homogene beleidsdomein waaraan de   beleidsondersteunende opdrachten inzake onroerend erfgoed worden toevertrouwd,   legt jaarlijks een rapport aan de Vlaamse Regering voor. Voor de opmaak van het   rapport kan de bevoegde administratie binnen het homogene beleidsdomein waaraan   de beleidsondersteunende opdrachten inzake onroerend erfgoed worden   toevertrouwd, het advies inwinnen van de Vlaamse Commissie Onroerend Erfgoed. In   dit rapport komen ten minste de volgende elementen aan bod :<BR>- een overzicht   van het aantal vooronderzoeken en opgravingen alsook de duur ervan;<BR>- een   overzicht van de resultaten van deze onderzoeken;<BR>- een overzicht van de   voorgestelde en goedgekeurde maatregelen uit de archeologienota;<BR>- de   financiële implicaties van het archeologisch onderzoek en de werking van het   archeologisch solidariteitsfonds.<BR></P>
+<p>§ 1. De Vlaamse Regering evalueert jaarlijks de effectiviteit van dit hoofdstuk. Het evaluatierapport wordt ter informatie voorgelegd aan het Vlaams Parlement.</p>
+
+<p>In het rapport, vermeld in het eerste lid, komen ten minste een beschrijving en beoordeling van de sterktes en te verbeteren punten, de kansen en de moeilijkheden bij archeologisch onderzoek en de financiering ervan.</p>
+
+<p>§ 2. Het agentschap legt jaarlijks een rapport aan de Vlaamse Regering voor. Voor de opmaak van het rapport kan&nbsp;het agentschap&nbsp;het advies inwinnen van de Vlaamse Commissie Onroerend Erfgoed. In dit rapport komen ten minste de volgende elementen aan bod :<br>
+1° een overzicht van het aantal vooronderzoeken en opgravingen, alsook de duur ervan;<br>
+2° een overzicht van de resultaten van die onderzoeken;<br>
+3° een overzicht van de voorgestelde en goedgekeurde maatregelen uit de archeologienota;<br>
+4° de financiële implicaties van het archeologisch onderzoek en de werking van het archeologisch solidariteitsfonds.</p>
 
 ## HOOFDSTUK 6 Beschermingen en erfgoedlandschappen
 
@@ -362,7 +573,14 @@ Het besluit tot voorlopige bescherming wordt na de kennisgeving, vermeld   in ar
 
 ### ART. 6.1.6.
 
-<P>Het besluit tot voorlopige bescherming van een archeologische site, monument   of stads- of dorpsgezicht wordt met bijlagen per beveiligde zending aan de   zakelij krechthouders ter kennis gebracht.<BR></P>  <P>Het agentschap hoort, op hun verzoek, de zakelijkrechthouders.<BR></P>  <P>De zakelijkrechthouders die, overeenkomstig het eerste lid, van het besluit   tot voorlopige bescherming op de hoogte gebracht zijn :<BR>1° brengen de   gebruikers en de eigenaars van de cultuurgoederen per beveiligde zending op de   hoogte van het besluit tot voorlopige bescherming binnen een termijn van dertig   dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de   beveiligde zending vermeld;<BR>2° brengen het agentschap per beveiligde zending   op de hoogte van de eventuele verkoop, overdracht van het eigendomsrecht of   overdracht van een ander zakelijk recht, waarbij de nodige stavingsdocumenten   gevoegd zijn, binnen een termijn van tien dagen, die ingaat op de dag na de   kennisgeving. Die verplichting wordt in de beveiligde zending vermeld. De nieuwe   zakelijkrechthouders worden op hun beurt, overeenkomstig het eerste lid, op de   hoogte gebracht van het besluit tot voorlopige   bescherming.<BR></P>
+<p>Het besluit tot voorlopige bescherming van een archeologische site, monument of stads- of dorpsgezicht wordt met bijlagen per beveiligde zending aan de zakelij krechthouders ter kennis gebracht.</p>
+
+<p>Het agentschap hoort, op hun verzoek, de zakelijkrechthouders.</p>
+
+<p>De zakelijkrechthouders die, overeenkomstig het eerste lid, van het besluit tot voorlopige bescherming op de hoogte gebracht zijn:<br>
+1° brengen de gebruikers van het onroerend goed per beveiligde zending op de hoogte van het besluit tot voorlopige bescherming binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de beveiligde zending vermeld;<br>
+2° brengen de zakelijkrechthouders van de cultuurgoederen per beveiligde zending op de hoogte van het besluit tot voorlopige bescherming binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de beveiligde zending vermeld;<br>
+3° brengen het agentschap per beveiligde zending op de hoogte van de eventuele verkoop, overdracht van het eigendomsrecht of overdracht van een ander zakelijk recht, waarbij de nodige stavingsdocumenten gevoegd zijn, binnen een termijn van tien dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de beveiligde zending vermeld. De nieuwe zakelijkrechthouders worden op hun beurt, overeenkomstig het eerste lid, op de hoogte gebracht van het besluit tot voorlopige bescherming.</p>
 
 ### ART. 6.1.7.
 
@@ -374,7 +592,15 @@ De Vlaamse Regering wint over de voorlopige bescherming het advies in bij   de V
 
 ### ART. 6.1.9.
 
-<P>§ 1. Vanaf de dag van ontvangst, vermeld in artikel 6.1.6, zijn op de   onroerende goederen, vermeld in het besluit tot voorlopige bescherming,   gedurende een termijn van maximaal negen maanden de rechtsgevolgen van een   bescherming voorlopig van toepassing.<BR></P>  <P>§ 2. De Vlaamse Regering kan die termijn eenmalig met maximaal drie maanden   verlengen.<BR></P>  <P>Het besluit tot verlenging van de voorlopige bescherming van een   archeologische site, monument of stads- of dorpsgezicht wordt aan de   zakelijkrechthouders per beveiligde zending ter kennis gebracht overeenkomstig   artikel 6.1.6.<BR></P>
+<p>§ 1. Vanaf de dag van ontvangst, vermeld in artikel 6.1.6, zijn op de onroerende goederen, vermeld in het besluit tot voorlopige bescherming, gedurende een termijn van maximaal negen maanden de rechtsgevolgen van een bescherming voorlopig van toepassing.<br>
+<br>
+Vanaf de dag van de bekendmaking in het Belgisch Staatsblad, vermeld in artikel 6.1.5, zijn op de onroerende goederen, vermeld in het besluit tot voorlopige bescherming van een cultuurhistorisch landschap, gedurende een termijn van maximaal negen maanden de rechtsgevolgen van een bescherming voorlopig van toepassing.<br>
+<br>
+§ 2. De Vlaamse Regering kan die termijn eenmalig met maximaal drie maanden verlengen.</p>
+
+<p>Het besluit tot verlenging van de voorlopige bescherming van een archeologische site, monument of stads- of dorpsgezicht wordt aan de zakelijkrechthouders per beveiligde zending ter kennis gebracht overeenkomstig artikel 6.1.6.<br>
+<br>
+Het besluit tot verlenging van de voorlopige bescherming van een cultuurhistorisch landschap wordt bij uittreksel gepubliceerd in het Belgisch Staatsblad.</p>
 
 ### ART. 6.1.10.
 
@@ -396,7 +622,24 @@ De Vlaamse Regering stelt het besluit tot definitieve bescherming   vast.<BR>
 
 ### ART. 6.1.14.
 
-<P>Het besluit tot definitieve bescherming bevat minstens de volgende gegevens   :<BR>1° in voorkomend geval de kadastrale gegevens van het perceel of de   percelen waarop de onroerende goederen zich bevinden;<BR>2° de vermelding of het   een bescherming van een archeologische site, cultuurhistorisch landschap,   monument of stads- of dorpsgezicht betreft met, in voorkomend geval, een   overgangszone;<BR>3° de benaming van het beschermde onroerend goed;<BR>4° een   beknopte wetenschappelijke beschrijving;<BR>5° de erfgoedwaarden;<BR>6° de   erfgoedelementen en de erfgoedkenmerken;<BR>7° de beheersdoelstellingen die de   optimale verwezenlijking omschrijven van de waarden die aanleiding gegeven   hebben tot de bescherming;<BR>8° bijzondere voorschriften voor de instandhouding   en het onderhoud;<BR>9° in voorkomend geval bijzondere voorschriften voor de   instandhouding en het onderhoud in de overgangszone.<BR></P>  <P>Bij elk besluit tot definitieve bescherming worden de volgende bijlagen   gevoegd :<BR>1° een gegeorefereerd plan waarop het onroerend goed nauwkeurig   wordt afgelijnd;<BR>2° een fotoregistratie van de fysieke toestand;<BR>3° in   voorkomend geval een lijst met de cultuurgoederen die integrerend deel uitmaken   van het onroerend goed;<BR>4° een document waarin het agentschap zich uitspreekt   over de ingediende bezwaren en opmerkingen en in voorkomend geval over de   uitgebrachte adviezen en het verslag van de hoorzitting.<BR></P>  <P>De Vlaamse Regering kan de gegevens die in elk besluit tot definitieve   bescherming of in de bijlagen zijn opgenomen, nader omschrijven of   uitbreiden.<BR></P>
+<p>Het besluit tot definitieve bescherming bevat minstens de volgende gegevens :<br>
+1° in voorkomend geval de kadastrale gegevens van het perceel of de percelen waarop de onroerende goederen zich bevinden;<br>
+2° de vermelding of het een bescherming van een archeologische site, cultuurhistorisch landschap, monument of stads- of dorpsgezicht betreft met, in voorkomend geval, een overgangszone;<br>
+3° de benaming van het beschermde onroerend goed;<br>
+4° een beknopte wetenschappelijke beschrijving;<br>
+5° de erfgoedwaarden;<br>
+6° de erfgoedelementen en de erfgoedkenmerken;<br>
+7° de beheersdoelstellingen die de optimale verwezenlijking omschrijven van de waarden die aanleiding gegeven hebben tot de bescherming;<br>
+8° bijzondere voorschriften voor de instandhouding en het onderhoud;<br>
+9° in voorkomend geval bijzondere voorschriften voor de instandhouding en het onderhoud in de overgangszone.</p>
+
+<p>Bij elk besluit tot definitieve bescherming worden de volgende bijlagen gevoegd :<br>
+1° een gegeorefereerd plan waarop het onroerend goed en in voorkomend geval de overgangszone nauwkeurig wordt afgelijnd;<br>
+2° een fotoregistratie van de fysieke toestand;<br>
+3° in voorkomend geval een lijst met de cultuurgoederen die integrerend deel uitmaken van het onroerend goed;<br>
+4° een document waarin het agentschap zich uitspreekt over de ingediende bezwaren en opmerkingen en in voorkomend geval over de uitgebrachte adviezen en het verslag van de hoorzitting.</p>
+
+<p>De Vlaamse Regering kan de gegevens die in elk besluit tot definitieve bescherming of in de bijlagen zijn opgenomen, nader omschrijven of uitbreiden.</p>
 
 ### ART. 6.1.15.
 
@@ -404,7 +647,12 @@ Het besluit tot definitieve bescherming wordt na de kennisgeving, vermeld   in a
 
 ### ART. 6.1.16.
 
-<P>Het besluit tot definitieve bescherming van een archeologische site, monument   of stads- of dorpsgezicht wordt met bijlagen per beveiligde zending aan de   zakelijkrechthouders ter kennis gebracht.<BR></P>  <P>De zakelijkrechthouders die, overeenkomstig het eerste lid, van het besluit   tot definitieve bescherming op de hoogte gebracht zijn :<BR>1° brengen de   gebruikers en de eigenaars van de cultuurgoederen per beveiligde zending op de   hoogte van het besluit binnen een termijn van dertig dagen, die ingaat op de dag   na de kennisgeving. De beveiligde zending vermeldt die verplichting;<BR>2°   brengen het agentschap per beveiligde zending op de hoogte van de eventuele   verkoop, overdracht van het eigendomsrecht of overdracht van een ander zakelijk   recht, waarbij de nodige stavingsdocumenten gevoegd zijn, binnen een termijn van   tien dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in   de kennisgeving vermeld. De nieuwe zakelijkrechthouders worden op hun beurt,   overeenkomstig het eerste lid, op de hoogte gebracht van het   besluit.<BR></P>
+<p>Het besluit tot definitieve bescherming van een archeologische site, monument of stads- of dorpsgezicht wordt met bijlagen per beveiligde zending aan de zakelijkrechthouders ter kennis gebracht.</p>
+
+<p>De zakelijkrechthouders die, overeenkomstig het eerste lid, van het besluit tot definitieve bescherming op de hoogte gebracht zijn:<br>
+3° brengen de gebruikers van het onroerend goed per beveiligde zending op de hoogte van het besluit tot definitieve bescherming binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving. De beveiligde zending vermeldt die verplichting;<br>
+4° brengen de zakelijkrechthouders van de cultuurgoederen per beveiligde zending op de hoogte van het besluit tot definitieve bescherming binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de beveiligde zending vermeld;<br>
+5° brengen het agentschap per beveiligde zending op de hoogte van de eventuele verkoop, overdracht van het eigendomsrecht of overdracht van een ander zakelijk recht, waarbij de nodige stavingsdocumenten gevoegd zijn, binnen een termijn van tien dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de kennisgeving vermeld. De nieuwe zakelijkrechthouders worden op hun beurt, overeenkomstig het eerste lid, op de hoogte gebracht van het besluit.</p>
 
 ### ART. 6.1.17.
 
@@ -420,7 +668,12 @@ De rechtsgevolgen van een besluit tot definitieve bescherming zijn van   toepass
 
 ### ART. 6.2.1.
 
-De Vlaamse Regering kan een besluit tot definitieve bescherming in de   volgende gevallen geheel of gedeeltelijk wijzigen of opheffen :<BR>1° de   erfgoedwaarden van het beschermde goed zijn onherstelbaar aangetast of verloren   gegaan;<BR>2° een verplaatsing van het beschermde goed is noodzakelijk voor het   behoud ervan;<BR>3° de gehele of gedeeltelijke wijziging of opheffing is vereist   omwille van het algemeen belang;<BR>4° het goed beheer vereist de toevoeging van   gegevens zoals vermeld in artikel 6.1.14, 7° tot en met 9°. <BR>
+De Vlaamse Regering kan een besluit tot definitieve bescherming in de volgende gevallen geheel of gedeeltelijk wijzigen of opheffen :<br>
+1° de erfgoedwaarden van het beschermde goed zijn onherstelbaar aangetast of verloren gegaan;<br>
+2° een verplaatsing van het beschermde goed is noodzakelijk voor het behoud ervan;<br>
+3° de gehele of gedeeltelijke wijziging of opheffing is vereist omwille van het algemeen belang;<br>
+4° het goed beheer vereist de toevoeging van gegevens zoals vermeld in artikel 6.1.14, 7° tot en met 9°.<br>
+5° de toevoeging als bijlage van een lijst van cultuurgoederen die integrerend deel uitmaken van een beschermd goed als vermeld in artikel 6.1.4, § 2, tweede lid, 3°, of de aanpassing van een lijst van cultuurgoederen is noodzakelijk.
 
 ### ART. 6.2.2.
 
@@ -428,7 +681,9 @@ De Vlaamse Regering kan in een gewestelijk ruimtelijk uitvoeringsplan een   besc
 
 ### ART. 6.2.3.
 
-<P>De gehele of gedeeltelijke wijziging of opheffing van een besluit tot   definitieve bescherming in de gevallen, vermeld onder artikel 6.2.1, 1° tot en   met 3°, gebeurt onder de voorwaarden en in de vorm vastgesteld voor de   bescherming in artikel 6.1.2, 6.1.5, 6.1.6, 6.1.7, 6.1.13, 6.1.15, 6.1.16,   6.1.17 en 6.1.18.<BR></P>  <P>De wijziging van een besluit tot definitieve bescherming dat betrekking heeft   op een geval zoals vermeld in artikel 6.2.1, 4°, kan gebeuren als de eigenaar   een schriftelijke toestemming geeft en als het advies van de Commissie wordt   gevraagd. Indien de eigenaar geen schriftelijke toestemming geeft, dan gebeurt   de wijziging onder voorwaarden en in de vorm vastgesteld voor de bescherming in   artikel 6.1.2, 6.1.5, 6.1.6, 6.1.7, 6.1.13, 6.1.15, 6.1.16, 6.1.17 en   6.1.18.<BR></P>
+<p>De gehele of gedeeltelijke wijziging of opheffing van een besluit tot definitieve bescherming in de gevallen, vermeld onder artikel 6.2.1, 1° tot en met 3°, gebeurt onder de voorwaarden en in de vorm vastgesteld voor de bescherming in artikel 6.1.2, 6.1.5, 6.1.6, 6.1.7, 6.1.13, 6.1.15, 6.1.16, 6.1.17 en 6.1.18.</p>
+
+<p>De wijziging van een besluit tot definitieve bescherming dat betrekking heeft op een geval zoals vermeld in artikel 6.2.1, 4°, of 5°, kan gebeuren als de eigenaar een schriftelijke toestemming geeft en als het advies van de Commissie wordt gevraagd. Indien de eigenaar geen schriftelijke toestemming geeft, dan gebeurt de wijziging zoals vermeld in artikel 6.2.1, 4°,&nbsp;onder voorwaarden en in de vorm vastgesteld voor de bescherming in artikel 6.1.2, 6.1.5, 6.1.6, 6.1.7, 6.1.13, 6.1.15, 6.1.16, 6.1.17 en 6.1.18. Indien de eigenaar geen schriftelijke toestemming geeft, dan gebeurt de wijziging in het geval zoals vermeld in artikel 6.2.1, 5°, onder de voorwaarden en in de vorm vastgesteld voor de bescherming in artikel 6.1.2, 6.1.5, 6.1.6, 6.1.13, 6.1.15, 6.1.16, 6.1.17 en 6.1.18.</p>
 
 ## Onderafdeling 2 Voorlopige wijziging of opheffing van een besluit tot definitieve bescherming
 
@@ -438,13 +693,44 @@ De Vlaamse Regering wint over de voorlopige wijziging of opheffing van het   bes
 
 ### ART. 6.2.5.
 
-<P>Het besluit tot voorlopige wijziging of opheffing bevat minstens de volgende   gegevens :<BR>1° het opschrift van het besluit dat gewijzigd of opgeheven   wordt;<BR>2° de datum van bekendmaking in het Belgisch Staatsblad van het   besluit dat gewijzigd of opgeheven wordt;<BR>3° in voorkomend geval de   kadastrale gegevens van het perceel of de percelen waarop het beschermde goed   zich bevindt;<BR>4° de redenen van wijziging of opheffing;<BR>5° in geval van   wijziging een beschrijving van de impact op de erfgoedwaarden, een beschrijving   van de impact op de beheersdoelstellingen, een beschrijving van de impact op de   bijzondere voorschriften voor de instandhouding en het onderhoud en, in   voorkomend geval, een beschrijving van de impact op de bijzondere voorschriften   voor de instandhouding en het onderhoud in de overgangszone;<BR>6° de aanduiding   van de te registeren en te documenteren erfgoedwaarden die verloren gaan;<BR>7°   in geval van gedeeltelijke of volledige opheffing de eventuele verplichting om   het beschermde goed te verplaatsen of om onderdelen met erfgoedwaarde in een   erkend onroerenderfgoeddepot te plaatsen;<BR>8° in geval van opheffing vanwege   een verplaatsing als vermeld in artikel 6.2.1, 2°, de maatregelen die nodig zijn   voor de ontmanteling, de verplaatsing en de heroprichting op een geschikte   plaats.<BR></P>  <P>Bij elk besluit tot voorlopige wijziging of tot gedeeltelijke opheffing   worden de volgende bijlagen gevoegd :<BR>1° een gegeorefereerd plan waarop het   beschermde goed na wijziging of gedeeltelijke opheffing nauwkeurig wordt   afgelijnd en waarop de plaats van aanplakking van het bericht over het openbaar   onderzoek wordt aangeduid;<BR>2° een fotoregistratie van de fysieke toestand van   het beschermde goed; <BR>3° in voorkomend geval een lijst met de cultuurgoederen   die integrerend deel uitmaken van het beschermde goed.<BR></P>  <P>De Vlaamse Regering kan de gegevens die in elk besluit tot voorlopige   wijziging of opheffing of in de bijlagen zijn opgenomen, nader omschrijven of   uitbreiden.<BR></P>
+<p>Het besluit tot voorlopige wijziging of opheffing bevat minstens de volgende gegevens :<br>
+1° het opschrift van het besluit dat gewijzigd of opgeheven wordt;<br>
+2° de datum van bekendmaking in het Belgisch Staatsblad van het besluit dat gewijzigd of opgeheven wordt;<br>
+3° in voorkomend geval de kadastrale gegevens van het perceel of de percelen waarop het beschermde goed zich bevindt;<br>
+4° de redenen van wijziging of opheffing;<br>
+5° in geval van wijziging een beschrijving van de impact op de erfgoedwaarden, een beschrijving van de impact op de beheersdoelstellingen, een beschrijving van de impact op de bijzondere voorschriften voor de instandhouding en het onderhoud en, in voorkomend geval, een beschrijving van de impact op de bijzondere voorschriften voor de instandhouding en het onderhoud in de overgangszone;<br>
+6° de aanduiding van de te registeren en te documenteren erfgoedwaarden die verloren gaan;<br>
+7° in geval van gedeeltelijke of volledige opheffing de eventuele verplichting om het beschermde goed te verplaatsen of om onderdelen met erfgoedwaarde in een erkend onroerenderfgoeddepot te plaatsen;<br>
+8° in geval van opheffing vanwege een verplaatsing als vermeld in artikel 6.2.1, 2°, de maatregelen die nodig zijn voor de ontmanteling, de verplaatsing en de heroprichting op een geschikte plaats.</p>
+
+<p>Bij elk besluit tot voorlopige wijziging of tot gedeeltelijke opheffing worden de volgende bijlagen gevoegd :<br>
+1° een gegeorefereerd plan waarop het beschermde goed en in voorkomend geval de overgangszone&nbsp;na wijziging of gedeeltelijke opheffing nauwkeurig wordt afgelijnd en waarop de plaats van aanplakking van het bericht over het openbaar onderzoek wordt aangeduid;<br>
+2° een fotoregistratie van de fysieke toestand van het beschermde goed;<br>
+3° in voorkomend geval een lijst met de cultuurgoederen die integrerend deel uitmaken van het beschermde goed.</p>
+
+<p>De Vlaamse Regering kan de gegevens die in elk besluit tot voorlopige wijziging of opheffing of in de bijlagen zijn opgenomen, nader omschrijven of uitbreiden.</p>
 
 ## Onderafdeling 3 Definitieve wijziging of opheffing van een besluit tot definitieve bescherming
 
 ### ART. 6.2.6.
 
-<P>&nbsp;Het besluit tot definitieve wijziging of opheffing bevat minstens de   volgende gegevens :<BR>1° het opschrift van het besluit dat gewijzigd of   opgeheven wordt;<BR>2° de datum van bekendmaking in het Belgisch Staatsblad van   het besluit dat gewijzigd of opgeheven wordt;<BR>3° in voorkomend geval de   kadastrale gegevens van het perceel of de percelen waarop het beschermde goed   zich bevindt;<BR>4° de redenen van wijziging of opheffing;<BR>5° in geval van   wijziging een beschrijving van de impact op de erfgoedwaarden, een beschrijving   van de gevolgen voor de beheersdoelstellingen, een beschrijving van de gevolgen   voor de bijzondere voorschriften voor de instandhouding en het onderhoud en, in   voorkomend geval, de gevolgen voor de bijzondere voorschriften voor de   instandhouding en het onderhoud in de overgangszone;<BR>6° de aanduiding van de   te registeren en te documenteren erfgoedwaarden die verloren gaan;<BR>7° in   geval van opheffing de eventuele verplichting om het beschermde goed te   verplaatsen of om de onderdelen met erfgoedwaarde in een onroerenderfgoeddepot   te plaatsen;<BR>8° in geval van opheffing vanwege een verplaatsing als vermeld   in artikel 6.2.1, 2°, de maatregelen die nodig zijn voor de ontmanteling, de   verplaatsing en de heroprichting van het onroerend goed op een geschikte   plaats.<BR></P>  <P>Bij elk besluit tot definitieve wijziging of tot gedeeltelijke opheffing   worden de volgende bijlagen gevoegd :<BR>1° een gegeorefereerd plan waarop het   beschermde goed na wijziging of gedeeltelijke opheffing nauwkeurig wordt   afgelijnd en waarop de plaats van de aanplakking van het bericht over het   openbaar onderzoek wordt aangeduid;<BR>2° een fotoregistratie van de fysieke   toestand van het beschermde goed;<BR>3° in voorkomend geval een lijst met de   cultuurgoederen die integrerend deel uitmaken van het beschermde goed;<BR>4° een   document waaruit de behandeling van de bezwaren blijkt.<BR></P>  <P>De Vlaamse Regering kan de gegevens die in elk besluit tot definitieve   wijziging of opheffing of in de bijlagen zijn opgenomen nader omschrijven of   uitbreiden.<BR></P>
+<p>&nbsp;Het besluit tot definitieve wijziging of opheffing bevat minstens de volgende gegevens :<br>
+1° het opschrift van het besluit dat gewijzigd of opgeheven wordt;<br>
+2° de datum van bekendmaking in het Belgisch Staatsblad van het besluit dat gewijzigd of opgeheven wordt;<br>
+3° in voorkomend geval de kadastrale gegevens van het perceel of de percelen waarop het beschermde goed zich bevindt;<br>
+4° de redenen van wijziging of opheffing;<br>
+5° in geval van wijziging een beschrijving van de impact op de erfgoedwaarden, een beschrijving van de gevolgen voor de beheersdoelstellingen, een beschrijving van de gevolgen voor de bijzondere voorschriften voor de instandhouding en het onderhoud en, in voorkomend geval, de gevolgen voor de bijzondere voorschriften voor de instandhouding en het onderhoud in de overgangszone;<br>
+6° de aanduiding van de te registeren en te documenteren erfgoedwaarden die verloren gaan;<br>
+7° in geval van opheffing de eventuele verplichting om het beschermde goed te verplaatsen of om de onderdelen met erfgoedwaarde in een onroerenderfgoeddepot te plaatsen;<br>
+8° in geval van opheffing vanwege een verplaatsing als vermeld in artikel 6.2.1, 2°, de maatregelen die nodig zijn voor de ontmanteling, de verplaatsing en de heroprichting van het onroerend goed op een geschikte plaats.</p>
+
+<p>Bij elk besluit tot definitieve wijziging of tot gedeeltelijke opheffing worden de volgende bijlagen gevoegd :<br>
+1° een gegeorefereerd plan waarop het beschermde goed en in voorkomend geval de overgangszone&nbsp;na wijziging of gedeeltelijke opheffing nauwkeurig wordt afgelijnd en waarop de plaats van de aanplakking van het bericht over het openbaar onderzoek wordt aangeduid;<br>
+2° een fotoregistratie van de fysieke toestand van het beschermde goed;<br>
+3° in voorkomend geval een lijst met de cultuurgoederen die integrerend deel uitmaken van het beschermde goed;<br>
+4° een document waaruit de behandeling van de bezwaren blijkt.</p>
+
+<p>De Vlaamse Regering kan de gegevens die in elk besluit tot definitieve wijziging of opheffing of in de bijlagen zijn opgenomen nader omschrijven of uitbreiden.</p>
 
 ### ART. 6.2.7.
 
@@ -490,7 +776,21 @@ Het is verboden beschermde goederen te ontsieren, te beschadigen, te   vernielen
 
 ### ART. 6.4.4.
 
-<P>§ 1. Handelingen aan of in beschermde goederen opgelijst door de Vlaamse   Regering of opgenomen in het beschermingsbesluit waarvoor geen stedenbouwkundige   vergunning of verkavelingsvergunning, geen milieuvergunning overeenkomstig het   decreet van 28 juni 1995 betreffende de milieuvergunning of geen vergunning,   geen toelating, geen machtiging, geen ontheffing of geen afwijking   overeenkomstig het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober   1997 betreffende het natuurbehoud en het natuurlijk milieu vereist is, kunnen   niet worden aangevat zonder toelating van het agentschap of, in voorkomend   geval, van de erkende onroerenderfgoedgemeente waar het beschermde goed ligt   tenzij zij zijn vrijgesteld in een overeenkomstig artikel 8.1.1 goedgekeurd   beheersplan.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels voor het aanvragen en afleveren   van de toelating.<BR></P>  <P>§ 2. Als voor handelingen aan of in beschermde goederen een stedenbouwkundige   vergunning of verkavelingsvergunning vereist is, wint de vergunningverlenende   overheid in eerste aanleg advies in bij het agentschap overeenkomstig de   procedurebepalingen van de VCRO. Dit advies heeft de gevolgen als omschreven in   artikel 4.3.3 en 4.3.4 van de VCRO. Het advies toetst de voorliggende   handelingen aan het actief- en passiefbehoudsbeginsel alsook aan de bepalingen   van het individuele beschermingsbesluit van het betrokken onroerend   erfgoed.<BR></P>  <P>§ 3. Als voor handelingen aan of in beschermde goederen een milieuvergunning   overeenkomstig het decreet van 28 juni 1995 betreffende de milieuvergunning   vereist is, wint de vergunningverlenende overheid in eerste aanleg advies in bij   het agentschap overeenkomstig de procedurebepalingen van het decreet van 28 juni   1995 betreffende de milieuvergunning.<BR></P>  <P>Als voor handelingen aan of in beschermde goederen een vergunning, toelating,   machtiging, ontheffing of afwijking overeenkomstig het Bosdecreet van 13 juni   1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu vereist is, wint de overheid die de vergunning, toelating,   machtiging, ontheffing of afwijking verleent in eerste aanleg advies in bij het   agentschap overeenkomstig de procedurebepalingen van het Bosdecreet van 13 juni   1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu.<BR></P>  <P>Het advies van het agentschap, vermeld in het eerste en tweede lid, toetst de   voorliggende handelingen aan het actief- en passiefbehoudsbeginsel alsook aan de   bepalingen van het individuele beschermingsbesluit van het betrokken onroerend   erfgoed.<BR></P>  <P>Het advies van het agentschap, vermeld in het eerste en tweede lid, heeft de   volgende rechtsgevolgen :<BR>1° als uit het advies blijkt dat het aangevraagde   strijdig is met direct werkende normen binnen het beleidsveld onroerend erfgoed   of als dergelijke strijdigheid manifest reeds uit het aanvraagdossier blijkt,   wordt de vergunning, toelating, machtiging, ontheffing of afwijking geweigerd of   worden in de aan de vergunning, toelating, machtiging, ontheffing of afwijking   verbonden voorwaarden waarborgen opgenomen met betrekking tot de naleving van de   regelgeving betreffende het onroerend erfgoed. Onder « direct werkende normen »   wordt verstaan : supranationale, wetskrachtige, reglementaire of beschikkende   bepalingen die op zichzelf volstaan om toepasbaar te zijn, zonder dat verdere   reglementering met het oog op precisering of vervollediging noodzakelijk   is;<BR>2° als uit het advies blijkt dat het aangevraagde onwenselijk is in het   licht van doelstellingen of zorgplichten die gehanteerd worden binnen het   beleidsveld onroerend erfgoed kan de vergunning, toelating, machtiging,   ontheffing of afwijking worden geweigerd. Onder « doelstellingen of zorgplichten   » wordt verstaan : internationaalrechtelijke, Europeesrechtelijke,   wetskrachtige, reglementaire of beschikkende bepalingen die de overheid bij de   uitvoering of de interpretatie van de regelgeving of het voeren van een beleid   verplichten tot de inachtneming van een bepaalde doelstelling of van bepaalde   voorzorgen, zonder dat deze op zichzelf beschouwd voldoende juridisch duidelijk   zijn om onmiddellijk te kunnen worden uitgevoerd.<BR></P>
+§ 1. Handelingen aan of in beschermde goederen opgelijst door de Vlaamse Regering of opgenomen in het beschermingsbesluit waarvoor geen stedenbouwkundige vergunning of verkavelingsvergunning, geen milieuvergunning overeenkomstig het decreet van 28 juni 1985 betreffende de milieuvergunning of geen vergunning, geen toelating, geen machtiging, geen ontheffing of geen afwijking overeenkomstig het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu vereist is, kunnen niet worden aangevat zonder toelating van het agentschap of, in voorkomend geval, van de erkende onroerenderfgoedgemeente waar het beschermde goed ligt tenzij zij zijn vrijgesteld in een overeenkomstig artikel 8.1.1 goedgekeurd beheersplan.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor het aanvragen en afleveren van de toelating.<br>
+<br>
+§ 2. Als voor handelingen aan of in beschermde goederen een stedenbouwkundige vergunning of verkavelingsvergunning vereist is, wint de vergunningverlenende overheid in eerste aanleg advies in bij het agentschap overeenkomstig de procedurebepalingen van de VCRO. Dit advies heeft de gevolgen als omschreven in artikel 4.3.3 en 4.3.4 van de VCRO. Het advies toetst de voorliggende handelingen aan het actief- en passiefbehoudsbeginsel alsook aan de bepalingen van het individuele beschermingsbesluit van het betrokken onroerend erfgoed.<br>
+<br>
+§ 3. Als voor handelingen aan of in beschermde goederen een milieuvergunning overeenkomstig het decreet van 28 juni 1985 betreffende de milieuvergunning vereist is, wint de vergunningverlenende overheid in eerste aanleg advies in bij het agentschap overeenkomstig de procedurebepalingen van het decreet van 28 juni 1985 betreffende de milieuvergunning.<br>
+<br>
+Als voor handelingen aan of in beschermde goederen een vergunning, toelating, machtiging, ontheffing of afwijking overeenkomstig het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu vereist is, wint de overheid die de vergunning, toelating, machtiging, ontheffing of afwijking verleent in eerste aanleg advies in bij het agentschap overeenkomstig de procedurebepalingen van het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
+<br>
+Het advies van het agentschap, vermeld in het eerste en tweede lid, toetst de voorliggende handelingen aan het actief- en passiefbehoudsbeginsel alsook aan de bepalingen van het individuele beschermingsbesluit&nbsp; en in voorkomend geval aan de beheersdoelstellingen, opgenomen in het goedgekeurde beheersplan van het betrokken onroerend erfgoed.<br>
+<br>
+Het advies van het agentschap, vermeld in het eerste en tweede lid, heeft de volgende rechtsgevolgen :<br>
+1° als uit het advies blijkt dat het aangevraagde strijdig is met direct werkende normen binnen het beleidsveld onroerend erfgoed of als dergelijke strijdigheid manifest reeds uit het aanvraagdossier blijkt, wordt de vergunning, toelating, machtiging, ontheffing of afwijking geweigerd of worden in de aan de vergunning, toelating, machtiging, ontheffing of afwijking verbonden voorwaarden waarborgen opgenomen met betrekking tot de naleving van de regelgeving betreffende het onroerend erfgoed. Onder « direct werkende normen » wordt verstaan : supranationale, wetskrachtige, reglementaire of beschikkende bepalingen die op zichzelf volstaan om toepasbaar te zijn, zonder dat verdere reglementering met het oog op precisering of vervollediging noodzakelijk is;<br>
+2° als uit het advies blijkt dat het aangevraagde onwenselijk is in het licht van doelstellingen of zorgplichten die gehanteerd worden binnen het beleidsveld onroerend erfgoed kan de vergunning, toelating, machtiging, ontheffing of afwijking worden geweigerd. Onder « doelstellingen of zorgplichten » wordt verstaan : internationaalrechtelijke, Europeesrechtelijke, wetskrachtige, reglementaire of beschikkende bepalingen die de overheid bij de uitvoering of de interpretatie van de regelgeving of het voeren van een beleid verplichten tot de inachtneming van een bepaalde doelstelling of van bepaalde voorzorgen, zonder dat deze op zichzelf beschouwd voldoende juridisch duidelijk zijn om onmiddellijk te kunnen worden uitgevoerd.
 
 ### ART. 6.4.5.
 
@@ -498,7 +798,13 @@ De cultuurgoederen die opgenomen zijn in een besluit tot bescherming van   een m
 
 ### ART. 6.4.6.
 
-<P>Als het agentschap of de erkende onroerenderfgoedgemeente de toelating   toekent, weigert of er voorwaarden aan koppelt, kan de aanvrager, het agentschap   of iedere belanghebbende een georganiseerd administratief beroep instellen bij   de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies   inwinnen bij de Vlaamse Commissie Onroerend Erfgoed.<BR></P>  <P>Elke instantie die een administratief beroep behandelt over een beslissing   tot toekenning of weigering van een stedenbouwkundige vergunning of   verkavelingsvergunning; een milieuvergunning overeenkomstig het decreet van 28   juni 1995 betreffende de milieuvergunning; een vergunning, toelating,   machtiging, ontheffing of afwijking overeenkomstig het Bosdecreet van 13 juli   1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu, wint advies in bij de Vlaamse Commissie Onroerend Erfgoed in   zoverre het verzoekschrift middelen opwerpt over het advies van het agentschap,   vermeld in artikel 6.4.4, § 2 en § 3, of de behandeling van dat advies door de   vergunningverlenende overheid. De Vlaamse Commissie Onroerend Erfgoed bezorgt   het advies overeenkomstig de procedurebepalingen van de betreffende decreten aan   de Vlaamse Regering of de instantie die het administratief beroep behandelt. Als   het uitvoeren van de vergunning ernstige schade kan toebrengen aan een beschermd   goed, kan de Vlaamse Regering het advies van de Vlaamse Commissie Onroerend   Erfgoed bindend verklaren.<BR></P>  <P>Het administratief rechtscollege dat jurisdictionele beroepen behandelt over   beslissingen tot toekenning of weigering van een stedenbouwkundige vergunning of   verkavelingsvergunning; een milieuvergunning overeenkomstig het decreet van 28   juni 1995 betreffende de milieuvergunning; een vergunning, toelating,   machtiging, ontheffing of afwijking overeenkomstig het Bosdecreet van 13 juli   1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu kan advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed   als het verzoekschrift middelen opwerpt over de toekenning of weigering van een   toelating van handelingen aan of in beschermde goederen.<BR></P>  <P>De Vlaamse Regering regelt de administratieve beroepsprocedure en   adviesprocedure, vermeld in het eerste, tweede en derde   lid.<BR></P>
+Als het agentschap of de erkende onroerenderfgoedgemeente de toelating toekent, weigert of er voorwaarden aan koppelt, kan de aanvrager, het agentschap of iedere belanghebbende een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed.<br>
+<br>
+Elke instantie die een administratief beroep behandelt over een beslissing tot toekenning of weigering van een stedenbouwkundige vergunning of verkavelingsvergunning; een milieuvergunning overeenkomstig het decreet van 28 juni 1985 betreffende de milieuvergunning; een vergunning, toelating, machtiging, ontheffing of afwijking overeenkomstig het Bosdecreet van 13 juli 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wint advies in bij de Vlaamse Commissie Onroerend Erfgoed in zoverre het verzoekschrift middelen opwerpt over het advies van het agentschap, vermeld in artikel 6.4.4, § 2 en § 3, of de behandeling van dat advies door de vergunningverlenende overheid. De Vlaamse Commissie Onroerend Erfgoed bezorgt het advies overeenkomstig de procedurebepalingen van de betreffende decreten aan de Vlaamse Regering of de instantie die het administratief beroep behandelt. Als het uitvoeren van de vergunning ernstige schade kan toebrengen aan een beschermd goed, kan de Vlaamse Regering het advies van de Vlaamse Commissie Onroerend Erfgoed bindend verklaren.<br>
+<br>
+Het administratief rechtscollege dat jurisdictionele beroepen behandelt over beslissingen tot toekenning of weigering van een stedenbouwkundige vergunning of verkavelingsvergunning; een milieuvergunning overeenkomstig het decreet van 28 juni 1985 betreffende de milieuvergunning; een vergunning, toelating, machtiging, ontheffing of afwijking overeenkomstig het Bosdecreet van 13 juli 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu kan advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed als het verzoekschrift middelen opwerpt over de toekenning of weigering van een toelating van handelingen aan of in beschermde goederen.<br>
+<br>
+De Vlaamse Regering regelt de administratieve beroepsprocedure en adviesprocedure, vermeld in het eerste, tweede en derde lid.
 
 ### ART. 6.4.7.
 
@@ -534,7 +840,15 @@ Op basis van de onroerenderfgoedrichtplannen, vermeld in artikel 7.1.1, of   van
 
 ### ART. 6.5.3.
 
-<P>De administratieve overheid mag geen werkzaamheden en handelingen ondernemen,   noch toestemming of een vergunning verlenen voor een activiteit die een   erfgoedlandschap geheel of gedeeltelijk kan vernietigen of die een   betekenisvolle schade kan veroorzaken aan de erfgoedwaarden ervan.<BR></P>  <P>De administratieve overheid moet in al haar beslissingen over eigen werken,   over het verlenen van een opdracht daarvoor of over een eigen plan of   verordening die een erfgoedlandschap nadelig kunnen beïnvloeden :<BR>1°   voorkomen dat aan erfgoedwaarden ervan, zoals bepaald in het   onroerenderfgoedrichtplan dat van toepassing is, schade wordt veroorzaakt;<BR>2°   betekenisvolle schade aan de erfgoedwaarden zo veel mogelijk beperken door   schadebeperkende maatregelen te nemen.<BR></P>  <P>De administratieve overheid geeft in al haar beslissingen aan hoe ze rekening   heeft gehouden met de verplichtingen van dit artikel.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels daarvoor.<BR></P>
+<p>De administratieve overheid mag geen werkzaamheden en handelingen ondernemen, noch toestemming of een vergunning verlenen voor een activiteit die een erfgoedlandschap geheel of gedeeltelijk kan vernietigen of die een betekenisvolle schade kan veroorzaken aan de erfgoedwaarden ervan.</p>
+
+<p>De administratieve overheid moet in al haar beslissingen over eigen werken, over het verlenen van een opdracht daarvoor of over een eigen plan of verordening die een erfgoedlandschap nadelig kunnen beïnvloeden :<br>
+1° voorkomen dat aan erfgoedwaarden ervan, zoals bepaald in de vastgestelde landschapsatlas of&nbsp;in het onroerenderfgoedrichtplan dat van toepassing is, schade wordt veroorzaakt;<br>
+2° betekenisvolle schade aan de erfgoedwaarden zo veel mogelijk beperken door schadebeperkende maatregelen te nemen.</p>
+
+<p>De administratieve overheid geeft in al haar beslissingen aan hoe ze rekening heeft gehouden met de verplichtingen van dit artikel.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
 
 ### ART. 6.5.4.
 
@@ -576,7 +890,9 @@ De onroerenderfgoedrichtplannen zijn de sectorale voorstellen voor   inrichtings
 
 ### ART. 9.1.1.
 
-<P>De Vlaamse Regering kan prijzen toekennen voor verwezenlijkingen op het   gebied van onroerend erfgoed.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels daarvoor.<BR></P>
+<p>De Vlaamse Regering kan prijzen toekennen voor verwezenlijkingen op het gebied van beschermd onroerend erfgoed of erfgoedlandschappen.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
 
 ## HOOFDSTUK 10 Financiering onroerenderfgoedzorg
 
@@ -590,11 +906,24 @@ De onroerenderfgoedrichtplannen zijn de sectorale voorstellen voor   inrichtings
 
 ### ART. 10.2.1.
 
-<P>De Vlaamse Regering kan binnen de perken van de daartoe op de begroting van   de Vlaamse Gemeenschap beschikbare kredieten :<BR>1° premies toekennen voor   werkzaamheden aan of in beschermde goederen en in erfgoedlandschappen;<BR>2°   meerjarenpremieovereenkomsten sluiten voor grote en langdurige werken aan of in   beschermd onroerend erfgoed en erfgoedlandschappen;<BR>3° premies toekennen voor   de opmaak van een beheersplan overeenkomstig artikel 8.8.1, § i;<BR>4° premies   toekennen voor beheer van beschermd onroerend erfgoed en   erfgoedlandschappen;<BR>5° premies toekennen voor het beheer van onroerend   erfgoed waarvoor een beheersplan is goedgekeurd overeenkomstig artikel   8.1.1;<BR>6° premies toekennen voor maatregelen ten behoeve van de algemene   landschapszorg, opgenomen in een goedgekeurd actieprogramma onroerend   erfgoed;<BR>7° premies toekennen bij een buitensporige directe kost van de   verplicht uit te voeren archeologische opgraving zoals opgenomen in de   bekrachtigde archeologienota of de bekrachtigde nota.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels daarvoor.<BR></P>
+<p>De Vlaamse Regering kan binnen de perken van de daartoe op de begroting van de Vlaamse Gemeenschap beschikbare kredieten :<br>
+1° premies toekennen voor werkzaamheden aan of in beschermde goederen en in erfgoedlandschappen;<br>
+2° meerjarenpremieovereenkomsten sluiten voor grote en langdurige werken aan of in beschermd onroerend erfgoed en erfgoedlandschappen;<br>
+3° premies toekennen voor de opmaak van een beheersplan overeenkomstig artikel 8.1.1, § i;<br>
+4° premies toekennen voor beheer van beschermd onroerend erfgoed en erfgoedlandschappen;<br>
+5° premies toekennen voor het beheer van onroerend erfgoed waarvoor een beheersplan is goedgekeurd overeenkomstig artikel 8.1.1;<br>
+6° premies toekennen voor maatregelen ten behoeve van de algemene landschapszorg, opgenomen in een goedgekeurd actieprogramma onroerend erfgoed;<br>
+7° premies toekennen bij een buitensporige directe kost van de verplicht uit te voeren archeologische opgraving zoals opgenomen in de bekrachtigde archeologienota of de bekrachtigde nota.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
 
 ### ART. 10.2.2.
 
 <P>De premies van het Vlaamse Gewest voor werkzaamheden aan of in beschermd   bouwkundig erfgoed bedragen minstens :<BR>1° als de premienemer een natuurlijke   persoon of een privaatrechtelijke rechtspersoon is : 32,5 % van de voor subsidie   in aanmerking komende werkzaamheden;<BR>2° voor werkzaamheden aan gebouwen   toebehorend aan een gemeente of OCMW en aan gebouwen bestemd voor een erkende   eredienst : 80 % van de voor subsidie in aanmerking komende   werkzaamheden.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels daarvoor.<BR></P>
+
+### ART 10.2.3.
+
+De premies toegekend in het kader van meerjarenpremieovereenkomsten zoals vermeld in artikel 10.2.1, eerste lid, 2°, worden vastgelegd op jaarbasis.
 
 ## Afdeling 3 Archeologie
 
@@ -626,6 +955,13 @@ Een erkend archeologisch solidariteitsfonds ontvangt, binnen de   beschikbare be
 
 ## [Afdeling 4 Bijkomende voorwaarden voor financiering (ing. Decr. 15 juli 2016, art. 42, I: 1 januari 2017)]
 
+### ART 10.4.1.
+
+Er worden geen premies, subsidies of toelagen verleend aan ondernemingen die op de indieningsdatum:<br>
+1° achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid;<br>
+2° in moeilijkheden zijn als vermeld in artikel 2, 18, van de Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard;<br>
+3° een procedure op basis van Europees of nationaal recht hebben lopen waarbij toegekende steun wordt teruggevorderd.
+
 ## [Afdeling 5 Fiscale stimulansen (ing. Decr. 21 april 2017, art. 2, I: 14 mei 2017)]
 
 ## HOOFDSTUK 11 Handhaving
@@ -646,7 +982,7 @@ Een erkend archeologisch solidariteitsfonds ontvangt, binnen de   beschikbare be
 
 ### ART. 11.2.1.
 
-De in artikel 11.2.2, 1° tot en met 8°, en artikel 11.2.2, eerste lid,   11°, bepaalde misdrijven worden gestraft door de strafrechter. De in artikel   11.2.4 bepaalde inbreuken worden gestraft met een exclusieve bestuurlijke   geldboete. De in artikel 11.2.2, eerste lid, 9° en 10°, bepaalde misdrijven   worden bestraft door de strafrechter of met een alternatieve bestuurlijke   geldboete.<BR>
+De in artikel 11.2.2, eerste lid 1° tot en met 8°, en artikel 11.2.2, eerste lid, 11°, bepaalde misdrijven worden gestraft door de strafrechter. De in artikel 11.2.4 bepaalde inbreuken worden gestraft met een exclusieve bestuurlijke geldboete. De in artikel 11.2.2, eerste lid, 9° en 10°, bepaalde misdrijven worden bestraft door de strafrechter of met een alternatieve bestuurlijke geldboete.
 
 ## Onderafdeling 2 Misdrijven Onroerend Erfgoed
 
@@ -683,7 +1019,7 @@ c) het niet melden van de aanvang van een archeologisch vooronderzoek met ingree
 d) het niet tijdig bezorgen van een archeologierapport, als vermeld in artikel 5.4.20 en 5.5.4, tweede lid;<br>
 e) het niet tijdig bezorgen en publiceren van een eindverslag, als vermeld in artikel 5.4.21 en 5.5.4, derde lid;<br>
 f) het niet melden van de aanvang van een archeologische opgraving, als vermeld in artikel 5.4.10, 5.4.18 en 5.5.4, eerste lid;;<br>
-3° het niet naleven van de plicht tot kennisgeving aan de gebruikers en de eigenaars van cultuurgoederen, vermeld in artikel 6.1.6, derde lid, 1° , en artikel 6.1.16, tweede lid, 1° ;<br>
+3° het niet naleven van de plicht tot kennisgeving aan de gebruikers van het onroerend goed en aan de zakelijkrechthouders van de cultuurgoederen, vermeld in artikel 6.1.6, derde lid, 1° en 2°, en artikel 6.1.16, tweede lid, 1° en 2° ;<br>
 4° het niet melden van een wijziging van bewaarplaats of zakelijk rechthouder, als vermeld in artikel 5.2.2, en het niet melden van het voornemen, als vermeld in artikel 5.2.3.</p>
 
 <p>Een exclusieve bestuurlijke geldboete kan worden opgelegd aan alle deelnemers aan de inbreuk. Zij wordt vermeerderd met de opdeciemen die van toepassing zijn voor de strafrechtelijke geldboeten. De hoogte van de bestuurlijke geldboete wordt afgestemd op de ernst van de inbreuk en eventuele verkregen vermogensvoordelen.</p>
@@ -1184,7 +1520,11 @@ Tot de vaststelling van het besluit tot definitieve omzetting blijven de   recht
 
 ### ART. 12.3.12.
 
-De aanvragen voor een premie overeenkomstig het decreet van 3 maart 1976   tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 16   april 1996 betreffende de landschapszorg en het decreet van 30 juni 1993   houdende bescherming van het archeologisch patrimonium die bij het agentschap   per beveiligde zending ter kennis werden gebracht voor de inwerkingtreding van   hoofdstuk 10, afdeling 2, worden afgehandeld overeenkomstig de regels die golden   voorafgaand aan die datum.<BR>
+De aanvragen van een premie overeenkomstig het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 16 april 1996 betreffende de landschapszorg en het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium die bij het agentschap per beveiligde zending ter kennis werden gebracht voor de inwerkingtreding van hoofdstuk 10, afdeling 2, worden afgehandeld overeenkomstig de regels die golden voorafgaand aan die datum met uitzondering van de kwaliteitseisen voor de uitvoering van de beheersmaatregelen, werkzaamheden en diensten. De Vlaamse Regering bepaalt de nadere regels voor de kwaliteitseisen.<br>
+<br>
+Voor de in het eerste lid vermelde aanvragen voor een premie voor beschermde monumenten die bestemd zijn voor een erkende eredienst kan geen premie worden toegekend zolang er geen actueel kerkenbeleidsplan aan het agentschap is bezorgd. Als het agentschap op 1 oktober 2017 geen kennis heeft genomen van een actueel kerkenbeleidsplan, moet een nieuwe premieaanvraag overeenkomstig artikel 10.2.1 worden ingediend.<br>
+<br>
+Voor de berekening van de restauratiepremie op basis van het besluit van de Vlaamse Regering van 14 december 2001 houdende vaststelling van het premiestelsel voor restauratiewerkzaamheden aan beschermde monumenten wordt de aanvaarde kostenraming niet vermeerderd met de btw.
 
 ### ART. 12.3.12/1.
 
@@ -1206,7 +1546,9 @@ De herwaarderingsplannen goedgekeurd overeenkomstig het decreet van 3   maart 19
 
 ### ART. 12.3.15.
 
-<P>&nbsp;De ankerplaatsen definitief aangeduid overeenkomstig het decreet van 16   april 1996 betreffende de landschapszorg worden beschouwd als een vaststelling   van de landschapsatlas als vermeld in hoofdstuk 4 van dit decreet en als   onroerenderfgoedrichtplannen als vermeld in hoofdstuk 7 van dit decreet.<BR></P>  <P>De ankerplaatsen voorlopig aangeduid overeenkomstig het decreet van 16 april   1996 betreffende de landschapszorg kunnen overeenkomstig dat decreet definitief   worden aangeduid.<BR></P>
+<p>&nbsp;De ankerplaatsen definitief aangeduid overeenkomstig het decreet van 16 april 1996 betreffende de landschapszorg worden beschouwd als een vaststelling van de landschapsatlas als vermeld in hoofdstuk 4 van dit decreet en als onroerenderfgoedrichtplannen als vermeld in hoofdstuk 7 van dit decreet. Voor die ankerplaatsen geldt de motiverings- en zorgplicht, vermeld in artikel 4.1.9 van dit decreet.</p>
+
+<p>De ankerplaatsen voorlopig aangeduid overeenkomstig het decreet van 16 april 1996 betreffende de landschapszorg kunnen overeenkomstig dat decreet definitief worden aangeduid.</p>
 
 ### ART. 12.3.16.
 
