@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027613,
+  "title": "Ministerieel besluit van 2016-10-14 tot bepaling van het duurzaamheidsverslagmodel met indicatoren en descriptoren, vermeld in artikel 6 van het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het decreet van 22 november 2013 betreffende de lokale diensteneconomie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027613/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "b4ab2e6cb26b0d43342800fc28c8687f94ed02277e73db899bffe2d7c5da6eb9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027613&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-10-14",
+  "gazette": "2016-12-06",
+  "numac": 2016036581,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
