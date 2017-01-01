@@ -91,3 +91,13 @@ In artikel VI 30ter, van hetzelfde besluit, ingevoegd bij het besluit van de Vla
 
 In artikel VII 51, § 1, van hetzelfde besluit, ingevoegd bij het besluit van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 29 mei 2009, wordt de zinsnede "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs en Studietoelagen" telkens vervangen door zinsnede "Agentschap Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen".<br>
 &nbsp;
+
+### ART 42.
+
+In artikel VII 91 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en vervangen bij het besluit van de Vlaamse Regering van 1 februari 2013, worden de woorden "Departement internationaal Vlaanderen" vervangen door de woorden "Departement Buitenlandse Zaken".<br>
+&nbsp;
+
+### ART 46.
+
+In artikel VII 109octies, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 april 2011 en gewijzigd bij het besluit van de Vlaamse Regering van 1 februari 2013, worden de woorden "Vlaams ministerie Internationaal Vlaanderen" vervangen door de woorden "Vlaams ministerie van Buitenlandse Zaken".<br>
+&nbsp;
