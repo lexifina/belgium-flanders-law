@@ -2,16 +2,16 @@
   "codex_id": 1000517,
   "title": "Decreet van 1992-04-09 betreffende het onderwijs-III",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000517/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "28c6c92a8e89d06213e634a45b640b9485c25fdf41afd16afba9048a48b87221",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000517/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "3bda3b9e35146debd8ca3c10aaf2c619c82de5b6af6ad8d7ca1234acb887a197",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000517&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2017-01-01",
   "made": "1992-04-09",
   "gazette": "1992-05-16",
   "numac": 1992035567,
   "document_start": null,
   "document_end": null,
-  "in_force": "2016-01-01",
+  "in_force": "2017-01-01",
   "article_versions": 79,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
