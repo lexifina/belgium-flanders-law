@@ -2,16 +2,16 @@
   "codex_id": 1023571,
   "title": "Ministerieel besluit van 2013-12-06 houdende het instellen van een regelluw kader voor het multifunctioneel centrum Therapeutisch Kinderdagverblijf Het Veer vzw",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023571/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "26e8be71cf192c9157c53cbf765834a0f984cfc817516de7b17b801b3f3c43e8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023571/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "df087178f80f152253a5b3b062b7f1d74f4580947db9001534dc3d3a2bae0e64",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023571&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2017-01-01",
   "made": "2013-12-06",
   "gazette": "2014-01-15",
   "numac": 2014200018,
   "document_start": "2014-01-01",
   "document_end": "2016-12-31",
-  "in_force": "2014-01-01",
+  "in_force": "2017-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
