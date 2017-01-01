@@ -357,7 +357,9 @@ De bedragen van de milieuheffing, vermeld in paragraaf 1 en paragraaf 2, worden 
 <br>
 § 6. De bedragen van de milieuheffing, vermeld in paragraaf 1, eerste lid, 3° tot en met 19°, en paragraaf 2, eerste lid, worden vanaf 2007 tot en met het tweede kwartaal van 2015 vermenigvuldigd met 0,70 voor de heffingsplichtigen die overeenkomstig artikel 179 van het Wetboek van de Inkomstenbelastingen 1992 onderworpen zijn aan de vennootschapsbelasting.<br>
 <br>
-De bedragen van de milieuheffing, vermeld in paragraaf 1, eerste lid, 1° tot en met 19°, en paragraaf 2, eerste lid, worden vanaf 1 juli 2015 vermenigvuldigd met 1,5.</p>
+De bedragen van de milieuheffing, vermeld in paragraaf 1, eerste lid, 1° tot en met 19°, en paragraaf 2, eerste lid, worden vanaf 1 juli 2015 vermenigvuldigd met 1,5.<br>
+<br>
+§ 7. Vanaf 1 januari 2017 worden de bedragen vermeld in paragraaf 1, 16° en 17°, en geïndexeerd overeenkomstig de bepalingen van paragraaf 5, met 4 euro per ton verminderd, meer bepaald in de gevallen dat de betreffende afvalstoffen per schip worden aangevoerd.</p>
 
 ### ART. 47.
 
