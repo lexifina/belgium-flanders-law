@@ -105,9 +105,9 @@ Artikel 14 is niet van toepassing op ondersteuning die verleend wordt ter   uitv
 
 ### ART. 16.
 
-De persoonsvolgende financiering voor personen met een handicap bestaat uit een getrapt ondersteuningssysteem voor personen met een handicap. De eerste trap omvat een basisondersteuningsbudget, verstrekt in het kader van de zorgverzekering, vermeld in artikel 3 van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering, of artikel 3, derde lid, 1°, van het decreet van 13 juli 2012 houdende de Vlaamse sociale bescherming. De tweede trap omvat een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning, verstrekt door het agentschap.<br>
+De persoonsvolgende financiering voor personen met een handicap bestaat uit een getrapt ondersteuningssysteem voor personen met een handicap. De eerste trap omvat een basisondersteuningsbudget, verstrekt in het kader van de Vlaamse sociale bescherming, vermeld in artikel 4 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming. De tweede trap omvat een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning, verstrekt door het agentschap.<br>
 <br>
-De persoonsvolgende financiering, vermeld in het eerste lid, wordt geregeld in het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap, met behoud van de toepassing van de bepalingen van dit decreet. Artikel 21 is echter niet van toepassing op het basisondersteuningsbudget, vermeld in het eerste lid, waarvoor de bepalingen van de zorgverzekering, vermeld in het eerste lid gelden.
+De persoonsvolgende financiering, vermeld in het eerste lid, wordt geregeld in het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap, met behoud van de toepassing van de bepalingen van dit decreet. Artikel 21 is echter niet van toepassing op het basisondersteuningsbudget, vermeld in het eerste lid, waarvoor de bepalingen van de Vlaamse sociale bescherming, vermeld in het eerste lid gelden.
 
 ### ART. 17.
 
