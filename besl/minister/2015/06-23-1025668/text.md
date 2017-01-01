@@ -44,7 +44,26 @@
 
 ### ART. 2.
 
-De verzamelaanvraag bevat :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de activering van betalingsrechten conform artikel 27 van het besluit van 24   oktober 2014;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de aangifte van alle landbouwareaal, vermeld in artikel 4, lid 1, e), van   verordening (EU) nr. 1307/2013;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de aangifte van alle potentiële vergroeningselementen in het kader van de   vergroeningspremie, vermeld in hoofdstuk 3, afdeling 3, van het besluit van 24   oktober 2014, en de selectie van die vergroeningselementen die de landbouwer wil   gebruiken om te voldoen aan de verplichting van het ecologisch   aandachtsgebied;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   de aangifte van percelen in het kader van het Mestdecreet van 22 december   2006;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   de aangifte van niet-landbouwareaal ter uitvoering van het Mestdecreet van 22   december 2006;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">6°   de aanvraag voor de jonge landbouwersbetaling, vermeld in hoofdstuk 3, afdeling   4, van het besluit van 24 oktober 2014;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">7°   ...<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">8°   de betalingsaanvraag voor agromilieuverbintenissen en beheerovereenkomsten,   vermeld in artikel 12, § 3, tweede lid, van het besluit van de Vlaamse Regering   van 5 september 2014 tot het verlenen van subsidies voor de uitvoering van   agromilieu- en klimaatmaatregelen met toepassing van het Vlaams Programma voor   Plattelandsontwikkeling voor de periode 2014-2020;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">9°   de betalingsaanvraag of de aangifte van percelen waarvoor een beheerovereenkomst   gesloten is;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">10°   de aanvraag voor nieuwe verbintenissen en de betalingsaanvraag voor de   hectaresteun voor biologische productiemethode, vermeld in artikel 6, eerste en   vierde lid, van het besluit van de Vlaamse Regering van 4 juli 2014 tot het   verlenen van hectaresteun voor de biologische productiemethode met toepassing   van het Vlaams Programma voor Plattelandsontwikkeling voor de   programmeringsperiode 2014-2020;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">11°   de aangifte van percelen voor biocertificering en de percelen die al   gecertificeerd zijn;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">12°   de betalingsaanvraag voor inkomenscompensatie en onderhoudssubsidie voor   bebossing van landbouwgronden, vermeld in artikel 16 van het besluit van de   Vlaamse Regering van 14 november 2008 betreffende de subsidiëring van de   bebossing van landbouwgronden ter uitvoering van Verordening (EG) nr. 1698/2005   van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit   het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO);<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">13°   de betalingsaanvraag voor de aanplantsubisidie voor boslandbouwsystemen, vermeld   in artikel 5, § 3, tweede lid, van het besluit van de Vlaamse Regering van 30   juli 2014 betreffende het verlenen van subsidies voor de aanplant van   boslandbouwsystemen met toepassing van het Vlaams Programma voor   Plattelandsontwikkeling voor de programmeringsperiode 2014-2020;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">14°   de aangifte van de teelten waarvoor steun wordt aangevraagd in het kader van het   doel, vermeld in artikel 33, lid 1, e), van verordening (EU) nr. 1308/2013 van   het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een   gemeenschappelijke ordening van de markten voor landbouwproducten en tot   intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr.   1037/2001 en (EG) nr. 1234/2007 van de Raad;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">15°   de aangifte van percelen waarop dieren geplaatst zijn, in het kader van   diergebonden steunmaatregelen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">16°   de aangifte en de aanvraag van een teelttoestemming voor hennep, vermeld in   artikel 21 van het besluit van 24 oktober 2014;<BR>17° de aangifte van   niet-productieve investeringen, vermeld in artikel 5 van het besluit van de   Vlaamse Regering van 2 oktober 2015 betreffende steun aan niet-productieve   investeringen en aan de ontwikkeling van kleine landbouwbedrijven;<BR>18° een   aanvraag van nieuwe betalingsrechten of van een verhoging van betalingsrechten   uit de reserve als vermeld in artikel 33, § 3, tweede lid, van het besluit van   24 oktober 2014;<BR>19° de facultatieve aangifte van boslandbouwsystemen met het   oog op de vrijstelling van de vergunningsplicht, vermeld in artikel 8, § 2, van   het besluit van de Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere   regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het   natuurbehoud en het natuurlijk milieu.
+De verzamelaanvraag bevat :<br>
+1° de activering van betalingsrechten conform artikel 27 van het besluit van 24 oktober 2014;<br>
+2° de aangifte van alle landbouwareaal, vermeld in artikel 4, lid 1, e), van verordening (EU) nr. 1307/2013;<br>
+3° de aangifte van&nbsp;de vergroeningselementen, vermeld in hoofdstuk 3, afdeling 3, van het besluit van 24 oktober 2014, die de landbouwer wil gebruiken in het kader van de vergroeningspremie en om te voldoen aan de verplichting van het ecologisch aandachtsgebied;<br>
+4° de aangifte van percelen in het kader van het Mestdecreet van 22 december 2006;<br>
+5° de aangifte van niet-landbouwareaal ter uitvoering van het Mestdecreet van 22 december 2006;<br>
+6° de aanvraag voor de jonge landbouwersbetaling, vermeld in hoofdstuk 3, afdeling 4, van het besluit van 24 oktober 2014;<br>
+7° ...<br>
+8° de betalingsaanvraag voor agromilieuverbintenissen en beheerovereenkomsten, vermeld in artikel 12, § 3, tweede lid, van het besluit van de Vlaamse Regering van 5 september 2014 tot het verlenen van subsidies voor de uitvoering van agromilieu- en klimaatmaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de periode 2014-2020;<br>
+9° de betalingsaanvraag of de aangifte van percelen waarvoor een beheerovereenkomst gesloten is;<br>
+10° de aanvraag voor nieuwe verbintenissen en de betalingsaanvraag voor de hectaresteun voor biologische productiemethode, vermeld in artikel 6, eerste en vierde lid, van het besluit van de Vlaamse Regering van 4 juli 2014 tot het verlenen van hectaresteun voor de biologische productiemethode met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de programmeringsperiode 2014-2020;<br>
+11° de aangifte van percelen voor biocertificering en de percelen die al gecertificeerd zijn;<br>
+12° de betalingsaanvraag voor inkomenscompensatie en onderhoudssubsidie voor bebossing van landbouwgronden, vermeld in artikel 16 van het besluit van de Vlaamse Regering van 14 november 2008 betreffende de subsidiëring van de bebossing van landbouwgronden ter uitvoering van Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO);<br>
+13° de betalingsaanvraag voor de aanplantsubisidie voor boslandbouwsystemen, vermeld in artikel 5, § 3, tweede lid, van het besluit van de Vlaamse Regering van 30 juli 2014 betreffende het verlenen van subsidies voor de aanplant van boslandbouwsystemen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de programmeringsperiode 2014-2020;<br>
+14° de aangifte van de teelten waarvoor steun wordt aangevraagd in het kader van het doel, vermeld in artikel 33, lid 1, e), van verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad;<br>
+15° de aangifte van percelen waarop dieren geplaatst zijn, in het kader van diergebonden steunmaatregelen;<br>
+16° de aangifte en de aanvraag van een teelttoestemming voor hennep, vermeld in artikel 21 van het besluit van 24 oktober 2014;<br>
+17° de aangifte van niet-productieve investeringen, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 2 oktober 2015 betreffende steun aan niet-productieve investeringen en aan de ontwikkeling van kleine landbouwbedrijven;<br>
+18° een aanvraag van nieuwe betalingsrechten of van een verhoging van betalingsrechten uit de reserve als vermeld in artikel 33, § 3, tweede lid, van het besluit van 24 oktober 2014;<br>
+19° de facultatieve aangifte van boslandbouwsystemen met het oog op de vrijstelling van de vergunningsplicht, vermeld in artikel 8, § 2, van het besluit van de Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.
 
 ### ART. 3.
 
@@ -80,7 +99,21 @@ Als   er geen wijzigingen zijn ten opzichte van het voorgaande jaar, kan een   l
 
 ### ART. 10.
 
-<P>Een landbouwer geeft alle landbouwpercelen van zijn landbouwareaal, vermeld   in artikel 4, lid 1, e), van verordening (EU) nr. 1307/2013, aan in zijn   verzamelaanvraag.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De volgende elementen die niet behoren tot het landbouwareaal, vermeld in het   eerste lid, moeten ook aangeven worden in de verzamelaanvraag :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   stallen en gebouwen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   andere gebouwen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   niet-landbouwareaal dat begraasd wordt;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   heide als dat areaal begraasd wordt;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   tuinen met hoogstamboomgaarden als de landbouwer daar steun voor aanvraagt in   het kader van een verbintenis voor hoogstamboomgaarden als vermeld in artikel 2,   5°, van het besluit van de Vlaamse Regering van 21 december 2007 tot het   verlenen van subsidies voor de uitvoering van agromilieumaatregelen met   toepassing van het Vlaams Programma voor Plattelandsontwikkeling, die conform   artikel 18 van het besluit van de Vlaamse Regering van 5 september 2014 tot het   verlenen van subsidies voor de uitvoering van agromilieu- en klimaatmaatregelen   met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de   periode 2014-2020 blijft lopen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">6°   sloten met een breedte die groter is dan of gelijk is aan 2 meter en die kleiner   is dan of gelijk is aan 6 meter;<BR>7° groepen van bomen met een oppervlakte die   groter is dan of gelijk is aan 0,01 hectare en die kleiner is dan of gelijk is   aan 0,3 hectare, en die op het bouwland liggen of eraan grenzen.</P>  <P>In het tweede lid wordt verstaan onder :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   heide : de gronden met dwergstruikenformatie, gedomineerd door struikheide of   dopheide, zonder bomen en struiken of met weinig bomen en struiken en met een   doorgaans goed ontwikkelde moslaag;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   stallen en gebouwen : de stallen, ongeacht de ligging ervan ten opzichte van het   erf, en gebouwen die aan het erf grenzen en waarin niet geproduceerd wordt;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   andere gebouwen : andere gebouwen dan stallen, waar niet geproduceerd wordt en   die niet rechtstreeks aan het erf grenzen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Een landbouwer geeft alle landbouwpercelen van zijn landbouwareaal, vermeld in artikel 4, lid 1, e), van verordening (EU) nr. 1307/2013, aan in zijn verzamelaanvraag.</p>
+
+<p>De volgende elementen die niet behoren tot het landbouwareaal, vermeld in het eerste lid, moeten ook aangeven worden in de verzamelaanvraag :<br>
+1° stallen en gebouwen;<br>
+2° andere gebouwen;<br>
+3° niet-landbouwareaal dat begraasd wordt;<br>
+4° heide als dat areaal begraasd wordt;<br>
+5° tuinen met hoogstamboomgaarden als de landbouwer daar steun voor aanvraagt in het kader van een verbintenis voor hoogstamboomgaarden als vermeld in artikel 2, 5°, van het besluit van de Vlaamse Regering van 21 december 2007 tot het verlenen van subsidies voor de uitvoering van agromilieumaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling, die conform artikel 18 van het besluit van de Vlaamse Regering van 5 september 2014 tot het verlenen van subsidies voor de uitvoering van agromilieu- en klimaatmaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de periode 2014-2020 blijft lopen;<br>
+6° ...;<br>
+7° ...</p>
+
+<p>In het tweede lid wordt verstaan onder :<br>
+1° heide : de gronden met dwergstruikenformatie, gedomineerd door struikheide of dopheide, zonder bomen en struiken of met weinig bomen en struiken en met een doorgaans goed ontwikkelde moslaag;<br>
+2° stallen en gebouwen : de stallen, ongeacht de ligging ervan ten opzichte van het erf, en gebouwen die aan het erf grenzen en waarin niet geproduceerd wordt;<br>
+3° andere gebouwen : andere gebouwen dan stallen, waar niet geproduceerd wordt en die niet rechtstreeks aan het erf grenzen.</p>
 
 ### ART. 11.
 
@@ -104,7 +137,11 @@ Landbouwers die de biologische productiemethode toepassen en die willen   afzien
 
 ### ART. 15.
 
-<P>Voor   de agromilieu- en klimaatmaatregelen en de andere maatregelen, vermeld in punt 1   van bijlage 1, die bij dit besluit is gevoegd, geldt de verzamelaanvraag als   betalingsaanvraag.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   de agromilieu- en klimaatmaatregelen en de andere maatregelen, vermeld in punt 2   van bijlage 1, geldt de verzamelaanvraag als melding voor percelen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Percelen   waarop agromilieu- en klimaatmaatregelen en andere maatregelen, vermeld in   bijlage 1, worden aangevraagd, moeten als apart landbouwperceel worden   aangegeven in de verzamelaanvraag.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Voor de agromilieu- en klimaatmaatregelen en de andere maatregelen, vermeld in punt 1 van bijlage 1, die bij dit besluit is gevoegd, geldt de verzamelaanvraag als betalingsaanvraag en in voorkomend geval als verbintenisaanvraag.</p>
+
+<p>Voor de agromilieu- en klimaatmaatregelen en de andere maatregelen, vermeld in punt 2 van bijlage 1, geldt de verzamelaanvraag als melding voor percelen.</p>
+
+<p>Percelen waarop agromilieu- en klimaatmaatregelen en andere maatregelen, vermeld in bijlage 1, worden aangevraagd, moeten als apart landbouwperceel worden aangegeven in de verzamelaanvraag.</p>
 
 ## Afdeling 4 Andere aangiftes
 
@@ -120,7 +157,19 @@ De   landbouwer die de jonge landbouwersbetaling aanvraagt, voegt de bewijsstukk
 
 ### ART. 18.
 
-<P>§ 1. De landbouwer kan tot 31 mei van het jaar in kwestie individuele, voor   de landbouw gebruikte landbouwpercelen, ecologische aandachtsgebieden en   betalingsrechten die nog niet in de verzamelaanvraag waren aangegeven,   toevoegen, en wijzigingen met betrekking tot het gebruik ervan aanbrengen   conform artikel 15, lid 1 en 2, van verordening (EU) nr. 809/2014.<BR><BR>De   wijzigingen die na 31 mei van het jaar in kwestie worden meegedeeld, worden   conform artikel 13 en 14 van verordening (EU) nr. 640/2014 en artikel 16 van   verordening (EU) nr. 809/2014 behandeld.<BR><BR>In afwijking van het eerste lid   kunnen:<BR>1° wijzigingen van de hoofdteelt aangegeven worden tot en met 31   augustus van het jaar in kwestie;<BR>2° wisselingen in het landbouwgebruik van   percelen in het kader van de toepassing van groenbedekker als ecologisch   aandachtsgebied worden meegedeeld tot 16 oktober van het jaar in kwestie, met   uitzondering van wisselingen in het landbouwgebruik van de percelen in de   landbouwstreek `Polders' en `Duinen', die maar tot 16 september van het jaar in   kwestie meegedeeld kunnen worden.<BR><BR>De landbouwer deelt elke wijziging van   zijn ingediende verzamelaanvraag mee aan de bevoegde entiteit, uiterlijk op 31   oktober van het jaar in kwestie en voor een controle wordt aangekondigd of   uitgevoerd.<BR><BR>Na 31 oktober van het jaar in kwestie kunnen geen wijzigingen   meer worden aangebracht in de verzamelaanvraag, met uitzondering van wijzigingen   in de nateelt, die zonder bewijsstukken ingediend kunnen worden tot en met 31   december van het jaar in kwestie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"><BR>§   2. Als de landbouwer kan aantonen dat zijn aangifte door overmacht of door een   administratieve vergissing, zonder nalatigheid of fout van de landbouwer, niet   overeenstemt met een aantoonbare realiteit, kunnen in afwijking van paragraaf 1   toch nog wijzigingen in de teelt of ingebruikname worden aangebracht in de   verzamelaanvraag. De landbouwer dient daarvoor een gemotiveerd verzoekschrift in   via het e-loket of op papier bij de buitendienst van de bevoegde entiteit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. De landbouwer kan tot 31 mei van het jaar in kwestie individuele, voor de landbouw gebruikte landbouwpercelen, ecologische aandachtsgebieden en betalingsrechten die nog niet in de verzamelaanvraag waren aangegeven, toevoegen, en wijzigingen met betrekking tot het gebruik ervan aanbrengen conform artikel 15, lid 1 en 2, van verordening (EU) nr. 809/2014.<br>
+<br>
+De wijzigingen die na 31 mei van het jaar in kwestie worden meegedeeld, worden conform artikel 13 en 14 van verordening (EU) nr. 640/2014 en artikel 16 van verordening (EU) nr. 809/2014 behandeld.<br>
+<br>
+In afwijking van het eerste lid kunnen:<br>
+1° ...;<br>
+2° wisselingen in het landbouwgebruik van percelen in het kader van de toepassing van groenbedekker als ecologisch aandachtsgebied worden meegedeeld tot 16 oktober van het jaar in kwestie, met uitzondering van wisselingen in het landbouwgebruik van de percelen in de landbouwstreek `Polders' en `Duinen', die maar tot 16 september van het jaar in kwestie meegedeeld kunnen worden.<br>
+<br>
+De landbouwer deelt elke wijziging van zijn ingediende verzamelaanvraag mee aan de bevoegde entiteit, uiterlijk op 31 oktober van het jaar in kwestie en voor een controle wordt aangekondigd of uitgevoerd.<br>
+<br>
+Na 31 oktober van het jaar in kwestie kunnen geen wijzigingen meer worden aangebracht in de verzamelaanvraag, met uitzondering van wijzigingen in de nateelt, die zonder bewijsstukken ingediend kunnen worden tot en met 31 december van het jaar in kwestie.<br>
+<br>
+§ 2. Als de landbouwer kan aantonen dat zijn aangifte door overmacht of door een administratieve vergissing, zonder nalatigheid of fout van de landbouwer, niet overeenstemt met een aantoonbare realiteit, kunnen in afwijking van paragraaf 1 toch nog wijzigingen in de teelt of ingebruikname worden aangebracht in de verzamelaanvraag. De landbouwer dient daarvoor een gemotiveerd verzoekschrift in via het e-loket of op papier bij de buitendienst van de bevoegde entiteit.</p>
 
 ## HOOFDSTUK 5 Slotbepaling
 
@@ -134,8 +183,470 @@ Het   ministerieel besluit van 19 augustus 2009 tot instelling van een   bedrijf
 
 ### BIJLAGE 1
 
-Agromilieu-   en klimaatmaatregelen en andere maatregelen als vermeld in artikel 15<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1.   Agromilieu- en klimaatmaatregelen en andere maatregelen waarvoor de   verzamelaanvraag dient als betalingsaanvraag<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>&nbsp;</TD>      <TD>&nbsp;Code</TD>      <TD>Categorie<BR></TD></TR>    <TR>      <TD>1°</TD>      <TD>HOB</TD>      <TD>hectaresteun omschakeling biologische productiemethode<BR></TD></TR>    <TR>      <TD>2°</TD>      <TD>HVB</TD>      <TD>hectaresteun voortzetting biologische productiemethode<BR></TD></TR>    <TR>      <TD>3°</TD>      <TD>MOB</TD>      <TD>mechanische onkruidbestrijding<BR></TD></TR>    <TR>      <TD>4°</TD>      <TD>VLI</TD>      <TD>vlinderbloemige gewassen<BR></TD></TR>    <TR>      <TD>5°</TD>      <TD>SI2, SE2 of SB2</TD>      <TD>sierteelt (intensieve sierteelt, extensieve sierteelt, beschutte         sierteelt)<BR></TD></TR>    <TR>      <TD>6°</TD>      <TD>VER</TD>      <TD>verwarringstechniek bij pitfruitteelt<BR></TD></TR>    <TR>      <TD>7°</TD>      <TD>BOS</TD>      <TD>bebossing van landbouwgrond - onderhoud en     inkomenscompensatie<BR></TD></TR>    <TR>      <TD>8°</TD>      <TD>HSB</TD>      <TD>behoud genetische diversiteit hoogstambomen<BR></TD></TR>    <TR>      <TD>9°</TD>      <TD>-</TD>      <TD>behoud genetische diversiteit runderen<BR></TD></TR>    <TR>      <TD>10°</TD>      <TD>-</TD>      <TD>behoud genetische diversiteit schapen<BR></TD></TR>    <TR>      <TD>11°</TD>      <TD>BLS</TD>      <TD>boslandbouwsystemen<BR></TD></TR>    <TR>      <TD>12°</TD>      <TD>-</TD>      <TD>controlekosten biologische landbouw<BR></TD></TR>    <TR>      <TD>13°</TD>      <TD>VLS</TD>      <TD>vezelvlas verminderde bemesting<BR></TD></TR>    <TR>      <TD>14°</TD>      <TD>HNP</TD>      <TD>vezelhennep verminderde bemesting<BR></TD></TR>    <TR>      <TD>15°</TD>      <TD>AV1</TD>      <TD>akkervogelbeheer - leeuwerikvlakjes<BR></TD></TR>    <TR>      <TD>16°</TD>      <TD>AV2</TD>      <TD>akkervogelbeheer - faunaranden<BR></TD></TR>    <TR>      <TD>17°</TD>      <TD>AV3</TD>      <TD>akkervogelbeheer - graanranden<BR></TD></TR>    <TR>      <TD>18°</TD>      <TD>AV4</TD>      <TD>akkervogelbeheer - winterstoppel<BR></TD></TR>    <TR>      <TD>19°</TD>      <TD>BW3</TD>      <TD>verminderde bemesting in kwetsbare zones water<BR></TD></TR>    <TR>      <TD>20°</TD>      <TD>BW4</TD>      <TD>beheerovereenkomst waterkwaliteit<BR></TD></TR>    <TR>      <TD>21°</TD>      <TD>DI2</TD>      <TD>erosiebestrijding - directe inzaai<BR></TD></TR>    <TR>      <TD>22°</TD>      <TD>NK2</TD>      <TD>erosiebestrijding - niet-kerende bodembewerking<BR></TD></TR>    <TR>      <TD>23°</TD>      <TD>WV1</TD>      <TD>weidevogelbeheer met vluchtstroken<BR></TD></TR>    <TR>      <TD>24°</TD>      <TD>HAM</TD>      <TD>hamsterbescherming - graanstrook en   luzernestrook<BR></TD></TR></TBODY></TABLE><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2.   Agromilieu- en klimaatmaatregelen en andere maatregelen waarvoor de   verzamelaanvraag dient als melding van percelen<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>&nbsp;</TD>      <TD>&nbsp;NAAM BEHEERPAKKET</TD>      <TD>&nbsp;</TD>      <TD>&nbsp;Interne code pakket</TD>      <TD>Voordrukcode VA<BR></TD></TR>    <TR>      <TD>1°</TD>      <TD>ontwikkeling soortenrijk grasland</TD>      <TD>PDPO3</TD>      <TD>BB31</TD>      <TD>BB<BR></TD></TR>    <TR>      <TD>2°</TD>      <TD>instandhouding soortenrijk grasland</TD>      <TD>PDPO3</TD>      <TD>BB32</TD>      <TD>BB<BR></TD></TR>    <TR>      <TD>3°</TD>      <TD>faunabeheer grasland uitgestelde maaidatum</TD>      <TD>PDPO3</TD>      <TD>FBG31</TD>      <TD>FB<BR></TD></TR>    <TR>      <TD>4°</TD>      <TD>faunabeheer grasland beweiden 20 mei</TD>      <TD>PDPO3</TD>      <TD>FBG32</TD>      <TD>FB<BR></TD></TR>    <TR>      <TD>5°</TD>      <TD>faunabeheer grasland standweide 15 juni</TD>      <TD>PDPO3</TD>      <TD>FBG33</TD>      <TD>FB<BR></TD></TR>    <TR>      <TD>6°</TD>      <TD>faunabeheer grasland kuikenweide</TD>      <TD>PDPO3</TD>      <TD>FBG34</TD>      <TD>FB<BR></TD></TR>    <TR>      <TD>7°</TD>      <TD>faunabeheer akkerland voedselgewas</TD>      <TD>PDPO3</TD>      <TD>FBA35</TD>      <TD>FB<BR></TD></TR>    <TR>      <TD>8°</TD>      <TD>aanleg en onderhoud grasstrook</TD>      <TD>PDPO3</TD>      <TD>RB31</TD>      <TD>RB<BR></TD></TR>    <TR>      <TD>9°</TD>      <TD>aanleg en onderhoud strategisch grasland</TD>      <TD>PDPO3</TD>      <TD>ER32</TD>      <TD>ER<BR></TD></TR>    <TR>      <TD>10°</TD>      <TD>aanleg en onderhoud grasstrook 15 juni</TD>      <TD>PDPO3</TD>      <TD>RB32</TD>      <TD>RB<BR></TD></TR>    <TR>      <TD>11°</TD>      <TD>aanleg en onderhoud vluchtstrook 22 juni</TD>      <TD>PDPO3</TD>      <TD>RB33</TD>      <TD>RB<BR></TD></TR>    <TR>      <TD>12°</TD>      <TD>aanleg en onderhoud gemengde grasstrook</TD>      <TD>PDPO3</TD>      <TD>RB34</TD>      <TD>RB<BR></TD></TR>    <TR>      <TD>13°</TD>      <TD>onderhoud gemengde grasstrook</TD>      <TD>PDPO3</TD>      <TD>RB35</TD>      <TD>RB<BR></TD></TR>    <TR>      <TD>14°</TD>      <TD>aanleg en onderhoud gemengde grasstrook plus</TD>      <TD>PDPO3</TD>      <TD>RB36</TD>      <TD>RB<BR></TD></TR>    <TR>      <TD>15°</TD>      <TD>onderhoud gemengde grasstrook plus</TD>      <TD>PDPO3</TD>      <TD>RB37</TD>      <TD>RB<BR></TD></TR>    <TR>      <TD>16°</TD>      <TD>aanleg en onderhoud bloemenstrook</TD>      <TD>PDPO3</TD>      <TD>BS38</TD>      <TD>BS<BR></TD></TR>    <TR>      <TD>17°</TD>      <TD>onderhoud houtkant</TD>      <TD>PDPO3</TD>      <TD>KLE34</TD>      <TD>HKW<BR></TD></TR>    <TR>      <TD>18°</TD>      <TD>omvormingsbeheer houtkant</TD>      <TD>PDPO3</TD>      <TD>KLE36</TD>      <TD>HKW<BR></TD></TR>    <TR>      <TD>19°</TD>      <TD>beheerovereenkomst waterkwaliteit</TD>      <TD>PDPO3</TD>      <TD>BW4</TD>      <TD>BW4<BR></TD></TR>    <TR>      <TD>20°</TD>      <TD>fosfaatuitmijning akkerland</TD>      <TD>PDPO3</TD>      <TD>IHD31</TD>      <TD>IHD<BR></TD></TR>    <TR>      <TD>21°</TD>      <TD>verminderde bemesting akkerland</TD>      <TD>PDPO3</TD>      <TD>IHD32</TD>      <TD>IHD<BR></TD></TR>    <TR>      <TD>22°</TD>      <TD>verminderde bemesting grasland</TD>      <TD>PDPO3</TD>      <TD>IHD33</TD>      <TD>IHD<BR></TD></TR>    <TR>      <TD>23°</TD>      <TD>AV gemengde grasstroken</TD>      <TD>PDPO2</TD>      <TD>AKV21</TD>      <TD>AKV<BR></TD></TR>    <TR>      <TD>24°</TD>      <TD>AV opgeploegde gemengde grasstroken</TD>      <TD>PDPO2</TD>      <TD>AKV22</TD>      <TD>AKV<BR></TD></TR>    <TR>      <TD>25°</TD>      <TD>AKV vogelvoedselgewas</TD>      <TD>PDPO2</TD>      <TD>AKV23</TD>      <TD>AKV<BR></TD></TR>    <TR>      <TD>26°</TD>      <TD>BB grasland maaien 1 juni</TD>      <TD>PDPO2</TD>      <TD>BB21</TD>      <TD>BB<BR></TD></TR>    <TR>      <TD>27°</TD>      <TD>BB grasland maaien 16 juni</TD>      <TD>PDPO2</TD>      <TD>BB22</TD>      <TD>BB<BR></TD></TR>    <TR>      <TD>28°</TD>      <TD>BB grasland beweiden 1 juni</TD>      <TD>PDPO2</TD>      <TD>BB23</TD>      <TD>BB<BR></TD></TR>    <TR>      <TD>29°</TD>      <TD>BB akkerland</TD>      <TD>PDPO2</TD>      <TD>BB24</TD>      <TD>BB<BR></TD></TR>    <TR>      <TD>30°</TD>      <TD>ER aanleg en onderhoud grasbufferstrook</TD>      <TD>PDPO2</TD>      <TD>ER21</TD>      <TD>ER<BR></TD></TR>    <TR>      <TD>31°</TD>      <TD>ER aanleg en onderhoud grasgang = rand</TD>      <TD>PDPO2</TD>      <TD>ER22</TD>      <TD>ER<BR></TD></TR>    <TR>      <TD>32°</TD>      <TD>ER aanleg en onderhoud grasgang</TD>      <TD>PDPO2</TD>      <TD>ER23</TD>      <TD>ER<BR></TD></TR>    <TR>      <TD>33°</TD>      <TD>KLE (her)aanleg poel</TD>      <TD>PDPO2</TD>      <TD>KLE212</TD>      <TD>POE<BR></TD></TR>    <TR>      <TD>34°</TD>      <TD>KLE onderhoud poel</TD>      <TD>PDPO2</TD>      <TD>KLE215</TD>      <TD>POE<BR></TD></TR>    <TR>      <TD>35°</TD>      <TD>KLE aanplant houtkant streekeigen</TD>      <TD>PDPO2</TD>      <TD>KLE25</TD>      <TD>HKW<BR></TD></TR>    <TR>      <TD>36°</TD>      <TD>KLE aanplant houtkant autochtoon</TD>      <TD>PDPO2</TD>      <TD>KLE26</TD>      <TD>HKW<BR></TD></TR>    <TR>      <TD>37°</TD>      <TD>KLE onderhoud houtkant</TD>      <TD>PDPO2</TD>      <TD>KLE29</TD>      <TD>HKW<BR></TD></TR>    <TR>      <TD>38°</TD>      <TD>PRB natuur</TD>      <TD>PDPO2</TD>      <TD>PRB21</TD>      <TD>PRB<BR></TD></TR>    <TR>      <TD>39°</TD>      <TD>PRB milieu</TD>      <TD>PDPO2</TD>      <TD>PRB22</TD>      <TD>PRB<BR></TD></TR>    <TR>      <TD>40°</TD>      <TD>WV maaien</TD>      <TD>PDPO2</TD>      <TD>WV21</TD>      <TD>WV<BR></TD></TR>    <TR>      <TD>41°</TD>      <TD>WV beweiden</TD>      <TD>PDPO2</TD>      <TD>WV22</TD>      <TD>WV<BR></TD></TR>    <TR>      <TD>42°</TD>      <TD>WV omzetten akkerland en maaien</TD>      <TD>PDPO2</TD>      <TD>WV23</TD>      <TD>WV<BR></TD></TR>    <TR>      <TD>43°</TD>      <TD>WV omzetten akkerland en beweiden</TD>      <TD>PDPO2</TD>      <TD>WV24</TD>      <TD>WV<BR></TD></TR></TBODY></TABLE><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Bijlage 1. - Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld in artikel 15<br>
+<br>
+1. Agromilieu- en klimaatmaatregelen en andere maatregelen waarvoor de verzamelaanvraag dient als betalingsaanvraag en in voorkomend geval als verbintenisaanvraag<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;Code</td>
+			<td>Categorie</td>
+		</tr>
+		<tr>
+			<td>1°</td>
+			<td>HOB</td>
+			<td>hectaresteun omschakeling biologische productiemethode</td>
+		</tr>
+		<tr>
+			<td>2°</td>
+			<td>HVB</td>
+			<td>hectaresteun voortzetting biologische productiemethode</td>
+		</tr>
+		<tr>
+			<td>3°</td>
+			<td>MOB</td>
+			<td>mechanische onkruidbestrijding</td>
+		</tr>
+		<tr>
+			<td>4°</td>
+			<td>VLI</td>
+			<td>vlinderbloemige gewassen</td>
+		</tr>
+		<tr>
+			<td>5°</td>
+			<td>SI2, SE2 of SB2</td>
+			<td>sierteelt (intensieve sierteelt, extensieve sierteelt, beschutte sierteelt)</td>
+		</tr>
+		<tr>
+			<td>6°</td>
+			<td>VER</td>
+			<td>verwarringstechniek bij pitfruitteelt</td>
+		</tr>
+		<tr>
+			<td>7°</td>
+			<td>BOS</td>
+			<td>bebossing van landbouwgrond - onderhoud en inkomenscompensatie</td>
+		</tr>
+		<tr>
+			<td>8°</td>
+			<td>HSB</td>
+			<td>behoud genetische diversiteit hoogstambomen</td>
+		</tr>
+		<tr>
+			<td>9°</td>
+			<td>-</td>
+			<td>behoud genetische diversiteit runderen</td>
+		</tr>
+		<tr>
+			<td>10°</td>
+			<td>-</td>
+			<td>behoud genetische diversiteit schapen</td>
+		</tr>
+		<tr>
+			<td>11°</td>
+			<td>BLS</td>
+			<td>boslandbouwsystemen</td>
+		</tr>
+		<tr>
+			<td>12°</td>
+			<td>-</td>
+			<td>controlekosten biologische landbouw</td>
+		</tr>
+		<tr>
+			<td>13°</td>
+			<td>VLS</td>
+			<td>vezelvlas verminderde bemesting</td>
+		</tr>
+		<tr>
+			<td>14°</td>
+			<td>HNP</td>
+			<td>vezelhennep verminderde bemesting</td>
+		</tr>
+		<tr>
+			<td>19°</td>
+			<td>BW3</td>
+			<td>verminderde bemesting in kwetsbare zones water</td>
+		</tr>
+		<tr>
+			<td>20°</td>
+			<td>BW4</td>
+			<td>beheerovereenkomst waterkwaliteit</td>
+		</tr>
+		<tr>
+			<td>21°</td>
+			<td>DI2</td>
+			<td>erosiebestrijding - directe inzaai</td>
+		</tr>
+		<tr>
+			<td>22°</td>
+			<td>NK2</td>
+			<td>erosiebestrijding - niet-kerende bodembewerking</td>
+		</tr>
+		<tr>
+			<td>23°</td>
+			<td>WV1</td>
+			<td>weidevogelbeheer met vluchtstroken</td>
+		</tr>
+		<tr>
+			<td>24°</td>
+			<td>HAM</td>
+			<td>hamsterbescherming - graanstrook en luzernestrook</td>
+		</tr>
+		<tr>
+			<td>25°</td>
+			<td>HVN</td>
+			<td>hamstervriendelijke nateelt</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+2. Agromilieu- en klimaatmaatregelen en andere maatregelen waarvoor de verzamelaanvraag dient als melding van percelen<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;NAAM BEHEERPAKKET</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;Interne code pakket</td>
+			<td>Voordrukcode VA</td>
+		</tr>
+		<tr>
+			<td>1°</td>
+			<td>ontwikkeling soortenrijk grasland</td>
+			<td>PDPO3</td>
+			<td>BB31</td>
+			<td>BB</td>
+		</tr>
+		<tr>
+			<td>2°</td>
+			<td>instandhouding soortenrijk grasland</td>
+			<td>PDPO3</td>
+			<td>BB32</td>
+			<td>BB</td>
+		</tr>
+		<tr>
+			<td>3°</td>
+			<td>faunabeheer grasland uitgestelde maaidatum</td>
+			<td>PDPO3</td>
+			<td>FBG31</td>
+			<td>FB</td>
+		</tr>
+		<tr>
+			<td>4°</td>
+			<td>faunabeheer grasland beweiden 20 mei</td>
+			<td>PDPO3</td>
+			<td>FBG32</td>
+			<td>FB</td>
+		</tr>
+		<tr>
+			<td>5°</td>
+			<td>faunabeheer grasland standweide 15 juni</td>
+			<td>PDPO3</td>
+			<td>FBG33</td>
+			<td>FB</td>
+		</tr>
+		<tr>
+			<td>6°</td>
+			<td>faunabeheer grasland kuikenweide</td>
+			<td>PDPO3</td>
+			<td>FBG34</td>
+			<td>FB</td>
+		</tr>
+		<tr>
+			<td>7°</td>
+			<td>faunabeheer akkerland voedselgewas</td>
+			<td>PDPO3</td>
+			<td>FBA35</td>
+			<td>FB</td>
+		</tr>
+		<tr>
+			<td>8°</td>
+			<td>aanleg en onderhoud grasstrook</td>
+			<td>PDPO3</td>
+			<td>RB31</td>
+			<td>RB</td>
+		</tr>
+		<tr>
+			<td>9°</td>
+			<td>aanleg en onderhoud strategisch grasland</td>
+			<td>PDPO3</td>
+			<td>ER32</td>
+			<td>ER</td>
+		</tr>
+		<tr>
+			<td>10°</td>
+			<td>aanleg en onderhoud grasstrook 15 juni</td>
+			<td>PDPO3</td>
+			<td>RB32</td>
+			<td>RB</td>
+		</tr>
+		<tr>
+			<td>11°</td>
+			<td>aanleg en onderhoud vluchtstrook 22 juni</td>
+			<td>PDPO3</td>
+			<td>RB33</td>
+			<td>RB</td>
+		</tr>
+		<tr>
+			<td>12°</td>
+			<td>aanleg en onderhoud gemengde grasstrook</td>
+			<td>PDPO3</td>
+			<td>RB34</td>
+			<td>RB</td>
+		</tr>
+		<tr>
+			<td>13°</td>
+			<td>onderhoud gemengde grasstrook</td>
+			<td>PDPO3</td>
+			<td>RB35</td>
+			<td>RB</td>
+		</tr>
+		<tr>
+			<td>14°</td>
+			<td>aanleg en onderhoud gemengde grasstrook plus</td>
+			<td>PDPO3</td>
+			<td>RB36</td>
+			<td>RB</td>
+		</tr>
+		<tr>
+			<td>15°</td>
+			<td>onderhoud gemengde grasstrook plus</td>
+			<td>PDPO3</td>
+			<td>RB37</td>
+			<td>RB</td>
+		</tr>
+		<tr>
+			<td>16°</td>
+			<td>aanleg en onderhoud bloemenstrook</td>
+			<td>PDPO3</td>
+			<td>BS38</td>
+			<td>BS</td>
+		</tr>
+		<tr>
+			<td>17°</td>
+			<td>onderhoud houtkant</td>
+			<td>PDPO3</td>
+			<td>KLE34</td>
+			<td>HKW</td>
+		</tr>
+		<tr>
+			<td>18°</td>
+			<td>omvormingsbeheer houtkant</td>
+			<td>PDPO3</td>
+			<td>KLE36</td>
+			<td>HKW</td>
+		</tr>
+		<tr>
+			<td>19°</td>
+			<td>beheerovereenkomst waterkwaliteit</td>
+			<td>PDPO3</td>
+			<td>BW4</td>
+			<td>BW4</td>
+		</tr>
+		<tr>
+			<td>20°</td>
+			<td>fosfaatuitmijning akkerland</td>
+			<td>PDPO3</td>
+			<td>IHD31</td>
+			<td>IHD</td>
+		</tr>
+		<tr>
+			<td>21°</td>
+			<td>verminderde bemesting akkerland</td>
+			<td>PDPO3</td>
+			<td>IHD32</td>
+			<td>IHD</td>
+		</tr>
+		<tr>
+			<td>22°</td>
+			<td>verminderde bemesting grasland</td>
+			<td>PDPO3</td>
+			<td>IHD33</td>
+			<td>IHD</td>
+		</tr>
+		<tr>
+			<td>23°</td>
+			<td>AV gemengde grasstroken</td>
+			<td>PDPO2</td>
+			<td>AKV21</td>
+			<td>AKV</td>
+		</tr>
+		<tr>
+			<td>25°</td>
+			<td>AKV vogelvoedselgewas</td>
+			<td>PDPO2</td>
+			<td>AKV23</td>
+			<td>AKV</td>
+		</tr>
+		<tr>
+			<td>26°</td>
+			<td>BB grasland maaien 1 juni</td>
+			<td>PDPO2</td>
+			<td>BB21</td>
+			<td>BB</td>
+		</tr>
+		<tr>
+			<td>27°</td>
+			<td>BB grasland maaien 16 juni</td>
+			<td>PDPO2</td>
+			<td>BB22</td>
+			<td>BB</td>
+		</tr>
+		<tr>
+			<td>28°</td>
+			<td>BB grasland beweiden 1 juni</td>
+			<td>PDPO2</td>
+			<td>BB23</td>
+			<td>BB</td>
+		</tr>
+		<tr>
+			<td>29°</td>
+			<td>BB akkerland</td>
+			<td>PDPO2</td>
+			<td>BB24</td>
+			<td>BB</td>
+		</tr>
+		<tr>
+			<td>30°</td>
+			<td>ER aanleg en onderhoud grasbufferstrook</td>
+			<td>PDPO2</td>
+			<td>ER21</td>
+			<td>ER</td>
+		</tr>
+		<tr>
+			<td>31°</td>
+			<td>ER aanleg en onderhoud grasgang = rand</td>
+			<td>PDPO2</td>
+			<td>ER22</td>
+			<td>ER</td>
+		</tr>
+		<tr>
+			<td>32°</td>
+			<td>ER aanleg en onderhoud grasgang</td>
+			<td>PDPO2</td>
+			<td>ER23</td>
+			<td>ER</td>
+		</tr>
+		<tr>
+			<td>33°</td>
+			<td>KLE (her)aanleg poel</td>
+			<td>PDPO2</td>
+			<td>KLE212</td>
+			<td>POE</td>
+		</tr>
+		<tr>
+			<td>34°</td>
+			<td>KLE onderhoud poel</td>
+			<td>PDPO2</td>
+			<td>KLE215</td>
+			<td>POE</td>
+		</tr>
+		<tr>
+			<td>35°</td>
+			<td>KLE aanplant houtkant streekeigen</td>
+			<td>PDPO2</td>
+			<td>KLE25</td>
+			<td>HKW</td>
+		</tr>
+		<tr>
+			<td>36°</td>
+			<td>KLE aanplant houtkant autochtoon</td>
+			<td>PDPO2</td>
+			<td>KLE26</td>
+			<td>HKW</td>
+		</tr>
+		<tr>
+			<td>37°</td>
+			<td>KLE onderhoud houtkant</td>
+			<td>PDPO2</td>
+			<td>KLE29</td>
+			<td>HKW</td>
+		</tr>
+		<tr>
+			<td>38°</td>
+			<td>PRB natuur</td>
+			<td>PDPO2</td>
+			<td>PRB21</td>
+			<td>PRB</td>
+		</tr>
+		<tr>
+			<td>39°</td>
+			<td>PRB milieu</td>
+			<td>PDPO2</td>
+			<td>PRB22</td>
+			<td>PRB</td>
+		</tr>
+		<tr>
+			<td>40°</td>
+			<td>WV maaien</td>
+			<td>PDPO2</td>
+			<td>WV21</td>
+			<td>WV</td>
+		</tr>
+		<tr>
+			<td>41°</td>
+			<td>WV beweiden</td>
+			<td>PDPO2</td>
+			<td>WV22</td>
+			<td>WV</td>
+		</tr>
+		<tr>
+			<td>42°</td>
+			<td>WV omzetten akkerland en maaien</td>
+			<td>PDPO2</td>
+			<td>WV23</td>
+			<td>WV</td>
+		</tr>
+		<tr>
+			<td>44°</td>
+			<td>PRB met duo- en triorandenbeheer</td>
+			<td>PDPO2</td>
+			<td>PRB 23</td>
+			<td>PRB</td>
+		</tr>
+		<tr>
+			<td>45°</td>
+			<td>ER grasbufferstrook met teeltbeperking</td>
+			<td>PDPO2</td>
+			<td>ER201</td>
+			<td>ER</td>
+		</tr>
+		<tr>
+			<td>46°</td>
+			<td>ER grasbufferstrook zonder teeltbeperking</td>
+			<td>PDPO2</td>
+			<td>ER202</td>
+			<td>ER</td>
+		</tr>
+		<tr>
+			<td>47°</td>
+			<td>aanleg en onderhoud luzernestrook vogelakker</td>
+			<td>PDPO3</td>
+			<td>SBP31</td>
+			<td>SBP</td>
+		</tr>
+		<tr>
+			<td>48°</td>
+			<td>aanleg en onderhoud gemengde grasstrook vogelakker</td>
+			<td>PDPO3</td>
+			<td>SBP32</td>
+			<td>SBP</td>
+		</tr>
+		<tr>
+			<td>49°</td>
+			<td>aanleg en onderhoud luzernestrook hamster</td>
+			<td>PDPO3</td>
+			<td>SBP33</td>
+			<td>SBP</td>
+		</tr>
+	</tbody>
+</table>
 
 ### BIJLAGE 2
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2016/05/18_1.pdf#page=117">Voorbereidingsblad   voor de verzamelaanvraag als vermeld in artikel 3, tweede   lid</A></P>
+<p>Bijlage 2 - Voorbereidingsblad voor de verzamelaanvraag als vermeld in artikel 3, tweede lid<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/03/03_1.pdf#page=104">http://www.ejustice.just.fgov.be/mopdf/2017/03/03_1.pdf#page=104</a></p>
