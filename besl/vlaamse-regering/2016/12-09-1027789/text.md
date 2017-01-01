@@ -88,6 +88,22 @@ In de verantwoordingsnota wordt een overzicht gegeven van de uitgaven voor het j
 1° 90% wordt betaald in de loop van het jaar waarvoor de subsidie bedoeld is;<br>
 2° 10% wordt betaald na de indiening door het college van de Vlaamse Gemeenschapscommissie van het rapport over de uitvoering van zijn engagementen.
 
+### ART 6.
+
+Om de twee jaar kunnen de gemeentelijke jeugdraden hun gemeentebestuur voordragen voor de toekenning van de prijs, vermeld in artikel 6 van het decreet van 6 juli 2012.<br>
+<br>
+Voor de toekenning van de prijs, vermeld in het eerste lid, wordt het door de gemeentelijke Jeugdraad ingediende dossier getoetst aan de volgende criteria:<br>
+1° de concrete participatie van de jeugd in het gemeentelijk jeugdbeleid;<br>
+2° het bereik van nieuwe en diverse doelgroepen;<br>
+3° de aandacht voor duurzame ontwikkeling binnen het gemeentelijk jeugdbeleid, waarbij minstens de ecologische pijler wordt ingevuld;<br>
+4° de vernieuwende aspecten van het beleid op het vlak van jeugdcultuur;<br>
+5° de vernieuwende aspecten van het beleid op het vlak van jeugdinformatie;<br>
+6° de inspanningen van het beleid om publieke ruimte toegankelijker te maken voor kinderen en jongeren.<br>
+<br>
+De bekroonde gemeente mag zich twee jaar lang jeugdgemeente, dan wel jeugdstad van Vlaanderen noemen. Ze ontvangt daarnaast een geldprijs van 20.000 euro.<br>
+<br>
+De jeugdraden dienen hun gemotiveerde voordracht via een kandidaatsformulier in. De Vlaamse minister, bevoegd voor de culturele aangelegenheden, beslist over de toekenning van de prijs, na kennisname van het advies van een door hem samengestelde adviescommissie.
+
 ### ART 7.
 
 De volgende regelingen worden opgeheven:<br>
