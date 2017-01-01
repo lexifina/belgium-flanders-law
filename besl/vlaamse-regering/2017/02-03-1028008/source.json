@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028008,
+  "title": "Besluit van de Vlaamse Regering van 2017-02-03 over de verdeling van de middelen van het Vlaams Agentschap voor Personen met een Handicap voor niet rechtstreeks toegankelijke zorg en ondersteuning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028008/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "5dbe59c501cfbd51935c90237e76111755022f901417da985470438638ed1623",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028008&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-02-03",
+  "gazette": "2017-03-14",
+  "numac": 2017011048,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
