@@ -2,16 +2,16 @@
   "codex_id": 1028547,
   "title": "Besluit van de Vlaamse Regering van 2017-07-14 tot vrijstelling van kwalificatie- en registratieverplichtingen voor zorg- en bijstandsverleners die persoonlijke assistentie verlenen aan personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028547/VolledigDocument?datum=2016-09-01",
-  "source_sha256": "dac7bae86eed1278462706985803e7a899d249645b7bcf74dd756f56bb9aa977",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028547/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "ce1a5d9b231f69ce3481e53018dbbaaa8ec0c87bfef958e1bac020541a069bf6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028547&param=informatie",
-  "as_of": "2016-09-01",
+  "as_of": "2017-01-01",
   "made": "2017-07-14",
   "gazette": "2017-08-11",
   "numac": 2017040501,
   "document_start": "2016-09-01",
   "document_end": null,
-  "in_force": "2016-09-01",
+  "in_force": "2017-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
