@@ -1390,13 +1390,13 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2009, met uitzo
 
 ### ART. X.1.
 
-§ 1. Na onderhandeling in het lokale comité, kan een schoolbestuur, centrumbestuur of instellingsbestuur tijdens het schooljaar 2008-2009 desgevallend niet-aangewende lestijden, lesuren, uren-leraar of leraars-uren overdragen naar het schooljaar 2009-2010, onder volgende voorwaarden :<br />1° de overdracht heeft betrekking op lestijden, lesuren, uren-leraar of leraarsuren die in toepassing van de vigerende regelgeving betreffende de toekenning van de middelen voor het mentorschap in het onderwijs, vanaf 1 januari 2009, in vergelijking met 31 december 2008, bijkomend werden toegekend;<br />2° de lestijden, lesuren of uren-leraar die overgedragen worden, kunnen tijdens het schooljaar 2009-2010 slechts aangewend worden voor 2/3e;<br />3° de overgedragen lestijden, lesuren, uren-leraar of leraarsuren blijven voorbehouden voor het mentorschap.<br /><br />In bovenstaand geval is een overdracht niet toegelaten indien in de betrokken school, centrum of instelling en in het betrokken schooljaar zich nieuwe of bijkomende terbeschikkingstellingen wegens ontstentenis van betrekking in de categorie van het onderwijzend personeel hebben voorgedaan, niet van toepassing. <br /><br />§ 2. In de overgedragen lestijden, lesuren, uren-leraar of leraarsuren kunnen geen personeelsleden benoemd worden. De school, het centrum of de instelling moet met het oog op de controle aan de bevoegde administratie een verklaring op erewoord bezorgen, waarin de school, het centrum of de instelling aangeeft die bepaling in acht te zullen nemen. De niet-naleving van die bepaling heeft tot gevolg dat de vaste benoeming geen uitwerking heeft ten aanzien van de overheid.
+...
 
 ## Afdeling II. Subsidie voor opleidingen inzake knelpuntberoepen
 
 ### ART. X.2.
 
-Voor het schooljaar 2008-2009 wordt voorzien in bijkomende financiering voor instellingen voor voltijds gewoon en buitengewoon secundair onderwijs, centra voor deeltijds beroepssecundair onderwijs en centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, die opleidingen geven die leiden tot de invulling van een knelpuntberoep. Desbetreffende financiering strekt ertoe de kost voor leerlingen en jongeren in die opleidingen, waarvan de lijst in bijlage bij dit decreet gaat, te verminderen. De bijkomende financiering vindt plaats onder vorm van een premie die, rekening houdend met het aantal regelmatige leerlingen en jongeren in die opleidingen per 1 oktober 2008 en rekening houdend met het beschikbaar budget, maximaal 226 euro per leerling of jongere bedraagt.
+...
 
 ## Afdeling III. Inwerkingtreding
 
