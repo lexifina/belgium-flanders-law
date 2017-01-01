@@ -18,7 +18,12 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 1991 betreffen
 
 ### ART. 3.
 
-§ 1. De personeelsleden, vermeld in artikel 1, met uitzondering van het vastbenoemd meester-, vak- en dienstpersoneel en van de vastbenoemde personeelsleden van de kinderdagverblijven van het gemeenschapsonderwijs in het tweetalige hoofdstedelijke gebied Brussel, vermeld in artikel X.22 van het decreet van 14 februari 2003 betreffende het onderwijs XIV, krijgen eveneens verlof wegens overmacht die het gevolg is van de ziekte of van een ongeval van één van de volgende personen, die onder hetzelfde dak woont als het personeelslid : de echtgenoot, de samenwonende partner, een bloed- of aanverwant van het personeelslid of van de samenwonende partner, een persoon, opgenomen met het oog op zijn adoptie of de uitoefening van een pleegvoogdij.<br /><br />Uit een medisch attest moet blijken dat de aanwezigheid van het personeelslid bij één of meer van de voornoemde personen vereist is.<br /><br />§ 2. De duur van het verlof mag per burgerlijk jaar niet meer dan vier werkdagen bedragen. Het verlof moet met volledige dagen worden genomen.<br /><br />
+§ 1. De personeelsleden, vermeld in artikel 1, met uitzondering van het vastbenoemd meester-, vak- en dienstpersoneel en van de vastbenoemde personeelsleden van de kinderdagverblijven van het gemeenschapsonderwijs in het tweetalige hoofdstedelijke gebied Brussel, artikel IV.19 van de Codificatie sommige bepalingen voor het onderwijs, krijgen eveneens verlof wegens overmacht die het gevolg is van de ziekte of van een ongeval van één van de volgende personen, die onder hetzelfde dak woont als het personeelslid : de echtgenoot, de samenwonende partner, een bloed- of aanverwant van het personeelslid of van de samenwonende partner, een persoon, opgenomen met het oog op zijn adoptie of de uitoefening van een pleegvoogdij.<br>
+<br>
+Uit een medisch attest moet blijken dat de aanwezigheid van het personeelslid bij één of meer van de voornoemde personen vereist is.<br>
+<br>
+§ 2. De duur van het verlof mag per burgerlijk jaar niet meer dan vier werkdagen bedragen. Het verlof moet met volledige dagen worden genomen.<br>
+&nbsp;
 
 ### ART. 4.
 
