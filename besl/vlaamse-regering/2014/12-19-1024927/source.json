@@ -2,16 +2,16 @@
   "codex_id": 1024927,
   "title": "Besluit van de Vlaamse Regering van 2014-12-19 tot vaststelling van de regels voor het algemene personeelsbeleid en het specifieke personeelsbeleid in de diensten van de Vlaamse overheid en in de Vlaamse openbare instellingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024927/VolledigDocument?datum=2016-09-01",
-  "source_sha256": "88d0ad2c186383795aefe71044e9e2a4949d10947753bffc29b0f7dae55cd9c6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024927/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "bf1c478d4c21e2f41107bd9ad5625af3b88f6cf07a2075f2c21a1d694da71b16",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024927&param=informatie",
-  "as_of": "2016-09-01",
+  "as_of": "2017-01-01",
   "made": "2014-12-19",
   "gazette": "2015-01-28",
   "numac": 2015035074,
   "document_start": "2014-07-25",
   "document_end": "2019-10-01",
-  "in_force": "2016-09-01",
+  "in_force": "2017-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
