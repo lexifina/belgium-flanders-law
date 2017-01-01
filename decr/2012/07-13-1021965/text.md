@@ -86,12 +86,14 @@ In artikel 18 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderw
 - de opbrengsten voor Vlaanderen uit de veiling van emissierechten voor BKG-inrichtingen vanaf 2012, met uitzondering van deze vermeld onder paragraaf 2;<br>
 - de opbrengsten van de administratieve geldboete vermeld in artikel 8.5.1. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, ingevoegd bij decreet van 14 februari 2014.<br>
 <br>
-§ 5. Met betrekking tot de periodes na 2012 mogen de inkomsten van het Fonds aangewend worden voor :<br>
+§ 5. Met betrekking tot de periodes na 2012 mogen de inkomsten van het Fonds aangewend worden voor:<br>
 - de uitvoering van intern Vlaams klimaatbeleid met het oog op het behalen van de Vlaamse broeikasgasemissiereductiedoelstellingen;<br>
 - de uitvoering van het Vlaamse beleid inzake de flexibiliteitsmechanismen van het Protocol van Kyoto of zoals uitgewerkt in Europese of internationale wetgeving of akkoorden;<br>
 - de uitvoering van Vlaamse bijdrage(n) in het kader van de internationale steun aan ontwikkelingslanden in hun strijd tegen klimaatverandering in overeenstemming met de beslissingen van de United Nations Framework Convention on Climate Change (UNFCCC);<br>
 - de remediëring van competitiviteitsverlies bij de Vlaamse bedrijven ten gevolge van Europees of internationaal klimaatbeleid;<br>
 - alle beleidskosten die verband houden met de voorbereiding, organisatie of bijdragen in het kader van klimaatveilingen.<br>
+<br>
+Ter uitvoering hiervan is het voor het Fonds in afwijking van het Rekendecreet toegestaan om middelen te storten richting AGION, het GO! en andere begrotingsfondsen binnen de Vlaamse overheid, én worden deze begrotingsfondsen gemachtigd om deze middelen te ontvangen vanuit het Vlaams Klimaatfonds. De Vlaamse Regering wordt gemachtigd om hiertoe de passende begrotingsartikelen te creëren.<br>
 <br>
 § 6. De Vlaamse Regering beschikt over de kredieten van het Fonds voor de financiering van de onder paragraaf 3 en paragraaf 5 vermelde taken.
 
