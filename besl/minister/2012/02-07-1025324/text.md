@@ -14,7 +14,7 @@ De   Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<BR   style="WIDOWS:
 
 ### ART. 2.
 
-<P>Voor   het Nederlandse taalgebied worden de resultaten van de bevolkingsprojecties voor   de afzonderlijke kalenderjaren 2017 tot en met 2021 van de "SVR-projecties van   de bevolking en de huishoudens voor Vlaamse steden en gemeenten 2009-2030"   vastgelegd voor de toepassing van de programmacijfers voor de diensten voor   oppashulp, vermeld in artikel 3 van bijlage III bij het besluit van de Vlaamse   Regering van 24 juli 2009, vermeld in artikel 1.</P>  <P><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Voor   het tweetalige gebied Brussel-Hoofdstad wordt 30 % van de resultaten van de   bevolkingsprojecties voor de afzonderlijk kalenderjaren 2017 tot en met 2021,   zoals vervat in "Bevolkingsvooruitzichten 2007-2060", vastgelegd voor de   toepassing van de programmacijfers voor de diensten voor oppashulp, vermeld in   het eerste lid.</P>
+...
 
 ## HOOFDSTUK III. Lokale dienstencentra
 
