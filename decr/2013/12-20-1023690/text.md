@@ -90,7 +90,7 @@ Elke sportorganisatie werkt mee aan het beleid van de Vlaamse overheid   inzake 
 
 ### ART. 16.
 
-<P>Het begrotingsfonds, opgericht bij artikel 53 van het decreet van 13 juli   2007, wordt omgevormd tot een begrotingsfonds ter bevordering van een   dopingvrije, gezonde en ethisch verantwoorde sport.<BR></P>  <P>Het begrotingsfonds wordt gespijsd met de opbrengsten van de administratieve   geldboetes, vermeld in artikel 17 van dit decreet, de vergoedingen die de   sportorganisaties betalen voor het ter beschikking stellen van middelen voor   dopingcontroles op initiatief van deze sportorganisaties en de opbrengsten van   de administratieve geldboeten en de terugbetalingen van kosten, vermeld in   artikel 41 en 45 van het Antidopingdecreet van 25 mei 2012.<BR></P>  <P>Op het krediet van het voormelde fonds kunnen alleen uitgaven aangerekend   worden voor het beleid ter bevordering van het gezond sporten, het ethisch   sporten of de preventie en bestrijding van doping in de sport, zoals het dekken   van de kosten voor de werking van de administratie van de Vlaamse Gemeenschap,   bevoegd voor de uitvoering van het antidopingbeleid, het organiseren van   dopingcontroles, het voeren van informatie- en promotieacties en het   ondersteunen van wetenschappelijk onderzoek.<BR></P>
+<P>...</P>
 
 ## HOOFDSTUK 8 Sancties
 
