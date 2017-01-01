@@ -2,16 +2,16 @@
   "codex_id": 1020912,
   "title": "Besluit van de Vlaamse Regering van 2011-09-09 betreffende innovatie in de lerarenopleidingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020912/VolledigDocument?datum=2012-09-01",
-  "source_sha256": "7fd6d870c940e0abd3bdf86bc5b0dee394f49547867b2769147ba4374cf0ed86",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020912/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "2040346b0a40f936fba1361e0fe8af18b22a95dc0502837202c6f3e6e63bc311",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020912&param=informatie",
-  "as_of": "2012-09-01",
+  "as_of": "2017-01-01",
   "made": "2011-09-09",
   "gazette": "2011-11-16",
   "numac": 2011035929,
   "document_start": "2011-09-01",
   "document_end": "2016-12-31",
-  "in_force": "2012-09-01",
+  "in_force": "2017-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
