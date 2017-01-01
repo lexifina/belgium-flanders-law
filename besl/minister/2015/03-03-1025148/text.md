@@ -6,8 +6,8 @@
 
 ### ART. 1.
 
-De   vzw Auticant draagt de middelen voor één voltijds equivalent tewerkgesteld   personeelslid over aan de vzw Katrinahof, in afwijking van:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   artikel 1 en bijlage II van het ministerieel besluit van 24 april 1973 tot   bepaling, wat betreft het Ministerie van Volksgezondheid en van het Gezin, van   de te volgen bijzondere regels voor de vaststelling van de toelagen per dag,   toegekend voor het onderhoud en de behandeling van de gehandicapten, geplaatst   ten laste van de openbare besturen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   artikel 4, § 1, eerste lid en bijlage I van het ministerieel besluit van 18 juni   1975 tot bepaling van de te volgen regels voor de vaststelling van het bedrag   van de tegemoetkoming uit het Fonds voor medische, sociale en pedagogische zorg   voor gehandicapten in de kosten voor onderhoud, opvoeding en behandeling van   gehandicapten die geplaatst zijn in inrichtingen die onder het stelsel van het   semi-internaat werken.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 2.
 
-&nbsp;Dit besluit heeft uitwerking met ingang   van 1 januari 2014 en treedt buiten werking op 31 december   2016.
+...
