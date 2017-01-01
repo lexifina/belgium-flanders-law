@@ -831,7 +831,11 @@ Als private televisieomroeporganisaties journaals en duidingsprogramma's brengen
 
 ### ART. 166.
 
-<P>§ 1. De regionale televisieomroeporganisaties mogen pas programma's verzorgen   nadat ze daartoe door de Vlaamse Regering zijn erkend.<BR><BR>De Vlaamse   Regering bepaalt de procedure voor het verkrijgen van de erkenning, alsook   mogelijke nadere maatregelen bij de bepaling van het verzorgingsgebied.</P>  <P>§ 2. De Vlaamse Regering sluit met de erkende regionale   televisieomroeporganisaties een samenwerkingsovereenkomst voor de duur van vijf   jaar. Deze samenwerkingsovereenkomst heeft betrekking op de   ondertitelingsopdracht en de uitvoering van de decretale opdrachten, vermeld in   artikel 151 en 165, en bepaalt de criteria en modaliteiten voor het verkrijgen   en aanwenden van subsidies.</P>
+<p>§ 1. De regionale televisieomroeporganisaties mogen pas programma's verzorgen nadat ze daartoe door de Vlaamse Regering zijn erkend.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure voor het verkrijgen van de erkenning, alsook mogelijke nadere maatregelen bij de bepaling van het verzorgingsgebied.</p>
+
+<p>§ 2. De Vlaamse Regering sluit met de erkende regionale televisieomroeporganisaties een samenwerkingsovereenkomst voor de duur van vijf jaar. Deze samenwerkingsovereenkomst heeft betrekking op de ondertitelingsopdracht en de uitvoering van de decretale opdrachten, vermeld in artikel 151 en 165, en bepaalt de criteria en modaliteiten voor het verkrijgen en aanwenden van subsidies. Als bij het verstrijken van de samenwerkingsovereenkomst geen nieuwe samenwerkingsovereenkomst in werking is getreden, wordt de samenwerkingsovereenkomst van rechtswege verlengd tot het ogenblik dat een nieuwe samenwerkingsovereenkomst in werking is getreden.</p>
 
 ### ART. 166/1.
 
