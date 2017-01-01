@@ -6,7 +6,7 @@
 
 Voor de toepassing van dit besluit wordt verstaan onder:<br>
 1° Commissie: de Commissie inzake leerlingenrechten bedoeld in artikel IV.6 van het decreet;<br>
-2° decreet: het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I;<br>
+2° decreet: het decreet betreffende de Codificatie sommige bepalingen voor het onderwijs;<br>
 3° minister: de Vlaamse minister, bevoegd voor het onderwijs.
 
 ## HOOFDSTUK II SAMENSTELLING
@@ -21,7 +21,11 @@ De leden van de Commissie hebben een mandaat van zes jaar. Het mandaat is één 
 
 ### ART. 4.
 
-De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 2.500 euro.<br /><br />De andere leden van de Commissie ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig de regeling van de rechtspositie van toepassing op het personeel van het ministerie van de Vlaamse Gemeenschap.<br />
+De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 4.000 euro.<br>
+<br>
+De vergoeding wordt jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, en dit indexcijfer wordt voor 75 % toegepast.<br>
+<br>
+De andere leden van de Commissie ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig de regeling van de rechtspositie van toepassing op het personeel van het ministerie van de Vlaamse Gemeenschap.
 
 ## HOOFDSTUK III WERKING
 
@@ -29,7 +33,7 @@ De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 2.500 euro.<br 
 
 ### ART. 5.
 
-Een zitting is rechtsgeldig wanneer de voorzitter aanwezig is, evenals ten minste één lid van elk van de drie categorieën bedoeld in artikel IV.7, § 1, derde, vierde en vijfde lid, van het decreet.
+Een zitting is rechtsgeldig wanneer de voorzitter aanwezig is, evenals ten minste één lid van elk van de drie categorieën bedoeld in artikel&nbsp; VIII.9, §1, derde, vierde en vijfde lid, van de Codificatie sommige bepalingen voor het onderwijs.
 
 ### ART. 6.
 
@@ -61,11 +65,11 @@ De Commissie kan op verzoek of ambtshalve getuigen horen.<br /><br />Zij kan all
 
 ### ART. 12.
 
-De Vlaamse regering houdt bij het bepalen van de hoegrootheid van de in artikel V.4, § 2, eerste lid van het decreet bedoelde financiële sanctie ten minste rekening met:<br>
+De Vlaamse regering houdt bij het bepalen van de hoegrootheid van de bedoelde financiële sanctie ten minste rekening met:<br>
 1° het gegeven dat de betrokken leerling al dan niet vooralsnog in de school van aanmelding werd ingeschreven;<br>
 2° de mate waarin reeds eerder onrechtmatige weigeringen werden vastgesteld.<br>
 <br>
-De beslissing omtrent het opleggen van een financiële sanctie wordt uiterlijk de laatste dag van de in artikel V.4, § 2, eerste lid van het decreet bedoelde termijn bij aangetekend schrijven verstuurd naar de betrokken inrichtende macht.
+De beslissing omtrent het opleggen van een financiële sanctie wordt uiterlijk de laatste dag van de bedoelde termijn bij aangetekend schrijven verstuurd naar de betrokken inrichtende macht.
 
 ## HOOFDSTUK V OPENBAARHEID
 

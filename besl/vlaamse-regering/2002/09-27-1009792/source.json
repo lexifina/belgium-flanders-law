@@ -2,16 +2,16 @@
   "codex_id": 1009792,
   "title": "Besluit van de Vlaamse Regering van 2002-09-27 betreffende de Commissie inzake leerlingenrechten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009792/VolledigDocument?datum=2006-09-01",
-  "source_sha256": "21e36ca6b5dc9aabd1419efe9b4095ead6f57f6bca934d3a3d9c309afa1cafa7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009792/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "3c9267501e07f8f82c7d41e00143ae7658c42f557a9b07b4fc11dae32450b32c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009792&param=informatie",
-  "as_of": "2006-09-01",
+  "as_of": "2017-01-01",
   "made": "2002-09-27",
   "gazette": "2002-10-31",
   "numac": 2002092750,
   "document_start": "2003-01-01",
   "document_end": "2022-08-31",
-  "in_force": "2006-09-01",
+  "in_force": "2017-01-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2006-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
