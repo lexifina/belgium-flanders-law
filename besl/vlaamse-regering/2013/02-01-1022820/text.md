@@ -30,7 +30,7 @@ In dit besluit wordt verstaan onder : <BR>1° bestuur : de Vlaamse   Gemeenschap
 
 ### ART. 2.
 
-De door de Vlaamse Regering aangewezen dienst, vermeld in het   Cultureel-erfgoeddecreet van 6 juli 2012, is het Departement Cultuur, Jeugd,   Sport en Media van het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media,   hierna de administratie te noemen.<BR>
+De door de Vlaamse Regering aangewezen dienst, vermeld in het Cultureel-erfgoeddecreet van 6 juli 2012, is het Departement Cultuur, Jeugd en Media van het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media, hierna de administratie te noemen.
 
 ## HOOFDSTUK 2 De toekenning van een kwaliteitslabel aan collectiebeherende cultureel-erfgoedorganisaties
 

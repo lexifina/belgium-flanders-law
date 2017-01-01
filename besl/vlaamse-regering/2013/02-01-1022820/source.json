@@ -2,16 +2,16 @@
   "codex_id": 1022820,
   "title": "Besluit van de Vlaamse Regering van 2013-02-01 houdende de uitvoering van het Cultureel-erfgoeddecreet van 6 juli 2012",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022820/VolledigDocument?datum=2015-04-01",
-  "source_sha256": "419f3d646e43de2240f31db04b14fb991761245db4fd79f127ce2f26b5ccc5d5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022820/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "39eaae3fef44abcfb891f2802327d0a675b56bd57e6a4151c53a15102ecc18ec",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022820&param=informatie",
-  "as_of": "2015-04-01",
+  "as_of": "2017-01-01",
   "made": "2013-02-01",
   "gazette": "2013-03-27",
   "numac": 2013201647,
   "document_start": "2013-04-06",
   "document_end": "2017-08-16",
-  "in_force": "2015-04-01",
+  "in_force": "2017-01-01",
   "article_versions": 127,
-  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
