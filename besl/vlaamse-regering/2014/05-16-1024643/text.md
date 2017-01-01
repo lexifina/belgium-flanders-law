@@ -76,7 +76,13 @@ De effectieve bestuursrechter vraagt de verloven, vermeld in deze   afdeling, aa
 
 ### ART. 14.
 
-<P>De effectieve bestuursrechter kan alleen de volgende langdurige verloven   genieten:<BR>1° moederschapsrust en opvangverlof;<BR>2° loopbaanonderbreking   voor palliatieve zorgen, bijstand aan of verzorging van een zwaar ziek gezins-   of familielid of ouderschapsverlof;<BR>3° verlof wegens ziekte, arbeidsongeval   of beroepsziekte.<BR></P>  <P>Voor de langdurige verloven, vermeld in het eerste lid, zijn de bepalingen   van het Vlaams personeelsstatuut van 13 januari 2006 van overeenkomstige   toepassing.<BR></P>
+<p>De effectieve bestuursrechter kan alleen de volgende langdurige verloven genieten:<br>
+1° moederschapsrust en opvangverlof;<br>
+2° loopbaanonderbreking voor palliatieve zorgen, bijstand aan of verzorging van een zwaar ziek gezins- of familielid of ouderschapsverlof;<br>
+3° verlof wegens ziekte, arbeidsongeval of beroepsziekte;<br>
+4° zorgkrediet.</p>
+
+<p>Voor de langdurige verloven, vermeld in het eerste lid, zijn de bepalingen van het Vlaams personeelsstatuut van 13 januari 2006 van overeenkomstige toepassing.</p>
 
 ### ART. 15.
 
