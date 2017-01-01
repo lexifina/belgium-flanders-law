@@ -8,11 +8,23 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° agentschap : het Vlaams   Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei   2004 tot oprichting van het intern verzelfstandigd agentschap met   rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<BR>2°   ambulante begeleiding : de algemene psychosociale ondersteuning van minimaal één   uur en maximaal twee uur, waarbij de persoon met een handicap of zijn netwerk   zich naar de hulpverlener verplaatst;<BR>3° ambulante outreach : de   kennisoverdracht van minimaal één uur en maximaal twee uur naar een groep van   minimaal drie ondersteuners van personen met een handicap die behoefte hebben   aan handicapspecifieke knowhow en waarbij de ondersteuners zich naar de   hulpverlener verplaatsen;<BR>4° dagopvang : de ondersteuning overdag voor een   aangepaste opvang of een aangepaste dagbesteding;<BR>5° mobiele begeleiding : de   algemene psychosociale ondersteuning van minimaal één uur en maximaal twee uur,   waarbij de hulpverlener zich naar de persoon met een handicap of zijn netwerk   verplaatst;<BR>6° mobiele outreach : de kennisoverdrachtvan minimaal één uur en   maximaal twee uur naar een groep van minimaal drie ondersteuners van personen   met een handicap die behoefte hebben aan handicapspecifieke knowhow en waarbij   de hulpverlener zich naar de ondersteuners verplaatst;<BR>7° verblijf : het   verblijf met overnachting, met inbegrip van de opvang en ondersteuning gedurende   de ochtend en de avonduren;<BR>8° rechtstreeks toegankelijke hulp : de   hulpverlening die is bepaald in artikel 1, 2° tot 7° beperkt in tijd, frequentie   en intensiteit en waarvoor de persoon met een handicap geen aanvraag tot   ondersteuning bij het agentschap moet indienen;<BR>9° persoon met een handicap :   elke persoon met een handicap als vermeld in artikel 2, 2°, van het decreet van   7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met   rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, of elke   persoon met een vermoeden van zo'n handicap.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° agentschap : het Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
+2° ambulante begeleiding : de algemene psychosociale ondersteuning van minimaal één uur en maximaal twee uur, waarbij de persoon met een handicap of zijn netwerk zich naar de hulpverlener verplaatst;<br>
+3° ambulante outreach : de kennisoverdracht van minimaal één uur en maximaal twee uur naar een groep van minimaal drie ondersteuners van personen met een handicap die behoefte hebben aan handicapspecifieke knowhow en waarbij de ondersteuners zich naar de hulpverlener verplaatsen;<br>
+4° dagopvang : de ondersteuning overdag voor een aangepaste opvang of een aangepaste dagbesteding;<br>
+5° mobiele begeleiding : de algemene psychosociale ondersteuning van minimaal één uur en maximaal twee uur, waarbij de hulpverlener zich naar de persoon met een handicap of zijn netwerk verplaatst;<br>
+6° mobiele outreach : de kennisoverdrachtvan minimaal één uur en maximaal twee uur naar een groep van minimaal drie ondersteuners van personen met een handicap die behoefte hebben aan handicapspecifieke knowhow en waarbij de hulpverlener zich naar de ondersteuners verplaatst;<br>
+7° verblijf : het verblijf met overnachting, met inbegrip van de opvang en ondersteuning gedurende de ochtend en de avonduren;<br>
+8° rechtstreeks toegankelijke hulp : de hulpverlening die is bepaald in artikel 1, 2° tot 7° beperkt in tijd, frequentie en intensiteit en waarvoor de persoon met een handicap geen aanvraag tot ondersteuning bij het agentschap moet indienen;<br>
+9° persoon met een handicap : elke persoon met een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, of elke persoon met een vermoeden van zo'n handicap;<br>
+10° groepsbegeleiding: de algemene psychosociale ondersteuning van minimaal één uur en maximaal twee uur van twee of meer personen met een handicap of hun netwerk.
 
 ### ART. 2.
 
-<P>Het agentschap kan conform de bepalingen van dit besluit en binnen de grenzen   van de kredieten die daarvoor ingeschreven zijn op zijn begroting, de volgende   voorzieningen die al door het agentschap zijn erkend en worden gesubsidieerd,   voor de uitbouw van rechtstreeks toegankelijke hulp erkennen en subsidiëren :   <BR>1° tehuizen;<BR>2° dagcentra;<BR>3° internaten;<BR>4° semi-internaten;<BR>5°   centra voor observatie, oriëntering en medische, psychologische en pedagogische   behandeling;<BR>6° diensten voor beschermd wonen;<BR>7° diensten voor   geïntegreerd wonen; <BR>8° diensten inclusieve ondersteuning;<BR>9° diensten   voor begeleid wonen;<BR>10° thuisbegeleidingsdiensten;<BR>11° diensten voor   zelfstandig wonen;<BR>12° flexibele aanbodcentra voor meerderjarige personen met   een handicap;<BR>13° multifunctionele centra.</P>
+Het agentschap kan conform de bepalingen van dit besluit en binnen de grenzen van de kredieten die daarvoor ingeschreven zijn op zijn begroting, de volgende voorzieningen erkennen en subsidiëren voor de uitbouw van rechtstreeks toegankelijke hulp:<br>
+1° de multifunctionele centra voor minderjarige personen met een handicap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+2° de zorgaanbieders die vergund zijn door het agentschap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap.
 
 ## HOOFDSTUK 2 Rechtstreeks toegankelijke hulp
 
@@ -34,9 +46,9 @@ Het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling   van 
 
 ### ART. 6.
 
-<p>De voorziening ontvangt 0,22 personeelspunten per mobiele begeleiding en per mobiele outreach, 0,155 personeelspunten per ambulante begeleiding en per ambulante outreach, 0,087 personeelspunten per dag dagopvang en 0,13 personeelspunten per nacht verblijf.</p>
+<p>De voorziening ontvangt 0,22 personeelspunten per mobiele begeleiding en per mobiele outreach, 0,155 personeelspunten per ambulante begeleiding en per ambulante outreach, 0,087 personeelspunten per dag dagopvang, 0,13 personeelspunten per nacht verblijf en 0,087 personeelspunten per groepsbegeleiding.</p>
 
-<p>De personeelspunten, vermeld in het eerste lid, kunnen worden overgedragen aan een andere voorziening, erkend en gesubsidieerd door het agentschap, die in opdracht van de voorziening mobiele of ambulante begeleiding, mobiele of ambulante outreach, dagopvang of verblijf verstrekt.</p>
+<p>De personeelspunten, vermeld in het eerste lid, kunnen worden overgedragen aan een andere voorziening, erkend en gesubsidieerd door het agentschap, die in opdracht van de voorziening mobiele of ambulante begeleiding, mobiele of ambulante outreach, dagopvang&nbsp;, verblijf of groepsbegeleiding verstrekt.</p>
 
 <p>Als de som van de personeelspunten die op basis van de geleverde prestaties worden toegekend, meer dan 92% bedraagt van het aantal personeelspunten waarvoor de voorziening is erkend en er maximaal 20 personeelspunten minder worden gepresteerd dan het aantal personeelspunten waarvoor de voorziening is erkend, ontvangt de voorziening, in afwijking van het eerste lid, het aantal personeelspunten waarvoor de voorziening is erkend.</p>
 
@@ -50,7 +62,25 @@ De personeelssubsidies worden toegekend op basis van de salarisschalen en   de d
 
 ### ART. 9.
 
-<P>§ 1. De voorziening ontvangt per personeelspunt een werkingstoelage van 89   euro. Als er onvoldoende prestaties worden verricht om het aantal   personeelspunten in de erkenning te verantwoorden, worden de werkingstoelagen   proportioneel verminderd.<BR></P>  <P>De werkingstoelage, vermeld in het eerste lid, kan worden overgedragen aan   een andere voorziening, erkend en gesubsidieerd door het agentschap, die in   opdracht van de voorziening mobiele of ambulante begeleiding, mobiele of   ambulante outreach, dagopvang of verblijf verstrekt.<BR></P>  <P>§ 2. Het bedrag, vermeld in paragraaf 1, eerste lid, wordt jaarlijks op 1   januari aangepast, rekening houdend met het indexcijfer van de   consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24   december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's   lands concurrentievermogen, volgens de formule :<BR></P>  <P>(basisbedrag x index december 20../index december voor het jaar van   inwerkingtreding).<BR></P>
+<p>§ 1. De voorziening ontvangt per personeelspunt een werkingstoelage van 89 euro. Als er onvoldoende prestaties worden verricht om het aantal personeelspunten in de erkenning te verantwoorden, worden de werkingstoelagen proportioneel verminderd.</p>
+
+<p>De werkingstoelage, vermeld in het eerste lid, kan worden overgedragen aan een andere voorziening, erkend en gesubsidieerd door het agentschap, die in opdracht van de voorziening mobiele of ambulante begeleiding, mobiele of ambulante outreach, dagopvang, verblijf of groepsbegeleiding verstrekt.</p>
+
+<p>§ 2. Het bedrag, vermeld in paragraaf 1, eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule :</p>
+
+<p>(basisbedrag x index december 20../index december voor het jaar van inwerkingtreding).<br>
+<br>
+§ 3. De voorziening kan maximaal 10% van de personeelspunten waarvoor ze is erkend, omzetten in werkingsmiddelen tegen een bedrag per punt.<br>
+<br>
+Het bedrag per punt, vermeld in het eerste lid, wordt jaarlijks door het agentschap bepaald op basis van de totale gesubsidieerde personeelskosten van de voorzieningen die erkend en gesubsidieerd of vergund zijn door het agentschap.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevorming of voor de aanwerving van personeel of voor de vergoeding van personeelskosten. De besteding van het bedrag mag gespreid worden over meer dan een boekhoudkundig jaar.<br>
+<br>
+Het agentschap subsidieert de werkingsmiddelen, vermeld in het eerste lid, op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap of dat er collectieve inspraak als vermeld in artikel 30 van het voormelde besluit, is geweest en dat er een schriftelijke overeenkomst met de werknemersvertegenwoordiging is gesloten, en er aan die overlegkanalen transparantie is geboden over de aanwending.<br>
+<br>
+Op verzoek van het agentschap bewijst de voorziening, vermeld in artikel 10, het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het schriftelijk akkoord met de werknemersvertegenwoordiging.<br>
+<br>
+Als een voorziening als vermeld in artikel 10, 5% of minder dan 5% van de personeelspunten omzet in werkingsmiddelen, is er geen schriftelijke overeenkomst met de werknemersvertegenwoordiging vereist. In dat geval volstaat voorafgaand overleg met de vermelde overlegkanalen met het oog op transparantie over de aanwending.</p>
 
 ### ART. 10.
 
@@ -68,7 +98,9 @@ Als de persoon met een handicap&nbsp;met uitzondering van minderjarigen en   van
 
 ### ART. 13.
 
-<P>De persoon met een handicap kan ambulante begeleiding, mobiele begeleiding,   dagopvang en verblijf die worden verleend met toepassing van dit besluit en   ambulante begeleiding en mobiele begeleiding die worden verleend met toepassing   van artikel 19 van het besluit van de Vlaamse Regering van 17 december 1996   betreffende de erkenning en subsidiëring van thuisbegeleidingsdiensten voor   personen met een handicap, combineren tot maximaal acht personeelspunten per   persoon per kalenderjaar.<BR><BR>Voor de berekening van het maximum aantal   personeelspunten per persoon per kalenderjaar, als vermeld in het eerste lid,   wordt rekening gehouden met het aantal personeelspunten, vermeld in artikel 6,   per mobiele begeleiding of per ambulante begeleiding of per dag dagopvang of per   nacht verblijf.</P>
+<p>De persoon met een handicap kan ambulante begeleiding, mobiele begeleiding, dagopvang, verblijf en groepsbegeleiding combineren tot maximaal acht personeelspunten per persoon per kalenderjaar.<br>
+<br>
+Voor de berekening van het maximum aantal personeelspunten per persoon per kalenderjaar, als vermeld in het eerste lid, wordt rekening gehouden met het aantal personeelspunten, vermeld in artikel 6, per mobiele begeleiding of per ambulante begeleiding of per dag dagopvang of per nacht verblijf.</p>
 
 ### ART. 14.
 
@@ -78,7 +110,17 @@ Als de persoon met een handicap&nbsp;met uitzondering van minderjarigen en   van
 
 ### ART. 15.
 
-<P>De voorziening mag voor een mobiele of ambulante begeleiding een bijdrage   vragen van maximaal 5 euro.<BR></P>  <P>De voorziening mag voor de dagopvang een bijdrage vragen van maximaal 9,50   euro per dag.<BR></P>  <P>De voorziening mag voor verblijf een bijdrage vragen van maximaal 23,90 euro   per dag.<BR></P>  <P>De maximumbedragen, vermeld in het eerste tot en met het derde lid, worden   jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de   consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24   december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's   lands concurrentievermogen, volgens de formule :<BR></P>  <P>(basisbedrag x index december 20../index december voor het jaar van   inwerkingtreding).<BR></P>
+<p>De voorziening mag voor een mobiele of ambulante begeleiding een bijdrage vragen van maximaal 5 euro.</p>
+
+<p>De voorziening mag voor de dagopvang een bijdrage vragen van maximaal 9,50 euro per dag.</p>
+
+<p>De voorziening mag voor verblijf een bijdrage vragen van maximaal 23,90 euro per dag.<br>
+<br>
+De voorziening mag voor een groepsbegeleiding een bijdrage vragen van maximaal 5 euro.</p>
+
+<p>De maximumbedragen, vermeld in het eerste tot en met het derde lid, worden jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule :</p>
+
+<p>(basisbedrag x index december 20../index december voor het jaar van inwerkingtreding).</p>
 
 ## [HOOFDSTUK 3/1 Organisatie van een pilootfase voor het ontwikkelen en uitproberen van nieuwe mogelijkheden voor rechtstreeks toegankelijke hulp (ing. BVR 16 september 2022, art. 1, I: 1 september 2022)]
 
