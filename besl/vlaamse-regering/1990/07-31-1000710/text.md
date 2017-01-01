@@ -296,7 +296,16 @@ Een instelling kan afwijken van de bepalingen, vermeld in artikel 29 tot   en me
 
 ### ART. 48.
 
-§ 1. Een instelling die de rationalisatienorm niet bereikt, moet:<br />ofwel in iedere graad van elke studierichting die zij organiseert, overgaan tot de geleidelijke sluiting van alle opties, leerjaar per leerjaar, te beginnen met het laagste;<br />ofwel fusioneren met een andere instelling voor deeltijds kunstonderwijs, bedoeld in dit besluit, gevestigd in dezelfde gemeente;<br />ofwel fusioneren met een andere instelling voor deeltijds kunstonderwijs, bedoeld in dit besluit, gevestigd in een andere gemeente en filiaal van deze instelling worden.<br /><br />§ 2. ...<br /><br />§ 3. Zowel administratief als pedagogisch komt een fusie ,als vermeld in artikel 91, 7°, van het decreet van 31 juli 1990 betreffende het onderwijs-II, in één tijd tot stand. Van bij de aanvang van het schooljaar waarin de fusie ontstaat, heeft de instelling slechts één inrichtende macht en één directie.<br /><br />§ 4. Een instelling die door fusie ontstaat, wordt niet beschouwd als nieuwe instelling en valt dus niet onder de toepassing van de bepalingen van de programmatie van instellingen.
+§ 1. Een instelling die de rationalisatienorm niet bereikt, moet:<br>
+ofwel in iedere graad van elke studierichting die zij organiseert, overgaan tot de geleidelijke sluiting van alle opties, leerjaar per leerjaar, te beginnen met het laagste;<br>
+ofwel fusioneren met een andere instelling voor deeltijds kunstonderwijs, bedoeld in dit besluit, gevestigd in dezelfde gemeente;<br>
+ofwel fusioneren met een andere instelling voor deeltijds kunstonderwijs, bedoeld in dit besluit, gevestigd in een andere gemeente en filiaal van deze instelling worden.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Zowel administratief als pedagogisch komt een fusie ,als vermeld in artikel II.1, 7°, van de Codificatie sommige bepalingen voor het onderwijs, in één tijd tot stand. Van bij de aanvang van het schooljaar waarin de fusie ontstaat, heeft de instelling slechts één inrichtende macht en één directie.<br>
+<br>
+§ 4. Een instelling die door fusie ontstaat, wordt niet beschouwd als nieuwe instelling en valt dus niet onder de toepassing van de bepalingen van de programmatie van instellingen.
 
 ### ART. 49.
 
@@ -322,7 +331,15 @@ Een instelling kan afwijken van de bepalingen, vermeld in artikel 29 tot   en me
 
 ### ART. 54.
 
-§ 1. Onverminderd de voorwaarden gesteld in artikel 93bis, 93ter en 95, van het decreet van 31 juli 1990 betreffende het onderwijs-II, is enkel de programmatie mogelijk van instellingen bestaande uit de lagere graad en de middelbare graad. De programmatie houdt in dat achtereenvolgens de lagere graad en middelbare graad opgericht worden.<br /><br />§ 2. ...<br /><br />§ 3. De programmatie van een instelling is bovendien onderworpen aan volgende voorwaarden en beperkingen:<br />1° een advies van de Vlaamse Onderwijsraad;<br />2° de programmatienorm voor een nieuwe instelling is gelijk aan 300 % van haar rationalisatienorm, vastgesteld in artikel 47 van dit besluit;<br /><br />§ 4. Onverminderd de voorwaarden gesteld in artikel 95 van het decreet van 31 juli 1990 betreffende het onderwijs-II, is enkel de oprichting mogelijk van filialen bestaande uit de lagere graad.
+§ 1. Onverminderd de voorwaarden gesteld in artikel II.17, II.18, II.21 van de Codificatie sommige bepalingen voor het onderwijs, is enkel de programmatie mogelijk van instellingen bestaande uit de lagere graad en de middelbare graad. De programmatie houdt in dat achtereenvolgens de lagere graad en middelbare graad opgericht worden.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. De programmatie van een instelling is bovendien onderworpen aan volgende voorwaarden en beperkingen:<br>
+1° een advies van de Vlaamse Onderwijsraad;<br>
+2° de programmatienorm voor een nieuwe instelling is gelijk aan 300 % van haar rationalisatienorm, vastgesteld in artikel 47 van dit besluit;<br>
+<br>
+§ 4. Onverminderd de voorwaarden gesteld in artikel 95 van het decreet van 31 juli 1990 betreffende het onderwijs-II, is enkel de oprichting mogelijk van filialen bestaande uit de lagere graad.
 
 ### ART. 55.
 
