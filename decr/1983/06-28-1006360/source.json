@@ -2,16 +2,16 @@
   "codex_id": 1006360,
   "title": "Decreet van 1983-06-28 houdende oprichting van de instelling Vlaamse Maatschappij voor Watervoorziening",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006360/VolledigDocument?datum=2006-06-30",
-  "source_sha256": "f838af2ccd3f9851ba302d9d4330f22d2fb855986d80915de7eb061ea1cccfed",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006360/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "dd73cd62645c0d94e827b0d4225516df2b24400baa19327ca5009eba3715949e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006360&param=informatie",
-  "as_of": "2006-06-30",
+  "as_of": "2017-01-01",
   "made": "1983-06-28",
   "gazette": "1983-12-01",
   "numac": 1983023414,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-30",
+  "in_force": "2017-01-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2006-06-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
