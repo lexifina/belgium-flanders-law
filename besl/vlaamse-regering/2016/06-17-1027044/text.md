@@ -20,7 +20,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-Voor een NMR die op zijn vroegst in 2015 is geïnstalleerd of die, als hij vóór 2015 is geïnstalleerd, op zijn vroegst in 2015 een upgrading heeft ondergaan waarvan de waarde minstens 50% vertegenwoordigt van de nieuwwaarde van het apparaat, wordt jaarlijks een forfaitaire subsidie van 145.181,37euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat is geïnstalleerd. De voormelde upgrading mag op zijn vroegst plaatsvinden in het zevende jaar dat volgt op het jaar waarin het apparaat geïnstalleerd is. De subsidie wordt voor het eerst toegekend in het jaar dat volgt op het jaar van de installatie of de upgrading van het apparaat.<br>
+Voor een NMR die op zijn vroegst in 2015 is geïnstalleerd of die, als hij vóór 2015 is geïnstalleerd, op zijn vroegst in 2015 een upgrading heeft ondergaan waarvan de waarde minstens 50% vertegenwoordigt van de nieuwwaarde van het apparaat, wordt jaarlijks een forfaitaire subsidie van 129.302,16 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat is geïnstalleerd. De voormelde upgrading mag op zijn vroegst plaatsvinden in het zevende jaar dat volgt op het jaar waarin het apparaat geïnstalleerd is. De subsidie wordt voor het eerst toegekend in het jaar dat volgt op het jaar van de installatie of de upgrading van het apparaat.<br>
 <br>
 Het apparaat, vermeld in het eerste lid, past in het maximale aantal apparaten dat mag worden uitgebaat met toepassing van artikel 1 van het koninklijk besluit van 25 april 2014 tot vaststelling van het maximum aantal toestellen voor magnetische resonantie tomografie dat uitgebaat mag worden.
 
@@ -32,7 +32,7 @@ Het apparaat, vermeld in het eerste lid, mag alleen bestaan uit een lineaire ver
 
 ### ART 4.
 
-Voor een PET-scanner die op zijn vroegst in 2015 is geïnstalleerd, wordt er jaarlijks een forfaitaire subsidie van 282.598,62 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat geïnstalleerd is. De subsidie wordt voor het eerst toegekend in het jaar dat volgt op het jaar waarin het apparaat geïnstalleerd is.<br>
+Voor een PET-scanner die op zijn vroegst in 2015 is geïnstalleerd, wordt er jaarlijks een forfaitaire subsidie van 200.000 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat geïnstalleerd is. De subsidie wordt voor het eerst toegekend in het jaar dat volgt op het jaar waarin het apparaat geïnstalleerd is.<br>
 Het apparaat, vermeld in het eerste lid, past in het maximale aantal apparaten dat mag worden uitgebaat met toepassing van artikel 3 van het koninklijk besluit van 25 april 2014 houdende vaststelling van het maximum aantal PET-scanners en diensten nucleaire geneeskunde waarin een PET-scanner wordt opgesteld, dat uitgebaat mag worden.
 
 ### ART 5.
@@ -42,6 +42,19 @@ De installatie van een apparaat als vermeld in artikel 2, 3 of 4, wordt bewezen 
 ### ART 6.
 
 Het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, opgericht bij het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden, betaalt de subsidie, vermeld in artikel 2, 3 of 4, uit aan het ziekenhuis dat de erkende dienst uitbaat waarbij de NMR, het bestralingsapparaat of de PET-scanner is geïnstalleerd.
+
+### ART 7.
+
+In artikel 2, eerste lid, wordt het bedrag "145.181,37 euro" vervangen door het bedrag "129.302,16 euro".<br>
+<br>
+In artikel 4, eerste lid, wordt het bedrag "282.598,62 euro" vervangen door het bedrag "200.000 euro".
+
+### ART 8.
+
+In artikel 31, § 3, van het koninklijk besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen, gewijzigd bij de koninklijke besluiten van 19 november 2012, 17 december 2012 en 26 december 2013, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° wordt het bedrag "148.736,11 EUR" vervangen door het bedrag "129.302,16 euro";<br>
+2° in punt 1° wordt de zin "Op 1 januari 2012 wordt het hierboven genoemde bedrag verlaagd met 3.554,74 euro per gefinancierde apparatuur." opgeheven;<br>
+3° in punt 3° wordt het bedrag "282.598,62 EUR" vervangen door het bedrag "200.000 euro".
 
 ### ART 9.
 
