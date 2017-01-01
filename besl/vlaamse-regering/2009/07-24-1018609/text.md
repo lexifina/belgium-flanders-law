@@ -677,7 +677,19 @@ De subsidie bestaat uit :<BR>1° een forfaitair bedrag van 23,8295 euro per   ge
 
 ### ART. 11.
 
-§ 1. Iedere dienst verleent onregelmatige prestaties afhankelijk van de   noodwendigheden. Onregelmatige prestaties zijn uren die binnen het toegekende   urencontingent gepresteerd worden, hetzij op weekdagen tussen 20 uur en 7 uur,   hetzij op zater-, zon- en feestdagen, met het oog op een continue hulp- en   dienstverlening. <BR><BR>§ 2. De subsidie, vermeld in artikel 10, 1°, wordt   verhoogd met 30 % voor uren die gepresteerd worden op een zaterdag en voor uren   die gepresteerd worden op weekdagen tussen 20 uur en 7 uur. Ze wordt verhoogd   met 67 % voor uren die gepresteerd worden op een zon- of feestdag.<BR><BR>Het   percentage van de verhoging wordt bepaald door de astronomische dag (van 0 tot   24 uur) waarop de uren gepresteerd worden.<BR><BR>§ 3. Prestaties op zater-,   zon- en feestdagen die korter zijn dan 2 uur worden, binnen het urencontingent,   gelijkgesteld met een prestatie van 2 uur.<BR><BR>Prestaties tussen 22 uur en 7   uur die korter zijn dan 8 uur worden, binnen het urencontingent, gelijkgesteld   met een prestatie van 8 uur.<BR><BR>§ 4. De verhogingen, vermeld in paragraaf 2,   worden begrensd tot 3,1% van het toegekende urencontingent.<BR><BR>Binnen de   beschikbare begrotingskredieten kunnen de individuele diensten die het   percentage, vermeld in het eerste lid, overschrijden, de verhogingen, vermeld in   paragraaf 2, ontvangen voor de onregelmatige prestaties tot maximaal 3,5% van   het urencontingent dat eraan toegekend is. De beschikbare middelen worden   verdeeld in verhouding tot de prestaties boven het percentage, vermeld in het   eerste lid.<BR><BR>Vanaf 2014 wordt het percentage, vermeld in het eerste lid,   vervangen door 3,3%.<BR><BR>Vanaf 2015 wordt het percentage, vermeld in het   eerste lid, vervangen door 3,5%..
+§ 1. Iedere dienst verleent onregelmatige prestaties afhankelijk van de noodwendigheden. Onregelmatige prestaties zijn uren die binnen het toegekende urencontingent gepresteerd worden, hetzij op weekdagen tussen 20 uur en 7 uur, hetzij op zater-, zon- en feestdagen, met het oog op een continue hulp- en dienstverlening.<br>
+<br>
+§ 2. De subsidie, vermeld in artikel 10, 1°, wordt verhoogd met 30 % voor uren die gepresteerd worden op een zaterdag en voor uren die gepresteerd worden op weekdagen tussen 20 uur en 7 uur. Ze wordt verhoogd met 67 % voor uren die gepresteerd worden op een zon- of feestdag.<br>
+<br>
+Het percentage van de verhoging wordt bepaald door de astronomische dag (van 0 tot 24 uur) waarop de uren gepresteerd worden.<br>
+<br>
+§ 3. Prestaties op zater-, zon- en feestdagen die korter zijn dan 2 uur worden, binnen het urencontingent, gelijkgesteld met een prestatie van 2 uur.<br>
+<br>
+Prestaties tussen 22 uur en 7 uur die korter zijn dan 8 uur worden, binnen het urencontingent, gelijkgesteld met een prestatie van 8 uur.<br>
+<br>
+§ 4. De verhogingen, vermeld in paragraaf 2, worden begrensd tot 3,5% van het toegekende urencontingent.<br>
+<br>
+Binnen de beschikbare begrotingskredieten kunnen de individuele diensten die het percentage, vermeld in het eerste lid, overschrijden, de verhogingen, vermeld in paragraaf 2, ontvangen voor de onregelmatige prestaties die het percentage, vermeld in het eerste lid, overschrijden, voor zover die grens op sectorniveau niet wordt overschreden. De beschikbare middelen worden verdeeld over de betrokken diensten in verhouding tot de onregelmatige prestaties boven het percentage, vermeld in het eerste lid.
 
 ### ART. 12.
 
@@ -697,7 +709,7 @@ De dienst of coördinerende dienst bezorgt in het kader van meerlingenhulp   jaa
 
 ### ART. 14.
 
-§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld van 3.684.487,46 euro tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg.<br>
+§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld van 3.674.025,87 euro tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met werkdruk die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -730,6 +742,8 @@ Vanaf 2015 wordt het bedrag, vermeld in het eerste lid, vervangen door 6.175.507
 <br>
 Vanaf 2016 wordt het bedrag, vermeld in het eerste lid, vervangen door 6.116.196,04 euro.<br>
 <br>
+Vanaf 2017 wordt het bedrag, vermeld in het eerste lid, vervangen door&nbsp;6.233.349,69 euro.<br>
+<br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met de eindejaarspremie die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
 § 3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat de VVDG aan het agentschap de gegevens van het afgelopen jaar die nodig zijn voor de verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan het agentschap bezorgd worden.<br>
@@ -749,6 +763,8 @@ Vanaf 2014 wordt het bedrag, vermeld in het eerste lid, vervangen door 911.397,3
 Vanaf 2015 wordt het bedrag, vermeld in het eerste lid, vervangen door 917.517,00 euro.<br>
 <br>
 Vanaf 2016 wordt het bedrag, vermeld in het eerste lid, vervangen door 907.869,47 euro.<br>
+<br>
+Vanaf 2017 wordt het bedrag, vermeld in het eerste lid, vervangen door 925.183,78 euro.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van het toegewezen urencontingent gezinszorg van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -858,6 +874,8 @@ Vanaf 2015 wordt het bedrag, vermeld in het eerste lid, vervangen door 1.647.378
 <br>
 Vanaf 2016 wordt het bedrag, vermeld in het eerste lid, vervangen door 1.706.689,90 euro.<br>
 <br>
+Vanaf 2017 wordt het bedrag, vermeld in het eerste lid, vervangen door 1.715.529,90.<br>
+<br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens over de eindejaarspremie die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
 § 3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat de VVDG aan het agentschap de gegevens van het afgelopen jaar die nodig zijn voor de verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan het agentschap bezorgd worden.<br>
@@ -868,7 +886,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 22.
 
 ### ART. 31.
 
-§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg en de erkende private diensten voor logistieke hulp, vermeld in bijlage II. Dat budget bedraagt 2.026.692,13 euro.<br>
+§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg en de erkende private diensten voor logistieke hulp, vermeld in bijlage II. Dat budget bedraagt 2.037.153,72 euro.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten, vermeld in paragraaf 1, op basis van de gegevens in verband met werkdruk die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -1196,7 +1214,15 @@ Het programma voor de diensten voor oppashulp bestaat uit programmacijfers en ev
 
 ### ART. 3.
 
-Het maximale aantal te erkennen diensten voor oppashulp wordt per provincie en voor het tweetalige gebied Brussel-Hoofdstad bepaald op één per 100 000 inwoners.<br /><br />Met behoud van de toepassing van het eerste lid bepaalt de minister per provincie en voor het tweetalige gebied Brussel-Hoofdstad het aantal regio's en, per regio, het maximale aantal te erkennen diensten voor oppashulp. <br /><br />Voor de toepassing van de programmacijfers, vermeld in het eerste en tweede lid, wordt uitgegaan van de bevolkingsprojectie voor het vijfde jaar dat volgt op het jaar waarin de erkenningsaanvraag werd ingediend. Die bevolkingsprojectie wordt door de minister vastgelegd en de resultaten ervan voldoen minstens aan de volgende voorwaarden :<br />1° ze zijn per afzonderlijk kalenderjaar opgesteld; <br />2° ze zijn specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend; <br />3° ze zijn opgesteld op het niveau van de provincies.<br /><br />
+Het maximale aantal te erkennen diensten voor oppashulp wordt per provincie en voor het tweetalige gebied Brussel-Hoofdstad bepaald op één per 100 000 inwoners.<br>
+<br>
+Met behoud van de toepassing van het eerste lid bepaalt de minister per provincie en voor het tweetalige gebied Brussel-Hoofdstad het aantal regio's en, per regio, het maximale aantal te erkennen diensten voor oppashulp.<br>
+<br>
+Voor de toepassing van de programmacijfers, vermeld in het eerste en tweede lid, wordt uitgegaan van de bevolkingsprojectie voor het&nbsp;jaar dat volgt op het jaar waarin de erkenningsaanvraag werd ingediend. Die bevolkingsprojectie wordt door de minister vastgelegd en de resultaten ervan voldoen minstens aan de volgende voorwaarden :<br>
+1° ze zijn per afzonderlijk kalenderjaar opgesteld;<br>
+2° ze zijn specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend;<br>
+3° ze zijn opgesteld op het niveau van de provincies.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -1206,7 +1232,46 @@ De evaluatiecriteria voor de diensten voor oppashulp worden door de minister vas
 
 ### ART. 5.
 
-Met behoud van de toepassing van artikelen 4, 10, 11, 43, 50, 67 en 72,   tweede lid, van het woonzorgdecreet van 13 maart 2009, gelden voor de erkenning   van diensten voor oppashulp de onderstaande specifieke voorwaarden :<BR>A.   Voorwaarden voor de hulp- en dienstverlening <BR>1° vanaf het tweede   kalenderjaar dat hij voor subsidiëring in aanmerking komt, zorgt de dienst per   kalenderjaar voor de coördinatie van minstens 5 000 uren vrijwilligersoppas in   de regio waarvoor hij erkend is. Als de dienst echter erkend is voor de regio   die bestaat uit het tweetalige gebied Brussel-Hoofdstad, zorgt hij voor de   coördinatie van minstens 3 000 uren vrijwilligersoppas in die regio;<BR>2° de   dienst voldoet aan de federale regelgeving betreffende de rechten van   vrijwilligers en aan de Vlaamse regelgeving betreffende het georganiseerd   vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin;<BR>3°   de dienst maakt geen selectie wat doelgroepen betreft; <BR>4° de dienst maakt   geen selectie wat de financiële draagkracht van de gebruiker betreft, tenzij dat   zou inhouden dat de dienst zich prioritair richt op een toeleiding van   gebruikers met een verhoogd risico op verminderde welzijnskansen; <BR>5° de   dienst vordert van de gebruiker een onkostenvergoeding voor de aangeboden   vrijwilligersoppas, die maximaal 2,50 euro per uur bedraagt. Dat bedrag wordt   geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een   stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van   de consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt   berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24   december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's   lands concurrentievermogen, bekrachtigd bij wet van 30 maart 1994. De basisindex   is de index die van toepassing is op 1 januari 2010. De koppeling aan het   prijsindexcijfer gebeurt op 1 januari van het jaar dat volgt op de indexsprong.   De onkostenvergoeding die aangerekend wordt voor de vrijwilligersoppas, is   gelijk aan de effectieve duur van die vrijwilligersoppas, uitgedrukt in minuten,   gedeeld door zestig, en vermenigvuldigd met de onkostenvergoeding die gevraagd   wordt per uur vrijwilligersoppas; <BR>6° de dienst verstrekt op een voor de   gebruiker en verwijzer verstaanbare manier informatie over zijn aanbod;<BR>7° de   dienst werkt samen en maakt afspraken met externe relevante actoren voor de   realisatie van zijn doelstellingen en opdrachten;<BR>8° de dienst zorgt voor een   passende doorverwijzing als de hulpvraag buiten zijn wettelijke opdracht   valt;<BR>9° als de dienst zelf niet in een aanbod kan voorzien, informeert hij   de gebruiker over andere erkende oppasdiensten in de regio;<BR>10° de dienst   streeft naar toegankelijkheid voor zijn gebruikers, vanuit een   niet-discriminerende houding;<BR>11° alvorens vrijwilligersoppas aan te bieden,   zorgt de dienst ervoor dat hij beschikt over het identificatienummer van de   sociale zekerheid (INSZ-nummer) van de gebruiker en de vrijwilliger.<BR><BR>B.   Voorwaarden voor de omkadering<BR>1° de dienst beschikt minstens over 0,5   equivalent coördinator, die beschikt over een diploma van master of bachelor;   <BR>2° de coördinator volgt, gespreid over een periode van maximaal twee jaar,   minstens 20 uren bijscholing over onderwerpen die voor de dienst relevant   zijn;<BR>3° de dienst rekruteert, stimuleert, ondersteunt en vormt   vrijwilligers, met respect voor hun persoonlijke levenssfeer en hun   mogelijkheden;<BR>4° de dienst zet voldoende en deskundig personeel en   vrijwilligers in om zijn vooropgestelde doelstellingen te realiseren;<BR>5° de   dienst volgt het functioneren van het personeel en de vrijwilligers;<BR>6° de   dienst organiseert periodiek en op een gestructureerde wijze intern overleg met   en permanente vorming voor personeel en vrijwilligers.<BR><BR>C. Voorwaarden   voor de werking <BR>1° de dienst is minstens 32 uren per week bereikbaar, met   een passende spreiding over alle werkdagen; <BR>2° de dienst kan de vraag naar   en het aanbod van oppashulp coördineren in een door hem omschreven werkgebied   dat ruimer is dan de regio, vermeld in artikel 3, tweede lid, waarvoor hij is   erkend, als de beslissing tot erkenning van de dienst dat ruimere werkgebied   vermeldt; <BR>3° de dienst sluit een samenwerkingscontract met minstens één   andere voorziening die volgens het woonzorgdecreet van 13 maart 2009 en dit   besluit is erkend. Dat samenwerkingsakkoord bevat minstens afspraken over   :<BR>a) de verwijzingsmogelijkheden; <BR>b) de organisatorische en logistieke   ondersteuning; <BR>c) de continuïteit van de coördinatieopdracht;<BR>4° de   dienst voorziet in inspraak van de gebruiker in zijn eigen hulp- en   dienstverlening;<BR>5° de dienst voorziet in maximale continuïteit van zijn   aanbod;<BR>6° de dienst kan noden en behoeften van zijn doelgroepen signaleren   en formuleert zo nodig suggesties voor afstemming en bijsturing van het   woonzorgbeleid;<BR>7° de dienst formuleert zijn missie en visie, en vertaalt die   in duidelijke doelstellingen en in een concrete werking;<BR>8° de dienst   evalueert op regelmatige tijdstippen zijn werking. Hij evalueert geregeld of de   doelstellingen bereikt zijn en stuurt afhankelijk daarvan bij;<BR>9° de dienst   gaat op een systematische manier de tevredenheid van zijn gebruikers na en   stuurt afhankelijk daarvan bij. Minstens tweejaarlijks wordt een verantwoorde   gebruikerstevredenheidsmeting uitgevoerd;<BR>10° de dienst beschikt over een   duidelijke organisatiestructuur;<BR>11° de dienst beheert zijn beschikbare   middelen optimaal met het oog op de realisatie van de vooropgestelde   doelstellingen;<BR>12° de dienst garandeert aan de gebruikers een klachtrecht en   zorgt voor een adequate en objectieve behandeling van de klachten;<BR>13° elke   dienst moet gebruikmaken van het systeem van elektronische gegevensuitwisseling   tussen het agentschap en de diensten voor oppashulp, om de gegevens over zijn   gebruikers en vrijwilligers die nodig zijn voor het berekenen van de subsidies   en voor het genereren van operationele en beleidsinformatie, aan het agentschap   te bezorgen. Dat gebeurt volgens de richtlijnen die het agentschap ter   beschikking heeft gesteld. De dienst is verantwoordelijk voor het   veiligheidsbeleid bij het doorsturen van de gegevens.<BR><BR>
+Met behoud van de toepassing van artikelen 4, 10, 11, 43, 50, 67 en 72, tweede lid, van het woonzorgdecreet van 13 maart 2009, gelden voor de erkenning van diensten voor oppashulp de onderstaande specifieke voorwaarden :<br>
+A. Voorwaarden voor de hulp- en dienstverlening<br>
+1° vanaf het tweede kalenderjaar dat hij voor subsidiëring in aanmerking komt, zorgt de dienst per kalenderjaar voor de coördinatie van minstens 5 000 uren vrijwilligersoppas in de regio waarvoor hij erkend is. Als de dienst echter erkend is voor de regio die bestaat uit het tweetalige gebied Brussel-Hoofdstad, zorgt hij voor de coördinatie van minstens 3 000 uren vrijwilligersoppas in die regio;<br>
+2° de dienst voldoet aan de federale regelgeving betreffende de rechten van vrijwilligers en aan de Vlaamse regelgeving betreffende het georganiseerd vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
+3° de dienst maakt geen selectie wat doelgroepen betreft;<br>
+4° de dienst maakt geen selectie wat de financiële draagkracht van de gebruiker betreft, tenzij dat zou inhouden dat de dienst zich prioritair richt op een toeleiding van gebruikers met een verhoogd risico op verminderde welzijnskansen;<br>
+5° de dienst vordert van de gebruiker een onkostenvergoeding voor de aangeboden vrijwilligersoppas, die maximaal 2,50 euro per uur bedraagt. Dat bedrag wordt geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij wet van 30 maart 1994. De basisindex is de index die van toepassing is op 1 januari 2010. De koppeling aan het prijsindexcijfer gebeurt op 1 januari van het jaar dat volgt op de indexsprong. De onkostenvergoeding die aangerekend wordt voor de vrijwilligersoppas, is gelijk aan de effectieve duur van die vrijwilligersoppas, uitgedrukt in minuten, gedeeld door zestig, en vermenigvuldigd met de onkostenvergoeding die gevraagd wordt per uur vrijwilligersoppas;<br>
+6° de dienst verstrekt op een voor de gebruiker en verwijzer verstaanbare manier informatie over zijn aanbod;<br>
+7° de dienst werkt samen en maakt afspraken met externe relevante actoren voor de realisatie van zijn doelstellingen en opdrachten;<br>
+8° de dienst zorgt voor een passende doorverwijzing als de hulpvraag buiten zijn wettelijke opdracht valt;<br>
+9° als de dienst zelf niet in een aanbod kan voorzien, informeert hij de gebruiker over andere erkende oppasdiensten in de regio;<br>
+10° de dienst streeft naar toegankelijkheid voor zijn gebruikers, vanuit een niet-discriminerende houding;<br>
+11° alvorens vrijwilligersoppas aan te bieden, zorgt de dienst ervoor dat hij beschikt over het identificatienummer van de sociale zekerheid (INSZ-nummer) van de gebruiker en de vrijwilliger.<br>
+<br>
+B. Voorwaarden voor de omkadering<br>
+1° de dienst beschikt minstens over 0,5 equivalent coördinator, die beschikt over een diploma van master of bachelor;<br>
+2° de coördinator volgt, gespreid over een periode van maximaal twee jaar, minstens 20 uren bijscholing over onderwerpen die voor de dienst relevant zijn;<br>
+3° de dienst rekruteert, stimuleert, ondersteunt en vormt vrijwilligers, met respect voor hun persoonlijke levenssfeer en hun mogelijkheden;<br>
+4° de dienst zet voldoende en deskundig personeel en vrijwilligers in om zijn vooropgestelde doelstellingen te realiseren;<br>
+5° de dienst volgt het functioneren van het personeel en de vrijwilligers;<br>
+6° de dienst organiseert periodiek en op een gestructureerde wijze intern overleg met en permanente vorming voor personeel en vrijwilligers.<br>
+<br>
+C. Voorwaarden voor de werking<br>
+1° de dienst is minstens 32 uren per week bereikbaar, met een passende spreiding over alle werkdagen;<br>
+2° de dienst is gevestigd en coördineert de vraag naar en het aanbod van oppashulp in de regio, vermeld in artikel 3, tweede lid, waarvoor hij erkend is. De dienst kan de vraag naar en het aanbod van oppashulp coördineren in een door hem omschreven werkgebied dat ruimer is dan de regio waarvoor hij is erkend, als de beslissing tot erkenning van de dienst dat ruimere werkgebied vermeldt. Dat ruimere werkgebied moet een aaneengesloten geheel vormen;<br>
+3° de dienst sluit een samenwerkingscontract met minstens één andere voorziening die volgens het woonzorgdecreet van 13 maart 2009 en dit besluit is erkend. Dat samenwerkingsakkoord bevat minstens afspraken over :<br>
+a) de verwijzingsmogelijkheden;<br>
+b) de organisatorische en logistieke ondersteuning;<br>
+c) de continuïteit van de coördinatieopdracht;<br>
+4° de dienst voorziet in inspraak van de gebruiker in zijn eigen hulp- en dienstverlening;<br>
+5° de dienst voorziet in maximale continuïteit van zijn aanbod;<br>
+6° de dienst kan noden en behoeften van zijn doelgroepen signaleren en formuleert zo nodig suggesties voor afstemming en bijsturing van het woonzorgbeleid;<br>
+7° de dienst formuleert zijn missie en visie, en vertaalt die in duidelijke doelstellingen en in een concrete werking;<br>
+8° de dienst evalueert op regelmatige tijdstippen zijn werking. Hij evalueert geregeld of de doelstellingen bereikt zijn en stuurt afhankelijk daarvan bij;<br>
+9° de dienst gaat op een systematische manier de tevredenheid van zijn gebruikers na en stuurt afhankelijk daarvan bij. Minstens tweejaarlijks wordt een verantwoorde gebruikerstevredenheidsmeting uitgevoerd;<br>
+10° de dienst beschikt over een duidelijke organisatiestructuur;<br>
+11° de dienst beheert zijn beschikbare middelen optimaal met het oog op de realisatie van de vooropgestelde doelstellingen;<br>
+12° de dienst garandeert aan de gebruikers een klachtrecht en zorgt voor een adequate en objectieve behandeling van de klachten;<br>
+13° elke dienst moet gebruikmaken van het systeem van elektronische gegevensuitwisseling tussen het agentschap en de diensten voor oppashulp, om de gegevens over zijn gebruikers en vrijwilligers die nodig zijn voor het berekenen van de subsidies en voor het genereren van operationele en beleidsinformatie, aan het agentschap te bezorgen. Dat gebeurt volgens de richtlijnen die het agentschap ter beschikking heeft gesteld. De dienst is verantwoordelijk voor het veiligheidsbeleid bij het doorsturen van de gegevens.<br>
+&nbsp;
 
 ## HOOFDSTUK IV Subsidiëring
 
@@ -1231,6 +1296,10 @@ Diensten voor oppashulp die op de datum van inwerkingtreding van dit besluit erk
 ### ART. 10.
 
 De aanvragen tot erkenning van diensten voor oppashulp waarover op de datum van de inwerkingtreding van dit besluit nog geen beslissing werd genomen, worden verder behandeld met toepassing van de erkenningsvoorwaarden die voor die datum van kracht waren. In geval van erkenning beantwoorden die diensten uiterlijk twee jaar na de datum van de erkenningsbeslissing aan de erkenningsvoorwaarden, vermeld in het woonzorgdecreet van 13 maart 2009 en dit besluit.<br /><br />
+
+### ART 11.
+
+De diensten voor oppashulp die vóór 1 januari 2017 erkend zijn, moeten uiterlijk op 1 januari 2020 beantwoorden aan de voorwaarden, vermeld in artikel 5, C, 2°. Tot die datum moeten de diensten voor oppashulp voldoen aan de voorwaarden vermeld in artikel 5, C, 2°, zoals dat gold vóór de vervanging ervan bij het besluit van de Vlaamse Regering van 17 maart 2017 tot wijziging van bijlage III bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers.
 
 ## BIJLAGE IV Diensten voor thuisverpleging
 
@@ -1950,7 +2019,17 @@ De stijging van de programmacijfers van de centra voor kortverblijf, die   voor 
 
 ### ART. 1.
 
-In deze bijlage wordt verstaan onder :<br />1° oudere : een gebruiker van 65 jaar of ouder;<br />2° bewoner : een gebruiker die in het woonzorgcentrum verblijft;<br />3° regio : voor een gemeente die minder dan 10 000 ouderen boven de 65 jaar telt : de gemeente in kwestie en de aangrenzende gemeenten, met uitzondering van de aangrenzende gemeenten die meer dan 10 000 ouderen boven de 65 jaar tellen en waarvan het programmacijfer al overschreden is; voor een gemeente die minstens 10 000 ouderen boven de 65 jaar telt : de gemeente zelf;<br />4° vertegenwoordiger : de natuurlijke of rechtspersoon die belast is met de betaling van de kosten die verband houden met het verblijf van een bewoner in het woonzorgcentrum;<br />5° dagprijs : de prijs per dag die door de bewoner of zijn vertegenwoordiger betaald moet worden en die minimaal de kostprijselementen omvat voor huisvesting en verzorging van de bewoner, die beschouwd worden als deel van de normale activiteiten van een woonzorgcentrum;<br />6° voorschot ten gunste van derden : elke uitgave die door het woonzorgcentrum betaald wordt op naam van de bewoner en die voor hetzelfde bedrag terugbetaald wordt door de bewoner of zijn vertegenwoordiger;<br />7° beheersinstantie : de persoon of personen die een woonzorgcentrum vertegenwoordigen en juridisch kunnen binden.
+In deze bijlage wordt verstaan onder :<br>
+1° oudere : een gebruiker van 65 jaar of ouder;<br>
+2° bewoner : een gebruiker die in het woonzorgcentrum verblijft;<br>
+3° regio : voor een gemeente die minder dan 10 000 ouderen boven de 65 jaar telt : de gemeente in kwestie en de aangrenzende gemeenten, met uitzondering van de aangrenzende gemeenten die meer dan 10 000 ouderen boven de 65 jaar tellen en waarvan het programmacijfer al overschreden is; voor een gemeente die minstens 10 000 ouderen boven de 65 jaar telt : de gemeente zelf;<br>
+4° vertegenwoordiger : de natuurlijke of rechtspersoon die belast is met de betaling van de kosten die verband houden met het verblijf van een bewoner in het woonzorgcentrum;<br>
+5° dagprijs : de prijs per dag die door de bewoner of zijn vertegenwoordiger betaald moet worden en die minimaal de kostprijselementen omvat voor huisvesting en verzorging van de bewoner, die beschouwd worden als deel van de normale activiteiten van een woonzorgcentrum;<br>
+6° voorschot ten gunste van derden : elke uitgave die door het woonzorgcentrum betaald wordt op naam van de bewoner en die voor hetzelfde bedrag terugbetaald wordt door de bewoner of zijn vertegenwoordiger;<br>
+7° beheersinstantie : de persoon of personen die een woonzorgcentrum vertegenwoordigen en juridisch kunnen binden;<br>
+8° verblijfsruimte: de individuele bewonerskamers en gemeenschappelijke ruimten die toegankelijk zijn voor de bewoners;<br>
+9° afdeling: een groep van woongelegenheden die als een organisatorisch geheel wordt beschouwd en een of meer leefgroepen kan omvatten;<br>
+10° leefgroep: een groep van bewoners die samen een aantal gemeenschappelijke ruimten delen, zoals de zit- en eetruimte en gemeenschappelijk sanitair.
 
 ## HOOFDSTUK II Programmatie
 
@@ -2156,7 +2235,7 @@ De infrastructuur van het woonzorgcentrum moet toelaten dat de minimale privacy 
 
 ### ART. 47.
 
-Alle te bouwen of te verbouwen woonzorgcentra of delen van woonzorgcentra waarvoor na 1 januari 2009 een stedenbouwkundige vergunning voor de geplande bouwwerkzaamheden wordt afgeleverd, moeten voldoen aan de volgende voorwaarden, ook al zijn, in geval van verbouwing, die woonzorgcentra of woonzorgcentrumgedeelten op 1 januari 2009 erkend of werd er voor 1 januari 2009 een aanvraag tot erkenning van die woonzorgcentra of woonzorgcentrumgedeelten ingediend :<br>
+Alle te bouwen of te verbouwen woonzorgcentra of delen van woonzorgcentra waarvoor na 1 januari 2009 een stedenbouwkundige vergunning voor de geplande bouwwerkzaamheden wordt afgeleverd of waarvoor uiterlijk op 31 december 2016 een stedenbouwkundige vergunning voor de geplande bouwwerkzaamheden wordt aangevraagd, moeten voldoen aan de volgende voorwaarden, ook al zijn, in geval van verbouwing, die woonzorgcentra of woonzorgcentrumgedeelten op 1 januari 2009 erkend of werd er voor 1 januari 2009 een aanvraag tot erkenning van die woonzorgcentra of woonzorgcentrumgedeelten ingediend :<br>
 1° de voor de bewoners toegankelijke ruimtes in een woonzorgcentrum hebben samen een nettovloeroppervlakte van minimaal 35 m2 per bewoner. Die ruimten omvatten ten minste de woongelegenheid van de bewoner, sanitaire cel inbegrepen, de zit- en eetruimten, de gemeenschappelijke sanitaire ruimten en de voor de bewoners toegankelijke gangen;<br>
 2° een eenpersoonskamer moet een nettovloeroppervlakte van ten minste 16 m2 hebben, sanitair niet inbegrepen. Elke eenpersoonskamer moet over een aparte, ingerichte sanitaire cel beschikken, aangepast aan de behoeften van een rolstoelgebruiker, met minstens een toilet en een wastafel;<br>
 3° een tweepersoonskamer moet een nettovloeroppervlakte van ten minste 28 m2 hebben, sanitair niet inbegrepen. Elke tweepersoonskamer moet over een aparte, ingerichte sanitaire cel beschikken, aangepast aan de behoeften van een rolstoelgebruiker, met minstens een toilet en twee wastafels. In een tweepersoonskamer moet een afscheiding tussen de twee bedden geplaatst kunnen worden;<br>
@@ -2172,8 +2251,97 @@ Alle te bouwen of te verbouwen woonzorgcentra of delen van woonzorgcentra waarvo
 13° in de bewonerskamers en in de zit- en eetruimte moet het raamoppervlak ten minste een zesde bedragen van de nettovloeroppervlakte. In een kamer of een zit- en eetruimte met een nettovloeroppervlakte van meer dan 30 m2 is het raamoppervlak ten minste een zevende van de nettovloeroppervlakte.<br>
 Het glasoppervlak van het raam in alle kamers en gemeenschappelijke ruimten begint op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak, en ook zittend moet een ongehinderd zicht naar buiten mogelijk zijn;<br>
 14° in elke woongelegenheid moet minimaal aansluiting op tv, radio en telefoon mogelijk zijn;<br>
-15° alle gangen die voor de bewoners toegankelijk zijn, moeten minstens 1,80 m breed zijn.<!-- #detailBodyRightContainer --><br>
-<!-- #detailContainer -->
+15° alle gangen die voor de bewoners toegankelijk zijn, moeten minstens 1,80 m breed zijn.
+
+### ART 47/1.
+
+§ 1. De gebouwen van alle nog te ontwerpen woonzorgcentra, uitbreidingen of verbouwingen van woonzorgcentra of delen ervan waarvoor op 1 januari 2017 nog geen stedenbouwkundige vergunning voor de geplande bouwwerkzaamheden is aangevraagd, en verbouwingen van bestaande woonzorgcentra waarvoor een stedenbouwkundige vergunning nodig is na 1 januari 2017, moeten voldoen aan de volgende voorwaarden:<br>
+1° bij de inrichting van het gebouw worden huiselijke en gezellige accenten gelegd;<br>
+2° de gebouwen en de lokalen worden regelmatig onderhouden;<br>
+3° de nodige maatregelen worden genomen om vocht en de insijpeling van water en hinder van welke aard ook te voorkomen;<br>
+4° de infrastructuur van het woonzorgcentrum laat toe dat de minimale privacy van elke bewoner gewaarborgd is en dat het altijd mogelijk is om de gepaste zorg te bieden en hulp te verlenen;<br>
+5° de infrastructuur van het woonzorgcentrum en de voor bewoners en bezoekers toegankelijke omgeving is integraal toegankelijk. De integrale toegankelijkheid wordt gegarandeerd door bij het ontwerp en de uitvoering rekening te houden met het advies van het Agentschap Toegankelijk Vlaanderen, Inter.<br>
+<br>
+§ 2. Alle kamers van het gebouw of de gebouwen, vermeld in paragraaf 1, moeten voldoen aan de volgende voorwaarden:<br>
+1° een eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16 m², sanitair niet inbegrepen. Elke eenpersoonskamer beschikt over een aparte, ingerichte sanitaire cel, aangepast aan de behoeften van een rolstoelgebruiker als vermeld in artikel 47/2, met minstens een toilet, een wastafel en bijbehorende opbergruimte;<br>
+2° een tweepersoonskamer heeft een nettovloeroppervlakte van ten minste 30 m², sanitair niet inbegrepen. De tweepersoonskamer beschikt over een aparte sanitaire cel, aangepast aan de behoeften van een rolstoelgebruiker als vermeld in artikel 47/2, met minstens een toilet en twee wastafels en bijbehorende opbergruimte;<br>
+3° per kamer zijn er niet meer dan twee personen gehuisvest;<br>
+4° in een tweepersoonskamer kan er een afscheiding tussen twee bedden geplaatst worden;<br>
+5° niet meer dan 10% van het totale aantal bewoners wordt in tweepersoonskamers gehuisvest. De koppelbare eenpersoonskamers worden daarin niet meegerekend.<br>
+<br>
+§ 3. Alle gemeenschappelijke ruimten van het gebouw of de gebouwen, vermeld in paragraaf 1, moeten voldoen aan de volgende voorwaarden:<br>
+1° de infrastructuur van het woonzorgcentrum kan een kleinschalige werking toelaten, al dan niet voor specifieke doelgroepen en al dan niet in een groter geheel;<br>
+2° per leefgroep is er een aparte zit- en eetruimte die voldoende ruim is zodat alle leden van de leefgroep die ruimte gelijktijdig kunnen gebruiken. Als de afdeling uit verschillende leefgroepen bestaat, kunnen de zit- en eetruimten van de verschillende leefgroepen eventueel geschakeld worden per afdeling;<br>
+3° de totale oppervlakte van de verblijfsruimten in de leefgroep bedraagt minimaal 30 m² per bewoner. Die oppervlakte omvat de woongelegenheid van de bewoner, inclusief de individuele sanitaire cel, de gemeenschappe-lijke zit- en eetruimten, de gemeenschappelijke sanitaire ruimten voor bewoners en de rustpunten die aansluiten op de gangen;<br>
+4° de oppervlakte van de gemeenschappelijke zit- en eetruimten in de leefgroep bedraagt altijd minimaal 4 m² per bewoner;<br>
+5° bij elke zit- en eetruimte zijn voldoende gemeenschappelijke toiletten beschikbaar die toegankelijk zijn voor rolstoelgebruikers, met een minimum van één gemeenschappelijk toilet. Bij een cafetaria wordt het aantal toiletten afgestemd op de voorziene bezetting, waarbij er altijd minstens twee rolstoeltoegankelijke toiletten beschikbaar zijn;<br>
+6° in de onmiddellijke buurt van de kineruimte is een aangepast toilet beschikbaar;<br>
+7° per begonnen schijf van twintig woongelegenheden zonder individuele douche is een gemeenschappelijke badkamer met aangepaste bad- en douchegelegenheid en toilet beschikbaar;<br>
+8° per dertig woongelegenheden met individuele douche is er een gemeenschappelijke badkamer met aangepaste bad- en douchegelegenheid en toilet beschikbaar. Bij het overschrijden van de helft van elke nieuwe schijf van dertig woongelegenheden met individuele douche is er een extra gemeenschappelijke badkamer met aangepaste bad- en douchegelegenheid en toilet beschikbaar.<br>
+<br>
+§ 4. Alle andere ruimten van het gebouw of de gebouwen, vermeld in paragraaf 1, moeten voldoen aan de volgende voorwaarden:<br>
+1° geneesmiddelen, producten die bij inname tot gezondheidsrisico's kunnen leiden, en dossiers worden op een veilige en discrete manier bewaard;<br>
+2° er is ten minste een uitgeruste en aparte ruimte voor kine of ergo met bijbehorende bergruimte. De ruimte biedt de nodige privacy voor de bewoners;<br>
+3° als op de bewonerskamers niet gerookt mag worden, is er in het woonzorgcentrum een aangepaste en volwaardige rookruimte die vlot bereikbaar is voor de bewoners.<br>
+<br>
+§ 5. De buitenruimte van het gebouw of de gebouwen, vermeld in paragraaf 1, moet voldoen aan de volgende voorwaarden:<br>
+1° er is een beschutte fietsenstalling voor bezoekers en personeel beschikbaar;<br>
+2° per bewoner is een oppervlakte van 3 m² beschikbaar als buitenruimte voor bewoners, bezoekers en personeel.<br>
+<br>
+§ 6. De circulatieruimte van het gebouw of de gebouwen, vermeld in paragraaf 1, moet voldoen aan de volgende voorwaarden:<br>
+1° elk woonzorgcentrum met twee of meer bouwlagen die toegankelijk zijn voor bewoners, beschikt over ten minste één lift. Minstens één lift is geschikt voor liggend vervoer. Het aantal liften wordt afgestemd op het aantal bewoners en het voorziene gebruik;<br>
+2° in alle voor de bewoners toegankelijke ruimten worden niveauverschillen, zoals treden, trappen en andere hindernissen, vermeden. Als die niveauverschillen niet geweerd kunnen worden, worden ze ondervangen conform de bepalingen in de stedenbouwkundige verordening toegankelijkheid en worden ze duidelijk gesignaleerd;<br>
+3° alle gangen die voor de bewoners toegankelijk zijn, zijn minstens 1,80 m breed zijn;<br>
+4° in het kader van valpreventie zijn trappenhallen beveiligd.<br>
+<br>
+§ 7. De uitrusting en de inrichting van het gebouw of de gebouwen, vermeld in paragraaf 1, moeten voldoen aan de volgende voorwaarden:<br>
+1° het woonzorgcentrum kan per bewoner het nodige meubilair ter beschikking stellen opdat elke bewoner op een comfortabele manier kan eten, rusten en slapen. Er wordt aan de bewoners de mogelijkheid geboden om de kamer in te richten met eigen meubilair. De inrichting van de woongelegenheid laat de nodige flexibiliteit om het meubilair te plaatsen, voor zover de zorg- en dienstverlening en de veiligheid niet in het gedrang komen;<br>
+2° in elke zit- en leefruimte kunnen alle bewoners van een leefgroep op een comfortabele manier zitten;<br>
+3° alle bedden zijn in de hoogte verstelbaar en zijn aangepast aan de specifieke behoeften van de bewoner;<br>
+4° in de woongelegenheid is het gebruik van een tillift, plafondlift of van andere uitrusting en materialen, noodzakelijk voor de zorg en de ondersteuning van de bewoner, altijd mogelijk;<br>
+5° voor elke bewoner kan op de kamer een koelkast ter beschikking gesteld worden;<br>
+6° in elke woongelegenheid zijn minimaal de voorzieningen aanwezig om tv, radio, draadloos internet en vaste telefonie te gebruiken;<br>
+7° de bewoner heeft vanuit zijn bed de mogelijkheid om een licht te bedienen;<br>
+8° in iedere woongelegenheid is er warm en koud stromend water;<br>
+9° er zijn voldoende rolstoelen en er is voldoende en aangepast materiaal om doorligwonden te voorkomen;<br>
+10° restafval en gft worden in gesloten afvalemmers bewaard zodat er geen geur- of andere hinder ontstaat;<br>
+11° elke bewoner kan altijd in alle voor de bewoners toegankelijke ruimten een aangepast oproepsysteem gebruiken en in elke sanitaire cel is permanent een oproepsysteem aanwezig dat gemakkelijk bereikbaar is voor de bewoners;<br>
+12° ICT is beschikbaar in het woonzorgcentrum, ter ondersteuning van de zelfredzaamheid en de sociale contacten van de bewoners, de kwaliteit van zorg(opvolging) en de uitvoering van zorgtaken;<br>
+13° ramen en toegangen kunnen beveiligd worden.<br>
+<br>
+§ 8. Het gebruikerscomfort van het gebouw of de gebouwen, vermeld in paragraaf 1, moet voldoen aan de volgende voorwaarden:<br>
+1° om zich te verplaatsen in het gebouw kunnen de bewoners zich behelpen met leuningen en handgrepen. In gangen worden aan beide zijden leuningen aangebracht;<br>
+2° alle gangen die voor de bewoners toegankelijk zijn, beschikken over de nodige rustpunten. Een rustpunt is een plek waar een bewoner kan gaan zitten;<br>
+3° ruimten voor bewoners worden zo veel mogelijk met daglicht verlicht. In de verblijfsruimten bedraagt het raamoppervlak ten minste een zesde van de nettovloeroppervlakte;<br>
+4° in alle verblijfsruimten begint het glasoppervlak van het raam op maximaal 85 cm hoogte, gemeten vanaf het vloeroppervlak. Er is zittend een ongehinderd zicht naar buiten mogelijk;<br>
+5° in alle lokalen zijn de verwarming, ventilatie en verlichting aangepast aan de bestemming van het lokaal;<br>
+6° de verlichting houdt rekening met de veiligheid en de behoeften van de bewoners. 's Nachts zijn de woongelegenheden en gangen zodanig verlicht dat de bewoners zich veilig kunnen verplaatsen. In de verblijfsruimten wordt in een basisverlichting voorzien, aangevuld met aangepaste accentverlichting. In alle verblijfsruimten zijn daarvoor voldoende aansluitingen geïnstalleerd;<br>
+7° er is een centraal verwarmingssysteem. Verwarmingssystemen met open vuur zijn verboden;<br>
+8° de binnentemperatuur is regelbaar per verblijfsruimte, al dan niet via een centraal gebouwbeheersysteem;<br>
+9° in alle verblijfsruimten zijn opengaande raamdelen aanwezig. Er wordt voor de bediening ervan rekening gehouden met de veiligheid van de bewoners;<br>
+10° in alle verblijfsruimten bedraagt de temperatuur overdag minstens 22 ° C. Alle nuttige maatregelen worden genomen om in alle verblijfsruimten en in normale meteorologische omstandigheden ervoor te zorgen dat de temperatuur nooit hoger is dan 27 ° C;<br>
+11° in geval van een hittegolf is een geklimatiseerde ruimte beschikbaar die voldoende groot is voor alle bewoners van wie de verblijfsruimten de vereiste temperaturen niet halen;<br>
+12° aangepaste zonnewering, waarbij het zicht naar buiten zo weinig mogelijk gehinderd wordt, wordt, waar nodig, aangebracht. Zonnewering wordt als aangepast beschouwd als het zicht op de buitenwereld niet wordt verstoord, oververhitting van de bewoners wordt vermeden en verblinding van bewoners door direct zonlicht vermeden wordt. Op de noordoriëntatie (tussen NO en NW over noord) volstaat zonnewerende beglazing. Een zontoetredingsfactor g &lt; 0,45 is vereist. Op de andere oriëntaties (NO en NW over zuid) wordt aangepaste zonnewering voorzien. Bij toepassing van regelbare zonnewering parallel aan het glas is een zontoetredingsfactor gtotaal &lt; 0,15 vereist voor het geheel van de beglazing en de zonnewering samen;<br>
+13° het akoestische comfort wordt gegarandeerd in alle verblijfsruimten;<br>
+14° een equivalent E-peil van 80 kan aangetoond worden in afwachting van de regelgeving betreffende energieprestatie en binnenklimaat in Vlaanderen en het Brusselse Hoofdstedelijke gewest. Vanaf de inwerkingtreding van de betreffende regelgeving is die van kracht;<br>
+15° het globale isolatiepeil is maximaal K35;<br>
+16° in verblijfsruimten is de CO2-concentratie maximaal 1200 ppm;<br>
+17° de minimale verdiepingshoogte is 2,50 m (vloer tot afgewerkt plafond).<br>
+<br>
+§ 9. Een persoon wordt aangewezen als verantwoordelijke voor het beheer en onderhoud van de technische installaties. Die persoon staat in voor de energieboekhouding.
+
+### ART 47/2.
+
+Een sanitaire ruimte, aangepast aan de behoeften van een rolstoelgebruiker als vermeld in artikel 47/1, § 2, van deze bijlage, voldoet aan de voorwaarden, vermeld in artikel 30, 31 en 31/1 van het besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van een gewestelijke stedenbouwkundige verordening inzake toegankelijkheid, en aan de volgende voorwaarden:<br>
+1° er is een vrije draaicirkel met diameter van 1,50 meter in de sanitaire ruimte;<br>
+2° er zijn handgrepen aangebracht aan beide kanten van het toilet;<br>
+3° de wastafel is onderrijdbaar;<br>
+4° de kraan is eenvoudig te bedienen voor mensen met een fysieke beperking;<br>
+5° de spiegel is aangepast of aanpasbaar aan de rolstoelgebruiker (aangepaste hoogte of kantelbaar).
+
+### ART 47/3.
+
+Alle afmetingen, vermeld in artikel 47/1, zijn nettoafmetingen, gemeten van plint tot plint. De oppervlakte onder schuine wanden wordt daarbij niet meegeteld, behalve vanaf het punt waarop een normale doorgangshoogte van 2,30 m begint.
 
 ### ART. 48.
 
