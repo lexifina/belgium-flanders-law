@@ -140,7 +140,18 @@ Zorgdragers kunnen specifieke selectielijsten voorleggen aan de bevoegde   selec
 
 ### ART. 27.
 
-<P>Een stuurgroep wordt opgericht die als doel heeft afstemming te bereiken in   de uitvoering van de taken van het steunpunt tussen de beleidsvelden   Bestuurszaken, Cultuur en Binnenlandse Aangelegenheden.<BR></P>  <P>De stuurgroep is samengesteld uit een vertegenwoordiger van:<BR>1° het   Agentschap Facilitair Bedrijf;<BR>2° het Agentschap Binnenlands Bestuur;<BR>3°   het Departement Cultuur, Jeugd, Sport en Media van het Vlaams Ministerie van   Cultuur, Jeugd, Sport en Media.<BR></P>  <P>De stuurgroep kan uitgebreid worden met:<BR>1° vertegenwoordigers van de   zorgdragers;<BR>2° personen die een grondige expertise bezitten in of betrokken   zijn bij de archiefzorg en het archiefbeheer.<BR></P>  <P>Deze hebben een raadgevende stem.<BR></P>
+<p>Een stuurgroep wordt opgericht die als doel heeft afstemming te bereiken in de uitvoering van de taken van het steunpunt tussen de beleidsvelden Bestuurszaken, Cultuur en Binnenlandse Aangelegenheden.</p>
+
+<p>De stuurgroep is samengesteld uit een vertegenwoordiger van:<br>
+1° het Agentschap Facilitair Bedrijf;<br>
+2° het Agentschap Binnenlands Bestuur;<br>
+3° het Departement Cultuur, Jeugd en Media.</p>
+
+<p>De stuurgroep kan uitgebreid worden met:<br>
+1° vertegenwoordigers van de zorgdragers;<br>
+2° personen die een grondige expertise bezitten in of betrokken zijn bij de archiefzorg en het archiefbeheer.</p>
+
+<p>Deze hebben een raadgevende stem.</p>
 
 ## HOOFDSTUK 5. Slotbepalingen
 
