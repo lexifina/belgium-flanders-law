@@ -2,16 +2,16 @@
   "codex_id": 1017853,
   "title": "Besluit van de Vlaamse Regering van 2009-03-06 tot tijdelijke erkenning van de opleiding bachelor in de verpleegkunde van de Artesis Hogeschool Antwerpen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017853/VolledigDocument?datum=2012-09-01",
-  "source_sha256": "840970b321792f9ebeaf1792ac34d9d9c46c822a5969ee516621fad17cd50ceb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017853/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "a334f610ef553880d31ca2d085761bcf68a2a3c80e092a6c829ca4bbececb7ff",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017853&param=informatie",
-  "as_of": "2012-09-01",
+  "as_of": "2017-01-01",
   "made": "2009-03-06",
   "gazette": "2009-04-30",
   "numac": 2009201868,
   "document_start": "2009-09-01",
   "document_end": "2016-12-31",
-  "in_force": "2012-09-01",
+  "in_force": "2017-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
