@@ -48,9 +48,9 @@ De ambten opgesomd in artikel 2 van dit besluit vervangen de volgende ambten:<br
 
 ### ART. 10bis.
 
-Het wervingsambt van ict-coördinator vervangt de wervingsambten van administratief medewerker of beleidsmedewerker, ingericht op basis van de puntenenveloppe ICT, vermeld in artikel X.52 van het decreet betreffende het onderwijs XIV van 14 februari 2003, en/of ingericht op basis van de puntenenveloppe, toegekend aan de scholengemeenschap en gebruikt voor ICT als vermeld in artikel 125duodecies van het decreet Basisonderwijs van 25 februari 1997.<br>
+Het wervingsambt van ict-coördinator vervangt de wervingsambten van administratief medewerker of beleidsmedewerker, ingericht op basis van de puntenenveloppe ICT, vermeld in artikel VI.4 van de Codificatie sommige bepalingen voor het onderwijs, en/of ingericht op basis van de puntenenveloppe, toegekend aan de scholengemeenschap en gebruikt voor ICT als vermeld in artikel 125duodecies van het decreet Basisonderwijs van 25 februari 1997.<br>
 <br>
-Het wervingsambt van zorg-coördinator vervangt de wervingsambten van beleidsmedewerker, ingericht op basis van de puntenenveloppe zorg en/of ingericht op basis van de puntenenveloppe toegekend aan de scholengemeenschap en gebruikt voor zorg, als respectievelijk vermeld in artikel 153quinquies en artikel 125duodecies van het decreet basisonderwijs van 25 februari 1997. (ing. B.V.R. 30 september 2005, art. 2, I: 1 september 2005) ]
+Het wervingsambt van zorg-coördinator vervangt de wervingsambten van beleidsmedewerker, ingericht op basis van de puntenenveloppe zorg en/of ingericht op basis van de puntenenveloppe toegekend aan de scholengemeenschap en gebruikt voor zorg, als respectievelijk vermeld in artikel 153quinquies en artikel 125duodecies van het decreet basisonderwijs van 25 februari 1997.
 
 ### ART. 11.
 
@@ -58,7 +58,7 @@ De personeelsleden die vóór de datum van de inwerkingtreding van dit besluit i
 
 ### ART. 11bis.
 
-De personeelsleden die op 31 augustus 2005 vastbenoemd zijn in het ambt van administratief medewerker op basis van de puntenenveloppe ict, zoals bedoeld in artikel X.52. van het decreet betreffende het onderwijs XIV van 14 februari 2003 behouden het voordeel van de weddenschaal verbonden aan het door hen op 31 augustus 2005 uitgeoefende ambt.
+De personeelsleden die op 31 augustus 2005 vastbenoemd zijn in het ambt van administratief medewerker op basis van de puntenenveloppe ict, zoals bedoeld in artikel VI.4 van de Codificatie sommige bepalingen voor het onderwijs behouden het voordeel van de weddenschaal verbonden aan het door hen op 31 augustus 2005 uitgeoefende ambt.
 
 ### ART. 11ter.
 
