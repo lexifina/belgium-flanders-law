@@ -24,7 +24,13 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° administratie : het   Departement Cultuur, Jeugd, Sport en Media;<BR>2° audiobeschrijving : een   techniek om audiovisuele producties zoals film en televisieprogramma's   toegankelijk te maken voor blinden en slechtzienden. Een voice-over beschrijft   de visuele elementen;<BR>3° auditieve ondertiteling : een auditieve weergave van   de ondertiteling bij niet-Nederlandstalige films en dialogen;<BR>4° marktaandeel   : het aandeel in het totale kijkcijferbereik op de televisieomroepmarkt voor een   bepaalde periode;<BR>5° ondertiteling : een tekstuele versie van de dialoog die   op het scherm wordt afgebeeld of oproepbaar is;<BR>6° Vlaamse Gebarentaal :   afgekort VGT, is de visueel-gestuele natuurlijke taal die gebruikt wordt door   Dove mensen en Vlaamse Gebarentaalgebruikers in de Vlaamse Gemeenschap en in het   tweetalige gebied Brussel-Hoofdstad.
+In dit besluit wordt verstaan onder :<br>
+1° administratie : het Departement Cultuur, Jeugd en Media;<br>
+2° audiobeschrijving : een techniek om audiovisuele producties zoals film en televisieprogramma's toegankelijk te maken voor blinden en slechtzienden. Een voice-over beschrijft de visuele elementen;<br>
+3° auditieve ondertiteling : een auditieve weergave van de ondertiteling bij niet-Nederlandstalige films en dialogen;<br>
+4° marktaandeel : het aandeel in het totale kijkcijferbereik op de televisieomroepmarkt voor een bepaalde periode;<br>
+5° ondertiteling : een tekstuele versie van de dialoog die op het scherm wordt afgebeeld of oproepbaar is;<br>
+6° Vlaamse Gebarentaal : afgekort VGT, is de visueel-gestuele natuurlijke taal die gebruikt wordt door Dove mensen en Vlaamse Gebarentaalgebruikers in de Vlaamse Gemeenschap en in het tweetalige gebied Brussel-Hoofdstad.
 
 ### ART. 2.
 
