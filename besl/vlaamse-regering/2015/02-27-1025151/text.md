@@ -22,7 +22,11 @@ In   dit besluit wordt verstaan onder :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: n
 
 ### ART. 4.
 
-<P>De   minister stelt aan de hand van de formule, vermeld in artikel 3, de   regularisatiepremie vast en brengt het plaatselijk bestuur daarvan op de hoogte   met een brief.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en   Sociale Economie betaalt de premie halfjaarlijks uit in twee gelijke   delen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   eventuele verschuldigd saldo, dat het verschil is tussen enerzijds de som van de   uitgekeerde voorschotten en anderzijds het subsidiebedrag voor het kalenderjaar   2014 en het eerste kwartaal 2015, wordt verrekend bij de tweede halfjaarlijkse   betaling van de regularisatiepremie, na onderzoek door het voormelde   departement.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De minister stelt aan de hand van de formule, vermeld in artikel 3, de regularisatiepremie vast en brengt het plaatselijk bestuur daarvan op de hoogte met een brief.<br>
+<br>
+Het Agentschap Binnenlands Bestuur, opgericht bij het besluit van de Vlaamse Regering van 28 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap "Agentschap Binnenlands Bestuur", betaalt de regularisatiepremie halfjaarlijks uit, in twee gelijke delen, in juni en december van het begrotingsjaar.<br>
+<br>
+Het eventuele verschuldigd saldo, dat het verschil is tussen enerzijds de som van de uitgekeerde voorschotten en anderzijds het subsidiebedrag voor het kalenderjaar 2014 en het eerste kwartaal 2015, wordt verrekend bij de tweede halfjaarlijkse betaling van de regularisatiepremie, na onderzoek door het voormelde departement.</p>
 
 ## HOOFDSTUK 3 Wijzigingsbepalingen
 
