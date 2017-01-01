@@ -8,7 +8,15 @@ De Vlaamse Regering,<br /><br />Gelet op het kaderdecreet bestuurlijk beleid van
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° raadgevende comités : de raadgevende comités bij de intern verzelfstandigde agentschappen van het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br />2° Kind en Gezin : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br />3° VAPH : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br />4° Vlaams Zorgfonds : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Zorgfonds;<br />5° Zorg en Gezondheid : het intern verzelfstandigd agentschap Zorg en Gezondheid;<br />6° Jongerenwelzijn : het intern verzelfstandigd agentschap Jongerenwelzijn;<br />7° minister : de Vlaamse minister bevoegd voor de Bijstand aan Personen en voor het Gezondheidsbeleid.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° raadgevende comités : de raadgevende comités bij de intern verzelfstandigde agentschappen van het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
+2° Kind en Gezin : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+3° VAPH : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
+4° Agentschap voor Vlaamse Sociale Bescherming : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Agentschap voor Vlaamse Sociale Bescherming, opgericht bij het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
+5° Zorg en Gezondheid : het intern verzelfstandigd agentschap Zorg en Gezondheid;<br>
+6° Jongerenwelzijn : het intern verzelfstandigd agentschap Jongerenwelzijn;<br>
+7° minister : de Vlaamse minister bevoegd voor de Bijstand aan Personen en voor het Gezondheidsbeleid.<br>
+&nbsp;
 
 ## HOOFDSTUK II Samenstelling
 
@@ -35,12 +43,12 @@ De voorzitter, vermeld in artikel 5, wordt aangewezen onder de deskundigen, verm
 3° vier vertegenwoordigers van de werknemers van de voorzieningen, vermeld in 2°;<br>
 4° acht onafhankelijke deskundigen.<br>
 <br>
-§ 4. Het raadgevend comité van het Vlaams Zorgfonds bestaat uit 20 leden, waarvan :<br>
-1° vier vertegenwoordigers van de zorgkassen;<br>
-2° vier vertegenwoordigers van de verenigingen van gebruikers en mantelzorgers;<br>
-3° vier vertegenwoordigers van de erkende zorgverleners;<br>
-4° vier vertegenwoordigers van de Vlaamse sociale partners;<br>
-5° vier onafhankelijke deskundigen.<br>
+§ 4. Overeenkomstig artikel 14 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming bestaat het raadgevend comité van het Agentschap voor Vlaamse Sociale Bescherming uit 32 leden, waarvan :<br>
+1° acht vertegenwoordigers van de cliënten, de patiënten en de mantelzorgers;<br>
+2° zes vertegenwoordigers van de zorgkassen;<br>
+3° zes vertegenwoordigers van de Vlaamse sociale partners;<br>
+4° zes vertegenwoordigers van de voorzieningen en de zorgverstrekkers;<br>
+5° zes onafhankelijke deskundigen met een bijzondere bekwaamheid op het vlak van sociale bescherming.<br>
 <br>
 § 5 Het raadgevend comité van Jongerenwelzijn bestaat uit 23 leden, waarvan :<br>
 1° zes vertegenwoordigers van de gebruikers van de ondersteuning, georganiseerd door de departementen en agentschappen die betrokken zijn bij de integrale jeugdhulp;<br>
@@ -50,7 +58,8 @@ De voorzitter, vermeld in artikel 5, wordt aangewezen onder de deskundigen, verm
 
 ### ART. 3.
 
-De leden worden door de Vlaamse Regering voor een periode van vier jaar benoemd.<br /><br />
+De leden worden door de Vlaamse Regering voor een periode van vier jaar benoemd, met uitzondering van de leden van het raadgevend comité van het Agentschap voor Vlaamse Sociale Bescherming.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -61,7 +70,8 @@ Hij houdt hierbij rekening met de maatschappelijke relevantie en de belangrijkhe
 
 ### ART. 5.
 
-De minister wijst onder de leden van de raadgevende comités een voorzitter en hoogstens twee ondervoorzitters aan.<br /><br />
+De minister wijst onder de leden van de raadgevende comités een voorzitter en hoogstens twee ondervoorzitters aan. Bij het raadgevend comité van het Agentschap voor Vlaamse Sociale Bescherming wordt de voorzitter benoemd uit een van de onafhankelijke deskundigen met een bijzondere bekwaamheid op het vlak van sociale bescherming, overeenkomstig artikel 14 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming.<br>
+&nbsp;
 
 ### ART. 6.
 
