@@ -2,16 +2,16 @@
   "codex_id": 1013500,
   "title": "Besluit van de Vlaamse Regering van 2004-03-05 betreffende het tijdelijk project zorgondersteuning in de centra voor leerlingenbegeleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013500/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6566e694ef03d305b884df228fa07cca31689ecedd072c88f76ca89fd3b9f333",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013500/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "74a138e001937d0969130586052a09857602eb4bca45cdb2b02ea9b73333c939",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013500&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2017-01-01",
   "made": "2004-03-05",
   "gazette": "2004-11-05",
   "numac": 2004036639,
   "document_start": "2003-09-01",
   "document_end": "2016-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2017-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
