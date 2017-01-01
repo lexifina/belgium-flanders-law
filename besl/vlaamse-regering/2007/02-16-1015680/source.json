@@ -2,16 +2,16 @@
   "codex_id": 1015680,
   "title": "Besluit van de Vlaamse Regering van 2007-02-16 houdende wijziging van de bijlage bij het besluit van de Vlaamse Regering van 13 februari 2004 tot vaststelling van de lijst van de bachelor- en de masteropleidingen in het hoger onderwijs in Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015680/VolledigDocument?datum=2007-04-13",
-  "source_sha256": "964b77a9361584024dc3d913891589664b02acaf221eb7dbbc9c07a2907d1957",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015680/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "3243f1ed41e220119dbdc86c8cda6ef392d07c168b8e773f0a7d01a910433bbf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015680&param=informatie",
-  "as_of": "2007-04-13",
+  "as_of": "2017-01-01",
   "made": "2007-02-16",
   "gazette": "2007-04-03",
   "numac": 2007035474,
   "document_start": "2007-04-13",
   "document_end": "2016-12-31",
-  "in_force": "2007-04-13",
+  "in_force": "2017-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2007-04-13; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
