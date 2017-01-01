@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027687,
+  "title": "Decreet van 2016-12-23 tot overname van de personeelsleden van de vzw Plan C door de Openbare Vlaamse Afvalstoffenmaatschappij",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027687/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "cc2bb28d4c235f5a8d2b266621a3035ff6af8a9f68a5d6603d53f457d9bd843e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027687&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-12-23",
+  "gazette": "2016-12-28",
+  "numac": 2016036686,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
