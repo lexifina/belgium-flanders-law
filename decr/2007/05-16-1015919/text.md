@@ -86,19 +86,19 @@ De bepalingen van dit hoofdstuk hebben uitwerking met ingang van 1 september 200
 
 ### ART. V.1.
 
-De Vlaamse Regering wordt gemachtigd om toe te treden tot de vzw EPOS en bij te dragen tot de werking van de VZW.<br />
+...
 
 ### ART. V.2.
 
-De VZW EPOS wordt belast met de uitvoering in Vlaanderen van Europese en internationale programma's en acties voor onderwijs, vorming, opleiding en levenslang leren.<br />
+...
 
 ### ART. V.3.
 
-Binnen de perken van de begroting van de Vlaamse Gemeenschap draagt de Vlaamse Regering jaarlijks bij in de financiële middelen van de VZW.<br />
+...
 
 ### ART. V.4.
 
-1° De subsidie wordt aangewend voor de werking van de vzw en voor de activiteiten die in Vlaanderen worden ontwikkeld in het kader van de Europese en internationale programma's en acties voor onderwijs, vorming, opleiding en levenslang leren.<br />2° De VZW legt jaarlijks een activiteitenverslag en een financieel verslag aan de Vlaamse Regering voor.<br />3° De vzw EPOS dient de niet-aangewende middelen die werden toegekend in het kader van Erasmus mobiliteit met aanvang van het academiejaar 2011-2012 opnieuw in te zetten voor deze actie in de daaropvolgende academiejaren. De vzw zal deze middelen beheren op een uitsluitend daartoe bestemde rekening.
+...
 
 ## Afdeling II. Inwerkingtreding
 
