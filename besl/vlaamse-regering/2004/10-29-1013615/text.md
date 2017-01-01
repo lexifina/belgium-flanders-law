@@ -4,7 +4,15 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° Brusselse   kinderdagverblijven: de kinderdagverblijven van het gemeenschapsonderwijs die   liggen in het Brusselse Hoofdstedelijke Gewest;<BR>2° contractuele   personeelsleden betaald door het Vlaams Ministerie van Onderwijs en Vorming: de   personeelsleden met een contract als gesubsidieerd contractueel van de   onderwijsconventie 8285 die omgeschakeld werden naar een contract van onbepaalde   duur en die betaald worden door het Vlaams Ministerie van Onderwijs en Vorming.   Het betreft de volgende personeelsleden:<BR>- de contractuele personeelsleden   die aangesteld zijn bij en betaald worden door het Vlaams Ministerie van   Onderwijs en Vorming;<BR>- de overige contractuele personeelsleden die betaald   worden door het Vlaams Ministerie van Onderwijs en Vorming;<BR>3° deskundigen:   de personeelsleden zoals bedoeld in artikel 5, 2° van het besluit 28 juni 2002   van de Vlaamse Regering betreffende de lokale overlegplatforms inzake gelijke   onderwijskansen;<BR>4° lokaal overlegplatform : het lokaal overlegplatform,   zoals bedoeld in 1, 4° van het besluit 28 juni 2002 van de Vlaamse Regering   betreffende de lokale overlegplatforms inzake gelijke onderwijskansen;<BR>5°   salaris en salarisschaal: het salaris of de salarisschaal zoals bepaald in   hoofdstuk IX. - Geldelijke rechtspositie van het decreet van 13 juli 2001   betreffende het onderwijs - XIII - Mozaïek;<BR>6° contractuele personeelsleden   aangesteld als opvoeder voor- en nabewaking: de personeelsleden die aangesteld   zijn in voor- en nabewaking in Nederlandstalige basisscholen van het   gemeenschapsonderwijs in het Brusselse Hoofdstedelijke Gewest en die werken in   de voor- en/of naschoolse opvang van leerlingen van die scholen.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° Brusselse kinderdagverblijven: de kinderdagverblijven van het gemeenschapsonderwijs die liggen in het Brusselse Hoofdstedelijke Gewest;<br>
+2° contractuele personeelsleden betaald door het Vlaams Ministerie van Onderwijs en Vorming: de personeelsleden met een contract als gesubsidieerd contractueel van de onderwijsconventie 8285 die omgeschakeld werden naar een contract van onbepaalde duur en die betaald worden door het Vlaams Ministerie van Onderwijs en Vorming. Het betreft de volgende personeelsleden:<br>
+- de contractuele personeelsleden die aangesteld zijn bij en betaald worden door het Vlaams Ministerie van Onderwijs en Vorming;<br>
+- de overige contractuele personeelsleden die betaald worden door het Vlaams Ministerie van Onderwijs en Vorming;<br>
+3° deskundigen: de personeelsleden zoals bedoeld in artikel 5, 2° van het besluit 28 juni 2002 van de Vlaamse Regering betreffende de lokale overlegplatforms inzake gelijke onderwijskansen;<br>
+4° lokaal overlegplatform : het lokaal overlegplatform, zoals bedoeld in 1, 4° van het besluit 28 juni 2002 van de Vlaamse Regering betreffende de lokale overlegplatforms inzake gelijke onderwijskansen;<br>
+5° salaris en salarisschaal: het salaris of de salarisschaal zoals bepaald in de bepalingen van de geldelijke rechtspositie, vermeld in de Codificatie sommige bepalingen voor het onderwijs;<br>
+6° contractuele personeelsleden aangesteld als opvoeder voor- en nabewaking: de personeelsleden die aangesteld zijn in voor- en nabewaking in Nederlandstalige basisscholen van het gemeenschapsonderwijs in het Brusselse Hoofdstedelijke Gewest en die werken in de voor- en/of naschoolse opvang van leerlingen van die scholen.
 
 ## HOOFDSTUK II TOEPASSINGSGEBIED VOOR DE HOOFDSTUKKEN I TOT EN MET IV
 
@@ -44,7 +52,9 @@ Voor de regeling inzake wekelijkse prestaties en jaarlijkse vakantie zijn de bep
 
 ### ART. 8.
 
-<P>Met behoud van de diensten die definitief verworven zijn conform artikel X.28   van het decreet van 14 februari 2003 betreffende het onderwijs XIV, komen voor   de toekenning van de periodieke salarisverhogingen voor de contractuele   personeelsleden in de Brusselse kinderdagverblijven vanaf 1 januari 2003 de   diensten in aanmerking die gepresteerd zijn als contractueel personeelslid in de   Brusselse kinderdagverblijven.<BR><BR>Die diensten worden voor de   inaanmerkingneming in de geldelijke anciënniteit beschouwd als werkelijke   diensten die het personeelslid als titularis van een bezoldigd ambt met   volledige of onvolledige prestaties heeft verstrekt aan een door de Vlaamse   overheid gefinancierde of gesubsidieerde school.<BR></P>
+<p>Met behoud van de diensten die definitief verworven zijn conform artikel IV.24 van de Codificatie sommige bepalingen betreffende het onderwijs, komen voor de toekenning van de periodieke salarisverhogingen voor de contractuele personeelsleden in de Brusselse kinderdagverblijven vanaf 1 januari 2003 de diensten in aanmerking die gepresteerd zijn als contractueel personeelslid in de Brusselse kinderdagverblijven.<br>
+<br>
+Die diensten worden voor de inaanmerkingneming in de geldelijke anciënniteit beschouwd als werkelijke diensten die het personeelslid als titularis van een bezoldigd ambt met volledige of onvolledige prestaties heeft verstrekt aan een door de Vlaamse overheid gefinancierde of gesubsidieerde school.</p>
 
 ## [AFDELING 2 CONTRACTUELEDESKUNDIGEN IN EEN LOKAAL OVERLEGPLATFORM (verv. BVR 25 april 2014, art. 5, I: 1 januari 2014)]
 
