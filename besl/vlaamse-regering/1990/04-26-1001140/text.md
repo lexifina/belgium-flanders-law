@@ -7,8 +7,8 @@
 Dit besluit is van toepassing op de volgende personeelsleden :<br>
 1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
 2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
-3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
-4° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.
+3° de leden van de onderwijsinspectie, bedoeld in het decreet betreffende de kwaliteit van onderwijs en het decreet betreffende de inspectie en begeleiding van de levensbeschouwelijke vakken;<br>
+4° de personeelsleden van de pedagogische begeleidingsdiensten, bedoeld in het decreet betreffende de kwaliteit van onderwijs;
 
 ## HOOFDSTUK II [VERLOF VOOR VERMINDERDE PRESTATIES (verv. BVR 30 augustus 2016, art. 12, I: 1 september 2017)]
 
