@@ -5,12 +5,12 @@
 § 1. Dit besluit is van toepassing op de volgende personeelsleden, als ze vast benoemd zijn, maar ongeacht of ze hun ambt als hoofdambt dan wel als bijbetrekking uitoefenen:<br>
 1° de personeelsleden bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br>
 2° de personeelsleden bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde psycho-medisch-sociale centra;<br>
-3° de leden van de inspectie voor het onderwijs georganiseerd door de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten;<br>
-4° de leden van de inspectie voor de PMS-centra georganiseerd door de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten;<br>
-5° de personeelsleden van de dienst voor onderwijsontwikkeling bedoeld in artikel 9 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten;<br>
-6° de personeelsleden van de pedagogische begeleidingsdiensten bedoeld in artikel 88 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten;<br>
+3° de leden van de onderwijsinspectie, bedoeld in het decreet betreffende de kwaliteit van onderwijs;<br>
+4° de personeelsleden van de pedagogische begeleidingsdiensten bedoeld in het decreet betreffende de kwaliteit van onderwijs;<br>
+5° ...<br>
+6° ...<br>
 7° de personeelsleden bedoeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken;<br>
-8° de personeelsleden bedoeld in het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap.<br>
+8° de personeelsleden van de hogescholen in de Vlaamse Gemeenschap.<br>
 <br>
 § 2. De in § 1 vermelde personeelsleden moeten zich geheel of gedeeltelijk in een of meer van volgende administratieve standen bevinden:<br>
 1° dienstactiviteit;<br>
