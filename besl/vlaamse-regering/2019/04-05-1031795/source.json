@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031795,
+  "title": "Besluit van de Vlaamse Regering van 2019-04-05 tot wijziging van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten voor wat betreft de berekening van de subsidies voor het jaar 2017",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031795/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "0cb5128c8f28d33560b7a57f963a04ed31b6f0685998bc779b05c024f4579bb6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031795&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2019-04-05",
+  "gazette": "2019-06-17",
+  "numac": 2019012873,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
