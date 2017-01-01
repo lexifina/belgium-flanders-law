@@ -2,16 +2,16 @@
   "codex_id": 1000829,
   "title": "Besluit van de Vlaamse Regering van 2008-02-15 houdende nadere bepalingen aangaande de inventarisatie van gegevens in het kader van het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000829/VolledigDocument?datum=2009-11-14",
-  "source_sha256": "866ae77ca1197d31663fb4925d2c5bf268ac10e3cd42c8a23d9f6c2d1dbcdbd8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000829/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "e6861b08314fe4ca6975a6541dcac2f2a9854102806f9302e5e30a1353db3e23",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000829&param=informatie",
-  "as_of": "2009-11-14",
+  "as_of": "2017-01-01",
   "made": "2008-02-15",
   "gazette": "2008-03-11",
   "numac": 2008035403,
   "document_start": "2008-03-11",
   "document_end": "2017-12-31",
-  "in_force": "2009-11-14",
+  "in_force": "2017-01-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2009-11-14; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }

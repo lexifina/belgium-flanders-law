@@ -45,9 +45,7 @@ De aldus bekomen aantallen dagen worden per diercategorie opgeteld, en gedeeld d
 <br>
 De aldus bekomen totalen, per diercategorie, dienen gedeeld te worden door twee, vervolgens vermenigvuldigd te worden met het aantal dagen dat er volgens het dierregister dieren van die diercategorie aanwezig waren, en tenslotte gedeeld te worden door het aantal kalenderdagen van dat bepaald kalenderjaar.<br>
 <br>
-§ 5. Voor de omrekening van de in Sanitel voor dat kalenderjaar voor die exploitatie geregistreerde gegevens, wordt voor elk dier dat volgens de in Sanitel geregistreerde gegevens in de loop van het betrokken kalenderjaar op de betrokken exploitatie gehouden is, bepaald tot welke diercategorie dat dier behoort en hoeveel dagen dat dier in het desbetreffende kalenderjaar op de exploitatie aanwezig was. Wanneer een dier in de loop van een kalenderjaar van diercategorie gewijzigd is, wordt voor elk van de diercategorieën dat het betreffende dier in het voorbije kalenderjaar geweest is, bepaald hoeveel dagen dat dier in die diercategorie op die exploitatie aanwezig is geweest.<br>
-<br>
-De aldus bekomen aantallen dagen worden per diercategorie opgeteld, en gedeeld door het aantal kalenderdagen van het desbetreffende kalenderjaar.<br>
+§ 5. ....<br>
 <br>
 § 6. Er wordt afgerond op een geheel getal volgens de regel elk getal na de komma lager dan 5 naar beneden en elk getal na de komma gelijk of hoger dan 5 naar boven.<br>
 &nbsp;
@@ -188,7 +186,11 @@ In het geval van bemesting met dierlijke mest afkomstig van een andere exploitat
 
 ### ART. 21.
 
-§ 1. De Mestbank stelt registers ter beschikking van de registerplichtigen, als vermeld in artikel 24 van het Mestdecreet. De betrokkene is verantwoordelijk voor het bijhouden van het register en is gehouden hetzij zelf een register op te vragen bij de Mestbank indien het hem niet heeft bereikt voor 31 januari van het lopende productiejaar, hetzij zelf een register op te maken. Het invullen van het register dient te gebeuren met onuitwisbare inkt. Verbeteringen mogen enkel worden gemaakt door schrapping van de oorspronkelijk ingevulde gegevens en aanvulling van de juiste gegevens. <br /><br />De Mestbank kan een digitale versie van de desbetreffende formulieren ter beschikking stellen. <br /><br />§ 2. Het register moet per exploitatie of per uitbating worden bijgehouden op de plaats waar de registerplichtige activiteit uitgevoerd wordt. Voor het bemestingsregister op perceelsniveau wordt hieronder het adres van de exploitatie waar de betrokken percelen toe behoren verstaan.<br /><br />§ 3. Het register moet, samen met al de bescheiden nodig voor de staving ervan, zoals ondermeer de luiken van de transportdocumenten die erop betrekking hebben, en de weegbonnen en analyseresultaten afgeleverd door erkende laboratoria, als vermeld in artikel 62, § 6, van het Mestdecreet, bewaard worden op de plaats waar de registerplichtige activiteit uitgevoerd wordt.<br /><br />
+§ 1. De Mestbank stelt registers ter beschikking van de registerplichtigen, als vermeld in artikel 24 van het Mestdecreet. De betrokkene is verantwoordelijk voor het bijhouden van het register en is gehouden hetzij zelf een register op te vragen bij de Mestbank indien het hem niet heeft bereikt voor 31 januari van het lopende productiejaar, hetzij zelf een register op te maken. Het invullen van het register dient te gebeuren met onuitwisbare inkt. Verbeteringen mogen enkel worden gemaakt door schrapping van de oorspronkelijk ingevulde gegevens en aanvulling van de juiste gegevens.<br>
+<br>
+De Mestbank kan een digitale versie van de desbetreffende formulieren ter beschikking stellen.<br>
+<br>
+§ 2. Het register moet per exploitatie of per uitbating worden bijgehouden op de plaats waar de registerplichtige activiteit uitgevoerd wordt. Voor het bemestingsregister op perceelsniveau wordt hieronder het adres van de exploitatie waar de betrokken percelen toe behoren verstaan.
 
 ## HOOFDSTUK V Overgangsbepalingen en slotbepalingen
 
