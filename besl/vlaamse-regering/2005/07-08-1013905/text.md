@@ -154,7 +154,7 @@
 
 ### ART. 12.
 
-§ 1. Het referentieareaal blijvend grasland wordt jaarlijks meegedeeld via de verzamelaanvraag. Behoudens de onvermijdbare vermindering, vermeld in § 2, moet de landbouwer het referentieareaal blijvend grasland minstens behouden. In voorkomend geval wordt het referentieareaal blijvend grasland vermeerderd met het areaal overgenomen blijvend grasland of verminderd met het overgelaten areaal of het door overmacht verloren blijvend grasland.<br /><br />Een tijdelijke overnemer kan tijdelijk een instandhoudingsplicht blijvend grasland overnemen van een tijdelijke overlater. De minister bepaalt de voorwaarden waaraan de tijdelijke overlater en de tijdelijke overnemer van een tijdelijke overdracht van een verplichting tot het behoud van blijvend grasland moeten voldoen.<br /><br />§ 2. Onder onvermijdbare vermindering, vermeld in § 1, wordt, behoudens de uitzondering voorzien in verordening 1782/2003 artikel 5, verstaan: het verlies van areaal blijvend grasland door uitzonderlijke omstandigheden zoals ruilverkaveling of een andere landinrichtingsmaatregel van de overheid, onteigening of andere dwingende redenen, mits de bevoegde instantie toestemming verleent op basis van aangeleverde bewijsstukken.<br /><br />§ 3. Referentieareaal blijvend grasland dat door onvermijdbare vermindering als vermeld in paragraaf 1, uit de landbouw verdwijnt of referentieareaal blijvend grasland dat bij stopzetting van bedrijven dreigt verloren te gaan, wordt aan de percelen in kwestie gekoppeld. Als deze percelen in hetzelfde jaar of later door een instandhoudingsplichtige landbouwer in gebruik genomen worden, wordt het referentieareaal blijvend grasland van die landbouwer met een overeenkomstige oppervlakte vermeerderd.
+...
 
 ### ART. 13.
 
