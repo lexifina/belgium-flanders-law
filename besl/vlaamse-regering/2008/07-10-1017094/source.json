@@ -2,16 +2,16 @@
   "codex_id": 1017094,
   "title": "Besluit van de Vlaamse Regering van 2008-07-10 tot tijdelijke erkenning van de opleiding bachelor in het communicatiemanagement van de XIOS Hogeschool Limburg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017094/VolledigDocument?datum=2008-10-09",
-  "source_sha256": "2c95c4ee136d110add481ac47aaabf901effb70863b627a605564f20135ea382",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017094/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "802c2789a9ff239208b561a199cf7a9d5e9c198a12126532714cba53942b5ebf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017094&param=informatie",
-  "as_of": "2008-10-09",
+  "as_of": "2017-01-01",
   "made": "2008-07-10",
   "gazette": "2008-09-29",
   "numac": 2008203412,
   "document_start": "2008-10-09",
   "document_end": "2016-12-31",
-  "in_force": "2008-10-09",
+  "in_force": "2017-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2008-10-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
