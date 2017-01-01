@@ -30,6 +30,69 @@ Artikel 1 van de wet van 4 november 1969 tot beperking van de pachtprijzen, gewi
 
 ## HOOFDSTUK 7 Wijzigingen van het decreet van 28 juni 1983 houdende oprichting van de instelling Vlaamse Maatschappij voor Watervoorziening
 
+### ART 16.
+
+Artikel 1 van het decreet van 28 juni 1983 houdende oprichting van de instelling Vlaamse Maatschappij voor Watervoorziening wordt vervangen door wat volgt:<br>
+"Artikel 1. Dit decreet regelt een aangelegenheid bedoeld in artikel 39 van de Grondwet.".
+
+### ART 17.
+
+In artikel 2 van hetzelfde decreet wordt het eerste lid vervangen door wat volgt:<br>
+"Er wordt een instelling van openbaar nut opgericht onder de naam Vlaamse Maatschappij voor Watervoorziening en met als commerciële benaming De Watergroep, hierna de Maatschappij te noemen.".
+
+### ART 18.
+
+Artikel 3 van hetzelfde decreet, gewijzigd bij het decreet van 19 mei 2006, wordt vervangen door wat volgt:<br>
+"Art. 3. § 1. De Maatschappij heeft tot doel de studie, de oprichting en de exploitatie van alle installaties die nodig zijn voor de openbare watervoorziening en de inzameling en zuivering van afvalwater.<br>
+<br>
+§ 2. De Maatschappij kan met andere instellingen van openbaar nut, met gemeenten, met verenigingen van gemeenten, met private rechtspersonen en met particulieren contracten sluiten over waterproductie, -distributie en -behandeling en over afvalwaterafvoer en -zuivering, met inbegrip van de regeling van zakelijke rechten.".
+
+### ART 19.
+
+In artikel 6, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 19 mei 2006, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede ", die door de Maatschappij opgericht worden met het oog op een doelmatig vervullen van haar taken" wordt vervangen door de woorden "die door de Maatschappij opgericht worden om haar taken doelmatig te vervullen";<br>
+2° de zinsnede "mits goedkeuring van de raad van beheer, overgedragen worden aan medevennoten." wordt vervangen door de zinsnede "met goedkeuring van de raad van bestuur, overgedragen worden aan medevennoten.".
+
+### ART 20.
+
+Artikel 7 van hetzelfde decreet, vervangen bij het decreet van 19 mei 2006, wordt opgeheven.
+
+### ART 21.
+
+Artikel 8 van hetzelfde decreet, gewijzigd bij het decreet van 19 mei 2006, wordt vervangen door wat volgt:<br>
+"Art. 8. De statuten, vermeld in artikel 4, bepalen de wijze waarop tot de vaststelling en de bestemming van het resultaat van de Maatschappij wordt overgegaan. De algemene vergadering van de aandeelhouders kan bij drievierdemeerderheid beslissen een winstaandeel uit te keren aan de gemeenten-vennoten. Voor de aandelen van het Vlaamse Gewest, de provincie en de instellingen van openbaar nut en andere aandeelhouders wordt geen winstaandeel toegekend.".
+
+### ART 22.
+
+&nbsp;In artikel 9, tweede lid, van hetzelfde decreet worden de woorden "derde personen" vervangen door het woord "derden".
+
+### ART 23.
+
+Artikel 11 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 11. De Maatschappij kan met machtiging van de Vlaamse Regering in eigen naam overgaan tot onteigening ten algemenen nutte van onroerende goederen die nodig zijn voor de bouw, de aanleg en de exploitatie van haar installaties. De akte, vermeld in artikel 9 van de wet van 27 mei 1870, wordt opgesteld door een lid van de Vlaamse Regering.".
+
+### ART 24.
+
+In artikel 12 van hetzelfde decreet wordt tussen het woord "voor" en de woorden "de aanleg" de zinsnede "de bouw," ingevoegd.
+
+### ART 25.
+
+Artikel 14 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 14. De statuten, vermeld in artikel 4, stellen het aantal leden vast en de duur van hun mandaat.".
+
+### ART 26.
+
+&nbsp;In artikel 15 van hetzelfde decreet, gewijzigd bij het decreet van 19 mei 2006, wordt het woord "beheer" vervangen door het woord "bestuur".
+
+### ART 27.
+
+Artikel 17 van hetzelfde decreet, vervangen bij het decreet van 7 juli 1998, wordt vervangen door wat volgt:<br>
+"Art. 17. In afwijking van artikel 11 van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut stelt de raad van bestuur de personeelsformatie en de regeling van de rechtspositie van het personeel vast.".
+
+### ART 28.
+
+Artikel 18 van hetzelfde decreet wordt opgeheven.
+
 ## HOOFDSTUK 8 Wijziging van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer
 
 ## HOOFDSTUK 9 Wijzigingen van het decreet van 21 december 1988 houdende oprichting van de Vlaamse Landmaatschappij
