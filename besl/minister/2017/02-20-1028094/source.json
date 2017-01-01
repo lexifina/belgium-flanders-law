@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028094,
+  "title": "Ministerieel besluit van 2017-02-20 tot regeling van de dagondersteuning die wordt geboden door groenezorginitiatieven",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028094/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "2fb2245409dd8df3c0605f32c0c3b713fac2d3a3888b81908a5eec95ad629261",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028094&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-02-20",
+  "gazette": "2017-03-28",
+  "numac": 2017011335,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
