@@ -88,7 +88,17 @@ Ter   uitvoering van artikel 36, tweede lid, 2°, van het besluit van 24 oktober
 
 ### ART. 13.
 
-<P>Ter   uitvoering van artikel 38, § 2, zevende lid, 6°, van het besluit van 24 oktober   2014 moet het stikstofbindend gewas aangelegd zijn door de inzaai van een teelt   die voorkomt op de lijst, vermeld in bijlage 3, die bij dit besluit is gevoegd.   De inzaai van een mengsel van teelten die voorkomen op de voormelde lijst, komt   ook in aanmerking.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   stikstofbindende gewas of mengsel van teelten dat als stikstofbindend gewas in   aanmerking komt, moet aangegeven zijn als hoofdteelt in de verzamelaanvraag en   moet tot minstens 15 februari van het volgende jaar behouden blijven, met   uitzondering van percelen in de landbouwstreek `de Polders en Duinen', waar de   teelt behouden moet blijven tot minstens 15 oktober van het jaar in   kwestie.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   de teelt van voedererwten en tuin- en veldbonen, die geen mengsel is van die   gewassen met een ander toegelaten stikstofbindend gewas, geldt de volgende   uitzondering op de aanhoudingsplicht, vermeld in het tweede lid: deze teelten   moeten minstens tot 1 juli behouden blijven en na de oogst is de inzaai van een   groenbedekker verplicht.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   stikstofbindende gewas moet duidelijk overheersend aanwezig zijn, zeker als de   teelt verschillende jaren aangehouden wordt. In dat opzicht is de herinzaai na   31 mei alleen toegestaan binnen vier weken na de voorafgaande schriftelijke   melding bij de buitendiensten van de bevoegde entiteit en als de herinzaai   binnen twee weken na het omploegen plaatsvindt. Doorzaai is altijd   toegelaten.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Stikstofbindende   gewassen kunnen op het hele grondgebied van het Vlaams Gewest worden   ingezaaid.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Ter uitvoering van artikel 38, § 2, zevende lid, 6°, van het besluit van 24 oktober 2014 moet het stikstofbindend gewas aangelegd zijn door de inzaai van een teelt die voorkomt op de lijst, vermeld in bijlage 3, die bij dit besluit is gevoegd. De inzaai van een mengsel van teelten die voorkomen op de voormelde lijst, komt ook in aanmerking.</p>
+
+<p>Het stikstofbindende gewas of mengsel van teelten dat als stikstofbindend gewas in aanmerking komt, moet aangegeven zijn als hoofdteelt in de verzamelaanvraag en moet tot minstens 15 februari van het volgende jaar behouden blijven, met uitzondering van percelen in de landbouwstreek `de Polders en Duinen', waar de teelt behouden moet blijven tot minstens 15 oktober van het jaar in kwestie.</p>
+
+<p>Voor de teelt van voedererwten en tuin- en veldbonen, die geen mengsel is van die gewassen met een ander toegelaten stikstofbindend gewas, geldt de volgende uitzondering op de aanhoudingsplicht, vermeld in het tweede lid: deze teelten moeten minstens tot 1 juli behouden blijven en na de oogst is de inzaai van een groenbedekker verplicht.<br>
+<br>
+In afwijking van het tweede lid moet de teelt van soja die geen mengsel is met een ander toegelaten stikstofbindend gewas, in alle landbouwstreken aangehouden worden tot minstens 15 augustus van het jaar van de aangifte van dat gewas als hoofdteelt in de verzamelaanvraag.</p>
+
+<p>Het stikstofbindende gewas moet duidelijk overheersend aanwezig zijn, zeker als de teelt verschillende jaren aangehouden wordt. In dat opzicht is de herinzaai na 31 mei alleen toegestaan binnen vier weken na de voorafgaande schriftelijke melding bij de buitendiensten van de bevoegde entiteit en als de herinzaai binnen twee weken na het omploegen plaatsvindt. Doorzaai is altijd toegelaten.</p>
+
+<p>Stikstofbindende gewassen kunnen op het hele grondgebied van het Vlaams Gewest worden ingezaaid.</p>
 
 ## Afdeling 2 Regels voor het gebruik van de omzettingsfactoren
 
@@ -116,4 +126,52 @@ Lijst   vanggewassen en groenbedekkers als vermeld in artikel 12<BR   style="WID
 
 ### BIJLAGE 3
 
-Lijst   stikstofbindende gewassen als vermeld in artikel 13<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1.   Teelten die als stikstofbindend gewas in aanmerking komen:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>&nbsp;</TD>      <TD>&nbsp;Gewas</TD>      <TD>Latijnse benaming<BR></TD></TR>    <TR>      <TD>1°</TD>      <TD>erwten (droog geoogst, niet voor menselijke consumptie)</TD>      <TD>Pisum sativum<BR></TD></TR>    <TR>      <TD>2°</TD>      <TD>tuin- en Veldbonen (droog geoogst, niet voor menselijke consumptie)</TD>      <TD>Vicia faba<BR></TD></TR>    <TR>      <TD>3°</TD>      <TD>niet-bittere lupinen</TD>      <TD>Lupinus spp.<BR></TD></TR>    <TR>      <TD>4°</TD>      <TD>eenjarige of meerjarige klaver</TD>      <TD>Trifolium spp.<BR></TD></TR>    <TR>      <TD>5°</TD>      <TD>eenjarige of meerjarige luzerne</TD>      <TD>Medicago sativa<BR></TD></TR>    <TR>      <TD>6°</TD>      <TD>wikke</TD>      <TD>Vicia sativa<BR></TD></TR></TBODY></TABLE><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2.   In afwijking van punt 1 is bij mengels van erwten of tuin-en veldbonen, vermeld   in punt 1, 1° en 2°, met een ander gewas als vermeld in punt 1, 3° tot en met   6°, de voorwaarde voor het droog oogsten van de erwten of tuin- en veldbonen   niet van toepassing.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Lijst stikstofbindende gewassen als vermeld in artikel 13<br>
+1. Teelten die als stikstofbindend gewas in aanmerking komen:<br>
+&nbsp;
+<table style="text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: times new roman; word-spacing: 0px; widows: 1; -webkit-text-stroke-width: 0px;" border="1">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;Gewas</td>
+			<td>Latijnse benaming</td>
+		</tr>
+		<tr>
+			<td>1°</td>
+			<td>erwten (droog geoogst, niet voor menselijke consumptie)</td>
+			<td>Pisum sativum</td>
+		</tr>
+		<tr>
+			<td>2°</td>
+			<td>tuin- en Veldbonen (droog geoogst, niet voor menselijke consumptie)</td>
+			<td>Vicia faba</td>
+		</tr>
+		<tr>
+			<td>3°</td>
+			<td>niet-bittere lupinen</td>
+			<td>Lupinus spp.</td>
+		</tr>
+		<tr>
+			<td>4°</td>
+			<td>eenjarige of meerjarige klaver</td>
+			<td>Trifolium spp.</td>
+		</tr>
+		<tr>
+			<td>5°</td>
+			<td>eenjarige of meerjarige luzerne</td>
+			<td>Medicago sativa</td>
+		</tr>
+		<tr>
+			<td>6°</td>
+			<td>wikke</td>
+			<td>Vicia sativa</td>
+		</tr>
+		<tr>
+			<td>7°</td>
+			<td>soja</td>
+			<td>Glycine max</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+2. In afwijking van punt 1 is bij mengels van erwten of tuin-en veldbonen, vermeld in punt 1, 1° en 2°, met een ander gewas als vermeld in punt 1, 3° tot en met 6°, de voorwaarde voor het droog oogsten van de erwten of tuin- en veldbonen niet van toepassing.
