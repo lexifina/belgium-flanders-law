@@ -5,9 +5,9 @@
 § 1. Dit besluit is van toepassing op de vast benoemde, tot de proeftijd toegelaten of tijdelijk aangestelde:<br>
 1° personeelsleden zoals bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
 2° personeelsleden zoals bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
-3° leden van de Onderwijsinspectie van de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
-4° leden van de Dienst voor Onderwijsontwikkeling, bedoeld in artikel 9 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
-5° leden van de pedagogische begeleidingsdiensten, bedoeld in artikel 88 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
+3° leden van de onderwijsinspectie, bedoeld in het decreet betreffende de kwaliteit van onderwijs; &nbsp;<br>
+4° leden van de pedagogische begeleidingsdiensten, bedoeld in het decreet betreffende de kwaliteit van onderwijs;<br>
+5° ...<br>
 6° personeelsleden zoals bedoeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br>
 <br>
 § 2. Dit besluit is van toepassing op de personen tewerkgesteld in de hoedanigheid van gesubsidieerde contractuelen in het gemeenschaps- en gesubsidieerd onderwijs en in de gemeenschaps- en gesubsidieerde psycho-medische sociale centra en de centra voor leerlingenbegeleiding.<br>
