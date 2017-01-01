@@ -2,16 +2,16 @@
   "codex_id": 1014010,
   "title": "Besluit van de Vlaamse Regering van 2005-07-22 tot vaststelling van de overgangsaccreditatie van sommige hogeschoolopleidingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014010/VolledigDocument?datum=2009-09-20",
-  "source_sha256": "4ac9a239cf308b4fd309580e54cecbe1bcc399e0774f34f06cc37d9a3ba87bf4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014010/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "b509018d9f239925b203be3b59c696156afe85ef82b7704a5591bbf3f6603352",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014010&param=informatie",
-  "as_of": "2009-09-20",
+  "as_of": "2017-01-01",
   "made": "2005-07-22",
   "gazette": "2005-10-05",
   "numac": 2005036199,
   "document_start": "2005-10-15",
   "document_end": "2016-12-31",
-  "in_force": "2009-09-20",
+  "in_force": "2017-01-01",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2009-09-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
