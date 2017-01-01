@@ -2,16 +2,16 @@
   "codex_id": 1007532,
   "title": "Decreet van 2000-06-08 houdende dringende maatregelen betreffende het lerarenambt",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007532/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "79c838a445ef6e5702da2f32eb8aa0100ef1acf3980841ec26d23f64bbdc38f2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007532/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "a33aaadce56e39a10c425736349a3bf521b79724c92b0194bba5d863493efb13",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007532&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2017-01-01",
   "made": "2000-06-08",
   "gazette": "2000-08-25",
   "numac": 2000035865,
   "document_start": null,
   "document_end": "2016-12-31",
-  "in_force": "2009-09-01",
+  "in_force": "2017-01-01",
   "article_versions": 48,
-  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
