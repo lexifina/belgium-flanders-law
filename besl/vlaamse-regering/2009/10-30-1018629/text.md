@@ -31,7 +31,17 @@ Dit besluit is van toepassing op het buitengewoon secundair onderwijs, gefinanci
 
 ### ART. 2.
 
-In dit besluit wordt verstaan onder :<br />1° AgODi : het Agentschap voor Onderwijsdiensten van het Vlaams Ministerie van Onderwijs en Vorming;<br />2° concentratiegraad : de procentuele verhouding tussen :<br />a) het aantal externe en semi-interne regelmatige leerlingen in type 1 en type 3 die beantwoorden aan de « gelijkekansendindicator », vermeld in artikel 317, § 1, 1°, van de codificatie betreffende het secundair onderwijs;<br />b) het totaal aantal externe en semi-interne regelmatige leerlingen in type 1 en type 3 van een school, berekend op 1 februari van het voorafgaande schooljaar;<br />3° decreet : het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I;<br />4° departement : de bevoegde dienst of ambtenaar van het Departement Onderwijs en Vorming van het Vlaams Ministerie van Onderwijs en Vorming;<br />5° extra lesuren : de extra lesuren, vermeld in artikel II.1, 3°bis, van het decreet;<br />6° gelijkekansenindicatoren : de gelijkekansenindicatoren, vermeld in artikel 317, § 1, van de codificatie betreffende het secundair onderwijs;<br />7° minister : de Vlaamse minister, bevoegd voor het onderwijs.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° AgODi : het Agentschap voor Onderwijsdiensten van het Vlaams Ministerie van Onderwijs en Vorming;<br>
+2° concentratiegraad : de procentuele verhouding tussen :<br>
+a) het aantal externe en semi-interne regelmatige leerlingen in type 1 en type 3 die beantwoorden aan de « gelijkekansendindicator », vermeld in artikel 317, § 1, 1°, van de codificatie betreffende het secundair onderwijs;<br>
+b) het totaal aantal externe en semi-interne regelmatige leerlingen in type 1 en type 3 van een school, berekend op 1 februari van het voorafgaande schooljaar;<br>
+3° decreet: het decreet betreffende de Codificatie van sommige bepalingen voor het onderwijs;<br>
+4° departement : de bevoegde dienst of ambtenaar van het Departement Onderwijs en Vorming van het Vlaams Ministerie van Onderwijs en Vorming;<br>
+5° ...<br>
+6° gelijkekansenindicatoren : de gelijkekansenindicatoren, vermeld in artikel 317, § 1, van de codificatie betreffende het secundair onderwijs;<br>
+7° minister : de Vlaamse minister, bevoegd voor het onderwijs.<br>
+&nbsp;
 
 ## HOOFDSTUK II Gelijkekansenindicatoren
 
