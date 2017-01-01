@@ -45,85 +45,44 @@ Besluit :<br>
 
 ### ART 1.
 
-Aan artikel 10 van het ministerieel besluit van 22 december 2015 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, gewijzigd bij het ministerieel besluit van 23 februari 2016, wordt een paragraaf 4 toegevoegd, die luidt als volgt :<br>
-" § 4. Vissersvaartuigen krijgen 24 vereveningsdagen die kunnen opgeteld worden bij de maximum aantallen zeedagen, namelijk 180 en 160, zoals vermeld in § 1.".<br>
-&nbsp;
+...
 
 ### ART 2.
 
-Aan artikel 14 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 21 juni 2016, worden volgende wijzigingen aangebracht :<br>
-1° aan paragraaf 2 wordt een tweede lid toegevoegd, dat luidt als volgt :<br>
-"Vanaf 1 november 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5000 kg verhoogd met een hoeveelheid die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.";<br>
-2° aan paragraaf 3 wordt een vierde lid toegevoegd, dat luidt als volgt :<br>
-"Vanaf 1 november 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium), voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5000 kg verhoogd met een hoeveelheid die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.".<br>
-&nbsp;
+...
 
 ### ART 3.
 
-Aan artikel 15 van hetzelfde besluit, gewijzigd bij de ministeriële besluiten van 26 januari 2016 en 21 juni 2016, worden de volgende wijzigingen aangebracht :<br>
-1° aan paragraaf 2 wordt een tweede lid toegevoegd, dat luidt als volgt :<br>
-"Vanaf 1 november 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.";<br>
-2° aan paragraaf 3 wordt een derde en een vierde lid toegevoegd, die luiden als volgt :<br>
-"Vanaf 1 november 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 240 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
-In afwijking van het derde lid is het vanaf 1 november 2016 tot en met 31 december 2016 in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW dat met de twinrig TR1 vist, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 70 ton. Deze hoeveelheid schol kan samengevoegd worden bij de hoeveelheden toegekend in het tweede lid en vormt de maximaal te vangen hoeveelheid schol in de ICES-gebieden II, IV gedurende de periode 1 juli 2016 tot en met 31 december 2016.".<br>
-&nbsp;
+...
 
 ### ART 4.
 
-Aan artikel 16, paragraaf 3, van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 21 juni 2016, worden een vierde en een vijfde lid toegevoegd, die luiden als volgt :<br>
-"Vanaf 1 november 2016 tot en met 31 december 2016 is het in de ICES-gebieden VIIf,g, voor een vissersvaartuig met een motorvermogen van 221 kW of meer, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 2 000 kg, vermeerderd met een hoeveelheid die gelijk is aan 2 kg, vermenigvuldigd met een motorvermogen van het vissersvaartuig uitgedrukt in kW.<br>
-<br>
-Het vaartuig dat meegewerkt heeft aan het wetenschappelijk project Ierse Zee kan de hoeveelheden, zoals bepaald in het vierde lid, opnemen aansluitend op de wetenschappelijke visreis in de Ierse Zee.".<br>
-&nbsp;
+...
 
 ### ART 5.
 
-Aan artikel 20 van hetzelfde besluit, wordt een derde en een vierde lid toegevoegd, die luiden als volgt :<br>
-"Vanaf 1 november 2016 tot en met 31 december 2016 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 3000 kg, vermeerderd met een hoeveelheid die gelijk is aan 8 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
-<br>
-De hoeveelheid vermeld in het derde lid wordt verdubbeld voor een vissersvaartuig dat volgens de officiële lijst der Belgische vissersvaartuigen 2016 uitsluitend uitgerust is met de planken.".<br>
-&nbsp;
+...
 
 ### ART 6.
 
-Aan artikel 21 van hetzelfde besluit, wordt een derde lid toegevoegd, dat luidt als volgt :<br>
-"Vanaf 1 november 2016 tot en met 31 december 2016 is het in het ICES-gebied VIId voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 3 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.".<br>
-&nbsp;
+...
 
 ### ART 7.
 
-Aan artikel 23 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 26 januari 2016, worden de volgende wijzigingen aangebracht :<br>
-1° aan paragraaf 1 wordt een derde lid toegevoegd, dat luidt als volgt :<br>
-"In de periode van 1 november 2016 tot en met 31 december 2016 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden een totale tongvangst te realiseren die groter is dan 500 kg.";<br>
-2° in paragraaf 2, eerste lid, wordt het getal "240" vervangen door het getal "300";<br>
-3° in paragraaf 2, tweede lid, wordt hat getal "480" vervangen door het getal "600";<br>
-4° aan paragraaf 4 wordt een derde lid toegevoegd, dat luidt als volgt :<br>
-"In de periode van 1 november 2016 tot en met 31 december 2016 is het in het ICES-gebied VIIe voor een vissersvaartuig verboden een totale tongvangst te realiseren die groter is dan 1200 kg.".<br>
-&nbsp;
+...
 
 ### ART 8.
 
-Aan artikel 24, paragraaf 1, van hetzelfde besluit, wordt een vijfde lid toegevoegd, dat luidt als volgt :<br>
-"Vanaf het ogenblik dat het quotum 90% benut is voor 1 december 2016 worden de hoeveelheden in deze paragraaf gehalveerd. Die halvering geldt tot 31 december 2016.".<br>
-&nbsp;
+...
 
 ### ART 9.
 
-Aan artikel 27, paragraaf 1, van hetzelfde besluit, worden de volgende wijzigingen aangebracht :<br>
-1° in het eerste lid worden de woorden "31 december 2016" vervangen door de woorden "31 oktober 2016";<br>
-2° een vierde, een vijfde en een zesde lid worden toegevoegd, die luiden als volgt :<br>
-"In de periode van 1 november 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-In de periode van 1 november 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-In afwijking van het vierde en vijfde lid, worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 uitsluitend is uitgerust met de planken.".<br>
-&nbsp;
+...
 
 ### ART 10.
 
-Aan artikel 28 van hetzelfde besluit, gewijzigd bij de ministeriele besluiten van 26 januari 2016, 29 maart 2016 en 21 juni 2016, wordt een paragraaf 13 toegevoegd die luidt als volgt :<br>
-" § 13. Vanaf het ogenblik dat het quotum 85% benut is voor 1 december 2016 is het in de ICES-gebieden II, IV voor een vissersvaartuig verboden bij de vangst van tarbot en griet een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden en dit tot 31 december 2016.".
+...
 
 ### ART 11.
 
-Dit besluit treedt in werking op 1 november 2016. Het houdt op van kracht te zijn op 1 januari 2017.
+...
