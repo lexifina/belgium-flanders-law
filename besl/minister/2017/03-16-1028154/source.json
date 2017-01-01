@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028154,
+  "title": "Ministerieel besluit van 2017-03-16 tot bepaling van het maximaal aantal subsidiabele uren aan nieuw erkende diensten voor oppashulp voor het werkjaar 2017",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028154/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "60f03180fb19ea14101d2ee74a3bf11d61147ecc03075ee773db3e9188322b58",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028154&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-03-16",
+  "gazette": "2017-04-19",
+  "numac": 2017040218,
+  "document_start": "2017-01-01",
+  "document_end": "2016-12-31",
+  "in_force": "2017-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
