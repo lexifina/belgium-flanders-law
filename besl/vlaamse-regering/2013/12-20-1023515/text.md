@@ -64,11 +64,18 @@ De aanvrager moet de volgende documenten bij zijn aanvraag voegen om de   vrijst
 
 ### ART. 2.1.6.0.3.
 
-De aanvrager moet de volgende documenten bij zijn aanvraag voegen om de   vrijstelling van de onroerende voorheffing, vermeld in artikel 2.1.6.0.2, eerste   lid, 2°, van de Vlaamse Codex Fiscaliteit van 13 december 2013, te   verkrijgen:<BR>1° een afschrift van de stedenbouwkundige vergunning voor de   renovatiewerkzaamheden, vermeld in artikel 2.5.7.0.3 van de Vlaamse Codex   Fiscaliteit van 13 december 2013;<BR>2° een afschrift van het proces-verbaal van   voorlopige oplevering van de renovatiewerkzaamheden, opgemaakt tussen de   bouwheer en de aannemer of architect;<BR>3° een attest waaruit blijkt dat het   onroerend goed waarvoor de vrijstelling van de onroerende voorheffing wordt   aangevraagd, vanaf ten vroegste 1 januari 2003 uit de inventaris van de   verwaarloosde gebouwen of woningen, of uit de inventaris van de ongeschikte of   onbewoonbare woningen is geschrapt.
+De aanvrager moet de volgende documenten bij zijn aanvraag voegen om de vrijstelling van de onroerende voorheffing, vermeld in artikel 2.1.6.0.2, eerste lid, 2°, van de Vlaamse Codex Fiscaliteit van 13 december 2013, te verkrijgen:<br>
+1° een afschrift van de stedenbouwkundige vergunning voor de renovatiewerkzaamheden, vermeld in artikel 2.5.7.0.3 van de Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
+2° een afschrift van het proces-verbaal van voorlopige oplevering van de renovatiewerkzaamheden, opgemaakt tussen de bouwheer en de aannemer of architect;<br>
+3° een attest waaruit blijkt dat het onroerend goed waarvoor de vrijstelling van de onroerende voorheffing wordt aangevraagd, vanaf ten vroegste 1 januari 2003&nbsp;uit het register van verwaarloosde gebouwen en woningen, vermeld in artikel 25, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, of uit de inventaris van ongeschikte of onbewoonbare woningen, vermeld in artikel 26, § 1, van het voormelde decreet is geschrapt.
 
 ### ART. 2.1.6.0.4.
 
-Als het onroerend goed waarvoor de vrijstelling kan worden toegekend,   samen met een aanpalend onroerend goed wordt verbouwd tot één pand met één   kadastraal inkomen, moet, in afwijking van artikel 2.1.6.0.2 en 2.1.6.0.3, de   aanvraag in twee fasen worden ingediend:<BR>1° in een eerste fase moeten de   documenten, vermeld in respectievelijk artikel 2.1.6.0.2, 1° en 2°, en artikel   2.1.6.0.3, 1°, worden voorgelegd zodra ze voorhanden zijn;<BR>2° in een tweede   fase moeten de documenten, vermeld in respectievelijk artikel 2.1.6.0.2, 3° en   artikel 2.1.6.0.3, 2° en 3°, worden voorgelegd zodra kan worden aangetoond   dat:<BR>a) het onroerend goed in kwestie effectief wordt bewoond, met toepassing   van artikel 2.1.6.0.2;<BR>b) het onroerend goed in kwestie uit de inventaris van   de verwaarloosde gebouwen of woningen, of uit de inventaris van de ongeschikte   of onbewoonbare woningen is geschrapt, met toepassing van artikel   2.1.6.0.3.
+Als het onroerend goed waarvoor de vrijstelling kan worden toegekend, samen met een aanpalend onroerend goed wordt verbouwd tot één pand met één kadastraal inkomen, moet, in afwijking van artikel 2.1.6.0.2 en 2.1.6.0.3, de aanvraag in twee fasen worden ingediend:<br>
+1° in een eerste fase moeten de documenten, vermeld in respectievelijk artikel 2.1.6.0.2, 1° en 2°, en artikel 2.1.6.0.3, 1°, worden voorgelegd zodra ze voorhanden zijn;<br>
+2° in een tweede fase moeten de documenten, vermeld in respectievelijk artikel 2.1.6.0.2, 3° en artikel 2.1.6.0.3, 2° en 3°, worden voorgelegd zodra kan worden aangetoond dat:<br>
+a) het onroerend goed in kwestie effectief wordt bewoond, met toepassing van artikel 2.1.6.0.2;<br>
+b) het onroerend goed in kwestie&nbsp;uit het register van verwaarloosde gebouwen en woningen, vermeld in artikel 25, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, of uit de inventaris van ongeschikte of onbewoonbare woningen, vermeld in artikel 26, § 1, van het voormelde decreet is geschrapt, met toepassing van artikel 2.1.6.0.3.
 
 ## Afdeling 7. Wijze van heffing
 
@@ -594,7 +601,17 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 3.1.0.0.2.
 
-<P>De gemeenten ontvangen voor de administratiekosten die ze ter uitvoering van   de verkrottingsheffing woningen en gebouwen moeten maken:<BR>1° een eenmalige   vergoeding van 15 % van de opbrengst van de eerste belasting met betrekking tot   de onroerende goederen die op het grondgebied van de gemeente liggen, met een   maximum van 125 euro per belaste woning of gebouw, voor elk gebouw of elke   woning waarvan de gemeente de correcte gegevens en indicaties, vermeld in   artikel 4 van het besluit van de Vlaamse Regering van 2 april 1996 betreffende   de heffing ter bestrijding van verkrotting van gebouwen en/of woningen, heeft   meegedeeld aan het agentschap;<BR>2° vanaf de eerste heffing, 6% van de   jaarlijkse opbrengst van de belasting met betrekking tot de onroerende goederen   die op het grondgebied van de gemeente liggen voor het beheer van de inventaris,   inclusief de opsporings- en vaststellingskosten, op voorwaarde dat de gebouwen   of woningen werden gesignaleerd overeenkomstig artikel 4 van het besluit van de   Vlaamse Regering van 2 april 1996 betreffende de heffing ter bestrijding van   verkrotting van gebouwen en/of woningen.<BR></P>  <P>De gemeentelijke opcentiemen, de nalatigheidsinteresten, de administratieve   geldboetes en de kosten worden niet in aanmerking genomen voor de berekening van   de opbrengst van de belasting, vermeld in het vorige lid.<BR></P>  <P>De onkostenvergoeding wordt berekend op de geïnde heffingen.<BR></P>  <P>De vergoedingen, vermeld in het eerste lid, 1° en 2°, worden toegekend   ongeacht het tijdstip waarop de gegevens werden meegedeeld, op voorwaarde dat de   belasting voor het jaar waarop de gegevens betrekking hebben, tijdig kon worden   opgenomen in het kohier.<BR></P>  <P>Bij gehele of gedeeltelijke ontheffingen wordt het te veel uitbetaalde bedrag   aan onkostenvergoedingen verrekend op de eerstvolgende uit te keren   onkostenvergoedingen en opcentiemen.</P>
+<p>De gemeenten ontvangen voor de administratiekosten die ze ter uitvoering van de heffing ongeschikte en onbewoonbare woningen moeten maken:<br>
+1° een eenmalige vergoeding van 15 % van de opbrengst van de eerste belasting met betrekking tot de onroerende goederen die op het grondgebied van de gemeente liggen, met een maximum van 125 euro per belaste woning of gebouw, voor elk gebouw of elke woning waarvan de gemeente de correcte gegevens en indicaties, vermeld in artikel 4 van het besluit van de Vlaamse Regering van 2 april 1996 betreffende de heffing ter bestrijding van verkrotting van gebouwen en/of woningen, heeft meegedeeld aan het agentschap;<br>
+2° vanaf de eerste heffing, 6% van de jaarlijkse opbrengst van de belasting met betrekking tot de onroerende goederen die op het grondgebied van de gemeente liggen voor het beheer van de inventaris, inclusief de opsporings- en vaststellingskosten, op voorwaarde dat de gebouwen of woningen werden gesignaleerd overeenkomstig artikel 4 van het besluit van de Vlaamse Regering van 2 april 1996 betreffende de heffing ter bestrijding van verkrotting van gebouwen en/of woningen.</p>
+
+<p>De gemeentelijke opcentiemen, de nalatigheidsinteresten, de administratieve geldboetes en de kosten worden niet in aanmerking genomen voor de berekening van de opbrengst van de belasting, vermeld in het vorige lid.</p>
+
+<p>De onkostenvergoeding wordt berekend op de geïnde heffingen.</p>
+
+<p>De vergoedingen, vermeld in het eerste lid, 1° en 2°, worden toegekend ongeacht het tijdstip waarop de gegevens werden meegedeeld, op voorwaarde dat de belasting voor het jaar waarop de gegevens betrekking hebben, tijdig kon worden opgenomen in het kohier.</p>
+
+<p>Bij gehele of gedeeltelijke ontheffingen wordt het te veel uitbetaalde bedrag aan onkostenvergoedingen verrekend op de eerstvolgende uit te keren onkostenvergoedingen en opcentiemen.</p>
 
 ### ART. 3.1.0.0.3.
 
@@ -2208,12 +2225,12 @@ Tabel 12 : Besluit van de Vlaamse Regering van 18 maart 2011 tot vaststelling va
 	</tbody>
 </table>
 <br>
-Tabel 13 : Decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996 (decreet verkrottingsheffing woningen en gebouwen)<br>
+Tabel 13 : Decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996 (decreet heffing ongeschikte en onbewoonbare woningen)<br>
 &nbsp;
 <table border="1">
 	<tbody>
 		<tr>
-			<td>Bepaling decreet verkrottingsheffing woningen en gebouwen</td>
+			<td>Bepaling decreet heffing ongeschikte en onbewoonbare woningen</td>
 			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
 		</tr>
 		<tr>
@@ -4211,13 +4228,13 @@ Tabel 12 : Besluit van de Vlaamse Regering van 18 maart 2011 tot vaststelling va
 	</tbody>
 </table>
 <br>
-Tabel 13 : Decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996 (decreet verkrottingsheffing woningen en gebouwen)<br>
+Tabel 13 : Decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996 (decreet heffing ongeschikte en onbewoonbare woningen)<br>
 &nbsp;
 <table border="1">
 	<tbody>
 		<tr>
 			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
-			<td>Bepaling decreet verkrottingsheffing woningen en gebouwen</td>
+			<td>Bepaling decreet heffing ongeschikte en onbewoonbare woningen</td>
 		</tr>
 		<tr>
 			<td>Art. 3.2.1.0.1</td>
