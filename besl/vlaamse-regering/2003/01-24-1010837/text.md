@@ -98,7 +98,9 @@ De ambten opgesomd, in artikel 2 van dit besluit vervangen, de volgende ambten:<
 
 ### ART. 20bis.
 
-Het wervingsambt van ICT-coördinator vervangt de wervingsambten van administratief medewerker of beleidsmedewerker, ingericht op basis van de puntenenveloppe ICT, vermeld in artikel X.52 van het decreet betreffende het onderwijs XIV van 14 februari 2003, en/of ingericht op basis van de puntenenveloppe toegekend aan de scholengemeenschap en gebruikt voor ICT, als vermeld in artikel 125duodecies van het decreet Basisonderwijs van 25 februari 1997.<br /><br />Het wervingsambt van zorg-coördinator vervangt het wervingsambt van beleidsmedewerker, ingericht op basis van de puntenenveloppe, toegekend aan de scholengemeenschap en gebruikt voor zorg, als vermeld in artikel 125duodecies van het decreet Basisonderwijs van 25 februari 1997.  <span class="reference">(ing. B.V.R. 30 september 2005, art. 2, I : 1 september 2005)</span> ]
+Het wervingsambt van ICT-coördinator vervangt de wervingsambten van administratief medewerker of beleidsmedewerker, ingericht op basis van de artikel VI.4 van de Codificatie sommige bepalingen voor het onderwijs, en/of ingericht op basis van de puntenenveloppe toegekend aan de scholengemeenschap en gebruikt voor ICT, als vermeld in artikel 125duodecies van het decreet Basisonderwijs van 25 februari 1997.<br>
+<br>
+Het wervingsambt van zorg-coördinator vervangt het wervingsambt van beleidsmedewerker, ingericht op basis van de puntenenveloppe, toegekend aan de scholengemeenschap en gebruikt voor zorg, als vermeld in artikel 125duodecies van het decreet Basisonderwijs van 25 februari 1997. (ing. B.V.R. 30 september 2005, art. 2, I : 1 september 2005) ]
 
 ### ART. 21.
 
@@ -130,7 +132,7 @@ De personeelsleden die vóór de datum van de inwerkingtreding van dit besluit i
 
 ### ART. 27bis.
 
-De personeelsleden die op 31 augustus 2005 vastbenoemd zijn in het ambt van administratief medewerker op basis van de puntenenveloppe ICT, zoals bedoeld in artikel X.52. van het decreet betreffende het onderwijs XIV van 14 februari 2003 behouden het voordeel van de weddenschaal verbonden aan het door hen op 31 augustus 2005 uitgeoefende ambt.
+De personeelsleden die op 31 augustus 2005 vastbenoemd zijn in het ambt van administratief medewerker op basis van&nbsp;artikel VI.4 van de Codificatie sommige bepalingen voor het onderwijs behouden het voordeel van de weddenschaal verbonden aan het door hen op 31 augustus 2005 uitgeoefende ambt.
 
 ### ART. 27ter.
 
