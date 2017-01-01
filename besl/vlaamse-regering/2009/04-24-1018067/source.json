@@ -2,16 +2,16 @@
   "codex_id": 1018067,
   "title": "Besluit van de Vlaamse Regering van 2009-04-24 houdende goedkeuring van programmatie van specifieke structuuronderdelen van de tweede of derde graad of van een nieuw studiegebied van scholen al dan niet behorende tot een scholengemeenschap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018067/VolledigDocument?datum=2009-07-12",
-  "source_sha256": "cf8c24a326f9a1034937e61bb746dea79123f7fbb4d8f4554216439398464339",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018067/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "126a7cd067edc5bf7ebe2ddc7315d820320f749b79a73981835553ae03bfaf51",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018067&param=informatie",
-  "as_of": "2009-07-12",
+  "as_of": "2017-01-01",
   "made": "2009-04-24",
   "gazette": "2009-07-02",
   "numac": 2009035542,
   "document_start": "2009-07-12",
   "document_end": "2016-12-31",
-  "in_force": "2009-07-12",
+  "in_force": "2017-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2009-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
