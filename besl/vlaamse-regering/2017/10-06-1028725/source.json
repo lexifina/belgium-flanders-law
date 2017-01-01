@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028725,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-06 tot wijziging van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, wat betreft de subsidie voor het generatiepact en tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 17 maart 2017 betreffende de subsidiëring van de organisatoren kinderopvang en buitenschoolse opvang ter uitvoering van het Vlaams Intersectoraal Akkoord",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028725/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "62b0f456870981998776dfebb6d6e83d9527832f11a56fd28f19e043e7fefbca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028725&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-10-06",
+  "gazette": "2017-10-31",
+  "numac": 2017031371,
+  "document_start": "2017-03-15",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
