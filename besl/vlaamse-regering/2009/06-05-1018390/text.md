@@ -39,7 +39,8 @@ c) de deeltijdse werknemer die een opleiding volgt in een onderwijsinstelling al
 23° bemiddelaar: personeelslid van de VDAB dat de nodige initiatieven neemt om de werkzoekende te ondersteunen bij de verbetering van zijn tewerkstellingsmogelijkheden;<br>
 24° controledienst: de dienst die binnen de VDAB is belast met de controle van de beschikbaarheid van de verplicht ingeschreven werkzoekende en het in voorkomend geval bepalen van de bijbehorende sanctie;<br>
 25° partnerorganisaties: organisaties waarmee de VDAB samenwerkt in het kader van een overheidsopdracht, subsidieovereenkomst of samenwerkingsovereenkomst;<br>
-26° RVA: de Rijksdienst voor Arbeidsvoorziening.<br>
+26° RVA: de Rijksdienst voor Arbeidsvoorziening;<br>
+27° werkervaringsstage: een stage voor een werkzoekende op een reële werkvloer, die als voornaamste doel heeft om de werkzoekende generieke competenties te laten opbouwen die van elke werknemer verwacht worden, los van de functie van de werknemer, en om de werkzoekende werkervaring te laten opdoen, zodat een eerste stap naar herintrede op de arbeidsmarkt gezet kan worden.<br>
 <br>
 De Vlaamse minister, bevoegd voor het Tewerkstellingsbeleid, bepaalt, na advies van de raad van bestuur van de VDAB, wat moet worden verstaan onder onderneming in herstructurering als vermeld in het eerste lid, 17° en 18°.
 
@@ -199,7 +200,7 @@ Het mandaat wordt&nbsp;door de raad van bestuur geschorst of stopgezet als de pe
 
 ### ART. 32.
 
-Iedereen die voldoet aan de vereiste van wettig verblijf, vermeld in artikel 1, 6°, van het koninklijk besluit van 9 juni 1999 houdende uitvoering van de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers, mag zich als werkzoekende bij de VDAB inschrijven.
+Iedereen die wettelijk toegang heeft tot de arbeidsmarkt, mag zich als werkzoekende bij VDAB inschrijven.
 
 ### ART. 33.
 
@@ -491,8 +492,6 @@ De VDAB beslist of een niet-werkende werkzoekende en een verplicht ingeschreven 
 <br>
 Die beslissing wordt genomen op basis van de geschiktheid en het competentieprofiel van de kandidaten.<br>
 <br>
-Een schoolverlater in beroepsinschakelingstijd kan geen opleiding in een onderwijsinstelling volgen.<br>
-<br>
 Bij een negatieve beslissing kan de niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende om een herziening van zijn aanvraag verzoeken bij de raad van bestuur<br>
 <br>
 De VDAB beslist ook over de verlenging of de voortijdige beëindiging van de opleiding.
@@ -631,6 +630,67 @@ Artikelen 92 tot en met 96 en artikel 98 zijn van toepassing op de individuele b
 
 ## [HOOFDSTUK IV. De werkervaringsstage (ing. BVR 23 december 2016, art. 2, I: 1 januari 2017)]
 
+### ART 111/0/1.
+
+De VDAB kan de werkzoekende in het kader van de begeleiding naar werk een werkervaringsstage voorstellen bij een werkgever. De werkervaringsstage staat open voor elke werkzoekende als:<br>
+1° de VDAB oordeelt dat de werkervaringsstage passend is in zijn traject naar werk;<br>
+2° de werkzoekende voldoende leerpotentieel heeft om de afstand tot het normale economische circuit te overbruggen;<br>
+3° de werkzoekende een gebrek aan generieke competenties en werkervaring heeft.
+
+### ART 111/0/2.
+
+De VDAB beslist of een werkzoekende een werkervaringsstage mag volgen.<br>
+<br>
+De VDAB beslist over de verlenging of de voortijdige beëindiging van de werkervaringsstage.
+
+### ART 111/0/3.
+
+De VDAB bepaalt de duur van de werkervaringsstage. De werkervaringsstage bedraagt ten minste twintig uur per week. De duur van de werkervaringsstage bedraagt maximaal zes maanden.
+
+### ART 111/0/4.
+
+De werkervaringsstage wordt aangevat met een opleidingsplan. Dat opleidingsplan omvat de aan te leren competenties en de wijze waarop die competenties aangeleerd zullen worden.
+
+### ART 111/0/5.
+
+Tijdens de duur van de werkervaringsstage wordt de werkzoekende regelmatig opgevolgd door VDAB. De werkgever bij wie de stage wordt aangevat, staat in voor de ondersteuning van de werkzoekende op de werkvloer.
+
+### ART 111/0/6.
+
+De niet-werkende werkzoekende of de verplicht ingeschreven werkzoekende die een werkervaringsstage volgt, heeft recht op de vergoedingen, vermeld in artikel 6, § 2, als hij voldoet aan de voorwaarden, vermeld in het voormelde artikel.
+
+### ART 111/0/7.
+
+De werkzoekende die een werkervaringsstage volgt, heeft recht op een maandelijkse vergoeding van 200 euro die betaald wordt door de VDAB. De vergoeding wordt naar verhouding verminderd voor maanden waarin de stagiair geen volledige prestaties heeft geleverd.
+
+### ART 111/0/8.
+
+Tijdens de werkervaringsstage is de stagiair verzekerd voor ongevallen als vermeld in artikel 11. De werkzoekende die in het kader van de werkervaringsstage schade berokkent aan de VDAB of aan derden, wordt alleen aansprakelijk gesteld in de gevallen, vermeld in artikel 12.
+
+### ART 111/0/9.
+
+Voor de uitvoering van de werkervaringsstage wordt tussen de VDAB, de stagiair en de werkgever een overeenkomst gesloten, waarvan het model door de raad van bestuur van de VDAB wordt bepaald.<br>
+<br>
+De overeenkomst vermeldt ten minste:<br>
+1° de identiteit van de partijen;<br>
+2° de aanvangsdatum van de werkervaringsstage en de duur ervan;<br>
+3 de omschrijving van de activiteiten die in het kader van de werkervaringsstage plaatsvinden op de werkvloer;<br>
+4° de rechten en plichten van de partijen.
+
+### ART 111/0/10.
+
+De werkervaringsstage wordt geschorst gedurende de periodes van ziekte en moederschapsverlof, ongeval of overmacht voor de duur van die periode.
+
+### ART 111/0/11.
+
+De werkervaringsstage wordt stopgezet:<br>
+1° als de periode van schorsing, vermeld in artikel 111/0/10, een zodanige duur heeft bereikt dat de re-integratie van de werkzoekende niet zonder moeilijkheden kan verlopen;<br>
+2° als de stagiair of de werkgever zijn contractuele verplichtingen niet langer nakomt en de VDAB vaststelt dat de verdere uitvoering van de werkervaringsstage onmogelijk is geworden.
+
+### ART 111/0/12.
+
+Indien de werkervaringsstage deel uitmaakt van een traject tijdelijke werkervaring, kan de trajectbegeleider, vermeld in artikel 1, 1° van het besluit van de Vlaamse Regering betreffende de tijdelijke werkervaring van 23/12/2016, de werkervaringsstage inzetten met toepassing van artikel 17 van hetzelfde besluit.
+
 ## [HOOFDSTUK V. ... (opgeh. BVR 28 oktober 2022, art. 21, I: 1 januari 2023)]
 
 ## [HOOFDSTUK VI. De beroepsinlevingsstage (ing. BVR 6 juli 2018, art. 42, I: 1 september 2018)]
@@ -705,7 +765,15 @@ Als de bemiddelaar vaststelt dat de verplicht ingeschreven werkzoekende de   afs
 
 ### ART. 111/16.
 
-Met behoud van de toepassing van artikel 111/6, 111/13 en 111/15 bezorgt   de bemiddelaar een dossier aan de controledienst als:<BR>1° de verplicht   ingeschreven werkzoekende weigert een trajectovereenkomst, afsprakenblad of   ultiem afsprakenblad te ondertekenen als hem dat ter ondertekening wordt   voorgelegd;<BR>2° de verplicht ingeschreven werkzoekende zich niet aanmeldt bij   een werkgever en daarvoor geen geldige reden heeft, nadat hij daarvoor van de   VDAB een opdracht heeft ontvangen;<BR>3° de verplicht ingeschreven werkzoekende   weigert een passende dienstbetrekking of een passend aanbod te aanvaarden;<BR>4°   door toedoen van de verplicht ingeschreven werkzoekende een begeleidingsplan,   competentieversterking of opleidingscontract mislukt of wordt   stopgezet.<BR><BR>De verplicht ingeschreven werkzoekende die zich op een   medische reden beroept om een passende dienstbetrekking of een passend aanbod te   weigeren, kan onderworpen worden aan een medisch onderzoek als vermeld in   artikel 111/7, § 3. Als de medische reden waarop de verplicht ingeschreven   werkzoekende zich beroept om de passende dienstbetrekking of het passende aanbod   te weigeren, niet voldoende wordt geacht, wordt zijn dossier bezorgd aan de   controledienst.
+Met behoud van de toepassing van artikel 111/6, 111/13 en 111/15 bezorgt de bemiddelaar een dossier aan de controledienst als:<br>
+1° de verplicht ingeschreven werkzoekende weigert een trajectovereenkomst, afsprakenblad of ultiem afsprakenblad te ondertekenen als hem dat ter ondertekening wordt voorgelegd;<br>
+2° de verplicht ingeschreven werkzoekende zich niet aanmeldt bij een werkgever en daarvoor geen geldige reden heeft, nadat hij daarvoor van de VDAB een opdracht heeft ontvangen;<br>
+3° de verplicht ingeschreven werkzoekende weigert een passende dienstbetrekking of een passend aanbod te aanvaarden;<br>
+4° door toedoen van de verplicht ingeschreven werkzoekende een begeleidingsplan, competentieversterking of opleidingscontract mislukt of wordt stopgezet.<br>
+<br>
+Het dossier van de verplicht ingeschreven werkzoekende van wie de vrijstelling werd stopgezet met toepassing van artikel 111/40, wordt bezorgd aan de controledienst en geeft aanleiding tot toepassing van het eerste lid, 4°.<br>
+<br>
+De verplicht ingeschreven werkzoekende die zich op een medische reden beroept om een passende dienstbetrekking of een passend aanbod te weigeren, kan onderworpen worden aan een medisch onderzoek als vermeld in artikel 111/7, § 3. Als de medische reden waarop de verplicht ingeschreven werkzoekende zich beroept om de passende dienstbetrekking of het passende aanbod te weigeren, niet voldoende wordt geacht, wordt zijn dossier bezorgd aan de controledienst.
 
 ### ART. 111/17.
 
@@ -727,7 +795,17 @@ De controledienst kan ook, als de bemiddelaar daarom verzoekt, een   niet-binden
 
 ### ART. 111/21.
 
-§ 1. Het verhoor, vermeld in artikel 111/19, vindt op zijn vroegst plaats   de eenentwintigste dag na de verzending van de uitnodiging. De uitnodiging wordt   verstuurd met een brief die de reden, de dag, het uur en de plaats van het   verhoor vermeldt, alsook de mogelijkheid om niet te verschijnen maar   schriftelijk verweermiddelen naar voren te brengen. De controledienst brengt de   verplicht ingeschreven werkzoekende op de hoogte van zijn rechten en plichten en   bezorgt hem de informatie bedoeld in artikel 111/22, § 2, 2° en 3°.<BR><BR>Als   de verplicht ingeschreven werkzoekende wil gebruikmaken van het schriftelijke   verweer, moet de bevoegde regionale afdeling van de controledienst, behoudens in   geval van overmacht, dat verweer ontvangen uiterlijk de werkdag die voorafgaat   aan de werkdag waarop de verplicht ingeschreven werkzoekende voor het verhoor is   uitgenodigd.<BR><BR>Schriftelijk verweer is niet mogelijk als de reden waarom   het dossier bezorgd is aan de controledienst, betrekking heeft op het   niet-uitvoeren van de afspraken die opgenomen zijn in het afsprakenblad, het   ultieme afsprakenblad of de trajectovereenkomst.<BR><BR>§ 2. Als de verplicht   ingeschreven werkzoekende de dag waarvoor hij uitgenodigd is, verhinderd is, mag   hij vragen dat het verhoor verdaagd wordt tot een datum die niet later mag   vallen dan zeven dagen na de datum die eerst was vastgesteld. Behalve in geval   van overmacht wordt het uitstel slechts eenmaal verleend. De bevoegde regionale   afdeling van de controledienst moet, behoudens in geval van overmacht, het   verzoek tot uitstel uiterlijk ontvangen de zevende dag nadat de uitnodiging   verzonden is.<BR><BR>§ 3. De verplicht ingeschreven werkzoekende heeft de   mogelijkheid om zich op het verhoor te laten bijstaan door een persoon naar   keuze of om zich te laten vertegenwoordigen door een advocaat, een afgevaardigde   van een werknemersorganisatie of zijn voorlopige bewindvoerder.<BR><BR>§ 4. Als   de verplicht ingeschreven werkzoekende niet aanwezig is op het verhoor, noch in   persoon noch door vertegenwoordiging, of geen schriftelijk verweer indient en   als hij geen uitstel van het verhoor heeft aangevraagd, neemt de controledienst   een beslissing bij verstek.
+§ 1. Het verhoor, vermeld in artikel 111/19, vindt op zijn vroegst plaats de eenentwintigste dag na de verzending van de uitnodiging, tenzij anders is overeengekomen. De uitnodiging wordt verstuurd met een brief die de reden, de dag, het uur en de plaats van het verhoor vermeldt, alsook de mogelijkheid om niet te verschijnen maar schriftelijk verweermiddelen naar voren te brengen. De controledienst brengt de verplicht ingeschreven werkzoekende op de hoogte van zijn rechten en plichten en bezorgt hem de informatie bedoeld in artikel 111/22, § 2, 2° en 3°.<br>
+<br>
+Als de verplicht ingeschreven werkzoekende wil gebruikmaken van het schriftelijke verweer, moet de bevoegde regionale afdeling van de controledienst, behoudens in geval van overmacht, dat verweer ontvangen uiterlijk de werkdag die voorafgaat aan de werkdag waarop de verplicht ingeschreven werkzoekende voor het verhoor is uitgenodigd.<br>
+<br>
+Schriftelijk verweer is niet mogelijk als de reden waarom het dossier bezorgd is aan de controledienst, betrekking heeft op het niet-uitvoeren van de afspraken die opgenomen zijn in het afsprakenblad, het ultieme afsprakenblad of de trajectovereenkomst.<br>
+<br>
+§ 2. Als de verplicht ingeschreven werkzoekende de dag waarvoor hij uitgenodigd is, verhinderd is, mag hij vragen dat het verhoor verdaagd wordt tot een datum die niet later mag vallen dan zeven dagen na de datum die eerst was vastgesteld. Behalve in geval van overmacht wordt het uitstel slechts eenmaal verleend. De bevoegde regionale afdeling van de controledienst moet, behoudens in geval van overmacht, het verzoek tot uitstel uiterlijk ontvangen de zevende dag nadat de uitnodiging verzonden is.<br>
+<br>
+§ 3. De verplicht ingeschreven werkzoekende heeft de mogelijkheid om zich op het verhoor te laten bijstaan door een persoon naar keuze of om zich te laten vertegenwoordigen door een advocaat, een afgevaardigde van een werknemersorganisatie of zijn voorlopige bewindvoerder.<br>
+<br>
+§ 4. Als de verplicht ingeschreven werkzoekende niet aanwezig is op het verhoor, noch in persoon noch door vertegenwoordiging, of geen schriftelijk verweer indient en als hij geen uitstel van het verhoor heeft aangevraagd, neemt de controledienst een beslissing bij verstek.
 
 ### ART. 111/22.
 
@@ -765,13 +843,206 @@ De jonge verplicht ingeschreven werkzoekende moet aanwezig zijn op de   gesprekk
 
 ### ART. 111/29.
 
-§ 1. Tijdens het gesprek, vermeld in artikel 111/27, § 3, beoordeelt de   VDAB het werkzoekgedrag van de jonge verplicht ingeschreven werkzoekende op   basis van:<BR>1° de volgende inlichtingen waarover de VDAB al beschikt in   verband met de jonge verplicht ingeschreven werkzoekende:<BR>a) de   overeengekomen acties en afspraken;<BR>b) de tewerkstellingsperiodes;<BR>c) de   ziekteperiodes;<BR>d) de inlichtingen van de RVA;<BR>e) andere relevante   gegevens;<BR>2° de inlichtingen van de jonge verplicht ingeschreven werkzoekende   zelf over de stappen die hij gezet heeft om werk te zoeken.<BR><BR>De   inlichtingen, vermeld in het eerste lid, worden tijdens het gesprek aan de jonge   verplicht ingeschreven werkzoekende meegedeeld. In geval van twijfel over de   juistheid van de informatie die de jonge verplicht ingeschreven werkzoekende   meedeelt, kan de VDAB de verklaringen en documenten die de verplicht   ingeschreven werkzoekende voorlegt, verifiëren.<BR><BR>§ 2. Bij de beoordeling   van de inspanningen die de jonge verplicht ingeschreven werkzoekende heeft   geleverd, houdt de VDAB rekening met:<BR>1° zijn competenties;<BR>2° zijn   leeftijd;<BR>3° zijn opleidingsniveau;<BR>4° zijn   verplaatsingsmogelijkheden;<BR>5° zijn fysieke en mentale capaciteiten;<BR>6° de   toestand van de arbeidsmarkt in de subregio waar de verplicht ingeschreven   werkzoekende zijn hoofdverblijfplaats heeft. Onder subregio wordt verstaan het   gebied waarin inwoners van dezelfde gemeente als de verplicht ingeschreven   werkzoekende en van de aangrenzende gemeenten zich verplaatsen om te gaan   werken;<BR>7° zijn sociale en familiale situatie;<BR>8° andere relevante   gegevens.<BR><BR>§ 3. In geval van een positieve beoordeling informeert de VDAB   de jonge verplicht ingeschreven werkzoekende schriftelijk daarover, uiterlijk   veertien dagen na het gesprek. Als het gaat om het gesprek tijdens de zesde   maand van de beroepsinschakelingstijd, wordt de jonge verplicht ingeschreven   werkzoekende er ook van op de hoogte gebracht dat hij opgeroepen zal worden voor   een nieuw gesprek in de loop van de elfde maand van de   beroepsinschakelingstijd.<BR><BR>De jonge verplicht ingeschreven werkzoekende   wordt er verder van op de hoogte gebracht dat het recht op   inschakelingsuitkeringen kan worden geopend als hij een tweede al dan niet   opeenvolgende positieve beoordeling van zijn werkzoekgedrag krijgt, op   voorwaarde dat hij voldoet aan de andere voorwaarden, vermeld in het koninklijk   besluit van 25 november 1991 houdende de werkloosheidsreglementering.<BR><BR>§   4. Als de bemiddelaar geen positieve beoordeling geeft, bezorgt hij het dossier   aan de controledienst, samen met zijn advies. De controledienst geeft het   dossier een positieve of negatieve beoordeling. Als de jonge verplicht   ingeschreven werkzoekende dat wil, kan hij gehoord worden bij de controledienst   over de beoordeling van zijn werkzoekgedrag.<BR><BR>Het verhoor vindt op zijn   vroegst plaats de eenentwintigste dag na de verzending van de uitnodiging. De   uitnodiging wordt verstuurd met een brief die de reden, de dag, het uur en de   plaats van het verhoor vermeldt. De controledienst brengt de jonge verplicht   ingeschreven werkzoekende op de hoogte van zijn rechten en plichten.<BR><BR>Als   de jonge verplicht ingeschreven werkzoekende de dag waarvoor hij uitgenodigd is,   verhinderd is, mag hij vragen dat het verhoor verdaagd wordt tot een datum die,   behoudens in geval van overmacht, niet later mag vallen dan veertien dagen na de   datum die eerst was vastgesteld. Behalve in geval van overmacht wordt het   uitstel slechts eenmaal verleend. De controledienst moet het verzoek tot uitstel   uiterlijk ontvangen binnen zeven dagen nadat de uitnodiging verzonden is,   behoudens in geval van overmacht.<BR><BR>De jonge verplicht ingeschreven   werkzoekende heeft de mogelijkheid om zich op het verhoor te laten bijstaan door   een persoon naar keuze of om zich te laten vertegenwoordigen door een advocaat,   een afgevaardigde van een werknemersorganisatie of zijn voorlopige   bewindvoerder. Als de verplicht ingeschreven werkzoekende niet aanwezig is op   het verhoor, noch in persoon noch door vertegenwoordiging, en hij geen uitstel   van het verhoor heeft aangevraagd, neemt de controledienst een beslissing bij   verstek.<BR><BR>§ 5. De controledienst zal een negatieve beoordeling uitspreken   als:<BR>1° de jonge verplicht ingeschreven werkzoekende niet ingaat op de   uitnodiging, vermeld in artikel 111/28;<BR>2° de jonge verplicht ingeschreven   werkzoekende niet aanwezig is, noch in persoon noch door vertegenwoordiging, op   het verhoor, vermeld in paragraaf 4;<BR>3° de jonge verplicht ingeschreven   werkzoekende tijdens het verhoor niet kan aantonen dat hij zich voldoende   integreert op de arbeidsmarkt.<BR><BR>§ 6. In geval van een negatieve   beoordeling brengt de VDAB uiterlijk veertien dagen na het gesprek de jonge   verplicht ingeschreven werkzoekende daarvan op de hoogte.<BR><BR>Als het gaat om   het gesprek tijdens de zesde maand van de beroepsinschakelingstijd, wordt de   jonge verplicht ingeschreven werkzoekende er ook van op de hoogte gebracht dat   hij opgeroepen zal worden voor een nieuw gesprek in de loop van de elfde maand   van de beroepsinschakelingstijd.<BR><BR>De jonge verplicht ingeschreven   werkzoekende wordt er verder van op de hoogte gebracht dat hij als gevolg van de   negatieve beoordeling voor een nieuwe beoordeling van zijn werkzoekgedrag zal   opgeroepen worden, op zijn vroegst in de loop van de vijftiende maand en daarna   telkens in de loop van de drie maanden die volgen op het vorige   gesprek.<BR><BR>De termijn van drie maanden, vermeld in het derde lid, wordt   berekend vanaf de eerste dag van de maand die volgt op de maand waarin de   beoordeling had moeten plaatsvinden als dat gesprek niet kon plaatsvinden om een   reden die niet toe te schrijven is aan de jonge verplicht ingeschreven   werkzoekende.
+§ 1. Tijdens het gesprek, vermeld in artikel 111/27, § 3, beoordeelt de VDAB het werkzoekgedrag van de jonge verplicht ingeschreven werkzoekende op basis van:<br>
+1° de volgende inlichtingen waarover de VDAB al beschikt in verband met de jonge verplicht ingeschreven werkzoekende:<br>
+a) de overeengekomen acties en afspraken;<br>
+b) de tewerkstellingsperiodes;<br>
+c) de ziekteperiodes;<br>
+d) de inlichtingen van de RVA;<br>
+e) andere relevante gegevens;<br>
+2° de inlichtingen van de jonge verplicht ingeschreven werkzoekende zelf over de stappen die hij gezet heeft om werk te zoeken.<br>
+<br>
+De inlichtingen, vermeld in het eerste lid, worden tijdens het gesprek aan de jonge verplicht ingeschreven werkzoekende meegedeeld. In geval van twijfel over de juistheid van de informatie die de jonge verplicht ingeschreven werkzoekende meedeelt, kan de VDAB de verklaringen en documenten die de verplicht ingeschreven werkzoekende voorlegt, verifiëren.<br>
+<br>
+§ 2. Bij de beoordeling van de inspanningen die de jonge verplicht ingeschreven werkzoekende heeft geleverd, houdt de VDAB rekening met:<br>
+1° zijn competenties;<br>
+2° zijn leeftijd;<br>
+3° zijn opleidingsniveau;<br>
+4° zijn verplaatsingsmogelijkheden;<br>
+5° zijn fysieke en mentale capaciteiten;<br>
+6° de toestand van de arbeidsmarkt in de subregio waar de verplicht ingeschreven werkzoekende zijn hoofdverblijfplaats heeft. Onder subregio wordt verstaan het gebied waarin inwoners van dezelfde gemeente als de verplicht ingeschreven werkzoekende en van de aangrenzende gemeenten zich verplaatsen om te gaan werken;<br>
+7° zijn sociale en familiale situatie;<br>
+8° andere relevante gegevens.<br>
+<br>
+§ 3. In geval van een positieve beoordeling informeert de VDAB de jonge verplicht ingeschreven werkzoekende schriftelijk daarover, uiterlijk veertien dagen na het gesprek. Als het gaat om het gesprek tijdens de zesde maand van de beroepsinschakelingstijd, wordt de jonge verplicht ingeschreven werkzoekende er ook van op de hoogte gebracht dat hij opgeroepen zal worden voor een nieuw gesprek in de loop van de elfde maand van de beroepsinschakelingstijd.<br>
+<br>
+De jonge verplicht ingeschreven werkzoekende wordt er verder van op de hoogte gebracht dat het recht op inschakelingsuitkeringen kan worden geopend als hij een tweede al dan niet opeenvolgende positieve beoordeling van zijn werkzoekgedrag krijgt, op voorwaarde dat hij voldoet aan de andere voorwaarden, vermeld in het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering.<br>
+<br>
+§ 4. Als de bemiddelaar geen positieve beoordeling geeft, bezorgt hij het dossier aan de controledienst, samen met zijn advies. De controledienst geeft het dossier een positieve of negatieve beoordeling. Als de jonge verplicht ingeschreven werkzoekende dat wil, kan hij gehoord worden bij de controledienst over de beoordeling van zijn werkzoekgedrag.<br>
+<br>
+Het verhoor vindt op zijn vroegst plaats de eenentwintigste dag na de verzending van de uitnodiging, tenzij anders is overeengekomen. De uitnodiging wordt verstuurd met een brief die de reden, de dag, het uur en de plaats van het verhoor vermeldt. De controledienst brengt de jonge verplicht ingeschreven werkzoekende op de hoogte van zijn rechten en plichten.<br>
+<br>
+Als de jonge verplicht ingeschreven werkzoekende de dag waarvoor hij uitgenodigd is, verhinderd is, mag hij vragen dat het verhoor verdaagd wordt tot een datum die, behoudens in geval van overmacht, niet later mag vallen dan&nbsp;zeven dagen na de datum die eerst was vastgesteld. Behalve in geval van overmacht wordt het uitstel slechts eenmaal verleend. De controledienst moet het verzoek tot uitstel uiterlijk ontvangen binnen zeven dagen nadat de uitnodiging verzonden is, behoudens in geval van overmacht.<br>
+<br>
+De jonge verplicht ingeschreven werkzoekende heeft de mogelijkheid om zich op het verhoor te laten bijstaan door een persoon naar keuze of om zich te laten vertegenwoordigen door een advocaat, een afgevaardigde van een werknemersorganisatie of zijn voorlopige bewindvoerder. Als de verplicht ingeschreven werkzoekende niet aanwezig is op het verhoor, noch in persoon noch door vertegenwoordiging, en hij geen uitstel van het verhoor heeft aangevraagd, neemt de controledienst een beslissing bij verstek.<br>
+<br>
+§ 5. De controledienst zal een negatieve beoordeling uitspreken als:<br>
+1° de jonge verplicht ingeschreven werkzoekende niet ingaat op de uitnodiging, vermeld in artikel 111/28;<br>
+2° de jonge verplicht ingeschreven werkzoekende niet aanwezig is, noch in persoon noch door vertegenwoordiging, op het verhoor, vermeld in paragraaf 4;<br>
+3° de jonge verplicht ingeschreven werkzoekende tijdens het verhoor niet kan aantonen dat hij zich voldoende integreert op de arbeidsmarkt.<br>
+<br>
+§ 6. In geval van een negatieve beoordeling brengt de VDAB uiterlijk veertien dagen na het gesprek de jonge verplicht ingeschreven werkzoekende daarvan op de hoogte.<br>
+<br>
+Als het gaat om het gesprek tijdens de zesde maand van de beroepsinschakelingstijd, wordt de jonge verplicht ingeschreven werkzoekende er ook van op de hoogte gebracht dat hij opgeroepen zal worden voor een nieuw gesprek in de loop van de elfde maand van de beroepsinschakelingstijd.<br>
+<br>
+De jonge verplicht ingeschreven werkzoekende wordt er verder van op de hoogte gebracht dat hij als gevolg van de negatieve beoordeling voor een nieuwe beoordeling van zijn werkzoekgedrag zal opgeroepen worden, op zijn vroegst in de loop van de vijftiende maand en daarna telkens in de loop van de drie maanden die volgen op het vorige gesprek.<br>
+<br>
+De termijn van drie maanden, vermeld in het derde lid, wordt berekend vanaf de eerste dag van de maand die volgt op de maand waarin de beoordeling had moeten plaatsvinden als dat gesprek niet kon plaatsvinden om een reden die niet toe te schrijven is aan de jonge verplicht ingeschreven werkzoekende.
 
 ### ART. 111/30.
 
 De VDAB brengt de RVA ervan op de hoogte als de jonge verplicht   ingeschreven werkzoekende een beoordeling van zijn werkzoekgedrag heeft   gekregen.
 
+## [HOOFDSTUK II. Vrijstellingen (ing. BVR 23 december 2016, art. 7, I: 1 januari 2017)]
+
+## [Afdeling 1. Algemene principes bij vrijstellingen (ing. BVR 23 december 2016, art. 7, I: 1 januari 2017)]
+
+### ART 111/31.
+
+De vrijstelling van beschikbaarheid voor de arbeidsmarkt voor een studie, opleiding of stage die door VDAB wordt toegekend aan de verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, houdt in dat die werkzoekende niet hoeft in te gaan op een passend aanbod of passende dienstbetrekking, en dat hij zich niet langer moet integreren op de arbeidsmarkt voor de duurtijd van de vrijstelling.<br>
+<br>
+De werkzoekende, vermeld in het eerste lid, moet wel ingaan op afspraken bij VDAB die tot doel hebben de studie, opleiding of stage op te volgen waarvoor vrijstelling werd verleend of afspraken die worden gemaakt in het kader van het feit waarvoor de vrijstelling werd verleend. De verplicht ingeschreven werkzoekende moet tevens de studie, opleiding of stage regelmatig blijven volgen voor de duurtijd van de vrijstelling.
+
+### ART 111/32.
+
+&nbsp;§ 1. De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, kan vrijgesteld worden gedurende de periode waarin hij een andere studie, opleiding of stage volgt dan die, vermeld in artikel 111/33 tot en met 111/38, als aan de volgende voorwaarden is voldaan:<br>
+1° de vraag om vrijstelling van de verplicht ingeschreven werkzoekende komt bij VDAB aan vóór de start van de studie, opleiding of stage. In geval van laattijdige aanvraag kan de vrijstelling slechts verleend worden voor de periode vanaf de datum waarop VDAB de aanvraag heeft ontvangen;<br>
+2° de studie, opleiding of stage wordt aanvaard door VDAB als ze past in het traject naar werk van de verplicht ingeschreven werkzoekende. De aanvaarding geldt alleen voor het verlenen van de vrijstelling met toepassing van dit hoofdstuk;<br>
+3° het betreft een studie, opleiding of stage van ten minste vier weken en gemiddeld ten minste twintig uur per week, en de lessen mogen niet hoofdzakelijk op zaterdag of na 17 uur worden gegeven;<br>
+4° het volgen van een studie, opleiding of stage en de modaliteiten van opvolging kunnen door de bemiddelaar opgenomen worden in het formeel afsprakenblad. Als het gaat om een opleiding die niet door VDAB georganiseerd, erkend of gesubsidieerd wordt, is de opmaak van dat formeel afsprakenblad verplicht;<br>
+5° de verplicht ingeschreven werkzoekende blijft ingeschreven bij VDAB voor de duurtijd van de vrijstelling.<br>
+<br>
+§ 2. De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, kan van VDAB de toelating krijgen om een studie, opleiding of stage te volgen zonder vrijstelling van beschikbaarheid, maar met behoud van uitkeringen.<br>
+<br>
+§ 3. Paragraaf 1 is ook van toepassing als het om een studie, opleiding of stage in het buitenland gaat. In dat geval moeten de volgende aanvullende voorwaarden vervuld zijn opdat de verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, vrijgesteld kan worden:<br>
+1° de vrijstelling geldt voor een periode van ten hoogste drie maanden. Die periode is eenmaal verlengbaar met ten hoogste negen maanden;<br>
+2° dezelfde studie, opleiding of stage kan niet in België gevolgd worden;<br>
+3° de verplicht ingeschreven werkzoekende beschikt niet over een diploma of getuigschrift dat gelijkwaardig of hoger is dan een diploma van het hoger onderwijs, of beschikt over een diploma of getuigschrift van het hoger onderwijs waarvan VDAB oordeelt dat het weinig kansen biedt op de arbeidsmarkt;<br>
+4° de verplicht ingeschreven werkzoekende heeft zijn studies of leertijd op de dag waarop hij de vrijstelling aanvraagt, sedert ten minste twee jaar beëindigd;<br>
+5° de verplicht ingeschreven werkzoekende zal gedurende de studie, opleiding of stage in het buitenland verblijven.<br>
+<br>
+De verplicht ingeschreven werkzoekende kan slechts eenmaal van de vrijstelling, vermeld in het eerste lid, genieten.
+
+### ART 111/33.
+
+§ 1. De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt en die met VDAB een opleidingsovereenkomst heeft gesloten van ten minste vier weken en gemiddeld ten minste twintig uur per week, wordt ambtshalve vrijgesteld voor de duur van de opleidingsovereenkomst, met een maximum van twaalf maanden.<br>
+<br>
+Als de opleidingsovereenkomst, vermeld in het eerste lid, langer duurt dan twaalf maanden, kan de vrijstelling automatisch verlengd worden tot het einde van de opleidingsovereenkomst, zonder dat hiervoor een tussenkomst van de werkzoekende is vereist.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 wordt voor de verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt en die met VDAB een individuele beroepsopleiding als vermeld in artikel 90 sluit, een halftijdse betrekking in de onderneming waar de individuele beroepsopleiding plaatsvindt, gelijkgesteld met gemiddeld twintig uur per week.<br>
+<br>
+§ 3. De toepassing van dit artikel kan uitsluitend aanleiding geven tot het verlenen van een vrijstelling en er kunnen bijgevolg geen andere rechten aan ontleend worden.
+
+### ART 111/34.
+
+De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, wordt vrijgesteld gedurende de periode waarin hij een onderwijskwalificerende opleiding volgt in een onderwijsinstelling als vermeld in artikel 87, met een opleidingsovereenkomst die met VDAB werd afgesloten en met een maximumduur van twaalf maanden.<br>
+<br>
+Als de opleidingsovereenkomst, vermeld in het eerste lid, langer duurt dan twaalf maanden, kan de vrijstelling automatisch verlengd worden tot het einde van de opleidingsovereenkomst, zonder dat hiervoor een tussenkomst van de werkzoekende is vereist.<br>
+<br>
+Als de aanvraag van een verplicht ingeschreven werkzoekende voor een vrijstelling als vermeld in het eerste lid werd geweigerd op basis van artikel 88, tweede lid, dan kan voor diezelfde opleiding geen vrijstelling worden toegekend met toepassing van dit hoofdstuk.
+
+### ART 111/35.
+
+§ 1. De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, kan op zijn verzoek een vrijstelling verkrijgen voor de periode waarin hij studies van het secundair onderwijs volgt, als de volgende voorwaarden vervuld zijn:<br>
+1° de verplicht ingeschreven werkzoekende voldoet aan de voorwaarden, vermeld in artikel 111/32, § 1;<br>
+2° de verplicht ingeschreven werkzoekende is niet als vrije leerling ingeschreven en woont de activiteiten, opgelegd door het studieprogramma, bij;<br>
+3° de studies worden door een gemeenschap georganiseerd, gesubsidieerd of erkend en behoren tot het secundair onderwijs;<br>
+4° de verplicht ingeschreven werkzoekende beschikt niet over een diploma of getuigschrift dat gelijkwaardig of hoger is dan een diploma van het secundair onderwijs;<br>
+5° de verplicht ingeschreven werkzoekende heeft zijn studies of leertijd sedert ten minste één jaar beëindigd op de dag waarop hij de vrijstelling aanvraagt;<br>
+6° de gevolgde studie of opleiding leidt tot een diploma secundair onderwijs.<br>
+<br>
+De voorwaarde, vermeld in het eerste lid, 4°, is niet van toepassing als het gaat om een opleiding secundair-na-secundair als vermeld in het decreet van 30 april 2009 betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs.<br>
+<br>
+§ 2. In dit artikel wordt verstaan onder alternerende opleiding: de opleiding, vermeld in artikel 2, 2°, van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen, en de alternerende opleiding, vermeld in artikel 1bis, tweede lid van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders.<br>
+<br>
+De verplicht ingeschreven werkzoekende die werkloosheids-of inschakelingsuitkeringen ontvangt, kan op zijn verzoek een vrijstelling verkrijgen voor de periode waarin hij een alternerende opleiding volgt.<br>
+<br>
+De vrijstelling wordt alleen toegekend als aan de volgende voorwaarden is voldaan:<br>
+1° de verplicht ingeschreven werkzoekende voldoet aan de voorwaarden, vermeld in artikel 111/32, § 1;<br>
+2° de verplicht ingeschreven werkzoekende is bij de aanvang van de alternerende opleiding geen houder van een diploma of een getuigschrift van het secundair onderwijs;<br>
+3° de financiële voordelen die de verplicht ingeschreven werkzoekende tijdens de alternerende opleiding ontvangt, zijn beperkt tot de vergoedingen ten laste van de werkgever, vastgesteld overeenkomstig de reglementering van toepassing op deze alternerende opleidingen;<br>
+4° de alternerende opleiding geeft aanleiding tot een beroepskwalificatie;<br>
+5° de verplicht ingeschreven werkzoekende heeft zijn studies of leertijd sedert ten minste één jaar beëindigd op de dag waarop hij de vrijstelling aanvraagt.<br>
+<br>
+De voorwaarde, vermeld in het derde lid, 2°, is niet van toepassing als het gaat om een opleiding secundair-na-secundair als vermeld in het decreet van 30 april 2009 betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs.<br>
+<br>
+§ 3. De verplicht ingeschreven werkzoekende kan slechts eenmaal van de vrijstelling, vermeld in dit artikel, genieten.<br>
+<br>
+In afwijking van het eerste lid, kan een werkzoekende een vrijstelling verkrijgen voor het volgen van een opleiding secundair-na-secundair indien deze aansluit op een eerder verkregen vrijstelling verkregen voor het volgen van een opleiding secundair onderwijs.
+
+### ART 111/36.
+
+De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, kan vrijgesteld worden gedurende de periode waarin hij een studie hoger onderwijs volgt die voorbereidt op een beroep waarvoor een significant tekort aan arbeidskrachten bestaat.<br>
+<br>
+De lijst van studies die voorbereiden op een beroep waarvoor er een significant tekort aan arbeidskrachten bestaat als vermeld in het eerste lid, wordt vastgesteld door de raad van bestuur van VDAB.<br>
+<br>
+De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, moet tevens voldoen aan de volgende voorwaarden:<br>
+1° de verplicht ingeschreven werkzoekende voldoet aan de voorwaarden, vermeld in artikel 111/32, § 1;<br>
+2° de verplicht ingeschreven werkzoekende is niet als vrije leerling ingeschreven en woont de activiteiten, opgelegd door het studieprogramma, bij;<br>
+3° de studies zijn door een gemeenschap georganiseerd, gesubsidieerd of erkend en behoren tot het hoger onderwijs;<br>
+4° de verplicht ingeschreven werkzoekende beschikt niet over een diploma of getuigschrift dat gelijkwaardig of hoger is dan een diploma van het hoger onderwijs, of beschikt over een diploma of getuigschrift van het hoger onderwijs waarvan VDAB oordeelt dat het weinig kansen biedt op de arbeidsmarkt;<br>
+5° de verplicht ingeschreven werkzoekende heeft zijn studies of leertijd sedert ten minste twee jaar beëindigd op de dag waarop hij de vrijstelling aanvraagt.
+
+### ART 111/37.
+
+De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, kan op zijn verzoek een vrijstelling verkrijgen voor de periode waarin hij een opleiding of het begeleidingstraject voor de vorming en opleiding in een zelfstandig beroep volgt, als de volgende voorwaarden vervuld zijn:<br>
+1° de verplicht ingeschreven werkzoekende voldoet aan de voorwaarden, vermeld in artikel 111/32, § 1;<br>
+2° de verplicht ingeschreven werkzoekende heeft de studies of een leertijd sedert ten minste twee jaar beëindigd op de dag waarop hij de vrijstelling aanvraagt.<br>
+<br>
+De verplicht ingeschreven werkzoekende kan slechts eenmaal van de vrijstelling, vermeld in het eerste lid, genieten.
+
+### ART 111/38.
+
+De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt en die als kandidaat-ondernemer een overeenkomst sluit met een activiteitencoöperatie, kan voor de periode van die overeenkomst een vrijstelling verkrijgen. De vrijstelling wordt alleen toegekend als aan de volgende voorwaarden is voldaan:<br>
+1° de verplicht ingeschreven werkzoekende voldoet aan de voorwaarden, vermeld in artikel 111/32, § 1, 1°, 2°, 4° en 5° ;<br>
+2° de activiteitencoöperatie is erkend conform artikel 81, § 3, van de wet van 1 maart 2007 houdende diverse bepalingen (III);<br>
+3° de verplicht ingeschreven werkzoekende behoort tot de doelgroep van moeilijk te plaatsen werklozen of andere kansengroepen, vermeld in artikel 1 van het koninklijk besluit van 15 juni 2009 houdende diverse bepalingen betreffende het statuut van kandidaat-ondernemer in een activiteitencoöperatie.<br>
+<br>
+De vrijstelling wordt toegekend voor de duur van de overeenkomst, vermeld in het eerste lid, met een maximum van twaalf maanden. Ze kan verschillende keren worden toegekend, op voorwaarde dat de gecumuleerde duur van de periodes van vrijstelling voor een of meer overeenkomsten niet meer bedraagt dan achttien maanden.
+
 ## [Afdeling 2. Werkingsprincipes (ing. BVR 23 december 2016, art. 7, I: 1 januari 2017)]
+
+### ART 111/39.
+
+§ 1. Met toepassing van afdeling 1 wordt de vrijstelling van dit hoofdstuk toegekend voor de duurtijd van de studie, opleiding of stage, met inbegrip van de daarin gelegen vakantieperiodes, evenwel beperkt tot twaalf maanden.<br>
+<br>
+Tenzij anders is bepaald in dit hoofdstuk, kan de vrijstelling, vermeld in het eerste lid, telkens verlengd worden voor een periode van ten hoogste twaalf maanden als VDAB vaststelt dat de verplicht ingeschreven werkzoekende aan een van de volgende voorwaarden voldoet:<br>
+1° hij volgt de studie, opleiding of stage op regelmatige wijze en werkt actief mee aan de door VDAB voorgestelde acties;<br>
+2° hij heeft zijn opleidingsjaar met vrucht afgerond en werkt actief mee aan de door VDAB voorgestelde acties.<br>
+<br>
+§ 2. De verplicht ingeschreven werkzoekende die al een vrijstelling had gekregen van de RVA met toepassing van artikel 91 tot en met 94 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering, zoals van kracht vóór 1 januari 2017, blijft vrijgesteld voor de duurtijd van de gegeven vrijstelling, beperkt tot twaalf maanden na de initiële beslissing tot vrijstelling. Hij kan een vernieuwing van de voormelde vrijstelling aanvragen bij VDAB, met toepassing van dit hoofdstuk.<br>
+<br>
+§ 3. De verplicht ingeschreven werkzoekende die al een vrijstelling had gekregen voor een studie, opleiding of stage in een ander gewest, blijft vrijgesteld voor een periode tot twaalf maanden na de initiële beslissing tot vrijstelling. Hij kan een vernieuwing van de voormelde vrijstelling aanvragen bij VDAB, met toepassing van dit hoofdstuk.<br>
+<br>
+§ 4. De raad van bestuur van VDAB bepaalt de inhoud en het model van de documenten die gebruikt worden bij de aanvraag van een vrijstelling als vermeld in afdeling 1. De raad van bestuur van VDAB bepaalt ook de wijze waarop de aanvraag om vrijstelling moet worden aangevraagd.
+
+### ART 111/40.
+
+§ 1. Als de verplicht ingeschreven werkzoekende niet langer voldoet aan de voorwaarden, vermeld in deze afdeling, wordt zijn vrijstelling stopgezet.<br>
+<br>
+VDAB kan een aanwezigheidsattest vragen aan de werkzoekende met vrijstelling.<br>
+<br>
+§ 2. Als blijkt dat de verplicht ingeschreven werkzoekende een formeel afsprakenblad, gemaakt in het kader van de voormelde vrijstelling, niet naleeft, kan een ultiem afsprakenblad worden opgesteld conform artikel 111/12. Als het dossier van de verplicht ingeschreven werkzoekende wordt bezorgd aan de controledienst met toepassing van artikel 111/13, en de controledienst neemt een negatieve beslissing, dan wordt de vrijstelling stopgezet. De verplicht ingeschreven werkzoekende van wie de vrijstelling werd ingetrokken, wordt daarvan op de hoogte gebracht.<br>
+<br>
+§ 3. Als de verplicht ingeschreven werkzoekende niet ingaat op een afspraak met VDAB die tot doel heeft de studie, opleiding of stage op te volgen waarvoor vrijstelling werd verleend, wordt zijn dossier aan de controledienst bezorgd conform artikel 111/6. Als de controledienst een negatieve beslissing neemt, wordt de vrijstelling stopgezet. De verplicht ingeschreven werkzoekende wordt hiervan op de hoogte gebracht.<br>
+<br>
+§ 4. Als de verplicht ingeschreven werkzoekende zijn studie, opleiding of stage stopzet om redenen die aan hemzelf te wijten zijn, wordt de vrijstelling stopgezet en wordt zijn dossier aan de controledienst bezorgd met toepassing van artikel 111/16, eerste lid, 4°.
+
+### ART 111/41.
+
+Met behoud van de toepassing van de wettelijke en reglementaire bepalingen over verjaring kan VDAB de beslissing over het al dan niet geven van een vrijstelling met toepassing van dit hoofdstuk herzien als:<br>
+1° vastgesteld wordt dat de beslissing van VDAB is aangetast door een juridische of materiële vergissing;<br>
+2° vastgesteld wordt dat de beslissing van VDAB is aangetast doordat de verplicht ingeschreven werkzoekende onjuiste of onvolledige verklaringen heeft afgelegd, een vereiste aangifte niet of te laat heeft gedaan, onjuiste of vervalste stukken heeft voorgelegd of onregelmatigheden heeft begaan.<br>
+<br>
+De nieuwe beslissing heeft uitwerking op de datum waarop de verbeterde beslissing had moeten ingaan, met behoud van de toepassing van de wettelijke en reglementaire bepalingen over verjaring. De beslissing wordt aan de RVA meegedeeld.<br>
+<br>
+Als tegen de beslissing van VDAB beroep is ingesteld en die beslissing wordt herzien met toepassing van het eerste lid, wordt de herziening aan het bevoegde arbeidsgerecht meegedeeld.
+
+### ART 111/42.
+
+Elke gemotiveerde beslissing van VDAB over de vrijstelling wordt meegedeeld aan de verplicht ingeschreven werkzoekende en vermeldt onder meer de beroepsmogelijkheid, de bevoegde rechtbank, de termijn waarin en de wijze waarop het beroep moet worden ingesteld.<br>
+<br>
+Als een beroep bij de arbeidsrechtbank wordt ingesteld tegen een beslissing van VDAB, wordt de RVA daarvan op de hoogte gebracht.
 
 ## TITEL IV. Slotbepalingen
 
