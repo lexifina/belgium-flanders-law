@@ -27,16 +27,16 @@ Besluit :<br>
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder : <br />1° het agentschap : het Vlaams Agentschap voor Personen met een Handicap;<br />2° VIPA-investeringssubsidies : de door het agentschap krachtens het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden toegekende investeringssubsidie;<br />3° VIPA-alternatieve subsidiering : de toegekende gebruikstoelage, vermeld in artikel 36 van het besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de alternatieve investeringssubsidies verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden.<br /><br />
+...
 
 ### ART. 2.
 
-De aan het agentschap jaarlijks toegewezen middelen, afkomstig van de aan de Vlaamse Gemeenschap toebedeelde winst van de Nationale Loterij, worden, binnen de perken van de hiervoor op de begroting van het agentschap ingeschreven middelen, toegekend aan voorzieningen, diensten of organisaties en worden als volgt verdeeld : <br />1° aan de door het agentschap erkende voorzieningen wordt een aanvullende subsidie voor investeringen toegekend van 20 % van de VIPA-investeringssubsidie en van 20 % van de VIPA-alternatieve subsidiëring.<br />Als de voor een begrotingsjaar ingeschreven middelen niet toelaten deze bepalingen volledig uit te voeren, worden de aanvullende subsidies voor investeringen evenredig verminderd;<br />2° aan de voorzieningen, diensten en organisaties die actief zijn inzake de sociale integratie van personen met een handicap, wordt een aanvullende werkingssubsidie toegekend. De criteria voor de verdeling ervan worden bepaald door het agentschap na voorafname van de in 1° bedoelde bedragen.<br /><br />
+...
 
 ### ART. 3.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2003.<br /><br />
+...
 
 ### ART. 4.
 
-De Vlaamse minister, bevoegd voor de Bijstand aan Personen, is belast met de uitvoering van dit besluit.<br /><br />
+...

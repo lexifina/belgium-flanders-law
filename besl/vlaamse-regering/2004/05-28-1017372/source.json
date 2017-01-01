@@ -2,16 +2,16 @@
   "codex_id": 1017372,
   "title": "Besluit van de Vlaamse Regering van 2004-05-28 houdende de toekenning van subsidies, afkomstig van de aan de Vlaamse Gemeenschap toebedeelde winst van de Nationale Loterij, aan het [Vlaams Agentschap voor Personen met een Handicap (verv. BVR 12 december 2008, art. 1)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017372/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "c6ca08204a69fb1f4bac2baf6dbf0f5ef76829d0645cc9017c878d6583b0ac51",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017372/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "1d0da798170b7a0c4cccfdd1e695290088934a34541b65d83c9d750f9140c84c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017372&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2017-01-01",
   "made": "2004-05-28",
   "gazette": "2008-12-22",
   "numac": 2008204562,
   "document_start": "2003-01-01",
   "document_end": "2016-12-31",
-  "in_force": "2008-01-01",
+  "in_force": "2017-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
