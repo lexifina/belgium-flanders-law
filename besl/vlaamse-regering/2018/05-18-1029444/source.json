@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029444,
+  "title": "Besluit van de Vlaamse Regering van 2018-05-18 tot aanpassing van de vergoeding van de voorzitters van de lokale overlegplatforms, de bemiddelingscommissie, de commissie leerlingenrechten en de commissie zorgvuldig bestuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029444/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "28ab801d9305e075e4cb8540abb452785b2c04b85d8e14b4ab7201d432b8db31",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029444&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2018-05-18",
+  "gazette": "2018-06-21",
+  "numac": 2018012592,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
