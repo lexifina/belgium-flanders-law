@@ -71,7 +71,7 @@ Onverminderd de toepassing van het derde lid van dit artikel, moeten kandidaten 
 <br>
 In afwijking van het vorige lid, kunnen kandidaten bij hun dossier een gemotiveerd verzoek voegen tot afwijking van de bepalingen vermeld in het eerste lid, 1°, 2°, 3° en 4°. De Regulator kan een beperkte afwijking toestaan.<br>
 <br>
-De informatie, vermeld in het eerste lid, wordt ter beschikking gesteld via de website van het Departement Cultuur, Jeugd, Sport en Media van de Vlaamse overheid en via de website van de Regulator, en kan ook worden opgevraagd bij die instanties. De informatie staat ter beschikking vanaf de publicatie van een oproep in het Belgisch Staatsblad tot het indienen van kandidaatstellingen.<br>
+De informatie, vermeld in het eerste lid, wordt ter beschikking gesteld via de website van het Departement Cultuur, Jeugd en Media van de Vlaamse overheid en via de website van de Regulator, en kan ook worden opgevraagd bij die instanties. De informatie staat ter beschikking vanaf de publicatie van een oproep in het Belgisch Staatsblad tot het indienen van kandidaatstellingen.<br>
 &nbsp;
 
 ### ART. 9.
@@ -120,7 +120,12 @@ De licentiehouder betaalt vanaf het eerste volle kalenderjaar een jaarlijkse ver
 
 ### ART. 19.
 
-Overeenkomstig artikel 118 van het Mediadecreet kent de Regulator, na het verlenen van de licentie voor het aanbieden van een radio- of televisieomroepnetwerk, de nodige zendvergunningen en/of transportvergunningen toe aan de licentiehouder.<br /><br />Voor elke opgestelde zender vraagt de licentiehouder voor de ingebruikname van de zender een zendvergunning. De zendvergunning wordt toegekend per frequentieblok en frequentiekanaal, voor de duur van de licentie voor het netwerk.<br /><br />Daarvoor deelt de licentiehouder de nodige voorgestelde technische karakteristieken van de frequentieassignaties die voortkomen uit de allotments, mee aan de Regulator. De Regulator bezorgt die karakteristieken zo snel mogelijk aan het Departement Cultuur, Jeugd, Sport en Media van de Vlaamse overheid voor verder onderzoek over de inpasbaarheid ervan in het frequentieplan en voor het opstarten van de coördinatie via de bevoegde federale instantie van die frequentieassignaties op internationaal niveau en op het niveau van de andere gemeenschappen.<br /><br />
+Overeenkomstig artikel 118 van het Mediadecreet kent de Regulator, na het verlenen van de licentie voor het aanbieden van een radio- of televisieomroepnetwerk, de nodige zendvergunningen en/of transportvergunningen toe aan de licentiehouder.<br>
+<br>
+Voor elke opgestelde zender vraagt de licentiehouder voor de ingebruikname van de zender een zendvergunning. De zendvergunning wordt toegekend per frequentieblok en frequentiekanaal, voor de duur van de licentie voor het netwerk.<br>
+<br>
+Daarvoor deelt de licentiehouder de nodige voorgestelde technische karakteristieken van de frequentieassignaties die voortkomen uit de allotments, mee aan de Regulator. De Regulator bezorgt die karakteristieken zo snel mogelijk aan het Departement Cultuur, Jeugd en Media van de Vlaamse overheid voor verder onderzoek over de inpasbaarheid ervan in het frequentieplan en voor het opstarten van de coördinatie via de bevoegde federale instantie van die frequentieassignaties op internationaal niveau en op het niveau van de andere gemeenschappen.<br>
+&nbsp;
 
 ### ART. 20.
 
@@ -132,7 +137,8 @@ Om ontvankelijk te zijn omvat de aanvraag voor een transportvergunning voor een 
 
 ### ART. 22.
 
-Elke wijziging in technische karakteristieken van frequentieassignaties als vermeld in punt D van de bijlage die bij dit besluit is gevoegd, wordt zo snel mogelijk aan de Regulator meegedeeld. De Regulator bezorgt die wijzigingen zo snel mogelijk aan het Departement Cultuur, Jeugd, Sport en Media van de Vlaamse overheid voor verder onderzoek over de inpasbaarheid ervan in het frequentieplan en voor het opstarten van de coördinatie via de bevoegde federale instantie van deze frequentieassignaties op internationaal niveau en op het niveau van de andere gemeenschappen.<br /><br />
+Elke wijziging in technische karakteristieken van frequentieassignaties als vermeld in punt D van de bijlage die bij dit besluit is gevoegd, wordt zo snel mogelijk aan de Regulator meegedeeld. De Regulator bezorgt die wijzigingen zo snel mogelijk aan het Departement Cultuur, Jeugd en Media van de Vlaamse overheid voor verder onderzoek over de inpasbaarheid ervan in het frequentieplan en voor het opstarten van de coördinatie via de bevoegde federale instantie van deze frequentieassignaties op internationaal niveau en op het niveau van de andere gemeenschappen.<br>
+&nbsp;
 
 ### ART. 23.
 
