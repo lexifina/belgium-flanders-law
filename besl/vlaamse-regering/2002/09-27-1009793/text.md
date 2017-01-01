@@ -4,7 +4,19 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° bestuur:<br />a) het orgaan bedoeld in:<br />- artikel 3, 50° van het decreet basisonderwijs van 25 februari 1997;<br />- artikel 3, 40°, van de codificatie betreffende het secundair onderwijs, <br />- artikel 2, 3° van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br />- artikel 3, 7° van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenen-onderwijs;<br />b) de inrichtende macht van een instelling voor deeltijds kunstonderwijs;<br />2° betrokkenen: de betrokkenen bedoeld in artikel V.29 van het decreet;<br />3° Commissie: de Commissie zorgvuldig bestuur, bedoeld in Afdeling 2 van Hoofdstuk V van het decreet;<br />4° decreet: het decreet van 13 juli 2001 betreffende het onderwijs XIII-Mozaïek;<br />5° leden: de voorzitter van de Commissie, en de in artikel V.22, tweede lid van het decreet bedoelde personen;<br />6° minister: de Vlaamse minister, bevoegd voor het onderwijs.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° bestuur:<br>
+a) het orgaan bedoeld in:<br>
+- artikel 3, 50° van het decreet basisonderwijs van 25 februari 1997;<br>
+- artikel 3, 40°, van de codificatie betreffende het secundair onderwijs,<br>
+- artikel 2, 3° van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br>
+- artikel 2, 5° van het decreet volwassenenonderwijs van 15 juni 2007;<br>
+b) de inrichtende macht van een instelling voor deeltijds kunstonderwijs;<br>
+2° betrokkenen: de betrokkenen bedoeld in artikel VII.9 van de Codificatie sommige bepalingen voor het onderwijs;<br>
+3° Commissie: de Commissie zorgvuldig bestuur, bedoeld in de Codificatie sommige bepalingen voor het onderwijs;<br>
+4° decreet: de Codificatie sommige bepalingen voor het onderwijs;<br>
+5° leden: de voorzitter van de Commissie en de in artikel VII.2, tweede lid, van de Codificatie sommige bepalingen voor het onderwijs, bedoelde personen;<br>
+6° minister: de Vlaamse minister, bevoegd voor het onderwijs.
 
 ## HOOFDSTUK II AANSTELLING, DUUR VAN HET MANDAAT EN VERGOEDING VAN DE LEDEN VAN DE COMMISSIE
 
@@ -20,14 +32,20 @@ In elk geval behoudt de Commissie haar bevoegdheden tot de nieuwe Commissie is s
 <br>
 Onverminderd de bepalingen van het eerste lid eindigt het mandaat:<br>
 1° in geval van ontslagneming, vanaf het ogenblik van aanvaarding van het ontslag door de minister;<br>
-2° ambtshalve wanneer niet meer voldaan is aan de in artikel V.22 en V.23 van het decreet bedoelde aanstellingsvoorwaarden;<br>
+2° ambtshalve wanneer niet meer voldaan is aan de in artikel&nbsp; VII.2 en VII.3 van de Codificatie sommige bepalingen voor het onderwijs bedoelde aanstellingsvoorwaarden;<br>
 3° in geval van overlijden.<br>
 <br>
 Bij het vroegtijdig beëindigen van het mandaat van effectief lid, voltooit de plaatsvervanger als effectief lid de lopende mandaatperiode van zijn voorganger. De minister duidt een nieuwe plaatsvervanger aan.
 
 ### ART. 4.
 
-De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 2.480 euro.<br /><br />De andere leden dan de voorzitter ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig de regeling van de rechtspositie van toepassing op het personeel van het ministerie van de Vlaamse Gemeenschap.<br /><br />De secretaris ontvangt een jaarlijkse forfaitaire vergoeding van 500 euro.
+De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 4.000 euro.<br>
+<br>
+De vergoeding wordt jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, en dit indexcijfer wordt voor 75 % toegepast.<br>
+<br>
+De andere leden dan de voorzitter ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig de regeling van de rechtspositie van toepassing op het personeel van het ministerie van de Vlaamse Gemeenschap.<br>
+<br>
+De secretaris ontvangt een jaarlijkse forfaitaire vergoeding van 500 euro als de zittingen geheel of gedeeltelijk plaatsvinden buiten de normale diensttijd.
 
 ## HOOFDSTUK III WERKING
 
@@ -35,11 +53,15 @@ De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 2.480 euro.<br 
 
 ### ART. 5.
 
-De kamer van de Commissie, bevoegd voor het basisonderwijs, behandelt op de zitting alle vragen en klachten met betrekking tot inbreuken op de in artikel V.25, eerste lid van het decreet bedoelde beginselen, vastgesteld in een school voor basisonderwijs.<br /><br />De kamer van de Commissie, bevoegd voor het secundair onderwijs, de centra voor leerlingenbegeleiding, het deeltijds kunstonderwijs en het volwassenenonderwijs, behandelt op de zitting alle vragen en klachten met betrekking tot inbreuken op de in artikel V.25, eerste lid van het decreet bedoelde beginselen, vastgesteld in een school voor secundair onderwijs, een centrum voor leerlingenbegeleiding, een instelling voor deeltijds kunstonderwijs of een centrum voor volwassenenonderwijs.<br /><br />Gemeenschappelijke vragen en klachten worden door de beide kamers samen behandeld op de wijze voorgeschreven door het reglement van orde.
+De kamer van de Commissie, bevoegd voor het basisonderwijs, behandelt op de zitting alle vragen en klachten met betrekking tot inbreuken op de artikel VII.5, eerste lid, van de Codificatie sommige bepalingen voor het onderwijs bedoelde beginselen, vastgesteld in een school voor basisonderwijs.<br>
+<br>
+De kamer van de Commissie, bevoegd voor het secundair onderwijs, de centra voor leerlingenbegeleiding, het deeltijds kunstonderwijs en het volwassenenonderwijs, behandelt op de zitting alle vragen en klachten met betrekking tot inbreuken op de artikel VII.5, eerste lid, van de Codificatie sommige bepalingen voor het onderwijs bedoelde beginselen, vastgesteld in een school voor secundair onderwijs, een centrum voor leerlingenbegeleiding, een instelling voor deeltijds kunstonderwijs of een centrum voor volwassenenonderwijs.<br>
+<br>
+Gemeenschappelijke vragen en klachten worden door de beide kamers samen behandeld op de wijze voorgeschreven door het reglement van orde.
 
 ### ART. 6.
 
-De voorzitter oordeelt over de ontvankelijkheid van de vragen en klachten. Hij toetst deze daarbij aan de bepalingen van artikel V.25, V.26 en V.28 van het decreet. De indiener van een klacht wordt onverwijld schriftelijk in kennis gesteld van de eventuele onontvankelijkheid.
+De voorzitter oordeelt over de ontvankelijkheid van de vragen en klachten. Hij toetst deze daarbij aan de bepalingen van artikel&nbsp; VII.5, VII.6, VII.8 van de Codificatie sommige bepalingen voor het onderwijs. De indiener van een klacht wordt onverwijld schriftelijk in kennis gesteld van de eventuele onontvankelijkheid.
 
 ### ART. 7.
 
@@ -59,7 +81,7 @@ De minister bekrachtigt het door de Commissie opgestelde reglement van orde.
 
 ### ART. 10.
 
-De in artikel V.29 van het decreet bedoelde schriftelijke kennisgeving omvat de datum van behandeling van de klacht en van de lijst van effectieve en plaatsvervangende leden.
+De in artikel VII.9 van de Codificatie sommige bepalingen voor het onderwijs bedoelde schriftelijke kennisgeving omvat de datum van behandeling van de klacht en van de lijst van effectieve en plaatsvervangende leden.
 
 ### ART. 11.
 
@@ -75,13 +97,13 @@ Behoudens in het geval van overmacht, is een beslissing geldig bij afwezigheid v
 
 ### ART. 14.
 
-De in artikel V.32, eerste lid van het decreet bedoelde termijn van zestig kalenderdagen wordt geschorst gedurende de periode van 6 juli tot en met 15 augustus.
+De in artikel VII.12, eerste lid, van de Codificatie sommige bepalingen voor het onderwijs bedoelde termijn van zestig kalenderdagen wordt geschorst gedurende de periode van 6 juli tot en met 15 augustus.
 
 ## ONDERAFDELING 2 PROCEDURE
 
 ### ART. 15.
 
-Binnen een termijn van vijftien kalenderdagen, die ingaat op de dag na die van de in artikel V.29 van het decreet bedoelde kennisgeving, kan het betrokken bestuur een verweerschrift indienen.<br>
+Binnen een termijn van vijftien kalenderdagen, die ingaat op de dag na die van de in artikel VII.9 van de Codificatie sommige bepalingen voor het onderwijs bedoelde kennisgeving, kan het betrokken bestuur een verweerschrift indienen.<br>
 <br>
 De voorzitter kan op verzoek en rekening houdend met de complexiteit van een dossier:<br>
 1° een verlenging van de in het eerste lid bedoelde termijn toestaan;<br>
@@ -89,7 +111,7 @@ De voorzitter kan op verzoek en rekening houdend met de complexiteit van een dos
 
 ### ART. 16.
 
-§ 1. Wanneer de Commissie beslist dat een klacht ongegrond is of geen aanleiding kan geven tot een sanctie, wordt deze beslissing onverwijld betekend overeenkomstig artikel V.32, tweede lid van het decreet.<br>
+§ 1. Wanneer de Commissie beslist dat een klacht ongegrond is of geen aanleiding kan geven tot een sanctie, wordt deze beslissing onverwijld betekend overeenkomstig artikel VII.12, tweede lid, van de Codificatie sommige bepalingen voor het onderwijs.<br>
 <br>
 § 2. Wanneer de Commissie oordeelt dat een klacht gegrond is en aanleiding geeft tot een sanctie, nodigt zij het betrokken bestuur voorafgaand aan de betekening van de beslissing uit om de bestreden rechtshandeling in te trekken of te herzien of in een passende genoegdoening te voorzien. De Commissie bepaalt daartoe de termijn waarover het bestuur beschikt.<br>
 <br>
@@ -97,7 +119,7 @@ De Commissie oordeelt na verloop van de verleende termijn of:<br>
 1° het geboden rechtsherstel redelijkerwijs als afdoende kan worden beschouwd;<br>
 2° de voorgestelde sanctie alsnog redelijkerwijs verantwoord is.<br>
 <br>
-De beslissing over de gegrondheid van de klacht en de eventuele sanctie worden vervolgens betekend overeenkomstig artikel V.32, tweede lid van het decreet.
+De beslissing over de gegrondheid van de klacht en de eventuele sanctie worden vervolgens betekend overeenkomstig artikel VII.12, tweede lid, van de Codificatie sommige bepalingen voor het onderwijs.
 
 ## AFDELING 3 VRAGEN
 
