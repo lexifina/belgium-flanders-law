@@ -126,6 +126,10 @@ Tussen de VARIO en het Departement Economie, Wetenschap en Innovatie wordt een p
 De geldelijke vergoeding aan de leden wordt vastgelegd op 250 euro/vergadering. De geldelijke vergoeding aan de voorzitter wordt vastgelegd op 500 euro/vergadering.<br>
 &nbsp;
 
+### ART 14/1.
+
+De voorzitter en de leden krijgen voor de verplaatsing naar de vergaderingen een vergoeding van de reiskosten conform artikel VII 80 van het Vlaams personeelsstatuut van 13 januari 2006.
+
 ## HOOFDSTUK 6 International Advisory Board (IAB)
 
 ### ART 15.
