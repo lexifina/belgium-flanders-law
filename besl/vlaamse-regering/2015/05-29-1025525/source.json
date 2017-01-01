@@ -2,16 +2,16 @@
   "codex_id": 1025525,
   "title": "Besluit van de Vlaamse Regering van 2015-05-29 betreffende de toekenning van projectsubsidies van maximaal 301.000 euro voor de uitvoering van pilootprojecten in het schooljaar 2015-2016 ter voorbereiding op de hervorming van het deeltijds kunstonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025525/VolledigDocument?datum=2015-07-10",
-  "source_sha256": "63434d1f8b58aa219327007b942e21a9f8d662286ecd765f1733504fcba01c80",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025525/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "85f5e286948f84a796fefd032aaecde5d35b02fec41a73307dc3a7d4845958ae",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025525&param=informatie",
-  "as_of": "2015-07-10",
+  "as_of": "2017-01-01",
   "made": "2015-05-29",
   "gazette": "2015-06-30",
   "numac": 2015035819,
   "document_start": "2015-07-10",
   "document_end": "2023-08-31",
-  "in_force": "2015-07-10",
+  "in_force": "2017-01-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2015-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
