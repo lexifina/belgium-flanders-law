@@ -7,10 +7,8 @@ Dit besluit is van toepassing op:<br>
 2° de personeelsleden bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br>
 3° de personeelsleden bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde psycho-medisch-sociale centra;<br>
 4° de gesubsidieerde personeelsleden van de instellingen voor hoger onderwijs van het lange type gesubsidieerd door de Vlaamse Gemeenschap;<br>
-5° de leden van de inspectie voor Onderwijs van de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten;<br>
-6° de leden van de inspectie voor de PMS-centra van de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten;<br>
-7° de personeelsleden van de Dienst voor Onderwijsontwikkeling bedoeld in artikel 9 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten;<br>
-8° de personeelsleden van de Pedagogische Begeleidingsdiensten bedoeld in artikel 88 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten.
+5° de leden van de onderwijsinspectie, bedoeld in het decreet betreffende de kwaliteit van onderwijs;<br>
+6° de personeelsleden van de pedagogische begeleidingsdiensten, bedoeld in het decreet betreffende de kwaliteit van onderwijs;
 
 ### ART. 2.
 
