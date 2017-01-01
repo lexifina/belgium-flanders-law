@@ -12,7 +12,7 @@ Voor de toepassing van dit besluit dient te worden verstaan onder:<br>
 1° minister: de Vlaamse minister bevoegd voor het onderwijs;<br>
 2° secretaris-generaal: de secretaris-generaal van het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap of de door hem aangewezen ambtenaar;<br>
 3° onderwijskundig beleids- en praktijkgericht wetenschappelijk onderzoek: de projecten bedoeld met betrekking tot de prospectie, de voorbereiding, de begeleiding, de ondersteuning en de evaluatie van het onderwijsbeleid en de onderwijspraktijk;<br>
-4° universiteiten: de universiteiten vermeld in artikel 3 van het decreet van 12 juni 1991 betreffende de universiteiten van de Vlaamse Gemeenschap.
+4° universiteiten: de universiteiten vermeld in de Codex Hoger Onderwijs.
 
 ## HOOFDSTUK II BEPALING VAN PRIORITAIRE ONDERZOEKSTHEMA'S
 
