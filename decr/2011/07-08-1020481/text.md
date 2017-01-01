@@ -16,9 +16,9 @@ Voor de toepassing van dit decreet wordt verstaan onder :<BR>1°   Algemenebepal
 
 ### ART. 4.
 
-<p>§ 1. Dit decreet is van toepassing op :<br>
+§ 1. Dit decreet is van toepassing op :<br>
 <br>
-1° wat de Vlaamse Gemeenschap en het Vlaamse Gewest betreft : de Vlaamse ministeries en de diensten met afzonderlijk beheer;&nbsp;<br>
+1° wat de Vlaamse Gemeenschap en het Vlaamse Gewest betreft : de Vlaamse ministeries en de diensten met afzonderlijk beheer;<br>
 <br>
 2° de volgende rechtspersonen:<br>
 <br>
@@ -31,7 +31,7 @@ a) intern verzelfstandigde agentschappen met rechtspersoonlijkheid:<br>
 6) Vlaams Agentschap voor Personen met een Handicap - VAPH;<br>
 7) Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden - VIPA;<br>
 8) Vlaams Toekomstfonds;<br>
-9) Vlaams Zorgfonds;<br>
+9) Agentschap voor Vlaamse Sociale Bescherming;<br>
 10) Vlaamse Milieumaatschappij - VMM;<br>
 <br>
 b) extern verzelfstandigde agentschappen naar publiek recht:<br>
@@ -85,7 +85,7 @@ f) eigen vermogens:<br>
 2) Eigen vermogen Flanders Hydraulics;<br>
 3) Eigen vermogen Instituut voor Natuur- en Bosonderzoek - INBO;<br>
 4) Ondersteunend centrum van het Agentschap voor Natuur en Bos - ANB;<br>
-5) Eigen Vermogen Informatie Vlaanderen - AIV<br>
+5) Eigen Vermogen Informatie Vlaanderen - AIV.<br>
 <br>
 g) strategische adviesraden:<br>
 1) Milieu- en Natuurraad van Vlaanderen - Minaraad;<br>
@@ -98,7 +98,7 @@ g) strategische adviesraden:<br>
 <br>
 § 2. Artikel 37, § 1, artikel 46, § 2, artikel 48, en artikel 50, § 2, zijn ook van toepassing op alle andere rechtspersonen dan deze die vermeld worden in paragraaf 1 als die, in overeenstemming met het Europees systeem van nationale en regionale rekeningen, vermeld in verordening (EG) nr. 2223/96 van de Raad van 25 juni 1996 betreffende het Europees systeem van de nationale en regionale rekeningen in de gemeenschap, deel uitmaken van de Vlaamse deel-staatoverheid door onder sectorale code 13.12 te ressorteren.<br>
 <br>
-§ 3. Jaarlijks wordt de lijst van Vlaamse rechtspersonen die bedoeld wordt onder paragraaf 2 opgenomen in het begrotingsdecreet.</p>
+§ 3. Jaarlijks wordt de lijst van Vlaamse rechtspersonen die bedoeld wordt onder paragraaf 2 opgenomen in het begrotingsdecreet.
 
 ### ART. 5.
 
