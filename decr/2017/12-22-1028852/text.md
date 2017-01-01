@@ -85,6 +85,13 @@ Het fonds wordt aangewend voor de werking van het Vlaams Cultureel Centrum Voere
 
 ## Afdeling 1 Gecombineerd vervoer
 
+### ART 96.
+
+In artikel 2.2.6.0.4 van de Vlaamse Codex Fiscaliteit van 13 december 2013, gewijzigd bij het decreet van 23 december 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid wordt het cijfer "220" telkens vervangen door het cijfer "100";<br>
+2° in het derde lid, 1°, worden de woorden "en waarbij de overslagverrichting in België gebeurt" opgeheven.<br>
+&nbsp;
+
 ## Afdeling 2 Administratieve geldboetes kilometerheffing
 
 ## HOOFDSTUK 8 Inwerkingtreding
