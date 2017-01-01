@@ -25,8 +25,8 @@ e) de taken van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenh
 f) de taken van de openbare psychiatrische zorgcentra Geel en Rekem, vermeld in het decreet van 30 april 2004 tot oprichting van de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen Openbaar Psychiatrisch Zorgcentrum Geel en Openbaar Psychiatrisch Zorgcentrum Rekem;<br>
 2° de taken van beleid met betrekking tot de persoonsgebonden aangelegenheden op het vlak van de bijstand aan personen, vermeld in artikel 5, § 1, II, 5°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 3° in het kader van de volksgezondheid het uitvoeren van inspecties, de advisering over milieuvergunningen en het behandelen van klachten en incidenten;<br>
-4° het beheren van het Vlaams Zorgfonds;<br>
-5° het ter beschikking stellen van personeel aan de zorgkas, vermeld in artikel 14, derde lid, van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering.<br>
+4° het beheren van het Agentschap voor Vlaamse Sociale Bescherming;<br>
+5° het ter beschikking stellen van personeel aan de vzw Vlaamse Zorgkas, vermeld in artikel 18, § 1, van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming.<br>
 <br>
 Het agentschap kan infrastructuur en uitrusting ter beschikking stellen van de zorgkas, vermeld in het eerste lid, 5°.
 
@@ -36,7 +36,7 @@ Het agentschap kan infrastructuur en uitrusting ter beschikking stellen van de z
 
 ### ART. 5.
 
-Bij het uitoefenen van zijn missie en taken treedt het agentschap op namens de rechtspersoon Vlaamse Gemeenschap. Bij het uitoefenen van de taak, vermeld in [artikel 3, eerste lid, 4°,  <span class="reference">(verv. B.V.R. 31 maart 2006, art. 32, I: 1 april 2006)</span> ] treedt het agentschap op namens de rechtspersoon Vlaams Zorgfonds.
+Bij het uitoefenen van zijn missie en taken treedt het agentschap op namens de rechtspersoon Vlaamse Gemeenschap. Bij het uitoefenen van de taak, vermeld in [artikel 3, eerste lid, 4°, (verv. B.V.R. 31 maart 2006, art. 32, I: 1 april 2006) ] treedt het agentschap op namens de rechtspersoon Agentschap voor Vlaamse Sociale Bescherming.
 
 ### ART. 6.
 
@@ -66,7 +66,7 @@ De minister stuurt het agentschap aan.
 
 ### ART. 12.
 
-Het hoofd van het agentschap is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap en van het Vlaamse Zorgfonds, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.
+Het hoofd van het agentschap is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap en van het Agentschap voor Vlaamse Sociale Bescherming, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.
 
 ## HOOFDSTUK III DELEGATIE VAN BESLISSINGSBEVOEGDHEDEN
 
@@ -86,11 +86,10 @@ De algemene delegatie aan het hoofd van het agentschap betreffende de toezichts-
 
 Naast de delegaties betreffende de aangelegenheden bedoeld in artikel 13, worden aan het hoofd van het agentschap volgende specifieke delegaties verleend:<br>
 1° het verlenen van afwijkingen inzake brandveiligheidsnormen en erkenningsnormen;<br>
-2° het verlenen van niet-gereglementeerde subsidies, die niet nominatim in de begroting zijn vermeld, tot een&nbsp;maximaal bedrag van 150.000 euro;<br>
+2° het verlenen van niet-gereglementeerde subsidies, die niet nominatim in de begroting zijn vermeld, tot een maximaal bedrag van 150.000 euro;<br>
 3° het verlenen van subsidies die nominatim in de begroting zijn vermeld;<br>
 4° het afleveren van inschrijvingsbewijzen aan het verzorgend personeel van de diensten voor gezinszorg en aanvullende thuiszorg;<br>
-5° het beheren van het Vlaams Zorgfonds;<br>
-6° ...
+5° het beheren van Agentschap voor Vlaamse Sociale Bescherming.
 
 ### ART. 15.
 
