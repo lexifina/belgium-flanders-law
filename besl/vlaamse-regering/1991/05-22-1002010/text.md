@@ -180,7 +180,21 @@ De raad van beroep stelt een huishoudelijk reglement op en legt het ter goedkeur
 
 ### ART. 33ter.
 
-§ 1. De kamer van beroep wordt samengesteld uit een effectieve voorzitter en twee plaatsvervangende voorzitters en uit twaalf effectieve en twaalf plaatsvervangende leden. Een plaatsvervangend lid kan pas zitting hebben als het effectieve lid afwezig is of als het effectieve lid gewraakt wordt.<br /><br />§ 2. De effectieve voorzitter en de plaatsvervangende voorzitters worden benoemd door de Vlaamse minister, bevoegd voor het onderwijs.<br /><br />§ 3. Het gemeenschapsonderwijs enerzijds en de representatieve vakorganisaties anderzijds wijzen een gelijk aantal effectieve en plaatsvervangende leden van de kamer van beroep aan. <br /><br />§ 4. Tijdens hun mandaat in de kamer van beroep kunnen de effectieve en de plaatsvervangende voorzitters en leden geen personeelslid of tuchtoverheid bijstaan of vertegenwoordigen in de kamer van beroep. <br /><br />§ 5. De leden kunnen aanspraak maken op de reis- en dagvergoeding voor binnenlandse reizen overeenkomstig de geldende reglementering die van toepassing is op de personeelsleden van de Vlaamse overheid.<br /><br />§ 6. De effectieve voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 2.500 euro.<br /><br />Wanneer de effectieve voorzitter verhinderd is en diens functie waargenomen wordt door een plaatsvervangende voorzitter, dan wordt aan deze laatste een vergoeding van 50 euro per zitting toegekend.
+§ 1. De kamer van beroep wordt samengesteld uit een effectieve voorzitter en twee plaatsvervangende voorzitters en uit twaalf effectieve en twaalf plaatsvervangende leden. Een plaatsvervangend lid kan pas zitting hebben als het effectieve lid afwezig is of als het effectieve lid gewraakt wordt.<br>
+<br>
+§ 2. De effectieve voorzitter en de plaatsvervangende voorzitters worden benoemd door de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+§ 3. Het gemeenschapsonderwijs enerzijds en de representatieve vakorganisaties anderzijds wijzen een gelijk aantal effectieve en plaatsvervangende leden van de kamer van beroep aan.<br>
+<br>
+§ 4. Tijdens hun mandaat in de kamer van beroep kunnen de effectieve en de plaatsvervangende voorzitters en leden geen personeelslid of tuchtoverheid bijstaan of vertegenwoordigen in de kamer van beroep.<br>
+<br>
+§ 5. De leden kunnen aanspraak maken op de reis- en dagvergoeding voor binnenlandse reizen overeenkomstig de geldende reglementering die van toepassing is op de personeelsleden van de Vlaamse overheid.<br>
+<br>
+§ 6. De effectieve voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 4.000 euro.<br>
+<br>
+Wanneer de effectieve voorzitter verhinderd is en diens functie waargenomen wordt door een plaatsvervangende voorzitter, dan wordt aan deze laatste een vergoeding van 150 euro per zitting toegekend.<br>
+<br>
+De vergoeding wordt jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, en dit indexcijfer wordt voor 75 % toegepast.
 
 ### ART. 33quater.
 
