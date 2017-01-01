@@ -44,7 +44,7 @@ Voor de toepassing van het Vlaams personeelsstatuut van 13 januari 2006 op   het
 
 ### ART. 5.
 
-In afwijking van artikel I 3, tweede lid, van het Vlaams personeelsstatuut   van 13 januari 2006 kunnen de bevoegdheden die bij dit besluit aan de vaste   secretaris worden toegewezen, door de vaste secretaris worden gedelegeerd aan   een personeelslid van de KANTL of aan een ambtenaar van het Departement Cultuur,   Jeugd, Sport en Media van het Vlaams Ministerie van Cultuur, Jeugd, Sport en   Media die ten behoeve van de KANTL taken verricht.<BR>
+In afwijking van artikel I 3, tweede lid, van het Vlaams personeelsstatuut van 13 januari 2006 kunnen de bevoegdheden die bij dit besluit aan de vaste secretaris worden toegewezen, door de vaste secretaris worden gedelegeerd aan een personeelslid van de KANTL of aan een ambtenaar van het Departement Cultuur, Jeugd en Media van het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media die ten behoeve van de KANTL taken verricht.
 
 ### ART. 6.
 
