@@ -2,16 +2,16 @@
   "codex_id": 1014570,
   "title": "Besluit van de Vlaamse Regering van 2006-04-21 tot vaststelling van de overgangsaccreditatie van sommige universitaire opleidingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014570/VolledigDocument?datum=2006-06-25",
-  "source_sha256": "ebb155048a9af419ff19d2c57aa86206a39e85f0deb8a2e026830e11c5483a0c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014570/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "4e6e974382aa11358c26bb3869ff3f1ec145c618822a96645b86c6aabc4400d8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014570&param=informatie",
-  "as_of": "2006-06-25",
+  "as_of": "2017-01-01",
   "made": "2006-04-21",
   "gazette": "2006-06-15",
   "numac": 2006035814,
   "document_start": "2006-06-25",
   "document_end": "2016-12-31",
-  "in_force": "2006-06-25",
+  "in_force": "2017-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-06-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
