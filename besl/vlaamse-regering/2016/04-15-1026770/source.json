@@ -2,16 +2,16 @@
   "codex_id": 1026770,
   "title": "Besluit van de Vlaamse Regering van 2016-04-15 houdende de toekenning en de erkenning van [bijkomende en vrijgekomen woongelegenheden met een bijkomende erkenning]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026770/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "bf700c3ca5e0102a402242148384440c51b1208078c0247c8499abec2857b5e7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026770/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "2c956c3d6532feea3dd4eb01de33cdd39660f9e6947e27199acbb7702ed0a0ed",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026770&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2017-01-01",
   "made": "2016-04-15",
   "gazette": "2016-05-10",
   "numac": 2016035755,
   "document_start": "2016-01-01",
   "document_end": "2022-12-31",
-  "in_force": "2016-01-01",
+  "in_force": "2017-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
