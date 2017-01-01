@@ -1048,6 +1048,33 @@ De evaluatie slaat op de theoretische vorming en de praktijkopleiding in de onde
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De opgenomen studiepunten in een door de Vlaamse Regering conform artikel II.153 van de Codex Hoger Onderwijs nieuwe erkende opleiding, aangeboden door een universiteit in een studiegebied dat met ingang van het academiejaar 2013-2014 geïntegreerd is in de universiteiten, worden meegerekend voor het variabel onderwijsdeel VOWun.".</span><br>
 &nbsp;
 
+### ART VII.22.
+
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Aan artikel III.19, § 1, 3°, van dezelfde codex wordt een punt ad) toegevoegd dat luidt als volgt :</span>
+<table style="text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: times new roman; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px;" border="1">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;ad) handelswetenschappen en bedrijfskunde - opleidingen die vanaf het academiejaar 2013-2014 door de Vlaamse Regering conform artikel II.153 erkend zijn als nieuwe opleiding;</td>
+			<td>1,00</td>
+		</tr>
+	</tbody>
+</table>
+
+### ART VII.23.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Artikel III.48 van dezelfde codex wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Art. III.48. § 1. Om voor de financiering van de investeringen in aanmerking te komen moet de hogeschool eigenaar zijn van het onroerend goed, ofwel een zakelijk recht bezitten op het onroerend goed dat haar het genot waarborgt voor ten minste een periode van dertig jaar. Deze voorwaarde geldt niet bij de aankoop van een gebouw, van grond of van zware didactische en wetenschappelijke apparatuur.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. In de schoot van de associatie wordt een advies gegeven over de meerjarenplanning en over de besteding van de investeringsmiddelen. Dit advies is gebaseerd op het in artikel II.11, tweede lid, 7°, bedoelde meerjarenplan voor de onderlinge afstemming van investeringen, infrastructuur, bibliotheek- en documentatievoorzieningen.".</span><br>
+&nbsp;
+
+### ART VII.24.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel III.55 van dezelfde codex wordt paragraaf 5 vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">" § 5. Indien de Hogere Zeevaartschool gebruik maakt van de bepaling, vermeld in artikel 50, § 2, van het decreet betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs, kan ze geen aanspraak maken op de werkingstoelage als vermeld in paragraaf 1.".</span>
+
 ### ART VII.25.
 
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel III.58 van dezelfde codex wordt in paragraaf 2 enkel de tekst vervangen door wat volgt :</span><br>
@@ -1061,10 +1088,19 @@ De evaluatie slaat op de theoretische vorming en de praktijkopleiding in de onde
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel III.116 van dezelfde codex wordt aan punt 1° een tweede lid toegevoegd dat luidt als volgt :</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De Vlaamse Regering kan de looptijd van een reeds afgesloten beheersovereenkomst met een instelling voor postinitieel onderwijs verlengen om de einddatum ervan af te stemmen met de beheersovereenkomsten van de andere instellingen voor postinitieel onderwijs.".</span>
 
+### ART VII.27.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel IV.43 van dezelfde codex wordt de laatste zin opgeheven.</span>
+
 ### ART VII.28.
 
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel IV.48, § 1, van dezelfde codex wordt na het derde lid een nieuw lid toegevoegd dat luidt als volgt :</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De universiteit of de hogeschool kan bij intern reglement verder verduidelijken welke categorieën hieronder begrepen worden.".</span><br>
+&nbsp;
+
+### ART VII.29.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel IV.88 van dezelfde codex worden het eerste en het derde lid opgeheven.</span><br>
 &nbsp;
 
 ### ART VII.30.
