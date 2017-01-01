@@ -8,11 +8,16 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 1 juli 2011 betreffende
 
 ### ART. 1.
 
-De bepalingen van dit besluit zijn van toepassing op de personeelsleden, vermeld in artikel XI.4 van het decreet van 1 juli 2011 betreffende het onderwijs XXI. <br />
+De bepalingen van dit besluit zijn van toepassing op de personeelsleden, vermeld in artikel V.23 van de Codificatie sommige bepalingen voor het onderwijs.
 
 ### ART. 2.
 
-In dit besluit wordt verstaan onder :<br />1° het decreet : het decreet van 1 juli 2011 betreffende het onderwijs XXI;<br />2° instellingen : de instellingen waarin de personeelsleden, vermeld in artikel 1 van dit besluit, werken;<br />3° referentiejaar : het kalenderjaar waarop de premie betrekking heeft en waarin het personeelslid als bijdragebetalend lid beschouwd wordt overeenkomstig artikel 4 van dit besluit;<br />4° representatieve vakorganisatie: een personeelsvereniging die een werking ontplooit ten behoeve van het onderwijs en die aangesloten is bij een vakbondsorganisatie die vertegenwoordigd is in de Sociaal-Economische Raad van Vlaanderen;<br />5° uitbetalingsinstellingen: de uitbetalingsinstellingen, vermeld in artikel XI.6 van het decreet.
+In dit besluit wordt verstaan onder :<br>
+1° het decreet : decreet betreffende de Codificatie sommige bepalingen voor het onderwijs;<br>
+2° instellingen : de instellingen waarin de personeelsleden, vermeld in artikel 1 van dit besluit, werken;<br>
+3° referentiejaar : het kalenderjaar waarop de premie betrekking heeft en waarin het personeelslid als bijdragebetalend lid beschouwd wordt overeenkomstig artikel 4 van dit besluit;<br>
+4° representatieve vakorganisatie: een personeelsvereniging die een werking ontplooit ten behoeve van het onderwijs en die aangesloten is bij een vakbondsorganisatie die vertegenwoordigd is in de Sociaal-Economische Raad van Vlaanderen;<br>
+5° uitbetalingsinstellingen: de uitbetalingsinstellingen, artikel V.25 van de Codificatie sommige bepalingen voor het onderwijs.
 
 ## HOOFDSTUK 2. Toekenningsvoorwaarden
 
@@ -22,7 +27,15 @@ De vakbondspremie wordt toegekend aan de personeelsleden, vermeld in artikel 1, 
 
 ### ART. 4.
 
-Voor de toepassing van artikel XI.5 van het decreet wordt uitsluitend als bijdragebetalend lid beschouwd het vakbondslid dat jaarlijks een individuele bijdrage op een bankrekening betaald heeft die ten minste gelijk is aan 0,74 procent van de geïndexeerde gewaarborgde jaarlijkse bruto bezoldiging die van toepassing is op 1 juli van het jaar dat aan het referentiejaar voorafgaat.<br /><br />Die bijdrage wordt berekend op basis van het laagste bedrag dat voorkomt in artikel 3 van het koninklijk besluit van 29 juni 1973 houdende toekenning van een gewaarborgde bezoldiging aan sommige personeelsleden van de federale overheidsdiensten.<br /><br />Als de jaarlijkse individuele bijdrage van het vakbondslid kleiner is dan de minimale bijdrage, vermeld in het eerste lid, maar ten minste gelijk is aan drie vierde ervan, wordt de vakbondspremie verminderd met een vierde.<br /><br />Als de jaarlijkse individuele bijdrage van het vakbondslid kleiner is dan drie vierde van de minimale bijdrage, vermeld in het eerste lid, maar ten minste gelijk is aan een tweede ervan, wordt de vakbondspremie verminderd met een tweede.<br /><br />Als de jaarlijkse individuele bijdrage van het vakbondslid kleiner is dan een tweede van de minimale bijdrage, vermeld in het eerste lid, maar ten minste gelijk is aan een vierde ervan, wordt de vakbondspremie verminderd met drie vierde.
+Voor de toepassing van artikel V.24 van de Codificatie sommige bepalingen voor het onderwijs wordt uitsluitend als bijdragebetalend lid beschouwd het vakbondslid dat jaarlijks een individuele bijdrage op een bankrekening betaald heeft die ten minste gelijk is aan 0,74 procent van de geïndexeerde gewaarborgde jaarlijkse bruto bezoldiging die van toepassing is op 1 juli van het jaar dat aan het referentiejaar voorafgaat.<br>
+<br>
+Die bijdrage wordt berekend op basis van het laagste bedrag dat voorkomt in artikel 3 van het koninklijk besluit van 29 juni 1973 houdende toekenning van een gewaarborgde bezoldiging aan sommige personeelsleden van de federale overheidsdiensten.<br>
+<br>
+Als de jaarlijkse individuele bijdrage van het vakbondslid kleiner is dan de minimale bijdrage, vermeld in het eerste lid, maar ten minste gelijk is aan drie vierde ervan, wordt de vakbondspremie verminderd met een vierde.<br>
+<br>
+Als de jaarlijkse individuele bijdrage van het vakbondslid kleiner is dan drie vierde van de minimale bijdrage, vermeld in het eerste lid, maar ten minste gelijk is aan een tweede ervan, wordt de vakbondspremie verminderd met een tweede.<br>
+<br>
+Als de jaarlijkse individuele bijdrage van het vakbondslid kleiner is dan een tweede van de minimale bijdrage, vermeld in het eerste lid, maar ten minste gelijk is aan een vierde ervan, wordt de vakbondspremie verminderd met drie vierde.
 
 ### ART. 5.
 
@@ -62,11 +75,21 @@ De uitbetalingsinstellingen zijn verantwoordelijk voor het vaststellen dat aan d
 
 ### ART. 13.
 
-§ 1. De gerechtsdeurwaarder, vermeld in artikel 17, bezorgt vóór 30 april, volgend op het referentiejaar, en, met toepassing van artikel 11, tweede lid, vóór 30 april van het tweede kalenderjaar, volgend op het referentiejaar, aan de bevoegde administratie een omstandige afrekening per uitbetalingsinstelling.<br /><br />Voor het referentiejaar 2010 bezorgt de gerechtsdeurwaarder een omstandige afrekening per uitbetalingsinstelling vóór 30 april 2012 aan de Vlaamse minister, bevoegd voor het onderwijs.<br /><br />§ 2. De bevoegde administratie maakt het bedrag dat aan elk van de uitbetalingsinstellingen moet worden overgedragen om tot de uitbetaling van de vakbondspremies te kunnen overgaan en om de administratieve werkingskosten, vermeld in artikel XI.6, eerste lid, van het decreet, vóór 31 mei, volgend op het referentiejaar, en, met toepassing van artikel 11, tweede lid, vóór 31 mei van het tweede kalenderjaar, volgend op het referentiejaar, over aan de uitbetalingsinstellingen. <br /><br />Voor het referentiejaar 2010 maakt de bevoegde administratie het bedrag, vermeld in het eerste lid, over aan de uitbetalingsinstellingen vóór 31 mei 2012.
+§ 1. De gerechtsdeurwaarder, vermeld in artikel 17, bezorgt vóór 30 april, volgend op het referentiejaar, en, met toepassing van artikel 11, tweede lid, vóór 30 april van het tweede kalenderjaar, volgend op het referentiejaar, aan de bevoegde administratie een omstandige afrekening per uitbetalingsinstelling.<br>
+<br>
+Voor het referentiejaar 2010 bezorgt de gerechtsdeurwaarder een omstandige afrekening per uitbetalingsinstelling vóór 30 april 2012 aan de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+§ 2. De bevoegde administratie maakt het bedrag dat aan elk van de uitbetalingsinstellingen moet worden overgedragen om tot de uitbetaling van de vakbondspremies te kunnen overgaan en om de administratieve werkingskosten, vermeld in artikel V.25, eerste lid, van de Codificatie sommige bepalingen voor het onderwijs, vóór 31 mei, volgend op het referentiejaar, en, met toepassing van artikel 11, tweede lid, vóór 31 mei van het tweede kalenderjaar, volgend op het referentiejaar, over aan de uitbetalingsinstellingen.<br>
+<br>
+Voor het referentiejaar 2010 maakt de bevoegde administratie het bedrag, vermeld in het eerste lid, over aan de uitbetalingsinstellingen vóór 31 mei 2012.
 
 ### ART. 14.
 
-Iedere uitbetalingsinstelling bezorgt aan de bevoegde administratie het nummer van haar bankrekening waarop het bedrag, vermeld in artikel 13, § 2, kan worden gestort.<br /><br />Als een uitbetalingsinstelling ook de vakbondspremies uitbetaalt die verkregen kunnen worden op grond van andere wettelijke, reglementaire of conventionele bepalingen, voorziet ze voor de vakbondspremies die verkregen kunnen worden op grond van dit besluit, in een apart rekeningnummer en aparte boekhoudkundige posten met het oog op de controle door een gerechtsdeurwaarder.<br /><br />De bankrekeningen, vermeld in het eerste lid, mogen uitsluitend gebruikt worden voor de storting van het bedrag, vermeld in artikel 13, en voor de vereffening van de vakbondspremies en de administratieve werkingskosten, vermeld in artikel XI.6, eerste lid, van het decreet.
+Iedere uitbetalingsinstelling bezorgt aan de bevoegde administratie het nummer van haar bankrekening waarop het bedrag, vermeld in artikel 13, § 2, kan worden gestort.<br>
+<br>
+Als een uitbetalingsinstelling ook de vakbondspremies uitbetaalt die verkregen kunnen worden op grond van andere wettelijke, reglementaire of conventionele bepalingen, voorziet ze voor de vakbondspremies die verkregen kunnen worden op grond van dit besluit, in een apart rekeningnummer en aparte boekhoudkundige posten met het oog op de controle door een gerechtsdeurwaarder.<br>
+<br>
+De bankrekeningen, vermeld in het eerste lid, mogen uitsluitend gebruikt worden voor de storting van het bedrag, vermeld in artikel 13, en voor de vereffening van de vakbondspremies en de administratieve werkingskosten, vermeld in artikel V.25, eerste lid, van de Codificatie sommige bepalingen voor het onderwijs.
 
 ### ART. 15.
 
@@ -74,7 +97,9 @@ Iedere uitbetalingsinstelling bezorgt aan de bevoegde administratie het nummer v
 
 ### ART. 16.
 
-Het bedrag van de vakbondspremie is voor elk referentiejaar gelijk aan het bedrag dat voor datzelfde referentiejaar is voorzien in artikel 29 van het koninklijk besluit van 30 september 1980 betreffende de toekenning en de uitbetaling van een vakbondspremie aan sommige personeelsleden van de overheidssector. <br /><br />Het bedrag van de administratieve werkingskosten, vermeld in artikel XI.6, eerste lid, van het decreet, is voor elk referentiejaar gelijk aan het bedrag dat voor datzelfde referentiejaar is voorzien in artikel 30 van het koninklijk besluit van 30 september 1980 betreffende de toekenning en de uitbetaling van een vakbondspremie aan sommige personeelsleden van de overheidssector.
+Het bedrag van de vakbondspremie is voor elk referentiejaar gelijk aan het bedrag dat voor datzelfde referentiejaar is voorzien in artikel 29 van het koninklijk besluit van 30 september 1980 betreffende de toekenning en de uitbetaling van een vakbondspremie aan sommige personeelsleden van de overheidssector.<br>
+<br>
+Het bedrag van de administratieve werkingskosten, vermeld in artikel V.25, eerste lid, van de Codificatie sommige bepalingen voor het onderwijs, is voor elk referentiejaar gelijk aan het bedrag dat voor datzelfde referentiejaar is voorzien in artikel 30 van het koninklijk besluit van 30 september 1980 betreffende de toekenning en de uitbetaling van een vakbondspremie aan sommige personeelsleden van de overheidssector.
 
 ## HOOFDSTUK 5. Gerechtsdeurwaarder
 
