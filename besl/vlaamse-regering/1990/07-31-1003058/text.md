@@ -2,7 +2,9 @@
 
 ### ART. 1.
 
-§ 1. De artikelen 12bis, § 3, a en 27, § 1, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving treden, wat de in § 2 bedoelde personeelsleden betreft, in werking op 1 september 1990.<br /><br />§ 2. De bepalingen van dit besluit zijn van toepassing op de leden van het bestuurs- en onderwijzend personeel van de instellingen voor deeltijds kunstonderwijs, georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap.
+§1. De regelgeving inzake bekwaamheidsbewijzen en het salaris of de salaristoelage treden, wat de in §2 bedoelde personeelsleden betreft, in werking op 1 september 1990.<br>
+<br>
+§ 2. De bepalingen van dit besluit zijn van toepassing op de leden van het bestuurs- en onderwijzend personeel van de instellingen voor deeltijds kunstonderwijs, georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap.
 
 ### ART. 2.
 
