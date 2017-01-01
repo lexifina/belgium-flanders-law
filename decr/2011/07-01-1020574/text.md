@@ -1136,33 +1136,33 @@ Dit hoofdstuk treedt in werking op 1 september 2011. <br />Artikel X.6 heeft uit
 
 ### ART. XI.1.
 
-Deze afdeling is van toepassing op de contractuele personeelsleden ten laste van het ministerie van Onderwijs en Vorming en de gesubsidieerde contractuele personeelsleden, bezoldigd door het ministerie van Onderwijs en Vorming, en die aangesteld zijn in : 1° een instelling of een centrum bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br />2° een instelling of een centrum bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding.<br /><br />
+...
 
 ### ART. XI.2.
 
-Voor de in artikel XI. 1 vermelde personeelsleden die :<br />1° in een in artikel XI.1, 1°, vermelde instelling of centrum zijn aangesteld, gelden de bepalingen vermeld in de artikelen 12bis, § 1, 12sexies en 12septies, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br />2° in een in artikel XI. 1, 2°, vermelde instelling of centrum zijn aangesteld, gelden de bepalingen vermeld in de artikelen 17bis, § 1, 17sexies en 17septies, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding.<br /><br />
+...
 
 ### ART. XI.3.
 
-Deze afdeling geldt niet voor de pedagogische begeleidingsdienst.<br /><br />
+...
 
 ## Afdeling II Syndicale premie
 
 ### ART. XI.4.
 
-§ 1. Deze afdeling is van toepassing op :<BR>1° de contractuele   personeelsleden, aangesteld in een instelling of een centrum bedoeld in artikel   4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van   sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde   centra voor leerlingenbegeleiding, die onder het toepassingsgebied vallen van   het koninklijk besluit van 20 december 1989 tot oprichting en tot vaststelling   van de benaming en bevoegdheid van het Paritair Comité voor de bedienden van de   inrichtingen van het gesubsidieerd vrij onderwijs en tot vaststelling van het   aantal leden ervan;<BR>2° de contractuele personeelsleden van de vrije   hogescholen die onder het toepassingsgebied vallen van het koninklijk besluit   van 20 december 1989 tot oprichting en tot vaststelling van de benaming en   bevoegdheid van het Paritair Comité voor de bedienden van de inrichtingen van   het gesubsidieerd vrij onderwijs en tot vaststelling van het aantal leden   ervan;<BR>3° de personeelsleden van de vrije universiteiten;<BR>4° de   personeelsleden, vermeld in artikel 127, § 1, 2° en 3°, van het decreet van 15   juni 2007 betreffende het volwassenenonderwijs.<BR>5° de personeelsleden   tewerkgesteld bij het Vlaams Ondersteuningscentrum voor het   Volwassenenonderwijs, vermeld in artikel 43 van het decreet van 15 juni 2007   betreffende het onderwijs.<BR><BR>§ 2. Voor de toepassing van deze afdeling   wordt onder « representatieve vakorganisatie » een personeelsvereniging verstaan   die een werking ontplooit ten behoeve van het onderwijs en die aangesloten is   bij een syndicale organisatie die vertegenwoordigd is in de Sociaal-Economische   Raad van Vlaanderen.<BR><BR>
+...
 
 ### ART. XI.5.
 
-De personeelsleden vermeld in artikel XI.4, § 1, ontvangen een jaarlijkse vakbondspremie wanneer ze als bijdragebetalend lid aangesloten zijn bij een representatieve vakorganisatie. De Vlaamse Regering bepaalt de voorwaarden waaraan de personeelsleden moeten voldoen om beschouwd te kunnen worden als bijdragebetalend lid.<br /><br />De Vlaamse Regering bepaalt het bedrag, de toekenningsvoorwaarden en de betalingsmodaliteiten van de vakbondspremie, met inbegrip van de maatregelen ter voorkoming van de cumulatieve toekenning en uitbetaling ervan.<br /><br />
+...
 
 ### ART. XI.6.
 
-De Vlaamse overheid draagt de sommen nodig voor de uitbetaling van de vakbondspremies en voor de daarmee verbonden administratieve werkingskosten over aan de uitbetalingsinstellingen. Per syndicale organisatie die vertegenwoordigd is in de Sociaal-Economische Raad van Vlaanderen wordt er één uitbetalingsinstelling opgericht in de vorm van een vereniging zonder winstoogmerk.<br /><br />De Vlaamse Regering bepaalt het bedrag en de stortingsmodaliteiten van de in het eerste lid vermelde sommen.<br /><br />De Vlaamse Regering bepaalt de controlemaatregelen met betrekking tot de toekenning en de uitbetaling van de vakbondspremies.<br /><br />De Vlaamse Regering regelt eveneens de controle op de in het eerste lid vermelde uitbetalingsinstellingen.<br /><br />
+...
 
 ### ART. XI.7.
 
-De bepalingen van deze afdeling zijn niet van toepassing op de personeelsleden die op de datum van de bekendmaking van dit decreet in het Belgisch Staatsblad een vakbondspremie kunnen verkrijgen op grond van andere wettelijke, reglementaire of conventionele bepalingen.<br /><br />
+...
 
 ## Afdeling III Inwerkingtreding
 
