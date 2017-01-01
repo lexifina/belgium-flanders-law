@@ -2,16 +2,16 @@
   "codex_id": 1026301,
   "title": "Besluit van de Vlaamse Regering van 2015-11-27 tot vaststelling van de regels voor het bepalen van een bedrag voor bewijsbare uitgaven en een bedrag voor niet-bewijsbare uitgaven in het kader van de toepassing van het cumulverbod en de verschilregel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026301/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "d871705f96e875272efa54b841d2ae3b2a6df621dd9429ad1d0b002c14545b10",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026301/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "131d0ee2f4bff6abeb40da13d886c82bf8a91b796cd73322f90cf17279dd4c37",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026301&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2017-01-01",
   "made": "2015-11-27",
   "gazette": "2016-01-14",
   "numac": 2015036620,
   "document_start": "2016-01-01",
   "document_end": "2017-12-31",
-  "in_force": "2016-01-01",
+  "in_force": "2017-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
