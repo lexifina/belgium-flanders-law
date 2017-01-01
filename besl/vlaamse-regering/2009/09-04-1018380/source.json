@@ -2,16 +2,16 @@
   "codex_id": 1018380,
   "title": "Besluit van de Vlaamse Regering van 2009-09-04 tot aanpassing van de overgangsaccreditatie van de opleiding 'master in de ingenieurswetenschappen : biomedische ingenieurstechnieken'",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018380/VolledigDocument?datum=2009-10-01",
-  "source_sha256": "2c492c676811949bd50fab6e6bc00a66e9f10964f7f2404867a4b042ce595704",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018380/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "73f37edcca499bb3b379dfd6046e1a5a30b834bea124e326a89361e5088c0559",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018380&param=informatie",
-  "as_of": "2009-10-01",
+  "as_of": "2017-01-01",
   "made": "2009-09-04",
   "gazette": "2009-09-21",
   "numac": 2009035892,
   "document_start": "2009-09-01",
   "document_end": "2016-12-31",
-  "in_force": "2009-10-01",
+  "in_force": "2017-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2009-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
