@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028391,
+  "title": "Ministerieel besluit van 2017-06-15 tot bepaling van het aantal regio's per provincie en voor het tweetalige gebied Brussel-Hoofdstad en het maximale aantal te erkennen diensten voor oppashulp per regio",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028391/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "021745cb5737a33aa05f8c5a480029ccdd71057284aa4151d9f3c0301d5c0407",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028391&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-06-15",
+  "gazette": "2017-07-06",
+  "numac": 2017012935,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
