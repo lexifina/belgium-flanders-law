@@ -30,7 +30,7 @@ In artikel 8bis van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaams
 
 ### ART. 7.
 
-Als de combinatie van PAB met bijstand verleend door een voorziening voor   opvang, behandeling en begeleiding van personen met een handicap voor 1   september 2012 is gestart, blijft het toegekende PAB-budget behouden tot en met   1 januari 2017. <BR>
+Met behoud van de toepassing van artikel 13 van het besluit van de Vlaamse Regering van 15 december 2017 houdende de wijziging van het besluit van de Vlaamse regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap en het besluit van de Vlaamse Regering van 19 oktober 2012 tot wijziging van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke assistentiebudget aan personen met een handicap, wat betreft de combinatie met andere zorgvormen, de spoedprocedure en diverse bepalingen en houdende de regeling van de inwerkingtreding van artikel 95 tot en met 98 van het decreet van 15 juli 2006 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin, blijft voor de personen met een handicap die op 1 januari 2017 jonger waren dan achttien jaar, het toegekende PAB-budget behouden bij combinatie van het PAB met ondersteuning verleend door een voorziening voor opvang, behandeling en begeleiding van personen met een handicap, als met die combinatie is gestart voor 1 september 2012.
 
 ### ART. 8.
 
