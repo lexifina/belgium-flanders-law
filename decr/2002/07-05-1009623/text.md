@@ -26,7 +26,35 @@ Alle bedragen die berekend zijn met toepassing van dit decreet, worden afgerond 
 
 ### ART. 6.
 
-§ 1. Het Gemeentefonds wordt op grond van de volgende maatstaven onder de gemeenten verdeeld:<br />1° 40,8 % voor de bijzondere financiering van de centrumsteden en de kustgemeenten:<br />a) 30 % volgens het aantal inwoners in de gemeenten met 200.000 inwoners of meer;<br />b) 1,6 % volgens het aantal inwoners van gemeenten tussen 100.000 en 200.000 inwoners;<br />c) 6,2 % volgens het aantal inwoners in de volgende steden: Turnhout, Roeselare, Genk, Oostende, Hasselt, Sint-Niklaas, Kortrijk, Mechelen, Aalst en Leuven;<br />d) 2 % volgens het aantal inwoners in de volgende steden: Aarschot, Deinze, Dendermonde, Diest, Eeklo, Geel, Halle, Herentals, leper, Knokke-Heist, Lier, Lokeren, Mol, Oudenaarde, Ronse, Sint-Truiden, Tielt, Tienen, Tongeren, Vilvoorde en Waregem;<br />e) 1 % volgens het aantal inwoners in de gemeenten waarvan het grondgebied grenst aan de zee;<br />2° 8 % voor de centrumfunctie:<br />a) 4 % volgens de actieve bevolking, tewerkgesteld in de gemeente;<br />b) 4 % volgens het aantal leerlingen en studenten dat onderwijs volgt op het grondgebied van de gemeente;<br />3° 30,2 % voor de fiscale armoede:<br />a) 19 % op de omgekeerde evenredigheid van de totale opbrengst van de personenbelasting van de inwoners in de gemeente, exclusief de aanvullende belasting op de personenbelasting;<br />b) 11,2 % op de omgekeerde evenredigheid van het totale belastbare kadastrale inkomen op het grondgebied van de gemeente;<br />4° 6 % voor open ruimten op basis van de oppervlakte bos, tuinen en parken, woeste gronden, gekadastreerde wateren, akkerland, grasland, recreatiegebieden en boomgaarden;<br />5° 15 % voor sociale maatstaven :<br />a) 1 % volgens het aantal personen met een voorkeursregeling in de ziekteverzekering, exclusief leefloners;<br />b) 4 % volgens het aantal kortgeschoolde werkzoekenden met een werkloosheidsuitkeringsaanvraag;<br />c) 3 % volgens het gemiddelde aantal geboorten in een kansarm gezin over drie jaar;<br />d) 3 % volgens het aantal sociale huurappartementen;<br />e) 4 % volgens het gemiddelde aantal personen dat recht heeft op een leefloon over drie jaar. <br /><br />§ 2. De basisgetallen zijn voor alle maatstaven, met uitzondering van de maatstaven van de fiscale armoede, gelijk aan de eenheid waarop de maatstaf is gebaseerd. In § 1, 1° a, b, c, d en e, 2°, a en b , 5° a, b, d en e, is die eenheid: personen; in 4°: hectaren en in 5°, c: aantal geboorten.<br /><br />Voor de maatstaven van de fiscale armoede, bedoeld in § 1, 3°,a) en b), worden de basisgetallen berekend aan de hand van de volgende formules:<br />1° basisgetal personenbelasting = inwoners2/totale inkohiering personenbelasting, exclusief de aanvullende belasting op de personenbelasting, van de inwoners van de gemeente;<br />2° basisgetal kadastraal inkomen = inwoners2/totale belastbare kadastrale inkomen op het grondgebied van de gemeente.<br /><br />§ 3. Voor elke maatstaf, bedoeld in § 1, 2° tot 5°, wordt het aandeel van de gemeenten vastgesteld in verhouding tot de relatieve waarde van het basisgetal van elke gemeente ten opzichte van de som van de basisgetallen van alle gemeenten.
+§ 1. Het Gemeentefonds wordt op grond van de volgende maatstaven onder de gemeenten verdeeld:<br>
+1° 40,9641 % voor de bijzondere financiering van de centrumsteden en de kustgemeenten:<br>
+a) 29,9168% volgens het aantal inwoners in de steden Antwerpen en Gent;<br>
+b) 1,5956 % voor de stad Brugge;<br>
+c) 1,1167 % voor de stad Leuven;<br>
+d) 5,3433 % volgens het aantal inwoners in de volgende steden: Turnhout, Roeselare, Genk, Oostende, Hasselt, Sint-Niklaas, Kortrijk, Mechelen en Aalst;<br>
+e) 1,9945 % volgens het aantal inwoners in de volgende steden: Aarschot, Deinze, Dendermonde, Diest, Eeklo, Geel, Halle, Herentals, leper, Knokke-Heist, Lier, Lokeren, Mol, Oudenaarde, Ronse, Sint-Truiden, Tielt, Tienen, Tongeren, Vilvoorde en Waregem;<br>
+f) 0,9972 % volgens het aantal inwoners in de gemeenten waarvan het grondgebied grenst aan de zee;<br>
+2° 7,9778 % voor de centrumfunctie:<br>
+a) 3,9889 % volgens de actieve bevolking, tewerkgesteld in de gemeente;<br>
+b) 3,9889 % volgens het aantal leerlingen en studenten dat onderwijs volgt op het grondgebied van de gemeente;<br>
+3° 30,1163 % voor de fiscale armoede:<br>
+a) 18,9474 % op de omgekeerde evenredigheid van de totale opbrengst van de personenbelasting van de inwoners in de gemeente, exclusief de aanvullende belasting op de personenbelasting;<br>
+b) 11,1689 % op de omgekeerde evenredigheid van het totale belastbare kadastrale inkomen op het grondgebied van de gemeente;<br>
+4° 5,9834 % voor open ruimten op basis van de oppervlakte bos, tuinen en parken, woeste gronden, gekadastreerde wateren, akkerland, grasland, recreatiegebieden en boomgaarden;<br>
+5° 14,9584 % voor sociale maatstaven:<br>
+a) 0,9972 % volgens het aantal personen met een voorkeursregeling in de ziekteverzekering, exclusief leefloners;<br>
+b) 3,9889 % volgens het aantal kortgeschoolde werkzoekenden met een werkloosheidsuitkeringsaanvraag;<br>
+c) 2,9917 % volgens het gemiddelde aantal geboorten in een kansarm gezin over drie jaar;<br>
+d) 2,9917 % volgens het aantal sociale huurappartementen;<br>
+e) 3,9889 % volgens het gemiddelde aantal personen dat recht heeft op een leefloon over drie jaar.<br>
+<br>
+§ 2. De basisgetallen zijn voor alle maatstaven, met uitzondering van de maatstaven van de fiscale armoede, gelijk aan de eenheid waarop de maatstaf is gebaseerd. In § 1, 1° a, b, c, d en e, 2°, a en b , 5° a, b, d en e, is die eenheid: personen; in 4°: hectaren en in 5°, c: aantal geboorten.<br>
+<br>
+Voor de maatstaven van de fiscale armoede, bedoeld in § 1, 3°,a) en b), worden de basisgetallen berekend aan de hand van de volgende formules:<br>
+1° basisgetal personenbelasting = inwoners2/totale inkohiering personenbelasting, exclusief de aanvullende belasting op de personenbelasting, van de inwoners van de gemeente;<br>
+2° basisgetal kadastraal inkomen = inwoners2/totale belastbare kadastrale inkomen op het grondgebied van de gemeente.<br>
+<br>
+§ 3. Voor elke maatstaf, bedoeld in § 1, 2° tot 5°, wordt het aandeel van de gemeenten vastgesteld in verhouding tot de relatieve waarde van het basisgetal van elke gemeente ten opzichte van de som van de basisgetallen van alle gemeenten.
 
 ### ART. 7.
 
@@ -134,6 +162,24 @@ De inhouding zoals bepaald in artikel 19 sexies, § 1, en de vermindering van ar
 ## [HOOFDSTUK IIIquater BIJZONDERE BEPALINGEN OVER DE VASTSTELLING VAN DE AANVULLENDE DOTATIE (ing. decr. 22 december 2017, art. 46, I: 1 januari 2018)]
 
 ## [HOOFDSTUK IIIquinquies Bijzondere bepalingen over de vaststelling van de aanvullende dotatie voor de centrumsteden Antwerpen, Gent, Aalst, Brugge, Genk, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas en Turnhout (ing. Decr. 2 december 2016, art. 3, I: 1 januari 2017)]
+
+### ART 19ter decies.
+
+Vanaf het begrotingsjaar 2017 wordt op de begroting van de Vlaamse Gemeenschap een aanvullende dotatie met betrekking tot het Vlaams Gemeentefonds ingeschreven voor de centrumsteden Aalst, Antwerpen, Brugge, Genk, Gent, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas en Turnhout. De aanvullende dotatie wordt vanaf het begrotingsjaar 2018 jaarlijks geïndexeerd met een evolutiepercentage van 3,5 %.
+
+### ART 19quater decies
+
+De aanvullende dotatie, vermeld in artikel 19ter decies, wordt voor drie vierde gereserveerd voor de centrumsteden Antwerpen en Gent. De resterende middelen zijn bestemd voor de centrumsteden Aalst, Brugge, Genk, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas en Turnhout. De middelen worden proportioneel verdeeld op basis van de recentste bevolkingsaantallen.<br>
+<br>
+De waarborgregeling uit het Sociaal Impulsfonds 2002 is van toepassing op de aandelen.
+
+### ART 19quinquies decies.
+
+De aandelen in de aanvullende dotatie, vermeld in artikel 19quater decies, worden aan de centrumsteden Antwerpen, Gent, Aalst, Brugge, Genk, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas en Turnhout uitbetaald in vier gelijke delen, telkens op het einde van de eerste maand van elk kwartaal.
+
+### ART 19sexies decies.
+
+De bepalingen, vermeld in artikel 6 tot en met 13 en artikel 15, zijn niet van toepassing op de aanvullende dotatie, vermeld in artikel 19ter decies.
 
 ## [HOOFDSTUK IIIsexies Bijzondere bepalingen over de vaststelling van de bedragen voor sommige gemeenten ten gevolge van de overname van provinciale instellingen (ing. decr. 22 december 2017, art. 52, I: 1 januari 2018)]
 
