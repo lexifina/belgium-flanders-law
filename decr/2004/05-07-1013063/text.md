@@ -20,7 +20,8 @@ In dit decreet wordt verstaan onder:<br>
 9° statuut van de werkzoekende: het geheel van de bepalingen inzake de rechten en plichten van de werkzoekende;<br>
 10° persoon met een arbeidshandicap : een persoon met een langdurig en belangrijk probleem van deelname aan het arbeidsleven dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren en die ingeschreven is bij de VDAB;<br>
 11° verplicht ingeschreven werkzoekende: de werkzoekende die is ingeschreven bij de VDAB met het oog op het verkrijgen van een werkloosheidsuitkering of een inschakelingsuitkering.<br>
-12° persoon met een arbeidshandicap : een persoon met een langdurig en belangrijk probleem van deelname aan het arbeidsleven dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren. De Vlaamse Regering bepaalt de voorwaarden en de procedure aan de hand waarvan de VDAB bepaalt of een persoon al dan niet een arbeidshandicap heeft.
+12° persoon met een arbeidshandicap : een persoon met een langdurig en belangrijk probleem van deelname aan het arbeidsleven dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren. De Vlaamse Regering bepaalt de voorwaarden en de procedure aan de hand waarvan de VDAB bepaalt of een persoon al dan niet een arbeidshandicap heeft;<br>
+13° leefloongerechtigde: iedere persoon die recht heeft op een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, of die recht heeft op financiële maatschappelijke steun, equivalent aan het leefloon, vermeld in artikel 60, § 3, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, met uitzondering van de personen voor wie tewerkstelling niet haalbaar is om gezondheids- of billijkheidsredenen.
 
 ## HOOFDSTUK II OPRICHTING
 
@@ -81,7 +82,9 @@ De Vlaamse Regering bepaalt de procedure voor de aanvraag tot tegemoetkoming.<br
 3° taken op het vlak van de competentie-ontwikkeling met het oog op de levenslange en duurzame inschakeling op de arbeidsmarkt:<br>
 a) het stimuleren, organiseren en bevorderen van de competentieontwikkeling en -erkenning van werkzoekenden en werknemers inzonderheid door de inrichting van competentiecentra, de erkenning van de verworven competenties en de organisatie van opleidingen met als doel het verwerven van aangepaste competenties met het oog op de inschakeling op de arbeidsmarkt;<br>
 b) het verschaffen, organiseren en bevorderen van beroepsopleidingen en de bijhorende begeleiding aan werkzoekenden en werknemers door, onder meer, het verzorgen van sollicitatietraining, van beroepsspecifieke opleiding, van persoonsgerichte vorming in opleidingscentra en/of op de werkvloer;<br>
-c) het toekennen van tegemoetkomingen inzake opleiding met het oog op de inschakeling op de arbeidsmarkt, inzonderheid het toekennen van opleidingscheques;<br>
+c) het toekennen van tegemoetkomingen voor een opleiding met het oog op de inschakeling op de arbeidsmarkt, inzonderheid de toekenning van opleidingscheques, opleidingsuitkeringen en compensatie-uitkeringen. De Vlaamse Regering kan na advies van de raad van bestuur van de VDAB nadere regels bepalen voor de toekenning, opheffing, wijziging, opschorting of vervanging van de opleidingsuitkeringen of compensatie-uitkeringen;<br>
+d) het aanbieden of organiseren van stages om competenties te verwerven met het oog op de inschakeling op de arbeidsmarkt. De Vlaamse Regering kan na advies van de raad van bestuur van de VDAB nadere regels uitwerken om de stages op te heffen, te wijzigen of te vervangen;<br>
+e) het toekennen van tegemoetkomingen voor stages, met inbegrip van stage-uitkeringen, met het oog op de inschakeling op de arbeidsmarkt. De Vlaamse Regering bepaalt na advies van de raad van bestuur van de VDAB de voorwaarden en de modaliteiten waaronder de tegemoetkomingen worden toegekend. De Vlaamse Regering kan na advies van de raad van bestuur van de VDAB nadere regels uitwerken om de tegemoetkomingen op te heffen, te wijzigen of te vervangen;<br>
 <br>
 4° taken inzake de evenredige participatie op de arbeidsmarkt in het algemeen: het bijdragen tot de tenuitvoerlegging van het Vlaams werkgelegenheidsbeleid als bedoeld in artikel 2, 12°, van het decreet van 8 mei 2002 en zulks op een dermate wijze dat gestreefd wordt naar de verwezenlijking van de doelstellingen die in artikel 5 van het decreet van 8 mei 2002 zijn vooropgesteld;<br>
 <br>
@@ -98,8 +101,19 @@ b) het attesteren van acties van de werkzoekende die door de VDAB gekend zijn;<b
 <br>
 7° taken met betrekking tot de activering en controle van de beschikbaarheid voor de arbeidsmarkt en sanctionering:<br>
 a) het controleren van de beschikbaarheid van de verplicht ingeschreven werkzoekenden en het opleggen van sancties dienaangaande in overeenstemming met het federaal normatief kader. De Vlaamse Regering bepaalt na advies van de raad van bestuur van de VDAB de manier waarop en de frequentie waarmee de verplicht ingeschreven werkzoekende wordt uitgenodigd voor een gesprek ter controle van zijn beschikbaarheid voor de arbeidsmarkt. Als een verplicht ingeschreven werkzoekende onvoldoende inspanningen levert of afspraken niet nakomt, kan een sanctie opgelegd worden door een aparte dienst binnen de VDAB. Deze dienst nodigt de verplicht ingeschreven werkzoekende uit om gehoord te worden. Als de VDAB na dit verhoor overgaat tot het opleggen van een sanctie gebeurt dat met inachtname van de toepasselijke werkloosheidsreglementering en de rechten van verdediging. De Vlaamse Regering vaardigt nadere regels uit na advies van de raad van bestuur van de VDAB over de organisatie en werking van deze dienst waardoor de neutraliteit en onafhankelijkheid wordt gewaarborgd, en stelt nadere regels vast omtrent het verloop van de controleprocedure, de organisatie van het verhoor en het opleggen van eventuele sancties. Indien een beroep wordt ingesteld tegen de sanctiebeslissing stelt de VDAB de Rijksdienst voor Arbeidsvoorziening hiervan onmiddellijk in kennis;<br>
+b) het toekennen van vrijstellingen van beschikbaarheid voor de arbeidsmarkt voor de verplicht ingeschreven werkzoekende met behoud van de uitkeringen in geval van studiehervatting, het volgen van een beroepsopleiding of een stage. De vrijstelling houdt in dat de verplicht ingeschreven werkzoekende ingeschreven blijft bij de VDAB en vrijgesteld is van beschikbaarheid voor de arbeidsmarkt op voorwaarde dat hij handelt overeenkomstig zijn traject naar werk. Er wordt slechts een vrijstelling toegekend op voorwaarde dat dit kadert in het voor de verplicht ingeschreven werkzoekende vastgestelde traject naar werk. De vrijstelling wordt toegekend voor de duurtijd van de studie, beroepsopleiding of stage die de verplicht ingeschreven werkzoekende volgt, beperkt tot een duurtijd van twaalf maanden. De Vlaamse Regering bepaalt na advies van de raad van bestuur van de VDAB de nadere voorwaarden voor de duurtijd van de vrijstelling, het toekennen, verlengen of intrekken van vrijstellingen, en de categorieën van werkzoekenden die voor een vrijstelling in aanmerking kunnen komen;<br>
 <br>
 8° taken met betrekking tot het stelsel van de plaatselijke werkgelegenheidsagentschappen: het nemen van beslissingen over de erkenning van de PWA-vzw's en over de samenstelling van het overlegcomité vermeld in artikel 8, § 9, van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders.<br>
+<br>
+9° met betrekking tot jongeren die niet ingeschreven zijn als werkzoekende, heeft de VDAB de taak om te voorzien in een passend aanbod voor jongeren die voldoen aan de volgende voorwaarden :<br>
+a) ze zijn jonger dan 25 jaar;<br>
+b) ze hebben het onderwijs verlaten en beschikken niet over een diploma of getuigschrift;<br>
+c) ze volgen geen opleiding;<br>
+d) ze verrichten geen beroepsarbeid of zelfstandige activiteit.<br>
+<br>
+De Vlaamse Regering bepaalt, na advies van de raad van bestuur, wat onder passend aanbod en diploma of getuigschrift moet worden verstaan.<br>
+<br>
+10° de VDAB is bevoegd voor de controle op de openbare centra voor maatschappelijk welzijn wat betreft de toekenning en aanwending van toelagen voor tewerkstelling in het kader van artikel 57quater, 60, § 7, en 61 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn. De VDAB is ook bevoegd om de ten onrechte toegekende toelagen terug te vorderen van de openbare centra voor maatschappelijk welzijn.<br>
 <br>
 § 2. De Vlaamse regering kan nadere regels uitvaardigen betreffende de in artikel 5, § 1, vermelde aangelegenheden. In deze regels kunnen de taken van het agentschap verder worden gepreciseerd en/of geconcretiseerd.<br>
 <br>
@@ -158,7 +172,11 @@ De in artikel 7, § 1, 2°, bedoelde leden van de raad van bestuur kunnen door d
 
 ### ART. 14.
 
-De Vlaamse regering wijst de gedelegeerd bestuurder van de VDAB aan.<br /><br />De gedelegeerd bestuurder is van rechtswege lid van de raad van bestuur.<br /><br />De gedelegeerd bestuurder wordt bijgestaan door drie algemene directeurs.
+De Vlaamse regering wijst de gedelegeerd bestuurder van de VDAB aan.<br>
+<br>
+De gedelegeerd bestuurder is van rechtswege lid van de raad van bestuur.<br>
+<br>
+De gedelegeerd bestuurder wordt bijgestaan door twee algemene directeurs.
 
 ### ART. 15.
 
@@ -313,6 +331,32 @@ Elektronische communicatie aan de VDAB heeft dezelfde bewijswaarde en   brengt d
 De Vlaamse Regering kan nadere regels uitvaardigen over de elektronische   communicatie, meer bepaald met betrekking tot:<BR>1° de middelen die kunnen   worden ingezet om elektronisch te communiceren;<BR>2° de authenticiteit;<BR>3°   de integriteit;<BR>4° het tijdstip waarop de communicatie wordt geacht verzonden   of ontvangen te zijn.
 
 ## [AFDELING 5 BEPALINGEN OVER STAGES (ing. decr. 9 december 2016, art. 18, I: 1 januari 2017)]
+
+### ART 22/15.
+
+Elke stagegever kan toetreden tot de krachtens dit decreet uitgewerkte stagevormen als hij aan de toegangsvoorwaarden van de stagevorm voldoet.
+
+### ART 22/16.
+
+De VDAB kan stages inzetten voor werkzoekenden om competenties aan te leren en toe te passen, waardoor de afstand tot de arbeidsmarkt wordt verkleind.<br>
+<br>
+De bepalingen van deze afdeling zijn alleen van toepassing op de stagevormen die georganiseerd worden of erkend zijn door de VDAB. Deze bepalingen zijn onder meer niet van toepassing op de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde stages, studies, leertijd of opleidingen in het kader van onderwijs, centra voor deeltijdse vorming en centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen en op het Vlaams Agentschap voor Ondernemersvorming Syntra Vlaanderen.<br>
+<br>
+De Vlaamse Regering bepaalt na advies van de raad van bestuur van de VDAB de vormen, de voorwaarden en de nadere regels voor stages die ze organiseert. De Vlaamse Regering kan ook na advies van de raad van bestuur van de VDAB de regels voor aanvragen van stages en voor overeenkomsten in het kader daarvan bepalen, alsook de nadere regels voor de schorsing, stopzetting of verlenging van stages.
+
+### ART 22/17.
+
+De kosten die verbonden zijn aan de stage, vermeld in deze afdeling, voor stagegever en stagiair kunnen geheel of gedeeltelijk gefinancierd worden door de VDAB. De Vlaamse Regering bepaalt na advies van de raad van bestuur van de VDAB de voorwaarden en modaliteiten waaronder ze een financiering verleent voor de stages.
+
+### ART 22/18.
+
+De stagiair kan tijdens de duur van een stage recht hebben op een tegemoetkoming, met inbegrip van de stage-uitkering, hetzij ten laste van de stagegever, hetzij ten laste van de VDAB. De Vlaamse Regering kan na advies van de raad van bestuur van de VDAB nadere regels bepalen voor de voorwaarden, de toekenning, het bedrag van de tegemoetkoming en de uitbetaling van de tegemoetkoming.
+
+### ART 22/19.
+
+Bij niet-naleving van de bepalingen van deze afdeling en de uitvoeringsbesluiten ervan, met inbegrip van de voortijdige stopzetting van een stage die uitsluitend aan de stagegever te wijten is, kan aan de laatstgenoemde het recht worden ontzegd om als stagegever op te treden voor een duur van ten hoogste drie jaar.<br>
+<br>
+De Vlaamse Regering bepaalt na advies van de raad van bestuur van de VDAB de nadere regels ter uitvoering van het eerste lid.
 
 ## [AFDELING 6 DE LEERTIJD (ing. decr. 19 juni 2020, art. 16, I: 1 januari 2021)]
 
