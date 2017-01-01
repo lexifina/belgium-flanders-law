@@ -62,7 +62,7 @@ De ontvangsten hebben betrekking op : <br />1Â° het overgedragen saldo; <br />2Â
 
 ### ART. 8.
 
-De lijnmanager van het Departement Cultuur, Jeugd, Sport en Media van het   Vlaams Ministerie van Cultuur, Jeugd, Sport en Media of zijn gemandateerde, is   beheerder en gedelegeerd ordonnateur van het Kasteel Van Gaasbeek.
+De lijnmanager van het&nbsp;Departement Cultuur, Jeugd en Media van het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media of zijn gemandateerde, is beheerder en gedelegeerd ordonnateur van het Kasteel Van Gaasbeek.
 
 ### ART. 9.
 
