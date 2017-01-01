@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028010,
+  "title": "Besluit van de Vlaamse Regering van 2017-02-17 houdende wijziging van het besluit van de Vlaamse Regering van 21 maart 2014 betreffende de administratieve samenwerking op het gebied van belastingen met het oog op de omzetting van richtlijn 2015/2376/EU van de Raad van 8 december 2015",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028010/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "ee5d098bd578dfad5f47961ba80cd088713620549121e7ef82fa7c42cd155bfa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028010&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-02-17",
+  "gazette": "2017-03-14",
+  "numac": 2017011120,
+  "document_start": "2017-03-15",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
