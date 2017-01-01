@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029968,
+  "title": "Besluit van de Vlaamse Regering van 2018-10-26 tot wijziging van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de subsidiëring van infrastructuur van ziekenhuizen en het besluit van de Vlaamse Regering van 14 juli 2017 houdende de procedureregels voor de subsidiëring van infrastructuur van ziekenhuizen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029968/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "17a3c59358d78b4752061e04a875b529ec050f7ee32ab5d02ae95a5696ab62da",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029968&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2018-10-26",
+  "gazette": "2018-12-10",
+  "numac": 2018015062,
+  "document_start": "2018-12-20",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
