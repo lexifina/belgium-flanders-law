@@ -130,82 +130,39 @@ Dit decreet regelt een aangelegenheid bedoeld in artikel 59bis van de Grondwet.<
 
 ### ART. 29.
 
-Dit hoofdstuk is van toepassing op:<br>
-1° de leden van de inspectiedienst bedoeld in artikel 1, eerste lid, 3° van de wet van 22 juni 1964 betreffende het statuut der personeelsleden van het Rijksonderwijs;<br>
-2° de personeelsleden bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br>
-3° de personeelsleden bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
-4° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.<br>
-<br>
-Dit hoofdstuk is van toepassing op de bovenvermelde personeelsleden voor zover zij:<br>
-- hetzij vastbenoemd of tot de proeftijd toegelaten zijn;<br>
-- hetzij vastbenoemd zijn en hun benoeming erkend is, daar waar de erkenning bestaat.<br>
-- hetzij als tijdelijk personeelslid aangesteld zijn.
+...
 
 ### ART. 30.
 
-De in artikel 29 bedoelde personeelsleden worden van ambtswege en zonder dat ze zich eraan kunnen onttrekken met politiek verlof gezonden voor de uitoefening van de volgende politieke mandaten:<br>
-1° burgemeester van een gemeente met meer dan 50 000 inwoners;<br>
-2° schepen of voorzitter van de raad voor maatschappelijk welzijn van een gemeente met meer dan<br>
-80 000 inwoners;<br>
-3° lid van de bestendige deputatie van een provincieraad;<br>
-4° voorzitter van een agglomeratie of van een federatie van gemeenten;<br>
-5° lid van de Kamer van Volksvertegenwoordigers of van de Senaat;<br>
-6° lid van het Vlaams Parlement;<br>
-7° lid van het Brussels Hoofdstedelijk Parlement;<br>
-8° lid van het Europees parlement;<br>
-9° lid van de nationale regering;<br>
-10° lid van de Vlaamse regering of van de Brusselse Hoofdstedelijke regering;<br>
-11° staatssecretaris van het Brussels Hoofdstedelijk Gewest;<br>
-12° lid van de Vlaamse Gemeenschapscommissie.<br>
-<br>
-Het politiek verlof van ambtswege vangt aan op de datum van de eedaflegging voor één van de bovenvermelde mandaten.
+...
 
 ### ART. 31.
 
-Aan een personeelslid wordt op zijn verzoek, een voltijds of deeltijds politiek verlof toegekend voor de uitoefening van een mandaat van :<br>
-1° burgemeester, schepen of gemeenteraadslid;<br>
-2° provincieraadslid dat geen lid is van de bestendige deputatie;<br>
-3° voorzitter, lid van het bureau of lid van de raad voor maatschappelijk welzijn;<br>
-4° voorzitter, lid van het vast bureau van de districtsraad of lid van de districtsraad.<br>
-<br>
-De Vlaamse Regering kan voor personeelsleden die dit verlof opnemen, voorwaarden bepalen.
+...
 
 ### ART. 32.
 
-Voor de toepassing van artikel 30, eerste lid, 1° en 2°, wordt het aantal inwoners bepaald overeen-komstig de bepalingen van de artikelen 5 en 29 van de nieuwe Gemeentewet.
+...
 
 ### ART. 33.
 
-Gedurende de perioden van politiek verlof op eigen verzoek of van ambtswege is het personeelslid in de stand non-activiteit. Het personeelslid heeft tijdens deze perioden geen recht op wedde of weddetoelage. Het behoudt echter zijn rechten op bevordering tot een hogere wedde of weddetoelage.
+...
 
 ### ART. 34.
 
-Het politiek verlof eindigt uiterlijk op de laatste dag van de maand die volgt op die waarin het mandaat een einde neemt.<br>
-&nbsp;
+...
 
 ### ART. 35.
 
-Het in artikel 34 bedoelde personeelslid mag na zijn wederindiensttreding in het onderwijs of in het centrum voor leerlingenbegeleiding zijn wedde/weddetoelage, zijn wachtgeld/wachtgeldtoelage niet cumuleren met voordelen die verbonden zijn aan de uitoefening van een politiek mandaat als bedoeld in artikel 30, eerste lid, en in artikel 31 en die een wederaanpassingsvergoeding uitmaken.<br>
-<br>
-Op verzoek van het betrokken personeelslid kan de Vlaamse minister bevoegd voor onderwijs toestaan de hervatting van de opdracht gedurende een periode van maximum één jaar uit te stellen.<br>
-<br>
-Tijdens deze periode bevindt het personeelslid zich in de stand non-activiteit. Het personeelslid heeft tijdens deze periode geen recht op wedde of weddetoelage. Het behoudt echter zijn rechten op bevordering tot een hogere wedde of weddetoelage.
+...
 
 ### ART. 36.
 
-Dit hoofdstuk heeft uitwerking met ingang van 1 januari 1993, met uitzondering van artikel 30 dat in werking treedt op de datum van de eedaflegging voor één van de erin vermelde mandaten na de eerstvolgende verkiezingen voor hetzelfde mandaat.<br>
-<br>
-In afwijking van voorgaand lid, kan echter het personeelslid dat een politiek mandaat uitoefent of heeft uitgeoefend zoals bedoeld in artikel 30, op zijn verzoek binnen de periode van 1 januari 1989 tot op de datum van de inwerkingtreding van artikel 30, reeds de toepassing bekomen van de bepalingen van dit hoofdstuk. [ (verv. decr. 15 december 1993, art. 36, I: 10 maart 1994) ]
+...
 
 ### ART. 36bis.
 
-De personeelsleden die op 1 januari 1993<br>
-<br>
-- burgemeester waren van een gemeente met meer dan vijftigduizend en minder dan vijfenzestigduizend inwoners of<br>
-<br>
-- schepen waren of voorzitter van de raad voor maatschappelijk welzijn van een gemeente met meer dan tachtigduizend en minder dan honderddertigduizend inwoners en op dezelfde datum een ambt in het door de Vlaamse Gemeenschap georganiseerd of gesubsidieerd onderwijs of PMS-centra effectief uitoefenden, mogen in afwijking van artikel 30, na de eedaflegging voor één van bovenvermelde ambten na de eerstvolgende verkiezingen, het ambt in het onderwijs of PMS-centrum verder blijven uitoefenen.<br>
-<br>
-Het ambt in het onderwijs of het PMS-centrum mag echter niet meer dan één vierde bedrage van de prestaties vereist voor een ambt met volledige prestaties. [ (ing. decr. 15 december 1993, art. 37, I: 1 september 1993) ]
+...
 
 ## HOOFDSTUK IV INWERKINGTREDING
 
