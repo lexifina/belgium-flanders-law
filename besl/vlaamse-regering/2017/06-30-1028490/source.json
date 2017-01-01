@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028490,
+  "title": "Besluit van de Vlaamse Regering van 2017-06-30 tot invoeging van een artikel 6/1 in het besluit van de Vlaamse Regering van 21 september 2012 betreffende pilootprojecten over nieuwe ruimtelijke concepten in de woonzorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028490/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "64d35a32165c9e201f36dd0c7c511a0d138efc8c75ef696d758f5063fb95d8dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028490&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-06-30",
+  "gazette": "2017-07-24",
+  "numac": 2017030674,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
