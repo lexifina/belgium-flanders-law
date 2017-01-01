@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027669,
+  "title": "Ministerieel besluit van 2016-12-09 houdende actualisatie van de huidige bandingfactoren en vastlegging van de bandingfactoren van groenestroomcertificaten en warmte-krachtcertificaten voor projecten met een startdatum vanaf 2017",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027669/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "d2175b1bb6bae622c26084bbcd6a4fd732948eb442c17b0894fe57bbad8bb04b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027669&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-12-09",
+  "gazette": "2016-12-22",
+  "numac": 2016036643,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
