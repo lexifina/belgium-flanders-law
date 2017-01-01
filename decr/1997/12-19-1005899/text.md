@@ -16,7 +16,7 @@
 
 ### ART. 4.
 
-Voor het begrotingsjaar 1998 worden de vastleggingsmachtigingen, bedoeld in artikel 166 van het decreet van 21 december 1994 betreffende het Onderwijs VI, verhoogd met 800.000.000 frank. Dit bedrag is bestemd voor de hogescholen.<br /><br />Deze extra vastleggingsmachtiging wordt als volgt verdeeld:<br /><br />1) IVAH: 262.476.370 frank<br /><br />2) DIGO - gesubsidieerde officiële hogescholen: 74.047.166 frank<br /><br />3) DIGO - gesubsidieerde vrije hogescholen: 463.476.464 frank
+...
 
 ### ART. 5.
 
