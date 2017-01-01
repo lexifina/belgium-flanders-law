@@ -2,16 +2,16 @@
   "codex_id": 1004100,
   "title": "Besluit van de Vlaamse Regering van 1995-07-28 betreffende de organisatie van de examens in de hogescholen van de Vlaamse Gemeenschap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004100/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f71bd92a9f3375136af816cef1df4837977abfdd109538d2512b8db6855e1421",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004100/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "ac71ea096f17d2ae11155ebb2443ee2943ac3eb0a909932a9628806a278d8aab",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004100&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2017-01-01",
   "made": "1995-07-28",
   "gazette": "1995-11-29",
   "numac": 1995036506,
   "document_start": "1995-09-01",
   "document_end": "2016-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2017-01-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
