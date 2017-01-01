@@ -58,7 +58,8 @@ De Vlaamse Regering kan een dienst voor pleegzorg vergunnen indien de dienst aan
 
 ### ART. 12.
 
-De Vlaamse Regering bepaalt de vergunningsprocedure, die de mogelijkheid bevat om een bezwaarschrift in te dienen, en de duur van de vergunning.<br /><br />
+De Vlaamse Regering bepaalt de vergunningsprocedure, die de mogelijkheid bevat om een bezwaarschrift in te dienen. De vergunning kan worden verleend voor een onbepaalde duur.<br>
+&nbsp;
 
 ## Afdeling 4 Subsidiëring van de diensten voor pleegzorg
 
@@ -251,6 +252,10 @@ In artikel 8, § 1, van hetzelfde decreet wordt een tweede lid ingevoegd dat lui
 ### ART. 52.
 
 De Vlaamse Regering bepaalt de overgangsbepalingen voor pleegzorgsituaties die ontstonden vóór de datum van inwerkingtreding van dit decreet.<br /><br />
+
+### ART 52/1.
+
+De diensten voor pleegzorg die vergund zijn op 1 januari 2017, worden van rechtswege geacht voor een onbepaalde duur vergund te zijn.
 
 ### ART. 53.
 
