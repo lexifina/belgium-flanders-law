@@ -2,16 +2,16 @@
   "codex_id": 1023015,
   "title": "Besluit van de Vlaamse Regering van 2013-05-31 tot vastlegging van het percentage van de omvang aan opleidingsonderdelen aangeboden in een andere onderwijstaal dan het Nederlands, zoals bedoeld in artikel 91sexies, § 2, van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023015/VolledigDocument?datum=2013-07-12",
-  "source_sha256": "260130110b62d1d71198d7db1e0d3f00de3fc298781bc51ee144fe5f47ce63db",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023015/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "e6576925e4ecfe7e3628ac0f9635dec6d4a77c3642ef36df56851ff92eb66706",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023015&param=informatie",
-  "as_of": "2013-07-12",
+  "as_of": "2017-01-01",
   "made": "2013-05-31",
   "gazette": "2013-07-02",
   "numac": 2013035601,
   "document_start": "2013-07-12",
   "document_end": "2016-12-31",
-  "in_force": "2013-07-12",
+  "in_force": "2017-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2013-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
