@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026985,
+  "title": "Ministerieel besluit van 2016-06-03 tot wijziging van bijlage II bij het besluit van de Vlaamse Regering van 3 oktober 2003 houdende de reglementering van de handel in en de keuring van zaaizaad van oliehoudende planten en vezelgewassen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026985/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "f40d32dbdc32113b7c2f7d6537e18fbfe2e2a2b10651c7b2b8cb67b7220ed821",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026985&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-06-03",
+  "gazette": "2016-07-06",
+  "numac": 2016036023,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
