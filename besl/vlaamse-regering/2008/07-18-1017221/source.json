@@ -2,16 +2,16 @@
   "codex_id": 1017221,
   "title": "Besluit van de Vlaamse Regering van 2008-07-18 houdende vastlegging van een lijst van algemene resultaatsindicatoren voor het Aanmoedigingsfonds hoger onderwijs voor de periode 2008-2011",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017221/VolledigDocument?datum=2008-11-02",
-  "source_sha256": "76c409e93c6e20a4adb8e318fd33331bb46a6bffd2b6f2438bbd713dac7d9539",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017221/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "847680d4b140c327d100b81fe26ade9a1d18efe32a0ab70967125cd01ec4fb96",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017221&param=informatie",
-  "as_of": "2008-11-02",
+  "as_of": "2017-01-01",
   "made": "2008-07-18",
   "gazette": "2008-10-23",
   "numac": 2008203712,
   "document_start": "2008-11-02",
   "document_end": "2016-12-31",
-  "in_force": "2008-11-02",
+  "in_force": "2017-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2008-11-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
