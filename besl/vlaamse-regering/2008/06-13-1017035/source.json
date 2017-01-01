@@ -2,16 +2,16 @@
   "codex_id": 1017035,
   "title": "Besluit van de Vlaamse Regering van 2008-06-13 tot tijdelijke erkenning van de opleiding bachelor in de rechten van de Katholieke Universiteit Brussel, gezamenlijk georganiseerd met de Katholieke Universiteit Leuven",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017035/VolledigDocument?datum=2011-09-01",
-  "source_sha256": "d2f0c85ebb59c8792467e9de4e522fdfc67c792c15eaa90f103ba4fe2be4283b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017035/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "fe872beb4b44fcd30092e23b635bb78424c15690d69369351d16338bf69e7008",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017035&param=informatie",
-  "as_of": "2011-09-01",
+  "as_of": "2017-01-01",
   "made": "2008-06-13",
   "gazette": "2008-09-04",
   "numac": 2008203006,
   "document_start": "2008-09-01",
   "document_end": "2016-12-31",
-  "in_force": "2011-09-01",
+  "in_force": "2017-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2011-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }

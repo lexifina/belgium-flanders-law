@@ -2,7 +2,7 @@
 
 ### Aanhef
 
-De Vlaamse Regering,<br /><br />Gelet op het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen, inzonderheid op artikel 60bis, ingevoegd bij het decreet van 19 maart 2004;<br /><br />Gelet op het besluit van de Vlaamse Regering van 11 juni 2004 betreffende de tijdelijke erkenning van opleidingen in het hoger onderwijs;<br /><br />Gelet op het door de Nederlands-Vlaamse Accreditatieorganisatie definitief vastgestelde accreditatierapport van 14 maart 2008 met een negatief eindoordeel voor de opleiding bachelor in de rechten van de Katholieke Universiteit Brussel;<br /><br />Gelet op het aanvraagdossier voor tijdelijke erkenning, ingediend op 11 april 2008 door de Katholieke Universiteit Brussel als penvoerende instelling;<br /><br />Gelet op het positieve advies van de Erkenningscommissie, gegeven op 5 mei 2008;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 6 juni 2008;<br /><br />Op voorstel van de Vlaamse minister van Werk, Onderwijs en Vorming;<br /><br />Na beraadslaging,<br /><br />Besluit : <br /><br />
+...
 
 ### ART. 1.
 
