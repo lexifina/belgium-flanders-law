@@ -40,7 +40,7 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 8.
 
-De Vlaamse regering neemt de nodige maatregelen om de personeelsleden van de Raad van het Gemeenschapsonderwijs die niet kunnen worden tewerkgesteld in de overeenkomstig artikel 67, § 1, van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs vastgestelde personeelsformatie, weder te werk te stellen in de diensten van de Vlaamse overheid, waarbij zij voorziet in de nodige sociale begeleiding. Bedoelde personeelsleden genieten van overgangsmaatregelen met betrekking tot de genoten salarisschaal en de geldelijke, sociale en dienstanciënniteit.
+...
 
 ### ART. 9.
 
