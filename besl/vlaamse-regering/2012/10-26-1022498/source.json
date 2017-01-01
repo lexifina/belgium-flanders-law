@@ -2,16 +2,16 @@
   "codex_id": 1022498,
   "title": "Besluit van de Vlaamse Regering van 2012-10-26 betreffende de tegemoetkoming voor het begrotingsjaar 2012 aan de schoolbesturen en aan de besturen van de Centra voor Volwassenenonderwijs en de Centra voor Basiseducatie in het gesubsidieerd vrij onderwijs met betrekking tot de financiële controle over het boekjaar 2011",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022498/VolledigDocument?datum=2012-12-09",
-  "source_sha256": "881286fbe8b9835258127619d3457aa5299366eddb367d1a017c2768b84a3fcc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022498/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "6d3fe47068071139fa262a4df4178e46accfee9bbbda6c288e9996c364820f1c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022498&param=informatie",
-  "as_of": "2012-12-09",
+  "as_of": "2017-01-01",
   "made": "2012-10-26",
   "gazette": "2012-11-29",
   "numac": 2012206731,
   "document_start": "2012-12-09",
   "document_end": "2016-12-31",
-  "in_force": "2012-12-09",
+  "in_force": "2017-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2012-12-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
