@@ -16,4 +16,4 @@ Besluit :
 
 ### ART. 1.
 
-Ter uitvoering van artikel 8 van het besluit van de Vlaamse Regering van 19 juni 2009 betreffende initiatieven om uitbreiding van schadelijke effecten, die veroorzaakt zijn door biotische factoren, tegen te gaan, worden de volgende leden aangeduid om deel uit te maken van het beroepscollege :<br />Voorzitter : Willy Petermans<br />Effectieve leden :<br />Willy Petermans<br />Annette Schuermans<br />Anne Malfroot<br />Plaatsvervangers :<br />Heidi Theeten<br />Marc Van Ranst <br />Marc Vekemans
+...
