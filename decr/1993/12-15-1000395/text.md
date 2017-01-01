@@ -150,7 +150,7 @@ Voor het academiejaar 1992-1993 zijn de bepalingen met betrekking tot reaffectat
 
 ### ART. 33.
 
-De bekwaamheidsbewijzen en de salarisschalen vastgesteld voor de leden van het opvoedend hulppersoneel, verbonden aan een instelling voor secundair onderwijs met volledig leerplan, worden eveneens toegepast op de leden van het opvoedend hulppersoneel, verbonden aan de instellingen voor hoger onderwijs van het korte type met volledig leerplan en voor sociale promotie. [ <span class="reference">(ing. decr. 21 december 1994, art. 155, I: 1 april 1972)</span> ]<br /><br />Dit artikel heeft uitwerking met ingang van 1 april 1972.
+...
 
 ### ART. 34.
 
@@ -256,10 +256,4 @@ De artikelen 49, 50 en 51 hebben uitwerking met ingang van 1 juli 1991.
 
 ### ART. 57.
 
-Met uitsluiting van het universitair onderwijs en eveneens, vanaf een datum te bepalen door de Vlaamse regering, aan het hoger onderwijs buiten de universiteit, worden de personeelsleden van het onderwijs dat door de Vlaamse Gemeenschap wordt ingericht of gesubsidieerd en waarvan de wedde of de weddetoelage geheel of ten dele ten laste van de Vlaamse Gemeenschap is, op hun afwezigheid wegens ziekte gecontroleerd volgens de regels die de Vlaamse regering vaststelt.<br>
-<br>
-De Vlaamse regering kan de persoon of de instelling aanwijzen die met het geneeskundig toezicht op de afwezigheid wegens ziekte wordt belast.<br>
-<br>
-Het personeelslid dat de bij of krachtens dit artikel vastgestelde bepalingen niet naleeft, kan, onverminderd de bepalingen van de decreten rechtspositie, een geldelijke sanctie opgelegd krijgen volgens de voorwaarden, vastgelegd door de Vlaamse Regering.<br>
-<br>
-De Vlaamse Regering waarborgt daarbij in elk geval het recht op verdediging van het personeelslid in kwestie.
+...
