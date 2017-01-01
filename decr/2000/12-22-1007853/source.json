@@ -2,16 +2,16 @@
   "codex_id": 1007853,
   "title": "Decreet van 2000-12-22 betreffende de amateurkunsten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007853/VolledigDocument?datum=2014-02-13",
-  "source_sha256": "2ca1bad462748a20090cf5e0393151feb0b0de6121d3f190271ba071da592013",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007853/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "2d10693f68bfd812279952828970e49c626f4962bafa89ab5651d23de380abe4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007853&param=informatie",
-  "as_of": "2014-02-13",
+  "as_of": "2017-01-01",
   "made": "2000-12-22",
   "gazette": "2001-03-09",
   "numac": 2001035244,
   "document_start": null,
   "document_end": "2024-12-31",
-  "in_force": "2014-02-13",
+  "in_force": "2017-01-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2014-02-13; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
