@@ -62,7 +62,7 @@ De ontvangsten hebben betrekking op : <br />1Â° het overgedragen saldo; <br />2Â
 
 ### ART. 8.
 
-<P>De lijnmanager van het Departement Cultuur, Jeugd, Sport en Media van het   Vlaams Ministerie van Cultuur, Jeugd, Sport en Media of zijn gemandateerde, is   beheerder en gedelegeerd ordonnateur van het C.C.V.G. Alden   Biesen.</P>
+<p>De lijnmanager van het Departement Cultuur, Jeugd en Media van het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media of zijn gemandateerde, is beheerder en gedelegeerd ordonnateur van het C.C.V.G. Alden Biesen.</p>
 
 ### ART. 9.
 
