@@ -8,15 +8,16 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 
 Het agentschap kent jaarlijks een forfaitair subsidiebedrag toe aan contactorganisaties, als vermeld in artikel 47/3, 1°, 2° en 3°, van het besluit van de Vlaamse Regering van 17 maart 2006 betreffende de regie van de zorg en bijstand tot sociale integratie en betreffende de erkenning en subsidiëring van een Vlaams Platform voor verenigingen van personen met een handicap, hierna het Zorgregiebesluit te noemen, die voldoen aan de voorwaarden vermeld in artikel 47/6, eerste lid, van hetzelfde besluit en die optreden voor personen met een handicap die :<br>
 1° een actieve zorgvraag hebben met uitzondering van een vraag naar logeren, kortverblijf of trajectbegeleiding;<br>
-2° nog geen ondersteuning genieten die wordt gesubsidieerd door het agentschap, logeerfunctie, ondersteuning in een plaats kortverblijf, ondersteuning door een dienst Ondersteuningsplan en rechtstreeks toegankelijke hulp uitgezonderd.
+2° nog geen ondersteuning genieten die wordt gesubsidieerd door het agentschap, logeerfunctie en ondersteuning in een plaats, kortverblijf uitgezonderd.<br>
+&nbsp;
 
 ### ART. 2.
 
-Voor de berekening van het forfaitaire subsidiebedrag wordt de forfaitaire vergoeding per persoon met een handicap vastgesteld op 140 euro als wordt opgetreden voor een persoon met een handicap met een vraag naar een ondersteuningsvorm, waarvoor de voorzieningen overeenkomstig het protocol prioriteiten bij opname, vermeld in artikel 18 van het Zorgregiebesluit, een open plaats moeten melden.<br>
+Voor de berekening van het forfaitaire subsidiebedrag wordt de forfaitaire vergoeding per persoon met een handicap vastgesteld op 100 euro als wordt opgetreden voor een persoon met een handicap met een vraag naar een ondersteuningsvorm, waarvoor de voorzieningen overeenkomstig het protocol prioriteiten bij opname, vermeld in artikel 18 van het Zorgregiebesluit, een open plaats moeten melden.<br>
 <br>
 De forfaitaire vergoeding wordt vastgesteld op 62,5 euro per persoon met een handicap als wordt opgetreden voor een persoon met een handicap met een vraag naar een ondersteuningsvorm waarvoor de voorzieningen overeenkomstig het protocol prioriteiten bij opname, vermeld in artikel 18 van het Zorgregiebesluit, geen open plaats moeten melden.<br>
 <br>
-De forfaitaire vergoeding wordt vastgesteld op 102,5 euro per persoon met een handicap als wordt opgetreden voor een persoon met een handicap die alleen een vraag heeft naar een persoonlijke-assistentiebudget.<br>
+De forfaitaire vergoeding wordt vastgesteld op 62,5 euro per persoon met een handicap als wordt opgetreden voor een persoon met een handicap die alleen een vraag heeft naar een persoonlijke-assistentiebudget.<br>
 <br>
 Als de persoon met een handicap zowel een vraag naar een ondersteuningsvorm heeft als vermeld in lid 1 of lid 2 als een vraag naar een persoonlijke-assistentiebudget wordt het forfaitaire subsidiebedrag afhankelijk van de andere ondersteuningsvorm beperkt tot het bedrag, vermeld in lid 1 of lid 2.<br>
 &nbsp;
