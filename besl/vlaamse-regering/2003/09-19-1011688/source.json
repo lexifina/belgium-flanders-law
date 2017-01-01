@@ -2,16 +2,16 @@
   "codex_id": 1011688,
   "title": "Besluit van de Vlaamse Regering van 2003-09-19 houdende de vorming van het personeel van de centra voor leerlingenbegeleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011688/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "efff50b522d1f63c6d9acef0b55d35bd1707a4f4ed882e74fa03802f952e5386",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011688/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "bb887b1e60b37632e218114af74bc1afde2a527e3175c2a420df96cabbfff3ea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011688&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2017-01-01",
   "made": "2003-09-19",
   "gazette": "2003-10-30",
   "numac": 2003201542,
   "document_start": "2003-09-01",
   "document_end": null,
-  "in_force": "2010-01-01",
+  "in_force": "2017-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }

@@ -18,7 +18,7 @@ Het vormingsplan bevat volgende onderdelen:<br /><br />1° de wijze waarop vormi
 
 ### ART. 4.
 
-Het vormingsplan is een onderdeel van de doorlichting van het centrum, bedoeld in artikel 6 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijs en pedagogische begeleidingsdienst. Bij de doorlichting wordt het vormingsplan ter beschikking gesteld van de visitatiecommissie.
+Het vormingsplan is een onderdeel van de doorlichting van het centrum, bedoeld in het decreet betreffende de kwaliteit van onderwijs. Bij de doorlichting wordt het vormingsplan ter beschikking gesteld van de visitatiecommissie.
 
 ## HOOFDSTUK III ORGANISATIE VAN DE VORMING
 
