@@ -241,7 +241,28 @@ De aldus geïndexeerde bijdragen worden van kracht op 1 januari van het jaar x +
 
 ### Tekst
 
-1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder:<br /><br />"melk": het product voortkomend van het melken van één of meer koeien en waarvan het natuurlijk vetgehalte al dan niet werd gewijzigd;<br /><br />"koper":<br /><br />1° iedere natuurlijke of rechtspersoon die melk aankoopt om deze te onderwerpen aan bewerkingen van bereiding, fabricage, omvorming of conditionering;<br /><br />2° iedere natuurlijke of rechtspersoon die zich in welke hoedanigheid ook voor eigen rekening of voor rekening van een derde stelt tussen de producent en de onder 1° bedoelde persoon;<br /><br />"producent": de houder van één of meer koeien bestemd voor de melkproductie in een productiebedrijf, waarvan de exploitatiezetel in Vlaanderen gevestigd is.<br /><br />2. De verplichte bijdragen bestemd voor het promotiefonds "Zuivel" worden als volgt vastgesteld:<br /><br />Iedere melkproducent is een bijdrage verschuldigd van 12,4 cent per 100 liter melk. Deze bijdrage wordt proportioneel berekend. In geval van levering van room bedraagt de bijdrage 3 cent per kilogram botervet.<br /><br />3. 1° Als de producent de melk aan een koper levert, wordt de bijdrage door de koper van de melk ingehouden op het aan de producent te betalen bedrag.<br /><br />De kopers van de melk geven op de afrekening van elke producent afzonderlijk het bedrag aan dat als verplichte bijdrage is ingehouden.<br /><br />De ingehouden bijdragen worden van rechtswege binnen de 45 dagen na de betrokken maand door de koper van de melk gestort aan VLAM.<br /><br />2° Uiterlijk binnen 45 dagen na het einde van de betrokken periode, delen de kopers aan VLAM de totale hoeveelheid door de producenten geleverde melk gedurende die maand mee.<br /><br />3° De kopers houden een productenboekhouding ter beschikking van VLAM waarin per maand moeten vermeld zijn:<br /><br />a) naam en adres van de producenten van wie zij melk hebben gekocht;<br /><br />b) de van elke producent gekochte hoeveelheid melk;<br /><br />c) het bedrag dat als bijdrage is ingehouden op het bedrag dat aan iedere producent verschuldigd is als betaling voor de geleverde melk;<br /><br />d) naam en adres van de natuurlijke of rechtspersonen waaraan de betrokken melk is geleverd, als ze tussenpersonen zijn tussen de producenten en gebruikers.<br /><br />4. 1° Als een producent de melk niet via levering aan een koper verhandelt, worden de overeenkomstige bijdragen jaarlijks door VLAM gefactureerd op basis van productiegegevens waarover deze beschikt, met een minimum van 40 euro per jaar. De referentieperiode voor deze bijdragen loopt van 1 april van het bijdragejaar -2 tot en met 31 maart van het bijdragejaar -1.<br /><br />2° De producenten sub 1° houden een productenboekhouding ter beschikking van VLAM, waarin per maand de geproduceerde hoeveelheid melk vermeld moet vermeld zijn.  <span class="reference">(verv. B.V.R. 26 oktober 2001, art. 3, I: 1 januari 2002)</span> ]
+1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder:<br>
+"melk": het product voortkomend van het melken van één of meer koeien en waarvan het natuurlijk vetgehalte al dan niet werd gewijzigd;<br>
+"koper":<br>
+1° iedere natuurlijke of rechtspersoon die melk aankoopt om deze te onderwerpen aan bewerkingen van bereiding, fabricage, omvorming of conditionering;<br>
+2° iedere natuurlijke of rechtspersoon die zich in welke hoedanigheid ook voor eigen rekening of voor rekening van een derde stelt tussen de producent en de onder 1° bedoelde persoon;<br>
+"producent": de houder van één of meer koeien bestemd voor de melkproductie in een productiebedrijf, waarvan de exploitatiezetel in Vlaanderen gevestigd is.<br>
+<br>
+2. De verplichte bijdragen bestemd voor het promotiefonds "Zuivel" worden als volgt vastgesteld:<br>
+Iedere melkproducent is een bijdrage verschuldigd van 11,60 cent per 100 liter melk. Deze bijdrage wordt proportioneel berekend. In geval van levering van room bedraagt de bijdrage 3 cent per kilogram botervet.<br>
+<br>
+3. 1° Als de producent de melk aan een koper levert, wordt de bijdrage door de koper van de melk ingehouden op het aan de producent te betalen bedrag.<br>
+De kopers van de melk geven op de afrekening van elke producent afzonderlijk het bedrag aan dat als verplichte bijdrage is ingehouden.<br>
+De ingehouden bijdragen worden van rechtswege binnen de 45 dagen na de betrokken maand door de koper van de melk gestort aan VLAM.<br>
+2° Uiterlijk binnen 45 dagen na het einde van de betrokken periode, delen de kopers aan VLAM de totale hoeveelheid door de producenten geleverde melk gedurende die maand mee.<br>
+3° De kopers houden een productenboekhouding ter beschikking van VLAM waarin per maand moeten vermeld zijn:<br>
+a) naam en adres van de producenten van wie zij melk hebben gekocht;<br>
+b) de van elke producent gekochte hoeveelheid melk;<br>
+c) het bedrag dat als bijdrage is ingehouden op het bedrag dat aan iedere producent verschuldigd is als betaling voor de geleverde melk;<br>
+d) naam en adres van de natuurlijke of rechtspersonen waaraan de betrokken melk is geleverd, als ze tussenpersonen zijn tussen de producenten en gebruikers.<br>
+<br>
+4. 1° Als een producent de melk niet via levering aan een koper verhandelt, worden de overeenkomstige bijdragen jaarlijks door VLAM gefactureerd op basis van productiegegevens waarover deze beschikt, met een minimum van 40 euro per jaar. De referentieperiode voor deze bijdragen loopt van 1 april van het bijdragejaar -2 tot en met 31 maart van het bijdragejaar -1.<br>
+2° De producenten sub 1° houden een productenboekhouding ter beschikking van VLAM, waarin per maand de geproduceerde hoeveelheid melk vermeld moet vermeld zijn.
 
 ## Bijlage VIII [Verplichte bijdragen in het promotiefonds "Visserij en aquacultuur"
 
@@ -253,23 +274,7 @@ De jaarlijkse verplichte bijdragen, bestemd voor het promotiefonds "visserij en 
 
 ### Tekst
 
-1. Voor de toepassing van de bijdrageregeling in deze bijlage wordt verstaan onder :<br>
-1° brood- en banketbakker : de persoon of vennootschap die zich bezighoudt met het vervaardigen van verse producten voor onmiddellijke consumptie met een zeer beperkte houdbaarheid, alsook verbruikszalen bij een banketbakkerij die gemiddeld minder dan 20 arbeiders tewerkstelt;<br>
-2° verse producten :<br>
-a) bakkerijproducten of andere producten zoals die door de wetgeving inzake levensmiddelen betreffende brood en andere bakkerijproducten worden bepaald;<br>
-b) producten die gewoonlijk als banketbakkerijproducten worden aangeduid, namelijk :<br>
-1) producten op basis van soezenbeslag en bladerdeeg;<br>
-2) meringues;<br>
-3) diverse vetdegen, biscuit- en cakebeslagsoorten;<br>
-4) petit-fours;<br>
-5) taarten, taartjes en gebak.<br>
-<br>
-1/1.Voor de toepassing van punt 1, 1°, wordt het gemiddelde aantal arbeiders dat wordt tewerkgesteld berekend op basis van het aantal arbeiders per technische bedrijfseenheid in de zin van de wet van 20 september 1948 houdende de organisatie van het bedrijfsleven, uitgedrukt in voltijdse equivalenten. Het gemiddelde wordt genomen op 30 september van het kalenderjaar in kwestie en wordt bepaald op basis van het gemiddeld aantal arbeiders dat tewerkgesteld was in de referteperiode die voorafgaat aan die datum en die loopt van 1 september van het jaar dat voorafgaat aan het kalenderjaar in kwestie tot en met 31 augustus van het kalenderjaar in kwestie.<br>
-<br>
-2. De verplichte bijdragen bestemd voor het promotiefonds "Brood en banket" worden als volgt bepaald:<br>
-1° alle brood- en banketbakkers die gevestigd zijn in Vlaanderen, met uitzondering van de brood- en banketbakkers die tegelijk voldoen aan de voorwaarden, vermeld in punt 1, 1°, in het kalenderjaar dat voorafgaat aan het jaar waarvoor de bijdragen verschuldigd zijn, betalen een verplichte bijdrage van 0,05 % op de verkoop van brood- en banketbakkerijproducten die onderworpen zijn aan een btw-percentage van 6 %, met een forfaitaire vrijstelling van 10 %;<br>
-2° de bijdragen, vermeld in punt 1°, worden geïnd op basis van het omzetcijfer dat bekend is bij de btw-administratie en dat betrekking heeft op het kalenderjaar dat onmiddellijk voorafgaat aan het kalenderjaar waarvoor de bijdragen verschuldigd zijn;<br>
-3° Indien het wegens aanvang of hervatting van de activiteit van brood- en banketbakker niet mogelijk is de bijdrage op de in 2° bedoelde wijze vast te stellen, is een voorlopige jaarlijkse verplichte bijdrage verschuldigd van 300 euro. Deze voorlopige bijdrage wordt geregulariseerd op basis van de definitieve verkoopcijfers van het betrokken jaar waarvoor de bijdrage verschuldigd is, zodra deze beschikbaar zijn.
+...
 
 ## Bijlage X [Verplichte bijdragen in het promotiefonds "Biologische landbouw"
 
