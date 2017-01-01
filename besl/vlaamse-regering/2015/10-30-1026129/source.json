@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026129,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-30 tot wijziging van artikel 11 van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026129/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "53ef5b92a443492444f056ca7b90eb17e1845fc157e977d0a1f947a6f332768c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026129&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2015-10-30",
+  "gazette": "2015-11-27",
+  "numac": 2015036434,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
