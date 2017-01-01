@@ -7,10 +7,10 @@
 Dit besluit is van toepassing op de volgende personeelsleden:<br>
 1° de personeelsleden, bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br>
 2° de personeelsleden, bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
-3° de leden van de inspectie voor het onderwijs georganiseerd door de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
-4° de leden van de inspectie voor de PMS/CLB-centra georganiseerd door de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
-5° de personeelsleden van de dienst voor onderwijsontwikkeling, bedoeld in artikel 9 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
-6° de personeelsleden van de pedagogische begeleidingsdiensten, bedoeld in artikel 88 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
+3° de leden van de inspectie voor het onderwijs georganiseerd door de Vlaamse Gemeenschap, bedoeld in het decreet betreffende kwaliteit van onderwijs;<br>
+4° ...<br>
+5° ...<br>
+6° de personeelsleden van de pedagogische begeleidingsdiensten, bedoeld in het decreet betreffende kwaliteit van onderwijs;<br>
 7° de personeelsleden, bedoeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.
 
 ## HOOFDSTUK II VASTSTELLING VAN DE SALARISSCHALEN
