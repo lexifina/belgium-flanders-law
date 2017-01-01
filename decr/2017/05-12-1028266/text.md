@@ -4,6 +4,14 @@
 
 ## HOOFDSTUK 2 Machtiging tot oprichting van en deelname aan verenigingen zonder winstoogmerk
 
+### ART 4.
+
+De Vlaamse Regering wordt gemachtigd om mee te werken aan de oprichting van een vereniging zonder winstoogmerk en toe te treden tot die vereniging met als doel vorm en inhoud te geven aan de Vlaams-Marokkaanse culturele samenwerking, ter uitvoering van het cultureel akkoord tussen het Koninkrijk België en het Koninkrijk Marokko, ondertekend te Brussel op 18 juli 1975.<br>
+<br>
+Elke natuurlijke persoon en elke rechtspersoon, voorgedragen in gezamenlijk overleg tussen de Vlaamse Regering en het Koninkrijk Marokko, kan als werkend lid tot die vereniging toetreden.<br>
+<br>
+De bestuurders van die vereniging worden voorgedragen in gezamenlijk overleg tussen de Vlaamse Regering en het Koninkrijk Marokko.
+
 ## HOOFDSTUK 3 Lokaal cultuurbeleid
 
 ## HOOFDSTUK 4 Wijziging van het decreet van 13 februari 1980 betreffende de Koninklijke Academie voor Nederlandse Taal- en Letterkunde
