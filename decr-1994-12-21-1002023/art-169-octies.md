@@ -1,5 +1,0 @@
-# Art. 169octies
-In de begroting van de Vlaamse Gemeenschap worden voor het jaar 2005 de volgende vastleggingsmachtigingen toegekend:
-1° aan het Gemeenschapsonderwijs, een bedrag van 31.247.603 euro voor grote en kleine infrastructuurwerken voor het vervullen van de opdrachten, bedoeld in artikelen 23 en 26 van het bijzonder decreet van 14 juli 1998 betreffende het Gemeenschapsonderwijs en artikel 13, § 2, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving;
-2° aan de DIGO, een bedrag van 20.740.299 euro voor het gesubsidieerd officieel onderwijs met uitzondering van de gesubsidieerde officiële hogescholen en een bedrag van 87.092.343 euro voor het gesubsidieerd vrij onderwijs met uitzondering van de gesubsidieerde vrije hogescholen voor het vervullen van de opdrachten, bedoeld in artikelen 13, § 2, en 17, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving;
-3° vanaf het begrotingsjaar 2006 worden deze bedragen aangepast met de voor het begrotingsdecreet gehanteerde aanpassingsfactor voor de investeringssubsidies (ing. decr. 24 december 2004, art. 3, I: 1 januari 2005)].
