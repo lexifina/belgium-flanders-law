@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027797,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-23 houdende de overdracht van sommige personeelsleden van het extern verzelfstandigd agentschap Waterwegen en Zeekanaal NV aan het extern verzelfstandigd agentschap nv De Scheepvaart",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027797/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "30b14b085d97b3c29dbe1bfaa2b6fe02adbc69bcc204f23ea957ab32aa57c1ef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027797&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-12-23",
+  "gazette": "2017-01-27",
+  "numac": 2017010077,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
