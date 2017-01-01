@@ -2533,7 +2533,654 @@ In afwijking van artikel II.129, § 1, eerste lid, van de Codex Hoger   Onderwij
 
 ### ART. III.5.
 
-<P style="MARGIN: 0cm 0cm 0pt">§1. De totale werkingsuitkering (Wtot) voor de   hogescholen en de universiteiten is samengesteld uit de volgende   componenten:</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo1">1°&nbsp;&nbsp;   een onderwijssokkel voor de hogescholen en universiteiten (SOW);</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo1">2°&nbsp;&nbsp;   een variabel onderwijsdeel voor de professioneel gerichte opleidingen aan de   hogescholen (VOWprof);</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo1">3°&nbsp;&nbsp;   een variabel onderwijsdeel voor de academisch gerichte opleidingen aan de   hogescholen (VOWac);</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo1">4°&nbsp;&nbsp;   een variabel onderwijsdeel voor de academisch gerichte opleidingen aan de   universiteiten (VOWun);</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo1">5°&nbsp;&nbsp;   een onderzoekssokkel voor de universiteiten (SOZun);</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo1">6°&nbsp;&nbsp;   een variabel onderzoeksdeel voor de universiteiten (VOZun).</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. Vanaf het begrotingsjaar 2014 is de totale   werkingsuitkering (Wtot) voor de hogescholen en de universiteiten samengesteld   uit de volgende componenten:</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l5 level1 lfo2">1°&nbsp;&nbsp;   een onderwijssokkel voor de professioneel gerichte opleidingen, met uitzondering   van de professioneel gerichte kunstopleidingen, aan de hogescholen   (SOWprof2014);</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l5 level1 lfo2">2°&nbsp;&nbsp;   een onderwijssokkel voor de kunstopleidingen in de Schools of Arts   (SOWhko2014);</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l5 level1 lfo2">3°&nbsp;&nbsp;   een onderwijssokkel voor de academisch gerichte opleidingen aan de   universiteiten (SOWun2014);</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l5 level1 lfo2">4°&nbsp;&nbsp;   een variabel onderwijsdeel voor de professioneel gerichte opleidingen, met   uitzondering van de professioneel gerichte kunstopleidingen, aan de hogescholen   (VOWprof2014);</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l5 level1 lfo2">5°&nbsp;&nbsp;   een variabel onderwijsdeel voor de kunstopleidingen in de Schools of Arts   (VOWhko2014);</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l5 level1 lfo2">6°&nbsp;&nbsp;   een variabel onderwijsdeel voor de academisch gerichte opleidingen aan de   universiteiten (VOWun2014);</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l5 level1 lfo2">7°&nbsp;&nbsp;   een onderzoekssokkel voor de universiteiten (SOZun2014);</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l5 level1 lfo2">8°&nbsp;&nbsp;   een variabel onderzoeksdeel voor de universiteiten (VOZun2014).</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het variabele onderwijsdeel voor de professioneel   gerichte opleidingen, met uitzondering van de professioneel gerichte   kunstopleidingen, aan de hogescholen (VOWprof2014) is het variabele   onderwijsdeel voor de professioneel gerichte opleidingen aan de hogescholen   (VOWprof), vermeld in paragraaf 1, zonder het variabele onderwijsdeel voor de   professioneel gerichte kunstopleidingen en vermeerderd met de bedragen uit de   kolom “VOWprof2014”, vermeld in paragraaf 12.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het variabele onderwijsdeel voor de   kunstopleidingen in de Schools of Arts (VOWhko2014) is de samenvoeging van het   variabele onderwijsdeel voor de academisch gerichte kunstopleidingen aan de   hogescholen (VOWhko), vermeld in paragraaf 5, en het variabele onderwijsdeel   voor de professioneel gerichte kunstopleidingen, en vermeerderd met de bedragen   uit de kolommen “VOWhko2014 bedrag bijkomende middelen” en “VOWhko2014 bedrag   bijzondere weddeschalen”, vermeld in paragraaf 12.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het variabele onderwijsdeel voor de academisch   gerichte opleidingen aan de universiteiten (VOWun2014) is de samenvoeging van   het variabele onderwijsdeel voor de academisch gerichte opleidingen aan de   universiteiten (VOWun), vermeld in paragraaf 1, en het variabele onderwijsdeel   voor de academisch gerichte opleidingen aan de hogescholen (VOWac), vermeld in   paragraaf 1, zonder het variabele onderwijsdeel voor de academisch gerichte   kunstopleidingen aan de hogescholen (VOWhko), vermeld in paragraaf 5, en   vermeerderd met de bedragen uit de kolommen “VOWun2014 puntengewichten” en   “VOWun2014 ZAP”, vermeld in paragraaf 13.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De onderzoekssokkel voor de universiteiten   (SOZun2014) is gelijk aan de onderzoekssokkel voor de universiteiten (SOZun),   vermeld in paragraaf 13.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het variabele onderzoeksdeel voor de   universiteiten (VOZun2014) is het variabele onderzoeksdeel voor de   universiteiten (VOZun), vermeld in paragraaf 1, vermeerderd met de bedragen uit   de kolom “VOZun2014 ZAP”, vermeld in paragraaf 13.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§3. Bij de universiteiten is de verhouding   (sokkel onderwijs SOWun + variabel onderwijsdeel VOWun) ten opzichte van (sokkel   onderzoek SOZun + variabel onderzoeksdeel SOZun) gelijk aan 55 %/45 %. Hierbij   is de sokkel onderwijs SOWun gelijk aan de som van de onderwijssokkels van alle   universiteiten, berekend overeenkomstig de bepalingen in artikel III.9.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§4. Vanaf het begrotingsjaar 2014 worden voor de   berekening van de 55%/45%-verhouding, vermeld in paragraaf 3, de volgende   bedragen in rekening gebracht:</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l3 level1 lfo3">1°&nbsp;&nbsp;   voor de berekening van het onderwijsaandeel (55%):</P>  <P   style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; mso-list: l6 level1 lfo4">a)&nbsp;&nbsp;&nbsp;   het bedrag van de onderwijssokkel voor de academisch gerichte opleidingen aan de   universiteiten (SOWun2014), vermeld of berekend conform dit artikel, verminderd   met 13.269.816,83 euro;</P>  <P   style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; mso-list: l6 level1 lfo4">b)&nbsp;&nbsp;&nbsp;   het bedrag van het variabele onderwijsdeel voor de academisch gerichte   opleidingen aan de universiteiten (VOWun), vermeld of berekend conform dit   artikel, en vermeerderd met het bedrag uit de kolom “VOWun2014 ZAP”, vermeld in   paragraaf 13;</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l3 level1 lfo3">2°&nbsp;&nbsp;   voor de berekening van het onderzoeksaandeel (45%):</P>  <P   style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; mso-list: l2 level1 lfo5">a)&nbsp;&nbsp;&nbsp;   het bedrag van de onderzoekssokkel voor de universiteiten (SOZun), als vermeld   of berekend conform dit artikel;</P>  <P   style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; mso-list: l2 level1 lfo5">b)&nbsp;&nbsp;&nbsp;   het bedrag van het variabele onderzoeksdeel voor de universiteiten (VOZun), en   vermeerderd met het bedrag uit de kolom “VOZun2014ZAP”, vermeld in paragraaf   13.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het bedrag, vermeld in punt 1°, a), wordt vanaf   het begrotingsjaar 2012 geïndexeerd aan de hand van de indexformule, vermeld in   paragraaf 9.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§5. Voor de componenten, vermeld in paragraaf 1,   worden de volgende bedragen vastgelegd (uitgedrukt in euro) :</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <TABLE class=MsoNormalTable   style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; mso-cellspacing: 0cm; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-border-insideh: .75pt outset #222222; mso-border-insidev: .75pt outset #222222"   cellSpacing=0 cellPadding=0 border=1>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P></TD>      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">Vanaf begrotingsjaar 2011</P></TD></TR>    <TR style="mso-yfti-irow: 1">      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">SOW</P></TD>      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">106.006.274,49</P></TD></TR>    <TR style="mso-yfti-irow: 2">      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">VOWprof</P></TD>      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">388.455.586,86</P></TD></TR>    <TR style="mso-yfti-irow: 3">      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">VOWac</P></TD>      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">168.108.359,32</P></TD></TR>    <TR style="mso-yfti-irow: 4">      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">VOWun</P></TD>      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">332.386.458,65</P></TD></TR>    <TR style="mso-yfti-irow: 5">      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">SOZun</P></TD>      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">111.306.588,21</P></TD></TR>    <TR style="mso-yfti-irow: 6; mso-yfti-lastrow: yes">      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">VOZun</P></TD>      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">186.768.469,67</P></TD></TR></TBODY></TABLE>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Van het bedrag VOWac is 64.006.448,76 euro,   hierna het bedrag VOWhko te noemen, uitgetrokken voor de academisch gerichte   kunstopleidingen aan de hogescholen. Als het bedrag voor het variabel   onderwijsdeel VOWac evolueert overeenkomstig de bepalingen vermeld in artikel   III.6, §1, wordt tot en met het begrotingsjaar 2013 het bedrag VOWhko met   hetzelfde percentage aangepast.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Vanaf het begrotingsjaar 2011:</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo6">1°&nbsp;&nbsp;   kan het bedrag VOZun, vermeld in het eerste lid, evolueren overeenkomstig de   bepaling, vermeld in paragraaf 3;</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo6">2°&nbsp;&nbsp;   kunnen de bedragen VOWprof, VOWac en VOWun, vermeld in het eerste lid, evolueren   overeenkomstig de bepalingen, vermeld in artikel III.6, §1.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De bedragen, vermeld in deze paragraaf, zijn op   indexniveau 2011.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§6. Vanaf het begrotingsjaar 2014 worden voor de   componenten SOWprof2014, SOWhko2014 en SOWun2014, vermeld in paragraaf 2, de   volgende bedragen vastgelegd:</P>  <TABLE class=MsoTableGrid   style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook: 1184"   cellSpacing=0 cellPadding=0 border=1>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 118.8pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt"       vAlign=top width=158>        <P style="MARGIN: 0cm 0cm 0pt">1° SOWprof2014</P></TD>      <TD       style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 148.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=198>        <P style="TEXT-ALIGN: right; MARGIN: 0cm 0cm 0pt"         align=right>59.667.613,95 euro;</P></TD></TR>    <TR style="mso-yfti-irow: 1">      <TD       style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 118.8pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=158>        <P style="MARGIN: 0cm 0cm 0pt">2° SOWhko2014 </P></TD>      <TD       style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 148.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=198>        <P style="TEXT-ALIGN: right; MARGIN: 0cm 0cm 0pt" align=right>3.845.018,60         euro;</P></TD></TR>    <TR style="mso-yfti-irow: 2; mso-yfti-lastrow: yes">      <TD       style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 118.8pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=158>        <P style="MARGIN: 0cm 0cm 0pt">3° SOWun2014 </P></TD>      <TD       style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 148.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=198>        <P style="TEXT-ALIGN: right; MARGIN: 0cm 0cm 0pt"         align=right>42.493.641,94 euro.</P></TD></TR></TBODY></TABLE>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Vanaf het begrotingsjaar 2014 wordt VOWprof,   vermeld of berekend overeenkomstig dit artikel, verminderd met 1.610.586,54   euro. Dit bedrag wordt toegevoegd aan VOWhko.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Vanaf het begrotingsjaar 2014 wordt VOWhko,   vermeld of berekend overeenkomstig dit artikel, verminderd met 1.286.616,29   euro. Dit bedrag wordt toegevoegd aan VOWac.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Vanaf het begrotingsjaar 2014 is het bedrag van   het variabele onderwijsdeel voor de professioneel gerichte kunstopleidingen dat   overeenkomstig paragraaf 2 vanaf het begrotingsjaar afgetrokken moet worden van   het variabele onderwijsdeel voor de professioneel gerichte opleidingen VOWprof   en toegevoegd moet worden aan het variabele onderwijsdeel VOWhko gelijk aan   1.612.828,83 euro.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Vanaf het begrotingsjaar 2014 tot en met het   begrotingsjaar 2017 wordt het bedrag van de onderzoekssokkel SOZun jaarlijks met   1.325.078,43 euro verminderd. Dat bedrag wordt jaarlijks toegevoegd aan het   bedrag van het variabele onderzoeksdeel VOZun.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De bedragen, vermeld in deze paragraaf, zijn op   indexniveau 2011.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§7. Vanaf het begrotingsjaar 2014 kunnen de   bedragenVOWac, verminderd met het bedrag van het variabele onderwijsdeel VOWhko   en vermeerderd met het bedrag uit de kolom VOWun2014-puntengewichten vermeld in   paragraaf 13, VOWun vermeerderd met het bedrag uit de kolom VOWun2014ZAP vermeld   in paragraaf 13 , VOWprof2014 en VOWhko2014, berekend overeenkomstig dit   artikel, evolueren overeenkomstig de bepalingen, vermeld in artikel III.6,   §2.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§8. In de begrotingsjaren 2011, 2012 en 2013   wordt een bedrag van 7.387.577,27 euro toegevoegd aan de totale   werkingsuitkering (Wtot) van de hogescholen en universiteiten.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§9. Vanaf de begrotingsjaren 2012 en 2013 worden   de bedragen, vermeld in paragraaf 5, paragraaf 6 en paragraaf 8, geïndexeerd aan   de hand van de volgende formule:</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l4 level1 lfo7">1°&nbsp;&nbsp;   80% van de bedragen volgen de evolutie van de gezondheidsindex;</P>  <P   style="MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; mso-list: l4 level1 lfo7">2°&nbsp;&nbsp;   20% van de bedragen volgen 75% van de evolutie van de gezondheidsindex.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">In afwijking van het bepaalde in het eerste lid   worden voor de begrotingsjaren 2012, 2013 en 2015 de bedragen vermeld in   paragraaf 5, paragraaf 6 en paragraaf 8, geïndexeerd aan de hand van de volgende   formule : 80% van de bedragen volgen de evolutie van de gezondheidsindex.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§10. De bedragen VOWprof, als vermeld in of   berekend conform dit artikel, worden vermeerderd met volgende bedragen,   uitgedrukt in euro:</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <TABLE class=MsoNormalTable   style="BORDER-TOP: #222222 1pt outset; BORDER-RIGHT: #222222 1pt outset; BORDER-BOTTOM: #222222 1pt outset; BORDER-LEFT: #222222 1pt outset; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt"   cellSpacing=0 cellPadding=0 border=1>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">Begrotingsjaar 2011</P></TD>      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">290.291,99</P></TD></TR>    <TR style="mso-yfti-irow: 1">      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">Begrotingsjaar 2012</P></TD>      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">580.583,98</P></TD></TR>    <TR style="mso-yfti-irow: 2">      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">Begrotingsjaar 2013</P></TD>      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">870.875,96</P></TD></TR>    <TR style="mso-yfti-irow: 3">      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">Begrotingsjaar 2014</P></TD>      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">1.161.167,95</P></TD></TR>    <TR style="mso-yfti-irow: 4; mso-yfti-lastrow: yes">      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">Vanaf begrotingsjaar 2015</P></TD>      <TD       style="BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; BORDER-BOTTOM: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #222222 1pt inset; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt">1.451.459,94</P></TD></TR></TBODY></TABLE>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Vanaf het begrotingsjaar 2009 worden de bedragen   vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld   in paragraaf 9.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§11. Voor het begrotingsjaar 2010 worden de   indexeringsbepalingen opgenomen in paragraaf 9 en 10 van dit artikel, III.9, §8,   laatste lid, III.21, §4, eerste lid en artikel III.21, §4, eerste lid in artikel   III.123, III.24, §3, III.34, §2 en §5, tweede lid, III.37, §2, III.40, §2,   III.43, §1, derde lid, III.59, §3, III.77, tweede lid en III.114, §3 niet   toegepast.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Voor de begrotingsjaren 2012 en 2013 worden de   indexeringsbepalingen opgenomen in paragraaf 4, 10 en 12, derde lid van dit   artikel, artikel III.9, §8, laatste lid, III.21, §4, eerste lid en III.21, §4,   eerste lid in artikel III.123, III.24, §3, III.34, §5, tweede lid, III.37, §1,   tweede lid, III.40, §2, III.43, §1, derde lid, III.45, §1, tweede lid, III.59,   §3, III.77, tweede lid en III.114, §3 toegepast overeenkomstig de bepaling in   paragraaf 9, tweede lid.<BR><BR>Voor het begrotingsjaar 2015 worden de   indexeringsbepalingen opgenomen in paragraaf 4, 10 en 12, derde lid, van dit   artikel, artikel III.9, § 8, laatste lid, III.21, § 4, eerste lid, en III.21, §   4, eerste lid, in artikel III.123, III.24, § 3, III.34, § 5, tweede lid, III.37,   § 1, tweede lid, III.40, § 2, III.43, § 1, derde lid, III.45, § 1, tweede lid,   III.59, § 3, III.77, tweede lid, en III.114, § 3, toegepast overeenkomstig de   bepaling in paragraaf 9, tweede lid.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§12. De bedragen VOWprof, als vermeld of berekend   conform dit artikel, worden ver&shy;meerderd met de volgende bedragen en de   bedragen vermeld in paragraaf 1, zijn de volgende (uitgedrukt in euro):</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <TABLE class=MsoNormalTable   style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 100%; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   cellSpacing=0 cellPadding=0 width="100%" border=1>    <TBODY>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.2%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt"       vAlign=top rowSpan=2 width="18%">        <P style="TEXT-ALIGN: center" align=center>begrotingsjaar</P></TD>      <TD       style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.08%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P style="TEXT-ALIGN: center" align=center>VOWprof</P></TD>      <TD       style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.28%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width="18%" colSpan=2>        <P style="TEXT-ALIGN: center" align=center>VOWprof2014</P></TD>      <TD       style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 45.44%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width="45%" colSpan=2>        <P style="TEXT-ALIGN: center" align=center>VOWhko2014</P></TD></TR>    <TR style="HEIGHT: 12.6pt; mso-yfti-irow: 1">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 12.6pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.08%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P style="TEXT-ALIGN: center" align=center>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 12.6pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.28%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%" colSpan=2>        <P style="TEXT-ALIGN: center" align=center>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 12.6pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: center" align=center>bedrag professionele         kunstopleidingen</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 12.6pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: center" align=center>bedrag bijzondere         weddeschalen</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 2">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.2%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>2012</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.18%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%" colSpan=2>        <P>&nbsp;&nbsp; 800.000</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.18%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P>&nbsp;</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 3">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.2%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>2013</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.18%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%" colSpan=2>        <P>5.200.000</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.18%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P>&nbsp;</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 4">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.2%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>2014</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.08%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.28%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%" colSpan=2>        <P>&nbsp; 7.500.000</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>100.000 </P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>&nbsp;</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 5">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.2%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>2015</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.08%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.28%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%" colSpan=2>        <P>10.900.000</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>100.000 </P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>900.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 6">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.2%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>2016</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.08%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.28%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%" colSpan=2>        <P>14.300.000</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>100.000</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>3.700.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 7">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.2%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>2017</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.08%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.28%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%" colSpan=2>        <P>17.666.520</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>100.000</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>3.700.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 8">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.2%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>2018</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.08%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.28%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%" colSpan=2>        <P>20.966.520</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>100.000</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>3.700.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 9">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.2%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>2019</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.08%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.28%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%" colSpan=2>        <P>24.366.520</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>100.000</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>3.700.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 10">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.2%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>2020</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.08%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.28%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%" colSpan=2>        <P>27.766.520</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>100.000</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>3.700.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 11">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.2%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>2021</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.08%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.28%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%" colSpan=2>        <P>31.166.520</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>100.000</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>3.700.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 12">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.2%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>2022</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.08%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.28%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%" colSpan=2>        <P>34.566.520</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>100.000</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>3.700.000</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 13; mso-yfti-lastrow: yes">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.2%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>vanaf 2023</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.08%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%">        <P>&nbsp;</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 18.28%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="18%" colSpan=2>        <P>37.066.520</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>100.000</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 22.72%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width="22%">        <P style="TEXT-ALIGN: right" align=right>3.700.000</P></TD></TR>    <TR>      <TD       style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"       width=136></TD>      <TD       style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"       width=135></TD>      <TD       style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"       width=1></TD>      <TD       style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"       width=136></TD>      <TD       style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"       width=170></TD>      <TD       style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"       width=170></TD></TR></TBODY></TABLE>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De bedragen die in het begrotingsjaar t nominaal   worden toegevoegd, zijnde de verschillen tussen de bedragen voor het   begrotingsjaar t en de bedragen voor het begrotingsjaar t-1, vermeld in deze   paragraaf, worden vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de   indexformule, vermeld in paragraaf 9. Voor het berekenen van de nominale toename   worden de bedragen voor VOWprof en VOWprof2014 als een geheel beschouwd.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Vanaf het begrotingsjaar 2014 wordt jaarlijks een   bedrag toegevoegd van 1.254.057,83 euro aan VOWhko2014. Dit bedrag is op   indexniveau 2011 en wordt vanaf het begrotingsjaar 2012 jaarlijks geïndexeerd   aan de hand van de indexformule vermeld in paragraaf 9.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het bedrag dat nodig is voor de aanpassing van de   regeling van de bijzondere weddeschalen, wordt alleen toegekend als er een   generieke regeling is uitgewerkt voor de uitoefening van nevenactiviteiten in   het hoger onderwijs.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§13. De bedragen VOWun en VOZun, als vermeld of   berekend conform dit artikel, worden vermeerderd met de volgende bedragen en de   bedragen, vermeld in paragraaf 2, zijn de volgende (uitgedrukt in euro):<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Begrotingsjaar       <TD>VOWun       <TD>VOWun 2014       <TD>&nbsp;       <TD>&nbsp;VOZun       <TD>VOZun 2014<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;ZAP       <TD>Puntengewichten       <TD>ZAP       <TD>ZAP       <TD>ZAP<BR>    <TR>      <TD>2012       <TD>440.000       <TD>&nbsp;       <TD>&nbsp;       <TD>360.000       <TD><BR>    <TR>      <TD>2013       <TD>1.925.000       <TD>&nbsp;       <TD>&nbsp;       <TD>1.575.000       <TD><BR>    <TR>      <TD>2014       <TD>&nbsp;       <TD>&nbsp;2.000.000       <TD>3.575.000       <TD>&nbsp;       <TD>&nbsp;2.925.000<BR>    <TR>      <TD>2015       <TD>&nbsp;       <TD>&nbsp;3.000.000       <TD>5.115.000       <TD>&nbsp;       <TD>&nbsp;4.185.000<BR>    <TR>      <TD>2016       <TD>&nbsp;       <TD>&nbsp;3.519.000       <TD>5.971.000       <TD>&nbsp;       <TD>&nbsp;4.886.000<BR>    <TR>      <TD>2017       <TD>&nbsp;       <TD>&nbsp;4.519.000       <TD>7.511.000       <TD>&nbsp;       <TD>&nbsp;6.146.000<BR>    <TR>      <TD>2018       <TD>&nbsp;       <TD>&nbsp;5.519.000       <TD>8.996.000       <TD>&nbsp;       <TD>&nbsp;7.361.000<BR>    <TR>      <TD>2019       <TD>&nbsp;       <TD>&nbsp;6.519.000       <TD>10.591.000       <TD>&nbsp;       <TD>&nbsp;8.666.000<BR>    <TR>      <TD>2020       <TD>&nbsp;       <TD>&nbsp;7.519.000       <TD>12.186.000       <TD>&nbsp;       <TD>&nbsp;9.971.000<BR>    <TR>      <TD>2021       <TD>&nbsp;       <TD>&nbsp;8.519.000       <TD>13.726.000       <TD>&nbsp;       <TD>&nbsp;11.231.000<BR>    <TR>      <TD>2022       <TD>&nbsp;       <TD>&nbsp;9.519.000       <TD>15.321.000       <TD>&nbsp;       <TD>&nbsp;12.536.000<BR>    <TR>      <TD>2023       <TD>&nbsp;       <TD>&nbsp;11.219.000       <TD>16.476.000       <TD>&nbsp;       <TD>&nbsp;13.481.000<BR>    <TR>      <TD>vanaf 2024       <TD>&nbsp;       <TD>&nbsp;11.700.000       <TD>17.270.000       <TD>&nbsp;       <TD>&nbsp;14.130.000</TD></TR></TBODY></TABLE><BR><BR>De bedragen die in het   begrotingsjaar t nominaal worden toegevoegd, zijnde de verschillen tussen de   bedragen voor het begrotingsjaar t en de bedragen voor het begrotingsjaar t-1,   vermeld in deze paragraaf, worden vanaf het begrotingsjaar t+1 geïndexeerd aan   de hand van de indexformule, vermeld in paragraaf 9. Voor het berekenen van de   nominale toename worden de bedragen voor VOWunZAP en VOWun2014ZAP, evenals de   bedragen voor VOZunZAP en VOZun2014ZAP als 1 geheel beschouwd.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§ 14. Vanaf het begrotingsjaar 2015 worden de   bedragen VOWprof2014, VOWhko2014, VOWun2014 en VOZun2014, als vermeld in of   berekend conform dit artikel, vermeerderd met de volgende bedragen:<BR>1°   VOWprof2014: 3.442.783,00 euro;<BR>2° VOWhko2014: 237.334,63 euro;<BR>3°   VOWun2014: 1.557.261,72 euro;<BR>4° VOZun2014: 1.274.123,23 euro.<BR></P>  <P style="MARGIN: 0cm 0cm 0pt">De bedragen, vermeld in deze paragraaf, zijn op   indexniveau 2015 en worden vanaf het begrotingsjaar 2016 jaarlijks geïndexeerd   aan de hand van de indexformule, vermeld in paragraaf 9 van dit   artikel.<BR><BR>&nbsp;§ 15. Vanaf het begrotingsjaar 2016 worden de bedragen   VOWprof2014 en VOWhko2014 als vermeld in of berekend conform dit artikel,   vermeerderd met de volgende bedragen:<BR>1° VOWprof2014: 3.031.000 euro;<BR>2°   VOWhko2014: 452.000 euro.<BR><BR>De bedragen, vermeld in deze paragraaf, zijn op   indexniveau 2016 en worden vanaf het begrotingsjaar 2017 jaarlijks geïndexeerd   aan de hand van de indexformule, vermeld in paragraaf 9 van dit   artikel.</P>
+<p>§1. De totale werkingsuitkering (Wtot) voor de hogescholen en de universiteiten is samengesteld uit de volgende componenten:<br>
+1°&nbsp;&nbsp; een onderwijssokkel voor de hogescholen en universiteiten (SOW);<br>
+2°&nbsp;&nbsp; een variabel onderwijsdeel voor de professioneel gerichte opleidingen aan de hogescholen (VOWprof);<br>
+3°&nbsp;&nbsp; een variabel onderwijsdeel voor de academisch gerichte opleidingen aan de hogescholen (VOWac);<br>
+4°&nbsp;&nbsp; een variabel onderwijsdeel voor de academisch gerichte opleidingen aan de universiteiten (VOWun);<br>
+5°&nbsp;&nbsp; een onderzoekssokkel voor de universiteiten (SOZun);<br>
+6°&nbsp;&nbsp; een variabel onderzoeksdeel voor de universiteiten (VOZun).<br>
+<br>
+§2. Vanaf het begrotingsjaar 2014 is de totale werkingsuitkering (Wtot) voor de hogescholen en de universiteiten samengesteld uit de volgende componenten:<br>
+1°&nbsp;&nbsp; een onderwijssokkel voor de professioneel gerichte opleidingen, met uitzondering van de professioneel gerichte kunstopleidingen, aan de hogescholen (SOWprof2014);<br>
+2°&nbsp;&nbsp; een onderwijssokkel voor de kunstopleidingen in de Schools of Arts (SOWhko2014);<br>
+3°&nbsp;&nbsp; een onderwijssokkel voor de academisch gerichte opleidingen aan de universiteiten (SOWun2014);<br>
+4°&nbsp;&nbsp; een variabel onderwijsdeel voor de professioneel gerichte opleidingen, met uitzondering van de professioneel gerichte kunstopleidingen, aan de hogescholen (VOWprof2014);<br>
+5°&nbsp;&nbsp; een variabel onderwijsdeel voor de kunstopleidingen in de Schools of Arts (VOWhko2014);<br>
+6°&nbsp;&nbsp; een variabel onderwijsdeel voor de academisch gerichte opleidingen aan de universiteiten (VOWun2014);<br>
+7°&nbsp;&nbsp; een onderzoekssokkel voor de universiteiten (SOZun2014);<br>
+8°&nbsp;&nbsp; een variabel onderzoeksdeel voor de universiteiten (VOZun2014).<br>
+<br>
+Het variabele onderwijsdeel voor de professioneel gerichte opleidingen, met uitzondering van de professioneel gerichte kunstopleidingen, aan de hogescholen (VOWprof2014) is het variabele onderwijsdeel voor de professioneel gerichte opleidingen aan de hogescholen (VOWprof), vermeld in paragraaf 1, zonder het variabele onderwijsdeel voor de professioneel gerichte kunstopleidingen en vermeerderd met de bedragen uit de kolom “VOWprof2014”, vermeld in paragraaf 12.<br>
+<br>
+Het variabele onderwijsdeel voor de kunstopleidingen in de Schools of Arts (VOWhko2014) is de samenvoeging van het variabele onderwijsdeel voor de academisch gerichte kunstopleidingen aan de hogescholen (VOWhko), vermeld in paragraaf 5, en het variabele onderwijsdeel voor de professioneel gerichte kunstopleidingen, en vermeerderd met de bedragen uit de kolommen “VOWhko2014 bedrag bijkomende middelen” en “VOWhko2014 bedrag bijzondere weddeschalen”, vermeld in paragraaf 12.<br>
+<br>
+Het variabele onderwijsdeel voor de academisch gerichte opleidingen aan de universiteiten (VOWun2014) is de samenvoeging van het variabele onderwijsdeel voor de academisch gerichte opleidingen aan de universiteiten (VOWun), vermeld in paragraaf 1, en het variabele onderwijsdeel voor de academisch gerichte opleidingen aan de hogescholen (VOWac), vermeld in paragraaf 1, zonder het variabele onderwijsdeel voor de academisch gerichte kunstopleidingen aan de hogescholen (VOWhko), vermeld in paragraaf 5, en vermeerderd met de bedragen uit de kolommen “VOWun2014 puntengewichten” en “VOWun2014 ZAP”, vermeld in paragraaf 13.<br>
+<br>
+De onderzoekssokkel voor de universiteiten (SOZun2014) is gelijk aan de onderzoekssokkel voor de universiteiten (SOZun), vermeld in paragraaf 13.<br>
+<br>
+Het variabele onderzoeksdeel voor de universiteiten (VOZun2014) is het variabele onderzoeksdeel voor de universiteiten (VOZun), vermeld in paragraaf 1, vermeerderd met de bedragen uit de kolom “VOZun2014 ZAP”, vermeld in paragraaf 13.<br>
+<br>
+§3. Bij de universiteiten is de verhouding (sokkel onderwijs SOWun + variabel onderwijsdeel VOWun) ten opzichte van (sokkel onderzoek SOZun + variabel onderzoeksdeel SOZun) gelijk aan 55 %/45 %. Hierbij is de sokkel onderwijs SOWun gelijk aan de som van de onderwijssokkels van alle universiteiten, berekend overeenkomstig de bepalingen in artikel III.9.<br>
+<br>
+§4. Vanaf het begrotingsjaar 2014 worden voor de berekening van de 55%/45%-verhouding, vermeld in paragraaf 3, de volgende bedragen in rekening gebracht:<br>
+1°&nbsp;&nbsp; voor de berekening van het onderwijsaandeel (55%):<br>
+a)&nbsp;&nbsp;&nbsp; het bedrag van de onderwijssokkel voor de academisch gerichte opleidingen aan de universiteiten (SOWun2014), vermeld of berekend conform dit artikel, verminderd met 13.269.816,83 euro;<br>
+b)&nbsp;&nbsp;&nbsp; het bedrag van het variabele onderwijsdeel voor de academisch gerichte opleidingen aan de universiteiten (VOWun), vermeld of berekend conform dit artikel, en vermeerderd met het bedrag uit de kolom “VOWun2014 ZAP”, vermeld in paragraaf 13;<br>
+2°&nbsp;&nbsp; voor de berekening van het onderzoeksaandeel (45%):<br>
+a)&nbsp;&nbsp;&nbsp; het bedrag van de onderzoekssokkel voor de universiteiten (SOZun), als vermeld of berekend conform dit artikel;<br>
+b)&nbsp;&nbsp;&nbsp; het bedrag van het variabele onderzoeksdeel voor de universiteiten (VOZun), en vermeerderd met het bedrag uit de kolom “VOZun2014ZAP”, vermeld in paragraaf 13.<br>
+<br>
+Het bedrag, vermeld in punt 1°, a), wordt vanaf het begrotingsjaar 2012 geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9.<br>
+<br>
+§5. Voor de componenten, vermeld in paragraaf 1, worden de volgende bedragen vastgelegd (uitgedrukt in euro) :</p>
+
+<p>&nbsp;</p>
+
+<table class="MsoNormalTable" style="border: 1pt solid windowtext; border-image: none; mso-cellspacing: 0cm; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-border-insideh: .75pt outset #222222; mso-border-insidev: .75pt outset #222222;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>Vanaf begrotingsjaar 2011</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>SOW</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>106.006.274,49</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>VOWprof</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>388.455.586,86</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>VOWac</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>168.108.359,32</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>VOWun</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>332.386.458,65</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>SOZun</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>111.306.588,21</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>VOZun</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>186.768.469,67</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Van het bedrag VOWac is 64.006.448,76 euro, hierna het bedrag VOWhko te noemen, uitgetrokken voor de academisch gerichte kunstopleidingen aan de hogescholen. Als het bedrag voor het variabel onderwijsdeel VOWac evolueert overeenkomstig de bepalingen vermeld in artikel III.6, §1, wordt tot en met het begrotingsjaar 2013 het bedrag VOWhko met hetzelfde percentage aangepast.<br>
+<br>
+Vanaf het begrotingsjaar 2011:<br>
+1°&nbsp;&nbsp; kan het bedrag VOZun, vermeld in het eerste lid, evolueren overeenkomstig de bepaling, vermeld in paragraaf 3;<br>
+2°&nbsp;&nbsp; kunnen de bedragen VOWprof, VOWac en VOWun, vermeld in het eerste lid, evolueren overeenkomstig de bepalingen, vermeld in artikel III.6, §1.<br>
+<br>
+De bedragen, vermeld in deze paragraaf, zijn op indexniveau 2011.<br>
+<br>
+§6. Vanaf het begrotingsjaar 2014 worden voor de componenten SOWprof2014, SOWhko2014 en SOWun2014, vermeld in paragraaf 2, de volgende bedragen vastgelegd:</p>
+
+<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook: 1184;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 118.8pt; background-color: transparent;">
+			<p>1° SOWprof2014</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 148.85pt; background-color: transparent;">
+			<p style="text-align: right;">59.667.613,95 euro;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 118.8pt; background-color: transparent;">
+			<p>2° SOWhko2014</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 148.85pt; background-color: transparent;">
+			<p style="text-align: right;">3.845.018,60 euro;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 118.8pt; background-color: transparent;">
+			<p>3° SOWun2014</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 148.85pt; background-color: transparent;">
+			<p style="text-align: right;">42.493.641,94 euro.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Vanaf het begrotingsjaar 2014 wordt VOWprof, vermeld of berekend overeenkomstig dit artikel, verminderd met 1.610.586,54 euro. Dit bedrag wordt toegevoegd aan VOWhko.<br>
+<br>
+Vanaf het begrotingsjaar 2014 wordt VOWhko, vermeld of berekend overeenkomstig dit artikel, verminderd met 1.286.616,29 euro. Dit bedrag wordt toegevoegd aan VOWac.<br>
+<br>
+Vanaf het begrotingsjaar 2014 is het bedrag van het variabele onderwijsdeel voor de professioneel gerichte kunstopleidingen dat overeenkomstig paragraaf 2 vanaf het begrotingsjaar afgetrokken moet worden van het variabele onderwijsdeel voor de professioneel gerichte opleidingen VOWprof en toegevoegd moet worden aan het variabele onderwijsdeel VOWhko gelijk aan 1.612.828,83 euro.<br>
+<br>
+Vanaf het begrotingsjaar 2014 tot en met het begrotingsjaar 2017 wordt het bedrag van de onderzoekssokkel SOZun jaarlijks met 1.325.078,43 euro verminderd. Dat bedrag wordt jaarlijks toegevoegd aan het bedrag van het variabele onderzoeksdeel VOZun.<br>
+<br>
+De bedragen, vermeld in deze paragraaf, zijn op indexniveau 2011.<br>
+<br>
+§7. Vanaf het begrotingsjaar 2014 kunnen de bedragenVOWac, verminderd met het bedrag van het variabele onderwijsdeel VOWhko en vermeerderd met het bedrag uit de kolom VOWun2014-puntengewichten vermeld in paragraaf 13, VOWun vermeerderd met het bedrag uit de kolom VOWun2014ZAP vermeld in paragraaf 13 , VOWprof2014 en VOWhko2014, berekend overeenkomstig dit artikel, evolueren overeenkomstig de bepalingen, vermeld in artikel III.6, §2.<br>
+<br>
+§8. In de begrotingsjaren 2011, 2012 en 2013 wordt een bedrag van 7.387.577,27 euro toegevoegd aan de totale werkingsuitkering (Wtot) van de hogescholen en universiteiten.<br>
+<br>
+§9. Vanaf de begrotingsjaren 2012 en 2013 worden de bedragen, vermeld in paragraaf 5, paragraaf 6 en paragraaf 8, geïndexeerd aan de hand van de volgende formule:<br>
+1°&nbsp;&nbsp; 80% van de bedragen volgen de evolutie van de gezondheidsindex;<br>
+2°&nbsp;&nbsp; 20% van de bedragen volgen 75% van de evolutie van de gezondheidsindex.<br>
+<br>
+In afwijking van het bepaalde in het eerste lid worden voor de begrotingsjaren 2012, 2013 en 2015 de bedragen vermeld in paragraaf 5, paragraaf 6 en paragraaf 8, geïndexeerd aan de hand van de volgende formule : 80% van de bedragen volgen de evolutie van de gezondheidsindex.<br>
+<br>
+§10. De bedragen VOWprof, als vermeld in of berekend conform dit artikel, worden vermeerderd met volgende bedragen, uitgedrukt in euro:</p>
+
+<p>&nbsp;</p>
+
+<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>Begrotingsjaar 2011</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>290.291,99</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>Begrotingsjaar 2012</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>580.583,98</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>Begrotingsjaar 2013</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>870.875,96</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>Begrotingsjaar 2014</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1.161.167,95</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>Vanaf begrotingsjaar 2015</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1.451.459,94</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Vanaf het begrotingsjaar 2009 worden de bedragen vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9.<br>
+<br>
+§11. Voor het begrotingsjaar 2010 worden de indexeringsbepalingen opgenomen in paragraaf 9 en 10 van dit artikel, III.9, §8, laatste lid, III.21, §4, eerste lid en artikel III.21, §4, eerste lid in artikel III.123, III.24, §3, III.34, §2 en §5, tweede lid, III.37, §2, III.40, §2, III.43, §1, derde lid, III.59, §3, III.77, tweede lid en III.114, §3 niet toegepast.<br>
+<br>
+Voor de begrotingsjaren 2012 en 2013 worden de indexeringsbepalingen opgenomen in paragraaf 4, 10 en 12, derde lid van dit artikel, artikel III.9, §8, laatste lid, III.21, §4, eerste lid en III.21, §4, eerste lid in artikel III.123, III.24, §3, III.34, §5, tweede lid, III.37, §1, tweede lid, III.40, §2, III.43, §1, derde lid, III.45, §1, tweede lid, III.59, §3, III.77, tweede lid en III.114, §3 toegepast overeenkomstig de bepaling in paragraaf 9, tweede lid.<br>
+<br>
+Voor het begrotingsjaar 2015 worden de indexeringsbepalingen opgenomen in paragraaf 4, 10 en 12, derde lid, van dit artikel, artikel III.9, § 8, laatste lid, III.21, § 4, eerste lid, en III.21, § 4, eerste lid, in artikel III.123, III.24, § 3, III.34, § 5, tweede lid, III.37, § 1, tweede lid, III.40, § 2, III.43, § 1, derde lid, III.45, § 1, tweede lid, III.59, § 3, III.77, tweede lid, en III.114, § 3, toegepast overeenkomstig de bepaling in paragraaf 9, tweede lid.<br>
+<br>
+§12. De bedragen VOWprof, als vermeld of berekend conform dit artikel, worden ver&shy;meerderd met de volgende bedragen en de bedragen vermeld in paragraaf 1, zijn de volgende (uitgedrukt in euro):</p>
+
+<p>&nbsp;</p>
+
+<table class="MsoNormalTable" style="border: currentColor; border-image: none; width: 100%; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 18.2%; height: 6.35pt; background-color: transparent;" rowspan="2">
+			<p style="text-align: center;">begrotingsjaar</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: center;">VOWprof</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
+			<p style="text-align: center;">VOWprof2014</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 45.44%; height: 6.35pt; background-color: transparent;" colspan="2">
+			<p style="text-align: center;">VOWhko2014</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 12.6pt; background-color: transparent;">
+			<p style="text-align: center;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 12.6pt; background-color: transparent;" colspan="2">
+			<p style="text-align: center;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 12.6pt; background-color: transparent;">
+			<p style="text-align: center;">bedrag professionele kunstopleidingen</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 12.6pt; background-color: transparent;">
+			<p style="text-align: center;">bedrag bijzondere weddeschalen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
+			<p>2012</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.18%; height: 6.35pt; background-color: transparent;" colspan="2">
+			<p>&nbsp;&nbsp; 800.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.18%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
+			<p>2013</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.18%; height: 6.35pt; background-color: transparent;" colspan="2">
+			<p>5.200.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.18%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
+			<p>2014</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
+			<p>&nbsp; 7.500.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">100.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
+			<p>2015</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
+			<p>10.900.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">100.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">900.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
+			<p>2016</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
+			<p>14.300.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">100.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">3.700.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
+			<p>2017</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
+			<p>17.666.520</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">100.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">3.700.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
+			<p>2018</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
+			<p>20.966.520</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">100.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">3.700.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
+			<p>2019</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
+			<p>24.366.520</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">100.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">3.700.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
+			<p>2020</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
+			<p>27.766.520</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">100.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">3.700.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
+			<p>2021</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
+			<p>31.166.520</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">100.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">3.700.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
+			<p>2022</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
+			<p>34.566.520</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">100.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">3.700.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 18.2%; height: 6.35pt; background-color: transparent;">
+			<p>vanaf 2023</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.08%; height: 6.35pt; background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 18.28%; height: 6.35pt; background-color: transparent;" colspan="2">
+			<p>37.066.520</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">100.000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 22.72%; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: right;">3.700.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">&nbsp;</td>
+			<td style="background-color: transparent;">&nbsp;</td>
+			<td style="background-color: transparent;">&nbsp;</td>
+			<td style="background-color: transparent;">&nbsp;</td>
+			<td style="background-color: transparent;">&nbsp;</td>
+			<td style="background-color: transparent;">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+De bedragen die in het begrotingsjaar t nominaal worden toegevoegd, zijnde de verschillen tussen de bedragen voor het begrotingsjaar t en de bedragen voor het begrotingsjaar t-1, vermeld in deze paragraaf, worden vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9. Voor het berekenen van de nominale toename worden de bedragen voor VOWprof en VOWprof2014 als een geheel beschouwd.<br>
+<br>
+Vanaf het begrotingsjaar 2014 wordt jaarlijks een bedrag toegevoegd van 1.254.057,83 euro aan VOWhko2014. Dit bedrag is op indexniveau 2011 en wordt vanaf het begrotingsjaar 2012 jaarlijks geïndexeerd aan de hand van de indexformule vermeld in paragraaf 9.<br>
+<br>
+Het bedrag dat nodig is voor de aanpassing van de regeling van de bijzondere weddeschalen, wordt alleen toegekend als er een generieke regeling is uitgewerkt voor de uitoefening van nevenactiviteiten in het hoger onderwijs.<br>
+<br>
+§13. De bedragen VOWun en VOZun, als vermeld of berekend conform dit artikel, worden vermeerderd met de volgende bedragen en de bedragen, vermeld in paragraaf 2, zijn de volgende (uitgedrukt in euro):</p>
+&nbsp;
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Begrotingsjaar</td>
+			<td>VOWun</td>
+			<td>VOWun 2014</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;VOZun</td>
+			<td>VOZun 2014</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;ZAP</td>
+			<td>Puntengewichten</td>
+			<td>ZAP</td>
+			<td>ZAP</td>
+			<td>ZAP</td>
+		</tr>
+		<tr>
+			<td>2012</td>
+			<td>440.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>360.000</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>2013</td>
+			<td>1.925.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>1.575.000</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>2014</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;2.000.000</td>
+			<td>3.575.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;2.925.000</td>
+		</tr>
+		<tr>
+			<td>2015</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;3.000.000</td>
+			<td>5.115.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;4.185.000</td>
+		</tr>
+		<tr>
+			<td>2016</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;3.519.000</td>
+			<td>5.971.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;4.886.000</td>
+		</tr>
+		<tr>
+			<td>2017</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;4.519.000</td>
+			<td>7.511.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;6.146.000</td>
+		</tr>
+		<tr>
+			<td>2018</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;5.519.000</td>
+			<td>8.996.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;7.361.000</td>
+		</tr>
+		<tr>
+			<td>2019</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;6.519.000</td>
+			<td>10.591.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;8.666.000</td>
+		</tr>
+		<tr>
+			<td>2020</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;7.519.000</td>
+			<td>12.186.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;9.971.000</td>
+		</tr>
+		<tr>
+			<td>2021</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;8.519.000</td>
+			<td>13.726.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;11.231.000</td>
+		</tr>
+		<tr>
+			<td>2022</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;9.519.000</td>
+			<td>15.321.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;12.536.000</td>
+		</tr>
+		<tr>
+			<td>2023</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;11.219.000</td>
+			<td>16.476.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;13.481.000</td>
+		</tr>
+		<tr>
+			<td>vanaf 2024</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;11.700.000</td>
+			<td>17.270.000</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;14.130.000</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De bedragen die in het begrotingsjaar t nominaal worden toegevoegd, zijnde de verschillen tussen de bedragen voor het begrotingsjaar t en de bedragen voor het begrotingsjaar t-1, vermeld in deze paragraaf, worden vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9. Voor het berekenen van de nominale toename worden de bedragen voor VOWunZAP en VOWun2014ZAP, evenals de bedragen voor VOZunZAP en VOZun2014ZAP als 1 geheel beschouwd.<br>
+<br>
+§ 14. Vanaf het begrotingsjaar 2015 worden de bedragen VOWprof2014, VOWhko2014, VOWun2014 en VOZun2014, als vermeld in of berekend conform dit artikel, vermeerderd met de volgende bedragen:<br>
+1° VOWprof2014: 3.442.783,00 euro;<br>
+2° VOWhko2014: 237.334,63 euro;<br>
+3° VOWun2014: 1.557.261,72 euro;<br>
+4° VOZun2014: 1.274.123,23 euro.<br>
+<br>
+De bedragen, vermeld in deze paragraaf, zijn op indexniveau 2015 en worden vanaf het begrotingsjaar 2016 jaarlijks geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9 van dit artikel.<br>
+<br>
+§ 15. Vanaf het begrotingsjaar 2016 worden de bedragen VOWprof2014 en VOWhko2014 als vermeld in of berekend conform dit artikel, vermeerderd met de volgende bedragen:<br>
+1° VOWprof2014: 3.031.000 euro;<br>
+2° VOWhko2014: 452.000 euro.<br>
+<br>
+De bedragen, vermeld in deze paragraaf, zijn op indexniveau 2016 en worden vanaf het begrotingsjaar 2017 jaarlijks geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9 van dit artikel.<br>
+<br>
+§ 16. Volgende bedragen, uitgedrukt in euro, worden toegevoegd aan de bedragen VOWprof, als vermeld of berekend overeenkomstig dit artikel:<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Begrotingsjaar 2019</td>
+			<td>25.594,20</td>
+		</tr>
+		<tr>
+			<td>Begrotingsjaar 2020</td>
+			<td>51.188,40</td>
+		</tr>
+		<tr>
+			<td>Begrotingsjaar 2021</td>
+			<td>76.782,60</td>
+		</tr>
+		<tr>
+			<td>Vanaf begrotingsjaar 2022</td>
+			<td>102.376,80</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Vanaf het begrotingsjaar 2018 worden de bedragen vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in paragraaf 9 van dit artikel.
 
 ### ART. III.6.
 
@@ -2613,7 +3260,67 @@ In afwijking van artikel III.6, § 1, § 2 en § 3, van deze codex, evolueren   
 
 ### ART. III.13.
 
-<P style="MARGIN: 0cm 0cm 0pt">§1. Voor de berekening van het aantal financieringspunten FPi-output   wordt in aanmerking genomen:<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">1°&nbsp;&nbsp; voor de professioneel gerichte   opleidingen in de hogescholen : het aantal financieringspunten, gebaseerd op het   aantal verworven studiepunten in de initiële bacheloropleidingen   (FPi-output-initieel) en in de bachelor-na-bacheloropleidingen   (FPi-output-banaba);</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">2°&nbsp;&nbsp; voor de academisch gerichte   opleidingen in de hogescholen : het aantal financieringspunten, gebaseerd op het   aantal verworven studiepunten in de initiële bachelor- en masteropleidingen, in   de schakelprogramma's en in de voorbereidingsprogramma's voorafgaand aan een   initiële masteropleiding (FPi-output-initieel);</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">3°&nbsp;&nbsp; voor de academisch gerichte   opleidingen in de universiteiten : het aantal financieringspunten, gebaseerd op   het aantal verworven studiepunten in de initiële bachelor- en masteropleidingen,   in de schakelprogramma's en in de voorbereidingsprogramma's voorafgaand aan een   initiële masteropleiding (FPi-output-initieel) en het aantal gegenereerde   studiepunten in de opleiding huisartsgeneeskunde, zoals bepaald in paragraaf   6.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. Vanaf het begrotingsjaar 2014 wordt voor de berekening van het   aantal financieringspunten FPi-output in aanmerking   genomen:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l3 level1 lfo2">1°&nbsp;&nbsp; voor de professioneel gerichte   opleidingen in de hogescholen: het aantal financieringspunten, gebaseerd op het   aantal verworven studiepunten in de initiële bacheloropleidingen   (FPi-output-initieel) en in de bachelor-na-bacheloropleidingen   (FPi-output-banaba), met uitzondering van de verworven studiepunten in de   professioneel gerichte kunstopleidingen;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l3 level1 lfo2">2°&nbsp;&nbsp; voor de kunstopleidingen in de   hogescholen: het aantal financieringspunten, gebaseerd op het aantal verworven   studiepunten in de initiële professioneel gerichte bacheloropleidingen, in de   initiële academisch gerichte bachelor- en masteropleidingen, in de   schakelprogramma’s en de voorbereidingsprogramma’s voorafgaand aan een initiële   masteropleiding (FPi-output-initieel) en in de bachelor-na-bachelor-opleidingen   (FPi-output-banaba);</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l3 level1 lfo2">3°&nbsp;&nbsp; voor de academisch gerichte   opleidingen in de universiteiten: het aantal financieringspunten, gebaseerd op   het aantal verworven studiepunten in de initiële bachelor- en masteropleidingen,   in de schakelprogramma’s en in de voorbereidingsprogramma’s voorafgaand aan een   initiële masteropleiding (FPi-output-initieel), en het aantal gegeneerde   studiepunten in de opleiding huisartsgeneeskunde, zoals vermeld in paragraaf   6.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§3. Het aantal financieringspunten FPi-output in het begrotingsjaar t is   gelijk aan de som van de producten van het gemiddelde aantal verworven   studiepunten per opleiding, zoals bepaald in paragraaf 4, en het aantal   gegenereerde studiepunten, zoals bepaald in paragraaf 6, over de academiejaren   t-7/t-6 tot en met t-3/t-2 en het overeenkomstige puntengewicht, zoals bepaald   in artikel III.19.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Vanaf het begrotingsjaar 2014 worden, voor de vaststelling van het   aantal financieringspunten FPi-output in een instelling, de verworven   studiepunten in de academisch gerichte hogeschoolopleidingen die met ingang van   het academiejaar 2013-2014 geïntegreerd worden in een universiteit, geacht   behoord te hebben tot de universiteit tijdens de relevante academiejaren, nodig   voor de berekening van het vijfjarige gemiddelde.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§4. Voor de vaststelling van het aantal verworven studiepunten per   opleiding wordt het aantal studiepunten in aanmerking genomen waarvoor een   student onder diplomacontract een creditbewijs ontvangen   heeft:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l4 level1 lfo3">1°&nbsp;&nbsp; voor de berekening van   FPi-output-initieel :</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo4">a)&nbsp;&nbsp;&nbsp;   in   een initiële bacheloropleiding de studiepunten die niet op basis van   inputfinanciering, zoals vermeld in artikel III.12, worden   gefinancierd;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo4">b)&nbsp;&nbsp;&nbsp;   in   een initiële masteropleiding;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo4">c)&nbsp;&nbsp;&nbsp;   in   een schakelprogramma;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo4">d)&nbsp;&nbsp;&nbsp;   in   een voorbereidingsprogramma voorafgaand aan een initiële   masteropleiding;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l4 level1 lfo3">2°&nbsp;&nbsp; voor de berekening van   FPi-output-banaba : in een bachelor-na-bacheloropleiding vermenigvuldigd met een   factor 0,5.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§5. Het aantal verworven studiepunten FPi-output-initieel berekend zoals   bepaald in paragraaf 4, door een beursstudent, door een student met een   functiebeperking of door een werkstudent wordt vermenigvuldigd met een factor   1,5.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">In het geval dat een student beantwoordt aan meer dan 1 categorie van   studentenkenmerken, vermeld in het eerste lid, dan wordt het aantal verworven   studiepunten van de student verhoogd met de helft van het aantal verworven   studiepunten van die student voor elke categorie van studentenkenmerken van   toepassing op de betreffende student.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§6. Elke met succes voltooide opleiding in de huisartsgeneeskunde   genereert 120 studiepunten als aan elk van de volgende voorwaarden voldaan   is:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo5">1°&nbsp;&nbsp; de opleiding voldoet aan de   voorschriften van de Europese richtlijn 2005/36/EG van 7 september   2005;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo5">2°&nbsp;&nbsp; er is een formele evaluatie   van de leerresultaten;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo5">3°&nbsp;&nbsp; er vindt om de 8 jaar een   externe beoordeling plaats van de kwaliteit van de academische vorming in   relatie tot de gehele opleiding, gecoördineerd door de Vlaamse   Interuniversitaire Raad volgens het protocol waarvan sprake in artikel   II.122.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§7. Bij de initiële masteropleidingen van 120 studiepunten in de   studiegebieden Wetenschappen en Biomedische wetenschappen wordt gedurende een   periode van 5 jaar, te rekenen vanaf het academiejaar 2007-2008, het aantal door   een student verworven studiepunten dat in aanmerking komt voor financiering   beperkt tot 60 voor de gehele masteropleiding.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§8. Bij de onderzoeksmasters wordt het aantal door een student verworven   studiepunten dat in aanmerking komt voor financiering, beperkt tot 60 voor de   gehele masteropleiding.</P>
+<p>§1. Voor de berekening van het aantal financieringspunten FPi-output wordt in aanmerking genomen:<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+
+<p>1°&nbsp;&nbsp; voor de professioneel gerichte opleidingen in de hogescholen : het aantal financieringspunten, gebaseerd op het aantal verworven studiepunten in de initiële bacheloropleidingen (FPi-output-initieel) en in de bachelor-na-bacheloropleidingen (FPi-output-banaba);</p>
+
+<p>2°&nbsp;&nbsp; voor de academisch gerichte opleidingen in de hogescholen : het aantal financieringspunten, gebaseerd op het aantal verworven studiepunten in de initiële bachelor- en masteropleidingen, in de schakelprogramma's en in de voorbereidingsprogramma's voorafgaand aan een initiële masteropleiding (FPi-output-initieel);</p>
+
+<p>3°&nbsp;&nbsp; voor de academisch gerichte opleidingen in de universiteiten : het aantal financieringspunten, gebaseerd op het aantal verworven studiepunten in de initiële bachelor- en masteropleidingen, in de schakelprogramma's en in de voorbereidingsprogramma's voorafgaand aan een initiële masteropleiding (FPi-output-initieel) en het aantal gegenereerde studiepunten in de opleiding huisartsgeneeskunde, zoals bepaald in paragraaf 6.</p>
+
+<p>&nbsp;</p>
+
+<p>§2. Vanaf het begrotingsjaar 2014 wordt voor de berekening van het aantal financieringspunten FPi-output in aanmerking genomen:</p>
+
+<p>1°&nbsp;&nbsp; voor de professioneel gerichte opleidingen in de hogescholen: het aantal financieringspunten, gebaseerd op het aantal verworven studiepunten in de initiële bacheloropleidingen (FPi-output-initieel) en in de bachelor-na-bacheloropleidingen (FPi-output-banaba), met uitzondering van de verworven studiepunten in de professioneel gerichte kunstopleidingen;</p>
+
+<p>2°&nbsp;&nbsp; voor de kunstopleidingen in de hogescholen: het aantal financieringspunten, gebaseerd op het aantal verworven studiepunten in de initiële professioneel gerichte bacheloropleidingen, in de initiële academisch gerichte bachelor- en masteropleidingen, in de schakelprogramma’s en de voorbereidingsprogramma’s voorafgaand aan een initiële masteropleiding (FPi-output-initieel) en in de bachelor-na-bachelor-opleidingen (FPi-output-banaba);</p>
+
+<p>3°&nbsp;&nbsp; voor de academisch gerichte opleidingen in de universiteiten: het aantal financieringspunten, gebaseerd op het aantal verworven studiepunten in de initiële bachelor- en masteropleidingen, in de schakelprogramma’s en in de voorbereidingsprogramma’s voorafgaand aan een initiële masteropleiding (FPi-output-initieel), en het aantal gegeneerde studiepunten in de opleiding huisartsgeneeskunde, zoals vermeld in paragraaf 6.</p>
+
+<p>&nbsp;</p>
+
+<p>§3. Het aantal financieringspunten FPi-output in het begrotingsjaar t is gelijk aan de som van de producten van het gemiddelde aantal verworven studiepunten per opleiding, zoals bepaald in paragraaf 4, en het aantal gegenereerde studiepunten, zoals bepaald in paragraaf 6, over de academiejaren t-7/t-6 tot en met t-3/t-2 en het overeenkomstige puntengewicht, zoals bepaald in artikel III.19.</p>
+
+<p>&nbsp;</p>
+
+<p>Vanaf het begrotingsjaar 2014 worden, voor de vaststelling van het aantal financieringspunten FPi-output in een instelling, de verworven studiepunten in de academisch gerichte hogeschoolopleidingen die met ingang van het academiejaar 2013-2014 geïntegreerd worden in een universiteit, geacht behoord te hebben tot de universiteit tijdens de relevante academiejaren, nodig voor de berekening van het vijfjarige gemiddelde.</p>
+
+<p>&nbsp;</p>
+
+<p>§4. Voor de vaststelling van het aantal verworven studiepunten per opleiding wordt het aantal studiepunten in aanmerking genomen waarvoor een student onder diplomacontract een creditbewijs ontvangen heeft:</p>
+
+<p>1°&nbsp;&nbsp; voor de berekening van FPi-output-initieel :</p>
+
+<p>a)&nbsp;&nbsp;&nbsp; in een initiële bacheloropleiding de studiepunten die niet op basis van inputfinanciering, zoals vermeld in artikel III.12, worden gefinancierd;</p>
+
+<p>b)&nbsp;&nbsp;&nbsp; in een initiële masteropleiding;</p>
+
+<p>c)&nbsp;&nbsp;&nbsp; in een schakelprogramma;</p>
+
+<p>d)&nbsp;&nbsp;&nbsp; in een voorbereidingsprogramma voorafgaand aan een initiële masteropleiding;</p>
+
+<p>2°&nbsp;&nbsp; voor de berekening van FPi-output-banaba : in een bachelor-na-bacheloropleiding vermenigvuldigd met een factor 0,5.</p>
+
+<p>&nbsp;</p>
+
+<p>§5. Het aantal verworven studiepunten FPi-output-initieel berekend zoals bepaald in paragraaf 4, door een beursstudent, door een student met een functiebeperking of door een werkstudent wordt vermenigvuldigd met een factor 1,5.</p>
+
+<p>&nbsp;</p>
+
+<p>In het geval dat een student beantwoordt aan meer dan 1 categorie van studentenkenmerken, vermeld in het eerste lid, dan wordt het aantal verworven studiepunten van de student verhoogd met de helft van het aantal verworven studiepunten van die student voor elke categorie van studentenkenmerken van toepassing op de betreffende student.</p>
+
+<p>&nbsp;</p>
+
+<p>§6. ....</p>
+
+<p>&nbsp;</p>
+
+<p>§7. Bij de initiële masteropleidingen van 120 studiepunten in de studiegebieden Wetenschappen en Biomedische wetenschappen wordt gedurende een periode van 5 jaar, te rekenen vanaf het academiejaar 2007-2008, het aantal door een student verworven studiepunten dat in aanmerking komt voor financiering beperkt tot 60 voor de gehele masteropleiding.</p>
+
+<p>&nbsp;</p>
+
+<p>§8. Bij de onderzoeksmasters wordt het aantal door een student verworven studiepunten dat in aanmerking komt voor financiering, beperkt tot 60 voor de gehele masteropleiding.</p>
 
 ### ART. III.14.
 
@@ -2637,7 +3344,949 @@ In afwijking van artikel III.6, § 1, § 2 en § 3, van deze codex, evolueren   
 
 ### ART. III.19.
 
-<P style="MARGIN: 0cm 0cm 0pt">§1. Voor de berekening van het aantal   financieringspunten wordt het puntengewicht van de studiegebieden als volgt   vastgelegd:</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo1">1°&nbsp;&nbsp;   voor de opleidingen in het hoger beroepsonderwijs en voor de professioneel   gerichte opleidingen aan de hogescholen :</P>  <P style="MARGIN: 0cm 0cm 0pt 18pt">&nbsp;</P>  <TABLE   style="BORDER-BOTTOM: #222222 1pt outset; BORDER-LEFT: #222222 1pt outset; BORDER-TOP: #222222 1pt outset; BORDER-RIGHT: #222222 1pt outset; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>studiegebied</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>puntengewicht</P></TD></TR>    <TR style="mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>a) Architectuur</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,40</P></TD></TR>    <TR style="mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>b) Gezondheidszorg</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,60</P></TD></TR>    <TR style="mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>c) Industriële wetenschappen en technologie</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,20</P></TD></TR>    <TR style="mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>d) Audiovisuele en beeldende kunst</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,40</P></TD></TR>    <TR style="mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>e) Muziek en podiumkunsten</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,00</P></TD></TR>    <TR style="mso-yfti-irow: 6">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>f) Biotechniek</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,40</P></TD></TR>    <TR style="mso-yfti-irow: 7">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>g) Onderwijs</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,60</P></TD></TR>    <TR style="mso-yfti-irow: 8">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>h) Sociaal-agogisch werk</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,40</P></TD></TR>    <TR style="mso-yfti-irow: 9; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>i) Handelswetenschappen en bedrijfskunde</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,00</P></TD></TR></TBODY></TABLE>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo1">2°&nbsp;&nbsp;   voor de academisch gerichte opleidingen aan de hogescholen :</P>  <P style="MARGIN: 0cm 0cm 0pt 18pt">&nbsp;</P>  <TABLE   style="BORDER-BOTTOM: #222222 1pt outset; BORDER-LEFT: #222222 1pt outset; BORDER-TOP: #222222 1pt outset; BORDER-RIGHT: #222222 1pt outset; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>studiegebied</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>puntengewicht</P></TD></TR>    <TR style="mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>a) Architectuur</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,40</P></TD></TR>    <TR style="mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>b) Gezondheidszorg</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,60</P></TD></TR>    <TR style="mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>c) Industriële wetenschappen en technologie</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,40</P></TD></TR>    <TR style="mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>d) Biotechniek</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,40</P></TD></TR>    <TR style="mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>e) Productontwikkeling</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,60</P></TD></TR>    <TR style="mso-yfti-irow: 6">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>f) Toegepaste taalkunde</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,20</P></TD></TR>    <TR style="mso-yfti-irow: 7">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>g) Handelswetenschappen en bedrijfskunde</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,10</P></TD></TR>    <TR style="mso-yfti-irow: 8">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>h) Audiovisuele en beeldende kunst</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,00</P></TD></TR>    <TR style="mso-yfti-irow: 9; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>i) Muziek en podiumkunsten </P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,00</P></TD></TR></TBODY></TABLE>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo1">3°&nbsp;&nbsp;   voor de academisch gerichte opleidingen aan de universiteiten :</P>  <P style="MARGIN: 0cm 0cm 0pt 18pt">&nbsp;</P>  <TABLE   style="BORDER-BOTTOM: #222222 1pt outset; BORDER-LEFT: #222222 1pt outset; BORDER-TOP: #222222 1pt outset; BORDER-RIGHT: #222222 1pt outset; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>studiegebied</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>puntengewicht</P></TD></TR>    <TR style="mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>a) Wijsbegeerte en moraalwetenschappen</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,00</P></TD></TR>    <TR style="mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>b) Godgeleerdheid, godsdienstwetenschappen en kerkelijk recht</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,00</P></TD></TR>    <TR style="mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>c) Taal- en letterkunde</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,00</P></TD></TR>    <TR style="mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>d) Geschiedenis</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,00</P></TD></TR>    <TR style="mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>e) Archeologie en kunstwetenschappen</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,00</P></TD></TR>    <TR style="mso-yfti-irow: 6">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>f) Rechten, notariaat en criminologische wetenschappen</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,00</P></TD></TR>    <TR style="mso-yfti-irow: 7">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>g) Psychologie en pedagogische wetenschappen</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,00</P></TD></TR>    <TR style="mso-yfti-irow: 8">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>h) Economische en toegepaste economische wetenschappen</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,00</P></TD></TR>    <TR style="mso-yfti-irow: 9">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>i) Politieke en sociale wetenschappen</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>1,00</P></TD></TR>    <TR style="mso-yfti-irow: 10">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>j) Sociale Gezondheidswetenschappen</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>2,00</P></TD></TR>    <TR style="mso-yfti-irow: 11">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>k) Lichamelijke opvoeding, revalidatiewetenschappen en         kinesitherapie</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>2,00</P></TD></TR>    <TR style="mso-yfti-irow: 12">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>l) Wetenschappen 1 - opleidingen die leiden tot de graad van         bachelor</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>2,00</P></TD></TR>    <TR style="mso-yfti-irow: 13">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>m) Wetenschappen 2 - opleidingen die leiden tot de graad van       master</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>3,00</P></TD></TR>    <TR style="mso-yfti-irow: 14">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>n) Toegepaste wetenschappen 1 - opleidingen die leiden tot de graad van         bachelor</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>2,00</P></TD></TR>    <TR style="mso-yfti-irow: 15">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>o) Toegepaste wetenschappen 2 – opleidingen die leiden tot de graad van         master</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>3,00</P></TD></TR>    <TR style="mso-yfti-irow: 16">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>p) Toegepaste biologische wetenschappen 1 - opleidingen die leiden tot         de graad van bachelor</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>2,00</P></TD></TR>    <TR style="mso-yfti-irow: 17">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>q) Toegepaste biologische wetenschappen 2 - opleidingen die leiden tot         de graad van master</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>3,00</P></TD></TR>    <TR style="mso-yfti-irow: 18">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>r) Geneeskunde 1 - opleidingen die leiden tot de graad van       bachelor</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>3,90</P></TD></TR>    <TR style="mso-yfti-irow: 19">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>s) Geneeskunde 2</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P></TD></TR>    <TR style="mso-yfti-irow: 20">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>- opleidingen die leiden tot de graad van master in de verpleeg- en         vroedkunde</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>2,00</P></TD></TR>    <TR style="mso-yfti-irow: 21">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>- opleidingen in de huisartsgeneeskunde</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>2,00</P></TD></TR>    <TR style="mso-yfti-irow: 22">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>- overige opleidingen die leiden tot de graad van master</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>4,00</P></TD></TR>    <TR style="mso-yfti-irow: 23">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>t) Tandheelkunde 1 - opleidingen die leiden tot de graad van         bachelor</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>3,90</P></TD></TR>    <TR style="mso-yfti-irow: 24">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>u) Tandheelkunde 2 - opleidingen die leiden tot de graad van       master</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>4,20</P></TD></TR>    <TR style="mso-yfti-irow: 25">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>v) Diergeneeskunde 1 - opleidingen die leiden tot de graad van         bachelor</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>2,00</P></TD></TR>    <TR style="mso-yfti-irow: 26">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>w) Diergeneeskunde 2 - opleidingen die leiden tot de graad van         master</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>3,00</P></TD></TR>    <TR style="mso-yfti-irow: 27">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>x) Farmaceutische wetenschappen 1 - opleidingen die leiden tot de graad         van bachelor</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>2,00</P></TD></TR>    <TR style="mso-yfti-irow: 28">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>y) Farmaceutische wetenschappen 2 - opleidingen die leiden tot de graad         van master</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>3,00</P></TD></TR>    <TR style="mso-yfti-irow: 29">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>z) Biomedische wetenschappen 1 - opleidingen die leiden tot de graad         van bachelor</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>2,00</P></TD></TR>    <TR style="mso-yfti-irow: 30">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>aa) Biomedische wetenschappen 2 – opleidingen die leiden tot de graad         van master</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>3,00</P></TD></TR>    <TR style="mso-yfti-irow: 31">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>ab) Verkeerskunde</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>2,00</P></TD></TR>    <TR style="mso-yfti-irow: 32; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>ac) Conservatie-restauratie</P></TD>      <TD       style="BORDER-BOTTOM: #222222 1pt inset; BORDER-LEFT: #222222 1pt inset; PADDING-BOTTOM: 2.25pt; BACKGROUND-COLOR: transparent; PADDING-LEFT: 2.25pt; PADDING-RIGHT: 2.25pt; BORDER-TOP: #222222 1pt inset; BORDER-RIGHT: #222222 1pt inset; PADDING-TOP: 2.25pt; mso-border-alt: inset #222222 .75pt">        <P>2,00</P></TD></TR></TBODY></TABLE>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo1">4°&nbsp;&nbsp;   voor de academisch gerichte bachelor- en masteropleidingen in de studiegebieden   Architectuur, Industriële wetenschappen en technologie, Biotechniek,   Productontwikkeling, Toegepaste taalkunde en Handelswetenschappen en   bedrijfskunde, die met ingang van het academiejaar 2013-2014 geïntegreerd worden   in een universiteit, evolueert het puntengewicht als volgt:</P>  <P style="MARGIN: 0cm 0cm 0pt 18pt">&nbsp;</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="HEIGHT: 12.3pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>begrotingsjaar/ studiegebied</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>2014</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>2015</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>2016</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>2017</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>2018</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>2019</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>2020</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>2021</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>2022</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>vanaf 2023</P></TD></TR>    <TR style="HEIGHT: 6.05pt; mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>a) Architectuur</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,46</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,52</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,58</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,64</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,70</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,76</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,82</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,88</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,94</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>2,00</P></TD></TR>    <TR style="HEIGHT: 18.55pt; mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 18.55pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>b) Industriële wetenschappen en technologie</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 18.55pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,46</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 18.55pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,52</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 18.55pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,58</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 18.55pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,64</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 18.55pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,70</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 18.55pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,76</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 18.55pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,82</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 18.55pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,88</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 18.55pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,94</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 18.55pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>2,00</P></TD></TR>    <TR style="HEIGHT: 6.05pt; mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>c) Biotechniek</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,46</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,52</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,58</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,64</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,70</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,76</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,82</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,88</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,94</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.05pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>2,00</P></TD></TR>    <TR style="HEIGHT: 12.3pt; mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>d) Product-ontwikkeling</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,64</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,68</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,72</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,76</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,80</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,84</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,88</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,92</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,96</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>2,00</P></TD></TR>    <TR style="HEIGHT: 12.3pt; mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>e) Toegepaste taalkunde</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,18</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,16</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,14</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,12</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,10</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,08</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,06</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,04</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,02</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.3pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,00</P></TD></TR>    <TR style="HEIGHT: 24.8pt; mso-yfti-irow: 6; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24.8pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>f) Handelsweten-schappen en bedrijfskunde</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24.8pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,09</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24.8pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,08</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24.8pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,07</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24.8pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,06</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24.8pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,05</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24.8pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,04</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24.8pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,03</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24.8pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,02</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24.8pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,01</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24.8pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top>        <P         style="LINE-HEIGHT: 11.05pt; MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"         class=MsoNormal>1,00</P></TD></TR></TBODY></TABLE>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo1">5°&nbsp;&nbsp;   Vanaf het begrotingsjaar 2014 wordt aan iedere universiteit die met ingang van   het academiejaar 2013-2014 academische hogeschoolopleidingen integreert, een   bijkomende opstartfinanciering toegekend van 200.000 euro. Dit bedrag wordt   jaarlijks afgebouwd met 10% van het initiële bedrag. Het saldo wordt vanaf het   begrotingsjaar 2015 voor 55% toegevoegd aan het variabele onderwijsdeel   VOWun2014 en voor 45% aan het variabele onderzoeksdeel VOZun2014. Dit bedrag   wordt jaarlijks geïndexeerd aan de hand van de indexformule, vermeld in artikel   III.5, §9.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;§ 1/1. In het begrotingsjaar 2014 bedraagt   het puntengewicht voor de doctoraten in het studiegebied Nautische wetenschappen   3.<BR>Voor de berekening van het variabele onderzoeksdeel, vermeld in artikel   III.22, worden met ingang van het begrotingsjaar 2015 voor de weging van het   aantal doctoraatsdiploma's de volgende puntengewichten gebruikt:<BR>  <TABLE border=1>    <TBODY>    <TR height=43>      <TD>Studiegebied       <TD>Punten-gewicht<BR>    <TR height=41>      <TD>a) Wijsbegeerte en moraalwetenschappen       <TD>1,00<BR>    <TR>      <TD>b) Godgeleerdheid, godsdienstwetenschappen en kerkelijk recht       <TD>1,00<BR>    <TR>      <TD>c) Taal- en letterkunde       <TD>1,00<BR>    <TR>      <TD>d) Geschiedenis       <TD>1,00<BR>    <TR>      <TD>e) Archeologie en kunstwetenschappen       <TD>1,00<BR>    <TR>      <TD>f) Rechten, notariaat en criminologische wetenschappen       <TD>1,00<BR>    <TR>      <TD>g) Psychologie en pedagogische wetenschappen       <TD>1,00<BR>    <TR>      <TD>h) Economische en toegepaste economische wetenschappen       <TD>1,00<BR>    <TR>      <TD>i) Politieke en sociale wetenschappen       <TD>1,00<BR>    <TR>      <TD>j) Toegepaste taalkunde       <TD>1,00<BR>    <TR>      <TD>k) Handelswetenschappen en bedrijfskunde       <TD>1,00<BR>    <TR>      <TD>l) Audiovisuele en beeldende kunst       <TD>1,00<BR>    <TR>      <TD>m) Muziek en podiumkunsten       <TD>1,00<BR>    <TR>      <TD>n) Sociale Gezondheidswetenschappen       <TD>2,00<BR>    <TR>      <TD>o) Lichamelijke opvoeding, revalidatiewetenschappen en kinesitherapie       <TD>2,00<BR>    <TR>      <TD>p) Wetenschappen       <TD>2,00<BR>    <TR>      <TD>q) Toegepaste wetenschappen       <TD>2,00<BR>    <TR>      <TD>r) Toegepaste biologische wetenschappen       <TD>2,00<BR>    <TR>      <TD>s) Geneeskunde       <TD>2,00<BR>    <TR>      <TD>t) Tandheelkunde       <TD>2,00<BR>    <TR>      <TD>u) Diergeneeskunde       <TD>2,00<BR>    <TR>      <TD>v) Farmaceutische wetenschappen       <TD>2,00<BR>    <TR>      <TD>w) Biomedische wetenschappen       <TD>2,00<BR>    <TR>      <TD>x) Verkeerskunde       <TD>2,00<BR>    <TR>      <TD>y) Conservatie-restauratie       <TD>2,00<BR>    <TR>      <TD>z) Architectuur       <TD>2,00<BR>    <TR>      <TD>aa) Industriële wetenschappen en technologie       <TD>2,00<BR>    <TR>      <TD>ab) Biotechniek       <TD>2,00<BR>    <TR>      <TD>ac) Productontwikkeling       <TD>2,00<BR>    <TR>      <TD>ad) Nautische wetenschappen       <TD>2,00<BR></TD></TR></TBODY></TABLE><BR>Doctoraten die over de studiegebieden   heen gerangschikt worden, worden voor de bepaling van het puntengewicht   gerangschikt in het studiegebied met het laagste puntengewicht dat in de   combinatie voorkomt.<BR></P>  <P style="MARGIN: 0cm 0cm 0pt">§2. Opleidingen die over de studiegebieden heen   gerangschikt worden, worden voor de bepaling van het puntengewicht gerangschikt   in het studiegebied met het laagste puntengewicht dat in de combinatie   voorkomt.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§3. In afwijking van paragraaf 1, punt 1°, d),   bedraagt vanaf het begrotingsjaar 2014 het puntengewicht voor de   bacheloropleiding “bachelor in de audiovisuele kunsten” 1,00.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§4. In de studiegebieden Audiovisuele en   beeldende kunst en Muziek en podiumkunsten wordt een bijkomend puntengewicht   toegekend overeenkomstig het volgende schema:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo2">1°&nbsp;&nbsp;   studiegebied Audiovisuele en beeldende kunst :</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level1 lfo3">a)&nbsp;&nbsp;&nbsp;   voor de organisatie van de academische bachelor- en masteropleiding in de   beeldende kunsten en van de academische bachelor- en masteropleiding in het   productdesign samen, wordt de som van het aantal opgenomen studiepunten, zoals   bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals   bepaald in artikel III.13, §4, 1°, a) en b), in een hogeschool, met een maximum   van 24.000 studiepunten, vermenigvuldigd met een puntengewicht 2;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level1 lfo3">b)&nbsp;&nbsp;&nbsp;   voor de organisatie van de academische bachelor- en masteropleiding in de   audiovisuele kunsten samen, wordt de som van het aantal opgenomen studiepunten,   zoals bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals   bepaald in artikel III.13, §4, 1°, a) en b), in een hogeschool, met een maximum   van 18.000 studiepunten, vermenigvuldigd met een puntengewicht 2;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level1 lfo3">c)&nbsp;&nbsp;&nbsp;   tot en met het begrotingsjaar 2013 wordt voor de organisatie van de academische   bachelor- en masteropleiding in de conservatie-restauratie samen, de som van het   aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2, en het   aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°, a) en   b), in een hogeschool, met een maximum van 6.000 studiepunten, vermenigvuldigd   met een puntengewicht 2;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level1 lfo3">d)&nbsp;&nbsp;&nbsp;   vanaf het begrotingsjaar 2014 wordt voor de organisatie van de professionele   bacheloropleiding “bachelor in de audiovisuele kunsten” de som van het aantal   opgenomen studiepunten, vermeld in artikel III. 12, §2, en het aantal verworven   studiepunten, vermeld in artikel III.13, §4, 1°, a) en b), in een hogeschool,   met een maximum van 12.000 studiepunten, vermenigvuldigd met een puntengewicht   2.</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo2">2°&nbsp;&nbsp;   studiegebied Muziek en podiumkunsten :</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l3 level1 lfo4">a)&nbsp;&nbsp;&nbsp;   voor de organisatie van de academische bachelor- en masteropleiding in de muziek   en van de academische bachelor- en masteropleiding in het drama samen, wordt de   som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2,   en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°,   a) en b), in een hogeschool, met een maximum van 27.000 studiepunten,   vermenigvuldigd met een puntengewicht 3;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l3 level1 lfo4">b)&nbsp;&nbsp;&nbsp;   voor de organisatie van de professionele bacheloropleiding in de musical wordt   de som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12,   §2, en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4,   1°, a), in een hogeschool, met een maximum van 2.400 studiepunten,   vermenigvuldigd met een puntengewicht 3;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l3 level1 lfo4">c)&nbsp;&nbsp;&nbsp;   voor de organisatie van de professionele bacheloropleiding in de dans wordt de   som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2,   en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°,   a), in een hogeschool, met een maximum van 1.500 studiepunten, vermenigvuldigd   met een puntengewicht 4;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l3 level1 lfo4">d)&nbsp;&nbsp;&nbsp;   voor de organisatie van de professionele bacheloropleiding in de pop- en   rockmuziek wordt de som van het aantal opgenomen studiepunten, zoals bepaald in   artikel III.12, §2, en het aantal verworven studiepunten, zoals bepaald in   artikel III.13, §4, 1°, a), in een hogeschool, met een maximum van 9.000   studiepunten, vermenigvuldigd met een puntengewicht 2,5.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Voor de berekening van het aantal   financieringspunten FPi-diploma-initieel, vermeld in artikel III.14, is voor de   opleidingen vermeld in het eerste lid, het puntengewicht gelijk aan de som van   het puntengewicht van het studiegebied waaronder deze opleiding ressorteert,   vermeld in paragraaf 1, en het bijkomende puntengewicht voor deze opleiding,   vermeld in het eerste lid.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Voor de berekening van het aantal   financieringspunten FPi-input, vermeld in artikel III.12, en het aantal   financieringspunten FPi-output, vermeld in artikel III.13, is voor de   opleidingen vermeld in het eerste lid, het puntengewicht voor de berekening van   de bijkomende financieringspunten gegenereerd door de financieringsboni voor   beursstudenten, studenten met een functiebeperking en werkstudenten gelijk aan   de som van het puntengewicht van het studiegebied waaronder deze opleiding   ressorteert, vermeld in paragraaf 1, en het bijkomende puntengewicht voor deze   opleiding, vermeld in het eerste lid.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Bij een herstructurering, vermeld in artikel I.3,   34°, kan de Vlaamse Regering de aantallen wijzigen die zijn vastgelegd in deze   paragraaf. In voorkomend geval kan de Vlaamse Regering bepalen dat de maximale   aantallen gelden per vestigingsplaats.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§5. Voor de academisch gerichte opleidingen aan   de hogescholen is het puntengewicht van de voorbereidingsprogramma's voorafgaand   aan een initiële masteropleiding en van de schakelprogramma's gelijk aan het   puntengewicht van het studiegebied waaronder het programma valt.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Voor de academisch gerichte opleidingen aan de   universiteiten is het puntengewicht van de voorbereidingsprogramma's voorafgaand   aan een initiële masteropleiding en van de schakelprogramma's gelijk aan 1 in   die studiegebieden waar het puntengewicht overeenkomstig paragraaf 1, punt 3°,   gelijk is aan 1.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Voor de voorbereidingsprogramma's en   schakelprogramma's die ressorteren onder de andere studiegebieden is het   puntengewicht gelijk aan 2.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De puntengewichten voor de   voorbereidingsprogramma’s en schakelprogramma’s die ressorteren onder de   studiegebieden die met ingang van het academiejaar 2013-2014 geïntegreerd worden   in de universiteiten, volgen vanaf het begrotingsjaar 2014 de evoluties, vermeld   in paragraaf 1, 4°.</P>
+<p>§1. Voor de berekening van het aantal financieringspunten wordt het puntengewicht van de studiegebieden als volgt vastgelegd:</p>
+
+<p>&nbsp;</p>
+
+<p>1°&nbsp;&nbsp; voor de opleidingen in het hoger beroepsonderwijs en voor de professioneel gerichte opleidingen aan de hogescholen :</p>
+
+<p>&nbsp;</p>
+
+<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>studiegebied</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>puntengewicht</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>a) Architectuur</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,40</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>b) Gezondheidszorg</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,60</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>c) Industriële wetenschappen en technologie</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>d) Audiovisuele en beeldende kunst</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,40</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>e) Muziek en podiumkunsten</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>f) Biotechniek</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,40</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>g) Onderwijs</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,60</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>h) Sociaal-agogisch werk</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,40</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>i) Handelswetenschappen en bedrijfskunde</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>2°&nbsp;&nbsp; voor de academisch gerichte opleidingen aan de hogescholen :</p>
+
+<p>&nbsp;</p>
+
+<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>studiegebied</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>puntengewicht</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>a) Architectuur</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,40</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>b) Gezondheidszorg</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,60</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>c) Industriële wetenschappen en technologie</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,40</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>d) Biotechniek</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,40</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>e) Productontwikkeling</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,60</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>f) Toegepaste taalkunde</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>g) Handelswetenschappen en bedrijfskunde</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>h) Audiovisuele en beeldende kunst</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>i) Muziek en podiumkunsten</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>3°&nbsp;&nbsp; voor de academisch gerichte opleidingen aan de universiteiten :</p>
+
+<p>&nbsp;</p>
+
+<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>studiegebied</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>puntengewicht</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>a) Wijsbegeerte en moraalwetenschappen</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>b) Godgeleerdheid, godsdienstwetenschappen en kerkelijk recht</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>c) Taal- en letterkunde</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>d) Geschiedenis</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>e) Archeologie en kunstwetenschappen</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>f) Rechten, notariaat en criminologische wetenschappen</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>g) Psychologie en pedagogische wetenschappen</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>h) Economische en toegepaste economische wetenschappen</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>i) Politieke en sociale wetenschappen</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>j) Sociale Gezondheidswetenschappen</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>k) Lichamelijke opvoeding, revalidatiewetenschappen en kinesitherapie</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>l) Wetenschappen 1 - opleidingen die leiden tot de graad van bachelor</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>m) Wetenschappen 2 - opleidingen die leiden tot de graad van master</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>3,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>n) Toegepaste wetenschappen 1 - opleidingen die leiden tot de graad van bachelor</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>o) Toegepaste wetenschappen 2 – opleidingen die leiden tot de graad van master</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>3,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>p) Toegepaste biologische wetenschappen 1 - opleidingen die leiden tot de graad van bachelor</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>q) Toegepaste biologische wetenschappen 2 - opleidingen die leiden tot de graad van master</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>3,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>r) Geneeskunde 1 - opleidingen die leiden tot de graad van bachelor</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>3,90</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>s) Geneeskunde 2</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>- opleidingen die leiden tot de graad van master in de verpleeg- en vroedkunde</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>- opleidingen in de huisartsgeneeskunde</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>- overige opleidingen die leiden tot de graad van master</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>4,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>t) Tandheelkunde 1 - opleidingen die leiden tot de graad van bachelor</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>3,90</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>u) Tandheelkunde 2 - opleidingen die leiden tot de graad van master</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>4,20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>v) Diergeneeskunde 1 - opleidingen die leiden tot de graad van bachelor</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>w) Diergeneeskunde 2 - opleidingen die leiden tot de graad van master</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>3,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>x) Farmaceutische wetenschappen 1 - opleidingen die leiden tot de graad van bachelor</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>y) Farmaceutische wetenschappen 2 - opleidingen die leiden tot de graad van master</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>3,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>z) Biomedische wetenschappen 1 - opleidingen die leiden tot de graad van bachelor</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>aa) Biomedische wetenschappen 2 – opleidingen die leiden tot de graad van master</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>3,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>ab) Verkeerskunde</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>ac) Conservatie-restauratie<br>
+			ad) handelswetenschappen en bedrijfskunde - opleidingen die vanaf het academiejaar 2013-2014 door de Vlaamse Regering conform artikel II.153 erkend zijn als nieuwe opleiding</p>
+			</td>
+			<td style="background-color: transparent;">
+			<p>2,00<br>
+			1,00</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>4°&nbsp;&nbsp; voor de academisch gerichte bachelor- en masteropleidingen in de studiegebieden Architectuur, Industriële wetenschappen en technologie, Biotechniek, Productontwikkeling, Toegepaste taalkunde en Handelswetenschappen en bedrijfskunde, die met ingang van het academiejaar 2013-2014 geïntegreerd worden in een universiteit, evolueert het puntengewicht als volgt:</p>
+
+<p>&nbsp;</p>
+
+<table class="MsoNormalTable" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="height: 12.3pt; background-color: transparent;">
+			<p>begrotingsjaar/ studiegebied</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>2014</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>2015</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>2016</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>2017</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>2018</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>2019</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>2020</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>2021</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>2022</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>vanaf 2023</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; height: 6.05pt; background-color: transparent;">
+			<p>a) Architectuur</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,46</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,52</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,58</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,64</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,70</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,76</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,82</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,88</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,94</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; height: 18.55pt; background-color: transparent;">
+			<p>b) Industriële wetenschappen en technologie</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<p>1,46</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<p>1,52</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<p>1,58</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<p>1,64</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<p>1,70</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<p>1,76</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<p>1,82</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<p>1,88</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<p>1,94</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 18.55pt; background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; height: 6.05pt; background-color: transparent;">
+			<p>c) Biotechniek</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,46</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,52</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,58</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,64</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,70</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,76</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,82</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,88</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>1,94</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 6.05pt; background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; height: 12.3pt; background-color: transparent;">
+			<p>d) Product-ontwikkeling</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,64</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,68</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,72</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,76</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,80</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,84</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,88</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,92</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,96</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>2,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; height: 12.3pt; background-color: transparent;">
+			<p>e) Toegepaste taalkunde</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,18</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,16</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,14</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,12</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,08</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,06</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,04</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,02</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 12.3pt; background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; height: 24.8pt; background-color: transparent;">
+			<p>f) Handelsweten-schappen en bedrijfskunde</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<p>1,09</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<p>1,08</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<p>1,07</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<p>1,06</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<p>1,05</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<p>1,04</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<p>1,03</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<p>1,02</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<p>1,01</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); height: 24.8pt; background-color: transparent;">
+			<p>1,00</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>5°&nbsp;&nbsp; Vanaf het begrotingsjaar 2014 wordt aan iedere universiteit die met ingang van het academiejaar 2013-2014 academische hogeschoolopleidingen integreert, een bijkomende opstartfinanciering toegekend van 200.000 euro. Dit bedrag wordt jaarlijks afgebouwd met 10% van het initiële bedrag. Het saldo wordt vanaf het begrotingsjaar 2015 voor 55% toegevoegd aan het variabele onderwijsdeel VOWun2014 en voor 45% aan het variabele onderzoeksdeel VOZun2014. Dit bedrag wordt jaarlijks geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.</p>
+
+<p>&nbsp;§ 1/1. In het begrotingsjaar 2014 bedraagt het puntengewicht voor de doctoraten in het studiegebied Nautische wetenschappen 3.<br>
+Voor de berekening van het variabele onderzoeksdeel, vermeld in artikel III.22, worden met ingang van het begrotingsjaar 2015 voor de weging van het aantal doctoraatsdiploma's de volgende puntengewichten gebruikt:</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Studiegebied</td>
+			<td>Punten-gewicht</td>
+		</tr>
+		<tr>
+			<td>a) Wijsbegeerte en moraalwetenschappen</td>
+			<td>1,00</td>
+		</tr>
+		<tr>
+			<td>b) Godgeleerdheid, godsdienstwetenschappen en kerkelijk recht</td>
+			<td>1,00</td>
+		</tr>
+		<tr>
+			<td>c) Taal- en letterkunde</td>
+			<td>1,00</td>
+		</tr>
+		<tr>
+			<td>d) Geschiedenis</td>
+			<td>1,00</td>
+		</tr>
+		<tr>
+			<td>e) Archeologie en kunstwetenschappen</td>
+			<td>1,00</td>
+		</tr>
+		<tr>
+			<td>f) Rechten, notariaat en criminologische wetenschappen</td>
+			<td>1,00</td>
+		</tr>
+		<tr>
+			<td>g) Psychologie en pedagogische wetenschappen</td>
+			<td>1,00</td>
+		</tr>
+		<tr>
+			<td>h) Economische en toegepaste economische wetenschappen</td>
+			<td>1,00</td>
+		</tr>
+		<tr>
+			<td>i) Politieke en sociale wetenschappen</td>
+			<td>1,00</td>
+		</tr>
+		<tr>
+			<td>j) Toegepaste taalkunde</td>
+			<td>1,00</td>
+		</tr>
+		<tr>
+			<td>k) Handelswetenschappen en bedrijfskunde</td>
+			<td>1,00</td>
+		</tr>
+		<tr>
+			<td>l) Audiovisuele en beeldende kunst</td>
+			<td>1,00</td>
+		</tr>
+		<tr>
+			<td>m) Muziek en podiumkunsten</td>
+			<td>1,00</td>
+		</tr>
+		<tr>
+			<td>n) Sociale Gezondheidswetenschappen</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>o) Lichamelijke opvoeding, revalidatiewetenschappen en kinesitherapie</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>p) Wetenschappen</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>q) Toegepaste wetenschappen</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>r) Toegepaste biologische wetenschappen</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>s) Geneeskunde</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>t) Tandheelkunde</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>u) Diergeneeskunde</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>v) Farmaceutische wetenschappen</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>w) Biomedische wetenschappen</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>x) Verkeerskunde</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>y) Conservatie-restauratie</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>z) Architectuur</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>aa) Industriële wetenschappen en technologie</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>ab) Biotechniek</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>ac) Productontwikkeling</td>
+			<td>2,00</td>
+		</tr>
+		<tr>
+			<td>ad) Nautische wetenschappen</td>
+			<td>2,00</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Doctoraten die over de studiegebieden heen gerangschikt worden, worden voor de bepaling van het puntengewicht gerangschikt in het studiegebied met het laagste puntengewicht dat in de combinatie voorkomt.
+<p>&nbsp;</p>
+
+<p>§2. Opleidingen die over de studiegebieden heen gerangschikt worden, worden voor de bepaling van het puntengewicht gerangschikt in het studiegebied met het laagste puntengewicht dat in de combinatie voorkomt.</p>
+
+<p>&nbsp;</p>
+
+<p>§3. In afwijking van paragraaf 1, punt 1°, d), bedraagt vanaf het begrotingsjaar 2014 het puntengewicht voor de bacheloropleiding “bachelor in de audiovisuele kunsten” 1,00.</p>
+
+<p>&nbsp;</p>
+
+<p>§4. In de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten wordt een bijkomend puntengewicht toegekend overeenkomstig het volgende schema:</p>
+
+<p>1°&nbsp;&nbsp; studiegebied Audiovisuele en beeldende kunst :</p>
+
+<p>a)&nbsp;&nbsp;&nbsp; voor de organisatie van de academische bachelor- en masteropleiding in de beeldende kunsten en van de academische bachelor- en masteropleiding in het productdesign samen, wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°, a) en b), in een hogeschool, met een maximum van 24.000 studiepunten, vermenigvuldigd met een puntengewicht 2;</p>
+
+<p>b)&nbsp;&nbsp;&nbsp; voor de organisatie van de academische bachelor- en masteropleiding in de audiovisuele kunsten samen, wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°, a) en b), in een hogeschool, met een maximum van 18.000 studiepunten, vermenigvuldigd met een puntengewicht 2;</p>
+
+<p>c)&nbsp;&nbsp;&nbsp; tot en met het begrotingsjaar 2013 wordt voor de organisatie van de academische bachelor- en masteropleiding in de conservatie-restauratie samen, de som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°, a) en b), in een hogeschool, met een maximum van 6.000 studiepunten, vermenigvuldigd met een puntengewicht 2;</p>
+
+<p>d)&nbsp;&nbsp;&nbsp; vanaf het begrotingsjaar 2014 wordt voor de organisatie van de professionele bacheloropleiding “bachelor in de audiovisuele kunsten” de som van het aantal opgenomen studiepunten, vermeld in artikel III. 12, §2, en het aantal verworven studiepunten, vermeld in artikel III.13, §4, 1°, a) en b), in een hogeschool, met een maximum van 12.000 studiepunten, vermenigvuldigd met een puntengewicht 2.</p>
+
+<p>2°&nbsp;&nbsp; studiegebied Muziek en podiumkunsten :</p>
+
+<p>a)&nbsp;&nbsp;&nbsp; voor de organisatie van de academische bachelor- en masteropleiding in de muziek en van de academische bachelor- en masteropleiding in het drama samen, wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°, a) en b), in een hogeschool, met een maximum van 27.000 studiepunten, vermenigvuldigd met een puntengewicht 3;</p>
+
+<p>b)&nbsp;&nbsp;&nbsp; voor de organisatie van de professionele bacheloropleiding in de musical wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°, a), in een hogeschool, met een maximum van 2.400 studiepunten, vermenigvuldigd met een puntengewicht 3;</p>
+
+<p>c)&nbsp;&nbsp;&nbsp; voor de organisatie van de professionele bacheloropleiding in de dans wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°, a), in een hogeschool, met een maximum van 1.500 studiepunten, vermenigvuldigd met een puntengewicht 4;</p>
+
+<p>d)&nbsp;&nbsp;&nbsp; voor de organisatie van de professionele bacheloropleiding in de pop- en rockmuziek wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel III.12, §2, en het aantal verworven studiepunten, zoals bepaald in artikel III.13, §4, 1°, a), in een hogeschool, met een maximum van 9.000 studiepunten, vermenigvuldigd met een puntengewicht 2,5.</p>
+
+<p>&nbsp;</p>
+
+<p>Voor de berekening van het aantal financieringspunten FPi-diploma-initieel, vermeld in artikel III.14, is voor de opleidingen vermeld in het eerste lid, het puntengewicht gelijk aan de som van het puntengewicht van het studiegebied waaronder deze opleiding ressorteert, vermeld in paragraaf 1, en het bijkomende puntengewicht voor deze opleiding, vermeld in het eerste lid.</p>
+
+<p>&nbsp;</p>
+
+<p>Voor de berekening van het aantal financieringspunten FPi-input, vermeld in artikel III.12, en het aantal financieringspunten FPi-output, vermeld in artikel III.13, is voor de opleidingen vermeld in het eerste lid, het puntengewicht voor de berekening van de bijkomende financieringspunten gegenereerd door de financieringsboni voor beursstudenten, studenten met een functiebeperking en werkstudenten gelijk aan de som van het puntengewicht van het studiegebied waaronder deze opleiding ressorteert, vermeld in paragraaf 1, en het bijkomende puntengewicht voor deze opleiding, vermeld in het eerste lid.</p>
+
+<p>&nbsp;</p>
+
+<p>Bij een herstructurering, vermeld in artikel I.3, 34°, kan de Vlaamse Regering de aantallen wijzigen die zijn vastgelegd in deze paragraaf. In voorkomend geval kan de Vlaamse Regering bepalen dat de maximale aantallen gelden per vestigingsplaats.</p>
+
+<p>&nbsp;</p>
+
+<p>§5. Voor de academisch gerichte opleidingen aan de hogescholen is het puntengewicht van de voorbereidingsprogramma's voorafgaand aan een initiële masteropleiding en van de schakelprogramma's gelijk aan het puntengewicht van het studiegebied waaronder het programma valt.</p>
+
+<p>&nbsp;</p>
+
+<p>Voor de academisch gerichte opleidingen aan de universiteiten is het puntengewicht van de voorbereidingsprogramma's voorafgaand aan een initiële masteropleiding en van de schakelprogramma's gelijk aan 1 in die studiegebieden waar het puntengewicht overeenkomstig paragraaf 1, punt 3°, gelijk is aan 1.</p>
+
+<p>&nbsp;</p>
+
+<p>Voor de voorbereidingsprogramma's en schakelprogramma's die ressorteren onder de andere studiegebieden is het puntengewicht gelijk aan 2.</p>
+
+<p>&nbsp;</p>
+
+<p>De puntengewichten voor de voorbereidingsprogramma’s en schakelprogramma’s die ressorteren onder de studiegebieden die met ingang van het academiejaar 2013-2014 geïntegreerd worden in de universiteiten, volgen vanaf het begrotingsjaar 2014 de evoluties, vermeld in paragraaf 1, 4°.</p>
 
 ## Onderafdeling 4 De onderzoekssokkel
 
@@ -2665,282 +4314,262 @@ In afwijking van artikel III.6, § 1, § 2 en § 3, van deze codex, evolueren   
 
 ### ART. III.24.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Als in de begrotingsjaren 2008 tot en met 2013 het bedrag van de theoretische werkingsuitkering van een instelling i, die voldoet aan de voorwaarden voor de minimale instellingsnorm voor de onderwijssokkel, vermeld in artikel III.8, kleiner is dan of gelijk is aan het bedrag van het gegarandeerde minimum, vermeld in paragraaf 2, dan ontvangt die instelling het gegarandeerde minimumbedrag als werkingsuitkering voor het desbetreffende begrotingsjaar.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">Als in de begrotingsjaren 2008 tot en met 2013 het bedrag van de theoretische werkingsuitkering van een instelling i, groter is dan het gegarandeerde minimumbedrag, vermeld in paragraaf 2, dan ontvangt die instelling het bedrag van de theoretische werkingsuitkering als werkingsuitkering.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">Als in de begrotingsjaren 2008 tot en met 2013 de som van de werkingsuitkeringen van de hogescholen en de universiteiten het beschikbare budget voor het betreffende begrotingsjaar, vermeld in artikel III.5, overschrijdt, dan ontvangt een instelling i, wanneer het bedrag van de theoretische werkingsuitkering groter is dan het gegarandeerde minimumbedrag, het bedrag van het gegarandeerde minimum, vermeld in paragraaf 2, vermeerderd met het procentueel aandeel van deze instelling in het verschil tussen de som van de theoretische werkingsuitkeringen van de hogescholen en de universiteiten, vermeld in het tweede lid, en de som van de gegarandeerde minimumbedragen van deze hogescholen en universiteiten, vermeld in paragraaf 2.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§2. De volgende gegarandeerde minimumbedragen worden vastgelegd voor de hogescholen en de universiteiten :</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p>§1. Als in de begrotingsjaren 2008 tot en met 2013 het bedrag van de theoretische werkingsuitkering van een instelling i, die voldoet aan de voorwaarden voor de minimale instellingsnorm voor de onderwijssokkel, vermeld in artikel III.8, kleiner is dan of gelijk is aan het bedrag van het gegarandeerde minimum, vermeld in paragraaf 2, dan ontvangt die instelling het gegarandeerde minimumbedrag als werkingsuitkering voor het desbetreffende begrotingsjaar.<br>
+<br>
+Als in de begrotingsjaren 2008 tot en met 2013 het bedrag van de theoretische werkingsuitkering van een instelling i, groter is dan het gegarandeerde minimumbedrag, vermeld in paragraaf 2, dan ontvangt die instelling het bedrag van de theoretische werkingsuitkering als werkingsuitkering.<br>
+<br>
+Als in de begrotingsjaren 2008 tot en met 2013 de som van de werkingsuitkeringen van de hogescholen en de universiteiten het beschikbare budget voor het betreffende begrotingsjaar, vermeld in artikel III.5, overschrijdt, dan ontvangt een instelling i, wanneer het bedrag van de theoretische werkingsuitkering groter is dan het gegarandeerde minimumbedrag, het bedrag van het gegarandeerde minimum, vermeld in paragraaf 2, vermeerderd met het procentueel aandeel van deze instelling in het verschil tussen de som van de theoretische werkingsuitkeringen van de hogescholen en de universiteiten, vermeld in het tweede lid, en de som van de gegarandeerde minimumbedragen van deze hogescholen en universiteiten, vermeld in paragraaf 2.<br>
+<br>
+§2. De volgende gegarandeerde minimumbedragen worden vastgelegd voor de hogescholen en de universiteiten :</p>
 
 <table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Instelling</p>
+			<p>Instelling</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">gegarandeerd minimum (uitgedrukt in EUR)</p>
+			<p>gegarandeerd minimum (uitgedrukt in EUR)</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1° Arteveldehogeschool</p>
+			<p>1° Arteveldehogeschool</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;39.172.027,94</p>
+			<p>&nbsp;39.172.027,94</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2° Erasmushogeschool Brussel</p>
+			<p>2° Erasmushogeschool Brussel</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;28.221.507,42</p>
+			<p>&nbsp;28.221.507,42</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">3° Hogeschool Antwerpen</p>
+			<p>3° Hogeschool Antwerpen</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;44.770.310,04</p>
+			<p>&nbsp;44.770.310,04</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">4° Hogeschool Gent</p>
+			<p>4° Hogeschool Gent</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;74.423.088,34</p>
+			<p>&nbsp;74.423.088,34</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5° Hogeschool Sint-Lukas Brussel</p>
+			<p>5° Hogeschool Sint-Lukas Brussel</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;&nbsp; 7.340.568,70</p>
+			<p>&nbsp;&nbsp; 7.340.568,70</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">6° LUCA School of Arts</p>
+			<p>6° LUCA School of Arts</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;38.412.534,58</p>
+			<p>&nbsp;38.412.534,58</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">7° Hogeschool West-Vlaanderen</p>
+			<p>7° Hogeschool West-Vlaanderen</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;19.816.734,54</p>
+			<p>&nbsp;19.816.734,54</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">8° Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen</p>
+			<p>8° Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;40.252.379,35</p>
+			<p>&nbsp;40.252.379,35</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">9° Katholieke Hogeschool Brugge-Oostende</p>
+			<p>9° Katholieke Hogeschool Brugge-Oostende</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;17.798.398,64</p>
+			<p>&nbsp;17.798.398,64</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10° Thomas More Kempen</p>
+			<p>10° Thomas More Kempen</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;31.364.082,66</p>
+			<p>&nbsp;31.364.082,66</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">11° Katholieke Hogeschool Leuven</p>
+			<p>11° Katholieke Hogeschool Leuven</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;27.088.744,74</p>
+			<p>&nbsp;27.088.744,74</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">12° Katholieke Hogeschool Limburg</p>
+			<p>12° Katholieke Hogeschool Limburg</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;29.971.388,38</p>
+			<p>&nbsp;29.971.388,38</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">13° Thomas More Mechelen</p>
+			<p>13° Thomas More Mechelen</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;19.961.758,26</p>
+			<p>&nbsp;19.961.758,26</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">14° Katholieke Hogeschool Sint-Lieven</p>
+			<p>14° Katholieke Hogeschool Sint-Lieven</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;26.915.201,11</p>
+			<p>&nbsp;26.915.201,11</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">15° Katholieke Hogeschool Zuid-West-Vlaanderen</p>
+			<p>15° Katholieke Hogeschool Zuid-West-Vlaanderen</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;29.164.438,69</p>
+			<p>&nbsp;29.164.438,69</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">16° Thomas More Antwerpen</p>
+			<p>16° Thomas More Antwerpen</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;13.008.546,51</p>
+			<p>&nbsp;13.008.546,51</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">17° Plantijn-Hogeschool</p>
+			<p>17° Plantijn-Hogeschool</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;13.941.258,15</p>
+			<p>&nbsp;13.941.258,15</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">18° Provinciale Hogeschool Limburg</p>
+			<p>18° Provinciale Hogeschool Limburg</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;20.857.698,06</p>
+			<p>&nbsp;20.857.698,06</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">19° GROEP T - Internationale Hogeschool Leuven</p>
+			<p>19° GROEP T - Internationale Hogeschool Leuven</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;10.766.708,92</p>
+			<p>&nbsp;10.766.708,92</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20° HUB-EHSAL</p>
+			<p>20° HUB-EHSAL</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;21.305.296,34</p>
+			<p>&nbsp;21.305.296,34</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">21° XIOS Hogeschool Limburg</p>
+			<p>21° XIOS Hogeschool Limburg</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;15.193.074,25</p>
+			<p>&nbsp;15.193.074,25</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">22° HUB-KUBrussel</p>
+			<p>22° HUB-KUBrussel</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;&nbsp; 5.502.000,00</p>
+			<p>&nbsp;&nbsp; 5.502.000,00</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">23° KULeuven</p>
+			<p>23° KULeuven</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">222.899.082,00</p>
+			<p>222.899.082,00</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">24° UGent</p>
+			<p>24° UGent</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">196.584.425,00</p>
+			<p>196.584.425,00</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">25° Universiteit Antwerpen</p>
+			<p>25° Universiteit Antwerpen</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp; 85.954.139,00</p>
+			<p>&nbsp; 85.954.139,00</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">26° VUB</p>
+			<p>26° VUB</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp; 78.279.046,00</p>
+			<p>&nbsp; 78.279.046,00</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 258.15pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">27° UHasselt/tUL</p>
+			<p>27° UHasselt/tUL</p>
 			</td>
 			<td style="width: 7cm; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp; 24.528.509,00</p>
+			<p>&nbsp; 24.528.509,00<br>
+			&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">Het gegarandeerde minimumbedrag, vermeld in het eerste lid, is niet van toepassing op een instelling die niet voldoet aan de voorwaarden voor de minimale instellingsnorm voor de onderwijssokkel, zoals bepaald in artikel III.8.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§3. De bedragen, vermeld in paragraaf 2, worden vanaf het begrotingsjaar 2008 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§4. Vanaf het begrotingsjaar 2011 wordt de werkingsuitkering per hogeschool en universiteit, berekend overeenkomstig de bepalingen van titel 1, hoofdstuk 1, afdeling 4, onderafdeling 1 van dit deel met inbegrip van de bedragen bedoeld in artikel III.34, §5, met 1,27 % verminderd.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">Afhankelijk van de budgettaire ruimte kan de Vlaamse Regering dit percentage vanaf het begrotingsjaar 2012 wijzigen.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">De som van het totale bedrag van de verminderingen op grond van het eerste of het tweede lid en het bedrag van de vermindering op grond van het eerste of het tweede lid van artikel 3, §3, van het decreet van 20 februari 2009 betreffende de Hogere Zeevaartschool bedraagt per jaar ten hoogste 16.179.000 euro, berekend op het prijsniveau van het jaar 2010. Indien dit bedrag overschreden wordt, worden de in het eerste lid en in het eerste lid van artikel 3, §3, van het decreet van 20 februari 2009 betreffende de Hogere Zeevaartschool vermelde percentages verminderd.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§5. Voor het begrotingsjaar 2013 worden de totale werkingsuitkeringen van de hogescholen, met 4.539.000 euro verminderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke hogeschool in de effectieve werkingsuitkeringen.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§6. Voor het begrotingsjaar 2013 worden de totale werkingsuitkeringen van de universiteiten, berekend overeenkomstig de bepalingen van titel 1, hoofdstuk 1, afdeling 4, onderafdeling 1 van dit deel, met 5.083.000 euro verminderd en verdeeld op basis van het procentuele aandeel van elke universiteit in de effectieve werkingsuitkeringen.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§ 7. Bovenop de vermindering, vermeld in paragraaf 4 van dit artikel, wordt vanaf het begrotingsjaar 2015 de totale werkingsuitkering van de hogescholen en universiteiten, berekend overeenkomstig de bepalingen van titel 1, hoofdstuk 1, van dit deel, met 26.614.642,36 euro verminderd.</p>
+<p><br>
+Het gegarandeerde minimumbedrag, vermeld in het eerste lid, is niet van toepassing op een instelling die niet voldoet aan de voorwaarden voor de minimale instellingsnorm voor de onderwijssokkel, zoals bepaald in artikel III.8.<br>
+<br>
+§3. De bedragen, vermeld in paragraaf 2, worden vanaf het begrotingsjaar 2008 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
+<br>
+§4. Vanaf het begrotingsjaar 2011 wordt de werkingsuitkering per hogeschool en universiteit, berekend overeenkomstig de bepalingen van titel 1, hoofdstuk 1, afdeling 4, onderafdeling 1 van dit deel met inbegrip van de bedragen bedoeld in artikel III.34, §5, met 1,27 % verminderd.<br>
+<br>
+Afhankelijk van de budgettaire ruimte kan de Vlaamse Regering dit percentage vanaf het begrotingsjaar 2012 wijzigen.<br>
+<br>
+De som van het totale bedrag van de verminderingen op grond van het eerste of het tweede lid en het bedrag van de vermindering op grond van het eerste of het tweede lid van artikel 3, §3, van het decreet van 20 februari 2009 betreffende de Hogere Zeevaartschool bedraagt per jaar ten hoogste 16.179.000 euro, berekend op het prijsniveau van het jaar 2010. Indien dit bedrag overschreden wordt, worden de in het eerste lid en in het eerste lid van artikel 3, §3, van het decreet van 20 februari 2009 betreffende de Hogere Zeevaartschool vermelde percentages verminderd.<br>
+<br>
+§5. Voor het begrotingsjaar 2013 worden de totale werkingsuitkeringen van de hogescholen, met 4.539.000 euro verminderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke hogeschool in de effectieve werkingsuitkeringen.<br>
+<br>
+§6. Voor het begrotingsjaar 2013 worden de totale werkingsuitkeringen van de universiteiten, berekend overeenkomstig de bepalingen van titel 1, hoofdstuk 1, afdeling 4, onderafdeling 1 van dit deel, met 5.083.000 euro verminderd en verdeeld op basis van het procentuele aandeel van elke universiteit in de effectieve werkingsuitkeringen.<br>
+<br>
+§ 7. Bovenop de vermindering, vermeld in paragraaf 4 van dit artikel, wordt vanaf het begrotingsjaar 2015 de totale werkingsuitkering van de hogescholen en universiteiten, berekend overeenkomstig de bepalingen van titel 1, hoofdstuk 1, van dit deel, met 26.614.642,36 euro verminderd.<br>
+<br>
+Dit bedrag wordt vanaf het begrotingsjaar 2017 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.</p>
 
 ### ART. III.25.
 
@@ -2988,17 +4617,12 @@ In afwijking van artikel III.6, § 1, § 2 en § 3, van deze codex, evolueren   
 
 ### ART. III.34.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Voor de hogescholen wordt voorzien in de volgende aanvullende uitkeringen:</p>
-
-<p style="margin-right: 0cm; margin-left: 18pt;">1°&nbsp;&nbsp; een bedrag van 951.960,02 euro voor de geraamde kosten van de salarissen van de personeelsleden van het meester-, vak- en dienstpersoneel van de hogescholen die op 31 december 1995 rechtstreeks betaald werden door de bevoegde dienst van de Vlaamse Gemeenschap. Het eventuele saldo op het einde van het begrotingsjaar t wordt in het begrotingsjaar t+1 toegevoegd aan het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen VOWprof aan de hogescholen;</p>
-
-<p style="margin-right: 0cm; margin-left: 18pt;">2°&nbsp;&nbsp; een bedrag van 7.884.245,71 euro voor de geraamde kosten van de salarissen of wachtgelden van de personeelsleden, vermeld in artikel III.35. Het eventuele saldo op het einde van het begrotingsjaar t wordt in het begrotingsjaar t+1 toegevoegd aan het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen VOWprof aan de hogescholen;</p>
-
-<p style="margin-right: 0cm; margin-left: 18pt;">3°&nbsp;&nbsp;...</p>
-
-<p style="margin-right: 0cm; margin-left: 18pt;">4°&nbsp;&nbsp; de bedragen VOWprof 2014 en VOWhko2014 worden verhoudingsgewijs verminderd met de bedragen die nodig zijn om de salariskosten te dekken van hun benoemde personeelsleden die tijdens het voorgaande begrotingsjaar met bevallingsverlof waren en van hun benoemde en tijdelijke personeelsleden die tijdens het voorgaande begrotingsjaar met opvangverlof voor adoptie of pleegvoogdij waren, voor wat de duur van dat bevallings- of opvangverlof betreft.</p>
-
-<p style="margin-right: 0cm; margin-left: 18pt;">5° een bedrag van 200.000 euro voor de compensatie van de meerkost van toegekende anciënniteit aan personeelsleden met diensten in het beperkt leerplan.<br>
+<p>§1. Voor de hogescholen wordt voorzien in de volgende aanvullende uitkeringen:<br>
+1°&nbsp;&nbsp; een bedrag van 951.960,02 euro voor de geraamde kosten van de salarissen van de personeelsleden van het meester-, vak- en dienstpersoneel van de hogescholen die op 31 december 1995 rechtstreeks betaald werden door de bevoegde dienst van de Vlaamse Gemeenschap. Het eventuele saldo op het einde van het begrotingsjaar t wordt in het begrotingsjaar t+1 toegevoegd aan het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen VOWprof aan de hogescholen;<br>
+2°&nbsp;&nbsp; een bedrag van 7.884.245,71 euro voor de geraamde kosten van de salarissen of wachtgelden van de personeelsleden, vermeld in artikel III.35. Het eventuele saldo op het einde van het begrotingsjaar t wordt in het begrotingsjaar t+1 toegevoegd aan het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen VOWprof aan de hogescholen;<br>
+3°&nbsp;&nbsp;...<br>
+4°&nbsp;&nbsp; de bedragen VOWprof 2014 en VOWhko2014 worden verhoudingsgewijs verminderd met de bedragen die nodig zijn om de salariskosten te dekken van hun benoemde personeelsleden die tijdens het voorgaande begrotingsjaar met bevallingsverlof waren en van hun benoemde en tijdelijke personeelsleden die tijdens het voorgaande begrotingsjaar met opvangverlof voor adoptie of pleegvoogdij waren, voor wat de duur van dat bevallings- of opvangverlof betreft.<br>
+5° een bedrag van 200.000 euro voor de compensatie van de meerkost van toegekende anciënniteit aan personeelsleden met diensten in het beperkt leerplan.<br>
 In 2012 worden deze middelen verdeeld pro rata het aandeel in de werkingsuitkeringen.<br>
 In 2013 worden deze middelen als volgt verdeeld:</p>
 &nbsp;
@@ -3072,105 +4696,125 @@ In 2013 worden deze middelen als volgt verdeeld:</p>
 	</tbody>
 </table>
 <br>
-Vanaf 2014 worden deze middelen toegekend op basis van een gemotiveerd voorstel van de VLUHR.
-<p>&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§2. De bedragen, vermeld in paragraaf 1, volgen vanaf het begrotingsjaar 2008 de evolutie van de gezondheidsindex.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§3. De bedragen voor de verhoging van het vakantiegeld van de personeelsleden van de hogescholen, die naar aanleiding van cao II werden toegevoegd aan de enveloppe van de hogescholen, en de toekenning van de schoolpremie, worden als volgt toegevoegd aan de verschillende variabele onderwijsdelen:</p>
-
-<p style="margin-right: 0cm; margin-left: 18pt;">1°&nbsp;&nbsp; aan VOWprof2014 wordt een bedrag van 9.932.186,00 euro toegevoegd;</p>
-
-<p style="margin-right: 0cm; margin-left: 18pt;">2°&nbsp;&nbsp; aan VOWhko2014 wordt een bedrag van 719.703,24 euro toegevoegd;</p>
-
-<p style="margin-right: 0cm; margin-left: 18pt;">3°&nbsp;&nbsp; aan VOWun2014 wordt een bedrag van 2.470.033,84 euro toegevoegd.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">Deze bedragen worden met ingang van het begrotingsjaar 2012 geïndexeerd overeenkomstig de indexeringsformule, vermeld in artikel III.5, §9.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§4. Het bedrag van VOWprof wordt verminderd met het bedrag voor de financiering van de voortgezette lerarenopleidingen die niet tot bachelor-na-bacheloropleidingen zijn omgevormd. Vanaf het begrotingsjaar 2007 ontvangen de hogescholen die een voortgezette lerarenopleiding organiseren waaruit geen bachelor-na-bacheloropleiding is ontstaan, per in het vorig academiejaar afgeleverd diploma 1944,79 euro. Als het totale bedrag meer dan 317.000,77 euro bedraagt, dan wordt dit bedrag verdeeld over de hogescholen op basis van het aantal in het vorig academiejaar afgeleverde diploma's. Deze bedragen worden jaarlijks aangepast op de wijze bepaald in artikel III.5.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§5. Volgende bedragen, uitgedrukt in euro, worden als aanvullende uitkering toegevoegd aan de werkingsuitkering van HUB-EHSAL of aan de werkingsuitkering van diens rechtsopvolger:</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+Vanaf 2014 worden deze middelen toegekend op basis van een gemotiveerd voorstel van de VLUHR.<br>
+<br>
+§2. De bedragen, vermeld in paragraaf 1, volgen vanaf het begrotingsjaar 2008 de evolutie van de gezondheidsindex.<br>
+<br>
+§3. De bedragen voor de verhoging van het vakantiegeld van de personeelsleden van de hogescholen, die naar aanleiding van cao II werden toegevoegd aan de enveloppe van de hogescholen, en de toekenning van de schoolpremie, worden als volgt toegevoegd aan de verschillende variabele onderwijsdelen:<br>
+1°&nbsp;&nbsp; aan VOWprof2014 wordt een bedrag van 9.932.186,00 euro toegevoegd;<br>
+2°&nbsp;&nbsp; aan VOWhko2014 wordt een bedrag van 719.703,24 euro toegevoegd;<br>
+3°&nbsp;&nbsp; aan VOWun2014 wordt een bedrag van 2.470.033,84 euro toegevoegd.<br>
+<br>
+Deze bedragen worden met ingang van het begrotingsjaar 2012 geïndexeerd overeenkomstig de indexeringsformule, vermeld in artikel III.5, §9.<br>
+<br>
+§4. Het bedrag van VOWprof wordt verminderd met het bedrag voor de financiering van de voortgezette lerarenopleidingen die niet tot bachelor-na-bacheloropleidingen zijn omgevormd. Vanaf het begrotingsjaar 2007 ontvangen de hogescholen die een voortgezette lerarenopleiding organiseren waaruit geen bachelor-na-bacheloropleiding is ontstaan, per in het vorig academiejaar afgeleverd diploma 1944,79 euro. Als het totale bedrag meer dan 317.000,77 euro bedraagt, dan wordt dit bedrag verdeeld over de hogescholen op basis van het aantal in het vorig academiejaar afgeleverde diploma's. Deze bedragen worden jaarlijks aangepast op de wijze bepaald in artikel III.5.<br>
+<br>
+§5. Volgende bedragen, uitgedrukt in euro, worden als aanvullende uitkering toegevoegd aan de werkingsuitkering van HUB-EHSAL of aan de werkingsuitkering van diens rechtsopvolger:
 <table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
 			<td style="width: 123.5pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Begrotingsjaar 2008</p>
+			<p>Begrotingsjaar 2008</p>
 			</td>
 			<td style="width: 3cm; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">390.777,68</p>
+			<p style="text-align: right;">390.777,68</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 123.5pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Begrotingsjaar 2009</p>
+			<p>Begrotingsjaar 2009</p>
 			</td>
 			<td style="width: 3cm; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">1.451.459,94</p>
+			<p style="text-align: right;">1.451.459,94</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 123.5pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Begrotingsjaar 2010</p>
+			<p>Begrotingsjaar 2010</p>
 			</td>
 			<td style="width: 3cm; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">1.451.459,94</p>
+			<p style="text-align: right;">1.451.459,94</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 123.5pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Begrotingsjaar 2011</p>
+			<p>Begrotingsjaar 2011</p>
 			</td>
 			<td style="width: 3cm; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">1.161.167,95</p>
+			<p style="text-align: right;">1.161.167,95</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 123.5pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Begrotingsjaar 2012</p>
+			<p>Begrotingsjaar 2012</p>
 			</td>
 			<td style="width: 3cm; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">870.875,96</p>
+			<p style="text-align: right;">870.875,96</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 123.5pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Begrotingsjaar 2013</p>
+			<p>Begrotingsjaar 2013</p>
 			</td>
 			<td style="width: 3cm; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">580.583,98</p>
+			<p style="text-align: right;">580.583,98</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width: 123.5pt; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Begrotingsjaar 2014</p>
+			<p>Begrotingsjaar 2014</p>
 			</td>
 			<td style="width: 3cm; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">290.291,99</p>
+			<p style="text-align: right;">290.291,99</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">Vanaf het begrotingsjaar 2009 worden de bedragen vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
+<p>Vanaf het begrotingsjaar 2009 worden de bedragen vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
 <br>
 § 6. Vanaf het begrotingsjaar 2015 ontvangen de hogescholen en de universiteiten een bedrag van 804.000 euro voor de vorming en opleiding van het personeel aan de hogescholen en universiteiten. Dat bedrag wordt onder de universiteiten en hogescholen verdeeld naar rato van het aandeel van elke instelling in de werkingsuitkering voor het voorgaande begrotingsjaar. Het bedrag dat zo verkregen wordt, wordt met behoud van de bestemming ervan toegevoegd aan de werkingsuitkering.<br>
 <br>
-De universiteiten en hogescholen onderhandelen jaarlijks binnen het lokale medezeggenschapsorgaan met de afgevaardigden van het personeel over de geplande vormingsinitiatieven en rapporteren over het resultaat van de vormingsinitiatieven van het voorgaande begrotingsjaar.</p>
+De universiteiten en hogescholen onderhandelen jaarlijks binnen het lokale medezeggenschapsorgaan met de afgevaardigden van het personeel over de geplande vormingsinitiatieven en rapporteren over het resultaat van de vormingsinitiatieven van het voorgaande begrotingsjaar.<br>
+<br>
+§ 7. Volgende bedragen, uitgedrukt in euro, worden als aanvullende uitkering toegevoegd aan de werkingsuitkering van de Artesis Plantijn Hogeschool Antwerpen:<br>
+&nbsp;</p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Begrotingsjaar 2016</td>
+			<td>41.549,00</td>
+		</tr>
+		<tr>
+			<td>Begrotingsjaar 2017</td>
+			<td>127.971,00</td>
+		</tr>
+		<tr>
+			<td>Begrotingsjaar 2018</td>
+			<td>127.971,00</td>
+		</tr>
+		<tr>
+			<td>Begrotingsjaar 2019</td>
+			<td>102.376,80</td>
+		</tr>
+		<tr>
+			<td>Begrotingsjaar 2020</td>
+			<td>76.782,60</td>
+		</tr>
+		<tr>
+			<td>Begrotingsjaar 2021</td>
+			<td>51.188,40</td>
+		</tr>
+		<tr>
+			<td>Begrotingsjaar 2022</td>
+			<td>25.594,20</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Vanaf het begrotingsjaar 2018 worden de bedragen vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.</p>
 
 ### ART. III.35.
 
@@ -3178,7 +4822,22 @@ De universiteiten en hogescholen onderhandelen jaarlijks binnen het lokale medez
 
 ### ART. III.36.
 
-<P style="MARGIN: 0cm 0cm 0pt">§1. Er wordt een recuperatiefonds opgericht, hierna het fonds te   noemen.<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="TEXT-INDENT: 35.45pt; MARGIN: 0cm 0cm 0pt">Het fonds is een   begrotingsfonds in de zin van artikel 45 van de wetten op de   Rijkscomptabiliteit, gecoördineerd op 17 juli 1991.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="TEXT-INDENT: 35.45pt; MARGIN: 0cm 0cm 0pt">De middelen van het fonds   moeten aangewend worden voor de betaling van de werkingsuitkeringen aan de   hogescholen.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. Aan het fonds worden alle ontvangsten toegewezen die voortvloeien   uit de terugstorting van onverschuldigde salarissen en vergoedingen, alsook alle   ontvangsten die voortvloeien uit het terugstorten van 70% van het   bruto-aanvangssalaris, vermeld in artikel V.298 en V.299.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§3. Vanaf 1 september 1998 worden de personeelsleden, vermeld in V.264,   voor het volume van de opdracht waarvoor zij op 1 januari 1998 verbonden waren   aan de optie kinesitherapie, opgenomen in een apart personeelsbestand. Zij   behouden hun statutaire toestand en blijven de salarisschaal genieten die hun op   1 januari 1998 was toegekend. Zij behouden hun statuut van personeelslid van de   hogeschool waarvan zij personeelslid waren op 1 januari   1998.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§4. Vanaf het academiejaar 2002-2003 worden de personeelsleden, vermeld   in paragraaf 3, die geen tewerkstelling hebben in de opleiding kinesitherapie,   niet meer betaald ten laste van de werkingsuitkeringen van de hogeschool. De   Vlaamse Gemeenschap betaalt die personeelsleden centraal. Ze neemt hiervoor een   bedrag op in de begroting dat gelijk is aan de brutoloonkosten van die   personeelsleden, verminderd met een raming van de terugstorting van 70% van het   bruto-aanvangssalaris, vermeld in artikel V.296 en V.297.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt   rechtstreeks over de kredieten van het   fonds.</P>
+<p>§1. Er wordt een fonds Hoger Onderwijs opgericht, hierna het fonds te noemen.<br>
+<br>
+Het fonds is een begrotingsfonds in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+<br>
+De middelen van het fonds worden aangewend voor:<br>
+a. de betaling van de werkingsuitkeringen aan de hogescholen;<br>
+b. de betaling van de investeringstoelagen aan de hogescholen en universiteiten in het kader van het Vlaams Klimaatbeleidsplan;<br>
+c. de betaling van andere uitgaven ten voordele van het Vlaamse hoger onderwijs.<br>
+<br>
+§2. Aan het fonds worden alle ontvangsten toegewezen die voortvloeien uit de terugstorting van onverschuldigde salarissen en vergoedingen, alsook alle ontvangsten die voortvloeien uit het terugstorten van 70% van het bruto-aanvangssalaris, vermeld in artikel V.298 en V.299, alsook de middelen ontvangen vanuit het Vlaams Klimaatfonds zoals vermeld in artikel 14 van het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012.<br>
+<br>
+§3. Vanaf 1 september 1998 worden de personeelsleden, vermeld in V.264, voor het volume van de opdracht waarvoor zij op 1 januari 1998 verbonden waren aan de optie kinesitherapie, opgenomen in een apart personeelsbestand. Zij behouden hun statutaire toestand en blijven de salarisschaal genieten die hun op 1 januari 1998 was toegekend. Zij behouden hun statuut van personeelslid van de hogeschool waarvan zij personeelslid waren op 1 januari 1998.<br>
+<br>
+§4. Vanaf het academiejaar 2002-2003 worden de personeelsleden, vermeld in paragraaf 3, die geen tewerkstelling hebben in de opleiding kinesitherapie, niet meer betaald ten laste van de werkingsuitkeringen van de hogeschool. De Vlaamse Gemeenschap betaalt die personeelsleden centraal. Ze neemt hiervoor een bedrag op in de begroting dat gelijk is aan de brutoloonkosten van die personeelsleden, verminderd met een raming van de terugstorting van 70% van het bruto-aanvangssalaris, vermeld in artikel V.296 en V.297.<br>
+<br>
+§5. ...</p>
 
 ### ART. III.37.
 
@@ -3198,7 +4857,57 @@ De universiteiten en hogescholen onderhandelen jaarlijks binnen het lokale medez
 
 ### ART. III.41.
 
-<P style="MARGIN: 0cm 0cm 0pt">§1. Vanaf het begrotingsjaar 2012 wordt in een   bijkomende financiering voorzien voor de hogeronderwijsinstellingen die een   vestigingsplaats hebben in het tweetalige gebied Brussel-Hoofdstad en er   initiële bachelor- of masteropleidingen organiseren. Die bijkomende financiering   bedraagt (uitgedrukt in miljoen euro):</P>  <TABLE class=MsoNormalTable   style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; MARGIN: auto auto auto 5.4pt; BORDER-LEFT: medium none; mso-table-layout-alt: fixed; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   cellSpacing=0 cellPadding=0 border=1>    <TBODY>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 6cm; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt"       vAlign=top width=227>        <P>begrotingsjaar 2012</P></TD>      <TD       style="BORDER-TOP: windowtext 1pt solid; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 35.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=47>        <P>1,8</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 1">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 6cm; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=227>        <P>begrotingsjaar 2013</P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 35.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=47>        <P>3,5</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 2; mso-yfti-lastrow: yes">      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 6cm; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=227>        <P>vanaf het begrotingsjaar 2014 </P></TD>      <TD       style="BORDER-TOP: #f0f0f0; HEIGHT: 6.35pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 35.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=47>        <P>6,5</P></TD></TR></TBODY></TABLE>  <P style="MARGIN: 0cm 0cm 0pt"><BR>Het bedrag dat in het begrotingsjaar t   nominaal wordt toegevoegd, zijnde het verschil tussen het bedrag voor het   begrotingsjaar t en het bedrag voor het begrotingsjaar t-1, vermeld in het   eerste lid, wordt vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de   indexformule, vermeld in artikel III.5, §9.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Vanaf het begrotingsjaar 2014 ontvangen deze   instellingen daarenboven jaarlijks een toelage van 3.116.539,88 euro. Dit bedrag   is op indexniveau 2011 en wordt vanaf het begrotingsjaar 2012 geïndexeerd aan de   hand van de indexformule, vermeld in artikel III.5, §9.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De som van de bedragen, vermeld in deze   paragraaf, worden verdeeld over de hogeronderwijsinstellingen met   vestigingsplaats in het tweetalige gebied Brussel-Hoofdstad naar rato van het   aantal opgenomen studiepunten in de initiële bachelor- en masteropleidingen,   georganiseerd en aangeboden in het tweetalige gebied Brussel-Hoofdstad, berekend   overeenkomstig artikel III.7.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De middelen worden beschouwd als   werkingsuitkeringen als vermeld in artikel III.1, eerste lid, en   III.2.<BR><BR>In de begrotingsjaren 2015 en 2016 wordt de som van de bedragen,   vermeld en berekend overeenkomstig deze paragraaf, verminderd met een bedrag van   250.000 euro.<BR><BR>Vanaf begrotingsjaar 2016 wordt de som van de bedragen,   vermeld en berekend overeenkomstig deze paragraaf, verminderd met een bedrag van   1.000.000 euro.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. De hogeronderwijsinstellingen die   overeenkomstig paragraaf 1 bijkomende middelen ontvangen, rapporteren jaarlijks   aan de Vlaamse minister, bevoegd voor het onderwijs, over de leefbaarheid van de   initiële bachelor- en masteropleidingen die ze organiseren en aanbieden in het   tweetalige gebied Brussel-Hoofstad, over de initiatieven die ze nemen om de   opleidingen sterker te positioneren en de leefbaarheid ervan te verbeteren, en   over de resultaten en effecten van de initiatieven.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Als basis voor die rapportering maakt de   administratie jaarlijks tegen uiterlijk 30 juni een rapport op van de evolutie   van de studentencijfers in die opleidingen. Het eerste rapport, het nulrapport,   wordt opgeleverd tegen 30 juni 2012. Het eerste monitoringrapport wordt   opgeleverd tegen 30 juni 2013. De betrokken instellingen rapporteren uiterlijk 3   maanden na de datum van oplevering van het nulrapport en het monitoringrapport.   De eerste instellingsrapporten worden ingestuurd tegen 1 september 2012.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Tegen 1 januari 2017 wordt er een globale   evaluatie gemaakt van de resultaten en effecten van de genomen   initiatieven.<BR><BR>§ 3. De bedragen van de bijkomende financiering voor de   hogeronderwijsinstellingen die een vestigingsplaats hebben in het tweetalige   gebied Brussel-Hoofdstad, berekend overeenkomstig dit artikel, worden vanaf het   begrotingsjaar 2015 met 2 % verminderd. Voor de berekening van de 2 % wordt het   bedrag van 250.000 euro dat in 2015 en 2016 in mindering gebracht wordt, in   rekening gebracht.</P>
+<p>§1. Vanaf het begrotingsjaar 2012 wordt in een bijkomende financiering voorzien voor de hogeronderwijsinstellingen die een vestigingsplaats hebben in het tweetalige gebied Brussel-Hoofdstad en er initiële bachelor- of masteropleidingen organiseren. Die bijkomende financiering bedraagt (uitgedrukt in miljoen euro):</p>
+
+<table class="MsoNormalTable" style="margin: auto auto auto 5.4pt; border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-table-layout-alt: fixed; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 6cm; height: 6.35pt; background-color: transparent;">
+			<p>begrotingsjaar 2012</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 35.45pt; height: 6.35pt; background-color: transparent;">
+			<p>1,8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 6cm; height: 6.35pt; background-color: transparent;">
+			<p>begrotingsjaar 2013</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 35.45pt; height: 6.35pt; background-color: transparent;">
+			<p>3,5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 6cm; height: 6.35pt; background-color: transparent;">
+			<p>vanaf het begrotingsjaar 2014</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 35.45pt; height: 6.35pt; background-color: transparent;">
+			<p>6,5</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Het bedrag dat in het begrotingsjaar t nominaal wordt toegevoegd, zijnde het verschil tussen het bedrag voor het begrotingsjaar t en het bedrag voor het begrotingsjaar t-1, vermeld in het eerste lid, wordt vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
+<br>
+Vanaf het begrotingsjaar 2014 ontvangen deze instellingen daarenboven jaarlijks een toelage van 3.116.539,88 euro. Dit bedrag is op indexniveau 2011 en wordt vanaf het begrotingsjaar 2012 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
+<br>
+De som van de bedragen, vermeld in deze paragraaf, worden verdeeld over de hogeronderwijsinstellingen met vestigingsplaats in het tweetalige gebied Brussel-Hoofdstad naar rato van het aantal opgenomen studiepunten in de initiële bachelor- en masteropleidingen, georganiseerd en aangeboden in het tweetalige gebied Brussel-Hoofdstad, berekend overeenkomstig artikel III.7.<br>
+<br>
+De middelen worden beschouwd als werkingsuitkeringen als vermeld in artikel III.1, eerste lid, en III.2.<br>
+<br>
+Vanaf het begrotingsjaar 2015&nbsp;wordt de som van de bedragen, vermeld en berekend overeenkomstig deze paragraaf, verminderd met een bedrag van 250.000 euro.<br>
+<br>
+Vanaf begrotingsjaar 2016 wordt de som van de bedragen, vermeld en berekend overeenkomstig deze paragraaf, verminderd met een bedrag van 1.000.000 euro.<br>
+<br>
+§2. De hogeronderwijsinstellingen die overeenkomstig paragraaf 1 bijkomende middelen ontvangen, rapporteren jaarlijks aan de Vlaamse minister, bevoegd voor het onderwijs, over de leefbaarheid van de initiële bachelor- en masteropleidingen die ze organiseren en aanbieden in het tweetalige gebied Brussel-Hoofstad, over de initiatieven die ze nemen om de opleidingen sterker te positioneren en de leefbaarheid ervan te verbeteren, en over de resultaten en effecten van de initiatieven.<br>
+<br>
+Als basis voor die rapportering maakt de administratie jaarlijks tegen uiterlijk 30 juni een rapport op van de evolutie van de studentencijfers in die opleidingen. Het eerste rapport, het nulrapport, wordt opgeleverd tegen 30 juni 2012. Het eerste monitoringrapport wordt opgeleverd tegen 30 juni 2013. De betrokken instellingen rapporteren uiterlijk 3 maanden na de datum van oplevering van het nulrapport en het monitoringrapport. De eerste instellingsrapporten worden ingestuurd tegen 1 september 2012.<br>
+<br>
+Tegen 1 januari 2017 wordt er een globale evaluatie gemaakt van de resultaten en effecten van de genomen initiatieven.<br>
+<br>
+§ 3. De bedragen van de bijkomende financiering voor de hogeronderwijsinstellingen die een vestigingsplaats hebben in het tweetalige gebied Brussel-Hoofdstad, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd. Voor de berekening van de 2 % wordt het bedrag van 250.000 euro dat in 2015 en 2016 in mindering gebracht wordt, in rekening gebracht.</p>
 
 ### ART. III.41bis.
 
@@ -3220,7 +4929,135 @@ Vanaf het begrotingsjaar 2015 wordt in een bijkomende financiering   voorzien vo
 
 ### ART. III.45.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Vanaf het begrotingsjaar 2013   ontvangen de hogescholen jaarlijks een bedrag van 11.039.000,00 euro voor het   praktijkgericht wetenschappelijk onderzoek. Dit bedrag wordt vanaf het   begrotingsjaar 2013 geïndexeerd aan de hand van de formule, vermeld in artikel   III.5, §9.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Vanaf het begrotingsjaar 2014   wordt jaarlijks een bedrag van 3.016.980 euro toegevoegd voor het   praktijkgericht wetenschappelijk onderzoek. Dit bedrag is op indexniveau 2011 en   wordt vanaf het begrotingsjaar 2012 geïndexeerd aan de hand van de formule,   vermeld in artikel III.5, §9.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Vanaf het begrotingsjaar 2014   wordt jaarlijks een bedrag van 1.000.000 euro toegevoegd voor het   praktijkgericht wetenschappelijk onderzoek. Dit bedrag wordt vanaf het   begrotingsjaar 2015 geïndexeerd aan de hand van de formule, vermeld in artikel   III.5, §9.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. De bedragen, vermeld in   paragraaf 1, worden vermeerderd met de volgende bedragen (uitgedrukt in miljoen   euro):</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-table-layout-alt: fixed; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="HEIGHT: 12.6pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.6pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>begrotingsjaar</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 12.6pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>bedrag (uitgedrukt in miljoen euro)</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>2013</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>0,6</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>2014</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>1,1</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>2015</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>1,5</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>2016</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>2,0</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>2017</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>2,5</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 6">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>2018</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>3,0</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 7">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>2019</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>3,4</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 8">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>2020</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>3,9</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 9">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>2021</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>4,5</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 10">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>2022</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>4,8</P></TD></TR>    <TR style="HEIGHT: 6.35pt; mso-yfti-irow: 11; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>vanaf 2023</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.6pt; PADDING-RIGHT: 5.4pt; HEIGHT: 6.35pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=137>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>5,2</P></TD></TR></TBODY></TABLE>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het bedrag dat in het   begrotingsjaar t nominaal wordt toegevoegd, zijnde het verschil tussen het   bedrag voor het begrotingsjaar t en het bedrag voor het begrotingsjaar t-1,   vermeld in deze paragraaf, wordt vanaf het begrotingsjaar t+1 geïndexeerd aan de   hand van de indexformule, vermeld in artikel III.5, §9.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§3. De bedragen, verkregen na   toepassing van paragraaf 1 en 2, worden verdeeld onder de hogescholen op basis   van de som van:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; 100% van het aantal opgenomen studiepunten   in de initiële professionele bacheloropleidingen, berekend overeenkomstig   artikel III.7;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; 50% van het gemiddeld aantal opgenomen   studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten   zich hebben ingeschreven in een diplomacontract voor   bachelor-na-bacheloropleidingen.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In afwijking van het eerste lid   kan vanaf het begrotingsjaar 2019 de jaarlijkse toename van de middelen voor het   praktijkgericht wetenschappelijk onderzoek verdeeld worden op basis van   outputindicatoren. De Vlaamse Regering stelt daarvoor een werkgroep samen die   uiterlijk tegen 30 juni 2015 een voorstel uitwerkt. Op basis van dat voorstel   legt de Vlaamse Regering tegen 1 januari 2016 de lijst van outputindicatoren   vast, alsook de concrete verdelingswijze.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§4. De toegekende bedragen worden   door de hogescholen besteed aan het dekken van zowel de kosten voor het opzetten   van een organieke ondersteuningsstructuur als de kosten verbonden met de   uitvoering van de projecten van praktijkgericht wetenschappelijk onderzoek in   het kader van het professioneel hoger onderwijs.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De hogeschool stelt samen met de   associatie waartoe ze behoort een onderzoeksreglement op. Dat reglement bevat   ten minste de volgende elementen:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo2"   class=MsoListParagraph>1°&nbsp;&nbsp; de looptijd van de projecten;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo2"   class=MsoListParagraph>2°&nbsp;&nbsp; de (voorwaarden voor de) wetenschappelijke   ondersteuning van de projecten;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo2"   class=MsoListParagraph>3°&nbsp;&nbsp; de methodologie die gevolgd wordt bij de   ex-ante-evaluatie van de ingediende voorstellen, de ex-postevaluatie van de   uitgevoerde projecten en eventueel de tussentijdse evaluatie van de projecten   die in uitvoering zijn.</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo2"   class=MsoListParagraph>&nbsp;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo2"   class=MsoListParagraph>§ 5. De bedragen voor het praktijkgericht   wetenschappelijk onderzoek, berekend overeenkomstig dit artikel   met<BR>uitzondering van de bedragen vermeld in paragraaf 2 die vanaf 2015   toegevoegd worden, worden vanaf het begrotingsjaar 2015 met 2 %   verminderd.</P>
+<p>§1. Vanaf het begrotingsjaar 2013 ontvangen de hogescholen jaarlijks een bedrag van 11.039.000,00 euro voor het praktijkgericht wetenschappelijk onderzoek. Dit bedrag wordt vanaf het begrotingsjaar 2013 geïndexeerd aan de hand van de formule, vermeld in artikel III.5, §9.<br>
+<br>
+Vanaf het begrotingsjaar 2014 wordt&nbsp;een bedrag van 3.016.980 euro toegevoegd voor het praktijkgericht wetenschappelijk onderzoek. Dit bedrag is op indexniveau 2011 en wordt vanaf het begrotingsjaar 2012 geïndexeerd aan de hand van de formule, vermeld in artikel III.5, §9.<br>
+<br>
+Vanaf het begrotingsjaar 2014 wordt&nbsp;een bedrag van 1.000.000 euro toegevoegd voor het praktijkgericht wetenschappelijk onderzoek. Dit bedrag wordt vanaf het begrotingsjaar 2015 geïndexeerd aan de hand van de formule, vermeld in artikel III.5, §9.<br>
+<br>
+Vanaf het begrotingsjaar 2017 wordt een bedrag van minstens 10.000.000 euro toegevoegd voor het praktijkgericht wetenschappelijk onderzoek. Dit bedrag wordt vanaf het begrotingsjaar 2018 geïndexeerd aan de hand van de formule, vermeld in artikel III.5, § 9.<br>
+<br>
+§2. De bedragen, vermeld in paragraaf 1, worden vermeerderd met de volgende bedragen (uitgedrukt in miljoen euro):</p>
+
+<table class="MsoNormalTable" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-table-layout-alt: fixed; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 102.6pt; height: 12.6pt; background-color: transparent;">
+			<p>begrotingsjaar</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 12.6pt; background-color: transparent;">
+			<p style="text-align: center;">bedrag (uitgedrukt in miljoen euro)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p>2013</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: center;">0,6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p>2014</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: center;">1,1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p>2015</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: center;">1,5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p>2016</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: center;">2,0</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p>2017</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: center;">2,5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p>2018</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: center;">3,0</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p>2019</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: center;">3,4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p>2020</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: center;">3,9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p>2021</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: center;">4,5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p>2022</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: center;">4,8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p>vanaf 2023</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 102.6pt; height: 6.35pt; background-color: transparent;">
+			<p style="text-align: center;">5,2</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Het bedrag dat in het begrotingsjaar t nominaal wordt toegevoegd, zijnde het verschil tussen het bedrag voor het begrotingsjaar t en het bedrag voor het begrotingsjaar t-1, vermeld in deze paragraaf, wordt vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, §9.<br>
+<br>
+§3. De bedragen, verkregen na toepassing van paragraaf 1 en 2, worden verdeeld onder de hogescholen op basis van de som van:<br>
+1°&nbsp;&nbsp; 100% van het aantal opgenomen studiepunten in de initiële professionele bacheloropleidingen, berekend overeenkomstig artikel III.7;<br>
+2°&nbsp;&nbsp; 50% van het gemiddeld aantal opgenomen studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten zich hebben ingeschreven in een diplomacontract voor bachelor-na-bacheloropleidingen.<br>
+<br>
+In afwijking van het eerste lid kan vanaf het begrotingsjaar 2019 de jaarlijkse toename van de middelen voor het praktijkgericht wetenschappelijk onderzoek verdeeld worden op basis van outputindicatoren. De Vlaamse Regering stelt daarvoor een werkgroep samen die uiterlijk tegen 30 juni 2015 een voorstel uitwerkt. Op basis van dat voorstel legt de Vlaamse Regering tegen 1 januari 2016 de lijst van outputindicatoren vast, alsook de concrete verdelingswijze.<br>
+<br>
+§4. De toegekende bedragen worden door de hogescholen besteed aan het dekken van zowel de kosten voor het opzetten van een organieke ondersteuningsstructuur als de kosten verbonden met de uitvoering van de projecten van praktijkgericht wetenschappelijk onderzoek in het kader van het professioneel hoger onderwijs.<br>
+<br>
+De hogeschool stelt samen met de associatie waartoe ze behoort een onderzoeksreglement op. Dat reglement bevat ten minste de volgende elementen:<br>
+1°&nbsp;&nbsp; de looptijd van de projecten;<br>
+2°&nbsp;&nbsp; de (voorwaarden voor de) wetenschappelijke ondersteuning van de projecten;<br>
+3°&nbsp;&nbsp; de methodologie die gevolgd wordt bij de ex-ante-evaluatie van de ingediende voorstellen, de ex-postevaluatie van de uitgevoerde projecten en eventueel de tussentijdse evaluatie van de projecten die in uitvoering zijn.<br>
+<br>
+§ 5. De bedragen voor het praktijkgericht wetenschappelijk onderzoek, berekend overeenkomstig dit artikel met<br>
+uitzondering van de bedragen vermeld in paragraaf 2 die vanaf 2015 toegevoegd worden, worden vanaf het begrotingsjaar 2015 met 2 % verminderd.</p>
 
 ## Afdeling 4 Financiering van de investeringen van de hogescholen
 
@@ -3502,7 +5339,11 @@ De verdeling en de toewijzing per hogeschool van de   investeringsmachtigingen, 
 
 ### ART. III.48.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Om voor de financiering van de investeringen in aanmerking te komen   moet de hogeschool voldoen aan de volgende voorwaarden: <?xml:namespace prefix =   o ns = "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; minstens 2.000 financierbare studenten tellen, indien het nieuwbouw,   vernieuwbouw of aankoop van gebouwen betreft;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; eigenaar zijn van het onroerend goed, ofwel een zakelijk recht bezitten   op het onroerend goed dat haar het genot waarborgt voor ten minste een periode   van dertig jaar. Deze voorwaarde geldt niet bij de aankoop van een gebouw, van   grond of van zware didactische en wetenschappelijke   apparatuur.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. In de schoot van de associatie wordt een advies gegeven over de   meerjarenplanning en over de besteding van de investeringsmiddelen. Dit advies   is gebaseerd op het in artikel II.11, tweede lid, 7°, bedoelde meerjarenplan   voor de onderlinge afstemming van investeringen, infrastructuur, bibliotheek- en   documentatievoorzieningen.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§3. Voor de hogescholen die geen deel uitmaken van een associatie wordt   de in paragraaf 1 vermelde norm verhoogd tot 4.000 financierbare   studenten.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p>§ 1. Om voor de financiering van de investeringen in aanmerking te komen moet de hogeschool eigenaar zijn van het onroerend goed, ofwel een zakelijk recht bezitten op het onroerend goed dat haar het genot waarborgt voor ten minste een periode van dertig jaar. Deze voorwaarde geldt niet bij de aankoop van een gebouw, van grond of van zware didactische en wetenschappelijke apparatuur.<br>
+<br>
+§ 2. In de schoot van de associatie wordt een advies gegeven over de meerjarenplanning en over de besteding van de investeringsmiddelen. Dit advies is gebaseerd op het in artikel II.11, tweede lid, 7°, bedoelde meerjarenplan voor de onderlinge afstemming van investeringen, infrastructuur, bibliotheek- en documentatievoorzieningen.</p>
+
+<p>&nbsp;</p>
 
 ### ART. III.49.
 
@@ -3538,7 +5379,15 @@ De verdeling en de toewijzing per hogeschool van de   investeringsmachtigingen, 
 
 ### ART. III.55.
 
-<P style="MARGIN: 0cm 0cm 0pt">§1. Vanaf het begrotingsjaar 2016 ontvangen de   hogescholen voor de taken in verband met het samenwerkingsverband voor   hbo5-opleidingen, zoals bepaald in artikel 50 van het decreet van 30 april 2009   betreffende het secundair na secundair onderwijs en hoger beroepsonderwijs, een   werkingstoelage van 1.500.000 euro.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§ 2. Het bedrag vermeld in paragraaf 1 wordt   vanaf begrotingsjaar 2017 jaarlijks geïndexeerd volgende de bepalingen in   artikel III.5, § 9.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§3. De werkingstoelage van een hogeschool, zoals   bepaald in paragraaf 1, bestaat uit een sokkel en een variabel deel. De sokkel   bedraagt steeds 35.000 euro. Het variabel deel wordt bepaald door het resterende   bedrag te verdelen tussen de samenwerkingsverbanden naar rato van het aantal   hbo5-opleidingen dat ze aanbieden.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§4. In afwijking van paragraaf 3 wordt in 2014   182.250 euro, gelijk verdeeld over het aantal hogescholen dat lid is van een   samenwerkingsverband.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§5. Indien de Hogere Zeevaartschool gebruik maakt   van de bepaling, vermeld in artikel III.62, §2, kan ze geen aanspraak maken op   de werkingstoelage, als vermeld in paragraaf 1.</P>
+<p>§1. Vanaf het begrotingsjaar 2016 ontvangen de hogescholen voor de taken in verband met het samenwerkingsverband voor hbo5-opleidingen, zoals bepaald in artikel 50 van het decreet van 30 april 2009 betreffende het secundair na secundair onderwijs en hoger beroepsonderwijs, een werkingstoelage van 1.500.000 euro.<br>
+<br>
+§ 2. Het bedrag vermeld in paragraaf 1 wordt vanaf begrotingsjaar 2017 jaarlijks geïndexeerd volgende de bepalingen in artikel III.5, § 9.<br>
+<br>
+§3. De werkingstoelage van een hogeschool, zoals bepaald in paragraaf 1, bestaat uit een sokkel en een variabel deel. De sokkel bedraagt steeds 35.000 euro. Het variabel deel wordt bepaald door het resterende bedrag te verdelen tussen de samenwerkingsverbanden naar rato van het aantal hbo5-opleidingen dat ze aanbieden.<br>
+<br>
+§4. In afwijking van paragraaf 3 wordt in 2014 182.250 euro, gelijk verdeeld over het aantal hogescholen dat lid is van een samenwerkingsverband.<br>
+<br>
+§ 5. Indien de Hogere Zeevaartschool gebruik maakt van de bepaling, vermeld in artikel 50, § 2, van het decreet betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs, kan ze geen aanspraak maken op de werkingstoelage als vermeld in paragraaf 1.</p>
 
 ### ART. III.56.
 
@@ -3554,105 +5403,103 @@ De verdeling en de toewijzing per hogeschool van de   investeringsmachtigingen, 
 
 ### ART. III.58.
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§1. Vanaf het begrotingsjaar 2008 ontvangen de volgende universiteiten de hierna vermelde uitkeringen, uitgedrukt in k euro, als bijdrage in het dekken van de kosten die voortvloeien uit de hogere loonlasten die de universiteiten als werkgever moeten dragen voor hun personeelsleden, vermeld in deel 5, titel 1, hoofdstuk 1 en 2, in vergelijking met de loonlast die de Universiteit Gent als werkgever draagt. De structurele hogere verplichtingen die de Universiteit Gent als publiekrechtelijke instelling moet dragen, worden in mindering gebracht: <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--></p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p>§1. Vanaf het begrotingsjaar 2008 ontvangen de volgende universiteiten de hierna vermelde uitkeringen, uitgedrukt in k euro, als bijdrage in het dekken van de kosten die voortvloeien uit de hogere loonlasten die de universiteiten als werkgever moeten dragen voor hun personeelsleden, vermeld in deel 5, titel 1, hoofdstuk 1 en 2, in vergelijking met de loonlast die de Universiteit Gent als werkgever draagt. De structurele hogere verplichtingen die de Universiteit Gent als publiekrechtelijke instelling moet dragen, worden in mindering gebracht:</p>
 
 <table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-yfti-tbllook: 1184; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-border-alt: outset #222222 .75pt;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
 			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">a) Katholieke Universiteit Leuven</p>
+			<p>a) Katholieke Universiteit Leuven</p>
 			</td>
 			<td style="width: 41.3pt; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">9.789</p>
+			<p style="text-align: right;">9.789</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">b) Vrije Universiteit Brussel</p>
+			<p>b) Vrije Universiteit Brussel</p>
 			</td>
 			<td style="width: 41.3pt; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">3.305</p>
+			<p style="text-align: right;">3.305</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">c) Universiteit Antwerpen</p>
+			<p>c) Universiteit Antwerpen</p>
 			</td>
 			<td style="width: 41.3pt; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">927</p>
+			<p style="text-align: right;">927</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">d) Universiteit Hasselt</p>
+			<p>d) Universiteit Hasselt</p>
 			</td>
 			<td style="width: 41.3pt; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">208</p>
+			<p style="text-align: right;">208</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">e) HUB-KUBrussel</p>
+			<p>e) HUB-KUBrussel</p>
 			</td>
 			<td style="width: 41.3pt; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">195</p>
+			<p style="text-align: right;">195</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§2. Naast de uitkeringen in § 1, ontvangen de volgende universiteiten vanaf het begrotingsjaar 2008 de hierna vermelde uitkeringen, uitgedrukt in k euro, als bijdrage in de voorziening van de aanvullende pensioenregeling die deze universiteiten inrichten ten gunste van de leden van hun administratief en technisch personeel die bezoldigd worden met de werkingsuitkeringen, zoals bedoeld in artikel V.47 van dit decreet. Om van de hierna vermelde uitkeringen te kunnen genieten, richten de universiteiten een pensioenregeling in, via één of meerdere aanvullende pensioenstelsels, die ten gunste van voormelde personeelsleden voorziet in een aanvulling op het wettelijk pensioen dat zij later ontvangen uit het pensioenstelsel der loontrekkenden, die, samen met dat wettelijk pensioen, globaal genomen een vergelijkbare pensioenregeling beoogt als deze die van toepassing is op de leden van het administratief en technisch personeel van de gemeenschapsuniversiteiten, en waarbij de voorwaarden en bepalingen van deze pensioenregeling uitgewerkt worden, overeenkomstig de wetgeving inzake aanvullende pensioenen, in pensioenreglementen die een concrete invulling geven aan deze doelstelling. Aldus uitgewerkte pensioenregelingen gefinancierd met de hieronder vermelde uitkeringen leggen de aanvullende pensioenvoordelen en -aanspraken vast ten gunste van de leden van het administratief en technisch personeel dat bezoldigd wordt met de werkingsuitkeringen, van de universiteiten hieronder vermeld, alsook van hun rechthebbenden of begunstigden.<br>
+<p><br>
+§2. Naast de uitkeringen in § 1, ontvangen de volgende universiteiten vanaf het begrotingsjaar 2008 de hierna vermelde uitkeringen, uitgedrukt in k euro, als bijdrage in de voorziening van de aanvullende pensioenregeling die deze universiteiten inrichten ten gunste van de leden van hun administratief en technisch personeel die bezoldigd worden met de werkingsuitkeringen, zoals bedoeld in artikel V.47 van dit decreet. Om van de hierna vermelde uitkeringen te kunnen genieten, richten de universiteiten een pensioenregeling in, via één of meerdere aanvullende pensioenstelsels, die ten gunste van voormelde personeelsleden voorziet in een aanvulling op het wettelijk pensioen dat zij later ontvangen uit het pensioenstelsel der loontrekkenden, die, samen met dat wettelijk pensioen, globaal genomen een vergelijkbare pensioenregeling beoogt als deze die van toepassing is op de leden van het administratief en technisch personeel van de gemeenschapsuniversiteiten, en waarbij de voorwaarden en bepalingen van deze pensioenregeling uitgewerkt worden, overeenkomstig de wetgeving inzake aanvullende pensioenen, in pensioenreglementen die een concrete invulling geven aan deze doelstelling. Aldus uitgewerkte pensioenregelingen gefinancierd met de hieronder vermelde uitkeringen leggen de aanvullende pensioenvoordelen en -aanspraken vast ten gunste van de leden van het administratief en technisch personeel dat bezoldigd wordt met de werkingsuitkeringen, van de universiteiten hieronder vermeld, alsook van hun rechthebbenden of begunstigden.<br>
 <br>
 Vanaf het begrotingsjaar 2016 wordt voor de toekenning van de hierna vermelde uitkeringen bovendien vereist dat de universiteit kan aantonen dat de door haar daartoe bevoegde organen goedgekeurde aanpassingen van bestaande pensioenregelingen of de inrichting van nieuwe pensioenregelingen het voorwerp hebben uitgemaakt van een collectief overleg of tot stand kwamen met inspraak vanwege de vertegenwoordigers van de leden van het administratief en technisch personeel bezoldigd met bedoelde werkingsuitkeringen:</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
 <table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-yfti-tbllook: 1184; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-border-alt: outset #222222 .75pt;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
 			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">a) Katholieke Universiteit Leuven</p>
+			<p>a) Katholieke Universiteit Leuven</p>
 			</td>
 			<td style="width: 41.3pt; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">6.410</p>
+			<p style="text-align: right;">6.410</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">b) Vrije Universiteit Brussel</p>
+			<p>b) Vrije Universiteit Brussel</p>
 			</td>
 			<td style="width: 41.3pt; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">2.149</p>
+			<p style="text-align: right;">2.149</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">c) HUB-KUBrussel</p>
+			<p>c) HUB-KUBrussel</p>
 			</td>
 			<td style="width: 41.3pt; background-color: transparent;">
-			<p style="text-align: right; margin-right: 0cm; margin-left: 0cm;">100</p>
+			<p style="text-align: right;">100</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p><br>
+§3. De bedragen vermeld in paragraaf 1 en paragraaf 2 ten bate van de HUB-KUBrussel worden op basis van een rapportering van de commissaris van de Vlaamse Regering en van de gemachtigde van Financiën over de evolutie van salariskosten van de betreffende personeelscategorieën, jaarlijks aangepast. De vrijgekomen bedragen worden toegevoegd aan het bedrag van een andere instelling bij overname door die andere instelling van de betrokken personeelsleden.<br>
+<br>
+§4. Vanaf het begrotingsjaar 2008 volgen de bedragen, vermeld in paragraaf 1 en paragraaf 2, de evolutie van de gezondheidsindex. Deze bedragen kunnen na een evaluatie om de 5 jaar worden aangepast aan de gewijzigde omstandigheden.<br>
+<br>
+Voor het begrotingjaar 2010 worden de bedragen vermeld in paragraaf 1 en paragraaf 2 niet aangepast aan de evolutie van de gezondheidsindex.<br>
+<br>
+§ 5. Naast de bedragen, vermeld in paragraaf 1 en 2, ontvangen vanaf het begrotingsjaar 2017 de volgende universiteiten de hierna vermelde bijkomende uitkering, uitgedrukt in euro, als bijdrage in het dekken van de kosten, vermeld in paragraaf 1 en 2:<br>
+a) Katholieke Universiteit Leuven 714.551,84<br>
+b) Vrije Universiteit Brussel 236.277,78<br>
+c) Universiteit Antwerpen 40.159,42<br>
+d) Universiteit Hasselt 9.010,96<br>
+<br>
+Vanaf het begrotingsjaar 2018 volgen deze bedragen de evolutie van de gezondheidsindex.</p>
 
-<p style="margin-right: 0cm; margin-left: 0cm;">§3. De bedragen vermeld in paragraaf 1 en paragraaf 2 ten bate van de HUB-KUBrussel worden op basis van een rapportering van de commissaris van de Vlaamse Regering en van de gemachtigde van Financiën over de evolutie van salariskosten van de betreffende personeelscategorieën, jaarlijks aangepast. De vrijgekomen bedragen worden toegevoegd aan het bedrag van een andere instelling bij overname door die andere instelling van de betrokken personeelsleden.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">§4. Vanaf het begrotingsjaar 2008 volgen de bedragen, vermeld in paragraaf 1 en paragraaf 2, de evolutie van de gezondheidsindex. Deze bedragen kunnen na een evaluatie om de 5 jaar worden aangepast aan de gewijzigde omstandigheden.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">Voor het begrotingjaar 2010 worden de bedragen vermeld in paragraaf 1 en paragraaf 2 niet aangepast aan de evolutie van de gezondheidsindex.</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Afdeling 9 Aanmoedigingsfonds voor beleidsspeerpunten
 
@@ -4280,7 +6127,11 @@ Het hogeschoolbestuur stelt een begroting op voor het volgende begrotingsjaar en
 
 ### ART. IV.43.
 
-<P style="MARGIN: 0cm 0cm 0pt">Het   beleidsplan over studentenvoorzieningen geeft voor een periode van 5 jaar aan   hoe de hogeschool of universiteit de doelstelling, vermeld in artikel II.337 zal   nastreven en op welke manier ze daarvoor de sociale toelage van de overheid en   andere roerende en onroerende middelen zal aanwenden.<?xml:namespace prefix = o   ns = "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het   beleidsplan wordt opgesteld conform de leidraad die de Vlaamse Regering ter   beschikking stelt.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het   beleidsplan wordt samen met de meerjarenbegroting ingediend bij de Vlaamse   Regering. Wijzigingen in het beleidsplan worden samen met de jaarlijkse   begroting ingediend. Het beleidsplan en de wijzigingen ervan treden in voege op   het moment van de schriftelijke betekening van de goedkeuring ervan door de   Vlaamse minister bevoegd voor het onderwijs.</P>
+<p>Het beleidsplan over studentenvoorzieningen geeft voor een periode van 5 jaar aan hoe de hogeschool of universiteit de doelstelling, vermeld in artikel II.337 zal nastreven en op welke manier ze daarvoor de sociale toelage van de overheid en andere roerende en onroerende middelen zal aanwenden.<br>
+<br>
+Het beleidsplan wordt opgesteld conform de leidraad die de Vlaamse Regering ter beschikking stelt.<br>
+<br>
+Het beleidsplan wordt samen met de meerjarenbegroting ingediend bij de Vlaamse Regering. Wijzigingen in het beleidsplan worden samen met de jaarlijkse begroting ingediend.</p>
 
 ### ART. IV.44.
 
@@ -4562,7 +6413,11 @@ Bij de universiteiten omvat het jaarverslag tevens een overzicht van het persone
 
 ### ART. IV.88.
 
-<P style="MARGIN: 0cm 0cm 0pt">De jaar- en   meerjarenbegroting van een School of Arts, vermeld in artikel II.375, tweede   lid, 1°, vormen een duidelijk herkenbaar onderdeel binnen de jaar- en   meerjarenbegroting van de instelling en worden opgesteld conform de bepalingen   die gelden voor de jaarbegroting en de meerjarenbegroting van de instelling.   <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het   jaarverslag, vermeld in artikel II.375, eerste lid, 6°, vormt een onderdeel van   het jaarverslag dat het instellingsbestuur moet indienen overeenkomstig artikel   IV.83. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het   financieel verslag, vermeld in artikel II.375, eerste lid, 6°, vormt een   duidelijk herkenbaar onderdeel van de jaarrekening die het instellingsbestuur   moet indienen overeenkomstig artikel IV.83, §1. Het wordt opgesteld krachtens de   regels die gelden voor de jaarrekening.</P>
+<p>Het jaarverslag, vermeld in artikel II.375, eerste lid, 6°, vormt een onderdeel van het jaarverslag dat het instellingsbestuur moet indienen overeenkomstig artikel IV.83.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 ### ART. IV.89.
 
