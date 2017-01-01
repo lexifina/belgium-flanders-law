@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029884,
+  "title": "Besluit van de Vlaamse Regering van 2018-10-05 houdende wijziging van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, wat betreft de erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap met GES+",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029884/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "d7613ec55155fe1ebaea5e39225cab0af0dac152f7ed756c942d118fa8867e5d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029884&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2018-10-05",
+  "gazette": "2018-11-07",
+  "numac": 2018014625,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
