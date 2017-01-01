@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026577,
+  "title": "Besluit van de Vlaamse Regering van 2016-02-26 houdende diverse wijzigingen van het besluit van de Vlaamse Regering van 22 oktober 2010 tot vaststelling van de aanvullende voorwaarden en de procedure voor de erkenning als sociale huisvestingsmaatschappij en tot vaststelling van de procedure voor de beoordeling van de prestaties van sociale huisvestingsmaatschappijen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026577/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "5ac8868db5678a72a3d880aaf03e57b5e9e59fa5b78aff9416c34baee24a81df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026577&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-02-26",
+  "gazette": "2016-03-25",
+  "numac": 2016035327,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
