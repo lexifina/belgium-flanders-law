@@ -2,16 +2,16 @@
   "codex_id": 1026163,
   "title": "Besluit van de Vlaamse Regering van 2015-10-23 betreffende de voorwaarden tot het verkrijgen van een derogatie aan de bemestingsnormen als vermeld in artikel 13 van het Mestdecreet van 22 december 2006",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026163/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "89bf295242808ca3ed5f47ee93146028899f53aafaa9bbf32c3e510518ad744e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026163/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "154e564c3314003045dedb0b5a15c1c6a4bbff527791b549f4b4fe070e4a002e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026163&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2017-01-01",
   "made": "2015-10-23",
   "gazette": "2015-12-03",
   "numac": 2015036477,
   "document_start": "2015-01-01",
   "document_end": "2016-12-31",
-  "in_force": "2015-01-01",
+  "in_force": "2017-01-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
