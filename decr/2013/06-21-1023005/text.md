@@ -10,7 +10,7 @@ Dit decreet regelt een gemeenschaps- en een   gewestaangelegenheid.<BR>
 
 ### ART. 2.
 
-Dit decreet voorziet in de omzetting van richtlijn 2011/16/EU van de Raad   van 15 februari 2011 betreffende de administratieve samenwerking op het gebied   van de belastingen en tot intrekking van richtlijn 77/799/EEG.<BR>
+Dit decreet voorziet in de omzetting van richtlijn 2011/16/EU van de Raad van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van de belastingen en tot intrekking van richtlijn 77/799/EEG, in de omzetting van richtlijn 2014/107/EU van de Raad van 9 december 2014 tot wijziging van richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied en van richtlijn (EU) 2015/2376 van de Raad van 8 december 2015 tot wijziging van richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied.
 
 ### ART. 3.
 
@@ -26,7 +26,36 @@ Dit decreet voorziet in de omzetting van richtlijn 2011/16/EU van de Raad   van 
 
 ### ART. 5.
 
-Voor de toepassing van dit artikel wordt verstaan onder :<BR>1° lidstaat :   tenzij uitdrukkelijk anders is vermeld, een andere lidstaat van de Europese Unie   dan België;<BR>2° bevoegde autoriteit : de door België als zodanig aangewezen   autoriteit. Het centraal verbindingsbureau, de Vlaamse verbindingsdiensten en de   Vlaamse bevoegde personeelsleden worden eveneens als bevoegde autoriteit bij   delegatie beschouwd;<BR>3° centraal verbindingsbureau : het bureau dat als   zodanig is aangewezen en belast is met de primaire zorg voor de contacten met de   andere lidstaten op het gebied van de administratieve samenwerking;<BR>4°   verbindingsdienst : elk ander bureau dan het centraal verbindingsbureau dat als   zodanig is aangewezen om op grond van dit decreet rechtstreeks inlichtingen uit   te wisselen;<BR>5° bevoegd personeelslid : elk personeelslid van een   overheidsinstantie dat op grond van dit decreet gemachtigd is om rechtstreeks   inlichtingen uit te wisselen. De personeelsleden die bij de administratieve   samenwerking in de zin van dit decreet zijn betrokken, worden in elk geval   geacht daartoe overeenkomstig de door de bevoegde autoriteiten vastgestelde   regelingen bevoegd te zijn;<BR>6° buitenlandse autoriteit : het   centraalverbindingsbureau, de verbindingsdiensten of de bevoegde personeelsleden   die door een buitenlandse bevoegde autoriteit gemachtigd zijn om over te gaan   tot de rechtstreekse uitwisseling van inlichtingen met de bevoegde autoriteit of   andere vormen van administratieve samenwerking in de zin van dit decreet;<BR>7°   verzoekende autoriteit : het centraal verbindingsbureau, een verbindingsdienst   of elk bevoegd personeelslid van een lidstaat dat of die namens een bevoegde   autoriteit om bijstand verzoekt;<BR>8° aangezochte autoriteit : het centraal   verbindingsbureau, een verbindingsdienst of elk bevoegd personeelslid van een   lidstaat dat of die namens een bevoegde autoriteit om bijstand wordt   verzocht;<BR>9° administratief onderzoek : alle door de Vlaamse overheid of de   lidstaten bij het vervullen van hun taken verrichte controles, onderzoeken en   acties ter waarborging van de juiste toepassing van de   belastingwetgeving;<BR>10° uitwisseling van inlichtingen op verzoek : de   uitwisseling van inlichtingen in antwoord op een verzoek van de verzoekende   autoriteit aan de aangezochte autoriteit met betrekking tot een specifiek   geval;<BR>11° automatische uitwisseling : de systematische verstrekking van   vooraf bepaalde inlichtingen over ingezetenen van andere lidstaten aan de   betrokken lidstaat van verblijf, zonder voorafgaand verzoek, met regelmatige,   vooraf vastgestelde tussenpozen. In de context van artikel 11 betekent   'beschikbare inlichtingen' inlichting die zich in de belastingdossiers van de   inlichtingenverstrekkende lidstaat bevinden en die opvraagbaar zijn   overeenkomstig de procedures voor het verzamelen en verwerken van inlichtingen   in die lidstaat;<BR>12° spontane uitwisseling : het niet-systematisch, te eniger   tijd en ongevraagd verstrekken van inlichtingen aan een lidstaat;<BR>13° langs   elektronische weg : door middel van elektronische apparatuur voor   gegevensverwerking - met inbegrip van digitale compressie - en gegevensopslag,   met gebruikmaking van kabels, radio, optische technologie of andere   elektromagnetische middelen;<BR>14° persoon :<BR>a) een natuurlijk   persoon;<BR>b) een rechtspersoon;<BR>c) een vereniging van personen die bevoegd   is rechtshandelingen te verrichten, maar niet de status van rechtspersoon   bezit;<BR>d) een andere juridische constructie, ongeacht de aard of de vorm, met   of zonder rechtspersoonlijkheid, die activa, met inbegrip van de daardoor   gegenereerde inkomsten, bezit of beheert die aan belastingen in de zin van dit   decreet zijn onderworpen.<BR>
+In dit decreet wordt verstaan onder :<br>
+1° lidstaat : tenzij uitdrukkelijk anders is vermeld, een andere lidstaat van de Europese Unie dan België;<br>
+2° bevoegde autoriteit : de door België als zodanig aangewezen autoriteit. Het centraal verbindingsbureau, de Vlaamse verbindingsdiensten en de Vlaamse bevoegde personeelsleden worden eveneens als bevoegde autoriteit bij delegatie beschouwd;<br>
+3° centraal verbindingsbureau : het bureau dat als zodanig is aangewezen en belast is met de primaire zorg voor de contacten met de andere lidstaten op het gebied van de administratieve samenwerking;<br>
+4° verbindingsdienst : elk ander bureau dan het centraal verbindingsbureau dat als zodanig is aangewezen om op grond van dit decreet rechtstreeks inlichtingen uit te wisselen;<br>
+5° bevoegd personeelslid : elk personeelslid van een overheidsinstantie dat op grond van dit decreet gemachtigd is om rechtstreeks inlichtingen uit te wisselen. De personeelsleden die bij de administratieve samenwerking in de zin van dit decreet zijn betrokken, worden in elk geval geacht daartoe overeenkomstig de door de bevoegde autoriteiten vastgestelde regelingen bevoegd te zijn;<br>
+6° buitenlandse autoriteit : het centraalverbindingsbureau, de verbindingsdiensten of de bevoegde personeelsleden die door een buitenlandse bevoegde autoriteit gemachtigd zijn om over te gaan tot de rechtstreekse uitwisseling van inlichtingen met de bevoegde autoriteit of andere vormen van administratieve samenwerking in de zin van dit decreet;<br>
+7° verzoekende autoriteit : het centraal verbindingsbureau, een verbindingsdienst of elk bevoegd personeelslid van een lidstaat dat of die namens een bevoegde autoriteit om bijstand verzoekt;<br>
+8° aangezochte autoriteit : het centraal verbindingsbureau, een verbindingsdienst of elk bevoegd personeelslid van een lidstaat dat of die namens een bevoegde autoriteit om bijstand wordt verzocht;<br>
+9° administratief onderzoek : alle door de Vlaamse overheid of de lidstaten bij het vervullen van hun taken verrichte controles, onderzoeken en acties ter waarborging van de juiste toepassing van de belastingwetgeving;<br>
+10° uitwisseling van inlichtingen op verzoek : de uitwisseling van inlichtingen in antwoord op een verzoek van de verzoekende autoriteit aan de aangezochte autoriteit met betrekking tot een specifiek geval;<br>
+11° automatische uitwisseling : de systematische verstrekking van vooraf bepaalde inlichtingen aan een lidstaat, zonder voorafgaand verzoek, met regelmatige, vooraf vastgestelde tussenpozen. In de context van artikel 11 betekent 'beschikbare inlichtingen' inlichting die zich in de belastingdossiers van de inlichtingenverstrekkende lidstaat bevinden en die opvraagbaar zijn overeenkomstig de procedures voor het verzamelen en verwerken van inlichtingen in die lidstaat;<br>
+12° spontane uitwisseling : het niet-systematisch, te eniger tijd en ongevraagd verstrekken van inlichtingen aan een lidstaat;<br>
+13° langs elektronische weg : door middel van elektronische apparatuur voor gegevensverwerking - met inbegrip van digitale compressie - en gegevensopslag, met gebruikmaking van kabels, radio, optische technologie of andere elektromagnetische middelen;<br>
+14° persoon :<br>
+a) een natuurlijk persoon;<br>
+b) een rechtspersoon;<br>
+c) een vereniging van personen die bevoegd is rechtshandelingen te verrichten, maar niet de status van rechtspersoon bezit;<br>
+d) een andere juridische constructie, ongeacht de aard of de vorm, met of zonder rechtspersoonlijkheid, die activa, met inbegrip van de daardoor gegenereerde inkomsten, bezit of beheert die aan belastingen in de zin van dit decreet zijn onderworpen.<br>
+15° voorafgaande grensoverschrijdende ruling: een akkoord, een mededeling dan wel een ander instrument of een andere handeling met soortgelijk effect, ook als ze worden afgegeven, gewijzigd of hernieuwd, in het kader van een belastingcontrole, die aan elk van de volgende voorwaarden voldoen:<br>
+a) ze zijn afgegeven, gewijzigd of hernieuwd door of namens de regering of een bevoegd personeelslid of de belastingautoriteit van een lidstaat, of een territoriaal of staatkundig onderdeel van die lidstaat, met inbegrip van de lokale overheden, ongeacht of er effectief gebruik van wordt gemaakt;<br>
+b) ze zijn afgegeven, gewijzigd of hernieuwd ten aanzien van een welbepaalde persoon of groep van personen, en die personen kunnen zich erop beroepen;<br>
+c) ze hebben betrekking op de interpretatie of toepassing van een wettelijke of bestuursrechtelijke bepaling ter toepassing of handhaving van de belastingwetgeving voor de belastingen, vermeld in artikel 4, eerste lid, 1° ;<br>
+d) ze hebben betrekking op een grensoverschrijdende transactie of op de vraag of er op grond van de activiteiten van een persoon in een lidstaat al dan niet sprake is van een vaste inrichting;<br>
+e) ze zijn tot stand gekomen voorafgaand aan de transacties of activiteiten in een lidstaat op grond waarvan mogelijk sprake is van een vaste inrichting, of voorafgaand aan de indiening van een belastingaangifte voor het tijdvak waarin de transactie of reeks transacties dan wel de activiteiten hebben plaatsgevonden;<br>
+16° grensoverschrijdende transactie: een transactie of een reeks van transacties die betrekking kan hebben op, maar niet beperkt is tot het doen van investeringen, het leveren van goederen, het verrichten van diensten, het financieren of het gebruiken van materiële of immateriële activa, waarbij de persoon die de voorafgaande grensoverschrijdende ruling heeft gekregen, niet rechtstreeks betrokken hoeft te zijn, en die voldoet aan een of meer van de volgende voorwaarden:<br>
+a) niet alle partijen bij de transactie of reeks van transacties hebben hun fiscale woonplaats in de lidstaat die de voorafgaande grensoverschrijdende ruling afgeeft, wijzigt of hernieuwt;<br>
+b) een of meer van de partijen bij de transactie of reeks van transacties hebben hun fiscale woonplaats tegelijkertijd in een of meer lidstaten, waaronder ook België;<br>
+c) een van de partijen bij de transactie of reeks van transacties oefent haar bedrijf uit in een lidstaat via een vaste inrichting en de transactie of reeks van transacties maakt alle of een deel van de activiteiten van de vaste inrichting uit. Een grensoverschrijdende transactie of reeks van transacties omvat ook de regelingen die worden getroffen door een persoon ten aanzien van de bedrijfsactiviteiten die hij in een lidstaat via een vaste inrichting uitoefent;<br>
+d) de transactie of reeks van transacties heeft een grensoverschrijdend effect.
 
 ## [Afdeling 3/1 Wezenskenmerken van een grensoverschrijdende constructie (ing. decr. 26 juni 2020, art. 6, I: 1 juli 2020)]
 
@@ -69,6 +98,45 @@ De verbindingsdienst of het bevoegde personeelslid die of dat een verzoek   om s
 ### ART. 11.
 
 <P>Met betrekking tot belastbare tijdperken vanaf 1 januari 2014 verstrekt de   bevoegde autoriteit alle buitenlandse autoriteiten automatisch de inlichtingen   waarover zij ten aanzien van de ingezetenen van die andere lidstaat beschikt   inzake de volgende specifieke inkomsten- en vermogenscategorieën, op te vatten   in de zin van de Belgische wetgeving :<BR>a) bezoldigingen van werknemers;<BR>b)   bezoldigingen van bedrijfsleiders;<BR>c) levensverzekeringsproducten die niet   vallen onder andere uniale rechtsinstrumenten inzake de uitwisseling van   inlichtingen noch onder soortgelijke voorschriften;<BR>d) pensioenen;<BR>e)   eigendom en inkomen van onroerende goederen.<BR></P>  <P>De inlichtingen worden ten minste eenmaal per jaar verstrekt, binnen zes   maanden na het verstrijken van het kalenderjaar in de loop waarvan de   inlichtingen beschikbaar zijn geworden.<BR></P>
+
+### ART 11/1.
+
+§ 1. De bevoegde autoriteit die na 31 december 2016 een voorafgaande grensoverschrijdende ruling afgeeft of maakt, wijzigt of hernieuwt, verstrekt de bevoegde autoriteiten van alle andere lidstaten en de Europese Commissie automatisch inlichtingen daarover, met behoud van de toepassing van de beperkingen, vermeld in paragraaf 6, en conform artikel 28 en 29.<br>
+<br>
+§ 2. De bevoegde autoriteit verstrekt ook conform artikel 28 en 29 de buitenlandse autoriteiten van alle lidstaten, alsook de Europese Commissie, de inlichtingen over voorafgaande grensoverschrijdende rulings die zijn afgegeven of gemaakt, gewijzigd of hernieuwd binnen een periode van vijf jaar vóór 1 januari 2017, met uitzondering van de inlichtingen, vermeld in paragraaf 5, 1° en 2°.<br>
+<br>
+Als voorafgaande grensoverschrijdende rulings zijn afgegeven of gemaakt, gewijzigd of hernieuwd tussen 1 januari 2012 en 31 december 2013, worden de inlichtingen verstrekt op voorwaarde dat de voorafgaande grensoverschrijdende rulings nog geldig waren op 1 januari 2014.<br>
+<br>
+Als voorafgaande grensoverschrijdende rulings zijn afgegeven of gemaakt, gewijzigd of hernieuwd tussen 1 januari 2014 en 31 december 2016, worden de inlichtingen verstrekt ongeacht of de voorafgaande grensoverschrijdende rulings nog geldig zijn.<br>
+<br>
+In afwijking van het eerste tot en met het derde lid is de bevoegde autoriteit niet verplicht om inlichtingen uit te wisselen als het een voorafgaande grensoverschrijdende ruling betreft die cumulatief aan de volgende voorwaarden voldoet:<br>
+1° hij is vóór 1 april 2016 afgegeven of gemaakt, gewijzigd of hernieuwd;<br>
+2° hij is gericht tot een bepaalde persoon of groep van personen, met een jaarlijkse netto-omzet als vermeld in artikel 2, punt 5, van richtlijn 2013/34/EU van het Europees Parlement en de Raad, van minder dan 40.000.000 euro in het boekjaar dat voorafgaat aan de datum waarop de grensoverschrijdende ruling is afgegeven of gemaakt, gewijzigd of hernieuwd;<br>
+3° hij is niet gericht tot een bepaalde persoon of groep personen die hoofdzakelijk financiële of investeringsactiviteiten verricht.<br>
+<br>
+§ 3. Paragraaf 1 en 2 zijn niet van toepassing als een voorafgaande grensoverschrijdende ruling uitsluitend betrekking heeft op de belastingzaken van een of meer natuurlijke personen.<br>
+<br>
+§ 4. De inlichtingen, vermeld in paragraaf 1 en 2, worden door de bevoegde autoriteit verstrekt binnen de volgende termijnen:<br>
+1° voor de inlichtingen die conform paragraaf 1 zijn uitgewisseld: binnen drie maanden na het einde van het eerste halfjaar van het kalenderjaar waarin de voorafgaande grensoverschrijdende rulings zijn afgegeven of gemaakt, gewijzigd of hernieuwd;<br>
+2° voor de inlichtingen die conform paragraaf 2 zijn uitgewisseld: vóór 1 januari 2018.<br>
+<br>
+§ 5. De inlichtingen die conform paragraaf 1 en 2 door de bevoegde autoriteit worden verstrekt, omvatten onder meer de volgende gegevens:<br>
+1° de identificatiegegevens van de andere persoon dan een natuurlijke persoon en, in voorkomend geval, van de groep personen waartoe die persoon behoort;<br>
+2° een samenvatting van de inhoud van de voorafgaande grensoverschrijdende ruling, met onder meer een omschrijving van de relevante zakelijke activiteiten of transacties of reeks van transacties, in algemene bewoordingen gesteld, die niet mag leiden tot de openbaarmaking van een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze, of van inlichtingen die in strijd zouden zijn met de openbare orde;<br>
+3° de data waarop de voorafgaande grensoverschrijdende ruling is afgegeven of gemaakt, gewijzigd of hernieuwd;<br>
+4° de aanvangsdatum van de geldigheidsperiode van de voorafgaande grensoverschrijdende ruling, als die vermeld is;<br>
+5° de einddatum van de geldigheidsperiode van de voorafgaande grensoverschrijdende ruling, als die vermeld is;<br>
+6° het type voorafgaande grensoverschrijdende ruling;<br>
+7° het bedrag van de transactie of reeks van transacties van de voorafgaande grensoverschrijdende ruling, als die vermeld is in de voorafgaande grensoverschrijdende ruling;<br>
+8° de andere lidstaten, als die er zijn, waarop de voorafgaande grensoverschrijdende ruling naar alle waarschijnlijkheid van invloed zal zijn;<br>
+9° andere personen dan natuurlijke personen in de andere lidstaten, als die er zijn, op wie de voorafgaande grensoverschrijdende ruling naar alle waarschijnlijkheid van invloed zal zijn, waarbij vermeld wordt met welke lidstaten de personen in kwestie verbonden zijn;<br>
+10° de vermelding of de meegedeelde inlichtingen gebaseerd zijn op de voorafgaande grensoverschrijdende ruling.<br>
+<br>
+§ 6. De inlichtingen, vermeld in paragraaf 5, 1°, 2° en 9°, worden niet meegedeeld aan de Europese Commissie.<br>
+<br>
+§ 7. De Vlaamse Regering bepaalt de regels voor het kenbaar maken van de ontvangst van de inlichtingen door de bevoegde autoriteit.<br>
+<br>
+§ 8. Het bevoegde personeelslid kan conform artikel 8, eerste lid, met behoud van de toepassing van artikel 29, om aanvullende inlichtingen verzoeken, met inbegrip van de volledige tekst van een voorafgaande grensoverschrijdende ruling.
 
 ## [Onderafdeling 2 Verplichte automatische uitwisseling van inlichtingen over meldingsplichtige grensoverschrijdende constructies voor intermediairs of relevante belastingplichtigen (ing. decr. 26 juni 2020, art. 10, I: 1 juli 2020)]
 
@@ -158,15 +226,17 @@ Indien de Vlaamse overheid voorziet in een samenwerking met een derde land   die
 
 ### ART. 27.
 
-<P>§ 1. Het verzoek om inlichtingen of om een administratief onderzoek in te   stellen met toepassing van artikel 8, het desbetreffende antwoord, de   ontvangstbevestiging, het verzoek om aanvullende achtergrondinformatie en de   mededeling dat aan het verzoek niet kan of zal worden voldaan, vermeld in   artikel 9 en 10, worden voor zover mogelijk verzonden met gebruikmaking van het   door de Commissie vastgestelde standaardformulier.<BR></P>  <P>Het standaardformulier kan vergezeld gaan van verslagen, verklaringen en   andere bescheiden of van voor eensluidend gewaarmerkte afschriften of   uittreksels daarvan.<BR></P>  <P>§ 2. Het standaardformulier, vermeld in paragraaf 1, bevat ten minste de   volgende door de verzoekende autoriteit te verstrekken informatie :<BR>1° de   identiteit van de persoon naar wie het onderzoek of de controle is   ingesteld;<BR>2° het fiscale doel waarvoor de informatie wordt   opgevraagd.<BR></P>  <P>De bevoegde autoriteit kan namen en adressen doorgeven van personen die   worden verondersteld in het bezit te zijn van de verlangde informatie, alsook   andere elementen die het verzamelen van de informatie door de aangezochte   autoriteit vereenvoudigen,voor zover deze bekend zijn en deze praktijk aansluit   bij internationale ontwikkelingen.<BR></P>  <P>§ 3. Voor de spontane uitwisseling van inlichtingen en de desbetreffende   ontvangstbevestiging, met toepassing van artikel 12 en 13, het verzoek tot   administratieve kennisgeving, vermeld in artikel 17 en de terugmelding,vermeld   in artikel 19, wordt eveneens gebruikgemaakt van het standaardformulier, vermeld   in paragraaf 1.<BR></P>  <P>§ 4. Bij de automatische inlichtingenuitwisseling, vermeld in artikel 11,   wordt gebruikgemaakt van het door de Commissie vastgestelde geautomatiseerde   standaardformaat, dat de automatische uitwisseling van inlichtingen moet   vergemakkelijken, en gebaseerd is op het bestaande geautomatiseerde formaat bij   toepassing van artikel 9 van Richtlijn 2003/48/ EG van de Raad van 3 juni 2003   betreffende belastingheffing op inkomsten uit spaargelden in de vorm van   rentebetaling, dat bij elke vorm van automatische inlichtingenuitwisseling moet   worden gebruikt.<BR></P>
+Als dat mogelijk is, gebruikt het bevoegde personeelslid het toepasselijke standaardformulier, vastgesteld door de Commissie, of het geautomatiseerde formaat. De Vlaamse Regering bepaalt naargelang het geval welk formulier of geautomatiseerde formaat gebruikt moet worden en welke informatie vermeld kan of moet worden.<br>
+<br>
+Het standaardformulier of het geautomatiseerde formaat kan vergezeld gaan van verslagen, verklaringen en andere bescheiden of van voor eensluidend gewaarmerkte afschriften of uittreksels daarvan.
 
 ### ART. 28.
 
-&nbsp;De krachtens dit decreet verstrekte inlichtingen worden voor zover   mogelijk verzonden langs elektronische weg, via het CCN-netwerk. Het CCN-netwerk   is het op het gemeenschappelijke communicatienetwerk gebaseerde   gemeenschappelijke platform dat de Europese Unie heeft ontwikkeld voor het   elektronische berichtenverkeer tussen autoriteiten die bevoegd zijn op het   gebied van douane en belastingen.<BR>
+De te verstrekken inlichtingen worden, als dat mogelijk is, op elektronische wijze verstrekt. De Vlaamse Regering bepaalt de nadere modaliteiten.
 
 ### ART. 28/1.
 
-Als de uitwisseling van de gegevens, vermeld in dit decreet, afbreuk kan   doen aan de bescherming van de persoonsgegevens of persoonlijke levenssfeer,   brengt de bevoegde autoriteit de individueel te rapporteren persoon op de hoogte   van de schending van de beveiliging van zijn gegevens.
+Als de uitwisseling van de gegevens, vermeld in dit decreet, afbreuk kan doen aan de bescherming van de persoonsgegevens of persoonlijke levenssfeer, dan rapporteert de bevoegde autoriteit dit overeenkomstig artikel 33 en 34 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG.
 
 ## Afdeling 5 Taal van het verzoek
 
