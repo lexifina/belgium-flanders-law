@@ -6,7 +6,17 @@ Dit decreet regelt een aangelegenheid bedoeld in artikel 39 van de Grondwet.
 
 ### ART. 2.
 
-De Vlaamse regering stelt de ambtenaren van de Vlaamse Belastingdienst aan en belast hen met het invorderen van onbetwiste en opeisbare niet-fiscale schuldvorderingen in de door haar aan te duiden gewestelijke aangelegenheden.<br /><br />De in het eerste lid bedoelde ambtenaren kunnen ook, in naam en voor rekening van een openbare instelling die afhangt van het Vlaamse Gewest, de bedoelde niet-fiscale schuldvorderingen invorderen op verzoek van deze instelling en met akkoord van de Vlaamse regering.<br /><br />De met invordering belaste ambtenaren zijn gemachtigd om een dwangbevel uit te vaardigen.<br /><br />Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de daartoe door de Vlaamse regering aangewezen ambtenaar van de Vlaamse Belastingdienst en wordt betekend bij exploot van een gerechtsdeurwaarder.
+De Vlaamse regering stelt de ambtenaren van de Vlaamse Belastingdienst aan en belast hen met het invorderen van onbetwiste en opeisbare niet-fiscale schuldvorderingen in de door haar aan te duiden gewestelijke aangelegenheden.<br>
+<br>
+De in het eerste lid bedoelde ambtenaren kunnen ook, in naam en voor rekening van een openbare instelling die afhangt van het Vlaamse Gewest, de bedoelde niet-fiscale schuldvorderingen invorderen op verzoek van deze instelling en met akkoord van de Vlaamse regering.<br>
+<br>
+De met invordering belaste ambtenaren zijn gemachtigd om een dwangbevel uit te vaardigen.<br>
+<br>
+Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de daartoe door de Vlaamse regering aangewezen ambtenaar van de Vlaamse Belastingdienst en wordt betekend bij exploot van een gerechtsdeurwaarder.<br>
+<br>
+De Vlaamse Regering kan:<br>
+1° de wijze regelen van de onrechtstreekse vervolging en van de bijhorende onderzoeksbevoegdheden;<br>
+2° de regels in verband met de vervolgingskosten bepalen.
 
 ### ART. 3.
 

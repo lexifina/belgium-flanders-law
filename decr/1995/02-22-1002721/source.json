@@ -2,16 +2,16 @@
   "codex_id": 1002721,
   "title": "Decreet van 1995-02-22 tot regeling van de invordering van niet-fiscale schuldvorderingen voor het Vlaamse Gewest en de instellingen die eronder ressorteren",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002721/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "c7ace781de2afa447d2f47aaf61a453b42f10b0109bd0ed849fd2de96ad20fb3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002721/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "5b0952f16a4267c7a705bd1c5f4085b0f5600aa9676cf7459aae2672deef81c5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002721&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2017-01-01",
   "made": "1995-02-22",
   "gazette": "1995-05-31",
   "numac": 1995035611,
   "document_start": "1995-05-31",
   "document_end": "2024-12-08",
-  "in_force": "2006-07-01",
+  "in_force": "2017-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
