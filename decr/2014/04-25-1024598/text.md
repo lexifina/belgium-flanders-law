@@ -1172,37 +1172,37 @@ Dit hoofdstuk treedt in werking op 1 september 2014.<BR   style="WHITE-SPACE: no
 
 ### ART. X.1.
 
-De   Vlaamse Regering kan jaarlijks subsidies verlenen voor projecten die   cultuureducatie in het onderwijs stimuleren. De subsidies kunnen worden   toegekend aan scholen, centra, internaten en instellingen van het   basisonderwijs, het secundair onderwijs, de leertijd, het deeltijds   kunstonderwijs, de centra voor volwassenenonderwijs, de centra voor deeltijds   onderwijs, de centra voor basiseducatie en het hoger onderwijs. De Vlaamse   Regering verleent een maximale subsidie van vijfduizend euro per project   cultuureducatie en per jaar. De Vlaamse Regering kan meerdere projecten van   dezelfde begunstigde voor dezelfde vestigingsplaats goedkeuren, op voorwaarde   dat het totale subsidiebedrag dat gedurende het begrotingsjaar aan de   begunstigde per vestigingsplaats toegekend wordt niet hoger is dan vijfduizend   euro. Om in aanmerking te komen voor subsidiëring voor een project   cultuureducatie, moet het project in ieder geval:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   opgestart en beëindigd worden binnen de door de Vlaamse Regering te bepalen   periode, zonder dat deze periode langer dan vijf maanden mag bedragen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de ontplooiingskansen van de leerling vergroten;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   een meerwaarde betekenen voor de cultuurvisie van de school;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   op maat zijn van de school;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   opgezet zijn met de kwalitatieve inbreng van en samenwerking met een externe   partner.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   Vlaamse Regering bepaalt de nadere voorwaarden waaronder de subsidies toegekend   kunnen worden, de wijze van selectie en de evaluatie van de   projecten.
+...
 
 ## Afdeling II. Personeelsleden tewerkgesteld in de voor- en nabewaking in de Nederlandstalige basisscholen van het gemeenschapsonderwijs in tweetalige gebied Brussel-Hoofdstad
 
 ### ART. X.2.
 
-In   de Nederlandstalige basisscholen van het gemeenschapsonderwijs in het tweetalige   gebied Brussel-Hoofdstad kunnen personeelsleden worden tewerkgesteld als   opvoeder voor- en nabewaking. Deze personeelsleden worden aangesteld bij en door   de scholengroep van het gemeenschapsonderwijs die bevoegd is voor voormelde   scholen. De personeelsleden worden aangeworven als contractuele personeelsleden   op wie de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van   toepassing is.
+...
 
 ### ART. X.3.
 
-De Vlaamse Gemeenschap kent jaarlijks aan de in artikel X.2   vermelde scholengroep maximaal 27 voltijdse betrekkingen toe van opvoeder voor-   en nabewaking. De Vlaamse Regering is gemachtigd het aantal voltijdse   betrekkingen te wijzigen.
+...
 
 ### ART. X.4.
 
-De prestatieregeling van de personeelsleden vermeld in   artikel X.2 bedraagt 36 uren per week voor een voltijdse   betrekking.
+...
 
 ### ART. X.5.
 
-De personeelsleden vermeld in artikel X.2 kunnen vervangen   worden onder dezelfde voorwaarden als deze vastgelegd voor de personeelsleden   van het onderwijs. De vervangers worden eveneens aangeworven als contractuele   personeelsleden op wie de wet van 3 juli 1978 van toepassing   is.
+...
 
 ### ART. X.6.
 
-§   1. Het Ministerie van Onderwijs en Vorming betaalt rechtstreeks het salaris uit   aan de personeelsleden vermeld in artikel X.2. Aan de personeelsleden worden de   volgende salarisschalen toegekend:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">-   salarisschaal 143 voor de houders van een bekwaamheidsbewijs van ten minste   hoger secundair onderwijs zoals vermeld in het besluit van de Vlaamse Regering   van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de weddenschalen het   prestatiestelsel en de bezoldigingsregeling in het secundair   onderwijs;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">-   salarisschaal 158 voor de houders van een bekwaamheidsbewijs van ten minste   bachelor zoals vermeld in het besluit van de Vlaamse Regering van 14 juni 1989   betreffende de bekwaamheidsbewijzen, de weddenschalen het prestatiestelsel en de   bezoldigingsregeling in het secundair onderwijs.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   personeelsleden die sinds 1 januari 1997 ononderbroken aangesteld geweest zijn   op basis van een diploma van ten minste lager secundair onderwijs en de   salarisschaal 143 toegekend kregen, behouden die salarisschaal.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">§   2. De Vlaamse Regering is gemachtigd om de voormelde salarisschalen te vervangen   of te wijzigen.
+...
 
 ### ART. X.7.
 
-De Vlaamse Regering is gemachtigd de vakantieregeling voor de   personeelsleden vermeld in artikel X.2 vast te leggen. In afwachting blijft de   huidige regeling van kracht.
+...
 
 ### ART. X.8.
 
-In hoofde van de personeelsleden aangesteld als opvoeder   voor- en nabewaking in de Nederlandstalige basisscholen van het   gemeenschapsonderwijs in het tweetalige gebied Brussel-Hoofdstad, wordt de   geldelijke en administratieve toestand gedurende hun periode van tewerkstelling   tot en met 31 december 2013 als definitief verworven beschouwd. Uit deze periode   kunnen geen gevolgen voortvloeien voor de personeelsleden en schoolbesturen met   betrekking tot bezoldiging.
+...
 
 ## Afdeling III. Schenking meubilair aan de onderwijsnetten
 
