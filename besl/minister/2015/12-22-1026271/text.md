@@ -10,13 +10,13 @@ De   Vlaamse minister van Omgeving, Natuur en Landbouw,<BR   style="WIDOWS: 1; T
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   bevoegde entiteit: het departement Landbouw en Visserij van het Vlaams   Ministerie van Landbouw en Visserij;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de minimis: hoeveelheden ondermaatse vis van soorten die onder de   aanlandingsplicht vallen en die mogen overboord gezet worden ten belope van een   maximale hoeveelheid uitgedrukt in percentage van de totale vangsten door de   nationale vloot van die soort en in dat gebied;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   ICES-gebieden: de beschrijving van gebieden en sectoren, vermeld in bijlage II   van verordening (EEG) nr. 3880/91 van de Raad van 17 december 1991 inzake de   verstrekking van statistieken van de nominale vangsten van Lid-Staten die in het   noordwestelijke gedeelte van de Atlantische Oceaan vissen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   inspanningsgroep: inspanningsgroep als vermeld in bijlage I van verordening (EG)   nr. 1342/2008 van de Raad van 18 december 2008 tot vaststelling van een   langetermijnplan voor kabeljauwbestanden en de bevissing van deze bestanden, en   tot intrekking van verordening (EG) nr. 423/2004;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   kabeljauwherstelgebieden: de ICES-gebieden IIa, IIIa, IVa, IVb, IVc, VIa, VIIa   en VIId;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   KVS: klein vlootsegment, waaronder de vissersvaartuigen met een motorvermogen   van 221 kW of minder ressorteren;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   motorvermogen: het vermogen zoals bepaald in de Officiële lijst der Belgische   vissersvaartuigen eventueel verhoogd met het bijkomend motorvermogen, vermeld op   de visvergunning;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">8°   teruggooiplan Noordzee: teruggooiplan zoals bepaald bij gedelegeerde verordening   (EU) van de Commissie van 22 oktober 2015 tot vaststelling van een teruggooiplan   voor bepaalde demersale visserijen in de Noordzee en de wateren van de Unie van   ICES-sector IIa;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">9°   teruggooiplan noordwestelijke wateren: teruggooiplan zoals bepaald bij   gedelegeerde verordening (EU) van de Commissie van 12 oktober 2015 tot   vaststelling van een teruggooiplan voor bepaalde demersale visserijen in de   noordwestelijke wateren;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">10°   teruggooiplan zuidwestelijke wateren: teruggooiplan zoals bepaald bij   gedelegeerde verordening (EU) van de Commissie van 12 oktober 2015 tot   vaststelling van een teruggooiplan voor bepaalde demersale visserijen in de   zuidwestelijke wateren;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">11°   vaartdag: de aanwezigheid op zee van ten minste vier uur in de loop van een dag.   Het uitvaren van een visserschip voor een duur die 24 uur niet overschrijdt,   wordt als één vaartdag beschouwd. Het uitvaren van een vissersschip voor een   duur die 24 uur of een veelvoud van 24 uur overschrijdt, levert telkens een   nieuwe vaartdag op;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">12°   verordening (EU) nr. 2015/104: verordening (EU) nr. 2015/104 van de Raad 19   januari 2015 tot vaststelling, voor 2015, van de vangstmogelijkheden voor   sommige visbestanden en groepen visbestanden welke in de wateren van de Unie en,   voor vaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing   zijn;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">13°   vismachtiging: het visdocument, vermeld in artikel 7 van verordening (EG) nr.   1224/2009 van de Raad van 20 november 2009 tot vaststelling van een   communautaire controleregeling die de naleving van de regels van het   gemeenschappelijk visserijbeleid moet garanderen, tot wijziging van   Verordeningen (EG) nr. 847/96, (EG) nr. 2371/2002, (EG) nr. 811/2004, (EG) nr.   768/2005, (EG) nr. 2115/2005, (EG) nr. 2166/2005, (EG) nr. 388/2006, (EG) nr.   509/2007, (EG) nr. 676/2007, (EG) nr. 1098/2007, (EG) nr. 1300/2008, (EG) nr.   1342/2008 en tot intrekking van Verordeningen (EEG) nr. 2847/93, (EG) nr.   1627/94 en (EG) nr. 1966/2006;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">14°   vissersvaartuig: elk vaartuig dat uitgerust is voor de commerciële exploitatie   van visbestanden en vermeld is in de Officiële lijst der Belgische   vissersvaartuigen 2016;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">15°   zeedag: een aaneengesloten periode van aanwezigheid en buitengaatsheid op zee   van maximaal 24 uur;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">16°   zeedag in de kabeljauwherstelgebieden: een dag aanwezigheid en buitengaatsheid   in het gebied volgens bijlage IIa van verordening (EU) nr. 2015/104, meer   bepaald een doorlopende periode van 24 uur als vermeld in het EG-logboek waarin   een vaartuig buitengaats is en aanwezig in de kabeljauwherstelgebieden of   tijdens een gedeelte van die periode;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">17°   zeedag in het tongherstelgebied: een dag aanwezigheid en buitengaatsheid in het   gebied volgens bijlage IIc van verordening (EU) nr. 2015/104, meer bepaald een   doorlopende periode van 24 uur als vermeld in het EG-logboek waarin een vaartuig   buitengaats en aanwezig is in het ICES-gebied VIIe, of tijdens een gedeelte van   die periode.
+...
 
 ## HOOFDSTUK 2. Algemene bepalingen en visverboden
 
 ### ART. 2.
 
-<P>De hoeveelheid vis van de soorten waarvoor aanvullende vangstbeperkingen   gelden en die toegewezen zijn aan een vissersvaartuig, zijn niet overdraagbaar   aan een ander vissersvaartuig.</P>  <P><BR>De hoeveelheid vis uitgedrukt in kg is het productgewicht na lossing en   sortering van de vangsten.</P>
+...
 
 ### ART. 3.
 
@@ -24,27 +24,27 @@ In   dit besluit wordt verstaan onder:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: no
 
 ### ART. 4.
 
-Aan de vissersvaartuigen van de Scheldevissersvloot die   alleen binnengaats mogen vissen, worden geen hoeveelheden vis van die soorten   waarvoor nationaal aanvullende vangstbeperkingen in de ICES-gebieden II, IV,   zijnde Noordzee en Schelde-estuarium worden vastgelegd, toegekend. Voor alle   andere vissersvaartuigen, met uitzondering van de vissersvaartuigen van de   Scheldevissersvloot die de toelating hebben om in het Schelde-estuarium te   vissen, is het verboden binnengaats te vissen op de   Westerschelde.
+...
 
 ### ART. 5.
 
-In   de periode van 1 januari 2016 tot en met 31 december 2016 is het   verboden:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   te vissen in het ICES-gebied IIIa, zijnde Skagerrak;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   te vissen in het ICES-gebied VIa, zijnde West van Schotland;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   haring te vissen in de ICES-gebieden I, II;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de visserij te beoefenen met een vissersvaartuig met een motorvermogen van 221   kW of minder in de ICES-gebieden VIIh, j, k;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de spanvisserij op kabeljauw te beoefenen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   uitgerust te zijn of te vissen met vistuig TR3 dat niet permanent voorzien is   van een zeeflap;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   gericht te vissen op zeebaars met staand tuig met een maaswijdte kleiner dan   120mm;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">8°   uitgerust te zijn of te vissen met boomkornetten waarvan de staart, te weten de   achterste drie meter van de korre vóór de kuil, niet bestaat uit netmateriaal   met een maaswijdte van minimaal 120 mm.
+...
 
 ### ART. 6.
 
-In uitvoering van de herstelplannen, gebeuren de aanlandingen   van die vissoorten waarvoor specifieke controlemaatregelen gelden in de havens   van Oostende en Zeebrugge.
+...
 
 ### ART. 7.
 
-<P>§   1. De volgende minimum instandhoudingsreferentiegroottes zijn van toepassing   vanaf 1 januari 2016:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   voor tarbot: 30 cm;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   voor griet: 30 cm;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   voor tongschar : 25 cm;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   voor schar: 23 cm;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   voor bot: 25 cm;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   voor poon: 20 cm;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   voor rog: 50 cm;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">8°   voor steenbolk: 20 cm;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">9°   voor gehele zeeduivel: 500 g;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">10°   voor gekopte zeeduivel: 200 g.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   vissen, het aan boord houden en de aanvoer in de havens van de Europese Unie van   die in vorig lid vermelde soorten is verboden, als ze niet de Europese of   Vlaamse minimum instandhoudingsreferentiegroottes hebben.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   verbod in vorig lid geldt niet voor die soorten die vallen onder de   aanlandingsplicht zoals bepaald in de teruggooiplannen van de Noordzee, de   noordwestelijke en de zuidwestelijke wateren.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   aan boord houden en de aanvoer in havens van de Europese Unie van soorten, in   een presentatievorm die controle op de minimum instandhoudingsreferentiegroottes   in de Europese of Vlaamse wetgeving onmogelijk maakt, is verboden.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Voor de soorten waarvoor geen Europese conversiefactoren vastgesteld zijn,   worden volgende conversiefactoren gebruikt voor de berekening van het levend   gewicht op basis van het verwerkt gewicht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   factor 1,18 voor gegutte rondvis;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   factor 1,05 voor gegutte platvis;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   factor drie voor gekopte visserijproducten;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   factor vier voor krabbenpoten.</P>
+...
 
 ### ART. 8.
 
-<P>Voor de visserij op tong in de ICES-gebieden II, IV; VIId; VIIe; VIIf, g;   VIIh, j, k; VIIIab moet gebruik gemaakt worden van de de minimisvoorwaarden   beschreven in de teruggooiplannen voor de Noordzee, de noordwestelijke wateren   en de zuidwestelijke wateren.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De teruggegooide hoeveelheden worden in het logboek gerapporteerd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Indien een in artikel 14, 16, 17, 18, 22 en 23 bepaalde drempelwaarde tijdens   een zeereis dreigt te worden overschreden, wordt de visserijactiviteit   onmiddellijk opgeschort en worden de activiteiten minimaal 10 nautische mijl   verlegd. Voor de visserij uitgevoerd met vaartuigen met een brutotonnage kleiner   dan 70 BT worden de activiteiten minimaal 3 nautische mijl   verlegd.</P>
+...
 
 ### ART. 9.
 
-Het is voor zeehengelaars die vissen vanuit vaartuigen zonder   visvergunning verboden om in totaal meer dan 15 kg kabeljauw, per ingescheepte   persoon en per zeereis aan boord te houden, over te laden en te lossen. De vis   wordt in hele staat aangevoerd en mag ontdaan zijn van   ingewanden.
+...
 
 ## HOOFDSTUK 3. Beperking van activiteit
 
@@ -88,7 +88,7 @@ Het is voor zeehengelaars die vissen vanuit vaartuigen zonder   visvergunning ve
 
 ### ART. 12.
 
-In   de loop van het jaar 2016 is het voor alle vissersvaartuigen verboden om meer   dan 275 vaartdagen te realiseren.
+...
 
 ### ART. 13.
 
@@ -104,45 +104,13 @@ Zodra een vissersvaartuig het maximum aantal toegelaten   vaartdagen, vermeld in
 
 ### ART. 14.
 
-<p>§ 1. Het totale tongquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen met een motorvermogen van 221 kW of minder, bedraagt 399 ton voor de periode van 1 januari 2016 tot en met 31 december 2016. Bij uitputting van dat quotum is het voor die vissersvaartuigen verboden nog tong aan te voeren uit die ICES-gebieden.</p>
-
-<p>Het totale tongquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen met een motorvermogen van meer dan 221 kW, bedraagt 353 ton voor de periode van 1 januari 2016 tot en met 30 juni 2016. Bij uitputting van dat quotum is, is het voor die vissersvaartuigen tot en met 30 juni 2016 verboden nog tong aan te voeren uit de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium.</p>
-
-<p>Het de minimisquotum bedraagt 69 ton tong. De drempelwaarde bedoeld in artikel 8 wordt voor de tongvisserij in de ICES-gebieden II, IV vastgelegd op maximaal 10 % van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie. Bij uitputting van dat de minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de minimis voor tong afkomstig uit die ICES-gebieden.<br>
-<br>
-Het totale tongquotum in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) dat gereserveerd is voor de vissersvaartuigen met een motorvermogen van meer dan 221 kW, bedraagt voor de periode van 1 januari 2016 tot en met 31 december 2016, 652 ton. Als dat quotum is opgebruikt, is het voor die vissersvaartuigen tot en met 31 december 2016 verboden nog tong aan te voeren uit de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium.<br>
-<br>
-§ 2. Van 1 januari 2016 tot en met 31 oktober 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5 000 kg, vermeerderd met een hoeveelheid die gelijk is aan 60 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
-<br>
-Vanaf 1 november 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5000 kg verhoogd met een hoeveelheid die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
-<br>
-§ 3. Van 1 januari 2016 tot en met 30 juni 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5 000 kg, vermeerderd met een hoeveelheid die gelijk is aan 14 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.</p>
-
-<p>In afwijking van het eerste lid is het in de periode van 1 januari 2016 tot en met 31 oktober 2016 in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat uitsluitend de passieve visserij bedrijft, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 6000 kg, vermeerderd met een hoeveelheid die gelijk is aan 35 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
-<br>
-Van 1 juli 2016 tot en met 31 oktober 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de tongvangst een hoeveelheid te overschrijden, die gelijk is aan 5000 kg, vermeerderd met een hoeveelheid die gelijk is aan 17 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
-<br>
-Vanaf 1 november 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium), voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5000 kg verhoogd met een hoeveelheid die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.</p>
+...
 
 ## Onderafdeling 2. Schol Noordzee - ICES-gebieden II, IV
 
 ### ART. 15.
 
-<p>§ 1. Het totale scholquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen met een motorvermogen van 221 kW of minder, bedraagt&nbsp;1217 ton voor de periode van 1 januari 2016 tot en met 31 december 2016. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog schol aan te voeren uit die ICES-gebieden.</p>
-
-<p>Het totale scholquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen met een motorvermogen van meer dan 221 kW, bedraagt&nbsp;6898 ton voor de periode van 1 januari 2016 tot en met 31 december 2016. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog schol aan te voeren uit die ICES-gebieden.</p>
-
-<p>§ 2. Van 1 januari 2016 tot en met 31 oktober 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 45 kg per kW voor 15 maart 2016 worden opgevist.<br>
-<br>
-Vanaf 1 november 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.</p>
-
-<p>§ 3. Van 1 januari 2016 tot en met 30 juni 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 130 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 45 kg per kW voor 15 maart 2016 worden opgevist.<br>
-<br>
-Van 1 juli 2016 tot en met 31 oktober 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig in juni 2016 al maximaal een hoeveelheid van 10% worden opgevist.<br>
-<br>
-Vanaf 1 november 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 240 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
-<br>
-In afwijking van het derde lid is het vanaf 1 november 2016 tot en met 31 december 2016 in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW dat met de twinrig TR1 vist, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 70 ton. Deze hoeveelheid schol kan samengevoegd worden bij de hoeveelheden toegekend in het tweede lid en vormt de maximaal te vangen hoeveelheid schol in de ICES-gebieden II, IV gedurende de periode 1 juli 2016 tot en met 31 december 2016.</p>
+...
 
 ## Onderafdeling 3. Tong Bristolkanaal en Keltische Zee - ICES-gebieden VIIf, g
 
@@ -182,33 +150,19 @@ Het vaartuig dat meegewerkt heeft aan het wetenschappelijk project Ierse Zee kan
 
 ### ART. 17.
 
-<P>§   1. Het totale tongquotum in het ICES-gebied VIId, dat gereserveerd is voor de   vissersvaartuigen met een motorvermogen van 221 kW of minder, bedraagt 283 ton   voor de periode van 1 januari 2016 tot en met 31 december 2016. Bij uitputting   van dat quotum, is het voor die vissersvaartuigen verboden nog tong aan te   voeren uit het ICES-gebied VIId.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   totale tongquotum in het ICES-gebied VIId, dat gereserveerd is voor de   vissersvaartuigen met een motorvermogen van meer dan 221 kW, bedraagt 603 ton   voor de periode van 1 januari 2016 tot en met 31 december 2016. Bij uitputting   van dat quotum, is het voor die vissersvaartuigen verboden nog tong aan te   voeren uit het ICES-gebied VIId.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   de minimisquotum bedraagt 25 ton tong. De drempelwaarde vermeld in artikel 8   bedraagt voor de tongvisserij in het ICES-gebied VIId maximaal 5 % van de reeds   in de visreis in kwestie gerealiseerde tongvangst in dat ICES-gebied. Bij   uitputting van dat de minimisquotum, is het voor die vissersvaartuigen verboden   nog gebruik te maken van de minimis voor tong afkomstig uit dat   ICES-gebied.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Met behoud van de toepassing van paragraaf drie en vier, kunnen eigenaars van   vissersvaartuigen een toewijzing van vangstmogelijkheden voor tong uit het   ICES-gebied VIId in functie van het motorvermogen aanvragen. Daartoe dienen ze   voor 18 januari 2016 een verzoek in bij de bevoegde entiteit. Zonder indiening   van een geldige aanvraag, is artikel 23 van toepassing.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. Van 1 januari 2016 tot en met 31 oktober 2016 is het in het ICES-gebied VIId   voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden   bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 3 000 kg   vermeerderd met een hoeveelheid die gelijk is aan 40 kg, vermenigvuldigd met het   motorvermogen van het vissersvaartuig, uitgedrukt in kW.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   4. Van 1 januari 2016 tot en met 30 juni 2016 is het in het ICES-gebied VIId   voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij   de tongvangst een hoeveelheid te overschrijden die gelijk is aan 3 000 kg   vermeerderd met een hoeveelheid die gelijk is aan 6 kg, vermenigvuldigd met het   motorvermogen van het vissersvaartuig, uitgedrukt in   kW.</P>
+...
 
 ## Onderafdeling 5. Tong en schol Zuidwest-Ierland, zijnde ICES-gebieden VIIh, j, k
 
 ### ART. 18.
 
-<P>Het   de minimisquotum voor tong in de ICES-gebieden VIIh, j, k wordt vastgelegd op 1   ton tong. De drempelwaarde vermeld in artikel 8 bedraagt voor de tongvisserij in   de ICES-gebieden VIIh, j, k maximaal 5% van de reeds in de visreis in kwestie   gerealiseerde tongvangst in het gebied in kwestie.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   het in het eerste lid bepaalde de minimisquotum is opgebruikt, is het voor die   vissersvaartuigen tot en met 31 december 2016 verboden nog gebruik te maken van   de minimis voor tong afkomstig uit de ICESgebieden VIIh, j, k.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Van   1 januari 2016 tot en met 30 juni 2016 is het in de ICES-gebieden VIIh, j, k   voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij   de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5 kg,   vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in   kW.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Van   1 januari 2016 tot en met 30 juni 2016 is het in de ICES-gebieden VIIh, j, k   voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij   de scholvangst een hoeveelheid te overschrijden die gelijk is aan 1 kg,   vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in   kW.</P>
+...
 
 ## Onderafdeling 6. Kabeljauw Noordzee - ICES-gebieden II, IV
 
 ### ART. 19.
 
-<p>§ 1. Het totale kabeljauwquotum in de ICES-gebieden II, IV, dat gereserveerd is voor de vissersvaartuigen met een motorvermogen van 221 kW of minder, bedraagt 183 ton voor de periode van 1 januari 2016 tot en met 31 december 2016. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog kabeljauw aan te voeren uit die ICES-gebieden.</p>
-
-<p>Het totale kabeljauwquotum in de ICES-gebieden II, IV, dat gereserveerd is voor de vissersvaartuigen met een motorvermogen van meer dan 221 kW, bedraagt&nbsp;1038 ton voor de periode van 1 januari 2016 tot en met 31 december 2016. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog kabeljauw aan te voeren uit die ICES-gebieden.</p>
-
-<p>§ 2. Met behoud van de toepassing van paragraaf drie en vier, kunnen eigenaars van vissersvaartuigen een toewijzing van vangstmogelijkheden voor de kabeljauw uit de ICES-gebieden II, IV in functie van het motorvermogen aanvragen. Daartoe dienen ze voor 18 januari 2016 een verzoek in bij de bevoegde entiteit. Als er geen geldige aanvraag wordt ingediend, is artikel 25 van toepassing.<br>
-<br>
-Met behoud van de toepassing van paragraaf 4, derde lid, kunnen eigenaars van vissersvaartuigen met een motorvermogen van meer dan 221 kW een toewijzing van vangstmogelijkheden voor de kabeljauw uit de ICES-gebieden II, IV in functie van het motorvermogen aanvragen. Daartoe dienen ze voor 15 juli 2016 een verzoek in bij de bevoegde entiteit. Als er geen geldige aanvraag wordt ingediend, is artikel 25 van toepassing.<br>
-<br>
-§ 3. Van 1 januari 2016 tot en met 31 oktober 2016 is het in de ICES-gebieden II, IV voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan&nbsp;20 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.</p>
-
-<p>§ 4. Van 1 januari 2016 tot en met 30 juni 2016 is het in de ICES-gebieden II, IV voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 12 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.</p>
-
-<p>In afwijking van het eerste lid is het voor een vissersvaartuig met een motorvermogen van meer dan 221 kW dat uitsluitend de passieve visserij beoefent, van 1 januari 2016 tot en met 31 oktober 2016 is het in de ICES-gebieden II, IV verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan&nbsp;20 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
-<br>
-Van 1 juli 2016 tot en met 31 oktober 2016 is het in de ICES-gebieden II, IV voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden, die gelijk is aan 3.000 kg verhoogd met een hoeveelheid die gelijk is aan 16 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.</p>
+...
 
 ## Onderafdeling 7. Kabeljauw westelijke wateren - ICES-gebieden VIIb, c, VIIe-k, VIII
 
@@ -224,23 +178,19 @@ De hoeveelheid vermeld in het derde lid wordt verdubbeld voor een vissersvaartui
 
 ### ART. 20.
 
-<P>Van   1 januari 2016 tot en met 31 oktober 2016 is het in de ICES-gebieden VIIb-c,   VIIe-k, VIII voor een vissersvaartuig verboden bij de kabeljauwvangst een   hoeveelheid te overschrijden die gelijk is aan 6 000 kg vermeerderd met een   hoeveelheid die gelijk is aan 10 kg, vermenigvuldigd met het motorvermogen van   het vissersvaartuig, uitgedrukt in kW.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   hoeveelheid vermeld in het eerste lid wordt verdubbeld voor een vissersvaartuig   dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 uitsluitend   uitgerust is met de planken of met passief tuig.</P>
+...
 
 ## Onderafdeling 8. Kabeljauw oostelijk kanaal - ICES-gebied VIId
 
 ### ART. 21.
 
-<p>Van 1 januari 2016 tot en met 31 oktober 2016 is het in het ICES-gebied VIId voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 2 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
-<br>
-De hoeveelheid vermeld in het eerste lid wordt verdubbeld voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 uitsluitend uitgerust is met de planken of met passief tuig.<br>
-<br>
-Vanaf 1 november 2016 tot en met 31 december 2016 is het in het ICES-gebied VIId voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 3 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.</p>
+...
 
 ## Onderafdeling 9. Tong Golf van Gascogne - ICES-gebieden VIIIa, b
 
 ### ART. 22.
 
-§ 1. De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa,b   is verboden in de periode van 1 januari 2016 tot en met 31 december   2016.<BR><BR>§ 2. In afwijking van paragraaf 1, is het vanaf 1 juni 2016, alleen   voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne   2016" voorkomen, toegestaan om in de ICES-gebieden VIIIa,b aanwezig te   zijn.<BR><BR>Om aan de lijst, vermeld in het eerste lid, toegevoegd te kunnen   worden, richten de eigenaars van vissersvaartuigen voor 15 april 2016 met een   aangetekende brief of per fax een aanvraag tot de bevoegde entiteit.<BR><BR>Als   het aantal ingeschreven vaartuigen te hoog is in verhouding tot de beschikbare   tongquota of het beschikbare brutotonnage, zal via loting dat aantal worden   beperkt. De vaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2015"   voorkomen, krijgen voorrang.<BR><BR>§ 3. Van 1 juni 2016 tot en met 30 september   2016 is het in de ICES-gebieden VIIIa,b voor een vissersvaartuig, dat voorkomt   op de lijst, vermeld in § 2, verboden bij tongvangst een hoeveelheid te   overschrijden die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van   het vissersvaartuig, uitgedrukt in kW. Als uitgangspunt wordt de situatie op 15   april 2016 genomen.<BR><BR>De hoeveelheid, vermeld in het eerste lid, kan door   de bevoegde entiteit worden herzien.<BR><BR>§ 4. Bij overschrijding van de   hoeveelheden tong, vermeld in paragraaf 3, worden de door dat vissersvaartuig   overschreden hoeveelheden tong in tweevoud in mindering gebracht op de   hoeveelheid tong die aan het vissersvaartuig wordt toegekend voor 2017.<BR><BR>§   5. Voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne   2016" voorkomen, wordt het aantal dagen in de ICES-gebieden IV, VIId en VIIa,   vermeld in artikel 10, § 1, verminderd met 20.<BR><BR>Voor de vissersvaartuigen   die op de lijst "Visvergunningen Golf van Gascogne 2016" voorkomen, wordt de   overeenkomstig artikel 16 toegekende hoeveelheid tong VIIf,g, voor de periode   van 1 juli 2016 tot 31 oktober 2016 verminderd met 6 kg per kW.<BR><BR>§ 6. Bij   niet naleving van paragraaf 1 of paragraaf 2 door een vissersvaartuig, wordt het   aantal zeedagen, vermeld in artikel 10, § 1, en het aantal vaartdagen, vermeld   in artikel 12, verminderd met 10.<BR><BR>Bij niet naleving van paragraaf 1 of   paragraaf 2 door een vissersvaartuig, zal het vissersvaartuig in 2017 niet   aanwezig mogen zijn in de ICES-gebieden VIIIa,b.<BR><BR>§ 7. Het de   minimisquotum voor tong in de ICES-gebieden VIIIa,b wordt vastgelegd op 13.850   kg tong. De drempelwaarde, vermeld in artikel 8, voor de tongvisserij in de   ICES-gebieden VIIIa,b bedraagt maximaal 8 % van de reeds in de visreis in   kwestie gerealiseerde tongvangst in het gebied in kwestie.<BR><BR>Bij uitputting   van het de minimisquotum, vermeld in het eerste lid, is het voor die   vissersvaartuigen verboden nog gebruik te maken van de minimis voor tong   afkomstig uit de ICES-gebieden VIIIa,b.
+...
 
 ## Afdeling 2. Toewijzing van vangstmogelijkheden per zeereis
 
@@ -248,190 +198,43 @@ Vanaf 1 november 2016 tot en met 31 december 2016 is het in het ICES-gebied VIId
 
 ### ART. 23.
 
-<p>§ 1. De aanwezigheid van een vissersvaartuig in het ICES-gebied VIIa is verboden in de periode van 1 januari 2016 tot en met 31&nbsp;januari 2016.<br>
-<br>
-In de periode van 1 februari 2016 tot en met 31 oktober 2016 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden een totale tongvangst te realiseren die groter is dan 500 kg.<br>
-<br>
-In de periode van 1 november 2016 tot en met 31 december 2016 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden een totale tongvangst te realiseren die groter is dan 500 kg.<br>
-<br>
-§ 2. In de periode van 1 januari 2016 tot en met 31 december 2016 is het in het ICES-gebied VIId voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan&nbsp;300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat ICES-gebied.</p>
-
-<p>In de periode van 1 januari 2016 tot en met 31 december 2016 is het in het ICES-gebied VIId voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan&nbsp;600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.</p>
-
-<p>In de periode van 1 januari 2016 tot en met 31 december 2016 is het voor een vissersvaartuig met een motorvermogen van 221 kW of minder, die gemengde zeereizen in de ICES-gebieden II, IV en VIId maakt, verboden bij de tongvangst in de ICES-gebieden II, IV per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden II, IV.</p>
-
-<p>In de periode van 1 januari 2016 tot en met 31 december 2016 is het voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, die gemengde zeereizen in de ICES-gebieden II, IV en VIId maakt, verboden bij de tongvangst in de ICES-gebieden II, IV een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de ICES-gebieden II, IV.</p>
-
-<p>§ 3. De bepalingen in paragraaf 2 zijn niet van toepassing op de vissersvaartuigen waarvoor een toewijzing van vangstmogelijkheden in functie van het motorvermogen werd aangevraagd, als vermeld in artikel 17, paragraaf 2.</p>
-
-<p>§ 4. Het de minimisquotum voor tong in het ICES-gebied VIIe bedraagt 1 ton tong. De drempelwaarde vermeld in artikel 8 bedraagt voor de tongvisserij in het ICES-gebied VIIe maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie. Bij uitputting van dat de minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de minimis voor tong afkomstig uit dat ICES-gebied VIIe.</p>
-
-<p>In de periode van 1 januari 2016 tot en met 31 oktober 2016 is het in het ICES-gebied VIIe voor een vissersvaartuig verboden een totale tongvangst te realiseren die groter is dan 1200 kg.<br>
-<br>
-In de periode van 1 november 2016 tot en met 31 december 2016 is het in het ICES-gebied VIIe voor een vissersvaartuig verboden een totale tongvangst te realiseren die groter is dan 1200 kg.</p>
+...
 
 ## Onderafdeling 2. Schol
 
 ### ART. 24.
 
-<p>§ 1. In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden VIId, e voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.</p>
-
-<p>In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden VIId, e voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 2000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.</p>
-
-<p>In de periode van 1 januari 2016 tot en met 31 december 2016 is het voor een vissersvaartuig met een motorvermogen van 221 kW of minder, die gemengde zeereizen in de ICES-gebieden VIId en IV maakt, verboden bij de scholvangst in de ICES-gebieden IV per zeereis een hoeveelheid te overschrijden die gelijk is aan 1000 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden IV.</p>
-
-<p>In de periode van 1 januari 2016 tot en met 31 december 2016 is het voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, die gemengde zeereizen in de ICES-gebieden VIId en IV maakt, verboden bij de scholvangst in de ICES-gebieden IV een hoeveelheid te overschrijden die gelijk is aan 2000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de ICES-gebieden IV.<br>
-<br>
-Vanaf het ogenblik dat het quotum 90% benut is voor 1 december 2016 worden de hoeveelheden in deze paragraaf gehalveerd. Die halvering geldt tot 31 december 2016.</p>
-
-<p>§ 2. In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.</p>
-
-<p>In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.</p>
-
-<p>§ 3. In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden VIII voor een vissersvaartuig verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.</p>
+...
 
 ## Onderafdeling 3. Kabeljauw
 
 ### ART. 25.
 
-<p>§ 1. In de periode van 1 januari 2016 tot en met 31 maart 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 120 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.</p>
-
-<p>In de periode van 1 april 2016 tot en met 30 juni 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-In de periode van 1 juli 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 325 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-§ 2. In de periode van 1 januari 2016 tot en met 31 maart 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 240 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.</p>
-
-<p>In de periode van 1 april 2016 tot en met 30 juni 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-In de periode van 1 juli 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 650 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
-<br>
-§ 3. In de periode van 1 januari 2016 tot en met 31 maart is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 niet is uitgerust met de boomkor, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 360 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.</p>
-
-<p>In de periode van 1 april 2016 tot en met 30 juni 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 niet is uitgerust met de boomkor, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
-<br>
-In de periode van 1 juli 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 niet is uitgerust met de boomkor, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 750 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
-<br>
-§ 4. In de periode van 1 februari 2016 tot en met 31 december 2016 is het in het ICES-gebied VIIa voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 20 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.</p>
-
-<p>§ 5. In de periode van 1 februari 2016 tot en met 31 december 2016 is het in het ICES-gebied VIIa voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 40 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.</p>
-
-<p>§ 6. De paragrafen 1 tot en met 3 zijn niet van toepassing op de vissersvaartuigen waarvoor een toewijzing van vangstmogelijkheden in functie van het motorvermogen werd aangevraagd, als vermeld in artikel 19, paragraaf 2.</p>
-
-<p>De hoeveelheden, vermeld in de paragrafen een tot en met drie, worden van 1 april 2016 tot en met 30 juni 2016 met 200 kg per vaartdag verhoogd, als het vaartuig in kwestie gedurende de gehele visreis actief was met TR 1- of BT 1-vistuig.<br>
-<br>
-De hoeveelheden, vermeld in de paragrafen 1 tot en met 3, worden van 1 juli 2016 tot en met 31 december 2016 met 300 kg per vaartdag verhoogd, als het vaartuig in kwestie gedurende de gehele visreis actief was met TR 1- of BT 1-vistuig.</p>
+...
 
 ## Onderafdeling 4. Schelvis
 
 ### ART. 26.
 
-<P>In   de periode van 1 januari 2016 tot en met 31 december 2016 is het in de   ICES-gebieden VII, VIII voor een vissersvaartuig met een motorvermogen van 221   kW of minder verboden bij de schelvisvangst een hoeveelheid te overschrijden die   gelijk is aan 25 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd   tijdens die zeereis in die ICES-gebieden.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   de periode van 1 januari 2016 tot en met 31 december 2016 is het in de   ICES-gebieden VII, VIII voor een vissersvaartuig met een motorvermogen van meer   dan 221 kW verboden bij de schelvisvangst een hoeveelheid te overschrijden die   gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd   tijdens die zeereis in die ICES-gebieden.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   afwijking van het eerste en tweede lid worden de maximaal toegelaten   vangsthoeveelheden verdubbeld, die gerealiseerd zijn door een vissersvaartuig   dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 uitsluitend   uitgerust is met de planken.</P>
+...
 
 ## Onderafdeling 5. Rog
 
 ### ART. 27.
 
-<p>§ 1. In de periode van 1 januari 2016 tot en met 31&nbsp;oktober 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.</p>
-
-<p>In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.</p>
-
-<p>In afwijking van het eerste en tweede lid, worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 uitsluitend uitgerust is met de planken.<br>
-<br>
-In de periode van 1 november 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-In de periode van 1 november 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-In afwijking van het vierde en vijfde lid, worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 uitsluitend is uitgerust met de planken.<br>
-<br>
-§ 2. In de periode van 1 januari 2016 tot en met 31 december 2016 is het in ICES-gebied VIId voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan&nbsp;40 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.</p>
-
-<p>In de periode van 1 januari 2016 tot en met 31 december 2016 is het in ICES-gebied VIId voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 80 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.</p>
-
-<p>In afwijking van het eerste en tweede lid worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 uitsluitend uitgerust is met de planken.<br>
-<br>
-§ 3. In de periode van 1 maart 2016 tot en met 30 juni 2016 is het in de ICES-gebieden VIIa-c, e-k, voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-In de periode van 1 maart 2016 tot en met 30 juni 2016 is het in de ICES-gebieden VIIa-c, e-k, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 1000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-In de periode van 1 juli 2016 tot en met 31 december 2016 is het in de ICES-gebieden VIIa-c, e-k, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-In de periode van 1 juli 2016 tot en met 31 december 2016 is het in de ICES-gebieden VIIa-c, e-k, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de die ICES-gebieden.</p>
+...
 
 ## Onderafdeling 6. Andere vissoorten
 
 ### ART. 28.
 
-<p>§ 1. In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig verboden bij makreelvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis.</p>
-
-<p>Het totale makreelquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen die volgens de Officiële lijst der Belgische vissersvaartuigen 2016 uitsluitend uitgerust zijn met de zegen en die per zeereis minder dan 10 kg Noordzeetong aanlanden, bedraagt 50 ton. Zolang dat quotum niet is opgebruikt, geldt de beperking, vermeld in het eerste lid, niet.</p>
-
-<p>§ 2. In de periode van 1 januari 2016 tot en met 31 december 2016 is het voor een vissersvaartuig verboden bij de haringvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis, behalve in de ICES-gebieden I, II.</p>
-
-<p>§ 3. In de periode van 1 januari 2016 tot en met 31 mei 2016 is het voor een vissersvaartuig verboden bij de heekvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis.</p>
-
-<p>In de periode van 1 juni 2016 tot en met 31 december 2016 is het voor een vissersvaartuig verboden bij de heekvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis.</p>
-
-<p>§ 4. In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig verboden bij de vangsten van bot en schar per zeereis een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-Zolang geen 80 % van het quotum is benut is het in afwijking van het eerste lid in de periode van 1 april 2016 tot en met 31 december 2016 in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig verboden bij de bot- en scharvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 2.000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in deze ICES-gebieden.<br>
-<br>
-In afwijking van het eerste lid kan een vissersvaartuig met TR 1 tuig zolang geen 67 % van het quotum is benut, in de periode van 1 juni 2016 tot en met 30 september 2016, vrij vissen op bot en schar.<br>
-&nbsp;</p>
-
-<p>§ 5. In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.</p>
-
-<p>In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-In afwijking van het eerste en tweede lid is het in de periode van 1 april 2016 tot en met 31 december 2016 in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig verboden bij de tongschar en witjevangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1.000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.</p>
-
-<p>§ 6. In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan&nbsp;500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.</p>
-
-<p>In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 1000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.</p>
-
-<p>In afwijking van het eerste en tweede lid worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 uitsluitend uitgerust is met de planken of met de zegen.</p>
-
-<p>§ 7. In de periode van 1 februari 2016 tot en met 31 december 2016 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 20 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.</p>
-
-<p>§ 8. In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan&nbsp;50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.</p>
-
-<p>In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.</p>
-
-<p>In afwijking van het tweede lid worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 uitsluitend uitgerust is met de planken of met de zegen.</p>
-
-<p>In afwijking van het tweede en derde lid worden de maximaal toegelaten vangsthoeveelheden die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2016 uitsluitend uitgerust is met de zegen, verviervoudigd.</p>
-
-<p>De bepalingen van deze paragraaf zijn niet van toepassing voor die vaartuigen die onder de aanlandingsplicht vallen.<br>
-<br>
-In afwijking van het eerste lid, is het in de periode van 1 februari 2016 tot en met 31 maart 2016 in de ICES-gebieden VIIb-k voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
-<br>
-In afwijking van het tweede lid, is het in de periode van 1 februari 2016 tot en met 31 maart 2016 in de ICES-gebieden VIIb-k voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
-&nbsp;</p>
-
-<p>§ 9. De de minimis voor wijting bedraagt per visreis maximaal 7% van de reeds in de visreis in kwestie gerealiseerde wijtingvangst in het gebied in kwestie.<br>
-<br>
-§ 10. In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, III, IV voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de zwarte koolvisvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 40 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-<br>
-In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, III, IV voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de zwarte koolvisvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 80 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-Voor de vaartdagen waarop het vissersvaartuig actief is met vistuig van de inspanningsgroep TR 1, worden de hoeveelheden, vermeld in het tweede lid, verdubbeld.<br>
-<br>
-De beperkingen vermeld in het eerste en tweede lid zijn niet van toepassing zolang geen 60 % van het quotum in kwestie, inclusief quotaruilen, is opgebruikt.<br>
-<br>
-§ 11. In de periode van 1 januari 2016 tot en met 31 december 2016 is het in de ICES-gebieden II, IV, zijnde de Noorse zone, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de lengvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 30 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-De beperkingen, vermeld in het eerste lid, zijn niet van toepassing zolang geen 60 % van het quotum in kwestie, inclusief quotaruilen, is opgebruikt.<br>
-<br>
-§ 12. De de minimis voor Noorse kreeft in de ICES-gebied II, IV bedraagt 56 ton.<br>
-<br>
-§ 13. Vanaf het ogenblik dat het quotum 85% benut is voor 1 december 2016 is het in de ICES-gebieden II, IV voor een vissersvaartuig verboden bij de vangst van tarbot en griet een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden en dit tot 31 december 2016.</p>
+...
 
 ## Afdeling 3. Inruilen van dagen
 
 ### ART. 29.
 
-<P>&nbsp;§ 1. Een overschrijding van de   vangstmogelijkheden, vermeld in artikel 26, 27 en 28, kan op verzoek van de   reder of zijn vertegenwoordiger aanleiding geven tot vermindering van de   vaartdagen. In dat geval vervalt de administratieve of strafrechtelijke   vervolging voor die overschrijding.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Als de rederij kiest voor de toepassing van de inruiling van dagen, wordt het   maximum aantal vaartdagen voor 2016, vermeld in artikel 12, vervangen door het   hoogste aantal effectieve vaartdagen op jaarbasis in de periode 2013-2015, voor   zover dat aantal beneden de norm van 2016 ligt.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   voor het vissersvaartuig in kwestie gedurende het jaar in kwestie dagen werden   ingeruild, worden voor de toepassing van het eerste lid, die ingeruilde dagen   als effectieve vaartdagen meegerekend.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. Met het oog op het beheer van de inruildagen meldt de reder of zijn   vertegenwoordiger het aantal inruildagen voor het einde van de zeereis per fax   aan de bevoegde entiteit. De aanvraag is onherroepelijk.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   4. Voor ieder visbestand wordt het overschreden volume gedeeld door de   toegekende hoeveelheden per vaartdag, wat resulteert in een aantal surplusdagen.   Van het maximum aantal vaartdagen voor 2016, vermeld in paragraaf 2, wordt het   aantal surplusdagen afgetrokken.</P>
+...
 
 ## TITEL 3. Handhaving
 
@@ -447,8 +250,8 @@ Overtredingen van de bepalingen van dit besluit en van de   beperkingen aangebra
 
 ### ART. 32.
 
-Het   ministerieel besluit van 18 december 2013 houdende tijdelijke aanvullende   maatregelen tot het behoud van de visbestanden in zee, gewijzigd bij de   ministeriële besluiten van 6 februari 2014, 11 april 2014, 15 mei 2014, 20 juni   2014, 27 augustus 2014, 27 oktober 2014, 10 november 2014 en 10 december 2014,   wordt opgeheven.
+...
 
 ### ART. 33.
 
-Dit besluit treedt in werking op 1 januari 2016. Het houdt op van kracht   te zijn op 1 januari 2017 met uitzondering van de artikelen 3, 10, 11, 13, 16,   22, § 4, 22, § 6, tweede lid, 30 en 31.
+...
