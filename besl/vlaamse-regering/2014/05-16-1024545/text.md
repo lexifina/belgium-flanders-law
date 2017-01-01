@@ -208,7 +208,7 @@ Het bedrag, vermeld in artikel 33, wordt verhoudingsgewijs verminderd op   basis
 
 ### ART. 36.
 
-De subsidie voor inkomenstarief buitenschoolse opvang kan worden toegekend   aan de organisator van gezinsopvang of groepsopvang met een vergunning met een   subsidie voor inkomenstarief als vermeld in het Subsidiebesluit van 22 november   2013, die voor 1 april 2014:<BR>1° hetzij een kinderdagverblijf of dienst voor   onthaalouders was. De subsidie geldt bij diensten voor onthaalouders ook voor   nieuwe opvanglocaties binnen het aantal subsidieerbare kinderopvangplaatsen per   subsidiegroep;<BR>2° hetzij een zelfstandige onthaalouder of een zelfstandig   kinderdagverblijf was. De subsidie geldt alleen voor kinderen tot 3,5 jaar die   deeltijds naar de basisschool gaan.<BR>
+De subsidie voor inkomenstarief buitenschoolse opvang kan worden toegekend aan de organisator van gezinsopvang of groepsopvang met een subsidie voor inkomenstarief als vermeld in het Subsidiebesluit van 22 november 2013.
 
 ## Afdeling 2 Bedrag van de subsidie
 
@@ -547,6 +547,12 @@ Voor de opvanglocaties die met toepassing van de regelgeving die van   kracht is
 ### ART. 100.
 
 Zolang, met betrekking tot de subsidie voor inkomenstarief buitenschoolse   opvang en de subsidie voor individuele inclusieve kinderopvang, de   kinderbegeleider werkt volgens het sociaal statuut van de aangesloten   onthaalouders geldt artikel 65 van het Subsidiebesluit van 22 november   2013.<BR>
+
+### ART 100/1.
+
+Voor de organisator die voor zijn opvanglocatie groepsopvang op 31 december 2016 een subsidie ontvangt op basis van het besluit van de Vlaamse Regering van 6 februari 2015 houdende de regeling van de toekenning van subsidies aan de organisatoren van kinderopvang, buitenschoolse opvang en adoptiebemiddeling die personeelsleden te werk stellen in een gewezen DAC-statuut, wordt die subsidie in onderling akkoord tussen Kind en Gezin en de organisator omgezet in een subsidie voor initiatief buitenschoolse opvang als vermeld in artikel 19 tot en met 31 van dit besluit. Het subsidiebedrag na omzetting kan maximaal even hoog zijn als het subsidiebedrag dat de organisator ontving op basis van het voormelde besluit van de Vlaamse Regering van 6 februari 2015.<br>
+<br>
+De organisator die de subsidie krijgt, dient te voldoen aan de voorwaarden, vermeld in het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014. Zolang de organisator voldoet aan deze voorwaarden, geldt de subsidie voor een duur van tien jaar vanaf de eerste subsidieerbare opvangplaats.
 
 ## Afdeling 3 Inwerkingtredingsbepaling en uitvoeringsbepaling
 
