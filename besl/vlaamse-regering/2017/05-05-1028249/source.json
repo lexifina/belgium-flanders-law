@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028249,
+  "title": "Besluit van de Vlaamse Regering van 2017-05-05 tot wijziging van het koninklijk besluit van 27 april 1998 houdende vaststelling van de normen waaraan een functie \"gespecialiseerde spoedgevallenzorg\" moet voldoen om erkend te worden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028249/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "88a38e93d9c9d9018229840c20d3c66eadd3484ecb89ea4332e177ed94f85f9d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028249&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-05-05",
+  "gazette": "2017-05-23",
+  "numac": 2017020354,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
