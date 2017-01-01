@@ -14,7 +14,51 @@ Dit besluit wordt aangehaald als: het Onroerenderfgoedbesluit van 16 mei   2014.
 
 ### ART. 2.
 
-In dit besluit wordt verstaan onder:<BR>1° beheersdienst: de   administratieve overheid die belast is met de uitvoering van de   beheersovereenkomsten;<BR>2° beheersmaatregel: het werk, de dienst of de   handeling die de zakelijkrechthouder of beheerder in het kader van een   beheersovereenkomst verricht, laat verrichten of achterwege laat, afhankelijk   van de beheersdoelstelling;<BR>3° beheerspakket: een geheel van   beheersmaatregelen die tegemoetkomen aan een specifieke   beheersdoelstelling;<BR>4° belanghebbende: de zakelijkrechthouder en de   gebruiker van het onroerend goed, de zakelijkrechthouders van percelen die   grenzen aan het onroerend goed, de gemeente of de provincie waarin het onroerend   goed gelegen is, het agentschap en in voorkomend geval de leden van de   beheerscommissie;<BR>5° beleidsprioriteiten: de beleidsdoelstellingen die de   Vlaamse Regering formuleert en waarbij ze, al dan niet met een subsidieregeling,   de lokale besturen aanmoedigt of verplicht om binnen de geformuleerde   doelstellingen een eigen lokaal beleid te voeren;<BR>6° bijwerken: de bijkomende   werkzaamheden, beheersmaatregelen of diensten die, door niet voorzienbare   omstandigheden, tijdens de uitvoering van goedgekeurde werkzaamheden of   beheersmaatregelen noodzakelijk blijken en niet vermeld zijn in de kostenraming   op basis waarvan de erfgoedpremie werd toegekend;<BR>7° Commissie: de Vlaamse   Commissie Onroerend Erfgoed, vermeld in artikel 3.1.1 van het   Onroerenderfgoeddecreet van 12 juli 2013;<BR>8° cultuurgoederen: roerende   goederen, die omwille van hun erfgoedwaarde van algemeen belang zijn, waarvan   het samen voorkomen met het gebouw een bijzondere waarde heeft en die ofwel   ontworpen zijn voor of vervaardigd met het beschermd goed ofwel gerelateerd zijn   aan de functie van het beschermd goed en waarvoor historische verbondenheid met   het beschermd goed kan aangetoond worden. Voor beschermde onroerende goederen in   eigendom van privé-personen of -rechtspersonen moeten de cultuurgoederen   opgenomen zijn in een beschermingsbesluit of een goedgekeurd beheersplan of er   moet voorheen voor het beheer ervan een premie verleend zijn opdat ze als   cultuurgoederen beschouwd kunnen worden;<BR>9° discipline: een bepaald   vakgebied, specialisme of beroep binnen de onroerenderfgoedsector;<BR>10°   forfaitaire werkzaamheden: de werkzaamheden of diensten, opgenomen in een door   de minister vastgestelde lijst, die op forfaitaire basis overeenkomstig de   bedragen, vermeld in die lijst, in aanmerking komen voor de toekenning van een   erfgoed- of onderzoekspremie;<BR>11° gespecialiseerde werkzaamheden:<BR>a)   beheersmaatregelen, werkzaamheden of diensten aan:<BR>1) orgels, beiaarden,   torenuurwerken, luiklokken;<BR>2) historische instrumenten;<BR>3)   beeldhouwwerken of grafstenen;<BR>4) panelen, schilderijen,   muurschilderingen;<BR>5) muurbekledingen, textiel;<BR>6) bomen, historische   tuinen en parken;<BR>7) meubilair, lambriseringen, tuin- en   straatmeubilair;<BR>8) heraldische wapens en symbolen;<BR>9) glasramen;<BR>10)   smeedwerk;<BR>11) archeologische ensembles of sites;<BR>12) industrieel erfgoed   met inbegrip van installaties, uitrustingsstukken en onderdelen;<BR>13)   cultuurgoederen;<BR>b) beveiligingswerken tegen diefstal, brand en blikseminslag   van beschermde monumenten en de cultuurgoederen die er integrerend deel van   uitmaken;<BR>12° kostenraming: een lijst met posten van de beoogde maatregelen,   werkzaamheden en diensten, met aanduiding van de benodigde hoeveelheden en hun   vermoedelijke kostprijs, al dan niet gebaseerd op de goedgekeurde lijst met   forfaitaire werkzaamheden;<BR>13° lokale beleidscyclus: de beleidscyclus van zes   jaar die gekoppeld is aan de lokale bestuursperiode en die begint in het tweede   jaar dat volgt op de lokale verkiezingen en eindigt op het einde van het jaar na   de daaropvolgende verkiezingen;<BR>14° meerwerken: de bijkomende werkzaamheden,   beheersmaatregelen of diensten die de vermoedelijke hoeveelheden die in de   aanvaarde kostenraming worden vermeld, overschrijden;<BR>15° minister: de   Vlaamse minister, bevoegd voor het onroerend erfgoed;<BR>16° monument, bestemd   voor een erkende eredienst: de gebouwen vermeld in artikel 4, 81, 117, 153, 189   en 232 van het decreet van 7 mei 2004 betreffende de materiële organisatie en   werking van de erkende erediensten, voor zover ze bestemd zijn voor de   eredienst;<BR>17° onderwijsgebouw: een onroerend goed dat op grond van zijn   onderwijsbestemming vrijgesteld is van de onroerende voorheffing;<BR>18°   onroerenderfgoedactoren: de betrokkenen en belanghebbenden bij de zorg voor het   onroerend erfgoed op het grondgebied van de gemeente;<BR>19° ontwerper: de   natuurlijke persoon of rechtspersoon die het ontwerp maakt van de werkzaamheden   of diensten aan of in beschermde goederen of in erfgoedlandschappen, en ze   begeleidt en controleert of het beheersplan opmaakt;<BR>20° open erfgoed: een   beschermd goed, een erfgoedlandschap, of een deel ervan dat een opzichzelfstaand   geheel vormt, dat op&nbsp;exemplarische wijze en op regelmatige basis   opengesteld wordt met het doel het grote publiek op een actieve en sprekende   manier inzicht te geven in de erfgoedwaarde van het goed, waarbij het integraal   benaderd wordt, en waarvan de erkenning vermeld is in de beslissing waarbij het   beheersplan werd goedgekeurd;<BR>21° post: een gedetailleerde omschrijving per   onderdeel van de te leveren goederen, diensten en te verrichten   werkzaamheden;<BR>22° premienemer: elkeen die opdrachtgever is van de   beheersmaatregelen, werkzaamheden, diensten, voorafgaande onderzoeken of de   opmaak van het beheersplan en die de kosten ervan draagt;<BR>22° /1 premie voor   buitensporige opgravingskosten: de premie ter financiering van de buitensporige   directe kosten van de verplichte en al uitgevoerde archeologische opgraving,   zoals opgenomen in de bekrachtigde archeologienota of de bekrachtigde nota ter   uitvoering van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli   2013;<BR>23° ...;<BR>24° regulier onderhoud: de preventieve en periodieke   onderhoudswerken, gericht op het duurzaam in goede staat houden van een goed,   die geen vervanging of wijziging van materiaal en uitvoeringstechniek impliceren   en die geen negatieve impact op de erfgoedwaarde en geen impact op de bodem   hebben;<BR>25° toekenning: de officiële kennisgeving aan de premienemer van het   ministerieel besluit waarbij het bedrag van de erfgoedpremie, aangevraagd   volgens de bijzondere procedure, wordt vastgesteld;<BR>26° uitvoerder: de   natuurlijke persoon of rechtspersoon, die het beheer van of de werkzaamheden aan   onroerend erfgoed en erfgoedlandschappen uitvoert;<BR>27° voorafgaand onderzoek:   elke vorm van voorbereidend onderzoek dat noodzakelijk is voor het   kwaliteitsvolle beheer of de herwaardering van een beschermd goed of een   erfgoedlandschap en waarvan verondersteld mag worden dat het buiten de   gebruikelijke opdracht van een eventuele ontwerper valt, met inbegrip van de   werkzaamheden die nodig zijn om dat onderzoek uit te voeren;<BR>28° ZEN-erfgoed:   beschermde onroerende goederen of onroerende goederen gelegen in een   erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt, dat   niet van dien aard is dat het economisch nut kan hebben, en dat uitdrukkelijk   als dusdanig erkend is in de beslissing waarbij het beheersplan werd   goedgekeurd.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° beheersdienst: de administratieve overheid die belast is met de uitvoering van de beheersovereenkomsten;<br>
+2° beheersmaatregel: het werk, de dienst of de handeling die de zakelijkrechthouder of beheerder in het kader van een beheersovereenkomst verricht, laat verrichten of achterwege laat, afhankelijk van de beheersdoelstelling;<br>
+3° beheerspakket: een geheel van beheersmaatregelen die tegemoetkomen aan een specifieke beheersdoelstelling;<br>
+4° belanghebbende: de zakelijkrechthouder en de gebruiker van het onroerend goed, de zakelijkrechthouders van percelen die grenzen aan het onroerend goed, de gemeente of de provincie waarin het onroerend goed gelegen is, het agentschap en in voorkomend geval de leden van de beheerscommissie;<br>
+5° beleidsprioriteiten: de beleidsdoelstellingen die de Vlaamse Regering formuleert en waarbij ze, al dan niet met een subsidieregeling, de lokale besturen aanmoedigt of verplicht om binnen de geformuleerde doelstellingen een eigen lokaal beleid te voeren;<br>
+6° bijwerken: de bijkomende werkzaamheden, beheersmaatregelen of diensten die, door niet voorzienbare omstandigheden, tijdens de uitvoering van goedgekeurde werkzaamheden of beheersmaatregelen noodzakelijk blijken en niet vermeld zijn in de kostenraming op basis waarvan de erfgoedpremie werd toegekend;<br>
+7° Commissie: de Vlaamse Commissie Onroerend Erfgoed, vermeld in artikel 3.1.1 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+8° cultuurgoederen: roerende goederen, die omwille van hun erfgoedwaarde van algemeen belang zijn, waarvan het samen voorkomen met het gebouw een bijzondere waarde heeft en die ofwel ontworpen zijn voor of vervaardigd met het beschermd goed ofwel gerelateerd zijn aan de functie van het beschermd goed en waarvoor historische verbondenheid met het beschermd goed kan aangetoond worden. Voor beschermde onroerende goederen in eigendom van privé-personen of -rechtspersonen moeten de cultuurgoederen opgenomen zijn in een beschermingsbesluit of een goedgekeurd beheersplan of er moet voorheen voor het beheer ervan een premie verleend zijn opdat ze als cultuurgoederen beschouwd kunnen worden;<br>
+9° discipline: een bepaald vakgebied, specialisme of beroep binnen de onroerenderfgoedsector;<br>
+10° forfaitaire werkzaamheden: de werkzaamheden of diensten, opgenomen in een door de minister vastgestelde lijst, die op forfaitaire basis overeenkomstig de bedragen, vermeld in die lijst, in aanmerking komen voor de toekenning van een erfgoed- of onderzoekspremie;<br>
+11° gespecialiseerde werkzaamheden:<br>
+a) beheersmaatregelen, werkzaamheden of diensten aan:<br>
+1) orgels, beiaarden, torenuurwerken, luiklokken;<br>
+2) historische instrumenten;<br>
+3) beeldhouwwerken of grafstenen;<br>
+4) panelen, schilderijen, muurschilderingen;<br>
+5) muurbekledingen, textiel;<br>
+6) bomen, historische tuinen en parken;<br>
+7) meubilair, lambriseringen, tuin- en straatmeubilair;<br>
+8) heraldische wapens en symbolen;<br>
+9) glasramen;<br>
+10) smeedwerk;<br>
+11) archeologische ensembles of sites;<br>
+12) industrieel erfgoed met inbegrip van installaties, uitrustingsstukken en onderdelen;<br>
+13) cultuurgoederen;<br>
+b) beveiligingswerken tegen diefstal, brand en blikseminslag van beschermde monumenten en de cultuurgoederen die er integrerend deel van uitmaken;<br>
+12° kostenraming: een lijst met posten van de beoogde maatregelen, werkzaamheden en diensten, met aanduiding van de benodigde hoeveelheden en hun vermoedelijke kostprijs, al dan niet gebaseerd op de goedgekeurde lijst met forfaitaire werkzaamheden;<br>
+13° lokale beleidscyclus: de beleidscyclus van zes jaar die gekoppeld is aan de lokale bestuursperiode en die begint in het tweede jaar dat volgt op de lokale verkiezingen en eindigt op het einde van het jaar na de daaropvolgende verkiezingen;<br>
+14° meerwerken: de bijkomende werkzaamheden, beheersmaatregelen of diensten die de vermoedelijke hoeveelheden die in de aanvaarde kostenraming worden vermeld, overschrijden;<br>
+15° minister: de Vlaamse minister, bevoegd voor het onroerend erfgoed;<br>
+16° ...;<br>
+17° onderwijsgebouw: een onroerend goed dat op grond van zijn onderwijsbestemming vrijgesteld is van de onroerende voorheffing;<br>
+18° onroerenderfgoedactoren: de betrokkenen en belanghebbenden bij de zorg voor het onroerend erfgoed op het grondgebied van de gemeente;<br>
+19° ontwerper: de natuurlijke persoon of rechtspersoon die het ontwerp maakt van de werkzaamheden of diensten aan of in beschermde goederen of in erfgoedlandschappen, en ze begeleidt en controleert of het beheersplan opmaakt;<br>
+20° open erfgoed: een beschermd goed, een erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt, dat op&nbsp;exemplarische wijze en op regelmatige basis opengesteld wordt met het doel het grote publiek op een actieve en sprekende manier inzicht te geven in de erfgoedwaarde van het goed, waarbij het integraal benaderd wordt, en waarvan de erkenning vermeld is in de beslissing waarbij het beheersplan werd goedgekeurd;<br>
+21° post: een gedetailleerde omschrijving per onderdeel van de te leveren goederen, diensten en te verrichten werkzaamheden;<br>
+22° premienemer: elkeen die opdrachtgever is van de beheersmaatregelen, werkzaamheden, diensten, voorafgaande onderzoeken of de opmaak van het beheersplan en die de kosten ervan draagt;<br>
+22° /1 premie voor buitensporige opgravingskosten: de premie ter financiering van de buitensporige directe kosten van de verplichte en al uitgevoerde archeologische opgraving, zoals opgenomen in de bekrachtigde archeologienota of de bekrachtigde nota ter uitvoering van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+23° ...;<br>
+24° regulier onderhoud: de preventieve en periodieke onderhoudswerken, gericht op het duurzaam in goede staat houden van een goed, die geen vervanging of wijziging van materiaal en uitvoeringstechniek impliceren en die geen negatieve impact op de erfgoedwaarde en geen impact op de bodem hebben;<br>
+25° toekenning: de officiële kennisgeving aan de premienemer van het ministerieel besluit waarbij het bedrag van de erfgoedpremie, aangevraagd volgens de bijzondere procedure, wordt vastgesteld;<br>
+26° uitvoerder: de natuurlijke persoon of rechtspersoon, die het beheer van of de werkzaamheden aan onroerend erfgoed en erfgoedlandschappen uitvoert;<br>
+27° voorafgaand onderzoek: elke vorm van voorbereidend onderzoek dat noodzakelijk is voor het kwaliteitsvolle beheer of de herwaardering van een beschermd goed of een erfgoedlandschap en waarvan verondersteld mag worden dat het buiten de gebruikelijke opdracht van een eventuele ontwerper valt, met inbegrip van de werkzaamheden die nodig zijn om dat onderzoek uit te voeren;<br>
+28° ZEN-erfgoed: beschermde onroerende goederen of onroerende goederen gelegen in een erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt, dat niet van dien aard is dat het economisch nut kan hebben, en dat uitdrukkelijk als dusdanig erkend is in de beslissing waarbij het beheersplan werd goedgekeurd.
 
 ## HOOFDSTUK 3 Instanties en actoren van het onroerenderfgoedbeleid
 
@@ -72,7 +116,19 @@ De presentiegelden en de reis- en maaltijdvergoedingen, vermeld in artikel   3.1
 
 ### ART. 3.2.1.
 
-<P>Om erkend te worden en te blijven als onroerenderfgoedgemeente moet de   onroerenderfgoedgemeente voldoen aan de volgende Vlaamse beleidsprioriteiten   inzake het onroerenderfgoedbeleid:<BR>1° de gemeente beschikt over een   onderbouwde beleidsvisie die het actief behoud van het onroerend erfgoed op haar   grondgebied voor ogen heeft en die complementair is aan het Vlaamse   onroerenderfgoedbeleid:<BR>a) de beleidsvisie is integraal en omvat dus een   visie op de zorg voor het archeologisch erfgoed, voor de monumenten en voor de   cultuurhistorische landschappen;<BR>b) de beleidsvisie is geïntegreerd en is dus   afgestemd met andere beleidsvelden die raakvlakken hebben met de   onroerenderfgoedzorg;<BR>c) de beleidsvisie houdt rekening met de noden van de   aanwezige onroerenderfgoedactoren;<BR>2° de gemeente ondersteunt de   vrijwilligerswerking die zich inzet voor het duurzame behoud en beheer en voor   de ontsluiting van het onroerend erfgoed op haar grondgebied en neemt acties om   een lokaal draagvlak voor de onroerenderfgoedzorg te creëren;<BR>3° de gemeente   neemt een voorbeeldfunctie op met betrekking tot het duurzame behoud en beheer   van het onroerend erfgoed in haar eigendom of onder haar beheer, en integreert   de visie op dat onroerend erfgoed in de beslissingen en plannen van de   gemeente;<BR>4° de gemeente bouwt met het oog op expertiseverwerving een   consultatienetwerk uit met de diensten en organisaties die betrokken zijn bij de   zorg voor het onroerend erfgoed en betrekt een door de gemeenteraad erkende   adviesraad, waarin de aanwezige onroerenderfgoedactoren vertegenwoordigd zijn,   bij de voorbereiding, de uitvoering en de evaluatie van hun gemeentelijke   onroerenderfgoedbeleid;<BR>5° de gemeente houdt de toelatingen, de adviezen en   de meldingen, afgeleverd in het kader van het Onroerenderfgoeddecreet van 12   juli 2013 en dit besluit, bij in een register dat digitaal raadpleegbaar is door   het agentschap.<BR></P>  <P>De minister kan de nadere vormvereisten voor het register, vermeld in het   eerste lid, 5°, bepalen.<BR></P>  <P>Als een gemeente voldoet aan de Vlaamse beleidsprioriteiten inzake het   onroerenderfgoedbeleid, voldoet de gemeente ook aan de voorwaarden om te worden   erkend als onroerenderfgoedgemeente. Om te voldoen aan de Vlaamse   beleidsprioriteiten kan een gemeente zich laten ondersteunen door een erkende   intergemeentelijke onroerenderfgoeddienst.<BR></P>
+<p>Om erkend te worden en te blijven als onroerenderfgoedgemeente moet de onroerenderfgoedgemeente voldoen aan de volgende Vlaamse beleidsprioriteiten inzake het onroerenderfgoedbeleid:<br>
+1° de gemeente beschikt over een onderbouwde beleidsvisie die het actief behoud van het onroerend erfgoed op haar grondgebied voor ogen heeft en die complementair is aan het Vlaamse onroerenderfgoedbeleid:<br>
+a) de beleidsvisie is integraal en omvat dus een visie op de zorg voor het archeologisch erfgoed, voor de monumenten en voor de cultuurhistorische landschappen;<br>
+b) de beleidsvisie is geïntegreerd en is dus afgestemd met andere beleidsvelden die raakvlakken hebben met de onroerenderfgoedzorg;<br>
+c) de beleidsvisie houdt rekening met de noden van de aanwezige onroerenderfgoedactoren;<br>
+2° de gemeente ondersteunt de vrijwilligerswerking die zich inzet voor het duurzame behoud en beheer en voor de ontsluiting van het onroerend erfgoed op haar grondgebied en neemt acties om een lokaal draagvlak voor de onroerenderfgoedzorg te creëren;<br>
+3° de gemeente neemt een voorbeeldfunctie op met betrekking tot het duurzame behoud en beheer van het onroerend erfgoed in haar eigendom of onder haar beheer, en integreert de visie op dat onroerend erfgoed in de beslissingen en plannen van de gemeente;<br>
+4° de gemeente bouwt met het oog op expertiseverwerving een consultatienetwerk uit met de diensten en organisaties die betrokken zijn bij de zorg voor het onroerend erfgoed en betrekt een door de gemeenteraad erkende adviesraad, waarin de aanwezige onroerenderfgoedactoren vertegenwoordigd zijn, bij de voorbereiding, de uitvoering en de evaluatie van hun gemeentelijke onroerenderfgoedbeleid;<br>
+5° de gemeente houdt de toelatingen, de adviezen, de bekrachtiging van de archeologienota's en de nota'sen de meldingen, afgeleverd in het kader van het Onroerenderfgoeddecreet van 12 juli 2013 en dit besluit, bij in een register dat digitaal raadpleegbaar is door het agentschap. De opname van een beslissing in het register gebeurt binnen een ordetermijn van tien dagen, die ingaat op de dag na de beslissing. De melding van het voornemen om een archeologisch vooronderzoek met ingreep in de bodem uit te voeren en in voorkomend geval de beslissing daarover wordt opgenomen in het register binnen een ordetermijn van tien dagen, die ingaat op de dag na het verstrijken van de termijn van vijftien dagen, vermeld in artikel 5.4.6, § 2, van het Onroerenderfgoeddecreet van 12 juli 2013.</p>
+
+<p>De minister kan de nadere vormvereisten voor het register, vermeld in het eerste lid, 5°, bepalen.</p>
+
+<p>Als een gemeente voldoet aan de Vlaamse beleidsprioriteiten inzake het onroerenderfgoedbeleid, voldoet de gemeente ook aan de voorwaarden om te worden erkend als onroerenderfgoedgemeente. Om te voldoen aan de Vlaamse beleidsprioriteiten kan een gemeente zich laten ondersteunen door een erkende intergemeentelijke onroerenderfgoeddienst.</p>
 
 ### ART. 3.2.2.
 
@@ -522,7 +578,7 @@ Het agentschap stelt op zijn website een formulier ter beschikking om de   wijzi
 
 ### ART. 5.2.3.
 
-Het agentschap stelt op zijn website een formulier ter beschikking voor de   melding van het voornemen om een archeologisch artefact of een archeologisch   ensemble buiten het Vlaamse Gewest te brengen.<BR><BR>De zakelijkrechthouder of   de gebruiker van een archeologisch artefact of een archeologisch ensemble wordt   vrijgesteld van de melding van het voornemen om het buiten het Vlaamse Gewest te   brengen als vermeld in artikel 5.2.3 van het Onroerenderfgoeddecreet van 12 juli   2013, als het zich maximaal vijf jaar buiten het Vlaamse Gewest zal bevinden en   als het buiten het Vlaamse Gewest gebracht wordt wegens educatieve,   wetenschappelijke of conservatiedoeleinden en als daarvoor een schriftelijke   overeenkomst wordt gesloten. De schriftelijke overeenkomst kan meermaals voor   een periode van maximaal vijf jaar worden hernieuwd. Bij hernieuwing van de   overeenkomst is evenmin een melding nodig.
+Het agentschap stelt op zijn website een formulier ter beschikking voor de melding van het voornemen om een archeologisch artefact of een archeologisch ensemble buiten het Vlaamse Gewest te brengen.
 
 ### ART. 5.2.4.
 
@@ -540,7 +596,11 @@ De minister stelt een code van goede praktijk vast voor de uitvoering van   en d
 
 ### ART. 5.4.1.
 
-De minister stelt, na mededeling aan de Vlaamse Regering, de gebieden vast   waar geen archeologisch erfgoed te verwachten valt, vermeld in artikel 5.4.1,   derde lid, 1°, en artikel 5.4.2, derde lid, van het Onroerenderfgoeddecreet van   12 juli 2013.<BR><BR>De gebieden waar geen archeologisch erfgoed te verwachten   valt, worden vastgesteld als een gegeorefereerd plan waarop die gebieden   nauwkeurig worden aangeduid. Dat gegeorefereerd plan wordt publiek toegankelijk   gemaakt op een GIS-laag op een website van het agentschap.<BR><BR>In het eerste   en tweede lid wordt verstaan onder gebieden waar geen archeologisch erfgoed te   verwachten valt: de gebieden waar op basis van waarnemingen en wetenschappelijke   argumenten onderbouwd kan worden dat ze met hoge waarschijnlijkheid geen   archeologische waarde hebben.
+De gebieden waar geen archeologisch erfgoed te verwachten valt, worden vastgesteld als een gegeorefereerd plan waarop die gebieden nauwkeurig worden aangeduid. Dat gegeorefereerd plan wordt publiek toegankelijk gemaakt op een GIS-laag op een website van het agentschap.<br>
+<br>
+Over de vaststelling van de gebieden waar geen archeologisch erfgoed te verwachten valt wordt zesmaandelijks gerapporteerd aan de Vlaamse Regering.<br>
+<br>
+In het eerste en tweede lid wordt verstaan onder gebieden waar geen archeologisch erfgoed te verwachten valt: de gebieden waar op basis van waarnemingen en wetenschappelijke argumenten onderbouwd kan worden dat ze met hoge waarschijnlijkheid geen archeologische waarde hebben.
 
 ## [Onderafdeling 2 Verplichtingen aangestelde erkende archeoloog - Archeologisch vooronderzoek met ingreep in de bodem (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
 
@@ -560,15 +620,39 @@ Als het agentschap of, in voorkomend geval, de erkende   onroerenderfgoedgemeent
 
 ### ART. 5.4.5.
 
-De archeologienota, opgemaakt overeenkomstig artikel 5.4.8 van het   Onroerenderfgoeddecreet van 12 juli 2013, bevat, naast de gegevens, vermeld in   het voormelde artikel, minstens de volgende bijkomende gegevens:<BR>1° de naam   en het adres van de initiatiefnemer;<BR>2° het erkenningsnummer van de erkende   archeoloog;<BR>3° de woonplaats of maatschappelijke zetel van de erkende   archeoloog;<BR>4° de aanleiding voor het archeologisch vooronderzoek;<BR>5° de   doelstellingen en de te beantwoorden onderzoeksvragen van het archeologisch   vooronderzoek;<BR>6° de uitvoeringswijze van het archeologisch   vooronderzoek;<BR>7° de naam van de andere personen dan de erkende archeoloog   die bij het archeologisch vooronderzoek betrokken zijn;<BR>8° de resultaten van   het archeologisch vooronderzoek, overeenkomstig de bepalingen daarover in de   code van goede praktijk;<BR>9° de volgende gegevens van de zakelijkrechthouder   en de gebruiker van het archeologisch ensemble dat het resultaat is van het   archeologisch vooronderzoek, of, in geval van rechtspersonen, de volgende   gegevens van de gemandateerden:<BR>a) de naam;<BR>b) het adres;<BR>c) het   rijksregisternummer of een ander uniek nationaal identificatienummer voor   natuurlijke personen;<BR>10° de bewaarplaats van het archeologisch ensemble dat   het resultaat is van het archeologisch vooronderzoek;<BR>11° plannen, kaarten,   tekeningen, foto's, lijsten, formulieren en ander illustratief materiaal,   noodzakelijk voor een goed begrip van de archeologienota.
+De archeologienota, opgemaakt overeenkomstig artikel 5.4.8 van het Onroerenderfgoeddecreet van 12 juli 2013, bevat, naast de gegevens, vermeld in het voormelde artikel, minstens de volgende bijkomende gegevens:<br>
+1° de naam en het adres van de initiatiefnemer;<br>
+2° het erkenningsnummer van de erkende archeoloog;<br>
+3° de woonplaats of maatschappelijke zetel van de erkende archeoloog;<br>
+4° de aanleiding voor het archeologisch vooronderzoek;<br>
+5° de doelstellingen en de te beantwoorden onderzoeksvragen van het archeologisch vooronderzoek;<br>
+6° de uitvoeringswijze van het archeologisch vooronderzoek;<br>
+7° de naam van de andere personen dan de erkende archeoloog die bij het archeologisch vooronderzoek betrokken zijn;<br>
+8° de resultaten van het archeologisch vooronderzoek, overeenkomstig de bepalingen daarover in de code van goede praktijk;<br>
+9° de volgende gegevens van de zakelijkrechthouder en de gebruiker van het archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek:<br>
+a) de naam;<br>
+b) het adres of de maatschappelijke zetel;<br>
+10° de bewaarplaats van het archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek;<br>
+11° plannen, kaarten, tekeningen, foto's, lijsten, formulieren en ander illustratief materiaal, noodzakelijk voor een goed begrip van de archeologienota.
 
 ### ART. 5.4.6.
 
-De archeologienota, opgemaakt overeenkomstig artikel 5.4.5 van het   Onroerenderfgoeddecreet van 12 juli 2013 bevat, naast de gegevens bepaald in   artikel 5.4.12, eerste lid, van het voormelde decreet, minstens de volgende   bijkomende gegevens:<BR>1° de aanleiding voor het archeologisch   vooronderzoek;<BR>2° de doelstellingen en de te beantwoorden onderzoeksvragen   van het archeologisch vooronderzoek zonder ingreep in de bodem;<BR>3° de   uitvoeringswijze van het archeologisch vooronderzoek zonder ingreep in de   bodem;<BR>4° een gegeorefereerd plan waarop de betrokken percelen, de precieze   plaats van het archeologisch vooronderzoek en de geplande werken nauwkeurig   worden afgelijnd;<BR>5° de naam van de andere personen dan de erkende archeoloog   die bij het archeologisch vooronderzoek zonder ingreep in de bodem betrokken   zijn;<BR>6° de resultaten van het archeologisch vooronderzoek zonder ingreep in   de bodem, overeenkomstig de bepalingen daarover in de code van goede   praktijk;<BR>7° de volgende gegevens van de zakelijkrechthouder en de gebruiker   van het archeologisch ensemble dat het resultaat is van het archeologisch   vooronderzoek zonder ingreep in de bodem, of, in geval van rechtspersonen, de   volgende gegevens van de gemandateerden:<BR>a) de naam;<BR>b) het adres;<BR>c)   het rijksregisternummer of een ander uniek nationaal identificatienummer voor   natuurlijke personen;<BR>8° de bewaarplaats van het archeologisch ensemble dat   het resultaat is van het archeologisch vooronderzoek zonder ingreep in de   bodem;<BR>9° plannen, kaarten, tekeningen, foto's, lijsten, formulieren en ander   illustratief materiaal, noodzakelijk voor een goed begrip van de   archeologienota.
+De archeologienota, opgemaakt overeenkomstig artikel 5.4.5 van het Onroerenderfgoeddecreet van 12 juli 2013 bevat, naast de gegevens bepaald in artikel 5.4.12, eerste lid, van het voormelde decreet, minstens de volgende bijkomende gegevens:<br>
+1° de aanleiding voor het archeologisch vooronderzoek;<br>
+2° de doelstellingen en de te beantwoorden onderzoeksvragen van het archeologisch vooronderzoek zonder ingreep in de bodem;<br>
+3° de uitvoeringswijze van het archeologisch vooronderzoek zonder ingreep in de bodem;<br>
+4° een gegeorefereerd plan waarop de betrokken percelen, de precieze plaats van het archeologisch vooronderzoek en de geplande werken nauwkeurig worden afgelijnd;<br>
+5° de naam van de andere personen dan de erkende archeoloog die bij het archeologisch vooronderzoek zonder ingreep in de bodem betrokken zijn;<br>
+6° de resultaten van het archeologisch vooronderzoek zonder ingreep in de bodem, overeenkomstig de bepalingen daarover in de code van goede praktijk;<br>
+7° de volgende gegevens van de zakelijkrechthouder en de gebruiker van het archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek zonder ingreep in de bodem:<br>
+a) de naam;<br>
+b) het adres of de maatschappelijke zetel;<br>
+8° de bewaarplaats van het archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek zonder ingreep in de bodem;<br>
+9° plannen, kaarten, tekeningen, foto's, lijsten, formulieren en ander illustratief materiaal, noodzakelijk voor een goed begrip van de archeologienota.
 
 ### ART. 5.4.7.
 
-Als het agentschap de archeologienota weigert of er voorwaarden aan   koppelt, kan de initiatiefnemer of de daartoe door hem aangestelde erkende   archeoloog een georganiseerd administratief beroep instellen bij de minister   volgens de procedure, vermeld in afdeling 6.
+Als het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente de archeologienota weigert of er voorwaarden aan koppelt, kan de initiatiefnemer of de daartoe door hem aangestelde erkende archeoloog een georganiseerd administratief beroep instellen bij de minister volgens de procedure, vermeld in afdeling 6.
 
 ## [Onderafdeling 4. Verplichtingen aangestelde erkende archeoloog - Uitvoering archeologienota waarvan akte is genomen (verv. BVR 14 december 2018, art. 54, I: 1 april 2019)]
 
@@ -580,11 +664,25 @@ De erkende archeoloog meldt de aanvang van het archeologisch vooronderzoek   met
 
 ### ART. 5.4.9.
 
-De nota, opgemaakt overeenkomstig artikel 5.4.16 van het   Onroerenderfgoeddecreet van 12 juli 2013, bevat, naast de gegevens, vermeld in   het voormelde artikel, de volgende bijkomende gegevens:<BR>1° de naam en het   adres van de initiatiefnemer;<BR>2° het erkenningsnummer van de erkende   archeoloog;<BR>3° de woonplaats of maatschappelijke zetel van de erkende   archeoloog;<BR>4° een gegeorefereerd plan waarop de betrokken percelen, de   precieze plaats van het archeologisch vooronderzoek en de geplande werken   nauwkeurig worden afgelijnd;<BR>5° de aanleiding voor het archeologisch   vooronderzoek;<BR>6° de doelstellingen en de te beantwoorden onderzoeksvragen   van het archeologisch vooronderzoek;<BR>7° de uitvoeringswijze van het   archeologisch vooronderzoek;<BR>8° de naam van de andere personen dan de erkende   archeoloog die bij het archeologisch vooronderzoek betrokken zijn;<BR>9° de   resultaten van het archeologisch vooronderzoek, overeenkomstig de bepalingen   daarover in de code van goede praktijk;<BR>10° de volgende gegevens van de   zakelijkrechthouder en de gebruiker van het archeologisch ensemble dat het   resultaat is van het archeologisch vooronderzoek, of, in geval van   rechtspersonen, de volgende gegevens van de gemandateerden:<BR>a) de naam;<BR>b)   het adres;<BR>c) het rijksregisternummer of een ander uniek nationaal   identificatienummer voor natuurlijke personen;<BR>11° de bewaarplaats van het   archeologisch ensemble dat het resultaat is van het archeologisch   vooronderzoek;<BR>12° plannen, kaarten, tekeningen, foto's, lijsten, formulieren   en ander illustratief materiaal, noodzakelijk voor een goed begrip van de   archeologienota.
+De nota, opgemaakt overeenkomstig artikel 5.4.16 van het Onroerenderfgoeddecreet van 12 juli 2013, bevat, naast de gegevens, vermeld in het voormelde artikel, de volgende bijkomende gegevens:<br>
+1° de naam en het adres van de initiatiefnemer;<br>
+2° het erkenningsnummer van de erkende archeoloog;<br>
+3° de woonplaats of maatschappelijke zetel van de erkende archeoloog;<br>
+4° een gegeorefereerd plan waarop de betrokken percelen, de precieze plaats van het archeologisch vooronderzoek en de geplande werken nauwkeurig worden afgelijnd;<br>
+5° de aanleiding voor het archeologisch vooronderzoek;<br>
+6° de doelstellingen en de te beantwoorden onderzoeksvragen van het archeologisch vooronderzoek;<br>
+7° de uitvoeringswijze van het archeologisch vooronderzoek;<br>
+8° de naam van de andere personen dan de erkende archeoloog die bij het archeologisch vooronderzoek betrokken zijn;<br>
+9° de resultaten van het archeologisch vooronderzoek, overeenkomstig de bepalingen daarover in de code van goede praktijk;<br>
+10° de volgende gegevens van de zakelijkrechthouder en de gebruiker van het archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek:<br>
+a) de naam;<br>
+b) het adres of de maatschappelijke zetel;<br>
+11° de bewaarplaats van het archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek;<br>
+12° plannen, kaarten, tekeningen, foto's, lijsten, formulieren en ander illustratief materiaal, noodzakelijk voor een goed begrip van de archeologienota.
 
 ### ART. 5.4.10.
 
-Als het agentschap de nota weigert of er voorwaarden aan koppelt, kan de   initiatiefnemer of de daartoe door hem aangestelde erkende archeoloog een   georganiseerd administratief beroep instellen bij de minister volgens de   procedure, vermeld in afdeling 6.
+Als het agentschap&nbsp;of in voorkomend geval de erkende onroerenderfgoedgemeente de nota weigert of er voorwaarden aan koppelt, kan de initiatiefnemer of de daartoe door hem aangestelde erkende archeoloog een georganiseerd administratief beroep instellen bij de minister volgens de procedure, vermeld in afdeling 6.
 
 ## [Onderafdeling 6 Verplichtingen vergunningsverlener - Afwijkende vergunde werken (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
 
@@ -602,7 +700,13 @@ De melding van de aanvang van de archeologische opgraving, vermeld in   artikel 
 
 ### ART. 5.4.13.
 
-Het agentschap bezorgt de bekrachtigde archeologienota en de bekrachtigde   nota in voorkomend geval aan de erkende onroerenderfgoedgemeente en de erkende   intergemeentelijke onroerenderfgoeddienst. Het agentschap stelt de resultaten   van het archeologisch vooronderzoek publiek beschikbaar op zijn   website.
+De erkende onroerenderfgoedgemeente bezorgt de archeologienota's en nota's die ze bekrachtigt aan het agentschap en in voorkomend geval aan de erkende intergemeentelijke onroerenderfgoeddienst waar ze deel van uitmaakt.<br>
+<br>
+Het agentschap bezorgt de archeologienota's en nota's die het bekrachtigt in voorkomend geval aan de erkende intergemeentelijke onroerenderfgoeddienst.<br>
+<br>
+Als de archeologienota of de nota betrekking heeft op percelen die op het grondgebied van verschillende gemeenten liggen, bezorgt het agentschap de bekrachtigde archeologienota of nota aan de erkende onroerenderfgoedgemeente.<br>
+<br>
+Het agentschap stelt de resultaten van het archeologisch vooronderzoek publiek beschikbaar op zijn website.
 
 ### ART. 5.4.14.
 
@@ -708,7 +812,9 @@ In de voorlopige en definitieve beschermingsbesluiten voor monumenten,   cultuur
 
 ### ART. 6.2.2.
 
-Er is geen toelating vereist voor de uitvoering van handelingen aan of in   beschermde goederen, als die handelingen uitdrukkelijk van toelating zijn   vrijgesteld in een daarvoor opgestelde lijst die bij een overeenkomstig artikel   8.1.1 van het Onroerenderfgoeddecreet van 12 juli 2013 goedgekeurd beheersplan   hoort.<BR>
+Er is geen toelating vereist voor de uitvoering van handelingen aan of in beschermde goederen, als die handelingen uitdrukkelijk van toelating zijn vrijgesteld in een daarvoor opgestelde lijst die bij een overeenkomstig artikel 8.1.1 van het Onroerenderfgoeddecreet van 12 juli 2013 goedgekeurd beheersplan hoort.<br>
+<br>
+Als een toelating vereist is voor de uitvoering van handelingen aan of in beschermde goederen die niet uitdrukkelijk van toelating zijn vrijgesteld in een daarvoor opgestelde lijst die bij een overeenkomstig artikel 8.1.1 of artikel 8.1.3 van het Onroerenderfgoeddecreet van 12 juli 2013 goedgekeurd beheersplan hoort, is een motivering die voortbouwt op het goedgekeurde beheersplan verplicht.
 
 ## Onderafdeling 2 Generieke toelatingsplichten voor beschermde monumenten, beschermde cultuurhistorische landschappen en beschermde archeologische sites
 
@@ -726,7 +832,30 @@ De volgende handelingen aan of in beschermde monumenten, beschermde   cultuurhis
 
 ### ART. 6.2.5.
 
-<P>Voor de volgende handelingen aan of in beschermde stads- en dorpsgezichten   geldt de procedure van artikel 6.3.12 van dit besluit:<BR>1° ...;<BR>2° het   verwijderen, vervangen, wijzigen of verstevigen van constructieve   elementen;<BR>3° het uitvoeren van de volgende werken aan het dak en de   buitenmuren van constructies:<BR>a) het verwijderen, vervangen of wijzigen van   dakbedekking en gootconstructies;<BR>b) het aanbrengen, verwijderen, vervangen   of wijzigen van de kleur, textuur of samenstelling van de afwerkingslagen;<BR>c)   het aanbrengen, verwijderen, vervangen of wijzigen van buitenschrijnwerken,   deuren, ramen, luiken, poorten, inclusief de al dan niet figuratieve beglazing,   beslag, hang- en sluitwerk;<BR>d) het aanbrengen, verwijderen, vervangen of   wijzigen van aard- en nagelvaste elementen, smeedijzer en beeldhouwwerk,   inclusief nieuwe toevoegingen;<BR>e) het aanbrengen, vervangen of wijzigen van   opschriften, publiciteitsinrichtingen of uithangborden, met uitzondering van   verkiezingspubliciteit en met uitzondering van publiciteitsinrichtingen, waarbij   wordt bekendgemaakt dat het goed te koop of te huur is, op voorwaarde dat de   totale maximale oppervlakte niet meer bedraagt dan 4 m²;<BR>4° het uitvoeren van   de volgende omgevingswerken:<BR>a) het plaatsen of wijzigen van bovengrondse   nutsvoorzieningen en leidingen;<BR>b) het plaatsen of wijzigen van afsluitingen,   met uitzondering van gladde schrikdraad en prikkeldraad ten behoeve van   veekering;<BR>c) het aanleggen, wijzigen of verwijderen van wegen en   paden;<BR>d) het vellen of beschadigen van bomen en struiken die opgenomen zijn   in het beschermingsbesluit of in een goedgekeurd beheersplan, en elke handeling   die een wijziging van de groeiplaats en groeivorm van de bomen en de struiken   die opgenomen zijn in het beschermingsbesluit of in een goedgekeurd beheersplan   tot gevolg kan hebben;<BR>e) het aanleggen of wijzigen van verharding met een   minimale gezamenlijke grondoppervlakte van 30 m² of het uitbreiden van bestaande   verhardingen met minimaal 30 m², met uitzondering van verhardingen geplaatst   binnen een straal van 30 meter rond een vergund of een vergund geacht   gebouw;<BR>f) het plaatsen of wijzigen van straatmeubilair, met uitzondering van   niet-aard- en niet-nagelvaste elementen en verkeersborden vermeld in artikel 65   van het Koninklijk Besluit van 1 december 1975 houdende algemeen reglement op de   politie van het wegverkeer en van het gebruik van de openbare weg;<BR>g) het   aanleggen van sport- en spelinfrastructuur of parkeerplaatsen;<BR>h) het   fundamenteel en structureel wijzigen van de aanleg van historische tuinen en   parken en begraafplaatsen;<BR>5° de aanmerkelijke reliëfwijziging van de   bodem;<BR>6° elke handeling die een aanzienlijke wijziging van de   landschapskenmerken tot gevolg heeft, met uitzondering van cultuurgewassen,   onder meer voor de landbouw, en tuinbeplanting.<BR><BR>In het eerste lid wordt   verstaan onder aard- en nagelvast: duurzaam met de grond of met gebouwen of   constructies verenigd.<BR><BR>Als voor de handelingen, vermeld in het eerste   lid, ook een toelating vereist is omwille van een bescherming als monument,   cultuurhistorisch landschap of archeologische site, geldt de meldingsprocedure,   vermeld in artikel 6.3.12, niet.<BR><BR>Voor de hele of gedeeltelijke sloop, het   optrekken, het plaatsen of het herbouwen van een gebouw of een constructie in   een beschermd stads- of dorpsgezicht moet een toelating gevraagd worden   overeenkomstig artikel 6.3.2 tot en met 6.3.11.</P>
+<p>Voor de volgende handelingen aan of in beschermde stads- en dorpsgezichten geldt de procedure van artikel 6.3.12 van dit besluit:<br>
+1° ...;<br>
+2° het verwijderen, vervangen, wijzigen of verstevigen van constructieve elementen;<br>
+3° het uitvoeren van de volgende werken aan het dak en de buitenmuren van constructies:<br>
+a) het verwijderen, vervangen of wijzigen van dakbedekking en gootconstructies;<br>
+b) het aanbrengen, verwijderen, vervangen of wijzigen van de kleur, textuur of samenstelling van de afwerkingslagen;<br>
+c) het aanbrengen, verwijderen, vervangen of wijzigen van buitenschrijnwerken, deuren, ramen, luiken, poorten, inclusief de al dan niet figuratieve beglazing, beslag, hang- en sluitwerk;<br>
+d) het aanbrengen, verwijderen, vervangen of wijzigen van aard- en nagelvaste elementen, smeedijzer en beeldhouwwerk, inclusief nieuwe toevoegingen;<br>
+e) het aanbrengen, vervangen of wijzigen van opschriften, publiciteitsinrichtingen of uithangborden, met uitzondering van verkiezingspubliciteit en met uitzondering van publiciteitsinrichtingen, waarbij wordt bekendgemaakt dat het goed te koop of te huur is, op voorwaarde dat de totale maximale oppervlakte niet meer bedraagt dan 4 m²;<br>
+4° het uitvoeren van de volgende omgevingswerken:<br>
+a) het plaatsen of wijzigen van bovengrondse nutsvoorzieningen en leidingen;<br>
+b) het plaatsen of wijzigen van afsluitingen, met uitzondering van gladde schrikdraad en prikkeldraad ten behoeve van veekering;<br>
+c) het aanleggen, wijzigen of verwijderen van wegen en paden;<br>
+d) het vellen of beschadigen van bomen en struiken die opgenomen zijn in het beschermingsbesluit of in een goedgekeurd beheersplan, en elke handeling die een wijziging van de groeiplaats en groeivorm van de bomen en de struiken die opgenomen zijn in het beschermingsbesluit of in een goedgekeurd beheersplan tot gevolg kan hebben;<br>
+e) het aanleggen of wijzigen van verharding met een minimale gezamenlijke grondoppervlakte van 30 m² of het uitbreiden van bestaande verhardingen met minimaal 30 m², met uitzondering van verhardingen geplaatst binnen een straal van 30 meter rond een vergund of een vergund geacht gebouw;<br>
+f) het plaatsen of wijzigen van straatmeubilair, met uitzondering van niet-aard- en niet-nagelvaste elementen en verkeersborden vermeld in artikel 65 van het Koninklijk Besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg;<br>
+g) het aanleggen van sport- en spelinfrastructuur of parkeerplaatsen;<br>
+h) het fundamenteel en structureel wijzigen van de aanleg van historische tuinen en parken en begraafplaatsen;<br>
+5° de aanmerkelijke reliëfwijziging van de bodem;<br>
+6° elke handeling die een aanzienlijke wijziging van de landschapskenmerken tot gevolg heeft, met uitzondering van cultuurgewassen, onder meer voor de landbouw, en tuinbeplanting.<br>
+<br>
+In het eerste lid wordt verstaan onder aard- en nagelvast: duurzaam met de grond of met gebouwen of constructies verenigd.<br>
+<br>
+Als voor de handelingen, vermeld in het eerste lid, ook een toelating vereist is omwille van een bescherming als monument, cultuurhistorisch landschap of archeologische site, geldt de meldingsprocedure, vermeld in artikel 6.3.12, niet.</p>
 
 ## Onderafdeling 5 Specifieke toelatingsplichten voor beschermde cultuurhistorische landschappen
 
@@ -786,7 +915,15 @@ De volgende handelingen aan als monument beschermde uurwerken kunnen niet   word
 
 ### ART. 6.3.2.
 
-<P>De aanvraag van een toelating voor handelingen aan of in beschermde goederen   waarvoor met toepassing van de VCRO, het decreet van 28 juni 1985 betreffende de   milieuvergunning, het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober   1997 betreffende het natuurbehoud en het natuurlijk milieu geen vergunning,   toelating, machtiging, ontheffing of afwijking hoeft te worden aangevraagd,   wordt per beveiligde zending ingediend bij het agentschap of, in voorkomend   geval, bij het college van burgemeester en schepenen van de erkende   onroerenderfgoedgemeente waar het beschermde goed ligt.<BR></P>  <P>De aanvraag bestaat minstens uit de volgende elementen:<BR>1° de   contactgegevens van de aanvrager;<BR>2° een nauwkeurige beschrijving van de   werken en de noodzaak ervan, de uitvoeringstechniek en het te gebruiken   materiaal, eventueel vergezeld van een technische fiche, de huidige staat van   het goed en de precieze plaats waar de werken zullen worden uitgevoerd,   aangevuld met tekeningen of plannen, een situeringsplan en fotomateriaal van de   bestaande toestand;<BR>3° de vermelding van de vermoedelijke datum van het begin   en het einde van de werken.<BR></P>  <P>Het agentschap stelt daarvoor een modelformulier ter beschikking op zijn   website.<BR></P>
+<p>De aanvraag van een toelating voor handelingen aan of in beschermde goederen waarvoor met toepassing van de VCRO, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu geen vergunning, toelating, machtiging, ontheffing of afwijking hoeft te worden aangevraagd, wordt per beveiligde zending ingediend bij het agentschap of, in voorkomend geval, bij het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente waar het beschermde goed ligt.</p>
+
+<p>De aanvraag bestaat minstens uit de volgende elementen:<br>
+1° de contactgegevens van de aanvrager;<br>
+2° een nauwkeurige beschrijving van de handelingen en de noodzaak ervan, de uitvoeringstechniek en het te gebruiken materiaal, eventueel vergezeld van een technische fiche, de huidige staat van het goed en de precieze plaats waar de handelingen zullen worden uitgevoerd, aangevuld met tekeningen of plannen, een situeringsplan en fotomateriaal van de bestaande toestand;<br>
+3° de vermelding van de vermoedelijke datum van het begin en het einde van de handelingen;<br>
+4° in voorkomend geval een motivering van de handelingen aan of in beschermde goederen die voortbouwt op het goedgekeurde beheersplan.</p>
+
+<p>Het agentschap stelt daarvoor een modelformulier ter beschikking op zijn website.</p>
 
 ### ART. 6.3.3.
 
@@ -826,7 +963,19 @@ Een afschrift van de toelating of kennisgeving van de stilzwijgende   beslissing
 
 ### ART. 6.3.12.
 
-<P>Voor handelingen aan of in beschermde stads- of dorpsgezichten, zoals vermeld   in artikel 6.2.5 of het beschermingsbesluit, wordt per beveiligde zending bij   het college van burgemeester en schepenen een melding ingediend. Deze   handelingen mogen worden aangevat vanaf de twintigste dag na de datum van de   melding, behalve als het college van burgemeester en schepenen de aanmelder   voordien per beveiligde zending op de hoogte brengt dat de aangemelde   handelingen van aard zijn om de wezenlijke eigenschappen van het beschermde   stads- of dorpsgezicht te verstoren. In dat geval kunnen de handelingen slechts   worden aangevat nadat het agentschap of in voorkomend geval de erkende   onroerenderfgoedgemeente een toelating heeft verleend. De aanvraag van de   toelating door de aanmelder en de behandeling ervan gebeurt overeenkomstig   artikel 6.3.2 tot en met 6.3.11.<BR></P>  <P>Het college van burgemeester en schepenen kan niet oordelen dat aangemelde   handelingen van aard zijn om de wezenlijke eigenschappen van een beschermd   stads- of dorpsgezicht te verstoren indien deze werken niet zichtbaar zijn vanaf   een openbare weg of opgenomen in de daartoe opgestelde lijst van werken horende   bij een overeenkomstig artikel 8.1.1 van het Onroerenderfgoeddecreet van 12 juli   2013 goedgekeurd beheersplan. De melding bestaat minstens uit:<BR>1° een   nauwkeurige beschrijving van de werken;<BR>2° de aanwijzing van de precieze   plaats waar de werken zullen worden uitgevoerd;<BR>3° de vermelding van de   vermoedelijke datum van het begin en het einde van de werken.<BR></P>  <P>Als het mogelijk is, wordt de melding aangevuld met tekeningen of   foto's.<BR></P>  <P>De melding wordt in voorkomend geval geïntegreerd in de stedenbouwkundige   melding, vermeld in artikel 4.2.2 van de VCRO.<BR></P>
+<p>Voor handelingen aan of in beschermde stads- of dorpsgezichten, zoals vermeld in artikel 6.2.5 of het beschermingsbesluit, wordt per beveiligde zending bij het college van burgemeester en schepenen een melding ingediend. Deze handelingen mogen worden aangevat vanaf de twintigste dag na de datum van de melding, behalve als het college van burgemeester en schepenen de aanmelder voordien per beveiligde zending op de hoogte brengt dat de aangemelde handelingen van aard zijn om de wezenlijke eigenschappen van het beschermde stads- of dorpsgezicht te verstoren. In dat geval kunnen de handelingen slechts worden aangevat nadat het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente een toelating heeft verleend. De aanvraag van de toelating door de aanmelder en de behandeling ervan gebeurt overeenkomstig artikel 6.3.2 tot en met 6.3.11.</p>
+
+<p>Het college van burgemeester en schepenen kan niet oordelen dat aangemelde handelingen van aard zijn om de wezenlijke eigenschappen van een beschermd stads- of dorpsgezicht te verstoren indien deze handelingen niet zichtbaar zijn vanaf een openbare weg of opgenomen in de daartoe opgestelde lijst van handelingen horende bij een overeenkomstig artikel 8.1.1 van het Onroerenderfgoeddecreet van 12 juli 2013 goedgekeurd beheersplan. De melding bestaat minstens uit:<br>
+1° een nauwkeurige beschrijving van de handelingen;<br>
+2° de aanwijzing van de precieze plaats waar de handelingen zullen worden uitgevoerd;<br>
+3° de vermelding van de vermoedelijke datum van het begin en het einde van de handelingen;<br>
+4° in voorkomend geval een motivering van de handelingen aan of in beschermde goederen die voortbouwt op het goedgekeurde beheersplan.</p>
+
+<p>Als het mogelijk is, wordt de melding aangevuld met tekeningen of foto's.</p>
+
+<p>De melding wordt in voorkomend geval geïntegreerd in de stedenbouwkundige melding, vermeld in artikel 4.2.2 van de VCRO.<br>
+<br>
+Voor de gehele of gedeeltelijke sloop, het optrekken, het plaatsen of het herbouwen van een gebouw of een constructie in een beschermd stads- of dorpsgezicht moet een toelating gevraagd worden overeenkomstig artikel 6.3.2 tot en met 6.3.11.</p>
 
 ## Onderafdeling 2 Beroepsprocedure
 
@@ -962,31 +1111,70 @@ De Vlaamse Regering kan per thema of gebied een onroerenderfgoedrichtplan   opst
 
 ### ART. 8.1.2.
 
-<P>Voor er gestart wordt met de opmaak van een beheersplan, dient de   zakelijkrechthouder, de gebruiker of de gevolmachtigde een aanvraag tot opmaak   in bij het agentschap.<BR></P>  <P>De aanvraag, vermeld in het eerste lid, bevat de volgende elementen:<BR>1° de   identificatiegegevens van de zakelijkrechthouder, de gebruiker en in voorkomend   geval, van de gevolmachtigde. De gevolmachtigde voegt bij de aanvraag een   geschreven volmacht;<BR>2° de identificatie en grafische afbakening van het   onroerend erfgoed of erfgoedlandschap of van het deel ervan dat een   opzichzelfstaand geheel vormt, waarvoor het nodige beheersplan zal worden   opgesteld;<BR>3° een beknopte omschrijving van de visie op het beheer;<BR>4° een   voorstel van de ontwerper die het beheersplan zal opstellen, waaruit blijkt dat   hij beschikt over de noodzakelijke deskundigheid die relevant is voor de opmaak   van het desbetreffende beheersplan;<BR>5° als het beheersplan betrekking heeft   op verschillende zakelijkrechthouders of gebruikers, een voorstel over hoe de   participatie in en communicatie over de opmaak van het beheersplan zal   verlopen;<BR>6° als de aanvraag wordt ingediend door een gebruiker, het   schriftelijk akkoord van de zakelijkrechthouders;<BR>7° als de aanvraag wordt   ingediend door een zakelijkrechthouder of een gevolmachtigde, een stuk waaruit   blijkt dat, in voorkomend geval, de gebruikers op de hoogte werden gebracht van   het voornemen om een beheersplan op te stellen.<BR></P>
+...
 
 ## Onderafdeling 3 Goedkeuring van de aanvraag tot opmaak
 
 ### ART. 8.1.3.
 
-<P>&nbsp;Het agentschap onderzoekt de aanvraag tot opmaak en neemt een   beslissing daarover binnen een termijn van negentig dagen, die ingaat op de dag   na de aanvraag.<BR></P>  <P>Als er binnen de afbakening vermeld in artikel 8.1.2, tweede lid, 2°, van dit   besluit, zones voorkomen met habitats die beschermd zijn met toepassing van het   decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk   milieu, of als het onroerend erfgoed of erfgoedlandschap geheel of gedeeltelijk   ligt in het Vlaams Ecologisch Netwerk of een speciale beschermingszone in   toepassing van het voormelde decreet, vraagt het agentschap voorafgaand aan de   beslissing over de ontvankelijkheid een advies aan het Agentschap voor Natuur en   Bos over de voorgestelde visie op het beheer. Dat advies wordt verleend binnen   een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de   adviesaanvraag. Als deze termijn wordt overschreden, kan aan de adviesvereiste   worden voorbijgegaan.<BR></P>  <P>Het agentschap brengt de beslissing over de goedkeuring ter kennis per   beveiligde zending van de indiener van de aanvraag en in voorkomend geval van de   zakelijkrechthouder of gebruiker. Het agentschap brengt ook de gemeente(s) of   intergemeentelijke onroerenderfgoeddienst(en) op het grondgebied waarvan het   onroerend erfgoed of erfgoedlandschap, of een deel ervan dat een   opzichzelfstaand geheel vormt, ligt, op de hoogte van de beslissing, waarbij een   aanvraag tot opmaak goedgekeurd wordt.<BR></P>  <P>Het agentschap deelt in de beslissing tot goedkeuring ook mee welke   bijkomende elementen het beheersplan moet bevatten naast de elementen, vermeld   in artikel 8.1.4 van dit besluit.<BR></P>  <P>Als het agentschap geen beslissing neemt binnen de daarvoor vastgelegde   termijn, wordt de aanvraag geacht niet goedgekeurd te   zijn.<BR></P>
+...
 
 ## Onderafdeling 4 Opmaak
 
 ### ART. 8.1.4.
 
-<P>§ 1. Het beheersplan moet een betekenisvolle meerwaarde voor het onroerend   erfgoed of het erfgoedlandschap of voor een deel ervan dat een opzichzelfstaand   geheel vormt, beogen en bevat ten minste de volgende elementen:<BR>1° de   identificatie en het kadasterplan met de afbakening van het onroerend erfgoed of   erfgoedlandschap of van het deel ervan dat een opzichzelfstaand geheel vormt,   waarvoor het beheersplan wordt opgesteld;<BR>2° een historische nota, die op   basis van geschreven of iconografische bronnen en van archeologische of   natuurwetenschappelijke bevindingen of sporen een helder inzicht geeft in de   totstandkoming en ontwikkeling van het onroerend erfgoed of erfgoedlandschap   vanaf zijn ontstaan tot de huidige toestand;<BR>3° een inventarisatie van de   erfgoedelementen binnen de afbakening. De huidige toestand wordt geïllustreerd   met recente plannen en foto's die een duidelijk beeld geven van het onroerend   erfgoed of erfgoedlandschap, of van het deel ervan dat een opzichzelfstaand   geheel vormt;<BR>4° de situering en de beschrijving van de erfgoedwaarden en de   juridische toestand van het onroerend erfgoed of het erfgoedlandschap of van het   deel ervan dat een opzichzelfstaand geheel vormt, waarop het beheersplan   betrekking heeft;<BR>5° een onderbouwde visie op het beheer van het onroerend   erfgoed of erfgoedlandschap of van het deel ervan dat een opzichzelfstaand   geheel vormt en de beheersdoelstellingen die eruit voortvloeien;<BR>6° de   opsomming en verantwoording van de concrete richtlijnen, eenmalige en   terugkerende maatregelen en werkzaamheden die nodig zijn om de beoogde   beheersdoelstellingen te bereiken;<BR>7° een voorstel voor de manier en het   tijdstip waarop de beoogde beheersdoelstellingen opgevolgd en geëvalueerd zullen   worden.<BR></P>  <P>De visie op het beheer, de beheersdoelstellingen en de richtlijnen, de   maatregelen en de werkzaamheden moet in voorkomend geval in overeenstemming zijn   met de geldende wet-, decreet- en regelgeving.<BR><BR>§&nbsp;2. In voorkomend   geval wordt in een afzonderlijk deel van het beheersplan aangetoond dat voldaan   is aan de voorwaarden van open erfgoed, vermeld in artikel 8.4.1.<BR><BR>Als het   aangewezen is om af te wijken van de openstellingsvoorwaarden, vermeld in   artikel 8.4.1, 5°, wordt in dat onderdeel van het beheersplan een motivatie   daarvoor opgenomen.</P>
+<p>§ 1. Het beheersplan moet een betekenisvolle meerwaarde voor het onroerend erfgoed of het erfgoedlandschap of voor een deel ervan dat een opzichzelfstaand geheel vormt, beogen en bevat ten minste de volgende elementen:<br>
+1° de identificatie en het kadasterplan met de afbakening van het onroerend erfgoed of erfgoedlandschap of van het deel ervan dat een opzichzelfstaand geheel vormt, waarvoor het beheersplan wordt opgesteld;<br>
+2° een historische nota, die op basis van geschreven of iconografische bronnen en van archeologische of natuurwetenschappelijke bevindingen of sporen een helder inzicht geeft in de totstandkoming en ontwikkeling van het onroerend erfgoed of erfgoedlandschap vanaf zijn ontstaan tot de huidige toestand;<br>
+3° een inventarisatie van de erfgoedelementen binnen de afbakening. De huidige toestand wordt geïllustreerd met recente plannen en foto's die een duidelijk beeld geven van het onroerend erfgoed of erfgoedlandschap, of van het deel ervan dat een opzichzelfstaand geheel vormt;<br>
+4° de situering en de beschrijving van de erfgoedwaarden en de juridische toestand van het onroerend erfgoed of het erfgoedlandschap of van het deel ervan dat een opzichzelfstaand geheel vormt, waarop het beheersplan betrekking heeft;<br>
+5° een onderbouwde visie op het beheer van het onroerend erfgoed of erfgoedlandschap of van het deel ervan dat een opzichzelfstaand geheel vormt en de beheersdoelstellingen die eruit voortvloeien;<br>
+6° de opsomming en verantwoording van de concrete richtlijnen, eenmalige en terugkerende maatregelen en werkzaamheden die nodig zijn om de beoogde beheersdoelstellingen te bereiken;<br>
+7° een voorstel voor de manier en het tijdstip waarop de beoogde beheersdoelstellingen opgevolgd en geëvalueerd zullen worden;<br>
+8° in voorkomend geval een voorstel voor ZEN-erfgoed;<br>
+9° in voorkomend geval een voorstel van handelingen aan of in beschermde goederen die vrijgesteld zijn van toelating of melding;<br>
+10° als het beheersplan betrekking heeft op verschillende zakelijkrechthouders of gebruikers, een overzicht van hoe de participatie en communicatie over de opmaak van het beheersplan is verlopen.</p>
+
+<p>De visie op het beheer, de beheersdoelstellingen en de richtlijnen, de maatregelen en de werkzaamheden moet in voorkomend geval in overeenstemming zijn met de geldende wet-, decreet- en regelgeving.<br>
+<br>
+§&nbsp;2. In voorkomend geval wordt in een afzonderlijk deel van het beheersplan aangetoond dat voldaan is aan de voorwaarden van open erfgoed, vermeld in artikel 8.4.1.<br>
+<br>
+Als het aangewezen is om af te wijken van de openstellingsvoorwaarden, vermeld in artikel 8.4.1, 5°, wordt in dat onderdeel van het beheersplan een motivatie daarvoor opgenomen.</p>
 
 ## Onderafdeling 5 Indiening
 
 ### ART. 8.1.5.
 
-Een beheersplan wordt in twee papieren exemplaren en digitaal ingediend   bij het agentschap.<BR>
+Een beheersplan wordt in twee papieren exemplaren en digitaal ingediend bij het agentschap. Bij de indiening van het beheersplan worden de volgende gegevens of bijlagen gevoegd:<br>
+1° de identificatiegegevens van de zakelijkrechthouder en, in voorkomend geval, van de gebruiker of de gevolmachtigde;<br>
+2° als het beheersplan wordt ingediend door een gevolmachtigde, een geschreven volmacht;<br>
+3° als het beheersplan wordt ingediend door een gebruiker, het schriftelijk akkoord van de zakelijkrechthouders
 
 ## Onderafdeling 6 Goedkeuringsprocedure
 
 ### ART. 8.1.6.
 
-<P>§ 1. Als er binnen de afbakening vermeld in artikel 8.1.4, eerste lid, 1°,   van dit besluit, zones voorkomen met habitats die beschermd zijn met toepassing   van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu, of als het onroerend erfgoed of erfgoedlandschap geheel of   gedeeltelijk ligt in het Vlaams Ecologisch Netwerk of een speciale   beschermingszone met toepassing van hetzelfde decreet, vraagt het agentschap   voorafgaand aan de beslissing over de goedkeuring van het beheersplan een advies   aan het Agentschap voor Natuur en Bos over de voorgestelde beheersdoelstellingen   en de richtlijnen, de maatregelen en de werkzaamheden. Dat advies wordt verleend   binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de   adviesaanvraag. Als die termijn wordt overschreden, kan aan de adviesvereiste   worden voorbijgegaan.<BR></P>  <P>§ 2. Na onderzoek van het beheersplan beslist het agentschap binnen een   termijn van negentig dagen, die ingaat op de dag na de ontvangst van het   beheersplan over de goedkeuring van het beheersplan. De beslissing wordt per   beveiligde zending ter kennis gebracht van de aanvrager.<BR></P>  <P>Het agentschap kan in de beslissing tot goedkeuring voorwaarden opleggen voor   de uitvoering en de opvolging van het beheersplan. Het agentschap kan in de   beslissing tot goedkeuring het onroerend erfgoed of voor een deel ervan dat een   opzichzelfstaand geheel vormt, erkennen als open erfgoed of als   ZEN-erfgoed.<BR></P>  <P>Als het beheersplan een voorstel van werken die vrijgesteld zijn van melding   of toelating, een voorstel van ZEN-erfgoed of een voorstel van open erfgoed   bevat, wordt ook de beslissing daarover meegedeeld.<BR></P>  <P>Als het beheersplan onvolledig is bevonden, of het duurzame behoud en beheer   van erfgoedwaarden onvoldoende garandeert, meldt het agentschap om welke redenen   en in welke zin, het beheersplan moet worden aangepast om voor goedkeuring in   aanmerking te komen.<BR></P>  <P>§ 3. Een aangepast beheersplan kan ingediend worden bij het agentschap binnen   een termijn van negentig dagen, die ingaat op de dag na de ontvangst van de   melding vermeld in paragraaf 2, vierde lid. Het aangepaste beheersplan moet   tegemoet komen aan de voorgestelde wijzigingen, vermeld in paragraaf 2, vierde   lid. Een aanpassing van het beheersplan kan bovendien alleen met betrekking tot   de voorgestelde wijzigingen en kan de oppervlakte van het gebied waarop het   betrekking heeft, niet uitbreiden.<BR></P>  <P>Als het aangepaste beheersplan tegemoetkomt aan de voorgestelde wijzigingen,   beslist het agentschap tot de goedkeuring van het beheersplan. Als het   aangepaste beheersplan niet tegemoet komt aan de voorgestelde wijzigingen,   vermeld in paragraaf 2, vierde lid, of als er binnen de termijn van negentig   dagen, vermeld in het eerste lid, geen aangepast beheersplan is ingediend, keurt   het agentschap het beheersplan af. Het agentschap beslist binnen een termijn van   dertig dagen, die ingaat op de dag na de ontvangst van het aangepaste   beheersplan.<BR></P>  <P>De beslissing tot goedkeuring of tot afkeuring wordt per beveiligde zending   ter kennis gebracht van de aanvrager.<BR></P>  <P>§ 4. Het agentschap brengt ook de gemeente(s) of intergemeentelijke   onroerenderfgoeddienst(en) op het grondgebied waarvan het onroerend erfgoed of   erfgoedlandschap, of een deel ervan dat een opzichzelfstaande entiteit vormt,   ligt, schriftelijk op de hoogte van de beslissing tot goedkeuring of tot   afkeuring. Het agentschap brengt ook het Agentschap voor Natuur en Bos   schriftelijk op de hoogte van die beslissing, als er advies is verleend.<BR></P>  <P>§ 5. Als het agentschap geen beslissing neemt binnen de daarvoor vastgelegde   termijn, wordt het beheersplan geacht afgekeurd te zijn.<BR></P>  <P>§ 6. De goedkeuring van het beheersplan wordt bij uittreksel in het Belgisch   Staatsblad bekendgemaakt.<BR></P>
+<p>§ 1. Als er binnen de afbakening vermeld in artikel 8.1.4, eerste lid, 1°, van dit besluit, zones voorkomen met habitats die beschermd zijn met toepassing van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, of als het onroerend erfgoed of erfgoedlandschap geheel of gedeeltelijk ligt in het Vlaams Ecologisch Netwerk of een speciale beschermingszone met toepassing van hetzelfde decreet, vraagt het agentschap voorafgaand aan de beslissing over de goedkeuring van het beheersplan een advies aan het Agentschap voor Natuur en Bos over de voorgestelde beheersdoelstellingen en de richtlijnen, de maatregelen en de werkzaamheden. Dat advies wordt verleend binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de adviesaanvraag. Als die termijn wordt overschreden, kan aan de adviesvereiste worden voorbijgegaan.</p>
+
+<p>§ 2. Na onderzoek van het beheersplan beslist het agentschap binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst van het beheersplan over de goedkeuring van het beheersplan. De beslissing wordt per beveiligde zending ter kennis gebracht van de aanvrager.</p>
+
+<p>Het agentschap kan in de beslissing tot goedkeuring voorwaarden opleggen voor de uitvoering en de opvolging van het beheersplan. Het agentschap kan in de beslissing tot goedkeuring het onroerend erfgoed of voor een deel ervan dat een opzichzelfstaand geheel vormt, erkennen als open erfgoed of als ZEN-erfgoed.</p>
+
+<p>Als het beheersplan een voorstel van werken die vrijgesteld zijn van melding of toelating, een voorstel van ZEN-erfgoed of een voorstel van open erfgoed bevat, wordt ook de beslissing daarover meegedeeld.</p>
+
+<p>Als het beheersplan onvolledig is bevonden, of het duurzame behoud en beheer van erfgoedwaarden onvoldoende garandeert, meldt het agentschap om welke redenen en in welke zin, het beheersplan moet worden aangepast om voor goedkeuring in aanmerking te komen.</p>
+
+<p>§ 3. Een aangepast beheersplan kan ingediend worden bij het agentschap binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst van de melding vermeld in paragraaf 2, vierde lid. Het aangepaste beheersplan moet tegemoet komen aan de voorgestelde wijzigingen, vermeld in paragraaf 2, vierde lid. Een aanpassing van het beheersplan kan bovendien alleen met betrekking tot de voorgestelde wijzigingen.</p>
+
+<p>Als het aangepaste beheersplan tegemoetkomt aan de voorgestelde wijzigingen, beslist het agentschap tot de goedkeuring van het beheersplan. Als het aangepaste beheersplan niet tegemoet komt aan de voorgestelde wijzigingen, vermeld in paragraaf 2, vierde lid, of als er binnen de termijn van negentig dagen, vermeld in het eerste lid, geen aangepast beheersplan is ingediend, keurt het agentschap het beheersplan af. Het agentschap beslist binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van het aangepaste beheersplan.</p>
+
+<p>De beslissing tot goedkeuring of tot afkeuring wordt per beveiligde zending ter kennis gebracht van de aanvrager.</p>
+
+<p>§ 4. Het agentschap brengt ook de gemeente(s) of intergemeentelijke onroerenderfgoeddienst(en) op het grondgebied waarvan het onroerend erfgoed of erfgoedlandschap, of een deel ervan dat een opzichzelfstaande entiteit vormt, ligt, schriftelijk op de hoogte van de beslissing tot goedkeuring of tot afkeuring. Het agentschap brengt ook het Agentschap voor Natuur en Bos schriftelijk op de hoogte van die beslissing, als er advies is verleend.</p>
+
+<p>§ 5. Als het agentschap geen beslissing neemt binnen de daarvoor vastgelegde termijn, wordt het beheersplan geacht afgekeurd te zijn.</p>
+
+<p>§ 6. De goedkeuring van het beheersplan wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt.</p>
 
 ## Onderafdeling 7 Geldigheidsduur
 
@@ -1422,7 +1610,18 @@ Er kan voor cultuurgoederen alleen een erfgoedpremie worden toegekend voor   het
 
 ### ART. 11.2.4.
 
-<P>&nbsp;De volgende beheersmaatregelen, werkzaamheden of diensten komen niet in   aanmerking voor een erfgoedpremie:<BR>1° niet-erfgoedgebonden onderhoud;<BR>2°   comfort- en isolatiewerkzaamheden, beveiligingswerkzaamheden, of werkzaamheden   of diensten die opgelegd zijn door andere regelgevingen, tenzij ze essentieel   zijn voor het behoud van de erfgoedkenmerken en -elementen;<BR>3° het opnieuw   aanbrengen van niet meer aanwezige waardevolle elementen, behalve als er   voldoende materiële gegevens of iconografisch materiaal aanwezig zijn om een   verantwoorde reconstructie mogelijk te maken en als de reconstructie vereist is   om een storende lacune aan te vullen;<BR>4° ontsluitingswerken, behalve als ze   opgenomen zijn in een goedgekeurd beheersplan voor open erfgoed.<BR></P>  <P>In het eerste lid, 1°, wordt verstaan onder niet-erfgoedgebonden onderhoud:   de preventieve en periodieke onderhoudswerken zonder impact op de   erfgoedkenmerken of -elementen van het onroerend goed, die elke eigenaar of   beheerder van een onroerend goed verondersteld wordt uit te voeren en die niet   zijn opgenomen in de vastgestelde lijst met forfaitaire werkzaamheden.<BR></P>  <P>Een aanvrager kan nooit aanspraak maken op een erfgoedpremie voor de   uitvoering van werkzaamheden of diensten waartoe hij al gehouden is op grond van   zijn deelname aan een misdrijf of inbreuk als vermeld in het   Onroerenderfgoeddecreet van 12 juli 2013.<BR></P>
+<p>De volgende beheersmaatregelen, werkzaamheden of diensten komen niet in aanmerking voor een erfgoedpremie:<br>
+1° niet-erfgoedgebonden onderhoud;<br>
+2° comfort- en isolatiewerkzaamheden, beveiligingswerkzaamheden, of werkzaamheden of diensten die opgelegd zijn door andere regelgevingen, tenzij ze essentieel zijn voor het behoud van de erfgoedkenmerken en -elementen. Om in aanmerking te komen voor een erfgoedpremie voor energiebesparende maatregelen moet er voldaan worden aan de volgende voorwaarden:<br>
+a) de energiebesparende maatregelen worden vermeld in een energieaudit;<br>
+b) er worden specifieke technieken, materialen of toepassingen opgelegd in de toelating van het agentschap of van de erkende onroerenderfgoedgemeente, vermeld in artikel 6.4.4, § 1, eerste lid, van het Onroerenderfgoeddecreet van 12 juli 2013, of in het advies van het agentschap, vermeld in artikel 6.4.4, § 2, van voormeld decreet;<br>
+c) de specifieke technieken, materialen of toepassingen brengen een meerkost met zich mee;<br>
+3° het opnieuw aanbrengen van niet meer aanwezige waardevolle elementen, behalve als er voldoende materiële gegevens of iconografisch materiaal aanwezig zijn om een verantwoorde reconstructie mogelijk te maken en als de reconstructie vereist is om een storende lacune aan te vullen;<br>
+4° ontsluitingswerken, behalve als ze opgenomen zijn in een goedgekeurd beheersplan voor open erfgoed.</p>
+
+<p>In het eerste lid, 1°, wordt verstaan onder niet-erfgoedgebonden onderhoud: de preventieve en periodieke onderhoudswerken zonder impact op de erfgoedkenmerken of -elementen van het onroerend goed, die elke eigenaar of beheerder van een onroerend goed verondersteld wordt uit te voeren en die niet zijn opgenomen in de vastgestelde lijst met forfaitaire werkzaamheden.</p>
+
+<p>Een aanvrager kan nooit aanspraak maken op een erfgoedpremie voor de uitvoering van werkzaamheden of diensten waartoe hij al gehouden is op grond van zijn deelname aan een misdrijf of inbreuk als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013.</p>
 
 ## Onderafdeling 2 Twee procedures voor het aanvragen van de erfgoedpremie
 
@@ -1458,7 +1657,20 @@ Een verhoogde erfgoedpremie van 60 % van de aanvaarde kostenraming,   exclusief 
 
 ### ART. 11.2.11.
 
-<P>Een verhoogde erfgoedpremie van 80 % van de aanvaarde kostenraming, exclusief   btw, wordt toegekend voor het beheer van of voor werkzaamheden of diensten aan   of in:<BR>1° beschermde monumenten die bestemd zijn voor een erkende eredienst.   De verhoogde premie kan alleen worden toegekend als er een actueel   kerkenbeleidsplan bestaat voor de gebouwen van een erkende eredienst, met   uitzondering van de kathedralen. Een kerkenbeleidsplan biedt een   langetermijnvisie voor alle gebouwen die bestemd zijn voor de eredienst op het   grondgebied van de gemeente of regio in kwestie;<BR>2° beschermde goederen die   eigendom zijn van een gemeente, autonoom gemeentebedrijf, OCMW, OCMW-vereniging   of een sociale huisvestingsmaatschappij. Als het gebouw bestemd is voor de   eredienst, moet ook voldaan worden aan de voorwaarden, vermeld in punt 1°;<BR>3°   open erfgoed. De beheersmaatregelen, werkzaamheden of diensten moeten passen in   de realisatie van de erkenning als open erfgoed, vermeld in artikel 8.4.1 en   8.4.2. De openstelling moet gerealiseerd worden conform het goedgekeurde   beheersplan.<BR><BR>Een premienemer die een erfgoedpremie van 80% aanvraagt voor   het behoud of de herwaardering van open erfgoed, gaat het engagement aan om   gedurende minstens tien jaar die ingaat op de dag na de ontvangst van het   verzoek tot uitbetaling van het saldo van de erfgoedpremie die met toepassing   van het eerste lid, 3°, is toegekend, te voldoen aan de specifieke bepalingen   over open erfgoed in het goedgekeurde beheersplan.<BR><BR>Als hij dat engagement   naast zich neerlegt voor de termijn van tien jaar, vermeld in het derde lid, is   verstreken, moet hij de helft van de toegekende erfgoedpremie terugbetalen,   vermeerderd met de wettelijke intresten, verminderd met 10 % voor elk jaar dat   volledig verstreken is, vanaf de datum waarop de uitbetaling van het saldo van   de erfgoedpremie is aangevraagd.<BR><BR>Als het saldo van de erfgoedpremie niet   binnen redelijke termijnen kan worden opgevraagd door overmacht, kan het   agentschap uitzonderlijk een andere startdatum van de periode van tien jaar   bepalen. De premienemer richt daarvoor een gemotiveerd verzoek aan het   agentschap dat in voorkomend geval gestaafd wordt met bewijsstukken. In dat   verzoek doet de premienemer een redelijk en gemotiveerd voorstel voor de   startdatum van de periode van tien jaar.<BR><BR>In het geval van open erfgoed   kan bijkomend een erfgoedpremie van 20 % worden toegekend voor   beheersmaatregelen, werkzaamheden of diensten gericht op een verbeterde   inhoudelijke of fysieke ontsluiting van het goed, op voorwaarde dat ze ook   bijdragen aan het behoud of de herwaardering van erfgoedkenmerken en   -elementen.<BR><BR>In geval van onderwijsgebouwen, erkend als open erfgoed,   komen beheersmaatregelen, werkzaamheden en diensten niet in aanmerking voor de   verhoogde erfgoedpremie van 80%.<BR></P>
+<p>Een verhoogde erfgoedpremie van 80 % van de aanvaarde kostenraming, exclusief btw, wordt toegekend voor het beheer van of voor werkzaamheden of diensten aan of in:<br>
+1° beschermde monumenten die bestemd zijn voor een erkende eredienst. De verhoogde premie kan alleen worden toegekend als er een actueel kerkenbeleidsplan bestaat voor de gebouwen van een erkende eredienst, met uitzondering van de kathedralen;<br>
+2° beschermde goederen die eigendom zijn van een gemeente, autonoom gemeentebedrijf, OCMW, OCMW-vereniging of een sociale huisvestingsmaatschappij. Als het gebouw bestemd is voor de eredienst, moet ook voldaan worden aan de voorwaarden, vermeld in punt 1°;<br>
+3° open erfgoed. De beheersmaatregelen, werkzaamheden of diensten moeten passen in de realisatie van de erkenning als open erfgoed, vermeld in artikel 8.4.1 en 8.4.2. De openstelling moet gerealiseerd worden conform het goedgekeurde beheersplan.<br>
+<br>
+Een premienemer die een erfgoedpremie van 80% aanvraagt voor het behoud of de herwaardering van open erfgoed, gaat het engagement aan om gedurende minstens tien jaar die ingaat op de dag na de ontvangst van het verzoek tot uitbetaling van het saldo van de erfgoedpremie die met toepassing van het eerste lid, 3°, is toegekend, te voldoen aan de specifieke bepalingen over open erfgoed in het goedgekeurde beheersplan.<br>
+<br>
+Als hij dat engagement naast zich neerlegt voor de termijn van tien jaar, vermeld in het derde lid, is verstreken, moet hij de helft van de toegekende erfgoedpremie terugbetalen, vermeerderd met de wettelijke intresten, verminderd met 10 % voor elk jaar dat volledig verstreken is, vanaf de datum waarop de uitbetaling van het saldo van de erfgoedpremie is aangevraagd.<br>
+<br>
+Als het saldo van de erfgoedpremie niet binnen redelijke termijnen kan worden opgevraagd door overmacht, kan het agentschap uitzonderlijk een andere startdatum van de periode van tien jaar bepalen. De premienemer richt daarvoor een gemotiveerd verzoek aan het agentschap dat in voorkomend geval gestaafd wordt met bewijsstukken. In dat verzoek doet de premienemer een redelijk en gemotiveerd voorstel voor de startdatum van de periode van tien jaar.<br>
+<br>
+In het geval van open erfgoed kan bijkomend een erfgoedpremie van 20 % worden toegekend voor beheersmaatregelen, werkzaamheden of diensten gericht op een verbeterde inhoudelijke of fysieke ontsluiting van het goed, op voorwaarde dat ze ook bijdragen aan het behoud of de herwaardering van erfgoedkenmerken en -elementen.<br>
+<br>
+In geval van onderwijsgebouwen, erkend als open erfgoed, komen beheersmaatregelen, werkzaamheden en diensten niet in aanmerking voor de verhoogde erfgoedpremie van 80%.</p>
 
 ### ART. 11.2.12.
 
@@ -1466,13 +1678,22 @@ Als de premienemer kan aantonen dat hij de btw niet kan recupereren dan   wordt 
 
 ### ART. 11.2.13.
 
-De beheersmaatregelen, werkzaamheden en diensten mogen ook gefinancierd   worden met andere overheidsbijdragen. De gezamenlijke overheidsbijdragen, met   inbegrip van eventuele Europese middelen, kunnen evenwel niet meer bedragen dan   de totale en aangetoonde kostprijs van de uitgevoerde beheersmaatregelen,   werkzaamheden en diensten.<BR><BR>Een cumulatie van een erfgoedpremie   aangevraagd volgens de standaardprocedure, een erfgoedpremie aangevraagd volgens   de bijzondere procedure, een onderzoekspremie of een premie voor buitensporige   opgravingskosten voor eenzelfde beheersmaatregel, werk, dienst of verplicht uit   te voeren archeologische opgraving aan of in eenzelfde beschermd goed is   uitgesloten.<BR>
+De beheersmaatregelen, werkzaamheden en diensten mogen ook gefinancierd worden met andere overheidsbijdragen. De gezamenlijke overheidsbijdragen, met inbegrip van eventuele Europese middelen, kunnen evenwel niet meer bedragen dan de totale en aangetoonde kostprijs van de uitgevoerde beheersmaatregelen, werkzaamheden en diensten.<br>
+<br>
+Als andere overheidsbijdragen aangevraagd worden, voegt de premienemer bij het verzoek tot uitbetaling van het saldo van de erfgoedpremie een volledig overzicht van die andere overheidsbijdragen. Als blijkt dat de gezamenlijke overheidsbijdragen 100% overschrijden, zal de premie verminderd worden tot de gezamenlijke overheidsbijdrage gelijk is aan 100% van de totale en aangetoonde kostprijs. Het agentschap deelt de beslissing om daartoe over te gaan onverwijld mee aan de aanvrager.<br>
+<br>
+Een cumulatie van een erfgoedpremie aangevraagd volgens de standaardprocedure, een erfgoedpremie aangevraagd volgens de bijzondere procedure, een onderzoekspremie of een premie voor buitensporige opgravingskosten voor eenzelfde beheersmaatregel, werk, dienst of verplicht uit te voeren archeologische opgraving aan of in eenzelfde beschermd goed is uitgesloten.
 
 ## Onderafdeling 6 Aantal aanvragen voor een erfgoedpremie per kalenderjaar
 
 ### ART. 11.2.14.
 
-<P>&nbsp;Een premienemer kan in hetzelfde kalenderjaar voor hetzelfde beschermde   goed, hetzelfde erfgoedlandschap, of een deel ervan dat een opzichzelfstaand   geheel vormt, voor elk van de volgende drie categorieën in aanmerking komen voor   hoogstens één erfgoedpremie aangevraagd volgens de standaardprocedure:<BR>1°   beheer van of werkzaamheden of diensten aan het exterieur;<BR>2° beheer van of   werkzaamheden of diensten aan waardevolle interieurelementen en -kenmerken van   een beschermd monument en cultuurgoederen die er integrerend deel van   uitmaken;<BR>3° ontsluitingswerkzaamheden die gericht zijn op de verbeterde   inhoudelijke of fysieke ontsluiting van open erfgoed.<BR></P>  <P>In afwijking van het eerste lid kan een premienemer in hetzelfde kalenderjaar   voor het beheer van of werkzaamheden of diensten, zoals bedoeld in het eerste   lid, punt 1, aan hetzelfde beschermde cultuurhistorisch landschap, hetzelfde   erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt, in   aanmerking komen voor twee erfgoedpremies aangevraagd volgens de   standaardprocedure.<BR></P>
+<p>Er kan in hetzelfde kalenderjaar voor hetzelfde beschermde goed, hetzelfde erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt, voor elk van de volgende drie categorieën&nbsp; hoogstens één erfgoedpremie aangevraagd worden volgens de standaardprocedure:<br>
+1° beheer van of werkzaamheden of diensten aan het exterieur;<br>
+2° beheer van of werkzaamheden of diensten aan waardevolle interieurelementen en -kenmerken van een beschermd monument en cultuurgoederen die er integrerend deel van uitmaken;<br>
+3° ontsluitingswerkzaamheden die gericht zijn op de verbeterde inhoudelijke of fysieke ontsluiting van open erfgoed.</p>
+
+<p>In afwijking van het eerste lid kan een premienemer in hetzelfde kalenderjaar voor het beheer van of werkzaamheden of diensten, zoals bedoeld in het eerste lid, punt 1, aan hetzelfde beschermde cultuurhistorisch landschap, hetzelfde erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt, in aanmerking komen voor twee erfgoedpremies aangevraagd volgens de standaardprocedure.</p>
 
 ## Onderafdeling 7 Wijziging van de zakelijkrechthouder van de onroerende goederen, wijziging van de premienemer en wijziging van de werken waarvoor de premie is aangevraagd
 
@@ -1492,7 +1713,13 @@ De beheersmaatregelen, werkzaamheden of diensten waarvoor een   erfgoedpremie wo
 
 ### ART. 11.2.18.
 
-<P>De premienemer dient de aanvraag voor de erfgoedpremie volgens de   standaardprocedure in bij het agentschap. Het aanvraagdossier bevat, als dat van   toepassing is:<BR>1° een volledig ingevuld en ondertekend aanvraagformulier dat   ter beschikking wordt gesteld op de website van het agentschap;<BR>2° een   motivering van de geplande beheersmaatregelen, werkzaamheden of diensten, met   duidelijke verwijzing naar de relevante bepalingen van het goedgekeurde   beheersplan of de motivatie waarom een beheersplan niet nodig is;<BR>3° een   beschrijving van de geplande beheersmaatregelen, werkzaamheden of diensten,   aangevuld met een kostenraming of een gedetailleerde verwijzing naar de door de   minister vastgestelde lijst met forfaitaire werkzaamheden.</P>  <P>De minister kan de nadere regels voor de inhoud van het aanvraagdossier   bepalen.<BR></P>
+<p>De premienemer dient de aanvraag voor de erfgoedpremie volgens de standaardprocedure in bij het agentschap. Het aanvraagdossier bevat, als dat van toepassing is:<br>
+1° een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van het agentschap;<br>
+2° een motivering van de geplande beheersmaatregelen, werkzaamheden of diensten, met duidelijke verwijzing naar de relevante bepalingen van het goedgekeurde beheersplan of de motivatie waarom een beheersplan niet nodig is;<br>
+3° een beschrijving van de geplande beheersmaatregelen, werkzaamheden of diensten, aangevuld met een kostenraming of een gedetailleerde verwijzing naar de door de minister vastgestelde lijst met forfaitaire werkzaamheden;<br>
+4° bij beschermde monumenten die bestemd zijn voor een erkende eredienst: het kerkenbeleidsplan van de gemeente of regio in kwestie of de datum van goedkeuring van het kerkenbeleidsplan als dat al aan het agentschap is bezorgd.</p>
+
+<p>De minister kan de nadere regels voor de inhoud van het aanvraagdossier bepalen.</p>
 
 ### ART. 11.2.19.
 
@@ -1532,7 +1759,13 @@ Bij de uitbetaling van de erfgoedpremie volgens de standaardprocedure   wordt al
 
 ### ART. 11.2.27.
 
-<P>De maatregelen en werken waarvoor een erfgoedpremie wordt gevraagd volgens de   bijzondere procedure mogen pas worden gestart na de toekenning ervan.<BR></P>  <P>In uitzonderlijke omstandigheden kan een premienemer beheersmaatregelen,   werkzaamheden of diensten uitvoeren vóór de toekenning van de premie zonder dat   hij het recht op de premie verliest. Hij dient daartoe, nadat hij de bevestiging   heeft ontvangen dat de beheersmaatregelen, werkzaamheden of diensten in   aanmerking komen voor een erfgoedpremie, een gemotiveerde aanvraag in bij het   agentschap. Daarin geeft hij onder meer aan waarom niet langer gewacht kan   worden, en welke beheersmaatregelen, werkzaamheden of diensten voorafgaand aan   de toekenning van de erfgoedpremie zullen worden uitgevoerd.<BR></P>  <P>Het agentschap onderzoekt de aanvraag en neemt een beslissing binnen een   termijn van vijfenveertig dagen, die ingaat op de dag na de ontvangst ervan. Het   agentschap deelt die beslissing per beveiligde zending onverwijld mee aan de   aanvrager.<BR></P>  <P>Alleen als het agentschap instemt met het feit dat er beheersmaatregelen,   werkzaamheden of diensten vóór de toekenning van de premie worden uitgevoerd, en   als de premienemer zich beperkt tot de beheersmaatregelen, werkzaamheden of   diensten die in de goedkeuring vermeld zijn, verliest hij het recht op de premie   niet.<BR></P>
+<p>De beheersmaatregelen, werken en diensten waarvoor een erfgoedpremie wordt gevraagd volgens de bijzondere procedure mogen pas worden gestart na de toekenning ervan.</p>
+
+<p>In uitzonderlijke omstandigheden kan een premienemer beheersmaatregelen, werkzaamheden of diensten uitvoeren vóór de toekenning van de premie zonder dat hij het recht op de premie verliest. Hij dient daartoe, nadat hij de bevestiging heeft ontvangen dat de beheersmaatregelen, werkzaamheden of diensten in aanmerking komen voor een erfgoedpremie, een gemotiveerde aanvraag in bij het agentschap. Daarin geeft hij onder meer aan waarom niet langer gewacht kan worden, en welke beheersmaatregelen, werkzaamheden of diensten voorafgaand aan de toekenning van de erfgoedpremie zullen worden uitgevoerd.</p>
+
+<p>Het agentschap onderzoekt de aanvraag en neemt een beslissing binnen een termijn van vijfenveertig dagen, die ingaat op de dag na de ontvangst ervan. Het agentschap deelt die beslissing per beveiligde zending onverwijld mee aan de aanvrager.</p>
+
+<p>Alleen als het agentschap instemt met het feit dat er beheersmaatregelen, werkzaamheden of diensten vóór de toekenning van de premie worden uitgevoerd, en als de premienemer zich beperkt tot de beheersmaatregelen, werkzaamheden of diensten die in de goedkeuring vermeld zijn, verliest hij het recht op de premie niet.</p>
 
 ## [Onderafdeling 10/1. Oproep en preselectieronde (ing. BVR 11 december 2020, art. 32, I: 15 december 2020)]
 
@@ -1540,7 +1773,17 @@ Bij de uitbetaling van de erfgoedpremie volgens de standaardprocedure   wordt al
 
 ### ART. 11.2.28.
 
-<P>De premienemer dient de aanvraag voor de erfgoedpremie volgens de bijzondere   procedure in bij het agentschap. Het aanvraagdossier bevat, als dat van   toepassing is:<BR>1° een volledig ingevuld en ondertekend aanvraagformulier dat   ter beschikking wordt gesteld op de website van het agentschap;<BR>2° een   inventaris en opmetingstekeningen die de bestaande toestand weergeven;<BR>3° een   diagnosenota, die inzicht geeft in de technische en fysische problemen van het   beschermde goed, het erfgoedlandschap of een deel ervan dat een opzichzelfstaand   geheel vormt;<BR>4° de motivering van de geplande beheersmaatregelen,   werkzaamheden of diensten, gesitueerd binnen de globale visie op het toekomstige   beheer van het goed, met duidelijke verwijzing naar de diagnosenota, en naar   alle relevante stavingsstukken;<BR>5° een gedetailleerde en volgens post   geordende beschrijving van de beheersmaatregelen, werkzaamheden of   diensten;<BR>6° een kostenraming met uitsplitsing per post of de gedetailleerde   verwijzing naar de door de minister vastgestelde lijst met forfaitaire   werkzaamheden;<BR>7° alle relevante documenten over de aanstelling van de   ontwerper, of de motivatie waarom er geen ontwerper hoeft te worden   aangesteld;<BR>8° bij beschermde monumenten die bestemd zijn voor een erkende   eredienst: het kerkenbeleidsplan van de gemeente of regio in kwestie.<BR></P>  <P>De minister kan de nadere regels voor de inhoud van het aanvraagdossier   bepalen.<BR></P>
+<p>De premienemer dient de aanvraag voor de erfgoedpremie volgens de bijzondere procedure in bij het agentschap. Het aanvraagdossier bevat, als dat van toepassing is:<br>
+1° een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van het agentschap;<br>
+2° een inventaris en opmetingstekeningen die de bestaande toestand weergeven;<br>
+3° een diagnosenota, die inzicht geeft in de technische en fysische problemen van het beschermde goed, het erfgoedlandschap of een deel ervan dat een opzichzelfstaand geheel vormt;<br>
+4° de motivering van de geplande beheersmaatregelen, werkzaamheden of diensten, gesitueerd binnen de globale visie op het toekomstige beheer van het goed, met duidelijke verwijzing naar de diagnosenota, en naar alle relevante stavingsstukken;<br>
+5° een gedetailleerde en volgens post geordende beschrijving van de beheersmaatregelen, werkzaamheden of diensten;<br>
+6° een kostenraming met uitsplitsing per post of de gedetailleerde verwijzing naar de door de minister vastgestelde lijst met forfaitaire werkzaamheden;<br>
+7° alle relevante documenten over de aanstelling van de ontwerper, of de motivatie waarom er geen ontwerper hoeft te worden aangesteld;<br>
+8° bij beschermde monumenten die bestemd zijn voor een erkende eredienst: het kerkenbeleidsplan van de gemeente of regio in kwestie of de datum van goedkeuring van het kerkenbeleidsplan als dat al aan het agentschap is bezorgd.</p>
+
+<p>De minister kan de nadere regels voor de inhoud van het aanvraagdossier bepalen.</p>
 
 ## [Onderafdeling 10/3. Toekenning van de erfgoedpremie via oproep (ing. BVR 11 december 2020, art. 35, I: 15 december 2020)]
 
@@ -1626,7 +1869,14 @@ De onderzoekspremie wordt berekend op basis van de aanvaarde kostenraming.   Er 
 
 ### ART. 11.3.5.
 
-<P>Een premienemer kan in hetzelfde kalenderjaar voor hetzelfde beschermde goed,   een erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt in   aanmerking komen voor hoogstens één onderzoekspremie binnen elk van de volgende   categorieën:<BR>1° de opmaak van een beheersplan;<BR>2° historisch en   historisch-archivalisch, bouwtechnisch, materiaaltechnisch, of   stabiliteitstechnisch voorafgaand onderzoek, of archeologisch   vooronderzoek;<BR>3° voorafgaand onderzoek naar de kwaliteit van houtige   beplanting met erfgoedwaarde en de groeiplaats ervan, met inbegrip van de   analyse van de impact van geplande ingrepen;<BR>4° bestemmings- en   herbestemmingsonderzoek.<BR><BR>De minister kan de nadere regels daarvoor   bepalen.<BR></P>
+<p>Een premienemer kan in hetzelfde kalenderjaar voor hetzelfde beschermde goed, een erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt in aanmerking komen voor hoogstens één onderzoekspremie binnen elk van de volgende categorieën:<br>
+1° de opmaak van een beheersplan;<br>
+2° historisch en historisch-archivalisch, bouwtechnisch, materiaaltechnisch, of stabiliteitstechnisch voorafgaand onderzoek, of archeologisch vooronderzoek;<br>
+3° voorafgaand onderzoek naar de kwaliteit van houtige beplanting met erfgoedwaarde en de groeiplaats ervan, met inbegrip van de analyse van de impact van geplande ingrepen;<br>
+4° bestemmings- en herbestemmingsonderzoek;<br>
+5° het laten uitvoeren van een energieaudit van een beschermd monument.<br>
+<br>
+De minister kan de nadere regels daarvoor bepalen.</p>
 
 ## Onderafdeling 5 Wijziging van de zakelijkrechthouder van de onroerende goederen, wijziging van de premienemer en wijziging van de werken waarvoor een onderzoekspremie is aangevraagd
 
@@ -1744,7 +1994,9 @@ De bijdrage van het Vlaamse Gewest voor een bepaalde fase kan als   voorschot aa
 
 ### ART. 11.4.12.
 
-<P>Voor de laatste fase uit de meerjarenpremieovereenkomst kan geen voorschot   gevraagd worden. Het agentschap gaat pas over tot de uitbetaling van de laatste   schijf na een volledige controle van het einddossier, dat ingediend moet worden   door de premienemer na afloop van de beheersmaatregelen, werkzaamheden of   diensten en binnen de termijn die daarvoor vastgesteld is in de   meerjarenovereenkomst.<BR></P>  <P>Als de premienemer nalaat een einddossier in te dienen binnen de daarvoor   vastgelegde termijn in de meerjarenovereenkomst, kan het agentschap de reeds   uitbetaalde voorschotten terugvorderen.<BR></P>
+<p>Voor de laatste fase uit de meerjarenpremieovereenkomst kan alleen een voorschot van 50% gevraagd worden. Het agentschap gaat pas over tot de uitbetaling van het resterende saldo na een volledige controle van het einddossier, dat ingediend moet worden door de premienemer na afloop van de beheersmaatregelen, werkzaamheden of diensten en binnen de termijn die daarvoor vastgesteld is in de meerjarenovereenkomst.</p>
+
+<p>Als de premienemer nalaat een einddossier in te dienen binnen de daarvoor vastgelegde termijn in de meerjarenovereenkomst, kan het agentschap de reeds uitbetaalde voorschotten terugvorderen.</p>
 
 ## Onderafdeling 7 Einddossier en definitieve bijdrage
 
@@ -1754,7 +2006,11 @@ De samenstelling van het einddossier wordt omschreven in de   meerjarenpremieove
 
 ### ART. 11.4.14.
 
-<P>Na de controle van het einddossier legt het agentschap de definitieve   bijdrage van het Vlaamse Gewest vast, overeenkomstig artikel 11.2.37 tot en met   artikel 11.2.39 en gaat het over tot uitbetaling. Als op basis van deze controle   blijkt dat de totale bijdrage van het Vlaamse Gewest lager ligt dan het   oorspronkelijk geraamde bedrag, dan zal de bijdrage voor de laatste fase naar   verhouding worden verminderd, of zullen eventueel te veel uitgekeerde bijdragen   worden teruggevorderd.<BR></P>  <P>Als de bijdrage van het Vlaamse Gewest die vastgelegd is voor de laatste fase   uit de meerjarenpremieovereenkomst minder bedraagt dan 50 % van de totale   bijdrage van het Vlaamse Gewest, zoals geraamd bij de ondertekening van de   overeenkomst, zal in afwijking van artikel 11.4.11 ook het bedrag dat voor   eerdere fases als voorschot vastgelegd is, worden verminderd, zodat minstens 50   % van het oorspronkelijk vastgelegde bedrag pas kan worden uitgekeerd na   controle van het einddossier.<BR></P>  <P>De uiteindelijke bijdrage van het Vlaamse Gewest kan niet hoger liggen dan   het bedrag dat bij de ondertekening van de meerjarenpremieovereenkomst werd   overeengekomen.<BR></P>  <P>Als de bijdrage van het Vlaamse Gewest wordt aangepast overeenkomstig dit   artikel, wordt een afrekening per beveiligde zending ter kennis gebracht van de   premienemer.<BR></P>
+<p>Na de controle van het einddossier legt het agentschap de definitieve bijdrage van het Vlaamse Gewest vast, overeenkomstig artikel 11.2.37 tot en met artikel 11.2.39 en gaat het over tot uitbetaling. Als op basis van deze controle blijkt dat de totale bijdrage van het Vlaamse Gewest lager ligt dan het oorspronkelijk geraamde bedrag, dan zal de bijdrage voor de laatste fase naar verhouding worden verminderd, of zullen eventueel te veel uitgekeerde bijdragen worden teruggevorderd.</p>
+
+<p>De uiteindelijke bijdrage van het Vlaamse Gewest kan niet hoger liggen dan het bedrag dat bij de ondertekening van de meerjarenpremieovereenkomst werd overeengekomen.</p>
+
+<p>Als de bijdrage van het Vlaamse Gewest wordt aangepast overeenkomstig dit artikel, wordt een afrekening per beveiligde zending ter kennis gebracht van de premienemer.</p>
 
 ## Onderafdeling 8 Bijkomende erfgoedpremie
 
@@ -1812,7 +2068,15 @@ Een premie voor buitensporige opgravingskosten kan worden toegekend voor   arche
 
 ### ART. 11.7.4.
 
-§ 1. De premie voor buitensporige opgravingskosten wordt berekend door de   forfaitaire basiskosten te vermenigvuldigen met de variabelen die overeenstemmen   met de aangetroffen toestand, verminderd met de door de minister vastgestelde   franchise, en dat bedrag te vermenigvuldigen met 40%. De forfaitaire basiskosten   worden uitgedrukt als een bedrag per oppervlakte-eenheid.<BR><BR>De minister   stelt de forfaitaire basiskosten, de variabelen en de franchise vast.<BR><BR>In   deze paragraaf wordt verstaan onder franchise: de niet-betoelaagbare eerste   schijf van de kosten van de verplicht uit te voeren archeologische   opgraving.<BR><BR>§ 2. De premie voor buitensporige opgravingskosten bedraagt   maximaal 40.000 euro.<BR><BR>§ 3. Als de premienemer kan aantonen dat hij de btw   niet kan recupereren dan wordt de premie voor buitensporige opgravingskosten   berekend op de forfaitaire basiskosten, inclusief btw.
+§ 1. De premie voor buitensporige opgravingskosten wordt berekend door de variabelen die overeenstemmen met de aangetroffen toestand, toe te passen op de forfaitaire basiskosten, verminderd met een franchise, en dat bedrag te vermenigvuldigen met 40%.<br>
+<br>
+De minister stelt de forfaitaire basiskosten, de variabelen en de franchise vast. Voor de berekening van de premie voor buitensporige opgravingskosten zijn de forfaitaire basiskosten, de variabelen en de franchise van toepassing die golden op het moment van de aanvang van de archeologische opgraving.<br>
+<br>
+In deze paragraaf wordt verstaan onder franchise: de niet-betoelaagbare eerste schijf van de kosten van de verplicht uit te voeren archeologische opgraving.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Als de premienemer kan aantonen dat hij de btw niet kan recupereren dan wordt de premie voor buitensporige opgravingskosten berekend op de forfaitaire basiskosten, inclusief btw.
 
 ### ART. 11.7.5.
 
