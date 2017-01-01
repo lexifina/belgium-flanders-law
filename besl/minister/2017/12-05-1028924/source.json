@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028924,
+  "title": "Ministerieel besluit van 2017-12-05 houdende de regels betreffende de vervanging van de forfaitaire intrestvergoeding door een vergoeding voor reële intrestlasten, zoals bepaald in artikel 14, derde lid, en artikel 15, derde lid, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de subsidiëring van infrastructuur van ziekenhuizen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028924/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "4ce6ee3781b59cf91d94dd64bdd504b807e31cc953405b96aaa894f9be127994",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028924&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-12-05",
+  "gazette": "2018-01-25",
+  "numac": 2017032008,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
