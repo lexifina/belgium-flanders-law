@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028637,
+  "title": "Ministerieel besluit van 2017-08-22 houdende voor de woonzorgcentra en de centra voor kortverblijf de vastlegging van bevolkingsprojecties als vermeld in artikel 2 in het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028637/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "6d843ec9a66f33b18ff721198d5a2d3ecb243f29a2690e9de2d81ed82b56221d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028637&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-08-22",
+  "gazette": "2017-10-06",
+  "numac": 2017013295,
+  "document_start": "2017-01-01",
+  "document_end": "2021-12-31",
+  "in_force": "2017-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
