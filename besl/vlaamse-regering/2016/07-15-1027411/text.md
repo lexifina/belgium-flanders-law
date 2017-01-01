@@ -871,6 +871,29 @@ In artikel 6.4.1/6, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit
 2° de zin "Bovendien moeten, voor de gecombineerde premie vermeld in artikel 6.4.1/1/2, alle ingediende eindfacturen een factuurdatum hebben die niet voor 1 januari 2014 ligt." wordt vervangen door de zin "Bovendien moeten, voor de gecombineerde premie, vermeld in artikel 6.4.1/1/2, alle ingediende eindfacturen een factuurdatum hebben die niet vóór 1 januari 2014 en niet na 31 december 2017 ligt.".<br>
 &nbsp;
 
+### ART 17.
+
+In artikel 6.4.1/8, eerste lid, 6° van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 november 2013, worden de volgende wijzigingen aangebracht:<br>
+1° het getal "450" wordt vervangen door het getal "462,74";<br>
+2° tussen de woorden "woning of wooneenheid" en de woorden "Dit bedrag" wordt de zin "Dit bedrag wordt vanaf kalenderjaar 2018 jaarlijks op 1 januari aangepast op basis van de evolutie van de gezondheidsindex." ingevoegd;<br>
+3° tussen het woord "Dit" en de woorden "bedrag wordt vermeerderd" wordt het woord "geïndexeerde" ingevoegd.<br>
+&nbsp;
+
+### ART 18.
+
+In artikel 6.4.1/9 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 september 2011 en gewijzigd bij de besluiten van de Vlaamse Regering van 7 september 2012 en 29 november 2013, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt na de woorden "dak- of zoldervloerisolatie" de zinsnede ", de plaatsing van hoogrendementsglas en spouwmuurisolatie" ingevoegd;<br>
+2° in het eerste lid, 6° wordt het getal "450" vervangen door het getal "462,74";<br>
+3° in het eerste lid, 6°, wordt tussen de woorden "woning of wooneenheid" en de woorden "Dit bedrag" de zin "Dit bedrag wordt vanaf kalenderjaar 2018 jaarlijks op 1 januari aangepast op basis van de evolutie van de gezondheidsindex." ingevoegd;<br>
+4° in het eerste lid, 6° wordt tussen het woord "Dit" en de woorden "bedrag wordt vermeerderd" het woord "geïndexeerde" ingevoegd;<br>
+5° in het tweede lid wordt na de woorden "dak- of zoldervloerisolatie" de zinsnede ", de plaatsing van hoogrendementsglas of spouwmuurisolatie" ingevoegd;<br>
+6° in hetzelfde lid wordt tussen de woorden "op het elektriciteitsdistributienet" en de woorden "De minister kan" de zinsnede "of een aanvraag van een stedenbouwkundige vergunning hebben die dateert van vóór 1 januari 2006" ingevoegd;<br>
+7° in het vierde lid wordt tussen de woorden "komen" en "wooneenheden" de zinsnede "voor de plaatsing van dakisolatie" ingevoegd;<br>
+8° in het zevende lid wordt na de woorden "dak- of zoldervloerisolatie" de zinsnede ", de plaatsing van hoogrendementsglas of spouwmuurisolatie" ingevoegd;<br>
+9° in het achtste lid wordt na de woorden "dak- of zoldervloerisolatie" de zinsnede ", de plaatsing van hoogrendementsglas of spouwmuurisolatie" ingevoegd;<br>
+10° in het negende lid wordt het woord "dakisolatie" vervangen door de zinsnede "dak- of zoldervloerisolatie, hoogrendementsglas of spouwmuurisolatie";<br>
+&nbsp;
+
 ### ART 19.
 
 In titel VI, hoofdstuk IV, van hetzelfde besluit, laatst gewijzigd bij het besluit van de Vlaamse Regering van 10 juli 2015, worden een artikel 6.4.1/9/1 en 6.4.1/9/2 ingevoegd, die luiden als volgt:<br>
