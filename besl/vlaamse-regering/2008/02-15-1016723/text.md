@@ -8,7 +8,18 @@ De Vlaamse Regering,<br /><br />Gelet op de wet van 5 augustus 1978 houdende eco
 
 ### ART. 1.
 
-§ 1. Behoudens hoofdstuk II, afdeling III, is dit besluit van toepassing op de volgende personeelsleden : <br />1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br />2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;<br />3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br />4° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br /><br />§ 2. Hoofdstuk II, afdeling III, is van toepassing op de personeelsleden van het onderwijs, vermeld in artikel X.58 van het decreet van 14 februari 2003 betreffende het onderwijs XIV, met inbegrip van de personeelsleden van de centra voor basiseducatie, vermeld in artikel 127, § 1, 1°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs. <br /><br />§ 3. Voor de toepassing van de bepalingen van dit besluit wordt verstaan onder :<br />1° MST-equipes : de gesubsidieerde equipes voor medisch schooltoezicht, bedoeld in de wet van 21 maart 1964 op het medisch schooltoezicht;<br />2° Medex : het Bestuur van de Medische Expertise van de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu. Dit bestuur is de opvolger van de Administratieve Gezondheidsdienst (AGD). <br /><br />
+§ 1. Behoudens hoofdstuk II, afdeling III, is dit besluit van toepassing op de volgende personeelsleden :<br>
+1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;<br>
+3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
+4° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br>
+<br>
+§ 2. Hoofdstuk II, afdeling III, is van toepassing op de personeelsleden van het onderwijs, vermeld in artikel V.66 van de Codificatie sommige bepalingen voor het onderwijs, met inbegrip van de personeelsleden van de centra voor basiseducatie, vermeld in artikel 127, § 1, 1°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br>
+<br>
+§ 3. Voor de toepassing van de bepalingen van dit besluit wordt verstaan onder :<br>
+1° MST-equipes : de gesubsidieerde equipes voor medisch schooltoezicht, bedoeld in de wet van 21 maart 1964 op het medisch schooltoezicht;<br>
+2° Medex : het Bestuur van de Medische Expertise van de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu. Dit bestuur is de opvolger van de Administratieve Gezondheidsdienst (AGD).<br>
+&nbsp;
 
 ## HOOFDSTUK II Ziekteverlof
 
@@ -36,7 +47,8 @@ Een aantal afwezigheden wordt als bezoldigd ziekteverlof beschouwd en, in afwijk
 
 ### ART. 7.
 
-Het personeelslid dat afwezig is wegens ziekte, staat onder het geneeskundig toezicht van het controleorgaan dat de Vlaamse minister, bevoegd voor het onderwijs heeft aangewezen ter uitvoering van artikel 57 van het decreet van 15 december 1993 betreffende het onderwijs-V.<br /><br />
+Het personeelslid dat afwezig is wegens ziekte, staat onder het geneeskundig toezicht van het controleorgaan dat de Vlaamse minister, bevoegd voor het onderwijs heeft aangewezen ter uitvoering van artikel V.19 van de Codificatie sommige bepalingen voor het onderwijs.<br>
+&nbsp;
 
 ### ART. 8.
 
@@ -78,7 +90,8 @@ Een aantal afwezigheden wordt als bezoldigd ziekteverlof beschouwd en, in afwijk
 
 ### ART. 17.
 
-Het personeelslid dat afwezig is wegens ziekte, staat onder het geneeskundig toezicht van het controleorgaan dat de Vlaamse minister, bevoegd voor het onderwijs heeft aangewezen ter uitvoering van artikel 57 van het decreet van 15 december 1993 betreffende het onderwijs-V.<br /><br />
+Het personeelslid dat afwezig is wegens ziekte, staat onder het geneeskundig toezicht van het controleorgaan dat de Vlaamse minister, bevoegd voor het onderwijs heeft aangewezen ter uitvoering van artikel V.19 van de Codificatie sommige bepalingen voor het onderwijs.<br>
+&nbsp;
 
 ### ART. 18.
 
@@ -96,7 +109,8 @@ Een aantal afwezigheden wordt als bezoldigd ziekteverlof beschouwd en zonder tij
 
 ### ART. 21.
 
-Het personeelslid dat afwezig is wegens ziekte, staat onder het geneeskundig toezicht van het controleorgaan dat de Vlaamse minister, bevoegd voor het onderwijs heeft aangewezen ter uitvoering van artikel 57 van het decreet van 15 december 1993 betreffende het onderwijs-V.<br /><br />
+Het personeelslid dat afwezig is wegens ziekte, staat onder het geneeskundig toezicht van het controleorgaan dat de Vlaamse minister, bevoegd voor het onderwijs heeft aangewezen ter uitvoering van artikel V.19 van de Codificatie sommige bepalingen voor het onderwijs.<br>
+&nbsp;
 
 ### ART. 22.
 
