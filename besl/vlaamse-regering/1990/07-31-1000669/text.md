@@ -308,7 +308,11 @@ Wanneer een instelling overschakelt van een hogere graad met vier leerjaren naar
 
 ### ART. 45.
 
-§ 1. Onverminderd de voorwaarden gesteld in artikel 93bis, 93ter en 95 van het decreet van 31 juli 1990 betreffende het onderwijs-II, is enkel de programmatie mogelijk van instellingen bestaande uit de lagere graad en de middelbare graad. De programmatie houdt in dat achtereenvolgens de lagere graad en de middelbare graad opgericht worden.<br /><br />§ 2. ...<br /><br />§ 3. Onverminderd de voorwaarden gesteld in artikel 95 van het decreet van 31 juli 1990 betreffende het onderwijs-II, is enkel de oprichting mogelijk van filialen bestaande uit de lagere graad.
+§ 1. Onverminderd de voorwaarden gesteld in artikel 93bis, 93ter en 95 van het decreet van 31 juli 1990 betreffende het onderwijs-II, is enkel de programmatie mogelijk van instellingen bestaande uit de lagere graad en de middelbare graad. De programmatie houdt in dat achtereenvolgens de lagere graad en de middelbare graad opgericht worden.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Onverminderd de voorwaarden gesteld in artikel II.21 van de Codificatie sommige bepalingen voor het onderwijs, is enkel de oprichting mogelijk van filialen bestaande uit de lagere graad.
 
 ### ART. 46.
 
