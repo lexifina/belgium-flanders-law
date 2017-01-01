@@ -208,7 +208,7 @@ De uitstrooiing van de as van de overledene of de begraving ervan op een terrein
 
 ### ART. 46.
 
-De lijsten van graven met lokaal historisch belang bedoeld in artikel 26, § 2, van het decreet bevatten de graven met een historische, artistieke, volkskundige of socio-culturele waarde die niet beschermd zijn als monument overeenkomstig het decreet van 3 maart 1976 tot bescherming van monumenten, stads- en dorpsgezichten.
+De lijsten van graven met lokaal historisch belang bedoeld in artikel 26, § 2, van het decreet bevatten de graven met een historische, artistieke, volkskundige of socio-culturele waarde die niet beschermd zijn als monument overeenkomstig het decreet van 3 maart 1976 tot bescherming van monumenten, stads- en dorpsgezichten of het Onroerenderfgoeddecreet van 12 juli 2013.
 
 ### ART. 47.
 
@@ -216,7 +216,7 @@ De lijst met graven van lokaal historisch belang bevat:<br /><br />1° informati
 
 ### ART. 48.
 
-Een afschrift van de bekrachtigde lijst met plan wordt bezorgd aan de Vlaamse minister, bevoegd voor de Monumenten en de Landschappen. Graven vermeld op de lijst van graven van lokaal historisch belang waarvan het behoud uiteindelijk toch van algemeen belang blijkt te zijn en die als zodanig beschermd worden als monument, worden op het moment van de definitieve bescherming van rechtswege geschrapt van de lijst.
+Een afschrift van de bekrachtigde lijst met plan wordt bezorgd aan de Vlaamse minister, bevoegd voor het onroerend erfgoed. Graven vermeld op de lijst van graven van lokaal historisch belang waarvan het behoud uiteindelijk toch van algemeen belang blijkt te zijn en die als zodanig beschermd worden als monument, worden op het moment van de definitieve bescherming van rechtswege geschrapt van de lijst.
 
 ## HOOFDSTUK IX OPHEFFINGS- EN SLOTBEPALINGEN
 
