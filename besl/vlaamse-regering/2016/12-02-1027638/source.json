@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027638,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-02 tot wijziging van het besluit van de Vlaamse Regering van 16 mei 2014 houdende overdracht van personeel van sommige Vlaamse bestuursrechtscolleges naar de dienst van de Bestuursrechtscolleges en tot vaststelling van de rechtspositie van dit personeel en van de bestuursrechters van sommige Vlaamse bestuursrechtscolleges, wat het zorgkrediet voor de effectieve bestuursrechters betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027638/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "0f9c915d5ec6e78b41d7826c773d8381ea47f17bae1a5d77ab651bc985fe43d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027638&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-12-02",
+  "gazette": "2016-12-15",
+  "numac": 2016036635,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
