@@ -2,16 +2,16 @@
   "codex_id": 1018578,
   "title": "Besluit van de Vlaamse Regering van 2009-09-04 betreffende de oprichting en organisatie van kunstacademies in het deeltijds kunstonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018578/VolledigDocument?datum=2014-09-01",
-  "source_sha256": "367014048f42535b88fe8417acc92f552f95c5caa552cd8d02b7c989fca1e9d5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018578/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "cf442a1e867986d63c838af1cd64ef0784b3bab68b7a9d570448ea7e99753ced",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018578&param=informatie",
-  "as_of": "2014-09-01",
+  "as_of": "2017-01-01",
   "made": "2009-09-04",
   "gazette": "2009-12-14",
   "numac": 2009036114,
   "document_start": "2009-09-01",
   "document_end": "2018-08-31",
-  "in_force": "2014-09-01",
+  "in_force": "2017-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
