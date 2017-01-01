@@ -21,7 +21,20 @@ Besluit :
 
 ## HOOFDSTUK 1. Wijzigingen van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs
 
+### ART 1.
+
+In artikel 16, § 1, van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 21 november 2014, worden de volgende wijzigingen aangebracht:<br>
+1° aan punt A wordt een punt y) toegevoegd, dat luidt als volgt:<br>
+"y) de werkelijke diensten die het personeelslid heeft verstrekt in een bezoldigde functie met volledige prestaties in de vzw Voorrangsbeleid Brussel.";<br>
+2° aan punt B wordt een punt o) toegevoegd, dat luidt als volgt:<br>
+"o) de werkelijke diensten die het personeelslid heeft verstrekt in een bezoldigde functie met onvolledige prestaties in de vzw Voorrangsbeleid Brussel.".
+
 ## HOOFDSTUK 2. Wijzigingen van het koninklijk besluit van 1 december 1970 houdende bezoldigingsregeling van het administratief personeel, het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs
+
+### ART 2.
+
+In artikel 14, 11°, van het koninklijk besluit van 1 december 1970 houdende bezoldigingsregeling van het administratief personeel, het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 24 juli 2009, wordt een punt f) ingevoegd, dat luidt als volgt:<br>
+"f) in de vzw Voorrangsbeleid Brussel.".
 
 ### ART 3.
 
