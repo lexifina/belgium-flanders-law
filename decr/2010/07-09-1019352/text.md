@@ -1028,6 +1028,10 @@ Aan artikel 11 van het decreet van 13 februari 2009 houdende de organisatie van 
 
 ## Afdeling IX Werkingsmiddelen internaten
 
+### ART. VIII.26.
+
+...
+
 ## Afdeling X Inwerkingtreding
 
 ### ART. VIII.27.
