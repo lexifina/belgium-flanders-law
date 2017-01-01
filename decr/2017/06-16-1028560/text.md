@@ -4,9 +4,19 @@
 
 ## HOOFDSTUK 2 Decreet basisonderwijs
 
+### ART II.3.
+
+In artikel 29, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 14 februari 2003, wordt de laatste zin vervangen door wat volgt :<br>
+"Die keuze kunnen ze uiterlijk op 30 juni van het lopende schooljaar wijzigen voor het volgende schooljaar.".
+
 ## HOOFDSTUK 3 Secundair onderwijs
 
 ## Afdeling 1 Codex Secundair Onderwijs
+
+### ART III.2.
+
+In artikel 98, § 1, eerste lid, van dezelfde codex wordt de laatste zin vervangen door wat volgt :<br>
+"Die keuze kunnen ze uiterlijk op 30 juni van het lopende schooljaar wijzigen voor het volgende schooljaar.".
 
 ## Afdeling 2 Decreet Leren en Werken
 
@@ -69,6 +79,10 @@ In artikel II.182 van dezelfde codex, gewijzigd bij het decreet van 21 maart 201
 
 In artikel II.378, § 2, van dezelfde codex wordt de zinsnede "artikel II.140, § 5" vervangen door de zinsnede "artikel II.138, § 4".
 
+### ART VI.24.
+
+In artikel III.13 van dezelfde codex wordt paragraaf 6 opgeheven.
+
 ## Afdeling 2 Decreet houdende wijziging van diverse decreten met betrekking tot de Universiteit Antwerpen
 
 ## Afdeling 3 Inwerkingtreding
@@ -116,6 +130,40 @@ In afwijking van § 3 is de student die reeds een bachelordiploma behaald heeft 
 ## Afdeling 9 Tijdelijk project Schoolbank op de werkplek
 
 ## Afdeling 10 Codificatie sommige bepalingen voor het onderwijs
+
+### ART IX.19.
+
+In het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende codificatie sommige bepalingen voor het onderwijs worden de volgende wijzigingen aangebracht :<br>
+1° in artikel II.34 wordt de zinsnede "artikel II.38" vervangen door de zinsnede "artikel II.35";<br>
+2° in artikel III.5 wordt het woord "ervan" geschrapt;<br>
+3° in artikel III.10 wordt driemaal de zinsnede "artikel III.11" vervangen door de zinsnede "artikel III.9";<br>
+4° in artikel V.32 worden na het woord "gemeentedecreet", de woorden "of de nieuwe gemeentewet" toegevoegd;<br>
+5° in artikel V.47 worden de woorden "in vorig artikel" vervangen door de woorden "in artikel V.41";<br>
+6° in artikel V.51 wordt de zinsnede "artikel V.47" vervangen door de zinsnede "artikel V.41";<br>
+7° in artikel V.75 wordt paragraaf 5 opgeheven;<br>
+8° in artikel XI.1 worden de volgende wijzigingen aangebracht :<br>
+a) er wordt een punt 38° bis ingevoegd, dat luidt als volgt :<br>
+"38° bis het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs;";<br>
+b) er wordt een punt 39° bis ingevoegd, dat luidt als volgt :<br>
+"39° bis het decreet van 7 juli 2006 betreffende de inhaalbeweging voor schoolinfrastructuur;";<br>
+c) er wordt een punt 41° bis ingevoegd, dat luidt als volgt :<br>
+"41° bis het decreet van 7 december 2007 betreffende energieprestaties in scholen;";<br>
+d) er worden de punten 54°, 55° en 56° toegevoegd, die luiden als volgt :<br>
+"54° het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen;<br>
+55° het decreet van 25 november 2016 betreffende de alternatieve financiering van schoolinfrastructuur via projectspecifieke DBFM-overeenkomsten;<br>
+56° het decreet betreffende het onderwijs XXVII.";<br>
+9° in artikel XII.1 wordt punt 4° vervangen door wat volgt :<br>
+"4° in artikel 4, § 1, van de wet van 15 juli 1983 houdende oprichting van de Nationale Dienst voor Leerlingenvervoer wordt de zinsnede "artikel 4 van de wet van 29 mei 1959" vervangen door de zinsnede "artikel IV.34 van de Codificatie sommige bepalingen voor het onderwijs";";<br>
+10° in artikel XII.1, 20° en 21°, wordt het getal "56" vervangen door het getal "56/1";<br>
+11° in artikel XII.1, 52°, worden de volgende woorden toegevoegd aan punt 3° :<br>
+"en het decreet betreffende de inspectie en begeleiding van de levensbeschouwelijke vakken";<br>
+12° in artikel X.II.1, 92°, wordt de zinsnede "artikel 2" vervangen door de zinsnede "artikel 4";<br>
+13° in artikel XII.1, 110°, wordt de zinsnede "III.19, III.20" vervangen door de zinsnede "III.18, III.19, III.20";<br>
+14° in artikel XII.1, 120°, wordt de zinsnede "artikel 1" vervangen door de zinsnede "artikel 2";<br>
+15° in artikel XII.1, 124°, wordt de zinsnede "artikel V.67" vervangen door de zinsnede "artikel V.66";<br>
+16° in artikel XII.1, 136°, wordt de zinsnede "artikel 1" vervangen door de zinsnede "artikel 2";<br>
+17° in artikel XII.1, 137°, wordt de zinsnede "artikel V.61" vervangen door de zinsnede "artikel V.60";<br>
+18° in artikel XII.1, 146°, wordt de zinsnede "artikel II.64" vervangen door de zinsnede "artikel II.58".
 
 ## Afdeling 11 Opheffingsbepaling
 
