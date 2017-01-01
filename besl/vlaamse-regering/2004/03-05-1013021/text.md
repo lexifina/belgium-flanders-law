@@ -4,12 +4,12 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de diensten met onderwijsbehoeften bedoeld in hoofdstuk X van het decreet van 14 februari 2003 betreffende het onderwijs XIV.
+Dit besluit is van toepassing op de diensten met onderwijsbehoeften bedoeld in artikel IV.2 van de Codificatie sommige bepalingen voor het onderwijs.
 
 ### ART. 2.
 
 Voor de toepassing van dit besluit wordt verstaan onder:<br>
-decreet: het decreet 14 februari 2003 betreffende het onderwijs XIV;<br>
+decreet: decreet betreffende de Codificatie sommige bepalingen voor het onderwijs;<br>
 plaatsen: bedden voor dag- en nachthospitalisatie en plaatsen voor daghospitalisatie;<br>
 werkjaar: een periode van 1 januari tot en met 31 december.
 
@@ -21,7 +21,11 @@ werkjaar: een periode van 1 januari tot en met 31 december.
 
 ### ART. 4.
 
-§ 1. In uitvoering van artikel X.4 van het decreet komen voor de berekening van de subsidie-enveloppe die plaatsen in aanmerking die erkend zijn door de Vlaamse regering op 1 januari van het werkjaar en waarvan op die datum een aanvraag met de nodige bewijsstukken berust bij de administratie.<br /><br />§ 2. In afwijking van § 1 komen voor de werkjaren 2002 en 2003 alle plaatsen in aanmerking die erkend waren voor 1 juli 2003.<br /><br />De toegekende subsidie-enveloppe is evenredig met de periode van erkenning van de plaatsen.
+§ 1. In uitvoering van&nbsp;artikel IV.5 van de Codificatie sommige bepalingen voor het onderwijs komen voor de berekening van de subsidie-enveloppe die plaatsen in aanmerking die erkend zijn door de Vlaamse regering op 1 januari van het werkjaar en waarvan op die datum een aanvraag met de nodige bewijsstukken berust bij de administratie.<br>
+<br>
+§ 2. In afwijking van § 1 komen voor de werkjaren 2002 en 2003 alle plaatsen in aanmerking die erkend waren voor 1 juli 2003.<br>
+<br>
+De toegekende subsidie-enveloppe is evenredig met de periode van erkenning van de plaatsen.
 
 ### ART. 5.
 
@@ -37,13 +41,19 @@ De subsidie-enveloppe is ten laste van het begrotingsjaar waarin het werkjaar aa
 
 ### ART. 7.
 
-De onderwijsinspectie zoals bedoeld in artikel 4, § 1, derde lid, van het decreet betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten controleert de kwaliteit van het verstrekte onderwijs en volgt daarbij de gebruikelijke procedures.
+De onderwijsinspectie controleert de kwaliteit van het verstrekte onderwijs en volgt daarbij de gebruikelijke procedures.
 
 ## AFDELING 2 FINANCIËLE CONTROLE
 
 ### ART. 8.
 
-Op het einde van elk kalenderjaar moet een slotrekening worden opgemaakt m.b.t. de aanwending van de subsidie-enveloppe zoals bedoeld in artikel X.2 van het decreet.<br /><br />Voor elke uitgave houdt de dienst een geldig bewijsstuk bij.<br /><br />Met de toegekende subsidie-enveloppe kan een provisie worden aangelegd.<br /><br />De dienst bewaart de boekhouding en de bewijsstukken gedurende vijf jaar.
+Op het einde van elk kalenderjaar moet een slotrekening worden opgemaakt m.b.t. de aanwending van de subsidie-enveloppe zoals bedoeld in artikel IV.3 van de Codificatie sommige bepalingen voor het onderwijs.<br>
+<br>
+Voor elke uitgave houdt de dienst een geldig bewijsstuk bij.<br>
+<br>
+Met de toegekende subsidie-enveloppe kan een provisie worden aangelegd.<br>
+<br>
+De dienst bewaart de boekhouding en de bewijsstukken gedurende vijf jaar.
 
 ### ART. 9.
 
