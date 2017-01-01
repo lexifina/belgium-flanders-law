@@ -2,7 +2,20 @@
 
 ### ART. 1.
 
-De gewestelijke aangelegenheden met betrekking tot welke het invorderen   van onbetwiste en opeisbare niet-fiscale schuldvorderingen wordt opgedragen aan   ambtenaren van de Vlaamse Belastingdienst zijn:<BR>1° de economie;<BR>2° de   landbouw;<BR>3° ... <BR>4° de stadsvernieuwing;<BR>5° de technologische   innovatie; <BR>6° de energie; <BR>7° de werkgelegenheid. <BR>8° ...<BR>9° de   toeristische logiessector.<BR><BR>De onbetwiste en opeisbare niet-fiscale   schuldvorderingen inzake de toekenning van subsidies die voortvloeien uit het   decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en   de verdeling van het Vlaams Stedenfonds, inzake de toekenning van facultatieve   subsidies door het Agentschap voor Binnenlands Bestuur, en inzake afrekeningen   die voortvloeien uit het besluit van de Vlaamse Regering van 17 oktober 2008   betreffende de bijdrage van de besturen in de uitgaven die verbonden zijn aan de   gewestelijk ontvangers, worden ingevorderd door ambtenaren van de Vlaamse   Belastingdienst.
+De gewestelijke aangelegenheden met betrekking tot welke het invorderen van onbetwiste en opeisbare niet-fiscale schuldvorderingen wordt opgedragen aan ambtenaren van de Vlaamse Belastingdienst zijn:<br>
+1° de economie;<br>
+2° de landbouw;<br>
+3° ...<br>
+4° de stadsvernieuwing;<br>
+5° de technologische innovatie;<br>
+6° de energie;<br>
+7° de werkgelegenheid.<br>
+8° ...<br>
+9° de toeristische logiessector.<br>
+<br>
+De onbetwiste en opeisbare niet-fiscale schuldvorderingen inzake de toekenning van subsidies die voortvloeien uit het decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds, inzake de toekenning van facultatieve subsidies door het Agentschap voor Binnenlands Bestuur, en inzake afrekeningen die voortvloeien uit het besluit van de Vlaamse Regering van 17 oktober 2008 betreffende de bijdrage van de besturen in de uitgaven die verbonden zijn aan de gewestelijk ontvangers, worden ingevorderd door ambtenaren van de Vlaamse Belastingdienst.<br>
+<br>
+De onbetwiste en opeisbare niet-fiscale schuldvorderingen en de administratieve geldboeten als gevolg van de taken van het agentschap Informatie Vlaanderen en het Eigen Vermogen Informatie Vlaanderen worden ingevorderd door ambtenaren van de Vlaamse Belastingdienst.
 
 ### ART. 2.
 
