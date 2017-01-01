@@ -10,7 +10,13 @@ Voor toepassing van onderhavig besluit wordt verstaan onder:<br /><br />"handeli
 
 ### ART. 2.
 
-Dit besluit is niet van toepassing op :<BR>1° lozingen van huishoudelijk   afvalwater van alleenstaande woningen die niet aangesloten zijn op een   collectief rioleringssysteem en die buiten de waterwingebieden liggen;<BR>2° het   direct of indirect lozen, het deponeren of opslaan op of in de bodem van   producten en stoffen die in zulke geringe hoeveelheid en concentratie stoffen   van lijst I, II en III bevatten dat elk gevaar voor een verontreiniging nu of in   de toekomst is uitgesloten;<BR>3° de injectie van kooldioxidestromen met het oog   op opslag in geologische formaties die door hun aard blijvend ongeschikt zijn   voor andere doeleinden, op voorwaarde dat dergelijke injecties plaatsvinden   overeenkomstig het decreet van 8 mei 2009 betreffende de diepe ondergrond dan   wel op grond van artikel 37, tweede lid, van voormeld decreet buiten de   werkingssfeer ervan vallen.<BR><BR>Op advies van de afdeling van de Vlaamse   Milieumaatschappij, bevoegd voor het operationele waterbeheer, kan de Vlaamse   minister, bevoegd voor het leefmilieu en het waterbeleid, voor elke stof van   lijst I, II en III de hoeveelheid en de concentratie vaststellen.
+Dit besluit is niet van toepassing op :<br>
+1° lozingen van huishoudelijk afvalwater van alleenstaande woningen die niet aangesloten zijn op een collectief rioleringssysteem en die buiten de waterwingebieden liggen;<br>
+2° het direct of indirect lozen, het deponeren of opslaan op of in de bodem van producten en stoffen die in zulke geringe hoeveelheid en concentratie stoffen van lijst I, II en III bevatten dat elk gevaar voor een verontreiniging nu of in de toekomst is uitgesloten;<br>
+3° de injectie van kooldioxidestromen met het oog op opslag in geologische formaties die door hun aard blijvend ongeschikt zijn voor andere doeleinden, op voorwaarde dat dergelijke injecties plaatsvinden overeenkomstig het decreet van 8 mei 2009 betreffende de diepe ondergrond dan wel op grond van artikel 37, tweede lid, van voormeld decreet buiten de werkingssfeer ervan vallen;<br>
+4° het terugvoeren van bij de winning van aardwarmte opgepompt water in hetzelfde geothermische reservoir, op voorwaarde dat dergelijke injecties van water plaatsvinden conform het decreet van 8 mei 2009 betreffende de diepe ondergrond.<br>
+<br>
+Op advies van de afdeling van de Vlaamse Milieumaatschappij, bevoegd voor het operationele waterbeheer, kan de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, voor elke stof van lijst I, II en III de hoeveelheid en de concentratie vaststellen.
 
 ### ART. 3.
 
