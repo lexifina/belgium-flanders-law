@@ -2,16 +2,16 @@
   "codex_id": 1024462,
   "title": "Ministerieel besluit van 2014-05-16 houdende de vaststelling van de opdrachten en van de vergoeding van contactorganisaties in het kader van de toegangspoort integrale jeugdhulp",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024462/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "1069f80602d2e179669dad60cc7a3d9c1a1433220d7d38793eda0d54c8b10e9b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024462/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "c4b0962bb13c84443113bb2590b7b55cc5c5afa99e54b54f12332cef88ecf6e1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024462&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2017-01-01",
   "made": "2014-05-16",
   "gazette": "2014-08-26",
   "numac": 2014035740,
   "document_start": "2014-03-01",
   "document_end": null,
-  "in_force": "2016-01-01",
+  "in_force": "2017-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
