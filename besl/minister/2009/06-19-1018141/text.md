@@ -6,7 +6,49 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 
 ### ART. 1.
 
-Ter uitvoering van artikel 2 van het besluit van de Vlaamse Regering van 19 juni 2009 betreffende initiatieven om uitbreiding van schadelijke effecten, die veroorzaakt zijn door biotische factoren, tegen te gaan, moeten volgende infecties gemeld worden : <br />1° anthrax;<br />2° botulisme; <br />3° brucellose;<br />4° salmonella typhi of salmonella paratyphi-infectie;<br />5° cholera;<br />6° chikungunya;<br />7° dengue;<br />8° difterie;<br />9° enterohemorragische e. coli-infectie;<br />10° gastro-enteritis, bij epidemische verheffing in een collectiviteit;<br />11° gele koorts;<br />12° gonorroe;<br />13° haemophilus influenzae type B invasieve infecties;<br />14° hepatitis A;<br />15° hepatitis B (acuut);<br />16° humane infectie met aviaire (of een nieuw subtype) influenza;<br />17° legionellose;<br />18° malaria waarbij vermoed wordt dat de besmetting heeft plaatsgevonden op het Belgisch grondgebied, inclusief (lucht)havens;<br />19° mazelen;<br />20° meningokokken invasieve infecties;<br />21° pertussis;<br />22° pest;<br />23° pokken;.<br />24° poliomyelitis;<br />25° psittacose;<br />26° Q-koorts;<br />27° rabiës;<br />28° SARS (Severe Acute Respiratory Syndrome);<br />29° syfilis;<br />30° tuberculose;<br />31° tularemie;<br />32° virale hemorragische koorts;<br />33° vlektyfus (rickettsia prowazekii of rickettsia typhi-infectie);<br />34° voedselinfecties (vanaf twee gevallen);<br />35° West Nilevirusinfectie.
+Ter uitvoering van artikel 2 van het besluit van de Vlaamse Regering van 19 juni 2009 betreffende initiatieven om uitbreiding van schadelijke effecten veroorzaakt door biotische factoren tegen te gaan, moeten volgende infecties gemeld worden:<br>
+1° anthrax;<br>
+2° botulisme;<br>
+3° brucellose;<br>
+4° cholera;<br>
+5° chikungunya waarbij vermoed wordt dat de besmetting gebeurde op het Europese continent;<br>
+6° dengue waarbij vermoed wordt dat de besmetting gebeurde op het Europees continent;<br>
+7° difterie;<br>
+8° enterohemorragische E. coli infectie;<br>
+9° gastro-enteritis, bij epidemische verheffing in een collectiviteit;<br>
+10° gele koorts;<br>
+11° gonorroe;<br>
+12° haemophilus influenzae type b invasieve infectie;<br>
+13° hepatitis A;<br>
+14° hepatitis B (acuut);<br>
+15° humane infectie met aviaire (of een nieuw subtype) influenza;<br>
+16° legionellose;<br>
+17° leptospirose;<br>
+18° malaria waarbij vermoed wordt dat de besmetting gebeurde op het Europese continent;<br>
+19° mazelen;<br>
+20° meningokokken invasieve infectie;<br>
+21° pertussis;<br>
+22° pest;<br>
+23° pokken;<br>
+24° poliomyelitis inclusief acute slappe parese;<br>
+25° psittacose;<br>
+26° Q-koorts;<br>
+27° rabiës;<br>
+28° salmonella typhi of s. paratyphi infectie;<br>
+29° SARS (Severe Acute Respiratory Syndrome) en MERS (Middle East Respiratory Syndrome)-coronavirus infectie;<br>
+30° scabies, collectieve infectie;<br>
+31° shigella infectie;<br>
+32° streptococcus pyogenes, invasieve infectie;<br>
+33° syfilis;<br>
+34° tuberculose;<br>
+35° tularemie;<br>
+36° virale hemorragische koorts;<br>
+37° vlektyfus;<br>
+38° voedselinfectie (vanaf twee gevallen);<br>
+39° westnijlvirusinfectie waarbij vermoed wordt dat de besmetting gebeurde op het Europese continent;<br>
+40° zikavirusinfectie waarbij vermoed wordt dat de besmetting gebeurde op het Europese continent;<br>
+41° zorginfecties door multiresistente micro-organismen: een plotse toename van het aantal infecties in vergelijking met de normale incidentie;<br>
+42° elk vermoeden van een ernstige infectie die een epidemisch karakter dreigt aan te nemen of aangenomen heeft.
 
 ### ART. 2.
 
