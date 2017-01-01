@@ -68,4 +68,9 @@ De organisator waarschuwt de contracthouder vooraf over de situaties, vermeld in
 
 ## HOOFDSTUK 2 Wijzigingen van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014
 
+### ART 11.
+
+Artikel 36 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, gewijzigd bij het besluit van de Vlaamse Regering van 24 april 2015, wordt vervangen door wat volgt:<br>
+"Art. 36. De subsidie voor inkomenstarief buitenschoolse opvang kan worden toegekend aan de organisator van gezinsopvang of groepsopvang met een subsidie voor inkomenstarief als vermeld in het Subsidiebesluit van 22 november 2013.".
+
 ## HOOFDSTUK 3 Slotbepalingen
