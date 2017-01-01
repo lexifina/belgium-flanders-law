@@ -2,16 +2,16 @@
   "codex_id": 1003768,
   "title": "Besluit van de Vlaamse Regering van 1995-04-26 tot vaststelling van de voorwaarden en [maatregelen] volgens [welke het Vlaams Agentschap voor Personen met een Handicap] bijzondere subsidies aan voorzieningen kan toekennen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003768/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "49a871d88fe95388728e7c988c737d1a7b6ffe31bd49fd2f349323919b3a822c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003768/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "9e5585bd2c85c8405408b9b6072386744a9a1ad1390c4c4eb30b8e58d7529ed8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003768&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2017-01-01",
   "made": "1995-04-26",
   "gazette": "1995-07-20",
   "numac": 1995036058,
   "document_start": "1995-01-01",
   "document_end": "2016-12-31",
-  "in_force": "2011-01-01",
+  "in_force": "2017-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
