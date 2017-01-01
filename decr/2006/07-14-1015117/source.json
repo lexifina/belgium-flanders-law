@@ -2,16 +2,16 @@
   "codex_id": 1015117,
   "title": "Decreet van 2006-07-14 tot bekrachtiging van het besluit van de Vlaamse Regering van 23 juni 2006 betreffende de organisatie van tijdelijke projecten in het basis- en secundair onderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015117/VolledigDocument?datum=2006-11-18",
-  "source_sha256": "b3d123875a5353fce3af4522fe1e8527e839378d2ae3c4a1ce8c7239cbbff1e8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015117/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "95fa6664fe233881a2e84af9f57b95742a05a4796fccceabeda9b8a112e25395",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015117&param=informatie",
-  "as_of": "2006-11-18",
+  "as_of": "2017-01-01",
   "made": "2006-07-14",
   "gazette": "2006-11-08",
   "numac": 2006036650,
   "document_start": "2006-11-18",
   "document_end": "2016-12-31",
-  "in_force": "2006-11-18",
+  "in_force": "2017-01-01",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-11-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
