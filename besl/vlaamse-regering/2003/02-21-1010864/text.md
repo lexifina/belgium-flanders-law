@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-In de tabel in bijlage bij dit besluit wordt, leerjaar per leerjaar, de gelijkwaardigheid bepaald van het Nederlands voortgezet onderwijs, uitgezonderd het middelbaar beroepsonderwijs, met het Vlaams voltijds secundair onderwijs waarvan de structuur en de organisatie zijn vastgelegd in het decreet van 31 juli 1990 betreffende het onderwijs-II, titel IV, Hoofdstuk I, Afdeling 2.
+In de tabel in bijlage bij dit besluit wordt, leerjaar per leerjaar, de gelijkwaardigheid bepaald van het Nederlands voortgezet onderwijs, uitgezonderd het middelbaar beroepsonderwijs, met het Vlaams voltijds secundair onderwijs waarvan de structuur en de organisatie zijn vastgelegd in de Codex Secundair Onderwijs.
 
 ### ART. 2.
 
