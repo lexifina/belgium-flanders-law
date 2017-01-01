@@ -2,16 +2,16 @@
   "codex_id": 1027128,
   "title": "Decreet van 2016-06-10 tot regeling van bepaalde aspecten van alternerende opleidingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027128/VolledigDocument?datum=2016-09-01",
-  "source_sha256": "4fb32ecfaef46b8fec8869edcde354dd1e4783f1a40702b0948285699a9b2867",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027128/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "53251cf291cc9c738971c1ffce461f4b2adfb726a4972ce02f119e61bd3fea53",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027128&param=informatie",
-  "as_of": "2016-09-01",
+  "as_of": "2017-01-01",
   "made": "2016-06-10",
   "gazette": "2016-08-17",
   "numac": 2016036138,
   "document_start": "2016-09-01",
   "document_end": null,
-  "in_force": "2016-09-01",
+  "in_force": "2017-01-01",
   "article_versions": 66,
-  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
