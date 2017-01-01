@@ -12,7 +12,14 @@ Dit besluit voorziet, aanvullend op en ter uitvoering van de bepalingen van het 
 
 ### ART. 2.
 
-In dit besluit wordt verstaan onder :<br />1° decreet van 8 mei 2009 : het decreet van 8 mei 2009 betreffende de diepe ondergrond;<br />2° minister : de Vlaamse minister, bevoegd voor de natuurlijke rijkdommen, als het de opsporing of de winning van koolwaterstoffen betreft, of de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, als het de geologische opslag van koolstofdioxide betreft.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° decreet van 8 mei 2009 : het decreet van 8 mei 2009 betreffende de diepe ondergrond;<br>
+2° minister : de Vlaamse minister, bevoegd voor de natuurlijke rijkdommen, als het de opsporing of de winning van koolwaterstoffen of aardwarmte, of de structuurvisie inzake de diepe ondergrond betreft, of de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, als het de geologische opslag van koolstofdioxide betreft;<br>
+3° afdeling, bevoegd voor natuurlijke rijkdommen: de afdeling Land en Bodembescherming, Ondergrond, Natuurlijke Rijkdommen van het Departement Leefmilieu, Natuur en Energie;<br>
+4° beveiligde zending: een van de onderstaande betekeningswijzen:<br>
+a) een analoge zending: een aangetekende zending of een afgifte tegen ontvangstbewijs;<br>
+b) een digitale zending: een zending via een uitwisselingsplatform van het departement waar de afdeling bevoegd voor de natuurlijke rijkdommen onder ressorteert.<br>
+&nbsp;
 
 ## HOOFDSTUK 2 Het opsporen en het winnen van koolwaterstoffen
 
@@ -22,15 +29,48 @@ In dit besluit wordt verstaan onder :<br />1° decreet van 8 mei 2009 : het decr
 
 ### ART. 3.
 
-Een aanvraag voor een opsporingsvergunning of een winningsvergunning wordt in twee exemplaren ingediend bij de minister, waarvan minstens een exemplaar per aangetekende zending. De aanvraag wordt ook op een elektronische drager ingediend, inclusief het kaartenmateriaal in shape-, grid-, dwg-, dxf-, of dgn-formaat.<br /><br />
+Een aanvraag voor een opsporings- of winningsvergunning voor koolwaterstoffen wordt ingediend bij de minister met een beveiligde zending. Als de beveiligde zending gebeurt in de vorm van een analoge zending wordt de aanvraag ook op een elektronische drager ingediend, inclusief het kaartenmateriaal in shape-, grid-, dwg-, dxf- of dgn-formaat.
 
 ### ART. 4.
 
-§ 1. De aanvraag vermeldt de volgende gegevens :<BR>1° als de aanvrager   een natuurlijke persoon is, de voornaam, de achternaam, het beroep, de   woonplaats en de nationaliteit van de aanvrager;<BR>2° als de aanvrager een   rechtspersoon is, de naam, de rechtsvorm, de maatschappelijke zetel, de statuten   en de stukken tot staving van de volmachten van de ondertekenaars van de   aanvraag, en de contactgegevens van een contactpersoon.<BR><BR>Als de aanvrager   een buitenlandse natuurlijke of rechtspersoon is, moet hij een adres kiezen in   België, dat dienst zal doen als correspondentieadres.<BR><BR>Als een staat van   buiten de Europese Economische Ruimte of een onderdaan of rechtspersoon daarvan   feitelijk zeggenschap heeft over de aanvrager, wordt dat in de aanvraag   vermeld.<BR><BR>§ 2. Bovendien bevat de aanvraag de volgende gegevens :<BR>1° de   aard van de activiteit waarvoor de vergunning wordt aangevraagd;<BR>2° de duur   waarvoor de vergunning wordt aangevraagd, en een motivering daarvoor;<BR>3° het   gebied waarvoor de vergunning wordt aangevraagd, inclusief de diepte, de   oppervlakte en de ligging ervan, waarbij de begrenzingscoördinaten worden   aangegeven in Lambert BD72 voor de x- en y-coördinaten en in mTAW voor de   z-coördinaat;<BR>4° als het een aanvraag voor een winningsvergunning betreft, de   aard, de samenstelling en een raming van de hoeveelheid van de koolwaterstoffen   die gewonnen zullen worden, inclusief de daarbij gehanteerde   onzekerheidsanalyses.<BR><BR>
+§ 1. De aanvraag vermeldt de volgende gegevens :<br>
+1° als de aanvrager een natuurlijke persoon is, de voornaam, de achternaam, het beroep, de woonplaats en de nationaliteit van de aanvrager;<br>
+2° als de aanvrager een rechtspersoon is, de naam, de rechtsvorm, de maatschappelijke zetel, de statuten en de stukken tot staving van de volmachten van de ondertekenaars van de aanvraag, en de contactgegevens van een contactpersoon.<br>
+<br>
+Als de aanvrager een buitenlandse natuurlijke of rechtspersoon is, moet hij een adres kiezen in België, dat dienst zal doen als correspondentieadres.<br>
+<br>
+Als een staat van buiten de Europese Economische Ruimte of een onderdaan of rechtspersoon daarvan feitelijk zeggenschap heeft over de aanvrager, wordt dat in de aanvraag vermeld.<br>
+<br>
+§ 2. Bovendien bevat de aanvraag de volgende gegevens :<br>
+1° de aard van de activiteit waarvoor de vergunning wordt aangevraagd;<br>
+2° de duur waarvoor de vergunning wordt aangevraagd, en een motivering daarvoor;<br>
+3° het volumegebied waarvoor de vergunning wordt aangevraagd;<br>
+4° als het een aanvraag voor een winningsvergunning voor koolwaterstoffen betreft, de aard, de samenstelling en een raming van de hoeveelheid van de koolwaterstoffen die gewonnen zullen worden, inclusief de daarbij gehanteerde onzekerheidsanalyses.<br>
+&nbsp;
 
 ### ART. 5.
 
-§ 1. De volgende documenten worden bij de aanvraag gevoegd :<BR>1° een   nota met de gegevens op basis waarvan de technische mogelijkheden van de   aanvrager beoordeeld kunnen worden, met ten minste de volgende gegevens :<BR>a)   de referenties, diploma's en beroepstitels van het voornaamste leidinggevend   personeel van de aanvrager, en in het bijzonder van het personeel dat zal worden   belast met de uitvoering van en het toezicht op de activiteiten;<BR>b) een lijst   met de relevante opsporings- of winningsactiviteiten, naargelang het geval,   waaraan de aanvrager de afgelopen tien jaar heeft deelgenomen, met telkens een   korte beschrijving van die activiteiten;<BR>c) een beschrijving van de   technische middelen die aangewend zullen worden bij de uitvoering van en het   toezicht op de activiteiten; <BR>d) in voorkomend geval, de technische   mogelijkheden van de rechtspersonen waarvan de aanvrager de dochtermaatschappij   is, of die behoren tot de groep waartoe de aanvrager behoort, voor zover blijkt   dat die technische mogelijkheden ter beschikking staan of zullen staan van de   aanvrager;<BR>2° een nota met de gegevens op basis waarvan de financiële   mogelijkheden van de aanvrager beoordeeld kunnen worden, met ten minste de   volgende gegevens :<BR>a) de jaarrekeningen van de laatste drie jaar. Als de   aanvrager kan aantonen dat hij niet in staat is die documenten te verstrekken,   kan hem worden toegestaan andere geschikte gegevens voor te leggen op basis   waarvan zijn financiële mogelijkheden beoordeeld kunnen worden;<BR>b) een   beschrijving van de wijze waarop de aanvrager zich voorneemt de voorgenomen   activiteiten te financieren;<BR>c) in voorkomend geval, de financiële   mogelijkheden van de rechtspersonen waarvan de aanvrager de dochtermaatschappij   is, of die behoren tot de groep waartoe de aanvrager behoort, voor zover blijkt   dat die financiële mogelijkheden ter beschikking staan of zullen staan van de   aanvrager;<BR>3° een digitaal plan met een relevante en werkbare schaal, waarop   de grenzen van het gebied zijn aangeduid. Het plan vermeldt ook waar de   aanvrager zich voorneemt geologisch onderzoek te verrichten, inclusief de   vermelding van de geologische lagen en de stratigrafische intervallen, alsook   een raming van het aantal, de locatie, de diepte en de methode van de   voorgenomen boringen, en de ligging van de seismische tracés en de voorgenomen   techniek van het seismische onderzoek;<BR>4° een nota met daarin een uitvoerige   beschrijving van de manier waarop de aanvrager zich voorneemt de activiteiten   waarvoor de vergunning wordt aangevraagd, te verrichten;<BR>5° een tijdschema   van alle voorgenomen activiteiten, inclusief een raming van de jaarlijkse   investeringen, van de lopende kosten en, in geval van winning, van de   opbrengsten, en de daarbij gehanteerde onzekerheidsanalyses;<BR>6° een   geologische nota met daarin een beschrijving van de lokale en regionale   geologie, en bovendien op zijn minst :<BR>a) als het een aanvraag voor een   opsporingsvergunning betreft, een opgave van de voor de onderbouwing van de   aanvraag gebruikte verkenningsonderzoeken of andere geologische gegevens, de   interpretatie van die gegevens en de daarbij gehanteerde   onzekerheidsanalyse;<BR>b) als het een aanvraag voor een winningsvergunning   betreft, een overzicht van de resultaten die voortvloeien uit de voorafgaande   opsporingsvergunning, een ontwerp van winningsplan en een ontwerp van   meetplan;<BR>7° een nota met daarin een beschrijving van de impact van de   geplande activiteiten op het milieu en de boven- en ondergrondse omgeving, en   een beschrijving van de middelen die zullen worden aangewend om die impact tot   een minimum te beperken;<BR>8° voor het gebied waarop de aanvraag slaat, en tien   kilometer daarbuiten, een overzicht van alle vergunningen die verleend zijn in   het kader van hoofdstuk III van het decreet van 8 mei 2009, alle vergunningen   die verleend zijn in het kader van de wet van 18 juli 1975 betreffende het   opsporen en exploiteren van ondergrondse bergruimten in situ voor het opslaan   van gas, alle vergunningen die verleend zijn in het kader van geothermische   projecten met een diepte van ten minste 500 meter, en van alle bergingen van   radioactief afval, met inbegrip van een modellering die de drukeffecten van de   voorgenomen activiteit in de ondergrond op korte en lange afstand duidelijk   maakt met het oog op mogelijke drukinteracties tussen de bestaande en de   geplande activiteiten.<BR><BR>§ 2. De minister kan op elk moment aanvullende   informatie vragen als hij dat voor de beoordeling van de aanvraag noodzakelijk   acht.<BR><BR>
+§ 1. De volgende documenten worden bij de aanvraag gevoegd :<br>
+1° een nota met de gegevens op basis waarvan de technische mogelijkheden van de aanvrager beoordeeld kunnen worden, met ten minste de volgende gegevens :<br>
+a) de referenties, diploma's en beroepstitels van het voornaamste leidinggevend personeel van de aanvrager, en in het bijzonder van het personeel dat zal worden belast met de uitvoering van en het toezicht op de activiteiten;<br>
+b) een lijst met de relevante opsporings- of winningsactiviteiten, naargelang het geval, waaraan de aanvrager de afgelopen tien jaar heeft deelgenomen, met telkens een korte beschrijving van die activiteiten;<br>
+c) een beschrijving van de technische middelen die aangewend zullen worden bij de uitvoering van en het toezicht op de activiteiten;<br>
+d) in voorkomend geval, de technische mogelijkheden van de rechtspersonen waarvan de aanvrager de dochtermaatschappij is, of die behoren tot de groep waartoe de aanvrager behoort, voor zover blijkt dat die technische mogelijkheden ter beschikking staan of zullen staan van de aanvrager;<br>
+2° een nota met de gegevens op basis waarvan de financiële mogelijkheden van de aanvrager beoordeeld kunnen worden, met ten minste de volgende gegevens :<br>
+a) de jaarrekeningen van de laatste drie jaar. Als de aanvrager kan aantonen dat hij niet in staat is die documenten te verstrekken, kan hem worden toegestaan andere geschikte gegevens voor te leggen op basis waarvan zijn financiële mogelijkheden beoordeeld kunnen worden;<br>
+b) een beschrijving van de wijze waarop de aanvrager zich voorneemt de voorgenomen activiteiten te financieren;<br>
+c) in voorkomend geval, de financiële mogelijkheden van de rechtspersonen waarvan de aanvrager de dochtermaatschappij is, of die behoren tot de groep waartoe de aanvrager behoort, voor zover blijkt dat die financiële mogelijkheden ter beschikking staan of zullen staan van de aanvrager;<br>
+3° een digitaal plan met een relevante en werkbare schaal, waarop de grenzen van het volumegebied zijn aangeduid. Het plan vermeldt ook waar de aanvrager zich voorneemt geologisch onderzoek te verrichten, inclusief de vermelding van de geologische lagen en de stratigrafische intervallen, alsook een raming van het aantal, de locatie, de diepte en de methode van de voorgenomen boringen, en de ligging van de seismische tracés en de voorgenomen techniek van het seismische onderzoek;<br>
+4° een nota met daarin een uitvoerige beschrijving van de manier waarop de aanvrager zich voorneemt de activiteiten waarvoor de vergunning wordt aangevraagd, te verrichten;<br>
+5° een tijdschema van alle voorgenomen activiteiten, inclusief een raming van de jaarlijkse investeringen, van de lopende kosten en, in geval van winning, van de opbrengsten, en de daarbij gehanteerde onzekerheidsanalyses;<br>
+6° een geologische nota met daarin een beschrijving van de lokale en regionale geologie, en bovendien op zijn minst :<br>
+a) als het een aanvraag voor een opsporingsvergunning voor koolwaterstoffen betreft, een opgave van de voor de onderbouwing van de aanvraag gebruikte verkenningsonderzoeken of andere geologische gegevens, de interpretatie van die gegevens en de daarbij gehanteerde onzekerheidsanalyse;<br>
+b) als het een aanvraag voor een winningsvergunning voor koolwaterstoffen betreft, een overzicht van de resultaten die voortvloeien uit de voorafgaande opsporingsvergunning voor koolwaterstoffen, een ontwerp van winningsplan voor koolwaterstoffen en een ontwerp van meetplan;<br>
+7° een nota met daarin een beschrijving van de impact van de geplande activiteiten op het milieu en de boven- en ondergrondse omgeving, en een beschrijving van de middelen die zullen worden aangewend om die impact tot een minimum te beperken;<br>
+8° voor het volumegebied waarop de aanvraag betrekking heeft, en tien kilometer daarbuiten, een overzicht van alle verleende vergunningen, vermeld in hoofdstuk II, III en III/1 van het decreet van 8 mei 2009, alle verleende vergunningen, vermeld in de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ bestemd voor het opslaan van gas, en alle vergunningen voor de ondergrondse berging van radioactief afval, met inbegrip van een modellering die de drukeffecten van de voorgenomen activiteit in de ondergrond op korte en lange afstand duidelijk maakt met het oog op mogelijke drukinteracties tussen de bestaande en de geplande activiteiten.<br>
+<br>
+§ 2. De minister kan op elk moment aanvullende informatie vragen als hij dat voor de beoordeling van de aanvraag noodzakelijk acht.<br>
+&nbsp;
 
 ## Onderafdeling 2 De behandeling van een vergunningsaanvraag
 
@@ -40,7 +80,18 @@ In geval van toepassing van artikel 6 of 8 van het decreet van 8 mei 2009 neemt 
 
 ### ART. 7.
 
-§ 1. In geval van toepassing van artikel 7, § 1, 1°, of artikel 34, § 2,   eerste of tweede lid, van het decreet van 8 mei 2009 neemt de Vlaamse Regering,   op voorstel van de minister, een beslissing over de vergunningsaanvraag binnen   een termijn van honderd twintig dagen nadat de aanvraag is ingediend en volledig   bevonden is.<BR><BR>In geval van toepassing van artikel 7, § 1, 2°, van het   decreet van 8 mei 2009 deelt de minister binnen een termijn van zestig dagen   nadat de aanvraag is ingediend en volledig bevonden is, aan de aanvrager mee dat   de vergunningsaanvraag afgewezen wordt omdat er voor dat gebied al een   soortgelijke vergunning of een opsporingsvergunning voor koolstofdioxideopslag   in het kader van hoofdstuk III van het decreet van 8 mei 2009 is   verleend.<BR><BR>In geval van toepassing van artikel 7, § 1, 3°, van het decreet   van 8 mei 2009 deelt de minister binnen een termijn van honderdtwintig dagen   nadat de aanvraag is ingediend en volledig bevonden is, aan de aanvrager mee dat   de Vlaamse Regering het gebied waarop de aanvraag slaat, niet openstelt voor de   opsporing of de winning van koolwaterstoffen.<BR><BR>In geval van een   vergunningsaanvraag die in strijd is met artikel 34, § 3, van het decreet van 8   mei 2009 deelt de minister binnen een termijn van zestig dagen nadat de aanvraag   is ingediend en volledig bevonden is, aan de aanvrager mee dat de   vergunningsaanvraag afgewezen wordt omdat de aanvraag slaat op een gebied dat   het voorwerp uitmaakt van een in het kader van de gecoördineerde Mijnwetten   verleende concessie, vergunning of andersoortige toestemming die betrekking   heeft op de opsporing of de winning van koolwaterstoffen.<BR><BR>§ 2. In geval   van toepassing van artikel 7, § 2, 1°, van het decreet van 8 mei 2009 nodigt de   minister de houders van vergunningen voor eventuele aangrenzende gebieden uit om   binnen een termijn van negentig dagen ook een aanvraag in te dienen. De Vlaamse   Regering neemt, op voorstel van de minister, een beslissing over de   vergunningsaanvragen binnen een termijn van honderdtwintig dagen na het aflopen   van de termijn van negentig dagen waarbinnen de andere vergunninghouders ook een   aanvraag konden indienen of hun opmerkingen konden meedelen.<BR><BR>In geval van   toepassing van artikel 7, § 2, 2°, van het decreet van 8 mei 2009 wordt de   procedure, vermeld in artikel 6 van het decreet van 8 mei 2009, niet gevolgd.   Als de aanvrager ook de houder van de reeds verleende opslagvergunning is,   beoordeelt de minister in het bijzonder of de activiteit waarvoor de vergunning   wordt aangevraagd, gecombineerd kan worden met de reeds vergunde   opslagactiviteit, en neemt de Vlaamse Regering, op voorstel van de minister, een   beslissing over de vergunningsaanvraag binnen een termijn van honderdtwintig   dagen nadat de aanvraag is ingediend en volledig bevonden is. Als de aanvrager   niet de houder van de reeds verleende opslagvergunning is, deelt de minister   binnen een termijn van zestig dagen nadat de aanvraag is ingediend en volledig   bevonden is, aan de aanvrager mee dat de vergunningsaanvraag afgewezen wordt   omdat de aanvraag betrekking heeft op een gebied waarvoor op dat ogenblik al aan   een ander een opslagvergunning in het kader van hoofdstuk III van het decreet   van 8 mei 2009, of een vergunning in het kader van de wet van 18 juli 1975   betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ   voor het opslaan van gas, is verleend.<BR><BR>
+§ 1. In geval van toepassing van artikel 7, § 1, 1°, of artikel 34, § 2, eerste of tweede lid, van het decreet van 8 mei 2009 neemt de Vlaamse Regering, op voorstel van de minister, een beslissing over de vergunningsaanvraag binnen een termijn van honderd twintig dagen nadat de aanvraag is ingediend en volledig bevonden is.<br>
+<br>
+In geval van toepassing van artikel 7, § 1, 2°, van het decreet van 8 mei 2009 deelt de minister binnen een termijn van zestig dagen nadat de aanvraag is ingediend en volledig bevonden is, aan de aanvrager mee dat de vergunningsaanvraag afgewezen wordt omdat er voor dat volumegebied al een soortgelijke vergunning of een opsporingsvergunning voor koolstofdioxideopslag in het kader van hoofdstuk III van het decreet van 8 mei 2009 is verleend.<br>
+<br>
+In geval van toepassing van artikel 7, § 1, 3°, van het decreet van 8 mei 2009 deelt de minister binnen een termijn van honderdtwintig dagen nadat de aanvraag is ingediend en volledig bevonden is, aan de aanvrager mee dat de Vlaamse Regering het volumegebied waarop de aanvraag slaat, niet openstelt voor de opsporing of de winning van koolwaterstoffen.<br>
+<br>
+In geval van een vergunningsaanvraag die in strijd is met artikel 34, § 3, van het decreet van 8 mei 2009 deelt de minister binnen een termijn van zestig dagen nadat de aanvraag is ingediend en volledig bevonden is, aan de aanvrager mee dat de vergunningsaanvraag afgewezen wordt omdat de aanvraag slaat op een volumegebied dat het voorwerp uitmaakt van een in het kader van de gecoördineerde Mijnwetten verleende concessie, vergunning of andersoortige toestemming die betrekking heeft op de opsporing of de winning van koolwaterstoffen.<br>
+<br>
+§ 2. In geval van toepassing van artikel 7, § 2, 1°, van het decreet van 8 mei 2009 nodigt de minister de houders van vergunningen voor eventuele aangrenzende volumegebieden uit om binnen een termijn van negentig dagen ook een aanvraag in te dienen. De Vlaamse Regering neemt, op voorstel van de minister, een beslissing over de vergunningsaanvragen binnen een termijn van honderdtwintig dagen na het aflopen van de termijn van negentig dagen waarbinnen de andere vergunninghouders ook een aanvraag konden indienen of hun opmerkingen konden meedelen.<br>
+<br>
+In geval van toepassing van artikel 7, § 2, 2°, van het decreet van 8 mei 2009 wordt de procedure, vermeld in artikel 6 van het voormelde decreet, niet gevolgd. Als de aanvrager ook de houder van de reeds verleende opslagvergunning of opsporings- of winningsvergunning voor aardwarmte is, beoordeelt de minister in het bijzonder of de activiteit waarvoor de vergunning wordt aangevraagd, gecombineerd kan worden met de reeds vergunde activiteit, en neemt de Vlaamse Regering, op voorstel van de minister, een beslissing over de vergunningsaanvraag binnen een termijn van honderdtwintig dagen nadat de aanvraag ingediend is en volledig bevonden is. Als de aanvrager niet de houder van de reeds verleende opslagvergunning of opsporings- of winningsvergunning voor aardwarmte is, deelt de minister binnen een termijn van zestig dagen nadat de aanvraag ingediend is en volledig bevonden is, aan de aanvrager mee dat de vergunningsaanvraag afgewezen wordt omdat de aanvraag betrekking heeft op een volumegebied waarvoor op dat ogenblik al aan een ander een opslagvergunning als vermeld in hoofdstuk III van het decreet van 8 mei 2009, een opsporings- of winningsvergunning voor aardwarmte als vermeld in hoofdstuk III/1 van het voormelde decreet, een vergunning voor de ondergrondse berging van radioactief afval of een vergunning als vermeld in de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ bestemd voor het opslaan van gas, is verleend.<br>
+&nbsp;
 
 ### ART. 8.
 
@@ -56,29 +107,111 @@ Een besluit van de Vlaamse Regering waarbij een vergunning wordt verleend of gew
 
 ### ART. 10.
 
-§ 1. Samen met de aanvraag voor een winningsvergunning wordt een ontwerp van een winningsplan, als vermeld in artikel 15 van het decreet van 8 mei 2009, ingediend bij de minister.<br /><br />§ 2. Het ontwerp van winningsplan bevat minstens de volgende gegevens :<br />1° een beschrijving, op basis van vroeger uitgevoerd opsporingsonderzoek, van de verwachte hoeveelheid en samenstelling van de aanwezige koolwaterstoffen, onderverdeeld in reservoirlaag en reservoircompartiment;<br />2° een beschrijving van de structuur waarin de koolwaterstoffen voorkomen, onderverdeeld in reservoirlaag en reservoircompartiment, met de bijbehorende gedetailleerde geologische, geochemische, geofysische en petrofysische studies, en de daarbij gehanteerde onzekerheidsanalyses;<br />3° een beschrijving van de wijze van winning;<br />4° een planning van het aantal boorgaten dat bij de winning gebruikt zal worden, inclusief de ligging en de gedetailleerde technische specificaties ervan;<br />5° een planning van de volgorde en het tijdsbestek van het maken van de boorgaten;<br />6° een opgave van de plaats waar en de wijze waarop de koolwaterstoffen in de verbuizing treden;<br />7° een raming van de samenstelling en de hoeveelheid van de stoffen die jaarlijks onvermijdelijk bij de winning van de koolwaterstoffen meekomen;<br />8° een raming van de hoeveelheden gewonnen koolwaterstoffen die jaarlijks bij de winning worden gebruikt, afgeblazen of afgefakkeld;<br />9° een raming van de samenstelling en hoeveelheden van andere stoffen die jaarlijks bij de winning in de ondergrond worden teruggebracht of aan de oppervlakte worden afgevoerd;<br />10° een raming van de jaarlijkse kosten van de winning, onderverdeeld in kosten voor investeringen, onderhoud en bedrijfsvoering;<br />11° een kaart met daarop de isocontouren en de verwachte uiteindelijke mate van bodembeweging;<br />12° een overzicht met het verloop van de verwachte mate van bodembeweging in de tijd;<br />13° een onzekerheidsanalyse met betrekking tot de verwachte mate van bodembeweging;<br />14° een risicoanalyse met betrekking tot bodemtrillingen als gevolg van de winning;<br />15° een beschrijving van de mogelijke omvang en de verwachte aard van de schade door bodembeweging;<br />16° een beschrijving van de maatregelen die genomen worden om bodembeweging en de daaruit voortvloeiende schade te voorkomen of te beperken.<br /><br />§ 3. Samen met het besluit waarbij de Vlaamse Regering een winningsvergunning verleent, hecht de minister zijn goedkeuring aan het winningsplan. De minister kan beperkingen en voorwaarden verbinden aan zijn goedkeuring.<br /><br />§ 4. Een aanvraag tot wijziging of actualisering van het winningsplan wordt, voorzien van de nodige motivering, per aangetekende zending ter goedkeuring bij de minister ingediend. De minister kan zelf ook wijzigingen of actualiseringen van het winningsplan voorstellen.<br /><br />
+§ 1. Samen met de aanvraag voor een winningsvergunning voor koolwaterstoffen wordt een ontwerp van een winningsplan voor koolwaterstoffen, als vermeld in artikel 15 van het decreet van 8 mei 2009, ingediend bij de minister.<br>
+<br>
+§ 2. Het ontwerp van winningsplan voor koolwaterstoffen bevat minstens de volgende gegevens :<br>
+1° een beschrijving, op basis van vroeger uitgevoerd opsporingsonderzoek, van de verwachte hoeveelheid en samenstelling van de aanwezige koolwaterstoffen, onderverdeeld in reservoirlaag en reservoircompartiment;<br>
+2° een beschrijving van de structuur waarin de koolwaterstoffen voorkomen, onderverdeeld in reservoirlaag en reservoircompartiment, met de bijbehorende gedetailleerde geologische, geochemische, geofysische en petrofysische studies, en de daarbij gehanteerde onzekerheidsanalyses;<br>
+3° een beschrijving van de wijze en de duur van de winning en de daarmee verband houdende activiteiten, inclusief de technieken die daarbij worden gebruikt;<br>
+4° een planning van het aantal boorgaten dat bij de winning gebruikt zal worden, inclusief de ligging en de gedetailleerde technische specificaties ervan;<br>
+5° een planning van de volgorde en het tijdsbestek van het maken van de boorgaten;<br>
+6° een opgave van de plaats waar en de wijze waarop de koolwaterstoffen in de verbuizing treden;<br>
+7° een raming van de samenstelling en de hoeveelheid van de stoffen die jaarlijks onvermijdelijk bij de winning van de koolwaterstoffen meekomen;<br>
+8° een raming van de hoeveelheden gewonnen koolwaterstoffen die jaarlijks bij de winning worden gebruikt, afgeblazen of afgefakkeld;<br>
+9° een raming van de samenstelling en hoeveelheden van andere stoffen die jaarlijks bij de winning in de ondergrond worden teruggebracht of aan de oppervlakte worden afgevoerd;<br>
+10° een raming van de jaarlijkse kosten van de winning, onderverdeeld in kosten voor investeringen, onderhoud en bedrijfsvoering;<br>
+10° /1 een raming van de kosten van het veilig afsluiten en verlaten van de boorgaten;<br>
+1° een kaart met daarop de isocontouren en de verwachte uiteindelijke mate van bodembeweging;<br>
+12° een overzicht met het verloop van de verwachte mate van bodembeweging in de tijd;<br>
+13° een onzekerheidsanalyse met betrekking tot de verwachte mate van bodembeweging;<br>
+14° een risicoanalyse met betrekking tot bodemtrillingen als gevolg van de winning;<br>
+15° een beschrijving van de mogelijke omvang en de verwachte aard van de schade door bodembeweging;<br>
+16° een beschrijving van de maatregelen die genomen worden om bodembeweging en de daaruit voortvloeiende schade te voorkomen of te beperken.<br>
+<br>
+§ 3. Samen met het besluit waarbij de Vlaamse Regering een winningsvergunning voor koolwaterstoffen verleent, hecht de minister zijn goedkeuring aan het winningsplan voor koolwaterstoffen. De minister kan beperkingen en voorwaarden verbinden aan zijn goedkeuring.<br>
+<br>
+§ 4. Een aanvraag tot wijziging of actualisering van het winningsplan voor koolwaterstoffen wordt, voorzien van de nodige motivering, met een beveiligde zending ter goedkeuring bij de minister ingediend. De minister kan zelf ook wijzigingen of actualiseringen van het winningsplan voor koolwaterstoffen opleggen.<br>
+&nbsp;
 
 ## Onderafdeling 5 Het meten van bodembeweging
 
 ### ART. 11.
 
-§ 1. De metingen die de houder of laatste houder van een winningsvergunning overeenkomstig artikel 17, eerste lid, van het decreet van 8 mei 2009 moet verrichten met het oog op het inschatten van de kans op bodembeweging als gevolg van het winnen van koolwaterstoffen, worden verricht overeenkomstig een meetplan.<br /><br />Samen met de aanvraag voor een winningsvergunning wordt een ontwerp van een meet plan ingediend bij de minister.<br /><br />Het meetplan beslaat de duur van de winningsvergunning en de periode tot dertig jaar na het beëindigen van het winnen, tenzij de Vlaamse Regering de termijn van dertig jaar overeenkomstig artikel 17, eerste lid, van het decreet van 8 mei 2009 ingekort of verlengd heeft. <br /><br />§ 2. Het meetplan bevat minstens de volgende gegevens :<br />1° een beschrijving van de tijdstippen waarop de metingen worden verricht, waarbij een van die tijdstippen voor de aanvang van de winning gesitueerd is; <br />2° de plaatsen waar gemeten wordt; <br />3° de gehanteerde meetmethoden; <br />4° een inschatting van de kans op schade door bodembeweging als gevolg van de winning van koolwaterstoffen.<br /><br />§ 3. Samen met het besluit waarbij de Vlaamse Regering een winningsvergunning verleent, hecht de minister zijn goedkeuring aan het meetplan. De minister kan beperkingen en voorwaarden verbinden aan zijn goedkeuring.<br /><br />§ 4. Tijdens de duur van de winningsvergunning en de eerste vijf jaar na het beëindigen van de winning wordt het meetplan jaarlijks geactualiseerd, en daarna vijfjaarlijks. Die actualiseringen worden per aangetekende zending aan de minister gemeld. Als de minister niet akkoord gaat met die actualiseringen, meldt hij dat binnen een termijn van zestig dagen aan de houder of laatste houder van de winningsvergunning. De minister kan ook altijd zelf actualiseringen aan het meetplan opleggen.<br /><br />§ 5. De houder of laatste houder van de winningsvergunning draagt er zorg voor dat de metingen op een nauwkeurige en betrouwbare wijze verricht worden.<br /><br />De resultaten van de metingen worden jaarlijks per aangetekende zending aan de minister gerapporteerd. <br /><br />De minister kan de houder of laatste houder van de winningsvergunning altijd maatregelen opleggen om de kans op bodembeweging te verminderen, of om de gevolgen ervan ongedaan te maken of te beperken.<br /><br />
+§ 1. De metingen die de houder of laatste houder van een winningsvergunning voor koolwaterstoffen overeenkomstig artikel 17, eerste lid, van het decreet van 8 mei 2009 moet verrichten met het oog op het inschatten van de kans op bodembeweging als gevolg van het winnen van koolwaterstoffen, worden verricht overeenkomstig een meetplan.<br>
+<br>
+Samen met de aanvraag voor een winningsvergunning voor koolwaterstoffen wordt een ontwerp van een meet plan ingediend bij de minister.<br>
+<br>
+Het meetplan beslaat de duur van de winningsvergunning voor koolwaterstoffen en de periode tot dertig jaar na het beëindigen van het winnen, tenzij de Vlaamse Regering de termijn van dertig jaar overeenkomstig artikel 17, eerste lid, van het decreet van 8 mei 2009 ingekort of verlengd heeft.<br>
+<br>
+§ 2. Het meetplan bevat minstens de volgende gegevens :<br>
+1° een beschrijving van de tijdstippen waarop de metingen worden verricht, waarbij een van die tijdstippen voor de aanvang van de winning gesitueerd is;<br>
+2° de plaatsen waar gemeten wordt;<br>
+3° de gehanteerde meetmethoden;<br>
+4° een inschatting van de kans op schade door bodembeweging als gevolg van de winning van koolwaterstoffen.<br>
+<br>
+§ 3. Samen met het besluit waarbij de Vlaamse Regering een winningsvergunning voor koolwaterstoffen verleent, hecht de minister zijn goedkeuring aan het meetplan. De minister kan beperkingen en voorwaarden verbinden aan zijn goedkeuring.<br>
+<br>
+§ 4. Tijdens de duur van de winningsvergunning voor koolwaterstoffen en de eerste vijf jaar na het beëindigen van de winning wordt het meetplan jaarlijks geactualiseerd, en daarna vijfjaarlijks. Die actualiseringen worden met een beveiligde zending aan de minister gemeld. Als de minister niet akkoord gaat met die actualiseringen, meldt hij dat binnen een termijn van zestig dagen aan de houder of laatste houder van de winningsvergunning voor koolwaterstoffen. De minister kan ook altijd zelf actualiseringen aan het meetplan opleggen.<br>
+<br>
+§ 5. De houder of laatste houder van de winningsvergunning voor koolwaterstoffen draagt er zorg voor dat de metingen op een nauwkeurige en betrouwbare wijze verricht worden.<br>
+<br>
+De resultaten van de metingen worden jaarlijks met een beveiligde zending aan de minister gerapporteerd.<br>
+<br>
+De minister kan de houder of laatste houder van de winningsvergunning voor koolwaterstoffen altijd maatregelen opleggen om de kans op bodembeweging te verminderen, of om de gevolgen ervan ongedaan te maken of te beperken.<br>
+&nbsp;
 
 ## Onderafdeling 6 De wijziging, overdracht of afstand van een vergunning
 
 ### ART. 12.
 
-Een aanvraag tot het verkrijgen van een wijziging, een overdracht of een afstand van een vergunning wordt per aangetekende zending ingediend bij de minister. De aanvraag moet gemotiveerd zijn. <br /><br />De Vlaamse Regering doet, op voorstel van de minister, binnen een termijn van honderd twintig dagen een uitspraak over de aanvraag.<br /><br />
+Een aanvraag tot het verkrijgen van een wijziging, een overdracht of een afstand van een vergunning wordt met een beveiligde zending ingediend bij de minister. De aanvraag moet gemotiveerd zijn.<br>
+<br>
+De Vlaamse Regering doet, op voorstel van de minister, binnen een termijn van honderd twintig dagen een uitspraak over de aanvraag.<br>
+&nbsp;
 
 ## Afdeling 2 Vergoedingen aan het Vlaamse Gewest
 
 ### ART. 13.
 
-§ 1. Bij het verlenen van de winningsvergunning bepaalt de Vlaamse Regering het tarief van de vergoeding die de houder van de winningsvergunning overeenkomstig artikel 27 van het decreet van 8 mei 2009 aan het Vlaamse Gewest verschuldigd is.<br /><br />§ 2. Voor het winnen van gasvormige koolwaterstoffen bedraagt het tarief :<br />1° voor de schijf tot vijfhonderd miljoen m3 : 2 %;<br />2° voor de schijf vanaf vijfhonderd miljoen tot twee miljard m3 : tussen 2 % en 5 %;<br />3° voor de schijf vanaf twee miljard tot vijf miljard m3 : tussen 2 % en 10 %;<br />4° voor de schijf vanaf vijf miljard m3 : tussen 2 % en 20 %.<br /><br />Voor het winnen van vaste koolwaterstoffen bedraagt het tarief :<br />1° voor de schijf tot tien miljoen ton : 2 %;<br />2° voor de schijf vanaf tien miljoen tot vijftig miljoen ton : tussen 2 % en 5 %;<br />3° voor de schijf vanaf vijftig miljoen tot honderd miljoen ton : tussen 2 % en 10 %;<br />4° voor de schijf vanaf honderd miljoen ton : tussen 2 % en 20 %.<br /><br />Voor het winnen van vloeibare koolwaterstoffen bedraagt het tarief :<br />1° voor de schijf tot twee miljoen m3 : 2 %;<br />2° voor de schijf vanaf twee miljoen tot vijf miljoen m3 : tussen 2 % en 5 %;<br />3° voor de schijf vanaf vijf miljoen tot tien miljoen m3 : tussen 2 % en 10 %;<br />4° voor de schijf vanaf tien miljoen m3 : tussen 2 % en 20 %.<br /><br />De vermelde percentages worden overeenkomstig artikel 27, § 2, van het decreet van 8 mei 2009 berekend op de gemiddelde marktwaarde van de in de voorbije winningsperiode gewonnen hoeveelheid koolwaterstoffen.<br /><br />§ 3. Bij het bepalen van het tarief van de vergoeding worden vergunninghouders onderling niet gediscrimineerd en wordt een progressief tarief gehanteerd.<br /><br />Bij het bepalen van de hoeveelheden koolwaterstoffen, vermeld in paragraaf 2, wordt gekeken naar de totale hoeveelheid koolwaterstoffen per vergunningsgebied die vanaf de inwerkingtreding van dit besluit gewonnen is, in voorkomend geval onderverdeeld per type koolwaterstof, met uitzondering van de koolwaterstoffen die met gebruikmaking van een opsporingsvergunning als monsters of formatiebeproevingen aan de ondergrond werden onttrokken.<br /><br />Bij het bepalen van de gemiddelde marktwaarde van de gewonnen koolwaterstoffen wordt rekening gehouden met alle relevante parameters, zoals onder meer de chemische samenstelling en de druk.<br /><br />
+§ 1. Bij het verlenen van de winningsvergunning voor koolwaterstoffen bepaalt de Vlaamse Regering het tarief van de vergoeding die de houder van de winningsvergunning voor koolwaterstoffen overeenkomstig artikel 27 van het decreet van 8 mei 2009 aan het Vlaamse Gewest verschuldigd is.<br>
+<br>
+§ 2. Voor het winnen van gasvormige koolwaterstoffen bedraagt het tarief :<br>
+1° voor de schijf tot vijfhonderd miljoen m3 : 2 %;<br>
+2° voor de schijf vanaf vijfhonderd miljoen tot twee miljard m3 : tussen 2 % en 5 %;<br>
+3° voor de schijf vanaf twee miljard tot vijf miljard m3 : tussen 2 % en 10 %;<br>
+4° voor de schijf vanaf vijf miljard m3 : tussen 2 % en 20 %.<br>
+<br>
+Voor het winnen van vaste koolwaterstoffen bedraagt het tarief :<br>
+1° voor de schijf tot tien miljoen ton : 2 %;<br>
+2° voor de schijf vanaf tien miljoen tot vijftig miljoen ton : tussen 2 % en 5 %;<br>
+3° voor de schijf vanaf vijftig miljoen tot honderd miljoen ton : tussen 2 % en 10 %;<br>
+4° voor de schijf vanaf honderd miljoen ton : tussen 2 % en 20 %.<br>
+<br>
+Voor het winnen van vloeibare koolwaterstoffen bedraagt het tarief :<br>
+1° voor de schijf tot twee miljoen m3 : 2 %;<br>
+2° voor de schijf vanaf twee miljoen tot vijf miljoen m3 : tussen 2 % en 5 %;<br>
+3° voor de schijf vanaf vijf miljoen tot tien miljoen m3 : tussen 2 % en 10 %;<br>
+4° voor de schijf vanaf tien miljoen m3 : tussen 2 % en 20 %.<br>
+<br>
+De vermelde percentages worden overeenkomstig artikel 27, § 2, van het decreet van 8 mei 2009 berekend op de gemiddelde marktwaarde van de in de voorbije winningsperiode gewonnen hoeveelheid koolwaterstoffen.<br>
+<br>
+§ 3. Bij het bepalen van het tarief van de vergoeding worden vergunninghouders onderling niet gediscrimineerd en wordt een progressief tarief gehanteerd.<br>
+<br>
+Bij het bepalen van de hoeveelheden koolwaterstoffen, vermeld in paragraaf 2, wordt gekeken naar de totale hoeveelheid koolwaterstoffen per vergunningsgebied die vanaf de inwerkingtreding van dit besluit gewonnen is, in voorkomend geval onderverdeeld per type koolwaterstof, met uitzondering van de koolwaterstoffen die met gebruikmaking van een opsporingsvergunning voor koolwaterstoffen als monsters of formatiebeproevingen aan de ondergrond werden onttrokken.<br>
+<br>
+Bij het bepalen van de gemiddelde marktwaarde van de gewonnen koolwaterstoffen wordt rekening gehouden met alle relevante parameters, zoals onder meer de chemische samenstelling en de druk.<br>
+&nbsp;
 
 ### ART. 14.
 
-§ 1. De houder van een winningsvergunning dient jaarlijks voor het einde van de derde maand na het aflopen van een winningsperiode per aangetekende zending een aangifte in bij de minister met daarin een opgave van de in de voorbije winningsperiode gewonnen hoeveelheid koolwaterstoffen, in voorkomend geval onderverdeeld per type koolwaterstof.<br /><br />De vergunninghouder noteert maandelijks de gewonnen hoeveelheid koolwaterstoffen, in voorkomend geval onderverdeeld per type koolwaterstof, in een daartoe bijgehouden register. Als hij daar om verzocht wordt, legt de vergunninghouder alle documenten en gegevens voor die nodig zijn om de juistheid van de aangegeven gewonnen hoeveelheid koolwaterstoffen te controleren.<br /><br />§ 2. De minister deelt binnen een termijn van negentig dagen nadat de aangifte ingediend is, per aangetekende zending het verschuldigde bedrag van de vergoeding aan de vergunninghouder mee.<br /><br />§ 3. De vergunninghouder betaalt het verschuldigde bedrag binnen een termijn van zestig dagen na de datum van de aangetekende zending, vermeld in paragraaf 2. Het verschuldigde bedrag wordt betaald door middel van een overschrijving op een door de minister aan de vergunninghouder meegedeeld bankrekeningnummer.<br /><br />
+§ 1. De houder van een winningsvergunning voor koolwaterstoffen dient jaarlijks voor het einde van de derde maand na het aflopen van een winningsperiode per beveiligde zending een aangifte in bij de minister met daarin een opgave van de in de voorbije winningsperiode gewonnen hoeveelheid koolwaterstoffen, in voorkomend geval onderverdeeld per type koolwaterstof.<br>
+<br>
+De vergunninghouder noteert maandelijks de gewonnen hoeveelheid koolwaterstoffen, in voorkomend geval onderverdeeld per type koolwaterstof, in een daartoe bijgehouden register. Als hij daar om verzocht wordt, legt de vergunninghouder alle documenten en gegevens voor die nodig zijn om de juistheid van de aangegeven gewonnen hoeveelheid koolwaterstoffen te controleren.<br>
+<br>
+§ 2. De minister deelt binnen een termijn van negentig dagen nadat de aangifte ingediend is, per beveiligde zending het verschuldigde bedrag van de vergoeding aan de vergunninghouder mee.<br>
+<br>
+§ 3. De vergunninghouder betaalt het verschuldigde bedrag binnen een termijn van zestig dagen na de datum van de beveiligde zending, vermeld in paragraaf 2. Het verschuldigde bedrag wordt betaald door middel van een overschrijving op een door de minister aan de vergunninghouder meegedeeld bankrekeningnummer.<br>
+&nbsp;
 
 ## [HOOFDSTUK 2/1 De geologische opslag van koolstofdioxide (ing. BVR 6 juni 2014, art. 5, I: 19 oktober 2014)]
 
@@ -86,15 +219,40 @@ Een aanvraag tot het verkrijgen van een wijziging, een overdracht of een afstand
 
 ### ART. 14/1.
 
-Een aanvraag voor een opsporingsvergunning voor koolstofdioxideopslag   wordt in twee exemplaren ingediend bij de minister, waarvan minstens een   exemplaar per aangetekende zending. De aanvraag wordt ook op een elektronische   drager ingediend, inclusief het kaartenmateriaal in shape-, grid-, dwg-, dxf- of   dgn-formaat.
+Een aanvraag voor een opsporingsvergunning voor koolstofdioxideopslag wordt ingediend bij de minister met een beveiligde zending. Als de beveiligde zending gebeurt in de vorm van een analoge zending wordt de aanvraag ook op een elektronische drager ingediend, inclusief het kaartenmateriaal in shape-, grid-, dwg-, dxf- of dgn-formaat.
 
 ### ART. 14/2.
 
-§ 1. De aanvraag vermeldt de volgende gegevens:<BR>1° als de aanvrager een   natuurlijke persoon is, de voornaam, de achternaam, het beroep, de woonplaats en   de nationaliteit van de aanvrager;<BR>2° als de aanvrager een rechtspersoon is,   de naam, de rechtsvorm, de maatschappelijke zetel, de statuten en de stukken tot   staving van de volmachten van de ondertekenaars van de aanvraag, en de   contactgegevens van een contactpersoon.<BR><BR>Als de aanvrager een buitenlandse   natuurlijke of rechtspersoon is, kiest hij een adres in België, dat dienst zal   doen als correspondentieadres.<BR><BR>§ 2. Bovendien bevat de aanvraag de   volgende gegevens:<BR>1° de duur waarvoor de vergunning wordt aangevraagd, en   een motivering daarvoor;<BR>2° het gebied waarvoor de vergunning wordt   aangevraagd, inclusief de diepte, de oppervlakte en de ligging ervan, waarbij de   begrenzingscoördinaten worden aangegeven in Lambert BD72 voor de x- en   y-coördinaten en in mTAW voor de z-coördinaat.
+§ 1. De aanvraag vermeldt de volgende gegevens:<br>
+1° als de aanvrager een natuurlijke persoon is, de voornaam, de achternaam, het beroep, de woonplaats en de nationaliteit van de aanvrager;<br>
+2° als de aanvrager een rechtspersoon is, de naam, de rechtsvorm, de maatschappelijke zetel, de statuten en de stukken tot staving van de volmachten van de ondertekenaars van de aanvraag, en de contactgegevens van een contactpersoon.<br>
+<br>
+Als de aanvrager een buitenlandse natuurlijke of rechtspersoon is, kiest hij een adres in België, dat dienst zal doen als correspondentieadres.<br>
+<br>
+§ 2. Bovendien bevat de aanvraag de volgende gegevens:<br>
+1° de duur waarvoor de vergunning wordt aangevraagd, en een motivering daarvoor;<br>
+2° het volumegebied waarvoor de vergunning wordt aangevraagd.
 
 ### ART. 14/3.
 
-De volgende documenten worden bij de aanvraag gevoegd:<BR>1° een nota met   de gegevens op basis waarvan de technische bekwaamheid en de betrouwbaarheid van   de aanvrager beoordeeld kunnen worden, met ten minste de volgende   gegevens:<BR>a) de referenties, diploma's en beroepstitels van het voornaamste   leidinggevende personeel van de aanvrager, en in het bijzonder van het personeel   dat zal worden belast met de uitvoering van en het toezicht op de   opsporingsactiviteiten;<BR>b) in voorkomend geval, een lijst met vergelijkbare   opsporingsactiviteiten waaraan de aanvrager de afgelopen tien jaar heeft   deelgenomen, met telkens een korte beschrijving van die activiteiten;<BR>c) een   beschrijving van de technische middelen die aangewend zullen worden bij de   uitvoering van en het toezicht op de opsporingsactiviteiten;<BR>d) in voorkomend   geval, de technische mogelijkheden van de rechtspersonen waarvan de aanvrager de   dochtermaatschappij is, of die behoren tot de groep waartoe de aanvrager   behoort, als blijkt dat die technische mogelijkheden ter beschikking staan of   zullen staan van de aanvrager;<BR>2° een nota met de gegevens op basis waarvan   de financiële soliditeit van de aanvrager beoordeeld kan worden, met ten minste   de volgende gegevens:<BR>a) de jaarrekeningen van de laatste drie jaar. Als de   aanvrager kan aantonen dat hij niet in staat is die documenten te verstrekken,   kan hem worden toegestaan andere geschikte gegevens voor te leggen op basis   waarvan zijn financiële soliditeit beoordeeld kan worden;<BR>b) een beschrijving   van de wijze waarop de aanvrager zich voorneemt de opsporingsactiviteiten te   financieren;<BR>c) in voorkomend geval, de financiële mogelijkheden van de   rechtspersonen waarvan de aanvrager de dochtermaatschappij is, of die behoren   tot de groep waartoe de aanvrager behoort, als blijkt dat die financiële   mogelijkheden ter beschikking staan of zullen staan van de aanvrager;<BR>3° een   overzicht van de professionele en technische ontwikkeling en training van de   aanvrager en van alle personeel;<BR>4° een digitaal plan met een relevante en   werkbare schaal, waarop de grenzen van het gebied zijn aangeduid. Het plan   vermeldt waar de aanvrager van plan is om geologisch onderzoek te verrichten,   inclusief de geologische lagen en de stratigrafische intervallen, en geeft ook   een raming van het aantal, de locatie, de diepte en de methode van de   voorgenomen boringen, en de ligging van de seismische tracés en de voorgenomen   techniek van het seismische onderzoek;<BR>5° een nota met daarin een uitvoerige   beschrijving van de manier waarop de aanvrager zich voorneemt de   opsporingsactiviteiten te verrichten;<BR>6° een tijdschema van alle voorgenomen   activiteiten, inclusief een raming van de investeringen en kosten, en de daarbij   gehanteerde onzekerheidsanalyses;<BR>7° een geologische nota met daarin een   beschrijving van de lokale en regionale geologie, een beschrijving van de voor   de onderbouwing van de aanvraag gebruikte verkenningsonderzoeken of andere   geologische gegevens, de interpretatie van die gegevens en de daarbij   gehanteerde onzekerheidsanalyses;<BR>8° voor het gebied waarop de aanvraag   betrekking heeft, en tien kilometer daarbuiten, een overzicht van alle   vergunningen die verleend zijn in het kader van hoofdstuk II en III van het   decreet van 8 mei 2009, alle vergunningen die verleend zijn in het kader van de   wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse   bergruimten in situ bestemd voor het opslaan van gas, alle vergunningen die   verleend zijn in het kader van geothermische projecten met een diepte van ten   minste 500 meter, en alle bergingen van radioactief afval, met inbegrip van een   modellering die de drukeffecten van de voorgenomen activiteit in de ondergrond   op korte en lange afstand duidelijk maakt met het oog op mogelijke   drukinteracties tussen de bestaande en de geplande activiteiten.<BR><BR>De   minister kan op elk moment aanvullende informatie vragen als hij dat voor de   beoordeling van de aanvraag noodzakelijk acht.
+De volgende documenten worden bij de aanvraag gevoegd:<br>
+1° een nota met de gegevens op basis waarvan de technische bekwaamheid en de betrouwbaarheid van de aanvrager beoordeeld kunnen worden, met ten minste de volgende gegevens:<br>
+a) de referenties, diploma's en beroepstitels van het voornaamste leidinggevende personeel van de aanvrager, en in het bijzonder van het personeel dat zal worden belast met de uitvoering van en het toezicht op de opsporingsactiviteiten;<br>
+b) in voorkomend geval, een lijst met vergelijkbare opsporingsactiviteiten waaraan de aanvrager de afgelopen tien jaar heeft deelgenomen, met telkens een korte beschrijving van die activiteiten;<br>
+c) een beschrijving van de technische middelen die aangewend zullen worden bij de uitvoering van en het toezicht op de opsporingsactiviteiten;<br>
+d) in voorkomend geval, de technische mogelijkheden van de rechtspersonen waarvan de aanvrager de dochtermaatschappij is, of die behoren tot de groep waartoe de aanvrager behoort, als blijkt dat die technische mogelijkheden ter beschikking staan of zullen staan van de aanvrager;<br>
+2° een nota met de gegevens op basis waarvan de financiële soliditeit van de aanvrager beoordeeld kan worden, met ten minste de volgende gegevens:<br>
+a) de jaarrekeningen van de laatste drie jaar. Als de aanvrager kan aantonen dat hij niet in staat is die documenten te verstrekken, kan hem worden toegestaan andere geschikte gegevens voor te leggen op basis waarvan zijn financiële soliditeit beoordeeld kan worden;<br>
+b) een beschrijving van de wijze waarop de aanvrager zich voorneemt de opsporingsactiviteiten te financieren;<br>
+c) in voorkomend geval, de financiële mogelijkheden van de rechtspersonen waarvan de aanvrager de dochtermaatschappij is, of die behoren tot de groep waartoe de aanvrager behoort, als blijkt dat die financiële mogelijkheden ter beschikking staan of zullen staan van de aanvrager;<br>
+3° een overzicht van de professionele en technische ontwikkeling en training van de aanvrager en van alle personeel;<br>
+4° een digitaal plan met een relevante en werkbare schaal, waarop de grenzen van het volumegebied zijn aangeduid. Het plan vermeldt waar de aanvrager van plan is om geologisch onderzoek te verrichten, inclusief de geologische lagen en de stratigrafische intervallen, en geeft ook een raming van het aantal, de locatie, de diepte en de methode van de voorgenomen boringen, en de ligging van de seismische tracés en de voorgenomen techniek van het seismische onderzoek;<br>
+5° een nota met daarin een uitvoerige beschrijving van de manier waarop de aanvrager zich voorneemt de opsporingsactiviteiten te verrichten;<br>
+6° een tijdschema van alle voorgenomen activiteiten, inclusief een raming van de investeringen en kosten, en de daarbij gehanteerde onzekerheidsanalyses;<br>
+7° een geologische nota met daarin een beschrijving van de lokale en regionale geologie, een beschrijving van de voor de onderbouwing van de aanvraag gebruikte verkenningsonderzoeken of andere geologische gegevens, de interpretatie van die gegevens en de daarbij gehanteerde onzekerheidsanalyses;<br>
+8° voor het volumegebied waarop de aanvraag betrekking heeft, en tien kilometer daarbuiten, een overzicht van alle verleende vergunningen, vermeld in hoofdstuk II, III en III/1 van het decreet van 8 mei 2009, alle verleende vergunningen, vermeld in de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ bestemd voor het opslaan van gas, en alle vergunningen voor de ondergrondse berging van radioactief afval, met inbegrip van een modellering die de drukeffecten van de voorgenomen activiteit in de ondergrond op korte en lange afstand duidelijk maakt met het oog op mogelijke drukinteracties tussen de bestaande en de geplande activiteiten.<br>
+<br>
+De minister kan op elk moment aanvullende informatie vragen als hij dat voor de beoordeling van de aanvraag noodzakelijk acht.
 
 ### ART. 14/4.
 
@@ -112,15 +270,48 @@ Een besluit van de Vlaamse Regering waarbij een opsporingsvergunning voor   kool
 
 ### ART. 14/7.
 
-Een aanvraag voor een opslagvergunning wordt in drie exemplaren ingediend   bij de minister, waarvan minstens een exemplaar per aangetekende zending. De   aanvraag wordt ook op een elektronische drager ingediend, inclusief het   kaartenmateriaal in shape-, grid-, dwg-, dxf- of dgn-formaat.
+Een aanvraag voor een opslagvergunning wordt ingediend bij de minister met een beveiligde zending. Als de beveiligde zending gebeurt in de vorm van een analoge zending wordt de aanvraag ook op een elektronische drager ingediend, inclusief het kaartenmateriaal in shape-, grid-, dwg-, dxf- of dgn-formaat.
 
 ### ART. 14/8.
 
-§ 1. De aanvraag vermeldt de volgende gegevens:<BR>1° als de aanvrager een   natuurlijke persoon is, de voornaam, de achternaam, het beroep, de woonplaats en   de nationaliteit van de aanvrager;<BR>2° als de aanvrager een rechtspersoon is,   de naam, de rechtsvorm, de maatschappelijke zetel, de statuten en de stukken tot   staving van de volmachten van de ondertekenaars van de aanvraag, en de   contactgegevens van een contactpersoon.<BR><BR>Als de aanvrager een buitenlandse   natuurlijke of rechtspersoon is, kiest hij een adres in België, dat dienst zal   doen als correspondentieadres.<BR><BR>§ 2. Bovendien bevat de aanvraag de   volgende gegevens:<BR>1° het gebied waarvoor de vergunning wordt aangevraagd,   inclusief de diepte, de oppervlakte en de ligging ervan, waarbij de   begrenzingscoördinaten worden aangegeven in Lambert BD72 voor de x- en   y-coördinaten en in mTAW voor de z-coördinaat.<BR>2° een nauwkeurige   beschrijving van de voorgestelde opslaglocatie en het voorgestelde   opslagcomplex, en gedetailleerde gegevens betreffende de hydraulische   eenheid.
+§ 1. De aanvraag vermeldt de volgende gegevens:<br>
+1° als de aanvrager een natuurlijke persoon is, de voornaam, de achternaam, het beroep, de woonplaats en de nationaliteit van de aanvrager;<br>
+2° als de aanvrager een rechtspersoon is, de naam, de rechtsvorm, de maatschappelijke zetel, de statuten en de stukken tot staving van de volmachten van de ondertekenaars van de aanvraag, en de contactgegevens van een contactpersoon.<br>
+<br>
+Als de aanvrager een buitenlandse natuurlijke of rechtspersoon is, kiest hij een adres in België, dat dienst zal doen als correspondentieadres.<br>
+<br>
+§ 2. Bovendien bevat de aanvraag de volgende gegevens:<br>
+1° het volumegebied waarvoor de vergunning wordt aangevraagd.<br>
+2° een nauwkeurige beschrijving van de voorgestelde opslaglocatie en het voorgestelde opslagcomplex, en gedetailleerde gegevens betreffende de hydraulische eenheid.
 
 ### ART. 14/9.
 
-De volgende documenten worden bij de aanvraag gevoegd:<BR>1° een nota met   de gegevens op basis waarvan de technische bekwaamheid en de betrouwbaarheid van   de aanvrager beoordeeld kunnen worden, met ten minste de volgende   gegevens:<BR>a) de referenties, diploma's en beroepstitels van het voornaamste   leidinggevende personeel van de aanvrager, en in het bijzonder van het personeel   dat zal worden belast met de uitvoering van en het toezicht op de   opslagactiviteiten;<BR>b) in voorkomend geval, een lijst met vergelijkbare   opslagactiviteiten waaraan de aanvrager in het verleden heeft deelgenomen, met   telkens een korte beschrijving van die activiteiten;<BR>c) een beschrijving van   de technische middelen die aangewend zullen worden bij de uitvoering van en het   toezicht op de opslagactiviteiten;<BR>d) in voorkomend geval, de technische   mogelijkheden van de rechtspersonen waarvan de aanvrager de dochtermaatschappij   is, of die behoren tot de groep waartoe de aanvrager behoort, als blijkt dat die   technische mogelijkheden ter beschikking staan of zullen staan van de   aanvrager;<BR>2° een nota met de gegevens op basis waarvan de financiële   soliditeit van de aanvrager beoordeeld kan worden, met ten minste de volgende   gegevens:<BR>a) de jaarrekeningen van de laatste drie jaar. Als de aanvrager kan   aantonen dat hij niet in staat is die documenten te verstrekken, kan hem worden   toegestaan andere geschikte gegevens voor te leggen op basis waarvan zijn   financiële soliditeit beoordeeld kan worden;<BR>b) een beschrijving van de wijze   waarop de aanvrager van plan is om de opslagactiviteiten te financieren;<BR>c)   in voorkomend geval, de financiële mogelijkheden van de rechtspersonen waarvan   de aanvrager de dochtermaatschappij is, of die behoren tot de groep waartoe de   aanvrager behoort, als blijkt dat die financiële mogelijkheden ter beschikking   staan of zullen staan van de aanvrager;<BR>3° een overzicht van de professionele   en technische ontwikkeling en training van de aanvrager en van alle   personeel;<BR>4° als zich in dezelfde hydraulische eenheid meer dan één   opslaglocatie bevindt, een nota met een analyse van de potentiële   drukinteracties;<BR>5° een nota met een gedetailleerde beschrijving van de   resultaten die voortvloeien uit de voorafgaande opsporingsvergunning voor   koolstofdioxideopslag. Als de aanvrager niet zelf de houder van de voorafgaande   opsporingsvergunning voor koolstofdioxideopslag was of is, toont hij de herkomst   van de resultaten aan;<BR>6° een nota met de resultaten die met toepassing van   artikel 39 van het decreet van 8 mei 2009 verkregen zijn uit de karakterisering   van de opslaglocatie en het opslagcomplex en uit de beoordeling van de verwachte   veiligheid van opslag;<BR>7° een nota met een inschatting van de totale   hoeveelheid koolstofdioxide die zal worden geïnjecteerd en opgeslagen, en met   een beschrijving van de toekomstige bronnen en de afvang- en transportmethoden,   de samenstelling van de koolstofdioxidestromen met inbegrip van alle   afzonderlijke bestanddelen en het aandeel ervan in de totale hoeveelheid, een   risicobeoordeling met toepassing van artikel 47, § 2, eerste lid, van het   decreet van 8 mei 2009, het tijdvak van de injectie, de injectiesnelheden, de   injectiedruk en de locatie van de injectiefaciliteiten;<BR>8° een nota met een   beschrijving van de maatregelen om significante onregelmatigheden te   voorkomen;<BR>9° een voorstel van monitoringsplan als vermeld in artikel 48, §   2, van het decreet van 8 mei 2009;<BR>10° een voorstel van plan met corrigerende   maatregelen als vermeld in artikel 51, § 1, van het decreet van 8 mei   2009;<BR>11° een voorstel van voorlopig plan voor de periode na afsluiting als   vermeld in artikel 52, § 2, van het decreet van 8 mei 2009;<BR>12° een nota met   de informatie die met toepassing van artikel 4.3.7 van het decreet van 5 april   1995 houdende algemene bepalingen inzake milieubeleid verstrekt moet   worden;<BR>13° het bewijs dat de financiële zekerheid of een gelijkwaardige   voorziening, zoals vereist met toepassing van artikel 57 van het decreet van 8   mei 2009, rechtsgeldig en effectief gesteld zal worden voor de injectie   aanvangt, een voorstel inzake de vorm van de financiële zekerheid of een   gelijkwaardige voorziening, en alle nodige gegevens voor de raming van het   bedrag van de financiële zekerheid of een gelijkwaardige voorziening als vermeld   in artikel 14/16, § 1, van dit besluit, waarbij een adequate cijfermatige   onderbouwing en toelichting gevoegd zijn;<BR>14° een nota met een beschrijving   van de manier waarop de aanvrager zich voorneemt de geologische opslag van   koolstofdioxide te verrichten;<BR>15° een tijdschema van alle voorgenomen   activiteiten, inclusief een raming van de investeringen en kosten, en de daarbij   gehanteerde onzekerheidsanalyses;<BR>16° voor het gebied waarop de aanvraag   slaat, en tien kilometer daarbuiten, een overzicht van alle vergunningen die   verleend zijn in het kader van hoofdstuk II en III van het decreet van 8 mei   2009, alle vergunningen die verleend zijn in het kader van de wet van 18 juli   1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in   situ bestemd voor het opslaan van gas, alle vergunningen die verleend zijn in   het kader van geothermische projecten met een diepte van ten minste 500 meter,   en alle bergingen van radioactief afval, met inbegrip van een modellering die de   drukeffecten van de voorgenomen activiteit in de ondergrond op korte en lange   afstand duidelijk maakt met het oog op mogelijke drukinteracties tussen de   bestaande en de geplande activiteiten.<BR><BR>De minister kan op elk moment   aanvullende informatie vragen als hij dat voor de beoordeling van de aanvraag   noodzakelijk acht.<BR>
+De volgende documenten worden bij de aanvraag gevoegd:<br>
+1° een nota met de gegevens op basis waarvan de technische bekwaamheid en de betrouwbaarheid van de aanvrager beoordeeld kunnen worden, met ten minste de volgende gegevens:<br>
+a) de referenties, diploma's en beroepstitels van het voornaamste leidinggevende personeel van de aanvrager, en in het bijzonder van het personeel dat zal worden belast met de uitvoering van en het toezicht op de opslagactiviteiten;<br>
+b) in voorkomend geval, een lijst met vergelijkbare opslagactiviteiten waaraan de aanvrager in het verleden heeft deelgenomen, met telkens een korte beschrijving van die activiteiten;<br>
+c) een beschrijving van de technische middelen die aangewend zullen worden bij de uitvoering van en het toezicht op de opslagactiviteiten;<br>
+d) in voorkomend geval, de technische mogelijkheden van de rechtspersonen waarvan de aanvrager de dochtermaatschappij is, of die behoren tot de groep waartoe de aanvrager behoort, als blijkt dat die technische mogelijkheden ter beschikking staan of zullen staan van de aanvrager;<br>
+2° een nota met de gegevens op basis waarvan de financiële soliditeit van de aanvrager beoordeeld kan worden, met ten minste de volgende gegevens:<br>
+a) de jaarrekeningen van de laatste drie jaar. Als de aanvrager kan aantonen dat hij niet in staat is die documenten te verstrekken, kan hem worden toegestaan andere geschikte gegevens voor te leggen op basis waarvan zijn financiële soliditeit beoordeeld kan worden;<br>
+b) een beschrijving van de wijze waarop de aanvrager van plan is om de opslagactiviteiten te financieren;<br>
+c) in voorkomend geval, de financiële mogelijkheden van de rechtspersonen waarvan de aanvrager de dochtermaatschappij is, of die behoren tot de groep waartoe de aanvrager behoort, als blijkt dat die financiële mogelijkheden ter beschikking staan of zullen staan van de aanvrager;<br>
+3° een overzicht van de professionele en technische ontwikkeling en training van de aanvrager en van alle personeel;<br>
+4° als zich in dezelfde hydraulische eenheid meer dan één opslaglocatie bevindt, een nota met een analyse van de potentiële drukinteracties;<br>
+5° een nota met een gedetailleerde beschrijving van de resultaten die voortvloeien uit de voorafgaande opsporingsvergunning voor koolstofdioxideopslag. Als de aanvrager niet zelf de houder van de voorafgaande opsporingsvergunning voor koolstofdioxideopslag was of is, toont hij de herkomst van de resultaten aan;<br>
+6° een nota met de resultaten die met toepassing van artikel 39 van het decreet van 8 mei 2009 verkregen zijn uit de karakterisering van de opslaglocatie en het opslagcomplex en uit de beoordeling van de verwachte veiligheid van opslag;<br>
+7° een nota met een inschatting van de totale hoeveelheid koolstofdioxide die zal worden geïnjecteerd en opgeslagen, en met een beschrijving van de toekomstige bronnen en de afvang- en transportmethoden, de samenstelling van de koolstofdioxidestromen met inbegrip van alle afzonderlijke bestanddelen en het aandeel ervan in de totale hoeveelheid, een risicobeoordeling met toepassing van artikel 47, § 2, eerste lid, van het decreet van 8 mei 2009, het tijdvak van de injectie, de injectiesnelheden, de injectiedruk en de locatie van de injectiefaciliteiten;<br>
+8° een nota met een beschrijving van de maatregelen om significante onregelmatigheden te voorkomen;<br>
+9° een voorstel van monitoringsplan als vermeld in artikel 48, § 2, van het decreet van 8 mei 2009;<br>
+10° een voorstel van plan met corrigerende maatregelen als vermeld in artikel 51, § 1, van het decreet van 8 mei 2009;<br>
+11° een voorstel van voorlopig plan voor de periode na afsluiting als vermeld in artikel 52, § 2, van het decreet van 8 mei 2009;<br>
+12° een nota met de informatie die met toepassing van artikel 4.3.7 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid verstrekt moet worden;<br>
+13° het bewijs dat de financiële zekerheid of een gelijkwaardige voorziening, zoals vereist met toepassing van artikel 57 van het decreet van 8 mei 2009, rechtsgeldig en effectief gesteld zal worden voor de injectie aanvangt, een voorstel inzake de vorm van de financiële zekerheid of een gelijkwaardige voorziening, en alle nodige gegevens voor de raming van het bedrag van de financiële zekerheid of een gelijkwaardige voorziening als vermeld in artikel 14/16, § 1, van dit besluit, waarbij een adequate cijfermatige onderbouwing en toelichting gevoegd zijn;<br>
+14° een nota met een beschrijving van de manier waarop de aanvrager zich voorneemt de geologische opslag van koolstofdioxide te verrichten;<br>
+15° een tijdschema van alle voorgenomen activiteiten, inclusief een raming van de investeringen en kosten, en de daarbij gehanteerde onzekerheidsanalyses;<br>
+16° voor het volumegebied waarop de aanvraag betrekking heeft, en tien kilometer daarbuiten, een overzicht van alle verleende vergunningen, vermeld in hoofdstuk II, III en III/1 van het decreet van 8 mei 2009, alle verleende vergunningen, vermeld in de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ bestemd voor het opslaan van gas, en alle vergunningen voor de ondergrondse berging van radioactief afval, met inbegrip van een modellering die de drukeffecten van de voorgenomen activiteit in de ondergrond op korte en lange afstand duidelijk maakt met het oog op mogelijke drukinteracties tussen de bestaande en de geplande activiteiten.<br>
+<br>
+De minister kan op elk moment aanvullende informatie vragen als hij dat voor de beoordeling van de aanvraag noodzakelijk acht.
 
 ### ART. 14/10.
 
@@ -154,11 +345,36 @@ De inspecties met toepassing van artikel 50 van het decreet van 8 mei 2009   wor
 
 ### ART. 14/16.
 
-§ 1. De Vlaamse Regering bepaalt in de opslagvergunning het bedrag   waarvoor een financiële zekerheid of gelijkwaardige voorziening gesteld moet   worden.<BR><BR>Het bedrag van de financiële zekerheid of gelijkwaardige   voorziening wordt bepaald op basis van de som van de volgende ramingen:<BR>1°   een raming van de kosten voor het verwerven van emissierechten in geval van   lekkage, ingevolge de opname van de opslaglocatie binnen de werkingssfeer van   het Energiedecreet van 8 mei 2009 en de uitvoeringsbesluiten ervan, uitgaande   van een emissie als gevolg van lekkage gedurende drie maanden;<BR>2° een raming   van de kosten voor het naleven van de rapporteringsplicht, vermeld in artikel 49   van het decreet van 8 mei 2009;<BR>3° een raming van de kosten voor het nemen   van de maatregelen uit het plan met corrigerende maatregelen, vermeld in artikel   57 van het decreet van 8 mei 2009, uitgaande van het meest ingrijpende scenario   uit het plan;<BR>4° een raming van de kosten voor het nemen van preventieve   maatregelen en herstelmaatregelen met toepassing van titel XV, hoofdstuk II en   III, van het decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid;<BR>5° een raming van de kosten voor het monitoren van de   injectiefaciliteiten, het opslagcomplex (inclusief waar mogelijk de   koolstofdioxidepluim) en het omliggende milieu, zoals bepaald in het   monitoringsplan, vermeld in artikel 48, § 2, van het decreet van 8 mei 2009, tot   de overdracht van de verantwoordelijkheid heeft plaatsgevonden met toepassing   van artikel 53 tot en met 56 van het decreet van 8 mei 2009, en uitgaande van   een overdracht van de verantwoordelijkheid twintig jaar na de afsluiting van de   opslaglocatie;<BR>6° een raming van de kosten voor het afsluiten van de   opslaglocatie, zoals bepaald in het plan voor de periode na afsluiting, vermeld   in artikel 52, § 2 en § 3, van het decreet van 8 mei 2009;<BR>7° een raming van   de kosten van de financiële bijdrage, vermeld in artikel 58 van het decreet van   8 mei 2009.<BR><BR>§ 2. De vorm waarin de zekerheid of gelijkwaardige   voorziening wordt gesteld, behoeft de voorafgaande instemming van de minister.   De minister stuurt zijn instemming per aangetekende brief naar de   exploitant.<BR><BR>De minister stemt in met de vorm waarin de financiële   zekerheid of gelijkwaardige voorziening wordt gesteld, als het naar zijn oordeel   vaststaat dat die de Vlaamse Regering gedurende heel de vergunningsduur in staat   zal stellen om alle verplichtingen, vermeld in artikel 57 van het decreet van 8   mei 2009, zo nodig zelf na te komen in de plaats van en ten laste van de   exploitant.<BR><BR>Als de minister later oordeelt dat het niet meer vaststaat   dat de gekozen vorm de Vlaamse Regering gedurende heel de vergunningsduur in   staat zal stellen om alle verplichtingen, vermeld in artikel 57 van het decreet   van 8 mei 2009, zo nodig zelf na te komen in de plaats van en ten laste van de   exploitant, kan hij zijn toestemming intrekken. In dat geval bezorgt de   exploitant binnen dertig dagen een nieuw voorstel voor de vorm van de financiële   zekerheid of gelijkwaardige voorziening.<BR><BR>§ 3. Uiterlijk dertig dagen voor   de injectie aanvangt, stuurt de exploitant het bewijs dat de financiële   zekerheid of gelijkwaardige voorziening ten voordele van de Vlaamse Regering   rechtsgeldig en effectief gesteld is, per aangetekende brief naar de   minister.
+§ 1. De Vlaamse Regering bepaalt in de opslagvergunning het bedrag waarvoor een financiële zekerheid of gelijkwaardige voorziening gesteld moet worden.<br>
+<br>
+Het bedrag van de financiële zekerheid of gelijkwaardige voorziening wordt bepaald op basis van de som van de volgende ramingen:<br>
+1° een raming van de kosten voor het verwerven van emissierechten in geval van lekkage, ingevolge de opname van de opslaglocatie binnen de werkingssfeer van het Energiedecreet van 8 mei 2009 en de uitvoeringsbesluiten ervan, uitgaande van een emissie als gevolg van lekkage gedurende drie maanden;<br>
+2° een raming van de kosten voor het naleven van de rapporteringsplicht, vermeld in artikel 49 van het decreet van 8 mei 2009;<br>
+3° een raming van de kosten voor het nemen van de maatregelen uit het plan met corrigerende maatregelen, vermeld in artikel 57 van het decreet van 8 mei 2009, uitgaande van het meest ingrijpende scenario uit het plan;<br>
+4° een raming van de kosten voor het nemen van preventieve maatregelen en herstelmaatregelen met toepassing van titel XV, hoofdstuk II en III, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
+5° een raming van de kosten voor het monitoren van de injectiefaciliteiten, het opslagcomplex (inclusief waar mogelijk de koolstofdioxidepluim) en het omliggende milieu, zoals bepaald in het monitoringsplan, vermeld in artikel 48, § 2, van het decreet van 8 mei 2009, tot de overdracht van de verantwoordelijkheid heeft plaatsgevonden met toepassing van artikel 53 tot en met 56 van het decreet van 8 mei 2009, en uitgaande van een overdracht van de verantwoordelijkheid twintig jaar na de afsluiting van de opslaglocatie;<br>
+6° een raming van de kosten voor het afsluiten van de opslaglocatie, zoals bepaald in het plan voor de periode na afsluiting, vermeld in artikel 52, § 2 en § 3, van het decreet van 8 mei 2009;<br>
+7° een raming van de kosten van de financiële bijdrage, vermeld in artikel 58 van het decreet van 8 mei 2009.<br>
+<br>
+§ 2. De vorm waarin de zekerheid of gelijkwaardige voorziening wordt gesteld, behoeft de voorafgaande instemming van de minister. De minister stuurt zijn instemming met een beveiligde zending naar de exploitant.<br>
+<br>
+De minister stemt in met de vorm waarin de financiële zekerheid of gelijkwaardige voorziening wordt gesteld, als het naar zijn oordeel vaststaat dat die de Vlaamse Regering gedurende heel de vergunningsduur in staat zal stellen om alle verplichtingen, vermeld in artikel 57 van het decreet van 8 mei 2009, zo nodig zelf na te komen in de plaats van en ten laste van de exploitant.<br>
+<br>
+Als de minister later oordeelt dat het niet meer vaststaat dat de gekozen vorm de Vlaamse Regering gedurende heel de vergunningsduur in staat zal stellen om alle verplichtingen, vermeld in artikel 57 van het decreet van 8 mei 2009, zo nodig zelf na te komen in de plaats van en ten laste van de exploitant, kan hij zijn toestemming intrekken. In dat geval bezorgt de exploitant binnen dertig dagen een nieuw voorstel voor de vorm van de financiële zekerheid of gelijkwaardige voorziening.<br>
+<br>
+§ 3. Uiterlijk dertig dagen voor de injectie aanvangt, stuurt de exploitant het bewijs dat de financiële zekerheid of gelijkwaardige voorziening ten voordele van de Vlaamse Regering rechtsgeldig en effectief gesteld is, met een beveiligde zending naar de minister.
 
 ### ART. 14/17.
 
-§ 1. Naar aanleiding van elke rapportering in het kader van artikel 49 van   het decreet van 8 mei 2009 en naar aanleiding van elke lekkage of significante   onregelmatigheid kan de minister het bedrag van de financiële zekerheid of   gelijkwaardige voorziening bijstellen met toepassing van artikel 57, § 1, tweede   lid, van het decreet van 8 mei 2009.<BR><BR>Als de opslagvergunning is   ingetrokken met toepassing van artikel 46 van het decreet van 8 mei 2009, kan de   minister op elk moment het bedrag van de financiële zekerheid of gelijkwaardige   voorziening bijstellen met toepassing van artikel 57, § 1, tweede lid, van het   decreet van 8 mei 2009.<BR><BR>§ 2. In elk geval evalueert de minister ten   minste om de vijf jaar vanaf de datum waarop de opslagvergunning verleend is, of   het bedrag van de financiële zekerheid of gelijkwaardige voorziening bijgesteld   moet worden. De exploitant levert uiterlijk honderdtwintig dagen voor het   verstrijken van de vijfjaarlijkse termijn alle nodige gegevens voor een   geactualiseerde raming van het bedrag van de financiële zekerheid of   gelijkwaardige voorziening, waarbij een adequate cijfermatige onderbouwing en   toelichting gevoegd zijn.<BR><BR>§ 3. Als de minister van oordeel is dat het   bedrag van de financiële zekerheid of gelijkwaardige voorziening bijgesteld moet   worden, meldt hij dat per aangetekende brief aan de exploitant. De exploitant   past de gestelde financiële zekerheid of gelijkwaardige voorziening onmiddellijk   aan en stuurt binnen zestig dagen na de brief van de minister het bewijs dat de   aangepaste financiële zekerheid of gelijkwaardige voorziening rechtsgeldig en   effectief gesteld is, per aangetekende brief naar de minister.<BR><BR>§ 4. De   exploitant staakt de injectie van koolstofdioxide zodra een voortgaande injectie   zou leiden tot een hoeveelheid opgeslagen koolstofdioxide die meer dan 15% hoger   is dan de hoeveelheid die betrokken is in de raming, vermeld in artikel 14/16, §   1, tweede lid, 1°, voor de vaststelling van het bedrag van de financiële   zekerheid of gelijkwaardige voorziening.
+§ 1. Naar aanleiding van elke rapportering in het kader van artikel 49 van het decreet van 8 mei 2009 en naar aanleiding van elke lekkage of significante onregelmatigheid kan de minister het bedrag van de financiële zekerheid of gelijkwaardige voorziening bijstellen met toepassing van artikel 57, § 1, tweede lid, van het decreet van 8 mei 2009.<br>
+<br>
+Als de opslagvergunning is ingetrokken met toepassing van artikel 46 van het decreet van 8 mei 2009, kan de minister op elk moment het bedrag van de financiële zekerheid of gelijkwaardige voorziening bijstellen met toepassing van artikel 57, § 1, tweede lid, van het decreet van 8 mei 2009.<br>
+<br>
+§ 2. In elk geval evalueert de minister ten minste om de vijf jaar vanaf de datum waarop de opslagvergunning verleend is, of het bedrag van de financiële zekerheid of gelijkwaardige voorziening bijgesteld moet worden. De exploitant levert uiterlijk honderdtwintig dagen voor het verstrijken van de vijfjaarlijkse termijn alle nodige gegevens voor een geactualiseerde raming van het bedrag van de financiële zekerheid of gelijkwaardige voorziening, waarbij een adequate cijfermatige onderbouwing en toelichting gevoegd zijn.<br>
+<br>
+§ 3. Als de minister van oordeel is dat het bedrag van de financiële zekerheid of gelijkwaardige voorziening bijgesteld moet worden, meldt hij dat met een beveiligde zending aan de exploitant. De exploitant past de gestelde financiële zekerheid of gelijkwaardige voorziening onmiddellijk aan en stuurt binnen zestig dagen na de brief van de minister het bewijs dat de aangepaste financiële zekerheid of gelijkwaardige voorziening rechtsgeldig en effectief gesteld is, met een beveiligde zending naar de minister.<br>
+<br>
+§ 4. De exploitant staakt de injectie van koolstofdioxide zodra een voortgaande injectie zou leiden tot een hoeveelheid opgeslagen koolstofdioxide die meer dan 15% hoger is dan de hoeveelheid die betrokken is in de raming, vermeld in artikel 14/16, § 1, tweede lid, 1°, voor de vaststelling van het bedrag van de financiële zekerheid of gelijkwaardige voorziening.
 
 ## [Afdeling 6 Overdracht van de verantwoordelijkheid en financiële bijdrage (ing. BVR 6 juni 2014, art. 5, I: 19 oktober 2014)]
 
@@ -168,7 +384,9 @@ De Vlaamse Regering legt bij de goedkeuring van het definitieve plan voor   de p
 
 ### ART. 14/19.
 
-Als een opslaglocatie afgesloten is met toepassing van artikel 52, § 1, 1°   of 2°, van het decreet van 8 mei 2009, en de minimumperiode, vermeld in artikel   53, eerste lid, 2°, van het decreet van 8 mei 2009, verlopen is, kan de   exploitant per aangetekende brief een verslag, als vermeld in artikel 53, tweede   lid, van het decreet van 8 mei 2009, indienen bij de minister met het oog op de   overdracht van de verantwoordelijkheid voor de opslaglocatie aan het Vlaamse   Gewest.<BR><BR>Als de exploitant zelf geen initiatief neemt om een verslag in te   dienen overeenkomstig het eerste lid, kan de minister hem per aangetekende brief   verzoeken om zo'n verslag in te dienen binnen een door de minister vast te   stellen termijn. Als de exploitant daar niet in slaagt, deelt hij binnen de   vastgestelde termijn per aangetekende brief aan de minister de redenen mee   waarom het nog niet mogelijk is om een verslag in te dienen.
+Als een opslaglocatie afgesloten is met toepassing van artikel 52, § 1, 1° of 2°, van het decreet van 8 mei 2009, en de minimumperiode, vermeld in artikel 53, eerste lid, 2°, van het decreet van 8 mei 2009, verlopen is, kan de exploitant met een beveiligde zending een verslag, als vermeld in artikel 53, tweede lid, van het decreet van 8 mei 2009, indienen bij de minister met het oog op de overdracht van de verantwoordelijkheid voor de opslaglocatie aan het Vlaamse Gewest.<br>
+<br>
+Als de exploitant zelf geen initiatief neemt om een verslag in te dienen overeenkomstig het eerste lid, kan de minister hem met een beveiligde zending verzoeken om zo'n verslag in te dienen binnen een door de minister vast te stellen termijn. Als de exploitant daar niet in slaagt, deelt hij binnen de vastgestelde termijn met een beveiligde zending aan de minister de redenen mee waarom het nog niet mogelijk is om een verslag in te dienen.
 
 ### ART. 14/20.
 
@@ -176,17 +394,29 @@ Als een opslaglocatie afgesloten is met toepassing van artikel 52, § 1, 1°   o
 
 ### ART. 14/21.
 
-§ 1. Als de Vlaamse Regering met toepassing van artikel 53, derde lid, van   het decreet van 8 mei 2009 een ontwerpbesluit ter goedkeuring van de overdracht   van de verantwoordelijkheid neemt, bepaalt ze in dat ontwerpbesluit het bedrag   en de vorm van de financiële bijdrage die de exploitant met toepassing van   artikel 58 van het decreet van 8 mei 2009 ter beschikking moet stellen aan de   Vlaamse Regering, en ook de termijn waarbinnen dat moet gebeuren.<BR><BR>§ 2.   Het bedrag van de financiële bijdrage moet voldoende zijn om de volgende kosten   voor het Vlaamse Gewest te dekken na de overdracht van de verantwoordelijkheid   voor de opslaglocatie:<BR>1° de geraamde monitoringskosten als een gevolg van de   toepassing van artikel 55, eerste lid, van het decreet van 8 mei 2009 en artikel   14/23 van dit besluit, voor een periode van dertig jaar na de overdracht van de   verantwoordelijkheid voor de opslaglocatie;<BR>2° de geraamde kosten voor het   verwerven van emissierechten ingeval van lekkage, ingevolge de opname van de   opslaglocatie binnen de werkingssfeer van het Energiedecreet van 8 mei 2009 en   de uitvoeringsbesluiten ervan, uitgaande van een emissie als gevolg van lekkage   gedurende een of meer periodes van drie maanden en dit tijdens een totale   periode van dertig jaar na de overdracht van de verantwoordelijkheid voor de   opslaglocatie. Bij de berekening van die kosten worden de waarschijnlijkheid van   een lekkage en de mogelijke frequentie of herhaling ervan tijdens de totale   periode van dertig jaar na de overdracht van de verantwoordelijkheid in rekening   gebracht;<BR>3° de geraamde kosten voor het nemen van corrigerende maatregelen   voor een periode van dertig jaar na de overdracht van de verantwoordelijkheid   voor de opslaglocatie. Bij de berekening van die kosten worden de   waarschijnlijkheid van de noodzaak van het nemen van corrigerende maatregelen,   de mogelijke omvang ervan en de mogelijke frequentie of herhaling ervan in de   periode van dertig jaar na de overdracht van de verantwoordelijkheid, in   rekening gebracht;<BR>4° de geraamde kosten voor het nemen van preventieve   maatregelen en herstelmaatregelen met toepassing van titel XV, hoofdstuk II en   III, van het decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid, voor een periode van dertig jaar na de overdracht van de   verantwoordelijkheid voor de opslaglocatie. Bij de berekening van die kosten   worden de waarschijnlijkheid van de noodzaak van het nemen van preventieve   maatregelen en herstelmaatregelen en de mogelijke frequentie of herhaling ervan   in de periode van dertig jaar na de overdracht van de verantwoordelijkheid, in   rekening gebracht.<BR><BR>Bij de vaststelling van het bedrag van de financiële   bijdrage wordt rekening gehouden met de parameters, vermeld in bijlage I bij het   decreet van 8 mei 2009, en met de elementen inzake de concrete voorgeschiedenis   van de koolstofdioxideopslag in kwestie, zoals eventuele lekkages en   significante onregelmatigheden die zich hebben voorgedaan en een inschatting van   de doeltreffendheid van genomen corrigerende maatregelen. Met die parameters en   elementen wordt rekening gehouden bij de inschatting van de waarschijnlijkheid,   de omvang en de draagwijdte, de intensiteit, de duur en de timing van de   verplichtingen die gelden na de overdracht van de verantwoordelijkheid voor de   opslaglocatie.<BR><BR>§ 3. Als de Vlaamse Regering geen definitief besluit ter   goedkeuring van de overdracht van de verantwoordelijkheid neemt met toepassing   van artikel 54, § 3, van het decreet van 8 mei 2009, kan de exploitant per   aangetekende brief een verzoek aan de minister richten om de door hem betaalde   financiële bijdrage terug te storten. In dat geval wordt de financiële bijdrage   zo snel mogelijk aan de exploitant teruggestort.
+§ 1. Als de Vlaamse Regering met toepassing van artikel 53, derde lid, van het decreet van 8 mei 2009 een ontwerpbesluit ter goedkeuring van de overdracht van de verantwoordelijkheid neemt, bepaalt ze in dat ontwerpbesluit het bedrag en de vorm van de financiële bijdrage die de exploitant met toepassing van artikel 58 van het decreet van 8 mei 2009 ter beschikking moet stellen aan de Vlaamse Regering, en ook de termijn waarbinnen dat moet gebeuren.<br>
+<br>
+§ 2. Het bedrag van de financiële bijdrage moet voldoende zijn om de volgende kosten voor het Vlaamse Gewest te dekken na de overdracht van de verantwoordelijkheid voor de opslaglocatie:<br>
+1° de geraamde monitoringskosten als een gevolg van de toepassing van artikel 55, eerste lid, van het decreet van 8 mei 2009 en artikel 14/23 van dit besluit, voor een periode van dertig jaar na de overdracht van de verantwoordelijkheid voor de opslaglocatie;<br>
+2° de geraamde kosten voor het verwerven van emissierechten ingeval van lekkage, ingevolge de opname van de opslaglocatie binnen de werkingssfeer van het Energiedecreet van 8 mei 2009 en de uitvoeringsbesluiten ervan, uitgaande van een emissie als gevolg van lekkage gedurende een of meer periodes van drie maanden en dit tijdens een totale periode van dertig jaar na de overdracht van de verantwoordelijkheid voor de opslaglocatie. Bij de berekening van die kosten worden de waarschijnlijkheid van een lekkage en de mogelijke frequentie of herhaling ervan tijdens de totale periode van dertig jaar na de overdracht van de verantwoordelijkheid in rekening gebracht;<br>
+3° de geraamde kosten voor het nemen van corrigerende maatregelen voor een periode van dertig jaar na de overdracht van de verantwoordelijkheid voor de opslaglocatie. Bij de berekening van die kosten worden de waarschijnlijkheid van de noodzaak van het nemen van corrigerende maatregelen, de mogelijke omvang ervan en de mogelijke frequentie of herhaling ervan in de periode van dertig jaar na de overdracht van de verantwoordelijkheid, in rekening gebracht;<br>
+4° de geraamde kosten voor het nemen van preventieve maatregelen en herstelmaatregelen met toepassing van titel XV, hoofdstuk II en III, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, voor een periode van dertig jaar na de overdracht van de verantwoordelijkheid voor de opslaglocatie. Bij de berekening van die kosten worden de waarschijnlijkheid van de noodzaak van het nemen van preventieve maatregelen en herstelmaatregelen en de mogelijke frequentie of herhaling ervan in de periode van dertig jaar na de overdracht van de verantwoordelijkheid, in rekening gebracht.<br>
+<br>
+Bij de vaststelling van het bedrag van de financiële bijdrage wordt rekening gehouden met de parameters, vermeld in bijlage I bij het decreet van 8 mei 2009, en met de elementen inzake de concrete voorgeschiedenis van de koolstofdioxideopslag in kwestie, zoals eventuele lekkages en significante onregelmatigheden die zich hebben voorgedaan en een inschatting van de doeltreffendheid van genomen corrigerende maatregelen. Met die parameters en elementen wordt rekening gehouden bij de inschatting van de waarschijnlijkheid, de omvang en de draagwijdte, de intensiteit, de duur en de timing van de verplichtingen die gelden na de overdracht van de verantwoordelijkheid voor de opslaglocatie.<br>
+<br>
+§ 3. Als de Vlaamse Regering geen definitief besluit ter goedkeuring van de overdracht van de verantwoordelijkheid neemt met toepassing van artikel 54, § 3, van het decreet van 8 mei 2009, kan de exploitant met een beveiligde zending een verzoek aan de minister richten om de door hem betaalde financiële bijdrage terug te storten. In dat geval wordt de financiële bijdrage zo snel mogelijk aan de exploitant teruggestort.
 
 ### ART. 14/22.
 
-Als de Vlaamse Regering met toepassing van artikel 54, § 3, van het   decreet van 8 mei 2009 een definitief besluit ter goedkeuring van de overdracht   van de verantwoordelijkheid neemt, bezorgt de exploitant binnen zestig dagen na   de datum van de kennisgeving van het definitieve besluit kosteloos alle   informatie over de afgesloten opslaglocatie per aangetekende zending aan de   minister, inclusief alle geologische monsters en andere data, en alle interne en   externe verslagen, rapporten, plannen en kaarten. De informatie wordt ook op een   elektronische drager aan de minister bezorgd, inclusief het kaartenmateriaal in   shape-, grid-, dwg-, dxf- of dgn-formaat.<BR><BR>Het Vlaamse Gewest mag die   informatie gebruiken om zijn verplichtingen, verantwoordelijkheden en   aansprakelijkheden met betrekking tot de opslaglocatie te vervullen en na te   komen.
+Als de Vlaamse Regering met toepassing van artikel 54, § 3, van het decreet van 8 mei 2009 een definitief besluit ter goedkeuring van de overdracht van de verantwoordelijkheid neemt, bezorgt de exploitant binnen zestig dagen na de datum van de kennisgeving van het definitieve besluit kosteloos alle informatie over de afgesloten opslaglocatie met een beveiligde zending aan de minister, inclusief alle geologische monsters en andere data, en alle interne en externe verslagen, rapporten, plannen en kaarten. De informatie wordt ook op een elektronische drager aan de minister bezorgd, inclusief het kaartenmateriaal in shape-, grid-, dwg-, dxf- of dgn-formaat.<br>
+<br>
+Het Vlaamse Gewest mag die informatie gebruiken om zijn verplichtingen, verantwoordelijkheden en aansprakelijkheden met betrekking tot de opslaglocatie te vervullen en na te komen.
 
 ## [Afdeling 7 Monitoring in de periode na de overdracht van de verantwoordelijkheid (ing. BVR 6 juni 2014, art. 5, I: 19 oktober 2014)]
 
 ### ART. 14/23.
 
-In de periode na de overdracht van de verantwoordelijkheid wordt het   opslagcomplex en het omliggende milieu met toepassing van artikel 55 van het   decreet van 8 mei 2009 gemonitord door de afdeling, bevoegd voor grondwater, en   de afdeling, bevoegd voor lucht, van de Vlaamse Milieumaatschappij en door de   afdeling, bevoegd voor natuurlijke rijkdommen, van het Departement Leefmilieu,   Natuur en Energie.
+In de periode na de overdracht van de verantwoordelijkheid wordt het opslagcomplex en het omliggende milieu met toepassing van artikel 55 van het decreet van 8 mei 2009 gemonitord door de afdeling, bevoegd voor grondwater, en de afdeling, bevoegd voor lucht, van de Vlaamse Milieumaatschappij en door de afdeling, bevoegd voor natuurlijke rijkdommen.
 
 ## [Afdeling 8 Toegang van derden (ing. BVR 6 juni 2014, art. 5, I: 19 oktober 2014)]
 
@@ -194,17 +424,41 @@ In de periode na de overdracht van de verantwoordelijkheid wordt het   opslagcom
 
 ### ART. 14/24.
 
-§ 1. Exploitanten van transportnetwerken en opslaglocaties maken, met het   oog op de toepassing van en met inachtneming van de voorwaarden, vermeld in   artikel 59 van het decreet van 8 mei 2009, ten minste om de twaalf maanden de   commerciële voorwaarden en technische modaliteiten voor de toegang tot hun   transportnetwerk of opslaglocatie bekend in het Belgisch   Staatsblad.<BR><BR>Geïnteresseerde potentiële gebruikers dienen bij de   exploitant per aangetekende brief een verzoek in tot toegang tot het   transportnetwerk of de opslaglocatie, met vermelding van alle relevante   gegevens, in het bijzonder over het afgevangen koolstofdioxide.<BR><BR>§ 2. De   toegang tot en het gebruik van het transportnetwerk of de opslaglocatie worden   geregeld in een overeenkomst tussen de exploitant en de gebruiker of   gebruikers.
+§ 1. Exploitanten van transportnetwerken en opslaglocaties maken, met het oog op de toepassing van en met inachtneming van de voorwaarden, vermeld in artikel 59 van het decreet van 8 mei 2009, ten minste om de twaalf maanden de commerciële voorwaarden en technische modaliteiten voor de toegang tot hun transportnetwerk of opslaglocatie bekend in het Belgisch Staatsblad.<br>
+<br>
+Geïnteresseerde potentiële gebruikers dienen bij de exploitant met een beveiligde zending een verzoek in tot toegang tot het transportnetwerk of de opslaglocatie, met vermelding van alle relevante gegevens, in het bijzonder over het afgevangen koolstofdioxide.<br>
+<br>
+§ 2. De toegang tot en het gebruik van het transportnetwerk of de opslaglocatie worden geregeld in een overeenkomst tussen de exploitant en de gebruiker of gebruikers.
 
 ## [Onderafdeling 2 Geschillenbeslechtingsprocedure (ing. BVR 6 juni 2014, art. 5, I: 19 oktober 2014)]
 
 ### ART. 14/25.
 
-§ 1. Als de partijen, vermeld in artikel 14/24, § 2, er binnen een termijn   van zes maanden vanaf het verzoek van de potentiële gebruiker, vermeld in   artikel 14/24, § 1, tweede lid, niet in slagen een overeenkomst te sluiten over   de toegang tot en het gebruik van het transportnetwerk of de opslaglocatie, kan   de potentiële gebruiker per aangetekende brief een verzoek tot   geschillenbeslechting door de Vlaamse Regering indienen bij de   minister.<BR><BR>§ 2. De minister kan bij de partijen alle informatie opvragen   die relevant is voor een doeltreffende beslechting van het geschil.<BR><BR>De   minister hoort de partijen, zowel samen als afzonderlijk. Ook de minister,   bevoegd voor de ruimtelijke ordening, wordt erbij betrokken.<BR><BR>§ 3. Binnen   een termijn van zes maanden vanaf het verzoek tot geschillenbeslechting neemt de   Vlaamse Regering, op het gezamenlijke voorstel van de minister en de minister,   bevoegd voor de ruimtelijke ordening, een principiële beslissing over de toegang   tot en het gebruik van het transportnetwerk of de opslaglocatie, met   inachtneming van de voorwaarden, vermeld in artikel 59, § 2, van het decreet van   8 mei 2009. De beslissing wordt per aangetekende brief aan alle partijen   betekend.<BR><BR>De Vlaamse Regering kan de toegang tot en het gebruik van het   transportnetwerk of de opslaglocatie door de potentiële gebruiker afwijzen,   toekennen of toekennen onder voorwaarden.<BR><BR>Als de toegang tot en het   gebruik van het transportnetwerk of de opslaglocatie aan de potentiële gebruiker   toegekend wordt onder voorwaarden, vermeldt de Vlaamse Regering in de beslissing   de termijn waarbinnen de potentiële gebruiker zijn instemming met die   voorwaarden moet geven. Bij gebrek aan tijdige instemming door de potentiële   gebruiker blijft de beslissing zonder gevolg.
+§ 1. Als de partijen, vermeld in artikel 14/24, § 2, er binnen een termijn van zes maanden vanaf het verzoek van de potentiële gebruiker, vermeld in artikel 14/24, § 1, tweede lid, niet in slagen een overeenkomst te sluiten over de toegang tot en het gebruik van het transportnetwerk of de opslaglocatie, kan de potentiële gebruiker met een beveiligde zending een verzoek tot geschillenbeslechting door de Vlaamse Regering indienen bij de minister.<br>
+<br>
+§ 2. De minister kan bij de partijen alle informatie opvragen die relevant is voor een doeltreffende beslechting van het geschil.<br>
+<br>
+De minister hoort de partijen, zowel samen als afzonderlijk. Ook de minister, bevoegd voor de ruimtelijke ordening, wordt erbij betrokken.<br>
+<br>
+§ 3. Binnen een termijn van zes maanden vanaf het verzoek tot geschillenbeslechting neemt de Vlaamse Regering, op het gezamenlijke voorstel van de minister en de minister, bevoegd voor de ruimtelijke ordening, een principiële beslissing over de toegang tot en het gebruik van het transportnetwerk of de opslaglocatie, met inachtneming van de voorwaarden, vermeld in artikel 59, § 2, van het decreet van 8 mei 2009. De beslissing wordt met een beveiligde zending aan alle partijen betekend.<br>
+<br>
+De Vlaamse Regering kan de toegang tot en het gebruik van het transportnetwerk of de opslaglocatie door de potentiële gebruiker afwijzen, toekennen of toekennen onder voorwaarden.<br>
+<br>
+Als de toegang tot en het gebruik van het transportnetwerk of de opslaglocatie aan de potentiële gebruiker toegekend wordt onder voorwaarden, vermeldt de Vlaamse Regering in de beslissing de termijn waarbinnen de potentiële gebruiker zijn instemming met die voorwaarden moet geven. Bij gebrek aan tijdige instemming door de potentiële gebruiker blijft de beslissing zonder gevolg.
 
 ### ART. 14/26.
 
-§ 1. Bij geschillen over de verhoging van de capaciteit of   verbindingsmogelijkheden van een transportnetwerk of een opslaglocatie met   toepassing van artikel 59, § 3, van het decreet van 8 mei 2009, kan de   potentiële gebruiker vanaf zes maanden na zijn verzoek aan de exploitant per   aangetekende brief een verzoek tot geschillenbeslechting door de Vlaamse   Regering indienen bij de minister.<BR><BR>§ 2. De minister kan bij de partijen   alle informatie opvragen die relevant is voor een doeltreffende beslechting van   het geschil.<BR><BR>De minister hoort de partijen, zowel samen als afzonderlijk.   Ook de minister, bevoegd voor de ruimtelijke ordening, wordt erbij   betrokken.<BR><BR>§ 3. Binnen een termijn van zes maanden vanaf het verzoek tot   geschillenbeslechting neemt de Vlaamse Regering, op het gezamenlijke voorstel   van de minister en de minister, bevoegd voor de ruimtelijke ordening, een   principiële beslissing over de verhoging van de capaciteit of de   verbindingsmogelijkheden van het transportnetwerk of de opslaglocatie, met   inachtneming van de voorwaarden, vermeld in artikel 59, § 3, van het decreet van   8 mei 2009. De beslissing wordt per aangetekende brief aan alle partijen   betekend.<BR><BR>De Vlaamse Regering kan de verhoging van de capaciteit of de   verbindingsmogelijkheden van het transportnetwerk of de opslaglocatie afwijzen,   opleggen of opleggen onder voorwaarden.<BR><BR>Als de verhoging van de   capaciteit of de verbindingsmogelijkheden van het transportnetwerk of de   opslaglocatie opgelegd wordt onder voorwaarden, vermeldt de Vlaamse Regering in   de beslissing de termijn waarbinnen de potentiële gebruiker zijn instemming met   die voorwaarden moet geven. Bij gebrek aan tijdige instemming door de potentiële   gebruiker blijft de beslissing zonder gevolg.
+§ 1. Bij geschillen over de verhoging van de capaciteit of verbindingsmogelijkheden van een transportnetwerk of een opslaglocatie met toepassing van artikel 59, § 3, van het decreet van 8 mei 2009, kan de potentiële gebruiker vanaf zes maanden na zijn verzoek aan de exploitant met een beveiligde zending een verzoek tot geschillenbeslechting door de Vlaamse Regering indienen bij de minister.<br>
+<br>
+§ 2. De minister kan bij de partijen alle informatie opvragen die relevant is voor een doeltreffende beslechting van het geschil.<br>
+<br>
+De minister hoort de partijen, zowel samen als afzonderlijk. Ook de minister, bevoegd voor de ruimtelijke ordening, wordt erbij betrokken.<br>
+<br>
+§ 3. Binnen een termijn van zes maanden vanaf het verzoek tot geschillenbeslechting neemt de Vlaamse Regering, op het gezamenlijke voorstel van de minister en de minister, bevoegd voor de ruimtelijke ordening, een principiële beslissing over de verhoging van de capaciteit of de verbindingsmogelijkheden van het transportnetwerk of de opslaglocatie, met inachtneming van de voorwaarden, vermeld in artikel 59, § 3, van het decreet van 8 mei 2009. De beslissing wordt met een beveiligde zending aan alle partijen betekend.<br>
+<br>
+De Vlaamse Regering kan de verhoging van de capaciteit of de verbindingsmogelijkheden van het transportnetwerk of de opslaglocatie afwijzen, opleggen of opleggen onder voorwaarden.<br>
+<br>
+Als de verhoging van de capaciteit of de verbindingsmogelijkheden van het transportnetwerk of de opslaglocatie opgelegd wordt onder voorwaarden, vermeldt de Vlaamse Regering in de beslissing de termijn waarbinnen de potentiële gebruiker zijn instemming met die voorwaarden moet geven. Bij gebrek aan tijdige instemming door de potentiële gebruiker blijft de beslissing zonder gevolg.
 
 ### ART. 14/27.
 
@@ -214,9 +468,91 @@ Een beslissing als vermeld in artikel 14/25, § 3, of artikel 14/26, § 3,   kan
 
 ## [Afdeling 1. Het indienen van een vergunningsaanvraag (ing. BVR 28 oktober 2016, art. 26, I: 1 januari 2017)]
 
+### ART 14/28.
+
+Een aanvraag van een opsporings- of winningsvergunning voor aardwarmte wordt ingediend bij de minister met een beveiligde zending. Als de beveiligde zending gebeurt in de vorm van een analoge zending wordt de aanvraag ook op een elektronische drager ingediend, inclusief het kaartenmateriaal in shape-, grid-, dwg-, dxf- of dgn-formaat.
+
+### ART 14/29.
+
+§ 1. De aanvraag vermeldt de volgende gegevens:<br>
+1° de voornaam, de achternaam, het beroep, de woonplaats en de nationaliteit van de aanvrager als de aanvrager een natuurlijke persoon is;<br>
+2° de naam, de rechtsvorm, de maatschappelijke zetel, de statuten en de stukken tot staving van de volmachten van de ondertekenaars van de aanvraag, en de contactgegevens van een contactpersoon, als de aanvrager een rechtspersoon is.<br>
+<br>
+Als de aanvrager een buitenlandse natuurlijke persoon of rechtspersoon is, kiest hij een adres in België, dat dienst doet als correspondentieadres.<br>
+<br>
+§ 2. Naast de gegevens, vermeld in paragraaf 1, bevat de aanvraag de volgende gegevens:<br>
+1° de aard van de activiteit waarvoor de vergunning wordt aangevraagd;<br>
+2° het volumegebied waarvoor de vergunning wordt aangevraagd;<br>
+3° de duur waarvoor de vergunning wordt aangevraagd, en een motivering daarvoor, alsook een raming van de hoeveelheid winbare aardwarmte en van de hoeveelheid aardwarmte die zal worden gewonnen, inclusief de daarbij gehanteerde onzekerheidsanalyses, als het een aanvraag van een winningsvergunning voor aardwarmte betreft.
+
+### ART 14/30.
+
+De volgende documenten worden bij de aanvraag gevoegd:<br>
+1° een nota met de gegevens op basis waarvan beoordeeld kan worden hoe de aanvrager zich voorneemt de nodige technische middelen te verwerven voor de activiteiten waarvoor de vergunning wordt aangevraagd. Die nota bevat ten minste de volgende gegevens:<br>
+a) een beschrijving van de technische middelen waarover de aanvrager beschikt en die aangewend zullen worden bij de uitvoering van en het toezicht op de activiteiten;<br>
+b) in voorkomend geval, een beschrijving van de technische middelen die, zodra de vergunning is verleend, door een derde partij aan de aanvrager ter beschikking zullen worden gesteld voor de uitvoering van en het toezicht op de activiteiten;<br>
+c) in voorkomend geval, de technische middelen van de rechtspersonen waarvan de aanvrager de dochtermaatschappij is, of die behoren tot de groep waartoe de aanvrager behoort, als blijkt dat die technische middelen ter beschikking staan of zullen staan van de aanvrager;<br>
+2° een nota met de gegevens op basis waarvan beoordeeld kan worden hoe de aanvrager zich voorneemt de nodige financiële middelen te verwerven voor de activiteiten waarvoor de vergunning wordt aangevraagd. Die nota bevat ten minste de volgende gegevens:<br>
+a) de jaarrekeningen van de laatste drie jaar. Als de aanvrager kan aantonen dat hij niet in staat is die documenten te verstrekken, kan hem worden toegestaan andere geschikte gegevens voor te leggen op basis waarvan zijn financiële soliditeit beoordeeld kan worden;<br>
+b) een beschrijving van de wijze waarop de aanvrager zich voorneemt de voorgenomen activiteiten te financieren;<br>
+c) in voorkomend geval, de financiële middelen van de rechtspersonen waarvan de aanvrager de dochtermaatschappij is, of die behoren tot de groep waartoe de aanvrager behoort, als blijkt dat die financiële middelen ter beschikking staan of zullen staan van de aanvrager;<br>
+3° een overzicht van de relevante professionele ervaring, met inbegrip van relevante opsporings- en winningsactiviteiten met telkens een korte beschrijving van die activiteiten, en de technische ontwikkeling en training van de aanvrager en van alle personeel, of van de personen die door een derde partij ter beschikking zullen worden gesteld van de aanvrager zodra de vergunning is verleend;<br>
+4° een digitaal plan met een relevante en werkbare schaal, waarop de grenzen van het volumegebied zijn aangeduid. Het plan vermeldt waar de aanvrager van plan is om geologisch onderzoek te verrichten, inclusief de geologische lagen en de stratigrafische intervallen, en geeft een raming van het aantal, de locatie, de diepte en de methode van de voorgenomen boringen, en de ligging van de seismische tracés en de voorgenomen techniek van het seismische onderzoek;<br>
+5° een nota met daarin een uitvoerige beschrijving van de manier waarop de aanvrager zich voorneemt de activiteiten waarvoor de vergunning wordt aangevraagd, te verrichten;<br>
+6° een tijdschema van alle voorgenomen activiteiten, inclusief een raming van de investeringen, van de kosten en, in geval van winning, van de opbrengsten en de daarbij gehanteerde onzekerheidsanalyses;<br>
+7° een geologische nota met daarin een beschrijving van de lokale en regionale geologie, en bovendien op zijn minst:<br>
+a) een beschrijving van de verkenningsonderzoeken of andere geologische gegevens waarmee de aanvraag onderbouwd is, de interpretatie van die gegevens en de daarbij gehanteerde onzekerheidsanalyses als het gaat om een aanvraag van een opsporingsvergunning voor aardwarmte of een aanvraag van een winningsvergunning voor aardwarmte die niet volgt op een voorafgaande opsporingsvergunning voor aardwarmte;<br>
+b) een overzicht van de resultaten die voortvloeien uit de voorafgaande opsporingsvergunning als het gaat om een aanvraag van een winningsvergunning voor aardwarmte die volgt op een voorafgaande opsporingsvergunning voor aardwarmte;<br>
+8° een ontwerp van winningsplan voor aardwarmte als het een aanvraag van een winningsvergunning voor aardwarmte betreft;<br>
+9° een nota met daarin een beschrijving van de impact van de geplande activiteiten op het milieu en de boven- en ondergrondse omgeving, en een beschrijving van de middelen die zullen worden aangewend om die impact tot een minimum te beperken;<br>
+10° voor het volumegebied waarop de aanvraag betrekking heeft, en tien kilometer daarbuiten, een overzicht van alle verleende vergunningen, vermeld in hoofdstuk II, III en III/1 van het decreet van 8 mei 2009, alle verleende vergunningen, vermeld in de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ bestemd voor het opslaan van gas, en alle vergunningen voor de ondergrondse berging van radioactief afval, met inbegrip van een modellering die de effecten van de voorgenomen activiteit in de ondergrond op korte en lange afstand duidelijk maakt met het oog op mogelijke interacties tussen de bestaande en de geplande activiteiten;<br>
+11° een nota met daarin een beschrijving van de mate waarin de gewonnen aardwarmte efficiënt en duurzaam zal worden aangewend.<br>
+<br>
+De minister kan op elk moment aanvullende informatie vragen als hij dat voor de beoordeling van de aanvraag noodzakelijk acht.
+
 ## [Afdeling 2. De behandeling van een vergunningsaanvraag (ing. BVR 28 oktober 2016, art. 26, I: 1 januari 2017)]
 
+### ART 14/31.
+
+In geval van toepassing van artikel 63/2 of 63/4 van het decreet van 8 mei 2009 neemt de minister het initiatief om een uitnodiging te publiceren in het Belgisch Staatsblad.<br>
+<br>
+De Vlaamse Regering neemt, op voorstel van de minister, een beslissing over de vergunningsaanvragen binnen een termijn van honderdtwintig dagen na het aflopen van de termijn van negentig dagen, vermeld in artikel 63/2, § 2, of in artikel 63/4, tweede lid, van het decreet van 8 mei 2009.
+
+### ART 14/32.
+
+§ 1. In geval van toepassing van artikel 63/3, § 1, 1°, 4° en 5°, van het decreet van 8 mei 2009 neemt de Vlaamse Regering, op voorstel van de minister, een beslissing over de vergunningsaanvraag binnen een termijn van honderdtwintig dagen nadat de aanvraag ingediend is en volledig bevonden is.<br>
+<br>
+In geval van toepassing van artikel 63/3, § 1, 2°, van het decreet van 8 mei 2009 deelt de minister binnen een termijn van zestig dagen nadat de aanvraag ingediend is en volledig bevonden is, aan de aanvrager mee dat de vergunningsaanvraag afgewezen wordt omdat er voor dat volumegebied al een soortgelijke vergunning of een opsporingsvergunning voor koolstofdioxideopslag, als vermeld in hoofdstuk III van het decreet van 8 mei 2009, is verleend.<br>
+<br>
+In geval van toepassing van artikel 63/3, § 1, 3°, van het decreet van 8 mei 2009 deelt de minister binnen een termijn van honderdtwintig dagen nadat de aanvraag ingediend is en volledig bevonden is, aan de aanvrager mee dat de Vlaamse Regering het volumegebied waarop de aanvraag betrekking heeft, niet openstelt voor de opsporing of de winning van aardwarmte.<br>
+<br>
+§ 2. In geval van toepassing van artikel 63/3, § 2, 1°, van het decreet van 8 mei 2009 nodigt de minister de houders van vergunningen voor eventuele aangrenzende volumegebieden uit om binnen een termijn van negentig dagen ook een aanvraag in te dienen of hun opmerkingen mee te delen. De Vlaamse Regering neemt, op voorstel van de minister, een beslissing over de vergunningsaanvragen binnen een termijn van honderdtwintig dagen na het aflopen van de termijn van negentig dagen waarin de andere vergunninghouders ook een aanvraag konden indienen of hun opmerkingen konden meedelen.<br>
+<br>
+In geval van toepassing van artikel 63/3, § 2, 2°, van het decreet van 8 mei 2009 wordt de procedure, vermeld in artikel 63/2 van het voormelde decreet, niet gevolgd. Als de aanvrager de houder is van de reeds verleende vergunning voor het opsporen of winnen van koolwaterstoffen of opslagvergunning, beoordeelt de minister in het bijzonder of de activiteit waarvoor de vergunning wordt aangevraagd, gecombineerd kan worden met de reeds vergunde activiteit, en neemt de Vlaamse Regering, op voorstel van de minister, een beslissing over de vergunningsaanvraag binnen een termijn van honderdtwintig dagen nadat de aanvraag ingediend is en volledig bevonden is. Als de aanvrager niet de houder is van de reeds verleende vergunning voor het opsporen of winnen van koolwaterstoffen of opslagvergunning, deelt de minister binnen een termijn van zestig dagen nadat de aanvraag ingediend is en volledig bevonden is, aan de aanvrager mee dat de vergunningsaanvraag afgewezen wordt omdat de aanvraag betrekking heeft op een volumegebied waarvoor op dat ogenblik al aan een ander een vergunning voor het opsporen of het winnen van koolwaterstoffen als vermeld in hoofdstuk II van het decreet van 8 mei 2009, een opslagvergunning als vermeld in hoofdstuk III van het decreet van 8 mei 2009, een vergunning voor de ondergrondse berging van radioactief afval of een vergunning als vermeld in de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ bestemd voor het opslaan van gas, is verleend.
+
+### ART 14/33.
+
+Een besluit van de Vlaamse Regering waarbij een vergunning wordt verleend of geweigerd, wordt bekendgemaakt in het Belgisch Staatsblad.
+
 ## [Afdeling 3. Vergunningscriteria (ing. BVR 28 oktober 2016, art. 26, I: 1 januari 2017)]
+
+### ART 14/34.
+
+§ 1. Bij de beoordeling van de manier waarop de aanvrager zich voorneemt de nodige technische middelen te verwerven voor de activiteiten waarvoor de vergunning wordt aangevraagd als vermeld in artikel 63/6, eerste lid, 1°, van het decreet van 8 mei 2009, wordt in ieder geval rekening gehouden met de volgende criteria:<br>
+1° de technische middelen waarover de aanvrager beschikt en die aangewend zullen worden bij de uitvoering van en het toezicht op de activiteiten;<br>
+2° in voorkomend geval, de technische middelen en de relevante professionele ervaring die door een derde partij ter beschikking zullen worden gesteld zodra de vergunning is verleend;<br>
+3° in voorkomend geval, de technische middelen en de relevante professionele ervaring van de rechtspersonen waarvan de aanvrager de dochtermaatschappij is, of die behoren tot de groep waartoe de aanvrager behoort, als blijkt dat die technische middelen en relevante professionele ervaring ter beschikking staan of zullen staan van de aanvrager.<br>
+<br>
+§ 2. Bij de beoordeling van de manier waarop de aanvrager zich voorneemt de nodige financiële middelen te verwerven voor de activiteiten waarvoor de vergunning wordt aangevraagd als vermeld in artikel 63/6, eerste lid, 1°, van het decreet van 8 mei 2009, wordt in ieder geval rekening gehouden met de volgende criteria:<br>
+1° de financiële middelen waarover de aanvrager beschikt;<br>
+2° de wijze waarop de aanvrager de voorgenomen activiteiten zal financieren;<br>
+3° in voorkomend geval, de financiële middelen van de rechtspersonen waarvan de aanvrager de dochtermaatschappij is, of die behoren tot de groep waartoe de aanvrager behoort, als blijkt dat die financiële middelen ter beschikking staan of zullen staan van de aanvrager.<br>
+<br>
+§ 3. Bij de beoordeling van de manier waarop de aanvrager zich voorneemt de activiteiten te verrichten waarvoor de vergunning wordt aangevraagd als vermeld in artikel 63/6, eerste lid, 2°, van het decreet van 8 mei 2009, wordt in ieder geval rekening gehouden met de volgende criteria:<br>
+1° de mate waarin de geplande activiteiten beantwoorden aan een efficiënte en rationele opsporing of winning van aardwarmte;<br>
+2° de geologische onderbouwing en de praktische uitvoerbaarheid van de geplande activiteiten;<br>
+3° de impact van de geplande activiteiten op het milieu en de boven- en ondergrondse omgeving, en de middelen die zullen worden aangewend om die impact tot een minimum te beperken;<br>
+4° de rentabiliteit van de geplande activiteiten.
 
 ## [Afdeling 9. De waarborgregeling voor aardwarmteprojecten in de diepe ondergrond (ing. BVR 20 april 2018, art. 2, I: 23 mei 2018)]
 
@@ -240,15 +576,117 @@ Een beslissing als vermeld in artikel 14/25, § 3, of artikel 14/26, § 3,   kan
 
 ## [Afdeling 4. Het winnen van koolwaterstoffen en andere stoffen die onvermijdelijk meekomen met het winnen van aardwarmte (ing. BVR 28 oktober 2016, art. 26, I: 1 januari 2017)]
 
+### ART 14/35.
+
+In geval van toepassing van artikel 63/8, § 1, tweede lid, van het decreet van 8 mei 2009 zijn artikel 13 en 14 van dit besluit van overeenkomstige toepassing.
+
 ## [Afdeling 5. Bewijsstukken met betrekking tot de vereiste middelen en professionele ervaring (ing. BVR 28 oktober 2016, art. 26, I: 1 januari 2017)]
+
+### ART 14/36.
+
+Ter uitvoering van artikel 63/9 van het decreet van 8 mei 2009 bezorgt de houder van een vergunning voor het opsporen of winnen van aardwarmte aan de minister bewijsstukken dat hij over de nodige technische en financiële middelen en relevante professionele ervaring beschikt, eventueel door samenwerking met een derde partij, om de activiteiten te verrichten waarvoor de vergunning is verleend. Die verplichting geldt zowel voor de aanleg van boorgaten voor het opsporen van aardwarmte als voor de eventuele aanleg van bijkomende boorgaten voor het winnen van aardwarmte.<br>
+<br>
+De minister stuurt zijn instemming naar de vergunninghouder binnen een termijn van dertig dagen na de indiening van de bewijsstukken, vermeld in het eerste lid.<br>
+<br>
+Na de ontvangst van de instemming van de minister mag de vergunninghouder boorgaten voor het opsporen of winnen van aardwarmte aanleggen, op voorwaarde dat hij voldoet aan alle andere toepasselijke regelgeving en vergunningsplichten.
 
 ## [Afdeling 6. Het winningsplan voor aardwarmte (ing. BVR 28 oktober 2016, art. 26, I: 1 januari 2017)]
 
+### ART 14/37.
+
+Samen met de aanvraag van een winningsvergunning voor aardwarmte wordt een ontwerp van een winningsplan voor aardwarmte als vermeld in artikel 63/12 van het decreet van 8 mei 2009, ingediend bij de minister.<br>
+<br>
+Het ontwerp van winningsplan voor aardwarmte bevat minstens de volgende gegevens:<br>
+1° een beschrijving van de verwachte hoeveelheid winbare aardwarmte (in J) en de hoeveelheid aardwarmte die daarvan gewonnen zal worden en de spreiding ervan, onderverdeeld in totaal reservoir en verwachte productieve zones, het verwachte thermisch of elektrisch vermogen, het verwachte debiet bij vollast, het aantal vollasturen, de beoogde productie- en injectietemperatuur, de pompdruk bij de putten en de hoeveelheid energie die het systeem vergt;<br>
+2° een beschrijving van de structuur van het geothermisch reservoir, onderverdeeld in totaal reservoir en verwachte productieve zones, met de bijbehorende gedetailleerde geologische, geochemische, geofysische en petrofysische studies en de daarbij gehanteerde onzekerheidsanalyses;<br>
+3° een beschrijving van de wijze en duur van de winning en de daarmee verband houdende activiteiten, inclusief de technieken die daarbij worden gebruikt;<br>
+4° een planning van het aantal boorgaten dat bij de winning gebruikt zal worden, met vermelding van het beoogde gebruik (productieput of injectieput), inclusief de ligging en het ondergrondse traject en de gedetailleerde technische specificaties ervan;<br>
+5° een planning van de volgorde en het tijdsbestek van het maken van de boorgaten;<br>
+6° een opgave van de plaats waar en de wijze waarop het warm water in de verbuizing treedt;<br>
+7° een raming van de samenstelling en hoeveelheid van de stoffen die jaarlijks onvermijdelijk bij de winning van aardwarmte meekomen;<br>
+8° een raming van de hoeveelheden onvermijdelijk gewonnen koolwaterstoffen die jaarlijks bij de winning van aardwarmte in de ondergrond worden teruggebracht of bovengronds worden gebruikt, afgeblazen of afgefakkeld;<br>
+9° een raming van de samenstelling en hoeveelheden van andere onvermijdelijk gewonnen stoffen dan koolwaterstoffen, die jaarlijks bij de winning van aardwarmte in de ondergrond worden teruggebracht of aan de oppervlakte worden afgevoerd;<br>
+10° een raming van de jaarlijkse kosten van de winning, onderverdeeld in kosten voor investeringen, onderhoud en bedrijfsvoering;<br>
+11° een raming van de kosten voor het veilig afsluiten en verlaten van de boorgaten;<br>
+12° een risicoanalyse met betrekking tot bodembeweging als gevolg van de winning van aardwarmte;<br>
+13° een beschrijving van de mogelijke omvang en de verwachte aard van de schade door bodembeweging;<br>
+14° een beschrijving van de maatregelen die genomen worden om bodembeweging en de daaruit voortvloeiende schade te voorkomen of te beperken.<br>
+<br>
+Samen met het besluit waarbij de Vlaamse Regering een winningsvergunning voor aardwarmte verleent, hecht de minister zijn goedkeuring aan het winningsplan voor aardwarmte. De minister kan beperkingen en voorwaarden verbinden aan zijn goedkeuring.<br>
+<br>
+Een aanvraag tot wijziging of actualisering van het winningsplan voor aardwarmte wordt, voorzien van de nodige motivering, met een beveiligde zending ter goedkeuring bij de minister ingediend. De minister kan zelf ook wijzigingen of actualiseringen van het winningsplan voor aardwarmte opleggen.
+
 ## [Afdeling 7. Het meten van bodembeweging (ing. BVR 28 oktober 2016, art. 26, I: 1 januari 2017)]
+
+### ART 14/38.
+
+§ 1. In geval van toepassing van artikel 63/14, eerste lid, van het decreet van 8 mei 2009 worden de metingen die de houder van een opsporings- of winningsvergunning voor aardwarmte moet verrichten om de kans op bodembeweging als gevolg van het opsporen of winnen van aardwarmte in te schatten, verricht overeenkomstig een meetplan.<br>
+<br>
+In voorkomend geval wordt na het verlenen van de opsporings- of winningsvergunning voor aardwarmte een ontwerp van een meetplan ingediend bij de minister.<br>
+<br>
+Het meetplan beslaat de duur van de opsporings- of winningsvergunning.<br>
+<br>
+§ 2. Het meetplan bevat minstens de volgende gegevens:<br>
+1° een beschrijving van de tijdstippen waarop de metingen worden verricht, waarbij een van die tijdstippen voor de aanvang van de opsporing of winning valt, of een beschrijving van het tijdstip van de aanvang van de metingen in geval van continue metingen;<br>
+2° de plaatsen waar gemeten wordt;<br>
+3° de gehanteerde meetmethoden;<br>
+4° een inschatting van de kans op schade door bodembeweging als gevolg van het opsporen of winnen van aardwarmte.<br>
+<br>
+§ 3. In voorkomend geval hecht de minister zijn goedkeuring aan het meetplan of wijst hij het meetplan af binnen een termijn van zestig dagen nadat het is ingediend. De minister kan beperkingen en voorwaarden verbinden aan zijn goedkeuring.<br>
+<br>
+In voorkomend geval wordt de verleende opsporings- of winningsvergunning voor aardwarmte van rechtswege geschorst tot het meetplan door de minister is goedgekeurd.<br>
+<br>
+§ 4. Tijdens de duur van de opsporingsvergunning voor aardwarmte wordt het meetplan tweejaarlijks geactualiseerd, en tijdens de duur van de winningsvergunning voor aardwarmte wordt het meetplan vijfjaarlijks geactualiseerd. Die actualiseringen worden met een beveiligde zending aan de minister gemeld. Als de minister niet akkoord gaat met die actualiseringen, meldt hij dat binnen een termijn van zestig dagen aan de houder van de vergunning. De minister kan ook altijd zelf actualiseringen van het meetplan opleggen.<br>
+<br>
+§ 5. De houder van de vergunning draagt er zorg voor dat de metingen op een nauwkeurige en betrouwbare wijze verricht worden.<br>
+<br>
+De resultaten van de metingen worden jaarlijks aan de minister gerapporteerd.<br>
+<br>
+De minister kan de houder van de opsporings- of winningsvergunning voor aardwarmte altijd maatregelen opleggen om de kans op bodembeweging te verminderen, of om de gevolgen ervan ongedaan te maken of te beperken.
 
 ## [Afdeling 8. De wijziging, overdracht of afstand van een vergunning (ing. BVR 28 oktober 2016, art. 26, I: 1 januari 2017)]
 
+### ART 14/39.
+
+Een aanvraag van een wijziging, een overdracht of een afstand van een vergunning wordt met een beveiligde zending ingediend bij de minister. De aanvraag wordt gemotiveerd.<br>
+<br>
+De Vlaamse Regering doet, op voorstel van de minister, binnen een termijn van honderdtwintig dagen een uitspraak over de aanvraag.
+
 ## [HOOFDSTUK 2/3. Structuurvisie inzake de diepe ondergrond (ing. BVR 28 oktober 2016, art. 27, I: 1 januari 2017)]
+
+### ART 14/40.
+
+§ 1. De afdeling, bevoegd voor natuurlijke rijkdommen, vraagt aan de federale administraties die bevoegd zijn voor de toepassingen in de diepe ondergrond, vermeld in artikel 63/26, § 2, 1°, d), e) en f), van het decreet van 8 mei 2009, de informatie op die nuttig kan zijn voor de opmaak van een structuurvisie inzake de diepe ondergrond.<br>
+<br>
+§ 2. De minister maakt een ontwerp van de structuurvisie inzake de diepe ondergrond op en bezorgt dat voor advies aan de federale administraties, vermeld in paragraaf 1, en aan de Vlaamse minister, bevoegd voor de economie, de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, de Vlaamse minister, bevoegd voor het energiebeleid, en de Vlaamse minister, bevoegd voor de ruimtelijke ordening.<br>
+<br>
+§ 3. De Vlaamse ministers, vermeld in paragraaf 2, bepalen zelf welke administraties, instellingen en organisaties uit hun bevoegdheidsdomein een advies uitbrengen.<br>
+<br>
+De Vlaamse ministers, vermeld in paragraaf 2, verlenen een vanuit hun bevoegdheidsdomein of -domeinen gecoördineerd advies.<br>
+<br>
+De adviezen worden binnen negentig dagen na de datum van de ontvangst van het ontwerp naar de minister gestuurd. Als binnen die termijn geen advies is verleend, wordt het als gunstig beschouwd.<br>
+<br>
+De adviezen worden verwerkt door de afdeling, bevoegd voor natuurlijke rijkdommen, en kunnen aanleiding geven tot een aanpassing van het ontwerp van de structuurvisie inzake de diepe ondergrond.<br>
+<br>
+§ 4. De minister legt het ontwerp samen met de uitgebrachte adviezen voor aan de Vlaamse Regering met het oog op de principiële vastlegging van de structuurvisie inzake de diepe ondergrond.<br>
+<br>
+§ 5. Over het principieel vastgelegde ontwerp van de structuurvisie inzake de diepe ondergrond wordt een raadpleging van de bevolking georganiseerd. De raadpleging wordt uiterlijk één week voor het begin ervan aangekondigd in het Belgisch Staatsblad. De aankondiging wordt ook bekendgemaakt in het gemeentehuis en op de website van elke gemeente.<br>
+<br>
+Het principieel vastgelegde ontwerp kan worden geraadpleegd op de website van de afdeling, bevoegd voor natuurlijke rijkdommen, en kan bij die afdeling ook worden opgevraagd.<br>
+<br>
+Binnen een termijn van zestig dagen vanaf het begin van de raadpleging kunnen met een brief of met een e-mail opmerkingen over het principieel vastgelegde ontwerp worden bezorgd aan de afdeling, bevoegd voor natuurlijke rijkdommen. Het adres daarvan wordt vermeld in de aankondiging van de raadpleging. De opmerkingen bevatten een duidelijke vermelding van de auteur en zijn adres en een verwijzing naar de specifieke titel of passage uit het principieel vastgelegde ontwerp waarop ze betrekking hebben.<br>
+<br>
+§ 6. Samen met de raadpleging van de bevolking wordt het principieel vastgelegde ontwerp van de structuurvisie inzake de diepe ondergrond ter advies voorgelegd aan de Milieu- en Natuurraad van Vlaanderen en aan de Sociaal-Economische Raad van Vlaanderen.<br>
+<br>
+De opmerkingen ingevolge de raadpleging van de bevolking en de adviezen van de Milieu- en Natuurraad van Vlaanderen en de Sociaal-Economische Raad van Vlaanderen worden verwerkt door de afdeling, bevoegd voor natuurlijke rijkdommen, en kunnen aanleiding geven tot een aanpassing van het ontwerp van de structuurvisie inzake de diepe ondergrond.<br>
+<br>
+De minister legt het ontwerp samen met de opmerkingen en de uitgebrachte adviezen voor aan de Vlaamse Regering met het oog op de definitieve vastlegging van de structuurvisie inzake de diepe ondergrond.<br>
+<br>
+§ 7. De definitief vastgelegde structuurvisie inzake de diepe ondergrond wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt. Ze kan in integrale vorm worden geraadpleegd op de website van de afdeling, bevoegd voor natuurlijke rijkdommen.<br>
+<br>
+§ 8. De minister evalueert de structuurvisie inzake de diepe ondergrond vijfjaarlijks. Die evaluatie kan aanleiding geven tot een herziening van de structuurvisie inzake de diepe ondergrond.<br>
+<br>
+De regels voor de totstandkoming van de structuurvisie inzake de diepe ondergrond zijn ook van toepassing op de herziening ervan.
 
 ## HOOFDSTUK 3 Wijzigingsbepalingen
 
