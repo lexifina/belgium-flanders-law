@@ -2,16 +2,16 @@
   "codex_id": 1003318,
   "title": "Besluit van de Vlaamse Regering van 1990-07-31 tot vaststelling van de gelijkwaardigheid van bepaalde bekwaamheidsbewijzen van godsdienstige of ideologische aard met de vereiste of de voldoende geachte bekwaamheidsbewijzen in de door de Vlaamse Gemeenschap gesubsidieerde vrije onderwijsinstellingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003318/VolledigDocument?datum=2015-09-01",
-  "source_sha256": "0eba650db066d0c5fbba8f7440d4325a4a73afd1143478b41be51cd453edcd05",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003318/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "052167c7555ef328ef93e7a420e2352c1f67bdd6c0a4cb1d0696c58e88185de2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003318&param=informatie",
-  "as_of": "2015-09-01",
+  "as_of": "2017-01-01",
   "made": "1990-07-31",
   "gazette": "1990-11-01",
   "numac": 1990030228,
   "document_start": "1989-09-01",
   "document_end": null,
-  "in_force": "2015-09-01",
+  "in_force": "2017-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
