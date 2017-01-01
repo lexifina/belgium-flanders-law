@@ -2,16 +2,16 @@
   "codex_id": 1022373,
   "title": "Besluit van de Vlaamse Regering van 2012-09-07 houdende vaststelling van maatregelen ter ondersteuning van kwetsbare jongvolwassen personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022373/VolledigDocument?datum=2013-08-09",
-  "source_sha256": "fc86e199504cec617a0690da92462a2e527b61fb4cca72fd8e1fbe01eb595951",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022373/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "6a1ab35b2db31d7fca5435a37ae0370ccace18497d743f27126b6fa4fd1510e5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022373&param=informatie",
-  "as_of": "2013-08-09",
+  "as_of": "2017-01-01",
   "made": "2012-09-07",
   "gazette": "2012-10-12",
   "numac": 2012036070,
   "document_start": "2012-09-01",
   "document_end": "2016-12-31",
-  "in_force": "2013-08-09",
+  "in_force": "2017-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2013-08-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
