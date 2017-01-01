@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028199,
+  "title": "Besluit van de Vlaamse Regering van 2017-03-31 betreffende de subsidiëring van een vernieuwend en verbreed laagdrempelig initiatief inzake gezinsondersteuning voor aanstaande gezinnen en gezinnen met kinderen met het oog op de bestrijding van kinderarmoede",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028199/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "ee5528b28abe9071d67e35a4a814b933bfbc688adf91b670621edcffe2769900",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028199&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-03-31",
+  "gazette": "2017-05-04",
+  "numac": 2017030263,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
