@@ -29,7 +29,16 @@ Dit besluit is van toepassing op het basis- en secundair onderwijs, gefinancierd
 
 ### ART. 2.
 
-In dit besluit wordt verstaan onder:<br />1° AgODi: het Agentschap voor Onderwijsdiensten;<br />2° CLR: de Commissie inzake leerlingenrechten, vermeld in hoofdstuk IV, afdeling 2, van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I;<br />3° codex: de Codex Secundair Onderwijs van 17 december 2010;<br />4° decreet van 25 februari 1997: het decreet basisonderwijs van 25 februari 1997;<br />5° initiatiefnemer: het schoolbestuur, meerdere schoolbesturen samen of het LOP, vermeld in hoofdstuk IV, afdeling 1, van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I, betrokken bij de aanmeldingsprocedure;<br />6° LOP: het lokaal overlegplatform;<br />7° minister: de Vlaamse minister, bevoegd voor het onderwijs;<br />8° Regering: de Vlaamse Regering.<br /><br />
+In dit besluit wordt verstaan onder:<br>
+1° AgODi: het Agentschap voor Onderwijsdiensten;<br>
+2° CLR : de Commissie inzake leerlingenrechten, vermeld in de Codificatie sommige bepalingen voor het onderwijs;<br>
+3° codex: de Codex Secundair Onderwijs van 17 december 2010;<br>
+4° decreet van 25 februari 1997: het decreet basisonderwijs van 25 februari 1997;<br>
+5° initiatiefnemer : het schoolbestuur, meerdere schoolbesturen samen of het LOP, vermeld in de Codificatie sommige bepalingen voor het onderwijs, betrokken bij de aanmeldingsprocedure;”;<br>
+6° LOP: het lokaal overlegplatform;<br>
+7° minister: de Vlaamse minister, bevoegd voor het onderwijs;<br>
+8° Regering: de Vlaamse Regering.<br>
+&nbsp;
 
 ## Hoofdstuk 3 Modellen
 
