@@ -208,19 +208,19 @@ De Vlaamse Regering,<br /><br />Gelet op artikel 20 van de bijzondere wet van 8 
 
 ### ART. 36.
 
-Het jaarlijkse verslag, vermeld in artikel 21 en artikel 26, § 1, 3°, van het decreet, wordt telkens voor advies voorgelegd aan de sportraad van de VGC. De sportraad krijgt ten minste dertig dagen tijd om zijn advies te formuleren.<br /><br />Het jaarlijkse verslag moet door het college van de VGC worden goedgekeurd. Als het sportbeleidsplan van de VGC wordt gewijzigd, zoals vermeld in artikel 34, vierde lid, dan moet het jaarlijkse verslag ter goedkeuring worden voorgelegd aan de Nederlandstalige taalgroep van het Brussels Hoofdstedelijk Parlement.<br /><br />Het jaarlijkse verslag moet samen met het advies van de sportraad van de VGC en, bij afwijking van het advies, samen met het gemotiveerde antwoord van het college van de VGC, jaarlijks voor 1 september van het jaar dat volgt op het jaar waarop het verslag betrekking heeft, aan het Bloso en aan de sportraad van de VGC worden bezorgd. Het Bloso zal formulieren ter beschikking stellen voor het jaarlijkse verslag dat het bestuur moet indienen overeenkomstig artikel 21 en 26, § 1, 3°, b), van het decreet.<br /><br />
+...
 
 ## Onderafdeling IV Uitbetaling en regularisatie of terugvordering van subsidies aan de Vlaamse Gemeenschapscommissie
 
 ### ART. 37.
 
-Als de minister het sportbeleidsplan van de VGC voor subsidiëring heeft aanvaard, wordt jaarlijks tijdens het tweede trimester een voorschot uitbetaald voor het betreffende begrotingsjaar van de sportbeleidsplanperiode van de VGC. Het voorschot bedraagt 90 % van het bedrag waarop de VGC recht heeft overeenkomstig artikel 35. <br /><br />Nadat de minister het jaarlijkse verslag aanvaard heeft, wordt het saldo van de subsidies uitbetaald voor 31 december van het jaar dat volgt op het begrotingsjaar.<br /><br />Als blijkt dat het sportbeleidsplan van de VGC, vermeld in artikel 32 van dit besluit, en in artikel 2, 6°, in artikel 20 en 21, en in artikel 24 van het decreet, en niet werd uitgevoerd en daar geen afdoende motivatie voor bestaat, of als niet voldaan werd aan de bestedingspercentages, vermeld in artikel 33 van dit besluit, en in artikel 10, § 2, van het decreet, dan wordt geen subsidie toegekend of wordt het saldo beperkt en wordt het eventueel te veel uitbetaalde voorschot geregulariseerd of teruggevorderd. <br /><br />Als blijkt dat niet voldaan werd aan de voorwaarde van de sportgekwalificeerde ambtenaar, vermeld in artikel 47, 48 en 49 van dit besluit, of in artikel 2, 8° en in artikel 31 van het decreet, dan wordt geen subsidie toegekend of wordt het saldo beperkt en wordt het eventueel te veel uitbetaalde voorschot geregulariseerd of teruggevorderd.<br /><br />Als blijkt dat niet voldaan werd aan de voorwaarde van de sportraad, vermeld in artikel 28, 29 en 30 van het decreet, dan wordt geen subsidie toegekend en wordt het uitbetaalde voorschot geregulariseerd of teruggevorderd.<br /><br />Op de bepalingen van het derde tot het vijfde lid zijn de algemene regels inzake de controle op het verlenen en het gebruik van subsidies onverminderd van toepassing.<br /><br />
+...
 
 ## Onderafdeling V Klachtenprocedure voor de Vlaamse Gemeenschapscommissie
 
 ### ART. 38.
 
-§ 1. Ter uitvoering van artikel 27 van het decreet kunnen de sportraad van de VGC, een of meer bovenlokale sportverenigingen of elke andere betrokkene bij het sportbeleidsplan van de VGC een gemotiveerd bezwaarschrift indienen over : <br />1° de goedkeuring van het sportbeleidsplan door de Nederlandstalige taalgroep van het Brussels Hoofdstedelijk Parlement; <br />2° de goedkeuring van het jaarlijkse verslag door het college van de VGC of in voorkomend geval de Nederlandstalige taalgroep van het Brussels Hoofdstedelijk Parlement; <br />3° het niet-uitvoeren van het sportbeleidsplan van de VGC conform de vermelde doelstellingen.<br /><br />§ 2. Het bezwaarschrift moet ingediend worden bij het Bloso en er moet een advies van de sportraad van de VGC bij gevoegd zijn, overeenkomstig artikel 27 van het decreet.<br /><br />Het Bloso bezorgt binnen zeven werkdagen een ontvangstmelding aan de indiener, aan het college van de VGC en aan de sportraad van de VGC.<br /><br />§ 3. Het bezwaarschrift tegen de goedkeuring van het sportbeleidsplan van de VGC moet worden verstuurd aan het Bloso binnen een termijn van dertig dagen nadat de Nederlandstalige taalgroep van het Brussels Hoofdstedelijk Parlement het sportbeleidsplan goedgekeurd heeft.<br /><br />Het bezwaarschrift tegen de goedkeuring van het jaarlijkse verslag door het college van de VGC kan worden ingediend tot uiterlijk 30 september van het jaar dat volgt op het jaar waarop het verslag betrekking heeft.<br /><br />Het bezwaarschrift tegen het niet-uitvoeren van het sportbeleidsplan van de VGC conform de vermelde doelstellingen kan worden ingediend bij het Bloso tot uiterlijk 30 september van het jaar dat volgt op het jaar waarop het sportbeleidsplan betrekking heeft.<br /><br />§ 4. Aan het college van de VGC wordt het standpunt gevraagd over het ingediende bezwaarschrift. De minister spreekt zich uit over het bezwaarschrift en het al dan niet toekennen of terugvorderen van subsidies binnen een termijn van zestig dagen nadat het Bloso het bezwaarschrift ontvangen heeft. De minister brengt zijn beslissing uiterlijk de laatste dag van die termijn ter kennis van het college van de VGC, van de sportraad van de VGC en van de eventuele indiener van het bezwaarschrift.<br /><br />
+...
 
 ## Onderafdeling VI Evaluatie van het sportbeleidsplan van de Vlaamse Gemeenschapscommissie
 
@@ -250,19 +250,19 @@ Als de minister het sportbeleidsplan van de VGC voor subsidiëring heeft aanvaar
 
 ### ART. 43.
 
-De bepalingen van artikel 36 zijn van overeenkomstige toepassing op het jaarlijkse verslag over het aanvullend sportbeleidsplan van de VGC, met dien verstande dat het jaarlijkse verslag, vermeld in artikel 36, eerste lid, bepaald is krachtens artikel 22 en artikel 18, § 1, 3°, a) en b), 1), van het decreet.<br /><br />
+...
 
 ## Onderafdeling IV Uitbetaling en regularisatie of terugvordering van subsidies aan de Vlaamse Gemeenschapscommissie voor het aanvullend sportbeleidsplan
 
 ### ART. 44.
 
-De bepalingen van artikel 37, eerste en tweede lid, zijn van overeenkomstige toepassing op de subsidies voor het aanvullend sportbeleidsplan van de VGC, met dien verstande dat de subsidies, vermeld in artikel 37, eerste lid, bepaald zijn krachtens artikel 42.<br /><br />De bepalingen van artikel 37, derde en zesde lid, zijn van overeenkomstige toepassing op het aanvullend sportbeleidsplan van de VGC met dien verstande dat het sportbeleidsplan, vermeld in artikel 37, derde lid, bepaald is krachtens artikel 2, 6°, artikel 15 en artikel 22 van het decreet en artikel 40 van dit besluit, en dat de bestedingspercentages, vermeld in artikel 37, derde lid, bepaald zijn krachtens artikel 9 van het decreet.<br /><br />
+...
 
 ## Onderafdeling V Klachtenprocedure voor het aanvullend sportbeleidsplan van de Vlaamse Gemeenschapscommissie
 
 ### ART. 45.
 
-De bepalingen van artikel 38 zijn van overeenkomstige toepassing op het aanvullend sportbeleidsplan van de VGC.<br /><br />
+...
 
 ## Onderafdeling VI Evaluatie van het aanvullend sportbeleidsplan van de Vlaamse Gemeenschapscommissie
 
