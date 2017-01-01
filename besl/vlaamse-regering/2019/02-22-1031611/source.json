@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031611,
+  "title": "Besluit van de Vlaamse Regering van 2019-02-22 tot wijziging van het Subsidiebesluit van 22 november 2013, voor wat betreft de openingsdagen, de verhoging van de onkostenvergoeding voor kinderbegeleider gezinsopvang, het inkomenstarief en het realiseren van het groeipad en tot opheffing van het besluit van de Vlaamse Regering van 14 december 2018 tot toekenning van een eenmalige subsidie in 2018 voor de informatisering in het kader van de kinderopvangtoeslag",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031611/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "e5a938c911fbb187fe8ee474cc6fb3d5b639a8c8158babbff1f52c2b505b1669",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031611&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2019-02-22",
+  "gazette": "2019-04-25",
+  "numac": 2019011900,
+  "document_start": "2019-05-05",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
