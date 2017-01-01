@@ -2,16 +2,16 @@
   "codex_id": 1019544,
   "title": "Ministerieel besluit van 2010-07-02 betreffende de uitvoering van de zorgverzekering",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019544/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "42b7a02ceb7991b56c011d8cf7893e9ba91b383c7c385198b84ebca2e9ac666d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019544/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "073ffc1dd601e1707b3ff58d61892a93f2bd023c2260500b1fbc64432adfec57",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019544&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2017-01-01",
   "made": "2010-07-02",
   "gazette": "2010-10-01",
   "numac": 2010035698,
   "document_start": "2010-01-01",
   "document_end": "2016-12-31",
-  "in_force": "2010-01-01",
+  "in_force": "2017-01-01",
   "article_versions": 77,
-  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
