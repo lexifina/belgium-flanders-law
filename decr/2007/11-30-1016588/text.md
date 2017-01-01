@@ -8,7 +8,19 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br />
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<br />1° basisonderwijs : het gewoon en buitengewoon basisonderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap;<br />2° centrumstad : Aalst, Antwerpen, Brugge, Genk, Gent, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas, Turnhout;<br />3° deeltijds kunstonderwijs : het onderwijs, vermeld in titel V van het decreet van 31 juli 1990 betreffende het onderwijs-II;<br />4° ...<br />5° hoger onderwijs : het onderwijs, georganiseerd door hogescholen en universiteiten;<br />6° lokaal overlegplatform : het lokaal overlegplatform vermeld in hoofdstuk IV, afdeling 1, van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I;<br />7° lokale actoren : de onderwijsinstellingen en alle andere rechtspersonen, instellingen, diensten, organisaties en/of groeperingen die op lokaal vlak bijdragen tot de doelstellingen van het flankerend onderwijsbeleid;<br />8° lokale besturen : de gemeenten, de provincies en de Vlaamse Gemeenschapscommissie, tenzij anders bepaald;<br />9° schoolbestuur : de inrichtende macht zoals vermeld in artikel 24, § 4, van de Grondwet. Dit is een rechtspersoon of natuurlijke persoon die verantwoordelijk is voor één of meer scholen;<br />10° secundair onderwijs : het voltijds secundair onderwijs, het buitengewoon secundair onderwijs, het deeltijds beroepssecundair onderwijs en het deeltijds secundair zeevisserijonderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap;<br />11° volwassenenonderwijs : het onderwijs vermeld in het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />
+In dit decreet wordt verstaan onder :<br>
+1° basisonderwijs : het gewoon en buitengewoon basisonderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap;<br>
+2° centrumstad : Aalst, Antwerpen, Brugge, Genk, Gent, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas, Turnhout;<br>
+3° deeltijds kunstonderwijs : het deeltijds kunstonderwijs;<br>
+4° ...<br>
+5° hoger onderwijs : het onderwijs, georganiseerd door hogescholen en universiteiten;<br>
+6° lokaal overlegplatform : het lokaal overlegplatform vermeld in artikel VIII.2 en volgende van de Codificatie sommige bepalingen voor het onderwijs;<br>
+7° lokale actoren : de onderwijsinstellingen en alle andere rechtspersonen, instellingen, diensten, organisaties en/of groeperingen die op lokaal vlak bijdragen tot de doelstellingen van het flankerend onderwijsbeleid;<br>
+8° lokale besturen : de gemeenten, de provincies en de Vlaamse Gemeenschapscommissie, tenzij anders bepaald;<br>
+9° schoolbestuur : de inrichtende macht zoals vermeld in artikel 24, § 4, van de Grondwet. Dit is een rechtspersoon of natuurlijke persoon die verantwoordelijk is voor één of meer scholen;<br>
+10° secundair onderwijs : het voltijds secundair onderwijs, het buitengewoon secundair onderwijs, het deeltijds beroepssecundair onderwijs en het deeltijds secundair zeevisserijonderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap;<br>
+11° volwassenenonderwijs : het onderwijs vermeld in het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br>
+&nbsp;
 
 ### ART. 2bis.
 
