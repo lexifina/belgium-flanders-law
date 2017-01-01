@@ -18,7 +18,20 @@ Dit besluit is van toepassing op de personeelsleden tewerkgesteld in de instelli
 
 ### ART. 3.
 
-§ 1. De kamers van het college van beroep worden samengesteld uit een effectieve en twee plaatsvervangende voorzitters, en uit twaalf effectieve en twaalf plaatsvervangende leden. Een plaatsvervangend lid kan pas zetelen als het effectieve lid afwezig is of als het effectieve lid gewraakt wordt.<br /><br />§ 2. De Vlaamse Regering benoemt de effectieve en de plaatsvervangende voorzitters.<br /><br />§ 3. Het gemeenschapsonderwijs en de representatieve verenigingen van inrichtende machten enerzijds, en de representatieve vakorganisaties anderzijds, wijzen een gelijk aantal effectieve en plaatsvervangende leden van de kamers van het college van beroep aan. <br /><br />§ 4. De leden kunnen aanspraak maken op de reis- en dagvergoeding voor binnenlandse reizen overeenkomstig de geldende reglementering die van toepassing is op de personeelsleden van de Vlaamse overheid.<br /><br />§ 5. De effectieve voorzitters ontvangen een jaarlijkse forfaitaire vergoeding van 2.500 euro.<br /><br />Als de effectieve voorzitter verhinderd is en diens functie waargenomen wordt door een plaatsvervangende voorzitter, wordt aan die laatste een vergoeding van 50 euro per zitting toegekend.<br /><br />
+§ 1. De kamers van het college van beroep worden samengesteld uit een effectieve en twee plaatsvervangende voorzitters, en uit twaalf effectieve en twaalf plaatsvervangende leden. Een plaatsvervangend lid kan pas zetelen als het effectieve lid afwezig is of als het effectieve lid gewraakt wordt.<br>
+<br>
+§ 2. De Vlaamse Regering benoemt de effectieve en de plaatsvervangende voorzitters.<br>
+<br>
+§ 3. Het gemeenschapsonderwijs en de representatieve verenigingen van inrichtende machten enerzijds, en de representatieve vakorganisaties anderzijds, wijzen een gelijk aantal effectieve en plaatsvervangende leden van de kamers van het college van beroep aan.<br>
+<br>
+§ 4. De leden kunnen aanspraak maken op de reis- en dagvergoeding voor binnenlandse reizen overeenkomstig de geldende reglementering die van toepassing is op de personeelsleden van de Vlaamse overheid.<br>
+<br>
+§ 5. De effectieve voorzitters ontvangen een jaarlijkse forfaitaire vergoeding van 4.000 euro.<br>
+<br>
+Als de effectieve voorzitter verhinderd is en diens functie waargenomen wordt door een plaatsvervangende voorzitter, wordt aan die laatste een vergoeding van 150 euro per zitting toegekend.<br>
+<br>
+De vergoeding wordt jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, en dit indexcijfer wordt voor 75 % toegepast.<br>
+&nbsp;
 
 ### ART. 4.
 
