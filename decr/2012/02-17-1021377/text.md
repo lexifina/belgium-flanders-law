@@ -55,11 +55,49 @@ De werking van de Commissie Sociale Economie wordt jaarlijks geëvalueerd. De co
 
 ### ART. 9.
 
-§ 1. De Vlaamse Regering wordt gemachtigd om met een ondersteuningsorgaan convenanten te sluiten die tot doel hebben de collectieve dienstverlening te formuleren en uit te voeren.<br /><br />§ 2. Onder collectieve dienstverlening wordt verstaan het initiëren van een omvattend aanbod van globale en individuele ondersteunende diensten voor de sociale economie en haar sociale-economieondernemingen, bepaald in artikel 5, § 1 en § 2, dat beantwoordt aan hun specifieke behoeften op het vlak van bedrijfsvoering, namelijk :<br />1° het verstrekken van eerstelijnsinformatie over de sociale economie, onder meer over het beschikbare overheidsinstrumentarium;<br />2° het organiseren van opleidings- en uitwisselingstrajecten die tot doel hebben de professionalisering en de kwaliteit van de sociale-economieondernemingen te bevorderen;<br />3° het organiseren van een specifiek aanbod voor startende ondernemingen in de sociale economie;<br />4° de kennisopbouw, expertise- en instrumentontwikkeling voor de sociale economie;<br />5° de promotie van het ondernemerschap op het vlak van de sociale economie.<br /><br />De Vlaamse Regering kan die opdrachten en taken specificeren, beperken of uitbreiden na advies van de SERV.<br /><br />§ 3. Het ondersteuningsorgaan dat wordt belast met het beheer en de uitvoering van de collectieve dienstverlening, moet minimaal aan de volgende financieringsvoorwaarden voldoen :<br />1° het ondersteuningsorgaan heeft rechtspersoonlijkheid;<br />2° het ondersteuningsorgaan heeft als enige maatschappelijk doel collectieve dienstverlening voor de sociale economie en de sociale-economieondernemingen, als bepaald in dit decreet, te organiseren;<br />3° het ondersteuningsorgaan integreert de principes van de sociale economie en van het maatschappelijk verantwoord ondernemen in zijn werking;<br />4° het ondersteuningsorgaan is structureel en organisatorisch in staat om op kwalitatieve en kwantitatieve wijze ondersteuningsbehoeften adequaat te vervullen;<br />5° het ondersteuningsorgaan beschikt over aantoonbare relevante ervaring met betrekking tot de sociale economie;<br />6° het ondersteuningsorgaan garandeert de evenwichtige toegankelijkheid van zijn dienstverlening en voorziet in een gepaste regionale dekkingsgraad ervan.<br /><br />De Vlaamse Regering kan die financieringsvoorwaarden specificeren, uitbreiden of beperken na het advies van de SERV.<br /><br />§ 4. De convenanten regelen minimaal de volgende aangelegenheden :<br />1° de vermelding van de identiteit van de contracterende partijen;<br />2° de verbintenissen van de contracterende partijen, waaronder :<br />a) de omschrijving van de kwantitatieve en kwalitatieve taken op het vlak van de collectieve dienstverlening;<br />b) de toekenning van een compensatievergoeding, met opgave van de voorwaarden en de strategische en operationele doeleinden waarvoor de compensatievergoeding wordt toegekend;<br />c) de verantwoordelijkheden en de engagementen van de contracterende partijen;<br />3° het actieplan dat de verbintenissen, vermeld in 2°, concretiseert met maatregelen, methodieken en termijnen om die verbintenissen te bereiken;<br />4° de structuur van de tarieven die betrekking hebben op de collectieve dienstverlening;<br />5° de parameters voor de berekening van het compensatiebedrag en een regeling voor overcompensatie;<br />6° de jaarlijkse voortgangscontrole, begeleiding en evaluatie van het convenant;<br />7° de omstandigheden waarin en de wijze waarop het convenant kan worden verlengd, gewijzigd, geschorst en ontbonden;<br />8° de datum van de aanvang en de beëindiging van het convenant;<br />9° de toezichts- en controlemechanismen;<br />10° de wijze van implementatie van de principes op het vlak van het maatschappelijk verantwoord ondernemen en de sociale economie door het ondersteuningsorgaan;<br />11° de wijze waarop het belanghebbendenmanagement zal worden gevoerd, met inbegrip van de betrokkenheid en tevredenheid van de begunstigde sociale-economieondernemingen.<br /><br />§ 5. De Vlaamse Regering kan de inhoud, vorm, voorwaarden, opvolging en evaluatie van de convenanten nader regelen.<br /><br />§ 6. De looptijd van de convenanten bedraagt in principe vier jaar. Een afwijking daarvan moet door de Vlaamse Regering worden gemotiveerd.<br /><br />§ 7. De Vlaamse Regering wint over het ontwerp van de convenanten het advies van de SERV in.<br /><br />§ 8. De convenanten kunnen door de Vlaamse Regering worden beëindigd zonder inachtname van een opzeggingstermijn en zonder dat dat aanleiding kan geven tot de betaling van een vergoeding als het algemeen belang dat in buitengewone omstandigheden vereist.<br /><br />§ 9. De convenanten, alsook elke verlenging, wijziging, schorsing of ontbinding ervan, worden door de Vlaamse Regering binnen de zestig dagen meegedeeld aan het Vlaams Parlement.<br /><br />
+§ 1. De Vlaamse Regering wordt gemachtigd om met een ondersteuningsorgaan convenanten te sluiten die tot doel hebben de collectieve dienstverlening te formuleren en uit te voeren.<br>
+<br>
+§ 2. Onder collectieve dienstverlening wordt verstaan het initiëren van een omvattend aanbod van globale en individuele ondersteunende diensten voor de sociale economie en haar sociale-economieondernemingen, bepaald in artikel 5, § 1 en § 2, dat beantwoordt aan hun specifieke behoeften op het vlak van bedrijfsvoering, namelijk :<br>
+1° het verstrekken van eerstelijnsinformatie over de sociale economie, onder meer over het beschikbare overheidsinstrumentarium;<br>
+2° het organiseren van opleidings- en uitwisselingstrajecten die tot doel hebben de professionalisering en de kwaliteit van de sociale-economieondernemingen te bevorderen;<br>
+3° het organiseren van een specifiek aanbod voor startende ondernemingen in de sociale economie;<br>
+4° de kennisopbouw, expertise- en instrumentontwikkeling voor de sociale economie;<br>
+5° de promotie van het ondernemerschap op het vlak van de sociale economie.<br>
+<br>
+De Vlaamse Regering kan die opdrachten en taken specificeren, beperken of uitbreiden na advies van de SERV.<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. De convenanten regelen minimaal de volgende aangelegenheden :<br>
+1° de vermelding van de identiteit van de contracterende partijen;<br>
+2° de verbintenissen van de contracterende partijen, waaronder :<br>
+a) de omschrijving van de kwantitatieve en kwalitatieve taken op het vlak van de collectieve dienstverlening;<br>
+b) de toekenning van een compensatievergoeding, met opgave van de voorwaarden en de strategische en operationele doeleinden waarvoor de compensatievergoeding wordt toegekend;<br>
+c) de verantwoordelijkheden en de engagementen van de contracterende partijen;<br>
+3° het actieplan dat de verbintenissen, vermeld in 2°, concretiseert met maatregelen, methodieken en termijnen om die verbintenissen te bereiken;<br>
+4° de structuur van de tarieven die betrekking hebben op de collectieve dienstverlening;<br>
+5° de parameters voor de berekening van het compensatiebedrag en een regeling voor overcompensatie;<br>
+6° de jaarlijkse voortgangscontrole, begeleiding en evaluatie van het convenant;<br>
+7° de omstandigheden waarin en de wijze waarop het convenant kan worden verlengd, gewijzigd, geschorst en ontbonden;<br>
+8° de datum van de aanvang en de beëindiging van het convenant;<br>
+9° de toezichts- en controlemechanismen;<br>
+10° de wijze van implementatie van de principes op het vlak van het maatschappelijk verantwoord ondernemen en de sociale economie door het ondersteuningsorgaan;<br>
+11° de wijze waarop het belanghebbendenmanagement zal worden gevoerd, met inbegrip van de betrokkenheid en tevredenheid van de begunstigde sociale-economieondernemingen.<br>
+<br>
+§ 5. De Vlaamse Regering kan de inhoud, vorm, voorwaarden, opvolging en evaluatie van de convenanten nader regelen.<br>
+<br>
+§ 6. ...<br>
+<br>
+§ 7. De Vlaamse Regering wint over het ontwerp van de convenanten het advies van de SERV in.<br>
+<br>
+§ 8. De convenanten kunnen door de Vlaamse Regering worden beëindigd zonder inachtname van een opzeggingstermijn en zonder dat dat aanleiding kan geven tot de betaling van een vergoeding als het algemeen belang dat in buitengewone omstandigheden vereist.<br>
+<br>
+§ 9. De convenanten, alsook elke verlenging, wijziging, schorsing of ontbinding ervan, worden door de Vlaamse Regering binnen de zestig dagen meegedeeld aan het Vlaams Parlement.<br>
+&nbsp;
 
 ### ART. 10.
 
-Het ondersteuningsorgaan heeft recht op een compensatie voor de collectieve dienstverlening. De compensatievoorwaarden voor het ondersteuningsorgaan vallen onder de toepassing van het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, lid 2, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen.<br /><br />
+...
 
 ## HOOFDSTUK 5 Financiële ondersteuning op maat
 
