@@ -28,12 +28,12 @@ Besluit :<br>
 
 ### ART. 1.
 
-Het besluit van de Vlaamse Regering van 1 juni 1999 houdende vaststelling van de personeelsformatie van de Vlaamse Maatschappij voor Watervoorziening wordt opgeheven.<br /><br />
+...
 
 ### ART. 2.
 
-De personeelsformatie van de Vlaamse Maatschappij voor Watervoorziening omvat maximaal 1 502 voltijdse equivalenten.<br /><br />
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor waterbeheer, is belast met de uitvoering van dit besluit. <br /><br />
+...
