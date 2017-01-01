@@ -104,6 +104,10 @@ In   artikel 2 van het decreet van 8 november 2013 houdende het stimuleren, het 
 
 In   artikel 14, § 4, eerste lid, van het decreet van 20 december 2013 inzake gezond   en ethisch sporten worden de woorden "bij de door de Vlaamse Regering aangewezen   dienst" vervangen door de woorden "bij het agentschap Sport   Vlaanderen".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 22.
+
+Artikel   16 van hetzelfde decreet wordt opgeheven.
+
 ## HOOFDSTUK 11 Wijzigingen van het Antidopingdecreet van 25 mei 2012
 
 ### ART. 23.
