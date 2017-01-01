@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027637,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-02 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 28 juni 2002 tot uitvoering van het Hoofdstuk IIIbis van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging en Hoofdstuk IVbis van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027637/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "60dfe90d1ad85297d32816d1425f21dfd7b63841a658f69c8c11cc2b495fe3c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027637&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-12-02",
+  "gazette": "2016-12-15",
+  "numac": 2016036619,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
