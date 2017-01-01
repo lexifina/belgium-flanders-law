@@ -6,7 +6,7 @@
 
 ### ART. 1.
 
-Dit besluit voorziet in de omzetting van richtlijn 2011/16/EU van de Raad   van 15 februari 2011 betreffende de administratieve samenwerking op het gebied   van de belastingen en tot intrekking van Richtlijn 77/799/EEG.
+Dit besluit voorziet in de omzetting van richtlijn 2011/16/EU van de Raad van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van de belastingen en tot intrekking van Richtlijn 77/799/EEG en van richtlijn (EU) 2015/2376 van de Raad van 8 december 2015 tot wijziging van Richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied.
 
 ### ART. 2.
 
@@ -15,6 +15,14 @@ De volgende instanties worden als verbindingsdienst gemachtigd om conform   het 
 ### ART. 3.
 
 In geval van gelijktijdige controle als vermeld in artikel 16 van het   decreet van 21 juni 2013 betreffende de administratieve samenwerking op het   gebied van belastingen, worden de volgende vertegenwoordigers belast met de   leiding en de coördinatie van de controle :<BR>1° de leidend ambtenaar van het   Departement Leefmilieu, Natuur en Energie, wat betreft de belastingen die onder   het beleidsdomein Leefmilieu, Natuur en Energie ressorteren;<BR>2° de leidend   ambtenaar van de Vlaamse Belastingdienst, wat betreft de overige belastingen,   geheven door het Vlaamse Gewest, de Vlaamse Gemeenschap of de Vlaamse provincies   en gemeenten.
+
+### ART 3/1.
+
+Het verzoek om inlichtingen en in voorkomend geval, om een administratief onderzoek in te stellen met toepassing van artikel 8 van het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van belastingen, het desbetreffende antwoord, de ontvangstbevestiging, het verzoek om aanvullende achtergrondinformatie en de mededeling dat aan het verzoek niet kan of zal worden voldaan, vermeld in artikel 9 en 10 van het voormelde decreet, worden als dat mogelijk is, ingediend met het standaardformulier dat de Commissie heeft vastgesteld.
+
+### ART 3/2.
+
+§ 1. De inlichtingen die zijn verstrekt met toepassing van het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van belastingen worden, als dat mogelijk is, elektronisch via het CCN-netwerk verzonden.
 
 ### ART. 4.
 
