@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 14 februari 2003 betref
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de personeelsleden van de kinderdagverblijven van het gemeenschapsonderwijs in het tweetalige hoofdstedelijke gebied Brussel, vermeld in artikel X.22 van het decreet van 14 februari 2003 betreffende het onderwijs XIV.<br /><br />
+Dit besluit is van toepassing op de personeelsleden van de kinderdagverblijven van het gemeenschapsonderwijs in het tweetalige hoofdstedelijke gebied Brussel, artikel IV.20 van de Codificatie sommige bepalingen voor het onderwijs.
 
 ### ART. 2.
 
