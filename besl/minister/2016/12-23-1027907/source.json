@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027907,
+  "title": "Ministerieel besluit van 2016-12-23 houdende de programmatie van de centra voor algemeen welzijnswerk",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027907/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "b5ee4b75a53f0c86d906e3004f498c70dd34a56d475232b65bd84f325218bc54",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027907&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-12-23",
+  "gazette": "2017-02-20",
+  "numac": 2017020213,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
