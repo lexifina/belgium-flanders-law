@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028023,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-23 houdende de overdracht van personeelsleden binnen de diensten van de Vlaamse overheid ingevolge de overdracht van de 2elijnscontrole voor de Europese structuurfondsen van Agentschap Innoveren en Ondernemen naar Vlaamse Audit Autoriteit voor de programma's Frankrijk-Wallonië-Vlaanderen, Interreg Vlaanderen-Nederland, Noord West Europa, twee zeeën en Euregio Maas-Rijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028023/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "dc9e3e08eaa1df8e909b0cf3357cd001bf651a5779f1aa7262aa175fa88b3764",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028023&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-12-23",
+  "gazette": "2017-03-17",
+  "numac": 2017011031,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
