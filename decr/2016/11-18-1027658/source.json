@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027658,
+  "title": "Decreet van 2016-11-18 houdende instemming met het verdrag nr. 187 inzake het promotioneel kader voor de veiligheid en gezondheid op het werk, aangenomen door de Internationale Arbeidsconferentie in haar vijfennegentigste zitting in Genève op 15 juni 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027658/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "e897da11544a08a6863d28df09c2478806b8defa2671ff0bbf2470cb5dcb41ba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027658&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-11-18",
+  "gazette": "2016-12-22",
+  "numac": 2016036627,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
