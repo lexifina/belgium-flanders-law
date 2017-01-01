@@ -61,7 +61,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART. 3.
 
-<P>Bij een overdracht van een bedrijf als vermeld in artikel 30 van   het besluit van 24 oktober 2014, wordt de steun uitbetaald aan de landbouwer,   hetzij de overlatende landbouwer, hetzij de overnemende landbouwer, die   uiterlijk op de uiterste indieningsdatum van de verzamelaanvraag voor het   campagnejaar in kwestie als actieve landbouwer geïdentificeerd is in de   identificatiedatabank van het GBCS en op de percelen van het bedrijf   landbouwactiviteiten uitoefent.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   overdracht wordt gemeld conform artikel 2, § 3, van het besluit van de Vlaamse   Regering van 9 februari 2007 houdende bepalingen tot inrichting van een   gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond   in het kader van het meststoffenbeleid en van het   landbouwbeleid.</P>
+<p>Bij een overdracht van een bedrijf als vermeld in artikel 30 van het besluit van 24 oktober 2014, wordt de steun uitbetaald aan de landbouwer, hetzij de overlatende landbouwer, hetzij de overnemende landbouwer, die uiterlijk op de uiterste indieningsdatum van de verzamelaanvraag voor het campagnejaar in kwestie als actieve landbouwer geïdentificeerd is in de identificatiedatabank van het GBCS en op de percelen van het bedrijf landbouwactiviteiten uitoefent.</p>
 
 ## HOOFDSTUK 2. Rechtstreekse betalingen en betalingsrechtensysteem
 
@@ -135,7 +135,7 @@ Ter uitvoering van artikel 26, 3°, van het besluit van 24   oktober 2014, maken
 1° landbouwernummer, voor- en achternaam, adres, telefoonnummer en e-mailadres van de aanvrager;<br>
 2° het teeltjaar waarvoor de teelttoestemming wordt gevraagd;<br>
 3° de henneprassen die ingezaaid worden;<br>
-4° de oppervlakte die ingezaaid wordt en voor ieder gebruikt ras de hoeveelheid hennepzaaizaad, uitgedrukt in kg per hectare. De minimale dosis zaaizaad bedraagt 30 kg/ha;<br>
+4° de oppervlakte die ingezaaid wordt en voor ieder gebruikt ras de hoeveelheid hennepzaaizaad, uitgedrukt in kg per hectare;<br>
 5° de naam van de gemeente waar het perceel ligt en een perceelsidentificatie die bestaat uit het identificatienummer. Als verschillende rassen per perceel worden ingezaaid, voegt de landbouwer een schets met de ligging van iedere ras bij de aanvraag;<br>
 6° een verklaring waarin de aanvrager toestemming geeft aan de bevoegde entiteit om de gegevens van de aanvraag door te geven aan de bevoegde politiediensten.</p>
 
@@ -155,11 +155,13 @@ Ter uitvoering van artikel 45, lid 4, van   uitvoeringsverordening (EG) nr. 809/
 
 ### ART. 14.
 
-<P>De   overdracht van betalingsrechten heeft uitwerking vanaf de melding van de   overdracht aan de bevoegde entiteit. De overdrager doet dat conform artikel 8,   lid 1, van uitvoeringsverordening (EU) nr. 641/2014, met een digitaal formulier   dat de bevoegde entiteit ter beschikking stelt op het e-loket. Als de overdracht   gemeld wordt uiterlijk op de uiterste indieningsdatum van de verzamelaanvraag,   dan kan de overnemer de betalingsrechten activeren in het campagnejaar in   kwestie. Overdrachten van betalingsrechten die gemeld worden na de uiterste   indieningsdatum van de verzamelaanvraag, hebben pas uitwerking in het   campagnejaar dat volgt op het campagnejaar in kwestie.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Personen   die niet beschikken over een e-ID of die niet de mogelijkheid hebben om te   beschikken over een andere aanmeldings- en authenticatiemogelijkheid die   ondersteund wordt door FedICT, mogen in afwijking van het eerste lid de aanvraag   indienen door middel van het papieren formulier dat de bevoegde entiteit ter   beschikking stelt. Dat formulier wordt volledig ingevuld en ondertekend   ingediend bij de bevoegde entiteit, uiterlijk op de uiterste indieningsdatum,   vermeld in het eerste lid.</P>
+<p>De overdracht van betalingsrechten heeft uitwerking vanaf de melding van de overdracht aan de bevoegde entiteit en mits goedkeuring van de bevoegde entiteit. De overdrager doet dat conform artikel 8, lid 1, van uitvoeringsverordening (EU) nr. 641/2014, met een digitaal formulier dat de bevoegde entiteit ter beschikking stelt op het e-loket. Als de overdracht gemeld wordt uiterlijk op de uiterste indieningsdatum van de verzamelaanvraag, dan kan de overnemer de betalingsrechten activeren in het campagnejaar in kwestie. Overdrachten van betalingsrechten die gemeld worden na de uiterste indieningsdatum van de verzamelaanvraag, hebben pas uitwerking in het campagnejaar dat volgt op het campagnejaar in kwestie.</p>
+
+<p>Personen die niet beschikken over een e-ID of die niet de mogelijkheid hebben om te beschikken over een andere aanmeldings- en authenticatiemogelijkheid die ondersteund wordt door FedICT, mogen in afwijking van het eerste lid de aanvraag indienen door middel van het papieren formulier dat de bevoegde entiteit ter beschikking stelt. Dat formulier wordt volledig ingevuld en ondertekend ingediend bij de bevoegde entiteit, uiterlijk op de uiterste indieningsdatum, vermeld in het eerste lid.</p>
 
 ### ART. 15.
 
-Onterecht toegekende betalingsrechten worden niet   teruggevorderd als de totale waarde ervan lager of gelijk is aan 50   euro.
+Onterecht toegekende betalingsrechten worden niet teruggevorderd als de totale onterecht toegekende waarde ervan niet meer bedraagt dan 50 euro in alle betrokken campagnejaren.
 
 ## Afdeling 2. Reserve
 
@@ -195,7 +197,7 @@ Een startende landbouwer als vermeld in artikel 17, 2°, die een aanvraag indien
 1° voor een natuurlijk persoon: een van de bewijsstukken van vakbekwaamheid, vermeld in artikel 22/1;<br>
 2° voor een rechtspersoon of groepering: voor elk natuurlijk persoon die zaakvoerder is van de rechtspersoon of groepering: een van de bewijsstukken van vakbekwaamheid, vermeld in artikel 22/1.<br>
 <br>
-Een rechtspersoon of een groepering kan met toepassing van artikel 17, 2°, van dit besluit alleen betalingsrechten uit de reserve ontvangen of een ophoging krijgen van zijn bestaande betalingsrechten uit de reserve als alle zaakvoerders landbouwers zijn die met hun landbouwactiviteit, conform artikel 30, lid 11, b), van verordening (EU) nr. 1307/2013.
+Een rechtspersoon of een groepering kan met toepassing van artikel 17, 2° van dit besluit alleen betalingsrechten uit de reserve ontvangen of een ophoging krijgen van zijn bestaande betalingsrechten uit de reserve als alle zaakvoerders landbouwers zijn die voldoen aan de voorwaarden vermeld in artikel 30, lid 11, b) van verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de Raad.
 
 ### ART. 19.
 
