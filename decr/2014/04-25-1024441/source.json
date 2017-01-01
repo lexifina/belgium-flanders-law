@@ -2,16 +2,16 @@
   "codex_id": 1024441,
   "title": "Decreet van 2014-04-25 betreffende de organisatie van het netwerk voor de gegevensdeling tussen de actoren in de zorg",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024441/VolledigDocument?datum=2016-12-01",
-  "source_sha256": "d56be465d55bf75bb111abf0430147457d3345c1394790bf3ce6a3c9620f5441",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024441/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "16ba7f7219583fd0d3eda983a1cc1d465d2a49666d6dc013224dfd1cad175767",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024441&param=informatie",
-  "as_of": "2016-12-01",
+  "as_of": "2017-01-01",
   "made": "2014-04-25",
   "gazette": "2014-08-20",
   "numac": 2014035671,
   "document_start": "2016-12-01",
   "document_end": null,
-  "in_force": "2016-12-01",
+  "in_force": "2017-01-01",
   "article_versions": 47,
-  "record_form": "consolidated version as in force on 2016-12-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }

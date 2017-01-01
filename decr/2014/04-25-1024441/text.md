@@ -26,16 +26,16 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br>
 15° Sectoraal Comité van de Sociale zekerheid en van de Gezondheid: het sectoraal comité, opgericht binnen de Commissie voor de bescherming van de persoonlijke levenssfeer overeenkomstig artikel 37, § 1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
 16° toezichtcommissie: de Vlaamse Toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer, opgericht bij artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
 17° verzorgingsinstellingen: de instellingen, vermeld in respectievelijk de wet op de ziekenhuizen, gecoördineerd op 10 juli 2008, en in artikel 22, 6°, 34, 12° en 21°, 63 en 65 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
-18° Vlaamse sociale bescherming: de rechten, vermeld in artikel 3 van het decreet van 13 juli 2012 houdende de Vlaamse sociale bescherming;<br>
+18° Vlaamse sociale bescherming: de rechten, vermeld in artikel 4 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
 19° voorziening: een verzorgingsinstelling of elke andere organisatie die in het kader van het gezondheids- of welzijnsbeleid instaat voor de organisatie of uitvoering van zorg of die instaat voor de toekenning van rechten, met inbegrip van de ziekenfondsen en de zorgkassen;<br>
 20° welzijnsbeleid: het beleid inzake de bijstand aan personen met betrekking tot het geheel van aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van het beleid inzake onthaal en integratie van inwijkelingen;<br>
 21° wet Verwerking Persoonsgegevens: de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens;<br>
 22° ziekenfonds: de rechtspersoon, vermeld in de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen, erkend volgens artikel 26 van dezelfde wet, voor zover ze een activiteit verrichten in het kader van het gezondheids- of welzijnsbeleid;<br>
-23° zorg: één activiteit of het geheel van activiteiten in het kader van het gezondheids- of welzijnsbeleid, waaronder hulp, dienstverlening, ondersteuning, Vlaamse sociale bescherming en zorgverzekering;<br>
+23° zorg: één activiteit of het geheel van activiteiten in het kader van het gezondheids- of welzijnsbeleid, waaronder hulp, dienstverlening, ondersteuning en Vlaamse sociale bescherming;<br>
 24° zorggebruiker: de patiënt, met name de natuurlijke persoon aan wie gezondheidszorg wordt verstrekt, al dan niet op eigen verzoek, of elke andere natuurlijke persoon aan wie zorg wordt verleend, al dan niet op eigen verzoek;<br>
-25° zorgkas: een zorgkas die erkend is krachtens artikel 15 van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering of de Vlaamse Zorgkas die door het Vlaams Zorgfonds krachtens artikel 14, derde lid, van hetzelfde decreet is opgericht;<br>
+25° zorgkas: een zorgkas die erkend is krachtens artikel 17 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming of de Vlaamse Zorgkas, vermeld in artikel 18 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
 26° zorgverlener: de beoefenaar, vermeld in het koninklijk besluit nr. 78 van 10 november 1967 betreffende de uitoefening van de gezondheidszorgberoepen;<br>
-27° zorgverzekering: de zorgverzekering, vermeld in het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering.
+27° ....
 
 ### ART. 3.
 
@@ -73,7 +73,7 @@ Het Agentschap organiseert een netwerk voor veilige gegevensdeling onder de bena
 
 <p>Het netwerk heeft tot doel om de samenwerking rond efficiënte en veilige gegevensdeling, en in het bijzonder het delen van persoonsgegevens, tussen alle actoren in de zorg onderling te faciliteren met het oog op een continue en kwaliteitsvolle zorgverstrekking aan zorggebruikers.</p>
 
-<p>Het netwerk heeft ook tot doel de samenwerking rond efficiënte en veilige gegevensdeling te faciliteren om op die manier zorggebruikers rechten te laten genieten die voortvloeien uit de regelgeving over de Vlaamse sociale bescherming en de zorgverzekering. Dat gebeurt op een zodanige wijze dat zo weinig mogelijk administratieve lasten worden veroorzaakt voor de zorggebruiker en voor de actoren in de zorg.</p>
+<p>Het netwerk heeft ook tot doel de samenwerking rond efficiënte en veilige gegevensdeling te faciliteren om op die manier zorggebruikers rechten te laten genieten die voortvloeien uit de regelgeving over de Vlaamse sociale bescherming. Dat gebeurt op een zodanige wijze dat zo weinig mogelijk administratieve lasten worden veroorzaakt voor de zorggebruiker en voor de actoren in de zorg.</p>
 
 ## Onderafdeling 2 Deelname aan het netwerk voor gegevensdeling tussen de actoren in de zorg via een dienstenintegrator
 
@@ -166,7 +166,7 @@ Met behoud van de toepassing van andersluidende regelgeving, hebben de gegevens 
 
 <p>De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de Commissie voor de bescherming van de persoonlijke levenssfeer, nadere regels uitvaardigen over de inhoud en de vorm van de gegevens die in het individuele dossier, vermeld in artikel 4 worden opgenomen, met het oog op de invoer en het gebruik van eenduidige gegevens in het netwerk om een continue en kwaliteitsvolle uitvoering van de zorg te bewerkstelligen.</p>
 
-<p>De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de Commissie voor de bescherming van de persoonlijke levenssfeer, ook regels uitvaardigen over de inhoud en de vorm van de gegevens die in het individuele dossier worden opgenomen, om zorggebruikers rechten te laten genieten die voortvloeien uit de regelgeving over de Vlaamse sociale bescherming en de zorgverzekering, op een zodanige wijze dat ze zo weinig mogelijk administratieve lasten veroorzaken voor de rechthebbende zorggebruiker en voor de actoren in de zorg.</p>
+<p>De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de Commissie voor de bescherming van de persoonlijke levenssfeer, ook regels uitvaardigen over de inhoud en de vorm van de gegevens die in het individuele dossier worden opgenomen, om zorggebruikers rechten te laten genieten die voortvloeien uit de regelgeving over de Vlaamse sociale bescherming op een zodanige wijze dat ze zo weinig mogelijk administratieve lasten veroorzaken voor de rechthebbende zorggebruiker en voor de actoren in de zorg.</p>
 
 <p>Het Agentschap kan aanpassingen aan de procedures voor het gegevensbeheer door de administratie voorstellen aan de Vlaamse Regering om het individuele dossier te verrijken met aanvullende gegevens van administratieve aard.</p>
 
@@ -188,7 +188,7 @@ Met behoud van de toepassing van andersluidende regelgeving, hebben de gegevens 
 
 <p>De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de Commissie voor de bescherming van de persoonlijke levenssfeer, nadere regels uitvaardigen over de inhoud en de vorm van de gegevens die in het elektronisch deelbaar dossier worden opgenomen, met het oog op de invoer en het gebruik van eenduidige gegevens in het netwerk om een continue en kwaliteitsvolle uitvoering van de zorg te bewerkstelligen.</p>
 
-<p>De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de Commissie voor de bescherming van de persoonlijke levenssfeer, ook regels uitvaardigen over de inhoud en de vorm van de gegevens die in het elektronisch deelbaar dossier worden opgenomen, om zorggebruikers rechten te laten genieten die voortvloeien uit de regelgeving over de Vlaamse sociale bescherming en de zorgverzekering op een zodanige wijze dat ze zo weinig mogelijk administratieve lasten veroorzaken voor de rechthebbende zorggebruiker en voor de actoren in de zorg.</p>
+<p>De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de Commissie voor de bescherming van de persoonlijke levenssfeer, ook regels uitvaardigen over de inhoud en de vorm van de gegevens die in het elektronisch deelbaar dossier worden opgenomen, om zorggebruikers rechten te laten genieten die voortvloeien uit de regelgeving over de Vlaamse sociale bescherming&nbsp;op een zodanige wijze dat ze zo weinig mogelijk administratieve lasten veroorzaken voor de rechthebbende zorggebruiker en voor de actoren in de zorg.</p>
 
 <p>Het Agentschap kan aanpassingen aan de procedures voor het gegevensbeheer door de administratie voorstellen aan de Vlaamse Regering om het elektronisch deelbaar dossier te verrijken met aanvullende gegevens van administratieve aard.</p>
 
@@ -286,7 +286,7 @@ De Vlaamse Regering kan de controle regelen op de verplichtingen die in dit hoof
 
 ### ART. 28.
 
-<p>Het Agentschap heeft als missie het bevorderen en regelen van de samenwerking op het vlak van gegevensdeling, zowel tussen de actoren in de zorg met het oog op de verbetering van de kwaliteit van zorg, als tussen actoren in de zorg en de administratie om zorggebruikers op een administratief vereenvoudigde wijze rechten te laten genieten die voortvloeien uit de regelgeving inzake de Vlaamse sociale bescherming en de zorgverzekering.</p>
+<p>Het Agentschap heeft als missie het bevorderen en regelen van de samenwerking op het vlak van gegevensdeling, zowel tussen de actoren in de zorg met het oog op de verbetering van de kwaliteit van zorg, als tussen actoren in de zorg en de administratie om zorggebruikers op een administratief vereenvoudigde wijze rechten te laten genieten die voortvloeien uit de regelgeving inzake de Vlaamse sociale bescherming.</p>
 
 <p>De missie wordt volbracht met de nodige waarborgen op het vlak van informatieveiligheid, de bescherming van de persoonlijke levenssfeer van de zorggebruikers, de zorgverleners en de hulpverleners en met respect voor het beroepsgeheim.</p>
 
