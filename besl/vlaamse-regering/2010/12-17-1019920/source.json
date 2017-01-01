@@ -2,16 +2,16 @@
   "codex_id": 1019920,
   "title": "Besluit van de Vlaamse Regering van 2010-12-17 betreffende de toekenning van subsidies aan de expertisenetwerken en het regionaal platform in het kader van de lerarenopleidingen in Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019920/VolledigDocument?datum=2011-01-28",
-  "source_sha256": "d8dc451e059c451e1d34799d2344f2787b5b5469418f534e9a7e8121feae06dc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019920/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "2e9d2fdc38b50a5f47a5c780e42949841ba3db07470fbdee639324e2d9c8cf11",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019920&param=informatie",
-  "as_of": "2011-01-28",
+  "as_of": "2017-01-01",
   "made": "2010-12-17",
   "gazette": "2011-01-18",
   "numac": 2011200101,
   "document_start": "2011-01-28",
   "document_end": "2016-12-31",
-  "in_force": "2011-01-28",
+  "in_force": "2017-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2011-01-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
