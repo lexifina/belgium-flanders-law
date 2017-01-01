@@ -56,7 +56,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 12.
 
-Artikel 2, 2°, eerste lid, van het besluit van de Vlaamse regering van 8 juni 1994 tot wijziging van het koninklijk besluit van 27 juni 1974 waarbij op 1 april 1972 worden vastgesteld de schalen verbonden aan de ambten van de leden van het bestuurs- en onderwijzend personeel, van het opvoedend hulppersoneel en van het paramedisch personeel bij de rijksonderwijsinrichtingen, aan de ambten van de leden van de inspectiedienst belast met het toezicht op deze inrichtingen en aan de ambten van de leden van de inspectiedienst van het schriftelijk onderwijs en van het gesubsidieerd lager onderwijs en de schalen verbonden aan de graden van het personeel van de psycho-medisch-sociale centra van de Staat heeft uitwerking met ingang van 1 september 1976.
+...
 
 ### ART. 13.
 
@@ -64,35 +64,19 @@ Artikel 2, 2°, eerste lid, van het besluit van de Vlaamse regering van 8 juni 1
 
 ### ART. 14.
 
-Onverminderd de krachtens artikel 146 van de Grondwet door de wet georganiseerde rechtsbe-scherming worden de verzoeken die, in de periode van 19 november 1976 tot 31 maart 1995 werden ingediend bij de commissie opgericht bij artikel 2 van de wet van 8 februari 1974 tot wijziging van het koninklijk besluit van 15 april 1958, gewijzigd door het koninklijk besluit van 10 maart 1965, houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs, beschouwd als zijnde ingediend overeenkomstig de bepalingen van het koninklijk besluit van 12 oktober 1976 houdende samenstelling en de werking van de commissie opgericht bij artikel 2 van de wet van 8 februari 1974. De adviezen die in dezelfde periode door deze commissie over de bedoelde aanvragen werden uitgebracht, worden eveneens beschouwd als zijnde uitgebracht overeenkomstig de bepalingen van dit besluit.
+...
 
 ### ART. 15.
 
-De diensten gepresteerd als gesubsidieerd contractueel personeelslid in de hiernavolgende projecten komen in aanmerking voor de toepassing van artikel 4 van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs en van artikel 6 van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en van de gesubsidieerde psycho-medisch-sociale centra.<br>
-<br>
-Het betreft de projecten:<br>
-<br>
-- ondersteuning van kleuterscholen met migranten binnen onderwijsvoorranggebieden opgenomen in de geco-conventie 8285 onder projectnummers I.24, II.10, III.12;<br>
-<br>
-- ontwikkelen van werkmethodes en werkmiddelen die tegemoet komen aan gedifferentieerde noden in functie van PMS-begeleiding voor migranten opgenomen in de geco-conventie 7636 en 8285 onder de projectnummers I.9, III.3.<br>
-<br>
-De hier vermelde diensten worden beschouwd als zijnde gepresteerd in "een ambt" zoals bedoeld in de twee voormelde decreten rechtspositie.<br>
-<br>
-Deze anciënniteit kan enkel ingeroepen worden voor werving voor de ambten van kleuteronderwijzer, maatschappelijk werker en van studiemeester-opvoeder, zowel in internaten als externaten.<br>
-<br>
-Deze anciënniteit kan voor het schooljaar 1996-1997 niet worden aangewend om prioriteit te verwerven zoals de kandidaten die tijdens het schooljaar 1995-1996 bij de betrokken inrichtende macht, respectievelijk het lokaal bestuursorgaan in dienst waren en die zich voor het schooljaar 1996-1997 kunnen beroepen op de voorrang bedoeld in artikel 23, § 1, 1° van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde PMS-centra of op de voorrang bedoeld in artikel 21 van het decreet van 27 maart 1991 betreffende de rechtspositie van de bedoelde personeelsleden van het gemeenschapsonderwijs.<br>
-<br>
-De anciënniteit geldt ook voor de toepassing van de reglementering betreffende terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling.<br>
-<br>
-Door de toepassing van dit artikel kunnen de personeelsleden een anciënniteit van maximaal twee jaar verwerven.
+...
 
 ### ART. 16.
 
-De diensten gepresteerd als tijdelijk personeelslid in het ambt van studiemeester-opvoeder in een internaat verbonden aan een instelling voor hoger onderwijs worden geacht gepresteerd te zijn in het ambt van studiemeester-opvoeder in een internaat verbonden aan een instelling voor voltijds secundair onderwijs met volledig leerplan.
+...
 
 ### ART. 17.
 
-Het ministerieel besluit van 23 september 1994 betreffende de terbeschikkingstelling wegens bijzondere opdracht bij een Europese school wordt bekrachtigd.
+...
 
 ## HOOFDSTUK IV INWERKINGTREDING
 
@@ -292,23 +276,15 @@ De bepalingen van titel III hebben uitwerking met ingang van 1 september 1995, m
 
 ### ART. 62.
 
-De Vlaamse regering wordt gemachtigd om over te gaan tot oprichting van de v.z.w. Epon en bij te dragen tot de werking van deze v.z.w.
+...
 
 ### ART. 63.
 
-De v.z.w. Epon zal namens de Vlaamse regering instaan voor het beheer van projecten die in het kader van Europese programma's worden opgestart. Dit betreft programma's onder meer in het kader van het Europees Sociaal Fonds, de Communautaire Initiatieven, projecten in het kader van het Europees Jaar voor opleiding en onderwijs gedurende de gehele loop van het leven, CEDEFOP e.a.
+...
 
 ### ART. 64.
 
-§ 1. Binnen de perken van de begroting van de Vlaamse Gemeenschap draagt de Vlaamse regering jaarlijks bij in de financiële middelen van de v.z.w.. De toelage dient zoals in het verleden aangewend te worden ter pre- en/of co-financiering van de projecten.<br>
-<br>
-§ 2. [De v.z.w. is ertoe gehouden voor 1 april door haar bedrijfsrevisor gecertificeerde rekeningen voor te leggen waarbij expliciet een document is gevoegd betreffende de toestand van de financiële middelen die de v.z.w. op 31 december ter beschikking heeft en de totale uitgaven in kasstromen die gerealiseerd werden gedurende het vorige boekjaar.<br>
-<br>
-De subsidie wordt in twee schijven uitbetaald:<br>
-<br>
-1° een eerste schijf van 80 percent na het voorleggen van de voornoemde documenten;<br>
-<br>
-2° het saldo na advies van de inspectie van financiën waarbij rekening wordt gehouden met de reservevorming en de noodzaak tot prefinanciering van Europese projecten het daaropvolgende jaar. (verv. decr. 8 juli 1996, art. 3, I: 1 januari 2001) ]
+...
 
 ### ART. 65.
 
@@ -322,19 +298,7 @@ De v.z.w. Epon neemt de netto-activa over van de v.z.w. Vlaams Petra-comité.
 
 ### ART. 67.
 
-<p>§ 1. Aan cursisten en leerlingen met specifieke onderwijsbehoeften die een opleiding in het gefinancierd of gesubsidieerd volwassenenonderwijs volgen en daar aan de toelatingsvoorwaarden voldoen, en aan studenten met een functiebeperking die in het gefinancierd of gesubsidieerd hoger onderwijs ingeschreven zijn in een bachelor-, een master-, een bachelor-na-bachelor - of een master-na-masteropleiding, of in een schakel- of voorbereidingsprogramma of in een specifieke lerarenopleiding, kunnen speciale onderwijsleermiddelen ter beschikking worden gesteld.<br>
-<br>
-§ 2. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolken Vlaamse Gebarentaal of schrijftolken, dan bepaalt de Vlaamse Regering :<br>
-1° de procedure voor de aanvraag en toekenning van de schrijftolken en tolken Vlaamse Gebarentaal bij het Agodi; het Agodi zal hiertoe eveneens een intern beroep voorzien;<br>
-2° de diplomavoorwaarden voor de tolken Vlaamse Gebarentaal en schrijftolken;<br>
-3° de te indexeren loonkost voor de tolken Vlaamse Gebarentaal en de loonkost voor de schrijftolken;<br>
-4° de definitie van de doelgroep.<br>
-<br>
-§ 3. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolken Vlaamse gebarentaal of schrijftolken, dan verleent de Vlaamse Regering voor de realisatie van deze tolkuren een subsidie aan een centraal tolkenbureau, die bestaat uit enerzijds werkingsmiddelen voor dit tolkenbureau en anderzijds lonen en verplaatsingskosten voor de tolken. De Vlaamse Regering bepaalt de verdere voorwaarden voor de werking van dit tolkenbureau.<br>
-<br>
-§ 4. De procedure voor de aanvraag en toekenning en het intern beroep en de werking van het door de Vlaamse Regering te bepalen centraal tolkenbureau, worden om de drie jaar geëvalueerd. De eerste evaluatie vindt plaats gedurende het schooljaar 2015-2016. Tijdens deze evaluatie wordt de betrokkenheid van de doelgroep verzekerd.<br>
-<br>
-§ 5. Indien deze speciale onderwijsleermiddelen een andere vorm aannemen dan hetgeen vermeld is onder paragraaf 2 tot en met 4, bepaalt de Vlaamse Regering de procedure voor de aanvraag en de criteria voor toekenning van deze middelen.</p>
+...
 
 ### ART. 68.
 
@@ -352,7 +316,7 @@ De v.z.w. Epon neemt de netto-activa over van de v.z.w. Vlaams Petra-comité.
 
 ### ART. 71.
 
-§ 1. De Vlaamse regering regelt de controle op de inschrijving van de niet-leerplichtige regelmatige leerlingen en/of studenten.<br /><br />§ 2. De directies van scholen of instellingen met niet-leerplichtige regelmatige leerlingen en/of studenten zijn verplicht hun medewerking te verlenen aan die controle.<br /><br />Het niet naleven van deze verplichting kan, voor elementen waar de directie niet afhankelijk is van derden, aanleiding geven tot sancties.<br /><br />De bedoelde sanctie kan een gedeeltelijke terugvordering van werkingstoelagen of werkingsmiddelen zijn. Bij een eerste overtreding kan die terugvordering maximum 5 % bedragen van de werkingsmiddelen of werkingstoelagen van het voorgaand schooljaar. Bij een tweede of volgende overtreding kan de terugvordering maximum 10 % bedragen van de werkingsmiddelen of werkingstoelagen van het voorgaand schooljaar.<br /><br />De Vlaamse regering bepaalt de regels voor de vaststelling van de overtredingen en voor de toepassing van de sancties. Het bedoelde besluit waarborgt het recht op verdediging.
+...
 
 ### ART. 72.
 
@@ -456,11 +420,11 @@ De v.z.w. Epon neemt de netto-activa over van de v.z.w. Vlaams Petra-comité.
 
 ### ART. 92.
 
-De salarisschalen die werden toegekend aan de personeelsleden van de Hogere Zeevaartschool Antwerpen die fungeren in het ambt van bootsman of bootsman-onderrichter, worden bekrachtigd.
+...
 
 ### ART. 93.
 
-De salarisschalen die werden toegekend aan de op 1 april 1991 vastbenoemde leden van het ad-ministratief en meesters-, vak- en dienstpersoneel van de Hogere Zeevaartschool te Antwerpen, worden bekrachtigd.
+...
 
 ### ART. 94.
 
