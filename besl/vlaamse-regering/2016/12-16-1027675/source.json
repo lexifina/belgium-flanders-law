@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027675,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-16 houdende wijziging van het Onroerenderfgoedbesluit van 16 mei 2014 en van diverse besluiten van de Vlaamse Regering met het oog op het uitvoeren van het kerntakenplan van het agentschap Onroerend Erfgoed en andere financiële en technische aanpassingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027675/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "c87687d0f08de57398f02d119aa6097933af3e31ebc0335c041ea2559fb91e44",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027675&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-12-16",
+  "gazette": "2016-12-23",
+  "numac": 2016036669,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
