@@ -40,7 +40,11 @@ Bij   het Agentschap voor Onderwijsdiensten wordt een Vlaamse Bemiddelingscommis
 
 ### ART. 7.
 
-<P>De   leden van de Commissie ontvangen een terugbetaling van de reis- en   verblijfskosten overeenkomstig het Vlaams personeelsstatuut van 13 januari   2006.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 2500 euro. Indien   van toepassing, ontvangt de plaatsvervangende voorzitter pro rata van het aantal   voorgezeten vergaderingen, een deel van deze vergoeding.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De leden van de Commissie ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig het Vlaams personeelsstatuut van 13 januari 2006.</p>
+
+<p>De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 4000 euro. Indien van toepassing, ontvangt de plaatsvervangende voorzitter pro rata van het aantal voorgezeten vergaderingen, een deel van deze vergoeding.<br>
+<br>
+De vergoeding wordt jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, en dit indexcijfer wordt voor 75 % toegepast.</p>
 
 ## Onderafdeling 2 Bevoegdheden
 
