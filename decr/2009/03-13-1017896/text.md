@@ -258,6 +258,28 @@ In afwijking van artikel 48, tweede lid, kan de Vlaamse Regering dagverzorgingsc
 
 § 1. Een woonzorgcentrum, een dagverzorgingscentrum en een centrum voor kortverblijf mogen pas worden uitgebaat nadat de Vlaamse Regering ze heeft erkend.<br /><br />Het eerste lid geldt niet voor een woonzorgcentrum dat wordt uitgebaat door een natuurlijke persoon en dat bestemd is om maximaal drie gebruikers van 65 jaar of ouder te huisvesten.<br /><br />§ 2. De erkenning moet worden vermeld op alle officiële stukken die uitgaan van een voorziening waarvoor erkenning verplicht is met toepassing van § 1.
 
+### ART 53/1.
+
+§ 1. Een woonzorgcentrum kan buiten zijn erkende capaciteit als vermeld in artikel 36, eerste lid, 1°, de volgende personen van wie het zelfzorgvermogen niet is aangetast opnemen:<br>
+1° een persoon die bij opname van de gebruiker in het woonzorgcentrum gehuwd of wettelijk samenwonend is met deze gebruiker;<br>
+2° een persoon die gedurende zes maanden onmiddellijk voorafgaand aan de opname van de gebruiker in het woonzorgcentrum feitelijk samenwonend was met deze gebruiker.<br>
+<br>
+Een persoon van wie het zelfzorgvermogen niet is aangetast als vermeld in het eerste lid:<br>
+1° kan uitzonderlijk gebruikmaken van de ouderenzorg, vermeld in artikel 38, 2°, 3° en 4° ;<br>
+2° kan kosteloos gebruik maken van de ouderenzorg, vermeld in artikel 38, 5° ;<br>
+3° wordt bij voorrang opgenomen binnen de erkende capaciteit van het woonzorgcentrum wanneer zijn zelfzorgvermogen tijdens de opname is aangetast;<br>
+4° kan, op zijn verzoek, gedurende minstens zes maanden na het overlijden van de gebruiker, vermeld in het eerste lid, buiten de erkende capaciteit opgenomen blijven in het woonzorgcentrum.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de volgende normen die gelden met betrekking tot het verblijf van een persoon van wie het zelfzorgvermogen niet is aangetast als vermeld in § 1, eerste lid:<br>
+1° de infrastructuurnormen;<br>
+2° de normen met betrekking tot artikel 48, tweede lid, 8°.<br>
+<br>
+In het attest, vermeld in artikel 48, derde lid, worden de volgende elementen vastgelegd:<br>
+1° de woongelegenheden die door het woonzorgcentrum ingezet kunnen worden om personen buiten zijn erkende capaciteit op te nemen;<br>
+2° de inachtneming van de normen, vermeld in het eerste lid, 2°.<br>
+<br>
+§ 3. De Vlaamse Regering kan de categorieën van personen, vermeld in § 1, eerste lid, uitbreiden.
+
 ### ART. 54.
 
 Verschillende vestigingen van eenzelfde soort ouderenvoorziening, die door eenzelfde initiatiefnemer worden uitgebaat en binnen een redelijke afstand van elkaar liggen, kunnen als één ouderenvoorziening erkend worden onder de voorwaarden die de Vlaamse Regering bepaalt.
@@ -282,7 +304,15 @@ De ouderenvoorzieningen waarvoor voor de eerste maal een aanvraag tot erkenning 
 
 ### ART. 59.
 
-Het bouwen of verbouwen van een ouderenvoorziening die aan erkenning   onderworpen is of die de initiatiefnemer wil laten erkennen, het als dusdanig   inrichten of in gebruik nemen van een bestaand gebouw, het verplaatsen van de   activiteiten en het verhogen van de capaciteit van zulke voorziening zijn   onderworpen aan de voorafgaande vergunning van de Vlaamse Regering. De Vlaamse   Regering legt de procedure daarvoor vast, die de mogelijkheid bevat om een   bezwaar in te dienen. De Vlaamse Regering kan bepalen dat voor de types van   ouderenvoorzieningen die ze aanwijst, de voorafgaande vergunning wordt verleend   op basis van een oproep met het oog op de realisatie van die voorzieningen in   het geografische gebied dat in de oproep wordt aangewezen.<BR><BR>De   voorafgaande vergunning kan alleen worden verleend als het initiatief past in de   programmatie, vermeld in artikel 58, en past in het kader van de globale   zorgstrategische visie, waarvan de elementen door de Vlaamse Regering worden   bepaald. Die elementen hebben onder meer betrekking op de woonzorgbehoeften, de   wijze waarop woonzorg zal worden aangeboden, de plaats van het initiatief binnen   het geheel van bestaande woonzorgvoorzieningen en andere welzijnsvoorzieningen   en zorgverleners en de samenwerking met die voorzieningen en zorgverleners. De   Vlaamse Regering kan aanvullende voorwaarden bepalen voor het verlenen van de   voorafgaande vergunning.<BR><BR>Het eerste en tweede lid zijn niet van   toepassing op de groepen van assistentiewoningen zolang de Vlaamse Regering voor   die voorzieningen geen programmatie heeft bepaald ter uitvoering van artikel 58,   § 1, derde lid.<BR><BR>Het eerste en tweede lid zijn van overeenkomstige   toepassing voor een dienst maatschappelijk werk van het ziekenfonds, een lokaal   dienstencentrum, een regionaal dienstencentrum en een centrum voor   herstelverblijf, dat de initiatiefnemer wil laten erkennen.
+Het bouwen of verbouwen van een ouderenvoorziening die aan erkenning onderworpen is of die de initiatiefnemer wil laten erkennen, het als dusdanig inrichten of in gebruik nemen van een bestaand gebouw, het verplaatsen van de activiteiten en het verhogen van de capaciteit van zulke voorziening zijn onderworpen aan de voorafgaande vergunning van de Vlaamse Regering. De Vlaamse Regering legt de procedure daarvoor vast, die de mogelijkheid bevat om een bezwaar in te dienen. De Vlaamse Regering kan bepalen dat voor de types van ouderenvoorzieningen die ze aanwijst, de voorafgaande vergunning wordt verleend op basis van een oproep met het oog op de realisatie van die voorzieningen in het geografische gebied dat in de oproep wordt aangewezen.<br>
+<br>
+De verplichting, vermeld in het eerste lid, geldt niet wanneer de capaciteit wordt verhoogd in de zin van artikel 53/1.<br>
+<br>
+De voorafgaande vergunning kan alleen worden verleend als het initiatief past in de programmatie, vermeld in artikel 58, en past in het kader van de globale zorgstrategische visie, waarvan de elementen door de Vlaamse Regering worden bepaald. Die elementen hebben onder meer betrekking op de woonzorgbehoeften, de wijze waarop woonzorg zal worden aangeboden, de plaats van het initiatief binnen het geheel van bestaande woonzorgvoorzieningen en andere welzijnsvoorzieningen en zorgverleners en de samenwerking met die voorzieningen en zorgverleners. De Vlaamse Regering kan aanvullende voorwaarden bepalen voor het verlenen van de voorafgaande vergunning.<br>
+<br>
+Het eerste en tweede lid zijn niet van toepassing op de groepen van assistentiewoningen zolang de Vlaamse Regering voor die voorzieningen geen programmatie heeft bepaald ter uitvoering van artikel 58, § 1, derde lid.<br>
+<br>
+Het eerste en tweede lid zijn van overeenkomstige toepassing voor een dienst maatschappelijk werk van het ziekenfonds, een lokaal dienstencentrum, een regionaal dienstencentrum en een centrum voor herstelverblijf, dat de initiatiefnemer wil laten erkennen.
 
 ## Afdeling III. Subsidiëring
 
@@ -328,7 +358,13 @@ De Vlaamse Regering kan voor de voorzieningen, verenigingen en woonzorgnetwerken
 
 ### ART. 65.
 
-Iedereen die woonzorg als vermeld in artikelen 5, 8, 10, 14, 16, 20, 23, 28, 33, 44 of 46, wil aanbieden of organiseren, moet zich vooraf bij de Vlaamse Regering aanmelden. Die aanmeldingsplicht geldt ook voor wie woonzorg als vermeld in artikel 37 wil aanbieden of organiseren en niet aan erkenning onderworpen is conform artikel 53, § 1.<br /><br />De Vlaamse Regering bepaalt de procedureregels voor de aanmelding.<br /><br />Een aan de Vlaamse Regering gerichte aanvraag voor een voorafgaande vergunning of voor een erkenning wordt met een aanmelding gelijkgesteld.
+Iedereen die woonzorg als vermeld in artikelen 5, 8, 10, 14, 16, 20, 23, 28, 33, 44 of 46, wil aanbieden of organiseren, moet zich vooraf bij de Vlaamse Regering aanmelden. Die aanmeldingsplicht geldt ook voor wie woonzorg als vermeld in artikel 37 wil aanbieden of organiseren en niet aan erkenning onderworpen is conform artikel 53, § 1.<br>
+<br>
+De aanmeldingsplicht geldt ook voor een woonzorgcentrum dat een persoon van wie het zelfzorgvermogen niet is aangetast opneemt buiten zijn erkende capaciteit als vermeld in artikel 53/1.<br>
+<br>
+De Vlaamse Regering bepaalt de procedureregels voor de aanmelding.<br>
+<br>
+Een aan de Vlaamse Regering gerichte aanvraag voor een voorafgaande vergunning of voor een erkenning wordt met een aanmelding als vermeld in het eerste lid gelijkgesteld.
 
 ### ART. 66.
 
@@ -392,7 +428,25 @@ De erkenning van een centrum voor kortverblijf vervalt van rechtswege : <br />1�
 
 ### ART. 77.
 
-Met behoud van de toepassing van artikelen 73, 74 en 75, naargelang van het geval, kan een administratieve geldboete van 500 tot 5.000 euro worden opgelegd aan : <br />1° degene die de hulp- en dienstverlening, vermeld in dit decreet, aanbiedt of organiseert zonder zich aangemeld te hebben conform artikel 65;<br />2° degene die met overtreding van artikel 59 een dagverzorgingscentrum, een centrum voor kortverblijf of een woonzorgcentrum als vermeld in artikel 53, § 1, bouwt, een bestaand gebouw als zodanig inricht of in gebruik neemt, of de opnamecapaciteit ervan verhoogt zonder daarvoor een voorafgaande vergunning te hebben verkregen;<br />3° de uitbater van een erkend woonzorgcentrum, dagverzorgingscentrum of centrum voor kortverblijf dat door de Vlaamse overheid werd aangemaand om binnen een bepaalde termijn aan de erkenningsvoorwaarden, vermeld in de aanmaning, te voldoen en dat binnen die termijn aan die voorwaarden niet voldoet.<br /><br />In afwijking van het eerste lid kan een administratieve geldboete van 2.000 tot 5.000 euro per uitgebate woongelegenheid worden opgelegd aan degene die zonder erkenning een dagverzorgingscentrum, een centrum voor kortverblijf of een woonzorgcentrum als vermeld in artikel 53, § 1, uitbaat.<br /><br />De administratieve geldboete kan worden opgelegd binnen een termijn van zes maanden, te rekenen vanaf de dag van de vaststelling van de inbreuk door de ambtenaren, vermeld in artikel 72, en nadat de betrokkene werd gehoord. Als een administratieve geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarbinnen die moet worden betaald. De kennisgeving van de beslissing aan de betrokkene vermeldt de wijze waarop en de termijn waarbinnen beroep ingesteld kan worden tegen de beslissing.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor het opleggen en het betalen van de administratieve geldboete. Ze wijst de ambtenaren aan die de geldboete kunnen opleggen.<br /><br />De betrokkene kan op straffe van verval van het recht tot het instellen van een beroep binnen een termijn van vijftien dagen vanaf de kennisgeving van de beslissing waarbij hem een administratieve geldboete wordt opgelegd, tegen die beslissing bij de politierechtbank beroep aantekenen met een verzoekschrift. Dat beroep schorst de uitvoering van de beslissing.<br /><br />De ambtenaren, vermeld in het vierde lid of, in geval van beroep, de politierechtbank kan bij verzachtende omstandigheden het bedrag van de opgelegde administratieve geldboete verminderen, zelfs tot onder het toepasselijke minimumbedrag.<br /><br />Als de betrokkene weigert de administratieve geldboete te betalen, wordt ze bij dwangbevel ingevorderd. De Vlaamse Regering wijst de ambtenaren aan die een dwangbevel kunnen geven en uitvoerbaar verklaren. Een dwangbevel wordt betekend bij deurwaardersexploot met bevel tot betaling.<br /><br />De vordering tot voldoening van de administratieve geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de datum van de beslissing, vermeld in het derde lid, of in geval van beroep, vanaf de datum van de in kracht van gewijsde gegane rechterlijke beslissing. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 en volgende van het Burgerlijk Wetboek.
+Met behoud van de toepassing van artikelen 73, 74 en 75, naargelang van het geval, kan een administratieve geldboete van 500 tot 5.000 euro worden opgelegd aan :<br>
+1° degene die de hulp- en dienstverlening, vermeld in dit decreet, aanbiedt of organiseert zonder zich aangemeld te hebben conform artikel 65;<br>
+1° /1 degene die een persoon van wie het zelfzorgvermogen niet is aangetast opneemt buiten zijn erkende capaciteit als vermeld in artikel 53/1, § 1, eerste lid, zonder zich te hebben aangemeld conform artikel 65 of die niet voldoet aan de normen, vermeld in artikel 53/1, § 1, tweede lid, en § 2;<br>
+2° degene die met overtreding van artikel 59 een dagverzorgingscentrum, een centrum voor kortverblijf of een woonzorgcentrum als vermeld in artikel 53, § 1, bouwt, een bestaand gebouw als zodanig inricht of in gebruik neemt, of de opnamecapaciteit ervan verhoogt zonder daarvoor een voorafgaande vergunning te hebben verkregen;<br>
+3° de uitbater van een erkend woonzorgcentrum, dagverzorgingscentrum of centrum voor kortverblijf dat door de Vlaamse overheid werd aangemaand om binnen een bepaalde termijn aan de erkenningsvoorwaarden, vermeld in de aanmaning, te voldoen en dat binnen die termijn aan die voorwaarden niet voldoet.<br>
+<br>
+In afwijking van het eerste lid kan een administratieve geldboete van 2.000 tot 5.000 euro per uitgebate woongelegenheid worden opgelegd aan degene die zonder erkenning een dagverzorgingscentrum, een centrum voor kortverblijf of een woonzorgcentrum als vermeld in artikel 53, § 1, uitbaat.<br>
+<br>
+De administratieve geldboete kan worden opgelegd binnen een termijn van zes maanden, te rekenen vanaf de dag van de vaststelling van de inbreuk door de ambtenaren, vermeld in artikel 72, en nadat de betrokkene werd gehoord. Als een administratieve geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarbinnen die moet worden betaald. De kennisgeving van de beslissing aan de betrokkene vermeldt de wijze waarop en de termijn waarbinnen beroep ingesteld kan worden tegen de beslissing.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor het opleggen en het betalen van de administratieve geldboete. Ze wijst de ambtenaren aan die de geldboete kunnen opleggen.<br>
+<br>
+De betrokkene kan op straffe van verval van het recht tot het instellen van een beroep binnen een termijn van vijftien dagen vanaf de kennisgeving van de beslissing waarbij hem een administratieve geldboete wordt opgelegd, tegen die beslissing bij de politierechtbank beroep aantekenen met een verzoekschrift. Dat beroep schorst de uitvoering van de beslissing.<br>
+<br>
+De ambtenaren, vermeld in het vierde lid of, in geval van beroep, de politierechtbank kan bij verzachtende omstandigheden het bedrag van de opgelegde administratieve geldboete verminderen, zelfs tot onder het toepasselijke minimumbedrag.<br>
+<br>
+Als de betrokkene weigert de administratieve geldboete te betalen, wordt ze bij dwangbevel ingevorderd. De Vlaamse Regering wijst de ambtenaren aan die een dwangbevel kunnen geven en uitvoerbaar verklaren. Een dwangbevel wordt betekend bij deurwaardersexploot met bevel tot betaling.<br>
+<br>
+De vordering tot voldoening van de administratieve geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de datum van de beslissing, vermeld in het derde lid, of in geval van beroep, vanaf de datum van de in kracht van gewijsde gegane rechterlijke beslissing. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 en volgende van het Burgerlijk Wetboek.
 
 ## HOOFDSTUK XI. Wijzigingsbepalingen
 
