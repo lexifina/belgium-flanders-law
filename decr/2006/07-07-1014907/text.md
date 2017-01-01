@@ -1130,13 +1130,13 @@ De experimenten die toegestaan werden door de Vlaamse minister, bevoegd voor ond
 
 ### ART. IX.4.
 
-§ 1. De Vlaamse Regering wordt gemachtigd om toe te treden tot de internationale vzw Eun Partnership en bij te dragen tot de werking van de vereniging. <br /><br />§ 2. De internationale vzw Eun Partnership heeft tot doel het gebruik van informatie- en communicatietechnologie in scholen te ondersteunen en te promoten. Eun Partnership realiseert dat door de samenwerking tussen scholen in Europa aan te moedigen en door specifieke dienstverlening te verstrekken aan scholen en andere onderwijsactoren. <br /><br />§ 3. Binnen de perken van de daartoe op de begroting van de Vlaamse Gemeenschap uitgetrokken kredieten wordt aan voornoemde vzw een toelage verleend. <br /><br />
+...
 
 ## Afdeling V Terugvorderingen volwassenenonderwijs
 
 ### ART. IX.5.
 
-§ 1. Dit artikel is van toepassing op de personeelsleden die nà 7 augustus 1982 en vóór 1 september 1991 prestaties hebben uitgeoefend waarvoor ze bezoldigd werden op grond van de bepalingen van artikel 10, § 5, van het koninklijk besluit nummer 63 van 20 juli 1982 houdende wijziging van de bezoldigingsregels van toepassing op het onderwijzend en daarmee gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan.<br /><br />§ 2. Het personeelslid, vermeld in § 1, voor wie de bepalingen van artikel 10, § 5, van voormeld koninklijk besluit van 20 juli 1982 door een terbeschikkingstelling wegens ontstentenis van betrekking niet meer gelden, kan vragen om, met ingang van 1 september 1991, zijn voor die periode toegekende salaris of salaristoelage opnieuw vast te stellen volgens de voornoemde bepalingen en zonder rekening te houden met de voormelde onderbreking van de uitgeoefende prestaties. <br /><br />Dit verzoek moet medegedeeld worden aan de bevoegde diensten van het Vlaams ministerie van Onderwijs en Vorming. <br /><br />
+...
 
 ## Afdeling VI Tijdelijke projecten betreffende vervangingen van korte afwezigheden, bedrijfsstages en mentorschap
 
