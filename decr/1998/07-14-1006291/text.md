@@ -50,51 +50,15 @@ De personeelsleden die op 30 juni 1997 deel uitmaken van het bestuurs- en onderw
 
 ### ART. 12.
 
-§ 1. Dit artikel is van toepassing op de personeelsleden die op 30 juni 1992 prestaties uitoefenden waarvoor zij bezoldigd werden op grond van de bepalingen van artikel 10, § 3 of § 5, van het koninklijk besluit nr. 63 van 20 juli 1982 houdende wijziging van de bezoldigingsregels van toepassing op het onderwijzend en daarmee gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan.<br>
-<br>
-Dit artikel is echter niet van toepassing op de personeelsleden bedoeld in artikel 2, § 2, a), van hetzelfde besluit.<br>
-<br>
-§ 2. De in § 1 bedoelde personeelsleden blijven voor de prestaties die op 30 juni 1998 nog werden beschouwd als bijbetrekking en waarvoor zij op dezelfde datum nog bezoldigd werden op grond van de bepalingen van artikel 10, § 3 of § 5 van voormeld koninklijk besluit nr. 63 van 20 juli 1982 verder als dusdanig bezoldigd, ongeacht de inkomsten die zij verwerven uit activiteiten buiten het onderwijs.<br>
-<br>
-§ 3. Het personeelslid bedoeld in § 1 voor wie de bepalingen van artikel 10, § 3 of § 5, van voormeld koninklijk besluit van 20 juli 1982 niet meer gelden, kan vragen om, met ingang van 1 september 1998, zijn wedde/weddetoelage voor de prestaties die het uitoefende op 30 juni 1992 en waarmee het nog belast is op 1 september 1998, opnieuw vast te stellen volgens de voornoemde bepalingen.<br>
-<br>
-Dit verzoek moet vóór 31 december 1998 bij aangetekend schrijven toegezonden worden aan de Vlaamse minister bevoegd voor het onderwijs of zijn gemachtigde en meegedeeld worden aan de inrichtende macht.<br>
-<br>
-§ 4. De personeelsleden op wie de bepalingen van de §§ 2 en 3 werden toegepast, kunnen vragen dat wordt onderzocht of ze, rekening gehouden met de inkomsten die zij verwerven uit activiteiten buiten het onderwijs, aanspraak kunnen maken op een bezoldiging als hoofdambt. Dit verzoek moet, samen met de vereiste documenten tot staving ervan, bij aangetekend schrijven toegezonden worden aan de Vlaamse minister bevoegd voor het onderwijs of zijn gemachtigde en meegedeeld worden aan de inrichtende macht. Tijdens het onderzoek blijven de prestaties van het personeelslid verder als bijbetrekking bezoldigd.<br>
-<br>
-Als uit het onderzoek blijkt dat het personeelslid aanspraak kan maken op een bezoldiging als hoofdambt wordt zijn wedde/weddetoelage vastgesteld volgens de principes van het hoofdambt.<br>
-<br>
-Het personeelslid op wie het voorgaand lid is toegepast, kan niet meer opnieuw de toepassing bekomen van de bepalingen van artikel 10, § 3 of § 5, van voormeld Koninklijk Besluit van 20 juli 1982.<br>
-<br>
-§ 5. Voor de toepassing van dit artikel gelden de bepalingen van artikel 10, § 6 van voormeld koninklijk besluit nr. 63 van 20 juli 1982 niet.
+...
 
 ### ART. 13.
 
-Onverminderd de krachtens artikel 146 van de Grondwet door de wet georganiseerde rechtsbescherming zijn de wedden en de weddetoelagen die in de periode van 1 januari 1996 tot [31 augustus 1999 (verv. der. 20 april 2001, art. 32, I: 1 september 1998) ] werden uitgekeerd aan de personeelsleden die tegelijkertijd een bezoldiging bekwamen voor een opdracht in het hoger onderwijs en voor een opdracht in het gewoon of buitengewoon [basis of (ing. decr. 20 april 2001, art. 32, I: 1 september 1998) ] secundair onderwijs of in het aanvullend [basis of (ing. decr. 20 april 2001, art. 32, I: 1 september 1998) ] secundair beroepsonderwijs of in het deeltijds kunstonderwijs of in het onderwijs voor sociale promotie of met beperkt leerplan, [of in de psycho-medisch-sociale centra (ing. decr. 20 april 2001, art. 32, I: 1 september 1998) ] in hoofde van deze personeelsleden definitief verworven, behoudens indien het betrokken personeelslid tewerkgesteld was in een niet-financierbare of niet-subsidieerbare betrekking.
+...
 
 ### ART. 14.
 
-§ 1. Dit artikel is van toepassing op de personeelsleden die op de datum van de inwerkingtreding van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, in het hoger kunstonderwijs effectief in dienst of titularis waren van een niet-uitsluitend ambt, zoals bepaald in artikel 5 van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs, en eveneens effectief in dienst of titularis waren van een ambt in een ander(e) onderwijsniveau/vorm.<br>
-<br>
-§ 2. In afwijking van de bestaande wettelijke, decretale en reglementaire bepalingen inzake bezoldigingsregeling wordt de wedde/weddetoelage toe te kennen aan de in § 1 bedoelde personeelsleden voor hun opdrachten in de andere onderwijsniveaus/vormen, vastgesteld als volgt:<br>
-<br>
-1. volgens de principes die de bezoldiging regelen van het hoofdambt in:<br>
-<br>
-- het voormeld koninklijk besluit van 15 april 1958;<br>
-<br>
-- het koninklijk besluit van 10 maart 1965 houdende bezoldigingsregeling van het personeel der leergangen met beperkt leerplan, afhangend van het Ministerie van Nationale Opvoeding en Cultuur.<br>
-<br>
-2. tot het bereiken van de maximumprestaties gesteld in artikel 77 van de wet van 24 december 1976 betreffende de budgettaire voorstellen 1976-1977, de prestaties in de instelling(en) voor hoger onderwijs en de andere onderwijsniveaus/vormen samen beschouwd.<br>
-<br>
-Voor de berekening van de wedde/weddetoelage worden de prestaties verstrekt in de hogeschool in de Vlaamse Gemeenschap steeds als eerste in aanmerking genomen, in voorkomend geval in afwijking van de bepalingen van:<br>
-<br>
-- Titel III: hoofdambten met onvolledige prestaties van voormeld koninklijk besluit van 15 april 1958;<br>
-<br>
-- Titel IV: ambten met onvolledige prestaties van voormeld koninklijk besluit van 10 maart 1965.<br>
-<br>
-§ 3. De wedde/weddetoelage, vastgesteld zoals bepaald in § 2, wordt aan de betrokken personeelsleden toegekend ten persoonlijke titel. Ze blijven aldus bezoldigd zolang ze naast een opdracht in het hoger onderwijs effectief in dienst of titularis zijn van een ambt in een ander(e), ongeacht de wijzigingen die zich in de opdrachten in het hoger onderwijs of in de andere onderwijsniveaus/vormen voordoen.<br>
-<br>
-§ 4. Dit artikel houdt op van toepassing te zijn zodra het betrokken personeelslid geen titularis meer is van het/de ambt(en) in het hoger onderwijs of in het/de andere onderwijsniveau(s)/vorm(en).
+...
 
 ### ART. 15.
 

@@ -2,16 +2,16 @@
   "codex_id": 1006291,
   "title": "Decreet van 1998-07-14 betreffende het onderwijs IX",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006291/VolledigDocument?datum=2011-05-01",
-  "source_sha256": "e40293b46c4029e20b51bb1bba1347d0370b08aa938a6dffe0beca0f8b0ae139",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006291/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "57f6ac783f8e5bcf899b7d335929161bc5fb8fa11fb16442ae8941c109741d6b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006291&param=informatie",
-  "as_of": "2011-05-01",
+  "as_of": "2017-01-01",
   "made": "1998-07-14",
   "gazette": "1998-08-29",
   "numac": 1998035973,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-05-01",
+  "in_force": "2017-01-01",
   "article_versions": 133,
-  "record_form": "consolidated version as in force on 2011-05-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
