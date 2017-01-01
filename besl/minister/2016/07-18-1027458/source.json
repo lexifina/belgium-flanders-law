@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027458,
+  "title": "Ministerieel besluit van 2016-07-18 tot wijziging van artikel 1 van het ministerieel besluit van 19 juni 2009 tot bepaling van de lijst van infecties die gemeld moeten worden en tot delegatie van de bevoegdheid om ambtenaren-artsen en ambtenaren aan te wijzen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027458/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "3edeff596ba7530eef6f3fbc858f990e4b992187d894ded8d063645d7eec05ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027458&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-07-18",
+  "gazette": "2016-10-06",
+  "numac": 2016205063,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
