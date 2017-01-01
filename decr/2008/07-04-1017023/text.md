@@ -1313,11 +1313,11 @@ De volgende bepalingen, zoals gewijzigd worden opgeheven :<br />1° artikel 199,
 
 ### ART. XI.6.
 
-Onverminderd de krachtens artikel 146 van de Grondwet door de wet georganiseerde rechtsbescherming, worden de betrekkingen in het ambt van werkmeester, werkplaatsleider, technisch adviseur of technisch adviseur-coördinatordie voor 1 september 2008 werden opgericht of instandgehouden, beschouwd als zijnde opgericht of instandgehouden volgens de bepalingen van artikel 25 van de codificatie betreffende het secundair onderwijs.<br /><br />
+...
 
 ### ART. XI.7.
 
-Sectorcomité X of onderafdeling « Vlaamse Gemeenschap » van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten bemiddelen op vraag van een afgevaardigde van de representatieve vakorganisaties, een afgevaardigde van het schoolbestuur en/of een afgevaardigde van de representatieve verenigingen van inrichtende machten en/of het Gemeenschapsonderwijs bij elk geschil, elk conflict of elk dreigend conflict van collectieve aard dat zich binnen hun respectieve werkingsveld voordoet. Sectorcomité X en onderafdeling « Vlaamse Gemeenschap » van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten kunnen daartoe inzonderheid een bemiddelaar aanstellen.<br /><br />Sectorcomité X en onderafdeling « Vlaamse Gemeenschap » van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten nemen binnen een termijn van zes maanden, ingaande vanaf 1 april 2008, elk een intern reglement inzake de bemiddelingsprocedure aan. De reglementen worden uitvoerbaar na bekrachtiging door de Vlaamse Regering.<br /><br />Bij elk geschil, elk conflict of elke dreigend conflict van collectieve aard dat zich in een netoverstijgende scholengemeenschap of in een consortium voordoet, kunnen Sectorcomité X, onderafdeling « Vlaamse Gemeenschap » van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten, de centraal paritaire comités van het gesubsidieerd vrij onderwijs en het Vlaams Onderhandelingscomité voor de basiseducatie in een gemeenschappelijke vergadering bemiddelen en gemeenschappelijk een bemiddelaar aanstellen.<br /><br />
+...
 
 ### ART. XI.8.
 
@@ -1325,7 +1325,7 @@ Sectorcomité X of onderafdeling « Vlaamse Gemeenschap » van afdeling 2 van he
 
 ### ART. XI.9.
 
-§ 1. Voor de representatieve vakorganisaties, aangesloten bij een in de Sociaal-Economische Raad van Vlaanderen vertegenwoordigde syndicale organisatie wordt jaarlijks binnen de voorziene begrotingskredieten een bedrag ter beschikking gesteld voor de ondersteuning van de syndicale werkzaamheden van hun vakbondsafgevaardigden.<br /><br />§ 2. De Vlaamse Regering bepaalt het bedrag en de wijze van verdeling van dit bedrag over de betrokken vakorganisaties en legt de aanvraagprocedure vast.
+...
 
 ### ART. XI.10.
 
@@ -1333,7 +1333,7 @@ Sectorcomité X of onderafdeling « Vlaamse Gemeenschap » van afdeling 2 van he
 
 ### ART. XI.11.
 
-De Vlaamse Regering heeft de bevoegdheid om het besluit van de Vlaamse Regering van 10 juni 1997 houdende de taken die niet in de functiebeschrijvingen van het personeel in het basisonderwijs kunnen opgenomen worden op te heffen.<br /><br />
+...
 
 ### ART. XI.12.
 
