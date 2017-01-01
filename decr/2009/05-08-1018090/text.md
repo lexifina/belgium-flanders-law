@@ -8,15 +8,63 @@ Dit decreet regelt een gewestaangelegenheid.<br /><br />
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder : <br />1° diepe ondergrond : ondergrond vanaf een diepte van ten minste 100 meter onder het aardoppervlak;<br />2° koolwaterstof : elke in de diepe ondergrond aanwezige substantie van organische oorsprong, in een daar via natuurlijke weg ontstane concentratie van hoofdzakelijk koolstof- en waterstofverbindingen of koolstof, in vaste, vloeibare of gasvormige toestand, zoals onder meer bruinkool, steenkool, aardolie en aardgas, of mijngas, zijnde eender welk gas dat onttrokken kan worden uit een mijn;<br />3° opsporen van koolwaterstoffen : onderzoek doen naar de aanwezigheid van koolwaterstoffen of naar nadere gegevens daarover, met gebruikmaking van een boorgat;<br />4° winnen van koolwaterstoffen : met gebruikmaking van een boorgat, tunnel, schacht of ander ondergronds werk onttrekken van koolwaterstoffen aan de diepe ondergrond, anders dan in de vorm van monsters of formatiebeproevingen;<br />5° opsporen van potentiële opslagcomplexen : beoordelen van potentiële opslagcomplexen voor de geologische opslag van koolstofdioxide aan de hand van activiteiten die in de ondergrond binnendringen, zoals boorwerkzaamheden om geologische informatie te verkrijgen over geologische lagen in het potentiële opslagcomplex en, zo nodig, injectieproeven verrichten om de opslaglocatie te karakteriseren;<br />6° geologisch opslaan van koolstofdioxide : injecteren in combinatie met opslaan van koolstofdioxidestromen in geologische formaties in de diepe ondergrond;<br />7° verkenningsonderzoek : onderzoek naar de aanwezigheid van koolwaterstoffen of naar nadere gegevens daarover, zonder gebruikmaking van een boorgat;<br />8° opsporingsvergunning voor koolwaterstoffen : exclusieve schriftelijke toestemming om koolwaterstoffen op te sporen in de diepe ondergrond;<br />9° winningsvergunning : exclusieve schriftelijke toestemming om koolwaterstoffen te winnen in de diepe ondergrond;<br />10° opsporingsvergunning voor koolstofdioxideopslag : exclusieve schriftelijke toestemming om opsporingswerkzaamheden uit te voeren met betrekking tot potentiële opslagcomplexen voor koolstofdioxide in de diepe ondergrond, inclusief de voorwaarden waaronder die opsporingswerkzaamheden mogen plaatsvinden;<br />11° opslagvergunning : exclusieve schriftelijke toestemming of toestemmingen waarbij de exploitant wordt gemachtigd tot de geologische opslag van koolstofdioxide in een opslaglocatie in de diepe ondergrond, en waarin de voorwaarden waaronder die mag plaatsvinden zijn gespecificeerd;<br />12° opslaglocatie : een omschreven volumegebied binnen een geologische formatie, dat gebruikt wordt voor de geologische opslag van koolstofdioxide en bijbehorende bovengrondse voorzieningen en injectiefaciliteiten;<br />13° geologische formatie : lithostratigrafische onderverdeling waarbinnen duidelijk te onderscheiden  gesteentelagen kunnen worden aangetroffen en in kaart kunnen worden gebracht;<br />14° opslagcomplex : opslaglocatie en omringende geologische gebieden die een weerslag kunnen hebben op de algehele integriteit van de opslag en de veiligheid ervan; d.w.z. omliggende opslagformaties die koolstofdioxide kunnen gaan bevatten;<br />15° lekkage : het weglekken van koolstofdioxide uit het opslagcomplex;<br />16° waterkolom : verticale continue massa water van de oppervlakte tot de bodemafzetting van een waterlichaam;<br />17° hydraulische eenheid : hydraulisch verbonden poriënruimte waar de drukdoorgave met technische middelen kan worden gemeten, en die is afgebakend door stromingsbarrières zoals storingen, zoutkoepels of lithologische grenzen, of door wigvormige uitloop of dagzomende aardlagen van de formatie;<br />18° exploitant : particuliere of publieke natuurlijke persoon of rechtspersoon die de opslaglocatie exploiteert en beheert of die over de beslissende economische macht over de technische functionering van de opslaglocatie beschikt;<br />19° belangrijke wijziging : iedere wijziging waarin de opslagvergunning niet voorziet, die aanzienlijke effecten op het milieu of de volksgezondheid tot gevolg kan hebben;<br />20° koolstofdioxidestroom : stroom stoffen die resulteert uit het afvangen van koolstofdioxide;<br />21° afvalstoffen : afvalstoffen als vermeld in het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen;<br />22° koolstofdioxidepluim : het zich verspreidende volume van koolstofdioxide in de geologische formatie;<br />23° migratie : beweging van koolstofdioxide binnen het opslagcomplex;<br />24° significante onregelmatigheid : onregelmatigheid bij de injectie- of opslagwerkzaamheden of in de toestand van het opslagcomplex zelf, die het risico van lekkage doet ontstaan of een risico voor het milieu of de volksgezondheid oplevert;<br />25° significant risico : combinatie van een waarschijnlijkheid van het zich voordoen van  schade en een omvang van schade die niet kan worden genegeerd zonder het doel van de milieuveilige geologische opslag van koolstofdioxide voor de betrokken opslaglocatie aan te tasten;<br />26° corrigerende maatregelen : maatregelen om significante onregelmatigheden te corrigeren of lekkages te dichten om het weglekken van koolstofdioxide uit het opslagcomplex te voorkomen of te doen ophouden;<br />27° afsluiting van een opslaglocatie : definitieve stopzetting van de injectie van koolstofdioxide in een opslaglocatie;<br />28° periode na afsluiting : periode na de afsluiting van een opslaglocatie, inclusief de periode na de overdracht van de verantwoordelijkheid aan het Vlaamse Gewest;<br />29° transportnetwerk : netwerk van pijpleidingen, met inbegrip van de daarvoor benodigde pompstations, om koolstofdioxide naar de opslaglocatie te transporteren;<br />30° minister : Vlaamse minister, bevoegd voor de natuurlijke rijkdommen, als het de opsporing of de winning van koolwaterstoffen betreft, dan wel de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, als het de geologische opslag van koolstofdioxide betreft;<br />31° rechthebbende : houder van een zakelijk recht of een ander genotsrecht;<br />32° aangewezen vennootschap : investeringsmaatschappij als vermeld in het decreet van 7 mei 2004 betreffende de investeringsmaatschappijen van de Vlaamse overheid;<br />33° gecoördineerde Mijnwetten : de wetten op de mijnen, de graverijen en de groeven, gecoördineerd op 15 september 1919; <br />34° Pachtwet : afdeling III van boek III, titel VIII, hoofdstuk II, van het Burgerlijk Wetboek, ingevoegd door artikel 1 van de wet van 4 november 1969 tot wijziging van de pachtwetgeving en van de wetgeving betreffende het recht van voorkoop ten gunste van huurders van landeigendommen.<br /><br />
+Voor de toepassing van dit decreet wordt verstaan onder :<br>
+1° diepe ondergrond : ondergrond vanaf een diepte van ten minste 500 meter ten opzichte van het TAW-referentiepunt (Tweede Algemene Waterpassing);<br>
+2° koolwaterstof : elke in de diepe ondergrond aanwezige substantie van organische oorsprong, in een daar via natuurlijke weg ontstane concentratie van hoofdzakelijk koolstof- en waterstofverbindingen of koolstof, in vaste, vloeibare of gasvormige toestand, zoals onder meer bruinkool, steenkool, aardolie en aardgas, of mijngas, zijnde eender welk gas dat onttrokken kan worden uit een mijn;<br>
+3° opsporen van koolwaterstoffen : onderzoek doen naar de aanwezigheid van koolwaterstoffen of naar nadere gegevens daarover, met gebruikmaking van een boorgat;<br>
+4° winnen van koolwaterstoffen : met gebruikmaking van een boorgat, tunnel, schacht of ander ondergronds werk onttrekken van koolwaterstoffen aan de diepe ondergrond, anders dan in de vorm van monsters of formatiebeproevingen;<br>
+5° opsporen van potentiële opslagcomplexen : beoordelen van potentiële opslagcomplexen voor de geologische opslag van koolstofdioxide aan de hand van activiteiten die in de ondergrond binnendringen, zoals boorwerkzaamheden om geologische informatie te verkrijgen over geologische lagen in het potentiële opslagcomplex en, zo nodig, injectieproeven verrichten om de opslaglocatie te karakteriseren;<br>
+6° geologisch opslaan van koolstofdioxide : injecteren in combinatie met opslaan van koolstofdioxidestromen in geologische formaties in de diepe ondergrond;<br>
+7° verkenningsonderzoek : onderzoek naar de aanwezigheid van&nbsp;koolwaterstoffen of naar de aanwezigheid van winbare aardwarmte, dan wel naar nadere gegevens daarover, zonder gebruikmaking van een boorgat;<br>
+8° opsporingsvergunning voor koolwaterstoffen : exclusieve schriftelijke toestemming om koolwaterstoffen op te sporen in de diepe ondergrond;<br>
+9° winningsvergunning voor koolwaterstoffen&nbsp;: exclusieve schriftelijke toestemming om koolwaterstoffen te winnen in de diepe ondergrond;<br>
+10° opsporingsvergunning voor koolstofdioxideopslag : exclusieve schriftelijke toestemming om opsporingswerkzaamheden uit te voeren met betrekking tot potentiële opslagcomplexen voor koolstofdioxide in de diepe ondergrond, inclusief de voorwaarden waaronder die opsporingswerkzaamheden mogen plaatsvinden;<br>
+11° opslagvergunning : exclusieve schriftelijke toestemming of toestemmingen waarbij de exploitant wordt gemachtigd tot de geologische opslag van koolstofdioxide in een opslaglocatie in de diepe ondergrond, en waarin de voorwaarden waaronder die mag plaatsvinden zijn gespecificeerd;<br>
+12° opslaglocatie : een omschreven volumegebied binnen een geologische formatie, dat gebruikt wordt voor de geologische opslag van koolstofdioxide en bijbehorende bovengrondse voorzieningen en injectiefaciliteiten;<br>
+13° geologische formatie : lithostratigrafische onderverdeling waarbinnen duidelijk te onderscheiden gesteentelagen kunnen worden aangetroffen en in kaart kunnen worden gebracht;<br>
+14° opslagcomplex : opslaglocatie en omringende geologische gebieden die een weerslag kunnen hebben op de algehele integriteit van de opslag en de veiligheid ervan; d.w.z. omliggende opslagformaties die koolstofdioxide kunnen gaan bevatten;<br>
+15° lekkage : het weglekken van koolstofdioxide uit het opslagcomplex;<br>
+16° waterkolom : verticale continue massa water van de oppervlakte tot de bodemafzetting van een waterlichaam;<br>
+17° hydraulische eenheid : hydraulisch verbonden poriënruimte waar de drukdoorgave met technische middelen kan worden gemeten, en die is afgebakend door stromingsbarrières zoals storingen, zoutkoepels of lithologische grenzen, of door wigvormige uitloop of dagzomende aardlagen van de formatie;<br>
+18° exploitant : particuliere of publieke natuurlijke persoon of rechtspersoon die de opslaglocatie exploiteert en beheert of die over de beslissende economische macht over de technische functionering van de opslaglocatie beschikt;<br>
+19° belangrijke wijziging : iedere wijziging waarin de opslagvergunning niet voorziet, die aanzienlijke effecten op het milieu of de volksgezondheid tot gevolg kan hebben;<br>
+20° koolstofdioxidestroom : stroom stoffen die resulteert uit het afvangen van koolstofdioxide;<br>
+21° afvalstoffen : afvalstoffen als vermeld in het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen;<br>
+22° koolstofdioxidepluim : het zich verspreidende volume van koolstofdioxide in de geologische formatie;<br>
+23° migratie : beweging van koolstofdioxide binnen het opslagcomplex;<br>
+24° significante onregelmatigheid : onregelmatigheid bij de injectie- of opslagwerkzaamheden of in de toestand van het opslagcomplex zelf, die het risico van lekkage doet ontstaan of een risico voor het milieu of de volksgezondheid oplevert;<br>
+25° significant risico : combinatie van een waarschijnlijkheid van het zich voordoen van schade en een omvang van schade die niet kan worden genegeerd zonder het doel van de milieuveilige geologische opslag van koolstofdioxide voor de betrokken opslaglocatie aan te tasten;<br>
+26° corrigerende maatregelen : maatregelen om significante onregelmatigheden te corrigeren of lekkages te dichten om het weglekken van koolstofdioxide uit het opslagcomplex te voorkomen of te doen ophouden;<br>
+27° afsluiting van een opslaglocatie : definitieve stopzetting van de injectie van koolstofdioxide in een opslaglocatie;<br>
+28° periode na afsluiting : periode na de afsluiting van een opslaglocatie, inclusief de periode na de overdracht van de verantwoordelijkheid aan het Vlaamse Gewest;<br>
+29° transportnetwerk : netwerk van pijpleidingen, met inbegrip van de daarvoor benodigde pompstations, om koolstofdioxide naar de opslaglocatie te transporteren;<br>
+30° minister : Vlaamse minister, bevoegd voor de natuurlijke rijkdommen, als het de opsporing of de winning van koolwaterstoffen of aardwarmte betreft, dan wel de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, als het de geologische opslag van koolstofdioxide betreft;<br>
+31° rechthebbende : houder van een zakelijk recht of een ander genotsrecht;<br>
+32° aangewezen vennootschap : investeringsmaatschappij als vermeld in het decreet van 7 mei 2004 betreffende de investeringsmaatschappijen van de Vlaamse overheid;<br>
+33° gecoördineerde Mijnwetten : de wetten op de mijnen, de graverijen en de groeven, gecoördineerd op 15 september 1919;<br>
+34° Pachtwet : afdeling III van boek III, titel VIII, hoofdstuk II, van het Burgerlijk Wetboek, ingevoegd door artikel 1 van de wet van 4 november 1969 tot wijziging van de pachtwetgeving en van de wetgeving betreffende het recht van voorkoop ten gunste van huurders van landeigendommen.<br>
+35° volumegebied : omschreven driedimensionaal gebied in de diepe ondergrond, afgebakend met behulp van x-, y- en z-coördinaten (Lambert BD72-stelsel en Tweede Algemene Waterpassing), grensvlakken van geologische lagen of andere geologische criteria;<br>
+36° aardwarmte : in de ondergrond aanwezige warmte die daar langs natuurlijke weg is ontstaan;<br>
+37° opsporen van aardwarmte : onderzoek doen naar de aanwezigheid van winbare aardwarmte of naar nadere gegevens daarover, met gebruikmaking van een boorgat;<br>
+38° winnen van aardwarmte : het onttrekken van aardwarmte aan de ondergrond met gebruikmaking van een boorgat, in voorkomend geval met inbegrip van het terugvoeren van bij de winning opgepompt water in hetzelfde geothermische reservoir;<br>
+39° opsporingsvergunning voor aardwarmte : exclusieve schriftelijke toestemming om winbare aardwarmte op te sporen in de diepe ondergrond en om die aardwarmte tijdens de duur van de opsporingsvergunning overeenkomstig de vergunningsvoorwaarden te winnen;<br>
+40° winningsvergunning voor aardwarmte : exclusieve schriftelijke toestemming om aardwarmte te winnen in de diepe ondergrond;<br>
+41° bodembeweging : elke beweging van de aardbodem die geheel of gedeeltelijk toegeschreven kan worden aan activiteiten die onder dit decreet vergund worden, hetzij bodembeweging op lange termijn zoals bodemdaling of bodemstijging, hetzij kortstondige bodembeweging zoals seismiciteit.<br>
+&nbsp;
 
 ### ART. 3.
 
-De in de diepe ondergrond van nature aanwezige koolwaterstoffen zijn eigendom van het Vlaamse Gewest.<br /><br />De eigendom van koolwaterstoffen die met gebruikmaking van een winningsvergunning worden gewonnen, gaat door het winnen ervan over op de vergunninghouder, op voorwaarde dat een vergoeding wordt betaald aan het Vlaamse Gewest overeenkomstig hoofdstuk II, afdeling II. De eigendom van koolwaterstoffen die met gebruikmaking van een opsporingsvergunning voor koolwaterstoffen als monsters of formatiebeproevingen aan de ondergrond worden onttrokken, gaat over op de vergunninghouder zonder dat er een vergoeding aan het Vlaamse Gewest betaald moet worden.<br /><br />
+De in de diepe ondergrond van nature aanwezige koolwaterstoffen zijn eigendom van het Vlaamse Gewest.<br>
+<br>
+De eigendom van koolwaterstoffen die met gebruikmaking van een winningsvergunning voor koolwaterstoffen worden gewonnen, gaat door het winnen ervan over op de vergunninghouder, op voorwaarde dat een vergoeding wordt betaald aan het Vlaamse Gewest overeenkomstig hoofdstuk II, afdeling II. De eigendom van koolwaterstoffen die met gebruikmaking van een opsporingsvergunning voor koolwaterstoffen als monsters of formatiebeproevingen aan de ondergrond worden onttrokken, gaat over op de vergunninghouder zonder dat er een vergoeding aan het Vlaamse Gewest betaald moet worden.<br>
+&nbsp;
 
 ### ART. 4.
 
-De rechthebbenden ten aanzien van het aardoppervlak en de daarop opgerichte bouwwerken moeten toestaan dat de houder van een vergunning in de ondergrond koolwaterstoffen opspoort of wint, potentiële opslagcomplexen voor koolstofdioxide opspoort of koolstofdioxide geologisch opslaat, overeenkomstig de regels waaraan die activiteiten onderworpen zijn, als die activiteiten plaatsvinden op een diepte van ten minste 100 meter onder het aardoppervlak.<br /><br />Die verplichting doet echter geen afbreuk aan het recht van de rechthebbenden op een vergoeding voor de door die activiteiten veroorzaakte schade aan het aardoppervlak en de daarop opgerichte bouwwerken, en op een vergoeding van het genotsverlies ten gevolge van de bezetting van hun gronden.<br /><br />
+De rechthebbenden ten aanzien van het aardoppervlak en de daarop opgerichte bouwwerken moeten toestaan dat de houder van een vergunning in de ondergrond koolwaterstoffen of aardwarmte&nbsp;opspoort of wint, potentiële opslagcomplexen voor koolstofdioxide opspoort of koolstofdioxide geologisch opslaat, overeenkomstig de regels waaraan die activiteiten onderworpen zijn, als die activiteiten plaatsvinden op een diepte van ten minste 500 meter ten opzichte van het TAW-referentiepunt.<br>
+<br>
+Die verplichting doet echter geen afbreuk aan het recht van de rechthebbenden op een vergoeding voor de door die activiteiten veroorzaakte schade aan het aardoppervlak en de daarop opgerichte bouwwerken, en op een vergoeding van het genotsverlies ten gevolge van de bezetting van hun gronden.<br>
+&nbsp;
 
 ## HOOFDSTUK II Het opsporen en het winnen van koolwaterstoffen
 
@@ -26,15 +74,38 @@ De rechthebbenden ten aanzien van het aardoppervlak en de daarop opgerichte bouw
 
 ### ART. 5.
 
-§ 1. Het opsporen of het winnen van koolwaterstoffen kan alleen met een vergunning van de Vlaamse Regering.<br /><br />§ 2. Een winningsvergunning kan alleen verleend worden op basis van de resultaten die voortvloeien uit een voorafgaande opsporingsvergunning voor koolwaterstoffen. <br /><br />De resultaten verkregen uit een opsporingsvergunning kunnen door een andere persoon dan de houder van de vergunning slechts worden aangewend na de rechten op de opsporingsresultaten te hebben verworven van de houder of laatste houder van de opsporingsvergunning, en deze daarvoor passend te hebben vergoed.<br /><br />§ 3. De Vlaamse Regering bepaalt de nadere regels voor de aanvraagprocedure om een vergunning te verkrijgen, en de vormelijke en inhoudelijke voorwaarden waaraan een dergelijke aanvraag moet voldoen.<br /><br />
+§ 1. Het opsporen of het winnen van koolwaterstoffen kan alleen met een vergunning van de Vlaamse Regering.<br>
+<br>
+§ 2. Een winningsvergunning voor koolwaterstoffen kan alleen verleend worden op basis van de resultaten die voortvloeien uit een voorafgaande opsporingsvergunning voor koolwaterstoffen.<br>
+<br>
+De resultaten verkregen uit een opsporingsvergunning voor koolwaterstoffen kunnen door een andere persoon dan de houder van de vergunning slechts worden aangewend na de rechten op de opsporingsresultaten te hebben verworven van de houder of laatste houder van de opsporingsvergunning voor koolwaterstoffen, en deze daarvoor passend te hebben vergoed.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de nadere regels voor de aanvraagprocedure om een vergunning te verkrijgen, en de vormelijke en inhoudelijke voorwaarden waaraan een dergelijke aanvraag moet voldoen.<br>
+&nbsp;
 
 ### ART. 6.
 
-§ 1. Nadat een aanvraag voor een vergunning is ingediend en volledig bevonden werd, neemt de Vlaamse Regering het initiatief om in het Publicatieblad van de Europese Unie een uitnodiging te publiceren om aanvragen in te dienen voor een soortgelijke vergunning voor hetzelfde gebied.<br /><br />Die uitnodiging maakt melding van de aard van de vergunning, het geografische gebied waarvoor een aanvraag kan worden ingediend, de termijn waarin een aanvraag tot mededinging kan worden ingediend, de toepasselijke regelgeving, en de voorgenomen datum waarop of de termijn waarin over de vergunningsaanvraag beslist zal worden.<br /><br />Als de voorkeur wordt gegeven aan aanvragen die uitgaan van individuele natuurlijke personen of rechtspersonen, moet dat in de uitnodiging worden vermeld.<br /><br />§ 2. Andere belangstellenden kunnen binnen een termijn van negentig dagen na de publicatie van de uitnodiging in het Publicatieblad van de Europese Unie eveneens een aanvraag indienen voor een soortgelijke vergunning voor hetzelfde gebied. <br /><br />
+§ 1. Nadat een aanvraag voor een vergunning is ingediend en volledig bevonden werd, neemt de Vlaamse Regering het initiatief om in het Publicatieblad van de Europese Unie een uitnodiging te publiceren om aanvragen in te dienen voor een soortgelijke vergunning voor hetzelfde volumegebied.<br>
+<br>
+Die uitnodiging maakt melding van de aard van de vergunning, het&nbsp;volumegebied waarvoor een aanvraag kan worden ingediend, de termijn waarin een aanvraag tot mededinging kan worden ingediend, de toepasselijke regelgeving, en de voorgenomen datum waarop of de termijn waarin over de vergunningsaanvraag beslist zal worden.<br>
+<br>
+Als de voorkeur wordt gegeven aan aanvragen die uitgaan van individuele natuurlijke personen of rechtspersonen, moet dat in de uitnodiging worden vermeld.<br>
+<br>
+§ 2. Andere belangstellenden kunnen binnen een termijn van negentig dagen na de publicatie van de uitnodiging in het Publicatieblad van de Europese Unie eveneens een aanvraag indienen voor een soortgelijke vergunning voor hetzelfde volumegebied.<br>
+&nbsp;
 
 ### ART. 7.
 
-§ 1. In de volgende gevallen wordt de procedure, vermeld in artikel 6, niet gevolgd : <br />1° als de houder van een opsporingsvergunning voor koolwaterstoffen die met gebruikmaking van die vergunning de aanwezigheid van koolwaterstoffen heeft aangetoond, gedurende de geldigheidsduur van die vergunning, voor hetzelfde gebied of gedeelten daarvan een aanvraag voor een winningsvergunning indient. Als de aanwezigheid van koolwaterstoffen maar in een deel van het vergunde gebied is aangetoond, kan de winningsvergunning beperkt worden tot dat deel van het gebied. In afwijking van artikel 11, § 1, blijft de opsporingsvergunning, voor zover ze betrekking heeft op het aangevraagde gebied, in elk geval gelden tot wanneer de beslissing over de aanvraag voor de winningsvergunning onherroepelijk wordt; <br />2° als de aanvraag betrekking heeft op een gebied waarvoor op dat ogenblik al een soortgelijke vergunning in het kader van dit hoofdstuk of een opsporingsvergunning voor koolstofdioxideopslag in het kader van hoofdstuk III is verleend;<br />3° als de aanvraag betrekking heeft op een gebied dat de Vlaamse Regering niet wil openstellen voor de opsporing of de winning van koolwaterstoffen;<br />4° tijdens de eerste twee jaar na de datum van inwerkingtreding van dit decreet, als het een aanvraag overeenkomstig artikel 34, § 2, betreft. <br /><br />§ 2. De Vlaamse Regering kan in de volgende gevallen beslissen de procedure, vermeld in artikel 6, niet te volgen :<br />1° als er geologische redenen of redenen in verband met de opsporing of winning zijn om de vergunning voor een gebied bij voorkeur aan de houder van een vergunning voor een aangrenzend gebied toe te kennen. In dat geval worden de houders van vergunningen voor eventuele andere aangrenzende gebieden uitgenodigd om binnen een termijn van negentig dagen eveneens een aanvraag in te dienen of hun opmerkingen mee te delen;<br />2° als de aanvraag betrekking heeft op een gebied waarvoor op dat ogenblik al een opslagvergunning in het kader van hoofdstuk III of een vergunning in het kader van de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ voor het opslaan van gas is verleend.<br /><br />
+§ 1. In de volgende gevallen wordt de procedure, vermeld in artikel 6, niet gevolgd :<br>
+1° als de houder van een opsporingsvergunning voor koolwaterstoffen die met gebruikmaking van die vergunning de aanwezigheid van koolwaterstoffen heeft aangetoond, gedurende de geldigheidsduur van die vergunning, voor hetzelfde volumegebied of gedeelten daarvan een aanvraag voor een winningsvergunning voor koolwaterstoffen&nbsp;indient. Als de aanwezigheid van koolwaterstoffen maar in een deel van het vergunde volumegebied is aangetoond, kan de winningsvergunning voor koolwaterstoffen&nbsp;beperkt worden tot dat deel van het volumegebied. In afwijking van artikel 11, § 1, blijft de opsporingsvergunning voor koolwaterstoffen, voor zover ze betrekking heeft op het aangevraagde volumegebied, in elk geval gelden tot wanneer de beslissing over de aanvraag voor de winningsvergunning voor koolwaterstoffen onherroepelijk wordt;<br>
+2° als de aanvraag betrekking heeft op een&nbsp;volumegebied waarvoor op dat ogenblik al een soortgelijke vergunning in het kader van dit hoofdstuk of een opsporingsvergunning voor koolstofdioxideopslag in het kader van hoofdstuk III is verleend;<br>
+3° als de aanvraag betrekking heeft op een&nbsp;volumegebied dat de Vlaamse Regering niet wil openstellen voor de opsporing of de winning van koolwaterstoffen;<br>
+4° tijdens de eerste twee jaar na de datum van inwerkingtreding van dit decreet, als het een aanvraag overeenkomstig artikel 34, § 2, betreft.<br>
+<br>
+§ 2. De Vlaamse Regering kan in de volgende gevallen beslissen de procedure, vermeld in artikel 6, niet te volgen :<br>
+1° als er geologische redenen of redenen in verband met de opsporing of winning zijn om de vergunning voor een volumegebied bij voorkeur aan de houder van een vergunning voor een aangrenzend volumegebied toe te kennen. In dat geval worden de houders van vergunningen voor eventuele andere aangrenzende volumegebieden uitgenodigd om binnen een termijn van negentig dagen eveneens een aanvraag in te dienen of hun opmerkingen mee te delen;<br>
+2° als de aanvraag betrekking heeft op een volumegebied waarvoor op dat ogenblik al een opslagvergunning in het kader van hoofdstuk III, een opsporings- of winningsvergunning voor aardwarmte in het kader van hoofdstuk III/1, een vergunning voor de ondergrondse berging van radioactief afval of een vergunning in het kader van de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ voor het opslaan van gas is verleend.<br>
+&nbsp;
 
 ### ART. 8.
 
@@ -44,27 +115,71 @@ De Vlaamse Regering kan ook op eigen initiatief beslissen een uitnodiging tot he
 
 ### ART. 9.
 
-Een vergunning wordt niet verleend in de volgende gevallen : <br />1° als de aanvraag slaat op een gebied waarvoor op dat ogenblik al een soortgelijke vergunning in het kader van dit hoofdstuk is verleend;<br />2° als de aanvraag slaat op een gebied waarvoor op dat ogenblik al een opsporingsvergunning voor koolstofdioxideopslag in het kader van hoofdstuk III is verleend;<br />3° als de aanvraag slaat op een gebied dat de Vlaamse Regering niet wil openstellen voor de opsporing of de winning van koolwaterstoffen;<br />4° als de aanvraag voor een winningsvergunning gebeurt op basis van opsporingsresultaten verkregen in strijd met artikel 5, § 2.<br />Een vergunning kan onder meer geweigerd worden in de volgende gevallen : <br />1° als de aanvraag slaat op een gebied waarvoor al een opslagvergunning in het kader van hoofdstuk III of een vergunning in het kader van de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ voor het opslaan van gas is verleend;<br />2° als de Vlaamse Regering dat opportuun acht vanuit overwegingen van nationale veiligheid, omdat een staat van buiten de Europese Economische Ruimte of een onderdaan of rechtspersoon daarvan feitelijk zeggenschap heeft over de aanvrager;<br />3° als het niet aannemelijk is dat de opsporing of de winning van de koolwaterstoffen binnen het gebied waarvoor de vergunning zal gelden, economisch of technisch haalbaar is.<br /><br />
+Een vergunning wordt niet verleend in de volgende gevallen :<br>
+1° als de aanvraag slaat op een volumegebied waarvoor op dat ogenblik al een soortgelijke vergunning in het kader van dit hoofdstuk is verleend;<br>
+2° als de aanvraag slaat op een volumegebied waarvoor op dat ogenblik al een opsporingsvergunning voor koolstofdioxideopslag in het kader van hoofdstuk III is verleend;<br>
+3° als de aanvraag slaat op een volumegebied dat de Vlaamse Regering niet wil openstellen voor de opsporing of de winning van koolwaterstoffen;<br>
+4° als de aanvraag voor een winningsvergunning voor koolwaterstoffen&nbsp;gebeurt op basis van opsporingsresultaten verkregen in strijd met artikel 5, § 2.<br>
+<br>
+Een vergunning kan onder meer geweigerd worden in de volgende gevallen :<br>
+1° als de aanvraag slaat op een volumegebied waarvoor al een opslagvergunning in het kader van hoofdstuk III, een opsporings- of winningsvergunning voor aardwarmte in het kader van hoofdstuk III/1, een vergunning voor de ondergrondse berging van radioactief afval of een vergunning in het kader van de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ voor het opslaan van gas is verleend;<br>
+2° als de Vlaamse Regering dat opportuun acht vanuit overwegingen van nationale veiligheid, omdat een staat van buiten de Europese Economische Ruimte of een onderdaan of rechtspersoon daarvan feitelijk zeggenschap heeft over de aanvrager;<br>
+3° als het niet aannemelijk is dat de opsporing of de winning van de koolwaterstoffen binnen het volumegebied waarvoor de vergunning zal gelden, economisch of technisch haalbaar is.<br>
+&nbsp;
 
 ### ART. 10.
 
-Met behoud van de toepassing van artikel 9 worden de vergunningsaanvragen beoordeeld op basis van de volgende criteria : <br />1° de technische en financiële mogelijkheden van de aanvrager;<br />2° de manier waarop de aanvrager zich voorneemt de activiteiten waarvoor de vergunning wordt aangevraagd, te verrichten;<br />3° in voorkomend geval, het eventuele gebrek aan efficiëntie en verantwoordelijkheidszin waarvan de aanvrager in het kader van een eerdere vergunning blijk heeft gegeven;<br />4° in voorkomend geval, de activiteiten die de aanvrager in het verleden verricht heeft in het gebied waarop de aanvraag betrekking heeft, of de vroegere vergunningen waarvan de aanvrager houder was in dat gebied;<br />5° in voorkomend geval, de eventuele interferentie met andere al vergunde activiteiten in de ondergrond;<br />6° de milieu-impact van de voorgenomen activiteiten;<br />7° als toepassing gemaakt werd van artikel 6, § 1, derde lid, de voorkeur voor individuele natuurlijke personen of rechtspersonen;<br />8° als de procedure overeenkomstig artikel 8 gevolgd wordt, de vergoeding die de aanvrager bereid is te betalen aan het Vlaamse Gewest overeenkomstig artikel 27;<br />9° als een keuze gemaakt moet worden uit verschillende aanvragen die na een beoordeling op basis van de criteria, vermeld in punten 1° tot en met 8°, gelijkwaardig zijn gebleken, de noodzaak om de koolwaterstoffen op een rationele en efficiënte manier op te sporen of te winnen, de milieuvriendelijkheid van de voorgenomen technieken, de mate van marktconcentratie, de tewerkstelling en het economische belang.<br /><br />De criteria, vermeld in het eerste lid, kunnen eveneens een grond tot weigering van de vergunning uitmaken. <br /><br />De Vlaamse Regering kan nadere regels uitwerken voor de criteria, vermeld in het eerste lid.<br /><br />
+Met behoud van de toepassing van artikel 9 worden de vergunningsaanvragen beoordeeld op basis van de volgende criteria :<br>
+1° de technische en financiële mogelijkheden van de aanvrager;<br>
+2° de manier waarop de aanvrager zich voorneemt de activiteiten waarvoor de vergunning wordt aangevraagd, te verrichten;<br>
+3° in voorkomend geval, het eventuele gebrek aan efficiëntie en verantwoordelijkheidszin waarvan de aanvrager in het kader van een eerdere vergunning blijk heeft gegeven;<br>
+4° in voorkomend geval, de activiteiten die de aanvrager in het verleden verricht heeft in het volumegebied waarop de aanvraag betrekking heeft, of de vroegere vergunningen waarvan de aanvrager houder was in dat volumegebied;<br>
+5° in voorkomend geval, de eventuele interferentie met andere al vergunde activiteiten in de ondergrond;<br>
+6° de milieu-impact van de voorgenomen activiteiten;<br>
+7° als toepassing gemaakt werd van artikel 6, § 1, derde lid, de voorkeur voor individuele natuurlijke personen of rechtspersonen;<br>
+8° als de procedure overeenkomstig artikel 8 gevolgd wordt, de vergoeding die de aanvrager bereid is te betalen aan het Vlaamse Gewest overeenkomstig artikel 27;<br>
+9° als een keuze gemaakt moet worden uit verschillende aanvragen die na een beoordeling op basis van de criteria, vermeld in punten 1° tot en met 8°, gelijkwaardig zijn gebleken, de noodzaak om de koolwaterstoffen op een rationele en efficiënte manier op te sporen of te winnen, de milieuvriendelijkheid van de voorgenomen technieken, de mate van marktconcentratie, de tewerkstelling en het economische belang.<br>
+<br>
+De criteria, vermeld in het eerste lid, kunnen eveneens een grond tot weigering van de vergunning uitmaken.<br>
+<br>
+De Vlaamse Regering kan nadere regels uitwerken voor de criteria, vermeld in het eerste lid.<br>
+&nbsp;
 
 ## Onderafdeling III Vergunningsvoorwaarden
 
 ### ART. 11.
 
-§ 1. Een vergunning geeft de duur aan waarvoor ze geldt. Met behoud van de toepassing van artikel 19, § 2, bedraagt de geldigheidsduur van de vergunning niet langer dan noodzakelijk is om de activiteiten waarvoor de vergunning is verleend, op een behoorlijke wijze te verrichten.<br /><br />§ 2. Een vergunning geeft aan voor welk gebied ze geldt. Het gebied wordt zo afgebakend dat de uitoefening van de activiteiten waarvoor de vergunning is verleend, vanuit technisch en economisch oogpunt op zo goed mogelijke wijze kan plaatsvinden. Tenzij de vergunning het anders bepaalt, wordt het gebied gevormd door het aangegeven aardoppervlak en de ondergrond daarvan vanaf een diepte van 100 meter.<br /><br />Als een winningsvergunning geldt voor een gebied waarin koolwaterstoffen voorkomen waarvan redelijkerwijs kan worden aangenomen dat het de grens van het vergunningsgebied overschrijdt, is de vergunninghouder verplicht om zijn medewerking te verlenen aan de totstandkoming van een overeenkomst met de vergunninghouder voor het aangrenzende gebied, tenzij de Vlaamse Regering ontheffing verleent van de verplichting om een overeenkomst te sluiten. De overeenkomst strekt ertoe dat de winning in onderlinge overeenstemming plaatsvindt, en kan bepalen dat de concrete realisatie van de winning maar door een van hen wordt uitgevoerd. Voor de overeenkomst en alle latere wijzigingen ervan is de goedkeuring van de Vlaamse Regering noodzakelijk.<br /><br />
+§ 1. Een vergunning geeft de duur aan waarvoor ze geldt. Met behoud van de toepassing van artikel 19, § 2, bedraagt de geldigheidsduur van de vergunning niet langer dan noodzakelijk is om de activiteiten waarvoor de vergunning is verleend, op een behoorlijke wijze te verrichten.<br>
+<br>
+§ 2. Een vergunning geeft aan voor welk volumegebied ze geldt, en welke verticale projectie op het aardoppervlak daarmee overeenstemt. Het vergunningsgebied en de daarmee overeenstemmende verticale projectie op het aardoppervlak worden zo afgebakend dat de uitoefening van de activiteiten waarvoor de vergunning is verleend, vanuit technisch en economisch oogpunt op zo goed mogelijke wijze kan plaatsvinden.<br>
+<br>
+Als een winningsvergunning voor koolwaterstoffen na de verlening ervan blijkt te gelden voor een volumegebied waarin zich een voorkomen met koolwaterstoffen bevindt waarvan redelijkerwijs kan worden aangenomen dat het de grens van het vergunningsgebied overschrijdt, is de vergunninghouder verplicht om zijn medewerking te verlenen aan de totstandkoming van een overeenkomst met de voor het aangrenzende volumegebied tot het winnen van koolwaterstoffen gerechtigde en, als artikel 63/8, § 1, toepassing vindt, met de voor het aangrenzende volumegebied tot het winnen van aardwarmte gerechtigde, tenzij de Vlaamse Regering ontheffing verleent van de verplichting om een overeenkomst te sluiten. De overeenkomst strekt ertoe dat de winning van de koolwaterstoffen&nbsp;in onderlinge overeenstemming plaatsvindt, en kan bepalen dat de concrete realisatie van de winning maar door een van hen wordt uitgevoerd. Voor de overeenkomst en alle latere wijzigingen ervan is de goedkeuring van de Vlaamse Regering noodzakelijk.<br>
+<br>
+§ 3. De Vlaamse Regering kan bijzondere vergunningsvoorwaarden opnemen in opsporings- en winningsvergunningen voor koolwaterstoffen.<br>
+&nbsp;
 
 ### ART. 12.
 
-§ 1. Een winningsvergunning geldt eveneens voor andere stoffen die   onvermijdelijk meekomen met de winning van koolwaterstoffen.<BR><BR>Een   winningsvergunning geeft het tarief aan van de jaarlijkse vergoeding die de   vergunninghouder overeenkomstig artikel 27 aan het Vlaamse Gewest verschuldigd   is, in voorkomend geval onderverdeeld per type koolwaterstof.<BR><BR>§ 2. Een   opsporingsvergunning voor koolwaterstoffen geeft aan binnen welke periode nadat   de vergunning onherroepelijk is geworden, de opsporingsactiviteiten of   verkenningsonderzoeken, vermeld in de vergunning, moeten worden   verricht.<BR><BR>Een opsporingsvergunning voor koolwaterstoffen geeft aan onder   welke voorwaarden koolwaterstoffen als monsters of formatiebeproevingen aan de   ondergrond onttrokken mogen worden.<BR><BR>
+§ 1. Een winningsvergunning voor koolwaterstoffen geldt eveneens voor andere stoffen en aardwarmte die onvermijdelijk meekomen met de winning van koolwaterstoffen.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor het winnen van andere stoffen en aardwarmte die onvermijdelijk meekomen met de winning van koolwaterstoffen.<br>
+<br>
+Een winningsvergunning voor koolwaterstoffen&nbsp;geeft het tarief aan van de jaarlijkse vergoeding die de vergunninghouder overeenkomstig artikel 27 aan het Vlaamse Gewest verschuldigd is, in voorkomend geval onderverdeeld per type koolwaterstof.<br>
+<br>
+§ 2. Een opsporingsvergunning voor koolwaterstoffen geeft aan binnen welke periode nadat de vergunning onherroepelijk is geworden, de opsporingsactiviteiten of verkenningsonderzoeken, vermeld in de vergunning, moeten worden verricht.<br>
+<br>
+Een opsporingsvergunning voor koolwaterstoffen geeft aan onder welke voorwaarden koolwaterstoffen als monsters of formatiebeproevingen aan de ondergrond onttrokken mogen worden.<br>
+&nbsp;
 
 ## Onderafdeling IV Verplichtingen van de vergunninghouders
 
 ### ART. 13.
 
-De houder of laatste houder van een vergunning neemt alle maatregelen die redelijkerwijs van hem verwacht kunnen worden om te voorkomen dat de activiteiten waarop de vergunning slaat : <br />1° milieuverstoring veroorzaken;<br />2° schade door bodembeweging veroorzaken;<br />3° de openbare veiligheid schaden;<br />4° het belang van een planmatig beheer van de koolwaterstofvoorraden schaden.<br /><br />
+De houder of laatste houder van een vergunning neemt alle maatregelen die redelijkerwijs van hem verwacht kunnen worden om te voorkomen dat de activiteiten waarop de vergunning slaat :<br>
+1° milieuverstoring veroorzaken;<br>
+2° schade door bodembeweging veroorzaken;<br>
+3° de openbare veiligheid schaden;<br>
+4° het planmatige beheer van de koolwaterstofvoorraden en van andere toepassingen in de ondergrond verstoren.
 
 ### ART. 14.
 
@@ -72,7 +187,14 @@ De houder van een vergunning deelt elke substantiële wijziging in een vergunnin
 
 ### ART. 15.
 
-§ 1. Koolwaterstoffen worden gewonnen overeenkomstig een winningsplan, waarvoor de goedkeuring van de Vlaamse Regering noodzakelijk is. Het winningsplan is gebaseerd op de resultaten die voortvloeien uit het onderzoek in het kader van een voorafgaande opsporingsvergunning voor koolwaterstoffen. <br /><br />Het is verboden om koolwaterstoffen te winnen voor men over een door de Vlaamse Regering goedgekeurd winningsplan beschikt, of op een wijze die substantieel afwijkt van het door de Vlaamse Regering goedgekeurde winningsplan.<br /><br />Als dat noodzakelijk is voor een efficiënte winning van de koolwaterstoffen, kan het winningsplan op initiatief van de vergunninghouder gewijzigd of geactualiseerd worden. Voor het gewijzigde of geactualiseerde winningsplan is opnieuw de goedkeuring van de Vlaamse Regering noodzakelijk.<br /><br />§ 2. De Vlaamse Regering bepaalt nadere regels voor de inhoud en de goedkeuringsprocedure van het winningsplan.<br /><br />
+§ 1. Koolwaterstoffen worden gewonnen overeenkomstig een winningsplan voor koolwaterstoffen, waarvoor de goedkeuring van de Vlaamse Regering noodzakelijk is. Het winningsplan voor koolwaterstoffen&nbsp;is gebaseerd op de resultaten die voortvloeien uit het onderzoek in het kader van een voorafgaande opsporingsvergunning voor koolwaterstoffen.<br>
+<br>
+Het is verboden om koolwaterstoffen te winnen voor men over een door de Vlaamse Regering goedgekeurd winningsplan voor koolwaterstoffen&nbsp;beschikt, of op een wijze die substantieel afwijkt van het door de Vlaamse Regering goedgekeurde winningsplan voor koolwaterstoffen.<br>
+<br>
+Als dat noodzakelijk is voor een efficiënte winning van de koolwaterstoffen, kan het winningsplan voor koolwaterstoffen&nbsp;op initiatief van de vergunninghouder gewijzigd of geactualiseerd worden. Voor het gewijzigde of geactualiseerde winningsplan voor koolwaterstoffen&nbsp;is opnieuw de goedkeuring van de Vlaamse Regering noodzakelijk.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt nadere regels voor de inhoud en de goedkeuringsprocedure van het winningsplan voor koolwaterstoffen.<br>
+&nbsp;
 
 ### ART. 16.
 
@@ -80,17 +202,40 @@ De houder van een vergunning dient jaarlijks met een aangetekende brief een rapp
 
 ### ART. 17.
 
-De houder of laatste houder van een winningsvergunning verricht voor de aanvang van het winnen van koolwaterstoffen, tijdens het winnen en tot dertig jaar na het beëindigen van het winnen metingen om de kans op bodembeweging in te schatten als gevolg van het winnen van koolwaterstoffen. De Vlaamse Regering kan, als daar aanleiding toe bestaat, de termijn van dertig jaar inkorten of verlengen, met dien verstande dat inkorting enkel mogelijk is indien uit alle beschikbare gegevens blijkt dat de kans op bodembeweging verwaarloosbaar klein is.<br /><br />De Vlaamse Regering bepaalt nadere regels voor die metingen en de rapportage over de resultaten daarvan.<br /><br />
+De houder of laatste houder van een winningsvergunning voor koolwaterstoffen verricht voor de aanvang van het winnen van koolwaterstoffen, tijdens het winnen en tot dertig jaar na het beëindigen van het winnen metingen om de kans op bodembeweging in te schatten als gevolg van het winnen van koolwaterstoffen. De Vlaamse Regering kan, als daar aanleiding toe bestaat, de termijn van dertig jaar inkorten of verlengen, met dien verstande dat inkorting enkel mogelijk is indien uit alle beschikbare gegevens blijkt dat de kans op bodembeweging verwaarloosbaar klein is.<br>
+<br>
+De Vlaamse Regering bepaalt nadere regels voor die metingen en de rapportage over de resultaten daarvan.<br>
+&nbsp;
 
 ### ART. 18.
 
-Met behoud van de toepassing van artikel 33 en met inachtneming van de resultaten van de metingen, vermeld in artikel 17, kan de Vlaamse Regering de houder of laatste houder van een winningsvergunning verplichten om een financiële zekerheid te stellen voor het dekken van de aansprakelijkheid voor de schade waarvan vermoed wordt dat ze kan ontstaan door bodembeweging als gevolg van het winnen van koolwaterstoffen.<br /><br />Met behoud van de toepassing van artikel 33 kan de Vlaamse Regering ook de houder of laatste houder van een opsporingsvergunning voor koolwaterstoffen verplichten om een financiële zekerheid te stellen voor het dekken van de aansprakelijkheid voor de schade waarvan vermoed wordt dat ze kan ontstaan door bodembeweging als gevolg van het opsporen van koolwaterstoffen. <br /><br />Als toepassing gemaakt wordt van artikel 32, kan de Vlaamse Regering de houder of laatste houder van een opsporingsvergunning voor koolwaterstoffen of winningsvergunning verplichten om een financiële zekerheid te stellen voor het dekken van de kosten die gepaard gaan met de verwijdering, overeenkomstig artikel 32, § 3, van alle door zijn toedoen opgetrokken gebouwen en installaties.<br /><br />De Vlaamse Regering bepaalt het bedrag en de termijn waarvoor en het tijdstip en de wijze waarop een financiële zekerheid gesteld moet worden.<br /><br />
+Met behoud van de toepassing van artikel 33 en met inachtneming van de resultaten van de metingen, vermeld in artikel 17, kan de Vlaamse Regering de houder of laatste houder van een winningsvergunning voor koolwaterstoffen verplichten om een financiële zekerheid te stellen voor het dekken van de aansprakelijkheid voor de schade waarvan vermoed wordt dat ze kan ontstaan door bodembeweging als gevolg van het winnen van koolwaterstoffen.<br>
+<br>
+Met behoud van de toepassing van artikel 33 kan de Vlaamse Regering ook de houder of laatste houder van een opsporingsvergunning voor koolwaterstoffen verplichten om een financiële zekerheid te stellen voor het dekken van de aansprakelijkheid voor de schade waarvan vermoed wordt dat ze kan ontstaan door bodembeweging als gevolg van het opsporen van koolwaterstoffen.<br>
+<br>
+Als toepassing gemaakt wordt van artikel 32, kan de Vlaamse Regering de houder of laatste houder van&nbsp;een opsporings- of winningsvergunning voor koolwaterstoffen verplichten om een financiële zekerheid te stellen voor het dekken van de kosten die gepaard gaan met de verwijdering, overeenkomstig artikel 32, § 3, van alle door zijn toedoen opgetrokken gebouwen en installaties.<br>
+<br>
+De Vlaamse Regering kan de houder van een opsporings- of winningsvergunning voor koolwaterstoffen verplichten om vóór het aanleggen van boorgaten een financiële zekerheid te stellen om de kosten te dekken die gepaard gaan met het veilig afsluiten van de aangelegde boorgaten.<br>
+<br>
+De Vlaamse Regering bepaalt het bedrag en de termijn waarvoor en het tijdstip en de wijze waarop een financiële zekerheid gesteld moet worden.<br>
+&nbsp;
 
 ## Onderafdeling V Wijziging, overdracht, intrekking, schorsing en afstand van de vergunning
 
 ### ART. 19.
 
-§ 1. Een vergunning kan op verzoek van de houder of ambtshalve door de Vlaamse Regering gewijzigd worden. <br /><br />Een vergunning kan niet in die mate worden gewijzigd dat ze voor een andere activiteit of een groter gebied geldt.<br /><br />§ 2. Een aanvraag tot verlenging van de geldigheidsduur van een vergunning kan alleen worden ingewilligd als de geldigheidsduur van de oorspronkelijke vergunning onvoldoende is gebleken om de activiteiten waarvoor de vergunning geldt, op een behoorlijke wijze te verrichten, en als die activiteiten verricht zijn in overeenstemming met de vergunning en er niet substantieel is afgeweken van het winningsplan. De verlenging duurt op haar beurt niet langer dan noodzakelijk is om de activiteiten waarvoor de vergunning is verleend, op een behoorlijke wijze te verrichten.<br /><br />In het besluit van de Vlaamse Regering waarin de geldigheidsduur van de vergunning wordt verlengd, kan een beperking worden opgenomen van het oorspronkelijk vergunde gebied tot een deel daarvan. Artikel 11, § 2, is van overeenkomstige toepassing.<br /><br />§ 3. Een aanvraag tot verkleining van het gebied waarvoor een vergunning geldt, kan alleen worden ingewilligd met inachtneming van de voorschriften, vermeld in artikel 11, § 2.<br /><br />Het besluit van de Vlaamse Regering waarbij het gebied waarvoor de vergunning geldt, verkleind wordt, kan gepaard gaan met een beperking van de oorspronkelijke geldigheidsduur van de vergunning, op voorwaarde dat de nieuwe geldigheidsduur voldoende is om de activiteiten waarvoor de vergunning geldt, op een behoorlijke wijze te verrichten.<br /><br />
+§ 1. Een vergunning kan op verzoek van de houder of ambtshalve door de Vlaamse Regering gewijzigd worden.<br>
+<br>
+Een vergunning kan niet in die mate worden gewijzigd dat ze voor een andere activiteit of een groter volumegebied geldt.<br>
+<br>
+§ 2. Een aanvraag tot verlenging van de geldigheidsduur van een vergunning kan alleen worden ingewilligd als de geldigheidsduur van de oorspronkelijke vergunning onvoldoende is gebleken om de activiteiten waarvoor de vergunning geldt, op een behoorlijke wijze te verrichten, en als die activiteiten verricht zijn in overeenstemming met de vergunning en dit decreet en er, als het een winningsvergunning voor koolwaterstoffen betreft, niet is afgeweken van het winningsplan voor koolwaterstoffen. De verlenging duurt op haar beurt niet langer dan noodzakelijk is om de activiteiten waarvoor de vergunning is verleend, op een behoorlijke wijze te verrichten.<br>
+<br>
+In het besluit van de Vlaamse Regering waarin de geldigheidsduur van de vergunning wordt verlengd, kan een beperking worden opgenomen van het oorspronkelijk vergunde volumegebied tot een deel daarvan. Artikel 11, § 2, is van overeenkomstige toepassing.<br>
+<br>
+§ 3. Een aanvraag tot verkleining van het volumegebied waarvoor een vergunning geldt, kan alleen worden ingewilligd met inachtneming van de voorschriften, vermeld in artikel 11, § 2.<br>
+<br>
+Het besluit van de Vlaamse Regering waarbij het volumegebied waarvoor de vergunning geldt, verkleind wordt, kan gepaard gaan met een beperking van de oorspronkelijke geldigheidsduur van de vergunning, op voorwaarde dat de nieuwe geldigheidsduur voldoende is om de activiteiten waarvoor de vergunning geldt, op een behoorlijke wijze te verrichten.<br>
+&nbsp;
 
 ### ART. 20.
 
@@ -98,11 +243,34 @@ Een vergunning kan pas worden overgedragen, inclusief het overdragen dat volgt u
 
 ### ART. 21.
 
-§ 1. Een vergunning kan alleen in de volgende gevallen door de Vlaamse Regering worden ingetrokken : <br />1° als de bij de aanvraag verstrekte gegevens in die mate onjuist of onvolledig blijken te zijn dat de Vlaamse Regering op basis van de juiste of volledige gegevens tot een ander besluit gekomen zou zijn bij de beoordeling van de aanvraag;<br />2° als dat wordt gerechtvaardigd door een substantiële wijziging in een vergunningscriterium;<br />3° als de activiteiten niet overeenkomstig de vergunning zijn uitgevoerd of als substantieel van het winningsplan is afgeweken;<br />4° als de activiteiten gedurende minstens twee opeenvolgende jaren hebben stilgelegen;<br />5° als de houder van een winningsvergunning nagelaten heeft zijn jaarlijkse vergoeding aan het Vlaamse Gewest te betalen overeenkomstig artikel 27;<br />6° als de vergunning niet langer noodzakelijk is voor de goede uitvoering van de activiteiten waarvoor ze is verleend;<br />7° als de uitvoering van de vergunning interfereert met andere vergunde activiteiten in de diepe ondergrond.<br /><br />§ 2. Voor de Vlaamse Regering kan overgaan tot intrekking van een vergunning, stuurt ze een ingebrekestelling aangetekend naar de vergunninghouder. De ingebrekestelling bevat een omschrijving van de redenen voor de geplande intrekking en de vermelding van een termijn van ten minste negentig dagen waarin de vergunninghouder uitleg kan verschaffen, bezwaar kan aantekenen, of zijn activiteiten in overeenstemming kan brengen met de vergunning en, als het een winningsvergunning betreft, met het winningsplan.<br /><br />Binnen een termijn van negentig dagen na het verstrijken van de termijn, vermeld in het eerste lid, neemt de Vlaamse Regering een besluit over het al dan niet intrekken van de vergunning.<br /><br />
+§ 1. Een vergunning kan alleen in de volgende gevallen door de Vlaamse Regering worden ingetrokken :<br>
+1° als de bij de aanvraag verstrekte gegevens in die mate onjuist of onvolledig blijken te zijn dat de Vlaamse Regering op basis van de juiste of volledige gegevens tot een ander besluit gekomen zou zijn bij de beoordeling van de aanvraag;<br>
+2° als dat wordt gerechtvaardigd door een substantiële wijziging in een vergunningscriterium;<br>
+3° als de&nbsp;opsporings- of winningsactiviteiten niet overeenkomstig de vergunning of dit decreet zijn uitgevoerd of als substantieel van het winningsplan voor koolwaterstoffen is afgeweken;<br>
+4° als de&nbsp;opsporings- of winningsactiviteiten gedurende minstens twee opeenvolgende jaren hebben stilgelegen;<br>
+5° als de houder van een winningsvergunning voor koolwaterstoffen nagelaten heeft zijn jaarlijkse vergoeding aan het Vlaamse Gewest te betalen overeenkomstig artikel 27;<br>
+6° als de vergunning niet langer noodzakelijk is voor de goede uitvoering van de activiteiten waarvoor ze is verleend;<br>
+7° als de uitvoering van de vergunningop een ongunstige wijze&nbsp;interfereert met andere voordien vergunde activiteiten in de&nbsp;ondergrond.<br>
+<br>
+§ 2. Voor de Vlaamse Regering kan overgaan tot intrekking van een vergunning, stuurt ze een ingebrekestelling aangetekend naar de vergunninghouder. De ingebrekestelling bevat een omschrijving van de redenen voor de geplande intrekking en de vermelding van een termijn van ten minste negentig dagen waarin de vergunninghouder uitleg kan verschaffen, bezwaar kan aantekenen, of zijn activiteiten in overeenstemming kan brengen met de vergunning, met dit decreet&nbsp;en, als het een winningsvergunning voor koolwaterstoffen betreft, met het winningsplan voor koolwaterstoffen.<br>
+<br>
+Binnen een termijn van negentig dagen na het verstrijken van de termijn, vermeld in het eerste lid, neemt de Vlaamse Regering een besluit over het al dan niet intrekken van de vergunning.<br>
+&nbsp;
 
 ### ART. 22.
 
-§ 1. De Vlaamse Regering kan een vergunning onder meer in de volgende gevallen geheel of gedeeltelijk schorsen : <br />1° als dat wordt gerechtvaardigd door een substantiële wijziging in een vergunningscriterium;<br />2° als de activiteiten niet overeenkomstig de vergunning zijn uitgevoerd of als substantieel is afgeweken van het winningsplan;<br />3° als de houder van een winningsvergunning nagelaten heeft zijn jaarlijkse vergoeding aan het Vlaamse Gewest te betalen overeenkomstig artikel 27;<br />4° als de uitvoering van de vergunning interfereert met andere vergunde activiteiten in de diepe ondergrond.<br /><br />§ 2. Voor de Vlaamse Regering kan overgaan tot een gehele of gedeeltelijke schorsing van een vergunning, stuurt ze een ingebrekestelling aangetekend naar de vergunninghouder. De ingebrekestelling bevat een omschrijving van de redenen voor de geplande schorsing en de vermelding van een termijn van ten minste vijf dagen waarin de vergunninghouder uitleg kan verschaffen, bezwaar kan aantekenen, of zijn activiteiten in overeenstemming kan brengen met de vergunning en, als het een winningsvergunning betreft, met het winningsplan.<br /><br />Zo spoedig mogelijk na het verstrijken van de termijn, vermeld in het eerste lid, neemt de Vlaamse Regering een besluit over het al dan niet schorsen van de vergunning. Een besluit tot volledige of gedeeltelijke schorsing van de vergunning vermeldt de voorwaarden waaraan de vergunninghouder moet voldoen om de schorsing ongedaan te maken. <br /><br />§ 3. Als de vergunninghouder heeft voldaan aan alle voorwaarden om de schorsing ongedaan te maken, neemt de Vlaamse Regering een besluit waarbij de schorsing van de vergunning wordt opgeheven.<br /><br />
+§ 1. De Vlaamse Regering kan een vergunning onder meer in de volgende gevallen geheel of gedeeltelijk schorsen :<br>
+1° als dat wordt gerechtvaardigd door een substantiële wijziging in een vergunningscriterium;<br>
+2° als de&nbsp;opsporings- of winningsactiviteiten niet overeenkomstig de vergunning of dit decreet zijn uitgevoerd of als substantieel is afgeweken van het winningsplan voor koolwaterstoffen;<br>
+3° als de houder van een winningsvergunning&nbsp;voor koolwaterstoffen nagelaten heeft zijn jaarlijkse vergoeding aan het Vlaamse Gewest te betalen overeenkomstig artikel 27;<br>
+4° als de uitvoering van de vergunning op een ongunstige wijze interfereert met andere voordien vergunde activiteiten in de&nbsp;ondergrond.<br>
+<br>
+§ 2. Voor de Vlaamse Regering kan overgaan tot een gehele of gedeeltelijke schorsing van een vergunning, stuurt ze een ingebrekestelling aangetekend naar de vergunninghouder. De ingebrekestelling bevat een omschrijving van de redenen voor de geplande schorsing en de vermelding van een termijn van ten minste vijf dagen waarin de vergunninghouder uitleg kan verschaffen, bezwaar kan aantekenen, of zijn activiteiten in overeenstemming kan brengen met de vergunning, met dit decreet&nbsp;en, als het een winningsvergunning voor koolwaterstoffen&nbsp;betreft, met het winningsplan voor koolwaterstoffen.<br>
+<br>
+Zo spoedig mogelijk na het verstrijken van de termijn, vermeld in het eerste lid, neemt de Vlaamse Regering een besluit over het al dan niet schorsen van de vergunning. Een besluit tot volledige of gedeeltelijke schorsing van de vergunning vermeldt de voorwaarden waaraan de vergunninghouder moet voldoen om de schorsing ongedaan te maken.<br>
+<br>
+§ 3. Als de vergunninghouder heeft voldaan aan alle voorwaarden om de schorsing ongedaan te maken, neemt de Vlaamse Regering een besluit waarbij de schorsing van de vergunning wordt opgeheven.<br>
+&nbsp;
 
 ### ART. 23.
 
@@ -114,7 +282,10 @@ De Vlaamse Regering kan nadere regels bepalen voor de procedure van een ambtshal
 
 ### ART. 25.
 
-Geen van de besluiten, vermeld in deze onderafdeling, heeft invloed op de aansprakelijkheid van de houder of laatste houder van de vergunning voor de vergoeding van de schade die is veroorzaakt door de activiteiten waarop de vergunning betrekking heeft of had.<br /><br />Van een besluit tot intrekking van de vergunning en van een besluit waarbij de afstand van een vergunning wordt goedgekeurd, wordt melding gemaakt in het Belgisch Staatsblad.<br /><br />
+Geen van de besluiten, vermeld in deze onderafdeling, heeft invloed op de aansprakelijkheid van de houder of laatste houder van de vergunning voor de vergoeding van de schade die is veroorzaakt door de activiteiten waarop de vergunning betrekking heeft of had.<br>
+<br>
+Van een besluit tot wijziging of intrekking van de vergunning en van een besluit waarbij de afstand van een vergunning wordt goedgekeurd, wordt melding gemaakt in het Belgisch Staatsblad.<br>
+&nbsp;
 
 ## Onderafdeling VI Bijzondere bepalingen
 
@@ -128,7 +299,18 @@ Afdeling I, met uitzondering van artikel 5, is niet van toepassing op het opspor
 
 ### ART. 27.
 
-§ 1. De houder van een winningsvergunning is jaarlijks een vergoeding verschuldigd aan het Vlaamse Gewest. <br /><br />§ 2. De Vlaamse Regering bepaalt het tarief van de jaarlijkse vergoeding bij het verlenen van de winningsvergunning. Het tarief bedraagt ten minste 2 % en ten hoogste 20 % van de gemiddelde marktwaarde van de in de voorbije winningsperiode gewonnen hoeveelheid koolwaterstoffen. Het tarief kan binnen een winningsvergunning variëren naargelang van het type koolwaterstof dat gewonnen wordt. <br /><br />Het tarief wordt in elk geval zo vastgesteld dat het onafhankelijke beheer van de vergunninghouder gewaarborgd blijft.<br /><br />Een winningsperiode start op de dag van het besluit van de Vlaamse Regering waarbij de winningsvergunning verleend is, en nadien op elke verjaardag daarvan, en duurt telkens één jaar.<br /><br />§ 3. Als toepassing wordt gemaakt van onderafdeling II, wordt het bedrag van de jaarlijkse vergoeding dat de vergunninghouder verschuldigd is, beperkt in verhouding tot de grootte van zijn belang in de deelneming.<br /><br />§ 4. De Vlaamse Regering bepaalt nadere regels voor de aangifte van de gewonnen hoeveelheid koolwaterstoffen, het tarief en de inning van de vergoeding.<br /><br />
+§ 1. De houder van een winningsvergunning voor koolwaterstoffen&nbsp;is jaarlijks een vergoeding verschuldigd aan het Vlaamse Gewest.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt het tarief van de jaarlijkse vergoeding bij het verlenen van de winningsvergunning voor koolwaterstoffen. Het tarief bedraagt ten minste 2 % en ten hoogste 20 % van de gemiddelde marktwaarde van de in de voorbije winningsperiode gewonnen hoeveelheid koolwaterstoffen. Het tarief kan binnen een winningsvergunning voor koolwaterstoffen variëren naargelang van het type koolwaterstof dat gewonnen wordt.<br>
+<br>
+Het tarief wordt in elk geval zo vastgesteld dat het onafhankelijke beheer van de vergunninghouder gewaarborgd blijft.<br>
+<br>
+Een winningsperiode start op de dag van het besluit van de Vlaamse Regering waarbij de winningsvergunning voor koolwaterstoffen verleend is, en nadien op elke verjaardag daarvan, en duurt telkens één jaar.<br>
+<br>
+§ 3. Als toepassing wordt gemaakt van onderafdeling II, wordt het bedrag van de jaarlijkse vergoeding dat de vergunninghouder verschuldigd is, beperkt in verhouding tot de grootte van zijn belang in de deelneming.<br>
+<br>
+§ 4. De Vlaamse Regering bepaalt nadere regels voor de aangifte van de gewonnen hoeveelheid koolwaterstoffen, het tarief en de inning van de vergoeding.<br>
+&nbsp;
 
 ### ART. 28.
 
@@ -158,17 +340,34 @@ In de overeenkomst worden bepalingen opgenomen die de vergunninghouder ertoe ver
 
 ### ART. 33.
 
-§ 1. Met behoud van de toepassing van artikel 35 is de houder of laatste houder van een opsporingsvergunning voor koolwaterstoffen of van een winningsvergunning van rechtswege verplicht elke schade te vergoeden die veroorzaakt werd door de activiteit waarop de vergunning betrekking heeft.<br /><br />Als de houder of laatste houder van een opsporingsvergunning voor koolwaterstoffen of van een winningsvergunning kan aantonen dat de vastgestelde schade geheel of gedeeltelijk veroorzaakt werd door een vorige vergunninghouder, door de voormalige houder van een overeenkomstig artikel 34, § 1, vervallen concessie, vergunning of andersoortige toestemming, of door de houder van een opsporingsvergunning voor koolstofdioxideopslag of opslagvergunning, verleend in het kader van hoofdstuk III, is die laatste van rechtswege verplicht om de schade te vergoeden die hij veroorzaakt heeft. <br /><br />§ 2. De vrederechter is bevoegd om het bedrag van de schadevergoeding vast te stellen, ongeacht de hoogte van het bedrag.<br /><br />
+§ 1. Met behoud van de toepassing van artikel 35 is de houder of laatste houder van een opsporings- of winningsvergunning voor koolwaterstoffen van rechtswege verplicht elke schade te vergoeden die veroorzaakt werd door de activiteit waarop de vergunning betrekking heeft.<br>
+<br>
+§ 2. De vrederechter is bevoegd om het bedrag van de schadevergoeding vast te stellen, ongeacht de hoogte van het bedrag.<br>
+&nbsp;
 
 ## Afdeling V Verhouding met oude concessies, vergunningen of andersoortige toestemmingen die verleend zijn in het kader van de gecoördineerde Mijnwetten
 
 ### ART. 34.
 
-§ 1. Alle concessies, vergunningen of andersoortige toestemmingen die in het kader van de gecoördineerde Mijnwetten zijn verleend, vervallen van rechtswege twee jaar na de datum van inwerkingtreding van dit decreet.<br /><br />Indien een vergunningsaanvraag wordt ingediend overeenkomstig § 2, eerste of tweede lid, en de Vlaamse Regering heeft binnen de periode, vermeld in § 1, eerste lid, over deze vergunningsaanvraag nog geen beslissing genomen, dan treedt het verval pas in op de dag van de beslissing van de Vlaamse Regering over de vergunningsaanvraag.<br /><br />§ 2. Tijdens de periode van twee jaar na de datum van inwerkingtreding van dit decreet kan de houder van een in de eerste paragraaf vermelde concessie, vergunning of andersoortige toestemming echter, voor zover ze betrekking heeft op de opsporing of de winning van koolwaterstoffen, voor het gebied waarop zijn concessie, vergunning of andersoortige toestemming betrekking heeft of voor een gedeelte daarvan, overeenkomstig de bepalingen van dit decreet een aanvraag voor een opsporingsvergunning indienen, zonder dat de procedure, vermeld in artikel 6, gevolgd wordt.<br /><br />In afwijking van artikel 5, § 2, eerste lid, kan de houder van een in de eerste paragraaf vermelde concessie, vergunning of andersoortige toestemming tijdens de in het eerste lid vermelde periode en voor het in het eerste lid vermelde gebied, overeenkomstig de bepalingen van dit decreet onmiddellijk een aanvraag voor een winningsvergunning indienen, zonder dat de procedure, vermeld in artikel 6, gevolgd wordt, op voorwaarde dat hij kan aantonen dat alle voor de winning vereiste informatie reeds voldoende gekend is. <br /><br />De bepalingen van het eerste lid van deze paragraaf zijn van overeenkomstige toepassing op eenieder die in de periode voor de bekendmaking van dit decreet in het Belgisch Staatsblad een vergunningsaanvraag heeft ingediend in het kader van het koninklijk besluit nr. 83 van 28 november 1939 betreffende het opsporen en het ontginnen van bitumineuze gesteenten, van petroleum en van brandbare gassen en van het besluit van de Vlaamse Regering van 23 juli 1997 houdende regeling van de vorm en de wijze van onderzoek van de aanvragen tot het verkrijgen van een vergunning voor het opsporen en het ontginnen van petroleum en brandbare gassen.<br /><br />§ 3. Tijdens de periode van twee jaar na de datum van inwerkingtreding van dit decreet kunnen, buiten de gevallen opgesomd in § 2, voor de gebieden die het voorwerp uitmaken van in het kader van de gecoördineerde Mijnwetten verleende concessies, vergunningen of andersoortige toestemmingen, voor zover ze betrekking hebben op de opsporing of de winning van koolwaterstoffen, geen aanvragen voor vergunningen in het kader van dit decreet worden ingediend.<br /><br />
+§ 1. Alle concessies, vergunningen of andersoortige toestemmingen die in het kader van de gecoördineerde Mijnwetten zijn verleend, vervallen van rechtswege twee jaar na de datum van inwerkingtreding van dit decreet.<br>
+<br>
+Indien een vergunningsaanvraag wordt ingediend overeenkomstig § 2, eerste of tweede lid, en de Vlaamse Regering heeft binnen de periode, vermeld in § 1, eerste lid, over deze vergunningsaanvraag nog geen beslissing genomen, dan treedt het verval pas in op de dag van de beslissing van de Vlaamse Regering over de vergunningsaanvraag.<br>
+<br>
+§ 2. Tijdens de periode van twee jaar na de datum van inwerkingtreding van dit decreet kan de houder van een in de eerste paragraaf vermelde concessie, vergunning of andersoortige toestemming echter, voor zover ze betrekking heeft op de opsporing of de winning van koolwaterstoffen, voor het gebied waarop zijn concessie, vergunning of andersoortige toestemming betrekking heeft of voor een gedeelte daarvan, overeenkomstig de bepalingen van dit decreet een aanvraag voor een opsporingsvergunning voor koolwaterstoffen indienen, zonder dat de procedure, vermeld in artikel 6, gevolgd wordt.<br>
+<br>
+In afwijking van artikel 5, § 2, eerste lid, kan de houder van een in de eerste paragraaf vermelde concessie, vergunning of andersoortige toestemming tijdens de in het eerste lid vermelde periode en voor het in het eerste lid vermelde gebied, overeenkomstig de bepalingen van dit decreet onmiddellijk een aanvraag voor een winningsvergunning voor koolwaterstoffen&nbsp;indienen, zonder dat de procedure, vermeld in artikel 6, gevolgd wordt, op voorwaarde dat hij kan aantonen dat alle voor de winning vereiste informatie reeds voldoende gekend is.<br>
+<br>
+De bepalingen van het eerste lid van deze paragraaf zijn van overeenkomstige toepassing op eenieder die in de periode voor de bekendmaking van dit decreet in het Belgisch Staatsblad een vergunningsaanvraag heeft ingediend in het kader van het koninklijk besluit nr. 83 van 28 november 1939 betreffende het opsporen en het ontginnen van bitumineuze gesteenten, van petroleum en van brandbare gassen en van het besluit van de Vlaamse Regering van 23 juli 1997 houdende regeling van de vorm en de wijze van onderzoek van de aanvragen tot het verkrijgen van een vergunning voor het opsporen en het ontginnen van petroleum en brandbare gassen.<br>
+<br>
+§ 3. Tijdens de periode van twee jaar na de datum van inwerkingtreding van dit decreet kunnen, buiten de gevallen opgesomd in § 2, voor de gebieden die het voorwerp uitmaken van in het kader van de gecoördineerde Mijnwetten verleende concessies, vergunningen of andersoortige toestemmingen, voor zover ze betrekking hebben op de opsporing of de winning van koolwaterstoffen, geen aanvragen voor vergunningen in het kader van dit decreet worden ingediend.<br>
+&nbsp;
 
 ### ART. 35.
 
-Met behoud van de toepassing van artikelen 33 en 62 blijft de voormalige houder van een overeenkomstig artikel 34, § 1, vervallen concessie, vergunning of andersoortige toestemming, of, in voorkomend geval, de nv Mijnschade en Bemaling Limburgs Mijngebied als die de aansprakelijkheid voor mijnschade heeft overgenomen in het kader van het decreet van 19 december 1997, van rechtswege verplicht elke schade te vergoeden die veroorzaakt werd door de activiteiten waarop de vervallen concessie, vergunning of andersoortige toestemming betrekking had.<br /><br />De vrederechter is bevoegd om het bedrag van de schadevergoeding vast te stellen, ongeacht de hoogte van het bedrag.<br /><br />
+Met behoud van de toepassing van artikel 33, 62 en 63/25 blijft de voormalige houder van een overeenkomstig artikel 34, § 1, vervallen concessie, vergunning of andersoortige toestemming, of, in voorkomend geval, de nv Mijnschade en Bemaling Limburgs Mijngebied als die de aansprakelijkheid voor mijnschade heeft overgenomen in het kader van het decreet van 19 december 1997, van rechtswege verplicht elke schade te vergoeden die veroorzaakt werd door de activiteiten waarop de vervallen concessie, vergunning of andersoortige toestemming betrekking had.<br>
+<br>
+De vrederechter is bevoegd om het bedrag van de schadevergoeding vast te stellen, ongeacht de hoogte van het bedrag.<br>
+&nbsp;
 
 ### ART. 36.
 
@@ -186,7 +385,34 @@ De milieuveilige geologische opslag van koolstofdioxide heeft als doel bij te dr
 
 ### ART. 38.
 
-§ 1. Een geologische formatie kan enkel als opslaglocatie worden aangeduid   nadat er opsporingswerkzaamheden uitgevoerd zijn om het potentieel van de   geologische formatie te beoordelen als opslaglocatie voor   koolstofdioxide.<BR><BR>Potentiële opslaglocaties kunnen alleen opgespoord   worden met een opsporingsvergunning voor koolstofdioxideopslag van de Vlaamse   Regering. Zo nodig kan de monitoring van de injectietests in de   opsporingsvergunning voor koolstofdioxideopslag worden opgenomen.<BR><BR>De   Vlaamse Regering bepaalt de nadere regels voor de aanvraagprocedure om een   opsporingsvergunning voor koolstofdioxideopslag te verkrijgen, en de vormelijke   en inhoudelijke voorwaarden waaraan een dergelijke aanvraag moet   voldoen.<BR><BR>§ 1/1. Een opsporingsvergunning voor koolstofdioxideopslag wordt   uitsluitend verleend als uit de ingediende aanvraag en uit alle andere relevante   informatie blijkt dat aan de volgende voorwaarden is voldaan:<BR>1° de aanvraag   voldoet aan alle vereisten, vermeld in dit hoofdstuk, en aan alle andere   toepasselijke regelgeving;<BR>2° de aanvrager is financieel solide en technisch   bekwaam en betrouwbaar om de opsporingswerkzaamheden uit te voeren, en er is   gezorgd voor professionele en technische ontwikkeling en training van de   aanvrager en van alle personeel.<BR><BR>Een opsporingsvergunning voor   koolstofdioxideopslag wordt niet verleend in de volgende gevallen:<BR>1° als de   aanvraag betrekking heeft op een gebied waarvoor een ander nog over een geldige   opsporingsvergunning voor koolstofdioxideopslag of opslagvergunning in het kader   van dit hoofdstuk beschikt;<BR>2° als de aanvraag betrekking heeft op een gebied   dat de Vlaamse Regering niet wil openstellen voor de geologische opslag van   koolstofdioxide.<BR><BR>§ 1/2. Met behoud van de toepassing van paragraaf 1/1   worden de vergunningsaanvragen beoordeeld op basis van de volgende   criteria:<BR>1° de technische bekwaamheid van de aanvrager;<BR>2° de manier   waarop de aanvrager zich voorneemt de opsporingswerkzaamheden te   verrichten;<BR>3° in voorkomend geval, het eventuele gebrek aan efficiëntie en   verantwoordelijkheidszin waarvan de aanvrager in het kader van een andere   vergunning blijk heeft gegeven;<BR>4° in voorkomend geval, de eventuele   interferentie met andere al vergunde activiteiten in de ondergrond.<BR><BR>De   criteria, vermeld in het eerste lid, kunnen ook een grond tot weigering van de   opsporingsvergunning voor koolstofdioxideopslag uitmaken.<BR><BR>De Vlaamse   Regering kan nadere regels bepalen voor de vergunningscriteria.<BR><BR>§ 2. Een   opsporingsvergunning voor koolstofdioxideopslag wordt verleend voor een in de   ruimte beperkt volumegebied en voor een duur die de periode die nodig is voor   het verrichten van de opsporingswerkzaamheden waarvoor de opsporingsvergunning   voor koolstofdioxideopslag verleend wordt, niet mag overschrijden. De   geldigheidsduur van de opsporingsvergunning voor koolstofdioxideopslag mag wel   verlengd worden indien de oorspronkelijke duur onvoldoende bleek om de betrokken   opsporingswerkzaamheden te voltooien en indien de opsporingswerkzaamheden in   overeenstemming met de opsporingsvergunning voor koolstofdioxideopslag zijn   uitgevoerd.<BR><BR>De houder van een opsporingsvergunning voor   koolstofdioxideopslag beschikt over het exclusieve recht om   opsporingswerkzaamheden uit te voeren met betrekking tot het potentiële   opslagcomplex. Tijdens de geldigheidsduur van de opsporingsvergunning voor   koolstofdioxideopslag is geen conflicterend gebruik van het potentiële   opslagcomplex toegestaan. <BR><BR>
+§ 1. Een geologische formatie kan enkel als opslaglocatie worden aangeduid nadat er opsporingswerkzaamheden uitgevoerd zijn om het potentieel van de geologische formatie te beoordelen als opslaglocatie voor koolstofdioxide.<br>
+<br>
+Potentiële opslaglocaties kunnen alleen opgespoord worden met een opsporingsvergunning voor koolstofdioxideopslag van de Vlaamse Regering. Zo nodig kan de monitoring van de injectietests in de opsporingsvergunning voor koolstofdioxideopslag worden opgenomen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de aanvraagprocedure om een opsporingsvergunning voor koolstofdioxideopslag te verkrijgen, en de vormelijke en inhoudelijke voorwaarden waaraan een dergelijke aanvraag moet voldoen.<br>
+<br>
+§ 1/1. Een opsporingsvergunning voor koolstofdioxideopslag wordt uitsluitend verleend als uit de ingediende aanvraag en uit alle andere relevante informatie blijkt dat aan de volgende voorwaarden is voldaan:<br>
+1° de aanvraag voldoet aan alle vereisten, vermeld in dit hoofdstuk, en aan alle andere toepasselijke regelgeving;<br>
+2° de aanvrager is financieel solide en technisch bekwaam en betrouwbaar om de opsporingswerkzaamheden uit te voeren, en er is gezorgd voor professionele en technische ontwikkeling en training van de aanvrager en van alle personeel.<br>
+<br>
+Een opsporingsvergunning voor koolstofdioxideopslag wordt niet verleend in de volgende gevallen:<br>
+1° als de aanvraag betrekking heeft op een volumegebied waarvoor een ander nog over een geldige opsporingsvergunning voor koolstofdioxideopslag of opslagvergunning in het kader van dit hoofdstuk beschikt;<br>
+2° als de aanvraag betrekking heeft op een volumegebied dat de Vlaamse Regering niet wil openstellen voor de geologische opslag van koolstofdioxide.<br>
+<br>
+§ 1/2. Met behoud van de toepassing van paragraaf 1/1 worden de vergunningsaanvragen beoordeeld op basis van de volgende criteria:<br>
+1° de technische bekwaamheid van de aanvrager;<br>
+2° de manier waarop de aanvrager zich voorneemt de opsporingswerkzaamheden te verrichten;<br>
+3° in voorkomend geval, het eventuele gebrek aan efficiëntie en verantwoordelijkheidszin waarvan de aanvrager in het kader van een andere vergunning blijk heeft gegeven;<br>
+4° in voorkomend geval, de eventuele interferentie met andere al vergunde activiteiten in de ondergrond.<br>
+<br>
+De criteria, vermeld in het eerste lid, kunnen ook een grond tot weigering van de opsporingsvergunning voor koolstofdioxideopslag uitmaken.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de vergunningscriteria.<br>
+<br>
+§ 2. Een opsporingsvergunning voor koolstofdioxideopslag wordt verleend voor een in de ruimte beperkt volumegebied en voor een duur die de periode die nodig is voor het verrichten van de opsporingswerkzaamheden waarvoor de opsporingsvergunning voor koolstofdioxideopslag verleend wordt, niet mag overschrijden. De geldigheidsduur van de opsporingsvergunning voor koolstofdioxideopslag mag wel verlengd worden indien de oorspronkelijke duur onvoldoende bleek om de betrokken opsporingswerkzaamheden te voltooien en indien de opsporingswerkzaamheden in overeenstemming met de opsporingsvergunning voor koolstofdioxideopslag zijn uitgevoerd.<br>
+<br>
+De houder van een opsporingsvergunning voor koolstofdioxideopslag beschikt over het exclusieve recht om opsporingswerkzaamheden uit te voeren met betrekking tot het potentiële opslagcomplex. Tijdens de geldigheidsduur van de opsporingsvergunning voor koolstofdioxideopslag is geen conflicterend gebruik van het potentiële opslagcomplex toegestaan.<br>
+&nbsp;
 
 ### ART. 39.
 
@@ -204,7 +430,21 @@ De milieuveilige geologische opslag van koolstofdioxide heeft als doel bij te dr
 
 ### ART. 41.
 
-§ 1. Een opslagvergunning wordt uitsluitend verleend als uit de ingediende aanvraag en uit alle andere relevante informatie blijkt dat aan de volgende voorwaarden is voldaan : <br />1° de aanvraag voldoet aan alle vereisten, vermeld in dit hoofdstuk, en aan alle andere toepasselijke regelgeving;<br />2° de exploitant is financieel solide en technisch bekwaam en betrouwbaar om de locatie te exploiteren en te beheren, en er is gezorgd voor professionele en technische ontwikkeling en training van de exploitant en van alle personeel;<br />3° indien zich in dezelfde hydraulische eenheid meer dan één opslaglocatie bevindt, zijn de potentiële drukinteracties van dien aard dat alle locaties tegelijk aan de vereisten van dit hoofdstuk kunnen voldoen.<br /><br />Een opslagvergunning wordt uitsluitend verleend indien de Vlaamse Regering enig uit hoofde van artikel 44 verstrekt advies van de Europese Commissie over de ontwerp-vergunning in overweging heeft genomen.<br /><br />§ 2. Een opslagvergunning wordt niet verleend in de volgende gevallen : <br />1° als de aanvraag betrekking heeft op een gebied waarvoor een ander nog over een geldige opsporingsvergunning voor koolstofdioxideopslag of opslagvergunning in het kader van dit hoofdstuk beschikt;<br />2° als de aanvraag betrekking heeft op een gebied dat de Vlaamse Regering niet wil openstellen voor de geologische opslag van koolstofdioxide.<br /><br />Een opslagvergunning kan onder meer geweigerd worden in de volgende gevallen : <br />1° als de aanvraag betrekking heeft op een gebied waarvoor al een vergunning is verleend in het kader van hoofdstuk II of een vergunning in het kader van de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ voor het opslaan van gas;<br />2° als het niet aannemelijk is dat de geologische opslag van koolstofdioxide binnen het gebied waarvoor de opslagvergunning zal gelden, economisch of technisch haalbaar is.<br /><br />
+§ 1. Een opslagvergunning wordt uitsluitend verleend als uit de ingediende aanvraag en uit alle andere relevante informatie blijkt dat aan de volgende voorwaarden is voldaan :<br>
+1° de aanvraag voldoet aan alle vereisten, vermeld in dit hoofdstuk, en aan alle andere toepasselijke regelgeving;<br>
+2° de exploitant is financieel solide en technisch bekwaam en betrouwbaar om de locatie te exploiteren en te beheren, en er is gezorgd voor professionele en technische ontwikkeling en training van de exploitant en van alle personeel;<br>
+3° indien zich in dezelfde hydraulische eenheid meer dan één opslaglocatie bevindt, zijn de potentiële drukinteracties van dien aard dat alle locaties tegelijk aan de vereisten van dit hoofdstuk kunnen voldoen.<br>
+<br>
+Een opslagvergunning wordt uitsluitend verleend indien de Vlaamse Regering enig uit hoofde van artikel 44 verstrekt advies van de Europese Commissie over de ontwerp-vergunning in overweging heeft genomen.<br>
+<br>
+§ 2. Een opslagvergunning wordt niet verleend in de volgende gevallen :<br>
+1° als de aanvraag betrekking heeft op een volumegebied waarvoor een ander nog over een geldige opsporingsvergunning voor koolstofdioxideopslag of opslagvergunning in het kader van dit hoofdstuk beschikt;<br>
+2° als de aanvraag betrekking heeft op een volumegebied dat de Vlaamse Regering niet wil openstellen voor de geologische opslag van koolstofdioxide.<br>
+<br>
+Een opslagvergunning kan onder meer geweigerd worden in de volgende gevallen :<br>
+1° als de aanvraag betrekking heeft op een volumegebied waarvoor al een vergunning is verleend in het kader van hoofdstuk II, een vergunning in het kader van hoofdstuk III/1, een vergunning voor de ondergrondse berging van radioactief afval of een vergunning in het kader van de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ voor het opslaan van gas;<br>
+2° als het niet aannemelijk is dat de geologische opslag van koolstofdioxide binnen het volumegebied waarvoor de opslagvergunning zal gelden, economisch of technisch haalbaar is.<br>
+&nbsp;
 
 ### ART. 42.
 
@@ -324,7 +564,10 @@ Voor een opsporingsvergunning voor koolstofdioxideopslag of voor een opslagvergu
 
 ### ART. 62.
 
-§ 1. Met behoud van de toepassing van artikel 35 is de houder of laatste   houder van een opsporingsvergunning voor koolstofdioxideopslag of van een   opslagvergunning van rechtswege verplicht elke schade te vergoeden die   veroorzaakt werd door de activiteit waarop de vergunning betrekking heeft, tot   wanneer de verantwoordelijkheid voor de opslaglocatie overeenkomstig artikelen   53 tot en met 56 aan het Vlaamse Gewest is overgedragen.<BR><BR>Als de houder of   laatste houder van een opsporingsvergunning voor koolstofdioxideopslag of van   een opslagvergunning kan aantonen dat de vastgestelde schade geheel of   gedeeltelijk veroorzaakt werd door een vorige vergunninghouder, door de   voormalige houder van een overeenkomstig artikel 34, § 1, vervallen concessie,   vergunning of andersoortige toestemming, of door de houder of laatste houder van   een opsporingsvergunning voor koolwaterstoffen of van een winningsvergunning   verleend in het kader van hoofdstuk II, is die laatste van rechtswege verplicht   om de schade te vergoeden die hij veroorzaakt heeft. <BR><BR>§ 2. De   vrederechter is bevoegd om het bedrag van de schadevergoeding vast te stellen,   ongeacht de hoogte van het bedrag.<BR><BR>
+§ 1. Met behoud van de toepassing van artikel 35 is de houder of laatste houder van een opsporingsvergunning voor koolstofdioxideopslag of van een opslagvergunning van rechtswege verplicht elke schade te vergoeden die veroorzaakt werd door de activiteit waarop de vergunning betrekking heeft, tot wanneer de verantwoordelijkheid voor de opslaglocatie overeenkomstig artikelen 53 tot en met 56 aan het Vlaamse Gewest is overgedragen.<br>
+<br>
+§ 2. De vrederechter is bevoegd om het bedrag van de schadevergoeding vast te stellen, ongeacht de hoogte van het bedrag.<br>
+&nbsp;
 
 ## Afdeling VIII Informatie aan het publiek
 
@@ -338,19 +581,239 @@ De Vlaamse Regering stelt alle elementen die betrekking hebben op de geologische
 
 ## [Onderafdeling I. Aanvraagprocedure (ing. Decr.25 maart 2016, art. 29, I: te bepalen door de Vlaamse Regering)]
 
+### ART. 63/1.
+
+§ 1. Het opsporen of het winnen van aardwarmte in de diepe ondergrond kan alleen met een vergunning van de Vlaamse Regering.<br>
+<br>
+Voor projecten inzake het opsporen of het winnen van aardwarmte in de diepe ondergrond die zijn opgestart voor de inwerkingtreding van dit hoofdstuk, wordt binnen een termijn van zes maanden na de inwerkingtreding van dit hoofdstuk een vergunningsaanvraag ingediend. Die projecten mogen voortgezet worden zolang de beslissing over de vergunningsaanvraag niet onherroepelijk is geworden, op voorwaarde dat ze voldoen aan alle andere toepasselijke regelgeving en vergunningsplichten.<br>
+<br>
+§ 2. De resultaten verkregen uit een opsporingsvergunning voor aardwarmte kunnen door een andere persoon dan de houder van de vergunning slechts worden aangewend na de rechten op de opsporingsresultaten te hebben verworven van de houder of laatste houder van de opsporingsvergunning voor aardwarmte, en deze daarvoor passend te hebben vergoed.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de nadere regels voor de aanvraagprocedure om een vergunning te verkrijgen, en de vormelijke en inhoudelijke voorwaarden waaraan een dergelijke aanvraag moet voldoen. De Vlaamse Regering bepaalt de inhoud van de vergunningsaanvraag en de documenten die bij de aanvraag moeten worden gevoegd.
+
+### ART. 63/2.
+
+<p>§ 1. Nadat een aanvraag voor een vergunning is ingediend en volledig bevonden werd, neemt de Vlaamse Regering het initiatief om in het Belgisch Staatsblad een uitnodiging te publiceren om aanvragen in te dienen voor een soortgelijke vergunning voor hetzelfde volumegebied.<br>
+<br>
+Die uitnodiging maakt melding van de aard van de vergunning, het volumegebied waarvoor een aanvraag kan worden ingediend, de termijn waarin een aanvraag tot mededinging kan worden ingediend, de toepasselijke regelgeving, en de voorgenomen datum waarop of de termijn waarin over de vergunningsaanvraag beslist zal worden.<br>
+<br>
+§ 2. Andere belangstellenden kunnen binnen een termijn van negentig dagen na de publicatie van de uitnodiging in het Belgisch Staatsblad eveneens een aanvraag indienen voor een soortgelijke vergunning voor hetzelfde volumegebied.</p>
+
+### ART. 63/3.
+
+§ 1. In de volgende gevallen wordt de procedure, vermeld in artikel 63/2, niet gevolgd :<br>
+1° als de houder van een opsporingsvergunning voor aardwarmte die met gebruikmaking van die vergunning de aanwezigheid van winbare aardwarmte heeft aangetoond, gedurende de geldigheidsduur van die vergunning, voor hetzelfde volumegebied of gedeelten daarvan een aanvraag voor een winningsvergunning voor aardwarmte indient. Als de aanwezigheid van winbare aardwarmte maar in een deel van het vergunde gebied is aangetoond, kan de winningsvergunning voor aardwarmte beperkt worden tot dat deel van het gebied. In afwijking van artikel 63/7, § 1, blijft de opsporingsvergunning voor aardwarmte, voor zover ze betrekking heeft op het aangevraagde volumegebied, in elk geval gelden tot wanneer de beslissing over de aanvraag voor de winningsvergunning voor aardwarmte onherroepelijk wordt;<br>
+2° als de aanvraag betrekking heeft op een volumegebied waarvoor op dat ogenblik al een soortgelijke vergunning in het kader van dit hoofdstuk of een opsporingsvergunning voor koolstofdioxideopslag in het kader van hoofdstuk III is verleend;<br>
+3° als de aanvraag betrekking heeft op een volumegebied dat de Vlaamse Regering niet wil openstellen voor de opsporing of de winning van aardwarmte;<br>
+4° als het een aanvraag betreft overeenkomstig artikel 63/1, § 1, tweede lid;<br>
+5° als het een aanvraag betreft overeenkomstig artikel 63/16, § 3.<br>
+<br>
+§ 2. De Vlaamse Regering kan in de volgende gevallen beslissen de procedure, vermeld in artikel 63/2, niet te volgen :<br>
+1° als er gegronde redenen zijn om de vergunning voor een volumegebied bij voorkeur aan de houder van een vergunning voor een aangrenzend volumegebied toe te kennen. In dat geval worden de houders van vergunningen voor eventuele andere aangrenzende volumegebieden uitgenodigd om binnen een termijn van negentig dagen eveneens een aanvraag in te dienen of hun opmerkingen mee te delen;<br>
+2° als de aanvraag betrekking heeft op een volumegebied waarvoor op dat ogenblik al een vergunning voor het opsporen of winnen van koolwaterstoffen in het kader van hoofdstuk II, een opslagvergunning voor koolstofdioxide in het kader van hoofdstuk III, een vergunning voor de ondergrondse berging van radioactief afval of een vergunning in het kader van de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ bestemd voor het opslaan van gas is verleend.
+
+### ART. 63/4.
+
+De Vlaamse Regering kan ook op eigen initiatief beslissen een uitnodiging tot het indienen van aanvragen voor een vergunning in het Belgisch Staatsblad te publiceren. De voorschriften, vermeld in artikel 63/2, § 1, tweede lid, zijn van overeenkomstige toepassing.<br>
+<br>
+Belangstellenden kunnen binnen een termijn van negentig dagen na de publicatie van de uitnodiging een aanvraag indienen.
+
 ## [Onderafdeling II. Vergunningscriteria (ing. Decr.25 maart 2016, art. 30, I: te bepalen door de Vlaamse Regering)]
+
+### ART. 63/5.
+
+Een vergunning wordt niet verleend in de volgende gevallen :<br>
+1° als het niet aannemelijk is dat de opsporing of de winning van aardwarmte binnen het volumegebied waarvoor de vergunning zal gelden, op een verantwoorde wijze kan plaatsvinden;<br>
+2° als de aanvraag slaat op een volumegebied waarvoor op dat ogenblik al een soortgelijke vergunning in het kader van dit hoofdstuk is verleend;<br>
+3° als de aanvraag slaat op een volumegebied waarvoor op dat ogenblik al een opsporingsvergunning voor koolstofdioxideopslag in het kader van hoofdstuk III is verleend;<br>
+4° als de aanvraag slaat op een volumegebied dat de Vlaamse Regering niet wil openstellen voor de opsporing of winning van aardwarmte.<br>
+<br>
+Een vergunning kan onder meer ook geweigerd worden als de aanvraag slaat op een volumegebied waarvoor op dat ogenblik al een opsporings- of winningsvergunning voor koolwaterstoffen in het kader van hoofdstuk II, een opslagvergunning in het kader van hoofdstuk III, een vergunning voor de ondergrondse berging van radioactief afval of een vergunning in het kader van de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ bestemd voor het opslaan van gas is verleend.
+
+### ART. 63/6.
+
+Met behoud van de toepassing van artikel 63/5 worden de vergunningsaanvragen beoordeeld op basis van de volgende criteria :<br>
+1° de manier waarop de aanvrager zich voorneemt de nodige technische en financiële middelen voor de activiteiten waarvoor de vergunning wordt aangevraagd, te verwerven;<br>
+2° de manier waarop de aanvrager zich voorneemt de activiteiten waarvoor de vergunning wordt aangevraagd, te verrichten;<br>
+3° in voorkomend geval, het eventuele gebrek aan efficiëntie en verantwoordelijkheidszin waarvan de aanvrager in het kader van een eerdere vergunning blijk heeft gegeven;<br>
+4° in voorkomend geval, de activiteiten die de aanvrager in het verleden verricht heeft in het volumegebied waarop de aanvraag betrekking heeft, of de vroegere vergunningen waarvan de aanvrager houder was in dat volumegebied;<br>
+5° in voorkomend geval, de eventuele interferentie met andere al vergunde activiteiten in de ondergrond;<br>
+6° de milieu-impact van de voorgenomen activiteiten;<br>
+7° het planmatige beheer van aardwarmte en van andere toepassingen in de diepe ondergrond;<br>
+8° de mate waarin de gewonnen aardwarmte efficiënt en duurzaam zal worden aangewend.<br>
+<br>
+De criteria, vermeld in het eerste lid, kunnen eveneens een grond tot weigering van de vergunning uitmaken.<br>
+<br>
+De Vlaamse Regering kan nadere regels uitwerken voor de criteria, vermeld in het eerste lid.
 
 ## [Onderafdeling III. Vergunningsvoorwaarden (ing. Decr.25 maart 2016, art. 31, I: te bepalen door de Vlaamse Regering)]
 
+### ART. 63/7.
+
+§ 1. Met behoud van de toepassing van artikel 63/16, § 2, geldt een opsporingsvergunning voor aardwarmte voor een duur van vijf jaar. Deze termijn wordt geschorst zolang een beroep tot nietigverklaring van de opsporingsvergunning aanhangig is bij de Raad van State.<br>
+<br>
+§ 2. Een winningsvergunning voor aardwarmte geeft de duur aan waarvoor ze geldt. Met behoud van de toepassing van artikel 63/16, § 2, bedraagt de geldigheidsduur van een winningsvergunning voor aardwarmte niet langer dan noodzakelijk is om de aardwarmte volgens de bij de aanvraag verstrekte gegevens op een verantwoorde wijze te winnen.<br>
+<br>
+§ 3. Een vergunning geeft aan voor welk volumegebied ze geldt, en welke verticale projectie op het aardoppervlak daarmee overeenstemt. Er wordt naar gestreefd om het vergunningsgebied zodanig af te bakenen dat het hele volumegebied waarin de vergunde activiteiten een merkelijke invloed hebben, binnen het vergunningsgebied valt. Het vergunningsgebied en de daarmee overeenstemmende verticale projectie op het aardoppervlak worden zo afgebakend dat de uitoefening van de activiteiten waarvoor de vergunning is verleend, vanuit technisch en economisch oogpunt op zo goed mogelijke wijze kan plaatsvinden, en zijn niet groter dan nodig is voor de efficiënte uitoefening van de activiteiten waarvoor de vergunning is verleend.<br>
+<br>
+Als een winningsvergunning voor aardwarmte na de verlening ervan blijkt te gelden voor een volumegebied waarin zich een geothermisch reservoir bevindt waarvan redelijkerwijs kan worden aangenomen dat het de grens van het vergunningsgebied overschrijdt, is de vergunninghouder verplicht zijn medewerking te verlenen aan de totstandkoming van een overeenkomst met de voor het aangrenzende volumegebied tot het winnen van aardwarmte gerechtigde en, als artikel 12, § 1, eerste lid, toepassing vindt, met de voor het aangrenzende volumegebied tot het winnen van koolwaterstoffen gerechtigde, tenzij de Vlaamse Regering ontheffing verleent van de verplichting om een overeenkomst te sluiten. De overeenkomst strekt ertoe dat de winning van de aardwarmte in onderlinge overeenstemming plaatsvindt, en kan bepalen dat de concrete realisatie van de winning maar door een van hen wordt uitgevoerd. Voor de overeenkomst en alle latere wijzigingen ervan is de goedkeuring van de Vlaamse Regering noodzakelijk.<br>
+<br>
+§ 4. De Vlaamse Regering kan bijzondere vergunningsvoorwaarden opnemen in opsporings- en winningsvergunningen voor aardwarmte.
+
+### ART. 63/8.
+
+§ 1. Opsporings- en winningsvergunningen voor aardwarmte gelden eveneens voor koolwaterstoffen en andere stoffen die onvermijdelijk meekomen met het winnen van aardwarmte.<br>
+<br>
+De Vlaamse Regering kan in een winningsvergunning voor aardwarmte aan de houder ervan de verplichting opleggen om overeenkomstig artikel 27 een vergoeding te betalen voor de koolwaterstoffen die onvermijdelijk meekomen met het winnen van aardwarmte.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor het winnen van koolwaterstoffen en andere stoffen die onvermijdelijk meekomen met het winnen van aardwarmte.<br>
+<br>
+§ 2. Een opsporingsvergunning voor aardwarmte geeft aan binnen welke periode nadat de vergunning onherroepelijk is geworden, de opsporingsactiviteiten of verkenningsonderzoeken, vermeld in de vergunning, moeten worden verricht.
+
 ## [Onderafdeling IV. Verplichtingen van de vergunninghouders (ing. Decr.25 maart 2016, art. 32, I: te bepalen door de Vlaamse Regering)]
+
+### ART. 63/9.
+
+Voor hij boorgaten voor de opsporing of winning van aardwarmte aanlegt, toont de houder van een vergunning aan dat hij over de nodige technische en financiële middelen beschikt om de activiteiten te verrichten waarvoor de vergunning is verleend.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de verplichting, vermeld in het eerste lid.
+
+### ART. 63/10.
+
+De houder of laatste houder van een vergunning neemt alle maatregelen die redelijkerwijs van hem verwacht kunnen worden om te voorkomen dat de activiteiten waarop de vergunning slaat :<br>
+1° milieuverstoring veroorzaken;<br>
+2° schade door bodembeweging veroorzaken;<br>
+3° de openbare veiligheid schaden;<br>
+4° het planmatige beheer van aardwarmte en van andere toepassingen in de ondergrond verstoren.
+
+### ART. 63/11.
+
+De houder van een vergunning deelt elke wijziging in een vergunningscriterium, vermeld in artikel 63/5 en 63/6, onmiddellijk mee aan de Vlaamse Regering.
+
+### ART. 63/12.
+
+§ 1. Aardwarmte wordt gewonnen overeenkomstig een winningsplan voor aardwarmte, waarvoor de goedkeuring van de Vlaamse Regering noodzakelijk is.<br>
+<br>
+Het is verboden om aardwarmte te winnen voor men over een door de Vlaamse Regering goedgekeurd winningsplan voor aardwarmte beschikt, of op een wijze die afwijkt van het door de Vlaamse Regering goedgekeurde winningsplan voor aardwarmte. Om aardwarmte te winnen in het kader van een opsporingsvergunning voor aardwarmte is geen winningsplan vereist.<br>
+<br>
+Als dat noodzakelijk is voor een efficiënte winning van de aardwarmte, kan het winningsplan voor aardwarmte op initiatief van de vergunninghouder gewijzigd of geactualiseerd worden. Voor het gewijzigde of geactualiseerde winningsplan voor aardwarmte is opnieuw de goedkeuring van de Vlaamse Regering noodzakelijk.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt nadere regels voor de inhoud en de goedkeuringsprocedure van het winningsplan voor aardwarmte.
+
+### ART. 63/13.
+
+De houder van een vergunning dient jaarlijks een rapport in bij de Vlaamse Regering met een overzicht van de in het voorbije jaar verrichte activiteiten, en een overzicht van de in het eerstvolgende jaar geplande activiteiten. Als er in het voorbije jaar geen activiteiten verricht zijn, of in het eerstvolgende jaar geen activiteiten gepland zijn, is de vergunninghouder niet ontslagen van zijn verplichting om dat in een jaarlijks rapport aan de Vlaamse Regering te melden.<br>
+<br>
+Het jaarlijkse rapport wordt ingediend uiterlijk voor het einde van de derde maand nadat een jaarlijkse periode verstreken is vanaf de datum van het besluit van de Vlaamse Regering waarbij de vergunning verleend is.
+
+### ART. 63/14.
+
+De Vlaamse Regering kan in de vergunning aan de houder ervan de verplichting opleggen om metingen te verrichten om de kans op bodembeweging ten gevolge van de vergunde activiteiten in te schatten.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de metingen, vermeld in het eerste lid.
+
+### ART. 63/15.
+
+Met behoud van de toepassing van artikel 63/25 kan de Vlaamse Regering de houder of laatste houder van een opsporings- of winningsvergunning voor aardwarmte verplichten om een financiële zekerheid te stellen voor het dekken van de aansprakelijkheid voor de schade waarvan vermoed wordt dat ze kan ontstaan door bodembeweging als gevolg van het opsporen of het winnen van aardwarmte.<br>
+<br>
+Als toepassing gemaakt wordt van artikel 63/24, kan de Vlaamse Regering de houder of laatste houder van een opsporings- of winningsvergunning voor aardwarmte verplichten om een financiële zekerheid te stellen voor het dekken van de kosten die gepaard gaan met de verwijdering, overeenkomstig artikel 63/24 in samenhang met artikel 32, § 3, van alle door zijn toedoen opgetrokken gebouwen en installaties.<br>
+<br>
+De Vlaamse Regering kan de houder van een opsporings- of winningsvergunning voor aardwarmte verplichten om vóór het aanleggen van boorgaten een financiële zekerheid te stellen om de kosten te dekken die gepaard gaan met het veilig afsluiten van de aangelegde boorgaten.<br>
+<br>
+De Vlaamse Regering bepaalt het bedrag en de termijn waarvoor en het tijdstip en de wijze waarop een financiële zekerheid gesteld moet worden.
 
 ## [Onderafdeling V. Wijziging, overdracht, intrekking, schorsing en afstand van de vergunning (ing. Decr.25 maart 2016, art. 33, I: te bepalen door de Vlaamse Regering)]
 
+### ART. 63/16.
+
+§ 1. Een vergunning kan op verzoek van de houder of ambtshalve door de Vlaamse Regering gewijzigd worden.<br>
+<br>
+Een vergunning kan niet in die mate worden gewijzigd dat ze voor een andere activiteit geldt.<br>
+<br>
+§ 2. Een aanvraag tot verlenging van de geldigheidsduur van een vergunning kan alleen worden ingewilligd als de geldigheidsduur van de oorspronkelijke vergunning onvoldoende is gebleken om de activiteiten waarvoor de vergunning geldt, op een verantwoorde wijze te verrichten, en als die activiteiten verricht zijn in overeenstemming met de vergunning en dit decreet en er, als het een winningsvergunning voor aardwarmte betreft, niet is afgeweken van het winningsplan voor aardwarmte. De verlenging duurt op haar beurt niet langer dan noodzakelijk is om de activiteiten waarvoor de vergunning is verleend, op een verantwoorde wijze te verrichten.<br>
+<br>
+In het besluit van de Vlaamse Regering waarin de geldigheidsduur van de vergunning wordt verlengd, kan een beperking worden opgenomen van het oorspronkelijk vergunde volumegebied tot een deel daarvan. Artikel 63/7, § 2, is van overeenkomstige toepassing.<br>
+<br>
+De geldigheidsduur van een opsporingsvergunning voor aardwarmte kan alleen voor opsporingsactiviteiten worden verlengd.<br>
+<br>
+§ 3. Een aanvraag tot wijziging van het volumegebied waarvoor een vergunning geldt, kan alleen worden ingewilligd met inachtneming van de voorschriften, vermeld in artikel 63/7, § 3.<br>
+<br>
+Als de invloedssfeer van de activiteiten waarvoor een opsporingsvergunning voor aardwarmte geldt, de grenzen van het vergunningsgebied overschrijdt, zorgt de vergunninghouder er bij het aanvragen van een winningsvergunning voor aardwarmte voor dat het aangevraagde volumegebied zo goed mogelijk aansluit bij de invloedssfeer van de geplande winning van aardwarmte.<br>
+<br>
+Als de houder van een winningsvergunning voor aardwarmte vaststelt dat de invloedssfeer van de winning van aardwarmte de grenzen van het vergunningsgebied overschrijdt, meldt hij dat binnen een termijn van dertig dagen aan de minister, en bezorgt hij de minister een onderbouwde inschatting van de grootte van de invloedssfeer.<br>
+<br>
+Voor zover de vergunning door de wijziging van het vergunningsgebied zou gelden voor een volumegebied waarvoor een ander een opsporings- of winningsvergunning voor aardwarmte heeft, wordt de wijziging alleen toegestaan als die ander daarmee instemt en dat gedeelte van zijn gebied opgeeft.<br>
+<br>
+Het besluit van de Vlaamse Regering waarbij het volumegebied waarvoor een winningsvergunning voor aardwarmte geldt, verkleind wordt, kan gepaard gaan met een beperking van de oorspronkelijke geldigheidsduur van de vergunning, op voorwaarde dat de nieuwe geldigheidsduur voldoende is om de winning op een verantwoorde wijze te verrichten.
+
+### ART. 63/17.
+
+Een vergunning kan pas worden overgedragen, inclusief het overdragen dat volgt uit wijzigingen in de vennootschapsstructuur, na de schriftelijke toestemming van de Vlaamse Regering. De Vlaamse Regering beoordeelt de aanvraag tot overdracht met inachtneming van de criteria, vermeld in artikel 63/5, tweede lid, en in artikel 63/6.<br>
+<br>
+Als de Vlaamse Regering instemt met de overdracht, neemt de nieuwe vergunninghouder alle verplichtingen in het kader van dit decreet over van de oude vergunninghouder.
+
+### ART. 63/18.
+
+§ 1. Een vergunning kan alleen in de volgende gevallen door de Vlaamse Regering worden ingetrokken :<br>
+1° als de bij de aanvraag verstrekte gegevens in die mate onjuist of onvolledig blijken te zijn dat de Vlaamse Regering op basis van de juiste of volledige gegevens tot een ander besluit gekomen zou zijn bij de beoordeling van de aanvraag;<br>
+2° als dat wordt gerechtvaardigd door een wijziging in een vergunningscriterium;<br>
+3° als de opsporings- of winningsactiviteiten niet overeenkomstig de vergunning of dit decreet zijn uitgevoerd of als van het winningsplan voor aardwarmte is afgeweken;<br>
+4° als de opsporings- of winningsactiviteiten gedurende minstens twee opeenvolgende jaren hebben stilgelegen;<br>
+5° als de vergunning niet langer noodzakelijk is voor de goede uitvoering van de activiteiten waarvoor ze is verleend;<br>
+6° als de uitvoering van de vergunning op een ongunstige wijze interfereert met andere voordien vergunde activiteiten in de ondergrond.<br>
+<br>
+§ 2. Voor de Vlaamse Regering kan overgaan tot intrekking van een vergunning, stuurt ze een ingebrekestelling aangetekend naar de vergunninghouder. De ingebrekestelling bevat een omschrijving van de redenen voor de geplande intrekking en de vermelding van een termijn van ten minste negentig dagen waarin de vergunninghouder uitleg kan verschaffen, bezwaar kan aantekenen, of zijn activiteiten in overeenstemming kan brengen met de vergunning, met dit decreet en, als het een winningsvergunning voor aardwarmte betreft, met het winningsplan voor aardwarmte.<br>
+<br>
+Binnen een termijn van negentig dagen na het verstrijken van de termijn, vermeld in het eerste lid, neemt de Vlaamse Regering een besluit over het al dan niet intrekken van de vergunning.
+
+### ART. 63/19.
+
+§ 1. De Vlaamse Regering kan een vergunning onder meer in de volgende gevallen geheel of gedeeltelijk schorsen :<br>
+1° als dat wordt gerechtvaardigd door een wijziging in een vergunningscriterium;<br>
+2° als de opsporings- of winningsactiviteiten niet overeenkomstig de vergunning of dit decreet zijn uitgevoerd of als is afgeweken van het winningsplan voor aardwarmte;<br>
+3° als de uitvoering van de vergunning op een ongunstige wijze interfereert met andere voordien vergunde activiteiten in de ondergrond.<br>
+<br>
+§ 2. Voor de Vlaamse Regering kan overgaan tot een gehele of gedeeltelijke schorsing van een vergunning, stuurt ze een ingebrekestelling aangetekend naar de vergunninghouder. De ingebrekestelling bevat een omschrijving van de redenen voor de geplande schorsing en de vermelding van een termijn van ten minste vijf dagen waarin de vergunninghouder uitleg kan verschaffen, bezwaar kan aantekenen, of zijn activiteiten in overeenstemming kan brengen met de vergunning, met dit decreet en, als het een winningsvergunning voor aardwarmte betreft, met het winningsplan voor aardwarmte.<br>
+<br>
+Zo spoedig mogelijk na het verstrijken van de termijn, vermeld in het eerste lid, neemt de Vlaamse Regering een besluit over het al dan niet schorsen van de vergunning. Een besluit tot volledige of gedeeltelijke schorsing van de vergunning vermeldt de voorwaarden waaraan de vergunninghouder moet voldoen om de schorsing ongedaan te maken.<br>
+<br>
+§ 3. Als de vergunninghouder heeft voldaan aan alle voorwaarden om de schorsing ongedaan te maken, neemt de Vlaamse Regering een besluit waarbij de schorsing van de vergunning wordt opgeheven.
+
+### ART. 63/20.
+
+De Vlaamse Regering beoordeelt een aanvraag tot afstand van een vergunning.
+
+### ART. 63/21.
+
+De Vlaamse Regering kan nadere regels bepalen voor de procedure van een ambtshalve wijziging en voor de procedure om een wijziging, overdracht of afstand van een vergunning te verkrijgen, en voor de procedure van de intrekking of schorsing van een vergunning.
+
+### ART. 63/22.
+
+Geen van de besluiten, vermeld in deze onderafdeling, heeft invloed op de aansprakelijkheid van de houder of laatste houder van de vergunning voor de vergoeding van de schade die is veroorzaakt door de activiteiten waarop de vergunning betrekking heeft of had.<br>
+<br>
+Van een besluit tot wijziging of intrekking van de vergunning en van een besluit waarbij de afstand van een vergunning wordt goedgekeurd, wordt melding gemaakt in het Belgisch Staatsblad.
+
 ## [Onderafdeling VI. Bijzondere bepalingen (ing. Decr.25 maart 2016, art. 34, I: te bepalen door de Vlaamse Regering)]
+
+### ART. 63/23.
+
+Afdeling I, met uitzondering van artikel 63/1, is niet van toepassing op het opsporen of het winnen van aardwarmte in opdracht van het Vlaamse Gewest, als dat uitsluitend in het kader van het verkrijgen van gegevens voor zuiver wetenschappelijk onderzoek of van gegevens voor het door het Vlaamse Gewest gevoerde beleid gebeurt.<br>
+<br>
+Bij het nemen van een besluit over een vergunning sluit de Vlaamse Regering zo veel mogelijk aan bij de bepalingen van afdeling I, voor zover dat met het bijzondere karakter van de vergunning te verenigen is.
 
 ## [Afdeling II. Het bezetten van gronden door de vergunninghouder (ing. Decr.25 maart 2016, art. 35, I: te bepalen door de Vlaamse Regering)]
 
+### ART. 63/24.
+
+Voor een opsporings- of winningsvergunning voor aardwarmte is artikel 32 van overeenkomstige toepassing.
+
 ## [Afdeling III. De vergoeding van schade (ing. Decr.25 maart 2016, art. 36, I: te bepalen door de Vlaamse Regering)]
+
+### ART. 63/25.
+
+§ 1. Met behoud van de toepassing van artikel 35 is de houder of laatste houder van een opsporings- of winningsvergunning voor aardwarmte van rechtswege verplicht elke schade te vergoeden die veroorzaakt werd door de activiteit waarop de vergunning betrekking heeft.<br>
+<br>
+§ 2. De vrederechter is bevoegd om het bedrag van de schadevergoeding vast te stellen, ongeacht de hoogte van het bedrag.
 
 ## [Afdeling IV. Waarborgregeling voor het opsporen en winnen van aardwarmte in de diepe ondergrond (ing. decr. 2 maart 2018, art. 3, I: 23 mei 2018)]
 
@@ -359,6 +822,30 @@ De Vlaamse Regering stelt alle elementen die betrekking hebben op de geologische
 ## [Onderafdeling II. Steunintensiteit en nadere regels (ing. decr. 2 maart 2018, art. 5, I: 23 mei 2018)]
 
 ## [HOOFDSTUK III/2 Structuurvisie inzake de diepe ondergrond (ing. Decr.25 maart 2016, art. 37, I: te bepalen door de Vlaamse Regering)]
+
+### ART. 63/26.
+
+§ 1. De Vlaamse Regering stelt een structuurvisie inzake de diepe ondergrond op met het oog op een planmatig en duurzaam beheer van de diepe ondergrond.<br>
+<br>
+De structuurvisie inzake de diepe ondergrond heeft de volgende nadere doelstellingen :<br>
+1° een beleidskader bieden waarmee de verschillende mogelijke toepassingen in de diepe ondergrond tegen elkaar kunnen worden afgewogen;<br>
+2° een beleidskader bieden waarmee voor een bepaald volumegebied in de diepe ondergrond een keuze kan worden gemaakt tussen de verschillende mogelijke toepassingen.<br>
+<br>
+De structuurvisie inzake de diepe ondergrond heeft geen juridisch bindend karakter. Ze beoogt alleen meer duidelijkheid te creëren voor beleidsmakers en potentiële investeerders over de valorisatiemogelijkheden van de diepe ondergrond.<br>
+<br>
+§ 2. De structuurvisie inzake de diepe ondergrond omvat ten minste de volgende elementen :<br>
+1° een overzicht van de hieronder vermelde toepassingen waarvoor een bepaald gebied op basis van de geologie in aanmerking komt :<br>
+a) het opsporen en het winnen van koolwaterstoffen;<br>
+b) de geologische opslag van koolstofdioxide;<br>
+c) het opsporen en het winnen van aardwarmte;<br>
+d) het opsporen en exploiteren van ondergrondse bergruimten in situ bestemd voor het opslaan van aardgas;<br>
+e) het opsporen en exploiteren van ondergrondse bergruimten voor de ondergrondse berging van radioactief afval;<br>
+f) eventuele andere toepassingen;<br>
+2° een overzicht van de reeds verleende vergunningen voor activiteiten in de diepe ondergrond;<br>
+3° een overzicht van de mogelijke interferenties tussen de verschillende mogelijke toepassingen in een bepaald gebied, van de toepassingen die er combineerbaar zijn in tijd en ruimte en van de toepassingen die er andere toepassingen in de toekomst onmogelijk maken;<br>
+4° een afwegingssystematiek die het mogelijk maakt om beleidskeuzes te maken en prioriteiten te stellen als verschillende toepassingen mogelijk zijn in hetzelfde gebied.<br>
+<br>
+§ 3. De Vlaamse Regering kan nadere regels bepalen over de procedure tot vaststelling, de actualisering en de inhoud van de structuurvisie inzake de diepe ondergrond
 
 ## HOOFDSTUK IV Handhaving
 
