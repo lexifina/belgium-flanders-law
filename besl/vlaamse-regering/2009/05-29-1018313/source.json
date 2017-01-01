@@ -2,16 +2,16 @@
   "codex_id": 1018313,
   "title": "Besluit van de Vlaamse Regering van 2009-05-29 tot vierde aanpassing van de overgangsaccreditaties van sommige hogeschoolopleidingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018313/VolledigDocument?datum=2009-09-20",
-  "source_sha256": "777c229eacc5dd68e83167f52e277971366393739abe5d3bad33e659a235a7ed",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018313/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "1492dd352a17bb41f63f9b628130cc58f9d3d5a722d9751f0ea26e5ba62ac0f9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018313&param=informatie",
-  "as_of": "2009-09-20",
+  "as_of": "2017-01-01",
   "made": "2009-05-29",
   "gazette": "2009-09-10",
   "numac": 2009035834,
   "document_start": "2009-09-20",
   "document_end": "2016-12-31",
-  "in_force": "2009-09-20",
+  "in_force": "2017-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2009-09-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
