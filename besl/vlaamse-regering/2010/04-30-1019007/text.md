@@ -34,7 +34,7 @@ Voor elk perceel landbouwgrond als vermeld in artikel 41bis, § 3, eerste lid, v
 
 ### ART. 4.
 
-§ 1. Er wordt een Verificatiecommissie opgericht die de Mestbank adviseert over de aanvragen tot correctie.<br /><br />De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, benoemt de leden van de Verificatiecommissie : <br />1° op voordracht van de Vlaamse Landmaatschappij, voor de leden, vermeld in artikel 41bis, § 3, derde lid, 1°, van het Mestdecreet van 22 december 2006;<br />2° op voordracht van het Agentschap voor Landbouw en Visserij, voor het lid, vermeld in artikel 41bis, § 3, derde lid, 2°, van het Mestdecreet van 22 december 2006;<br />3° op voordracht van het Agentschap voor Natuur en Bos, voor het lid, vermeld in artikel 41bis, § 3, derde lid, 3°, van het Mestdecreet van 22 december 2006;<br />4° na aanduiding door de Vlaamse Landmaatschappij, voor het lid, vermeld in artikel 41bis, § 3, derde lid, 4°, van het Mestdecreet van 22 december 2006.<br /><br />§ 2. De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, benoemt per effectief lid een plaatsvervanger. De plaatsvervangende leden worden benoemd volgens dezelfde procedure als die welke respectievelijk bepaald is voor de effectieve leden. <br /><br />§ 3. De zetel van de Verificatiecommissie is gevestigd in de Gulden Vlieslaan 72, 1060 Brussel.
+...
 
 ### ART. 5.
 
