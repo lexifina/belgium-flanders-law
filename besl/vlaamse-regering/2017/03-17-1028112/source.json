@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028112,
+  "title": "Besluit van de Vlaamse Regering van 2017-03-17 houdende wijziging van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap wat betreft de invoering van de persoonsvolgende financiering zoals ingevoerd bij het decreet van 25 april 2014 en tot opheffing van het besluit van de Vlaamse Regering van 7 september 2012 houdende vaststelling van maatregelen ter ondersteuning van kwetsbare jongvolwassen personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028112/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "ff41f3314079bafda9cbe2fd6568f4c72d1f93aaa7d659837657bbc0c1aac6b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028112&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-03-17",
+  "gazette": "2017-04-06",
+  "numac": 2017011437,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
