@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027096,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-24 tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 27 februari 2015 houdende regularisatie van de gesubsidieerde contractuelen die zijn tewerkgesteld met een contingentovereenkomst als vermeld in artikel 1, 12°, van het besluit van de Vlaamse Regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van door de Staat gesubsidieerde contractuelen bij sommige plaatselijke besturen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027096/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "3f58e793463b219b3c6c9fb2e0e7c7b87804f70100b3e234b45774dbf47ab751",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027096&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-06-24",
+  "gazette": "2016-08-04",
+  "numac": 2016036188,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
