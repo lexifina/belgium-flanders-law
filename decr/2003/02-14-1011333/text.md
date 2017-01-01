@@ -1076,25 +1076,25 @@ De bepalingen van dit hoofdstuk hebben uitwerking met ingang van 1 september 200
 
 ### ART. X. 1.
 
-Voor de toepassing van deze afdeling wordt verstaan onder:<br /><br />1° departement: de bevoegde dienst of ambtenaar van het departement Onderwijs van het Ministerie van de Vlaamse Gemeenschap;<br /><br />2° dienst: een dienst neuropsychiatrie voor kinderen, zoals bedoeld in artikel 2 van het koninklijk besluit van 23 oktober 1964 tot bepaling van de normen die door de ziekenhuizen en hun diensten moeten worden nageleefd;<br /><br />3° ouders: de personen die het ouderlijk gezag uitoefenen of in rechte of in feite een jongere onder hun bewaring hebben. In het geval de jongere meerderjarig is, wordt onder dit begrip de meerderjarige verstaan;<br /><br />4° pedagogisch personeelslid: personeelslid van een dienst dat instaat voor het verstrekken van onderwijs.
+...
 
 ## ONDERAFDELING 2 SUBSIDIËRING
 
 ### ART. X. 2.
 
-De Vlaamse regering kent jaarlijks subsidie-enveloppes toe aan diensten voor het verstrekken van onderwijs.<br /><br />De subsidie-enveloppes bevatten middelen voor de ondersteuning van de jaarlijkse personeels- en werkingskosten die de diensten dragen voor het verstrekken van onderwijs.
+...
 
 ### ART. X. 3.
 
-De subsidie-enveloppes worden toegekend op voorwaarde dat:<br /><br />1° de dienst erkend is door de Vlaamse regering voor ten minste vijftien bedden voor dag- en nachthospitalisatie en/of plaatsen voor daghospitalisatie;<br /><br />2° de dienst over voldoende didactisch materiaal, aangepaste schooluitrusting en lokalen die voldoen aan de voorwaarden inzake hygiëne, veiligheid en bewoonbaarheid beschikt om onderwijs te verstrekken;<br /><br />3° de dienst voor het verstrekken van onderwijs geen andere financiering of subsidiëring door de Vlaamse Gemeenschap geniet;<br /><br />4° het onderwijs wordt verstrekt overeenkomstig de in onderafdeling 3 bedoelde beginselen;<br /><br />5° de dienst bij het departement een aanvraag indient waaruit blijkt dat zij voldoet aan de bepalingen van 1°, 2°, 3° en 4°. De Vlaamse regering kan de vorm bepalen waarin de aanvraag moet gebeuren.
+...
 
 ### ART. X. 4.
 
-De subsidie-enveloppes worden vastgesteld door het aantal bedden voor dag-   en nachthospitalisatie en plaatsen voor daghospitalisatie te vermenigvuldigen   met een door de Vlaamse regering bepaald bedrag. Voor het begrotingsjaar 2002 is   het bedrag vastgelegd op 3.000 euro.
+...
 
 ### ART. X. 5.
 
-§ 1. De Vlaamse Regering kent de subsidie-enveloppes toe binnen de   beschikbare begrotingskredieten.<BR><BR>Vanaf 2015 bedraagt de   subsidie-enveloppe 1.469.000 euro. Vanaf 2016 wordt dit bedrag geïndexeerd op   basis van de gezondheidsindex. <BR><BR>§ 2. De Vlaamse regering kan nadere   regelen met betrekking tot de toekenning van de subsidie-enveloppes vastleggen   en de bepalingen van artikel X. 3 verder preciseren.
+...
 
 ## ONDERAFDELING 3 WERKING
 
@@ -1102,66 +1102,57 @@ De subsidie-enveloppes worden vastgesteld door het aantal bedden voor dag-   en 
 
 ### ART. X. 6.
 
-De dienst is geen school of onderwijsdienst.
+...
 
 ### ART. X. 7.
 
-De dienst organiseert het gehele kalenderjaar onderwijs.
+...
 
 ### ART. X. 8.
 
-De dienst duidt binnen het eigen personeel een verantwoordelijke aan voor de organisatie van het onderwijs.
+...
 
 ### ART. X. 9.
 
-De dienst organiseert onderwijs met inachtname van:<br />1° de bepalingen over de taalregeling in het onderwijs en de taalkennis van het personeel; <br />2° de bepalingen van Onderafdeling 2 van Afdeling 1 van Hoofdstuk V van het decreet van 13 juli 2001 betreffende het onderwijs XIII-Mozaïek.
+...
 
 ### ART. X. 10.
 
-Bij de opname van een jongere in een dienst krijgen de ouders informatie over:<br /><br />1° de mogelijkheid om onderwijs te volgen in de dienst;<br /><br />2° de doelstelling en de inhoud van het onderwijsaanbod;<br /><br />3° de wijze waarop de ouders in contact kunnen komen met het pedagogisch personeelslid en de verantwoordelijke voor de organisatie van het onderwijs.
+...
 
 ### ART. X. 11.
 
-De dienst werkt mee aan de controle op de leerplicht.
+...
 
 ## ONDERDEEL 2 PEDAGOGISCHE PERSONEELSLEDEN
 
 ### ART. X. 12.
 
-De pedagogische personeelsleden zijn houder van één van volgende studiebewijzen of daarmee gelijkgestelde:<br>
-1° diploma initiële lerarenopleiding kleuteronderwijs;<br>
-2° diploma initiële lerarenopleiding lager onderwijs;<br>
-3° diploma initiële lerarenopleiding secundair onderwijs groep 1;<br>
-4° diploma initiële lerarenopleiding van academisch niveau;<br>
-5° getuigschrift pedagogische bekwaamheid.<br>
-<br>
-De dienst kan afwijken van de in het eerste lid bedoelde verplichting:<br>
-1° bij gebrek aan kandidaten. Een gebrek aan kandidaten wordt slecht geacht aanwezig te zijn indien voorafgaandelijk de vacature werd gemeld aan de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding of de Brusselse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en de dienst op eer verklaart geen ander geschikt kandidaat te hebben kunnen vinden die de prestaties in hoofdambt kan uitoefenen;<br>
-2° ten aanzien van de personeelsleden van de dienst die vóór 1 maart 2002 instonden voor de verstrekking van onderwijs aan jongeren, opgenomen in de dienst.
+...
 
 ## ONDERDEEL 3 ONDERWIJSAANBOD
 
 ### ART. X. 13.
 
-Het onderwijs door diensten wordt op vraag van de ouders verstrekt.<br /><br />Het onderwijs is gericht op het beperken van leerachterstand en, zo mogelijk, het voorbereiden van de integratie of reïntegratie van jongeren in een onderwijsinstelling. Het beantwoordt aan de bepalingen van artikel 29, 1. van het Kinderrechtenverdrag.
+...
 
 ### ART. X. 14.
 
-Er wordt een individueel handelingsplan opgemaakt voor elke jongere waar onderwijs aan wordt verstrekt.<br /><br />Het handelingsplan bevat voor een bepaalde periode de pedagogische en didactische planning en geeft aan hoe het onderwijs wordt geïntegreerd in het geheel van de medische en/of therapeutische handelingen verstrekt door de dienst. Het handelingsplan houdt rekening met de vigerende eindtermen, ontwikkelingsdoelen en/of specifieke eindtermen.<br /><br />Het handelingsplan wordt opgemaakt in samenspraak met de school waar de jongere is ingeschreven.
+...
 
 ### ART. X. 15.
 
-De dienst kan geen getuigschriften bedoeld in artikel 53 tot en met 57 van   het decreet basisonderwijs van 25 februari 1997 en geen studiebewijzen bedoeld   in artikel 254 tot en met 256 van de codificatie betreffende het secundair   onderwijs uitreiken.
+...
 
 ## ONDERAFDELING 4 TOEZICHT
 
 ### ART. X. 16.
 
-De Vlaamse regering bepaalt de wijze waarop de onderwijsinspectie en de verificatiediensten van het departement de naleving van de subsidiëringsvoorwaarden controleren.
+...
 
 ### ART. X. 17.
 
-De Vlaamse regering bepaalt de regelen met betrekking tot de vermindering of de terugvordering van de subsidie-enveloppes als de diensten subsidiringsvoorwaarden niet naleven.
+...
 
 ## ONDERAFDELING 5 WIJZIGINGSBEPALINGEN
 
@@ -1187,23 +1178,23 @@ De bepalingen van deze afdeling hebben uitwerking met ingang van 1 september 200
 
 ### ART. X. 22.
 
-Vanaf 2 januari 2003 kunnen in de peutertuinen en kinderdagverblijven van het gemeen-schapsonderwijs in het tweetalig hoofdstedelijk gebied Brussel enkel personeelsleden worden aangeworven binnen de geldende normen die de Vlaamse regering heeft vastgelegd houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor opvanggezinnen.
+...
 
 ### ART. X. 23.
 
-§ 1. De personeelsleden die aan- of tewerkgesteld zijn als titularis van   een betrekking van verpleger of kinderverzorger in de peutertuinen en   kinderdagverblijven van het gemeenschapsonderwijs in het tweetalig   hoofdstedelijk gebied Brussel kunnen op 1 september 2002 vast benoemd worden   onder volgende voorwaarden:<BR><BR>1° Belg of onderdaan zijn van een lidstaat   van de Europese Unie, de EVA (Europese Vrijhandelsassociatie) of in het bezit   zijn van een vrijstelling verleend door de Vlaamse regering;<BR><BR>2°   burgerlijke en politieke rechten of een vrijstelling van de Vlaamse regering   genieten en in het bezit zijn van een attest van goed gedrag en zeden dat niet   langer dan één jaar tevoren werd afgegeven. De vrijstelling van burgerlijke en   politieke rechten gaat steeds samen met de vrijstelling bedoeld in 1°   hiervoor;<BR><BR>3° voldoen aan de taalwetten;<BR><BR>4° voldoen aan de   dienstplichtwetten;<BR><BR>5° op 31 augustus 2002 720 dagen dienstanciënniteit   bezitten. De berekening van de dienstanciënniteit gebeurt overeenkomstig de   bepalingen van artikel 4 van het decreet van 27 maart 1991 betreffende de   rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs. In   afwijking van artikel 4, § 1, b), van hetzelfde decreet wordt het aantal dagen   gepresteerd in een betrekking die niet de helft bedraagt van het aantal uren,   vereist voor een betrekking met volledige dienstprestaties, niet met de helft   verminderd. De diensten gepresteerd in de peutertuinen en kinderdagverblijven   van het gemeenschapsonderwijs in het tweetalig hoofdstedelijk gebied Brussel   worden beschouwd als diensten gepresteerd zoals bepaald in artikel 4 van het   decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde   personeelsleden van het gemeenschapsonderwijs;<BR><BR>6° de betrekking in   hoofdambt uitoefenen;<BR><BR>7° op 31 december 2001 aan- of tewerkgesteld   zijn.<BR><BR>De vaste benoeming op 1 september 2002 is beperkt tot het volume   van de betrekking waarvoor het personeelslid als titularis was aan- of   tewerkgesteld. Onder titularis van een betrekking wordt verstaan: het   personeelslid dat als eerste in een concrete betrekking een aanstelling of   tewerkstelling heeft gekregen.<BR><BR>Deze betrekking wordt niet vacant   verklaard.<BR><BR>§ 2. Na toepassing van § 1 worden de personeelsleden, aan- of   tewerkgesteld in een kinderdagverblijf van het gemeenschapsonderwijs in het   tweetalig hoofdstedelijk gebied Brussel, die voldoen aan de voorwaarden van 1°   tot en met 7° van § 1, eerste lid, op hun verzoek op 1 januari 2003 vast benoemd   in een vacante betrekking. Deze vaste benoeming is beperkt tot het volume van de   opdracht waarvoor het personeelslid op 31 december 2001 is aan- of tewerkgesteld   als verpleger of kinderverzorger in de peutertuinen en kinderdagverblijven van   het gemeenschapsonderwijs in het tweetalige hoofdstedelijk gebied   Brussel.<BR><BR>De personeelsleden moeten aan de voorwaarde van 5° van § 1,   eerste lid, voldoen op 31 december 2002.<BR><BR>De vacante betrekkingen worden   vastgesteld in functie van de op 1 september 2002 geldende normen die de Vlaamse   regering heeft vastgelegd houdende de voorwaarden inzake erkenning en   subsidiëring van kinderdagverblijven en diensten voor opvanggezinnen. De   betrekkingen die tussen 1 september 2002 en 1 januari 2003 vacant worden ten   gevolge van de pensionering of de terbeschikkingstelling voorafgaand aan het   rustpensioen van de titularis kunnen eveneens vacant worden verklaard.<BR><BR>De   raad van bestuur deelt vóór 15 oktober 2002, aan de personeelsleden die de   voorwaarden voor vaste benoeming vervullen, de vacante betrekkingen mee, samen   met een beschrijving van de wijze waarop de kandidaturen voor vaste benoeming   moeten worden ingediend.<BR><BR>§ 3. Voor de vaste benoemingen zoals bedoeld in   § 2 heeft het personeelslid dat op 31 augustus 2002 over de grootste   dienstanciënniteit beschikt, voorrang. De dienstanciënniteit wordt berekend   zoals bepaald in artikel X. 23, § 1, 5°.<BR><BR>§ 4. Met ingang van de datum van   vaste benoeming zijn de bepalingen van het decreet van 27 maart 1991 betreffende   de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs en   de uitvoeringsbesluiten op bedoelde personeelsleden van toepassing.<BR><BR>In   afwijking van het eerste lid zijn, voor de vaste benoemingen zoals bedoeld in §   2, de bepalingen van artikel 36ter, § 2, van het decreet van 27 maart 1991   betreffende de rechtspositie van de personeelsleden van het   gemeenschapsonderwijs, niet van toepassing.<BR><BR>§ 5. Onverminderd de   bepalingen van deze afdeling zijn alle bepalingen van toepassing die gelden voor   de personeelsleden die vast benoemd zijn in het ambt van kinderverzorger in het   gewoon basisonderwijs en in het ambt van verpleger in het buitengewoon   basisonderwijs. Voor de toepassing van de regelgeving met betrekking tot vaste   benoeming, affectatie en mutatie wordt:<BR><BR>1° het ambt van kinderverzorger   zoals bedoeld in deze afdeling niet beschouwd als hetzelfde ambt van   kinderverzorger in het gewoon en buitengewoon onderwijs;<BR><BR>2° het ambt van   verpleger zoals bedoeld in deze afdeling niet beschouwd als hetzelfde ambt van   verpleger in het buitengewoon onderwijs.<BR><BR>§ 6. Voor de toepassing van de   regelgeving met betrekking tot de terbeschikkingstelling wegens ontstentenis van   betrekking, de reaffectatie en de wedertewerkstelling, gelden de normen die de   Vlaamse regering heeft vastgelegd houdende de voorwaarden inzake erkenning en   subsidiëring van kinderdagverblijven en diensten voor opvanggezinnen. De   personeelsleden bedoeld in § 1 die wegens ontstentenis van betrekking ter   beschikking zijn gesteld voor minder dan de helft van een volledige betrekking,   zijn niet verplicht om een reaffectatie of wedertewerkstelling te aanvaarden.   Het ambt van kinderverzorger of verpleger zoals bedoeld in deze afdeling wordt,   voor de toepassing van de regelgeving inzake reaffectatie en tewerkstelling,   beschouwd als hetzelfde ambt van kinderverzorger in het gewoon en buitengewoon   onderwijs, respectievelijk het hetzelfde ambt van verpleger in het buitengewoon   onderwijs.
+...
 
 ### ART. X. 24.
 
-<P>Onverminderd de in artikel X.22 bedoelde normen worden de personeelsleden die   in de Brusselse peutertuinen en kinderdagverblijven van het   gemeenschapsonderwijs tewerkgesteld zijn als verpleger of kinderverzorger en die   niet benoemd zijn bij toepassing van artikel X.23, § 1 en § 2, door de   scholengroep 8-Brussel aangeworven als contractuele personeelsleden waarop de   wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing   is.<BR><BR>De Vlaamse Regering wordt gemachtigd om bijkomende ambten vast te   leggen. De personeelsleden die in deze ambten worden tewerkgesteld, worden   eveneens aangeworven als contractuele personeelsleden waarop de wet van 3 juli   1978 betreffende de arbeidsovereenkomsten van toepassing is.</P>
+...
 
 ### ART. X. 25.
 
-De personeelsleden zoals bedoeld in artikel X. 23 en X. 24 kunnen vanaf 1 september 2002 worden vervangen onder dezelfde voorwaarden als deze vastgelegd voor de personeelsleden van het onderwijs. De vervangers worden aangeworven als contractuele personeelsleden waarop de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing is.
+....
 
 ### ART. X. 26.
 
-§ 1.Tot een door de Vlaamse Regering te bepalen datum betaalt de Vlaamse   Gemeenschap rechtstreeks het salaris uit aan de personeelsleden bedoeld in deze   afdeling, overeenkomstig volgende bepalingen:<BR><BR>1° aan de personeelsleden   bedoeld in deze afdeling worden de volgende salarisschalen toegekend:<BR>a)   salarisschaal 143 voor wie in het ambt van kinderverzorger is aangesteld op   basis van een vereist of voldoend geacht bekwaamheidsbewijs;<BR>b) salarisschaal   229 voor wie in het ambt van kinderverzorger is aangesteld op basis van een   ander bekwaamheidsbewijs;<BR>c) salarisschaal 337 voor wie in het ambt van   verpleger is aangesteld.<BR><BR>Indien het aldus vastgestelde salaris lager is   dan het salaris dat het personeelslid genoot bij de inwerkingtreding van dit   hoofdstuk, blijft het dit laatste salaris genieten totdat het een ten minste   gelijk salaris bekomt overeenkomstig bovenvermelde salarisschalen.<BR><BR>De   bovenvermelde bekwaamheidsbewijzen zijn deze die de Vlaamse Regering vastlegt   voor het overeenkomstige ambt in het gewoon of buitengewoon   onderwijs.<BR><BR>Met behoud van de toepassing van artikel X.24, wordt de   Vlaamse Regering gemachtigd om de bekwaamheidsbewijzen voor alle ambten vast te   leggen of te wijzigen. Zij wordt eveneens gemachtigd om de salarisschalen   hiervoor vast te leggen of te wijzigen.<BR><BR>2° de prestatieregeling van de   personeelsleden bedoeld in dit hoofdstuk bedraagt voor een volledige betrekking   36 uren per week.<BR><BR>§ 2. De Vlaamse regering bepaalt de nadere regels met   betrekking tot bezoldiging van de personeelsleden bedoeld in artikel X. 24 en X.   25.
+...
 
 ### ART. X. 27.
 
@@ -1211,11 +1202,11 @@ De personeelsleden zoals bedoeld in artikel X. 23 en X. 24 kunnen vanaf 1 septem
 
 ### ART. X. 28.
 
-In hoofde van de personeelsleden, tewerkgesteld als kinderverzorger of verpleger in de peutertuinen en kinderdagverblijven van het gemeenschapsonderwijs in het tweetalig hoofdstedelijk gebied Brussel, wordt de geldelijke en administratieve toestand gedurende de periode van hun tewerkstelling tot en met 31 december 2002 als definitief verworven beschouwd. Uit deze periode kunnen geen gevolgen voortvloeien voor de personeelsleden en schoolbesturen met betrekking tot bezoldiging.
+...
 
 ### ART. X. 29.
 
-De kinderdagverblijven van het gemeenschapsonderwijs gelegen in het tweetalig hoofdstedelijk gebied Brussel worden in voorkomend geval verbonden aan de basisscholen van de scholengroep 8 - Brussel.
+...
 
 ### ART. X. 30.
 
@@ -1227,103 +1218,29 @@ De artikelen van deze afdeling hebben uitwerking met ingang van 1 september 2002
 
 ### ART. X. 31.
 
-De begripsbepalingen die in deze afdeling worden gegeven, betreffen het gewoon en buitengewoon basisonderwijs, het gewoon voltijds secundair onderwijs, het buitengewoon secundair onderwijs, het deeltijds beroepssecundair onderwijs, het deeltijds secundair zeevisserijonderwijs en het volwassenenonderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap. De begripsbepalingen uit de punten 3° en 5° hebben eveneens betrekking op het hoger onderwijs.<br /><br />De begripsbepalingen doen geen afbreuk aan, in voorkomend geval, meer beperkende inhouden die aan de opgesomde begrippen worden gegeven in welbepaalde onderwijsvormen of -niveaus.
+...
 
 ## ONDERAFDELING 2 STUDIEBEWIJZEN
 
 ### ART. X. 32.
 
-Voor wat betreft het in artikel X. 31, eerste lid, bedoelde   toepassingsgebied wordt verstaan onder:<BR>1° certificaat: een door de Vlaamse   Gemeenschap erkend bewijs waarmee wordt vastgesteld dat een regelmatige   leerling/cursist met goed gevolg een modulaire opleiding heeft doorlopen;<BR>2°   deelcertificaat: een door de Vlaamse Gemeenschap erkend bewijs waarmee wordt   vastgesteld dat een regelmatige leerling/cursist met goed gevolg een module   heeft doorlopen;<BR>3° diploma : een door de Vlaamse Gemeenschap erkend   studiebewijs door het bestuur van een school/centrum uitgereikt aan een   regelmatige leerling/cursist die met goed gevolg het secundair of hoger   onderwijs heeft voltooid of het studiebewijs vermeld in artikel II.252 van de   Codex Hoger Onderwijs;<BR>4° getuigschrift: een door de Vlaamse Gemeenschap   erkend studiebewijs door het bestuur van een erkend(e) school/centrum uitgereikt   aan een regelmatige leerling/cursist die hetzij met goed gevolg het lager   onderwijs heeft voltooid, hetzij een afgerond geheel of het geheel van het   secundair onderwijs heeft voltooid, maar niet in aanmerking komt voor een   diploma, hetzij een opleiding van het pedagogisch hoger onderwijs heeft   doorlopen.<BR>5° erkend studiebewijs : een studiebewijs bedoeld in de punten 1°   tot 4° of in artikel II.62, § 1 en § 2, van de Codex Hoger   Onderwijs.<BR>
+...
 
 ## ONDERAFDELING 3 STRUCTUURONDERDELEN
 
 ### ART. X. 33.
 
-Voor wat betreft het in artikel X. 31, eerste lid, bedoelde toepassingsgebied wordt verstaan onder:<br /><br />1° basisvorming: de algemeen vormende inhouden die in functie van een bepaald structuuronderdeel aan elke leerling/cursist zonder uitzondering dienen te worden onderwezen met het oog op het functioneren in de samenleving en het uitbouwen van een persoonlijk leven;<br /><br />2° graad: maatstaf voor de opsplitsing van het gewoon secundair onderwijs in vier opeenvolgende delen;<br /><br />3° leergebied: samenhangend geheel van leerinhouden;<br /><br />4° module: het kleinste te certifiëren deel van een opleiding;<br /><br />5° onderwijsvorm: een opdeling van het gewoon secundair onderwijs vanaf de tweede tot de vierde raad in het algemeen secundair onderwijs, het beroepssecundair onderwijs, het kunstsecundair onderwijs en het technisch secundair onderwijs;<br /><br />6° opleiding: een geheel van onderwijs- en studie-activiteiten, vastgelegd door de Vlaamse Gemeenschap en bestaande uit basisvorming en/of een specifiek gedeelte;<br /><br />7° opleidingenstructuur: het geheel van alle per studiegebied geordende opleidingen die lineair en/of modulair worden georganiseerd. De opleidingenstructuur legt de relatie vast tussen de modules;<br /><br />8° specifiek gedeelte: het deel van een opleiding dat het karakteristieke ervan bepaalt;<br /><br />9° studiegebied: een groep van inhoudelijk verwante opleidingen.
+...
 
 ### ART. X. 34.
 
-De bepalingen van deze afdeling treden in werking op een door de Vlaamse regering te bepalen datum.
+...
 
 ## AFDELING 4 COÖRDINATIE
 
 ### ART. X. 35.
 
-De Vlaamse regering kan de bepalingen van volgende decreten coördineren, met inachtneming van de wijzigingen die daarin uitdrukkelijk of stilzwijgend zijn aangebracht tot aan het tijdstip van de coördinatie:<br>
-1° het koninklijk besluit van 20 augustus 1957 houdende coördinatie van de wetten op het lager onderwijs;<br>
-2° de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving;<br>
-2° bis het koninklijk besluit van 18 april 1967 tot regeling van de wijze waarop het aantal opvoeders in het Rijksonderwijs wordt berekend;<br>
-3° de wet van 6 juli 1970 op het buitengewoon en geïntegreerd onderwijs;<br>
-4° de wet van 7 juli 1970 betreffende de algemene structuur van het hoger onderwijs;<br>
-5° de wet van 19 juli 1971 betreffende de toekenning van studietoelagen;<br>
-5°bis Koninklijk Besluit nr. 2 van 21 augustus 1978 tot vaststelling van het maximum aantal lestijden per week in het voltijds secundair onderwijs;<br>
-5°ter Koninklijk Besluit nr. 65 van 20 juli 1982 tot vaststelling van de wijze waarop de ambten van het bestuurs- en onderwijzend personeel worden bepaald in de inrichtingen voor buitengewoon onderwijs;<br>
-5°quater Koninklijk Besluit nr. 66 van 20 juli 1982 tot vaststelling van de wijze waarop de ambten van het administratief personeel en opvoedend hulppersoneel worden bepaald in de inrichtingen voor buitengewoon onderwijs met uitzondering van de internaten of semi-internaten;<br>
-5°quinquies Koninklijk Besluit nr. 67 van 20 juli 1982 tot vaststelling van de wijze waarop de ambten van het paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel worden bepaald in het buitengewoon secundair onderwijs;<br>
-5° quinquies/1 het koninklijk besluit nr. 184 van 30 december 1982 tot vaststelling van de wijze waarop voor de Rijksinstituten voor buitengewoon onderwijs en de tehuizen van het Rijk de ambten worden bepaald van het paramedisch personeel en van het personeel toegekend in het kader van het internaat;<br>
-5°sexies KB nr. 297 van 31 maart 1984 betreffende de opdrachten, de wedden, de weddetoelagen en de verloven voor verminderde prestaties in het onderwijs en de psycho-medisch-sociale centra;<br>
-5° sexies/1 het koninklijk besluit nr. 456 van 10 september 1986 houdende rationalisatie en programmatie van de internaten van het door de Staat georganiseerde of gesubsidieerde onderwijs;<br>
-6° het bijzonder decreet van 19 december 1988 betreffende de Autonome Raad voor het Gemeenschapsonderwijs;<br>
-7° het bijzonder decreet van 19 december 1988 betreffende de Vlaamse Autonome Hogescholen;<br>
-8° het decreet van 5 juli 1989 betreffende het onderwijs;<br>
-9° het decreet van 12 juli 1990 houdende de regeling van de basiseducatie voor laaggeschoolde volwassenen;<br>
-10° het decreet van 31 juli 1990 betreffende het onderwijs-II;<br>
-11° het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br>
-12° het decreet van 7 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
-13° het decreet van 12 juni 1991 betreffende de universiteiten van de Vlaamse Gemeenschap;<br>
-14° het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen;<br>
-15° het decreet van 17 juli 1991 betreffende de inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
-16° het decreet van 9 april 1992 betreffende het onderwijs-III;<br>
-17° het decreet van 28 april 1993 betreffende het onderwijs-IV;<br>
-18° het decreet van 15 december 1993 betreffende het onderwijs-V;<br>
-19° het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap;<br>
-20° het decreet van 21 december 1994 betreffende het onderwijs-VI;<br>
-21° het decreet van 16 april 1996 betreffende de lerarenopleiding en de nascholing;<br>
-22° het decreet van 8 juli 1996 betreffende het onderwijs-VII;<br>
-22°bis KB nr. 439 van 11 augustus 1986 houdende rationalisatie en programmatie van het buitengewoon onderwijs;<br>
-23° het decreet basisonderwijs van 25 februari 1997;<br>
-24° het decreet van 15 juli 1997 betreffende het onderwijs-VIII;<br>
-25° het decreet van 9 juni 1998 betreffende de Hogere Zeevaartschool;<br>
-26° het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs;<br>
-27° het decreet van 14 juli 1998 betreffende het onderwijs-IX;<br>
-28° het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br>
-29° het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs;<br>
-30° het decreet van 18 mei 1999 betreffende het onderwijs-X;<br>
-31° het decreet van 18 mei 1999 betreffende het onderwijs-XI;<br>
-32° het decreet van 8 juni 2000 houdende dringende maatregelen betreffende het lerarenambt;<br>
-33° het decreet van 20 oktober 2000 betreffende het onderwijs XII-Ensor;<br>
-33°bis het decreet van 8 juni 2000 houdende dringende maatregelen betreffende het lerarenambt;<br>
-34° het decreet van 16 februari 2001 houdende regeling van de studietoelagen voor het hoger onderwijs in de Vlaamse Gemeenschap;<br>
-35° het decreet van 20 april 2001 houdende een aanpassing van de regelgeving betreffende het tertiair onderwijs;<br>
-36° het decreet van 13 juli 2001 betreffende het onderwijs XIII-Mozaïek;<br>
-36°bis het decreet van 22 juni 2002 betreffende de gelijke onderwijskansen I;<br>
-36°ter het decreet van 18 januari 2002 betreffende de eindtermen, de ontwikkelingsdoelen en de specifieke eindtermen in het voltijds gewoon en buitengewoon secundair onderwijs;<br>
-36°quater, de decretale bepalingen uit het Besluit van de Vlaamse Regering van 6 december 2002 betreffende de organisatie van het buitengewoon secundair onderwijs van opleidingsvorm 3;<br>
-37° het decreet betreffende het onderwijs XIV;<br>
-38° het decreet betreffende het onderwijs XV;<br>
-39° het decreet betreffende het onderwijs XVI.<br>
-40° het decreet betreffende het onderwijs XVII.<br>
-41° het decreet van 16 mei 2007 betreffende dringende maatregelen voor het onderwijs;<br>
-42° het decreet betreffende het onderwijs XVIII;<br>
-42° bis het decreet van 6 juni 2008 houdende het instellen van een rookverbod in onderwijsinstellingen en centra voor leerlingenbegeleiding;<br>
-43° het decreet van 4 juli 2008 betreffende de werkingsbudgetten in het secundair onderwijs en tot wijziging van het decreet basisonderwijs van 25 februari 1997 wat de werkingsbudgetten betreft;<br>
-44° het decreet van 10 juli 2008 houdende enkele dringende maatregelen voor het deeltijds kunstonderwijs;<br>
-44°bis het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap,<br>
-45° het decreet van 8 mei 2009 betreffende het onderwijs XIX;<br>
-46° het decreet betreffende het onderwijs XX.<br>
-47° het decreet betreffende het onderwijs XXI.<br>
-48° het decreet betreffende het onderwijs XXII;<br>
-49° het decreet betreffende het onderwijs XXIII;<br>
-50° het decreet betreffende het onderwijs XXIV;<br>
-51° het decreet betreffende het onderwijs XXV;<br>
-52° het decreet van 21 maart 2014 betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften;<br>
-53° het decreet betreffende het onderwijs XXVI;<br>
-<br>
-Te dien einde kan de regering:<br>
-1° de volgorde en de nummering van de te coördineren bepalingen veranderen en in het algemeen de teksten naar de vorm wijzigen;<br>
-2° de verwijzingen die voorkomen in de te coördineren bepalingen, met de nieuwe nummering overeenbrengen;<br>
-3° zonder afbreuk te doen aan de beginselen die in de te coördineren bepalingen vervat zijn, de redactie ervan wijzigen teneinde eenheid in de terminologie te brengen, de bepalingen onderling te doen overeenstemmen en ze in overeenstemming te brengen met de actuele stand van de regelgeving, inzonderheid door de afstemming op Afdeling 3 van dit hoofdstuk;<br>
-4° in de bepalingen die niet in de coördinatie worden opgenomen, de verwijzingen naar de gecoördineerde bepalingen aanpassen.
+...
 
 ### ART. X. 36.
 
@@ -1343,23 +1260,23 @@ De bepalingen van deze afdeling hebben uitwerking met ingang van 1 september 200
 
 ### ART. X. 39.
 
-Deze afdeling is van toepassing op:<br />1° de personeelsleden bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br />2° de personeelsleden bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br />3° de leden van de inspectie voor het onderwijs georganiseerd door de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />4° de leden van de inspectie voor de PMS/CLB-centra georganiseerd door de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />5° de personeelsleden van de dienst voor onderwijsontwikkeling, bedoeld in artikel 9 van het decreet van 7 juli 1991 betreffende inspectie, Dienst voor onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />6° de personeelsleden van de pedagogische begeleidingsdiensten, bedoeld in artikel 88 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />7° de personeelsleden, bedoeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br />8° de personeelsleden van de Centra voor Basiseducatie, vermeld in artikel 127, § 1, 1° en 2° van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.
+...
 
 ### ART. X. 40.
 
-De Vlaamse regering bepaalt de bekwaamheidsbewijzen die toegang verlenen tot elk ambt of voor de basiseducatie tot elke functie.<br /><br />Zij kan daarbij rekening houden met het te onderwijzen vak of specialiteit, de opleiding, de module, het onderwijsniveau, de onderwijsvorm, de graad het hoger beroepsonderwijs van kwalificatieniveau 5, de cyclus of de opleidingsvorm.
+...
 
 ### ART. X. 41.
 
-Als bekwaamheidsbewijs geldt een studiebewijs en/of de competenties verworven door activiteiten die het personeelslid uitoefent of heeft uitgeoefend, zowel binnen als buiten het onderwijs. Beide kunnen eventueel worden aangevuld met een bewijs van pedagogische bekwaamheid.<br /><br />In het gesubsidieerd vrij onderwijs kan de Vlaamse regering de hoedanigheid van bedienaar van de eredienst gelijkwaardig verklaren met een bekwaamheidsbewijs.
+...
 
 ### ART. X. 42.
 
-De Vlaamse regering kan voor een ambt of voor de basiseducatie voor een functie naast vereiste ook voldoende geachte en andere be-kwaamheidsbewijzen vastleggen. Zij kan daarbij onder meer rekening houden met de situatie op de onderwijsarbeidsmarkt.<br /><br />Aan personen met een ander bekwaamheidsbewijs wordt tijdelijk een financiering of subsidiëring verleend. De Vlaamse regering bepaalt de voorwaarden waaronder dit gebeurt.
+...
 
 ### ART. X. 43.
 
-Vooraleer de Vlaamse regering in uitvoering van deze bepalingen de bekwaamheidsbewijzen vastlegt, blijft de geldende regelgeving inzake bekwaamheidsbewijzen van toepassing en is de Vlaamse regering ertoe gemachtigd de van kracht zijnde bepalingen te wijzigen, geheel of gedeeltelijk op te heffen en/of te vervangen.
+...
 
 ## ONDERAFDELING 2 SLOTBEPALINGEN
 
@@ -1383,7 +1300,7 @@ Vooraleer de Vlaamse regering in uitvoering van deze bepalingen de bekwaamheidsb
 
 ### ART. X. 48.
 
-De bepalingen van deze afdeling hebben uitwerking met ingang van 1 april 1991.
+...
 
 ## AFDELING 6 INFORMATISERING
 
@@ -1391,42 +1308,33 @@ De bepalingen van deze afdeling hebben uitwerking met ingang van 1 april 1991.
 
 ### ART. X. 49.
 
-De Vlaamse regering kent voor de informatisering van het onderwijs jaarlijks een toelage toe aan:<br />1° de scholen voor gewoon en buitengewoon basisonderwijs;<br />2° de onderwijsinstellingen voor voltijds secundair onderwijs, buitengewoon secundair onderwijs en deeltijds beroepssecundair onderwijs;<br />3° de instellingen voor deeltijds kunstonderwijs;<br />4° de centra voor volwassenenonderwijs;<br />5° de centra voor basiseducatie.
+...
 
 ### ART. X. 50.
 
-§ 1. De in artikel X. 49 bedoelde toelagen worden toegekend binnen het daartoe voorziene globale begrotingskrediet. De Vlaamse regering bepaalt de toewijzing van dit krediet aan de verschillende onderwijsniveaus en -vormen en - in voorkomend geval - de verschillende onderverdelingen daarvan, rekening houdend met de verschillende noden inzake de aankoop of huur van hardware, software, randapparatuur, de kosten van een internetaansluiting en specifieke nascholing inzake het gebruik van ICT.<br /><br />§ 2. De toelagen worden vastgesteld door het aantal regelmatige/financierbare leerlingen, lesurencursist of betoelaagde urencursist te vermenigvuldigen met een door de Vlaamse regering bepaald bedrag.<br /><br />Aan de ziekenhuisscholen wordt een forfaitair bedrag toegekend.<br /><br />Aan de centra voor basiseducatie wordt een forfaitair bedrag toegekend waarvan de hoegrootheid wordt bepaald door het aantal lesurencursist.
+...
 
 ### ART. X. 51.
 
-De Vlaamse regering bepaalt de nadere modaliteiten met betrekking tot:<br>
-1° de vaststelling van de toelagen, inzonderheid de datum waarop zij worden vastgesteld;<br>
-2° de toekenning van de toelagen;<br>
-3° de aanwending van de toelagen.<br>
-<br>
-Zij houdt daarbij rekening met de actuele noden inzake informatisering.
+...
 
 ## ONDERAFDELING 2 ICT-COÖRDINATOREN
 
 ### ART. X. 52.
 
-De Vlaamse regering kent jaarlijks binnen het daartoe voorziene begrotingskrediet middelen toe voor ICT-coördinatie in het onderwijs.<br>
-<br>
-Deze middelen bestaan uit:<br>
-1° werkingsmiddelen die uitsluitend worden aangewend voor de logistieke en materiële ondersteuning van ICT-coördinatoren;<br>
-2° puntenenveloppes die uitsluitend worden aangewend voor personeelsomkadering inzake ICT-cordinatie.
+...
 
 ### ART. X. 53.
 
-§ 1. De middelen worden toegekend aan iedere school voor gewoon of   buitengewoon basisonderwijs, aan iedere school voor gewoon of buitengewoon   secundair onderwijs, aan ieder centrum voor volwassenenonderwijs en aan iedere   instelling voor deeltijds kunstonderwijs. De scholen, instellingen en centra   kunnen de middelen alleen aanwenden als ze deel uit maken van :<BR>1° een   scholengemeenschap in het basis- of het secundair onderwijs of<BR>2° een   scholengroep of<BR>2°bis ...<BR>3° een samenwerkingsplatform tussen:<BR>- (een)   scholengemeenschap(pen) in het basis- of secundair onderwijs en/of<BR>- (een)   scholengroep(en) en/of<BR>- (een) scho(o)l(en) voor gewoon en/of buitengewoon   basisonderwijs, voorzover deze niet beho(o)r(t)(en) tot een scholengemeenschap   in het basisonderwijs en/of<BR>- (een) onderwijsinstelling(en) voor gewoon   secundair onderwijs, voorzover deze niet beho(o)r(t)(en) tot een   scholengemeenschap in het secundair onderwijs en/of<BR>- (een)   onderwijsinstelling(en) voor buitengewoon secundair onderwijs en/of<BR>- (een)   centr(um)(a) voor volwassenenonderwijs en/of<BR>- (een) instelling(en) voor   deeltijds kunstonderwijs.<BR><BR>De scholengemeenschap, de scholengroep, of het   samenwerkingsplatform maakt afspraken over de aanwending van de   middelen.<BR><BR>§ 2. Een overeenkomst houdende oprichting van een in § 1, 3°,   bedoeld samenwerkingsplatform wordt afgesloten:<BR>1° voor het schooljaar   2003-2004 voor de duur van één schooljaar;<BR>2° voor het schooljaar 2004-2005   voor de duur van één schooljaar;<BR>3° vanaf 1 september 2005 steeds voor de   duur van zes schooljaren, met uitzondering van de overeenkomst die in werking   treedt op 1 september 2011 en slechts geldt voor de duur van drie schooljaren.   Tijdens de betrokken periode kan deze overeenkomst worden gewijzigd ten gevolge   van toepassing van artikel 125quinquies, § 4, van het decreet van 25 februari   1997 betreffende het basisonderwijs of van artikel 51, derde lid, van de Codex   Secundair Onderwijs. Een wijziging van een overeenkomst treedt in werking op   dezelfde datum waarop de wijziging in de scholengemeenschap in werking   treedt.<BR><BR>De Vlaamse Regering kan het minimum aantal   instellingen/leerlingen/lesurencursist bepalen dat bij een samenwerkingsplatform   moet worden betrokken. Indien het samenwerkingsplatform een scholengemeenschap   en/of een scholengroep&nbsp;omvat, kan van deze regeling worden afgeweken.   <BR><BR>Het samenwerkingsplatform wordt door het school- of centrumbestuur in   kwestie uiterlijk op 1 mei voorafgaand aan de inwerkingtreding van de   samenwerkingsovereenkomst gemeld aan het betrokken Agentschap van het Vlaams   Ministerie van Onderwijs en Vorming.
+...
 
 ### ART. X. 54.
 
-De middelen worden berekend door per instelling het aantal regelmatige leerlingen/cursisten op de gebruikelijke teldatum, respectievelijk het aantal lesurencursist binnen de referteperiode, te vermenigvuldigen met een coëfficiënt en een wegingsfactor, bepaald door de Vlaamse regering.
+...
 
 ### ART. X. 55.
 
-De punten van de enveloppe kunnen worden aangewend voor het oprichten van één of meer betrekkingen in ambten van het ondersteunend personeel, het beleids- en ondersteunend personeel, administratief personeel, opvoedend hulppersoneel, onderwijzend en/of bestuurspersoneel met uitzondering van de ambten van adjunct-directeur en directeur, rekening houdend met wat volgt:<br />1° als in een instelling voor gewoon of buitengewoon secundair onderwijs een betrekking in een ambt van het ondersteunend personeel wordt opgericht, gebeurt dat volgens artikel 30 of artikel 31 van de Codex Secundair Onderwijs;<br />2° als een betrekking in een ambt van het opvoedend hulppersoneel, in een ambt van het administratief personeel of in een ambt van administratief medewerker in een centrum voor volwassenenonderwijs wordt opgericht waarin een personeelslid wordt aangesteld dat recht heeft op weddenschaal 200, 201, 202, 203, 122, worden voor een voltijdse betrekking 63 punten in rekening gebracht. Voor een halftijdse betrekking worden 31.5 punten in rekening gebracht. Voor een deeltijdse betrekking in het deeltijds kunstonderwijs en in een centrum voor volwassenenonderwijs, wordt per uur 1,5 punten in rekening gebracht;<br />3° als een betrekking in een ambt van het opvoedend hulppersoneel, in een ambt van het administratief personeel of in een ambt van administratief medewerker in een centrum voor volwassenenonderwijs wordt opgericht waarin een personeelslid wordt aangesteld dat recht heeft op weddenschaal 158, 106, 163, 164, 100, 208, 104, 123, 126, worden voor een voltijdse betrekking 82 punten in rekening gebracht. Voor een halftijdse betrekking worden 41 punten in rekening gebracht. Voor een deeltijdse betrekking in het deeltijds kunstonderwijs en in een centrum voor volwassenenonderwijs, wordt per uur 2,5 punten in rekening gebracht;<br />4° voor de betrekkingen die worden opgericht in een ambt van het onderwijzend personeel, het bestuurspersoneel of het beleids- en ondersteunend personeel, legt de Vlaamse regering het aantal punten vast dat in rekening moet worden gebracht voor een personeelslid dat in dit ambt wordt aangesteld. <br />5° ...<br />6° ... <br /><br />Het personeelslid dat in de betrekking bedoeld in het eerste lid wordt aangesteld, wordt steeds aangesteld als tijdelijk personeelslid. De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, blijven verder van toepassing, met uitzondering van volgende bepalingen:<br />1° de betrekking is niet onderworpen aan de reglementering inzake ter beschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. De inrichtende macht van de instelling waaraan de betrekking wordt toegewezen, kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ont-stentenis van betrekking. Deze aanstelling wordt beschouwd als een reaffectatie of een wedertewerkstelling. Deze reaffectatie of wedertewerkstelling gebeurt steeds met instemming van het ter beschikkinggestelde personeelslid;<br />2° de inrichtende macht van de instelling waaraan de betrekking wordt toegewezen, is niet verplicht om in deze betrekking een personeelslid aan te stellen dat voorrang heeft voor een tijdelijke aanstelling of dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven, overeenkomstig artikel 21 en 21bis van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en artikel 23 en 23bis van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs;<br />3° de betrekking kan niet worden vacant verklaard. De inrichtende macht kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking.<br /><br />In afwijking op de bepalingen van het tweede lid, zijn voor de personeelsleden van het beleids- en ondersteunend personeel van het basisonderwijs alle bepalingen van toepassing van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en het decreet rechtspositie personeelsleden gesubsidieerd onderwijs.
+...
 
 ## ONDERAFDELING 3 INWERKINGTREDINGSBEPALING
 
@@ -1438,15 +1346,15 @@ De bepalingen van deze afdeling treden als volgt in werking:<br /><br />1° de b
 
 ### ART. X. 57.
 
-Binnen de haar door het artikel 23, § 1, 4°, h , van het bijzonder decreet van 14 juli 1998 betref-fende het gemeenschapsonderwijs toegekende bevoegdheid legt de raad van bestuur van de scholengroep jaarlijks, na onderhandeling in het basiscomité van de scholengroep, een personeelsformatie vast voor het contractueel meesters-, vak- en dienstpersoneel.
+...
 
 ### ART. X. 58.
 
-§ 1. De Vlaamse Gemeenschap kan een jaarsalaris of jaarsalaristoelage   uitbetalen voor bepaalde categorieën van personeelsleden van het onderwijs die   zijn aangesteld via een arbeidsovereenkomst in de zin van de wet van 3 juli 1978   betreffende de arbeidsovereenkomsten.<BR><BR>De Vlaamse regering legt vast op   welke personeelscategorieën deze bepaling van toepassing is.<BR><BR>§ 2. De   bepalingen van hoofdstuk IX van het decreet van 13 juli 2001 betreffende het   onderwijs-XIII-Mozaïek zijn van toepassing op de personeelsleden bedoeld in §   1.<BR><BR>§ 3. De Vlaamse regering kan nadere betalingsvoorwaarden   vastleggen.<BR><BR>§ 4. De Vlaamse Regering bepaalt de prestatieregeling, de   vakantieregeling en de verlofregeling van de personeelsleden vermeld in   paragraaf 1.
+...
 
 ### ART. X. 59.
 
-§ 1. De onroerende goederen die eigendom zijn van het Gemeenschapsonderwijs hebben onderwijsbestemming en behoren tot het openbaar domein.<br /><br />§ 2. De bepalingen van § 1 doen op geen enkele wijze afbreuk aan het recht van het Gemeenschapsonderwijs om overeenkomstig de ter zake geldende bepalingen van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs:<br /><br />1° zijn onroerende goederen te beheren en inzonderheid te desaffecteren; en<br /><br />2° over deze goederen te beschikken.<br /><br />De opbrengsten die verbonden zijn aan de in het eerste lid genoemde daden van beheer of beschikking worden aangewend overeenkomstig de bepalingen van artikel 13, § 2, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving.
+...
 
 ### ART. X. 60.
 
@@ -1454,7 +1362,7 @@ De Vlaamse regering is ertoe gemachtigd het koninklijk besluit nr. 456 van 10 se
 
 ### ART. X. 61.
 
-De Vlaamse regering bepaalt de duur en het tijdstip van de jaarlijkse vakantie voor wat betreft:<br />1° de personeelsleden bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br />2° de personeelsleden bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br />3° de leden van de inspectie voor het onderwijs georganiseerd door de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />4° de leden van de inspectie voor de PMS/CLB-centra georganiseerd door de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />5° de personeelsleden van de dienst voor onderwijsontwikkeling, bedoeld in artikel 9 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />6° de personeelsleden van de pedagogische begeleidingsdiensten, bedoeld in artikel 88 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />7° de personeelsleden, bedoeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br />8° de personeelsleden van de kinderdagverblijven van het gemeenschapsonderwijs gelegen in het tweetalig hoofdstedelijk gebied Brussel, bedoeld in artikel X.22 van dit decreet.
+...
 
 ### ART. X. 62.
 
