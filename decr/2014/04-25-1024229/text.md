@@ -18,7 +18,15 @@ Behoudens de in dit decreet bepaalde afwijkingen is op de vastbenoemde   persone
 
 ### ART. 3.
 
-<P>Elk vastbenoemd personeelslid wordt ambtshalve gepensioneerd op de eerste dag   van de maand die volgt op die waarin het personeelslid zijn 65ste verjaardag   bereikt.<BR></P>  <P>De VRT brengt de Pensioendienst voor de Overheidssector schriftelijk op de   hoogte van de ambtshalve pensionering, uiterlijk zes maanden vóór de   ingangsdatum van het ambtshalve pensioen.<BR></P>  <P>In afwijking van de ambtshalve pensionering, kan de VRT, in onderling   akkoord, een vastbenoemd personeelslid na het einde van de maand waarin hij de   ambtshalve pensioenleeftijd heeft bereikt, nog verder in dienst houden voor een   periode van maximaal één jaar, telkens verlengbaar met maximaal één   jaar.<BR></P>
+<p>Elk vastbenoemd personeelslid wordt ambtshalve gepensioneerd op de eerste dag van de maand die volgt op die waarin het personeelslid zijn 65ste verjaardag bereikt.<br>
+<br>
+In afwijking van het eerste lid wordt de 65ste verjaardag vervangen door:<br>
+1° de 66ste verjaardag als de pensionering ingaat tussen 1 februari 2025 en 31 januari 2030;<br>
+2° de 67ste verjaardag als de pensionering ingaat vanaf 1 februari 2030.</p>
+
+<p>De VRT brengt de Pensioendienst voor de Overheidssector schriftelijk op de hoogte van de ambtshalve pensionering, uiterlijk zes maanden vóór de ingangsdatum van het ambtshalve pensioen.</p>
+
+<p>In afwijking van de ambtshalve pensionering, kan de VRT, in onderling akkoord, een vastbenoemd personeelslid na het einde van de maand waarin hij de ambtshalve pensioenleeftijd heeft bereikt, nog verder in dienst houden voor een periode van maximaal één jaar, telkens verlengbaar met maximaal één jaar.</p>
 
 ## Afdeling 2 Lichamelijke ongeschiktheid
 
@@ -47,7 +55,8 @@ Voor de personeelsleden die vóór 1 januari 1995 bij de VRT in dienst zijn   ge
 <p>De diensten, vermeld in het eerste lid, zijn de werkelijk gepresteerde pensioenaanspraakverlenende diensten bij de VRT, de verloven met behoud van bezoldiging bij de VRT en de verloven, vermeld in hoofdstuk 4, afdeling 3, die aanneembaar zijn voor de opening van het recht op pensioen. Ook als, voor de berekening van het pensioen, het voordeliger tantième niet behouden blijft tijdens de voormelde situaties, wordt de coëfficiënt, vermeld in paragraaf 2, toegepast op die periode op basis van het tantième dat aan die periode verbonden zou zijn geweest als de betrokkene werkelijke diensten was blijven presteren in de functie die hij vóór die situatie uitoefende.</p>
 
 <p>§ 2. De coëfficiënt of coëfficiënten, vermeld in paragraaf 1, worden als volgt vastgesteld :</p>
-<br>
+&nbsp;
+
 <table border="1">
 	<tbody>
 		<tr>
@@ -62,7 +71,7 @@ Voor de personeelsleden die vóór 1 januari 1995 bij de VRT in dienst zijn   ge
 			<td>39 jaar</td>
 			<td>40 jaar</td>
 			<td>41 jaar</td>
-			<td>42 jaar</td>
+			<td>42 jaar of meer</td>
 		</tr>
 		<tr>
 			<td>2013</td>
