@@ -2,16 +2,16 @@
   "codex_id": 1007256,
   "title": "Besluit van de Vlaamse Regering van 2000-02-04 betreffende de overdracht van personeel van de psycho-medisch-sociale centra of de centra voor medisch schooltoezicht naar de centra voor leerlingenbegeleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007256/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "c251c88eaea09059e880cd22362e4516d4fd874e1bdf47f6b79ca45742db2306",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007256/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "81821ea5f0e818173fa6a693d0452424e67c4957b7bfe58b8eeeada4a237fbf7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007256&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2017-01-01",
   "made": "2000-02-04",
   "gazette": "2000-05-16",
   "numac": 2000035408,
   "document_start": "2000-01-01",
   "document_end": "2016-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2017-01-01",
   "article_versions": 62,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
