@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027697,
+  "title": "Ministerieel besluit van 2016-12-20 tot wijziging van artikel 13 en bijlage 3 van het ministerieel besluit van 13 juli 2015 houdende uitvoering van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid, wat betreft de specifieke regels voor vergroening binnen de rechtstreekse betalingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027697/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "5d2ba284e50c5e94110d2084a9226cfc97fe885cd6df876b449f2b1379dbb5d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027697&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-12-20",
+  "gazette": "2016-12-30",
+  "numac": 2016036701,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
