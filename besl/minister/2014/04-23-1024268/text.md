@@ -10,7 +10,10 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder gezondheidsindexcijfer: het   prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2   van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6   januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij   de wet van 30 maart 1994.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° gezondheidsindexcijfer: het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994;<br>
+2° halve dag: een dag met een kinderopvangprestatie die minder dan vijf uur duurt;<br>
+3° volle dag: een dag met een kinderopvangprestatie die vijf tot elf uur duurt.
 
 ## HOOFDSTUK 2 Reserves
 
@@ -42,7 +45,23 @@ Het berekende en individueel verminderde inkomenstarief, vermeld in   artikel 33
 
 ### ART. 7.
 
-<P>§ 1. De voorschotten op de subsidies worden als volgt per subsidiegroep   berekend en betaald:<BR>1° het voorschot bedraagt maximaal 95 % van de geraamde   subsidie. Binnen dat maximum kan de organisator elektronisch vragen aan Kind en   Gezin om een bijkomend voorschot te betalen, na motivatie dat er een wijziging   is in de gegevens die de basis vormen voor de berekening;<BR>2° het voorschot   wordt betaald de eerste maand van elk kwartaal, behalve de eerste betaling na de   toekenning van de subsidie, die uiterlijk gedaan wordt de eerste maand die volgt   op de maand waarin de organisator recht heeft op de subsidie.<BR></P>  <P>De raming van de subsidie, vermeld in het eerste lid, 1°, is gebaseerd op de   volgende gegevens die Kind en Gezin ter beschikking heeft over de vier   voorgaande volledige kwartalen:<BR>1° voor de basissubsidie, de plussubsidie, de   subsidie voor kinderopvang met flexibele openingstijden, en de subsidie voor   structurele inclusieve kinderopvang: het aantal gesubsidieerde   kinderopvangplaatsen;<BR>2° voor de subsidie voor inkomenstarief:<BR>a) het   aantal gesubsidieerde kinderopvangplaatsen;<BR>b) de gemiddelde leeftijd van de   personen;<BR>c) het aantal kinderopvangprestaties;<BR>d) de gefactureerde   inkomenstarieven van de gezinnen uit de kinderopvanglocaties die voldoen aan de   voorwaarden voor de subsidie voor inkomenstarief.<BR></P>  <P>Als Kind en Gezin niet beschikt over die gegevens van de vier voorgaande   volledige kwartalen, wordt uitgegaan van een objectieve raming door Kind en   Gezin.<BR></P>  <P>§ 2. In afwijking van paragraaf 1, tweede lid, wordt gedurende het eerste   jaar na de inwerkingtreding van het decreet van 20 april 2012 uitgegaan van een   objectieve raming door Kind en Gezin.<BR></P>  <P>§ 3. In afwijking van paragraaf 1 is er geen voorschot voor de subsidie voor   individuele inclusieve kinderopvang. De subsidie wordt volledig betaald bij de   saldoafrekening, vermeld in artikel 8.<BR></P>
+<p>§ 1. De voorschotten op de subsidies worden als volgt per subsidiegroep berekend en betaald:<br>
+1° het voorschot bedraagt maximaal 95 % van de geraamde subsidie. Binnen dat maximum kan de organisator elektronisch vragen aan Kind en Gezin om een bijkomend voorschot te betalen, na motivatie dat er een wijziging is in de gegevens die de basis vormen voor de berekening;<br>
+2° het voorschot wordt betaald de eerste maand van elk kwartaal, behalve de eerste betaling na de toekenning van de subsidie, die uiterlijk gedaan wordt de eerste maand die volgt op de maand waarin de organisator recht heeft op de subsidie.</p>
+
+<p>De raming van de subsidie, vermeld in het eerste lid, 1°, is gebaseerd op de volgende gegevens die Kind en Gezin ter beschikking heeft over het vorige kalenderjaar, of het kalenderjaar daarvoor als er nog geen saldoafrekening voor het vorige kalenderjaar is gemaakt:<br>
+1° voor de basissubsidie, de plussubsidie, de subsidie voor kinderopvang met flexibele openingstijden, en de subsidie voor structurele inclusieve kinderopvang: het aantal gesubsidieerde kinderopvangplaatsen;<br>
+2° voor de subsidie voor inkomenstarief:<br>
+a) het aantal gesubsidieerde kinderopvangplaatsen;<br>
+b) de gemiddelde leeftijd van de personen;<br>
+c) het aantal kinderopvangprestaties;<br>
+d) de gefactureerde inkomenstarieven van de gezinnen uit de kinderopvanglocaties die voldoen aan de voorwaarden voor de subsidie voor inkomenstarief.</p>
+
+<p>Als Kind en Gezin niet beschikt over de gegevens, vermeld in het tweede lid, wordt uitgegaan van een objectieve raming door Kind en Gezin.</p>
+
+<p>§ 2. In afwijking van paragraaf 1, tweede lid, wordt gedurende het eerste jaar na de inwerkingtreding van het decreet van 20 april 2012 uitgegaan van een objectieve raming door Kind en Gezin.</p>
+
+<p>§ 3. In afwijking van paragraaf 1 is er geen voorschot voor de subsidie voor individuele inclusieve kinderopvang. De subsidie wordt volledig betaald bij de saldoafrekening, vermeld in artikel 8.</p>
 
 ### ART. 8.
 
@@ -120,7 +139,16 @@ Het aantal minimale openingsdagen voor de basissubsidie wordt   verhoudingsgewij
 
 ### ART. 16.
 
-<P>De bezetting voor de subsidie voor inkomenstarief wordt als volgt berekend   per kalenderjaar en per subsidiegroep:<BR>1° het aantal gereserveerde   kinderopvangdagen wordt vermenigvuldigd met 100;<BR>2° het aantal gesubsidieerde   kinderopvangplaatsen waarvoor de organisator de subsidie voor inkomenstarief   krijgt, wordt vermenigvuldigd met 220;<BR>3° het resultaat van de   vermenigvuldiging, vermeld in punt 1°, wordt gedeeld door het resultaat van de   vermenigvuldiging, vermeld in punt 2°.<BR></P>  <P>Voor het aantal gereserveerde kinderopvangdagen, vermeld in het eerste lid,   1°, tellen volgende kinderopvangdagen mee:<BR>1° voor 100 % :<BR>a) alle   gereserveerde kinderopvangdagen van alle kinderopvanglocaties van dezelfde   subsidiegroep die voldoen aan de voorwaarden, vermeld in artikel 20 tot en met   36 van het Subsidiebesluit van 22 november 2013, met uitzondering van   kinderopvangprestaties 's nachts en kinderopvangprestaties voor kinderen die tot   het thuismilieu van de kinderbegeleider gezinsopvang behoren en waarvoor de   kinderbegeleider verantwoordelijkheid draagt;<BR>b) alle kinderopvangdagen van   kinderen die minstens drie uur per dag buitenschools opgevangen worden, van alle   kinderopvanglocaties gezinsopvang die voldoen aan de voorwaarden, vermeld in   artikel 20 tot en met 36 van het Subsidiebesluit van 22 november 2013, met   uitzondering van kinderopvangprestaties 's nachts en kinder-opvangprestaties   voor kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang   behoren en waarvoor de kinderbegeleider verantwoordelijkheid draagt;<BR>2° voor   40 % : alle kinderopvangdagen van kinderen die minder dan drie uur per dag   buitenschools opgevangen worden van alle kinderopvanglocaties gezinsopvang die   voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36 van het   Subsidiebesluit van 22 november 2013, met uitzondering van   kinderopvangprestaties 's nachts en kinderopvangprestaties voor kinderen die tot   het thuismilieu van de kinderbegeleider gezinsopvang behoren en waarvoor de   kinderbegeleider verantwoordelijkheid draagt.<BR></P>
+<p>De bezetting voor de subsidie voor inkomenstarief wordt als volgt berekend per kalenderjaar en per subsidiegroep:<br>
+1° het aantal gereserveerde kinderopvangdagen wordt vermenigvuldigd met 100;<br>
+2° het aantal gesubsidieerde kinderopvangplaatsen waarvoor de organisator de subsidie voor inkomenstarief krijgt, wordt vermenigvuldigd met 220;<br>
+3° het resultaat van de vermenigvuldiging, vermeld in punt 1°, wordt gedeeld door het resultaat van de vermenigvuldiging, vermeld in punt 2°.</p>
+
+<p>Voor het aantal gereserveerde kinderopvangdagen, vermeld in het eerste lid, 1°, tellen volgende kinderopvangdagen mee:<br>
+1° voor 100 % :<br>
+a) alle gereserveerde kinderopvangdagen van alle kinderopvanglocaties van dezelfde subsidiegroep die voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36 van het Subsidiebesluit van 22 november 2013, met uitzondering van kinderopvangprestaties 's nachts en kinderopvangprestaties voor kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren en waarvoor de kinderbegeleider verantwoordelijkheid draagt;<br>
+b) alle kinderopvangdagen van kinderen die minstens drie uur per dag buitenschools opgevangen worden, van alle kinderopvanglocaties&nbsp;die voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36 van het Subsidiebesluit van 22 november 2013, met uitzondering van kinderopvangprestaties 's nachts en kinder-opvangprestaties voor kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren en waarvoor de kinderbegeleider verantwoordelijkheid draagt;<br>
+2° voor 40 % : alle kinderopvangdagen van kinderen die minder dan drie uur per dag buitenschools opgevangen worden van alle kinderopvanglocaties&nbsp;die voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 36 van het Subsidiebesluit van 22 november 2013, met uitzondering van kinderopvangprestaties 's nachts en kinderopvangprestaties voor kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren en waarvoor de kinderbegeleider verantwoordelijkheid draagt.</p>
 
 ## Afdeling 2 Toegang bepaalde gezinnen
 
@@ -158,7 +186,11 @@ Het bedrag voor de reservatie of waarborg, een inschrijvingsprijs, of   gelijk w
 
 ### ART. 22/1.
 
-De startdatum, vermeld op het attest inkomenstarief, is de maand na de   aanvraag van het attest inkomenstarief, tenzij:<BR>1° bij de start van de   kinderopvang, in welk geval de startdatum steeds de maand van de start is;<BR>2°   het OCMW of de organisator een beslissing nemen als vermeld in artikel 34/1 van   het Subsidiebesluit van 22 november 2013, die kan gelden met terugwerkende   kracht.<BR><BR>De einddatum, vermeld op het attest inkomenstarief, is de laatste   dag van het kalenderjaar van de aanvraag van het attest inkomenstarief, tenzij   wanneer het kind 3,5 jaar wordt, in welk geval de einddatum de laatste dag van   de maand is waarin het kind deze leeftijd krijgt.
+De startdatum, vermeld op het attest inkomenstarief, is de maand na de aanvraag van het attest inkomenstarief, tenzij:<br>
+1° bij de start van de kinderopvang, in welk geval de startdatum steeds de maand van de start is;<br>
+2° het OCMW of de organisator een beslissing nemen als vermeld in artikel 34/1 van het Subsidiebesluit van 22 november 2013, die kan gelden met terugwerkende kracht.<br>
+<br>
+De einddatum, vermeld op het attest inkomenstarief, is de laatste dag van het kalenderjaar van de aanvraag van het attest inkomenstarief. Als het kind 3,5 jaar wordt, is de einddatum echter de laatste dag van het kwartaal waarin het kind 3,5 jaar wordt. Een individueel verminderd inkomenstarief wordt toegekend voor minstens één jaar, waarbij de einddatum telkens de laatste dag van het kwartaal is waarin het attest inkomenstarief een jaar geldigheid bereikt. Als het kind 3,5 jaar wordt, is de einddatum echter de laatste dag van het kwartaal waarin het kind 3,5 jaar wordt.
 
 ### ART. 23.
 
@@ -170,7 +202,10 @@ De startdatum, vermeld op het attest inkomenstarief, is de maand na de   aanvraa
 
 ### ART. 25.
 
-Voor de berekening van het inkomenstarief wordt het inkomen als volgt   vermenigvuldigd met een coëfficiënt:<BR>1° voor een inkomen tot en met 41.774,97   euro wordt het inkomen vermenigvuldigd met 0,000385. Het verkregen tarief wordt   geplafonneerd op 15,88 euro;<BR>2° voor een inkomen van 41.774,98 euro tot en   met 59.772,14 euro wordt het inkomen vermenigvuldigd met 0,000380. Het verkregen   tarief wordt geplafonneerd op 20,95 euro;<BR>3° voor een inkomen van 59.772,15   euro of hoger wordt het tarief van 20,95 euro per begonnen inkomensschijf van   3700 euro, gerekend vanaf 59.772,15, verhoogd met 0,60 euro. Het bekomen tarief   wordt geplafonneerd op het maximaal tarief, vermeld in artikel   27.<BR>
+Voor de berekening van het inkomenstarief wordt het inkomen als volgt vermenigvuldigd met een coëfficiënt:<br>
+1° voor een inkomen tot en met 41.774,97 euro wordt het inkomen vermenigvuldigd met 0,000385. Het verkregen tarief wordt geplafonneerd op 15,95 euro;<br>
+2° voor een inkomen van 41.774,98 euro tot en met 59.772,14 euro wordt het inkomen vermenigvuldigd met 0,000380. Het verkregen tarief wordt geplafonneerd op 20,95 euro;<br>
+3° voor een inkomen van 59.772,15 euro of hoger wordt het tarief van 20,95 euro per begonnen inkomensschijf van 3700 euro, gerekend vanaf 59.772,15, verhoogd met 0,60 euro. Het bekomen tarief wordt geplafonneerd op het maximaal tarief, vermeld in artikel 27.
 
 ### ART. 26.
 
@@ -206,12 +241,7 @@ De organisator geeft voor elke maand kinderopvang een factuur aan de contracthou
 3° het tarief voor ongerechtvaardigde afwezigheidsdagen;<br>
 4° de gedetailleerde opgave van alle bijkomende tarieven die boven op het inkomenstarief in rekening zijn gebracht, met vermelding van de aard, het aantal en het bedrag.<br>
 <br>
-In geval het kind wordt opgevangen in een kinderopvanglocatie waarvoor de organisator subsidie voor kinderopvang met flexibele openingstijden ontvangt, bevat de factuur naast de gegevens, vermeld in het eerste lid, ook de vermelding van het aantal flexibele dagen dat het kind van de contracthouder in de kinderopvanglocatie opgevangen werd.<br>
-<br>
-In het eerste lid, 1°, en het tweede lid wordt verstaan onder:<br>
-1° volle dagen: dagen met kinderopvangprestaties die vijf tot elf uur duren;<br>
-2° halve dagen: dagen met kinderopvangprestaties die minder dan vijf uur duren;<br>
-3° flexibele dagen: dagen met kinderopvangprestaties die meer dan elf uur duren.
+In geval het kind wordt opgevangen in een kinderopvanglocatie waarvoor de organisator subsidie voor kinderopvang met flexibele openingstijden ontvangt, bevat de factuur naast de gegevens, vermeld in het eerste lid, ook de vermelding van het aantal dagen dat het kind van de contracthouder langer dan 11 uur op een dag, in de kinderopvanglocatie opgevangen werd.
 
 ## Onderafdeling 4 [... (opgeh. MB 24 april 2015, art. 10, I: 1 mei 2015)]
 
