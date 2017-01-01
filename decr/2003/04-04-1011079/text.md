@@ -278,7 +278,102 @@ Met uitzondering van de sociaal-culturele bewegingen waar deze regel geldt vanaf
 
 ### ART. 44.
 
-§ 1. De Vlaamse Regering subsidieert via jaarlijkse subsidie-enveloppen de   organisaties voor sociaalcultureel volwassenenwerk telkens voor een periode van   vijf jaar. De eerste beleidsperiode wordt beperkt tot twee jaar en loopt van 1   januari 2004 tot en met 31 december 2005, behalve voor de sociaal-culturele   bewegingen waarvan de beleidsperiode loopt van 1 januari 2005 tot en met 31   december 2010.<BR><BR>§ 2. Nieuwe organisaties kunnen voor de periode van 1   januari 2006 tot en met 31 december 2009 een aanvraag indienen tot het   verkrijgen van een jaarlijkse subsidie als sociaal-culturele beweging. Deze   aanvragen worden gehonoreerd binnen de beschikbare kredieten.<BR><BR>§ 3. De   subsidie-enveloppe bevat de financiële middelen voor de ondersteuning van de   jaarlijkse personeels- en werkingskosten van de organisaties.<BR><BR>§ 4. De   subsidie-enveloppe van een organisatie die in 2011 middelen kreeg vanuit een   provincie, wordt, in afwijking van artikelen 8, § 2, 10, 11, 15bis, 17, 22, 27,   31, 34 en 36, verhoogd met 90 % van de bedragen die door de provincie(s) in 2011   werden uitgekeerd als structurele ondersteuning van die organisatie.<BR><BR>§ 5.   Vanaf 2017 kan de Vlaamse Regering bepalen hoe de bedragen waarmee de   subsidie-enveloppen van de organisaties werden verhoogd, overeenkomstig   paragraaf 4, zullen worden herverdeeld over de erkende organisaties voor   sociaal-cultureel volwassenenwerk.<BR><BR>Een herverdeling krijgt toepassing in   het tweede kalenderjaar na de beslissing van de Vlaamse Regering en op zijn   vroegst vanaf het kalenderjaar dat start op 1 januari 2019.
+§ 1. De Vlaamse Regering subsidieert via jaarlijkse subsidie-enveloppen de organisaties voor sociaalcultureel volwassenenwerk telkens voor een periode van vijf jaar. De eerste beleidsperiode wordt beperkt tot twee jaar en loopt van 1 januari 2004 tot en met 31 december 2005, behalve voor de sociaal-culturele bewegingen waarvan de beleidsperiode loopt van 1 januari 2005 tot en met 31 december 2010.<br>
+<br>
+§ 2. Nieuwe organisaties kunnen voor de periode van 1 januari 2006 tot en met 31 december 2009 een aanvraag indienen tot het verkrijgen van een jaarlijkse subsidie als sociaal-culturele beweging. Deze aanvragen worden gehonoreerd binnen de beschikbare kredieten.<br>
+<br>
+§ 3. De subsidie-enveloppe bevat de financiële middelen voor de ondersteuning van de jaarlijkse personeels- en werkingskosten van de organisaties.<br>
+<br>
+§ 4. De subsidie-enveloppe van een organisatie die in 2011 middelen kreeg vanuit een provincie, wordt, in afwijking van artikelen 8, § 2, 10, 11, 15bis, 17, 22, 27, 31, 34 en 36, verhoogd met 90 % van de bedragen die door de provincie(s) in 2011 werden uitgekeerd als structurele ondersteuning van die organisatie.<br>
+<br>
+§ 5. Vanaf 2017 kan de Vlaamse Regering bepalen hoe de bedragen waarmee de subsidie-enveloppen van de organisaties werden verhoogd, overeenkomstig paragraaf 4, zullen worden herverdeeld over de erkende organisaties voor sociaal-cultureel volwassenenwerk.<br>
+<br>
+Een herverdeling krijgt toepassing in het tweede kalenderjaar na de beslissing van de Vlaamse Regering en op zijn vroegst vanaf het kalenderjaar dat start op 1 januari 2019.<br>
+<br>
+&nbsp;§ 6. In afwijking van paragraaf 1 worden aan de vermelde organisaties in de beleidsperiode die loopt van 1 januari 2016 tot 31 december 2020 vanaf 1 januari 2017 de volgende bedragen bijkomend toegekend:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Vereniging</td>
+			<td>2017</td>
+			<td>2018</td>
+			<td>2019</td>
+			<td>2020</td>
+		</tr>
+		<tr>
+			<td>Actieve Interculturele Federatie +</td>
+			<td>40.000,00 EUR</td>
+			<td>70.000,00 EUR</td>
+			<td>70.000,00 EUR</td>
+			<td>70.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>Federatie Marokkaanse en Mondiale Democratische Organisaties</td>
+			<td>40.000,00 EUR</td>
+			<td>110.000,00 EUR</td>
+			<td>110.000,00 EUR</td>
+			<td>110.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>Federatie van Marokkaanse Verenigingen</td>
+			<td>40.000,00 EUR</td>
+			<td>70.000,00 EUR</td>
+			<td>70.000,00 EUR</td>
+			<td>70.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>Internationaal Comité</td>
+			<td>40.000,00 EUR</td>
+			<td>110.000,00 EUR</td>
+			<td>110.000,00 EUR</td>
+			<td>110.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>Turkse Unie van België</td>
+			<td>40.000,00 EUR</td>
+			<td>90.000,00 EUR</td>
+			<td>90.000,00 EUR</td>
+			<td>90.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>Unie van TurkseVerenigingen</td>
+			<td>40.000,00 EUR</td>
+			<td>80.000,00 EUR</td>
+			<td>80.000,00 EUR</td>
+			<td>80.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>Vereniging voor Ontwikkeling en Emancipatie van Moslims</td>
+			<td>40.000,00 EUR</td>
+			<td>40.000,00 EUR</td>
+			<td>40.000,00 EUR</td>
+			<td>40.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>Feniks vzw</td>
+			<td>40.000,00 EUR</td>
+			<td>80.000,00 EUR</td>
+			<td>80.000,00 EUR</td>
+			<td>80.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>Federatie van Zelforganisaties in Vlaanderen</td>
+			<td>40.000,00 EUR</td>
+			<td>50.000,00 EUR</td>
+			<td>50.000,00 EUR</td>
+			<td>50.000,00 EUR</td>
+		</tr>
+		<tr>
+			<td>Federation of Anglophone Africans in Belgium</td>
+			<td>40.000,00 EUR</td>
+			<td>100.000,00 EUR</td>
+			<td>100.000,00 EUR</td>
+			<td>100.000,00 EUR</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Deze bedragen zijn niet onderhevig aan de index zoals bedoeld in artikel 47.
 
 ### ART. 45.
 
