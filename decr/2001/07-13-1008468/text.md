@@ -302,99 +302,67 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2001, behalve<b
 
 ### ART. V. 21.
 
-Bij het ministerie van de Vlaamse Gemeenschap wordt een onafhankelijke commissie ingesteld, "Commissie zorgvuldig bestuur" genaamd, verder genoemd "de Commissie".
+...
 
 ### ART. V. 22.
 
-De Commissie bestaat uit een kamer voor het basisonderwijs en een kamer voor het secundair onderwijs, de centra voor leerlingenbegeleiding, het deeltijds kunstonderwijs en het volwassenenonderwijs, voorgezeten door één onafhankelijke persoon die aangesteld wordt door de Vlaamse Regering en bijgestaan door één ambtenaar van het ministerie van de Vlaamse Gemeenschap, die fungeert als secretaris.<br>
-<br>
-Iedere kamer omvat:<br>
-1° een lid dat voldoet aan de voorwaarden gesteld in artikel 205 van het Gerechtelijk Wetboek;<br>
-2° een deskundige op het gebied van de consumentenbescherming;<br>
-3° twee leden, vertrouwd met het onderwijsveld.<br>
-<br>
-De Vlaamse regering stelt de leden en hun plaatsvervangers aan en bepaalt de wijze waarop zij vergoed worden.
+...
 
 ### ART. V. 23.
 
-De leden van de Commissie genieten de burgerlijke en politieke rechten en bieden alle waarborgen met het oog op de onafhankelijke uitoefening van hun opdracht.<br>
-<br>
-Leden van het kabinet van een minister van de federale regering, van de Vlaamse Regering of van de Brusselse Gewestregering, afgevaardigden van het Gemeenschapsonderwijs of personeel van de administratieve diensten van het gemeenschapsonderwijs of leden van de representatieve verenigingen van inrichtende machten van het gesubsidieerd onderwijs, van een inrichtende macht of schoolbestuur, van een centrum voor leerlingenbegeleiding, het hoger onderwijs uitgezonderd, kunnen geen deel uitmaken van de Commissie.
+...
 
 ### ART. V. 24.
 
-De Commissie stelt binnen een maand na haar instelling haar reglement van orde op. Het wordt bekrachtigd door de Vlaamse regering.
+...
 
 ## ONDERAFDELING 2 BEVOEGDHEID
 
 ### ART. V. 25.
 
-De Commissie beslist over de gegrondheid van klachten van belanghebbenden inzake:<br>
-1° de internationaalrechtelijke en grondwettelijke beginselen inzake de kosteloosheid van het onderwijs, de beginselen vermeld in artikel 27 van het decreet Basisonderwijs van 25 februari 1997, artikel 35 van de codificatie betreffende het secundair onderwijs, en artikel 6, 6°, van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding en de bijdrageregeling bedoeld in artikel 27bis en 27ter, § 1, van het decreet Basisonderwijs van 25 februari 1997;<br>
-2° de bepalingen van artikel 51 van het decreet Basisonderwijs van 25 februari 1997, van artikel 7 tot en met artikel 10 van de codificatie betreffende het secundair onderwijs van artikel 14bis van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, van artikelen 95bis tot en met 95sexies van het decreet van 31 juli 1990 betreffende het onderwijs II en van artikelen 120 tot en met 125 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
-3° de niet-naleving van de bepalingen omtrent de bevoegdheden en de besluitvormingsprocedures bedoeld in artikel 18 tot en met 22 van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad.<br>
-<br>
-Wanneer zij oordeelt dat een klacht gegrond is, kan zij beslissen om:<br>
-1° een gedeeltelijke terugbetaling van de werkingsmiddelen van de betrokken school, de betrokken instelling, het betrokken centrum voor leerlingenbegeleiding of de betrokken instelling voor deeltijds kunstonderwijs op te leggen. De terugvordering of inhouding kan echter niet meer bedragen dan 10 procent van deze werkingsmiddelen en kan er niet toe leiden dat het aandeel in de werkingsmiddelen dat bestemd is voor personeelsaangelegenheden in absolute cijfers kleiner wordt dan wanneer de maatregel niet zou getroffen zijn;<br>
-2° aan het betrokken Centrum voor Volwassenenonderwijs een financiële sanctie op te leggen overeenkomstig de bepalingen van artikel 118 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br>
-<br>
-Deze sanctie wordt slechts uitvoerbaar de dag nadat de termijn om beroep in te stellen bij de Vlaamse regering verstreken is.<br>
-<br>
-Voorafgaandelijk aan het opleggen van een sanctie nodigt de Commissie het betrokken schoolbestuur, de betrokken inrichtende macht of het betrokken bestuur uit om de bestreden rechtshandeling in te trekken of te herzien of in een passende genoegdoening te voorzien.
+...
 
 ### ART. V. 26.
 
-De Commissie kan vragen van belanghebbenden behandelen over de aangelegenheden bedoeld in artikel V. 25, eerste lid.
+...
 
 ### ART. V. 27.
 
-De beslissingen van de Commissie zijn met redenen omkleed. De Vlaamse regering bepaalt de wijze waarop zij openbaar worden gemaakt.
+...
 
 ## ONDERAFDELING 3 KLACHTENPROCEDURE
 
 ### ART. V. 28.
 
-De klachten bedoeld in artikel V.25 worden bij aangetekend schrijven bij de Commissie ingediend.<br>
-<br>
-Klachten die na verloop van een termijn van zestig kalenderdagen na de vaststelling of de kennisname van de betwiste feiten ingediend worden, zijn onontvankelijk.
+...
 
 ### ART. V. 29.
 
-Zodra een klacht wordt ingediend, stelt de Commissie de betrokkenen daarvan schriftelijk in kennis.
+...
 
 ### ART. V. 30.
 
-De Commissie hoort de betrokkenen. De Commissie kan ambtshalve of op verzoek van de betrokkenen getuigen horen.
+...
 
 ### ART. V. 31.
 
-De zittingen van de Commissie zijn openbaar, tenzij de openbaarheid gevaar oplevert voor de openbare orde of goede zeden.
+...
 
 ### ART. V. 32.
 
-De Commissie beslist binnen een termijn van zestig kalenderdagen, die ingaat op de dag na die van de berekening van de klacht.<br>
-<br>
-De beslissing wordt uiterlijk de laatste dag van die termijn bij aangetekend schrijven verstuurd naar de betrokkenen. De Vlaamse regering wordt onverwijld in kennis gesteld van de beslissing.
+...
 
 ### ART. V. 33.
 
-De betrokkenen kunnen tegen een beslissing van de Commissie beroep instellen bij de Vlaamse regering. Het beroep moet bij aangetekend schrijven worden ingediend binnen een termijn van zestig kalenderdagen, die ingaat op de dag na die van de berekening van de beslissing.<br>
-<br>
-Het beroep schorst van rechtswege de uitvoerbaarheid van de genomen beslissing.
+...
 
 ### ART. V. 34.
 
-De Vlaamse regering doet in laatste aanleg uitspraak over het beroep dat door een betrokkene werd ingesteld tegen een beslissing van de Commissie.<br>
-<br>
-De Vlaamse regering kan de beslissing van de Commissie wegens schending van de wet of het decreet of strijdigheid met het algemeen belang bevestigen, wijzigen of vernietigen, in welk geval zij een nieuwe beslissing kan nemen.<br>
-<br>
-De Vlaamse regering spreekt zich uit over een beroep binnen een termijn van zestig kalenderdagen, die ingaat op de dag na die van de berekening van het beroep.<br>
-<br>
-De beslissing van de Vlaamse regering wordt uiterlijk de laatste dag van de in het vorige lid bedoelde termijn bij aangetekend schrijven verstuurd naar de betrokkenen.
+...
 
 ### ART. V. 35.
 
-De Vlaamse regering bepaalt de nadere regelen inzake de ontvankelijkheid en procedure. Zij garandeert daarbij de hoorplicht.
+...
 
 ## ONDERAFDELING 4 SLOTBEPALING
 
@@ -458,7 +426,7 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2001, behalve a
 
 ### ART. VI. 8.
 
-§ 1. Tot 31 augustus 2002 wordt voor het onderwijzend personeel van de afdelingen Stedenbouw en Ruimtelijke Planning en Monumenten en Landschapszorg van het Centrum voor Volwassenenonderwijs, Frans Craeybeckxlaan 22, 2100 Deurne, de salarisschaal vastgesteld als volgt:<br /><br />1° de personeelsleden, tewerkgesteld in het ambt van leraar technische vakken, hebben recht op de salarisschaal 502, voor zover zij, behoudens bij een in § 6 bedoelde afwijking, houder zijn van het diploma van geaggregeerde voor het hoger secundair onderwijs, aangevuld met twee jaar nuttige ervaring, of houder zijn van het diploma van doctor, licentiaat of apotheker, van architect of industrieel ingenieur, van burgerlijk ingenieur, burgerlijk ingenieur-architect of bioingenieur aangevuld met twee jaar nuttige ervaring en met een getuigschrift voor pedagogische bekwaamheid.<br /><br />Voor vakken waarvoor geen opleiding verstrekt wordt in een universiteit of gelijkgestelde inrichting, komen in aanmerking:<br /><br />- een bekwaamheidsbewijs van het hoger niveau van de tweede graad, aangevuld met vier jaar nuttige ervaring en met een getuigschrift voor pedagogische bekwaamheid, dat recht geeft op de salarisschaal 318;<br /><br />- het diploma van het hoger niveau van de eerste graad, aangevuld met zes jaar nuttige ervaring en met een getuigschrift voor pedagogische bekwaamheid, dat recht geeft op de salarisschaal 316;<br /><br />2° de personeelsleden, tewerkgesteld in het ambt van leraar beroepspraktijk, hebben recht op de salarisschaal 311, voor zover zij, behoudens bij een § 6 bedoelde afwijking, houder zijn van het diploma van geaggregeerde voor het lager onderwijs, aangevuld met drie jaar nuttige ervaring, of houder zijn van het diploma van het hoger niveau van de eerste graad aangevuld met drie jaar nuttige ervaring en met een getuigschrift van pedagogische bekwaamheid;<br /><br />3° de personeelsleden die hun prestaties in de betrokken afdeling uitoefenen als niet-uitsluitend ambt in de zin van artikel 5 van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het ministerie van Openbaar Onderwijs, hebben recht op de salarisschaal 396.<br /><br />Met ingang van 1 september 2002 worden deze personeelsleden bezoldigd conform de regelgeving van toepassing op het hoger onderwijs van het korte type voor sociale promotie.<br /><br />§ 2. Tot 31 augustus 2001 voor het onderwijzend personeel van de afdeling Bouwkunde voor voornoemd centrum voor volwassenenonderwijs, respectievelijk tot 31 augustus 2002 voor de in § 1, eerste lid, genoemde personeelsleden wordt:<br /><br />1° de deler voor een hoofdambt gelijkgesteld aan 12;<br /><br />2° de deler voor een niet-uitsluitend ambt in de zin van artikel 5 van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het ministerie van Openbaar Onderwijs gelijkgesteld aan 9.<br /><br />Met ingang van 1 september 2001, voor hes onderwijzend personeel van de afdeling Bouwkunde van voornoemd centrum voor volwassenenonderwijs, respectievelijk met ingang van 1 september 2002, voor de in § 1, eerste lid, genoemde personeelsleden, worden deze delers vastgesteld conform de regelgeving van toepassing op Het hoger onderwijs van het korte type voor sociale promotie, voor zover de betrokken personeelsleden geen aanspraak kunnen maken op de overgangsmaatregelen bedoeld in § 4.<br /><br />§ 3. Tot 31 augustus 1999 wordt voor het onderwijzend personeel van de in § 2, eerste lid, genoemde afdelingen de deler voor een bijbetrekking gelijkgesteld aan 15.<br /><br />Met ingang van 1 september 1999 wordt deze deler vastgesteld conform de regelgeving van toepassing op het hoger onderwijs van het korte type voor sociale promotie.<br /><br />§ 4. Overgangsmaatregelen worden toegekend aan de in § 1, eerste lid, genoemde personeelsleden, voor zover zij op 31 augustus 2000:<br /><br />1° vastbenoemd zijn binnen de betrokken afdeling;<br /><br />2° minstens 720 dagen als tijdelijke gepresteerd hebben binnen de betrokken afdeling en recht hebben op een bezoldiging in hoofdambt of in een niet-uitsluitend ambt.<br /><br />De overgangsmaatregelen gelden voor het ambt van leraar technische vakken en voor het ambt van leraar beroepspraktijk en betreffen:<br /><br />1° het prestatiestelsel genoemd in § 2, eerste lid;<br /><br />2° het behoud, ten persoonlijken titel, van de bezoldiging in een niet-uitsluitend ambt in de zin van voormeld artikel 5 van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het ministerie van Openbaar Onderwijs.<br /><br />De overgangsmaatregelen worden toegekend op 1 september 2002. De personeelsleden behouden deze maatregelen zolang ze ononderbroken in dienst blijven in de betrokken afdeling. Voor de toepassing van deze bepaling worden niet als een onderbreking beschouwd: de vakantieperioden, de loopbaanonderbreking, de militaire dienst, de perioden van wederoproeping, de ziekte- en bevallingsverloven, de borstvoedingsverloven, de verloven van korte duur met behoud van wedde(ntoelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard, alsook de verloven zonder behoud van wedde(ntoelage) voor een maximumduur van zes werkdagen per schooljaar, alsmede een onderbreking van een doorlopende periode van maximum twee kalenderjaren.<br /><br />§ 5. Onverminderd de krachtens artikel 146 van de Grondwet door de wet georganiseerde rechtsbescherming zijn de wedden en de weddentoelagen die op basis van diensten gepresteerd tot en met 31 augustus 2001 werden uitgekeerd aan de in § 2, eerste lid, genoemde personeelsleden definitief verworven.<br /><br />§ 6. Onverminderd de krachtens artikel 146 van de Grondwet door de wet georganiseerde rechtsbescherming zijn de afwijkingen op de vereiste bekwaamheidsbewijzen die vóór 31 augustus 2001, uitdrukkelijk of in feite werden toegestaan aan de in § 1, eerste lid, genoemde personeelsleden definitief verworven.<br /><br />De in § 1, eerste lid, genoemde personeelsleden aan wie een afwijking bedoeld in het eerste lid werd toegestaan, komen in aanmerking voor een vaste benoeming in de zin van het decreet van 27 maart 1991 betreffende de rechtspositie van de personeelsleden van het gemeenschapsonderwijs, voor zover zij minstens drie jaar tijdelijk zijn aangesteld binnen de betrokken afdeling en aan alle andere gestelde voorwaarden voldoen.<br /><br />Vanaf 1 september 2001 kan aan de in § 1, eerste lid, genoemde personeelsleden een afwijking op de vereiste bekwaamheidsbewijzen worden toegekend overeenkomstig de bepalingen van artikel 17, § 4, van de wet van 7 juli 1970 betreffende de algemene structuur van het hoger onderwijs en de in uitvoering daarvan genomen besluiten.
+...
 
 ### ART. VI. 9.
 
@@ -594,74 +562,39 @@ De bepalingen van dit hoofdstuk hebben uitwerking met ingang van 1 januari 2001,
 
 ### ART. IX. 1.
 
-Dit hoofdstuk is van toepassing op:<br />1° de personeelsleden, bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br />2° de personeelsleden, bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br />3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br />4° de personeelsleden, bedoeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br />
+...
 
 ### ART. IX. 2.
 
-§ 1. Het jaarsalaris of de jaarsalaristoelage, hierna salaris genoemd, van de personeelsleden ge-noemd in artikel IX. 1 wordt vastgesteld in een salarisschaal die bestaat uit:<br>
-1° een minimumsalaris;<br>
-2° salaristrappen die het resultaat zijn van periodieke salarisverhogingen;<br>
-3° een maximumsalaris.<br>
-<br>
-Voor sommige ambten kan de salarisschaal vervangen worden door een vast bedrag.<br>
-<br>
-Het minimumsalaris, de periodieke salarisverhogingen en het maximumsalaris worden uitgedrukt in een aantal munteenheden.<br>
-<br>
-Het salaris, verhoogd met de eventuele haard- of standplaatstoelage, is nooit lager dan de gewaarborgde minimumbezoldiging.<br>
-<br>
-§ 2. De Vlaamse Regering bepaalt voor elk ambt de salarisschaal. Hierbij kan ze rekening houden met :<br>
-1° de aard van het ambt;<br>
-2° het onderwijsniveau;<br>
-3° de onderwijsvorm;<br>
-4° de graad;<br>
-5° het hoger beroepsonderwijs van kwalificatieniveau 5;<br>
-6° de cyclus of de opleidingsvorm waar het ambt wordt uitgeoefend;<br>
-7° de bekwaamheidsbewijzen die er toegang toe verlenen;<br>
-8° het te onderwijzen vak, de specialiteit, de opleiding of de module;<br>
-9° het aantal leerlingen in de school in het basisonderwijs waar het ambt van directeur wordt uitgeoefend.<br>
-10° het volgen van een opleiding.<br>
-<br>
-Ze deelt de salarisschalen in en bepaalt hoe ze worden aangegeven.<br>
-<br>
-§ 3. De Vlaamse regering bepaalt de voorwaarden van overgang naar de trappen binnen eenzelfde salarisschaal, met inbegrip van de anciënniteitvoorwaarden.
+...
 
 ### ART. IX. 3.
 
-De Vlaamse regering bepaalt de wijze waarop het salaris van de personeelsleden wordt vastgesteld.<br>
-<br>
-Bij het vaststellen van het salaris van een personeelslid kan, naast de salarisschaal, rekening worden gehouden met de andere activiteiten die het personeelslid uitoefent of heeft uitgeoefend, zowel in als buiten het onderwijs. De Vlaamse regering bepaalt de wijze waarop met deze elementen rekening wordt gehouden voor het vaststellen van het salaris van een personeelslid. Zij bepaalt eveneens de wijze waarop met het volume van de geleverde prestaties rekening wordt gehouden.
+...
 
 ### ART. IX. 4.
 
-Bij iedere wijziging in de bezoldigingsregeling van een ambt wordt elk salaris dat werd vastgesteld met inachtneming van dat ambt opnieuw vastgesteld volgens de nieuwe bezoldigingsregeling.<br>
-<br>
-Als het aldus opnieuw vastgestelde salaris lager is dan het salaris dat het personeelslid in zijn ambt genoot bij de inwerkingtreding van de wijziging, blijft het in dat ambt dit laatste salaris genieten totdat het een ten minste gelijk salaris krijgt, behoudens andersluidende meer gunstige bepalingen vastgesteld door de Vlaamse regering.
+...
 
 ### ART. IX. 5.
 
-§ 1. Het salaris wordt betaald na verloop van de termijn, met name op de laatste werkdag van de maand behalve de betaling van het salaris van de maand december die plaats heeft op de eerste werkdag van de maand januari van het volgende jaar. Dit geldt eveneens voor de toelagen alsook voor alle andere elementen van de bezoldiging die tezelfder tijd als het salaris worden betaald.<br>
-<br>
-§ 2. Als een vastbenoemd of tot de proeftijd toegelaten personeelslid wordt gepensioneerd of overlijdt, wordt het volledige salaris voor de betrokken maand naar gelang van het geval, aan het personeelslid of aan zijn rechthebbenden betaald.
+...
 
 ### ART. IX. 6.
 
-In afwijking van de bepalingen van dit hoofdstuk krijgt een personeelslid dat tijdelijk een personeelslid genoemd in artikel IX. 1. vervangt, slechts een salaris als de vervanging voldoet aan de specifieke voorwaarden die de Vlaamse regering bepaalt.
+...
 
 ### ART. IX. 7.
 
-Het salaris volgt de evolutie van het indexcijfer van de consumptieprijzen overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld of overeenkomstig elke bepaling die haar mocht wijzigen. Vanaf 1 januari 1994 wordt de koppeling aan de index van de consumptieprijzen vervangen door de koppeling aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij wet van 30 maart 1994.
+...
 
 ### ART. IX. 8.
 
-Het personeelslid heeft recht op een gewaarborgde minimumbezoldiging, een haard- of standplaats-toelage, een jaarlijks vakantiegeld en een eindejaarstoelage. De Vlaamse regering bepaalt de ter zake geldende voorwaarden.<br>
-<br>
-De Vlaamse regering kan voor bijkomende prestaties, prestaties binnen een bepaalde geografische omschrijving, bijzondere bevoegdheden, het bezit van specifieke vaardigheden en het vergoeden van onkosten ook bij besluit andere toelagen, vergoedingen, bijwedden of bijslagen creëren. Ze bepaalt de categorieën van begunstigden, evenals de voorwaarden voor de toekenning ervan.
+...
 
 ### ART. IX. 9.
 
-In afwachting dat de Vlaamse regering in uitvoering van deze bepalingen een nieuwe bezoldi-gingsregeling vastlegt, blijven de wettelijke, decretale of reglementaire bepalingen van toepassing die op het ogenblik van het van kracht worden van dit decreet gelden.<br>
-<br>
-Tot de inwerkingtreding van de nieuwe bezoldigingsregeling is de Vlaamse regering er toe gemachtigd de van kracht zijnde reglementaire bepalingen te wijzigen, geheel of gedeeltelijk op te heffen en/of te vervangen.
+...
 
 ### ART. IX. 10.
 
@@ -925,27 +858,15 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2001, behalve<b
 
 ### ART. XI. 1.
 
-§ 1. Dit hoofdstuk is van toepassing op:<br>
-1° de personeelsleden bedoeld bij het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
-2° de personeelsleden bedoeld bij het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
-3° ...;<br>
-4° de personen tewerkgesteld als gesubsidieerde contractuelen in de onderwijsinstellingen en de centra voor leerlingenbegeleiding;<br>
-5° de contractuelen betaald ten laste van het departement Onderwijs, met uitzondering van deze van de centra voor basiseducatie;<br>
-6° de contractuelen, betaald met het werkingsbudget van de onderwijsinstellingen;<br>
-7° de personeelsleden van de Brusselse kinderdagverblijven van het gemeenschapsonderwijs gelegen in het tweetalige gebied Brussel-Hoofdstad.<br>
-<br>
-§ 2. De bepalingen van dit hoofdstuk zijn niet van toepassing op de personeelsleden van de centra voor basiseducatie.<br>
-<br>
-§ 3. De bepalingen van dit hoofdstuk zijn van toepassing op de personeelsleden van de hogescholen in de Vlaamse Gemeenschap, met uitzondering van artikel XI.3 voor wat betreft de vervoerskosten en fietsvergoedingen gemaakt vanaf het kalenderjaar 2015.
+...
 
 ### XI.2
 
-De personeelsleden genoemd in artikel XI.1 hebben onder de modaliteiten bepaald door de Vlaamse regering recht op de volledige terugbetaling van de kosten openbaar vervoer naar en van het werk en op een maandelijkse fietsvergoeding, ten laste van de werkgever.<br>
-&nbsp;
+...
 
 ### ART. XI. 3.
 
-Onder de modaliteiten bepaald door de Vlaamse regering worden de door de werkgever gedragen vervoerskosten en fietsvergoedingen terugbetaald door het ministerie van de Vlaamse Gemeenschap.
+...
 
 ### ART. XI. 4.
 
@@ -957,7 +878,7 @@ Onder de modaliteiten bepaald door de Vlaamse regering worden de door de werkgev
 
 ### ART. XI. 6.
 
-De tegemoetkomingen in de vervoerkosten van de personeelsleden bedoeld in artikel 10 van het besluit van de Vlaamse regering van 22 juli 1993 betreffende de tegemoetkoming van de werkgevers in de onderwijssector in de vervoerkosten van hun personeelsleden, worden uitbetaald op hetzelfde tijdstip als het voorschot op de werkingsmiddelen van het volgende schooljaar, voor zover de aanvraag tot terugbetaling niet aangetast is door bedrog en uiterlijk op 10 december na het schooljaar waarop de terugbetaling betrekking heeft, wordt ingediend bij het ministerie van de Vlaamse Gemeenschap.
+...
 
 ### ART. XI. 7.
 
@@ -1115,7 +1036,7 @@ Het derde deel van de in artikel 48, º 1, van het decreet van 2 maart 1999 tot 
 
 ### ART. XIII. 9.
 
-De Raad van het Gemeenschapsonderwijs bedoeld in artikel 5, § 4, van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs - tot 31 december 2002: de centrale raad bedoeld in artikel 5, § 1, 1°, van het bijzonder decreet van 19 december 1988 betreffende de Autonome Raad van het Gemeenschapsonderwijs - kan, overeenkomstig de wetgeving betreffende de onteigeningen ten algemenen nutte en na machtiging van de Vlaamse regering, in eigen naam en voor eigen rekening onroerende goederen onteigenen die nodig zijn voor de verwezenlijking van haar opdracht.
+...
 
 ### ART. XIII. 10.
 
