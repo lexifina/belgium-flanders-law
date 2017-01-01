@@ -580,6 +580,18 @@ De Vlaamse Regering kan de bijlagen bij dit decreet wijzigen om ze in overeenste
 
 ## HOOFDSTUK 6. Wijziging van de artikelen 3, 4 en 6 van de programmawet van 10 februari 1998 tot bevordering van het zelfstandig ondernemerschap en van artikel 3 van de wet van 26 juni 2002 betreffende de oprichting van de Vestigingsraad
 
+### ART 41.
+
+In artikel 3, eerste lid, van de programmawet van 10 februari 1998 tot bevordering van het zelfstandig ondernemerschap, gewijzigd bij de wet van 11 mei 2003 en de wet van 22 december 2003, worden de woorden "de Hoge Raad voor de Zelfstandigen en de Kleine en Middelgrote Ondernemingen" telkens vervangen door de woorden "de Sociaal-Economische Raad van Vlaanderen".
+
+### ART 42.
+
+In artikel 4, § 1, tweede lid, en artikel 6 van dezelfde wet, vervangen bij de wet van 11 mei 2003, worden de woorden "de Hoge Raad voor de Zelfstandigen en de Kleine en Middelgrote Ondernemingen" telkens vervangen door de woorden "de Sociaal-Economische Raad van Vlaanderen".
+
+### ART 43.
+
+In artikel 3, § 1, eerste lid, van de wet van 26 juni 2002 betreffende de oprichting van de Vestigingsraad, gewijzigd bij de wet van 11 mei 2003, worden de woorden "de Hoge Raad voor de Zelfstandigen en de Kleine en Middelgrote Ondernemingen" vervangen door de woorden "de Sociaal-Economische Raad van Vlaanderen".
+
 ## HOOFDSTUK 7. Slotbepalingen
 
 ### ART 44.
