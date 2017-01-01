@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027663,
+  "title": "Besluit van de Vlaamse Regering van 2016-11-25 tot wijziging van artikel 37, 40 en 43 van het besluit van de Vlaamse Regering van 22 maart 2013 betreffende het inzagerecht en de bemiddeling bij interlandelijke adoptie en artikel 27, 28 en 31 van het besluit van de Vlaamse Regering van 19 februari 2016 betreffende de voorbereiding bij adoptie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027663/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "0bb065bde6cc9a962a6f105a6bb3216278f1a27a7c5f8f91166fff827266dc04",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027663&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-11-25",
+  "gazette": "2016-12-22",
+  "numac": 2016036655,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
