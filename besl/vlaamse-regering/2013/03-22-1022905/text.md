@@ -176,7 +176,18 @@ Om de kwaliteit van de dienstverlening te garanderen en te bestendigen   voldoen
 
 ### ART. 37.
 
-<P>§ 1. Binnen de marge van de begrotingskredieten bepaalt Kind en Gezin de   verdeling van de beschikbare middelen over de krachtens dit besluit erkende   adoptiediensten.<BR></P>  <P>Kind en Gezin houdt daarbij rekening met de bepalingen van artikel   75.<BR></P>  <P>§ 2. Vanaf 2014, binnen de marge van de begrotingskredieten, ontvangen   erkende adoptiediensten jaarlijks een basissubsidie voor personeels- en   werkingskosten van 100.000 euro.<BR></P>  <P>De basissubsidie wordt vermeerderd met :<BR>1° 5.000 euro per   inlichtingendossier vanaf het tweede ingediende inlichtingendossier, vermeld in   artikel 4, § 1;<BR>2° 3.000 euro per herkomstland vanaf het derde herkomstland   waarin een kanaal geopend is en waarmee een lopende samenwerking bestaat. Er is   een lopende samenwerking als er in de afgelopen drie jaar een kind geplaatst   werd door de adoptiedienst bij kandidaat-adoptanten.<BR></P>  <P>§ 3. De adoptiedienst die een subsidie bekomt, behoudt zijn recht op subsidie   zolang hij erkend is door Kind en Gezin en voldoet aan de subsidievoorschriften,   vermeld in artikel 39 tot en met 45.<BR></P>
+<p>§ 1. Binnen de marge van de begrotingskredieten bepaalt Kind en Gezin de verdeling van de beschikbare middelen over de krachtens dit besluit erkende adoptiediensten.</p>
+
+<p>Kind en Gezin houdt daarbij rekening met de bepalingen van artikel 75.</p>
+
+<p>§ 2. Vanaf 2017 ontvangen erkende adoptiediensten, binnen het jaarlijks beschikbaar begrotingskrediet, jaarlijks een basissubsidie voor personeels- en werkingskosten van 230.000 euro.<br>
+<br>
+De basissubsidie wordt, binnen het jaarlijks beschikbaar begrotingskrediet, vermeerderd met:<br>
+1° 3000 euro per voorlopig goedgekeurd kanaal, vermeld in artikel 9, § 1, gedurende de eerste drie jaar na goedkeuring door het Vlaams Centrum voor Adoptie, op voorwaarde dat bij herkomstlanden waar een accreditatie vereist is, die ook verkregen is;<br>
+2° 6000 euro per herkomstland waarin een kanaal geopend is als vermeld in artikel 11 en waarmee een lopende samenwerking bestaat. Er is een lopende samenwerking als de adoptiedienst in de afgelopen drie jaar een kind heeft geplaatst bij kandidaat-adoptanten;<br>
+3° het subsidiebedrag, vermeld in punt 1°, vervalt als het voorlopig goedgekeurde kanaal geopend wordt als vermeld in artikel 11..</p>
+
+<p>§ 3. De adoptiedienst die een subsidie bekomt, behoudt zijn recht op subsidie zolang hij erkend is door Kind en Gezin en voldoet aan de subsidievoorschriften, vermeld in artikel 39 tot en met 45.</p>
 
 ### ART. 38.
 
@@ -190,7 +201,9 @@ De verdeling van bijkomende middelen gebeurt door Kind en Gezin op basis   van v
 
 ### ART. 40.
 
-&nbsp;De adoptiedienst heeft een geopend kanaal, waarmee een lopende   samenwerking bestaat, in minstens tien herkomstlanden of bezorgt het Vlaams   Centrum voor Adoptie jaarlijks minimaal één inlichtingendossier als vermeld in   artikel 4, § 1.<BR>
+De adoptiedienst heeft in minstens vijf herkomstlanden een lopende samenwerking of bezorgt het Vlaams Centrum voor Adoptie minimaal één inlichtingendossier als vermeld in artikel 4, § 1. Er is een lopende samenwerking als de adoptiedienst in de afgelopen drie jaar een kind heeft geplaatst bij kandidaat-adoptanten.<br>
+<br>
+De adoptiedienst onderneemt minstens één keer per jaar een missie naar een van de geopende kanalen waarmee de dienst een lopende samenwerking heeft. De adoptiedienst bezorgt binnen een maand na afloop van de missie een verslag van die missie aan het Vlaams Centrum voor Adoptie.
 
 ### ART. 41.
 
@@ -202,7 +215,15 @@ De adoptiedienst houdt een boekhouding bij volgens de toepasselijke   regelgevin
 
 ### ART. 43.
 
-Ten minste 70 % van de subsidie die krachtens dit besluit toegekend is,   besteed worden aan personeelskosten.<BR>Onder personeelskosten worden verstaan   :<BR>1° brutosalaris met inbegrip van wettelijk verplichte   werkgeversbijdragen;<BR>2° vakantiegeld;<BR>3° eindejaarspremie;<BR>4° woon-   werkverkeer;<BR>5° eventueel de volgende extralegale voordelen, als ze opgenomen   zijn in de loonfiche : maaltijdcheques, bedrijfswagen, groeps- en   hospitalisatieverzekering, gsm, laptop, internet;<BR>6° opleidingen, als het   gaat om opleidingen die rechtstreeks verband houden met de werking van de   adoptiedienst;<BR>7° kosten voor een arbeidsongevallenverzekering en een   bedrijfsgeneeskundige dienst.<BR>
+Ten minste 70 % en maximaal 85 % van de subsidie die krachtens dit besluit toegekend is, besteed worden aan personeelskosten.<br>
+Onder personeelskosten worden verstaan :<br>
+1° brutosalaris met inbegrip van wettelijk verplichte werkgeversbijdragen;<br>
+2° vakantiegeld;<br>
+3° eindejaarspremie;<br>
+4° woon- werkverkeer;<br>
+5° eventueel de volgende extralegale voordelen, als ze opgenomen zijn in de loonfiche : maaltijdcheques, bedrijfswagen, groeps- en hospitalisatieverzekering, gsm, laptop, internet;<br>
+6° opleidingen, als het gaat om opleidingen die rechtstreeks verband houden met de werking van de adoptiedienst;<br>
+7° kosten voor een arbeidsongevallenverzekering en een bedrijfsgeneeskundige dienst.
 
 ### ART. 44.
 
