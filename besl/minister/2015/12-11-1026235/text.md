@@ -16,12 +16,12 @@
 
 ### ART. 1.
 
-De   code van goede praktijk, opgenomen in de bijlage die bij dit besluit is gevoegd,   wordt vastgesteld als code van goede praktijk voor de uitvoering van en   rapportering over archeologisch vooronderzoek en archeologische opgravingen en   het gebruik van metaaldetectoren als vermeld in artikel 5.3.1 van het   Onroerenderfgoedbesluit van 16 mei 2014.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 2.
 
-Dit   besluit treedt in werking op 1 januari 2016.
+...
 
 ### BIJLAGE
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/12/23_2.pdf#page=3">Bijlage</A>
+...
