@@ -77,7 +77,10 @@ De personeelsformatie wordt uitgedrukt in personeelspunten.<BR><BR>De   tabel, d
 
 ### ART. 13.
 
-De dienst ontvangt naar rato van zijn erkenningsaantal 0,24   personeelspunten per begeleiding.<BR><BR>Als de dienst gedurende twee   opeenvolgende jaren ten minste 10% minder begeleidingen presteert dan vermeld in   de erkenning, ontvangt de dienst 0,24 personeelspunten per gepresteerde   begeleiding.<BR><BR>
+De dienst ontvangt naar rato van zijn erkenningsaantal 0,24 personeelspunten per begeleiding.<br>
+<br>
+Als de som van de personeelspunten die op basis van de geboden begeleidingen worden toegekend, meer dan 92% bedraagt van het aantal personeelspunten dat overeenstemt met het aantal begeleidingen waarvoor de dienst is erkend en er maximaal twintig personeelspunten minder worden gepresteerd dan het aantal personeelspunten dat overeenstemt met het aantal begeleidingen waarvoor de dienst is erkend, ontvangt de dienst, in afwijking van het eerste lid, het aantal personeelspunten dat overeenstemt met het aantal begeleidingen waarvoor de dienst is erkend..<br>
+&nbsp;
 
 ### ART. 14.
 
