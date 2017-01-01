@@ -504,7 +504,14 @@ Bij het departement Financiën en Begroting wordt een fonds, het « Fonds Vastgo
 
 ### ART. 102.
 
-§ 1. Aan artikel 33 van het decreet van 30 juni 2006 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2006, wordt een derde lid toegevoegd, dat luidt als volgt :<br />« Het beheer van het researchpark Zellik wordt onttrokken aan het Fonds Onroerende Goederen en alle openstaande vorderingen, verbintenissen en verplichtingen welke voorkomen bij het Fonds worden overgedragen aan het Agentschap Ondernemen. ».<br /><br />§ 2. Bij het Agentschap Ondernemen wordt daartoe een fonds opgericht voor de verwerving, het beheer en de vervreemding van onroerende goederen in de zin van artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit, onder de benaming « Fonds voor de verwerving, het beheer en de vervreemding van onroerende goederen », hierna het Fonds genoemd.<br /><br />§ 3. Aan het Fonds worden alle ontvangsten voortvloeiend uit het beheer van de onroerende goederen toegewezen.<br /><br />§ 4. De middelen van het Fonds dienen aangewend voor de verwerving, het beheer en de herinrichting van de onroerende goederen.<br /><br />
+§ 1. Aan artikel 33 van het decreet van 30 juni 2006 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2006, wordt een derde lid toegevoegd, dat luidt als volgt :<br>
+« Het beheer van het researchpark Zellik wordt onttrokken aan het Fonds Onroerende Goederen en alle openstaande vorderingen, verbintenissen en verplichtingen welke voorkomen bij het Fonds worden overgedragen aan het Agentschap Ondernemen. ».<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. ...
 
 ## HOOFDSTUK X Leegstandsregister
 
