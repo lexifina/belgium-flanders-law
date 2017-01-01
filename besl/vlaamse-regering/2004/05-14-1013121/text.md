@@ -56,7 +56,9 @@ c) controle uit te oefenen op de aanwending van subsidies, toelagen, premies of 
 3) het decreet van 16 april 1996 betreffende de landschapszorg;<br>
 4) het decreet van 29 maart 2002 tot bescherming van het varend erfgoed;<br>
 5) het Onroerenderfgoeddecreet van 12 juli 2013.<br>
-d) de subsidies, toelagen, premies of tegemoetkomingen, vermeld in c), in te vorderen bij de begunstigden die de voorwaarden waaronder ze werden toegekend niet naleven of die ze niet aanwenden voor de doeleinden waarvoor ze werden toegekend.
+d) de subsidies, toelagen, premies of tegemoetkomingen, vermeld in c), in te vorderen bij de begunstigden die de voorwaarden waaronder ze werden toegekend niet naleven of die ze niet aanwenden voor de doeleinden waarvoor ze werden toegekend.<br>
+<br>
+Het hoofd van Onroerend Erfgoed stelt tweemaandelijks de gebieden vast waar geen archeologisch erfgoed te verwachten valt, vermeld in artikel 5.4.1, derde lid, 1°, en artikel 5.4.2, derde lid, van het Onroerenderfgoeddecreet van 12 juli 2013.
 
 ### ART. 4.
 
