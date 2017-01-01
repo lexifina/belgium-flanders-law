@@ -2,16 +2,16 @@
   "codex_id": 1023547,
   "title": "Ministerieel besluit van 2013-12-06 houdende het instellen van een regelluw kader voor het multifunctioneel centrum Zorgcentrum Maria Ter Engelen vzw",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023547/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "79138c93d6f5252c9393f2d8fbfeaa117c800e0d64dbd9792c270b9a36b8b6e2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023547/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "a49d037e76fd8958363eaf7d1c4f699764e79f42e0a2742ae99bb8aae7cedcf6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023547&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2017-01-01",
   "made": "2013-12-06",
   "gazette": "2014-01-10",
   "numac": 2013207063,
   "document_start": "2014-01-01",
   "document_end": "2016-12-31",
-  "in_force": "2014-01-01",
+  "in_force": "2017-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
