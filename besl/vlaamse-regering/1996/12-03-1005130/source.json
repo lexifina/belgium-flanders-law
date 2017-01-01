@@ -2,16 +2,16 @@
   "codex_id": 1005130,
   "title": "Besluit van de Vlaamse Regering van 1996-12-03 tot opheffing van de commissies tot beheer van het eigen vermogen en de commissies van toezicht in bepaalde instellingen voor hoger kunstonderwijs van het voormalig gemeenschapsonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005130/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "71b331eebeec915c8adc4f2bb2d70ff0ffcecf313951c064d9ac926ffd3e841e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005130/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "5b7cf659d6d55d66711b88792c77cdfe9a63e6f6ce36eaf6146e128673085afb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005130&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2017-01-01",
   "made": "1996-12-03",
   "gazette": "1997-02-04",
   "numac": 1997035085,
   "document_start": "1996-09-01",
   "document_end": "2016-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2017-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
