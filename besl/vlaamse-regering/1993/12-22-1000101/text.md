@@ -10,7 +10,7 @@ In Bilzen, Kasteelstraat 6 wordt onder de benaming "Landcommanderij Alden   Bies
 
 ### ART. 3.
 
-Er wordt een personeelsformatie vastgelegd als buitendienst van   het&nbsp;Departement Cultuur, Jeugd, Sport en Media van het Vlaams Ministerie   van Cultuur, Jeugd, Sport en Media. Voor specifieke projecten kunnen tijdelijke,   contractuele personeelsleden worden aangeworven.
+Er wordt een personeelsformatie vastgelegd als buitendienst van het&nbsp;Departement Cultuur, Jeugd en Media van het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media. Voor specifieke projecten kunnen tijdelijke, contractuele personeelsleden worden aangeworven.
 
 ### ART. 4.
 
