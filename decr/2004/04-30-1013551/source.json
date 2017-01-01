@@ -2,16 +2,16 @@
   "codex_id": 1013551,
   "title": "Decreet van 2004-04-30 betreffende het verwerven van een titel van beroepsbekwaamheid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013551/VolledigDocument?datum=2011-07-04",
-  "source_sha256": "a9b752534c42ba1d8efdf4d8732e830b6bca0c75699bd3c503e5e7d47b6e925a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013551/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "9d7659a1a9a3dd233c2bb118ad8939b3e6db13bcb5d2bcb87b67641259147763",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013551&param=informatie",
-  "as_of": "2011-07-04",
+  "as_of": "2017-01-01",
   "made": "2004-04-30",
   "gazette": "2004-11-26",
   "numac": 2004036712,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-07-04",
+  "in_force": "2017-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2011-07-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
