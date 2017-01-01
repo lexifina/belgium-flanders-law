@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027935,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-23 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelstel ter uitvoering van titel VII van de Vlaamse Wooncode",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027935/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "d45393d1728b318d41ebf7603d8bf6523766cccb43f3c0522ba140f7d91d70ac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027935&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-12-23",
+  "gazette": "2017-02-22",
+  "numac": 2017010811,
+  "document_start": "2017-03-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
