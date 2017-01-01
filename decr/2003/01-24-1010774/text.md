@@ -16,7 +16,17 @@ Een roerend goed of een verzameling geldt als topstuk als het vanwege de   arche
 
 ### ART. 3.
 
-<P>§ 1. De Vlaamse Regering stelt de lijst van het roerend cultureel erfgoed van   de Vlaamse Gemeenschap vast. In die lijst worden roerende goederen en   verzamelingen opgenomen die vanwege de archeologische, historische,   cultuurhistorische, artistieke of wetenschappelijke betekenis ervan voor de   Vlaamse Gemeenschap als zeldzaam en onmisbaar beschouwd moet worden.<BR><BR>§ 2.   Voor de roerende goederen die beschermd worden op grond van het   Onroerenderfgoeddecreet van 12 juli 2013 of het decreet van 29 maart 2002 tot   bescherming van varend erfgoed, zijn artikel 8 tot en met 10 van dit decreet   alleen van toepassing als de Vlaamse Regering dat uitdrukkelijk   bepaalt.<BR><BR>§ 3. De Vlaamse Regering is ertoe gehouden om, op vraag van de   eigenaar, bezitter of houder, de Raad gehoord, uitspraak te doen over de vraag   of een roerend goed dat, of een verzameling die, niet in de lijst is opgenomen,   al dan niet beschouwd moet worden als een topstuk.<BR><BR>Als de Vlaamse   Regering oordeelt dat dit niet het geval is, dan bezorgt ze aan de aanvrager een   certificaat waarin verklaard wordt dat het roerend goed of de verzameling geen   topstuk is in de zin van dit decreet.<BR><BR>Het certificaat, vermeld in het   tweede lid, doet geen uitspraak over authenticiteit, noch over financiële   waarde, noch over de eigendomstitel. Het certificaat blijft geldig tot tien jaar   na de datum van de uitgifte ervan.<BR><BR>De Vlaamse Regering legt de verdere   modaliteiten vast voor de aanvraagprocedure en de uitgifte van het   certificaat.</P>
+<p>§ 1. De Vlaamse Regering stelt de lijst van het roerend cultureel erfgoed van de Vlaamse Gemeenschap vast. In die lijst worden roerende goederen en verzamelingen opgenomen die vanwege de archeologische, historische, cultuurhistorische, artistieke of wetenschappelijke betekenis ervan voor de Vlaamse Gemeenschap als zeldzaam en onmisbaar beschouwd moet worden.<br>
+<br>
+§ 2. Voor de roerende goederen die beschermd worden op grond van de monumentenwetgeving of het decreet van 29 maart 2002 tot bescherming van varend erfgoed, zijn artikel 8 tot en met 10 van dit decreet alleen van toepassing als de Vlaamse Regering dat uitdrukkelijk bepaalt.<br>
+<br>
+§ 3. De Vlaamse Regering is ertoe gehouden om, op vraag van de eigenaar, bezitter of houder, de Raad gehoord, uitspraak te doen over de vraag of een roerend goed dat, of een verzameling die, niet in de lijst is opgenomen, al dan niet beschouwd moet worden als een topstuk.<br>
+<br>
+Als de Vlaamse Regering oordeelt dat dit niet het geval is, dan bezorgt ze aan de aanvrager een certificaat waarin verklaard wordt dat het roerend goed of de verzameling geen topstuk is in de zin van dit decreet.<br>
+<br>
+Het certificaat, vermeld in het tweede lid, doet geen uitspraak over authenticiteit, noch over financiële waarde, noch over de eigendomstitel. Het certificaat blijft geldig tot tien jaar na de datum van de uitgifte ervan.<br>
+<br>
+De Vlaamse Regering legt de verdere modaliteiten vast voor de aanvraagprocedure en de uitgifte van het certificaat.</p>
 
 ## HOOFDSTUK II DE RAAD VOOR HET BEHOUD VAN HET ROEREND CULTUREEL ERFGOED
 
