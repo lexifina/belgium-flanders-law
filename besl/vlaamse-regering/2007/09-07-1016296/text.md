@@ -174,7 +174,7 @@ Dieren van een bepaalde diersoort die niet zijn gehouden met de soort nutriënte
 
 ### ART. 8.
 
-De landbouwer van wie het bedrijf in een bepaald jaar een productie aan dierlijke mest heeft, berekend overeenkomstig artikel 23, § 1, 1°, a), van het Mestdecreet, die kleiner is dan 300 kg P2O5, is voor dat jaar vrijgesteld van de bepalingen betreffende de nutriëntenemissierechten die betrekking hebben op de beperking van de productie aan dierlijke mest.<br /><br />
+...
 
 ## HOOFDSTUK IV De overname van nutriëntenemissierechten
 
