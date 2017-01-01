@@ -42,7 +42,77 @@ De Vlaamse Regering kan de opdrachten, vermeld in het eerste lid, nader regelen.
 
 ## Onderafdeling 1. Tabaksontwenning
 
+### ART 4.
+
+In artikel 37, § 20, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, ingevoegd bij de wet van 22 februari 1998 en gewijzigd bij de wetten van 27 december 2005, 22 december 2008 en 27 december 2012, worden het tweede en het derde lid opgeheven.
+
+### ART 5.
+
+Het koninklijk besluit van 31 augustus 2009 inzake de tegemoetkoming van de verzekering voor geneeskundige verzorging en uitkeringen voor de hulp bij tabaksontwenning wordt opgeheven.
+
 ## Onderafdeling 2. Wijzigingen van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid
+
+### ART 6.
+
+In artikel 2 van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, gewijzigd bij het decreet van 20 maart 2009, worden de volgende wijzigingen aangebracht:<br>
+1° punt 2° wordt vervangen door wat volgt:<br>
+"2° bevolkingsonderzoek: een geheel van acties met betrekking tot een onderzoek naar een ziekte of aandoening of naar risicofactoren, voorstadia of verwikkelingen ervan, aangeboden aan een groep personen. Dat onderzoek gebeurt niet naar aanleiding van gezondheidsklachten van individuele personen die uit eigen beweging worden geformuleerd, en die verband houden met de opgespoorde ziekte of aandoening of de risicofactoren, voorstadia of verwikkelingen ervan;";<br>
+2° punt 17° wordt vervangen door wat volgt:<br>
+"17° individuele zorgaanbieder: een persoon die meewerkt aan een of meer initiatieven van het Vlaamse preventieve gezondheidsbeleid, al dan niet in een mono- of multidisciplinair samenwerkingsverband, en die daarvoor erkend of gesubsidieerd kan worden door de Vlaamse Regering;";<br>
+3° in punt 22° worden de woorden "een van rechtswege erkende of een door de Vlaamse Regering erkende of erkende en gesubsidieerde organisatie" vervangen door de zinsnede "een van rechtswege erkende organisatie, een door de Vlaamse Regering erkende of erkende en gesubsidieerde organisatie, of een organisatie die gesubsidieerd wordt via een beheersovereenkomst";<br>
+4° in punt 23° worden de woorden "die van rechtswege erkend en gesubsidieerd is of door de Vlaamse Regering erkend of erkend en gesubsidieerd wordt" vervangen door de zinsnede "die van rechtswege erkend en gesubsidieerd is, door de Vlaamse Regering erkend of erkend en gesubsidieerd wordt, of gesubsidieerd wordt via een beheersovereenkomst,";<br>
+5° in punt 34° wordt b) vervangen door wat volgt:<br>
+"b) de gezondheidsschade door ziekten of aandoeningen te beperken of de genezingskans te vergroten door tijdige detectie van of vroege interventie bij ziekten, aandoeningen of de aanleg of het verhoogde risico ervoor;".
+
+### ART 7.
+
+In artikel 3, eerste lid, van hetzelfde decreet worden tussen het woord "bevolkingsniveau" en de zinsnede ", om" de woorden "of het verhogen van de efficiëntie van het gezondheidsbeleid" ingevoegd.
+
+### ART 8.
+
+Aan artikel 18, § 2, van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Een goedgekeurde Vlaamse gezondheidsdoelstelling blijft van kracht tot ze wordt herzien of opgeheven door het Vlaams Parlement.".
+
+### ART 9.
+
+In artikel 21, § 1, van hetzelfde decreet, vervangen bij het decreet van 20 maart 2009, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid wordt het woord "duurtijd" vervangen door het woord "looptijd";<br>
+2° het derde lid wordt opgeheven.
+
+### ART 10.
+
+In artikel 23, § 1, van hetzelfde decreet, vervangen bij het decreet van 20 maart 2009, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid wordt het woord "duurtijd" vervangen door het woord "looptijd";<br>
+2° het derde lid wordt opgeheven.
+
+### ART 11.
+
+In artikel 30, § 4, van hetzelfde decreet, vervangen bij het decreet van 20 maart 2009, worden in het tweede lid de woorden "en doet een beroep op" opgeheven.
+
+### ART 12.
+
+In artikel 31, § 2, tweede lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in punt 3° en 5° wordt het woord "gezondheidsonderzoek" vervangen door het woord "bevolkingsonderzoek";<br>
+2° in punt 6° worden de woorden "gezondheidsonderzoek en het" opgeheven.
+
+### ART 13.
+
+In artikel 64, 67, 68, tweede lid, en artikel 69 tot en met 71 van hetzelfde decreet worden tussen het woord "kunnen" en het woord "betrekking" de woorden "onder meer" ingevoegd.
+
+### ART 14.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 18 juli 2008, 20 maart 2009 en 21 juni 2013, wordt het opschrift van titel VIII vervangen door wat volgt:<br>
+"Onderbouwing van het preventieve gezondheidsbeleid".
+
+### ART 15.
+
+Artikel 73 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 73. De initiatieven en maatregelen, vermeld in artikel 39 tot en met 72 en artikel 74, worden genomen op basis van wetenschappelijk onderbouwde gegevens en zijn gericht op het behalen van gezondheidswinst op Vlaams bevolkingsniveau tegen maatschappelijk aanvaardbare kosten of op het verhogen van de efficiëntie van het gezondheidsbeleid.".
+
+### ART 16.
+
+In artikel 76, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 20 maart 2009, wordt punt 1° vervangen door wat volgt:<br>
+"1° bevolkingsonderzoek als vermeld in artikel 31, § 2, organiseren, uitvoeren of promoten, of meewerken aan het organiseren, uitvoeren of promoten van bevolkingsonderzoek, zonder dat voor het bevolkingsonderzoek in kwestie toestemming is verleend;".
 
 ## Afdeling 3. Eerstelijnsgezondheidszorg
 
@@ -182,6 +252,11 @@ Aan hoofdstuk V, afdeling I, van hetzelfde decreet, gewijzigd bij het decreet va
 "Art. 47/1. De Vlaamse Regering richt Vlaamse detentiecentra op. De Vlaamse Regering bepaalt de maximumcapaciteit van elk Vlaams detentiecentrum.<br>
 De Vlaamse detentiecentra zijn, tot ze hun maximumcapaciteit bereikt hebben, belast met de tenlasteneming van personen tot maximaal de leeftijd van drieëntwintig jaar tegen wie een uithandengeving is uitgesproken of die veroordeeld zijn tot een gevangenisstraf na een uithandengeving die uitgesproken is door de jeugdrechtbank met toepassing van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade.".
 
+### ART 62.
+
+Artikel 48, § 3, van hetzelfde decreet wordt vervangen door wat volgt:<br>
+" § 3. De voorzieningen kunnen voor een onbepaalde duur erkend worden. De projecten kunnen worden erkend voor een hernieuwbare erkenningstermijn van maximaal vijf jaar.".
+
 ### ART 63.
 
 In artikel 49, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 12 juli 2013, worden de woorden "de leidend jeugdrechter in de jeugdrechtbank en van de toegangspoort" vervangen door de zinsnede "het Intersectoraal Regionaal Overleg Jeugdhulp, vermeld in artikel 65 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp,".
@@ -190,6 +265,11 @@ In artikel 49, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 
 
 Artikel 51 van hetzelfde decreet wordt vervangen door wat volgt:<br>
 "Art. 51. De Vlaamse Regering laat de voorzieningen, vermeld in artikel 48, § 1, en de organisaties, vermeld in artikel 52/1, inspecteren door personeelsleden van Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.".
+
+### ART 65.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 29 juni 2012, 21 juni 2013 en 12 juli 2013, wordt een artikel 70/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 70/1. De voorzieningen, vermeld in artikel 48, § 1, die erkend zijn op 1 januari 2017, worden van rechtswege geacht voor een onbepaalde duur erkend te zijn.".
 
 ## Afdeling 2. Wijzigingen van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade
 
@@ -264,6 +344,18 @@ De gegevensuitwisseling, vermeld in het tweede lid, kan alleen plaatsvinden na e
 ## HOOFDSTUK 7. Pleegzorg
 
 ## Afdeling 1. Wijzigingen van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg
+
+### ART 76.
+
+In artikel 12 van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede ", en de duur van de vergunning" wordt opgeheven;<br>
+2° de volgende zin wordt toegevoegd:<br>
+"De vergunning kan worden verleend voor een onbepaalde duur.".
+
+### ART 77.
+
+In hetzelfde decreet wordt een artikel 52/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 52/1. De diensten voor pleegzorg die vergund zijn op 1 januari 2017, worden van rechtswege geacht voor een onbepaalde duur vergund te zijn.".
 
 ## Afdeling 2. Wijziging van het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid"
 
