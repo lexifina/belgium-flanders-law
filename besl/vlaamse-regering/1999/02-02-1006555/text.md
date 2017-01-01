@@ -2,7 +2,11 @@
 
 ### ART. 1.
 
-<P>Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het decreet:   het decreet van 19 december 1998 houdende bepalingen tot begeleiding van de   begroting 1999;<BR>2° het Fonds: het Fonds culturele infrastructuur, bedoeld in   artikel 49 van het decreet;<BR>3° de Vlaamse minister: het lid van de Vlaamse   regering, bevoegd voor de cultuur;<BR>4° de leidend ambtenaar : de leidend   ambtenaar van het Departement Cultuur, Jeugd, Sport en Media, opgericht bij   artikel 24 van het besluit van de Vlaamse Regering van 3 juni 2005 met   betrekking tot de organisatie van de Vlaamse administratie.</P>
+<p>Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° het decreet: het decreet van 19 december 1998 houdende bepalingen tot begeleiding van de begroting 1999;<br>
+2° het Fonds: het Fonds culturele infrastructuur, bedoeld in artikel 49 van het decreet;<br>
+3° de Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor de cultuur;<br>
+4° de leidend ambtenaar : de leidend ambtenaar van het Departement Cultuur, Jeugd en Media, opgericht bij artikel 24 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.</p>
 
 ### ART. 2.
 
