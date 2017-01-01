@@ -144,7 +144,11 @@ De Vlaamse regering bepaalt het bedrag van de forfaitaire vergoeding die aan de 
 
 ### ART. 25.
 
-§ 1. De vastbenoemde leden van de inspectiedienst bedoeld in artikel 9, vierde en vijfde lid en in artikel 10, § 2, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving, worden op 1 januari 1994 ambtshalve overgedragen naar de inspectie en begeleiding van de levensbeschouwelijke vakken in dezelfde administratieve toestand als die waarin zij zich bevinden op 31 december 1993, in een overeenstemmend ambt. De Vlaamse regering bepaalt wat als "overeenstemmend ambt" wordt beschouwd.<br /><br />§ 2. Ze behouden de wedde-, dienst- en ambtsanciënniteit die zij verkregen zouden hebben indien zij in hun vorige dienst van herkomst hun ambt hadden blijven uitoefenen.<br /><br />§ 3. Indien de Vlaamse regering de erkenning van een bevoegde instantie van een erkende godsdienst of van een vereniging van de niet-confessionele gemeenschap goedkeurt na 1 januari 1994, vervullen de in § 1 bedoelde personeelsleden, vanaf 1 januari 1994 tot de datum van de erkenning, de in artikel 8 vermelde opdrachten onder de bevoegdheid van de Vlaamse regering.
+§ 1. De vastbenoemde leden van de inspectiedienst&nbsp;worden op 1 januari 1994 ambtshalve overgedragen naar de inspectie en begeleiding van de levensbeschouwelijke vakken in dezelfde administratieve toestand als die waarin zij zich bevinden op 31 december 1993, in een overeenstemmend ambt. De Vlaamse regering bepaalt wat als "overeenstemmend ambt" wordt beschouwd.<br>
+<br>
+§ 2. Ze behouden de wedde-, dienst- en ambtsanciënniteit die zij verkregen zouden hebben indien zij in hun vorige dienst van herkomst hun ambt hadden blijven uitoefenen.<br>
+<br>
+§ 3. Indien de Vlaamse regering de erkenning van een bevoegde instantie van een erkende godsdienst of van een vereniging van de niet-confessionele gemeenschap goedkeurt na 1 januari 1994, vervullen de in § 1 bedoelde personeelsleden, vanaf 1 januari 1994 tot de datum van de erkenning, de in artikel 8 vermelde opdrachten onder de bevoegdheid van de Vlaamse regering.
 
 ## AFDELING 11 VAKANTIE- EN PRESTATIEREGELING
 
@@ -180,7 +184,7 @@ De vakantie- en prestatieregeling wordt door de Vlaamse regering bepaald.
 
 ### ART. 31.
 
-In afwijking van artikel 59 van het decreet van 8 mei 2009 betreffende kwaliteit van onderwijs en in afwijking van artikel 9, § 2, van dit decreet, mogen de leden van de inspectie en begeleiding van de levensbeschouwelijke vakken die voor hun benoeming als vastbenoemd lid behoorden tot de inspectiedienst bedoeld in artikel 9, vierde en vijfde lid en in artikel 10, § 2, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving en die een mandaat in een inrichtende macht of een opdracht in een onderwijsinstelling of een centrum uitoefenden buiten hun inspectieopdracht, dit mandaat of die activiteit verder waarnemen, doch beperkt tot de aard en de omvang ervan op de dag vóór hun aanstelling als lid van de inspectie en de begeleiding van levensbeschouwelijke vakken.
+In afwijking van artikel 59 van het decreet van 8 mei 2009 betreffende kwaliteit van onderwijs en in afwijking van artikel 9, § 2, van dit decreet, mogen de leden van de inspectie en begeleiding van de levensbeschouwelijke vakken die voor hun benoeming als vastbenoemd lid behoorden tot de inspectiedienst en die een mandaat in een inrichtende macht of een opdracht in een onderwijsinstelling of een centrum uitoefenden buiten hun inspectieopdracht, dit mandaat of die activiteit verder waarnemen, doch beperkt tot de aard en de omvang ervan op de dag vóór hun aanstelling als lid van de inspectie en de begeleiding van levensbeschouwelijke vakken.
 
 ## HOOFDSTUK IV SLOTBEPALING
 
