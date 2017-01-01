@@ -12,7 +12,7 @@ Voor de toepassing van dit besluit wordt verstaan onder : <br />1° fiets : verv
 
 ### ART. 2.
 
-Dit besluit is van toepassing op de personeelsleden vermeld in artikel XI.1 van het decreet van 13 juli 2001 betreffende het onderwijs-XIII-Mozaïek.
+Dit besluit is van toepassing op de personeelsleden vermeld in artikel V.60 van de Codificatie sommige bepalingen voor het onderwijs.
 
 ## Hoofdstuk 2. Openbaar vervoer
 
