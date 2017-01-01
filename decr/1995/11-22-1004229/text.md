@@ -20,7 +20,18 @@ De overeenkomst van 21 december 1994 tussen het Vlaamse Gewest, het Limburgfonds
 
 ### ART. 5.
 
-§ 1. Er wordt een Fonds voor de Programmatie van het Wetenschapsbeleid opgericht, hierna te noemen het Fonds.<br /><br />§ 2. Aan het Fonds worden toegewezen de inkomsten voortvloeiend uit:<br /><br />a) de overeenkomsten die rechtstreeks of onrechtstreeks werden en worden afgesloten met de Europese Unie, en uit de daaruit voortvloeiende contractuele verbintenissen van de Administratie Programmatie van het Wetenschapsbeleid;<br /><br />b) de verkoop van publikaties over het wetenschappelijk onderzoek alsmede van publikaties over de valorisatie van het wetenschappelijk onderzoek;<br /><br />c) de bijdrage die door de administratie Programmatie Wetenschapsbeleid wordt gevraagd voor deelname aan haar acti-viteiten in het kader van wetenschapsvoorlichting;<br /><br />d) de overeenkomsten die kaderen in het samenwerkingsakkoord houdende uitvoering van artikel 6bis, § 2, punt 6, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.<br /><br />§ 3. De Vlaamse regering beschikt over de kredieten van het Fonds voor de Programmatie van het Wetenschapsbeleid voor al wat kan dienen in het kader van activiteiten met betrekking tot initiatieven ter bevordering van het wetenschappelijk onderzoek en de informatie over dit onderzoek en het wetenschapsbeleid, met uitzondering evenwel van de loon- en wer-kingskosten van de diensten van de Vlaamse Gemeenschap.
+§ 1. Er wordt een Fonds voor het Wetenschaps- en Innovatiebeleid opgericht, hierna te noemen het Fonds.<br>
+<br>
+§ 2. Aan het Fonds worden toegewezen de inkomsten voortvloeiend uit:<br>
+a) de overeenkomsten die rechtstreeks of onrechtstreeks werden en worden afgesloten met de Europese Unie, en uit de daaruit voortvloeiende contractuele verbintenissen van&nbsp;het Departement EWI;<br>
+b) de verkoop van publikaties over het wetenschappelijk onderzoek en het innovatiebeleid van bedrijven en overheid alsmede van publikaties over de valorisatie van het wetenschappelijk onderzoek;<br>
+c) de bijdrage die door het Departement EWI wordt gevraagd voor deelname aan haar activiteiten in het kader van wetenschapsvoorlichting;<br>
+d) de overeenkomsten die kaderen in het samenwerkingsakkoord houdende uitvoering van artikel 6bis, § 2, punt 6, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
+e) het naar 2017 over te dragen saldo beschikbaar op 31 december 2016 op de begroting van de VRWI ad 762.000 euro.<br>
+<br>
+§ 3. De kredieten van het Fonds voor het Wetenschaps- en Innovatiebeleid worden aangewend voor:<br>
+a) al wat kan dienen in het kader van activiteiten met betrekking tot initiatieven ter bevordering van het wetenschappelijk onderzoek en de innovatie bij bedrijven en onderzoeksinstellingen en de informatie over dit onderzoek, het wetenschapsbeleid en innovatiebeleid, met uitzondering evenwel van de loon- en werkingskosten van de diensten van de Vlaamse Gemeenschap;<br>
+b) studies, onderzoeksprojecten en wetenschappelijke werkgroepen in het kader van transitietrajecten Visie 2050.
 
 ### ART. 6.
 
