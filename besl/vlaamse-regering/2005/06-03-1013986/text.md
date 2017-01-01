@@ -144,7 +144,11 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 20.
 
-§ 1. Voor het beleidsdomein Internationaal Vlaanderen wordt het Vlaams   ministerie Internationaal Vlaanderen opgericht, dat bestaat uit het gelijknamige   departement. <BR><BR>§ 2. De agentschappen met rechtspersoonlijkheid die tot het   beleidsdomein Internationaal Vlaanderen behoren zijn : <BR>1° het Vlaams   Agentschap voor Internationaal Ondernemen; <BR>2° Toerisme Vlaanderen.<BR><BR>§   3. ...
+§ 1. Voor het beleidsdomein Internationaal Vlaanderen wordt het Vlaams Ministerie van Buitenlandse Zaken opgericht, dat bestaat uit het Departement Buitenlandse Zaken.<br>
+<br>
+§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Internationaal Vlaanderen behoren zijn :<br>
+1° het Vlaams Agentschap voor Internationaal Ondernemen;<br>
+2° Toerisme Vlaanderen.
 
 ### ART. 21.
 
@@ -160,7 +164,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 6° Fonds voor Wetenschappelijk Onderzoek-Vlaanderen;<br>
 7° Agentschap Plantentuin Meise.<br>
 <br>
-§ 3.De strategische adviesraad die tot het beleidsdomein Economie, Wetenschap en Innovatie behoort voor wat het gedeelte wetenschap en innovatie betreft, is de Vlaamse Raad voor Wetenschap en Innovatie.
+§ 3.....
 
 ### ART. 22.
 
@@ -178,7 +182,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 2° Openbaar Psychiatrisch Zorgcentrum Rekem;<br>
 3° Kind en Gezin;<br>
 4° Vlaams Agentschap voor Personen met een Handicap;<br>
-5° Vlaams Zorgfonds;<br>
+5° het Agentschap voor Vlaamse Sociale Bescherming;<br>
 6° Fonds Jongerenwelzijn;<br>
 7° Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
 9° Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg.<br>
@@ -187,13 +191,13 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 24.
 
-§ 1. Voor het beleidsdomein Cultuur, Jeugd, Sport en Media wordt het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media opgericht, dat bestaat uit het gelijknamige departement.&nbsp;<br>
+§ 1. Voor het beleidsdomein Cultuur, Jeugd, Sport en Media wordt het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media opgericht, dat bestaat uit het Departement Cultuur, Jeugd en Media.&nbsp;<br>
 <br>
 § 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Cultuur, Jeugd, Sport en Media behoren, zijn :<br>
 1° Sport Vlaanderen;<br>
 2° Vlaamse Regulator voor de Media.<br>
 <br>
-§ 3. De strategische adviesraad die tot het beleidsdomein Cultuur, Jeugd, Sport en Media behoort, is de Raad voor Cultuur, Jeugd, Sport en Media bij het Departement Cultuur, Jeugd, Sport en Media.<br>
+§ 3. De strategische adviesraad die tot het beleidsdomein Cultuur, Jeugd, Sport en Media behoort, is de Raad voor Cultuur, Jeugd, Sport en Media bij het Departement Cultuur, Jeugd en Media.<br>
 <br>
 § 4. Met toepassing van artikel 4, § 1, tweede lid, van het kaderdecreet is Sport Vlaanderen, vermeld in paragraaf 2, 1°, belast met de beleidsondersteunende taken voor het beleidsveld sport, vermeld in artikel 10, § 2, 6°, van dit besluit.<br>
 <br>
