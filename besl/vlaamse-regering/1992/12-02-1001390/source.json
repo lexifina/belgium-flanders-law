@@ -2,16 +2,16 @@
   "codex_id": 1001390,
   "title": "Besluit van de Vlaamse Regering van 1992-12-02 betreffende de vorm van de diploma's waarbij een academische graad wordt toegekend",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001390/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "9608fccba83d0f9447727ae7b441ddc11467f888ef80f3c93fdbb2c5c9e13324",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001390/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "8c39d95435ac9bf274f6eeac22d2e09d6a57c18d38b8e12c9eacdd75acc96b9c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001390&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2017-01-01",
   "made": "1992-12-02",
   "gazette": "1993-04-07",
   "numac": 1993035303,
   "document_start": "1992-09-01",
   "document_end": "2016-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2017-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
