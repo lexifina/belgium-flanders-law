@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028340,
+  "title": "Besluit van de Vlaamse Regering van 2017-05-05 tot wijziging van het besluit van de Vlaamse Regering van 25 juli 2014 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, wat betreft de actieve openbaarmaking van de documenten van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028340/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "16ca52cabaa5f5a169c21ebd832fd299fdcfd8553e53687634e1da4051f5e4ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028340&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-05-05",
+  "gazette": "2017-06-20",
+  "numac": 2017012341,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
