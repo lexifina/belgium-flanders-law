@@ -2,16 +2,16 @@
   "codex_id": 1023546,
   "title": "Ministerieel besluit van 2013-12-06 houdende het instellen van een regelluw kader voor het multifunctioneel centrum Medisch Pedagogisch Instituut Sint-Lievenspoort vzw",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023546/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "efb573ac1bb7a96f81156f361a209218079fa6a10b28ad554c0576b503d86115",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023546/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "9de52dad0e08b7cb4f9fbec9207f35b7b3f6da746dada5993bbe274a77864311",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023546&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2017-01-01",
   "made": "2013-12-06",
   "gazette": "2014-01-10",
   "numac": 2013207062,
   "document_start": "2014-01-01",
   "document_end": "2016-12-31",
-  "in_force": "2014-01-01",
+  "in_force": "2017-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
