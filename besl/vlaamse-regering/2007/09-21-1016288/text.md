@@ -35,19 +35,46 @@ Dit besluit is van toepassing op de instellingen voor deeltijds kunstonderwijs, 
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° het decreet : het decreet van 31 juli 1990 betreffende het Onderwijs II;<br />2° het organisatiebesluit Beeldende Kunst : het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichting beeldende kunst;<br />3° het organisatiebesluit Muziek, Woordkunst en Dans : het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichtingen muziek, woordkunst en dans;<br />4° administratieve omkadering : de omkadering in uren-opsteller en in uren-studiemeester-opvoeder zoals bedoeld in artikel 98 en 98bis van het decreet.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° het decreet : de Codificatie sommige bepalingen voor het onderwijs;<br>
+2° het organisatiebesluit Beeldende Kunst : het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichting beeldende kunst;<br>
+3° het organisatiebesluit Muziek, Woordkunst en Dans : het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichtingen muziek, woordkunst en dans;<br>
+4° administratieve omkadering : de omkadering in uren-opsteller en in uren-studiemeester-opvoeder zoals bedoeld in artikel II.27, II.28 van de Codificatie sommige bepalingen voor het onderwijs.<br>
+&nbsp;
 
 ## HOOFDSTUK II Administratieve omkadering
 
 ### ART. 3.
 
-Met toepassing van artikelen 98 en 98bis van het decreet wordt het ambt   van opsteller geheel of gedeeltelijk toegekend op basis van de formule :<BR>(a x   0,001 x 32 - b) / 32 x 38,<BR>waarbij :<BR>1° a = het aantal leerlingen zoals   bepaald in artikel 98, § 2, van het decreet;<BR>2° b = het aantal uren van een   betrekking studiemeester-opvoeder; beperkt tot de omvang zoals bepaald in   artikel 98bis, § 1, van het decreet;<BR>3° 32 = het aantal uren van een   voltijdse betrekking studiemeester-opvoeder;<BR>4° 38 = het aantal   omkaderingseenheden voor een voltijdse betrekking opsteller.<BR><BR>Als het   eerste cijfer na de komma groter is dan of gelijk is aan 5, wordt de uitkomst   van deze formule naar boven afgerond. Als dit cijfer kleiner is dan 5, wordt de   uitkomst naar beneden afgerond.<BR><BR>
+Met toepassing van artikel II.27 en II.28 van de Codificatie sommige bepalingen voor het onderwijs wordt het ambt van opsteller geheel of gedeeltelijk toegekend op basis van de formule :<br>
+(a x 0,001 x 32 - b) / 32 x 38,<br>
+waarbij :<br>
+1° a = het aantal leerlingen zoals bepaald in artikel II.27, §2, van de Codificatie sommige bepalingen voor het onderwijs;<br>
+2° b = het aantal uren van een betrekking studiemeester-opvoeder; beperkt tot de omvang zoals bepaald in artikel II.28, §1, van de Codificatie sommige bepalingen voor het onderwijs;<br>
+3° 32 = het aantal uren van een voltijdse betrekking studiemeester-opvoeder;<br>
+4° 38 = het aantal omkaderingseenheden voor een voltijdse betrekking opsteller.<br>
+<br>
+Als het eerste cijfer na de komma groter is dan of gelijk is aan 5, wordt de uitkomst van deze formule naar boven afgerond. Als dit cijfer kleiner is dan 5, wordt de uitkomst naar beneden afgerond.<br>
+&nbsp;
 
 ## HOOFDSTUK III Overgangsmaatregelen
 
 ### ART. 4.
 
-§ 1. Voor de instellingen vermeld in de bijlage bij dit besluit wordt de   administratieve omkadering berekend op basis van de volgende formule, rekening   houdend met het aantal uren-leraar zoals bedoeld in artikel 96 van het decreet   :<BR>[(15 x a + 16 x b + 13 x c) / 5000 x 32 - d] / 32 x 38,<BR>waarbij :<BR>1°   a = aantal uren-leraar in de lagere graad;<BR>2° b = aantal uren-leraar in de   middelbare graad;<BR>3° c = aantal uren-leraar in de hogere graad en in de   specialisatiegraad;<BR>4° d = het aantal uren van een betrekking   studiemeester-opvoeder beperkt tot de omvang zoals bepaald in artikel 98bis, §   1, van het decreet;<BR>5° 32 = het aantal uren van een voltijdse betrekking   studiemeester-opvoeder;<BR>6° 38 = het aantal omkaderingseenheden voor een   voltijdse betrekking opsteller.<BR><BR>De uitkomst van deze formule wordt   afgerond naar de onmiddellijk lagere eenheid.<BR><BR>§ 2. Vanaf het schooljaar   waarvoor de methode, vermeld in artikel 3, voor de instellingen vermeld in de   bijlage bij dit besluit evenveel of meer administratieve omkadering oplevert dan   de methode, vermeld in artikel 4, § 1, van dit besluit, wordt deze omkadering   berekend volgens de methode, vermeld in artikel 3.<BR><BR>
+§ 1. Voor de instellingen vermeld in de bijlage bij dit besluit wordt de administratieve omkadering berekend op basis van de volgende formule, rekening houdend met het aantal uren-leraar zoals bedoeld artikel II.22 van de Codificatie sommige bepalingen voor het onderwijs :<br>
+[(15 x a + 16 x b + 13 x c) / 5000 x 32 - d] / 32 x 38,<br>
+waarbij :<br>
+1° a = aantal uren-leraar in de lagere graad;<br>
+2° b = aantal uren-leraar in de middelbare graad;<br>
+3° c = aantal uren-leraar in de hogere graad en in de specialisatiegraad;<br>
+4° d = het aantal uren van een betrekking studiemeester-opvoeder beperkt tot de omvang zoals bepaald artikel II.28, §1,&nbsp;van de Codificatie sommige bepalingen voor het onderwijs;<br>
+5° 32 = het aantal uren van een voltijdse betrekking studiemeester-opvoeder;<br>
+6° 38 = het aantal omkaderingseenheden voor een voltijdse betrekking opsteller.<br>
+<br>
+De uitkomst van deze formule wordt afgerond naar de onmiddellijk lagere eenheid.<br>
+<br>
+§ 2. Vanaf het schooljaar waarvoor de methode, vermeld in artikel 3, voor de instellingen vermeld in de bijlage bij dit besluit evenveel of meer administratieve omkadering oplevert dan de methode, vermeld in artikel 4, § 1, van dit besluit, wordt deze omkadering berekend volgens de methode, vermeld in artikel 3.<br>
+&nbsp;
 
 ## HOOFDSTUK IV Wijzigingsbepalingen
 
