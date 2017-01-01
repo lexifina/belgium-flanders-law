@@ -362,7 +362,7 @@ Voor de bepaling van de marktwaarde wordt de marktwaarde van een representatief 
 
 ### ART. 40.
 
-Telkens op 1 januari worden de geschatte marktwaarden geactualiseerd volgens de wijze die de minister vaststelt en die een benadering van de evolutie van de huurprijzen op de private huurmarkt beoogt. De geschatte marktwaarden mogen maximaal negen keer geactualiseerd worden om nog tot het representatief staal gerekend te kunnen worden. Om het representatief staal op peil te houden, wordt het regelmatig aangevuld met nieuwe schattingen. Geschatte woningen die worden verkocht tijdens de negenjarige termijn, blijven nog in het staal opgenomen gedurende de resterende termijn.<br />
+Telkens op 1 januari worden de geschatte marktwaarden geactualiseerd volgens de wijze die de minister vaststelt en die een benadering van de evolutie van de huurprijzen op de private huurmarkt beoogt. De geschatte marktwaarden mogen maximaal&nbsp;elf keer geactualiseerd worden om nog tot het representatief staal gerekend te kunnen worden. Om het representatief staal op peil te houden, wordt het regelmatig aangevuld met nieuwe schattingen. Geschatte woningen die worden verkocht tijdens de elfjarige termijn, blijven nog in het staal opgenomen gedurende de resterende termijn.
 
 ### ART. 41.
 
