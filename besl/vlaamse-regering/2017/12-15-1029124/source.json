@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029124,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-15 houdende de wijziging van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap en het besluit van de Vlaamse Regering van 19 oktober 2012 tot wijziging van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke assistentiebudget aan personen met een handicap, wat betreft de combinatie met andere zorgvormen, de spoedprocedure en diverse bepalingen en houdende de regeling van de inwerkingtreding van artikel 95 tot en met 98 van het decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029124/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "ce7dd39889897839a43d0c3d952eebefe2023e4a83f66897cd5f5c39428344c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029124&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-12-15",
+  "gazette": "2018-03-16",
+  "numac": 2018030605,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
