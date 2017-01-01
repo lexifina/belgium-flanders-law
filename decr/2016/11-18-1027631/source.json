@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027631,
+  "title": "Decreet van 2016-11-18 tot wijziging van diverse bepalingen van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027631/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "2713a38ba2500b7c50abca300b473a32d831c82dd17bcd814c199c6645c3b43c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027631&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-11-18",
+  "gazette": "2016-12-13",
+  "numac": 2016036592,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
