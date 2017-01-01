@@ -706,7 +706,9 @@ De wekelijkse opdracht van het beleids- en ondersteunend personeel dat deeltijds
 
 ### ART. 26quater.
 
-In afwijking van Hoofdstuk IV bedraagt de wekelijkse opdracht van de kleuteronderwijzer, de onderwijzer, de kleuteronderwijzer ASV en de onderwijzer ASV die voltijds worden aangesteld op basis van de puntenenveloppe zoals bedoeld in de artikels, 125novies § 1, 153sexies § 4 en 153octies van het decreet basisonderwijs of op basis van de puntenenveloppe zoals bedoeld in artikel X.52 van het decreet van 14 februari 2003 betreffende het onderwijs XIV, 36 klokuren.<br /><br />De wekelijkse opdracht van het in het eerste lid vermeld personeel dat deeltijds werkt, bedraagt steeds een geheel deel van 36 klokuren.  <span class="reference">(ing. B.V.R. 30 september 2005, art. 2, I : 1 september 2005)</span> ]
+In afwijking van Hoofdstuk IV bedraagt de wekelijkse opdracht van de kleuteronderwijzer, de onderwijzer, de kleuteronderwijzer ASV en de onderwijzer ASV die voltijds worden aangesteld op basis van de puntenenveloppe zoals bedoeld in de artikels, 125novies § 1, 153sexies § 4 en 153octies van het decreet basisonderwijs of op basis van de puntenenveloppe zoals bedoeld in artikel VI.4 van de Codificatie sommige bepalingen voor het onderwijs, 36 klokuren.<br>
+<br>
+De wekelijkse opdracht van het in het eerste lid vermeld personeel dat deeltijds werkt, bedraagt steeds een geheel deel van 36 klokuren.
 
 ## [HOOFDSTUK VIIter DIENSTVRIJSTELLING VOOR ZITTING IN EEN LOKAAL INSPRAAKORGAAN (ing. BVR 27 mei 2011, art. 5)]
 
