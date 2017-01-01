@@ -2,16 +2,16 @@
   "codex_id": 1007600,
   "title": "Besluit van de Vlaamse Regering van 2000-07-17 betreffende de organisatie, het beheer, de werking en de erkenning van zorgkassen en betreffende de controle op de zorgkassen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007600/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "b690df7eb65126f1fa369914105265087128449f9dc460116ba83a1162992e12",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007600/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "96e43a780574c10023bebf947bfc34794281251c4321925667f2f4ae46e783e5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007600&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2017-01-01",
   "made": "2000-07-17",
   "gazette": "2000-11-01",
   "numac": 2000036064,
   "document_start": "2000-07-20",
   "document_end": "2016-12-31",
-  "in_force": "2006-07-01",
+  "in_force": "2017-01-01",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
