@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028242,
+  "title": "Besluit van de Vlaamse Regering van 2017-04-28 tot wijziging van het besluit van de Vlaamse Regering van 15 april 2016 houdende de toekenning en de erkenning van bijkomende bedden met een bijzondere erkenning als rust- en verzorgingstehuis",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028242/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "7b919e5522ec01c0ddf37df9845280d4e8de1fba3eb92df62519cf2162053fd7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028242&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-04-28",
+  "gazette": "2017-05-19",
+  "numac": 2017012149,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
