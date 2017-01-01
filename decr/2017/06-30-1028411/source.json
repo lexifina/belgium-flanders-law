@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028411,
+  "title": "Decreet van 2017-06-30 houdende wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat de opcentiemen op de onroerende voorheffing betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028411/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "94b9d90ab846829c975b208cb2d6763840f78bd5de2336ded72d0bf628af93aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028411&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2017-06-30",
+  "gazette": "2017-07-12",
+  "numac": 2017030487,
+  "document_start": "2017-07-22",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
