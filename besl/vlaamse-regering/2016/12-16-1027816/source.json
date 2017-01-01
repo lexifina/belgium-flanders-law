@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027816,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-16 tot bepaling van de datum van de inwerkingtreding van artikel 2 van het besluit van de Vlaamse Regering van 13 november 2015 houdende wijziging van artikel 6 en 20 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027816/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "fd27edc33e3d0b47184b0d7732f181cb24f2a030c480884e2e17156baecc97b0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027816&param=informatie",
+  "as_of": "2017-01-01",
+  "made": "2016-12-16",
+  "gazette": "2017-02-03",
+  "numac": 2017010373,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2017-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
