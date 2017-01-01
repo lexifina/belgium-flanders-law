@@ -2,16 +2,16 @@
   "codex_id": 1021713,
   "title": "Besluit van de Vlaamse Regering van 2012-04-20 betreffende de organisatie van pilootprojecten ter voorbereiding op de hervorming van het deeltijds kunstonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021713/VolledigDocument?datum=2012-01-13",
-  "source_sha256": "0809a64875f151960cfd427ad391cb5542b4494633fdb38c1173ea083b51daa3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021713/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "a06dc05b1cadaa83887ac7d6e422a6057e4914e63f5c967978a331a31a5b7120",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021713&param=informatie",
-  "as_of": "2012-01-13",
+  "as_of": "2017-01-01",
   "made": "2012-04-20",
   "gazette": "2012-05-10",
   "numac": 2012202535,
   "document_start": "2012-01-13",
   "document_end": "2016-12-31",
-  "in_force": "2012-01-13",
+  "in_force": "2017-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2012-01-13; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
