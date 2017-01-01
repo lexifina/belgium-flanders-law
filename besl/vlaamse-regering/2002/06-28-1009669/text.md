@@ -5,13 +5,13 @@
 ### ART. 1.
 
 Voor de toepassing van dit besluit wordt verstaan onder:<br>
-1° decreet: het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I;<br>
+1° decreet : het decreet betreffende de Codificatie sommige bepalingen voor het onderwijs;<br>
 2° departement: bevoegde dienst of ambtenaar van het departement Onderwijs van het Ministerie van de Vlaamse Gemeenschap;<br>
-3° deskundige: de deskundige, bedoeld in artikel IV.3, § 3, van het decreet;<br>
-4° lokaal overlegplatform: een lokaal overlegplatform, bedoeld in artikel IV.1 van het decreet;<br>
+3° deskundige : de deskundige, bedoeld in artikel VIII.4, §3, van de Codificatie sommige bepalingen voor het onderwijs;<br>
+4° lokaal overlegplatform : een lokaal overlegplatform, bedoeld in artikel VIII.2, van de Codificatie sommige bepalingen voor het onderwijs;<br>
 5° minister: de Vlaamse minister, bevoegd voor het Onderwijs;<br>
-6° voorzitter: de voorzitter, bedoeld in artikel IV.3, § 2 van het decreet;<br>
-7° werkingsgebied: het werkingsgebied, bedoeld in artikel IV.2, § 1, van het decreet.
+6° voorzitter : de voorzitter, bedoeld in artikel VIII.4, §2, van de Codificatie sommige bepalingen voor het onderwijs;<br>
+7° werkingsgebied : het werkingsgebied, bedoeld in artikel VIII.3, §1, van de Codificatie sommige bepalingen betreffende het onderwijs;
 
 ## HOOFDSTUK II OPRICHTING EN SAMENSTELLING
 
@@ -19,13 +19,25 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 
 ### ART. 2.
 
-De gemeenten en regio's, opgenomen als bijlage 1 bij dit besluit, zijn vanaf 1 januari 2003 prioritair in de zin van artikel IV.2, § 2, eerste lid, van het decreet. Ze worden aangeduid met het volgnummer, voorafgaand aan de betrokken gemeente of regio.<br /><br />De lokale overlegplatforms die vanaf 1 september 2002 in deze gemeenten en regio's worden opgericht overeenkomstig de bepalingen van het decreet en dit besluit, worden evenwel ondersteund door een deskundige.
+De gemeenten en regio's, opgenomen als bijlage 1 bij dit besluit, zijn vanaf 1 januari 2003 prioritair in de zin van artikel VIII.3, §2, eerste lid, van de Codificatie sommige bepalingen betreffende het onderwijs. Ze worden aangeduid met het volgnummer, voorafgaand aan de betrokken gemeente of regio.<br>
+<br>
+De lokale overlegplatforms die vanaf 1 september 2002 in deze gemeenten en regio's worden opgericht overeenkomstig de bepalingen van het decreet en dit besluit, worden evenwel ondersteund door een deskundige.
 
 ## AFDELING 2 VOORZITTER
 
 ### ART. 3.
 
-§ 1. De minister duidt overeenkomstig de bepalingen van artikel IV.3, § 2, van het decreet de voorzitter van elk overlegplatform aan.<br /><br />§ 2. De voorzitter wordt belast met een mandaat van zes jaar maar dit mandaat kan voortijdig beëindigd worden.<br /><br />Bij het voortijdig beëindigen van het mandaat, wordt een opvolger aangeduid voor de resterende mandaatperiode, na overleg met het lokaal overlegplatform.<br /><br />§ 3. De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding, die uitbetaald wordt per kwartaal kalenderjaar of - in voorkomend geval en voor de gepresteerde periode - bij voortijdige beëindiging.<br /><br />De vergoeding bedraagt 2.500 euro in de lokale overlegplatforms 3, 8, 14, 43, 47, en 51. In de andere lokale overlegplatforms bedraagt de vergoeding 1.860 euro.<br /><br />De vergoeding wordt toegekend aan index 100 % en wordt jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, bedoeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
+§ 1. De minister duidt overeenkomstig artikel VIII.4, §2 van de Codificatie sommige bepalingen voor het onderwijs de voorzitter van elk overlegplatform aan.<br>
+<br>
+§ 2. De voorzitter wordt belast met een mandaat van zes jaar maar dit mandaat kan voortijdig beëindigd worden.<br>
+<br>
+Bij het voortijdig beëindigen van het mandaat, wordt een opvolger aangeduid voor de resterende mandaatperiode, na overleg met het lokaal overlegplatform.<br>
+<br>
+§ 3. De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding, die uitbetaald wordt per kwartaal kalenderjaar of - in voorkomend geval en voor de gepresteerde periode - bij voortijdige beëindiging.<br>
+<br>
+De vergoeding bedraagt 4.000 euro in de lokale overlegplatforms 3, 8, 14, 43, 47, en 51. In de andere lokale overlegplatforms bedraagt de vergoeding 3.000 euro.<br>
+<br>
+De vergoeding&nbsp;wordt jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, en dit indexcijfer wordt voor 75 % toegepast.
 
 ### ART. 4.
 
@@ -51,7 +63,9 @@ De in artikel 6, § 1, eerste lid, 2°, bedoelde schriftelijke uiteenzetting en 
 
 ### ART. 9.
 
-De minister duidt overeenkomstig de bepalingen van artikel IV.3, § 3 van het decreet de deskundige van elk lokaal overlegplatform aan, op voordracht van de selectiecommissie.<br /><br />De minister kan, rekening houdend met de schaalgrootte en de kenmerken van de leerlingenpopulatie, meerdere overlegplatforms aan éénzelfde deskundige toewijzen.
+De minister duidt overeenkomstig de bepalingen van artikel&nbsp; VIII.4, §3 van de Codificatie sommige bepalingen voor het onderwijs de deskundige van elk lokaal overlegplatform aan, op voordracht van de selectiecommissie.<br>
+<br>
+De minister kan, rekening houdend met de schaalgrootte en de kenmerken van de leerlingenpopulatie, meerdere overlegplatforms aan éénzelfde deskundige toewijzen.
 
 ### ART. 10.
 
@@ -65,19 +79,38 @@ De deskundige beheert een werkingsbudget, dat binnen de beschikbare begrotingskr
 
 ### ART. 12.
 
-De minister bepaalt welke organen worden belast met de coördinatie van het aanduiden neemt de nodige initiatieven om de aanduiding van de in artikel IV.3, § 1, eerste lid, 4°, 5°, 6°, 8°, 9° en 10° van het decreet bedoelde participanten te laten coördineren door overkoepelende organen.
+De minister bepaalt welke organen worden belast met de coördinatie van het aanduiden neemt de nodige initiatieven om de aanduiding van de in&nbsp;artikel VIII.4, §1, eerste lid, 4°, 5°, 6°, 8°, 9° en 10°, van de Codificatie sommige bepalingen betreffende het onderwijs bedoelde participanten te laten coördineren door overkoepelende organen.
 
 ## HOOFDSTUK III WERKING
 
 ### ART. 13.
 
-Het huishoudelijk reglement van elk lokaal overlegplatform legt vanuit de bepalingen van artikel I.3 en IV.4 van het decreet ten minste volgende zaken vast:<br />1° de standplaats van het lokaal overlegplatform;<br />2° het minimumaantal bijeenkomsten per jaar;<br />3° de wijze en termijn van bijeenroeping;<br />4° de wijze van opmaak van de vergaderagenda;<br />5° de wijze waarop in de plaatsvervanging van afwezige participanten wordt voorzien;<br />6° de aanwezigheids- en stemquota om tot besluitvorming te komen bij gebrek aan consensus;<br />7° het takenpakket van de taakverdeling tussen de voorzitter en de deskundige;<br />8° de wijze waarop het in artikel 11 bedoelde werkingsbudget wordt aangewend;<br />9° de wijze waarop de gegevens die nodig zijn voor de werking van het lokaal overlegplatform, inzonderheid het opmaken van de in artikel IV.4, eerste lid, 1°, bedoelde omgevingsanalyse, worden opgevraagd;<br />10° de wijze van notulering;<br />11° de samenstelling, inzonderheid de wijze waarop de verschillende participanten worden vertegenwoordigd, de bevoegdheden en de werking van het in artikel IV.5, 1°, van het decreet bedoelde orgaan van dagelijks bestuur, en van eventuele andere deelorganen;<br />12° de wijze waarop de ouders en de leerlingen betrokken worden bij een bemiddeling in de zin van de artikelen V.2 en V.5 van het decreet.<br />13° de wijze waarop de Commissie inzake leerlingenrechten, vermeld in artikel IV.6 van het decreet, op de hoogte gebracht moet worden van het falen van een bemiddeling.<br /><br />In bijlage bij het huishoudelijk reglement gaat de nominatieve lijst van de deelnemers aan het lokaal overlegplatform.
+Het huishoudelijk reglement van elk lokaal overlegplatform legt vanuit de bepalingen van artikel VIII.5 van de Codificatie sommige bepalingen voor het onderwijs ten minste volgende zaken vast:<br>
+1° de standplaats van het lokaal overlegplatform;<br>
+2° het minimumaantal bijeenkomsten per jaar;<br>
+3° de wijze en termijn van bijeenroeping;<br>
+4° de wijze van opmaak van de vergaderagenda;<br>
+5° de wijze waarop in de plaatsvervanging van afwezige participanten wordt voorzien;<br>
+6° de aanwezigheids- en stemquota om tot besluitvorming te komen bij gebrek aan consensus;<br>
+7° het takenpakket van de taakverdeling tussen de voorzitter en de deskundige;<br>
+8° de wijze waarop het in artikel 11 bedoelde werkingsbudget wordt aangewend;<br>
+9° de wijze waarop de gegevens die nodig zijn voor de werking van het lokaal overlegplatform, inzonderheid het opmaken van de in artikel VIII.5, eerste lid, 1°, van de Codificatie sommige bepalingen voor het onderwijs, bedoelde omgevingsanalyse, worden opgevraagd;<br>
+10° de wijze van notulering;<br>
+11° de samenstelling, inzonderheid de wijze waarop de verschillende participanten worden vertegenwoordigd, de bevoegdheden en de werking van het in artikel VIII.6, 1°, van de Codificatie sommige bepalingen voor het onderwijs bedoelde orgaan van dagelijks bestuur, en van eventuele andere deelorganen;<br>
+12° de wijze waarop de ouders en de leerlingen betrokken worden bij een bemiddeling.<br>
+13° de wijze waarop de Commissie inzake leerlingenrechten, vermeld in artikel VIII.8 van de Codificatie sommige bepalingen voor het onderwijs, op de hoogte gebracht moet worden van het falen van een bemiddeling.<br>
+<br>
+In bijlage bij het huishoudelijk reglement gaat de nominatieve lijst van de deelnemers aan het lokaal overlegplatform.
 
 ## HOOFDSTUK IV ONTSTENTENIS VAN EEN LOKAAL OVERLEGPLATFORM
 
 ### ART. 14.
 
-Indien een school niet gelegen is in het werkingsgebied van een lokaal overlegplatform, gelden volgende regelen:<br />1° het departement berekent de relatieve aanwezigheid in het werkingsgebied overeenkomstig artikel III.5, § 1, van het decreet; <br />2° De bemiddeling, vermeld in de artikelen V.2 en V.5 van het decreet wordt waargenomen door : <br />- de voorzitter of, ingevolge onderlinge afspraak, de deskundige van het lokaal overlegplatform van het betrokken onderwijsniveau waarvan de standplaats het dichtst gelegen is bij de hoofdvestigingsplaats van de betrokken school, en<br />- een onderwijsinspecteur, aangeduid door de minister.
+Indien een school niet gelegen is in het werkingsgebied van een lokaal overlegplatform, gelden volgende regelen:<br>
+1° het departement berekent de relatieve aanwezigheid in het werkingsgebied overeenkomstig artikel 110/7 van de Codex Secundair Onderwijs of artikel 37septies van het decreet basisonderwijs;<br>
+2° De bemiddeling, wordt waargenomen door :<br>
+- de voorzitter of, ingevolge onderlinge afspraak, de deskundige van het lokaal overlegplatform van het betrokken onderwijsniveau waarvan de standplaats het dichtst gelegen is bij de hoofdvestigingsplaats van de betrokken school, en<br>
+- een onderwijsinspecteur, aangeduid door de minister.
 
 ## [HOOFDSTUK IVbis OVERGANGSBEPALINGEN (ing. BVR 17 december 2010, art. 2)]
 
