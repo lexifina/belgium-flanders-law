@@ -277,7 +277,17 @@ De Vlaamse detentiecentra zijn, tot ze hun maximumcapaciteit bereikt hebben, bel
 
 ### ART. 48.
 
-§ 1. Iedere natuurlijke persoon of rechtspersoon die zich voorneemt doorgaans minderjarigen op te nemen of te begeleiden in het raam van dit decreet, moet daartoe door de Vlaamse Regering worden erkend.<br /><br />§ 2. De Vlaamse Regering stelt per categorie van voorzieningen de algemene erkenningsvoorwaarden vast. Die voorwaarden kunnen betrekking hebben op :<br />1° de personele en materiële infrastructuur;<br />2° het opleidingsniveau en de aanvullende vorming van het personeel;<br />3° de verzorging, het onderwijs, de beroepsopleiding en het opvoedingsregime van de minderjarigen;<br />4° het pedagogische concept en programma;<br />5° de door haar bepaalde programmatie inzake de voorzieningen.<br /><br />§ 3. De voorzieningen en projecten worden erkend voor een hernieuwbare erkenningstermijn van maximaal vijf jaar.<br /><br />
+§ 1. Iedere natuurlijke persoon of rechtspersoon die zich voorneemt doorgaans minderjarigen op te nemen of te begeleiden in het raam van dit decreet, moet daartoe door de Vlaamse Regering worden erkend.<br>
+<br>
+§ 2. De Vlaamse Regering stelt per categorie van voorzieningen de algemene erkenningsvoorwaarden vast. Die voorwaarden kunnen betrekking hebben op :<br>
+1° de personele en materiële infrastructuur;<br>
+2° het opleidingsniveau en de aanvullende vorming van het personeel;<br>
+3° de verzorging, het onderwijs, de beroepsopleiding en het opvoedingsregime van de minderjarigen;<br>
+4° het pedagogische concept en programma;<br>
+5° de door haar bepaalde programmatie inzake de voorzieningen.<br>
+<br>
+&nbsp;§ 3. De voorzieningen kunnen voor een onbepaalde duur erkend worden. De projecten kunnen worden erkend voor een hernieuwbare erkenningstermijn van maximaal vijf jaar..<br>
+&nbsp;
 
 ### ART. 49.
 
@@ -393,6 +403,10 @@ De volgende regelingen worden opgeheven :<br />1° de decreten inzake bijzondere
 ### ART. 70.
 
 De besluiten die genomen zijn ter uitvoering van de decreten, vermeld in artikel 69, blijven van kracht zolang ze niet zijn opgeheven of zolang hun geldigheidsduur niet verstreken is.<br /><br />
+
+### ART 70/1.
+
+De voorzieningen, vermeld in artikel 48, § 1, die erkend zijn op 1 januari 2017, worden van rechtswege geacht voor een onbepaalde duur erkend te zijn.
 
 ### ART. 71.
 
