@@ -50,7 +50,7 @@ Aan artikel 89 van hetzelfde decreet wordt een paragraaf 3 toegevoegd, die luidt
 
 ### ART. 9.
 
-§ 1. Er wordt een fonds voor de managementondersteunende diensten van Onderwijs en Vorming opgericht, 'gebruik van logistieke infrastructuur en dienstverlening', hierna het Fonds genoemd.<br /><br />§ 2. Het Fonds is een B-fonds in de zin van artikel 45 van de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991.<br /><br />§ 3. Aan het Fonds worden alle ontvangsten toegewezen die voortvloeien uit het gebruik door derden van (logistieke) diensten zoals aangeboden in de dienstencatalogus van de managementondersteunende diensten van Onderwijs en Vorming. Naast de entiteiten van de Vlaamse overheid kunnen ook derden van dit aanbod gebruikmaken tegen een vooraf bepaalde prijslijst. Derden zijn de organisaties of instellingen (bijvoorbeeld VZW's) die niet tot de consolidatiekring van de Vlaamse overheid behoren.<br /><br />§ 4. De middelen van het Fonds kunnen in het kader van een efficiënte en effectieve overheid door de managementondersteunende diensten van Onderwijs en Vorming aangewend worden voor uitgaven met betrekking tot het onderhouden en in stand houden van de aangeboden logistieke infrastructuur en voor kosten verbonden aan de aangeboden logistieke dienstverlening.
+...
 
 ## HOOFDSTUK III. Registratierechten
 
