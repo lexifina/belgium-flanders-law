@@ -2,14 +2,14 @@
 
 ### ART. 1.
 
-§ 1. [Dit besluit is van toepassing op:<br>
+§ 1. Dit besluit is van toepassing op:<br>
 1° de personeelsleden, bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
 2° de personeelsleden, bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
-3° de leden van de inspectie voor het onderwijs, georganiseerd door de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
-4° de leden van de inspectie voor de centra voor leerlingenbegeleiding, georganiseerd door de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
-5° de personeelsleden van de dienst voor onderwijsontwikkeling, bedoeld in artikel 9 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
-6° de personeelsleden van de pedagogische begeleidingsdiensten, bedoeld in artikel 88 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
-7° de personeelsleden, bedoeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken. (verv. B.V.R. 5 december 2003, art. 2, I: 1 januari 2000) ]<br>
+3° de leden van de onderwijsinspectie, bedoeld in het decreet betreffende kwaliteit van onderwijs;<br>
+4° de personeelsleden van de pedagogische begeleidingsdiensten, bedoeld in het decreet betreffende kwaliteit van onderwijs;<br>
+5° ...<br>
+6° ...<br>
+7° de personeelsleden, bedoeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br>
 <br>
 § 2. Onverminderd de bepalingen van artikel 4, geldt dit besluit voor de in § 1 vermelde personeelsleden, ongeacht of ze hun ambt als hoofdambt dan wel als bijbetrekking uitoefenen.
 
