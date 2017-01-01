@@ -109,7 +109,12 @@ De schema's van de jaarrekening omvatten minstens de rubrieken die opgenomen zij
 
 ### ART. 15.
 
-Een van de toegevoegde schema's bij de jaarrekening bevat een toelichting met niet-recurrente meerjarige verbintenissen, ingedeeld volgens de ESR-classificatie, vermeld in Verordening (EG) nr. 2223/96 van de Raad van 25 juni 1996 inzake het Europees systeem van de nationale en regionale rekeningen in de Gemeenschap. <br /><br />De toelichting vermeldt ook de financieringswijze van die niet-recurrente meerjarige verbintenissen en maakt daarbij een onderscheid tussen toelagen die afkomstig zijn van de Vlaamse ministeries, andere toelagen, eigen inkomsten of leningen. <br /><br />
+Een van de toegevoegde schema's bij de jaarrekening bevat een toelichting met niet-recurrente meerjarige verbintenissen, ingedeeld volgens de ESR-classificatie, vermeld in Verordening (EG) nr. 2223/96 van de Raad van 25 juni 1996 inzake het Europees systeem van de nationale en regionale rekeningen in de Gemeenschap.<br>
+<br>
+De toelichting vermeldt ook de financieringswijze van die niet-recurrente meerjarige verbintenissen en maakt daarbij een onderscheid tussen toelagen die afkomstig zijn van de Vlaamse ministeries, andere toelagen, eigen inkomsten of leningen.<br>
+<br>
+Dit artikel is niet van toepassing op de Vlaamse rechtspersonen, vermeld in artikel 4, § 1, 2°, van het Rekendecreet, die in overeenstemming met het Europees systeem van nationale en regionale rekeningen, vermeld in verordening (EU) nr. 549/2013 van het Europees Parlement en de Raad van 21 mei 2013 betreffende het Europees systeem van de nationale en regionale rekeningen in de Europese Unie, niet onder sectorale code 13.12 ressorteren.<br>
+&nbsp;
 
 ## [HOOFDSTUK 3/1. Bepalingen over de rapportering en het financiële toezicht (ing. BVR 1 juni 2012, art. 31, I: 1 januari 2012)]
 
