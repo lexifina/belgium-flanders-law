@@ -2,44 +2,44 @@
 
 ### Aanhef
 
-De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, inzonderheid op artikel 87, § 1; <br /><br />Gelet op het besluit van de Vlaamse Regering van 28 mei 2004 tot bepaling van de wijze waarop voor de Vlaamse Gemeenschap uitvoering gegeven wordt aan de tweede fase van het Europees actieprogramma op onderwijsgebied "Socrates";<br /><br />Gelet op het gunstig advies van de Inspectie van Financiën, gegeven op 12 december 2007;<br /><br />Gelet op advies 44.094/1 van de Raad van State, gegeven op 21 februari 2008, met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van State;<br /><br />Op voorstel van de Vlaamse minister van Werk, Onderwijs en Vorming;<br /><br />Na beraadslaging,<br /><br />Besluit : <br /><br />
+...
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° besluit nr. 1720/2006/EG : besluit van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 tot vaststelling van een actieprogramma op het gebied van een leven lang leren;<br />2° programma : programma Een Leven Lang Leren vastgesteld bij artikel 1 van het besluit nr. 1720/2006/EG;<br />3° subprogramma : programma vermeld in artikel 3 van het besluit nr. 1720/2006/EG;<br />4° comité : één van de comités opgericht bij artikel 2 van dit besluit;<br />5° Europese LLP-comité : het Europese Een Leven Lang Lerencomité zoals bedoeld in artikel 10 van het besluit nr. 1720/2006/EG;<br />6° Epos : Europese Programma's voor Onderwijs, Opleiding en Samenwerking vzw zoals bedoeld in afdeling I van het decreet van 16 mei 2007 betreffende dringende maatregelen voor het onderwijs.<br /><br />
+...
 
 ### ART. 2.
 
-Bij de Vlaamse Regering worden vier overlegorganen ingesteld : het Vlaamse Comeniuscomité, het Vlaamse Erasmuscomité, het Vlaamse Grundtvigcomité en het Vlaamse Leonardo da Vincicomité. <br /><br />Zij fungeren als beleidsadviserende comités die bijdragen tot een optimale deelname van Vlaanderen aan het programma.<br /><br />
+...
 
 ### ART. 3.
 
-§ 1. Elk comité richt zijn activiteiten tot het sectorale subprogramma, waarvan het de naam draagt.<br /><br />Meer bepaald behandelt :<br />1° het Vlaamse Comeniuscomité het Comeniusprogramma;<br />2° het Vlaamse Erasmuscomité het Erasmusprogramma;<br />3° het Vlaamse Grundtvigcomité het Grundtvigprogramma;<br />4° het Vlaamse Leonardo da Vincicomité het Leonardo da Vinciprogramma.<br /><br />§ 2. De comités :<br />1° geven advies aan de Vlaamse Regering over : <br />a) de voortgang van het programma;<br />b) het verspreiden van informatie over het programma;<br />2° stellen acties voor in Vlaanderen ter aanvulling of ondersteuning van de acties van het programma;<br />3° dragen bij tot de bevordering van de Europese dimensie in onderwijs en opleidingen en tot de uitwisseling van informatie en ervaringen;<br />4° nemen kennis van de besprekingen van het programma door het Europese LLP-comité.<br /><br />
+...
 
 ### ART. 4.
 
-Elk comité kan werkgroepen oprichten en de bevoegdheid, duur en samenstelling van die werkgroepen bepalen.<br /><br />
+...
 
 ### ART. 5.
 
-§ 1. Het Vlaamse Comeniuscomité is samengesteld als volgt :<BR>1° drie   vertegenwoordigers van het Beleidsdomein Onderwijs en Vorming, waarvan :<BR>a)   één vertegenwoordiger van de afdeling Instellingen en Leerlingen Basisonderwijs   en Deeltijds Kunstonderwijs;<BR>b) één vertegenwoordiger van de afdeling   Instellingen en Leerlingen Secundair Onderwijs en Volwassenenonderwijs;<BR>c)   één vertegenwoordiger van de afdeling Internationale Relaties;<BR>2° één   vertegenwoordiger van de Onderwijsinspectie;<BR>3° één vertegenwoordiger van de   universiteiten, aangewezen in overleg met de Vlaamse Interuniversitaire   Raad;<BR>4° één vertegenwoordiger van de hogescholen, aangewezen in overleg met   de Vlaamse Hogescholenraad;<BR>5° vier vertegenwoordigers van de instellingen   van het secundair onderwijs en het basisonderwijs, aangewezen in overleg met de   koepels van inrichtende machten en het GO! onderwijs van de Vlaamse Gemeenschap,   met inachtneming van de verschillende niveaus, waarvan :<BR>a) twee   vertegenwoordigers voor het gesubsidieerd vrij onderwijs;<BR>b) één   vertegenwoordiger voor het gesubsidieerd officieel onderwijs;<BR>c) één   vertegenwoordiger voor het GO! onderwijs van de Vlaamse Gemeenschap;<BR>6° één   vertegenwoordiger van Syntra Vlaanderen;<BR>7° één vertegenwoordiger van   Epos;<BR>8° één Vlaamse vertegenwoordiger van het Europese LLP-comité;<BR>9° één   vertegenwoordiger van de Vlaamse Scholierenkoepel.<BR><BR>§ 2. Het Vlaamse   Erasmuscomité is samengesteld als volgt :<BR>1° drie vertegenwoordigers van het   Beleidsdomein Onderwijs en Vorming, waarvan :<BR>a) één vertegenwoordiger van de   afdeling Hoger Onderwijs;<BR>b) één vertegenwoordiger van de afdeling   Studietoelagen;<BR>c) één vertegenwoordiger van de afdeling Internationale   Relaties;<BR>2° elf vertegenwoordigers van de universiteiten en hogescholen,   aangewezen in overleg met de Vlaamse Interuniversitaire Raad en de Vlaamse   Hogescholenraad, waarvan :<BR>a) vier vertegenwoordigers van de Associatie   K.U.Leuven;<BR>b) drie vertegenwoordigers van de Associatie Universiteit Gent;   <BR>c) twee vertegenwoordigers van de Associatie Universiteit en Hogescholen   Antwerpen;<BR>d) één vertegenwoordiger van de Universitaire Associatie   Brussel;<BR>e) één vertegenwoordiger van de Associatie Universiteit-Hogescholen   Limburg;<BR>3° één vertegenwoordiger van Epos;<BR>4° één Vlaamse   vertegenwoordiger van het Europese LLP-comité;<BR>5° één vertegenwoordiger van   de Vlaamse Vereniging van Studenten;<BR>6° één vertegenwoordiger van de Vlaamse   werkgevers, aangewezen in overleg met de Sociaal-Economische Raad van   Vlaanderen.<BR><BR>§ 3. Het Vlaamse Grundtvigcomité is samengesteld als volgt   :<BR>1° vier vertegenwoordigers van het Beleidsdomein Onderwijs en Vorming,   waarvan :<BR>a) één vertegenwoordiger van de afdeling Instellingen en Leerlingen   Basisonderwijs en Deeltijds Kunstonderwijs;<BR>b) één vertegenwoordiger van de   afdeling Instellingen en Leerlingen Secundair Onderwijs en   Volwassenenonderwijs;<BR>c) één vertegenwoordiger van de afdeling Internationale   Relaties;<BR>d) één vertegenwoordiger van de afdeling Hoger Onderwijs;<BR>2° één   vertegenwoordiger van de Onderwijsinspectie;<BR>3°&nbsp;twee vertegenwoordigers   van het Vlaams ministerie van Cultuur, Jeugd, Sport en Media, waarvan :<BR>a)   één vertegenwoordiger van het Departement Cultuur, Jeugd, Sport en Media;<BR>b)   ...;<BR>c) ...;<BR>d) één vertegenwoordiger van het agentschap Bloso;<BR>4° één   vertegenwoordiger van het Departement Werk en Sociale Economie;<BR>5° één   vertegenwoordiger van het Departement Welzijn, Volksgezondheid en Gezin;<BR>6°   één vertegenwoordiger van de Vlaamse Interuniversitaire Raad;<BR>7° één   vertegenwoordiger van de Vlaamse Hogescholenraad;<BR>8° één vertegenwoordiger   van de Vlaamse Onderwijsraad;<BR>9° vier vertegenwoordigers van de instellingen   van het secundair onderwijs en het basisonderwijs, aangewezen in overleg met de   koepels van inrichtende machten en het GO! onderwijs van de Vlaamse Gemeenschap,   met inachtneming van de verschillende niveaus, waarvan :<BR>a) twee   vertegenwoordigers voor het gesubsidieerd vrij onderwijs;<BR>b) één   vertegenwoordiger voor het gesubsidieerd officieel onderwijs;<BR>c) één   vertegenwoordiger voor het GO! onderwijs van de Vlaamse Gemeenschap;<BR>10° één   vertegenwoordiger van de Vlaamse Dienst voor Arbeidsbemiddeling en   Beroepsopleiding;<BR>11° één vertegenwoordiger van Syntra Vlaanderen;<BR>12° één   vertegenwoordiger van Socius;<BR>13° één vertegenwoordiger van Epos;<BR>14° één   Vlaamse vertegenwoordiger van het Europese LLP-comité;<BR>15° één   vertegenwoordiger van het agentschap van het beleidsdomein Ruimtelijke Ordening,   Woonbeleid en Onroerend Erfgoed dat belast is met de uitvoering van het beleid   inzake onroerend erfgoed <BR><BR>§ 4. Het Vlaamse Leonardo da Vincicomité is   samengesteld als volgt :<BR>1° één vertegenwoordiger van het Departement Werk en   Sociale Economie;<BR>2° één vertegenwoordiger van het kabinet van de Vlaamse   minister van Werk, Onderwijs en Vorming;<BR>3° één vertegenwoordiger van het   kabinet van de Vlaamse minister van Welzijn, Volksgezondheid en Gezin;<BR>4° één   vertegenwoordiger van het Beleidsdomein Onderwijs en Vorming, Dienst   Beroepsonderwijs;<BR>5° één vertegenwoordiger van het Departement Cultuur,   Jeugd, Sport en Media;<BR>6° één vertegenwoordiger van het Vlaams netwerk van   ondernemingen;<BR>7° één vertegenwoordiger van de Unie van Zelfstandige   Ondernemers;<BR>8° één vertegenwoordiger van de Boerenbond;<BR>9° één   vertegenwoordiger van het Algemeen Christelijk Vakverbond;<BR>10° één   vertegenwoordiger van het Algemeen Belgisch Vakverbond;<BR>11° één   vertegenwoordiger van de Algemene Centrale der Liberale Vakbonden van   België;<BR>12° één vertegenwoordiger van de Vlaamse Dienst voor   Arbeidsbemiddeling en Beroepsopleiding;<BR>13° de directeur van het Europees   Sociaal Fonds Agentschap;<BR>14° één vertegenwoordiger van het Vlaams Ministerie   van Landbouw en Visserij, departement Landbouw en Visserij;<BR>15° één   vertegenwoordiger van Syntra Vlaanderen;<BR>16° één vertegenwoordiger van Kleis   vzw;<BR>17° één vertegenwoordiger van Epos;<BR>18° één Vlaamse vertegenwoordiger   van het Europese LLP-comité.<BR><BR>
+...
 
 ### ART. 6.
 
-De leden van de comités worden aangewezen voor een periode die gelijk is aan de looptijd van het programma. Ze worden benoemd door hun respectieve organisatie.<br /><br />De voorzitters en de ondervoorzitters worden verkozen door de leden van de respectieve comités.<br /><br />Voor elk van de leden wordt een plaatsvervanger aangewezen.<br /><br />
+...
 
 ### ART. 7.
 
-De leden van de comités ontvangen geen vergoedingen.<br /><br />
+...
 
 ### ART. 8.
 
-De comités zijn gehuisvest in het Hendrik Consciencegebouw, Koning Albert II-laan 15, 1210 Brussel.<br /><br />
+...
 
 ### ART. 9.
 
-Het besluit van de Vlaamse Regering van 28 mei 2004 tot bepaling van de wijze waarop voor de Vlaamse Gemeenschap uitvoering gegeven wordt aan de tweede fase van het Europees actieprogramma op onderwijsgebied "Socrates", wordt opgeheven.<br /><br />
+...
 
 ### ART. 10.
 
-De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
+...

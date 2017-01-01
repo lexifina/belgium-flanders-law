@@ -2,16 +2,16 @@
   "codex_id": 1017164,
   "title": "Besluit van de Vlaamse Regering van 2008-03-21 tot oprichting van overlegorganen die bijdragen tot een optimale deelname van Vlaamse Gemeenschap aan het Europees actieprogramma Een Leven Lang Leren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017164/VolledigDocument?datum=2015-04-01",
-  "source_sha256": "3074cf614947e236ba28cfe9525311e5c34aa68d7da6d97bee4e1df673cd23cf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017164/VolledigDocument?datum=2017-01-01",
+  "source_sha256": "b9c5be1a8198f9c4ec33928cfda5df6ec3e6ec18d61489c49fb324e751d787d5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017164&param=informatie",
-  "as_of": "2015-04-01",
+  "as_of": "2017-01-01",
   "made": "2008-03-21",
   "gazette": "2008-10-17",
   "numac": 2008203625,
   "document_start": "2008-10-27",
   "document_end": "2016-12-31",
-  "in_force": "2015-04-01",
+  "in_force": "2017-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
 }
