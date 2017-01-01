@@ -150,7 +150,7 @@ De exploitanten van een openbaar waterdistributienetwerk kunnen de kosten   die 
 1° het gewaarborgde inkomen voor bejaarden met toepassing van de wet van 1 april 1969 tot instelling van een gewaarborgd inkomen voor bejaarden of de inkomensgarantie voor ouderen met toepassing van de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen;<br>
 2° het leefloon of levensminimum, toegekend door het OCMW met toepassing van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, respectievelijk de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door de openbare centra voor maatschappelijk welzijn;<br>
 3° de inkomensvervangende tegemoetkoming voor personen met een handicap met toepassing van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
-4° de tegemoetkoming hulp aan bejaarden met toepassing van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
+4° de tegemoetkoming hulp aan bejaarden met toepassing van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
 5° de integratietegemoetkoming voor personen met een handicap met toepassing van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap.<br>
 <br>
 Het sociale tarief, vermeld in het eerste lid, geldt ook voor de abonnee en de gebruiker van een private waterwinning, vermeld in artikel 35quater, § 1, van de wet van 26 maart 1971, met een gezinslid, gedomicilieerd op hetzelfde adres, dat op 1 januari van het kalenderjaar onder een van de categorieën, vermeld in het eerste lid, valt.<br>
@@ -166,7 +166,8 @@ De exploitant van een openbaar waterdistributienetwerk kent aan de gerechtigde, 
 Als het sociale tarief niet automatisch wordt toegekend op basis van de vermelde inlichtingen, wordt het sociale tarief alleen op schriftelijke aanvraag verleend. Bij die schriftelijke aanvraag van het sociale tarief moet een van de volgende documenten gevoegd worden:<br>
 1° een attest, uitgereikt door de Rijksdienst voor Pensioenen, waaruit blijkt dat de vrijstellingsgerechtigde, vermeld in het eerste of het tweede lid, het gewaarborgde inkomen voor bejaarden of de inkomensgarantie voor ouderen genoten heeft;<br>
 2° een attest, uitgereikt door het OCMW, waaruit blijkt dat de vrijstellingsgerechtigde, vermeld in het eerste of het tweede lid, een door het OCMW toegekend leefloon of levensminimum genoten heeft;<br>
-3° een attest, uitgereikt door de Federale Overheidsdienst Sociale Zekerheid, waaruit blijkt dat de vrijstellingsgerechtigde, vermeld in het eerste of tweede lid, de inkomensvervangende tegemoetkoming voor personen met een handicap, de tegemoetkoming hulp aan bejaarden of de integratietegemoetkoming voor personen met een handicap genoten heeft.<br>
+3° een attest, uitgereikt door de Federale Overheidsdienst Sociale Zekerheid, waaruit blijkt dat de vrijstellingsgerechtigde, vermeld in het eerste of tweede lid, de inkomensvervangende tegemoetkoming voor personen met een handicap of de integratietegemoetkoming voor personen met een handicap genoten heeft.<br>
+4° een attest, uitgereikt door een zorgkas als vermeld in artikel 2, 19°, van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming, waaruit blijkt dat de vrijstellingsgerechtigde, vermeld in het eerste of tweede lid, de tegemoetkoming voor hulp aan bejaarden genoten heeft.<br>
 <br>
 De schriftelijke aanvraag van het sociale tarief moet op straffe van verval van het recht op sociaal tarief uiterlijk op 31 december van hetzelfde kalenderjaar waarop het bijgevoegde attest betrekking heeft, bij de exploitant van het openbare waterdistributienetwerk worden ingediend.<br>
 <br>
@@ -176,7 +177,7 @@ De schriftelijke aanvraag van het sociale tarief moet op straffe van verval van 
 1° het gewaarborgde inkomen voor bejaarden met toepassing van de wet van 1 april 1969 tot instelling van een gewaarborgd inkomen voor bejaarden of de inkomensgarantie voor ouderen met toepassing van de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen;<br>
 2° het leefloon of levensminimum, toegekend door het OCMW met toepassing van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, respectievelijk de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door de openbare centra voor maatschappelijk welzijn;<br>
 3° de inkomensvervangende tegemoetkoming voor personen met een handicap met toepassing van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
-4° de tegemoetkoming hulp aan bejaarden met toepassing van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap;<br>
+4° de tegemoetkoming hulp aan bejaarden met toepassing van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
 5° de integratietegemoetkoming voor personen met een handicap met toepassing van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap.<br>
 <br>
 De compensatie wordt uitsluitend verleend voor het verbruik op het wettelijke domicilie van de verbruiker op 1 januari van hetzelfde kalenderjaar. Per gezin kan jaarlijks slechts één compensatie worden verleend, die wordt uitbetaald aan de referentiepersoon van het gezin.<br>
@@ -188,7 +189,8 @@ De exploitant van een openbaar waterdistributienetwerk kent aan de compensatiege
 Als de compensatie niet automatisch wordt toegekend op basis van de vermelde inlichtingen, wordt de compensatie alleen op schriftelijke aanvraag verleend. Bij die schriftelijke aanvraag van compensatie moet een van de volgende documenten gevoegd zijn:<br>
 1° een attest, uitgereikt door de Rijksdienst voor Pensioenen, waaruit blijkt dat de tegemoetkomingsgerechtigde, vermeld in het eerste lid, het gewaarborgde inkomen voor bejaarden of de inkomensgarantie voor ouderen genoten heeft;<br>
 2° een attest, uitgereikt door het OCMW, waaruit blijkt dat de tegemoetkomingsgerechtigde, vermeld in het eerste lid, een door het OCMW toegekend leefloon of levensminimum genoten heeft;<br>
-3° een attest, uitgereikt door de Federale Overheidsdienst Sociale Zekerheid, waaruit blijkt dat de tegemoetkomingsgerechtigde, vermeld in het eerste lid, de inkomensvervangende tegemoetkoming voor personen met een handicap, de tegemoetkoming hulp aan bejaarden of de integratietegemoetkoming voor personen met een handicap genoten heeft.<br>
+3° een attest, uitgereikt door de Federale Overheidsdienst Sociale Zekerheid, waaruit blijkt dat de tegemoetkomingsgerechtigde, vermeld in het eerste lid, de inkomensvervangende tegemoetkoming voor personen met een handicap of de integratietegemoetkoming voor personen met een handicap genoten heeft;<br>
+4° een attest, uitgereikt door een zorgkas als vermeld in artikel 2, 19°, van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming, waaruit blijkt dat de tegemoetkomingsgerechtigde, vermeld in het eerste lid, de tegemoetkoming voor hulp aan bejaarden genoten heeft.<br>
 <br>
 De schriftelijke aanvraag van compensatie moet op straffe van verval van het recht op compensatie uiterlijk op 31 december van het kalenderjaar waarop het bijgevoegde attest betrekking heeft, ingediend worden bij de exploitant van het openbare waterdistributienetwerk van het verzorgingsgebied waar het desbetreffende gebouw ligt.<br>
 <br>
