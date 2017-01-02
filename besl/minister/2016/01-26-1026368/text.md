@@ -6,16 +6,16 @@
 
 ### ART. 1.
 
-In   het artikel 15, paragraaf 2, van het ministerieel besluit van 22 december 2015   houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden   in zee, wordt het getal "300" vervangen door het getal   "400".
+...
 
 ### ART. 2.
 
-Aan   artikel 23, paragraaf 1, van hetzelfde besluit, worden volgende wijzigingen   aangebracht:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   het woord "december" wordt vervangen door het woord "januari";<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   een tweede lid wordt toegevoegd, dat luidt als volgt:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"In   de periode van 1 februari 2016 tot en met 31 oktober 2016 is het in het   ICES-gebied VIIa voor een vissersvaartuig verboden een totale tongvangst te   realiseren die groter is dan 500 kg."<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 3.
 
-<P>Aan   artikel 28, paragraaf 8, van hetzelfde besluit worden een zesde en zevende lid   toegevoegd, die luiden als volgt:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"In   afwijking van het eerste lid, is het in de periode van 1 februari 2016 tot en   met 31 maart 2016 in de ICES-gebieden VIIb-k voor een vissersvaartuig met een   motorvermogen van 221 kW of minder verboden bij de wijtingvangsten per zeereis   een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met   het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende   ICES-gebieden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   afwijking van het tweede lid, is het in de periode van 1 februari 2016 tot en   met 31 maart 2016 in de ICES-gebieden VIIb-k voor een vissersvaartuig met een   motorvermogen van meer dan 221 kW verboden bij de wijtingvangsten per zeereis   een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met   het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende   ICES-gebieden.".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+...
 
 ### ART. 4.
 
-Dit   besluit treedt in werking op 1 februari 2016. Het houdt op van kracht te zijn op   1 januari 2017.
+...

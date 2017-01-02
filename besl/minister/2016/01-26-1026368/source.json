@@ -2,16 +2,16 @@
   "codex_id": 1026368,
   "title": "Ministerieel besluit van 2016-01-26 tot wijziging van het ministerieel besluit van 22 december 2015, houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026368/VolledigDocument?datum=2016-02-01",
-  "source_sha256": "ef60490e14c934cb577c71ac2f375e9c40493749bb2ff492ef7f42b1e48179d9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026368/VolledigDocument?datum=2017-01-02",
+  "source_sha256": "a952ee97220bb11e56acdd384b564d1aa7e747d9834e787e40db345ca56a443f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026368&param=informatie",
-  "as_of": "2016-02-01",
+  "as_of": "2017-01-02",
   "made": "2016-01-26",
   "gazette": "2016-01-28",
   "numac": 2016035072,
   "document_start": "2016-02-01",
   "document_end": "2017-01-01",
-  "in_force": "2016-02-01",
+  "in_force": "2017-01-02",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2016-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-02; future article versions excluded; article text as the API gives it"
 }
