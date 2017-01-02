@@ -6,20 +6,20 @@
 
 ### ART. 1.
 
-In   het artikel 10, paragraaf 1, derde lid, van het ministerieel besluit van 22   december 2015 houdende tijdelijke aanvullende maatregelen tot het behoud van de   visbestanden in zee, wordt het getal "50" vervangen door het getal   "75".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 2.
 
-In   artikel 24, paragraaf 2, van hetzelfde besluit, worden de volgende wijzigingen   aangebracht :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   in het eerste lid wordt het getal "50" vervangen door het getal "60";<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   in het tweede lid wordt het getal "100" vervangen door het getal   "120".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 3.
 
-In   artikel 25 van hetzelfde besluit, worden de volgende wijzigingen aangebracht   :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   in paragraaf 1, eerste lid, paragraaf 2, eerste lid, paragraaf 3, eerste lid,   worden de woorden "15 april" vervangen door de woorden "31 maart";<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   in paragraaf 1, tweede lid, paragraaf 2, tweede lid, paragraaf 3, tweede lid,   paragraaf 6, tweede lid, worden de woorden "16 april" vervangen door de woorden   "1 april".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 4.
 
-Aan   artikel 27 van hetzelfde besluit, worden de volgende wijzigingen aangebracht   :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   in paragraaf 2, eerste lid, wordt het getal "75" vervangen door het getal   "40";<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   in paragraaf 2, tweede lid, wordt het getal "150" vervangen door het getal   "80";<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   een paragraaf 3 wordt toegevoegd, die luidt als volgt :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"   § 3. In de periode van 1 maart 2016 tot en met 31 december 2016 is het in de   ICES-gebieden VIIa-c, e-k, voor een vissersvaartuig met een motorvermogen van   221 kW of minder verboden bij de rogvangsten per zeereis een hoeveelheid te   overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal   vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">In   de periode van 1 maart 2016 tot en met 31 december 2016 is het in de   ICES-gebieden VIIa-c, e-k, voor een vissersvaartuig met een motorvermogen van   meer dan 221 kW verboden bij de rogvangsten per zeereis een hoeveelheid te   overschrijden die gelijk is aan 1000 kg, vermenigvuldigd met het aantal   vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 5.
 
-&nbsp;Dit besluit treedt in werking op 1   maart 2016. Het houdt op van kracht te zijn op 1 januari   2017.
+...
