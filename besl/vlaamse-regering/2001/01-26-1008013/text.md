@@ -4,7 +4,9 @@
 
 ### ART. 1.
 
-§ 1. Dit besluit regelt het financiële en materiële beheer van de dienst met afzonderlijk beheer "Catering", hierna genoemd de DAB.<br /><br />§ 2. ...
+§ 1. Dit besluit regelt het financiële en materiële beheer van de dienst met afzonderlijke beheer Catering en Schoonmaak, hierna genoemd de DAB.<br>
+<br>
+§ 2. ...
 
 ## HOOFDSTUK II DE BEGROTING
 
@@ -36,7 +38,7 @@ De ramingen van de ontvangsten hebben betrekking op:<br /><br />1° het over te 
 
 ### ART. 8.
 
-Het afdelingshoofd van de afdeling Logistieke Dienstverlening bij de administratie Logistiek Management, of zijn plaatsvervanger, wordt aangesteld als beheerder en ordonnateur van de DAB.
+Het afdelingshoofd van de Afdeling Regionale Dienstverlening bij het agentschap Facilitair Bedrijf, of zijn plaatsvervanger, wordt aangesteld als beheerder en inhoudelijk ordonnateur van de DAB.
 
 ### ART. 9.
 
