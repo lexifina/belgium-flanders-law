@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027671,
+  "title": "Besluit van de Vlaamse Regering van 2016-11-25 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer Catering en Schoonmaak",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027671/VolledigDocument?datum=2017-01-02",
+  "source_sha256": "caf9c8b9b32e1ea64a8646296793a20f54837c5e59b9b4813f45e1d06a982c31",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027671&param=informatie",
+  "as_of": "2017-01-02",
+  "made": "2016-11-25",
+  "gazette": "2016-12-23",
+  "numac": 2016036638,
+  "document_start": "2017-01-02",
+  "document_end": null,
+  "in_force": "2017-01-02",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-01-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
