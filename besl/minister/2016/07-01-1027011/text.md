@@ -19,18 +19,16 @@
 
 ### ART 1.
 
-<span style="color: rgb(0, 0, 0);">De gebieden opgenomen in het beveiligd digitaal bestand van dezelfde datum als dit besluit, worden vastgesteld als de gebieden waar geen archeologisch erfgoed te verwachten valt, vermeld in artikel 5.4.1, derde lid, 1°, van het Onroerenderfgoeddecreet van 12 juli 2013.</span><br>
-&nbsp;
+...
 
 ### ART 2.
 
-<span style="color: rgb(0, 0, 0);">De kaart met de gebieden waar geen archeologisch erfgoed te verwachten valt, is in de vorm van een gegeorefereerde GIS-laag beschikbaar op de website van het agentschap Onroerend Erfgoed.</span>
+...
 
 ### ART 3.
 
-<span style="color: rgb(0, 0, 0);">Het ministerieel besluit van 5 februari 2016 tot vaststelling van de gebieden waar geen archeologisch erfgoed te verwachten valt, wordt opgeheven.</span><br>
-&nbsp;
+...
 
 ### ART 4.
 
-<span style="color: rgb(0, 0, 0);">Dit besluit treedt in werking op 1 augustus 2016.</span>
+...
