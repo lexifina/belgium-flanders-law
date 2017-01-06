@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027681,
+  "title": "Ministerieel besluit van 2016-12-14 houdende een oproep tot indiening van steunaanvragen als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 april 2015 betreffende steun voor innovaties in de landbouw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027681/VolledigDocument?datum=2017-01-06",
+  "source_sha256": "cc457e140004da74f7d2dd94d473f6835a9bc7cac36cc73a362142c92f9b9ad0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027681&param=informatie",
+  "as_of": "2017-01-06",
+  "made": "2016-12-14",
+  "gazette": "2016-12-27",
+  "numac": 2016036662,
+  "document_start": "2017-01-06",
+  "document_end": null,
+  "in_force": "2017-01-06",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2017-01-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
