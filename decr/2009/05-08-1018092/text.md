@@ -1619,7 +1619,25 @@ Als uit de EPB-aangifte blijkt dat de EPB-eisen vermeld in artikel 11.1.1,   § 
 
 ### ART. 13.5.1.
 
-<P>...</P>
+<p>§ 1. Bij niet-naleving van de door de Vlaamse Regering in toepassing van artikel 14.2.2 opgelegde eisen inzake de consistentie, volledigheid en accuraatheid van de te rapporteren gegevens, kan de Vlaamse Belastingdienst de toegangshouder een administratieve geldboete opleggen die niet lager is dan 150 euro, en niet hoger dan 20.000 euro.<br>
+<br>
+§ 2. Bij niet-naleving van de in toepassing van artikel 14.2.2 opgelegde rapporterings- of betaaltermijn kan de Vlaamse Belastingdienst de toegangshouder een administratieve geldboete opleggen van 250 euro per kalenderdag vertraging.<br>
+<br>
+§ 3. De betrokkene wordt van de beslissing tot het opleggen van de administratieve geldboete, vermeld in paragraaf 1 en 2, in kennis gesteld met een aangetekende brief met bericht van ontvangst. De kennisgeving vermeldt het bedrag van de administratieve geldboete.<br>
+<br>
+§ 4. De betrokkene kan tegen het opleggen van de administratieve geldboete bezwaar indienen bij de Vlaamse Belastingdienst. Het bezwaar moet worden gemotiveerd en op straffe van verval worden ingediend binnen zestig kalenderdagen na de kennisgeving van de administratieve geldboete.<br>
+<br>
+§ 5. De administratieve geldboete moet worden betaald binnen zestig kalenderdagen na de kennisgeving ervan, of indien bezwaar is ingediend, binnen zestig kalenderdagen na de beslissing omtrent het bezwaar.<br>
+<br>
+§ 6. De vordering tot betaling van de administratieve geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de dag waarop ze is ontstaan.<br>
+<br>
+De verjaring wordt gestuit op de wijze en onder de voorwaarden, die bepaald zijn in artikel 2244 en volgende van het Burgerlijk Wetboek.<br>
+<br>
+§ 7. Bij gebrek aan voldoening van de administratieve geldboete en toebehoren wordt een dwangschrift uitgevaardigd, geviseerd en uitvoerbaar verklaard door het bevoegde personeelslid van de Vlaamse Belastingdienst.<br>
+<br>
+§ 8. Op basis van dat dwangschrift kan via gerechtsdeurwaardersexploot een dwangbevel betekend worden.<br>
+<br>
+§ 9. Binnen een termijn van dertig dagen na de betekening van het dwangbevel kan de belastingschuldige bij gerechtsdeurwaardersexploot een met redenen omkleed verzet aantekenen, houdende dagvaarding van het Vlaamse Gewest, bij de rechtbank van eerste aanleg van de plaats waar de bevoegde entiteit van de Vlaamse administratie die de administratieve geldboete moet innen, is gevestigd.</p>
 
 ### ART. 13.5.2.
 
