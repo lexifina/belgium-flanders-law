@@ -66,6 +66,32 @@ De voorwaarden tot overdracht worden bepaald door de Vlaamse Regering.<br>
 
 ## Afdeling 1 Wijzigingen aan titel XIII van het Energiedecreet van 8 mei 2009
 
+### ART 8.
+
+In titel XIII van het Energiedecreet van 8 mei 2009, wordt hoofdstuk V, opgeheven bij het decreet van 14 februari 2014, opnieuw opgenomen in de volgende lezing:<br>
+"Hoofdstuk V. Administratieve sancties opgelegd door de Vlaamse Belastingdienst<br>
+<br>
+Art. 13.5.1. § 1. Bij niet-naleving van de door de Vlaamse Regering in toepassing van artikel 14.2.2 opgelegde eisen inzake de consistentie, volledigheid en accuraatheid van de te rapporteren gegevens, kan de Vlaamse Belastingdienst de toegangshouder een administratieve geldboete opleggen die niet lager is dan 150 euro, en niet hoger dan 20.000 euro.<br>
+<br>
+§ 2. Bij niet-naleving van de in toepassing van artikel 14.2.2 opgelegde rapporterings- of betaaltermijn kan de Vlaamse Belastingdienst de toegangshouder een administratieve geldboete opleggen van 250 euro per kalenderdag vertraging.<br>
+<br>
+§ 3. De betrokkene wordt van de beslissing tot het opleggen van de administratieve geldboete, vermeld in paragraaf 1 en 2, in kennis gesteld met een aangetekende brief met bericht van ontvangst. De kennisgeving vermeldt het bedrag van de administratieve geldboete.<br>
+<br>
+§ 4. De betrokkene kan tegen het opleggen van de administratieve geldboete bezwaar indienen bij de Vlaamse Belastingdienst. Het bezwaar moet worden gemotiveerd en op straffe van verval worden ingediend binnen zestig kalenderdagen na de kennisgeving van de administratieve geldboete.<br>
+<br>
+§ 5. De administratieve geldboete moet worden betaald binnen zestig kalenderdagen na de kennisgeving ervan, of indien bezwaar is ingediend, binnen zestig kalenderdagen na de beslissing omtrent het bezwaar.<br>
+<br>
+§ 6. De vordering tot betaling van de administratieve geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de dag waarop ze is ontstaan.<br>
+<br>
+De verjaring wordt gestuit op de wijze en onder de voorwaarden, die bepaald zijn in artikel 2244 en volgende van het Burgerlijk Wetboek.<br>
+<br>
+§ 7. Bij gebrek aan voldoening van de administratieve geldboete en toebehoren wordt een dwangschrift uitgevaardigd, geviseerd en uitvoerbaar verklaard door het bevoegde personeelslid van de Vlaamse Belastingdienst.<br>
+<br>
+§ 8. Op basis van dat dwangschrift kan via gerechtsdeurwaardersexploot een dwangbevel betekend worden.<br>
+<br>
+§ 9. Binnen een termijn van dertig dagen na de betekening van het dwangbevel kan de belastingschuldige bij gerechtsdeurwaardersexploot een met redenen omkleed verzet aantekenen, houdende dagvaarding van het Vlaamse Gewest, bij de rechtbank van eerste aanleg van de plaats waar de bevoegde entiteit van de Vlaamse administratie die de administratieve geldboete moet innen, is gevestigd.".<br>
+&nbsp;
+
 ## HOOFDSTUK 6 Leefmilieu en Natuur
 
 ## Afdeling 1 Uitbreiding uitgavenkader Vlaams Klimaatfonds
@@ -222,6 +248,11 @@ In hetzelfde decreet wordt een artikel 19/7 ingevoegd, dat luidt als volgt:<br>
 &nbsp;
 
 ## Afdeling 3 Opheffing Eigen Vermogen Frans Masereel Centrum
+
+### ART 22.
+
+De artikelen 12 tot en met 14 van het koninklijk besluit van 13 juli 1972 houdende oprichting van het eigen vermogen van het Frans Masereel Centrum te Kasterlee, worden opgeheven.<br>
+&nbsp;
 
 ## HOOFDSTUK 9 Onderwijs en Vorming
 
@@ -498,6 +529,11 @@ Aan artikel 3.18.0.0.11 van de Vlaamse Codex Fiscaliteit van 13 december 2013, i
 § 3. De middelen van het fonds met betrekking tot audits Europese Structuurfondsen dienen aangewend te worden voor het uitvoeren van audits in het kader van de Europese structuurfondsen. Deze audits kunnen zowel extern als intern uitgevoerd worden.
 
 ## Afdeling 5 Winwinlening
+
+### ART 45.
+
+In artikel 2, 5°, van het decreet van 19 mei 2006 betreffende de Winwinlening, gewijzigd bij het decreet van 10 december 2010, worden tussen het woord "micro-onderneming" en de woorden "als gedefinieerd in" de woorden ", met inbegrip van de coöperatieve vennootschap, vermeld in artikel 350 tot en met artikel 436 van het wetboek van 7 mei 1999 van vennootschappen," ingevoegd.<br>
+&nbsp;
 
 ## Afdeling 6 Belastingvermindering voor dakisolatie
 
