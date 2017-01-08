@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027692,
+  "title": "Besluit van de Vlaamse Regering van 2016-10-28 betreffende codificatie sommige bepalingen voor het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027692/VolledigDocument?datum=2017-01-08",
+  "source_sha256": "339e643c908f515967842003b649194117371d3c34a1f18524d87dd9a06e1dfb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027692&param=informatie",
+  "as_of": "2017-01-08",
+  "made": "2016-10-28",
+  "gazette": "2016-12-29",
+  "numac": 2016036660,
+  "document_start": "2017-01-08",
+  "document_end": null,
+  "in_force": "2017-01-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-01-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
