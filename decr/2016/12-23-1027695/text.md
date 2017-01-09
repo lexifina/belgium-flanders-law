@@ -2,6 +2,12 @@
 
 ## HOOFDSTUK 1 Algemene bepalingen
 
+### ART 1.
+
+Hoofdstuk 2, 3, 5, 6 en 8 van dit decreet regelen een gewestaangelegenheid.<br>
+Hoofdstuk 4 van dit decreet regelt een gemeenschapsaangelegenheid.<br>
+Hoofdstuk 7 en 9 van dit decreet regelen een gemeenschaps- en gewestaangelegenheid.
+
 ## HOOFDSTUK 2 Verrekenbaarheid met opcentiemen in geval van federale fiscale regularisatie
 
 ### ART 2.
@@ -298,6 +304,11 @@ In artikel 1.1.0.0.2, eerste lid, van de Vlaamse Codex Fiscaliteit van 13 decemb
 "10° /1 heffing ongeschikte en onbewoonbare woningen: de belasting die geheven wordt conform de bepalingen van titel 2, hoofdstuk 5, van deze codex;";<br>
 2° punt 25° wordt opgeheven.
 
+### ART 20.
+
+In artikel 2.1.5.0.2, § 2, van de Vlaamse Codex Fiscaliteit van 13 december 2013 wordt het laatste lid opgeheven.<br>
+&nbsp;
+
 ### ART 21.
 
 In artikel 2.1.6.0.2 van hetzelfde decreet wordt het laatste lid vervangen door wat volgt:<br>
@@ -503,9 +514,74 @@ Wanneer een overledene gehuwd was onder een stelsel van gemeenschap, gelden de b
 "Dit tegenbewijs kan niet worden geleverd door aan te tonen dat het contract werd geschonken aan deze persoon.".<br>
 &nbsp;
 
+### ART 35.
+
+Aan artikel 2.7.3.2.8 van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, waarvan de bestaande tekst paragraaf 1 zal vormen, wordt een paragraaf 2 toegevoegd, die luidt als volgt:<br>
+" § 2. In het geval van een levensverzekeringscontract wordt de belastbare grondslag van de sommen, renten of waarden, die aan de persoon, vermeld in artikel 2.7.1.0.6, kunnen toekomen, verminderd met het bedrag dat als belastbare grondslag heeft gediend voor de heffing van de schenkbelasting indien het contract door de erflater aan die persoon werd geschonken.".<br>
+&nbsp;
+
+### ART 36.
+
+In artikel 2.7.3.4.2, zesde lid, van hetzelfde decreet, ingevoegd bij het decreet van 17 juli 2015, wordt tussen de zinsnede "van het jaar 2014" en de woorden "Na de toepassing van" de zin "Het gemiddelde van de maandelijkse indexcijfers wordt afgerond op het hogere of lagere honderdste naargelang het cijfer van de duizendsten al of niet vijf bereikt, en de coëfficiënt wordt afgerond op het hogere of lagere tienduizendste naargelang het cijfer van de honderdduizendsten al of niet vijf bereikt." ingevoegd.<br>
+&nbsp;
+
+### ART 37.
+
+In artikel 2.8.3.0.1, § 3, van hetzelfde decreet wordt de zinsnede "Voor de toepassing van paragraaf 2" vervangen door de zinsnede "Voor de toepassing van paragraaf 1".<br>
+&nbsp;
+
+### ART 38.
+
+Aan artikel 2.8.3.0.3, § 1, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Het eerste lid is niet van toepassing op de onroerende goederen die deel uitmaken van een vrijgestelde schenking van activa als vermeld in artikel 2.8.6.0.3, § 1, 1°. ".<br>
+&nbsp;
+
+### ART 39.
+
+In artikel 2.8.6.0.1, vierde lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt de zin "De schenkbelasting is alsnog verschuldigd door de verkrijger van de onroerende goederen, vermeld in het eerste lid, 4°, als binnen de periode, vermeld in artikel 5 van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten, geen brownfieldconvenant voor het project wordt gesloten, of als het brownfieldproject niet tijdig wordt gestart of gerealiseerd conform de voorwaarden, vermeld in het brownfieldconvenant." vervangen door de zin "De schenkbelasting is alsnog verschuldigd door de verkrijger van de onroerende goederen, vermeld in het eerste lid, 4°, als de Vlaamse Regering beslist tot stopzetting van de onderhandelingen als vermeld in artikel 8, § 3, vierde lid, van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten, of als het brownfieldproject niet tijdig wordt gestart of gerealiseerd conform de voorwaarden, vermeld in het brownfieldconvenant.".<br>
+&nbsp;
+
+### ART 40.
+
+In artikel 2.9.3.0.3, § 2, eerste lid, van hetzelfde decreet wordt punt c) vervangen door wat volgt:<br>
+"c) het register van verwaarloosde gebouwen en woningen, vermeld in artikel 25, § 1, van het decreet van 22 december 1995, of de inventaris van ongeschikte en onbewoonbare woningen, vermeld in artikel 26, § 1, van het voornoemde decreet;
+
+### ART 41.
+
+In artikel 2.9.6.0.1, eerste lid, 2°, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, worden de woorden "een hoger verkooprecht dan het verkooprecht dat" vervangen door de woorden "een hogere registratiebelasting dan de registratiebelasting die".<br>
+&nbsp;
+
+### ART 42.
+
+In artikel 2.9.6.0.2, eerste lid, 9°, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "of de inbreng in" worden telkens opgeheven;<br>
+2° de zinsnede ", evenals akten houdende verdeling, na ontbinding of splitsing van een bovenbedoelde vereniging" wordt opgeheven.<br>
+&nbsp;
+
+### ART 43.
+
+In artikel 2.9.6.0.3, vijfde lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt de zin "Het verkooprecht is alsnog verschuldigd door de verkrijger van de onroerende goederen, vermeld in het eerste lid, 12°, als binnen de periode, vermeld in artikel 5 van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten, geen brownfieldconvenant voor het project wordt gesloten, of als het brownfieldproject niet tijdig wordt gestart of gerealiseerd conform de voorwaarden, vermeld in het brownfieldconvenant." vervangen door de zin "Het verkooprecht is alsnog verschuldigd door de verkrijger van de onroerende goederen, vermeld in het eerste lid, 12°, als de Vlaamse Regering beslist tot stopzetting van de onderhandelingen als vermeld in artikel 8, § 3, vierde lid, van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten, of als het brownfieldproject niet tijdig wordt gestart of gerealiseerd conform de voorwaarden, vermeld in het brownfieldconvenant.".<br>
+&nbsp;
+
+### ART 44.
+
+Aan artikel 2.10.6.0.1, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+"3° de akten die met toepassing van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn of het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, verrichtingen vaststellen als vermeld in artikel 2.10.1.0.1, hetzij ten bate van openbare centra voor maatschappelijk welzijn hetzij ten bate van op grond van de voormelde wet opgerichte verenigingen, alsook akten houdende verrichtingen als vermeld in artikel 2.10.1.0.1, na ontbinding of splitsing van een voormelde vereniging.".<br>
+&nbsp;
+
+### ART 45.
+
+In artikel 2.10.6.0.3, vierde lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt de zin "Het verdeelrecht is alsnog verschuldigd door de verkrijger van de onroerende goederen, vermeld in het eerste lid, als binnen de periode, vermeld in artikel 5 van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten, geen brownfieldconvenant over het project wordt gesloten, of als het brownfieldproject niet tijdig wordt gestart of gerealiseerd conform de voorwaarden, vermeld in het brownfieldconvenant." vervangen door de zin "Het verdeelrecht is alsnog verschuldigd door de verkrijger van de onroerende goederen, vermeld in het eerste lid, als de Vlaamse Regering beslist tot stopzetting van de onderhandelingen als vermeld in artikel 8, § 3, vierde lid, van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten, of als het brownfieldproject niet tijdig wordt gestart of gerealiseerd conform de voorwaarden, vermeld in het brownfieldconvenant.".<br>
+&nbsp;
+
 ### ART 46.
 
 In artikel 3.1.0.0.5 en artikel 3.3.2.0.1, tweede lid, 5°, van hetzelfde decreet worden de woorden "verkrottingsheffing woningen en gebouwen" vervangen door de woorden "heffing ongeschikte en onbewoonbare woningen
+
+### ART 47.
+
+Aan artikel 3.3.1.0.5, § 2, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij het decreet van 17 juli 2015, wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+"In afwijking van het eerste lid is de termijn voor de indiening van de aangifte, vermeld in paragraaf 1, eerste lid, in geval van een onbeheerde nalatenschap als vermeld in artikel 811 van het Burgerlijk Wetboek, vier maanden vanaf de aanstelling van de curator, vermeld in artikel 813 van het Burgerlijk Wetboek.".
 
 ### ART 48.
 
@@ -528,9 +604,18 @@ In artikel 3.3.3.0.1, § 4, van hetzelfde decreet worden de volgende wijzigingen
 1° in het eerste lid worden de woorden "verkrottingsheffing woningen en gebouwen" vervangen door de woorden "heffing ongeschikte en onbewoonbare woningen";<br>
 2° het derde lid wordt opgeheven.
 
+### ART 51.
+
+In artikel 3.4.2.0.1, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 19 december 2014, wordt tussen het woord "belasting" en het woord "moet" de zinsnede "of de administratieve geldboete, vermeld in artikel 3.18.0.0.1," ingevoegd.
+
 ### ART 52.
 
 In artikel 3.10.3.1.1, § 2, tweede lid, en 3.10.4.1.2, §§ 5 en 6, van hetzelfde decreet worden de woorden "verkrottingsheffing woningen en gebouwen" vervangen door de woorden "heffing ongeschikte en onbewoonbare woningen".
+
+### ART 53.
+
+In artikel 3.12.3.0.6 van het zelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+"Deze registratiebelasting wordt geacht betaald te zijn als de akten of geschriften, vermeld in het eerste lid, voorafgaandelijk of uiterlijk samen met de akte van de notaris of het exploot of proces-verbaal van de gerechtsdeurwaarder ter registratie worden aangeboden.".
 
 ### ART 54.
 
@@ -569,3 +654,15 @@ In bijlage 1, concordantietabel 1, tabel 9, van hetzelfde decreet, vervangen bij
 In de bijlage 1, concordantietabel 2, tabel 9, van hetzelfde decreet, vervangen bij het decreet van 19 december 2014, en in het opschrift ervan, worden de woorden "en gebouwen" telkens opgeheven.
 
 ## HOOFDSTUK 9 Slotbepaling
+
+### ART 60.
+
+Dit decreet treedt in werking 10 dagen na bekendmaking in het Belgisch Staatsblad, met uitzondering van:<br>
+1° artikel 4 tot en met 9, 19, 21, 25 tot en met 33, 46, 49, 50, 52, 57 en 59, die in werking treden vanaf aanslagjaar 2017;<br>
+2° artikel 10, 11, 12 en 13 tot en met 18, die in werking treden op 1 januari 2017.<br>
+Artikel 2 en 3 hebben uitwerking met ingang van 1 augustus 2016.<br>
+Artikel 22 heeft uitwerking vanaf aanslagjaar 2016.<br>
+Artikel 23, 24, 54 en 55 hebben uitwerking met ingang van 1 april 2016.<br>
+Artikel 34 en 48 hebben uitwerking voor overlijdens vanaf 1 januari 2017.<br>
+Artikel 56 en 58 hebben uitwerking met ingang van 1 januari 2015.<br>
+&nbsp;
