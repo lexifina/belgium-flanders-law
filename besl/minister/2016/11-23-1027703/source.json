@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027703,
+  "title": "Ministerieel besluit van 2016-11-23 houdende vaststelling van de data en de locatie van het toelatingsexamen arts en tandarts in 2017",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027703/VolledigDocument?datum=2017-01-12",
+  "source_sha256": "0ff4d2a05a828c7163eacadf280d69b7770a1d10f34d0b698504d081af949628",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027703&param=informatie",
+  "as_of": "2017-01-12",
+  "made": "2016-11-23",
+  "gazette": "2017-01-02",
+  "numac": 2016036657,
+  "document_start": "2017-01-12",
+  "document_end": null,
+  "in_force": "2017-01-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-01-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
