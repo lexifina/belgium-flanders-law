@@ -189,6 +189,12 @@ In hoofdstuk VI van hetzelfde decreet, gewijzigd bij de decreten van 19 december
 <br>
 De Vlaamse Regering bepaalt na advies van de raad van bestuur van de VDAB de nadere regels ter uitvoering van het eerste lid.".
 
+### ART 25.
+
+In artikel 79, § 9, van hetzelfde koninklijk besluit, het laatst gewijzigd bij het koninklijk besluit van 10 januari 2007, wordt het derde lid vervangen door wat volgt:<br>
+<br>
+"Het agentschap moet uiterlijk op 31 december van het jaar dat volgt op het jaar waarop de inkomsten betrekking hebben, voldaan hebben aan de verplichting om ten minste 25% van het bedrag, vermeld in het eerste lid, 2°, aangewend te hebben voor opleidingen of inschakelingsacties. Het niet-gebruikte saldo van die voormelde 25% is bestemd voor opleidingsinspanningen en moet binnen dezelfde termijn aan de VDAB worden gestort. Die storting wordt gelijkgesteld met een uitgave voor opleiding.".
+
 ### ART 26.
 
 In artikel 2 van het koninklijk besluit van 10 juni 1994 tot uitvoering van artikel 8, § 1 en § 6, van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, het laatst gewijzigd bij het koninklijk besluit van 11 december 2006 tot wijziging van het koninklijk besluit van 10 juni 1994 tot uitvoering van artikel 8, § 1 en § 6, van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, worden het zesde, zevende en achtste lid geschrapt.
