@@ -35,3 +35,12 @@ In punt 2, 1°, van bijlage IX bij hetzelfde besluit, toegevoegd bij het besluit
 
 Bijlage IX bij hetzelfde besluit, toegevoegd bij het besluit van de Vlaamse Regering van 26 januari 2001, vervangen bij het besluit van de Vlaamse Regering van 26 oktober 2001 en gewijzigd bij de besluiten van de Vlaamse Regering van 9 september 2011 en 14 september 2012, wordt opgeheven.<br>
 &nbsp;
+
+### ART 4.
+
+Artikel 1 en 3 treden in werking op 1 januari 2017.<br>
+Artikel 2 heeft uitwerking met ingang van 1 oktober 2016.
+
+### ART 5.
+
+De Vlaamse minister, bevoegd voor het afzet- en uitvoerbeleid van landbouw-, tuinbouw- en visserijproducten, is belast met de uitvoering van dit besluit.
