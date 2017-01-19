@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027712,
+  "title": "Besluit van de Vlaamse Regering van 2016-11-25 waarbij de overvloedige regenval die heeft plaatsgevonden op 23 juli 2016 op het grondgebied van de provincies Limburg en Vlaams-Brabant als een algemene ramp wordt beschouwd en waarbij de geografische uitgestrektheid van deze ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027712/VolledigDocument?datum=2017-01-19",
+  "source_sha256": "b6f5be0c14e43d5b8695dd33ee5fb4f468718141b215b0244d09c397477e0086",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027712&param=informatie",
+  "as_of": "2017-01-19",
+  "made": "2016-11-25",
+  "gazette": "2017-01-09",
+  "numac": 2016036672,
+  "document_start": "2017-01-19",
+  "document_end": null,
+  "in_force": "2017-01-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-01-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
