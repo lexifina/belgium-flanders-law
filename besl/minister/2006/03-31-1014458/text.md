@@ -22,7 +22,10 @@ Het hoofd van het agentschap kan de hiervoor in aanmerking komende aan hem gedel
 
 ### ART. 5.
 
-Het hoofd van het agentschap wordt, inzake het energiebeleid, gemachtigd om:<br />1° in toepassing van artikel 7.3.1 van het Energiebesluit van 19 november 2010 subsidies toe te kennen tot 25.000 euro <br />2° binnen de perken van de in de begroting voorziene kredieten, facultatieve subsidies te verlenen voor een bedrag van maximum 500 euro, op voorwaarde dat de principiële goedkeuring daarvoor schriftelijk wordt gegeven door de minister.
+Het hoofd van het agentschap wordt, inzake het energiebeleid, gemachtigd om:<br>
+1° in toepassing van artikel 7.3.1 van het Energiebesluit van 19 november 2010 subsidies toe te kennen tot 25.000 euro<br>
+2° binnen de perken van de in de begroting voorziene kredieten, facultatieve subsidies te verlenen voor een bedrag van maximum 500 euro, op voorwaarde dat de principiële goedkeuring daarvoor schriftelijk wordt gegeven door de minister;<br>
+3° met betrekking tot rechtsgedingen een hoger beroep of een voorziening in cassatie in te stellen.
 
 ### ART. 6.
 
