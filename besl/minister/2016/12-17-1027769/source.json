@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027769,
+  "title": "Ministerieel besluit van 2016-12-17 houdende de beschikbare middelen voor de vergoedingen voor de opkoop van groenestroomcertificaten door de elektriciteitsdistributienetbeheerders, vermeld in artikel 6.4.14/2 van het Energiebesluit van 19 november 2010",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027769/VolledigDocument?datum=2017-01-23",
+  "source_sha256": "f07270bc139d830b267993ff58e326e4bf6257008ff71873db4cfaa727589dd9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027769&param=informatie",
+  "as_of": "2017-01-23",
+  "made": "2016-12-17",
+  "gazette": "2017-01-23",
+  "numac": 2017030077,
+  "document_start": "2017-01-23",
+  "document_end": null,
+  "in_force": "2017-01-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-01-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
