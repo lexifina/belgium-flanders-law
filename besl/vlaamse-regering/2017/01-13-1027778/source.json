@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027778,
+  "title": "Besluit van de Vlaamse Regering van 2017-01-13 houdende wijziging van het Energiebesluit van 19 november 2010, wat betreft de vermelding van de energieheffing op de afrekenings- en slotfacturen en wat betreft de aanpassing van de procedure voor de aanvraag van een premie voor zero-emissievoertuigen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027778/VolledigDocument?datum=2017-01-25",
+  "source_sha256": "d0e24d6e4d1cdeb79d52af2c8e22c1ee3e8e4e5073d483730852e69988675d54",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027778&param=informatie",
+  "as_of": "2017-01-25",
+  "made": "2017-01-13",
+  "gazette": "2017-01-25",
+  "numac": 2017010283,
+  "document_start": "2017-01-25",
+  "document_end": null,
+  "in_force": "2017-01-25",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
