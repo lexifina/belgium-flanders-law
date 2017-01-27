@@ -274,31 +274,31 @@ Vanaf 1 juli 2005 wordt titel II opgeheven voor de erkenningen als invoegbedrijf
 
 ### ART. 54.
 
-Voor de toepassing van Titel IV van dit besluit dient te worden verstaan onder:<br /><br />1° ondernemingen in de sociale economie: ondernemingen die tegelijkertijd<br />a) behoren tot één van de volgende categorieën:<br />- invoegbedrijven zoals bedoeld in Titel II, hoofdstuk II van dit besluit;<br />- invoegafdelingen zoals bedoeld in Titel II, hoofdstuk III van dit besluit;<br />- sociale werkplaatsen zoals bedoeld in het decreet van 14 juli 1998 inzake de sociale werkplaatsen;<br />- door de Openbare Vlaamse Afvalstoffenmaatschappij erkende kringloopcentra;<br />- coöperatieve vennootschappen; <br />- de door de minister in het kader van titel VIbis van dit besluit erkende nabijheidsdiensten; <br />- invoegbedrijven die erkend zijn met toepassing van het besluit van de Vlaamse Regering van ... juni 2005; <br />- beschutte werkplaatsen zoals erkend bij decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de sociale integratie van personen met een handicap of bij hoofdstuk XXVII van het decreet van 23 december 2005 houdende bepalingen tot begeleiding van de begroting 2006;  - de initiatieven Lokale Diensteneconomie erkend bij decreet houdende de lokale diensteneconomie van 22 december 2006. <br />b) erkend of gesubsidieerd zijn door de Vlaamse overheid, met uitzondering van de coöperatieve vennootschappen die een exploitatiezetel in het Vlaamse Gewest moeten hebben; <br />c) het charter van de meerwaardeneconomie onderschrijven zoals bedoeld in artikel 2, 4° van dit besluit.<br /><br />De minister kan de onder subletter a) vermelde categorieën uitbreiden of beperken;<br /><br />2° startende ondernemingen in de sociale economie: de personen, natuurlijke of rechtspersonen, die nog niet behoren tot één van de categorieën vermeld onder artikel 54, 1°, a van dit besluit en die ernstig overwegen zich op grond van een door te voeren haalbaarheidstudie te vestigen als een onderneming in de sociale economie, zoals bepaald in artikel 54, 1° van dit besluit;<br /><br />3° bedrijfsadvies: geschreven stukken die specifieke, waardevolle en toekomstgerichte raadgevingen en aanbevelingen inhouden. Zij bestaan uit een analyse van de probleemstelling, een eigenlijk advies en een implementatieluik;<br /><br />4° haalbaarheidstudie: een specifiek bedrijfsadvies gericht op het evalueren van de geplande ondernemersactiviteit binnen de sector van de sociale economie.<br /><br />Deze studie omvat het opstellen van een ondernemingsplan en een marktevaluatie. Onder ondernemingsplan wordt verstaan : het plan voor het opstarten van de onderneming, meer bepaald de studie van de optimale rechtsvorm, de nodige investeringen, de financiering, de promotie, het personeel en een bepaling van de minimaal te realiseren omzet.
+...
 
 ## HOOFDSTUK II [... (opgeh. BVR 27 januari 2017, art. 27, I: 27 januari 2017)]
 
 ### ART. 55.
 
-De minister kan binnen de perken van het begrotingskrediet adviesbureaus in de sociale economie erkennen.
+...
 
 ### ART. 56.
 
-Om als adviesbureau in de sociale economie erkend te worden dient men aan de volgende voorwaarden te voldoen:<br /><br />1° een juridische vorm met rechtspersoonlijkheid aannemen;<br /><br />2° het geven van advies en begeleiding aan initiatieven in de sociale economie staat ingeschreven in het maatschappelijk doel of behoort tot de expertise van het adviesbureau;<br /><br />3° het adviesbureau moet voldoende vertrouwd zijn met de specificiteit van de sector van de sociale economie. Het adviesbureau of een bij haar tewerkgestelde consulent kan minstens 3 jaar ervaring voorleggen op het vlak van adviesverlening in minstens twee domeinen zoals bepaald in artikel 64, 1° tot en met 6° van dit besluit. Die ervaring en deskundigheid moet worden onderbouwd door vijf overeenkomsten en bedrijfsadviezen. Drie van die overeenkomsten en bedrijfsadviezen dienen maximaal twee jaar voor de erkenningsaanvraag te zijn afgeleverd;<br /><br />4° de adviesverstrekking dient te gebeuren op een professioneel georganiseerde manier;<br /><br />5° het vertrouwelijk karakter van de bedrijfsgegevens dient te worden gerespecteerd en gegarandeerd;<br /><br />6° beschikken over een vestiging in het Vlaamse Gewest met een permanent secretariaat of indien de maatschappelijke zetel buiten het Vlaamse Gewest is gevestigd een adres in het Vlaamse Gewest aanduiden waar alle gegevens nodig voor de controle op de uitvoering van de maatregel ter beschikking zijn;<br /><br />7° een natuurlijke persoon of rechtspersoon aanduiden verantwoordelijk voor de financiële verrichtingen van deze maatregel.
+...
 
 ### ART. 57.
 
-De minister bepaalt op voorstel van de sector van de adviesbureaus van de sociale economie en na advies van de adviescommissie de gedragscode en kwaliteitsnormen.
+...
 
 ## HOOFDSTUK III [... (opgeh. BVR 27 januari 2017, art. 27, I: 27 januari 2017)]
 
 ### ART. 58.
 
-§ 1. Voor de erkenningaanvraag wordt een dossier ingediend bij het   Departement WSE, waaruit blijkt dat aan de voorwaarden vermeld in artikel 56 van   dit besluit voldaan is.<BR><BR>§ 2. Het Departement WSE stuurt het dossier door   aan de raad van bestuur van het VIZO die binnen de dertig kalenderdagen een   advies bezorgt aan de administratie.<BR><BR>§ 3. Dit advies wordt voorgelegd aan   de adviescommissie, op basis waarvan deze een advies formuleert aan de   minister.<BR><BR>§ 4. Aan de hand van het advies van het VIZO en het advies van   de adviescommissie beslist de minister om een adviesbureau in de sociale   economie al dan niet te erkennen.<BR><BR>§ 5. De minister betekent zijn   beslissing aan het adviesbureau; hij deelt zijn beslissing mee aan de raad van   bestuur van het VIZO en aan de adviescommissie.
+...
 
 ### ART. 59.
 
-Als wordt vastgesteld dat het adviesbureau in de sociale economie niet meer aan de vereiste voor-waarden voldoet, beroep doet op een dubbele financiering, als misbruiken worden vastgesteld of als blijk wordt gegeven van kennelijke onbekwaamheid, kan de minister de erkenning intrekken.
+...
 
 ## HOOFDSTUK IV [... (opgeh. BVR 27 januari 2017, art. 27, I: 27 januari 2017)]
 
@@ -306,67 +306,67 @@ Als wordt vastgesteld dat het adviesbureau in de sociale economie niet meer aan 
 
 ### ART. 60.
 
-§ 1. Invoegbedrijven, invoegafdelingen, sociale werkplaatsen, beschutte   werkplaatsen en initiatieven Lokale Diensteneconomie kunnen volgens de   voorwaarden van dit besluit beroep doen op een basisopvolgingspakket aangeboden   door een erkend adviesbureau in de sociale economie. Zij kiezen hiertoe een   adviesbureau in de sociale economie uit een lijst met erkende adviesbureaus, die   door het Departement WSE ter beschikking wordt gesteld.<BR><BR>§ 2. Dit   basisopvolgingspakket wordt jaarlijks aangeboden aan elk invoegbedrijf en   invoegafdeling tot één jaar na de periode dat zij invoegsubsidies   ontvangt.<BR><BR>Dit basisopvolgingspakket wordt jaarlijks aangeboden aan elke   sociale werkplaats, aan elke beschutte werkplaats en aan elk erkend initiatief   Lokale Diensteneconomie. <BR><BR>§ 3. Deze basisopvolging is een sterkte   zwakte-analyse. Ze omvat zowel een bedrijfseconomische en organisatorische   analyse als een analyse op het vlak van de inhoudelijke criteria die in de   respectievelijke regelgevingen worden bepaald evenals aanbevelingen op deze   terreinen. Ze is bedoeld als instrument ter verbetering van het functioneren als   onderneming in de sociale economie.<BR><BR>§ 4. De basisopvolging kan niet   gebeuren door een adviesbureau dat reeds een intensieve begeleiding van de   onderneming op zich neemt.<BR><BR>§ 5. Het adviesbureau bezorgt een uitgebreid   rapport aan de onderneming in de sociale economie. Na de bespreking ervan met de   respectieve verantwoordelijke binnen de onderneming in de sociale economie wordt   een samenvattend rapport bezorgd aan het Departement WSE.
+...
 
 ### ART. 61.
 
-§ 1. Een erkend adviesbureau in de sociale economie ontvangt voor elke basisopvolging zoals bepaald in artikel 60 van dit besluit 1.500 EUR. <br /><br />Het bedrag van 1.500 euro evolueert, binnen de perken van de jaarlijkse begrotingskredieten, op dezelfde wijze en in dezelfde mate als de gezondheidsindex met als basismaand juli 2007.<br /><br />§ 2. Hiertoe bezorgt het adviesbureau op kwartaalbasis een overzicht van de ondernemingen in de sociale economie die op de basiopvolging beroep deden en het te ontvangen bedrag dat daarmee overeenstemt.
+...
 
 ## AFDELING 2 [... (opgeh. BVR 27 januari 2017, art. 27, I: 27 januari 2017)]
 
 ### ART. 62.
 
-§ 1. Ondernemingen in de sociale economie kunnen een financiële tegemoetkoming krijgen bij een ad hoc adviesverlening overeenkomstig de voorwaarden van dit besluit door een erkend adviesbureau in de sociale economie. [...  <span class="reference">(geschr. B.V.R. 1 juli 2005, art. 21, I: 1 juli 2005)</span> ]<br /><br />§ 2. Startende ondernemingen in de sociale economie kunnen éénmalig overeenkomstig de voorwaarden van dit besluit een financiële tegemoetkoming krijgen bij een haalbaarheidstudie uitgevoerd door een erkend adviesbureau in de sociale economie.
+...
 
 ### ART. 63.
 
-De onderneming in de sociale economie of de startende onderneming in de   sociale economie kiest het adviesbureau in de sociale economie dat ze wenst te   raadplegen uit een lijst met erkende adviesbureaus. Het Departement WSE stelt   deze lijst ter beschikking.
+...
 
 ### ART. 64.
 
-De adviezen kunnen betrekking hebben op de volgende domeinen van bedrijfsvoering:<br />1° human resources management en interne organisatie gericht op kansengroepen, participatief ondernemen, evenredige participatie en management van diversiteit;<br />2° ondersteuning bij het implementeren van een managementstrategie waarbij zowel maatschappelijke als economische doelstellingen worden nagestreefd;<br />3° social auditing en multi-stakeholdersbenadering;<br />4° sociale kosten-baten analyse;<br />5° ontwikkeling en opvolging van missieverklaring;<br />6° ondersteuning bij de ontwikkeling van initiatieven in nieuwe marktniches; <br />7° ondersteuning bij de opmaak van een ondernemingsplan;<br />8° haalbaarheidsonderzoek;<br />9° financieel en boekhoudkundig beleid;<br />10° communicatie- en marketingbeleid.
+...
 
 ### ART. 65.
 
-[Een bijkomende tussenkomst in de kosten van de adviesverlening door derden is toegestaan op voorwaarde dat de aanvrager steeds 20 % van de totale advieskost met eigen middelen bekostigt en in zoverre er geen sprake van dubbele subsidiëring is. Wanneer de aanvrager een andere tegemoetkoming in de kosten van de adviesverlening krijgt moet hij de minister hiervan onmiddellijk op de hoogte stellen.  <span class="reference">(verv. B.V.R. 23 mei 2003, art. 12, I: 1 april 2003)</span> ]
+...
 
 ### ART. 66.
 
-§ 1. De financiële tegemoetkoming van het Vlaamse Gewest in het optreden van het erkend advies-bureau voor de sociale economie bedraagt maximaal 50 % van de advieskosten, met een maximum van 7.500 EUR per bedrijfsadvies.<br /><br />§ 2. Voor startende ondernemingen in de sociale economie en haalbaarheidstudies die leiden tot oprichting van een onderneming bedraagt de financiële tegemoetkoming van het Vlaamse Gewest maximaal 75 % van de advieskosten met een maximum van 7.500 EUR per bedrijfsadvies.<br /><br />Voor haalbaarheidstudies die niet leiden tot de oprichting van een onderneming in de sociale economie bedraagt de financiële tegemoetkoming van het gewest maximaal 50 % van de advieskosten met een maximum van 2.500 EUR per bedrijfsadvies.<br /><br />§ 3. Het bedrag van de financiële tegemoetkoming van het Vlaamse Gewest evolueert, binnen de perken van de jaarlijkse begrotingskredieten, op dezelfde wijze en in dezelfde mate als de gezondheidsindex met als basismaand april 2007.
+...
 
 ### ART. 67.
 
-Als de overeenkomst tussen de onderneming in de sociale economie en het erkend adviesbureau in de sociale economie, in de loop van de uitvoeringsperiode wordt verbroken, wordt de financiële tegemoetkoming toegekend in verhouding tot de al geleverde prestaties.
+...
 
 ### ART. 68.
 
-§ 1. De aanvraag om een financiële tegemoetkoming te krijgen wordt   ingediend bij het Departement WSE.<BR><BR>§ 2. De aanvraag dient gelijktijdig   aan de volgende voorwaarden te voldoen:<BR>1° de aanvraag bestaat uit de   overeenkomst onderneming-erkend adviesbureau in de sociale economie, een   aanvraagformulier in tweevoud, een door de onderneming in de sociale economie op   eer ondertekend charter van de meerwaardeneconomie zoals bedoeld in artikel 2,   4° van dit besluit en het bewijs van erkenning van het adviesbureau. De minister   bepaalt de vereisten van het aanvraagformulier;<BR>2° in de overeenkomst dient   het erkend adviesbureau in de sociale economie een raming van de advieskosten te   maken. Tevens dient bedongen te worden dat de onderneming enkel het   niet-subsidieerbare deel van de geraamde advieskosten als voorschot aan het   erkend adviesbureau in de sociale economie kan betalen;<BR>3° de aanvraag wordt   ingediend bij het Departement WSE uiterlijk 60 kalenderdagen na ondertekening   van de overeenkomst onderneming-erkend adviesbureau in de sociale   economie;<BR>4° de aanvraag wordt ingeleid door de ondernemer en medeondertekend   door het erkend adviesbureau in de sociale economie.
+...
 
 ### ART. 69.
 
-§ 1. De financiële tegemoetkoming van het Vlaamse Gewest in het optreden   van de erkende adviesbureaus in de sociale economie wordt in één schijf betaald   aan het respectievelijke adviesbureau na indiening van de in artikel 68, § 2 van   dit besluit bepaalde stukken.<BR><BR>§ 2. Bij het beëindigen van de   adviesopdracht stuurt het adviesbureau, in onderlinge samenspraak met de   onderneming, volgende stukken aan het Departement WSE: <BR>1° een kopie van het   door de onderneming ondertekend aanvraagformulier zoals bepaald in artikel 68, §   2 van dit besluit; <BR>2° het adviesrapport en de stand van zaken van het   implementatieplan;<BR>3° het bewijs van betaling van het aandeel van de   onderneming in de advieskosten;<BR>4° het bewijs van gemaakte kosten; als   subsidiabele kosten worden beschouwd: de werkelijk verschuldigde honoraria en de   reiskosten van het adviesbureau.<BR><BR>Het erkend adviesbureau in de sociale   economie heeft de eindverantwoordelijkheid voor het bezorgen van deze stukken   aan de administratie.
+...
 
 ## AFDELING 3 [... (opgeh. BVR 27 januari 2017, art. 27, I: 27 januari 2017)]
 
 ### ART. 69bis.
 
-§ 1. Verlieslatende ondernemingen in de sociale economie die door de minister verplicht worden een beroep te doen op de managementondersteuning voor verlieslatende ondernemingen kunnen overeenkomstig de voorwaarden van dit besluit een financiële tegemoetkoming krijgen voor die managementondersteuning als ze uitgevoerd wordt door een erkend adviesbureau in de sociale economie.<br /><br />§ 2. Onder verlieslatend wordt verstaan : hetzij een negatief bedrijfseconomisch resultaat en/of een negatief totaal resultaat hebben, hetzij een negatief eigen vermogen hebben.<br /><br />Onder managementondersteuning voor verlieslatende ondernemingen wordt verstaan : de door de minister verplichte managementondersteuning opgelegd aan verlieslatende beschutte en sociale werkplaatsen, invoegbedrijven en initiatieven lokale diensteneconomie, die minstens bestaat uit :<br />1° managementadviezen aanreiken ter verbetering van de economische situatie van de onderneming, op basis van een financiële en organisatorische bedrijfsanalyse en eventueel een evaluatie van de al in een eerder besproken bedrijfsplan uitgevoerde acties;<br />2° ondersteuning bij het omzetten van de managementadviezen door de onderneming in een actieplan.<br /><br />Onder actieplan wordt verstaan : een schriftelijk document dat voor een periode van achttien maanden een systematisch overzicht geeft van de acties en verbeterpunten die zullen worden uitgevoerd met daarbij de meetindicatoren ter verbetering alsook de streefdata van realisatie van elke actie.
+...
 
 ### ART. 69ter.
 
-De minister bepaalt jaarlijks voor 30 september, rekening houdend met het   beschikbare begrotingskrediet, welke verlieslatende invoegbedrijven,   initiatieven Lokale Diensteneconomie, sociale werkplaatsen en beschutte   werkplaatsen verplicht worden een beroep te doen op de   managementondersteuning.<BR><BR>Alle ondernemingen die verplicht worden een   beroep te doen op de managementondersteuning, worden door het Departement WSE   schriftelijk op de hoogte gesteld.<BR><BR>Voor de uitvoering van de   managementondersteuning kunnen de verlieslatende ondernemingen een adviesbureau   in de sociale economie kiezen uit de lijst met erkende adviesbureaus, die door   het Departement WSE ter beschikking wordt gesteld.
+...
 
 ### ART. 69quater.
 
-De financiële tegemoetkoming in het optreden van het erkende adviesbureau voor de sociale economie omvat de volledige managementondersteuningskosten maximaal, 10.000 euro <br />voor de verlieslatende ondernemingen met minder dan vijftig werknemers, en maximaal 15.000 euro voor de ondernemingen vanaf vijftig werknemers of meer.<br /><br />Het bedrag van de financiële tegemoetkoming van het Vlaamse Gewest evolueert, binnen de perken van de jaarlijkse begrotingskredieten, op dezelfde wijze en in dezelfde mate als de gezondheidsindex met als basismaand juli 2007.<br /><br />Als de overeenkomst tussen de onderneming in de sociale economie en het erkende adviesbureau in de sociale economie tijdens de uitvoeringsperiode wordt verbroken, wordt de financiële tegemoetkoming toegekend in verhouding tot de geleverde prestaties.<br /><br />Een onderneming in de sociale economie die voorheen al een tegemoetkoming voor de verplichte managementondersteuning heeft genoten, kan pas een nieuwe tegemoetkoming krijgen na een positieve evaluatie over de implementatie van de voorgaande actieplannen.
+...
 
 ### ART. 69quinquies.
 
-§ 1. De aanvraag tot financiële tegemoetkoming wordt door de onderneming   in de sociale economie ingediend bij het Departement WSE.<BR><BR>§ 2. De   aanvraag tot financiële tegemoetkoming is alleen ontvankelijk als aan al de   volgende voorwaarden is voldaan :<BR>1° de overeenkomst tussen de onderneming in   de sociale economie en het erkend e adviesbureau in de sociale economie is   gesloten maximaal drie maanden nadat de onderneming schriftelijk op de hoogte is   gebracht van het feit dat ze verplicht werd managementondersteuning aan te   vragen. De postdatum geldt als bewijs. Deze voorwaarde is niet van toepassing op   de ondernemingen die voor 1 januari 2007 op de hoogte werden gebracht;<BR>2° bij   de ondertekende overeenkomst is een verslag gevoegd van de raad van bestuur van   de onderneming in de sociale economie, waaruit blijkt dat de vraag naar   managementondersteuning werd onderschreven door de raad en dat die bovendien het   engagement is aangegaan om alle informatie en medewerking te verstrekken aan het   adviesbureau opdat het zijn opdracht naar behoren zou kunnen uitvoeren;<BR>3° de   aanvraag tot financiële tegemoetkoming wordt ingediend bij het Departement WSE   uiterlijk zestig kalenderdagen na de ondertekening van de overeenkomst tussen de   onderneming in de sociale economie en het erkende adviesbureau in de sociale   economie;<BR>4° de aanvraag bestaat uit de overeenkomst, vermeld in punt 1° en   2°, het verslag van de raad van bestuur en een aanvraagformulier in   tweevoud;<BR>5° in de overeenkomst maakt het erkende adviesbureau in de sociale   economie een raming op van de advieskosten. In voorkomend geval wordt bedongen   dat de onderneming enkel het niet-subsidieerbare deel van de geraamde   advieskosten als voorschot aan het erkende adviesbureau in de sociale economie   kan betalen;<BR>6° de aanvraag is medeondertekend door het erkende adviesbureau   in de sociale economie.
+...
 
 ### ART. 69sexies.
 
-§ 1. De financiële tegemoetkoming van het Vlaamse Gewest aan de   onderneming in de sociale economie in de verplichte managementondersteuning bij   verlieslatendheid wordt in één schijf uitbetaald aan het adviesbureau nadat de   volgende stukken zijn ingediend :<BR>1° het overzicht van de managementadviezen   die als basis hebben gediend voor het actieplan;<BR>2° het door de onderneming   in de sociale economie ondertekende actieplan, waarbij een systematisch   overzicht wordt gegeven van alle acties die zullen worden genomen, alsook de   streefdata voor de realisatie van elk actie;<BR>3° het verslag van de raad van   bestuur van de onderneming in de sociale economie, waaruit blijkt dat het   actieplan werd besproken en dat de raad het engagement aangaat om het actieplan   of bepaalde delen ervan goed te keuren of gemotiveerd af te wijzen;<BR>4° in   voorkomend geval het bewijs van betaling van het aandeel van de onderneming in   de sociale economie in de advieskosten;<BR>5° het bewijs van gemaakte   kosten.<BR><BR>§ 2. Het erkende adviesbureau in de sociale economie heeft de   eindverantwoordelijkheid om die stukken te bezorgen aan het Departement WSE. Het   bezorgt de stukken in onderlinge samenspraak met de onderneming in de sociale   economie.
+...
 
 ## TITEL V HET DOORLICHTINGSTEAM
 
