@@ -2,16 +2,16 @@
   "codex_id": 1025113,
   "title": "Besluit van de Vlaamse Regering van 2014-12-19 tot uitvoering van het decreet van 22 november 2013 betreffende de lokale diensteneconomie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025113/VolledigDocument?datum=2015-04-01",
-  "source_sha256": "01605d9c9d5463453935cf5d35e7c89f3b496e51be534706d6360172fdb7c5b4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025113/VolledigDocument?datum=2017-01-27",
+  "source_sha256": "d5ac4defcb88021957cdc89e94714dcc5a1c4e4cee49634d20b2c80bb2170e37",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025113&param=informatie",
-  "as_of": "2015-04-01",
+  "as_of": "2017-01-27",
   "made": "2014-12-19",
   "gazette": "2015-03-17",
   "numac": 2015035254,
   "document_start": "2015-04-01",
   "document_end": null,
-  "in_force": "2015-04-01",
+  "in_force": "2017-01-27",
   "article_versions": 69,
-  "record_form": "consolidated version as in force on 2015-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-01-27; future article versions excluded; article text as the API gives it"
 }
