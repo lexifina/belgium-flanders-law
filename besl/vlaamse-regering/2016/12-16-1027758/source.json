@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027758,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-16 tot oprichting van het projectbureau betreffende de alternatieve financiering van schoolinfrastructuur via projectspecifieke DBFM-overeenkomsten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027758/VolledigDocument?datum=2017-01-29",
+  "source_sha256": "33a588e1b3f54dbdc17c857db8066662ba4d7f57734d1af6c40f5afb6eae6324",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027758&param=informatie",
+  "as_of": "2017-01-29",
+  "made": "2016-12-16",
+  "gazette": "2017-01-19",
+  "numac": 2017030081,
+  "document_start": "2017-01-29",
+  "document_end": null,
+  "in_force": "2017-01-29",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2017-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
