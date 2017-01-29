@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027755,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-09 houdende bepaling van het bedrag van de vergoedingen en de vergoedingen voor reis- en verblijfsonkosten die aan de leden van de beoordelingscommissie, vermeld in artikel 9 van het besluit van de Vlaamse Regering van 21 maart 2014 betreffende de stimuleringsregeling voor de audiovisuele sector, vermeld in artikel 184/1 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, worden toegekend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027755/VolledigDocument?datum=2017-01-29",
+  "source_sha256": "e40dd2a3f137d9a79b08ee1fe91ac861404388014bad4d7d613f250ca7ef45ef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027755&param=informatie",
+  "as_of": "2017-01-29",
+  "made": "2016-12-09",
+  "gazette": "2017-01-19",
+  "numac": 2017030084,
+  "document_start": "2017-01-29",
+  "document_end": null,
+  "in_force": "2017-01-29",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
