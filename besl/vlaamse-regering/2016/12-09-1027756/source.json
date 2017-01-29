@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027756,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-09 tot wijziging van het planprogramma Stiemerbeekvallei",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027756/VolledigDocument?datum=2017-01-29",
+  "source_sha256": "3fbfd33dff449f0de0c20147c3f2e6df182b1edcde7168d56b4d617d77a31755",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027756&param=informatie",
+  "as_of": "2017-01-29",
+  "made": "2016-12-09",
+  "gazette": "2017-01-19",
+  "numac": 2017030071,
+  "document_start": "2017-01-29",
+  "document_end": null,
+  "in_force": "2017-01-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
