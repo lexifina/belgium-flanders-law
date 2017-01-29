@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027754,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-02 tot wijziging van artikel 8, 13, 14, 15, 16 en 17 van het besluit van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027754/VolledigDocument?datum=2017-01-29",
+  "source_sha256": "e52578887b2bff9617507d843e1438fdc1ffe9d34523e9975bd3b1882bbe48f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027754&param=informatie",
+  "as_of": "2017-01-29",
+  "made": "2016-12-02",
+  "gazette": "2017-01-19",
+  "numac": 2017030085,
+  "document_start": "2017-01-29",
+  "document_end": null,
+  "in_force": "2017-01-29",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2017-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
