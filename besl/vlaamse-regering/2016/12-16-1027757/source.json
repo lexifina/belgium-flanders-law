@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027757,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-16 tot wijziging van bijlage IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het besluit van de Vlaamse Regering van 19 juli 2013 tot regeling van de informatie-, preventie-, inperkings- en herstelplicht inzake milieuschade, het verzoek om maatregelen en de beroepsprocedure",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027757/VolledigDocument?datum=2017-01-29",
+  "source_sha256": "8ea9eedfd6a2b6941e76aa922910f4f532426b8186beb89ee83b0a26bc8d4517",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027757&param=informatie",
+  "as_of": "2017-01-29",
+  "made": "2016-12-16",
+  "gazette": "2017-01-19",
+  "numac": 2017010048,
+  "document_start": "2017-01-29",
+  "document_end": null,
+  "in_force": "2017-01-29",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2017-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
