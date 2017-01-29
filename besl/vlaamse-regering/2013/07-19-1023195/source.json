@@ -2,16 +2,16 @@
   "codex_id": 1023195,
   "title": "Besluit van de Vlaamse Regering van 2013-07-19 tot regeling van de informatie-, preventie-, inperkings- en herstelplicht inzake milieuschade, het verzoek om maatregelen en de beroepsprocedure",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023195/VolledigDocument?datum=2014-09-04",
-  "source_sha256": "16a6ff737c15cd7757c4e61c4b6b789ca777adc08be99e1470f6708718f5ade1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023195/VolledigDocument?datum=2017-01-29",
+  "source_sha256": "87ad0282deb144eca79cf4ee424a47a336ad3c2afb8f0a5b02ff03b47ef67706",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023195&param=informatie",
-  "as_of": "2014-09-04",
+  "as_of": "2017-01-29",
   "made": "2013-07-19",
   "gazette": "2013-08-16",
   "numac": 201335711,
   "document_start": "2014-09-04",
   "document_end": null,
-  "in_force": "2014-09-04",
-  "article_versions": 38,
-  "record_form": "consolidated version as in force on 2014-09-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2017-01-29",
+  "article_versions": 40,
+  "record_form": "consolidated version as in force on 2017-01-29; future article versions excluded; article text as the API gives it"
 }

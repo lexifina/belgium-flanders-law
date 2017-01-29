@@ -48,11 +48,41 @@ Als er milieuschade is, neemt de exploitant elke inperkingsmaatregel en   brengt
 
 ### ART. 4.
 
-§ 1. Met betrekking tot de verplichtingen, vermeld in artikel 2 en 3, zijn   de informatieplichten, vermeld in artikel 4.1.12.1 tot en met artikel 4.1.12.3   van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en   sectorale bepalingen inzake milieuhygiëne, van overeenkomstige   toepassing,<BR><BR>Met dien verstande dat onder « voorval » « een gebeurtenis,   handeling of nalatigheid waardoor een onmiddellijke dreiging van milieuschade is   ontstaan » en onder « gevolg » « milieuschade » moet worden   verstaan.
+Met betrekking tot de verplichtingen, vermeld in artikel 2 en 3 van dit besluit, zijn de informatieplichten, vermeld in artikel 4.1.12.1 tot en met 4.1.12.3 van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, van overeenkomstige toepassing, met dien verstande dat onder "voorval" een gebeurtenis, handeling of nalatigheid waardoor een onmiddellijke dreiging van milieuschade is ontstaan en onder "gevolg" milieuschade moet worden verstaan.
 
 ### ART. 5.
 
-§ 1. In afwijking van artikel 4 en ter uitvoering van de   verplichtingen,vermeld in artikel 2 en 3, gelden voor de exploitant van een   beroepsactiviteit als vermeld in het derde lid, de volgende verplichtingen :   <BR>1° de exploitant voorziet in de nodige maatregelen om voorvallen en de   gevolgen daarvan voor de mens en het leefmilieu te voorkomen of tot een minimum   te beperken, wat onder meer inhoudt dat hij :<BR>a) de nodige maatregelen neemt   om te voorkomen dat accidenteel verspreide stoffen of verontreinigd bluswater   rechtstreeks naar het grondwater, een openbare riolering, waterloop of om het   even welke verzamelplaats van oppervlaktewateren worden afgevoerd;<BR>b) de   nodige nood- en interventiemaatregelen neemt;<BR>2° bij een voorval of bij   onmiddellijke dreiging van een voorval neemt de exploitant onmiddellijk de   nodige maatregelen om het voorval te bedwingen en te beheersen, om zo de   gevolgen voor de mens en het milieu tot een minimum te beperken, en om verdere   mogelijke voorvallen te voorkomen.<BR>3° In geval van een voorval, waarschuwt de   exploitant onverwijld derden die gevolgen kunnen ondervinden van de emissie, met   opgave van de maatregelen die ze kunnen treffen om het gevaar af te wenden of te   beperken. <BR><BR>Het eerste lid is niet van toepassing als de voorschriften,   vastgesteld door de federale overheid in het kader van de civiele bescherming,   van toepassing zijn.<BR><BR>De beroepsactiviteiten, vermeld in het eerste lid,   betreffen :<BR>1° het vervoer van afvalstoffen vermeld in punt 2 van bijlage IV   bij het decreet van 5 april 1995; <BR>2° het vervoer over de weg, per spoor,   over de binnenwateren, over de zee of in de lucht van gevaarlijke of   verontreinigende stoffen, vermeld in punt 8 van bijlage IV bij het decreet van 5   april 1995; <BR>3° het vervoer van genetisch gemodificeerde organismen vermeld   in punt 10 en 11 van bijlage IV bij het decreet van 5 april 1995;<BR>4° de   grensoverschrijdende overbrenging van afvalstoffen vermeld in punt 12 van   bijlage IV bij het decreet van 5 april 1995.<BR><BR>In het eerste lid wordt   verstaan onder :<BR>1° voorval : een gebeurtenis, handeling of nalatigheid   waardoor een onmiddellijke dreiging van milieuschade is ontstaan;<BR>2° gevolg :   milieuschade.<BR><BR>§ 2. De exploitanten, vermeld in paragraaf 1, tweede lid,   doen onmiddellijk telefonisch melding van het voorval en van de genomen en   geplande maatregelen bij de afdeling, bevoegd voor milieuhandhaving.<BR><BR>Met   behoud van de toepassing van het eerste lid, verstrekt de exploitant bij een   voorval zo spoedig mogelijk de volgende informatie aan de afdeling, bevoegd voor   milieuhandhaving :<BR>1° de algemene gegevens over de exploitant; <BR>2° het   tijdstip, de aard, de omstandigheden en de oorzaak van het voorval;<BR>3° in   voorkomend geval, de desbetreffende producten;<BR>4° beschikbare gegevens aan de   hand waarvan de gevolgen van het voorval voor mens en milieu kunnen worden   beoordeeld;<BR>5° de genomen maatregelen om het voorval te bedwingen en te   beheersen.<BR><BR>De exploitant gebruikt daarvoor het formulier, vermeld in de   bijlage, die bij dit besluit is gevoegd, of een andere informatiedrager die   dezelfde informatie bevat.<BR><BR>De exploitant actualiseert in voorkomend geval   de informatie, vermeld in het tweede lid, als dat noodzakelijk is in het licht   van de nieuwe gegevens die zijn verkregen uit nader onderzoek.
+§ 1. In afwijking van artikel 4 en ter uitvoering van de verplichtingen,vermeld in artikel 2 en 3, gelden voor de exploitant van een beroepsactiviteit als vermeld in het derde lid, de volgende verplichtingen :<br>
+1° de exploitant voorziet in de nodige maatregelen om voorvallen en de gevolgen daarvan voor de mens en het leefmilieu te voorkomen of tot een minimum te beperken, wat onder meer inhoudt dat hij :<br>
+a) de nodige maatregelen neemt om te voorkomen dat accidenteel verspreide stoffen of verontreinigd bluswater rechtstreeks naar het grondwater, een openbare riolering, waterloop of om het even welke verzamelplaats van oppervlaktewateren worden afgevoerd;<br>
+b) de nodige nood- en interventiemaatregelen neemt;<br>
+2° bij een voorval of bij onmiddellijke dreiging van een voorval neemt de exploitant onmiddellijk de nodige maatregelen om het voorval te bedwingen en te beheersen, om zo de gevolgen voor de mens en het milieu tot een minimum te beperken, en om verdere mogelijke voorvallen te voorkomen.<br>
+3° In geval van een voorval, waarschuwt de exploitant onverwijld derden die gevolgen kunnen ondervinden van de emissie, met opgave van de maatregelen die ze kunnen treffen om het gevaar af te wenden of te beperken.<br>
+<br>
+Het eerste lid is niet van toepassing als de voorschriften, vastgesteld door de federale overheid in het kader van de civiele bescherming, van toepassing zijn.<br>
+<br>
+De beroepsactiviteiten, vermeld in het eerste lid, betreffen :<br>
+1° het vervoer van afvalstoffen vermeld in punt 2 van bijlage IV bij het decreet van 5 april 1995;<br>
+2° het vervoer over de weg, per spoor, over de binnenwateren, over de zee of in de lucht van gevaarlijke of verontreinigende stoffen, vermeld in punt 8 van bijlage IV bij het decreet van 5 april 1995;<br>
+3° het vervoer van genetisch gemodificeerde organismen vermeld in punt 10 en 11 van bijlage IV bij het decreet van 5 april 1995;<br>
+4° de grensoverschrijdende overbrenging van afvalstoffen vermeld in punt 12 van bijlage IV bij het decreet van 5 april 1995.<br>
+<br>
+In het eerste lid wordt verstaan onder :<br>
+1° voorval : een gebeurtenis, handeling of nalatigheid waardoor een onmiddellijke dreiging van milieuschade is ontstaan;<br>
+2° gevolg : milieuschade.<br>
+<br>
+§ 2. De exploitanten, vermeld in paragraaf 1, eerste lid, maken zo spoedig mogelijk telefonisch melding van het voorval en van de genomen maatregelen bij de afdeling, bevoegd voor milieuhandhaving.<br>
+<br>
+Met behoud van de toepassing van het eerste lid, verstrekt de exploitant bij een voorval zo spoedig mogelijk de volgende informatie aan de afdeling, bevoegd voor milieuhandhaving :<br>
+1° de algemene gegevens over de exploitant;<br>
+2° het tijdstip, de aard, de omstandigheden en de oorzaak van het voorval;<br>
+3° in voorkomend geval, de desbetreffende producten;<br>
+4° beschikbare gegevens aan de hand waarvan de gevolgen van het voorval voor mens en milieu kunnen worden beoordeeld;<br>
+5° de genomen maatregelen om het voorval te bedwingen en te beheersen.<br>
+<br>
+De exploitant gebruikt daarvoor het formulier, vermeld in de bijlage, die bij dit besluit is gevoegd, of een andere informatiedrager die dezelfde informatie bevat.<br>
+<br>
+De exploitant actualiseert in voorkomend geval de informatie, vermeld in het tweede lid, als dat noodzakelijk is in het licht van de nieuwe gegevens die zijn verkregen uit nader onderzoek.
 
 ### ART. 6.
 
@@ -66,13 +96,49 @@ Als er milieuschade is, neemt de exploitant, voor zover er eerst geen   inperkin
 
 ## Afdeling 1. Preventieve maatregelen
 
+### ART. 8.
+
+§ 1. Als zich nog geen milieuschade heeft voorgedaan maar er een onmiddellijke dreiging bestaat dat een dergelijke schade zich zal voordoen, kan de bevoegde instantie of haar gedelegeerde op elk moment, overeenkomstig artikel 15.8.4, eerste lid, van het decreet van 5 april 1995:<br>
+1° de exploitant verplichten de nodige preventieve maatregelen te nemen;<br>
+2° de exploitant instructies geven die bij het nemen van de nodige preventieve maatregelen moeten worden opgevolgd;<br>
+3° zelf de nodige preventieve maatregelen nemen.<br>
+<br>
+§ 2. De bevoegde instantie of haar gedelegeerde brengt de exploitant en de personen op wier terrein de preventieve maatregelen geheel of gedeeltelijk worden genomen, met een beveiligde zending onverwijld op de hoogte van haar besluit, vermeld in paragraaf 1. Dat besluit bevat ten minste:<br>
+1° een duidelijke omschrijving van de nodige preventieve maatregelen en/of de instructies die bij het nemen van de nodige preventieve maatregelen moeten worden nageleefd en de eventuele uitvoeringstermijn;<br>
+2° de precieze gronden waarop het besluit gebaseerd is;<br>
+3° de instantie waarbij beroep kan worden ingediend, alsook de wijze waarop en de termijn waarbinnen dat beroep moet worden ingediend.<br>
+<br>
+§ 3. Als de maatregelen, vermeld in paragraaf 1, handelingen, inrichtingen of activiteiten omvatten die meldings- of vergunningsplichtig zijn krachtens het decreet van 28 juni 1985 betreffende de milieuvergunning of, krachtens artikel 4.2.1 en artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 of artikel 5.2.1 van het decreet van 5 april 1995, geldt het besluit waarbij de preventieve maatregelen worden opgelegd of het besluit om ambtshalve preventieve maatregelen te nemen, overeenkomstig artikel 15.8.4, tweede lid, van het decreet van 5 april 1995, als melding of milieuvergunning, als stedenbouwkundige melding of -vergunning respectievelijk als melding of omgevingsvergunning.
+
 ## Afdeling 2. Inperkingsmaatregelen
+
+### ART. 9.
+
+§ 1. Als er milieuschade is, kan de bevoegde instantie of haar gedelegeerde op elk moment, overeenkomstig artikel 15.8.6, eerste lid, van het decreet van 5 april 1995:<br>
+1° de exploitant verplichten de nodige inperkingsmaatregelen te treffen;<br>
+2° de exploitant instructies geven die hij bij het nemen van de nodige inperkingsmaatregelen moet naleven;<br>
+3° zelf elke inperkingsmaatregel nemen.<br>
+<br>
+§ 2. Voor er inperkingsmaatregelen als vermeld in paragraaf 1 worden opgelegd of genomen, nodigt de bevoegde instantie of haar gedelegeerde de personen op wier terrein de maatregelen geheel of gedeeltelijk worden genomen en de betrokken exploitant uit om hun opmerkingen te maken.<br>
+<br>
+De uitnodiging, vermeld in het eerste lid, wordt verstuurd met een beveiligde zending en bevat ten minste de volgende informatie:<br>
+1° de aard van de voorgenomen maatregel;<br>
+2° de termijn waarbinnen opmerkingen kunnen worden gegeven.<br>
+<br>
+§ 3. De bevoegde instantie of haar gedelegeerde brengt de exploitant en de personen op wier terrein de inperkingsmaatregelen geheel of gedeeltelijk worden genomen, met een beveiligde zending onverwijld op de hoogte van haar besluit, vermeld in paragraaf 1. Dat besluit bevat ten minste:<br>
+1° een duidelijke omschrijving van de nodige inperkingsmaatregelen en/of de instructies die bij het nemen van de nodige inperkingsmaatregelen moeten worden nageleefd en de eventuele uitvoeringstermijn;<br>
+2° de precieze gronden waarop het besluit gebaseerd is;<br>
+3° de instantie waarbij beroep kan worden ingediend, alsook de wijze waarop en de termijn waarbinnen dat beroep moet worden ingediend.<br>
+<br>
+§ 4. Als de maatregelen, vermeld in paragraaf 1, handelingen, inrichtingen of activiteiten omvatten die meldings- of vergunningsplichtig zijn krachtens het decreet van 28 juni 1985 betreffende de milieuvergunning, krachtens artikel 4.2.1 en artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 of artikel 5.2.1 van het decreet van 5 april 1995, geldt het besluit waarbij de inperkingsmaatregelen worden opgelegd of het besluit om ambtshalve inperkingsmaatregelen te nemen, overeenkomstig artikel 15.8.6, tweede lid, van het decreet van 5 april 1995, als melding of milieuvergunning, als stedenbouwkundige melding of -vergunning respectievelijk als melding of omgevingsvergunning.
 
 ## Afdeling 3. Herstelmaatregelen
 
 ### ART. 10.
 
-Als er milieuschade is, kan de bevoegde instantie op elk moment,   overeenkomstig artikel 15.8.6 van het decreet van 5 april 1995 :<BR>1° de   exploitant verplichten de vereiste herstelmaatregelen te nemen of hem   instructies geven die hij bij het nemen van de nodige herstelmaatregelen moet   naleven;<BR>2° ambtshalve herstelmaatregelen nemen.
+Als er milieuschade is, kan de bevoegde instantie op elk moment, overeenkomstig artikel 15.8.6, eerste lid,&nbsp;van het decreet van 5 april 1995 :<br>
+1° de exploitant verplichten de nodige herstelmaatregelen te nemen of hem instructies geven die hij bij het nemen van de nodige herstelmaatregelen moet naleven;<br>
+2° ambtshalve de nodige herstelmaatregelen nemen.
 
 ### ART. 11.
 
@@ -88,15 +154,58 @@ Binnen de door de bevoegde instantie bepaalde termijn zendt de exploitant   met 
 
 ### ART. 14.
 
-§ 1. Na de ontvangst van het herstelplan bezorgt de bevoegde instantie met   een beveiligde zending een exemplaar van het herstelplan aan : <BR>1° in   voorkomend geval, de personen vermeld in artikel 15.6.1 van het decreet van 5   april 1995; <BR>2° de personen op wier terrein de maatregelen geheel of   gedeeltelijk worden genomen; <BR>3° de instanties, vermeld in artikel 16, die   advies geven over het herstelplan. <BR><BR>§ 2. De personen, vermeld in   paragraaf 1, 1° en 2°, kunnen binnen een termijn van dertig kalenderdagen na de   dag van ontvangst van de beveiligde zending, hun opmerkingen bezorgen aan de   bevoegde instantie. <BR><BR>De instanties, vermeld in paragraaf 1, 3°, bezorgen   binnen een termijn van vijftig kalenderdagen na de dag van ontvangst van de   beveiligde zending hun advies aan de bevoegde instantie. Als geen advies wordt   bezorgd binnen die termijn, kan de bevoegde instantie aan het adviesvereiste   voorbijgaan. <BR><BR>§ 3. Als de in het herstelplan voorgestelde maatregelen   vergunningsplichtig zijn als vermeld in artikel 15.8.21 van het decreet van 5   april 1995, en de desbetreffende vergunningsprocedure een openbaar onderzoek   vereist, bezorgt de bevoegde instantie het herstelplan met een beveiligde   zending aan het college van burgemeester en schepenen van de gemeente of   gemeenten waar de gronden waarop de vergunningsplichtige maatregelen moeten   worden genomen, gelegen zijn. <BR><BR>Binnen een termijn van tien kalenderdagen   na de dag van ontvangst van de beveiligde zending maakt de burgemeester het   herstelplan gedurende dertig kalenderdagen bekend door aanplakking van een   bericht op :<BR>1° de plaats waar de herstelmaatregelen gepland zijn;<BR>2° de   plaatsen die gereserveerd zijn voor de officiële berichten van   bekendmaking;<BR>3° de website van de gemeente of de gemeenten.<BR><BR>Gedurende   de periode van dertig kalenderdagen, vermeld in het tweede lid, legt hij het   herstelplan ter inzage bij de diensten van de gemeente. Tijdens die periode kan   iedereen schriftelijk bezwaren en opmerkingen richten aan het college van   burgemeester en schepenen van de desbetreffende gemeente of gemeenten. Na afloop   van de periode van bekendmaking maakt de burgemeester van de desbetreffende   gemeente of gemeenten een proces-verbaal op over de ingediende bezwaren en   opmerkingen. Uiterlijk vijftig kalenderdagen na de dag van ontvangst van het   herstelplan wordt het proces-verbaal aan de bevoegde instantie bezorgd.
+§ 1. Na de ontvangst van het herstelplan bezorgt de bevoegde instantie met een beveiligde zending een exemplaar van het herstelplan aan :<br>
+1° in voorkomend geval, de personen vermeld in artikel 15.6.1 van het decreet van 5 april 1995;<br>
+2° de personen op wier terrein de maatregelen geheel of gedeeltelijk worden genomen;<br>
+3° de instanties, vermeld in artikel 16, die advies geven over het herstelplan.<br>
+<br>
+§ 2. De personen, vermeld in paragraaf 1, 1° en 2°, kunnen binnen een termijn van dertig kalenderdagen na de dag van ontvangst van de beveiligde zending, hun opmerkingen bezorgen aan de bevoegde instantie.<br>
+<br>
+De instanties, vermeld in paragraaf 1, 3°, bezorgen binnen een termijn van vijftig kalenderdagen na de dag van ontvangst van de beveiligde zending hun advies aan de bevoegde instantie. Als geen advies wordt bezorgd binnen die termijn, kan de bevoegde instantie aan het adviesvereiste voorbijgaan.<br>
+<br>
+§ 3. Als de in het herstelplan voorgestelde maatregelen vergunningsplichtig zijn als vermeld in artikel 15.8.6, tweede lid,&nbsp;van het decreet van 5 april 1995, en de desbetreffende vergunningsprocedure een openbaar onderzoek vereist, bezorgt de bevoegde instantie het herstelplan met een beveiligde zending aan het college van burgemeester en schepenen van de gemeente of gemeenten waar de gronden waarop de vergunningsplichtige maatregelen moeten worden genomen, gelegen zijn.<br>
+<br>
+Binnen een termijn van tien kalenderdagen na de dag van ontvangst van de beveiligde zending maakt de burgemeester het herstelplan gedurende dertig kalenderdagen bekend door aanplakking van een bericht op :<br>
+1° de plaats waar de herstelmaatregelen gepland zijn;<br>
+2° de plaatsen die gereserveerd zijn voor de officiële berichten van bekendmaking;<br>
+3° de website van de gemeente of de gemeenten.<br>
+<br>
+Gedurende de periode van dertig kalenderdagen, vermeld in het tweede lid, legt hij het herstelplan ter inzage bij de diensten van de gemeente. Tijdens die periode kan iedereen schriftelijk bezwaren en opmerkingen richten aan het college van burgemeester en schepenen van de desbetreffende gemeente of gemeenten. Na afloop van de periode van bekendmaking maakt de burgemeester van de desbetreffende gemeente of gemeenten een proces-verbaal op over de ingediende bezwaren en opmerkingen. Uiterlijk vijftig kalenderdagen na de dag van ontvangst van het herstelplan wordt het proces-verbaal aan de bevoegde instantie bezorgd.
 
 ### ART. 15.
 
-Binnen een termijn van negentig kalenderdagen na de dag van ontvangst van   het herstelplan spreekt de bevoegde instantie zich uit over de conformiteit van   het herstelplan met de bepalingen van artikel 15.3.3 tot en met 15.3.11 van het   decreet. <BR><BR>Als de bevoegde instantie van oordeel is dat het herstelplan   niet conform is, brengt zij de exploitant en diegene op wiens gronden geheel of   gedeeltelijk maatregelen worden genomen, daarvan met een beveiligde zending op   de hoogte en past de exploitant het herstelplan aan binnen de door de bevoegde   instantie bepaalde termijn. <BR><BR>Als de bevoegde instantie van oordeel is dat   het herstelplan conform is, bezorgt de bevoegde instantie de exploitant en   diegene op wiens gronden geheel of gedeeltelijk maatregelen worden genomen met   een beveiligde zending een conformiteitsattest, waarin de bevoegde instantie   :<BR>1° een termijn oplegt waarbinnen de herstelmaatregelen worden   genomen;<BR>2° instructies kan geven over de modaliteiten van uitvoering van de   herstelmaatregelen;<BR>3° de vermelding van de mogelijkheid om beroep aan te   tekenen tegen het conformiteitsattest en de daarvoor uitgetrokken   termijn.
+Binnen een termijn van negentig kalenderdagen na de dag van ontvangst van het herstelplan spreekt de bevoegde instantie zich uit over de conformiteit van het herstelplan met de bepalingen van artikel 15.3.3 tot en met 15.3.11 van het decreet.<br>
+<br>
+Als de bevoegde instantie van oordeel is dat het herstelplan niet conform is, brengt zij de exploitant en diegene op wiens gronden geheel of gedeeltelijk maatregelen worden genomen, daarvan met een beveiligde zending op de hoogte en past de exploitant het herstelplan aan binnen de door de bevoegde instantie bepaalde termijn.<br>
+<br>
+Als de bevoegde instantie van oordeel is dat het herstelplan conform is, bezorgt de bevoegde instantie de exploitant en diegene op wiens gronden geheel of gedeeltelijk maatregelen worden genomen met een beveiligde zending een conformiteitsattest, waarin de bevoegde instantie :<br>
+1° de precieze gronden vermeldt waarop het is gebaseerd;<br>
+2° een termijn oplegt waarbinnen de herstelmaatregelen moeten worden genomen;<br>
+3° eventueel instructies geeft over de modaliteiten van uitvoering van de herstelmaatregelen;<br>
+4° de instantie vermeldt waarbij beroep kan worden ingediend, alsook de wijze waarop en de termijn waarbinnen dat beroep moet worden ingediend.
 
 ### ART. 16.
 
-Als de herstelmaatregelen uit het herstelplan activiteiten omvatten die   meldings- of vergunningplichtig zijn krachtens het decreet van 28 juni 1985   betreffende de milieuvergunning of werken omvatten die meldings- of   vergunningsplichtig zijn met toepassing van artikel 4.2.2. en artikel 4.2.1. van   de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, geldt het   conformiteitsattest als melding of milieuvergunning, respectievelijk als   stedenbouwkundige melding of -vergunning. <BR><BR>De adviesverlenende   instanties, vermeld in artikel 15.8.21, tweede lid, van het decreet van 5 april   1995, zijn : <BR>1° als de maatregelen activiteiten omvatten die   vergunningsplichtig zijn krachtens het decreet van 28 juni 1985 betreffende de   milieuvergunning : <BR>a) de deputatie als het gaat om activiteiten die in de   indelingslijst, opgenomen in de bijlage bij het besluit van de Vlaamse Regering   van 6 februari 1991 houdende vaststelling van het Vlaamse reglement betreffende   de milieuvergunning, zijn ingedeeld bij klasse I; <BR>b) het college van   burgemeester en schepenen als het gaat om activiteiten die in de indelingslijst,   opgenomen in de bijlage bij het besluit van de Vlaamse Regering van 6 februari   1991 houdende vaststelling van het Vlaamse reglement betreffende de   milieuvergunning, zijn ingedeeld bij klasse II; <BR>2° als de maatregelen   handelingen omvatten die krachtens de Vlaamse Codex Ruimtelijke Ordening van 15   mei 2009 vergunningsplichtig zijn, de overheid die zich uitspreekt over de   stedenbouwkundige vergunning;<BR>3° het Agentschap voor Natuur en Bos als de   maatregelen handelingen omvatten die krachtens :<BR>a) het besluit van de   Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere regels ter   uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en   het natuurlijk milieu natuurvergunningsplichtig zijn;<BR>b) het besluit van de   Vlaamse Regering van 21 november 2003 houdende maatregelen ter uitvoering van   het gebiedsgericht natuurbeleid een ontheffing op verbodsbepalingen   vereisen;<BR>c) het Soortenbesluit van de Vlaamse Regering van 15 mei 2009, een   afwijking op verbodsbepalingen vereisen;<BR>d) het Bosdecreet van 13 juni 1990   een machtiging vereisen.<BR><BR>In de gevallen, vermeld in artikel 3, § 2, van   het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere   regels voor de toepassing van de watertoets, tot aanwijzing van de   adviesinstantie en tot vaststelling van nadere regels voor de adviesprocedure   bij de watertoets, vermeld in artikel 8 van het decreet van 18 juli 2003   betreffende het integraal waterbeleid, zijn de adviesverlenende instanties :   <BR>1° de gemeente of, in voorkomend geval, de polder of watering, als de   maatregelen handelingen omvatten die zich situeren in of in de nabijheid van een   onbevaarbare waterloop van derde categorie of van een niet-geklasseerde   waterloop die onder hun respectieve beheer valt;<BR>2° de provincie of, in   voorkomend geval, de polder, als de maatregelen handelingen omvatten die zich   situeren in of in de nabijheid van een onbevaarbare waterloop van tweede   categorie; <BR>3° de Vlaamse Milieumaatschappij, als de maatregelen handelingen   omvatten die zich situeren in of in de nabijheid van een onbevaarbare waterloop   van eerste categorie of als de maatregelen een schadelijk effect kunnen hebben   op de toestand van het grondwater; <BR>4° nv De Scheepvaart, Waterwegen en   Zeekanaal, het Agentschap voor Maritieme Dienstverlening en Kust of het   Departement Mobiliteit en Openbare Werken, afdeling Maritieme Toegang, telkens   binnen hun ambtsgebied, als de maatregelen handelingen omvatten die zich   situeren in of in de nabijheid van een bestaande of geplande bevaarbare   waterloop of haveninfrastructuur binnen de afgebakende zeehavengebieden.   <BR><BR>De bevoegde instantie kan andere instanties, dan de instanties vermeld   in het tweede en derde lid, om advies vragen.
+Als de herstelmaatregelen uit het herstelplan handelingen, inrichtingen of activiteiten omvatten die meldings- of vergunningsplichtig zijn krachtens het decreet van 28 juni 1985 betreffende de milieuvergunning, krachtens artikel 4.2.1 en artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 of artikel 5.2.1 van het decreet van 5 april 1995, geldt het conformiteitsattest als melding of milieuvergunning, als stedenbouwkundige melding of -vergunning respectievelijk als melding of omgevingsvergunning.<br>
+<br>
+De adviesverlenende instanties, vermeld in artikel 15.8.6, derde lid, van het decreet van 5 april 1995, zijn :<br>
+1° als de maatregelen activiteiten omvatten die vergunningsplichtig zijn krachtens het decreet van 28 juni 1985 betreffende de milieuvergunning :<br>
+a) de deputatie als het gaat om activiteiten die in de indelingslijst, opgenomen in de bijlage bij het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaamse reglement betreffende de milieuvergunning, zijn ingedeeld bij klasse I;<br>
+b) het college van burgemeester en schepenen als het gaat om activiteiten die in de indelingslijst, opgenomen in de bijlage bij het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaamse reglement betreffende de milieuvergunning, zijn ingedeeld bij klasse II;<br>
+2° als de maatregelen handelingen omvatten die krachtens de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 vergunningsplichtig zijn, de overheid die zich uitspreekt over de stedenbouwkundige vergunning;<br>
+3° het Agentschap voor Natuur en Bos als de maatregelen handelingen omvatten die krachtens :<br>
+a) het besluit van de Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu natuurvergunningsplichtig zijn;<br>
+b) het besluit van de Vlaamse Regering van 21 november 2003 houdende maatregelen ter uitvoering van het gebiedsgericht natuurbeleid een ontheffing op verbodsbepalingen vereisen;<br>
+c) het Soortenbesluit van de Vlaamse Regering van 15 mei 2009, een afwijking op verbodsbepalingen vereisen;<br>
+d) het Bosdecreet van 13 juni 1990 een machtiging vereisen.<br>
+<br>
+In de gevallen, vermeld in artikel 3, § 2, van het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere regels voor de toepassing van de watertoets, tot aanwijzing van de adviesinstantie en tot vaststelling van nadere regels voor de adviesprocedure bij de watertoets, vermeld in artikel 8 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, zijn de adviesverlenende instanties :<br>
+1° de gemeente of, in voorkomend geval, de polder of watering, als de maatregelen handelingen omvatten die zich situeren in of in de nabijheid van een onbevaarbare waterloop van derde categorie of van een niet-geklasseerde waterloop die onder hun respectieve beheer valt;<br>
+2° de provincie of, in voorkomend geval, de polder, als de maatregelen handelingen omvatten die zich situeren in of in de nabijheid van een onbevaarbare waterloop van tweede categorie;<br>
+3° de Vlaamse Milieumaatschappij, als de maatregelen handelingen omvatten die zich situeren in of in de nabijheid van een onbevaarbare waterloop van eerste categorie of als de maatregelen een schadelijk effect kunnen hebben op de toestand van het grondwater;<br>
+4° nv De Scheepvaart, Waterwegen en Zeekanaal, het Agentschap voor Maritieme Dienstverlening en Kust of het Departement Mobiliteit en Openbare Werken, afdeling Maritieme Toegang, telkens binnen hun ambtsgebied, als de maatregelen handelingen omvatten die zich situeren in of in de nabijheid van een bestaande of geplande bevaarbare waterloop of haveninfrastructuur binnen de afgebakende zeehavengebieden.<br>
+<br>
+De bevoegde instantie kan andere instanties, dan de instanties vermeld in het tweede en derde lid, om advies vragen.
 
 ### ART. 17.
 
@@ -130,7 +239,9 @@ De bevoegde instantie kan de adviesverlenende instanties, vermeld in   artikel 1
 
 ### ART. 23.
 
-Binnen een termijn van dertig kalenderdagen na de dag van ontvangst van   het verzoekschrift brengt de bevoegde instantie met een beveiligde zending de   exploitant en de verzoeker op de hoogte van de beslissing over het al dan niet   nemen van inperkings- en herstelmaatregelen en de redenen daarvoor. <BR><BR>De   beslissing, vermeldt in het eerste lid, tevens de instantie waarbij beroep kan   worden aangetekend, alsook de wijze waarop en de termijn waarbinnen dat beroep   moet worden ingediend.
+Binnen een termijn van dertig kalenderdagen na de dag van ontvangst van het verzoekschrift brengt de bevoegde instantie met een beveiligde zending de exploitant en de verzoeker op de hoogte van de beslissing over het al dan niet nemen van inperkings- en herstelmaatregelen en de redenen daarvoor.<br>
+<br>
+De beslissing, vermeld in het eerste lid, vermeldt&nbsp;tevens de instantie waarbij beroep kan worden aangetekend, alsook de wijze waarop en de termijn waarbinnen dat beroep moet worden ingediend.
 
 ## HOOFDSTUK 5. Milieuschadecommissie
 
