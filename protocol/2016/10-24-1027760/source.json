@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027760,
+  "title": "Protocol van 2016-10-24 gesloten tussen de federale regering en de overheden bedoeld in art. 128, 130, 135 en 138 van de Grondwet, over de ziekenhuisnoodplanning",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027760/VolledigDocument?datum=2017-01-30",
+  "source_sha256": "462be4fe9bb69632339fc775e7d443056f47b01ebc1a4ebaf41627fae4e0d054",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027760&param=informatie",
+  "as_of": "2017-01-30",
+  "made": "2016-10-24",
+  "gazette": "2017-01-20",
+  "numac": 2016024291,
+  "document_start": "2017-01-30",
+  "document_end": null,
+  "in_force": "2017-01-30",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2017-01-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
