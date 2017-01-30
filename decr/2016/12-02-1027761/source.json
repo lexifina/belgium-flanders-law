@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027761,
+  "title": "Decreet van 2016-12-02 van de algemene rekening van de Vlaamse Gemeenschap en van de uitvoering van de begroting van de Vlaamse rechtspersonen zonder raad van bestuur voor het begrotingsjaar 2015",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027761/VolledigDocument?datum=2017-01-30",
+  "source_sha256": "85028005f312b82db647f9a9de36829054caf48536e254cd0d87105d632d8dc7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027761&param=informatie",
+  "as_of": "2017-01-30",
+  "made": "2016-12-02",
+  "gazette": "2017-01-20",
+  "numac": 2016036691,
+  "document_start": "2017-01-30",
+  "document_end": null,
+  "in_force": "2017-01-30",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2017-01-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
