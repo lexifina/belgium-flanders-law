@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027764,
+  "title": "Protocol van 2016-10-24 Aanhangsel tot wijziging van het Protocolakkoord gesloten op 15 mei 2014 tussen de Federale Regering en de in artikel 128, 130, 135 en 138 van de Grondwet met betrekking tot de uitoefening van de aan de deelstaten toegewezen bevoegdheden op het vlak van volksgezondheid en gezondheidszorg tijdens de overgansperiode in het kader van de bijzondere wet van 6 januari 2014 met betrekking tot de zesde staatshervorming",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027764/VolledigDocument?datum=2017-01-30",
+  "source_sha256": "86fd0f2433592b4ade1112155a3baa73bf6093671efb904991f48e74bd16f15d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027764&param=informatie",
+  "as_of": "2017-01-30",
+  "made": "2016-10-24",
+  "gazette": "2017-01-20",
+  "numac": 2016024292,
+  "document_start": "2017-01-30",
+  "document_end": null,
+  "in_force": "2017-01-30",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2017-01-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
