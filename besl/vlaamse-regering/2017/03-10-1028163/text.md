@@ -67,6 +67,10 @@ In artikel 10, 10bis, 10quater en 10quinquies van het besluit van de Vlaamse Reg
 
 In artikel 8, tweede lid, 4° van het besluit van de Vlaamse Regering van 7 oktober 1997 betreffende de nuttige ervaring als bekwaamheidsbewijs voor personeelsleden van het onderwijs wordt het woord "loopbaanonderbreking" vervangen door de woorden "loopbaanonderbreking en zorgkrediet".
 
+### ART 8.
+
+Bijlage III bij hetzelfde besluit, toegevoegd bij het besluit van de Vlaamse Regering van 12 maart 2010 en vervangen bij het besluit van de Vlaamse Regering van 8 juli 2016, wordt vervangen door de bijlage, die als bijlage 1 bij dit besluit is gevoegd.
+
 ### ART 9.
 
 In artikel 5bis van het besluit van de Vlaamse Regering van 12 december 2003 tot vaststelling van de bekwaamheidsbewijzen en de salarisschalen van de personeelsleden van de centra voor leerlingenbegeleiding wordt het woord "loopbaanonderbreking" vervangen door de woorden "loopbaanonderbreking en zorgkrediet".
@@ -74,3 +78,23 @@ In artikel 5bis van het besluit van de Vlaamse Regering van 12 december 2003 tot
 ### ART 10.
 
 In artikel 12 tot en met 17/1 van het besluit van de Vlaamse Regering van 23 april 2010 betreffende de bekwaamheidsbewijzen en de salarisschalen voor de personeelsleden van de centra voor volwassenenonderwijs wordt het woord "loopbaanonderbreking" telkens vervangen door de woorden "loopbaanonderbreking en zorgkrediet".
+
+### ART 11.
+
+De bijlage bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 8 juli 2016, wordt vervangen door de bijlage, die als bijlage 2 bij dit besluit is gevoegd.
+
+### ART 12.
+
+&nbsp;Dit besluit heeft uitwerking met ingang van 1 februari 2017, met uitzondering van de artikelen 1 tot en met 7, 9 en 10, die uitwerking hebben met ingang van 1 september 2016.
+
+### ART 13.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
+
+### BIJLAGE 1
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/04/21_1.pdf#page=34">http://www.ejustice.just.fgov.be/mopdf/2017/04/21_1.pdf#page=34</a>
+
+### BIJLAGE 2
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/04/21_1.pdf#page=71">http://www.ejustice.just.fgov.be/mopdf/2017/04/21_1.pdf#page=71</a>
