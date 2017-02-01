@@ -6,7 +6,10 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied algemene vorming, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 1 tot en met 17, die bij dit besluit zijn gevoegd.<br /><br />Ter uitvoering van artikel 24, § 2, van hetzelfde decreet wordt voor bijzondere doelgroepen als volgt afgeweken van het minimale aantal lestijden van een opleiding : de opleiding Aanvullende Algemene Vorming kan voor traag lerende cursisten tot 900 lestijden bedragen, waarbij de modules Wiskunde Basis, Wiskunde B2 en Nederlands Basis telkens 80 lestijden kunnen bedragen.<br /><br />
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied algemene vorming, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 13 tot en met 26, die bij dit besluit zijn gevoegd.<br>
+<br>
+Ter uitvoering van artikel 24, § 2, van hetzelfde decreet wordt voor bijzondere doelgroepen als volgt afgeweken van het minimale aantal lestijden van een opleiding : de opleiding Aanvullende Algemene Vorming kan voor traag lerende cursisten tot 900 lestijden bedragen, waarbij de modules Wiskunde Basis, Wiskunde B2 en Nederlands Basis telkens 80 lestijden kunnen bedragen.<br>
+&nbsp;
 
 ### ART. 2.
 
@@ -103,3 +106,39 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 ### BIJLAGE 17
 
 <a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1_4.pdf#Page1#page=50" title=" Bijlage 17" target="_blank" class="pdf">Bijlage 17</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1_5.pdf#Page1#page=1" title=" Bijlage 17" target="_blank" class="pdf">Bijlage 17</a>
+
+### BIJLAGE 18
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=65">http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=65</a>
+
+### BIJLAGE 19
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=97">http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=97</a>
+
+### BIJLAGE 20
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=126">http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=126</a>
+
+### BIJLAGE 21
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=153">http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=153</a>
+
+### BIJLAGE 22
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=183">http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=183</a>
+
+### BIJLAGE 23
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=212">http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=212</a>
+
+### BIJLAGE 24
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=239">http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=239</a>
+
+### BIJLAGE 25
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=270">http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=270</a>
+
+### BIJLAGE 26
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=300">http://www.ejustice.just.fgov.be/mopdf/2017/04/10_1.pdf#page=300</a>
