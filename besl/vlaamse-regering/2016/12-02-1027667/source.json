@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027667,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-02 tot wijziging van het besluit van de Vlaamse Regering van 7 december 2007 houdende de minimale voorwaarden voor de personeelsformatie, de rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger van de openbare centra voor maatschappelijk welzijn en het besluit van de Vlaamse Regering van 12 november 2010 houdende de minimale voorwaarden voor de personeelsformatie en het mandaatstelsel van het personeel van de openbare centra voor maatschappelijk welzijn en houdende de minimale voorwaarden voor sommige aspecten van de rechtspositieregeling van bepaalde personeelsgroepen van de openbare centra voor maatschappelijk welzijn, wat betreft verloven en afwezigheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027667/VolledigDocument?datum=2017-02-01",
+  "source_sha256": "62083648b3f6b6af2a32a05fcc052fa7fb336f60228fdf10777bed759fb19725",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027667&param=informatie",
+  "as_of": "2017-02-01",
+  "made": "2016-12-02",
+  "gazette": "2016-12-22",
+  "numac": 2016036647,
+  "document_start": "2017-02-01",
+  "document_end": null,
+  "in_force": "2017-02-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2017-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
