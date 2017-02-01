@@ -1222,11 +1222,18 @@ Met behoud van de toepassing van de wet betreffende de feestdagen van 4 januari 
 
 ### ART. 140.
 
-De raad stelt, rekening houdend met het dienstverband, de regels over de volgende aangelegenheden vast in overeenstemming met de regels daarover in de rechtspositieregeling van het gemeentepersoneel :<br />1° het bevallingsverlof en het opvangverlof;<br />2° het ziekteverlof;<br />3° in voorkomend geval, de disponibiliteit;<br />4° het omstandigheidsverlof.
+De raad stelt, rekening houdend met het dienstverband, de regels over de volgende aangelegenheden vast in overeenstemming met de regels daarover in de rechtspositieregeling van het gemeentepersoneel :<br>
+1° het bevallingsverlof en het opvangverlof;<br>
+2° het ziekteverlof;<br>
+3° in voorkomend geval, de disponibiliteit;<br>
+4° het omstandigheidsverlof;<br>
+5° het onbetaalde verlof als recht.
 
 ### ART. 141.
 
-§ 1. Met betrekking tot de regels in de rechtspositieregeling van het gemeentepersoneel over het verlof voor deeltijdse prestaties, het verlof voor opdracht en het onbetaalde verlof heeft de raad de volgende keuzemogelijkheden :<br />1° de raad neemt die verlofstelsels en de regels ervoor integraal over;<br />2° de raad neemt die verlofstelsels, en de regels ervoor over, maar beperkt het toepassingsgebied ervan of de duur ervan;<br />3° de raad neemt slechts een bepaald verlofstelsel over, al dan niet met aanpassing van het toepassingsgebied of de duur ervan;<br />4° de raad neemt die verlofstelsels niet over.<br /><br />§ 2. Als een vast aangesteld statutair personeelslid binnen de diensten van het OCMW een contractuele betrekking opneemt, een mandaat, een tijdelijke aanstelling of een ander functie waaraan een proeftijd verbonden is, dan wordt voor maximaaal de duur van het mandaat, de aanstelling of de proeftijd ambtshalve onbetaald verlof toegestaan.<br /><br />De raad kan bepalen dat het vast aangestelde statutaire personeelslid dat een mandaat opneemt bij een ander bestuur, ambtshalve onbetaald verlof krijgt voor de duur van het mandaat, vermeld in artikel 9, eerste lid. Hij kan ook bepalen dat het onbetaalde verlof verlengbaar is bij een verlenging van het mandaat, vermeld in artikel 9, tweede lid.
+De raad neemt het verlofstelsel integraal over dat is opgenomen in de regels van de rechtspositieregeling van het gemeentepersoneel over het onbetaald verlof als gunstmaatregel, maar hij kan het toepassingsgebied of de duur ervan beperken.<br>
+<br>
+Als een vast aangesteld statutair personeelslid binnen de diensten van het OCMW een contractuele betrekking, een mandaat, een tijdelijke aanstelling of een andere functie waaraan een proeftijd verbonden is, opneemt, wordt ambtshalve onbetaald verlof toegestaan voor maximaal de duur van het mandaat, de tijdelijke aanstelling of de proeftijd.
 
 ### ART. 142.
 
@@ -1251,6 +1258,10 @@ De volgende regelingen worden opgeheven :<br />1° het koninklijk besluit van 9 
 ### ART. 145.
 
 § 1. Alle plaatselijke reglementaire bepalingen over de personeelsformatie, het mandaatstelsel en de rechtspositieregeling moeten uiterlijk op 1 juli 2011 met de bepalingen van dit besluit in overeenstemming gebracht zijn of opgeheven zijn. Die termijn geldt ook als uiterste termijn voor de overname van de overeenkomstige bepalingen uit de rechtspositieregeling van het gemeentepersoneel, vermeld in artikel 104, § 4 en § 5, van het OCMW-decreet, voor het specifieke personeel, vermeld in artikel 104, § 2, van het OCMW-decreet.<br /><br />Zolang de raad de bepalingen, vermeld in het eerste lid, niet heeft uitgevoerd, blijven de bestaande plaatselijke reglementaire bepalingen over het mandaatstelsel en de rechtspositieregeling van kracht voor zover ze niet strijdig zijn met een andere wettelijke bepaling. Eventuele wijzigingen die voor 1 juli 2011 aangebracht worden aan die bestaande reglementaire bepalingen, moeten in overeenstemming zijn met de bepalingen van dit besluit en van artikel 104, § 4 en § 5, van het OCMW-decreet, voor het specifieke personeel, vermeld in artikel 104, § 2, van het OCMW-decreet.<br /><br />§ 2. In afwijking van paragraaf 1, geldt de overgangstermijn tot 1 juli 2011 niet voor de bepalingen over het aantal dagen jaarlijkse vakantie en over de feestdagen in artikel 138, 139 en 156.<br /><br />Als de personeelsformatie na de datum van inwerkingtreding van dit besluit en voor 1 juli 2011 gewijzigd wordt, dan wordt ze tegelijk volledig vastgesteld in overeenstemming met de bepalingen van deel 2, hoofdstuk 1 en 2.
+
+### ART 145bis.
+
+Het personeelslid dat voor 1 februari 2017 een verlof voor deeltijdse prestaties of een onbetaald verlof genoot, behoudt dit verlof aan dezelfde voorwaarden en gedurende de periode dat het verlof werd toegestaan.
 
 ## Afdeling 2. Overgangsbepaling bij deel 2
 
