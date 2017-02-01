@@ -5030,19 +5030,31 @@ Als het statutaire personeelslid tijdens zijn indisponibiliteitsstelling een and
 
 ### ART. 200.
 
-Het statutaire personeelslid kan een verlof voor deeltijdse prestaties krijgen.<br /><br />De raad bepaalt in welke gevallen of voor welke categorieën van personeelsleden verlof voor deeltijdse prestaties een recht is. De raad bepaalt in welke gevallen, evenals aan welke categorieën van personeelsleden, verlof voor deeltijdse prestaties kan worden toegestaan. Dat verlof is geen recht, maar kan worden toegestaan als een gunstmaatregel, als de goede werking van de dienst daardoor niet in het gedrang komt.<br />
+Het hoofd van het personeel kan aan het personeelslid onbetaald verlof toestaan om de prestaties volledig of gedeeltelijk te onderbreken, als de goede werking van de dienst dat toelaat.<br>
+<br>
+Het verlof, vermeld in het eerste lid, kan worden toegestaan voor:<br>
+1° twintig dagen per kalenderjaar, te nemen in volledige of halve dagen en al dan niet in aaneensluitende perioden;<br>
+2° twee jaar gedurende de loopbaan, te nemen in al dan niet aaneensluitende perioden van minimaal één maand.
 
 ### ART. 201.
 
-Het ziekteverlof maakt geen einde aan een toegekend stelsel van verlof voor deeltijdse prestaties.<br /><br />Als een feestdag op een dag verlof voor deeltijdse prestaties valt, loopt dat verlof door.<br />
+Het onbetaald gunstverlof is niet gelijkgesteld met dienstactiviteit, tenzij het minder dan een maand bedraagt of deeltijds verlof betreft.<br>
+<br>
+Verlof wegens arbeidsongeschiktheid, met uitzondering van de arbeidsongeschiktheid ten gevolge van een arbeidsongeval of een beroepsziekte, maakt geen einde aan het toegekende onbetaald gunstverlof.<br>
+<br>
+Als een feestdag op een dag onbetaald gunstverlof valt, wordt die feestdag niet vervangen.<br>
+<br>
+Het personeelslid kan het onbetaalde gunstverlof voortijdig opzeggen.
 
 ### ART. 202.
 
-De raad bepaalt de omvang en de maximumduur van het verlof voor deeltijdse prestaties. Verlof voor deeltijdse prestaties wordt niet bezoldigd.<br /><br />Het statutaire personeelslid kan voor de aangevraagde termijn verstreken is, een einde stellen aan het verlof voor deeltijdse prestaties. De raad bepaalt de nadere regels voor de termijnen en de praktische wijze van opzegging.<br />
+De raad kan, rekening houdend met de goede werking van de dienst, de nadere algemene regels voor het onbetaalde gunstverlof, waaronder de regels voor de indiening van de verlofaanvragen, de toekenning, de weigering en de opzegging van het verlof bepalen. De raad kan ook bepalen in welke gevallen en voor welke personeelsleden of categorieën van personeelsleden dat verlof niet van toepassing is.<br>
+<br>
+De raad kan regels vaststellen die gunstiger zijn dan de regels, vermeld in artikel 200 en 201, met inbegrip van het aantal dagen per kalenderjaar of het aantal maanden gedurende de loopbaan.
 
 ### ART. 203.
 
-De raad kan een vergelijkbare regeling invoeren voor het contractuele personeel.<br />
+...
 
 ## HOOFDSTUK VIII. Het verlof voor opdracht
 
@@ -5188,11 +5200,34 @@ Voor het contractuele personeelslid wordt het verlof ter gelegenheid van de gebo
 
 ### ART. 210.
 
-§ 1. Het personeelslid kan in principe in aanmerking komen voor de volgende contingenten onbetaalde verloven :<br />1° twintig werkdagen per kalenderjaar, te nemen in volledige of halve dagen en al dan niet aaneensluitende perioden. Die dagen worden niet bezoldigd;<br />2° twee jaar gedurende de loopbaan, te nemen in periodes van minimaal één maand. Die periodes worden niet bezoldigd.<br /><br />§ 2. De raad bepaalt de algemene regels voor de toekenning van dit onbezoldigde verlof. In het bijzonder kan de raad bepalen in welke gevallen en voor welke personeelsleden of categorieën van personeelsleden dit verlof een recht is, evenals in welke gevallen sommige personeelsleden of categorieën van personeelsleden niet in aanmerking kunnen komen voor het onbetaalde verlof. De raad bepaalt eveneens dat het personeelslid tegen de weigering van onbetaald verlof bezwaar kan indienen bij de raad of bij het uitvoerend orgaan en kan verzoeken om gehoord te worden. De raad bepaalt de algemene procedureregels.<br /><br />§ 3. Het personeelslid op proef komt niet in aanmerking voor dit onbezoldigde verlof.<br /><br />
+§ 1. Het personeelslid heeft het recht om tijdens de loopbaan twaalf maanden voltijds de loopbaan te onderbreken in periodes van minimaal een maand. Zodra het personeelslid 55 jaar is, verwerft het een bijkomend recht om twaalf maanden voltijds de loopbaan te onderbreken, te nemen in periodes van minimaal een maand.<br>
+<br>
+Het personeelslid heeft het recht om tijdens de loopbaan gedurende zestig maanden de prestaties te verminderen tot 80% of tot 50% van een voltijdse betrekking. Dat deeltijdse onbetaalde verlof kan alleen genomen worden in periodes van minimaal drie maanden. Zodra het personeelslid 55 jaar is, heeft hij altijd het recht om de prestaties te verminderen tot 80% of tot 50% van een voltijdse betrekking.<br>
+<br>
+§ 2. Als een vast aangesteld statutair personeelslid binnen de diensten van het bestuur een contractuele betrekking, een mandaat, een tijdelijke aanstelling of een andere functie waaraan een proeftijd verbonden is, opneemt, wordt ambtshalve onbetaald verlof toegestaan voor maximaal de duur van het mandaat, de tijdelijke aanstelling of de proeftijd.<br>
+<br>
+§ 3. Het hoofd van het personeel kent het verlof toe.<br>
+&nbsp;
 
 ### ART. 211.
 
-Als een vast aangesteld statutair personeelslid binnen de diensten van het bestuur een contractuele betrekking opneemt, een mandaat, een tijdelijke aanstelling of een andere functie waaraan een proeftijd verbonden is, dan wordt voor maximaal de duur van het mandaat, de aanstelling of de proeftijd ambtshalve onbetaald verlof toegestaan.<br /><br />De raad kan bepalen dat het vast aangestelde statutaire personeelslid dat een mandaat opneemt bij een ander bestuur, ambtshalve onbetaald verlof krijgt voor de duur van het mandaat, vermeld in artikel 81, eerste lid. Hij kan ook bepalen dat het onbetaalde verlof verlengbaar is bij een verlenging van het mandaat, als vermeld in artikel 81, tweede lid.<br />
+Het verlof is gelijkgesteld met dienstactiviteit.<br>
+<br>
+Het verlof wegens arbeidsongeschiktheid, met uitzondering van de arbeidsongeschiktheid ten gevolge van een arbeidsongeval of een beroepsziekte, maakt geen einde aan het toegekende onbetaalde verlof.<br>
+<br>
+Als een feestdag op een dag onbetaald verlof valt, wordt die feestdag niet vervangen.<br>
+<br>
+Het personeelslid kan voor de toegestane verlofperiode verstreken is, het verlof opzeggen.
+
+### ART 211bis.
+
+Artikel 210 is niet van toepassing op de provinciegriffier, de gemeentesecretaris, de adjunct-gemeentesecretaris en de financieel beheerder.
+
+### ART 211ter.
+
+De raad kan de nadere algemene regels bepalen voor het recht op onbetaald verlof, waaronder de regels voor de indiening van de verlofaanvragen, de toekenning, het uitstel en de opzegging van het verlof, rekening houdend met de goede werking van de dienst. De raad kan ook bepalen in welke gevallen en voor welke personeelsleden of categorieën van personeelsleden dat verlof niet van toepassing is.<br>
+<br>
+De raad kan een verlofregeling vaststellen die gunstiger is dan de regeling, vermeld in artikel 210, 211 en 211bis, waaronder ook een financiële bonusregeling.
 
 ## HOOFDSTUK XI. De dienstvrijstellingen
 
@@ -5321,6 +5356,10 @@ De statutair tijdelijke personeelsleden en de statutair tijdelijke werklieden di
 ### ART. 237.
 
 Alle plaatselijke reglementaire bepalingen over de personeelsformatie, de rechtspositieregeling en het mandaatstelsel moeten uiterlijk op 1 januari 2009 met de bepalingen van dit besluit in overeenstemming gebracht zijn of opgeheven zijn.<br /><br />Zolang de raad de bepaling in het eerste lid niet heeft uitgevoerd, blijven de bestaande plaatselijke reglementaire bepalingen over de rechtspositieregeling en het mandaatstelsel van kracht voor zover ze niet strijdig zijn met een andere wettelijke bepaling. Eventuele wijzigingen die voor 1 januari 2009 aangebracht worden aan die bestaande reglementaire bepalingen, moeten in overeenstemming zijn met de bepalingen van dit besluit.<br /><br />Als de personeelsformatie na de datum van inwerkingtreding van dit besluit en voor 1 januari 2009 gewijzigd wordt, dan wordt ze tegelijk volledig vastgesteld in overeenstemming met de bepalingen van titel II.<br />
+
+### ART 237bis.
+
+Het personeelslid dat voor 1 februari 2017 een verlof voor deeltijdse prestaties of een onbetaald verlof genoot, behoudt dit verlof aan dezelfde voorwaarden en gedurende de periode dat het verlof werd toegestaan.
 
 ## HOOFDSTUK III. Inwerkingtredingsbepalingen
 
