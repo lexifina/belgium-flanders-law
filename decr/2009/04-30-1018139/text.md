@@ -120,13 +120,35 @@ De&nbsp;accreditatieorganisatie rapporteert jaarlijks over zijn   werkzaamheden 
 
 ### ART. 17.
 
-§ 1. Een onderwijsinstelling kan, als lid van een samenwerkingsverband,   zoals vermeld in artikel 50, een opleiding van het hoger beroepsonderwijs   programmeren als de opleiding in kwestie bij besluit van de Vlaamse Regering   erkend is.<BR><BR>De Vlaamse Regering kan dat besluit nemen met inachtneming van   de volgende criteria :<BR>1° de "toets nieuwe hbo5-opleiding", vermeld in   afdeling II, onderafdeling II, van dit hoofdstuk, die met positief gevolg   ondergaan is;<BR>2° de eventuele opmerkingen van het instellingsbestuur naar   aanleiding van het toetsingsrapport, vermeld in artikel 23, § 2;<BR>3° de   samenwerking met andere onderwijsinstellingen als vermeld in artikel 50 en   51;<BR>4° de beschikbaarheid van middelen om het volledige opleidingstraject te   kunnen aanbieden;<BR>5° voldoen aan de bepalingen rond verwantschap zoals   vermeld in artikel 20 of het advies over de macrodoelmatigheid zoals bedoeld in   artikel 21.<BR><BR>De Vlaamse Regering bezorgt het besluit aan het   instellingsbestuur binnen een termijn van 30 kalenderdagen na ontvangst van het   rapport van het accreditatieorgaan. Het besluit treedt in werking met ingang van   de bekendmaking ervan aan de instelling.<BR><BR>Een positief besluit over de   aanvraag van een opleiding van het hoger beroepsonderwijs vervalt op het einde   van het vierde schooljaar of academiejaar dat volgt op de dag van de start van   de opleiding in kwestie.<BR><BR>Een positief besluit over de aanvraag van een   opleiding vervalt automatisch als het instellingsbestuur de opleiding niet start   in het tweede schooljaar of academiejaar dat volgt op de bekendmaking aan het   instellingsbestuur.<BR><BR>§ 2. Als de programmatie van een opleiding van het   hoger beroepsonderwijs wordt aangevraagd, moet vanuit die opleiding een verkort   of aangepast traject nagestreefd worden in een aansluitende professioneel   gerichte bachelor in het hoger onderwijs, indien deze bestaat.<BR><BR>§ 3. Om   een programmatie te kunnen aanvragen moet minstens één van de   onderwijsinstellingen van het samenwerkingsverband onderwijsbevoegdheid bezitten   in het studiegebied waartoe de hbo5-opleiding behoort. De andere   onderwijsinstellingen die deze onderwijsbevoegdheid niet hebben maar de   opleiding mee organiseren, krijgen de onderwijsbevoegdheid voor de betrokken   hbo5-opleiding door de erkenning van de opleiding door de Vlaamse   Regering.
+§ 1. Een onderwijsinstelling kan, als lid van een samenwerkingsverband, zoals vermeld in artikel 50, een opleiding van het hoger beroepsonderwijs programmeren als de opleiding in kwestie bij besluit van de Vlaamse Regering erkend is.<br>
+<br>
+De Vlaamse Regering kan dat besluit nemen met inachtneming van de volgende criteria :<br>
+1° de "toets nieuwe hbo5-opleiding", vermeld in afdeling II, onderafdeling II, van dit hoofdstuk, die met positief gevolg ondergaan is;<br>
+2° de eventuele opmerkingen van het instellingsbestuur naar aanleiding van het toetsingsrapport, vermeld in artikel 23, § 2;<br>
+3° de samenwerking met andere onderwijsinstellingen als vermeld in artikel 50 en 51;<br>
+4° de beschikbaarheid van middelen om het volledige opleidingstraject te kunnen aanbieden;<br>
+5° voldoen aan de bepalingen rond verwantschap zoals vermeld in artikel 20.<br>
+<br>
+De Vlaamse Regering bezorgt het besluit aan het instellingsbestuur binnen een termijn van 30 kalenderdagen na ontvangst van het rapport van het accreditatieorgaan. Het besluit treedt in werking met ingang van de bekendmaking ervan aan de instelling.<br>
+<br>
+Een positief besluit over de aanvraag van een opleiding van het hoger beroepsonderwijs vervalt op het einde van het vierde schooljaar of academiejaar dat volgt op de dag van de start van de opleiding in kwestie.<br>
+<br>
+Een positief besluit over de aanvraag van een opleiding vervalt automatisch als het instellingsbestuur de opleiding niet start in het tweede schooljaar of academiejaar dat volgt op de bekendmaking aan het instellingsbestuur.<br>
+<br>
+§ 2. Als de programmatie van een opleiding van het hoger beroepsonderwijs wordt aangevraagd, moet vanuit die opleiding een verkort of aangepast traject nagestreefd worden in een aansluitende professioneel gerichte bachelor in het hoger onderwijs, indien deze bestaat.<br>
+<br>
+§ 3. Om een programmatie te kunnen aanvragen moet minstens één van de onderwijsinstellingen van het samenwerkingsverband onderwijsbevoegdheid bezitten in het studiegebied waartoe de hbo5-opleiding behoort. De andere onderwijsinstellingen die deze onderwijsbevoegdheid niet hebben maar de opleiding mee organiseren, krijgen de onderwijsbevoegdheid voor de betrokken hbo5-opleiding door de erkenning van de opleiding door de Vlaamse Regering.
 
 ## Afdeling II. Procedure
 
 ### ART. 18.
 
-§ 1. De programmatieprocedure voor hbo5-opleidingen vertrekt steeds van   een door de Vlaamse Regering goedgekeurde onderwijskwalificatie van niveau 5 en   bestaat uit volgende stappen :<BR>1° bepaling van het verwantschap tussen de   onderwijskwalificatie en de opleidingen vermeld in artikel 160, of een onderzoek   naar de macrodoelmatigheid van de hbo5-opleiding door de Commissie Hoger   Onderwijs;<BR>2° het ontwikkelen van een opleidingsprofiel voor de opleiding,   door de samenwerkingsverbanden, zoals vermeld in artikel 50;<BR>3° de aanvraag   "Toets nieuwe hbo5-opleiding" bij het accreditatieorgaan en de administratieve   toets, bij de bevoegde administratie;<BR>4° de erkenning van de hbo5-opleiding   door de Vlaamse Regering.<BR><BR>§ 2. De Vlaamse Regering bepaalt de   programmatieprocedure voor hbo5-opleidingen.<BR><BR>§ 3. De Commissie Hoger   Onderwijs, het accreditatieorgaan en de bevoegde administratie bepalen in   overleg de vorm en inhoud van het dossier in de verschillende   stappen.
+§ 1. De programmatieprocedure voor hbo5-opleidingen vertrekt altijd van de beslissing van de Vlaamse Regering tot ontwikkeling van een opleiding hoger beroepsonderwijs die leidt tot een onderwijskwalificatie en de beslissing van de Vlaamse Regering over de verwantschap met een bestaande hbo5-opleiding, en bestaat uit de volgende stappen :<br>
+1° het gezamenlijk schrijven van de domeinspecifieke leerresultaten door de samenwerkingsverbanden. Deze organiseren daartoe structureel onderling overleg, waarbij ook de bevoegde dienst van de Vlaamse Regering wordt betrokken en waarvoor ze een beroep kunnen doen op externe experten, en de validatie ervan door de accreditatieorganisatie;<br>
+2° de aanvraag "Toets nieuwe hbo5-opleiding" bij de accreditatieorganisatie;<br>
+3° de erkenning van de opleiding door de Vlaamse Regering.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de programmatieprocedure.
 
 ### ART. 19.
 
@@ -136,17 +158,68 @@ De&nbsp;accreditatieorganisatie rapporteert jaarlijks over zijn   werkzaamheden 
 
 ### ART. 20.
 
-<P>§ 1. De Commissie Hoger Onderwijs bepaalt samen met een vertegenwoordiging   van de samenwerkingsverbanden zoals vermeld in artikel 50, of er een   verwantschap bestaat tussen de onderwijskwalificatie van niveau 5 en één of   meerdere van de opleidingen vermeld in artikel 160.<BR><BR>§ 2. Voor het bepalen   van deze verwantschap zullen minimaal volgende criteria in acht<BR>worden   genomen :<BR>1° de inhoudelijke verwantschap tussen de competenties van de   onderwijskwalificatie niveau 5 en bestaande opleidingsprofielen en leerplannen   van de opleidingen vermeld in artikel 160;<BR>2° de herinzetbaarheid van het   personeel.<BR><BR>§ 3. De Vlaamse Regering kan verdere bepalingen rond de   procedure en de vertegenwoordiging vastleggen.<BR></P>
+§ 1. In het advies over de ontwikkeling van een onderwijskwalificatie, vermeld in artikel 15/1 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur, verleent de bevoegde dienst van de Vlaamse Regering ook een advies over de verwantschap van :<br>
+1° de onderwijskwalificatie met een of meer bestaande opleidingen van het hoger beroepsonderwijs. Daarvoor vraagt de bevoegde dienst van de Vlaamse Regering inbreng van vertegenwoordigers van de samenwerkingsverbanden, vermeld in artikel 50 van dit decreet;<br>
+2° de beroepskwalificatie waarvoor geen onderwijskwalificatie wordt ontwikkeld, met een of meer bestaande opleidingen van het hoger beroepsonderwijs.<br>
+<br>
+De bevoegde dienst van de Vlaamse Regering kan bij het advies over de verwantschap rekening houden met de volgende criteria :<br>
+1° de sectorale indeling;<br>
+2° de indeling naar beroepsgroep;<br>
+3° de wetenschappelijke discipline of het studiegebied.<br>
+<br>
+De verwantschap kan worden vastgelegd op het niveau van de volledige opleiding of op het niveau van de afstudeerrichtingen of de opties van een opleiding van het hoger beroepsonderwijs.<br>
+<br>
+§ 2. De Vlaamse Regering beslist over de verwantschap met bestaande hbo5-opleidingen.<br>
+<br>
+Als de Vlaamse Regering beslist dat een bestaande hbo5-opleiding verwant is met een beroepskwalificatie waarvoor geen onderwijskwalificatie wordt ontwikkeld, wordt die opleiding afgebouwd conform artikel 49, § 2.<br>
+<br>
+§ 3. Als er een verwantschap wordt bepaald met verschillende onderwijskwalificaties of met een onderwijskwalificatie met verschillende afstudeerrichtingen, hebben de samenwerkingsverbanden de vrijheid om te kiezen tot welke onderwijskwalificatie ze de bestaande hbo5-opleiding zullen omvormen.<br>
+<br>
+In afwijking hiervan kunnen de samenwerkingsverbanden Vives Zuid en Thomas More Kempen beslissen om een bestaande hbo5-opleiding Elektromechanica of een hbo5-opleiding Informatica per optie om te vormen naar een onderwijskwalificatie waarmee die hbo5-opleiding verwant is verklaard, op voorwaarde dat de desbetreffende optie in het schooljaar 2017-2018 binnen het samenwerkingsverband werd georganiseerd.
 
 ### ART. 21.
 
-<P>§ 1. Indien er geen verwantschap, zoals vermeld in artikel 20, wordt   vastgesteld, dan zal de Commissie Hoger Onderwijs een advies uitbrengen over de   macrodoelmatigheid van de hbo5-opleiding. Dit advies aan de Vlaamse Regering   bevat een bepaling van de frequentie en de regionale spreiding van een aanbod   hbo5-opleidingen, die leiden tot die onderwijskwalificatie.<BR><BR>§ 2. De   Vlaamse Regering kan verdere bepalingen rond de procedure hiervoor   vastleggen.</P>
+Als er geen verwantschap als vermeld in artikel 20 wordt vastgesteld, wordt de hbo5-opleiding die leidt tot de onderwijskwalificatie, als nieuw beschouwd. Tijdens de school- of academiejaren 2016-2017, 2017-2018 en 2018-2019 kunnen de samenwerkingsverbanden geen nieuwe hbo5-opleidingen aanbieden.<br>
+<br>
+De Vlaamse Regering kan vanaf het academiejaar 2017-2018 nieuwe hbo5-opleidingen van start laten gaan in hogescholen, op voorwaarde dat een nieuwe programmatieprocedure voor hbo5-opleidingen decretaal is vastgelegd.
 
 ## [Onderafdeling I/1. Actualisatie van bestaande hbo5-opleidingen (verv. decr. 23 december 2017, art. 60, I: 1 februari 2017)]
 
 ### ART. 21/1.
 
-§ 1. Samenwerkingsverbanden die een hbo5-opleiding willen inrichten op   basis van een onderwijskwalificatie waarvoor de verwantschap of de   macrodoelmatigheid bepaald is, zoals vermeld in artikel 20 en 21, dienen samen   een opleidingsprofiel uit te werken voor die hbo5-opleiding. Het   opleidingsprofiel omvat ten minste:<BR>1° een verwijzing naar het   referentiekader, namelijk de erkende onderwijskwalificatie van niveau 5, en naar   de descriptorelementen context, autonomie en verantwoordelijkheid;<BR>2° het   aantal modules;<BR>3° het aantal studiepunten per module;<BR>4° de verdeling van   de competenties van de erkende onderwijskwalificatie over de domeinspecifieke   leerresultaten en de verdeling van de domeinspecifieke leerresultaten over de   modules binnen de opleiding;<BR>5° als de modules in sequentieel verband dienen   te staan, de volgtijdelijkheid van de modules.<BR><BR>Het aantal studiepunten   per module als vermeld in het eerste lid, 3°, is steeds een geheel getal en   bedraagt minstens drie.<BR><BR>§ 2. De Vlaamse Regering kan verdere bepalingen   rond de procedure hiervoor vastleggen.
+§ 1. De bevoegde dienst van de Vlaamse Regering maakt, na overleg met een vertegenwoordiging van de samenwerkingsverbanden, vermeld in artikel 50, een lijst op met de opleidingen van het hoger beroepsonderwijs waarvan vóór 1 januari 2018 geen verwante, erkende beroepskwalificatie wordt verwacht.<br>
+<br>
+De lijst kan worden aangepast als een beroepskwalificatie erkend wordt door de Vlaamse Regering op een ander tijdstip dan oorspronkelijk verwacht.<br>
+<br>
+§ 2. De samenwerkingsverbanden die onderwijsbevoegdheid bezitten voor een opleiding die is opgenomen in de lijst, vermeld in paragraaf 1, schrijven gezamenlijk de domeinspecifieke leerresultaten voor de opleiding uit op basis van de niveaudescriptoren, vermeld in artikel 6 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur. Ze organiseren daartoe structureel onderling overleg, waarbij ook de bevoegde dienst van de Vlaamse Regering wordt betrokken. De samenwerkingsverbanden kunnen voor deze opdracht een beroep doen op externe experten.<br>
+<br>
+De formulering van de domeinspecifieke leerresultaten is concreet en beroepsgericht en waarborgt de toepassing van Vlaamse, federale en internationale regelgeving over beroepsuitoefening.<br>
+<br>
+§ 3. De beschrijving van de domeinspecifieke leerresultaten wordt gevalideerd door de accreditatieorganisatie. Hiertoe dienen de samenwerkingsverbanden gezamenlijk een vraag tot validatie in bij de accreditatieorganisatie. Deze aanvraag vermeldt de samenwerkingsverbanden die onderwijsbevoegdheid bezitten voor de desbetreffende opleiding maar die de vraag niet wensen mee in te dienen.<br>
+<br>
+§ 4. Als een samenwerkingsverband, waarvan ten minste een van de onderwijsinstellingen onderwijsbevoegdheid bezit voor een opleiding die is opgenomen in de lijst, vermeld in paragraaf 1, de aanvraag, vermeld in paragraaf 3, niet mee ondertekent, verliezen de onderwijsinstellingen van dat samenwerkingsverband de onderwijsbevoegdheid voor de opleiding en bouwen ze de opleiding af conform artikel 49, § 2.<br>
+<br>
+§ 5. De accreditatieorganisatie bezorgt de bevoegde dienst van de Vlaamse Regering de gevalideerde domeinspecifieke leerresultaten met de daarin vervatte competenties voor registratie in een kwalificatiedatabank.<br>
+<br>
+§ 6. De bevoegde dienst van de Vlaamse Regering legt, na advies van de samenwerkingsverbanden, de studieomvang van 90 of 120 studiepunten van de opleiding vast en het aandeel werkplekleren van de opleiding, dat minimaal een derde van de studieomvang bedraagt.<br>
+<br>
+§ 7. De Vlaamse Regering legt een lijst vast van de opleidingen van het hoger beroepsonderwijs die volgens de procedure van dit artikel zijn geactualiseerd.<br>
+<br>
+De lijst bevat per instelling en per studiegebied de volgende gegevens :<br>
+1° de afstudeerrichtingen binnen de opleidingen in kwestie;<br>
+2° de vestiging waar de opleiding of afstudeerrichting in kwestie aangeboden wordt.<br>
+<br>
+Door een opleiding van het hoger beroepsonderwijs op te nemen in de lijst, vermeld in het eerste lid, wordt het door de Vlaamse Regering erkende opleidingsprofiel, het door de Vlaamse minister bevoegd voor Onderwijs goedgekeurde structuurschema of het goedgekeurde leerplan en lessentabel van de desbetreffende opleiding opgeheven. De centra voor volwassenenonderwijs bouwen de daarop gebaseerde opleidingen af conform artikel 49, § 2.<br>
+<br>
+§ 8. Het samenwerkingsverband bepaalt voor elke opleiding een opleidingsprogramma dat bestaat uit een samenhangend geheel van opleidingsonderdelen, en schrijft voor elk opleidingsonderdeel leerresultaten uit.<br>
+<br>
+Bij de vaststelling van het opleidingsprogramma leeft het instellingsbestuur de bij of krachtens de wet, het decreet of de Europese richtlijnen vastgelegde voorwaarden na die de toegang tot bepaalde ambten of beroepen reguleren.<br>
+<br>
+§ 9. Opleidingen, geactualiseerd volgens de procedure van dit artikel, die op een later tijdstip verwant worden verklaard met een of meerdere erkende beroepskwalificaties, waarvoor wordt beslist om een onderwijskwalificatie te ontwikkelen, worden omgevormd volgens de procedure, vermeld in artikel 18.
+
+### ART 21/2.
+
+Opleidingen van het hoger beroepsonderwijs waarvan de bevoegde dienst van de Vlaamse Regering de erkenning van een verwante beroepskwalificatie verwacht vóór 1 januari 2018, worden omgevormd volgens de procedure, vermeld in artikel 18.
 
 ## [Onderafdeling II. Toets nieuwe opleiding - administratieve toets (verv. decr. 12 juli 2013, art. 56, I: 1 juli 2013)]
 
@@ -156,7 +229,11 @@ De&nbsp;accreditatieorganisatie rapporteert jaarlijks over zijn   werkzaamheden 
 
 ### ART. 22/1.
 
-§ 1. Zowel in het toetsingsrapport, zoals vermeld in artikel 22 en het   erkenningsbesluit, zoals bedoeld in artikel 18, § 1, 4°, wordt in voorkomend   geval melding gemaakt van de opleidingsvarianten die op het tijdstip van de   "toets nieuwe hbo5-opleiding" gekend zijn :<BR>1° de instellingen en de   vestigingsplaatsen waar de opleiding aangeboden wordt;<BR>2° de verschillende   doelgroepen die de opleiding wil bereiken en de wijze waarop dit wijzigingen in   het programma met zich meebrengt.<BR><BR>§ 2. Het toetsingsrapport, zoals   vermeld in artikel 22 en het erkenningsbesluit, zoals bedoeld in artikel 18, §   1, 4°, bevatten een beoordeling van elk van de varianten, vermeld in paragraaf   1.
+§ 1. Zowel in het toetsingsrapport, zoals vermeld in artikel 22 en het erkenningsbesluit, zoals bedoeld in artikel 18, § 1, 4°, wordt in voorkomend geval melding gemaakt van de opleidingsvarianten die op het tijdstip van de "toets nieuwe hbo5-opleiding" gekend zijn :<br>
+1° de instellingen en de vestigingsplaatsen waar de opleiding aangeboden wordt;<br>
+2° de verschillende doelgroepen die de opleiding wil bereiken en de wijze waarop dit wijzigingen in het programma met zich meebrengt.<br>
+<br>
+§ 2. Het toetsingsrapport, zoals vermeld in artikel 22 en het erkenningsbesluit, zoals bedoeld in artikel 18, § 1, 3°, bevatten een beoordeling van elk van de varianten, vermeld in paragraaf 1.
 
 ### ART. 22/1.
 
@@ -168,11 +245,11 @@ De&nbsp;accreditatieorganisatie rapporteert jaarlijks over zijn   werkzaamheden 
 
 ### ART. 23/1.
 
-§ 1. De administratieve toets gebeurt door de bevoegde administratie en   heeft betrekking op volgende aspecten :<BR>1° het lidmaatschap van een   samenwerkingsverband, zoals vermeld in artikel 50;<BR>2° de beschikbaarheid van   financiële middelen om het volledige opleidingstraject te kunnen   aanbieden.<BR><BR>§ 2. De Vlaamse Regering kan verdere bepalingen rond de   procedure hiervoor vastleggen.<BR>
+...
 
 ### ART. 23/2.
 
-In het dossier dat ingediend wordt voor de "toets nieuwe hbo5-opleiding"   en de administratieve toets moet het samenwerkingsverband aangeven in welke   vestigingsplaatsen, met vermelding van de onderwijsinstelling, de opleiding zal   georganiseerd worden.
+In het dossier dat ingediend wordt voor de "toets nieuwe hbo5-opleiding"&nbsp;moet het samenwerkingsverband aangeven in welke vestigingsplaatsen, met vermelding van de onderwijsinstelling, de opleiding zal georganiseerd worden.
 
 ## HOOFDSTUK II. Kwaliteitszorg
 
@@ -312,7 +389,25 @@ Indien het accreditatiebesluit over een opleiding negatief is, kan het   instell
 
 ### ART. 51.
 
-Een samenwerkingsverband als vermeld in artikel 50, § 1, van dit decreet,   vervult de volgende opdrachten :<BR>1° de gezamenlijke organisatie van   opleidingen van het hoger beroepsonderwijs;<BR>2° het vastleggen van een   gezamenlijke onderwijs- en examenregeling en evaluatiereglement voor deze   opleidingen;<BR>3° het ontwikkelen van een gemeenschappelijk intern   kwaliteitszorgsysteem voor de opleidingen van het hoger beroepsonderwijs;<BR>4°   het aanvragen van de accreditatie voor opleidingen van het hoger   beroepsonderwijs als gezamenlijke opleidingen;<BR>5° het indienen van het   dossier voor de omvorming van de opleidingen, vermeld in artikel 160 van dit   decreet. Indien er binnen het samenwerkingsverband meerdere   onderwijsinstellingen de onderwijsbevoegdheid hebben voor dezelfde opleiding, en   indien deze opleiding verwant is bepaald met meerdere onderwijskwalificaties van   niveau 5, zoals omschreven in artikel 20, wordt in het omvormingsdossier   gemotiveerd welke bestaande opleiding wordt omgevormd naar welke nieuwe   opleiding;<BR>6° het aanvragen van de erkenning van een nieuwe opleiding   overeenkomstig de bepalingen van dit decreet;<BR>7° de ontwikkeling van het   curriculum met inbegrip van het uittekenen van vervolgtrajecten in inhoudelijk   aansluitende professionele bacheloropleidingen;<BR>8° de opdeling van de modules   van het opleidingsprofiel in opleidingsonderdelen en het vastleggen van het   aantal lestijden en studiepunten per opleidingsonderdeel;<BR>9° de   optimalisering van de dienstverlening voor de cursisten;<BR>10° de programmatie   van het aanbod met als doelstelling dat de verschillende participerende   instellingen - elk vanuit hun sterkte - zoveel mogelijk verschillende   doelgroepen bereiken;<BR>11° de optimalisering van de inzetbaarheid en   professionalisering van het personeel, binnen de grenzen van de regelgeving die   op de betrokken personeelsleden van toepassing is;<BR>12° het delen van gebouwen   en technische infrastructuur;<BR>13° de uitbouw van een   cursistenbegeleiding;<BR>14° het beschikbaar maken van de sociale voorzieningen   voor de cursisten;<BR>15° het uitwerken en evalueren van een kwaliteitsvolle   EVC-procedure;<BR>16° het uitwerken van de communicatie(strategie) over het   aanbod hoger beroepsonderwijs;<BR>17° de organisatie van de toelatingsproef,   vermeld in artikel 34, § 2, van het decreet van 15 juni 2007 betreffende het   volwassenenonderwijs en artikel II.177 van de Codex Hoger   Onderwijs.<BR>.
+Een samenwerkingsverband als vermeld in artikel 50, § 1, van dit decreet, vervult de volgende opdrachten :<br>
+1° de gezamenlijke organisatie van opleidingen van het hoger beroepsonderwijs;<br>
+2° het vastleggen van een gezamenlijke onderwijs- en examenregeling en evaluatiereglement voor deze opleidingen;<br>
+3° het ontwikkelen van een gemeenschappelijk intern kwaliteitszorgsysteem voor de opleidingen van het hoger beroepsonderwijs;<br>
+4° het aanvragen van de accreditatie voor opleidingen van het hoger beroepsonderwijs als gezamenlijke opleidingen;<br>
+5° het indienen van het dossier voor de omvorming van de opleidingen, vermeld in artikel 160 van dit decreet. Indien er binnen het samenwerkingsverband meerdere onderwijsinstellingen de onderwijsbevoegdheid hebben voor dezelfde opleiding, en indien deze opleiding verwant is bepaald met meerdere onderwijskwalificaties van niveau 5, zoals omschreven in artikel 20, wordt in het omvormingsdossier gemotiveerd welke bestaande opleiding wordt omgevormd naar welke nieuwe opleiding;<br>
+6° het aanvragen van de erkenning van een nieuwe opleiding overeenkomstig de bepalingen van dit decreet;<br>
+7° de ontwikkeling van het curriculum met inbegrip van het uittekenen van vervolgtrajecten in inhoudelijk aansluitende professionele bacheloropleidingen;<br>
+8° de opdeling van de opleiding in opleidingsonderdelen, het vastleggen van het aantal lestijden en studiepunten per opleidingsonderdeel en het uitschrijven van leerresultaten voor elk opleidingsonderdeel;<br>
+9° de optimalisering van de dienstverlening voor de cursisten;<br>
+10° de programmatie van het aanbod met als doelstelling dat de verschillende participerende instellingen - elk vanuit hun sterkte - zoveel mogelijk verschillende doelgroepen bereiken;<br>
+11° de optimalisering van de inzetbaarheid en professionalisering van het personeel, binnen de grenzen van de regelgeving die op de betrokken personeelsleden van toepassing is;<br>
+12° het delen van gebouwen en technische infrastructuur;<br>
+13° de uitbouw van een cursistenbegeleiding;<br>
+14° het beschikbaar maken van de sociale voorzieningen voor de cursisten;<br>
+15° het uitwerken en evalueren van een kwaliteitsvolle EVC-procedure;<br>
+16° het uitwerken van de communicatie(strategie) over het aanbod hoger beroepsonderwijs;<br>
+17° de organisatie van de toelatingsproef, vermeld in artikel 34, § 2, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en artikel II.177 van de Codex Hoger Onderwijs.<br>
+.
 
 ### ART. 52.
 
