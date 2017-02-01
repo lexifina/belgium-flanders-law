@@ -183,7 +183,7 @@ De personeelsleden hebben het recht op loopbaanonderbreking om palliatieve verzo
 
 ### ART. 30.
 
-De onderbrekingsperiode voor een volledige of een gedeeltelijke loopbaanonderbreking voor palliatieve zorgen kan alleen opgenomen worden in een periode van één maand, eventueel verlengbaar met één maand. <br /><br />
+De onderbrekingsperiode voor een volledige of een gedeeltelijke loopbaanonderbreking voor palliatieve zorgen kan alleen opgenomen worden in een periode van één maand. Die periode kan twee keer worden verlengd met één maand.
 
 ### ART. 31.
 
