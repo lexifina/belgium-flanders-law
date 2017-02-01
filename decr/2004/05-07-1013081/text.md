@@ -209,7 +209,7 @@ Het sectoraal partnerschap stelt een huishoudelijk reglement op.
 
 ### ART. 18.
 
-Het Vlaams Partnerschap Duaal Leren kan voor de uitvoering van zijn opdrachten betreffende de overeenkomst van alternerende opleiding een delegatie van bevoegdheid verlenen aan personeelsleden van het agentschap.
+Het Vlaams Partnerschap Duaal Leren kan voor de uitvoering van zijn opdrachten betreffende de overeenkomsten tot uitvoering van de alternerende opleiding een delegatie van bevoegdheid verlenen aan personeelsleden van het agentschap.
 
 ## AFDELING 3 BIJZONDERE COMMISSIES
 
