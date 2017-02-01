@@ -187,8 +187,8 @@ In uitvoering van de herstelplannen, gebeuren de aanlandingen van die vissoorten
 ### ART 7.
 
 § 1. De volgende minimum instandhoudingsreferentiegroottes zijn van toepassing vanaf 1 januari 2017:<br>
-1° voor tarbot: 30 cm aanvoerlengte;<br>
-2° voor griet: 30 cm aanvoerlengte;<br>
+1° voor tarbot: 32 cm aanvoerlengte;<br>
+2° voor griet: 32 cm aanvoerlengte;<br>
 3° voor tongschar : 25 cm aanvoerlengte;<br>
 4° voor schar: 23 cm aanvoerlengte;<br>
 5° voor bot: 25 cm aanvoerlengte;<br>
@@ -404,7 +404,9 @@ De hoeveelheid vermeld in het eerste lid wordt verdubbeld voor een vissersvaartu
 
 ### ART 23.
 
-§ 1. De aanwezigheid van een vissersvaartuig in het ICES-gebied VIIa is verboden in de periode van 1 januari 2017 tot en met 31 december 2017.<br>
+§ 1. De aanwezigheid van een vissersvaartuig in het ICES-gebied VIIa is verboden in de periode van 1 januari 2017 tot en met 31&nbsp;januari 2017.<br>
+<br>
+In de periode van 1 februari 2017 tot en met 31 oktober 2017 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden een totale tongvangst te realiseren die groter is dan 500 kg.<br>
 <br>
 § 2. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in het ICES-gebied VIId voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 240 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
@@ -547,6 +549,10 @@ De beperkingen vermeld in het eerste en tweede lid zijn niet van toepassing zola
 De beperkingen, vermeld in het eerste lid, zijn niet van toepassing zolang geen 60% van het quotum in kwestie, inclusief quotaruilen, is opgebruikt.<br>
 <br>
 § 11. De de minimis voor Noorse kreeft in de ICES-gebied II, IV bedraagt 63 ton.<br>
+<br>
+§ 12. In de periode van 1 februari 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
+<br>
+In de periode van 1 februari 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
 &nbsp;
 
 ## Afdeling 3 Inruilen van dagen
