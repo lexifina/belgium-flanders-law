@@ -70,7 +70,7 @@ In afwijking van artikel 5 wordt de volledige en de gedeeltelijke   onderbreking
 
 ### ART. 12.
 
-§ 1. In afwijking van artikel 5 hebben de personeelsleden het recht om hun beroepsloopbaan volledig of gedeeltelijk te onderbreken voor een periode van één maand, eventueel verlengbaar met één maand, voor het verstrekken van palliatieve verzorging aan een persoon.<br>
+§ 1. In afwijking van artikel 5 hebben de personeelsleden het recht om hun beroepsloopbaan volledig of gedeeltelijk te onderbreken voor een periode van één maand, eventueel verlengbaar met één maand, voor het verstrekken van palliatieve verzorging aan een persoon. Deze periode kan twee keer worden verlengd met één maand.<br>
 <br>
 Voor de toepassing van het eerste lid wordt onder palliatieve verzorging verstaan elke vorm van bijstand en inzonderheid medische, sociale, administratieve en psychologische bijstand en verzorging van personen die lijden aan een ongeneeslijke ziekte en die zich in een terminale fase bevinden.<br>
 <br>
