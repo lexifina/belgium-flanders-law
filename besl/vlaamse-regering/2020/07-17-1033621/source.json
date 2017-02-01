@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033621,
+  "title": "Besluit van de Vlaamse Regering van 2020-07-17 tot wijziging van het besluit van de Vlaamse regering van 24 mei 2002 betreffende de onderbreking van de beroepsloopbaan van de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool en het besluit van de Vlaamse Regering van 9 september 2011 betreffende de loopbaanonderbreking van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding, wat betreft het ouderschapsverlof met een tiende, de flexibilisering van de loopbaanonderbreking, de loopbaanonderbreking voor mantelzorg en het corona-ouderschapsverlof en het besluit van de Vlaamse Regering van 30 augustus 2016 betreffende het zorgkrediet voor de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding wat het corona-ouderschapsverlof betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033621/VolledigDocument?datum=2017-02-01",
+  "source_sha256": "68a99a24cee5fc1a932acccbca2110d49c41943cd33a0150e561aa095edc58ce",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033621&param=informatie",
+  "as_of": "2017-02-01",
+  "made": "2020-07-17",
+  "gazette": "2020-08-25",
+  "numac": 2020042812,
+  "document_start": "2020-09-01",
+  "document_end": null,
+  "in_force": "2017-02-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
