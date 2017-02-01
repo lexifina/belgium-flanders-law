@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028122,
+  "title": "Besluit van de Vlaamse Regering van 2017-03-10 tot wijziging van de indeling van studiegebieden in opleidingen van het secundair volwassenenonderwijs en van de regelgeving betreffende de studiebekrachtiging en de modulaire structuur van het secundair volwassenenonderwijs voor de studiegebieden algemene vorming, handel en mechanica-elektriciteit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028122/VolledigDocument?datum=2017-02-01",
+  "source_sha256": "6fe7c1dcc3a3b79ce8dcc631eb0eada0f4540ea01128e545f1f17e11ee71478c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028122&param=informatie",
+  "as_of": "2017-02-01",
+  "made": "2017-03-10",
+  "gazette": "2017-04-10",
+  "numac": 2017040175,
+  "document_start": "2017-02-01",
+  "document_end": null,
+  "in_force": "2017-02-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2017-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
