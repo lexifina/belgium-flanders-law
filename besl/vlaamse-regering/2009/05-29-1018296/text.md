@@ -14,11 +14,11 @@ In dit besluit wordt verstaan onder :<BR>1° FWO: het privaatrechtelijk   vormge
 
 ### ART. 3.
 
-De regeling voor toekenning van doctoraatsbeurzen staat open voor :<br />1° kandidaat-bursalen die onderdaan zijn van een lidstaat van de Europese Economische Ruimte of onderdaan zijn van Zwitserland, evenals<br />2° kandidaat-bursalen die geen onderdaan zijn van een lidstaat van de Europese Economische Ruimte of van Zwitserland, maar houder zijn van een diploma dat voldoet aan de diplomavereisten voor kandidaatstelling en uitgereikt werd in de Europese Economische Ruimte of Zwitserland.
+De kandidaat-bursaal moet houder zijn van een masterdiploma, uitgereikt door de daartoe bevoegde instellingen van of gevestigd in een van de landen van de Europese Economische Ruimte of in Zwitserland. De aanvragers moeten houder zijn van een diploma dat minstens evenwaardig is aan een Master-diploma dat aansluit op een Bachelordiploma en uitgereikt werd in België. Buitenlandse diploma's dienen als gelijkwaardig te worden erkend met een Vlaams Master-diploma overeenkomstig de Codex Hoger Onderwijs van 11 oktober 2013, de Europese richtlijnen of een bilateraal akkoord.
 
 ### ART. 4.
 
-<P>De aanvragers moeten houder zijn van een diploma dat minstens evenwaardig is   aan een Master-diploma dat aansluit op een Bachelordiploma en uitgereikt werd in   België. Buitenlandse diploma's dienen als gelijkwaardig te worden erkend met een   Vlaams Master-diploma overeenkomstig de Codex Hoger Onderwijs van 11 oktober   2013, de Europese richtlijnen of een bilateraal akkoord.</P>
+...
 
 ### ART. 5.
 
