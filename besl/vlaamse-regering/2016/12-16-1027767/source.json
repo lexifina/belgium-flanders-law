@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027767,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-16 houdende wijziging van het Energiebesluit van 19 november 2010, wat betreft warmtemetingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027767/VolledigDocument?datum=2017-02-02",
+  "source_sha256": "ac372788e2566ae5b8b002f8c9b576b2ae9cd72b2c5ae1ada00f894e1f7d1cdf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027767&param=informatie",
+  "as_of": "2017-02-02",
+  "made": "2016-12-16",
+  "gazette": "2017-01-23",
+  "numac": 2017010058,
+  "document_start": "2017-02-02",
+  "document_end": null,
+  "in_force": "2017-02-02",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-02-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
