@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027765,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-02 tot wijziging van artikel 3 van het besluit van de Vlaamse Regering van 29 mei 2009 tot regeling van de toekenning van doctoraatsbeurzen voor de uitvoering van projecten van strategisch basisonderzoek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027765/VolledigDocument?datum=2017-02-02",
+  "source_sha256": "0f119360b78e4113aef5d94f34654ac56a8361a75b6766d63f9e2b79177e8dea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027765&param=informatie",
+  "as_of": "2017-02-02",
+  "made": "2016-12-02",
+  "gazette": "2017-01-23",
+  "numac": 2017010056,
+  "document_start": "2017-02-02",
+  "document_end": null,
+  "in_force": "2017-02-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-02-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
