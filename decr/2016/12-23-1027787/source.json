@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027787,
+  "title": "Decreet van 2016-12-23 tot bekrachtiging van het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende het tijdelijke project \"schoolbank op de werkplek\" rond duaal leren in de leertijd",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027787/VolledigDocument?datum=2017-02-05",
+  "source_sha256": "360f047e63522ea064968fb3d52e4fff15ef8d034702b838e02ae77ef27d3c98",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027787&param=informatie",
+  "as_of": "2017-02-05",
+  "made": "2016-12-23",
+  "gazette": "2017-01-26",
+  "numac": 2017040017,
+  "document_start": "2017-02-05",
+  "document_end": null,
+  "in_force": "2017-02-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-02-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
