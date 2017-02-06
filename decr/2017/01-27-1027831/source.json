@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027831,
+  "title": "Decreet van 2017-01-27 houdende wijziging van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027831/VolledigDocument?datum=2017-02-06",
+  "source_sha256": "8e5c8531953763a44c8102ebb8b8f31edff56b1c7a079b5514f31905bd93e788",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027831&param=informatie",
+  "as_of": "2017-02-06",
+  "made": "2017-01-27",
+  "gazette": "2017-02-06",
+  "numac": 2017010464,
+  "document_start": "2017-02-06",
+  "document_end": null,
+  "in_force": "2017-02-06",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2017-02-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
