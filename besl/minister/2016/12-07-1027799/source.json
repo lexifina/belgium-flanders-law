@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027799,
+  "title": "Ministerieel besluit van 2016-12-07 tot wijziging van artikelen 1 en 2 van het ministerieel besluit van 26 juli 2011 tot erkenning van centra voor varkens ter uitvoering van artikelen 35 en 59, § 2, van het Fokkerijbesluit van 19 maart 2010",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027799/VolledigDocument?datum=2017-02-06",
+  "source_sha256": "a230f918029475bb26313d0e7515a6e90f131a59316a8f49ac34f98093deb9f0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027799&param=informatie",
+  "as_of": "2017-02-06",
+  "made": "2016-12-07",
+  "gazette": "2017-01-27",
+  "numac": 2017020089,
+  "document_start": "2017-02-06",
+  "document_end": null,
+  "in_force": "2017-02-06",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-02-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
