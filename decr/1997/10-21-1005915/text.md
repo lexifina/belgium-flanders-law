@@ -370,7 +370,13 @@ De vrederechter van het kanton waarin het grootste gedeelte van het natuurinrich
 
 ### ART. 48.
 
-<P>§ 1. Voor een gebied buiten de speciale beschermingszones kan een   managementplan vastgesteld worden voor het bijdragen tot het bereiken van de   instandhoudingsdoelstellingen of van gebiedsgerichte doelstellingen inzake   natuurbehoud.<BR><BR>De managementplannen, vermeld in het eerste lid, worden   vastgesteld door de Vlaamse Regering of haar gemachtigde.<BR><BR>§ 2. De Vlaamse   Regering bepaalt de vorm en de inhoud van de managementplannen, vermeld in   paragraaf 1, alsook de procedure die leidt tot de vaststelling, herziening of   opheffing ervan.</P>
+<p>§ 1. Voor een gebied buiten de speciale beschermingszones kan een managementplan vastgesteld worden voor het bijdragen tot het bereiken van de instandhoudingsdoelstellingen of van gebiedsgerichte doelstellingen inzake natuurbehoud.<br>
+<br>
+De managementplannen, vermeld in het eerste lid, worden voorlopig vastgesteld door de Vlaamse Regering of haar gemachtigde.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de vorm en de inhoud van de managementplannen, vermeld in paragraaf 1, alsook de procedure die leidt tot de vaststelling, herziening of opheffing ervan met inachtneming van hetgeen bepaald wordt in paragraaf 3.<br>
+<br>
+§ 3. Het agentschap organiseert na de voorlopige vaststelling van het managementplan als vermeld in paragraaf 1, tweede lid, een openbaar onderzoek over het voorlopig vastgestelde managementplan, in de gevallen en volgens de regels zoals bepaald in artikel 50decies/1.</p>
 
 ### ART. 49.
 
@@ -392,39 +398,201 @@ De vrederechter van het kanton waarin het grootste gedeelte van het natuurinrich
 
 ### ART. 50ter.
 
-§ 1. Voor het hele grondgebied van het Vlaamse Gewest wordt een Vlaams   Natura 2000-programma opgesteld.<BR><BR>Het Vlaams Natura 2000-programma   doorloopt opeenvolgende cyclussen van zes jaar en heeft een tijdshorizon tot   2050.<BR><BR>§ 2. Het Vlaams Natura 2000-programma wordt opgesteld met het oog   op:<BR>1° het gradueel realiseren van de gewestelijke   instandhoudingsdoelstellingen;<BR>2° het vermijden of het stoppen van de   verslechtering van de natuurkwaliteit en het natuurlijke milieu van de Europees   te beschermen habitats en de leefgebieden van Europees te beschermen soorten,   ter uitvoering van artikel 36ter, § 1, van dit decreet;<BR>3° het vermijden of   het stoppen van de betekenisvolle verstoring van de Europees te beschermen   soorten en hun leefgebieden, ter uitvoering van artikel 36ter, § 2.<BR><BR>§ 3.   Het Vlaams Natura 2000-programma bevat ten minste:<BR>1° een taakstelling op   niveau van het Vlaamse Gewest die bestaat uit de inspanningen met betrekking tot   het natuurbehoud, die nodig worden geacht ter realisatie van de   instandhoudingsdoelstellingen tijdens de programmacyclus in kwestie. De   taakstelling bevat een bindend gedeelte, namelijk het deel van de inspanningen   dat tijdens de programmacyclus in kwestie moet worden gerealiseerd, en een   richtinggevend deel, namelijk het deel van de inspanningen waarvan de realisatie   tijdens de programmacyclus in kwestie wordt nagestreefd en dat geheel of   gedeeltelijk in een latere cyclus kan worden gerealiseerd;<BR>2° een opgave van   de acties voor de realisatie van de taakstelling;<BR>3° een overzicht van de   actoren die een bijdrage leveren tot:<BR>a) de realisatie van de acties;<BR>b)   de coördinatie van de uitvoering van het programma;<BR>c) alle overige door de   Vlaamse Regering te bepalen aspecten in verband met de uitvoering van het   programma;<BR>4° een overzicht van de geraamde uitgaven voor de uitvoering van   het programma.<BR><BR>De taakstelling en de acties zoals bedoeld in eerste lid,   1° en 2°, omvatten tevens een programma van aanduiding van zones waar   instandhoudingsdoelstellingen en instandhoudingsmaatregelen dienen gerealiseerd   te worden buiten de speciale beschermingszones en van de opmaak van   managementplannen voor deze zones. De Vlaamse Regering duidt deze zones aan voor   1 januari 2019 en bepaalt nadere regels betreffende de procedure voor de   aanduiding van deze zones.<BR><BR>§ 4. Ter uitvoering van het Vlaams Natura   2000-programma zal een programmatische aanpak worden ontwikkeld ter vermindering   van een of meer milieudrukken, afkomstig van in Vlaanderen aanwezige bronnen,   met het oog op de realisatie van de instandhoudingsdoelstellingen en het   voorkomen van de verslechtering van de natuurkwaliteit en het natuurlijk milieu   van de Europees te beschermen habitats en Europees te beschermen soorten en hun   leefgebieden.<BR><BR>Deze programmatische aanpak omvat ten minste:<BR>1° een   gebiedsgerichte analyse van de betreffende milieudruk. Deze houdt minstens in:   een analyse van de omvang van de milieudruk, de activiteiten die bijdragen, de   verwachte ontwikkeling en de socio-economische context;<BR>2° een plan van   aanpak, gebaseerd op de in punt 1° vermelde analyse, met betrekking tot het   ontwikkelen van:<BR>a) een brongericht beleid dat zich richt op het reduceren   van de milieudruk tot het niveau dat noodzakelijk is voor het bereiken van de   gunstige staat van instandhouding van de Europees te beschermen habitats en   Europees te beschermen soorten en hun leefgebieden;<BR>b) een herstelbeleid om   een verslechtering van de natuurkwaliteit en het natuurlijk milieu van de   Europees te beschermen habitats en Europees te beschermen soorten en hun   leefgebieden ten gevolge van de milieudruk te voorkomen.<BR><BR>De Vlaamse   Regering kan nadere regels vaststellen met betrekking tot het ontwikkelen van   een programmatische aanpak zoals vermeld in het eerste lid.<BR><BR>§ 5. Het   Vlaams Natura 2000-programma vormt het kader voor de managementplannen Natura   2000, vermeld in artikel 50septies.<BR><BR>[NOOT: Artikel 40 van het decreet van   9 mei 2014 tot wijziging van de regelgeving inzake natuur en bos dat deze   bepaling invoegt, werd vernietigd bij arrest nr. 57/2016 van 28 april 2016 in   zoverre deze bepaling niet voorziet in de inspraak voor het publiek of de   Vlaamse Regering niet machtigt daarin te voorzien]<BR>
+§ 1. Voor het hele grondgebied van het Vlaamse Gewest wordt door de Vlaamse Regering een Vlaams Natura 2000-programma vastgesteld, overeenkomstig artikel 50quater.<br>
+<br>
+Het Vlaams Natura 2000-programma doorloopt opeenvolgende cyclussen van maximaal zes jaar en heeft een tijdshorizon tot 2050.<br>
+<br>
+§ 2. Het Vlaams Natura 2000-programma wordt opgesteld met het oog op:<br>
+1° het gradueel realiseren van de gewestelijke instandhoudingsdoelstellingen;<br>
+2° het vermijden of het stoppen van de verslechtering van de natuurkwaliteit en het natuurlijke milieu van de Europees te beschermen habitats en de leefgebieden van Europees te beschermen soorten, ter uitvoering van artikel 36ter, § 2, van dit decreet;<br>
+3° het vermijden of het stoppen van de betekenisvolle verstoring van de Europees te beschermen soorten en hun leefgebieden, ter uitvoering van artikel 36ter, § 2.<br>
+<br>
+§ 3. Het Vlaams Natura 2000-programma bevat ten minste:<br>
+1° een taakstelling op niveau van het Vlaamse Gewest die bestaat uit de inspanningen met betrekking tot het natuurbehoud, die nodig worden geacht ter realisatie van de instandhoudingsdoelstellingen tijdens de programmacyclus in kwestie. De taakstelling bevat een bindend gedeelte, namelijk het deel van de inspanningen dat tijdens de programmacyclus in kwestie moet worden gerealiseerd, en een richtinggevend deel, namelijk het deel van de inspanningen waarvan de realisatie tijdens de programmacyclus in kwestie wordt nagestreefd en dat geheel of gedeeltelijk in een latere cyclus kan worden gerealiseerd;<br>
+2° een opgave van de acties voor de realisatie van de taakstelling;<br>
+3° een overzicht van de actoren die een bijdrage leveren tot:<br>
+a) de realisatie van de acties;<br>
+b) de coördinatie van de uitvoering van het programma;<br>
+c) alle overige door de Vlaamse Regering te bepalen aspecten in verband met de uitvoering van het programma;<br>
+4° een overzicht van de geraamde uitgaven voor de uitvoering van het programma.<br>
+<br>
+De taakstelling en de acties als vermeld in het eerste lid, 1° en 2°, omvatten tevens een programma van aanduiding van zones waar instandhoudingsdoelstellingen en instandhoudingsmaatregelen dienen gerealiseerd te worden buiten de speciale beschermingszones en van de opmaak van managementplannen voor deze zones. De Vlaamse Regering duidt deze zones aan voor 1 januari 2019 en bepaalt nadere regels betreffende de procedure voor de aanduiding van deze zones.<br>
+<br>
+§ 4. Ter uitvoering van het Vlaams Natura 2000-programma wordt door de Vlaamse Regering een programmatische aanpak vastgesteld overeenkomstig artikel 50quater ter vermindering van een of meer milieudrukken, afkomstig van in het Vlaamse Gewest aanwezige bronnen, met het oog op de realisatie van de instandhoudingsdoelstellingen en het voorkomen van de verslechtering van de natuurkwaliteit en het natuurlijk milieu van de Europees te beschermen habitats en Europees te beschermen soorten en hun leefgebieden.<br>
+<br>
+Deze programmatische aanpak omvat ten minste:<br>
+1° een gebiedsgerichte analyse van de betreffende milieudruk. Deze analyse omschrijft de omvang van de milieudruk, de activiteiten die bijdragen, de verwachte ontwikkeling en de socio-economische context;<br>
+2° een plan van aanpak, gebaseerd op de in punt 1° vermelde analyse, met betrekking tot het ontwikkelen van:<br>
+a) een brongericht beleid dat zich richt op het reduceren van de milieudruk tot het niveau dat noodzakelijk is voor het bereiken van de gunstige staat van instandhouding van de Europees te beschermen habitats en Europees te beschermen soorten en hun leefgebieden;<br>
+b) een herstelbeleid om een verslechtering van de natuurkwaliteit en het natuurlijk milieu van de Europees te beschermen habitats en Europees te beschermen soorten en hun leefgebieden ten gevolge van de milieudruk te voorkomen.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen met betrekking tot het ontwikkelen van een programmatische aanpak zoals vermeld in het eerste lid.<br>
+<br>
+§ 5. Het Vlaams Natura 2000-programma vormt het kader voor de managementplannen Natura 2000, vermeld in artikel 50septies.
 
 ### ART. 50quater.
 
-§ 1. De Vlaamse Regering stelt het Vlaams Natura 2000-programma   vast.<BR><BR>§ 2. Het agentschap is belast met de voorbereiding van het Vlaams   Natura 2000-programma.<BR><BR>De Vlaamse Regering of haar gemachtigde kan een   werkgroep instellen die het agentschap bijstaat bij de voorbereiding van het   programma, en bepaalt de samenstelling ervan.<BR><BR>§ 3. Het programma wordt   ten minste om de zes jaar geëvalueerd op basis van de realisatiegraad van de   gewestelijke instandhoudingsdoelstellingen.<BR><BR>Met inachtneming van die   evaluatie wordt aansluitend een nieuw programma vastgesteld voor de volgende   cyclus van zes jaar. Het bestaande programma blijft in ieder geval van kracht   tot het nieuwe programma is vastgesteld conform paragraaf 1.<BR><BR>§ 4. Ten   minste om de twee jaar wordt een voortgangsrapport Vlaams Natura 2000-programma   opgesteld. De instantie, vermeld in artikel 50quinquies, is belast met de opmaak   van het voortgangsrapport.<BR><BR>Het voortgangsrapport wordt bezorgd aan de   door de Vlaamse Regering aangewezen instanties.<BR><BR>[NOOT: Artikel 41 van het   decreet van 9 mei 2014 tot wijziging van de regelgeving inzake natuur en bos dat   deze bepaling invoegt, werd vernietigd bij arrest nr. 57/2016 van 28 april 2016   in zoverre deze bepaling niet voorziet in de inspraak voor het publiek of de   Vlaamse Regering niet machtigt daarin te voorzien]<BR>
+§ 1. De Vlaamse Regering stelt voorlopig vast:<br>
+1° het Vlaams Natura 2000-programma;<br>
+2° elke programmatische aanpak als vermeld in artikel 50ter, § 4.<br>
+<br>
+§ 2. Het agentschap is belast met de voorbereiding van het Vlaams Natura 2000-programma.<br>
+<br>
+De Vlaamse Regering of haar gemachtigde kan een werkgroep instellen die het agentschap bijstaat bij de voorbereiding van het programma, en bepaalt de samenstelling ervan.<br>
+<br>
+§ 3. Het agentschap organiseert na de voorlopige vaststelling als vermeld in paragraaf 1 een openbaar onderzoek over het voorlopig vastgestelde Vlaams Natura 2000-programma en over elke programmatische aanpak als vermeld in artikel 50ter, § 4, in de gevallen en volgens de regels zoals bepaald in artikel 50decies/1.<br>
+<br>
+§ 4. Het definitief vastgestelde programma als vermeld in artikel 50decies/1, § 6, eerste lid, wordt geëvalueerd op basis van de realisatiegraad van de gewestelijke instandhoudingsdoelstellingen.<br>
+<br>
+Met inachtneming van die evaluatie wordt aansluitend een nieuw programma vastgesteld voor de volgende programmacyclus volgens de regels bepaald in artikel 50ter tot en met 50sexies. Het bestaande programma blijft in ieder geval van kracht tot het nieuwe programma definitief is vastgesteld conform artikel 50decies/1, § 6, eerste lid.<br>
+<br>
+Indien het nieuwe definitief vastgestelde programma een of meer wijzigingen noodzaakt van een in uitvoering van het vorige programma vastgestelde programmatische aanpak als vermeld in artikel 50ter, § 4, dan wordt die programmatische aanpak opnieuw vastgesteld volgens de regels bepaald in artikel 50ter tot en met 50sexies. De bestaande programmatische aanpak blijft in ieder geval van kracht tot de bijgestelde programmatische aanpak definitief is vastgesteld.<br>
+<br>
+§ 5. Ten minste om de twee jaar wordt een voortgangsrapport Vlaams Natura 2000-programma opgesteld. De instantie, vermeld in artikel 50quinquies, is belast met de opmaak van het voortgangsrapport.<br>
+<br>
+Het voortgangsrapport wordt bezorgd aan de door de Vlaamse Regering aangewezen instanties.
 
 ### ART. 50quinquies.
 
-De Vlaamse Regering of haar gemachtigde duidt een gewestelijke   overleginstantie aan die ten minste instaat voor:<BR>1° de voortgangsbewaking   van het Vlaams Natura 2000-programma;<BR>2° het verlenen van advies over de   managementplannen Natura 2000;<BR>3° het verschaffen van aanbevelingen over   beleidsmatige problemen bij de realisatie van het   instandhoudingsbeleid.<BR><BR>De overleginstantie is ten minste samengesteld uit   vertegenwoordigers van:<BR>1° het agentschap;<BR>2° de Vlaamse administraties   die betrokken zijn bij de inrichting en het beheer van het buitengebied;<BR>3°   de relevante sectoren van het buitengebied.<BR><BR>Het agentschap, vermeld in   het tweede lid, 1°, heeft tot taak de werkzaamheden van de instantie te   organiseren en aan te sturen.<BR><BR>[NOOT: Artikel 42 van het decreet van 9 mei   2014 tot wijziging van de regelgeving inzake natuur en bos dat deze bepaling   invoegt, werd vernietigd bij arrest nr. 57/2016 van 28 april 2016 in zoverre   deze bepaling niet voorziet in de inspraak voor het publiek of de Vlaamse   Regering niet machtigt daarin te voorzien]<BR>
+De Vlaamse Regering of haar gemachtigde duidt een gewestelijke overleginstantie aan die ten minste instaat voor:<br>
+1° de voortgangsbewaking van het Vlaams Natura 2000-programma;<br>
+2° het verlenen van een gemotiveerd advies overeenkomstig artikel 50decies/1, § 5, tweede lid, over het Vlaams Natura 2000-programma, elke programmatische aanpak ter vermindering van een of meer milieudrukken, de managementplannen Natura 2000 en de managementplannen als vermeld in artikel 48, § 1;<br>
+3° het verschaffen van aanbevelingen over beleidsmatige problemen bij de realisatie van het instandhoudingsbeleid.<br>
+<br>
+De overleginstantie is ten minste samengesteld uit vertegenwoordigers van:<br>
+1° het agentschap;<br>
+2° de Vlaamse administraties die betrokken zijn bij de inrichting en het beheer van het buitengebied;<br>
+3° de relevante sectoren van het buitengebied.<br>
+<br>
+Het agentschap, vermeld in het tweede lid, 1°, heeft tot taak de werkzaamheden van de instantie te organiseren en aan te sturen.
 
 ### ART. 50sexies.
 
-De Vlaamse Regering of haar gemachtigde draagt er zorg voor dat een ruime   bekendheid wordt gegeven aan het Vlaams Natura 2000-programma en het   voortgangsrapport Vlaams Natura 2000-programma.<BR><BR>De Vlaamse Regering kan   nadere regels bepalen met betrekking tot:<BR>1° de inhoud, de procedure tot   opmaak, de evaluatie en de bekendmaking van het Vlaams Natura   2000-programma;<BR>2° de inhoud, de vorm en de bekendmaking van het   voortgangsrapport Vlaams Natura 2000-programma;<BR>3° de samenstelling, werking   en opdracht van de overleginstantie, vermeld in artikel 50quinquies;<BR>4° de   aspecten van uitvoering van het programma, als vermeld in artikel 50ter, § 3,   3°, c), waaraan actoren, als vermeld in artikel 50ter, § 3, 3°, een bijdrage   kunnen leveren en de wijze waarop dat engagement wordt geformaliseerd;<BR>5° de   afstemming van het Vlaams Natura 2000-programma met andere   maatregelenprogramma's of plannen.<BR><BR>[NOOT: Artikel 43 van het decreet van   9 mei 2014 tot wijziging van de regelgeving inzake natuur en bos dat deze   bepaling invoegt, werd vernietigd bij arrest nr. 57/2016 van 28 april 2016 in   zoverre deze bepaling niet voorziet in de inspraak voor het publiek of de   Vlaamse Regering niet machtigt daarin te voorzien]<BR>
+De Vlaamse Regering of haar gemachtigde draagt er zorg voor dat een ruime bekendheid wordt gegeven aan het Vlaams Natura 2000-programma en het voortgangsrapport Vlaams Natura 2000-programma.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen met betrekking tot:<br>
+1° de inhoud, de procedure tot opmaak, de evaluatie en de bekendmaking van het Vlaams Natura 2000-programma;<br>
+2° de inhoud, de vorm en de bekendmaking van het voortgangsrapport Vlaams Natura 2000-programma;<br>
+3° de samenstelling, werking en opdracht van de overleginstantie, vermeld in artikel 50quinquies;<br>
+4° de aspecten van uitvoering van het programma, als vermeld in artikel 50ter, § 3, 3°, c), waaraan actoren, als vermeld in artikel 50ter, § 3, 3°, een bijdrage kunnen leveren en de wijze waarop dat engagement wordt geformaliseerd;<br>
+5° de afstemming van het Vlaams Natura 2000-programma met andere maatregelenprogramma's of plannen.
 
 ## [Sectie 3 Managementplannen Natura 2000 (ing. decr. 9 mei 2014, art. 44, I: 17 juli 2014)]
 
 ### ART. 50septies.
 
-§ 1. Voor elke speciale beschermingszone wordt een managementplan Natura   2000 opgemaakt. Als meerdere speciale beschermingszones geheel of gedeeltelijk   samenvallen, kan voor die speciale beschermingszones een gezamenlijk   managementplan Natura 2000 worden opgemaakt.<BR><BR>Het managementplan Natura   2000 doorloopt opeenvolgende cyclussen van zes jaar en heeft een tijdshorizon   tot uiterlijk 2050.<BR><BR>Binnen een plancyclus wordt het managementplan Natura   2000 opgebouwd aan de hand van verschillende, opeenvolgende planversies. De   planversies worden opgemaakt op basis van een tussentijdse toetsing van de   realisatiegraad van de taakstelling van het plan, en naargelang van de actoren   die worden betrokken bij de realisatie van het plan en het type instrumenten die   daarvoor achtereenvolgens worden ingezet. De bepalingen die gelden voor het   managementplan Natura 2000 zijn ook van toepassing op de planversies.<BR><BR>§   2. Het managementplan Natura 2000 wordt opgemaakt met het oog op:<BR>1° het   gradueel realiseren van de instandhoudingsdoelstellingen voor de speciale   beschermingszone of -zones in kwestie, ter uitvoering van artikel 36ter, §   1;<BR>2° het vermijden of het stoppen van de verslechtering van de Europees te   beschermen habitats en de leefgebieden van Europees te beschermen soorten,   waarvoor de speciale beschermingszone of -zones in kwestie zijn aangemeld of die   in die zone of zones voorkomen, ter uitvoering van artikel 36ter, § 1;<BR>3° het   vermijden of het stoppen van de betekenisvolle verstoring van de Europees te   beschermen soorten, waarvoor de speciale beschermingszone of -zones in kwestie   zijn aangemeld of die in die zone of zones voorkomen, ter uitvoering van artikel   36ter, § 2.<BR><BR>De bepaling, vermeld in het eerste lid, 2°, verhindert niet   dat te allen tijde maatregelen moeten worden genomen ter uitvoering van artikel   36ter, § 2, of ter uitvoering van andere regelgeving, onder meer maatregelen ter   uitvoering van titel XV en titel XVI van het decreet van 5 april 1995 houdende   algemene bepalingen inzake milieubeleid, in het bijzonder als dat noodzakelijk   is om verslechtering van de natuurkwaliteit en het natuurlijk milieu van de   Europees te beschermen habitats en soorten en hun leefgebied te vermijden of te   beëindigen.<BR><BR>§ 3. Het managementplan Natura 2000 bevat ten minste:<BR>1°   een taakstelling voor de speciale beschermingszone of -zones in kwestie die   bestaat uit de inspanningen met betrekking tot het natuurbehoud, die nodig   worden geacht voor de realisatie van de instandhoudingsdoelstellingen, vermeld   in paragraaf 2, eerste lid, 1°, tijdens de plancyclus in kwestie;<BR>2° een   opgave van de acties voor de realisatie van de taakstelling.<BR><BR>De   taakstelling, vermeld in het eerste lid, 1°, geeft ook aan hoe in de speciale   beschermingszone of -zones in kwestie wordt bijgedragen tot de realisatie van   het bindend gedeelte van de taakstelling, vermeld in artikel 50ter, § 3, 1°, in   voorkomend geval met inbegrip van het plan van aanpak, vermeld in artikel 50ter,   § 4, tweede lid, 2°.<BR><BR>§ 4. Met het oog op de ruimtelijke toewijzing van de   instandhoudingsdoelstellingen, vermeld in paragraaf 2, eerste lid, 1°, worden   binnen de speciale beschermingszone of -zones in kwestie zoekzones   afgebakend.<BR><BR>Voor de realisatie van de taakstelling inzake de toestand van   het natuurlijk milieu voor de speciale beschermingszone of -zones in kwestie   worden actiegebieden vastgesteld. De actiegebieden gelden voor een bepaald   milieueffect of een groep van relevante milieu-effecten.<BR><BR>[NOOT: Artikel   45 van het decreet van 9 mei 2014 tot wijziging van de regelgeving inzake natuur   en bos dat deze bepaling invoegt, werd vernietigd bij arrest nr. 57/2016 van 28   april 2016 in zoverre deze bepaling niet voorziet in de inspraak voor het   publiek of de Vlaamse Regering niet machtigt daarin te   voorzien]<BR>
+§ 1. Voor elke speciale beschermingszone wordt een managementplan Natura 2000 opgemaakt. Als meerdere speciale beschermingszones geheel of gedeeltelijk samenvallen, kan voor die speciale beschermingszones een gezamenlijk managementplan Natura 2000 worden opgemaakt.<br>
+<br>
+Het managementplan Natura 2000 doorloopt opeenvolgende cyclussen van zes jaar en heeft een tijdshorizon tot uiterlijk 2050.<br>
+<br>
+Binnen een plancyclus wordt het managementplan Natura 2000 opgebouwd aan de hand van verschillende, opeenvolgende planversies. De planversies worden opgemaakt op basis van een tussentijdse toetsing van de realisatiegraad van de taakstelling van het plan, en naargelang van de actoren die worden betrokken bij de realisatie van het plan en het type instrumenten die daarvoor achtereenvolgens worden ingezet. De bepalingen die gelden voor het managementplan Natura 2000 zijn ook van toepassing op de planversies.<br>
+<br>
+§ 2. Het managementplan Natura 2000 wordt opgemaakt met het oog op:<br>
+1° het gradueel realiseren van de instandhoudingsdoelstellingen voor de speciale beschermingszone of -zones in kwestie, ter uitvoering van artikel 36ter, § 1;<br>
+2° het vermijden of het stoppen van de verslechtering van de Europees te beschermen habitats en de leefgebieden van Europees te beschermen soorten, waarvoor de speciale beschermingszone of -zones in kwestie zijn aangemeld of die in die zone of zones voorkomen, ter uitvoering van artikel 36ter, § 2;<br>
+3° het vermijden of het stoppen van de betekenisvolle verstoring van de Europees te beschermen soorten, waarvoor de speciale beschermingszone of -zones in kwestie zijn aangemeld of die in die zone of zones voorkomen, ter uitvoering van artikel 36ter, § 2.<br>
+<br>
+De bepaling, vermeld in het eerste lid, 2°, verhindert niet dat te allen tijde maatregelen moeten worden genomen ter uitvoering van artikel 36ter, § 2, of ter uitvoering van andere regelgeving, onder meer maatregelen ter uitvoering van titel XV en titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, in het bijzonder als dat noodzakelijk is om verslechtering van de natuurkwaliteit en het natuurlijk milieu van de Europees te beschermen habitats en soorten en hun leefgebied te vermijden of te beëindigen.<br>
+<br>
+§ 3. Het managementplan Natura 2000 bevat ten minste:<br>
+1° een taakstelling voor de speciale beschermingszone of -zones in kwestie die bestaat uit de inspanningen met betrekking tot het natuurbehoud die nodig worden geacht voor de realisatie van de instandhoudingsdoelstellingen, vermeld in paragraaf 2, eerste lid, 1°, tijdens de plancyclus in kwestie;<br>
+2° een opgave van de acties voor de realisatie van de taakstelling.<br>
+<br>
+De taakstelling, vermeld in het eerste lid, 1°, geeft ook aan hoe in de speciale beschermingszone of -zones in kwestie wordt bijgedragen tot de realisatie van het bindend gedeelte van de taakstelling, vermeld in artikel 50ter, § 3, 1°, in voorkomend geval met inbegrip van het plan van aanpak, vermeld in artikel 50ter, § 4, tweede lid, 2°.<br>
+<br>
+§ 4. Met het oog op de ruimtelijke toewijzing van de instandhoudingsdoelstellingen, vermeld in paragraaf 2, eerste lid, 1°, worden binnen de speciale beschermingszone of -zones in kwestie zoekzones afgebakend.<br>
+<br>
+Voor de realisatie van de taakstelling inzake de toestand van het natuurlijk milieu voor de speciale beschermingszone of -zones in kwestie worden actiegebieden vastgesteld. De actiegebieden gelden voor een bepaald milieueffect of een groep van relevante milieueffecten.
 
 ### ART. 50octies.
 
-§ 1. Het managementplan Natura 2000, of, in voorkomend geval, de   planversies, wordt vastgesteld door de Vlaamse Regering of haar gemachtigde. Als   in het plan of een bepaalde planversie dwingende acties als vermeld in paragraaf   5, tweede lid, voorkomen, wordt het plan of de planversie in kwestie in ieder   geval vastgesteld door de Vlaamse Regering.<BR><BR>§ 2. Het agentschap staat in   voor de voorbereiding van het managementplan Natura 2000, of, in voorkomend   geval, de planversies.<BR><BR>§ 3. De overleginstantie, vermeld in artikel   50quinquies, verleent advies aan het agentschap over het ontwerp van   managementplan Natura 2000 of, in voorkomend geval, de planversies.<BR><BR>§ 4.   Het agentschap is belast met de coördinatie van de uitvoering van het   managementplan Natura 2000 of, in voorkomend geval, de planversies.<BR><BR>Het   agentschap kan daarbij in overleg met de gewestelijke overleginstantie een   beroep doen op de actoren, vermeld in artikel 50ter, § 3, 3°, b), die een   bijdrage leveren tot de coördinatie.<BR><BR>§ 5. Het managementplan Natura 2000   of, in voorkomend geval, de planversies, worden door het agentschap ten minste   om de twee jaar tussentijds getoetst in het licht van de realisatiegraad van de   taakstelling, vermeld in artikel 50septies, § 3.<BR><BR>Als uit die tussentijdse   toetsing blijkt dat het bindend gedeelte, vermeld in artikel 50septies, § 3,   tweede lid, niet of vermoedelijk niet kan worden gerealiseerd tijdens de   plancyclus in kwestie, wordt de realisatie ervan bewerkstelligd via dwingende   acties.<BR><BR>De dwingende acties, vermeld in het tweede lid, kunnen voor de   speciale beschermingszone of -zones in kwestie instandhoudingsmaatregelen   bevatten.<BR><BR>Het agentschap draagt er zorg voor dat de adressant van de   maatregel met een aangetekende brief op de hoogte wordt gebracht van de   maatregel en, in voorkomend geval, van de termijn waarbinnen die moet worden   uitgevoerd.<BR><BR>§ 6. Het plan wordt ten minste om de zes jaar geëvalueerd op   basis van de realisatiegraad van de instandhoudingsdoelstellingen voor de   speciale beschermingszone of -zones in kwestie en het Vlaams Natura   2000-programma.<BR><BR>Met inachtneming van deze evaluatie, vermeld in het   eerste lid, wordt aansluitend een nieuw plan voor de volgende cyclus van zes   jaar of voor een fase ervan vastgesteld. Het bestaande plan of, in voorkomend   geval de planversie, blijft in ieder geval van kracht tot het nieuwe plan of   planversie is vastgesteld conform paragraaf 1.<BR><BR>§ 7. De Vlaamse Regering   kan nadere regels bepalen over de onderlinge afstemming of procedurele   integratie van het managementplan Natura 2000, het natuurinrichtingsproject   vermeld in artikel 47 van dit decreet en het landinrichtingsplan vermeld in   artikel 3.3.1 van het decreet van 28 maart 2014 betreffende de   landinrichting.<BR><BR>[NOOT: Artikel 46 van het decreet van 9 mei 2014 tot   wijziging van de regelgeving inzake natuur en bos dat deze bepaling invoegt,   werd vernietigd bij arrest nr. 57/2016 van 28 april 2016 in zoverre deze   bepaling niet voorziet in de inspraak voor het publiek of de Vlaamse Regering   niet machtigt daarin te voorzien]<BR>
+§ 1. Het managementplan Natura 2000 of, in voorkomend geval, de planversies, worden voorlopig vastgesteld door de Vlaamse Regering of haar gemachtigde. Als in het plan of een bepaalde planversie dwingende acties als vermeld in paragraaf 5, tweede lid, voorkomen, wordt het plan of de planversie in kwestie in ieder geval voorlopig vastgesteld door de Vlaamse Regering.<br>
+<br>
+§ 2. Het agentschap staat in voor de voorbereiding van het managementplan Natura 2000 of, in voorkomend geval, de planversies.<br>
+<br>
+§ 3. Het agentschap organiseert na de voorlopige vaststelling van elk managementplan Natura 2000 of, in voorkomend geval, elke planversie, een openbaar onderzoek over het voorlopig vastgestelde managementplan Natura 2000 of de planversie, in de gevallen en volgens de regels zoals bepaald in artikel 50decies/1.<br>
+<br>
+§ 4. Het agentschap is belast met de coördinatie van de uitvoering van het definitief vastgestelde managementplan Natura 2000 of, in voorkomend geval, de planversies.<br>
+<br>
+Het agentschap kan daarbij in overleg met de gewestelijke overleginstantie een beroep doen op de actoren, vermeld in artikel 50ter, § 3, 3°, b), die een bijdrage leveren tot de coördinatie.<br>
+<br>
+§ 5. Het definitief vastgestelde managementplan Natura 2000 of, in voorkomend geval, de planversies, worden door het agentschap ten minste om de twee jaar tussentijds getoetst in het licht van de realisatiegraad van de taakstelling, vermeld in artikel 50septies, § 3.<br>
+<br>
+Als uit die tussentijdse toetsing blijkt dat het bindend gedeelte, vermeld in artikel 50septies, § 3, tweede lid, niet of vermoedelijk niet kan worden gerealiseerd tijdens de plancyclus in kwestie, wordt de realisatie ervan bewerkstelligd via dwingende acties.<br>
+<br>
+De dwingende acties, vermeld in het tweede lid, kunnen voor de speciale beschermingszone of -zones in kwestie instandhoudingsmaatregelen bevatten.<br>
+<br>
+Het agentschap draagt er zorg voor dat de adressant van de maatregel met een aangetekende brief op de hoogte wordt gebracht van de maatregel en, in voorkomend geval, van de termijn waarbinnen die moet worden uitgevoerd.<br>
+<br>
+§ 6. Het definitief vastgestelde plan wordt ten minste om de zes jaar geëvalueerd op basis van de realisatiegraad van de instandhoudingsdoelstellingen voor de speciale beschermingszone of -zones in kwestie en het Vlaams Natura 2000-programma.<br>
+<br>
+Met inachtneming van deze evaluatie, vermeld in het eerste lid, wordt aansluitend een nieuw plan voor de volgende cyclus van zes jaar of voor een fase ervan vastgesteld volgens de regels bepaald in artikel 50septies tot en met 50decies. Het bestaande plan of, in voorkomend geval de planversie, blijft in ieder geval van kracht tot het nieuwe plan of planversie definitief is vastgesteld conform artikel 50decies/1, § 6, tweede lid.<br>
+<br>
+§ 7. De Vlaamse Regering kan nadere regels bepalen over de onderlinge afstemming of procedurele integratie van het managementplan Natura 2000, het natuurinrichtingsproject, vermeld in artikel 47, en het landinrichtingsplan en in artikel 3.3.1 van het decreet van 28 maart 2014 betreffende de landinrichting.
 
 ### ART. 50novies.
 
-Het agentschap organiseert voor elke speciale beschermingszone of -zones   waarvoor een managementplan Natura 2000 wordt opgemaakt een overlegplatform dat   ten minste belast is met:<BR>1° de voortgangsbewaking van het managementplan   Natura 2000;<BR>2° het initiëren, adviseren en opvolgen van de overlegprocessen   die plaatsvinden in het kader van de realisatie van de acties, vermeld in   artikel 50septies, § 3, eerste lid, 2°.<BR><BR>Het overlegplatform, vermeld in   het eerste lid, bestaat ten minste uit een of meerdere vertegenwoordigers   van:<BR>1° het agentschap;<BR>2° de Vlaamse administraties die betrokken zijn   bij de inrichting en het beheer van het buitengebied;<BR>3° de actoren, vermeld   in artikel 50ter, § 3, 3°, andere dan de vertegenwoordigers vermeld in punt 1°   en 2°.<BR><BR>[NOOT: Artikel 47 van het decreet van 9 mei 2014 tot wijziging van   de regelgeving inzake natuur en bos dat deze bepaling invoegt, werd vernietigd   bij arrest nr. 57/2016 van 28 april 2016 in zoverre deze bepaling niet voorziet   in de inspraak voor het publiek of de Vlaamse Regering niet machtigt daarin te   voorzien]<BR>&nbsp;
+Het agentschap organiseert voor elke speciale beschermingszone of -zones waarvoor een managementplan Natura 2000 wordt opgemaakt een overlegplatform dat ten minste belast is met:<br>
+1° de voortgangsbewaking van het managementplan Natura 2000;<br>
+2° het initiëren, adviseren en opvolgen van de overlegprocessen die plaatsvinden in het kader van de realisatie van de acties, vermeld in artikel 50septies, § 3, eerste lid, 2°.<br>
+<br>
+Het overlegplatform, vermeld in het eerste lid, bestaat ten minste uit een of meerdere vertegenwoordigers van:<br>
+1° het agentschap;<br>
+2° de Vlaamse administraties die betrokken zijn bij de inrichting en het beheer van het buitengebied;<br>
+3° de actoren, vermeld in artikel 50ter, § 3, 3°, andere dan de vertegenwoordigers vermeld in punt 1° en 2°.
 
 ### ART. 50decies.
 
-Een managementplan Natura 2000 wordt bij uittreksel gepubliceerd in het   Belgisch Staatsblad. Het agentschap draagt er zorg voor dat een ruime bekendheid   wordt gegeven aan het managementplan Natura 2000.<BR><BR>De Vlaamse Regering kan   nadere regels bepalen met betrekking tot de inhoud, de procedure tot opmaak, de   evaluatie, de bekendmaking van het managementplan Natura 2000 of, in voorkomend   geval, de planversie, en de kennisgeving, vermeld in artikel 50octies, § 5,   vierde lid.<BR><BR>De Vlaamse Regering bepaalt de wijze waarop en de criteria op   basis waarvan de zoekzones, vermeld in artikel 50septies, § 4, eerste lid,   worden afgebakend en de actiegebieden, vermeld in artikel 50septies, § 4, tweede   lid, worden vastgesteld.<BR><BR>De Vlaamse Regering bepaalt de nadere   samenstelling van het overlegplatform, als vermeld in artikel 50novies, tweede   lid.<BR><BR>[NOOT: Artikel 48 van het decreet van 9 mei 2014 tot wijziging van   de regelgeving inzake natuur en bos dat deze bepaling invoegt, werd vernietigd   bij arrest nr. 57/2016 van 28 april 2016 in zoverre deze bepaling niet voorziet   in de inspraak voor het publiek of de Vlaamse Regering niet machtigt daarin te   voorzien]<BR>
+Het agentschap draagt er zorg voor dat een ruime bekendheid wordt gegeven aan het managementplan Natura 2000.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen met betrekking tot de inhoud, de procedure tot opmaak, de evaluatie, de bekendmaking van het managementplan Natura 2000 of, in voorkomend geval, de planversie, en de kennisgeving, vermeld in artikel 50octies, § 5, vierde lid.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop en de criteria op basis waarvan de zoekzones, vermeld in artikel 50septies, § 4, eerste lid, worden afgebakend en de actiegebieden, vermeld in artikel 50septies, § 4, tweede lid, worden vastgesteld.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere samenstelling van het overlegplatform als vermeld in artikel 50novies, tweede lid.
 
 ## [Sectie 3/1. Openbaar onderzoek (ing. decr. 27 januari 2017, art. 11, I: 6 februari 2017)]
+
+### ART 50decies/1.
+
+§ 1. De Vlaamse Regering of haar gemachtigde onderwerpt elk voorlopig vastgesteld Vlaams Natura 2000-programma als vermeld in artikel 50quater, § 1, elke voorlopig vastgestelde programmatische aanpak ter vermindering van een of meer milieudrukken als vermeld in artikel 50quater, § 1, elk voorlopig vastgesteld managementplan Natura 2000 of, in voorkomend geval, elke voorlopig vastgestelde planversie als vermeld in artikel 50octies, § 1, of elk voorlopig vastgesteld managementplan als vermeld in artikel 48, § 1, tweede lid, aan een openbaar onderzoek dat binnen dertig dagen na de voorlopige vaststelling minstens wordt aangekondigd door:<br>
+1° een aanplakking in elke gemeente waarop het voorlopig vastgesteld Vlaams Natura 2000-programma, de voorlopig vastgestelde programmatische aanpak, het voorlopig vastgesteld managementplan Natura 2000 of het voorlopig vastgesteld managementplan als vermeld in artikel 48, § 1, tweede lid, betrekking heeft;<br>
+2° een bericht in het Belgisch Staatsblad;<br>
+3° een bericht in ten minste drie dagbladen die in het Vlaamse Gewest worden verspreid;<br>
+4° een bericht op de website van het agentschap.<br>
+<br>
+§ 2. Het openbaar onderzoek wordt aangekondigd met vermelding van minstens de volgende elementen:<br>
+1° de gemeenten waarop het voorlopig vastgesteld Vlaams Natura 2000-programma, de voorlopig vastgestelde programmatische aanpak, het voorlopig vastgesteld managementplan Natura 2000 of, in voorkomend geval, de planversie, of het voorlopig vastgesteld managementplan als vermeld in artikel 48, § 1, tweede lid, betrekking heeft;<br>
+2° de wijze waarop het voorlopig vastgesteld Vlaams Natura 2000-programma, de voorlopig vastgestelde programmatische aanpak, het voorlopig vastgesteld managementplan Natura 2000 of, in voorkomend geval, elke voorlopig vastgestelde planversie, of het voorlopig vastgesteld managementplan als vermeld in artikel 48, § 1, tweede lid, kan worden ingekeken;<br>
+3° de begin- en einddatum van het openbaar onderzoek;<br>
+4° de wijze waarop de opmerkingen en bezwaren, vermeld in paragraaf 4, kunnen worden ingediend.<br>
+<br>
+§ 3. Vanaf de begindatum van het openbaar onderzoek wordt de voorlopig vastgestelde programmatische aanpak of het voorlopig vastgesteld plan of programma gedurende zestig dagen ter inzage gelegd op de wijze als vermeld in de aankondiging.<br>
+<br>
+§ 4. De opmerkingen en bezwaren worden uiterlijk de laatste dag van de termijn van het openbaar onderzoek overgemaakt op de wijze als vermeld in de aankondiging.<br>
+<br>
+De opmerkingen en bezwaren kunnen alleen betrekking hebben op de volgende aspecten:<br>
+1° bij een openbaar onderzoek met betrekking tot het voorlopig vastgestelde Vlaams Natura 2000-programma: de onderdelen als vermeld in artikel 50ter, § 3;<br>
+2° bij een openbaar onderzoek met betrekking tot de voorlopig vastgestelde programmatische aanpak: de onderdelen als vermeld in artikel 50ter, § 4, tweede lid;<br>
+3° bij een openbaar onderzoek met betrekking tot het voorlopig vastgestelde managementplan Natura 2000 of, in voorkomend geval, elke voorlopig vastgestelde planversie: de onderdelen als vermeld in artikel 50septies, § 3 en § 4.<br>
+<br>
+§ 5. Het agentschap bundelt en coördineert alle opmerkingen en bezwaren met betrekking tot het Vlaams Natura 2000-programma, de managementplannen Natura 2000, de programmatische aanpakken en de managementplannen als vermeld in artikel 48, § 1, en maakt die binnen zestig dagen na het einde van het openbaar onderzoek over aan de gewestelijke overleginstantie, vermeld in artikel 50quinquies.<br>
+<br>
+De gewestelijke overleginstantie brengt binnen zestig dagen nadat zij de gebundelde opmerkingen en bezwaren heeft ontvangen een gemotiveerd advies uit over het Vlaams Natura 2000-programma, de managementplannen Natura 2000, de programmatische aanpakken en de managementplannen als vermeld in artikel 48, § 1, bij de Vlaamse Regering of desgevallend bij de gemachtigde.<br>
+<br>
+§ 6. De Vlaamse Regering stelt binnen 240 dagen na de begindatum van het openbaar onderzoek het Vlaams Natura 2000-programma definitief vast.<br>
+<br>
+De Vlaamse Regering of haar gemachtigde stelt binnen 240 dagen na de begindatum van het openbaar onderzoek de programmatische aanpak ter vermindering van een of meer milieudrukken, het managementplan Natura 2000, of in voorkomend geval, elke planversie, of het managementplan als vermeld in artikel 48, § 1, definitief vast.<br>
+<br>
+§ 7. Het besluit houdende definitieve vaststelling van het Vlaams Natura 2000-programma, de programmatische aanpak ter vermindering van een of meer milieudrukken, het managementplan Natura 2000, en in voorkomend geval, elke planversie, of het managementplan als vermeld in artikel 48, § 1, wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt binnen dertig dagen na de definitieve vaststelling.<br>
+<br>
+De definitief vastgestelde programmatische aanpak of het definitief vastgestelde plan of programma treedt in werking veertien dagen na de bekendmaking.<br>
+<br>
+§ 8. De verplichting tot het organiseren van bovenvermeld openbaar onderzoek is niet van toepassing op de programmatische aanpakken ter vermindering van een of meer milieudrukken, het Vlaams Natura 2000-programma, de managementplannen Natura 2000, en in voorkomend geval, elke planversie, en de managementplannen als vermeld in artikel 48, § 1, indien voor deze programmatische aanpak, dat plan of programma een plan-MER moet worden opgemaakt in toepassing van artikel 4.2.3 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
+<br>
+In deze gevallen geldt de voorlopige vaststelling van het plan, het programma of de programmatische aanpak als de definitieve vaststelling.<br>
+<br>
+In voorkomend geval is de inhoud van paragraaf 7 van overeenkomstige toepassing.
 
 ## [Sectie 4 Monitoringprogramma's (ing. decr. 9 mei 2014, art. 49, I: 17 juli 2014)]
 
