@@ -2,16 +2,16 @@
   "codex_id": 1020480,
   "title": "Ministerieel besluit van 2011-07-26 tot erkenning van centra voor varkens ter uitvoering van artikelen 35 en 59, § 2, van het Fokkerijbesluit van 19 maart 2010",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020480/VolledigDocument?datum=2012-08-16",
-  "source_sha256": "e592db86d096e681d5e1c091761ad068c4cbb5167b3a79f9ccc6c6c33115179c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020480/VolledigDocument?datum=2017-02-06",
+  "source_sha256": "cf215a76eb9ae61bf65a309340463aacd6b6b3d7db559fbe0b63e9264d3e91d9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020480&param=informatie",
-  "as_of": "2012-08-16",
+  "as_of": "2017-02-06",
   "made": "2011-07-26",
   "gazette": "2011-08-04",
   "numac": 2011035639,
   "document_start": "2011-07-01",
   "document_end": null,
-  "in_force": "2012-08-16",
+  "in_force": "2017-02-06",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2012-08-16; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-06; future article versions excluded; article text as the API gives it"
 }

@@ -6,11 +6,45 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-Ter uitvoering van artikel 35 van het Fokkerijbesluit van 19 maart 2010 worden de volgende centra erkend voor winning en opslag van sperma van varkens : <br />1° Rattlerow Seghers nv, Houbrichtsstraat 4, 3590 Diepenbeek;<br />2° Genetics West nv, Koekhoven 31, 2330 Merksplas.
+Ter uitvoering van artikel 35 van het Fokkerijbesluit van 19 maart 2010 wordt het volgende centrum erkend voor de winning en de opslag van sperma van varkens: TopGen KI bvba, Bruggesteenweg 114, 8755 Ruiselede.
 
 ### ART. 2.
 
-Ter uitvoering van artikel 59, § 2, eerste lid, 2°, van het Fokkerijbesluit van 19 maart 2010 zijn de volgende centra erkend voor winning en opslag van sperma van varkens :<br />1° Andy Lekens, Hamerstraat 2, 8755 Ruiselede;<br />2° ...<br />3° Bavo Vandebroeck, Diestsestraat 71, 3470 Kortenaken;<br />4° Bropa Bvba, Eindsestraat 3, 2321 Meer;<br />5° Bvba Peter Bonny, Beselarestraat 187, 8980 Beselare;<br />6° Chris De Wispelaere, Eeksken 11A, 9940 Evergem;<br />7° cv Varkenszorg, Kanonweg 8, 3950 Kaulille; <br />8° Comav cv-KI Bevel, Carolusberg 2, 2560 Bevel;<br />9° KI-Daelman bvba, Plasstraat 2, 9170 Sint-Gillis-Waas;<br />10° GCV KI-Centrum D. Cornette, Loviestraat 16, 8970 Poperinge; <br />11° Hilde Mertens, Neervenweg 140, 2990 Wuustwezel; <br />12° Ivan Schurmans, Diestsestraat 53, 3470 Kortenaken;<br />13° Jan Ponsaerts, Brugseweg 279, 8920 Langemark; <br />14° ...<br />15° Jos Laurijssen, Beeksestraat 8a, 2321 Hoogstraten;<br />16° Julien Mortier, Lagestraat 20, 9850 Vosselare;<br />17° K.I.Centrum Fevery Jan bvba, Rattevallestraat 19, 8433 Mannekensvere;<br />18° Karel Verstraeten, Hoogstraat 99, 9150 Bazel; <br />19° KI Janssens LV, Veldstraat 275, 9140 Temse;<br />20° KI-Centrum Blomme bvba, Tieltstraat 174, 8740 Pittem; <br />21° Ki-Centrum Lichtervelde bvba, Vandewallestraat 13A, 8810 Lichtervelde;<br />22° Ki-Vansteenlandt bvba, Bankelindeweg 33, 8972 Krombeke;<br />23° Kris Desmyttere, Blokstraat 19, 8972 Proven;<br />24° Luc Bax, Polderstraat 45, 2381 Weelde;<br />25° Luc Ingels, Krommeveldstraat 19, 9971 Lembeke;<br />26° Luk Vermeiren, Bolksedijk 27, 2310 Rijkevorsel;<br />27° Naert-Vander Meulen Bvba, Ieperstraat 220, 8560 Moorsele; <br />28° nv Codivar, Torhoutsesteenweg 10, 8432 Leffinge;<br />29° Paul en Bart Clincke, Bruggesteenweg 114, 8755 Ruiselede; <br />30° Rudi Kusters, Hulsbosstraat, 4, 3960 Bree; <br />31° Rudy Leemans, Neerven 4, 2323 Wortel;<br />32° Stefaan Delanghe, Conterdijk 5A, 8670 Wulpen;<br />33° Tine Vermeulen, Mispelaarstraat 3A, 8980 Zonnebeke; <br />34° Véronique Vandamme, Paddegatstraat 5, 8460 Oudenburg.<br />
+Ter uitvoering van artikel 59, § 2, eerste lid, 2°, van het Fokkerijbesluit van 19 maart 2010 zijn de volgende centra erkend voor winning en opslag van sperma van varkens :<br>
+1° Andy Lekens, Brandstraat 11, 8755 Ruiselede;<br>
+2° ...<br>
+3° Bavo Vandebroeck, Diestsestraat 71, 3470 Kortenaken;<br>
+4° Bropa Bvba, Eindsestraat 3, 2321 Meer;<br>
+5° ...;<br>
+6° Chris De Wispelaere, Eeksken 11A, 9940 Evergem;<br>
+7° cv Varkenszorg, Kanonweg 8A, 3950 Kaulille;<br>
+8° Comav cv-KI Bevel, Carolusberg 2, 2560 Bevel;<br>
+9° KI-Daelman bvba, Plasstraat 2, 9170 Sint-Gillis-Waas;<br>
+10° GCV KI-Centrum D. Cornette, Loviestraat 16, 8970 Poperinge;<br>
+11° ...;<br>
+12° ...;<br>
+13° Jan Ponsaerts, Brugseweg 279, 8920 Langemark;<br>
+14° ...<br>
+15° ...;<br>
+16° ...;<br>
+17° ...;<br>
+18° Karel Verstraeten, Hoogstraat 99, 9150 Bazel;<br>
+19° KI Janssens LV, Veldstraat 275, 9140 Temse;<br>
+20° KI-Centrum Blomme bvba, Tieltstraat 174, 8740 Pittem;<br>
+21° Ki-Centrum Lichtervelde bvba, Vandewallestraat 13A, 8810 Lichtervelde;<br>
+22° Ki-Vansteenlandt bvba, Bankelindeweg 33, 8972 Krombeke;<br>
+23° Kris Desmyttere, Blokstraat 19, 8972 Proven;<br>
+24° Luc Bax, Polderstraat 45, 2381 Weelde;<br>
+25° ...;<br>
+26° Luk Vermeiren, Bolksedijk 27, 2310 Rijkevorsel;<br>
+27° Naert-Vander Meulen Bvba, Ieperstraat 220, 8560 Moorsele;<br>
+28° nv Codivar, Torhoutsesteenweg 10, 8432 Leffinge;<br>
+29° Bart Clincke, Bruggesteenweg 114, 8755 Ruiselede;<br>
+30° Rudi Kusters, Hulsbosstraat, 4, 3960 Bree;<br>
+31° ...;<br>
+32° Stefaan Delanghe, Conterdijk 5A, 8670 Wulpen;<br>
+33° Tine Vermeulen, Mispelaarstraat 3A, 8980 Zonnebeke;<br>
+34° Véronique Vandamme, Paddegatstraat 5, 8460 Oudenburg.
 
 ### ART. 2/1.
 
