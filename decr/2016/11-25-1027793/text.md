@@ -1,11 +1,23 @@
 # Decreet van 2016-11-25 tot bekrachtiging van het reglement tot bepaling van de bestuursbeginselen die van toepassing zijn bij de besluitvorming door de Nederlands-Vlaamse Accreditatieorganisatie inzake het hoger onderwijs in de Vlaamse Gemeenschap en houdende andere bepalingen inzake kwaliteitszorg en accreditatie in het hoger onderwijs
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
+### ART 2.
+
+Het reglement tot bepaling van de bestuursbeginselen die van toepassing zijn bij de besluitvorming door de Nederlands-Vlaamse Accreditatieorganisatie inzake het hoger onderwijs in de Vlaamse Gemeenschap, goedgekeurd door het algemeen bestuur van de Nederlands-Vlaamse Accreditatieorganisatie op 14 december 2015, dat als bijlage bij dit decreet is gevoegd, wordt bekrachtigd.
+
 ### ART 3.
 
 In artikel II.128, § 1, van de Codex Hoger Onderwijs van 11 oktober 2013 worden de volgende wijzigingen aangebracht:<br>
 1° in het tweede lid wordt de volzin "De meerderheid van de leden is werkzaam in het buitenland." vervangen door wat volgt: "De meerderheid van de leden is werkzaam of is recent werkzaam geweest in het buitenland.";<br>
 2° in het derde lid wordt er na de eerste zin een nieuwe tweede zin ingevoegd die luidt als volgt: "Voor wat de student betreft geldt de voorwaarde dat de student minstens sedert één jaar geen band meer heeft met de betrokken instelling.".<br>
 &nbsp;
+
+### ART 4.
+
+Artikel 3 heeft uitwerking met ingang van 16 december 2014.
 
 ## BIJLAGE
 
