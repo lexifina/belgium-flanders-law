@@ -2,16 +2,16 @@
   "codex_id": 1016904,
   "title": "Samenwerkingsakkoord van 2008-06-18 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de organisatie en het administratief beheer van het gestandaardiseerd en genormaliseerd registersysteem van België overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad en Beschikking 280/2004/EG van het Europees Parlement en de Raad",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016904/VolledigDocument?datum=2008-07-18",
-  "source_sha256": "d8460120f546ace10cd02fcca2578f04fedbf0777fd5aab4f77e95c4b75ecb5c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016904/VolledigDocument?datum=2017-02-06",
+  "source_sha256": "0f0e1c8f7121166819e2139c0c3c6b0d152968a9c5719a731638806c8f9ff022",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016904&param=informatie",
-  "as_of": "2008-07-18",
+  "as_of": "2017-02-06",
   "made": "2008-06-18",
   "gazette": "2008-07-18",
   "numac": 2008202564,
   "document_start": "2008-07-18",
   "document_end": "2017-02-05",
-  "in_force": "2008-07-18",
+  "in_force": "2017-02-06",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2008-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-06; future article versions excluded; article text as the API gives it"
 }
