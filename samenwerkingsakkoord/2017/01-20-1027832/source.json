@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027832,
+  "title": "Samenwerkingsakkoord van 2017-01-20 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de organisatie en het administratief beheer van het nationaal register voor broeikasgassen van België overeenkomstig richtlijn 2003/87/EG van het Europees Parlement en de Raad en verordening (EU) nr. 525/2013 van het Europees Parlement en de Raad, alsmede bepaalde elementen van de veiling overeenkomstig verordening (EU) nr. 1031/2010 van de Commissie",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027832/VolledigDocument?datum=2017-02-06",
+  "source_sha256": "5dbea512115e9f0a124276525ad3270b0a01f3ef7762530b043daa4f75f2dab6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027832&param=informatie",
+  "as_of": "2017-02-06",
+  "made": "2017-01-20",
+  "gazette": "2017-02-06",
+  "numac": 2017010448,
+  "document_start": "2017-02-06",
+  "document_end": null,
+  "in_force": "2017-02-06",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2017-02-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
