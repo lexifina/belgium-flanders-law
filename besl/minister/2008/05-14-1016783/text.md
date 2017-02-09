@@ -774,130 +774,81 @@ Dit besluit treedt in werking op 1 juni 2008.
 ### BIJLAGE
 
 <strong>9) BELEIDSDOMEIN LEEFMILIEU, NATUUR EN ENERGIE</strong>
-<table border="1" cellpadding="0" cellspacing="0">
+<table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width:135px">&nbsp;</td>
-			<td style="width:163px"><strong>B/S-opdrachten</strong></td>
-			<td colspan="2" style="text-align:center; width:283px"><strong>Verloning</strong></td>
+			<td style="width: 135px;">&nbsp;</td>
+			<td style="width: 163px;"><strong>B/S-opdrachten</strong></td>
+			<td style="width: 283px; text-align: center;" colspan="2"><strong>Verloning</strong></td>
 		</tr>
 		<tr>
-			<td colspan="1" rowspan="4" style="width:135px">9.1 Agentschap voor Natuur en Bos<br>
+			<td style="width: 135px;" rowspan="4" colspan="1">9.1 Agentschap voor Natuur en Bos<br>
 			&nbsp;<br>
 			&nbsp;<br>
 			&nbsp;</td>
-			<td colspan="1" rowspan="2" style="width:163px">Schoonmaakpersoneel<br>
+			<td style="width: 163px;" rowspan="2" colspan="1">Schoonmaakpersoneel<br>
 			&nbsp;</td>
-			<td style="width:160px">Uitvoerende functie</td>
-			<td style="width:123px">D111</td>
+			<td style="width: 160px;">Uitvoerende functie</td>
+			<td style="width: 123px;">D111</td>
 		</tr>
 		<tr>
-			<td style="width:160px">Werf- en sectorverantwoordelijke</td>
-			<td style="width:123px">D211</td>
+			<td style="width: 160px;">Werf- en sectorverantwoordelijke</td>
+			<td style="width: 123px;">D211</td>
 		</tr>
 		<tr>
-			<td colspan="1" rowspan="2" style="width:163px">Cateringpersoneel<br>
+			<td style="width: 163px;" rowspan="2" colspan="1">Cateringpersoneel<br>
 			&nbsp;</td>
-			<td style="width:160px">Kok</td>
-			<td style="width:123px">D132</td>
+			<td style="width: 160px;">Kok</td>
+			<td style="width: 123px;">D132</td>
 		</tr>
 		<tr>
-			<td style="width:160px">Keukenpersoneel</td>
-			<td style="width:123px">D111</td>
+			<td style="width: 160px;">Keukenpersoneel</td>
+			<td style="width: 123px;">D111</td>
 		</tr>
 		<tr>
-			<td style="width:135px">9.2 Instituut voor Natuur- en Bosonderzoek</td>
-			<td style="width:163px">Gespecialiseerde betrekkingen uitgeoefend door het wetenschappelijk personeel voor de uitvoering van onderzoeksprogramma’s</td>
-			<td colspan="2" style="width:283px">A165, tenzij voldaan is aan de voorwaarden vermeld in artikel VI109, § 2 van het Vlaams personeelsstatuut van 13.01.2006</td>
+			<td style="width: 135px;">9.2 Instituut voor Natuur- en Bosonderzoek</td>
+			<td style="width: 163px;">Gespecialiseerde betrekkingen uitgeoefend door het wetenschappelijk personeel voor de uitvoering van onderzoeksprogramma’s</td>
+			<td style="width: 283px;" colspan="2">A165, tenzij voldaan is aan de voorwaarden vermeld in artikel VI109, § 2 van het Vlaams personeelsstatuut van 13.01.2006</td>
 		</tr>
 		<tr>
-			<td style="width:135px">9.3 Vlaamse Landmaatschappij</td>
-			<td style="width:163px">Schoonmaak- en cateringpersoneel (uitvoerende functie)</td>
-			<td colspan="2" style="width:283px">D111</td>
+			<td style="width: 135px;">9.3 Vlaamse Landmaatschappij</td>
+			<td style="width: 163px;">Schoonmaak- en cateringpersoneel (uitvoerende functie)</td>
+			<td style="width: 283px;" colspan="2">D111</td>
 		</tr>
 		<tr>
-			<td style="width:135px">9.4 Vlaamse Milieumaatschappij</td>
-			<td colspan="1" rowspan="2" style="width:163px">Schoonmaakpersoneel<br>
+			<td style="width: 135px;" rowspan="2" colspan="1">9.4 Vlaamse Milieumaatschappij</td>
+			<td style="width: 163px;" rowspan="2" colspan="1">Schoonmaakpersoneel<br>
 			&nbsp;</td>
-			<td style="width:160px">Uitvoerende functie</td>
-			<td style="width:123px">D111</td>
+			<td style="width: 160px;">Uitvoerende functie</td>
+			<td style="width: 123px;">D111</td>
 		</tr>
 		<tr>
-			<td style="width:135px">&nbsp;</td>
-			<td style="width:160px">Werf- en sectorverantwoordelijke</td>
-			<td style="width:123px">D211</td>
+			<td style="width: 160px;">Werf- en sectorverantwoordelijke</td>
+			<td style="width: 123px;">D211</td>
 		</tr>
 		<tr>
-			<td colspan="1" rowspan="9" style="width:135px">9.5 Vlaamse Regulator van de Electriciteits- en Gasmarkt<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
-			&nbsp;<br>
+			<td style="width: 135px;" rowspan="4" colspan="1">9.6 Vlaams Energie Agentschap<br>
 			&nbsp;<br>
 			&nbsp;<br>
 			&nbsp;</td>
-			<td style="width:163px">Directeur organisatie en beleidsondersteuning</td>
-			<td colspan="2" style="width:283px">A224</td>
-		</tr>
-		<tr>
-			<td style="width:163px">Directeur netbeheer</td>
-			<td colspan="2" style="width:283px">A224</td>
-		</tr>
-		<tr>
-			<td style="width:163px">Directeur marktwerking</td>
-			<td colspan="2" style="width:283px">A224</td>
-		</tr>
-		<tr>
-			<td style="width:163px">Toezichthouder netbeheer</td>
-			<td colspan="2" style="width:283px">A255</td>
-		</tr>
-		<tr>
-			<td style="width:163px">Toezichthouder marktwerking</td>
-			<td colspan="2" style="width:283px">A255</td>
-		</tr>
-		<tr>
-			<td style="width:163px">Toezichthouder groen stroom en WKK</td>
-			<td colspan="2" style="width:283px">A255</td>
-		</tr>
-		<tr>
-			<td colspan="1" rowspan="3" style="width:163px">Celhoofd personeel en financiën<br>
-			&nbsp;<br>
+			<td style="width: 163px;" rowspan="2" colspan="1">Schoonmaakpersoneel<br>
 			&nbsp;</td>
-			<td style="width:160px">&nbsp;</td>
-			<td style="width:123px">B101</td>
+			<td style="width: 160px;">Uitvoerende functie</td>
+			<td style="width: 123px;">D111</td>
 		</tr>
 		<tr>
-			<td style="width:160px">Na 10 jaar prestatie in B101</td>
-			<td style="width:123px">B102</td>
+			<td style="width: 160px;">Werf- en sectorverantwoordelijke</td>
+			<td style="width: 123px;">D211</td>
 		</tr>
 		<tr>
-			<td style="width:160px">Na 4 jaar effectieve of daarmee gelijkgestelde prestaties in B102, bij beslissing van de gedelegeerd bestuurder na advies van de directieraad</td>
-			<td style="width:123px">B103</td>
-		</tr>
-		<tr>
-			<td colspan="1" rowspan="4" style="width:135px">9.6 Vlaams Energie Agentschap<br>
-			&nbsp;<br>
-			&nbsp;<br>
+			<td style="width: 163px;" rowspan="2" colspan="1">Cateringpersoneel<br>
 			&nbsp;</td>
-			<td colspan="1" rowspan="2" style="width:163px">Schoonmaakpersoneel<br>
-			&nbsp;</td>
-			<td style="width:160px">Uitvoerende functie</td>
-			<td style="width:123px">D111</td>
+			<td style="width: 160px;">Kok</td>
+			<td style="width: 123px;">D132</td>
 		</tr>
 		<tr>
-			<td style="width:160px">Werf- en sectorverantwoordelijke</td>
-			<td style="width:123px">D211</td>
-		</tr>
-		<tr>
-			<td colspan="1" rowspan="2" style="width:163px">Cateringpersoneel<br>
-			&nbsp;</td>
-			<td style="width:160px">Kok</td>
-			<td style="width:123px">D132</td>
-		</tr>
-		<tr>
-			<td style="width:160px">Keukenpersoneel</td>
-			<td style="width:123px">D111</td>
+			<td style="width: 160px;">Keukenpersoneel</td>
+			<td style="width: 123px;">D111</td>
 		</tr>
 	</tbody>
 </table>
