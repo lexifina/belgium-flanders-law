@@ -242,7 +242,7 @@ c) er zijn voor installaties op basis van zonne-energie minstens twaalf maanden 
 a) voor groenestroomproductie is dit de netto groenestroomproductie over een bepaalde periode die in aanmerking komt voor groenestroomcertificaten, gedeeld door het nominaal vermogen uit hernieuwbare energiebronnen, rekening houdend met de groenfactor;<br>
 b) voor warmte-krachtbesparing is dit de netto warmte-krachtbesparing over een bepaalde periode die in aanmerking komt voor warmte-krachtcertificaten, gedeeld door het theoretisch vermogen aan warmte-krachtbesparing, dat berekend wordt op basis van de constructeursgegevens zoals die gebruikt werden voor het berekenen van de RPE die werd vastgelegd in de beslissing van de VREG;<br>
 131/3° vraagzijdebeheer: een algemene of geïntegreerde aanpak die erop gericht is de omvang en de timing van het elektriciteitsverbruik te beïnvloeden teneinde het primaire energieverbruik en piekbelastingen te verminderen door voorrang te geven aan investeringen in energie-efficiëntiebevorderende maatregelen of andere maatregelen, zoals onderbreekbare leveringscontracten, in plaats van aan investeringen om de productiecapaciteit te verhogen, indien de eerstgenoemde maatregelen de doelmatigste en meest economische optie vormen, mede gelet op het positieve milieueffect van een lager energieverbruik en de daarmee verband houdende aspecten met betrekking tot de voorzieningszekerheid en de distributiekosten;<br>
-132° VREG : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, dat overeenkomstig artikel 3.1.1 wordt opgericht;<br>
+132° VREG : autonome dienst met rechtspersoonlijkheid, die overeenkomstig artikel 3.1.1 wordt opgericht;<br>
 133° wanbetaling : de niet-betaling of onvolledige betaling van minstens één elektriciteits- of aardgasfactuur;<br>
 134° warmtedoorgangscoëfficiënt (of U-waarde) : de warmtedoorgang door een constructieonderdeel per eenheid van oppervlakte, eenheid van tijd en eenheid van temperatuurverschil tussen de omgevingen aan beide zijden van het deel, zoals die gedefinieerd is volgens de Belgische norm of de door de Vlaamse overheid vastgelegde specificaties;<br>
 135° warmtekrachtcertificaat : uniek, verhandelbaar, elektronisch en overdraagbaar immaterieel goed dat aantoont dat een bepaalde productie-installatie in een bepaalde periode een hoeveelheid primaire energiebesparing heeft gerealiseerd door gebruik te maken van kwalitatieve warmtekrachtkoppeling ten opzichte van een moderne referentiecentrale en een moderne referentieketel;<br>
@@ -267,7 +267,19 @@ In het kader van de totstandbrenging en de werking van een goed werkende elektri
 
 ### ART. 3.1.1.
 
-§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap opgericht als vermeld in artikel 13 van het kaderdecreet Bestuurlijk Beleid. Dit agentschap draagt als naam Vlaamse Regulator van de Elektriciteits- en Gasmarkt, afgekort VREG.<br /><br />Alle officiële akten, officiële aankondigingen of andere officiële stukken die van het agentschap uitgaan, moeten de benaming van het agentschap vermelden, met onmiddellijk daarvoor of daarna, leesbaar en voluit geschreven, de woorden « publiekrechtelijk vormgegeven extern verzelfstandigd agentschap ».<br /><br />§ 2. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br /><br />§ 3. De Vlaamse Regering bepaalt de vestigingsplaats van de zetel van het agentschap.<br /><br />§ 4. De volgende artikelen van het kaderdecreet Bestuurlijk Beleid zijn niet van toepassing op de VREG :<br />1° artikel 14 tot en met 16, voor zover de beheersovereenkomst instructies bevat met betrekking tot de uitvoering van de taken, vermeld in artikel 3.1.3, 1°, 2° en 3°, b) ;<br />2° artikel 18, § 1 tot en met § 3; <br />3° artikel 21;<br />4° artikel 23 tot en met 28.<br /><br />§ 5. De VREG fungeert voor het Vlaamse Gewest en voor de gewestelijke bevoegdheden inzake elektriciteit en aardgas, als de regulerende instantie, vermeld in artikel 35, tweede lid, van de Richtlijn 2009/72/EG betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot intrekking van Richtlijn 2003/54/ EG en artikel 39, tweede lid, van de Richtlijn 2009/73/EG van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor aardgas en tot intrekking van richtlijn 2003/55/ EG.<br /><br />Bij de uitoefening van haar taken en bevoegdheden als regulator vraagt of ontvangt de VREG, noch haar bestuurders, noch haar personeelsleden, directe instructies van de Vlaamse Regering of van een andere publieke of particuliere entiteit.<br /><br />De VREG oefent haar taken en bevoegdheden op onpartijdige en transparante wijze uit.
+§ 1. Er wordt een autonome dienst met rechtspersoonlijkheid opgericht. Deze dienst draagt als naam Vlaamse Regulator van de Elektriciteits- en Gasmarkt, hierna VREG te noemen.<br>
+<br>
+Alle officiële akten, officiële aankondigingen of andere officiële stukken die van de VREG uitgaan, vermelden de benaming van de dienst, met onmiddellijk daarvoor of daarna, leesbaar en voluit geschreven, de woorden `autonome dienst met rechtspersoonlijkheid'.<br>
+<br>
+§ 2. De VREG staat onder toezicht van het Vlaams Parlement.<br>
+<br>
+§ 3. Het Vlaams Parlement kan de vestigingsplaats van de zetel van de VREG bepalen.<br>
+<br>
+§ 4. De VREG fungeert voor het Vlaamse Gewest en voor de gewestelijke bevoegdheden inzake elektriciteit en aardgas als de regulerende instantie, vermeld in artikel 35, tweede lid, van de richtlijn 2009/72/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot intrekking van richtlijn 2003/54/EG en artikel 39, tweede lid, van de richtlijn 2009/73/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor aardgas en tot intrekking van richtlijn 2003/55/EG.<br>
+<br>
+Bij de uitoefening van zijn taken en bevoegdheden als regulator vraagt of ontvangt de VREG, noch zijn bestuurders, noch zijn personeelsleden, instructies van de Vlaamse Regering, van het Vlaams Parlement of van een andere publieke of particuliere entiteit.<br>
+<br>
+De VREG oefent zijn taken en bevoegdheden op onpartijdige en transparante wijze uit.
 
 ## Afdeling II. Missie, Taken en Bevoegdheden
 
@@ -277,11 +289,53 @@ De VREG heeft als missie de regulering van, de controle op en de bevordering van
 
 ### ART. 3.1.3.
 
-Om haar missie waar te maken, vervult de VREG de volgende taken :<BR>1°   toezichthoudende en controlerende taken :<BR>a) het toezicht en de controle op   de naleving van de bepalingen van titels IV,&nbsp;VI en hoofdstuk I tot en met   IV van titel VII van dit decreet, evenals de bijbehorende   uitvoeringsbepalingen;<BR>b) het toezicht en de controle op de naleving van de   technische reglementen;<BR>c) het toezicht houden op de doeltreffendheid van de   vrijmaking van de elektriciteits- en gasmarkt in het Vlaamse Gewest, inclusief   de opvolging van de overstap- en afsluitingspercentages en de elektriciteits- en   gasprijzen van huishoudelijke afnemers;<BR>d) het toezicht houden op de   kwaliteit van de dienstverlening van de elektriciteits- en aardgasleveranciers,   inclusief hun systemen van vooruitbetaling en de klachten van huishoudelijke   afnemers;<BR>e) het toezicht houden op de zekerheid en betrouwbaarheid van de   distributie netten en het plaatselijk vervoersnet van elektriciteit, alsook de   kwaliteit van de dienstverlening van de netbeheerders, onder meer bij de   uitvoering van herstellingen en onderhoud en op het vlak van de tijd die de   beheerders van de netten nodig hebben om aansluitingen en herstellingen uit te   voeren;<BR>f) het toezicht houden op de uitvoering van regels betreffende de   taken en verantwoordelijkheden van de distributienetbeheerders, leveranciers,   afnemers en andere marktpartijen die actief zijn in het Vlaamse Gewest;<BR>g)   het toezicht houden op de vrije toegang voor de afnemer tot zijn   verbruiksgegevens; <BR>2° regulerende taken: de regulering van toegang tot en de   werking van de elektriciteits- en gasmarkt, inclusief de distributienettarieven   voor elektriciteit en aardgas of overgangsmaatregelen hierover, overeenkomstig   de bepalingen van dit decreet;<BR>3° taken in verband met bemiddeling en   beslechting van geschillen :<BR>a) het bemiddelen in geschillen tegen een   netbeheerder of beheerder van een gesloten distributienet met betrekking tot   zijn verplichtingen, vermeld in de titels IV, V, VI en de hoofdstukken I tot en   met IV van titel VII van dit decreet en haar uitvoeringsbepalingen;<BR>b) het   beslechten van geschillen tegen een netbeheerder of beheerder van een gesloten   distributienet met betrekking tot zijn verplichtingen, vermeld in de titels IV,   V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet en haar   uitvoeringsbepalingen; <BR>4° informerende taken :<BR>a) het informeren van de   marktactoren en de afnemers van elektriciteit en aardgas over de werking van de   elektriciteits- en aardgasmarkt;<BR>b) het informeren van de afnemers van   elektriciteit en aardgas over de prijzen en voorwaarden die de leveranciers   hanteren, met inbegrip van het aanbieden of laten aanbieden van een objectieve   vergelijking van die prijzen en voorwaarden;<BR>c) het opstellen en publiceren   van statistieken en gegevens met betrekking tot de elektriciteits- en   gasmarkt;<BR>d) het jaarlijks voor 30 juni per leverancier in het Vlaamse Gewest   publiceren van de gewogen gemiddelde kost per groenestroom- of   warmtekrachtcertificaat dat gedurende de laatste inleveringsperiode werd   ingeleverd voor de certificatenverplichtingen, vermeld in respectievelijk   artikel 7.1.10 en artikel 7.1.11, waarbij de VREG :<BR>1) bij de berekeningen   van de gewogen gemiddelde kost voor de ingeleverde certificaten die verhandeld   werden, de handelsprijs gebruikt die de leveranciers moeten kenbaar maken aan de   VREG;<BR>2) bij de berekeningen van de gewogen gemiddelde kost voor de   ingeleverde certificaten die op grond van artikel 7.1.1 en artikel 7.1.2 aan de   leverancier in zijn hoedanigheid als producent werden toegekend, de onrendabele   top hanteert die is berekend voor de technologie en datum van indienstname van   de installatie waarvoor het certificaat werd toegekend. Bij ontstentenis van een   onrendabele top wordt gebruikgemaakt van een geschatte onrendabele top;<BR>e)   het jaarlijks voor 30 juni per leverancier in het Vlaamse Gewest   publiceren<BR>1) van het aantal certificaten waarover een leverancier   beschikt;<BR>2) van het aantal certificaten dat gedurende de laatste   inleveringsperiode werd ingeleverd voor de certificatenverplichtingen, vermeld   in respectievelijk artikel 7.1.10 en artikel 7.1.11;<BR>f) het jaarlijks voor 30   juni publiceren van een rapport over de door elke leverancier gemaakte en   doorgerekende kosten om te voldoen aan de verplichting, vermeld in artikel   7.1.10 en 7.1.11, waarbij de VREG per elektriciteitsleverancier de gewogen   gemiddelde kost per certificaat, berekend volgens punt d) voor de vorige   inleveringsperiode, vergelijkt met de doorgerekende kost per certificaat voor   die inleveringsperiode, zoals door de elektriciteitsleverancier gerapporteerd in   het kader van de V-test voor het gemiddelde huishoudelijke klantenprofiel;<BR>5°   adviserende taken :<BR>a) het op verzoek of op eigen initiatief verlenen van   adviezen met betrekking tot de elektriciteits- en gasmarkt aan de minister of de   Vlaamse Regering;<BR>b) het uitvoeren van studies of onderzoeken betreffende de   elektriciteits- en gasmarkt, op eigen initiatief of op verzoek van de minister   of de Vlaamse Regering.<BR><BR>De Vlaamse Regering kan nadere regels   uitvaardigen voor de in het eerste lid vermelde aangelegenheden. In deze regels   kunnen de taken van de VREG verder worden gepreciseerd en   geconcretiseerd.<BR><BR>De VREG kan door de Vlaamse Regering worden belast met   bijzondere opdrachten die met haar missie en taken verband houden en die conform   de voorwaarden van de beheersovereenkomst zullen worden   uitgevoerd.
+Om haar missie waar te maken, vervult de VREG de volgende taken :<br>
+1° toezichthoudende en controlerende taken :<br>
+a) het toezicht en de controle op de naleving van de bepalingen van titels IV,&nbsp;VI en hoofdstuk I tot en met IV van titel VII van dit decreet, evenals de bijbehorende uitvoeringsbepalingen;<br>
+b) het toezicht en de controle op de naleving van de technische reglementen;<br>
+c) het toezicht houden op de doeltreffendheid van de vrijmaking van de elektriciteits- en gasmarkt in het Vlaamse Gewest, inclusief de opvolging van de overstap- en afsluitingspercentages en de elektriciteits- en gasprijzen van huishoudelijke afnemers;<br>
+d) het toezicht houden op de kwaliteit van de dienstverlening van de elektriciteits- en aardgasleveranciers, inclusief hun systemen van vooruitbetaling en de klachten van huishoudelijke afnemers;<br>
+e) het toezicht houden op de zekerheid en betrouwbaarheid van de distributie netten en het plaatselijk vervoersnet van elektriciteit, alsook de kwaliteit van de dienstverlening van de netbeheerders, onder meer bij de uitvoering van herstellingen en onderhoud en op het vlak van de tijd die de beheerders van de netten nodig hebben om aansluitingen en herstellingen uit te voeren;<br>
+f) het toezicht houden op de uitvoering van regels betreffende de taken en verantwoordelijkheden van de distributienetbeheerders, leveranciers, afnemers en andere marktpartijen die actief zijn in het Vlaamse Gewest;<br>
+g) het toezicht houden op de vrije toegang voor de afnemer tot zijn verbruiksgegevens;<br>
+2° regulerende taken: de regulering van toegang tot en de werking van de elektriciteits- en gasmarkt, inclusief de distributienettarieven voor elektriciteit en aardgas of overgangsmaatregelen hierover, overeenkomstig de bepalingen van dit decreet;<br>
+3° taken in verband met bemiddeling en beslechting van geschillen :<br>
+a) het bemiddelen in geschillen tegen een netbeheerder of beheerder van een gesloten distributienet met betrekking tot zijn verplichtingen, vermeld in de titels IV, V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet en haar uitvoeringsbepalingen;<br>
+b) het beslechten van geschillen tegen een netbeheerder of beheerder van een gesloten distributienet met betrekking tot zijn verplichtingen, vermeld in de titels IV, V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet en haar uitvoeringsbepalingen;<br>
+4° informerende taken :<br>
+a) het informeren van de marktactoren en de afnemers van elektriciteit en aardgas over de werking van de elektriciteits- en aardgasmarkt;<br>
+b) het informeren van de afnemers van elektriciteit en aardgas over de prijzen en voorwaarden die de leveranciers hanteren, met inbegrip van het aanbieden of laten aanbieden van een objectieve vergelijking van die prijzen en voorwaarden;<br>
+c) het opstellen en publiceren van statistieken en gegevens met betrekking tot de elektriciteits- en gasmarkt;<br>
+d) het jaarlijks voor 30 juni per leverancier in het Vlaamse Gewest publiceren van de gewogen gemiddelde kost per groenestroom- of warmtekrachtcertificaat dat gedurende de laatste inleveringsperiode werd ingeleverd voor de certificatenverplichtingen, vermeld in respectievelijk artikel 7.1.10 en artikel 7.1.11, waarbij de VREG :<br>
+1) bij de berekeningen van de gewogen gemiddelde kost voor de ingeleverde certificaten die verhandeld werden, de handelsprijs gebruikt die de leveranciers moeten kenbaar maken aan de VREG;<br>
+2) bij de berekeningen van de gewogen gemiddelde kost voor de ingeleverde certificaten die op grond van artikel 7.1.1 en artikel 7.1.2 aan de leverancier in zijn hoedanigheid als producent werden toegekend, de onrendabele top hanteert die is berekend voor de technologie en datum van indienstname van de installatie waarvoor het certificaat werd toegekend. Bij ontstentenis van een onrendabele top wordt gebruikgemaakt van een geschatte onrendabele top;<br>
+e) het jaarlijks voor 30 juni per leverancier in het Vlaamse Gewest publiceren<br>
+1) van het aantal certificaten waarover een leverancier beschikt;<br>
+2) van het aantal certificaten dat gedurende de laatste inleveringsperiode werd ingeleverd voor de certificatenverplichtingen, vermeld in respectievelijk artikel 7.1.10 en artikel 7.1.11;<br>
+f) het jaarlijks voor 30 juni publiceren van een rapport over de door elke leverancier gemaakte en doorgerekende kosten om te voldoen aan de verplichting, vermeld in artikel 7.1.10 en 7.1.11, waarbij de VREG per elektriciteitsleverancier de gewogen gemiddelde kost per certificaat, berekend volgens punt d) voor de vorige inleveringsperiode, vergelijkt met de doorgerekende kost per certificaat voor die inleveringsperiode, zoals door de elektriciteitsleverancier gerapporteerd in het kader van de V-test voor het gemiddelde huishoudelijke klantenprofiel;<br>
+5° adviserende taken :<br>
+a) het op verzoek of op eigen initiatief verlenen van adviezen met betrekking tot de elektriciteits- en gasmarkt aan het Vlaams Parlement, de minister of de Vlaamse Regering;<br>
+b) het uitvoeren van studies of onderzoeken betreffende de elektriciteits- en gasmarkt, op eigen initiatief of op verzoek van het Vlaams Parlement, de minister of de Vlaamse Regering.<br>
+<br>
+De VREG kan door&nbsp;het Vlaams Parlement&nbsp;worden belast met bijzondere opdrachten die met haar missie en taken verband houden.
 
 ### ART. 3.1.4.
 
-§ 1. Met het oog op de vervulling van haar taken is de VREG gerechtigd om   alle activiteiten te verrichten die rechtstreeks of onrechtstreeks bijdragen tot   de verwezenlijking van voormelde missie en taken.<BR><BR>§ 2. Zonder afbreuk te   doen aan de bepalingen in het kaderdecreet Bestuurlijk Beleid, beschikt de VREG   ook over de hierna vermelde bijzondere bevoegdheden, die ze uitoefent in   overeenstemming met de bepalingen in dit decreet, de bijbehorende   uitvoeringsbepalingen, en de beheersovereenkomst die haar verbindt :<BR>1° het   aangaan van overeenkomsten met derden;<BR>2° het opleggen van administratieve   sancties wegens overtreding van de bepalingen van titels IV, V, VI en hoofdstuk   I tot en met IV van titel VII van dit decreet, evenals de bijbehorende   uitvoeringsbepalingen;<BR>3° de aanwijzing, de wijziging en beëindiging van de   aanwijzing van de netbeheerders;<BR>4° het toekennen aan een   distributienetbeheerder van de toestemming om een beroep te doen op een   werkmaatschappij;<BR>5° de toekenning van leveringsvergunningen, de wijziging en   de opheffing ervan;<BR>6° het opstellen van de technische reglementen;<BR>7° de   toekenning van groenestroomcertificaten, warmtekrachtcertificaten,   groenewarmtecertificaten en garanties van oorsprong, en het beheer van die   certificaten en garanties van oorsprong in een centrale databank;<BR>8° het   sluiten van samenwerkingsovereenkomsten en het tot stand brengen van duurzame   samenwerkingsverbanden, de zogenaamde partnerschapovereenkomsten met de   regulatoren en instanties die werkzaam zijn binnen de Vlaamse, Belgische en   Europese elektriciteits- en aardgasmarkt;<BR>9° het uitvoeren van onderzoeken   naar de werking van de elektriciteits- en gasmarkt in het Vlaamse Gewest;<BR>10°   het opleggen van noodzakelijke en evenredige maatregelen om de daadwerkelijke   mededinging te bevorderen en de goede werking van de Vlaamse elektriciteits- en   gasmarkt te waarborgen;<BR>11° de samenwerking en uitwisseling van gegevens met   de regulatoren en instanties die werken binnen de Vlaamse, Belgische en Europese   elektriciteits- en gasmarkt, voor zover de bepalingen van artikel 3.1.12 worden   nageleefd;<BR>12° het goedkeuren van distributienettarieven voor elektriciteit   en aardgas en het vaststellen van de berekeningsmethodes hiervoor, volgens   transparante criteria of het nemen van overgangsmaatregelen hierover,   overeenkomstig de bepalingen van dit decreet.
+§ 1. Met het oog op de vervulling van haar taken is de VREG gerechtigd om alle activiteiten te verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van voormelde missie en taken.<br>
+<br>
+§ 2. De VREG beschikt over de hierna vermelde bevoegdheden, die hij uitoefent in overeenstemming met de bepalingen in dit decreet, de uitvoeringsbepalingen, en het ondernemingsplan dat hem verbindt:<br>
+1° het aangaan van overeenkomsten met derden;<br>
+2° het opleggen van administratieve sancties wegens overtreding van de bepalingen van titels IV, V, VI en hoofdstuk I tot en met IV van titel VII van dit decreet, evenals de bijbehorende uitvoeringsbepalingen;<br>
+3° de aanwijzing, de wijziging en beëindiging van de aanwijzing van de netbeheerders;<br>
+4° het toekennen aan een distributienetbeheerder van de toestemming om een beroep te doen op een werkmaatschappij;<br>
+5° de toekenning van leveringsvergunningen, de wijziging en de opheffing ervan;<br>
+6° het opstellen van de technische reglementen;<br>
+7° de toekenning van groenestroomcertificaten, warmtekrachtcertificaten, groenewarmtecertificaten en garanties van oorsprong, en het beheer van die certificaten en garanties van oorsprong in een centrale databank;<br>
+8° het sluiten van samenwerkingsovereenkomsten en het tot stand brengen van duurzame samenwerkingsverbanden, de zogenaamde partnerschapovereenkomsten met de regulatoren en instanties die werkzaam zijn binnen de Vlaamse, Belgische en Europese elektriciteits- en aardgasmarkt;<br>
+9° het uitvoeren van onderzoeken naar de werking van de elektriciteits- en gasmarkt in het Vlaamse Gewest;<br>
+10° het opleggen van noodzakelijke en evenredige maatregelen om de daadwerkelijke mededinging te bevorderen en de goede werking van de Vlaamse elektriciteits- en gasmarkt te waarborgen;<br>
+11° de samenwerking en uitwisseling van gegevens met de regulatoren en instanties die werken binnen de Vlaamse, Belgische en Europese elektriciteits- en gasmarkt, voor zover de bepalingen van artikel 3.1.12 worden nageleefd;<br>
+12° het goedkeuren van distributienettarieven voor elektriciteit en aardgas en het vaststellen van de berekeningsmethodes hiervoor, volgens transparante criteria of het nemen van overgangsmaatregelen hierover, overeenkomstig de bepalingen van dit decreet.
 
 ### ART. 3.1.4/1.
 
@@ -299,59 +353,222 @@ Partijen die een klacht hebben tegen een netbeheerder of beheerder van een geslo
 
 ## [Onderafdeling I. De organen van de VREG (ing. decr. 25 november 2016, art. 7, I: 9 februari 2017)]
 
+### ART 3.1.4/4.
+
+De organen van de VREG zijn de raad van bestuur en de algemeen directeur.
+
 ## [Onderafdeling II. (verv. decr. 25 november 2016, art. 7, I: 9 februari 2017)] Raad van bestuur
 
 ### ART. 3.1.5.
 
-§ 1. De VREG wordt bestuurd door een raad van bestuur die is samengesteld uit minstens vijf leden.<br /><br />De leden van de raad van bestuur worden door de Vlaamse Regering aangesteld voor een vaste termijn van vijf jaar, die eenmaal kan worden verlengd.<br /><br />Het vorig lid laat het lopende mandaat van de bestuurders van de VREG op 1 januari 2011 ongemoeid.<br /><br />§ 2. De Vlaamse Regering wijst onder de leden van de raad van bestuur de voorzitter aan.<br /><br />§ 3. De door de Vlaamse Regering voorgedragen leden van de raad van bestuur kunnen bij consensus onafhankelijke bestuurders coöpteren, voor een vaste termijn van vijf jaar, die eenmaal kan worden verlengd. Het aantal onafhankelijke bestuurders mag een vierde van het aantal stemgerechtigde leden van de raad van bestuur niet overschrijden.<br /><br />§ 4. De leden van de raad van bestuur kunnen alleen worden ontslagen op eigen verzoek of bij niet-naleving van de vereisten, vermeld in artikel 3.1.7.
+§ 1. De VREG wordt bestuurd door een raad van bestuur die uit zeven leden bestaat.<br>
+<br>
+De leden van de raad van bestuur worden aangewezen door het Vlaams Parlement voor een eenmalig hernieuwbare termijn van vijf jaar. De raad van bestuur kiest onder zijn leden een voorzitter.<br>
+<br>
+Alle leden van de raad van bestuur moeten beantwoorden aan artikel 3.1.7 van het Energiedecreet.<br>
+<br>
+§ 2. Ten hoogste twee derde van de leden is van hetzelfde geslacht.<br>
+<br>
+§ 3. De leden van de raad van bestuur kunnen alleen worden ontslagen op eigen verzoek, bij niet-naleving van de vereisten vermeld in artikel 3.1.7 of ten gevolge van een strafrechtelijke veroordeling.<br>
+<br>
+§ 4. De leden van de raad van bestuur worden vergoed overeenkomstig categorie I van het besluit van de Vlaamse Regering tot regeling van de vergoeding van de bestuurders van de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen van de Vlaamse overheid, en van de regeringsafgevaardigden die toezicht uitoefenen bij deze agentschappen.
 
 ### ART. 3.1.6.
 
-Alle leden van de raad van bestuur zijn stemgerechtigd.
+Alle leden van de raad van bestuur zijn stemgerechtigd.<br>
+<br>
+De algemeen directeur van de VREG woont de raad van bestuur bij met raadgevende stem.
 
 ### ART. 3.1.7.
 
-§ 1. Het mandaat van bestuurder van de VREG is onverenigbaar met :<br />1° iedere functie of activiteit, al dan niet bezoldigd, ten dienste van een neteigenaar, een netbeheerder, een producent die geen zelfopwekker is, een aardgasinvoerder, de beheerder van het transmissienet, de beheerder van het vervoersnet, een werkmaatschappij, een leverancier, een bevrachter of een evenwichtsverantwoordelijke;<br />2° het bezit van aandelen, of andere met aandelen gelijk te stellen waardepapieren, uitgegeven door een neteigenaar of marktpartij, of het bezit van financiële instrumenten die het mogelijk maken om dergelijke aandelen of waardepapieren te verwerven of over te dragen, of die aanleiding geven tot een betaling in contanten die hoofdzakelijk afhankelijk is van de evolutie van de waarde van dergelijke aandelen of waardepapieren;<br />3° het lidmaatschap van de wetgevende kamers, het Europees Parlement en de gemeenschaps- en gewestraden;<br />4° de functie of het ambt van minister, staatssecretaris, het lidmaatschap van een gewest- of gemeenschapsregering, het lidmaatschap van het kabinet van een lid van de Federale Regering of van een gemeenschaps- of gewestregering, het lidmaatschap van de bestendige deputatie van de provincieraden en het lidmaatschap van het college van burgemeester en schepenen van een gemeente;<br />5° een functie in de VREG, de gedelegeerd bestuurder uitgezonderd;<br />6° een functie in een departement of een ander agentschap van de federale of gewestelijke overheid.<br /><br />Het verbod, vermeld in het eerste lid, 1°, blijft van kracht gedurende één jaar na afloop van het mandaat bij de VREG.<br /><br />§ 2. Als een bestuurder de bepalingen van paragraaf 1 overtreedt, beschikt hij over een termijn van drie maanden om de mandaten of functies die tot de onverenigbaarheid aanleiding geven, neer te leggen.<br /><br />Als de bestuurder nalaat de onverenigbare mandaten of functies neer te leggen, wordt hij na afloop van de termijn, vermeld in het eerste lid, van rechtswege geacht zijn mandaat in het agentschap te hebben neergelegd, zonder dat het afbreuk doet aan de rechtsgeldigheid van de handelingen die hij inmiddels heeft gesteld of van de beraadslagingen waaraan hij inmiddels heeft deelgenomen. In zijn vervanging wordt voorzien overeenkomstig de bepalingen van artikel 3.1.5.
+§ 1. Het mandaat van bestuurder van de VREG is onverenigbaar met :<br>
+1° iedere functie of activiteit, al dan niet bezoldigd, ten dienste van een neteigenaar, een netbeheerder, een producent die geen zelfopwekker is, een aardgasinvoerder, de beheerder van het transmissienet, de beheerder van het vervoersnet, een werkmaatschappij, een leverancier, een bevrachter of een evenwichtsverantwoordelijke;<br>
+2° het bezit van aandelen, of andere met aandelen gelijk te stellen waardepapieren, uitgegeven door een neteigenaar of marktpartij, of het bezit van financiële instrumenten die het mogelijk maken om dergelijke aandelen of waardepapieren te verwerven of over te dragen, of die aanleiding geven tot een betaling in contanten die hoofdzakelijk afhankelijk is van de evolutie van de waarde van dergelijke aandelen of waardepapieren;<br>
+3° het lidmaatschap van de wetgevende kamers, het Europees Parlement en de gemeenschaps- en gewestraden;<br>
+4° de functie of het ambt van minister, staatssecretaris, het lidmaatschap van een gewest- of gemeenschapsregering, het lidmaatschap van het kabinet van een lid van de Federale Regering of van een gemeenschaps- of gewestregering, het lidmaatschap van de bestendige deputatie van de provincieraden en het lidmaatschap van het college van burgemeester en schepenen van een gemeente;<br>
+5° een functie in de VREG;<br>
+6° een functie in een departement of een ander agentschap van de federale of gewestelijke overheid.<br>
+<br>
+Het verbod, vermeld in het eerste lid, 1°, blijft van kracht gedurende één jaar na afloop van het mandaat bij de VREG.<br>
+<br>
+§ 2. Als een bestuurder de bepalingen van paragraaf 1 overtreedt, beschikt hij over een termijn van drie maanden om de mandaten of functies die tot de onverenigbaarheid aanleiding geven, neer te leggen.<br>
+<br>
+Als de bestuurder nalaat de onverenigbare mandaten of functies neer te leggen, wordt hij na afloop van de termijn, vermeld in het eerste lid, van rechtswege geacht zijn mandaat in het agentschap te hebben neergelegd, zonder dat het afbreuk doet aan de rechtsgeldigheid van de handelingen die hij inmiddels heeft gesteld of van de beraadslagingen waaraan hij inmiddels heeft deelgenomen. In zijn vervanging wordt voorzien overeenkomstig de bepalingen van artikel 3.1.5.
 
 ### ART. 3.1.8.
 
-De raad van bestuur beschikt over de volheid van bestuursbevoegdheid en beslist in alle aangelegen-heden waarvoor de VREG krachtens dit decreet bevoegd is.<br /><br />Tot de bevoegdheden van de raad van bestuur, waarvoor geen delegatie mogelijk is, behoren, naast de bevoegdheden in andere decreten, in elk geval :<br />1° het sluiten, op voorstel van de gedelegeerd bestuurder, van de beheersovereenkomst;<br />2° het opstellen van het ontwerp van begroting en van de rekeningen;<br />3° het vaststellen, op voorstel van de gedelegeerd bestuurder, van het jaarlijks ondernemingsplan, evenals een operationeel plan op middellange en lange termijn als vermeld in artikel 15, § 1, 4°, van het kaderdecreet Bestuurlijk Beleid;<br />4° het beslissen over de deelname van de VREG aan de oprichting van of de deelname in andere publiek- of privaatrechtelijke rechtspersonen, het bestuur of de leiding en de financiering van die rechtspersonen;<br />5° de goedkeuring van de rapportering over de uitvoering van de beheersovereenkomst;<br />6° het rapporteren over de uitvoering van de begroting;<br />7° het sluiten van samenwerkingsovereenkomsten en het tot stand brengen van duurzame samenwerkingsverbanden met andere regulatoren en instanties die werkzaam zijn binnen de Vlaamse, Belgische en Europese elektriciteits- en aardgasmarkt.
+De raad van bestuur beschikt over de volheid van bestuursbevoegdheid en beslist in alle aangelegenheden waarvoor de VREG krachtens dit decreet bevoegd is.<br>
+<br>
+Tot de bevoegdheden van de raad van bestuur, waarvoor geen delegatie mogelijk is, behoren, naast de bevoegdheden in andere decreten, in elk geval:<br>
+1° het goedkeuren van het ontwerp van begroting en van de rekeningen;<br>
+2° het vaststellen en goedkeuren van een jaarrapport over de uitvoering van het ondernemingsplan;<br>
+3° het beslissen over de deelname van de VREG aan de oprichting van of de deelname in andere publiek- of privaatrechtelijke rechtspersonen, het bestuur of de leiding en de financiering van die rechtspersonen;<br>
+4° het sluiten van samenwerkingsovereenkomsten en het tot stand brengen van duurzame samenwerkingsverbanden met andere regulatoren en instanties die werkzaam zijn binnen de Vlaamse, Waalse, Brusselse Hoofdstedelijke, Belgische en Europese elektriciteits- en aardgasmarkt;<br>
+5° het vaststellen en bepalen van de tariefmethodologie overeenkomstig de bepaling zoals opgenomen in afdeling XII van het Energiedecreet;<br>
+6° het vaststellen en bepalen van de tariefstructuur;<br>
+7° het goedkeuren van de technische reglementen.<br>
+<br>
+De VREG licht het Vlaams Parlement in van zijn beslissing tot goedkeuring van de tariefmethodologie, zoals bedoeld in punt 5° van het vorige lid.
 
 ## [Onderafdeling III. Algemeen directeur (verv. decr. 25 november 2016, art. 7, I: 9 februari 2017)]
 
 ### ART. 3.1.9.
 
-§ 1. De Vlaamse Regering stelt de gedelegeerd be-stuurder van de VREG aan. Die maakt deel uit van de raad van bestuur.<br /><br />§ 2. Als de gedelegeerd bestuurder niet langer lid van de raad van bestuur is, neemt ook zijn opdracht als gedelegeerd bestuurder van rechtswege een einde. In die situatie geldt de regeling in artikel 18 van het kaderdecreet Bestuurlijk Beleid.<br /><br />In het geval, vermeld in het eerste lid, doet de Vlaamse Regering onverwijld het nodige om een nieuwe gedelegeerd bestuurder aan te stellen.
+De algemeen directeur van de VREG wordt op gemotiveerde wijze benoemd en ontslagen door de raad van bestuur.<br>
+<br>
+De algemeen directeur wordt benoemd omwille van zijn deskundigheid, inzonderheid voor wat betreft het management.<br>
+<br>
+De algemeen directeur wordt benoemd voor een termijn van zes jaar. Deze termijn is eenmalig hernieuwbaar na een positieve evaluatie door de raad van bestuur.<br>
+<br>
+De marktconforme bezoldiging van de algemeen directeur wordt bepaald door de raad van bestuur.<br>
+<br>
+De rechtspositieregeling van de algemeen directeur wordt bepaald door de raad van bestuur van de VREG.
 
 ### ART. 3.1.10.
 
-§ 1. De gedelegeerd bestuurder is, binnen de perken van dit decreet, de bijbehorende uitvoeringsbepa-lingen en het huishoudelijk reglement, vermeld in artikel 3.1.11, belast met het dagelijks bestuur van de VREG.<br /><br />Het huishoudelijk reglement legt de taken van het dagelijks bestuur vast. Die taken omvatten in elk geval het nemen van de beslissingen ter uitvoering van de bevoegdheden van de VREG, vermeld in artikel 3.1.4, § 2, 1° tot en met 7°.<br /><br />§ 2. De gedelegeerd bestuurder is belast met de voorbereiding van de beslissingen van de raad van bestuur. Hij verstrekt aan de raad van bestuur alle inlichtingen en brengt alle voorstellen die voor de werking van de VREG nuttig of nodig zijn op de agenda van de raad van bestuur.<br /><br />§ 3. De gedelegeerd bestuurder vertegenwoordigt de VREG in de gerechtelijke en buitengerechtelijke handelingen, met inbegrip van het optreden voor administratieve rechtscolleges, en treedt rechtsgeldig in naam en voor rekening van de VREG op, zonder dat hij dat aan de hand van een beslissing van de raad van bestuur moet staven.<br /><br />§ 4. Zonder afbreuk te doen aan de rechtspositieregeling van het personeel, kan de gedelegeerd bestuurder onder zijn verantwoordelijkheid een of meerdere specifieke bevoegdheden delegeren aan een of meer personeelsleden van de VREG. Die delegatie wordt bekendgemaakt in het Belgisch Staatsblad.<br /><br />§ 5. De gedelegeerd bestuurder voert de beslissingen van de raad van bestuur uit.<br /><br />§ 6. De gedelegeerd bestuurder is belast met de leiding van het personeel.
+§ 1. De algemeen directeur is, binnen de perken van dit decreet, de bijbehorende uitvoeringsbepa-lingen en het huishoudelijk reglement, vermeld in artikel 3.1.11, belast met het dagelijks bestuur van de VREG.<br>
+<br>
+Het huishoudelijk reglement legt de taken van het dagelijks bestuur vast.<br>
+<br>
+§ 2. De algemeen directeur is belast met de voorbereiding van de beslissingen van de raad van bestuur. Hij verstrekt aan de raad van bestuur alle inlichtingen en brengt alle voorstellen die voor de werking van de VREG nuttig of nodig zijn op de agenda van de raad van bestuur.<br>
+<br>
+§ 3. De algemeen directeur vertegenwoordigt de VREG in de gerechtelijke en buitengerechtelijke handelingen, met inbegrip van het optreden voor administratieve rechtscolleges, en treedt rechtsgeldig in naam en voor rekening van de VREG op, zonder dat hij dat aan de hand van een beslissing van de raad van bestuur moet staven.<br>
+<br>
+§ 4. Zonder afbreuk te doen aan de rechtspositieregeling van het personeel, kan de algemeen directeur onder zijn verantwoordelijkheid een of meerdere specifieke bevoegdheden delegeren aan een of meer personeelsleden van de VREG. Die delegatie wordt bekendgemaakt in het Belgisch Staatsblad.<br>
+<br>
+§ 5. De algemeen directeur voert de beslissingen van de raad van bestuur uit.<br>
+<br>
+§ 6. De algemeen directeur is belast met de leiding van het personeel.
+
+### ART 3.1.10/1.
+
+De algemeen directeur stelt een directieteam samen.<br>
+<br>
+De leden van het directieteam worden tewerkgesteld krachtens arbeidsovereenkomsten beheerst door de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.<br>
+<br>
+De leden van het directieteam worden gekozen omwille van hun deskundigheid, inzonderheid voor wat betreft de directies die zij leiden.
 
 ## Afdeling IV. Huishoudelijk reglement
 
 ### ART. 3.1.11.
 
-§ 1. De raad van bestuur stelt een huishoudelijk reglement op, dat inzonderheid de volgende inhoud heeft :<br />1° de regels inzake de bijeenroeping van de raad van bestuur, op verzoek van de Vlaamse Regering of haar afgevaardigde, de voorzitter van de raad van bestuur of de gedelegeerd bestuurder;<br />2° de regels inzake het voorzitterschap van de raad van bestuur, en de regels bij afwezigheid of verhindering van de voorzitter;<br />3° de nadere precisering van het dagelijks bestuur;<br />4° de regels die de raad van bestuur in acht moet nemen bij de uitoefening van zijn bevoegdheden;<br />5° de voorwaarden die de raad van bestuur moet respecteren bij de behartiging van bijzondere vraagstukken;<br />6° de regels op grond waarvan de leden van de raad van bestuur zich op kosten van de VREG kunnen laten bijstaan door technische raadgevers.<br /><br />§ 2. ...<br /><br />§ 3. ...<br /><br />§ 4. Het huishoudelijk reglement wordt gepubliceerd in het Belgisch Staatsblad.
+§ 1. De raad van bestuur stelt een huishoudelijk reglement op, dat inzonderheid de volgende inhoud heeft :<br>
+1° de regels inzake de bijeenroeping van de raad van bestuur, op verzoek van de voorzitter van de raad van bestuur, de algemeen directeur of ten minste vier leden van de raad van bestuur;<br>
+2° de regels inzake het voorzitterschap van de raad van bestuur, en de regels bij afwezigheid of verhindering van de voorzitter;<br>
+3° de nadere precisering van het dagelijks bestuur;<br>
+4° de regels die de raad van bestuur in acht moet nemen bij de uitoefening van zijn bevoegdheden;<br>
+5° de voorwaarden die de raad van bestuur moet respecteren bij de behartiging van bijzondere vraagstukken;<br>
+6° de regels op grond waarvan de leden van de raad van bestuur zich op kosten van de VREG kunnen laten bijstaan door technische raadgevers.<br>
+<br>
+Bij de vaststelling van het huishoudelijk reglement doet de raad van bestuur geen afbreuk aan de bepalingen van artikel 3.1.8.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. Het huishoudelijk reglement wordt gepubliceerd in het Belgisch Staatsblad.
 
 ## Afdeling V. Beroepsgeheim
 
 ### ART. 3.1.12.
 
-De bestuurders en de personeelsleden van de VREG zijn gebonden door het beroepsgeheim. Zij mogen de vertrouwelijke gegevens die hun ter kennis komen op grond van hun functie bij de VREG aan niemand bekendmaken, behalve wanneer zij worden opge-roepen om in rechte te getuigen of in het kader van de uitwisseling van gegevens met de regulatoren en instanties die werkzaam zijn binnen de Vlaamse, Belgische en Europese elektriciteits- en aardgasmarkt, voor zover die gegevensuitwisseling nadrukkelijk bepaald of toegestaan is in verordeningen of richtlij-nen die de instellingen van de Europese Unie hebben vastgesteld, of als met die instanties een overeenkomst is gesloten, als vermeld in artikel 3.1.4, § 2, 8°.
+De bestuurders, de algemeen directeur en de personeelsleden van de VREG zijn gebonden door het beroepsgeheim. Zij mogen de vertrouwelijke gegevens die hun ter kennis komen op grond van hun functie bij de VREG aan niemand bekendmaken, behalve wanneer zij worden opge-roepen om in rechte te getuigen of in het kader van de uitwisseling van gegevens met de regulatoren en instanties die werkzaam zijn binnen de Vlaamse, Belgische en Europese elektriciteits- en aardgasmarkt, voor zover die gegevensuitwisseling nadrukkelijk bepaald of toegestaan is in verordeningen of richtlij-nen die de instellingen van de Europese Unie hebben vastgesteld, of als met die instanties een overeenkomst is gesloten, als vermeld in artikel 3.1.4, § 2, 8°.
 
 ## [Afdeling V/1. Rechtspositieregeling van de personeelsleden van de VREG (ing. Decr. 8 juli 2011, art. 13, I: 26 augustus 2011)]
 
 ### ART. 3.1.12/1.
 
-Het uitoefenen van een functie als werknemer van de VREG is onverenigbaar met :<br />1° iedere functie of activiteit, al dan niet bezoldigd, ten dienste van een neteigenaar, een netbeheerder, een producent die geen zelfopwekker is, een aardgasinvoerder, de beheerder van het transmissienet, de beheerder van het vervoersnet, een werkmaatschappij, een leverancier, een bevrachter of een evenwichtsverantwoordelijke;<br />2° het bezit van aandelen, of andere met aandelen gelijk te stellen waardepapieren, uitgegeven door een neteigenaar of marktpartij, of het bezit van financiële instrumenten die het mogelijk maken om dergelijke aandelen of waardepapieren te verwerven of over te dragen, of die aanleiding geven tot een betaling in contanten die hoofdzakelijk afhankelijk is van de evolutie van de waarde van dergelijke aandelen of waardepapieren;<br />3° het lid zijn van de wetgevende kamers, het Europees Parlement en de gemeenschaps- en gewestraden;<br />4° de functie of het ambt van minister, staatssecretaris, lid van gewest- of gemeenschapsregering, lid van het kabinet van een lid van de Federale Regering of van een gemeenschaps- of gewestregering, lid van de bestendige deputatie van de provincieraden en lid van het college van burgemeester en schepenen van een gemeente;<br />5° een functie in een departement of een ander agentschap van de federale of gewestelijke overheid.
+Het uitoefenen van een Functie als algemeen directeur of personeelslid van de VREG is onverenigbaar met :<br>
+1° iedere functie of activiteit, al dan niet bezoldigd, ten dienste van een neteigenaar, een netbeheerder, een producent die geen zelfopwekker is, een aardgasinvoerder, de beheerder van het transmissienet, de beheerder van het vervoersnet, een werkmaatschappij, een leverancier, een bevrachter of een evenwichtsverantwoordelijke;<br>
+2° het bezit van aandelen, of andere met aandelen gelijk te stellen waardepapieren, uitgegeven door een neteigenaar of marktpartij, of het bezit van financiële instrumenten die het mogelijk maken om dergelijke aandelen of waardepapieren te verwerven of over te dragen, of die aanleiding geven tot een betaling in contanten die hoofdzakelijk afhankelijk is van de evolutie van de waarde van dergelijke aandelen of waardepapieren;<br>
+3° het lid zijn van de wetgevende kamers, het Europees Parlement en de gemeenschaps- en gewestraden;<br>
+4° de functie of het ambt van minister, staatssecretaris, lid van gewest- of gemeenschapsregering, lid van het kabinet van een lid van de Federale Regering of van een gemeenschaps- of gewestregering, lid van de bestendige deputatie van de provincieraden en lid van het college van burgemeester en schepenen van een gemeente;<br>
+5° een functie in een departement of een ander agentschap van de federale of gewestelijke overheid.
 
 ## [Afdeling V/2. Aansprakelijkheid en rechtspositieregeling (ing. decr. 25 november 2016, art. 19, I: 9 februari 2017)]
+
+### ART 3.1.12/2.
+
+Als een bestuurder rechtstreeks of onrechtstreeks een belang heeft dat strijdig is met een beslissing of een verrichting die tot de bevoegdheid van de raad van bestuur behoort, mag hij niet deelnemen aan de beraadslaging van de raad van bestuur over deze verplichtingen of beslissingen, noch aan de stemming in dat verband.
+
+### ART 3.1.12/3.
+
+De bestuurders zijn verantwoordelijk voor de vervulling van de hun opgedragen taak en aansprakelijk voor de tekortkomingen in hun bestuur. Zij zijn hetzij jegens de VREG, hetzij jegens derden, hoofdelijk aansprakelijk voor alle schade die het gevolg is van overtreding van dit decreet en de uitvoeringsbesluiten.
+
+### ART 3.1.12/4.
+
+§ 1. De personeelsleden van de VREG zijn onderworpen aan de rechtspositieregeling die van toepassing is op de personeelsleden van de diensten van de Vlaamse overheid.<br>
+<br>
+§ 2. De personeelsleden van de VREG zijn onderworpen aan artikel 1 van het besluit van de Vlaamse Regering van 12 januari 2007 op basis waarvan de VREG gemachtigd is om deel te nemen aan de pensioenregeling ingesteld bij de wet van 28 april 1958 betreffende het pensioen van het personeel van zekere organismen van openbaar nut alsmede van hun rechthebbende alsook het koninklijk besluit van 6 maart 2008 waarmee deze pensioenregeling van toepassing werd verklaard op het personeel van de VREG.
 
 ## [Afdeling VI. Financiële middelen en controle (verv. decr. 25 november 2016, art. 23, I: 9 februari 2017)]
 
 ### ART. 3.1.13.
 
-§ 1. De VREG kan beschikken over de volgende ontvangsten :<br />1° de dotatie;<br />2° retributies voor zover die bij decreet aan de VREG toegewezen zijn;<br />3° ontvangsten die voortvloeien uit daden van beheer of beschikking met betrekking tot eigen domeingoederen;<br />4° de subsidies waarvoor de VREG als begunstigde in aanmerking komt;<br />5° terugvorderingen van ten onrechte gedane uitgaven;<br />6° vergoedingen voor prestaties aan derden, volgens de voorwaarden in de beheersovereenkomst.<br /><br />§ 2. Tenzij het in een decreet anders is bepaald, worden de ontvangsten, vermeld in § 1, beschouwd als ontvangsten die bestemd zijn voor de gezamenlijke uitgaven.
+§ 1. De VREG kan beschikken over de volgende ontvangsten :<br>
+1° de dotatie;<br>
+2° retributies voor zover die bij decreet aan de VREG toegewezen zijn;<br>
+3° ontvangsten die voortvloeien uit daden van beheer of beschikking met betrekking tot eigen domeingoederen;<br>
+4° de subsidies waarvoor de VREG als begunstigde in aanmerking komt;<br>
+5° terugvorderingen van ten onrechte gedane uitgaven;<br>
+6° vergoedingen voor prestaties aan derden, volgens de voorwaarden in de beheersovereenkomst.<br>
+<br>
+§ 2. Tenzij het in een decreet anders is bepaald, worden de ontvangsten, vermeld in § 1, beschouwd als ontvangsten die bestemd zijn voor de gezamenlijke uitgaven.<br>
+<br>
+&nbsp;§ 3. De werkingskosten van de VREG worden gedekt door het Energiefonds, ten belope van de kredieten in de begroting bepaald door de raad van bestuur na rapportering aan het Vlaams Parlement zoals bepaald in paragraaf 5.<br>
+<br>
+§ 4. De VREG duidt een bedrijfsrevisor aan. Deze bedrijfsrevisor mag geen functie vervullen bij de netbeheerder, de distributienetbeheerders alsook bij de producenten, leveranciers en tussenpersonen.<br>
+<br>
+De bedrijfsrevisor, aangeduid overeenkomstig het eerste lid, controleert de financiële toestand en de jaarrekeningen van de VREG alsook de regelmatigheid van de verrichtingen te constateren in de jaarrekeningen. Hiervan stelt hij een verslag op.<br>
+<br>
+Bij het uitvoeren van hun opdracht passen het Rekenhof en de bedrijfsrevisor de regels inzake single audit toe.<br>
+<br>
+§ 5. Het ontwerp van begroting van de VREG wordt opgemaakt door de algemeen directeur. Het ontwerp van begroting van de VREG, vergezeld van een ontwerp van ondernemingsplan, wordt na goedkeuring door de raad van bestuur van het jaar voorafgaand aan dit waarop het betrekking heeft, overgemaakt aan het Vlaams Parlement, ter bespreking.<br>
+<br>
+Na de hoorzitting in het Vlaams Parlement stelt de VREG zijn definitieve begroting en ondernemingsplan vast.<br>
+<br>
+Op basis van deze definitieve begroting stelt de Vlaamse Regering de dotatie voor de VREG vast.<br>
+<br>
+De VREG zendt de jaarrekening, vergezeld van het verslag van de bedrijfsrevisor opgesteld op basis van paragraaf 4, tweede lid, voor 31 maart van het jaar volgend op het betrokken jaar, over aan het Vlaams Parlement en aan het Rekenhof. Het Rekenhof controleert de jaarrekening van de VREG en zendt zijn auditverslag over aan het Vlaams Parlement.<br>
+<br>
+§ 6. De VREG is onderworpen aan de bepalingen zoals opgenomen in titel 6 van het Rekendecreet van 8 juli 2011.<br>
+<br>
+§ 7. De algemeen directeur staat in voor de noodzakelijke informatie-uitwisseling met de Vlaamse Regering voor de opmaak van de algemene uitgavenbegroting en de opmaak van de ESR-consolidatie.<br>
+<br>
+§ 8. De VREG stelt jaarlijks uiterlijk op 31 januari een ondernemingsplan voor dat jaar vast en deelt het mee aan het Vlaams Parlement. Het omvat onder meer de beleids- en beheersdoelstellingen, zowel meerjarig als voor het komende jaar, en de operationele vertaling ervan. Als bij het verstrijken van een ondernemingsplan geen nieuw ondernemingsplan in werking is getreden, blijft het bestaande ondernemingsplan van toepassing tot op het ogenblik dat het nieuwe ondernemingsplan in werking treedt.<br>
+<br>
+§ 9. De VREG stelt jaarlijks een jaarrapport over de uitvoering van het ondernemingsplan op dat hij aan het Vlaams Parlement overzendt. Wat betreft de punten 1°, 3° en 4° gebeurt dit voor 31 januari van het jaar volgend op het betrokken boekjaar. Wat betreft punt 2° gebeurt dit voor 31 maart van het jaar volgend op het betrokken boekjaar. Het jaarrapport van de VREG heeft onder meer betrekking op:<br>
+1° de uitvoering van het ondernemingsplan van het voorgaande jaar;<br>
+2° de staat van zijn werkingskosten en de wijze waarop zij gedekt zijn, met inbegrip van een overzicht van activa/passiva en het verslag van de bedrijfsrevisor;<br>
+3° de evolutie van de energiemarkten;<br>
+4° de beslissingen die eventueel werden genomen tijdens het betrokken boekjaar inzake de methodologie voor de berekening van de tarieven, de tariefstructuur en het technisch reglement.<br>
+<br>
+De VREG beschrijft in dit verslag de wijze waarop hij zijn doelstellingen al dan niet heeft bereikt.<br>
+<br>
+Dit verslag wordt op de internetsite van de VREG gepubliceerd. Ter informatie wordt een afschrift van dit verslag eveneens naar de Vlaamse Regering gestuurd.
+
+### ART 3.1.14.
+
+De raad van bestuur van de VREG staat in voor de interne controle op de bedrijfsprocessen en activiteiten van de VREG. De interne controle is in het bijzonder gericht op:<br>
+1° het bereiken van de opgelegde doelstellingen en het effectief en efficiënt beheer van risico's;<br>
+2° de naleving van regelgeving en procedures;<br>
+3° de betrouwbaarheid van de financiële en beheersrapportering;<br>
+4° de effectieve en efficiënte werking van de diensten en het efficiënt inzetten van de middelen;<br>
+5° de bescherming van haar activa en de voorkoming van fraude.<br>
+<br>
+De raad van bestuur evalueert de interne controlesystemen van de VREG, gaat na of ze adequaat zijn en formuleert aanbevelingen tot verbetering daarvan. Zij voert daartoe financiële audits, overeenstemmingsaudits en operationele audits uit en is gemachtigd alle bedrijfsprocessen en activiteiten te onderzoeken.
+
+### ART 3.1.15.
+
+§ 1. De algemene rekeningen bestaan uit:<br>
+1° een jaarrekening die de volgende elementen bevat:<br>
+a) de balans op 31 december;<br>
+b) de resultatenrekening, opgesteld op basis van de kosten en de opbrengsten van het afgelopen boekjaar;<br>
+2° een jaarrapport over de uitvoering van de begroting, opgesteld in dezelfde vorm als de begroting;<br>
+3° een rapportering die de aansluiting tussen de jaarrekening, vermeld in punt 1°, en de rapportering, vermeld in punt 2°, bevat;<br>
+4° een toelichting bij de balans, de resultatenrekening en de rapportering over de begroting.<br>
+<br>
+§ 2. De VREG volgt bij het opstellen van de rekeningen de boekhoudkundige regels zoals bepaald in artikel 10 tot en met 15 van het besluit van de Vlaamse Regering betreffende de begroting en de boekhouding van de Vlaamse rechtspersonen.
 
 ## [Afdeling VII. Vergelijkingsinstrument (ing. decr. 2 april 2021, art. 8, I: 7 juni 2021)]
 
@@ -641,7 +858,23 @@ Tegen de beslissingen die de VREG met toepassing van titel IV, hoofdstuk   I, af
 
 ### ART. 4.2.1.
 
-§ 1. De VREG stelt, na voorafgaandelijk stakeholdersoverleg, een ontwerp   van technisch reglement op voor het beheer van het elektriciteitsdistributienet,   het aardgasdistributienet en het plaatselijk vervoernet van elektriciteit. Dit   ontwerp van reglement wordt vervolgens ter consultatie aan de marktpartijen   voorgelegd.<BR><BR>De reglementen bevatten telkens de bepalingen van toepassing   op de gesloten distributienetten. <BR><BR>§ 2. De technische reglementen,   vermeld in § 1, bevatten voor het beheer, de toegang tot en de aansluiting op   het net in ieder geval :<BR>1° de technische en operationele regels die   verbonden zijn aan de taken die behoren tot het beheer van het net, vermeld in   artikel 4.1.6;<BR>2° de verplichtingen die opgelegd zijn aan producenten,   evenwichtsverantwoordelijken, bevrachters, leveranciers, aanbieders van   energiediensten met inbegrip van exploitanten van noodgroepen, aggregatoren,   afnemers, aanvragers van toegang tot het net en aanvragers van een aansluiting   op het net, om de netbeheerder in staat te stellen zijn net zo kwaliteitsvol   mogelijk te beheren, inclusief de handels- en balanceringsvereisten opgelegd aan   iedere leverancier van elektriciteit of aardgas aan afnemers in het Vlaamse   Gewest;<BR>3° de regels voor de uitwisseling van gegevens tussen de beheerder   van het transmissienet, de vervoeronderneming, de distributienetbeheerders, de   beheerder van het plaatselijke vervoernet van elektriciteit, de beheerder van   het gesloten distributienet, de producenten, de aardgasinvoerders, de   evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de   leveranciers, de&nbsp;aanbieders van energiediensten met inbegrip van   aggregatorenen de afnemers;<BR>4° de regels die opgelegd zijn aan leveranciers   en netbeheerders bij klant- of leverancierswissels, verhuizing, bewoning naar   een nieuwe of verzegelde woning, verzegeling, afsluiting, de beëindiging van een   leveringscontract, de opname en rechtzetting van meterstanden en de allocatie en   reconciliatie, inclusief de financiële verrekeningen tussen marktpartijen;<BR>5°   de eventuele technische uitvoeringsregels bij openbaredienstverplichtingen die   opgelegd zijn aan leveranciers of netbeheerders op grond van dit decreet;<BR>6°   de informatieverplichtingen of voorafgaande goedkeuring door de VREG van de   operationele regels, algemene voorwaarden, typeovereenkomsten, formulieren en   procedures die gebruikt worden door de netbeheerder ten aanzien van   leveranciers, aanbieders van energiediensten met inbegrip van aggregatoren en   afnemers;<BR>7° de prioriteit die moet worden gegeven aan kwalitatieve   warmtekrachtinstallaties en aan productie-installaties van groene stroom;<BR>8°   de verplichting voor de netbeheerders tot het verstrekken van informatie aan de   VREG over de beoordeling die zij uitvoeren van het potentieel voor   energie-efficiëntie van hun gas- en elektriciteitsinfrastructuur, in het   bijzonder wat betreft transport, distributie, beheer van de belasting van het   net en interoperabiliteit, en de aansluiting op installaties voor   energieopwekking, inclusief de toegangsmogelijkheden voor   micro-energiegeneratoren.<BR><BR>§ 3. De technische reglementen, vermeld in § 1,   zijn onderworpen aan de goedkeuring van de Vlaamse Regering. In voorkomend geval   wordt de beslissing tot niet-goedkeuring onverwijld meegedeeld aan de VREG, die,   rekening houdend met de opmerkingen van de Vlaamse Regering, de&nbsp;gevraagde   aanpassingen verricht. Daarna wordt het technisch reglement opnieuw ter   goedkeuring voorgelegd aan de Vlaamse Regering.<BR><BR>De technische reglementen   treden pas in werking na bekendmaking in het Belgisch Staatsblad.
+§ 1. De VREG stelt, na voorafgaandelijk stakeholdersoverleg, een ontwerp van technisch reglement op voor het beheer van het elektriciteitsdistributienet, het aardgasdistributienet en het plaatselijk vervoernet van elektriciteit. Dit ontwerp van reglement wordt vervolgens ter consultatie aan de marktpartijen voorgelegd.<br>
+<br>
+De reglementen bevatten telkens de bepalingen van toepassing op de gesloten distributienetten.<br>
+<br>
+§ 2. De technische reglementen, vermeld in § 1, bevatten voor het beheer, de toegang tot en de aansluiting op het net in ieder geval :<br>
+1° de technische en operationele regels die verbonden zijn aan de taken die behoren tot het beheer van het net, vermeld in artikel 4.1.6;<br>
+2° de verplichtingen die opgelegd zijn aan producenten, evenwichtsverantwoordelijken, bevrachters, leveranciers, aanbieders van energiediensten met inbegrip van exploitanten van noodgroepen, aggregatoren, afnemers, aanvragers van toegang tot het net en aanvragers van een aansluiting op het net, om de netbeheerder in staat te stellen zijn net zo kwaliteitsvol mogelijk te beheren, inclusief de handels- en balanceringsvereisten opgelegd aan iedere leverancier van elektriciteit of aardgas aan afnemers in het Vlaamse Gewest;<br>
+3° de regels voor de uitwisseling van gegevens tussen de beheerder van het transmissienet, de vervoeronderneming, de distributienetbeheerders, de beheerder van het plaatselijke vervoernet van elektriciteit, de beheerder van het gesloten distributienet, de producenten, de aardgasinvoerders, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de&nbsp;aanbieders van energiediensten met inbegrip van aggregatorenen de afnemers;<br>
+4° de regels die opgelegd zijn aan leveranciers en netbeheerders bij klant- of leverancierswissels, verhuizing, bewoning naar een nieuwe of verzegelde woning, verzegeling, afsluiting, de beëindiging van een leveringscontract, de opname en rechtzetting van meterstanden en de allocatie en reconciliatie, inclusief de financiële verrekeningen tussen marktpartijen;<br>
+5° de eventuele technische uitvoeringsregels bij openbaredienstverplichtingen die opgelegd zijn aan leveranciers of netbeheerders op grond van dit decreet;<br>
+6° de informatieverplichtingen of voorafgaande goedkeuring door de VREG van de operationele regels, algemene voorwaarden, typeovereenkomsten, formulieren en procedures die gebruikt worden door de netbeheerder ten aanzien van leveranciers, aanbieders van energiediensten met inbegrip van aggregatoren en afnemers;<br>
+7° de prioriteit die moet worden gegeven aan kwalitatieve warmtekrachtinstallaties en aan productie-installaties van groene stroom;<br>
+8° de verplichting voor de netbeheerders tot het verstrekken van informatie aan de VREG over de beoordeling die zij uitvoeren van het potentieel voor energie-efficiëntie van hun gas- en elektriciteitsinfrastructuur, in het bijzonder wat betreft transport, distributie, beheer van de belasting van het net en interoperabiliteit, en de aansluiting op installaties voor energieopwekking, inclusief de toegangsmogelijkheden voor micro-energiegeneratoren.<br>
+<br>
+§ 3. De technische reglementen, vermeld in paragraaf 1, worden na een openbare consultatie goedgekeurd door de raad van bestuur van de VREG.<br>
+<br>
+De technische reglementen treden pas in werking na bekendmaking in het Belgisch Staatsblad.
 
 ## HOOFDSTUK III. De levering van elektriciteit en aardgas
 
