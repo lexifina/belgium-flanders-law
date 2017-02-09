@@ -121,5 +121,4 @@ De leden van de Vlaamse regering zijn, ieder wat hem betreft, belast met de uitv
 9. Binnenlandse Aangelegenheden:<br>
 - Vlaamse Adviescommissie voor Volksraadplegingen.<br>
 <br>
-10. Algemeen Regeringsbeleid:<br>
-- Raad voor Vlaamse Openbare Statistieken
+10. ...
