@@ -51,7 +51,7 @@ b) extern verzelfstandigde agentschappen naar publiek recht:<br>
 13) Vlaamse Maatschappij voor Sociaal Wonen - VMSW;<br>
 14) Vlaamse Landmaatschappij - VLM;<br>
 15) Vlaamse Regulator voor de Media - VRM;<br>
-16) Vlaamse Reguleringsinstantie voor de Elektriciteits- en Gasmarkt - VREG;<br>
+16) ...;<br>
 17) Vlaamse Vervoermaatschappij - De Lijn;<br>
 18) Waterwegen en Zeekanaal NV;<br>
 19) Agentschap Plantentuin Meise;<br>
