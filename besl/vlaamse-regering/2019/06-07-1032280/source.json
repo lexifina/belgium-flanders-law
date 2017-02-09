@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032280,
+  "title": "Besluit van de Vlaamse Regering van 2019-06-07 tot vaststelling van de rechtspositieregeling van het personeel van de [Vlaamse Nutsregulator]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032280/VolledigDocument?datum=2017-02-09",
+  "source_sha256": "211241c3ca6eefca995a9b406745e6e2d5e3a4aa90d0817b746cd212eab1b6b3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032280&param=informatie",
+  "as_of": "2017-02-09",
+  "made": "2019-06-07",
+  "gazette": "2019-09-23",
+  "numac": 2019014486,
+  "document_start": "2017-02-09",
+  "document_end": null,
+  "in_force": "2017-02-09",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2017-02-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
