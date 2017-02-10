@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027990,
+  "title": "Besluit van de Vlaamse Regering van 2017-02-03 tot wijziging van diverse bepalingen uit de regelgeving betreffende de thuiszorgvoorzieningen, wat betreft de uitvoering van het kerntakenplan en de invoering van een overgangsmaatregel voor diensten met minder dan 10 VTE verzorgend personeel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027990/VolledigDocument?datum=2017-02-10",
+  "source_sha256": "e54c9565422a7e5541cb3552b7cc73a7e93f306029c75f04ac13df19bab648a2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027990&param=informatie",
+  "as_of": "2017-02-10",
+  "made": "2017-02-03",
+  "gazette": "2017-03-08",
+  "numac": 2017010903,
+  "document_start": "2017-02-10",
+  "document_end": null,
+  "in_force": "2017-02-10",
+  "article_versions": 35,
+  "record_form": "consolidated version as in force on 2017-02-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
