@@ -141,7 +141,19 @@ Om voorlopig erkend te kunnen worden moet een ouderenvoorziening aan de volgende
 
 ### ART. 7.
 
-§ 1. Met het oog op de beleidsvoering op het vlak van de woonzorg en de   uitoefening van het toezicht door de Vlaamse overheid, verstrekt de voorziening   of de vereniging aan het agentschap informatie over haar werking in het algemeen   en haar kwaliteitsbeleid in het bijzonder. Conform artikel 67 van het   woonzorgdecreet van 13 maart 2009 registreert de voorziening of de vereniging   daarvoor anonieme gegevens over de activiteiten van het voorbije werkjaar. Die   registratiegegevens vermelden onderwerp, doel, vorm, frequentie, intensiteit van   de activiteiten en de bereikte doelgroep. De minister kan nadere regels bepalen   voor die registratie.<BR><BR>§ 2. De thuiszorgvoorziening, met uitzondering van   de dienst voor thuisverpleging en het centrum voor herstelverblijf, of de   vereniging bezorgt jaarlijks voor 15 april aan het agentschap het jaarverslag   van het voorbije werkjaar en de kwaliteitsplanning voor het lopende jaar. De   ouderenvoorziening, de dienst voor thuisverpleging en het centrum voor   herstelverblijf houden jaarlijks vanaf 15 april die documenten ter beschikking   van het agentschap.<BR><BR>Het jaarverslag bevat de registratiegegevens, vermeld   in § 1. Het bevat ook een evaluatie van de kwaliteitsplanning.<BR><BR>De   kwaliteitsplanning bevat een omschrijving van de activiteiten die worden   ontplooid om de doelstellingen, de kwaliteitseisen en het kwaliteitssysteem te   bepalen en te realiseren. Daarnaast bevat de planning de elementen van de   zelfevaluatie, vermeld in artikel 6, § 2, tweede lid.<BR><BR>De minister kan de   minimale inhoud van het jaarverslag en de kwaliteitsplanning en de vorm   ervan.<BR><BR>In afwijking van het tweede lid moeten de gegevens over de   activiteiten van de dienst voor gezinszorg en aanvullende thuiszorg of de dienst   voor logistieke hulp die naar Vesta als vermeld in artikel 1, 19°, van bijlage I   en artikel 1, 11°, van bijlage II, doorgestuurd worden, niet opgenomen worden in   het jaarverslag.<BR><BR>In afwijking van het tweede lid moeten de gegevens over   de activiteiten van de dienst voor oppashulp die naar het systeem van   elektronische gegevensuitwisseling, vermeld in artikel 5, C, 13°, van bijlage   III, doorgestuurd worden, niet opgenomen worden in het   jaarverslag.
+§ 1. Met het oog op de beleidsvoering op het vlak van de woonzorg en de uitoefening van het toezicht door de Vlaamse overheid, verstrekt de voorziening of de vereniging aan het agentschap informatie over haar werking in het algemeen en haar kwaliteitsbeleid in het bijzonder. Conform artikel 67 van het woonzorgdecreet van 13 maart 2009 registreert de voorziening of de vereniging daarvoor anonieme gegevens over de activiteiten van het voorbije werkjaar. Die registratiegegevens vermelden onderwerp, doel, vorm, frequentie, intensiteit van de activiteiten en de bereikte doelgroep. De minister kan nadere regels bepalen voor die registratie.<br>
+<br>
+§ 2. De voorziening of de vereniging houdt jaarlijks vanaf 15 april het jaarverslag van het voorbije werkjaar en de kwaliteitsplanning voor het lopende jaar ter beschikking van het agentschap.<br>
+<br>
+Het jaarverslag bevat de registratiegegevens, vermeld in § 1. Het bevat ook een evaluatie van de kwaliteitsplanning.<br>
+<br>
+De kwaliteitsplanning bevat een omschrijving van de activiteiten die worden ontplooid om de doelstellingen, de kwaliteitseisen en het kwaliteitssysteem te bepalen en te realiseren. Daarnaast bevat de planning de elementen van de zelfevaluatie, vermeld in artikel 6, § 2, tweede lid.<br>
+<br>
+De minister kan de minimale inhoud van het jaarverslag en de kwaliteitsplanning en de vorm ervan.<br>
+<br>
+In afwijking van het tweede lid moeten de gegevens over de activiteiten van de dienst voor gezinszorg en aanvullende thuiszorg of de dienst voor logistieke hulp die naar Vesta als vermeld in artikel 1, 19°, van bijlage I en artikel 1, 11°, van bijlage II, doorgestuurd worden, niet opgenomen worden in het jaarverslag.<br>
+<br>
+In afwijking van het tweede lid moeten de gegevens over de activiteiten van de dienst voor oppashulp die naar het systeem van elektronische gegevensuitwisseling, vermeld in artikel 5, C, 13°, van bijlage III, doorgestuurd worden, niet opgenomen worden in het jaarverslag.
 
 ### ART. 8.
 
@@ -587,7 +599,7 @@ f) waarborgt de dienst het vertrouwelijke karakter van de gesprekken tussen de d
 <br>
 B. Voorwaarden betreffende het personeel<br>
 1° een dienst stelt doorlopend minstens tien voltijdse equivalenten verzorgend personeel tewerk. De verzorgende personeelsleden verrichten de activiteiten, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 27 maart 2009 tot uitvoering van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening in de thuiszorg, met inachtneming van artikel 3, 4 en 4/1 van dat besluit;<br>
-2° een verzorgend personeelslid moet bij de indiensttreding beschikken over een inschrijvingsbewijs dat door het agentschap werd afgeleverd en dat alleen kan worden afgeleverd voor personen die beschikken over een van de volgende documenten :<br>
+2° een verzorgend personeelslid moet bij de indiensttreding beschikken&nbsp;over een van de volgende documenten :<br>
 a) een van de volgende studiebewijzen, uitgereikt in het studiegebied personenzorg, waarbij de minister bepaalt welke opleidingen binnen het studiegebied personenzorg in aanmerking komen :<br>
 1) een diploma, een studiegetuigschrift of een certificaat, uitgereikt na hetzij het tweede of het derde leerjaar van de derde graad van het (voltijds of deeltijds) beroepssecundair onderwijs, hetzij het tweede of het derde leerjaar van de derde graad van het technisch secundair onderwijs, hetzij het secundair-na-secundair van de derde graad van het technisch secundair onderwijs (Se-n-Se), of uitgereikt in de leertijd door Syntra Vlaanderen;<br>
 2) een attest waaruit blijkt dat de persoon geslaagd is in het eerste leerjaar van de vierde graad van het beroepssecundair onderwijs of van het hoger beroepsonderwijs (hbo5) van de opleiding verpleegkunde;<br>
@@ -619,7 +631,7 @@ Als een personeelslid daaraan niet voldoet, maar over minstens vijf jaar ervarin
 10° er wordt minimaal ten belope van 1,3 % van het toegekende urencontingent aan vorming georganiseerd voor het verzorgend personeel;<br>
 11° de inhoud, de plaats en het tijdstip van de vormingsactiviteiten worden altijd geregistreerd en bijgehouden op de dienst;<br>
 12° voor zover de bijscholing collectief gebeurt, is er een planning. Die wordt op de dienst ter beschikking gesteld, minimaal de maand voorafgaand aan de activiteit;<br>
-13° elk verzorgend, logistiek, begeleidend of leidinggevend personeelslid, elke doelgroepwerknemer en elk lid van het omkaderingspersoneel moet beschikken over een inschrijvingsnummer bij het agentschap voor hij tewerkgesteld mag worden bij een dienst. Het agentschap kent dat nummer toe nadat de dienst het identificatienummer van de sociale zekerheid (INSZ-nummer) van de betrokken persoon bezorgd heeft. Er wordt per functietype een apart inschrijvingsnummer toegekend.<br>
+13° elk verzorgend, logistiek, begeleidend of leidinggevend personeelslid, elke doelgroepwerknemer en elk lid van het omkaderingspersoneel moet beschikken over een inschrijvingsnummer bij het agentschap voor hij tewerkgesteld mag worden bij een dienst. Het agentschap kent dat nummer toe&nbsp;en levert een inschrijvingsbewijs af nadat de dienst het identificatienummer van de sociale zekerheid (INSZ-nummer) van de betrokken persoon bezorgd heeft. Er wordt per functietype een apart inschrijvingsnummer toegekend en een inschrijvingsbewijs afgeleverd.<br>
 <br>
 C. Voorwaarden voor de werking<br>
 1° de hulp- en dienstverlening wordt zo verleend, en de werking wordt zo georganiseerd, dat de middelen (personeel, financiën, gebouwen en inrichting, technieken en methoden) waarover de dienst beschikt, zich verhouden tot de hulp- en dienstverlening die beantwoordt aan de behoeften van de gebruikers;<br>
@@ -824,11 +836,17 @@ De Vlaamse Regering legt elk jaar het totale aantal subsidiabele uren aanvullend
 
 ### ART. 25.
 
-§ 1. Jaarlijks bepaalt de minister de diensten voor gezinszorg en   aanvullende thuiszorg die in aanmerking komen voor subsidiëring en, per dienst,   het aantal VTE logistiek personeel, het aantal VTE doelgroepwerknemers en het   aantal GESCO-VTE in de verschillende functiecategorieën.<BR><BR>De diensten voor   gezinszorg en aanvullende thuiszorg die GESCO-personeel tewerkstellen in de   aanvullende thuiszorg, hebben de verplichting hun aantallen GESCO-VTE per   functiecategorie op peil te houden. Na gemotiveerde aanvraag van de dienst kan   de minister afwijkingen daarop toestaan.<BR><BR>§ 2. De jaarsubsidie bestaat uit   een enveloppe die het resultaat is van de som van de volgende formules :<BR>1°   aantal toegewezen VTE logistiek personeel * 27.048,64 euro; <BR>2° ((aantal   toegewezen VTE logistiek medewerkers + aantal GESCO-VTE logistiek   personeel)/22,5 - het aantal GESCO-VTE administratief personeel) * 40.678,92   euro; <BR>3° ((aantal toegewezen VTE logistiek personeel + aantal GESCO-VTE   logistiek personeel)/17,5 - het aantal GESCO-VTE begeleidend personeel) *   50.941,76 euro; <BR>4° ((aantal toegewezen VTE logistiek personeel + aantal   GESCO-VTE logistiek personeel)/100 - het aantal GESCO-VTE leidinggevend   personeel) * 60.660,18 euro. <BR><BR>Als het resultaat van punt 2°, 3° of 4°   negatief is, zal daar geen rekening mee gehouden worden bij de berekening van de   totale subsidie-enveloppe.<BR><BR>Vanaf 2013 wordt het bedrag, vermeld in het   eerste lid, 3°, vervangen door 51.350,26;<BR><BR>Vanaf 2014 wordt het bedrag,   vermeld in het eerste lid, 3°, vervangen door 51.758,75.<BR>
+§ 1. Jaarlijks bepaalt de minister de diensten voor gezinszorg en aanvullende thuiszorg die in aanmerking komen voor subsidiëring en, per dienst, het aantal VTE logistiek personeel, en het aantal VTE doelgroepwerknemers.<br>
+<br>
+§ 2. De jaarsubsidie bestaat uit een enveloppe die het resultaat is van de som van de volgende formules:<br>
+1° toegewezen aantal VTE logistiek personeel * 27.048,64 euro;<br>
+2° toegewezen aantal VTE logistiek personeel/22,5 * 40.678,92 euro;<br>
+3° toegewezen aantal VTE logistiek personeel/17,5 * 51.758,75 euro;<br>
+4° toegewezen aantal VTE logistiek personeel/100 * 60.660,18 euro.
 
 ### ART. 26.
 
-De erkende diensten voor gezinszorg en aanvullende thuiszorg die   GESCO-personeel tewerkstellen in de aanvullende thuiszorg, ontvangen per   GESCO-VTE, bepaald conform artikel 25, § 1, eerste lid, een toeslag op de   enveloppe. Die toeslag bedraagt :<BR>1° 6.109,22 euro per jaar per VTE logistiek   personeel; <BR>2° 11.261,70 euro per jaar per VTE aan administratief personeel;   <BR>3° 14.037,34 euro per jaar per VTE aan begeleidend personeel; <BR>4°   12.787,96 euro per jaar per VTE aan leidinggevend personeel.<BR><BR>Vanaf 2013   wordt het bedrag, vermeld in het eerste lid, 3°, vervangen door   14.445,84.<BR><BR>Vanaf 2014 wordt het bedrag, vermeld in het eerste lid, 3°,   vervangen door 14.854,33. <BR><BR>
+...
 
 ### ART. 27.
 
@@ -836,11 +854,18 @@ De erkende diensten voor gezinszorg en aanvullende thuiszorg die   GESCO-persone
 
 ### ART. 28.
 
-De diensten voor gezinszorg en aanvullende thuiszorg ontvangen voor het uitbreiden van de managementondersteuning, de permanente vorming, de maatregel extra aanvullend verlof en de maatregel carensdagen een bedrag van 961,60 euro per VTE logistiek personeel, inclusief GESCO's, en per VTE doelgroepwerknemer.<br /><br />
+De diensten voor gezinszorg en aanvullende thuiszorg ontvangen voor het uitbreiden van de managementondersteuning, de permanente vorming, de maatregel extra aanvullend verlof en de maatregel carensdagen een bedrag van 961,60 euro per VTE logistiek personeel en per VTE doelgroepwerknemer.<br>
+&nbsp;
 
 ### ART. 28/1.
 
-De private diensten voor gezinszorg en aanvullende thuiszorg ontvangen   voor managementsondersteuning een bedrag van 19,89 euro per VTE logistiek   personeel, exclusief gesco's, en per VTE doelgroepwerknemer.<BR><BR>Het bedrag,   vermeld in het eerste lid, wordt geïndexeerd conform artikel 14, § 3, derde   lid.<BR><BR>Vanaf 2013 wordt het bedrag, vermeld in het eerste lid, vervangen   door 49,13 euro.<BR><BR>Vanaf 2014 wordt het bedrag, vermeld in het eerste lid,   vervangen door 96,91 euro.
+De private diensten voor gezinszorg en aanvullende thuiszorg ontvangen voor managementsondersteuning een bedrag van 19,89 euro per VTE logistiek personeel en per VTE doelgroepwerknemer.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, wordt geïndexeerd conform artikel 14, § 3, derde lid.<br>
+<br>
+Vanaf 2013 wordt het bedrag, vermeld in het eerste lid, vervangen door 49,13 euro.<br>
+<br>
+Vanaf 2014 wordt het bedrag, vermeld in het eerste lid, vervangen door 96,91 euro.
 
 ### ART. 28/2.
 
@@ -852,7 +877,8 @@ De private diensten voor gezinszorg en aanvullende thuiszorg ontvangen   voor ma
 
 ### ART. 29.
 
-De diensten voor gezinszorg en aanvullende thuiszorg ontvangen voor de verhoging van de eindejaarspremie en voor de ondersteuning van het management een bedrag van 1.173,21 euro per VTE logistiek personeel, exclusief GESCO's, en per VTE doelgroepwerknemer.<br /><br />
+De diensten voor gezinszorg en aanvullende thuiszorg ontvangen voor de verhoging van de eindejaarspremie en voor de ondersteuning van het management een bedrag van 1.173,21 euro per VTE logistiek personeel en per VTE doelgroepwerknemer.<br>
+&nbsp;
 
 ### ART. 29/1.
 
@@ -860,7 +886,10 @@ De diensten voor gezinszorg en aanvullende thuiszorg ontvangen voor de verhoging
 
 ### ART. 30.
 
-De bedragen, vermeld in artikel 25, § 2, eerste lid, en artikel 26 tot en met 29 zijn uitgedrukt tegen 100 % op basis van de spilindex die van toepassing is op 1 januari 2010. Binnen de beschikbare begrotingskredieten worden die subsidiebedragen geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van het Rijk worden gekoppeld. <br /><br />De voormelde koppeling aan het indexcijfer wordt evenwel berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br /><br />
+De bedragen, vermeld in&nbsp;artikel 25, § 2, en artikel 27 tot en met 29 zijn uitgedrukt tegen 100 % op basis van de spilindex die van toepassing is op 1 januari 2010. Binnen de beschikbare begrotingskredieten worden die subsidiebedragen geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van het Rijk worden gekoppeld.<br>
+<br>
+De voormelde koppeling aan het indexcijfer wordt evenwel berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+&nbsp;
 
 ### ART. 30/1.
 
@@ -905,15 +934,38 @@ Per gereden kilometer dat het logistiek personeel voor de dienst voor   gezinszo
 
 ### ART. 33.
 
-§ 1. Om de subsidie, berekend conform artikelen 25 tot en met 30, volledig   te verkrijgen moet de dienst voor gezinszorg en aanvullende thuiszorg aantonen   dat :<BR>1° hij op jaarbasis per VTE logistiek personeel minstens 95 % van het   gemiddelde van 1450 gefactureerde uren realiseert;<BR>2° hij op jaarbasis per   VTE aan doelgroepwerknemers minstens 95 % van het gemiddelde van 1330   gefactureerde uren realiseert;<BR>3° hij, met betrekking tot de norm begeleidend   personeel van 1 VTE op 17,5 VTE logistiek personeel en de norm leidinggevend   personeel van 1 VTE op 100 VTE logistiek personeel, aantoont dat hij minstens 90   % van de som van het aantal VTE op jaarbasis dat resulteert uit de toepassing   van beide normen, effectief heeft tewerkgesteld. <BR><BR>§ 2. Voor de   bewijsvoering van de voorwaarden, vermeld in paragraaf 1, worden zowel het   personeel dat conform dit besluit werd toegewezen als het aanwezige   GESCO-personeel in alle functiecategorieën in aanmerking genomen. Dat betekent   dat :<BR>1° om 95 % van het gemiddelde van 1450 gefactureerde uren te bereiken,   de prestaties en de aantallen VTE van alle logistieke personeelsleden, inclusief   de GESCO-logistieke personeelsleden, in rekening moeten worden gebracht;<BR>2°   om 95 % van het gemiddelde van 1330 gefactureerde uren te bereiken, alleen de   prestaties en de aantallen VTE doelgroepwerknemers in rekening moeten worden   gebracht;<BR>3° de norm begeleidend personeel en de norm leidinggevend personeel   zullen worden berekend op de aantallen VTE van al het logistiek personeel,   inclusief het GESCO-logistiek personeel, en de doelgroepwerknemers;<BR>4° een   GESCO-begeleidend personeelslid of een GESCO-leidinggevend personeelslid meetelt   voor de bewijsvoering van de 90 % effectieve tewerkstelling.<BR><BR>§ 3. De tijd   die een logistiek personeelslid of een doelgroepwerknemer nodig heeft om zich   van de ene naar de andere gebruiker te verplaatsen, wordt in aanmerking genomen   voor de berekening van de gefactureerde uren, vermeld in paragraaf 1 en 2, op   voorwaarde dat die twee hulpverleningsmomenten aansluitend zijn.<BR><BR>De helft   van de tijd die een logistiek personeelslid of een doelgroepwerknemer nodig   heeft om zich van een gebruiker naar een werkvergadering te verplaatsen, of   omgekeerd, wordt in aanmerking genomen voor de berekening van de gefactureerde   uren, vermeld in paragraaf 1 en 2.<BR><BR>Voor alle andere verplaatsingen dan de   voormelde verplaatsingen, bijvoorbeeld het woon-werkverkeer of de verplaatsingen   van een gebruiker naar een bijscholing, wordt de verplaatsingstijd niet in   aanmerking genomen voor de berekening van de gefactureerde uren.
+§ 1. Om de subsidie, berekend conform artikelen 25 tot en met 30, volledig te verkrijgen moet de dienst voor gezinszorg en aanvullende thuiszorg aantonen dat :<br>
+1° hij op jaarbasis per VTE logistiek personeel minstens 95 % van het gemiddelde van 1450 gefactureerde uren realiseert;<br>
+2° hij op jaarbasis per VTE aan doelgroepwerknemers minstens 95 % van het gemiddelde van 1330 gefactureerde uren realiseert;<br>
+3° hij, met betrekking tot de norm begeleidend personeel van 1 VTE op 17,5 VTE logistiek personeel en de norm leidinggevend personeel van 1 VTE op 100 VTE logistiek personeel, aantoont dat hij minstens 90 % van de som van het aantal VTE op jaarbasis dat resulteert uit de toepassing van beide normen, effectief heeft tewerkgesteld.<br>
+<br>
+§ 2. Voor de bewijsvoering van de voorwaarden, vermeld in paragraaf 1, wordt het personeel dat conform dit besluit is toegewezen, in aanmerking genomen. Dat betekent dat:<br>
+1° alleen het toegewezen aantal VTE logistiek personeel en de prestaties van het logistiek personeel in aanmerking worden genomen om 95% van het gemiddelde van 1450 gefactureerde uren te bereiken;<br>
+2° alleen het toegewezen aantal VTE doelgroepwerknemers en de prestaties van de doelgroepwerknemers in aanmerking worden genomen om 95% van het gemiddelde van 1330 gefactureerde uren te bereiken;<br>
+3° het toegewezen aantal VTE logistiek personeel en het toegewezen aantal VTE doelgroepwerknemers in aanmerking worden genomen om de norm voor het begeleidend personeel en de norm voor het leidinggevend personeel te berekenen.<br>
+<br>
+§ 3. De tijd die een logistiek personeelslid of een doelgroepwerknemer nodig heeft om zich van de ene naar de andere gebruiker te verplaatsen, wordt in aanmerking genomen voor de berekening van de gefactureerde uren, vermeld in paragraaf 1 en 2, op voorwaarde dat die twee hulpverleningsmomenten aansluitend zijn.<br>
+<br>
+De helft van de tijd die een logistiek personeelslid of een doelgroepwerknemer nodig heeft om zich van een gebruiker naar een werkvergadering te verplaatsen, of omgekeerd, wordt in aanmerking genomen voor de berekening van de gefactureerde uren, vermeld in paragraaf 1 en 2.<br>
+<br>
+Voor alle andere verplaatsingen dan de voormelde verplaatsingen, bijvoorbeeld het woon-werkverkeer of de verplaatsingen van een gebruiker naar een bijscholing, wordt de verplaatsingstijd niet in aanmerking genomen voor de berekening van de gefactureerde uren.
 
 ### ART. 34.
 
-§ 1. Als een dienst voor gezinszorg en aanvullende thuiszorg de 95 %, vermeld in artikel 33, § 1, 1° en 2°, niet haalt, dan wordt het deel van de subsidie-enveloppe dat gebaseerd is op artikel 25, § 2, eerste lid, 1°, artikel 26, 1° en artikel 27, eerste lid, 1°, verminderd met :<br />1° 5 % als de dienst een percentage haalt dat lager is dan 95 % en hoger dan of gelijk aan 90 %; <br />2° 10 % als de dienst een percentage haalt dat lager is dan 90 % en hoger dan of gelijk aan 85 %; <br />3° (100 % - het behaalde percentage) als de dienst een percentage haalt dat lager is dan 85 %.<br /><br />§ 2. Als een dienst voor gezinszorg en aanvullende thuiszorg de 90 %, vermeld in artikel 33, § 1, 3°, niet haalt, dan wordt het deel van de subsidie-enveloppe dat gebaseerd is op artikel 25, § 2, eerste lid, 2°, 3° en 4°, artikel 26, 2°, 3° en 4° en artikel 27, eerste lid, 2°, 3° en 4°, verminderd met :<br />1° 5 % als de dienst een percentage haalt dat lager is dan 90 % en hoger dan of gelijk aan 85 %; <br />2° 10 % als de dienst een percentage haalt dat lager is dan 85 % en hoger dan of gelijk aan 80 %; <br />3° (100 % - het behaalde percentage) als de dienst een percentage haalt dat lager is dan 80 %.<br /><br />
+§ 1. Als een dienst voor gezinszorg en aanvullende thuiszorg de 95 %, vermeld in artikel 33, § 1, 1° en 2°, niet haalt, dan wordt het deel van de subsidie-enveloppe dat gebaseerd is op artikel 25, § 2, 1°, en artikel 27, § 1, eerste lid, 1°, verminderd met :<br>
+1° 5 % als de dienst een percentage haalt dat lager is dan 95 % en hoger dan of gelijk aan 90 %;<br>
+2° 10 % als de dienst een percentage haalt dat lager is dan 90 % en hoger dan of gelijk aan 85 %;<br>
+3° (100 % - het behaalde percentage) als de dienst een percentage haalt dat lager is dan 85 %.<br>
+<br>
+§ 2. Als een dienst voor gezinszorg en aanvullende thuiszorg de 90 %, vermeld in artikel 33, § 1, 3°, niet haalt, dan wordt het deel van de subsidie-enveloppe dat gebaseerd is op artikel 25, § 2, 2°, 3° en 4°, en artikel 27, § 1, eerste lid, 2°, 3° en 4°, verminderd met :<br>
+1° 5 % als de dienst een percentage haalt dat lager is dan 90 % en hoger dan of gelijk aan 85 %;<br>
+2° 10 % als de dienst een percentage haalt dat lager is dan 85 % en hoger dan of gelijk aan 80 %;<br>
+3° (100 % - het behaalde percentage) als de dienst een percentage haalt dat lager is dan 80 %.<br>
+&nbsp;
 
 ### ART. 35.
 
-Elk trimester wordt een voorschot uitbetaald van maximaal 22,5% van de subsidie-enveloppe, berekend overeenkomstig artikel 25 tot en met 30, op basis van het aantal VTE logistiek personeel, het aantal VTE doelgroepwerknemers en het aantal GESCO-VTE in de verschillende functiecategorieën die in het voorafgaande jaar toegewezen werden. Die voorschotten worden uitbetaald voor het einde van de tweede maand van het trimester waarop ze betrekking hebben. Het saldo wordt uitbetaald na afloop van het begrotingsjaar. Als een dienst meer voorschotten ontvangen heeft dan zijn definitieve subsidiebedrag, wordt het verschil teruggevorderd.<br />
+Elk trimester wordt een voorschot uitbetaald van maximaal 22,5% van de subsidie-enveloppe, berekend overeenkomstig artikel 25 tot en met 30, op basis van&nbsp;en het aantal VTE doelgroepwerknemers die in het voorafgaande jaar toegewezen werden. Die voorschotten worden uitbetaald voor het einde van de tweede maand van het trimester waarop ze betrekking hebben. Het saldo wordt uitbetaald na afloop van het begrotingsjaar. Als een dienst meer voorschotten ontvangen heeft dan zijn definitieve subsidiebedrag, wordt het verschil teruggevorderd.
 
 ## [Afdeling III Subsidiëring van een functionaris voor gegevensbescherming voor Vesta (verv. BVR 25 januari 2019, art. 20, I: 25 mei 2018)]
 
@@ -967,11 +1019,20 @@ Voor de toepassing van artikel 30/1, § 2, en artikel 31, § 2, eerste lid,   wo
 
 ### ART. 37/9.
 
-Voor de toepassing van artikel 35 wordt in het eerste werkjaar van een   erkende regionale dienst de som van het aantal vte logistiek personeel, het   aantal vte doelgroepwerknemers en het aantal gesco-vte in de verschillende   functiecategorieën in aanmerking genomen die in het voorgaande jaar toegewezen   waren aan elk van de diensten die deel uitmaken van de regionale dienst en die   in het voorgaande jaar erkend waren.
+Voor de toepassing van artikel 35 wordt in het eerste werkjaar van een erkende regionale dienst de som van het aantal vte logistiek personeel en het aantal vte doelgroepwerknemers&nbsp;in aanmerking genomen die in het voorgaande jaar toegewezen waren aan elk van de diensten die deel uitmaken van de regionale dienst en die in het voorgaande jaar erkend waren.
 
 ### ART. 37/10.
 
-&nbsp;Bij een overdracht van de erkenning gelden voor de subsidiëring van   de overnemer tijdens het eerste jaar de bepalingen van hoofdstuk IV, voor zover   de onderstaande bepalingen daar niet van afwijken:<BR>1° voor de toepassing van   artikel 12, § 2, wordt ook het aantal gebruikers in aanmerking genomen dat door   de overgedragen dienst werd geholpen in het voorgaande jaar;<BR>2° voor de   toepassing van artikel 12, § 3, wordt ook het aantal gesubsidieerde uren van de   overgedragen dienst in het voorgaande jaar in aanmerking genomen voor de   berekening van het gemiddelde aantal vte verzorgend personeel;<BR>3° voor de   toepassing van artikel 14, § 2, eerste lid, artikel 15/2, § 2, artikel 16, § 2,   eerste lid, artikel 30/1, § 2, en artikel 31, § 2, eerste lid, worden ook de   gegevens van de overgedragen dienst over het voorgaande jaar in aanmerking   genomen;<BR>4° voor de toepassing van artikel 15/1, § 3, eerste lid, wordt ook   het aantal kilometer in aanmerking genomen dat in het voorgaande jaar werd   afgelegd door het verzorgend personeel, het logistiek personeel of de   doelgroepwerknemers van de overgedragen dienst, als de afgelegde kilometers   beantwoorden aan de voorwaarden van paragraaf 2 van dat artikel;<BR>5° voor de   toepassing van artikel 15/3, § 2, wordt ook het urencontingent gezinszorg in   aanmerking genomen dat in het voorgaande jaar toegewezen was aan de overgedragen   dienst;<BR>6° voor de toepassing van artikel 20 worden de voorschotten ook   berekend op basis van de gesubsidieerde prestatie-uren en de gesubsidieerde uren   bijscholing van de overgedragen dienst in het voorgaande jaar;<BR>7° voor de   toepassing van artikel 35 worden ook het aantal vte logistiek personeel, het   aantal vte doelgroepwerknemers en het aantal gesco-vte in de verschillende   functiecategorieën in aanmerking genomen die in het voorgaande jaar toegewezen   waren aan de overgedragen dienst.<BR><BR>Bij een overdracht van de erkenning   worden voor de toepassing van artikel 21 de voorschotten van de overnemer   tijdens het eerste en tweede jaar mede berekend op basis van de subsidies die   tijdens het tweede jaar dat aan het jaar in kwestie voorafgaat, aan de   overgedragen dienst uitbetaald werden.
+&nbsp;Bij een overdracht van de erkenning gelden voor de subsidiëring van de overnemer tijdens het eerste jaar de bepalingen van hoofdstuk IV, voor zover de onderstaande bepalingen daar niet van afwijken:<br>
+1° voor de toepassing van artikel 12, § 2, wordt ook het aantal gebruikers in aanmerking genomen dat door de overgedragen dienst werd geholpen in het voorgaande jaar;<br>
+2° voor de toepassing van artikel 12, § 3, wordt ook het aantal gesubsidieerde uren van de overgedragen dienst in het voorgaande jaar in aanmerking genomen voor de berekening van het gemiddelde aantal vte verzorgend personeel;<br>
+3° voor de toepassing van artikel 14, § 2, eerste lid, artikel 15/2, § 2, artikel 16, § 2, eerste lid, artikel 30/1, § 2, en artikel 31, § 2, eerste lid, worden ook de gegevens van de overgedragen dienst over het voorgaande jaar in aanmerking genomen;<br>
+4° voor de toepassing van artikel 15/1, § 3, eerste lid, wordt ook het aantal kilometer in aanmerking genomen dat in het voorgaande jaar werd afgelegd door het verzorgend personeel, het logistiek personeel of de doelgroepwerknemers van de overgedragen dienst, als de afgelegde kilometers beantwoorden aan de voorwaarden van paragraaf 2 van dat artikel;<br>
+5° voor de toepassing van artikel 15/3, § 2, wordt ook het urencontingent gezinszorg in aanmerking genomen dat in het voorgaande jaar toegewezen was aan de overgedragen dienst;<br>
+6° voor de toepassing van artikel 20 worden de voorschotten ook berekend op basis van de gesubsidieerde prestatie-uren en de gesubsidieerde uren bijscholing van de overgedragen dienst in het voorgaande jaar;<br>
+7° voor de toepassing van artikel 35 worden ook het aantal vte logistiek personeel en het aantal vte doelgroepwerknemers&nbsp;in aanmerking genomen die in het voorgaande jaar toegewezen waren aan de overgedragen dienst.<br>
+<br>
+Bij een overdracht van de erkenning worden voor de toepassing van artikel 21 de voorschotten van de overnemer tijdens het eerste en tweede jaar mede berekend op basis van de subsidies die tijdens het tweede jaar dat aan het jaar in kwestie voorafgaat, aan de overgedragen dienst uitbetaald werden.
 
 ## HOOFDSTUK VI Overgangsbepalingen
 
@@ -993,7 +1054,10 @@ Als een voorziening die tot dan toe gesubsidieerd werd met toepassing van het be
 
 ### ART. 42.
 
-Een dienst voor gezinszorg die op de datum van inwerkingtreding van dit   besluit erkend is, wordt tot en met 31 december 2017 geacht te beantwoorden aan   de voorwaarde van artikel 4, B, 1°, ook al stelt hij niet doorlopend minstens   tien voltijdse equivalenten verzorgend personeel tewerk.<BR><BR>
+Een dienst voor gezinszorg die op de datum van inwerkingtreding van dit besluit erkend is, wordt tot en met 31 december 2017 geacht te beantwoorden aan de voorwaarde van artikel 4, B, 1°, ook al stelt hij niet doorlopend minstens tien voltijdse equivalenten verzorgend personeel tewerk.<br>
+<br>
+De datum, vermeld in het eerste lid, wordt verlengd tot en met 31 december 2018 als de dienst een samenwerkingsovereenkomst sluit met een andere erkende dienst voor gezinszorg en aanvullende thuiszorg en uiterlijk op 31 december 2017 een afschrift van die overeenkomst bezorgt aan het agentschap.<br>
+&nbsp;
 
 ### ART. 43.
 
@@ -1071,7 +1135,7 @@ Als een personeelslid daaraan niet voldoet, maar over minstens vijf jaar ervarin
 5° de personeelsleden volgen op regelmatige tijdstippen bijscholing die nuttig is voor de uitvoering van hun opdracht;<br>
 6° de inhoud, de plaats en het tijdstip van de vormingsactiviteiten worden altijd geregistreerd en bijgehouden op de dienst;<br>
 7° voor zover de bijscholing collectief gebeurt, is er een planning. Deze is op de dienst ter beschikking, minimaal de maand voorafgaand aan de activiteit.<br>
-8° elk logistiek, begeleidend of leidinggevend personeelslid, elke doelgroepwerknemer en elk lid van het omkaderingspersoneel moet beschikken over een inschrijvingsnummer bij het agentschap voor hij tewerkgesteld mag worden bij een dienst. Het agentschap kent dat nummer toe nadat de dienst het identificatienummer van de sociale zekerheid (INSZ-nummer) van de betrokken persoon bezorgd heeft. Er wordt per functietype een apart inschrijvingsnummer toegekend.<br>
+8° elk logistiek, begeleidend of leidinggevend personeelslid, elke doelgroepwerknemer en elk lid van het omkaderingspersoneel moet beschikken over een inschrijvingsnummer bij het agentschap voor hij tewerkgesteld mag worden bij een dienst. Het agentschap kent dat nummer toe&nbsp;en levert een inschrijvingsbewijs af nadat de dienst het identificatienummer van de sociale zekerheid (INSZ-nummer) van de betrokken persoon bezorgd heeft. Er wordt per functietype een apart inschrijvingsnummer toegekend en een inschrijvingsbewijs afgeleverd.<br>
 <br>
 C. Voorwaarden voor de werking<br>
 1° de hulp- en dienstverlening wordt zo verleend, en de werking wordt zo georganiseerd, dat de middelen (personeel, financiën, gebouwen en inrichting, technieken en methoden) waarover de dienst beschikt, zich verhouden tot de hulp- en dienstverlening die beantwoordt aan de behoeften van de gebruikers;<br>
@@ -1110,11 +1174,18 @@ Binnen de beschikbare begrotingskredieten en overeenkomstig de bepalingen van ho
 
 ### ART. 6.
 
-§ 1. Jaarlijks bepaalt de minister de diensten voor logistieke hulp die in   aanmerking komen voor subsidiëring en, per dienst, het aantal VTE logistiek   personeel, het aantal VTE doelgroepwerknemers en het aantal GESCO-VTE in de   verschillende functiecategorieën.<BR><BR>De diensten voor logistieke hulp die   GESCO-personeel tewerkstellen, hebben de verplichting hun aantallen GESCO-VTE   per functiecategorie op peil te houden. Na gemotiveerde aanvraag van de dienst   kan de minister afwijkingen daarop toestaan.<BR><BR>§ 2. De jaarsubsidie bestaat   uit een enveloppe die het resultaat is van de som van de volgende formules :   <BR>1° aantal toegewezen VTE logistiek personeel * 27.048,64 euro; <BR>2°   ((aantal toegewezen VTE logistiek personeel + aantal GESCO-VTE logistiek   personeel)/22,5 - het aantal GESCO-VTE administratief personeel) * 40.678,92   euro; <BR>3° ((aantal toegewezen VTE logistiek personeel + aantal GESCO-VTE   logistiek personeel)/17,5 - het aantal GESCO-VTE begeleidend personeel) *   50.941,76 euro; <BR>4° ((aantal toegewezen VTE logistiek personeel + aantal   GESCO-VTE logistiek personeel)/100 - het aantal GESCO-VTE leidinggevend   personeel) * 60.660,18 euro. <BR><BR>Als het resultaat van punten 2°, 3° of 4°   negatief is, zal daar geen rekening mee gehouden worden bij de berekening van de   totale subsidie-enveloppe.<BR><BR>Vanaf 2013 wordt het bedrag, vermeld in het   eerste lid, 3°, vervangen door 51.350,26.<BR><BR>Vanaf 2014 wordt het bedrag,   vermeld in het eerste lid, 3°, vervangen door 51.758,75.<BR><BR>
+§ 1. Jaarlijks bepaalt de minister de diensten voor logistieke hulp die in aanmerking komen voor subsidiëring en, per dienst, het aantal VTE logistiek personeel en het aantal VTE doelgroepwerknemers.<br>
+<br>
+§ 2. De jaarsubsidie bestaat uit een enveloppe die het resultaat is van de som van de volgende formules:<br>
+1° toegewezen aantal VTE logistiek personeel * 27.048,64 euro;<br>
+2° toegewezen aantal VTE logistiek personeel/22,5 * 40.678,92 euro;<br>
+3° toegewezen aantal VTE logistiek personeel/17,5 * 51.758,75 euro;<br>
+4° toegewezen aantal VTE logistiek personeel/100 * 60.660,18 euro..<br>
+&nbsp;
 
 ### ART. 7.
 
-De erkende diensten voor logistieke hulp die GESCO-personeel   tewerkstellen, ontvangen per GESCO-VTE, bepaald conform artikel 6, § 1, eerste   lid, een toeslag op de enveloppe. Die toeslag bedraagt : <BR>1° 6.109,22 euro   per jaar per VTE logistiek personeel; <BR>2° 11.261,70 euro per jaar per VTE aan   administratief personeel; <BR>3° 14.037,34 euro per jaar per VTE aan begeleidend   personeel; <BR>4° 12.787,96 euro per jaar per VTE aan leidinggevend   personeel.<BR><BR>Vanaf 2013 wordt het bedrag, vermeld in het eerste lid, 3°,   vervangen door 14.445,84.<BR><BR>Vanaf 2014 wordt het bedrag, vermeld in het   eerste lid, 3°, vervangen door 14.854,33.<BR><BR>
+...
 
 ### ART. 8.
 
@@ -1122,11 +1193,18 @@ De erkende diensten voor logistieke hulp die GESCO-personeel   tewerkstellen, on
 
 ### ART. 9.
 
-De diensten voor logistieke hulp ontvangen voor het uitbreiden van de managementondersteuning, de permanente vorming, de maatregel extra aanvullend verlof en de maatregel carensdagen een bedrag van 961,60 euro per VTE logistiek personeel, inclusief GESCO's, en per VTE doelgroepwerknemer.<br /><br />
+De diensten voor logistieke hulp ontvangen voor het uitbreiden van de managementondersteuning, de permanente vorming, de maatregel extra aanvullend verlof en de maatregel carensdagen een bedrag van 961,60 euro per VTE logistiek personeel en per VTE doelgroepwerknemer.<br>
+&nbsp;
 
 ### ART. 9/1.
 
-De private diensten voor logistieke hulp ontvangen voor   managementsondersteuning een bedrag van 19,89 euro per VTE logistiek personeel,   exclusief gesco's, en per VTE doelgroepwerknemer.<BR><BR>Het bedrag, vermeld in   het eerste lid, volgt de evolutie van het gezondheidsindexcijfer overeenkomstig   de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige   uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van   het rijk worden gekoppeld. Onder gezondheidsindex wordt verstaan het   prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2,   eerste lid, van het koninklijk besluit van 24 december 1993 ter uitvoering van   de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen,   bekrachtigd bij wet van 30 maart 1994. De basisindex is de spilindex die van   toepassing is op 1 januari 2010. Het bedrag, vermeld in het eerste lid, is   gekoppeld aan het prijsindexcijfer op 1 januari van het jaar dat volgt op de   indexsprong. <BR><BR>Vanaf 2013 wordt het bedrag, vermeld in het eerste lid,   vervangen door 49,13 euro.<BR><BR>Vanaf 2014 wordt het bedrag, vermeld in het   eerste lid, vervangen door 96,91 euro.
+De private diensten voor logistieke hulp ontvangen voor managementsondersteuning een bedrag van 19,89 euro per VTE logistiek personeel en per VTE doelgroepwerknemer.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, volgt de evolutie van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld. Onder gezondheidsindex wordt verstaan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2, eerste lid, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij wet van 30 maart 1994. De basisindex is de spilindex die van toepassing is op 1 januari 2010. Het bedrag, vermeld in het eerste lid, is gekoppeld aan het prijsindexcijfer op 1 januari van het jaar dat volgt op de indexsprong.<br>
+<br>
+Vanaf 2013 wordt het bedrag, vermeld in het eerste lid, vervangen door 49,13 euro.<br>
+<br>
+Vanaf 2014 wordt het bedrag, vermeld in het eerste lid, vervangen door 96,91 euro.
 
 ### ART. 9/2.
 
@@ -1138,7 +1216,8 @@ De private diensten voor logistieke hulp ontvangen voor   managementsondersteuni
 
 ### ART. 10.
 
-De diensten voor logistieke hulp ontvangen voor de verhoging van de eindejaarspremie en voor de ondersteuning van het management een bedrag van 1.173,21 euro per VTE logistiek personeel, exclusief GESCO's, en per VTE doelgroepwerknemer.<br /><br />
+De diensten voor logistieke hulp ontvangen voor de verhoging van de eindejaarspremie en voor de ondersteuning van het management een bedrag van 1.173,21 euro per VTE logistiek personeel en per VTE doelgroepwerknemer.<br>
+&nbsp;
 
 ### ART. 10/1.
 
@@ -1146,7 +1225,8 @@ De diensten voor logistieke hulp ontvangen voor de verhoging van de eindejaarspr
 
 ### ART. 11.
 
-De bedragen, vermeld in artikel 6, § 2, eerste lid, en artikel 7 tot en met 10 zijn uitgedrukt tegen 100 % op basis van de spilindex die van toepassing is op 1 januari 2010. Binnen de beschikbare begrotingskredieten worden die subsidiebedragen geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van het Rijk worden gekoppeld. De voormelde koppeling aan het indexcijfer wordt evenwel berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br /><br />
+De bedragen, vermeld in&nbsp;artikel 6, § 2, en artikel 8 tot en met 10 zijn uitgedrukt tegen 100 % op basis van de spilindex die van toepassing is op 1 januari 2010. Binnen de beschikbare begrotingskredieten worden die subsidiebedragen geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van het Rijk worden gekoppeld. De voormelde koppeling aan het indexcijfer wordt evenwel berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+&nbsp;
 
 ### ART. 11/1.
 
@@ -1162,15 +1242,38 @@ Voor de maatregel werkdrukvermindering wordt een budget verdeeld tussen de   erk
 
 ### ART. 12.
 
-§ 1. Om de subsidie, berekend conform artikel 6 tot en met 11, volledig te   verkrijgen, moet de dienst voor logistieke hulp aantonen dat : <BR>1° hij op   jaarbasis per VTE logistiek personeel minstens 95 % van het gemiddelde van 1450   gefactureerde uren realiseert; <BR>2° hij op jaarbasis per VTE aan   doelgroepwerknemers minstens 95 % van het gemiddelde van 1330 gefactureerde uren   realiseert;<BR>3° hij, met betrekking tot de norm begeleidend personeel van 1   VTE op 17,5 VTE logistiek personeel en de norm leidinggevend personeel van 1 VTE   op 100 VTE logistiek personeel, aantoont dat hij minstens 90 % van de som van   het aantal VTE op jaarbasis dat resulteert uit de toepassing van beide normen,   effectief heeft tewerkgesteld. <BR><BR>§ 2. Voor de bewijsvoering van de   voorwaarden, vermeld in paragraaf 1, worden zowel het personeel dat conform dit   besluit werd toegewezen als het aanwezige GESCO-personeel in alle   functiecategorieën in aanmerking genomen. Dat betekent dat :<BR>1° om 95 % van   het gemiddelde van 1450 gefactureerde uren te bereiken, de prestaties en de   aantallen VTE van alle logistieke personeelsleden, inclusief de GESCO-logistieke   personeelsleden, in rekening moeten worden gebracht;<BR>2° om 95 % van het   gemiddelde van 1330 gefactureerde uren te bereiken, alleen de prestaties en de   aantallen VTE doelgroepwerknemers in rekening moeten worden gebracht;<BR>3° de   norm begeleidend personeel en de norm leidinggevend personeel zullen worden   berekend op de aantallen VTE van al het logistiek personeel, inclusief het   GESCO-logistiek personeel, en de doelgroepwerknemers;<BR>4° een   GESCO-begeleidend personeelslid of een GESCO-leidinggevend personeelslid meetelt   voor de bewijsvoering van de 90 % effectieve tewerkstelling.<BR><BR>§ 3. De tijd   die een logistiek personeelslid of een doelgroepwerknemer nodig heeft om zich   van de ene naar de andere gebruiker te verplaatsen, wordt in aanmerking genomen   voor de berekening van de gefactureerde uren, vermeld in paragraaf 1 en 2, op   voorwaarde dat die twee hulpverleningsmomenten aansluitend zijn.<BR><BR>De helft   van de tijd die een logistiek personeelslid of een doelgroepwerknemer nodig   heeft om zich van een gebruiker naar een werkvergadering te verplaatsen, of   omgekeerd, wordt in aanmerking genomen voor de berekening van de gefactureerde   uren, vermeld in paragraaf 1 en 2.<BR><BR>Voor alle andere verplaatsingen dan de   voormelde verplaatsingen, bijvoorbeeld het woon-werkverkeer of de verplaatsingen   van een gebruiker naar een bijscholing, wordt de verplaatsingstijd niet in   aanmerking genomen voor de berekening van de gefactureerde uren.
+§ 1. Om de subsidie, berekend conform artikel 6 tot en met 11, volledig te verkrijgen, moet de dienst voor logistieke hulp aantonen dat :<br>
+1° hij op jaarbasis per VTE logistiek personeel minstens 95 % van het gemiddelde van 1450 gefactureerde uren realiseert;<br>
+2° hij op jaarbasis per VTE aan doelgroepwerknemers minstens 95 % van het gemiddelde van 1330 gefactureerde uren realiseert;<br>
+3° hij, met betrekking tot de norm begeleidend personeel van 1 VTE op 17,5 VTE logistiek personeel en de norm leidinggevend personeel van 1 VTE op 100 VTE logistiek personeel, aantoont dat hij minstens 90 % van de som van het aantal VTE op jaarbasis dat resulteert uit de toepassing van beide normen, effectief heeft tewerkgesteld.<br>
+<br>
+§ 2. Voor de bewijsvoering van de voorwaarden, vermeld in paragraaf 1, wordt het personeel dat conform dit besluit is toegewezen, in aanmerking genomen. Dat betekent dat:<br>
+1° alleen het toegewezen aantal VTE logistiek personeel en de prestaties van het logistiek personeel in aanmerking worden genomen om 95% van het gemiddelde van 1450 gefactureerde uren te bereiken;<br>
+2° alleen het toegewezen aantal VTE doelgroepwerknemers en de prestaties van de doelgroepwerknemers in aanmerking worden genomen om 95% van het gemiddelde van 1330 gefactureerde uren te bereiken;<br>
+3° het toegewezen aantal VTE logistiek personeel en het toegewezen aantal VTE doelgroepwerknemers in aanmerking worden genomen om de norm voor het begeleidend personeel en de norm voor het leidinggevend personeel te berekenen.<br>
+<br>
+§ 3. De tijd die een logistiek personeelslid of een doelgroepwerknemer nodig heeft om zich van de ene naar de andere gebruiker te verplaatsen, wordt in aanmerking genomen voor de berekening van de gefactureerde uren, vermeld in paragraaf 1 en 2, op voorwaarde dat die twee hulpverleningsmomenten aansluitend zijn.<br>
+<br>
+De helft van de tijd die een logistiek personeelslid of een doelgroepwerknemer nodig heeft om zich van een gebruiker naar een werkvergadering te verplaatsen, of omgekeerd, wordt in aanmerking genomen voor de berekening van de gefactureerde uren, vermeld in paragraaf 1 en 2.<br>
+<br>
+Voor alle andere verplaatsingen dan de voormelde verplaatsingen, bijvoorbeeld het woon-werkverkeer of de verplaatsingen van een gebruiker naar een bijscholing, wordt de verplaatsingstijd niet in aanmerking genomen voor de berekening van de gefactureerde uren.
 
 ### ART. 13.
 
-§ 1. Als een dienst voor logistieke hulp de 95 %, vermeld in artikel 12, § 1, 1° en 2°, niet haalt, dan wordt het deel van de subsidie-enveloppe dat gebaseerd is op artikel 6, § 2, eerste lid, 1°, artikel 7, 1° en artikel 8, eerste lid, 1°, verminderd met : <br />1° 5 % als de dienst een percentage haalt dat lager is dan 95 % en hoger dan of gelijk aan 90 %; <br />2° 10 % als de dienst een percentage haalt dat lager is dan 90 % en hoger dan of gelijk aan 85 %; <br />3° (100 % - het behaalde percentage) als de dienst een percentage haalt dat lager is dan 85 %.<br /><br />§ 2. Als een dienst voor logistieke hulp de 90 %, vermeld in artikel 12, § 1, 3°, niet haalt, dan wordt het deel van de subsidie-enveloppe dat gebaseerd is op artikel 6, § 2, eerste lid, 2°, 3° en 4°, artikel 7, 2°, 3° en 4°, en artikel 8, eerste lid, 2°, 3° en 4°, verminderd met : <br />1° 5 % als de dienst een percentage haalt dat lager is dan 90 % en hoger dan of gelijk aan 85 %; <br />2° 10 % als de dienst een percentage haalt dat lager is dan 85 % en hoger dan of gelijk aan 80 %; <br />3° (100 % - het behaalde percentage) als de dienst een percentage haalt dat lager is dan 80 %.<br /><br />
+§ 1. Als een dienst voor logistieke hulp de 95 %, vermeld in artikel 12, § 1, 1° en 2°, niet haalt, dan wordt het deel van de subsidie-enveloppe dat gebaseerd is op artikel 6, § 2, 1°, en artikel 8, § 1, eerste lid, 1°, verminderd met :<br>
+1° 5 % als de dienst een percentage haalt dat lager is dan 95 % en hoger dan of gelijk aan 90 %;<br>
+2° 10 % als de dienst een percentage haalt dat lager is dan 90 % en hoger dan of gelijk aan 85 %;<br>
+3° (100 % - het behaalde percentage) als de dienst een percentage haalt dat lager is dan 85 %.<br>
+<br>
+§ 2. Als een dienst voor logistieke hulp de 90 %, vermeld in artikel 12, § 1, 3°, niet haalt, dan wordt het deel van de subsidie-enveloppe dat gebaseerd is op artikel 6, § 2, 2°, 3° en 4°, en artikel 8, § 1, eerste lid, 2°, 3° en 4°, verminderd met :<br>
+1° 5 % als de dienst een percentage haalt dat lager is dan 90 % en hoger dan of gelijk aan 85 %;<br>
+2° 10 % als de dienst een percentage haalt dat lager is dan 85 % en hoger dan of gelijk aan 80 %;<br>
+3° (100 % - het behaalde percentage) als de dienst een percentage haalt dat lager is dan 80 %.<br>
+&nbsp;
 
 ### ART. 14.
 
-Elk trimester wordt een voorschot uitbetaald van maximaal 22,5% van de subsidie-enveloppe, berekend overeenkomstig artikel 6 tot en met 11, op basis van het aantal VTE logistiek personeel, het aantal VTE doelgroepwerknemers en het aantal GESCO-VTE in de verschillende functiecategorieën die in het voorafgaande jaar toegewezen werden. Die voorschotten worden uitbetaald voor het einde van de tweede maand van het trimester waarop ze betrekking hebben. Het saldo wordt uitbetaald na afloop van het begrotingsjaar. Als een dienst meer voorschotten ontvangen heeft dan zijn definitieve subsidiebedrag, wordt het verschil teruggevorderd.<br />
+Elk trimester wordt een voorschot uitbetaald van maximaal 22,5% van de subsidie-enveloppe, berekend overeenkomstig artikel 6 tot en met 11, op basis van het aantal VTE logistiek personeel en het aantal VTE doelgroepwerknemers&nbsp;die in het voorafgaande jaar toegewezen werden. Die voorschotten worden uitbetaald voor het einde van de tweede maand van het trimester waarop ze betrekking hebben. Het saldo wordt uitbetaald na afloop van het begrotingsjaar. Als een dienst meer voorschotten ontvangen heeft dan zijn definitieve subsidiebedrag, wordt het verschil teruggevorderd.
 
 ## HOOFDSTUK V Overgangsbepalingen
 
@@ -1349,7 +1452,75 @@ Het programma voor de diensten voor maatschappelijk werk van de ziekenfondsen be
 
 ### ART. 3.
 
-Met behoud van de toepassing van artikelen 4, 14, 15, 43, 50, 67 en 72, tweede lid, van het woonzorgdecreet van 13 maart 2009, gelden voor de erkenning van diensten maatschappelijk werk van het ziekenfonds de onderstaande specifieke voorwaarden :<br />A. Voorwaarden voor de organisatie <br />1° de dienst is opgericht door een ziekenfonds of een landsbond van ziekenfondsen als vermeld in artikelen 2 en 6 van de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van de ziekenfondsen;<br />2° de dienst heeft tot doel de zelfredzaamheid, de maatschappelijke integratie en de toegang tot de voorzieningen te realiseren via een integrale benadering van de hulpvraag van de gebruiker;<br />3° de dienst is gevestigd en ontplooit zijn werking in het werkgebied dat bij de erkenning is bepaald.<br /><br />B. Voorwaarden voor de hulp- en dienstverlening<br />1° de dienst vervult de activiteiten, bepaald in het woonzorgdecreet van 13 maart 2009.<br />De minister bepaalt de resultaatgerichte indicatoren die een erkende dienst moet bereiken. Die indicatoren kunnen zowel kwalitatief als kwantitatief van aard zijn en kunnen zowel betrekking hebben op doelgroepkenmerken als op de gehanteerde werkvormen;<br />2° de dienst besteedt bijzondere aandacht aan de meest kwetsbare gebruikers. De meest kwetsbaren zijn personen die een combinatie van de volgende kenmerken bezitten :<br />a) ze hebben een beperkte zelfredzaamheid;<br />b) ze zijn aangewezen op hulpmiddelen of hulp van personen voor het stellen van activiteiten van het dagelijkse leven;<br />c) ze hebben een beperkt inkomen;<br />d) ze hebben geen sociaal netwerk;<br />3° met behoud van de toepassing van artikel 6 van dit besluit bevat het kwaliteitshandboek van elke dienst minstens een beschrijving van de volgende elementen :<br />a) een weergave van het kwaliteitsbeleid, dat tenminste bestaat uit de missie, de visie, de strategie en de doelstellingen van de dienst;<br />b) het kwaliteitsmanagementsysteem, dat bestaat uit de organisatorische structuur, bevoegdheden, verantwoordelijkheden, procedures en processen. De weergave van het kwaliteitsmanagementsysteem moet minstens de volgende elementen bevatten : <br />1) de conditionele elementen, namelijk : <br />- het organogram; <br />- de functieomschrijvingen; <br />- de overlegmomenten; <br />- de personele en materiële middelen; <br />- de middelen als de principes van werkverdeling; <br />- de maatregelen om specifieke doelgroepen te bereiken; <br />- de omschrijving van de manier waarop personeelsleden aan kwaliteitszorg werken; <br />- de omschrijving van de manier waarop aan kwaliteitsverbetering wordt gewerkt; <br />- het vormings-, trainings- en opleidingsbeleid; <br />2) de operationele elementen inzake de primaire processen, namelijk : <br />- de werkwijze voor vindplaatsgerichte werking; <br />- de werkwijze voor het voeren van een verkennend en oriënterend gesprek; <br />- de werkwijze voor de overdracht van de hulp- en dienstverlening; <br />- de werkwijze voor het verwerven, gebruiken en doorgeven van informatie over de gebruiker; <br />- de werkwijze voor dossiervorming; <br />- de werkwijze voor klachtenregistratie en -behandeling; <br />- de werkwijze bij gevaar voor schade aan de integriteit van de gebruiker of derden; <br />3) de operationele elementen inzake de managementprocessen, namelijk : <br />- de werkwijze voor het vaststellen van tekorten en behoeften en het signaleren ervan aan de overheid; <br />- de werkwijze voor het evalueren van de werking, het doelgroepenbeleid en de doelstellingen; <br />- de werkwijze voor het evalueren van het functioneren van personeelsleden; <br />- de werkwijze voor het begeleiden en ondersteunen van personeelsleden; <br />4) de garantie-elementen, namelijk de werkwijze voor het beheren van de documenten van het handboek;<br />4° de dienst waarborgt tijdens de hulpverlening de integriteit en de menselijke waardigheid van de gebruiker, heeft oog voor de kwetsbaarheid van de gebruiker en neemt de eigen verantwoordelijkheid van de gebruiker als uitgangspunt van de hulp- en dienstverlening;<br />5° de dienst hanteert een hulpverleningsconcept dat een zorg op maat en aangepaste methodieken toelaat en dat in samenspraak met de gebruiker de meest wenselijke en minst ingrijpende zorgvorm aanwendt. In dat hulpverleningsconcept wordt de zelfredzaamheid van de gebruiker gestimuleerd en wordt een systematische en integrale benadering beoogd; <br />6° de dienst beschrijft op een voor de gebruiker verstaanbare manier zijn hulpverleningsaanbod en voert er een aangepaste communicatie over met de doelgroepen, de potentiële doelgroepen en verwijzers; <br />7° de dienst staat open voor alle hulpvragen en verwijst door naar de meest geëigende voorziening als hij geen aangepast hulpverleningsaanbod heeft; <br />8° de dienst beschrijft hoe hij rechtstreeks en zonder afspraak bereikbaar is; <br />9° de dienst besteedt aandacht aan de bereikbaarheid buiten de kantooruren; <br />10° de dienst besteedt aandacht aan de fysieke, culturele en psychologische aspecten van bereikbaarheid voor zijn doelgroepen; <br />11° de hulpverlening is gratis voor de gebruiker. <br /><br />C. Voorwaarden voor de omkadering<br />1° de dienst voorziet in een leidinggevende functie;<br />2° de dienst voert een personeelsbeleid waarin vorming geïntegreerd is. Daarbij wordt aandacht besteed aan zowel de efficiëntie van de organisatie als aan de effectiviteit van de hulpverlening. De minister kan bepalen aan welke voorwaarden de personeelsleden en vrijwilligers moeten voldoen;<br />3° de dienst onderzoekt de mogelijkheid en de wenselijkheid om vrijwilligers in te schakelen in de hulp- en dienstverlening en zorgt, als de dienst zelf vrijwilligerswerk organiseert, voor een aangepaste begeleiding van de vrijwilligers die hij inzet;<br />4° de personeelsleden van de dienst beschikken over de nodige kwalificatievereisten. Die kwalificatievereisten slaan zowel op diploma als op ervaring. De minister kan nadere regels voor de kwalificatievereisten bepalen;<br />5° de dienst ontwikkelt een vormings-, trainings- en opleidingsbeleid voor alle personeelsleden en voert dat uit. De dienst zorgt ervoor dat de personeelsleden en vrijwilligers voldoende zijn opgeleid voor de opdrachten die ze vervullen en dat ze worden begeleid in hun functioneren;<br />6° de dienst gebruikt een functieomschrijving voor zijn personeelsleden.<br /><br />D. Voorwaarden voor de werking<br />1° de dienst bezorgt de registratiegegevens, vermeld in artikel 7, § 1, van het besluit, aan het agentschap op een uniforme wijze. De minister bepaalt de parameters, de criteria en de vorm van de registratie en de voorwaarden van aanleveren van de gegevens aan het agentschap. De registratiegegevens houden rekening met de resultaatgerichte indicatoren, vermeld in B, 1°;<br />2° conform artikel 8, § 3, tweede lid, van het besluit waakt de dienst over de strikte geheimhouding van alle persoonlijke en vertrouwelijke gegevens en hanteert hij in het bijzonder een deontologische code met betrekking tot het verwerven, het gebruiken en het doorgeven van informatie van en over de gebruikers, met respect voor hun persoonlijke levenssfeer;<br />3° de dienst garandeert het klachtenrecht aan de gebruiker door een procedure voor klachtenregistratie en -behandeling. Die procedure beschrijft op welke wijze de gebruiker zijn klacht kenbaar kan maken, op welke wijze de klacht wordt beoordeeld op ontvankelijkheid, op welke wijze de klacht wordt behandeld en op welke wijze de gebruiker wordt geïnformeerd over het resultaat van zijn klacht.<br />E. Voorwaarden voor de infrastructuur<br />1° wat zijn infrastructuur en uitrusting betreft, moet een dienst : <br />a) maximaal bereikbaar zijn, onder meer telefonisch en met het openbaar vervoer; <br />b) over voldoende en aangepaste infrastructuur en uitrusting beschikken zodat de opgelegde taken doelmatig, efficiënt, discreet en met respect voor de waardigheid en de eigenheid van de gebruikers en de personeelsleden volbracht kunnen worden. In voorkomend geval moet hieraan voldaan zijn op de verschillende plaatsen waar het onthaal en de raadplegingen plaatsvinden of waar de opvang wordt georganiseerd; <br />2° de dienst neemt de nodige maatregelen voor de fysieke veiligheid en de hygiëne van de gebruikers en de personeelsleden.<br /><br />
+Met behoud van de toepassing van artikelen 4, 14, 15, 43, 50, 67 en 72, tweede lid, van het woonzorgdecreet van 13 maart 2009, gelden voor de erkenning van diensten maatschappelijk werk van het ziekenfonds de onderstaande specifieke voorwaarden :<br>
+A. Voorwaarden voor de organisatie<br>
+1° de dienst is opgericht door een ziekenfonds of een landsbond van ziekenfondsen als vermeld in artikelen 2 en 6 van de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van de ziekenfondsen;<br>
+2° de dienst heeft tot doel de zelfredzaamheid, de maatschappelijke integratie en de toegang tot de voorzieningen te realiseren via een integrale benadering van de hulpvraag van de gebruiker;<br>
+3° de dienst is gevestigd en ontplooit zijn werking in het werkgebied dat bij de erkenning is bepaald.<br>
+<br>
+B. Voorwaarden voor de hulp- en dienstverlening<br>
+1° de dienst vervult de activiteiten, bepaald in het woonzorgdecreet van 13 maart 2009.<br>
+De minister bepaalt de resultaatgerichte indicatoren die een erkende dienst moet bereiken. Die indicatoren kunnen zowel kwalitatief als kwantitatief van aard zijn en kunnen zowel betrekking hebben op doelgroepkenmerken als op de gehanteerde werkvormen;<br>
+2° de dienst besteedt bijzondere aandacht aan de meest kwetsbare gebruikers. De meest kwetsbaren zijn personen die een combinatie van de volgende kenmerken bezitten :<br>
+a) ze hebben een beperkte zelfredzaamheid;<br>
+b) ze zijn aangewezen op hulpmiddelen of hulp van personen voor het stellen van activiteiten van het dagelijkse leven;<br>
+c) ze hebben een beperkt inkomen;<br>
+d) ze hebben geen sociaal netwerk;<br>
+3° met behoud van de toepassing van artikel 6 van dit besluit bevat het kwaliteitshandboek van elke dienst minstens een beschrijving van de volgende elementen :<br>
+a) een weergave van het kwaliteitsbeleid, dat tenminste bestaat uit de missie, de visie, de strategie en de doelstellingen van de dienst;<br>
+b) het kwaliteitsmanagementsysteem, dat bestaat uit de organisatorische structuur, bevoegdheden, verantwoordelijkheden, procedures en processen. De weergave van het kwaliteitsmanagementsysteem moet minstens de volgende elementen bevatten :<br>
+1) de conditionele elementen, namelijk :<br>
+- het organogram;<br>
+- de functieomschrijvingen;<br>
+- de overlegmomenten;<br>
+- de personele en materiële middelen;<br>
+- de middelen als de principes van werkverdeling;<br>
+- de maatregelen om specifieke doelgroepen te bereiken;<br>
+- de omschrijving van de manier waarop personeelsleden aan kwaliteitszorg werken;<br>
+- de omschrijving van de manier waarop aan kwaliteitsverbetering wordt gewerkt;<br>
+- het vormings-, trainings- en opleidingsbeleid;<br>
+2) de operationele elementen inzake de primaire processen, namelijk :<br>
+- de werkwijze voor vindplaatsgerichte werking;<br>
+- de werkwijze voor het voeren van een verkennend en oriënterend gesprek;<br>
+- de werkwijze voor de overdracht van de hulp- en dienstverlening;<br>
+- de werkwijze voor het verwerven, gebruiken en doorgeven van informatie over de gebruiker;<br>
+- de werkwijze voor dossiervorming;<br>
+- de werkwijze voor klachtenregistratie en -behandeling;<br>
+- de werkwijze bij gevaar voor schade aan de integriteit van de gebruiker of derden;<br>
+3) de operationele elementen inzake de managementprocessen, namelijk :<br>
+- de werkwijze voor het vaststellen van tekorten en behoeften en het signaleren ervan aan de overheid;<br>
+- de werkwijze voor het evalueren van de werking, het doelgroepenbeleid en de doelstellingen;<br>
+- de werkwijze voor het evalueren van het functioneren van personeelsleden;<br>
+- de werkwijze voor het begeleiden en ondersteunen van personeelsleden;<br>
+4) de garantie-elementen, namelijk de werkwijze voor het beheren van de documenten van het handboek;<br>
+4° de dienst waarborgt tijdens de hulpverlening de integriteit en de menselijke waardigheid van de gebruiker, heeft oog voor de kwetsbaarheid van de gebruiker en neemt de eigen verantwoordelijkheid van de gebruiker als uitgangspunt van de hulp- en dienstverlening;<br>
+5° de dienst hanteert een hulpverleningsconcept dat een zorg op maat en aangepaste methodieken toelaat en dat in samenspraak met de gebruiker de meest wenselijke en minst ingrijpende zorgvorm aanwendt. In dat hulpverleningsconcept wordt de zelfredzaamheid van de gebruiker gestimuleerd en wordt een systematische en integrale benadering beoogd;<br>
+6° de dienst beschrijft op een voor de gebruiker verstaanbare manier zijn hulpverleningsaanbod en voert er een aangepaste communicatie over met de doelgroepen, de potentiële doelgroepen en verwijzers;<br>
+7° de dienst staat open voor alle hulpvragen en verwijst door naar de meest geëigende voorziening als hij geen aangepast hulpverleningsaanbod heeft;<br>
+8° de dienst beschrijft hoe hij rechtstreeks en zonder afspraak bereikbaar is;<br>
+9° de dienst besteedt aandacht aan de bereikbaarheid buiten de kantooruren;<br>
+10° de dienst besteedt aandacht aan de fysieke, culturele en psychologische aspecten van bereikbaarheid voor zijn doelgroepen;<br>
+11° de hulpverlening is gratis voor de gebruiker.<br>
+<br>
+C. Voorwaarden voor de omkadering<br>
+1° de dienst voorziet in een leidinggevende functie;<br>
+2° de dienst voert een personeelsbeleid waarin vorming geïntegreerd is. Daarbij wordt aandacht besteed aan zowel de efficiëntie van de organisatie als aan de effectiviteit van de hulpverlening. De minister kan bepalen aan welke voorwaarden de personeelsleden en vrijwilligers moeten voldoen;<br>
+3° de dienst onderzoekt de mogelijkheid en de wenselijkheid om vrijwilligers in te schakelen in de hulp- en dienstverlening en zorgt, als de dienst zelf vrijwilligerswerk organiseert, voor een aangepaste begeleiding van de vrijwilligers die hij inzet;<br>
+4° de personeelsleden van de dienst beschikken over de nodige kwalificatievereisten. Die kwalificatievereisten slaan zowel op diploma als op ervaring. De minister kan nadere regels voor de kwalificatievereisten bepalen;<br>
+5° de dienst ontwikkelt een vormings-, trainings- en opleidingsbeleid voor alle personeelsleden en voert dat uit. De dienst zorgt ervoor dat de personeelsleden en vrijwilligers voldoende zijn opgeleid voor de opdrachten die ze vervullen en dat ze worden begeleid in hun functioneren;<br>
+6° de dienst gebruikt een functieomschrijving voor zijn personeelsleden.<br>
+<br>
+D. Voorwaarden voor de werking<br>
+1° de dienst bezorgt jaarlijks voor 15 april de gegevens van het voorbije werkjaar over de resultaatgerichte indicatoren, vermeld in punt B, 1°, aan het agentschap;<br>
+1° /1 alle erkende diensten bezorgen samen jaarlijks voor 15 april een overzicht van knelpunten en eventuele toekomstige ontwikkelingen die van belang zijn voor de algemene werking van de sector van de diensten maatschappelijk werk van het ziekenfonds, aan het agentschap;<br>
+2° conform artikel 8, § 3, tweede lid, van het besluit waakt de dienst over de strikte geheimhouding van alle persoonlijke en vertrouwelijke gegevens en hanteert hij in het bijzonder een deontologische code met betrekking tot het verwerven, het gebruiken en het doorgeven van informatie van en over de gebruikers, met respect voor hun persoonlijke levenssfeer;<br>
+3° de dienst garandeert het klachtenrecht aan de gebruiker door een procedure voor klachtenregistratie en -behandeling. Die procedure beschrijft op welke wijze de gebruiker zijn klacht kenbaar kan maken, op welke wijze de klacht wordt beoordeeld op ontvankelijkheid, op welke wijze de klacht wordt behandeld en op welke wijze de gebruiker wordt geïnformeerd over het resultaat van zijn klacht.<br>
+E. Voorwaarden voor de infrastructuur<br>
+1° wat zijn infrastructuur en uitrusting betreft, moet een dienst :<br>
+a) maximaal bereikbaar zijn, onder meer telefonisch en met het openbaar vervoer;<br>
+b) over voldoende en aangepaste infrastructuur en uitrusting beschikken zodat de opgelegde taken doelmatig, efficiënt, discreet en met respect voor de waardigheid en de eigenheid van de gebruikers en de personeelsleden volbracht kunnen worden. In voorkomend geval moet hieraan voldaan zijn op de verschillende plaatsen waar het onthaal en de raadplegingen plaatsvinden of waar de opvang wordt georganiseerd;<br>
+2° de dienst neemt de nodige maatregelen voor de fysieke veiligheid en de hygiëne van de gebruikers en de personeelsleden.<br>
+&nbsp;
 
 ## HOOFDSTUK IV Subsidiëring
 
@@ -1563,7 +1734,18 @@ Binnen de beschikbare begrotingskredieten legt de minister jaarlijks het totale 
 
 ### ART. 6.
 
-§ 1. Om voor subsidiëring in aanmerking te komen, moet een erkende dienst voor gastopvang minstens het aantal uren gastopvang, vermeld in artikel 4, A, 1°, presteren. <br /><br />De subsidie-enveloppe voor de erkende diensten voor gastopvang bestaat uit :<br />1° een basissubsidie van 20.000 euro voor de eerste 3 000 uren gastopvang in de regio waarvoor de dienst erkend is of, als de dienst erkend is voor het tweetalige gebied Brussel-Hoofdstad, voor de eerste 1 800 uren in die regio; <br />2° een forfaitair bedrag van 1,082 euro per uur gastopvang, gepresteerd in het werkgebied van de dienst, dat het aantal uren, vermeld in punt 1°, overstijgt. <br /><br />Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het maximum aantal subsidiabele uren dat met toepassing van artikel 5 aan de dienst is toegewezen. <br /><br />§ 2. In afwijking van paragraaf 1, eerste lid, kan een erkende dienst voor gastopvang die tijdens het eerste jaar dat hij voor subsidiëring in aanmerking komt, het aantal uren gastopvang, vermeld in artikel 4, A, 1°, niet haalt, toch een subsidie-enveloppe ontvangen die gelijk is aan de basissubsidie van 20.000 euro.<br /><br />
+§ 1. Om voor subsidiëring in aanmerking te komen, moet een erkende dienst voor gastopvang minstens het aantal uren gastopvang, vermeld in artikel 4, A, 1°, presteren.<br>
+<br>
+De subsidie-enveloppe voor de erkende diensten voor gastopvang bestaat uit :<br>
+1° een basissubsidie van 20.000 euro voor de eerste 3 000 uren gastopvang in de regio waarvoor de dienst erkend is of, als de dienst erkend is voor het tweetalige gebied Brussel-Hoofdstad, voor de eerste 1 800 uren in die regio;<br>
+2° een forfaitair bedrag van 1,082 euro per uur gastopvang, gepresteerd in het werkgebied van de dienst, dat het aantal uren, vermeld in punt 1°, overstijgt.<br>
+<br>
+Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het maximum aantal subsidiabele uren dat met toepassing van artikel 5 aan de dienst is toegewezen.<br>
+<br>
+§ 2. In afwijking van paragraaf 1, eerste lid, kan een erkende dienst voor gastopvang die tijdens het eerste jaar dat hij voor subsidiëring in aanmerking komt, het aantal uren gastopvang, vermeld in artikel 4, A, 1°, niet haalt, toch een subsidie-enveloppe ontvangen die gelijk is aan de basissubsidie van 20.000 euro.<br>
+<br>
+§ 3. De diensten voor gastopvang bezorgen jaarlijks voor 1 maart een overzicht van het aantal gepresteerde uren gastopvang per gemeente tijdens het voorbije werkjaar aan het agentschap.<br>
+&nbsp;
 
 ### ART. 6/1.
 
@@ -2415,7 +2597,27 @@ De evaluatiecriteria voor de verenigingen van gebruikers en mantelzorgers worden
 
 ### ART. 3.
 
-Met behoud van de toepassing van artikelen 4, 46, 47, 50 en 72, tweede lid, van het woonzorgdecreet van 13 maart 2009, gelden voor de erkenning van verenigingen van gebruikers en mantelzorgers de onderstaande specifieke voorwaarden :<br /><br />A. Voorwaarden voor de dienstverlening <br />1° de vereniging organiseert of neemt deel aan minstens twee bijeenkomsten per jaar in elke Vlaamse provincie en in het tweetalige gebied Brussel-Hoofdstad, waarop de aangesloten leden worden uitgenodigd en waarbij een informatieoverdracht gebeurt over onderwerpen in de thuiszorg die voor de gebruikers en mantelzorgers relevant zijn;<br />2° de vereniging verstuurt, via post of e-mail, minstens tweemaal per jaar naar alle aangesloten leden een informatiebrochure of een vergelijkbare informatiedrager over een onderwerp dat voor de gebruiker en mantelzorger relevant is;<br />3° de vereniging inventariseert de gesignaleerde problemen van groepen van gebruikers en mantelzorgers en rapporteert die jaarlijks aan de overheid;<br />4° de vereniging verdedigt de belangen van groepen van gebruikers en mantelzorgers en doet op basis daarvan ook op een sensibiliserende wijze aanbevelingen aan de woonzorgvoorzieningen en de overheid;<br />5° de vereniging verstrekt informatie over de rechten en plichten van de gebruikers en de mantelzorgers. <br /><br />B. Voorwaarden voor de omkadering<br />1° de vereniging stelt minstens 1,5 voltijds equivalent personeelsleden te werk; <br />2° de personeelsleden volgen samen, gespreid over een periode van maximaal twee jaar, in totaal minstens 60 uren bijscholing over onderwerpen die voor de vereniging relevant zijn. <br /><br />C. Voorwaarden voor de werking <br />1° volgens de statuten beantwoordt het hoofddoel van de vereniging aan artikel 46 van het woonzorgdecreet van 13 maart 2009; <br />2° de vereniging moet een geactualiseerd ledenbestand aanleggen van minstens 4 000 natuurlijke personen, die gebruikers of mantelzorgers zijn of geweest zijn. De vereniging bewijst dat lidmaatschap, alsook de algemene spreiding ervan over haar werkgebied, vermeld in punt 4°; <br />3° de vereniging is minstens 32 uren per week bereikbaar, met een passende spreiding over alle werkdagen; <br />4° de vereniging ontplooit activiteiten in alle Vlaamse provincies en in het tweetalige gebied Brussel-Hoofdstad; <br />5° de vereniging garandeert inspraak van gebruikers in haar algemene werking, alsook de mogelijkheid tot het formuleren van suggesties;<br />6° de vereniging gaat de tevredenheid van zijn gebruikers na en stuurt haar werking op basis daarvan bij. Minstens tweejaarlijks wordt een verantwoorde gebruikerstevredenheidsmeting uitgevoerd;<br />7° de vereniging garandeert aan de gebruikers een klachtrecht en zorgt voor een adequate en objectieve behandeling van de klachten.
+Met behoud van de toepassing van artikelen 4, 46, 47, 50 en 72, tweede lid, van het woonzorgdecreet van 13 maart 2009, gelden voor de erkenning van verenigingen van gebruikers en mantelzorgers de onderstaande specifieke voorwaarden :<br>
+<br>
+A. Voorwaarden voor de dienstverlening<br>
+1° de vereniging organiseert of neemt deel aan minstens twee bijeenkomsten per jaar in elke Vlaamse provincie en in het tweetalige gebied Brussel-Hoofdstad, waarop de aangesloten leden worden uitgenodigd en waarbij een informatieoverdracht gebeurt over onderwerpen in de thuiszorg die voor de gebruikers en mantelzorgers relevant zijn;<br>
+2° de vereniging verstuurt, via post of e-mail, minstens tweemaal per jaar naar alle aangesloten leden een informatiebrochure of een vergelijkbare informatiedrager over een onderwerp dat voor de gebruiker en mantelzorger relevant is;<br>
+3° de vereniging inventariseert de gesignaleerde problemen van groepen van gebruikers en mantelzorgers en bezorgt de inventaris van het voorbije werkjaar jaarlijks voor 15 april aan het agentschap;<br>
+4° de vereniging verdedigt de belangen van groepen van gebruikers en mantelzorgers en doet op basis daarvan ook op een sensibiliserende wijze aanbevelingen aan de woonzorgvoorzieningen en de overheid;<br>
+5° de vereniging verstrekt informatie over de rechten en plichten van de gebruikers en de mantelzorgers.<br>
+<br>
+B. Voorwaarden voor de omkadering<br>
+1° de vereniging stelt minstens 1,5 voltijds equivalent personeelsleden te werk;<br>
+2° de personeelsleden volgen samen, gespreid over een periode van maximaal twee jaar, in totaal minstens 60 uren bijscholing over onderwerpen die voor de vereniging relevant zijn.<br>
+<br>
+C. Voorwaarden voor de werking<br>
+1° volgens de statuten beantwoordt het hoofddoel van de vereniging aan artikel 46 van het woonzorgdecreet van 13 maart 2009;<br>
+2° de vereniging moet een geactualiseerd ledenbestand aanleggen van minstens 4 000 natuurlijke personen, die gebruikers of mantelzorgers zijn of geweest zijn. De vereniging bewijst dat lidmaatschap, alsook de algemene spreiding ervan over haar werkgebied, vermeld in punt 4°;<br>
+3° de vereniging is minstens 32 uren per week bereikbaar, met een passende spreiding over alle werkdagen;<br>
+4° de vereniging ontplooit activiteiten in alle Vlaamse provincies en in het tweetalige gebied Brussel-Hoofdstad;<br>
+5° de vereniging garandeert inspraak van gebruikers in haar algemene werking, alsook de mogelijkheid tot het formuleren van suggesties;<br>
+6° de vereniging gaat de tevredenheid van zijn gebruikers na en stuurt haar werking op basis daarvan bij. Minstens tweejaarlijks wordt een verantwoorde gebruikerstevredenheidsmeting uitgevoerd;<br>
+7° de vereniging garandeert aan de gebruikers een klachtrecht en zorgt voor een adequate en objectieve behandeling van de klachten.
 
 ## HOOFDSTUK III Subsidiëring
 
