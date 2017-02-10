@@ -88,7 +88,7 @@ Naast de delegaties betreffende de aangelegenheden bedoeld in artikel 13, worden
 1° het verlenen van afwijkingen inzake brandveiligheidsnormen en erkenningsnormen;<br>
 2° het verlenen van niet-gereglementeerde subsidies, die niet nominatim in de begroting zijn vermeld, tot een maximaal bedrag van 150.000 euro;<br>
 3° het verlenen van subsidies die nominatim in de begroting zijn vermeld;<br>
-4° het afleveren van inschrijvingsbewijzen aan het verzorgend personeel van de diensten voor gezinszorg en aanvullende thuiszorg;<br>
+4° ...;<br>
 5° het beheren van Agentschap voor Vlaamse Sociale Bescherming.
 
 ### ART. 15.
