@@ -217,7 +217,21 @@ De taken die conform artikel 30 aan de departementen worden toevertrouwd, behore
 
 ### ART. 28.
 
-§ 1. Voor het beleidsdomein Mobiliteit en Openbare Werken wordt het Vlaams   ministerie van Mobiliteit en Openbare Werken opgericht, dat bestaat uit het   gelijknamige departement en twee agentschappen zonder rechtspersoonlijkheid :   <BR>1° Agentschap Wegen en Verkeer; <BR>2° Agentschap voor Maritieme   Dienstverlening en Kust. <BR><BR>§ 2. De agentschappen met rechtspersoonlijkheid   die tot het beleidsdomein Mobiliteit en Openbare Werken behoren, zijn : <BR>1°   Vlaamse Vervoermaatschappij - De Lijn; <BR>2° De Scheepvaart; <BR>3° Waterwegen   en Zeekanaal;<BR>4° ...;<BR>5° Luchthavenontwikkelingsmaatschappij   Oostende-Brugge;<BR>6° Luchthavenontwikkelingsmaatschappij   Kortrijk-Wevelgem;<BR>7° Luchthavenontwikkelingsmaatschappij Antwerpen;<BR>8°   Vlaamse Havens.<BR><BR>§ 3. De strategische adviesraad die tot het beleidsdomein   Mobiliteit en Openbare Werken behoort, is de Mobiliteitsraad van   Vlaanderen.
+§ 1. Voor het beleidsdomein Mobiliteit en Openbare Werken wordt het Vlaams ministerie van Mobiliteit en Openbare Werken opgericht, dat bestaat uit het gelijknamige departement en twee agentschappen zonder rechtspersoonlijkheid :<br>
+1° Agentschap Wegen en Verkeer;<br>
+2° Agentschap voor Maritieme Dienstverlening en Kust.<br>
+<br>
+§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Mobiliteit en Openbare Werken behoren, zijn :<br>
+1° Vlaamse Vervoermaatschappij - De Lijn;<br>
+2° De Vlaamse Waterweg;<br>
+3° Waterwegen en Zeekanaal;<br>
+4° ...;<br>
+5° Luchthavenontwikkelingsmaatschappij Oostende-Brugge;<br>
+6° Luchthavenontwikkelingsmaatschappij Kortrijk-Wevelgem;<br>
+7° Luchthavenontwikkelingsmaatschappij Antwerpen;<br>
+8° Vlaamse Havens.<br>
+<br>
+§ 3. De strategische adviesraad die tot het beleidsdomein Mobiliteit en Openbare Werken behoort, is de Mobiliteitsraad van Vlaanderen.
 
 ### ART. 29.
 
