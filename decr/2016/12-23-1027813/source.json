@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027813,
+  "title": "Decreet van 2016-12-23 houdende wijziging van diverse bepalingen van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de radio-omroeporganisaties",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027813/VolledigDocument?datum=2017-02-13",
+  "source_sha256": "1171c11a505d1925d976b1147c7fdc1ed73bc0d017da398c71809464e9093030",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027813&param=informatie",
+  "as_of": "2017-02-13",
+  "made": "2016-12-23",
+  "gazette": "2017-02-03",
+  "numac": 2017010397,
+  "document_start": "2017-02-13",
+  "document_end": null,
+  "in_force": "2017-02-13",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2017-02-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
