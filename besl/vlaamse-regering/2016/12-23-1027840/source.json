@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027840,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-23 tot wijziging van het besluit van de Vlaamse Regering van 13 mei 2016 houdende de bepaling van de voorwaarden voor de toekenning van subsidies aan gemeenten in het kader van de vluchtelingenproblematiek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027840/VolledigDocument?datum=2017-02-18",
+  "source_sha256": "253857d9da0d9f59dc0d38d8ccbd154f8827251c2fac97fa487d1aca97418ff5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027840&param=informatie",
+  "as_of": "2017-02-18",
+  "made": "2016-12-23",
+  "gazette": "2017-02-08",
+  "numac": 2017010303,
+  "document_start": "2017-02-18",
+  "document_end": null,
+  "in_force": "2017-02-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-02-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
