@@ -56,7 +56,8 @@
 47° Johan Reymen;<br>
 48° Hans Duyck;<br>
 49° Anke Symens;<br>
-50° Carolien Neckebrouck;</p>
+50° Carolien Neckebrouck;<br>
+51° Birgit Vermaesen.</p>
 
 ### ART. 2.
 
