@@ -28,7 +28,7 @@ Besluit :
 
 ### ART 1.
 
-§ 1. Er wordt een budget van 20 miljoen euro ter beschikking gesteld op PJO-1P0C2AA-WT van de begroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 in het kader van de vluchtelingenproblematiek.<br>
+§ 1. Er wordt een budget van 22,554 miljoen euro ter beschikking gesteld op PJO-1P0C2AA-WT van de begroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 in het kader van de vluchtelingenproblematiek.<br>
 <br>
 De subsidies worden toegekend aan de gemeenten die op basis van de criteria, vermeld in artikel 2, § 2, in aanmerking komen voor een subsidie.<br>
 <br>
@@ -44,7 +44,7 @@ Gemeenten met uitzondering van Antwerpen en Gent, werken daarvoor samen met het 
 
 ### ART 2.
 
-§ 1. Het bedrag van 20 miljoen euro wordt toegekend aan gemeenten conform de criteria, vermeld in het tweede lid. De subsidies worden toegekend in twee schijven van telkens 10 miljoen euro.<br>
+§ 1. Het bedrag van 22,554 miljoen euro wordt toegekend aan gemeenten conform de criteria, vermeld in het tweede lid. De subsidies worden toegekend in twee schijven, een schijf van 10 miljoen euro (schijf 1) en een schijf van 12,554 miljoen euro (schijf 2).<br>
 <br>
 § 2. De subsidies, vermeld in paragraaf 1, worden verdeeld op basis van de volgende criteria:<br>
 1° 70% voor de instroom in gemeente van erkende vluchtelingen en subsidiair beschermden die doelgroep van inburgering worden in de betreffende periode. Voor de eerste schijf wordt de periode van 1 november 2015 tot en met 31 mei 2016 genomen. Voor de tweede schijf wordt de periode van 1 april 2016 tot en met 31 oktober 2016 genomen;<br>
