@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027839,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-23 houdende de gedeeltelijke verdeling van het provisioneel krediet, ingeschreven onder het begrotingsartikel CB0-1CBX2AC-PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027839/VolledigDocument?datum=2017-02-18",
+  "source_sha256": "ed2ac5e7482c017ce9f78ddb7dfcd8a963cf4dccaf8755b8f14fac0db12bf34b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027839&param=informatie",
+  "as_of": "2017-02-18",
+  "made": "2016-12-23",
+  "gazette": "2017-02-08",
+  "numac": 2017010302,
+  "document_start": "2017-02-18",
+  "document_end": null,
+  "in_force": "2017-02-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-02-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
