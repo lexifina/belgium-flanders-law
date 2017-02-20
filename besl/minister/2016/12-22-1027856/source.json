@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027856,
+  "title": "Ministerieel besluit van 2016-12-22 tot opheffing van het ministerieel besluit van 6 april 2016 betreffende de vaststelling van het premiebedrag ter vergoeding van de regularisatie van de gesubsidieerde contractuelen in de erkende adoptiedienst FIAC-Horizon vzw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027856/VolledigDocument?datum=2017-02-20",
+  "source_sha256": "301f4f83ad622a935db717c1970de7dcf8e0b85c7c2082fd56cec2f05b07ace0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027856&param=informatie",
+  "as_of": "2017-02-20",
+  "made": "2016-12-22",
+  "gazette": "2017-02-10",
+  "numac": 2017010497,
+  "document_start": "2017-02-20",
+  "document_end": null,
+  "in_force": "2017-02-20",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-02-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
