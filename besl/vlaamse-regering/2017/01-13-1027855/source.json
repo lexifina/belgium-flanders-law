@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027855,
+  "title": "Besluit van de Vlaamse Regering van 2017-01-13 tot vaststelling van nadere regels voor de gehele of gedeeltelijke vrijstelling van de specifieke inhaalbeweging, vermeld in artikel 4.1.4, § 2, derde lid, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027855/VolledigDocument?datum=2017-02-20",
+  "source_sha256": "89bbf7958a606bbacc6d5c90b5addfd1f5573c0cd5784d5f9c90b903131dc50e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027855&param=informatie",
+  "as_of": "2017-02-20",
+  "made": "2017-01-13",
+  "gazette": "2017-02-10",
+  "numac": 2017010481,
+  "document_start": "2017-02-20",
+  "document_end": "2020-12-31",
+  "in_force": "2017-02-20",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2017-02-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
