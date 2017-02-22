@@ -613,7 +613,36 @@ Voorgenomen projecten worden, alvorens een vergunning kan worden verleend voor d
 
 ### ART. 4.3.2.
 
-§ 1. De Vlaamse Regering wijst, aan de hand van de criteria die worden   omschreven in de bij dit decreet gevoegde bijlage II, de categorieën van   projecten aan waarvoor overeenkomstig dit hoofdstuk een project-MER moet worden   opgesteld.<BR><BR>De verplichting tot het opstellen van een project-MER, vermeld   in het eerste lid, geldt ook indien wegens het verstrijken van de lopende   vergunning van het project een nieuwe vergunning moet worden   aangevraagd<BR><BR>§ 2. De Vlaamse Regering wijst, aan de hand van de criteria   die worden omschreven in de bij dit decreet gevoegde bijlage II, de andere dan   in paragraaf 1 vermelde categorieën van projecten aan waarvoor overeenkomstig   dit hoofdstuk een project-MER of een gemotiveerd verzoek tot ontheffing van de   rapportageverplichting moet worden opgesteld.<BR><BR>Die verplichting geldt ook   indien wegens het verstrijken van de lopende vergunning van het project een   nieuwe vergunning moet worden aangevraagd.<BR><BR>§ 2bis. De Vlaamse Regering   wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet   gevoegde bijlage II, de andere dan in paragrafen 1 en 2 vermelde categorieën van   projecten aan waarvoor overeenkomstig dit hoofdstuk een project-MER of een   project-m.e.r.-screeningsnota moet worden opgesteld.<BR><BR>Die verplichting   geldt ook indien wegens het verstrijken van de lopende vergunning van het   project een nieuwe vergunning moet worden aangevraagd.<BR><BR>§ 3. De Vlaamse   Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit   decreet gevoegde bijlage II, aan voor welke veranderingen aan reeds bestaande   projecten van de categorieën, vermeld in paragrafen 1 en 2, overeenkomstig dit   hoofdstuk al dan niet een project-MER moet worden opgesteld op grond van een   beslissing, geval per geval, van de administratie.<BR><BR>§ 3bis. De Vlaamse   Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit   decreet gevoegde bijlage II, aan voor welke veranderingen aan reeds bestaande   projecten van de categorieën, vermeld in paragrafen 1, 2 en 2bis, overeenkomstig   dit hoofdstuk al dan niet een project-MER moet worden opgesteld op grond van een   beslissing, geval per geval, van de overheid die beslist over de   ontvankelijkheid en volledigheid van de vergunningsaanvraag.<BR><BR>§ 4. De   Vlaamse Regering kan de criteria die worden omschreven in de bij dit decreet   gevoegde bijlage II, nader definiëren. Op grond van die criteria moet het   mogelijk zijn uit te maken of aan een bepaald project, dan wel aan een   verandering daarvan, al dan niet aanzienlijke milieueffecten verbonden kunnen   zijn.<BR><BR>Bij de aanwijzing van categorieën van projecten overeenkomstig   paragrafen 1, 2, 2bis, 3 of 3bis kan de Vlaamse Regering eveneens de   administraties, overheidsinstellingen en openbare besturen aanwijzen die,   overeenkomstig artikel 4.3.4, § 4, een afschrift van de kennisgeving moeten   ontvangen.<BR><BR>Elke vaststelling of vervanging van de criteria, vermeld in   het eerste lid, wordt meegedeeld aan de Europese Commissie.
+§ 1. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, de categorieën van projecten aan waarvoor overeenkomstig dit hoofdstuk een project-MER moet worden opgesteld.<br>
+<br>
+De verplichting, vermeld in het eerste lid, geldt niet, tenzij de loutere hernieuwing van de vergunning of de omzetting betrekking heeft op activiteiten die fysieke ingrepen in het leefmilieu tot gevolg hebben, voor:<br>
+1° de loutere hernieuwing van de milieuvergunning;<br>
+2° de loutere hernieuwing van omgevingsvergunning;<br>
+3° de omzetting, vermeld in artikel 70 respectievelijk 390 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.<br>
+<br>
+§ 2. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, de andere dan in paragraaf 1 vermelde categorieën van projecten aan waarvoor overeenkomstig dit hoofdstuk een project-MER of een gemotiveerd verzoek tot ontheffing van de rapportageverplichting moet worden opgesteld.<br>
+<br>
+De verplichting, vermeld in het eerste lid, geldt niet, tenzij de loutere hernieuwing van de vergunning of de omzetting betrekking heeft op activiteiten die fysieke ingrepen in het leefmilieu tot gevolg hebben, voor:<br>
+1° de loutere hernieuwing van de milieuvergunning;<br>
+2° de loutere hernieuwing van omgevingsvergunning;<br>
+3° de omzetting, vermeld in artikel 70 respectievelijk 390 van het decreet van 25 april 2014 betreffende de omgevingsvergunning..<br>
+<br>
+§ 2bis. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, de andere dan in paragrafen 1 en 2 vermelde categorieën van projecten aan waarvoor overeenkomstig dit hoofdstuk een project-MER of een project-m.e.r.-screeningsnota moet worden opgesteld.<br>
+<br>
+De verplichting, vermeld in het eerste lid, geldt niet, tenzij de loutere hernieuwing van de vergunning of de omzetting betrekking heeft op activiteiten die fysieke ingrepen in het leefmilieu tot gevolg hebben, voor:<br>
+1° de loutere hernieuwing van de milieuvergunning;<br>
+2° de loutere hernieuwing van omgevingsvergunning;<br>
+3° de omzetting, vermeld in artikel 70 respectievelijk 390 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.<br>
+<br>
+§ 3. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, aan voor welke veranderingen aan reeds bestaande projecten van de categorieën, vermeld in paragrafen 1 en 2, overeenkomstig dit hoofdstuk al dan niet een project-MER moet worden opgesteld op grond van een beslissing, geval per geval, van de administratie.<br>
+<br>
+§ 3bis. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, aan voor welke veranderingen aan reeds bestaande projecten van de categorieën, vermeld in paragrafen 1, 2 en 2bis, overeenkomstig dit hoofdstuk al dan niet een project-MER moet worden opgesteld op grond van een beslissing, geval per geval, van de overheid die beslist over de ontvankelijkheid en volledigheid van de vergunningsaanvraag.<br>
+<br>
+§ 4. De Vlaamse Regering kan de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, nader definiëren. Op grond van die criteria moet het mogelijk zijn uit te maken of aan een bepaald project, dan wel aan een verandering daarvan, al dan niet aanzienlijke milieueffecten verbonden kunnen zijn.<br>
+<br>
+Bij de aanwijzing van categorieën van projecten overeenkomstig paragrafen 1, 2, 2bis, 3 of 3bis kan de Vlaamse Regering eveneens de administraties, overheidsinstellingen en openbare besturen aanwijzen die, overeenkomstig artikel 4.3.4, § 4, een afschrift van de kennisgeving moeten ontvangen.<br>
+<br>
+Elke vaststelling of vervanging van de criteria, vermeld in het eerste lid, wordt meegedeeld aan de Europese Commissie.
 
 ### ART. 4.3.3.
 
