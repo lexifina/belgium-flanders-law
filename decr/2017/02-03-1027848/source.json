@@ -2,16 +2,16 @@
   "codex_id": 1027848,
   "title": "Decreet van 2017-02-03 houdende de nadere regels tot implementatie van de omgevingsvergunning",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027848/VolledigDocument?datum=2017-02-01",
-  "source_sha256": "59bab82a0371499346c71a80cfc07e42df4cb78d24b341aa563840fb976ab583",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027848/VolledigDocument?datum=2017-02-22",
+  "source_sha256": "2eb6be3b065ef5148cc50281d4ef6790fca97d10c780aa76ecb8155e332e7bba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027848&param=informatie",
-  "as_of": "2017-02-01",
+  "as_of": "2017-02-22",
   "made": "2017-02-03",
   "gazette": "2017-02-09",
   "numac": 2017020189,
   "document_start": "2017-02-23",
   "document_end": null,
-  "in_force": "2017-02-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2017-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2017-02-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-02-22; future article versions excluded; article text as the API gives it"
 }

@@ -4,7 +4,36 @@
 
 ## HOOFDSTUK 2 Decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid
 
+### ART 2.
+
+In artikel 4.3.2, § 1, § 2 en § 2bis, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, ingevoegd bij het decreet van 23 maart 2012, wordt het tweede lid telkens vervangen door wat volgt:<br>
+"De verplichting, vermeld in het eerste lid, geldt niet, tenzij de loutere hernieuwing van de vergunning of de omzetting betrekking heeft op activiteiten die fysieke ingrepen in het leefmilieu tot gevolg hebben, voor:<br>
+1° de loutere hernieuwing van de milieuvergunning;<br>
+2° de loutere hernieuwing van omgevingsvergunning;<br>
+3° de omzetting, vermeld in artikel 70 respectievelijk 390 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.".<br>
+&nbsp;
+
 ## HOOFDSTUK 3 Vlaamse Codex Ruimtelijke Ordening
+
+### ART 3.
+
+Aan artikel 4.7.13 van de Vlaamse Codex Ruimtelijke Ordening worden een derde tot en met vijfde lid toegevoegd, die luiden als volgt:<br>
+"De aanvragen voor een stedenbouwkundige vergunning met betrekking tot projecten die niet zijn vrijgesteld van de medewerking van een architect worden verplicht digitaal ingediend.<br>
+<br>
+In afwijking van het derde lid mogen deze aanvragen analoog of digitaal worden ingediend als deze met toepassing van de geldende taalwetgeving in het Frans mogen worden ingediend.<br>
+<br>
+Als de vergunningverlenende overheid vaststelt dat bepaalde stukken van een analoog ingediende aanvraag digitaal zijn opgesteld, dan kan zij de aanvrager verzoeken deze stukken digitaal te bezorgen. De aanvrager gaat onverwijld op een dergelijk verzoek in.".<br>
+&nbsp;
+
+### ART 4.
+
+In artikel 4.7.26, § 1, van dezelfde codex worden een tweede tot en met vierde lid toegevoegd, die luiden als volgt:<br>
+"De aanvragen voor een stedenbouwkundige vergunning worden digitaal ingediend.<br>
+<br>
+In afwijking van het tweede lid mogen deze aanvragen analoog of digitaal worden ingediend als deze met toepassing van de geldende taalwetgeving in het Frans mogen worden ingediend.<br>
+<br>
+Als de vergunningverlenende overheid vaststelt dat bepaalde stukken van een analoog ingediende aanvraag digitaal zijn opgesteld, dan kan zij de aanvrager verzoeken deze stukken digitaal te bezorgen. De aanvrager gaat onverwijld op een dergelijk verzoek in.".<br>
+&nbsp;
 
 ## HOOFDSTUK 4 Decreet van 25 april 2014 betreffende de omgevingsvergunning
 
