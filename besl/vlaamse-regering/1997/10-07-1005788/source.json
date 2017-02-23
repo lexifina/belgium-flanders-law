@@ -2,16 +2,16 @@
   "codex_id": 1005788,
   "title": "Besluit van de Vlaamse Regering van 1997-10-07 betreffende de wijziging van waterkeringen, overstromingsbekkens, wachtbekkens en toegangswegen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005788/VolledigDocument?datum=2012-02-27",
-  "source_sha256": "d64a096319b3a7deba0686f0fddeb09e6c41815572690a0a8158c5a411ebf578",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005788/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "5e69f82ff32870ba51e7ddfa7b25ee2cff3dd0b1ddcbf65e1bb56c3c9ac26476",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005788&param=informatie",
-  "as_of": "2012-02-27",
+  "as_of": "2017-02-23",
   "made": "1997-10-07",
   "gazette": "1997-11-27",
   "numac": 1997036410,
   "document_start": null,
   "document_end": null,
-  "in_force": "2012-02-27",
+  "in_force": "2017-02-23",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2012-02-27; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
 }
