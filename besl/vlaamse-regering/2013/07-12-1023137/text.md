@@ -250,7 +250,16 @@ De voorwaarden waaraan bewoners voldoen om geherhuisvest te worden, vermeld in a
 
 ### ART. 18.
 
-<P>Als een woning ongeschikt of onbewoonbaar wordt verklaard, bedraagt de   termijn waarin de nodige renovatie-, verbeterings- of aanpassingswerkzaamheden,   de herbestemming of de sloop, vermeld in artikel 18, § 1, en artikel 19 van de   Vlaamse Wooncode, uitgevoerd worden :<BR>1° 36 maanden als er een   stedenbouwkundige vergunning nodig is met toepassing van artikel 4.2.1 van de   Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;<BR>2° 12 maanden als er geen   stedenbouwkundige vergunning vereist is.<BR></P>  <P>Die termijn vangt aan vanaf de datum van het besluit van de burgemeester of,   in voorkomend geval, vanaf de datum van de beslissing in beroep of het   verstrijken van de termijn, vermeld in artikel 16, § 2, derde lid, of artikel   16, § 3, tweede lid, van de Vlaamse Wooncode.<BR></P>  <P>Een verlenging van de termijn kan in buitengewone omstandigheden toegestaan   worden door het agentschap. De aanvraag daarvoor moet, om ontvankelijk te zijn,   met een gemotiveerd verzoekschrift ingediend worden met een beveiligde zending.   De leidend ambtenaar van het agentschap beoordeelt de verlengingsaanvraag.</P>  <P><BR>Het bewijs van de bestemmingswijziging, de sloop of de uitvoering van de   nodige werkzaamheden wordt vóór het verstrijken van de termijn geleverd aan de   gemeente en aan de gewestelijk ambtenaar.</P>
+<p>Als een woning ongeschikt of onbewoonbaar wordt verklaard, bedraagt de termijn waarin de nodige renovatie-, verbeterings- of aanpassingswerkzaamheden, de herbestemming of de sloop, vermeld in artikel 18, § 1, en artikel 19 van de Vlaamse Wooncode, uitgevoerd worden :<br>
+1° 36 maanden als er een omgevingsvergunning voor stedenbouwkundige handelingen nodig is met toepassing van artikel 4.2.1 van de Vlaamse Codex Ruimtelijke Ordening;<br>
+2° 12 maanden als er geen omgevingsvergunning voor stedenbouwkundige handelingen vereist is.</p>
+
+<p>Die termijn vangt aan vanaf de datum van het besluit van de burgemeester of, in voorkomend geval, vanaf de datum van de beslissing in beroep of het verstrijken van de termijn, vermeld in artikel 16, § 2, derde lid, of artikel 16, § 3, tweede lid, van de Vlaamse Wooncode.</p>
+
+<p>Een verlenging van de termijn kan in buitengewone omstandigheden toegestaan worden door het agentschap. De aanvraag daarvoor moet, om ontvankelijk te zijn, met een gemotiveerd verzoekschrift ingediend worden met een beveiligde zending. De leidend ambtenaar van het agentschap beoordeelt de verlengingsaanvraag.</p>
+
+<p><br>
+Het bewijs van de bestemmingswijziging, de sloop of de uitvoering van de nodige werkzaamheden wordt vóór het verstrijken van de termijn geleverd aan de gemeente en aan de gewestelijk ambtenaar.</p>
 
 ### ART. 19.
 
