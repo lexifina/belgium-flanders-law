@@ -2,16 +2,16 @@
   "codex_id": 1023994,
   "title": "Besluit van de Vlaamse Regering van 2014-02-21 houdende vaststelling van de regels inzake het lozen van bedrijfsafvalwater op een openbare rioolwaterzuiveringsinstallatie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023994/VolledigDocument?datum=2014-04-19",
-  "source_sha256": "c9056e7405923775187de5ff7855c8e213b62e8e8e46bf0aeadfba319e8045a3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023994/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "cc49a40ed29693c8cb4c474ba1e2a32e46ae891bb40b431dc8fa625e47ccd3f0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023994&param=informatie",
-  "as_of": "2014-04-19",
+  "as_of": "2017-02-23",
   "made": "2014-02-21",
   "gazette": "2014-04-09",
   "numac": 2014035342,
   "document_start": "2014-04-19",
   "document_end": null,
-  "in_force": "2014-04-19",
+  "in_force": "2017-02-23",
   "article_versions": 38,
-  "record_form": "consolidated version as in force on 2014-04-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
 }
