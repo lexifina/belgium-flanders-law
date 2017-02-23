@@ -2,16 +2,16 @@
   "codex_id": 1020994,
   "title": "Besluit van de Vlaamse Regering van 2011-09-30 tot vaststelling van de voorwaarden waaronder investeringssubsidies kunnen worden toegekend aan toeristische logiezen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020994/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "7c97a2b5c549e93af7b2603a5406a33fe054b1cea5b2a46a05316494caad345b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020994/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "3094f6d032a2b105e1f42a5b78ac73dfe877eefbafb7c54f253fa89f722ed23c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020994&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2017-02-23",
   "made": "2011-09-30",
   "gazette": "2011-12-05",
   "numac": 2011205981,
   "document_start": "2012-01-01",
   "document_end": "2017-03-31",
-  "in_force": "2012-01-01",
+  "in_force": "2017-02-23",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
 }
