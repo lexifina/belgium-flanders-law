@@ -80,7 +80,7 @@ Het onderzoekscomité is samengesteld uit tien leden: de voorzitter en   negen g
 
 ### ART. 14bis.
 
-Voor de door de Vlaamse Regering aangewezen werken aan of aanleg van infrastructuur van openbaar nut, kan de Vlaamse Regering de winning van grind toestaan op de percelen waarop de infrastructuurwerken worden uitgevoerd.<br /><br />De grindwinning moet beperkt blijven tot de ontgraving die noodzakelijk is voor de volledige realisatie op de percelen van het aangewezen infrastructuurwerk, met inbegrip van de berging van de ontgraven gronden.<br /><br />De toestemming wordt verleend aan de houder van de stedenbouwkundige vergunning.<br /><br />De artikelen 3 tot 13, 15 tot 22 en 23bis, zijn niet van toepassing op de grindwinning bij infrastructuurwerken.
+Voor de door de Vlaamse Regering aangewezen werken aan of aanleg van   infrastructuur van openbaar nut, kan de Vlaamse Regering de winning van grind   toestaan op de percelen waarop de infrastructuurwerken worden   uitgevoerd.<BR><BR>De grindwinning moet beperkt blijven tot de ontgraving die   noodzakelijk is voor de volledige realisatie op de percelen van het aangewezen   infrastructuurwerk, met inbegrip van de berging van de ontgraven   gronden.<BR><BR>De toestemming wordt verleend aan de houder van de   omgevingsvergunning.<BR><BR>De artikelen 3 tot 13, 15 tot 22 en 23bis, zijn niet   van toepassing op de grindwinning bij infrastructuurwerken.
 
 ### ART. 15.
 
@@ -114,7 +114,7 @@ Het tijdstip waarop de voorschriften inzake effectieve ontginningsgebieden en ui
 
 ### ART. 20bis.
 
-De Vlaamse Regering kan de grindwinning toestaan op de percelen waar maatschappelijke projecten van groot openbaar belang worden gerealiseerd.<br /> <br />Daartoe verleent de Vlaamse Regering aan de houder van de stedenbouwkundige vergunning voor de werken, vermeld in het maatschappelijk project of aan een kandidaat-exploitant tot grindwinning, een vergunning tot projectgrindwinning. <br /><br />De uitvoerbaarheid van en de voorwaarden voor de projectgrindwinning worden in de vergunning bepaald in overeenstemming met het project zoals vastgelegd in het projectcomité en goedgekeurd door de Vlaamse Regering volgens de bepalingen van artikel 20sexies.<br /><br />De artikelen 3 tot 7, § 2, de artikelen 8 tot 13, 14bis tot 20, 21, 22 en 23bis, zijn niet van toepassing op de projectgrindwinning.
+De Vlaamse Regering kan de grindwinning toestaan op de percelen waar   maatschappelijke projecten van groot openbaar belang worden   gerealiseerd.<BR><BR>Daartoe verleent de Vlaamse Regering aan de houder van de   omgevingsvergunning voor de werken, vermeld in het maatschappelijk project of   aan een kandidaat-exploitant tot grindwinning, een vergunning tot   projectgrindwinning. <BR><BR>De uitvoerbaarheid van en de voorwaarden voor de   projectgrindwinning worden in de vergunning bepaald in overeenstemming met het   project zoals vastgelegd in het projectcomité en goedgekeurd door de Vlaamse   Regering volgens de bepalingen van artikel 20sexies.<BR><BR>De artikelen 3 tot   7, § 2, de artikelen 8 tot 13, 14bis tot 20, 21, 22 en 23bis, zijn niet van   toepassing op de projectgrindwinning.
 
 ### ART. 20ter.
 
