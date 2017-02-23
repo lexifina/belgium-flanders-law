@@ -2,16 +2,16 @@
   "codex_id": 1007276,
   "title": "Besluit van de Vlaamse Regering van 2000-04-28 tot bepaling van de categorieën van bedrijven waarvoor en de gebieden waarbinnen artikel 5.6.7, § 1, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening niet kan worden toegepast",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007276/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "25f27157ee038a9db2d4d193c5d504532d42ca32a4947804991d3ec2ee16caf2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007276/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "88a0697a037eb1847b390eef0d21c8a4e0c505230edb6c9c580edb482d7d84c1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007276&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2017-02-23",
   "made": "2000-04-28",
   "gazette": "2000-05-20",
   "numac": 2000035496,
   "document_start": null,
   "document_end": null,
-  "in_force": "2009-09-01",
+  "in_force": "2017-02-23",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
 }
