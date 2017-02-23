@@ -198,7 +198,8 @@ Het Decreet Integraal Waterbeleid onderscheidt de volgende soorten beschermde ge
 <p>Aanvullende monitoringvoorschriften voor beschermde gebieden:<br>
 Drinkwateronttrekkingspunten:<br>
 Oppervlaktewaterlichamen die bij artikel 7 zijn aangewezen en die gemiddeld meer dan 100 m<sup>3</sup> per dag leveren, worden als monitoringlocaties aangewezen en zo nodig aan aanvullende monitoring onderworpen om aan de voorschriften van dat artikel te voldoen. Die lichamen worden gemonitord op alle geloosde prioritaire stoffen en op alle andere in significante hoeveelheden geloosde stoffen die de toestand van het waterlichaam kunnen beïnvloeden en die op grond van de drinkwaterrichtlijn beheerst worden. De monitoring wordt verricht met de volgende frequenties:</p>
-<br>
+&nbsp;
+
 <table border="1">
 	<tbody>
 		<tr>
@@ -386,7 +387,7 @@ Algemeen (R = rivieren, M = meren, O = overgangswateren):<br>
 - Zwevende stoffen</p>
 
 <p>Specifieke verontreinigende stoffen<br>
-Verontreiniging door alle prioritaire stoffen (4) waarvan is vastgesteld dat ze in het waterlichaam worden geloosd (R, M, O): zie bijlage 2C, lijst III, bij titel I van het VLAREM. De analyses worden uitgevoerd met inachtneming van de vereisten, vermeld in artikel 1/2 tot en met 1/4 van dit besluit.</p>
+Verontreiniging door alle prioritaire stoffen (4) waarvan is vastgesteld dat ze in het waterlichaam worden geloosd (R, M, O): zie bijlage 2C, lijst III, bij titel II van het VLAREM. De analyses worden uitgevoerd met inachtneming van de vereisten, vermeld in artikel 1/2 tot en met 1/4 van dit besluit.</p>
 
 <p>Verontreiniging door andere stoffen waarvan is vastgesteld dat ze in significante hoeveelheden in het waterlichaam worden geloosd (R, M, O).</p>
 
