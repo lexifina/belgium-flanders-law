@@ -2,16 +2,16 @@
   "codex_id": 1013553,
   "title": "Besluit van de Vlaamse Regering van 2004-05-28 betreffende de dossiersamenstelling van de aanvraag voor een stedenbouwkundige vergunning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013553/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "40d16e9ac4c2919eb6fe160682947043d9d0801cb0c5a648cb7678f561463325",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013553/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "be7fe125a9ae48984c5a0f9dd3eb35f8409131cddddf7701337a6450d47a9b19",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013553&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2017-02-23",
   "made": "2004-05-28",
   "gazette": "2004-11-26",
   "numac": 2004036708,
   "document_start": "2004-12-06",
   "document_end": "2017-02-22",
-  "in_force": "2017-01-01",
+  "in_force": "2017-02-23",
   "article_versions": 33,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
 }
