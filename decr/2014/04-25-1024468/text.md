@@ -58,6 +58,10 @@ Dit decreet doet geen afbreuk aan de doelstellingen en inhoudelijke   verplichti
 
 <P>§ 1. Het nemen van de startbeslissing en het vaststellen van het   voorkeursbesluit of het projectbesluit komt toe aan de Vlaamse Regering, de   provincieraad of de gemeenteraad.<BR></P>  <P>§ 2. De Vlaamse Regering is bevoegd voor het vaststellen van het   voorkeursbesluit als het complexe project dat met het voorkeursbesluit wordt   beoogd, een project betreft als vermeld in artikel 15, § 1, eerste lid, van het   decreet van 25 april 2014 betreffende de omgevingsvergunning.<BR></P>  <P>De provincieraad is bevoegd voor het vaststellen van het voorkeursbesluit als   het complexe project dat met het voorkeursbesluit wordt beoogd, een project   betreft als vermeld in artikel 15, § 1, derde lid, van het decreet van 25 april   2014 betreffende de omgevingsvergunning.<BR></P>  <P>De gemeenteraad is bevoegd voor het vaststellen van het voorkeursbesluit in   alle andere gevallen.<BR></P>  <P>§ 3. Als het complexe project bestaat uit twee of meer deelprojecten,   waarvoor krachtens het decreet van 25 april 2014 betreffende de   omgevingsvergunning twee of meer overheden als vermeld in paragraaf 1, bevoegd   zijn, wijzen ze in onderling overleg de bevoegde overheid aan die het   voorkeursbesluit zal vaststellen.<BR></P>  <P>Het aanwijzen van de bevoegde overheid en de eventueel daarmee gepaard gaande   afspraken en voorwaarden gebeurt schriftelijk en uiterlijk op het moment waarop   het ontwerp van voorkeursbesluit wordt vastgesteld.<BR></P>  <P>§ 4. De Vlaamse Regering is bevoegd voor het vaststellen van het   projectbesluit als het complexe project dat met het projectbesluit wordt beoogd,   een project betreft als vermeld in artikel 15, § 1, eerste lid, van het decreet   van 25 april 2014 betreffende de omgevingsvergunning.<BR></P>  <P>De provincieraad is bevoegd voor het vaststellen van het projectbesluit als   het complexe project dat met het projectbesluit wordt beoogd, een project   betreft als vermeld in artikel 15, § 1, derde lid, van het decreet van 25 april   2014 betreffende de omgevingsvergunning.<BR></P>  <P>De gemeenteraad is bevoegd voor het vaststellen van het projectbesluit in   alle andere gevallen.<BR></P>  <P>§ 5. Als het complexe project bestaat uit twee of meer deelprojecten,   waarvoor krachtens het decreet van 25 april 2014 betreffende de   omgevingsvergunning twee of meer overheden als vermeld in paragraaf 1, bevoegd   zijn, wijzen ze in onderling overleg de bevoegde overheid aan die het   projectbesluit zal vaststellen.<BR></P>  <P>Het aanwijzen van de bevoegde overheid en de eventueel daarmee gepaard gaande   afspraken en voorwaarden gebeurt schriftelijk en uiterlijk op het moment waarop   het ontwerp van projectbesluit wordt vastgesteld.<BR></P>
 
+### ART 6/1.
+
+De bevoegde overheid, vermeld in artikel 6, vervult haar taken voortvloeiende uit richtlijn 2011/92/EU op objectieve wijze en ziet erop toe dat ze zich niet bevindt in een situatie die tot een belangenconflict aanleiding geeft.
+
 ## Afdeling 2 Verkenningsfase en startbeslissing
 
 ### ART. 7.
@@ -172,7 +176,28 @@ In afwijking van het tweede lid mag de bevoegde overheid het voorkeursbesluit to
 
 ### ART. 23.
 
-<P>De bevoegde overheid, vermeld in artikel 6, stelt het ontwerp van   projectbesluit vast.<BR></P>  <P>Het ontwerp van projectbesluit geeft invulling aan het definitief   vastgestelde voorkeursbesluit.<BR></P>  <P>Een ontwerp van projectbesluit bevat :<BR>1° het op uitvoeringsniveau gekozen   alternatief, weergegeven op grafische plannen of tekstueel omschreven;<BR>2° een   motivering voor de keuze van dat alternatief, in het licht van de andere   redelijke alternatieven die zijn onderzocht;<BR>3° een motivering van de   aanwijzing van de bevoegde overheid conform artikel 6;<BR>4° een verklaring die   samenvat op welke wijze milieuoverwegingen in het projectbesluit worden   geïntegreerd en op welke wijze rekening is gehouden met de gevoerde onderzoeken,   waaronder het ontwerp van MER, en met de opmerkingen, adviezen en overwegingen   die in het kader van die onderzoeken zijn uitgebracht;<BR>5° de relatie met de   relevante beleidsplannen;<BR>6° in voorkomend geval, de wijze waarop zal worden   afgeweken van :<BR>a) het richtinggevende en bindende gedeelte van de   ruimtelijke structuurplannen;<BR>b) de voorschriften van plannen van aanleg en   ruimtelijke uitvoeringsplannen;<BR>7° de opgave als welke beslissingen vermeld   in artikel 40 en 41 het projectbesluit geldt en, in voorkomend geval, de wijze   waarop toepassing gemaakt wordt van artikel 41;<BR>8° in voorkomend geval, een   herkenbaar onderdeel dat geldt als ruimtelijk uitvoeringsplan als vermeld in   artikel 2.2.2 van de Vlaamse Codex Ruimtelijke Ordening, en dat de gegevens,   vermeld in artikel 2.2.2, § 1, van de voormelde codex, bevat;<BR>9° in   voorkomend geval, de acties, maatregelen, voorwaarden, lasten of instrumenten   bij het alternatief dat gekozen is op uitvoeringsniveau;<BR>10° de   monitoringsmaatregelen en, in voorkomend geval, de flankerende maatregelen op   het detailleringsniveau van het ontwerp van projectbesluit;<BR>11° in voorkomend   geval, de rechtsgevolgen, vermeld in de artikelen 30, 31, 32, 33 en 34;<BR>12°   in voorkomend geval, de aanwijzing van één of meer instrumenten als vermeld in   deel 2 van het decreet van 28 maart 2014 betreffende de landinrichting die   ingezet zullen worden voor het complex project, en de hiervoor vereiste   inrichtingsnota als vermeld in hetzelfde decreet;<BR>13° in voorkomend geval, de   verschillende fasen van de uitvoering van het projectbesluit en de aanvangsdatum   van elke fase.<BR></P>  <P>Als het alternatief dat in het voorkeursbesluit op strategisch niveau gekozen   is, resulteert in verschillende concrete projecten, geeft het ontwerp van   projectbesluit ter informatie de stand van verwezenlijking van het   voorkeursbesluit en de andere projectbesluiten die daaraan gekoppeld   zijn.<BR></P>
+<p>De bevoegde overheid, vermeld in artikel 6, stelt het ontwerp van projectbesluit vast.</p>
+
+<p>Het ontwerp van projectbesluit geeft invulling aan het definitief vastgestelde voorkeursbesluit.</p>
+
+<p>Een ontwerp van projectbesluit bevat :<br>
+1° het op uitvoeringsniveau gekozen alternatief, weergegeven op grafische plannen of tekstueel omschreven;<br>
+2° een motivering voor de keuze van dat alternatief, in het licht van de andere redelijke alternatieven die zijn onderzocht;<br>
+3° een motivering van de aanwijzing van de bevoegde overheid conform artikel 6;<br>
+4° een verklaring die samenvat op welke wijze milieuoverwegingen in het projectbesluit worden geïntegreerd en op welke wijze rekening is gehouden met de gevoerde onderzoeken, waaronder het ontwerp van MER, en met de opmerkingen, adviezen en overwegingen die in het kader van die onderzoeken zijn uitgebracht met inbegrip van een samenvatting van deze opmerkingen, adviezen en overwegingen;<br>
+5° de relatie met de relevante beleidsplannen;<br>
+6° in voorkomend geval, de wijze waarop zal worden afgeweken van :<br>
+a) het richtinggevende en bindende gedeelte van de ruimtelijke structuurplannen;<br>
+b) de voorschriften van plannen van aanleg en ruimtelijke uitvoeringsplannen;<br>
+7° de opgave als welke beslissingen vermeld in artikel 40 en 41 het projectbesluit geldt en, in voorkomend geval, de wijze waarop toepassing gemaakt wordt van artikel 41;<br>
+8° in voorkomend geval, een herkenbaar onderdeel dat geldt als ruimtelijk uitvoeringsplan als vermeld in artikel 2.2.2 van de Vlaamse Codex Ruimtelijke Ordening, en dat de gegevens, vermeld in artikel 2.2.2, § 1, van de voormelde codex, bevat;<br>
+9° in voorkomend geval, de acties, maatregelen, voorwaarden, lasten of instrumenten bij het alternatief dat gekozen is op uitvoeringsniveau met inbegrip van een beschrijving van alle kenmerken van het ontwerp van projectbesluit en/of de geplande maatregelen om aanzienlijke nadelige effecten op het milieu te vermijden, te voorkomen of te beperken en, als dat mogelijk is, te compenseren;<br>
+10° de monitoringsmaatregelen en, in voorkomend geval, de flankerende maatregelen op het detailleringsniveau van het ontwerp van projectbesluit;<br>
+11° in voorkomend geval, de rechtsgevolgen, vermeld in de artikelen 30, 31, 32, 33 en 34;<br>
+12° in voorkomend geval, de aanwijzing van één of meer instrumenten als vermeld in deel 2 van het decreet van 28 maart 2014 betreffende de landinrichting die ingezet zullen worden voor het complex project, en de hiervoor vereiste inrichtingsnota als vermeld in hetzelfde decreet;<br>
+13° in voorkomend geval, de verschillende fasen van de uitvoering van het projectbesluit en de aanvangsdatum van elke fase.</p>
+
+<p>Als het alternatief dat in het voorkeursbesluit op strategisch niveau gekozen is, resulteert in verschillende concrete projecten, geeft het ontwerp van projectbesluit ter informatie de stand van verwezenlijking van het voorkeursbesluit en de andere projectbesluiten die daaraan gekoppeld zijn.</p>
 
 ## Onderafdeling 4 Openbaar onderzoek
 
@@ -188,7 +213,15 @@ In afwijking van het tweede lid mag de bevoegde overheid het voorkeursbesluit to
 
 ### ART. 26.
 
-<P>De bevoegde overheid, vermeld in artikel 6, stelt het projectbesluit   definitief vast.<BR></P>  <P>De bepalingen van artikel 16, § 1, tweede tot en met vierde lid, zijn van   overeenkomstige toepassing bij de beslissing over de definitieve vaststelling   van het projectbesluit.<BR></P>  <P>Het definitief vastgestelde projectbesluit heeft dezelfde indeling als   vermeld in artikel 23, derde lid.<BR></P>  <P>Als het alternatief dat in het voorkeursbesluit op strategisch niveau gekozen   is, resulteert in verschillende concrete projecten, geeft het projectbesluit ter   informatie de stand van verwezenlijking van het voorkeursbesluit en van de   andere projectbesluiten die eraan gekoppeld zijn.<BR></P>  <P>Bij de definitieve vaststelling van het projectbesluit kunnen ten opzichte   van het ontwerp van projectbesluit alleen wijzigingen worden aangebracht die   gebaseerd zijn op of voortvloeien uit het goedgekeurde MER of op de   inspraakreacties, vermeld in artikel 24.<BR></P>
+<p>De bevoegde overheid, vermeld in artikel 6, stelt het projectbesluit definitief vast.</p>
+
+<p>De bepalingen van artikel 16, § 1, tweede tot en met vierde lid, zijn van overeenkomstige toepassing bij de beslissing over de definitieve vaststelling van het projectbesluit.</p>
+
+<p>Het definitief vastgestelde projectbesluit heeft dezelfde indeling als vermeld in artikel 23, derde lid en bevat bovendien een gemotiveerde conclusie over de aanzienlijke effecten van het project op het milieu. Bij het nemen van de gemotiveerde conclusie wordt rekening gehouden met de beslissing over de goedkeuring van het MER van de dienst die bevoegd is voor milieueffectrapportage, en met de adviezen en de inspraak in het kader van het projectbesluit.</p>
+
+<p>Als het alternatief dat in het voorkeursbesluit op strategisch niveau gekozen is, resulteert in verschillende concrete projecten, geeft het projectbesluit ter informatie de stand van verwezenlijking van het voorkeursbesluit en van de andere projectbesluiten die eraan gekoppeld zijn.</p>
+
+<p>Bij de definitieve vaststelling van het projectbesluit kunnen ten opzichte van het ontwerp van projectbesluit alleen wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit het goedgekeurde MER of op de inspraakreacties, vermeld in artikel 24.</p>
 
 ## Onderafdeling 6 Bekendmaking en inwerkingtreding
 
