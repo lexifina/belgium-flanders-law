@@ -2,16 +2,16 @@
   "codex_id": 1007267,
   "title": "Besluit van de Vlaamse Regering van 2000-04-14 tot bepaling van de vergunningsplichtige functiewijzigingen [...]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007267/VolledigDocument?datum=2015-11-29",
-  "source_sha256": "1fe8ecc4385d115f01593f1f4658e3ed52641f4ff3479c0d83ed2dfd355c3f76",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007267/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "25b6386a22ad23c6025c757d37dfed31877d636a767e821ebe60fa946361f4f5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007267&param=informatie",
-  "as_of": "2015-11-29",
+  "as_of": "2017-02-23",
   "made": "2000-04-14",
   "gazette": "2000-05-18",
   "numac": 2000035455,
   "document_start": "2000-05-01",
   "document_end": null,
-  "in_force": "2015-11-29",
+  "in_force": "2017-02-23",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2015-11-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
 }
