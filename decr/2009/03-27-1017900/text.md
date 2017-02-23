@@ -8,7 +8,7 @@ Dit decreet betreft een gewestaangelegenheid.<br /><br />
 
 ### ART. 1.2.
 
-Voor de toepassing van dit decreet en zijn uitvoeringsbesluiten wordt   verstaan onder :<BR>1° bescheiden woonaanbod : het aanbod aan huurwoningen,   koopwoningen en kavels, met uitsluiting van het sociaal woonaanbod, dat met   behoud van de toepassing van artikel 4.2.2, § 1, tweede lid, en artikel 4.2.4, §   1, tweede lid, bestaat uit :<BR>a) kavels met een oppervlakte van ten hoogste   500 m2;<BR>b) eengezinswoningen met een bouwvolume van ten hoogste 550 m3;<BR>c)   overige woningen met een bouwvolume van ten hoogste 240 m3, te verhogen met 50   m3 voor woningen met drie of meer slaapkamers;<BR>2° beveiligde zending : één   van de hiernavolgende betekeningswijze :<BR>a) een aangetekend schrijven;<BR>b)   een afgifte tegen ontvangstbewijs;<BR>c) elke andere door de Vlaamse Regering   toegelaten betekeningswijze waarbij de datum van kennisgeving met zekerheid kan   worden vastgesteld;<BR>3° bouwgronden : gronden, met uitsluiting van kavels, die   palen aan een voldoende uitgeruste weg in de zin van artikel 4.3.5, § 2, van de   Vlaamse Codex Ruimtelijke Ordening en gelegen zijn in een woongebied of in een   woonuitbreidingsgebied dat reeds voor bebouwing in aanmerking komt blijkens een   principiële beslissing of op grond van artikel 5.6.6 van de Vlaamse Codex   Ruimtelijke Ordening;<BR>4° ...<BR>4°/1 eengezinswoning : elk bebouwd onroerend   goed dat hoofdzakelijk bestemd is voor de huisvesting van één gezin of één   alleenstaande, waarin zich geen andere woningen bevinden; <BR>5° gebouw : elk   bebouwd onroerend goed, dat zowel het hoofdgebouw als de bijgebouwen omvat, met   uitsluiting van bedrijfsruimten, vermeld in artikel 2, 1°, van het decreet van   19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand   en verwaarlozing van bedrijfsruimten;<BR>6° Geïntegreerd Beheers- en   Controlesysteem : het registratiesysteem in de zin van titel II, hoofdstuk 4,   van de verordening (EG) nr. 1782/2003 van de Raad van 29 september 2003 tot   vaststelling van gemeenschappelijke voorschriften voor regelingen inzake   rechtstreekse steunverlening in het kader van het gemeenschappelijk   landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers   en houdende wijziging van de verordeningen (EEG) nr. 2019/93, (EG) nr.   1452/2001, (EG) 1453/2001, (EG) nr. 1454/2001, (EG) nr. 1868/94, (EG) nr.   1251/1999, (EG) nr. 1254/1999, (EG) nr. 1673/2000, (EEG) nr. 2358/71 en (EG) nr.   2529/2001;<BR>7° groepswoningbouw : het gemeenschappelijk oprichten van woningen   die een gemeenschappelijke werf hebben en fysisch of stedenbouwkundig met elkaar   verbonden zijn;<BR>8° grond(- en panden)speculatie : het in handen houden van   gronden (of panden) met het oogmerk om deze met abnormale winsten te verkopen   bij prijsstijgingen ten gevolge van de kunstmatige creatie van schaarste aan   gronden (of panden);<BR>9° hoofdverblijfplaats : de woning, vermeld in artikel   2, § 1, eerste lid, 10°, van de Vlaamse Wooncode;<BR>10° kavels : de in een   verkavelingsvergunning van een niet vervallen verkaveling afgebakende   percelen;<BR>10° /1 landmeter-expert : de landmeter-expert, ingeschreven op het   tableau van de beoefenaars van het beroep als bedoeld in de wet van 11 mei 2003   tot bescherming van de titel en van het beroep van landmeter-expert en op wie   het koninklijk besluit van 15 december 2005 tot vaststelling van de   voorschriften inzake de plichtenleer van de landmeter-expert van toepassing   is;<BR>11° onbebouwd : beantwoordend aan de criteria voor opname in het register   van onbebouwde percelen, gesteld bij en krachtens artikel 5.6.1 van de Vlaamse   Codex Ruimtelijke Ordening;<BR>12° plan van aanleg : een gewestplan, een   algemeen plan van aanleg of een bijzonder plan van aanleg;<BR>13° renovatie : de   werkzaamheden, vermeld in artikel 2, § 1, eerste lid, 18°, van de Vlaamse   Wooncode, alsmede sloopwerkzaamheden gevolgd door vervangingsbouw;<BR>14°   register van onbebouwde percelen : het register, vermeld in artikel 5.6.1 van de   Vlaamse Codex Ruimtelijke Ordening;<BR>14°/1 schattingsprijs : de raming van de   waarde van een onroerend goed door een van de volgende personen of instanties,   op voorwaarde dat een raming van een persoon of instantie als vermeld in punt 1°   en 2°, primeert op een raming van een persoon of instantie als vermeld in punt   3°, 4° en 5° : <BR>1° de ambtenaar van de Algemene Administratie van de   Patrimoniale Documentatie van de Federale Overheidsdienst Financiën die bevoegd   is voor schattingen;<BR>2° een comité voor aankoop van onroerende goederen,   overeenkomstig artikel 3, 7°, van het protocol van 5 maart 1985 tussen de   Regering en de Vlaamse Executieve, de Franse Gemeenschapsexecutieve, de Waalse   Gewestexecutieve en de Executieve van de Duitstalige Gemeenschap, betreffende de   bevoegdheid van de comités tot aankoop van onroerende goederen en van de   kantoren der domeinen van de Staat;<BR>3° een notaris;<BR>4° een   landmeter-expert, na gezamenlijk akkoord over de schatter;<BR>5° een door de   VMSW gemachtigde ambtenaar, als de VMSW zelf geen partij is bij de onroerende   transactie waarvoor het schattingsverslag wordt opgemaakt;<BR>15° sociale   contextfactoren : gemeentelijke karakteristieken met een potentiële impact op de   nood aan een sociaal woonaanbod, zoals :<BR>a) het bestaande en geplande aanbod   aan woonvoorzieningen die opvang en hulp aanbieden;<BR>b) het bestaande en   geplande aanbod aan huurwoningen die gehuurd worden middels een gewestelijke of   gemeentelijke huursubsidie of tegemoetkoming in de huurprijs;<BR>c) ...<BR>d)   het desgevallend door de gemeente geïnventariseerde bescheiden   woonaanbod;<BR>16° sociaal woonaanbod : het aanbod aan huurwoningen,   koopwoningen en kavels dat voldoet aan beide hiernavolgende voorwaarden :<BR>a)   zij zijn volledig onderhevig aan de reglementering aangaande het sociale   huurstelsel of de overdracht van onroerende goederen door de Vlaamse   Maatschappij voor Sociaal Wonen (VMSW) en de sociale huisvestingsmaatschappijen   ter uitvoering van de Vlaamse Wooncode;<BR>b) zij worden bestemd tot   hoofdverblijfplaats, respectievelijk tot oprichting van een woning die tot   hoofdverblijfplaats zal worden bestemd;<BR>17° sociale woonorganisatie : een   organisatie, vermeld in artikel 2, § 1, eerste lid, 26°, van de Vlaamse   Wooncode;<BR>18° stedenbouwkundig voorschrift : een reglementaire bepaling,   opgenomen in een ruimtelijk uitvoeringsplan, een plan van aanleg, een   stedenbouwkundige verordening of een bouwverordening;<BR>19°   verkavelingsvoorschrift : een reglementair voorschrift, opgenomen in een   verkavelingsvergunning, aangaande de wijze waarop kavels bebouwd kunnen   worden;<BR>20° Vlaamse besturen :<BR>a) de Vlaamse ministeries, agentschappen en   openbare instellingen;<BR>b) de Vlaamse provincies, gemeenten en   districten;<BR>c) de Vlaamse gemeentelijke en provinciale extern   verzelfstandigde agentschappen;<BR>d) de Vlaamse verenigingen van provincies en   gemeenten, vermeld in de wet van 22 december 1986 betreffende de   intercommunales, en de samenwerkingsvormen, vermeld in het decreet van 6 juli   2001 houdende de intergemeentelijke samenwerking;<BR>e) de Vlaamse openbare   centra voor maatschappelijk welzijn en de verenigingen, vermeld in hoofdstuk 12   van de organieke wet van 8 juli 1976 betreffende de Openbare Centra voor   Maatschappelijk Welzijn;<BR>f) de polders, vermeld in de wet van 3 juni 1957   betreffende de polders, en de wateringen, vermeld in de wet van 5 juni 1956   betreffende de wateringen;<BR>g) de Vlaamse kerkfabrieken en de instellingen die   belast zijn met het beheer van de temporaliën van de erkende erediensten;<BR>20°   /1 Vlaamse Codex Ruimtelijke Ordening : de Vlaamse Codex Ruimtelijke Ordening   van 15 mei 2009;<BR>21° Vlaamse semipublieke rechtspersonen : rechtspersonen die   niet behoren tot de Vlaamse besturen, doch met één of meer Vlaamse besturen een   bijzondere band vertonen, doordat zij voldoen aan beide hiernavolgende   voorwaarden :<BR>a) hun werkzaamheden worden in hoofdzaak gefinancierd of   gesubsidieerd door één of meer Vlaamse besturen;<BR>b) hun werking is   rechtstreeks of onrechtstreeks onderworpen aan enig toezicht in hoofde van een   Vlaams bestuur middels één van de hiernavolgende regimes :<BR>1) een   administratief toezicht;<BR>2) een toezicht op de aanwending van de   werkingsmiddelen;<BR>3) de aanwijzing, door een Vlaams bestuur, van ten minste   de helft van de leden van de directie, van de raad van bestuur, of van de raad   van toezicht;<BR>22° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de   Vlaamse Wooncode;<BR>22°/1 Vlabinvest apb : het Agentschap voor Grond- en   Woonbeleid voor Vlaams-Brabant, opgericht bij artikel 1 van het besluit van de   provincieraad van Vlaams- Brabant van 22 oktober 2013;<BR>23° woning : een goed,   vermeld in artikel 2, § 1, eerste lid, 31°, van de Vlaamse Wooncode;<BR>24°   woongebied : de gebieden die :<BR>a) ofwel geordend worden door een ruimtelijk   uitvoeringsplan en sorteren onder de categorie van gebiedsaanduiding « wonen   »;<BR>b) ofwel geordend worden door een plan van aanleg en aangewezen zijn als   woongebied in de zin van artikel 5.1.0 van het koninklijk besluit van 28   december 1972 betreffende de inrichting en de toepassing van de   ontwerp-gewestplannen en de gewestplannen;<BR>25° ...<BR>26° woonreservegebied :   de als dusdanig op een plan van aanleg aangewezen gebieden;<BR>27°   woonuitbreidingsgebied : de gebieden, aangewezen in een plan van aanleg op grond   van artikel 5.1.1 van het koninklijk besluit van 28 december 1972 betreffende de   inrichting en de toepassing van de ontwerpgewestplannen en de   gewestplannen;<BR>28° zakelijk gerechtigde : de houder van een van volgende   zakelijke rechten :<BR>a) de volle eigendom;<BR>b) het recht van opstal of van   erfpacht;<BR>c) het vruchtgebruik.<BR>29° zorgvoorziening : een voorziening van   een door de Vlaamse Gemeenschap erkende organisatie die activiteiten uitoefent   op het domein van de zorgverstrekking, de gezondheidsopvoeding, de preventieve   gezondheidszorg, het gezin, het maatschappelijk welzijn, het onthaal en de   integratie van inwijkelingen, de personen met een handicap, de ouderen, de   jeugdbescherming of de sociale hulpverlening aan gedetineerden met het oog op   hun sociale reintegratie, vermeld in artikel 5, § 1, I en II, van de bijzondere   wet van 8 augustus 1980 tot hervorming der instellingen, met uitzondering van   organisaties die activiteiten uitoefenen op het domein van het medisch   verantwoord sporten en centra voor leerlingenbegeleiding.<BR><BR>De Vlaamse   Regering kan een niet-limitatieve lijst opstellen van de Vlaamse semipublieke   rechtspersonen, vermeld in het eerste lid, 21°.<BR><BR>Voor de toepassing van   dit decreet en zijn uitvoeringsbesluiten wordt het aanbod aan huur- en   koopwoningen en kavels die gefinancierd worden door het Investeringsfonds voor   Grond- en Woonbeleid voor Vlaams-Brabant, opgericht bij artikel 16 van het   decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de   begroting 1992 of door Vlabinvest apb, beschouwd als sociaal woonaanbod in de   zin van het eerste lid, 16°.
+Voor de toepassing van dit decreet en zijn uitvoeringsbesluiten wordt   verstaan onder :<BR>1° bescheiden woonaanbod : het aanbod aan huurwoningen,   koopwoningen en kavels, met uitsluiting van het sociaal woonaanbod, dat met   behoud van de toepassing van artikel 4.2.2, § 1, tweede lid, en artikel 4.2.4, §   1, tweede lid, bestaat uit :<BR>a) kavels met een oppervlakte van ten hoogste   500 m2;<BR>b) eengezinswoningen met een bouwvolume van ten hoogste 550 m3;<BR>c)   overige woningen met een bouwvolume van ten hoogste 240 m3, te verhogen met 50   m3 voor woningen met drie of meer slaapkamers;<BR>2° beveiligde zending : één   van de hiernavolgende betekeningswijze :<BR>a) een aangetekend schrijven;<BR>b)   een afgifte tegen ontvangstbewijs;<BR>c) elke andere door de Vlaamse Regering   toegelaten betekeningswijze waarbij de datum van kennisgeving met zekerheid kan   worden vastgesteld;<BR>3° bouwgronden : gronden, met uitsluiting van kavels, die   palen aan een voldoende uitgeruste weg in de zin van artikel 4.3.5, § 2, van de   Vlaamse Codex Ruimtelijke Ordening en gelegen zijn in een woongebied of in een   woonuitbreidingsgebied dat reeds voor bebouwing in aanmerking komt blijkens een   principiële beslissing of op grond van artikel 5.6.6 van de Vlaamse Codex   Ruimtelijke Ordening;<BR>4° ...<BR>4°/1 eengezinswoning : elk bebouwd onroerend   goed dat hoofdzakelijk bestemd is voor de huisvesting van één gezin of één   alleenstaande, waarin zich geen andere woningen bevinden; <BR>5° gebouw : elk   bebouwd onroerend goed, dat zowel het hoofdgebouw als de bijgebouwen omvat, met   uitsluiting van bedrijfsruimten, vermeld in artikel 2, 1°, van het decreet van   19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand   en verwaarlozing van bedrijfsruimten;<BR>6° Geïntegreerd Beheers- en   Controlesysteem : het registratiesysteem in de zin van titel II, hoofdstuk 4,   van de verordening (EG) nr. 1782/2003 van de Raad van 29 september 2003 tot   vaststelling van gemeenschappelijke voorschriften voor regelingen inzake   rechtstreekse steunverlening in het kader van het gemeenschappelijk   landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers   en houdende wijziging van de verordeningen (EEG) nr. 2019/93, (EG) nr.   1452/2001, (EG) 1453/2001, (EG) nr. 1454/2001, (EG) nr. 1868/94, (EG) nr.   1251/1999, (EG) nr. 1254/1999, (EG) nr. 1673/2000, (EEG) nr. 2358/71 en (EG) nr.   2529/2001;<BR>7° groepswoningbouw : het gemeenschappelijk oprichten van woningen   die een gemeenschappelijke werf hebben en fysisch of stedenbouwkundig met elkaar   verbonden zijn;<BR>8° grond(- en panden)speculatie : het in handen houden van   gronden (of panden) met het oogmerk om deze met abnormale winsten te verkopen   bij prijsstijgingen ten gevolge van de kunstmatige creatie van schaarste aan   gronden (of panden);<BR>9° hoofdverblijfplaats : de woning, vermeld in artikel   2, § 1, eerste lid, 10°, van de Vlaamse Wooncode;<BR>10° kavels : de in een   omgevingsvergunning voor het verkavelen van gronden van een niet vervallen   verkaveling afgebakende percelen;<BR>10° /1 landmeter-expert : de   landmeter-expert, ingeschreven op het tableau van de beoefenaars van het beroep   als bedoeld in de wet van 11 mei 2003 tot bescherming van de titel en van het   beroep van landmeter-expert en op wie het koninklijk besluit van 15 december   2005 tot vaststelling van de voorschriften inzake de plichtenleer van de   landmeter-expert van toepassing is;<BR>11° onbebouwd : beantwoordend aan de   criteria voor opname in het register van onbebouwde percelen, gesteld bij en   krachtens artikel 5.6.1 van de Vlaamse Codex Ruimtelijke Ordening;<BR>12° plan   van aanleg : een gewestplan, een algemeen plan van aanleg of een bijzonder plan   van aanleg;<BR>13° renovatie : de werkzaamheden, vermeld in artikel 2, § 1,   eerste lid, 18°, van de Vlaamse Wooncode, alsmede sloopwerkzaamheden gevolgd   door vervangingsbouw;<BR>14° register van onbebouwde percelen : het register,   vermeld in artikel 5.6.1 van de Vlaamse Codex Ruimtelijke Ordening;<BR>14°/1   schattingsprijs : de raming van de waarde van een onroerend goed door een van de   volgende personen of instanties, op voorwaarde dat een raming van een persoon of   instantie als vermeld in punt 1° en 2°, primeert op een raming van een persoon   of instantie als vermeld in punt 3°, 4° en 5° : <BR>1° de ambtenaar van de   Algemene Administratie van de Patrimoniale Documentatie van de Federale   Overheidsdienst Financiën die bevoegd is voor schattingen;<BR>2° een comité voor   aankoop van onroerende goederen, overeenkomstig artikel 3, 7°, van het protocol   van 5 maart 1985 tussen de Regering en de Vlaamse Executieve, de Franse   Gemeenschapsexecutieve, de Waalse Gewestexecutieve en de Executieve van de   Duitstalige Gemeenschap, betreffende de bevoegdheid van de comités tot aankoop   van onroerende goederen en van de kantoren der domeinen van de Staat;<BR>3° een   notaris;<BR>4° een landmeter-expert, na gezamenlijk akkoord over de   schatter;<BR>5° een door de VMSW gemachtigde ambtenaar, als de VMSW zelf geen   partij is bij de onroerende transactie waarvoor het schattingsverslag wordt   opgemaakt;<BR>15° sociale contextfactoren : gemeentelijke karakteristieken met   een potentiële impact op de nood aan een sociaal woonaanbod, zoals :<BR>a) het   bestaande en geplande aanbod aan woonvoorzieningen die opvang en hulp   aanbieden;<BR>b) het bestaande en geplande aanbod aan huurwoningen die gehuurd   worden middels een gewestelijke of gemeentelijke huursubsidie of tegemoetkoming   in de huurprijs;<BR>c) ...<BR>d) het desgevallend door de gemeente   geïnventariseerde bescheiden woonaanbod;<BR>16° sociaal woonaanbod : het aanbod   aan huurwoningen, koopwoningen en kavels dat voldoet aan beide hiernavolgende   voorwaarden :<BR>a) zij zijn volledig onderhevig aan de reglementering aangaande   het sociale huurstelsel of de overdracht van onroerende goederen door de Vlaamse   Maatschappij voor Sociaal Wonen (VMSW) en de sociale huisvestingsmaatschappijen   ter uitvoering van de Vlaamse Wooncode;<BR>b) zij worden bestemd tot   hoofdverblijfplaats, respectievelijk tot oprichting van een woning die tot   hoofdverblijfplaats zal worden bestemd;<BR>17° sociale woonorganisatie : een   organisatie, vermeld in artikel 2, § 1, eerste lid, 26°, van de Vlaamse   Wooncode;<BR>18° stedenbouwkundig voorschrift : een reglementaire bepaling,   opgenomen in een ruimtelijk uitvoeringsplan, een plan van aanleg, een   stedenbouwkundige verordening of een bouwverordening;<BR>19°   verkavelingsvoorschrift : een reglementair voorschrift, opgenomen in een   omgevingsvergunning voor het verkavelen van gronden, aangaande de wijze waarop   kavels bebouwd kunnen worden;<BR>20° Vlaamse besturen :<BR>a) de Vlaamse   ministeries, agentschappen en openbare instellingen;<BR>b) de Vlaamse   provincies, gemeenten en districten;<BR>c) de Vlaamse gemeentelijke en   provinciale extern verzelfstandigde agentschappen;<BR>d) de Vlaamse verenigingen   van provincies en gemeenten, vermeld in de wet van 22 december 1986 betreffende   de intercommunales, en de samenwerkingsvormen, vermeld in het decreet van 6 juli   2001 houdende de intergemeentelijke samenwerking;<BR>e) de Vlaamse openbare   centra voor maatschappelijk welzijn en de verenigingen, vermeld in hoofdstuk 12   van de organieke wet van 8 juli 1976 betreffende de Openbare Centra voor   Maatschappelijk Welzijn;<BR>f) de polders, vermeld in de wet van 3 juni 1957   betreffende de polders, en de wateringen, vermeld in de wet van 5 juni 1956   betreffende de wateringen;<BR>g) de Vlaamse kerkfabrieken en de instellingen die   belast zijn met het beheer van de temporaliën van de erkende erediensten;<BR>20°   /1 Vlaamse Codex Ruimtelijke Ordening : de Vlaamse Codex Ruimtelijke Ordening   van 15 mei 2009;<BR>21° Vlaamse semipublieke rechtspersonen : rechtspersonen die   niet behoren tot de Vlaamse besturen, doch met één of meer Vlaamse besturen een   bijzondere band vertonen, doordat zij voldoen aan beide hiernavolgende   voorwaarden :<BR>a) hun werkzaamheden worden in hoofdzaak gefinancierd of   gesubsidieerd door één of meer Vlaamse besturen;<BR>b) hun werking is   rechtstreeks of onrechtstreeks onderworpen aan enig toezicht in hoofde van een   Vlaams bestuur middels één van de hiernavolgende regimes :<BR>1) een   administratief toezicht;<BR>2) een toezicht op de aanwending van de   werkingsmiddelen;<BR>3) de aanwijzing, door een Vlaams bestuur, van ten minste   de helft van de leden van de directie, van de raad van bestuur, of van de raad   van toezicht;<BR>22° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de   Vlaamse Wooncode;<BR>22°/1 Vlabinvest apb : het Agentschap voor Grond- en   Woonbeleid voor Vlaams-Brabant, opgericht bij artikel 1 van het besluit van de   provincieraad van Vlaams- Brabant van 22 oktober 2013;<BR>23° woning : een goed,   vermeld in artikel 2, § 1, eerste lid, 31°, van de Vlaamse Wooncode;<BR>24°   woongebied : de gebieden die :<BR>a) ofwel geordend worden door een ruimtelijk   uitvoeringsplan en sorteren onder de categorie van gebiedsaanduiding « wonen   »;<BR>b) ofwel geordend worden door een plan van aanleg en aangewezen zijn als   woongebied in de zin van artikel 5.1.0 van het koninklijk besluit van 28   december 1972 betreffende de inrichting en de toepassing van de   ontwerp-gewestplannen en de gewestplannen;<BR>25° ...<BR>26° woonreservegebied :   de als dusdanig op een plan van aanleg aangewezen gebieden;<BR>27°   woonuitbreidingsgebied : de gebieden, aangewezen in een plan van aanleg op grond   van artikel 5.1.1 van het koninklijk besluit van 28 december 1972 betreffende de   inrichting en de toepassing van de ontwerpgewestplannen en de   gewestplannen;<BR>28° zakelijk gerechtigde : de houder van een van volgende   zakelijke rechten :<BR>a) de volle eigendom;<BR>b) het recht van opstal of van   erfpacht;<BR>c) het vruchtgebruik.<BR>29° zorgvoorziening : een voorziening van   een door de Vlaamse Gemeenschap erkende organisatie die activiteiten uitoefent   op het domein van de zorgverstrekking, de gezondheidsopvoeding, de preventieve   gezondheidszorg, het gezin, het maatschappelijk welzijn, het onthaal en de   integratie van inwijkelingen, de personen met een handicap, de ouderen, de   jeugdbescherming of de sociale hulpverlening aan gedetineerden met het oog op   hun sociale reintegratie, vermeld in artikel 5, § 1, I en II, van de bijzondere   wet van 8 augustus 1980 tot hervorming der instellingen, met uitzondering van   organisaties die activiteiten uitoefenen op het domein van het medisch   verantwoord sporten en centra voor leerlingenbegeleiding.<BR><BR>De Vlaamse   Regering kan een niet-limitatieve lijst opstellen van de Vlaamse semipublieke   rechtspersonen, vermeld in het eerste lid, 21°.<BR><BR>Voor de toepassing van   dit decreet en zijn uitvoeringsbesluiten wordt het aanbod aan huur- en   koopwoningen en kavels die gefinancierd worden door het Investeringsfonds voor   Grond- en Woonbeleid voor Vlaams-Brabant, opgericht bij artikel 16 van het   decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de   begroting 1992 of door Vlabinvest apb, beschouwd als sociaal woonaanbod in de   zin van het eerste lid, 16°.
 
 ## BOEK 2 MISSIE, PLANNING EN MONITORING
 
@@ -64,7 +64,7 @@ Provincie- en gemeenteraden kunnen in hun ruimtelijke structuurplannen de beleid
 <br>
 De opmaak, de opbouw, het beheer en de actualisering van het leegstandsregister kunnen ook toevertrouwd worden aan een intergemeentelijke administratieve eenheid met rechtspersoonlijkheid of, met uitzondering van de beroepsprocedure, aan een intergemeentelijke administratieve eenheid zonder rechtspersoonlijkheid.<br>
 <br>
-§ 2. Een gebouw wordt als leegstaand beschouwd indien meer dan de helft van de totale vloeroppervlakte niet overeenkomstig de functie van het gebouw wordt aangewend gedurende een termijn van ten minste twaalf opeenvolgende maanden. Daarbij wordt geen rekening gehouden met woningen die deel uitmaken van het gebouw. De functie van het gebouw is deze die overeenkomt met een voor het gebouw of voor gedeelten daarvan afgeleverde of gedane stedenbouwkundige vergunning, melding in de zin van artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening, milieuvergunning of melding in de zin van het decreet van 28 juni 1985 betreffende de milieuvergunning. Bij een gebouw waarvoor geen vergunning of melding voorhanden is, of waarvan de functie niet duidelijk uit een vergunning of melding blijkt, wordt deze functie afgeleid uit het gewoonlijk gebruik van het gebouw voorafgaand aan het vermoeden van leegstand, zoals dat blijkt uit aangiften, akten of bescheiden.<br>
+§ 2. Een gebouw wordt als leegstaand beschouwd indien meer dan de helft van de totale vloeroppervlakte niet overeenkomstig de functie van het gebouw wordt aangewend gedurende een termijn van ten minste twaalf opeenvolgende maanden. Daarbij wordt geen rekening gehouden met woningen die deel uitmaken van het gebouw. De functie van het gebouw is deze die overeenkomt met een voor het gebouw of voor gedeelten daarvan uitgereikte omgevingsvergunning of meldingsakte als vermeld in artikel 6 van het decreet van 25 april 2014 betreffende de omgevingsvergunning. Bij een gebouw waarvoor geen vergunning of melding voorhanden is, of waarvan de functie niet duidelijk uit een vergunning of melding blijkt, wordt deze functie afgeleid uit het gewoonlijk gebruik van het gebouw voorafgaand aan het vermoeden van leegstand, zoals dat blijkt uit aangiften, akten of bescheiden.<br>
 <br>
 Een gebouw dat in hoofdzaak gediend heeft voor een economische activiteit, vermeld in artikel 2, 2°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten, wordt niet beschouwd als leegstaand zolang de oorspronkelijke beoefenaar van deze activiteit een gedeelte van het gebouw bewoont en dat gedeelte niet afsplitsbaar is. Een gedeelte is eerst afsplitsbaar indien het na sloping van de overige gedeelten kan worden beschouwd als een afzonderlijke woning die voldoet aan de bouwfysische vereisten.<br>
 <br>
@@ -72,7 +72,7 @@ Een gebouw dat in hoofdzaak gediend heeft voor een economische activiteit, verme
 1° hetzij de woonfunctie;<br>
 2° hetzij elke andere bij gemeentelijke verordening omschreven functie die een effectief en niet-occasioneel gebruik van de woning met zich mee brengt.<br>
 <br>
-§ 4. In afwijking van § 2 en § 3, wordt een nieuw gebouw of een nieuwe woning als leegstaand beschouwd indien dat gebouw of die woning binnen zeven jaar na de afgifte van een stedenbouwkundige vergunning in laatste administratieve aanleg niet aangewend wordt overeenkomstig § 2, eerste lid, respectievelijk § 3.<br>
+§ 4. In afwijking van § 2 en § 3, wordt een nieuw gebouw of een nieuwe woning als leegstaand beschouwd indien dat gebouw of die woning binnen zeven jaar na de afgifte van een omgevingsvergunning voor stedenbouwkundige handelingen in laatste administratieve aanleg niet aangewend wordt overeenkomstig § 2, eerste lid, respectievelijk § 3.<br>
 <br>
 § 4/1. Een gebouw wordt uit het leegstandsregister geschrapt als een zakelijk gerechtigde bewijst dat meer dan de helft van de totale vloeroppervlakte overeenkomstig de functie, vermeld in paragraaf 2, eerste lid, aangewend wordt gedurende een termijn van ten minste zes opeenvolgende maanden.<br>
 <br>
@@ -237,7 +237,7 @@ De activeringsheffing wordt niet geheven op bouwgronden en kavels die tijdens he
 
 ### ART. 3.2.11.
 
-De activeringsheffing wordt opgeschort in hoofde van de houders van een in laatste administratieve aanleg verleende verkavelingsvergunning, en dit gedurende vijf jaren, te rekenen vanaf 1 januari van het jaar dat volgt op de afgifte van de vergunning in laatste administratieve aanleg, respectievelijk, wanneer de verkaveling werken omvat, vanaf 1 januari van het jaar dat volgt op het jaar van afgifte van het attest, vermeld in artikel 4.2.16, § 2, van de Vlaamse Codex Ruimtelijke Ordening, desgevallend voor die fase van de verkavelingsvergunning waarvoor het attest wordt verleend.<br /><br />
+De activeringsheffing wordt opgeschort in hoofde van de houders van een in   laatste administratieve aanleg verleende omgevingsvergunning voor het verkavelen   van gronden, en dit gedurende vijf jaren, te rekenen vanaf 1 januari van het   jaar dat volgt op de afgifte van de vergunning in laatste administratieve   aanleg, respectievelijk, wanneer de verkaveling werken omvat, vanaf 1 januari   van het jaar dat volgt op het jaar van afgifte van het attest, vermeld in   artikel 4.2.16, § 2, van de Vlaamse Codex Ruimtelijke Ordening, desgevallend   voor die fase van de omgevingsvergunning voor het verkavelen van gronden   waarvoor het attest wordt verleend.<BR><BR>
 
 ### ART. 3.2.12.
 
@@ -383,7 +383,7 @@ Het bindend sociaal objectief van een gemeente is samengesteld uit volgende dele
 
 ### ART. 4.1.4.
 
-<p>§ 1. Het gemeentelijk objectief voor sociale huurwoningen dat binnen een periode van tien jaar naar aanleiding van de organisatie van een grootschalig steekproefonderzoek als vermeld in artikel 24, § 3, van de Vlaamse Wooncode, ten minste moet worden verwezenlijkt, is gelijk aan het resultaat van volgende formule : « MACRO Huurw prov x (HH Gem / HH Prov) », waarbij :<br>
+§ 1. Het gemeentelijk objectief voor sociale huurwoningen dat binnen een periode van tien jaar naar aanleiding van de organisatie van een grootschalig steekproefonderzoek als vermeld in artikel 24, § 3, van de Vlaamse Wooncode, ten minste moet worden verwezenlijkt, is gelijk aan het resultaat van volgende formule : « MACRO Huurw prov x (HH Gem / HH Prov) », waarbij :<br>
 1° « MACRO Huurw prov » gelijk is aan het in de Vlaamse Wooncode vastgelegde gewestelijke macro-objectief op het vlak van de verwezenlijking van sociale huurwoningen, dat op basis van de nulmeting wordt vertaald naar het niveau van de betrokken provincie door middel van de vermenigvuldiging met de breuk « aantal huishoudens op het niveau van de provincie/aantal huishoudens op het niveau van het Vlaamse Gewest », met dien verstande dat voor de periode 2009-2025 volgende cijfers gelden :<br>
 a) voor de provincie West-Vlaanderen : 8125;<br>
 b) voor de provincie Oost-Vlaanderen : 9918;<br>
@@ -400,265 +400,139 @@ Indien een gemeente op grond van een wetenschappelijk onderbouwd dossier aantoon
 § 2. Indien de procentuele verhouding van het sociaal huuraanbod ten opzichte van het aantal huishoudens in een gemeente blijkens de nulmeting, toegevoegd als bijlage bij dit decreet, lager is dan drie procent, dan wordt de inspanning ten behoeve van het gemeentelijk objectief voor sociale huurwoningen aangevuld met een specifieke inhaalbeweging in de periode 2013-2025.<br>
 <br>
 De specifieke inhaalbeweging, vermeld in het eerste lid, heeft betrekking op de bijkomende verwezenlijking van een sociaal huuraanbod overeenkomstig volgende tabel :<br>
-</p>
-
+&nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent">
-			<p>Procentuele verhouding tussen het aantal sociale huurwoningen en het aantal huishoudens binnen de gemeente, telkens zoals vermeld in de nulmeting</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>Procentuele omvang van het bijkomend sociaal huuraanbod in het kader van de specifieke inhaalbeweging ten opzichte van het aantal huishoudens, zoals vermeld in de nulmeting</p>
-			</td>
+			<td>Procentuele verhouding tussen het aantal sociale huurwoningen en het aantal huishoudens binnen de gemeente, telkens zoals vermeld in de nulmeting</td>
+			<td>Procentuele omvang van het bijkomend sociaal huuraanbod in het kader van de specifieke inhaalbeweging ten opzichte van het aantal huishoudens, zoals vermeld in de nulmeting</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>0,00 - 0,09 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,83 %</p>
-			</td>
+			<td>0,00 - 0,09 %</td>
+			<td>0,83 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>0,10 - 0,19 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,80 %</p>
-			</td>
+			<td>0,10 - 0,19 %</td>
+			<td>0,80 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>0,20 - 0,29 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,77 %</p>
-			</td>
+			<td>0,20 - 0,29 %</td>
+			<td>0,77 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>0,30 - 0,39 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,75 %</p>
-			</td>
+			<td>0,30 - 0,39 %</td>
+			<td>0,75 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>0,40 - 0,49 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,72 %</p>
-			</td>
+			<td>0,40 - 0,49 %</td>
+			<td>0,72 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>0,50 - 0,59 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,69 %</p>
-			</td>
+			<td>0,50 - 0,59 %</td>
+			<td>0,69 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>0,60 - 0,69 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,66 %</p>
-			</td>
+			<td>0,60 - 0,69 %</td>
+			<td>0,66 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>0,70 - 0,79 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,64 %</p>
-			</td>
+			<td>0,70 - 0,79 %</td>
+			<td>0,64 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>0,80 - 0,89 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,61 %</p>
-			</td>
+			<td>0,80 - 0,89 %</td>
+			<td>0,61 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>0,90 - 0,99 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,58 %</p>
-			</td>
+			<td>0,90 - 0,99 %</td>
+			<td>0,58 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>1,00 - 1,09 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,55 %</p>
-			</td>
+			<td>1,00 - 1,09 %</td>
+			<td>0,55 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>1,10 - 1,19 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,53 %</p>
-			</td>
+			<td>1,10 - 1,19 %</td>
+			<td>0,53 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>1,20 - 1,29 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,50 %</p>
-			</td>
+			<td>1,20 - 1,29 %</td>
+			<td>0,50 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>1,30 - 1,39 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,47 %</p>
-			</td>
+			<td>1,30 - 1,39 %</td>
+			<td>0,47 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>1,40 - 1,49 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,44 %</p>
-			</td>
+			<td>1,40 - 1,49 %</td>
+			<td>0,44 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>1,50 - 1,59 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,42 %</p>
-			</td>
+			<td>1,50 - 1,59 %</td>
+			<td>0,42 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>1,60 - 1,69 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,39 %</p>
-			</td>
+			<td>1,60 - 1,69 %</td>
+			<td>0,39 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>1,70 - 1,79 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,36 %</p>
-			</td>
+			<td>1,70 - 1,79 %</td>
+			<td>0,36 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>1,80 - 1,89 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,33 %</p>
-			</td>
+			<td>1,80 - 1,89 %</td>
+			<td>0,33 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>1,90 - 1,99 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,30 %</p>
-			</td>
+			<td>1,90 - 1,99 %</td>
+			<td>0,30 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>2,00 - 2,09 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,28 %</p>
-			</td>
+			<td>2,00 - 2,09 %</td>
+			<td>0,28 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>2,10 - 2,19 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,25 %</p>
-			</td>
+			<td>2,10 - 2,19 %</td>
+			<td>0,25 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>2,20 - 2,29 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,22 %</p>
-			</td>
+			<td>2,20 - 2,29 %</td>
+			<td>0,22 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>2,30 - 2,39 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,19 %</p>
-			</td>
+			<td>2,30 - 2,39 %</td>
+			<td>0,19 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>2,40 - 2,49 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,17 %</p>
-			</td>
+			<td>2,40 - 2,49 %</td>
+			<td>0,17 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>2,50 - 2,59 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,14 %</p>
-			</td>
+			<td>2,50 - 2,59 %</td>
+			<td>0,14 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>2,60 - 2,69 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,11 %</p>
-			</td>
+			<td>2,60 - 2,69 %</td>
+			<td>0,11 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>2,70 - 2,79 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,08 %</p>
-			</td>
+			<td>2,70 - 2,79 %</td>
+			<td>0,08 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>2,80 - 2,89 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,06 %</p>
-			</td>
+			<td>2,80 - 2,89 %</td>
+			<td>0,06 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent">
-			<p>2,90 - 2,99 %</p>
-			</td>
-			<td style="background-color:transparent">
-			<p>0,03 %</p>
-			</td>
+			<td>2,90 - 2,99 %</td>
+			<td>0,03 %</td>
 		</tr>
 	</tbody>
 </table>
-
-<p><br>
+<br>
 De Vlaamse Regering kan een gemeente geheel of gedeeltelijk vrijstellen van de specifieke inhaalbeweging, vermeld in het eerste lid, indien de gemeente in een wetenschappelijk onderbouwd dossier aantoont dat voldaan is aan ten minste één van volgende criteria :<br>
 1° de specifieke inhaalbeweging kan niet of niet volledig worden gerealiseerd omwille van manifeste ruimtelijke beperkingen,&nbsp;vastgesteld op basis van het gemeentelijk actieprogramma, vermeld in artikel 4.1.7, en deze beperkingen kunnen niet of onvoldoende worden opgevangen door middel van de verhuring van private woningen via sociale verhuurkantoren;<br>
-2° de cumulatie van de inspanning ten behoeve van het gemeentelijk objectief voor sociale huurwoningen en de specifieke inhaalbeweging leidt ertoe dat jaarlijks een aantal nieuwe sociale huurwoningen moet worden vergund dat hoger is dan 25 procent van het gemiddeld aantal vergunde woningen op jaarbasis, berekend op grond van de afgifte van stedenbouwkundige vergunningen in de voorbije vijf jaar, met dien verstande dat een vrijstellingsverzoek op basis van dit criterium eerst kan worden ingediend :<br>
+2° de cumulatie van de inspanning ten behoeve van het gemeentelijk objectief voor sociale huurwoningen en de specifieke inhaalbeweging leidt ertoe dat jaarlijks een aantal nieuwe sociale huurwoningen moet worden vergund dat hoger is dan 25 procent van het gemiddeld aantal vergunde woningen op jaarbasis, berekend op grond van de afgifte van omgevingsvergunningen voor stedenbouwkundige handelingen in de voorbije vijf jaar, met dien verstande dat een vrijstellingsverzoek op basis van dit criterium eerst kan worden ingediend :<br>
 a) in 2016, op voorwaarde dat 30 procent van de reguliere inspanning, vermeld in § 1, verwezenlijkt is;<br>
 b) in 2019, op voorwaarde dat 60 procent van de reguliere inspanning, vermeld in § 1, verwezenlijkt is;<br>
 c) in 2022, op voorwaarde dat 90 procent van de reguliere inspanning, vermeld in § 1, verwezenlijkt is;<br>
@@ -680,7 +554,7 @@ De Vlaamse Regering bepaalt wegingsfactoren voor de voorzieningen en huurwoninge
 <br>
 Het gedeelte van het gewestelijke macro-objectief op het vlak van de verwezenlijking van sociale huurwoningen dat niet kan worden gerealiseerd met de verplichte toenameregeling, vermeld in paragraaf 1, of met de specifieke inhaalbeweging, vermeld in paragraaf 2, wordt verwezenlijkt met sociaal woonbeleidsconvenanten, gesloten tussen de Vlaamse Regering en een of meer gemeenten. In een sociaal woonbeleidsconvenant verbindt een gemeente zich tot de verwezenlijking van een bepaald aantal sociale huurwoningen en doet de Vlaamse Regering toezeggingen over de bekostiging van dat sociaal woonaanbod.<br>
 <br>
-De sociale woonbeleidsconvenanten bewaken de verhouding die door het Ruimtelijk Structuurplan Vlaanderen is bepaald voor de ruimtelijke verdeling van bijkomende woongelegenheden in het stedelijk gebied versus het buitengebied. Zij kunnen zowel op het stedelijk gebied als het buitengebied betrekking hebben, maar worden prioritair gesloten met gemeenten die behoren tot de stedelijke gebieden, zoals aangewezen door het Ruimtelijk Structuurplan Vlaanderen. Bij het sluiten van de sociaal woonbeleidsconvenanten houdt de Vlaamse Regering geen rekening met de verdeling van het gewestelijk macro-objectief op het vlak van de verwezenlijking van sociale huurwoningen over de provincies, vermeld in paragraaf 1, eerste lid, 1°.</p>
+De sociale woonbeleidsconvenanten bewaken de verhouding die door het Ruimtelijk Structuurplan Vlaanderen is bepaald voor de ruimtelijke verdeling van bijkomende woongelegenheden in het stedelijk gebied versus het buitengebied. Zij kunnen zowel op het stedelijk gebied als het buitengebied betrekking hebben, maar worden prioritair gesloten met gemeenten die behoren tot de stedelijke gebieden, zoals aangewezen door het Ruimtelijk Structuurplan Vlaanderen. Bij het sluiten van de sociaal woonbeleidsconvenanten houdt de Vlaamse Regering geen rekening met de verdeling van het gewestelijk macro-objectief op het vlak van de verwezenlijking van sociale huurwoningen over de provincies, vermeld in paragraaf 1, eerste lid, 1°.
 
 ## Onderafdeling 3 [... (opgeh. decr. 14 oktober 2016, art. 57, I: 23 december 2016)]
 
@@ -834,7 +708,7 @@ Indien gemeenten en intergemeentelijke samenwerkingsverbanden op grond van het a
 
 ### ART. 4.2.1.
 
-De bepalingen van deze afdeling zijn van toepassing op :<BR>1°   verkavelingen van ten minste tien loten bestemd voor woningbouw, of met een   grondoppervlakte groter dan een halve hectare, ongeacht het aantal loten;<BR>2°   groepswoningbouwprojecten waarbij ten minste tien woongelegenheden ontwikkeld   worden;<BR>3° de bouw of de herbouw van appartementsgebouwen waarbij ten minste   vijftig appartementen gecreëerd worden;<BR>4° verkavelingen,   groepswoningbouwprojecten en projecten voor de bouw of de herbouw van   appartementsgebouwen die niet voldoen aan de voorwaarden, vermeld in 1°, 2° of   3°, en waarvoor een verkavelingsvergunning of een stedenbouwkundige vergunning   wordt aangevraagd door een verkavelaar of een bouwheer wiens project aansluit op   andere, door dezelfde verkavelaar of bouwheer te ontwikkelen gronden, die samen   met de gronden waarop de aanvraag betrekking heeft, een oppervlakte van meer dan   een halve hectare beslaan.<BR><BR>In elk van de verkavelingsprojecten en   bouwprojecten, vermeld in het eerste lid, wordt een bescheiden woonaanbod   verwezenlijkt dat gelijk is aan :<BR>1° voor wat betreft gronden die eigendom   zijn van Vlaamse besturen of Vlaamse semipublieke rechtspersonen : veertig   procent;<BR>2° voor wat betreft gronden die eigendom zijn van overige   natuurlijke of rechtspersonen : twintig procent.<BR><BR>Vanaf de bekendmaking   van een gemeentelijk bericht waaruit blijkt dat het bindend sociaal objectief,   vermeld in artikel 4.1.2, verwezenlijkt is, kan de gemeentelijke   stedenbouwkundige verordening Bescheiden Wonen, vermeld in artikel 4.2.2, afzien   van het opleggen van een percentage bescheiden woonaanbod, of een percentage   bescheiden woonaanbod hanteren dat lager is dan de normering, vermeld in het   tweede lid. Voormelde bekendmaking geschiedt op de wijze, vermeld in artikel 186   van het Gemeentedecreet van 15 juli 2005.<BR><BR>
+De bepalingen van deze afdeling zijn van toepassing op :<BR>1°   verkavelingen van ten minste tien loten bestemd voor woningbouw, of met een   grondoppervlakte groter dan een halve hectare, ongeacht het aantal loten;<BR>2°   groepswoningbouwprojecten waarbij ten minste tien woongelegenheden ontwikkeld   worden;<BR>3° de bouw of de herbouw van appartementsgebouwen waarbij ten minste   vijftig appartementen gecreëerd worden;<BR>4° verkavelingen,   groepswoningbouwprojecten en projecten voor de bouw of de herbouw van   appartementsgebouwen die niet voldoen aan de voorwaarden, vermeld in 1°, 2° of   3°, en waarvoor een omgevingsvergunning voor het verkavelen van gronden of een   omgevingsvergunning voor stedenbouwkundige handelingen wordt aangevraagd door   een verkavelaar of een bouwheer wiens project aansluit op andere, door dezelfde   verkavelaar of bouwheer te ontwikkelen gronden, die samen met de gronden waarop   de aanvraag betrekking heeft, een oppervlakte van meer dan een halve hectare   beslaan.<BR><BR>In elk van de verkavelingsprojecten en bouwprojecten, vermeld in   het eerste lid, wordt een bescheiden woonaanbod verwezenlijkt dat gelijk is aan   :<BR>1° voor wat betreft gronden die eigendom zijn van Vlaamse besturen of   Vlaamse semipublieke rechtspersonen : veertig procent;<BR>2° voor wat betreft   gronden die eigendom zijn van overige natuurlijke of rechtspersonen : twintig   procent.<BR><BR>Vanaf de bekendmaking van een gemeentelijk bericht waaruit   blijkt dat het bindend sociaal objectief, vermeld in artikel 4.1.2,   verwezenlijkt is, kan de gemeentelijke stedenbouwkundige verordening Bescheiden   Wonen, vermeld in artikel 4.2.2, afzien van het opleggen van een percentage   bescheiden woonaanbod, of een percentage bescheiden woonaanbod hanteren dat   lager is dan de normering, vermeld in het tweede lid. Voormelde bekendmaking   geschiedt op de wijze, vermeld in artikel 186 van het Gemeentedecreet van 15   juli 2005.<BR><BR>
 
 ### ART. 4.2.2.
 
@@ -854,7 +728,7 @@ De gewestelijke en gemeentelijke normen, vermeld in deze afdeling, zijn niet van
 
 ### ART. 4.2.4/1.
 
-Afdeling 1 en afdeling 2 zijn niet van toepassing :<BR>1° als de bouwheer   of verkavelaar een sociale woonorganisatie is, of een openbaar bestuur als   vermeld in artikel 33, § 1, eerste lid, van de Vlaamse Wooncode;<BR>2° als   Vlabinvest apb optreedt als bouwheer of verkavelaar;<BR>3° als de aanvraag voor   een stedenbouwkundige vergunning uitvoering geeft aan een verkavelingsvergunning   voor een verkavelingsproject dat reeds onderworpen is aan een norm als bepaald   krachtens afdeling 1 of afdeling 2.
+Afdeling 1 en afdeling 2 zijn niet van toepassing :<BR>1° als de bouwheer   of verkavelaar een sociale woonorganisatie is, of een openbaar bestuur als   vermeld in artikel 33, § 1, eerste lid, van de Vlaamse Wooncode;<BR>2° als   Vlabinvest apb optreedt als bouwheer of verkavelaar;<BR>3° als de aanvraag voor   een omgevingsvergunning voor stedenbouwkundige handelingen uitvoering geeft aan   een omgevingsvergunning voor het verkavelen van gronden voor een   verkavelingsproject dat reeds onderworpen is aan een norm als bepaald krachtens   afdeling 1 of afdeling 2.
 
 ### ART. 4.2.4./2.
 
@@ -864,11 +738,11 @@ Dit hoofdstuk is niet van toepassing op de volgende categorieën van   projecten
 
 ### ART. 4.2.5.
 
-§ 1. Indien een bouw- of verkavelingsproject onderworpen is aan een norm   als bepaald krachtens hoofdstuk 1, wordt aan de verkavelingsvergunning,   respectievelijk de stedenbouwkundige vergunning, van rechtswege een last   verbonden in de zin van artikel 4.2.20 van de Vlaamse Codex Ruimtelijke   Ordening. Deze last verplicht de verkavelaar of de bouwheer ertoe handelingen te   stellen opdat een bescheiden woonaanbod zou worden verwezenlijkt dat in lijn is   met het op het verkavelingsproject of het bouwproject toepasselijke   percentage.<BR><BR>De verkavelaar of de bouwheer kan de last uitvoeren in   natura, door verkoop van de voor het vooropgestelde bescheiden woonaanbod   vereiste gronden aan een sociale woonorganisatie of aan een openbaar bestuur,   vermeld in artikel 33, § 1, eerste lid, van de Vlaamse Wooncode, en/of door de   storting van een bijdrage aan de gemeente waarbinnen het verkavelingsproject of   het bouwproject ontwikkeld wordt.<BR><BR>§ 2. Met behoud van de toepassing van   het derde lid rondt het vergunningverlenende bestuursorgaan de met toepassing   van hoofdstuk 1 verkregen getallen af naar het dichtstbijzijnde natuurlijk   getal.<BR><BR>§ 3. In een verkaveling die minder dan vijf loten bestemd voor   woningbouw telt en die een grondoppervlakte groter dan een halve hectare heeft   of die overeenkomstig artikel 4.2.1, eerste lid, 4°, aansluit op andere, door   dezelfde verkavelaar te ontwikkelen gronden, die samen met de gronden waarop de   aanvraag betrekking heeft, een oppervlakte van meer dan een halve hectare   beslaan, wordt geen last inzake de verwezenlijking van een bescheiden woonaanbod   opgelegd.
+§ 1. Indien een bouw- of verkavelingsproject onderworpen is aan een norm   als bepaald krachtens hoofdstuk 1, wordt aan de omgevingsvergunning voor het   verkavelen van gronden, respectievelijk de omgevingsvergunning voor   stedenbouwkundige handelingen, van rechtswege een last verbonden in de zin van   artikel 75 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.   Deze last verplicht de verkavelaar of de bouwheer ertoe handelingen te stellen   opdat een bescheiden woonaanbod zou worden verwezenlijkt dat in lijn is met het   op het verkavelingsproject of het bouwproject toepasselijke   percentage.<BR><BR>De verkavelaar of de bouwheer kan de last uitvoeren in   natura, door verkoop van de voor het vooropgestelde bescheiden woonaanbod   vereiste gronden aan een sociale woonorganisatie of aan een openbaar bestuur,   vermeld in artikel 33, § 1, eerste lid, van de Vlaamse Wooncode, en/of door de   storting van een bijdrage aan de gemeente waarbinnen het verkavelingsproject of   het bouwproject ontwikkeld wordt.<BR><BR>§ 2. Met behoud van de toepassing van   het derde lid rondt het vergunningverlenende bestuursorgaan de met toepassing   van hoofdstuk 1 verkregen getallen af naar het dichtstbijzijnde natuurlijk   getal.<BR><BR>§ 3. In een verkaveling die minder dan vijf loten bestemd voor   woningbouw telt en die een grondoppervlakte groter dan een halve hectare heeft   of die overeenkomstig artikel 4.2.1, eerste lid, 4°, aansluit op andere, door   dezelfde verkavelaar te ontwikkelen gronden, die samen met de gronden waarop de   aanvraag betrekking heeft, een oppervlakte van meer dan een halve hectare   beslaan, wordt geen last inzake de verwezenlijking van een bescheiden woonaanbod   opgelegd.
 
 ### ART. 4.2.6.
 
-§ 1. Indien de verkavelaar of de bouwheer ervoor opteert om de last in   natura uit te voeren, verwezenlijkt hij het vooropgestelde bescheiden woonaanbod   binnen een termijn van acht jaar na de afgifte van de vergunning in laatste   administratieve aanleg of, indien de vergunning uitdrukkelijk melding maakt van   verschillende fasen van het verkavelingsproject of het bouwproject, binnen de   acht jaar na de aanvang van de vergunningsfase waarin het bescheiden woonaanbod   moet worden verwezenlijkt.<BR><BR>§ 2. De verkavelaar of de bouwheer waarborgt   de uitvoering van de last door middel van het verlenen van een aankoopoptie ten   bate van een sociale woonorganisatie of een openbaar bestuur, vermeld in artikel   33, § 1, eerste lid, van de Vlaamse Wooncode. In afwijking van de   gemeenrechtelijke regelen van de Vlaamse Codex Ruimtelijke Ordening, mag van de   vergunning eerst gebruik worden gemaakt vanaf het verlijden van de onderhandse   akte waarin de aankoopoptie wordt verleend.<BR><BR>Op grond van de aankoopoptie   stemt de verkavelaar of de bouwheer toe in de verkoop, aan de beneficiaris van   de optie, van de op het verkavelings- of bouwplan voor een bescheiden woonaanbod   aangewezen gronden. De beneficiaris kan de optie eerst lichten indien het   vooropgestelde bescheiden woonaanbod niet is verwezenlijkt binnen de termijn,   vermeld in § 1. Het optierecht vervalt indien het niet wordt uitgeoefend binnen   de drie jaar na het verstrijken van de termijn, vermeld in § 1.<BR><BR>Als de   aankoopoptie wordt gelicht, betaalt de beneficiaris voor de verkochte gronden de   schattingsprijs, die gelijk is aan de venale waarde van de gronden ten tijde van   de afgifte van de verkavelingsvergunning of de stedenbouwkundige vergunning. Bij   de raming van deze venale waarde wordt geen rekening gehouden met de gevolgen   van de last, en worden in voorkomend geval minstens de volgende kosten in   mindering gebracht :<BR>1° de kosten voor de verwerking en de sanering van   vervuilde grond bij grondverzet;<BR>2° de extra kosten voor de plaatsing van een   zwaardere fundering bij onvoldoende stabiliteit van de grond voor de daarop op   te richten woningen;<BR>3° de kosten voor de verwijdering van het nog aanwezige   puin.<BR><BR>De op grond van de aankoopoptie verkochte gronden worden ingezet   ten bate van het gemeentelijk woonbeleid.<BR><BR>§ 2/1. In afwijking van   paragraaf 2 kan de verkavelaar of bouwheer de uitvoering van de last waarborgen   door de storting van een afdoende financiële waarborg of door een door een   bankinstelling op onherroepelijke wijze verleende afdoende financiële   waarborg.<BR><BR>§ 3. Bij de toetsing aan de goede ruimtelijke ordening van het   bescheiden gedeelte van een verkavelingsproject of een bouwproject dat   onderworpen is aan een norm als bepaald krachtens hoofdstuk 1, wordt te allen   tijde uitgegaan van volgende woningdichtheden :<BR>1° ten minste 35 en ten   hoogste 100 woningen per hectare, in stedelijke gebieden;<BR>2° ten minste 25 en   ten hoogste 35 woningen per hectare, in het buitengebied.<BR><BR>
+§ 1. Indien de verkavelaar of de bouwheer ervoor opteert om de last in   natura uit te voeren, verwezenlijkt hij het vooropgestelde bescheiden woonaanbod   binnen een termijn van acht jaar na de afgifte van de vergunning in laatste   administratieve aanleg of, indien de vergunning uitdrukkelijk melding maakt van   verschillende fasen van het verkavelingsproject of het bouwproject, binnen de   acht jaar na de aanvang van de vergunningsfase waarin het bescheiden woonaanbod   moet worden verwezenlijkt.<BR><BR>§ 2. De verkavelaar of de bouwheer waarborgt   de uitvoering van de last door middel van het verlenen van een aankoopoptie ten   bate van een sociale woonorganisatie of een openbaar bestuur, vermeld in artikel   33, § 1, eerste lid, van de Vlaamse Wooncode. In afwijking van de   gemeenrechtelijke regelen van het decreet van 25 april 2014 betreffende de   omgevingsvergunning, mag van de vergunning eerst gebruik worden gemaakt vanaf   het verlijden van de onderhandse akte waarin de aankoopoptie wordt   verleend.<BR><BR>Op grond van de aankoopoptie stemt de verkavelaar of de   bouwheer toe in de verkoop, aan de beneficiaris van de optie, van de op het   verkavelings- of bouwplan voor een bescheiden woonaanbod aangewezen gronden. De   beneficiaris kan de optie eerst lichten indien het vooropgestelde bescheiden   woonaanbod niet is verwezenlijkt binnen de termijn, vermeld in § 1. Het   optierecht vervalt indien het niet wordt uitgeoefend binnen de drie jaar na het   verstrijken van de termijn, vermeld in § 1.<BR><BR>Als de aankoopoptie wordt   gelicht, betaalt de beneficiaris voor de verkochte gronden de schattingsprijs,   die gelijk is aan de venale waarde van de gronden ten tijde van de afgifte van   de omgevingsvergunning voor het verkavelen van gronden of de omgevingsvergunning   voor stedenbouwkundige handelingen. Bij de raming van deze venale waarde wordt   geen rekening gehouden met de gevolgen van de last, en worden in voorkomend   geval minstens de volgende kosten in mindering gebracht :<BR>1° de kosten voor   de verwerking en de sanering van vervuilde grond bij grondverzet;<BR>2° de extra   kosten voor de plaatsing van een zwaardere fundering bij onvoldoende stabiliteit   van de grond voor de daarop op te richten woningen;<BR>3° de kosten voor de   verwijdering van het nog aanwezige puin.<BR><BR>De op grond van de aankoopoptie   verkochte gronden worden ingezet ten bate van het gemeentelijk   woonbeleid.<BR><BR>§ 2/1. In afwijking van paragraaf 2 kan de verkavelaar of   bouwheer de uitvoering van de last waarborgen door de storting van een afdoende   financiële waarborg of door een door een bankinstelling op onherroepelijke wijze   verleende afdoende financiële waarborg.<BR><BR>§ 3. Bij de toetsing aan de goede   ruimtelijke ordening van het bescheiden gedeelte van een verkavelingsproject of   een bouwproject dat onderworpen is aan een norm als bepaald krachtens hoofdstuk   1, wordt te allen tijde uitgegaan van volgende woningdichtheden :<BR>1° ten   minste 35 en ten hoogste 100 woningen per hectare, in stedelijke gebieden;<BR>2°   ten minste 25 en ten hoogste 35 woningen per hectare, in het   buitengebied.<BR><BR>
 
 ### ART. 4.2.7.
 
@@ -1392,11 +1266,11 @@ De gewestelijke of gemeentelijke heffingen op leegstaande gebouwen of woningen w
 
 ### ART. 7.3.11.
 
-De bij dit decreet bepaalde verplichting om lasten inzake de   verwezenlijking van een bescheiden woonaanbod te verbinden aan specifieke   stedenbouwkundige en verkavelingsvergunningen, geldt ten aanzien van alle   betrokken vergunningsaanvragen die vanaf de inwerkingtreding van dit decreet in   eerste administratieve aanleg worden ingediend. De datum van indiening is de   datum waarop de aanvraag regelmatig bij het vergunningverlenende bestuursorgaan   wordt betekend. De herindiening van een eerder niet ontvankelijk en /of niet   volledig verklaard dossier wordt beschouwd als een nieuwe aanvraag.<BR><BR>Ten   aanzien van aanvragen voor verkavelingswijzigingen die vanaf de inwerkingtreding   van dit decreet in eerste administratieve aanleg worden ingediend, geldt het   eerste lid enkel indien de verkavelingswijziging leidt tot een uitbreiding van   het project, wat betreft het aantal loten en/of de grondoppervlakte, die voor   gevolg heeft dat het nog niet bebouwde, verkochte, verhuurde of aan een erfpacht   of opstalrecht onderworpen gedeelte van de verkaveling aan de voorwaarden,   vermeld in artikel 4.2.1, eerste lid, voldoet. De omvang van de&nbsp;last wordt   berekend op basis van dat nog niet bebouwde, verkochte, verhuurde of aan een   erfpacht of opstalrecht onderworpen gedeelte.<BR><BR>
+De bij dit decreet bepaalde verplichting om lasten inzake de   verwezenlijking van een bescheiden woonaanbod te verbinden aan specifieke   stedenbouwkundige en verkavelingsvergunningen, omgevingsvergunningen voor   stedenbouwkundige handelingen en omgevingsvergunningen voor het verkavelen van   gronden, geldt ten aanzien van alle betrokken vergunningsaanvragen die vanaf de   inwerkingtreding van dit decreet in eerste administratieve aanleg worden   ingediend. De datum van indiening is de datum waarop de aanvraag regelmatig bij   het vergunningverlenende bestuursorgaan wordt betekend. De herindiening van een   eerder niet ontvankelijk en /of niet volledig verklaard dossier wordt beschouwd   als een nieuwe aanvraag.<BR><BR>Ten aanzien van aanvragen voor   verkavelingswijzigingen of bijstellingen van de omgevingsvergunning voor het   verkavelen van gronden die vanaf de inwerkingtreding van dit decreet in eerste   administratieve aanleg worden ingediend, geldt het eerste lid enkel indien de   verkavelingswijziging of bijstelling van de omgevingsvergunning voor het   verkavelen van gronden leidt tot een uitbreiding van het project, wat betreft   het aantal loten en/of de grondoppervlakte, die voor gevolg heeft dat het nog   niet bebouwde, verkochte, verhuurde of aan een erfpacht of opstalrecht   onderworpen gedeelte van de verkaveling aan de voorwaarden, vermeld in artikel   4.2.1, eerste lid, voldoet. De omvang van de&nbsp;last wordt berekend op basis   van dat nog niet bebouwde, verkochte, verhuurde of aan een erfpacht of   opstalrecht onderworpen gedeelte.<BR><BR>
 
 ### ART. 7.3.12.
 
-Bij het vaststellen van een norm inzake bescheiden woonaanbod en bij het   opleggen van een last met het oog op de verwezenlijking van een bescheiden   woonaanbod wordt geen rekening gehouden met gronden waarbij voldaan is aan alle   volgende voorwaarden :<BR>1° de onderhandse akte betreffende de aankoop van de   gronden heeft vaste datum gekregen in de periode vanaf 1 januari 2003 tot en met   de dag voorafgaand aan de indiening van het ontwerp van decreet betreffende het   grond- en pandenbeleid bij het Vlaams Parlement;<BR>2° de gronden zijn op het   ogenblik van de ondertekening van de onderhandse akte gelegen in   woongebied;<BR>3° uiterlijk op de dag voorafgaand aan de indiening van het   ontwerp van decreet betreffende het grond- en pandenbeleid bij het Vlaams   Parlement heeft een financiële transactie tussen koper en verkoper   plaatsgevonden, inzonderheid de betaling van een voorschot.<BR><BR>Indien het   gaat om een aankoop onder opschortende voorwaarde geldt naast de voorwaarden,   vermeld in het eerste lid, de bijkomende eis dat de termijn tussen de   ondertekening van de akte en de uiterste realisatiedatum van de voorwaarde ten   hoogste twee jaar bedraagt.<BR><BR>De bewijslast rust op de aanvrager van de   stedenbouwkundige of verkavelingsvergunning.<BR><BR>
+Bij het vaststellen van een norm inzake bescheiden woonaanbod en bij het   opleggen van een last met het oog op de verwezenlijking van een bescheiden   woonaanbod wordt geen rekening gehouden met gronden waarbij voldaan is aan alle   volgende voorwaarden :<BR>1° de onderhandse akte betreffende de aankoop van de   gronden heeft vaste datum gekregen in de periode vanaf 1 januari 2003 tot en met   de dag voorafgaand aan de indiening van het ontwerp van decreet betreffende het   grond- en pandenbeleid bij het Vlaams Parlement;<BR>2° de gronden zijn op het   ogenblik van de ondertekening van de onderhandse akte gelegen in   woongebied;<BR>3° uiterlijk op de dag voorafgaand aan de indiening van het   ontwerp van decreet betreffende het grond- en pandenbeleid bij het Vlaams   Parlement heeft een financiële transactie tussen koper en verkoper   plaatsgevonden, inzonderheid de betaling van een voorschot.<BR><BR>Indien het   gaat om een aankoop onder opschortende voorwaarde geldt naast de voorwaarden,   vermeld in het eerste lid, de bijkomende eis dat de termijn tussen de   ondertekening van de akte en de uiterste realisatiedatum van de voorwaarde ten   hoogste twee jaar bedraagt.<BR><BR>De bewijslast rust op de aanvrager van de   omgevingsvergunning voor stedenbouwkundige handelingen of omgevingsvergunning   voor het verkavelen van gronden.<BR><BR>
 
 ### ART. 7.3.12/1.
 
