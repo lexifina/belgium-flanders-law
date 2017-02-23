@@ -26,8 +26,8 @@ De minister kan de bijlagen bij dit besluit wijzigen, met uitzondering van bijla
 3° titel I van het VLAREM : het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning;<br>
 4° titel II van het VLAREM : het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
 5° besluit inzake het onderhoud en nazicht van centrale stooktoestellen : het besluit van de Vlaamse Regering van 8 december 2006 betreffende het onderhoud en het nazicht van stooktoestellen voor verwarming van gebouwen of voor de aanmaak van warm verbruikswater;<br>
-6° de afdeling : de afdeling, bevoegd voor erkenningen: de afdeling Milieuvergunningen van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
-7° de afdeling, bevoegd voor milieuvergunningen : de afdeling Milieuvergunningen van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
+6° de afdeling bevoegd voor erkenningen : de afdeling bij het Departement Leefmilieu, Natuur en Energie van het Vlaams Ministerie van Leefmilieu, Natuur en Energie, die bevoegd is voor de omgevingsvergunning;<br>
+7° de afdeling Milieu, bevoegd voor de omgevingsvergunning : de afdeling bij het Departement Leefmilieu, Natuur en Energie van het Vlaams Ministerie van Leefmilieu, Natuur en Energie, die bevoegd is voor de omgevingsvergunning.<br>
 8° de afdeling, bevoegd voor geluidshinder : de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
 9° de afdeling, bevoegd voor luchtverontreiniging : de afdeling Lucht, Hinder, Risicobeheersing, Milieu en Gezondheid van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
 10° de afdeling, bevoegd voor milieueffectrapportage : de afdeling Milieu-, Natuur- en Energiebeleid van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
@@ -119,7 +119,7 @@ b. optioneel, het beproeven of controleren van apparaten en inrichtingen die bes
 2) trillingen, voor het uitvoeren van trillingsmetingen, het opstellen en begeleiden van saneringsplannen en het beproeven of controleren van apparaten en inrichtingen die trillingen kunnen veroorzaken, die bestemd zijn om trillingen te meten of de hinder ervan te verhelpen;<br>
 d) MER-deskundige : deskundige voor het opstellen van milieueffectrapporten als vermeld in titel IV van het decreet Milieubeleid, met betrekking tot een of meer van de volgende disciplines en deeldomeinen :<br>
 1) mens : toxicologie, psychosomatische aspecten, mobiliteit en ruimtelijke aspecten;<br>
-2) fauna en flora;<br>
+2) biodiversiteit;<br>
 3) bodem : pedologie en geologie;<br>
 4) water : geohydrologie, oppervlakte- en afvalwater, en mariene waters;<br>
 5) lucht : geur en luchtverontreiniging;<br>
@@ -178,10 +178,10 @@ e) het opstellen van een evaluatierapport als vermeld in artikel 78 van het Bode
 Een bodemsaneringsdeskundige van type 2 kan alle taken uitvoeren die in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan aan een bodemsaneringsdeskundige zijn toegewezen;<br>
 7° bedrijven :<br>
 a) boorbedrijf met betrekking tot een of meer van de volgende disciplines, waarbij de boringen die uitgevoerd worden in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan, funderingsboringen, handboringen en horizontale boringen voor zover die niet vergunningsplichtig zijn, worden uitgesloten van het toepassingsgebied van deze disciplines :<br>
-1) bemalingen en draineringen : bemalingen en draineringen als vermeld in rubriek 53.2, 53.3, 53.4 en 53.5 van bijlage 1 van titel I van het VLAREM;<br>
+1) bemalingen en draineringen als vermeld in rubriek 53.2, 53.3, 53.4 en 53.5 van de indelingslijst, vermeld in artikel 5.2.1, § 1, van het decreet Milieubeleid;<br>
 2) andere grondwaterwinningen : andere grondwaterwinningen dan de grondwaterwinningen, vermeld in punt 1);<br>
-3) stabiliteitsboringen en geotechnische boringen, met uitzondering van stabiliteitsboringen en geotechnische boringen als vermeld in rubriek 55.2 en 55.3 van bijlage 1 van titel I van het VLAREM;<br>
-4) verticale boringen : verticale boringen als vermeld in rubriek 55.1 van bijlage 1 van titel I van het VLAREM, met uitzondering van de boringen, vermeld in punt 3);<br>
+3) stabiliteitsboringen en geotechnische boringen, met uitzondering van stabiliteitsboringen en geotechnische boringen als vermeld in rubriek 55.2 en 55.3 van de indelingslijst, vermeld in artikel 5.2.1, § 1, van het decreet Milieubeleid;<br>
+4) verticale boringen : verticale boringen als vermeld in rubriek 55.1 van de indelingslijst, vermeld in artikel 5.2.1, § 1, van het decreet Milieubeleid, met uitzondering van de boringen, vermeld in punt 3);<br>
 5) andere boringen : andere boringen dan de boringen, vermeld in punt 1) tot en met 4);<br>
 b) koeltechnisch bedrijf als vermeld in artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, of artikel 6.8.1.1 van titel II van het VLAREM;<br>
 c) bedrijf voor brandbeveiligingsapparatuur als vermeld in artikel 4.4.8.1 of artikel 6.8.2.1 van titel II van het VLAREM;<br>
@@ -291,11 +291,11 @@ De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een technicus vo
 
 ### ART. 18.
 
-§ 1. De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de milieucoördinator, vermeld in artikel 6, 3°, a), voor het uitoefenen van de functie bij inrichtingen, aangeduid met de kenletter A in de vijfde kolom van de lijst van de als hinderlijk beschouwde inrichtingen, vastgesteld in bijlage 1 van titel I van het VLAREM :<br />1° een natuurlijke persoon zijn;<br />2° de graad van master of een daarmee gelijkgeschakelde graad bezitten;<br />3° in het bezit zijn van een getuigschrift van aanvullende vorming voor milieucoördinatoren van het eerste niveau of van het overgangsniveau dat, nadat de persoon het vastgelegde onderricht heeft gevolgd en geslaagd is voor het examen, vermeld in bijlage 2, die bij dit besluit is gevoegd, uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, a) ;<br />4° minstens één jaar praktische ervaring in het beheersen en voorkomen van milieuhinder en risico's op bedrijfsniveau verworven hebben binnen vijf jaar voorafgaand aan de erkenningsaanvraag.<br /><br />§ 2. De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de milieucoördinator, vermeld in artikel 6, 3°, a), voor het uitoefenen van de functie bij inrichtingen, aangeduid met de kenletter B in de vijfde kolom van de lijst van de als hinderlijk beschouwde inrichtingen, vastgesteld in bijlage 1 van titel I van het VLAREM :<br />1° een natuurlijke persoon zijn;<br />2° minstens de graad van bachelor of een daarmee gelijkgeschakelde graad bezitten;<br />3° in het bezit zijn van een getuigschrift van aanvullende vorming voor milieucoördinatoren van het tweede niveau dat, nadat de persoon het vastgelegde onderricht heeft gevolgd en geslaagd is voor het examen, vermeld in bijlage 2, die bij dit besluit is gevoegd, uitgereikt is door een erkend opleidingscentrum als vermeld in artikel 6, 4°, a) ;<br />4° minstens één jaar praktische ervaring in het beheersen en voorkomen van milieuhinder en risico's op bedrijfsniveau verworven hebben binnen vijf jaar voorafgaand aan de erkenningsaanvraag.<br /><br />
+§ 1. De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de   milieucoördinator, vermeld in artikel 6, 3°, a), voor het uitoefenen van de   functie bij inrichtingen, aangeduid met de kenletter A in de vijfde kolom van de   lijst van de als hinderlijk beschouwde inrichtingen, vastgesteld in de   indelingslijst vermeld in artikel 5.2.1, § 1, van het decreet van 5 april 1995   houdende algemene bepalingen inzake milieubeleid:<BR>1° een natuurlijke persoon   zijn;<BR>2° de graad van master of een daarmee gelijkgeschakelde graad   bezitten;<BR>3° in het bezit zijn van een getuigschrift van aanvullende vorming   voor milieucoördinatoren van het eerste niveau of van het overgangsniveau dat,   nadat de persoon het vastgelegde onderricht heeft gevolgd en geslaagd is voor   het examen, vermeld in bijlage 2, die bij dit besluit is gevoegd, uitgereikt is   door een erkend opleidingscentrum als vermeld in artikel 6, 4°, a) ;<BR>4°   minstens één jaar praktische ervaring in het beheersen en voorkomen van   milieuhinder en risico's op bedrijfsniveau verworven hebben binnen vijf jaar   voorafgaand aan de erkenningsaanvraag.<BR><BR>§ 2. De hierna vermelde bijzondere   erkenningsvoorwaarden gelden voor de milieucoördinator, vermeld in artikel 6,   3°, a), voor het uitoefenen van de functie bij inrichtingen, aangeduid met de   kenletter B in de vijfde kolom van de lijst van de als hinderlijk beschouwde   inrichtingen, vastgesteld in de indelingslijst vermeld in artikel 5.2.1, § 1,   van het decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid:<BR>1° een natuurlijke persoon zijn;<BR>2° minstens de graad van   bachelor of een daarmee gelijkgeschakelde graad bezitten;<BR>3° in het bezit   zijn van een getuigschrift van aanvullende vorming voor milieucoördinatoren van   het tweede niveau dat, nadat de persoon het vastgelegde onderricht heeft gevolgd   en geslaagd is voor het examen, vermeld in bijlage 2, die bij dit besluit is   gevoegd, uitgereikt is door een erkend opleidingscentrum als vermeld in artikel   6, 4°, a) ;<BR>4° minstens één jaar praktische ervaring in het beheersen en   voorkomen van milieuhinder en risico's op bedrijfsniveau verworven hebben binnen   vijf jaar voorafgaand aan de erkenningsaanvraag.<BR><BR>
 
 ### ART. 19.
 
-<P>De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de   milieuverificateur die belast is met de validatie van de decretale milieuaudit,   vermeld in artikel 6, 3°, b) :<BR>1° houder zijn van de titel van   milieuverificateur, vermeld in Verordening nr. 1221/2009 van het Europees   Parlement en de Raad van 25 november 2009 inzake de vrijwillige deelneming van   organisaties aan een communautair milieubeheer- en milieuauditsysteem (EMAS),   tot intrekking van Verordening (EG) nr. 761/2001 en van de Beschikkingen   2001/681/EG en 2006/193/EG van de Commissie;<BR>2° een geldig bewijs van   betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan   de afdeling, bevoegd voor milieuvergunningen.</P>
+<P>De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor de   milieuverificateur die belast is met de validatie van de decretale milieuaudit,   vermeld in artikel 6, 3°, b) :<BR>1° houder zijn van de titel van   milieuverificateur, vermeld in Verordening nr. 1221/2009 van het Europees   Parlement en de Raad van 25 november 2009 inzake de vrijwillige deelneming van   organisaties aan een communautair milieubeheer- en milieuauditsysteem (EMAS),   tot intrekking van Verordening (EG) nr. 761/2001 en van de Beschikkingen   2001/681/EG en 2006/193/EG van de Commissie;<BR>2° een geldig bewijs van   betaling van de retributie, vermeld in artikel 54/1, § 2, hebben voorgelegd aan   de afdeling Milieu, bevoegd voor de omgevingsvergunning.</P>
 
 ## Onderafdeling 4 Erkenningsvoorwaarden voor opleidingscentra
 
@@ -444,7 +444,7 @@ b) ofwel minstens de graad van bachelor of een daarmee gelijkgestelde graad in e
 7° beschikken over minstens vijf jaar praktische ervaring in een milieusector die relevant is voor het leiden van de bodemsanering, verworven binnen tien jaar, voorafgaand aan de erkenningsaanvraag;<br>
 8° beschikken over minstens vijf jaar praktische ervaring in werfopvolging, verworven binnen tien jaar, voorafgaand aan de erkenningsaanvraag;<br>
 9° beschikken over een getuigschrift van aanvullende vorming voor bodemsaneringsdeskundigen, module 2, dat door een erkend opleidingscentrum als vermeld in artikel 6, 4°, g), is uitgereikt met toepassing van de bepalingen van bijlage 17, die bij dit besluit is gevoegd;<br>
-10° beschikken over minstens één natuurlijk persoon die met gunstig gevolg een opleiding heeft genoten waarin minstens de volgende onderwerpen aan bod zijn gekomen : de Vlaamse reglementeringen inzake de milieuvergunning, het grondwaterbeheer en de stedenbouw en ruimtelijke ordening;<br>
+10° beschikken over minstens één natuurlijk persoon die met gunstig gevolg een opleiding heeft genoten waarin minstens de volgende onderwerpen aan bod zijn gekomen : de Vlaamse reglementeringen inzake de omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit, het grondwaterbeheer en de stedenbouw en ruimtelijke ordening;<br>
 11° beschikken over minstens één natuurlijk persoon of minstens één natuurlijk persoon contractueel ter beschikking hebben met de nodige ervaring om een mathematisch grondwatermodel te hanteren en de resultaten ervan correct te interpreteren.
 
 ## [Onderafdeling 7 Erkenningsvoorwaarden voor bedrijven (verv. BVR 18 maart 2016, art. 223, I: 5 september 2016)]
@@ -524,7 +524,7 @@ a) mens, deeldomeinen :<br>
 2) psychosomatische aspecten : de afdeling, bevoegd voor het&nbsp;toezicht volksgezondheid;<br>
 3) mobiliteit : de afdeling Beleid, Mobiliteit en Verkeersveiligheid van het Departement Mobiliteit en Openbare Werken;<br>
 4) ruimtelijke aspecten : de afdeling Gebieden en Projecten van het Departement Ruimte Vlaanderen;<br>
-b) fauna en flora : het Agentschap voor Natuur en Bos;<br>
+b) biodiversiteit: het Agentschap voor Natuur en Bos;<br>
 c) bodem : deeldomeinen :<br>
 1) pedologie : de afdeling, bevoegd voor bodembescherming, en de afdeling, bevoegd voor bodembeheer ;<br>
 2) geologie : de afdeling, bevoegd voor natuurlijke rijkdommen, en de afdeling, bevoegd voor bodembeheer ;<br>
@@ -607,11 +607,11 @@ b) de bedrijven die in een ander gewest in België of in een andere lidstaat van
 13° bedrijf voor brandbeveiligingsapparatuur als vermeld in artikel 6, 7°, c) : de bedrijven die in een ander gewest in België of in een andere lidstaat van de Europese Economische Ruimte conform artikel 8 van verordening nr. 304/2008 een geldig certificaat hebben behaald;<br>
 14° keuringsinstelling als vermeld in artikel 6, 8° : de instellingen die voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 25/6.<br>
 <br>
-De erkenning, vermeld in het eerste lid, 5°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de afdeling, bevoegd voor milieuvergunningen, identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de afdeling, bevoegd voor milieuvergunningen,&nbsp;en een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, wordt voorgelegd aan de afdeling, bevoegd voor milieuvergunningen.<br>
+De erkenning, vermeld in het eerste lid, 5°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de de afdeling Milieu, bevoegd voor de omgevingsvergunning, en een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, wordt voorgelegd aan de de afdeling Milieu, bevoegd voor de omgevingsvergunning.<br>
 <br>
 De erkenning, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b) en 13°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de afdeling, bevoegd voor erkenningen, de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de afdeling, bevoegd voor erkenningen, en een geldig bewijs van betaling van de retributie, vermeld in artikel 54/1, § 2, wordt voorgelegd aan de afdeling, bevoegd voor erkenningen. De persoon of het bedrijf, vermeld in het eerste lid, 7°, b), 8°, b), 9°, b), 10°, b), 11°, b), 12°, b), en 13°, beschikt over een vertaling van zijn certificaat naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven, en legt zijn certificaat en, in voorkomend geval, de vertaling ervan voor aan de afdeling, bevoegd voor erkenningen, bij de melding van het gebruik van de erkenning.<br>
 <br>
-De erkenning, vermeld in het eerste lid, 14°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de afdeling, bevoegd voor erkenningen, en de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de afdeling, bevoegd voor erkenningen.<br>
+De erkenning, vermeld in het eerste lid, 14°, gaat in op de datum waarop het gebruik van de erkenning wordt gemeld aan de afdeling, bevoegd voor erkenningen, de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de afdeling, bevoegd voor milieuvergunningen, en de identificatiegegevens, vermeld in bijlage 19, die bij dit besluit is gevoegd, worden bezorgd aan de afdeling, bevoegd voor erkenningen.<br>
 <br>
 § 3. De erkenning van rechtswege, vermeld in paragraaf 1 en 2, is niet van toepassing op personen die niet voldoen aan de algemene erkenningsvoorwaarden, vermeld in artikel 8.<br>
 &nbsp;
@@ -863,10 +863,10 @@ a) voor de aanvullende vorming van het eerste niveau : de graad van bachelor of 
 b) voor de aanvullende vorming van het tweede niveau : het diploma van secundair onderwijs of gelijkwaardige getuigschriften of certificaten bezitten;<br>
 c) voor de overgangscursussen van het tweede niveau naar het eerste niveau : het getuigschrift van aanvullende vorming voor milieucoördinatoren van het tweede niveau bezitten;<br>
 3° kan op basis van de opleiding die ze tot dan toe al hebben genoten, de cursisten vrijstelling verlenen van het volgen van bepaalde onderdelen van de aanvullende vorming. De vrijstelling geldt niet voor het maken van een eindwerk;<br>
-4° brengt de afdeling, bevoegd voor milieuvergunningen, minstens één maand vooraf op de hoogte van de datum van de examens en van de bespreking van de eindwerken. Een lijst met de vermelding van de titels van de eindwerken wordt gelijktijdig met de lijst van voormelde data aan de afdeling, bevoegd voor milieuvergunningen, bezorgd. De afdeling, bevoegd voor milieuvergunningen, kan zetelen in de examen- of eindwerkjury;&nbsp;<br>
-5° stelt ten minste tweemaal per jaar een verslag op over de inhoudelijke werking van de opvolgingscommissie die waakt over de organisatie en de programma-inhoud van de cursussen. Dit verslag omvat minimaal een beschrijving van de vergadering en activiteiten, en wordt aan de afdeling, bevoegd voor milieuvergunningen, bezorgd;&nbsp;<br>
-6° nodigt de afdeling, bevoegd voor milieuvergunningen, uit op elke vergadering van de opvolgingscommissie. Het afdelingshoofd van de afdeling, bevoegd voor milieuvergunningen, of zijn afgevaardigde maken van rechtswege deel uit van de opvolgingscommissie;<br>
-7° moet, als daarom wordt verzocht door de afdeling, bevoegd voor milieuvergunningen,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen en examens bij te wonen.
+4° brengt de de afdeling Milieu, bevoegd voor de omgevingsvergunning, minstens één maand vooraf op de hoogte van de datum van de examens en van de bespreking van de eindwerken. Een lijst met de vermelding van de titels van de eindwerken wordt gelijktijdig met de lijst van voormelde data aan de afdeling Milieu, bevoegd voor de omgevingsvergunning, bezorgd. De de afdeling Milieu, bevoegd voor de omgevingsvergunning, kan zetelen in de examen- of eindwerkjury;&nbsp;<br>
+5° stelt ten minste tweemaal per jaar een verslag op over de inhoudelijke werking van de opvolgingscommissie die waakt over de organisatie en de programma-inhoud van de cursussen. Dit verslag omvat minimaal een beschrijving van de vergadering en activiteiten, en wordt aan de afdeling Milieu, bevoegd voor de omgevingsvergunning, bezorgd;&nbsp;<br>
+6° nodigt de de afdeling Milieu, bevoegd voor de omgevingsvergunning, uit op elke vergadering van de opvolgingscommissie. Het afdelingshoofd van de de afdeling Milieu, bevoegd voor de omgevingsvergunning, of zijn afgevaardigde maken van rechtswege deel uit van de opvolgingscommissie;<br>
+7° moet, als daarom wordt verzocht door de de afdeling Milieu, bevoegd voor de omgevingsvergunning,&nbsp;personeelsleden de mogelijkheid bieden om de opleidingen en examens bij te wonen.
 
 ### ART. 43.
 
@@ -1834,6 +1834,18 @@ De personen aan wie de afdeling, bevoegd voor bodembeheer, in het kader   van ar
 
 De personen aan wie de afdeling, bevoegd voor bodembeheer, in het kader   van artikel 36, 6°, van het VLAREBO handtekeningsbevoegdheid heeft verleend voor   de vereiste vijf jaar ervaring in het leiden van de bodemsanering en voor de   vereiste drie jaar ervaring in het uitvoeren van bodemonderzoeken, krijgen van   rechtswege uiterlijk tot 31 december 2017 de handtekeningsbevoegdheid, vermeld   in artikel 53/4, § 2, tweede lid, van dit besluit, met behoud van de toepassing   van artikel 53/4, § 3, van dit besluit.
 
+### ART 103/4.
+
+Een MER-deskundige die op de datum van 23 februari 2017 erkend is in de discipline fauna en flora, is met toepassing van dit besluit erkend als een MER-deskundige in de discipline biodiversiteit.
+
+### ART 103/5.
+
+§ 1. De bestaande erkenningen voor MER-deskundigen op grond van artikel 6, 1°, d), 6), van dit besluit houden op uitwerking te hebben vanaf zes maanden na de datum van bekendmaking van het besluit van de Vlaamse Regering van 17 februari 2017 betreffende nadere regels voor de milieueffectrapportage over projecten en voor de omgevingsveiligheidsrapportage in het Belgisch Staatsblad.<br>
+<br>
+§ 2. Een MER-deskundige die zes maanden na de datum van bekendmaking van het besluit van de Vlaamse Regering van 17 februari 2017 betreffende nadere regels voor de milieueffectrapportage over projecten en voor de omgevingsveiligheidsrapportage in het Belgisch Staatsblad erkend is in zowel de discipline mens, deeldomein toxicologie, als de discipline mens, deeldomein psychosomatische aspecten, is met toepassing van dit besluit erkend als een MER-deskundige in de discipline mens, deeldomein gezondheid.<br>
+<br>
+Een MER-deskundige die zes maanden na de datum van bekendmaking van het besluit van de Vlaamse Regering van 17 februari 2017 betreffende nadere regels voor de milieueffectrapportage over projecten en voor de omgevingsveiligheidsrapportage in het Belgisch Staatsblad erkend is in ofwel de discipline mens, deeldomein toxicologie, ofwel de discipline mens, deeldomein psychosomatische aspecten, kan in afwijking van artikel 12, § 1, 2° en 3°, op basis van een aanvraag die ingediend is vóór die datum, erkend worden als MER-deskundige in de discipline mens, deeldomein gezondheid, op voorwaarde dat hij met gunstig gevolg een opleiding genoten heeft van minstens dertig uur over respectievelijk psychosomatische aspecten en toxicologie of minstens vijf jaar praktische ervaring heeft met het meewerken aan het opstellen van milieueffectstudies over respectievelijk psychosomatische aspecten en toxicologie. De bestaande erkenning als MER-deskundige in de discipline mens voor respectievelijk het deeldomein toxicologie en het deeldomein psychosomatische aspecten houdt op uitwerking te hebben vanaf zes maanden na de datum van bekendmaking van het besluit van de Vlaamse Regering van 17 februari 2017 betreffende nadere regels voor de milieueffectrapportage over projecten en voor de omgevingsveiligheidsrapportage in het Belgisch Staatsblad.
+
 ### ART. 104.
 
 Het decreet van 27 maart 2009 houdende wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning, wat betreft de aanvulling met een regeling inzake erkenningen, en houdende wijziging van diverse andere wetten en decreten, treedt in werking op 1 januari 2011, behalve artikel 9.<br /><br />
@@ -2134,7 +2146,7 @@ De overgangscursussen van het tweede niveau naar het eerste niveau zijn zo opgev
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Structuur en opbouw van de milieuwetgeving.<br>
 			Aansprakelijkheid. Kader van de Europese milieurichtlijnen en van de Vlaamse milieuwetgeving.<br>
-			Milieuvergunningsprocedures. Relatie tot de stedenbouwkundige vergunning. De concrete formulering van milieueisen. Doelvoorschriften versus middelvoorschriften. Het voldoen aan de algemene preventiebeginselen (BBT). Gebruik van codes van goede praktijk en van normen en standaarden. Definities en correcte interpretatie van technologische eisen, emissienormen en milieukwaliteitsnormen.</p>
+			Procedures inzake de omgevingsvergunningen voor de exploitatie van ingedeelde inrichtingen of activiteiten. Relatie tot de omgevingsvergunning voor de uitvoering van stedenbouwkundige handelingen. De concrete formulering van milieueisen. Doelvoorschriften versus middelvoorschriften. Het voldoen aan de algemene preventiebeginselen (BBT). Gebruik van codes van goede praktijk en van normen en standaarden. Definities en correcte interpretatie van technologische eisen, emissienormen en milieukwaliteitsnormen.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
@@ -2222,7 +2234,7 @@ De overgangscursussen van het tweede niveau naar het eerste niveau zijn zo opgev
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>2.3.2. Het opstellen van een milieuvergunningsaanvraag. De identificatie en interpretatie van milieuvoorwaarden. Het berekenen van milieuheffingen (afvalwater, afvalstoffen). Subsidiemogelijkheden (steun voor R&amp;D-activiteiten en economische expansiesteun).</p>
+			<p>2.3.2. Het opstellen van een aanvraag tot het bekomen van een omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit. De identificatie en interpretatie van milieuvoorwaarden. Het berekenen van milieuheffingen (afvalwater, afvalstoffen). Subsidiemogelijkheden (steun voor R&amp;D-activiteiten en economische expansiesteun).</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
@@ -3521,14 +3533,14 @@ a) discipline mens :<br>
 4.3. ruimtelijke ordening en planologie;<br>
 4.4. milderende maatregelen met betrekking tot het deeldomein ruimtelijke aspecten.<br>
 4.5. geografische informatiesystemen.<br>
-b) discipline fauna en flora :<br>
+b) discipline biodiversiteit:<br>
 1) principes en concepten van levende organisatievormen van verschillende complexiteit van individu tot gemeenschap;<br>
 2) interacties tussen organismen onderling en tussen organismen en hun niet-levende omgeving;<br>
 3) werken met determinatiesleutels;<br>
 4) plantenkunde;<br>
 5) dierkunde;<br>
 6) biodiversiteit;<br>
-7) milderende maatregelen met betrekking tot de discipline fauna en flora.<br>
+7) milderende maatregelen met betrekking tot de discipline biodiversiteit.<br>
 c) discipline bodem :<br>
 1) deeldomein pedologie :<br>
 1.1 samenstelling van de bodem, bodemeigenschappen, bodemhorizonten, bodemstructuur en -textuur, bodemgenetische processen en bodemclassificatie;<br>
@@ -3978,7 +3990,7 @@ De bijscholing bestaat uit een herhaling van de belangrijkste aspecten van de al
 
 			<p style="text-align: justify;">1° het Bodemdecreet en het VLAREBO;</p>
 
-			<p style="text-align: justify;">2° bijlage 1 van titel 1 van het VLAREM;</p>
+			<p style="text-align: justify;">2° de indelingslijst, vermeld in artikel 5.2.1, § 1, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;</p>
 
 			<p style="text-align: justify;">3° de bepalingen over verminderde milieuheffing van de afvalstoffenreglementering;</p>
 
@@ -4068,7 +4080,8 @@ De bijscholing bestaat uit een herhaling van de belangrijkste aspecten van de al
 
 <p style="text-align: justify;">Een persoon die het onderricht van module 2 van de aanvullende vorming voor bodemsaneringsdeskundigen heeft gevolgd, kan deelnemen aan het examen voor module 2 als hij in het bezit is van een getuigschrift van de aanvullende vorming voor bodemsaneringsdeskundigen, module 1.</p>
 
-<p style="text-align: justify;">3° In afwijking van punt 2° worden de personen, vermeld in artikel 53/4, § 3, artikel 103/2 en 103/3, door de erkende opleidingscentra toegelaten om deel te nemen aan het examen van de overeenstemmende module zonder dat ze voorafgaandelijk het onderricht van de modules hebben gevolgd.</p>
+<p style="text-align: justify;">&nbsp;</p>
+3° In afwijking van punt 2° worden de personen, vermeld in artikel 53/4, § 3, artikel 103/2 en 103/3, door de erkende opleidingscentra toegelaten om deel te nemen aan het examen van de overeenstemmende module zonder dat ze voorafgaandelijk het onderricht van de modules hebben gevolgd.
 
 ## [BIJLAGE 18 Retributies voor de behandeling van de aanvraag en de uitoefening van het toezicht op de erkenningen met betrekking tot het leefmilieu (ing. BVR 1 maart 2013, art. 180)]
 
