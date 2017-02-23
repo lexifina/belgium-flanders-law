@@ -1595,8 +1595,8 @@ Onder vergunningen, ontheffingen en plannen wordt verstaan :<br>
 5° een natuurrichtplan, vastgesteld op grond van artikel 48 tot en met 50 van het decreet van 21 oktober 1997, voor de activiteiten die uitdrukkelijk in dat plan zijn opgenomen, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in het plan;<br>
 6° een beheerplan van een erkend bosreservaat, vastgesteld op grond van in artikel 25 van het Bosdecreet, voor specifieke activiteiten die uitdrukkelijk in dat plan zijn opgenomen, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in het plan;<br>
 7° een bosbeheerplan, vastgesteld op grond van artikel 43, § 1 tot en met § 3, van het Bosdecreet, voor specifieke activiteiten die uitdrukkelijk in dat plan zijn opgenomen, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in het plan;<br>
-8° een milieuvergunning, verleend op grond van artikel 4 van het decreet van 28 juni 1985 betreffende de milieuvergunningen, voor een werk of activiteit, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in de vergunning of afwijking;<br>
-9° een stedenbouwkundige vergunning, verleend op grond van artikel 4.2.1. van de Vlaamse Codex Ruimtelijke Ordening voor een werk of een gebruikswijziging, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in de vergunning of afwijking.<br>
+8° een omgevingsvergunning, verleend met toepassing van artikel 6, eerste lid, van het decreet van 25 april 2014 betreffende de omgevingsvergunning, voor een project of voor een verandering van een project waarvoor ook een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in de vergunning of afwijking.<br>
+9° ...<br>
 &nbsp;
 
 ## Afdeling 3 Soortenbehoud
