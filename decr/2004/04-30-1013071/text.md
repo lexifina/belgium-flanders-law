@@ -24,6 +24,10 @@ Dit decreet regelt een gewestaangelegenheid.
 
 (niet opgenomen)<br /><br />(Wijzigt artikel 2.2.2 van hetzelfde decreet)
 
+### ART. 5.
+
+<P>...</P>
+
 ## HOOFDSTUK III MACHTIGINGSBEPALING
 
 ### ART. 6.
