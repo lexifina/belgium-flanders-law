@@ -30,7 +30,7 @@ In dit besluit wordt verstaan onder:<BR>1° advocaat: een persoon die als   advo
 
 ### ART. 4.
 
-De verzoekschriften en processtukken moeten op straffe van   niet-ontvankelijkheid worden ingediend binnen de termijnen, vermeld in het   decreet, de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, het decreet van   5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Lokaal en   Provinciaal Kiesdecreet van 8 juli 2011, en dit besluit.<BR>
+De verzoekschriften en processtukken moeten op straffe van niet-ontvankelijkheid worden ingediend binnen de termijnen, vermeld in het decreet, de Vlaamse Codex Ruimtelijke Ordening, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011,&nbsp;het decreet van 25 april 2014 betreffende de omgevingsvergunning en dit besluit.
 
 ### ART. 5.
 
@@ -104,7 +104,12 @@ Na de inschrijving in het definitieve register wijst de voorzitter van het   Col
 
 ### ART. 19.
 
-<P>De griffier betekent, in voorkomend geval na toepassing van de vereenvoudigde   procedure, vermeld in artikel 26 en 59, met een beveiligde zending een afschrift   van het verzoekschrift aan:<BR>1° de verweerder;<BR>2° in geval van een   bestreden vergunnings-, validerings- of registratiebeslissing, de begunstigde   van de beslissing en het college van burgemeester en schepenen van de gemeente   waarin het betrokken onroerend goed gelegen is;<BR>3° de belanghebbenden bij de   zaak, voor zover ze kunnen worden bepaald.<BR></P>  <P>De griffier brengt de partijen schriftelijk op de hoogte van de samenstelling   van de bevoegde kamer.<BR></P>
+<p>De griffier betekent, in voorkomend geval na toepassing van de vereenvoudigde procedure, vermeld in artikel 26 en 59, met een beveiligde zending een afschrift van het verzoekschrift aan:<br>
+1° de verweerder;<br>
+2° in geval van een bestreden vergunnings-, validerings- of registratiebeslissing, de aktename van een melding&nbsp;de begunstigde&nbsp;van de beslissing of de aktename en het college van burgemeester en schepenen van de gemeente waarin het betrokken onroerend goed gelegen is;<br>
+3° de belanghebbenden bij de zaak, voor zover ze kunnen worden bepaald.</p>
+
+<p>De griffier brengt de partijen schriftelijk op de hoogte van de samenstelling van de bevoegde kamer.</p>
 
 ## Afdeling 3 Kosten
 
@@ -134,7 +139,17 @@ Na de inschrijving in het definitieve register wijst de voorzitter van het   Col
 
 ### ART. 23.
 
-<P>§ 1. De betekening door de griffier van afschriften van verzoekschriften,   processtukken, overtuigingsstukken en uitspraken voorgeschreven bij of krachtens   het decreet en dit besluit gebeurt kosteloos.<BR></P>  <P>Ongeacht hetgeen bepaald is in het eerste lid, kunnen de partijen en hun   raadsmannen bijkomend aan de griffier een afschrift of uittreksel vragen van   verzoekschriften, het administratief dossier, processtukken, overtuigingsstukken   en uitspraken.<BR></P>  <P>Andere personen dan de personen, vermeld in het tweede lid, kunnen aan de   griffier een afschrift of uittreksel vragen van de uitspraken van het   College.<BR></P>  <P>De vergoeding voor de afgifte of zending van een afschrift of uittreksel   bedraagt 50 eurocent per bladzijde, tenzij het eerste lid bepaalt dat die   afgifte of zending kosteloos is. Als de griffier het afschrift of uittreksel per   post opstuurt, is een aanvullende vergoeding verschuldigd die gelijk is aan de   kosten van het frankeertarief aan het loket van een niet-aangetekende brief van   genormaliseerd formaat.<BR></P>  <P>De gewestelijke stedenbouwkundige ambtenaar, de leidend ambtenaar van het   departement Ruimte Vlaanderen of, bij diens afwezigheid de gemachtigde van die   leidend ambtenaar, die om de afgifte van een afschrift of een uittreksel van een   uitspraak verzoekt, is vrijgesteld van de betaling van de vergoedingen, vermeld   in deze paragraaf.<BR></P>  <P>§ 2. Het verschuldigde bedrag wordt gestort op de rekening van het Fonds   Bestuursrechtscolleges, met de vermelding van het dossiernummer en de naam van   de persoon die het afschrift of uittreksel aanvraagt. Pas na de storting reikt   de griffier het afschrift of het uittreksel uit.<BR></P>
+<p>§ 1. De betekening door de griffier van afschriften van verzoekschriften, processtukken, overtuigingsstukken en uitspraken voorgeschreven bij of krachtens het decreet en dit besluit gebeurt kosteloos.</p>
+
+<p>Ongeacht hetgeen bepaald is in het eerste lid, kunnen de partijen en hun raadsmannen bijkomend aan de griffier een afschrift of uittreksel vragen van verzoekschriften, het administratief dossier, processtukken, overtuigingsstukken en uitspraken.</p>
+
+<p>Andere personen dan de personen, vermeld in het tweede lid, kunnen aan de griffier een afschrift of uittreksel vragen van de uitspraken van het College.</p>
+
+<p>De vergoeding voor de afgifte of zending van een afschrift of uittreksel bedraagt 50 eurocent per bladzijde, tenzij het eerste lid bepaalt dat die afgifte of zending kosteloos is. Als de griffier het afschrift of uittreksel per post opstuurt, is een aanvullende vergoeding verschuldigd die gelijk is aan de kosten van het frankeertarief aan het loket van een niet-aangetekende brief van genormaliseerd formaat.</p>
+
+<p>De&nbsp;gewestelijke omgevingsambtenaar, de leidend ambtenaar van het Departement Ruimte Vlaanderen of van het Departement Leefmilieu, Natuur en Energie, bij afwezigheid, de gemachtigde van die leidend ambtenaar, die om de afgifte van een afschrift of een uittreksel van een uitspraak verzoekt, is vrijgesteld van de betaling van de vergoedingen, vermeld in deze paragraaf.</p>
+
+<p>§ 2. Het verschuldigde bedrag wordt gestort op de rekening van het Fonds Bestuursrechtscolleges, met de vermelding van het dossiernummer en de naam van de persoon die het afschrift of uittreksel aanvraagt. Pas na de storting reikt de griffier het afschrift of het uittreksel uit.</p>
 
 ## Onderafdeling 5 Indexatie
 
@@ -310,7 +325,9 @@ Als het College een verbeterend arrest uitspreekt overeenkomstig artikel   39, �
 
 ### ART. 54.
 
-Dit deel is van toepassing op de beroepen die worden ingediend tegen   vergunningsbeslissingen, valideringsbeslissingen en registratiebeslissingen, als   vermeld in artikel 4.8.2 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei   2009.<BR>
+Dit deel is van toepassing op de beroepen die worden ingediend tegen :<br>
+1° valideringsbeslissingen en registratiebeslissingen, als vermeld in artikel 4.8.2 van de Vlaamse Codex Ruimtelijke Ordening;<br>
+2° vergunningsbeslissingen en aktenames of niet-aktenames van een melding, als vermeld in artikel 105 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
 
 ## HOOFDSTUK 2 Rechtspleging
 
