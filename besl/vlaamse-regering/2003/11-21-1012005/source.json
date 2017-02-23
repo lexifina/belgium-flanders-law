@@ -2,16 +2,16 @@
   "codex_id": 1012005,
   "title": "Besluit van de Vlaamse Regering van 2003-11-21 houdende maatregelen ter uitvoering van het gebiedsgericht natuurbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012005/VolledigDocument?datum=2015-05-01",
-  "source_sha256": "c26795e6762745a7fe6faee3b5f08999251500493faf79174df7a5b1ab34293f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012005/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "2e09ba5d21a2e5b330909da56894a9a05402d4f58bc4b847ede8a0b3793e373e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012005&param=informatie",
-  "as_of": "2015-05-01",
+  "as_of": "2017-02-23",
   "made": "2003-11-21",
   "gazette": "2004-01-27",
   "numac": 2004035094,
   "document_start": "2004-01-01",
   "document_end": null,
-  "in_force": "2015-05-01",
+  "in_force": "2017-02-23",
   "article_versions": 72,
-  "record_form": "consolidated version as in force on 2015-05-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
 }
