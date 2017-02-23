@@ -28,7 +28,7 @@ Wanneer een aangetekende brief onbestelbaar is, wordt de kennisgeving gestuurd a
 
 ### ART. 6.
 
-De bevoegde entiteit kan de toestemming geven om aan waterkeringen, overstromingsbekkens, wachtbekkens en toegangswegen wijzigingen aan te brengen, zoals bedoeld in artikel 11 van het decreet.<br /><br />Als de bevoegde entiteit over een aanvraag tot stedenbouwkundige vergunning of een verkavelingsaanvraag een gunstig advies uitbrengt, wordt dat beschouwd als de toestemming, vermeld in het eerste lid. Artikel 7 is dan niet van toepassing.
+De bevoegde entiteit kan de toestemming geven om aan waterkeringen,   overstromingsbekkens, wachtbekkens en toegangswegen wijzigingen aan te brengen,   zoals bedoeld in artikel 11 van het decreet.<BR><BR>Als de bevoegde entiteit   over een aanvraag tot omgevingsvergunning voor stedenbouwkundige handelingen of   voor het verkavelen van gronden een gunstig advies uitbrengt, wordt dat   beschouwd als de toestemming, vermeld in het eerste lid. Artikel 7 is dan niet   van toepassing.
 
 ### ART. 7.
 

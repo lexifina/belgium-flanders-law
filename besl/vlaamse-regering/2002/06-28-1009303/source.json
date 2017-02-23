@@ -2,16 +2,16 @@
   "codex_id": 1009303,
   "title": "Besluit van de Vlaamse Regering van 2002-06-28 houdende de nadere bepaling van de regels en bevoegdheden voor de uitvoering van het decreet van 16 april 1996 betreffende de waterkeringen op de onbevaarbare waterlopen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009303/VolledigDocument?datum=2012-02-27",
-  "source_sha256": "cb80775fbe639c52b2cba4cdac5b786bb94d2d2a69b7df21c4ccc685457e1a78",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009303/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "ef969d5e7b7e936160587bdce1ce45c5f0b621c3c98764864a3f7e005fa14045",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009303&param=informatie",
-  "as_of": "2012-02-27",
+  "as_of": "2017-02-23",
   "made": "2002-06-28",
   "gazette": "2002-08-01",
   "numac": 2002035958,
   "document_start": null,
   "document_end": null,
-  "in_force": "2012-02-27",
+  "in_force": "2017-02-23",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2012-02-27; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
 }
