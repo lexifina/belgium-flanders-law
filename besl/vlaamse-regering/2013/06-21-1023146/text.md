@@ -118,7 +118,21 @@ De OVAM verleent advies aan de afdeling Mestbank van de bij het decreet   van 21
 
 ### ART. 20.
 
-De aanvraag tot erkenning voor bedrijven als vermeld in artikel 17, eerste   lid, 1° tot en met 6°, bevat, indien van toepassing, minstens de volgende   documenten : <BR>1° een omschrijving van de activiteit, met vermelding van de   categorieën dierlijke bijproducten;<BR>2° de administratieve gegevens van het   bedrijf, namelijk :<BR>a) de naam van de rechtspersoon die de aanvraag   indient;<BR>b) het adres van de aanvrager en in voorkomend geval de   maatschappelijke en administratieve zetels en de exploitatiezetels;<BR>c) de   naam van de natuurlijke persoon die verantwoordelijk is voor de exploitatie van   het bedrijf;<BR>3° de milieuvergunningstoestand;<BR>4° een grondplan met   aanduiding van de verschillende bedrijfsruimtes en procesinstallaties, de reine   en onreine zones en de eventuele scheiding van verschillende categorieën;<BR>5°   een kopie van de schriftelijke procedures op basis van de beginselen van   risicoanalyse en kritieke controlepunten; <BR>6° een stroomschema met een   duidelijke omschrijving van de kritieke controlepunten van de   verwerkingsmethoden, monsternemingen en bacteriële analyses die uitgevoerd   worden door een door de OVAM erkend laboratorium;<BR>7° een noodplan in geval   van overmacht;<BR>8° een procedure voor ijking van de meetapparatuur voor de   verwerkingsparameters en een kopie van de meest recente   ijkingscertificaten;<BR>9° een beschrijving van alle reinigingsprocedures, zowel   voor recipiënten, vrachtwagens als voor bedrijfsruimten;<BR>10° een beschrijving   van het traceersysteem van de materiaalstromen;<BR>11° in voorkomend geval een   overzicht van de effectieve strafrechtelijke veroordelingen voor overtredingen   van de wetgeving op het vlak van milieuhygiëne gedurende de laatste vijf   jaar.<BR>
+De aanvraag tot erkenning voor bedrijven als vermeld in artikel 17, eerste lid, 1° tot en met 6°, bevat, indien van toepassing, minstens de volgende documenten :<br>
+1° een omschrijving van de activiteit, met vermelding van de categorieën dierlijke bijproducten;<br>
+2° de administratieve gegevens van het bedrijf, namelijk :<br>
+a) de naam van de rechtspersoon die de aanvraag indient;<br>
+b) het adres van de aanvrager en in voorkomend geval de maatschappelijke en administratieve zetels en de exploitatiezetels;<br>
+c) de naam van de natuurlijke persoon die verantwoordelijk is voor de exploitatie van het bedrijf;<br>
+3° de toestand betreffende de omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit;<br>
+4° een grondplan met aanduiding van de verschillende bedrijfsruimtes en procesinstallaties, de reine en onreine zones en de eventuele scheiding van verschillende categorieën;<br>
+5° een kopie van de schriftelijke procedures op basis van de beginselen van risicoanalyse en kritieke controlepunten;<br>
+6° een stroomschema met een duidelijke omschrijving van de kritieke controlepunten van de verwerkingsmethoden, monsternemingen en bacteriële analyses die uitgevoerd worden door een door de OVAM erkend laboratorium;<br>
+7° een noodplan in geval van overmacht;<br>
+8° een procedure voor ijking van de meetapparatuur voor de verwerkingsparameters en een kopie van de meest recente ijkingscertificaten;<br>
+9° een beschrijving van alle reinigingsprocedures, zowel voor recipiënten, vrachtwagens als voor bedrijfsruimten;<br>
+10° een beschrijving van het traceersysteem van de materiaalstromen;<br>
+11° in voorkomend geval een overzicht van de effectieve strafrechtelijke veroordelingen voor overtredingen van de wetgeving op het vlak van milieuhygiëne gedurende de laatste vijf jaar.
 
 ### ART. 21.
 
