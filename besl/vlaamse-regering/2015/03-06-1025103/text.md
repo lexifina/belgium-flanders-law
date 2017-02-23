@@ -18,12 +18,12 @@ Besluit :
 
 ### ART. 1.
 
-Ontvoogde gemeenten moeten geen afschriften of kennisgevingen   bezorgen aan het departement Ruimtelijke Ordening, Woonbeleid en Onroerend   Erfgoed van beslissingen en van vergunningsdossiers die betrekking hebben op:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   een aanvraag voor een stedenbouwkundige vergunning die niet onderworpen is aan   een openbaar onderzoek op grond van artikel 3, § 1, 3 en 5 van het besluit van   de Vlaamse Regering van 5 mei 2000 betreffende de openbare onderzoeken over   aanvragen tot stedenbouwkundige vergunning, verkavelingsaanvragen en aanvragen   tot verkavelingswijziging;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   een aanvraag voor een stedenbouwkundige vergunning die onderworpen is aan een   openbaar onderzoek met toepassing van artikel 3, § 3, 13°, of 14°, van het het   besluit van de Vlaamse Regering van 5 mei 2000 betreffende de openbare   onderzoeken over aanvragen tot stedenbouwkundige vergunning,   verkavelingsaanvragen en aanvragen tot   verkavelingswijziging.
+...
 
 ### ART. 2.
 
-Artikel 1 is van toepassing op beslissingen die genomen   worden vanaf de datum van inwerkingtreding van dit besluit.
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor de ruimtelijke ordening, is   belast met de uitvoering van dit besluit.
+...

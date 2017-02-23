@@ -2,16 +2,16 @@
   "codex_id": 1025103,
   "title": "Besluit van de Vlaamse Regering van 2015-03-06 tot bepaling van de gevallen waarin ontvoogde gemeenten geen afschriften of kennisgevingen moeten bezorgen aan het departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025103/VolledigDocument?datum=2015-03-26",
-  "source_sha256": "75a6b73b15a13373bd4fdaf5819edbe9d8ef6297d026dd1f8fdf02251cdcd34b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025103/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "34089bbf889d28d5a35316d71e4a687e54a12799547542f3bf7171ddf5abb66b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025103&param=informatie",
-  "as_of": "2015-03-26",
+  "as_of": "2017-02-23",
   "made": "2015-03-06",
   "gazette": "2015-03-16",
   "numac": 2015035303,
   "document_start": "2015-03-26",
   "document_end": "2017-02-22",
-  "in_force": "2015-03-26",
+  "in_force": "2017-02-23",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2015-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
 }
