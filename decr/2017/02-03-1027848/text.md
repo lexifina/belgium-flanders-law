@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1 Algemene bepaling
 
+### ART 1.
+
+Dit decreet regelt een gewestaangelegenheid.
+
 ## HOOFDSTUK 2 Decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid
 
 ### ART 2.
@@ -35,7 +39,39 @@ In afwijking van het tweede lid mogen deze aanvragen analoog of digitaal worden 
 Als de vergunningverlenende overheid vaststelt dat bepaalde stukken van een analoog ingediende aanvraag digitaal zijn opgesteld, dan kan zij de aanvrager verzoeken deze stukken digitaal te bezorgen. De aanvrager gaat onverwijld op een dergelijk verzoek in.".<br>
 &nbsp;
 
+### ART 5.
+
+In artikel 6.1.1, eerste lid, van dezelfde codex, te vervangen bij decreet van 25 april 2014, wordt het punt 1° vervangen door wat volgt:<br>
+"1° de bij de artikelen 4.2.1 en 4.2.15 bepaalde handelingen hetzij zonder voorafgaande stedenbouwkundige vergunning, verkavelingsvergunning, omgevingsvergunning voor stedenbouwkundige handelingen of omgevingsvergunning voor het verkavelen van gronden, hetzij in strijd met de betreffende vergunning, hetzij na verval, vernietiging of het verstrijken van de termijn van de betreffende vergunning, hetzij in geval van schorsing van de betreffende vergunning, uitvoert, voortzet of in stand houdt;".
+
 ## HOOFDSTUK 4 Decreet van 25 april 2014 betreffende de omgevingsvergunning
+
+### ART 6.
+
+In artikel 14/1 van het decreet van 25 april 2014 betreffende de omgevingsvergunning, ingevoegd bij het decreet van 18 december 2015, wordt het tweede lid vervangen door de volgende leden:<br>
+"De volgende aanvragen, verzoeken of ambtshalve initiatieven of meldingen worden digitaal ingediend: aanvragen, verzoeken of ambtshalve initiatieven of meldingen met betrekking tot:<br>
+1° Vlaamse projecten;<br>
+2° provinciale projecten;<br>
+3° projecten die niet zijn vrijgesteld van de medewerking van een architect;<br>
+4° de exploitatie van een ingedeelde inrichting of activiteit van de eerste of de tweede klasse, als vermeld in artikel 5.2.1 van het DABM;<br>
+5° het verkavelen van gronden;<br>
+6° het bijstellen van een omgevingsvergunning voor het verkavelen van gronden, als deze bijstelling een wijziging van de kavelgrenzen inhoudt.<br>
+<br>
+In afwijking van het tweede lid mogen deze aanvragen analoog of digitaal worden ingediend als deze met toepassing van de geldende taalwetgeving in het Frans mogen worden ingediend.<br>
+<br>
+Als de bevoegde overheid vaststelt dat bepaalde stukken van een analoog ingediende aanvraag, verzoek, melding of administratief beroep digitaal zijn opgesteld, dan kan zij de aanvrager, verzoeker, melder of beroepsindiener verzoeken deze stukken digitaal te bezorgen. Dezen gaan onverwijld op een dergelijk verzoek in.<br>
+<br>
+De Vlaamse Regering kan de lijst, opgenomen in het tweede lid, wijzigen. Zij kan ook nadere regels uitwerken in geval van onbeschikbaarheid wegens technische storingen van het door Vlaanderen ter beschikking gestelde digitaal systeem, en hierbij de termijnen van de procedures, vermeld in dit decreet, opschorten of verlengen voor de duur van de technische storingen.".<br>
+&nbsp;
+
+### ART 7.
+
+In artikel 387 van hetzelfde decreet, gewijzigd bij het decreet van 18 december 2015, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede "of een overname" vervangen door de zinsnede ", een overname of een verzoek tot verlenging overeenkomstig artikel 45ter, § 3, van het decreet van 28 juni 1985 betreffende de milieuvergunning";<br>
+2° in het tweede lid worden de woorden "of wijziging" vervangen door de zinsnede ", wijziging of afwijking";<br>
+3° aan het derde lid worden de volgende zinnen toegevoegd:<br>
+"De vergunningen die voor onbepaalde duur worden verleend, vermelden de geactualiseerde vergunningssituatie. De bijzondere milieuvoorwaarden die als gevolg van hun tijdelijk karakter, van een veranderde exploitatie of van enige wettelijke of reglementaire bepaling geen uitwerking meer hebben, worden in de geactualiseerde vergunningssituatie niet vermeld. De bevoegde overheid bezorgt de voormelde vergunningen aan de afdeling Milieu, bevoegd voor omgevingsvergunning. De Vlaamse Regering kan hierover verdere regels vaststellen.".<br>
+&nbsp;
 
 ### ART 8.
 
@@ -67,3 +103,14 @@ Het verzoek tot aktename, vermeld in het eerste lid, wordt behandeld als volgt:<
 &nbsp;
 
 ## HOOFDSTUK 5 Slotbepalingen
+
+### ART 9.
+
+Artikel 797 van het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning wordt opgeheven.<br>
+&nbsp;
+
+### ART 10.
+
+Dit decreet treedt in werking op 23 februari 2017, met uitzondering van:<br>
+1° artikel 2, 3 en 4 die in werking treden op 22 februari 2017;<br>
+2° artikel 8 dat in werking treedt op 1 februari 2017.
