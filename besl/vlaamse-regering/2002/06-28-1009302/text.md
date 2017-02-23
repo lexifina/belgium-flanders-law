@@ -10,7 +10,7 @@ In dit besluit wordt verstaan onder:<br>
 
 § 1. Voor de berekeningsmethode die aangegeven wordt in artikel 35quinquies, § 1, van de wet van 26 maart 1971, moeten de gegevens met betrekking tot het geloosde afvalwater als volgt worden bepaald:<br>
 1° het in liter uitgedrukte volume van het afvalwater Qd, geloosd in een etmaal tijdens de maand met grootste bedrijvigheid van het jaar dat voorafgaat aan het heffingsjaar, wordt als volgt bepaald:<br>
-a) op basis van meting met behulp van een meetschot, meetgoot of andere debietmeetapparatuur, geïnstalleerd door de heffingsplichtige conform de lozings- of milieuvergunning;<br>
+a) op basis van meting met behulp van een meetschot, meetgoot of andere debietmeetapparatuur, geïnstalleerd door de heffingsplichtige conform de lozingsvergunning of omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit;<br>
 b) ingeval geen meting zoals bedoeld in a) heeft plaatsgevonden in het jaar dat voorafgaat aan het beschouwde heffingsjaar, op basis van het jaarvolume geloosd afvalwater dat bedoeld wordt in artikel 35quinquies, § 1, van de wet van 26 maart 1971, en dat door de heffingsplichtige aangegeven moeten worden:<br>
 Qd = Qj x 1000/W<br>
 <br>
@@ -22,10 +22,10 @@ waarin:<br>
 <br>
 2° het jaarvolume geloosd afvalwater Qj is de hoeveelheid afvalwater Qj, uitgedrukt in kubieke meter, die geloosd is gedurende het jaar dat voorafgaat aan het heffingsjaar;<br>
 3° de parameters ZS, BZV en CZV worden als volgt bepaald:<br>
-a) op basis van debietgebonden monsterneming, uitgevoerd met behulp van een meetschot, meetgoot of andere debietmeetapparatuur, geïnstalleerd door de heffingsplichtige conform de lozings- of milieuvergunning, van het geloosde afvalwater gedurende een aantal etmalen zoals bepaald in artikel 3, § 5, tijdens de maand met de grootste bedrijvigheid in het jaar dat voorafgaat aan het beschouwde heffingsjaar;<br>
+a) op basis van debietgebonden monsterneming, uitgevoerd met behulp van een meetschot, meetgoot of andere debietmeetapparatuur, geïnstalleerd door de heffingsplichtige conform de lozingsvergunning of omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit, van het geloosde afvalwater gedurende een aantal etmalen zoals bepaald in artikel 3, § 5, tijdens de maand met de grootste bedrijvigheid in het jaar dat voorafgaat aan het beschouwde heffingsjaar;<br>
 b) als in het jaar dat voorafgaat aan het heffingsjaar de heffingsplichtige niet beschikte over een meetgoot, meetschot of debietmeetapparatuur, op basis van tijdgebonden monsterneming van het afvalwater gedurende een aantal etmalen zoals bepaald in artikel 3, § 5, tijdens de maand met de grootste bedrijvigheid in het jaar dat voorafgaat aan het beschouwde heffingsjaar, behalve als die door de leidend ambtenaar van de Vlaamse Milieumaatschappij of de door hem gedelegeerde ambtenaar niet als deskundig wordt aanvaard;<br>
 4° de gehaltes aan arseen, cadmium, chroom, koper, kwik, lood, nikkel, zilver, zink, totale stikstof en totale fosfor worden als volgt bepaald:<br>
-a) op basis van debietgebonden monsterneming, van het geloosde afvalwater, uitgevoerd met behulp van een meetschot, meetgoot of andere debietmeetapparatuur, geïnstalleerd door de heffingsplichtige conform de lozings- of milieuvergunning;<br>
+a) op basis van debietgebonden monsterneming, van het geloosde afvalwater, uitgevoerd met behulp van een meetschot, meetgoot of andere debietmeetapparatuur, geïnstalleerd door de heffingsplichtige conform de lozingsvergunning of omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit;<br>
 b) als in het jaar dat voorafgaat aan het heffingsjaar de heffingsplichtige niet beschikte over een meetgoot of debietmeetapparatuur, op basis van tijdgebonden monsterneming behalve als die door de leidend ambtenaar van de Vlaamse Milieumaatschappij of de door hem gedelegeerde ambtenaar niet als deskundig wordt aanvaard;<br>
 c) het gehalte aan zware metalen wordt bepaald na ontsluiting van het watermonster;<br>
 d) wanneer in eenzelfde jaar meerdere monsternemingen werden uitgevoerd, moet voor elk van de in deze paragraaf beschouwde parameters het rekenkundig gemiddelde van de verschillende bemonsteringsresultaten in aanmerking genomen worden.<br>
@@ -93,21 +93,16 @@ De debietmeting, de monsterneming en de analyses die in opdracht van de heffings
 
 ### ART. 7.
 
-§ 1. Voorzover de lozings- of milieuvergunning geen beperking vermeldt voor de maximumhoeveelheid koelwater in aantal kubieke meter per jaar, wordt de hoeveelheid koelwater, bedoeld in artikel 35quinquies, § 1, en in artikel 35septies van de wet van 26 maart 1971 als volgt berekend:<br>
-<br>
+§ 1. Voorzover de lozingsvergunning of omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit geen beperking vermeldt voor de maximumhoeveelheid koelwater in aantal kubieke meter per jaar, wordt de hoeveelheid koelwater, bedoeld in artikel 35quinquies, § 1, en in artikel 35septies van de wet van 26 maart 1971 als volgt berekend:<br>
 k = Qk x W<br>
-<br>
 waarin:<br>
-<br>
 k: de hoeveelheid koelwater in kubieke meter per jaar;<br>
-<br>
 Qk: de maximaal vergunde hoeveelheid koelwater in kubieke meter per dag of als deze waarde niet is bepaald in de lozings- respectievelijk milieuvergunning, de maximaal vergunde hoeveelheid koelwater in kubieke meter per uur, vermenigvuldigd met 24;<br>
-<br>
 W: 225 of het aantal dagen waarop in het jaar dat voorafgaat aan het heffingsjaar koelwater werd geloosd waarvan het bewijs wordt geleverd.<br>
 <br>
 § 2. Van de in § 1 bedoelde berekeningswijze kan worden afgeweken voorzover de heffingsplichtige het bewijs levert van de reëel geloosde hoeveelheid koelwater op basis van dagelijkse debietmetingen in het jaar dat voorafgaat aan het heffingsjaar.<br>
 <br>
-Deze debieten moeten gemeten zijn met behulp van meetapparatuur die geïnstalleerd werd conform de lozings- respectievelijk milieuvergunning.
+Deze debieten moeten gemeten zijn met behulp van meetapparatuur die geïnstalleerd werd conform de lozingsvergunning respectievelijk omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit.
 
 ### ART. 8.
 
