@@ -2,58 +2,20 @@
 
 ### Aanhef
 
-De Vlaamse Regering,<br /><br />Gelet op artikel 4.7.16, § 1, en 4.7.26, § 4, eerste lid, 2°, van de Vlaamse Codex Ruimtelijke Ordening;<br /><br />Gelet op artikel 12/2 van het decreet van 3 maart 1976 tot bescherming van monumenten, stads- en dorpsgezichten;<br /><br />Gelet op het besluit van de Vlaamse Regering van 5 mei 2000 betreffende de adviesverlening inzake aanvragen tot stedenbouwkundige vergunning en verkavelingsaanvragen;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor begroting, gegeven op 25 maart 2009;<br /><br />Gelet op advies 46.438/1 van de Raad van State, gegeven op 19 mei 2009, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br /><br />Op voorstel van de Vlaamse minister van Financiën en Begroting en Ruimtelijke Ordening;<br /><br />Na beraadslaging,<br /><br />Besluit :
+...
 
 ### ART. 1.
 
-De instanties die overeenkomstig artikel 4.7.16, § 1, respectievelijk 4.7.26, § 4, eerste lid, 2°, van de Vlaamse Codex Ruimtelijke Ordening, om advies worden verzocht, zijn :<br>
-1° het agentschap van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed dat belast is met de uitvoering van het beleid inzake onroerend erfgoed, voor de volgende aanvragen :<br>
-a) aanvragen met betrekking tot voorlopig of definitief beschermde monumenten;<br>
-b) aanvragen met betrekking tot percelen die in voorlopig of definitief beschermde stads- en dorpsgezichten of in voorlopig of definitief beschermde cultuurhistorische landschappen liggen;<br>
-c) aanvragen met betrekking tot percelen die in erfgoedlandschappen liggen en die betrekking hebben op :<br>
-1) ...;<br>
-2) percelen die in gemengd openruimtegebied met cultuurhistorische waarde liggen;<br>
-3) het optrekken of plaatsen van een constructie in agrarisch gebied in de ruime zin of in ruimtelijk kwetsbaar gebied;<br>
-4) aanmerkelijke reliëfwijzigingen, het aanleggen of wijzigen van recreatieve terreinen of het gewoonlijk gebruiken, aanleggen of inrichten van een grond als vermeld in artikel 4.2.1, 5°, van de Vlaamse Codex Ruimtelijke Ordening;<br>
-d) ...;<br>
-e) aanvragen met betrekking tot percelen die in voorlopig of definitief beschermde archeologische sites liggen;<br>
-f) aanvragen met betrekking tot goederen die erkend zijn als werelderfgoed of die in de bufferzone van het werelderfgoed liggen, overeenkomstig artikel 11 van de overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld, opgemaakt te Parijs op 16 november 1972, in de volgende gevallen :<br>
-1) als de goederen voorkomen op de lijst van het werelderfgoed;<br>
-2) als de percelen in de bufferzone zoals goedgekeurd door het UNESCO-werelderfgoedcomité liggen op een afstand van minder dan honderd meter van het werelderfgoed;<br>
-3) als de percelen in de bufferzone zoals goedgekeurd door het UNESCO-werelderfgoedcomité&nbsp;liggen op een afstand van meer dan honderd meter van het werelderfgoed, waarbij de constructie een hoogte van meer dan vijftien meter heeft of bereikt;<br>
-g) ...;<br>
-h) ...<br>
-h) ...;<br>
-2° de wegbeheerder voor aanvragen met betrekking tot percelen die gelegen zijn op minder dan 30 meter van het domein van autosnelwegen, hoofdwegen of primaire wegen categorie I volgens het Ruimtelijk Structuurplan Vlaanderen of langs gewest- of provinciewegen;<br>
-3° het Departement Landbouw en Visserij voor de volgende aanvragen :<br>
-a) aanvragen die verband houden met landbouw, ongeacht de bestemming van het gebied;<br>
-b) aanvragen waarbij toepassing wordt gemaakt van de bepalingen van artikel 4.4.3 tot en met 4.4.9, artikel 4.4.23 en artikel 4.4.26, § 2, van de Vlaamse Codex Ruimtelijke Ordening, in gebieden die een agrarische bestemming hebben;<br>
-4° de adviesinstanties, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere regels voor de toepassing van de watertoets, tot aanwijzing van de adviesinstantie en tot vaststelling van nadere regels voor de adviesprocedure bij de watertoets, vermeld in artikel 8 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, in de gevallen, vermeld in artikel 3 van het voormelde besluit;<br>
-5° de provincie, voor zover een machtiging vereist is voor werken van verbetering en werken van wijziging aan onbevaarbare waterlopen van tweede en derde categorie conform artikel 12 en artikel 14 van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen, tenzij de aanvrager reeds over een machtiging beschikt voor die werken;<br>
-6° het Federaal Agentschap voor Nucleaire Controle voor alle aanvragen met betrekking tot bestaande of nieuwe vestigingen van hinderlijke inrichtingen die vallen onder de toepassing van het samenwerkingsakkoord tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de beheersing van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken en die liggen op een afstand van minder dan 2 kilometer van een nucleaire inrichting, die federaal vergund is en die conform artikel 3.1, a), van het koninklijk besluit van 20 juli 2001 houdende algemeen reglement op de bescherming van de bevolking, van de werknemers en het leefmilieu tegen het gevaar van de ioniserende stralingen (ARBIS), is ingedeeld in de klasse I;<br>
-7° ...;<br>
-8° de afdeling Kust van het Agentschap voor Maritieme Dienstverlening en Kust, voor aanvragen met betrekking tot gebieden gelegen zeewaarts van de veiligheidslijn. Deze veiligheidslijn wordt als volgt gedefinieerd :<br>
-a) in bebouwde gebieden is het de meest zeewaartse grens van bewoning;<br>
-b) in onbebouwde gebieden is het de landwaartse grens van de 7m TAW;<br>
-9° het agentschap voor Natuur en Bos voor de volgende aanvragen :<br>
-a) aanvragen in ruimtelijk kwetsbare gebieden;<br>
-b) aanvragen binnen de perimeter van de vogelrichtlijngebieden, met uitzondering van de woongebieden in de ruime zin;<br>
-c) aanvragen in een gebied aangewezen krachtens de Overeenkomst inzake watergebieden die van internationale betekenis zijn, opgemaakt te Ramsar op 2 februari 1971;<br>
-d) aanvragen gelegen binnen de perimeter van de door de Vlaamse Regering voorgestelde habitatgebieden in het kader van de EG-Richtlijn 92/43/EEG van de Raad van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna;<br>
-e) aanvragen in parken en bossen, zoals gedefinieerd in het Bosdecreet, alsmede in gebieden die overeenkomstig de plannen van aanleg of de ruimtelijke uitvoeringsplannen bestemd zijn voor parken en bossen;<br>
-10° de afdeling binnen het departement Leefmilieu, Natuur en Energie die bevoegd is voor natuurlijke rijkdommen voor alle aanvragen gelegen in gebieden die bestemd zijn als ontginningsgebied of een ermee vergelijkbaar gebied;<br>
-11° Infrabel voor aanvragen, gelegen op minder dan 20 meter afstand van de vrije rand van bestaande of geplande spoorlijnen;<br>
-12° het Departement Mobiliteit en Openbare Werken voor alle aanvragen waarbij een mobiliteitstudie bij de aanvraag gevoegd moet worden;<br>
-13° het havenbedrijf, voor alle aanvragen binnen een havengebied waarvan de grenzen zijn vastgesteld overeenkomstig artikel 3, § 1, van het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens.
+<P>...</P>
 
 ### ART. 2.
 
-Het besluit van de Vlaamse Regering van 5 mei 2000 betreffende de adviesverlening inzake aanvragen tot stedenbouwkundige vergunning en verkavelingsaanvragen, gewijzigd bij de besluiten van de Vlaamse Regering van 8 maart 2002 en 23 juni 2006, wordt opgeheven.
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op 1 september 2009.
+...
 
 ### ART. 4.
 
-De Vlaamse minister, bevoegd voor de Ruimtelijke Ordening, is belast met de uitvoering van dit besluit.
+...
