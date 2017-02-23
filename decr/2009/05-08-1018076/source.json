@@ -2,16 +2,16 @@
   "codex_id": 1018076,
   "title": "Decreet van 2009-05-08 houdende vaststelling en realisatie van de [gewestelijke] rooilijnen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018076/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "d6250b8cb749ebe6951c62912a6e11e047f1f1c7dfca5e2da856743b4ae8b167",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018076/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "a01d0f952e5c38e3c0b3a78093862d7a45b26d2ab1a73d5e93201fabf3370ad9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018076&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2017-02-23",
   "made": "2009-05-08",
   "gazette": "2009-07-03",
   "numac": 2009035594,
   "document_start": "2009-07-13",
   "document_end": null,
-  "in_force": "2017-01-01",
+  "in_force": "2017-02-23",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
 }
