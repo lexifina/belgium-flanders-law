@@ -2,16 +2,16 @@
   "codex_id": 1018203,
   "title": "Besluit van de Vlaamse Regering van 2009-05-29 betreffende de dossiersamenstelling van de aanvraag voor een verkavelingsvergunning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018203/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "3a3a88849cb91d2f4f89118d0d0e14c2e36ddbb531360f3fe1c7db63cbc82954",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018203/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "83bb8808a5b4b819b81c6c6aa190091a5ffd6ba11f450358c2502b96a16b97c8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018203&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2017-02-23",
   "made": "2009-05-29",
   "gazette": "2009-08-05",
   "numac": 2009035719,
   "document_start": "2009-09-01",
   "document_end": "2017-02-22",
-  "in_force": "2017-01-01",
+  "in_force": "2017-02-23",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
 }
