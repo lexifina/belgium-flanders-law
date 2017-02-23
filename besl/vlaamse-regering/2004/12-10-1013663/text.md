@@ -10,21 +10,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° decreet:   het d
 
 ### ART. 3.
 
-§ 1. (niet opgenomen)<br>
-<br>
-(Heft op:<br>
-<br>
-1° de artikelen 1, 2, 3, 4, 5, 6, 7, 8, 9, 14, 15, 16, 17, 18, 19, 19bis, 19ter en 20 van het besluit van de Vlaamse Regering van 23 maart 1989 houdende organisatie van de milieueffectrapportage van bepaalde categorieën van hinderlijke inrichtingen;<br>
-<br>
-2° de artikelen 1, 2, 3, 4, 13, 14, 15, 16, 17, 17bis, 17ter en 18 van het besluit van de Vlaamse Regering van 23 maart 1989 houdende bepaling voor het Vlaamse Gewest van de categorieën van werken en handelingen, andere dan hinderlijke inrichtingen, waarvoor een milieueffectrapport is vereist voor de volledigheid van de aanvraag om bouwvergunning)<br>
-<br>
-§ 2. Overeenkomstig artikel 9 van het decreet van 18 december 2002 tot aanvulling van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid met een titel betreffende de milieueffect- en veiligheidsrapportage, is de verplichting tot het uitvoeren van een project-m.e.r. overeenkomstig artikel 4.3.2, § 2, tweede lid van het decreet, niet van toepassing op de inrichtingen met een lopende milieuvergunning die vervalt uiterlijk dertig maanden na de inwerkingtreding van dit besluit en voor zover:<br>
-<br>
-1. de inrichting niet viel onder de toepassing van artikel 3 van het besluit van de Vlaamse Regering van 23 maart 1989 houdende organisatie van de milieueffectrapportage van bepaalde categorieën van hinderlijke inrichtingen;<br>
-<br>
-2. de vergunningsaanvraag geen verandering van het project bevat waarvoor een project-MER kan worden opgelegd overeenkomstig de bepalingen van bijlage II bij dit besluit;<br>
-<br>
-3. de vergunningsaanvraag wordt aangevuld met een bondige beschrijving en beoordeling van de waarschijnlijk aanzienlijke milieueffecten van het project overeenkomstig de in artikel 4.3.7, § 1, 2°, b), opgesomde aspecten.
+§ 1. (niet opgenomen)<BR><BR>(Heft op:<BR><BR>1° de artikelen 1, 2, 3, 4,   5, 6, 7, 8, 9, 14, 15, 16, 17, 18, 19, 19bis, 19ter en 20 van het besluit van de   Vlaamse Regering van 23 maart 1989 houdende organisatie van de   milieueffectrapportage van bepaalde categorieën van hinderlijke   inrichtingen;<BR><BR>2° de artikelen 1, 2, 3, 4, 13, 14, 15, 16, 17, 17bis,   17ter en 18 van het besluit van de Vlaamse Regering van 23 maart 1989 houdende   bepaling voor het Vlaamse Gewest van de categorieën van werken en handelingen,   andere dan hinderlijke inrichtingen, waarvoor een milieueffectrapport is vereist   voor de volledigheid van de aanvraag om bouwvergunning)<BR><BR>§ 2.   Overeenkomstig artikel 9 van het decreet van 18 december 2002 tot aanvulling van   het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid   met een titel betreffende de milieueffect- en veiligheidsrapportage, is de   verplichting tot het uitvoeren van een project-m.e.r. overeenkomstig artikel   4.3.2, § 2, tweede lid van het decreet, niet van toepassing op de inrichtingen   met een lopende&nbsp;omgevingsvergunning   voor de exploitatie van de ingedeelde inrichting of activiteit die   vervalt uiterlijk dertig maanden na de inwerkingtreding van dit besluit en voor   zover:<BR>1. de inrichting niet viel onder de toepassing van artikel 3 van het   besluit van de Vlaamse Regering van 23 maart 1989 houdende organisatie van de   milieueffectrapportage van bepaalde categorieën van hinderlijke   inrichtingen;<BR>2. de vergunningsaanvraag geen verandering van het project   bevat waarvoor een project-MER kan worden opgelegd overeenkomstig de bepalingen   van bijlage II bij dit besluit;<BR>3. de vergunningsaanvraag wordt aangevuld met   een bondige beschrijving en beoordeling van de waarschijnlijk aanzienlijke   milieueffecten van het project overeenkomstig de in artikel 4.3.7, § 1, 2°, b),   opgesomde aspecten.
 
 ### ART. 4.
 
@@ -325,34 +311,34 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 <table class="MsoNormalTable" style="width: 413.6pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="0" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="border-color: black black currentColor; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: black black currentColor; width: 29.05pt; height: 14.2pt;">
 			<p>1</p>
 			</td>
-			<td style="border-color: black black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: black black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">LANDBOUW, BOSBOUW EN AQUACULTUUR</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">a) ...</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">b) Projecten voor het gebruik van niet in cultuur gebrachte gronden of semi-natuurlijke gebieden voor intensieve landbouw voor zover de oppervlakte 15 ha of meer bedraagt en gelegen is in een bijzonder beschermd gebied.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">c)</p>
 
 			<p style="text-align: justify;">° Waterbeheersingsprojecten voor landbouwdoeleinden namelijk:</p>
@@ -365,10 +351,10 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">d)</p>
 
 			<p style="text-align: justify;">° Eerste bebossing voor zover de oppervlakte 10 ha of meer bedraagt.</p>
@@ -377,10 +363,10 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">e) Intensieve veeteeltbedrijven:</p>
 
 			<p style="text-align: justify;">° Stal met 60.000 tot 85.000 plaatsen voor ander gevogelte dan legkippen of met 40.000 tot 60.000 plaatsen voor legkippen, en geheel of gedeeltelijk gelegen in een ander gebied dan ″agrarisch gebied in de ruime zin″.</p>
@@ -399,58 +385,58 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">f) Intensieve aquacultuur van vis met een productiecapaciteit van 1.000 ton levend gewicht per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">g) Landwinning uit zee.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black; width: 29.05pt; height: 14.2pt;">
 			<p>2</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">EXTRACTIEVE BEDRIJVEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">a) Ontginningen in gebieden die volgens de plannen van aanleg of ruimtelijke uitvoeringsplannen bestemd zijn om oppervlaktedelfstoffen of grind te ontginnen en die een ontginbare oppervlakte hebben van 10 ha of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">b) Ondergrondse mijnbouw.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">c) Winning van mineralen door afbaggering van de zee- of rivierbodem met een volume van 100.000 m<sup>3</sup> per jaar of meer of die een aanzienlijke invloed kunnen hebben op een bijzonder beschermd gebied.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">d) Diepboringen, met name:</p>
 
 			<p style="text-align: justify;">- geothermische boringen vanaf een diepte van 500 m,</p>
@@ -461,34 +447,34 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">e) Oppervlakte-installaties van bedrijven voor de winning van ertsen, van bitumineuze schisten en van koolwaterstoffen, zoals gedefinieerd in artikel 2, 2°, van het decreet van 8 mei 2009 betreffende de diepe ondergrond.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>3</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">ENERGIEBEDRIJVEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">a) Industriële installaties voor de productie van elektriciteit, stoom of warm water met uitzondering van kernenergiecentrales, met een warmtevermogen van 100 tot 300 megawatt.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">b)</p>
 
 			<p style="text-align: justify;">° Industriële installaties voor het transport van elektrische energie via bovengrondse leidingen van 150 kV of meer over een lengte van 5 km tot 15 km, of die over een ononderbroken lengte van 1 km of meer in een bijzonder beschermd gebied zijn gelegen.</p>
@@ -501,58 +487,58 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">c) Bovengrondse opslag van aardgas met een opslagcapaciteit van 100.000 m<sup>3</sup> of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">d) Ondergrondse opslag van gasvormige brandstoffen met een opslagcapaciteit van 500.000 m<sup>3</sup> of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">e) Bovengrondse opslag van fossiele brandstoffen met een oppervlakte van 25 ha of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">f) Inrichtingen voor het industrieel briketteren van steenkool en bruinkool met een productiecapaciteit van 100.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">g) Installaties voor de behandeling en de opslag van radioactief afval voor langer dan drie jaar (niet onder bijlage I vallende projecten).</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">h) Installaties voor de productie van hydro-elektrische energie met een (elektrisch) vermogen van 5 megawatt of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">i) Installaties voor het opwekken van elektriciteit door middel van windenergie voorzover de activiteit betrekking heeft:</p>
 
 			<p style="text-align: justify;">- op 20 windturbines of meer, of</p>
@@ -561,34 +547,34 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">j) Installaties voor het afvangen van koolstofdioxidestromen met het oog op geologische opslag overeenkomstig het decreet van 8 mei 2009 betreffende de diepe ondergrond, afkomstig van installaties die niet onder bijlage I vallen.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>4</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">PRODUCTIE EN VERWERKING VAN METALEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">a) Installaties voor de productie van ruwijzer of staal (primaire of secundaire smelting), met inbegrip van continugieten, met een productiecapaciteit van 100.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">b) Installaties voor verwerking van ferrometalen door:</p>
 
 			<p style="text-align: justify;">- warmwalsen,</p>
@@ -603,106 +589,106 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">c) Smelterijen van ferrometalen met een productiecapaciteit van 20 ton per dag of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">d) Installaties voor het smelten (met inbegrip van het legeren), het (vorm)gieten, walsen (koud- en warmwalsen), het trekken van non-ferrometalen, met uitzondering van edele metalen, -inclusief terugwinningsproducten (affineren, vormgieten enz.) -met een productiecapaciteit van 50.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">e) Installaties voor oppervlaktebehandeling van metalen, plastic materiaal en kunststoffen met een elektrolytisch of chemisch procédé, met gebruik van procesbaden met een individuele inhoud van 100 m3 of meer of een productiecapaciteit van 100.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">f) Automobielfabrieken en –assemblagebedrijven en fabrieken van automobielmotoren met een productie-capaciteit van 100.000 stuks per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">g) Scheepswerven met een oppervlakte van 5 ha of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">h) Installaties voor de bouw en reparatie van luchtvaartuigen, als er motoren met een stuwkracht van 500 kN of meer of met een vermogen van 10 MW of meer getest worden, of als de oppervlakte 5 ha of meer bedraagt.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">i) Inrichtingen voor het vervaardigen van spoorwegmaterieel met een oppervlakte van 1 ha of meer, of voor het herstellen ervan met een oppervlakte van 5 ha of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">j) Inrichtingen voor het vervormen van metalen (uitstampen) door middel van springstoffen.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">k) Installaties voor het roosten en sinteren van ertsen.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>5</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">MINERALE INDUSTRIE</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">a) Cokesovenbedrijven (droge distillatie van steenkool).</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">b) Installaties voor de vervaardiging van cement als de productiecapaciteit 150.000 ton per jaar of meer bedraagt.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">c) Installaties voor de winning van asbest en de fabricage van asbestproducten:</p>
 
 			<p style="text-align: justify;">- producten van asbestcement, met een productie van 10.000 tot 20.000 ton eindproducten per jaar,</p>
@@ -713,34 +699,34 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">d) Installaties voor het vervaardigen en behandelen van glas (met inbegrip van glasvezels en de productie van glaswol) of voor het smelten van minerale stoffen (met inbegrip van mineraalvezels) met een productiecapaciteit van 30.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">e) Fabricage van keramische producten door middel van bakken, namelijk dakpannen, bakstenen, vuurvaste stenen, tegels, aardewerk of porselein met een productiecapaciteit van 100.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>6</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">CHEMISCHE INDUSTRIE</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">a) Chemische industrie voor de behandeling van tussenproducten en vervaardiging van chemicaliën:</p>
 
 			<p style="text-align: justify;">° Chemische installaties, voor de productie van organische chemicaliën met een productiecapaciteit van 100.000 ton per jaar of meer.</p>
@@ -765,42 +751,42 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>7</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">VOEDINGS – EN GENOTMIDDELENINDUSTRIE</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">a) Inrichtingen voor het vervaardigen van plantaardige of dierlijke oliën en vetten met een productiecapa-citeit van 60.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">b) Inrichtingen voor het conserveren van dierlijke en/of plantaardige producten met een productiecapaciteit van 100.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">c) Zuivelfabrieken met een productiecapaciteit van 100.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">d)</p>
 
 			<p style="text-align: justify;">° Bierbrouwerijen met een productiecapaciteit van 75 miljoen liter per jaar of meer.</p>
@@ -809,10 +795,10 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">e)</p>
 
 			<p style="text-align: justify;">° Suikerwarenfabrieken met een productiecapaciteit van 90.000 ton per jaar of meer.</p>
@@ -821,122 +807,122 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">f) Installaties voor het slachten van dieren met een verwerkingscapaciteit van 30.000 ton levend gewicht per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">g) Zetmeelfabrieken met een productiecapaciteit van 100.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">h) Vismeel-en visoliefabrieken met een productiecapaciteit van 10.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">i) Suikerfabrieken met een productiecapaciteit van 500 ton per dag of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>8</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">TEXTIEL-LEDER-HOUT EN PAPIERINDUSTRIE</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">a) Industriële installaties voor de fabricage van papier en karton met een productiecapaciteit van 100 tot 200 ton per dag.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">b) Installaties voor de voorbehandeling (zoals wassen, bleken, merceriseren) of het verven van vezels of textiel met een productiecapaciteit van 30.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">c) Installaties voor het looien van huiden met een productiecapaciteit van 1.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">d) Installaties voor het produceren en bewerken van celstof met een productiecapaciteit van 100 ton per dag en meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">e) Houtvezelplaat -, spaanderplaat -, duplex-, triplex-en multiplexfabrieken met een productiecapaciteit van 200 ton per dag en meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>9</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">RUBBERVERWERKENDE INDUSTRIE</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">Inrichtingen voor het vervaardigen en behandelen van producten op basis van elastomeren met een verwerkingscapaciteit van 100.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>10</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">INFRASTRUCTUURPROJECTEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">a) Industrieterreinontwikkeling met een oppervlakte van 50 ha of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">b) Stadsontwikkelingsprojecten, met inbegrip van de bouw van winkelcentra en parkeerterreinen,</p>
 
 			<p style="text-align: justify;">- met betrekking tot de bouw van 1000 of meer woongelegenheden, of</p>
@@ -947,10 +933,10 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">c)</p>
 
 			<p style="text-align: justify;">° Aanleg van spoorwegen met een lengte van 1 tot 10 km, of een ononderbroken lengte van 1 km of meer gelegen in een bijzonder beschermd gebied.</p>
@@ -959,18 +945,18 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">d) Aanleg van vliegvelden, met een start- en landingsbaan van 800 tot 2.100 meter.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">e)</p>
 
 			<p style="text-align: justify;">° Aanleg van wegen met 4 of meer rijstroken over een lengte van 1 km tot 10 km.</p>
@@ -981,55 +967,55 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">f) Aanleg van havens en haveninstallaties, met inbegrip van visserijhavens, waaronder de aanleg van dokken en sluizen.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">g) Aanleg van waterwegen.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">h) ° Werken op of langs niet-kunstmatige bevaarbare waterlopen, namelijk :<br>
 			1) verbreden of verdiepen van de vaargeul;<br>
 			2) aanleg van stuwen.<br>
 			° Werken ter beperking van overstromingen, namelijk :<br>
 			1) aanleg van overstromingsgebieden met een volumecapaciteit van 250.000 m3 of meer;<br>
-			2) aanleg van dijken met een lengte van 500 m of meer.</p>
+			2) aanleg van dijken met een lengte van 500 m of meer.".</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">i) Stuwdammen en andere installaties voor het stuwen of voor de lange termijn opslaan van water met een oppervlakte van 15 ha of meer of met een nuttige inhoud van 1 miljoen m<sup>3</sup> of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">j) Aanleg van infrastructuur voor trams, boven- en ondergrondse spoorwegen, zweefspoor en dergelijke bijzondere constructies, welke uitsluitend of overwegend voor personenvervoer zijn bestemd met een lengte van1kmofmeer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">k) Aanleg in open sleuf van buisleidingen en aanleg van randvoorzieningen behorend bij die buisleidingen die niet gelegen zijn binnen de rooilijnen van een openbare weg, en waarbij een van de volgende voorwaarden vervuld is :<br>
 			1) ten minste 2000 m<sup>2</sup> van de randvoorziening ligt in een bijzonder beschermd gebied;<br>
 			2) de buisleiding heeft een ononderbroken lengte van 1 km of meer in een bijzonder beschermd gebied;<br>
@@ -1037,32 +1023,32 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">l) Aanleg van aquaducten over een lengte van 10 km, of meer of die over een ononderbroken lengte van 1km of meer gelegen zijn in een bijzonder beschermd gebied.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">m)...</td>
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">m)...</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">n) Kustwerken om erosie te bestrijden en maritieme werken die de kust kunnen wijzigen door de aanleg van onder meer dijken, pieren, havenhoofden, havendammen, en andere kustverdedigingswerken, met uitzondering van instandhoudings-, herstel- of onderhoudswerken.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">o) Werken voor het onttrekken of kunstmatig aanvullen van grondwater:</p>
 
 			<p style="text-align: justify;">Onttrekken van grondwater, met inbegrip van terugpompingen van onbehandeld en niet-verontreinigd grondwater in dezelfde watervoerende laag, als het netto onttrokken debiet 2500 m³ per dag of meer bedraagt.</p>
@@ -1075,48 +1061,48 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">p) Projecten voor de overbrenging van water tussen stroomgebieden als deze overbrenging tot doel heeft eventuele waterschaarste te voorkomen en de hoeveelheid overgebracht water 75 miljoen m<sup>3</sup> of meer per jaar bedraagt en het project niet de overbrenging van drinkwater via leidingen betreft.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>11</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">ANDERE PROJECTEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">a) Permanente race -en testbanen voor gemotoriseerde voertuigen met een oppervlakte van5 ha of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">b) Installaties voor de verwijdering van afval:</p>
 
 			<p style="text-align: justify;">° Verwerking van niet-gevaarlijke afvalstoffen in een verbrandingsinstallatie, met uitzondering van biomassa-afval, met een capaciteit van 50 ton per dag tot en met 100 ton per dag.</p>
 
 			<p style="text-align: justify;">° Stortplaatsen van categorie 1 en 2 voor niet-gevaarlijke afvalstoffen.</p>
 
-			<p style="text-align: justify;">° Inrichtingen voor de opslag en fysisch-chemische behandeling van gevaarlijke afvalstoffen voorzover de ermee samenhangende opslag volgens de criteria van rubriek 17.3, bijlage I, titel I van Vlarem is ingedeeld in klasse 1.</p>
+			<p style="text-align: justify;">° Inrichtingen voor de opslag en fysisch-chemische behandeling van gevaarlijke afvalstoffen voorzover de ermee samenhangende opslag volgens de criteria van rubriek 17.3 van de indelingslijst zoals vermeld in artikel 5.2.1, § 1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid is ingedeeld in klasse 1.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">c)</p>
 
 			<p style="text-align: justify;">° Rioolwaterzuiveringsinstallaties met een capaciteit van 50.000 tot 150.000 inwonersequivalenten.</p>
@@ -1125,90 +1111,90 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">d) Slibstortplaatsen met een stortcapaciteit van 250.000 m<sup>3</sup> of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">e) Monostortplaatsen voor baggerspecie of ruimingsspecie, afkomstig van de oppervlaktewateren van het openbaar hydrografisch net met een stortcapaciteit van 250.000 m<sup>3</sup> of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">f) Opslag van schroot met inbegrip van autowrakken als de opslagcapaciteit 10.000 ton of meer of 10.000 voertuigwrakken of meer bedraagt.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">g) Testbanken voor motoren, turbines of reactoren als motoren met een stuwkracht van 500 kN of meer of met een vermogen van 10 MW of meer getest worden.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">h) Installaties voor de vervaardiging van kunstmatige minerale vezels met een productiecapaciteit van 100.000 ton per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">i) Installaties voor de terugwinning of vernietiging van explosieve stoffen.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">j) Vilderijen met een capaciteit van 30.000 ton verwerkt gewicht per jaar of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">k) Inrichtingen bestemd voor de destructie van kadavers met een verwerkingscapaciteit van meer dan 10 ton per dag.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">l) Installaties voor mestbewerking of dierlijke mest per jaar -verwerking met een verwerkingscapaciteit van 100.000 ton of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>12</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">TOERISME EN RECREATIE</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">a) Vakantiedorpen, hotelcomplexen buiten stedelijke zones, permanente kampeer- en caravanterreinen, themaparken, skihellingen, skiliften en kabelspoorwegen, met bijhorende voorzieningen,</p>
 
 			<p style="text-align: justify;">- met een terreinoppervlakte van 5 ha of meer, of</p>
@@ -1217,10 +1203,10 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">b) Jachthavens:</p>
 
 			<p style="text-align: justify;">° Aanleg met 250 of meer vaste ligplaatsen.</p>
@@ -1229,43 +1215,43 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">c) Aanleg van golfterreinen van 9 holes of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>13</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">WIJZIGINGEN EN UITBREIDINGEN VAN PROJECTEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">a) Wijziging of uitbreiding van projecten van bijlage I, II of III, waarvoor reeds een vergunning is afgegeven, die zijn of worden uitgevoerd, wanneer die wijziging of uitbreiding op zich voldoet aan de in bijlage II genoemde drempelwaarden, voor zover deze bestaan (niet in bijlage I opgenomen wijziging of uitbreiding).<br>
 			b) Wijziging of uitbreiding van projecten van bijlage I, II of III, waarvoor reeds een vergunning is afgegeven, die zijn of worden uitgevoerd, wanneer die wijziging of uitbreiding aanleiding geeft tot een overschrijding van de in bijlage II genoemde drempelwaarden (niet in bijlage I of in rubriek 13. a) van bijlage II opgenomen wijziging of uitbreiding). Van deze overschrijding van de drempelwaarde is sprake ofwel als de drempelwaarde van bijlage II voor het eerst wordt overschreden door het samenvoegen van de reeds vergunde en de nog te vergunnen activiteiten (= project) ofwel als de verschillende uitbreidingen samen, sinds de laatst verleende ontheffing of goedgekeurd MER (voor zover deze bestaan), groter zijn dan de drempelwaarde van bijlage II.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>14</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">PROEFPROJECTEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor black black; width: 28.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black; width: 29.05pt; height: 14.2pt;">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
+			<td style="border-color: currentColor black black currentColor; width: 384.55pt; height: 14.2pt;">
 			<p style="text-align: justify;">Projecten van bijlage I die uitsluitend of hoofdzakelijk dienen voor het ontwikkelen en beproeven van nieuwe methoden of producten en die niet langer dan twee jaar worden gebruikt.</p>
 			</td>
 		</tr>
