@@ -26,7 +26,7 @@ Alle producenten en gebruikers, van wie het bedrijf tijdens het kalenderjaar voo
 
 ### ART. 6.
 
-De exploitant van één of meerdere verzamelpunten, bewerkingseenheden of verwerkingseenheden, met een gezamenlijke opslag-, of verwerkingscapaciteit voor dierlijke mest of andere meststoffen, equivalent aan een massa met een difosforpentoxyde-inhoud van meer dan 300 kg per jaar en elke mestvoerder die exporteert, moeten jaarlijks aangifte doen van hun bedrijfssituatie per verzamelpunt, bewerkings- of verwerkingseenheid door middel van een aangifteformulier waarvan het model is vastgesteld door de minister. De exploitanten moeten bij de eerste aangifte, alsook bij iedere wijziging van de milieuvergunning, een kopie van de milieuvergunning voor het verzamelpunt, de bewerkingseenheid of de verwerkingseenheid meesturen.
+De exploitant van één of meerdere verzamelpunten, bewerkingseenheden of   verwerkingseenheden, met een gezamenlijke opslag-, of verwerkingscapaciteit voor   dierlijke mest of andere meststoffen, equivalent aan een massa met een   difosforpentoxyde-inhoud van meer dan 300 kg per jaar en elke mestvoerder die   exporteert, moeten jaarlijks aangifte doen van hun bedrijfssituatie per   verzamelpunt, bewerkings- of verwerkingseenheid door middel van een   aangifteformulier waarvan het model is vastgesteld door de minister. De   exploitanten moeten bij de eerste aangifte, alsook bij iedere wijziging van de   omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of   activiteit, een kopie van de omgevingsvergunning voor de exploitatie van de   ingedeelde inrichting of activiteit voor het verzamelpunt, de bewerkingseenheid   of de verwerkingseenheid meesturen.
 
 ### ART. 7.
 
