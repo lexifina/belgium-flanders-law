@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028098,
+  "title": "Besluit van de Vlaamse Regering van 2017-02-24 tot wijziging van diverse besluiten, wat betreft het beleidsdomein Omgeving",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028098/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "51107a9a22e8c7a3808f80e090cca8bdbeeb477fdf9724f73a0d886d57ba9a4a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028098&param=informatie",
+  "as_of": "2017-02-23",
+  "made": "2017-02-24",
+  "gazette": "2017-03-28",
+  "numac": 2017011360,
+  "document_start": "2017-04-01",
+  "document_end": null,
+  "in_force": "2017-02-23",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2017-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
