@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027830,
+  "title": "Decreet van 2016-12-23 tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming, het decreet van 25 april 2014 betreffende de omgevingsvergunning en het decreet van 25 april 2014 betreffende complexe projecten, wat betreft de milieueffectrapportage van bepaalde openbare en particuliere projecten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027830/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "fff12947e71ffa67ef8b3f8eecae1acac723b96d2ae57147f663c7c7da78ee69",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027830&param=informatie",
+  "as_of": "2017-02-23",
+  "made": "2016-12-23",
+  "gazette": "2017-02-06",
+  "numac": 2017020118,
+  "document_start": "2017-02-23",
+  "document_end": null,
+  "in_force": "2017-02-23",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2017-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
