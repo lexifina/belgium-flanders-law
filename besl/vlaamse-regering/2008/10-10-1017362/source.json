@@ -2,16 +2,16 @@
   "codex_id": 1017362,
   "title": "Besluit van de Vlaamse Regering van 2008-10-10 betreffende nadere regels rond tuinbouw ter uitvoering van het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017362/VolledigDocument?datum=2013-05-04",
-  "source_sha256": "4f7599182a444d359e30092c422ad52e32476e9ff8946b60538b75ca456cf4c6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017362/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "2e5851463b4fe303387ef56ca3165d7e6383e4e4051b164a493bbfebe808dce6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017362&param=informatie",
-  "as_of": "2013-05-04",
+  "as_of": "2017-02-23",
   "made": "2008-10-10",
   "gazette": "2008-12-17",
   "numac": 2008204570,
   "document_start": "2008-12-27",
   "document_end": null,
-  "in_force": "2013-05-04",
+  "in_force": "2017-02-23",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2013-05-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
 }
