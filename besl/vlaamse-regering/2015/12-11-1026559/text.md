@@ -14,6 +14,10 @@
 
 ## HOOFDSTUK 1. Wijzigingen van titel II van het VLAREM
 
+### ART. 8.
+
+...
+
 ## HOOFDSTUK 2. Wijzigingen van titel III van het VLAREM
 
 ### ART. 9.
