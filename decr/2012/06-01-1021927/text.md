@@ -10,7 +10,7 @@ In dit decreet wordt verstaan onder : <br />1° NBN EN 14604 : Belgische norm in
 
 ### ART. 3.
 
-Alle nieuw te bouwen woningen en alle woningen waaraan renovatiewerken worden uitgevoerd waarvoor een stedenbouwkundige vergunning vereist is en waarvoor de stedenbouwkundige vergunning wordt aangevraagd na de inwerkingtreding van dit decreet, moeten met rookmelders geplaatst op de wijze bepaald door de Vlaamse Regering zijn uitgerust.<br /><br />Bij de aanvraag van de stedenbouwkundige vergunning voor de bouw of de uitvoering van de renovatiewerkzaamheden wordt aangegeven waar de rookmelders geplaatst worden.<br /><br />
+Alle nieuw te bouwen woningen en alle woningen waaraan renovatiewerken   worden uitgevoerd waarvoor een omgevingsvergunning voor stedenbouwkundige   handelingen vereist is en waarvoor de omgevingsvergunning voor stedenbouwkundige   handelingen wordt aangevraagd na de inwerkingtreding van dit decreet, moeten met   rookmelders geplaatst op de wijze bepaald door de Vlaamse Regering zijn   uitgerust.<BR><BR>Bij de aanvraag van de omgevingsvergunning voor   stedenbouwkundige handelingen voor de bouw of de uitvoering van de   renovatiewerkzaamheden wordt aangegeven waar de rookmelders geplaatst   worden.<BR><BR>
 
 ### ART. 4.
 
