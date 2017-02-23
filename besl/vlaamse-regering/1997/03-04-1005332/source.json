@@ -2,16 +2,16 @@
   "codex_id": 1005332,
   "title": "Besluit van de Vlaamse Regering van 1997-03-04 houdende delegatie van de bepaling van de vorm van modelformulieren inzake ruimtelijke ordening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005332/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "e256b39ec52e375e3f51262acbb05e903f06069de3231fa8fc96c95497ec506d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005332/VolledigDocument?datum=2017-02-23",
+  "source_sha256": "f6c4054906a80e274d79702a1194354f30d58e0f0ffb703b06ce166b91c0d39d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005332&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2017-02-23",
   "made": "1997-03-04",
   "gazette": "1997-03-15",
   "numac": 1997035357,
   "document_start": null,
   "document_end": "2017-02-22",
-  "in_force": "2006-06-01",
+  "in_force": "2017-02-23",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
 }
