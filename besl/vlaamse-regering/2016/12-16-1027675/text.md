@@ -284,6 +284,16 @@ In artikel 1, 1°, van het besluit van de Vlaamse Regering van 5 juni 2009 tot a
 
 ## HOOFDSTUK 8 Wijzigingen van het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning
 
+### ART 37.
+
+In artikel 13, 1°, b), van het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning worden punt 7) en 8) opgeheven.
+
+### ART 38.
+
+In artikel 35, § 3, van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° worden de woorden "of palen aan" opgeheven;<br>
+2° punt 4° wordt opgeheven.
+
 ## HOOFDSTUK 9 Slotbepalingen
 
 ### ART 39.
