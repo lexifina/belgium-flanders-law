@@ -202,6 +202,12 @@ In artikel 11.2.27, eerste lid, van hetzelfde besluit worden de woorden "De maat
 
 Aan artikel 11.2.28, eerste lid, 8°, van hetzelfde besluit worden de woorden "of de datum van goedkeuring van het kerkenbeleidsplan als dat al aan het agentschap is bezorgd" toegevoegd.
 
+### ART 25.
+
+Artikel 11.2.34, 3°, van hetzelfde besluit, gewijzigd bij besluit van de Vlaamse Regering van 27 november 2015, wordt vervangen door wat volgt:<br>
+"de stedenbouwkundige vergunning of een omgevingsvergunning voor stedenbouwkundige handelingen en het verslag van de brandweer."<br>
+&nbsp;
+
 ### ART 26.
 
 Aan artikel 11.3.5 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 4 december 2015, wordt een punt 5° toegevoegd, dat luidt als volgt:<br>
