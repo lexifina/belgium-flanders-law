@@ -1809,7 +1809,10 @@ Op verzoek van de premienemer kan de toekenning van de erfgoedpremie   worden ui
 
 ### ART. 11.2.34.
 
-Na de ontvangst van de toekenning van de erfgoedpremie dient de   premienemer een gunningsdossier in bij het agentschap. Dat dossier omvat, als   dat van toepassing is:<BR>1° het bestek en de plannen waarop de inschrijvingen   zijn gebaseerd, als de aanvraag, vermeld in artikel 11.2.28, is gewijzigd;<BR>2°   het toewijzingsbesluit, dat rekening houdt met de maatregelen ter bevordering   van de kwaliteit, vermeld in afdeling 5;<BR>3° de omgevingsvergunning voor   stedenbouwkundige handelingen en het verslag van de brandweer.<BR>
+Na de ontvangst van de toekenning van de erfgoedpremie dient de premienemer een gunningsdossier in bij het agentschap. Dat dossier omvat, als dat van toepassing is:<br>
+1° het bestek en de plannen waarop de inschrijvingen zijn gebaseerd, als de aanvraag, vermeld in artikel 11.2.28, is gewijzigd;<br>
+2° het toewijzingsbesluit, dat rekening houdt met de maatregelen ter bevordering van de kwaliteit, vermeld in afdeling 5;<br>
+3° de stedenbouwkundige vergunning of een omgevingsvergunning voor stedenbouwkundige handelingen en het verslag van de brandweer.
 
 ### ART. 11.2.35.
 
