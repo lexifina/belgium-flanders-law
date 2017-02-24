@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027879,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-24 houdende de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 - begrotingsprogramma Hogere entiteiten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027879/VolledigDocument?datum=2017-02-24",
+  "source_sha256": "7d7214c6b06a7f73f0da23078e45d36c25915dd513fa64ba06b0fdaa85025d92",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027879&param=informatie",
+  "as_of": "2017-02-24",
+  "made": "2016-06-24",
+  "gazette": "2017-02-14",
+  "numac": 2017010587,
+  "document_start": "2017-02-24",
+  "document_end": null,
+  "in_force": "2017-02-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-02-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
