@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027880,
+  "title": "Besluit van de Vlaamse Regering van 2017-01-13 betreffende de terugbetaling van reis- en verblijfkosten aan de vertegenwoordigers van de Vlaamse Regering in interfederale en internationale commissies",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027880/VolledigDocument?datum=2017-02-24",
+  "source_sha256": "e0dd391a696329808fd4f1c61630f0227dba9e6827a04d54b51a34021f221302",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027880&param=informatie",
+  "as_of": "2017-02-24",
+  "made": "2017-01-13",
+  "gazette": "2017-02-14",
+  "numac": 2017010575,
+  "document_start": "2017-02-24",
+  "document_end": null,
+  "in_force": "2017-02-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-02-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
