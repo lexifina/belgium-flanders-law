@@ -16,7 +16,11 @@ De Beroepscommissie is samengesteld uit drie leden, die door de Vlaamse minister
 
 ### ART. 3.
 
-De voorzitter van de Beroepscommissie voldoet aan een van de volgende voorwaarden :<br />1° Hij oefent een middenkaderfunctie uit op ten minste het N-1 niveau zoals bepaald in het Vlaams personeelsstatuut van 13 januari 2006 of een andere functie bij een overheidsdienst, die geen lokaal of regionaal bestuur is, van een lidstaat van de Europese unie waarvan de beginwedde minstens gelijk is aan het niveau N-1;<br />2° hij oefent in België een ambt uit van magistraat;<br />3° hij is lid van het academisch personeel en getuigt van deskundigheid inzake publiek recht en bestuurswetenschappen.<br /><br />
+De voorzitter van de Beroepscommissie voldoet aan een van de volgende voorwaarden :<br>
+1° Hij oefent een middenkaderfunctie uit op ten minste het N-1 niveau zoals bepaald in het Vlaams personeelsstatuut van 13 januari 2006 of een andere functie bij een overheidsdienst, die geen lokaal of regionaal bestuur is, van een lidstaat van de Europese unie waarvan de beginwedde minstens gelijk is aan het niveau N-1;<br>
+2° hij oefent in België een ambt van magistraat uit of hij is een gepensioneerde magistraat;<br>
+3° hij is lid van het academisch personeel en getuigt van deskundigheid inzake publiek recht en bestuurswetenschappen.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -46,7 +50,16 @@ Als het nodig is voor de werkzaamheden van de Beroepscommissie kan de Vlaamse mi
 
 ### ART. 10.
 
-§ 1. De voorzitter krijgt een vergoeding van 150 euro per dossier dat door de Beroepscommissie wordt behandeld.<br /><br />Elke assessor krijgt per behandeld dossier een vergoeding van 100 euro. <br /><br />§ 2. De leden van de Beroepscommissie maken aanspraak op de terugbetaling van reis- en verblijfkosten volgens dezelfde regeling die geldt binnen de Vlaamse administratie.<br /><br />
+§ 1. De voorzitter krijgt een vergoeding van 170 euro per dossier dat de Beroepscommissie voor tuchtzaken behandelt.<br>
+<br>
+De assessoren krijgen een vergoeding van 115 euro per dossier dat de Beroepscommissie voor tuchtzaken behandelt.<br>
+<br>
+De bedragen van de forfaitaire vergoedingen worden jaarlijks op 1 juli automatisch aangepast aan het algemene indexcijfer van de consumptieprijzen door de bedragen die van kracht zijn, te vermenigvuldigen met een breuk waarvan de noemer gelijk is aan het gezondheidsindexcijfer van de maand mei van het voorgaande jaar en de teller gelijk is aan het gezondheidsindexcijfer van de maand mei van het lopende jaar.<br>
+<br>
+De vergoeding wordt aangepast volgens de indexverhogingscoëfficiënt die van toepassing is op het moment dat de hoorzitting plaatsvindt.<br>
+<br>
+§ 2. De leden van de Beroepscommissie maken aanspraak op de terugbetaling van reis- en verblijfkosten volgens dezelfde regeling die geldt binnen de Vlaamse administratie.<br>
+&nbsp;
 
 ## HOOFDSTUK III De werking van de Beroepscommissie voor tuchtzaken
 
@@ -64,8 +77,7 @@ Op elk ogenblik van de beroepsprocedure kan de Beroepscommissie aanvullende onde
 
 ### ART. 14.
 
-Met toepassing van artikel 141 van het Gemeentedecreet, artikel 140 van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn en artikel 137 van het Provinciedecreet kan de Beroepscommissie een andere kwalificatie aan de feiten geven en kan een andere tuchtstraf worden opgelegd.<br>
-&nbsp;
+...
 
 ### ART. 15.
 
