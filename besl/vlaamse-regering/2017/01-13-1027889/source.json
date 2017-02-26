@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027889,
+  "title": "Besluit van de Vlaamse Regering van 2017-01-13 houdende wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 15 december 2006 houdende vaststelling van de samenstelling, de vergoeding van de leden en de werking van de Beroepscommissie voor tuchtzaken ter uitvoering van artikel 138 van het Gemeentedecreet, artikel 137 van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn en artikel 134 van het Provinciedecreet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027889/VolledigDocument?datum=2017-02-26",
+  "source_sha256": "a15f0f79fa9797f80a68d0b7e7987ef67d21e678b201c5b8d6774b32f7499eca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027889&param=informatie",
+  "as_of": "2017-02-26",
+  "made": "2017-01-13",
+  "gazette": "2017-02-16",
+  "numac": 2017020175,
+  "document_start": "2017-02-26",
+  "document_end": null,
+  "in_force": "2017-02-26",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-02-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
