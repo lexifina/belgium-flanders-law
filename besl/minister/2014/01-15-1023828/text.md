@@ -11,7 +11,6 @@ De lijst van vervoerders die worden belast met de uitvoering van de   openbaredi
 ### BIJLAGE
 
 &nbsp;Lijst met vervoerders die belast worden met de uitvoering van de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit<br>
-<br>
 &nbsp;
 <table border="1">
 	<tbody>
@@ -124,13 +123,6 @@ De lijst van vervoerders die worden belast met de uitvoering van de   openbaredi
 			<td>Van 01-01-2014 tot 31-12-2018</td>
 		</tr>
 		<tr>
-			<td>Menen</td>
-			<td>B&amp;M ALL SERVICE BVBA</td>
-			<td>0839 082 068</td>
-			<td>Fortem 28 B 8690 Alveringem</td>
-			<td>Van 01-01-2014 tot 31-12-2018</td>
-		</tr>
-		<tr>
 			<td>Midden-Limburg</td>
 			<td>Provincie Limburg</td>
 			<td>0207 725 203</td>
@@ -192,6 +184,43 @@ De lijst van vervoerders die worden belast met de uitvoering van de   openbaredi
 			<td>0207 725 203</td>
 			<td>Universiteitslaan 1 3500 Hasselt</td>
 			<td>Van 01-01-2014 tot 31-12-2018</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Vervoers-<br>
+			gebied</td>
+			<td>Benaming</td>
+			<td>Ondernemings-<br>
+			nummer</td>
+			<td>Adres</td>
+			<td>Contactgegevens</td>
+			<td>Periode van de openbaredienstverplichting</td>
+		</tr>
+		<tr>
+			<td>Menen</td>
+			<td>Mobar vzw</td>
+			<td>0870 940 036</td>
+			<td>Ottergemsesteenweg Zuid 680 9000 Gent</td>
+			<td>Tel: 09 216 20 67<br>
+			Fax: 09 216 80 21<br>
+			E-mail: info@mobar.eu</td>
+			<td>Van 01-01-2017 tot 31-12-2021</td>
+		</tr>
+		<tr>
+			<td>Veurne-Diksmuide</td>
+			<td>Taxi Deroo Bvba</td>
+			<td>0442 383 049</td>
+			<td>Stationsplein 4<br>
+			8660 De Panne</td>
+			<td>Tel: 0475 62 63 35<br>
+			Fax: 058 41 24 23<br>
+			E-mail: eddy@ziekenvervoerderoo.be</td>
+			<td>Van 01-01-2017 tot 31-12-2021</td>
 		</tr>
 	</tbody>
 </table>

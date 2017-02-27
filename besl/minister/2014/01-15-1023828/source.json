@@ -2,16 +2,16 @@
   "codex_id": 1023828,
   "title": "Ministerieel besluit van 2014-01-15 tot vaststelling van de lijst van vervoerders die belast worden met de openbare dienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023828/VolledigDocument?datum=2014-02-23",
-  "source_sha256": "df54300d7a3ca70adb033417051d6ae294697f2a5d14868b33f6c19afa6c603b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023828/VolledigDocument?datum=2017-02-27",
+  "source_sha256": "bb4831a19a52e2c879b9b64cf06577fb72d6ea6373bbe09718a3b0cbc477827e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023828&param=informatie",
-  "as_of": "2014-02-23",
+  "as_of": "2017-02-27",
   "made": "2014-01-15",
   "gazette": "2014-02-13",
   "numac": 2014035154,
   "document_start": "2014-02-23",
   "document_end": null,
-  "in_force": "2014-02-23",
+  "in_force": "2017-02-27",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2014-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-02-27; future article versions excluded; article text as the API gives it"
 }
