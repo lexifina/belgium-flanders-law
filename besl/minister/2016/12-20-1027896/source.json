@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027896,
+  "title": "Ministerieel besluit van 2016-12-20 tot wijziging van de bijlage bij het ministerieel besluit tot vaststelling van de lijst van vervoerders die belast worden met de openbaredienstverplichting tot het vervoer van personen met een handicap of een ernstig beperkte mobiliteit",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027896/VolledigDocument?datum=2017-02-27",
+  "source_sha256": "1c13c4168cf5f936eb0c8b532c97000a7b48c0602576c0f1e0af77419b87a928",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027896&param=informatie",
+  "as_of": "2017-02-27",
+  "made": "2016-12-20",
+  "gazette": "2017-02-17",
+  "numac": 2017010604,
+  "document_start": "2017-02-27",
+  "document_end": null,
+  "in_force": "2017-02-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-02-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
