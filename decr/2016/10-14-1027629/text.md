@@ -321,9 +321,107 @@ Aan artikel 86, eerste lid, van hetzelfde decreet, vervangen bij het decreet van
 "5° het Vlaams Woningfonds;<br>
 6° de sociale verhuurkantoren.".
 
+### ART 39.
+
+In artikel 92 van hetzelfde decreet, vervangen bij het decreet van 15 december 2006 en gewijzigd bij het decreet van 31 mei 2013, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, 3°, wordt de zin "Bij het einde van de proefperiode wordt de huurovereenkomst voortgezet als een huurovereenkomst van onbepaalde duur;" opgeheven;<br>
+2° aan paragraaf 1 wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"De huurders, vermeld in artikel 2, § 1, eerste lid, 34°, a), b) en c), met uitzondering van de inwonende kinderen die meerderjarig worden, ondertekenen de huurovereenkomst. De feitelijke partner die de huurovereenkomst in de hoedanigheid van huurder als vermeld in artikel 2, § 1, eerste lid, 34°, c), heeft ondertekend, hoeft de huurovereenkomst niet opnieuw te ondertekenen als huurder als vermeld in artikel 2, § 1, eerste lid, 34°, b).";<br>
+3° in paragraaf 3, eerste lid, worden punt 1° en 2° vervangen door wat volgt:<br>
+"1° in de sociale huurwoning zijn hoofdverblijfplaats hebben en er gedomicilieerd zijn, in voorkomend geval samen met de aan hem toegewezen minderjarige kinderen;<br>
+2° alleen toestaan dat een persoon op duurzame wijze in de sociale huurwoning komt bijwonen als dat in overeenstemming is met de vereiste, vermeld in artikel 95, § 1, tweede lid, en de duurzame bijwoonst melden aan de verhuurder;";<br>
+4° in paragraaf 3, eerste lid, wordt een punt 2° bis ingevoegd, dat luidt als volgt:<br>
+"2° bis alleen een tijdelijke bijwoonst, waarbij de persoon zijn hoofdverblijfplaats vestigt in de sociale huurwoning of er zich domicilieert, toestaan als dat niet leidt tot een sociale huurwoning die een onaangepaste woning is, en de tijdelijke bijwoonst melden aan de verhuurder;";<br>
+5° in paragraaf 3, eerste lid, 11°, wordt de zinsnede "renovatie- of aanpassingswerkzaamheden" vervangen door de zinsnede "renovatie-, aanpassings- of sloopwerkzaamheden".<br>
+&nbsp;
+
+### ART 40.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 3 juli 2015, wordt een artikel 97bis ingevoegd, dat luidt als volgt:<br>
+"Art. 97bis. § 1. Dit artikel is niet van toepassing op de huurovereenkomsten die sociale verhuurkantoren sluiten.<br>
+<br>
+§ 2. De huurovereenkomsten die gesloten worden vanaf de datum die de Vlaamse Regering bepaalt, hebben een duur van negen jaar.<br>
+<br>
+Als de huurovereenkomst betrekking heeft op een woning waarover de verhuurder geen negen jaar beschikt, bedraagt de duur van de huurovereenkomst de periode waarover de verhuurder beschikt.<br>
+<br>
+De Vlaamse Regering kan uitzonderingen toestaan op de duur van de huurovereenkomst, onder meer voor de tijdelijke opvang van gezinnen die in een noodsituatie verkeren of die wachten op een aangepaste woning, of als er een renovatie van de woning in kwestie gepland is.<br>
+<br>
+In afwijking van het eerste lid wordt een huurovereenkomst gesloten voor onbepaalde duur als de huurder, vermeld in artikel 2, § 1, eerste lid, 34°, a) en b), een nieuwe huurovereenkomst sluit ten gevolge van een verhuizing naar een andere sociale huurwoning van dezelfde verhuurder, of van een andere verhuurder in het kader van een renovatieproject, op voorwaarde dat de initiële huurovereenkomst in werking trad voor de datum, vermeld in het eerste lid.<br>
+<br>
+Als een huurder met een initiële huurovereenkomst die gesloten is na de datum, vermeld in het eerste lid, een nieuwe huurovereenkomst sluit ten gevolge van een verhuizing naar een andere sociale huurwoning van dezelfde verhuurder, mag de duur van die laatste huurovereenkomst, vermeerderd met de duur van de initiële huurovereenkomst, niet langer zijn dan negen jaar of negen jaar, vermeerderd met een aangevatte verlengperiode, met dien verstande dat de nieuwe huurovereenkomst minimaal een duur van drie jaar heeft.<br>
+<br>
+§ 3. De huurovereenkomst neemt een einde bij het verstrijken van de periode van negen jaar als het rekenkundig gemiddelde van het inkomen van de huurder, vermeld in artikel 2, § 1, eerste lid, 34°, dat in aanmerking wordt genomen bij de drie laatste jaarlijkse huurprijsaanpassingen 125% of meer bedraagt van de inkomensgrens die van toepassing is bij de drie laatste jaarlijkse huurprijsaanpassingen.<br>
+<br>
+In afwijking van het eerste lid wordt de duur van negen jaar eenmalig verlengd met drie jaar als er een huurder als vermeld in artikel 2, § 1, eerste lid, 34°, c), in de woning verblijft uitsluitend als de grens, vermeld in het eerste lid, bereikt of overschreden wordt door het in rekening brengen van zijn inkomen.<br>
+<br>
+In afwijking van het eerste en het tweede lid wordt de duur van de huurovereenkomst telkens met drie jaar verlengd als een huurder, vermeld in artikel 2, § 1, eerste lid, 34°, c), mantelzorg als vermeld in artikel 2, 11°, van het Woonzorgdecreet van 13 maart 2009, verleent aan of ontvangt van een huurder als vermeld in artikel 2, § 1, eerste lid, 34°, a) of b), uitsluitend als de grens, vermeld in het eerste lid, bereikt of overschreden wordt door het in rekening brengen van het inkomen van de huurder, vermeld in artikel 2, § 1, eerste lid, 34°, c).<br>
+<br>
+Als de voorwaarde, vermeld in het eerste lid, vervuld is, betekent de verhuurder een opzegging met een opzeggingstermijn van zes maanden waarvan de laatste dag samenvalt met de vervaldag van de huurovereenkomst.<br>
+<br>
+Als de voorwaarde, vermeld in het eerste lid, niet vervuld is, wordt de huurovereenkomst automatisch verlengd voor een duur van drie jaar. De huurovereenkomst wordt vervolgens telkens met drie jaar verlengd als de voorwaarde, vermeld in het eerste lid, niet vervuld is. Als de voorwaarde, vermeld in het eerste lid, vervuld is, betekent de verhuurder een opzegging met een opzeggingstermijn van zes maanden waarvan de laatste dag samenvalt met de vervaldag van een verlengde periode.<br>
+<br>
+De huurder, vermeld in artikel 2, § 1, eerste lid, 34°, a) of b), kan de verhuurder verzoeken om de opzegging in te trekken als:<br>
+1° hij aantoont dat het huidige inkomen van de huurder, vermeld in artikel 2, § 1, eerste lid, 34°, berekend over drie opeenvolgende maanden en geëxtrapoleerd naar twaalf maanden, die voorafgaan aan het moment van het ingaan van de opzeggingstermijn, onder het plafond van 125% ligt;<br>
+2° hij aantoont dat hij zijn pensioen heeft aangevraagd of de wettelijke pensioenleeftijd zal bereiken uiterlijk drie jaar na de vervaldag van de huurovereenkomst en dat hij ten gevolge van de pensionering een inkomen zal hebben dat onder het plafond van 125% ligt;<br>
+3° hij van oordeel is dat de intrekking van de opzegging billijk is wegens redenen die te maken hebben met woonbehoeftigheid.<br>
+<br>
+§ 4. De huurovereenkomst neemt een einde bij het verstrijken van de periode van negen jaar als de huurder een onderbezette woning bewoont en minstens twee aanbiedingen van een woning die aangepast is aan zijn nieuwe gezinssamenstelling in dezelfde omgeving, weigert of geweigerd heeft. De verhuurder betekent een opzegging met een opzeggingstermijn van zes maanden waarvan de laatste dag samenvalt met de vervaldag van de huurovereenkomst. De Vlaamse Regering bepaalt wat wordt verstaan onder onderbezette woning en onder dezelfde omgeving en aan welke voorwaarden de aangeboden woning moet voldoen.<br>
+<br>
+Als de huurder geen onderbezette woning bewoont of hij krijgt geen aangepast aanbod voorafgaand aan de opzegging, wordt de huurovereenkomst automatisch verlengd voor een duur van drie jaar. De huurovereenkomst zal telkens met drie jaar worden verlengd als de voorwaarden, vermeld in het eerste lid, niet vervuld zijn. Als de voorwaarden, vermeld in het eerste lid, vervuld zijn, betekent de verhuurder een opzegging met een opzeggingstermijn van zes maanden waarvan de laatste dag samenvalt met de vervaldag van een verlengde periode.<br>
+<br>
+De huurder kan de verhuurder verzoeken om de opzegging in te trekken als de huurder van oordeel is dat de intrekking van de opzegging billijk is wegens redenen die te maken hebben met woonbehoeftigheid.<br>
+<br>
+§ 5. Als de verhuurder niet ingaat op het verzoek, vermeld in paragraaf 3, zesde lid, en paragraaf 4, derde lid, kan de huurder beroep instellen bij de toezichthouder. De Vlaamse Regering bepaalt de termijnen en de procedure voor het instellen van het verzoek tot intrekking van de opzegging en van het beroep.".<br>
+&nbsp;
+
+### ART 41.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 3 juli 2015, wordt een artikel 97ter ingevoegd, dat luidt als volgt:<br>
+"Art. 97ter. De duur van de huurovereenkomst die een sociaal verhuurkantoor sluit met een huurder, bedraagt negen jaar, tenzij het sociaal verhuurkantoor zelf maar voor een kortere periode over de woning kan beschikken.".<br>
+&nbsp;
+
+### ART 42.
+
+In artikel 98 van hetzelfde decreet, gewijzigd bij de decreten van 15 december 2006, 21 november 2008 en 31 mei 2013, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, worden de woorden "wordt gesloten voor onbepaalde duur en" opgeheven;<br>
+2° in paragraaf 1 wordt tussen het vierde en vijfde lid een lid ingevoegd, dat luidt als volgt:<br>
+"Als de huurovereenkomst opgezegd is conform artikel 97bis, § 3 en § 4, geldt in afwijking van het tweede lid als datum van beëindiging van de huurovereenkomst de vervaldag van de huurovereenkomst of van de verlenging van de huurovereenkomst.";<br>
+3° in paragraaf 1 worden het bestaande zevende en achtste lid opgeheven;<br>
+4° in paragraaf 3, eerste lid, worden de woorden "De verhuurder kan de huurovereenkomst enkel beëindigen" vervangen door de zinsnede "Met behoud van de toepassing van artikel 97bis kan de verhuurder de huurovereenkomst opzeggen";<br>
+5° aan paragraaf 3, eerste lid, wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+"3° als de huurder ingevolge onjuiste of onvolledige verklaringen, afgelegd te kwader trouw, onrechtmatig voordelen, verleend bij de bepalingen van deze titel, heeft genoten of onrechtmatig tot een sociale huurwoning is toegelaten.";<br>
+6° in paragraaf 3, tweede lid, worden de woorden "Bij een ernstige of blijvende tekortkoming" vervangen door de zinsnede "In de gevallen, vermeld in het eerste lid, 2° en 3°, ".<br>
+&nbsp;
+
 ### ART 43.
 
 In artikel 100 van hetzelfde decreet, vervangen bij het decreet van 15 december 2006, wordt de zinsnede "artikel 2, § 1, 22° " vervangen door de zinsnede "artikel 2, § 1, eerste lid, 22° ".<br>
+&nbsp;
+
+### ART 44.
+
+In artikel 102bis van hetzelfde decreet, ingevoegd bij het decreet van 15 december 2006 en gewijzigd bij de decreten van 29 april 2011 en 31 mei 2013, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 3 wordt het eerste lid vervangen door wat volgt:<br>
+"Een administratieve geldboete kan worden opgelegd aan de huurder van een sociale huurwoning die een verplichting als vermeld in artikel 92, § 3, niet naleeft. De administratieve geldboete kan alleen worden opgelegd als de huurder na ingebrekestelling en aanmaning om zijn verplichtingen binnen de opgelegde termijn na te komen, verzuimt om dat te doen. In afwijking daarvan kan voor een inbreuk op de verplichtingen, vermeld in artikel 92, § 3, eerste lid, 1°, 2° en 9°, ook nog een administratieve geldboete worden opgelegd, ook al is de inbreuk al beëindigd.";<br>
+2° in paragraaf 3, tweede lid, wordt vóór de eerste zin een zin ingevoegd, die luidt als volgt:<br>
+"De administratieve geldboete mag niet lager zijn dan 25 euro en niet hoger dan 5000 euro.";<br>
+3° aan paragraaf 3, derde lid, wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+"3° voor het feit in kwestie de verhuurder de opzegging, vermeld in artikel 98, § 3, eerste lid, betekend heeft.";<br>
+4° paragraaf 4 tot en met paragraaf 6 worden vervangen door wat volgt:<br>
+" § 4. Zowel de huurder als de verhuurder wordt van de beslissing tot het opleggen van de administratieve geldboete op de hoogte gebracht met een aangetekende brief met ontvangstbewijs. De kennisgeving vermeldt het bedrag van de administratieve geldboete en, op straffe van nietigheid, de modaliteiten van de verzoekschriftprocedure, vermeld in paragraaf 5.<br>
+<br>
+§ 5. De huurder kan binnen een vervaltermijn van zestig dagen vanaf de derde werkdag die volgt op de datum van de afgifte op de post van de aangetekende brief, vermeld in paragraaf 4, met een gemotiveerd verzoekschrift de administratieve geldboete betwisten en om kwijtschelding, vermindering of uitstel van betaling van de administratieve geldboete vragen. Na het verstrijken van die termijn is de beslissing definitief. De datum van de afgifte op de post voor de verzending van het verzoekschrift geldt als datum van verzending.<br>
+<br>
+Het verzoekschrift wordt op straffe van onontvankelijkheid ingediend met een aangetekende brief en schorst de bestreden beslissing. In het verzoekschrift kan de huurder vragen om mondeling gehoord te worden.<br>
+<br>
+De toezichthouder beslist over het verzoekschrift en verzendt zijn beslissing met een aangetekende brief aan de huurder binnen een vervaltermijn van dertig dagen vanaf de derde werkdag die volgt op de datum van de afgifte op de post van het verzoekschrift, vermeld in het eerste lid. Die termijn wordt verlengd tot zestig dagen als er op verzoek van de huurder een hoorzitting gehouden wordt.<br>
+<br>
+De toezichthouder kan de voormelde termijnen eenmalig verlengen met dertig dagen met een aangetekende brief die gericht is aan de betrokkene.<br>
+<br>
+Als de beslissing niet is verzonden binnen de gestelde termijn, wordt het verzoek geacht te zijn ingewilligd. De datum van de afgifte op de post voor de verzending van de beslissing geldt als datum van verzending.<br>
+<br>
+§ 6. Tegen de beslissing van de toezichthouder, vermeld in paragraaf 5, derde lid, kan de huurder binnen een vervaltermijn van zestig dagen vanaf de derde werkdag die volgt op de datum van de afgifte op de post van de aangetekende brief, vermeld in paragraaf 5, derde lid, beroep aantekenen bij de burgerlijke rechtbank. Dat beroep werkt schorsend.";<br>
+5° in paragraaf 9, 1°, wordt de zinsnede "artikel 92, § 3, 1° " vervangen door de zinsnede "artikel 92, § 3, eerste lid, 1° ".<br>
 &nbsp;
 
 ### ART 45.
