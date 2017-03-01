@@ -20,8 +20,8 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 9° niet-begeleide minderjarige vreemdeling: elke minderjarige, die valt onder de toepassing van titel XIII, hoofdstuk 6, van de programmawet (I) van 24 december 2002;<br>
 10° ouders: de personen die titularis zijn van het ouderlijk gezag of, bij ontstentenis van deze personen, de wettelijke vertegenwoordiger;<br>
 11° opvoedingsverantwoordelijken: de natuurlijke personen, andere dan de ouders, die de minderjarige op duurzame wijze in feite onder hun bewaring hebben of bij wie de minderjarige geplaatst is door bemiddeling of ten laste van een openbare overheid;<br>
-12° jeugdhulpaanbieder: een persoon of een voorziening die jeugdhulpverlening aanbiedt als bedoeld in artikel&nbsp;3 van het decreet integrale jeugdhulp;<br>
-13° jeugdhulpvoorziening: een voorziening die jeugdhulpverlening aanbiedt als bedoeld in artikel&nbsp;3 van het decreet integrale jeugdhulp;<br>
+12° jeugdhulpaanbieder: een persoon of een voorziening die jeugdhulpverlening aanbiedt als bedoeld in artikel&nbsp;3 van het decreet integrale jeugdhulp en een voorziening als bedoeld in artikel 2, 6°, c) en d), van het decreet van 15 juli 1997 houdende oprichting van een Kinderrechtencommissariaat en instelling van het ambt van Kinderrechtencommissaris en houdende oprichting van een Commissie van toezicht met betrekking tot voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren;<br>
+13° jeugdhulpvoorziening: een voorziening die jeugdhulpverlening aanbiedt als bedoeld in artikel&nbsp;3 van het decreet integrale jeugdhulp en een voorziening als bedoeld in artikel 2, 6°, c) en d), van het decreet van 15 juli 1997 houdende oprichting van een Kinderrechtencommissariaat en instelling van het ambt van Kinderrechtencommissaris en houdende oprichting van een Commissie van toezicht met betrekking tot voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren;<br>
 14° jeugdhulpverlener: een persoon die of een team dat binnen een jeugdhulpvoorziening belast is met het verstrekken van jeugdhulpverlening;<br>
 15° toegangspoort: orgaan, bedoeld in artikel 17 van het decreet integrale jeugdhulp;<br>
 16° dossier: alle gegevens die op een systematische wijze met betrekking tot een minderjarige worden verzameld en bijgehouden;<br>
@@ -82,7 +82,11 @@ Als buitengerechtelijke jeugdhulp die past bij de jeugdhulpvraag of jeugdhulpbeh
 
 ### ART. 11.
 
-§ 1. De minderjarige heeft recht op duidelijke, toereikende en voor hem begrijpelijke informatie over de jeugdhulp en over alle zaken die daarmee verband houden, inzonderheid leefregels en afspraken.<br /><br />§ 2. In het belang van de minderjarige, zoals omschreven in artikel 5, kan worden beslist om de minderjarige over bepaalde zaken niet te informeren. Een dergelijke beslissing wordt gemotiveerd en in het dossier van de minderjarige opgenomen. De persoon, bedoeld in artikel 24, heeft het recht over die zaken geïnformeerd te worden.
+§ 1. De minderjarige heeft recht op duidelijke, toereikende en voor hem begrijpelijke informatie over de jeugdhulp en over alle zaken die daarmee verband houden, inzonderheid leefregels en afspraken.<br>
+<br>
+Een voorziening voor vrijheidsbenemende opvang van kinderen en jongeren als bedoeld in artikel 2, 6°, van het decreet van 15 juli 1997 houdende oprichting van een Kinderrechtencommissariaat en instelling van het ambt van Kinderrechtencommissaris en houdende oprichting van een Commissie van toezicht met betrekking tot voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren geeft een kind of een jongere bij zijn opname de informatie die door de Commissie van toezicht met betrekking tot voorzieningen voor vrijheidsbenemende opvang van kinderen en jongeren ter beschikking wordt gesteld.<br>
+<br>
+§ 2. In het belang van de minderjarige, zoals omschreven in artikel 5, kan worden beslist om de minderjarige over bepaalde zaken niet te informeren. Een dergelijke beslissing wordt gemotiveerd en in het dossier van de minderjarige opgenomen. De persoon, bedoeld in artikel 24, heeft het recht over die zaken geïnformeerd te worden.
 
 ### ART. 12.
 
