@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027939,
+  "title": "Besluit van de Vlaamse Regering van 2017-01-13 houdende wijziging van het Energiebesluit van 19 november 2010, wat betreft aanpassingen aan diverse bepalingen inzake de energieprestatieregelgeving",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027939/VolledigDocument?datum=2017-03-01",
+  "source_sha256": "d66e34cda347cd2a35eef0486a17d565b7542b8d9e2390641fb91deb9536d92b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027939&param=informatie",
+  "as_of": "2017-03-01",
+  "made": "2017-01-13",
+  "gazette": "2017-02-23",
+  "numac": 2017020216,
+  "document_start": "2017-03-01",
+  "document_end": null,
+  "in_force": "2017-03-01",
+  "article_versions": 38,
+  "record_form": "consolidated version as in force on 2017-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
