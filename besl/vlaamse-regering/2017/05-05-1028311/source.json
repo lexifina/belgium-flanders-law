@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028311,
+  "title": "Besluit van de Vlaamse Regering van 2017-05-05 tot wijziging van het besluit van de Vlaamse Regering van 9 mei 2014 houdende de agentschapspecifieke regeling van de rechtspositie van het personeel van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, wat betreft de overdracht van personeelsleden van de Sociaal-Economische Raad van Vlaanderen naar de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028311/VolledigDocument?datum=2017-03-01",
+  "source_sha256": "451e5128234c2f62c5e3e5ea4d131638c4936a45b5b2f2176617c4fe8ba1bea1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028311&param=informatie",
+  "as_of": "2017-03-01",
+  "made": "2017-05-05",
+  "gazette": "2017-06-13",
+  "numac": 2017012296,
+  "document_start": "2017-03-01",
+  "document_end": null,
+  "in_force": "2017-03-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
