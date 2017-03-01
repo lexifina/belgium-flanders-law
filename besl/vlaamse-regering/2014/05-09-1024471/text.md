@@ -10,7 +10,29 @@
 
 ### ART. 1.
 
-Met behoud van de toepassing van de definities, vermeld in artikel I 2 van   het Vlaams personeelsstatuut, wordt voor de toepassing van dit besluit verstaan   onder:<BR>1° decreet van 7 mei 2004: het decreet van 7 mei 2004 tot oprichting   van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse   Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<BR>2° besluit van de   Vlaamse Regering van 30 maart 1994: het besluit van de Vlaamse Regering van 30   maart 1994 houdende vaststelling van de rechtspositieregeling van het   instructiepersoneel en het technisch omkaderingspersoneel bij   arbeidsovereenkomst aangeworven bij de Vlaamse Dienst voor Arbeidsbemiddeling en   Beroepsopleiding;<BR>3° besluit van de Vlaamse Regering van 13 juni 2008: het   besluit van de Vlaamse Regering van 13 juni 2008 houdende de   agentschapsspecifieke regeling van de rechtspositie van het personeel van de   Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<BR>4° VDAB: de   Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel   3, § 1, van het decreet van 7 mei 2004;<BR>5° gedelegeerd bestuurder: de   gedelegeerd bestuurder van de VDAB, vermeld in artikel 14 van het decreet van 7   mei 2004;<BR>6° entiteitsoverlegcomité: het basisoverlegcomité van de VDAB,   opgericht met toepassing van artikel 2 van het ministerieel besluit van 27   februari 2007 houdende oprichting van basis- en tussenoverlegcomités en   samenstelling van de overheidsafvaardiging in het Beleidsdomein Werk en Sociale   Economie;<BR>7° instructiepersoneel: het personeel dat in het kader van de taken   van de VDAB op het vlak van competentieontwikkeling is tewerkgesteld in een van   de volgende contractuele betrekkingen:<BR>a) technisch-pedagogisch   directeur-coördinator;<BR>b) technisch-pedagogisch directeur;<BR>c)   technisch-pedagogisch adjunct van de directeur;<BR>d) instructeur;<BR>8°   uitdovend instructiepersoneel: het personeel dat in het kader van de taken van   de VDAB op het vlak van competentieontwikkeling is tewerkgesteld in een van de   volgende uitdovende contractuele betrekkingen, ook vermeld in artikel 8, § 1,   van het besluit van de Vlaamse Regering van 30 maart 1994 zoals van toepassing   vóór de inwerkingtreding van dit besluit:<BR>a) directeur;<BR>b) auditor;<BR>9°   uitdovend technisch omkaderingspersoneel: het personeel dat in het kader van de   taken van de VDAB op het vlak van competentieontwikkeling is tewerkgesteld in   een van de volgende uitdovende contractuele betrekkingen, ook vermeld in artikel   8, § 1, van het besluit van de Vlaamse Regering van 30 maart 1994 zoals van   toepassing vóór de inwerkingtreding van dit besluit:<BR>a) hoofdmagazijnier,   gereedschapsmaker;<BR>b) geschoold onderhoudsarbeider;<BR>c) snijder,   magazijnier;<BR>d) handlanger;<BR>10° occasionele lesgever: het personeelslid   dat in het kader van de taken van de VDAB op het vlak van   competentieontwikkeling is tewerkgesteld met een arbeidsovereenkomst voor een   duidelijk omschreven werk;<BR>11° horizontale mobiliteit binnen de VDAB: de   horizontale mobiliteit waarbij de lijnmanager met toepassing van artikel VI 1   van het Vlaams personeelsstatuut de oproep beperkt tot de personeelsleden van de   VDAB.<BR>
+Met behoud van de toepassing van de definities, vermeld in artikel I 2 van het Vlaams personeelsstatuut, wordt voor de toepassing van dit besluit verstaan onder:<br>
+1° decreet van 7 mei 2004: het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
+2° besluit van de Vlaamse Regering van 30 maart 1994: het besluit van de Vlaamse Regering van 30 maart 1994 houdende vaststelling van de rechtspositieregeling van het instructiepersoneel en het technisch omkaderingspersoneel bij arbeidsovereenkomst aangeworven bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
+3° besluit van de Vlaamse Regering van 13 juni 2008: het besluit van de Vlaamse Regering van 13 juni 2008 houdende de agentschapsspecifieke regeling van de rechtspositie van het personeel van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
+4° VDAB: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 3, § 1, van het decreet van 7 mei 2004;<br>
+5° gedelegeerd bestuurder: de gedelegeerd bestuurder van de VDAB, vermeld in artikel 14 van het decreet van 7 mei 2004;<br>
+6° entiteitsoverlegcomité: het basisoverlegcomité van de VDAB, opgericht met toepassing van artikel 2 van het ministerieel besluit van 27 februari 2007 houdende oprichting van basis- en tussenoverlegcomités en samenstelling van de overheidsafvaardiging in het Beleidsdomein Werk en Sociale Economie;<br>
+7° instructiepersoneel: het personeel dat in het kader van de taken van de VDAB op het vlak van competentieontwikkeling is tewerkgesteld in een van de volgende contractuele betrekkingen:<br>
+a) technisch-pedagogisch directeur-coördinator;<br>
+b) technisch-pedagogisch directeur;<br>
+c) technisch-pedagogisch adjunct van de directeur;<br>
+d) instructeur;<br>
+8° uitdovend instructiepersoneel: het personeel dat in het kader van de taken van de VDAB op het vlak van competentieontwikkeling is tewerkgesteld in een van de volgende uitdovende contractuele betrekkingen, ook vermeld in artikel 8, § 1, van het besluit van de Vlaamse Regering van 30 maart 1994 zoals van toepassing vóór de inwerkingtreding van dit besluit:<br>
+a) directeur;<br>
+b) auditor;<br>
+9° uitdovend technisch omkaderingspersoneel: het personeel dat in het kader van de taken van de VDAB op het vlak van competentieontwikkeling is tewerkgesteld in een van de volgende uitdovende contractuele betrekkingen, ook vermeld in artikel 8, § 1, van het besluit van de Vlaamse Regering van 30 maart 1994 zoals van toepassing vóór de inwerkingtreding van dit besluit:<br>
+a) hoofdmagazijnier, gereedschapsmaker;<br>
+b) geschoold onderhoudsarbeider;<br>
+c) snijder, magazijnier;<br>
+d) handlanger;<br>
+10° occasionele lesgever: het personeelslid dat in het kader van de taken van de VDAB op het vlak van competentieontwikkeling is tewerkgesteld met een arbeidsovereenkomst voor een duidelijk omschreven werk;<br>
+11° horizontale mobiliteit binnen de VDAB: de horizontale mobiliteit waarbij de lijnmanager met toepassing van artikel VI 1 van het Vlaams personeelsstatuut de oproep beperkt tot de personeelsleden van de VDAB;<br>
+12° uitdovende attachés: de personeelsleden met de graad van attaché die op 1 maart 2017 overgedragen worden vanuit de Sociaal-Economische Raad van Vlaanderen naar de VDAB.
 
 ## Afdeling 2 Toepassingsgebied
 
@@ -179,6 +201,22 @@ Het contractuele personeelslid dat op 31 december 2014 wordt bezoldigd in   de s
 De salarisschalen, vermeld in artikel 23 en 30, zijn opgenomen in bijlage   2, die bij dit besluit is gevoegd.<BR>
 
 ## [Onderafdeling 4. Overgangsbepalingen met betrekking tot de uitdovende attachés (ing. BVR 5 mei 2017, art. 2, I: 1 maart 2017)]
+
+### ART 32/1.
+
+De uitdovende attachés behouden de volgende functionele loopbaan:<br>
+Attaché salarisschaal A112<br>
+Na 3 jaar schaalanciënniteit in A112 A122<br>
+Na 6 jaar schaalanciënniteit in A122 A123<br>
+Na 9 jaar schaalanciënniteit in A123 A129
+
+### ART 32/2.
+
+De uitdovende attaché behoudt de compenserende toelage voor koopkrachtverhoging van € 29,00 totdat hij de VDAB vrijwillig verlaat of ontslagen wordt.<br>
+<br>
+De artikelen VII 15 en VII 16 van het Vlaams personeelsstatuut van 13 januari 2006 zijn van toepassing.<br>
+<br>
+De toelage, vermeld in het eerste lid, wordt maandelijks naar rata van de prestaties samen met het salaris betaald.
 
 ## Afdeling 3 Inwerkingtredingsbepaling
 
