@@ -483,7 +483,9 @@ De gegevensuitwisseling, vermeld in het tweede lid, kan alleen plaatsvinden na e
 
 <p>De ambtenaren, vermeld in het tweede lid, maken een verslag op van hun toezichtsbezoek. Als een kopie van het verslag naar de voorziening gestuurd is, hebben deze verslagen bewijswaarde tot het bewijs van het tegendeel.</p>
 
-<p>§ 2. Teneinde de rechtspositie van de minderjarige in de jeugdhulp te garanderen organiseert de Vlaamse Regering, naast het toezicht zoals vermeld in § 1, een extern toezicht op de toegangspoort, het ondersteuningscentrum, de sociale dienst gerechtelijke jeugdhulp en de gemeenschapsinstellingen en een klachtenrecht voor minderjarigen, ouders, opvoedingsverantwoordelijken en vertrouwenspersonen van minderjarigen.<br>
+<p>§ 2. Om de rechtsbescherming van kinderen en jongeren in de jeugdhulp te vrijwaren, organiseert de Vlaamse Regering het volgende met betrekking tot de toegangspoort, de gemandateerde voorzieningen en de sociale dienst gerechtelijke jeugdhulp:<br>
+1° een extern toezicht, naast het toezicht als bedoeld in paragraaf 1;<br>
+2° de klachtenbehandeling voor kinderen en jongeren, ouders, opvoedingsverantwoordelijken en vertrouwenspersonen van kinderen en jongeren.<br>
 <br>
 § 3. In afwijking van de paragrafen 1 en 2, werkt de zorginspectie voor het toezicht samen met de onderwijsinspectie, vermeld in artikel 38, § 1, tweede lid, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, voor zover het een centrum voor leerlingenbegeleiding betreft.</p>
 
