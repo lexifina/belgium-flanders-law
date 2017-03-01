@@ -100,13 +100,13 @@ Het ministerieel besluit van 10 april 2007 betreffende de vaststelling van de ge
 
 ### BIJLAGE 1
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/01/06_1.pdf#page=97">Bijlage   1</A></P>  <P>* In Bijlage 1 worden de volgende wijzigingen aangebracht bij artikel 2 van   het MB van 4 december 2015, B.S. 10 december 2015. Deze wijzigingen zijn van   toepassing op dossiers waarvan de melding of de aanvraag van een   stedenbouwkundige vergunning wordt ingediend vanaf 1 januari 2016. <A   href="http://www.ejustice.just.fgov.be/mopdf/2015/12/10_1.pdf#page=58">Wijzigingen   aan Bijlage 1</A></P>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/02/24_1.pdf#page=169">http://www.ejustice.just.fgov.be/mopdf/2017/02/24_1.pdf#page=169</a>
 
 ### BIJLAGE 2
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2012/12/17_1.pdf#page=61">Bijlage 2</a><br>
 <br>
-Aan bijlage 2&nbsp;wordt een punt 5 toegevoegd, dat luidt als volgt:<br>
+<u>* Aan bijlage 2&nbsp;wordt een punt 5 toegevoegd, dat luidt als volgt:</u><br>
 <br>
 "5. Warmtepomp op waterlus<br>
 <br>
@@ -153,4 +153,77 @@ De voorwaarden waaraan de waterlus moet voldoen om de COP-test te gebruiken bij 
 3° de waterlus moet zich volledig in het gebouw bevinden;<br>
 4° de waterlus bevindt zich op elk moment boven 10° C.<br>
 <br>
-Er moet een stavingstuk worden bijgehouden waarin het voldoen aan de hierboven beschreven voorwaarden wordt aangetoond." (Zie MB 9 september 2016, BS 25 november 2016, art. 11)
+Er moet een stavingstuk worden bijgehouden waarin het voldoen aan de hierboven beschreven voorwaarden wordt aangetoond." (Zie MB 9 september 2016, BS 25 november 2016, art. 11)<br>
+<br>
+<u>* Met ingang van 1 maart 2017 worden aan bijlage 2 de volgende wijzigingen aangebracht:</u><br>
+<br>
+1° In de titel worden de woorden "Bijlage 2 : Specificaties voor de testcondities voor het bepalen van COP<sub>test</sub> en de bepalingen voor het berekenen van de SPF voor warmtepompen met directe warmtewisseling en warmtepompen die oppervlaktewater als warmtebron gebruiken." vervangen door de woorden "Bijlage 2 : Specificaties voor de testcondities voor het bepalen van COP<sub>test</sub> en de bepalingen voor het berekenen van de SPF voor warmtepompen met directe warmtewisseling en warmtepompen die oppervlaktewater, een riolering of het effluent van een rioolwaterzuiveringsinstallatie als warmtebron gebruiken.";<br>
+2° In punt 3 worden de woorden "De verzadigingstemperatuur van het "koelmiddel" overeenkomend met de druk gemeten aan de condensorinlaat wordt <sub>supply,test</sub> genoemd en dient gerapporteerd te worden." vervangen door de woorden "De verzadigingstemperatuur van het "koelmiddel" overeenkomend met de druk gemeten aan de condensorinlaat tijdens de test wordt <sub>supply,test</sub> genoemd en dient gerapporteerd te worden.";<br>
+3° Punt 4 wordt vervangen door :<br>
+"4. Oppervlaktewater, riolering of effluent van een rioolwaterzuiveringsinstallatie als warmtebron<br>
+Indien oppervlaktewater (van rivieren, zeeën, meren, kanalen, enz.), een riolering of het effluent van een rioolwaterzuiveringsinstallatie (riothermie) als warmtebron benut wordt, moet de prestatiecoëfficiënt (coefficient of performance) COP<sub>test</sub> van de warmtepomp voor gebruik in EPW § 10.2.3.3 bij conventie bepaald worden bij de volgende testomstandigheden :<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Warmtebron</td>
+			<td>warmteafvoer</td>
+			<td>testomstandig-heden</td>
+		</tr>
+		<tr>
+			<td rowspan="3" colspan="1">Oppervlaktewater</td>
+			<td>gerecycleerde lucht, eventueel in combinatie met buitenlucht</td>
+			<td>W2*/A20</td>
+		</tr>
+		<tr>
+			<td>enkel buitenlucht, zonder gebruik van een warmteterugwinapparaat</td>
+			<td>W2*/A2</td>
+		</tr>
+		<tr>
+			<td>enkel buitenlucht, met gebruik van een warmteterugwinapparaat</td>
+			<td>W2*/A20</td>
+		</tr>
+		<tr>
+			<td>Oppervlaktewater</td>
+			<td>water</td>
+			<td>W2*/W35</td>
+		</tr>
+		<tr>
+			<td>Oppervlaktewater</td>
+			<td>condensor ingebed in de structuur van het gebouw</td>
+			<td>W2*/DX35</td>
+		</tr>
+		<tr>
+			<td rowspan="3" colspan="1">riolering of effluent van een rioolwaterzuiveringsinstallatie</td>
+			<td>gerecycleerde lucht, eventueel in combinatie met buitenlucht</td>
+			<td>W2*/A20</td>
+		</tr>
+		<tr>
+			<td>enkel buitenlucht, zonder gebruik van een warmteterugwinapparaat</td>
+			<td>W2*/A2</td>
+		</tr>
+		<tr>
+			<td>enkel buitenlucht, met gebruik van een warmteterugwinapparaat</td>
+			<td>W2*/A20</td>
+		</tr>
+		<tr>
+			<td>riolering of effluent van een rioolwaterzuiveringsinstallatie</td>
+			<td>water</td>
+			<td>W2*/W35</td>
+		</tr>
+		<tr>
+			<td>riolering of effluent van een rioolwaterzuiveringsinstallatie</td>
+			<td>condensor ingebed in de structuur van het gebouw</td>
+			<td>W2*/DX35</td>
+		</tr>
+		<tr>
+			<td colspan="3">waarin :<br>
+			*uitlaattemperatuur aan de verdamper ≥ 0° C<br>
+			Alucht als medium (air). Het cijfer erna is de droge bol inlaattemperatuur, in ° C.<br>
+			DXdirecte warmtewisseling (direct exchange). Het cijfer erna is de gemiddelde temperatuur van het vloeistofbad waarin de warmtewisselaar ondergedompeld is, in ° C.<br>
+			Wwater als medium (water). Het cijfer erna is de inlaattemperatuur in de verdamper of de uitlaattemperatuur aan de condensor, in ° C.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+In geval van een condensor ingebed in de structuur van het gebouw gelden voor de berekening van de gemiddelde seizoensprestatiefactor (SPF) dezelfde aanvullende bepalingen als in § 3 vastgelegd. (Zie MB 30 januari 2017, BS 24 februari 2017, art. 18).
