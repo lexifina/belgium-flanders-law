@@ -2,16 +2,16 @@
   "codex_id": 1024943,
   "title": "Ministerieel besluit van 2014-04-25 betreffende de identificatie en registratie van honden",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024943/VolledigDocument?datum=2015-01-30",
-  "source_sha256": "d58a1b312da9ec146877d7bb5f9fde6fa1b171674b5ed8efa99e0e5f6012d147",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024943/VolledigDocument?datum=2017-03-01",
+  "source_sha256": "95c3d7f81c1510afacf798a7fe3bc6857cbb1905b2615dc1e481c9070df31018",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024943&param=informatie",
-  "as_of": "2015-01-30",
+  "as_of": "2017-03-01",
   "made": "2014-04-25",
   "gazette": "2014-06-27",
   "numac": 2014024260,
   "document_start": "2014-12-29",
   "document_end": null,
-  "in_force": "2015-01-30",
+  "in_force": "2017-03-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2015-01-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-03-01; future article versions excluded; article text as the API gives it"
 }
