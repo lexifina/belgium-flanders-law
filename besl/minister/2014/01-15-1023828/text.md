@@ -172,13 +172,6 @@ De lijst van vervoerders die worden belast met de uitvoering van de   openbaredi
 			<td>Van 01-01-2014 tot 31-12-2018</td>
 		</tr>
 		<tr>
-			<td>Wetteren</td>
-			<td>Sint-Lodewijk VZW</td>
-			<td>0861 746 317</td>
-			<td>Kwatrechtsteenweg 168 9230 Wetteren</td>
-			<td>Van 01-01-2014 tot 31-12-2018</td>
-		</tr>
-		<tr>
 			<td>Zuid-Limburg</td>
 			<td>Provincie Limburg</td>
 			<td>0207 725 203</td>
@@ -219,8 +212,63 @@ De lijst van vervoerders die worden belast met de uitvoering van de   openbaredi
 			8660 De Panne</td>
 			<td>Tel: 0475 62 63 35<br>
 			Fax: 058 41 24 23<br>
-			E-mail: eddy@ziekenvervoerderoo.be</td>
+			E-mail: eddy@ziekenvervoerderoo.be<br>
+			&nbsp;</td>
 			<td>Van 01-01-2017 tot 31-12-2021</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Vervoersgebied</td>
+			<td>Benaming</td>
+			<td>Ondernemingsnummer</td>
+			<td>Adres</td>
+			<td>Contactgegevens</td>
+			<td>Periode van de openbaredienstverplichting</td>
+		</tr>
+		<tr>
+			<td>Aalst</td>
+			<td>MOBAR vzw</td>
+			<td>0870 940 036</td>
+			<td>Ottergemsesteenweg Zuid 680 9000 Gent</td>
+			<td>Tel: 09/216 20 67<br>
+			Fax: 09/216 80 21<br>
+			E-mail: info@mobar.eu</td>
+			<td>Van 01-11-2016 tot 31-10-2021</td>
+		</tr>
+		<tr>
+			<td>Brugge</td>
+			<td>MOBAR vzw</td>
+			<td>0870 940 036</td>
+			<td>Ottergemsesteenweg Zuid 680 9000 Gent</td>
+			<td>Tel: 09/216 20 67<br>
+			Fax: 09/216 80 21<br>
+			E-mail: info@mobar.eu</td>
+			<td>Van 01-11-2016 tot 31-10-2021</td>
+		</tr>
+		<tr>
+			<td>Oudenaarde</td>
+			<td>MOBAR vzw</td>
+			<td>0870 940 036</td>
+			<td>Ottergemsesteenweg Zuid 680 9000 Gent</td>
+			<td>Tel: 09/216 20 67<br>
+			Fax: 09/216 80 21<br>
+			E-mail: info@mobar.eu</td>
+			<td>Van 01-11-2016 tot 31-10-2021</td>
+		</tr>
+		<tr>
+			<td>Wetteren</td>
+			<td>MOBAR vzw</td>
+			<td>0870 940 036</td>
+			<td>Ottergemsesteenweg Zuid 680 9000 Gent</td>
+			<td>Tel: 09/216 20 67<br>
+			Fax: 09/216 80 21<br>
+			E-mail: info@mobar.eu</td>
+			<td>Van 01-11-2016 tot 31-10-2021</td>
 		</tr>
 	</tbody>
 </table>
