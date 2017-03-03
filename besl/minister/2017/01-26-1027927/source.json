@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027927,
+  "title": "Ministerieel besluit van 2017-01-26 tot wijziging van het ministerieel besluit van 29 januari 2015 tot het bepalen van het vaccinatieschema voor Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027927/VolledigDocument?datum=2017-03-03",
+  "source_sha256": "8d900820832361936428dcf95cb96a32702ce0204ed0f3acf3c7635b4509e12b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027927&param=informatie",
+  "as_of": "2017-03-03",
+  "made": "2017-01-26",
+  "gazette": "2017-02-21",
+  "numac": 2017010715,
+  "document_start": "2017-03-03",
+  "document_end": null,
+  "in_force": "2017-03-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-03-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
