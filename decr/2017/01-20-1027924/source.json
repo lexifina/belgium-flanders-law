@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027924,
+  "title": "Decreet van 2017-01-20 houdende instemming met het protocol van toetreding van de Regering van de Russische Federatie tot het Verdrag van 16 december 1988 inzake de bouw en werking van de \"European Synchrotron Radiation Facility\" (Europese synchrotronstralingsfaciliteit), ondertekend te Grenoble op 23 juni 2014 en te Parijs op 15 juli 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027924/VolledigDocument?datum=2017-03-03",
+  "source_sha256": "3d0726924979df0d91b9fb581f24301ed38cf42b707ec60ea7d709d132bb80a2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027924&param=informatie",
+  "as_of": "2017-03-03",
+  "made": "2017-01-20",
+  "gazette": "2017-02-21",
+  "numac": 2017020211,
+  "document_start": "2017-03-03",
+  "document_end": null,
+  "in_force": "2017-03-03",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-03-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
