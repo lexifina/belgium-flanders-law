@@ -38,7 +38,11 @@ De geografische uitgestrektheid van de ramp op 23 juni 2016 is beperkt tot de ge
 Provincie Limburg<br>
 Borgloon<br>
 Sint-Truiden<br>
-Wellen
+Wellen<br>
+Provincie Vlaams-Brabant&nbsp;<br>
+Landen<br>
+Linter<br>
+Zoutleeuw
 
 ### ART 3.
 
