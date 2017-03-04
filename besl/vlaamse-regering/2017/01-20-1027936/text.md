@@ -27,6 +27,10 @@ Besluit :<br>
 
 ## HOOFDSTUK 1 Inleidende bepaling
 
+### ART 1.
+
+Dit besluit voorziet in de gedeeltelijke omzetting van richtlijn 2015/653/EU van de Commissie van 24 april 2015 tot wijziging van Richtlijn 2006/126/EG van het Europees Parlement en de Raad betreffende het rijbewijs.
+
 ## HOOFDSTUK 2 Wijzigingen van het koninklijk besluit van 23 maart 1998 betreffende het rijbewijs
 
 ### ART 2.
@@ -51,6 +55,10 @@ In bijlage 6 bij hetzelfde besluit, het laatst gewijzigd bij het koninklijk besl
 
 ## HOOFDSTUK 3 Wijzigingen van het koninklijk besluit van 10 juli 2006 betreffende het rijbewijs voor voertuigen van categorie B
 
+### ART 8.
+
+In artikel 9 van het koninklijk besluit van 10 juli 2006 betreffende het rijbewijs voor voertuigen van categorie B, gewijzigd bij het koninklijk besluit van 4 december 2013, wordt het tweede lid opgeheven.
+
 ## HOOFDSTUK 4 Wijzigingen van het koninklijk besluit van 4 mei 2007 betreffende het rijbewijs, de vakbekwaamheid en de nascholing van bestuurders van voertuigen van de categorieën C1, C1+E, C, C+E, D1, D1+E, D, D+E
 
 ### ART 9.
@@ -67,4 +75,17 @@ Kandidaten met een gehoorhandicap, namelijk dove of slechthorende kandidaten, ku
 
 ## HOOFDSTUK 4 Slotbepalingen
 
+### ART 10.
+
+De artikelen 2, 3, 7 en 9 treden in werking op 1 maart 2017 en de artikelen 4 tot 6 treden in werking op 1 juni 2017.<br>
+&nbsp;
+
+### ART 11.
+
+De Vlaamse minister, bevoegd voor het verkeersveiligheidsbeleid, is belast met de uitvoering van dit besluit.
+
 ## BIJLAGE
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/02/22_2.pdf#page=104">http://www.ejustice.just.fgov.be/mopdf/2017/02/22_2.pdf#page=104</a>
