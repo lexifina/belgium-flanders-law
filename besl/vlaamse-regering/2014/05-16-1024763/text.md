@@ -48,7 +48,19 @@ De verzoekschriften en processtukken moeten op straffe van niet-ontvankelijkheid
 
 ### ART. 8.
 
-<P>§ 1. De partijen bezorgen aan het College alle verzoekschriften en   processtukken met een beveiligde zending, op straffe van   onontvankelijkheid.<BR></P>  <P>De processtukken die aan het College gericht zijn, bevatten een inventaris   van de overtuigingsstukken, die overeenkomstig die inventaris genummerd   zijn.<BR></P>  <P>§ 2. De griffier kan de neerlegging van afschriften van het verzoekschrift,   overtuigingsstukken of processtukken bevelen.<BR></P>  <P>§ 3. Het administratief dossier bevat de bestreden beslissing, de   geïnventariseerde stukken op grond waarvan die beslissing is genomen en in   voorkomend geval een bewijs van de datum van de kennisgeving van de beslissing   door het bestuur aan de verzoeker.<BR></P>  <P>§ 4. De partijen en hun raadsmannen kunnen ter griffie kennis nemen van de   verzoekschriften, het administratief dossier, de processtukken, de   overtuigingsstukken en de uitspraken.<BR></P>
+<p>§ 1. De partijen bezorgen aan het College alle verzoekschriften en processtukken met een beveiligde zending, op straffe van onontvankelijkheid.<br>
+<br>
+De processtukken die aan het College gericht zijn, bevatten een inventaris van de overtuigingsstukken, die overeenkomstig die inventaris genummerd zijn.<br>
+<br>
+Op het ogenblik dat een partij voor de eerste keer een inventaris overmaakt, geeft die partij in de inventaris aan welke delen van de overtuigingsstukken ze wil onttrekken aan de terinzagelegging op de griffie en de redenen daarvoor. De onttrekking kan slechts voor de volgende delen :<br>
+1° de delen uit het project-MER of OVR die niet werden onderworpen aan het openbaar onderzoek;<br>
+2° de delen die als vertrouwelijk moeten worden behandeld.<br>
+<br>
+§ 2. De griffier kan de neerlegging van afschriften van het verzoekschrift, overtuigingsstukken of processtukken bevelen.<br>
+<br>
+§ 3. Het administratief dossier bevat de bestreden beslissing, de geïnventariseerde stukken op grond waarvan die beslissing is genomen en in voorkomend geval een bewijs van de datum van de kennisgeving van de beslissing door het bestuur aan de verzoeker.<br>
+<br>
+§ 4. De partijen en hun raadsmannen kunnen ter griffie kennis nemen van de verzoekschriften, het administratief dossier, de processtukken, de overtuigingsstukken en de uitspraken.</p>
 
 ### ART. 9.
 
