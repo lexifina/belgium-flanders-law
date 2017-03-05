@@ -2,16 +2,16 @@
   "codex_id": 1027943,
   "title": "Besluit van de Vlaamse Regering van 2017-02-10 tot wijziging van diverse besluiten naar aanleiding van de inwerkingtreding van de omgevingsvergunning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027943/VolledigDocument?datum=2017-02-23",
-  "source_sha256": "4367943b32b5a00a4dd0f40ddee1092910678c7631fd584894ea8f2137f71358",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027943/VolledigDocument?datum=2017-03-05",
+  "source_sha256": "696b9481f0f9b64da602038892d66025bea3a838fe6fcab5bc25b0dabf48b025",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027943&param=informatie",
-  "as_of": "2017-02-23",
+  "as_of": "2017-03-05",
   "made": "2017-02-10",
   "gazette": "2017-02-23",
   "numac": 2017010859,
   "document_start": "2017-02-23",
   "document_end": null,
-  "in_force": "2017-02-23",
-  "article_versions": 177,
-  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
+  "in_force": "2017-03-05",
+  "article_versions": 178,
+  "record_form": "consolidated version as in force on 2017-03-05; future article versions excluded; article text as the API gives it"
 }

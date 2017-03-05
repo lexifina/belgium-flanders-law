@@ -1491,6 +1491,14 @@ In artikel 4 van het besluit van de Vlaamse Regering van 16 mei 2014 houdende de
 2° tussen de zinsnede "van 8 juli 2011," en de woorden "en dit besluit" wordt de zinsnede "het decreet van 25 april 2014 betreffende de omgevingsvergunning" ingevoegd.<br>
 &nbsp;
 
+### ART 112.
+
+Aan artikel 8, § 1, van hetzelfde besluit wordt een derde lid toegevoegd, dat luidt als volgt :<br>
+"Op het ogenblik dat een partij voor de eerste keer een inventaris overmaakt, geeft die partij in de inventaris aan welke delen van de overtuigingsstukken ze wil onttrekken aan de terinzagelegging op de griffie en de redenen daarvoor. De onttrekking kan slechts voor de volgende delen :<br>
+1° de delen uit het project-MER of OVR die niet werden onderworpen aan het openbaar onderzoek;<br>
+2° de delen die als vertrouwelijk moeten worden behandeld.".<br>
+&nbsp;
+
 ### ART 113.
 
 In artikel 19, eerste lid, 2°, van hetzelfde besluit, worden de volgende wijzigingen aangebracht :<br>
