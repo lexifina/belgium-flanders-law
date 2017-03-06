@@ -279,10 +279,39 @@ Aan hetzelfde besluit, gewijzigd bij de koninklijke besluiten van 6 april 1995, 
 
 ## HOOFDSTUK 3 Slotbepalingen
 
+### ART 21.
+
+Artikel 1 tot en met 10, artikel 15 en 16, en artikel 18 tot en met 20 treden in werking op 1 maart 2017.
+
+### ART 22.
+
+Artikel 11, 12, 13, 14 en 17 treden in werking op 31 december 2016.
+
+### ART 23.
+
+De Vlaamse minister, bevoegd voor het verkeersveiligheidsbeleid, is belast met de uitvoering van dit besluit.<br>
+&nbsp;
+
 ## BIJLAGE 1
+
+### BIJLAGE 1
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/02/24_1.pdf#page=57">http://www.ejustice.just.fgov.be/mopdf/2017/02/24_1.pdf#page=57</a>
 
 ## BIJAGE 2
 
+### BIJLAGE 2
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/02/24_1.pdf#page=62">http://www.ejustice.just.fgov.be/mopdf/2017/02/24_1.pdf#page=62</a>
+
 ## BIJLAGE 3
 
+### BIJLAGE 3
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/02/24_1.pdf#page=64">http://www.ejustice.just.fgov.be/mopdf/2017/02/24_1.pdf#page=64</a>
+
 ## BIJLAGE 4
+
+### BIJLAGE 4
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/02/24_1.pdf#page=68">http://www.ejustice.just.fgov.be/mopdf/2017/02/24_1.pdf#page=68</a>
