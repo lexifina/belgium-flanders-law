@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027969,
+  "title": "Ministerieel besluit van 2017-02-22 tot opheffing van het ministerieel besluit van 30 november 2016 tot vaststelling van de gebieden waar geen archeologisch erfgoed te verwachten valt",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027969/VolledigDocument?datum=2017-03-10",
+  "source_sha256": "c3865d41e10eec1c61310576750323193456df10a7c8bd7a2456337a7ca0a975",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027969&param=informatie",
+  "as_of": "2017-03-10",
+  "made": "2017-02-22",
+  "gazette": "2017-03-01",
+  "numac": 2017010902,
+  "document_start": "2017-03-10",
+  "document_end": null,
+  "in_force": "2017-03-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-03-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
