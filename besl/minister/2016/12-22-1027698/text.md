@@ -196,13 +196,16 @@ In uitvoering van de herstelplannen, gebeuren de aanlandingen van die vissoorten
 7° voor rog: 50 cm aanvoerlengte;<br>
 8° voor steenbolk: 20 cm aanvoerlengte;<br>
 9° voor gehele zeeduivel: 500 g aanvoergewicht;<br>
-10° voor gekopte zeeduivel: 200 g aanvoergewicht.<br>
+10° voor gekopte zeeduivel: 200 g aanvoergewicht;<br>
+11° voor tong: 25 cm aanvoerlengte.<br>
 <br>
 Het vissen, het aan boord houden en de aanvoer in de havens van de Europese Unie van die in het eerste lid vermelde soorten is verboden, als ze niet de Europese of Vlaamse minimum instandhoudingsreferentiegroottes hebben.<br>
 <br>
 Het verbod in het tweede lid geldt niet voor die soorten die vallen onder de aanlandingsplicht zoals bepaald in de teruggooiplannen van de Noordzee, de noordwestelijke en de zuidwestelijke wateren.<br>
 <br>
 Het aan boord houden en de aanvoer in havens van de Europese Unie van soorten, in een presentatievorm die controle op de minimum instandhoudingsreferentiegroottes in de Europese of Vlaamse wetgeving onmogelijk maakt, is verboden.<br>
+<br>
+In de Belgische visafslagen mag de nationale sortering voor tong, gekend als tong 8, met een productgewicht kleiner dan 120 g, en de nationale sortering voor zeeduivelstaarten, gekend onder zeeduivelstaart 6, met een productgewicht kleiner dan 200 g, niet langer gecommercialiseerd worden. De hoeveelheden van de vangsten die onder deze sortering vallen, mogen niet voor menselijke consumptie verkocht worden en dienen gedenatureerd te worden. De onderste instelling van de automatische sorteermachines, die op de afslagen gebruikt worden, wordt vastgelegd op respectievelijk 120 g voor tong en 200 g voor gekopte zeeduivel.<br>
 <br>
 § 2. Voor de soorten waarvoor geen Europese conversiefactoren vastgesteld zijn, worden volgende conversiefactoren gebruikt voor de berekening van het levend gewicht op basis van het verwerkt gewicht:<br>
 1° factor 1,18 voor gegutte rondvis;<br>
@@ -498,7 +501,9 @@ In afwijking van het eerste en tweede lid worden de maximaal toegelaten vangstho
 <br>
 § 3. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 375 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
-In de periode van 1 januari 2017 tot en met 31 december 2017 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 750 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.
+In de periode van 1 januari 2017 tot en met 31 december 2017 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 750 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+<br>
+§ 4. In de periode van 11 maart 2017 tot en met 31 december 2017 is het in het ICES-gebied VIIe voor een vissersvaartuig verboden bij de golfrogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 40 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dit ICES-gebied.
 
 ## Onderafdeling 6 Andere vissoorten
 
