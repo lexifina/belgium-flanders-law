@@ -70,7 +70,7 @@ In afwijking van het eerste lid kan Kind en Gezin, bij ernstige problemen bij de
 
 ### ART 5.
 
-&nbsp;Het budget voor de subsidie voor werkdrukvermindering voor de organisatoren, vermeld in artikel 8 en 12, bedraagt in totaal&nbsp;4.682.890,18 euro. Het budget voor de subsidie voor werkdrukvermindering voor de organisatoren, vermeld in artikel 19, 24, 27, 31, 35 en 40, bedraagt in totaal 746.240,08 euro.<br>
+&nbsp;Het budget voor de subsidie voor werkdrukvermindering voor de organisatoren, vermeld in artikel 8 en 12, bedraagt in totaal&nbsp;4.682.890,18 euro. Het budget voor de subsidie voor werkdrukvermindering voor de organisatoren, vermeld in artikel 19, 24, 27, 31, 32/1 en 35, bedraagt in totaal 746.240,08 euro.<br>
 <br>
 Het totaalbedrag, vermeld in het eerste lid, wordt geïndexeerd conform artikel 3. Na de indexering wordt het totaalbedrag verdeeld, rekening houdend met de criteria, vermeld in het derde lid, en het aantal voltijdsequivalenten, vermeld in het vierde lid.<br>
 <br>
@@ -237,6 +237,12 @@ Een organisator met een subsidie voor lokale diensten, die geen openbaar bestuur
 &nbsp;Een organisator met een subsidie voor lokale diensten, die een openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering van 28,93 euro per gesubsidieerde opvangplaats.
 
 ## [Afdeling 6. Ex-generatiepact (ing. BVR 6 oktober 2017, art. 14, I: 15 maart 2017)]
+
+### ART 32/1.
+
+Een organisator met een subsidie voor ex-generatiepact, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.<br>
+<br>
+In het eerste lid wordt verstaan onder subsidie voor ex-generatiepact: een subsidie voor buitenschoolse opvang als vermeld in artikel 89/1 tot en met 91 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014.
 
 ## [Afdeling 7. Koopkrachtondersteuning voor organisatoren buitenschoolse opvang die een lokaal of openbaar bestuur zijn (ing. BVR 3 juni 2022, art. 3, I: 1 juli 2021)]
 
