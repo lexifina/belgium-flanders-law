@@ -33,9 +33,24 @@ In hetzelfde besluit wordt een artikel 3/1 ingevoegd dat luidt als volgt:<br>
 In hetzelfde besluit wordt een artikel 3/2 ingevoegd, dat luidt als volgt:<br>
 "Art. 3/2. § 1. De inlichtingen die zijn verstrekt met toepassing van het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van belastingen worden, als dat mogelijk is, elektronisch via het CCN-netwerk verzonden.".
 
+### ART 4.
+
+In hetzelfde besluit wordt aan artikel 3/2, ingevoegd bij artikel 3 van dit besluit, een paragraaf 2 toegevoegd, die luidt als volgt:<br>
+" § 2. De automatische uitwisseling van gegevens, vermeld in artikel 11/1, § 1 en § 2, van het voormeld decreet, gebeurt door de gegevens op te slaan in het beveiligde centrale gegevensbestand als vermeld in artikel 21, lid 5 van richtlijn 2011/16/EU van de Raad van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van de belastingen en tot intrekking van richtlijn 77/799/EEG.".
+
 ### ART 5.
 
 &nbsp;In hetzelfde besluit wordt aan artikel 3/2, § 2, ingevoegd bij artikel 4 van dit besluit, een tweede lid toegevoegd, dat luidt als volgt:<br>
 "In afwachting dat het beveiligde centrale gegevensbestand, vermeld in het eerste lid, operationeel wordt, geldt het volgende:<br>
 1° de automatische uitwisseling van gegevens, vermeld in artikel 11/1, § 1 en § 2, van het voormelde decreet, verloopt conform paragraaf 1;<br>
 2° voor de toepassing van artikel 11/1, § 5, 8°, van het voormelde decreet wordt de ontvangst van de inlichtingen door de bevoegde autoriteit onmiddellijk en in elk geval niet later dan zeven werkdagen na de ontvangst van de inlichtingen, als dat mogelijk is, via elektronische weg aan de verstrekkende autoriteit bevestigd.".
+
+### ART 6.
+
+&nbsp;Dit besluit treedt in werking op de dag na de bekendmaking van voorliggend besluit in het Belgisch Staatsblad.<br>
+<br>
+Artikel 1, 2, 3 en 5 hebben uitwerking met ingang van 1 januari 2017.
+
+### ART 7.
+
+&nbsp;De Vlaamse minister, bevoegd voor de fiscaliteit, is belast met de uitvoering van dit besluit.
