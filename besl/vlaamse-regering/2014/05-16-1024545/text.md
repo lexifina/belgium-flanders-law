@@ -26,7 +26,53 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° afzonderlijke binnenruimte: een   ruimte waar de organisator exclusief buitenschoolse opvang realiseert en die   gescheiden is door wanden van vloer tot plafond van een of meer andere ruimtes   gelegen op dezelfde locatie waarvoor de organisator een vergunning heeft. De   organisator zorgt daarbij voor een gescheiden werking;<BR>2° attest van   toezicht: een attest van toezicht voor buitenschoolse gezinsopvang of   groepsopvang, met uitzondering van het attest van toezicht voor vakantieopvang,   toegekend door Kind en Gezin met toepassing van het Kwaliteitsbesluit   Buitenschoolse Opvang van 16 mei 2014;<BR>3° buitenschoolse opvang: de opvang   van kinderen die naar de basisschool, vermeld in artikel 3, 6°, van het decreet   van 25 februari 1997 betreffende het basisonderwijs, gaan, met uitzondering   van:<BR>a) het verstrekken van onderwijs;<BR>b) de activiteiten van   internaten;<BR>c) de activiteiten van jeugdwerk en van sportdiensten;<BR>d)   jeugdhulp, zoals gedefinieerd in artikel 2, 5°, van het decreet van 7 mei 2004   betreffende de integrale jeugdhulp;<BR>e) het bieden van exclusieve zorg aan   kinderen met een handicap;<BR>f) het bieden van gezondheidszorg aan   kinderen;<BR>g) het passen op kinderen van klanten of bezoekers; <BR>4° dienst   voor onthaalouders: de voorziening die vóór 1 april 2014 erkend was door Kind en   Gezin op basis van het besluit van de Vlaamse Regering van 23 februari 2001   houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven   en diensten voor onthaalouders;<BR>5° equivalentvolle plaats: een opvangplaats   uitgedrukt in een equivalent aan volle plaatsen voor het geheel van alle   opvanglocaties van een organisator met een subsidie voor initiatief   buitenschoolse opvang waarvoor de organisator die subsidie ontvangt. Een volle   plaats is een opvangplaats die op alle volgende tijdstippen wordt ingezet en   waarbij de volgende verdeelsleutel wordt gebruikt voor verhoudingsgewijze   vermindering als de opvangplaats op een beperkt aantal tijdstippen wordt   ingezet:<BR>a) vóór schooltijd: 12,54%; <BR>b) na schooltijd: 25,08%;<BR>c) op   woensdagnamiddag: 14,11%;<BR>d) op schoolvrije dagen: 3,72%;<BR>e) gedurende een   of meer schoolvakanties: 44,55%;<BR>6° erkenning: een erkenning voor   buitenschoolse gezinsopvang of groepsovpang, toegekend door Kind en Gezin met   toepassing van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei   2014;<BR>7° flexibele openingstijden: een openingstijd minstens 30 minuten voor   7 uur, minstens 30 minuten na 18 uur, op een weekenddag, op een feestdag, of,   voor groepsopvang, op een of meerdere dagen boven op de vereiste minimale   openingsdagen;<BR>8° gesubsidieerde opvangplaats: een opvangplaats waarvoor Kind   en Gezin een subsidie betaalt aan de organisator;<BR>9° gezinsopvang: de opvang   buiten de gezinswoning van het kind voor maximaal acht tegelijk aanwezige   kinderen; <BR>10° groepsopvang: de opvang buiten de gezinswoning van het kind   met minimaal negen tegelijk aanwezige kinderen;<BR>11° kinderbegeleider: de   persoon die door de organisator is aangewezen om de kinderen op te voeden, bij   te dragen tot hun ontwikkeling en hen te verzorgen;<BR>12° kinderdagverblijf: de   voorziening die voor 1 april 20014 erkend was door Kind en Gezin op basis van   het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden   inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor   onthaalouders, met uitzondering van de buitenschoolse opvang in aparte   lokalen;<BR>13° minister: de Vlaamse minister, bevoegd voor de bijstand aan   personen;<BR>14° occasionele opvang: de opvang van een kind gedurende een   periode van maximaal zes maanden ongeacht de intensiteit van het gebruik, voor   een van de volgende redenen:<BR>a) de ouder werkt niet en start met een   opleiding;<BR>b) de ouder werkt niet en vindt plots werk; <BR>c) de ouder neemt   deel aan een sollicitatiegesprek;<BR>d) er is een acute crisissituatie in het   gezin; <BR>e) het gezin heeft behoefte aan een korte   draaglastvermindering;<BR>f) voor het kind is om sociale of pedagogische   motieven gedurende de dag opvang en begeleiding buiten het eigen gezin   wenselijk;<BR>15° opvanglocatie: een vestigingsplaats waar buitenschoolse opvang   georganiseerd wordt;<BR>16° opvangprestatie: de aanwezigheid van een kind dat   naar de basisschool gaat per opvangmoment per opvanglocatie;<BR>17° organisator:   de natuurlijke persoon of de rechtspersoon die buitenschoolse opvang   organiseert;<BR>18° subsidie voor inclusieve buitenschoolse opvang: de subsidie   voor de realisatie van opdrachten in het kader van inclusieve buitenschoolse   opvang van kinderen met een specifieke zorgbehoefte. Binnen die subsidie zijn er   drie vormen te onderscheiden:<BR>a) subsidie voor individuele inclusieve   buitenschoolse opvang: de subsidie voor de realisatie van inclusieve   buitenschoolse opvang van een individueel kind met een specifieke zorgbehoefte   voor wie Kind en Gezin een specifieke toekenning van bepaalde duur deed;<BR>b)   subsidie voor structurele inclusieve buitenschoolse opvang: de subsidie voor de   realisatie van de structurele uitbouw van inclusieve buitenschoolse opvang   binnen een opvanglocatie;<BR>c) subsidie voor Centrum inclusieve kinderopvang:   de subsidie voor het voeren van een proactief opnamebeleid, de realisatie van   inclusieve buitenschoolse opvang, de verspreiding van expertise en   sensibiliseren inzake inclusieve buitenschoolse opvang, in samenwerking met   andere actoren die instaan voor inclusie,;<BR>19° subsidieerbare opvangplaats:   een opvangplaats waarvoor de organisator over een beslissing tot toekenning van   een subsidie van Kind en Gezin beschikt; <BR>20° urenpakket: een gesubsidieerd   pakket dat de organisator moet inzetten voor opvang op flexibele   openingstijden;<BR>21° verantwoordelijke: de persoon die instaat voor het   dagelijks regelen van de kwaliteitsvolle werking van de opvanglocatie;<BR>22°   vergunning: een vergunning voor gezinsopvang of groepsopvang, toegekend door   Kind en Gezin met toepassing van het decreet van 20 april 2012 houdende de   organisatie van kinderopvang van baby's en peuters; <BR>23° zelfstandig   kinderdagverblijf: de voorziening aan wie voor 1 april 2014 een subsidie werd   toegekend door Kind en Gezin op basis van het besluit van de Vlaamse Regering   van 30 april 2009 houdende de regeling van inkomensgerelateerde opvang bij   zelfstandige opvangvoorzieningen;<BR>24° zelfstandige onthaalouder: de   voorziening aan wie voor 1 april 2014 een subsidie werd toegekend door Kind en   Gezin op basis van het besluit van de Vlaamse Regering van 30 april 2009   houdende de regeling van inkomensgerelateerde opvang bij zelfstandige   opvangvoorzieningen.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° afzonderlijke binnenruimte: een ruimte waar de organisator exclusief buitenschoolse opvang realiseert en die gescheiden is door wanden van vloer tot plafond van een of meer andere ruimtes gelegen op dezelfde locatie waarvoor de organisator een vergunning heeft. De organisator zorgt daarbij voor een gescheiden werking;<br>
+2° attest van toezicht: een attest van toezicht voor buitenschoolse gezinsopvang of groepsopvang, met uitzondering van het attest van toezicht voor vakantieopvang, toegekend door Kind en Gezin met toepassing van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+3° buitenschoolse opvang: de opvang van kinderen die naar de basisschool, vermeld in artikel 3, 6°, van het decreet van 25 februari 1997 betreffende het basisonderwijs, gaan, met uitzondering van:<br>
+a) het verstrekken van onderwijs;<br>
+b) de activiteiten van internaten;<br>
+c) de activiteiten van jeugdwerk en van sportdiensten;<br>
+d) jeugdhulp, zoals gedefinieerd in artikel 2, 5°, van het decreet van 7 mei 2004 betreffende de integrale jeugdhulp;<br>
+e) het bieden van exclusieve zorg aan kinderen met een handicap;<br>
+f) het bieden van gezondheidszorg aan kinderen;<br>
+g) het passen op kinderen van klanten of bezoekers;<br>
+4° dienst voor onthaalouders: de voorziening die vóór 1 april 2014 erkend was door Kind en Gezin op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders;<br>
+5° equivalentvolle plaats: een opvangplaats uitgedrukt in een equivalent aan volle plaatsen voor het geheel van alle opvanglocaties van een organisator met een subsidie voor initiatief buitenschoolse opvang waarvoor de organisator die subsidie ontvangt. Een volle plaats is een opvangplaats die op alle volgende tijdstippen wordt ingezet en waarbij de volgende verdeelsleutel wordt gebruikt voor verhoudingsgewijze vermindering als de opvangplaats op een beperkt aantal tijdstippen wordt ingezet:<br>
+a) vóór schooltijd: 12,54%;<br>
+b) na schooltijd: 25,08%;<br>
+c) op woensdagnamiddag: 14,11%;<br>
+d) op schoolvrije dagen: 3,72%;<br>
+e) gedurende een of meer schoolvakanties: 44,55%;<br>
+6° erkenning: een erkenning voor buitenschoolse gezinsopvang of groepsovpang, toegekend door Kind en Gezin met toepassing van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+7° flexibele openingstijden: een openingstijd minstens 30 minuten voor 7 uur, minstens 30 minuten na 18 uur, op een weekenddag, op een feestdag, of, voor groepsopvang, op een of meerdere dagen boven op de vereiste minimale openingsdagen;<br>
+8° gesubsidieerde opvangplaats: een opvangplaats waarvoor Kind en Gezin een subsidie betaalt aan de organisator;<br>
+9° gezinsopvang: de opvang buiten de gezinswoning van het kind voor maximaal acht tegelijk aanwezige kinderen;<br>
+10° groepsopvang: de opvang buiten de gezinswoning van het kind met minimaal negen tegelijk aanwezige kinderen;<br>
+11° kinderbegeleider: de persoon die door de organisator is aangewezen om de kinderen op te voeden, bij te dragen tot hun ontwikkeling en hen te verzorgen;<br>
+12° kinderdagverblijf: de voorziening die voor 1 april 20014 erkend was door Kind en Gezin op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders, met uitzondering van de buitenschoolse opvang in aparte lokalen;<br>
+13° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+14° occasionele opvang: de opvang van een kind gedurende een periode van maximaal zes maanden ongeacht de intensiteit van het gebruik, voor een van de volgende redenen:<br>
+a) de ouder werkt niet en start met een opleiding;<br>
+b) de ouder werkt niet en vindt plots werk;<br>
+c) de ouder neemt deel aan een sollicitatiegesprek;<br>
+d) er is een acute crisissituatie in het gezin;<br>
+e) het gezin heeft behoefte aan een korte draaglastvermindering;<br>
+f) voor het kind is om sociale of pedagogische motieven gedurende de dag opvang en begeleiding buiten het eigen gezin wenselijk;<br>
+15° opvanglocatie: een vestigingsplaats waar buitenschoolse opvang georganiseerd wordt;<br>
+16° opvangprestatie: de aanwezigheid van een kind dat naar de basisschool gaat per opvangmoment per opvanglocatie;<br>
+17° organisator: de natuurlijke persoon of de rechtspersoon die buitenschoolse opvang organiseert;<br>
+18° subsidie voor inclusieve buitenschoolse opvang: de subsidie voor de realisatie van opdrachten in het kader van inclusieve buitenschoolse opvang van kinderen met een specifieke zorgbehoefte. Binnen die subsidie zijn er drie vormen te onderscheiden:<br>
+a) subsidie voor individuele inclusieve buitenschoolse opvang: de subsidie voor de realisatie van inclusieve buitenschoolse opvang van een individueel kind met een specifieke zorgbehoefte voor wie Kind en Gezin een specifieke toekenning van bepaalde duur deed;<br>
+b) subsidie voor structurele inclusieve buitenschoolse opvang: de subsidie voor de realisatie van de structurele uitbouw van inclusieve buitenschoolse opvang binnen een opvanglocatie;<br>
+c) subsidie voor Centrum inclusieve kinderopvang: de subsidie voor het voeren van een proactief opnamebeleid, de realisatie van inclusieve buitenschoolse opvang, de verspreiding van expertise en sensibiliseren inzake inclusieve buitenschoolse opvang, in samenwerking met andere actoren die instaan voor inclusie,;<br>
+19° subsidieerbare opvangplaats: een opvangplaats waarvoor de organisator over een beslissing tot toekenning van een subsidie van Kind en Gezin beschikt;<br>
+20° urenpakket: een gesubsidieerd pakket dat de organisator moet inzetten voor opvang op flexibele openingstijden;<br>
+21° verantwoordelijke: de persoon die instaat voor het dagelijks regelen van de kwaliteitsvolle werking van de opvanglocatie;<br>
+22° vergunning: een vergunning voor gezinsopvang of groepsopvang, toegekend door Kind en Gezin met toepassing van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
+22° /1 werknemer in het kader van het generatiepact: een werknemer voor wie een organisator aanspraak kan maken op een tegemoetkoming conform het koninklijk besluit van 27 april 2007 houdende de algemene uitvoeringsbepalingen van de maatregelen ten gunste van tewerkstelling van jongeren in social profitsector voortspruitend uit de wet van 23 december 2005 betreffende het generatiepact;<br>
+23° zelfstandig kinderdagverblijf: de voorziening aan wie voor 1 april 2014 een subsidie werd toegekend door Kind en Gezin op basis van het besluit van de Vlaamse Regering van 30 april 2009 houdende de regeling van inkomensgerelateerde opvang bij zelfstandige opvangvoorzieningen;<br>
+24° zelfstandige onthaalouder: de voorziening aan wie voor 1 april 2014 een subsidie werd toegekend door Kind en Gezin op basis van het besluit van de Vlaamse Regering van 30 april 2009 houdende de regeling van inkomensgerelateerde opvang bij zelfstandige opvangvoorzieningen.
 
 ### ART. 2.
 
@@ -490,17 +536,51 @@ De organisator neemt actief deel aan het begeleidingstraject voor de   uitbouw v
 
 ## [Afdeling 1 Organisatoren van opvanglocaties in het Nederlandse taalgebied (verv. BVR 6 oktober 2017, art. 3, I: 15 maart 2017)]
 
+### ART 89/1.
+
+Een organisator van opvanglocaties in het Nederlandse taalgebied die een tegemoetkoming krijgt of kreeg voor een aantal voltijdsequivalenten van werknemers in het kader van het generatiepact, kan een subsidie voor ex-generatiepact krijgen van Kind en Gezin, conform artikel 89/2 tot en met 89/5.<br>
+<br>
+De subsidie voor ex-generatiepact kan op zijn vroegst worden toegekend vanaf het moment dat een werknemer geen tegemoetkoming meer krijgt in het kader van het generatiepact.<br>
+<br>
+De subsidie voor ex-generatiepact wordt toegekend voor de realisatie van specifieke dienstverlening in een opvanglocatie van de organisator die in dezelfde gemeente ligt als de opvanglocatie waar de werknemer in het kader van het generatiepact werkte.<br>
+<br>
+Als de organisator niet onmiddellijk de opvangplaatsen of de specifieke dienstverlening volgens de subsidievoorwaarden, vermeld in artikel 89/2 of 89/3, kan realiseren, kan hij een voorbehoud van de subsidie vragen. Het voorbehoud geldt uiterlijk tot en met 31 december 2018.
+
+### ART 89/2.
+
+Een organisator met een subsidie voor initiatief buitenschoolse opvang kan per voltijdsequivalent van een werknemer in het kader van het generatiepact een subsidie voor ex-generatiepact voor 6,84 equivalentvolle opvangplaatsen ontvangen als hij voldoet aan de voorwaarden, vermeld in het tweede lid. De subsidie voor ex-generatiepact bedraagt 3265,68 euro per equivalentvolle opvangplaats.<br>
+<br>
+De subsidie voor ex-generatiepact kan alleen toegekend worden voor de opvangplaatsen waarvoor de organisator:<br>
+1° voldoet aan de subsidievoorwaarden, vermeld in artikel 19 en artikel 21 tot en met 31;<br>
+2° geen subsidie voor initiatief buitenschoolse opvang ontvangt.
+
+### ART 89/3.
+
+Een organisator met een subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte kan per voltijdsequivalent van een werknemer in het kader van het generatiepact een subsidie voor ex-generatiepact voor tien opvangplaatsen ontvangen als hij voldoet aan de voorwaarden, vermeld in het tweede lid. De subsidie voor ex-generatiepact bedraagt 2081,06 euro per opvangplaats.<br>
+<br>
+De subsidie voor ex-generatiepact kan alleen toegekend worden voor de opvangplaatsen waarvoor de organisator:<br>
+1° voldoet aan de subsidievoorwaarden, vermeld in artikel 42 en artikel 44 tot en met 48;<br>
+2° geen subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte ontvangt.
+
+### ART 89/4.
+
+Als blijkt dat een organisator als vermeld in artikel 89/3, voor een aantal opvangplaatsen niet kan voldoen aan de voorwaarden, vermeld in artikel 89/3, tweede lid, kan hij de subsidie voor ex-generatiepact conform artikel 89/2 krijgen.
+
+### ART 89/5.
+
+Als er na de toekenning van de subsidie conform artikel 89/2 en 89/3 nog middelen resteren, kan de minister beslissen om die middelen toe te kennen aan de organisatoren, vermeld in artikel 89/2 en 89/3, minstens volgens de voorwaarden vermeld in artikel 89/2, tweede lid, en artikel 89/3, tweede lid en met toepassing van de bedragen vermeld in artikel 89/2, eerste lid, en artikel 89/3, eerste lid.
+
 ## [Afdeling 1/1 [... (opgeh. BVR 20 december 2019, art. 1, I: 1 januari 2019)]
 
 ### ART. 90.
 
-De subsidie voor generatiepact kan worden toegekend aan de organisator met   een subsidie voor initiatief buitenschoolse opvang of met een subsidie   buitenschoolse opvang in een afzonderlijke binnenruimte.<BR>
+De organisator van opvanglocaties in het tweetalige gebied Brussel-Hoofdstad die een tegemoetkoming krijgt of kreeg voor een aantal voltijdsequivalenten van werknemers in het kader van het generatiepact kan een subsidie voor ex-generatiepact krijgen van Kind en Gezin. Voor de subsidie voor ex-generatiepact gelden de bepalingen, vermeld in artikel 91 tot en met 94.
 
 ## [... (opgeh. BVR 6 oktober 2017, art. 7, I: 15 maart 2017)]
 
 ### ART. 91.
 
-De subsidie voor generatiepact bedraagt per kalenderjaar 5776,37 euro per   voltijdsequivalent van een laaggeschoolde jongere die in dienst is.   <BR>
+De subsidie voor ex-generatiepact voor een organisator in het tweetalige gebied Brussel-Hoofdstad bedraagt per kalenderjaar 5874,57 euro per voltijdsequivalent van een laaggeschoolde jongere die in dienst is.
 
 ### ART. 92.
 
