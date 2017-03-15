@@ -2,16 +2,16 @@
   "codex_id": 1026309,
   "title": "Ministerieel besluit van 2015-12-11 tot uitvoering van artikel 57 van het Procedurebesluit van 9 mei 2014, wat betreft de programmatieregels voor de verdeling van subsidies",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026309/VolledigDocument?datum=2015-07-01",
-  "source_sha256": "d80fcbabc2ff27691e96987343354b7fef164779a735aacc245ff35bf52a5fff",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026309/VolledigDocument?datum=2017-03-15",
+  "source_sha256": "08bbed535a40c9ae382944203daae5fd8b254247d9b3227472b0907672afc957",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026309&param=informatie",
-  "as_of": "2015-07-01",
+  "as_of": "2017-03-15",
   "made": "2015-12-11",
   "gazette": "2016-01-15",
   "numac": 2016035022,
   "document_start": "2015-07-01",
   "document_end": "2017-03-14",
-  "in_force": "2015-07-01",
+  "in_force": "2017-03-15",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2015-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-03-15; future article versions excluded; article text as the API gives it"
 }
