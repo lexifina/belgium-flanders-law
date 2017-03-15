@@ -310,11 +310,47 @@ Als Kind en Gezin geen beslissing heeft genomen of de aanvrager daarvan   niet o
 
 ### ART. 57.
 
-<P>§ 1. In dit artikel wordt verstaan onder:<BR>1° geografisch gebied: voor   gezinsopvang is dat gebied de zorgregio, voor groepsopvang is dat gebied de   gemeente;<BR>2° Mirage: een databestand van Kind en Gezin waarin gegevens op   kindniveau worden geregistreerd die door Kind en Gezin worden verzameld via   contacten met kraamklinieken en gezinnen en waarbij telkens bepaalde kenmerken   over het kind en het gezin worden geregistreerd;<BR>3° nieuwe   kinderopvangplaats: een kinderopvangplaats waarvoor nog geen vergunning is   toegekend;<BR>4° omschakeling van een bestaande kinderopvangplaats: de   omschakeling van een kinderopvangplaats zonder subsidie naar een   kinderopvangplaats waarvoor een subsidie wordt toegekend of de omschakeling van   een kinderopvangplaats waarvoor een bepaalde subsidietrap is toegekend naar een   kinderopvangplaats waarvoor een hogere subsidietrap wordt toegekend;<BR>5° soort   subsidie: de subsidie voor Centrum inclusieve kinderopvang, de subsidie voor   kinderopvang met flexibele openingstijden of de subsidie voor structurele   inclusieve kinderopvang, vermeld in het Subsidiebesluit van 22 november   2013;<BR>6° subsidietrap: het niveau van subsidie gekoppeld aan specifieke   subsidievoorwaarden, waarbij aan een hogere subsidietrap meer specifieke   subsidievoorwaarden verbonden zijn ten opzichte van een lagere   subsidietrap.<BR><BR>§ 2. Als er subsidiebudget beschikbaar is, bepaalt de   minister de programmatie ervan volgens de volgende opeenvolgende stappen:<BR>1°   hoeveel van het totale te verdelen subsidiebudget bestemd is voor welke   subsidietrap of voor welke soort subsidie;<BR>2° of er daarbij een voorafname is   van het totale te verdelen subsidiebudget per subsidietrap of per soort   subsidie, vermeld in punt 1°, voor bepaalde geografische gebieden of in functie   van specifieke situaties;<BR>3° de criteria die relevant zijn voor een   beoordeling door Kind en Gezin om binnen eenzelfde geografisch gebied   verschillende subsidieaanvragen tegenover elkaar op een objectieve wijze af te   wegen;<BR>4° voor de subsidies, vermeld in artikel 1, 1°, 14° en 17°, van het   Subsidiebesluit van 22 november 2013, geldt opeenvolgend:<BR>a) hoeveel van het   te verdelen subsidiebudget per subsidietrap bestemd is voor nieuwe   kinderopvangplaatsen en hoeveel bestemd is voor de omschakeling van bestaande   kinderopvangplaatsen naar een hogere subsidietrap;<BR>b) hoeveel van het   subsidiebudget per subsidietrap voor hetzij nieuwe kinderopvangplaatsen en   hetzij voor de omschakeling van bestaande kinderopvangplaatsen, bestemd is voor   groepsopvang en hoeveel voor gezinsopvang;<BR>c) dat rekening gehouden wordt met   de potentiële behoefte aan kinderopvangplaatsen binnen een geografisch gebied   volgens de bepalingen, vermeld in paragraaf 3;<BR>5° voor de subsidies, vermeld   in artikel 1, 14° /1, 17° /1 en 18°, van het Subsidiebesluit van 22 november   2013, wordt rekening gehouden met het beschikbare aanbod van   kinderopvangplaatsen met dezelfde soort subsidie als de te verdelen subsidie.   Het beschikbare aanbod wordt bekeken binnen het geografisch gebied.<BR><BR>§ 3.   Voor de nieuwe kinderopvangplaatsen gelden de volgende opeenvolgende   stappen:<BR>1° de geografische gebieden worden van hoog naar laag gerangschikt   volgens het verschil tussen enerzijds de potentiële vraag, meer bepaald het   aantal kinderen jonger dan drie jaar met een werkende of werkzoekende moeder,   gehuwd of samenwonend, en met een alleenstaande ouder, en anderzijds het aanbod,   meer bepaald het totale aantal kinderopvangplaatsen in alle   kinderopvanglocaties;<BR>2° op basis van de rangschikking, vermeld in punt 1°,   wordt per geografisch gebied bepaald tot welke subsidietrap de nieuwe   kinderopvangplaatsen kunnen behoren. Dat gebeurt door voor elk geografisch   gebied de behoefte aan het soort subsidieerbare kinderopvangplaatsen te bepalen.   Daarvoor wordt in elk geografisch gebied gekeken naar het aandeel van de totale   subsidieerbare capaciteit, minstens voor het inkomenstarief, op het totale   aantal kinderopvangplaatsen enerzijds, en het aandeel van de totale   subsidieerbare capaciteit met alleen een basissubsidie op het totale aantal   kinderopvangplaatsen anderzijds. Om te bepalen of en welke soort nieuwe plaatsen   er kunnen bijkomen, worden grenspercentages bepaald.<BR><BR>Voor de omschakeling   van bestaande kinderopvangplaatsen gelden de volgende opeenvolgende   stappen:<BR>1° per geografisch gebied wordt bepaald naar welke subsidietrap kan   worden omgeschakeld. Dat gebeurt door voor elk geografisch gebied de behoefte   aan het soort subsidieerbare kinderopvangplaatsen te bepalen. Daarvoor wordt in   elk geografisch gebied gekeken naar het aandeel op het totale aantal   kinderopvangplaatsen van de totale subsidieerbare capaciteit met basissubsidie,   van de totale subsidieerbare capaciteit met inkomenstarief, van de totale   subsidieerbare capaciteit met plussubsidie en van het totale aantal   kinderopvangplaatsen zonder subsidie;<BR>2° voor de omschakeling van bestaande   kinderopvangplaatsen zonder subsidie naar kinderopvangplaatsen met basissubsidie   of naar kinderopvangplaatsen met inkomenstarief, en voor de omschakeling van   bestaande kinderopvangplaatsen met basissubsidie naar kinderopvangplaatsen met   inkomenstarief, worden voor het aandeel van het totale aantal subsidieerbare   kinderopvangplaatsen met basissubsidie, voor het aandeel van het totale aantal   subsidieerbare kinderopvangplaatsen met inkomenstarief en voor het aandeel van   het totale aantal kinderopvangplaatsen zonder subsidie, zoals berekend conform   punt 1°, grenspercentages bepaald om nader te bepalen of, en naar welke, hogere   subsidietrap kan worden omgeschakeld en worden de geografische gebieden van hoog   naar laag gerangschikt volgens het aandeel kinderopvangplaatsen zonder   subsidie;<BR>3° voor de omschakeling van bestaande kinderopvangplaatsen met een   inkomenstarief naar kinderopvangplaatsen met plussubsidie worden de geografische   gebieden van hoog naar laag gerangschikt volgens het aantal kinderen, geboren in   een kansarm gezin zoals geregistreerd in Mirage;<BR>4° op basis van de   rangschikking, vermeld in punt 3°, wordt bepaald welk geografisch gebied in   aanmerking komt voor omschakeling van bestaande kinderopvangplaatsen met   inkomenstarief naar een hogere subsidietrap met plussubsidie. Daarvoor wordt in   elk geografisch gebied gekeken of het aandeel van de totale aantal   subsidieerbare kinderopvangplaatsen met plussubsidie, zoals berekend conform   punt 1°, een bepaald grenspercentage niet overschrijdt.</P>
+<p>§ 1. In dit artikel wordt verstaan onder:<br>
+1° geografisch gebied: voor gezinsopvang is dat gebied de zorgregio, voor groepsopvang is dat gebied de gemeente;<br>
+2° Mirage: een databestand van Kind en Gezin waarin gegevens op kindniveau worden geregistreerd die door Kind en Gezin worden verzameld via contacten met kraamklinieken en gezinnen en waarbij telkens bepaalde kenmerken over het kind en het gezin worden geregistreerd;<br>
+3° nieuwe kinderopvangplaats: een kinderopvangplaats waarvoor nog geen vergunning is toegekend op de dag dat Kind en Gezin een algemene oproep naar de organisatoren stuurt;<br>
+4° omschakeling van een bestaande kinderopvangplaats: de omschakeling van een kinderopvangplaats zonder subsidie naar een kinderopvangplaats waarvoor een subsidie wordt toegekend of de omschakeling van een kinderopvangplaats waarvoor een bepaalde subsidietrap is toegekend naar een kinderopvangplaats waarvoor een hogere subsidietrap wordt toegekend;<br>
+5° soort subsidie: de subsidie voor Centrum inclusieve kinderopvang, de subsidie voor kinderopvang met flexibele openingstijden of de subsidie voor structurele inclusieve kinderopvang, vermeld in het Subsidiebesluit van 22 november 2013;<br>
+6° subsidietrap: het niveau van subsidie gekoppeld aan specifieke subsidievoorwaarden, waarbij aan een hogere subsidietrap meer specifieke subsidievoorwaarden verbonden zijn ten opzichte van een lagere subsidietrap.<br>
+<br>
+§ 2. Als er subsidiebudget beschikbaar is, bepaalt de minister de programmatie ervan volgens de volgende opeenvolgende stappen:<br>
+1° hoeveel van het totale te verdelen subsidiebudget bestemd is voor welke subsidietrap of voor welke soort subsidie;<br>
+2° of er daarbij een voorafname is van het totale te verdelen subsidiebudget per subsidietrap of per soort subsidie, vermeld in punt 1°, voor bepaalde geografische gebieden of in functie van specifieke situaties;<br>
+3° de bijkomende ontvankelijkheids-, de voorrangs-, de uitsluitings- en de gegrondheidscriteria die relevant zijn bij de beoordeling door Kind en Gezin om binnen hetzelfde geografische gebied verschillende subsidieaanvragen op een objectieve wijze tegen elkaar af te wegen;<br>
+4° voor de subsidies, vermeld in artikel 1, 1°, 14° en 17°, van het Subsidiebesluit van 22 november 2013, geldt opeenvolgend:<br>
+a) hoeveel van het te verdelen subsidiebudget per subsidietrap bestemd is voor nieuwe kinderopvangplaatsen en hoeveel bestemd is voor de omschakeling van bestaande kinderopvangplaatsen naar een hogere subsidietrap;<br>
+b) hoeveel van het subsidiebudget per subsidietrap voor hetzij nieuwe kinderopvangplaatsen en hetzij voor de omschakeling van bestaande kinderopvangplaatsen, bestemd is voor groepsopvang en hoeveel voor gezinsopvang;<br>
+c) dat rekening gehouden wordt met de potentiële behoefte aan kinderopvangplaatsen binnen een geografisch gebied conform paragraaf 3. Dat geldt niet bij de omschakeling van bestaande kinderopvangplaatsen zonder subsidie naar kinderopvangplaatsen met basissubsidie;<br>
+d) dat, bij de omschakeling van bestaande kinderopvangplaatsen zonder subsidie naar kinderopvangplaatsen met basissubsidie, rekening gehouden wordt met de opstartdatum van de kinderopvangplaatsen zonder subsidie;<br>
+5° voor de subsidies, vermeld in artikel 1, 14° /1, 17° /1 en 18°, van het Subsidiebesluit van 22 november 2013, wordt rekening gehouden met het beschikbare aanbod van kinderopvangplaatsen met dezelfde soort subsidie als de te verdelen subsidie. Het beschikbare aanbod wordt bekeken binnen het geografisch gebied.<br>
+<br>
+§ 3. Voor de toekenning van subsidies voor nieuwe kinderopvangplaatsen met basissubsidie en met subsidie voor inkomenstarief gelden de volgende opeenvolgende stappen:<br>
+1° de geografische gebieden worden van hoog naar laag gerangschikt volgens het verschil tussen enerzijds de potentiële vraag, meer bepaald het aantal kinderen jonger dan drie jaar met een werkende of werkzoekende moeder, gehuwd of samenwonend, en met een alleenstaande ouder, en anderzijds het aanbod, meer bepaald het totale aantal kinderopvangplaatsen in alle kinderopvanglocaties;<br>
+2° op basis van de rangschikking, vermeld in punt 1°, wordt per geografisch gebied bepaald tot welke subsidietrap de nieuwe kinderopvangplaatsen kunnen behoren. Dat gebeurt door voor elk geografisch gebied de behoefte aan het soort subsidieerbare kinderopvangplaatsen te bepalen. Daarvoor wordt in elk geografisch gebied gekeken naar het aandeel van de totale subsidieerbare capaciteit, minstens voor het inkomenstarief, op het totale aantal kinderopvangplaatsen enerzijds, en het aandeel van de totale subsidieerbare capaciteit met alleen een basissubsidie op het totale aantal kinderopvangplaatsen anderzijds. Om te bepalen of en welke soort nieuwe plaatsen er kunnen bijkomen, worden grenspercentages bepaald.<br>
+<br>
+Voor de toekenning van subsidies voor de omschakeling van bestaande kinderopvangplaatsen naar kinderopvangplaatsen met inkomenstarief gelden de volgende opeenvolgende stappen:<br>
+1° per geografisch gebied wordt bepaald naar welke subsidietrap kan worden omgeschakeld. Daarvoor wordt voor elk geografisch gebied bepaald aan welke soort subsidieerbare kinderopvangplaatsen behoefte is. In elk geografisch gebied wordt gekeken naar het aandeel in het totale aantal kinderopvangplaatsen van de totale subsidieerbare capaciteit met inkomenstarief, en van het totale aantal kinderopvangplaatsen zonder subsidie;<br>
+2° voor de omschakeling van bestaande kinderopvangplaatsen zonder subsidie naar kinderopvangplaatsen met basissubsidie, gecombineerd met subsidie voor inkomenstarief, en voor de omschakeling van bestaande kinderopvangplaatsen met basissubsidie naar kinderopvangplaatsen met subsidie voor inkomenstarief worden voor het aandeel van het totale aantal subsidieerbare kinderopvangplaatsen met inkomenstarief, berekend conform punt 1°, grenspercentages bepaald om nader te bepalen of er in dat geografische gebied omschakeling naar subsidie inkomenstarief mogelijk is, en worden de geografische gebieden van hoog naar laag gerangschikt volgens het aandeel kinderopvangplaatsen zonder subsidie.<br>
+<br>
+Voor de nieuwe kinderopvangplaatsen met plussubsidie en voor de omschakeling van bestaande kinderopvangplaatsen naar kinderopvangplaatsen met plussubsidie gelden de volgende opeenvolgende stappen:<br>
+1° per geografisch gebied, met uitzondering van het tweetalige gebied Brussel-Hoofdstad, wordt vastgesteld hoeveel kinderen er in een bepaalde periode geboren zijn in een kansarm gezin, zoals geregistreerd in Mirage;<br>
+2° om te bepalen welke geografische gebieden in aanmerking komen voor subsidieerbare plaatsen met plussubsidie, wordt er een minimale aanwezigheid van het aantal kinderen dat geboren is in een kansarm gezin, zoals geregistreerd in Mirage, bepaald in die bepaalde periode.</p>
 
 ### ART. 58.
 
-Kind en Gezin doet op basis van de programmatieregels, vermeld in artikel   57, een algemene oproep tot indiening van een aanvraag van een subsidiebelofte,   en vermeldt daarbij:<BR>1° dat het om een standaard vergelijkende procedure gaat   waarbij de beslissingen tot subsidiebelofte definitief zijn, ondanks een   eventueel bezwaar of beroep tegen een weigeringsbeslissing van een andere   aanvrager;<BR>2° de begindatum en einddatum voor de indiening van een aanvraag   van een subsidiebelofte, waarbij de termijn tussen de begindatum en de einddatum   minstens twee maanden bedraagt;<BR>3° de beslissingstermijnen, vermeld in   artikel 63 tot en met 74;<BR>4° het aanvraagformulier dat gebruikt moet   worden;<BR>5° de criteria van ontvankelijkheid en gegrondheid;<BR>6° het totaal   te verdelen subsidiebudget, en de wijze waarop het verdeeld zal worden conform   artikel 57;<BR>7° een raming van het aantal toe te kennen kinderopvangplaatsen   en het soort kinderopvangplaatsen op basis van de bepaling, vermeld in punt   6°.<BR>
+Kind en Gezin doet op basis van de programmatieregels, vermeld in artikel 57, een algemene oproep tot indiening van een aanvraag van een subsidiebelofte, en vermeldt daarbij:<br>
+1° dat het om een standaard vergelijkende procedure gaat waarbij de beslissingen tot subsidiebelofte definitief zijn, ondanks een eventueel bezwaar of beroep tegen een weigeringsbeslissing van een andere aanvrager;<br>
+2° de begindatum en einddatum voor de indiening van een aanvraag van een subsidiebelofte, waarbij de termijn tussen de begindatum en de einddatum minstens twee maanden bedraagt;<br>
+3° de beslissingstermijnen, vermeld in artikel 63 tot en met 74;<br>
+4° het aanvraagformulier dat gebruikt moet worden;<br>
+5° de criteria van&nbsp;ontvankelijkheid, voorrang, uitsluiting en gegrondheid;<br>
+6° het totaal te verdelen subsidiebudget, en de wijze waarop het verdeeld zal worden conform artikel 57;<br>
+7° een raming van het aantal toe te kennen kinderopvangplaatsen en het soort kinderopvangplaatsen op basis van de bepaling, vermeld in punt 6°.
 
 ## HOOFDSTUK 3 Aanvraag en toekenning van een subsidiebelofte
 
@@ -384,7 +420,20 @@ Kind en Gezin kan tijdens de termijn, vermeld in artikel 70, bijkomende   gegeve
 
 ### ART. 72.
 
-&nbsp;De beslissing tot toekenning, gedeeltelijke toekenning of weigering   van een subsidiebelofte bevat minstens de volgende gegevens:<BR>1° de naam en   het ondernemingsnummer van de organisator;<BR>2° de beslissing, met inbegrip van   de rechtsgronden;<BR>3° in geval van toekenning of gedeeltelijke   toekenning:<BR>a) de startdatum en de einddatum van de subsidiebelofte;<BR>b)   het aantal plaatsen en het soort subsidie waarvoor een subsidiebelofte wordt   toegekend;<BR>c) aan welke subsidiegroep de subsidiebelofte wordt   toegekend;<BR>d) de vermelding dat de subsidiebelofte gedeeltelijk of volledig   kan worden stopgezet als vastgesteld wordt dat er een gegronde indicatie is als   vermeld in artikel 54;<BR>e) de mogelijkheid en de modaliteiten om een   verlenging van de subsidiebelofte te vragen;<BR>4° in geval van gedeeltelijke   toekenning of weigering: de mogelijkheid om bezwaar aan te tekenen en de wijze   waarop dat moet gebeuren;<BR>5° in geval van weigering van de subsidiebelofte:   de vermelding van het gevolg daarvan, meer bepaald dat er geen subsidie   toegekend kan worden;<BR>6° de datum van de beslissing en de elektronische   handtekening van Kind en Gezin.<BR>
+&nbsp;De beslissing tot toekenning, gedeeltelijke toekenning of weigering van een subsidiebelofte bevat minstens de volgende gegevens:<br>
+1° de naam en het ondernemingsnummer van de organisator;<br>
+2° de beslissing, met inbegrip van de rechtsgronden;<br>
+3° in geval van toekenning of gedeeltelijke toekenning:<br>
+a) de startdatum en de einddatum van de subsidiebelofte;<br>
+b) het aantal plaatsen en het soort subsidie waarvoor een subsidiebelofte wordt toegekend;<br>
+c) aan welke subsidiegroep de subsidiebelofte wordt toegekend;<br>
+d) de vermelding dat de subsidiebelofte gedeeltelijk of volledig kan worden stopgezet als vastgesteld wordt dat er een gegronde indicatie is als vermeld in artikel 54;<br>
+e) de mogelijkheid en de modaliteiten om een verlenging van de subsidiebelofte te vragen;<br>
+f) in geval van groepsopvang: in welke kinderopvanglocatie de subsidieerbare plaatsen eerst gerealiseerd moeten worden;<br>
+g) in geval van gezinsopvang: in welke gemeente de subsidieerbare plaatsen eerst gerealiseerd moeten worden.<br>
+4° in geval van gedeeltelijke toekenning of weigering: de mogelijkheid om bezwaar aan te tekenen en de wijze waarop dat moet gebeuren;<br>
+5° in geval van weigering van de subsidiebelofte: de vermelding van het gevolg daarvan, meer bepaald dat er geen subsidie toegekend kan worden;<br>
+6° de datum van de beslissing en de elektronische handtekening van Kind en Gezin.
 
 ### ART. 73.
 
@@ -573,6 +622,57 @@ Het bezwaar wordt ten gronde behandeld volgens de regels die zijn   vastgelegd i
 Het bezwaar schort de uitvoering van de beslissing niet   op.<BR>
 
 ## [TITEL 4/1 (ing. BVR 8 september 2017, art. 13)] [Convenanten en het agentschap als uitbetalingsinstelling (verv. BVR 29 januari 2021, art. 28, I: 5 februari 2021)]
+
+### ART 112/1.
+
+Kind en Gezin treedt op als uitbetalingsinstelling als aan al de volgende voorwaarden is voldaan:<br>
+1° er is een convenant gesloten tussen Kind en Gezin en een lokaal bestuur over de subsidiëring van kinderopvangplaatsen door het lokaal bestuur;<br>
+2° het lokaal bestuur heeft een subsidie toegekend aan organisatoren om te werken met het systeem inkomenstarief, vermeld in artikel 27 tot en met artikel 36/1 van het Subsidiebesluit van 22 november 2013;<br>
+3° de subsidie van het lokaal bestuur bestaat uit de bedragen, vermeld in artikel 17 tot en met artikel 19 van het Subsidiebesluit van 22 november 2013;<br>
+4° het lokaal bestuur heeft een aanvraag tot tussenkomst als uitbetalingsinstelling ingediend bij Kind en Gezin;<br>
+5° na onderzoek door Kind en Gezin blijkt dat de werkwijze van het lokaal bestuur en de organisatoren, en de afspraken in het convenant het mogelijk maken dat Kind en Gezin optreedt als uitbetalingsinstelling.
+
+### ART 112/2.
+
+De aanvraag tot tussenkomst als uitbetalingsinstelling wordt ingediend met een formulier dat Kind en Gezin ter beschikking stelt, en dat de volgende gegevens bevat:<br>
+1° de gegevens van het lokaal bestuur:<br>
+a) de naam en het adres van het lokaal bestuur;<br>
+b) de contactgegevens van het lokaal bestuur, waaronder minstens de voor- en achternaam, het telefoonnummer en het e-mailadres van de contactpersoon;<br>
+2° de gegevens van de organisatoren die een subsidietoekenning van het lokaal bestuur hebben en waaraan een subsidie moet betaald worden, waaronder minstens de naam, het ondernemingsnummer en het aantal subsidieerbare plaatsen;<br>
+3° de gewenste startdatum van de uitbetaling door Kind en Gezin;<br>
+4° een verklaring op erewoord over het feit dat de persoon die de aanvraag indient, gemachtigd is om te handelen in naam van het lokaal bestuur;<br>
+5° de datum en de handtekening.<br>
+<br>
+Het lokaal bestuur voegt bij het aanvraagformulier de beslissingen tot subsidietoekenning waarvoor hij de aanvraag indient.
+
+### ART 112/3.
+
+Kind en Gezin onderzoekt de aanvraag en beslist uiterlijk dertig kalenderdagen na de datum van ontvangst van de aanvraag.
+
+### ART 112/4.
+
+Als Kind en Gezin de aanvraag goedkeurt, zorgt het lokaal bestuur ervoor dat de betrokken organisatoren de gegevens, vermeld in artikel 7 tot en met 10 van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, bezorgen aan Kind en Gezin.<br>
+<br>
+Kind en Gezin betaalt op basis van die gegevens, vermeld in het eerste lid, conform artikel 7 tot en met 9 van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, de subsidiebedragen rechtstreeks aan de organisator.<br>
+<br>
+Kind en Gezin bezorgt elk kwartaal een factuur aan het lokaal bestuur.<br>
+<br>
+Als een subsidiegroep zowel subsidieerbare plaatsen met basissubsidie en inkomenstarief van Kind en Gezin als van het lokaal bestuur heeft, wordt de te betalen subsidie verhoudingsgewijs verdeeld tussen Kind en Gezin en het lokaal bestuur.
+
+### ART 112/5.
+
+Het toezicht op de naleving van de subsidievoorwaarden die het lokaal bestuur oplegt aan de organisatoren voor hun subsidie, wordt uitgevoerd door het lokaal bestuur, met uitzondering van de naleving van de voorwaarden, vermeld in artikel 21, 22, 23 en artikel 27 tot en met 36/1 van het Subsidiebesluit van 22 november 2013.<br>
+<br>
+Als Kind en Gezin inbreuken vaststelt, bezorgt het die gegevens aan het lokaal bestuur.<br>
+<br>
+Kind en Gezin neemt geen enkele bestuurlijke maatregel of bestuurlijke geldboete met betrekking tot de naleving van de subsidievoorwaarden voor de subsidie van het lokaal bestuur door de organisator.
+
+### ART 112/6.
+
+Kind en Gezin stopt met de tussenkomst als uitbetalingsinstelling in de volgende gevallen:<br>
+1° het lokaal bestuur leeft de voorwaarden van het convenant of van de bepalingen, vermeld in artikel 112/4, niet na;<br>
+2° het lokaal bestuur stopt de subsidiëring van de organisator. Het lokaal bestuur laat dat onmiddellijk weten aan Kind en Gezin;<br>
+3° het convenant wordt door het lokaal bestuur of door Kind en Gezin stopgezet.
 
 ## [TITEL 4/2 Gevolgen van de vrijwillige samenvoeging van gemeenten (ing. BVR 14 september 2018, art. 7, I: 2 november 2018)]
 
