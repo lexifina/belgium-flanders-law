@@ -22,7 +22,13 @@ Het verzoek om inlichtingen en in voorkomend geval, om een administratief onderz
 
 ### ART 3/2.
 
-§ 1. De inlichtingen die zijn verstrekt met toepassing van het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van belastingen worden, als dat mogelijk is, elektronisch via het CCN-netwerk verzonden.
+§ 1. De inlichtingen die zijn verstrekt met toepassing van het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van belastingen worden, als dat mogelijk is, elektronisch via het CCN-netwerk verzonden.<br>
+<br>
+§ 2. De automatische uitwisseling van gegevens, vermeld in artikel 11/1, § 1 en § 2, van het voormeld decreet, gebeurt door de gegevens op te slaan in het beveiligde centrale gegevensbestand als vermeld in artikel 21, lid 5 van richtlijn 2011/16/EU van de Raad van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van de belastingen en tot intrekking van richtlijn 77/799/EEG.<br>
+<br>
+In afwachting dat het beveiligde centrale gegevensbestand, vermeld in het eerste lid, operationeel wordt, geldt het volgende:<br>
+1° de automatische uitwisseling van gegevens, vermeld in artikel 11/1, § 1 en § 2, van het voormelde decreet, verloopt conform paragraaf 1;<br>
+2° voor de toepassing van artikel 11/1, § 5, 8°, van het voormelde decreet wordt de ontvangst van de inlichtingen door de bevoegde autoriteit onmiddellijk en in elk geval niet later dan zeven werkdagen na de ontvangst van de inlichtingen, als dat mogelijk is, via elektronische weg aan de verstrekkende autoriteit bevestigd.
 
 ### ART. 4.
 
