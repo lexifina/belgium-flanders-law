@@ -565,6 +565,16 @@ Kind en Gezin kan de subsidie voor individuele inclusieve   buitenschoolse opvan
 
 ## [Onderafdeling 8. Aanvraag van een subsidie voor ex-generatiepact (ing. BVR 6 oktober 2017, art. 10, I: 15 maart 2017)]
 
+### ART 101/1.
+
+De aanvraag van een subsidie voor ex-generatiepact als vermeld in artikel 89/1 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, wordt ingediend met het aanvraagformulier van Kind en Gezin, dat de volgende gegevens bevat:<br>
+1° de naam, de rechtsvorm en het ondernemingsnummer van de organisator;<br>
+2° het aantal en welke plaatsen ex-generatiepact dat wordt aangevraagd;<br>
+3° de reden waarom de aanvraag wordt ingediend;<br>
+4° de datum vanaf wanneer de organisator de subsidies wenst te ontvangen;<br>
+5° de gegevens van de opvanglocatie waar de organisator de subsidies zal inzetten;<br>
+6° de verklaring of er al voldoende erkende opvangplaatsen beschikbaar zijn of dat deze nog moeten worden aangevraagd.
+
 ## Afdeling 2. Ontvankelijkheid van de aanvraag
 
 ### ART. 102.
@@ -573,7 +583,7 @@ Kind   en Gezin stuurt na ontvangst van de aanvraag een ontvangstmelding aan de 
 
 ### ART. 103.
 
-Kind en Gezin beslist over de ontvankelijkheid van de   aanvragen, vermeld in artikel 80 tot en met 101, uiterlijk dertig kalenderdagen   na de datum van de ontvangst van de aanvraag.
+Kind en Gezin beslist over de ontvankelijkheid van de aanvragen, vermeld in artikel 80 tot en met 101/1, uiterlijk dertig kalenderdagen na de datum van de ontvangst van de aanvraag.
 
 ### ART. 104.
 
@@ -607,7 +617,17 @@ Voor de aanvraag van een subsidie voor individuele inclusieve   kinderopvang wor
 
 ### ART. 111.
 
-De beslissing tot toekenning, gedeeltelijke toekenning of   weigering van een aanvraag als vermeld in artikel 80 tot en met 101, bevat   minstens de volgende gegevens :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de naam en het ondernemingsnummer van de organisator;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de beslissing;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   in geval van toekenning of gedeeltelijke toekenning :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   de begindatum en de einddatum van de subsidie;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   het aantal opvangplaatsen waarvoor de subsidie wordt toegekend;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">c)   de opvanglocatie of het gebied waaraan de subsidies worden toegekend;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">d)   de vermelding dat de subsidie kan worden verminderd, geschorst of stopgezet als   vastgesteld wordt dat de organisator niet langer voldoet aan de   subsidievoorwaarden, met behoud van de toepassing van artikel 13 van de wet van   16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de   begrotingen, de controle op de subsidies en voor de boekhouding van de   gemeenschappen en de gewesten, alsook voor de organisatie van de controle door   het Rekenhof;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   in geval van gedeeltelijke toekenning of weigering van de subsidie : de   mogelijkheid om bezwaar aan te tekenen en de wijze waarop dat moet   gebeuren;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   in geval van weigering van de subsidie : de vermelding van het gevolg daarvan,   meer bepaald dat er geen subsidies zullen worden uitbetaald;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   de datum van de beslissing en een handtekening vanwege Kind en   Gezin.
+De beslissing tot toekenning, gedeeltelijke toekenning of weigering van een aanvraag als vermeld in artikel 80 tot en met 101/1, bevat minstens de volgende gegevens :<br>
+1° de naam en het ondernemingsnummer van de organisator;<br>
+2° de beslissing;<br>
+3° in geval van toekenning of gedeeltelijke toekenning :<br>
+a) de begindatum en de einddatum van de subsidie;<br>
+b) het aantal opvangplaatsen waarvoor de subsidie wordt toegekend;<br>
+c) de opvanglocatie of het gebied waaraan de subsidies worden toegekend;<br>
+d) de vermelding dat de subsidie kan worden verminderd, geschorst of stopgezet als vastgesteld wordt dat de organisator niet langer voldoet aan de subsidievoorwaarden, met behoud van de toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof;<br>
+4° in geval van gedeeltelijke toekenning of weigering van de subsidie : de mogelijkheid om bezwaar aan te tekenen en de wijze waarop dat moet gebeuren;<br>
+5° in geval van weigering van de subsidie : de vermelding van het gevolg daarvan, meer bepaald dat er geen subsidies zullen worden uitbetaald;<br>
+6° de datum van de beslissing en een handtekening vanwege Kind en Gezin.
 
 ### ART. 112.
 
