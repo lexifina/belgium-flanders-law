@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028663,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-08 tot wijziging van diverse bepalingen van het Procedurebesluit van 9 mei 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028663/VolledigDocument?datum=2017-03-15",
+  "source_sha256": "49b61935555f10822ad4593bcb681a0d04cd35e6aa11b97e09c14c7c6972a929",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028663&param=informatie",
+  "as_of": "2017-03-15",
+  "made": "2017-09-08",
+  "gazette": "2017-10-12",
+  "numac": 2017013508,
+  "document_start": "2017-10-22",
+  "document_end": null,
+  "in_force": "2017-03-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
