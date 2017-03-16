@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027979,
+  "title": "Decreet van 2017-02-10 houdende instemming met de wijzigingen van de Bijlagen II en III bij het Verdrag van Parijs van 22 september 1992 inzake de bescherming van het marien milieu van de Noordoostelijke Atlantische Oceaan, aangenomen te Oostende op 29 juni 2007",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027979/VolledigDocument?datum=2017-03-16",
+  "source_sha256": "cb04970cf483188c04596bc5b1b6426a653343e4fb2f2a1e9ed358262800f3a6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027979&param=informatie",
+  "as_of": "2017-03-16",
+  "made": "2017-02-10",
+  "gazette": "2017-03-06",
+  "numac": 2017010867,
+  "document_start": "2017-03-16",
+  "document_end": null,
+  "in_force": "2017-03-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-03-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
