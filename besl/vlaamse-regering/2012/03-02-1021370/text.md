@@ -22,7 +22,13 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° agentschap : het agentschap   Wonen-Vlaanderen van het Vlaams ministerie van Ruimtelijke Ordening, Woonbeleid   en Onroerend Erfgoed;<BR>2° minister : de Vlaamse minister, bevoegd voor   woonbeleid;<BR>3° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de   Vlaamse Wooncode.<BR>4° Vlabinvest-gebied : het werkgebied van Vlabinvest APB,   opgericht bij het besluit van de Provincieraad van Vlaams-Brabant van 22 oktober   2013;<BR>5° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in   artikel 30 van het decreet van 15 juli 1997 houdende de Vlaamse   Wooncode.
+In dit besluit wordt verstaan onder :<br>
+1° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+2° minister : de Vlaamse minister, bevoegd voor woonbeleid;<br>
+3° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br>
+3° /1: Vlabinvest apb: het Agentschap voor Grond- en Woonbeleid voor Vlaams-Brabant;<br>
+4° Vlabinvest-gebied : het werkgebied van Vlabinvest APB, opgericht bij het besluit van de Provincieraad van Vlaams-Brabant van 22 oktober 2013;<br>
+5° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.
 
 ### ART. 2.
 
@@ -30,7 +36,36 @@ In dit besluit wordt verstaan onder :<BR>1° agentschap : het agentschap   Wonen
 
 ### ART. 3.
 
-De VMSW heeft als opdracht om grondbeleidsmaatregelen, vermeld in artikel   33, § 1, vierde lid, 6° van de Vlaamse Wooncode, te treffen die noodzakelijk   worden geacht om een hoogwaardige woonkwaliteit te behouden of te   bevorderen.<BR><BR>Onder grondbeleidsmaatregelen wordt verstaan :<BR>1° het   verwerven en het vervreemden van onroerende goederen, zowel openbaar als uit de   hand;<BR>2° het vestigen of afstaan van zakelijke rechten op onroerende   goederen;<BR>3° het nemen van tijdelijke participaties;<BR>4° het uitoefenen van   onteigeningsbevoegdheden;<BR>5° het uitoefenen van een recht van voorkoop;<BR>6°   het verstrekken van leningen aan sociale huisvestingsmaatschappijen en gemeenten   voor de financiering van verwervingen in het kader van artikel 33, § 1, vierde   lid, 6°, van de Vlaamse Wooncode.<BR><BR>Voor de grondbeleidsmaatregelen,   vermeld in het tweede lid, 1° tot en met 5°, kan de VMSW een beroep doen op het   Rollend Grondfonds.<BR><BR>Voor de grondbeleidsmaatregel, vermeld in het tweede   lid, 6°, kan de VMSW een beroep doen op de verbintenissenmachtiging die   opgenomen is in het begrotingsdecreet van de Vlaamse Gemeenschap om sociale   huisvestingsmaatschappijen en gemeenten in staat te stellen om sociale woningen   ter beschikking te stellen als vermeld in artikel 3, § 1, en artikel 11, § 1,   van het Financieringsbesluit van 21 december 2012. Jaarlijks kan de minister   daarvoor een volume reserveren.<BR><BR>Als de grondbeleidsmaatregel, vermeld in   het eerste lid, een grondaankoop betreft, moet die grondaankoop beantwoorden aan   een of meer van de volgende criteria :<BR>1° de grond komt onmiddellijk in   aanmerking voor bebouwing; <BR>2° de grond komt niet onmiddellijk voor bebouwing   in aanmerking omdat : <BR>a) de grond in een woonuitbreidingsgebied ligt als   vermeld in het koninklijk besluit van 28 december 1972 betreffende de inrichting   en de toepassing van de ontwerp-gewestplannen en gewestplannen;<BR>b) volgens de   huidige bestemming van het gewestplan de grond niet onmiddellijk voor woningbouw   in aanmerking komt, maar een ruimtelijk structuurplan of een ontwerp van   ruimtelijk uitvoeringsplan een woonbestemming op basis van een   principebeslissing van een gemeente, provincie of de Vlaamse overheid in het   vooruitzicht stelt;<BR>c) de grond gelegen is in een ontsluitbare   woonzone.<BR><BR>Onder een hoogwaardige woonkwaliteit wordt de kwaliteit van de   woningen en de woonomgeving verstaan, waarbij aan elk van volgende voorwaarden   is voldaan :<BR>1° de woningen voldoen aan de elementaire veiligheids-,   gezondheids- en woonkwaliteitsvereisten, vastgesteld bij of krachtens artikel 5   van de Vlaamse Wooncode;<BR>2° als er sociale woningen worden opgericht, moeten   die woningen voldoen aan de door de minister vast te stellen technische normen   waaraan sociale woningen moeten voldoen;<BR>3° de woonomgeving is kwalitatief   hoogstaand door een combinatie van de volgende kenmerken :<BR>a) een behoorlijke   wooninfrastructuur, met inbegrip van gemeenschapsvoorzieningen;<BR>b) een   vermenging van soorten woningen en woningtypes;<BR>c) een vermenging van   voorzieningen voor verschillende doelgroepen;<BR>d) een goede integratie van   nieuwe projecten in de bestaande omgeving.
+De VMSW heeft als opdracht om grondbeleidsmaatregelen, vermeld in artikel 33, § 1, vierde lid, 6° van de Vlaamse Wooncode, te treffen die noodzakelijk worden geacht om een hoogwaardige woonkwaliteit te behouden of te bevorderen.<br>
+<br>
+Onder grondbeleidsmaatregelen wordt verstaan :<br>
+1° het verwerven en het vervreemden van onroerende goederen, zowel openbaar als uit de hand;<br>
+2° het vestigen of afstaan van zakelijke rechten op onroerende goederen;<br>
+3° het nemen van tijdelijke participaties;<br>
+4° het uitoefenen van onteigeningsbevoegdheden;<br>
+5° het uitoefenen van een recht van voorkoop;<br>
+6° het verstrekken van leningen aan sociale huisvestingsmaatschappijen en gemeenten voor de financiering van verwervingen in het kader van artikel 33, § 1, vierde lid, 6°, van de Vlaamse Wooncode;<br>
+7° het verstrekken van leningen aan Vlabinvest apb voor de financiering van verwervingen voor de realisatie van huurwoningen in het kader van artikel 33, § 1, vierde lid, 6°, van de Vlaamse Wooncode.<br>
+<br>
+Voor de grondbeleidsmaatregelen, vermeld in het tweede lid, 1° tot en met 5° en 7°, kan de VMSW een beroep doen op het Rollend Grondfonds.<br>
+<br>
+Voor de grondbeleidsmaatregel, vermeld in het tweede lid, 6°, kan de VMSW een beroep doen op de verbintenissenmachtiging die opgenomen is in het begrotingsdecreet van de Vlaamse Gemeenschap om sociale huisvestingsmaatschappijen en gemeenten in staat te stellen om sociale woningen ter beschikking te stellen als vermeld in artikel 3, § 1, en artikel 11, § 1, van het Financieringsbesluit van 21 december 2012. Jaarlijks kan de minister daarvoor een volume reserveren.<br>
+<br>
+Als de grondbeleidsmaatregel, vermeld in het eerste lid, een grondaankoop betreft, moet die grondaankoop beantwoorden aan een of meer van de volgende criteria :<br>
+1° de grond komt onmiddellijk in aanmerking voor bebouwing;<br>
+2° de grond komt niet onmiddellijk voor bebouwing in aanmerking omdat :<br>
+a) de grond in een woonuitbreidingsgebied ligt als vermeld in het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en gewestplannen;<br>
+b) volgens de huidige bestemming van het gewestplan de grond niet onmiddellijk voor woningbouw in aanmerking komt, maar een ruimtelijk structuurplan of een ontwerp van ruimtelijk uitvoeringsplan een woonbestemming op basis van een principebeslissing van een gemeente, provincie of de Vlaamse overheid in het vooruitzicht stelt;<br>
+c) de grond gelegen is in een ontsluitbare woonzone.<br>
+<br>
+Onder een hoogwaardige woonkwaliteit wordt de kwaliteit van de woningen en de woonomgeving verstaan, waarbij aan elk van volgende voorwaarden is voldaan :<br>
+1° de woningen voldoen aan de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vastgesteld bij of krachtens artikel 5 van de Vlaamse Wooncode;<br>
+2° als er sociale woningen worden opgericht, moeten die woningen voldoen aan de door de minister vast te stellen technische normen waaraan sociale woningen moeten voldoen;<br>
+3° de woonomgeving is kwalitatief hoogstaand door een combinatie van de volgende kenmerken :<br>
+a) een behoorlijke wooninfrastructuur, met inbegrip van gemeenschapsvoorzieningen;<br>
+b) een vermenging van soorten woningen en woningtypes;<br>
+c) een vermenging van voorzieningen voor verschillende doelgroepen;<br>
+d) een goede integratie van nieuwe projecten in de bestaande omgeving.
 
 ### ART. 4.
 
@@ -42,7 +77,21 @@ De middelen van het Rollend Grondfonds kunnen enkel worden aangewend ter financi
 
 ### ART. 5/1.
 
-§ 1. Een verwerving als vermeld in artikel 3, tweede lid, 6°, moet voldoen   aan dezelfde voorwaarden als de voorwaarden, vermeld in artikel 3, 4 en 5, § 1   en § 2.<BR><BR>De sociale huisvestingsmaatschappij of een gemeente die een   lening met toepassing van artikel 3, tweede lid, 6°, bij de VMSW wil aangaan,   dient daarvoor een gemotiveerde aanvraag in bij de VMSW, voorafgaand aan de   verwerving. De VMSW onderzoekt het voorstel van de initiatiefnemer. Binnen twee   maanden nadat de VMSW het aanvraagdossier volledig heeft verklaard, maakt de   VMSW een advies op, rekening houdend met de criteria, vermeld in dit besluit. De   minister neemt op basis van het advies van de VMSW een beslissing over de   toekenning.<BR><BR>§ 2. Het gedeelte van de verwerving dat gefinancierd kan   worden op basis van dit artikel, blijft beperkt tot het subsidiabele bedrag,   vermeld in artikel 5, § 1, van het Financieringsbesluit van 21 december 2012,   met betrekking tot gedeelte van de grond waarop sociale huurwoningen en de   wooninfrastructuur die daarmee samenhangt, zullen worden gerealiseerd.<BR><BR>In   afwijking van artikel 11, § 1, van het Financieringsbesluit van 21 december 2012   wordt de lening verstrekt binnen een periode van drie maanden na de datum van de   beslissing over de toekenning door de minister, vermeld in paragraaf 1, tweede   lid. De aflossingsperiode van de lening start op het einde van de tweede maand   die volgt op de datum van de vaststelling van de eindafrekening van de werken   door de VMSW, van de sociale huurwoningen die op de grond worden gerealiseerd en   uiterlijk tien jaar na het verstrekken van de lening.<BR><BR>§ 3. In afwijking   van paragraaf 1 kan de VMSW binnen het volume, vermeld in artikel 3, vierde lid,   een lening als vermeld in paragraaf 2, tweede lid, verstrekken aan sociale   huisvestingsmaatschappijen en gemeenten die gronden van de VMSW willen aankopen   die eerder met middelen uit het Rollend Grondfonds zijn   aangekocht.
+§ 1. Een verwerving als vermeld in artikel 3, tweede lid, 6° en 7°, moet voldoen aan dezelfde voorwaarden als de voorwaarden, vermeld in artikel 3, 4 en 5, § 1 en § 2.<br>
+<br>
+De sociale huisvestingsmaatschappij, Vlabinvest apb of een gemeente die een lening met toepassing van artikel 3, tweede lid, 6° en 7°, bij de VMSW wil aangaan, dient daarvoor een gemotiveerde aanvraag in bij de VMSW, voorafgaand aan de verwerving. De VMSW onderzoekt het voorstel van de initiatiefnemer. Binnen twee maanden nadat de VMSW het aanvraagdossier volledig heeft verklaard, maakt de VMSW een advies op, rekening houdend met de criteria, vermeld in dit besluit. De minister neemt op basis van het advies van de VMSW een beslissing over de toekenning.<br>
+<br>
+§ 2. Het gedeelte van de verwerving dat gefinancierd kan worden met een lening als vermeld in artikel 3, tweede lid, 6°, van dit besluit, blijft beperkt tot het subsidiabele bedrag, vermeld in artikel 5, § 1, van het Financieringsbesluit van 21 december 2012, met betrekking tot gedeelte van de grond waarop sociale huurwoningen en de wooninfrastructuur die daarmee samenhangt, zullen worden gerealiseerd.<br>
+<br>
+In afwijking van artikel 11, § 1, van het Financieringsbesluit van 21 december 2012 wordt de lening&nbsp;aan sociale huisvestingsmaatschappijen en gemeenten verstrekt binnen een periode van drie maanden na de datum van de beslissing over de toekenning door de minister, vermeld in paragraaf 1, tweede lid. De aflossingsperiode van de lening start op het einde van de tweede maand die volgt op de datum van de vaststelling van de eindafrekening van de werken door de VMSW, van de sociale huurwoningen die op de grond worden gerealiseerd en uiterlijk tien jaar na het verstrekken van de lening.<br>
+<br>
+§ 2/1. Het gedeelte van de verwerving dat gefinancierd kan worden met een lening, als vermeld in artikel 3, tweede lid, 7°, blijft beperkt tot het gedeelte van de grond waarop sociale huurwoningen en de wooninfrastructuur die daarmee samenhangt, zullen worden gerealiseerd. Het bedrag van de lening is gelijk aan de reële kostprijs van de aankoop, en beperkt tot de schattingswaarde, van dat gedeelte.<br>
+<br>
+Aan Vlabinvest apb wordt een renteloze bulletlening verstrekt binnen een periode van drie maanden na de datum van de beslissing over de toekenning door de minister, vermeld in paragraaf 1, tweede lid. De lening heeft een looptijd van vijf jaar, en kan éénmaal verlengd worden door de VMSW met vijf jaar. De lening wordt terugbetaald bij de verkoop van de grond waarop de lening betrekking heeft.<br>
+<br>
+§ 3. In afwijking van paragraaf 1 kan de VMSW binnen het volume, vermeld in artikel 3, vierde lid, een lening als vermeld in paragraaf 2, tweede lid, verstrekken aan sociale huisvestingsmaatschappijen en gemeenten die gronden van de VMSW willen aankopen die eerder met middelen uit het Rollend Grondfonds zijn aangekocht.<br>
+<br>
+In afwijking van paragraaf 1 kan de VMSW, binnen de verbintenissenmachtiging van het Rollend Grondfonds, een lening als vermeld in paragraaf 2/1, tweede lid, verstrekken aan Vlabinvest apb die gronden van de VMSW wil aankopen die eerder met middelen uit het Rollend Grondfonds zijn aangekocht.
 
 ### ART. 6.
 
