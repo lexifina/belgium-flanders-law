@@ -592,6 +592,20 @@ Artikel 7.3.9 van hetzelfde decreet, vervangen bij het decreet van 9 juli 2010 e
 
 ## HOOFDSTUK 5 Wijziging van het decreet van 19 december 2014 houdende bepalingen tot begeleiding van de begroting 2015
 
+### ART 63.
+
+In artikel 91 van het decreet van 19 december 2014 houdende bepalingen tot begeleiding van de begroting 2015 worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zinsnede "In afwijking van artikel 109 tot en met 114 van hetzelfde decreet komen projecten die voorzien in de realisatie van sociale koopwoningen of sociale kavels in aanmerking voor een subsidie als vermeld in hoofdstuk II van titel VI van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode," vervangen door de zinsnede "Projecten die voorzien in de realisatie van sociale koopwoningen of sociale kavels, komen in aanmerking voor een subsidie als vermeld in hoofdstuk II van titel VI van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, zoals van kracht voor de inwerkingtreding van dit decreet,";<br>
+2° aan het eerste lid worden een punt 3°, een punt 4°, een punt 5° en een punt 6° toegevoegd, die luiden als volgt:<br>
+"3° uiterlijk op 1 juni 2016 opgenomen zijn op de meerjarenplanning of de kortetermijnplanning als vermeld in artikel 33 § 3, van het voornoemde decreet;<br>
+4° uiterlijk op 31 december 2018 worden de werken voor de bouw van de sociale koopwoningen of voor de aanleg van sociale kavels of de bijhorende aanleg of aanpassing van de wooninfrastructuur besteld;<br>
+5° vanaf 1 januari 2017 kan een van de werken, vermeld in punt 4°, pas besteld worden als zowel de vergunning voor de bouw van de sociale koopwoningen of voor de aanleg van sociale kavels als de vergunning voor de bijhorende aanleg of aanpassing van de wooninfrastructuur is afgegeven;<br>
+6° vanaf 1 januari 2018 kan een van de werken, vermeld in punt 4°, pas besteld worden als zowel de vergunning voor de bouw van de sociale koopwoningen of voor de aanleg van sociale kavels als de vergunning voor de bijhorende aanleg of aanpassing van de wooninfrastructuur is afgegeven uiterlijk op 31 december 2017.";<br>
+3° tussen het tweede en het derde lid wordt een nieuw lid ingevoegd, dat luidt als volgt:<br>
+"De voorwaarde, vermeld in het eerste lid, 5°, geldt niet voor projecten die een menging omvatten of realiseren van enerzijds sociale huurwoningen en anderzijds sociale koopwoningen of sociale kavels. Als de werken voor de bouw van sociale koopwoningen in verschillende fasen worden uitgevoerd, kan in afwijking van het eerste lid, 5°, vanaf 1 januari 2017 de aanleg of aanpassing van wooninfrastructuur besteld worden als voor ten minste een bouwfase de vergunning is afgegeven.'';<br>
+4° het derde lid, dat het vierde lid wordt, wordt vervangen door "De Vlaamse Regering kan een lijst opstellen van projecten die voldoen aan elk van de voorwaarden, vermeld in het eerste lid, 1°, 2° en 3°. ".<br>
+&nbsp;
+
 ## HOOFDSTUK 6 Slotbepalingen
 
 ### ART 64.
