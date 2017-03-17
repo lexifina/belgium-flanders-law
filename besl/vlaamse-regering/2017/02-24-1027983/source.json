@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027983,
+  "title": "Besluit van de Vlaamse Regering van 2017-02-24 tot wijziging van het besluit van de Vlaamse Regering van 2 maart 2012 tot bepaling van de nadere regeling met betrekking tot het Rollend Grondfonds en het besluit van de Vlaamse Regering van 18 december 2015 houdende stopzetting van de subsidiëring van sociale koopwoningen en sociale kavels en houdende de aanpassing van diverse besluiten met betrekking tot het woonbeleid in Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027983/VolledigDocument?datum=2017-03-17",
+  "source_sha256": "c51748ec63d86af80e57d714f1774f2c9ca2a4807022cc781724ad34e56d264d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027983&param=informatie",
+  "as_of": "2017-03-17",
+  "made": "2017-02-24",
+  "gazette": "2017-03-07",
+  "numac": 2017011064,
+  "document_start": "2017-03-17",
+  "document_end": null,
+  "in_force": "2017-03-17",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2017-03-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
