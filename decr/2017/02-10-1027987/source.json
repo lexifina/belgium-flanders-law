@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027987,
+  "title": "Decreet van 2017-02-10 houdende instemming met: 1° de overeenkomst tussen het Koninkrijk België en Zwitserse Bondstaat tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Bern op 28 augustus 1978 zoals gewijzigd door het avenant, ondertekend te Brussel op 10 april 2014; 2° het avenant, ondertekend te Brussel op 10 april 2014, tot wijziging van de onder 1° vermelde overeenkomst",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027987/VolledigDocument?datum=2017-03-18",
+  "source_sha256": "eae554b89528e6fc73b5b349b948fbd8c7714b42cff708ee7cc4d755bed1b51e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027987&param=informatie",
+  "as_of": "2017-03-18",
+  "made": "2017-02-10",
+  "gazette": "2017-03-08",
+  "numac": 2017011034,
+  "document_start": "2017-03-18",
+  "document_end": null,
+  "in_force": "2017-03-18",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
