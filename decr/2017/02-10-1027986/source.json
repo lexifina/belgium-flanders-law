@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027986,
+  "title": "Decreet van 2017-02-10 houdende instemming met het tweede protocol, ondertekend te Londen op 13 maart 2014, tot wijziging van de overeenkomst tussen de Regering van het Koninkrijk België en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar vermogenswinsten, ondertekend te Brussel op 1 juni 1987, zoals gewijzigd door het protocol, ondertekend te Parijs op 24 juni 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027986/VolledigDocument?datum=2017-03-18",
+  "source_sha256": "0bf710b816d46001e8244635b9989e17a66892f010ed7f78895a46feaac83e18",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027986&param=informatie",
+  "as_of": "2017-03-18",
+  "made": "2017-02-10",
+  "gazette": "2017-03-08",
+  "numac": 2017011030,
+  "document_start": "2017-03-18",
+  "document_end": null,
+  "in_force": "2017-03-18",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
