@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027989,
+  "title": "Besluit van de Vlaamse Regering van 2017-01-20 houdende indeling bij de gemeentewegen van de gewestweg R12 Henrik Speecqvest tussen kilometerpunt 2.14 en 2.46 op het grondgebied van de stad Mechelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027989/VolledigDocument?datum=2017-03-18",
+  "source_sha256": "f8368672414f18ddb2a007aa4c62e8cc13fa4c04f23ce88502a693ef892c3c1b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027989&param=informatie",
+  "as_of": "2017-03-18",
+  "made": "2017-01-20",
+  "gazette": "2017-03-08",
+  "numac": 2017011045,
+  "document_start": "2017-03-18",
+  "document_end": null,
+  "in_force": "2017-03-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
