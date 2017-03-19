@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027992,
+  "title": "Decreet van 2017-02-10 houdende instemming met akkoord tussen het Koninkrijk België en Jersey inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te Londen op 13 maart 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027992/VolledigDocument?datum=2017-03-19",
+  "source_sha256": "d477a665e4f283596a5b7bd8d2fe55986a3c4cc4c29779d94ec1db763c8e7460",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027992&param=informatie",
+  "as_of": "2017-03-19",
+  "made": "2017-02-10",
+  "gazette": "2017-03-09",
+  "numac": 2017011046,
+  "document_start": "2017-03-19",
+  "document_end": null,
+  "in_force": "2017-03-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-03-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
