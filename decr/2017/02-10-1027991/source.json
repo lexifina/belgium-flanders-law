@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027991,
+  "title": "Decreet van 2017-02-10 houdende instemming met: 1° de overeenkomst tussen het Koninkrijk België en het Koninkrijk Noorwegen tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en tot het voorkomen van het ontduiken van belasting, ondertekend te Oslo op 23 april 2014; 2° het protocol bij de onder 1° vermelde overeenkomst, ondertekend te Oslo op 23 april 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027991/VolledigDocument?datum=2017-03-19",
+  "source_sha256": "b6ff90ac2ec4dee67dd0e5aa20f945cf96ea1998b4ad781b99b5d434092ddf66",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027991&param=informatie",
+  "as_of": "2017-03-19",
+  "made": "2017-02-10",
+  "gazette": "2017-03-09",
+  "numac": 2017011029,
+  "document_start": "2017-03-19",
+  "document_end": null,
+  "in_force": "2017-03-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-03-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
