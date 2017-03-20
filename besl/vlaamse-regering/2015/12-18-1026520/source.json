@@ -2,16 +2,16 @@
   "codex_id": 1026520,
   "title": "Besluit van de Vlaamse Regering van 2015-12-18 houdende de vaststelling van de stroomgebiedbeheerplannen voor Schelde en Maas (2016-2021), met inbegrip van het maatregelenprogramma bij de stroomgebiedbeheerplannen, de herziene zoneringsplannen en de gebiedsdekkende uitvoeringsplannen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026520/VolledigDocument?datum=2016-03-12",
-  "source_sha256": "944bebf8bfba21b8c8968109eca22acbd622c7b052ee5e312fc5f067dd7db948",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026520/VolledigDocument?datum=2017-03-20",
+  "source_sha256": "16ee6997b2158df202f5b2bcb310012377a75af3e306ff4f24e266a3bd424d25",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026520&param=informatie",
-  "as_of": "2016-03-12",
+  "as_of": "2017-03-20",
   "made": "2015-12-18",
   "gazette": "2016-03-02",
   "numac": 2016035217,
   "document_start": "2016-03-12",
   "document_end": null,
-  "in_force": "2016-03-12",
+  "in_force": "2017-03-20",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2016-03-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-03-20; future article versions excluded; article text as the API gives it"
 }

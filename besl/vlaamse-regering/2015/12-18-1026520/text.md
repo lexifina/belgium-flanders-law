@@ -44,7 +44,41 @@ De   Vlaamse minister, bevoegd voor het mobiliteitsbeleid, de openbare werken en
 
 ### BIJLAGE 1.
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2016/03/02_1.pdf#page=12">Bijlage   1</A>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/03/02_1.pdf#page=12">Bijlage 1</a><br>
+<br>
+1° het plan LANDEN DEFINITIEF_HERZ_ZP_LANDEN wordt vervangen door het volgende plan:<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=198">http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=198</a><br>
+<br>
+2° het plan OOSTENDE DEFINITIEF_HERZ_ZP_OOSTENDE wordt vervangen door het volgende plan:<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=200">http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=200</a><br>
+<br>
+3° het plan SINT-KATELIJNE-WAVER DEFINITIEF_HERZ_ZP_SINT-KATELIJNE-WAVER wordt vervangen door het volgende plan:<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=202">http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=202</a><br>
+<br>
+4° het plan ZANDHOVEN DEFINITIEF_HERZ_ZP_ZANDHOVEN wordt vervangen door het volgende plan:<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=204">http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=204</a><br>
+<br>
+5° het plan LANDEN DEFINITIEF_GUP_LANDEN wordt vervangen door het volgende plan:<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=206">http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=206</a><br>
+<br>
+6° het plan OOSTENDE DEFINITIEF_GUP_OOSTENDE wordt vervangen door het volgende plan:<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=208">http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=208</a><br>
+<br>
+7° het plan SINT-KATELIJNE-WAVER DEFINITIEF_GUP_SINT-KATELIJNE-WAVER wordt vervangen door het volgende plan:<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=210">http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=210</a><br>
+<br>
+8° het plan ZANDHOVEN DEFINITIEF_GUP_ZANDHOVEN wordt vervangen door het volgende plan:<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=212">http://www.ejustice.just.fgov.be/mopdf/2017/03/10_1.pdf#page=212</a><br>
+&nbsp;
 
 ### BIJLAGE 2.
 
