@@ -419,6 +419,10 @@ In de periode van 1 januari 2017 tot en met 31 december 2017 is het voor een vis
 <br>
 In de periode van 1 januari 2017 tot en met 31 december 2017 is het voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, die gemengde zeereizen in de ICES-gebieden VIId en II, IV maakt, verboden bij de tongvangst in de ICES-gebieden II, IV een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de ICES-gebieden II, IV.<br>
 <br>
+In afwijking van het eerste lid is het voor een vissersvaartuig met een motorvermogen van 221 kW of minder, in de periode van 21 maart 2017 tot en met 30 april 2017 en dit zolang geen 60 % van het quotum is benut, verboden bij de tongvangsten per zeereis in de ICES-gebieden VIId een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in het desbetreffende ICES-gebied.<br>
+<br>
+In afwijking van het tweede lid is het voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, in de periode van 21 maart 2017 tot en met 30 april 2017 en dit zolang geen 60 % van het quotum is benut, verboden bij de tongvangsten per zeereis in het ICES-gebied VIId een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in het desbetreffende ICES-gebied.<br>
+<br>
 § 3. Het de minimisquotum voor tong in het ICES-gebied VIIe bedraagt 1 ton tong. De drempelwaarde vermeld in artikel 8 bedraagt voor de tongvisserij in het ICES-gebied VIIe maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie. Bij uitputting van dat de minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de minimis voor tong afkomstig uit dat ICES-gebied VIIe.<br>
 <br>
 In de periode van 1 januari 2017 tot en met 31 oktober 2017 is het in het ICES-gebied VIIe voor een vissersvaartuig verboden een totale tongvangst te realiseren die groter is dan 1500 kg.<br>
