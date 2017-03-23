@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028006,
+  "title": "Besluit van de Vlaamse Regering van 2017-02-10 houdende indeling bij de gemeentewegen van de gewestweg N75 Europalaan tussen kilometerpunt 10.733 en 10.969 op het grondgebied van de stad Genk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028006/VolledigDocument?datum=2017-03-23",
+  "source_sha256": "bb5f8cdba7649f373ae0bf685d2782fe1d2ea5462e91350d2d2ac03ec2db42ca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028006&param=informatie",
+  "as_of": "2017-03-23",
+  "made": "2017-02-10",
+  "gazette": "2017-03-13",
+  "numac": 2017011049,
+  "document_start": "2017-03-23",
+  "document_end": null,
+  "in_force": "2017-03-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-03-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
