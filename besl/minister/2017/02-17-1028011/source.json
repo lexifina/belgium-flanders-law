@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028011,
+  "title": "Ministerieel besluit van 2017-02-17 tot vaststelling van de indicatoren voor schade door wilde zwijnen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028011/VolledigDocument?datum=2017-03-24",
+  "source_sha256": "be9da2cbea96dc39a1bf204dfdb4b70c5ac1b343bc0745565386cb2d6cf65e4c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028011&param=informatie",
+  "as_of": "2017-03-24",
+  "made": "2017-02-17",
+  "gazette": "2017-03-14",
+  "numac": 2017011136,
+  "document_start": "2017-03-24",
+  "document_end": null,
+  "in_force": "2017-03-24",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-03-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
