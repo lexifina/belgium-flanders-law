@@ -32,11 +32,19 @@ De v.z.w. de Rand heeft tot taak:<br /><br />1° te fungeren als documentatie- e
 
 ### ART. 6.
 
-§ 1. De algemene vergadering en de raad van beheer van de v.z.w. de Rand moeten worden samen-gesteld op basis van artikel 9, c, van de wet van 16 juli 1973 waarbij de bescherming van de ideologische en filosofische strekkingen gewaarborgd wordt.<br /><br />§ 2. De algemene vergadering van de v.z.w. "de Rand" bestaat uit tweeëntwintig werkelijke leden. Tien werkelijke leden zijn vertegenwoordigers van de Vlaamse Gemeenschap en beschikken elk over drie stemmen in de algemene vergadering. Vijf werkelijke leden zijn vertegenwoordigers van de provincie Vlaams-Brabant en beschikken elk over twee stemmen in de algemene vergadering. Zeven werkelijke leden zijn elk vertegenwoordiger van een programmeringscommissie en beschikken elk over één stem in de algemene vergadering.<br /><br />§ 3. De raad van beheer van de v.z.w. "de Rand" bestaat uit negentien leden. Acht leden worden door de algemene vergadering op voordracht van de Vlaamse Gemeenschap benoemd en beschikken elk over drie stemmen in de raad van beheer. Vier leden worden door de algemene vergadering op voordracht van de provincie Vlaams-Brabant benoemd en beschikken elk over twee stemmen in de raad van beheer. Zeven leden worden door de algemene vergadering op voordracht van de programmeringscommissies benoemd en beschikken elk over één stem in de raad van beheer.
+§ 1. De algemene vergadering en de raad van&nbsp;bestuur van de v.z.w. de Rand moeten worden samengesteld op basis van artikel 9, c, van de wet van 16 juli 1973 waarbij de bescherming van de ideologische en filosofische strekkingen gewaarborgd wordt.<br>
+<br>
+§ 2. De algemene vergadering van de vzw ``de Rand'' bestaat uit negentien leden. Acht leden zijn vertegenwoordigers van de Vlaamse Gemeenschap en beschikken elk over drie stemmen in de algemene vergadering. Vier leden zijn vertegenwoordigers van de provincie Vlaams-Brabant en beschikken elk over twee stemmen in de algemene vergadering. Zeven leden zijn elk vertegenwoordiger van een programmeringscommissie en beschikken elk over één stem in de algemene vergadering.<br>
+<br>
+§ 3. De raad van bestuur van de vzw "de Rand" bestaat uit achttien leden. Drie leden worden door de algemene vergadering op voordracht van de Vlaamse Gemeenschap benoemd. Twee leden worden door de algemene vergadering op voordracht van de provincie Vlaams-Brabant benoemd. Zeven leden worden door de algemene vergadering op voordracht van de programmeringscommissies benoemd. Zes onafhankelijke leden worden benoemd overeenkomstig de artikelen 4, 5, eerste tot en met derde en vijfde lid, en 6 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector. Ze beschikken elk over één stem in de raad van bestuur.<br>
+<br>
+De artikelen 7 tot en met 9 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector zijn van toepassing op de raad van bestuur van de vzw "de Rand"..
 
 ### ART. 7.
 
-§ 1. Om de opdracht te verwezenlijken, bepaald in artikel 12, § 2, wordt er door de raad van beheer van v.z.w. de Rand voor ieder gemeenschapscentrum een programmeringscommissie opgericht, waarvan de leden worden voorgedragen door de raden voor cultuurbeleid, die representatief zijn voor het Nederlandstalige culturele werk binnen de gemeenten, opgesomd in artikel 12, § 1.<br /><br />§ 2. De programmeringscommissie vervult haar opdracht op basis van een huishoudelijk reglement en binnen de krachtlijnen en de financiële grenzen, bepaald door de raad van beheer van v.z.w. de Rand.
+§ 1. Om de opdracht te verwezenlijken, bepaald in artikel 12, § 2, wordt er door de raad van bestuur van v.z.w. de Rand voor ieder gemeenschapscentrum een programmeringscommissie opgericht, waarvan de leden worden voorgedragen door de raden voor cultuurbeleid, die representatief zijn voor het Nederlandstalige culturele werk binnen de gemeenten, opgesomd in artikel 12, § 1.<br>
+<br>
+§ 2. De programmeringscommissie vervult haar opdracht op basis van een huishoudelijk reglement en binnen de krachtlijnen en de financiële grenzen, bepaald door de raad van bestuur van v.z.w. de Rand.
 
 ## HOOFDSTUK VI SAMENWERKINGSOVEREENKOMST
 
@@ -49,6 +57,32 @@ Er wordt tussen de Vlaamse Gemeenschap en de v.z.w. de Rand een samenwerkingsove
 ### ART. 9.
 
 De v.z.w. de Rand moet een beëdigd bedrijfsrevisor aanstellen, die haar financiële toestand, haar jaarrekening en de regelmatigheid van haar financiële verrichtingen controleert.
+
+### ART 9/1.
+
+§ 1. De Vlaamse Regering stelt bij de vzw "de Rand" een regeringscommissaris aan.<br>
+<br>
+De regeringscommissaris houdt toezicht op de overeenstemming van de verrichtingen en de werking van de vzw "de Rand" met het recht, de statuten en de samenwerkingsovereenkomst.<br>
+<br>
+Tegen elke beslissing van de raad van bestuur die hij strijdig acht met het decreet, de statuten en de samenwerkingsovereenkomst, dient de regeringscommissaris van de Vlaamse Regering beroep in bij de bevoegde minister.<br>
+<br>
+Het beroep wordt met redenen omkleed. Het wordt uitgeoefend binnen vijf vrije dagen nadat de regeringscommissaris het afschrift van de beslissing heeft ontvangen.<br>
+<br>
+De raad van bestuur wordt binnen de voormelde termijn op de hoogte gebracht van het beroep.<br>
+<br>
+De uitvoering van de beslissing wordt door het beroep geschorst.<br>
+<br>
+§ 2. De regeringscommissaris heeft met raadgevende stem zitting in de raad van bestuur van de vzw "de Rand".<br>
+<br>
+Ten minste vijf werkdagen voor de datum van de vergaderingen ontvangt de regeringscommissaris de volledige agenda van de vergaderingen van de raad van bestuur van de vzw "de Rand", alsook alle documenten ter zake. In gemotiveerde gevallen van hoogdringendheid kan van deze bepaling worden afgeweken.<br>
+<br>
+De regeringscommissaris kan altijd ter plaatse alle documenten en geschriften van de vzw "de Rand" inzien.<br>
+<br>
+De regeringscommissaris kan van de bestuurders alle inlichtingen en ophelderingen vorderen, en hij kan alle verificaties verrichten die hij nodig acht voor de uitvoering van zijn mandaat.<br>
+<br>
+§ 3. De Vlaamse Regering stelt de vergoeding van de regeringscommissaris vast.<br>
+<br>
+§ 4. De artikelen 10 tot 17 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector zijn van toepassing op de regeringscommissaris aangesteld bij de vzw "de Rand".
 
 ## HOOFDSTUK VIII FINANCIËLE BEPALINGEN EN TERBESCHIKKINGSTELLING VAN PERSONEEL EN INFRASTRUCTUUR
 
