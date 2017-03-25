@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028017,
+  "title": "Decreet van 2017-02-24 tot wijziging van artikel 8 en 10 van de wet van 25 juni 1993 betreffende de uitoefening en de organisatie van ambulante en kermisactiviteiten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028017/VolledigDocument?datum=2017-03-25",
+  "source_sha256": "6dafd80e4dbad008c709c956935e4901ad7af6aaabe8bb67e85173fb2016d452",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028017&param=informatie",
+  "as_of": "2017-03-25",
+  "made": "2017-02-24",
+  "gazette": "2017-03-15",
+  "numac": 2017011135,
+  "document_start": "2017-03-25",
+  "document_end": null,
+  "in_force": "2017-03-25",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-03-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
