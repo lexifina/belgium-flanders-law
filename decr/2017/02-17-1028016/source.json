@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028016,
+  "title": "Decreet van 2017-02-17 tot wijziging van diverse bepalingen van het decreet van 7 mei 2004 houdende omvorming van de vzw \"de Rand\" tot een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap en houdende vaststelling van de bevoegdheden van de provincie Vlaams-Brabant inzake de ondersteuning van de Vlaamse Rand",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028016/VolledigDocument?datum=2017-03-25",
+  "source_sha256": "82ad3a26838759b136137863d23f296a50d1a497cae4e9e79bb7fb64a0ccc4c4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028016&param=informatie",
+  "as_of": "2017-03-25",
+  "made": "2017-02-17",
+  "gazette": "2017-03-15",
+  "numac": 2017011141,
+  "document_start": "2017-03-25",
+  "document_end": null,
+  "in_force": "2017-03-25",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-03-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
