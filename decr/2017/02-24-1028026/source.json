@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028026,
+  "title": "Decreet van 2017-02-24 houdende instelling van een proefomgeving voor experimentele woonvormen en tot machtiging van een coördinatie van de regelgeving betreffende de woninghuurwetgeving",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028026/VolledigDocument?datum=2017-03-30",
+  "source_sha256": "29fb8e2b044348ff398c3b9a01992141d5e627df7878a02fd5472fd181df2874",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028026&param=informatie",
+  "as_of": "2017-03-30",
+  "made": "2017-02-24",
+  "gazette": "2017-03-20",
+  "numac": 2017011133,
+  "document_start": "2017-03-30",
+  "document_end": null,
+  "in_force": "2017-03-30",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2017-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
