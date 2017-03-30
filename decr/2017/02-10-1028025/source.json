@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028025,
+  "title": "Decreet van 2017-02-10 houdende instemming met het Internationaal Verdrag van 1990 inzake de voorbereiding op, de bestrijding van en de samenwerking bij olieverontreiniging, gedaan te Londen op 30 november 1990, en het Protocol van 2000 inzake de voorbereiding op, de bestrijding van en de samenwerking bij de voorvallen van verontreiniging door schadelijke en potentieel gevaarlijke stoffen, gedaan te Londen op 15 maart 2000",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028025/VolledigDocument?datum=2017-03-30",
+  "source_sha256": "a9834ab395841705d964d9fe93440c8a0378a90d8093780172d58ebd0db62fc4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028025&param=informatie",
+  "as_of": "2017-03-30",
+  "made": "2017-02-10",
+  "gazette": "2017-03-20",
+  "numac": 2017011210,
+  "document_start": "2017-03-30",
+  "document_end": null,
+  "in_force": "2017-03-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
