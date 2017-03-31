@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028036,
+  "title": "Besluit van de Vlaamse Regering van 2017-02-17 tot wijziging van het besluit van de Vlaamse Regering van 15 april 2016 houdende de planning van bedden met een bijzondere erkenning als rust- en verzorgingstehuis",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028036/VolledigDocument?datum=2017-03-31",
+  "source_sha256": "861766ef99118f8617a7d8a2fdaaae5eb911d5b197b45e2c6cbdd66015366c1f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028036&param=informatie",
+  "as_of": "2017-03-31",
+  "made": "2017-02-17",
+  "gazette": "2017-03-21",
+  "numac": 2017011170,
+  "document_start": "2017-03-31",
+  "document_end": null,
+  "in_force": "2017-03-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
