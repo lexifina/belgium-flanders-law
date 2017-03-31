@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028034,
+  "title": "Besluit van de Vlaamse Regering van 2017-01-13 betreffende thematische zorgstrategische planning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028034/VolledigDocument?datum=2017-03-31",
+  "source_sha256": "c831816ca0ed6c9580f614fd5c1f9642fd118fbc5f1222d8cd877f3efde18447",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028034&param=informatie",
+  "as_of": "2017-03-31",
+  "made": "2017-01-13",
+  "gazette": "2017-03-21",
+  "numac": 2017011216,
+  "document_start": "2017-03-31",
+  "document_end": "2021-06-30",
+  "in_force": "2017-03-31",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2017-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
