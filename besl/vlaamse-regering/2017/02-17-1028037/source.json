@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028037,
+  "title": "Besluit van de Vlaamse Regering van 2017-02-17 tot wijziging van het besluit van de Vlaamse regering van 19 mei 2000 tot vaststelling van de voorwaarden waaraan personen moeten voldoen om als ambtenaar van ruimtelijke ordening te kunnen worden aangesteld en het besluit van de Vlaamse Regering van 15 juli 2016 tot wijziging van diverse besluiten wat betreft de integratie van de opdrachten van het agentschap Inspectie RWO in het departement Leefmilieu, Natuur en Energie en in het agentschap Wonen-Vlaanderen, alsook betreffende de begrotingsfondsen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028037/VolledigDocument?datum=2017-03-31",
+  "source_sha256": "c26ea5f767c56452bef969234f1556a761262ae4631b2b80f99cb1c33a8eed42",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028037&param=informatie",
+  "as_of": "2017-03-31",
+  "made": "2017-02-17",
+  "gazette": "2017-03-21",
+  "numac": 2017011215,
+  "document_start": "2017-03-31",
+  "document_end": null,
+  "in_force": "2017-03-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
