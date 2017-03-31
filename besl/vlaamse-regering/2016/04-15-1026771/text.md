@@ -19,7 +19,9 @@ In dit besluit wordt verstaan onder rust- en   verzorgingstehuis: een instelling
 
 ### ART. 2.
 
-Het maximale aantal te erkennen bedden met een bijzondere   erkenning als rust- en verzorgingstehuis wordt met ingang van 1 januari 2016   vastgelegd op 44.697 bedden.
+Het maximale aantal te erkennen bedden met een bijzondere erkenning als rust- en verzorgingstehuis wordt met ingang van 1 januari 2016 vastgelegd op 44.697 bedden.<br>
+<br>
+Het maximale aantal te erkennen bedden met een bijzondere erkenning als rust- en verzorgingstehuis wordt met ingang van 1 januari 2017 vastgelegd op 45.923 bedden.
 
 ### ART. 3.
 
@@ -27,7 +29,9 @@ Artikel 1 van het ministerieel besluit van 2<SUP   style="FONT-FAMILY: 'Times Ne
 
 ### ART. 4.
 
-Dit besluit heeft uitwerking met ingang van 1 januari   2016.
+De bepaling van artikel 2, 1ste lid heeft uitwerking met ingang van 1 januari 2016.<br>
+<br>
+De bepaling van artikel 2, 2de lid heeft uitwerking met ingang van 1 januari 2017.
 
 ### ART. 5.
 
