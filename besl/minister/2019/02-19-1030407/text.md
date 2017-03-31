@@ -118,6 +118,10 @@ In artikel 5 van het ministerieel besluit van 4 maart 2016 houdende een oproep t
 
 ## HOOFDSTUK 16. Wijzigingen van het ministerieel besluit van 14 december 2016 houdende een oproep tot indiening van steunaanvragen als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 april 2015 betreffende steun voor innovaties in de landbouw
 
+### ART 54.
+
+In artikel 5 van het ministerieel besluit van 14 december 2016 houdende een oproep tot indiening van steunaanvragen als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 april 2015 betreffende steun voor innovaties in de landbouw wordt het woord "drie" vervangen door het woord "vier".
+
 ## HOOFDSTUK 17. Wijzigingen van het ministerieel besluit van 30 april 2017 tot vaststelling van een keurings- en certificeringsreglement van zaaizaden van landbouw- en groentegewassen
 
 ## HOOFDSTUK 18. Wijzigingen van het ministerieel besluit van 13 december 2017 houdende een oproep tot indiening van steunaanvragen als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 april 2015 betreffende steun voor innovaties in de landbouw

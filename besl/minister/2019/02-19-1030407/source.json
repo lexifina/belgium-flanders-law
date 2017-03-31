@@ -2,16 +2,16 @@
   "codex_id": 1030407,
   "title": "Ministerieel besluit van 2019-02-19 tot wijziging van de regelgeving betreffende het landbouw- en visserijbeleid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030407/VolledigDocument?datum=2016-04-30",
-  "source_sha256": "60cded4fe87a298cd40af7e577002d60ea70fa1573c15dcec38d98b7fa6815af",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030407/VolledigDocument?datum=2017-03-31",
+  "source_sha256": "c7cf44a995c67437e0552fb6509644ff18cda99e46440405d24fa01d9a3ab82c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030407&param=informatie",
-  "as_of": "2016-04-30",
+  "as_of": "2017-03-31",
   "made": "2019-02-19",
   "gazette": "2019-03-15",
   "numac": 2019011156,
   "document_start": "2019-03-25",
   "document_end": null,
-  "in_force": "2016-04-30",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2016-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2017-03-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-03-31; future article versions excluded; article text as the API gives it"
 }
