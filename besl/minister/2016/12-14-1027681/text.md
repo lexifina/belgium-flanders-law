@@ -47,7 +47,7 @@ Ter uitvoering van artikel 7, eerste lid, 2°, van het besluit van 24 april 2015
 
 ### ART 5.
 
-De periode waarin de uitgaven gedaan worden, vermeld in artikel 7, eerste lid, 3°, van het besluit van 24 april 2015, duurt drie jaar vanaf de kennisgeving van de selectie van het project.<br>
+De periode waarin de uitgaven gedaan worden, vermeld in artikel 7, eerste lid, 3°, van het besluit van 24 april 2015, duurt&nbsp;vier jaar vanaf de kennisgeving van de selectie van het project.<br>
 &nbsp;
 
 ### ART 6.
