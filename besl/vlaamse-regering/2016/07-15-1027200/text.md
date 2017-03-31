@@ -340,7 +340,7 @@ In artikel 6, § 1, eerste lid, van het besluit van de Vlaamse Regering van 1 ok
 De leidend ambtenaar van de entiteit belast met de uitvoering van de handhavingstaken op het beleidsveld ruimtelijke ordening kan op het volledige grondgebied van het Vlaamse Gewest de functie uitoefenen van stedenbouwkundig inspecteur als vermeld in de Vlaamse Codex Ruimtelijke Ordening.<br>
 <br>
 Hij is bevoegd om:<br>
-1° de andere stedenbouwkundige inspecteurs aan te stellen en hun ambtsgebied te bepalen;<br>
+1° ...;<br>
 2° de personeelsleden aan te wijzen die de misdrijven inzake ruimtelijke ordening kunnen opsporen en vaststellen in een proces-verbaal; deze bevoegdheid kan tevens betrekking hebben op personeelsleden die niet tot zijn entiteit behoren, voor zover met het hoofd van de betrokken entiteit een protocol werd afgesloten;<br>
 3° dwangbevelen uit te vaardigen met betrekking tot sommen die verschuldigd zijn ingevolge de handhaving van de ruimtelijke ordening.<br>
 <br>
