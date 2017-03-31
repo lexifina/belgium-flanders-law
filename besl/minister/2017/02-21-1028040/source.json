@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028040,
+  "title": "Ministerieel besluit van 2017-02-21 [tot vaststelling van het ogenblik van de prestatiebeoordeling ter uitvoering van artikel 4.116 van het Besluit Vlaamse Codex Wonen van 2021]",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028040/VolledigDocument?datum=2017-03-31",
+  "source_sha256": "209d557b8a8a698a79d41648aad36f6ecfc876e0c860855489c6faca6381e6b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028040&param=informatie",
+  "as_of": "2017-03-31",
+  "made": "2017-02-21",
+  "gazette": "2017-03-21",
+  "numac": 2017011186,
+  "document_start": "2017-03-31",
+  "document_end": null,
+  "in_force": "2017-03-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
