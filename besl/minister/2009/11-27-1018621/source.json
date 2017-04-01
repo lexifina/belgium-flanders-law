@@ -2,16 +2,16 @@
   "codex_id": 1018621,
   "title": "Ministerieel besluit van 2009-11-27 tot bepaling van classificatienormen inzake comfort voor een vergund toeristisch logies",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018621/VolledigDocument?datum=2012-11-23",
-  "source_sha256": "85dadda29beefe077664251ba1b58b8d20e345ffb106a1eae74cbb49256b8bd3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018621/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "1c766418a5367b0a7fbbc59f02273129361d79e45b7a4b9233c2b05f0708c594",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018621&param=informatie",
-  "as_of": "2012-11-23",
+  "as_of": "2017-04-01",
   "made": "2009-11-27",
   "gazette": "2009-12-24",
   "numac": 2009036146,
   "document_start": "2010-01-01",
   "document_end": "2017-03-31",
-  "in_force": "2012-11-23",
+  "in_force": "2017-04-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2012-11-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
