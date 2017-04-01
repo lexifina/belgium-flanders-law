@@ -54,6 +54,17 @@ Het maatwerkbedrijf en de maatwerkafdeling richten voor de begeleiding van   de 
 
 ## HOOFDSTUK 8. Adviescommissie Sociale Economie
 
+### ART. 35.
+
+<p>De Vlaamse Regering richt een Adviescommissie Sociale Economie op die tot opdracht heeft de Vlaamse Regering te adviseren :<br>
+1° bij de beoordeling van de aanvragen voor ondersteuning, vermeld in artikel 6;<br>
+2° over de criteria voor de toewijzing van de beschikbare werkondersteunende maatregelen;<br>
+3° over het bereik van de maatregelen op basis van een jaarlijks monitoringrapport, opgesteld door de Vlaamse overheid.</p>
+
+<p>De Vlaamse Regering kan de taken van de Adviescommissie Sociale Economie specificeren.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere regels voor de organisatie, de samenstelling en de werkwijze van de Adviescommissie Sociale Economie.</p>
+
 ## HOOFDSTUK 9. Toezicht, handhaving en sancties
 
 ## HOOFDSTUK 10. Wijzigingsbepalingen
