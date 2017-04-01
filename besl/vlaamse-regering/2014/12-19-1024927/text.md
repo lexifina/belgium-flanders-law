@@ -82,15 +82,15 @@ a) het Departement Kanselarij en Bestuur, met uitzondering van:<br>
 1) De personeelsleden die belast zijn met het horizontale gelijke-kansen- en integratiebeleid;<br>
 2) de personeelsleden van de Gemeenschappelijke Dienst voor Preventie en Bescherming;<br>
 3) de personeelsleden van de Dienst van de Gouverneurs;<br>
-b) het Departement Ruimte Vlaanderen :<br>
+b) het Departement Omgeving:<br>
 de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het onroerend-erfgoedbeleid;<br>
 c) het Departement internationaal Vlaanderen, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen ter uitvoering van het decreet van 10 juli 2008 betreffende de toeristische logies.<br>
-d) het Departement Leefmilieu, Natuur en Energie : de personeelsleden die alleen of hoofdzakelijk taken uitvoeren in het kader van de handhaving met betrekking tot onroerend erfgoed;<br>
+d) het Departement Omgeving: de personeelsleden die alleen of hoofdzakelijk taken uitvoeren in het kader van de handhaving met betrekking tot onroerend erfgoed;<br>
 2. De viceminister-president van de Vlaamse Regering en Vlaams minister van Onderwijs is, wat het specifieke personeelsbeleid betreft, bevoegd voor:<br>
 a) het Departement Onderwijs en Vorming.<br>
 3. De viceminister-president van de Vlaamse Regering en Vlaams minister van Begroting, Financiën en Energie is, wat het specifieke personeelsbeleid betreft, bevoegd voor:<br>
 a) het Departement Financiën en Begroting;<br>
-b) het Departement Leefmilieu, Natuur en Energie:<br>
+b) het Departement Omgeving:<br>
 1) de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het energiebeleid.<br>
 4. De viceminister-president van de Vlaamse Regering, Vlaams minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding, is, wat het specifieke personeelsbeleid betreft, bevoegd voor :<br>
 a) het Departement Kanselarij en Bestuur:<br>
@@ -98,24 +98,23 @@ a) het Departement Kanselarij en Bestuur:<br>
 2) de personeelsleden van de Gemeenschappelijke Dienst voor Preventie en Bescherming;<br>
 3) de personeelsleden van de Dienst van de Gouverneurs;<br>
 b) het Departement Informatie Vlaanderen;<br>
-c) het Departement Ruimte Vlaanderen :<br>
+c) het Departement Omgeving :<br>
 de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het woonbeleid.<br>
 5. De Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn is, wat het specifieke personeelsbeleid betreft, bevoegd voor :<br>
 a) het Departement Mobiliteit en Openbare Werken;<br>
 b) het Departement internationaal Vlaanderen :<br>
 de personeelsleden die alleen of hoofdzakelijk taken vervullen ter uitvoering van het decreet van 10 juli 2008 betreffende de toeristische logies;<br>
-c) het Departement Leefmilieu, Natuur en Energie :<br>
-de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het dierenwelzijn.<br>
+c) het Departement Omgeving : de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het dierenwelzijn.<br>
 6. De Vlaamse minister van Welzijn, Volksgezondheid en Gezin is, wat het specifieke personeelsbeleid betreft, bevoegd voor:<br>
 a) het Departement Welzijn, Volksgezondheid en Gezin.<br>
 7. De Vlaamse minister van Werk, Economie, Innovatie en Sport is, wat het specifieke personeelsbeleid betreft, bevoegd voor : het Departement Economie, Wetenschap en Innovatie.<br>
 8. De Vlaamse minister van Omgeving, Natuur en Landbouw is, wat het specifieke personeelsbeleid betreft, bevoegd voor:<br>
 a) het Departement Landbouw en Visserij;<br>
-b) het Departement Leefmilieu, Natuur en Energie, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van :<br>
+b) het Departement Omgeving, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van :<br>
 1) het energiebeleid;<br>
 2) het dierenwelzijn;<br>
 3) de handhaving met betrekking tot onroerend erfgoed;<br>
-c) het Departement Ruimte Vlaanderen, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het onroerend-erfgoedbeleid en het woonbeleid.<br>
+c) het Departement Omgeving, met uitzondering van de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het onroerend-erfgoedbeleid en het woonbeleid.<br>
 9. De Vlaamse minister van Cultuur, Media, Jeugd en Brussel is, wat het specifieke personeelsbeleid betreft, bevoegd voor : het Departement Cultuur, Jeugd en Media.<br>
 10. De minister-president van de Vlaamse Regering, Vlaams minister van Buitenlands Beleid en Onroerend Erfgoed en de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn zijn, wat het specifieke personeelsbeleid betreft, bevoegd voor:<br>
 a) het Departement internationaal Vlaanderen:<br>
@@ -123,16 +122,14 @@ a) het Departement internationaal Vlaanderen:<br>
 11. De minister-president van de Vlaamse Regering, Vlaams minister van Buitenlands Beleid en Onroerend Erfgoed, en de viceminister-president van de Vlaamse Regering, Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding zijn, wat het specifieke personeelsbeleid betreft, bevoegd voor :<br>
 het Departement Kanselarij en Bestuur :<br>
 de secretaris-generaal.<br>
-12. De Vlaamse minister van Cultuur, Media, Jeugd en Brussel, en de Vlaamse minister van Werk, Economie, Innovatie en Sport zijn, wat het specifieke personeelsbeleid betreft, bevoegd voor : het Departement Cultuur, Jeugd en Media :<br>
+12. De Vlaamse minister van Cultuur, Media, Jeugd en Brussel, en de Vlaamse minister van Werk, Economie, Innovatie en Sport zijn, wat het specifieke personeelsbeleid betreft, bevoegd voor : het Departement Cultuur, Jeugd en Media:<br>
 a) de secretaris-generaal;<br>
 b) de Raad voor Cultuur, Jeugd, Sport en Media.<br>
 13. De Vlaamse minister van Werk, Economie, Innovatie en Sport en de viceminister-president van de Vlaamse Regering, Vlaams minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding zijn, wat het specifieke personeelsbeleid betreft, bevoegd voor:<br>
 a) het Departement Werk en Sociale Economie.<br>
-14. De minister-president van de Vlaamse Regering, Vlaams minister van Buitenlands Beleid en Onroerend Erfgoed en de viceminister-president van de Vlaamse Regering, Vlaams minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding en de Vlaamse minister van Omgeving, Natuur en Landbouw zijn, wat het specifieke personeelsbeleid betreft, met behoud van de toepassing van de voorgaande bepalingen bevoegd voor:<br>
-a) het Departement Ruimte Vlaanderen:<br>
+14. De minister-president van de Vlaamse Regering, Vlaams minister van Buitenlands Beleid en Onroerend Erfgoed en de viceminister-president van de Vlaamse Regering, Vlaams minister van Begroting, Financiën en Energie&nbsp;en de viceminister-president van de Vlaamse Regering, Vlaams minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding&nbsp;en de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn en de Vlaamse minister van Omgeving, Natuur en Landbouw zijn, wat het specifieke personeelsbeleid betreft, met behoud van de toepassing van de voorgaande bepalingen bevoegd voor:<br>
+a) het Departement Omgeving :<br>
 1) de secretaris-generaal<br>
 2) ...<br>
-15. De Vlaamse minister van Omgeving, Natuur en Landbouw en de viceminister-president van de Vlaamse Regering, Vlaams minister van Begroting, Financiën en Energie en de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn zijn, wat het specifieke personeelsbeleid betreft, met behoud van de toepassing van de voorgaande bepalingen bevoegd voor:<br>
-a) het Departement Leefmilieu, Natuur en Energie:<br>
-1) de secretaris-generaal.<br>
+15. ...<br>
 16. Voor de personeelsleden, vermeld in punt 1 tot en met 9, voor wie niet uitgemaakt kan worden of ze alleen of hoofdzakelijk taken vervullen met betrekking tot de bevoegdheden van de Vlaamse minister, onder wie ze vermeld staan, kan worden afgeweken van de indeling door middel van een protocol, afgesloten tussen de betrokken Vlaamse ministers.
