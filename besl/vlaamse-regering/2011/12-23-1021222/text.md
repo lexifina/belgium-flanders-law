@@ -82,7 +82,8 @@ De toezichthouder geeft kennis van de schorsing met een beveiligde zending. Als 
 
 ### ART. 8.
 
-Het beroep, vermeld in artikel 29bis, § 5, van de Vlaamse Wooncode wordt op straffe van onontvankelijkheid ingediend met een beveiligde zending, gericht aan de minister op het adres van het agentschap Wonen-Vlaanderen van het Vlaams ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed.<br /><br />
+Het beroep, vermeld in artikel 29bis, § 5, van de Vlaamse Wooncode wordt op straffe van onontvankelijkheid ingediend met een beveiligde zending, gericht aan de minister op het adres van het agentschap Wonen-Vlaanderen van het Vlaams ministerie van Omgeving.<br>
+&nbsp;
 
 ### ART. 9.
 
