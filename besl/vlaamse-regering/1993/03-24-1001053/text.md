@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-Binnen de perken van de beschikbare begrotingskredieten kan de secretaris-generaal van het Departement Leefmilieu, Natuur en Energie, de aankoop, met het oog op de bestrijding van geluidshinder, van apparatuur voor geluidsmetingen door provinciebesturen, gemeentebesturen en politiezones, subsidiëren.
+Binnen de perken van de beschikbare begrotingskredieten kan de secretaris-generaal van het Departement Omgeving, de aankoop, met het oog op de bestrijding van geluidshinder, van apparatuur voor geluidsmetingen door provinciebesturen, gemeentebesturen en politiezones, subsidiëren.
 
 ### ART. 2.
 
@@ -14,11 +14,19 @@ Apparatuur voor handhaving die voldoet aan de hierna vermelde technische eisen k
 
 ### ART. 4.
 
-§ 1. De aanvraag tot het bekomen van de subsidie wordt vóór de aankoop aangetekend gezonden naar de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid van het Departement Leefmilieu, Natuur en Energie van het Vlaams Ministerie Leefmilieu, Natuur en Energie.<br /><br />De aanvraag moet een door de verkoper opgestelde prijsofferte en een technische beschrijving van de voorgestelde apparatuur voor geluidsmetingen bevatten.<br /><br />§ 2. Na advies van de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid beslist de secretaris-generaal van het Departement Leefmilieu, Natuur en Energie over de principiële toezegging van de subsidie.
+§ 1. De aanvraag tot het bekomen van de subsidie wordt vóór de aankoop aangetekend gezonden naar het Departement Omgeving.<br>
+<br>
+De aanvraag moet een door de verkoper opgestelde prijsofferte en een technische beschrijving van de voorgestelde apparatuur voor geluidsmetingen bevatten.<br>
+<br>
+§ 2. Na advies van een personeelslid van het Departement Omgeving, deskundig op vlak van geluidshinder, beslist de secretaris-generaal van het Departement Omgeving over de principiële toezegging van de subsidie.
 
 ### ART. 5.
 
-§ 1. De principieel toegezegde subsidie voor apparatuur voor handhaving wordt effectief verleend na voorlegging in viervoud van de gedateerde en door de verkoper ondertekende faktuur met de formule "oprecht en waarachtig verklaard voor de som van ..." (voluit in letterschrift), van het bewijs van betaling van de faktuur en van een eerste attest van keuring afgeleverd door een milieudeskundige erkend in de discipline geluid en trillingen.<br /><br />§ 2. Het verkrijgen van de subsidie voor apparatuur voor handhaving houdt voor de provincies, gemeenten en politiezones die ervan genieten de verplichting in om hun apparatuur voor geluidsmeting jaarlijks te laten keuren door een milieudeskundige erkend in de discipline geluid en trillingen.<br /><br />Een afschrift van het keuringsattest wordt jaarlijks toegezonden aan de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid van het Departement Leefmilieu, Natuur en Energie van het Vlaams Ministerie Leefmilieu, Natuur en Energie.
+§ 1. De principieel toegezegde subsidie voor apparatuur voor handhaving wordt effectief verleend na voorlegging in viervoud van de gedateerde en door de verkoper ondertekende faktuur met de formule "oprecht en waarachtig verklaard voor de som van ..." (voluit in letterschrift), van het bewijs van betaling van de faktuur en van een eerste attest van keuring afgeleverd door een milieudeskundige erkend in de discipline geluid en trillingen.<br>
+<br>
+§ 2. Het verkrijgen van de subsidie voor apparatuur voor handhaving houdt voor de provincies, gemeenten en politiezones die ervan genieten de verplichting in om hun apparatuur voor geluidsmeting jaarlijks te laten keuren door een milieudeskundige erkend in de discipline geluid en trillingen.<br>
+<br>
+Een afschrift van het keuringsattest wordt jaarlijks toegezonden aan de het Departement Omgeving.
 
 ### ART. 5/1.
 
@@ -34,7 +42,9 @@ Per sonometer of gelijkwaardige meetketen voor handhaving met bijbehorende ijkbr
 
 ### ART. 8.
 
-De krachtens het koninklijk besluit van 18 mei 1977, tot bepaling van de voorwaarden tot toekenning en de percentages der toelagen voor de aankoop van een sonometer door provincies, agglomeraties van gemeenten en gemeenten, gesubsidiëerde apparatuur dient verder aan een jaarlijkse controle onderworpen te worden door een milieudeskundige erkend in de discipline geluid en trillingen.<br /><br />Een afschrift van het keuringsattest wordt jaarlijks toegezonden aan de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid van het Departement Leefmilieu, Natuur en Energie van het Vlaams Ministerie Leefmilieu, Natuur en Energie.
+De krachtens het koninklijk besluit van 18 mei 1977, tot bepaling van de voorwaarden tot toekenning en de percentages der toelagen voor de aankoop van een sonometer door provincies, agglomeraties van gemeenten en gemeenten, gesubsidiëerde apparatuur dient verder aan een jaarlijkse controle onderworpen te worden door een milieudeskundige erkend in de discipline geluid en trillingen.<br>
+<br>
+Een afschrift van het keuringsattest wordt jaarlijks toegezonden aan het Departement Omgeving.
 
 ### ART. 9.
 
