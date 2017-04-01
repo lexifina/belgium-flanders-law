@@ -32,7 +32,30 @@ De voorzitter wordt benoemd door de Vlaamse Regering.
 
 ### ART. 6.
 
-De VLC is samengesteld uit de volgende leden :<br />1° effectieve leden met stemrecht :<br />a) acht effectieve leden die de werknemers vertegenwoordigen en die benoemd worden op voordracht van hun representatieve organisatie in de Sociaal-Economische Raad van Vlaanderen;<br />b) acht effectieve leden die de werkgevers vertegenwoordigen en die benoemd worden op voordracht van hun representatieve organisaties in de Sociaal-Economische Raad van Vlaanderen;<br />c) acht effectieve leden die Brussels Airport en de Vlaamse regionale luchthavens vertegenwoordigen en die benoemd worden op voordracht van Brussels Airport en de Vlaamse regionale luchthavens;<br />d) twee effectieve leden die de milieuverenigingen vertegenwoordigen en die benoemd worden op voordracht van de MiNa-raad;<br />2° effectieve leden met raadgevende stem :<br />a) een effectief lid dat benoemd worden op voordracht van de overheidsbedrijven op het vlak van het stads- en streekvervoer;<br />b) zes effectieve leden met raadgevende stem die de Vlaamse overheid vertegenwoordigen in de volgende verhouding :<br />1) Departement Mobiliteit en Openbare werken : één vertegenwoordiger;<br />2) Departement Leefmilieu, Natuur en Energie : één vertegenwoordiger;<br />3) beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed : één vertegenwoordiger;<br />4) Agentschap Ondernemen : één vertegenwoordiger;<br />5) Agentschap Toerisme Vlaanderen : één vertegenwoordiger;<br />6) Departement Werk en Sociale Economie : één vertegenwoordiger;<br />3° de volgende instanties kunnen, ieder wat hem of haar betreft, één effectief lid met raadgevende stem voordragen :<br />a) de overheidsbedrijven op het vlak van het spoorvervoer; <br />b) de overheidsbedrijven op het vlak van nationale luchtverkeersleiding;<br />c) de Belgische burgerluchtvaartautoriteit;<br />d) het Brussels Hoofdstedelijk Gewest.<br /><br />De Vlaamse Regering benoemt de effectieve leden en regelt eventuele wijzigingen in de samenstelling van de Commissie. De leden worden benoemd uit dubbele lijsten die voorgedragen worden door de organisaties, vermeld in het eerste lid.<br /><br />De Vlaamse Regering benoemt een plaatsvervanger voor ieder effectief lid met stemrecht, op voordracht van de in 1° bedoelde organisaties. De plaatsvervangende leden voltooien het mandaat van het effectieve lid dat ze vervangen.
+De VLC is samengesteld uit de volgende leden :<br>
+1° effectieve leden met stemrecht :<br>
+a) acht effectieve leden die de werknemers vertegenwoordigen en die benoemd worden op voordracht van hun representatieve organisatie in de Sociaal-Economische Raad van Vlaanderen;<br>
+b) acht effectieve leden die de werkgevers vertegenwoordigen en die benoemd worden op voordracht van hun representatieve organisaties in de Sociaal-Economische Raad van Vlaanderen;<br>
+c) acht effectieve leden die Brussels Airport en de Vlaamse regionale luchthavens vertegenwoordigen en die benoemd worden op voordracht van Brussels Airport en de Vlaamse regionale luchthavens;<br>
+d) twee effectieve leden die de milieuverenigingen vertegenwoordigen en die benoemd worden op voordracht van de MiNa-raad;<br>
+2° effectieve leden met raadgevende stem :<br>
+a) een effectief lid dat benoemd worden op voordracht van de overheidsbedrijven op het vlak van het stads- en streekvervoer;<br>
+b) zes effectieve leden met raadgevende stem die de Vlaamse overheid vertegenwoordigen in de volgende verhouding :<br>
+1) Departement Mobiliteit en Openbare werken : één vertegenwoordiger;<br>
+2) Departement Omgeving: twee vertegenwoordigers;<br>
+3) ...<br>
+4) Agentschap Ondernemen : één vertegenwoordiger;<br>
+5) Agentschap Toerisme Vlaanderen : één vertegenwoordiger;<br>
+6) Departement Werk en Sociale Economie : één vertegenwoordiger;<br>
+3° de volgende instanties kunnen, ieder wat hem of haar betreft, één effectief lid met raadgevende stem voordragen :<br>
+a) de overheidsbedrijven op het vlak van het spoorvervoer;<br>
+b) de overheidsbedrijven op het vlak van nationale luchtverkeersleiding;<br>
+c) de Belgische burgerluchtvaartautoriteit;<br>
+d) het Brussels Hoofdstedelijk Gewest.<br>
+<br>
+De Vlaamse Regering benoemt de effectieve leden en regelt eventuele wijzigingen in de samenstelling van de Commissie. De leden worden benoemd uit dubbele lijsten die voorgedragen worden door de organisaties, vermeld in het eerste lid.<br>
+<br>
+De Vlaamse Regering benoemt een plaatsvervanger voor ieder effectief lid met stemrecht, op voordracht van de in 1° bedoelde organisaties. De plaatsvervangende leden voltooien het mandaat van het effectieve lid dat ze vervangen.
 
 ## HOOFDSTUK IV. Werking
 
