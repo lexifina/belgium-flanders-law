@@ -2,16 +2,16 @@
   "codex_id": 1024763,
   "title": "Besluit van de Vlaamse Regering van 2014-05-16 houdende de rechtspleging voor sommige Vlaamse bestuursrechtscolleges",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024763/VolledigDocument?datum=2017-03-05",
-  "source_sha256": "974b8729b47d467531ee6629d3a2cb1a101f207dfea45f19af2f82439c12be9d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024763/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "e1efb4cc7f815c647536b34ddc20e2322bf5339a068553090143d66be87dcc4a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024763&param=informatie",
-  "as_of": "2017-03-05",
+  "as_of": "2017-04-01",
   "made": "2014-05-16",
   "gazette": "2014-12-03",
   "numac": 2014035907,
   "document_start": "2015-01-01",
   "document_end": null,
-  "in_force": "2017-03-05",
+  "in_force": "2017-04-01",
   "article_versions": 117,
-  "record_form": "consolidated version as in force on 2017-03-05; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
