@@ -23,7 +23,7 @@ Besluit :
 ### ART. 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+1° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams ministerie van Omgeving;<br>
 2° minister : de Vlaamse minister, bevoegd voor woonbeleid;<br>
 3° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br>
 3° /1: Vlabinvest apb: het Agentschap voor Grond- en Woonbeleid voor Vlaams-Brabant;<br>
