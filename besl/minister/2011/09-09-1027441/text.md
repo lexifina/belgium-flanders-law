@@ -16,15 +16,4 @@ Besluit :
 
 ### Enig artikel
 
-Overeenkomstig artikel 4bis, tweede lid, van het koninklijk besluit van 21 april 1983 tot vaststelling van de nadere regelen voor erkenning van geneesheren-specialisten en van huisartsen, krijgen de erkenningscommissies voor de hieronder opgelijste bijzondere beroepstitels de erkenningsopdrachten toegewezen voor de naast hun naam vermelde bijzondere beroepstitels die voorbehouden zijn aan de houders van een master in de geneeskunde of van de academische graad van arts die reeds houder zijn van een bijzondere beroepstitel:<br>
-1° Erkenningscommissie voor de bijzondere beroepstitel in de klinische biologie : bijzondere beroepstitel in de nucleaire geneeskunde in vitro;<br>
-2° Erkenningscommissie voor de bijzondere beroepstitel in de stomatologie : bijzondere beroepstitel in de orale- en maxillofaciale heelkunde;<br>
-3° Erkenningscommissie voor de bijzondere beroepstitel in de urgentiegeneeskunde: bijzondere beroepstitel in de spoedzorg;<br>
-4° Erkenningscommissie voor de bijzondere beroepstitel in de neurologie : bijzondere beroepstitel in de kinderneurologie, specifiek voor de houders van de erkenning voor de bijzondere beroepstitel in de neurologie :<br>
-5° Erkenningscommissie voor de bijzondere beroepstitel in de pediatrie: bijzondere beroepstitel in de kinderneurologie, specifiek voor de houders van de erkenning voor de bijzondere beroepstitel in de pediatrie;<br>
-6° Erkenningscommissie voor de bijzondere beroepstitel in de pediatrie: bijzondere beroepstitel in de neonatologie;<br>
-7° Erkenningscommissie voor de bijzondere beroepstitel in de pediatrie: bijzondere beroepstitel in de pediatrische hematologie en oncologie;<br>
-8° Erkenningscommissie voor de bijzondere beroepstitel in de inwendige geneeskunde: bijzondere beroepstitel in de nefrologie;<br>
-9° Erkenningscommissie voor de bijzondere beroepstitel in de inwendige geneeskunde: bijzondere beroepstitel in de endocrino-diabetologie;<br>
-10° Erkenningscommissie voor de bijzondere beroepstitel in de inwendige geneeskunde: bijzondere beroepstitel in de klinische hematologie;<br>
-11° Erkenningscommissie voor de bijzondere beroepstitel in de psychiatrie: bijzondere beroepstitel in de forensische psychiatrie.
+...
