@@ -16,7 +16,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 9° producthergebruik: elke handeling, waarbij voorwerpen of componenten van voorwerpen die geen afvalstoffen zijn, opnieuw worden gebruikt voor hetzelfde doel als dat waarvoor ze waren bedoeld;<br>
 10° verzorgingsgebied: gebied dat door de OVAM bij de erkenning aan een kringloopcentrum wordt toegewezen voor de inzameling van afgedankte goederen die voor producthergebruik in aanmerking komen;<br>
 11° ...<br>
-12° de afdeling, bevoegd voor milieuhandhaving : de afdeling Milieu-Inspectie van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;
+12° ...
 
 ## TITEL II ERKENNING VAN KRINGLOOPCENTRA
 
