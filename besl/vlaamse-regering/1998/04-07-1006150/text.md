@@ -10,7 +10,9 @@ Zonder afbreuk te doen aan de bepaling van artikel 3, § 1, worden als woningbou
 
 ### ART. 3.
 
-§ 1. De renovatie, verbetering of aanpassing en de bouw van woningen binnen de woonvernieuwings- en de woningbouwgebieden blijft onderworpen aan de geldende bepalingen inzake ruimtelijke ordening en stedebouw.<br /><br />§ 2. Het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed bezorgt aan elke gemeente een plan waarop de afbakening van de woonvernieuwings- en woningbouwgebieden gedetailleerd is weergegeven, alsook een dossier met de meest recente gegevens op basis van dewelke de statistische buurten werden geselecteerd.
+§ 1. De renovatie, verbetering of aanpassing en de bouw van woningen binnen de woonvernieuwings- en de woningbouwgebieden blijft onderworpen aan de geldende bepalingen inzake ruimtelijke ordening en stedebouw.<br>
+<br>
+§ 2. Het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving bezorgt aan elke gemeente een plan waarop de afbakening van de woonvernieuwings- en woningbouwgebieden gedetailleerd is weergegeven, alsook een dossier met de meest recente gegevens op basis van dewelke de statistische buurten werden geselecteerd.
 
 ### ART. 4.
 
