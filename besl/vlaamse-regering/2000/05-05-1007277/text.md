@@ -28,7 +28,7 @@ Onverminderd de toepassing van artikel 4, worden de kosten, bedoeld in artikel 2
 
 De vordering die krachtens artikel 6.1.41 of 6.1.43 van de Vlaamse Codex Ruimtelijke Ordening wordt ingeleid, vermeldt het totale meerwaardebedrag en de berekening ervan.<br>
 <br>
-De stedenbouwkundige inspecteur en het college van burgemeester en schepenen bezorgen gelijktijdig met de inleiding van de vordering van het meerwaardebedrag aan de rekenplichtige ambtenaar van het Grondfonds, vermeld in artikel 5.6.3 van de Vlaamse Codex Ruimtelijke Ordening, die daartoe wordt aangewezen door de leidend ambtenaar van het departement Leefmilieu, Natuur en Energie onder de personeelsleden belast met de taken van uitvoering van de handhaving van de ruimtelijke ordening binnen zijn entiteit een afschrift hiervan. Zodra ze kennis krijgen van de gerechtelijke uitspraak over deze vordering, sturen ze ook een afschrift hiervan aan de rekenplichtige ambtenaar van het Grondfonds.
+De stedenbouwkundige inspecteur en het college van burgemeester en schepenen bezorgen gelijktijdig met de inleiding van de vordering van het meerwaardebedrag aan de rekenplichtige ambtenaar van het Grondfonds, vermeld in artikel 5.6.3 van de Vlaamse Codex Ruimtelijke Ordening, die daartoe wordt aangewezen door de leidend ambtenaar van het Departement&nbsp;Omgeving onder de personeelsleden belast met de taken van uitvoering van de handhaving van de ruimtelijke ordening binnen zijn entiteit een afschrift hiervan. Zodra ze kennis krijgen van de gerechtelijke uitspraak over deze vordering, sturen ze ook een afschrift hiervan aan de rekenplichtige ambtenaar van het Grondfonds.
 
 ## HOOFDSTUK III BETALING EN INVORDERING VAN DE MEERWAARDE
 
