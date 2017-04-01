@@ -28,8 +28,8 @@ In dit besluit wordt verstaan onder :<br>
 a) een aangetekende brief;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere door de minister toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
-2° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
-3° entiteiten van het beleidsveld Wonen : het agentschap en de VMSW van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+2° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving;<br>
+3° entiteiten van het beleidsveld Wonen : het agentschap en de VMSW van het beleidsdomein Omgeving;<br>
 4° minister : de Vlaamse minister, bevoegd voor wonen;<br>
 5° operationele doelstellingen : de uit de Vlaamse Wooncode afgeleide doelstellingen voor SHM's, zo veel mogelijk geformuleerd in indicatoren die specifiek, meetbaar, acceptabel, resultaatgericht en tijdsgebonden zijn;<br>
 6° prestatiebeoordeling : de procedure voor de beoordeling van de prestaties van een SHM, desgevallend in vergelijking met een voorgaande beoordeling, bestaande uit de volgende stappen die achtereenvolgens doorlopen worden :<br>
