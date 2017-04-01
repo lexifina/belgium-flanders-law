@@ -4,7 +4,19 @@
 
 ### ART. 1.
 
-§ 1. Binnen het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en   Onroerend Erfgoed wordt een intern verzelfstandigd agentschap zonder   rechtspersoonlijkheid opgericht onder de benaming Vlaams Instituut voor het   Onroerend Erfgoed, aangehaald als Onroerend Erfgoed.<BR><BR>Onroerend Erfgoed   wordt opgericht voor de voorbereiding, de uitvoering, de monitoring en de   evaluatie van het beleid inzake onroerend erfgoed, inzonderheid op basis van de   in dit besluit opgesomde taken.<BR><BR>Voor zover de taken van Onroerend Erfgoed   betrekking hebben op wetenschappelijk onderzoek, wordt het gespecificeerd als   Vlaamse wetenschappelijke instelling. <BR><BR>§ 2. Onder onroerend erfgoed wordt   begrepen:<BR>1° de monumenten en de stads- en dorpsgezichten, vermeld in het   Onroerenderfgoeddecreet van 12 juli 2013;<BR>2° de cultuurhistorische   landschappen, vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<BR>3° het   archeologisch erfgoed, vermeld in het Onroerenderfgoeddecreet van 12 juli   2013;<BR>4° het varend erfgoed, vermeld in het decreet van 29 maart 2002 tot   bescherming van varend erfgoed<STRONG><EM>.</EM></STRONG>.<BR><BR>§ 3. Onroerend   Erfgoed behoort tot het beleidsdomein Ruimtelijke Ordening, Woonbeleid en   Onroerend Erfgoed.
+§ 1. Binnen het Vlaams Ministerie van Omgeving wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming Vlaams Instituut voor het Onroerend Erfgoed, aangehaald als Onroerend Erfgoed.<br>
+<br>
+Onroerend Erfgoed wordt opgericht voor de voorbereiding, de uitvoering, de monitoring en de evaluatie van het beleid inzake onroerend erfgoed, inzonderheid op basis van de in dit besluit opgesomde taken.<br>
+<br>
+Voor zover de taken van Onroerend Erfgoed betrekking hebben op wetenschappelijk onderzoek, wordt het gespecificeerd als Vlaamse wetenschappelijke instelling.<br>
+<br>
+§ 2. Onder onroerend erfgoed wordt begrepen:<br>
+1° de monumenten en de stads- en dorpsgezichten, vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+2° de cultuurhistorische landschappen, vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+3° het archeologisch erfgoed, vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+4° het varend erfgoed, vermeld in het decreet van 29 maart 2002 tot bescherming van varend erfgoed<strong><em>.</em></strong>.<br>
+<br>
+§ 3. Onroerend Erfgoed behoort tot het beleidsdomein Omgeving.
 
 ### ART. 2.
 
