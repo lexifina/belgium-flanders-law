@@ -4,7 +4,22 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het   Agentschap : het Agentschap voor Natuur en Bos;<BR>2° decreet: het decreet van   21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<BR>3°   minister: de Vlaamse minister, bevoegd voor het Natuurbehoud;<BR>4° MINA-fonds:   het Fonds voor Preventie en Sanering inzake leefmilieu en natuur opgericht bij   decreet van 23 januari 1991;<BR>5° raad: Milieu- en Natuurraad van   Vlaanderen;<BR>6° visiegebied: een logisch en samenhangend geheel waarvoor een   globaal streefbeeld wordt uitgewerkt waarbinnen het beheer van ter erkenning   voorgedragen percelen wordt gekaderd;<BR>7° uitbreidingszone: uitbreidingszone   overeenkomstig artikel 33, 3e lid, van het decreet;<BR>8° VEN: Vlaams Ecologisch   Netwerk, overeenkomstig artikel 17, § 1, van het decreet;<BR>9° GEN: Grote   Eenheid Natuur, overeenkomstig artikel 17, § 2, 1°, van het decreet;<BR>10°   GENO: Grote Eenheid Natuur in Ontwikkeling, overeenkomstig artikel 17, § 2, 2°,   van het decreet;<BR>11° IVON: Integraal Verwevings- en Ondersteunend Netwerk,   overeenkomstig artikel 27 van het decreet;<BR>12° actueel natuurtype: de   vegetatie actueel aanwezig op het terrein;<BR>13° natuurstreefbeeld: de   vegetatie waarnaar gestreefd wordt via gericht beheer op basis van de aanwezige   potenties;<BR>14° ....<BR>15° de afdeling, bevoegd voor land en bodembescherming   : de afdeling Land en Bodembescherming, Ondergrond en Natuurlijke Rijkdommen van   het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met   toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober   2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden   van de departementen van de Vlaamse ministeries.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° het Agentschap : het Agentschap voor Natuur en Bos;<br>
+2° decreet: het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+3° minister: de Vlaamse minister, bevoegd voor het Natuurbehoud;<br>
+4° MINA-fonds: het Fonds voor Preventie en Sanering inzake leefmilieu en natuur opgericht bij decreet van 23 januari 1991;<br>
+5° raad: Milieu- en Natuurraad van Vlaanderen;<br>
+6° visiegebied: een logisch en samenhangend geheel waarvoor een globaal streefbeeld wordt uitgewerkt waarbinnen het beheer van ter erkenning voorgedragen percelen wordt gekaderd;<br>
+7° uitbreidingszone: uitbreidingszone overeenkomstig artikel 33, 3e lid, van het decreet;<br>
+8° VEN: Vlaams Ecologisch Netwerk, overeenkomstig artikel 17, § 1, van het decreet;<br>
+9° GEN: Grote Eenheid Natuur, overeenkomstig artikel 17, § 2, 1°, van het decreet;<br>
+10° GENO: Grote Eenheid Natuur in Ontwikkeling, overeenkomstig artikel 17, § 2, 2°, van het decreet;<br>
+11° IVON: Integraal Verwevings- en Ondersteunend Netwerk, overeenkomstig artikel 27 van het decreet;<br>
+12° actueel natuurtype: de vegetatie actueel aanwezig op het terrein;<br>
+13° natuurstreefbeeld: de vegetatie waarnaar gestreefd wordt via gericht beheer op basis van de aanwezige potenties;<br>
+14° ....<br>
+15° ...
 
 ## HOOFDSTUK II TERREINBEHERENDE NATUURVERENIGINGEN EN SUBSIDIËRING AANKOPEN NATUURGEBIEDEN
 
