@@ -79,6 +79,14 @@ c) het transmissienet;<br>
 39° energiedeskundige : de natuurlijke persoon die onderworpen is aan het sociaal statuut van de zelfstandige of de bezoldigde medewerker van een rechtspersoon, die energieadvies verstrekt;<br>
 39/1° energiedienst: het fysieke voordeel, nut of welzijn dat wordt bereikt met een combinatie van energie met energie-efficiënte technologie of actie, die de bewerkingen, het onderhoud en de controle kan omvatten die nodig zijn voor de levering van de dienst, welke wordt geleverd op basis van een overeenkomst en welke onder normale omstandigheden heeft aangetoond te leiden tot een controleerbare en meetbare of een schatbare verbetering van de energie-efficiëntie of tot controleerbare en meetbare of schatbare primaire energiebesparingen;<br>
 40° energiedrager : kolen en afgeleide producten, petroleumproducten, gas, elektriciteit, hernieuwbare energiebronnen, warmte en nucleaire warmte;<br>
+40° /1 energiefraude: elke onrechtmatige actie van eenieder, zowel actief als passief, die gepaard gaat met het verkrijgen van een onrechtmatig voordeel. Daaronder wordt minstens verstaan:<br>
+a) handelingen uitvoeren op het distributienet of op het plaatselijke vervoernet van elektriciteit zonder daartoe gemachtigd te zijn;<br>
+b) de aansluiting of meetinstallatie manipuleren;<br>
+c) meldingsverplichtingen die voortvloeien uit de toepassing van dit decreet, de uitvoeringsbesluiten ervan, het aansluitingsreglement, het aansluitingscontract of het technisch reglement niet uitvoeren;<br>
+d) informatie bezorgen die niet consistent of in overeenstemming met de werkelijkheid is in het kader van contract- of aansluitingsaanvragen bij de leverancier, toegangshouder of netbeheerder;<br>
+e) informatie bezorgen die niet consistent of in overeenstemming met de werkelijkheid is in het kader van de aanvraag van groenestroomcertificaten of warmte-krachtcertificaten of van de rapportering van meetgegevens die aanleiding geven tot het toekennen van groenestroomcertificaten of warmte-krachtcertificaten;<br>
+f) informatie bezorgen die niet consistent of in overeenstemming met de werkelijkheid is in het kader van subsidie- of premieaanvragen in uitvoering van dit decreet of zijn uitvoeringsbesluiten;<br>
+g) informatie bezorgen die niet consistent of in overeenstemming met de werkelijkheid is in het kader van meldingsverplichtingen die voortvloeien uit de toepassing van dit decreet, de uitvoeringsbesluiten ervan, het aansluitingsreglement, het aansluitingscontract of het technisch reglement;<br>
 41° energiekengetal : het gemiddelde van het energieverbruik in een sector in verhouding tot een parameter die bepalend is voor het energieverbruik in die sector;<br>
 42° energieplan : een systematische, gedocumenteerde en objectieve evaluatie van het beheer, de organisatie en de uitrusting van de betrokken onderneming, de niet-commerciële instelling of de publiekrechtelijke rechtspersoon op het gebied van energie-efficiëntie, waarbij de mogelijke maatregelen inzake de verbetering van de energie-efficiëntie in kaart worden gebracht;<br>
 42/1° energieprestatie van gebouwen: de berekende of gemeten hoeveelheid energie die nodig is om aan de vraag naar energie te voldoen die verband houdt met een normaal gebruik van het gebouw, waaronder energie die wordt gebruikt voor verwarming, koeling, ventilatie, warmwatervoorziening en verlichting;<br>
@@ -92,7 +100,6 @@ c) het transmissienet;<br>
 49° erkende instelling voor schuldbemiddeling : instelling die erkend is volgens het decreet van 24 juli 1996 houdende de regeling tot erkenning van de instellingen voor schuldbemiddeling in de Vlaamse Gemeenschap;<br>
 50° evenwichtsverantwoordelijke : rechtspersoon die een contract heeft afgesloten met de beheerder van het transmissienet met betrekking tot de transmissie van elektriciteit tussen een of meer injectiepunten en afnamepunten en die voor een geheel van toegangspunten zorg draagt voor het evenwicht tussen de injectie en de afname van elektriciteit op die toegangspunten;<br>
 51° ...<br>
-55° fraude : onrechtmatige manipulatie door een afnemer van een aansluiting of meetinstallatie;<br>
 53° garantie van oorsprong : uniek, verhandelbaar en overdraagbaar elektronisch document dat uitsluitend tot doel heeft om de eindafnemer aan te tonen dat een bepaald aandeel of een bepaalde hoeveelheid energie geproduceerd is op basis van hernieuwbare energiebronnen of kwalitatieve warmte-krachtkoppeling.<br>
 54° gaswinningsinstallatie : installatie waarmee aardgas wordt gewonnen uit de ondergrond of waarin biogas wordt geproduceerd;<br>
 55° gebied bestemd voor bewoning : gebied dat volgens het gewestplan of ruimtelijk uitvoeringsplan één van de volgende bestemmingen heeft :<br>
@@ -107,6 +114,7 @@ e) woonuitbreidingsgebied;<br>
 56°/2 gesloten distributienet : een net dat gebruikt wordt voor de distributie van elektriciteit of aardgas binnen een geografisch afgebakende industriële of commerciële locatie of een geografisch afgebakende locatie met gedeelde diensten, dat, behoudens incidenteel, geen huishoudelijke afnemers van elektriciteit of aardgas voorziet, en dat aan een van de volgende vereisten voldoet :<br>
 a) om specifieke technische eisen of veiligheidseisen voorziet het in een geïntegreerde exploitatie of een geïntegreerd productieproces van de verschillende gebruikers van het net;<br>
 b) het distribueert primair elektriciteit of aardgas aan de eigenaar of beheerder van het net of de daarmee verwante bedrijven.<br>
+56° /3 gezondheidsvoorziening: een organisatie die erkend is door de Vlaamse Gemeenschap en activiteiten uitoefent op het gebied van de zorgverstrekking, de gezondheidsopvoeding en de preventieve gezondheidszorg, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, met uitzondering van de voorzieningen werkzaam op het vlak van de medisch verantwoorde sportbeoefening;<br>
 57° gestrande kosten : de kosten die ondernemingen moeten dragen ten gevolge van verplichtingen die ze in het verleden zijn aangegaan, maar die ze niet langer kunnen nakomen door de liberalisering van de betrokken sector;<br>
 58° groene stroom : elektriciteit die geproduceerd is uit een hernieuwbare energiebron;<br>
 59° groene warmte : warmte die geproduceerd is uit een hernieuwbare energiebron;<br>
@@ -174,6 +182,7 @@ b) en bijkomend voor projecten inzake zonne-energie : 31 januari;<br>
 92° /3 noodgroep: generatoren die uitsluitend tot bedoeling hebben om kritische belasting te voeden bij netuitval, en die verder enkel netgekoppeld worden om te testen of om een aanzienlijk of systematisch onevenwicht in de Belgische regelzone op te vangen zoals onder de tertiaire reserve omschreven in het koninklijk besluit van 19 december 2002 houdende een technisch reglement voor het beheer van het transmissienet van elektriciteit en de toegang ertoe;<br>
 93° ondernemingen : elke natuurlijke persoon die koopman is of een zelfstandig beroep uitoefent, de vennootschappen die de rechtsvorm van een handelsvennootschap hebben aangenomen, de Europese economische samenwerkingsverbanden en de economische samenwerkingsverbanden die beschikken over een exploitatiezetel in het Vlaamse Gewest of die zich ertoe verbinden in het Vlaamse Gewest een exploitatiezetel te vestigen;<br>
 94° ondersteunende dienst: een dienst die nodig is voor de exploitatie van een transmissie- of distributienet;<br>
+94° /1 onderwijsinstelling: alle scholen, internaten, centra voor volwassenenonderwijs en voor basiseducatie, centra voor leerlingenbegeleiding, hogescholen en universiteiten, die gefinancierd, gesubsidieerd of erkend zijn door het Vlaams Ministerie van Onderwijs en Vorming;<br>
 95° onrendabele top : het productieafhankelijk gedeelte van de inkomsten dat nodig is om de netto contante waarde van een investering op nul te doen uitkomen en die berekend wordt aan de hand van een cashflowberekening;<br>
 96° ontsloten wooneenheid of gebouw : wooneenheid die of gebouw dat aan één van de volgende voorwaarden voldoet :<br>
 a) de wooneenheid of het gebouw is aangesloten op een aardgasdistributienet;<br>
@@ -250,6 +259,7 @@ b) voor warmte-krachtbesparing is dit de netto warmte-krachtbesparing over een b
 136° warmtekrachtinstallatie : installatie die in één proces thermische warmte en elektrische of mechanische energie opwekt;<br>
 137° warmtekrachtkoppeling : gelijktijdige opwekking in één proces van thermische warmte en elektrische of mechanische energie;<br>
 137/1° warmtepomp: voor wat de toepassing van de titels X en XI betreft, een machine, toestel of installatie dat/die warmte uit de natuurlijke omgeving, zoals de lucht, het water of de bodem overdraagt aan gebouwen of industriële installaties door de natuurlijke warmtestroming om te keren van een lagere naar een hogere temperatuur of waar bij omkeerbare warmtepompen de warmtestroming ook van het gebouw naar de natuurlijke omgeving kan plaatsvinden;<br>
+137° /2 welzijnsvoorziening: een organisatie die erkend is door de Vlaamse Gemeenschap en activiteiten uitoefent op het gebied van het gezin, het maatschappelijk welzijn, het onthaal en de integratie van inwijkelingen, de mindervaliden, de bejaarden, de jeugdbescherming en de sociale hulpverlening aan gedetineerden met het oog op hun sociale re-integratie, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 138° werkmaatschappij : de privaatrechtelijke vennootschap waarin de distributienetbeheerder participeert of de publiekrechtelijke rechtspersoon die participeert in de distributienetbeheerder, die in naam en voor rekening van de distributienetbeheerder belast is met de exploitatie van zijn net en de toepassing van openbaredienstverplichtingen;<br>
 138/1° Woningbouwwet: de wet van 9 juli 1971 tot regeling van de woningbouw en de verkoop van te bouwen of in aanbouw zijnde woningen;<br>
 139° wooneenheid : elke eenheid in een woongebouw die over de nodige woonvoorzieningen beschikt om autonoom te kunnen functioneren.
@@ -621,7 +631,22 @@ De Vlaamse Regering bepaalt de termijn waarbinnen de toestemming van de VREG moe
 
 ### ART. 4.1.6.
 
-Het beheer van een distributienet en het plaatselijk vervoernet van elektriciteit omvat, onder meer, de volgende taken :<br />1° het beheer en onderhoud en het ontwikkelen onder economische voorwaarden van een veilig, betrouwbaar en efficiënt net met inachtneming van het milieu en de energie-efficiëntie van het net, en in dat verband, het instaan voor de nodige ondersteunende diensten;<br />2° het aanhouden van voldoende capaciteit om de elektriciteits- en aardgasbehoefte te dekken van de afnemers die aangesloten zijn op zijn net en het vervoer van elektriciteit en aardgas naar distributienetten mogelijk te maken;<br />3° de uitbreiding van zijn net in het geografisch afgebakende gebied waarvoor hij werd aangewezen of, als er nog geen net aanwezig is, de aanleg van het net in dit geografisch afgebakende gebied;<br />4° de herstelling, het preventieve onderhoud, de vernieuwing en de verbetering van zijn net en de bijbehorende installaties;<br />5° het herstellen van onderbrekingen en storingen bij de elektriciteits- of aardgastoevoer via zijn net;<br />6° het opstellen, het bewaren en ter beschikking stellen van de plannen van zijn net;<br />7° het aansluiten, verzegelen, afsluiten en heraansluiten van installaties op zijn net en het verzwaren van de aansluitingen op zijn net;<br />8° het verlenen van toegang tot zijn net;<br />9° het beheren van het toegangsregister van zijn net;<br />10° het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud en het herstellen van meters en tellers op de toegangspunten op zijn net;<br />11° het aflezen van de meters en tellers op de toegangspunten op zijn net, de bepaling van de injectie en de afname van de producenten en afnemers die aangesloten zijn op zijn net en de verwerking en de bewaring van die gegevens;<br />12° het verstrekken van de nodige meetgegevens en andere gegevens aan de beheerder van het transmissienet, de vervoeronderneming, de producenten, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de afnemers en de VREG;<br />13° het verstrekken van de nodige inlichtingen aan de beheerders van de netten waarmee zijn net in kwestie verbonden is, om een veilige en efficiënte uitbating, een gecoördineerde ontwikkeling en een goede wisselwerking tussen de netten te waarborgen;<br />14° als elektriciteitsdistributienetbeheerder transparante, niet-discriminerende en op de markt gebaseerde procedures hanteren bij de aankoop van elektriciteit.
+Het beheer van een distributienet en het plaatselijk vervoernet van elektriciteit omvat, onder meer, de volgende taken :<br>
+1° het beheer en onderhoud en het ontwikkelen onder economische voorwaarden van een veilig, betrouwbaar en efficiënt net met inachtneming van het milieu en de energie-efficiëntie van het net, en in dat verband, het instaan voor de nodige ondersteunende diensten;<br>
+2° het aanhouden van voldoende capaciteit om de elektriciteits- en aardgasbehoefte te dekken van de afnemers die aangesloten zijn op zijn net en het vervoer van elektriciteit en aardgas naar distributienetten mogelijk te maken;<br>
+3° de uitbreiding van zijn net in het geografisch afgebakende gebied waarvoor hij werd aangewezen of, als er nog geen net aanwezig is, de aanleg van het net in dit geografisch afgebakende gebied;<br>
+4° de herstelling, het preventieve onderhoud, de vernieuwing en de verbetering van zijn net en de bijbehorende installaties;<br>
+5° het herstellen van onderbrekingen en storingen bij de elektriciteits- of aardgastoevoer via zijn net;<br>
+6° het opstellen, het bewaren en ter beschikking stellen van de plannen van zijn net;<br>
+7° het aansluiten, verzegelen, afsluiten en heraansluiten van installaties op zijn net en het verzwaren van de aansluitingen op zijn net;<br>
+8° het verlenen van toegang tot zijn net;<br>
+9° het beheren van het toegangsregister van zijn net;<br>
+10° het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud en het herstellen van meters en tellers op de toegangspunten op zijn net;<br>
+11° het aflezen van de meters en tellers op de toegangspunten op zijn net, de bepaling van de injectie en de afname van de producenten en afnemers die aangesloten zijn op zijn net en de verwerking en de bewaring van die gegevens;<br>
+12° het verstrekken van de nodige meetgegevens en andere gegevens aan de beheerder van het transmissienet, de vervoeronderneming, de producenten, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de afnemers en de VREG;<br>
+13° het verstrekken van de nodige inlichtingen aan de beheerders van de netten waarmee zijn net in kwestie verbonden is, om een veilige en efficiënte uitbating, een gecoördineerde ontwikkeling en een goede wisselwerking tussen de netten te waarborgen;<br>
+14° als elektriciteitsdistributienetbeheerder transparante, niet-discriminerende en op de markt gebaseerde procedures hanteren bij de aankoop van elektriciteit;<br>
+15° alle vormen van energiefraude, gerelateerd aan hun activiteiten, actief detecteren en vaststellen, en maatregelen nemen om energiefraude te vermijden.
 
 ## [Onderafdeling II. Activiteiten inzake levering, productie, verschaffen van energiediensten, energieopslag en oplaadpunten voor elektrische voertuigen door de netbeheerder en zijn werkmaatschappij (verv. decr. 2 april 2021, art. 14, I: 7 juni 2021)]
 
@@ -802,6 +827,10 @@ De uitoefening door de netbeheerder van het recht, vermeld in artikel 4.1.23, ka
 De netbeheerder heeft het recht op toegang tot de ruimte(s) waardoor de   aansluitkabel loopt of de ruimte waarin de elektriciteits- of aardgasmeter is   opgesteld en waarover hij het eigendoms- of gebruiksrecht heeft, voor werken aan   de aansluiting, de plaatsing, de inschakeling, de controle of de meteropname van   de elektriciteitsmeter, inclusief de budgetmeter voor elektriciteit en de   stroombegrenzer, of van de aardgasmeter, inclusief de budgetmeter voor   aardgas.<BR><BR>De netgebruiker verschaft de netbeheerder onmiddellijk toegang   op eenvoudig mondeling verzoek na behoorlijke legitimatie.
 
 ## [Onderafdeling IV. Gebruik van persoonlijke gegevens door de netbeheerder (ing. decr. 24 februari 2017, art. 5, I: 1 april 2017)]
+
+### ART 4.1.26/2.
+
+De netbeheerders kunnen, onder toezicht van de VREG, voor de unieke identificatie van netgebruikers het ondernemingsnummer, het rijksregisternummer of het vreemdelingennummer opvragen en gebruiken.
 
 ## [Afdeling XI. Gebruik van het openbaar domein (ing. Decr. 16 maart 2012, art. 8, I: 1 juli 2012)][of de gemeentewegen (verv. Decr. 18 maart 2022, art. 10, I: 9 april 2022)][door de netbeheerder (ing. Decr. 16 maart 2012, art. 8, I: 1 juli 2012)]
 
@@ -1027,7 +1056,35 @@ De beheerder van een privédistributienet heeft geen openbare dienstverplichting
 
 ### ART. 5.1.1.
 
-<P>...</P>
+<p>De distributienetbeheerders of hun werkmaatschappijen stellen jaarlijks gezamenlijk een actieplan op voor het komende jaar over het voorkomen, detecteren en vaststellen van energiefraude en bezorgen dat aan de minister voor 30 november.<br>
+<br>
+De distributienetbeheerders stellen jaarlijks een rapport op over het afgelopen jaar over het voorkomen, detecteren en vaststellen van energiefraude en bezorgen dat aan de minister voor 1 mei.</p>
+
+### ART 5.1.2.
+
+Onverminderd de bepalingen van artikel 6.1.2 kan de netbeheerder de toevoer van elektriciteit of aardgas afsluiten met het oog op een regularisatie van het net, de aansluiting of van de meetinstallatie door de netgebruiker als er energiefraude door de netgebruiker als vermeld in artikel 1.1.3, 40° /1, a), b), c), d) en g), wordt vastgesteld, na het volgen van een procedure die door de Vlaamse Regering wordt bepaald.<br>
+<br>
+De kosten die de netbeheerder heeft gemaakt om de energiefraude, vermeld in artikel 1.1.3, 40° /1, a), b), c), d) en g), ongedaan te maken, de kosten van de afsluiting, bedoeld in voorgaand lid, de regularisatie van de aansluiting of van de meetinstallatie, de heraansluiting, de kosten voor het onrechtmatig verkregen voordeel en de interesten zijn ten laste van de betreffende netgebruiker.<br>
+<br>
+De Vlaamse Regering kan, na advies van de VREG, richtlijnen uitvaardigen voor de wijze waarop de hoeveelheid onrechtmatig verkregen voordeel kan worden berekend.
+
+### ART 5.1.3.
+
+Onverminderd de bepalingen van de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaring te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste van de Staat zijn, kan de netbeheerder of beheerder van het transmissienet de uitbetaling van groenestroomcertificaten, warmte-krachtkoppelingscertificaten, vergoedingen en premies die zijn ingesteld ter uitvoering van titel VII en VIII van dit decreet, opschorten, stopzetten of terugvorderen als er energiefraude als vermeld in artikel 1.1.3, 40° /1, e) of f), van dit decreet, wordt vastgesteld.<br>
+<br>
+De kosten die de netbeheerder of beheerder van het transmissienet heeft gemaakt om de energiefraude, vermeld in artikel 1.1.3, 40° /1, e) of f), van dit decreet, ongedaan te maken, en de kosten van de opschorting, stopzetting of terugvordering en de intresten zijn ten laste van de betreffende netgebruiker. De netbeheerder of zijn gemandateerde zal deze kosten rechtstreeks invorderen bij de netgebruiker.<br>
+<br>
+De Vlaamse Regering kan, na advies van de VREG, richtlijnen uitvaardigen voor de wijze waarop de hoeveelheid onrechtmatig verkregen voordeel kan worden berekend.
+
+### ART 5.1.4.
+
+De netbeheerders mogen de gegevens waarover ze voor de uitoefening van hun taken, vermeld in artikel 4.1.6, beschikken, of de gegevens die voor hen hiertoe toegankelijk zijn of worden gemaakt door het Vlaams Energieagentschap, de VREG, de toegangshouders en leveranciers of gegevens uit het Bevolkingsregister, het Vreemdelingenregister of de Kruispuntbank voor de Ondernemingen, gebruiken om energiefraude te detecteren en vast te stellen via technieken als datamining of profilering.<br>
+<br>
+De netbeheerders die gebruikmaken van technieken als datamining of profilering om energiefraude te detecteren en vast te stellen hanteren proportionele en relevante criteria, die periodiek kunnen variëren, en die ervoor zorgen dat de te verwerken persoonsgegevens zo beperkt mogelijk maar tegelijk relevant zijn om fraudetypologieën te detecteren. De Vlaamse Regering kan nadere regels uitvaardigen met betrekking tot de te hanteren criteria.<br>
+<br>
+Elke partij die data aanlevert hiervoor blijft verantwoordelijk voor de waarachtigheid en nauwkeurigheid van de betreffende data. De netbeheerders zijn verantwoordelijk voor de waarachtigheid en nauwkeurigheid van het gebruik van de gegevens voor het detecteren en vaststellen van energiefraude. Zij stellen hierover een intern rapport op, volgen de risico's van de techniek van datamining continu op, waken over hun zorgvuldigheidsplicht om kwaliteitsvolle analyses van persoonsgegevens te verrichten, evalueren continu de gebruikte dataminingmethode en passen ze indien nodig aan.<br>
+<br>
+De Vlaamse Regering vaardigt nadere regels uit met betrekking tot het gebruik van de gegevens die voortkomen uit technieken als datamining of profilering, om de transparantie ten aanzien van de natuurlijke personen van wie persoonsgegevens worden verwerkt te garanderen en misbruik van deze gegevens zoveel mogelijk te voorkomen. Minstens bevatten deze regels richtlijnen op vlak van de verantwoordelijkheid van de verschillende leveranciers van data en van de netbeheerders inzake dataverwerking, op vlak van de aard van deze verwerking, de categorieën verwerkte gegevens en de bewaring van de gegevens.
 
 ## TITEL VI. SOCIALE ENERGIEMAATREGELEN VOOR HUISHOUDELIJKE AFNEMERS
 
@@ -1039,7 +1096,31 @@ Behoudens de gevallen, vermeld in artikel 6.1.2, heeft iedere   huishoudelijke a
 
 ### ART. 6.1.2.
 
-§ 1. De netbeheerder kan de toevoer van elektriciteit of aardgas alleen in de volgende gevallen afsluiten :<br />1° bij een onmiddellijke bedreiging van de veiligheid, zolang die toestand duurt;<br />2° bij een leegstaande woning, na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br />3° bij fraude van de huishoudelijke afnemer, na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br />4° als de huishoudelijke afnemer geen wanbetaler is en weigert om een leveringscontract te sluiten, na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br />5° als de huishoudelijke afnemer weigert om aan de netbeheerder toegang te geven tot de ruimte waarin de elektriciteits- of aardgasmeter is opgesteld en waarover hij het eigendoms- of gebruiksrecht heeft, voor de plaatsing, de inschakeling, de controle of de meteropname van de elektriciteitsmeter, inclusief de budgetmeter voor elektriciteit en de stroombegrenzer of van de aardgasmeter, inclusief de budgetmeter voor aardgas;<br />6° als de huishoudelijke afnemer weigert om aan de netbeheerder toegang te geven tot de ruimte waarin de budgetmeter voor elektriciteit is opgesteld en waarover hij het eigendoms- of gebruiksrecht heeft, voor het uitschakelen van de stroombegrenzer in de budgetmeter voor elektriciteit;<br />7° als de huishoudelijke afnemer weigert om met de netbeheerder een afbetalingsplan te sluiten of als hij het gesloten afbetalingsplan met de netbeheerder niet naleeft, onder de voorwaarden die door de Vlaamse Regering worden bepaald, en na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br />8° als het leveringscontract van de huishoudelijke afnemer werd opgezegd om een andere reden dan wanbetaling en als de huishoudelijke afnemer binnen een periode die door de Vlaamse Regering wordt vastgelegd, geen leveringscontract heeft gesloten, tenzij de betreffende afnemer kan aantonen dat hij geen leveringscontract heeft kunnen sluiten.<br /><br />In de gevallen, vermeld in 5°, 6°, 7° en 8°, van het eerste lid, kan de afsluiting pas na een advies van de lokale adviescommissie.<br /><br />In de gevallen, vermeld in 5°, 6°, 7° en 8°, van het eerste lid, kan de Vlaamse Regering de afsluiting van de elektriciteits- of aardgastoevoer in bepaalde periodes beperken of verbieden.<br /><br />De netbeheerder kan alleen in het voordeel van de huishoudelijke afnemer afwijken van het advies van de lokale adviescommissie.<br /><br />§ 2. In het geval, vermeld in § 1, 1°, komen alle kosten die verbonden zijn aan de afsluiting of heraansluiting van de huishoudelijke afnemer, ten laste van de netbeheerder, tenzij de netbeheerder kan aantonen dat de oorzaak van de onveiligheid toegeschreven kan worden aan de huishoudelijke afnemer of aan de eigenaar van de woning.<br /><br />In de gevallen, vermeld in § 1, 2°, komen alle kosten die verbonden zijn aan de afsluiting en de heraansluiting van de woning, ten laste van de eigenaar van de woning.<br /><br />In de gevallen, vermeld in § 1, 3°, 4°, 5°, 6°, 7° en 8°, komen alle kosten die verbonden zijn aan de afslui-ting en de heraansluiting van de huishoudelijke afnemer, ten laste van die huishoudelijke afnemer.<br /><br />In afwijking van de vorige leden vallen de kosten die verbonden zijn aan de heraansluiting steeds ten laste van de netbeheerder als blijkt dat de huishoudelijke afnemer ten onrechte werd afgesloten.<br /><br />§ 3. De Vlaamse Regering bepaalt de voorwaarden voor een heraansluiting en de termijnen waarbinnen de heraansluiting van de elektriciteits- en de aardgastoevoer en de herinschakeling van de stroombegrenzer in de budgetmeter voor elektriciteit wordt uitgevoerd.
+§ 1. De netbeheerder kan de toevoer van elektriciteit of aardgas alleen in de volgende gevallen afsluiten :<br>
+1° bij een onmiddellijke bedreiging van de veiligheid, zolang die toestand duurt;<br>
+2° bij een leegstaande woning, na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br>
+3° bij&nbsp;energiefraude als vermeld in artikel 1.1.3, 40° /1, a), b), c), d) en g) van de huishoudelijke afnemer, na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br>
+4° als de huishoudelijke afnemer geen wanbetaler is en weigert om een leveringscontract te sluiten, na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br>
+5° als de huishoudelijke afnemer weigert om aan de netbeheerder toegang te geven tot de ruimte waarin de elektriciteits- of aardgasmeter is opgesteld en waarover hij het eigendoms- of gebruiksrecht heeft, voor de plaatsing, de inschakeling, de controle of de meteropname van de elektriciteitsmeter, inclusief de budgetmeter voor elektriciteit en de stroombegrenzer of van de aardgasmeter, inclusief de budgetmeter voor aardgas;<br>
+6° als de huishoudelijke afnemer weigert om aan de netbeheerder toegang te geven tot de ruimte waarin de budgetmeter voor elektriciteit is opgesteld en waarover hij het eigendoms- of gebruiksrecht heeft, voor het uitschakelen van de stroombegrenzer in de budgetmeter voor elektriciteit;<br>
+7° als de huishoudelijke afnemer weigert om met de netbeheerder een afbetalingsplan te sluiten of als hij het gesloten afbetalingsplan met de netbeheerder niet naleeft, onder de voorwaarden die door de Vlaamse Regering worden bepaald, en na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br>
+8° als het leveringscontract van de huishoudelijke afnemer werd opgezegd om een andere reden dan wanbetaling en als de huishoudelijke afnemer binnen een periode die door de Vlaamse Regering wordt vastgelegd, geen leveringscontract heeft gesloten, tenzij de betreffende afnemer kan aantonen dat hij geen leveringscontract heeft kunnen sluiten.<br>
+<br>
+In de gevallen, vermeld in 5°, 6°, 7° en 8°, van het eerste lid, kan de afsluiting pas na een advies van de lokale adviescommissie.<br>
+<br>
+In de gevallen, vermeld in 5°, 6°, 7° en 8°, van het eerste lid, kan de Vlaamse Regering de afsluiting van de elektriciteits- of aardgastoevoer in bepaalde periodes beperken of verbieden.<br>
+<br>
+De netbeheerder kan alleen in het voordeel van de huishoudelijke afnemer afwijken van het advies van de lokale adviescommissie.<br>
+<br>
+§ 2. In het geval, vermeld in § 1, 1°, komen alle kosten die verbonden zijn aan de afsluiting of heraansluiting van de huishoudelijke afnemer, ten laste van de netbeheerder, tenzij de netbeheerder kan aantonen dat de oorzaak van de onveiligheid toegeschreven kan worden aan de huishoudelijke afnemer of aan de eigenaar van de woning.<br>
+<br>
+In de gevallen, vermeld in § 1, 2°, komen alle kosten die verbonden zijn aan de afsluiting en de heraansluiting van de woning, ten laste van de eigenaar van de woning.<br>
+<br>
+In de gevallen, vermeld in § 1, 3°, 4°, 5°, 6°, 7° en 8°, komen alle kosten die verbonden zijn aan de afslui-ting en de heraansluiting van de huishoudelijke afnemer, ten laste van die huishoudelijke afnemer.<br>
+<br>
+In afwijking van de vorige leden vallen de kosten die verbonden zijn aan de heraansluiting steeds ten laste van de netbeheerder als blijkt dat de huishoudelijke afnemer ten onrechte werd afgesloten.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de voorwaarden voor een heraansluiting en de termijnen waarbinnen de heraansluiting van de elektriciteits- en de aardgastoevoer en de herinschakeling van de stroombegrenzer in de budgetmeter voor elektriciteit wordt uitgevoerd.
 
 ### ART. 6.1.3.
 
@@ -1119,7 +1200,9 @@ De bandingfactor is in dit geval maximaal gelijk aan 0,75.<br>
 
 ### ART. 7.1.4.
 
-De door de VREG toegekende groenestroom-certificaten en warmtekrachtcertificaten worden geregistreerd in een centrale databank. De Vlaamse Regering bepaalt de specificaties die per certificaat in de centrale databank moeten worden vermeld.
+De door de VREG toegekende groenestroom-certificaten en warmtekrachtcertificaten worden geregistreerd in een centrale databank. De Vlaamse Regering bepaalt de specificaties die per certificaat in de centrale databank moeten worden vermeld.<br>
+<br>
+De VREG kan voor de unieke identificatie van de gebruikers van de databank het ondernemingsnummer, het rijksregisternummer of het vreemdelingennummer opvragen en gebruiken.
 
 ## [Afdeling I/1. Berekening van de onrendabele toppen en de bandingfactoren (ing. Decr. 13 juli 2012, art. 6, I: 30 juli 2012)]
 
@@ -1415,7 +1498,11 @@ De Vlaamse Regering bepaalt de nadere toepassingsregels voor de verplichtingen, 
 
 ### ART. 7.5.1.
 
-De Vlaamse Regering kan, na advies van de VREG, de leveranciers en   netbeheerders openbaredienst-verplichtingen opleggen inzake programma's ter   bevordering van het rationeel energiegebruik en hernieuwbare energiebronnen,   minimumnormen inzake rationeel energiegebruik bij hun afnemers en investeringen   in kwalitatieve warmtekrachtinstallaties, installaties voor de productie van   groene stroom, groenestroomcertificaten of warmtekrachtcertificaten.<BR><BR>In   afwijking van artikel 4.1.10, eerste lid, kan de netbeheerder of zijn   werkmaatschappij echter in het kader van de uitvoering van de hun op grond van   dit artikel opgelegde openbaredienstverplichtingen en onder de door de Vlaamse   Regering vastgestelde voorwaarden, gegevens verstrekken aan personen die   daarvoor door de Vlaamse Regering zijn aangewezen.
+De Vlaamse Regering kan, na advies van de VREG, de leveranciers en netbeheerders openbaredienst-verplichtingen opleggen inzake programma's ter bevordering van het rationeel energiegebruik en hernieuwbare energiebronnen, minimumnormen inzake rationeel energiegebruik bij hun afnemers en investeringen in kwalitatieve warmtekrachtinstallaties, installaties voor de productie van groene stroom, groenestroomcertificaten of warmtekrachtcertificaten.<br>
+<br>
+De Vlaamse Regering kan, na advies van de VREG, de netbeheerders openbaredienstverplichtingen opleggen inzake programma's ter bevordering van elektrische voertuigen, met inbegrip van voertuigen met brandstofcellen, hybride voertuigen en voertuigen op aardgas.<br>
+<br>
+In afwijking van artikel 4.1.10, eerste lid, kan de netbeheerder of zijn werkmaatschappij echter in het kader van de uitvoering van de hun op grond van dit artikel opgelegde openbaredienstverplichtingen en onder de door de Vlaamse Regering vastgestelde voorwaarden, gegevens verstrekken aan personen die daarvoor door de Vlaamse Regering zijn aangewezen.
 
 ## HOOFDSTUK VI. Verplichtingen van de brandstofleveranciers ter stimulering van het rationeel energiegebruik en het gebruik van de hernieuwbare energiebronnen
 
@@ -1845,7 +1932,9 @@ De Vlaamse Regering kan verplichtingen opleggen aan elke beheerder van een distr
 
 ### ART. 12.2.2.
 
-De diensten van de homogene beleidsdomeinen van de Vlaamse overheid, de   instellingen die onder het Vlaamse Gewest en de Vlaamse Gemeenschap ressorteren,   de ondergeschikte besturen die onder het administratief toezicht van het Vlaamse   Gewest staan en de publiek- en privaatrechtelijke rechtspersonen die belast zijn   met taken van openbaar nut inzake energie, stellen, op eenvoudig verzoek van het   Vlaams Energieagentschap of uit eigen beweging, alle informatie waarover ze   beschikken en die van nut kan zijn voor het opstellen van het energierapport en   voor de onderbouwing van het Vlaams beleid inzake rationeel energiegebruik,   hernieuwbare energiebronnen en klimaatverandering en voor het sociale   energiebeleid, ter beschikking van het Vlaams Energieagentschap.<BR><BR>De   publiek- en privaatrechtelijke rechtspersonen die belast zijn met taken van   openbaar nut inzake energie, stellen, op eenvoudig verzoek van het Vlaams   Energieagentschap of uit eigen beweging minstens de gegevens betreffende het   energieverbruik, de energieproductie en de ligging van de gebouwen die gebruikt   worden door de diensten van de homogene beleidsdomeinen van de Vlaamse overheid,   de instellingen die onder het Vlaamse Gewest en de Vlaamse Gemeenschap   ressorteren en van de ondergeschikte besturen die onder het administratief   toezicht van het Vlaamse Gewest staan, ter beschikking van het Vlaams   Energieagentschap. Het Vlaams Energieagentschap kan nadere regels vastleggen   betreffende de wijze, de inhoud, en de vorm van de te rapporteren gegevens.
+De diensten van de homogene beleidsdomeinen van de Vlaamse overheid, de instellingen die onder het Vlaamse Gewest en de Vlaamse Gemeenschap ressorteren, de ondergeschikte besturen die onder het administratief toezicht van het Vlaamse Gewest staan en de publiek- en privaatrechtelijke rechtspersonen die belast zijn met taken van openbaar nut inzake energie, stellen, op eenvoudig verzoek van het Vlaams Energieagentschap of uit eigen beweging, alle informatie waarover ze beschikken en die van nut kan zijn voor het opstellen van het energierapport en voor de onderbouwing van het Vlaams beleid inzake rationeel energiegebruik, hernieuwbare energiebronnen en klimaatverandering en voor het sociale energiebeleid, ter beschikking van het Vlaams Energieagentschap.<br>
+<br>
+De publiek- en privaatrechtelijke rechtspersonen die belast zijn met taken van openbaar nut inzake energie, stellen, op eenvoudig verzoek van het Vlaams Energieagentschap of uit eigen beweging minstens de gegevens betreffende het energieverbruik, de energieproductie en de ligging van residentiële en niet-residentiële gebouwen in hun gebied ter beschikking van het Vlaams Energieagentschap. Dit betreffen minstens die gebouwen die gebruikt worden door de diensten van de homogene beleidsdomeinen van de Vlaamse overheid, de instellingen die onder het Vlaamse Gewest en de Vlaamse Gemeenschap ressorteren, de gezondheidsvoorzieningen, de onderwijsinstellingen, de welzijnsvoorzieningen en van de ondergeschikte besturen die onder het administratief toezicht van het Vlaamse Gewest staan. Het Vlaams Energieagentschap kan nadere regels vastleggen betreffende de wijze, de inhoud, en de vorm van de te rapporteren gegevens. Artikel 4.1.10, eerste lid, is van toepassing op het Vlaams Energieagentschap en haar aangestelden.
 
 ### ART. 12.2.3.
 
@@ -1873,7 +1962,15 @@ De Vlaamse Regering kan verplichtingen opleggen aan de overheidsdiensten   en in
 
 ### ART. 13.1.1.
 
-<P>§ 1. Tenzij dit decreet in een specifieke toezichthouder voorziet, worden de   ambtenaren die bevoegd zijn om toezicht uit te oefenen op de naleving van de   bepalingen van dit decreet en de uitvoeringsbesluiten ervan en om de   niet-naleving hiervan vast te stellen in een verslag van vaststelling, aangeduid   door de Vlaamse Regering.<BR><BR>§ 2. De Vlaamse Regering wijst de bepalingen   van dit decreet aan waarvoor de ambtenaren, vermeld in paragraaf 1, bevoegd   zijn.<BR><BR>§ 3. Bij het uitvoeren van hun toezichtstaak kunnen de ambtenaren,   vermeld in paragraaf 1, ter plaatse inzage vorderen en een kosteloze kopie maken   en meenemen van alle daarvoor noodzakelijke zakelijke documenten en andere   zakelijke informatiedragers. Zij kunnen zich daarbij laten bijstaan door   personen die zij daartoe hebben aangewezen op grond van hun deskundigheid. Om   alle nodige vaststellingen te verrichten, hebben de genoemde ambtenaren toegang   tot de terreinen en de gebouwen. De ambtenaren, vermeld in paragraaf 1, kunnen   bijstand vorderen van de politie bij de uitoefening van hun toezichtstaak. Ze   kunnen eveneens monsters nemen en vaststellingen doen met audiovisuele   middelen.<BR><BR>Tot de gebouwen hebben ze echter alleen toegang als ze aan een   van de volgende voorwaarden voldoen:<BR>1° ze hebben de voorafgaande en   schriftelijke toestemming van de bewoner gekregen;<BR>2° ze werden ertoe   voorafgaandelijk en schriftelijk gemachtigd door de   politierechter.</P>
+<p>§ 1. Tenzij dit decreet in een specifieke toezichthouder voorziet, worden de personeelsleden die bevoegd zijn om toezicht uit te oefenen op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan en om de niet-naleving hiervan vast te stellen in een verslag van vaststelling, aangeduid door de Vlaamse Regering.<br>
+<br>
+§ 2. De Vlaamse Regering wijst de bepalingen van dit decreet aan waarvoor de personeelsleden, vermeld in paragraaf 1, bevoegd zijn.<br>
+<br>
+§ 3. Bij het uitvoeren van hun toezichtstaak kunnen de personeelsleden, vermeld in paragraaf 1, ter plaatse inzage vorderen en een kosteloze kopie maken en meenemen van alle daarvoor noodzakelijke zakelijke documenten en andere zakelijke informatiedragers. Zij kunnen zich daarbij laten bijstaan door personen die zij daartoe hebben aangewezen op grond van hun deskundigheid. Om alle nodige vaststellingen te verrichten, hebben de genoemde personeelsleden toegang tot de terreinen en de gebouwen. De personeelsleden, vermeld in paragraaf 1, kunnen bijstand vorderen van de politie bij de uitoefening van hun toezichtstaak. Ze kunnen eveneens monsters nemen en vaststellingen doen met audiovisuele middelen.<br>
+<br>
+Tot de bewoonde gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen:<br>
+1° ze hebben de voorafgaande en schriftelijke toestemming van de bewoner gekregen;<br>
+2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de politierechter. In dat geval hebben de genoemde personeelsleden alleen toegang tussen vijf uur 's morgens en eenentwintig uur 's avonds.</p>
 
 ## Afdeling II. Toezicht door de VREG
 
@@ -1885,37 +1982,59 @@ De Vlaamse Regering kan verplichtingen opleggen aan de overheidsdiensten   en in
 
 ### ART. 13.1.3.
 
-De Vlaamse Regering wijst de ambtenaren van het Vlaams Energieagentschap aan die bevoegd zijn voor de controle op de naleving van de verplichtingen die opgelegd zijn op basis van artikelen 7.6.1, 7.6.2, 7.7.1 en 7.7.2, van dit decreet en de uitvoeringsbesluiten ervan en voor het opleggen van de administratieve geldboetes.<br /><br />De aangewezen ambtenaren kunnen daartoe aan de betrokkenen alle gegevens en inlichtingen vragen die nodig zijn voor de uitoefening van hun taken. De betrokkene aan wie een vraag is gericht om gegevens en inlichtingen te verstrekken, moet binnen de door de bevoegde ambtenaren bepaalde redelijke termijn alle medewerking verlenen.
+De Vlaamse Regering wijst de personeelsleden van het Vlaams Energieagentschap aan die bevoegd zijn voor de controle op de naleving van de verplichtingen die opgelegd zijn op basis van artikelen 7.6.1, 7.6.2, 7.7.1 en 7.7.2, van dit decreet en de uitvoeringsbesluiten ervan en voor het opleggen van de administratieve geldboetes.<br>
+<br>
+De aangewezen personeelsleden kunnen daartoe aan de betrokkenen alle gegevens en inlichtingen vragen die nodig zijn voor de uitoefening van hun taken. De betrokkene aan wie een vraag is gericht om gegevens en inlichtingen te verstrekken, moet binnen de door de bevoegde personeelsleden bepaalde redelijke termijn alle medewerking verlenen.
 
 ### ART. 13.1.4.
 
-§ 1. De ambtenaren van het Vlaams Energieagentschap zijn bevoegd om de nodige controles met betrekking tot het naleven van de EPB-eisen uit te voeren en om overtredingen van de bepalingen van hoofdstuk I van titel XI en de uitvoeringsbesluiten ervan op te sporen en vast te stellen door een verslag van vaststelling.<br>
+§ 1. De personeelsleden van het Vlaams Energieagentschap zijn bevoegd om de nodige controles met betrekking tot het naleven van de EPB-eisen uit te voeren en om overtredingen van de bepalingen van hoofdstuk I van titel XI en de uitvoeringsbesluiten ervan op te sporen en vast te stellen door een verslag van vaststelling.<br>
 <br>
-Om alle nodige opsporingen en vaststellingen te verrichten, hebben de vermelde ambtenaren toegang tot de bouwplaats en de gebouwen. Tot de gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen :<br>
+Om alle nodige opsporingen en vaststellingen te verrichten, hebben de vermelde personeelsleden toegang tot de bouwplaats en de gebouwen. Tot de bewoonde gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen:<br>
 1° ze hebben de voorafgaande en schriftelijke toestemming van de bewoner gekregen;<br>
-2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de politierechter.<br>
+2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de politierechter. In dat geval hebben de genoemde personeelsleden alleen toegang tussen vijf uur 's morgens en eenentwintig uur 's avonds.<br>
 <br>
-§ 2. Op eenvoudig verzoek krijgen de ambtenaren, vermeld in § 1, van de overheid die de omgevingsvergunning voor stedenbouwkundige handelingen heeft verleend of de melding heeft geregistreerd, kosteloos toegang tot of een kopie van al de documenten en de elektronische gegevens die worden bijgehouden van de vergunde, gemelde, geschorste en vernietigde gestarte en voltooide werken, handelingen en wijzigingen.<br>
+§ 2. Op eenvoudig verzoek krijgen de personeelsleden, vermeld in § 1, van de overheid die de omgevingsvergunning voor stedenbouwkundige handelingen heeft verleend of de melding heeft geregistreerd, kosteloos toegang tot of een kopie van al&nbsp;de documenten en de elektronische gegevens die worden bijgehouden van de vergunde, gemelde, geschorste en vernietigde gestarte en voltooide werken, handelingen en wijzigingen.<br>
 <br>
 De documenten, vermeld in het eerste lid, zijn minstens de documenten die betrekking hebben op de ingediende vergunningsaanvraag of melding, de verleende vergunningen, de vergunningsplannen, het statistische formulier, en de melding van de start van de werken.
 
 ### ART. 13.1.5.
 
-§1. De ambtenaren van het Vlaams Energieagentschap zijn bevoegd om de nodige controles met betrekking tot het energieprestatiecertificaat uit te voeren en om overtredingen van de bepalingen van hoofdstuk II van titel XI en de uitvoeringsbesluiten ervan op te sporen en vast te stellen door een verslag van vaststelling.<br>
+§1. De personeelsleden van het Vlaams Energieagentschap zijn bevoegd om de nodige controles met betrekking tot het energieprestatiecertificaat uit te voeren en om overtredingen van de bepalingen van hoofdstuk II van titel XI en de uitvoeringsbesluiten ervan op te sporen en vast te stellen door een verslag van vaststelling.<br>
 <br>
-Om alle nodige opsporingen en vaststellingen te verrichten, hebben de vermelde ambtenaren toegang tot de bouwplaats en de gebouwen. Tot de gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen :<br>
+Om alle nodige opsporingen en vaststellingen te verrichten, hebben de vermelde personeelsleden toegang tot de bouwplaats en de gebouwen. Tot de bewoonde gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen:<br>
 1° ze hebben de voorafgaande en schriftelijke toestemming van de bewoner gekregen;<br>
-2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de politierechter.<br>
+2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de politierechter. In dat geval hebben de genoemde personeelsleden alleen toegang tussen vijf uur 's morgens en eenentwintig uur 's avonds.<br>
 <br>
-§ 2. Op eenvoudig verzoek krijgen de ambtenaren, vermeld in paragraaf 1, van de gemeente, het kadaster en de bewaarder der hypotheken, elk voor hun ambtsgebied, kosteloos toegang tot of een kopie van al de documenten betreffende de eigendom en het gebruik van gebouwen, die krachtens artikel 11.2.1, § 1, over een energieprestatiecertificaat dienen te beschikken.
+§ 2. Op eenvoudig verzoek krijgen de personeelsleden, vermeld in paragraaf 1, van de gemeente, het kadaster en de bewaarder der hypotheken, elk voor hun ambtsgebied, kosteloos toegang tot of een kopie van al de documenten betreffende de eigendom en het gebruik van gebouwen, die krachtens artikel 11.2.1, § 1, over een energieprestatiecertificaat dienen te beschikken.
 
 ## Afdeling IV. Toezicht in het kader van de [heffingen vermeld in titel XIV (verv. decr. 19 december 2014, art. 99, I: 1 januari 2015)]
 
 ### ART. 13.1.6.
 
-De Vlaamse Regering wijst de ambtenaren aan die belast zijn met de controle en het onderzoek in verband met de toepassing van de heffing, bedoeld in titel XIV. Die ambtenaren zijn van rechtswege gemachtigd om bij de heffingsplichtigen en bij derden inlichtingen te nemen, gegevens op te zoeken en te verzamelen die kunnen leiden tot de juiste heffing ten laste van de heffingsplichtige. De heffingsplichtige of elke derde die over de gevraagde gegevens beschikt, is verplicht die inlichtingen te verstrekken op eenvoudig verzoek van de ambtenaren.<br /><br />De ambtenaren zijn van rechtswege gemachtigd om bij de heffingsplichtige en bij derden alle boeken, stukken of registers op te vragen en in te kijken die kunnen leiden tot de juiste heffing ten laste van de heffingsplichtige. De heffingsplichtige of elke derde die over de gevraagde boeken, stukken of registers beschikt, is verplicht die voor te leggen op ieder verzoek van de ambtenaren. De ambtenaren kunnen de boeken, stukken of registers ter plaatse inkijken of meenemen tegen afgifte van een ontvangstbewijs.<br /><br />De ambtenaren hebben toegang, na voorlegging van hun legitimatiebewijs en met een voorafgaande rechterlijke machtiging van de politierechtbank, tot de bedrijfslokalen van de heffingsplichtige om vaststellingen te kunnen doen die kunnen leiden tot de juiste heffing ten laste van de heffingsplichtige.<br /><br />Alle inlichtingen, stukken, processen-verbaal, of akten die de ambtenaren in de uitoefening van hun functie ontdekken of krijgen, rechtstreeks of door tussenkomst van een bestuursdienst van de Staat, met inbegrip van de parketten en de griffies van de hoven en de rechtbanken, de administraties van de gemeenschappen en gewesten, de provincies en de gemeenten en de organen en de instellingen van openbaar nut, kunnen door het Vlaamse Gewest worden aangewend om de juiste heffing ten laste van de heffingsplichtige vast te stellen.
+De Vlaamse Regering wijst de&nbsp;personeelsleden aan die belast zijn met de controle en het onderzoek in verband met de toepassing van de heffing, bedoeld in titel XIV. Die personeelsleden zijn van rechtswege gemachtigd om bij de heffingsplichtigen en bij derden inlichtingen te nemen, gegevens op te zoeken en te verzamelen die kunnen leiden tot de juiste heffing ten laste van de heffingsplichtige. De heffingsplichtige of elke derde die over de gevraagde gegevens beschikt, is verplicht die inlichtingen te verstrekken op eenvoudig verzoek van de personeelsleden.<br>
+<br>
+De personeelsleden zijn van rechtswege gemachtigd om bij de heffingsplichtige en bij derden alle boeken, stukken of registers op te vragen en in te kijken die kunnen leiden tot de juiste heffing ten laste van de heffingsplichtige. De heffingsplichtige of elke derde die over de gevraagde boeken, stukken of registers beschikt, is verplicht die voor te leggen op ieder verzoek van de personeelsleden. De personeelsleden kunnen de boeken, stukken of registers ter plaatse inkijken of meenemen tegen afgifte van een ontvangstbewijs.<br>
+<br>
+De personeelsleden hebben toegang, na voorlegging van hun legitimatiebewijs en met een voorafgaande rechterlijke machtiging van de politierechtbank, tot de bedrijfslokalen van de heffingsplichtige om vaststellingen te kunnen doen die kunnen leiden tot de juiste heffing ten laste van de heffingsplichtige.<br>
+<br>
+Alle inlichtingen, stukken, processen-verbaal, of akten die de personeelsleden in de uitoefening van hun functie ontdekken of krijgen, rechtstreeks of door tussenkomst van een bestuursdienst van de Staat, met inbegrip van de parketten en de griffies van de hoven en de rechtbanken, de administraties van de gemeenschappen en gewesten, de provincies en de gemeenten en de organen en de instellingen van openbaar nut, kunnen door het Vlaamse Gewest worden aangewend om de juiste heffing ten laste van de heffingsplichtige vast te stellen.
 
 ## [Afdeling V. Vaststelling door personeelsleden van de netbeheerders en de (ing. decr. 24 februari 2017, art. 22, I: 1 april 2017)][werkmaatschappij (verv. decr. 16 november 2018, art. 49, I: 24 december 2018)]
+
+### ART 13.1.7.
+
+De Vlaamse Regering wijst binnen de grenzen en onder de voorwaarden die ze bepaalt, de personeelsleden van de netbeheerders of de werkmaatschappijen aan om energiefraude te detecteren en vast te stellen door middel van zintuiglijke waarneming of door gebruik te maken van meetgegevens in een verslag van vaststelling.<br>
+<br>
+De Vlaamse Regering kan nadere regels vastleggen met betrekking tot de vorm en de inhoud van het verslag van vaststelling en de voorwaarden waaronder dit ter kennis wordt gebracht aan de betrokkene. De Vlaamse Regering bepaalt de voorwaarden waaronder een betrokkene bezwaar kan maken tegen de in het verslag vermelde feiten.<br>
+<br>
+Wanneer het verslag van vaststelling betrekking heeft op een van de feiten, vermeld in artikel 13.4.11, 1° tot en met 4°, dan maakt de netbeheerder dit definitieve verslag over aan het Vlaams Energieagentschap.<br>
+<br>
+Om alle nodige vaststellingen te verrichten, hebben de genoemde personeelsleden toegang tot de terreinen en de gebouwen. Tot bewoonde gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen:<br>
+1° ze hebben de voorafgaande en schriftelijke toestemming van de bewoner gekregen;<br>
+2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de politierechter. In dat geval hebben de genoemde personeelsleden alleen toegang tussen vijf uur 's morgens en eenentwintig uur 's avonds.<br>
+<br>
+Indien de bewoner niettegenstaande een verleende toestemming of machtiging als vermeld in het vierde lid, de toegang verhindert, dan wordt de toekenning van subsidie of andere steun in het kader van dit decreet stopgezet of teruggevorderd.
 
 ## HOOFDSTUK II. Strafrechtelijke sancties
 
