@@ -2,13 +2,15 @@
 
 ### ART. 1.
 
-Het college van burgemeester en schepenen stelt een inventaris op van alle plannen en verordeningen die overeenkomstig artikel 5.1.1 van de Vlaamse Codex Ruimtelijke Ordening, in het plannenregister opgenomen moeten worden. Als de inventaris als een digitale databank wordt opgemaakt, dan gebeurt dit conform de technische normen, ter beschikking van de gemeente gesteld door het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, hierna het Departement RWO te noemen, in samenspraak met het agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen, hierna agentschap Informatie Vlaanderen te noemen.<br>
+Het college van burgemeester en schepenen stelt een inventaris op van alle plannen en verordeningen die overeenkomstig artikel 5.1.1 van de Vlaamse Codex Ruimtelijke Ordening, in het plannenregister opgenomen moeten worden. Als de inventaris als een digitale databank wordt opgemaakt, dan gebeurt dit conform de technische normen, ter beschikking van de gemeente gesteld door het Departement Omgeving, in samenspraak met het agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen, hierna agentschap Informatie Vlaanderen te noemen.<br>
 <br>
 De inventaris maakt deel uit van het plannenregister.
 
 ### ART. 2.
 
-§ 1. Het college van burgemeester en schepenen neemt in zijn plannenregister het op zijn grondgebied betrekking hebbende deel van het geactualiseerde gewestplan met bijhorende voorschriften op. Het kan hiervoor als vertrekbasis nemen het gewestplan zoals dat door het Departement RWO in digitale vorm ter beschikking wordt gesteld.<br /><br />§ 2. ...
+§ 1. Het college van burgemeester en schepenen neemt in zijn plannenregister het op zijn grondgebied betrekking hebbende deel van het geactualiseerde gewestplan met bijhorende voorschriften op. Het kan hiervoor als vertrekbasis nemen het gewestplan zoals dat door het Departement&nbsp;Omgeving in digitale vorm ter beschikking wordt gesteld.<br>
+<br>
+§ 2. ...
 
 ### ART. 3.
 
@@ -16,7 +18,9 @@ De inventaris maakt deel uit van het plannenregister.
 
 ### ART. 4.
 
-Het college van burgemeester en schepenen neemt de contouren van de algemene en bijzondere plannen van aanleg, of delen ervan, op in het plannenregister indien ze niet worden opgeheven met toepassing van de artikelen 170 en 190 van het voornoemde decreet van 18 mei 1999. Het kan als vertrekbasis hiervoor nemen, het op zijn grondgebied betrekking hebbende deel van de vectoriële GIS datalaag met de contouren van de bijzondere plannen van aanleg, zoals dat door het Departement RWO in digitale vorm ter beschikking wordt gesteld. Het neemt ook de ontwerpen op, zolang deze nog aanleiding kunnen geven tot het weigeren van vergunningsaanvragen. Het verschil in juridische status moet echter duidelijk waarneembaar zijn.<br /><br />Elke contour moet via een uniek identificatienummer een verwijzing naar de inventaris, genoemd in artikel 1, en naar het eigenlijke plan van aanleg bevatten. Indien er slechts een gedeelte van een plan van aanleg wordt behouden, bakent de betreffende contour enkel het te behouden gedeelte af. Zowel de contouren als de eigenlijke plannen behoren tot het plannenregister.
+Het college van burgemeester en schepenen neemt de contouren van de algemene en bijzondere plannen van aanleg, of delen ervan, op in het plannenregister indien ze niet worden opgeheven met toepassing van de artikelen 170 en 190 van het voornoemde decreet van 18 mei 1999. Het kan als vertrekbasis hiervoor nemen, het op zijn grondgebied betrekking hebbende deel van de vectoriële GIS datalaag met de contouren van de bijzondere plannen van aanleg, zoals dat door het Departement&nbsp;Omgeving in digitale vorm ter beschikking wordt gesteld. Het neemt ook de ontwerpen op, zolang deze nog aanleiding kunnen geven tot het weigeren van vergunningsaanvragen. Het verschil in juridische status moet echter duidelijk waarneembaar zijn.<br>
+<br>
+Elke contour moet via een uniek identificatienummer een verwijzing naar de inventaris, genoemd in artikel 1, en naar het eigenlijke plan van aanleg bevatten. Indien er slechts een gedeelte van een plan van aanleg wordt behouden, bakent de betreffende contour enkel het te behouden gedeelte af. Zowel de contouren als de eigenlijke plannen behoren tot het plannenregister.
 
 ### ART. 5.
 
@@ -64,7 +68,7 @@ Als de gemeente het gehele plannenregister of een deel ervan in digitale vorm wi
 
 ### ART. 16.
 
-Het college van burgemeester en schepenen bezorgt&nbsp;het Departement   Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed een afschrift van het   eerste plannenregister in digitale en/of analoge vorm. Het verzendt dit per   aangetekend schrijven of geeft het af tegen ontvangstbewijs. Een kopie van de   originele plannen van aanleg, de ruimtelijke uitvoeringsplannen, de   rooilijnplannen en de onteigeningsplannen moet echter niet bijgevoegd   worden.
+Het college van burgemeester en schepenen bezorgt&nbsp;het Departement Omgeving een afschrift van het eerste plannenregister in digitale en/of analoge vorm. Het verzendt dit per aangetekend schrijven of geeft het af tegen ontvangstbewijs. Een kopie van de originele plannen van aanleg, de ruimtelijke uitvoeringsplannen, de rooilijnplannen en de onteigeningsplannen moet echter niet bijgevoegd worden.
 
 ### ART. 17.
 
