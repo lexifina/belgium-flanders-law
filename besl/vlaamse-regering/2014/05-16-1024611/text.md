@@ -35,7 +35,7 @@ De subsidie, vermeld in artikel 1, wordt als volgt uitbetaald:<br>
 <p>§ 1. De functionele verantwoording van de subsidie, vermeld in artikel 1, waarbij de mate van realisatie van de bovenstaande activiteiten wordt aangetoond, bestaat uit:<br>
 1° een proces verbaal van uitvoering der werken, opgesteld door personeelsleden van het Agentschap Wegen en Verkeer;</p>
 
-<p>§ 2. De functionele verantwoording, vermeld in paragraaf 1, moet uiterlijk 6 december 2016 worden ingediend op elektronische of schriftelijke wijze, bij de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid van het Departement Leefmilieu, Natuur en Energie.</p>
+<p>§ 2. De functionele verantwoording, vermeld in paragraaf 1, moet uiterlijk 6 december 2016 worden ingediend op elektronische of schriftelijke wijze, bij het Departement Omgeving.</p>
 
 ### ART. 8.
 
@@ -43,11 +43,11 @@ De subsidie, vermeld in artikel 1, wordt als volgt uitbetaald:<br>
 1° de factuur voor de kosten van de aanleg van nutsleidingen voor elektriciteit, teneinde de elektrische laadinfrastructuur te kunnen aansluiten op het elektriciteitsnetwerk,<br>
 2° Bewijs van betaling van de factuur.</p>
 
-<p>§ 2. De financiële verantwoording, vermeld in paragraaf 1, moet uiterlijk 6 december 2016 worden ingediend op elektronische of schriftelijke wijze, bij de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid van het Departement Leefmilieu, Natuur en Energie. De aanvrager vermeldt tevens het rekeningnummer, waarop de subsidie kan betaald worden.</p>
+<p>§ 2. De financiële verantwoording, vermeld in paragraaf 1, moet uiterlijk 6 december 2016 worden ingediend op elektronische of schriftelijke wijze, bij het Departement Omgeving. De aanvrager vermeldt tevens het rekeningnummer, waarop de subsidie kan betaald worden.</p>
 
 ### ART. 9.
 
-De begunstigde van de subsidie verbindt zichzelf ertoe om gedurende 5 jaar   na operationalisering van de laadinfrastructuur, op eenvoudig verzoek van de   afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid van het Departement   Leefmilieu, Natuur en Energie, te informeren over het jaarlijkse   elektriciteitsverbruik. Bij ontstentenis hiervan kan de Vlaamse overheid   overgaan tot het terugvorderen van een deel van de subsidie, met een maximum van   5000 € per locatie.<BR>
+De begunstigde van de subsidie verbindt zichzelf ertoe om gedurende 5 jaar na operationalisering van de laadinfrastructuur, op eenvoudig verzoek van het Departement Omgeving, te informeren over het jaarlijkse elektriciteitsverbruik. Bij ontstentenis hiervan kan de Vlaamse overheid overgaan tot het terugvorderen van een deel van de subsidie, met een maximum van 5000 € per locatie.
 
 ### ART. 10.
 
@@ -55,4 +55,4 @@ De subsidie kan slechts verstrekt worden, binnen de perken van de hiertoe   voor
 
 ### ART. 11.
 
-De Vlaamse minister, bevoegd voor Leefmilieu, Natuur en Cultuur, is belast   met de uitvoering van dit besluit. De secretaris-generaal van het departement   Leefmilieu, Natuur en Energie is gemachtigd de subsidie uit te   betalen.<BR>
+De Vlaamse minister, bevoegd voor Leefmilieu, Natuur en Cultuur, is belast met de uitvoering van dit besluit. De secretaris-generaal van het departement Omgeving is gemachtigd de subsidie uit te betalen.

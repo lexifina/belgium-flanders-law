@@ -2,16 +2,16 @@
   "codex_id": 1024611,
   "title": "Besluit van de Vlaamse Regering van 2014-05-16 betreffende de modaliteiten voor de toekenning van een projectsubsidie aan vergunninghouders voor laadinfrastructuur voor elektrische voertuigen op carpoolparkings of Park&Rides in beheer van het Vlaamse Gewest in uitvoering van het Vlaams Klimaatbeleidsplan 2013-2020",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024611/VolledigDocument?datum=2016-09-25",
-  "source_sha256": "bfd77774bd8b2efd9f57d27f7b9abddb99162c42df0c0d2eeddd4e14217439b5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024611/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "0565945c9a733dc7a3bdb271f89c2c5afe4904c757ef56f1c2f61d990283d060",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024611&param=informatie",
-  "as_of": "2016-09-25",
+  "as_of": "2017-04-01",
   "made": "2014-05-16",
   "gazette": "2014-10-01",
   "numac": 2014035940,
   "document_start": "2014-10-11",
   "document_end": null,
-  "in_force": "2016-09-25",
+  "in_force": "2017-04-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2016-09-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
