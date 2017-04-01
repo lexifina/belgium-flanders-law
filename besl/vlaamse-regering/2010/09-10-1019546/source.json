@@ -2,16 +2,16 @@
   "codex_id": 1019546,
   "title": "Besluit van de Vlaamse Regering van 2010-09-10 tot opmaak van het Mobiliteitsplan Vlaanderen en betreffende de gewestelijke planningscommissie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019546/VolledigDocument?datum=2010-10-11",
-  "source_sha256": "93c3a30dcbc663d45b1f068de55714252ca2c9b5a6a9871e62fdbf640211a609",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019546/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "6eb1da679780004269cf457d85229b6992f85ed48830f12d132c7c743e7b5dac",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019546&param=informatie",
-  "as_of": "2010-10-11",
+  "as_of": "2017-04-01",
   "made": "2010-09-10",
   "gazette": "2010-10-01",
   "numac": 2010035719,
   "document_start": "2010-10-11",
   "document_end": null,
-  "in_force": "2010-10-11",
+  "in_force": "2017-04-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2010-10-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }

@@ -42,7 +42,26 @@ Het ambtelijke coördinatieteam stelt binnen zes maanden na de definitieve goedk
 
 ### ART. 9.
 
-De gewestelijke planningscommissie is samengesteld uit :<br />1° een leidinggevende ambtenaar van elke beleidsafdeling van het Departement Mobiliteit en Openbare Werken en van het Verkeerscentrum Vlaanderen;<br />2° een leidinggevende ambtenaar van het intern verzelfstandigd agentschap Wegen en Verkeer;<br />3° een leidinggevende ambtenaar van het intern verzelfstandigd agentschap Maritieme Dienstverlening en Kust en van de afdeling Maritieme Toegang;<br />4° een leidinggevende ambtenaar van het extern verzelfstandigd agentschap Waterwegen en Zeekanaal;<br />5° een leidinggevende ambtenaar van het extern verzelfstandigd agentschap De Scheepvaart;<br />6° een leidinggevende ambtenaar van het extern verzelfstandigd agentschap Vlaamse Vervoermaatschappij - De Lijn;<br />7° een leidinggevende ambtenaar van het Departement Leefmilieu, Natuur en Energie;<br />8° een leidinggevende ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />9° een leidinggevende ambtenaar van het Departement Financiën en Begroting;<br />10° een leidinggevende ambtenaar van het intern verzelfstandigd agentschap Studiedienst van de Vlaamse Regering van de Diensten voor het Algemeen Regeringsbeleid;<br />11° twee afgevaardigden van de minister.<br /><br />De secretaris-generaal van het Departement Mobiliteit en Openbare Werken is de stemgerechtigde voorzitter van de gewestelijke planningscommissie.<br /><br />Er wordt voor elk lid van de gewestelijke planningscommissie een plaatsvervanger aangewezen.<br /><br />De gewestelijke planningscommissie wordt bijgestaan door het coördinatieteam. Dat team, dat niet stemgerechtigd is, neemt ook het secretariaat van de gewestelijke planningscommissie waar.<br /><br />De gewestelijke planningscommissie kan zich laten adviseren door externe deskundigen.
+De gewestelijke planningscommissie is samengesteld uit :<br>
+1° een leidinggevende ambtenaar van elke beleidsafdeling van het Departement Mobiliteit en Openbare Werken en van het Verkeerscentrum Vlaanderen;<br>
+2° een leidinggevende ambtenaar van het intern verzelfstandigd agentschap Wegen en Verkeer;<br>
+3° een leidinggevende ambtenaar van het intern verzelfstandigd agentschap Maritieme Dienstverlening en Kust en van de afdeling Maritieme Toegang;<br>
+4° een leidinggevende ambtenaar van het extern verzelfstandigd agentschap Waterwegen en Zeekanaal;<br>
+5° een leidinggevende ambtenaar van het extern verzelfstandigd agentschap De Scheepvaart;<br>
+6° een leidinggevende ambtenaar van het extern verzelfstandigd agentschap Vlaamse Vervoermaatschappij - De Lijn;<br>
+7° ...;<br>
+8° twee leidinggevende ambtenaren van het Departement Omgeving;<br>
+9° een leidinggevende ambtenaar van het Departement Financiën en Begroting;<br>
+10° een leidinggevende ambtenaar van het intern verzelfstandigd agentschap Studiedienst van de Vlaamse Regering van de Diensten voor het Algemeen Regeringsbeleid;<br>
+11° twee afgevaardigden van de minister.<br>
+<br>
+De secretaris-generaal van het Departement Mobiliteit en Openbare Werken is de stemgerechtigde voorzitter van de gewestelijke planningscommissie.<br>
+<br>
+Er wordt voor elk lid van de gewestelijke planningscommissie een plaatsvervanger aangewezen.<br>
+<br>
+De gewestelijke planningscommissie wordt bijgestaan door het coördinatieteam. Dat team, dat niet stemgerechtigd is, neemt ook het secretariaat van de gewestelijke planningscommissie waar.<br>
+<br>
+De gewestelijke planningscommissie kan zich laten adviseren door externe deskundigen.
 
 ### ART. 10.
 
