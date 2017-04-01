@@ -8,7 +8,10 @@
 
 ### ART. 1.
 
-&nbsp;In dit besluit wordt verstaan   onder:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   Vlaamse Raad voor Dierenwelzijn, afgekort Raad: de Raad voor dierenwelzijn,   vermeld in artikel 31 van de wet van 14 augustus 1986 betreffende de bescherming   en het welzijn der dieren;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   minister: de Vlaamse minister, bevoegd voor het dierenwelzijn;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   dienst: de dienst die bevoegd is voor het dierenwelzijn van het Departement   Leefmilieu, Natuur en Energie van de Vlaamse overheid.
+&nbsp;In dit besluit wordt verstaan onder:<br>
+1° Vlaamse Raad voor Dierenwelzijn, afgekort Raad: de Raad voor dierenwelzijn, vermeld in artikel 31 van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren;<br>
+2° minister: de Vlaamse minister, bevoegd voor het dierenwelzijn;<br>
+3° dienst: de dienst die bevoegd is voor het dierenwelzijn van het Departement Omgeving.
 
 ## HOOFDSTUK 2 Samenstelling, benoeming, ontslag en vergoeding
 
