@@ -1765,10 +1765,116 @@ Het maximumgewicht van de partij mag niet met meer dan 5 % worden overschreden.<
 
 ### BIJLAGE IV
 
-A. Te vermelden gegevens:<br /><br />a) voor basiszaad en gecertificeerd zaad:<br /><br />1. "EG-systeem";<br /><br />2. keuringsdienst en lidstaat of desbetreffend kenteken;<br /><br />3. partijnummer;<br /><br />4. maand en jaar van de sluiting, op de volgende wijze aangegeven "gesloten in... " (maand en jaar), of maand en jaar van de laatste officiële monsterneming ten behoeve van het besluit van certificering, op de volgende wijze aangegeven: "monster genomen in... " (maand en jaar);<br /><br />5. soort, ten minste aangegeven met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, in Latijns schrift;<br /><br />6. ras, ten minste vermeld in Latijns schrift;<br /><br />7. categorie;<br /><br />8. producerend land;<br /><br />9. opgegeven netto- of brutogewicht of opgegeven aantal zaden;<br /><br />10. als het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht van de zuivere zaden en het totaalgewicht;<br /><br />11. bij rassen die hybride of ingeteelde stammen zijn:<br /><br />- voor basiszaad waarvan de hybride of ingeteelde stam waartoe het zaad behoort, officieel aanvaard is in de nationale rassencatalogus of op de gemeenschappelijke rassenlijst voor landbouwgewassen: de naam van deze kruisingspartner, waaronder het officieel is aanvaard, met of zonder verwijzing naar het uiteindelijke ras, waaraan, in geval van hybride of ingeteelde stammen die uitsluitend bestemd zijn voor gebruik als kruisingspartner voor de uiteindelijke rassen, het woord "kruisingspartner" wordt toegevoegd;<br /><br />- voor basiszaad in andere gevallen: de naam van de kruisingspartner waartoe het basiszaad behoort, die in code mag worden gegeven, met daarbij een verwijzing naar het uiteindelijke ras, met of zonder vermelding van de functie (mannelijk of vrouwelijk), waaraan het woord "kruisingspartner" wordt toegevoegd;<br /><br />- voor gecertificeerd zaad: de naam van het ras waartoe het zaad behoort, met daarbij het woord "hybride";<br /><br />12. waar tenminste voor de kiemkracht nacontrole werd verricht, mogen de woorden "Na controle verricht... (maand en jaar) " en de voor die nacontrole verantwoordelijke bevoegde entiteit worden vermeld. Die gegevens mogen voorkomen op een officieel merkteken dat wordt geplakt op het officiële etiket;<br /><br />b) voor zaadmengsels:<br /><br />1. "Mengsel van... " (soorten of rassen);<br /><br />2. bevoegde entiteit die de sluiting heeft verricht en de lidstaat;<br /><br />3. partijnummer;<br /><br />4. maand en jaar van de sluiting, op de volgende wijze aangegeven: "gesloten in... " (maand en jaar);<br /><br />5. soort, categorie, ras, alsmede producerend land van de samenstellende bestanddelen en hun gewichtsverhouding; de namen van soorten en rassen moeten ten minste in Latijns schrift worden vermeld;<br /><br />6. opgegeven netto- en brutogewicht of opgegeven aantal zaden;<br /><br />7. als het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht van de zuivere zaden en het totaal gewicht;<br /><br />8. waar ten minste voor de kiemkracht van alle bestanddelen van het mengsel nacontrole werd verricht, mogen de woorden "Na controle verricht... (maand en jaar)" en de voor deze nacontrole verantwoordelijke entiteit worden vermeld. Die gegevens mogen voorkomen op een officieel merkteken dat wordt aangebracht op het officiële etiket;<br /><br />9. de vermelding: "Mag uitsluitend in de handel worden gebracht in België".<br /><br />B. Minimumafmetingen: 110 mm x 67 mm.
+A. Te vermelden gegevens:<br>
+<br>
+a) voor basiszaad en gecertificeerd zaad:<br>
+<br>
+1. "EG-systeem";<br>
+<br>
+2. keuringsdienst en lidstaat of desbetreffend kenteken;<br>
+<br>
+2/1. Officieel volgnummer;<br>
+<br>
+3. partijnummer;<br>
+<br>
+4. maand en jaar van de sluiting, op de volgende wijze aangegeven "gesloten in... " (maand en jaar), of maand en jaar van de laatste officiële monsterneming ten behoeve van het besluit van certificering, op de volgende wijze aangegeven: "monster genomen in... " (maand en jaar);<br>
+<br>
+5. soort, ten minste aangegeven met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, in Latijns schrift;<br>
+<br>
+6. ras, ten minste vermeld in Latijns schrift;<br>
+<br>
+7. categorie;<br>
+<br>
+8. producerend land;<br>
+<br>
+9. opgegeven netto- of brutogewicht of opgegeven aantal zaden;<br>
+<br>
+10. als het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht van de zuivere zaden en het totaalgewicht;<br>
+<br>
+11. bij rassen die hybride of ingeteelde stammen zijn:<br>
+<br>
+- voor basiszaad waarvan de hybride of ingeteelde stam waartoe het zaad behoort, officieel aanvaard is in de nationale rassencatalogus of op de gemeenschappelijke rassenlijst voor landbouwgewassen: de naam van deze kruisingspartner, waaronder het officieel is aanvaard, met of zonder verwijzing naar het uiteindelijke ras, waaraan, in geval van hybride of ingeteelde stammen die uitsluitend bestemd zijn voor gebruik als kruisingspartner voor de uiteindelijke rassen, het woord "kruisingspartner" wordt toegevoegd;<br>
+<br>
+- voor basiszaad in andere gevallen: de naam van de kruisingspartner waartoe het basiszaad behoort, die in code mag worden gegeven, met daarbij een verwijzing naar het uiteindelijke ras, met of zonder vermelding van de functie (mannelijk of vrouwelijk), waaraan het woord "kruisingspartner" wordt toegevoegd;<br>
+<br>
+- voor gecertificeerd zaad: de naam van het ras waartoe het zaad behoort, met daarbij het woord "hybride";<br>
+<br>
+12. waar tenminste voor de kiemkracht nacontrole werd verricht, mogen de woorden "Na controle verricht... (maand en jaar) " en de voor die nacontrole verantwoordelijke bevoegde entiteit worden vermeld. Die gegevens mogen voorkomen op een officieel merkteken dat wordt geplakt op het officiële etiket;<br>
+<br>
+b) voor zaadmengsels:<br>
+<br>
+1. "Mengsel van... " (soorten of rassen);<br>
+<br>
+2. bevoegde entiteit die de sluiting heeft verricht en de lidstaat;<br>
+<br>
+2/1. Officieel volgnummer;<br>
+<br>
+3. partijnummer;<br>
+<br>
+4. maand en jaar van de sluiting, op de volgende wijze aangegeven: "gesloten in... " (maand en jaar);<br>
+<br>
+5. soort, categorie, ras, alsmede producerend land van de samenstellende bestanddelen en hun gewichtsverhouding; de namen van soorten en rassen moeten ten minste in Latijns schrift worden vermeld;<br>
+<br>
+6. opgegeven netto- en brutogewicht of opgegeven aantal zaden;<br>
+<br>
+7. als het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht van de zuivere zaden en het totaal gewicht;<br>
+<br>
+8. waar ten minste voor de kiemkracht van alle bestanddelen van het mengsel nacontrole werd verricht, mogen de woorden "Na controle verricht... (maand en jaar)" en de voor deze nacontrole verantwoordelijke entiteit worden vermeld. Die gegevens mogen voorkomen op een officieel merkteken dat wordt aangebracht op het officiële etiket;<br>
+<br>
+9. de vermelding: "Mag uitsluitend in de handel worden gebracht in België".<br>
+<br>
+B. Minimumafmetingen: 110 mm x 67 mm.
 
 ## Bijlage V Etiket en document voor niet definitief goedgekeurd zaad dat is geoogst in een andere lidstaat
 
 ### BIJLAGE V
 
-A. Op het etiket te vermelden gegevens:<br /><br />1. voor de veldkeuring verantwoordelijke instantie en lidstaat of hun kenteken;<br /><br />2. soort, tenminste aangegeven met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, in Latijns schrift;<br /><br />3. ras, tenminste vermeld in Latijns schrift; voor rassen (ingeteelde stammen, hybriden) die uitsluitend bestemd zijn voor gebruik als kruisingspartner voor hybride rassen, wordt het woord "kruisingspartner" toegevoegd;<br /><br />4. categorie;<br /><br />5. bij hybride rassen, de vermelding "hybride";<br /><br />6. referentienummer van het veld of van de partij;<br /><br />7. opgegeven netto- of brutogewicht;<br /><br />8. de vermelding "niet definitief goedgekeurd zaad".<br /><br />B. Kleur van het etiket.<br /><br />Het etiket is grijs van kleur.<br /><br />C. Op het document te vermelden gegevens:<br /><br />D. 1. instantie die het document afgeeft;<br /><br />2. soort, tenminste aangegeven met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, in Latijns schrift;<br /><br />3. ras, ten minste vermeld in Latijns schrift;<br /><br />4. categorie;<br /><br />5. referentienummer van het gebruikte zaad en naam van de landen dat dit zaad hebben goedgekeurd;<br /><br />6. referentienummer van het veld of van de partij;<br /><br />7. oppervlakte die is geteeld voor productie van de bij het document behorende partij;<br /><br />8. geoogste hoeveelheid zaad en aantal verpakkingen;<br /><br />9. voor gecertificeerd zaad, het aantal generaties na het basiszaad;<br /><br />10. verklaring dat bij de teelt waarvan het zaad afkomstig is aan de vastgestelde voorwaarden is voldaan;<br /><br />11. in voorkomend geval, de uitkomsten van een voorlopige analyse van het zaad.
+A. Op het etiket te vermelden gegevens:<br>
+<br>
+1. voor de veldkeuring verantwoordelijke instantie en lidstaat of hun kenteken;<br>
+<br>
+1/1. Officieel volgnummer;<br>
+<br>
+2. soort, tenminste aangegeven met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, in Latijns schrift;<br>
+<br>
+3. ras, tenminste vermeld in Latijns schrift; voor rassen (ingeteelde stammen, hybriden) die uitsluitend bestemd zijn voor gebruik als kruisingspartner voor hybride rassen, wordt het woord "kruisingspartner" toegevoegd;<br>
+<br>
+4. categorie;<br>
+<br>
+5. bij hybride rassen, de vermelding "hybride";<br>
+<br>
+6. referentienummer van het veld of van de partij;<br>
+<br>
+7. opgegeven netto- of brutogewicht;<br>
+<br>
+8. de vermelding "niet definitief goedgekeurd zaad".<br>
+<br>
+B. Kleur van het etiket.<br>
+<br>
+Het etiket is grijs van kleur.<br>
+<br>
+C. Op het document te vermelden gegevens:<br>
+<br>
+1/1. Officieel volgnummer;<br>
+<br>
+D. 1. instantie die het document afgeeft;<br>
+<br>
+2. soort, tenminste aangegeven met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, in Latijns schrift;<br>
+<br>
+3. ras, ten minste vermeld in Latijns schrift;<br>
+<br>
+4. categorie;<br>
+<br>
+5. referentienummer van het gebruikte zaad en naam van de landen dat dit zaad hebben goedgekeurd;<br>
+<br>
+6. referentienummer van het veld of van de partij;<br>
+<br>
+7. oppervlakte die is geteeld voor productie van de bij het document behorende partij;<br>
+<br>
+8. geoogste hoeveelheid zaad en aantal verpakkingen;<br>
+<br>
+9. voor gecertificeerd zaad, het aantal generaties na het basiszaad;<br>
+<br>
+10. verklaring dat bij de teelt waarvan het zaad afkomstig is aan de vastgestelde voorwaarden is voldaan;<br>
+<br>
+11. in voorkomend geval, de uitkomsten van een voorlopige analyse van het zaad.
