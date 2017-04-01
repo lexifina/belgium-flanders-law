@@ -28,7 +28,16 @@ In dit besluit wordt verstaan onder : <BR>1° de leidend ambtenaar : de   persoo
 
 ### ART. 4.
 
-<P>Aan de leidend ambtenaar wordt delegatie verleend om de betrokkenen te horen   : <BR>1° voorafgaand aan de eventuele bekrachtiging door de Vlaamse minister,   bevoegd voor het toerisme, van het bevel tot onmiddellijke stopzetting van de   exploitatie van een toeristisch logies, vermeld in artikel 21 van het decreet   van 10 juli 2008 betreffende het toeristische logies;<BR>2° bij een beroep bij   de Vlaamse minister, bevoegd voor het toerisme, tegen de beslissing tot   weigering, intrekking of schorsing van een erkenning als verblijf, vereniging of   ondersteuningspunt in het kader van "Toerisme voor Allen", vermeld in artikel 14   van het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die   een werking uitoefenen in het kader van "Toerisme voor Allen";<BR>3° bij een   willig beroep bij de Vlaamse minister, bevoegd voor het toerisme, tegen de   beslissing over de toekenning van een investeringssubsidie aan een toeristisch   logies, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 30   september 2011 tot vaststelling van de voorwaarden waaronder   investeringssubsidies kunnen worden toegekend aan toeristische logiezen;<BR>4°   bij een beroep bij de Vlaamse minister, bevoegd voor het toerisme, tegen de   volgende beslissingen van Toerisme Vlaanderen, vermeld in artikel 22 van het   besluit van de Vlaamse Regering van 21 december 2012 betreffende   toerismesubsidies : <BR>a) de verklaring van niet-ontvankelijkheid;<BR>b) de   niet-toekenning van een subsidie;<BR>c) de subsidiebeslissing.<BR></P>  <P>Van elke hoorzitting wordt een proces-verbaal opgemaakt, dat onverwijld aan   de Vlaamse minister, bevoegd voor het toerisme, wordt   bezorgd.<BR></P>
+<p>Aan de leidend ambtenaar wordt delegatie verleend om de betrokkenen te horen :<br>
+1° ...;<br>
+2° bij een beroep bij de Vlaamse minister, bevoegd voor het toerisme, tegen de beslissing tot weigering, intrekking of schorsing van een erkenning als verblijf, vereniging of ondersteuningspunt in het kader van "Toerisme voor Allen", vermeld in artikel 14 van het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van "Toerisme voor Allen";<br>
+3° ...;<br>
+4° bij een beroep bij de Vlaamse minister, bevoegd voor het toerisme, tegen de volgende beslissingen van Toerisme Vlaanderen, vermeld in artikel 22 van het besluit van de Vlaamse Regering van 21 december 2012 betreffende toerismesubsidies :<br>
+a) de verklaring van niet-ontvankelijkheid;<br>
+b) de niet-toekenning van een subsidie;<br>
+c) de subsidiebeslissing.</p>
+
+<p>Van elke hoorzitting wordt een proces-verbaal opgemaakt, dat onverwijld aan de Vlaamse minister, bevoegd voor het toerisme, wordt bezorgd.</p>
 
 ## HOOFDSTUK 3 Regeling bij vervanging en subdelegatie
 
