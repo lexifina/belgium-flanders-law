@@ -4,7 +4,12 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de Vlaamse minister: de Vlaamse minister bevoegd voor de natuurlijke rijkdommen;<br />2° het decreet: het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning;<br />3° het hoofd : het personeelslid dat door de Vlaamse Regering belast is met de leiding van het Departement Leefmilieu, Natuur en Energie van het Vlaams Ministerie van Leefmilieu, Natuur en Energie;<br />4° de afdeling, bevoegd voor natuurlijke rijkdommen : de afdeling Land en Bodembescherming, Ondergrond, Natuurlijke Rijkdommen, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries; <br />5° het Departement : het Departement Leefmilieu, Natuur en Energie van het Vlaams Ministerie van Leefmilieu, Natuur en Energie.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° de Vlaamse minister: de Vlaamse minister bevoegd voor de natuurlijke rijkdommen;<br>
+2° het decreet: het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning;<br>
+3° het hoofd : het personeelslid dat door de Vlaamse Regering belast is met de leiding van het Departement Omgeving;<br>
+4° ...<br>
+5° het Departement : het Departement Omgeving.
 
 ## HOOFDSTUK II HET GRINDFONDS
 
@@ -24,7 +29,11 @@ Het Grindcomité en de drie subcomités bedoeld in artikel 4 van het decreet ste
 
 ### ART. 5.
 
-§ 1. Het hoofd is belast met het dagelijks bestuur en de organisatie van het Fonds. Hij voert de titel van secretaris-generaal van het Fonds.<br /><br />§ 2. Bij tijdelijke afwezigheid of verhindering van de secretaris-generaal worden zijn bevoegdheden uitgeoefend door het hoofd van de afdeling, bevoegd voor natuurlijke rijkdommen, behalve voor de bevoegdheden, vermeld in § 3. Bij tijdelijke afwezigheid of verhindering van het hoofd van de afdeling bevoegd voor natuurlijke rijkdommen wordt hij vervangen door een ambtenaar van rang 13 of hoger van die afdeling.<br /><br />§ 3. De secretaris-generaal van het Fonds kan de bevoegdheden die hem met toepassing van dit besluit worden toegekend, subdelegeren aan de ambtenaren van de afdeling, bevoegd voor natuurlijke rijkdommen of, als de noden van het Fonds dat vereisen, aan andere ambtenaren van het Departement.
+§ 1. Het hoofd is belast met het dagelijks bestuur en de organisatie van het Fonds. Hij voert de titel van secretaris-generaal van het Fonds.<br>
+<br>
+§ 2. Bij tijdelijke afwezigheid of verhindering van de secretaris-generaal worden zijn bevoegdheden uitgeoefend door het hoogste personeelslid in rang van het departement, deskundig op het vlak van natuurlijke rijkdommen. Als dit laatste personeelslid tijdelijk verhinderd of afwezig is, worden de bevoegdheden uitgeoefend door het op een na hoogste personeelslid in rang van het departement, deskundig op het vlak van natuurlijke rijkdommen.<br>
+<br>
+§ 3. De secretaris-generaal van het Fonds kan de bevoegdheden die hem met toepassing van dit besluit worden toegekend, verder delegeren aan personeelsleden van het departement die deskundig zijn op het vlak van natuurlijke rijkdommen.
 
 ### ART. 6.
 
@@ -66,7 +75,11 @@ De gemeenten As,&nbsp;Kinrooi, Maaseik, Dilsen-Stokkem en Maasmechelen   worden 
 
 ### ART. 13.
 
-§ 1. Het Departement is belast met de inning en de invordering van de grindheffingen. De afdeling, bevoegd voor natuurlijke rijkdommen,  is belast met de controle op de naleving van de verplichtingen inzake de heffing.<br /><br />§ 2. De houders van de nodige vergunningen voor de exploitatie van grind in een grindwinning zijn vanaf 1 januari 1995 onderworpen aan een grindheffing.<br /><br />§ 3. Als een bouwheer, die niet over een vergunning beschikt voor de exploitatie van grind als bedoeld in artikel 22, vierde lid, van het decreet, werkzaamheden uitoefent die niet tot doel hebben grind te exploiteren, maar waarbij minstens 25.000 ton grind als grondstof wordt gewonnen, is hij onderworpen aan de grindheffing, bedoeld in artikel 15, § 4, van het decreet.
+§ 1. Het Departement is belast met de inning en de invordering van de grindheffingen. Het Departement is belast met de controle op de naleving van de verplichtingen inzake de heffing.<br>
+<br>
+§ 2. De houders van de nodige vergunningen voor de exploitatie van grind in een grindwinning zijn vanaf 1 januari 1995 onderworpen aan een grindheffing.<br>
+<br>
+§ 3. Als een bouwheer, die niet over een vergunning beschikt voor de exploitatie van grind als bedoeld in artikel 22, vierde lid, van het decreet, werkzaamheden uitoefent die niet tot doel hebben grind te exploiteren, maar waarbij minstens 25.000 ton grind als grondstof wordt gewonnen, is hij onderworpen aan de grindheffing, bedoeld in artikel 15, § 4, van het decreet.
 
 ### ART. 13bis.
 
@@ -78,7 +91,11 @@ Binnen de met arcering gemerkte gebieden op het kaartblad dat als bijlage bij di
 
 ### ART. 15.
 
-§ 1.  Overtredingen van de bepalingen van artikel 14, alsmede feiten die de verschuldigdheid van de heffing aantonen, kunnen door de ambtenaren van de afdeling, bevoegd voor natuurlijke rijkdommen, bewezen worden volgens alle door het gemene recht toegelaten bewijsmiddelen, met uitzondering van de eed.<br /><br />§ 2. De heffingsplichtige is verplicht om alle bescheiden die nodig zijn om de voldoening van de heffing of de juistheid van de aangegeven hoeveelheden na te gaan, voor te leggen op louter verzoek van de ambtenaren, belast met de controle op de naleving van de verplichtingen inzake de heffing.<br /><br />§ 3. De heffingsplichtige is verplicht om op louter verzoek van de ambtenaren belast met de controle op de naleving van de verplichtingen inzake de heffing, mondeling of schriftelijk alle inlichtingen te verschaffen waar hij om verzocht wordt om de juistheid van de aangegeven hoeveelheden na te gaan.
+§ 1. Overtredingen van de bepalingen van artikel 14, alsmede feiten die de verschuldigdheid van de heffing aantonen, kunnen door de ambtenaren van&nbsp;het Departement&nbsp;bewezen worden volgens alle door het gemene recht toegelaten bewijsmiddelen, met uitzondering van de eed.<br>
+<br>
+§ 2. De heffingsplichtige is verplicht om alle bescheiden die nodig zijn om de voldoening van de heffing of de juistheid van de aangegeven hoeveelheden na te gaan, voor te leggen op louter verzoek van de ambtenaren, belast met de controle op de naleving van de verplichtingen inzake de heffing.<br>
+<br>
+§ 3. De heffingsplichtige is verplicht om op louter verzoek van de ambtenaren belast met de controle op de naleving van de verplichtingen inzake de heffing, mondeling of schriftelijk alle inlichtingen te verschaffen waar hij om verzocht wordt om de juistheid van de aangegeven hoeveelheden na te gaan.
 
 ### ART. 16.
 
@@ -98,7 +115,30 @@ Binnen de met arcering gemerkte gebieden op het kaartblad dat als bijlage bij di
 
 ### ART. 18bis.
 
-§ 1. Bij niet-aangifte of bij niet-tijdige aangifte of in geval van een onvolledige of onjuiste aangifte, als bedoeld in artikel 23bis, § 1, van het decreet, wordt de heffing vermeerderd met een heffingsverhoging. Deze heffingsverhoging wordt berekend op het verschil tussen de heffing zoals berekend op basis van de elementen van de aangifte en de door de afdeling, bevoegd voor natuurlijke rijkdommen, aangehouden heffing of, bij ontstentenis van aangifte, op de door de afdeling, bevoegd voor natuurlijke rijkdommen, aangehouden heffing.<br /><br />§ 2. Het percentage van de heffingsverhoging bij niet-aangifte of bij niet-tijdige aangifte, bedoeld in § 1, wordt als volgt vastgesteld:<br />1° als de niet-aangifte te wijten is aan omstandigheden buiten de wil van de heffingsplichtige, wordt de heffing niet verhoogd;<br />2° als de aangifte niet binnen de termijn wordt ingediend, maar de heffingsplichtige wel tijdig antwoordt op het bericht van ambtshalve heffing, wordt de heffing verhoogd met 10 % van het gedeelte, genoemd in § 1;<br />3° als de heffingsplichtige niet of niet tijdig antwoordt op het bericht van ambtshalve heffing, wordt de heffing verhoogd met 50 % van het gedeelte, genoemd in § 1.<br /><br />§ 3. Het percentage van de heffingsverhoging bij onvolledige of onjuiste aangifte, genoemd in § 1, wordt als volgt vastgesteld:<br />1° als de onvolledige of onjuiste aangifte te wijten is aan omstandigheden buiten de wil van de heffingsplichtige, wordt de heffing niet verhoogd;<br />2° als de heffingsplichtige tijdig reageert op het bericht van rechtzetting, wordt de heffing verhoord met 10 % van het gedeelte, genoemd in § 1;<br />3° als de heffingsplichtige niet of niet tijdig reageert op het bericht van rechtzetting, wordt de heffing verhoogd met 50 % van het gedeelte, genoemd in § 1;<br />4° als uit de reactie van de heffingsplichtige blijkt dat de in de aangifte opgegeven gegevens juist zijn, wordt de heffing niet verhoogd.<br /><br />§ 4. Het hoofd of zijn plaatsvervanger is gemachtigd om de administratieve geldboete, bedoeld in artikel 23bis, § 2, van het decreet, op te leggen.<br /><br />De heffingsverhoging en de administratieve geldboete moet binnen dertig kalenderdagen, te rekenen vanaf de datum van de afgifte ter post van de in § 6 genoemde aangetekende brief, worden betaald aan het Grindfonds.<br /><br />§ 5. De heffingsplichtige wordt van het voornemen tot het opleggen van de maatregel, bedoeld in § 1 en § 4 op de hoogte gebracht met een aangetekende brief met ontvangstbericht.<br /><br />Die kennisgeving vermeldt het bedrag van de maatregel, de tekst van artikel 15, § 8, van het decreet, en ook dag, plaats en uur waarop de heffingsplichtige zal worden gehoord tijdens een hoorzitting. De hoorzitting mag op zijn vroegst vijftien dagen na de verzending van de aangetekende brief plaatshebben. De kennisgeving vermeldt de plaats waar en de periode waarin het dossier kan worden ingezien. Het dossier ligt ter inzage tenminste tien dagen voor de hoorzitting. De heffingsplichtige kan op de hoorzitting een notitie indienen en hij mag zich laten bijstaan door een raadsman. Van de hoorzitting wordt een verslag gemaakt.<br /><br />§ 6. Na de hoorzitting neemt het hoofd de zaak onmiddellijk in beraad. De beslissing wordt met redenen omkleed. Het hoofd deelt de beslissing mee aan de overtreder binnen tien dagen na de hoorzitting. Hij doet dat via een aangetekende brief met ontvangstbericht.<br /><br />§ 7. De heffingsverhoging en de administratieve geldboete moeten binnen dertig kalenderdagen, te rekenen vanaf de datum van de afgifte ter post van de in § 6 genoemde aangetekende brief, worden betaald aan het Grindfonds.
+§ 1. Bij niet-aangifte of bij niet-tijdige aangifte of in geval van een onvolledige of onjuiste aangifte, als bedoeld in artikel 23bis, § 1, van het decreet, wordt de heffing vermeerderd met een heffingsverhoging. Deze heffingsverhoging wordt berekend op het verschil tussen de heffing zoals berekend op basis van de elementen van de aangifte en de door het Departement aangehouden heffing of, bij ontstentenis van aangifte, op de door het Departement aangehouden heffing.<br>
+<br>
+§ 2. Het percentage van de heffingsverhoging bij niet-aangifte of bij niet-tijdige aangifte, bedoeld in § 1, wordt als volgt vastgesteld:<br>
+1° als de niet-aangifte te wijten is aan omstandigheden buiten de wil van de heffingsplichtige, wordt de heffing niet verhoogd;<br>
+2° als de aangifte niet binnen de termijn wordt ingediend, maar de heffingsplichtige wel tijdig antwoordt op het bericht van ambtshalve heffing, wordt de heffing verhoogd met 10 % van het gedeelte, genoemd in § 1;<br>
+3° als de heffingsplichtige niet of niet tijdig antwoordt op het bericht van ambtshalve heffing, wordt de heffing verhoogd met 50 % van het gedeelte, genoemd in § 1.<br>
+<br>
+§ 3. Het percentage van de heffingsverhoging bij onvolledige of onjuiste aangifte, genoemd in § 1, wordt als volgt vastgesteld:<br>
+1° als de onvolledige of onjuiste aangifte te wijten is aan omstandigheden buiten de wil van de heffingsplichtige, wordt de heffing niet verhoogd;<br>
+2° als de heffingsplichtige tijdig reageert op het bericht van rechtzetting, wordt de heffing verhoord met 10 % van het gedeelte, genoemd in § 1;<br>
+3° als de heffingsplichtige niet of niet tijdig reageert op het bericht van rechtzetting, wordt de heffing verhoogd met 50 % van het gedeelte, genoemd in § 1;<br>
+4° als uit de reactie van de heffingsplichtige blijkt dat de in de aangifte opgegeven gegevens juist zijn, wordt de heffing niet verhoogd.<br>
+<br>
+§ 4. Het hoofd of zijn plaatsvervanger is gemachtigd om de administratieve geldboete, bedoeld in artikel 23bis, § 2, van het decreet, op te leggen.<br>
+<br>
+De heffingsverhoging en de administratieve geldboete moet binnen dertig kalenderdagen, te rekenen vanaf de datum van de afgifte ter post van de in § 6 genoemde aangetekende brief, worden betaald aan het Grindfonds.<br>
+<br>
+§ 5. De heffingsplichtige wordt van het voornemen tot het opleggen van de maatregel, bedoeld in § 1 en § 4 op de hoogte gebracht met een aangetekende brief met ontvangstbericht.<br>
+<br>
+Die kennisgeving vermeldt het bedrag van de maatregel, de tekst van artikel 15, § 8, van het decreet, en ook dag, plaats en uur waarop de heffingsplichtige zal worden gehoord tijdens een hoorzitting. De hoorzitting mag op zijn vroegst vijftien dagen na de verzending van de aangetekende brief plaatshebben. De kennisgeving vermeldt de plaats waar en de periode waarin het dossier kan worden ingezien. Het dossier ligt ter inzage tenminste tien dagen voor de hoorzitting. De heffingsplichtige kan op de hoorzitting een notitie indienen en hij mag zich laten bijstaan door een raadsman. Van de hoorzitting wordt een verslag gemaakt.<br>
+<br>
+§ 6. Na de hoorzitting neemt het hoofd de zaak onmiddellijk in beraad. De beslissing wordt met redenen omkleed. Het hoofd deelt de beslissing mee aan de overtreder binnen tien dagen na de hoorzitting. Hij doet dat via een aangetekende brief met ontvangstbericht.<br>
+<br>
+§ 7. De heffingsverhoging en de administratieve geldboete moeten binnen dertig kalenderdagen, te rekenen vanaf de datum van de afgifte ter post van de in § 6 genoemde aangetekende brief, worden betaald aan het Grindfonds.
 
 ### ART. 19.
 
@@ -142,7 +182,7 @@ Binnen een termijn van 30 dagen na de postdatum van de aangetekende brief met be
 
 ### ART. 26.
 
-Alle uitvoerbare beslissingen van het Fonds, het Grindcomité en de drie subcomités bedoeld in artikel 4 van het decreet zullen trimestrieel gepubliceerd worden in een gespecialiseerd Grindblad met als verantwoordelijke uitgever de Vlaamse overheid, Departement Leefmilieu, Natuur en Energie. Dit periodiek tijdschrift ligt ter inzage op de gemeentehuizen van de grindgemeenten, de zetel van het Fonds en de zetel van het Grindcomité.
+Alle uitvoerbare beslissingen van het Fonds, het Grindcomité en de drie subcomités bedoeld in artikel 4 van het decreet zullen trimestrieel gepubliceerd worden in een gespecialiseerd Grindblad met als verantwoordelijke uitgever het Departement. Dit periodiek tijdschrift ligt ter inzage op de gemeentehuizen van de grindgemeenten, de zetel van het Fonds en de zetel van het Grindcomité.
 
 ## HOOFDSTUK IX SLOTBEPALINGEN
 
