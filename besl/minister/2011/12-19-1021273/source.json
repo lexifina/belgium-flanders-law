@@ -2,16 +2,16 @@
   "codex_id": 1021273,
   "title": "Ministerieel besluit van 2011-12-19 [tot vaststelling van de herkenningstekens voor een vergund toeristisch logies (verv. BVR 5 oktober 2012, art. 25, I: 1 januari 2014)]",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021273/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "94db7f87e49cb9226156423b0c0bf15027479a75b9feefc96f92ea525c6e0f55",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021273/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "2f08c138db88cd70256610e8a63344a837bb143b7082e514285e9f1aaf4e1cae",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021273&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2017-04-01",
   "made": "2011-12-19",
   "gazette": "2012-02-22",
   "numac": 2012035120,
   "document_start": "2011-12-01",
   "document_end": "2017-03-31",
-  "in_force": "2014-01-01",
+  "in_force": "2017-04-01",
   "article_versions": 30,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
