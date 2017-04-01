@@ -4,7 +4,17 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° decreet:   titel 2, hoofdstuk 5, van de Vlaamse Codex Fiscaliteit van 13 december   2013;<BR>2° houder van het zakelijk recht: persoon of personen met een recht van   volle eigendom, een recht van opstal of van erfpacht, of een recht van   vruchtgebruik met betrekking tot een gebouw en/of woning;<BR>3° inventaris: de   inventaris van ongeschikte en/of onbewoonbare woningen en verwaarloosde gebouwen   en/of woningen, bedoeld in artikel 28 van het decreet;<BR>4° kamer: woning   waarin één of meer van de volgende voorzieningen ontbreken:<BR>- W.C.,<BR>- bad   of douche,<BR>- kookgelegenheid,<BR>en waarvan de bewoners voor deze   voorzieningen afhankelijk zijn van de gemeenschappelijke ruimten in of   aansluitend bij het gebouw waarvan de woning deel uitmaakt;<BR>5° agentschap :   het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke   Ordening, Woonbeleid en Onroerend Erfgoed.<BR>6° Vlaamse Wooncode : het decreet   van 15 juli 1997 houdende de Vlaamse Wooncode
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° decreet: titel 2, hoofdstuk 5, van de Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
+2° houder van het zakelijk recht: persoon of personen met een recht van volle eigendom, een recht van opstal of van erfpacht, of een recht van vruchtgebruik met betrekking tot een gebouw en/of woning;<br>
+3° inventaris: de inventaris van ongeschikte en/of onbewoonbare woningen en verwaarloosde gebouwen en/of woningen, bedoeld in artikel 28 van het decreet;<br>
+4° kamer: woning waarin één of meer van de volgende voorzieningen ontbreken:<br>
+- W.C.,<br>
+- bad of douche,<br>
+- kookgelegenheid,<br>
+en waarvan de bewoners voor deze voorzieningen afhankelijk zijn van de gemeenschappelijke ruimten in of aansluitend bij het gebouw waarvan de woning deel uitmaakt;<br>
+5° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving.<br>
+6° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode
 
 ### ART. 1bis.
 
