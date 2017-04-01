@@ -4,7 +4,16 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR><BR>1°   minister: de Vlaamse minister, bevoegd voor de huisvesting;<BR>2° agentschap :   het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke   Ordening, Woonbeleid en Onroerend Erfgoed; <BR>3° bescheiden woning: de woning   zoals omschreven in artikel 1, § 1, 9°, van het besluit van de Vlaamse regering   van 29 juni 2007 houdende de voorwaarden betreffende sociale leningen met   gewestwaarborg voor het bouwen, kopen, verbouwen of behouden van woningen;<BR>4°   gewestwaarborg: de waarborg zoals bepaald in artikel 78, §1, van het decreet van   15 juli 1997 houdende de Vlaamse Wooncode;<BR>5° kredietinstelling: de   hypotheekonderneming zoals bedoeld in artikel 43 en 43bis van de wet van 4   augustus 1992 op het hypothecair krediet;<BR>6° kredietmaatschappij: de   hypothecaire kredietmaatschappij voor sociaal woonkrediet waaraan een erkenning   is verleend overeenkomstig artikel 78, §1, eerste lid, 1°, van het decreet van   15 juli 1997 houdende de Vlaamse Wooncode;<BR>7° toezichthouder : de   toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van het   decreet van 15 juli 1997 houdende de Vlaamse Wooncode. <BR><BR>
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+<br>
+1° minister: de Vlaamse minister, bevoegd voor de huisvesting;<br>
+2° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving;<br>
+3° bescheiden woning: de woning zoals omschreven in artikel 1, § 1, 9°, van het besluit van de Vlaamse regering van 29 juni 2007 houdende de voorwaarden betreffende sociale leningen met gewestwaarborg voor het bouwen, kopen, verbouwen of behouden van woningen;<br>
+4° gewestwaarborg: de waarborg zoals bepaald in artikel 78, §1, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+5° kredietinstelling: de hypotheekonderneming zoals bedoeld in artikel 43 en 43bis van de wet van 4 augustus 1992 op het hypothecair krediet;<br>
+6° kredietmaatschappij: de hypothecaire kredietmaatschappij voor sociaal woonkrediet waaraan een erkenning is verleend overeenkomstig artikel 78, §1, eerste lid, 1°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+7° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br>
+&nbsp;
 
 ## HOOFDSTUK II DE KREDIETMAATSCHAPPIJEN
 
