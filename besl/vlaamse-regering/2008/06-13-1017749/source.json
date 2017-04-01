@@ -2,16 +2,16 @@
   "codex_id": 1017749,
   "title": "Besluit van de Vlaamse Regering van 2008-06-13 betreffende de verzekering gewaarborgd wonen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017749/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "cf34ea31b82f6668ae68a79a126add09c7e6f0157e5b66974b8f250aef2ec842",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017749/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "1826361fc7eb4d764af848c4494bd12f8c9d134a78321ea2f3f354c42199cc83",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017749&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2017-04-01",
   "made": "2008-06-13",
   "gazette": "2009-03-30",
   "numac": 2008202826,
   "document_start": "2009-04-01",
   "document_end": "2020-12-31",
-  "in_force": "2014-01-01",
+  "in_force": "2017-04-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
