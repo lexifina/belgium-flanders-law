@@ -4,11 +4,11 @@
 
 ### ART. 1.
 
-Binnen het Vlaams ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming Wonen-Vlaanderen, hierna het agentschap te noemen.<br>
+Binnen het Vlaams ministerie van Omgeving wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming Wonen-Vlaanderen, hierna het agentschap te noemen.<br>
 <br>
 Het agentschap wordt opgericht voor de voorbereiding, de uitvoering met inbegrip van de handhaving en het toezicht, de monitoring en de evaluatie van het beleid met betrekking tot de huisvesting, inzonderheid wat de in dit besluit opgesomde taken betreft.<br>
 <br>
-Het agentschap behoort tot het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed.
+Het agentschap behoort tot het beleidsdomein Omgeving.
 
 ### ART. 2.
 
