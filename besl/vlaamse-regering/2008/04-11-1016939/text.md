@@ -1938,21 +1938,21 @@ Categorie van gebiedsaanduiding 2: Bedrijvigheid<br>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:76.05pt">
+			<td style="background-color:transparent; height:14.2pt; width:76.05pt">
 			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>toelichting</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Standaard typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Alle werken, handelingen en wijzigingen die nodig of nuttig zijn voor de realisatie van de bestemming zijn toegelaten voor zover ze rekening houden met zuinig ruimtegebruik. Daarbij wordt minstens aandacht besteed aan:</p>
 
 			<p><em>- </em>het optimaal gebruiken van de percelen, echter rekening houdend met de verplichtingen inzake veiligheid;</p>
@@ -1961,7 +1961,7 @@ Categorie van gebiedsaanduiding 2: Bedrijvigheid<br>
 
 			<p><em>- </em>het groeperen en organiseren op het bedrijventerrein van parkeermogelijkheden voor de gebruikers en bezoekers.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Zuinig ruimtegebruik is een algemeen principe voor een bedrijventerrein.</em></p>
 
 			<p><em>&nbsp;</em></p>
@@ -1976,46 +1976,44 @@ Categorie van gebiedsaanduiding 2: Bedrijvigheid<br>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Standaard typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Gemeenschappelijke en complementaire voorzieningen, inherent aan het functioneren van het xxx bedrijventerrein, zijn toegelaten.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Voorbeelden van gemeenschappelijke en complementaire voorzieningen zijn een vrachtwagentankstation, een gemeenschappelijk bedrijfsrestaurant, een bank-/postloket.</em></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Kantoren en toonzalen met beperkte vloeroppervlakte, ondergeschikt en gekoppeld aan de productieactiviteit van individuele bedrijven, zijn toegelaten voor zover die activiteiten geen loketfunctie hebben en geen autonome activiteiten uitmaken. De toonzalen mogen maximaal 10% van de gelijkvloerse bebouwde oppervlakte innemen, ongeacht op welk niveau de toonzalen worden ingericht, en de toonzaaloppervlakte mag maximaal 500 m² zijn.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>&nbsp;</em></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Inrichtingen voor de huisvesting van bewakingspersoneel van maximaal 200 m² vloeroppervlakte, geïntegreerd in het bedrijfsgebouw, zijn toegelaten. Indien het noodzakelijk is voor de veiligheid van het bewakingspersoneel is de niet-integratie toegelaten.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>In specifieke gevallen kan onder bewakingspersoneel ook de eigenaar, een zaakvoerder of kaderlid worden begrepen, voor zover diens aanwezigheid nuttig of nodig is voor de bewaking en voor de veiligheid van het bedrijf.</em></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>De minimale perceelsoppervlakte bedraagt 5000 m².</p>
-
-			<p>&nbsp;</p>
 
 			<p>Uitzonderingen zijn toegestaan voor:</p>
 
@@ -2029,16 +2027,16 @@ Categorie van gebiedsaanduiding 2: Bedrijvigheid<br>
 
 			<p><em>- </em>percelen met aaneengesloten gebouwen of gebouwen die architectonisch een geheel vormen maar voor verschillende bedrijven bestemd zijn.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Bedrijfsverzamelgebouwen: voorbeelden daarvan zijn gebouwen waarin verschillende bedrijven hun kantoren voor administratieve diensten groeperen.</em></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
-			<p>Aanvragen voor een stedenbouwkundige vergunning worden voor advies voorgelegd aan de gewestelijke dienst die bevoegd is voor de veiligheidsrapportering wanneer het voorwerp van de aanvraag tegelijk aan de onderstaande voorwaarden voldoet:</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
+			<p>Aanvragen voor een stedenbouwkundige vergunning worden voor advies voorgelegd met betrekking tot het thema veiligheidsrapportering aan het Departement Omgeving wanneer het voorwerp van de aanvraag tegelijk aan de onderstaande voorwaarden voldoet:</p>
 
 			<p><em>- </em>het gaat over werken, handelingen, voorzieningen, inrichtingen en functiewijzigingen voor een nieuwe inrichting die valt onder de toepassing van het samenwerkingsakkoord tussen de federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de beheersing van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken;</p>
 
@@ -2048,40 +2046,40 @@ Categorie van gebiedsaanduiding 2: Bedrijvigheid<br>
 
 			<p>Deze adviesvraag wordt behandeld volgens de bepalingen van de wetgeving ruimtelijke ordening over niet-bindende adviesvragen met betrekking tot vergunningsaanvragen, met name artikel 111, § 4 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>&nbsp;</em></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Inrichtingen die vallen onder de toepassing van het samenwerkingsakkoord tussen de federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de beheersing van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken zijn niet toegelaten.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Deze bepaling slaat op alle inrichtingen die vallen onder toepassing van de Seveso-wetgeving, zowel hogedrempelinrichtingen als lagedrempelinrichtingen.</em></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Inrichtingen die vallen onder de toepassing van het samenwerkingsakkoord tussen de federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de beheersing van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken en waarvoor een veiligheidsrapport vereist is als gevolg van de toepassing van de milieuwetgeving, zijn niet toegelaten.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Deze bepaling slaat op de hogedrempelinrichtingen.</em></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>x.x. Tot een vergunning verleend is voor de realisatie van de bestemming zijn per perceel de handelingen, voorzieningen en inrichtingen toegelaten die nodig of nuttig zijn voor wonen in bestaande woningen en voor de landbouwbedrijfsvoering van de bestaande landbouwbedrijven en voor de bestaande bedrijven met aan de landbouw toeleverende, verwerkende en dienstverlenende activiteiten.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Overgangsmaatregel voor landbouw met bedrijfsgebouw in het gebied. Onder landbouw wordt verstaan, landbouw in de ruime zin van het woord, namelijk het beroepsmatig kweken van planten of dieren voor de markt en niet voor recreatieve doeleinden. Daaronder vallen veeteelt, plantenen bomenkwekerijen, akkerbouw ... Tuinaanlegbedrijven die planten of bomen kweken of conditioneren over een minimumoppervlakte van ongeveer een vierde hectare vallen hier ook onder.</em></p>
 
 			<p><em>&nbsp;</em></p>
@@ -2090,13 +2088,13 @@ Categorie van gebiedsaanduiding 2: Bedrijvigheid<br>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>x.y. Tot een vergunning verleend is voor de realisatie van de bestemming zijn per perceel de handelingen, voorzieningen en inrichtingen toegelaten die nodig of nuttig zijn voor wonen in bestaande woningen en voor de landbouwbedrijfsvoering van landbouwbedrijven, met uitsluiting van het oprichten van gebouwen en vergelijkbare constructies.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Overgangsmaatregel voor landbouw zonder bedrijfsgebouw in het gebied. Onder landbouw wordt verstaan, landbouw in de ruime zin van het woord, namelijk het beroepsmatig kweken van planten of dieren voor de markt en niet voor recreatieve doeleinden. Daaronder vallen veeteelt, planten- en bomenkwekerijen, akkerbouw ... Tuinaanlegbedrijven die planten of bomen kweken of conditioneren over een minimumoppervlakte van ongeveer een vierde hectare vallen hier ook onder.</em></p>
 
 			<p><em>&nbsp;</em></p>
@@ -3421,21 +3419,21 @@ Categorie van gebiedsaanduiding 6. Overig groen<br>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:76.05pt">
+			<td style="background-color:transparent; height:14.2pt; width:76.05pt">
 			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>toelichting</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Standaard grafische aanduiding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>grafisch element → niet opgenomen</p>
 
 			<p>&nbsp;</p>
@@ -3444,18 +3442,18 @@ Categorie van gebiedsaanduiding 6. Overig groen<br>
 
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Standaard typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Binnen dit gebied zijn natuurbehoud, bosbouw, landschapszorg, landbouw en recreatie nevengeschikte functies. Alle werken, handelingen en wijzigingen die nodig of nuttig zijn voor deze functies zijn toegelaten.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Het aanbrengen van infrastructuren voor het beheer van het gebied als openruimtegebied is mogelijk. Die infrastructuren zijn onder meer: veekerende rasters, het bouwen van schuilplaatsen voor dieren die ingezet worden bij het beheer van het gebied.</em></p>
 
 			<p><em>&nbsp;</em></p>
@@ -3464,10 +3462,10 @@ Categorie van gebiedsaanduiding 6. Overig groen<br>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Voor zover de ruimtelijk-ecologische draagkracht van het gebied niet wordt overschreden zijn, in uitzondering op het onbebouwde karakter van het gebied, de volgende werken, handelingen en wijzigingen toegelaten:</p>
 
 			<p><em>- </em>het aanbrengen van kleinschalige infrastructuur die gericht op de sociale, educatieve of recreatieve functie van het gebied, waaronder sanitaire gebouwen of schuilplaatsen van één bouwlaag met een oppervlakte van ten hoogste 100 m² met uitsluiting van elke verblijfsaccomodatie;</p>
@@ -3480,7 +3478,7 @@ Categorie van gebiedsaanduiding 6. Overig groen<br>
 
 			<p>Hoogdynamische occasionele recreatieve activiteiten kunnen worden toegelaten voor zover XXXX</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Tot kleinschalige infrastructuur voor de sociale, educatieve of recreatieve functie van het gebied worden gerekend:</em></p>
 
 			<p><em>- speeltuigen, speelbossen en speelweiden, een (overdekte) picknickplaats, zitbanken, vuilnisbakken, beperkte sanitaire voorziening ...</em></p>
@@ -3499,10 +3497,10 @@ Categorie van gebiedsaanduiding 6. Overig groen<br>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Voor zover de bestemming van het gebied niet in het gedrang wordt gebracht, is het toegelaten bestaande woningen te verbouwen binnen het vergunde volume, op voorwaarde dat (1) de woning op het moment van de vergunningsaanvraag niet verkrot is (de woning wordt beschouwd als verkrot indien ze niet voldoet aan de elementaire eisen van stabiliteit op het moment van de eerste vergunningsaanvraag tot verbouwen); en (2) de woning hoofdzakelijk vergund is of geacht wordt vergund te zijn, ook wat de functie betreft.</p>
 
 			<p>&nbsp;</p>
@@ -3517,7 +3515,7 @@ Categorie van gebiedsaanduiding 6. Overig groen<br>
 
 			<p>Herbouw binnen hetzelfde bouwvolume is enkel vergunbaar indien de woning geheel of gedeeltelijk vernield of beschadigd is door een plotse ramp, buiten de wil van de aanvrager en op voorwaarde dat (1) de woning voor de vernieling of beschadiging niet verkrot was, (2) de woning volgens het bevolkingsregister in de loop van het jaar voorafgaand aan de vernieling of beschadiging werd bewoond; (3) de aanvraag ten laatste binnen het jaar na het toekennen van het verzekeringsbedrag gebeurt; (4) de woning hoofdzakelijk vergund is of geacht wordt vergund te zijn, ook wat de functie betreft. Indien het bestaande bouwvolume vóór de vernieling of beschadiging meer bedroeg dan 1.000 m³, wordt de herbouwde woning beperkt tot 1.000 m³.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>In openruimtegebied is in principe enkel het bestendigen van de bestaande vergunde woningen toegelaten. </em></p>
 
 			<p><em>&nbsp;</em></p>
@@ -3526,10 +3524,10 @@ Categorie van gebiedsaanduiding 6. Overig groen<br>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>In bestaande vergunde gebouwen kunnen behalve de activiteiten voor de realisatie van de bovenvermelde functies, ook de volgende activiteiten toegelaten worden:</p>
 
 			<p><em>- </em>wonen;</p>
@@ -3558,18 +3556,18 @@ Categorie van gebiedsaanduiding 6. Overig groen<br>
 
 			<p>het aanleggen en onderhouden van een parking voor zover XXX</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Ontwikkelingsmo<em>gelijkheden voor bestaande bebouwing (kloosters, kastelen...) moeten gebiedsspecifiek uitgewerkt worden, rekening houdend met de cultuurhistorische en landschappelijke waarde en de potenties voor hergebruik van het bestaande patrimonium voor andere functies (wonen, werken, toerisme, horeca, nuts- en gemeenschapsvoorzieningen, socioculturele voorzieninge</em>n ...).</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling waterbeheer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Voor zover ze door hun beperkte impact de realisatie van de algemene bestemming niet in het gedrang brengen; zijn werken, handelingen en wijzigingen toegelaten die nodig of nuttig zijn voor het beheersen van overstromingen of het voorkomen van wateroverlast buiten de natuurlijke overstromingsgebieden, voor zover de technieken van natuurtechnische milieubouw gehanteerd worden.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Waterbeheersing is een ondergeschikte functie in dit gebied.</em></p>
 
 			<p><em>&nbsp;</em></p>
@@ -3578,7 +3576,7 @@ Categorie van gebiedsaanduiding 6. Overig groen<br>
 
 			<p><em>&nbsp;</em></p>
 
-			<p><em>Met ‘technieken van natuurtechnische milieubouw’ wordt verwezen naar een geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het departement Leefmilieu, Natuur en Energie van de Vlaamse overheid: <a href="http://www.lne.be/themas/milieu-en-infrastructuur/vademecumsnatuurtechniek">http://www.lne.be/themas/milieu-en-infrastructuur/vademecumsnatuurtechniek</a>. Op basis van onderzoek en ervaring worden deze Vademecums regelmatig geactualiseerd.</em></p>
+			<p><em>Met ‘technieken van natuurtechnische milieubouw’ wordt verwezen naar een geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het Departement Omgeving. Op basis van onderzoek en ervaring worden deze Vademecums regelmatig geactualiseerd.</em></p>
 			</td>
 		</tr>
 	</tbody>
@@ -3981,21 +3979,21 @@ Categorie van gebiedsaanduiding 7. Reservaat en natuur<br>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:76.05pt">
+			<td style="background-color:transparent; height:14.2pt; width:76.05pt">
 			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>toelichting</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Standaard grafische aanduiding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>grafisch element → niet opgenomen</p>
 
 			<p>&nbsp;</p>
@@ -4004,22 +4002,22 @@ Categorie van gebiedsaanduiding 7. Reservaat en natuur<br>
 
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Standaard typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Het gebied is bestemd voor de instandhouding, de ontwikkeling en het herstel van de natuur, het natuurlijk milieu en bos. Recreatief medegebruik is een ondergeschikte functie.</p>
 
 			<p>&nbsp;</p>
 
 			<p>Alle werken, handelingen en wijzigingen die nodig of nuttig zijn voor de ontwikkeling, de instandhouding en het herstel van de natuur, het natuurlijk milieu, bos en van de landschapswaarden zijn toegelaten.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>In het natuurgebied is de hoofdfunctie natuur. Recreatief medegebruik laat evenwel toe dat bepaalde zones in het natuurgebied afgeschermd kunnen worden, niet toegankelijk zijn voor het publiek omwille van de natuurwaarde.</em></p>
 
 			<p><em>&nbsp;</em></p>
@@ -4036,17 +4034,17 @@ Categorie van gebiedsaanduiding 7. Reservaat en natuur<br>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Voor zover de ruimtelijk-ecologische draagkracht van het gebied niet overschreden wordt, zijn de volgende werken, handelingen en wijzigingen eveneens toegelaten:</p>
 
 			<p><em>- </em>het aanbrengen van kleinschalige infrastructuur voor het al dan niet toegankelijk maken van het gebied voor educatief of recreatief medegebruik, waaronder het aanleggen, inrichten of uitrusten van paden voor niet-gemotoriseerd verkeer;</p>
 
 			<p><em>- </em>het herstellen, heraanleggen of verplaatsen van bestaande openbare wegen en nutsleidingen. Bestaande openbare wegen en nutsleidingen kunnen verplaatst worden voor zover dat noodzakelijk is voor de kwaliteit van het leefmilieu, het herstel en de ontwikkeling van de natuur en het natuurlijke milieu, de openbare veiligheid of de ;volksgezondheid.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Recreatief medegebruik is een ondergeschikte functies in het natuurgebied. Ondergeschikt betekent ‘van betrekkelijk minder grote betekenis’.</em></p>
 
 			<p><em>&nbsp;</em></p>
@@ -4075,10 +4073,10 @@ Categorie van gebiedsaanduiding 7. Reservaat en natuur<br>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Voor zover de bestemming van het gebied niet in het gedrang wordt gebracht is het toegelaten bestaande woningen, gebouwen of constructies te verbouwen of te herbouwen binnen het vergunde bouwvolume.</p>
 
 			<p>&nbsp;</p>
@@ -4095,18 +4093,18 @@ Categorie van gebiedsaanduiding 7. Reservaat en natuur<br>
 
 			<p>Herbouw binnen hetzelfde bouwvolume is enkel vergunbaar indien de woning geheel of gedeeltelijk vernield of beschadigd is door een plotse ramp, buiten de wil van de aanvrager en op voorwaarde dat (1) de woning voor de vernieling of beschadiging niet verkrot was, (2) de woning volgens het bevolkingsregister in de loop van het jaar voor de vernieling of beschadiging werd bewoond; (3) de aanvraag uiterlijk binnen een jaar na het toekennen van het verzekeringsbedrag wordt ingediend; (4) de woning hoofdzakelijk vergund is of geacht wordt vergund te zijn, ook wat de functie betreft. Indien het bestaande bouwvolume vóór de vernieling of beschadiging meer bedroeg dan 1.000 m³, wordt de herbouwde woning beperkt tot 1.000 m³.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>In natuurgebied is in principe enkel het bestendigen van de bestaande vergunde woningen toegelaten.</em></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling waterbeheer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Voor zover ze door hun beperkte impact de realisatie van de algemene bestemming niet in het gedrang brengen; zijn werken, handelingen en wijzigingen toegelaten die nodig of nuttig zijn voor het beheersen van overstromingen of het voorkomen van wateroverlast buiten de natuurlijke overstromingsgebieden, voor zover de technieken van natuurtechnische milieubouw gehanteerd worden.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Waterbeheersing is een ondergeschikte functie in dit gebied.</em></p>
 
 			<p><em>&nbsp;</em></p>
@@ -4115,7 +4113,7 @@ Categorie van gebiedsaanduiding 7. Reservaat en natuur<br>
 
 			<p><em>&nbsp;</em></p>
 
-			<p><em>Met ‘technieken van natuurtechnische milieubouw’ wordt verwezen naar een geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het departement Leefmilieu, Natuur en Energie van de Vlaamse overheid: <a href="http://www.lne.be/themas/milieu-eninfrastructuur/vademecums-natuurtechniek">http://www.lne.be/themas/milieu-eninfrastructuur/vademecums-natuurtechniek</a>. Op basis van onderzoek en ervaring worden deze Vademecums regelmatig geactualiseerd.</em></p>
+			<p><em>Met ‘technieken van natuurtechnische milieubouw’ wordt verwezen naar een geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het&nbsp;Departement Omgeving. Op basis van onderzoek en ervaring worden deze Vademecums regelmatig geactualiseerd.</em></p>
 			</td>
 		</tr>
 	</tbody>
@@ -4255,25 +4253,26 @@ Categorie van gebiedsaanduiding 7. Reservaat en natuur<br>
 Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 <br>
 8.1 Verkeers- of vervoersinfrastructuur<br>
-&nbsp;
+<br>
+
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:76.05pt">
+			<td style="background-color:transparent; height:14.2pt; width:76.05pt">
 			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>toelichting</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Standaard grafische aanduiding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>grafisch element → niet opgenomen</p>
 
 			<p><strong>Wegeninfrastructuur</strong></p>
@@ -4302,22 +4301,22 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Standaard typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Dit gebied is bestemd voor verkeers- en vervoersinfrastructuur/ wegen- /spoor-/waterweginfrastructuur (te specifiëren) en aanhorigheden.</p>
 
 			<p>&nbsp;</p>
 
 			<p>In dit gebied zijn alle werken, handelingen en wijzigingen toegelaten voor de aanleg, het functioneren of aanpassing van die voor verkeers- en vervoersinfrastructuur/ wegen-/spoor- /waterweginfrastructuur (te specifiëren) en aanhorigheden. Daarnaast zijn alle werken, handelingen en wijzigingen met het oog op de ruimtelijke inpassing, buffers, ecologische verbindingen, kruisende infrastructuren, leidingen, telecommunicatie infrastructuur, lokaal openbaar vervoer, lokale dienstwegen, jaagpaden, recreatienetwerk en waterwegennetwerk en paden voor niet-gemotoriseerd verkeer toegelaten.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Onder aanhorigheden van wegeninfrastructuur wordt onder andere verstaan: al dan niet verharde bermen, grachten en taluds, de stationeer- en parkeerstroken, de wegsignalisatie en wegbebakening, de verlichting, de afwatering, de beplantingen, de veiligheidsuitrustingen zoals stootbanden en hulpposten, de geluidswerende constructies, de parkeerplaatsen langs autosnelwegen.</em></p>
 
 			<p><em>&nbsp;</em></p>
@@ -4334,62 +4333,62 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 
 			<p><em>&nbsp;</em></p>
 
-			<p><em>Alle werken van natuurtechnische milieubouw kunnen gerealiseerd worden. Met ‘technieken van natuurtechnische milieubouw’ wordt verwezen naar een geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het departement Leefmilieu, Natuur en Energie van de Vlaamse overheid: <a href="http://www.lne.be/themas/milieu-eninfrastructuur/">http://www.lne.be/themas/milieu-eninfrastructuur/</a> vademecums-natuurtechniek. Op basis van onderzoek en ervaring worden deze Vademecums regelmatig geactualiseerd.</em></p>
+			<p><em>Alle werken van natuurtechnische milieubouw kunnen gerealiseerd worden. Met ‘technieken van natuurtechnische milieubouw’ wordt verwezen naar een geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het Departement Omgeving. Op basis van onderzoek en ervaring worden deze Vademecums regelmatig geactualiseerd.</em></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Alle werken, handelingen en wijzigingen voor watergebonden recreatie zijn eveneens toegelaten.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Met gebouwen en constructies wordt bedoeld deze die op het land geplaatst worden. Het gaat dus bijvoorbeeld niet om de aanlegsteigers die in de waterweginfrastructuur aangelegd worden, of om oever- of kaai-infrastructuur voor het te water laten van recreatievaartuigen.</em></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>grafisch element → niet opgenomen</p>
 
 			<p>&nbsp;</p>
 
 			<p>Gebouwen, constructies en verharde parkeerplaatsen voor het watergebonden recreatieve gebruik met een vloeroppervlakte van meer dan 25 m², zijn alleen toegelaten in de zones aangeduid met deze overdruk.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Na aanleg van de infrastructuur kunnen voor het gedeelte van de zone dat voorlopig niet werd benut, de voorschriften van de naastliggende bestemming toegepast worden.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>In een zeehavengebied of bij een vervoersinfrastructuur is het niet altijd mogelijk precies aan te geven waar de infrastructuren beginnen en de overgang naar de naastliggende bestemming. Daarom wordt met deze gebiedsspecifieke typebepaling toegelaten om de voorschriften van de naastliggende bestemming toe te passen. In de aanvraag voor een stedenbouwkundige vergunning wordt duidelijk aangegeven welke oppervlakte voor de infrastructuur ingenomen wordt en waar de toepassing van het voorschrift van de naastliggende bestemming begint. Deze typebepaling wordt bijvoorbeeld gehanteerd voor een waterweginfrastructuur of een vervoerinfrastructuur.</em></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Gronden die niet voor de inrichting of het functioneren van de verkeers- en vervoersinfrastructuur gebruikt worden, worden op een kwaliteitsvolle manier geïntegreerd in de omgeving.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>In de aanvraag voor een stedenbouwkundige vergunning voor een project dat een deel van het gebied beslaat, moet aangegeven worden wat met het overige gedeelte gebeurt. De vergunningverlenende overheid moet aan de hand van de aanvraag kunnen oordelen of het nog niet benutte deel lange tijd onbenut zal blijven voor vervoers- of verkeersinfrastructuur en wat er tussentijds mee zal gebeuren.</em></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>grafisch element → niet opgenomen</p>
 
 			<p>&nbsp;</p>
@@ -4398,22 +4397,22 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Het gebied aangeduid in overdruk is bestemd voor de aanleg, het beheer en de exploitatie van verkeers- en vervoersinfrastructuur/ wegen- / spoor- / waterweginfrastructuur (te specifiëren) en aanhorigheden.</p>
 
 			<p>&nbsp;</p>
 
 			<p>In dit gebied zijn alle werken, handelingen en wijzigingen toegelaten voor de aanleg, het functioneren of aanpassing van die voor verkeers- en vervoersinfrastructuur/ wegen- / spoor- / waterweginfrastructuur (te specifiëren) en aanhorigheden. Daarnaast zijn alle werken, handelingen en wijzigingen met het oog op de ruimtelijke inpassing, buffers, ecologische verbindingen, kruisende infrastructuren, leidingen, telecommunicatie infrastructuur, lokaal openbaar vervoer, lokale dienstwegen, jaagpaden, recreatienetwerk en waterwegennetwerk en paden voor niet-gemotoriseerd verkeer toegelaten. De in grondkleur aangegeven bestemming is van toepassing voor zover de vergunningen die afgeleverd worden tijdelijke vergunningen zijn.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>&nbsp;</em></p>
 			</td>
 		</tr>
@@ -4432,21 +4431,21 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:76.05pt">
+			<td style="background-color:transparent; height:14.2pt; width:76.05pt">
 			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>toelichting</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Standaard grafische aanduiding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>grafisch element → niet opgenomen</p>
 
 			<p>&nbsp;</p>
@@ -4455,23 +4454,23 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Standaard typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>In het gebied, aangeduid met deze overdruk, zijn alle werken, handelingen en wijzigingen toegelaten voor de aanleg, het functioneren en de aanpassing van de ongelijkvloerse verkeers- en vervoersinfrastructuur/ wegen- /spoor- /waterweginfrastructuur (te specifiëren) en aanhorigheden. Daarnaast zijn werken, handelingen en wijzigingen in functie van de ruimtelijke inpassing, ecologische verbindingen, kruisende infrastructuren en leidingen toegelaten.</p>
 
 			<p>&nbsp;</p>
 
 			<p>De in grondkleur aangegeven bestemming is van toepassing voor zover de aanleg, het functioneren en de aanpassing van verkeers- en vervoersinfrastructuur/ wegen- /spoor- /waterweginfrastructuur (te specifiëren) niet in het gedrang wordt gebracht.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
-			<p>Alle werken van natuurtechnische milieubouw zijn toegelaten. Met technieken van natuurtechnische milieubouw’ wordt verwezen naar en geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het departement Leefmilieu, Natuur en Energie van de Vlaamse overheid: <a href="http://www.lne.be/themas/milieu-en-infrastructuur/vademecumsnatuurtechniek">http://www.lne.be/themas/milieu-en-infrastructuur/vademecumsnatuurtechniek</a>. Op basis van onderzoek en ervaring worden deze Vademecums regelmatig geactualiseerd.</p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
+			<p>Alle werken van natuurtechnische milieubouw zijn toegelaten. Met technieken van natuurtechnische milieubouw’ wordt verwezen naar en geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het Departement Omgeving. Op basis van onderzoek en ervaring worden deze Vademecums regelmatig geactualiseerd.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -4558,21 +4557,21 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:76.05pt">
+			<td style="background-color:transparent; height:14.2pt; width:76.05pt">
 			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>toelichting</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Standaard grafische aanduiding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>grafisch element → niet opgenomen</p>
 
 			<p>&nbsp;</p>
@@ -4581,15 +4580,15 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Standaard typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Het gebied is bestemd voor een overstapplaats, met name een gebied voor uitwisseling tussen individueel en openbaar/collectief vervoer/verschillende soorten openbaar vervoer.</p>
 
 			<p>&nbsp;</p>
@@ -4604,7 +4603,7 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 
 			<p>Gronden die niet voor de inrichting of het functioneren van de overstapplaats gebruikt worden, worden op een kwaliteitsvolle manier geïntegreerd in de omgeving.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>D<em>it gebied is bestemd voor alle nodige infrastructu</em>ur voor:</p>
 
 			<p><em>- overstap van individueel naar collectief vervoer (bijvoorbeeld carpoolparking;</em></p>
@@ -4623,7 +4622,7 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 
 			<p><em>&nbsp;</em></p>
 
-			<p><em>Alle werken van ‘Met technieken van natuurtechnische milieubouw’ wordt verwezen naar een geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het departement Leefmilieu, Natuur en Energie van de Vlaamse overheid: <a href="http://www.lne.be/themas/milieu-eninfrastructuur/">http://www.lne.be/themas/milieu-eninfrastructuur/</a>vademecums-natuurtechniek. Op basis van onderzoek en ervaring worden deze Vademecum regelmatig geactualiseerd. zijn toegelaten.</em></p>
+			<p><em>Alle werken van ‘Met technieken van natuurtechnische milieubouw’ wordt verwezen naar een geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het&nbsp;Departement Omgeving. Op basis van onderzoek en ervaring worden deze Vademecum regelmatig geactualiseerd. zijn toegelaten.</em></p>
 			</td>
 		</tr>
 	</tbody>
@@ -4641,21 +4640,21 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:76.05pt">
+			<td style="background-color:transparent; height:14.2pt; width:76.05pt">
 			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>toelichting</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Standaard grafische aanduiding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>grafisch element → niet opgenomen</p>
 
 			<p>&nbsp;</p>
@@ -4664,15 +4663,15 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Standaard typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Het gebied is bestemd voor een overslagplaats, met name een gebied voor de uitwisseling tussen verschillende modi voor goederenvervoer/volgende modi voor goederenvervoer (omschrijving, bimodaal, trimodaal, …).</p>
 
 			<p>&nbsp;</p>
@@ -4687,12 +4686,12 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 
 			<p>Gronden die niet voor de inrichting of het functioneren van de overslagplaats gebruikt worden, worden op een kwaliteitsvolle manier geïntegreerd in de omgeving.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Er kunnen ondersteunende voorzieningen worden toegelaten: beperkte horecavoorzieningen, beperkte openbare dienstverlening (bankagentschap, postkantoor …), tankplaats, …</em></p>
 
 			<p><em>&nbsp;</em></p>
 
-			<p><em>Alle werken van met ‘technieken van natuurtechnische milieubouw’ wordt verwezen naar een geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het departement Leefmilieu, Natuur en Energie van de Vlaamse overheid: http://www.lne.be/themas/milieu-eninfrastructuur/vademecums-natuurtechniek. Op basis van onderzoek en ervaring worden deze Vademecums regelmatig geactualiseerd. zijn toegelaten.</em></p>
+			<p><em>Alle werken van met ‘technieken van natuurtechnische milieubouw’ wordt verwezen naar een geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het Departement Omgeving. Op basis van onderzoek en ervaring worden deze Vademecums regelmatig geactualiseerd. zijn toegelaten.</em></p>
 			</td>
 		</tr>
 	</tbody>
@@ -5938,36 +5937,36 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:76.05pt">
+			<td style="background-color:transparent; height:14.2pt; width:76.05pt">
 			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>toelichting</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>In het gebied zijn eveneens, in zoverre in overeenstemming met of aangewezen in de passende beoordeling, alle werken, handelingen, voorzieningen, inrichtingen en functiewijzigingen nodig voor de instandhouding, de vervanging, het herstel of de ontwikkeling van natuur en het natuurlijk milieu in de speciale beschermingszone voor de gunstige staat van instandhouding van de natuurlijke habitats, de habitats van de soorten en soorten waarvoor de betreffende speciale beschermingszone is aangewezen of van het beperken van de milieuimpact toegelaten.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Onder speciale beschermingszone wordt verstaan: gebied dat aangewezen (definitief vastgesteld is) ter uitvoering van artikel 4 van de richtlijn 79/409/EEG van de Raad van 2 april 1979 inzake het behoud van de vogelstand (“vogelrichtlijngebied”) of ter uitvoering van artikel 4 van de richtlijn 92/43/EEG van de Raad van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (“habitatrichtlijngebied”). De speciale beschermingszones zijn dus het geheel van vogel- en habitatrichtlijngebieden.</em></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling voor watertoets</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>In het gebied zijn eveneens toegelaten, voor zover de hoofdbestemming niet in het gedrang komt, voor zover in overeenstemming met of aangewezen in de watertoets, alle werken, handelingen en wijzigingen in functie van het bereiken van de randvoorwaarden die nodig zijn voor het behoud van de watersystemen en het voorkomen van wateroverlast buiten de natuurlijke overstromingsgebieden toegelaten voor zover de technieken van de natuurtechnische milieubouw gehanteerd worden.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
-			<p><em>Voor werken die uit een watertoets voortvloeien. Met ‘technieken van natuurtechnische milieubouw’ wordt verwezen naar een geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het&nbsp; departement Leefmilieu, Natuur en Energie van de Vlaamse overheid: http://www.lne.be/themas/milieu-eninfrastructuur/vademecums-natuurtechniek. Op basis van onderzoek en ervaring worden deze Vademecums regelmatig geactualiseerd.</em></p>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
+			<p><em>Voor werken die uit een watertoets voortvloeien. Met ‘technieken van natuurtechnische milieubouw’ wordt verwezen naar een geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het&nbsp; Departement Omgeving. Op basis van onderzoek en ervaring worden deze Vademecums regelmatig geactualiseerd.</em></p>
 			</td>
 		</tr>
 	</tbody>
@@ -5980,25 +5979,26 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 11. Diverse gebiedsspecifieke typebepalingen<br>
 <br>
 11.3 Typebepaling mbt beperkte werken van waterbeheer in of nabij valleien<br>
-&nbsp;
+<br>
+
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:76.05pt">
+			<td style="background-color:transparent; height:14.2pt; width:76.05pt">
 			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>toelichting</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:76.05pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; height:14.2pt; width:76.05pt">
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p>Voor zover ze de realisatie van de algemene bestemming niet in het gedrang brengen; zijn werken, handelingen en wijzigingen die nodig of nuttig zijn voor:</p>
 
 			<p><em>- </em>het behoud en herstel van het waterbergend vermogen van rivier- en beekvalleien,</p>
@@ -6015,7 +6015,7 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 
 			<p>De in artikel x tot y genoemde werken, handelingen en wijzigingen kunnen slechts toegelaten worden voor zover ze verenigbaar zijn met de waterbeheerfunctie van het gebied en het waterbergend vermogen van rivier- en beekvalleien niet doen afnemen.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; height:14.2pt; width:184.3pt">
 			<p><em>Waterbeheer(sing) is een ondergeschikte functie in dit gebied.</em></p>
 
 			<p><em>&nbsp;</em></p>
@@ -6052,7 +6052,7 @@ Categorie van gebiedsaanduiding 8. Lijninfrastructuur<br>
 
 			<p><em>&nbsp;</em></p>
 
-			<p><em>Met ‘technieken van natuurtechnische milieubouw’ wordt verwezen naar een geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het departement Leefmilieu, Natuur en Energie van de Vlaamse overheid: http://www.lne.be/themas/milieu-eninfrastructuur/vademecums-natuurtechniek. Op basis van onderzoek en ervaring worden deze Vademecums regelmatig geactualiseerd.</em></p>
+			<p><em>Met ‘technieken van natuurtechnische milieubouw’ wordt verwezen naar een geheel van technieken die gebruikt kunnen worden om bij de inrichting (en het beheer) van infrastructuurwerken (wegen, waterlopen) bestaande natuurwaarden zoveel als mogelijk te behouden of ze te ontwikkelen of te versterken, en meer algemeen om te komen tot "milieuvriendelijke" oplossingen voor ruimtelijke ingrepen. Een beschrijving van en toelichting bij dergelijke technieken is te vinden in de "Vademecums Natuurtechniek", die onder meer te raadplegen zijn op de website van het&nbsp;Departement Omgeving. Op basis van onderzoek en ervaring worden deze Vademecums regelmatig geactualiseerd.</em></p>
 			</td>
 		</tr>
 	</tbody>
