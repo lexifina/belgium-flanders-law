@@ -2,16 +2,16 @@
   "codex_id": 1002781,
   "title": "Besluit van de Vlaamse Regering van 1985-03-27 [houdende nadere regelen voor de afbakening van waterwingebieden en de beschermingszones]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002781/VolledigDocument?datum=2011-10-01",
-  "source_sha256": "50b94e304f208e688f3b5947bf6c6de01b1a12a7c4c46f617388f90ea3f66561",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002781/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "9df27cac266a1ce14074278621f56c8d66a1cd9bfb68fdc873559628d7340fb2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002781&param=informatie",
-  "as_of": "2011-10-01",
+  "as_of": "2017-04-01",
   "made": "1985-03-27",
   "gazette": "1985-07-20",
   "numac": 1985024440,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-10-01",
+  "in_force": "2017-04-01",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2011-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
