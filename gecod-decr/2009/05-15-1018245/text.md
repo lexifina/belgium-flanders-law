@@ -870,7 +870,22 @@ e) de eigendom, of ten minste de blote eigendom, op de hoofd- en de ondergeschik
 
 ### ART. 4.2.1.
 
-Niemand mag zonder voorafgaande omgevingsvergunning voor stedenbouwkundige   handelingen:<BR>1° de hiernavolgende bouwwerken verrichten, met uitzondering van   onderhoudswerken :<BR>a) het optrekken of plaatsen van een constructie,<BR>b)   het functioneel samenbrengen van materialen waardoor een constructie   ontstaat,<BR>c) het afbreken, herbouwen, verbouwen en uitbreiden van een   constructie;<BR>2° met bomen begroeide oppervlakten, vermeld in artikel 3, § 1   en § 2, van het bosdecreet van 13 juni 1990 ontbossen, zoals vermeld in artikel   4, 15°, van dat decreet;<BR>3° bomen die op een hoogte van één meter boven het   maaiveld een stamomtrek van één meter hebben, en geen deel uitmaken van de   oppervlakten, vermeld in 2°, vellen;<BR>4° het reliëf van de bodem aanmerkelijk   wijzigen, onder meer door de bodem aan te vullen, op te hogen, uit te graven of   uit te diepen waarbij de aard of de functie van het terrein wijzigt;<BR>5° een   grond gewoonlijk gebruiken, aanleggen of inrichten voor :<BR>a) het opslaan van   gebruikte of afgedankte voertuigen, of van allerlei materialen, materieel of   afval,<BR>b) het parkeren van voertuigen, wagens of aanhangwagens,<BR>c) het   plaatsen van één of meer verplaatsbare constructies die voor bewoning kunnen   worden gebruikt, in het bijzonder woonwagens, kampeerwagens, afgedankte   voertuigen en tenten, met uitzondering van het kamperen op een vergund of van   vergunning vrijgesteld openluchtrecreatief terrein in de zin van de decreet van   10 juli 2008 betreffende het toeristische logies;<BR>6° de hoofdfunctie van een   bebouwd onroerend goed geheel of gedeeltelijk wijzigen, indien de Vlaamse   Regering deze functiewijziging als vergunningsplichtig heeft aangemerkt;<BR>7°   een woning opsplitsen of in een gebouw het aantal woongelegenheden die   hoofdzakelijk bestemd zijn voor de huisvesting van een gezin of een   alleenstaande wijzigen, ongeacht of het gaat om een eengezinswoning, een   etagewoning, een flatgebouw, een studio of een al dan niet gemeubileerde   kamer;<BR>8° recreatieve terreinen aanleggen of wijzigen, onder meer een   golfterrein, een voetbalterrein, een tennisveld of een   zwembad.<BR><BR>
+Niemand mag zonder voorafgaande&nbsp;omgevingsvergunning voor stedenbouwkundige handelingen :<br>
+1° de hiernavolgende bouwwerken verrichten, met uitzondering van onderhoudswerken :<br>
+a) het optrekken of plaatsen van een constructie,<br>
+b) het functioneel samenbrengen van materialen waardoor een constructie ontstaat,<br>
+c) het afbreken, herbouwen, verbouwen en uitbreiden van een constructie;<br>
+2° met bomen begroeide oppervlakten, vermeld in artikel 3, § 1 en § 2, van het bosdecreet van 13 juni 1990 ontbossen, zoals vermeld in artikel 4, 15°, van dat decreet;<br>
+3° bomen die op een hoogte van één meter boven het maaiveld een stamomtrek van één meter hebben, en geen deel uitmaken van de oppervlakten, vermeld in 2°, vellen;<br>
+4° het reliëf van de bodem aanmerkelijk wijzigen, onder meer door de bodem aan te vullen, op te hogen, uit te graven of uit te diepen waarbij de aard of de functie van het terrein wijzigt;<br>
+5° een grond gewoonlijk gebruiken, aanleggen of inrichten voor :<br>
+a) het opslaan van gebruikte of afgedankte voertuigen, of van allerlei materialen, materieel of afval,<br>
+b) het parkeren van voertuigen, wagens of aanhangwagens,<br>
+c) het plaatsen van één of meer verplaatsbare constructies die voor bewoning kunnen worden gebruikt, in het bijzonder woonwagens, kampeerwagens, afgedankte voertuigen en tenten, met uitzondering van het kamperen op een toeristisch logies dat voldoet aan de voorwaarden, vermeld in artikel 4 van het decreet van 5 februari 2016 betreffende het toeristische logies;<br>
+6° de hoofdfunctie van een bebouwd onroerend goed geheel of gedeeltelijk wijzigen, indien de Vlaamse Regering deze functiewijziging als vergunningsplichtig heeft aangemerkt;<br>
+7° een woning opsplitsen of in een gebouw het aantal woongelegenheden die hoofdzakelijk bestemd zijn voor de huisvesting van een gezin of een alleenstaande wijzigen, ongeacht of het gaat om een eengezinswoning, een etagewoning, een flatgebouw, een studio of een al dan niet gemeubileerde kamer;<br>
+8° recreatieve terreinen aanleggen of wijzigen, onder meer een golfterrein, een voetbalterrein, een tennisveld of een zwembad.<br>
+&nbsp;
 
 ## Sectie 2 Afwijkingen van de vergunningsplicht
 
