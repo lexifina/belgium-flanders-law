@@ -23,7 +23,10 @@ Besluit :<br>
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° het Rubiconfonds : Vlaamse openbare instelling opgericht bij decreet van 27 juni 2003 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2003; <br />2° de Vlaamse minister : het lid van de Vlaamse Regering bevoegd voor Ruimtelijke Ordening;<br />3° de leidend ambtenaar : de leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed.<br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° het Rubiconfonds : Vlaamse openbare instelling opgericht bij decreet van 27 juni 2003 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2003;<br>
+2° de Vlaamse minister : het lid van de Vlaamse Regering bevoegd voor Ruimtelijke Ordening;<br>
+3° de leidend ambtenaar : de leidend ambtenaar van het Departement Omgeving.
 
 ## HOOFDSTUK II Organisatie en structuur
 
