@@ -4,13 +4,31 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° DAC-projecten: de   dac-projecten, die voorkomen in de lijst als bijlagen III;<BR>2°   arbeidsplaatsen: de voormalige DAC-arbeidssplaatsen;<BR>3° Polders: de openbare   besturen geregeld bij de wet van 3 juni 1957 betreffende de polders<BR>4°   Wateringen: de openbare besturen geregeld bij de wet van 5 juli 1956 betreffende   de wateringen.<BR>5° sectoren: de groep van Vlaamse milieu- en   natuurverenigingen die onder het beleidsdomein leefmilieu vallen en de groep van   polders en wateringen, zoals omschreven in 3° en 4° van dit artikel, die onder   het beleidsdomein leefmilieu vallen;<BR>6° initiatiefnemer: de organisatie die   deel uitmaakt van één van de sectoren en die verantwoordelijk is voor één of   meerdere voormalige dac-tewerkstellingsplaatsen;<BR>7° ...<BR>7°bis de VMM voor   wat betreft de sector polders en wateringen : de Vlaamse   Milieumaatschappij;<BR>8° werknemer: de werknemer, tewerkgesteld in het kader   van een voormalig DAC-project;<BR>9° vervanger: de werknemer die een werknemer,   tewerkgesteld in het kader van een voormalig dac-project, vervangt wanneer de   arbeidsovereenkomst van deze laatste werknemer geschorst wordt en wanneer er   geen gewaarborgd loon uitbetaald wordt aan hem;<BR>10° opvolger: de werknemer   die een werknemer, tewerkgesteld in het kader van een voormalig DAC-project,   vervangt wanneer de arbeidsovereenkomst van deze laatste werknemer beëindigd   is;<BR>11° loonkosten: de som van de reële jaarlijkse kosten van het bruto   maandloon volgens de barema's waarbij de anciënniteit vóór 1987 niet in   aanmerking genomen wordt, de eindejaarspremie, het wettelijk dubbel en   enkelvoudig vakantiegeld, de wettelijke vakantiegelden bij uitdiensttreding,   RSZ-bijdragen met inbegrip van de RSZ-kortingen, de tussenkomst in de   verplaatsing van en naar het werk begrensd tot de algemeen wettelijk voorziene   regelingen, de wettelijke bijdrage voor de dienst voor preventie en bescherming   van het werk, en de premie arbeidsongevallenverzekering, opgenomen als bijlagen   I en II van dit besluit;<BR>12° maandloon: het maandelijkse salaris dat de   werknemer ontvangt, zonder premies, toeslagen of extra-legale voordelen.<BR>13°   minister: het lid van de Vlaamse Regering, bevoegd voor   Leefmilieu.
+In dit besluit wordt verstaan onder:<br>
+1° DAC-projecten: de dac-projecten, die voorkomen in de lijst als bijlagen III;<br>
+2° arbeidsplaatsen: de voormalige DAC-arbeidssplaatsen;<br>
+3° Polders: de openbare besturen geregeld bij de wet van 3 juni 1957 betreffende de polders<br>
+4° Wateringen: de openbare besturen geregeld bij de wet van 5 juli 1956 betreffende de wateringen.<br>
+5° sectoren: de groep van Vlaamse milieu- en natuurverenigingen die onder het beleidsdomein Omgeving vallen en de groep van polders en wateringen, zoals omschreven in 3° en 4° van dit artikel, die onder het beleidsdomein&nbsp;Omgeving vallen;<br>
+6° initiatiefnemer: de organisatie die deel uitmaakt van één van de sectoren en die verantwoordelijk is voor één of meerdere voormalige dac-tewerkstellingsplaatsen;<br>
+7° ...<br>
+7°bis de VMM voor wat betreft de sector polders en wateringen : de Vlaamse Milieumaatschappij;<br>
+8° werknemer: de werknemer, tewerkgesteld in het kader van een voormalig DAC-project;<br>
+9° vervanger: de werknemer die een werknemer, tewerkgesteld in het kader van een voormalig dac-project, vervangt wanneer de arbeidsovereenkomst van deze laatste werknemer geschorst wordt en wanneer er geen gewaarborgd loon uitbetaald wordt aan hem;<br>
+10° opvolger: de werknemer die een werknemer, tewerkgesteld in het kader van een voormalig DAC-project, vervangt wanneer de arbeidsovereenkomst van deze laatste werknemer beëindigd is;<br>
+11° loonkosten: de som van de reële jaarlijkse kosten van het bruto maandloon volgens de barema's waarbij de anciënniteit vóór 1987 niet in aanmerking genomen wordt, de eindejaarspremie, het wettelijk dubbel en enkelvoudig vakantiegeld, de wettelijke vakantiegelden bij uitdiensttreding, RSZ-bijdragen met inbegrip van de RSZ-kortingen, de tussenkomst in de verplaatsing van en naar het werk begrensd tot de algemeen wettelijk voorziene regelingen, de wettelijke bijdrage voor de dienst voor preventie en bescherming van het werk, en de premie arbeidsongevallenverzekering, opgenomen als bijlagen I en II van dit besluit;<br>
+12° maandloon: het maandelijkse salaris dat de werknemer ontvangt, zonder premies, toeslagen of extra-legale voordelen.<br>
+13° minister: het lid van de Vlaamse Regering, bevoegd voor Leefmilieu.
 
 ## HOOFDSTUK II SUBSIDIËRING VAN DE VOORMALIGE DAC-PROJECTEN
 
 ### ART. 2.
 
-§ 1. Binnen de perken van de begrotingskredieten kunnen subsidies worden   toegekend aan de initiatiefnemers door :<BR>1° het hoofd van de Vlaamse   Milieumaatschappij wat betreft de subsidies aan de groep polders en wateringen   die onder het beleidsdomein Leefmilieu vallen;<BR>2° het hoofd van het   Departement Leefmilieu, Natuur en Energie voor de groep van Vlaamse milieu- en   natuurverenigingen die onder het beleidsdomein Leefmilieu vallen. <BR><BR>§ 2.   De subsidies voor de dac-projecten worden omgezet naar reguliere subsidies als   tegemoetkoming in de loonkosten van de werknemer.
+§ 1. Binnen de perken van de begrotingskredieten kunnen subsidies worden toegekend aan de initiatiefnemers door:<br>
+1° het hoofd van de Vlaamse Milieumaatschappij wat betreft de subsidies aan de groep polders en wateringen die onder het beleidsdomein Omgeving vallen;<br>
+2° het hoofd van het Departement Omgeving voor de groep van Vlaamse milieu- en natuurverenigingen die onder het beleidsdomein Omgeving vallen.<br>
+<br>
+§ 2. De subsidies voor de dac-projecten worden omgezet naar reguliere subsidies als tegemoetkoming in de loonkosten van de werknemer.
 
 ### ART. 3.
 
@@ -24,11 +42,19 @@ Het eerste semester wordt, voor 31 maart, een voorschot uitgekeerd van 70   % va
 
 ### ART. 5.
 
-Voor 31 mei van het jaar dat volgt op het jaar dat in aanmerking genomen   wordt voor de subsidiëring, bezorgt de initiatiefnemer aan de VMM voor wat   betreft de sector polders en wateringen ofwel aan het Departement Leefmilieu,   Natuur en Energie, voor wat betreft de sector milieu- en natuurverenigingen de   bewijsvoering van de effectieve tewerkstelling van de personeelsleden,   tewerkgesteld in een voormalig DAC-project en een overzicht van de reëel   betaalde loonkosten.<BR><BR>De minister bepaalt de vorm en inhoud van deze   bewijsvoering.
+Voor 31 mei van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring, bezorgt de initiatiefnemer aan de VMM voor wat betreft de sector polders en wateringen ofwel aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen de bewijsvoering van de effectieve tewerkstelling van de personeelsleden, tewerkgesteld in een voormalig DAC-project en een overzicht van de reëel betaalde loonkosten.<br>
+<br>
+De minister bepaalt de vorm en inhoud van deze bewijsvoering.
 
 ### ART. 6.
 
-<P>§ 1. Het definitieve subsidiebedrag wordt berekend, toegekend en gesaldeerd   na goedkeuring door de VMM voor wat betreft de sector polders en wateringen   ofwel aan het Departement Leefmilieu, Natuur en Energie, voor wat betreft de   sector milieu- en natuurverenigingen van de in artikel 5 vermelde   bewijsvoering.<BR><BR>§ 2. Als zou blijken dat een initiatiefnemer meer   voorschotten heeft ontvangen dan het definitieve subsidiebedrag, dan wordt het   verschil door de VMM voor wat betreft de sector polders en wateringen ofwel aan   het Departement Leefmilieu, Natuur en Energie, voor wat betreft de sector   milieu- en natuurverenigingen teruggevorderd en/of in mindering gebracht van het   eerstvolgende voorschot.<BR><BR>§ 3. De initiatiefnemer wordt voor het einde van   de maand augustus van het jaar dat volgt op het jaar waarop de subsidie   betrekking heeft, op de hoogte gebracht van de berekening van het definitieve   subsidiebedrag en het uit te betalen of terug te vorderen saldo. </P>  <P>§ 4. Het verschil van het definitieve subsidiebedrag en de voorschotten van   het jaar waarop het subsidiebedrag berekend wordt, wordt uitbetaald bij het   voorschot voor het tweede semester van het jaar. Als dat verschil negatief is,   wordt het verrekend bij hetzelfde voorschot.</P>
+<p>§ 1. Het definitieve subsidiebedrag wordt berekend, toegekend en gesaldeerd na goedkeuring door de VMM voor wat betreft de sector polders en wateringen ofwel aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen van de in artikel 5 vermelde bewijsvoering.<br>
+<br>
+§ 2. Als zou blijken dat een initiatiefnemer meer voorschotten heeft ontvangen dan het definitieve subsidiebedrag, dan wordt het verschil door de VMM voor wat betreft de sector polders en wateringen ofwel aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen teruggevorderd en/of in mindering gebracht van het eerstvolgende voorschot.<br>
+<br>
+§ 3. De initiatiefnemer wordt voor het einde van de maand augustus van het jaar dat volgt op het jaar waarop de subsidie betrekking heeft, op de hoogte gebracht van de berekening van het definitieve subsidiebedrag en het uit te betalen of terug te vorderen saldo.</p>
+
+<p>§ 4. Het verschil van het definitieve subsidiebedrag en de voorschotten van het jaar waarop het subsidiebedrag berekend wordt, wordt uitbetaald bij het voorschot voor het tweede semester van het jaar. Als dat verschil negatief is, wordt het verrekend bij hetzelfde voorschot.</p>
 
 ### ART. 7.
 
@@ -36,7 +62,11 @@ Voor 31 mei van het jaar dat volgt op het jaar dat in aanmerking genomen   wordt
 
 ### ART. 8.
 
-§ 1. Wanneer de arbeidsovereenkomst met een werknemer wordt beëindigd, dan   wordt de opvolger in deze functie gesubsidieerd indien de indiensttreding   plaatsvindt binnen de eerste zes maanden, volgend op het einde van de   arbeidsovereenkomst. Op gemotiveerde aanvraag van de initiatiefnemer kan de VMM   voor wat betreft de sector polders en wateringen ofwel aan het Departement   Leefmilieu, Natuur en Energie, voor wat betreft de sector milieu- en   natuurverenigingen een verlenging toestaan van deze periode met maximaal 3   maanden.<BR><BR>§ 2. Het subsidiebedrag wordt berekend conform de bepalingen van   artikel 3. De maximale loonanciënniteit van de opvolger is beperkt tot 6 jaar,   gebaseerd op effectieve en relevante ervaring.<BR><BR>§ 3. De initiatiefnemer   moet de VMM voor wat betreft de sector polders en wateringen ofwel aan het   Departement Leefmilieu, Natuur en Energie, voor wat betreft de sector milieu- en   natuurverenigingen onmiddellijk op de hoogte brengen van elke beëindiging van   een arbeidsovereenkomst en van elke nieuwe tewerkstelling.
+§ 1. Wanneer de arbeidsovereenkomst met een werknemer wordt beëindigd, dan wordt de opvolger in deze functie gesubsidieerd indien de indiensttreding plaatsvindt binnen de eerste zes maanden, volgend op het einde van de arbeidsovereenkomst. Op gemotiveerde aanvraag van de initiatiefnemer kan de VMM voor wat betreft de sector polders en wateringen ofwel aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen een verlenging toestaan van deze periode met maximaal 3 maanden.<br>
+<br>
+§ 2. Het subsidiebedrag wordt berekend conform de bepalingen van artikel 3. De maximale loonanciënniteit van de opvolger is beperkt tot 6 jaar, gebaseerd op effectieve en relevante ervaring.<br>
+<br>
+§ 3. De initiatiefnemer moet de VMM voor wat betreft de sector polders en wateringen ofwel aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen onmiddellijk op de hoogte brengen van elke beëindiging van een arbeidsovereenkomst en van elke nieuwe tewerkstelling.
 
 ### ART. 9.
 
@@ -44,7 +74,11 @@ Voor 31 mei van het jaar dat volgt op het jaar dat in aanmerking genomen   wordt
 
 ### ART. 10.
 
-§ 1. Wanneer een werkgever of de afdeling waar de werknemer in gewezen   dac-statuut werkzaam is, ophoudt te bestaan moet hij dit onmiddellijk melden aan   de VMM voor wat betreft de sector polders en wateringen ofwel aan het   Departement Leefmilieu, Natuur en Energie, voor wat betreft de sector milieu- en   natuurverenigingen. Hij kan voorstellen om het project, samen met de werknemer   in gewezen dac-statuut, over te dragen aan een andere organisatie. De overdracht   kan enkel binnen de sector plaatsvinden. Ook niet-initiatiefnemers binnen de   sector kunnen het project overnemen. Het gemotiveerde over-drachtsvoorstel, dat   mede ondertekend wordt door de kandidaat-overnemer, wordt door de werkgever ter   goedkeuring voorgelegd aan de VMM voor wat betreft de sector polders en   wateringen ofwel de afdeling, bevoegd voor milieu-integratie en -subsidiëringen,   voor wat betreft de sector milieu- en natuurverenigingen. Iedere sluiting van   een afdeling of organisatie waar een werknemer in gewezen DAC-statuut werkzaam   is, moet de werkgever onmiddellijk melden aan de VMM voor wat betreft de sector   polders en wateringen ofwel de afdeling, bevoegd voor milieu-integratie en   -subsidiëringen, voor wat betreft de sector milieu- en   natuurverenigingen.<BR><BR>§ 2. De werkgever kan een vraag tot wijziging van de   functie-inhoud van een arbeidsplaats indienen bij de VMM voor wat betreft de   sector polders en wateringen ofwel aan het Departement Leefmilieu, Natuur en   Energie, voor wat betreft de sector milieu- en natuurverenigingen. De minister   bepaalt de voorwaarden tot goedkeuring van de vraag tot wijziging en de   modaliteiten voor het onderzoek ervan.<BR><BR>§ 3. De minister kan bijkomende   bepalingen vastleggen, waaraan het voorstel dient te voldoen.
+§ 1. Wanneer een werkgever of de afdeling waar de werknemer in gewezen dac-statuut werkzaam is, ophoudt te bestaan moet hij dit onmiddellijk melden aan de VMM voor wat betreft de sector polders en wateringen ofwel aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen. Hij kan voorstellen om het project, samen met de werknemer in gewezen dac-statuut, over te dragen aan een andere organisatie. De overdracht kan enkel binnen de sector plaatsvinden. Ook niet-initiatiefnemers binnen de sector kunnen het project overnemen. Het gemotiveerde over-drachtsvoorstel, dat mede ondertekend wordt door de kandidaat-overnemer, wordt door de werkgever ter goedkeuring voorgelegd aan de VMM voor wat betreft de sector polders en wateringen ofwel de afdeling, bevoegd voor milieu-integratie en -subsidiëringen, voor wat betreft de sector milieu- en natuurverenigingen. Iedere sluiting van een afdeling of organisatie waar een werknemer in gewezen DAC-statuut werkzaam is, moet de werkgever onmiddellijk melden aan de VMM voor wat betreft de sector polders en wateringen ofwel&nbsp;het Departement Omgeving&nbsp;voor wat betreft de sector milieu- en natuurverenigingen.<br>
+<br>
+§ 2. De werkgever kan een vraag tot wijziging van de functie-inhoud van een arbeidsplaats indienen bij de VMM voor wat betreft de sector polders en wateringen ofwel aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen. De minister bepaalt de voorwaarden tot goedkeuring van de vraag tot wijziging en de modaliteiten voor het onderzoek ervan.<br>
+<br>
+§ 3. De minister kan bijkomende bepalingen vastleggen, waaraan het voorstel dient te voldoen.
 
 ### ART. 11.
 
@@ -54,11 +88,32 @@ Bij een fusie, in gelijk welke vorm, van de initiatiefnemer met een of meerdere 
 
 ### ART. 12.
 
-De VMM voor wat betreft de sector polders en wateringen ofwel aan het   Departement Leefmilieu, Natuur en Energie , voor wat betreft de sector milieu-   en natuurverenigingen oefent ter plaatse of op stukken toezicht uit met   betrekking tot de naleving van de bepalingen van dit besluit. Dit toezicht   brengt het recht mee om de initiatiefnemer te bezoeken en om kennis te nemen van   alle stukken en bescheiden die met de uitvoering van dit toezicht verband   houden.<BR><BR>De initiatiefnemer verleent zijn volle medewerking aan de   uitoefening van dit toezicht. Hij bezorgt de de VMM voor wat betreft de sector   polders en wateringen ofwel aan het Departement Leefmilieu, Natuur en Energie,   voor wat betreft de sector milieu- en natuurverenigingen, op eenvoudig verzoek,   de stukken die met de uitoefening van dit toezicht verband houden.
+De VMM voor wat betreft de sector polders en wateringen ofwel aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen oefent ter plaatse of op stukken toezicht uit met betrekking tot de naleving van de bepalingen van dit besluit. Dit toezicht brengt het recht mee om de initiatiefnemer te bezoeken en om kennis te nemen van alle stukken en bescheiden die met de uitvoering van dit toezicht verband houden.<br>
+<br>
+De initiatiefnemer verleent zijn volle medewerking aan de uitoefening van dit toezicht. Hij bezorgt de de VMM voor wat betreft de sector polders en wateringen ofwel aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen, op eenvoudig verzoek, de stukken die met de uitoefening van dit toezicht verband houden.
 
 ### ART. 13.
 
-§ 1. De vereffening van de subsidies wordt geheel of gedeeltelijk   stopgezet overeenkomstig artikel 13 van de wet van 16 mei 2003 tot vaststelling   van de algemene bepalingen die gelden voor de begrotingen, de controle op de   subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook   voor de organisatie van de controle door het Rekenhof als de initiatiefnemer   :<BR>1° de voorwaarden niet naleeft, waaronder de subsidie werd verleend;<BR>2°   de subsidie niet aanwendt voor de doeleinden, waarvoor zij werd verleend of   dubbelsubsidiëring wordt vastgesteld;<BR>3° niet meewerkt aan de uitoefening van   het toezicht, vermeld in artikel 12.<BR><BR>De reeds vereffende subsidies worden   geheel of gedeeltelijk teruggevorderd. Daarvoor kan aan de initiatiefnemer een   termijn worden toegestaan.<BR><BR>Over de gehele of gedeeltelijke stopzetting   van de vereffening van de subsidies, het geheel of gedeeltelijk terugvorderen   van reeds vereffende subsidies en het toestaan van een terugbetalingstermijn   wordt beslist door :<BR>1° het hoofd van de Vlaamse Milieumaatschappij wat   betreft de subsidies aan de groep polders en wateringen die onder het   beleidsdomein Leefmilieu vallen;<BR>2° het hoofd van het Departement Leefmilieu,   Natuur en Energie voor de groep van Vlaamse milieu- en natuurverenigingen die   onder het beleidsdomein Leefmilieu vallen.<BR><BR>Het voornemen tot stopzetting   van de subsidiëring of tot terugvordering van subsidies wordt aan de   initiatiefnemer verzonden met een aangetekende brief, waarin de mogelijkheden en   de voorwaarden om een bezwaarschrift in te dienen worden vermeld.<BR><BR>§ 2. Op   straffe van onontvankelijkheid kan de initiatiefnemer tot uiterlijk 45 dagen na   de ontvangst van het voornemen tot stopzetting van de subsidiëring of tot   terugvordering van subsidies daartegen met een aangetekende brief een   gemotiveerd bezwaarschrift indienen bij de minister. De initiatiefnemer kan   daarin uitdrukkelijk vragen om te worden gehoord.<BR><BR>In voorkomend geval   moet de beslissing worden bevestigd of ingetrokken binnen zestig dagen na de   ontvangst van het bezwaarschrift.<BR><BR>Als de initiatiefnemer geen   bezwaarschrift heeft ingediend binnen de gestelde termijn of als de beslissing   waartegen een bezwaarschrift is ingediend, werd bevestigd, wordt de subsidiëring   geheel of gedeeltelijk stopgezet of worden de reeds uitbetaalde subsidies geheel   of gedeeltelijk teruggevorderd.<BR><BR>Als de beslissing wordt ingetrokken of   als de beslissing binnen de gestelde termijn niet wordt bevestigd, wordt de   subsidiëring voortgezet of blijven de reeds uitbetaalde subsidies   behouden.
+§ 1. De vereffening van de subsidies wordt geheel of gedeeltelijk stopgezet overeenkomstig artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof als de initiatiefnemer :<br>
+1° de voorwaarden niet naleeft, waaronder de subsidie werd verleend;<br>
+2° de subsidie niet aanwendt voor de doeleinden, waarvoor zij werd verleend of dubbelsubsidiëring wordt vastgesteld;<br>
+3° niet meewerkt aan de uitoefening van het toezicht, vermeld in artikel 12.<br>
+<br>
+De reeds vereffende subsidies worden geheel of gedeeltelijk teruggevorderd. Daarvoor kan aan de initiatiefnemer een termijn worden toegestaan.<br>
+<br>
+Over de gehele of gedeeltelijke stopzetting van de vereffening van de subsidies, het geheel of gedeeltelijk terugvorderen van reeds vereffende subsidies en het toestaan van een terugbetalingstermijn wordt beslist door :<br>
+1° het hoofd van de Vlaamse Milieumaatschappij wat betreft de subsidies aan de groep polders en wateringen die onder het beleidsdomein Omgeving vallen;<br>
+2° het hoofd van het Departement Omgeving voor de groep van Vlaamse milieu- en natuurverenigingen die onder het beleidsdomein Omgeving vallen.<br>
+<br>
+Het voornemen tot stopzetting van de subsidiëring of tot terugvordering van subsidies wordt aan de initiatiefnemer verzonden met een aangetekende brief, waarin de mogelijkheden en de voorwaarden om een bezwaarschrift in te dienen worden vermeld.<br>
+<br>
+§ 2. Op straffe van onontvankelijkheid kan de initiatiefnemer tot uiterlijk 45 dagen na de ontvangst van het voornemen tot stopzetting van de subsidiëring of tot terugvordering van subsidies daartegen met een aangetekende brief een gemotiveerd bezwaarschrift indienen bij de minister. De initiatiefnemer kan daarin uitdrukkelijk vragen om te worden gehoord.<br>
+<br>
+In voorkomend geval moet de beslissing worden bevestigd of ingetrokken binnen zestig dagen na de ontvangst van het bezwaarschrift.<br>
+<br>
+Als de initiatiefnemer geen bezwaarschrift heeft ingediend binnen de gestelde termijn of als de beslissing waartegen een bezwaarschrift is ingediend, werd bevestigd, wordt de subsidiëring geheel of gedeeltelijk stopgezet of worden de reeds uitbetaalde subsidies geheel of gedeeltelijk teruggevorderd.<br>
+<br>
+Als de beslissing wordt ingetrokken of als de beslissing binnen de gestelde termijn niet wordt bevestigd, wordt de subsidiëring voortgezet of blijven de reeds uitbetaalde subsidies behouden.
 
 ## HOOFDSTUK V OVERGANG- EN SLOTBEPALINGEN
 
@@ -68,7 +123,7 @@ In afwijking van artikel 3 wordt voor het jaar 2004, het voorschot verminderd me
 
 ### ART. 15.
 
-De initiatiefnemer moet de VMM voor wat betreft de sector polders en   wateringen ofwel aan het Departement Leefmilieu, Natuur en Energie, voor wat   betreft de sector milieu- en natuurverenigingen onmiddellijk op de hoogte   brengen, bij elke belangrijke wijziging in de arbeidsrelatie met de   gesubsidieerde werknemer. Onder belangrijke wijzigingen worden onder meer   verstaan: wijziging van de arbeidsduur, de beëindiging van de   arbeidsovereenkomst en alle schorsingsgevallen zonder   loonwaarborg.
+De initiatiefnemer moet de VMM voor wat betreft de sector polders en wateringen ofwel aan het Departement Omgeving, voor wat betreft de sector milieu- en natuurverenigingen onmiddellijk op de hoogte brengen, bij elke belangrijke wijziging in de arbeidsrelatie met de gesubsidieerde werknemer. Onder belangrijke wijzigingen worden onder meer verstaan: wijziging van de arbeidsduur, de beëindiging van de arbeidsovereenkomst en alle schorsingsgevallen zonder loonwaarborg.
 
 ### ART. 16.
 
