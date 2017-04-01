@@ -4,7 +4,30 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° minister:   de Vlaamse minister, bevoegd voor het natuurbehoud;<BR>2° decreet: het decreet   van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<BR>3°   het Agentschap : het Agentschap voor Natuur en Bos;<BR>4° belanghebbende:<BR>a)   voor de toepassing van het hoofdstuk IV van dit besluit: elke natuurlijke of   rechtspersoon die tengevolge van een vergunningsplichtige activiteit tot   wijziging van vegetatie en/of kleine landschapselementen rechtstreekse hinder   kan ondervinden, alsook elke rechtspersoon die zich de bescherming tot doel   heeft gesteld van de natuur die door deze hinder kan worden getroffen en erkend   zijn als regionale vereniging of optreden namens een streekvereniging conform   het decreet van 29 april 1991 tot instelling van een Milieu- en Natuurraad van   Vlaanderen en tot vaststelling van de algemene regelen inzake de erkenning en de   subsidiering van de milieu- en natuurverenigingen;<BR>b) voor de toepassing van   hoofdstuk V van dit besluit : de eigenaars, erfpachthouders, opstalhouders,   vruchtgebruikers en gebruikers;<BR>5° vroeger perceel : een perceel in zijn   toestand voor kavelruil; <BR>6° nieuw perceel : een perceel in zijn toestand na   kavelruil;<BR>7° projectcomité: het natuurinrichtingsprojectcomité, bepaald in   het artikel 20 van dit besluit;<BR>8° projectcommissie: de   natuurinrichtingsprojectcommissie bepaald in artikel 22 van dit besluit;<BR>9°   ...;<BR>10° natuurinrichtingsmaatregelen: de inrichtingswerkzaamheden nodig om   de doelstellingen van het natuurinrichtingsproject te realiseren, in het   bijzonder de maatregelen bepaald in artikel 47 van het decreet;<BR>11° de   afdeling, bevoegd voor land en bodembescherming van het Departement Leefmilieu,   Natuur en Energie : de afdeling Land en Bodembescherming, Ondergrond,   Natuurlijke Rijkdommen van het Departement Leefmilieu, Natuur en Energie, zoals   thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse   Regering van 10 oktober 2003 tot regeling van de delegatie van   beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse   ministeries; <BR>12° het Instituut : het Instituut voor Natuur- en   Bosonderzoek;<BR>13° cultuurgewas: een gewas dat verbouwd wordt voor economische   doeleinden inclusief braakgronden kaderend in het Europees Landbouwbeleid met   uitzondering van het historisch permanent grasland en van bossen conform het   bosdecreet;<BR>14° ...<BR>15° afdeling Milieu, bevoegd voor de   omgevingsvergunning : de afdeling bij het Departement Leefmilieu, Natuur en   Energie van de Vlaamse overheid die bevoegd is voor de   omgevingsvergunning;<BR>16° gebruiker : de persoon die als eigenaar,   vruchtgebruiker, erfpachter, opstalhouder of houder van een recht van gebruik of   bewoning het onroerend goed exploiteert of die het onroerend goed huurt   overeenkomstig Boek III, Titel VIII, Hoofdstuk II van het Burgerlijk Wetboek;   <BR>17° kavelruil : kavelruil uit kracht van wet, met inbegrip van   herverkaveling, overeenkomstig artikel 47, § 2, 1°, van het decreet;<BR>18°   natuurinrichtingsmaatregelen andere dan kavelruil : de maatregelen bedoeld in   artikel 47, § 2, 2°, 3°, 7°, 8°, en 11° van het decreet.<BR>19° de Vlaamse   Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het   decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en   houdende wijziging van diverse bepalingen.<BR>20° ...<BR>21° het agentschap,   bevoegd voor het onroerend erfgoed : het agentschap van het beleidsdomein   Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed dat belast is met het   uitvoeren van het beleid inzake onroerend erfgoed.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° minister: de Vlaamse minister, bevoegd voor het natuurbehoud;<br>
+2° decreet: het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+3° het Agentschap : het Agentschap voor Natuur en Bos;<br>
+4° belanghebbende:<br>
+a) voor de toepassing van het hoofdstuk IV van dit besluit: elke natuurlijke of rechtspersoon die tengevolge van een vergunningsplichtige activiteit tot wijziging van vegetatie en/of kleine landschapselementen rechtstreekse hinder kan ondervinden, alsook elke rechtspersoon die zich de bescherming tot doel heeft gesteld van de natuur die door deze hinder kan worden getroffen en erkend zijn als regionale vereniging of optreden namens een streekvereniging conform het decreet van 29 april 1991 tot instelling van een Milieu- en Natuurraad van Vlaanderen en tot vaststelling van de algemene regelen inzake de erkenning en de subsidiering van de milieu- en natuurverenigingen;<br>
+b) voor de toepassing van hoofdstuk V van dit besluit : de eigenaars, erfpachthouders, opstalhouders, vruchtgebruikers en gebruikers;<br>
+5° vroeger perceel : een perceel in zijn toestand voor kavelruil;<br>
+6° nieuw perceel : een perceel in zijn toestand na kavelruil;<br>
+7° projectcomité: het natuurinrichtingsprojectcomité, bepaald in het artikel 20 van dit besluit;<br>
+8° projectcommissie: de natuurinrichtingsprojectcommissie bepaald in artikel 22 van dit besluit;<br>
+9° ...;<br>
+10° natuurinrichtingsmaatregelen: de inrichtingswerkzaamheden nodig om de doelstellingen van het natuurinrichtingsproject te realiseren, in het bijzonder de maatregelen bepaald in artikel 47 van het decreet;<br>
+11° departement: het Departement Omgeving;<br>
+12° het Instituut : het Instituut voor Natuur- en Bosonderzoek;<br>
+13° cultuurgewas: een gewas dat verbouwd wordt voor economische doeleinden inclusief braakgronden kaderend in het Europees Landbouwbeleid met uitzondering van het historisch permanent grasland en van bossen conform het bosdecreet;<br>
+14° ...<br>
+15° ...<br>
+16° gebruiker : de persoon die als eigenaar, vruchtgebruiker, erfpachter, opstalhouder of houder van een recht van gebruik of bewoning het onroerend goed exploiteert of die het onroerend goed huurt overeenkomstig Boek III, Titel VIII, Hoofdstuk II van het Burgerlijk Wetboek;<br>
+17° kavelruil : kavelruil uit kracht van wet, met inbegrip van herverkaveling, overeenkomstig artikel 47, § 2, 1°, van het decreet;<br>
+18° natuurinrichtingsmaatregelen andere dan kavelruil : de maatregelen bedoeld in artikel 47, § 2, 2°, 3°, 7°, 8°, en 11° van het decreet.<br>
+19° de Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen.<br>
+20° ...<br>
+21° het agentschap, bevoegd voor het onroerend erfgoed : het agentschap van het beleidsdomein Omgeving dat belast is met het uitvoeren van het beleid inzake onroerend erfgoed.
 
 ## HOOFDSTUK II AFBAKENING VAN HET VEN EN HET IVON
 
@@ -14,7 +37,52 @@ Voor de procedure tot voorlopige vaststelling van het ontwerp van een   afbakeni
 
 ### ART. 3.
 
-§ 1. Voor de procedure tot definitieve vaststelling van een afbakeningsplan als bedoeld in de artikelen 21 en 30 van het decreet gelden de volgende nadere regels.<br /><br />Overeenkomstig het artikel 22 van het decreet wordt door het Agentschap over het voorlopig vastgestelde ontwerp van het afbakeningsplan het advies ingewonnen van:<br />1° de SERV;<br />2° de MINA-raad;<br />3° de bestendige deputatie(s);<br />4° de betrokken gemeenteraden;<br />5° de betrokken polders en/of wateringen;<br />6° de Raad;<br />7° het Instituut;<br />8° de volgende entiteiten en instellingen:<br />a) de afdeling, bevoegd voor land en bodembescherming van het Departement Leefmilieu, Natuur en Energie;<br />b) ...<br />c) de Vlaamse Milieumaatschappij;<br />d) het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br />e) het agentschap, bevoegd voor het onroerend erfgoed; <br />f) het departement Landbouw en Visserij;<br />g) de watervoorzieningsmaatschappij waarvan:<br />- ofwel, een waterwinning gelegen is binnen het voorlopig vastgestelde ontwerp van het afbakeningsplan;<br />- ofwel, de activiteit van een waterwinning een rechtstreekse hydrologische invloed heeft op gebieden binnen het voorlopig vastgestelde ontwerp van het afbakeningsplan;<br />h) ...<br /><br />Het definitief vastgestelde afbakeningsplan wordt in het Belgisch Staatsblad bekendgemaakt op schaal 1/25.000.<br /><br />§ 2. Voor de procedure tot definitieve vaststelling van een afbakeningsplan als bedoeld in artikel 23 van het decreet gelden de volgende nadere regels.<br /><br />Overeenkomstig artikel 23 van het decreet wordt door de Gouverneur van de betrokken provincies over het voorlopig vastgestelde ontwerp van het afbakeningsplan het advies ingewonnen van:<br />1° de SERV;<br />2° de MINA-raad;<br />3° de betrokken gemeenteraden;<br />4° de Raad;<br />5° ...<br />6° het Instituut;<br />7° de volgende entiteiten en instellingen:<br />a) de afdeling, bevoegd voor land en bodembescherming van het Departement Leefmilieu, Natuur en Energie.<br />b) ...<br />c) de Vlaamse Milieumaatschappij;<br />d) het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br />e) het agentschap, bevoegd voor het onroerend erfgoed; <br />f) het departement Landbouw en Visserij;<br />g) de watervoorzieningsmaatschappij waarvan:<br />- ofwel, een waterwinning gelegen is binnen het voorlopig vastgestelde ontwerp van het afbakeningsplan;<br />- ofwel, de activiteit van een waterwinning een rechtstreekse hydrologische invloed heeft op gebieden binnen het voorlopig vastgestelde ontwerp van het afbakeningsplan;<br />h) de Strategische Adviesraad voor Landbouw en Visserij.<br /><br />Het definitief vastgestelde afbakeningsplan wordt in het Belgisch Staatsblad bekendgemaakt op schaal 1/25.000.
+§ 1. Voor de procedure tot definitieve vaststelling van een afbakeningsplan als bedoeld in de artikelen 21 en 30 van het decreet gelden de volgende nadere regels.<br>
+<br>
+Overeenkomstig het artikel 22 van het decreet wordt door het Agentschap over het voorlopig vastgestelde ontwerp van het afbakeningsplan het advies ingewonnen van:<br>
+1° de SERV;<br>
+2° de MINA-raad;<br>
+3° de bestendige deputatie(s);<br>
+4° de betrokken gemeenteraden;<br>
+5° de betrokken polders en/of wateringen;<br>
+6° de Raad;<br>
+7° het Instituut;<br>
+8° de volgende entiteiten en instellingen:<br>
+a) het Departement Omgeving wat betreft de aspecten ruimtelijke ordening en bodembescherming;<br>
+b) ...<br>
+c) de Vlaamse Milieumaatschappij;<br>
+d) ...<br>
+e) het agentschap, bevoegd voor het onroerend erfgoed;<br>
+f) het departement Landbouw en Visserij;<br>
+g) de watervoorzieningsmaatschappij waarvan:<br>
+- ofwel, een waterwinning gelegen is binnen het voorlopig vastgestelde ontwerp van het afbakeningsplan;<br>
+- ofwel, de activiteit van een waterwinning een rechtstreekse hydrologische invloed heeft op gebieden binnen het voorlopig vastgestelde ontwerp van het afbakeningsplan;<br>
+h) ...<br>
+<br>
+Het definitief vastgestelde afbakeningsplan wordt in het Belgisch Staatsblad bekendgemaakt op schaal 1/25.000.<br>
+<br>
+§ 2. Voor de procedure tot definitieve vaststelling van een afbakeningsplan als bedoeld in artikel 23 van het decreet gelden de volgende nadere regels.<br>
+<br>
+Overeenkomstig artikel 23 van het decreet wordt door de Gouverneur van de betrokken provincies over het voorlopig vastgestelde ontwerp van het afbakeningsplan het advies ingewonnen van:<br>
+1° de SERV;<br>
+2° de MINA-raad;<br>
+3° de betrokken gemeenteraden;<br>
+4° de Raad;<br>
+5° ...<br>
+6° het Instituut;<br>
+7° de volgende entiteiten en instellingen:<br>
+a) het Departement Omgeving wat betreft de aspecten ruimtelijke ordening en bodembescherming;<br>
+b) ...<br>
+c) de Vlaamse Milieumaatschappij;<br>
+d) ...<br>
+e) het agentschap, bevoegd voor het onroerend erfgoed;<br>
+f) het departement Landbouw en Visserij;<br>
+g) de watervoorzieningsmaatschappij waarvan:<br>
+- ofwel, een waterwinning gelegen is binnen het voorlopig vastgestelde ontwerp van het afbakeningsplan;<br>
+- ofwel, de activiteit van een waterwinning een rechtstreekse hydrologische invloed heeft op gebieden binnen het voorlopig vastgestelde ontwerp van het afbakeningsplan;<br>
+h) de Strategische Adviesraad voor Landbouw en Visserij.<br>
+<br>
+Het definitief vastgestelde afbakeningsplan wordt in het Belgisch Staatsblad bekendgemaakt op schaal 1/25.000.
 
 ### ART. 4.
 
@@ -269,7 +337,25 @@ Als de vergoedingen voor andere natuurinrichtingsmaatregelen dan kavelruil perio
 
 ### ART. 39.
 
-§ 1. Het projectcomité start op grond van het projectuitvoeringsplan, of   op vraag van de eigenaar ingediend voor de definitieve vaststelling van het   projectuitvoeringsplan, een onderzoek naar bedrijfsverplaatsing.<BR><BR>§ 2. Het   projectcomité onderzoekt:<BR>1° de noodzaak om het bedrijf te verplaatsen   omwille van ecologische redenen;<BR>2° de noodzaak om het bedrijf te verplaatsen   omwille van socio-economische redenen;<BR>3° de mogelijkheid van tussenkomst van   het Vlaams Landbouwinvesteringsfonds voor de investeringen op de nieuwe   vestigingsplaats;<BR>4° de haalbaarheid van de bedrijfsverplaatsing op het vlak   van vergunningen en andere productierechten zoals een melkquotum of   nutriëntenemissierechten;<BR>5° de juridische problemen, de liquiditeit en de   solvabiliteit, en de inkomensverwachting van de eigenaar;<BR>6° de kostenraming   en raming van de financieringslasten ten laste van de begroting van het Vlaamse   Gewest.<BR><BR>Het projectcomité kan hiervoor een beroep doen op de   VLM.<BR><BR>§ 3. Het projectcomité vraagt het advies van:<BR>1° de gemachtigde   ambtenaar van stedenbouw;<BR>2° de afdeling Milieu, bevoegd voor de   omgevingsvergunning;<BR>3° de afdeling, bevoegd voor land en bodembescherming   van het Departement Leefmilieu, Natuur en Energie; <BR>4° het Departement   Landbouw en Visserij<BR>5° de afdeling Mestbank van de VLM;<BR>6° de afdeling   bodemsanering van de OVAM.
+§ 1. Het projectcomité start op grond van het projectuitvoeringsplan, of op vraag van de eigenaar ingediend voor de definitieve vaststelling van het projectuitvoeringsplan, een onderzoek naar bedrijfsverplaatsing.<br>
+<br>
+§ 2. Het projectcomité onderzoekt:<br>
+1° de noodzaak om het bedrijf te verplaatsen omwille van ecologische redenen;<br>
+2° de noodzaak om het bedrijf te verplaatsen omwille van socio-economische redenen;<br>
+3° de mogelijkheid van tussenkomst van het Vlaams Landbouwinvesteringsfonds voor de investeringen op de nieuwe vestigingsplaats;<br>
+4° de haalbaarheid van de bedrijfsverplaatsing op het vlak van vergunningen en andere productierechten zoals een melkquotum of nutriëntenemissierechten;<br>
+5° de juridische problemen, de liquiditeit en de solvabiliteit, en de inkomensverwachting van de eigenaar;<br>
+6° de kostenraming en raming van de financieringslasten ten laste van de begroting van het Vlaamse Gewest.<br>
+<br>
+Het projectcomité kan hiervoor een beroep doen op de VLM.<br>
+<br>
+§ 3. Het projectcomité vraagt het advies van:<br>
+1° ...<br>
+2° het Departement Omgeving wat betreft de aspecten ruimtelijke ordening, omgevingsvergunningenbeleid&nbsp;en bodembescherming;<br>
+3° ...;<br>
+4° het Departement Landbouw en Visserij<br>
+5° de afdeling Mestbank van de VLM;<br>
+6° de afdeling bodemsanering van de OVAM.
 
 ### ART. 40.
 
