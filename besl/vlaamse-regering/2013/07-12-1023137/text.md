@@ -44,7 +44,7 @@ Gelet op het advies van de Inspectie van Financiën, gegeven op 22 maart 2013;</
 ### ART. 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+1° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving;<br>
 2° bad : een lig- of zitbad, voorzien van koud- en warmwatertoevoer en aansluiting op het rioleringsnet;<br>
 3° beveiligde zending : een aangetekende brief of een afgifte tegen ontvangstbewijs;<br>
 4° decreet van 1 juni 2012 : het decreet van 1 juni 2012 houdende de beveiliging van woningen door optische rookmelders;<br>

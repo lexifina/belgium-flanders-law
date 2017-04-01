@@ -2,16 +2,16 @@
   "codex_id": 1023137,
   "title": "Besluit van de Vlaamse Regering van 2013-07-12 betreffende de kwaliteits- en veiligheidsnormen voor woningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023137/VolledigDocument?datum=2017-02-23",
-  "source_sha256": "661dff9e00fe0a265bcbdc0039bc834931e49f13c5a886feaf2b5ed5499f5bd7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023137/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "403ee0c09085df01546fafdd38fd80d70c27ecacdfb86aa4b876aa1e5c3bdfda",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023137&param=informatie",
-  "as_of": "2017-02-23",
+  "as_of": "2017-04-01",
   "made": "2013-07-12",
   "gazette": "2013-08-01",
   "numac": 2013035648,
   "document_start": "2013-08-11",
   "document_end": "2020-12-31",
-  "in_force": "2017-02-23",
+  "in_force": "2017-04-01",
   "article_versions": 51,
-  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
