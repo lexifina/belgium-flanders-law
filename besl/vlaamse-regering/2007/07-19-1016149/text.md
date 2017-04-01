@@ -10,7 +10,18 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° leidend ambtenaar : de leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />2° Brownfielddecreet : het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten;<br />3° derde-belanghebbende : een persoon die op grond van een in artikel 16, § 2, tweede lid, van het Brownfielddecreet vermeld persoonlijk of gebruiksrecht getroffen wordt door de vooropgestelde erfdienstbaarheid tot openbaar nut;<br />4° erfdienstbaarheid tot openbaar nut : een publiekrechtelijke erfdienstbaarheid die krachtens artikel 16, § 1, van het Brownfielddecreet gevestigd wordt op een dienstbaar erf, zoals bijvoorbeeld :<br />a) een bouwverbod;<br />b) een plicht om te gedogen dat graafwerken worden verricht om zoveel aarde, zand, steen en ander materiaal boven te halen als nodig is voor het aanleggen van voor het Brownfieldproject nodige infrastructuur;<br />c) een plicht om te gedogen dat installaties worden opgericht, onder, op of boven het dienstbaar erf;<br />5° minister : de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br />6° ontwerpbeslissing : een in artikel 16, § 2, van het Brownfielddecreet vermeld voornemen van besluit;<br />7° secretaris : de ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed die door de leidend ambtenaar belast wordt met de in dit besluit omschreven administratieve taken;<br />8° zakelijk gerechtigde : een in artikel 16, § 2, eerste lid, van het Brownfielddecreet, vermelde persoon die getroffen wordt door de vooropgestelde erfdienstbaarheid tot openbaar nut.<br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° leidend ambtenaar : de leidend ambtenaar van het Departement Omgeving;<br>
+2° Brownfielddecreet : het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten;<br>
+3° derde-belanghebbende : een persoon die op grond van een in artikel 16, § 2, tweede lid, van het Brownfielddecreet vermeld persoonlijk of gebruiksrecht getroffen wordt door de vooropgestelde erfdienstbaarheid tot openbaar nut;<br>
+4° erfdienstbaarheid tot openbaar nut : een publiekrechtelijke erfdienstbaarheid die krachtens artikel 16, § 1, van het Brownfielddecreet gevestigd wordt op een dienstbaar erf, zoals bijvoorbeeld :<br>
+a) een bouwverbod;<br>
+b) een plicht om te gedogen dat graafwerken worden verricht om zoveel aarde, zand, steen en ander materiaal boven te halen als nodig is voor het aanleggen van voor het Brownfieldproject nodige infrastructuur;<br>
+c) een plicht om te gedogen dat installaties worden opgericht, onder, op of boven het dienstbaar erf;<br>
+5° minister : de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br>
+6° ontwerpbeslissing : een in artikel 16, § 2, van het Brownfielddecreet vermeld voornemen van besluit;<br>
+7° secretaris : de ambtenaar van het Departement Omgeving die door de leidend ambtenaar belast wordt met de in dit besluit omschreven administratieve taken;<br>
+8° zakelijk gerechtigde : een in artikel 16, § 2, eerste lid, van het Brownfielddecreet, vermelde persoon die getroffen wordt door de vooropgestelde erfdienstbaarheid tot openbaar nut.
 
 ## Afdeling 2. Bijstand of vertegenwoordiging door een raadsman
 
@@ -102,11 +113,13 @@ De hoorzitting is openbaar, behoudens indien de indiener van het bezwaarschrift 
 
 ### ART. 20.
 
-De leidinggevende binnen de subentiteit van het Departement Ruimtelijke   Ordening, Woonbeleid en Onroerend Erfgoed die belast is met de taken van   juridische dienstverlening, of zijn gemachtigde, formuleert omtrent een   ontvankelijk bezwaarschrift een juridisch advies, rekening houdend met het   verslag van de hoorzitting indien deze heeft plaatsgevonden.<BR>
+De leidinggevende binnen de subentiteit van het Departement Omgeving die belast is met de taken van juridische dienstverlening, of zijn gemachtigde, formuleert omtrent een ontvankelijk bezwaarschrift een juridisch advies, rekening houdend met het verslag van de hoorzitting indien deze heeft plaatsgevonden.
 
 ### ART. 21.
 
-De Vlaamse Regering en de organen van het Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, kunnen geen instructies geven en geen verantwoording vragen omtrent de wijze van uitoefening van de in artikel 20 vermelde bevoegdheid.<br /><br />De uitoefening van in de in artikel 20 vermelde bevoegdheid wordt te allen tijde buiten beschouwing gelaten bij rechtspositionele beslissingen betreffende het afdelingshoofd of zijn gemachtigde.<br />
+De Vlaamse Regering en de organen van het Ministerie van Omgeving, kunnen geen instructies geven en geen verantwoording vragen omtrent de wijze van uitoefening van de in artikel 20 vermelde bevoegdheid.<br>
+<br>
+De uitoefening van in de in artikel 20 vermelde bevoegdheid wordt te allen tijde buiten beschouwing gelaten bij rechtspositionele beslissingen betreffende het afdelingshoofd of zijn gemachtigde.
 
 ## HOOFDSTUK VII. Definitieve beslissing
 
