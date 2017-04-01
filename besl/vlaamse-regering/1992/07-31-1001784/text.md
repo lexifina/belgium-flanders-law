@@ -6,7 +6,16 @@ Dit besluit regelt de samenwerking met betrekking tot de oprichting en de organi
 
 ### ART. 2.
 
-Dit besluit regelt de samenwerking zoals bedoeld in artikel 1, inzake het gemeenschappelijk gebruik van informatica-apparatuur en de uitwisseling van gegevens tussen de hieronder opgenoemde instellingen van openbaar nut en/of administraties:<br /><br />De Openbare Vlaamse AfvalstoffenMaatschappij, hierna genoemd "OVAM";<br /><br />De Vlaamse Landmaatschappij, hierna genoemd "VLM";<br /><br />De Vlaamse Milieumaatschappij, hierna genoemd "VMM";<br /><br />Het departement Leefmilieu, Natuur en Energie, hierna het departement te noemen,;<br /><br />Het Instituut voor Natuur- en Bosonderzoek, afgekort "INBO";<br /><br />De Vlaamse Maatschappij voor Watervoorziening, hierna genoemd "VMW".<br /><br />Het Agentschap voor Natuur en Bos, afgekort "ANB"<br /><br />Alle hierboven vermelde partijen worden hierna gezamenlijk genoemd als "de participanten".
+Dit besluit regelt de samenwerking zoals bedoeld in artikel 1, inzake het gemeenschappelijk gebruik van informatica-apparatuur en de uitwisseling van gegevens tussen de hieronder opgenoemde instellingen van openbaar nut en/of administraties:<br>
+De Openbare Vlaamse AfvalstoffenMaatschappij, hierna genoemd "OVAM";<br>
+De Vlaamse Landmaatschappij, hierna genoemd "VLM";<br>
+De Vlaamse Milieumaatschappij, hierna genoemd "VMM";<br>
+Het Departement Omgeving, hierna het departement te noemen,;<br>
+Het Instituut voor Natuur- en Bosonderzoek, afgekort "INBO";<br>
+De Vlaamse Maatschappij voor Watervoorziening, hierna genoemd "VMW".<br>
+Het Agentschap voor Natuur en Bos, afgekort "ANB"<br>
+<br>
+Alle hierboven vermelde partijen worden hierna gezamenlijk genoemd als "de participanten".
 
 ### ART. 3.
 
