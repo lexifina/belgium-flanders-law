@@ -2,16 +2,16 @@
   "codex_id": 1016375,
   "title": "Besluit van de Vlaamse Regering van 2007-10-05 tot bepaling van de voorwaarden voor de toekenning van subsidies voor strategische projecten ter uitvoering van het Ruimtelijk Structuurplan Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016375/VolledigDocument?datum=2007-12-07",
-  "source_sha256": "f63812a595b42ca69f5529fe217015b8da141afcdd175bfec67192a9bbdfa2f0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016375/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "6665d3ef3ceaeb6269b9f76f49045a0ab31f960e73b0ed1ab5daae79e660f40a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016375&param=informatie",
-  "as_of": "2007-12-07",
+  "as_of": "2017-04-01",
   "made": "2007-10-05",
   "gazette": "2007-11-27",
   "numac": 2007037038,
   "document_start": "2007-12-07",
   "document_end": null,
-  "in_force": "2007-12-07",
+  "in_force": "2017-04-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2007-12-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }

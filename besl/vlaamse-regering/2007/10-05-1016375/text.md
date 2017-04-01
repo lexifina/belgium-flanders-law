@@ -8,7 +8,13 @@ De Vlaamse Regering,<br /><br />Gelet op de wetten op de Rijkscomptabiliteit, ge
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° de minister : de Vlaamse minister, bevoegd voor de Ruimtelijke 0rdening;<br />2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed van het Vlaams ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />3° een strategisch project : een project, als vermeld in het Ruimtelijk Structuurplan Vlaanderen, met een integrale en ruimtelijke invalshoek, dat tot doel heeft actief bij te dragen tot de versterking van de kwaliteit van de stedelijke structuur en/of de versterking van de kwaliteit en structuur van het buitengebied, en dat op korte of halflange termijn kan worden uitgevoerd;<br />4° de projectstructuur : een samenwerkingsverband van publieke actoren, eventueel aangevuld met private actoren, die betrokken zijn bij het opzetten en realiseren van een strategisch project; de samenstelling van het samenwerkingsverband kan wijzigen in de tijd. Onder publieke actor worden verstaan provincies, gemeenten, verenigingen van gemeenten, openbare instellingen en organen die door de Vlaamse Regering gemachtigd zijn tot onteigening voor het algemeen belang;<br />5° de projectcoördinator : een persoon of groep personen, aangesteld door een of meer betrokken actoren in de projectstructuur, met als taak de realisatie en uitwerking van een strategisch project te coördineren.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° de minister : de Vlaamse minister, bevoegd voor de Ruimtelijke 0rdening;<br>
+2° het departement : het Departement Omgeving;<br>
+3° een strategisch project : een project, als vermeld in het Ruimtelijk Structuurplan Vlaanderen, met een integrale en ruimtelijke invalshoek, dat tot doel heeft actief bij te dragen tot de versterking van de kwaliteit van de stedelijke structuur en/of de versterking van de kwaliteit en structuur van het buitengebied, en dat op korte of halflange termijn kan worden uitgevoerd;<br>
+4° de projectstructuur : een samenwerkingsverband van publieke actoren, eventueel aangevuld met private actoren, die betrokken zijn bij het opzetten en realiseren van een strategisch project; de samenstelling van het samenwerkingsverband kan wijzigen in de tijd. Onder publieke actor worden verstaan provincies, gemeenten, verenigingen van gemeenten, openbare instellingen en organen die door de Vlaamse Regering gemachtigd zijn tot onteigening voor het algemeen belang;<br>
+5° de projectcoördinator : een persoon of groep personen, aangesteld door een of meer betrokken actoren in de projectstructuur, met als taak de realisatie en uitwerking van een strategisch project te coördineren.<br>
+&nbsp;
 
 ### ART. 2.
 
@@ -32,7 +38,14 @@ Ten minste één keer per jaar doet het departement een oproep voor subsidieaanv
 
 ### ART. 6.
 
-§ 1. Om de subsidieaanvragen te beoordelen wordt per oproep een commissie ingesteld van minimaal zes leden, die voor de helft bestaat uit leden van het Vlaams ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed en voor de andere helft uit externe deskundigen. De externe deskundigen worden door de minister aangewezen. Bij de aanwijzing van de externe deskundigen kan de minister rekening houden met de in artikel 5, § 2, vermelde projecten met specifieke projectkenmerken of in specifieke gebieden.<br /><br />Dezelfde persoon kan meermaals deel uitmaken van de beoordelingscommissie.<br /><br />§ 2. De beoordelingscommissie rangschikt de strategische projecten waarvoor een subsidie wordt aangevraagd op grond van relatieve scores die toegekend worden met betrekking tot elk van de criteria vermeld in artikel 5, § 1. De criteria, vermeld in artikel 5, § 1, 1°, 5° en 6°, zijn het belangrijkst, en doorslaggevend bij de beoordeling. Er wordt een rangschikkingsverslag opgesteld waarbij de afweging per criterium wordt gemotiveerd.<br /><br />In voorkomend geval spreekt de beoordelingscommissie zich daarnaast uit over de mate waarin de strategische projecten voldoen aan de door de minister overeenkomstig artikel 5, § 2, vastgestelde specifieke projectkenmerken, of stelt ze vast of de projecten in de door de minister gespecificeerde gebieden liggen. Er wordt daarover een apart en gemotiveerd verslag opgemaakt.<br /><br />
+§ 1. Om de subsidieaanvragen te beoordelen wordt per oproep een commissie ingesteld van minimaal zes leden, die voor de helft bestaat uit leden van het Vlaams ministerie van&nbsp;Omgeving en voor de andere helft uit externe deskundigen. De externe deskundigen worden door de minister aangewezen. Bij de aanwijzing van de externe deskundigen kan de minister rekening houden met de in artikel 5, § 2, vermelde projecten met specifieke projectkenmerken of in specifieke gebieden.<br>
+<br>
+Dezelfde persoon kan meermaals deel uitmaken van de beoordelingscommissie.<br>
+<br>
+§ 2. De beoordelingscommissie rangschikt de strategische projecten waarvoor een subsidie wordt aangevraagd op grond van relatieve scores die toegekend worden met betrekking tot elk van de criteria vermeld in artikel 5, § 1. De criteria, vermeld in artikel 5, § 1, 1°, 5° en 6°, zijn het belangrijkst, en doorslaggevend bij de beoordeling. Er wordt een rangschikkingsverslag opgesteld waarbij de afweging per criterium wordt gemotiveerd.<br>
+<br>
+In voorkomend geval spreekt de beoordelingscommissie zich daarnaast uit over de mate waarin de strategische projecten voldoen aan de door de minister overeenkomstig artikel 5, § 2, vastgestelde specifieke projectkenmerken, of stelt ze vast of de projecten in de door de minister gespecificeerde gebieden liggen. Er wordt daarover een apart en gemotiveerd verslag opgemaakt.<br>
+&nbsp;
 
 ### ART. 7.
 
