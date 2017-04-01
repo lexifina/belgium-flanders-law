@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028063,
+  "title": "Besluit van de Vlaamse Regering van 2017-02-17 tot wijziging van het koninklijk besluit van 29 mei 2013 betreffende de bescherming van proefdieren en het koninklijk besluit van 21 november 1996 tot vaststelling van de vergoeding van de verplaatsings- en verblijfkosten van de personen die niet tot de Administratie behoren en die deel uitmaken van sommige organen samengesteld in het kader van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028063/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "3dae485770ed147b8dee0af8c97d0aab87e97fda5fa256dbeac0f5f33c802f64",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028063&param=informatie",
+  "as_of": "2017-04-01",
+  "made": "2017-02-17",
+  "gazette": "2017-03-22",
+  "numac": 2017030130,
+  "document_start": "2017-04-01",
+  "document_end": null,
+  "in_force": "2017-04-01",
+  "article_versions": 35,
+  "record_form": "consolidated version as in force on 2017-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
