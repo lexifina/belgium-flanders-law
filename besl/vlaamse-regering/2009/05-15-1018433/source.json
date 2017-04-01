@@ -2,16 +2,16 @@
   "codex_id": 1018433,
   "title": "Besluit van de Vlaamse Regering van 2009-05-15 tot uitvoering van het decreet van 10 juli 2008 betreffende het toeristische logies",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018433/VolledigDocument?datum=2017-02-23",
-  "source_sha256": "b0a77ff6406a98d66648c716dd109d142123fb1974a200f17c93848ed96d0d73",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018433/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "a85b128ca9485e814a3db27d230e94c85fb8c2a552374028bf933291b1e4e98a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018433&param=informatie",
-  "as_of": "2017-02-23",
+  "as_of": "2017-04-01",
   "made": "2009-05-15",
   "gazette": "2009-10-12",
   "numac": 2009035955,
   "document_start": "2010-01-01",
   "document_end": "2017-03-31",
-  "in_force": "2017-02-23",
+  "in_force": "2017-04-01",
   "article_versions": 53,
-  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
