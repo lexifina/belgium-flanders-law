@@ -27,7 +27,7 @@ Besluit :<br>
 
 In dit besluit wordt verstaan onder :<br>
 1° ...;<br>
-2° agentschap : het agentschap Wonen-Vlaanderen van het Vlaamse ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+2° agentschap : het agentschap Wonen-Vlaanderen van het Vlaamse ministerie van Omgeving;<br>
 3° beveiligde zending : een van de volgende betekeningswijzen :<br>
 a) een aangetekende brief;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
