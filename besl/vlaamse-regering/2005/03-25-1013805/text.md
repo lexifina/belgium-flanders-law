@@ -6626,8 +6626,138 @@ b) mag het percentage van het aantal zaden Lupinus spp. van een andere kleur nie
 
 ### BIJLAGE IV
 
-Aanduidingen<BR><BR>A. Officieel etiket.<BR>I. Te vermelden   gegevens.<BR>a) Voor basiszaad en gecertificeerd zaad :<BR>1.   "EG-systeem";<BR>2. Keuringsdienst en Lidstaat of desbetreffend kenteken;<BR>3.   Partijnummer;<BR>4. Maand en jaar van de sluiting, op de volgende wijze   aangegeven : "gesloten in... (maand en jaar)" of maand en jaar van de laatste   officiële monsterneming ten behoeve van het besluit van certificering, op de   volgende wijze aangegeven : "monster genomen in (maand en jaar)"<BR>In het geval   van x Festulolium worden de namen van de soorten van het geslacht Festuca en   Lolium vermeld;<BR>5. Soort ten minste aangegeven, met de botanische benaming,   eventueel in verkorte vorm en zonder de naam van de auteurs, in Latijns   schrift;<BR>6. Ras ten minste vermeld in Latijns schrift;<BR>7. Categorie;<BR>8.   Producerend land;<BR>9. Opgegeven netto- of brutogewicht of opgegeven aantal   zuivere zaden;<BR>10. Wanneer het gewicht wordt vermeld en er korrelvormige   bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat   worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de   verhouding, bij benadering, tussen het gewicht der zuivere zaden en het   totaalgewicht;<BR>11. Voor gecertificeerd zaad van de tweede en volgende   vermeerderingen vanaf het basiszaad, de vermelding : het aantal generaties vanaf   het basiszaad;<BR>12. Voor zaad van grasrassen waarvoor geen onderzoek van de   cultuur- en gebruikswaarde heeft plaatsgevonden, overeenkomstig artikel 4, § 2,   sub a), van het koninklijk besluit van 2 mei 2001 betreffende de nationale   rassencatalogi voor landbouwgewassen en groentegewassen : "niet bestemd voor de   teelt van voedergewassen";<BR>13. Waar ten minste voor de kiemkracht nacontrole   werd verricht, mogen de woorden "nacontrole verricht... (maand en jaar)" en de   voor deze nacontrole verantwoordelijke dienst worden vermeld. Deze gegevens   mogen voorkomen op een officieel merkteken dat wordt geplakt op het officiële   etiket.<BR>b) Voor handelszaad :<BR>1. "EG-systeem";<BR>2. "Handelszaad (niet   naar het ras goedgekeurd)";<BR>3. Keuringsdienst en Lidstaat of desbetreffende   kenteken;<BR>4. Partijnummer;<BR>5. Maand en jaar van de sluiting, op de   volgende wijze aangegeven : "gesloten in... (maand en jaar)" of maand en jaar   van de laatste officiële monsterneming ten behoeve van het besluit tot   goedkeuring als handelszaad, op de volgende wijze aangegeven : "monster genomen   in... (maand en jaar)";<BR>6. Soort (*) ten minste aangegeven, met de botanische   benaming, eventueel in verkorte vorm zonder de naam van de auteurs, in Latijns   schrift;<BR>7. Teeltgebied;<BR>8. Opgegeven netto- of brutogewicht of opgegeven   aantal zuivere zaden;<BR>9. Wanneer het gewicht wordt vermeld en er   korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in   vaste staat worden gebruikt, de vermelding van de aard van het   toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht der   zuivere zaden en het totaalgewicht;<BR>10. Waar ten minste voor de kiemkracht   nacontrole werd verricht, mogen de woorden " nacontrole verricht... (maand en   jaar) " en de voor deze nacontrole verantwoordelijke dienst worden vermeld. Deze   gegevens mogen voorkomen op een officieel merkteken dat wordt geplakt op het   officiële etiket.<BR>(*) Voor lupinen voorts vermelden of het gaat om bittere of   bitterstofarme lupinen.<BR>c) Voor zaadmengsels :<BR>1. "Zaadmengsel voor...   (gebruiksdoeleinde)";<BR>2. Instantie die de verpakking heeft gesloten en   Lidstaat of desbetreffend kenteken;<BR>3. Partijnummer;<BR>4. Maand en jaar van   de sluiting, op de volgende wijze aangegeven : "gesloten in (maand en   jaar)"<BR>In het geval van x Festulolium worden de namen van de soorten van het   geslacht Festuca en Lolium vermeld;<BR>5. Gewichtsverhouding van de   verschillende opgegeven bestanddelen naar soort en, in voorkomend geval, naar   ras, waarbij soort en ras tenminste dienen te worden vermeld in Latijns schrift,   vermelding van de benaming van het mengsel volstaat indien de koper schriftelijk   in kennis wordt gesteld van de gewichtsverhouding en indien deze officieel is   gedeponeerd;<BR>6. Opgegeven netto- of brutogewicht of opgegeven aantal zuivere   zaden;<BR>7. Wanneer het gewicht wordt vermeld en er korrelvormige   bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat   worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de   verhouding, bij benadering, tussen het gewicht der zuivere zaden en het totaal   gewicht;<BR>8. Waar ten minste voor de kiemkracht van alle bestanddelen van het   mengsel nacontrole werd verricht, mogen de woorden "nacontrole verricht...   (maand en jaar)" en de voor deze nacontrole verantwoordelijke dienst worden   vermeld. Deze gegevens mogen voorkomen op een officieel merkteken dat wordt   geplakt op het officiële etiket.<BR>II. Minimumafmetingen.<BR>110 mm x 67   mm.<BR>B. Etiket van de leverancier of tekst op de verpakking (kleine verpakking   EG).<BR>Te vermelden gegevens :<BR>a) Voor gecertificeerd zaad :<BR>1. "Kleine   verpakking EG B";<BR>2. Naam en adres of kenmerk van de voor de aanduiding   verantwoordelijke leverancier;<BR>3. Officieel volgnummer;<BR>4. Dienst die het   volgnummer heeft toegekend en Lidstaat of desbetreffend kenteken;<BR>5.   Partijnummer indien de gecertificeerde partij niet door het officiële volgnummer   kan worden geïdentificeerd;<BR>6. Soort ten minste vermeld in Latijns   schrift;<BR>7. Ras ten minste vermeld in Latijns schrift;<BR>8. Categorie;<BR>9.   Bruto- of nettogewicht of aantal zuivere zaden;<BR>10. Wanneer het gewicht wordt   vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere   toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard   van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het   gewicht der zuivere zaden en het totaalgewicht;<BR>11. Voor zaad van grasrassen   waarvoor geen onderzoek van de cultuur- en gebruikswaarde heeft plaatsgevonden,   overeenkomstig artikel 4, lid 2, sub a), van het koninklijk besluit van 8 juli   2001 betreffende de nationale rassencatalogi voor landbouwgewassen en   groentegewassen : "niet bestemd voor de teelt van voedergewassen".<BR>b) Voor   handelszaad :<BR>1. "Kleine verpakking EG B";<BR>2. Naam en adres of kenmerk van   de voor de aanduiding verantwoordelijke leverancier;<BR>3. Officieel   volgnummer;<BR>4. Dienst die het volgnummer heeft toegekend en Lidstaat of   desbetreffend kenteken;<BR>5. Partijnummer indien de gecontroleerde partij niet   door het officiële volgnummer kan worden geïdentificeerd;<BR>6. Soort (*) ten   minste vermeld in Latijns schrift;<BR>7. "Handelszaad";<BR>8. Bruto- of   nettogewicht of aantal zuivere zaden;<BR>9. Wanneer het gewicht wordt vermeld en   er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen   in vaste staat worden gebruikt, de vermelding van de aard van het   toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht der   zuivere zaden en het totaalgewicht.<BR>(*) Voor de lupinen voorts vermelden of   het gaat om bittere of bitterstofarme lupinen.<BR>c) Voor zaadmengsels :<BR>1.   "Kleine verpakking EG A" of "kleine verpakking EG B";<BR>2. Naam en adres of   kenmerk van de voor de aanduiding verantwoordelijke leverancier;<BR>3. Kleine   verpakking EG B : officieel volgnummer;<BR>4. Kleine verpakking EG B : dienst   die het volgnummer heeft toegekend en Lidstaat of desbetreffend kenteken;<BR>5.   Kleine verpakking EG B : partijnummer indien de gebruikte partijen niet door het   officiële volgnummer kunnen worden geïdentificeerd;<BR>6. Kleine verpakking EG A   : partijnummer waardoor de gebruikte partijen kunnen worden   geïdentificeerd;<BR>7. Kleine verpakking EG A : naam of kenteken van de   Lidstaat;<BR>8. "Zaadmengsels voor... (gebruiksdoeleinden)";<BR>9. Bruto- of   nettogewicht of aantal zuivere zaden;<BR>10. Wanneer het gewicht wordt vermeld   en er korrelvormige bestrijdingsmiddelen, omhullingen of andere   toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard   van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het   gewicht der zuivere zaden en het totaal gewicht;<BR>11. Gewichtsverhouding van   de verschillende opgegeven bestanddelen naar soort en, in voorkomend geval, naar   ras, waarbij soort en ras ten minste dienen te worden vermeld in Latijns   schrift, de vermelding van de benaming van het mengsel volstaat indien de   gewichtsverhouding aan de koper op diens verzoek kan worden medegedeeld en deze   officieel is gedeponeerd.
+Aanduidingen<br>
+<br>
+A. Officieel etiket.<br>
+I. Te vermelden gegevens.<br>
+a) Voor basiszaad en gecertificeerd zaad :<br>
+1. "EG-systeem";<br>
+2. Keuringsdienst en Lidstaat of desbetreffend kenteken;<br>
+2/1. Officieel volgnummer;<br>
+3. Partijnummer;<br>
+4. Maand en jaar van de sluiting, op de volgende wijze aangegeven : "gesloten in... (maand en jaar)" of maand en jaar van de laatste officiële monsterneming ten behoeve van het besluit van certificering, op de volgende wijze aangegeven : "monster genomen in (maand en jaar)"<br>
+In het geval van x Festulolium worden de namen van de soorten van het geslacht Festuca en Lolium vermeld;<br>
+5. Soort ten minste aangegeven, met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, in Latijns schrift;<br>
+6. Ras ten minste vermeld in Latijns schrift;<br>
+7. Categorie;<br>
+8. Producerend land;<br>
+9. Opgegeven netto- of brutogewicht of opgegeven aantal zuivere zaden;<br>
+10. Wanneer het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht der zuivere zaden en het totaalgewicht;<br>
+11. Voor gecertificeerd zaad van de tweede en volgende vermeerderingen vanaf het basiszaad, de vermelding : het aantal generaties vanaf het basiszaad;<br>
+12. Voor zaad van grasrassen waarvoor geen onderzoek van de cultuur- en gebruikswaarde heeft plaatsgevonden, overeenkomstig artikel 4, § 2, sub a), van het koninklijk besluit van 2 mei 2001 betreffende de nationale rassencatalogi voor landbouwgewassen en groentegewassen : "niet bestemd voor de teelt van voedergewassen";<br>
+13. Waar ten minste voor de kiemkracht nacontrole werd verricht, mogen de woorden "nacontrole verricht... (maand en jaar)" en de voor deze nacontrole verantwoordelijke dienst worden vermeld. Deze gegevens mogen voorkomen op een officieel merkteken dat wordt geplakt op het officiële etiket.<br>
+b) Voor handelszaad :<br>
+1. "EG-systeem";<br>
+2. "Handelszaad (niet naar het ras goedgekeurd)";<br>
+3. Keuringsdienst en Lidstaat of desbetreffende kenteken;<br>
+3/1. Officieel volgnummer;<br>
+4. Partijnummer;<br>
+5. Maand en jaar van de sluiting, op de volgende wijze aangegeven : "gesloten in... (maand en jaar)" of maand en jaar van de laatste officiële monsterneming ten behoeve van het besluit tot goedkeuring als handelszaad, op de volgende wijze aangegeven : "monster genomen in... (maand en jaar)";<br>
+6. Soort (*) ten minste aangegeven, met de botanische benaming, eventueel in verkorte vorm zonder de naam van de auteurs, in Latijns schrift;<br>
+7. Teeltgebied;<br>
+8. Opgegeven netto- of brutogewicht of opgegeven aantal zuivere zaden;<br>
+9. Wanneer het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht der zuivere zaden en het totaalgewicht;<br>
+10. Waar ten minste voor de kiemkracht nacontrole werd verricht, mogen de woorden " nacontrole verricht... (maand en jaar) " en de voor deze nacontrole verantwoordelijke dienst worden vermeld. Deze gegevens mogen voorkomen op een officieel merkteken dat wordt geplakt op het officiële etiket.<br>
+(*) Voor lupinen voorts vermelden of het gaat om bittere of bitterstofarme lupinen.<br>
+c) Voor zaadmengsels :<br>
+1. "Zaadmengsel voor... (gebruiksdoeleinde)";<br>
+2. Instantie die de verpakking heeft gesloten en Lidstaat of desbetreffend kenteken;<br>
+2/1. Officieel volgnummer;<br>
+3. Partijnummer;<br>
+4. Maand en jaar van de sluiting, op de volgende wijze aangegeven : "gesloten in (maand en jaar)"<br>
+In het geval van x Festulolium worden de namen van de soorten van het geslacht Festuca en Lolium vermeld;<br>
+5. Gewichtsverhouding van de verschillende opgegeven bestanddelen naar soort en, in voorkomend geval, naar ras, waarbij soort en ras tenminste dienen te worden vermeld in Latijns schrift, vermelding van de benaming van het mengsel volstaat indien de koper schriftelijk in kennis wordt gesteld van de gewichtsverhouding en indien deze officieel is gedeponeerd;<br>
+6. Opgegeven netto- of brutogewicht of opgegeven aantal zuivere zaden;<br>
+7. Wanneer het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht der zuivere zaden en het totaal gewicht;<br>
+8. Waar ten minste voor de kiemkracht van alle bestanddelen van het mengsel nacontrole werd verricht, mogen de woorden "nacontrole verricht... (maand en jaar)" en de voor deze nacontrole verantwoordelijke dienst worden vermeld. Deze gegevens mogen voorkomen op een officieel merkteken dat wordt geplakt op het officiële etiket.<br>
+II. Minimumafmetingen.<br>
+110 mm x 67 mm.<br>
+B. Etiket van de leverancier of tekst op de verpakking (kleine verpakking EG).<br>
+Te vermelden gegevens :<br>
+a) Voor gecertificeerd zaad :<br>
+1. "Kleine verpakking EG B";<br>
+2. Naam en adres of kenmerk van de voor de aanduiding verantwoordelijke leverancier;<br>
+3. Officieel volgnummer;<br>
+4. Dienst die het volgnummer heeft toegekend en Lidstaat of desbetreffend kenteken;<br>
+5. Partijnummer indien de gecertificeerde partij niet door het officiële volgnummer kan worden geïdentificeerd;<br>
+6. Soort ten minste vermeld in Latijns schrift;<br>
+7. Ras ten minste vermeld in Latijns schrift;<br>
+8. Categorie;<br>
+9. Bruto- of nettogewicht of aantal zuivere zaden;<br>
+10. Wanneer het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht der zuivere zaden en het totaalgewicht;<br>
+11. Voor zaad van grasrassen waarvoor geen onderzoek van de cultuur- en gebruikswaarde heeft plaatsgevonden, overeenkomstig artikel 4, lid 2, sub a), van het koninklijk besluit van 8 juli 2001 betreffende de nationale rassencatalogi voor landbouwgewassen en groentegewassen : "niet bestemd voor de teelt van voedergewassen".<br>
+b) Voor handelszaad :<br>
+1. "Kleine verpakking EG B";<br>
+2. Naam en adres of kenmerk van de voor de aanduiding verantwoordelijke leverancier;<br>
+3. Officieel volgnummer;<br>
+4. Dienst die het volgnummer heeft toegekend en Lidstaat of desbetreffend kenteken;<br>
+5. Partijnummer indien de gecontroleerde partij niet door het officiële volgnummer kan worden geïdentificeerd;<br>
+6. Soort (*) ten minste vermeld in Latijns schrift;<br>
+7. "Handelszaad";<br>
+8. Bruto- of nettogewicht of aantal zuivere zaden;<br>
+9. Wanneer het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht der zuivere zaden en het totaalgewicht.<br>
+(*) Voor de lupinen voorts vermelden of het gaat om bittere of bitterstofarme lupinen.<br>
+c) Voor zaadmengsels :<br>
+1. "Kleine verpakking EG A" of "kleine verpakking EG B";<br>
+2. Naam en adres of kenmerk van de voor de aanduiding verantwoordelijke leverancier;<br>
+3. Kleine verpakking EG B : officieel volgnummer;<br>
+4. Kleine verpakking EG B : dienst die het volgnummer heeft toegekend en Lidstaat of desbetreffend kenteken;<br>
+5. Kleine verpakking EG B : partijnummer indien de gebruikte partijen niet door het officiële volgnummer kunnen worden geïdentificeerd;<br>
+6. Kleine verpakking EG A : partijnummer waardoor de gebruikte partijen kunnen worden geïdentificeerd;<br>
+7. Kleine verpakking EG A : naam of kenteken van de Lidstaat;<br>
+8. "Zaadmengsels voor... (gebruiksdoeleinden)";<br>
+9. Bruto- of nettogewicht of aantal zuivere zaden;<br>
+10. Wanneer het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht der zuivere zaden en het totaal gewicht;<br>
+11. Gewichtsverhouding van de verschillende opgegeven bestanddelen naar soort en, in voorkomend geval, naar ras, waarbij soort en ras ten minste dienen te worden vermeld in Latijns schrift, de vermelding van de benaming van het mengsel volstaat indien de gewichtsverhouding aan de koper op diens verzoek kan worden medegedeeld en deze officieel is gedeponeerd.
 
 ### Bijlage V
 
-Etiket en document voor niet definitief goedgekeurd zaad dat is geoogst in een andere Lidstaat<br /><br />A. Op het etiket te vermelden gegevens:<br /><br />1. Voor de veldkeuring verantwoordelijke instantie en Lidstaat of hun kenteken.<br /><br />2. Soort ten minste aangegeven, met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, in Latijns schrift.<br /><br />3. Ras ten minste vermeld in Latijns schrift.<br /><br />4. Categorie.<br /><br />5. Referentienummer van het veld of van de partij.<br /><br />6. Opgegeven netto- of brutogewicht.<br /><br />7. De vermelding "niet definitief goedgekeurd zaad".<br /><br />B. Kleur van het etiket<br /><br />Het etiket is grijs van kleur.<br /><br />C. Op het document te vermelden gegevens:<br /><br />1. Instantie die het document afgeeft.<br /><br />2. Soort ten minste aangegeven, met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, in Latijns schrift.<br /><br />3. Ras ten minste vermeld in Latijns schrift.<br /><br />4. Categorie.<br /><br />5. Referentienummer van het gebruikte zaad en naam van het land of de landen dat/die dit zaad heeft/hebben goedgekeurd.<br /><br />6. Referentienummer van het veld of van de partij.<br /><br />7. Oppervlakte die is geteeld voor de productie van de bij het document behorende partij.<br /><br />8. Geoogste hoeveelheid zaad en aantal verpakkingen.<br /><br />9. Voor gecertificeerd zaad, het aantal generaties na het basiszaad.<br /><br />10. Verklaring dat, bij de teelt, waarvan het zaad afkomstig is, aan de vastgestelde voorwaarden is voldaan.<br /><br />11. In voorkomend geval, de uitkomsten van een voorlopige analyse van het zaad.
+Etiket en document voor niet definitief goedgekeurd zaad dat is geoogst in een andere Lidstaat<br>
+<br>
+A. Op het etiket te vermelden gegevens:<br>
+<br>
+1. Voor de veldkeuring verantwoordelijke instantie en Lidstaat of hun kenteken.<br>
+<br>
+1/1. Officieel volgnummer;<br>
+<br>
+2. Soort ten minste aangegeven, met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, in Latijns schrift.<br>
+<br>
+3. Ras ten minste vermeld in Latijns schrift.<br>
+<br>
+4. Categorie.<br>
+<br>
+5. Referentienummer van het veld of van de partij.<br>
+<br>
+6. Opgegeven netto- of brutogewicht.<br>
+<br>
+7. De vermelding "niet definitief goedgekeurd zaad".<br>
+<br>
+B. Kleur van het etiket<br>
+<br>
+Het etiket is grijs van kleur.<br>
+<br>
+C. Op het document te vermelden gegevens:<br>
+<br>
+1. Instantie die het document afgeeft.<br>
+<br>
+1/1. Officieel volgnummer;<br>
+<br>
+2. Soort ten minste aangegeven, met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, in Latijns schrift.<br>
+<br>
+3. Ras ten minste vermeld in Latijns schrift.<br>
+<br>
+4. Categorie.<br>
+<br>
+5. Referentienummer van het gebruikte zaad en naam van het land of de landen dat/die dit zaad heeft/hebben goedgekeurd.<br>
+<br>
+6. Referentienummer van het veld of van de partij.<br>
+<br>
+7. Oppervlakte die is geteeld voor de productie van de bij het document behorende partij.<br>
+<br>
+8. Geoogste hoeveelheid zaad en aantal verpakkingen.<br>
+<br>
+9. Voor gecertificeerd zaad, het aantal generaties na het basiszaad.<br>
+<br>
+10. Verklaring dat, bij de teelt, waarvan het zaad afkomstig is, aan de vastgestelde voorwaarden is voldaan.<br>
+<br>
+11. In voorkomend geval, de uitkomsten van een voorlopige analyse van het zaad.
