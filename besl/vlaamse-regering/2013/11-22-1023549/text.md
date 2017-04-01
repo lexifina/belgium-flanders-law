@@ -250,6 +250,72 @@ De organisator met meer dan achttien subsidieerbare plaatsen op het niveau   van
 
 <P>De organisator werkt met het systeem inkomenstarief, vermeld in artikel 28   tot en met 36, voor alle kinderopvangplaatsen van de kinderopvanglocatie,   uitgezonderd voor de kinderen die tot het thuismilieu van de kinderbegeleider   gezinsopvang behoren, en voor wie de kinderbegeleider de verantwoordelijkheid   draagt.<BR><BR>De organisator kan ervoor kiezen om niet met het systeem   inkomenstarief te werken voor :<BR>1° de kinderen die met de kinderbegeleider   gezinsopvang of met de partner van de kinderbegeleider gezinsopvang verwant zijn   tot en met de vierde graad;<BR>2° de gereserveerde kinderopvangdagen binnen het   recht van het gezin op wennen met toepassing van artikel 29/1.</P>
 
+### ART 27/1.
+
+Kind en Gezin kan bij wijze van experiment beslissen om aan de organisator toe te laten om in afwijking van artikel 27 niet voor alle kinderopvangplaatsen op zijn kinderopvanglocatie te werken volgens het systeem inkomenstarief, vermeld in artikel 28 tot en met 36. De afwijking geldt voor de bijkomende kinderopvangplaatsen boven op de bestaande subsidieerbare kinderopvangplaatsen.<br>
+<br>
+In het kader van een algemene oproep tot experiment via UnieKO, het Vlaams Welzijnsverbond, SOM, VVSG, VoorZet, 't OpZet en Unizo worden maximaal tien kinderopvanglocaties van tien verschillende organisatoren toegelaten tot het experiment, vermeld in het eerste lid, waarbij ernaar gestreefd wordt om de volgende types kinderopvanglocatie aan bod te laten komen:<br>
+1° kinderopvanglocaties waarvan de organisator groepsopvang maar één kinderopvanglocatie in de gemeente in kwestie heeft of de organisator gezinsopvang maar één kinderopvanglocatie in de zorgregio in kwestie heeft;<br>
+2° kinderopvanglocaties waarvan de organisator groepsopvang twee of meer kinderopvanglocaties in de gemeente in kwestie heeft of de organisator gezinsopvang twee of meer kinderopvanglocaties in de zorgregio in kwestie heeft;<br>
+3° kinderopvanglocaties die gebruikmaken van een systeem waarbij de betaling van de vrije prijs gebeurt door een persoon of instantie die niet de contracthouder zelf is;<br>
+4° kinderopvanglocaties die voor de inwerkingtreding van het decreet van 20 april 2012 een erkenning hadden van Kind en Gezin;<br>
+5° kinderopvanglocaties die ook op de plaatsen met vrije prijs het systeem van inkomenstarief toepassen.<br>
+<br>
+Kind en Gezin geeft een score aan elke aanvraag op basis van de volgende criteria:<br>
+1° de organisator heeft een plan om binnen het experiment een mix van kinderen uit gezinnen met diverse socio-economische en culturele achtergronden, te realiseren;<br>
+2° de organisator heeft een strategie om met de gezinnen te communiceren over het experiment, onder meer over het hanteren van de verschillende prijssystemen;<br>
+3° de organisator heeft een strategie om met andere organisatoren van kinderopvang in de buurt, het lokaal bestuur en het Lokaal Overleg Kinderopvang te communiceren over de aanpak van het experiment;<br>
+4° de organisator heeft een duidelijk zicht op de te verwachten evolutie in zijn financiële toestand door het deelnemen aan het experiment.<br>
+<br>
+Kind en Gezin geeft op de criteria, vermeld in het derde lid, de volgende scores:<br>
+1° nul punten als het antwoord op de vraag naast de kwestie of niet beargumenteerd is;<br>
+2° twee punten als het antwoord op de vraag erg vaag en onvoldoende beargumenteerd is;<br>
+3° vier punten als het antwoord op de vraag volstaat, maar slechts net voldoende beargumenteerd is;<br>
+4° zes punten als het antwoord op de vraag goed beargumenteerd of innovatief is.<br>
+<br>
+Een aanvraag die op een of meerdere van de criteria nul punten scoort of een aanvraag die in totaal minder dan 50 % scoort, wordt uitgesloten.<br>
+<br>
+Als er meer dan twee aanvragers zijn voor één van de types kinderopvanglocaties, vermeld in het tweede lid, komen de aanvragen met de hoogste score in aanmerking.<br>
+<br>
+Als een kandidaat bij de twee hoogste scores tot verschillende categorieën behoort of als er een ex aequo bij de twee hoogste scores is, dan streeft Kind en Gezin naar een zo divers mogelijke staalkaart. Daarbij worden de volgende criteria gebruikt:<br>
+1° de grootte van de opvanglocatie;<br>
+2° de verhouding van de opvangplaatsen met inkomenstarief en de opvangplaatsen met vrije prijs binnen de opvanglocatie;<br>
+3° de nood aan opvang in de regio op basis van het aantal beschikbare opvangplaatsen ten opzichte van het aantal kinderen uit de doelgroep;<br>
+4° het aantal en het percentage opvangplaatsen met inkomenstarief en vrije prijs in de gemeente;<br>
+5° de socio-economische context.<br>
+<br>
+Een afwijking is mogelijk voor schriftelijke overeenkomsten die in het kader van het experiment gesloten of aangepast zijn vóór 1 april 2018 en kan duren tot het opgevangen kind naar de basisschool gaat, tenzij als het kind niet naar de basisschool gaat, dan kan het duren tot dat kind drie en een half jaar is.
+
+### ART 27/2.
+
+De organisator zorgt voor de aanvang van het experiment, vermeld in artikel 27/1, voor een beleid over de vrije prijs, waarbij de volgende elementen aan bod komen:<br>
+1° de manier waarop de vrije prijs voor de kinderopvang ten aanzien van elke contracthouder die betrokken is bij het voormelde experiment, wordt bepaald;<br>
+2° het aandeel kinderopvangplaatsen met een vrije prijs ten opzichte van de kinderopvangplaatsen met inkomenstarief;<br>
+3° de criteria die worden gehanteerd om een kinderopvangplaats met vrije prijs of een kinderopvangplaats met inkomenstarief toe te kennen.
+
+### ART 27/3.
+
+De organisator zorgt voor de aanvang van het experiment, vermeld in artikel 27/1, voor een aangepaste schriftelijke overeenkomst ten aanzien van de contracthouder die betrokken is bij het voormelde experiment, waarbij elke contracthouder maar één schriftelijke overeenkomst kan hebben en waarbij de volgende elementen zijn opgenomen:<br>
+1° de start van de vrije prijs;<br>
+2° de verbintenis om binnen de schriftelijke overeenkomst niet gelijktijdig zowel met inkomenstarief als zonder inkomenstarief te werken.<br>
+<br>
+De organisator zorgt voor de aanvang van het voormelde experiment voor een aangepast huishoudelijk reglement ten aanzien van alle contracthouders van de kinderopvanglocatie, waarbij het beleid, vermeld in artikel 27/3, voor het voormelde experiment wordt opgenomen.
+
+### ART 27/4.
+
+De organisator houdt de volgende gegevens bij gedurende het experiment, vermeld in artikel 27/1, volgens de administratieve richtlijnen van Kind en Gezin:<br>
+1° de globale financiële situatie van de kinderopvanglocatie, meer bepaald welke persoon of instantie de vrije prijs effectief betaalt en welke kosten verbonden zijn aan het vragen van een vrije prijs;<br>
+2° de contactgegevens van de contracthouders die meestappen in het voormelde experiment en van de andere contracthouders binnen de kinderopvanglocatie, met het oog op een tevredenheidsbevraging door Kind en Gezin;<br>
+3° het aantal kinderopvangprestaties met vrije prijs.
+
+### ART 27/5.
+
+De organisator informeert het lokaal bestuur en het Lokaal Overleg Kinderopvang van de gemeente van zijn kinderopvanglocatie over de deelname aan het experiment, vermeld in artikel 27/1, voor de aanvang ervan en neemt actief deel aan het Lokaal Overleg Kinderopvang.
+
+### ART 27/6.
+
+Kind en Gezin kan de afwijkingsbeslissing intrekken als de voorwaarden, vermeld in artikel 27/1 tot en met 27/6, niet nageleefd worden.
+
 ## [Onderafdeling 2 Betalen voor gereserveerde kinderopvangdagen (verv. BVR 4 april 2014, art. 22, I: 1 april 2014)]
 
 ### ART. 28.
@@ -300,19 +366,78 @@ De minister bepaalt de nadere regels met betrekking tot de startdatum en de eind
 
 ### ART. 32/1.
 
-Als de contracthouder en, als deze er is, de inwonende persoon, bij het   aanvragen van het attest inkomenstarief aanvinken hun inkomen niet bekend te   willen maken, dan geldt het maximumtarief. Op dit maximumtarief zijn evenwel   verminderingen van toepassing.<BR><BR>Het maximumtarief geldt niet als de   contracthouder, die zijn inkomen niet bekend wil maken, een attest   inkomenstarief aanvraagt voor een pleegkind dat bij hem inwoont. Hij kan dan de   situatie, vermeld in artikel 34, § 1, 3°, aanvinken.<BR><BR>De minister bepaalt   de nadere regels met betrekking tot het bedrag van het maximumtarief en de   verminderingen die van toepassing zijn.
+Als de contracthouder en, als deze er is, de inwonende persoon, bij het aanvragen van het attest inkomenstarief aanvinken hun inkomen niet bekend te willen maken, dan geldt het maximumtarief. Op dit maximumtarief zijn evenwel verminderingen van toepassing.<br>
+<br>
+Het maximumtarief geldt niet als een contracthouder die zijn inkomen niet bekend wil maken, een attest inkomenstarief aanvraagt voor een pleegkind dat bij hem inwoont en de situatie, vermeld in artikel 34, § 1, 3°, aanvinkt.<br>
+<br>
+De minister bepaalt de nadere regels met betrekking tot het bedrag van het maximumtarief en de verminderingen die van toepassing zijn.
 
 ### ART. 33.
 
-<P>§ 1. Als de contracthouder of, als deze er is, de inwonende persoon, of   beide, een Belgisch aanslagbiljet voor personenbelasting en aanvullende   belastingen heeft, dan wordt de berekening in het online instrument automatisch   uitgevoerd, meer bepaald op basis van het inkomen dat vermeld wordt op het meest   recente aanslagbiljet, zoals dat door de Federale Overheidsdienst Financiën ter   beschikking wordt gesteld, en op basis van de gegevens die ter beschikking   worden gesteld door de Kruispuntbank. De contracthouder past het aantal kinderen   ten laste, indien die niet gevat zijn in de Kruispuntbank, aan in het online   instrument.<BR><BR>Als de contracthouder of, als deze er is, de inwonende   persoon, of beide, geen Belgisch aanslagbiljet voor personenbelasting en   aanvullende belastingen heeft maar wel een inkomen heeft en dit kan aantonen op   basis van een formeel document, dan wordt het inkomenstarief berekend op basis   van het inkomen vermeld op dat formeel document:<BR>1° bij de start van de   kinderopvang op basis van het inkomen van:<BR>a) de laatste maand die voorafgaat   aan de maand van de aanvraag van het attest inkomenstarief;<BR>b) in geval de   start van de kinderopvang onmiddellijk volgt op het moederschapsverlof, de   laatste maand voor de start van het moederschapsverlof;<BR>2° gedurende de   kinderopvang op basis van het inkomen van de maand die voorafgaat aan de maand   van de aanvraag van het attest inkomenstarief.<BR><BR>Als de contracthouder of,   als deze er is, de inwonende persoon geen inkomen heeft en dit kan aantonen op   basis van een formeel document, dan wordt het inkomenstarief berekend op basis   van dat ene inkomen. Als er geen inwonende persoon is dan geldt, in geval van   een formeel document, het standaard minimumtarief.<BR><BR>§ 2. De berekening   gebeurt op basis van de volgende principes:<BR>1° het inkomen, tot een bepaald   bedrag, wordt vermenigvuldigd met een coëfficiënt. Boven dat bepaalde bedrag   geldt een schijvensysteem;<BR>2° er geldt een standaard minimumtarief;<BR>3° er   geldt een maximumtarief;<BR>4° er gelden verminderingen.<BR><BR>§ 3. De minister   bepaalt de nadere regels, onder meer welk inkomen in aanmerking genomen wordt   bij gebrek aan een Belgisch aanslagbiljet voor personenbelasting en aanvullende   belastingen, welke inwonende persoon in aanmerking komt, de nadere principes van   de berekening van het inkomenstarief, het bedrag voor het standaard   minimumtarief, het bedrag voor het maximumtarief en de   indexering.</P>
+<p>§ 1. Het inkomenstarief bij de aanvraag van het attest inkomenstarief wordt als volgt berekend:<br>
+1° als de contracthouder een Belgische elektronische identiteitskaart of een Belgische elektronische vreemdelingenkaart heeft, dan worden bij aanmelding in het online instrument de volgende gegevens automatisch opgeladen:<br>
+a) de gezinssamenstelling zoals dat door de Kruispuntbank ter beschikking wordt gesteld, meer bepaald het aantal kinderen tot en met veertien jaar en inwonende personen. Als het systeem meer dan een persoon herkent als inwonende persoon, dan duidt de contracthouder handmatig aan wie de inwonende persoon is. Als de contracthouder meer kinderen ten laste heeft dan het systeem vermeldt, dan vermeldt de contracthouder handmatig de ontbrekende kinderen en duidt aan of ze ten laste zijn;<br>
+b) het inkomen van de contracthouder en, als er een inwonende persoon is, het inkomen van de inwonende persoon, op basis van het meest recente Belgische aanslagbiljet voor personenbelasting en aanvullende belastingen, zoals dat door de Federale Overheidsdienst Financiën ter beschikking wordt gesteld. Als er geen aanslagbiljet is, dan wordt het inkomen van de persoon voor wie er geen aanslagbiljet is, handmatig ingevuld conform het tweede lid;<br>
+2° als de contracthouder geen Belgische elektronische identiteitskaart of een Belgische elektronische vreemdelingenkaart heeft, dan wendt de contracthouder zich tot de organisator of het OCMW, die de volgende gegevens handmatig in het online instrument invoert:<br>
+a) de gezinssamenstelling, op basis van een verklaring op erewoord van de contracthouder;<br>
+b) het inkomen van de contracthouder en, als er een inwonende persoon is, het inkomen van de inwonende persoon, op basis van het meest recente Belgisch aanslagbiljet voor personenbelasting en aanvullende belastingen. Als er geen Belgische aanslagbiljet is, dan wordt het inkomen van de persoon voor wie er geen aanslagbiljet is, ingevuld conform het tweede lid.<br>
+<br>
+Als er geen aanslagbiljet is, dan wordt het inkomen ingevuld op basis van een formeel document. Het in te vullen inkomen, dat ook nul kan zijn, is naargelang van het moment een van de volgende:<br>
+1° bij de start van de kinderopvang, het inkomen van:<br>
+a) de laatste maand die voorafgaat aan de maand van de aanvraag van het attest inkomenstarief;<br>
+b) als start van de kinderopvang onmiddellijk volgt op het moederschapsverlof, de laatste maand voor de start van het moederschapsverlof;<br>
+2° gedurende de kinderopvang, het inkomen van de maand die voorafgaat aan de maand van de aanvraag van het attest inkomenstarief.<br>
+<br>
+Als blijkt uit het aanslagbiljet of het formeel document dat het inkomen van minstens één van de personen van wie het inkomen dient voor de berekening van het inkomenstarief, hoger dan nul is, dan wordt het inkomenstarief berekend op basis van dat inkomen.<br>
+<br>
+Als blijkt uit het aanslagbiljet of het formeel document dat het inkomen van alle personen van wie het inkomen dient voor de berekening van het inkomenstarief, nul is, dan geldt het standaard minimumtarief, vermeld in artikel 34, § 2, eerste lid, 2°.<br>
+<br>
+§ 2. De berekening gebeurt op basis van de volgende principes:<br>
+1° het inkomen, tot een bepaald bedrag, wordt vermenigvuldigd met een coëfficiënt. Boven dat bepaalde bedrag geldt een schijvensysteem;<br>
+2° er geldt een standaard minimumtarief;<br>
+3° er geldt een maximumtarief;<br>
+4° er gelden verminderingen.<br>
+<br>
+§ 3. De minister bepaalt de nadere regels, onder meer welk inkomen in aanmerking genomen wordt bij gebrek aan een Belgisch aanslagbiljet voor personenbelasting en aanvullende belastingen, welke inwonende persoon in aanmerking komt, de nadere principes van de berekening van het inkomenstarief, het bedrag voor het standaard minimumtarief, het bedrag voor het maximumtarief en de indexering.</p>
 
 ### ART. 34.
 
-<P>§ 1. Als de contracthouder op basis van een officieel document kan aantonen   dat het gezin onder een van volgende situaties valt, dan kan hij die situatie   aanvinken in het online instrument. Op basis hiervan zal het systeem automatisch   een individueel verminderd inkomenstarief bepalen. De volgende situaties kunnen   aangevinkt worden:<BR>1° de contracthouder of, als deze er is, de inwonende   persoon:<BR>a) krijgt op het moment van de aanvraag van een individueel   verminderd inkomenstarief, invaliditeitsuitkeringen volgens artikel 100 van de   wet van 14 juli 1994 betreffende de verplichte verzekering voor geneeskundige   verzorging en dat was nog niet gevat in het laatst berekende   inkomenstarief;<BR>b) heeft gedurende minstens zes opeenvolgende maanden die de   aanvraag van een individueel verminderd inkomenstarief voorafgaan, volledige   werkloosheidsuitkeringen ontvangen of heeft als zelfstandige een   faillissementsuitkering ontvangen, en dat was nog niet gevat in het laatst   berekende inkomenstarief;<BR>c) heeft een inkomen dat niet stijgt en de andere   persoon heeft een attest waaruit een verminderd inkomen blijkt, en waarbij die   situatie gedurende minstens twaalf opeenvolgende maanden blijft duren. Meer   bepaald blijkt uit het attest:<BR>1) in geval van een werknemer: dat hij een   inkomen zal hebben dat minstens 50% lager ligt ten opzichte van het inkomen dat   werd gebruikt voor het laatst berekende inkomenstarief;<BR>2) in geval van een   zelfstandige: dat hij voorlopige bijdragen betaalt op basis van een inkomen dat   werd vastgesteld overeenkomstig artikel 11, § 3, zesde lid, van het koninklijk   besluit nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der   zelfstandigen;<BR>d) ontvangt een leefloon als vermeld in de wet van 26 mei 2002   betreffende het recht op maatschappelijke integratie, of is leefloongerechtigd   door een beslissing tot toekennen van een leefloon van het OCMW;<BR>e) ontvangt   een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op   maatschappelijke integratie, of is leefloongerechtigd door een beslissing tot   toekennen van een leefloon van het OCMW, en minstens een van beide personen   heeft een attest van de VDAB of het OCMW betreffende een   opleidingstraject;<BR>2° de contracthouder en, als deze er is, de inwonende   persoon:<BR>a) heeft een inkomen dat lager ligt dan het inkomen dat leidt tot   het standaard minimumtarief en minstens een van beide personen volgt een   inburgeringstraject;<BR>b) heeft een inkomen dat lager ligt dan het inkomen dat   leidt tot het standaard minimumtarief en hebben beiden minstens een   tewerkstelling van gemiddeld 19 uren per week;<BR>c) heeft in toepassing van   artikel 57ter van de organieke wet van 8 juli 1976 betreffende de OCMW 's geen   recht op maatschappelijke dienstverlening van het OCMW, en beschikt over een   attest van het Federaal Agentschap voor de Opvang van Asielzoekers of een van   zijn partners in de zin van artikel 2, 9°, van de wet van 12 januari 2007   betreffende de opvang van asielzoekers en van bepaalde andere categorieën van   vreemdelingen waaruit blijkt dat het gezin recht heeft op materiële hulp zoals   bedoeld in artikel 2, 6°, van diezelfde wet van 12 januari 2007 of medische   begeleiding zoals bedoeld in de artikelen 24 en 25 van diezelfde wet van 12   januari 2007;<BR>3° de contracthouder vraagt het attest inkomenstarief aan voor   een pleegkind dat bij hem inwoont.<BR><BR>§ 2. Het individueel verminderd   inkomenstarief wordt bepaald in de vorm van:<BR>1° een vermindering van 25% of   50% van het berekende inkomenstarief;<BR>2° het standaard minimumtarief;<BR>3°   een uitzonderlijk minimumtarief;<BR>4° het laagst mogelijke   inkomenstarief.<BR><BR>Een individueel verminderd inkomenstarief wordt toegekend   voor één jaar, tenzij:<BR>1° voor een pleegkind, waarbij het tarief geldt tot   het pleegkind niet langer bij de contracthouder inwoont;<BR>2° er eerder een   moment is waarop de contracthouder een nieuw attest inkomenstarief moet   aanvragen als vermeld in artikel 32, derde lid.<BR><BR>§ 3. De minister bepaalt   de nadere regels, onder meer de bedragen van de individueel verminderde   inkomenstarieven.</P>
+<p>§ 1. Als de contracthouder op basis van een officieel document kan aantonen dat het gezin onder een van volgende situaties valt, dan kan hij die situatie aanvinken in het online instrument. Op basis hiervan zal het systeem automatisch een individueel verminderd inkomenstarief bepalen. De volgende situaties kunnen aangevinkt worden:<br>
+1° de contracthouder of, als deze er is, de inwonende persoon:<br>
+a) krijgt op het moment van de aanvraag van een individueel verminderd inkomenstarief, invaliditeitsuitkeringen volgens artikel 100 van de wet van 14 juli 1994 betreffende de verplichte verzekering voor geneeskundige verzorging en dat was nog niet gevat in het laatst berekende inkomenstarief;<br>
+b) heeft gedurende minstens zes opeenvolgende maanden die de aanvraag van een individueel verminderd inkomenstarief onmiddellijk voorafgaan, volledige werkloosheidsuitkeringen ontvangen of heeft als zelfstandige een faillissementsuitkering ontvangen. Het officieel document dat gehanteerd wordt ter staving mag echter niet een attest zijn van een bevoegde instantie inzake werkloosheidsuitkeringen of faillissementsuitkeringen. Indien de betrokken periode minstens 12 opeenvolgende maanden betreft, mag het officieel document ter staving evenmin een aanslagbiljet zijn waarop de betrokken uitkering reeds onderdeel uitmaakt van het inkomen;<br>
+c) heeft een inkomen dat niet stijgt en de andere persoon heeft een attest waaruit een verminderd inkomen blijkt, en waarbij die situatie gedurende minstens twaalf opeenvolgende maanden blijft duren. Meer bepaald blijkt uit het attest:<br>
+1) in geval van een werknemer: dat hij een inkomen zal hebben dat minstens 50% lager ligt ten opzichte van het inkomen dat werd gebruikt voor het laatst berekende inkomenstarief;<br>
+2) in geval van een zelfstandige: dat hij voorlopige bijdragen betaalt op basis van een inkomen dat werd vastgesteld overeenkomstig artikel 11, § 3, zesde lid, van het koninklijk besluit nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen;<br>
+d) ontvangt een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, of is leefloongerechtigd door een beslissing tot toekennen van een leefloon van het OCMW;<br>
+e) ontvangt een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, of is leefloongerechtigd door een beslissing tot toekennen van een leefloon van het OCMW, en minstens een van beide personen heeft een attest van de VDAB of het OCMW betreffende een opleidingstraject;<br>
+2° de contracthouder en, als deze er is, de inwonende persoon:<br>
+a) heeft een inkomen dat lager ligt dan het inkomen dat leidt tot het standaard minimumtarief en minstens een van beide personen volgt een inburgeringstraject;<br>
+b) heeft een inkomen dat lager ligt dan het inkomen dat leidt tot het standaard minimumtarief en hebben beiden minstens een tewerkstelling van gemiddeld 19 uren per week;<br>
+c) heeft in toepassing van artikel 57ter van de organieke wet van 8 juli 1976 betreffende de OCMW 's geen recht op maatschappelijke dienstverlening van het OCMW, en beschikt over een attest van het Federaal Agentschap voor de Opvang van Asielzoekers of een van zijn partners in de zin van artikel 2, 9°, van de wet van 12 januari 2007 betreffende de opvang van asielzoekers en van bepaalde andere categorieën van vreemdelingen waaruit blijkt dat het gezin recht heeft op materiële hulp zoals bedoeld in artikel 2, 6°, van diezelfde wet van 12 januari 2007 of medische begeleiding zoals bedoeld in de artikelen 24 en 25 van diezelfde wet van 12 januari 2007;<br>
+3° de contracthouder vraagt het attest inkomenstarief aan voor een pleegkind dat bij hem inwoont.<br>
+<br>
+§ 2. Het individueel verminderd inkomenstarief wordt bepaald in de vorm van:<br>
+1° een vermindering van 25% of 50% van het berekende inkomenstarief;<br>
+2° het standaard minimumtarief;<br>
+3° een uitzonderlijk minimumtarief;<br>
+4° het laagst mogelijke inkomenstarief.<br>
+<br>
+Een individueel verminderd inkomenstarief wordt toegekend voor één jaar, tenzij:<br>
+1° voor een pleegkind, waarbij het tarief geldt tot het pleegkind niet langer bij de contracthouder inwoont;<br>
+2° er eerder een moment is waarop de contracthouder een nieuw attest inkomenstarief moet aanvragen als vermeld in artikel 32, derde lid.<br>
+<br>
+§ 3. De minister bepaalt de nadere regels, onder meer de bedragen van de individueel verminderde inkomenstarieven.</p>
 
 ### ART. 34/1.
 
-De contracthouder met een attest inkomenstarief kan het OCMW verzoeken om   een nieuw inkomenstarief te bepalen. Als blijkt dat het voor de contracthouder   financieel onmogelijk is om het laatst berekende inkomenstarief of het laatst   bepaalde individueel verminderd inkomenstarief te betalen, bepaalt het OCMW een   individueel verminderd inkomenstarief.<BR><BR>Het OCMW geeft het bedrag van het   individueel verminderd inkomenstarief elektronisch door aan Kind en Gezin. Het   OCMW kan beslissen dat het bedrag wordt toegepast met terugwerkende   kracht.<BR><BR>Als de contracthouder in het tweetalige gebied Brussel-Hoofdstad   woont, neemt de organisator de rol van het OCMW op zich als het OCMW die rol   niet opneemt. De organisator is in dat geval gebonden aan de bepalingen, vermeld   in dit artikel, die gelden voor het OCMW.<BR><BR>De minister bepaalt de nadere   regels, onder meer de bedragen van de individueel verminderde   inkomenstarieven.
+De contracthouder met een attest inkomenstarief kan het OCMW verzoeken om een nieuw inkomenstarief te bepalen. Als blijkt dat het voor de contracthouder financieel onmogelijk is om het laatst berekende inkomenstarief of het laatst bepaalde individueel verminderd inkomenstarief te betalen, bepaalt het OCMW een individueel verminderd inkomenstarief.<br>
+<br>
+Het OCMW geeft het bedrag van het individueel verminderd inkomenstarief elektronisch door aan Kind en Gezin. Het OCMW kan beslissen dat het bedrag wordt toegepast met terugwerkende kracht tot maximaal zes maanden, te rekenen vanaf de eerste dag van de maand waarin het OCMW beslist. Een individueel verminderd inkomenstarief wordt toegekend voor minstens één jaar, waarbij de einddatum telkens de laatste dag van het kwartaal is waarin het attest inkomenstarief een jaar geldigheid bereikt, tenzij er eerder een moment is waarop de contracthouder een nieuw attest inkomenstarief moet aanvragen als vermeld in artikel 32, derde lid.<br>
+<br>
+Als de contracthouder in het tweetalige gebied Brussel-Hoofdstad woont, neemt de organisator de rol van het OCMW op zich als het OCMW die rol niet opneemt. De organisator is in dat geval gebonden aan de bepalingen, vermeld in dit artikel, die gelden voor het OCMW.<br>
+<br>
+De minister bepaalt de nadere regels, onder meer de bedragen van de individueel verminderde inkomenstarieven.
 
 ## Onderafdeling 4 Facturatie en inning inkomenstarief
 
@@ -336,7 +461,15 @@ De organisator waarschuwt de contracthouder vooraf over de situaties, vermeld in
 
 ### ART. 36/1.
 
-<P>Binnen de drie maanden na het toekennen van het attest inkomenstarief kan de   contracthouder fouten op zijn attest inkomenstarief melden aan Kind en Gezin,   volgens de administratieve richtlijnen van Kind en Gezin. Als dit aanleiding   geeft tot een nieuwe toekenning van een attest inkomenstarief, bezorgt de   contracthouder het nieuwe attest inkomenstarief aan de organisator. Kind en   Gezin doet geen rechtzetting voor het verleden.</P>
+Na het toekennen van het attest inkomenstarief kan de contracthouder fouten op zijn attest inkomenstarief melden aan Kind en Gezin, volgens de administratieve richtlijnen van Kind en Gezin.<br>
+<br>
+Kind en Gezin doet een rechtzetting als er effectief een fout was bij de berekening op basis waarvan het attest inkomenstarief werd toegekend, in welk geval de contracthouder het nieuwe attest inkomenstarief bezorgt aan de organisator. Een rechtzetting kan alleen voor een huidig geldend attest inkomenstarief verkregen worden, tenzij het huidig geldende attest inkomenstarief een indexatie betreft, in welk geval het voorafgaande attest inkomenstarief kan worden rechtgezet.<br>
+<br>
+Kind en Gezin doet geen rechtzetting voor het verleden, tenzij:<br>
+1° het een rechtzetting betreft waarbij de startdatum van het eerst toegekende attest inkomenstarief met maximum een maand vervroegd wordt doordat de kinderopvang eerder start;<br>
+2° op gemotiveerd verzoek van de organisator voor fouten in het systeem of voor fouten naar aanleiding van verkeerde input van de contracthouder, of in geval van de toepassing van artikel 34/1, van verkeerde input van het OCMW of de organisator.<br>
+<br>
+De rechtzetting wordt toegepast met een terugwerkende kracht tot maximum negen maanden vanaf de eerste dag van de maand waarin de organisator de fout meldt en rekening houdend met de termijnen voor de rechtzetting na een saldoafrekening ten aanzien van de organisator.
 
 ## TITEL 4 Plussubsidie
 
@@ -568,7 +701,18 @@ Het bedrag van de basissubsidie voor groepsopvang, vermeld in artikel 12,   word
 
 ### ART. 58.
 
-<P>§ 1. De subsidie voor inkomenstarief voor gezinsopvang, vermeld in artikel   17, wordt gedurende een overgangsperiode van vijf jaar vanaf de datum van   inwerkingtreding van het decreet van 20 april 2012 niet toegekend voor   kinderopvangplaatsen die voordien gesubsidieerd waren voor diensten voor   onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari   2001 houdende de voorwaarden inzake erkenning en subsidiëring van   kinderdagverblijven en diensten voor onthaalouders. Gedurende de   overgangsperiode geldt dat de subsidie is opgebouwd uit :<BR>1° een deel op   basis van kinderopvangprestaties als vermeld in artikel 17, eerste lid, 1°   ;<BR>2° een deel op basis van de leeftijd van de personen, vermeld in artikel   17, eerste lid, 2° ;<BR>3° een deel op basis van het samenwerkingsverband, dat   26,37 euro per gesubsidieerde kinderopvangplaats per kalenderjaar bedraagt.   Daarvoor wordt rekening gehouden met het aantal subsidieerbare   kinderopvangplaatsen van de organisator op 31 december van het subsidiejaar,   tenzij dat aantal subsidieerbare kinderopvangplaatsen hoger is dan de erkende   capaciteit van de organisator op 31 december 2013. In dat geval wordt het aantal   gesubsidieerde kinderopvangplaatsen beperkt tot de erkende capaciteit.<BR></P>  <P>De organisator wendt de subsidie, vermeld in het eerste lid, 3°, aan voor een   samenwerkingsverband dat voldoet aan de volgende voorwaarden :<BR>1° een   samenwerking hebben voor minstens achthonderd kinderopvangplaatsen   gezinsopvang;<BR>2° een halftijdse medewerker hebben.<BR></P>  <P>§ 2. De subsidie voor inkomenstarief voor gezinsopvang, meer bepaald het deel   op basis van de leeftijd van de personen, vermeld in artikel 17, eerste lid, 2°,   wordt gedurende een overgangsperiode van zes jaar vanaf de datum van   inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in   artikel 17, derde lid, 1° en 2°, voor kinderopvangplaatsen die voordien   gesubsidieerd waren tegen het tarief voor een openbaar bestuur op basis van het   besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden   inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor   onthaalouders. Gedurende de overgangsperiode gelden de volgende bedragen :<BR>1°   de subsidie bedraagt 343,75 euro per gesubsidieerde kinderopvangplaats per   kalenderjaar, als de gemiddelde leeftijd van de personen, vermeld in artikel 17,   eerste lid, 2°, twintig jaar is;<BR>2° voor elk jaar boven op de gemiddelde   leeftijd van twintig jaar wordt de subsidie verhoogd met 5,91 euro per   gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van   zestig jaar.<BR></P>
+<p>§ 1. De subsidie voor inkomenstarief voor gezinsopvang, vermeld in artikel 17, wordt gedurende een overgangsperiode van vijf jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend voor kinderopvangplaatsen die voordien gesubsidieerd waren voor diensten voor onthaalouders op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode geldt dat de subsidie is opgebouwd uit :<br>
+1° een deel op basis van kinderopvangprestaties als vermeld in artikel 17, eerste lid, 1° ;<br>
+2° een deel op basis van de leeftijd van de personen, vermeld in artikel 17, eerste lid, 2° ;<br>
+3° een deel op basis van het samenwerkingsverband, dat 26,37 euro per gesubsidieerde kinderopvangplaats per kalenderjaar bedraagt. Daarvoor wordt rekening gehouden met het aantal gesubsidieerde kinderopvangplaatsen van de organisator op 31 december van het subsidiejaar, tenzij dat aantal gesubsidieerde kinderopvangplaatsen hoger is dan de erkende capaciteit van de organisator op 31 december 2013. In dat geval wordt het aantal gesubsidieerde kinderopvangplaatsen beperkt tot de erkende capaciteit.</p>
+
+<p>De organisator wendt de subsidie, vermeld in het eerste lid, 3°, aan voor een samenwerkingsverband dat voldoet aan de volgende voorwaarden :<br>
+1° een samenwerking hebben voor minstens achthonderd kinderopvangplaatsen gezinsopvang;<br>
+2° een halftijdse medewerker hebben.</p>
+
+<p>§ 2. De subsidie voor inkomenstarief voor gezinsopvang, meer bepaald het deel op basis van de leeftijd van de personen, vermeld in artikel 17, eerste lid, 2°, wordt gedurende een overgangsperiode van zes jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 niet toegekend als vermeld in artikel 17, derde lid, 1° en 2°, voor kinderopvangplaatsen die voordien gesubsidieerd waren tegen het tarief voor een openbaar bestuur op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders. Gedurende de overgangsperiode gelden de volgende bedragen :<br>
+1° de subsidie bedraagt 343,75 euro per gesubsidieerde kinderopvangplaats per kalenderjaar, als de gemiddelde leeftijd van de personen, vermeld in artikel 17, eerste lid, 2°, twintig jaar is;<br>
+2° voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 5,91 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van zestig jaar.</p>
 
 ### ART. 59.
 
