@@ -111,8 +111,8 @@ De Brownfieldcel bestaat minstens uit:<br>
 1° een vertegenwoordiger van de Vlaamse minister, bevoegd voor Economie;<br>
 2° een vertegenwoordiger van de Vlaamse minister bevoegd voor Omgeving;<br>
 3° de leidend ambtenaar van het Agentschap voor Innoveren en Ondernemen van het beleidsdomein Economie, Wetenschap en Innovatie;<br>
-4° de leidend ambtenaar van het Departement Ruimte Vlaanderen van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
-5° de leidend ambtenaar de Openbare Vlaamse Afvalstoffenmaatschappij van het beleidsdomein Leefmilieu, Natuur en Energie;<br>
+4° de leidend ambtenaar van het Departement Omgeving van het beleidsdomein Omgeving<br>
+5° de leidend ambtenaar de Openbare Vlaamse Afvalstoffenmaatschappij van het beleidsdomein Omgeving;<br>
 6° de leidend ambtenaar het Departement Mobiliteit en Openbare Werken van het beleidsdomein Mobiliteit en Openbare Werken.<br>
 <br>
 Op vraag van de brownfieldcel kan de Vlaamse minister, bevoegd voor Economie de Brownfieldcel uitbreiden met experten.<br>
