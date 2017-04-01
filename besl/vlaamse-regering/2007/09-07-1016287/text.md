@@ -14,7 +14,14 @@ Dit besluit heeft betrekking op Brownfieldconvenanten als bedoeld in het decreet
 
 ### ART. 2.
 
-Binnen een termijn van veertien kalenderdagen na de ondertekening van het   Brownfieldconvenant, bezorgt het departement Ruimtelijke Ordening, Woonbeleid en   Onroerend Erfgoed een afschrift van het Brownfieldconvenant aan :<BR>1° het   Agentschap Innoveren en Ondernemen;<BR>2° de gemeente(n) op wiens grondgebied   het Brownfieldconvenant betrekking heeft.<BR><BR>Voor de toepassing van het   eerste lid wordt onder « afschrift » verstaan :<BR>1° hetzij een   fotokopie;<BR>2° hetzij een digitale kopie.<BR><BR>
+Binnen een termijn van veertien kalenderdagen na de ondertekening van het Brownfieldconvenant, bezorgt het Departement Omgeving een afschrift van het Brownfieldconvenant aan :<br>
+1° het Agentschap Innoveren en Ondernemen;<br>
+2° de gemeente(n) op wiens grondgebied het Brownfieldconvenant betrekking heeft.<br>
+<br>
+Voor de toepassing van het eerste lid wordt onder « afschrift » verstaan :<br>
+1° hetzij een fotokopie;<br>
+2° hetzij een digitale kopie.<br>
+&nbsp;
 
 ## HOOFDSTUK 3 Informatieplichten van het [Agentschap Innoveren en Ondernemen (verv. BVR 18 december 2015, art. 53, I: 1 januari 2016)]
 
