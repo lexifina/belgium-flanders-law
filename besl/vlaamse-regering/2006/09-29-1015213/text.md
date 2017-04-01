@@ -23,7 +23,14 @@ Besluit :<br>
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />2° ...<br />3° erkende samenwerkings- en overlegstructuur : de organisatie als vermeld in artikel 57 van de Vlaamse Wooncode;<br />4° minister : de Vlaamse minister, bevoegd voor de Huisvesting;<br />5° regionaal steunpunt : een deelwerking van een erkende huurdersorganisaties met een centraal secretariaat;<br />6° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, zoals gewijzigd.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving;<br>
+2° ...<br>
+3° erkende samenwerkings- en overlegstructuur : de organisatie als vermeld in artikel 57 van de Vlaamse Wooncode;<br>
+4° minister : de Vlaamse minister, bevoegd voor de Huisvesting;<br>
+5° regionaal steunpunt : een deelwerking van een erkende huurdersorganisaties met een centraal secretariaat;<br>
+6° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, zoals gewijzigd.<br>
+&nbsp;
 
 ## HOOFDSTUK II Opdrachten van de huurdersorganisatie
 

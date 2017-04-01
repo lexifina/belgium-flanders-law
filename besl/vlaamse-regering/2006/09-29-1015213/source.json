@@ -2,16 +2,16 @@
   "codex_id": 1015213,
   "title": "Besluit van de Vlaamse Regering van 2006-09-29 houdende de erkenning en subsidiëring van huurdersorganisaties",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015213/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "bebd065985d35d88937d2556358184ab1b845c75b25e48ea024e95b3bbd57b06",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015213/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "b9856e2ee2fe02add2df2ab1396cbc30cfbb5845726d1cb5ca3a1899ad539fe6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015213&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2017-04-01",
   "made": "2006-09-29",
   "gazette": "2006-11-30",
   "numac": 2006036910,
   "document_start": "2006-01-01",
   "document_end": "2020-12-31",
-  "in_force": "2015-01-01",
+  "in_force": "2017-04-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
