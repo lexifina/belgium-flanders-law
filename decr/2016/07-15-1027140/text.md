@@ -137,6 +137,10 @@ In artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de 
 
 ## Onderafdeling 3. Opheffing van het koninklijk besluit van 21 april 1983 tot vaststelling van de nadere regelen voor erkenning van geneesheren-specialisten en van huisartsen
 
+### ART 36.
+
+Het koninklijk besluit van 21 april 1983 tot vaststelling van de nadere regelen voor erkenning van geneesheren-specialisten en van huisartsen, gewijzigd bij de koninklijke besluiten van 8 augustus 1984, 13 maart 1985, 12 augustus 1985, 13 juni 1986, 16 maart 1999, 26 mei 1999 en 10 februari 2008, de wet van 10 december 2008, het koninklijk besluit van 17 juli 2009, de wet van 23 december 2009 en de koninklijke besluiten van 28 juni 2011, 24 oktober 2013, 19 april 2014, 17 juli 2015 en 29 februari 2016, wordt opgeheven, met uitzondering van hoofdstuk IV ervan.
+
 ## Afdeling 5. Overlegplatforms geestelijke gezondheidszorg
 
 ## Afdeling 6. Ouderenzorg
