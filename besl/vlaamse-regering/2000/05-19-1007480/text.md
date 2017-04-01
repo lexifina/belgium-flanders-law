@@ -6,7 +6,7 @@
 
 Voor de toepassing van dit besluit wordt verstaan onder:<br>
 1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br>
-2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+2° het departement : het Departement Omgeving;<br>
 3° ...<br>
 4° ...
 
