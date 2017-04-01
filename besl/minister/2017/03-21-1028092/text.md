@@ -38,9 +38,30 @@ Overwegende dat een betere spreiding van de aanvoer van tongschar en witje en va
 <br>
 Besluit :
 
+### ART 1.
+
+Aan artikel 7, paragraaf 1, van het ministerieel besluit van 22 december 2016 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, gewijzigd bij het ministerieel besluit van 3 maart 2017, wordt een zesde lid toegevoegd, dat luidt als volgt:<br>
+"In afwijking van het eerste lid, punt 11, is de aanvoerlengte van 25 cm voor tong niet van toepassing voor een vissersvaartuig met een motorvermogen van 221 kW of minder en een bruto tonnenmaat van niet meer dan 70 GT en voor visreizen, die volledig in de Noordzee plaatsvinden.".
+
 ### ART 2.
 
 Aan artikel 23, paragraaf 2, van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 27 januari 2017, worden een vijfde en zesde lid toegevoegd, die luiden als volgt:<br>
 "In afwijking van het eerste lid is het voor een vissersvaartuig met een motorvermogen van 221 kW of minder, in de periode van 21 maart 2017 tot en met 30 april 2017 en dit zolang geen 60 % van het quotum is benut, verboden bij de tongvangsten per zeereis in de ICES-gebieden VIId een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in het desbetreffende ICES-gebied.<br>
 <br>
 In afwijking van het tweede lid is het voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, in de periode van 21 maart 2017 tot en met 30 april 2017 en dit zolang geen 60 % van het quotum is benut, verboden bij de tongvangsten per zeereis in het ICES-gebied VIId een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in het desbetreffende ICES-gebied.".
+
+### ART 3.
+
+Aan artikel 28 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 27 januari 2017, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 4 worden een tweede en derde lid toegevoegd, die luiden als volgt:<br>
+"In afwijking van het eerste lid is het voor een vissersvaartuig, in de periode van 1 april 2017 tot en met 31 december 2017 en dit zolang geen 80 % van het quotum is benut, verboden bij de bot- en scharvangsten per zeereis in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium), een hoeveelheid te overschrijden die gelijk is aan 2000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
+In afwijking van het eerste lid kan een vissersvaartuig met TR 1 tuig, in de periode van 1 juni 2017 tot en met 30 september 2017 zolang geen 67 % van het quotum is benut, vrij vissen op bot en schar.";<br>
+2° aan paragraaf 5 wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"In afwijking van het eerste en tweede lid is het in de periode van 1 april 2017 tot en met 31 december 2017 in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig verboden bij de tongschar en witjevangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.";<br>
+3° in paragraaf 6 worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt het getal "250" vervangen door het getal "500";<br>
+2° in het tweede lid wordt het getal "500" vervangen door het getal "1000".
+
+### ART 4.
+
+Dit besluit treedt in werking op 1 april 2017 met uitzondering van artikel 2 dat in werking treedt op 21 maart 2017. Het houdt op van kracht te zijn op 1 januari 2018.
