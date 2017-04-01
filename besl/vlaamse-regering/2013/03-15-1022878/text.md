@@ -54,7 +54,11 @@ Het Actieplan bevat ten minste de gegevens en maatregelen, opgesomd in de   bijl
 
 ### ART. 10.
 
-De Stuurgroep wordt als volgt samengesteld: <BR>1° vier vertegenwoordigers   van het beleidsdomein Leefmilieu, Natuur en Energie;<BR>2° twee   vertegenwoordigers van het beleidsdomein Landbouw en Visserij;<BR>3° één   vertegenwoordiger van het beleidsdomein Welzijn, Volksgezondheid en Gezin;   <BR>4° één vertegenwoordiger van het beleidsdomein Mobiliteit en Openbare   Werken.<BR>
+De Stuurgroep wordt als volgt samengesteld:<br>
+1° vier vertegenwoordigers van het beleidsdomein Omgeving;<br>
+2° twee vertegenwoordigers van het beleidsdomein Landbouw en Visserij;<br>
+3° één vertegenwoordiger van het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
+4° één vertegenwoordiger van het beleidsdomein Mobiliteit en Openbare Werken.
 
 ### ART. 11.
 
