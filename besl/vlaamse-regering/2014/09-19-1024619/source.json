@@ -2,16 +2,16 @@
   "codex_id": 1024619,
   "title": "Besluit van de Vlaamse Regering van 2014-09-19 tot het verlenen van subsidies voor beheerovereenkomsten met toepassing van Verordening (EU) nr. 1305/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor plattelandsontwikkeling",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024619/VolledigDocument?datum=2016-09-29",
-  "source_sha256": "276937d983e1dd5de0942079232c2d7fdfbc16536836baf65d26e019cb6d0c16",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024619/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "5ae1ff6455b6ee122be6af4d76e5d2d8a7650632bbbdf81346d8a325a21470c1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024619&param=informatie",
-  "as_of": "2016-09-29",
+  "as_of": "2017-04-01",
   "made": "2014-09-19",
   "gazette": "2014-10-01",
   "numac": 2014036668,
   "document_start": "2014-10-11",
   "document_end": "2099-12-31",
-  "in_force": "2016-09-29",
+  "in_force": "2017-04-01",
   "article_versions": 45,
-  "record_form": "consolidated version as in force on 2016-09-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
