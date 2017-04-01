@@ -2,7 +2,22 @@
 
 ### ART. 1.
 
-De afdeling, bevoegd voor milieu-integratie en -subsidiëringen wordt vanaf 1 september 2003 belast met de uitvoering van het "Programma Natuur- en Milieueducatie" in Vlaanderen. In dit besluit wordt verstaan onder de afdeling, bevoegd voor milieu-integratie en -subsidiëringen : de afdeling Milieu-integratie en -subsidiëringen van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries. <br /><br />Het Programma Natuur- en Milieueducatie is van onbepaalde duur en voorziet in volgende opdrachten:<br />- beleidsondersteuning en coördinatie inzake NME;<br />- continue opvolging van het NME-veld;<br />- interactieve netwerking inzake NME;<br />- ontwikkeling van innoverende NME-methodieken en -inhouden en voor het NME-aanbod voor intermediairen uit het onderwijs en uit andere sectoren en voor ook andere (dan scholieren) doelgroepen;<br />- functie als kenniscentrum van NME;<br />- functie als informatiecentrum en permanent infopunt;<br />- kwaliteitsbewaking van NME.<br /><br />Jaarlijks wordt vóór 30 november het NME-jaarprogramma van het daaropvolgende jaar voor advies voorgelegd aan de Inspectie van Financiën en vervolgens ter goedkeuring voorgelegd aan de bevoegde minister teneinde de nodige vastleggingen te kunnen doen in de eerste twee weken van januari.<br /><br />Als jaarlijkse verantwoording van de werking wordt vóór het einde van elk eerste kwartaal van het daaropvolgende jaar een jaarrapport voorgelegd aan de bevoegde minister.<br /><br />De gedetailleerde begroting en het personeelsbestand wordt opgenomen als bijlage 1 van dit besluit.
+Het Departement Omgeving is belast met de uitvoering van het Programma Natuur- en Milieueducatie in Vlaanderen.<br>
+<br>
+Het Programma Natuur- en Milieueducatie is van onbepaalde duur en voorziet in volgende opdrachten:<br>
+- beleidsondersteuning en coördinatie inzake NME;<br>
+- continue opvolging van het NME-veld;<br>
+- interactieve netwerking inzake NME;<br>
+- ontwikkeling van innoverende NME-methodieken en -inhouden en voor het NME-aanbod voor intermediairen uit het onderwijs en uit andere sectoren en voor ook andere (dan scholieren) doelgroepen;<br>
+- functie als kenniscentrum van NME;<br>
+- functie als informatiecentrum en permanent infopunt;<br>
+- kwaliteitsbewaking van NME.<br>
+<br>
+Jaarlijks wordt vóór 30 november het NME-jaarprogramma van het daaropvolgende jaar voor advies voorgelegd aan de Inspectie van Financiën en vervolgens ter goedkeuring voorgelegd aan de bevoegde minister teneinde de nodige vastleggingen te kunnen doen in de eerste twee weken van januari.<br>
+<br>
+Als jaarlijkse verantwoording van de werking wordt vóór het einde van elk eerste kwartaal van het daaropvolgende jaar een jaarrapport voorgelegd aan de bevoegde minister.<br>
+<br>
+De gedetailleerde begroting en het personeelsbestand wordt opgenomen als bijlage 1 van dit besluit.
 
 ### ART. 2.
 
@@ -10,15 +25,31 @@ De totale loonmassa voor elk begrotingsjaar zal pro rata temporis worden vastgel
 
 ### ART. 3.
 
-Tewerkstellingsformules<br /><br />Gedetacheerde leerkrachten<br /><br />Hieronder moet worden verstaan: leerkrachten die van hun Schoolbestuur de toelating bekomen voor het opnemen van een 'Verlof wegens opdracht'. De toekenning van dit verlof gebeurt bij Ministerieel Besluit van de minister bevoegd voor het Onderwijs voor zover het om leerkrachten uit het basisonderwijs of het secundair onderwijs gaat. Voor leerkrachten uit het hoger onderwijs worden overeenkomsten afgesloten tussen de hogescholen en de administratie. In de beide gevallen worden de loonkosten en toeslagen aan de afdeling, bevoegd voor milieu-integratie en -subsidiëringen gefactureerd en respectievelijk aan het departement Onderwijs en aan de hogescholen terugbetaald.<br /><br />Zij worden geselecteerd op basis van specifieke competenties op deze terreinen.<br /><br />Contractueel personeel met een contract van onbepaalde duur voor NME-taken.<br /><br />Deze contractuele personeelsleden worden samen met de gedetacheerden als één NME-ploeg rechtstreeks ingezet voor de beleidsondersteunende en coördinerende opdracht, voor de opvolging en ontwikkeling van innoverende NME-methodieken en -inhouden en voor het NME-aanbod voor intermediairen uit andere sectoren dan onderwijs en voor ook andere (dan scholieren) doelgroepen. Zij worden geselecteerd op basis van specifieke competenties op deze terreinen; voor één medewerk(st)er wordt extra expertise verwacht op het vlak van grafiek, webstek-technologie en IT-kennis.<br /><br />De loonkost wordt rechtstreeks uitbetaald door het Departement Leefmilieu, Natuur en Energie.<br /><br />Contractueel personeel voor administratieve ondersteuning<br /><br />Voor de administratieve ondersteuning van de NME-ploeg wordt administratief personeel met een contract van onbepaalde duur ingezet. Aan dit personeel worden geen specifieke vereisten inzake NME gesteld voor deze tewerkstelling. De loonkost wordt rechtstreeks uitbetaald door het Departement Leefmilieu, Natuur en Energie.
+Tewerkstellingsformules<br>
+<br>
+Gedetacheerde leerkrachten<br>
+<br>
+Hieronder moet worden verstaan: leerkrachten die van hun Schoolbestuur de toelating bekomen voor het opnemen van een 'Verlof wegens opdracht'. De toekenning van dit verlof gebeurt bij Ministerieel Besluit van de minister bevoegd voor het Onderwijs voor zover het om leerkrachten uit het basisonderwijs of het secundair onderwijs gaat. Voor leerkrachten uit het hoger onderwijs worden overeenkomsten afgesloten tussen de hogescholen en de administratie. In de beide gevallen worden de loonkosten en toeslagen aan de afdeling, bevoegd voor milieu-integratie en -subsidiëringen gefactureerd en respectievelijk aan het departement Onderwijs en aan de hogescholen terugbetaald.<br>
+<br>
+Zij worden geselecteerd op basis van specifieke competenties op deze terreinen.<br>
+<br>
+Contractueel personeel met een contract van onbepaalde duur voor NME-taken.<br>
+<br>
+Deze contractuele personeelsleden worden samen met de gedetacheerden als één NME-ploeg rechtstreeks ingezet voor de beleidsondersteunende en coördinerende opdracht, voor de opvolging en ontwikkeling van innoverende NME-methodieken en -inhouden en voor het NME-aanbod voor intermediairen uit andere sectoren dan onderwijs en voor ook andere (dan scholieren) doelgroepen. Zij worden geselecteerd op basis van specifieke competenties op deze terreinen; voor één medewerk(st)er wordt extra expertise verwacht op het vlak van grafiek, webstek-technologie en IT-kennis.<br>
+<br>
+De loonkost wordt rechtstreeks uitbetaald door het Departement Omgeving.<br>
+<br>
+Contractueel personeel voor administratieve ondersteuning<br>
+<br>
+Voor de administratieve ondersteuning van de NME-ploeg wordt administratief personeel met een contract van onbepaalde duur ingezet. Aan dit personeel worden geen specifieke vereisten inzake NME gesteld voor deze tewerkstelling. De loonkost wordt rechtstreeks uitbetaald door het Departement Omgeving.
 
 ### ART. 4.
 
-De terugbetaling van de lonen en toeslagen van de gedetacheerde leraars met een 'Verlof wegens opdracht' respectievelijk aan het departement Onderwijs en de betreffende hogescholen zal gebeuren door het Departement Leefmilieu, Natuur en Energie.
+De terugbetaling van de lonen en toeslagen van de gedetacheerde leraars met een 'Verlof wegens opdracht' respectievelijk aan het departement Onderwijs en de betreffende hogescholen zal gebeuren door het Departement Omgeving.
 
 ### ART. 5.
 
-De financiële opvolging zal gebeuren door de afdeling, bevoegd voor milieu-integratie en -subsidiëringen.
+De financiële opvolging zal gebeuren door het Departement Omgeving.
 
 ### ART. 6.
 
