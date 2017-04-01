@@ -34,7 +34,9 @@ De Vlaamse minister bevoegd voor de huisvesting en de Vlaamse minister bevoegd v
 
 ### ART. 6.
 
-De procedure tot erkenning, hernieuwing of weigering verloopt zoals bepaald in hoofdstuk IV van het besluit Lokale Diensteneconomie.<br /><br />Het modelformulier en de handleiding, vermeld in artikel 6, tweede lid van hetzelfde besluit, worden specifiek voor de toepassing van dit besluit aangepast, na overleg met het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, en ter beschikking gesteld van de SHM's.
+De procedure tot erkenning, hernieuwing of weigering verloopt zoals bepaald in hoofdstuk IV van het besluit Lokale Diensteneconomie.<br>
+<br>
+Het modelformulier en de handleiding, vermeld in artikel 6, tweede lid van hetzelfde besluit, worden specifiek voor de toepassing van dit besluit aangepast, na overleg met het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving, en ter beschikking gesteld van de SHM's.
 
 ## HOOFDSTUK V. Informatiedoorstroming
 
