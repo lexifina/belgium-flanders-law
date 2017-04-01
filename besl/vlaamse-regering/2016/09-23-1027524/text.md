@@ -27,8 +27,7 @@ Besluit :<br>
 
 In dit besluit wordt verstaan onder:<br>
 1° besluit van 27 november 2015: het besluit van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
-2° departementen: het Departement Ruimte Vlaanderen, vermeld in artikel 29, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, en het Departement Leefmilieu, Natuur en Energie, vermeld in artikel 27, § 1, van het voormelde besluit, gezamenlijk.<br>
-&nbsp;
+2° departement: het Departement Omgeving.
 
 ### ART 2.
 
@@ -36,7 +35,7 @@ In dit artikel wordt verstaan onder omgevingsloket: het digitale loket, vermeld 
 <br>
 Binnen de perken van de daarvoor bestemde kredieten op de begroting van de Vlaamse Gemeenschap wordt een subsidie van 3000 euro (drieduizend euro) toegekend aan de Vlaamse gemeenten en de Vlaamse provincies die op 1 december 2016 nog niet op het uitwisselingsplatform digitale bouwaanvraag zijn aangesloten en het omgevingsloket gebruiken vanaf 23 februari 2017, als tegemoetkoming in de noodzakelijke investeringen met het oog op de digitale behandeling en verwerking, en de uitwisseling van dossiers via het omgevingsloket.<br>
 <br>
-De departementen betalen die subsidie uiterlijk uit op 1 september 2017 als de gemeente of de provincie vóór 1 juni 2017 de departementen heeft laten weten op welk rekeningnummer de subsidie uitbetaald kan worden.<br>
+Het departement betaalt&nbsp;die subsidie uiterlijk uit op 1 september 2017 als de gemeente of de provincie vóór 1 juni 2017 het departement heeft laten weten op welk rekeningnummer de subsidie uitbetaald kan worden.<br>
 &nbsp;
 
 ### ART 3.
@@ -50,9 +49,9 @@ De subsidie, vermeld in het tweede lid, bedraagt:<br>
 2° 4500 euro (vierduizend vijfhonderd euro) als de Vlaamse gemeente of de Vlaamse provincie op het uitwisselingsplatform omgevingsvergunning aansluit in de periode van 23 februari 2017 tot en met 22 augustus 2017;<br>
 3° 3000 euro (drieduizend euro) als de Vlaamse gemeente of de Vlaamse provincie op het uitwisselingsplatform omgevingsvergunning aansluit in de periode van 23 augustus 2017 tot en met 22 februari 2018.<br>
 <br>
-De departementen betalen de subsidie, vermeld in het derde lid, 1°, uiterlijk uit op 1 september 2017 als de gemeente of de provincie vóór 1 juni 2017 de departementen heeft laten weten op welk rekeningnummer de subsidie uitbetaald kan worden.<br>
+Het departement betaalt de subsidie, vermeld in het derde lid, 1°, uiterlijk uit op 1 september 2017 als de gemeente of de provincie vóór 1 juni 2017 de departementen heeft laten weten op welk rekeningnummer de subsidie uitbetaald kan worden.<br>
 <br>
-De departementen betalen de subsidie, vermeld in het derde lid, 2° en 3°, uiterlijk uit in de vierde maand van 2018. Het subsidiebedrag wordt overgeschreven op het rekeningnummer dat de gemeente of de provincie aan de departementen heeft bezorgd, conform artikel 2, derde lid.<br>
+Het departement betaalt de subsidie, vermeld in het derde lid, 2° en 3°, uiterlijk uit in de vierde maand van 2018. Het subsidiebedrag wordt overgeschreven op het rekeningnummer dat de gemeente of de provincie aan het departement heeft bezorgd, conform artikel 2, derde lid.<br>
 <br>
 De subsidies, vermeld in het derde lid, worden uitbetaald na de vaststelling van een werkende connectie tussen het betreffende dossiersysteem en het uitwisselingsplatform omgevingsvergunning.<br>
 &nbsp;
