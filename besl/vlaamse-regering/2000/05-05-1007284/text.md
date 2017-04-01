@@ -4,7 +4,9 @@
 
 ### ART. 1.
 
-Alle gemeenten leggen een vergunningenregister aan op geïnformatiseerde   wijze, conform de technische normen, ter beschikking gesteld van de gemeente   door het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed,   hierna het departement te noemen.<BR><BR>Meldingen en vergunningen waarvan de   gegevens, vermeld in artikel 5.1.2 van de Vlaamse Codex Ruimtelijke Ordening,   zijn opgenomen in het uitwisselingsplatform, vermeld in artikel 2 van het   besluit van de Vlaamse Regering van 4 april 2014 houdende de digitalisering van   het ruimtelijke vergunningenbeleid conform de bepalingen van het voormelde   besluit, maken integraal en automatisch deel uit van het   vergunningenregister.
+Alle gemeenten leggen een vergunningenregister aan op geïnformatiseerde wijze, conform de technische normen, ter beschikking gesteld van de gemeente door het Departement Omgeving, hierna het departement te noemen.<br>
+<br>
+Meldingen en vergunningen waarvan de gegevens, vermeld in artikel 5.1.2 van de Vlaamse Codex Ruimtelijke Ordening, zijn opgenomen in het uitwisselingsplatform, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 4 april 2014 houdende de digitalisering van het ruimtelijke vergunningenbeleid conform de bepalingen van het voormelde besluit, maken integraal en automatisch deel uit van het vergunningenregister.
 
 ### ART. 2.
 
