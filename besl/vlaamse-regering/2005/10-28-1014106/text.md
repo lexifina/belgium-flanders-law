@@ -6,7 +6,7 @@ De milieu-informatie die al in elektronische vorm beschikbaar is en de milieu-in
 
 ### ART. 2.
 
-De Vlaamse administratie die tot het beleidsdomein leefmilieu, natuur en energie behoort, zorgt ervoor dat ten minste de volgende milieu-informatie op elektronische wijze ter beschikking wordt gesteld:<br>
+De Vlaamse administratie die tot het beleidsdomein Omgeving behoort, zorgt ervoor dat ten minste de volgende milieu-informatie op elektronische wijze ter beschikking wordt gesteld:<br>
 1° de teksten van internationale verdragen, conventies of overeenkomsten die van toepassing zijn in het Vlaamse Gewest en die een gewestelijke bevoegdheid betreffen, voorzover die teksten niet door andere overheden op elektronische wijze ter beschikking worden gesteld;<br>
 2° de teksten van communautaire of federale regelgeving, die van toepassing zijn in het Vlaamse Gewest en die een gewestelijke bevoegdheid betreffen, voorzover die teksten niet door andere overheden op elektronische wijze ter beschikking worden gesteld;<br>
 3° de Vlaamse gewestelijke regelgeving, voorzover die teksten niet door andere overheden op elektronische wijze ter beschikking worden gesteld;<br>
@@ -38,7 +38,7 @@ Bij een onmiddellijke bedreiging van de gezondheid van de mens of het milieu, di
 
 ### ART. 8.
 
-De Vlaamse administratie, behorend tot het beleidsdomein leefmilieu, natuur en energie, stelt jaarlijks een verslag op over de wijze waarop dit besluit is toegepast, met inbegrip van de beschikbaarheid van milieu-informatie op elektronische wijze en via elektronische gegevensbanken. Dat verslag vormt een geïntegreerd deel van het verslag, vermeld in artikel 33, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur.
+De Vlaamse administratie, behorend tot het beleidsdomein Omgeving, stelt jaarlijks een verslag op over de wijze waarop dit besluit is toegepast, met inbegrip van de beschikbaarheid van milieu-informatie op elektronische wijze en via elektronische gegevensbanken. Dat verslag vormt een geïntegreerd deel van het verslag, vermeld in artikel 33, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur.
 
 ### ART. 9.
 
