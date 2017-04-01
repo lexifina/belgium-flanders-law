@@ -2,16 +2,16 @@
   "codex_id": 1026203,
   "title": "Ministerieel besluit van 2015-11-05 tot vaststelling van een keurings-en certificeringsreglement voor de productie van pootaardappelen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026203/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "3c4b69efd17f56f7bc2046e631909e1e1a253310724aa559c1fa95b837a8d751",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026203/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "15561ab53bfad905557b8931ef773112137e6f759f05c9128a0f1f3a58eb18bf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026203&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2017-04-01",
   "made": "2015-11-05",
   "gazette": "2015-12-14",
   "numac": 2015036512,
   "document_start": "2016-01-01",
   "document_end": "2021-04-30",
-  "in_force": "2016-01-01",
+  "in_force": "2017-04-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
