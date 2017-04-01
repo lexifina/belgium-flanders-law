@@ -4,7 +4,24 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit dient te worden verstaan onder:<br />1° minister: het lid van de Vlaamse regering bevoegd voor huisvesting;<br />2° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br />3° aanvrager: a) de bewoner die de aanvraag indient en, in voorkomend geval, de persoon met wie hij op de aanvraagdatum wettelijk of feitelijk samenwoont;<br />b) de natuurlijke persoon, die eigenaar-verhuurder is van de woning waarvoor een aanvraag wordt ingediend;<br />4° bewoner: de particulier die de door hem verbeterde of aangepaste woning op de aanvraagdatum bewoont op grond van een zakelijk recht of van een huurovereenkomst met betrekking tot een hoofdverblijfplaats waarvan de duur meer dan drie jaar bedraagt;<br />5° aanvraagdatum: de datum van ontvangstbewijs of de postdatum van de aanvraag van de premie;<br />6° woning: het in het Vlaamse Gewest gelegen huis of appartement, dat als hoofdverblijfplaats wordt bewoond of zal worden bewoond in het geval zoals bepaald in artikel 1, 3°, b), en waaraan aanpassings- of verbeteringswerkzaamheden werden uitgevoerd;<br />7° persoon ten laste:<br />a) het kind dat op de aanvraagdatum gedomicilieerd is op het adres van de aanvrager en dat aan een van de volgende voorwaarden voldoet:<br />1) het is jonger dan 18 jaar<br />2) het is 18 jaar of ouder en de aanvrager krijgt kinderbijslag of wezentoelage voor het kind<br />3) het is 18 jaar of ouder en het wordt, na voorlegging van de bewijzen, door de minister beschouwd als persoon ten laste;<br />b) de aanvrager of de medebewoner die op de aanvraagdatum erkend is als persoon met een ernstige handicap;<br />8° inkomen: het aan de personenbelasting onderworpen inkomen van het derde jaar dat aan de aanvraagdatum voorafgaat;<br />9° bejaarde: de persoon die minstens 65 jaar oud is en voor de activiteiten van het dagelijkse leven moet beschikken over een specifieke uitrusting die in de woning geïntegreerd is; <br />10° ...<br />11° sociaal verhuurkantoor: een sociaal verhuurkantoor, zoals erkend krachtens het besluit van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren.
+Voor de toepassing van dit besluit dient te worden verstaan onder:<br>
+1° minister: het lid van de Vlaamse regering bevoegd voor huisvesting;<br>
+2° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving;<br>
+3° aanvrager: a) de bewoner die de aanvraag indient en, in voorkomend geval, de persoon met wie hij op de aanvraagdatum wettelijk of feitelijk samenwoont;<br>
+b) de natuurlijke persoon, die eigenaar-verhuurder is van de woning waarvoor een aanvraag wordt ingediend;<br>
+4° bewoner: de particulier die de door hem verbeterde of aangepaste woning op de aanvraagdatum bewoont op grond van een zakelijk recht of van een huurovereenkomst met betrekking tot een hoofdverblijfplaats waarvan de duur meer dan drie jaar bedraagt;<br>
+5° aanvraagdatum: de datum van ontvangstbewijs of de postdatum van de aanvraag van de premie;<br>
+6° woning: het in het Vlaamse Gewest gelegen huis of appartement, dat als hoofdverblijfplaats wordt bewoond of zal worden bewoond in het geval zoals bepaald in artikel 1, 3°, b), en waaraan aanpassings- of verbeteringswerkzaamheden werden uitgevoerd;<br>
+7° persoon ten laste:<br>
+a) het kind dat op de aanvraagdatum gedomicilieerd is op het adres van de aanvrager en dat aan een van de volgende voorwaarden voldoet:<br>
+1) het is jonger dan 18 jaar<br>
+2) het is 18 jaar of ouder en de aanvrager krijgt kinderbijslag of wezentoelage voor het kind<br>
+3) het is 18 jaar of ouder en het wordt, na voorlegging van de bewijzen, door de minister beschouwd als persoon ten laste;<br>
+b) de aanvrager of de medebewoner die op de aanvraagdatum erkend is als persoon met een ernstige handicap;<br>
+8° inkomen: het aan de personenbelasting onderworpen inkomen van het derde jaar dat aan de aanvraagdatum voorafgaat;<br>
+9° bejaarde: de persoon die minstens 65 jaar oud is en voor de activiteiten van het dagelijkse leven moet beschikken over een specifieke uitrusting die in de woning geïntegreerd is;<br>
+10° ...<br>
+11° sociaal verhuurkantoor: een sociaal verhuurkantoor, zoals erkend krachtens het besluit van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren.
 
 ### ART. 2.
 
