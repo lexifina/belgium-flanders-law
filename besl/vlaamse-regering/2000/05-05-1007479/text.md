@@ -4,7 +4,9 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° de   minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<BR>2° het   departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend   Erfgoed;&nbsp;<BR>
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br>
+2°&nbsp;departement : het Departement&nbsp;Omgeving;&nbsp;
 
 ## HOOFDSTUK II HET REGISTER VAN RUIMTELIJKE PLANNERS
 
