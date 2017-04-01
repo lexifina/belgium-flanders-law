@@ -312,6 +312,14 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor ee
 
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor tijdelijke reliëfwijzigingen voor de organisatie van sportmanifestaties,   als :<BR>1° die maximaal driemaal per jaar worden georganiseerd;<BR>2° die   worden georganiseerd in recreatiegebied in de ruime zin, industriegebied in de   ruime zin, gebied voor gemeenschapsvoorzieningen en openbare nutsvoorzieningen   of agrarisch gebied in de ruime zin;<BR>3° die niet worden georganiseerd :<BR>a)   in Speciale Beschermingszones;<BR>b) in de Ramsargebieden;<BR>c) in de als   beschermd aangeduide duingebieden of als voor het duingebied belangrijke   landbouwgebieden;<BR>d) in de beschermde landschappen;<BR>e) in ruimtelijk   kwetsbare gebieden;<BR>4° het reliëf wordt hersteld in zijn oorspronkelijke   staat binnen 10 dagen na de aanvang van de werken.<BR><BR>
 
+### ART 7.5.
+
+Een stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het tijdelijk gebruiken van een terrein om op te kamperen in het kader van een evenement of door georganiseerde groepen kampeerders die onder toezicht van een of meer begeleiders staan als aan al de volgende voorwaarden is voldaan:<br>
+1° een maximale duur van vier periodes van dertig aaneengesloten dagen per kalenderjaar wordt niet overschreden. Op de eerste dag van het gebruik begint de periode van dertig dagen te lopen, ongeacht of het gebruik de volle dertig dagen gebeurt. De periodes van dertig dagen kunnen aaneengesloten zijn, maar overlappen elkaar niet;<br>
+2° het terrein ligt niet in een ruimtelijk kwetsbaar gebied, niet zijnde parkgebied;<br>
+3° het gebruik brengt de verwezenlijking van de algemene bestemming van het gebied niet in het gedrang;<br>
+4° het gebruik gaat niet gepaard met een ontbossing, een wijziging van vegetatie of kleine landschapselementen, een aanmerkelijke reliëfwijziging of een wijziging van waterlichamen.
+
 ## HOOFDSTUK 8 Wijzigingen van al ingerichte terreinen
 
 ### ART. 8.1.
@@ -346,7 +354,14 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor 
 
 ### ART. 8.4.
 
-Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor het plaatsen, verplaatsen, wijzigen of vervangen van mobiele   openluchtrecreatieve verblijven, ook al zijn zij bestemd om ter plaatse te   blijven staan en voor toebehorende installaties, op voorwaarde dat : <BR>1° de   verblijven zijn geplaatst op vergunde openluchtrecreatieve terreinen als vermeld   in artikel 2, 10°, van het decreet van 10 juli 2008 betreffende het toeristische   logies;<BR>2° de plaatsing, verplaatsing, wijziging of vervanging is niet   strijdig met de vergunning, vermeld in punt 1°. <BR><BR>In het eerste lid wordt   verstaan onder :<BR>1° mobiel openluchtrecreatief verblijf : een verblijf als   vermeld in artikel 1, 18°, van het besluit van de Vlaamse Regering van 15 mei   2009 tot uitvoering van het decreet van 10 juli 2008 betreffende het toeristisch   logies;<BR>2° toebehorende installaties : de aanbouwen, vermeld in artikel 9,   19°, c), 2), van het voormelde besluit, die niet zouden zijn geplaatst als er   geen mobiel openluchtrecreatief verblijf was geplaatst en die niet gefundeerd of   verankerd zijn in de grond.
+Een stedenbouwkundige vergunning of een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het plaatsen, verplaatsen, wijzigen of vervangen van verplaatsbare verblijven, ook al zijn ze bestemd om ter plaatse te blijven staan, en voor bijbehorende installaties, op voorwaarde dat:<br>
+1° de verblijven zijn geplaatst op een terreingerelateerd logies dat voldoet aan de voorwaarden, vermeld in artikel 4 van het decreet van 5 februari 2016 houdende het toeristische logies;<br>
+2° de plaatsing, verplaatsing, wijziging of vervanging niet strijdig is met de voorwaarden, vermeld in punt 1°.<br>
+<br>
+In het eerste lid wordt verstaan onder:<br>
+1° terreingerelateerd logies: een toeristisch logies als vermeld in artikel 2, eerste lid, 2°, van het besluit van de Vlaamse Regering van 17 maart 2017 tot uitvoering van het decreet van 5 februari 2016 houdende het toeristisch logies;<br>
+2° verplaatsbaar verblijf: een verblijf als vermeld in artikel 1, 6°, van het voormelde besluit;<br>
+3° bijbehorende installaties: de aanbouwen en constructies, vermeld in punt B, 3, van bijlage 6 bij het voormelde besluit, die niet geplaatst zouden zijn als er geen verplaatsbaar verblijf was geplaatst of als er niet in een verplaatsbaar verblijf wordt voorzien.
 
 ### ART. 8.5.
 
