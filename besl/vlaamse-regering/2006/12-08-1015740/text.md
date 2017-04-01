@@ -18,7 +18,7 @@ De bepalingen van dit besluit zijn van toepassing op de centrale   stooktoestell
 
 Voor de toepassing van dit besluit wordt verstaan onder :<br>
 1° de minister : de Vlaamse minister, bevoegd voor het leefmilieu;<br>
-2° de afdeling : de afdeling van het Departement Leefmilieu, Natuur en Energie bevoegd voor erkenningen;<br>
+2° administratie: het&nbsp;Departement&nbsp;Omgeving;<br>
 3° titel I van het Vlarem : het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning;<br>
 4° titel II van het Vlarem : het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
 5° de toezichthouder : de toezichthouder, vermeld in het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, die het toezicht uitoefent op de toepassing van de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging;<br>
@@ -678,7 +678,7 @@ Uitvoeren verwarmingsaudit<br>
 <br>
 § 2. De verwarmingsaudit, bedoeld in artikel 9, § 2, 3° a) en b), wordt uitgevoerd aan de hand van software die door de Vlaamse minister, bevoegd voor het energiebeleid, ter beschikking wordt gesteld.<br>
 <br>
-De verwarmingsaudit, bedoeld in artikel 9, § 2, 3°, c), wordt uitgevoerd aan de hand van een berekeningsmethodiek die door de erkende technicus verwarmingsaudit wordt gekozen maar een beoordeling toelaat van het rendement van de ketel en van de ketelgrootte ten opzichte van de verwarmingsbehoeften van het gebouw. De erkende technicus verwarmingsaudit geeft de afdeling op eenvoudig verzoek de nodige informatie over de gehanteerde berekeningsmethodiek.<br>
+De verwarmingsaudit, bedoeld in artikel 9, § 2, 3°, c), wordt uitgevoerd aan de hand van een berekeningsmethodiek die door de erkende technicus verwarmingsaudit wordt gekozen maar een beoordeling toelaat van het rendement van de ketel en van de ketelgrootte ten opzichte van de verwarmingsbehoeften van het gebouw. De erkende technicus verwarmingsaudit geeft de administratie op eenvoudig verzoek de nodige informatie over de gehanteerde berekeningsmethodiek.<br>
 <br>
 § 3. De Vlaamse minister, bevoegd voor het energiebeleid, bepaalt de inhoud van het verwarmingsauditrapport.<br>
 <br>
