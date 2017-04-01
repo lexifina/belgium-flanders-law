@@ -4,7 +4,21 @@
 
 ### ART. 1.
 
-De Stuurgroep GIS-Vlaanderen is samengesteld uit de volgende deskundigen op het domein van geografische informatie en overheidsaangelegenheden:<br />1° tien vertegenwoordigers van de Vlaamse administratie, waaronder ten minste vier vertegenwoordigers uit de intern of extern verzelfstandigde agentschappen, van wie:<br />a) een vertegenwoordiger van het beleidsdomein Bestuurszaken op voordracht van de Vlaamse minister, bevoegd voor het e-government;<br />b) een vertegenwoordiger van het beleidsdomein Financiën en Begroting op voordracht van de Vlaamse minister, bevoegd voor de financiën en de begrotingen;<br />c) een vertegenwoordiger van het beleidsdomein Economie, Wetenschap en Innovatie op voordracht van de Vlaamse minister, bevoegd voor het technologisch innovatiebeleid;<br />d) een vertegenwoordiger van het beleidsdomein Landbouw en Visserij op voordracht van de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij;<br />e) twee vertegenwoordigers van het beleidsdomein Leefmilieu, Natuur en Energie, waarvan één op voordracht van de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, en één op voordracht van de Vlaamse minister, bevoegd voor de landinrichting en het natuurbehoud;<br />f) twee vertegenwoordigers van het beleidsdomein Mobiliteit en Openbare Werken, waarvan één op voordracht van de Vlaamse minister, bevoegd voor het mobiliteitsbeleid, en één op voordracht van de Vlaamse minister, bevoegd voor de openbare werken;<br />g) twee vertegenwoordigers van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, waarvan één op voordracht van de Vlaamse minister, bevoegd voor de ruimtelijke ordening, en één op voordracht van de Vlaamse minister, bevoegd voor de huisvesting;<br />2° drie vertegenwoordigers van de Vlaamse steden en gemeenten op voordracht van de Vereniging van Vlaamse Steden en Gemeenten;<br />3° één vertegenwoordiger van de Vlaamse provincies op voordracht van de Vereniging van de Vlaamse Provincies.<br />
+De Stuurgroep GIS-Vlaanderen is samengesteld uit de volgende deskundigen op het domein van geografische informatie en overheidsaangelegenheden:<br>
+1° tien vertegenwoordigers van de Vlaamse administratie, waaronder ten minste vier vertegenwoordigers uit de intern of extern verzelfstandigde agentschappen, van wie:<br>
+a) een vertegenwoordiger van het beleidsdomein Bestuurszaken op voordracht van de Vlaamse minister, bevoegd voor het e-government;<br>
+b) een vertegenwoordiger van het beleidsdomein Financiën en Begroting op voordracht van de Vlaamse minister, bevoegd voor de financiën en de begrotingen;<br>
+c) een vertegenwoordiger van het beleidsdomein Economie, Wetenschap en Innovatie op voordracht van de Vlaamse minister, bevoegd voor het technologisch innovatiebeleid;<br>
+d) een vertegenwoordiger van het beleidsdomein Landbouw en Visserij op voordracht van de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij;<br>
+e)...<br>
+f) twee vertegenwoordigers van het beleidsdomein Mobiliteit en Openbare Werken, waarvan één op voordracht van de Vlaamse minister, bevoegd voor het mobiliteitsbeleid, en één op voordracht van de Vlaamse minister, bevoegd voor de openbare werken;<br>
+g) vier vertegenwoordigers van het beleidsdomein Omgeving, waarvan:<br>
+&nbsp; i) één op voordracht van de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid;<br>
+&nbsp; ii) één op voordracht van de Vlaamse minister, bevoegd voor de landinrichting en het natuurbehoud;<br>
+&nbsp; iii) één op voordracht van de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br>
+&nbsp; iv) één op voordracht van de Vlaamse minister, bevoegd voor de huisvesting;<br>
+2° drie vertegenwoordigers van de Vlaamse steden en gemeenten op voordracht van de Vereniging van Vlaamse Steden en Gemeenten;<br>
+3° één vertegenwoordiger van de Vlaamse provincies op voordracht van de Vereniging van de Vlaamse Provincies.
 
 ### ART. 2.
 
