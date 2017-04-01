@@ -2,16 +2,16 @@
   "codex_id": 1027414,
   "title": "Besluit van de Vlaamse Regering van 2016-07-15 houdende wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 16 juli 2010 tot bepaling van handelingen waarvoor geen stedenbouwkundige vergunning nodig is, van diverse bepalingen van het besluit van de Vlaamse Regering van 16 juli 2010 betreffende de meldingsplichtige handelingen ter uitvoering van de Vlaamse Codex Ruimtelijke Ordening en van artikel 10 van het besluit van de Vlaamse Regering van 5 juli 2013 houdende vaststelling van een gewestelijke stedenbouwkundige verordening inzake hemelwaterputten, infiltratievoorzieningen, buffervoorzieningen en gescheiden lozing van afvalwater en hemelwater",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027414/VolledigDocument?datum=2016-09-29",
-  "source_sha256": "4b48be659b699f7dac4efae5e8a97b34c5ef19873e53668125abda21e56504f9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027414/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "03061c23ddf9c9e796d164d783a4a63ffa51f6bd6e241cbd95e02e0844af997b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027414&param=informatie",
-  "as_of": "2016-09-29",
+  "as_of": "2017-04-01",
   "made": "2016-07-15",
   "gazette": "2016-09-19",
   "numac": 2016036341,
   "document_start": "2016-09-29",
   "document_end": null,
-  "in_force": "2016-09-29",
-  "article_versions": 44,
-  "record_form": "consolidated version as in force on 2016-09-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2017-04-01",
+  "article_versions": 45,
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }

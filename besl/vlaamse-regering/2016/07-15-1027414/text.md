@@ -631,6 +631,16 @@ Een stedenbouwkundige vergunning is niet nodig voor een tijdelijke wijziging van
 2° het lokaal jeugdwerkinitiatief is aangesloten bij een landelijk georganiseerde jeugdvereniging, erkend met toepassing van artikel 9, § 2, van het voormelde decreet;<br>
 3° het jeugdwerk wordt voornamelijk georganiseerd voor jongeren tot en met zestien jaar.".
 
+### ART 23.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 27 februari 2015, wordt een artikel 7.5 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 7.5. Een stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het tijdelijk gebruiken van een terrein om op te kamperen in het kader van een evenement of door georganiseerde groepen kampeerders die onder toezicht van een of meer begeleiders staan als aan al de volgende voorwaarden is voldaan:<br>
+1° een maximale duur van vier periodes van dertig aaneengesloten dagen per kalenderjaar wordt niet overschreden. Op de eerste dag van het gebruik begint de periode van dertig dagen te lopen, ongeacht of het gebruik de volle dertig dagen gebeurt. De periodes van dertig dagen kunnen aaneengesloten zijn, maar overlappen elkaar niet;<br>
+2° het terrein ligt niet in een ruimtelijk kwetsbaar gebied, niet zijnde parkgebied;<br>
+3° het gebruik brengt de verwezenlijking van de algemene bestemming van het gebied niet in het gedrang;<br>
+4° het gebruik gaat niet gepaard met een ontbossing, een wijziging van vegetatie of kleine landschapselementen, een aanmerkelijke reliëfwijziging of een wijziging van waterlichamen.".
+
 ### ART 24.
 
 In artikel 8.1 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
