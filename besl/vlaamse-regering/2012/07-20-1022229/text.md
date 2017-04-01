@@ -34,7 +34,19 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° agentschap : het intern   verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen van het   Vlaamse Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend   Erfgoed;<BR>2° huurder : de alleenstaande of het gezin waaraan het sociaal   verhuurkantoor een woning of kamer verhuurt;<BR>3° frictieleegstand : de   leegstand van woningen of kamers van maximaal twee maanden, als gevolg van   verhuizingen, verkopen of verbouwingen, die noodzakelijk is om de woningmarkt   naar behoren te laten functioneren;<BR>4° intern huurreglement : het document,   vermeld in artikel 1, 16°, van het Kaderbesluit Sociale Huur;<BR>5° Kaderbesluit   Sociale Huur : het besluit van de Vlaamse Regering van 12 oktober 2007 tot   reglementering van het sociale huurstelsel ter uitvoering van titel VII van de   Vlaamse Wooncode;<BR>6°...;<BR>7° minister : de Vlaamse minister, bevoegd voor   wonen;<BR>8° ondersteuningsstructuur : het extern verzelfstandigd agentschap   Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van de Vlaamse   Wooncode, die instaat voor de ondersteuning van de sociale   verhuurkantoren;<BR>9° toezichthouder : de toezichthouder voor de sociale   huisvesting, vermeld in artikel 29bis van de Vlaamse Wooncode;<BR>10° Vlaamse   Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<BR>11°   werkingsgebied : het gebied dat wordt gevormd door de gemeenten waar het sociaal   verhuurkantoor effectief woningen of kamers huurt of verhuurt;<BR>12°   Woonkwaliteitsbesluit : het besluit van de Vlaamse Regering van 12 juli 2013   betreffende de kwaliteits- en veiligheidsnormen voor woningen.
+In dit besluit wordt verstaan onder :<br>
+1° agentschap : het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving;<br>
+2° huurder : de alleenstaande of het gezin waaraan het sociaal verhuurkantoor een woning of kamer verhuurt;<br>
+3° frictieleegstand : de leegstand van woningen of kamers van maximaal twee maanden, als gevolg van verhuizingen, verkopen of verbouwingen, die noodzakelijk is om de woningmarkt naar behoren te laten functioneren;<br>
+4° intern huurreglement : het document, vermeld in artikel 1, 16°, van het Kaderbesluit Sociale Huur;<br>
+5° Kaderbesluit Sociale Huur : het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode;<br>
+6°...;<br>
+7° minister : de Vlaamse minister, bevoegd voor wonen;<br>
+8° ondersteuningsstructuur : het extern verzelfstandigd agentschap Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van de Vlaamse Wooncode, die instaat voor de ondersteuning van de sociale verhuurkantoren;<br>
+9° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van de Vlaamse Wooncode;<br>
+10° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+11° werkingsgebied : het gebied dat wordt gevormd door de gemeenten waar het sociaal verhuurkantoor effectief woningen of kamers huurt of verhuurt;<br>
+12° Woonkwaliteitsbesluit : het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de kwaliteits- en veiligheidsnormen voor woningen.
 
 ## Hoofdstuk 2. [... (opgeh. BVR 26 oktober 2018, art. 5, I: 14 december 2018)]
 
