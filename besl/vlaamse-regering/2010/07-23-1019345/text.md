@@ -6,7 +6,12 @@ De Vlaamse Regering, <br /><br />Gelet op beschikking M (83) 26 van 17 oktober 1
 
 ### ART. 1.
 
-In de permanente Gemengde Schadecommissie, opgericht voor het onderzoek van aanspraken op vergoeding van schade aan een zijde van de Belgisch-Nederlandse grens, veroorzaakt door grondwaterwinning aan de andere zijde van die grens, worden door de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, drie effectieve leden en drie plaatsvervangende leden benoemd.<br /><br />Twee effectieve en twee plaatsvervangende leden worden benoemd onder de personeelsleden van het intern verzelfstandigd agentschap met rechtspersoonlijkheid de Vlaamse Milieumaatschappij en een effectief en plaatsvervangend lid worden benoemd onder de personeelsleden van het Departement Leefmilieu, Natuur en Energie. <br /><br />De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, duidt onder de effectieve leden een voorzitter aan, die ook als delegatiehoofd optreedt. <br /><br />
+In de permanente Gemengde Schadecommissie, opgericht voor het onderzoek van aanspraken op vergoeding van schade aan een zijde van de Belgisch-Nederlandse grens, veroorzaakt door grondwaterwinning aan de andere zijde van die grens, worden door de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, drie effectieve leden en drie plaatsvervangende leden benoemd.<br>
+<br>
+Twee effectieve en twee plaatsvervangende leden worden benoemd onder de personeelsleden van het intern verzelfstandigd agentschap met rechtspersoonlijkheid de Vlaamse Milieumaatschappij en een effectief en plaatsvervangend lid worden benoemd onder de personeelsleden van het Departement Omgeving.<br>
+<br>
+De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, duidt onder de effectieve leden een voorzitter aan, die ook als delegatiehoofd optreedt.<br>
+&nbsp;
 
 ### ART. 2.
 
