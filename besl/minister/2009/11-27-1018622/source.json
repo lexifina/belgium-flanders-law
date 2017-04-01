@@ -2,16 +2,16 @@
   "codex_id": 1018622,
   "title": "Ministerieel besluit van 2009-11-27 tot bepaling van de nadere openings- en exploitatievoorwaarden waaraan het toeristische logies moet voldoen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018622/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "9c4d726a2f4749b08932d7618ce88345ef825ff4e5b11891584f436a9842bfc1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018622/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "b680a1903dd0fee7c303cb950a2138b8d02eccc1ad13dc539293cfa5c50b9819",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018622&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2017-04-01",
   "made": "2009-11-27",
   "gazette": "2009-12-24",
   "numac": 2009036131,
   "document_start": "2010-01-01",
   "document_end": "2017-03-31",
-  "in_force": "2010-01-01",
+  "in_force": "2017-04-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
