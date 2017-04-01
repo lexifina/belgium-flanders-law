@@ -4,7 +4,9 @@
 
 ### ART. 1.
 
-Binnen het Vlaams ministerie van Leefmilieu, Natuur en Energie wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht, onder de benaming Agentschap voor Natuur en Bos, afgekort ANB.<br /><br />Het agentschap behoort tot het beleidsdomein Leefmilieu, Natuur en Energie.
+Binnen het Vlaams ministerie van Omgeving wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht, onder de benaming Agentschap voor Natuur en Bos, afgekort ANB.<br>
+<br>
+Het agentschap behoort tot het beleidsdomein Omgeving.
 
 ### ART. 2.
 

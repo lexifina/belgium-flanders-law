@@ -2,16 +2,16 @@
   "codex_id": 1014247,
   "title": "Besluit van de Vlaamse Regering van 2005-12-23 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Natuur en Bos",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014247/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "0be0c52d945d243c20fef2cffaf4e0743c802f54f56985d0f85e04ffed3bfeae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014247/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "e5945daab479069ffd5eb1a01bd00a5884a20a751affb92db68fd5d91be40db0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014247&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2017-04-01",
   "made": "2005-12-23",
   "gazette": "2006-02-02",
   "numac": 2006035112,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2014-01-01",
+  "in_force": "2017-04-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
