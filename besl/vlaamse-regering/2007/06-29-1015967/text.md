@@ -26,7 +26,7 @@ Besluit :
 
 § 1. Voor de toepassing van dit besluit wordt verstaan onder :<br>
 1° minister : de Vlaamse minister, bevoegd voor de huisvesting;<br>
-2° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+2° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving;<br>
 3° ...<br>
 4° lening : de hypothecaire lening of de opneming van een voorschot in het kader van een hypothecaire kredietopening;<br>
 5° ontlener : de particuliere persoon die de lening aangaat en de persoon met wie hij op de datum van de leningsaanvraag wettelijk of feitelijk samenwoont en die samen met de particuliere persoon de met de lening gefinancierde woning zal betrekken;<br>
