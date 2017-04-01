@@ -482,10 +482,116 @@ Maximumgewicht van een partij: 20 ton<br /><br />Minimumgewicht van een monster:
 
 ### Tekst
 
-A. Officieel etiket<br /><br />a) Te vermelden gegevens:<br /><br />1. "EG-systeem";<br /><br />2. keuringsdienst en lidstaat of desbetreffend kenteken;<br /><br />3. partijnummer;<br /><br />4. maand en jaar van de sluiting, op de volgende wijze aangegeven: "gesloten in ...... (maand en jaar)", of maand en jaar van de laatste officiële monsterneming ten behoeve van het besluit van certificering, op de volgende wijze aangegeven: "monster genomen in ...... (maand en jaar)";<br /><br />5. soort, ten minste in Latijns schrift aangegeven met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, dan wel de gewone benaming, of beide; voorts de aanduiding suikerbieten of voederbieten;<br /><br />6. ras, ten minste vermeld in Latijns schrift;<br /><br />7. categorie;<br /><br />8. producerend land;<br /><br />9. opgegeven netto- of brutogewicht of opgegeven aantal kluwens of zuivere zaden;<br /><br />10. als het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering tussen het gewicht van de kluwens of zuivere zaden en het totaalgewicht;<br /><br />11. voor eenkiemig zaad, de vermelding: "Eenkiemig";<br /><br />12. voor precisiezaad, de vermelding "Precisiezaad";<br /><br />13. waar ten minste voor de kiemkracht nacontrole werd verricht, mogen de woorden "nacontrole verricht ...... (maand en jaar)", en de voor die nacontrole verantwoordelijke dienst worden vermeld. Die gegevens mogen voorkomen op een officieel merkteken dat wordt geplakt op het officiële etiket.<br /><br />b) Minimale afmetingen:<br /><br />110 mm x 67 mm<br /><br />B. Etiket van de leverancier of tekst op de verpakking (kleine verpakking, EG)<br /><br />Te vermelden gegevens:<br /><br />1. "kleine verpakking EG";<br /><br />2. naam en adres of kenmerk van de voor de aanduiding verantwoordelijke leverancier;<br /><br />3. officieel volgnummer;<br /><br />4. dienst die het volgnummer heeft toegekend en lidstaat of desbetreffend kenteken;<br /><br />5. partijnummer als de partij niet door het officiële volgnummer kan worden geïdentificeerd;<br /><br />6. soort, ten minste vermeld in Latijns schrift; voorts de aanduiding suikerbieten of voederbieten;<br /><br />7. ras, ten minste vermeld in Latijns schrift;<br /><br />8. categorie;<br /><br />9. netto- of brutogewicht of aantal kluwens of zuivere zaden;<br /><br />10. als het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel alsmede de verhouding, bij benadering, tussen het gewicht der kluwens of zuivere zaden en het totaalgewicht;<br /><br />11. voor eenkiemig zaad de vermelding: "Eenkiemig";<br /><br />12. voor precisiezaad de vermelding: "Precisiezaad".
+A. Officieel etiket<br>
+<br>
+a) Te vermelden gegevens:<br>
+<br>
+1. "EG-systeem";<br>
+<br>
+2. keuringsdienst en lidstaat of desbetreffend kenteken;<br>
+<br>
+2/1. Officieel volgnummer;<br>
+<br>
+3. partijnummer;<br>
+<br>
+4. maand en jaar van de sluiting, op de volgende wijze aangegeven: "gesloten in ...... (maand en jaar)", of maand en jaar van de laatste officiële monsterneming ten behoeve van het besluit van certificering, op de volgende wijze aangegeven: "monster genomen in ...... (maand en jaar)";<br>
+<br>
+5. soort, ten minste in Latijns schrift aangegeven met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, dan wel de gewone benaming, of beide; voorts de aanduiding suikerbieten of voederbieten;<br>
+<br>
+6. ras, ten minste vermeld in Latijns schrift;<br>
+<br>
+7. categorie;<br>
+<br>
+8. producerend land;<br>
+<br>
+9. opgegeven netto- of brutogewicht of opgegeven aantal kluwens of zuivere zaden;<br>
+<br>
+10. als het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering tussen het gewicht van de kluwens of zuivere zaden en het totaalgewicht;<br>
+<br>
+11. voor eenkiemig zaad, de vermelding: "Eenkiemig";<br>
+<br>
+12. voor precisiezaad, de vermelding "Precisiezaad";<br>
+<br>
+13. waar ten minste voor de kiemkracht nacontrole werd verricht, mogen de woorden "nacontrole verricht ...... (maand en jaar)", en de voor die nacontrole verantwoordelijke dienst worden vermeld. Die gegevens mogen voorkomen op een officieel merkteken dat wordt geplakt op het officiële etiket.<br>
+<br>
+b) Minimale afmetingen:<br>
+<br>
+110 mm x 67 mm<br>
+<br>
+B. Etiket van de leverancier of tekst op de verpakking (kleine verpakking, EG)<br>
+<br>
+Te vermelden gegevens:<br>
+<br>
+1. "kleine verpakking EG";<br>
+<br>
+2. naam en adres of kenmerk van de voor de aanduiding verantwoordelijke leverancier;<br>
+<br>
+3. officieel volgnummer;<br>
+<br>
+4. dienst die het volgnummer heeft toegekend en lidstaat of desbetreffend kenteken;<br>
+<br>
+5. partijnummer als de partij niet door het officiële volgnummer kan worden geïdentificeerd;<br>
+<br>
+6. soort, ten minste vermeld in Latijns schrift; voorts de aanduiding suikerbieten of voederbieten;<br>
+<br>
+7. ras, ten minste vermeld in Latijns schrift;<br>
+<br>
+8. categorie;<br>
+<br>
+9. netto- of brutogewicht of aantal kluwens of zuivere zaden;<br>
+<br>
+10. als het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel alsmede de verhouding, bij benadering, tussen het gewicht der kluwens of zuivere zaden en het totaalgewicht;<br>
+<br>
+11. voor eenkiemig zaad de vermelding: "Eenkiemig";<br>
+<br>
+12. voor precisiezaad de vermelding: "Precisiezaad".
 
 ## Bijlage IV Etiket en document voor niet definitief goedgekeurd zaad dat is geoogst in een andere lidstaat
 
 ### Tekst
 
-A. Op het etiket te vermelden gegevens:<br /><br />1. voor de veldkeuring verantwoordelijke instantie en lidstaat of hun kenteken;<br /><br />2. soort, tenminste in Latijns schrift, aangegeven met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, dan wel de gewone benaming, of beide; voorts de aanduiding suikerbieten of voederbieten;<br /><br />3. ras, tenminste vermeld in Latijns schrift;<br /><br />4. categorie;<br /><br />5. referentienummer van het veld of van de partij;<br /><br />6. opgegeven netto- of brutogewicht;<br /><br />7. de vermelding "Niet definitief goedgekeurd zaad".<br /><br />B. Kleur van het etiket:<br /><br />Het etiket is grijs van kleur.<br /><br />C. Op het document te vermelden gegevens:<br /><br />1. instantie die het document afgeeft;<br /><br />2. soort, tenminste in Latijns schrift, aangegeven met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, dan wel de gewone benaming, of beide; voorts de aanduiding suikerbieten of voederbieten;<br /><br />3. ras, ten minste vermeld in Latijns schrift;<br /><br />4. categorie;<br /><br />5. referentienummer van het gebruikte zaad en naam van de landen die dit zaad heeft/hebben goedgekeurd;<br /><br />6. referentienummer van het veld of van de partij;<br /><br />7. oppervlakte die is geteeld voor de productie van de bij het document behorende partij;<br /><br />8. geoogste hoeveelheid zaad en aantal verpakkingen;<br /><br />9. verklaring dat bij de teelt waarvan het zaad afkomstig is aan de vastgestelde voorwaarden is voldaan;<br /><br />10. in voorkomend geval, de uitkomsten van een voorlopige analyse van het zaad.
+A. Op het etiket te vermelden gegevens:<br>
+<br>
+1. voor de veldkeuring verantwoordelijke instantie en lidstaat of hun kenteken;<br>
+<br>
+1/1. Officieel volgnummer;<br>
+<br>
+2. soort, tenminste in Latijns schrift, aangegeven met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, dan wel de gewone benaming, of beide; voorts de aanduiding suikerbieten of voederbieten;<br>
+<br>
+3. ras, tenminste vermeld in Latijns schrift;<br>
+<br>
+4. categorie;<br>
+<br>
+5. referentienummer van het veld of van de partij;<br>
+<br>
+6. opgegeven netto- of brutogewicht;<br>
+<br>
+7. de vermelding "Niet definitief goedgekeurd zaad".<br>
+<br>
+B. Kleur van het etiket:<br>
+<br>
+Het etiket is grijs van kleur.<br>
+<br>
+C. Op het document te vermelden gegevens:<br>
+<br>
+1. instantie die het document afgeeft;<br>
+<br>
+1/1. Officieel volgnummer;<br>
+<br>
+2. soort, tenminste in Latijns schrift, aangegeven met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, dan wel de gewone benaming, of beide; voorts de aanduiding suikerbieten of voederbieten;<br>
+<br>
+3. ras, ten minste vermeld in Latijns schrift;<br>
+<br>
+4. categorie;<br>
+<br>
+5. referentienummer van het gebruikte zaad en naam van de landen die dit zaad heeft/hebben goedgekeurd;<br>
+<br>
+6. referentienummer van het veld of van de partij;<br>
+<br>
+7. oppervlakte die is geteeld voor de productie van de bij het document behorende partij;<br>
+<br>
+8. geoogste hoeveelheid zaad en aantal verpakkingen;<br>
+<br>
+9. verklaring dat bij de teelt waarvan het zaad afkomstig is aan de vastgestelde voorwaarden is voldaan;<br>
+<br>
+10. in voorkomend geval, de uitkomsten van een voorlopige analyse van het zaad.
