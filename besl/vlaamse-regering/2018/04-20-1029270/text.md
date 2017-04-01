@@ -101,3 +101,8 @@ In artikel VII 91 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 
 In artikel VII 109octies, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 april 2011 en gewijzigd bij het besluit van de Vlaamse Regering van 1 februari 2013, worden de woorden "Vlaams ministerie Internationaal Vlaanderen" vervangen door de woorden "Vlaams ministerie van Buitenlandse Zaken".<br>
 &nbsp;
+
+### ART 47.
+
+&nbsp;In artikel VII 126, § 2, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 2 december 2011, wordt het woord "LNE" vervangen door het woord "Omgeving".<br>
+&nbsp;
