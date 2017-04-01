@@ -2,16 +2,16 @@
   "codex_id": 1022642,
   "title": "Besluit van de Vlaamse Regering van 2013-01-11 betreffende het materieel beheer van de dienst met afzonderlijk beheer Veiling Emissierechten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022642/VolledigDocument?datum=2013-01-22",
-  "source_sha256": "42b2732db7769d4fc8ea4de1b79174de4e1c0fac868375714ddfefc195a454b7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022642/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "dced9998097a62b4d3435b74c3d9b3648d6230633bcbf7764fb0910931688610",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022642&param=informatie",
-  "as_of": "2013-01-22",
+  "as_of": "2017-04-01",
   "made": "2013-01-11",
   "gazette": "2013-01-22",
   "numac": 2013035025,
   "document_start": "2013-01-22",
   "document_end": null,
-  "in_force": "2013-01-22",
+  "in_force": "2017-04-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2013-01-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }

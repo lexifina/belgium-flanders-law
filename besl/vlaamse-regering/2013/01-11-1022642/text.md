@@ -18,7 +18,9 @@ De secretaris-generaal van het Departement Financiën en Begroting, of zijn   pl
 
 ### ART. 4.
 
-<P>Met betrekking tot het beheer van de DAB worden alle delegaties van   beslissingsbevoegdheden, die vermeld zijn in het besluit van de Vlaamse Regering   van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden   aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse   overheid, uitgeoefend door de secretaris-generaal van het Departement Financiën   en Begroting, of zijn plaatsvervanger.<BR></P>  <P>Beslissingen met betrekking tot het veilingsprocédé worden genomen op basis   van een gezamenlijk advies van het Departement Financiën en Begroting en het   Departement Leefmilieu, Natuur en Energie.<BR></P>
+<p>Met betrekking tot het beheer van de DAB worden alle delegaties van beslissingsbevoegdheden, die vermeld zijn in het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid, uitgeoefend door de secretaris-generaal van het Departement Financiën en Begroting, of zijn plaatsvervanger.</p>
+
+<p>Beslissingen met betrekking tot het veilingsprocédé worden genomen op basis van een gezamenlijk advies van het Departement Financiën en Begroting en het Departement Omgeving.</p>
 
 ### ART. 5.
 
