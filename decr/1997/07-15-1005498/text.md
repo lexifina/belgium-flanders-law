@@ -1015,7 +1015,9 @@ De Vlaamse Regering stelt de voorwaarden vast waaronder sociale woonorganisaties
 <br>
 De kredietmaatschappij wendt de netto-opbrengst van de participatie, vermeld in het eerste lid, aan voor de financiering van de sociale leningen, vermeld in dit decreet.<br>
 <br>
-§ 4. De Vlaamse Regering legt de voorwaarden vast voor het interne beheer en het rekeningstelsel dat de kredietmaatschappijen, vermeld in paragraaf 1, eerste lid, 1°, hanteren.
+§ 4. De Vlaamse Regering legt de voorwaarden vast voor het interne beheer en het rekeningstelsel dat de kredietmaatschappijen, vermeld in paragraaf 1, eerste lid, 1°, hanteren.<br>
+<br>
+§ 5. Bij uitwinning of ter voorkoming van een uitwinning van de waarborg vermeld in artikel 78, § 2, kan de Vlaamse Regering het VWF opdracht geven tot overname van de activa en passiva van de in artikel 78, § 1, eerste lid, 1°, vermelde kredietmaatschappijen.
 
 ### ART. 79.
 
