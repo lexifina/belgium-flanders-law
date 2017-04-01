@@ -18,7 +18,22 @@
 
 ### ART. 4.
 
-§ 1. Het ontwerpplan wordt opgesteld door een planningsteam dat als volgt is samengesteld : <br />1° de leidend ambtenaar van het departement;<br />2° de algemeen directeur van het departement;<br />3° de projectleider Milieubeleidsplanning van het departement;<br />4° de leidend ambtenaar van de Studiedienst van de Vlaamse Regering<br />5° de leidend ambtenaar van het Agentschap voor Natuur en Bos;<br />6° de leidend ambtenaar van de Vlaamse Landmaatschappij; <br />7° de leidend ambtenaar van de Vlaamse Milieumaatschappij; <br />8° de leidend ambtenaar van het Instituut voor Natuur- en Bosonderzoek;<br />9° de leidend ambtenaar van de Openbare Vlaamse Afvalstoffenmaatschappij.<br /><br />§ 2. Als coördinator van het planningsteam wordt de leidend ambtenaar van het departement aangesteld of, bij diens verhindering, de algemeen directeur van het departement. <br /><br />§ 3. Het planningsteam wordt in zijn opdracht bijgestaan door een planningsgroep, gecoördineerd door de projectleider Milieubeleidsplanning van het departement. <br /><br />De betrokken entiteiten, vermeld in artikel 2, zijn vertegenwoordigd in de planningsgroep.
+§ 1. Het ontwerpplan wordt opgesteld door een planningsteam dat als volgt is samengesteld :<br>
+1° de leidend ambtenaar van het Departement Omgeving;<br>
+2° de algemeen directeur van het Departement Omgeving;<br>
+3° de projectleider Milieubeleidsplanning van het Departement Omgeving;<br>
+4° de leidend ambtenaar van de Studiedienst van de Vlaamse Regering<br>
+5° de leidend ambtenaar van het Agentschap voor Natuur en Bos;<br>
+6° de leidend ambtenaar van de Vlaamse Landmaatschappij;<br>
+7° de leidend ambtenaar van de Vlaamse Milieumaatschappij;<br>
+8° de leidend ambtenaar van het Instituut voor Natuur- en Bosonderzoek;<br>
+9° de leidend ambtenaar van de Openbare Vlaamse Afvalstoffenmaatschappij.<br>
+<br>
+§ 2. Als coördinator van het planningsteam wordt de leidend ambtenaar van het Departement Omgeving aangesteld of, bij diens verhindering, de algemeen directeur van het Departement Omgeving.<br>
+<br>
+§ 3. Het planningsteam wordt in zijn opdracht bijgestaan door een planningsgroep, gecoördineerd door de projectleider Milieubeleidsplanning van het Departement Omgeving.<br>
+<br>
+De betrokken entiteiten, vermeld in artikel 2, zijn vertegenwoordigd in de planningsgroep.
 
 ### ART. 5.
 
@@ -26,7 +41,13 @@
 
 ### ART. 6.
 
-§ 1. Het Departement Leefmilieu, Natuur en Energie, hierbij inhoudelijk ondersteund door het planningsteam, stelt de bevolking in kennis conform § 2 van artikel 2.1.9 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br /><br />§ 2. De gemeenten dienen de opmerkingen die ze conform § 4 van voornoemd artikel naar het planningsteam sturen te verwerken tot één advies in de vorm van een proces-verbaal, met als bijlage de ontvangen opmerkingen. Ze sturen eveneens een kopie van ditzelfde proces-verbaal naar de provincie waartoe ze behoren.<br /><br />§ 3. De informatie- en inspraakvergadering conform § 5 van voornoemd artikel dient minstens tweemaal in elke provincie te worden georganiseerd. Een van deze vergaderingen dient plaats te vinden buiten de normale kantooruren.<br /><br />§ 4. Van de informatie- en inspraakvergadering conform § 5 van voornoemd artikel, stuurt de provincie aan het planningsteam een proces-verbaal op met daarin de geformuleerde opmerkingen en met haar advies.
+§ 1. Het Departement Omgeving, hierbij inhoudelijk ondersteund door het planningsteam, stelt de bevolking in kennis conform § 2 van artikel 2.1.9 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
+<br>
+§ 2. De gemeenten dienen de opmerkingen die ze conform § 4 van voornoemd artikel naar het planningsteam sturen te verwerken tot één advies in de vorm van een proces-verbaal, met als bijlage de ontvangen opmerkingen. Ze sturen eveneens een kopie van ditzelfde proces-verbaal naar de provincie waartoe ze behoren.<br>
+<br>
+§ 3. De informatie- en inspraakvergadering conform § 5 van voornoemd artikel dient minstens tweemaal in elke provincie te worden georganiseerd. Een van deze vergaderingen dient plaats te vinden buiten de normale kantooruren.<br>
+<br>
+§ 4. Van de informatie- en inspraakvergadering conform § 5 van voornoemd artikel, stuurt de provincie aan het planningsteam een proces-verbaal op met daarin de geformuleerde opmerkingen en met haar advies.
 
 ### ART. 7.
 
