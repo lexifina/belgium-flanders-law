@@ -2,16 +2,16 @@
   "codex_id": 1007255,
   "title": "Besluit van de Vlaamse Regering van 2000-04-28 tot aanwijzing van [de entiteiten van de Vlaamse administratie] die advies uitbrengen over een ontwerp van provinciaal ruimtelijk structuurplan",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007255/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "3a01b3eefb7902c4ea2117fdb492c1af1a308f3e06c52007ea766cd51d5a3ba3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007255/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "514e813299c0c14596cda2160c1a4684365d0f96c214c0445ff163cb6a7bf53a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007255&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2017-04-01",
   "made": "2000-04-28",
   "gazette": "2000-05-13",
   "numac": 2000035451,
   "document_start": "2000-05-13",
   "document_end": null,
-  "in_force": "2016-01-01",
+  "in_force": "2017-04-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }

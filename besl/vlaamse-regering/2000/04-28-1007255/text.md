@@ -4,9 +4,9 @@
 
 Over een ontwerp van provinciaal ruimtelijk structuurplan wordt bij de bevoegde adviescommissie advies uitgebracht door :<br>
 1° het Departement Landbouw en Visserij;<br>
-2° het Departement Leefmilieu, Natuur en Energie;<br>
+2° ...<br>
 3° het Departement Mobiliteit en Openbare Werken;<br>
-4° het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+4° het Departement Omgeving;<br>
 5° het Agentschap voor Binnenlands Bestuur;<br>
 6° Toerisme Vlaanderen;<br>
 7° het Agentschap Innoveren en Ondernemen;<br>
@@ -15,7 +15,7 @@ Over een ontwerp van provinciaal ruimtelijk structuurplan wordt bij de bevoegde 
 10° de Vlaamse Milieumaatschappij;<br>
 11° de Vlaamse Landmaatschappij;<br>
 12° de Vlaamse Vervoermaatschappij - De Lijn;<br>
-13° het agentschap van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed dat belast is met het uitvoeren van het beleid inzake onroerend erfgoed.<br>
+13° het agentschap van het beleidsdomein Omgeving dat belast is met het uitvoeren van het beleid inzake onroerend erfgoed.<br>
 14° Sport Vlaanderen.
 
 ### ART. 2.
