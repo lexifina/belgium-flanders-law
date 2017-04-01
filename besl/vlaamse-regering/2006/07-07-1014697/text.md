@@ -20,7 +20,14 @@ Besluit :
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br />2° Vlaamse Wooncode: het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br />3° domeindecreet: het decreet van 24 maart 2006 houdende wijziging van decretale bepalingen inzake wonen als gevolg van het bestuurlijk beleid;<br />4° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30, § 1, eerste lid, van de Vlaamse Wooncode;<br />5° VHM : de Vlaamse Huisvestingsmaatschappij, vermeld in artikel 30, § 1, tweede lid, van de Vlaamse Wooncode;<br />6° ministerie : het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
+2° Vlaamse Wooncode: het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+3° domeindecreet: het decreet van 24 maart 2006 houdende wijziging van decretale bepalingen inzake wonen als gevolg van het bestuurlijk beleid;<br>
+4° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30, § 1, eerste lid, van de Vlaamse Wooncode;<br>
+5° VHM : de Vlaamse Huisvestingsmaatschappij, vermeld in artikel 30, § 1, tweede lid, van de Vlaamse Wooncode;<br>
+6° ministerie : het Vlaams Ministerie van Omgeving.<br>
+&nbsp;
 
 ## HOOFDSTUK II Rechtsopvolging van de VHM
 
