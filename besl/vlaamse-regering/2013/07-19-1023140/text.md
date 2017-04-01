@@ -6,7 +6,14 @@ Professor Marc Vervenne zet zijn huidig mandaat als niet-ambtelijk lid en   voor
 
 ### ART. 2.
 
-Het mandaat van de volgende stemgerechtigde leden van de Vlaamse Unesco   Commissie komt in aanmerking voor hernieuwing of vervanging : <BR>Drie   niet-ambtelijke leden : <BR>- Stefaan De Ruyck, directeur Kunstencentrum   Vooruit, Gent.<BR>- Ernest Van Buynder, Universiteit Antwerpen.<BR>- Kathelijne   Vandensavel, Directeur KA Tienen.<BR>Twee ambtelijke leden : <BR>- Piet Geleyns,   beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed. <BR>- Ruth   Lamotte, beleidsdomein Onderwijs en Vorming.
+Het mandaat van de volgende stemgerechtigde leden van de Vlaamse Unesco Commissie komt in aanmerking voor hernieuwing of vervanging :<br>
+Drie niet-ambtelijke leden :<br>
+- Stefaan De Ruyck, directeur Kunstencentrum Vooruit, Gent.<br>
+- Ernest Van Buynder, Universiteit Antwerpen.<br>
+- Kathelijne Vandensavel, Directeur KA Tienen.<br>
+Twee ambtelijke leden :<br>
+- Piet Geleyns, beleidsdomein Omgeving.<br>
+- Ruth Lamotte, beleidsdomein Onderwijs en Vorming.
 
 ### ART. 3.
 
