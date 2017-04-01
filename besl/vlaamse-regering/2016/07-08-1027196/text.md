@@ -28,7 +28,7 @@ Besluit :<br>
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, opgericht bij het besluit van de Vlaamse Regering van 16 december 2005;<br>
+1° agentschap: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving, opgericht bij het besluit van de Vlaamse Regering van 16 december 2005;<br>
 2° initiatiefnemer: een intergemeentelijk samenwerkingsverband als vermeld in het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
 3° lokale woonactoren: de gemeenten, de openbare centra voor maatschappelijk welzijn, de sociale woonorganisaties, vermeld in artikel 2, § 1, eerste lid, 26°, van de Vlaamse Wooncode, en alle andere actoren die werkzaam zijn op het vlak van wonen of daarbij betrokken zijn vanuit hun werking;<br>
 4° minister: de Vlaamse minister, bevoegd voor de huisvesting;<br>
