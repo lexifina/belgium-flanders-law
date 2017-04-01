@@ -30,7 +30,17 @@ De voorzitter van de Commissie Hoger Onderwijs kan een instelling vragen,   binn
 
 ### ART. 7.
 
-De minister benoemt en ontslaat de leden van de Commissie Hoger Onderwijs.   De benoeming en het ontslag worden gemeld aan de Vlaamse Regering.<BR><BR>De   leden worden benoemd voor een periode van drie jaar. Na afloop van de eerste   periode kunnen de leden eenmaal herbenoemd worden voor een nieuwe periode van   drie jaar. <BR><BR>De leden van de Commissie Hoger Onderwijs zijn onafhankelijk   ten opzichte van de instellingen waarop hun taken betrekking hebben.   <BR><BR>Personeelsleden die onder het gezag van de Vlaamse Regering staan,   kunnen geen lid van de Commissie Hoger Onderwijs zijn.<BR><BR>De minister kan   een lid van de Commissie Hoger Onderwijs enkel ontslaan wegens onbekwaamheid   voor het vervullen van de functie, wegens kennelijke nalatigheid of wegens een   andere zwaarwegende reden die betrekking heeft op de persoon zelf. Daarnaast kan   een lid van de Commissie Hoger Onderwijs ontslagen worden op zijn eigen   verzoek.
+De minister benoemt en ontslaat de leden van de Commissie Hoger Onderwijs. De benoeming en het ontslag worden gemeld aan de Vlaamse Regering.<br>
+<br>
+De leden worden benoemd voor een periode van drie jaar. Na afloop van de eerste periode kunnen de leden eenmaal herbenoemd worden voor een nieuwe periode van drie jaar.<br>
+<br>
+Als na aflopen van een mandaatsperiode van drie jaar nog geen besluit tot nieuwe samenstelling is genomen, kan de minister bevoegd voor het onderwijs het lopende mandaat van de commissie, of een deel ervan, met een periode van maximaal zes maanden verlengen. Deze verlenging wordt gemeld aan de Vlaamse Regering.<br>
+<br>
+De leden van de Commissie Hoger Onderwijs zijn onafhankelijk ten opzichte van de instellingen waarop hun taken betrekking hebben.<br>
+<br>
+Personeelsleden die onder het gezag van de Vlaamse Regering staan, kunnen geen lid van de Commissie Hoger Onderwijs zijn.<br>
+<br>
+De minister kan een lid van de Commissie Hoger Onderwijs enkel ontslaan wegens onbekwaamheid voor het vervullen van de functie, wegens kennelijke nalatigheid of wegens een andere zwaarwegende reden die betrekking heeft op de persoon zelf. Daarnaast kan een lid van de Commissie Hoger Onderwijs ontslagen worden op zijn eigen verzoek.
 
 ### ART. 8.
 
