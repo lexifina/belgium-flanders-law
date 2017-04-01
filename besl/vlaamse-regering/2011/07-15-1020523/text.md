@@ -18,7 +18,21 @@ Binnen de perken van de begroting gelden voor de subsidiëring van de   projecte
 
 ### ART. 4.
 
-§ 1. Het inhoudelijke verslag bevat minimaal : <br />1° een verslag van de bereikte resultaten en, in voorkomend geval, de redenen waarom de resultaten niet of slechts gedeeltelijk gehaald werden; <br />2° een omschrijving van de doorlopen processen om de resultaten te bereiken;<br />3° een planning voor de verdere aanpak in het licht van de te bereiken resultaten;<br />4° suggesties tot aanpassing van de regelgeving.<br /><br />§ 2. Het financiële verslag bevat : <br />1° een overzicht van de inkomsten en uitgaven, uitgezonderd de investeringskost zoals in de projectaanvraag bepaald;<br />2° de oorsprong, de omvang en de besteding van de eventuele middelen die verkregen worden buiten dit besluit en die aangewend worden om de activiteiten te realiseren;<br />3° een voor waar en echt verklaarde schuldvordering en de bijbehorende genummerde bewijsstukken om de aanwending van de subsidie te staven;<br />4° indien van toepassing, een afschrijvingstabel met de lopende en nieuwe afschrijvingen.<br /><br />§ 3. Zowel de inhoudelijke als de financiële verslagen worden ondertekend door de initiatiefnemer en alle partners die het project mee onderschreven hebben. Het financieel verslag wordt in tweevoud bezorgd aan het Departement Welzijn, Volksgezondheid en Gezin. Het inhoudelijk verslag wordt in tweevoud bezorgd aan het Departement Welzijn, Volksgezondheid en Gezin en het Departement Ruimtelijke Ordening, Wonen en Onroerend Erfgoed.<br /><br />De begunstigde is finaal verantwoordelijk voor de staving van het financiële verslag ten aanzien van de Vlaamse overheid.
+§ 1. Het inhoudelijke verslag bevat minimaal :<br>
+1° een verslag van de bereikte resultaten en, in voorkomend geval, de redenen waarom de resultaten niet of slechts gedeeltelijk gehaald werden;<br>
+2° een omschrijving van de doorlopen processen om de resultaten te bereiken;<br>
+3° een planning voor de verdere aanpak in het licht van de te bereiken resultaten;<br>
+4° suggesties tot aanpassing van de regelgeving.<br>
+<br>
+§ 2. Het financiële verslag bevat :<br>
+1° een overzicht van de inkomsten en uitgaven, uitgezonderd de investeringskost zoals in de projectaanvraag bepaald;<br>
+2° de oorsprong, de omvang en de besteding van de eventuele middelen die verkregen worden buiten dit besluit en die aangewend worden om de activiteiten te realiseren;<br>
+3° een voor waar en echt verklaarde schuldvordering en de bijbehorende genummerde bewijsstukken om de aanwending van de subsidie te staven;<br>
+4° indien van toepassing, een afschrijvingstabel met de lopende en nieuwe afschrijvingen.<br>
+<br>
+§ 3. Zowel de inhoudelijke als de financiële verslagen worden ondertekend door de initiatiefnemer en alle partners die het project mee onderschreven hebben. Het financieel verslag wordt in tweevoud bezorgd aan het Departement Welzijn, Volksgezondheid en Gezin. Het inhoudelijk verslag wordt in tweevoud bezorgd aan het Departement Welzijn, Volksgezondheid en Gezin en het Departement Omgeving.<br>
+<br>
+De begunstigde is finaal verantwoordelijk voor de staving van het financiële verslag ten aanzien van de Vlaamse overheid.
 
 ### ART. 5.
 
