@@ -8,7 +8,17 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 22 december 1995 houden
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<BR>1°   administratie : de gemeentelijke of intergemeentelijke administratieve eenheid   die door het gemeentebestuur belast wordt met de opmaak en de opbouw van het   leegstandsregister;<BR>2° agentschap : het intern verzelfstandigd agentschap   Wonen-Vlaanderen;<BR>3° beroepsinstantie : <BR>a) het college van burgemeester   en schepenen of het gedelegeerde personeelslid, vermeld in artikel 2.2.7, § 5,   van het decreet;<BR>b) het beslissingsorgaan van de intergemeentelijke   administratieve eenheid met rechtspersoonlijkheid, vermeld in artikel 2.2.6, §   1, tweede lid, van het decreet; <BR>4° decreet : het decreet van 27 maart 2009   betreffende het grond- en pandenbeleid;<BR>5° departement : het Departement   Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<BR>6° leegstaand gebouw :   een gebouw als vermeld in artikel 2.2.6, § 2 of § 4, van het decreet, met behoud   van de toepassing artikel 2.2.6, § 5, van het decreet;<BR>7° leegstaande woning   : een woning als vermeld in artikel 2.2.6, § 3 of § 4, van het decreet, met   behoud van de toepassing artikel 2.2.6, § 6, tweede lid, van het decreet;<BR>8°   leegstandsregister : het gemeentelijke register van leegstaande gebouwen en   woningen, vermeld in artikel 2.2.6, § 1, van het decreet, dat opgemaakt wordt   als een digitaal bestand, conform de technische richtlijnen van het   departement.
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° administratie : de gemeentelijke of intergemeentelijke administratieve eenheid die door het gemeentebestuur belast wordt met de opmaak en de opbouw van het leegstandsregister;<br>
+2° agentschap : het intern verzelfstandigd agentschap Wonen-Vlaanderen;<br>
+3° beroepsinstantie :<br>
+a) het college van burgemeester en schepenen of het gedelegeerde personeelslid, vermeld in artikel 2.2.7, § 5, van het decreet;<br>
+b) het beslissingsorgaan van de intergemeentelijke administratieve eenheid met rechtspersoonlijkheid, vermeld in artikel 2.2.6, § 1, tweede lid, van het decreet;<br>
+4° decreet : het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid;<br>
+5° departement: het Departement Omgeving;<br>
+6° leegstaand gebouw : een gebouw als vermeld in artikel 2.2.6, § 2 of § 4, van het decreet, met behoud van de toepassing artikel 2.2.6, § 5, van het decreet;<br>
+7° leegstaande woning : een woning als vermeld in artikel 2.2.6, § 3 of § 4, van het decreet, met behoud van de toepassing artikel 2.2.6, § 6, tweede lid, van het decreet;<br>
+8° leegstandsregister : het gemeentelijke register van leegstaande gebouwen en woningen, vermeld in artikel 2.2.6, § 1, van het decreet, dat opgemaakt wordt als een digitaal bestand, conform de technische richtlijnen van het departement.
 
 ## HOOFDSTUK 2. Opmaak en actualisering van het leegstandsregister
 
