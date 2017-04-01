@@ -2,16 +2,16 @@
   "codex_id": 1014525,
   "title": "Besluit van de Vlaamse Regering van 2006-03-31 tot operationalisering van het beleidsdomein Leefmilieu, Natuur en Energie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014525/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "1fae947872a9924149321d36d6ba1c0080405788c526135a59927dec74cf8447",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014525/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "d2a9533ef850c1aa6a975dd2869cde585ca57fd32e32a3437065b7474020ee16",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014525&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2017-04-01",
   "made": "2006-03-31",
   "gazette": "2006-05-19",
   "numac": 2006035767,
   "document_start": "2006-04-01",
   "document_end": "2017-03-31",
-  "in_force": "2006-06-01",
+  "in_force": "2017-04-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
