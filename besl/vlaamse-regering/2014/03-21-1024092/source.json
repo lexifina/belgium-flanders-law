@@ -2,16 +2,16 @@
   "codex_id": 1024092,
   "title": "Besluit van de Vlaamse Regering van 2014-03-21 betreffende de administratieve samenwerking op het gebied van belastingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024092/VolledigDocument?datum=2017-03-15",
-  "source_sha256": "f2d3f41cea53db5b5bfc4042d8504679e2863ed9a11f30601990fec978ca1f7d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024092/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "317712953ce0735d06b84c9aad948446e4f58d0e98b72302c6ac0c3692179b59",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024092&param=informatie",
-  "as_of": "2017-03-15",
+  "as_of": "2017-04-01",
   "made": "2014-03-21",
   "gazette": "2014-05-15",
   "numac": 2014035433,
   "document_start": "2013-06-27",
   "document_end": null,
-  "in_force": "2017-03-15",
+  "in_force": "2017-04-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2017-03-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }

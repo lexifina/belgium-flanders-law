@@ -10,11 +10,15 @@ Dit besluit voorziet in de omzetting van richtlijn 2011/16/EU van de Raad van 15
 
 ### ART. 2.
 
-De volgende instanties worden als verbindingsdienst gemachtigd om conform   het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het   gebied van belastingen rechtstreeks inlichtingen uit te wisselen :<BR>1° het   Departement Leefmilieu, Natuur en Energie, wat betreft elke vorm van belastingen   die onder het beleidsdomein Leefmilieu, Natuur en Energie ressorteren;<BR>2° de   Vlaamse Belastingdienst, wat betreft elke andere vorm van belastingen, geheven   door het Vlaamse Gewest, de Vlaamse Gemeenschap of de Vlaamse provincies en   gemeenten.
+De volgende instanties worden als verbindingsdienst gemachtigd om conform het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van belastingen rechtstreeks inlichtingen uit te wisselen :<br>
+1° het Departement Omgeving, wat betreft elke vorm van belastingen die onder het beleidsdomein Omgeving ressorteren;<br>
+2° de Vlaamse Belastingdienst, wat betreft elke andere vorm van belastingen, geheven door het Vlaamse Gewest, de Vlaamse Gemeenschap of de Vlaamse provincies en gemeenten.
 
 ### ART. 3.
 
-In geval van gelijktijdige controle als vermeld in artikel 16 van het   decreet van 21 juni 2013 betreffende de administratieve samenwerking op het   gebied van belastingen, worden de volgende vertegenwoordigers belast met de   leiding en de coördinatie van de controle :<BR>1° de leidend ambtenaar van het   Departement Leefmilieu, Natuur en Energie, wat betreft de belastingen die onder   het beleidsdomein Leefmilieu, Natuur en Energie ressorteren;<BR>2° de leidend   ambtenaar van de Vlaamse Belastingdienst, wat betreft de overige belastingen,   geheven door het Vlaamse Gewest, de Vlaamse Gemeenschap of de Vlaamse provincies   en gemeenten.
+In geval van gelijktijdige controle als vermeld in artikel 16 van het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van belastingen, worden de volgende vertegenwoordigers belast met de leiding en de coördinatie van de controle :<br>
+1° de leidend ambtenaar van het Departement Omgeving, wat betreft de belastingen die onder het beleidsdomein Omgeving ressorteren;<br>
+2° de leidend ambtenaar van de Vlaamse Belastingdienst, wat betreft de overige belastingen, geheven door het Vlaamse Gewest, de Vlaamse Gemeenschap of de Vlaamse provincies en gemeenten.
 
 ### ART 3/1.
 
