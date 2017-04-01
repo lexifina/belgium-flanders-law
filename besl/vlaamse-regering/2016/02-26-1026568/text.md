@@ -22,7 +22,7 @@ Ter   uitvoering van artikel 4, § 1, van het decreet van 27 november 2015 is de
 
 ### ART. 5.
 
-De   afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid van het Departement   Leefmilieu, Natuur en Energie, vermeld in artikel 27, § 1, van het besluit van   de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de   Vlaamse administratie, is de gemachtigde dienst, vermeld in artikel 5 van het   decreet van 27 november 2015.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Het Departement Omgeving is de gemachtigde dienst, vermeld in artikel 5 van het decreet van 27 november 2015.
 
 ### ART. 6.
 
