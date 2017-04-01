@@ -8,7 +8,7 @@ In dit besluit wordt verstaan onder:<BR>1° ruimtelijk kwetsbare   gebieden:<BR>
 
 De instellingen en administraties die over een voorontwerp van een gewestelijk, provinciaal of gemeentelijk ruimtelijk uitvoeringsplan een advies uitbrengen, zijn:<br>
 1° de bevoegde commissie voor ruimtelijke ordening;<br>
-2° het agentschap van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed dat belast is met het uitvoeren van het beleid inzake onroerend erfgoed als de gronden of de erop aanwezige constructies, gelegen binnen de begrenzing van het uitvoeringsplan,<br>
+2° het agentschap van het beleidsdomein Omgeving dat belast is met het uitvoeren van het beleid inzake onroerend erfgoed als de gronden of de erop aanwezige constructies, gelegen binnen de begrenzing van het uitvoeringsplan,<br>
 a) geheel of ten dele zijn beschermd als monument, of eraan palen;<br>
 b) geheel of ten dele beschermd zijn als cultuurhistorisch landschap, dorps- of stadsgezicht;<br>
 c) ...;<br>
@@ -32,13 +32,13 @@ g) de bestemming parkgebied of bosgebied verkrijgen in afwijking van de bestaand
 a) volgens de bestaande plannen van aanleg of uitvoeringsplannen geheel of ten dele zijn bestemd als industriegebied, bedrijventerrein of een ermee vergelijkbaar gebied;<br>
 b) volgens de bestaande plannen van aanleg of uitvoeringsplannen geheel of ten dele specifiek zijn bestemd voor de vestiging van kleinhandelsbedrijven of voorzien in een concentratie van kleinhandelsbedrijven;<br>
 c) een van de bestemmingen, vermeld in punt a) of b), verkrijgen in afwijking van de bestaande plannen van aanleg of uitvoeringsplannen;<br>
-8° het Departement Leefmilieu, Natuur en Energie, als de gronden, gelegen binnen de begrenzing van het uitvoeringsplan:<br>
+8° het Departement Omgeving, als de gronden, gelegen binnen de begrenzing van het uitvoeringsplan:<br>
 a) volgens de bestaande plannen van aanleg of uitvoeringsplannen geheel of ten dele zijn bestemd als ontginningsgebied, uitbreiding van ontginningsgebied, of een ermee vergelijkbaar gebied;<br>
 b) deze bestemming verkrijgen in afwijking van de bestaande plannen van aanleg of uitvoeringsplannen;<br>
 9° het agentschap Wonen Vlaanderen, als de gronden, gelegen binnen de begrenzing van het uitvoeringsplan:<br>
 a) volgens de bestaande plannen van aanleg of uitvoeringsplannen geheel of ten dele zijn bestemd als woonuitbreidingsgebied, woonreservegebied, of een ermee vergelijkbaar gebied;<br>
 b) de bestemming woongebied of een ermee vergelijkbaar gebied verkrijgen in afwijking van de bestaande plannen van aanleg of uitvoeringsplannen, voor zover de bestemmingswijziging betrekking heeft op een oppervlakte van ten minste een halve hectare;<br>
-10° het Departement Leefmilieu, Natuur en energie , voorzover het uitvoeringsplan de vestiging van bedrijven of activiteiten toelaat die onderworpen zijn aan de milieuvergunningsplicht klasse I;<br>
+10° het Departement Omgeving, voorzover het uitvoeringsplan de vestiging van bedrijven of activiteiten toelaat die onderworpen zijn aan de milieuvergunningsplicht klasse I;<br>
 11° De Scheepvaart, Waterwegen en Zeekanaal, het Agentschap voor Maritieme Dienstverlening en Kust of het Departement Mobiliteit en Openbare Werken, telkens binnen hun werkgebied, als:<br>
 a) er bevaarbare waterlopen gelegen zijn binnen de begrenzing van het uitvoeringsplan;<br>
 b) de gronden, gelegen binnen de begrenzing van het uitvoeringsplan, gelegen zijn binnen de met die waterlopen verbonden overstromingsgebieden die op de plannen van aanleg of de ruimtelijke uitvoeringsplannen aangegeven zijn;<br>
@@ -70,8 +70,8 @@ c) gelegen zijn binnen een straal van 250 meter van een stationsgebouw;<br>
 a) een gebied waarin zich minstens 250 bestaande en/of geplande woongelegenheden bevinden;<br>
 b) en gebied waarin zich minstens 250 bestaande en/of geplande arbeidsplaatsen bevinden;<br>
 c) de geografische afbakening van een grootstedelijk gebied, een stedelijk gebied, een randstedelijk gebied, een kleinstedelijk gebied of een buitengebied zoals bedoeld in het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg;<br>
-18° het Bestuur van de Luchtvaart van het federaal Ministerie van Verkeer en Infrastructuur en het Departement Leefmilieu, Natuur en Energie, voorzover het uitvoeringsplan betrekking heeft op de nationale luchthaven, of een invloed heeft op de afwikkeling van het vliegverkeer;<br>
-19° het Departement Mobiliteit en Openbare Werken en het Departement Leefmilieu, Natuur en Energie, voorzover het uitvoeringsplan betrekking heeft op een regionale luchthaven, of een betekenisvolle invloed heeft op de afwikkeling van het vliegverkeer;<br>
+18° het Bestuur van de Luchtvaart van het federaal Ministerie van Verkeer en Infrastructuur en het Departement Omgeving, voorzover het uitvoeringsplan betrekking heeft op de nationale luchthaven, of een invloed heeft op de afwikkeling van het vliegverkeer;<br>
+19° het Departement Mobiliteit en Openbare Werken en het Departement Omgeving, voorzover het uitvoeringsplan betrekking heeft op een regionale luchthaven, of een betekenisvolle invloed heeft op de afwikkeling van het vliegverkeer;<br>
 20° Toerisme Vlaanderen en Sport Vlaanderen als de gronden, gelegen binnen de grenzen van het uitvoeringsplan:<br>
 a) volgens de bestaande plannen van aanleg of uitvoeringsplannen geheel of ten dele bestemd zijn als recreatiegebied, gebied voor verblijfsrecreatie of ermee vergelijkbaar gebied;<br>
 b) deze bestemming verkrijgen in afwijking van de bestaande plannen van aanleg of uitvoeringsplannen;<br>
