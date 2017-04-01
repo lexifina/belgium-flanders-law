@@ -150,7 +150,16 @@ De volgende actoren inzake dierlijke bijproducten en afgeleide producten   zijn 
 
 ### ART. 24.
 
-<P>De commissie Krengenfinanciering is samengesteld uit :<BR>1°   vertegenwoordigers van de landbouworganisaties;<BR>2° vertegenwoordigers van de   inzamelaars en verwerkers van kadavers van landbouwdieren;<BR>3° personeelsleden   van de OVAM;<BR>4° personeelsleden van het Departement Leefmilieu, Natuur en   Energie;<BR>5° personeelsleden van het Departement Landbouw en Visserij;<BR>6°   facultatief personeelsleden van het Federaal Agentschap voor de Veiligheid van   de Voedselketen;<BR>7° facultatief personeelsleden van de Federale   Overheidsdienst Volksgezondheid, Veiligheid Voedselketen en Leefmilieu.<BR></P>  <P>De minister kan de nadere regels vaststellen voor de taken en de werking van   die commissie en wijst de leden aan.<BR></P>
+<p>De commissie Krengenfinanciering is samengesteld uit :<br>
+1° vertegenwoordigers van de landbouworganisaties;<br>
+2° vertegenwoordigers van de inzamelaars en verwerkers van kadavers van landbouwdieren;<br>
+3° personeelsleden van de OVAM;<br>
+4° personeelsleden van het Departement Omgeving;<br>
+5° personeelsleden van het Departement Landbouw en Visserij;<br>
+6° facultatief personeelsleden van het Federaal Agentschap voor de Veiligheid van de Voedselketen;<br>
+7° facultatief personeelsleden van de Federale Overheidsdienst Volksgezondheid, Veiligheid Voedselketen en Leefmilieu.</p>
+
+<p>De minister kan de nadere regels vaststellen voor de taken en de werking van die commissie en wijst de leden aan.</p>
 
 ## HOOFDSTUK 9 Wijzigingsbepalingen
 
