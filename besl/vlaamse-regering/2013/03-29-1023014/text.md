@@ -8,7 +8,13 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<BR>1°   kleinhandel : de verkoop van goederen aan de eindgebruiker;<BR>2°   kleinhandelsoppervlakte : de totale oppervlakte van de publiek toegankelijke   ruimten van een bedrijf met kleinhandelsactiviteiten, zowel binnen als buiten,   de ruimte die louter als parkeergelegenheid voor klanten wordt gebruikt niet   meegerekend;<BR>3° ontwikkelingen op korte termijn : de ontwikkelingen waarvoor   een bedrijf werken wil aanvatten binnen twee jaar na de afgifte van het   attest;<BR>4° ontwikkelingen op lange termijn : andere ontwikkelingen dan de   ontwikkelingen op korte termijn;<BR>5° het VEN : de gebieden van het Vlaams   Ecologisch Netwerk, aangeduid krachtens het decreet van 21 oktober 1997   betreffende het natuurbehoud en het natuurlijk milieu of in ruimtelijke   uitvoeringsplannen.<BR>6° het departement: het Departement Ruimtelijke Ordening,   Woonbeleid en Onroerend Erfgoed.
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° kleinhandel : de verkoop van goederen aan de eindgebruiker;<br>
+2° kleinhandelsoppervlakte : de totale oppervlakte van de publiek toegankelijke ruimten van een bedrijf met kleinhandelsactiviteiten, zowel binnen als buiten, de ruimte die louter als parkeergelegenheid voor klanten wordt gebruikt niet meegerekend;<br>
+3° ontwikkelingen op korte termijn : de ontwikkelingen waarvoor een bedrijf werken wil aanvatten binnen twee jaar na de afgifte van het attest;<br>
+4° ontwikkelingen op lange termijn : andere ontwikkelingen dan de ontwikkelingen op korte termijn;<br>
+5° het VEN : de gebieden van het Vlaams Ecologisch Netwerk, aangeduid krachtens het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu of in ruimtelijke uitvoeringsplannen.<br>
+6° departement: het Departement Omgeving.
 
 ## HOOFDSTUK II De aanvraag
 

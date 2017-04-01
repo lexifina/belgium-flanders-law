@@ -2,16 +2,16 @@
   "codex_id": 1023014,
   "title": "Besluit van de Vlaamse Regering van 2013-03-29 tot bepaling van de nadere regels inzake het planologisch attest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023014/VolledigDocument?datum=2017-02-23",
-  "source_sha256": "84af91722a1e2685b4023552af18e1b587ae7d171324fa4695893e2e80c5d208",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023014/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "12dc4de2bc19e238227da91062feb9b9fdc7f09db09674c8fecbfe65764a3bb7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023014&param=informatie",
-  "as_of": "2017-02-23",
+  "as_of": "2017-04-01",
   "made": "2013-03-29",
   "gazette": "2013-07-02",
   "numac": 2013035468,
   "document_start": "2013-08-01",
   "document_end": null,
-  "in_force": "2017-02-23",
+  "in_force": "2017-04-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
