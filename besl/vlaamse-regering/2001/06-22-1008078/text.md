@@ -2,7 +2,11 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° het samenwerkingsakkoord: het samenwerkingsakkoord van 21 juni 1999 gesloten tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken;<br />2° de administratie: het Departement Leefmilieu, Natuur en Energie.<br />3° de afdeling, bevoegd voor milieuhandhaving : de afdeling Milieu-Inspectie van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br />4° de afdeling, bevoegd voor veiligheidsrapportage : de afdeling Milieu-, Natuur- en Energiebeleid van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries.
+In dit besluit wordt verstaan onder:<br>
+1° het samenwerkingsakkoord: het samenwerkingsakkoord van 21 juni 1999 gesloten tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken;<br>
+2° de administratie: het Omgeving.<br>
+3° de afdeling, bevoegd voor milieuhandhaving : de subentiteit van het Departement Omgeving, bevoegd voor de handhaving van de milieuregelgeving;<br>
+4° de afdeling, bevoegd voor veiligheidsrapportage : de subentiteit van het Departement Omgeving, bevoegd voor de veiligheidsrapportage
 
 ### ART. 2.
 
