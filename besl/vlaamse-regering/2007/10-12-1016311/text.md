@@ -26,7 +26,12 @@ De begrippen en definities, vermeld in artikel 4.1.1 van het decreet van 5 april
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br />2° aanspreekpunt : de bevoegde autoriteit waarmee contact moet worden opgenomen ingeval een plan of programma aanzienlijke effecten kan hebben voor mens of milieu in de lidstaten van de Europese Unie, in de verdragspartijen bij het Verdrag inzake milieueffectrapportage in grensoverschrijdend verband, ondertekend in Espoo, op 25 februari 1991 of in andere gewesten; <br />3° bevoegde administratie : de dienst Milieueffectrapportage van de afdeling Milieu-, Natuur- en Energiebeleid van het Departement Leefmilieu, Natuur en Energie van het Ministerie van Leefmilieu, Natuur en Energie;<br />4° ondersteunende MER-cel : de dienst Begeleiding en Ondersteuning inzake Milieueffect- en Veiligheidsrapportage van het Departement Leefmilieu, Natuur en Energie van het Ministerie van Leefmilieu, Natuur en Energie;<br />5° studiegebied : het gebied waarbinnen het voorgenomen plan of programma aanzienlijke effecten kan veroorzaken voor mens of milieu.<br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° decreet : het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
+2° aanspreekpunt : de bevoegde autoriteit waarmee contact moet worden opgenomen ingeval een plan of programma aanzienlijke effecten kan hebben voor mens of milieu in de lidstaten van de Europese Unie, in de verdragspartijen bij het Verdrag inzake milieueffectrapportage in grensoverschrijdend verband, ondertekend in Espoo, op 25 februari 1991 of in andere gewesten;<br>
+3° bevoegde administratie : de subentiteit van het Departement Omgeving, bevoegd voor milieueffectrapportage;<br>
+4° de ondersteunende MER-cel: de subentiteit van het Departement Omgeving, bevoegd voor begeleiding en ondersteuning inzake milieueffect- en veiligheidsrapportage;<br>
+5° studiegebied : het gebied waarbinnen het voorgenomen plan of programma aanzienlijke effecten kan veroorzaken voor mens of milieu.
 
 ## HOOFDSTUK II. Onderzoek tot milieueffectrapportage
 
@@ -88,114 +93,114 @@ Dit besluit treedt in werking op 1 december 2007.<br />
 
 De Vlaamse minister, bevoegd voor het Leefmilieu, is belast met de uitvoering van dit besluit.<br />
 
-### BIJLAGE
+### BIJLAGE 1.
 
 Deze bijlage bevat de instanties die overeenkomstig artikel 3, § 1, 3°, door de initiatiefnemer moeten worden geraadpleegd. Deze werd ingedeeld per categorie van mogelijk te verwachten aanzienlijke effecten voor mens of milieu.<br>
 <br>
 Per onderstaande categorie van mogelijke aanzienlijke effecten voor mens of milieu wordt aangegeven welke instanties door de initiatiefnemer zullen worden geraadpleegd rekening houdend met zowel de mogelijk te verwachten aanzienlijke effecten als met de ligging van het voorgenomen plan of programma.<br>
 <br>
-Voor de toepassing van deze bijlage wordt verstaan onder :<br>
-1° BZ : behorende tot het beleidsdomein Bestuurszaken;<br>
-2° CJSM : behorende tot het beleidsdomein Cultuur, Jeugd, Sport en Media;<br>
-3° EWI : behorende tot het beleidsdomein Economie, Wetenschap en Innovatie;<br>
-4° MOW : behorende tot het beleidsdomein Mobiliteit en Openbare Werken;<br>
-5° LNE : behorende tot het beleidsdomein Leefmilieu, Natuur en Energie;<br>
-6° LV : behorende tot het beleidsdomein Landbouw en Visserij;<br>
-7° RWO : behorende tot het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
-8° WVG : behorende tot het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
-9° EVA : afkorting van extern verzelfstandigd agentschap;<br>
-10° IVA : afkorting van intern verzelfstandigd agentschap.<br>
+Voor de toepassing van deze bijlage wordt verstaan onder:<br>
+1° CJSM: behorende tot het beleidsdomein Cultuur, Jeugd, Sport en Media;<br>
+2° EWI: behorende tot het beleidsdomein Economie, Wetenschap en Innovatie;<br>
+3° KB: behorende tot het beleidsdomein Kanselarij en Bestuur;<br>
+4° MOW: behorende tot het beleidsdomein Mobiliteit en Openbare Werken;<br>
+5° OMG: behorend tot het beleidsdomein Omgeving;<br>
+6° LV: behorende tot het beleidsdomein Landbouw en Visserij;<br>
+7° WVG: behorende tot het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
+8° EVA: afkorting van extern verzelfstandigd agentschap;<br>
+9° IVA: afkorting van intern verzelfstandigd agentschap.<br>
 <br>
-1° op de gezondheid en de veiligheid van de mens :<br>
+1° op de gezondheid en de veiligheid van de mens:<br>
 - als het voorgenomen plan of programma als doelstelling heeft de realisatie van een industriegebied, een bedrijventerrein of een ermee vergelijkbaar gebied zal de afdeling Toezicht Volksgezondheid van het Agentschap Zorg en Gezondheid (WVG) of de provinciale afdelingen ervan geraadpleegd worden;<br>
 - als het voorgenomen plan of programma als doelstelling heeft de realisatie van een zone van openbaar nut, een recreatiegebied, een gebied voor verblijfsrecreatie of een ermee vergelijkbaar gebied zal de afdeling Toezicht Volksgezondheid van het Agentschap Zorg en Gezondheid (WVG) of de provinciale afdelingen ervan geraadpleegd worden;<br>
-- als het voorgenomen plan of programma geurhinder kan veroorzaken zal de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid (LNE) geraadpleegd worden;<br>
+- als het voorgenomen plan of programma geurhinder kan veroorzaken zal het Departement Omgeving geraadpleegd worden;<br>
 - als het voorgenomen plan of programma als doelstelling heeft de realisatie of wijziging van verkeersinfrastructuren zal de afdeling Toezicht Volksgezondheid van het Agentschap Zorg en Gezondheid (WVG) of de provinciale afdelingen ervan geraadpleegd worden;<br>
-- als het voorgenomen plan of programma als doelstelling heeft de realisatie van een industriegebied, een bedrijventerrein of een ermee vergelijkbaar gebied waar Seveso-bedrijven zich kunnen vestigen zal de dienst Veiligheidsrapportering van de afdeling Milieu-, Natuur- en Energiebeleid (LNE) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele het volgende omvatten :<br>
-a) gebied met woonfunctie :<br>
-1) woongebied, bepaald volgens artikelen 5 en 6 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en de gewestplannen, en de ermee vergelijkbare gebieden vastgesteld in de ruimtelijke uitvoeringsplannen met toepassing van de Vlaamse Codex Ruimtelijke Ordening;<br>
+- als het voorgenomen plan of programma als doelstelling heeft de realisatie van een industriegebied, een bedrijventerrein of een ermee vergelijkbaar gebied waar Seveso-bedrijven zich kunnen vestigen zal het departement Omgeving geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele het volgende omvatten:<br>
+a) gebied met woonfunctie:<br>
+1) woongebied, bepaald volgens artikelen 5 en 6 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en de gewestplannen, en de ermee vergelijkbare gebieden vastgesteld in de ruimtelijke uitvoeringsplannen met toepassing van de Vlaamse Codex Ruimtelijke Ordening;<br>
 2) groepen van minstens 5 bestaande, niet onteigende of in onteigeningsplannen opgenomen wooneenheden, die een ruimtelijk aaneengesloten geheel vormen, in andere gebieden dan vermeld in 1);<br>
-b) kwetsbare locaties : alle terreinen waarop zich scholen, ziekenhuizen en rust- en verzorgingstehuizen bevinden;<br>
-c) waardevolle of bijzonder kwetsbare natuurgebieden : één van de volgende gebieden :<br>
+b) kwetsbare locaties: alle terreinen waarop zich scholen, ziekenhuizen en rust- en verzorgingstehuizen bevinden;<br>
+c) waardevolle of bijzonder kwetsbare natuurgebieden: één van de volgende gebieden:<br>
 1) de speciale beschermingszones, de definitief vastgestelde gebieden die in aanmerking komen als speciale beschermingszone en de waterrijke gebieden van internationale betekenis overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 2) natuurgebieden met wetenschappelijke waarde en de ermee vergelijkbare gebieden, aangewezen op plannen van aanleg en de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br>
 d) door het publiek bezochte gebouwen en gebieden, inclusief recreatiegebieden, waarbij de gemiddelde aanwezigheid minstens 200 personen per dag is of waarbij op piekmomenten minstens 1 000 personen aanwezig zijn;<br>
-e) hoofdtransportwegen :<br>
-1) wegverkeer : de wegen behorende tot de categorieën 'hoofdwegen' en 'primaire wegen van categorie I' uit het Ruimtelijk Structuurplan Vlaanderen;<br>
-2) spoorwegverkeer : de spoorwegen behorende tot de categorie 'hoofdspoorwegen voor het personenvervoer' uit het Ruimtelijk Structuurplan Vlaanderen;<br>
+e) hoofdtransportwegen:<br>
+1) wegverkeer: de wegen behorende tot de categorieën 'hoofdwegen' en 'primaire wegen van categorie I' uit het Ruimtelijk Structuurplan Vlaanderen;<br>
+2) spoorwegverkeer: de spoorwegen behorende tot de categorie 'hoofdspoorwegen voor het personenvervoer' uit het Ruimtelijk Structuurplan Vlaanderen;<br>
 3) luchthavenverkeer in verband met het luchthaventerrein van Zaventem;<br>
-f) externe gevarenbron : een element in de omgeving die de oorzaak kan vormen van een zwaar ongeval bij een Seveso-inrichting zoals pijpleidingen, windturbines, hoogspanningsleidingen, LPG-tankstations,...<br>
-zal de dienst Veiligheidsrapportering van de afdeling Milieu-, Natuur- en Energiebeleid (LNE) geraadpleegd worden;<br>
+f) externe gevarenbron: een element in de omgeving die de oorzaak kan vormen van een zwaar ongeval bij een Seveso-inrichting zoals pijpleidingen, windturbines, hoogspanningsleidingen, LPG-tankstations,...<br>
+zal het Departement Omgeving geraadpleegd worden;<br>
 - als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele gelegen zijn in de kustzone zal de afdeling Kust van het Agentschap voor Maritieme Dienstverlening en Kust (MOW) geraadpleegd worden;<br>
 - als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele havens omvatten zal de afdeling Maritieme Toegang (MOW) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele waterwegen omvatten, zullen de afdeling Haven- en Waterbeleid (MOW) en voorzover ze de beheerder van de waterweg zijn, de EVA Waterwegen en Zeekanaal NV (MOW), de EVA NV De Scheepvaart (MOW) of de afdeling Maritieme Toegang (MOW), geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele waterwegen omvatten, zullen de afdeling Haven- en Waterbeleid (MOW) en voor zover ze de beheerder van de waterweg zijn, de EVA De Vlaamse Waterweg nv (MOW) of de afdeling Maritieme Toegang (MOW), geraadpleegd worden;<br>
 - als het voorgenomen plan of programma invloed kan hebben op de afwikkeling van het vliegverkeer van een regionale luchthaven zal de afdeling Algemeen Beleid (MOW) geraadpleegd worden;<br>
 <br>
-2° inzake ruimtelijke ordening :<br>
-- als het voorgenomen plan of programma uitvoering geeft aan een ruimtelijk structuurplan zal het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed (RWO) geraadpleegd worden;<br>
-- als het voorgenomen plan of programma mogelijke effecten kan hebben op de ruimtelijke ordening zal het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed (RWO) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele bestemd zijn als industriegebied, bedrijventerrein of een ermee vergelijkbaar gebied, zullen de Entiteit Ruimtelijke Economie (EWI) én de dienst Gebiedsgericht Beleid van de afdeling Milieu-, Natuur- en Energiebeleid (LNE) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele bestemd zijn als ontginningsgebied of een ermee vergelijkbaar gebied, zullen de Entiteit Ruimtelijke Economie (EWI), de afdeling Land en Bodembescherming, Ondergrond, Natuurlijke Rijkdommen (LNE) en de dienst Gebiedsgericht Beleid van de afdeling Milieu-, Natuur- en Energiebeleid (LNE) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele het volgende omvatten recreatiegebieden, gebieden voor verblijfsrecreatie of een ermee vergelijkbaar gebied, zal afhankelijk van de respectievelijke bevoegdheden Toerisme Vlaanderen of de IVA &nbsp;Sport Vlaanderen (CJSM) geraadpleegd worden;<br>
-- als het voorgenomen plan of programma als doelstelling heeft de realisatie of wijziging van een woongebied, een woonuitbreidingsgebied, een woonreservegebied of een ermee vergelijkbaar gebied, zullen het IVA Wonen-Vlaanderen (RWO), het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed (RWO) én de dienst Gebiedsgericht Beleid van de afdeling Milieu-, Natuur- en Energiebeleid (LNE) geraadpleegd worden;<br>
-- als het voorgenomen plan of programma het kader kan vormen voor vergunningen van stadsontwikkelingsprojecten, zullen de afdeling Woonbeleid (RWO), het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed (RWO), Team Vlaamse bouwmeester (BZ) en de dienst Gebiedsgericht Beleid van de afdeling Milieu-, Natuur- en Energiebeleid (LNE) geraadpleegd worden;<br>
-- als het voorgenomen plan of programma het kader kan vormen voor vergunningen voor verkeersinfrastructuren, zullen Team Vlaamse bouwmeester (BZ) en de dienst Gebiedsgericht Beleid van de afdeling Milieu-, Natuur- en Energiebeleid (LNE) geraadpleegd worden;<br>
+2° inzake ruimtelijke ordening:<br>
+- als het voorgenomen plan of programma uitvoering geeft aan een ruimtelijk structuurplan zal het Departement Omgeving geraadpleegd worden;<br>
+- als het voorgenomen plan of programma mogelijke effecten kan hebben op de ruimtelijke ordening zal het Departement Omgeving geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele bestemd zijn als industriegebied, bedrijventerrein of een ermee vergelijkbaar gebied, zullen de Entiteit Ruimtelijke Economie (EWI) én het Departement Omgeving geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele bestemd zijn als ontginningsgebied of een ermee vergelijkbaar gebied, zullen de Entiteit Ruimtelijke Economie (EWI), en het Departement Omgeving geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele het volgende omvatten recreatiegebieden, gebieden voor verblijfsrecreatie of een ermee vergelijkbaar gebied, zal afhankelijk van de respectievelijke bevoegdheden Toerisme Vlaanderen of de IVA Sport Vlaanderen (CJSM) geraadpleegd worden;<br>
+- als het voorgenomen plan of programma als doelstelling heeft de realisatie of wijziging van een woongebied, een woonuitbreidingsgebied, een woonreservegebied of een ermee vergelijkbaar gebied, zullen het IVA Wonen-Vlaanderen (OMG) en het Departement Omgeving (OMG) geraadpleegd worden;<br>
+- als het voorgenomen plan of programma het kader kan vormen voor vergunningen van stadsontwikkelingsprojecten, zullen de afdeling Woonbeleid (OMG), het Departement Omgeving (OMG) en Team Vlaamse bouwmeester (KB) geraadpleegd worden;<br>
+- als het voorgenomen plan of programma het kader kan vormen voor vergunningen voor verkeersinfrastructuren, zullen Team Vlaamse bouwmeester (KB) en het Departement Omgeving geraadpleegd worden;<br>
 - als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele bestemd zijn als bestaande of aan te leggen autosnelweg, hoofdverkeersweg, primaire weg (categorie I of II), of aan deze infrastructuur verbonden reservatie- of erfdienstbaarheidsgebieden, zal de IVA Agentschap Wegen en Verkeer (MOW) of de provinciale afdelingen ervan geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele bestemd zijn als agrarisch gebied of een ermee vergelijkbaar gebied, zullen de afdeling Duurzame Landbouwontwikkeling (LV) of de provinciale afdelingen ervan en de EVA Vlaamse Landmaatschappij (LNE) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele gelegen zijn binnen een voorgenomen of reeds uitgevoerd landinrichtingsproject of ruilverkaveling, zullen de afdeling Duurzame Landbouwontwikkeling (LV) of de provinciale afdelingen ervan en de EVA Vlaamse Landmaatschappij (LNE) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele gelegen zijn binnen een voorgenomen of reeds uitgevoerd natuurinrichtingsproject, zal het Agentschap voor Natuur en Bos (LNE) geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele bestemd zijn als agrarisch gebied of een ermee vergelijkbaar gebied, zullen de afdeling Duurzame Landbouwontwikkeling (LV) of de provinciale afdelingen ervan en de EVA Vlaamse Landmaatschappij (OMG) geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele gelegen zijn binnen een voorgenomen of reeds uitgevoerd landinrichtingsproject of ruilverkaveling, zullen de afdeling Duurzame Landbouwontwikkeling (LV) of de provinciale afdelingen ervan en de EVA Vlaamse Landmaatschappij (OMG) geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele gelegen zijn binnen een voorgenomen of reeds uitgevoerd natuurinrichtingsproject, zal het Agentschap voor Natuur en Bos (OMG) geraadpleegd worden;<br>
 <br>
-3° op de fauna, flora en de biodiversiteit :<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele gelegen zijn in :<br>
+3° op de fauna, de flora en de biodiversiteit:<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele gelegen zijn in:<br>
 a) speciale beschermingszones overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 b) een gebied aangeduid overeenkomstig de Conventie van Ramsar inzake watergebieden van internationale betekenis;<br>
 c) natuurgebieden, natuurgebieden met wetenschappelijke waarde en ermee vergelijkbaar gebieden, aangewezen op plannen van aanleg en de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br>
 d) bosgebieden, parkgebieden, valleigebieden, brongebieden, overstromingsgebieden, agrarische gebieden met ecologisch belang of ecologische waarde en ermee vergelijkbaar gebieden, aangewezen op plannen van aanleg en de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br>
 e) het Vlaams Ecologisch Netwerk overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 f) natuurverwevingsgebieden<br>
-zal het Agentschap voor Natuur en Bos (LNE) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, een beboste oppervlakte omvatten zal het Agentschap voor Natuur en Bos (LNE) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele gelegen zijn in beschermd duingebied of voor het duingebied belangrijk landbouwgebied zoals aangegeven ter uitvoering van het decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen, zullen de afdeling Kust van het Agentschap voor Maritieme Dienstverlening en Kust (MOW) en het Agentschap voor Natuur en Bos (LNE) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele gelegen zijn in de kustzone, zullen de afdeling Kust van het Agentschap voor Maritieme Dienstverlening en Kust (MOW) en het Agentschap voor Natuur en Bos (LNE) geraadpleegd worden;<br>
+zal het Agentschap voor Natuur en Bos (OMG) geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, een beboste oppervlakte omvatten zal het Agentschap voor Natuur en Bos (OMG) geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele gelegen zijn in beschermd duingebied of voor het duingebied belangrijk landbouwgebied zoals aangegeven ter uitvoering van het decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen, zullen de afdeling Kust van het Agentschap voor Maritieme Dienstverlening en Kust (MOW) en het Agentschap voor Natuur en Bos (OMG) geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele gelegen zijn in de kustzone, zullen de afdeling Kust van het Agentschap voor Maritieme Dienstverlening en Kust (MOW) en het Agentschap voor Natuur en Bos (OMG) geraadpleegd worden;<br>
 <br>
-4° op de energie- en grondstoffenvoorraden :<br>
-- als het voorgenomen plan of programma de productie kan inhouden van hernieuwbare energievormen, zal de IVA Vlaams Energieagentschap (LNE) geraadpleegd worden;<br>
-- als het voorgenomen plan of programma als doelstelling heeft de realisatie of wijziging van een industriegebied, een bedrijventerrein of een ermee vergelijkbaar gebied, of de realisatie of wijziging van stadsontwikkelingsprojecten of themaparken, zal de IVA Vlaams Energieagentschap (LNE) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele bestemd zijn als ontginningsgebied of een ermee vergelijkbaar gebied, zullen de hoofddienst of de buitendiensten van Natuurlijke Rijkdommen van de afdeling Land en Bodembescherming, Ondergrond, Natuurlijke Rijkdommen (LNE), de IVA Openbare Vlaamse Afvalstoffenmaatschappij (LNE) en de Entiteit Ruimtelijke Economie (EWI) geraadpleegd worden;<br>
-- als het voorgenomen plan of programma als doelstelling heeft de realisatie of wijziging van een ontginningsgebied of een ermee vergelijkbaar gebied zullen de IVA Openbare Vlaamse Afvalstoffenmaatschappij (LNE) en de IVA Vlaamse Milieumaatschappij (LNE) geraadpleegd worden;<br>
+4° op de energie- en grondstoffenvoorraden:<br>
+- als het voorgenomen plan of programma de productie kan inhouden van hernieuwbare energievormen, zal de IVA Vlaams Energieagentschap (OMG) geraadpleegd worden;<br>
+- als het voorgenomen plan of programma als doelstelling heeft de realisatie of wijziging van een industriegebied, een bedrijventerrein of een ermee vergelijkbaar gebied, of de realisatie of wijziging van stadsontwikkelingsprojecten of themaparken, zal de IVA Vlaams Energieagentschap (OMG) geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele bestemd zijn als ontginningsgebied of een ermee vergelijkbaar gebied, zullen het Departement Omgeving, de IVA Openbare Vlaamse Afvalstoffenmaatschappij (OMG) en de Entiteit Ruimtelijke Economie (EWI) geraadpleegd worden;<br>
+- als het voorgenomen plan of programma als doelstelling heeft de realisatie of wijziging van een ontginningsgebied of een ermee vergelijkbaar gebied zullen het Departement Omgeving, de IVA Openbare Vlaamse Afvalstoffenmaatschappij (OMG) en de IVA Vlaamse Milieumaatschappij (OMG) geraadpleegd worden;<br>
+- als het voorgenomen plan of programma het opsporen of het winnen van aardwarmte of van koolwaterstoffen in de diepe ondergrond als doelstelling heeft, zal het Departement Omgeving geraadpleegd worden;<br>
 <br>
-5° op of in de bodem :<br>
-- als er op de gronden gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, bedrijven of activiteiten gevestigd zijn, die onderworpen zijn aan de milieuvergunningsplicht klasse I en waarvoor de IVA Openbare Vlaamse Afvalstoffenmaatschappij adviesbevoegdheid heeft, zal de IVA Openbare Vlaamse Afvalstoffenmaatschappij (LNE) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele opgenomen zijn in het register van verontreinigde gronden, zal de IVA Openbare Vlaamse Afvalstoffenmaatschappij (LNE) geraadpleegd worden;<br>
-- als het voorgenomen plan of programma gelegen is in een erosiegevoelig gebied zal de dienst Land en Bodembescherming van de afdeling Land en Bodembescherming, Ondergrond, Natuurlijke Rijkdommen (LNE) geraadpleegd worden;<br>
-- als het voorgenomen plan of programma de bodem of ondergrond kan verontreinigen of aantasten zal de dienst Ondergrond Vlaanderen van de afdeling Land en Bodembescherming, Ondergrond, Natuurlijke Rijkdommen (LNE) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele bestemd zijn als ontginningsgebied of een ermee vergelijkbaar gebied, zullen de afdeling Land en Bodembescherming, Ondergrond, Natuurlijke Rijkdommen (LNE) én de Entiteit Ruimtelijke Economie (EWI) geraadpleegd worden;<br>
+5° op of in de bodem:<br>
+- als er op de gronden gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, bedrijven of activiteiten gevestigd zijn, die onderworpen zijn aan de milieuvergunningsplicht klasse I en waarvoor de IVA Openbare Vlaamse Afvalstoffenmaatschappij adviesbevoegdheid heeft, zal de IVA Openbare Vlaamse Afvalstoffenmaatschappij (OMG) geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele opgenomen zijn in het register van verontreinigde gronden, zal de IVA Openbare Vlaamse Afvalstoffenmaatschappij (OMG) geraadpleegd worden;<br>
+- als het voorgenomen plan of programma gelegen is in een erosiegevoelig gebied zal het Departement Omgeving geraadpleegd worden;<br>
+- als het voorgenomen plan of programma de bodem of ondergrond kan verontreinigen of aantasten zal het Departement Omgeving geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele bestemd zijn als ontginningsgebied of een ermee vergelijkbaar gebied, zullen het Departement Omgeving én de Entiteit Ruimtelijke Economie (EWI) geraadpleegd worden;<br>
 <br>
-6° op het water :<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele het volgende omvatten :<br>
-a) waterwingebieden en bijbehorende beschermingszones type I, II en III, afgebakend volgens het besluit van de Vlaamse regering van 27 maart 1985 houdende nadere regelen voor de afbakening van waterwingebieden en de beschermingszones;<br>
+6° op het water:<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele het volgende omvatten:<br>
+a) waterwingebieden en bijbehorende beschermingszones type I, II en III, afgebakend volgens het besluit van de Vlaamse Regering van 27 maart 1985 houdende nadere regelen voor de afbakening van waterwingebieden en de beschermingszones;<br>
 b) onbevaarbare waterlopen van de eerste categorie;<br>
 c) gebieden gelegen binnen een bekkenbeheersplan;<br>
 d) oppervlaktewater voor oppervlaktewaterwinning bestemd voor drinkwaterproduktie<br>
-zal de IVA Vlaamse Milieumaatschappij (LNE) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele overstromingsgebieden omvatten, zullen de IVA Vlaamse Milieumaatschappij (LNE), de EVA Waterwegen en Zeekanaal NV (MOW), de EVA NV De Scheepvaart (MOW), de afdeling Haven- en Waterbeleid (MOW) én de afdeling Algemeen Beleid (MOW) geraadpleegd worden;<br>
-- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele waterwegen of de aan deze infrastructuur verbonden reservatie- of erfdienstbaarheidsgebieden omvatten, zullen de afdeling Haven- en Waterbeleid (MOW) en voorzover ze de beheerder van de waterweg zijn, de EVA Waterwegen en Zeekanaal NV (MOW), de EVA NV De Scheepvaart (MOW) of de afdeling Maritieme Toegang (MOW), geraadpleegd worden;<br>
+zal de IVA Vlaamse Milieumaatschappij (OMG) geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele overstromingsgebieden omvatten, zullen de IVA Vlaamse Milieumaatschappij (LNE), de EVA De Vlaamse Waterweg nv (MOW), de afdeling Haven- en Waterbeleid (MOW) én de afdeling Algemeen Beleid (MOW) geraadpleegd worden;<br>
+- als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele waterwegen of de aan deze infrastructuur verbonden reservatie- of erfdienstbaarheidsgebieden omvatten, zullen de afdeling Haven- en Waterbeleid (MOW) en, voor zover ze de beheerder van de waterweg zijn, de EVA De Vlaamse Waterweg nv (MOW) of de afdeling Maritieme Toegang (MOW) geraadpleegd worden;<br>
 - als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele havens omvatten, zullen de autonome havenbedrijven, de afdeling Haven- en Waterbeleid (MOW) én de afdeling Algemeen Beleid (MOW) geraadpleegd worden;<br>
-- als het plan of programma als doelstelling heeft de realisatie of wijziging van een jachthaven, zullen de EVA Waterwegen en Zeekanaal NV (MOW), de EVA NV De Scheepvaart (MOW), de afdeling Haven- en Waterbeleid (MOW), de afdeling Maritieme Toegang (MOW), de afdeling Kust van het Agentschap voor Maritieme Dienstverlening en Kust (MOW) én het Agentschap voor Natuur en Bos (LNE), geraadpleegd worden;<br>
-- als het voorgenomen plan of programma als doelstelling heeft de realisatie of wijziging van verkeersinfrastructuren zal de IVA Vlaamse Milieumaatschappij (LNE) geraadpleegd worden;<br>
+- als het plan of programma als doelstelling heeft de realisatie of wijziging van een jachthaven, zullen de EVA De Vlaamse Waterweg nv (MOW), de afdeling Haven- en Waterbeleid (MOW), de afdeling Maritieme Toegang (MOW), de afdeling Kust van het Agentschap voor Maritieme Dienstverlening en Kust (MOW) én het Agentschap voor Natuur en Bos (LNE), geraadpleegd worden;<br>
+- als het voorgenomen plan of programma als doelstelling heeft de realisatie of wijziging van verkeersinfrastructuren zal de IVA Vlaamse Milieumaatschappij (OMG) geraadpleegd worden;<br>
 <br>
-7° op de atmosfeer en de klimatologische factoren :<br>
-- als er al gekende knelpunten inzake luchtkwaliteit zijn binnen de gebieden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, zullen de afdeling meetnetten van de IVA Vlaamse Milieumaatschappij (LNE) én de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid (LNE) geraadpleegd worden;<br>
-- als het voorgenomen plan of programma als doelstelling heeft de realisatie van een industriegebied, een bedrijventerrein of een ermee vergelijkbaar gebied zal de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid (LNE) geraadpleegd worden geraadpleegd;<br>
-- als het voorgenomen plan of programma als doelstelling heeft de realisatie of wijziging van verkeersinfrastructuren zal de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid (LNE) geraadpleegd worden;<br>
-- als het voorgenomen plan of programma wijzigingen inzake verkeersgeneratie kan veroorzaken met een eventuele impact op de luchtkwaliteit, zullen de afdeling meetnetten van de IVA Vlaamse Milieumaatschappij (LNE) en de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid (LNE) geraadpleegd worden;<br>
+7° op de atmosfeer en de klimatologische factoren:<br>
+- als er al gekende knelpunten inzake luchtkwaliteit zijn binnen de gebieden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, zullen de afdeling meetnetten van de IVA Vlaamse Milieumaatschappij (OMG) én het Departement Omgeving (OMG) geraadpleegd worden;<br>
+- als het voorgenomen plan of programma als doelstelling heeft de realisatie van een industriegebied, een bedrijventerrein of een ermee vergelijkbaar gebied zal het Departement Omgeving worden geraadpleegd;<br>
+- als het voorgenomen plan of programma als doelstelling heeft de realisatie of wijziging van verkeersinfrastructuren zal het Departement Omgeving geraadpleegd worden;<br>
+- als het voorgenomen plan of programma wijzigingen inzake verkeersgeneratie kan veroorzaken met een eventuele impact op de luchtkwaliteit, zullen de afdeling meetnetten van de IVA Vlaamse Milieumaatschappij (OMG) en het Departement Omgeving geraadpleegd worden;<br>
 <br>
-8° inzake het geluid en het licht :<br>
-- als het voorgenomen plan of programma geluids- of lichthinder kan veroorzaken zal de afdeling Lucht, Hinder, Risicobeheer, Milieu en Gezondheid (LNE) geraadpleegd worden;<br>
+8° inzake het geluid en het licht:<br>
+- als het voorgenomen plan of programma geluids- of lichthinder kan veroorzaken zal het Departement Omgeving geraadpleegd worden;<br>
 <br>
-9° op het landschap, de stoffelijke goederen, het cultureel erfgoed met inbegrip van het architectonisch en archeologisch erfgoed :<br>
-- als de gronden of de erop aanwezige constructies, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan :<br>
+9° op het landschap, de stoffelijke goederen, het cultureel erfgoed met inbegrip van het architectonisch en archeologisch erfgoed:<br>
+- als de gronden of de erop aanwezige constructies, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan:<br>
 a) geheel of ten dele zijn beschermd als monument;<br>
 b) geheel of ten dele beschermd zijn als cultuurhistorisch landschap, dorps- of stadsgezicht;<br>
 c) ...;<br>
@@ -203,10 +208,10 @@ d) ...;<br>
 e) ...;<br>
 f) geheel of ten dele beschermd zijn als archeologische site;<br>
 g) deel uitmaken van een volgens een plan van aanleg of ruimtelijk uitvoeringsplan vastgesteld erfgoedlandschap<br>
-zullen de provinciale afdelingen van het agentschap Onroerend Erfgoed (RWO) geraadpleegd worden;<br>
+zullen de provinciale afdelingen van het agentschap Onroerend Erfgoed (OMG) geraadpleegd worden;<br>
 <br>
-10° op de mobiliteit :<br>
+10° op de mobiliteit:<br>
 - als het voorgenomen plan of programma als doelstelling heeft de realisatie of wijziging van verkeersinfrastructuren, zullen de IVA Agentschap Wegen en Verkeer (MOW) of de provinciale afdelingen ervan, en het Departement Mobiliteit en Openbare Werken (MOW) geraadpleegd worden;<br>
 - als het voorgenomen plan of programma een verkeersgenererende werking van pieken van 1 000 of meer personenauto-equivalenten per tijdsblok van 2 uur kan veroorzaken zullen het Departement Mobiliteit en Openbare Werken (MOW) én de Vlaamse Vervoermaatschappij De Lijn geraadpleegd worden;<br>
 - als het voorgenomen plan of programma een gebied omvat waarin zich minstens 1 000 bestaande of geplande woongelegenheden bevinden, zal de Vlaamse Vervoermaatschappij De Lijn geraadpleegd worden.<br>
-- als het plan of programma als doelstelling heeft de realisatie of wijziging van een jachthaven, zullen de EVA Waterwegen en Zeekanaal NV (MOW), de EVA NV De Scheepvaart (MOW), de afdeling Haven- en Waterbeleid (MOW), de afdeling Maritieme Toegang (MOW), de afdeling Kust van het Agentschap voor Maritieme Dienstverlening en Kust (MOW) én het Agentschap voor Natuur en Bos (LNE), geraadpleegd worden.
+- als het plan of programma als doelstelling heeft de realisatie of wijziging van een jachthaven, zullen de EVA De Vlaamse Waterweg nv (MOW), de afdeling Haven- en Waterbeleid (MOW), de afdeling Maritieme Toegang (MOW), de afdeling Kust van het Agentschap voor Maritieme Dienstverlening en Kust (MOW) én het Agentschap voor Natuur en Bos (OMG) geraadpleegd worden.
