@@ -24,7 +24,10 @@
 
 ### ART. 1.
 
-&nbsp;In dit besluit wordt verstaan onder:<BR>1° departement: het   departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<BR>2°   planschadevergoeding: de vergoeding die door de rechter wordt toegekend met   toepassing van artikel 2.6.1 tot en met 2.6.3 van Vlaamse Codex Ruimtelijke   Ordening;<BR>3° signaalgebied: een gebied waar mogelijks een tegenstrijdigheid   bestaat tussen de geldende bestemmingsvoorschriften en de belangen van het   watersysteem.<BR>
+&nbsp;In dit besluit wordt verstaan onder:<br>
+1° departement: het Departement Omgeving;<br>
+2° planschadevergoeding: de vergoeding die door de rechter wordt toegekend met toepassing van artikel 2.6.1 tot en met 2.6.3 van Vlaamse Codex Ruimtelijke Ordening;<br>
+3° signaalgebied: een gebied waar mogelijks een tegenstrijdigheid bestaat tussen de geldende bestemmingsvoorschriften en de belangen van het watersysteem.
 
 ## HOOFDSTUK 2 Subsidiëring van planschadevergoeding
 
