@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028641,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-08 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 19 december 2014 tot vaststelling van de regels voor het algemene personeelsbeleid en het specifieke personeelsbeleid in de diensten van de Vlaamse overheid en in de Vlaamse openbare instellingen, wat betreft het Departement Omgeving, het departement Informatie Vlaanderen en de naamswijziging van het Departement Cultuur, Jeugd, Sport en Media in Departement Cultuur, Jeugd en Media",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028641/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "621fd2a32f5d3a1fd842237e645443f673457fa5a0637f6bf889bfd539dc799d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028641&param=informatie",
+  "as_of": "2017-04-01",
+  "made": "2017-09-08",
+  "gazette": "2017-10-09",
+  "numac": 2017031273,
+  "document_start": "2017-04-01",
+  "document_end": null,
+  "in_force": "2017-04-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
