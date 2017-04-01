@@ -15,7 +15,7 @@ Dit besluit voorziet, aanvullend op en ter uitvoering van de bepalingen van het 
 In dit besluit wordt verstaan onder :<br>
 1° decreet van 8 mei 2009 : het decreet van 8 mei 2009 betreffende de diepe ondergrond;<br>
 2° minister : de Vlaamse minister, bevoegd voor de natuurlijke rijkdommen, als het de opsporing of de winning van koolwaterstoffen of aardwarmte, of de structuurvisie inzake de diepe ondergrond betreft, of de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, als het de geologische opslag van koolstofdioxide betreft;<br>
-3° afdeling, bevoegd voor natuurlijke rijkdommen: de afdeling Land en Bodembescherming, Ondergrond, Natuurlijke Rijkdommen van het Departement Leefmilieu, Natuur en Energie;<br>
+3° het departement: het Departement Omgeving;<br>
 4° beveiligde zending: een van de onderstaande betekeningswijzen:<br>
 a) een analoge zending: een aangetekende zending of een afgifte tegen ontvangstbewijs;<br>
 b) een digitale zending: een zending via een uitwisselingsplatform van het departement waar de afdeling bevoegd voor de natuurlijke rijkdommen onder ressorteert.<br>
@@ -416,7 +416,7 @@ Het Vlaamse Gewest mag die informatie gebruiken om zijn verplichtingen, verantwo
 
 ### ART. 14/23.
 
-In de periode na de overdracht van de verantwoordelijkheid wordt het opslagcomplex en het omliggende milieu met toepassing van artikel 55 van het decreet van 8 mei 2009 gemonitord door de afdeling, bevoegd voor grondwater, en de afdeling, bevoegd voor lucht, van de Vlaamse Milieumaatschappij en door de afdeling, bevoegd voor natuurlijke rijkdommen.
+In de periode na de overdracht van de verantwoordelijkheid wordt het opslagcomplex en het omliggende milieu met toepassing van artikel 55 van het decreet van 8 mei 2009 gemonitord door de afdeling, bevoegd voor grondwater, en de afdeling, bevoegd voor lucht, van de Vlaamse Milieumaatschappij en door het departement.
 
 ## [Afdeling 8 Toegang van derden (ing. BVR 6 juni 2014, art. 5, I: 19 oktober 2014)]
 
@@ -656,7 +656,7 @@ De Vlaamse Regering doet, op voorstel van de minister, binnen een termijn van ho
 
 ### ART 14/40.
 
-§ 1. De afdeling, bevoegd voor natuurlijke rijkdommen, vraagt aan de federale administraties die bevoegd zijn voor de toepassingen in de diepe ondergrond, vermeld in artikel 63/26, § 2, 1°, d), e) en f), van het decreet van 8 mei 2009, de informatie op die nuttig kan zijn voor de opmaak van een structuurvisie inzake de diepe ondergrond.<br>
+§ 1.&nbsp;Het departement&nbsp;vraagt aan de federale administraties die bevoegd zijn voor de toepassingen in de diepe ondergrond, vermeld in artikel 63/26, § 2, 1°, d), e) en f), van het decreet van 8 mei 2009, de informatie op die nuttig kan zijn voor de opmaak van een structuurvisie inzake de diepe ondergrond.<br>
 <br>
 § 2. De minister maakt een ontwerp van de structuurvisie inzake de diepe ondergrond op en bezorgt dat voor advies aan de federale administraties, vermeld in paragraaf 1, en aan de Vlaamse minister, bevoegd voor de economie, de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, de Vlaamse minister, bevoegd voor het energiebeleid, en de Vlaamse minister, bevoegd voor de ruimtelijke ordening.<br>
 <br>
@@ -666,13 +666,13 @@ De Vlaamse ministers, vermeld in paragraaf 2, verlenen een vanuit hun bevoegdhei
 <br>
 De adviezen worden binnen negentig dagen na de datum van de ontvangst van het ontwerp naar de minister gestuurd. Als binnen die termijn geen advies is verleend, wordt het als gunstig beschouwd.<br>
 <br>
-De adviezen worden verwerkt door de afdeling, bevoegd voor natuurlijke rijkdommen, en kunnen aanleiding geven tot een aanpassing van het ontwerp van de structuurvisie inzake de diepe ondergrond.<br>
+De adviezen worden verwerkt door&nbsp;het departement&nbsp;en kunnen aanleiding geven tot een aanpassing van het ontwerp van de structuurvisie inzake de diepe ondergrond.<br>
 <br>
 § 4. De minister legt het ontwerp samen met de uitgebrachte adviezen voor aan de Vlaamse Regering met het oog op de principiële vastlegging van de structuurvisie inzake de diepe ondergrond.<br>
 <br>
 § 5. Over het principieel vastgelegde ontwerp van de structuurvisie inzake de diepe ondergrond wordt een raadpleging van de bevolking georganiseerd. De raadpleging wordt uiterlijk één week voor het begin ervan aangekondigd in het Belgisch Staatsblad. De aankondiging wordt ook bekendgemaakt in het gemeentehuis en op de website van elke gemeente.<br>
 <br>
-Het principieel vastgelegde ontwerp kan worden geraadpleegd op de website van de afdeling, bevoegd voor natuurlijke rijkdommen, en kan bij die afdeling ook worden opgevraagd.<br>
+Het principieel vastgelegde ontwerp kan worden geraadpleegd op de website van&nbsp;het departement&nbsp;en kan bij&nbsp;het departement&nbsp;ook worden opgevraagd.<br>
 <br>
 Binnen een termijn van zestig dagen vanaf het begin van de raadpleging kunnen met een brief of met een e-mail opmerkingen over het principieel vastgelegde ontwerp worden bezorgd aan de afdeling, bevoegd voor natuurlijke rijkdommen. Het adres daarvan wordt vermeld in de aankondiging van de raadpleging. De opmerkingen bevatten een duidelijke vermelding van de auteur en zijn adres en een verwijzing naar de specifieke titel of passage uit het principieel vastgelegde ontwerp waarop ze betrekking hebben.<br>
 <br>
