@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028188,
+  "title": "Besluit van de Vlaamse Regering van 2017-03-31 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 8 mei 2009 betreffende de erosiebestrijding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028188/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "66ec324a5ce89eeaff671d8154331fa0ab5bf120f72ff662a9c24fe922c959dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028188&param=informatie",
+  "as_of": "2017-04-01",
+  "made": "2017-03-31",
+  "gazette": "2017-04-27",
+  "numac": 2017040204,
+  "document_start": "2017-04-01",
+  "document_end": null,
+  "in_force": "2017-04-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2017-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
