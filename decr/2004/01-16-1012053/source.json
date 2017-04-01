@@ -2,16 +2,16 @@
   "codex_id": 1012053,
   "title": "Decreet van 2004-01-16 op de begraafplaatsen en de lijkbezorging",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012053/VolledigDocument?datum=2016-12-05",
-  "source_sha256": "40510c8829ff9157d76c15518a5e581fd75b7438fbbcaaec66888f2205273122",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012053/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "f05255e8d3ef118067367dcdf5c58ade1b9128650067009c46e64ca73238a234",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012053&param=informatie",
-  "as_of": "2016-12-05",
+  "as_of": "2017-04-01",
   "made": "2004-01-16",
   "gazette": "2004-02-10",
   "numac": 2004035175,
   "document_start": "2004-07-01",
   "document_end": null,
-  "in_force": "2016-12-05",
+  "in_force": "2017-04-01",
   "article_versions": 33,
-  "record_form": "consolidated version as in force on 2016-12-05; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
