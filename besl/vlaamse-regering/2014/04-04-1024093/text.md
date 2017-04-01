@@ -36,7 +36,19 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder: <BR>1° aanvraag: de volgende   aanvragen, zoals geregeld in de Vlaamse Codex Ruimtelijke Ordening:<BR>a) de   aanvraag voor een stedenbouwkundig attest;<BR>b) de aanvraag voor een   planologisch attest;<BR>c) de aanvraag voor een stedenbouwkundige vergunning;   <BR>d) de aanvraag voor een verkavelingsvergunning; <BR>e) de aanvraag voor een   verkavelingswijziging;<BR>f) de aanvraag tot opname van een constructie als   "vergund geacht" in het vergunningenregister;<BR>2° betrokken bestuursorgaan:   het bestuursorgaan dat bevoegd is om te beslissen over de aanvragen of over   beroepen tegen beslissingen daarover, of dat bevoegd is voor de aktename van de   meldingen; <BR>3° departement: het Departement Ruimtelijke Ordening, Woonbeleid   en Onroerend Erfgoed;<BR>4° melding: de melding, vermeld in artikel 4.2.2 van de   Vlaamse Codex Ruimtelijke Ordening;<BR>5° omgevingsloket: het digitaal loket,   vermeld in artikel 2, tweede lid;<BR>6° uitwisselingsplatform: het digitaal   platform, vermeld in artikel 2, eerste lid.
+In dit besluit wordt verstaan onder:<br>
+1° aanvraag: de volgende aanvragen, zoals geregeld in de Vlaamse Codex Ruimtelijke Ordening:<br>
+a) de aanvraag voor een stedenbouwkundig attest;<br>
+b) de aanvraag voor een planologisch attest;<br>
+c) de aanvraag voor een stedenbouwkundige vergunning;<br>
+d) de aanvraag voor een verkavelingsvergunning;<br>
+e) de aanvraag voor een verkavelingswijziging;<br>
+f) de aanvraag tot opname van een constructie als "vergund geacht" in het vergunningenregister;<br>
+2° betrokken bestuursorgaan: het bestuursorgaan dat bevoegd is om te beslissen over de aanvragen of over beroepen tegen beslissingen daarover, of dat bevoegd is voor de aktename van de meldingen;<br>
+3° departement: het Departement Omgeving;<br>
+4° melding: de melding, vermeld in artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening;<br>
+5° omgevingsloket: het digitaal loket, vermeld in artikel 2, tweede lid;<br>
+6° uitwisselingsplatform: het digitaal platform, vermeld in artikel 2, eerste lid.
 
 ### ART. 2.
 

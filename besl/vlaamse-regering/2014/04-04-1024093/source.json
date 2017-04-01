@@ -2,16 +2,16 @@
   "codex_id": 1024093,
   "title": "Besluit van de Vlaamse Regering van 2014-04-04 houdende de digitalisering van het ruimtelijke vergunningenbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024093/VolledigDocument?datum=2014-05-25",
-  "source_sha256": "35a6292134d54f5323b23a0de8e110d12ac3c85d797735605823a33b87d8c084",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024093/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "b1306df32c6289f081cd3a3c2d9ebedda06d403fc7d643cdaab1b1c2d0892feb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024093&param=informatie",
-  "as_of": "2014-05-25",
+  "as_of": "2017-04-01",
   "made": "2014-04-04",
   "gazette": "2014-05-15",
   "numac": 2014035524,
   "document_start": "2014-05-25",
   "document_end": "2020-10-22",
-  "in_force": "2014-05-25",
+  "in_force": "2017-04-01",
   "article_versions": 53,
-  "record_form": "consolidated version as in force on 2014-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
