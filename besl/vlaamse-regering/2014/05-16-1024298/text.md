@@ -28,7 +28,11 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° agentschap: het agentschap   Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid   en Onroerend Erfgoed, opgericht bij Besluit van 6 december 2005 van de Vlaamse   Regering tot oprichting van het intern verzelfstandigd agentschap zonder   rechtspersoonlijkheid Wonen-Vlaanderen;<BR>2° gemeentelijke woningcontroleur:   een woningcontroleur als vermeld in artikel 3, eerste lid, 2°, van het besluit   van de Vlaamse Regering van 12 juli 2013 betreffende de kwaliteits- en   veiligheidsnormen voor woningen;<BR>3° minister: de Vlaamse minister, bevoegd   voor de huisvesting;<BR>4° Vlaamse Wooncode: het decreet van 15 juli 1997   houdende de Vlaamse Wooncode.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° agentschap: het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving, opgericht bij Besluit van 6 december 2005 van de Vlaamse Regering tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen;<br>
+2° gemeentelijke woningcontroleur: een woningcontroleur als vermeld in artikel 3, eerste lid, 2°, van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de kwaliteits- en veiligheidsnormen voor woningen;<br>
+3° minister: de Vlaamse minister, bevoegd voor de huisvesting;<br>
+4° Vlaamse Wooncode: het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.
 
 ### ART. 2.
 
