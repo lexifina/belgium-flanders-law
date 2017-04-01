@@ -40,11 +40,9 @@ De raming van de ontvangsten heeft betrekking op:<BR>1° het over te dragen   sa
 
 ### ART. 9.
 
-De leidend ambtenaar van het departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt aangesteld als inhoudelijk ordonnateur van het Grondfonds voor de betaalbaarstelling van kredieten, andere dan voor de verrichtingen inzake de planbatenheffing als vermeld in titel II, hoofdstuk VI, afdeling 2 van de Vlaamse Codex Ruimtelijke ordening en dan deze bedoeld in het derde lid. Hij kan zijn bevoegdheid delegeren aan ambtenaren van niveau A van het departement.<br>
+De leidend ambtenaar van het Departement Omgeving wordt aangesteld als inhoudelijk ordonnateur van het Grondfonds voor de betaalbaarstelling van andere kredieten dan de kredieten voor de verrichtingen inzake de planbatenheffing, vermeld in titel II, hoofdstuk VI, afdeling 2, van de Vlaamse Codex Ruimtelijke Ordening. Hij wordt tevens belast met de inning van de inkomsten uit de handhaving die voortvloeien uit de toepassing van Titel VI van de Vlaamse Codex Ruimtelijke Ordening. Hij kan de voormelde bevoegdheden delegeren aan ambtenaren van niveau A van het Departement Omgeving.<br>
 <br>
-De leidend ambtenaar van de Vlaamse Belastingsdienst wordt aangesteld als inhoudelijk ordonnateur voor de betaalbaarstelling van kredieten voor de verrichtingen inzake de planbatenheffing. Hij wordt tevens belast met de inning van de planbatenheffingen. Hij kan zijn bevoegdheid delegeren aan ambtenaren van niveau A van het agentschap.<br>
-<br>
-De leidend ambtenaar van het departement Leefmilieu, Natuur en Energie wordt aangesteld als inhoudelijk ordonnateur voor de betaalbaarstelling van kredieten voor de verrichtingen die betrekking hebben op de uitvoering van de handhavingstaken met betrekking tot de ruimtelijke ordening in toepassing van titel VI van de Vlaamse Codex Ruimtelijke Ordening, evenwel met uitzondering van de verrichtingen die tot de gewone dienst behoren en de verrichtingen in verband met beleidsondersteunende taken en beleidsevaluatie. Hij wordt tevens belast met de inning van de inkomsten uit de handhaving die voortvloeien uit de toepassing van Titel VI van de Vlaamse Codex Ruimtelijke Ordening. Hij kan zijn bevoegdheid delegeren aan ambtenaren van niveau A van zijn departement.
+De leidend ambtenaar van de Vlaamse Belastingsdienst wordt aangesteld als inhoudelijk ordonnateur voor de betaalbaarstelling van kredieten voor de verrichtingen inzake de planbatenheffing. Hij wordt tevens belast met de inning van de planbatenheffingen. Hij kan zijn bevoegdheid delegeren aan ambtenaren van niveau A van het agentschap.
 
 ### ART. 10.
 
@@ -74,9 +72,7 @@ Op het einde van ieder kwartaal wordt een staat van ontvangsten en een staat van
 
 ### ART. 16.
 
-De leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt aangesteld als beheerder van het Grondfonds, met uitzondering van wat in het tweede lid is bepaald. Hij kan zijn bevoegdheden, bedoeld in dit hoofdstuk, overdragen aan ambtenaren van niveau A die tot zijn administratie behoren. Deze ambtenaren mogen niet als ordonnateur van het Grondfonds worden voorgedragen of benoemd.<br>
-<br>
-De leidend ambtenaar van het Departement Leefmilieu, Natuur en Energie oefent de bevoegdheden van beheerder zoals bedoeld in artikel 17 uit voor zover deze betrekking hebben op de uitvoering van de handhavingstaken met betrekking tot de ruimtelijke ordening in toepassing van titel VI van de Vlaamse Codex Ruimtelijke Ordening, evenwel met uitzondering van de verrichtingen die tot de gewone dienst behoren en de verrichtingen in verband met beleidsondersteunende taken en beleidsevaluatie.
+De leidend ambtenaar van het Departement Omgeving wordt aangesteld als beheerder van het Grondfonds. Hij kan zijn bevoegdheden, vermeld in dit hoofdstuk, overdragen aan ambtenaren van niveau A die tot zijn administratie behoren. De voormelde ambtenaren mogen niet als ordonnateur van het Grondfonds worden voorgedragen of benoemd.
 
 ### ART. 17.
 
