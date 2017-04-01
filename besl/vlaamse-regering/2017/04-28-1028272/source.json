@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028272,
+  "title": "Besluit van de Vlaamse Regering van 2017-04-28 tot wijziging van het besluit van de Vlaamse Regering van 29 november 2013 betreffende de oprichting, de samenstelling en de werking van de Commissie Hoger Onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028272/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "c11e89a0c46d0e98dca7c464e0087b61a0f1268f328e3a338b1eebd8560049b5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028272&param=informatie",
+  "as_of": "2017-04-01",
+  "made": "2017-04-28",
+  "gazette": "2017-06-02",
+  "numac": 2017030376,
+  "document_start": "2017-04-01",
+  "document_end": null,
+  "in_force": "2017-04-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
