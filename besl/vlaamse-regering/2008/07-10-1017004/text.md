@@ -8,11 +8,17 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 18 mei 1999 houdende de
 
 ### ART. 1.
 
-De gemeenten houden een register bij van alle onbebouwde percelen in het   woongebied, vermeld op de uitvoeringsplannen of plannen van aanleg, evenals van   alle percelen op hun grondgebied waarvoor een niet-vervallen   verkavelingsvergunning of omgevingsvergunning voor het verkavelen van gronden   bestaat. Daarbij worden de individuele loten van de verkaveling geïdentificeerd.   Dat register vormt een grondbeleidsinstrument dat onontbeerlijk is om een   efficiënt beleid inzake ruimtelijke ordening te voeren op alle bestuurlijke   niveaus. Potentiële bouwgrondreserves die in aanmerking kunnen komen voor   bebouwing worden in het register opgenomen.<BR><BR>Het register bestaat uit   gemeentelijke registers die in een regionale databank worden samengebracht. Het   register wordt opgemaakt als een digitale databank conform de technische   richtlijnen die het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend   Erfgoed ter beschikking stelt van de gemeente.<BR><BR>
+De gemeenten houden een register bij van alle onbebouwde percelen in het woongebied, vermeld op de uitvoeringsplannen of plannen van aanleg, evenals van alle percelen op hun grondgebied waarvoor een niet-vervallen verkavelingsvergunning of omgevingsvergunning voor het verkavelen van gronden bestaat. Daarbij worden de individuele loten van de verkaveling geïdentificeerd. Dat register vormt een grondbeleidsinstrument dat onontbeerlijk is om een efficiënt beleid inzake ruimtelijke ordening te voeren op alle bestuurlijke niveaus. Potentiële bouwgrondreserves die in aanmerking kunnen komen voor bebouwing worden in het register opgenomen.<br>
+<br>
+Het register bestaat uit gemeentelijke registers die in een regionale databank worden samengebracht. Het register wordt opgemaakt als een digitale databank conform de technische richtlijnen die het beleidsdomein Omgeving ter beschikking stelt van de gemeente.<br>
+&nbsp;
 
 ### ART. 2.
 
-De gemeente neemt in het register de unieke identificatiecode van de kadastrale percelen op conform de technische richtlijnen die het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed ter beschikking stelt van de gemeente.<br /><br />Voor percelen waarvoor geen specifieke identificatiecode ter beschikking wordt gesteld, neemt de gemeente in het register de perceelscontouren op conform de technische richtlijnen die het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed ter beschikking stelt van de gemeente.<br /><br />
+De gemeente neemt in het register de unieke identificatiecode van de kadastrale percelen op conform de technische richtlijnen die het beleidsdomein Omgeving ter beschikking stelt van de gemeente.<br>
+<br>
+Voor percelen waarvoor geen specifieke identificatiecode ter beschikking wordt gesteld, neemt de gemeente in het register de perceelscontouren op conform de technische richtlijnen die het beleidsdomein Omgeving ter beschikking stelt van de gemeente.<br>
+&nbsp;
 
 ### ART. 3.
 
@@ -36,17 +42,29 @@ Voor elk niet-bebouwd lot in een niet-vervallen verkaveling wordt aangegeven wel
 
 ### ART. 8.
 
-Onbebouwde percelen en niet-bebouwde loten in niet-vervallen verkavelingen, opgenomen op ontwerpplannen en op plannen die worden opgeheven of op een andere wijze hun rechtskracht verliezen, worden uit het register geschrapt.<br /><br />Het register moet elk jaar op 30 juni en 31 december bijgewerkt zijn. De wijzigingen worden jaarlijks vóór 31 juli en 31 januari gevalideerd of digitaal bezorgd via de door het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed ter beschikking gestelde applicatie.<br />
+Onbebouwde percelen en niet-bebouwde loten in niet-vervallen verkavelingen, opgenomen op ontwerpplannen en op plannen die worden opgeheven of op een andere wijze hun rechtskracht verliezen, worden uit het register geschrapt.<br>
+<br>
+Het register moet elk jaar op 30 juni en 31 december bijgewerkt zijn. De wijzigingen worden jaarlijks vóór 31 juli en 31 januari gevalideerd of digitaal bezorgd via de door het beleidsdomein&nbsp;Omgeving ter beschikking gestelde applicatie.
 
 ### ART. 9.
 
-Bij elk eerste register bezorgt de gemeente aan het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed in digitale vorm een afschrift van de digitale perceelsplannen die werden aangewend voor de opmaak van het register. Die plannen worden opgemaakt conform de technische richtlijnen die het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed ter beschikking stelt van de gemeente. In geval van actualisatie van een bestaand register hoeven die digitale plannen enkel te worden bezorgd als ernaar wordt gevraagd.<br /><br />Als de gemeente geen digitale perceelsplannen aanwendt voor de opmaak van het register, moeten alle onbebouwde percelen die opgenomen zijn in het register, evenals alle niet-bebouwde loten in niet-vervallen verkavelingen, op recente kadasterkaarten worden aangegeven conform de technische richtlijnen die het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed ter beschikking stelt van de gemeente. De gemeente legt die plannen ter controle voor als ernaar wordt gevraagd.<br /><br />
+Bij elk eerste register bezorgt de gemeente aan het beleidsdomein Omgeving in digitale vorm een afschrift van de digitale perceelsplannen die werden aangewend voor de opmaak van het register. Die plannen worden opgemaakt conform de technische richtlijnen die het beleidsdomein Omgeving ter beschikking stelt van de gemeente. In geval van actualisatie van een bestaand register hoeven die digitale plannen enkel te worden bezorgd als ernaar wordt gevraagd.<br>
+<br>
+Als de gemeente geen digitale perceelsplannen aanwendt voor de opmaak van het register, moeten alle onbebouwde percelen die opgenomen zijn in het register, evenals alle niet-bebouwde loten in niet-vervallen verkavelingen, op recente kadasterkaarten worden aangegeven conform de technische richtlijnen die het beleidsdomein Omgeving ter beschikking stelt van de gemeente. De gemeente legt die plannen ter controle voor als ernaar wordt gevraagd.<br>
+&nbsp;
 
 ## HOOFDSTUK II Financiering
 
 ### ART. 10.
 
-De gemeente kan een tegemoetkoming krijgen voor de opmaak en de actualisatie van het gemeentelijke register van onbebouwde percelen, vermeld in artikel 1.<br /><br />Die tegemoetkoming kan worden toegekend als :<br />1° de gemeente beschikt over een eerste geactualiseerde inventaris;<br />2° de gemeente de digitale inventaris heeft bezorgd aan het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />3° de inventaris volledig is;<br />4° de gegevens voldoen aan de richtlijnen.<br /><br />
+De gemeente kan een tegemoetkoming krijgen voor de opmaak en de actualisatie van het gemeentelijke register van onbebouwde percelen, vermeld in artikel 1.<br>
+<br>
+Die tegemoetkoming kan worden toegekend als :<br>
+1° de gemeente beschikt over een eerste geactualiseerde inventaris;<br>
+2° de gemeente de digitale inventaris heeft bezorgd aan het beleidsdomein Omgeving;<br>
+3° de inventaris volledig is;<br>
+4° de gegevens voldoen aan de richtlijnen.<br>
+&nbsp;
 
 ### ART. 11.
 
@@ -68,7 +86,27 @@ De gegevens van het register worden ingevoerd, aangepast en eventueel geschrapt 
 
 ### ART. 15.
 
-Het register bevat de volgende gegevens :<br />1° informatie over de administratieve toestand en de locatie van het perceel;<br />2° informatie over de bestemming van het perceel;<br />3° informatie over de fysieke kenmerken van het perceel;<br />4° informatie met een specifiek stedenbouwkundig karakter;<br />5° informatie over de actualiteit van de gegevens;<br />6° informatie over de toepasselijke uitvoeringsplannen zoals beschikbaar in het gemeentelijke plannenregister;<br />7° voor onbebouwde percelen gelegen in verkavelingen, informatie over het verkavelingsdossier, zoals beschikbaar in het gemeentelijke vergunningenregister;<br />8° een overzicht van de onbebouwde bouwgronden en kavels in de zin van artikel 1.2, 3° en 10°, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid dewelke eigendom zijn van Vlaamse besturen respectievelijk Vlaamse semipublieke rechtspersonen in de zin van artikel 1.2, 20° en 21°, van voormeld decreet van 27 maart 2009, met dien verstande dat, wat de onbebouwde bouwgronden en kavels van Vlaamse besturen betreft, vermeld wordt of zij al dan niet beantwoorden aan bijzondere karakteristieken, vermeld in artikel 3.2.1, 1°, van voormeld decreet van 27 maart 2009. <br /><br />Die gegevens worden gedetailleerd beschreven in de technische richtlijnen die het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed ter beschikking stelt van de gemeente.<br /><br />Bij het onderzoek of onbebouwde bouwgronden en kavels van Vlaamse besturen al dan niet beantwoorden aan bijzondere karakteristieken, vermeld in artikel 3.2.1, 1°, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid, gelden volgende richtlijnen :<br />1° een onderzoek op stukken volstaat :<br />a) indien de aanwezigheid of afwezigheid van bijzondere karakteristieken eenvoudig kan worden afgeleid uit stukken waarover de gemeente beschikt, zoals bijvoorbeeld het geval is wanneer de juridische onbebouwbaarheid van de bouwgrond of kavel voortvloeit uit een reeds voorlopig vastgesteld of voorlopig aangenomen ruimtelijk uitvoeringsplan of plan van aanleg waardoor het gebied een met wonen onverenigbare bestemming krijgt;<br />b) indien de aanwezigheid of afwezigheid van bijzondere karakteristieken eenvoudig kan worden afgeleid uit stukken of verklaringen die door het Vlaamse bestuur worden bezorgd of die bij het Vlaamse bestuur kunnen worden opgevraagd, zoals bijvoorbeeld het feit dat de bouwgronden of kavels al dan niet bezwaard zijn met een recht van erfpacht, van opstal, van vruchtgebruik, of al dan niet het voorwerp uitmaken van een pacht ingevolge de Pachtwet van 4 november 1969;<br />2° een eenvoudige vaststelling door een gemeentelijke ambtenaar volstaat indien de aanwezigheid of afwezigheid van bijzondere karakteristieken duidelijk visueel vaststelbaar is, zoals bijvoorbeeld het geval is wanneer de onbebouwbaarheid van de bouwgrond of kavel voortvloeit uit de inrichting als collectieve voorziening;<br />3° in andere gevallen dan deze vermeld in 1° en 2° volstaat een gemotiveerde verklaring van het Vlaamse bestuur.<br /><br />De Vlaamse besturen en Vlaamse semipublieke rechtspersonen bezorgen de gemeenten uiterlijk op 31 maart 2010 een overzicht van hun onbebouwde bouwgronden en kavels. De Vlaamse besturen geven daarbij aan welke van hun onbebouwde bouwgronden en kavels beantwoorden aan bovenvermelde bijzondere karakteristieken, overeenkomstig een door de leidend ambtenaar van het departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed vastgesteld model, dat ten minste bekendgemaakt wordt in het Belgisch Staatsblad en op de website van de Vlaamse overheid inzake ruimtelijke ordening.<br /><br />
+Het register bevat de volgende gegevens :<br>
+1° informatie over de administratieve toestand en de locatie van het perceel;<br>
+2° informatie over de bestemming van het perceel;<br>
+3° informatie over de fysieke kenmerken van het perceel;<br>
+4° informatie met een specifiek stedenbouwkundig karakter;<br>
+5° informatie over de actualiteit van de gegevens;<br>
+6° informatie over de toepasselijke uitvoeringsplannen zoals beschikbaar in het gemeentelijke plannenregister;<br>
+7° voor onbebouwde percelen gelegen in verkavelingen, informatie over het verkavelingsdossier, zoals beschikbaar in het gemeentelijke vergunningenregister;<br>
+8° een overzicht van de onbebouwde bouwgronden en kavels in de zin van artikel 1.2, 3° en 10°, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid dewelke eigendom zijn van Vlaamse besturen respectievelijk Vlaamse semipublieke rechtspersonen in de zin van artikel 1.2, 20° en 21°, van voormeld decreet van 27 maart 2009, met dien verstande dat, wat de onbebouwde bouwgronden en kavels van Vlaamse besturen betreft, vermeld wordt of zij al dan niet beantwoorden aan bijzondere karakteristieken, vermeld in artikel 3.2.1, 1°, van voormeld decreet van 27 maart 2009.<br>
+<br>
+Die gegevens worden gedetailleerd beschreven in de technische richtlijnen die het beleidsdomein Omgeving ter beschikking stelt van de gemeente.<br>
+<br>
+Bij het onderzoek of onbebouwde bouwgronden en kavels van Vlaamse besturen al dan niet beantwoorden aan bijzondere karakteristieken, vermeld in artikel 3.2.1, 1°, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid, gelden volgende richtlijnen :<br>
+1° een onderzoek op stukken volstaat :<br>
+a) indien de aanwezigheid of afwezigheid van bijzondere karakteristieken eenvoudig kan worden afgeleid uit stukken waarover de gemeente beschikt, zoals bijvoorbeeld het geval is wanneer de juridische onbebouwbaarheid van de bouwgrond of kavel voortvloeit uit een reeds voorlopig vastgesteld of voorlopig aangenomen ruimtelijk uitvoeringsplan of plan van aanleg waardoor het gebied een met wonen onverenigbare bestemming krijgt;<br>
+b) indien de aanwezigheid of afwezigheid van bijzondere karakteristieken eenvoudig kan worden afgeleid uit stukken of verklaringen die door het Vlaamse bestuur worden bezorgd of die bij het Vlaamse bestuur kunnen worden opgevraagd, zoals bijvoorbeeld het feit dat de bouwgronden of kavels al dan niet bezwaard zijn met een recht van erfpacht, van opstal, van vruchtgebruik, of al dan niet het voorwerp uitmaken van een pacht ingevolge de Pachtwet van 4 november 1969;<br>
+2° een eenvoudige vaststelling door een gemeentelijke ambtenaar volstaat indien de aanwezigheid of afwezigheid van bijzondere karakteristieken duidelijk visueel vaststelbaar is, zoals bijvoorbeeld het geval is wanneer de onbebouwbaarheid van de bouwgrond of kavel voortvloeit uit de inrichting als collectieve voorziening;<br>
+3° in andere gevallen dan deze vermeld in 1° en 2° volstaat een gemotiveerde verklaring van het Vlaamse bestuur.<br>
+<br>
+De Vlaamse besturen en Vlaamse semipublieke rechtspersonen bezorgen de gemeenten uiterlijk op 31 maart 2010 een overzicht van hun onbebouwde bouwgronden en kavels. De Vlaamse besturen geven daarbij aan welke van hun onbebouwde bouwgronden en kavels beantwoorden aan bovenvermelde bijzondere karakteristieken, overeenkomstig een door de leidend ambtenaar van het Departement Omgeving vastgesteld model, dat ten minste bekendgemaakt wordt in het Belgisch Staatsblad en op de website van de Vlaamse overheid inzake ruimtelijke ordening.<br>
+&nbsp;
 
 ### ART. 16.
 
@@ -90,7 +128,8 @@ Het koninklijk besluit van 8 januari 1980 betreffende de inventaris van onbebouw
 
 ### ART. 20.
 
-In afwijking van artikel 19 blijft het koninklijk besluit van 8 januari 1980 van kracht voor de registers waarvan de opmaak is gestart voor de inwerkingtreding van dit besluit en die uiterlijk op 28 februari 2009 aan het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed worden bezorgd.<br /><br />
+In afwijking van artikel 19 blijft het koninklijk besluit van 8 januari 1980 van kracht voor de registers waarvan de opmaak is gestart voor de inwerkingtreding van dit besluit en die uiterlijk op 28 februari 2009 aan het beleidsdomein Omgeving worden bezorgd.<br>
+&nbsp;
 
 ### ART. 21.
 
