@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028158,
+  "title": "Besluit van de Vlaamse Regering van 2017-03-17 houdende de overdracht van de statutaire en contractuele personeelsleden in het kader van de transitie naar het Beleidsdomein Omgeving",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028158/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "74fbd482b7557d0edeb9754d52e8f3e735cc85e035061944297fe3da24b1d6c7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028158&param=informatie",
+  "as_of": "2017-04-01",
+  "made": "2017-03-17",
+  "gazette": "2017-04-20",
+  "numac": 2017040230,
+  "document_start": "2017-04-01",
+  "document_end": null,
+  "in_force": "2017-04-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2017-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
