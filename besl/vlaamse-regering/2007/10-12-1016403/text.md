@@ -749,7 +749,7 @@ Onder de bevoegde overheden en instellingen, vermeld in § 1 en § 2, eerste lid
 <br>
 Ter bepaling van de gezinssamenstelling kan hij ook alle door het gemeen recht toegestane bewijsmiddelen aanvoeren, met uitzondering van de eed.<br>
 <br>
-§ 5. De VMSW coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren vermeld in dit besluit. Alle elektronische gegevens mogen in dit kader via de VMSW uitgewisseld worden. De VMSW mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Ruimtelijke Ordening, Wonen en Onroerend Erfgoed voor statistische verwerking. De VMSW stelt een veiligheidscoördinator aan die de naleving van de wet ter bescherming van de persoonlijke levenssfeer controleert en hierover op jaarlijkse basis rapporteert aan de gedelegeerd bestuurder.
+§ 5. De VMSW coördineert de elektronische gegevensstromen en elektronische informatie-uitwisseling tussen de diverse actoren vermeld in dit besluit. Alle elektronische gegevens mogen in dit kader via de VMSW uitgewisseld worden. De VMSW mag de gegevens ook gebruiken voor statistische verwerking en mag ze ter beschikking stellen van de andere entiteiten van het beleidsdomein Omgeving voor statistische verwerking. De VMSW stelt een veiligheidscoördinator aan die de naleving van de wet ter bescherming van de persoonlijke levenssfeer controleert en hierover op jaarlijkse basis rapporteert aan de gedelegeerd bestuurder.
 
 ## [HOOFDSTUK IXbis. Bepalingen die van toepassing zijn als een verhuurder een verhuurde woning verwerft (verv. BVR 30 maart 2012, art. 1)]
 
