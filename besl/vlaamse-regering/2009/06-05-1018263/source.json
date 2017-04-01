@@ -2,16 +2,16 @@
   "codex_id": 1018263,
   "title": "Besluit van de Vlaamse Regering van 2009-06-05 houdende nadere regelen betreffende de aankoop na weigering van stabiliteitswerken in toepassing van artikel 4.4.2, § 2, van de Vlaamse Codex Ruimtelijke Ordening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018263/VolledigDocument?datum=2011-10-01",
-  "source_sha256": "709c24063eebb94ab60eb7f39e3a90367a0f33a159665d2e0432fcf7480754a9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018263/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "f139b3985e11c85b35367e0d5681c09d02d7338dec2059c99468dd8ef166f248",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018263&param=informatie",
-  "as_of": "2011-10-01",
+  "as_of": "2017-04-01",
   "made": "2009-06-05",
   "gazette": "2009-08-26",
   "numac": 2009035793,
   "document_start": "2009-09-01",
   "document_end": "2024-04-14",
-  "in_force": "2011-10-01",
+  "in_force": "2017-04-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2011-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }
