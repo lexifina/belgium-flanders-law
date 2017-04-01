@@ -11,11 +11,11 @@ De Vlaamse Regering,<BR><BR>Gelet op de bijzondere wet van 8 augustus 1980   tot
 In dit besluit wordt verstaan onder :<br>
 1° decreet van 5 april 1995 : het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
 2° minister : de Vlaamse minister, bevoegd voor het Leefmilieu, Natuur en Energie;<br>
-3° departement : het Departement Leefmilieu, Natuur en Energie van het Vlaams Ministerie van Leefmilieu, Natuur en Energie;<br>
+3° departement : het Departement Omgeving;<br>
 4° bevoegde instantie : het departement, op het adres van de afdeling, bevoegd voor bestuurlijke handhaving, Graaf de Ferrarisgebouw, Koning Albert II-laan 20 bus 8, 1000 Brussel;<br>
-5° afdeling, bevoegd voor milieuhandhaving : de afdeling Milieu-inspectie van het departement, geregeld met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
-6° afdeling, bevoegd voor bestuurlijke handhaving : de afdeling Milieuhandhaving, Milieuschade en Crisisbeheer van het departement, geregeld met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
-7° juridische dienst : de Juridische Dienst van de afdeling Algemene Zaken, Communicatie en Juridische Dienst van het departement, met als adres Graaf de Ferrarisgebouw, Koning Albert II-laan 20, bus 8, 1000 Brussel, geregeld met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
+5° afdeling, bevoegd voor milieuhandhaving : de subentiteit van het departement, bevoegd voor de milieuhandhaving;<br>
+6° afdeling, bevoegd voor bestuurlijke handhaving : de subentiteit van het departement, bevoegd voor bestuurlijke handhaving;<br>
+7° juridische dienst : de subentiteit van het departement, bevoegd voor juridische dienstverlening;<br>
 8° gedelegeerde : de overheidsinstantie aan wie de bevoegde instantie een of meer van haar taken delegeert met toepassing van artikel 15.8.1, tweede lid, van het decreet van 5 april 1995;<br>
 9° herstelmaatregelenbesluit : het besluit van de bevoegde instantie waarin wordt geoordeeld over het al dan niet nemen van herstelmaatregelen;<br>
 10° herstelplan : een plan waarin, gelet op artikel 15.3.4 tot en met artikel 15.3.11 van het decreet van 5 april 1995,<br>
@@ -31,10 +31,7 @@ c) een elektronische aangetekende zending;<br>
 13° dag van ontvangst : een van de volgende dagen :<br>
 a) de dag waarop de geadresseerde de informatie of de kennisgeving daadwerkelijk ontvangt, zoals blijkt uit een ontvangstbewijs of ontvangstbevestiging;<br>
 b) bij gebrek aan een ontvangstbewijs of ontvangstbevestiging als, vermeld in punt a), de dag van ontvangst waarvan vermoed wordt dat die plaats vindt op de derde werkdag die volgt op de dag waarop deze informatie of kennisgeving aan de postdiensten werd overhandigd, werd afgegeven tegen ontvangstbewijs of elektronisch werd verzonden, tenzij de geadresseerde bewijst dat de ontvangst op een andere dag heeft plaatsgevonden;<br>
-14° verzoek om maatregelen : het verzoek tot het opleggen van maatregelen vermeld in artikel 15.6.1 van het decreet van 5 april 1995;<!-- #detailBodyRightContainer --><br>
-<!-- #DocumentActions --><br>
-<br>
-<!-- #detailContainer -->
+14° verzoek om maatregelen : het verzoek tot het opleggen van maatregelen vermeld in artikel 15.6.1 van het decreet van 5 april 1995;
 
 ## HOOFDSTUK 2. Zelfstandige verplichtingen van de exploitant bij milieuschade of een dreiging van milieuschade
 
@@ -251,7 +248,15 @@ Er wordt een Milieuschadecommissie opgericht die aan de minister advies   verlee
 
 ### ART. 25.
 
-De Milieuschadecommissie is samengesteld uit : <BR>1° een extern   voorzitter die geen deel uitmaakt van het beleidsdomein Leefmilieu, Natuur en   Energie van de Vlaamse overheid, en die door de minister wordt aangewezen;<BR>2°   een secretaris : een vertegenwoordiger van de juridische dienst, die door het   hoofd van de dienst wordt aangewezen; <BR>3° een vertegenwoordiger van de   Openbare Vlaamse Afvalstoffenmaatschappij, die door de leidend ambtenaar wordt   aangewezen; <BR>4° een vertegenwoordiger van de Vlaamse Milieumaatschappij, die   door de leidend ambtenaar wordt aangewezen; <BR>5° een vertegenwoordiger van het   Agentschap voor Natuur en Bos, die door de leidend ambtenaar wordt aangewezen;   <BR>6° een vertegenwoordiger van de afdeling, bevoegd voor bestuurlijke   handhaving, die door het afdelingshoofd wordt aangewezen; <BR>7° een   vertegenwoordiger van de afdeling, bevoegd voor milieuhandhaving, die door het   afdelingshoofd wordt aangewezen; <BR>8° een vertegenwoordiger van de afdeling   bevoegd voor milieuvergunningen, die door het afdelingshoofd wordt aangewezen;   <BR>9° een vertegenwoordiger van de Vlaamse Landmaatschappij, die door de   leidend ambtenaar wordt aangewezen; <BR>10° een vertegenwoordiger van het   Instituut voor Natuur- en Bosonderzoek, die door de leidend ambtenaar wordt   aangewezen.
+De Milieuschadecommissie is samengesteld uit:<br>
+1° een externe voorzitter die geen deel uitmaakt van het beleidsdomein Omgeving, en die door de minister wordt aangewezen;<br>
+2° een secretaris: een vertegenwoordiger van de subentiteit van het departement, bevoegd voor juridische dienstverlening, die door de leidend ambtenaar wordt aangewezen;<br>
+3° een vertegenwoordiger van de Openbare Vlaamse Afvalstoffenmaatschappij, die door de leidend ambtenaar wordt aangewezen;<br>
+4° een vertegenwoordiger van de Vlaamse Milieumaatschappij, die door de leidend ambtenaar wordt aangewezen;<br>
+5° een vertegenwoordiger van het Agentschap voor Natuur en Bos, die door de leidend ambtenaar wordt aangewezen;<br>
+6° drie vertegenwoordigers van het departement, waarvan een vertegenwoordiger deskundig is op vlak van milieuhandhaving, en waarvan een vertegenwoordiger deskundig is op vlak van bestuurlijke handhaving en een vertegenwoordiger deskundig is op vlak van de omgevingsvergunning. De drie vertegenwoordigers worden door de leidend ambtenaar aangewezen;<br>
+7° een vertegenwoordiger van de Vlaamse Landmaatschappij, die door de leidend ambtenaar wordt aangewezen;<br>
+8° een vertegenwoordiger van het Instituut voor Natuur- en Bosonderzoek, die door de leidend ambtenaar wordt aangewezen.
 
 ### ART. 26.
 
@@ -281,7 +286,7 @@ De juridische dienst onderzoekt de ontvankelijkheid van het beroep.   <BR><BR>Al
 
 ### ART. 31.
 
-Op zijn verzoek wordt de beroepsindiener door de Milieuschadecommissie   gehoord. De beroepsindiener richt daarvoor een schriftelijk verzoek, samen met   het beroepschrift, tot de secretaris van de Milieuschadecommissie, op het adres   van de juridische dienst.
+Op zijn verzoek wordt de beroepsindiener door de Milieuschadecommissie gehoord. De beroepsindiener richt daarvoor een schriftelijk verzoek, samen met het beroepschrift, tot de secretaris van de Milieuschadecommissie.
 
 ### ART. 32.
 
