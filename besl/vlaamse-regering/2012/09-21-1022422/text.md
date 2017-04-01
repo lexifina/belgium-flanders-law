@@ -14,7 +14,22 @@ De minister wordt gemachtigd om, na een openbare oproep aan initiatiefnemers, ma
 
 ### ART. 3.
 
-De pilootprojecten worden geselecteerd na advies van een kwaliteitskamer. <br /><br />De kwaliteitskamer bestaat uit : <br />1° een vertegenwoordiger van het kabinet van de minister;<br />2° een vertegenwoordiger van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br />3° de Vlaamse bouwmeester en een vertegenwoordiger van zijn team;<br />4° twee vertegenwoordigers van het intern verzelfstandigd agentschap het Vlaams Agentschap Zorg en Gezondheid;<br />5° een vertegenwoordiger van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />6° drie deskundigen die geen personeelslid zijn van de Vlaamse administratie;<br />7° een deskundige die personeelslid is van de Vlaamse administratie, maar niet van het departement of van een agentschap van het beleidsdomein Welzijn, Volksgezondheid en Gezin of van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed.<br /><br />Als dat voor de beoordeling van een projectvoorstel nodig is, kan de kwaliteitskamer een beroep doen op andere deskundigen.<br /><br />De minister stelt de kwaliteitskamer samen. Hij regelt de opdrachten en de werking van de kwaliteitskamer en hij stelt de kwalificaties en de vergoeding vast van de deskundigen die geen personeelslid zijn van de Vlaamse administratie.<br /><br />De werkingskosten van de kwaliteitskamer en de vergoeding van de deskundigen zijn ten laste van de begroting van de Vlaamse Gemeenschap.
+De pilootprojecten worden geselecteerd na advies van een kwaliteitskamer.<br>
+<br>
+De kwaliteitskamer bestaat uit :<br>
+1° een vertegenwoordiger van het kabinet van de minister;<br>
+2° een vertegenwoordiger van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
+3° de Vlaamse bouwmeester en een vertegenwoordiger van zijn team;<br>
+4° twee vertegenwoordigers van het intern verzelfstandigd agentschap het Vlaams Agentschap Zorg en Gezondheid;<br>
+5° een vertegenwoordiger van het beleidsdomein Omgeving;<br>
+6° drie deskundigen die geen personeelslid zijn van de Vlaamse administratie;<br>
+7° een deskundige die personeelslid is van de Vlaamse administratie, maar niet van het departement of van een agentschap van het beleidsdomein Welzijn, Volksgezondheid en Gezin of van het beleidsdomein Omgeving.<br>
+<br>
+Als dat voor de beoordeling van een projectvoorstel nodig is, kan de kwaliteitskamer een beroep doen op andere deskundigen.<br>
+<br>
+De minister stelt de kwaliteitskamer samen. Hij regelt de opdrachten en de werking van de kwaliteitskamer en hij stelt de kwalificaties en de vergoeding vast van de deskundigen die geen personeelslid zijn van de Vlaamse administratie.<br>
+<br>
+De werkingskosten van de kwaliteitskamer en de vergoeding van de deskundigen zijn ten laste van de begroting van de Vlaamse Gemeenschap.
 
 ### ART. 4.
 
