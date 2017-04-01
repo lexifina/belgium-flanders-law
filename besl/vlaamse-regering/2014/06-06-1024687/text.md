@@ -23,7 +23,7 @@ In dit besluit wordt verstaan onder:<br>
 2° bruto saldo: de geldwaarde van de jaarlijkse bruto productie verminderd met de jaarlijkse bijhorende variabele kosten. De bruto productie is gelijk aan de som van de waarde van de geproduceerde hoofd- en bijproducten en andere opbrengsten. De variabele kosten zijn de kosten die toenemen of afnemen naargelang een toename of afname van de productie;<br>
 3° decreet van 28 maart 2014: het decreet van 28 maart 2014 betreffende de landinrichting;<br>
 4° departement: het departement Landbouw en Visserij;<br>
-5° dienst: de afdeling Land en Bodembescherming, Ondergrond, Natuurlijke Rijkdommen van het Departement Leefmilieu, Natuur en Energie;<br>
+5° ...;<br>
 6° gewestelijk vergelijkbaar inkomen: vertegenwoordigt het gemiddeld bruto salaris van alle loontrekkenden in Vlaanderen. Het wordt verkregen door de verhouding te nemen van de totale loonmassa die in Vlaanderen wordt betaald en het globale aantal loontrekkenden, omgerekend naar voltijdse arbeidskrachten;<br>
 7° landbouwer in hoofdberoep:<br>
 a) een natuurlijk persoon die op zelfstandige basis een landbouwbedrijf exploiteert en die is geïdentificeerd in het geïntegreerd beheers- en controlesysteem, vermeld in artikel 2, 14°, van het decreet van 22 december 2006 houdende inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid, en die meer dan 50 % van zijn arbeidstijd aan een landbouwactiviteit spendeert en zijn netto belastbaar inkomen, berekend over de laatste drie jaar, voor meer dan 50 % haalt uit landbouw;<br>
@@ -396,7 +396,10 @@ Een landinrichtingsproject kan ingesteld worden om een antwoord te bieden   op e
 
 ### ART. 3.1.1.4.
 
-De dienst bezorgt de volgende stukken aan de minister, aan het college van   burgemeester en schepenen van elke gemeente waarop het voorstel van   landinrichtingsproject betrekking heeft, en aan de deputatie van elke provincie   waarop het voorstel van landinrichtingsproject betrekking heeft:<BR>1° het   onderzoek naar de opportuniteit en de haalbaarheid van een   landinrichtingsproject, waarbij in voorkomend geval het voorstel van   landinrichtingsproject is aangepast aan het advies van de   programmacommissie;<BR>2° het advies van de programmacommissie;<BR>3° in   voorkomend geval, de wijze waarop het agentschap rekening heeft gehouden met het   advies van de programmacommissie.<BR>
+Het Departement Omgeving bezorgt de volgende stukken aan de minister, aan het college van burgemeester en schepenen van elke gemeente waarop het voorstel van landinrichtingsproject betrekking heeft, en aan de deputatie van elke provincie waarop het voorstel van landinrichtingsproject betrekking heeft:<br>
+1° het onderzoek naar de opportuniteit en de haalbaarheid van een landinrichtingsproject, waarbij in voorkomend geval het voorstel van landinrichtingsproject is aangepast aan het advies van de programmacommissie;<br>
+2° het advies van de programmacommissie;<br>
+3° in voorkomend geval, de wijze waarop het agentschap rekening heeft gehouden met het advies van de programmacommissie.
 
 ### ART. 3.1.1.5.
 
@@ -410,7 +413,27 @@ De beslissing van de Vlaamse Regering, vermeld in artikel 3.1.1.5, wordt   door 
 
 ### ART. 3.2.1.1.
 
-<P>De programmacommissie is samengesteld uit de volgende leden:<BR>1° de   voorzitter, voorgedragen door de minister;<BR>2° een vertegenwoordiger van het   agentschap die het secretariaat verzekert, voorgedragen door de leidend   ambtenaar;<BR>3° een vertegenwoordiger van het departement, bevoegd voor   ruimtelijke ordening, voorgedragen door de leidend ambtenaar;<BR>4° een   vertegenwoordiger van het Agentschap Onroerend Erfgoed, voorgedragen door de   leidend ambtenaar;<BR>5° een vertegenwoordiger van het departement, bevoegd voor   leefmilieu, voorgedragen door de leidend ambtenaar;<BR>6° een vertegenwoordiger   van het departement, bevoegd voor land en bodembescherming, ondergrond en   natuurlijke rijkdommen, voorgedragen door de leidend ambtenaar;<BR>7° een   vertegenwoordiger van het Agentschap voor Natuur en Bos, voorgedragen door de   leidend ambtenaar;<BR>8° een vertegenwoordiger van het departement, bevoegd voor   landbouw en visserij, voorgedragen door de leidend ambtenaar;<BR>9° een   vertegenwoordiger van het Agentschap Landbouw en Visserij, voorgedragen door de   leidend ambtenaar;<BR>10° een vertegenwoordiger van de Vlaamse   Milieumaatschappij, voorgedragen door de leidend ambtenaar;<BR>11° een   vertegenwoordiger van het departement, bevoegd voor mobiliteit en openbare   werken, voorgedragen door de leidend ambtenaar;<BR>12° een vertegenwoordiger van   het agentschap Toerisme Vlaanderen, voorgedragen door de leidend   ambtenaar;<BR>13° een vertegenwoordiger van de Openbare Vlaamse   Afvalstoffenmaatschappij, voorgedragen door de leidend ambtenaar;<BR>14° een   vertegenwoordiger van de Vlaamse provincies, voorgedragen door de Vereniging van   de Vlaamse Provincies;<BR>15° een vertegenwoordiger van de gemeenten,   voorgedragen door de Vereniging van Vlaamse Steden en Gemeenten.<BR></P>  <P>Voor elk lid, vermeld in het eerste lid, wordt een plaatsvervangend lid   voorgedragen op dezelfde wijze als vermeld in het eerste   lid.<BR></P>
+<p>De programmacommissie is samengesteld uit de volgende leden:<br>
+1° de voorzitter, voorgedragen door de minister;<br>
+2° een vertegenwoordiger van het agentschap die het secretariaat verzekert, voorgedragen door de leidend ambtenaar;<br>
+3° drie vertegenwoordigers van het Departement Omgeving, voorgedragen door de leidend ambtenaar, waarvan:<br>
+a) één deskundig is op het gebied van leefmilieu;<br>
+b) één deskundig is op het gebied van ruimtelijke ordening;<br>
+c) één deskundig is op het gebied van natuurlijke rijkdommen;<br>
+4° een vertegenwoordiger van het Agentschap Onroerend Erfgoed, voorgedragen door de leidend ambtenaar;<br>
+5° ...<br>
+6° ...<br>
+7° een vertegenwoordiger van het Agentschap voor Natuur en Bos, voorgedragen door de leidend ambtenaar;<br>
+8° een vertegenwoordiger van het departement, bevoegd voor landbouw en visserij, voorgedragen door de leidend ambtenaar;<br>
+9° een vertegenwoordiger van het Agentschap Landbouw en Visserij, voorgedragen door de leidend ambtenaar;<br>
+10° een vertegenwoordiger van de Vlaamse Milieumaatschappij, voorgedragen door de leidend ambtenaar;<br>
+11° een vertegenwoordiger van het departement, bevoegd voor mobiliteit en openbare werken, voorgedragen door de leidend ambtenaar;<br>
+12° een vertegenwoordiger van het agentschap Toerisme Vlaanderen, voorgedragen door de leidend ambtenaar;<br>
+13° een vertegenwoordiger van de Openbare Vlaamse Afvalstoffenmaatschappij, voorgedragen door de leidend ambtenaar;<br>
+14° een vertegenwoordiger van de Vlaamse provincies, voorgedragen door de Vereniging van de Vlaamse Provincies;<br>
+15° een vertegenwoordiger van de gemeenten, voorgedragen door de Vereniging van Vlaamse Steden en Gemeenten.</p>
+
+<p>Voor elk lid, vermeld in het eerste lid, wordt een plaatsvervangend lid voorgedragen op dezelfde wijze als vermeld in het eerste lid.</p>
 
 ### ART. 3.2.1.2.
 
@@ -438,7 +461,12 @@ Voor de realisatie van het landinrichtingsproject worden een of meer   landinric
 
 ### ART. 3.3.1.4.
 
-De dienst bezorgt de volgende stukken aan de minister:<BR>1° het ontwerp   landinrichtingsplan dat is aangepast op basis van de opmerkingen en bezwaren die   ingediend zijn tijdens het openbaar onderzoek, vermeld in artikel 3.3.1.2, van   dit besluit, of op basis van de adviezen, vermeld in artikel 3.3.1.3, § 1, van   dit besluit;<BR>2° het verslag van de planbegeleidingsgroep over het voorstel   tot aanpassing van het ontwerp landinrichtingsplan, vermeld in artikel 3.3.1.3,   § 2, van dit besluit;<BR>3° de opmerkingen en bezwaren die ingediend zijn   tijdens het openbaar onderzoek, vermeld in artikel 3.3.1.2, van dit besluit, en   de mate waarin het agentschap rekening heeft gehouden met die opmerkingen en   bezwaren;<BR>4° in voorkomend geval de adviezen, vermeld in artikel 3.3.1.3, §   1, van dit besluit en de mate waarin het agentschap rekening heeft gehouden met   die adviezen;<BR>5° in voorkomend geval de instemming van de instanties en de   personen, vermeld in artikel 3.3.8 en 3.3.9 van het decreet van 28 maart 2014,   die belast worden met de uitvoering van het landinrichtingsplan of gedeelten   ervan.<BR>
+Het Departement Omgeving bezorgt de volgende stukken aan de minister:<br>
+1° het ontwerp landinrichtingsplan dat is aangepast op basis van de opmerkingen en bezwaren die ingediend zijn tijdens het openbaar onderzoek, vermeld in artikel 3.3.1.2, van dit besluit, of op basis van de adviezen, vermeld in artikel 3.3.1.3, § 1, van dit besluit;<br>
+2° het verslag van de planbegeleidingsgroep over het voorstel tot aanpassing van het ontwerp landinrichtingsplan, vermeld in artikel 3.3.1.3, § 2, van dit besluit;<br>
+3° de opmerkingen en bezwaren die ingediend zijn tijdens het openbaar onderzoek, vermeld in artikel 3.3.1.2, van dit besluit, en de mate waarin het agentschap rekening heeft gehouden met die opmerkingen en bezwaren;<br>
+4° in voorkomend geval de adviezen, vermeld in artikel 3.3.1.3, § 1, van dit besluit en de mate waarin het agentschap rekening heeft gehouden met die adviezen;<br>
+5° in voorkomend geval de instemming van de instanties en de personen, vermeld in artikel 3.3.8 en 3.3.9 van het decreet van 28 maart 2014, die belast worden met de uitvoering van het landinrichtingsplan of gedeelten ervan.
 
 ### ART. 3.3.1.5.
 
@@ -484,7 +512,7 @@ Als in het kader van uitvoeringsinitiatieven werken uitgevoerd worden door   de 
 
 ### ART. 3.4.2.1.
 
-De aanvraag van een subsidie wordt ingediend bij de dienst. Het agentschap   kan degene die een subsidie aanvraagt, bijstaan bij de aanvraag van de   subsidie.<BR>
+De aanvraag van een subsidie wordt ingediend bij het Departement Omgeving. Het agentschap kan degene die een subsidie aanvraagt, bijstaan bij de aanvraag van de subsidie.
 
 ### ART. 3.4.2.2.
 
@@ -508,7 +536,7 @@ De toegekende subsidies voldoen aan de communautaire   regelgeving.<BR>
 
 ### ART. 3.4.2.6.
 
-&nbsp;De stukken die de aanwending van de subsidie verantwoorden, worden   ingediend bij de dienst. De dienst kan zich alle aanvullende gegevens laten   verschaffen die nodig zijn voor de definitieve vaststelling van de verantwoorde   subsidie.<BR>
+De stukken die de aanwending van de subsidie verantwoorden, worden ingediend bij het Departement Omgeving. Het Departement Omgeving kan zich alle aanvullende gegevens laten verschaffen die nodig zijn voor de definitieve vaststelling van de verantwoorde subsidie.
 
 ### ART. 3.4.2.7.
 
@@ -518,7 +546,9 @@ Als de begunstigde van de subsidie een btw-plichtige is die de betaalde   btw in
 
 ### ART. 3.4.2.8.
 
-<P>De subsidie van het Vlaamse Gewest voor de voorbereiding van een   landinrichtingsplan, zoals studieopdrachten of procesbegeleiding, bedraagt   maximaal 70 % van de kosten als die voorbereidende activiteiten op verzoek van   de dienst worden uitgevoerd door provincies of gemeenten of door   privaatrechtelijke rechtspersonen die het beheer of de bescherming van   landschap, natuur of milieu beogen. De minister bepaalt het bedrag of het   subsidiepercentage.<BR></P>  <P>De subsidie van het Vlaamse Gewest voor de voorbereiding van een   landinrichtingsplan, zoals studieopdrachten of procesbegeleiding, bedraagt 100 %   van de kosten die niet ten laste worden genomen door derden als die   voorbereidende activiteiten worden uitgevoerd door het agentschap. De minister   bepaalt het bedrag of het percentage van de kosten dat ten laste wordt genomen   door derden.<BR></P>
+<p>De subsidie van het Vlaamse Gewest voor de voorbereiding van een landinrichtingsplan, zoals studieopdrachten of procesbegeleiding, bedraagt maximaal 70 % van de kosten als die voorbereidende activiteiten op verzoek van het Departement Omgeving worden uitgevoerd door provincies of gemeenten of door privaatrechtelijke rechtspersonen die het beheer of de bescherming van landschap, natuur of milieu beogen. De minister bepaalt het bedrag of het subsidiepercentage.</p>
+
+<p>De subsidie van het Vlaamse Gewest voor de voorbereiding van een landinrichtingsplan, zoals studieopdrachten of procesbegeleiding, bedraagt 100 % van de kosten die niet ten laste worden genomen door derden als die voorbereidende activiteiten worden uitgevoerd door het agentschap. De minister bepaalt het bedrag of het percentage van de kosten dat ten laste wordt genomen door derden.</p>
 
 ### ART. 3.4.2.9.
 
@@ -718,15 +748,19 @@ De verantwoording van de aanwending van de subsidie omvat:<BR>1° de   stukken w
 
 ### ART. 3.4.3.1.
 
-Als de dienst oordeelt dat de aanwending van de subsidie verantwoord is,   gaat de dienst over tot uitbetaling van de subsidie. Als voor de activiteit   waarvoor de subsidie is toegekend een vergunning of machtiging vereist is, kan   de subsidie alleen uitbetaald worden nadat de dienst een afschrift van de   vereiste vergunningen of machtiging heeft ontvangen.<BR>
+Als het Departement Omgeving oordeelt dat de aanwending van de subsidie verantwoord is, gaat het Departement Omgeving over tot uitbetaling van de subsidie. Als voor de activiteit waarvoor de subsidie is toegekend een vergunning of machtiging vereist is, kan de subsidie alleen uitbetaald worden nadat het Departement Omgeving een afschrift van de vereiste vergunningen of machtiging heeft ontvangen.
 
 ### ART. 3.4.3.2.
 
-<P>Als de begunstigde van de subsidie nalaat de subsidie volledig te   verantwoorden, vervalt de beslissing tot toekenning van de subsidie voor het   niet-verantwoorde gedeelte.<BR></P>  <P>In het geval, vermeld in het eerste lid, moet van eventueel al uitbetaalde   voorschotten het niet-verantwoorde gedeelte teruggevorderd worden. De dienst   staat in voor de terugvorderingen van de voorschotten.<BR></P>
+<p>Als de begunstigde van de subsidie nalaat de subsidie volledig te verantwoorden, vervalt de beslissing tot toekenning van de subsidie voor het niet-verantwoorde gedeelte.</p>
+
+<p>In het geval, vermeld in het eerste lid, moet van eventueel al uitbetaalde voorschotten het niet-verantwoorde gedeelte teruggevorderd worden. Het Departement Omgeving staat in voor de terugvorderingen van de voorschotten.</p>
 
 ### ART. 3.4.3.3.
 
-<P>Als wordt vastgesteld dat de voorwaarden voor de toekenning van de subsidie   niet worden nageleefd, moet de begunstigde de subsidie onmiddellijk   terugbetalen. De dienst staat in voor de terugvordering van de   subsidies.<BR></P>  <P>Personen die zijn aangesteld door de dienst, het agentschap of het Vlaamse   Gewest zijn bevoegd om na te gaan of de voorwaarden voor de toekenning van de   subsidie worden nageleefd. Ze kunnen alle stukken die ze nodig hebben om de   controleopdracht uit te voeren, opvragen bij de begunstigden en mogen bij de   uitoefening van hun controleopdracht onroerende goederen betreden, met   uitzondering van woningen en gebouwen die bestemd zijn voor   privé-activiteiten.<BR></P>
+<p>Als wordt vastgesteld dat de voorwaarden voor de toekenning van de subsidie niet worden nageleefd, moet de begunstigde de subsidie onmiddellijk terugbetalen. Het Departement Omgeving staat in voor de terugvordering van de subsidies.</p>
+
+<p>Personen die zijn aangesteld door&nbsp; het Departement Omgeving, het agentschap of het Vlaamse Gewest zijn bevoegd om na te gaan of de voorwaarden voor de toekenning van de subsidie worden nageleefd. Ze kunnen alle stukken die ze nodig hebben om de controleopdracht uit te voeren, opvragen bij de begunstigden en mogen bij de uitoefening van hun controleopdracht onroerende goederen betreden, met uitzondering van woningen en gebouwen die bestemd zijn voor privé-activiteiten.</p>
 
 ## DEEL 4 DE TOEPASSING VAN DE INSTRUMENTEN VOOR DE REALISATIE VAN PROJECTEN, PLANNEN OF PROGRAMMA'S
 
