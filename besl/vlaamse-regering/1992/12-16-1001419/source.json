@@ -2,16 +2,16 @@
   "codex_id": 1001419,
   "title": "Besluit van de Vlaamse Regering van 1992-12-16 tot vaststelling van de erkenningsvoorwaarden en de criteria die gelden voor de toekenning van een subsidie aan erkende verenigingen die actief zijn op het gebied van de bosbouw, de jacht of het faunabeheer",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001419/VolledigDocument?datum=2008-05-21",
-  "source_sha256": "116a7e825707ee5dff377662310cc50f9742cde2737c5dfcb80e3fdcddfb9fbc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001419/VolledigDocument?datum=2017-04-01",
+  "source_sha256": "b9895e261976516476d4f8d8002cc3f5dade885649804b02655c0ad36a67b275",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001419&param=informatie",
-  "as_of": "2008-05-21",
+  "as_of": "2017-04-01",
   "made": "1992-12-16",
   "gazette": "1993-04-02",
   "numac": 1993035290,
   "document_start": null,
   "document_end": null,
-  "in_force": "2008-05-21",
+  "in_force": "2017-04-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
 }

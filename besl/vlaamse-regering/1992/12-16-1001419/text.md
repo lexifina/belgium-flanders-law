@@ -19,7 +19,7 @@ Om met het oog op subsidiëring erkend te worden en erkend te blijven, moet de v
 8° de vereniging is actief over tenminste een Vlaamse provincie. Zo de vereniging ook buiten het Vlaamse Gewest actief is, moet uit de boekhouding van de vereniging duidelijk blijken dat eventuele subsidies van het Vlaamse Gewest alleen voor activiteiten in dat gewest worden aangewend;<br>
 9° de vereniging werd op particulier initiatief opgericht en groepeert hoofdzakelijk privé-personen;<br>
 10° de vereniging is ten minste twee jaar actief in het Vlaamse Gewest;<br>
-11° de vereniging aanvaardt de controle door ambtenaren van het beleidsdomein Leefmilieu, Natuur en Energie op haar boekhouding en op haar werking.
+11° de vereniging aanvaardt de controle door ambtenaren van het beleidsdomein Omgeving op haar boekhouding en op haar werking.
 
 ### ART. 3.
 
@@ -28,7 +28,7 @@ De aanvraag tot erkenning wordt bij aangetekende brief gericht tot het Agentscha
 2° een door de algemene vergadering der leden goedgekeurd gedetailleerd financieel verslag over het voorbije kalenderjaar, met balans, waarin het aantal bijdragen betaald door de leden wordt vermeld;<br>
 3° een werkingsverslag over het voorbije kalenderjaar;<br>
 4° een verklaring, opgesteld door de op grond van de statuten aangewezen bestuurders die de vereniging kunnen verbinden, dat de vereniging voldoet aan de erkenningsvoorwaarden vermeld in artikel 2 en dat zij daarmede akkoord gaat;<br>
-5° een verklaring van de voorzitter van de vereniging waaruit blijkt dat de vereniging voldoet aan de sociale en fiscale wetgeving. De nodige bewijsstukken daarvan dienen op het secretariaat ter inzage te liggen van de bevoegde ambtenaren van het beleidsdomein Leefmilieu, Natuur en Energie.
+5° een verklaring van de voorzitter van de vereniging waaruit blijkt dat de vereniging voldoet aan de sociale en fiscale wetgeving. De nodige bewijsstukken daarvan dienen op het secretariaat ter inzage te liggen van de bevoegde ambtenaren van het beleidsdomein Omgeving.
 
 ### ART. 4.
 
