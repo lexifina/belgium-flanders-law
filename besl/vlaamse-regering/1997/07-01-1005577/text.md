@@ -4,7 +4,22 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° Minister:   de Vlaamse minister bevoegd voor de ruimtelijke ordening;<BR>2° het departement   : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<BR>3°   Inventaris: het instrument dat alle leegstaande en/of verwaarloosde   bedrijfsruimten bevat die aan een heffing kunnen worden onderworpen en/of voor   een financiële steun voor vernieuwing in aanmerking komen;<BR>4° Basisstudie: de   studie die de volgende documenten en gegevens bevat:<BR>a) het volledige en   gedetailleerde ontwerpdossier van de sanering;<BR>b) de te realiseren   herbestemming: meer bepaald :&nbsp;<BR>1) een stedenbouwkundig attest of een   omgevingsvergunning voor stedenbouwkundige handelingen, alsmede het   aanvraagdossier van dat attest of die vergunning en een toelichtende nota,   of;&nbsp;<BR>2) een bewijs dat de handelingen, vermeld in artikel 4.2.2 van de   Vlaamse Codex Ruimtelijke Ordening, gemeld zijn, conform hoofdstuk 10 van het   decreet van 25 april 2014 betreffende de omgevingsvergunning, alsmede het   dossier, vereist voor de melding en een toelichtende nota, of;<BR>3) als het   niet mogelijk is een stedenbouwkundig attest of een omgevingsvergunning voor   stedenbouwkundige handelingen te verkrijgen of een melding te verrichten, een   definitief gesloten Brownfieldconvenant als vermeld in hoofdstuk III van het   decreet van 30 maart 2007 betreffende de Brownfieldconvenanten;<BR>c) de   geraamde kostprijs van de saneringswerkzaamheden;<BR>d) een tijdtabel voor de   uitvoering van de saneringswerkzaamheden; <BR>5° Registratieattest: het attest   dat door het departement wordt betekend waarbij wordt vermeld dat de   bedrijfsruimte officieel in de Inventaris is geregistreerd met vermelding van de   reden van inventarisatie en de datum van registratie;<BR>6° Instrumenterende   ambtenaar: iedere persoon of instelling die ertoe gemachtigd is aktes van   eigendomsoverdracht te verlijden;<BR>7° Deelgemeente: de gemeente zoals ze   bekend was voor de fusie van de gemeenten van 1 januari 1977;<BR>8° Decreet: het   decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van   leegstand en verwaarlozing van bedrijfsruimten.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° Minister: de Vlaamse minister bevoegd voor de ruimtelijke ordening;<br>
+2° departement: het Departement Omgeving;<br>
+3° Inventaris: het instrument dat alle leegstaande en/of verwaarloosde bedrijfsruimten bevat die aan een heffing kunnen worden onderworpen en/of voor een financiële steun voor vernieuwing in aanmerking komen;<br>
+4° Basisstudie: de studie die de volgende documenten en gegevens bevat:<br>
+a) het volledige en gedetailleerde ontwerpdossier van de sanering;<br>
+b) de te realiseren herbestemming: meer bepaald :&nbsp;<br>
+1) een stedenbouwkundig attest of een omgevingsvergunning voor stedenbouwkundige handelingen, alsmede het aanvraagdossier van dat attest of die vergunning en een toelichtende nota, of;&nbsp;<br>
+2) een bewijs dat de handelingen, vermeld in artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening, gemeld zijn, conform hoofdstuk 10 van het decreet van 25 april 2014 betreffende de omgevingsvergunning, alsmede het dossier, vereist voor de melding en een toelichtende nota, of;<br>
+3) als het niet mogelijk is een stedenbouwkundig attest of een omgevingsvergunning voor stedenbouwkundige handelingen te verkrijgen of een melding te verrichten, een definitief gesloten Brownfieldconvenant als vermeld in hoofdstuk III van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten;<br>
+c) de geraamde kostprijs van de saneringswerkzaamheden;<br>
+d) een tijdtabel voor de uitvoering van de saneringswerkzaamheden;<br>
+5° Registratieattest: het attest dat door het departement wordt betekend waarbij wordt vermeld dat de bedrijfsruimte officieel in de Inventaris is geregistreerd met vermelding van de reden van inventarisatie en de datum van registratie;<br>
+6° Instrumenterende ambtenaar: iedere persoon of instelling die ertoe gemachtigd is aktes van eigendomsoverdracht te verlijden;<br>
+7° Deelgemeente: de gemeente zoals ze bekend was voor de fusie van de gemeenten van 1 januari 1977;<br>
+8° Decreet: het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten.
 
 ### ART. 2.
 
