@@ -74,7 +74,9 @@ De ambtelijke commissie geeft op basis van het door de N.V. Aquafin opgemaakte v
 
 ### ART. 14.
 
-§ 1. Het hoofd van het Departement Leefmilieu, Natuur en Energie legt het definitief aanvaard voorontwerp met een voorstel tot toezegging van de gewestbijdrage lastens het MINA-fonds voor aan de bevoegde Vlaamse minister. Deze beslist binnen de dertig kalenderdagen na de goedkeuring van de gewestbijdrage door de ambtelijke commissie, over dit bedrag. Het aldus toegezegde bedrag van de gewestbijdrage wordt vastgelegd ten laste van het MINA-fonds. Dit bedrag is een plafondbedrag dat niet meer kan verhoogd worden in de verdere afhandeling van het dossier.<br /><br />§ 2. Een kopie van de toezegging van de gewestbijdrage wordt door de Vlaamse Milieumaatschappij bezorgd aan de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening alsook aan de gouverneur van de provincie waarin het project is gesitueerd en dit binnen de dertig kalenderdagen na de ondertekening van het ministerieel besluit van vastlegging door de Vlaamse minister van Leefmilieu.
+§ 1. Het hoofd van het Departement Omgeving legt het definitief aanvaard voorontwerp met een voorstel tot toezegging van de gewestbijdrage lastens het MINA-fonds voor aan de bevoegde Vlaamse minister. Deze beslist binnen de dertig kalenderdagen na de goedkeuring van de gewestbijdrage door de ambtelijke commissie, over dit bedrag. Het aldus toegezegde bedrag van de gewestbijdrage wordt vastgelegd ten laste van het MINA-fonds. Dit bedrag is een plafondbedrag dat niet meer kan verhoogd worden in de verdere afhandeling van het dossier.<br>
+<br>
+§ 2. Een kopie van de toezegging van de gewestbijdrage wordt door de Vlaamse Milieumaatschappij bezorgd aan de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening alsook aan de gouverneur van de provincie waarin het project is gesitueerd en dit binnen de dertig kalenderdagen na de ondertekening van het ministerieel besluit van vastlegging door de Vlaamse minister van Leefmilieu.
 
 ## AFDELING 3 HET ONTWERPDOSSIER
 
@@ -110,11 +112,51 @@ De kennisgeving aan de gemeente, gemeentebedrijf, intercommunale , intergemeente
 
 ### ART. 22.
 
-§ 1. De gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening kan een voorschot van maximum 80 % van de goedgekeurde gewestbijdrage op basis van het definitief aanvaarde voorontwerpdossier krijgen, bij uitvoering van 20 % van de subsidieerbare werken. Dit voorschot mag echter nooit hoger zijn dan 80 % van het gunningsbedrag. <br /><br />§ 2. De gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening dient hiertoe bij de N.V. Aquafin een aanvraag tot conformiteitsattest in na uitvoering van 20 % van de subsidieerbare werken.<br /><br />Deze aanvraag dient minstens te bevatten:<br />1° de vorderingsstaat waaruit blijkt dat 20 % van de subsidieerbare werken is uitgevoerd;<br />2° een overzichtstabel van de uitgevoerde proeven, tegenproeven en proefverslagen, die gedaan werden op dit deel van de werken.<br /><br />Door de N.V. Aquafin wordt, binnen de veertien kalenderdagen na ontvangst van de aanvraag, het conformiteitsattest aan de Vlaamse Milieumaatschappij bezorgd.<br /><br />Het voorschot wordt afgerond tot het lager gelegen duizendtal en wordt uitbetaald door het Departement Leefmilieu, Natuur en Eenrgie binnen de vijfenveertig kalenderdagen na ontvangst van het conformiteitsattest.
+§ 1. De gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening kan een voorschot van maximum 80 % van de goedgekeurde gewestbijdrage op basis van het definitief aanvaarde voorontwerpdossier krijgen, bij uitvoering van 20 % van de subsidieerbare werken. Dit voorschot mag echter nooit hoger zijn dan 80 % van het gunningsbedrag.<br>
+<br>
+§ 2. De gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening dient hiertoe bij de N.V. Aquafin een aanvraag tot conformiteitsattest in na uitvoering van 20 % van de subsidieerbare werken.<br>
+<br>
+Deze aanvraag dient minstens te bevatten:<br>
+1° de vorderingsstaat waaruit blijkt dat 20 % van de subsidieerbare werken is uitgevoerd;<br>
+2° een overzichtstabel van de uitgevoerde proeven, tegenproeven en proefverslagen, die gedaan werden op dit deel van de werken.<br>
+<br>
+Door de N.V. Aquafin wordt, binnen de veertien kalenderdagen na ontvangst van de aanvraag, het conformiteitsattest aan de Vlaamse Milieumaatschappij bezorgd.<br>
+<br>
+Het voorschot wordt afgerond tot het lager gelegen duizendtal en wordt uitbetaald door het Departement Omgeving binnen de vijfenveertig kalenderdagen na ontvangst van het conformiteitsattest.
 
 ### ART. 23.
 
-§ 1. Het saldo van de gewestbijdrage wordt betaald op basis van de goedgekeurde eindafrekening, in die zin dat het bedrag van de gewestbijdrage niet hoger kan zijn dan de bij de definitieve aanvaarding van het voorontwerpdossier goedgekeurde gewestbijdrage.<br /><br />§ 2. Hiertoe dient de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening binnen de drie jaar na bekendmaking van de gewestbijdrage door de Vlaamse Milieumaatschappij de eindafrekening in twee exemplaren en het as-built-plan in vier exemplaren over te maken aan de voornoemde administratie. Deze periode kan door de ambtelijke commissie, na beoordeling van de gemotiveerde aanvraag van de gemeente, gemeentebedrijf, intercommunale of intergemeentelijke samenwerkingsverband, worden verlengd.<br /><br />De eindafrekening dient onder meer te bevatten:<br />1° het proces-verbaal van voorlopige oplevering;<br />2° de cumulatieve eindstaat;<br />3° de eventuele verrekeningen, bijakten en bijwerken;<br />4° de facturen van alle vorderingsstaten en alle betaalbewijzen;<br />5° een overzicht per vorderingsstaat (met vermelding van het bedrag, de eventuele herziening, de BTW, de eventuele rafacties, de eventuele boetes);<br />6° het borgstellingsbewijs;<br />7° een overzichtstabel van de gebruikte materialen en een overzicht van de afgeleverde attesten en keuringsverslagen;<br />8° een overzichtstabel van de uitgevoerde proeven, tegenproeven en proefverslagen;<br />9° een overzicht van de uitvoeringstermijn;<br />10° de saldoberekening.<br /><br />Het as-built-plan dient te omvatten:<br />1° een as-built-plan met aanduiding van de uitgevoerde riolering in Lambert 72-coördinaten en TAW-peilen;<br />2° de AQUADATA-fiches.<br /><br />§ 3. Door de Vlaamse Milieumaatschappij wordt binnen de 7 kalenderdagen één exemplaar van de eindafrekening aan de N.V. Aquafin overgemaakt voor advisering.<br /><br />De N.V. Aquafin controleert de conformiteit tussen het definitief aanvaarde ontwerp en de uitgevoerde werken en levert binnen de zestig kalenderdagen na ontvangst van het eindafrekeningsdossier een definitief advies af aan de administratie Milieu-, Natuur-, Land- en Waterbeheer.<br /><br />§ 4. De Vlaamse Milieumaatschappij bezorgt aan de NV Aquafin en aan de provinciegouverneur van de gemeente in kwestie een exemplaar van het as-built-plan.<br /><br />§ 5. Door het Departement Leefmilieu, Natuur en Energie wordt het saldo van de gewestbijdrage aan de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening uitbetaald binnen de negentig kalenderdagen na ontvangst van de aanvraag.<br /><br />Indien de kostprijs van de uitgevoerde subsidieerbare werken lager is dan de aanvaarde raming van de kosten zoals bepaald in artikel 13, dan wordt de gewestbijdrage verminderd tot 50 %, respectievelijk 75 % of 100 % van de kostprijs van de subsidieerbare werken. In dit geval wordt de vastlegging lastens het MINA-fonds verminderd.<br /><br />§ 6. De provinciegouverneur wordt door Vlaamse Milieumaatschappij in kennis gesteld van het uitbetaalde subsidiebedrag.
+§ 1. Het saldo van de gewestbijdrage wordt betaald op basis van de goedgekeurde eindafrekening, in die zin dat het bedrag van de gewestbijdrage niet hoger kan zijn dan de bij de definitieve aanvaarding van het voorontwerpdossier goedgekeurde gewestbijdrage.<br>
+<br>
+§ 2. Hiertoe dient de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening binnen de drie jaar na bekendmaking van de gewestbijdrage door de Vlaamse Milieumaatschappij de eindafrekening in twee exemplaren en het as-built-plan in vier exemplaren over te maken aan de voornoemde administratie. Deze periode kan door de ambtelijke commissie, na beoordeling van de gemotiveerde aanvraag van de gemeente, gemeentebedrijf, intercommunale of intergemeentelijke samenwerkingsverband, worden verlengd.<br>
+<br>
+De eindafrekening dient onder meer te bevatten:<br>
+1° het proces-verbaal van voorlopige oplevering;<br>
+2° de cumulatieve eindstaat;<br>
+3° de eventuele verrekeningen, bijakten en bijwerken;<br>
+4° de facturen van alle vorderingsstaten en alle betaalbewijzen;<br>
+5° een overzicht per vorderingsstaat (met vermelding van het bedrag, de eventuele herziening, de BTW, de eventuele rafacties, de eventuele boetes);<br>
+6° het borgstellingsbewijs;<br>
+7° een overzichtstabel van de gebruikte materialen en een overzicht van de afgeleverde attesten en keuringsverslagen;<br>
+8° een overzichtstabel van de uitgevoerde proeven, tegenproeven en proefverslagen;<br>
+9° een overzicht van de uitvoeringstermijn;<br>
+10° de saldoberekening.<br>
+<br>
+Het as-built-plan dient te omvatten:<br>
+1° een as-built-plan met aanduiding van de uitgevoerde riolering in Lambert 72-coördinaten en TAW-peilen;<br>
+2° de AQUADATA-fiches.<br>
+<br>
+§ 3. Door de Vlaamse Milieumaatschappij wordt binnen de 7 kalenderdagen één exemplaar van de eindafrekening aan de N.V. Aquafin overgemaakt voor advisering.<br>
+<br>
+De N.V. Aquafin controleert de conformiteit tussen het definitief aanvaarde ontwerp en de uitgevoerde werken en levert binnen de zestig kalenderdagen na ontvangst van het eindafrekeningsdossier een definitief advies af aan de administratie Milieu-, Natuur-, Land- en Waterbeheer.<br>
+<br>
+§ 4. De Vlaamse Milieumaatschappij bezorgt aan de NV Aquafin en aan de provinciegouverneur van de gemeente in kwestie een exemplaar van het as-built-plan.<br>
+<br>
+§ 5. Door het Departement Omgeving wordt het saldo van de gewestbijdrage aan de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening uitbetaald binnen de negentig kalenderdagen na ontvangst van de aanvraag.<br>
+<br>
+Indien de kostprijs van de uitgevoerde subsidieerbare werken lager is dan de aanvaarde raming van de kosten zoals bepaald in artikel 13, dan wordt de gewestbijdrage verminderd tot 50 %, respectievelijk 75 % of 100 % van de kostprijs van de subsidieerbare werken. In dit geval wordt de vastlegging lastens het MINA-fonds verminderd.<br>
+<br>
+§ 6. De provinciegouverneur wordt door Vlaamse Milieumaatschappij in kennis gesteld van het uitbetaalde subsidiebedrag.
 
 ### ART. 24.
 
