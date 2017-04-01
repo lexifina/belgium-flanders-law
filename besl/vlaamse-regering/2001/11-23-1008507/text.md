@@ -4,7 +4,13 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° de   minister: de minister, bevoegd voor de Ruimtelijke Ordening;<BR>2° het   departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend   Erfgoed;<BR>3° aanvrager: het college van burgemeester en schepenen als de   subsidie betrekking heeft op een personeelslid van de gemeente of het   intergemeentelijk samenwerkingsverband als de subsidie betrekking heeft op een   personeelslid van het intergemeentelijk samenwerkingsverband;<BR>4°   intergemeentelijk samenwerkingsverband: een intergemeentelijk   samenwerkingsverband, als vermeld in het decreet van 6 juli 2001 houdende de   intergemeentelijke samenwerking;<BR>5° opleiding: een opleiding ruimtelijke   ordening op basis waarvan een getuigschrift of diploma wordt uitgereikt dat   nodig is voor de aanwijzing als gemeentelijke stedenbouwkundige ambtenaar;<BR>6°   gemeentelijk stedenbouwkundig ambtenaar: een persoon die met toepassing van   artikel 1.4.6, § 1, van de Vlaamse Codex Ruimtelijke Ordening door de   gemeenteraad is aangewezen als gemeentelijke stedenbouwkundige   ambtenaar.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° de minister: de minister, bevoegd voor de Ruimtelijke Ordening;<br>
+2°&nbsp;departement : het Departement&nbsp;Omgeving;<br>
+3° aanvrager: het college van burgemeester en schepenen als de subsidie betrekking heeft op een personeelslid van de gemeente of het intergemeentelijk samenwerkingsverband als de subsidie betrekking heeft op een personeelslid van het intergemeentelijk samenwerkingsverband;<br>
+4° intergemeentelijk samenwerkingsverband: een intergemeentelijk samenwerkingsverband, als vermeld in het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
+5° opleiding: een opleiding ruimtelijke ordening op basis waarvan een getuigschrift of diploma wordt uitgereikt dat nodig is voor de aanwijzing als gemeentelijke stedenbouwkundige ambtenaar;<br>
+6° gemeentelijk stedenbouwkundig ambtenaar: een persoon die met toepassing van artikel 1.4.6, § 1, van de Vlaamse Codex Ruimtelijke Ordening door de gemeenteraad is aangewezen als gemeentelijke stedenbouwkundige ambtenaar.
 
 ### ART. 2.
 
