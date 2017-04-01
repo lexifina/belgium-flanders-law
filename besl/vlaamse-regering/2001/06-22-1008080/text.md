@@ -4,7 +4,10 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° ...<br />2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />3° gemeentelijke plannen: gemeentelijke plannen van aanleg of gemeentelijke ruimtelijke uitvoeringsplannen en ontwerpen ervan, rooilijnplannen, onteigeningsplannen.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° ...<br>
+2° departement : het Departement&nbsp;Omgeving;<br>
+3° gemeentelijke plannen: gemeentelijke plannen van aanleg of gemeentelijke ruimtelijke uitvoeringsplannen en ontwerpen ervan, rooilijnplannen, onteigeningsplannen.
 
 ### ART. 2.
 
