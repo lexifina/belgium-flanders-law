@@ -4,7 +4,23 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° de administratie: de dienst die door de Vlaamse minister, bevoegd voor het leefmilieu, wordt aangewezen om het integrale milieujaarverslag te beheren;<br />2° een integraal milieujaarverslag: het verslag waarvan het model als bijlage I bij dit besluit is gevoegd. Het model is opgesteld als een formulier dat minstens voor een of meer van de onderstaande activiteiten moet worden gebruikt:<br />a) voor het indienen van het milieujaarverslag in de zin van artikel 3.5.1 van het decreet van 5 april 1995 betreffende de algemene bepalingen inzake milieubeleid;<br />b) voor de melding van de productie van bedrijfsafvalstoffen, vermeld in artikel 23 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen en voor de verwerking van ingevoerde afvalstoffen, vermeld in artikel 7.4.3 van het besluit van de Vlaamse Regering van februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br />c) ... <br />d) ... <br />3° de milieujaarverslagplichtige: elke natuurlijke persoon of rechtspersoon die onderworpen is aan een van onderstaande verplichtingen:<br />a) een milieujaarverslag opstellen op grond van artikel 3.5.1 van het decreet van 5 april 1995 betreffende de algemene bepalingen inzake milieubeleid,<br />b) de productie van bedrijfsafvalstoffen melden op grond van artikel 23 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br />c) ... <br />d) ... <br />4° titel II van het VLAREM: het besluit van de Vlaamse regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br />5° het besluit van de Vlaamse regering van 18 maart 1997: het besluit van de Vlaamse regering van 18 maart 1997 tot vaststelling van de modaliteiten voor aangifte van de opgepompte of gewonnen hoeveelheden grondwater door de maatschappijen die instaan voor de openbare drinkwatervoorziening ten behoeve van de bepaling van de heffing;<br />6° het Vlarea-besluit: het besluit van de Vlaamse regering van 5 december 2003 tot vaststelling van het Vlaams reglement inzake afvalvoorkoming en -beheer;<br />7° het besluit van de Vlaamse regering van 28 juni 2002: het besluit van de Vlaamse regering van 28 juni 2002 tot uitvoering van het Hoofdstuk IIIbis van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging en Hoofdstuk IVbis van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer.<br />8° de afdeling, bevoegd voor milieuvergunningen : de afdeling Milieuvergunningen van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries.
+In dit besluit wordt verstaan onder:<br>
+1° de administratie: de dienst die door de Vlaamse minister, bevoegd voor het leefmilieu, wordt aangewezen om het integrale milieujaarverslag te beheren;<br>
+2° een integraal milieujaarverslag: het verslag waarvan het model als bijlage I bij dit besluit is gevoegd. Het model is opgesteld als een formulier dat minstens voor een of meer van de onderstaande activiteiten moet worden gebruikt:<br>
+a) voor het indienen van het milieujaarverslag in de zin van artikel 3.5.1 van het decreet van 5 april 1995 betreffende de algemene bepalingen inzake milieubeleid;<br>
+b) voor de melding van de productie van bedrijfsafvalstoffen, vermeld in artikel 23 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen en voor de verwerking van ingevoerde afvalstoffen, vermeld in artikel 7.4.3 van het besluit van de Vlaamse Regering van februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
+c) ...<br>
+d) ...<br>
+3° de milieujaarverslagplichtige: elke natuurlijke persoon of rechtspersoon die onderworpen is aan een van onderstaande verplichtingen:<br>
+a) een milieujaarverslag opstellen op grond van artikel 3.5.1 van het decreet van 5 april 1995 betreffende de algemene bepalingen inzake milieubeleid,<br>
+b) de productie van bedrijfsafvalstoffen melden op grond van artikel 23 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
+c) ...<br>
+d) ...<br>
+4° titel II van het VLAREM: het besluit van de Vlaamse regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
+5° het besluit van de Vlaamse regering van 18 maart 1997: het besluit van de Vlaamse regering van 18 maart 1997 tot vaststelling van de modaliteiten voor aangifte van de opgepompte of gewonnen hoeveelheden grondwater door de maatschappijen die instaan voor de openbare drinkwatervoorziening ten behoeve van de bepaling van de heffing;<br>
+6° het Vlarea-besluit: het besluit van de Vlaamse regering van 5 december 2003 tot vaststelling van het Vlaams reglement inzake afvalvoorkoming en -beheer;<br>
+7° het besluit van de Vlaamse regering van 28 juni 2002: het besluit van de Vlaamse regering van 28 juni 2002 tot uitvoering van het Hoofdstuk IIIbis van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging en Hoofdstuk IVbis van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer.<br>
+8° ...
 
 ## HOOFDSTUK II ALGEMENE BEPALINGEN
 
@@ -18,7 +34,15 @@ Het milieujaarverslag wordt elektronisch ingediend door de milieujaarverslagplic
 
 ### ART. 4.
 
-Bij ontvangst van een integraal milieujaarverslag stuurt de administratie de relevante delen ervan door aan de betrokken administratieve diensten:<br />1° afdeling, bevoegd voor milieuvergunningen<br />2° de Openbare Vlaamse Afvalstoffenmaatschappij, ter uitvoering van titel II van het VLAREM en van het besluit van de Vlaamse Regering van februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br />3° de Vlaamse Milieumaatschappij ter uitvoering van titel II van het VLAREM;<br />4° ...<br /><br />Als de administratie het integrale milieujaarverslag elektronisch ontving of het op een korte termijn elektronisch beschikbaar kan stellen, volstaat het dat zij de informatie via elektronische weg aan bovengenoemde diensten beschikbaar stelt.<br /><br />De minister, bevoegd voor het leefmilieu, kan extra diensten aanwijzen die delen van het integrale milieujaarverslag moeten ontvangen.
+Bij ontvangst van een integraal milieujaarverslag stuurt de administratie de relevante delen ervan door aan de betrokken administratieve diensten:<br>
+1° het Departement Omgeving;<br>
+2° de Openbare Vlaamse Afvalstoffenmaatschappij, ter uitvoering van titel II van het VLAREM en van het besluit van de Vlaamse Regering van februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
+3° de Vlaamse Milieumaatschappij ter uitvoering van titel II van het VLAREM;<br>
+4° ...<br>
+<br>
+Als de administratie het integrale milieujaarverslag elektronisch ontving of het op een korte termijn elektronisch beschikbaar kan stellen, volstaat het dat zij de informatie via elektronische weg aan bovengenoemde diensten beschikbaar stelt.<br>
+<br>
+De minister, bevoegd voor het leefmilieu, kan extra diensten aanwijzen die delen van het integrale milieujaarverslag moeten ontvangen.
 
 ## HOOFDSTUK III WIJZIGINGS- EN OPHEFFINGSBEPALINGEN
 
