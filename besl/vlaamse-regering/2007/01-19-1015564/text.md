@@ -180,4 +180,19 @@ Art. 33. De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij,
 
 ### BIJLAGE
 
-Etiket<br /><br />Artikel 1. Te vermelden gegevens :<br />1° E.U.-systeem;<br />2° keuringsdienst en lidstaat of desbetreffend kenteken;<br />3° telernummer of partijnummer;<br />4° maand en jaar van de sluiting;<br />5° ras, ten minste vermeld in Latijns schrift;<br />6° teeltland;<br />7° categorie en eventueel klasse;<br />8° sortering;<br />9° opgegeven nettogewicht.<br /><br />Art. 2. Minimumafmetingen : 110 mm x 67 mm.<br /><br />
+Etiket<br>
+<br>
+Artikel 1. Te vermelden gegevens :<br>
+1° E.U.-systeem;<br>
+2° keuringsdienst en lidstaat of desbetreffend kenteken;<br>
+2° /1. Officieel volgnummer;<br>
+3° telernummer of partijnummer;<br>
+4° maand en jaar van de sluiting;<br>
+5° ras, ten minste vermeld in Latijns schrift;<br>
+6° teeltland;<br>
+7° categorie en eventueel klasse;<br>
+8° sortering;<br>
+9° opgegeven nettogewicht.<br>
+<br>
+Art. 2. Minimumafmetingen : 110 mm x 67 mm.<br>
+&nbsp;
