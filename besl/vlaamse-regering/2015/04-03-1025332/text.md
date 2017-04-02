@@ -6,20 +6,20 @@ De   Vlaamse Regering,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT:
 
 ### ART. 1.
 
-Dit   besluit heeft betrekking op de uitvoering van een proefproject als vermeld in   artikel 2, door elk van de volgende voorzieningen en initiatiefnemers:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   WZC Maria Middelares, Pater Lievensstraat 20 in 8890 Moorslede, uitgebaat door   de vzw Bejaardenzorg Maria Middelares, gevestigd op hetzelfde adres;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   WZC Solidariteit voor het Gezin, Tentoonstellingslaan 70 in 9000 Gent, uitgebaat   door de vzw Solidariteit voor het Gezin, gevestigd op hetzelfde adres;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   WZC De Goede Tijd, Bosuilplein 1 in 2100 Antwerpen, uitgebaat door het   Zorgbedrijf OCMW Antwerpen Vereniging naar Publiek Recht, Lange Gasthuisstraat   33 in 2000 Antwerpen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   WZC Wommelgheem, Selsaetenstraat 50 in 2160 Wommelgem, uitgebaat door de nv   Armonea, François Sebrechtslaan 40 in 1080   Sint-Jans-Molenbeek.
+...
 
 ### ART. 2.
 
-Het proefproject bestaat erin dat de initiatiefnemer de   erkende woongelegenheden centrum voor kortverblijf die uitgebaat worden in zijn   erkend woonzorgcentrum, kan inzetten binnen een erkende groep van   assistentiewoningen of serviceflats die in de onmiddellijke nabijheid van het   woonzorgcentrum ligt, als voldaan is aan een van de volgende voorwaarden:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de groep van assistentiewoningen of serviceflats wordt uitgebaat door dezelfde   initiatiefnemer en vormt functioneel een geheel met het centrum voor   kortverblijf;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de groep van assistentiewoningen of serviceflats wordt uitgebaat door een andere   initiatiefnemer met wie de initiatiefnemer van het centrum voor kortverblijf een   samenwerkingsovereenkomst heeft gesloten.
+...
 
 ### ART. 3.
 
-<P>De initiatiefnemers die instaan voor de uitvoering van de   proefprojecten, lijsten na afloop van het project de knelpunten voor de   realisatie van kortverblijf in groepen van assistentiewoningen op, waaronder het   garanderen van crisis- en overbruggingszorg.</P>  <P><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Na   afloop van het project bezorgen de initiatiefnemers hun bevindingen over de   proefprojecten aan het Vlaams Agentschap Zorg en   Gezondheid.</P>
+...
 
 ### ART. 4.
 
-Dit besluit verlengt de duur van het proefproject, zoals   opgenomen in het besluit van de Vlaamse Regering van 14 maart 2014, met twee   jaar met ingang van 1 april 2015 en treedt buiten werking op 1 april   2017.
+...
 
 ### ART. 5.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen,   is belast met de uitvoering van dit besluit.
+...
