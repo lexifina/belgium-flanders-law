@@ -8,7 +8,37 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 16 juni 2006 betreffend
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° decreet: het decreet van 16 juni 2006 betreffende de begeleiding van de scheepvaart op de maritieme toegangswegen en de organisatie van het Maritiem Reddings- en Coördinatiecentrum;<br />2° seinvoerende stoffen: gevaarlijke of verontreinigende stoffen waarvoor het vaartuig een sein moet voeren;<br />3° moeilijk manoeuvreerbare of niet manoeuvreerbare vaartuigen: vaartuigen die wegens de aard of de lengte ervan, of om een andere reden helemaal niet of slechts beperkt kunnen manoeuvreren en hiervoor een sein moeten voeren;<br />4° VN-nummer: het nummer dat door de Verenigde Naties wordt gegeven aan gevaarlijke of verontreinigende stoffen en dat die stoffen identificeert;<br />5° lijndienst: een vaartuig dat regelmatige dienst onderhoudt tussen twee of meer welbepaalde havens, overeenkomstig een vooraf gepubliceerde tijdstabel, of waarvan de overtochten zo regelmatig of frequent zijn dat ze een herkenbare systematische serie vormen;<br />6° identificatie van het vaartuig: naam, roepnaam, IMO-identificatienummer of MMSI-nummer;<br />7° IMO-identificatienummer: het door de drie letters 'IMO' voorafgegaan, internationaal erkend zevencijferig nummer uit het Lloydsregister dat aan een schip wordt toegekend op het ogenblik dat de kiel wordt gelegd of als een schip voor de eerste keer in het Lloydsregister wordt opgenomen, en dat ongewijzigd blijft, ook bij verandering van vlagstaat;<br />8° Maritiem Mobiel Dienst Identiteitsnummer, afgekort MMSI-nummer: een uniek getal bestaande uit negen cijfers dat een radiostation of een groep van stations identificeert en dat automatisch wordt meegezonden bij het uitzenden van digitale selectieve oproepen via radio;<br />9° gevaarlijke stoffen :<br />a) stoffen als vermeld in de IMDG-code;<br />b) gevaarlijke vloeistoffen als vermeld in hoofdstuk 17 van de IBC-code;<br />c) vloeibare gassen als vermeld in hoofdstuk 19 van de IGC-code;<br />d) vaste stoffen als vermeld in aanhangsel B van de BC-code.<br />Inbegrepen zijn ook de stoffen voor het vervoer waarvan passende voorwaarden zijn neergelegd overeenkomstig paragraaf 1.1.3 van de IBC-code of paragraaf 1.1.6 van de IGC-code;<br />10° verontreinigende stoffen :<br />a) oliesoorten als vermeld in bijlage I van het MARPOL-verdrag;<br />b) schadelijke vloeistoffen als vermeld in bijlage II van het MARPOL-verdrag;<br />c) schadelijke stoffen als vermeld in bijlage III van het MARPOL-verdrag;<br />11° IMDG-code : de internationale IMO-code voor het vervoer van gevaarlijke stoffen over zee, en latere wijzigingen;<br />12° IBC-code : de internationale IMO-code voor de bouw en de uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren, en latere wijzigingen;<br />13° IGC-code : de internationale IMO-code voor de bouw en de uitrusting van schepen die vloeibaar gas in bulk vervoeren, en latere wijzigingen;<br />14° INF-code : de IMO-code van veiligheidsvoorschriften voor het vervoer van bestraalde splijtstoffen, plutonium en hoogradioactief afval in vaten aan boord van een schip, en latere wijzigingen;<br />15° BC-code : de IMO-code met praktische voorschriften voor de veiligheid van het vervoer van vaste lading in bulk, en latere wijzigingen;<br />16° verlader: de persoon door wie, namens wie, of voor wie een overeenkomst voor het vervoer van goederen over zee is gesloten met een vervoerder;<br />17° resolutie MSC.286(86) van de IMO : resolutie MSC.286(86) van de Internationale Maritieme Organisatie, « Recommendation for material safety data sheets for MARPOL Annex I cargoes and marine fuel oils » genaamd, en latere wijzigingen;<br />18° MOU van Parijs : het op 26 januari 1982 in Parijs ondertekende memorandum van overeenstemming inzake havenstaatcontrole, en latere wijzigingen ervan.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° decreet: het decreet van 16 juni 2006 betreffende de begeleiding van de scheepvaart op de maritieme toegangswegen en de organisatie van het Maritiem Reddings- en Coördinatiecentrum;<br>
+2° seinvoerende stoffen: gevaarlijke of verontreinigende stoffen waarvoor het vaartuig een sein moet voeren;<br>
+3° moeilijk manoeuvreerbare of niet manoeuvreerbare vaartuigen: vaartuigen die wegens de aard of de lengte ervan, of om een andere reden helemaal niet of slechts beperkt kunnen manoeuvreren en hiervoor een sein moeten voeren;<br>
+4° VN-nummer: het nummer dat door de Verenigde Naties wordt gegeven aan gevaarlijke of verontreinigende stoffen en dat die stoffen identificeert;<br>
+5° lijndienst: een vaartuig dat regelmatige dienst onderhoudt tussen twee of meer welbepaalde havens, overeenkomstig een vooraf gepubliceerde tijdstabel, of waarvan de overtochten zo regelmatig of frequent zijn dat ze een herkenbare systematische serie vormen;<br>
+6° identificatie van het vaartuig: naam, roepnaam, IMO-identificatienummer of MMSI-nummer;<br>
+7° IMO-identificatienummer: het door de drie letters 'IMO' voorafgegaan, internationaal erkend zevencijferig nummer uit het Lloydsregister dat aan een schip wordt toegekend op het ogenblik dat de kiel wordt gelegd of als een schip voor de eerste keer in het Lloydsregister wordt opgenomen, en dat ongewijzigd blijft, ook bij verandering van vlagstaat;<br>
+8° Maritiem Mobiel Dienst Identiteitsnummer, afgekort MMSI-nummer: een uniek getal bestaande uit negen cijfers dat een radiostation of een groep van stations identificeert en dat automatisch wordt meegezonden bij het uitzenden van digitale selectieve oproepen via radio;<br>
+9° gevaarlijke stoffen :<br>
+a) stoffen als vermeld in de IMDG-code;<br>
+b) gevaarlijke vloeistoffen als vermeld in hoofdstuk 17 van de IBC-code;<br>
+c) vloeibare gassen als vermeld in hoofdstuk 19 van de IGC-code;<br>
+d) vaste stoffen als vermeld in aanhangsel B van de BC-code.<br>
+Inbegrepen zijn ook de stoffen voor het vervoer waarvan passende voorwaarden zijn neergelegd overeenkomstig paragraaf 1.1.3 van de IBC-code of paragraaf 1.1.6 van de IGC-code;<br>
+10° verontreinigende stoffen :<br>
+a) oliesoorten als vermeld in bijlage I van het MARPOL-verdrag;<br>
+b) schadelijke vloeistoffen als vermeld in bijlage II van het MARPOL-verdrag;<br>
+c) schadelijke stoffen als vermeld in bijlage III van het MARPOL-verdrag;<br>
+11° IMDG-code : de internationale IMO-code voor het vervoer van gevaarlijke stoffen over zee, en latere wijzigingen;<br>
+12° IBC-code : de internationale IMO-code voor de bouw en de uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren, en latere wijzigingen;<br>
+13° IGC-code : de internationale IMO-code voor de bouw en de uitrusting van schepen die vloeibaar gas in bulk vervoeren, en latere wijzigingen;<br>
+14° INF-code : de IMO-code van veiligheidsvoorschriften voor het vervoer van bestraalde splijtstoffen, plutonium en hoogradioactief afval in vaten aan boord van een schip, en latere wijzigingen;<br>
+15° BC-code : de IMO-code met praktische voorschriften voor de veiligheid van het vervoer van vaste lading in bulk, en latere wijzigingen;<br>
+16° verlader: de persoon door wie, namens wie, of voor wie een overeenkomst voor het vervoer van goederen over zee is gesloten met een vervoerder;<br>
+17° resolutie MSC.286(86) van de IMO : resolutie MSC.286(86) van de Internationale Maritieme Organisatie, « Recommendation for material safety data sheets for MARPOL Annex I cargoes and marine fuel oils » genaamd, en latere wijzigingen;<br>
+18° MOU van Parijs : het op 26 januari 1982 in Parijs ondertekende memorandum van overeenstemming inzake havenstaatcontrole, en latere wijzigingen ervan;<br>
+19° SafeSeaNet : het communautaire systeem voor de uitwisseling van maritieme informatie, dat door de Europese Commissie in samenwerking met de lidstaten is ontwikkeld ter uitvoering van de Europeesrechtelijke regelgeving;<br>
+20° nationaal bevoegde autoriteit, afgekort NCA : de autoriteit die belast is met de gegevensuitwisseling met SafeSeaNet;<br>
+21° RIS : de dienstverlening, vermeld in artikel 3, eerste lid, 2°, van het decreet van 19 december 2008 betreffende de River information Services op de binnenwateren;<br>
+&nbsp;
 
 ## HOOFDSTUK II Bevoegde instantie
 
@@ -50,7 +80,9 @@ Behalve als het anders is bepaald, is dit besluit niet van toepassing op:<br />1
 
 ### ART. 8/1.
 
-Als de informatie, die op grond van dit hoofdstuk wordt verstrekt, wijzigt, brengt de gezagvoerder van het schip de instantie, vermeld in artikel 2, § 1, 1°, of de havenkapiteinsdienst daarvan onmiddellijk op de hoogte.
+Als de informatie die met toepassing van dit hoofdstuk wordt verstrekt, verandert, brengt de gezagvoerder van het schip de instantie, vermeld in artikel 2, § 1, 1°, of de diensten, vermeld in artikel 15, § 1, eerste lid, 1° en 2°, daarvan onmiddellijk op de hoogte.<br>
+<br>
+Als de informatie die met toepassing van dit hoofdstuk wordt verstrekt, verandert, delen de diensten, vermeld in artikel 15, § 1, eerste lid, 1° en 2°, onmiddellijk na ontvangst, die wijziging via elektronische weg mee aan de dienst, vermeld in artikel 2, § 1, 1°.
 
 ## [Afdeling I/1 (verv. BVR 13 juli 2012, art. 4)] Algemene meldingsplicht
 
@@ -60,15 +92,47 @@ Als de informatie, die op grond van dit hoofdstuk wordt verstrekt, wijzigt, bren
 
 ### ART. 10.
 
-§ 1. De exploitant, de scheepsagent of de gezagvoerder van een vaartuig dat op weg is naar een Vlaamse haven, deelt op een van de volgende momenten, aan de havenkapiteinsdienst van de aanloophaven, de volgende informatie mee :<br />1° ten minste vierentwintig uur vóór de aankomst;<br />2° uiterlijk op het tijdstip waarop het vaartuig de vorige haven verlaat, als de reisduur minder dan vierentwintig uur bedraagt;<br />3° zodra de aanloophaven bekend is, als de aanloophaven nog niet bekend zou zijn of tijdens de reis wordt gewijzigd.<br /><br />De informatie, vermeld in het eerste lid, is de volgende :<br />a) de identificatie van het vaartuig;<br />b) de haven van bestemming;<br />c) de verwachte tijd van aankomst in de haven van bestemming en de verwachte tijd van afvaart uit de haven van bestemming;<br />d) het totale aantal opvarenden;<br />e) de positie van het vaartuig;<br />f) de nationaliteit van het vaartuig;<br />g) de lengte, de breedte en de diepgang van het vaartuig;<br />h) de geplande vaarroute;<br />i) andere gegevens die de minister in voorkomend geval heeft bepaald.<br /><br />§ 2. De havenkapiteinsdienst deelt de informatie, vermeld in § 1, onmiddellijk nadat hij ze ontvangen heeft via elektronische weg mee aan de dienst, vermeld in artikel 2, § 1, 1°.<br /><br />
+§ 1. De exploitant, de scheepsagent of de gezagvoerder van een vaartuig dat op weg is naar een Vlaamse haven, deelt op een van de volgende momenten, aan de diensten, vermeld in artikel 15, § 1, eerste lid, 1° en 2°,&nbsp; de volgende informatie mee :<br>
+1° ten minste vierentwintig uur vóór de aankomst;<br>
+2° uiterlijk op het tijdstip waarop het vaartuig de vorige haven verlaat, als de reisduur minder dan vierentwintig uur bedraagt;<br>
+3° zodra de aanloophaven bekend is, als de aanloophaven nog niet bekend zou zijn of tijdens de reis wordt gewijzigd.<br>
+<br>
+De informatie, vermeld in het eerste lid, is de volgende :<br>
+a) de identificatie van het vaartuig;<br>
+b) de haven van bestemming;<br>
+c) de verwachte tijd van aankomst in de haven van bestemming en de verwachte tijd van afvaart uit de haven van bestemming;<br>
+d) het totale aantal opvarenden;<br>
+e) de positie van het vaartuig;<br>
+f) de nationaliteit van het vaartuig;<br>
+g) de lengte, de breedte en de diepgang van het vaartuig;<br>
+h) de geplande vaarroute;<br>
+i) andere gegevens die de minister in voorkomend geval heeft bepaald.<br>
+<br>
+§ 2.&nbsp;De diensten, vermeld in artikel 15, § 1, eerste lid, 1° en 2°, delen de informatie, vermeld in § 1, onmiddellijk nadat zij ze hebben ontvangen, via elektronische weg mee aan de dienst, vermeld in artikel 2, § 1, 1°.<br>
+&nbsp;
 
 ### ART. 10/1.
 
-§ 1. Als een schip in aanmerking komt voor een uitgebreide inspectie door de instantie van de federale overheid die bevoegd is voor de havenstaatcontrole, en dat schip op weg is naar een haven of ankerplaats, die zich in het toepassingsgebied, vermeld in artikel 4, bevindt, meldt de exploitant, agent of gezagvoerder van het schip ten minste drie dagen voor het vermoedelijke tijdstip van aankomst in de haven of de ankerplaats of voor het vertrek in de vorige haven, als de reis naar verwachting minder dan drie dagen in beslag zal nemen, de volgende informatie :<br />1° scheepsidentificatienummer (naam, roepletters, IMO-identificatienummer of MMSI-nummer);<br />2° geplande duur van het verblijf in de haven;<br />3° voor tankers :<br />a) configuratie : enkelwandig, enkelwandig met gescheiden ballasttanks, dubbelwandig;<br />b) conditie van de lading en ballasttanks : vol, leeg, gevuld met inerte gassen;<br />c) volume en aard van de lading;<br />4° geplande handelingen in de haven of ankerplaats van bestemming : laden, lossen, andere handelingen;<br />5° geplande wettelijk voorgeschreven inspectie en belangrijke onderhouds- en reparatiewerkzaamheden, uit te voeren in de haven van bestemming;<br />6° datum van de laatste uitgebreide inspectie in het gebied dat onder het MOU van Parijs valt.<br /><br />De havenkapiteinsdienst deelt die informatie, onmiddellijk nadat hij die ontvangen heeft, via elektronische weg mee aan de instantie, vermeld in artikel 2, § 1, 1°. <br /><br />§ 2. De instantie, vermeld in artikel 2, § 1, 1°, deelt de informatie, vermeld in paragraaf 1, onmiddellijk nadat ze die ontvangen heeft via de geëigende kanalen mee aan de instantie van de federale overheid, bevoegd voor de havenstaatcontrole.
+§ 1. Als een schip in aanmerking komt voor een uitgebreide inspectie door de instantie van de federale overheid die bevoegd is voor de havenstaatcontrole, en dat schip op weg is naar een haven of ankerplaats, die zich in het toepassingsgebied, vermeld in artikel 4, bevindt, meldt de exploitant, agent of gezagvoerder van het schip ten minste drie dagen voor het vermoedelijke tijdstip van aankomst in de haven of de ankerplaats of voor het vertrek in de vorige haven, als de reis naar verwachting minder dan drie dagen in beslag zal nemen, de volgende informatie :<br>
+1° scheepsidentificatienummer (naam, roepletters, IMO-identificatienummer of MMSI-nummer);<br>
+2° geplande duur van het verblijf in de haven;<br>
+3° voor tankers :<br>
+a) configuratie : enkelwandig, enkelwandig met gescheiden ballasttanks, dubbelwandig;<br>
+b) conditie van de lading en ballasttanks : vol, leeg, gevuld met inerte gassen;<br>
+c) volume en aard van de lading;<br>
+4° geplande handelingen in de haven of ankerplaats van bestemming : laden, lossen, andere handelingen;<br>
+5° geplande wettelijk voorgeschreven inspectie en belangrijke onderhouds- en reparatiewerkzaamheden, uit te voeren in de haven van bestemming;<br>
+6° datum van de laatste uitgebreide inspectie in het gebied dat onder het MOU van Parijs valt.<br>
+<br>
+De diensten, vermeld in artikel 15, § 1, eerste lid, 1° en 2°, delen die informatie, onmiddellijk nadat zij ze hebben ontvangen, via elektronische weg mee aan de instantie, vermeld in artikel 2, § 1, 1°.<br>
+<br>
+§ 2. De instantie, vermeld in artikel 2, § 1, 1°, deelt de informatie, vermeld in paragraaf 1, onmiddellijk nadat ze die ontvangen heeft via de geëigende kanalen mee aan de instantie van de federale overheid, bevoegd voor de havenstaatcontrole.
 
 ### ART. 10/2.
 
-De havenkapiteinsdienst zorgt ervoor dat de informatie over de werkelijke aankomsttijd en de werkelijke vertrektijd van elk schip dat de haven aandoet, die onder zijn bevoegdheid valt, alsook een identificatiecode van de betrokken haven, onmiddellijk via elektronische weg wordt bezorgd aan de instantie, vermeld in artikel 2, § 1, 1°. <br /><br />De instantie, vermeld in artikel 2, § 1, 1°, zorgt ervoor dat de informatie over de werkelijke aankomsttijd en de werkelijke vertrektijd van elk schip dat een haven of ankerplaats aandoet, alsook een identificatiecode van de betrokken haven, binnen een redelijke termijn wordt bezorgd aan de Europese inspectiedatabank via SafeSeaNet.
+De havenkapiteinsdienst zorgt ervoor dat de informatie over de werkelijke aankomsttijd en de werkelijke vertrektijd van elk schip dat de haven aandoet, die onder zijn bevoegdheid valt, alsook een identificatiecode van de betrokken haven, onmiddellijk via elektronische weg wordt bezorgd aan de instantie, vermeld in artikel 2, § 1, 1°.<br>
+<br>
+De instantie, vermeld in artikel 2, § 1, 1°, zorgt ervoor dat de informatie over de werkelijke aankomsttijd en de werkelijke vertrektijd van elk schip dat een haven of ankerplaats aandoet, alsook een identificatiecode van de betrokken haven, binnen een redelijke termijn wordt bezorgd aan de Europese inspectiedatabank via SafeSeaNet.
 
 ### ART. 10/3.
 
@@ -78,7 +142,32 @@ De minister kan, ter uitvoering van artikel 31bis, § 3, van het decreet, nadere
 
 ### ART. 11.
 
-§ 1. De exploitant, de scheepsagent of de gezagvoerder van een vaartuig, ongeacht de grootte van het vaartuig, dat komt van een haven buiten de Europese Unie en dat gevaarlijke of verontreinigende stoffen vervoert, meldt de gegevens, vermeld in deze paragraaf,<br />1° aan de havenkapiteinsdienst van de haven van bestemming, als het vaartuig op weg is naar een Vlaamse haven;<br />2° aan de dienst, vermeld in artikel 2, § 1, 1°, als het vaartuig zich begeeft naar een van de volgende plaatsen:<br />a) een ankerplaats of een ligplaats binnen het VBS-werkingsgebied, vermeld in artikel 4;<br />b) een haven, een ankerplaats of een ligplaats buiten het VBS-werkingsgebied, vermeld in artikel 4, waarbij de grens van het Vlaamse Gewest wordt overschreden.<br /><br />De gegevens worden uiterlijk gemeld bij de afvaart uit de haven van belading of zodra de haven van bestemming, de ankerplaats of ligplaats bekend is, als die niet bij de afvaart bekend zou zijn.<br /><br />De volgende gegevens worden meegedeeld :<br />1° algemene informatie :<br />a) de identificatie van het vaartuig;<br />b) de haven van bestemming;<br />c) de verwachte tijd van aankomst in de haven van bestemming en de vastgestelde grenzen, gelegen binnen het VBS-werkingsgebied, vermeld in artikel 4, bepaald door de dienst, vermeld in artikel 2, § 1, 1°, en de verwachte tijd van afvaart uit de haven van bestemming;<br />d) de positie van het vaartuig;<br />e) het totale aantal opvarenden;<br />f) de nationaliteit van het vaartuig;<br />g) de lengte, de breedte en de diepgang van het vaartuig;<br />h) de geplande vaarroute;<br />i) eventuele andere gegevens, die de minister heeft bepaald;<br />2° informatie over de lading :<br />a) de correcte technische benaming van de gevaarlijke of verontreinigende stoffen, VN-nummers als die bestaan, IMO-risicoklassen overeenkomstig de IMDG-, IBC- en IGC-code en, in voorkomend geval, de klasse van het vaartuig volgens de INF-code, de hoeveelheden van dergelijke stoffen, uitgedrukt in kilogram, en de plaats waar ze zich aan boord bevinden, alsook, als ze worden vervoerd in voor vrachtvervoer bestemde transporteenheden, behalve tanks, de identificatienummers daarvan;<br />b) de bevestiging dat aan boord een lijst, manifest of passend laadplan aanwezig is dat gedetailleerde gegevens bevat over de gevaarlijke of verontreinigende stoffen die worden vervoerd en over de plaats waar ze zich aan boord bevinden;<br />c) het adres waar uitgebreide informatie over de lading kan worden verkregen.<br /><br />§ 2. De havenkapiteinsdienst deelt de informatie, vermeld in § 1, onmiddellijk nadat hij ze ontvangen heeft, via elektronische weg mee aan de dienst, vermeld in artikel 2, § 1, 1°.<br /><br />
+§ 1. De exploitant, de scheepsagent of de gezagvoerder van een vaartuig, ongeacht de grootte van het vaartuig, dat komt van een haven buiten de Europese Unie en dat gevaarlijke of verontreinigende stoffen vervoert, meldt de gegevens, vermeld in deze paragraaf,<br>
+1° aan de diensten, vermeld in artikel 15, § 1, eerste lid, 1° en 2°,&nbsp;als het vaartuig op weg is naar een Vlaamse haven;<br>
+2° aan de dienst, vermeld in artikel 2, § 1, 1°, als het vaartuig zich begeeft naar een van de volgende plaatsen:<br>
+a) een ankerplaats of een ligplaats binnen het VBS-werkingsgebied, vermeld in artikel 4;<br>
+b) een haven, een ankerplaats of een ligplaats buiten het VBS-werkingsgebied, vermeld in artikel 4, waarbij de grens van het Vlaamse Gewest wordt overschreden.<br>
+<br>
+De gegevens worden uiterlijk gemeld bij de afvaart uit de haven van belading of zodra de haven van bestemming, de ankerplaats of ligplaats bekend is, als die niet bij de afvaart bekend zou zijn.<br>
+<br>
+De volgende gegevens worden meegedeeld :<br>
+1° algemene informatie :<br>
+a) de identificatie van het vaartuig;<br>
+b) de haven van bestemming;<br>
+c) de verwachte tijd van aankomst in de haven van bestemming en de vastgestelde grenzen, gelegen binnen het VBS-werkingsgebied, vermeld in artikel 4, bepaald door de dienst, vermeld in artikel 2, § 1, 1°, en de verwachte tijd van afvaart uit de haven van bestemming;<br>
+d) de positie van het vaartuig;<br>
+e) het totale aantal opvarenden;<br>
+f) de nationaliteit van het vaartuig;<br>
+g) de lengte, de breedte en de diepgang van het vaartuig;<br>
+h) de geplande vaarroute;<br>
+i) eventuele andere gegevens, die de minister heeft bepaald;<br>
+2° informatie over de lading :<br>
+a) de correcte technische benaming van de gevaarlijke of verontreinigende stoffen, VN-nummers als die bestaan, IMO-risicoklassen overeenkomstig de IMDG-, IBC- en IGC-code en, in voorkomend geval, de klasse van het vaartuig volgens de INF-code, de hoeveelheden van dergelijke stoffen, uitgedrukt in kilogram, en de plaats waar ze zich aan boord bevinden, alsook, als ze worden vervoerd in voor vrachtvervoer bestemde transporteenheden, behalve tanks, de identificatienummers daarvan;<br>
+b) de bevestiging dat aan boord een lijst, manifest of passend laadplan aanwezig is dat gedetailleerde gegevens bevat over de gevaarlijke of verontreinigende stoffen die worden vervoerd en over de plaats waar ze zich aan boord bevinden;<br>
+c) het adres waar uitgebreide informatie over de lading kan worden verkregen.<br>
+<br>
+§ 2.&nbsp;De diensten, vermeld in artikel 15, § 1, eerste lid, 1° en 2°, delen de informatie, vermeld in § 1, onmiddellijk nadat zij ze hebben ontvangen, via elektronische weg mee aan de dienst, vermeld in artikel 2, § 1, 1°.<br>
+&nbsp;
 
 ### ART. 12.
 
@@ -86,19 +175,63 @@ De minister kan, ter uitvoering van artikel 31bis, § 3, van het decreet, nadere
 
 ### ART. 13.
 
-§ 1. De exploitant, de scheepsagent of de gezagvoerder van een vaartuig, ongeacht de grootte ervan, dat gevaarlijke of verontreinigende stoffen vervoert en een Vlaamse haven verlaat, deelt uiterlijk bij de afvaart de volgende informatie mee aan de havenkapiteinsdienst van die haven :<br />1° algemene informatie :<br />a) de identificatie van het vaartuig;<br />b) de haven van bestemming;<br />c) de verwachte tijd van afvaart uit de haven van vertrek, bepaald door dienst, vermeld in artikel 2, § 1, 1°, en de verwachte tijd van aankomst in de haven van bestemming;<br />d) het totale aantal opvarenden;<br />e) de nationaliteit van het vaartuig;<br />f) de lengte, de breedte en de diepgang van het vaartuig;<br />g) de geplande vaarroute;<br />h) eventuele andere gegevens die de minister heeft bepaald;<br />2° informatie over de lading:<br />a) de correcte technische benaming van de gevaarlijke of verontreinigende stoffen, VN-nummers als die bestaan, IMO-risicoklassen overeenkomstig de IMDG-, IBC- en IGC-code en, in voorkomend geval, de klasse van het vaartuig volgens de INF-code, de hoeveelheden, uitgedrukt in kilogram, van dergelijke stoffen en de plaats waar ze zich aan boord bevinden, alsook, als ze worden vervoerd in voor vrachtvervoer bestemde transporteenheden, behalve tanks, de identificatienummers daarvan;<br />b) de bevestiging dat aan boord een lijst, manifest of passend laadplan aanwezig is dat gedetailleerde gegevens bevat over de gevaarlijke of verontreinigende stoffen die worden vervoerd en over de plaats waar ze zich aan boord bevinden;<br />c) het adres waar uitgebreide informatie over de lading kan worden verkregen.<br /><br />§ 2. De havenkapiteinsdienst deelt de informatie, vermeld in § 1, onmiddellijk nadat hij ze ontvangen heeft, via elektronische weg mee aan de dienst, vermeld in artikel 2, § 1, 1°.<br /><br />
+§ 1. De exploitant, de scheepsagent of de gezagvoerder van een vaartuig, ongeacht de grootte ervan, dat gevaarlijke of verontreinigende stoffen vervoert en een Vlaamse haven verlaat, deelt uiterlijk bij de afvaart de volgende informatie mee aan de&nbsp;diensten, vermeld in artikel 15, § 1, eerste lid, 1° en 2°, van die haven :<br>
+1° algemene informatie :<br>
+a) de identificatie van het vaartuig;<br>
+b) de haven van bestemming;<br>
+c) de verwachte tijd van afvaart uit de haven van vertrek, bepaald door dienst, vermeld in artikel 2, § 1, 1°, en de verwachte tijd van aankomst in de haven van bestemming;<br>
+d) het totale aantal opvarenden;<br>
+e) de nationaliteit van het vaartuig;<br>
+f) de lengte, de breedte en de diepgang van het vaartuig;<br>
+g) de geplande vaarroute;<br>
+h) eventuele andere gegevens die de minister heeft bepaald;<br>
+2° informatie over de lading:<br>
+a) de correcte technische benaming van de gevaarlijke of verontreinigende stoffen, VN-nummers als die bestaan, IMO-risicoklassen overeenkomstig de IMDG-, IBC- en IGC-code en, in voorkomend geval, de klasse van het vaartuig volgens de INF-code, de hoeveelheden, uitgedrukt in kilogram, van dergelijke stoffen en de plaats waar ze zich aan boord bevinden, alsook, als ze worden vervoerd in voor vrachtvervoer bestemde transporteenheden, behalve tanks, de identificatienummers daarvan;<br>
+b) de bevestiging dat aan boord een lijst, manifest of passend laadplan aanwezig is dat gedetailleerde gegevens bevat over de gevaarlijke of verontreinigende stoffen die worden vervoerd en over de plaats waar ze zich aan boord bevinden;<br>
+c) het adres waar uitgebreide informatie over de lading kan worden verkregen.<br>
+<br>
+§ 2.&nbsp;De diensten, vermeld in artikel 15, § 1, eerste lid, 1° en 2°, delen de informatie, vermeld in § 1, onmiddellijk nadat zij ze hebben ontvangen, via elektronische weg mee aan de dienst, vermeld in artikel 2, § 1, 1°.<br>
+&nbsp;
 
 ### ART. 14.
 
-§ 1. De exploitant, de scheepsagent of de gezagvoerder van een vaartuig, dat, ongeacht de grootte ervan, gevaarlijke of verontreinigende stoffen vervoert, het Belgische grondgebied verlaat, en via overschrijding van de grens van het Vlaamse Gewest het VBS-werkingsgebied, vermeld in artikel 4, wil binnenvaren, zonder hierbij een Vlaamse haven aan te lopen, deelt uiterlijk bij de afvaart de informatie, vermeld in artikel 13, mee aan de dienst, vermeld in artikel 2, § 1, 1°.<br /><br />§1/1. De exploitant, de scheepsagent of de gezagvoerder van een vaartuig dat, ongeacht de grootte ervan, gevaarlijke of verontreinigende stoffen vervoert, komende van een anker- of ligplaats binnen België, gelegen buiten het VBS-werkingsgebied, vermeld in artikel 4, of een anker- of ligplaats binnen het VBS-werkingsgebied, vermeld in artikel 4, meldt de gegevens, vermeld in artikel 13, aan de volgende instanties : <br />1° aan de havenkapiteinsdienst van de haven van bestemming, als het vaartuig op weg is naar een Vlaamse haven;<br />2° aan de dienst, vermeld in artikel 2, § 1, 1°, als het vaartuig zich begeeft naar een van de volgende plaatsen : <br />a) een ankerplaats of een ligplaats binnen het VBS-werkingsgebied, vermeld in artikel 4;<br />b) een haven, een ankerplaats of een ligplaats buiten het VBS-werkingsgebied, vermeld in artikel 4, waarbij de grens van het Vlaamse Gewest wordt overschreden.<br /><br />§ 2. De informatie, vermeld in § 1 en § 1/1, wordt, waar mogelijk, door de exploitant, de scheepsagent of de gezagvoerder van het vaartuig via elektronische weg doorgestuurd aan de dienst, vermeld in artikel 2, § 1, 1°.<br /><br />De havenkapiteinsdienst deelt de informatie, vermeld in § 1, onmiddellijk nadat hij ze heeft ontvangen, via elektronische weg mee aan de dienst, vermeld in artikel 2, § 1, 1°. <br /><br />
+§ 1. De exploitant, de scheepsagent of de gezagvoerder van een vaartuig, dat, ongeacht de grootte ervan, gevaarlijke of verontreinigende stoffen vervoert, het Belgische grondgebied verlaat, en via overschrijding van de grens van het Vlaamse Gewest het VBS-werkingsgebied, vermeld in artikel 4, wil binnenvaren, zonder hierbij een Vlaamse haven aan te lopen, deelt uiterlijk bij de afvaart de informatie, vermeld in artikel 13, mee aan de dienst, vermeld in artikel 2, § 1, 1°.<br>
+<br>
+§1/1. De exploitant, de scheepsagent of de gezagvoerder van een vaartuig dat, ongeacht de grootte ervan, gevaarlijke of verontreinigende stoffen vervoert, komende van een anker- of ligplaats binnen België, gelegen buiten het VBS-werkingsgebied, vermeld in artikel 4, of een anker- of ligplaats binnen het VBS-werkingsgebied, vermeld in artikel 4, meldt de gegevens, vermeld in artikel 13, aan de volgende instanties :<br>
+1° aan de havenkapiteinsdienst van de haven van bestemming, als het vaartuig op weg is naar een Vlaamse zeehaven;<br>
+1° /1 aan de vergelijkbare dienst die de bevoegdheden van de havenkapiteinsdienst uitoefent en die de gegevens voor SafeSeaNet aanlevert aan de NCA, of een bevoegde instantie die belast is met het leveren van RIS, vermeld in artikel 3, eerste lid, 1°, van het decreet van 19 december 2008 betreffende de River information Services op de binnenwateren, of een andere dienst die is aangewezen om in het kader van SafeSeaNet informatie te ontvangen en door te sturen aan de NCA als er geen havenkapiteinsdienst aanwezig is of als een andere dienst werd aangewezen om de desbetreffende melding te ontvangen, als het vaartuig niet op weg is naar een Vlaamse zeehaven.<br>
+2° aan de dienst, vermeld in artikel 2, § 1, 1°, als het vaartuig zich begeeft naar een van de volgende plaatsen :<br>
+a) een ankerplaats of een ligplaats binnen het VBS-werkingsgebied, vermeld in artikel 4;<br>
+b) een haven, een ankerplaats of een ligplaats buiten het VBS-werkingsgebied, vermeld in artikel 4, waarbij de grens van het Vlaamse Gewest wordt overschreden.<br>
+<br>
+§ 2. De informatie, vermeld in § 1 en § 1/1, wordt, waar mogelijk, door de exploitant, de scheepsagent of de gezagvoerder van het vaartuig via elektronische weg doorgestuurd aan de dienst, vermeld in artikel 2, § 1, 1°.<br>
+<br>
+De diensten, vermeld in artikel 15, § 1, eerste lid, 1° en 2°, delen de informatie, vermeld in § 1, onmiddellijk nadat zij ze hebben ontvangen,&nbsp;via elektronische weg mee aan de dienst, vermeld in artikel 2, § 1, 1°.<br>
+&nbsp;
 
 ## Afdeling III [Aanvullende meldingen (verv. BVR 10 februari 2017, art. 11, I: 6 april 2017)]
 
 ### ART. 15.
 
-Het elektronische berichtenverkeer, vermeld in de afdelingen I en II, maakt gebruik van de syntax en de procedures, bepaald door de minister.<br /><br />
+§ 1. De exploitant, de scheepsagent of de gezagvoerder van een vaartuig meldt de aanvullende meldingen aan de volgende diensten :<br>
+1° de havenkapiteinsdienst van de haven van bestemming als het vaartuig op weg is naar een Vlaamse zeehaven, of van de Vlaamse zeehaven die het vaartuig verlaat,<br>
+2° de vergelijkbare dienst die de bevoegdheden van de havenkapiteinsdienst uitoefent en die de gegevens voor SafeSeaNet aanlevert aan de NCA, of een bevoegde instantie die belast is met het leveren van RIS, vermeld in artikel 3, eerste lid, 1°, van het decreet van 19 december 2008 betreffende de River information Services op de binnenwateren, of een andere dienst die is aangewezen om in het kader van SafeSeaNet informatie te ontvangen en door te sturen aan de NCA, als er geen havenkapiteinsdienst aanwezig is of als een andere dienst werd aangeduid om de desbetreffende melding te ontvangen.<br>
+<br>
+De exploitant, de scheepsagent of de gezagvoerder van een vaartuig meldt de aanvullende meldingen over de verontreinigingsdelicten overeenkomstig de wet van 6 april 1995 betreffende de voorkoming van verontreiniging door schepen aan de in het eerste lid vermelde diensten uiterlijk op de in deze regelgeving voorziene tijdstippen.<br>
+<br>
+§ 2. De diensten, vermeld in paragraaf 1, eerste lid, 1° en 2°, delen de informatie, vermeld in paragraaf 1, onmiddellijk na ontvangst en via elektronische weg mee aan de dienst, vermeld in artikel 2, § 1, 1°.<br>
+<br>
+§ 3. Op basis van de door het recht van de Europese Unie voorgeschreven meldingsverplichting, overeenkomstig artikel 6 van richtlijn 2010/65/EU van het Europees Parlement en de Raad van 20 oktober 2010 betreffende meldingsformaliteiten voor schepen die aankomen en/of vertrekken uit havens van de lidstaten en tot intrekking van richtlijn 2002/6/EG, delen de diensten, vermeld in paragraaf 1, eerste lid, 1° en 2°, onmiddellijk na ontvangst en via elektronische weg aan de dienst, vermeld in artikel 2, § 1, 1°, de volgende aanvullende informatie mee :<br>
+1° de meldingen over scheepsafval en ladingresiduen, overeenkomstig artikel 12, lid 3, van de richtlijn 2000/59/EG van het Europees Parlement en de Raad van 27 november 2000 betreffende havenontvangstvoorzieningen voor scheepsafval en ladingresiduen, conform de bepalingen inzake afval van de zeevaart in het Besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen (VLAREMA);<br>
+2° de veiligheidsinlichtingen vóór het aandoen van de haven, overeenkomstig artikel 6 van de verordening (EG) nr. 725/2004 van het Europees Parlement en de Raad van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten.<br>
+<br>
+§ 4. De diensten, vermeld in paragraaf 1, eerste lid, 1° en 2°, waken erover dat de UN-locode die op hen van toepassing is, conform artikel 4/2, § 2, eerste lid, 4°, van het besluit van de Vlaamse Regering van 14 september 2007 betreffende het centraal beheersysteem in het kader van het Scheepvaartbegeleidingsdecreet, wordt gehanteerd op de wijze die de NCA heeft opgelegd.
 
 ## [Afdeling III/2 Extra informatieverplichtingen (ing. BVR 10 februari 2017, art. 12, I: 6 april 2017)]
+
+### ART 15/1.
+
+De Vlaamse minister, bevoegd voor mobiliteit en openbare werken, kan de melding van extra gegevens opleggen aan de exploitant, de scheepsagent of de gezagvoerder van een vaartuig, om te voldoen aan de internationale of unierechtelijke verplichtingen, of met het oog op de ketenbenadering.
 
 ## Afdeling IV Vrijstellingen
 
