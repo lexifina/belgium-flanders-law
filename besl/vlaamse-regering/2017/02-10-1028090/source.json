@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028090,
+  "title": "Besluit van de Vlaamse Regering van 2017-02-10 betreffende elektronische berichten voor de scheepvaart en het systeem voor de uitwisseling van maritieme informatie van de Europese Unie (Safeseanet)",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028090/VolledigDocument?datum=2017-04-06",
+  "source_sha256": "581621a1edf3eaff910b8109758201087196224cc094dc436a501d22facd44a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028090&param=informatie",
+  "as_of": "2017-04-06",
+  "made": "2017-02-10",
+  "gazette": "2017-03-27",
+  "numac": 2017011288,
+  "document_start": "2017-04-06",
+  "document_end": null,
+  "in_force": "2017-04-06",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2017-04-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
