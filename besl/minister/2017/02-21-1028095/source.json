@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028095,
+  "title": "Ministerieel besluit van 2017-02-21 tot goedkeuring van het bijzonder waterverkoopreglement (BWVR), deel IBA, van FARYS/TMVW van 20 oktober 2016 in uitvoering van artikel 16, § 2 van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028095/VolledigDocument?datum=2017-04-07",
+  "source_sha256": "84c3114c13c5ca68f3e05e797f6fde966ceecc789d467f8fe175b583b83b5e03",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028095&param=informatie",
+  "as_of": "2017-04-07",
+  "made": "2017-02-21",
+  "gazette": "2017-03-28",
+  "numac": 2017011351,
+  "document_start": "2017-04-07",
+  "document_end": "2099-12-31",
+  "in_force": "2017-04-07",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-04-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
