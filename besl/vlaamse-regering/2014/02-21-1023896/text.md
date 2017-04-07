@@ -228,7 +228,9 @@ De kennisgeving voldoet minstens aan de volgende voorwaarden:<BR>1° ze is   zo 
 
 ### ART. 38.
 
-<P>De Intersectorale Regionale Prioriteitencommissie beslist over de   prioritering van een dossier, vermeld in artikel 26, § 1, derde lid, van het   decreet van 12 juli 2013, en, in voorkomend geval, over de toekenning van een   persoonsvolgende convenant.<BR></P>  <P>In het eerste lid wordt verstaan onder persoonsvolgende convenant: een   convenant als vermeld in artikel 3 van het besluit van de Vlaamse Regering van   19 juli 2002 houdende maatregelen om tegemoet te komen aan de noodzaak tot   leniging van dringende behoeften van personen met een handicap.<BR></P>  <P>De prioritering, vermeld in het eerste lid, houdt in dat een dossier voorrang   krijgt waardoor jeugdhulpaanbieders alleen van een opname van het dossier kunnen   afzien als ze dat motiveren en als het team Jeugdhulpregie ermee akkoord gaat   dat de jeugdhulpaanbieder een ander dossier opneemt.<BR></P>
+<p>De Intersectorale Regionale Prioriteitencommissie beslist over de prioritering van een dossier, vermeld in artikel 26, § 1, derde lid, van het decreet van 12 juli 2013, en, in voorkomend geval, over de toekenning van persoonsvolgende middelen als vermeld in het besluit van de Vlaamse Regering van 10 maart 2017 over persoonsvolgende middelen voor minderjarige personen met een handicap met dringende noden.<br>
+<br>
+De prioritering, vermeld in het eerste lid, houdt in dat een dossier voorrang krijgt waardoor jeugdhulpaanbieders alleen van een opname van het dossier kunnen afzien als ze dat motiveren en als het team Jeugdhulpregie ermee akkoord gaat dat de jeugdhulpaanbieder een ander dossier opneemt.</p>
 
 ### ART. 39.
 
