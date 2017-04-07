@@ -63,3 +63,92 @@ vervangen door de zinsnede
 </table>
 <br>
 &nbsp;
+
+### ART 5.
+
+Dit besluit heeft uitwerking als volgt:<br>
+1° artikel 1 heeft uitwerking met ingang van 1 mei 2016;<br>
+2° artikel 2 heeft uitwerking met ingang van 1 juni 2016;<br>
+3° artikel 3 heeft uitwerking met ingang van 1 januari 2017;<br>
+4° artikel 4 heeft uitwerking met ingang van 1 juli 2016.
+
+### ART 6.
+
+De Vlaamse minister van Begroting, Financiën en Energie, de Vlaamse minister van Binnenlands Bestuur, lnburgering, Wonen, Gelijke Kansen en Armoedebestrijding, de Vlaamse minister van Welzijn, Volksgezondheid en Gezin, zijn ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
+
+### BIJLAGE 1
+
+Het Facilitair Bedrijf<br>
+1.1. Overdracht van het statutaire personeelslid van het Departement Welzijn, Volksgezondheid en Gezin vermeld in artikel 1
+<table border="1">
+	<tbody>
+		<tr>
+			<td>naam</td>
+			<td>voornaam</td>
+			<td>rang</td>
+			<td>graad</td>
+			<td>salarisschaal</td>
+		</tr>
+		<tr>
+			<td>Spinnael</td>
+			<td>Daniel</td>
+			<td>A1</td>
+			<td>Adjunct van de directeur</td>
+			<td>A112</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+1.2. Overdracht van de statutaire personeelsleden van het Departement Welzijn, Volksgezondheid en Gezin vermeld in artikel 2
+<table border="1">
+	<tbody>
+		<tr>
+			<td>naam</td>
+			<td>voornaam</td>
+			<td>rang</td>
+			<td>graad</td>
+			<td>salarisschaal</td>
+		</tr>
+		<tr>
+			<td>Casters</td>
+			<td>Claire</td>
+			<td>C2</td>
+			<td>Hoofdmedewerker</td>
+			<td>C212</td>
+		</tr>
+		<tr>
+			<td>De Ceulaer</td>
+			<td>Linda</td>
+			<td>D1</td>
+			<td>Assistent</td>
+			<td>D111</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
+
+### BIJLAGE 2
+
+Departement Financiën en Begroting<br>
+Overdracht van het statutaire personeelslid van het Departement Welzijn, Volksgezondheid en Gezin vermeld in artikel 3
+<table border="1">
+	<tbody>
+		<tr>
+			<td>naam</td>
+			<td>voornaam</td>
+			<td>rang</td>
+			<td>graad</td>
+			<td>salarisschaal</td>
+		</tr>
+		<tr>
+			<td>Geukens</td>
+			<td>Kristina</td>
+			<td>A1</td>
+			<td>Adjunct van de directeur</td>
+			<td>A112</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
