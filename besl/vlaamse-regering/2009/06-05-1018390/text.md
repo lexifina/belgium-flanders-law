@@ -40,7 +40,8 @@ c) de deeltijdse werknemer die een opleiding volgt in een onderwijsinstelling al
 24° controledienst: de dienst die binnen de VDAB is belast met de controle van de beschikbaarheid van de verplicht ingeschreven werkzoekende en het in voorkomend geval bepalen van de bijbehorende sanctie;<br>
 25° partnerorganisaties: organisaties waarmee de VDAB samenwerkt in het kader van een overheidsopdracht, subsidieovereenkomst of samenwerkingsovereenkomst;<br>
 26° RVA: de Rijksdienst voor Arbeidsvoorziening;<br>
-27° werkervaringsstage: een stage voor een werkzoekende op een reële werkvloer, die als voornaamste doel heeft om de werkzoekende generieke competenties te laten opbouwen die van elke werknemer verwacht worden, los van de functie van de werknemer, en om de werkzoekende werkervaring te laten opdoen, zodat een eerste stap naar herintrede op de arbeidsmarkt gezet kan worden.<br>
+27° werkervaringsstage: een stage voor een werkzoekende op een reële werkvloer, die als voornaamste doel heeft om de werkzoekende generieke competenties te laten opbouwen die van elke werknemer verwacht worden, los van de functie van de werknemer, en om de werkzoekende werkervaring te laten opdoen, zodat een eerste stap naar herintrede op de arbeidsmarkt gezet kan worden;<br>
+28° activeringsstage: een stage die openstaat voor werkzoekenden bij wie een medisch, mentaal, psychisch, psychiatrisch of sociaal probleem, of een combinatie van die problemen, de inschakeling op de arbeidsmarkt verhindert. De stage oriënteert de werkzoekende naar betaald werk en bereidt de werkzoekende voor op betaald werk door zijn algemene basisvaardigheden te versterken en door drempels weg te werken die de inschakeling op de arbeidsmarkt bemoeilijken of verhinderen.<br>
 <br>
 De Vlaamse minister, bevoegd voor het Tewerkstellingsbeleid, bepaalt, na advies van de raad van bestuur van de VDAB, wat moet worden verstaan onder onderneming in herstructurering als vermeld in het eerste lid, 17° en 18°.
 
@@ -692,6 +693,56 @@ De werkervaringsstage wordt stopgezet:<br>
 Indien de werkervaringsstage deel uitmaakt van een traject tijdelijke werkervaring, kan de trajectbegeleider, vermeld in artikel 1, 1° van het besluit van de Vlaamse Regering betreffende de tijdelijke werkervaring van 23/12/2016, de werkervaringsstage inzetten met toepassing van artikel 17 van hetzelfde besluit.
 
 ## [HOOFDSTUK V. ... (opgeh. BVR 28 oktober 2022, art. 21, I: 1 januari 2023)]
+
+### ART 111/0/13.
+
+De activeringsstage maakt integraal deel uit van een intensief en specifiek begeleidingstraject met het oog op psycho-medisch-sociale remediëring. De VDAB kan aan werkzoekenden die geactiveerd worden via een intensief en specifiek begeleidingstraject, een activeringsstage voorstellen bij een werkgever.<br>
+<br>
+Een activeringsstage staat open voor werkzoekenden bij wie een medisch, mentaal, psychisch, psychiatrisch of sociaal probleem, of een combinatie van die problemen, de inschakeling op de arbeidsmarkt verhindert.
+
+### ART 111/0/14.
+
+De VDAB bepaalt de duur van de activeringsstage naargelang de afstand tot de arbeidsmarkt. De activeringsstage heeft een maximale doorlooptijd van zes maanden. Het aantal uren op de werkvloer wordt gradueel opgebouwd naargelang de capaciteiten van de stagiair.<br>
+<br>
+De VDAB beslist of de werkzoekende een activeringsstage kan volgen. De VDAB beslist ook over de voortijdige beëindiging van de activeringsstage. Een activeringsstage kan niet verlengd worden.
+
+### ART 111/0/15.
+
+De activeringsstage kan onmiddellijk worden stopgezet door de begeleider:<br>
+1° als de stagiair werk vindt;<br>
+2° als de stagiair of de werkgever hun contractuele verplichtingen niet langer nakomen en de VDAB vaststelt dat de verdere uitvoering van de activeringsstage onmogelijk is geworden;<br>
+3° als het doel, vermeld in artikel 1, 28°, bereikt is;<br>
+4° als de VDAB vaststelt dat het doel, vermeld in artikel 1, 28°, niet haalbaar is.
+
+### ART 111/0/16.
+
+Een beschrijving van de acties om de beginsituatie in kaart te brengen, wordt bij de aanvang van de activeringsstage bepaald en door de VDAB goedgekeurd. Op het einde van de activeringsstage wordt een opleidings- of trajectplan opgemaakt, tenzij blijkt dat de stagiair niet toeleidbaar is naar de arbeidsmarkt.
+
+### ART 111/0/17.
+
+Tijdens de duur van de activeringsstage wordt de werkzoekende regelmatig opgevolgd door de VDAB. De werkgever waarbij de stage wordt aangevat staat in voor de ondersteuning van de werkzoekende op de werkvloer.
+
+### ART 111/0/18.
+
+De werkzoekende die een activeringsstage volgt, heeft recht op de vergoedingen, vermeld in artikel 6, § 2, als hij voldoet aan de voorwaarden, vermeld in het voormelde artikel.
+
+### ART 111/0/19.
+
+Tijdens de activeringsstage wordt de stagiair verzekerd voor ongevallen als vermeld in artikel 11. Artikel 12 is van overeenkomstige toepassing.
+
+### ART 111/0/20.
+
+Voor de uitvoering van de activeringsstage wordt tussen de VDAB, de stagiair en de werkgever een overeenkomst gesloten, waarvan de raad van bestuur van de VDAB het model bepaalt.<br>
+<br>
+De overeenkomst bevat ten minste de volgende elementen:<br>
+1° de identiteit van de partijen;<br>
+2° de aanvangsdatum van de activeringsstage en de vermoedelijke duur ervan;<br>
+3° de omschrijving van de activiteiten die in het kader van de activeringsstage plaatsvinden op de werkvloer;<br>
+4° de rechten en de plichten van de partijen, onder andere:<br>
+a) de vergoedingen en premies;<br>
+b) de begeleiding en evaluatie;<br>
+c) het naleven van voorschriften inzake veiligheid en A.R.A.B.;<br>
+d) het respecteren van de privacy
 
 ## [HOOFDSTUK VI. De beroepsinlevingsstage (ing. BVR 6 juli 2018, art. 42, I: 1 september 2018)]
 
