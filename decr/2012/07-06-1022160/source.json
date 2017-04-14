@@ -2,16 +2,16 @@
   "codex_id": 1022160,
   "title": "Decreet van 2012-07-06 houdende het Vlaams cultureel-erfgoedbeleid [citeeropschrift: \"Cultureel-erfgoeddecreet van 6 juli 2012\"]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022160/VolledigDocument?datum=2015-11-01",
-  "source_sha256": "3c01f5f344c0d54e859e2c6100c3e01b7bb0ef8a744138354a61ceb02fb386ff",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022160/VolledigDocument?datum=2017-04-14",
+  "source_sha256": "266efb331ef0d5a5aff0a2d66124d6f6e09d5a30f46c3c78019fe4c83173a1d9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022160&param=informatie",
-  "as_of": "2015-11-01",
+  "as_of": "2017-04-14",
   "made": "2012-07-06",
   "gazette": "2012-09-03",
   "numac": 2012204732,
   "document_start": "2012-09-13",
   "document_end": "2017-04-13",
-  "in_force": "2015-11-01",
+  "in_force": "2017-04-14",
   "article_versions": 206,
-  "record_form": "consolidated version as in force on 2015-11-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-14; future article versions excluded; article text as the API gives it"
 }
