@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028103,
+  "title": "Decreet van 2017-02-24 houdende de ondersteuning van cultureelerfgoedwerking in Vlaanderen (citeeropschrift: \"Cultureelerfgoeddecreet van 24 februari 2017\")",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028103/VolledigDocument?datum=2017-04-14",
+  "source_sha256": "6d140dd465bfce72c1ae94e39b3365442fe5d4d051cb19100cf3abbc3caf8a0e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028103&param=informatie",
+  "as_of": "2017-04-14",
+  "made": "2017-02-24",
+  "gazette": "2017-04-04",
+  "numac": 2017030163,
+  "document_start": "2017-04-14",
+  "document_end": "2022-03-20",
+  "in_force": "2017-04-14",
+  "article_versions": 100,
+  "record_form": "consolidated version as in force on 2017-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
