@@ -16,7 +16,10 @@ De   bij dit besluit gedelegeerde bevoegdheden worden uitgeoefend binnen de perk
 
 ### ART. 3.
 
-Als   in dit besluit de bevoegdheid voor bepaalde aangelegenheden expliciet   gedelegeerd wordt, strekt de delegatie zich ook uit tot:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de beslissingen die moeten worden genomen in het kader van de voorbereiding en   de uitvoering van de bedoelde aangelegenheden;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de beslissingen van ondergeschikt belang of aanvullende aard die noodzakelijk   zijn voor de uitoefening van de bevoegdheid of er inherent deel van   uitmaken.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Als in dit besluit de bevoegdheid voor bepaalde aangelegenheden expliciet gedelegeerd wordt, strekt de delegatie zich ook uit tot:<br>
+1° de beslissingen die moeten worden genomen in het kader van de voorbereiding en de uitvoering van de bedoelde aangelegenheden;<br>
+2° de beslissingen van ondergeschikt belang of aanvullende aard die noodzakelijk zijn voor de uitoefening van de bevoegdheid of er inherent deel van uitmaken;<br>
+3° het sluiten van overeenkomsten.
 
 ### ART. 4.
 
@@ -36,7 +39,15 @@ De   bij dit besluit verleende delegaties hebben zowel betrekking op de   appara
 
 ### ART. 7.
 
-Het   hoofd van het departement heeft delegatie om inzake subsidies in het kader van   het landbouw- en visserijbeleid:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de begunstigden op de hoogte te brengen van de beslissingen over de aangevraagde   steun;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   in voorkomend geval beslissingen te nemen over de verlenging van de   uitvoeringstermijn onder de volgende voorwaarden:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   er is een gemotiveerde aanvraag op schriftelijke of elektronische wijze   ingediend voor het verstrijken van de periode;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   de wijziging brengt geen budgettaire meerkosten teweeg;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">c)   de wijziging van de periode wordt voor het verstrijken van de periode op   schriftelijke of elektronische wijze goedgekeurd;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   verschuivingen tussen de kostenrubrieken goed te keuren binnen het voorziene   totale projectbudget, tot maximaal 10% van dat totale budget;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de subsidie geheel of gedeeltelijk terug te vorderen of niet uit te betalen in   de gevallen, vermeld in artikel 13 en 14 van de wet van 16 mei 2003 tot   vaststelling van de algemene bepalingen die gelden voor de begrotingen, de   controle op de subsidies en voor de boekhouding van de gemeenschappen en de   gewesten, alsook voor de organisatie van de controle door het Rekenhof en in het   besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene   regels inzake subsidiëring.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Het hoofd van het departement heeft delegatie om inzake subsidies in het kader van het landbouw- en visserijbeleid:<br>
+1° de begunstigden op de hoogte te brengen van de beslissingen over de aangevraagde steun;<br>
+2° in voorkomend geval beslissingen te nemen over de verlenging van de uitvoeringstermijn onder de volgende voorwaarden:<br>
+a) er is een gemotiveerde aanvraag op schriftelijke of elektronische wijze ingediend voor het verstrijken van de periode;<br>
+b) de wijziging brengt geen budgettaire meerkosten teweeg;<br>
+c) de wijziging van de periode wordt voor het verstrijken van de periode op schriftelijke of elektronische wijze goedgekeurd;<br>
+3° verschuivingen tussen de kostenrubrieken goed te keuren binnen het voorziene totale project- of werkingsbudget, tot maximaal 10% van dat totale budget;<br>
+4° de subsidie geheel of gedeeltelijk terug te vorderen of niet uit te betalen in de gevallen, vermeld in artikel 13 en 14 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof en in het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring;<br>
+5° uitzonderingen op het ter beschikking gestelde logo toe te staan.
 
 ## HOOFDSTUK 4 Delegatie inzake vertegenwoordiging
 
@@ -60,7 +71,7 @@ Het   hoofd van het departement heeft inzake het Vlaams Programma voor   Plattel
 
 ### ART. 11.
 
-Het   hoofd van het departement heeft delegatie om contracten te sluiten met   geselecteerde organisaties conform verordening (EG) nr. 3/2008 van de Raad van   17 december 2007 inzake voorlichtings- en afzetbevorderingsacties voor   landbouwproducten op de binnenmarkt en in derde landen en de   uitvoeringsbepalingen ervan.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Het hoofd van het departement heeft delegatie om contracten te sluiten met geselecteerde organisaties conform&nbsp;verordening (EU) nr. 1144/2014 van het Europees Parlement en de Raad van 22 oktober 2014 inzake voorlichtings- en afzetbevorderingsacties betreffende landbouwproducten uitgevoerd op de interne markt en in derde landen en tot intrekking van Verordening (EG) nr. 3/2008 van de Raad en de uitvoeringsbepalingen ervan.
 
 ## HOOFDSTUK 8 Delegatie inzake het Fonds voor het Landbouwinformatienetwerk
 
@@ -131,6 +142,10 @@ Het   hoofd van het departement heeft inzake het Vlaams betaalorgaan delegatie o
 <P>Het   hoofd van het departement heeft delegatie om de bevoegdheden van de directeur   van het Vlaams betaalorgaan te bepalen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het eerste lid wordt verstaan onder directeur van het Vlaams betaalorgaan: het   personeelslid dat belast is met de leiding van het Vlaams   betaalorgaan.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
 
 ## [HOOFDSTUK 13/1 Delegatie inzake rechtsgedingen (ing. MB 15 maart 2017, art. 4, I: 16 april 2017)]
+
+### ART 24/1.
+
+Het hoofd van het departement heeft delegatie om beslissingen te nemen over het instellen van een hoger beroep of een voorziening in cassatie in de rechtsgedingen voor de hoven en rechtbanken, de administratieve rechtscolleges en het Rekenhof.
 
 ## [HOOFDSTUK 13/2 Delegatie inzake invoer-, uitvoer en restitutiecertificaten (ing. MB 20 september 2017, art. 3, I: 20 oktober 2017)]
 
