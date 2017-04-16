@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028113,
+  "title": "Ministerieel besluit van 2017-03-15 tot wijziging van het ministerieel besluit van 26 maart 2015 tot delegatie van specifieke bevoegdheden aan het hoofd van het Departement Landbouw en Visserij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028113/VolledigDocument?datum=2017-04-16",
+  "source_sha256": "acc35860adac74068d9c1ec64d864fa63cfb5434f929f4f66390bae5259280a5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028113&param=informatie",
+  "as_of": "2017-04-16",
+  "made": "2017-03-15",
+  "gazette": "2017-04-06",
+  "numac": 2017201874,
+  "document_start": "2017-04-16",
+  "document_end": null,
+  "in_force": "2017-04-16",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-04-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
