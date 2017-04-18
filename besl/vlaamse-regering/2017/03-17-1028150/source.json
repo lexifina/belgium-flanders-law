@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028150,
+  "title": "Besluit van de Vlaamse Regering van 2017-03-17 tot wijziging van verschillende besluiten, wat betreft de invoering van infrastructuursubsidies voor woonzorgcentra en centra voor kortverblijf",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028150/VolledigDocument?datum=2017-04-18",
+  "source_sha256": "d20dc7514e57f43c9d44a092f932c3c11e6be4b5a8d58ad183c0cbe6f8313fcb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028150&param=informatie",
+  "as_of": "2017-04-18",
+  "made": "2017-03-17",
+  "gazette": "2017-04-18",
+  "numac": 2017011633,
+  "document_start": "2017-04-18",
+  "document_end": null,
+  "in_force": "2017-04-18",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2017-04-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
