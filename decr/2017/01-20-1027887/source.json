@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027887,
+  "title": "Decreet van 2017-01-20 tot wijziging van het Woonzorgdecreet van 13 maart 2009, wat de subsidiëring van de infrastructuur van de woonzorgcentra en de centra voor kortverblijf betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027887/VolledigDocument?datum=2017-04-18",
+  "source_sha256": "aa5408685edbcadf5dfe154e1f05bf902d220ac0ad2f0646569417df3441039b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027887&param=informatie",
+  "as_of": "2017-04-18",
+  "made": "2017-01-20",
+  "gazette": "2017-02-15",
+  "numac": 2017020179,
+  "document_start": "2017-04-18",
+  "document_end": null,
+  "in_force": "2017-04-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-04-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
