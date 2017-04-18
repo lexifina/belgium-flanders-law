@@ -40,7 +40,24 @@ De instellingen voor bejaardenopvang mogen geen prijsverhogingen of   verhoginge
 
 ### ART. 6.
 
-§ 1. De prijzen van de diensten en producten die als nieuw kunnen aanzien   worden, worden aan het agentschap ter kennis gebracht uiterlijk&nbsp;dertig   dagen vóór hun toepassing.<BR><BR>Deze kennisgeving gebeurt   elektronisch.<BR><BR>Bij ontstentenis van een weigering door het agentschap   binnen de dertig dagen die volgen op de ontvangst van de kennisgeving, zal de   dienst enlof het product aanzien worden als nieuw.<BR><BR>§ 2. Kunnen in geen   geval als nieuw worden aanzien :<BR>1° de diensten enlof producten die een   gelijkenis of overeenstemming vertonen binnen de instelling;<BR>2° het aanbod   van diensten en/of producten die het voorwerp uitmaken van een afstand van   activiteiten of van een overname van activiteiten na een liquidatie of faling   van een instelling.<BR><BR>§ 3. Elke prijsverhoging die toegepast wordt voor   bewoners die overgebracht worden naar een nieuw gebouw, een nieuwe uitbreiding,   een verbouwd gebouw, moet het voorwerp uitmaken van een aanvraag tot   prijsverhoging conform de artikelen 2 en 3.
+§ 1. De prijzen van de diensten en producten die als nieuw kunnen aanzien worden, worden aan het agentschap ter kennis gebracht uiterlijk&nbsp;dertig dagen vóór hun toepassing.<br>
+<br>
+Deze kennisgeving gebeurt elektronisch.<br>
+<br>
+Bij ontstentenis van een weigering door het agentschap binnen de dertig dagen die volgen op de ontvangst van de kennisgeving, zal de dienst enlof het product aanzien worden als nieuw.<br>
+<br>
+§ 2. Kunnen in geen geval als nieuw worden aanzien :<br>
+1° de diensten enlof producten die een gelijkenis of overeenstemming vertonen binnen de instelling;<br>
+2° het aanbod van diensten en/of producten die het voorwerp uitmaken van een afstand van activiteiten of van een overname van activiteiten na een liquidatie of faling van een instelling.<br>
+<br>
+§ 3. Elke prijsverhoging die toegepast wordt voor bewoners die overgebracht worden naar een nieuw gebouw, een nieuwe uitbreiding, een verbouwd gebouw, moet het voorwerp uitmaken van een aanvraag tot prijsverhoging conform de artikelen 2 en 3.<br>
+<br>
+§ 4. In afwijking van paragraaf 1 wordt bij het agentschap een aanvraag ingediend voor:<br>
+1° elke prijsverhoging die wordt toegepast voor bewoners die overgebracht worden naar woongelegenheden in woonzorgcentra of centra voor kortverblijf of in gedeelten van die centra, die het voorwerp hebben uitgemaakt van een verbouwing of een vervangingsnieuwbouw, en waarvoor infrastructuursubsidies als vermeld in bijlage XVII bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, zijn aangevraagd of zullen worden aangevraagd;<br>
+2° de bepaling van de prijs die wordt aangerekend aan nieuwe bewoners van woongelegenheden in woonzorgcentra of centra voor kortverblijf of in gedeelten van die centra, die het voorwerp hebben uitgemaakt van een verbouwing of een vervangingsnieuwbouw, en waarvoor infrastructuursubsidies als vermeld in punt 1°, zijn aangevraagd of zullen worden aangevraagd;<br>
+3° de bepaling van de prijs die wordt aangerekend aan bewoners van woongelegenheden in nieuwe woonzorgcentra of centra voor kortverblijf of, na een uitbreiding, in nieuwe gedeelten van bestaande woonzorgcentra of centra voor kortverblijf, als voor die woongelegenheden infrastructuursubsidies als vermeld in punt 1°, zijn aangevraagd of zullen worden aangevraagd.<br>
+<br>
+Artikel 2 en 3 zijn van overeenkomstige toepassing op de aanvragen, vermeld in het eerste lid.
 
 ## HOOFDSTUK III. Algemene inlichtingen
 
