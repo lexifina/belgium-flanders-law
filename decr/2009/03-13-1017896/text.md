@@ -346,7 +346,26 @@ In afwijking van het eerste lid kunnen subsidies voor animatie, vermeld in artik
 
 ### ART. 63.
 
-Subsidies voor het bouwen, het uitbreiden, het verbouwen en het inrichten   van woonzorgcentra, dagverzorgingscentra of centra voor kortverblijf, of voor de   aankoop van gebouwen die bestemd zijn om als woonzorgcentrum,   dagverzorgingscentrum of centrum voor kortverblijf te worden ingericht, of als   tegemoetkoming in de kosten van huur, huurkoop, leasing of lening voor het   aankopen, het bouwen, het inrichten en het in gebruik nemen van een   woonzorgcentrum, dagverzorgingscentrum of centrum voor kortverblijf, kunnen   alleen worden verleend voor een woonzorgcentrum, dagverzorgingscentrum of   centrum voor kortverblijf dat wordt opgericht door : <BR>1° een initiatiefnemer   als vermeld in artikel 50 of aangewezen ter uitvoering van dat artikel;<BR>2°   een intergemeentelijke samenwerking conform het decreet van 6 juli 2001 houdende   de intergemeentelijke samenwerking.<BR><BR>Met behoud van de toepassing van het   eerste lid moet het woonzorgcentrum, dagverzorgingscentrum of centrum voor   kortverblijf aan de volgende voorwaarden voldoen om voor subsidiëring in   aanmerking te komen : <BR>1° passen in het kader van het programma dat door de   Vlaamse Regering wordt vastgesteld;<BR>2° beantwoorden aan de voorwaarden die de   Vlaamse Regering vastlegt.
+Subsidies voor het bouwen, het uitbreiden, het verbouwen en het inrichten van&nbsp;dagverzorgingscentra, of voor de aankoop van gebouwen die bestemd zijn om als&nbsp;dagverzorgingscentrum&nbsp; te worden ingericht, of als tegemoetkoming in de kosten van huur, huurkoop, leasing of lening voor het aankopen, het bouwen, het inrichten en het in gebruik nemen van een&nbsp; dagverzorgingscentrum, kunnen alleen worden verleend voor een&nbsp;dagverzorgingscentrum dat wordt opgericht door :<br>
+1° een initiatiefnemer als vermeld in artikel 50 of aangewezen ter uitvoering van dat artikel;<br>
+2° een intergemeentelijke samenwerking conform het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking.<br>
+<br>
+Met behoud van de toepassing van het eerste lid moet het&nbsp;dagverzorgingscentrum aan de volgende voorwaarden voldoen om voor subsidiëring in aanmerking te komen :<br>
+1° passen in het kader van het programma dat door de Vlaamse Regering wordt vastgesteld;<br>
+2° beantwoorden aan de voorwaarden die de Vlaamse Regering vastlegt.
+
+### ART 63/1.
+
+Binnen de perken van de begrotingskredieten en passend binnen de programmatie kan de Vlaamse Regering aan erkende woonzorgcentra en centra voor kortverblijf subsidies verlenen als tegemoetkoming in de infrastructuurkosten in de vorm van een forfait dat periodiek wordt uitbetaald.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden waaraan het woonzorgcentrum of het centrum voor kortverblijf en de infrastructuur moeten voldoen om voor infrastructuursubsidies in aanmerking te komen. Die hebben onder meer betrekking op :<br>
+1° de bouwfysische, technische en kwalitatieve normen waaraan de infrastructuur moet voldoen;<br>
+2° de aanrekening van kosten aan zorggebruikers;<br>
+3° de cumuleerbaarheid van de subsidies met andere steunmechanismen.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure voor de toekenning en de uitbetaling van infrastructuursubsidies. Die procedure bevat de mogelijkheid een bezwaar in te dienen.<br>
+<br>
+De Vlaamse Regering kan een gefaseerde invoering, met een bijbehorende aangepaste procedure, bepalen voor het verlenen van infrastructuursubsidies.
 
 ## Afdeling IV. Specifieke regeling met betrekking tot Brussel-Hoofdstad
 
