@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028126,
+  "title": "Besluit van de Vlaamse Regering van 2017-03-10 tot erkenning van de masteropleiding master in de handelswetenschappen als nieuwe opleiding van de Universiteit Hasselt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028126/VolledigDocument?datum=2017-04-21",
+  "source_sha256": "a23a1d3206a4032a9db070085a49a2bf6d42be23dfbab717752ae2e5ec81dba7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028126&param=informatie",
+  "as_of": "2017-04-21",
+  "made": "2017-03-10",
+  "gazette": "2017-04-11",
+  "numac": 2017011486,
+  "document_start": "2017-04-21",
+  "document_end": null,
+  "in_force": "2017-04-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
