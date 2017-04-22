@@ -74,7 +74,7 @@
 37° Nieuwenhof bvba, Veldstraat 168, 1880 Nieuwenrode, met erkenningsnummer NV98/04;<br>
 38° nv Stoeterij "Castershoeve", Grotstraat 70, 3668 As, met erkenningsnummer NM91/06;<br>
 39° nv Vets, Zuut 33-44, 2500 Lier, met erkenningsnummer NA92/05;<br>
-40° Philippe Le Jeune, Steenstraat 22, 1750 Lennik, met erkenningsnummer NB05/03;<br>
+40° ...;<br>
 41° Roshoeve nv, Roshoevedijk 5, 2440 Geel, met erkenningsnummer NA01/10;<br>
 42° Schoukens Wim Pferdheim bvba, Diestersteenweg 299, 3293 Kaggevinne, met erkenningsnummer NB89/23;<br>
 43° Sporkingshove, Steengracht-Oost 21, 8630 Veurne, met erkenningsnummer NW09/03;<br>
@@ -99,7 +99,10 @@
 62° Van Poucke Dirk "Hoeve Ter Linden", Hoogrechemstraat 5, 9770 Kruishoutem, met erkenningsnummer NV16/05;<br>
 63° Veulenhof-Pontrave, Oudeheerweg-Ruiter 145, 9250 Waasmunster, met erkenningsnummer NV02/04;<br>
 64° Willy Voeten, Venneweg 18, 2321 Meer, met erkenningsnummer NA98/07;<br>
-65° Xavier Van Melckenbeke, Pijpaenshoek 60, 1500 Halle, met erkenningsnummer NB05/05.</p>
+65° Xavier Van Melckenbeke, Pijpaenshoek 60, 1500 Halle, met erkenningsnummer NB05/05;<br>
+66° Golden Paint Ranch, Slameuterstraat 29, 2580 Putte, met erkenningsnummer NB16/09;<br>
+67° Lies De Backer, Plockroy 7, 3670 Meeuwen-Gruitrode, met erkenningsnummer NM15/05;<br>
+68° KI-centrum JV-Horses, Noordwateringsweg 20, 2990 Wuustwezel, met erkenningsnummer NA16/12.</p>
 
 ### ART. 2.
 
@@ -122,13 +125,14 @@
 16° `t Winkenshof, Krekershofweg 30, 3680 Maaseik, met erkenningsnummer BN16/01;<br>
 17° Van De Heffinck bvba, Goeiingen 14, 9940 Evergem, met erkenningsnummer BN97/07;<br>
 18° Willy Van Impe, Otterkant 55, 9551 Herzele, met erkenningsnummer BN09/01;<br>
-19° Zoutekreken NV, Hazegrasstraat 141, 8300 Knokke-Heist, met erkenningsnummer BN12/01.</p>
+19° Zoutekreken NV, Hazegrasstraat 141, 8300 Knokke-Heist, met erkenningsnummer BN12/01;<br>
+20° Anais El Arab bvba, Haezeweidestraat 16, 8920 Langemark-Poelkapelle, met erkenningsnummer AER/WVL/037747.</p>
 
 ### ART. 3.
 
 <p>Met toepassing van artikel 35 van het Fokkerijbesluit van 19 maart 2010 worden de volgende centra voor paardachtigen erkend voor de winning van sperma voor de nationale handel:<br>
 1° Broekwinning, Broekwinningstraat 19, 3550 Heusden-Zolder, met erkenningsnummer NM12/02;<br>
-2° Danny Bosmans, Jeugdlaan 71, 3550 Heusden-Zolder, met erkenningsnummer NM11/02;<br>
+2° Danny Bosmans, Rummenweg 100, 3450 Herk-de-Stad, met erkenningsnummer NM11/02;<br>
 3° De Braambeierhoek, Westkapellestraat 398, 8300 Knokke-Heist, met erkenningsnummer NW15/07;<br>
 4° Stal De Boterhoeve, Haanhoutstraat 73, 9080 Beervelde, met erkenningsnummer NV16/07;<br>
 5° Stal Schelstraete-Bellaert, Vakebuurstraat 249A, 9990 Maldegem, met erkenningsnummer NV11/01;<br>
@@ -154,11 +158,12 @@
 9° Hippo-Centros, Boelare 2, 9700 Melden, met erkenningsnummer NV04/02;<br>
 10° KI-centrum Saffelberg, Dreefstraat 2, 1755 Gooik, met erkenningsnummer NB13/02;<br>
 11° KI-Station Het Eegdeken, Pierkenstraat 95, 9620 Zottegem, met erkenningsnummer NV09/01;<br>
-12° Lies De Backer, Plockroy 7, 3670 Meeuwen-Gruitrode, met erkenningsnummer NM15/05;<br>
+12° ...;<br>
 13° Paarden-KI Service, Vrieskens 5, 2370 Arendonk, met erkenningsnummer NA10/02;<br>
 14° Paardenpraktijk 't Santvliet, Aarschotsebaan 96, 1910 Kampenhout, met erkenningsnummer NB15/03;<br>
 15° Ter Dieschoot, Hoogstraat 30-32, 8730 Oedelem, met erkenningsnummer NW99/04;<br>
-16° Witters Jan DAP, Nieuwstraat 11, 3212 Pellenberg, met erkenningsnummer NB15/06.</p>
+16° Witters Jan DAP, Nieuwstraat 11, 3212 Pellenberg, met erkenningsnummer NB15/06;<br>
+17° DAP Damsveld, Verkavelingsstraat 13, 2260 Westerlo, met erkenningsnummer NA16/10.</p>
 
 ### ART. 6.
 
@@ -193,7 +198,8 @@ Met toepassing van artikel 35 van het Fokkerijbesluit van 19 maart 2010 worden d
 16° Stal Noble bvba, Oosternieuwweg-Noord 21, 8377 Houtave, met erkenningsnummer NW90/19;<br>
 17° Stoeterij De Breemeersen, Breemeersen 36, 9880 Lotenhulle, met erkenningsnummer NV89/22;<br>
 18° Stoeterij Zangersheide bvba, Domein Zangersheide, 3620 Lanaken, met erkenningsnummer NM14/05;<br>
-19° Zoutekreken NV, Hazegrasstraat 141, 8300 Knokke-Heist, met erkenningsnummer NW13/02.
+19° Zoutekreken NV, Hazegrasstraat 141, 8300 Knokke-Heist, met erkenningsnummer NW13/02;<br>
+20° Eculeo, Waardheidestraat 5, 3990 Peer, met erkenningsnummer NM16/11.
 
 ### ART. 7/1.
 
@@ -210,7 +216,12 @@ Met toepassing van artikel 35 van het Fokkerijbesluit van 19 maart 2010 worden d
 
 ### ART. 8.
 
-Met toepassing van artikel 35 van het Fokkerijbesluit van 19 maart 2010   worden de volgende centra voor paardachtigen erkend voor de winning en opslag   van embryo's voor de intracommunautaire handel : <BR>1° Eculeo, Waardheidestraat   5, 3990 Peer, met erkenningsnummer BN13/02;<BR>2° Jadem Arabians bvba,   Berkensingel 24, 2490 Balen, met erkenningsnummer BN07/01;<BR>3° KI Centrum   Westhove, Westhovestraat 3, 8950 Heuvelland-Nieuwkerke, met erkenningsnummer   BN05/04;<BR>4° KI-Hof Ter Leeuwe bvba, Ridderstraat 41, 3340 Zoutleeuw, met   erkenningsnummer BN00/02;<BR>5° Willy Van Impe, Otterkant 55, 9551 Herzele, met   erkenningsnummer BN10/03.<BR>
+Met toepassing van artikel 35 van het Fokkerijbesluit van 19 maart 2010 worden de volgende centra voor paardachtigen erkend voor de winning en opslag van embryo's voor de intracommunautaire handel :<br>
+1° ...;<br>
+2° Jadem Arabians bvba, Berkensingel 24, 2490 Balen, met erkenningsnummer BN07/01;<br>
+3° KI Centrum Westhove, Westhovestraat 3, 8950 Heuvelland-Nieuwkerke, met erkenningsnummer BN05/04;<br>
+4° KI-Hof Ter Leeuwe bvba, Ridderstraat 41, 3340 Zoutleeuw, met erkenningsnummer BN00/02;<br>
+5° Willy Van Impe, Otterkant 55, 9551 Herzele, met erkenningsnummer BN10/03.
 
 ### ART. 9.
 
