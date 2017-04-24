@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028144,
+  "title": "Besluit van de Vlaamse Regering van 2017-02-10 tot erkenning van de beroepskwalificatie podiumtechnicus licht",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028144/VolledigDocument?datum=2017-04-24",
+  "source_sha256": "93ad37601e5a9abf048d5949b9e9cf16a621f1bb134bc339f8384ba1b88d5dc0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028144&param=informatie",
+  "as_of": "2017-04-24",
+  "made": "2017-02-10",
+  "gazette": "2017-04-14",
+  "numac": 2017020307,
+  "document_start": "2017-04-24",
+  "document_end": null,
+  "in_force": "2017-04-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-04-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
