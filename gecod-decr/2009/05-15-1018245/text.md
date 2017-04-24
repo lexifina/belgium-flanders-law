@@ -1509,18 +1509,25 @@ De Raad doet als administratief rechtscollege, bij wijze van arresten,   uitspra
 
 ### ART. 4.8.11.
 
-<p>§ 1. De beroepen bij de Raad inzake validerings- of registratiebeslissingen kunnen door de volgende personen worden ingesteld:<br>
+<br>
+§ 1. De beroepen bij de Raad inzake validerings- of registratiebeslissingen kunnen door de volgende personen worden ingesteld:<br>
 1° de aanvrager van het as-builtattest, respectievelijk de persoon die beschikt over zakelijke of persoonlijke rechten ten aanzien van een constructie die het voorwerp uitmaakt van een registratiebeslissing, of die deze constructie feitelijk gebruikt;<br>
 2° elke natuurlijke persoon of rechtspersoon die rechtstreekse of onrechtstreekse hinder of nadelen kan ondervinden als gevolg van de validerings- of registratiebeslissing;<br>
-3° procesbekwame verenigingen die optreden namens een groep wiens collectieve belangen door de validerings- of registratiebeslissing zijn bedreigd of geschaad, voor zover zij beschikken over een duurzame en effectieve werking overeenkomstig de statuten.</p>
-
-<p>§ 2. De beroepen inzake validerings- of registratiebeslissingen worden ingesteld binnen een vervaltermijn van vijfenveertig dagen, die ingaat als volgt:<br>
+3° procesbekwame verenigingen die optreden namens een groep wiens collectieve belangen door de validerings- of registratiebeslissing zijn bedreigd of geschaad, voor zover zij beschikken over een duurzame en effectieve werking overeenkomstig de statuten.<br>
+<br>
+Een bij het dossier betrokken vergunningverlenende bestuursorgaan, dat nagelaten heeft een uitdrukkelijke beslissing te nemen in eerste administratieve aanleg, wordt geacht te hebben verzaakt aan zijn recht om zich tot de Raad voor Vergunningsbetwistingen te wenden, behoudens overmacht.<br>
+<br>
+§ 2. De beroepen inzake validerings- of registratiebeslissingen worden ingesteld binnen een vervaltermijn van vijfenveertig dagen, die ingaat als volgt:<br>
 1° wat betreft valideringsbeslissingen:<br>
 a) hetzij de dag na de betekening, wanneer een dergelijke betekening vereist is;<br>
 b) hetzij de dag na de opname in het vergunningenregister, in alle andere gevallen;<br>
 2° wat betreft registratiebeslissingen:<br>
 a) hetzij de dag na de betekening, wanneer een dergelijke betekening vereist is;<br>
-b) [... <em>(vernietigd bij arrest Grondwettelijk Hof 2024/109 van 3 oktober 2024)</em>];</p>
+b) [... <em>(vernietigd bij arrest Grondwettelijk Hof 2024/109 van 3 oktober 2024)</em>];<br>
+<br>
+<br>
+<br>
+&nbsp;
 
 ### ART. 4.8.12.
 
