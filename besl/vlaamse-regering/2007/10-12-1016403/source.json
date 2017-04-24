@@ -2,16 +2,16 @@
   "codex_id": 1016403,
   "title": "Besluit van de Vlaamse Regering van 2007-10-12 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016403/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "baef2102e72a3f1f6dc05ef78e6c27922a7c5ca106419a9d9cd21e2f52613374",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016403/VolledigDocument?datum=2017-04-24",
+  "source_sha256": "39339d34790daad2cf546e044786fda1f98cf4a7c08a247dd3dbc0c7bd686b91",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016403&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2017-04-24",
   "made": "2007-10-12",
   "gazette": "2007-12-07",
   "numac": 2007036959,
   "document_start": "2008-01-01",
   "document_end": "2020-12-31",
-  "in_force": "2017-04-01",
+  "in_force": "2017-04-24",
   "article_versions": 99,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-24; future article versions excluded; article text as the API gives it"
 }

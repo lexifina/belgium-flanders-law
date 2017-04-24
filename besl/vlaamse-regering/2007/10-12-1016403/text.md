@@ -485,7 +485,7 @@ De verhuurder beslist over het verzoekschrift en verzendt zijn beslissing met ee
 <br>
 Als de beslissing niet is verzonden binnen de gestelde termijn, wordt het verzoek geacht te zijn ingewilligd. De datum van de afgifte op de post van de beslissing geldt als datum van verzending.<br>
 <br>
-§ 3. De huurder kan binnen een vervaltermijn van dertig dagen vanaf de derde werkdag die volgt op de datum van de afgifte op de post van de aangetekende brief, vermeld in paragraaf 2, derde lid, een gemotiveerd beroep instellen bij de toezichthouder tegen de beslissing van de verhuurder, vermeld in het paragraaf 2, derde lid. De datum van de afgifte op de post van het beroepschrift geldt als datum van indiening van het verzoek.<br>
+§ 3. De huurder kan binnen een vervaltermijn van dertig dagen vanaf de derde werkdag die volgt op de datum van de afgifte op de post van de aangetekende brief, vermeld in paragraaf 2, derde lid, een gemotiveerd beroep instellen bij de toezichthouder tegen de beslissing van de verhuurder, vermeld in het paragraaf 2, derde lid. De datum van de afgifte op de post van het beroepschrift geldt als datum van indiening van het beroep.<br>
 <br>
 Het beroep wordt op straffe van onontvankelijkheid ingesteld met een aangetekende brief. In het beroepschrift kan de huurder vragen om mondeling gehoord te worden. De huurder kan zich, in voorkomend geval, op de hoorzitting laten bijstaan of vertegenwoordigen door een raadsman of een huurdersbond of vertrouwenspersoon. In geval van een vertegenwoordiging door een huurdersbond of vertrouwenspersoon is een schriftelijk mandaat van de huurder nodig.<br>
 <br>
@@ -965,7 +965,9 @@ Het decreet van 15 december 2006 houdende wijziging van het decreet van 15 juli 
 
 ### ART. 76.
 
-Dit besluit treedt in werking :<BR>1° voor wat de sociale   huisvestingsmaatschappijen, de sociale verhuurkantoren en de VMSW betreft : op 1   januari 2008;<BR>2° voor wat de andere verhuurders dan vermeld in 1°, betreft :   op 1 januari 2008, met uitzondering van de artikelen 37 tot en met 50, die in   werking treden op de datum die de minister zal bepalen.<BR>
+Dit besluit treedt in werking :<br>
+1° voor wat de sociale huisvestingsmaatschappijen, de sociale verhuurkantoren en de VMSW betreft : op 1 januari 2008;<br>
+2° voor wat de andere verhuurders dan vermeld in 1°, betreft : op 1 januari 2008, met uitzondering van de artikelen 37 en 38 tot en met 50, die in werking treden op de datum die de minister zal bepalen.
 
 ### ART. 77.
 
