@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027773,
+  "title": "Decreet van 2016-12-09 houdende wijziging van diverse decreten, wat de optimalisatie van de organisatie en de rechtspleging van de Vlaamse bestuursrechtcolleges betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027773/VolledigDocument?datum=2017-04-24",
+  "source_sha256": "07dce2b73276b2ed8bf338556d16f1dba87c7e2d49f076b6c988dd056b038cb7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027773&param=informatie",
+  "as_of": "2017-04-24",
+  "made": "2016-12-09",
+  "gazette": "2017-01-24",
+  "numac": 2017030020,
+  "document_start": "2017-04-24",
+  "document_end": null,
+  "in_force": "2017-04-24",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2017-04-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
