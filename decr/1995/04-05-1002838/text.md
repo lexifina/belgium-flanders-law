@@ -2487,7 +2487,11 @@ De Vlaamse Regering kan de nadere regels bepalen voor de wijze waarop een dossie
 
 ### ART. 16.4.39.
 
-Tegen de beslissing waarbij de gewestelijke entiteit een alternatieve   bestuurlijke geldboete oplegt, in voorkomend geval met voordeelontneming, kan   degene aan wie de boete werd opgelegd binnen een termijn van dertig dagen na de   kennisgeving van de bestreden beslissing beroep indienen bij het   Milieuhandhavingscollege. Het beroep schorst de bestreden   beslissing.
+Tegen de beslissing waarbij de gewestelijke entiteit een alternatieve bestuurlijke geldboete oplegt, in voorkomend geval met voordeelontneming, kan degene aan wie de boete werd opgelegd binnen een termijn van dertig dagen na de kennisgeving van de bestreden beslissing beroep indienen bij het Milieuhandhavingscollege. Het beroep schorst de bestreden beslissing.<br>
+<br>
+In afwijking van artikel 16.1.3, § 2, eerste lid, wordt de kennisgeving met een aangetekende brief tegen ontvangstbewijs geacht plaats te vinden op de werkdag die valt na de datum van de poststempel van de aangetekende brief tegen ontvangstbewijs, behalve in geval van bewijs van het tegendeel door de geadresseerde. Daarbij geldt alleen de datum van de aanbieding door de postdiensten, en niet de feitelijke kennisneming van de aangetekende brief op een later tijdstip. De datum van de poststempel heeft bewijskracht zowel voor de verzending als voor de ontvangst.<br>
+<br>
+In afwijking van artikel 16.1.3, § 2, tweede lid, wordt de kennisgeving door afgifte tegen ontvangstbewijs geacht plaats te vinden op de datum van het ontvangstbewijs.
 
 ## [Onderafdeling III Oplegging van een exclusieve bestuurlijke geldboete (verv. decr. 23 december 2010, art. 61, I: 22 juli 2011)]
 
@@ -2529,7 +2533,11 @@ Binnen een termijn van negentig dagen na de kennisgeving van het bericht   besli
 
 ### ART. 16.4.44.
 
-Tegen de beslissing waarbij de gewestelijke entiteit een exclusieve   bestuurlijke geldboete oplegt, in voorkomend geval met voordeelontneming, kan   degene aan wie de boete werd opgelegd binnen een termijn van dertig dagen na de   kennisgeving van de bestreden beslissing, beroep indienen bij het   Milieuhandhavingscollege. Het beroep schorst de bestreden beslissing.
+Tegen de beslissing waarbij de gewestelijke entiteit een exclusieve bestuurlijke geldboete oplegt, in voorkomend geval met voordeelontneming, kan degene aan wie de boete werd opgelegd binnen een termijn van dertig dagen na de kennisgeving van de bestreden beslissing, beroep indienen bij het Milieuhandhavingscollege. Het beroep schorst de bestreden beslissing.<br>
+<br>
+In afwijking van artikel 16.1.3, § 2, eerste lid, wordt de kennisgeving met een aangetekende brief tegen ontvangstbewijs geacht plaats te vinden op de werkdag die valt na de datum van de poststempel van de aangetekende brief tegen ontvangstbewijs, behalve in geval van bewijs van het tegendeel door de geadresseerde. Daarbij geldt alleen de datum van de aanbieding door de postdiensten, en niet de feitelijke kennisneming van de aangetekende brief op een later tijdstip. De datum van de poststempel heeft bewijskracht zowel voor de verzending als voor de ontvangst.<br>
+<br>
+In afwijking van artikel 16.1.3, § 2, tweede lid, wordt de kennisgeving door afgifte tegen ontvangstbewijs geacht plaats te vinden op de datum van het ontvangstbewijs.
 
 ## AFDELING V [... (opgeh. decr. 8 juni 2018, art. 38, I: 12 juli 2018)]
 
