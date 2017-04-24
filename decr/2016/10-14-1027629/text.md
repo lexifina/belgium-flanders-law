@@ -160,6 +160,13 @@ In artikel 20bis van hetzelfde decreet, ingevoegd bij het decreet van 7 juli 200
 
 In artikel 20quater, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 29 april 2011 en gewijzigd bij het decreet van 29 maart 2013, worden de woorden "en is ertoe gehouden de grosse af te leveren op zijn verzoek" toegevoegd.
 
+### ART 17.
+
+In artikel 22 van hetzelfde decreet, vervangen bij het decreet van 24 maart 2006 en gewijzigd bij de decreten van 27 maart 2009, 9 maart 2012, 31 mei 2013 en 19 december 2014, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 2, tweede lid, wordt de zinsnede "Het houdt een verdeling in van de middelen over de nieuwbouw en vervangingsbouw van sociale huurwoningen, de renovatie, verbetering of aanpassing van sociale huurwoningen en de bijzondere sociale leningen als vermeld in artikel 79," vervangen door de zinsnede "Het houdt een verdeling in van de middelen over de nieuwbouw en vervangingsbouw van sociale huurwoningen, de renovatie, verbetering of aanpassing van sociale huurwoningen, gemengde sociale woonprojecten als vermeld in artikel 2, § 1, eerste lid, 32°, a), en de bijzondere sociale leningen als vermeld in artikel 79,";<br>
+2° in paragraaf 2, vierde lid, 3°, wordt tussen de zinsnede "vermeld in 1°, " en de zinsnede "(overeenstemmend" de zinsnede "en voor de realisatie van een gemengd sociale woonproject als vermeld in artikel 2, § 1, eerste lid, 32°, a)" ingevoegd.<br>
+&nbsp;
+
 ### ART 18.
 
 In titel IV, hoofdstuk II, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 december 2014, wordt het opschrift van afdeling 2 vervangen door wat volgt:<br>
@@ -262,6 +269,11 @@ In artikel 40, § 1, van hetzelfde decreet, vervangen bij het decreet van 24 maa
 In artikel 42, eerste lid, van hetzelfde decreet, vervangen bij decreet van 24 maart 2006 en gewijzigd bij de decreten van 29 april 2011 en 23 december 2011, wordt de zinsnede "en tweede lid, en § 5, en van artikel 37, tweede lid," vervangen door de zinsnede "lid, en § 5, en van artikel 37, vierde lid,".<br>
 &nbsp;
 
+### ART 29.
+
+Artikel 43 van hetzelfde decreet, vervangen bij het decreet van 24 maart 2006 en gewijzigd bij de decreten van 29 april 2011, 31 mei 2013 en 31 januari 2014, wordt opgeheven.<br>
+&nbsp;
+
 ### ART 30.
 
 Artikel 55 van hetzelfde decreet, vervangen bij het decreet van 24 maart 2006, wordt vervangen door wat volgt:<br>
@@ -302,6 +314,14 @@ In artikel 65 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 
 In artikel 78, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 20 december 2002, 24 maart 2006, 22 december 2006, 29 april 2011 en 31 mei 2013, wordt tussen het vierde en het vijfde lid een lid ingevoegd, dat luidt als volgt:<br>
 "De Vlaamse Regering stelt de gevallen vast waarbij, om bijzondere sociale redenen, de sommen die in het kader van de uitvoering van de waarborg, vermeld in het vierde lid, aan de kredietmaatschappijen en -instellingen werden betaald, niet worden teruggevorderd bij de kredietnemers.".<br>
+&nbsp;
+
+### ART 36.
+
+In hetzelfde decreet wordt hoofdstuk V van titel VI, dat bestaat uit artikel 84, vervangen door wat volgt:<br>
+"HOOFDSTUK V. - Verschuldigde vergoeding wegens niet-naleving van verbintenissen<br>
+<br>
+Art. 84. Als de gezinnen of alleenstaanden, vermeld in artikel 34, § 3, eerste lid, 2°, de sociale koopwoning, binnen een termijn van twintig jaar die volgt op de aankoop, verhuren of er een zakelijk recht op afstaan of de sociale koopwoning gedurende die termijn niet zelf bewonen, betalen ze een vergoeding die de Vlaamse Regering bepaalt en die in verhouding is met de overheidsinvesteringen. De vergoeding wordt toegewezen aan het Fonds voor de Huisvesting.".<br>
 &nbsp;
 
 ### ART 37.
