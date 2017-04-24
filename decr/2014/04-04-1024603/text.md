@@ -42,7 +42,11 @@ De kredieten die nodig zijn voor de werking van de Vlaamse   bestuursrechtscolle
 
 ### ART. 6.
 
-<P>De rol van beheerder, hoofdgriffier, griffier en referendaris wordt opgenomen   door personeelsleden van de dienst van de Bestuursrechtscolleges.<BR></P>  <P>Deze personeelsleden kunnen hun functie bij de dienst van de   Bestuursrechtscolleges niet cumuleren met een andere functie bij de diensten van   de Vlaamse overheid.<BR></P>  <P>De personeelsleden oefenen hun ambt onafhankelijk en onpartijdig uit. Zij   mogen geen nadeel ondervinden van de uitoefening van hun   taken.<BR></P>
+<p>De functie van beheerder, hoofd van het coördinatiebureau, hoofdgriffier, griffier, griffiemedewerker, coördinatiejurist en referendaris wordt opgenomen door personeelsleden van de dienst van de Bestuursrechtscolleges.</p>
+
+<p>Deze personeelsleden kunnen hun functie bij de dienst van de Bestuursrechtscolleges niet cumuleren met een andere functie bij de diensten van de Vlaamse overheid.</p>
+
+<p>De personeelsleden oefenen hun ambt onafhankelijk en onpartijdig uit. Zij mogen geen nadeel ondervinden van de uitoefening van hun taken.</p>
 
 ## Afdeling 2 Werking
 
@@ -50,7 +54,13 @@ De kredieten die nodig zijn voor de werking van de Vlaamse   bestuursrechtscolle
 
 ### ART. 7.
 
-<P>De hoofdgriffier en de beheerder zetelen met raadgevende stem in de algemene   vergadering, wat hun respectieve bevoegdheden betreft.<BR></P>  <P>De algemene vergadering beslist onder meer over de volgende   aangelegenheden:<BR>1° de aanstelling van de eerste voorzitter;<BR>2° de   hernieuwing van het mandaat van eerste voorzitter;<BR>3° de goedkeuring en   wijziging van het huishoudelijk reglement van de algemene vergadering en de   Vlaamse bestuursrechtscolleges;<BR>4° andere strategische aangelegenheden   betreffende de werking en organisatie van de Vlaamse   bestuursrechtscolleges.<BR></P>
+<p>De hoofdgriffier, het hoofd van het coördinatiebureau en de beheerder zetelen met raadgevende stem in de algemene vergadering, wat hun respectieve bevoegdheden betreft.</p>
+
+<p>De algemene vergadering beslist onder meer over de volgende aangelegenheden:<br>
+1° de aanstelling van de eerste voorzitter;<br>
+2° de hernieuwing van het mandaat van eerste voorzitter;<br>
+3° de goedkeuring en wijziging van het huishoudelijk reglement van de algemene vergadering en de Vlaamse bestuursrechtscolleges;<br>
+4° andere strategische aangelegenheden betreffende de werking en organisatie van de Vlaamse bestuursrechtscolleges.</p>
 
 ## Onderafdeling 2 Eerste voorzitter
 
@@ -60,7 +70,27 @@ De kredieten die nodig zijn voor de werking van de Vlaamse   bestuursrechtscolle
 
 ### ART. 9.
 
-<P>De eerste voorzitter is belast met de algemene en dagelijkse leiding van de   Vlaamse bestuursrechtscolleges.<BR></P>  <P>De eerste voorzitter is tevens hoofd van de dienst van de   Bestuursrechtscolleges.<BR></P>  <P>De eerste voorzitter kan bevoegdheden inzake het dagelijks beheer delegeren   aan de beheerder.<BR></P>  <P>Het dagelijks beheer omvat het technisch en financieel beheer, het beheer van   de infrastructuur, de communicatie en het personeelsmanagement van de   bestuursrechters en van de personeelsleden van de dienst van de   Bestuursrechtscolleges.<BR></P>  <P>De eerste voorzitter is belast met het opmaken van een beleidsplan voor de   Vlaamse bestuursrechtscolleges.<BR></P>  <P>De eerste voorzitter stelt jaarlijks een werkingsverslag op waarin de   implementatie van zijn beleidsplan en de evaluatie ervan wordt uiteengezet. In   voorkomend geval bevat dat verslag de nodige bijsturingen van het plan, wijst   het de behoeften aan en bevat het voorstellen om de werking van de Vlaamse   bestuursrechtscolleges te verbeteren.<BR></P>  <P>Wanneer de behoeften van de dienst het rechtvaardigen kan de eerste   voorzitter maatregelen nemen die kunnen afwijken van de bepalingen in het   huishoudelijk reglement. Onder de behoefte van de dienst kan onder meer worden   begrepen de verdeling van de werklast, de onbeschikbaarheid van een   bestuursrechter, een vereiste deskundigheid, de goede voortgang van een zaak of   een andere daarmee vergelijkbare objectieve reden.<BR></P>  <P>De eerste voorzitter bewaakt de eenheid van rechtspraak of rechtsvorming   tussen de Vlaamse bestuursrechtscolleges. Hiertoe kan hij een zaak op eigen   initiatief of op vraag van een voorzitter toewijzen aan een kamer bestaande uit   de voorzitters van de Vlaamse bestuursrechtscolleges.<BR></P>  <P>De eerste voorzitter oefent het mandaat van korpschef uit.<BR></P>  <P>Het mandaat van korpschef omvat het hiërarchisch en functioneel gezag over de   bestuursrechters.<BR></P>
+<p>De eerste voorzitter is belast met de algemene en dagelijkse leiding van de Vlaamse bestuursrechtscolleges.</p>
+
+<p>De eerste voorzitter is tevens hoofd van de dienst van de Bestuursrechtscolleges.</p>
+
+<p>De eerste voorzitter kan bevoegdheden inzake het dagelijks beheer delegeren aan de beheerder.</p>
+
+<p>Het dagelijks beheer omvat het technisch en financieel beheer, het beheer van de infrastructuur, de communicatie en het personeelsmanagement van de bestuursrechters en van de personeelsleden van de dienst van de Bestuursrechtscolleges.</p>
+
+<p>De eerste voorzitter is belast met het opmaken van een beleidsplan voor de Vlaamse bestuursrechtscolleges.</p>
+
+<p>De eerste voorzitter stelt jaarlijks een werkingsverslag op waarin de implementatie van zijn beleidsplan en de evaluatie ervan wordt uiteengezet. In voorkomend geval bevat dat verslag de nodige bijsturingen van het plan, wijst het de behoeften aan en bevat het voorstellen om de werking van de Vlaamse bestuursrechtscolleges te verbeteren.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen met betrekking tot de opmaak, de inhoud en de timing van het beleidsplan en de evaluatie ervan in het werkingsverslag.</p>
+
+<p>Wanneer de behoeften van de dienst het rechtvaardigen kan de eerste voorzitter maatregelen nemen die kunnen afwijken van de bepalingen in het huishoudelijk reglement. Onder de behoefte van de dienst kan onder meer worden begrepen de verdeling van de werklast, de onbeschikbaarheid van een bestuursrechter, een vereiste deskundigheid, de goede voortgang van een zaak of een andere daarmee vergelijkbare objectieve reden.</p>
+
+<p>De eerste voorzitter bewaakt de eenheid van rechtspraak of rechtsvorming tussen de Vlaamse bestuursrechtscolleges. Hiertoe kan hij een zaak op eigen initiatief of op vraag van een voorzitter toewijzen aan een kamer bestaande uit de voorzitters van de Vlaamse bestuursrechtscolleges.</p>
+
+<p>De eerste voorzitter oefent het mandaat van korpschef uit.</p>
+
+<p>Het mandaat van korpschef omvat het hiërarchisch en functioneel gezag over de bestuursrechters.</p>
 
 ## Onderafdeling 3 Voorzitter
 
@@ -120,17 +150,82 @@ De decreten, vermeld in artikel 2, 1°, a) en b), stellen de personen vast   die
 
 ### ART. 19.
 
-De Vlaamse Regering kan regels vaststellen voor de behandeling van   verzoekschriften die in aanmerking komen voor een vereenvoudigde   procedure.<BR>
+De Vlaamse Regering kan regels vaststellen voor de behandeling van verzoekschriften die in aanmerking komen voor een verkorte procedure.
 
 ## Afdeling 3 Bepalingen die van toepassing zijn op de Raad voor Vergunningsbetwistingen
 
 ### ART. 20.
 
-<P>Elke belanghebbende kan tussenkomen in een hangende procedure.<BR></P>  <P>De decreten, vermeld in artikel 2, 1°, b), bepalen welke personen   belanghebbende zijn.<BR></P>  <P>De Vlaamse Regering bepaalt de vervaltermijnen die niet korter mogen zijn dan   twintig dagen.<BR></P>
+<p>Elke belanghebbende kan tussenkomen in een hangende procedure.</p>
+
+<p>De decreten, vermeld in artikel 2, 1°, b), bepalen welke personen belanghebbende zijn.</p>
+
+<p>De Vlaamse Regering bepaalt de vervaltermijnen, die niet korter mogen zijn dan twintig dagen, behalve bij vervaltermijnen die betrekking hebben op de verzoeken tot tussenkomst in de vorderingen, ingesteld conform artikel 40, § 2.</p>
 
 ### ART. 21.
 
-<P>§ 1. Het rolrecht dat verschuldigd is per verzoekende partij bij het indienen   van een verzoekschrift tot vernietiging, bedraagt 175 euro.<BR></P>  <P>Het rolrecht dat verschuldigd is per verzoekende partij bij het indienen van   een verzoekschrift tot schorsing of van een verzoekschrift tot schorsing wegens   uiterst dringende noodzakelijkheid, bedraagt 100 euro.<BR></P>  <P>Het rolrecht dat verschuldigd is per tussenkomende partij, bedraagt 100 euro,   ongeacht of de tussenkomst geldt voor de vordering tot schorsing of de vordering   tot vernietiging.<BR></P>  <P>De bedragen die verschuldigd zijn overeenkomstig dit artikel worden   vijfjaarlijks op 1 januari geïndexeerd op basis van de ABEX-index, met als   basisindex die van januari 2014, en met een eerste indexatie op 1 januari 2019.   De bedragen worden afgerond naar de dichtstbijzijnde euro. Als het bedrag   precies de helft van een euro is, wordt het bedrag naar boven afgerond.<BR></P>  <P>§ 2. De leidend ambtenaar van het Departement Ruimtelijke Ordening,   Woonbeleid en Onroerend Erfgoed of van het Departement Leefmilieu, Natuur en   Energie, of bij hun afwezigheid hun gemachtigden die optreden met toepassing van   artikel 105, § 2, 5°, respectievelijk 6°, van het decreet van 25 april 2014   betreffende de omgevingsvergunning zijn vrijgesteld van de betaling van enig   rolrecht, behalve in het geval de Vlaamse Regering de bevoegde overheid in   eerste aanleg is.<BR></P>  <P>§ 3. De verzoekende partij of tussenkomende partij die aantoont dat haar   inkomsten ontoereikend zijn, is vrijgesteld van de betaling van enig   rolrecht.<BR></P>  <P>De verzoekende partij of tussenkomende partij richt daarvoor een verzoek aan   de Raad voor Vergunningsbetwistingen, gelijktijdig met het indienen van haar   verzoekschrift.<BR></P>  <P>In het geval van het ontbreken van de bewijsstukken, vermeld in het eerste   lid, vraagt de griffier die op bij de verzoekende of tussenkomende   partij.<BR></P>  <P>De bewijsstukken worden bezorgd binnen een termijn van acht dagen, die ingaat   de dag na de betekening van de beveiligde zending, vermeld in het derde   lid.<BR></P>  <P>Bij het niet-tijdig bezorgen van de bewijsstukken, vermeld in het vierde lid,   wordt de verzoekende of tussenkomende partij geacht afstand te doen van haar   vraag tot vrijstelling van het rolrecht.<BR></P>  <P>De ontoereikendheid van de inkomsten wordt beoordeeld conform het koninklijk   besluit van 18 december 2003 tot vaststelling van de voorwaarden van de   volledige of gedeeltelijke kosteloosheid van de juridische tweedelijnsbijstand   en de rechtsbijstand.<BR></P>  <P>§ 4. Collectieve verzoekschriften geven aanleiding tot het betalen van zoveel   malen het recht als er verzoekende partijen zijn.<BR></P>  <P>Collectieve verzoekschriften tot tussenkomst geven aanleiding tot het betalen   van zoveel malen het recht als er tussenkomende partijen zijn.<BR></P>  <P>§ 5. De griffier brengt de verzoekende partij of tussenkomende partij   schriftelijk op de hoogte van het verschuldigde bedrag of de beslissing over de   vrijstelling van de betaling van het rolrecht.<BR></P>  <P>De storting gebeurt binnen een termijn van vijftien dagen, die ingaat de dag   na de betekening van de beveiligde zending, vermeld in het eerste lid.<BR></P>  <P>Als het bedrag niet binnen de termijn, vermeld in het tweede lid, is gestort   door de verzoekende partij, wordt het beroep niet-ontvankelijk   verklaard.<BR></P>  <P>Als het bedrag niet binnen de termijn, vermeld in het tweede lid, is gestort   door de tussenkomende partij, wordt het verzoekschrift tot tussenkomst   niet-ontvankelijk verklaard.<BR></P>  <P>De niet-tijdige betaling kan niet worden geregulariseerd.<BR></P>  <P>§ 6. De rechten die ingevolge paragraaf 1 verschuldigd zijn bij het indienen   van een verzoekschrift tot schorsing wegens uiterst dringende noodzakelijkheid   worden begroot in debet.<BR></P>
+<p>§ 1. Het rolrecht dat verschuldigd is per verzoekende partij bij de indiening van een verzoekschrift tot vernietiging, bedraagt 200 euro.<br>
+<br>
+Het rolrecht dat verschuldigd is per verzoekende partij bij de indiening van een verzoekschrift tot schorsing, ingediend conform artikel 40, § 1 of § 2, bedraagt 100 euro.<br>
+<br>
+Het rolrecht dat verschuldigd is per tussenkomende partij bij de indiening van een verzoekschrift tot tussenkomst, bedraagt 100 euro per vordering waarin een verzoek tot tussenkomst is ingediend, ongeacht of de tussenkomst geldt voor een vordering tot vernietiging of voor een vordering tot schorsing, ingediend conform artikel 40, § 1 en § 2.<br>
+<br>
+§ 2. De leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed of van het Departement Leefmilieu, Natuur en Energie, of bij hun afwezigheid hun gemachtigden die optreden met toepassing van artikel 105, § 2, 5°, respectievelijk 6°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning zijn vrijgesteld van de betaling van enig rolrecht, behalve in het geval de Vlaamse Regering de bevoegde overheid in eerste aanleg is.<br>
+<br>
+§ 3. De verzoekende partij of tussenkomende partij die aantoont dat haar inkomsten ontoereikend zijn, is vrijgesteld van de betaling van enig rolrecht.<br>
+<br>
+De verzoekende partij of tussenkomende partij richt daarvoor een verzoek aan de Raad voor Vergunningsbetwistingen, gelijktijdig met het indienen van haar verzoekschrift.<br>
+<br>
+In het geval van het ontbreken van de bewijsstukken, vermeld in het eerste lid, vraagt de griffier die op bij de verzoekende of tussenkomende partij. De griffier vraagt deze bewijsstukken evenwel niet op in het geval het een vordering tot schorsing, ingediend conform artikel 40, § 2, betreft.<br>
+<br>
+De bewijsstukken worden bezorgd binnen een termijn van acht dagen, die ingaat de dag na de betekening van de beveiligde zending, vermeld in het derde lid.<br>
+<br>
+Bij het niet-tijdig bezorgen van de bewijsstukken, vermeld in het vierde lid, wordt de verzoekende of tussenkomende partij geacht afstand te doen van haar vraag tot vrijstelling van het rolrecht.<br>
+<br>
+De ontoereikendheid van de inkomsten wordt beoordeeld conform het koninklijk besluit van 18 december 2003 tot vaststelling van de voorwaarden van de volledige of gedeeltelijke kosteloosheid van de juridische tweedelijnsbijstand en de rechtsbijstand.<br>
+<br>
+§ 4. Collectieve verzoekschriften geven aanleiding tot het betalen van zoveel malen het recht als er verzoekende partijen zijn.<br>
+<br>
+Collectieve verzoekschriften tot tussenkomst geven aanleiding tot het betalen van zoveel malen het recht als er tussenkomende partijen zijn.<br>
+<br>
+§ 5. De griffier brengt, bij een vordering tot vernietiging en een vordering tot schorsing, ingediend conform artikel 40, § 1, de verzoekende partij of de tussenkomende partij schriftelijk op de hoogte van het bedrag, verschuldigd conform paragraaf 1, of van de beslissing over de vrijstelling van de betaling van het rolrecht.De griffier vermeldt hierbij duidelijk de sanctie, zoals vermeld in paragraaf 6.<br>
+<br>
+De storting gebeurt binnen een termijn van vijftien dagen, die ingaat de dag na de betekening van de beveiligde zending, vermeld in het eerste lid.<br>
+<br>
+Als het bedrag niet binnen de termijn, vermeld in het tweede lid, is gestort door de verzoekende partij, wordt het beroep niet-ontvankelijk verklaard.<br>
+<br>
+Als het bedrag niet binnen de termijn, vermeld in het tweede lid, is gestort door de tussenkomende partij, wordt het verzoekschrift tot tussenkomst niet-ontvankelijk verklaard.<br>
+<br>
+De niet-tijdige betaling kan niet worden geregulariseerd.<br>
+<br>
+§ 6. Bij een vordering tot schorsing, ingesteld conform artikel 40, § 2, wordt het rolrecht, verschuldigd conform paragraaf 1, opgevraagd in de beschikking of het arrest tot bepaling van de rechtsdag.<br>
+<br>
+Het bewijs dat een overschrijvingsopdracht is gegeven of dat een storting is uitgevoerd tot betaling van het rolrecht, vermeld in het eerste lid, wordt overgelegd op de zitting waarop de vordering, ingesteld conform artikel 40, § 2, wordt behandeld.<br>
+<br>
+Als het rolrecht niet binnen een termijn van acht dagen te rekenen vanaf de dag na de betekening van de beschikking of het arrest tot bepaling van de rechtsdag is betaald, is de proceshandeling waarop de kwijting betrekking heeft, niet ontvankelijk.<br>
+<br>
+Als de verzoekende partij het rolrecht, verschuldigd conform paragraaf 1, niet tijdig heeft betaald, worden de schorsing en de voorlopige maatregelen, die zouden zijn bevolen, conform artikel 40, § 2, en artikel 41, opgeheven conform de procedure, vermeld in artikel 40, § 13.<br>
+<br>
+Als de tussenkomende partij het rolrecht, verschuldigd conform paragraaf 1, niet tijdig heeft betaald, kan ze geen voortzetting vragen van de rechtspleging.<br>
+<br>
+De niet-tijdige betaling kan niet worden geregulariseerd.<br>
+<br>
+§ 7. De Raad voor Vergunningsbetwistingen kan, op verzoek van een partij, een rechtsplegingsvergoeding toekennen, die een forfaitaire tegemoetkoming is in de kosten en honoraria van de advocaat van de partij die ten gronde in het gelijk wordt gesteld.<br>
+<br>
+De Vlaamse Regering bepaalt de basisbedragen en de minimum- en maximumbedragen van de rechtsplegingsvergoeding.<br>
+<br>
+De Raad voor Vergunningsbetwistingen kan, op gemotiveerde wijze, de vergoeding verlagen of verhogen, zonder echter de door de Vlaamse Regering bepaalde minimum- en maximumbedragen te overschrijden. In zijn beoordeling houdt hij rekening met:<br>
+1° de financiële draagkracht van de in het ongelijk gestelde partij, om het bedrag van de vergoeding te verlagen;<br>
+2° de complexiteit van de zaak;<br>
+3° de kennelijk onredelijke aard van de situatie.<br>
+<br>
+Als de in het ongelijk gestelde partij juridische tweedelijnsbijstand geniet, wordt de rechtsplegingsvergoeding vastgelegd op het minimumbedrag bepaald door de Vlaamse Regering, behalve in geval van een kennelijk onredelijke situatie. In dat geval omkleedt de Raad voor Vergunningsbetwistingen zijn beslissing tot vermindering of verhoging met bijzondere redenen.<br>
+<br>
+Als meer partijen de rechtsplegingsvergoeding ten laste van een of meer in het ongelijk gestelde partijen genieten, is het bedrag ervan maximaal het dubbel van de maximale rechtsplegingsvergoeding waarop de begunstigde die gerechtigd is om de hoogste vergoeding te eisen, aanspraak kan maken. Ze wordt door de Raad voor Vergunningsbetwistingen tussen de partijen verdeeld.<br>
+<br>
+De tussenkomende partijen kunnen niet worden gehouden tot de betaling van de rechtsplegingsvergoeding of die vergoeding genieten.<br>
+<br>
+Geen partij kan worden gehouden tot de betaling van de rechtsplegingsvergoeding of die vergoeding genieten, als de procedure, vermeld in artikel 42, leidt tot een bekrachtigd bemiddelingsakkoord.</p>
 
 ## Afdeling 4 Bepalingen die van toepassing zijn op de Raad voor Verkiezingsbetwistingen
 
@@ -182,6 +277,32 @@ Het arrest van de Raad van State wordt door de zorg van de griffie   onmiddellij
 
 ## [Afdeling 5 Bepalingen die van toepassing zijn op het (ing. decr. 9 december 2016, art. 8, I: 24 april 2017)] [handhavingscollege (verv. Decr. 25 april 2014, art. 143, I: 1 maart 2018)]
 
+### ART 31/1.
+
+§ 1. Het rolrecht dat verschuldigd is per verzoekende partij bij de indiening van een verzoekschrift tot vernietiging, bedraagt 100 euro.<br>
+<br>
+§ 2. De verzoekende partij die aantoont dat haar inkomsten ontoereikend zijn, is vrijgesteld van de betaling van enig rolrecht.<br>
+<br>
+De verzoekende partij richt daarvoor een verzoek aan het Milieuhandhavingscollege, gelijktijdig met de indiening van haar verzoekschrift.<br>
+<br>
+Als de bewijsstukken, vermeld in het eerste lid, ontbreken, vraagt de griffier die bij beveiligde zending op bij de verzoekende partij.<br>
+<br>
+De bewijsstukken worden bezorgd binnen een termijn van acht dagen, die ingaat de dag na de betekening van de beveiligde zending, vermeld in het derde lid.<br>
+<br>
+Als de bewijsstukken niet worden bezorgd binnen de termijn, vermeld in het vierde lid, wordt de verzoekende partij geacht afstand te doen van haar vraag tot vrijstelling van het rolrecht.<br>
+<br>
+De ontoereikendheid van de inkomsten wordt beoordeeld conform het koninklijk besluit van 18 december 2003 tot vaststelling van de voorwaarden van de volledige of gedeeltelijke kosteloosheid van de juridische tweedelijnsbijstand en de rechtsbijstand.<br>
+<br>
+§ 3. Collectieve verzoekschriften geven aanleiding tot het betalen van zoveel keer het recht als er verzoekende partijen zijn.<br>
+<br>
+§ 4. De griffier brengt de verzoekende partij bij beveiligde zending op de hoogte van het bedrag, verschuldigd conform paragraaf 1, of van de beslissing over de vrijstelling van de betaling van het rolrecht. De griffier vermeldt hierbij duidelijk de sanctie, zoals vermeld in het derde lid.<br>
+<br>
+Het bedrag wordt gestort binnen een termijn van vijftien dagen, die ingaat de dag na de betekening van de beveiligde zending, vermeld in het eerste lid.<br>
+<br>
+Als het bedrag niet binnen de termijn, vermeld in het tweede lid, is gestort door de verzoekende partij, wordt het beroep niet-ontvankelijk verklaard.<br>
+<br>
+De niet-tijdige betaling kan niet worden geregulariseerd.
+
 ## [Afdeling 6 Bepalingen die van toepassing zijn op de Raad voor betwistingen inzake studievoortgangsbeslissingen (ing. decr. 17 maart 2023, art. 19)]
 
 ## HOOFDSTUK 4 Arresten
@@ -194,7 +315,18 @@ Het arrest van de Raad van State wordt door de zorg van de griffie   onmiddellij
 
 ### ART. 33.
 
-<P>Een Vlaams bestuursrechtscollege legt in zijn arrest het geheel of een deel   van de kosten ten laste van de partij die ten gronde in het ongelijk gesteld   wordt.<BR></P>  <P>Indien toepassing wordt gemaakt van artikel 42 dan kan een Vlaams   bestuursrechtscollege de kosten geheel of gedeeltelijk ten laste van de   verwerende partij leggen.<BR><BR>Indien toepassing wordt gemaakt van artikel 34   dan legt een Vlaams bestuursrechtscollege de kosten geheel of gedeeltelijk ten   laste van de verwerende partij.<BR><BR>De kosten omvatten:<BR>1° het   getuigengeld;<BR>2° de kosten en erelonen van het onderzoek van de   deskundigen;<BR>3° de kosten van de bekendmaking conform artikel 47,   uitgezonderd wat de Raad voor Verkiezingsbetwistingen betreft.<BR><BR>Wat de   Raad voor Vergunningsbetwistingen betreft, omvatten de kosten ook het rolrecht,   vermeld in artikel 21.<BR></P>
+<p>Een Vlaams bestuursrechtscollege legt in zijn arrest het geheel of een deel van de kosten ten laste van de partij die ten gronde in het ongelijk gesteld wordt.<br>
+<br>
+Indien toepassing wordt gemaakt van artikel 34 dan legt een Vlaams bestuursrechtscollege de kosten geheel of gedeeltelijk ten laste van de verwerende partij.<br>
+<br>
+De kosten omvatten:<br>
+1° het getuigengeld;<br>
+2° de kosten en erelonen van het onderzoek van de deskundigen;<br>
+3° de kosten van de bekendmaking conform artikel 47, uitgezonderd wat de Raad voor Verkiezingsbetwistingen betreft.<br>
+<br>
+Wat de Raad voor Vergunningsbetwistingen betreft, omvatten de kosten ook het rolrecht en de rechtsplegingsvergoeding, vermeld in artikel 21, alsook de kosten, vermeld in artikel 42, § 5.<br>
+<br>
+Wat het Milieuhandhavingscollege betreft, omvatten de kosten ook het rolrecht, vermeld in artikel 31/1.</p>
 
 ## Afdeling 2 Bepalingen die van toepassing zijn op het [handhavingscollege (verv. decr. 25 april 2014, art. 143)] en de Raad voor Vergunningsbetwistingen
 
@@ -204,7 +336,11 @@ Het arrest van de Raad van State wordt door de zorg van de griffie   onmiddellij
 
 ### ART. 35.
 
-Als een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en   b), het beroep gegrond verklaart, vernietigt het de bestreden beslissing geheel   of gedeeltelijk, met behoud van de toepassing van artikel 34.<BR>
+Als een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), het beroep gegrond verklaart, vernietigt het de bestreden beslissing geheel of gedeeltelijk, met behoud van de toepassing van artikel 34.<br>
+<br>
+In zijn arrest beslecht een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), alle aangevoerde middelen, waarvan het oordeelt dat de beoordeling nuttig kan zijn in geval van een nieuwe beslissing of een andere handeling van het bestuur.<br>
+<br>
+Een onwettigheid geeft alleen aanleiding tot een vernietiging, als de partij die ze aanvoert, wordt benadeeld door de ingeroepen onwettigheid.
 
 ### ART. 36.
 
@@ -212,11 +348,30 @@ Als een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en   b), 
 
 ### ART. 37.
 
-<P>Na gehele of gedeeltelijke vernietiging kan een Vlaams bestuursrechtscollege   als vermeld in artikel 2, 1°, a) en b), de verwerende partij bevelen om met   inachtneming van de overwegingen opgenomen in zijn uitspraak een nieuwe   beslissing te nemen of een andere handeling te stellen. Het kan een termijn   opleggen voor de uitvoering van dat bevel.<BR></P>  <P>Een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), kan   daarbij de volgende voorwaarden opleggen:<BR>1° welbepaalde rechtsregels of   rechtsbeginselen moeten bij de totstandkoming van de nieuwe beslissing worden   betrokken;<BR>2° welbepaalde procedurele handelingen moeten voorafgaand aan de   nieuwe beslissing worden gesteld.<BR></P>
+§ 1. Na gehele of gedeeltelijke vernietiging kan een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), de verwerende partij bevelen om met inachtneming van de overwegingen die opgenomen zijn in zijn uitspraak een nieuwe beslissing te nemen of een andere handeling te stellen. Het kan daarbij de volgende voorwaarden opleggen:<br>
+1° welbepaalde rechtsregels of rechtsbeginselen moeten bij de totstandkoming van de nieuwe beslissing worden betrokken;<br>
+2° welbepaalde procedurele handelingen moeten voorafgaand aan de nieuwe beslissing worden gesteld;<br>
+3° welbepaalde onregelmatige motieven of kennelijk onredelijke motieven mogen niet bij de totstandkoming van de nieuwe beslissing worden betrokken.<br>
+<br>
+Een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), kan aan het bevel, opgelegd conform het eerste lid, een ordetermijn verbinden voor de uitvoering ervan.<br>
+<br>
+De ordetermijn, vermeld in het tweede lid, wordt geschorst zolang een cassatieberoep, gericht tegen het arrest van het Vlaams bestuursrechtscollege dat dit bevel bevat, aanhangig is bij de Raad van State.<br>
+<br>
+§ 2. Het Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, b), kan, als de nieuw te nemen beslissing, bevolen conform paragraaf 1, eerste lid, het gevolg is van een gebonden bevoegdheid van de verwerende partij, het arrest in de plaats stellen van die beslissing.
 
 ### ART. 38.
 
-<P>§ 1. Een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b),   kan bij ingebreke blijven van de verwerende partij, op verzoek van een partij   bepalen dat de verwerende partij, zolang ze niet voldoet aan een bevel, gegeven   met toepassing van artikel 37, een dwangsom verbeurt ten voordele van de partij   die om de oplegging van een dwangsom heeft verzocht.<BR></P>  <P>Het verzoek is slechts ontvankelijk wanneer de verzoeker de verwerende partij   bij een beveiligde zending tot het nemen van een nieuwe beslissing heeft   aangemaand en ten minste drie maanden vanaf de kennisgeving van het   vernietigingsarrest verlopen zijn. De dwangsom kan niet worden verbeurd alvorens   het arrest waarbij zij is vastgesteld, wordt betekend.<BR></P>  <P>§ 2. Een Vlaams bestuursrechtscollege kan de dwangsom hetzij op een bedrag   ineens, hetzij op een bedrag per tijdseenheid of per overtreding vaststellen. In   de laatste twee gevallen kan een Vlaams bestuursrechtscollege eveneens een   bedrag bepalen waarboven geen dwangsom meer verbeurd wordt.<BR></P>  <P>§ 3. De kamer die de dwangsom heeft opgelegd kan op vordering van de   verwerende partij de dwangsom opheffen, de looptijd ervan opschorten gedurende   een door haar te bepalen termijn of de dwangsom verminderen in geval van   blijvende of tijdelijke of gedeeltelijke onmogelijkheid voor de verwerende   partij om aan het bevel gegeven met toepassing van artikel 37 te voldoen. Voor   zover de dwangsom verbeurd was voordat de onmogelijkheid intrad, kan de kamer   haar niet opheffen of verminderen.<BR></P>  <P>De partij op wiens verzoek reeds een dwangsom werd opgelegd kan vragen om een   bijkomende dwangsom op te leggen of om de opgelegde dwangsom te verhogen als de   verwerende partij manifest in gebreke blijft uitvoering te geven aan het bevel,   gegeven met toepassing van artikel 37.<BR></P>  <P>§ 4. De bepalingen van het vijfde deel van het Gerechtelijk Wetboek die op   het beslag en de tenuitvoerlegging betrekking hebben, zijn van overeenkomstige   toepassing op de tenuitvoerlegging van het arrest waarbij een dwangsom is   opgelegd.<BR></P>
+<p>§ 1. Een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), kan in het vernietigingsarrest, op verzoek van een partij, een dwangsom opleggen aan de verwerende partij, zolang die niet voldoet aan een bevel, gegeven met toepassing van artikel 37, ten voordele van de partij die om de oplegging van een dwangsom heeft verzocht.<br>
+<br>
+De dwangsom kan niet worden verbeurd voor het arrest waarbij ze is vastgesteld, wordt betekend.<br>
+<br>
+§ 2. Een Vlaams bestuursrechtscollege kan de dwangsom hetzij op een bedrag ineens, hetzij op een bedrag per tijdseenheid of per overtreding vaststellen. In de laatste twee gevallen kan een Vlaams bestuursrechtscollege eveneens een bedrag bepalen waarboven geen dwangsom meer verbeurd wordt.<br>
+<br>
+§ 3. De kamer die de dwangsom heeft opgelegd kan op vordering van de partij, aan wie een dwangsom is opgelegd, de dwangsom opheffen, de looptijd ervan opschorten gedurende een door haar te bepalen termijn of de dwangsom verminderen in geval van blijvende of tijdelijke of gedeeltelijke onmogelijkheid voor de partij, aan wie een dwangsom is opgelegd, om aan het bevel gegeven met toepassing van artikel 37 te voldoen. Voor zover de dwangsom verbeurd was voordat de onmogelijkheid intrad, kan de kamer haar niet opheffen of verminderen.<br>
+<br>
+De partij op wiens verzoek reeds een dwangsom werd opgelegd kan vragen om een bijkomende dwangsom op te leggen of om de opgelegde dwangsom te verhogen als de partij, aan wie een dwangsom is opgelegd, manifest in gebreke blijft uitvoering te geven aan het bevel, gegeven met toepassing van artikel 37.<br>
+<br>
+§ 4. De bepalingen van het vijfde deel van het Gerechtelijk Wetboek die op het beslag en de tenuitvoerlegging betrekking hebben, zijn van overeenkomstige toepassing op de tenuitvoerlegging van het arrest waarbij een dwangsom is opgelegd.</p>
 
 ### ART. 39.
 
@@ -226,15 +381,100 @@ Als een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en   b), 
 
 ### ART. 40.
 
-<P>§ 1. Met behoud van de toepassing van artikel 14 kan de Raad voor   Vergunningsbetwistingen, op voorwaarde dat de vordering tot schorsing is   ingegeven door hoogdringendheid en op grond van een of meer ernstige middelen,   een bestreden beslissing schorsen bij wijze van voorlopige voorziening.<BR></P>  <P>De Raad voor Vergunningsbetwistingen houdt op verzoek van de verwerende of de   tussenkomende partij rekening met de waarschijnlijke gevolgen van de schorsing   van de tenuitvoerlegging voor alle belangen die kunnen worden geschonden, alsook   met het algemeen belang, en hij kan besluiten de schorsing niet te bevelen   indien de nadelige gevolgen ervan op een klaarblijkelijk onevenredige wijze   zwaarder wegen dan de voordelen.<BR></P>  <P>Een vordering tot schorsing schorst de proceduretermijnen van de vordering   tot vernietiging vanaf de datum van ontvangst van het verzoekschrift door de   Raad voor Vergunningsbetwistingen tot de dag na de betekening van het arrest   waarin de schorsing wordt bevolen of van het door de verzoekende partij   ingediende verzoek tot voortzetting van de rechtspleging.<BR></P>  <P>Het schorsingsarrest wordt op verzoek gewezen, nadat de partijen zijn gehoord   of behoorlijk opgeroepen.<BR></P>  <P>Als de verzoekende partij noch verschijnt, noch vertegenwoordigd is op de   zitting, wordt de vordering tot schorsing verworpen.<BR></P>  <P>Het verzoekschrift omschrijft in voorkomend geval de redenen op grond   waarvan, bij wijze van voorlopige voorziening, om de schorsing van de   tenuitvoerlegging van een beslissing wordt verzocht.<BR></P>  <P>Wanneer een vordering tot schorsing wordt verworpen wegens het gebrek aan   hoogdringendheid kan een nieuwe vordering slechts worden ingediend indien die   steunt op nieuwe elementen die de hoogdringendheid van deze vordering   rechtvaardigen. De Raad voor Vergunningsbetwistingen kan bovendien een termijn   bepalen waarin geen enkele nieuwe vordering tot schorsing kan worden ingediend   indien het enige nieuw ingeroepen element bestaat uit het verloop van   tijd.<BR></P>  <P>§ 2. In geval van uiterst dringende noodzakelijkheid kan de schorsing op   verzoek bij voorraad worden bevolen zonder dat de partijen of sommige van hen   zijn gehoord. In dit geval worden in het arrest dat de voorlopige schorsing   beveelt, de partijen binnen drie dagen opgeroepen om te verschijnen voor de   kamer die uitspraak doet over de bevestiging van de schorsing.<BR></P>  <P>§ 3. De Vlaamse Regering bepaalt de vervaltermijnen waarbinnen de partijen   het administratief dossier en hun nota's indienen. Deze vervaltermijnen mogen   niet korter zijn dan vijftien dagen, met uitzondering voor het indienen van het   administratief dossier bij de behandeling van de vordering tot schorsing wegens   uiterst dringende noodzakelijkheid.<BR></P>  <P>De Vlaamse Regering bepaalt de wijze waarop de partijen in kennis worden   gesteld van de neerlegging van het administratief dossier en de nota's.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels met betrekking tot de   behandeling van de vordering tot schorsing en van de schorsing wegens uiterst   dringende noodzakelijkheid.<BR></P>  <P>§ 4. Het arrest dat de schorsing of de voorlopige schorsing van de   tenuitvoerlegging van de bestreden beslissing beveelt kan op verzoek van een   partij een dwangsom opleggen aan de verwerende partij ten voordele van de partij   die om de oplegging van de dwangsom heeft verzocht. In dat geval is artikel 38,   §§ 2 tot en met 4, van toepassing.<BR></P>  <P>§ 5. De Raad voor Vergunningsbetwistingen kan de arresten waarbij de   schorsing is bevolen, op verzoek van de partijen of op eigen initiatief   opheffen.<BR></P>  <P>De opheffing is alleen mogelijk als nieuwe feiten, hetzij in rechte, hetzij   in feite, zich voordoen of als de omstandigheden zodanig veranderd zijn dat de   schorsing niet langer gerechtvaardigd is.<BR></P>  <P>De partijen worden uitgenodigd om te verschijnen op een zitting waarop de   vordering tot opheffing wordt behandeld.<BR></P>  <P>De Vlaamse Regering kan nadere regels bepalen voor de toepassing van de   procedureregeling voor de opheffing van arresten, met inbegrip van het bepalen   van termijnen en de organisatie van de zittingen, vermeld in dit   artikel.<BR></P>
+§ 1. Met behoud van de toepassing van artikel 14, kan de Raad voor Vergunningsbetwistingen op elk ogenblik de schorsing bevelen van de bestreden beslissing op voorwaarde dat wordt aangetoond dat:<br>
+1° de zaak hoogdringend is zodat de behandeling ervan onverenigbaar is met de behandelingstermijn van een vordering tot vernietiging;<br>
+2° en minstens één ernstig middel wordt aangevoerd dat de vernietiging van de bestreden beslissing op het eerste gezicht verantwoordt.<br>
+<br>
+§ 2. Met behoud van de toepassing van paragraaf 1, kan de Raad voor Vergunningsbetwistingen op elk ogenblik de schorsing bevelen wegens uiterst dringende noodzakelijkheid op voorwaarde dat wordt aangetoond dat:<br>
+1° de zaak uiterst dringend noodzakelijk is zodat de behandeling ervan onverenigbaar is met de behandelingstermijn van een vordering tot schorsing als vermeld in paragraaf 1;<br>
+2° en minstens één ernstig middel wordt aangevoerd dat de vernietiging van de bestreden beslissing op het eerste gezicht verantwoordt.<br>
+<br>
+In voorkomend geval kan deze schorsing, op verzoek, bij wijze van voorlopige maatregel worden bevolen zonder dat de partijen of sommige van hen zijn gehoord. In dat geval worden in het arrest dat de voorlopige schorsing beveelt, de partijen binnen drie dagen opgeroepen om te verschijnen voor de kamer die uitspraak doet over de bevestiging van de schorsing.<br>
+<br>
+§ 3. Het verzoekschrift, ingediend conform dit artikel, omschrijft de redenen op grond waarvan de schorsing van de tenuitvoerlegging van de bestreden beslissing wordt verzocht.<br>
+<br>
+§ 4. Met behoud van de toepassing van de procedure, vermeld in paragraaf 2, tweede lid, wordt het schorsingsarrest, uitgesproken conform dit artikel, gewezen nadat de partijen zijn gehoord of behoorlijk opgeroepen.<br>
+<br>
+Als de verzoekende partij noch verschijnt, noch vertegenwoordigd is op de zitting, wordt de vordering tot schorsing verworpen.<br>
+<br>
+§ 5. De Raad voor Vergunningsbetwistingen houdt, bij een vordering tot schorsing ingediend conform dit artikel, op verzoek van de verwerende of de tussenkomende partij rekening met de waarschijnlijke gevolgen van de schorsing van de tenuitvoerlegging voor alle belangen die kunnen worden geschonden, alsook met het algemeen belang, en hij kan besluiten de schorsing niet te bevelen als de nadelige gevolgen ervan op een klaarblijkelijk onevenredige wijze zwaarder wegen dan de voordelen.<br>
+<br>
+§ 6. Als een vordering tot schorsing, ingediend conform dit artikel, wordt verworpen wegens het gebrek aan hoogdringendheid of uiterst dringende noodzakelijkheid kan een nieuwe vordering alleen worden ingediend als die steunt op nieuwe elementen die de hoogdringendheid of uiterst dringende noodzakelijkheid ervan rechtvaardigen. De Raad voor Vergunningsbetwistingen kan bovendien een termijn bepalen waarin geen enkele nieuwe vordering tot schorsing kan worden ingediend als het enige nieuw ingeroepen element bestaat uit het verloop van tijd.<br>
+<br>
+§ 7. Als een vordering tot schorsing, ingediend conform dit artikel, en een vordering tot vernietiging aanhangig worden gemaakt bij de Raad voor Vergunningsbetwistingen, en als de verzoeker, in de loop van de schorsingsprocedure, afstand doet van het door hem ingediende beroep of als de bestreden beslissing wordt ingetrokken, zodat er geen uitspraak meer hoeft te worden gedaan, kan de Raad voor Vergunningsbetwistingen in een en hetzelfde arrest uitspraak doen over de vordering tot schorsing en over de vordering tot vernietiging.<br>
+<br>
+§ 8. De schorsing bevolen met toepassing van dit artikel wordt onmiddellijk opgeheven, met toepassing van de procedure, vermeld in paragraaf 13, als blijkt dat binnen de beroepstermijn bepaald in het decreet, vermeld in artikel 2, 1°, b), geen verzoekschrift tot vernietiging is ingediend.<br>
+<br>
+§ 9. Een verzoekschrift tot schorsing dat met toepassing van de procedure vermeld in dit artikel wordt ingesteld buiten de beroepstermijn bepaald in het decreet, vermeld in artikel 2, 1°, b), kan geen middelen bevatten die niet zijn geformuleerd in het verzoekschrift tot vernietiging.<br>
+<br>
+§ 10. Een vordering tot schorsing, ingediend conform dit artikel, stuit de vervaltermijnen voor de indiening van de nota's in het kader van de vordering tot vernietiging vanaf de datum van de ontvangst van het verzoekschrift door de Raad voor Vergunningsbetwistingen tot de dag na de betekening van het ingediende verzoek tot voortzetting van de rechtspleging. De griffier brengt de partijen daarvan onmiddellijk op de hoogte.<br>
+<br>
+§ 11. De Vlaamse Regering bepaalt de vervaltermijnen waarbinnen de partijen het administratieve dossier en hun nota's indienen. Die vervaltermijnen mogen niet korter zijn dan vijftien dagen bij vorderingen die ingesteld zijn conform de procedure, vermeld in paragraaf 1.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de behandeling van de vordering tot schorsing ingediend conform dit artikel.<br>
+<br>
+§ 12. Het arrest dat de schorsing van de tenuitvoerlegging van de bestreden beslissing beveelt, conform dit artikel, kan op verzoek van een partij een dwangsom opleggen aan een andere partij ten voordele van de partij die om de oplegging van de dwangsom heeft verzocht. In dat geval is artikel 38, § 2 tot en met § 4, van overeenkomstige toepassing.<br>
+<br>
+§ 13. De Raad voor Vergunningsbetwistingen kan de arresten waarbij de schorsing is bevolen, conform dit artikel, op verzoek van de partijen of op eigen initiatief opheffen.<br>
+<br>
+De opheffing is alleen mogelijk als nieuwe feiten, hetzij in rechte, hetzij in feite, zich voordoen of als de omstandigheden zodanig veranderd zijn dat de schorsing niet langer gerechtvaardigd is.<br>
+<br>
+De partijen worden uitgenodigd om te verschijnen op een zitting waarop de vordering tot opheffing wordt behandeld.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de toepassing van de procedureregeling voor de opheffing van arresten, met inbegrip van het bepalen van termijnen en de organisatie van de zittingen, vermeld in dit artikel.
 
 ### ART. 41.
 
-<P>Wanneer bij de Raad voor Vergunningsbetwistingen overeenkomstig artikel 40   een vordering tot schorsing of schorsing wegens uiterst dringende   noodzakelijkheid aanhangig wordt gemaakt kan hij als enige, bij voorraad en   onder de in artikel 40, § 1, eerste en tweede lid, bepaalde voorwaarden, alle   nodige maatregelen bevelen om de belangen van de partijen of van de personen die   belang hebben bij de oplossing van de zaak veilig te stellen, met uitzondering   van de maatregelen die betrekking hebben op de burgerlijke rechten.<BR></P>  <P>Deze maatregelen worden, nadat de partijen gehoord zijn of behoorlijk zijn   opgeroepen, bij een gemotiveerd arrest bevolen.<BR></P>  <P>Als de verzoekende partij noch verschijnt, noch vertegenwoordigd is op de   zitting, wordt de vordering tot het bevelen van voorlopige maatregelen   verworpen.<BR></P>  <P>Wanneer een vordering tot het bevelen van voorlopige maatregelen wordt   verworpen wegens het gebrek aan hoogdringendheid kan een nieuwe vordering   slechts worden ingediend indien die steunt op nieuwe elementen die de   hoogdringendheid van deze vordering rechtvaardigen. De Raad voor   Vergunningsbetwistingen kan bovendien een termijn bepalen waarin geen enkele   nieuwe vordering tot het bevelen van voorlopige maatregelen kan worden ingediend   indien het enige nieuw ingeroepen element bestaat uit het verloop van   tijd.<BR></P>  <P>In geval van uiterst dringende noodzakelijkheid kunnen voorlopige maatregelen   worden bevolen, zonder dat de partijen of sommige van hen gehoord worden. In dat   geval worden in het arrest dat de voorlopige maatregelen beveelt, de partijen   binnen drie dagen opgeroepen om te verschijnen voor de kamer die uitspraak doet   over de handhaving van de maatregelen die niet zouden zijn uitgevoerd.<BR></P>  <P>Artikel 40, §§ 4 en 5, vindt toepassing op de krachtens dit artikel   uitgesproken arresten.<BR></P>  <P>De Vlaamse Regering bepaalt de procedure met betrekking tot de in dit artikel   bedoelde maatregelen.<BR></P>
+<p>Als bij de Raad voor Vergunningsbetwistingen conform artikel 40 een vordering tot schorsing of schorsing wegens uiterst dringende noodzakelijkheid aanhangig wordt gemaakt kan hij als enige, op verzoek, bij voorraad en onder de voorwaarden, vermeld in artikel 40, § 1, § 2 en § 5, alle nodige maatregelen bevelen om de belangen van de partijen of van de personen die belang hebben bij de oplossing van de zaak veilig te stellen, met uitzondering van de maatregelen die betrekking hebben op de burgerlijke rechten.<br>
+<br>
+Deze maatregelen worden, nadat de partijen gehoord zijn of behoorlijk zijn opgeroepen, bij een gemotiveerd arrest bevolen.<br>
+<br>
+Als de verzoekende partij noch verschijnt, noch vertegenwoordigd is op de zitting, wordt de vordering tot het bevelen van voorlopige maatregelen verworpen.<br>
+<br>
+Wanneer een vordering tot het bevelen van voorlopige maatregelen wordt verworpen wegens het gebrek aan hoogdringendheid of uiterst dringende noodzakelijkheid kan een nieuwe vordering slechts worden ingediend indien die steunt op nieuwe elementen die de hoogdringendheid of uiterst dringende noodzakelijkheid van deze vordering rechtvaardigen. De Raad voor Vergunningsbetwistingen kan bovendien een termijn bepalen waarin geen enkele nieuwe vordering tot het bevelen van voorlopige maatregelen kan worden ingediend indien het enige nieuw ingeroepen element bestaat uit het verloop van tijd.<br>
+<br>
+In geval van uiterst dringende noodzakelijkheid kunnen voorlopige maatregelen worden bevolen, zonder dat de partijen of sommige van hen gehoord worden. In dat geval worden in het arrest dat de voorlopige maatregelen beveelt, de partijen binnen drie dagen opgeroepen om te verschijnen voor de kamer die uitspraak doet over de handhaving van de maatregelen die niet zouden zijn uitgevoerd.<br>
+<br>
+De maatregelen die bevolen zijn met toepassing van dit artikel worden onmiddellijk opgeheven, met toepassing van de procedure, vermeld in artikel 40, § 13, als blijkt dat binnen de beroepstermijn bepaald in het decreet, vermeld in artikel 2, 1°, b), geen verzoekschrift tot vernietiging is ingediend.<br>
+<br>
+Artikel 40, § 12 en § 13, zijn van overeenkomstige toepassing op de krachtens dit artikel uitgesproken arresten.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure met betrekking tot de in dit artikel bedoelde maatregelen.</p>
 
 ### ART. 42.
 
-<P>§ 1. Ter oplossing van een voor de Raad voor Vergunningsbetwistingen   gebrachte betwisting kan die op gezamenlijk verzoek van de partijen of op eigen   initiatief maar met akkoord van de partijen met een tussenuitspraak tot   bemiddeling beslissen zolang het beroep niet in beraad is genomen.<BR></P>  <P>§ 2. Bij inwilliging van het verzoek tot bemiddeling zendt de griffier   onmiddellijk een afschrift van het tussenarrest, vermeld in paragraaf 1, aan de   partijen en aan de bemiddelaar.<BR></P>  <P>De volgende personen kunnen door de Raad voor Vergunningsbetwistingen als   bemiddelaar worden aangewezen: bestuursrechters, griffiers, referendarissen of   derden die door de partijen gezamenlijk worden voorgesteld.<BR></P>  <P>De bemiddelaar voldoet aan de volgende voorwaarden:<BR>1° hij heeft een   grondige kennis van en nuttige ervaring in het betreffende domein van het   Vlaamse recht betreffende de ruimtelijke ordening of van het Vlaamse   milieurecht;<BR>2° hij geeft blijk van een vorming die passend is voor de   bemiddelingspraktijk;<BR>3° hij biedt de noodzakelijke waarborgen voor een   onafhankelijke en onpartijdige bemiddeling;<BR>4° hij heeft geen   strafrechtelijke veroordelingen of tuchtrechtelijke sancties opgelopen die   onverenigbaar zijn met de uitoefening van de functie van bemiddelaar.<BR></P>  <P>Tijdens de bemiddeling probeert de bemiddelaar een directe dialoog tot stand   te brengen tussen de partijen en verleent hij ondersteuning voor een goed   verloop van de dialoog. De bemiddeling verloopt volgens de volgende   principes:<BR>1° vrijwilligheid;<BR>2° onafhankelijkheid en onpartijdigheid van   de bemiddelaar;<BR>3° vertrouwelijkheid.<BR></P>  <P>De bemiddelaar kan ook derden bij de bemiddeling betrekken.<BR></P>  <P>§ 3. Als de bemiddeling tot een bemiddelingsakkoord leidt, kunnen de partijen   of een van hen de Raad voor Vergunningsbetwistingen verzoeken dat akkoord te   bekrachtigen.<BR></P>  <P>De Raad voor Vergunningsbetwistingen kan de bekrachtiging alleen weigeren als   het akkoord strijdig is met de openbare orde, de regelgeving of   stedenbouwkundige voorschriften.<BR></P>  <P>Bij het ontbreken van een bemiddelingsakkoord of als de Raad voor   Vergunningsbetwistingen vaststelt dat de randvoorwaarden voor een geslaagde   bemiddeling niet of niet langer zijn vervuld, wordt bij tussenarrest de   voortzetting van de jurisdictionele procedure bevolen.<BR></P>  <P>§ 4. Een verzoek tot bemiddeling schorst de proceduretermijnen vanaf de datum   van ontvangst van het verzoek door de Raad voor Vergunningsbetwistingen   tot:<BR>1° de datum van bekrachtiging van het bemiddelingsakkoord, vermeld in   paragraaf 3, eerste lid;<BR>2° de dag na de betekening van het tussenarrest,   vermeld in paragraaf 3, derde lid.<BR></P>  <P>§ 5. De Vlaamse Regering stelt de vormvereisten vast waaraan een verzoek tot   bemiddeling moet voldoen, de mogelijkheid tot regularisatie van deze vereisten   en de termijnen van de bemiddeling en alle aanvullende maatregelen betreffende   de organisatie van de bemiddeling.<BR></P>
+<p>§ 1. Ter oplossing van een voor de Raad voor Vergunningsbetwistingen gebrachte betwisting kan die op gezamenlijk verzoek van de partijen of op eigen initiatief maar met akkoord van de partijen met een tussenuitspraak tot bemiddeling beslissen zolang het beroep niet in beraad is genomen.<br>
+<br>
+§ 2. Bij inwilliging van het verzoek tot bemiddeling zendt de griffier onmiddellijk een afschrift van het tussenarrest, vermeld in paragraaf 1, aan de partijen en aan de bemiddelaar.<br>
+<br>
+De volgende personen kunnen door de Raad voor Vergunningsbetwistingen als bemiddelaar worden aangewezen: een personeelslid van de dienst van de Bestuursrechtscolleges derden die door de partijen gezamenlijk worden voorgesteld.<br>
+<br>
+De bemiddelaar voldoet aan de volgende voorwaarden:<br>
+1° hij heeft een grondige kennis van en nuttige ervaring in het betreffende domein van het Vlaamse recht betreffende de ruimtelijke ordening of van het Vlaamse milieurecht;<br>
+2° hij geeft blijk van een vorming die passend is voor de bemiddelingspraktijk;<br>
+3° hij biedt de noodzakelijke waarborgen voor een onafhankelijke en onpartijdige bemiddeling;<br>
+4° hij heeft geen strafrechtelijke veroordelingen of tuchtrechtelijke sancties opgelopen die onverenigbaar zijn met de uitoefening van de functie van bemiddelaar.<br>
+<br>
+Tijdens de bemiddeling probeert de bemiddelaar een directe dialoog tot stand te brengen tussen de partijen en verleent hij ondersteuning voor een goed verloop van de dialoog. De bemiddeling verloopt volgens de volgende principes:<br>
+1° vrijwilligheid;<br>
+2° onafhankelijkheid en onpartijdigheid van de bemiddelaar;<br>
+3° vertrouwelijkheid.<br>
+<br>
+De bemiddelaar kan ook derden bij de bemiddeling betrekken.<br>
+<br>
+§ 3. Als de bemiddeling tot een bemiddelingsakkoord leidt, kunnen de partijen of een van hen de Raad voor Vergunningsbetwistingen verzoeken dat akkoord te bekrachtigen.<br>
+<br>
+Als het bemiddelingsakkoord wordt bekrachtigd, worden in afwijking van artikel 33, eerste lid, de kosten zoals vermeld in artikel 33, derde en vierde lid, gelijk verdeeld over de partijen, tenzij anders bepaald wordt in het bemiddelingsakkoord.<br>
+<br>
+De Raad voor Vergunningsbetwistingen kan de bekrachtiging alleen weigeren als het akkoord strijdig is met de openbare orde, de regelgeving of stedenbouwkundige voorschriften.<br>
+<br>
+Bij het ontbreken van een bemiddelingsakkoord of als de Raad voor Vergunningsbetwistingen vaststelt dat de randvoorwaarden voor een geslaagde bemiddeling niet of niet langer zijn vervuld, wordt bij tussenarrest de voortzetting van de jurisdictionele procedure bevolen.<br>
+<br>
+§ 4. Een verzoek tot bemiddeling schorst de proceduretermijnen vanaf de datum van ontvangst van het verzoek door de Raad voor Vergunningsbetwistingen tot:<br>
+1° de datum van bekrachtiging van het bemiddelingsakkoord, vermeld in paragraaf 3, eerste lid;<br>
+2° de dag na de betekening van het tussenarrest, vermeld in paragraaf 3, vierde lid.<br>
+<br>
+§ 5. De Vlaamse Regering stelt de vormvereisten vast waaraan een verzoek tot bemiddeling moet voldoen, de mogelijkheid tot regularisatie van deze vereisten en de termijnen van de bemiddeling en alle aanvullende maatregelen betreffende de organisatie van de bemiddeling, alsook de kosten die voortvloeien uit de bemiddeling.</p>
 
 ### ART. 43.
 
@@ -294,7 +534,23 @@ De bestuursrechters nemen hun ambt op nadat ze in handen van de   functioneel be
 
 ### ART. 53.
 
-<P>De bestuursrechters kunnen op ieder moment ontslag nemen. Ze blijven evenwel   hun functie uitoefenen, tot ze zijn vervangen, maximaal gedurende zes   maanden.<BR></P>  <P>Een effectieve bestuursrechter houdt op zijn ambt uit te oefenen en wordt op   rust gesteld door de algemene vergadering op een van de volgende momenten:<BR>1°   op het einde van de maand waarin hij de leeftijd van zevenenzestig jaar   bereikt;<BR>2° na advies van een medische dienst, die expertise heeft inzake   vervroegde pensionering, als hij niet meer in staat is zijn ambt naar behoren te   vervullen wegens zware en blijvende gebrekkigheid. De Vlaamse Regering stelt   hiervoor de nadere regels vast.<BR></P>  <P>Op zijn verzoek en op voorstel van de eerste voorzitter kan de Vlaamse   Regering een effectieve bestuursrechter die de leeftijd van zevenenzestig jaar   heeft bereikt, machtigen om zijn ambt verder uit te oefenen totdat hij is   vervangen.<BR></P>
+<p>De bestuursrechters kunnen op ieder moment ontslag nemen. Ze blijven evenwel hun functie uitoefenen, tot ze zijn vervangen, maximaal gedurende zes maanden.<br>
+<br>
+Een effectieve bestuursrechter houdt op zijn ambt uit te oefenen en wordt op rust gesteld door de algemene vergadering op een van de volgende momenten:<br>
+1° op het einde van de maand waarin hij de leeftijd van zevenenzestig jaar bereikt;<br>
+2° na advies van een medische dienst, die expertise heeft inzake vervroegde pensionering, als hij niet meer in staat is zijn ambt naar behoren te vervullen wegens zware en blijvende gebrekkigheid. De Vlaamse Regering stelt hiervoor de nadere regels vast.<br>
+<br>
+Op zijn verzoek en op gemotiveerd advies van de eerste voorzitter kan de Vlaamse Regering een effectieve bestuursrechter die de leeftijd van zevenenzestig jaar heeft bereikt, machtigen om zijn ambt verder uit te oefenen tot de bestuursrechter de leeftijd van zeventig jaar heeft bereikt.<br>
+<br>
+De machtiging, vermeld in het derde lid, is een jaar geldig en kan worden hernieuwd.<br>
+<br>
+De bestuursrechter die zijn ambt verder wil uitoefenen nadat hij de leeftijd van zevenenzestig jaar heeft bereikt, dient daarvoor ten vroegste achttien maanden vóór de dag waarop hij de leeftijd van zevenenzestig jaar heeft bereikt en uiterlijk negen maanden voor die dag een verzoek in bij de eerste voorzitter.<br>
+<br>
+De bestuursrechter die een verzoek om hernieuwing van de machtiging wil indienen dient dat uiterlijk zes maanden voor het verstrijken van de vorige machtiging in.<br>
+<br>
+De bestuursrechter bezorgt tegelijkertijd een kopie van zijn verzoek, of in voorkomend geval van zijn verzoek om hernieuwing, aan de Vlaamse Regering.<br>
+<br>
+De eerste voorzitter bezorgt zijn gemotiveerd advies binnen een termijn van een maand aan de Vlaamse Regering.</p>
 
 ## Afdeling 4 De evaluatie van de effectieve bestuursrechters en de eerste voorzitter
 
