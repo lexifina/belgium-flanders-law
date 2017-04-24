@@ -2,16 +2,16 @@
   "codex_id": 1020966,
   "title": "Besluit van de Vlaamse Regering van 2011-11-10 tot bepaling van de nadere regelen voor [de monitoring van het sociaal woonaanbod, de sociale eigendomsverwerving en het aanbod van standplaatsen voor woonwagens, (verv. BVR 2 december 2016, art. 1, I: 3 februari 2017)] en tot bepaling van de methodologie en de criteria voor de uitvoering van een tweejaarlijkse voortgangstoets [citeeropschrift : \"Monitoringbesluit van 10 november 2011\"]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020966/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "1b61cb1759c1f37e46bb9b2ca5dede7e765b0e352b1aeb7a97ac0e6473c17488",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020966/VolledigDocument?datum=2017-04-24",
+  "source_sha256": "22403f6a64ff22e06915ecb35be2e8a1b90d285e46202644d6c06856c5cbbf74",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020966&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2017-04-24",
   "made": "2011-11-10",
   "gazette": "2011-11-28",
   "numac": 2011035967,
   "document_start": "2011-12-08",
   "document_end": "2020-12-31",
-  "in_force": "2017-04-01",
+  "in_force": "2017-04-24",
   "article_versions": 61,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-04-24; future article versions excluded; article text as the API gives it"
 }

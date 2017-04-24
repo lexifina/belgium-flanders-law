@@ -43,11 +43,11 @@ a) een huurwoning die deel uitmaakt van een woonproject met sociaal karakter;<br
 b) een huurwoning die vrijwillig verhuurd wordt conform de bepalingen, vermeld in het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode;<br>
 8° /2 met een sociale kavel gelijkgestelde kavel :<br>
 a) een kavel die deel uitmaakt van een woonproject met sociaal karakter;<br>
-b) een middelgrote kavel als vermeld in artikel 1, eerste lid, 6°, van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode;<br>
+b) ...;<br>
 c) een kavel die vrijwillig overgedragen wordt conform de bepalingen, vermeld in het voormelde besluit van de Vlaamse Regering van 29 september 2006;<br>
 8° /3 met een sociale koopwoning gelijkgestelde woning :<br>
 a) een koopwoning die deel uitmaakt van een woonproject met sociaal karakter;<br>
-b) een middelgrote koopwoning als vermeld in artikel 1, eerste lid, 7°, van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode;<br>
+b) ...;<br>
 c) een koopwoning die vrijwillig overgedragen wordt conform de bepalingen, vermeld in het voormelde besluit van de Vlaamse Regering van 29 september 2006;<br>
 9° minister : de Vlaamse minister, bevoegd voor wonen;<br>
 10° nulmeting : de nulmeting op het vlak van het bestaande sociaal woonaanbod, opgenomen in de bijlage die bij het decreet Grond- en Pandenbeleid is gevoegd;<br>
