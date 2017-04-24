@@ -588,7 +588,25 @@ De termijnen van vijf, tien of vijftien jaar, vermeld in artikel 102,   worden g
 
 ### ART. 105.
 
-<P>§ 1. De uitdrukkelijke of stilzwijgende beslissing betreffende een   omgevingsvergunning, genomen in laatste administratieve aanleg, of de aktename   van een melding, vermeld in artikel 111, kan bestreden worden bij de Raad voor   Vergunningsbetwistingen, vermeld in titel IV, hoofdstuk VIII, van de   VCRO.<BR></P>  <P>§ 2. Het beroep kan worden ingesteld door:<BR>1° de vergunningsaanvrager, de   vergunninghouder, de exploitant of de persoon die de melding heeft   verricht;<BR>2° het betrokken publiek;<BR>3° de leidend ambtenaar van de   adviesinstanties, vermeld in artikel 24 of in artikel 42 of bij zijn afwezigheid   zijn gemachtigde, als die instantie tijdig advies heeft verstrekt of als aan hem   ten onrechte niet om advies werd verzocht;<BR>4° het college van burgemeester en   schepenen als het tijdig advies heeft verstrekt of als het ten onrechte niet om   advies werd verzocht;<BR>5° de leidend ambtenaar van het Departement Leefmilieu,   Natuur en Energie of bij zijn afwezigheid zijn gemachtigde;<BR>6° de leidend   ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend   Erfgoed of bij zijn afwezigheid zijn gemachtigde.<BR></P>  <P>De persoon aan wie kan worden verweten dat hij een voor hem nadelige   vergunningsbeslissing niet heeft bestreden door middel van het daartoe   openstaande georganiseerd administratief beroep bij de bevoegde overheid,   vermeld in artikel 52, wordt geacht te hebben verzaakt aan zijn recht om zich   tot de Raad voor Vergunningsbetwistingen te wenden.<BR></P>  <P>§ 3. Het beroep wordt op straffe van onontvankelijkheid ingesteld binnen een   vervaltermijn van&nbsp;vijfenveertig dagen die ingaat:<BR>1° de dag na de datum   van de betekening, voor die personen of instanties aan wie de beslissing   betekend wordt;<BR>2° de dag na de eerste dag van de aanplakking van de   beslissing in de overige gevallen.<BR></P>  <P>§ 4. Elk van de personen, vermeld in paragraaf 2, eerste lid, kan in de zaak   tussenkomen.<BR></P>
+<p>§ 1. De uitdrukkelijke of stilzwijgende beslissing betreffende een omgevingsvergunning, genomen in laatste administratieve aanleg, of de aktename van een melding, vermeld in artikel 111, kan bestreden worden bij de Raad voor Vergunningsbetwistingen, vermeld in titel IV, hoofdstuk VIII, van de VCRO.</p>
+
+<p>§ 2. Het beroep kan worden ingesteld door:<br>
+1° de vergunningsaanvrager, de vergunninghouder, de exploitant of de persoon die de melding heeft verricht;<br>
+2° het betrokken publiek;<br>
+3° de leidend ambtenaar van de adviesinstanties, vermeld in artikel 24 of in artikel 42 of bij zijn afwezigheid zijn gemachtigde, als die instantie tijdig advies heeft verstrekt of als aan hem ten onrechte niet om advies werd verzocht;<br>
+4° het college van burgemeester en schepenen als het tijdig advies heeft verstrekt of als het ten onrechte niet om advies werd verzocht;<br>
+5° de leidend ambtenaar van het Departement Leefmilieu, Natuur en Energie of bij zijn afwezigheid zijn gemachtigde;<br>
+6° de leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed of bij zijn afwezigheid zijn gemachtigde.</p>
+
+<p>De persoon aan wie kan worden verweten dat hij een voor hem nadelige vergunningsbeslissing niet heeft bestreden door middel van het daartoe openstaande georganiseerd administratief beroep bij de bevoegde overheid, vermeld in artikel 52, wordt geacht te hebben verzaakt aan zijn recht om zich tot de Raad voor Vergunningsbetwistingen te wenden.<br>
+<br>
+De bevoegde overheid, vermeld in artikel 15, die nagelaten heeft een uitdrukkelijke beslissing te nemen in eerste administratieve aanleg, wordt geacht te hebben verzaakt aan zijn recht om zich tot de Raad voor Vergunningsbetwistingen te wenden, behoudens overmacht.</p>
+
+<p>§ 3. Het beroep wordt op straffe van onontvankelijkheid ingesteld binnen een vervaltermijn van&nbsp;vijfenveertig dagen die ingaat:<br>
+1° de dag na de datum van de betekening, voor die personen of instanties aan wie de beslissing betekend wordt;<br>
+2° de dag na de eerste dag van de aanplakking van de beslissing in de overige gevallen.</p>
+
+<p>§ 4. Elk van de personen, vermeld in paragraaf 2, eerste lid, kan in de zaak tussenkomen.</p>
 
 ## HOOFDSTUK 10 Meldingen
 
