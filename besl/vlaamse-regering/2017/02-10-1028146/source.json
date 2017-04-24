@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028146,
+  "title": "Besluit van de Vlaamse Regering van 2017-02-10 tot erkenning van de beroepskwalificatie toneelmeester",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028146/VolledigDocument?datum=2017-04-24",
+  "source_sha256": "14f345d4510eecf74407431c943a2e6694007b4513943eeb77c8dee8669e69e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028146&param=informatie",
+  "as_of": "2017-04-24",
+  "made": "2017-02-10",
+  "gazette": "2017-04-14",
+  "numac": 2017040134,
+  "document_start": "2017-04-24",
+  "document_end": null,
+  "in_force": "2017-04-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-04-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
