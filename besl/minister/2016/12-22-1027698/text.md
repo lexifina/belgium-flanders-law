@@ -401,7 +401,31 @@ De hoeveelheid vermeld in het eerste lid wordt verdubbeld voor een vissersvaartu
 
 ### ART 22.
 
-§ 1. De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa, b is verboden in de periode van 1 januari 2017 tot en met 31 december 2017.
+§ 1. De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa, b is verboden in de periode van 1 januari 2017 tot en met 31 december 2017.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 is het vanaf 1 juni 2017, alleen voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2017" voorkomen, toegestaan om in de ICES-gebieden VIIIa,b aanwezig te zijn.<br>
+<br>
+Om aan de lijst, vermeld in het eerste lid, toegevoegd te kunnen worden, richten de eigenaars van vissersvaartuigen voor 1 mei 2017 met een aangetekende brief of per fax een aanvraag tot de bevoegde entiteit.<br>
+<br>
+Als het aantal ingeschreven vaartuigen te hoog is in verhouding tot de beschikbare tongquota of beschikbare bruto tonnage, zal via loting dat aantal worden beperkt.<br>
+<br>
+§ 3. Van 1 juni 2017 tot en met 30 september 2017 is het in de ICES-gebieden VIIIa,b voor een vissersvaartuig, dat voorkomt op de lijst vermeld in paragraaf 2, verboden bij tongvangst een hoeveelheid te overschrijden die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Als uitgangspunt wordt de situatie op 1 mei 2017 genomen.<br>
+<br>
+De hoeveelheid, vermeld in het eerste lid, kan door de bevoegde entiteit worden herzien.<br>
+<br>
+§ 4. Bij overschrijding van de hoeveelheden tong, vermeld in paragraaf 3, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt toegekend voor 2018.<br>
+<br>
+§ 5. Voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2017" voorkomen, wordt de overeenkomstig artikel 16 toegekende hoeveelheid tong VIIf,g, voor de periode van 1 juli 2017 tot 31 oktober 2017 verminderd met 10 kg per kW.<br>
+<br>
+Als de voor de periode van 1 juli 2017 tot 31 oktober 2017 toegekende hoeveelheden tong ontoereikend zijn, zal dit tekort in mindering gebracht worden op de toegekende hoeveelheden voor de periode van 1 november 2017 tot 31 december 2017.<br>
+<br>
+§ 6. Bij niet naleving van paragraaf 1 of paragraaf 2 door een vissersvaartuig, wordt het aantal vaartdagen, vermeld in artikel 12, verminderd met 10.<br>
+<br>
+Bij niet naleving van paragraaf 1 of paragraaf 2 door een vissersvaartuig, zal het vissersvaartuig in 2018 niet aanwezig mogen zijn in de ICES-gebieden VIIIa,b.<br>
+<br>
+§ 7. Het de minimisquotum voor tong in de ICES-gebieden VIIIa,b wordt vastgelegd op 13.850 kg tong. De drempelwaarde, vermeld in artikel 8, voor de tongvisserij in de ICES-gebieden VIIIa,b bedraagt maximaal 8 % van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie.<br>
+<br>
+Bij uitputting van de minimisquotum, vermeld in het eerste lid, is het voor die vissersvaartuigen verboden nog gebruik te maken van de minimis voor tong afkomstig uit de ICES-gebieden VIIIa,b.
 
 ## Afdeling 2 Toewijzing van vangstmogelijkheden per zeereis
 
