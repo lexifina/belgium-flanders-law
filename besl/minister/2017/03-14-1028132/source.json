@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028132,
+  "title": "Ministerieel besluit van 2017-03-14 houdende wijziging van het ministerieel besluit van 11 maart 2008 betreffende de opleidingen tot energiedeskundige type A en type B, wat betreft het instellen van een verplichting tot het volgen van een permanente vorming voor energiedeskundigen type A",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028132/VolledigDocument?datum=2017-05-01",
+  "source_sha256": "0d617e6e74b3bae8c864b3576d7da0b9af30cb40b628f72bfd496a82cc9de025",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028132&param=informatie",
+  "as_of": "2017-05-01",
+  "made": "2017-03-14",
+  "gazette": "2017-04-12",
+  "numac": 2017011566,
+  "document_start": "2017-05-01",
+  "document_end": null,
+  "in_force": "2017-05-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2017-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
