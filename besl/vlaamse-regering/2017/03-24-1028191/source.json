@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028191,
+  "title": "Besluit van de Vlaamse Regering van 2017-03-24 tot wijziging van het koninklijk besluit van 19 april 2014 betreffende de inning en de consignatie van een som bij de vaststelling van overtredingen inzake het wegverkeer, wat betreft de verhoging van de sommen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028191/VolledigDocument?datum=2017-05-01",
+  "source_sha256": "05c655010b7206af215ca5c3f62256f085428afd55b34304534bea17007c8d56",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028191&param=informatie",
+  "as_of": "2017-05-01",
+  "made": "2017-03-24",
+  "gazette": "2017-04-28",
+  "numac": 2017030253,
+  "document_start": "2017-05-01",
+  "document_end": null,
+  "in_force": "2017-05-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2017-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
