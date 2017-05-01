@@ -972,6 +972,43 @@ In artikel 7.8.1, § 1, derde lid van hetzelfde besluit, ingevoegd bij het beslu
 
 ## HOOFDSTUK 6 Wijzigingen aan titel VIII van het Energiebesluit van 19 november 2010
 
+### ART 33.
+
+In artikel 8.1.1 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 20 mei 2011 en 10 juli 2015, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid worden tussen de woorden "of type D" en de zinsnede ", kan de minister" de woorden "of die al een erkenning hebben behaald in een van de andere gewesten of in een andere Europese lidstaat" ingevoegd;<br>
+2° aan het tweede lid worden de volgende zinnen toegevoegd:<br>
+"De minister kan nadere voorwaarden bepalen waaraan de opleidingsinstellingen moeten voldoen, en kan specificeren hoe de opleidingsinstellingen de gegevens van de deelnemers en de lesgevers aan het Vlaams Energieagentschap moeten bezorgen. De minister kan de termijnen bepalen waaraan het Vlaams Energieagentschap moet voldoen om een erkenningsaanvraag te behandelen.";<br>
+3° er worden tussen het tweede en derde lid drie leden ingevoegd, die luiden als volgt:<br>
+"De erkenningsaanvraag wordt door de opleidingsinstelling ingediend met het aanvraagformulier dat het Vlaams Energieagentschap ter beschikking stelt. De minister kan nadere regels bepalen met betrekking tot de inhoud van het aanvraagdossier.<br>
+<br>
+De minister kan voorwaarden bepalen waaraan de opleidingsinstellingen moeten voldoen als de erkenning is verkregen. Daaronder valt minstens de verplichte melding van elke wijziging in de gegevens van het aanvraagdossier van de erkende opleidingsinstelling. De minister kan de termijn bepalen waarin het Vlaams Energieagentschap op basis van de gemelde wijzigingen kan beslissen of de erkenning wordt opgeschort. De erkenning van de opleidingsinstelling voor de opleiding tot energiedeskundige type A, type B, type C en type D kan door het Vlaams Energieagentschap worden opgeschort als zonder voorafgaande melding wordt afgeweken van de gegevens uit het aanvraagdossier, of als de opleidingsinstelling de instructies van het Vlaams Energieagentschap voor de opleiding tot energiedeskundige type A, type B, type C en type D niet opvolgt.<br>
+<br>
+Om de kwaliteit van de gegeven opleidingen te waarborgen, kan het Vlaams Energieagentschap lesgevers bij wie het Vlaams Energieagentschap onbekwaamheid of, als ze optreden als energiedeskundige, kennelijke onbekwaamheid of niet-waarheidsgetrouwe rapporteringen vaststelt, verplichten om deel te nemen aan en te slagen voor het centrale examen, vermeld in artikel 8.1.1. Vanaf de betekening van die beslissing aan de lesgever en de opleidingsinstelling en totdat die lesgever slaagt voor dat centrale examen, mag de erkende opleidingsinstelling de betrokken lesgever niet tewerkstellen in de opleiding tot energiedeskundige. De erkenning van de opleidingsinstelling voor de opleiding tot energiedeskundige kan door het Vlaams Energieagentschap worden opgeschort als wordt vastgesteld dat niet aan de voormelde voorwaarde is voldaan.".<br>
+&nbsp;
+
+### ART 34.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2015, worden een artikel 8.1.1/1 en 8.1.1/2 ingevoegd, die luiden als volgt:<br>
+"Art. 8.1.1/1. Om als rechtspersoon te worden erkend als energiedeskundige type A, type B, type C of type D, moet aan een van de volgende bijzondere erkenningsvoorwaarden zijn voldaan:<br>
+1° de zaakvoerder of een bestuurder van de rechtspersoon voldoet aan de voorwaarden, vermeld in artikel 8.1.1;<br>
+2° minstens een natuurlijke persoon in dienst van de rechtspersoon voldoet aan de voorwaarden, vermeld in artikel 8.1.1.".<br>
+<br>
+Art. 8.1.1/2. Om door het Vlaamse Gewest erkend te blijven als energiedeskundige type A, type B, type C of type D in het kader van de energieprestatiecertificatenregelgeving, volgt de energiedeskundige type A, type B, type C of type D jaarlijks een vorming bij een door de minister erkende vormingsinstelling. Als de energiedeskundige type A,<br>
+type B, type C of type D een rechtspersoon is, volgt elke persoon, vermeld in artikel 8.1.1/1, die vorming. De minister legt de voorwaarden vast waaraan de energiedeskundige type A, type B, type C of type D moet voldoen, zoals het aantal uren en de toegestane vormingsactiviteit.<br>
+<br>
+De minister legt de voorwaarden vast waaraan een vormingsinstelling moet voldoen om voor erkenning in aanmerking te komen, en kan specificeren hoe de vormingsinstellingen de gegevens van de deelnemers en de lesgevers aan het Vlaams Energieagentschap moeten bezorgen. De minister kan de termijn bepalen waarin het Vlaams Energieagentschap een erkenningsaanvraag moet behandelen.<br>
+<br>
+De minister legt de voorwaarden vast waaraan de jaarlijkse vorming moet voldoen om in aanmerking te komen voor het behoud van de erkenning als energiedeskundige type A, type B, type C of type D. Die voorwaarden kunnen de nadere regels bevatten met betrekking tot de vorm, de inhoud en de duur van de vorming. Bij ingrijpende wijzigingen kan de minister bepalen dat de energiedeskundige type A, type B, type C of type D een test moet afleggen over de kennis die hij heeft opgedaan tijdens de permanente vorming. De minister kan nadere regels bepalen voor de inhoud en de organisatie van die test en kan de betaling van een retributie vragen voor de deelname aan de test.<br>
+<br>
+De erkenningsaanvraag wordt ingediend met het aanvraagformulier dat het Vlaams Energieagentschap ter beschikking stelt. De minister kan nadere regels bepalen met betrekking tot de inhoud van het aanvraagdossier.<br>
+<br>
+De minister kan nadere voorwaarden bepalen waaraan de vormingsinstelling moet voldoen als de erkenning is verkregen. Daaronder valt minstens de verplichte melding van elke wijziging in de gegevens van het aanvraagdossier van de erkende opleidingsinstelling voor permanente vorming. De minister kan ook termijnen bepalen waarin het Vlaams Energieagentschap de gemelde wijzigingen moet behandelen en waarin het Vlaams Energieagentschap kan beslissen of de erkenning wordt opgeschort. De erkenning van de opleidingsinstelling voor de permanente vorming kan door het Vlaams Energieagentschap worden opgeschort als zonder voorafgaande melding wordt afgeweken van de gegevens uit het aanvraagdossier of als de opleidingsinstelling de instructies van het Vlaams Energieagentschap met betrekking tot de permanente vorming niet opvolgt.<br>
+<br>
+Om de kwaliteit van de gegeven opleidingen te waarborgen, kan het Vlaams Energieagentschap lesgevers bij wie het Vlaams Energieagentschap onbekwaamheid of, als ze optreden als energiedeskundige, kennelijke onbekwaamheid of niet-waarheidsgetrouwe rapporteringen vaststelt, verplichten om deel te nemen aan en te slagen voor het centrale examen, vermeld in artikel 8.1.1. Vanaf de betekening van die beslissing aan de lesgever en de vormingsinstelling en totdat die lesgever slaagt voor dat centrale examen, mag de erkende vormingsinstelling de betrokken lesgever niet tewerkstellen in de permanente vorming. De erkenning van de vormingsinstelling voor permanente vorming kan door het Vlaams Energieagentschap worden opgeschort als wordt vastgesteld dat niet aan de voormelde voorwaarde is voldaan.<br>
+<br>
+De minister kan voorzien in afwijkingen van de voorwaarde, vermeld in artikel 8.1.1/2, eerste lid, voor energiedeskundigen type A, type B, type C en type D die door langdurige ziekte (minstens drie maanden aansluitend) of bevallingsrust gedurende een aantal maanden geen activiteiten kunnen uitoefenen als energiedeskundige type A, type B, type C of type D.".<br>
+&nbsp;
+
 ### ART 35.
 
 In artikel 8.4.1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 juli 2013 en gewijzigd bij het besluit van de Vlaamse Regering van 10 juli 2015, worden de volgende wijzigingen aangebracht:<br>
