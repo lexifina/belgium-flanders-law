@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027139,
+  "title": "Decreet van 2016-07-01 tot wijziging van de regelgeving voor ruimtelijke uitvoeringsplannen teneinde de planmilieueffectrapportage en andere effectbeoordelingen in het planningsproces voor ruimtelijke uitvoeringsplannen te integreren door wijziging van diverse decreten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027139/VolledigDocument?datum=2017-05-01",
+  "source_sha256": "f524696b9a7c0454988391a77ac9a2d027c34ee5d93eb66066bf6ee32a9f6a18",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027139&param=informatie",
+  "as_of": "2017-05-01",
+  "made": "2016-07-01",
+  "gazette": "2016-08-19",
+  "numac": 2016036276,
+  "document_start": "2017-05-01",
+  "document_end": null,
+  "in_force": "2017-05-01",
+  "article_versions": 66,
+  "record_form": "consolidated version as in force on 2017-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
