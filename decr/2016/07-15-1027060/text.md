@@ -159,6 +159,21 @@
 
 ## Afdeling 2 Wijzigingen van de Vlaamse Codex Ruimtelijke Ordening
 
+### ART 30.
+
+<span style="color: rgb(0, 0, 0);">In artikel 2.3.1 van de Vlaamse Codex Ruimtelijke Ordening wordt tussen het zesde en zevende lid een nieuw lid ingevoegd, dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"De Vlaamse Regering onderwerpt het ontwerp van gewestelijke stedenbouwkundige verordening aan een openbaar onderzoek. Het openbaar onderzoek duurt dertig dagen en wordt minstens aangekondigd door een bericht in het Belgisch Staatsblad. De Vlaamse Regering stelt nadere regels voor het openbaar onderzoek vast.".</span><br>
+&nbsp;
+
+### ART 31.
+
+<span style="color: rgb(0, 0, 0);">In artikel 2.3.2 van dezelfde codex worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0);">1° in paragraaf 1 wordt tussen het vierde en vijfde lid een nieuw lid ingevoegd, dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"De deputatie onderwerpt het ontwerp van provinciale stedenbouwkundige verordening aan een openbaar onderzoek. Het openbaar onderzoek duurt dertig dagen en wordt minstens aangekondigd door een bericht in het Belgisch Staatsblad. De Vlaamse Regering stelt nadere regels voor het openbaar onderzoek vast.";</span><br>
+<span style="color: rgb(0, 0, 0);">2° in paragraaf 2 wordt tussen het zesde en zevende lid een nieuw lid ingevoegd, dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"Het college van burgemeester en schepenen onderwerpt het ontwerp van gemeentelijke stedenbouwkundige verordening aan een openbaar onderzoek. Het openbaar onderzoek duurt dertig dagen en wordt minstens aangekondigd door een bericht in het Belgisch Staatsblad. De Vlaamse Regering stelt nadere regels voor het openbaar onderzoek vast.".</span><br>
+&nbsp;
+
 ## Afdeling 3 Wijzigingen van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechts|Upcolleges
 
 ## Afdeling 4 Wijzigingen van het decreet van 25 april 2014 betreffende de omgevingsvergunning
