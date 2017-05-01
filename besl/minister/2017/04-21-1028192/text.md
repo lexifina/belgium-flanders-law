@@ -46,6 +46,10 @@ Overwegende dat met het oog op de visserij-inspanningsbeperkingen, vermeld in ho
 <br>
 Besluit :
 
+### ART 1.
+
+In artikel 15, paragraaf 3, van het ministerieel besluit van 22 december 2016 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, wordt het getal "170" vervangen door het getal "200".
+
 ### ART 2.
 
 Aan artikel 22 van hetzelfde besluit worden een paragraaf 2 tot en met paragraaf 7 toegevoegd die luiden als volgt:<br>
@@ -72,3 +76,26 @@ Bij niet naleving van paragraaf 1 of paragraaf 2 door een vissersvaartuig, zal h
 § 7. Het de minimisquotum voor tong in de ICES-gebieden VIIIa,b wordt vastgelegd op 13.850 kg tong. De drempelwaarde, vermeld in artikel 8, voor de tongvisserij in de ICES-gebieden VIIIa,b bedraagt maximaal 8 % van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie.<br>
 <br>
 Bij uitputting van de minimisquotum, vermeld in het eerste lid, is het voor die vissersvaartuigen verboden nog gebruik te maken van de minimis voor tong afkomstig uit de ICES-gebieden VIIIa,b.".
+
+### ART 3.
+
+In artikel 27 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 3 maart 2017, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt het getal "100" vervangen door het getal "125";<br>
+2° in paragraaf 1, tweede lid, wordt het getal "200" vervangen door het getal "250".
+
+### ART 4.
+
+In artikel 28 van hetzelfde besluit, gewijzigd bij de ministeriële besluiten van 27 januari 2017 en 21 maart 2017, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 3, eerste lid, wordt de zinsnede "31 mei" vervangen door de zinsnede "30 april";<br>
+2° in paragraaf 3, tweede lid, wordt de zinsnede "1 juni" vervangen door de zinsnede "1 mei";<br>
+3° in paragraaf 4, eerste lid, wordt de zinsnede "31 december" vervangen door de zinsnede "15 april";<br>
+4° in paragraaf 4, tweede lid, wordt de zinsnede "31 december" vervangen door de zinsnede "15 april";<br>
+5° in paragraaf 4 wordt het derde lid opgeheven.
+
+### ART 5.
+
+&nbsp;In artikel 32 wordt de zinsnede "3, 10, 11, 13 en 30" vervangen door de zinsnede "3, 10, 11, 13, 22, § 4, 22, § 6, tweede lid, en 30".
+
+### ART 6.
+
+&nbsp;Dit besluit treedt in werking op 1 mei 2017, met uitzondering van artikel 2 dat in werking treedt op 28 april 2017.
