@@ -345,7 +345,11 @@ Als de grens van 745 euro, vermeld in artikel 2.1.5.0.1, § 1, 1°, wordt   over
 
 ### ART. 2.1.5.0.6.
 
-<P>Voor de onbebouwde onroerende goederen in het Vlaams Ecologisch Netwerk,   vermeld in artikel 17 van het decreet van 21 oktober 1997 betreffende het   natuurbehoud en het natuurlijk milieu, wordt aan de belastingplichtige een   belastingkrediet toegekend dat gelijk is aan 2,5 % van het kadastraal   inkomen.<BR></P>  <P>Het belastingkrediet, vermeld in het eerste lid, komt volledig ten laste van   het Vlaamse Gewest en kan nooit meer bedragen dan de onroerende voorheffing,   zoals bepaald in artikel 2.1.4.0.1.<BR></P>  <P>Het belastingkrediet, vermeld in het eerste lid, geldt vanaf de   inwerkingtreding van het definitief vastgestelde plan, vermeld in artikel 21, §   9, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu, of van het gewestelijk ruimtelijk uitvoeringsplan, vermeld in   artikel 2.2.8 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei   2009.<BR></P>
+<p>Voor de onbebouwde onroerende goederen in het Vlaams Ecologisch Netwerk, vermeld in artikel 17 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wordt aan de belastingplichtige een belastingkrediet toegekend dat gelijk is aan 2,5 % van het kadastraal inkomen.</p>
+
+<p>Het belastingkrediet, vermeld in het eerste lid, komt volledig ten laste van het Vlaamse Gewest en kan nooit meer bedragen dan de onroerende voorheffing, zoals bepaald in artikel 2.1.4.0.1.</p>
+
+<p>Het belastingkrediet, vermeld in het eerste lid, geldt vanaf de inwerkingtreding van het definitief vastgestelde plan, vermeld in artikel 21, § 9, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, of van het gewestelijk ruimtelijk uitvoeringsplan, vermeld in artikel 2.2.11 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.</p>
 
 ### ART. 2.1.5.0.7.
 
@@ -2410,7 +2414,9 @@ Het verkooprecht en het verdeelrecht dat geheven wordt bij de registratie   van 
 
 ### ART. 2.7.6.0.2.
 
-De waarde van de onbebouwde onroerende goederen in het Vlaams Ecologisch   Netwerk, vermeld in het artikel 17 tot en met het artikel 26bis van het decreet   van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wordt   van de erfbelasting vrijgesteld.<BR><BR>De vrijstelling geldt vanaf de   inwerkingtreding van het definitief vastgestelde plan, vermeld in artikel 21, §   9, van hetzelfde decreet, of van het gewestelijk ruimtelijk uitvoeringsplan,   vermeld in artikel 2.2.8 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei   2009.
+De waarde van de onbebouwde onroerende goederen in het Vlaams Ecologisch Netwerk, vermeld in het artikel 17 tot en met het artikel 26bis van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wordt van de erfbelasting vrijgesteld.<br>
+<br>
+De vrijstelling geldt vanaf de inwerkingtreding van het definitief vastgestelde plan, vermeld in artikel 21, § 9, van hetzelfde decreet, of van het gewestelijk ruimtelijk uitvoeringsplan, vermeld in artikel 2.2.11 van de Vlaamse Codex Ruimtelijke Ordening.
 
 ### ART. 2.7.6.0.3.
 
