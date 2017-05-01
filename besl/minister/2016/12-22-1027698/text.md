@@ -310,7 +310,7 @@ Het totale scholquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-es
 <br>
 § 2. Van 1 januari 2017 tot en met 31 oktober 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2017 worden opgevist.<br>
 <br>
-§ 3. Van 1 januari 2017 tot en met 30 juni 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 170 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2017 worden opgevist.<br>
+§ 3. Van 1 januari 2017 tot en met 30 juni 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2017 worden opgevist.<br>
 &nbsp;
 
 ## Onderafdeling 3 Tong Bristolkanaal en Keltische Zee - ICES-gebieden VIIf, g
@@ -517,9 +517,9 @@ In afwijking van het eerste en tweede lid worden de maximaal toegelaten vangstho
 
 ### ART 27.
 
-§ 1. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 1. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 125 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In afwijking van het eerste en tweede lid, worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2017 uitsluitend uitgerust is met de planken.<br>
 <br>
@@ -545,15 +545,13 @@ Het totale makreelquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-
 <br>
 § 2. In de periode van 1 januari 2017 tot en met 31 december 2017 is het voor een vissersvaartuig verboden bij de haringvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis, behalve in de ICES-gebieden I, II.<br>
 <br>
-§ 3. In de periode van 1 januari 2017 tot en met 31 mei 2017 is het voor een vissersvaartuig verboden bij de heekvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis.<br>
+§ 3. In de periode van 1 januari 2017 tot en met 30&nbsp;april 2017 is het voor een vissersvaartuig verboden bij de heekvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis.<br>
 <br>
-In de periode van 1 juni 2017 tot en met 31 december 2017 is het voor een vissersvaartuig verboden bij de heekvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis.<br>
+In de periode van 1&nbsp;mei 2017 tot en met 31 december 2017 is het voor een vissersvaartuig verboden bij de heekvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis.<br>
 <br>
-§ 4. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig verboden bij de vangsten van bot en schar per zeereis een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 4. In de periode van 1 januari 2017 tot en met&nbsp;15 april&nbsp;2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig verboden bij de vangsten van bot en schar per zeereis een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In afwijking van het eerste lid is het voor een vissersvaartuig, in de periode van 1 april 2017 tot en met 31 december 2017 en dit zolang geen 80 % van het quotum is benut, verboden bij de bot- en scharvangsten per zeereis in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium), een hoeveelheid te overschrijden die gelijk is aan 2000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
-<br>
-In afwijking van het eerste lid kan een vissersvaartuig met TR 1 tuig, in de periode van 1 juni 2017 tot en met 30 september 2017 zolang geen 67 % van het quotum is benut, vrij vissen op bot en schar.<br>
+In afwijking van het eerste lid is het voor een vissersvaartuig, in de periode van 1 april 2017 tot en met&nbsp;15 april&nbsp;2017 en dit zolang geen 80 % van het quotum is benut, verboden bij de bot- en scharvangsten per zeereis in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium), een hoeveelheid te overschrijden die gelijk is aan 2000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
 <br>
 § 5. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
@@ -631,4 +629,4 @@ Het ministerieel besluit van 18 december 2014 houdende tijdelijke aanvullende ma
 
 ### ART 32.
 
-Dit besluit treedt in werking op 1 januari 2017. Het houdt op van kracht te zijn op 1 januari 2018, met uitzondering van de artikelen 3, 10, 11, 13 en 30.
+Dit besluit treedt in werking op 1 januari 2017. Het houdt op van kracht te zijn op 1 januari 2018, met uitzondering van de artikelen 3, 10, 11, 13, 22, § 4, 22, § 6, tweede lid, en 30.
