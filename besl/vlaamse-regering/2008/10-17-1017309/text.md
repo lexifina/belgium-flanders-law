@@ -6,7 +6,12 @@ De Vlaamse Regering,<br /><br />Gelet op de decreten betreffende de radio-omroep
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder : <br />1° DVB : acroniem voor 'digital video broadcasting', Europese standaard voor digitale televisie;<br />2° DVB-H : acroniem voor 'digital video broadcasting - handheld', Europese standaard voor digitale televisie via de ether, voor ontvangst met draagbare toestellen zoals mobiele telefoons;<br />3° DAB : acroniem voor 'digital audio broadcasting', Europese standaard voor digitale radio;<br />4° Frequentieband III : frequenties van 174 MHz tot 230 MHz;<br />5° Frequentiebanden IV en V : frequenties van 470 MHz tot 862 MHz.
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° DVB : acroniem voor 'digital video broadcasting', Europese standaard voor digitale televisie;<br>
+2° ...;<br>
+3° DAB : acroniem voor 'digital audio broadcasting', Europese standaard voor digitale radio. DAB+ is een geavanceerde versie van DAB;<br>
+4° Frequentieband III : frequenties van 174 MHz tot 230 MHz;<br>
+5° Frequentiebanden IV en V : frequenties van 470 MHz tot 862 MHz.
 
 ### ART. 2.
 
