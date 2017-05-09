@@ -19,258 +19,234 @@ Frequentieband IIIDigitaal RRC06-allotmentfrequentieplan in de frequentiebanden 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<td colspan="2" style="background-color:transparent; width:460.6pt">
 			<p>Frequentieband III</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Theoretisch beoogd gebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>Frequentieblok of frequentiekanaal</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>12A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Nederlandse taalgebied en tweetalige gebied Brussel-Hoofdstad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>11A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Provincies West- en Oost-Vlaanderen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>5A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Provincie Vlaams-Brabant en het tweetalige gebied Brussel-Hoofdstad, de provincies Antwerpen en Limburg</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>5D</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Nederlandse taalgebied en tweetalige gebied Brussel-Hoofdstad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<td colspan="2" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:460.6pt">
 			<p>Frequentieband IV en V</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Theoretisch beoogd gebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>Frequentiekanaal</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Westelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>22</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Oostelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Westelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>40</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Oostelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>41</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Westelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>43</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Oostelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>44</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Westelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>46</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Oostelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>47</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
-			<p>Westelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>65</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
-			<p>Oostelijk deel van het Nederlandse taalgebied en het volledige tweetalige gebied Brussel-Hoofdstad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>62</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
-			<p>[… <em>(vernietigd arrest RvSt, nr. 218.637 van 27 maart 2012)</em>]</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Provincie Oost-Vlaanderen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>53</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Provincie Vlaams-Brabant</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>53</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Provincie Antwerpen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>59</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>[… <em>(vernietigd arrest RvSt, nr. 218.637 van 27 maart 2012)</em>]</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">&nbsp;</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Provincie West-Vlaanderen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>39</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Provincie Oost-Vlaanderen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>37</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Oostelijk deel van de provincie Vlaams Brabant</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>48</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Westelijk deel van de provincie Vlaams-Brabant en het volledige tweetalige taalgebied Brussel-Hoofdstad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>34</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Westelijk deel van de provincie Antwerpen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>26</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Oostelijk deel van de provincie Antwerpen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>23</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Provincie Limburg</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>23</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Provincie West-Vlaanderen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>49</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:356.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:356.4pt">
 			<p>Provincie Oost-Vlaanderen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:104.2pt">
 			<p>34</p>
 			</td>
 		</tr>
