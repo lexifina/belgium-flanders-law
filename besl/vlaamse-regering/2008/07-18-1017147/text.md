@@ -164,7 +164,8 @@ Voor het verkrijgen van de initiële zendvergunning of transportvergunning is ge
 
 ### ART. 28.
 
-Licentiehouders die het hen toegekende pakket van frequentieblokken of frequentiekanalen niet in gebruik nemen binnen twee jaar na verwerving kunnen hun licentie verliezen overeenkomstig artikel 29.<br /><br />
+Licentiehouders die het hen toegekende pakket van frequentieblokken of&nbsp; de hen toegekende individuele of gegroepeerde frequentiekanalen niet in gebruik nemen binnen twee jaar na verwerving kunnen hun licentie verliezen overeenkomstig artikel 29.<br>
+&nbsp;
 
 ### ART. 29.
 
