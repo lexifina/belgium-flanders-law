@@ -96,7 +96,16 @@ Aanvragen voor erkenningen of vergunningen en kennisgevingen worden in het Neder
 
 ### ART. 20.
 
-§ 1. Aanvragen of kennisgevingen die niet voldoen aan de ontvankelijkheidvoorwaarden, worden door de algemene kamer binnen vijfenveertig dagen na ontvangst door de Regulator, niet ontvankelijk verklaard. Vanaf de kennisgeving van die beslissing beschikt de aanvrager of kennisgever over vijftien dagen om de aanvraag te vervolledigen.<br /><br />§ 2. Als een aanvraag voldoet aan de ontvankelijkheidvoorwaarden, neemt de algemene kamer een beslissing binnen zestig dagen na de ontvangst van de aanvraag, behalve indien ze van oordeel is dat een voorafgaand onderzoek door een andere instantie noodzakelijk is. In dat laatste geval begint de termijn van zestig dagen te lopen vanaf de dag waarop het onderzoeksrapport van de andere instantie bij de Regulator is afgeleverd. De aanvrager wordt hiervan op de hoogte gebracht.<br /><br />Voor de erkenningprocedures waarvoor de aanvragen voor een bepaalde datum moeten worden ingediend, gaat, in afwijking van het eerste lid, de termijn van zestig dagen in op de dag dat de aanvraag uiterlijk moet zijn ingediend.<br /><br />De aanvrager kan worden opgeroepen om door de algemene kamer te worden gehoord. Indien de aanvrager hiertoe verzoekt, moet hij door de algemene kamer worden gehoord.<br /><br />§ 3. § 1 en § 2 zijn niet van toepassing op de aanvragen voor de erkenningen van de landelijke, regionale en lokale radio-omroeporganisaties. <br /><br />
+§ 1. Aanvragen of kennisgevingen die niet voldoen aan de ontvankelijkheidvoorwaarden, worden door de algemene kamer binnen vijfenveertig dagen na ontvangst door de Regulator, niet ontvankelijk verklaard. Vanaf de kennisgeving van die beslissing beschikt de aanvrager of kennisgever over vijftien dagen om de aanvraag te vervolledigen.<br>
+<br>
+§ 2. Als een aanvraag voldoet aan de ontvankelijkheidvoorwaarden, neemt de algemene kamer een beslissing binnen zestig dagen na de ontvangst van de aanvraag, behalve indien ze van oordeel is dat een voorafgaand onderzoek door een andere instantie noodzakelijk is. In dat laatste geval begint de termijn van zestig dagen te lopen vanaf de dag waarop het onderzoeksrapport van de andere instantie bij de Regulator is afgeleverd. De aanvrager wordt hiervan op de hoogte gebracht.<br>
+<br>
+Voor de erkenningprocedures waarvoor de aanvragen voor een bepaalde datum moeten worden ingediend, gaat, in afwijking van het eerste lid, de termijn van zestig dagen in op de dag dat de aanvraag uiterlijk moet zijn ingediend.<br>
+<br>
+De aanvrager kan worden opgeroepen om door de algemene kamer te worden gehoord. Indien de aanvrager hiertoe verzoekt, moet hij door de algemene kamer worden gehoord.<br>
+<br>
+§ 3. § 1 en § 2 zijn niet van toepassing op de aanvragen voor de erkenningen van de landelijke, regionale, netwerk- &nbsp;en lokale radio-omroeporganisaties.<br>
+&nbsp;
 
 ## Afdeling II Procedure inzake erkenningen
 
@@ -134,15 +143,15 @@ De erkende regionale radio-omroeporganisatie betaalt voor het gebruik en het beh
 
 ### ART. 29.
 
-§ 1. Om ontvankelijk te zijn, omvat de aanvraag tot erkenning van een lokale radio-omroeporganisatie :<br />1° de statuten van de rechtspersoon zoals ze verschenen zijn in het Belgisch Staatsblad en een afschrift van de akte van oprichting;<br />2° een afschrift van de in de bijlagen van het Belgisch Staatsblad gepubliceerde lijst van bestuurders met de vermelding van hun functie in de rechtspersoon;<br />3° een opgave van de plaats waar de exploitatiezetel, de productie-installaties en de zendinstallaties gelegen zullen zijn;<br />4° een gedetailleerde nota waarin de aanvrager het zendschema en het programma-aanbod opgeeft en nauwkeurig omschrijft waar en hoe hij een verscheidenheid van programma's zal brengen, inzonderheid inzake informatie uit het verzorgingsgebied en ontspanning, met de bedoeling binnen het verzorgingsgebied de communicatie bij de bevolking of de doelgroep te bevorderen;<br />5° een nota waarin wordt aangegeven op welke manier zal worden voldaan aan de informatieplicht vermeld in artikel 131 en 145, 2°, c) van het Mediadecreet;<br />6° een verklaring dat de lokale radio-omroeporganisatie eigendom is van en bestuurd wordt door de rechtspersoon en dat de rechtspersoon slechts één particuliere radio-omroeporganisatie exploiteert;<br />7° een verklaring dat de lokale radio-omroeporganisatie onafhankelijk is van een politieke partij;<br />8° een verklaring van de rechtspersoon dat hij verantwoordelijk is voor het beheer en de exploitatie van de lokale radio-omroeporganisatie, en waarin hij aantoont dat de programma's op de eigen verantwoordelijkheid van de lokale radio-omroeporganisatie worden gerealiseerd, zoals bepaald in artikel 129, tweede lid van het Mediadecreet;<br />9° een opgave van het redactiestatuut, de gegevens van de hoofdredacteur, en van de medewerkers van de radio-omroeporganisatie, met inbegrip van hun radio-ervaring;<br />10° een verklaring waarin de rechtspersoon de verbintenis aangaat een technische uitrusting te gebruiken conform de wettelijke voorschriften en de controlevoorschriften, en zich te houden aan de bepalingen van de zendvergunning;<br />11° een verklaring waarin de lokale radio-omroeporganisatie de verbintenis aangaat geen programma's aan te bieden die strijdig zijn met de openbare orde, de goede zeden, de veiligheid van de staat, of die een belediging kunnen betekenen voor andermans overtuiging of voor een vreemde staat;<br />12° een gedetailleerde nota waarin de aanvrager de infrastructuur waarover hij zal beschikken, nauwkeurig omschrijft;<br />13° een verklaring van de rechtspersoon waaruit blijkt dat het onderzoek naar de werking ter plaatse door de aangestelde ambtenaren wordt aanvaard;<br />14° als de lokale radio-omroeporganisatie wil uitzenden in een andere taal dan het Nederlands, een gedetailleerde nota waarin dat voornemen wordt toegelicht en waarin nauwkeurig het aantal uitzendingen en de duur van de uitzendingen in een vreemde taal worden aangegeven;<br />15° de opgave van de financiële structuur en van het financieel plan en, in voorkomend geval, van de aandeelhoudersstructuur;<br />16° een vermelding van de lokaliteit en frequentie of frequenties waarvoor een aanvraag wordt ingediend;<br />17° de opgave van de roepnaam en de herkenningsmelodie;<br />18° een verklaring of de lokale radio onafhankelijk zal werken dan wel zal deelnemen in een samenwerkingsverband;<br />19° het bewijs dat eventueel is voldaan aan de bepalingen van artikel 30;<br />20° de opgave van de netwerken die worden gebruikt om de omroepprogramma's door te geven.<br /><br />§ 2. Elke latere wijziging van deze informatie moet zonder verwijl aan de Regulator worden meegedeeld.<br /><br />§ 3. De aanvragen voor een erkenning worden ingediend door middel van een standaardformulier, dat op eenvoudig verzoek verkregen kan worden bij de Regulator.<br /><br />
+...
 
 ### ART. 30.
 
-Elke aanvrager van een erkenning als lokale radio-omroeporganisatie betaalt, voor hij zijn kandidatuur bij de Regulator indient, een som van 250 euro om de kosten voor frequentieonderzoeken en administratieve handelingen te dekken.<br /><br />Op straffe van niet-ontvankelijkheid moet het bewijs van betaling bij het aanvraagdossier worden gevoegd. In geen geval kan de aanvrager van een erkenning als lokale radio-omroeporganisatie de rechtstreeks of onrechtstreeks opgelopen kosten in het kader van de procedure terugvorderen van de Vlaamse Gemeenschap of van de Regulator. Enkel als de Regulator vaststelt dat niet aan de ontvankelijkheidvoorwaarden is voldaan, kan de betaalde som worden teruggevorderd.<br />
+...
 
 ### ART. 31.
 
-§ 1. Een kandidaat kan slechts voor één lokaliteit een dossier tot erkenning als lokale radio indienen. Als er meerdere frequenties per lokaliteit beschikbaar zijn, geeft de aanvrager zijn voorkeur aan. De aanvragen tot het verkrijgen van een erkenning moeten op straffe van niet-ontvankelijkheid binnen dertig dagen vanaf de publicatie van het bericht in het Belgisch Staatsblad ingediend worden bij de Regulator. Die termijn kan noch verlengd noch ingekort worden.<br /><br />§ 2. ...<br /><br />§ 3. De aanvraagdossiers bestaan uit de erkenningsaanvraag en alle bijbehorende documenten. De erkenningsaanvraag en alle bijbehorende documenten moeten in twee exemplaren worden ingediend. De aanvraagdossiers worden in het Nederlands ingediend.<br /><br />De aanvraagdossiers worden tegen ontvangstbewijs op de zetel van de Regulator afgegeven. Het ontvangstbewijs vermeldt de datum en het uur van afgifte.<br /><br />§ 4. De procedure van toekenning start de eerste werkdag nadat de in § 1 vermelde termijn is verstreken.<br /><br />§ 5. Op de eerste werkdag na het verstrijken van de in § 1 vermelde termijn stelt de algemene kamer een proces-verbaal op waarin alle ingediende aanvraagdossiers, gerangschikt volgens datum en uur van indiening, worden vermeld. Dat proces-verbaal wordt door de leden van de algemene kamer ondertekend. Een kopie van dat proces-verbaal wordt aan alle kandidaten bezorgd.
+...
 
 ### ART. 32.
 
@@ -160,7 +169,14 @@ Elke aanvrager van een erkenning als lokale radio-omroeporganisatie betaalt, voo
 
 ### ART. 35.
 
-Om ontvankelijk te zijn, omvat de aanvraag voor een zendvergunning voor een landelijke, regionale of lokale radio-omroeporganisatie of een wijziging ervan per frequentie :<br />1° een uittreksel van de landkaart (minimale schaal 1/25.000) waarop de bepaalde opstellingsplaats van de zendinstallatie wordt aangegeven, evenals de vermelding van de geografische coördinaten van deze plaats (lengte en breedte in graden, minuten en seconden);<br />2° het merk en het type van het genotificeerde zendtoestel;<br />3° het merk, het type en de karakteristieken van de antenne met de volledige technische specificaties van de fabrikant, het volledige stralingsdiagrama van de antenne, de hoogte van het midden van de nuttige stralingselementen van de antenne boven de begane grond en de cijferwaarde per 10° in geval van directionele antennes;<br />4° het type en de lengte van de kabel die de zendapparatuur met de antenne verbindt, met de vermelding van de volledige technische specificatie van de fabrikant.<br /><br />Elke wijziging in deze informatie wordt onverwijld aan de Regulator meegedeeld.<br /><br />
+Om ontvankelijk te zijn, omvat de aanvraag voor een zendvergunning voor een landelijke, regionale , netwerk-&nbsp;&nbsp;of lokale radio-omroeporganisatie of een wijziging ervan per frequentie :<br>
+1° een uittreksel van de landkaart (minimale schaal 1/25.000) waarop de bepaalde opstellingsplaats van de zendinstallatie wordt aangegeven, evenals de vermelding van de geografische coördinaten van deze plaats (lengte en breedte in graden, minuten en seconden);<br>
+2° het merk en het type van het genotificeerde zendtoestel;<br>
+3° het merk, het type en de karakteristieken van de antenne met de volledige technische specificaties van de fabrikant, het volledige stralingsdiagrama van de antenne, de hoogte van het midden van de nuttige stralingselementen van de antenne boven de begane grond en de cijferwaarde per 10° in geval van directionele antennes;<br>
+4° het type en de lengte van de kabel die de zendapparatuur met de antenne verbindt, met de vermelding van de volledige technische specificatie van de fabrikant.<br>
+<br>
+Elke wijziging in deze informatie wordt onverwijld aan de Regulator meegedeeld.<br>
+&nbsp;
 
 ### ART. 36.
 
@@ -174,15 +190,23 @@ Om ontvankelijk te zijn, omvat de aanvraag voor een zendvergunning voor een land
 
 ### ART. 38.
 
-In afwijking van de bepalingen van dit hoofdstuk, moet bij de aanvraag tot verlenging van een bestaande erkenning van een omroeporganisatie van het werkings- en financieel verslag van het voorafgaande kalenderjaar gevoegd zijn, aangevuld met de stukken die een wijziging inhouden ten opzichte van die verslagen, en die nog niet aan de Regulator werden meegedeeld.<br /><br />
+In afwijking van de bepalingen van dit hoofdstuk, moet bij de aanvraag tot verlenging van een bestaande erkenning van een&nbsp;regionale televisieomroeporganisatie van het werkings- en financieel verslag van het voorafgaande kalenderjaar gevoegd zijn, aangevuld met de stukken die een wijziging inhouden ten opzichte van die verslagen, en die nog niet aan de Regulator werden meegedeeld.<br>
+&nbsp;
 
 ### ART. 39.
 
-De algemene kamer kan op ieder ogenblik de erkenning van de particuliere omroeporganisatie of de vergunning van de erkende omroeporganisatie  schorsen of intrekken als de betrokkene zich niet houdt aan de bepalingen van het Mediadecreet, dit besluit, de voorwaarden van de erkenning, alsmede in geval van erkende landelijke, regionale en lokale radio-omroeporganisaties, als de betrokkene zich niet houdt aan de voorwaarden die betrekking hebben op de informatieve programma's, op de statuten of de aandeelhoudersstructuur waarvoor de Vlaamse Regering zijn goedkeuring niet heeft verleend, bepaald in de offerte die door de erkende radio-omroeporganisatie is ingediend, in overeenstemming waarmee de erkenning door de Vlaamse Regering werd afgeleverd.<br /><br />De schorsing of de intrekking wordt steeds voorafgegaan door een ingebrekestelling vanwege de algemene kamer die de omroeporganisatie de kans biedt aan alle voorschriften te voldoen. De omroeporganisatie of het omroepnetwerk beschikt over ten minste een maand vanaf de verzending van de ingebrekestelling om de toestand te regulariseren. Die termijn kan door de algemene kamer worden verlengd, naar gelang van de vastgestelde inbreuk.<br /><br />Op zijn verzoek wordt de omroeporganisatie gehoord.<br /><br />Geen enkele schorsing of intrekking geeft aanleiding tot een vergoeding noch tot terugbetaling van de vergoedingen die overeenkomstig artikel 22, 24, 26, 28 en 30 zijn betaald.<br /><br />
+De algemene kamer kan op ieder ogenblik de erkenning van de particuliere radio-omroeporganisatie of de zendvergunning van de erkende radio-omroeporganisatie schorsen of intrekken als de betrokkene zich niet houdt aan de bepalingen van het decreet van 27 maart 2009, dit besluit, de voorwaarden van de erkenning, alsook in geval van erkende landelijke, regionale en netwerk- en lokale radio-omroeporganisaties, als de betrokkene zich niet houdt aan de voorwaarden in overeenstemming waarmee de erkenning door de Vlaamse Regering is verleend.<br>
+<br>
+De schorsing of de intrekking wordt altijd voorafgegaan door een ingebrekestelling door de algemene kamer die de omroeporganisatie de kans biedt aan alle voorschriften te voldoen. De omroeporganisatie of het omroepnetwerk beschikt over ten minste een maand vanaf de verzending van de ingebrekestelling om de toestand te regulariseren. De voormelde termijn kan door de algemene kamer worden verlengd, naargelang van de vastgestelde inbreuk. Op haar verzoek wordt de omroeporganisatie gehoord.<br>
+<br>
+Geen enkele schorsing of intrekking geeft aanleiding tot een vergoeding noch tot terugbetaling van de kosten voor het indienen van een dossier tot erkenning als radio-omroeporganisatie of voor het jaarlijkse gebruik van een frequentie of een frequentiepakket
 
 ### ART. 40.
 
-Als een omroeporganisatie wil afzien van zijn erkenning of vergunning, deelt hij dat mee aan de Regulator.<br /><br />
+Als een omroeporganisatie wil afzien van zijn erkenning of vergunning, deelt hij dat mee aan de Regulator.<br>
+<br>
+Ter uitvoering van artikel 134, tweede lid, van het decreet van 27 maart 2009 gaat de Vlaamse Regulator voor de Media jaarlijks na welke erkende radio-omroeporganisaties al hun activiteiten stopgezet hebben. De Vlaamse Regulator voor de Media bezorgt die lijst aan de Vlaamse minister, bevoegd voor het mediabeleid.<br>
+&nbsp;
 
 ## Afdeling V [Procedure van kennisgevingen (verv. BVR 29 januari 2010, art. 21)]
 
