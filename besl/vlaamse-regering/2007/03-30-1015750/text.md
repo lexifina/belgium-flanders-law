@@ -6,7 +6,11 @@ De Vlaamse Regering,<br /><br />Gelet op de decreten betreffende de radio-omroep
 
 ### ART. 1.
 
-§ 1. Binnen dertig dagen na het verstrijken van de termijn, vermeld in artikel 23, § 3, van het besluit van de Vlaamse Regering van 30 juni 2006 betreffende de procedure voor de Vlaamse Regulator voor de Media, zendt de Vlaamse minister, bevoegd voor het mediabeleid, aan alle kandidaten voor het verkrijgen van een erkenning als landelijke radio-omroeporganisatie een lijst van alle kandidaturen die de minister ontvankelijk heeft bevonden.<br /><br />Binnen dertig dagen na het verstrijken van de termijn, vermeld in artikel 27, § 3, van het besluit van de Vlaamse Regering van 30 juni 2006 betreffende de procedure voor de Vlaamse Regulator voor de Media, zendt de Vlaamse minister, bevoegd voor het mediabeleid, aan alle kandidaten voor het verkrijgen van een erkenning als regionale radio-omroeporganisatie een lijst van alle kandidaturen die de minister ontvankelijk heeft bevonden.<br /><br />Binnen dertig dagen na het verstrijken van de termijn, vermeld in artikel 31, § 1, van het besluit van de Vlaamse Regering van 30 juni 2006 betreffende de procedure voor de Vlaamse Regulator voor de Media, zendt de Vlaamse minister, bevoegd voor het mediabeleid, aan alle kandidaten voor het verkrijgen van een erkenning als lokale radio-omroeporganisatie een lijst van alle kandidaturen die de minister ontvankelijk heeft bevonden.<br /><br />§ 2. De Vlaamse minister, bevoegd voor het mediabeleid, erkent de landelijke, regionale en lokale radio-omroeporganisaties binnen zestig dagen vanaf de datum van de kennisgeving aan alle kandidaten van de door hem ontvankelijk bevonden kandidaturen die de minister overeenkomstig paragraaf 1 ontvankelijk heeft bevonden.<br />
+§ 1. Binnen dertig dagen na het verstrijken van de termijn, vermeld in artikel 23, § 3, van het besluit van de Vlaamse Regering van 30 juni 2006 betreffende de procedure voor de Vlaamse Regulator voor de Media, zendt de Vlaamse minister, bevoegd voor het mediabeleid, aan alle kandidaten voor het verkrijgen van een erkenning als landelijke radio-omroeporganisatie een lijst van alle kandidaturen die de minister ontvankelijk heeft bevonden.<br>
+<br>
+Binnen dertig dagen na het verstrijken van de termijn, vermeld in artikel 27, § 3, van het besluit van de Vlaamse Regering van 30 juni 2006 betreffende de procedure voor de Vlaamse Regulator voor de Media, zendt de Vlaamse minister, bevoegd voor het mediabeleid, aan alle kandidaten voor het verkrijgen van een erkenning als regionale radio-omroeporganisatie een lijst van alle kandidaturen die de minister ontvankelijk heeft bevonden.<br>
+<br>
+§ 2. De Vlaamse minister, bevoegd voor het mediabeleid, erkent de landelijke en&nbsp;regionale radio-omroeporganisaties binnen zestig dagen vanaf de datum van de kennisgeving aan alle kandidaten van de door hem ontvankelijk bevonden kandidaturen die de minister overeenkomstig paragraaf 1 ontvankelijk heeft bevonden.
 
 ### ART. 2.
 
@@ -26,15 +30,18 @@ De Vlaamse minister, bevoegd voor het mediabeleid, kondigt per verzorgingsgebied
 
 ### ART. 6.
 
-De Vlaamse minister, bevoegd voor het mediabeleid, kondigt per lokaliteit in het Belgisch Staatsblad aan voor welke frequenties een aanvraag tot erkenning als lokale radio-omroeporganisatie kan worden ingediend, met vermelding van de voorwaarden en de termijnen.<br /><br />
+...
 
 ### ART. 7.
 
-Wat de lokale radio-omroeporganisaties betreft, onderzoekt de Vlaamse minister, bevoegd voor het mediabeleid, als meerdere kandidaten een ontvankelijke aanvraag hebben ingediend voor een frequentie die door de Vlaamse minister, bevoegd voor het mediabeleid, beschikbaar is verklaard, de door hem ontvankelijk bevonden kandidaturen op basis van de volgende criteria :<br />1° de concrete invulling van de informatie over het eigen verzorgingsgebied in het programma-aanbod, met bijzondere aandacht voor :<br />a) het aantal geplande nieuwsuitzendingen per dag en de totale duur van die nieuwsuitzendingen;<br />b) de verscheidenheid aan onderwerpen met betrekking tot het verzorgingsgebied in de nieuwsuitzendingen;<br />c) de voorgenomen verslaggeving van sociaal-culturele, sportieve, economische en politieke gebeurtenissen binnen het verzorgingsgebied;<br />2° de aantoonbare en beschreven band, die is opgebouwd met de lokale gemeenschap, met bijzondere aandacht voor de sociaal-culturele, sportieve en economische actoren.<br /><br />
+...
 
 ### ART. 8.
 
-Het erkenningsbesluit wordt namens de Vlaamse minister, bevoegd voor het mediabeleid, met een aangetekende brief ter kennis gebracht van de betrokken kandidaat.<br /><br />Elke kandidaat ontvangt met een aangetekende brief een afschrift van het besluit van de Vlaamse minister, bevoegd voor het mediabeleid, houdende erkenning als landelijke, als regionale, of als lokale radio-omroeporganisatie voor de lokaliteit of naargelang van de categorie waarvoor hij een aanvraag heeft ingediend.<br /><br />
+Het erkenningsbesluit wordt namens de Vlaamse minister, bevoegd voor het mediabeleid, met een aangetekende brief ter kennis gebracht van de betrokken kandidaat.<br>
+<br>
+Elke kandidaat ontvangt met een aangetekende brief een afschrift van het besluit van de Vlaamse minister, bevoegd voor het mediabeleid, houdende erkenning als landelijke of als regionale radio-omroeporganisatie voor de categorie waarvoor hij een aanvraag heeft ingediend.<br>
+&nbsp;
 
 ### ART. 9.
 
