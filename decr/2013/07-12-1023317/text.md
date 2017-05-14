@@ -964,6 +964,24 @@ Er worden geen premies, subsidies of toelagen verleend aan ondernemingen die op 
 
 ## [Afdeling 5 Fiscale stimulansen (ing. Decr. 21 april 2017, art. 2, I: 14 mei 2017)]
 
+### ART 10.5.1.
+
+Als voor een onroerend goed aan de voorwaarden, vermeld in artikel 2.8.4.4.1, hetzij § 1, hetzij § 3, van de Vlaamse Codex Fiscaliteit van 13 december 2013, is voldaan, levert het agentschap een attest af aan de Vlaamse Belastingdienst met afschrift aan de begiftigden, met vermelding dat aan de voormelde voorwaarden is voldaan.<br>
+<br>
+Het attest, vermeld in het eerste lid, kan niet meer worden afgeleverd als het beschermde monument is vervreemd onder de levenden binnen vijf jaar na de datum van de schenkingsakte en voordat aan de voorwaarden, vermeld in artikel 2.8.4.4.1, hetzij § 1, hetzij § 3, van de Vlaamse Codex Fiscaliteit van 13 december 2013, is voldaan. Die vervreemding wordt door de instrumenterende ambtenaar gemeld aan het agentschap.
+
+### ART 10.5.2.
+
+Het verschil tussen het verkooprecht, geheven met toepassing van artikel 2.9.4.2.10, § 1, van de Vlaamse Codex Fiscaliteit van 13 december 2013, en het verkooprecht, verschuldigd bij gebrek aan toepassing van hetzelfde artikel, wordt geacht als subsidie te zijn verleend.<br>
+<br>
+De subsidie wordt geacht te zijn toegekend onder de voorwaarden, vermeld in artikel 2.9.4.2.10, § 2, van het voormelde decreet.<br>
+<br>
+Op straffe van verval van de subsidie bezorgen de verkrijgers uiterlijk zes maanden na het verstrijken van de termijn van vijf jaar, vermeld in artikel 2.9.4.2.10, § 2, 1°, van het voormelde decreet, de facturen en andere gegevens aan het agentschap waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in artikel 2.9.4.2.10, § 2, van het voormelde decreet. Het agentschap stelt daarvoor een modelformulier ter beschikking op zijn website.<br>
+<br>
+Elke vervreemding onder de levenden van het beschermde monument, die plaatsvindt voordat de verkrijgers van de subsidie hebben voldaan aan de voorwaarden, vereist voor het behoud van de subsidie, vermeld in artikel 2.9.4.2.10, § 2, van het voormelde decreet, heeft tot gevolg dat de subsidie wordt teruggevorderd door het agentschap. Die vervreemding wordt door de instrumenterende ambtenaar gemeld aan het agentschap.<br>
+<br>
+In geval van verval als vermeld in het derde lid of van een vervreemding als vermeld in het vierde lid, zijn de verkrijgers verplicht de verkregen subsidie, verhoogd met de wettelijke interest, terug te betalen. De interest wordt berekend vanaf de datum van het verlijden van de authentieke akte van verkrijging. Als de subsidie is verkregen door verschillende verkrijgers, zijn ze hoofdelijk gehouden tot de terugbetaling.
+
 ## HOOFDSTUK 11 Handhaving
 
 ## Afdeling 1 Handhavingsbeleid Onroerend Erfgoed
