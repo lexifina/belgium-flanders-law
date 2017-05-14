@@ -1585,9 +1585,9 @@ Audit Vlaanderen is tevens bevoegd voor het uitvoeren van forensische audits bij
 
 Om zijn bevoegdheid te kunnen uitoefenen, heeft Audit Vlaanderen toegang tot alle informatie en documenten, ongeacht de drager ervan, en tot alle gebouwen, ruimtes en installaties waar taken worden uitgevoerd van de besturen, vermeld in artikel 265. Audit Vlaanderen kan aan ieder personeelslid de inlichtingen vragen die voor de uitvoering van zijn opdrachten nodig worden geacht. Ieder personeelslid is ertoe gehouden zo snel mogelijk en zonder voorafgaande machtiging op een volledige wijze te antwoorden en alle relevante informatie en documenten te verstrekken.<br>
 <br>
-Elk personeelslid heeft het recht om de externe auditcommissie rechtstreeks op de hoogte te brengen van onregelmatigheden die hij in de uitoefening van zijn functie vaststelt.<br>
+Elk personeelslid heeft het recht om Audit Vlaanderen rechtstreeks op de hoogte te brengen van onregelmatigheden die hij in de uitoefening van zijn functie vaststelt.<br>
 <br>
-Een dergelijke rapportering aan de audit kan nooit aanleiding geven tot een tuchtsanctie of een ontslag tenzij er misbruik wordt gemaakt van deze mogelijkheid. Dergelijke verklaringen vallen niet onder het inzagerecht, tenzij het betrokken personeelslid zijn instemming geeft.
+Buiten de gevallen van kwade trouw, persoonlijk voordeel of valse aangifte die een dienst of een persoon schade toebrengen, kan een rapportering aan Audit Vlaanderen nooit aanleiding geven tot een tuchtsanctie of een ontslag. Dergelijke verklaringen vallen niet onder het inzagerecht, tenzij het betrokken personeelslid zijn instemming geeft.
 
 ### ART. 269.
 
