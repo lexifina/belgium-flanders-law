@@ -38,17 +38,37 @@ Kandidaat-verslaggevers die in een reguliere of andere   opleidingsinstelling ee
 
 ### ART. 6.
 
-<P>Opleidingsinstellingen die de opleiding tot verslaggever als verplicht of als   vrij onderdeel wensen te integreren in hun opleidingstraject dat leidt tot een   van de diploma's zoals opgesomd in artikel 1.1.3., 127° van het Energiedecreet   van 8 mei 2009, kunnen een aanvraag indienen om af te wijken van artikel 2,   2°.<BR></P>  <P>Zij onderbouwen hun aanvraag door aan te geven welke opleidingsonderdelen en   aspecten van de opleiding tot verslaggever, zoals beschreven in bijlage I, al   aan bod komen in hun opleidingstraject dat leidt tot een van de diploma's zoals   opgesomd in artikel 1.1.3., 127° van het Energiedecreet van 8 mei 2009. De   aanvraag omvat een overzicht en de precieze omschrijving van de inhoud en de   tijdsduur van de resterende opleidingsonderdelen verslaggever, die op het moment   van de aanvraag niet vervat zijn in hun opleidingstraject dat leidt tot een van   de vermelde diploma's. Zij beschrijven in hun aanvraag hoe en waar in het   opleidingstraject de resterende opleidingsonderdelen verslaggever zullen worden   toegevoegd.<BR></P>  <P>Het Vlaams Energieagentschap onderzoekt de aanvraag en doet binnen de zestig   kalenderdagen na ontvangst, bij besluit van het hoofd van het agentschap,   uitspraak over de aanvraag.<BR></P>
+<p>§ 1. Opleidingsinstellingen die de opleiding tot verslaggever als verplicht of als vrij onderdeel wensen te integreren in hun opleidingstraject dat leidt tot een van de diploma's zoals opgesomd in artikel 10.1.3 van het Energiedecreet van 8 mei 2009, kunnen een aanvraag indienen om af te wijken van artikel 2, 2°.</p>
+
+<p>Zij onderbouwen hun aanvraag door aan te geven welke opleidingsonderdelen en aspecten van de opleiding tot verslaggever, zoals beschreven in bijlage I, al aan bod komen in hun opleidingstraject dat leidt tot een van de diploma's zoals opgesomd in artikel 10.1.3 van het Energiedecreet van 8 mei 2009. De aanvraag omvat een overzicht en de precieze omschrijving van de inhoud en de tijdsduur van de resterende opleidingsonderdelen verslaggever, die op het moment van de aanvraag niet vervat zijn in hun opleidingstraject dat leidt tot een van de vermelde diploma's. Zij beschrijven in hun aanvraag hoe en waar in het opleidingstraject de resterende opleidingsonderdelen verslaggever zullen worden toegevoegd.</p>
+
+<p>Het Vlaams Energieagentschap onderzoekt de aanvraag en doet binnen de zestig kalenderdagen na ontvangst, bij besluit van het hoofd van het agentschap, uitspraak over de aanvraag.<br>
+<br>
+§ 2. Opleidingsinstellingen die aanvullende postacademische of gespecialiseerde opleidingen inrichten waartoe toegang is via één van de diploma's, vermeld in artikel 10.1.3 van het Energiedecreet van 8 mei 2009, kunnen een aanvraag indienen om af te wijken van artikel 2, 2°.<br>
+<br>
+Zij onderbouwen hun aanvraag door aan te geven welke opleidingsonderdelen en aspecten van de opleiding tot verslaggever, zoals beschreven in bijlage I, al aan bod komen in het diploma dat toegang geeft tot de aanvullende opleiding tot verslaggever. De aanvraag omvat een overzicht en de precieze omschrijving van de inhoud en de tijdsduur van de opleidingsonderdelen tot verslaggever, die op het moment van de aanvraag al vervat zijn in het afgelegde opleidingstraject dat leidt tot een van de vermelde diploma's.</p>
 
 ## [HOOFDSTUK 2/1. Permanente vorming voor verslaggevers (ing. MB 11 mei 2015, art. 4, I: 14 juni 2015)]
 
 ### ART. 6/1.
 
-De verslaggever volgt jaarlijks tenminste 8 uur relevante bijscholing over   vaktechnische en beroepsondersteunende materies, vermeld in artikel 6/4. Als   permanente vorming komen, voor de looptijd van een kalenderjaar, de volgende   activiteiten in aanmerking:<BR>1° het volgen van een vorming, studiedag of   seminarie bij een erkende opleidingsinstelling, over vaktechnische en   beroepsondersteunende materies die direct en specifiek verband houden met de   kerntaken van de verslaggever, vermeld in artikel 6/4;<BR>2° het volgen van   informatiesessies voor verslaggevers, georganiseerd door of namens het Vlaams   Energieagentschap;<BR>3° het deelnemen aan een werkgroep, georganiseerd door een   erkende opleidingsinstelling, waarbij kennisuitwisseling over inhoud zoals   beschreven in artikel 6/4 centraal staat. Enkel de uren die gewijd worden aan de   bespreking van de thema's die aansluiten bij de inhoud zoals beschreven in   artikel 6/4 komen in aanmerking. Een werkgroep is hierbij een interactieve   onderwijsvorm waaraan per sessie maximaal 20 verslaggevers actief   deelnemen;<BR>4° het volgen van een vorming op afstand via e-learning,   georganiseerd door een erkende opleidingsinstelling, waarbij aantoonbaar is dat   de opleiding volledig is gevolgd en de deelnemers uniek identificeerbaar zijn   via hun Rijksregisternummer.<BR><BR>De activiteit telt mee als permanente   vorming voor het aantal uren gevolgde les of kennisuitwisseling.<BR><BR>De   gevolgde basisopleiding tot verslaggever, zoals beschreven in bijlage I, telt   mee als permanente vorming voor het kalenderjaar waarin de basisopleiding werd   afgerond.<BR><BR>Om in aanmerking te komen als permanente vorming mag de   verslaggever meerdere vormingen volgen over een zelfde thema, mits het gaat om   verschillende, unieke vormingen. De vorming mag ook in aanmerking komen voor de   permanente vorming van de architect of andere.
+De verslaggever volgt jaarlijks een totaalpakket van tenminste 10 uur vorming uit een erkend aanbod. Het totaalpakket omvat een jaarlijks pakket aan verplichte inhoud overeenkomstig artikel 6/5 en een jaarlijks pakket aan vrij te kiezen relevante bijscholing over vaktechnische en beroepsondersteunende materies, vermeld in artikel 6/4. De minister kan de verhouding van het aantal uren van het pakket aan vrij in te vullen inhoud en het pakket aan verplichte inhoud jaarlijks invullen. Als vrij in te vullen inhoud komen, voor de looptijd van een kalenderjaar, de volgende activiteiten in aanmerking:<br>
+1° het volgen van een vorming, studiedag of seminarie bij een erkende opleidingsinstelling, over vaktechnische en beroepsondersteunende materies die direct en specifiek verband houden met de kerntaken van de verslaggever, vermeld in artikel 6/4;<br>
+2° het volgen van informatiesessies voor verslaggevers, georganiseerd door of namens het Vlaams Energieagentschap;<br>
+3° het deelnemen aan een werkgroep, georganiseerd door een erkende opleidingsinstelling, waarbij kennisuitwisseling over inhoud zoals beschreven in artikel 6/4 centraal staat. Enkel de uren die gewijd worden aan de bespreking van de thema's die aansluiten bij de inhoud zoals beschreven in artikel 6/4 komen in aanmerking. Een werkgroep is hierbij een interactieve onderwijsvorm waaraan per sessie maximaal 20 verslaggevers actief deelnemen;<br>
+4° het volgen van een vorming op afstand via e-learning, georganiseerd door een erkende opleidingsinstelling, waarbij aantoonbaar is dat de opleiding volledig is gevolgd en de deelnemers uniek identificeerbaar zijn via hun Rijksregisternummer.<br>
+<br>
+De activiteit telt mee als permanente vorming voor het aantal uren gevolgde les of kennisuitwisseling.<br>
+<br>
+De gevolgde basisopleiding tot verslaggever, zoals beschreven in bijlage I, telt mee als permanente vorming voor het kalenderjaar waarin de basisopleiding werd afgerond.<br>
+<br>
+Om in aanmerking te komen als permanente vorming mag de verslaggever meerdere vormingen volgen over een zelfde thema, mits het gaat om verschillende, unieke vormingen. De vorming mag ook in aanmerking komen voor de permanente vorming van de architect of andere.<br>
+<br>
+In het geval de verslaggever meer uren permanente vorming met vrije inhoud volgde dan vereist in artikel 6/5, wordt het overschot aan uren overgedragen naar het volgende kalenderjaar. Het overschot wordt eenmalig opgeteld bij de uren vrije inhoud die gevolgd zijn in het eerstvolgende kalenderjaar.
 
 ### ART. 6/2.
 
-De minister kan het verplichte basispakket van 8 uur permanente vorming,   zoals beschreven in artikel 6/1, aanvullen met een aantal uren verplichte   inhoud, die is afgestemd op de belangrijkste wijzigingen in de EPB-regelgeving,   de EPB-eisen, de berekeningsmethode en de EPB-software. De inhoud en duur van de   bijkomende bijscholing wordt vastgelegd door de minister.
+Het aantal uren verplichte inhoud is afgestemd op de belangrijkste wijzigingen in de EPB-regelgeving, de EPB-eisen, de berekeningsmethode en de EPB-software. De inhoud en duur van het pakket aan verplichte inhoud wordt vastgelegd door de minister in artikel 6/5.
 
 ### ART. 6/3.
 
@@ -60,7 +80,23 @@ De activiteit van permanente vorming moet betrekking hebben op de   kerntaken va
 
 ### ART. 6/5.
 
-§ 1. Onverminderd artikel 6/1 moet de verslaggever overeenkomstig artikel   6/2 tijdens het kalenderjaar 2015 minstens 2 uur permanente vorming volgen over   het wijzigingspakket van 2016: de verstrengde EPB-eisen (waaronder de maximale   U-waarden, E-peil E50 voor woongebouwen en publieke gebouwen) en de   mogelijkheden en uitdagingen om aan die eisen te voldoen.<BR><BR>§ 2.   Onverminderd artikel 6/1 moet de verslaggever overeenkomstig artikel 6/2 tijdens   het kalenderjaar 2016 minstens 6 uur permanente vorming volgen over het   wijzigingspakket van 2017. Dat wijzigingspakket bevat de methode voor   niet-residentiële gebouwen vanaf 2017 (`EPN') en de wijzigingen aan de   rekenmethode vanaf 2017. De permanente vorming omvat minstens 2 uur over de   wijzigingen aan de rekenmethode voor EPW en minstens 4 uur over EPN, met voor de   volgende onderdelen minstens de opgegeven uren:<BR>1° de gebouwindeling:   toepassingsgebied en basisprincipes - 1 uur;<BR>2° de bepaling van het   eisenpakket: basisprincipes - 1 uur;<BR>3° de E-peilberekening: basisprincipes   (opbouw van de teller en noemer van de E-peilformule, de functiespecifieke   parameters) en verschillen tussen de EPW- en de EPN-rekenmethode - 1   uur;<BR><BR>De onderdelen over EPN worden toegepast op minstens 4   praktijkvoorbeelden van niet-residentiële gebouwen die bestaan uit een   combinatie van verschillende functies, waaronder de combinatie van een   collectieve wooneenheid met gemeenschappelijke delen en een niet-residentiële   functie en de combinatie van een niet-residentiële functie naar keuze met een   keuken.<BR><BR>De wijzigingen aan de rekenmethode worden vooraf door het Vlaams   Energieagentschap opgesomd en toegelicht via een overleg waaraan erkende   opleidingsinstellingen verplicht deelnemen. De verslaggever moet de wijzigingen   aan de rekenmethode kunnen toepassen op praktijkvoorbeelden.
+§ 1. Onverminderd artikel 6/1 moet de verslaggever overeenkomstig artikel 6/2 tijdens het kalenderjaar 2015 minstens 2 uur permanente vorming volgen over het wijzigingspakket van 2016: de verstrengde EPB-eisen (waaronder de maximale U-waarden, E-peil E50 voor woongebouwen en publieke gebouwen) en de mogelijkheden en uitdagingen om aan die eisen te voldoen.<br>
+<br>
+§ 2. Onverminderd artikel 6/1 moet de verslaggever overeenkomstig artikel 6/2 tijdens het kalenderjaar 2016 minstens 6 uur permanente vorming volgen over het wijzigingspakket van 2017. Dat wijzigingspakket bevat de methode voor niet-residentiële gebouwen vanaf 2017 (`EPN') en de wijzigingen aan de rekenmethode vanaf 2017. De permanente vorming omvat minstens 2 uur over de wijzigingen aan de rekenmethode voor EPW en minstens 4 uur over EPN, met voor de volgende onderdelen minstens de opgegeven uren:<br>
+1° de gebouwindeling: toepassingsgebied en basisprincipes - 1 uur;<br>
+2° de bepaling van het eisenpakket: basisprincipes - 1 uur;<br>
+3° de E-peilberekening: basisprincipes (opbouw van de teller en noemer van de E-peilformule, de functiespecifieke parameters) en verschillen tussen de EPW- en de EPN-rekenmethode - 1 uur;<br>
+<br>
+De onderdelen over EPN worden toegepast op minstens 4 praktijkvoorbeelden van niet-residentiële gebouwen die bestaan uit een combinatie van verschillende functies, waaronder de combinatie van een collectieve wooneenheid met gemeenschappelijke delen en een niet-residentiële functie en de combinatie van een niet-residentiële functie naar keuze met een keuken.<br>
+<br>
+De wijzigingen aan de rekenmethode worden vooraf door het Vlaams Energieagentschap opgesomd en toegelicht via een overleg waaraan erkende opleidingsinstellingen verplicht deelnemen. De verslaggever moet de wijzigingen aan de rekenmethode kunnen toepassen op praktijkvoorbeelden.<br>
+<br>
+&nbsp;§ 3. Van het totaalpakket vernoemd in artikel 6/1 moet de verslaggever overeenkomstig artikel 6/2 tijdens het kalenderjaar 2017 tenminste 4 uur permanente vorming met vrij te kiezen inhoud en 6 uur permanente vorming met verplichte inhoud volgen, beide uit het erkende aanbod. De verplichte inhoud omvat de voornaamste wijzigingen aan de EPB-regelgeving vanaf 2018:<br>
+1° de verstrengde EPB-eisen vanaf 2018 (waaronder de maximale U-waarden en de verstrengde eisen voor EPN-gebouwen vanaf 2018) en de mogelijkheden en uitdagingen om aan die eisen te voldoen;<br>
+2° het S-peil (theoretische achtergrond en gevolgen in de praktijk);<br>
+3° overige wijzigingen aan de EPW- en EPN-rekenmethodes (zodat de verslaggever de wijzigingen aan de rekenmethode kan toepassen op praktijkvoorbeelden).".<br>
+<br>
+Deze wijzigingen worden vooraf door het Vlaams Energieagentschap opgesomd en toegelicht via een overleg waaraan erkende vormings- en opleidingsinstellingen verplicht deelnemen.
 
 ## [HOOFDSTUK 2/2 Erkenning van de opleidingsinstelling voor permanente vorming (ing. MB 11 mai 2015, art. 5, I: 14 juni 2015)]
 
@@ -106,4 +142,4 @@ Dit besluit treedt in werking op de dag van de bekendmaking ervan in het   Belgi
 
 ### BIJLAGE I
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/12/24_1.pdf#page=86">Bijlage   I</A></P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2017/05/04_1.pdf#page=18">http://www.ejustice.just.fgov.be/mopdf/2017/05/04_1.pdf#page=18</a></p>
