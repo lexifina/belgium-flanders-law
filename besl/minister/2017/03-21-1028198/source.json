@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028198,
+  "title": "Ministerieel besluit van 2017-03-21 tot wijziging van het ministerieel besluit van 17 november 2014 betreffende de opleiding tot verslaggever en de opleidingsinstellingen bedoeld in artikel 8.6.1 en 8.6.3 van het Energiebesluit van 19 november 2010 en tot wijziging van artikel 14 van het ministerieel besluit van 9 september 2016 betreffende externe warmtelevering en houdende de wijziging van diverse ministeriële besluiten in het kader van de energieprestatieregelgeving",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028198/VolledigDocument?datum=2017-05-14",
+  "source_sha256": "d67d0b58a21feab83ebdee02d7779175a200d84db89817a9060aa7a793bd26cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028198&param=informatie",
+  "as_of": "2017-05-14",
+  "made": "2017-03-21",
+  "gazette": "2017-05-04",
+  "numac": 2017040295,
+  "document_start": "2017-05-14",
+  "document_end": null,
+  "in_force": "2017-05-14",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2017-05-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
