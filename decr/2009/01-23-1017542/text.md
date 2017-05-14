@@ -554,6 +554,10 @@ In artikel 259 van hetzelfde decreet wordt het tweede lid vervangen door wat vol
 
 Artikel 260 van hetzelfde decreet wordt gewijzigd als volgt :<br /><br />1° de woorden « 243, derde lid« worden vervangen door « 243, vijfde lid »;<br /><br />2° er wordt een tweede lid toegevoegd, dat luidt als volgt :<br /><br />« Ten aanzien van de toezichthoudende overheid wordt een besluit dat niet langer vatbaar is voor schorsing of vernietiging, geacht wettig te zijn. ».
 
+### ART. 144.
+
+In artikel 267, derde lid, van hetzelfde decreet wordt de zin « Een dergelijke rapportering aan de audit kan nooit aanleiding geven tot een tuchtsanctie of een ontslag tenzij er misbruik wordt gemaakt van deze mogelijkheid. » vervangen door de zin « Buiten de gevallen van kwade trouw, persoonlijk voordeel of valse aangifte die een dienst of een persoon schade toebrengen, kan een rapportering aan de externe auditcommissie nooit aanleiding geven tot een tuchtsanctie of een ontslag. ».
+
 ## HOOFDSTUK VIII. Wijzigingen aan titel IX van het Gemeentedecreet
 
 ### ART. 145.
@@ -585,3 +589,7 @@ In artikel 313, § 1, van hetzelfde decreet wordt tussen het eerste en het tweed
 ### ART. 150.
 
 Met ingang van 1 januari 2007 en tot aan de inwerkingtreding van artikel 170, artikel 302, 127°, wat de gemeentebedrijven betreft, en van artikel 302, 128°, van het Gemeentedecreet van 15 juli 2005 is de Raad voor Verkiezingsbetwistingen bevoegd om in beroep uitspraak te doen over de aangelegenheden vermeld in artikelen 138 en 138bis van de Nieuwe Gemeentewet, overeenkomstig de procedure, vermeld in artikel 169, § 4.<br /><br />Voor de toepassing van het eerste lid treedt artikel 169, § 4, van het Gemeentedecreet van 15 juli 2005 in werking met ingang van 1 januari 2007.
+
+### ART. 151.
+
+De artikelen van dit decreet treden in werking op de dag die de Vlaamse Regering bepaalt.
