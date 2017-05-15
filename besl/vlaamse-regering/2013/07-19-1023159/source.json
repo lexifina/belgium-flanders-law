@@ -2,16 +2,16 @@
   "codex_id": 1023159,
   "title": "Besluit van de Vlaamse Regering van 2013-07-19 tot uitvoering van het decreet van 7 juni 2013 tot vaststelling van de regels inzake de verdeling van het Vlaams Plattelandsfonds",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023159/VolledigDocument?datum=2013-08-09",
-  "source_sha256": "220b58cf5080719ebb6e78fe567ad403edcac6e3ef23905c494c8da8f08026c4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023159/VolledigDocument?datum=2017-05-15",
+  "source_sha256": "1649ad9ca13ed392a977144e93c42709d73451f5b738345273f5d38086138dc3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023159&param=informatie",
-  "as_of": "2013-08-09",
+  "as_of": "2017-05-15",
   "made": "2013-07-19",
   "gazette": "2013-08-08",
   "numac": 2013035691,
   "document_start": "2013-08-09",
   "document_end": "2017-05-14",
-  "in_force": "2013-08-09",
+  "in_force": "2017-05-15",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2013-08-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-05-15; future article versions excluded; article text as the API gives it"
 }
