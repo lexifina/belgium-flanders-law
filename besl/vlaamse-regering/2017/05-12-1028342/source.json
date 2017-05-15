@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028342,
+  "title": "Besluit van de Vlaamse Regering van 2017-05-12 tot uitvoering van het decreet van 23 december 2016 tot vaststelling van de regels inzake de werking en de verdeling van een Vlaams fonds voor de stimulering van (groot)stedelijke en plattelandsinvesteringen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028342/VolledigDocument?datum=2017-05-15",
+  "source_sha256": "b65927f28ca5c4292d5c2c18623d63b77cacca32cc2ba2179c778add9b8b8197",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028342&param=informatie",
+  "as_of": "2017-05-15",
+  "made": "2017-05-12",
+  "gazette": "2017-06-20",
+  "numac": 2017012497,
+  "document_start": "2017-05-15",
+  "document_end": "2025-12-31",
+  "in_force": "2017-05-15",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2017-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
