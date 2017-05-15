@@ -2,16 +2,16 @@
   "codex_id": 1014514,
   "title": "Besluit van de Vlaamse Regering van 2006-01-13 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014514/VolledigDocument?datum=2014-04-01",
-  "source_sha256": "1a7d664f8790a21783ed72626bb29d73a2e9f7a20d52e68bece3085514ec679f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014514/VolledigDocument?datum=2017-05-15",
+  "source_sha256": "6d6b1773ae83e27a4dede1924d403075552debcaa2a51675527589aeeb061f6c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014514&param=informatie",
-  "as_of": "2014-04-01",
+  "as_of": "2017-05-15",
   "made": "2006-01-13",
   "gazette": "2006-05-16",
   "numac": 2006035728,
   "document_start": "2006-01-01",
   "document_end": null,
-  "in_force": "2014-04-01",
+  "in_force": "2017-05-15",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-05-15; future article versions excluded; article text as the API gives it"
 }
