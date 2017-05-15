@@ -2,16 +2,16 @@
   "codex_id": 1015725,
   "title": "Besluit van de Vlaamse Regering van 2007-03-16 betreffende de subsidiëring van stadsvernieuwingsprojecten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015725/VolledigDocument?datum=2015-04-04",
-  "source_sha256": "6b322aea3c13ad7f9514e66efb9cff39a2599620e6852772057a499ab3ad5c7e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015725/VolledigDocument?datum=2017-05-15",
+  "source_sha256": "645d1e5d0d4f9ff167479d19e9c4d25107fd3e7a66d3034e518298f157b3047a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015725&param=informatie",
-  "as_of": "2015-04-04",
+  "as_of": "2017-05-15",
   "made": "2007-03-16",
   "gazette": "2007-04-24",
   "numac": 2007035586,
   "document_start": "2007-03-16",
   "document_end": "2017-05-14",
-  "in_force": "2015-04-04",
+  "in_force": "2017-05-15",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2015-04-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-05-15; future article versions excluded; article text as the API gives it"
 }
