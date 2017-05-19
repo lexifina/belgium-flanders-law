@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028204,
+  "title": "Besluit van de Vlaamse Regering van 2017-03-31 houdende wijziging van artikel 2 van het besluit van de Vlaamse Regering van 26 februari 2016 betreffende lage-emissiezones",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028204/VolledigDocument?datum=2017-05-19",
+  "source_sha256": "3c9e00c32d6da5faa03f0412ce9680ce01c9e3c92862b6819c4cb4e83437e2f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028204&param=informatie",
+  "as_of": "2017-05-19",
+  "made": "2017-03-31",
+  "gazette": "2017-05-09",
+  "numac": 2017030270,
+  "document_start": "2017-05-19",
+  "document_end": null,
+  "in_force": "2017-05-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-05-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
