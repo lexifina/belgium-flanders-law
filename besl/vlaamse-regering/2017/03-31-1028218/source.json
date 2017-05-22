@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028218,
+  "title": "Besluit van de Vlaamse Regering van 2017-03-31 houdende de voorlopige vaststelling van het ontwerp van gewestelijk rooilijn-plan 1M3D8E G 027253 00 te Antwerpen, Deurne",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028218/VolledigDocument?datum=2017-05-22",
+  "source_sha256": "a3e33d13ee8734e7ec1eecf5cce3d0844da5467644bacf7c88fb94bc3b002852",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028218&param=informatie",
+  "as_of": "2017-05-22",
+  "made": "2017-03-31",
+  "gazette": "2017-05-12",
+  "numac": 2017011838,
+  "document_start": "2017-05-22",
+  "document_end": null,
+  "in_force": "2017-05-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-05-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
