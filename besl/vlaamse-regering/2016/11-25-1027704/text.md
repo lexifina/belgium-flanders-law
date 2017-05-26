@@ -36,6 +36,7 @@ De windhoos en rukwinden met lokaal karakter die hebben plaatsgevonden op 23 jun
 
 De geografische uitgestrektheid van de ramp op 23 juni 2016 is beperkt tot de gemeenten waarvan de naam hieronder vermeld wordt :<br>
 Provincie Limburg<br>
+Kortessem<br>
 Borgloon<br>
 Sint-Truiden<br>
 Wellen<br>
