@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028240,
+  "title": "Besluit van de Vlaamse Regering van 2017-03-31 houdende de herverdeling van een deel van het provisioneel krediet, ingeschreven onder begrotingsartikel EB0-1EEG2AA-PR naar begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2017",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028240/VolledigDocument?datum=2017-05-29",
+  "source_sha256": "0adc9333c0355a4ae83b7338cff1b01b94a415ed20e72791be4998ebff042fb6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028240&param=informatie",
+  "as_of": "2017-05-29",
+  "made": "2017-03-31",
+  "gazette": "2017-05-19",
+  "numac": 2017012032,
+  "document_start": "2017-05-29",
+  "document_end": null,
+  "in_force": "2017-05-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-05-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
