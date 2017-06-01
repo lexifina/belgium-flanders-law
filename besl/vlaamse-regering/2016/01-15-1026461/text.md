@@ -94,7 +94,13 @@ De   verpleegkundige van wie de erkenning is ingetrokken conform artikel 14 of 1
 
 ### ART. 17.
 
-<P>Als   de zorgkundige niet meer aan de registratiecriteria voldoet, kan het agentschap   de registratie van de zorgkundige in kwestie intrekken.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap kan een registratie pas intrekken nadat het daarover het advies van   de erkenningscommissie heeft ingewonnen, en nadat het, na het advies van de   erkenningscommissie ontvangen te hebben, zijn voornemen tot intrekking aan de   zorgkundige heeft bekendgemaakt.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   zorgkundige van wie het agentschap de registratie wil intrekken conform het   tweede lid, kan binnen dertig dagen na de ontvangst van het voornemen een   bezwaarnota indienen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   bezwaarnota wordt, samen met het voornemen tot intrekking, voorgelegd aan de   erkenningscommissie, die op basis van die stukken een advies uitbrengt. Na het   advies van de erkenningscommissie wordt de definitieve beslissing van het   agentschap aan de zorgkundige bezorgd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Als de zorgkundige niet meer aan de registratiecriteria voldoet, kan de administratie de registratie van de zorgkundige in kwestie intrekken.</p>
+
+<p>de administratie kan een registratie pas intrekken nadat het daarover het advies van de erkenningscommissie heeft ingewonnen, en nadat het, na het advies van de erkenningscommissie ontvangen te hebben, zijn voornemen tot intrekking aan de zorgkundige heeft bekendgemaakt.</p>
+
+<p>De zorgkundige van wie de administratie de registratie wil intrekken conform het tweede lid, kan binnen dertig dagen na de ontvangst van het voornemen een bezwaarnota indienen.</p>
+
+<p>De bezwaarnota wordt, samen met het voornemen tot intrekking, voorgelegd aan de erkenningscommissie, die op basis van die stukken een advies uitbrengt. Na het advies van de erkenningscommissie wordt de definitieve beslissing van de administratie aan de zorgkundige bezorgd.</p>
 
 ### ART. 18.
 
