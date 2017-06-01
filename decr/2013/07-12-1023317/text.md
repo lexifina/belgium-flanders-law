@@ -122,7 +122,9 @@ Het depot van het agentschap is van rechtswege erkend als   onroerenderfgoeddepo
 
 ### ART. 3.5.2.
 
-Het agentschap is van rechtswege aangeduid als een erkend   archeoloog.<BR>
+Het agentschap is van rechtswege aangeduid als een erkend archeoloog.<br>
+<br>
+Een archeoloog in dienst van een gemeente of van een erkende intergemeentelijke onroerenderfgoeddienst is van rechtswege aangeduid als een erkend archeoloog op voorwaarde dat het college van burgemeester en schepenen van de gemeente of gemeenten in kwestie bevestigt dat de archeoloog archeologisch onderzoek verricht en voldoet aan de erkenningsvoorwaarden, vastgesteld door de Vlaamse Regering krachtens artikel 3.5.1, tweede lid. Die bevestiging wordt aan het agentschap bezorgd. De aanduiding als erkend archeoloog geldt zolang de archeoloog in dienst blijft van de gemeente of van de erkende intergemeentelijke onroerenderfgoeddienst in kwestie.
 
 ### ART. 3.5.3.
 
@@ -280,48 +282,60 @@ De Vlaamse Regering stelt een code van goede praktijk vast voor de   uitvoering 
 
 ### ART. 5.4.1.
 
-<p>Een bekrachtigde archeologienota zoals vermeld in artikel 5.4.8 en artikel 5.4.12 wordt bij de aanvraag van een omgevingsvergunning voor stedenbouwkundige handelingen met ingreep in de bodem toegevoegd in volgende situaties :<br>
+Voorafgaand aan het verkrijgen van een omgevingsvergunning voor stedenbouwkundige handelingen moet een archeologienota zoals vermeld in artikel 5.4.8 en artikel 5.4.12 opgesteld en bekrachtigd worden in volgende situaties:<br>
 1° aanvragen met betrekking tot percelen die gelegen zijn in een voorlopig of definitief beschermde archeologische site;<br>
-2° aanvragen waarbij de totale oppervlakte van de ingreep in de bodem 100 m<sup>2</sup> of meer beslaat en de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 300 m<sup>2</sup> of meer bedraagt en waarbij de betrokken percelen geheel of gedeeltelijk gelegen zijn in archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones;<br>
-3° aanvragen waarbij de totale oppervlakte van de ingreep in de bodem 1000 m<sup>2</sup> of meer beslaat en de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 3000 m<sup>2</sup> of meer bedraagt en waarbij de percelen volledig gelegen zijn buiten archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones.</p>
-
-<p>Voor de toepassing van het eerste lid, 2° en 3°, op terreinen zonder kadastraal nummer geldt de totale oppervlakte van de hele werf van het te vergunnen werk.</p>
-
-<p>De aanvrager van een omgevingsvergunning voor stedenbouwkundige handelingen wordt van die verplichting vrijgesteld :<br>
+2° aanvragen waarbij de totale oppervlakte van de ingreep in de bodem 100 m² of meer beslaat en de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 300 m² of meer bedraagt en waarbij de betrokken percelen geheel of gedeeltelijk gelegen zijn in archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones;<br>
+3° aanvragen waarbij de totale oppervlakte van de ingreep in de bodem 1000 m² of meer beslaat en de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 3000 m² of meer bedraagt en waarbij de percelen volledig gelegen zijn buiten archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones.<br>
+<br>
+Voor de toepassing van dit artikel op terreinen zonder kadastraal nummer geldt de totale oppervlakte van de hele werf van het te vergunnen werk.<br>
+<br>
+De aanvrager van een omgevingsvergunning voor stedenbouwkundige handelingen wordt van die verplichting vrijgesteld:<br>
 1° indien de aanvraag volledig betrekking heeft op een gebied waar geen archeologisch erfgoed te verwachten valt, zoals vastgesteld door de Vlaamse Regering;<br>
-2° indien de aanvraag betrekking heeft op werkzaamheden binnen het gabarit van bestaande lijninfrastructuur en haar aanhorigheden;<br>
-3° indien de aanvrager een natuurlijke persoon of privaatrechtelijke rechtspersoon is, de totale oppervlakte van de ingreep in de bodem minder dan 5000 m<sup>2</sup> beslaat, en de betrokken percelen volledig gelegen zijn buiten woongebied of recreatiegebied en buiten archeologische zones opgenomen in de vastgestelde inventaris van archeologische zones en buiten beschermde archeologische sites.</p>
-
-<p>De Vlaamse Regering kan de nadere regels voor deze vrijstellingen bepalen.</p>
-
-<p>Voor de toepassing van het derde lid, 3°, op terreinen zonder kadastraal nummer geldt de totale oppervlakte van de hele werf van het te vergunnen werk.</p>
-
-<p>De aanvrager van een omgevingsvergunning voor stedenbouwkundige handelingen met ingreep in de bodem kan een archeologienota indienen die in het kader van een vorige vergunningsaanvraag is bekrachtigd, als de omgevingsvergunning voor stedenbouwkundige handelingen betrekking heeft op hetzelfde perceel of dezelfde percelen en als de ingreep in de bodem van de te vergunnen werken overeenkomt met de ingreep in de bodem van de werken omschreven in de bekrachtigde archeologienota.</p>
+2° indien de aanvraag betrekking heeft op werkzaamheden aan bestaande lijninfrastructuur en haar aanhorigheden binnen een archeologische zone, opgenomen in de vastgestelde inventaris van archeologische zones, waarbij de oppervlakte van de ingreep in de bodem buiten het gabarit van de bestaande lijninfrastructuur en haar aanhorigheden minder dan 100 m² beslaat;<br>
+3° indien de aanvraag betrekking heeft op werkzaamheden aan bestaande lijninfrastructuur en haar aanhorigheden buiten een archeologische zone, opgenomen in de vastgestelde inventaris van archeologische zones en buiten een voorlopig of definitief beschermde archeologische site, waarbij de oppervlakte van de ingreep in de bodem buiten het gabarit van de bestaande lijninfrastructuur en haar aanhorigheden minder dan 1000 m² beslaat, wanneer de lijninfrastructuur waarvoor de omgevingsvergunning wordt aangevraagd meer dan 1000 meter bedraagt;<br>
+4° indien de aanvrager een natuurlijke persoon of privaatrechtelijke rechtspersoon is, de totale oppervlakte van de ingreep in de bodem minder dan 5000 m² beslaat, en de betrokken percelen volledig gelegen zijn buiten woongebied of recreatiegebied en buiten archeologische zones opgenomen in de vastgestelde inventaris van archeologische zones en buiten beschermde archeologische sites;<br>
+5° indien de handelingen louter betrekking hebben op verbouwingswerken of vernieuwbouw, zonder bijkomende ingreep in de bodem;<br>
+6° indien de handelingen louter betrekking hebben op de regularisatie van vergunningsplichtige projecten, overeenkomstig artikel 81 van het decreet van 25 april 2014 betreffende de omgevingsvergunning en alle ingrepen in de bodem al zijn uitgevoerd;<br>
+7° indien de stedenbouwkundige aanvraag kadert in verbeterd bodembeheer en uitsluitend betrekking heeft op een reliëfwijziging in agrarisch gebied, niet gelegen in een archeologische zone zoals opgenomen in de vastgestelde inventaris van archeologische zones of een voorlopig of definitief beschermde archeologische site, als gevolg van een afgraving van teelaarde tot 40 cm en de latere toevoeging met dezelfde teelaarde.<br>
+<br>
+De Vlaamse Regering kan de nadere regels voor deze vrijstellingen bepalen.<br>
+<br>
+De aanvrager van een omgevingsvergunning voor stedenbouwkundige handelingen kan een al bekrachtigde archeologienota indienen als de aanvraag betrekking heeft op hetzelfde perceel of dezelfde percelen en als de ingreep in de bodem van de te vergunnen werken overeenkomt met de ingreep in de bodem van de werkzaamheden die in de bekrachtigde archeologienota zijn omschreven. Als er in de archeologienota een archeologische opgraving werd opgelegd, moet deze zijn uitgevoerd en moet daarover een archeologierapport aan het agentschap zijn bezorgd. In het geval dat er gebruik is gemaakt van onderafdeling 7 van deze afdeling, moet de bekrachtigde nota zijn uitgevoerd. Als er in de nota een archeologische opgraving wordt opgelegd, moet daarover een archeologierapport aan het agentschap zijn bezorgd.
 
 ### ART. 5.4.2.
 
-<p>Een bekrachtigde archeologienota zoals vermeld in artikel 5.4.8 en artikel 5.4.12 wordt bij de aanvraag van een omgevingsvergunning voor het verkavelen van gronden toegevoegd in volgende situaties :<br>
+Voorafgaand aan het verkrijgen van een omgevingsvergunning voor het verkavelen van gronden moet een archeologienota als vermeld in artikel 5.4.8 en artikel 5.4.12 opgesteld en bekrachtigd worden in volgende situaties:<br>
 1° aanvragen met betrekking tot percelen die gelegen zijn in een voorlopig of definitief beschermde archeologische site;<br>
-2° aanvragen waarbij de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 300 m<sup>2</sup> of meer bedraagt en waarbij de betrokken percelen geheel of gedeeltelijk gelegen zijn in archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones;<br>
-3° aanvragen waarbij de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 3000 m<sup>2</sup> of meer bedraagt en waarbij de percelen helemaal buiten de archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones, liggen.</p>
-
-<p>Voor de toepassing van het eerste lid, 2° en 3°, op terreinen zonder kadastraal nummer geldt de totale oppervlakte van de werf van de te vergunnen verkaveling.</p>
-
-<p>De aanvrager van een omgevingsvergunning voor het verkavelen van gronden wordt van die verplichting vrijgesteld indien de aanvraag betrekking heeft op een gebied waar geen archeologisch erfgoed te verwachten valt, zoals vastgesteld door de Vlaamse Regering.</p>
-
-<p>De aanvrager van een omgevingsvergunning voor het verkavelen van gronden kan een archeologienota indienen die in het kader van een vorige vergunningsaanvraag is bekrachtigd, als de omgevingsvergunning voor het verkavelen van gronden betrekking heeft op dezelfde percelen en als de ingreep in de bodem van de te vergunnen werken overeenkomt met de ingreep in de bodem van de werken omschreven in de bekrachtigde archeologienota.</p>
+2° aanvragen waarbij de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 300 m² of meer bedraagt en waarbij de betrokken kadastrale percelen geheel of gedeeltelijk gelegen zijn in archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones;<br>
+3° aanvragen waarbij de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 3000 m² of meer bedraagt en waarbij de betrokken kadastrale percelen helemaal buiten de archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones, liggen.<br>
+<br>
+Voor de toepassing van het eerste lid, 2° en 3°, op terreinen zonder kadastraal nummer geldt de totale oppervlakte van de werf van de te vergunnen verkaveling.<br>
+<br>
+Voor de toepassing van het eerste lid, 2° en 3°, dient enkel rekening gehouden te worden met de terreinen waarop werken uitgevoerd worden met het oog op het bouwrijp maken van de verkaveling en met de oppervlakte van de kavels die verkocht en verhuurd zullen worden voor meer dan negen jaar, waarop een recht van erfpacht of opstal gevestigd zal worden of waarvoor een van die overdrachtsvormen aangeboden zal worden, zulks met het oog op woningbouw of de oprichting van constructies.<br>
+<br>
+De aanvrager van een omgevingsvergunning voor het verkavelen van gronden wordt van die verplichting vrijgesteld indien de aanvraag betrekking heeft op een gebied waar geen archeologisch erfgoed te verwachten valt, zoals vastgesteld door de Vlaamse Regering.<br>
+<br>
+Bij de aanvraag voor het bijstellen van een omgevingsvergunning voor het verkavelen van gronden overeenkomstig artikel 85 en 86 van het decreet van 25 april 2014 betreffende de omgevingsvergunning moet geen bekrachtigde archeologienota worden toegevoegd, voor zover dit niet gepaard gaat met bijkomende ingrepen in de bodem.<br>
+<br>
+De aanvrager van een omgevingsvergunning voor het verkavelen van gronden kan een reeds bekrachtigde archeologienota indienen, als de aanvraag betrekking heeft op dezelfde percelen en als de ingreep in de bodem van de te vergunnen werken overeenkomt met de ingreep in de bodem van de werken omschreven in de bekrachtigde archeologienota. Als er in de archeologienota een archeologische opgraving werd opgelegd, moet deze zijn uitgevoerd en moet hierover een archeologierapport aan het agentschap zijn bezorgd. In het geval dat er gebruik is gemaakt van onderafdeling 7 van deze afdeling moet de bekrachtigde nota zijn uitgevoerd. Als er in de nota een archeologische opgraving wordt opgelegd, moet daarover een archeologierapport aan het agentschap zijn bezorgd.
 
 ### ART. 5.4.3.
 
-De aanvrager van een omgevingsvergunning voor stedenbouwkundige   handelingen met ingreep in de bodem of van een omgevingsvergunning voor het   verkavelen van gronden stelt een erkend archeoloog aan om de in artikelen 5.4.1   en 5.4.2 vermelde bekrachtigde archeologienota te verkrijgen.<BR>
+De aanvrager van een omgevingsvergunning voor stedenbouwkundige handelingen met ingreep in de bodem of van een omgevingsvergunning voor het verkavelen van gronden stelt een erkend archeoloog aan om de in artikelen 5.4.1 en 5.4.2 vermelde bekrachtigde archeologienota te verkrijgen.<br>
+<br>
+De bekrachtigde archeologienota of de archeologienota die is ingediend ter bekrachtiging wordt toegevoegd bij de aanvraag van omgevingsvergunning voor stedenbouwkundige handelingen of de omgevingsvergunning voor het verkavelen van gronden.<br>
+<br>
+Als bij de aanvraag een archeologienota is toegevoegd die ter bekrachtiging is ingediend, bezorgt de aanvrager de bekrachtigde archeologienota aan de vergunningverlenende overheid voor het verstrijken van de vervaltermijnen, vermeld in artikel 32, § 1, § 2 en § 3, artikel 46, § 1, en artikel 66, § 1, § 2, § 2/1 en § 3, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
 
 ## Onderafdeling 2 Verplichting vergunningsverlener
 
 ### ART. 5.4.4.
 
-De verlener van de omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden neemt, behoudens in de gevallen omschreven in artikel 5.4.1, derde lid, en artikel 5.4.2, derde lid, het naleven van de bekrachtigde archeologienota en van dit decreet op als voorwaarde in de vergunning. De werken in de bekrachtigde archeologienota overeenkomstig artikel 5.4.8 en in de bekrachtigde nota overeenkomstig artikel 5.4.16 worden geacht te zijn vergund.<br>
+De verlener van de omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden neemt, behoudens in de gevallen omschreven in artikel 5.4.1, derde lid, en&nbsp;artikel 5.4.2, vierde en vijfde lid, het naleven van de bekrachtigde archeologienota en van dit decreet op als voorwaarde in de vergunning. De werken in de bekrachtigde archeologienota overeenkomstig artikel 5.4.8 en in de bekrachtigde nota overeenkomstig artikel 5.4.16 worden geacht te zijn vergund.<br>
 <br>
-Een afschrift van de stedenbouwkundige vergunning of verkavelingsvergunning of van de omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden waarin het naleven van de bekrachtigde archeologienota als voorwaarde wordt opgenomen, wordt door de vergunningverlener binnen een ordetermijn van tien dagen en per beveiligde zending bezorgd aan het agentschap.
+Een afschrift van de stedenbouwkundige vergunning of verkavelingsvergunning of van de omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden waarin het naleven van de bekrachtigde archeologienota als voorwaarde wordt opgenomen, wordt door de vergunningverlener binnen een ordetermijn van tien dagen en per beveiligde zending bezorgd aan het agentschap.<br>
+<br>
+De verlener in eerste of laatste administratieve aanleg van de omgevingsvergunning voor stedenbouwkundige handelingen of de omgevingsvergunning voor het verkavelen van gronden kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2, waarbij een archeologienota toegevoegd is die ter bekrachtiging ingediend is, maar een beslissing nemen binnen de vervaltermijnen, vermeld in artikel 32, § 1, § 2 en § 3, artikel 46, § 1, en artikel 66, § 1, § 2, § 2/1 en § 3, van het decreet van 25 april 2014 betreffende de omgevingsvergunning als de bekrachtigde archeologienota bezorgd is door de vergunningsaanvrager voorafgaand aan het verlenen van de vergunning.
 
 ## Onderafdeling 3 Verplichtingen aangestelde erkende archeoloog - Archeologisch vooronderzoek met ingreep in de bodem
 
