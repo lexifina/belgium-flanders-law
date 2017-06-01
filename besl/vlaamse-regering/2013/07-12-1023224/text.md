@@ -8,13 +8,54 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° beleidsdomein : het   beleidsdomein Welzijn, Volksgezondheid en Gezin, vermeld in artikel 9 van het   besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de   organisatie van de Vlaamse administratie;<BR>2° bevoegde entiteit : het   departement of het agentschap van het beleidsdomein, dat de beslissing heeft   genomen of het voornemen heeft geuit, vermeld in artikel 12, tweede lid, van het   decreet van 7 december 2007, waartegen een bezwaar is ingediend;<BR>3° bevoegde   minister : een minister als vermeld in punt 10°, die bevoegd is voor de   voorziening in kwestie;<BR>4° bezwaar : een bezwaar als vermeld in artikel 12,   tweede lid, van het decreet van 7 december 2007;<BR>5° Commissie : de commissie,   vermeld in artikel 12 van het decreet van 7 december 2007;<BR>6° decreet van 7   december 2007 : het decreet van 7 december 2007 houdende oprichting van de   Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid   en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en   Gezin en (Kandidaat-)pleegzorgers;<BR>7° gezins- en welzijnsaangelegenheden : de   aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8   augustus 1980 tot hervorming der instellingen, die tot het beleidsdomein   behoren;<BR>8° gezondheidsaangelegenheden : de aangelegenheden, vermeld in   artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der   instellingen, die tot het beleidsdomein behoren;<BR>9° gezondheidsvoorziening :   een organisatie die activiteiten uitoefent in een of meer   gezondheidsaangelegenheden, of een onderdeel van die organisatie;<BR>10°   ministers : de Vlaamse minister, bevoegd voor de bijstand aan personen, en de   Vlaamse minister, bevoegd voor het gezondheidsbeleid;<BR>11° secretariaat : het   secretariaat van de Commissie;<BR>12° voorziening : een gezondheids- of   welzijnsvoorziening;<BR>13° welzijnsvoorziening : een organisatie die   activiteiten uitoefent in een of meer gezins- en welzijnsaangelegenheden, of een   onderdeel van die organisatie.
+In dit besluit wordt verstaan onder :<br>
+1° beleidsdomein : het beleidsdomein Welzijn, Volksgezondheid en Gezin, vermeld in artikel 9 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° bevoegde entiteit : het departement of het agentschap van het beleidsdomein, dat de beslissing heeft genomen of het voornemen heeft geuit, vermeld in artikel 12, tweede lid, van het decreet van 7 december 2007, waartegen een bezwaar is ingediend;<br>
+3° bevoegde minister : een minister als vermeld in punt 10°, die bevoegd is voor de voorziening in kwestie;<br>
+4° bezwaar : een bezwaar als vermeld in artikel 12, tweede, derde en vierde lid, van het decreet van 7 december 2007;<br>
+5° Commissie : de commissie, vermeld in artikel 12 van het decreet van 7 december 2007;<br>
+6° decreet van 7 december 2007 : het decreet van 7 december 2007 houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers;<br>
+7° gezins- en welzijnsaangelegenheden : de aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, die tot het beleidsdomein behoren;<br>
+8° gezondheidsaangelegenheden : de aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, die tot het beleidsdomein behoren;<br>
+9° gezondheidsvoorziening : een organisatie die activiteiten uitoefent in een of meer gezondheidsaangelegenheden, of een onderdeel van die organisatie;<br>
+10° ministers : de Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+11° secretariaat : het secretariaat van de Commissie;<br>
+12° voorziening : een gezondheids- of welzijnsvoorziening;<br>
+13° welzijnsvoorziening : een organisatie die activiteiten uitoefent in een of meer gezins- en welzijnsaangelegenheden, of een onderdeel van die organisatie.
 
 ## HOOFDSTUK 2. Samenstelling van de Commissie en van de kamers
 
 ### ART. 2.
 
-<P>§ 1. De Commissie is samengesteld uit een voorzitter, twee ondervoorzitters   en tien leden. Voor elk van hen is er een plaatsvervanger.<BR></P>  <P>Met behoud van de toepassing van artikel 8, § 2, bestaat de Commissie uit een   kamer voor welzijnsvoorzieningen en een kamer voor gezondheidsvoorzieningen.   Elke kamer is samengesteld uit de voorzitter, een ondervoorzitter en vijf leden   van de Commissie, en hun plaatsvervangers. De voorzitter en de plaatsvervangende   voorzitter van de Commissie zijn ook voorzitter en plaatsvervangende voorzitter   van de kamers. De ondervoorzitters en plaatsvervangende ondervoorzitters van de   Commissie zijn ook ondervoorzitter en plaatsvervangende ondervoorzitter van de   kamer waarvan ze deel uitmaken. <BR></P>  <P>§ 2. De voorzitter, de ondervoorzitters en hun plaatsvervangers getuigen van   juridische kennis en bekwaamheid.<BR></P>  <P>De voorzitter en de plaatsvervangende voorzitter zijn deskundig in gezins-,   welzijns- en gezondheidsaangelegenheden.<BR></P>  <P>De ondervoorzitter en de leden die deel uitmaken van de kamer voor   welzijnsvoorzieningen, en hun plaatsvervangers zijn deskundig in gezins- en   welzijnsaangelegenheden.<BR></P>  <P>De ondervoorzitter en de leden die deel uitmaken van de kamer voor   gezondheidsvoorzieningen, en hun plaatsvervangers zijn deskundig in   gezondheidsaangelegenheden.<BR></P>  <P>De deskundigheid in gezins- en welzijnsaangelegenheden of in   gezondheidsaangelegenheden kan blijken uit de praktijkervaring die is opgedaan   in die aangelegenheden.<BR></P>  <P>§ 3. De ministers benoemen de voorzitter, de ondervoorzitters, de leden en de   plaatsvervangers voor een termijn van vijf jaar, die tweemaal hernieuwbaar is.   Bij de benoeming van de ondervoorzitters, de leden en hun plaatsvervangers wordt   vermeld van welke kamer ze deel uitmaken.</P>
+<p>§ 1. De Commissie is samengesteld uit een voorzitter, vier ondervoorzitters en vierentwintig leden. Voor elk van hen is er een plaatsvervanger.<br>
+<br>
+Met behoud van de toepassing van artikel 8, § 2, bestaat de Commissie uit de volgende kamers:<br>
+1° een kamer voor welzijnsvoorzieningen;<br>
+2° een kamer voor gezondheidsvoorzieningen;<br>
+3° een kamer voor artsen-specialisten en huisartsen;<br>
+4° een kamer voor tandartsen en tandartsen-specialisten.<br>
+<br>
+De kamer voor welzijnsvoorzieningen en de kamer voor gezondheidsvoorzieningen zijn elk samengesteld uit een voorzitter, een ondervoorzitter en vijf leden van de Commissie, en hun plaatsvervangers.<br>
+<br>
+De kamer voor artsen-specialisten en huisartsen en de kamer voor tandartsen en tandartsen-specialisten zijn elk samengesteld uit een voorzitter, een ondervoorzitter en zeven leden van de Commissie, en hun plaatsvervangers.<br>
+<br>
+De voorzitter en de plaatsvervangende voorzitter van de Commissie zijn ook voorzitter en plaatsvervangende voorzitter van de kamers. De ondervoorzitters en plaatsvervangende ondervoorzitters van de Commissie zijn ook ondervoorzitter en plaatsvervangende ondervoorzitter van de kamer waarvan ze deel uitmaken..</p>
+
+<p>§ 2. De voorzitter, de ondervoorzitters en hun plaatsvervangers getuigen van juridische kennis en bekwaamheid.</p>
+
+<p>De voorzitter en de plaatsvervangende voorzitter zijn deskundig in gezins-, welzijns- en gezondheidsaangelegenheden.</p>
+
+<p>De ondervoorzitter en de leden die deel uitmaken van de kamer voor welzijnsvoorzieningen, en hun plaatsvervangers zijn deskundig in gezins- en welzijnsaangelegenheden.</p>
+
+<p>De ondervoorzitter en de leden die deel uitmaken van de kamer voor gezondheidsvoorzieningen, en hun plaatsvervangers zijn deskundig in gezondheidsaangelegenheden.</p>
+
+<p>De deskundigheid in gezins- en welzijnsaangelegenheden of in gezondheidsaangelegenheden kan blijken uit de praktijkervaring die is opgedaan in die aangelegenheden.<br>
+<br>
+De leden van de kamer voor artsen-specialisten en huisartsen en hun plaatsvervangers zijn deskundig in de procedure voor de erkenning van huisartsen en artsen-specialisten. De universiteiten en de beroepsorganisaties dragen elk vier leden en plaatsvervangende leden voor. Die leden kiezen in hun midden een ondervoorzitter en een plaatsvervangende ondervoorzitter.<br>
+<br>
+De leden van de kamer voor tandartsen en tandartsen-specialisten en hun plaatsvervangers zijn deskundig in de procedure voor de erkenning van tandartsen en tandartsen-specialisten. De universiteiten en de beroepsorganisaties dragen elk vier leden en plaatsvervangende leden voor. Die leden kiezen in hun midden een ondervoorzitter en een plaatsvervangende ondervoorzitter.<br>
+<br>
+§ 3. De ministers benoemen de voorzitter, de ondervoorzitters, de leden en de plaatsvervangers voor een termijn van vijf jaar, die tweemaal hernieuwbaar is. Bij de benoeming van de ondervoorzitters, de leden en hun plaatsvervangers wordt vermeld van welke kamer ze deel uitmaken.</p>
 
 ### ART. 3.
 
@@ -44,15 +85,41 @@ Tenzij dit besluit het anders bepaalt, wordt het advies van de Commissie   over 
 
 ### ART. 8.
 
-<P>§ 1. Bezwaren betreffende gezondheidsvoorzieningen worden behandeld door de   kamer voor gezondheidsvoorzieningen. Bezwaren betreffende welzijnsvoorzieningen   worden behandeld door de kamer voor welzijnsvoorzieningen.<BR></P>  <P>In afwijking van het eerste lid kunnen de ministers bepalen dat de bezwaren   betreffende een door hen te bepalen type gezondheidsvoorziening of   welzijnsvoorziening worden behandeld door de andere kamer, door een kamer als   vermeld in paragraaf 2, of door de Commissie, als er een wezenlijke samenhang   bestaat tussen het type gezondheidsvoorziening en een of meer types van   welzijnsvoorzieningen of omgekeerd. <BR></P>  <P>In afwijking van het eerste lid kan de voorzitter van de Commissie, op eigen   initiatief of op verzoek van een kamer, het bezwaar laten behandelen door de   Commissie als het bezwaar principiële vragen oproept waarvan de oplossing alle   kamers aanbelangt.<BR></P>  <P>§ 2. Op verzoek van de Commissie of na advies van de Commissie kunnen de   ministers een kamer oprichten die conform artikel 2, § 1, tweede lid,   samengesteld is uit leden en plaatsvervangers van elk van de beide kamers,   vermeld in artikel 2, § 1, tweede lid. De ministers bepalen de nadere   samenstelling van die kamer. </P>
+<p>§ 1. Bezwaren betreffende gezondheidsvoorzieningen worden behandeld door de kamer voor gezondheidsvoorzieningen. Bezwaren betreffende welzijnsvoorzieningen worden behandeld door de kamer voor welzijnsvoorzieningen.</p>
+
+<p>In afwijking van het eerste lid kunnen de ministers bepalen dat de bezwaren betreffende een door hen te bepalen type gezondheidsvoorziening of welzijnsvoorziening worden behandeld door de andere kamer, door een kamer als vermeld in paragraaf 2, of door de Commissie, als er een wezenlijke samenhang bestaat tussen het type gezondheidsvoorziening en een of meer types van welzijnsvoorzieningen of omgekeerd.</p>
+
+<p>In afwijking van het eerste lid kan de voorzitter van de Commissie, op eigen initiatief of op verzoek van een kamer als vermeld in het eerste lid, het bezwaar laten behandelen door de Commissie als het bezwaar principiële vragen oproept waarvan de oplossing&nbsp;beide kamers, vermeld in het eerste lid, aanbelangt.<br>
+<br>
+In afwijking van artikel 2, § 1, eerste lid, is de Commissie, als ze met toepassing van het tweede of het derde lid een bezwaar behandelt, uitsluitend samengesteld uit de voorzitter van de Commissie en de ondervoorzitters en de leden van de kamers, vermeld in het eerste lid, of hun plaatsvervangers. In afwijking van artikel 13, § 1, kan ze alleen geldig beraadslagen en stemmen als minstens de voorzitter of een ondervoorzitter en drie leden van elk van de voormelde kamers, of hun plaatsvervangers, aanwezig zijn.<br>
+<br>
+§ 2. Op verzoek van de Commissie of na advies van de Commissie kunnen de ministers een kamer oprichten die conform artikel 2, § 1, derde lid, samengesteld is uit leden en plaatsvervangers van elk van de beide kamers, vermeld in artikel 2, § 1, derde lid. De ministers bepalen de nadere samenstelling van die kamer.<br>
+<br>
+Voor de toepassing van het eerste lid gelden voor de samenstelling van de Commissie en voor de beraadslaging en de stemming door de Commissie de bepalingen van paragraaf 1, vierde lid. In afwijking van artikel 13, § 2, eerste lid, keurt de Commissie het verzoek of het advies met minstens negen stemmen goed.<br>
+<br>
+§ 3. Bezwaren over de erkenning van artsen-specialisten en huisartsen worden behandeld door de kamer voor artsen-specialisten en huisartsen. Bezwaren over de erkenning van tandartsen en tandartsen-specialisten worden behandeld door de kamer voor tandartsen en tandartsen-specialisten.</p>
 
 ### ART. 9.
 
-<P>§ 1. De vergadering van een kamer wordt voorgezeten door de voorzitter of de   ondervoorzitter van de kamer of zijn plaatsvervanger. <BR></P>  <P>§ 2. Alleen de voorzitter, de ondervoorzitter en de leden van de kamer of hun   plaatsvervangers zijn stemgerechtigd. Ze hebben elk een stem.<BR></P>  <P>§ 3. Een kamer kan alleen geldig beraadslagen en stemmen als minstens de   voorzitter of de ondervoorzitter en drie leden, of plaatsvervangers, aanwezig   zijn.<BR></P>  <P>Als geen consensus kan worden bereikt, worden beslissingen genomen bij gewone   meerderheid.<BR></P>  <P>Bij de stemming worden onthoudingen niet in aanmerking genomen om de vereiste   meerderheid te bereiken. Bij staking van stemmen is de stem van de voorzitter   doorslaggevend.<BR></P>  <P>§ 4. Wie een persoonlijk belang heeft bij de behandeling van een bezwaar, kan   de beraadslaging en de stemming over dat bezwaar niet bijwonen.   </P>
+<p>§ 1. De vergadering van een kamer wordt voorgezeten door de voorzitter of de ondervoorzitter van de kamer of zijn plaatsvervanger.</p>
+
+<p>§ 2. Alleen de voorzitter, de ondervoorzitter en de leden van de kamer of hun plaatsvervangers zijn stemgerechtigd. Ze hebben elk een stem.</p>
+
+<p>§ 3.&nbsp;De kamer voor welzijnsvoorzieningen en de kamer voor gezondheidsvoorzieningen kunnen alleen geldig beraadslagen en stemmen als minstens de voorzitter of de ondervoorzitter en drie leden, of plaatsvervangers, aanwezig zijn. De kamer voor artsen-specialisten en huisartsen en de kamer voor tandartsen en tandartsen-specialisten kunnen alleen geldig beraadslagen en stemmen als minstens de voorzitter of de ondervoorzitter en vijf leden, of hun plaatsvervangers, aanwezig zijn.</p>
+
+<p>Als geen consensus kan worden bereikt, worden beslissingen genomen bij gewone meerderheid.</p>
+
+<p>Bij de stemming worden onthoudingen niet in aanmerking genomen om de vereiste meerderheid te bereiken. Bij staking van stemmen is de stem van de voorzitter van de vergadering doorslaggevend.</p>
+
+<p>§ 4. Wie een persoonlijk belang heeft bij de behandeling van een bezwaar, kan de beraadslaging en de stemming over dat bezwaar niet bijwonen.</p>
 
 ### ART. 10.
 
-<P>De kamer hoort de indiener van het bezwaar als die daarom in zijn   bezwaarschrift heeft verzocht, of op eigen initiatief. Ze hoort ook de bevoegde   entiteit. Ze kan op eigen initiatief of op verzoek van de indiener van het   bezwaar of van de bevoegde entiteit Zorginspectie van het Departement Welzijn,   Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit   van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn,   Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot   oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en   Gezin en betreffende de wijziging van regelgeving met betrekking tot dat   beleidsdomein, horen.<BR></P>  <P>De uitnodiging daarvoor wordt uiterlijk de achtste dag voor de vergadering   per aangetekende brief verstuurd aan de indiener van het bezwaar en met de   gewone of elektronische post aan de bevoegde entiteit en aan Zorginspectie,   vermeld in het eerste lid, als Zorginspectie moet worden gehoord.<BR></P>  <P>De indiener van het bezwaar en de bevoegde entiteit kunnen zich tijdens de   vergadering laten bijstaan of vertegenwoordigen door een of meer personen die ze   daarvoor aanwijzen. Ze kunnen nog stukken neerleggen tot staving van hun   mondelinge uiteenzetting.</P>
+<p>De kamer hoort de indiener van het bezwaar als die daarom in zijn bezwaarschrift heeft verzocht, of op eigen initiatief. Ze hoort ook de bevoegde entiteit.&nbsp;De kamer voor welzijnsvoorzieningen en de kamer voor gezondheidsvoorzieningen kunnen op eigen initiatief of op verzoek van de indiener van het bezwaar of van de bevoegde entiteit Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, horen.</p>
+
+<p>De uitnodiging daarvoor wordt uiterlijk de achtste dag voor de vergadering per aangetekende brief verstuurd aan de indiener van het bezwaar en met de gewone of elektronische post aan de bevoegde entiteit en aan Zorginspectie, vermeld in het eerste lid, als Zorginspectie moet worden gehoord.</p>
+
+<p>De indiener van het bezwaar en de bevoegde entiteit kunnen zich tijdens de vergadering laten bijstaan of vertegenwoordigen door een of meer personen die ze daarvoor aanwijzen. Ze kunnen nog stukken neerleggen tot staving van hun mondelinge uiteenzetting.</p>
 
 ### ART. 11.
 
@@ -66,7 +133,15 @@ Met behoud van de toepassing van artikel 10 verleent de kamer haar advies   op s
 
 ### ART. 13.
 
-<P>§ 1. De Commissie kan alleen geldig beraadslagen en stemmen als minstens de   voorzitter of een ondervoorzitter en zes leden, of plaatsvervangers, aanwezig   zijn. Minstens drie leden of plaatsvervangers van elk van de kamers, vermeld in   artikel 2, § 1, tweede lid, zijn aanwezig.<BR></P>  <P>§ 2. Op de vergaderingen van de Commissie is artikel 9, § 1, § 2 en § 3,   tweede en derde lid, van overeenkomstige toepassing.<BR></P>  <P>In afwijking van het eerste lid keurt de Commissie met minstens negen stemmen   de volgende stukken goed : <BR>1° het advies over het beëindigen van een   mandaat, vermeld in artikel 4, tweede lid;<BR>2° het verzoek of het advies met   betrekking tot de oprichting van een kamer, vermeld in artikel 8, § 2;<BR>3° het   voorstel van huishoudelijk reglement of tot wijziging ervan, vermeld in artikel   17, eerste lid;<BR>4° het verslag, vermeld in artikel 19.</P>
+<p>§ 1. De Commissie kan alleen geldig beraadslagen en stemmen als minstens de voorzitter of een ondervoorzitter en&nbsp;dertien leden, of plaatsvervangers, aanwezig zijn. Minstens drie leden of plaatsvervangers van elk van de kamers, vermeld in artikel 2, § 1, tweede lid, zijn aanwezig.</p>
+
+<p>§ 2. Op de vergaderingen van de Commissie is artikel 9, § 1, § 2 en § 3, tweede en derde lid, van overeenkomstige toepassing.</p>
+
+<p>In afwijking van het eerste lid keurt de Commissie met minstens negentien stemmen de volgende stukken goed :<br>
+1° het advies over het beëindigen van een mandaat, vermeld in artikel 4, tweede lid;<br>
+2° ...;<br>
+3° het voorstel van huishoudelijk reglement of tot wijziging ervan, vermeld in artikel 17, eerste lid;<br>
+4° het verslag, vermeld in artikel 19.</p>
 
 ### ART. 14.
 
@@ -76,7 +151,9 @@ Als conform artikel 8, § 1, tweede lid of derde lid, de behandeling van   een b
 
 ### ART. 15.
 
-De Commissie en de kamers kunnen zich laten bijstaan door onpartijdige   deskundigen. De ministers kunnen nadere regels bepalen voor de aanstelling van   die deskundigen.
+De Commissie, de kamer voor welzijnsvoorzieningen en de kamer voor gezondheidsvoorzieningen kunnen zich laten bijstaan door onpartijdige deskundigen. De ministers kunnen nadere regels bepalen voor de aanstelling van die deskundigen.<br>
+<br>
+De kamer voor artsen-specialisten en huisartsen wordt bijgestaan door een arts-specialist of een huisarts, naargelang het bezwaar een erkenning als arts-specialist of als huisarts betreft. De kamer voor tandartsen en tandartsen-specialisten wordt bijgestaan door een algemeen tandarts of een tandarts-specialist, naargelang het bezwaar een erkenning als algemeen tandarts of als tandarts-specialist betreft.
 
 ### ART. 16.
 
@@ -96,7 +173,11 @@ De Commissie maakt jaarlijks een verslag op van haar werkzaamheden,   inclusief 
 
 ### ART. 20.
 
-<P>De voorzitter, de ondervoorzitters en de leden van de Commissie, hun   plaatsvervangers en de deskundigen ontvangen voor hun werkzaamheden een   presentiegeld per vergadering van de Commissie of van een kamer waaraan ze   deelnemen.<BR></P>  <P>Het presentiegeld per vergadering wordt door de ministers vastgesteld en   bedraagt maximaal 100 euro. Aan degene die de vergadering voorzit, wordt een   presentiegeld van 150 % van het door de ministers vastgestelde bedrag   toegekend.<BR></P>  <P>Er wordt voor maximaal vierentwintig vergaderingen per jaar een presentiegeld   toegekend. Twee of meer vergaderingen van de Commissie of van een kamer op   dezelfde dag gelden als een vergadering. </P>
+<p>De voorzitter, de ondervoorzitters en de leden van de Commissie, hun plaatsvervangers en de deskundigen ontvangen voor hun werkzaamheden een presentiegeld per vergadering van de Commissie of van een kamer waaraan ze deelnemen.</p>
+
+<p>Het presentiegeld per vergadering wordt door de ministers vastgesteld en bedraagt maximaal 100 euro. Aan degene die de vergadering voorzit, wordt een presentiegeld van 150 % van het door de ministers vastgestelde bedrag toegekend.</p>
+
+<p>Er wordt voor maximaal dertig vergaderingen per jaar een presentiegeld toegekend. Twee of meer vergaderingen van de Commissie of van een kamer op dezelfde dag gelden als een vergadering.</p>
 
 ### ART. 21.
 
