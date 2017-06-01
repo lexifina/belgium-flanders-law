@@ -29,6 +29,11 @@ g) informatie bezorgen die niet consistent of in overeenstemming met de werkelij
 Aan artikel 4.1.6 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 juli 2011, wordt een punt 15° toegevoegd, dat luidt als volgt:<br>
 "15° alle vormen van energiefraude, gerelateerd aan hun activiteiten, actief detecteren en vaststellen, en maatregelen nemen om energiefraude te vermijden.".
 
+### ART 4.
+
+Aan titel IV, hoofdstuk I, afdeling VI, van hetzelfde decreet wordt een artikel 4.1.18/2 toegevoegd, dat luidt als volgt:<br>
+"Art. 4.1.18/2. Teneinde de veilige en betrouwbare werking van het net te garanderen, dienen installateurs van hernieuwbare energiesystemen maandelijks aan elke netbeheerder in wiens gebied ze gedurende de voorgaande maand werken hebben uitgevoerd een lijst met hernieuwbare energie-installaties voor elektriciteitsproductie die door hen werden geïnstalleerd over te maken. De Vlaamse Regering kan nadere regels vaststellen met betrekking tot de vorm en de inhoud van deze meldingen.".
+
 ### ART 5.
 
 Aan titel IV, hoofdstuk I, afdeling X, van hetzelfde decreet, toegevoegd bij het decreet van 16 maart 2012 en gewijzigd bij het decreet van 14 maart 2014, wordt een onderafdeling IV toegevoegd, die luidt als volgt:<br>
@@ -162,6 +167,32 @@ Om alle nodige vaststellingen te verrichten, hebben de genoemde personeelsleden 
 2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de politierechter. In dat geval hebben de genoemde personeelsleden alleen toegang tussen vijf uur 's morgens en eenentwintig uur 's avonds.<br>
 <br>
 Indien de bewoner niettegenstaande een verleende toestemming of machtiging als vermeld in het vierde lid, de toegang verhindert, dan wordt de toekenning van subsidie of andere steun in het kader van dit decreet stopgezet of teruggevorderd.".
+
+### ART 24.
+
+Aan titel XIII, hoofdstuk IV, van hetzelfde decreet wordt een afdeling V toegevoegd, die luidt als volgt:<br>
+"Afdeling V. Procedure en administratieve geldboete bij niet-naleving van verplichtingen in het kader van het netbeheer".
+
+### ART 25.
+
+In hetzelfde decreet wordt aan afdeling V, toegevoegd bij artikel 24, een artikel 13.4.11 toegevoegd, dat luidt als volgt:<br>
+"Art. 13.4.11. § 1. Het Vlaams Energieagentschap legt, na de betrokkenen te hebben gehoord of daartoe naar behoren te hebben opgeroepen, aan iedere natuurlijke persoon of rechtspersoon in de volgende gevallen een administratieve geldboete op die niet lager is dan 150 euro, en niet hoger dan 20.000 euro:<br>
+1° bij het zonder machtiging van de betrokken netbeheerder handelingen uitvoeren op het distributienet of op het plaatselijk vervoernet voor elektriciteit;<br>
+2° bij het zonder machtiging de aansluiting op het distributienet of op het plaatselijk vervoernet voor elektriciteit manipuleren;<br>
+3° bij het niet uitvoeren van de meldingsverplichtingen die voortvloeien uit de toepassing van dit decreet, de uitvoeringsbesluiten ervan, het aansluitingsreglement, het aansluitingscontract of het technisch reglement;<br>
+4° bij het bezorgen van informatie die niet consistent of in overeenstemming met de werkelijkheid is in het kader van meldingsverplichtingen die voortvloeien uit de toepassing van dit decreet, de uitvoeringsbesluiten ervan, het aansluitingsreglement, het aansluitingscontract of het technisch reglement.<br>
+<br>
+§ 2. Het opleggen van de administratieve boete wordt aan de betrokkene meegedeeld in een met redenen omklede aangetekende brief, met verwijzing naar de bepalingen die van toepassing zijn en de hoogte van de administratieve boete.<br>
+<br>
+§ 3. Na de ontvangst van de kennisgeving, vermeld in paragraaf 2, moet de administratieve geldboete binnen zestig kalenderdagen betaald worden. Het Vlaams Energieagentschap kan uitstel van betaling verlenen voor een door haar bepaalde termijn.<br>
+<br>
+§ 4. Als de betrokkene nalaat de administratieve geldboete binnen de in paragraaf 3 bepaalde termijn te betalen, wordt de geldboete bij dwangbevel ingevorderd.<br>
+<br>
+Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een ambtenaar die daartoe door de Vlaamse Regering wordt aangewezen. Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot met bevel tot betaling of bij aangetekende brief.<br>
+<br>
+§ 5. Op het dwangbevel zijn de bepalingen van toepassing van deel V van het Gerechtelijk Wetboek houdende bewarend beslag en middelen tot tenuitvoerlegging.<br>
+<br>
+§ 6. De vordering tot betaling van de administratieve geldboete verjaart na verloop van vijf jaar, te rekenen van de dag waarop ze is ontstaan. De verjaring wordt gestuit op de wijze en onder de voorwaarden die bepaald is bij artikel 2244 en volgende van het Burgerlijk Wetboek.".
 
 ### ART 26.
 
