@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028297,
+  "title": "Besluit van de Vlaamse Regering van 2017-04-28 tot wijziging van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, wat betreft de oprichting van een kamer voor artsen-specialisten en huisartsen en een kamer voor tandartsen en tandartsen-specialisten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028297/VolledigDocument?datum=2017-06-01",
+  "source_sha256": "0db1ae5c1b4e64816afeeabf795e82ae7a45bb1ea89af08d482b3c58ff23b1f8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028297&param=informatie",
+  "as_of": "2017-06-01",
+  "made": "2017-04-28",
+  "gazette": "2017-06-07",
+  "numac": 2017012301,
+  "document_start": "2017-06-01",
+  "document_end": null,
+  "in_force": "2017-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2017-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
