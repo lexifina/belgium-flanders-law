@@ -4,31 +4,59 @@
 
 ### ART. 1.
 
-De artikelen 47, 11°, 48 en 68 van het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, hierna het Fonds te noemen, hebben uitwerking vanaf 1 juli 1994.
+In dit besluit wordt verstaan onder :<br>
+1° agentschap : het Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
+2° besluit van 4 februari 2011 : het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
+3° persoon met een handicap : de persoon met een handicap of zijn wettelijke vertegenwoordiger en, als de persoon met een handicap rechterlijk beschermd is met toepassing van de wet van 17 maart 2013 tot hervorming van de regelingen inzake onbekwaamheid en tot instelling van een nieuwe beschermingsstatus die strookt met de menselijke waardigheid, de persoon met een handicap en de bewindvoerder samen of de bewindvoerder;<br>
+4° zorgaanbieder : de aanbieder van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap, vermeld in artikel 1, 6° van het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap.
 
 ## HOOFDSTUK II TOEPASSINGSGEBIED
 
 ### ART. 2.
 
-Dit besluit is van toepassing op alle voorzieningen die krachtens artikel 46 van het voornoemde decreet van 27 juni 1990 door het Fonds moeten worden erkend en waarvan één of meer beheerders of personeelsleden gelden of goederen beheren van personen met een handicap.
+Dit besluit is van toepassing op alle voorzieningen of zorgaanbieders&nbsp;die krachtens artikel 6, 1° en 6, 10° van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap worden erkend of vergund&nbsp;en waarvan één of meer beheerders of personeelsleden gelden of goederen beheren van personen met een handicap.
 
 ### ART. 3.
 
-Voor de toepassing van dit besluit worden met beheerders van een voorziening gelijkgesteld de leden van de bestuursorganen van openbare besturen die als inrichtende macht van een voorziening fungeren.
+Voor de toepassing van dit besluit worden met beheerders van een voorziening of zorgaanbieders&nbsp;gelijkgesteld de leden van de bestuursorganen van openbare besturen die als inrichtende macht van een voorziening fungeren.
 
 ### ART. 4.
 
-Dit besluit is niet van toepassing op het beheer van kleine sommen die als zakgeld voor dagelijks gebruik beschouwd worden. Het maandelijks bedrag van deze kleine sommen mag de 4 000 frank niet overschrijden; dit maandelijks bedrag van 4 000 frank is gebonden aan de referte-index van de maand december 1993 en wordt jaarlijks op 1 januari aangepast aan de evolutie van het indexcijfer der kleinhandelsprijzen.<br /><br />Van de bestedingen van dat zakgeld dient door de voorziening maandelijks een gedetailleerde afrekening te worden gemaakt.
+Dit besluit is niet van toepassing op het beheer van kleine sommen die als zakgeld voor dagelijks gebruik beschouwd worden. Het maandelijks bedrag van deze kleine sommen mag 150,00 euro niet overschrijden.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, wordt vanaf 1 januari 2018 jaarlijks aangepast op 1 januari, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule :<br>
+(basisbedrag x G-index december 20..)/G-index december 2016.<br>
+<br>
+Van de bestedingen van dat zakgeld dient door de voorziening of zorgaanbieder&nbsp;maandelijks een gedetailleerde afrekening te worden gemaakt.
 
 ## HOOFDSTUK III BEHEER VAN GELDEN OF GOEDEREN
 
 ### ART. 5.
 
-Opdat een voorziening door het Fonds erkend zou kunnen worden en blijven, moet inzake het beheer van gelden of goederen van personen met een handicap dat aan één of meerdere beheerders of personeelsleden van de voorziening is toevertrouwd, aan de volgende voorwaarden worden voldaan:<br /><br />1° de machtiging tot het beheer van gelden of goederen dient te geschieden bij lastgeving overeenkomstig de bepalingen van de artikelen 1984 tot 2010 van het Burgerlijk Wetboek;<br /><br />2° het sluiten van deze overeenkomst door de beheerders of personeelsleden is onderworpen aan de voorafgaande instemming van [de inrichtende macht  <span class="reference">(verv. B.V.R. 15 december 2000, art. 10, I: 1 mei 2001)</span> ] van de voorziening;<br /><br />3° de [hulp- en dienstverlening  <span class="reference">(verv. B.V.R. 15 december 2000, art. 10, I: 1 mei 2001)</span> ] in een voorziening kan nooit afhankelijk gemaakt worden van het geven van de in dit artikel bedoelde lastgeving;<br /><br />4° de lastgeving wordt vastgesteld bij schriftelijke overeenkomst waarin de machtiging tot het beheer van gelden of goederen wordt vastgesteld en waarin desgevallend de draagwijdte van die machtiging wordt aangegeven;<br /><br />5° het bij het artikel 47, 10°, van voormeld decreet van 27 juni 1990 bedoelde protocol van verblijf, opvang, behandeling of begeleiding bevat een luik betreffende het beheer van de gelden of goederen van de persoon met een handicap, waarvan de minimale vermeldingen bepaald worden bij artikel 6 van dit besluit;<br /><br />6° een kopie van het in artikel 47, 10°, van voormeld decreet van 27 juni 1990 bedoeld protocol van verblijf, opvang, behandeling of begeleiding wordt gevoegd bij de in 4° vermelde overeenkomst;<br /><br />7° de plaatsing van gelden op een rekening bij een financiële instelling geschiedt op een individuele rekening op naam van de persoon met een handicap, waarvan de opbrengsten eigendom blijven van de persoon met een handicap en van niet geplaatste gelden wordt een individuele fiche bijgehouden;<br /><br />Een afschrift van de in het eerste lid, 4° en 5° bedoelde documenten alsmede van alle wijzigingen hieraan wordt ter beschikking gehouden van bij artikel 65 van datzelfde decreet van 27 juni 1990 bedoelde toezichthoudende ambtenaren en van de in hoofdstuk IV bedoelde toezichtsraad.
+Opdat een voorziening of zorgaanbieder&nbsp;door het&nbsp;agentschap vergund of erkend zou kunnen worden en blijven, moet inzake het beheer van gelden of goederen van personen met een handicap dat aan één of meerdere beheerders of personeelsleden van de voorziening of zorgaanbieder&nbsp;is toevertrouwd, aan de volgende voorwaarden worden voldaan:<br>
+1° de machtiging tot het beheer van gelden of goederen dient te geschieden bij lastgeving overeenkomstig de bepalingen van de artikelen 1984 tot 2010 van het Burgerlijk Wetboek;<br>
+2° het sluiten van deze overeenkomst door de beheerders of personeelsleden is onderworpen aan de voorafgaande instemming van de inrichtende macht&nbsp;van de voorziening of zorgaanbieder;<br>
+3° de&nbsp;zorg en ondersteuning&nbsp;door een voorziening of zorgaanbieder&nbsp;kan nooit afhankelijk gemaakt worden van het geven van de in dit artikel bedoelde lastgeving;<br>
+4° de lastgeving wordt vastgesteld bij schriftelijke overeenkomst waarin de machtiging tot het beheer van gelden of goederen wordt vastgesteld en waarin desgevallend de draagwijdte van die machtiging wordt aangegeven;<br>
+5°&nbsp;de individuele dienstverleningsovereenkomst, vermeld in artikel 8, § 1, eerste lid, 1°, van het besluit van 4 februari 2011 bevat een luik betreffende het beheer van de gelden of goederen van de persoon met een handicap, waarvan de minimale vermeldingen bepaald worden bij artikel 6 van dit besluit;<br>
+6° een kopie van de individuele dienstverleningsovereenkomst, vermeld in artikel 8, § 1, eerste lid, 1°, van het besluit van 4 februari 2011 wordt gevoegd bij de in 4° vermelde overeenkomst;<br>
+7° de plaatsing van gelden op een rekening bij een financiële instelling geschiedt op een individuele rekening op naam van de persoon met een handicap, waarvan de opbrengsten eigendom blijven van de persoon met een handicap en van niet geplaatste gelden wordt een individuele fiche bijgehouden;<br>
+<br>
+Een afschrift van de in het eerste lid, 4° en 5° bedoelde documenten alsmede van alle wijzigingen hieraan wordt ter beschikking gehouden van&nbsp;ambtenaren van Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein en van de in hoofdstuk IV bedoelde toezichtsraad.
 
 ### ART. 6.
 
-Het bij artikel 5, eerste lid, 5°, bedoelde luik van het protocol van verblijf, opvang, behandeling of begeleiding omvat tenminste volgende vermeldingen:<br /><br />1° de aanvangsdatum van de overeenkomst van lastgeving;<br /><br />2° een inventaris van de maandelijkse inkomsten van de persoon met een handicap, met een onderscheid tussen arbeidsinkomsten, vervangingsinkomens en andere persoonlijke inkomsten die het bedrag bedoeld in artikel 3 overschrijden; het vermogen van de persoon met een handicap wordt eveneens in die inventaris opgenomen indien de lastgeving ook op het beheer van het vermogen slaat;<br /><br />3° de financiële regelingen inzake:<br /><br />a) de persoonlijke bijdrage van de persoon met een handicap, met aanwijzing van het bedrag, de berekeningswijze en de wijze van betaling hiervan;<br /><br />b) de noodzakelijke aankopen voor of namens de persoon met een handicap, en inzake de maandelijkse afrekening van deze bedragen;<br /><br />4° de wijze waarop de persoon met een handicap of zijn wettelijke vertegenwoordiger bij het beheer van de gelden of goederen betrokken wordt;<br /><br />5° de door de lasthebber gesloten verzekeringsovereenkomsten betreffende of namens de persoon met een handicap;<br /><br />6° de financiële regelingen ingeval van schorsing van de overeenkomst en bij beëindiging van de overeenkomst of opname;<br /><br />7° de wijze van wijzigen, aanpassen of opzeggen van de overeenkomst;<br /><br />8° in voorkomend geval, de wijze van berekening en van vereffening van de gedane beheerskosten.
+De bij artikel 5, eerste lid, 5°, bedoelde individuele dienstverleningsovereenkomst&nbsp;omvat tenminste volgende vermeldingen:<br>
+1° de aanvangsdatum van de overeenkomst van lastgeving;<br>
+2° een inventaris van de maandelijkse inkomsten van de persoon met een handicap, met een onderscheid tussen arbeidsinkomsten, vervangingsinkomens en andere persoonlijke inkomsten die het bedrag bedoeld in artikel 3 overschrijden; het vermogen van de persoon met een handicap wordt eveneens in die inventaris opgenomen indien de lastgeving ook op het beheer van het vermogen slaat;<br>
+3° de financiële regelingen inzake:<br>
+a) de persoonlijke bijdrage van de persoon met een handicap, met aanwijzing van het bedrag, de berekeningswijze en de wijze van betaling hiervan;<br>
+b) de noodzakelijke aankopen voor of namens de persoon met een handicap, en inzake de maandelijkse afrekening van deze bedragen;<br>
+4° de wijze waarop de persoon met een handicap&nbsp;bij het beheer van de gelden of goederen betrokken wordt;<br>
+5° de door de lasthebber gesloten verzekeringsovereenkomsten betreffende of namens de persoon met een handicap;<br>
+6° de financiële regelingen ingeval van schorsing van de overeenkomst en bij beëindiging van de overeenkomst of opname;<br>
+7° de wijze van wijzigen, aanpassen of opzeggen van de overeenkomst;<br>
+8° in voorkomend geval, de wijze van berekening en van vereffening van de gedane beheerskosten.
 
 ### ART. 7.
 
@@ -38,11 +66,20 @@ Het bij artikel 5, eerste lid, 5°, bedoelde luik van het protocol van verblijf,
 
 ### ART. 8.
 
-§ 1. De toezichtsraad bedoeld in artikel 48 van het voornoemde decreet van 27 juni 1990 bestaat uit drie leden:<br /><br />1° een afgevaardigde van [het in de voorziening opgericht collectief overlegorgaan  <span class="reference">(verv. B.V.R. 15 december 2000, art. 11, I: 1 mei 2001)</span> ] of, bij ontstentenis hiervan, een afgevaardigde van de in de voorziening opgenomen, behandelde of begeleide personen met een handicap of van hun familieleden;<br /><br />2° een afgevaardigde van de inrichtende macht van de voorziening; deze afgevaardigde mag niet in het bestuursorgaan zitting hebben in de hoedanigheid van vertegenwoordiger van de in de voorziening opgenomen, behandelde of begeleide personen met een handicap of van hun familieleden;<br /><br />3° een derde die niet behoort tot de in 1° en 2° vermelde instanties of personen, die deskundig is op juridisch of boekhoudkundig gebied en die gezamenlijk door de in 1° en 2° bedoelde instanties of personen aangewezen wordt. Dit lid neemt tevens het voorzitterschap waar.<br /><br />§ 2. De leden van de toezichtsraad duiden onderling een secretaris aan.<br /><br />§ 3. Geen in § 1, bedoeld lid van de toezichtsraad mag zelf overeenkomstig de bepalingen van hoofdstuk III beheer van gelden of goederen waarnemen, en geen in § 1, 1° en 3°, bedoeld lid van de toezichtsraad mag lid van het bestuursorgaan of van het personeel van de voorziening zijn, of mag betaalde prestaties leveren ten voordele van de voorziening.
+§ 1.&nbsp;Elke voorziening of zorgaanbieder als vermeld in artikel 2 richt een toezichtsraad op die bestaat uit drie leden:<br>
+1° een afgevaardigde van het in de voorziening of zorgaanbieder opgericht collectief overlegorgaan&nbsp;of, bij ontstentenis hiervan, een afgevaardigde van de in de voorziening opgenomen, behandelde of begeleide personen met een handicap of van hun familieleden;<br>
+2° een afgevaardigde van de inrichtende macht van de voorziening of zorgaanbieder; deze afgevaardigde mag niet in het bestuursorgaan zitting hebben in de hoedanigheid van vertegenwoordiger van de in de voorziening opgenomen, behandelde of begeleide personen met een handicap of van hun familieleden;<br>
+3° een derde die niet behoort tot de in 1° en 2° vermelde instanties of personen, die deskundig is op juridisch of boekhoudkundig gebied en die gezamenlijk door de in 1° en 2° bedoelde instanties of personen aangewezen wordt. Dit lid neemt tevens het voorzitterschap waar.<br>
+<br>
+§ 2. De leden van de toezichtsraad duiden onderling een secretaris aan.<br>
+<br>
+§ 3. Geen in § 1, bedoeld lid van de toezichtsraad mag zelf overeenkomstig de bepalingen van hoofdstuk III beheer van gelden of goederen waarnemen, en geen in § 1, 1° en 3°, bedoeld lid van de toezichtsraad mag lid van het bestuursorgaan of van het personeel van de voorziening zijn, of mag betaalde prestaties leveren ten voordele van de voorziening.
 
 ### ART. 9.
 
-[Bij de vaststelling van de wederzijdse rechten en plichten, als bedoeld in artikel 1, § 2 van de bijlage II bij het besluit van de Vlaamse regering van 15 december 2000 betreffende de kwaliteitszorg in de voorzieningen voor de sociale integratie van personen met een handicap, moet de samenstelling van de toezichtsraad voor het beheer van gelden en goederen van de gebruiker vermeld, als de voorziening ertoe gehouden is dergelijke toezichtsraad op te richten met toepassing van artikel 48 van voormeld decreet van 27 juni 1990.<br /><br />De oprichting en samenstelling van de toezichtsraad, evenals alle wijzigingen hieraan, worden onverwijld schriftelijk medegedeeld aan het Fonds en aan de gebruikers.  <span class="reference">(verv. B.V.R. 15 december 2000, art. 12, I: 1 mei 2001)</span> ]
+Bij de vaststelling van de&nbsp;collectieve rechten en plichten, als bedoeld in artikel 15 van het besluit van de Vlaamse Regering van 4 februari 2011, moet de samenstelling van de toezichtsraad voor het beheer van gelden en goederen van de gebruiker vermeld, als de voorziening of zorgaanbieder ertoe gehouden is dergelijke toezichtsraad op te richten.<br>
+<br>
+De oprichting en samenstelling van de toezichtsraad, evenals alle wijzigingen hieraan, worden onverwijld schriftelijk medegedeeld aan het&nbsp;agentschap en aan de persoon met een handicap.
 
 ### ART. 10.
 
@@ -50,11 +87,23 @@ De toezichtsraad:<br /><br />1° kijkt minstens om de zes maanden de rekeningen 
 
 ### ART. 11.
 
-De toezichtsraad stelt over het in artikel 10, 1°, bedoelde nazicht een verslag op dat onverwijld wordt toegezonden aan het Fonds. Dat verslag wordt door alle leden van de toezichtsraad ondertekend.
+De toezichtsraad stelt over het in artikel 10, 1°, bedoelde nazicht een verslag op dat onverwijld wordt toegezonden aan het agentschap. Dat verslag wordt door alle leden van de toezichtsraad ondertekend.
 
 ### ART. 12.
 
-§ 1. De toezichtsraad ziet erop toe dat bij het onderzoek van een individuele klacht de anonimiteit van indiener van de klacht en het geheim van het onderzoek worden bewaard.<br /><br />§ 2. Als uit het in § 1 bedoelde onderzoek blijkt dat de klacht ongegrond is, wordt de indiener van de klacht hiervan verwittigd met mededeling van de redenen waarom de toezichtsraad de klacht ongegrond oordeelt.<br /><br />§ 3. Als uit het in § 1 bedoelde onderzoek blijkt dat de klacht gegrond is, wordt zij met de beheerder(s) van de gelden of goederen besproken en worden zo nodig bijsturingsmaatregelen afgesproken. De indiener van de klacht wordt hiervan verwittigd.<br /><br />§ 4. Indien tenminste twee leden van de toezichtsraad van oordeel zijn dat de klachten moeten worden aanhangig gemaakt bij het Fonds, of, indien de in § 3 bedoelde bijsturingsmaatregelen niet worden nageleefd, wordt de leidend ambtenaar van het Fonds hiervan in kennis gesteld. Tegelijk worden ook de voorzieningen, de beheerder van gelden of goederen en de indiener van de klacht ervan in kennis gesteld.<br /><br />§ 5. De leidend ambtenaar van het Fonds neemt binnen de drie maanden na de kennisgeving bedoeld in § 4 daaromtrent een beslissing, zo nodig na de betrokken persoon of voorziening gehoord te hebben of na de bijkomende onderzoekingen die hij nodig acht.<br /><br />Deze beslissing wordt aan de betrokken voorziening medegedeeld. Een kopie ervan wordt aan de indiener van de klacht toegestuurd.<br /><br />Deze beslissing kan een verwittiging of het doorverwijzen van de klacht naar de Raad van Bestuur van het Fonds omvatten.
+§ 1. De toezichtsraad ziet erop toe dat bij het onderzoek van een individuele klacht de anonimiteit van indiener van de klacht en het geheim van het onderzoek worden bewaard.<br>
+<br>
+§ 2. Als uit het in § 1 bedoelde onderzoek blijkt dat de klacht ongegrond is, wordt de indiener van de klacht hiervan verwittigd met mededeling van de redenen waarom de toezichtsraad de klacht ongegrond oordeelt.<br>
+<br>
+§ 3. Als uit het in § 1 bedoelde onderzoek blijkt dat de klacht gegrond is, wordt zij met de beheerder(s) van de gelden of goederen besproken en worden zo nodig bijsturingsmaatregelen afgesproken. De indiener van de klacht wordt hiervan verwittigd.<br>
+<br>
+§ 4. Indien tenminste twee leden van de toezichtsraad van oordeel zijn dat de klachten moeten worden aanhangig gemaakt bij het agentschap, of, indien de in § 3 bedoelde bijsturingsmaatregelen niet worden nageleefd, wordt de leidend ambtenaar van het agentschap hiervan in kennis gesteld. De voorziening of zorgaanbieder, de beheerder van gelden en goederen, de persoon met een handicap en de indiener van de klacht worden daarvan op dat moment op de hoogte gebracht.<br>
+<br>
+§ 5. De leidend ambtenaar van het agentschap neemt binnen de drie maanden na de kennisgeving bedoeld in § 4 daaromtrent een beslissing, zo nodig na de betrokken persoon of voorziening&nbsp;of zorgaanbieder gehoord te hebben of na de bijkomende onderzoekingen die hij nodig acht.<br>
+<br>
+Deze beslissing wordt aan de betrokken voorziening of zorgaanbieder medegedeeld. Een kopie ervan wordt aan de indiener van de klacht toegestuurd.<br>
+<br>
+Deze beslissing houdt een maatregel in als vermeld in artikel 56 of 57 van het besluit van de Vlaamse Regering van 4 februari 2011.
 
 ## HOOFDSTUK V WIJZIGINGS-, OVERGANGS- EN SLOTBEPALINGEN
 
