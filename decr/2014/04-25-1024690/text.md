@@ -210,7 +210,24 @@ Als het college van burgemeester en schepenen de bevoegde overheid is,   maakt d
 
 ### ART. 32.
 
-<P>§ 1. De bevoegde overheid, vermeld in artikel 15, neemt een beslissing over   een vergunningsaanvraag binnen een termijn van:<BR>1° honderdenvijf dagen als   geen advies van een omgevingsvergunningscommissie vereist is;<BR>2°   honderdtwintig dagen als een advies van een omgevingsvergunningscommissie   vereist is.<BR></P>  <P>§ 2. De termijnen, vermeld in paragraaf 1, worden van rechtswege eenmalig met   zestig dagen verlengd in de volgende gevallen:<BR>1° als met toepassing van   artikel 30, derde lid, een openbaar onderzoek georganiseerd wordt;<BR>2° als   toepassing wordt gemaakt van de administratieve lus, vermeld in artikel   13;<BR>3° als de vergunningsaanvraag wegenwerken omvat waarover de gemeenteraad   beslissingsbevoegdheid heeft.<BR></P>  <P>De mededeling van de termijnverlenging wordt aan de aanvrager verzonden vóór   de einddatum van de normale beslissingstermijn.<BR></P>  <P>§ 3. De termijnen, vermeld in paragraaf 1, gaan altijd in op de dag na de   datum dat de vergunningsaanvraag ontvankelijk en volledig wordt verklaard of,   bij ontstentenis van een beslissing daarover, de dertigste dag na de datum   waarop de aanvraag is ingediend.<BR></P>  <P>§ 4. Als geen beslissing is genomen binnen de vastgestelde of in voorkomend   geval verlengde termijn, wordt de omgevingsvergunning geacht te zijn   geweigerd.<BR></P>  <P>In afwijking van het eerste lid, worden de termijnen, vermeld in paragraaf 1,   als termijnen van orde beschouwd als de vergunningsaanvraag het gevolg is van   een wijziging of aanvulling van de indelingslijst waardoor een   milieueffectrapport of een omgevingsveiligheidsrapport moet worden opgesteld of   een passende beoordeling moet worden uitgevoerd. In voorkomend geval mag de   exploitatie worden voortgezet tot een definitieve beslissing wordt genomen over   de vergunningsaanvraag.<BR></P>
+<p>§ 1. De bevoegde overheid, vermeld in artikel 15, neemt een beslissing over een vergunningsaanvraag binnen een termijn van:<br>
+1° honderdenvijf dagen als geen advies van een omgevingsvergunningscommissie vereist is;<br>
+2° honderdtwintig dagen als een advies van een omgevingsvergunningscommissie vereist is.</p>
+
+<p>§ 2. De termijnen, vermeld in paragraaf 1, worden van rechtswege eenmalig met zestig dagen verlengd in de volgende gevallen:<br>
+1° als met toepassing van artikel 30, derde lid, een openbaar onderzoek georganiseerd wordt;<br>
+2° als toepassing wordt gemaakt van de administratieve lus, vermeld in artikel 13;<br>
+3° als de vergunningsaanvraag wegenwerken omvat waarover de gemeenteraad beslissingsbevoegdheid heeft.</p>
+
+<p>De mededeling van de termijnverlenging wordt aan de aanvrager verzonden vóór de einddatum van de normale beslissingstermijn.</p>
+
+<p>§ 3. De termijnen, vermeld in paragraaf 1, gaan altijd in op de dag na de datum dat de vergunningsaanvraag ontvankelijk en volledig wordt verklaard of, bij ontstentenis van een beslissing daarover, de dertigste dag na de datum waarop de aanvraag is ingediend.</p>
+
+<p>§ 4. Als geen beslissing is genomen binnen de vastgestelde of in voorkomend geval verlengde termijn, wordt de omgevingsvergunning geacht te zijn geweigerd.</p>
+
+<p>In afwijking van het eerste lid, worden de termijnen, vermeld in paragraaf 1, als termijnen van orde beschouwd als de vergunningsaanvraag het gevolg is van een wijziging of aanvulling van de indelingslijst waardoor een milieueffectrapport of een omgevingsveiligheidsrapport moet worden opgesteld of een passende beoordeling moet worden uitgevoerd. In voorkomend geval mag de exploitatie worden voortgezet tot een definitieve beslissing wordt genomen over de vergunningsaanvraag.<br>
+<br>
+§ 5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een archeologienota die is ingediend ter bekrachtiging werd toegevoegd bij de aanvraag, maar een beslissing nemen als de bekrachtigde archeologienota is bezorgd. Als er geen bekrachtigde archeologienota is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.</p>
 
 ### ART. 33.
 
@@ -274,7 +291,13 @@ Aan het voorwerp van de aanvraag en het plan kunnen wijzigingen worden   aangebr
 
 ### ART. 46.
 
-<P>§ 1.De bevoegde overheid, vermeld in artikel 15, neemt een beslissing over   een vergunningsaanvraag binnen een termijn van zestig dagen.<BR></P>  <P>De termijn gaat altijd in op de dag na de datum dat de vergunningsaanvraag   ontvankelijk en volledig wordt verklaard of, bij ontstentenis van een beslissing   daarover, de dertigste dag na de datum waarop de aanvraag is ingediend.<BR></P>  <P>§ 2. Als geen beslissing is genomen binnen de vastgestelde termijn, wordt de   omgevingsvergunning geacht te zijn geweigerd.<BR></P>
+<p>§ 1.De bevoegde overheid, vermeld in artikel 15, neemt een beslissing over een vergunningsaanvraag binnen een termijn van zestig dagen.</p>
+
+<p>De termijn gaat altijd in op de dag na de datum dat de vergunningsaanvraag ontvankelijk en volledig wordt verklaard of, bij ontstentenis van een beslissing daarover, de dertigste dag na de datum waarop de aanvraag is ingediend.</p>
+
+<p>§ 2. Als geen beslissing is genomen binnen de vastgestelde termijn, wordt de omgevingsvergunning geacht te zijn geweigerd.<br>
+<br>
+§ 3. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een archeologienota die is ingediend ter bekrachtiging werd toegevoegd bij de aanvraag, maar een beslissing nemen als de bekrachtigde archeologienota is bezorgd. Als er geen bekrachtigde archeologienota is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1, dan moet de omgevingsvergunning worden geweigerd.</p>
 
 ### ART. 47.
 
@@ -368,7 +391,28 @@ Als de gemeenteraad beslissingsbevoegdheid had met toepassing van artikel   31, 
 
 ### ART. 66.
 
-<P>§ 1. De bevoegde overheid, vermeld in artikel 52, neemt een definitieve   beslissing over de vergunningsaanvraag binnen een termijn van:<BR>1°   honderdtwintig dagen als de aanvraag in eerste administratieve aanleg   overeenkomstig de gewone vergunningsprocedure behandeld werd;<BR>2° zestig dagen   als de aanvraag in eerste administratieve aanleg overeenkomstig de   vereenvoudigde vergunningsprocedure behandeld werd.<BR></P>  <P>§ 2. Met behoud van de toepassing van paragraaf 2/1 wordt de   beslissingstermijn van rechtswege eenmalig met zestig dagen verlengd in de   volgende gevallen:<BR>1° als met toepassing van artikel 64, derde lid, een   openbaar onderzoek georganiseerd wordt;<BR>2° als toepassing wordt gemaakt van   de administratieve lus, vermeld in artikel 13;<BR>3° als de vergunningsaanvraag   wegenwerken omvat waarover de gemeenteraad beslissingsbevoegdheid heeft en de   gemeenteraad in de loop van de beroepsprocedure samengeroepen wordt met   toepassing van artikel 65.<BR><BR>De mededeling van de termijnverlenging wordt   aan de aanvrager en de beroepsindiener verzonden vóór de einddatum van de   beslissingstermijn.<BR><BR>§ 2/1. Met behoud van de toepassing van paragraaf 2   wordt de beslissingstermijn op gemotiveerd verzoek van de vergunningsaanvrager   eenmalig met zestig dagen verlengd.<BR><BR>De mededeling van de   termijnverlenging wordt aan de aanvrager en de beroepsindiener verzonden vóór de   einddatum van de beslissingstermijn.<BR><BR>§ 3. De termijnen, vermeld in   paragraaf 1, gaan altijd in op de dag na de datum dat het laatste beroep   ontvankelijk en volledig wordt verklaard of, bij ontstentenis van een beslissing   daarover, de dertigste dag na de datum waarop het laatste beroep is   ingediend.<BR><BR>Als geen beslissing is genomen binnen de vastgestelde of in   voorkomend geval verlengde termijn, wordt het beroep of worden de beroepen   geacht te zijn afgewezen en wordt de bestreden beslissing als definitief   aanzien.<BR><BR>§ 4. Artikel 33 en 34 zijn van overeenkomstige toepassing op de   beslissing.<BR></P>
+<p>§ 1. De bevoegde overheid, vermeld in artikel 52, neemt een definitieve beslissing over de vergunningsaanvraag binnen een termijn van:<br>
+1° honderdtwintig dagen als de aanvraag in eerste administratieve aanleg overeenkomstig de gewone vergunningsprocedure behandeld werd;<br>
+2° zestig dagen als de aanvraag in eerste administratieve aanleg overeenkomstig de vereenvoudigde vergunningsprocedure behandeld werd.</p>
+
+<p>§ 2. Met behoud van de toepassing van paragraaf 2/1 wordt de beslissingstermijn van rechtswege eenmalig met zestig dagen verlengd in de volgende gevallen:<br>
+1° als met toepassing van artikel 64, derde lid, een openbaar onderzoek georganiseerd wordt;<br>
+2° als toepassing wordt gemaakt van de administratieve lus, vermeld in artikel 13;<br>
+3° als de vergunningsaanvraag wegenwerken omvat waarover de gemeenteraad beslissingsbevoegdheid heeft en de gemeenteraad in de loop van de beroepsprocedure samengeroepen wordt met toepassing van artikel 65.<br>
+<br>
+De mededeling van de termijnverlenging wordt aan de aanvrager en de beroepsindiener verzonden vóór de einddatum van de beslissingstermijn.<br>
+<br>
+§ 2/1. Met behoud van de toepassing van paragraaf 2 wordt de beslissingstermijn op gemotiveerd verzoek van de vergunningsaanvrager eenmalig met zestig dagen verlengd.<br>
+<br>
+De mededeling van de termijnverlenging wordt aan de aanvrager en de beroepsindiener verzonden vóór de einddatum van de beslissingstermijn.<br>
+<br>
+§ 3. De termijnen, vermeld in paragraaf 1, gaan altijd in op de dag na de datum dat het laatste beroep ontvankelijk en volledig wordt verklaard of, bij ontstentenis van een beslissing daarover, de dertigste dag na de datum waarop het laatste beroep is ingediend.<br>
+<br>
+Als geen beslissing is genomen binnen de vastgestelde of in voorkomend geval verlengde termijn, wordt het beroep of worden de beroepen geacht te zijn afgewezen en wordt de bestreden beslissing als definitief aanzien.<br>
+<br>
+§ 4. Artikel 33 en 34 zijn van overeenkomstige toepassing op de beslissing.<br>
+<br>
+§ 5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een archeologienota die is ingediend ter bekrachtiging werd toegevoegd bij de aanvraag, maar een beslissing nemen als de bekrachtigde archeologienota is bezorgd. Als er geen bekrachtigde archeologienota is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.</p>
 
 ### ART. 67.
 
@@ -1848,7 +1892,12 @@ De inrichtingen die op de datum van de inwerkingtreding van dit decreet   vergun
 
 <p>§ 1. Milieueffectrapportages over projecten waarvoor de kennisgeving, vermeld in artikel 4.3.4, § 2, van het DABM, ter beschikking is gesteld van de administratie die bevoegd is voor milieueffectrapportage, vóór de datum van de inwerkingtreding van dit decreet, worden uitgevoerd overeenkomstig de procedure die van toepassing was op de datum van de terbeschikkingstelling van de kennisgeving.</p>
 
-<p>§ 2. Omgevingsveiligheidsrapportages waarvoor een beslissing van de afdeling, bevoegd voor veiligheidsrapportage overeenkomstig artikel 4.5.2, § 3, van het DABM, is tussengekomen voor de datum van inwerkingtreding van dit decreet, worden uitgevoerd overeenkomstig de procedure die van toepassing was op dat ogenblik.</p>
+<p>§ 2. Omgevingsveiligheidsrapportages waarvoor een beslissing van de afdeling, bevoegd voor veiligheidsrapportage overeenkomstig artikel 4.5.2, § 3, van het DABM, is tussengekomen voor de datum van inwerkingtreding van dit decreet, worden uitgevoerd overeenkomstig de procedure die van toepassing was op dat ogenblik.<br>
+<br>
+§ 3. De datum van inwerkingtreding van dit decreet, vermeld in paragraaf 1 en paragraaf 2, is een van de volgende data:<br>
+1° 1 januari 2018 voor aanvragen, meldingen, verzoeken of initiatieven die voldoen aan de toepassingsvoorwaarden van artikel 397, § 4;<br>
+2° de datum aangegeven door het college van burgemeester en schepenen overeenkomstig artikel 397, § 3, tweede lid, 2°, voor aanvragen, meldingen, verzoeken of initiatieven waarvoor punt 1° niet van toepassing is;<br>
+3° 23 februari 2017 voor alle andere aanvragen, meldingen, verzoeken of initiatieven.</p>
 
 ## [Afdeling 4/1 Overgangsmaatregelen met betrekking tot gemeentelijke stedenbouwkundige ambtenaren (ing. decr. 18 december 2015, art. 161)]
 
@@ -1876,13 +1925,13 @@ Personen die op de datum van goedkeuring van het besluit van de Vlaamse   Regeri
 3° artikel 204 tot en met 206, die in werking treden op 1 januari 2018;<br>
 4° paragraaf 2 en 3 die in werking treden op 1 februari 2017.<br>
 <br>
-§ 2. Als het college van burgemeester en schepenen de bevoegde overheid is, worden aanvragen, meldingen, verzoeken of initiatieven, vermeld in dit decreet, ingediend of opgestart vanaf 23 februari 2017 behandeld op grond van de bepalingen die geldig waren op 22 februari 2017, op voorwaarde dat akte is genomen, overeenkomstig paragraaf 3.<br>
+§ 2. Als het college van burgemeester en schepenen de bevoegde overheid is, worden aanvragen, meldingen, verzoeken of initiatieven, vermeld in dit decreet, ingediend of opgestart vanaf 23 februari 2017 behandeld op grond van de procedureregels die geldig waren op 22 februari 2017, op voorwaarde dat akte is genomen, overeenkomstig paragraaf 3.<br>
 <br>
 Er wordt evenwel gebruikgemaakt van de indelingslijst, vermeld in artikel 5.2.1, § 1, van het DABM, zoals deze zal gelden op 23 februari 2017.<br>
 <br>
 De bepalingen van het eerste en tweede lid gelden ook voor de procedures tot bijstelling of afwijking van de milieuvoorwaarden, schorsing of opheffing van de vergunning en inzake genetisch gemodificeerde of pathogene organismen.<br>
 <br>
-Vergunningen die worden verleend op basis van aanvragen gedaan vanaf 23 februari 2017 die behandeld worden op grond van de bepalingen die geldig waren op 22 februari 2017, gelden voor onbepaalde duur. In afwijking op de onbepaalde duur kan de bevoegde overheid beslissen een vergunning geheel of gedeeltelijk voor een bepaalde duur te verlenen in de gevallen, vermeld in artikel 68.<br>
+Vergunningen die worden verleend op basis van aanvragen gedaan vanaf 23 februari 2017 die behandeld worden op grond van de procedureregels die geldig waren op 22 februari 2017, gelden voor onbepaalde duur. In afwijking op de onbepaalde duur kan de bevoegde overheid beslissen een vergunning geheel of gedeeltelijk voor een bepaalde duur te verlenen in de gevallen, vermeld in artikel 68.<br>
 <br>
 De verplichtingen, vermeld in artikel 387, derde lid, zijn van overeenkomstige toepassing. De Vlaamse Regering kan hierover verdere regels vaststellen.<br>
 <br>
@@ -1893,4 +1942,11 @@ Procedures in beroepen tegen uitdrukkelijke of stilzwijgende beslissingen worden
 Het verzoek tot aktename, vermeld in het eerste lid, wordt behandeld als volgt:<br>
 1° het college van burgemeester en schepenen deelt, op straffe van onontvankelijkheid, uiterlijk op 14 februari 2017, haar beslissing tot toepassing van de mogelijkheid, vermeld in paragraaf 1, mee aan het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, met een aangetekend schrijven;<br>
 2° het college van burgemeester en schepenen vermeldt in haar beslissing tot wanneer zij de bepalingen die geldig waren op 22 februari 2017 wenst toe te passen, met als uiterste datum 1 juni 2017;<br>
-3° de Vlaamse minister, bevoegd voor Ruimtelijke Ordening, en de Vlaamse minister, bevoegd voor Leefmilieu, nemen gezamenlijk akte van deze mededeling.
+3° de Vlaamse minister, bevoegd voor Ruimtelijke Ordening, en de Vlaamse minister, bevoegd voor Leefmilieu, nemen gezamenlijk akte van deze mededeling.<br>
+<br>
+§ 4. Aanvragen, meldingen, verzoeken of initiatieven, vermeld in dit decreet, ingediend of opgestart vanaf 1 juni 2017 tot en met 31 december 2017, worden van rechtswege behandeld op grond van de procedureregels die geldig waren op 22 februari 2017, op voorwaarde dat:<br>
+1° het college van burgemeester en schepenen de bevoegde overheid is;<br>
+2° het college van burgemeester en schepenen besloten heeft toepassing te maken van de mogelijkheid, vermeld in paragraaf 2, eerste lid, tot 1 juni 2017;<br>
+3° de Vlaamse minister, bevoegd voor Ruimtelijke Ordening, en de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, gezamenlijk akte hebben genomen van de beslissing, vermeld in punt 2°.<br>
+<br>
+De bepalingen van paragraaf 2, tweede tot en met zesde lid, zijn van toepassing.
