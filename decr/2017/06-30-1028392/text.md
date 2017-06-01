@@ -142,6 +142,14 @@ In artikel 5 van het decreet van 19 mei 2006 betreffende de oprichting en de wer
 
 ## HOOFDSTUK 29 Wijzigingen van het decreet van 25 april 2014 betreffende de omgevingsvergunning
 
+### ART 113.
+
+Aan artikel 394 van het decreet van 25 april 2014 betreffende de omgevingsvergunning, gewijzigd bij het decreet van 23 december 2016, wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+" § 3. De datum van inwerkingtreding van dit decreet, vermeld in paragraaf 1 en paragraaf 2, is een van de volgende data:<br>
+1° 1 januari 2018 voor aanvragen, meldingen, verzoeken of initiatieven die voldoen aan de toepassingsvoorwaarden van artikel 397, § 4;<br>
+2° de datum aangegeven door het college van burgemeester en schepenen overeenkomstig artikel 397, § 3, tweede lid, 2°, voor aanvragen, meldingen, verzoeken of initiatieven waarvoor punt 1° niet van toepassing is;<br>
+3° 23 februari 2017 voor alle andere aanvragen, meldingen, verzoeken of initiatieven.".
+
 ## HOOFDSTUK 30 Wijzigingen van het decreet van 25 april 2014 betreffende complexe projecten
 
 ## HOOFDSTUK 31 Wijzigingen van het decreet van 18 december 2015 houdende diverse bepalingen inzake omgeving, natuur en landbouw en energie
