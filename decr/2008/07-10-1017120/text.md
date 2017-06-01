@@ -497,6 +497,10 @@ Aan een jongere die een niet modulair georganiseerde opleiding in een centrum vo
 
 Aan een jongere die voldaan heeft aan al de onderstaande voorwaarden wordt een getuigschrift over de basiskennis van het bedrijfsbeheer uitgereikt :<br />1° met uitzondering van de eerste graad, ten minste 4 schooljaren in het secundair onderwijs of in de leertijd hebben doorgebracht; <br />2° de voorwaarden van de basiskennis van het bedrijfsbeheer als vermeld in de programmawet van 10 februari 1998 tot bevordering van het zelfstandig ondernemerschap en in het koninklijk besluit van 21 oktober 1998 tot uitvoering van hoofdstuk I van titel II van de programmawet van 10 februari 1998 tot bevordering van het zelfstandig ondernemerschap.<br /><br />
 
+### ART 73bis.
+
+Indien aan de jongeren in het deeltijds beroepssecundair onderwijs met een verslag, vermeld in het eerste lid van artikel 58, in afwijking van artikel 70 en 71, een regulier studiebewijs van het deeltijds beroepssecundair onderwijs wordt uitgereikt, zal voorafgaand aan de uitreiking van deze studiebewijzen de overeenkomst van de doelen opgenomen in het individuele curriculum met de doelen, in voorkomend geval de eindtermen, van de algemene vorming en de doelen van de beroepsgerichte vorming zoals reglementair vastgelegd van het overeenkomstige structuuronderdeel, voorgelegd worden aan de onderwijsinspectie.
+
 ### ART. 74.
 
 De Vlaamse Regering stelt de modellen en de invulonderrichtingen vast van de studiebewijzen als vermeld in deze onderafdeling.<br /><br />
