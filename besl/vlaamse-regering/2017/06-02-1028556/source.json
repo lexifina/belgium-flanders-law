@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028556,
+  "title": "Besluit van de Vlaamse Regering van 2017-06-02 tot erkenning als kredietinstelling in het kader van artikel 18, § 1 van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving met het oog op de financiering van onroerende investeringen voor het gesubsidieerd vrij en officieel onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028556/VolledigDocument?datum=2017-06-01",
+  "source_sha256": "c27622f0033962c1d46d3fae827252da31dc2b6d6ea88b3f33c37f80f96354d3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028556&param=informatie",
+  "as_of": "2017-06-01",
+  "made": "2017-06-02",
+  "gazette": "2017-08-17",
+  "numac": 2017040569,
+  "document_start": "2017-06-01",
+  "document_end": null,
+  "in_force": "2017-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
