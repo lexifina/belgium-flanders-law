@@ -20,6 +20,11 @@ In artikel 98, § 1, eerste lid, van dezelfde codex wordt de laatste zin vervang
 
 ## Afdeling 2 Decreet Leren en Werken
 
+### ART III.26.
+
+In hetzelfde decreet wordt een artikel 73bis ingevoegd, dat luidt als volgt :<br>
+"Art. 73bis. Indien aan de jongeren in het deeltijds beroepssecundair onderwijs met een verslag, vermeld in het eerste lid van artikel 58, in afwijking van artikel 70 en 71, een regulier studiebewijs van het deeltijds beroepssecundair onderwijs wordt uitgereikt, zal voorafgaand aan de uitreiking van deze studiebewijzen de overeenkomst van de doelen opgenomen in het individuele curriculum met de doelen, in voorkomend geval de eindtermen, van de algemene vorming en de doelen van de beroepsgerichte vorming zoals reglementair vastgelegd van het overeenkomstige structuuronderdeel, voorgelegd worden aan de onderwijsinspectie.".
+
 ## Afdeling 3 Inwerkingtreding
 
 ## HOOFDSTUK 4 Deeltijds kunstonderwijs
