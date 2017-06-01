@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028322,
+  "title": "Besluit van de Vlaamse Regering van 2017-05-05 betreffende de erkenning van de beroepstitel van vroedvrouw",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028322/VolledigDocument?datum=2017-06-01",
+  "source_sha256": "65e79e32f082c3f26ea9417c35371e4e5c003e03a986f6d20356407075ac709a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028322&param=informatie",
+  "as_of": "2017-06-01",
+  "made": "2017-05-05",
+  "gazette": "2017-06-16",
+  "numac": 2017012269,
+  "document_start": "2017-06-01",
+  "document_end": null,
+  "in_force": "2017-06-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2017-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
