@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028261,
+  "title": "Besluit van de Vlaamse Regering van 2017-05-19 tot wijziging van het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat betreft nadere regels als het omgevingsloket en het uitwisselingsplatform wegens technische storingen onbeschikbaar zijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028261/VolledigDocument?datum=2017-06-01",
+  "source_sha256": "fb48d977f1810ec5c39c1bc830fa6688f39af09192aa27f11ec95c2c5ff3f6ab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028261&param=informatie",
+  "as_of": "2017-06-01",
+  "made": "2017-05-19",
+  "gazette": "2017-05-30",
+  "numac": 2017020377,
+  "document_start": "2017-06-01",
+  "document_end": null,
+  "in_force": "2017-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
