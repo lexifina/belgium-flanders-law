@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028247,
+  "title": "Decreet van 2017-05-12 houdende wijziging van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering en van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming, wat betreft de datum van indiening van de begroting bij het Vlaams Parlement",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028247/VolledigDocument?datum=2017-06-02",
+  "source_sha256": "962f638d8dfae92750fd6b276549459ba1373036667eb92e0d6036a9f8fba3fd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028247&param=informatie",
+  "as_of": "2017-06-02",
+  "made": "2017-05-12",
+  "gazette": "2017-05-23",
+  "numac": 2017020356,
+  "document_start": "2017-06-02",
+  "document_end": null,
+  "in_force": "2017-06-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-06-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
