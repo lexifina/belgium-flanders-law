@@ -154,7 +154,15 @@ De memorie van toelichting bij de jaarlijkse begroting bevat een verantwoording 
 
 ### ART. 15.
 
-§ 1. Het ontwerp van begroting of begrotingsaanpassing en het algemene en specifieke luik van de memorie van toelichting worden opgesteld door de Vlaamse Regering.<br /><br />§ 2. Het ontwerp van begroting of begrotingsaanpassing en het algemene luik van de memorie van toelichting, vermeld in paragraaf 1, wordt door de Vlaamse Regering ingediend bij het Vlaams Parlement uiterlijk op 21 oktober van het jaar dat aan het begrotingsjaar voorafgaat voor de initiele begroting, en uiterlijk op 30 april van het lopende jaar voor de eerste aanpassing van de begroting.<br /><br />Het specifieke luik van de memorie van toelichting, vermeld in paragraaf 1, wordt door de Vlaamse Regering ingediend bij het Vlaams Parlement uiterlijk op 28 oktober van het jaar dat aan het begrotingsjaar voorafgaat voor de initiele begroting, en uiterlijk op 30 april van het lopende jaar voor de eerste aanpassing van de begroting. <br /><br />§ 3. In de gevallen, vermeld in artikel 19 moet de Vlaamse Regering binnen vijftien kalenderdagen na haar beslissing een ontwerp van decreet tot aanpassing van de begroting samen met een memorie van toelichting bij het Vlaams Parlement indienen.
+§ 1. Het ontwerp van begroting of begrotingsaanpassing en het algemene en specifieke luik van de memorie van toelichting worden opgesteld door de Vlaamse Regering.<br>
+<br>
+§ 2. Het ontwerp van begroting of begrotingsaanpassing en het algemene luik van de memorie van toelichting, vermeld in paragraaf 1, wordt door de Vlaamse Regering ingediend bij het Vlaams Parlement uiterlijk op 28 oktober van het jaar dat aan het begrotingsjaar voorafgaat voor de initiele begroting, en uiterlijk op&nbsp;27 april van het lopende jaar voor de eerste aanpassing van de begroting.<br>
+<br>
+Het specifieke luik van de memorie van toelichting, vermeld in paragraaf 1, wordt door de Vlaamse Regering ingediend bij het Vlaams Parlement uiterlijk op&nbsp;31 oktober van het jaar dat aan het begrotingsjaar voorafgaat voor de initiele begroting, en uiterlijk op 30 april van het lopende jaar voor de eerste aanpassing van de begroting.<br>
+<br>
+De termijnen, bedoeld in het tweede lid, gelden ook voor de indiening van het ontwerp van decreet houdende bepalingen tot begeleiding van de begroting of van de eerste aanpassing van de begroting.<br>
+<br>
+§ 3. In de gevallen, vermeld in artikel 19 moet de Vlaamse Regering binnen vijftien kalenderdagen na haar beslissing een ontwerp van decreet tot aanpassing van de begroting samen met een memorie van toelichting bij het Vlaams Parlement indienen.
 
 ### ART. 16.
 
