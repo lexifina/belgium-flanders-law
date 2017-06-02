@@ -118,7 +118,9 @@
 
 ### ART. 21.
 
-...
+§ 1. ...<br>
+<br>
+§ 2. De regering brengt jaarlijks voor 30 september&nbsp;aan het Vlaams Parlement omstandig verslag uit over de inkomsten en uitgaven en de werking van het Vlaams Zorgfonds tijdens het afgelopen begrotingsjaar.
 
 ## [HOOFDSTUK IVBIS STRAFBEPALINGEN (ing. decr. 8 december 2000, art. 11)]
 
