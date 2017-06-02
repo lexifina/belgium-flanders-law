@@ -337,8 +337,7 @@ De zorgkassen leggen jaarlijks een boekhoudkundig verslag van alle verrichtingen
 
 ### ART 26.
 
-De Vlaamse Regering legt jaarlijks en uiterlijk op 31 oktober de begroting van het agentschap voor het volgende jaar aan het Vlaams Parlement voor.<br>
-&nbsp;
+...
 
 ### ART 27.
 
