@@ -15,7 +15,7 @@ Dit decreet voorziet, voor wat de bevoegdheden van het Vlaamse Gewest   betreft,
 In dit decreet wordt verstaan onder :<br>
 1° aanbieder van energiediensten: een natuurlijk persoon of rechtspersoon die in de inrichtingen of gebouwen van een netgebruiker energiediensten of andere maatregelen ter verbetering van de energie-efficiëntie levert;<br>
 1/1° aangifteplichtige : een natuurlijke persoon of rechtspersoon die de EPB-eisen moet naleven;<br>
-2° aansluitbaarheidsgraad : het aantal ontsloten wooneenheden of gebouwen in verhouding tot het totaal aantal wooneenheden en gebouwen in een bepaald gebied;<br>
+2° ...<br>
 3° aansluitbare wooneenheid of gebouw : wooneenheid die of gebouw dat nog niet aangesloten is op het aardgasdistributienet, en waarbij aan één van de volgende voorwaarden is voldaan :<br>
 a) er is een lagedrukleiding aanwezig langs de openbare weg aan dezelfde kant van de weg en ter hoogte van de wooneenheid of het gebouw;<br>
 b) de wooneenheid of het gebouw is niet gelegen in een gebied dat bestemd is voor bewoning en er is een lagedrukleiding aanwezig langs de openbare weg ter hoogte van de wooneenheid of het gebouw, al of niet aan dezelfde kant van de wooneenheid of het gebouw;<br>
@@ -184,11 +184,7 @@ b) en bijkomend voor projecten inzake zonne-energie : 31 januari;<br>
 94° ondersteunende dienst: een dienst die nodig is voor de exploitatie van een transmissie- of distributienet;<br>
 94° /1 onderwijsinstelling: alle scholen, internaten, centra voor volwassenenonderwijs en voor basiseducatie, centra voor leerlingenbegeleiding, hogescholen en universiteiten, die gefinancierd, gesubsidieerd of erkend zijn door het Vlaams Ministerie van Onderwijs en Vorming;<br>
 95° onrendabele top : het productieafhankelijk gedeelte van de inkomsten dat nodig is om de netto contante waarde van een investering op nul te doen uitkomen en die berekend wordt aan de hand van een cashflowberekening;<br>
-96° ontsloten wooneenheid of gebouw : wooneenheid die of gebouw dat aan één van de volgende voorwaarden voldoet :<br>
-a) de wooneenheid of het gebouw is aangesloten op een aardgasdistributienet;<br>
-b) het betreft een aansluitbare wooneenheid of gebouw;<br>
-c) er is langs de openbare weg een biogasnet aanwezig of een warmtenet dat gevoed wordt op basis van restwarmte, hernieuwbare energiebronnen of kwalitatieve warmtekrachtkoppeling;<br>
-d) de wooneenheid of het gebouw heeft een energieprestatiepeil lager dan E20 of voorziet in zijn volledige verwarmingsbehoefte door middel van hernieuwbare energiebronnen;<br>
+96° ...<br>
 97° openbaredienstverplichting : verplichting die betrekking heeft op de sociaaleconomische, ecologische of technische aspecten van de energievoorziening;<br>
 97° /1 peil van de energetische prestatie van de schil (of S-peil): peil dat de energetische prestatie van de schil van de EPB-eenheid weergeeft zoals vastgelegd door de Vlaamse Regering;<br>
 98° peil van globale warmte-isolatie (of K-peil) : peil van de globale warmte-isolatie zoals dat gedefinieerd is volgens de Belgische norm of de door de Vlaamse overheid vastgelegde specificaties;<br>
@@ -734,11 +730,21 @@ Elke elektriciteitsdistributienetbeheerder is ertoe gehouden om elke   iedere af
 
 ### ART. 4.1.15.
 
-Elke aardgasdistributienetbeheerder is ertoe gehouden om elk aansluitbare   wooneenheid of gebouw overeenkomstig de regels van het toepasselijke technisch   reglement aan te sluiten op het aardgasdistributienet als de eigenaar erom   vraagt, op voorwaarde dat :<BR>a) de aanvrager bij nieuwbouw een geldige   omgevingsvergunning voor stedenbouwkundige handelingen kan voorleggen;<BR>b) een   bestaande wooneenheid of een bestaand gebouw hoofdzakelijk vergund is of geacht   wordt vergund te zijn;<BR>c) bij wooneenheden en gebouwen die niet gelegen zijn   in een gebied bestemd voor bewoning, waar alleen aan de overzijde van de straat   een aardgasleiding aanwezig is, een onderboring technisch mogelijk is en er geen   dubbelzijdige aanleg in het investeringsplan gepland wordt.
+Elke aardgasdistributienetbeheerder is ertoe gehouden om&nbsp;elke afnemer die aardgas koopt voor eigen huishoudelijk gebruik en niet voor commerciële of professionele activiteiten overeenkomstig de regels van het toepasselijke technisch reglement aan te sluiten op het aardgasdistributienet als hij daartoe verzocht wordt, op voorwaarde dat :<br>
+a) de aanvrager bij nieuwbouw een geldige omgevingsvergunning voor stedenbouwkundige handelingen kan voorleggen;<br>
+b) een bestaande wooneenheid of een bestaand gebouw hoofdzakelijk vergund is of geacht wordt vergund te zijn.
 
 ### ART. 4.1.16.
 
-Iedere aardgasdistributienetbeheerder zorgt ervoor dat het geheel van de gebieden die gelegen zijn in het geografisch afgebakende gebied waarvoor hij werd aangewezen, een aansluitbaarheidsgraad heeft van :<br />1° minstens 95 % in 2015 en van minstens 99 % in 2020 bij een evenredige ontwikkeling van de aansluitingsgraad voor die gebieden die in het gewestplan of ruimtelijk uitvoeringsplan de bestemming woongebied hebben met uitzondering van de woongebieden met landelijk karakter;<br />2° minstens 95 % in 2020 bij een evenredige ontwikkeling van de aansluitingsgraad in woongebieden.<br /><br />De Vlaamse Regering kan de aansluitbaarheidsgraad voor andere gebieden vastleggen na een haalbaarheidsonderzoek.<br /><br />De aardgasdistributienetbeheerder brengt jaarlijks bij de VREG verslag uit van de aansluitingsgraad per 1 januari in de in dit artikel bedoelde gebieden. Indien uit deze verslaggeving blijkt dat de aansluitingsgraad zich niet evenredig ontwikkelt met de aansluitbaarheidsgraad, kan de Vlaamse Regering de timing, zoals vermeld in 1° en 2° van het eerste lid, herzien.
+Onverminderd artikel 4.1.13 is voor de netuitbreiding of netversterking met het oog op de aansluiting van een wooneenheid of gebouw het rendabele deel van de kosten voor de aanleg op het openbaar domein van de verbinding tussen de lagedrukleiding of de residentiële middendrukleiding, vermeld in artikel 1.1.3, 3°, c), enerzijds, en de wooneenheid of het gebouw, anderzijds, ten laste van de aardgasdistributienetbeheerder, behalve in de gevallen die door de Vlaamse Regering worden bepaald.<br>
+<br>
+Voor de netuitbreiding of netversterking met het oog op de ontsluiting van een verkaveling is het rendabele deel van de kosten voor de aanleg op het openbaar domein van de verbinding tussen de lagedrukleiding of de residentiële middendrukleiding, vermeld in artikel 1.1.3, 3°, c), enerzijds, en de verkaveling, anderzijds, ten laste van de aardgasdistributienetbeheerder, behalve in de gevallen die door de Vlaamse Regering worden bepaald.<br>
+<br>
+De Vlaamse Regering houdt voor het vaststellen van de uitzonderingen, vermeld in het eerste en tweede lid, minstens rekening met de aanwezigheid van andere netten en de energieprestaties van de aan te sluiten gebouwen.<br>
+<br>
+De aanvrager van de aansluiting of verkaveling draagt de overige kosten.<br>
+<br>
+De VREG beslist, met toepassing van afdeling XII, over het rendabele deel van de kosten voor de aanleg op het openbaar domein tussen het aardgasdistributienet en de wooneenheid, het gebouw of de verkaveling.
 
 ### ART. 4.1.17.
 
@@ -772,7 +778,26 @@ Teneinde de veilige en betrouwbare werking van het net te garanderen, dienen ins
 
 ### ART. 4.1.19.
 
-§ 1. Iedere netbeheerder stelt jaarlijks een indicatief investeringsplan op voor het net dat hij beheert. Het investeringsplan bestrijkt een periode van drie jaar.<br /><br />Het investeringsplan bevat :<br />1° een gedetailleerde raming van de capaciteitsbehoeften van het net in kwestie, met aanduiding van de onderliggende hypothesen;<br />2° het investeringsprogramma inzake vernieuwing en uitbreiding van het net dat de netbeheerder zal uitvoeren om aan de behoeften te voldoen;<br />3° een overzicht en toelichting over de in het afgelopen jaar uitgevoerde investeringen;<br />4° de toekomstverwachtingen in verband met decentrale productie.<br /><br />Voor wat de aardgasdistributienetbeheerders betreft, bevat het investeringsplan ook :<br />1° een gedetailleerd plan van het aardgasdistributienet van de aardgasdistributienetbeheerder, met aanduiding per straat (en eventueel huisnummers) van de bestaande aardgasleidingen;<br />2° een gedetailleerde lijst van het aardgasdistributienet van de aardgasdistributienetbeheerder, met aanduiding per straat (en eventueel huisnummers) van de aardgasleidingen waarvan de aanleg in de drie daaropvolgende jaren wordt gepland;<br />3° een berekening van de aansluitbaarheidsgraad op 1 januari van het beschouwde jaar en van de volgende drie jaren, wanneer de geplande investeringen worden uitgevoerd en een tijdspad om te komen tot de verplichtingen, vermeld in artikel 4.1.16.<br /><br />Het technisch reglement kan nader bepalen op welke wijze deze informatie ter beschikking wordt gesteld.<br /><br />§ 2. Het investeringsplan wordt jaarlijks ter goedkeu-ring voorgelegd aan de VREG.<br /><br />Als de VREG, na overleg met de netbeheerder, vaststelt dat de investeringen voorzien in het investeringsplan de netbeheerder niet in de mogelijkheid stellen om op een adequate en doeltreffende manier aan de capaciteitsbehoeften te voldoen of, voor wat de aardgasdistributienetbeheerders betreft, onvoldoende zijn om de verplichtingen vermeld in artikel 4.1.16 na te komen, kan de VREG de netbeheerder verplichten om het plan binnen een redelijke termijn aan te passen.<br /><br />Bij gebrek aan een beslissing door de VREG binnen drie maanden na de ontvangst ervan wordt het investeringsplan geacht aangenomen te zijn. Als de VREG aan de netbeheerder bijkomende inlichtingen vraagt, wordt die termijn met nog eens drie maanden verlengd.
+§ 1. Iedere netbeheerder stelt jaarlijks een indicatief investeringsplan op voor het net dat hij beheert. Het investeringsplan bestrijkt een periode van drie jaar.<br>
+<br>
+Het investeringsplan bevat :<br>
+1° een gedetailleerde raming van de capaciteitsbehoeften van het net in kwestie, met aanduiding van de onderliggende hypothesen;<br>
+2° het investeringsprogramma inzake vernieuwing en uitbreiding van het net dat de netbeheerder zal uitvoeren om aan de behoeften te voldoen;<br>
+3° een overzicht en toelichting over de in het afgelopen jaar uitgevoerde investeringen;<br>
+4° de toekomstverwachtingen in verband met decentrale productie.<br>
+<br>
+Voor wat de aardgasdistributienetbeheerders betreft, bevat het investeringsplan ook :<br>
+1° een gedetailleerd plan van het aardgasdistributienet van de aardgasdistributienetbeheerder, met aanduiding per straat (en eventueel huisnummers) van de bestaande aardgasleidingen;<br>
+2° een gedetailleerde lijst van het aardgasdistributienet van de aardgasdistributienetbeheerder, met aanduiding per straat (en eventueel huisnummers) van de aardgasleidingen waarvan de aanleg in de drie daaropvolgende jaren wordt gepland;<br>
+3° het aantal aangesloten en het aantal aansluitbare wooneenheden en gebouwen op 1 januari van het beschouwde jaar.<br>
+<br>
+Het technisch reglement kan nader bepalen op welke wijze deze informatie ter beschikking wordt gesteld.<br>
+<br>
+§ 2. Het investeringsplan wordt jaarlijks ter goedkeu-ring voorgelegd aan de VREG.<br>
+<br>
+Als de VREG, na overleg met de netbeheerder, vaststelt dat de investeringen voorzien in het investeringsplan de netbeheerder niet in de mogelijkheid stellen om op een adequate en doeltreffende manier aan de capaciteitsbehoeften te voldoen, kan de VREG de netbeheerder verplichten om het plan binnen een redelijke termijn aan te passen.<br>
+<br>
+Bij gebrek aan een beslissing door de VREG binnen drie maanden na de ontvangst ervan wordt het investeringsplan geacht aangenomen te zijn. Als de VREG aan de netbeheerder bijkomende inlichtingen vraagt, wordt die termijn met nog eens drie maanden verlengd.
 
 ## Afdeling VIII. Openbaredienstverplichtingen opgelegd aan de netbeheerder
 
