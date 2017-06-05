@@ -8,6 +8,37 @@
 
 ## HOOFDSTUK 2 Aanpassingen aan het Energiedecreet van 8 mei 2009
 
+### ART 2.
+
+In artikel 1.1.3 van het Energiedecreet van 8 mei 2009, het laatst gewijzigd bij het decreet van 24 februari 2017, worden punt 2° en 96° opgeheven.
+
+### ART 3.
+
+In artikel 4.1.15 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "elk aansluitbare wooneenheid of gebouw" worden vervangen door de woorden "elke afnemer die aardgas koopt voor eigen huishoudelijk gebruik en niet voor commerciële of professionele activiteiten";<br>
+2° de woorden "de eigenaar erom vraagt" worden vervangen door de woorden "hij daartoe verzocht wordt";<br>
+3° punt c) wordt opgeheven.
+
+### ART 4.
+
+Artikel 4.1.16 van hetzelfde decreet, gewijzigd bij het decreet van 8 juli 2011, wordt vervangen door wat volgt:<br>
+"Art. 4.1.16. Onverminderd artikel 4.1.13 is voor de netuitbreiding of netversterking met het oog op de aansluiting van een wooneenheid of gebouw het rendabele deel van de kosten voor de aanleg op het openbaar domein van de verbinding tussen de lagedrukleiding of de residentiële middendrukleiding, vermeld in artikel 1.1.3, 3°, c), enerzijds, en de wooneenheid of het gebouw, anderzijds, ten laste van de aardgasdistributienetbeheerder, behalve in de gevallen die door de Vlaamse Regering worden bepaald.<br>
+<br>
+Voor de netuitbreiding of netversterking met het oog op de ontsluiting van een verkaveling is het rendabele deel van de kosten voor de aanleg op het openbaar domein van de verbinding tussen de lagedrukleiding of de residentiële middendrukleiding, vermeld in artikel 1.1.3, 3°, c), enerzijds, en de verkaveling, anderzijds, ten laste van de aardgasdistributienetbeheerder, behalve in de gevallen die door de Vlaamse Regering worden bepaald.<br>
+<br>
+De Vlaamse Regering houdt voor het vaststellen van de uitzonderingen, vermeld in het eerste en tweede lid, minstens rekening met de aanwezigheid van andere netten en de energieprestaties van de aan te sluiten gebouwen.<br>
+<br>
+De aanvrager van de aansluiting of verkaveling draagt de overige kosten.<br>
+<br>
+De VREG beslist, met toepassing van afdeling XII, over het rendabele deel van de kosten voor de aanleg op het openbaar domein tussen het aardgasdistributienet en de wooneenheid, het gebouw of de verkaveling.".
+
+### ART 5.
+
+In artikel 4.1.19 van hetzelfde decreet, gewijzigd bij het decreet van 8 juli 2011, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, derde lid, wordt punt 3° vervangen door wat volgt:<br>
+"3° het aantal aangesloten en het aantal aansluitbare wooneenheden en gebouwen op 1 januari van het beschouwde jaar.";<br>
+2° in paragraaf 2, tweede lid, wordt de zinsnede "of, voor wat de aardgasdistributienetbeheerders betreft, onvoldoende zijn om de verplichtingen vermeld in artikel 4.1.16 na te komen" opgeheven.
+
 ## HOOFDSTUK 3 Slotbepalingen
 
 ### ART 6.
