@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028255,
+  "title": "Besluit van de Vlaamse Regering van 2017-04-21 houdende de wijziging van diverse bepalingen van het koninklijk besluit van 24 september 2006 betreffende de uitoefening en de organisatie van ambulante activiteiten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028255/VolledigDocument?datum=2017-06-08",
+  "source_sha256": "e7a015e6cde1aa4098ea2ef5e27f9e754db683b87064596a33e499f2605d9dd4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028255&param=informatie",
+  "as_of": "2017-06-08",
+  "made": "2017-04-21",
+  "gazette": "2017-05-29",
+  "numac": 2017040330,
+  "document_start": "2017-06-08",
+  "document_end": null,
+  "in_force": "2017-06-08",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2017-06-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
