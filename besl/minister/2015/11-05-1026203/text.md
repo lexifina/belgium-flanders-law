@@ -52,16 +52,7 @@ Dit besluit treedt in werking op 1 januari   2016.
 
 <p>1.1.5. keurmeester: het personeelslid van de bevoegde entiteit, dat de officiële controlewerkzaamheden die beschreven worden in dit reglement, uitvoert. De keurmeester verzamelt informatie door waarnemingen uit te voeren op het veld en in de firma's, en door monsters te nemen. De persoon beschikt over de nodige vakbekwaamheid, wat uit officiële examens gebleken is, haalt geen persoonlijk voordeel uit de controle, verbindt zich er schriftelijk toe alle reglementaire voorschriften na te leven en volgt de informatieve studiedagen die door de bevoegde entiteit worden georganiseerd.</p>
 
-<p>1.1.6. officieel laboratorium: onafhankelijk laboratorium dat door de bevoegde entiteit wordt aangeduid om controles op de aanwezigheid van plantenziekten bij pootaardappelen uit te voeren volgens de gangbare internationale methoden.</p>
-
-<p>Het laboratorium moet aan de volgende voorwaarden voldoen:<br>
-1) beschikken over een kwaliteitshandboek, opgesteld volgens de gangbare internationale methoden;<br>
-2) beschikken over gekwalificeerd personeel en een persoon aanwijzen die verantwoordelijk is voor de instructies en de goede werking van de apparatuur. De studie- en beroepskwalificaties van het personeel en, in het bijzonder, van de verantwoordelijke(n) voor de uitvoering van de diensten, inzonderheid voor het toetsen van plantaardig materiaal op de aanwezigheid van pathogene ziekteverwekkers en het gebruik van virologische testen (ELISA of PCR testen), moeten voorgelegd worden;<br>
-3) zich ertoe verbinden:<br>
-a) een boekhouding van de monsters en de ontledingsuitslagen bij te houden overeenkomstig het kwaliteitshandboek;<br>
-b) de monsters gedurende minimaal zes weken vanaf ontvangst van de monsters ter beschikking te houden van de bevoegde entiteit;<br>
-4) beschikken over de nodige lokalen en apparatuur om de ontledingen uit te voeren;<br>
-5) een beschrijving voorleggen van de maatregelen die het laboratorium treft om de kwaliteit van de onderzoeken te waarborgen, en van de mogelijkheden die het biedt.</p>
+<p>1.1.6. officieel laboratorium: onafhankelijk laboratorium dat door de bevoegde entiteit wordt erkend om controles op de aanwezigheid van plantenziekten bij pootaardappelen uit te voeren volgens de gangbare internationale methoden.</p>
 
 <p>1.2. Operatoren in de pootaardappelsector</p>
 
@@ -100,30 +91,68 @@ d) verdeler van pootaardappelen in kleine verpakkingen: door de bevoegde entitei
 - gebruikte keuringsdocumenten volgens de instructies van de bevoegde entiteit te bewaren;<br>
 - aan de keurmeester op het geschikte tijdstip de nodige monsters te leveren of door de keurmeester op het geschikte tijdstip de nodige monsters te laten nemen voor het laboratoriumonderzoek en voor de aanleg van controlevelden.</p>
 
-<p>1.4. Erkenningen</p>
-
-<p>Producent-bereiders, bereiders en verdelers van pootaardappelen in kleine verpakkingen moeten door de bevoegde entiteit erkend worden.</p>
-
-<p>Om erkend te kunnen worden, moeten de betrokken personen tijdens de procedure tot registratie of na hun registratie een aanvraag tot erkenning indienen bij de procesverantwoordelijke. Erkende bedrijven moeten een voorraadboekhouding bijhouden over de binnenkomende en uitgaande partijen pootaardappelen vanaf de oogst of de verwerving ervan. Ze moeten die boekhouding ter beschikking van de toezichthouder houden gedurende drie jaar.</p>
-
-<p>1.4.1. De producent-bereiders en de bereiders van pootaardappelen worden erkend als ze aan de volgende voorwaarden voldoen:<br>
-- beschikken over zuivere, droge, goed verluchte lokalen die uitsluitend gebruikt worden voor de te certificeren pootaardappelen. Die lokalen zijn geïsoleerd tegen de vorst en voorzien van een voldoende luchtverversingssysteem. De oppervlakte van de opslag- en bewerkingsruimte moet in verhouding staan tot de omvang van de productie;<br>
-- beschikken over de noodzakelijke inrichting en apparatuur voor de werkzaamheden waarvoor een erkenning gevraagd wordt. Er moet tijdens de triage minstens een trieur-calibreur en een leestafel aanwezig zijn. De installatie moet zo nodig beschikken over apparatuur om certificaten en/of etiketten aan te brengen overeenkomstig de geldende reglementering. Als de installatie ook voor andere activiteiten gebruikt wordt, moet dat vóór de geplande activiteit aangevraagd worden bij de procesverantwoordelijke. De procesverantwoordelijke kan aanvullende voorwaarden opleggen om die activiteiten uit te voeren;<br>
-- zich ertoe verbinden alleen pootaardappelen ter certificering aan te bieden die beantwoorden aan de geldende normen voor identiteit en raszuiverheid, afstamming, technologische en gezondheidsnormen;<br>
-- gebruik maken van verpakkingen die overeenkomstig het besluit van de Vlaamse Regering van 19 januari 2007 houdende de reglementering van de handel in en de keuring van pootaardappelen, worden gesloten en voorzien van certificaten die de voorgeschreven vermeldingen dragen;<br>
-- een persoon aanwijzen die verantwoordelijk is voor het geven van instructies aan het personeel en voor de goede werking van de installaties;<br>
-- voor de duur van de triagewerkzaamheden aan de keurmeester alle ondersteuning en medewerking geven zodat hij zijn controlewerkzaamheden kan verrichten.</p>
-
-<p>1.4.2. De verdelers van pootaardappelen in kleine verpakkingen kunnen erkend worden als ze zich ertoe verbinden:<br>
-- de sectorverantwoordelijke op de hoogte te brengen van de aanvang en de beëindiging van hun werkzaamheden telkens als er activiteiten worden uitgevoerd;<br>
-- de identificatiedocumenten die de te splitsen verpakkingen van de pootaardappelen identificeren, gedurende twee jaar ter beschikking te houden van de toezichthouder;<br>
-- de maatregelen voor de bewerkingen van partijen pootaardappelen, vermeld in hoofdstuk 8, strikt toe te passen.</p>
-
-<p>Voor er een erkenning toegekend wordt, stelt de keurmeester een onderzoek ter plaatse in. Hij stelt daarbij een inventaris op van lokalen, inrichtingen en personeel. De erkenning is geldig van 1 juli tot en met 30 juni van het jaar daarop. De erkenning wordt uitdrukkelijk jaarlijks verlengd zolang de opgelegde voorwaarden vervuld blijven en de aangegane verbintenissen gerespecteerd blijven. Om dat na te gaan, vindt jaarlijks ten minste één inspectiebezoek plaats.</p>
-
-<p>In geval van belangrijke wijzigingen in de activiteiten of de installaties of bij verandering van de betrokken verantwoordelijke personen moet de procesverantwoordelijke daarvan onmiddellijk op de hoogte gebracht worden. Wijzigingen in de activiteiten of de installaties geven aanleiding tot een bijkomend inspectiebezoek.</p>
-
-<p>De erkenning wordt door de bevoegde entiteit ingetrokken als de opgelegde voorwaarden niet meer vervuld zijn.</p>
+<p>1.4. Erkenningen<br>
+<br>
+1.4.1. Erkenningen van officiële laboratoria<br>
+<br>
+De bevoegde entiteit kan een laboratorium erkennen om de kwaliteit van het plantaardig materiaal te toetsen op de aanwezigheid van pathogene ziekteverwekkers, als het laboratorium voldoet aan de volgende voorwaarden:<br>
+1° het laboratorium beschikt over voldoende nuttige ervaring in de toetsing van plantaardig materiaal op de aanwezigheid van pathogene ziekteverwekkers;<br>
+2° het laboratorium beschikt over passende en toereikende installaties en uitrusting om plantaardig materiaal te toetsen op de aanwezigheid van pathogene ziekteverwekkers en om de monsters te bewaren;<br>
+3° het laboratorium beschikt over gestandaardiseerde procedures en een kwaliteitsborgingssysteem voor het uitvoeren van kwalitatieve en kwantitatieve testen op plantaardig materiaal om kwalitatieve en kwantitatieve testen uit te voeren op plantaardig materiaal waarmee de aanwezigheid van pathogene ziekteverwekkers aangetoond kan worden;<br>
+4° het laboratorium dient een aanvraag tot erkenning in bij de bevoegde entiteit.<br>
+<br>
+Die aanvraag bevat de volgende gegevens:<br>
+a) een kopie van de statuten van het laboratorium of van de aansprakelijke rechtspersoon;<br>
+b) de naam en het adres van het aanvragende laboratorium;<br>
+c) de identificatie van een natuurlijk persoon die verantwoordelijk is voor het geheel van de uitgevoerde testen;<br>
+d) de typen van testen waarvoor een erkenning wordt aangevraagd;<br>
+e) een bewijs dat het aanvragende laboratorium beschikt over gekwalificeerd personeel en goed werkende apparatuur;<br>
+f) een bewijs van nuttige ervaring met referenties over de uitvoering van testen op plantaardig materiaal zodat de aanwezigheid van pathogene ziekteverwekkers aangetoond kan worden;<br>
+g) een bewijs dat het laboratorium beschikt over een procedure die het vertrouwelijke karakter van de monstergegevens en de ontledingsuitslagen waarborgt;<br>
+h) een bewijs dat het laboratorium beschikt over gestandaardiseerde procedures en een kwaliteitsborgingssysteem voor kwalitatieve en kwantitatieve testen op plantaardig materiaal zodat de aanwezigheid van pathogene ziekteverwekkers aangetoond kan worden.<br>
+<br>
+De erkenning wordt toegekend voor onbepaalde duur. Om de erkenning te behouden, moet het laboratorium aan de volgende voorwaarden voldoen:<br>
+1° alle soorten van analyses uitvoeren waarvoor het laboratorium erkend is;<br>
+2° de door de bevoegde entiteit meegedeelde inlichtingen alleen gebruiken in het kader van zijn opdracht;<br>
+3° de analyseresultaten minimaal zes weken en maximaal tien weken na de ontvangst van de monsters meedelen en een redelijke termijn in acht nemen voor de tegenanalyse;<br>
+4° een kopie van de analyseverslagen naar de bevoegde entiteit sturen op de wijze die ze bepaald heeft;<br>
+5 op eigen kosten deelnemen aan nationaal of internationaal georganiseerde interlaboratoriumproeven, als de bevoegde entiteit daarom verzoekt;<br>
+6° elke wijziging van de gegevens die in de erkenning zijn opgenomen, aan de bevoegde entiteit meedelen;<br>
+7° de laboratoriummonsters bewaren gedurende drie maanden vanaf de ontvangst van het monster;<br>
+8° de kwaliteit van de verstrekte prestaties waarborgen.<br>
+<br>
+De bevoegde entiteit kan de erkenning van het laboratorium geheel of gedeeltelijk weigeren, schorsen of intrekken als er niet of niet meer aan de voorwaarden, vermeld in de eerste en tweede alinea, is voldaan.<br>
+<br>
+De bevoegde entiteit kan de erkenning, geheel of gedeeltelijk, intrekken als het laboratorium erom vraagt.<br>
+<br>
+De bevoegde entiteit kan op elk moment een administratief en technisch onderzoek instellen zolang de erkenning loopt.<br>
+<br>
+De erkenning op basis van dit besluit geeft geen aanleiding tot subsidiëring door het Vlaamse Gewest.<br>
+<br>
+1.4.2. Erkenning van operatoren in de sector van de pootaardappelen<br>
+<br>
+Producent-bereiders, bereiders en verdelers van pootaardappelen in kleine verpakkingen moeten door de bevoegde entiteit erkend worden.<br>
+<br>
+Om erkend te kunnen worden, moeten de betrokken personen tijdens de procedure voor de registratie of na hun registratie een aanvraag tot erkenning indienen bij de procesverantwoordelijke. Erkende bedrijven moeten een voorraadboekhouding bijhouden over de binnenkomende en uitgaande partijen pootaardappelen vanaf de oogst of de verwerving ervan. Ze moeten die boekhouding ter beschikking van de toezichthouder houden gedurende drie jaar.<br>
+<br>
+1.4.2.1. De producent-bereiders en de bereiders van pootaardappelen worden erkend als ze aan de volgende voorwaarden voldoen:<br>
+1° beschikken over zuivere, droge, goed verluchte lokalen die uitsluitend gebruikt worden voor de te certificeren pootaardappelen. Die lokalen zijn geïsoleerd tegen de vorst en voorzien van een voldoende luchtverversingssysteem. De oppervlakte van de opslag- en bewerkingsruimte staat in verhouding tot de omvang van de productie;<br>
+2° beschikken over de noodzakelijke inrichting en apparatuur voor de werkzaamheden waarvoor een erkenning gevraagd wordt. Tijdens de triage zijn minstens een sorteer- en kalibreerinstallatie en een leestafel aanwezig. De installatie beschikt zo nodig over apparatuur om certificaten of etiketten aan te brengen overeenkomstig de geldende reglementering. Als de installatie ook voor andere activiteiten gebruikt wordt, wordt dat vóór de geplande activiteit aangevraagd bij de procesverantwoordelijke. De procesverantwoordelijke kan aanvullende voorwaarden opleggen om die activiteiten uit te voeren;<br>
+3° zich ertoe verbinden alleen pootaardappelen ter certificering aan te bieden die beantwoorden aan de geldende normen voor identiteit en raszuiverheid, afstamming, technologische en gezondheidsnormen;<br>
+4° gebruikmaken van verpakkingen die conform afdeling II van hoofdstuk II van het besluit van de Vlaamse Regering van 19 januari 2007 houdende de reglementering van de handel in en de keuring van pootaardappelen worden gesloten en voorzien van certificaten die de voorgeschreven vermeldingen dragen;<br>
+5° een persoon aanwijzen die verantwoordelijk is voor het geven van instructies aan het personeel en voor de goede werking van de installaties;<br>
+6° voor de duur van de triagewerkzaamheden aan de keurmeester alle ondersteuning en medewerking verlenen zodat hij zijn controlewerkzaamheden kan verrichten.<br>
+<br>
+1.4.2.2. De verdelers van pootaardappelen in kleine verpakkingen kunnen erkend worden als ze zich ertoe verbinden:<br>
+1° de sectorverantwoordelijke op de hoogte te brengen van de aanvang en de beëindiging van hun werkzaamheden telkens als er activiteiten worden uitgevoerd;<br>
+2° de identificatiedocumenten die de te splitsen verpakkingen van de pootaardappelen identificeren, gedurende twee jaar ter beschikking te houden van de toezichthouder;<br>
+3° de maatregelen voor de bewerkingen van partijen pootaardappelen, vermeld in hoofdstuk 8, strikt toe te passen.<br>
+<br>
+1.4.2.3. Voor er een erkenning als vermeld in punt 1.4.2.1 en 1.4.2.2, toegekend wordt, verricht de keurmeester een onderzoek ter plaatse. Hij stelt daarbij een inventaris op van lokalen, inrichtingen en personeel. De erkenning is geldig van 1 januari tot en met 31 december. De erkenning wordt jaarlijks verlengd zolang de opgelegde voorwaarden vervuld blijven en de aangegane verbintenissen gerespecteerd blijven. Om dat na te gaan, vindt jaarlijks ten minste één inspectiebezoek plaats.<br>
+<br>
+In geval van belangrijke wijzigingen in de activiteiten of de installaties of bij verandering van de betrokken verantwoordelijke personen moet de procesverantwoordelijke daarvan onmiddellijk op de hoogte gebracht worden. Wijzigingen in de activiteiten of de installaties geven aanleiding tot een bijkomend inspectiebezoek.<br>
+<br>
+De bevoegde entiteit trekt de erkenning in als de opgelegde voorwaarden niet meer vervuld zijn.</p>
 
 <p>1.5 Tot de keuring toegelaten rassen</p>
 
@@ -899,17 +928,17 @@ X = geen onderzoek<br>
 <p><br>
 X = geen onderzoek</p>
 
-<p>5.4. Beroepsmogelijkheden</p>
-
-<p>Als de inschrijver de resultaten van de virologische test betwist, kan hij binnen vijf werkdagen schriftelijk een nieuwe analyse aanvragen bij de sectorverantwoordelijke. Voor de nieuwe analyse neemt de keurmeester nieuwe monsters als de partij duidelijk geïdentificeerd is, zoals in punt 6.1. omschreven is. De testen moeten uitgevoerd worden in een officieel laboratorium, zoals bepaald in 1.1.5.</p>
-
-<p>Bij een nieuwe analyse kunnen de testen beperkt blijven tot het kenmerk dat aan de basis ligt van het ongunstige resultaat als er geen interactie mogelijk is met de andere kenmerken en op voorwaarde dat de oorspronkelijke analyse heeft aangetoond dat de andere virussen niet aanwezig zijn.</p>
-
-<p>Als de nieuwe test met dezelfde analysemethode uitgevoerd wordt, is het uiteindelijk resultaat van de virologische test, het gemiddelde van de resultaten van de betwiste en nieuwe analyse.</p>
-
-<p>Als de nieuwe test met een andere analysemethode uitgevoerd wordt, is het resultaat van de nieuwe analyse bepalend.</p>
-
-<p>Als voor de nieuwe analyse gebruikgemaakt wordt van een PCR-test kan de partij alleen gecertificeerd worden in de klasse basispootgoed E (bestemd voor de productie van gecertificeerd pootgoed) of gecertificeerd pootgoed.</p>
+<p>5.4. Beroepsmogelijkheden<br>
+<br>
+Als de inschrijver de resultaten van de virologische test betwist, kan hij maar één keer beroep aantekenen. Hij vraagt daarvoor binnen vijf werkdagen na de datum van de bekendmaking door de bevoegde entiteit schriftelijk een nieuwe analyse aan bij de sectorverantwoordelijke. Voor de nieuwe analyse neemt de keurmeester nieuwe monsters als de partij duidelijk geïdentificeerd is als vermeld in punt 6.1. De testen moeten uitgevoerd worden in een officieel laboratorium als vermeld in 1.1.6.<br>
+<br>
+Bij een nieuwe analyse voor beroep kunnen de testen beperkt blijven tot het kenmerk dat aan de basis ligt van het ongunstige resultaat als er geen interactie mogelijk is met de andere kenmerken en op voorwaarde dat de oorspronkelijke analyse heeft aangetoond dat de andere virussen niet aanwezig zijn.<br>
+<br>
+Als de nieuwe test voor beroep met dezelfde analysemethode en in hetzelfde officiële laboratorium uitgevoerd wordt, is het uiteindelijke resultaat van de virologische test het gemiddelde van de resultaten van de betwiste en nieuwe analyse.<br>
+<br>
+Als de nieuwe test met een andere analysemethode in hetzelfde officiële laboratorium, of met een andere of dezelfde analysemethode in een ander officieel laboratorium uitgevoerd wordt, is het resultaat van de nieuwe analyse bepalend.<br>
+<br>
+Als voor de nieuwe analyse gebruikgemaakt wordt van een PCR-test, kan de partij alleen gecertificeerd worden in de klasse basispootgoed E (bestemd voor de productie van gecertificeerd pootgoed) of gecertificeerd pootgoed.</p>
 
 <p>HOOFDSTUK 6. - Toezicht op de brutopartijen pootaardappelen</p>
 
