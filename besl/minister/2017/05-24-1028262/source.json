@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028262,
+  "title": "Ministerieel besluit van 2017-05-24 tot wijziging van het ministerieel besluit van 5 november 2015 tot vaststelling van een keurings- en certificeringsreglement voor de productie van pootaardappelen betreffende de erkenning van laboratoria",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028262/VolledigDocument?datum=2017-06-09",
+  "source_sha256": "64925cbbccb0227803eec81785e66a1250e22d4b8422fbd4853e36d396d77244",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028262&param=informatie",
+  "as_of": "2017-06-09",
+  "made": "2017-05-24",
+  "gazette": "2017-05-30",
+  "numac": 2017012262,
+  "document_start": "2017-06-09",
+  "document_end": null,
+  "in_force": "2017-06-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-06-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
