@@ -2,16 +2,16 @@
   "codex_id": 1006859,
   "title": "Decreet van 1999-03-30 houdende oprichting van een Vlaams Fonds voor de Letteren",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006859/VolledigDocument?datum=2008-01-25",
-  "source_sha256": "370f0358dff0c959287eaf03f2c404b45bcb936f808f6d131362a837a95770c3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006859/VolledigDocument?datum=2017-06-10",
+  "source_sha256": "a4c43f0aee7b4352dd1060a262df8b566a96710e7228f7b2c1069f98865a0f4c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006859&param=informatie",
-  "as_of": "2008-01-25",
+  "as_of": "2017-06-10",
   "made": "1999-03-30",
   "gazette": "1999-08-27",
   "numac": 1999036057,
   "document_start": null,
   "document_end": null,
-  "in_force": "2008-01-25",
+  "in_force": "2017-06-10",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2008-01-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-06-10; future article versions excluded; article text as the API gives it"
 }

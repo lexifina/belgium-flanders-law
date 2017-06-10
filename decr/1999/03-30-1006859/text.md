@@ -22,11 +22,13 @@ Er wordt een Vlaams Fonds voor de Letteren, afgekort VFL, opgericht.<br /><br />
 
 ### ART. 5.
 
-§ 1. [Het VFL heeft tot doel de Nederlandstalige letteren en de vertaling in en uit het Nederlands van literair werk in de brede zin van het woord te ondersteunen en daardoor bij te dragen tot de verbetering van de sociaal-economische positie van de auteurs en de vertalers. (verv. Decr. 30 april 2004, art. 4, I: 9 juli 2004) ]<br>
+§ 1. Het VFL heeft tot doel:<br>
+1° de Nederlandstalige letteren en de vertaling in en uit het Nederlands van literair werk in de brede zin van het woord te ondersteunen en daardoor bij te dragen tot de verbetering van de sociaal-economische positie van auteurs en vertalers;<br>
+2° de leesbevordering te ondersteunen.<br>
 <br>
 § 2. Daartoe kan het VFL onder meer:<br>
 1° werkbeurzen toekennen;<br>
-2° additionele honoraria toekennen;<br>
+2° ...<br>
 3° stimuleringsbeurzen toekennen;<br>
 4° reisbeurzen toekennen;<br>
 5° productiesubsidies toekennen;<br>
@@ -37,7 +39,9 @@ Er wordt een Vlaams Fonds voor de Letteren, afgekort VFL, opgericht.<br /><br />
 10° literaire verenigingen subsidiëren;<br>
 11° steunaankopen verrichten ten behoeve van Nederlandstalig literair werk;<br>
 [11°bis projecten financieren of initiatieven nemen die bijdragen tot de interesse voor en de ontwikkeling van de Nederlandstalige literatuur; (ing. Decr. 30 april 2004, art. 4, I: 9 juli 2004) ]<br>
-12° de uitstraling van de Nederlandstalige literatuur in binnen- en buitenland bevorderen.
+12° de uitstraling van de Nederlandstalige literatuur in binnen- en buitenland bevorderen.<br>
+13° subsidies voor leesbevorderingsprojecten toekennen;<br>
+14° werkingssubsidies toekennen aan een vzw die leesbevordering tot doel heeft.
 
 ## HOOFDSTUK III DE ORGANISATIE VAN HET VLAAMS FONDS VOOR DE LETTEREN
 
@@ -47,7 +51,45 @@ Er wordt een Vlaams Fonds voor de Letteren, afgekort VFL, opgericht.<br /><br />
 
 ### ART. 7.
 
-§ 1. Het VFL wordt geleid door het Fondsbestuur, dat bevoegd is   inzake:<BR>1° de goedkeuring en wijziging van de statuten;<BR>2° de installatie   van en het toezicht op het Dagelijks Bestuur;<BR>3° de benoeming en het ontslag   van de directeur; <BR>4° de goedkeuring van de jaarlijkse begroting, de   jaarrekening, het jaarlijks actieplan, het meerjarenplan en het   jaarverslag;<BR>5° de benoeming en het ontslag van de leden van het   Beslissingscollege, de Adviescommissies en de Beroepscommissie; <BR>6°&nbsp;   ...&nbsp;<BR>7° de bekrachtiging en de uitvoering van de beslissingen van het   Beslissingscollege en de Beroepscommissie;<BR>8° de vertegenwoordiging van het   VFL.<BR><BR>§ 2. Het Fondsbestuur bestaat uit minstens negen leden met literaire   kennis en bestuurlijke ervaring. De leden van het Fondsbestuur worden benoemd   voor vier jaar. Hun mandaat kan eenmaal worden verlengd. Een tussentijds benoemd   bestuurslid heeft eveneens een mandaat van vier jaar, dat eenmaal kan worden   verlengd. <BR><BR>§ 3. De Vlaamse regering benoemt de leden van het   Fondsbestuur, op voordracht van het zittende Fondsbestuur.<BR><BR>De Vlaamse   regering kan de leden van het Fondsbestuur ontslaan op gemotiveerd verzoek van   het zittende Fondsbestuur.<BR><BR>§ 4. ...<BR><BR>§ 5. De Vlaamse regering   benoemt de voorzitter van het Fondsbestuur, op voordracht van het Fondsbestuur   dat uit zijn leden een kandidaat-voorzitter kiest. De voorzitter heeft een   beslissende stem bij staking van stemmen.<BR><BR>Het Fondsbestuur kiest uit zijn   leden een ondervoorzitter.<BR><BR>§ 6. Bij de aanwijzing van nieuwe leden   streeft het zittende Fondsbestuur naar een evenwichtige samenstelling wat de   competenties van de leden op financieel, juridisch en literair gebied betreft.   <BR><BR>§ 7. ...&nbsp;<BR><BR>§ 8.&nbsp; ... <BR><BR>§ 9. Het lidmaatschap van   het Fondsbestuur is onverenigbaar met een ambt of mandaat dat via openbare   verkiezing toegankelijk is.<BR><BR>§ 10.&nbsp;...&nbsp;<BR><BR>§   11.&nbsp;...&nbsp;<BR><BR>§ 12. De directeur van het VFL woont de vergaderingen   van het Fondsbestuur met raadgevende stem bij en treedt tevens op als secretaris   van het Fondsbestuur.<BR><BR>§ 12bis. Op vraag van het Fondsbestuur kunnen de   voorzitters van de Adviescommissies, het Beslissingscollege of de   Beroepscommissie de vergaderingen van het Fondsbestuur bijwonen met raadgevende   stem. <BR><BR>§ 13. Een vertegenwoordiger van de Vlaamse regering woont de   vergaderingen van het Fondsbestuur met raadgevende stem bij.<BR><BR>De   vertegenwoordiger van de Vlaamse regering kan de uitvoering opschorten van elke   beslissing van het Fondsbestuur die strijdig is met de bepalingen van dit   decreet.
+§ 1. Het VFL wordt geleid door het Fondsbestuur, dat bevoegd is inzake:<br>
+1° de goedkeuring en wijziging van de statuten;<br>
+2° de installatie van en het toezicht op het Dagelijks Bestuur;<br>
+3° de benoeming en het ontslag van de directeur;<br>
+4° de goedkeuring van de jaarlijkse begroting, de jaarrekening, het jaarlijks actieplan, het meerjarenplan en het jaarverslag;<br>
+5° de benoeming en het ontslag van de leden van het Beslissingscollege, de Adviescommissies en de Beroepscommissie;<br>
+6°&nbsp; ...&nbsp;<br>
+7° de bekrachtiging en de uitvoering van de beslissingen van het Beslissingscollege en de Beroepscommissie;<br>
+8° de vertegenwoordiging van het VFL.<br>
+<br>
+§ 2. Het Fondsbestuur bestaat uit leden met literaire kennis of bestuurlijke ervaring. De Vlaamse Regering stelt op voordracht van het zittende Fondsbestuur zeven bestuurders aan voor een termijn van vier jaar. Daarnaast stelt de Vlaamse Regering op voordracht van het Fondsbestuur onafhankelijke bestuurders aan tot op het einde van de voormelde termijn van vier jaar conform de artikelen 4 tot 7 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector. Tussentijds benoemde bestuurders voleindigen het mandaat van hun voorganger. Het mandaat van een bestuurder kan eenmaal worden verlengd.<br>
+<br>
+§ 3. De Vlaamse regering kan de leden van het Fondsbestuur ontslaan op gemotiveerd verzoek van het zittende Fondsbestuur.<br>
+<br>
+§ 4. ...<br>
+<br>
+§ 5. De Vlaamse regering benoemt de voorzitter van het Fondsbestuur, op voordracht van het Fondsbestuur dat uit zijn leden een kandidaat-voorzitter kiest. De voorzitter heeft een beslissende stem bij staking van stemmen.<br>
+<br>
+Het Fondsbestuur kiest uit zijn leden een ondervoorzitter.<br>
+<br>
+§ 6. Bij de aanwijzing van nieuwe leden streeft het zittende Fondsbestuur naar een evenwichtige samenstelling wat de competenties van de leden op financieel, juridisch en literair gebied betreft.<br>
+<br>
+§ 7. ...&nbsp;<br>
+<br>
+§ 8.&nbsp; ...<br>
+<br>
+§ 9. Het lidmaatschap van het Fondsbestuur is onverenigbaar met een ambt of mandaat dat via openbare verkiezing toegankelijk is.<br>
+<br>
+§ 10.&nbsp;...&nbsp;<br>
+<br>
+§ 11.&nbsp;...&nbsp;<br>
+<br>
+§ 12. De directeur van het VFL woont de vergaderingen van het Fondsbestuur met raadgevende stem bij en treedt tevens op als secretaris van het Fondsbestuur.<br>
+<br>
+§ 12bis. Op vraag van het Fondsbestuur kunnen de voorzitters van de Adviescommissies, het Beslissingscollege of de Beroepscommissie de vergaderingen van het Fondsbestuur bijwonen met raadgevende stem.<br>
+<br>
+§ 13. Een vertegenwoordiger van de Vlaamse regering woont de vergaderingen van het Fondsbestuur met raadgevende stem bij.<br>
+<br>
+De vertegenwoordiger van de Vlaamse regering kan de uitvoering opschorten van elke beslissing van het Fondsbestuur die strijdig is met de bepalingen van dit decreet.
 
 ### ART. 8.
 
