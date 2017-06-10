@@ -2,16 +2,16 @@
   "codex_id": 1023128,
   "title": "Decreet van 2013-07-05 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2013",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023128/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "60af6883b1a0ddab7900eae369f44ee7cbfecec2cc12a9bdc98eee2ac5bbe4e5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023128/VolledigDocument?datum=2017-06-10",
+  "source_sha256": "7c3ca74d01276a0a3e7e8e33dc5f843aaf9f9a8f2d9fe9b1e5a04de592468b42",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023128&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2017-06-10",
   "made": "2013-07-05",
   "gazette": "2013-07-30",
   "numac": 2013035685,
   "document_start": "2013-08-09",
   "document_end": null,
-  "in_force": "2014-01-01",
+  "in_force": "2017-06-10",
   "article_versions": 42,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-06-10; future article versions excluded; article text as the API gives it"
 }

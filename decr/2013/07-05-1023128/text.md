@@ -114,7 +114,17 @@ Aan artikel 69 van het decreet van 8 juli 2011 houdende regeling van de   begrot
 
 ### ART. 21.
 
-<P>§ 1. Aan de volgende organisaties kan de Vlaamse Gemeenschap infrastructuur   ter beschikking stellen :<BR>1° Kaaitheater vzw;<BR>2° Beursschouwburg   vzw;<BR>3° Rosas vzw;<BR>4° Daarkom vzw;<BR>5° Stichting De Brakke Grond;<BR>6°   De Buren vzw.<BR>7° Beheerscommissie Kunstkampus vzw.<BR></P>  <P>§ 2. Hiertoe sluit de Vlaamse Gemeenschap een beheersovereenkomst   infrastructuur met de betrokken organisaties die de voorwaarden van de   terbeschikkingstelling regelt, meer bepaald wat betreft de bestemming van het   gebouw en de toegelaten activiteiten, de eigenaars- en de   beheerdersverplichtingen, het toezicht, de evaluatie en de   duur.</P>
+<p>§ 1. Aan de volgende organisaties kan de Vlaamse Gemeenschap infrastructuur ter beschikking stellen :<br>
+1° Kaaitheater vzw;<br>
+2° Beursschouwburg vzw;<br>
+3° Rosas vzw;<br>
+4° ...<br>
+5° Stichting De Brakke Grond;<br>
+6° De Buren vzw.<br>
+7° Beheerscommissie Kunstkampus vzw.<br>
+8° Vlaams Huis voor Amateurkunsten in Brussel vzw.</p>
+
+<p>§ 2. Hiertoe sluit de Vlaamse Gemeenschap een beheersovereenkomst infrastructuur met de betrokken organisaties die de voorwaarden van de terbeschikkingstelling regelt, meer bepaald wat betreft de bestemming van het gebouw en de toegelaten activiteiten, de eigenaars- en de beheerdersverplichtingen, het toezicht, de evaluatie en de duur.</p>
 
 ## HOOFDSTUK 8. Ontwikkelingssamenwerking
 
