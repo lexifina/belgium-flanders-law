@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028274,
+  "title": "Ministerieel besluit van 2017-05-30 houdende een oproep tot indiening van steunaanvragen als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 april 2015 betreffende steun aan investeringen in de agrovoedingssector tot verhoging van de toegevoegde waarde, de kwaliteit en de voedselveiligheid van landbouwproducten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028274/VolledigDocument?datum=2017-06-12",
+  "source_sha256": "234ce18069e0dc35e8600d42acd252f3e6f5c0d22fb8bd868c79a72870b8235a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028274&param=informatie",
+  "as_of": "2017-06-12",
+  "made": "2017-05-30",
+  "gazette": "2017-06-02",
+  "numac": 2017012286,
+  "document_start": "2017-06-12",
+  "document_end": null,
+  "in_force": "2017-06-12",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2017-06-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
