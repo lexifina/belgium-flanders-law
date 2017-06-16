@@ -2,16 +2,16 @@
   "codex_id": 1008989,
   "title": "Besluit van de Vlaamse Regering van 2002-02-01 [met betrekking tot de subsidiëring van de aanleg van openbare rioleringen, andere dan prioritaire rioleringen, de bouw van kleinschalige rioolwaterzuiveringsinstallaties met inbegrip van de aanleg van individuele waterzuiveringsinstallaties door de gemeenten, gemeentebedrijven, intercommunales, intergemeentelijke samenwerkingsverbanden of de Vlaamse Maatschappij voor Watervoorziening (verv. BVR 21 januari 2011, art. 1]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008989/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "3aa3bf4bc92893eca6430c58a6c26ec05d531718f6deb7ef2e69b15ef8ab62bc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008989/VolledigDocument?datum=2017-06-16",
+  "source_sha256": "a64d25f67a2a798403bd37ed4fd9eb59ff125e708b06330418256c0250b3c422",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008989&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2017-06-16",
   "made": "2002-02-01",
   "gazette": "2002-04-10",
   "numac": 2002035477,
   "document_start": "2002-01-01",
   "document_end": "2017-06-15",
-  "in_force": "2017-04-01",
+  "in_force": "2017-06-16",
   "article_versions": 37,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-06-16; future article versions excluded; article text as the API gives it"
 }

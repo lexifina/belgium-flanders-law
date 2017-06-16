@@ -4,39 +4,39 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° "openbare riool": het geheel van openbare leidingen en openluchtgreppels bestemd voor het opvangen en transporteren van afvalwater;<br />2° "gescheiden riolering": een dubbel stelsel van leidingen of openluchtgreppels waarvan het ene stelsel bestemd is voor het opvangen en transporteren van afvalwater en het andere stelsel bestemd is voor de afvoer van hemelwater;<br />3° "huisaansluiting": de leiding vanaf de openbare riool tot aan de rooilijn;<br />4° "kleinschalige rioolwaterzuiveringsinstallatie": rioolwaterzuiveringsinstallatie met een maximale capaciteit van 2.000 inwonersequivalenten;<br />5° "kosten verbonden aan de aanleg en de verbetering van openbare riolen": het geheel van de kosten inclusief BTW voorzover de aanvrager niet-BTW-plichtig is: <br />a) voor het aanleggen van nieuwe openbare rioleringen, inspectieputten inbegrepen;<br />b) voor het verbeteren van bestaande openbare rioleringen hetzij door de heraanleg van openbare rioleringen, inspectieputten inbegrepen, hetzij door de afkoppeling van hemelwater, drainagewater en/of oppervlaktewater van het rioleringsnet, de afvoerleidingen en/of de herwaardering van het grachtenstelsel inbegrepen;<br />c) voor de installatie van de bijbehorende overstorten en pompgemalen;<br />d) voor het storten van slib afkomstig uit de geherwaardeerde grachten;<br />e) voor de huisaansluitingen:<br /> 1° beperkt tot het gedeelte voor de droogweerafvoer in geval van gemengde stelsels;<br /> 2° voor zowel de droogweerafvoer als de regenweerafvoer in geval van gescheiden stelsels;<br />f) de bouw van retentie- en/of infiltratievoorziening op de regenweerafvoer;<br />met uitsluiting van:<br /> a) de kosten voor opbraak en herstel van de bovengrond;<br /> b) de kosten voor studies, toezicht, proeven, grondmechanisch onderzoek, bodemonderzoeken,  e.d.;<br /> c) de kosten voor verwervingen van grond, erfdienstbaarheden, e.d.;<br /> d) de kosten voor onderhoudwerkzaamheden aan riolerings- of grachtenstelsels;<br />6° "kosten verbonden aan de bouw en de verbetering van kleinschalige rioolwaterzuiveringsinstallaties met uitzondering van de aanleg van individuele waterzuiveringsinstallaties": het geheel van de kosten inclusief BTW voorzover de aanvrager niet-BTW-plichtig is: <br />a) het grondwerk en de grondwaterverlaging;<br />b) de bouw en aanleg van het gekozen zuiveringssysteem, inclusief leidingen, pompgemalen en debietsmeting;<br />c) de bijhorende infrastructuurwerken, zoals groenscherm, wegenis, omheining, elektriciteit en automatisatie, voor zover deze tot een minimum beperkt worden en de landschappelijke inpasbaarheid niet verstoren;<br />met uitsluiting van:<br /> a) de kosten voor studies, toezicht, proeven, grondmechanisch onderzoek, bodemonderzoeken,  e.d.;<br /> b) de kosten voor verwervingen van grond, erfdienstbaarheden, e.d.;<br /> c) het eventuele dienstgebouw;<br />7° "TRP": totaal rioleringsplan;<br />8° "hydronautstudie": een hydraulische controleberekening van het stelsel waartoe een project behoort, uitgevoerd volgens de door de N.V. Aquafin ontwikkelde hydronautprocedure;<br />9° "code van goede praktijk": krachtlijnen voor een geïntegreerd rioleringsbeleid in Vlaanderen, Codes van goede praktijk;<br />10° "minder-hinderprogramma": een programma om de hinder veroorzaakt door de werken maximaal te beperken, zoals het organiseren van voorlichtingsvergaderingen en het opdelen van de werken in verschillende fases;<br />11° "prijzendatabank": een toetsingsinstrument op basis van gedetailleerde en recente aanbestedingsgegevens van vergelijkbare werken, teneinde een controle toe te laten op ontwerpramingen.<br />12° individuele waterzuiveringsinstallatie : een kleinschalige waterzuiveringsinstallatie met een capaciteit van maximaal 20 IE. Dat is een waterdichte installatie die huishoudelijk afvalwater behandelt tot de kwaliteit, vastgelegd in het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 7 december 2007. Dat kan een geprefabriceerde afvalwaterzuiveringsinstallatie zijn, een afvalwaterzuiveringsinstallatie die bestaat uit prefabelementen of eender welke afvalwaterzuiveringsinstallatie die aan die eis voldoet.<br />Een individuele waterzuiveringsinstallatie wordt beheerd door een gemeente, gemeentebedrijf, intercommunale of intergemeentelijk samenwerkingsverband;<br />13° kosten, verbonden aan de aanleg van een individuele waterzuiveringsinstallatie : het geheel van de kosten, met uitsluiting van de kosten voor opbraak en herstel van bovenbouw, exclusief btw, tenzij kan worden aangetoond dat de btw niet recupereerbaar is, voor :<br />a) het grondwerk en de grondwaterverlaging;<br />b) de bouw en de aanleg van het gekozen zuiveringssysteem, inclusief leidingen;<br />14° zoneringsplan : het plan dat een onderscheid maakt tussen de gebieden met collectieve sanering en de gebieden met individuele sanering.
+...
 
 ## HOOFDSTUK II GEWESTBIJDRAGE
 
 ### ART. 2.
 
-§ 1. De verhouding waarin het Vlaamse Gewest binnen de daartoe in de begroting van het Vlaamse Gewest vooziene kredieten kan bijdragen in de kosten verbonden aan de aanleg en de verbetering door de gemeenten, gemeentebedrijven, intercommunales , intergemeentelijke samenwerkingsverbanden of de Vlaamse Maatschappij voor Watervoorziening van openbare riolen, andere dan prioritaire rioleringen, en van de herwaardering van grachtenstelsels, wordt vastgesteld op 50 % van deze kosten. <br /><br />§ 2. De gewestbijdrage wordt verhoogd tot 75 % voor de aanleg van gescheiden stelsels alsook voor de aanleg van de met het rioleringsproject gerelateerde retentie- en/of infiltratievoorzieningen voor hemelwater.<br /><br />Hieronder wordt begrepen een afvoersysteem voor de afvoer van afvalwater, waarbij het hemelwater langs hetzelfde traject wordt afgevoerd, bij voorkeur door middel van een geherwaardeerd grachtenstelsel dat op milieuverantwoorde wijze in stand wordt gehouden of door middel van een gelijkwaardige oplossing.<br /><br />§ 3. De gewestbijdrage wordt verhoogd tot 100 % voor de aanleg van een afvoersysteem van uitsluitend afvalwater (doorsnede 2 DWA), waarbij het hemelwater wordt afgevoerd langs hetzelfde traject door middel van een geherwaardeerd grachtenstelsel dat op een milieuverantwoorde wijze in stand wordt gehouden of door middel van een gelijkwaardige oplossing; alsook voor de aanleg van de met het rioleringsproject gerelateerde retentie- en/of infiltratievoorzieningen voor hemelwater.
+...
 
 ### ART. 3.
 
-De verhouding waarin het Vlaamse Gewest binnen de daartoe in de begroting van het Vlaamse Gewest voorziene kredieten kan bijdragen in de kosten verbonden aan de bouw en de verbetering door de gemeenten, gemeentebedrijven, intercommunales , intergemeentelijke samenwerkingsverbanden of de Vlaamse Maatschappij voor Watervoorziening van kleinschalige rioolwaterzuiveringsinstallaties met uitzondering van individuele waterzuiveringsinstallaties wordt vastgesteld op 50 % van deze kosten, tenzij het hemelwater en het afvalwater via een gescheiden stelsel afgevoerd worden. In dit laatste geval kan het percentage opgetrokken worden tot 100 % van de kosten.
+...
 
 ### ART. 3bis.
 
-De verhouding waarin het Vlaamse Gewest binnen de daartoe in de begroting van het Vlaamse Gewest vastgestelde kredieten kan bijdragen in de kosten, verbonden aan de aanleg van een individuele waterzuiveringsinstallatie, bedraagt 2250 euro (tweeduizend tweehonderdvijftig euro) per individuele waterzuiveringsinstallatie of per woongelegenheid als de installatie aangekocht, geplaatst en beheerd wordt door een gemeente, gemeentebedrijf of intercommunale, , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening.<br /><br />De gewestbijdrage, vermeld in het eerste lid, mag de totale kosten verbonden aan de aanleg van een individuele waterzuiveringsinstallatie, niet overschrijden.
+...
 
 ### ART. 4.
 
-De in artikel 2 en 3 bedoelde gewestbijdrage kan gecumuleerd worden met trekkingsrechten uit het investeringsfonds overeenkomstig artikel 10 van het besluit van de Vlaamse regering van 20 maart 1991 tot uitvoering, behalve wat de Vlaamse Gemeenschapscommissie betreft, van het decreet van 20 maart 1991 betreffende het Investeringsfonds ter verdeling van de subsidies voor bepaalde onroerende investeringen die in de Vlaamse Gemeenschap en het Vlaamse Gewest door of op initiatief van de provincies, de gemeenten of de Vlaamse Gemeenschapscommissie worden gedaan.
+...
 
 ## HOOFDSTUK III OPSTELLING SUBSIDIËRINGSPROGRAMMA
 
 ### ART. 5.
 
-§ 1. Voor de samenstelling van het subsidiëringsprogramma kunnen de gemeenten, gemeentebedrijven, intercommunales , intergemeentelijke samenwerkingsverbanden of de Vlaamse Maatschappij voor Watervoorziening voorstellen van rioleringsprojecten en projecten van kleinschalige zuivering met inbegrip van projecten voor de aanleg van individuele waterzuiveringsinstallaties indienen bij de Vlaamse Milieumaatschappij.<br /><br />§ 2. Na beoordeling van de rioleringsprojecten door de Vlaamse Milieumaatschappij, inzonderheid in het licht van de criteria vastgesteld door § 2 van artikel 32duodecies van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, kunnen de voorgestelde projecten opgenomen worden op het door de Vlaamse Milieumaatschappij op te stellen ontwerp van subsidiëringsprogramma.<br /><br />§ 3. De projecten van kleinschalige zuivering met uitzondering van individuele waterzuiveringsinstallaties worden door de Vlaamse Milieumaatschappij beoordeeld voor opname in het ontwerp van subsidiëringsprogramma op basis van volgende criteria:<br />1° het voorgestelde project is op basis van voorliggende investeringsprogramma's voor bovengemeentelijke zuiveringsinfrastructuur en op basis van de gemeentelijke rioleringsprogrammatie gesitueerd buiten de gebieden die aangesloten zijn of worden op een grootschalige zuiveringsinstallatie;<br />2° het project beoogt de zuivering van huishoudelijk afvalwater van minimum 20 en maximum 2 000 inwonerequivalenten;<br />3° de totale verdisconteerde kostprijs moet lager liggen dan de verdisconteerde kosten van aansluiting op de meest nabije grootschalige zuiveringsinstallatie, voor zover dergelijke aansluiting ecologisch verantwoord is.<br /><br />"§ 4. De projecten voor de aanleg van een individuele waterzuiveringsinstallatie worden door de Vlaamse Milieumaatschappij beoordeeld voor opname in het ontwerp van subsidiëringsprogramma op basis van de volgende criteria :<br />1° het gaat om de zuivering van huishoudelijk afvalwater van een vergund gebouw;<br />2° de individuele waterzuiveringsinstallatie is geplaatst na 1 januari 2008;<br />3° de individuele waterzuiveringsinstallatie ligt in het individueel te optimaliseren buitengebied, zoals afgebakend in het definitieve gemeentelijke zoneringsplan, of de individuele waterzuiveringsinstallatie ligt voor de vaststelling van het definitieve gemeentelijke zoneringsplan buiten de zuiveringszones A en B, vermeld in het VLAREM;<br />4° de individuele waterzuiveringsinstallatie voldoet aan het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 7 december 2007.
+...
 
 ### ART. 6.
 
-De Vlaamse Milieumaatschappij maakt in overleg met de gemeenten, gemeentebedrijven, inter-communales , intergemeentelijke samenwerkingsverbanden of de Vlaamse Maatschappij voor Watervoorziening een meerjarenprogramma op. Op basis hiervan legt de Vlaamse Milieumaatschappij na overleg met de gemeenten, gemeentebedrijven, intercommunales , intergemeentelijke samenwerkingsverbanden of de Vlaamse Maatschappij voor Watervoorziening driemaandelijks een ontwerp van subsidiëringsprogramma voor aan de bevoegde Vlaamse minister. Hiertoe wordt dit ontwerp van subsidiëringsprogramma besproken in de ambtelijke commissie waarvan de samenstelling is beschreven in artikel 25. De criteria voor de opmaak van dit programma worden door de bevoegde minister in overleg met de ambtelijke commissie bepaald.<br /><br />Dit subsidiëringsprogramma wordt vastgesteld door de bevoegde Vlaamse minister.
+...
 
 ### ART. 6bis.
 
-De gemeenten die binnen een termijn van twintig maanden na de ontvangst van het voorontwerp van zoneringsplan, zoals bepaald in artikel 7 van het besluit van de Vlaamse Regering van ... houdende vaststelling van de regels met betrekking tot de scheiding tussen de gemeentelijke en bovengemeentelijke saneringsverplichting en het vaststellen van de zoneringsplannen, geen definitief zoneringsplan hebben, komen niet meer in aanmerking voor opname op een subsidiëringsprogramma tot het ogenblik waarop het definitieve zoneringsplan is vastgesteld en bekendgemaakt in het Belgisch Staatsblad.<br />
+...
 
 ## HOOFDSTUK IV VOORWAARDEN VOOR TOEKENNING VAN GEWESTBIJDRAGE [VOOR DE AANLEG VAN RIOLERINGEN, ANDERE DAN PRIORITAIRE RIOLERINGEN, EN DE BOUW VAN KLEINSCHALIGE RIOOLWATERZUIVERINGSINSTALLATIES, MET UITZONDERING VAN INDIVIDUELE WATERZUIVERINGSINSTALLATIES (ing. BVR 9 mei 2008, art. 6, I: 15 mei 2008)]
 
@@ -44,170 +44,128 @@ De gemeenten die binnen een termijn van twintig maanden na de ontvangst van het 
 
 ### ART. 7.
 
-Om in aanmerking te komen voor de in artikels 2 en 3 bedoelde gewestbijdrage dient voor het op het subsidiëringsprogramma voorkomende project de procedure als bepaald in de volgende artikelen in acht te worden genomen. [De ambtelijke commissie kan, wanneer dit de voorspoedige realisatie van rioleringsprojecten ten goede komt, gemotiveerde afwijkingen ten aanzien van de gevolgde procedure zoals beschreven in artikel 20, eerste en tweede lid, aanvaarden. Deze voorstellen tot afwijking moeten door de Minister bevoegd voor het Leefmilieu worden bevestigd.  <span class="reference">(ing. B.V.R. 29 april 2005, art. 6, I: 31 mei 2005)</span> ]
+...
 
 ## AFDELING 2 HET VOORONTWERPDOSSIER
 
 ### ART. 8.
 
-De gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening stelt zelf een voorontwerpdossier samen of doet hiervoor beroep op een door haar aangesteld ontwerper. Voor het projectmanagement en de kwaliteitsbewaking van het dossier kan zij gratis beroep doen op de N.V. Aquafin, en dit enkel inzake:<br />1° de toepassing van de code van goede praktijk, de afstemming van het project op de bovengemeentelijke rioolwaterzuiveringsinfrastructuur en het aspect afkoppeling van hemelwater, oppervlaktewater of drainagewater;<br />2° de hydrodynamische modellering die desgevallend in functie van het voorgestelde project uitgevoerd wordt.
+...
 
 ### ART. 9.
 
-Het voorontwerpdossier van een rioleringsproject dient tenminste te omvatten:<br /><br />1° een scenarioanalyse die waarborgt dat de projectdoelstelling op de meest effectieve en kostenbesparende wijze wordt gerealiseerd;<br /><br />2° de verantwoordingsnota van het onmiddellijk en toekomstig aantal aan te sluiten inwonersequivalenten volgens de onderscheiden toestanden zoals vermeld in de code van goede praktijk;<br /><br />3° een aanduiding van het geplande tracé op een stafkaart, een stratenatlas en het gewestplan, alsook een aanduiding van de leidingen van het project op een schema op basis van de hydronautstudie, indien voorhanden, of het TRP;<br /><br />4° een grondplan op schaal 1/500 van het leidingenproject waarbij wordt aangegeven of de gegevens uit het hydraulisch plan, zijnde de hydronaut of het TRP, stroken met de ter plaatse gedetailleerde opgemeten toestand.<br /><br />Tevens wordt op het plan aangegeven of (geen) oppervlaktewateren zoals grachten, beken, sloten, e.d. worden aangesloten en of het afkoppelingsbeleid van verharde en onverharde oppervlakten maximaal is nagevolgd.<br /><br />Via de positionering van de leidingen en de kunstwerken op het grondplan en de opgemaakte dwarsprofielen ter hoogte van de moeilijke doorgangen wordt de haalbaarheid van het project aangegeven onder andere ten opzichte van de aanwezige nutsleidingen;<br /><br />5° een aanduiding op de kadasterplannen van de erfdienstbaarheden en vereiste grondinnemingen;<br /><br />6° de verantwoording van de materiaalkeuze;<br /><br />7° de kostenraming van de werken opgesplitst naar:<br /><br />- de kosten die in aanmerking komen voor een gewestbijdrage van 50 %;<br /><br />- de kosten die in aanmerking komen voor een gewestbijdrage van 75 %;<br /><br />- de kosten die in aanmerking komen voor een gewestbijdrage van 100 %;<br /><br />- de overige kosten van het project;<br /><br />8° bij gecombineerde dossiers, de samenwerkingsovereenkomst met andere opdrachtgevers evenals de kostenverdeling tussen de verschillende partijen;<br /><br />9° [...  <span class="reference">(opgeh. B.V.R. 29 april 2005, art. 7, I: 31 mei 2005)</span> ]<br /><br />10° een gedetailleerde weergave van de afgekoppelde verharde en onverharde oppervlakte en de wijze waarop de gescheiden afvoer van het hemelwater wordt gerealiseerd. Indien niet voor een afvoer via het grachtenstelsel wordt gekozen, moet dit gemotiveerd worden. Bovendien moet worden aangegeven hoe het hemelwater stroomafwaarts in het stelsel nu of in de toekomst met bijhorende timing wordt of zal worden afgevoerd naar een waterloop of grachtenstelsel.
+...
 
 ### ART. 10.
 
-Het voorontwerpdossier voor een project van kleinschalige zuivering dient tenminste te omvatten:<br /><br />1° een verantwoordingsnota van het aantal aan te sluiten inwonersequivalenten van huishoudelijke oorsprong. Voor de aanduiding van de in de toekomst voorziene toename van de vuilvracht wordt gebruik gemaakt van de rioleringstoestanden A, B, C, D en E omschreven in de code van goede praktijk;<br /><br />2° een nota met betrekking tot de aanwezigheid van individuele voorbehandelingsinstallaties en de scheiding van afvalwater en hemelwater bij de aan te sluiten woningen;<br /><br />3° een verklarende nota met betrekking tot de wijze waarop de scheiding tussen het huishoudelijk afvalwater en het hemelwater op openbaar domein werd gerealiseerd binnen het aan te sluiten gebied;<br /><br />4° de omschrijving van het voorgestelde concept alsmede de relevante dimensioneringsgegevens voor de belangrijkste installatieonderdelen en de totale benodigde oppervlakte; een korte omschrijving van de werking van de zuivering en de verwachte slibproductie; een grondplan en een plan met de doorsnede van alle installatieonderdelen;<br /><br />5° de met het systeem haalbare effluentwaarden voor BZV, CZV en ZS (eventueel Tot N en tot P en pathogene kiemen);<br /><br />6° een nota met betrekking tot de inpasbaarheid in het landschap (dienstgebouw, wegenis en omheining dienen tot een minimum beperkt te worden);<br /><br />7° de verantwoording van de materiaalkeuze;<br /><br />8° de kostenraming van de werken opgesplitst naar:<br /><br />- de kosten verbonden aan de bouw en de verbetering van de kleinschalige rioolwaterzuiveringsinstallatie;<br /><br />- de overige kosten van het project;<br /><br />9° een kostprijsanalyse van de optie "kleinschalige waterzuivering" in vergelijking met de optie "aansluiting van het gecentraliseerd lozingspunt" op een grootschalige rioolwaterzuiveringsinstallatie, rekening houdend met de afschrijvingstermijn van de onderdelen van de installatie;<br /><br />10° een aanduiding van het geplande project op een stafkaart, stratenplan en gewestplan.
+...
 
 ### ART. 11.
 
-§ 1. Uiterlijk negen maanden na het bekendmaken door de Vlaamse Milieumaatschappij aan de betrokken gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening van het driemaandelijks geactualiseerde programma, waarop het project is opgenomen, dient de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening een voorontwerpdossier in vier exemplaren in bij de Vlaamse Milieumaatschappij. Deze termijn kan door de ambtelijke commissie, na beoordeling van de gemotiveerde aanvraag van de gemeente, gemeentebedrijf, intercommunale of intergemeentelijke samenwerkingsverband, éénmalig en met één jaar verlengd worden, voorzover het een dossier betreft waarbij de dossieraanvrager niet de aanbestedende instantie van het dossier is. <br /><br />§ 2. De Vlaamse Milieumaatschappij bezorgt binnen een termijn van zeven kalenderdagen na ontvangst van het voorontwerpdossier een exemplaar ervan aan:<br />- de N.V. Aquafin;<br />- ...<br />- de gouverneur van de provincie waarin het project is gesitueerd.
+...
 
 ### ART. 12.
 
-§ 1. De N.V. Aquafin gaat over tot een technisch en financieel nazicht van het voorontwerpdossier.<br /><br />Dit nazicht omvat tenminste:<br /><br />1° een toetsing van het voorontwerpdossier aan de door de Vlaamse minister bevoegd voor het leefmilieu en het waterbeleid vastgestelde code van goede praktijk alsook aan de afstemming van het project op de openbare zuiveringsinfrastructuur;<br /><br />2° het formuleren op basis van deze toetsing van eventuele bemerkingen en/of suggesties vooral in het licht van de opmaak van het ontwerp, waarbij bijzondere aandacht dient besteed te worden aan de wijze waarop de gescheiden afvoer van het hemelwater wordt gerealiseerd;<br /><br />3° een toetsing van de ramingsprijzen aan de prijzendatabank van de N.V. Aquafin en eventueel een voorstel van aanpassing van de ingediende raming.<br /><br />§ 2. De N.V. Aquafin bezorgt uiterlijk zestig kalenderdagen na ontvangst van het voorontwerpdossier haar verslag van dit technisch en financieel nazicht aan de leden van de ambtelijke commissie. Bij gebrek aan dit verslag binnen de voormelde termijn wordt het verslag geacht gunstig te zijn.
+...
 
 ### ART. 13.
 
-De ambtelijke commissie geeft op basis van het door de N.V. Aquafin opgemaakte verslag van het technisch en financieel nazicht, binnen een termijn van dertig kalenderdagen na ontvangst van het verslag of in voorkomend geval na het verstrijken van de in artikel 12, § 2 bedoelde termijn van zestig kalenderdagen, haar beoordeling over het voorontwerpdossier. Indien het voorontwerpdossier, al of niet aangepast, wordt goedgekeurd door de ambtelijke commissie, wordt dit voorontwerp als definitief aanvaard beschouwd. Het definitief aanvaard voorontwerp maakt inzonderheid melding van de aanvaarde raming van de kosten verbonden aan de aanleg en de verbetering van openbare riolen voor wat het beschouwde rioleringsproject betreft en/of van de kosten verbonden aan de bouw en de verbetering van de kleinschalige rioolwaterzuiveringsinstallatie. Het aldus definitief aanvaard voorontwerp vormt de basis voor de opmaak van het ontwerp alsook voor de vastlegging van de gewestbijdrage.
+...
 
 ### ART. 14.
 
-§ 1. Het hoofd van het Departement Omgeving legt het definitief aanvaard voorontwerp met een voorstel tot toezegging van de gewestbijdrage lastens het MINA-fonds voor aan de bevoegde Vlaamse minister. Deze beslist binnen de dertig kalenderdagen na de goedkeuring van de gewestbijdrage door de ambtelijke commissie, over dit bedrag. Het aldus toegezegde bedrag van de gewestbijdrage wordt vastgelegd ten laste van het MINA-fonds. Dit bedrag is een plafondbedrag dat niet meer kan verhoogd worden in de verdere afhandeling van het dossier.<br>
-<br>
-§ 2. Een kopie van de toezegging van de gewestbijdrage wordt door de Vlaamse Milieumaatschappij bezorgd aan de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening alsook aan de gouverneur van de provincie waarin het project is gesitueerd en dit binnen de dertig kalenderdagen na de ondertekening van het ministerieel besluit van vastlegging door de Vlaamse minister van Leefmilieu.
+...
 
 ## AFDELING 3 HET ONTWERPDOSSIER
 
 ### ART. 15.
 
-De gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening stelt zelf een ontwerpdossier samen of doet hiervoor beroep op een door haar aangesteld ontwerper. Voor het projectmanagement en de kwaliteitsbewaking van het dossier kan zij gratis beroep doen op de N.V. Aquafin, en dit enkel inzake:<br />1° de toepassing van de code van goede praktijk, de afstemming van het project op de bovengemeentelijke rioolwaterzuiveringsinfrastructuur en het aspect afkoppeling van hemelwater, oppervlaktewater of drainagewater;<br />2° de hydrodynamische modellering die desgevallend in functie van het voorgestelde project uitgevoerd wordt.
+...
 
 ### ART. 16.
 
-Het ontwerpdossier moet ten minste bevatten:<br /><br />1° het bestek en de bijbehorende plannen;<br /><br />2° de samenvattende opmetingsstaat met postgewijze opdeling van:<br /><br />a) de kosten verbonden aan de aanleg en de verbetering van openbare riolen voor wat het beschouwde rioleringsproject betreft;<br /><br />b) de kosten verbonden aan de bouw en de verbetering van de kleinschalige rioolwaterzuiveringsinstallatie (inclusief toevoerleiding);<br /><br />c) anderzijds de overige werken;<br /><br />3° een gedetailleerde kostenraming van de werken, opgesplitst naar:<br /><br />a) de kosten die in aanmerking komen voor een gewestbijdrage van 50 %;<br /><br />b) de kosten die in aanmerking komen voor een gewestbijdrage van 75 %;<br /><br />c) de kosten die in aanmerking komen voor een gewestbijdrage van 100 %;<br /><br />d) de overige kosten van het project.
+...
 
 ### ART. 17.
 
-De gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening dient het ontwerpdossier, na toezegging van de gewestbijdrage, in twee exemplaren in bij de gouverneur van de provincie waarin het project is gesitueerd.<br /><br />De provinciegouverneur bezorgt binnen een termijn van zeven kalenderdagen na ontvangst van het ontwerpdossier een exemplaar ervan aan de N.V. Aquafin.
+...
 
 ### ART. 18.
 
-De N.V. Aquafin brengt binnen een termijn van dertig kalenderdagen bij de provinciegouverneur advies uit over het ontwerpdossier. Dit advies omvat ten minste:<br /><br />1° een technisch nazicht op de conformiteit met het definitief aanvaarde voorontwerpdossier;<br /><br />2° een controle op de correctheid van de opsplitsing van de raming naar:<br /><br />a) de kosten die in aanmerking komen voor een gewestbijdrage van 50 %;<br /><br />b) de kosten die in aanmerking komen voor een gewestbijdrage van 75 %;<br /><br />c) de kosten die in aanmerking komen voor een gewestbijdrage van 100 %;<br /><br />d) de overige kosten van het project.
+...
 
 ### ART. 19.
 
-De provinciegouverneur doet binnen een termijn van vijftig kalenderdagen na ontvangst van het ontwerp uitspraak over de conformiteit van het ontwerpdossier met het definitief aanvaarde voorontwerpdossier en over het ingediende ontwerpdossier voor wat betreft de technische uitwerking en de administratieve volledigheid ervan; voor wat de technische uitwerking betreft, baseert de gouverneur zich op het advies van de N.V. Aquafin.
+...
 
 ### ART. 20.
 
-De kennisgeving aan de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening door de provinciegouverneur van de goedkeuring van het ontwerpdossier geeft de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening het recht het werk aan te besteden, te gunnen en uit te voeren.<br /><br />De gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening maakt binnen de veertien kalenderdagen na kennisgeving van het aanvangsbevel van de werken hiervan een kopie over aan de N.V. Aquafin.<br /><br />Voor het projectmanagement van de werken kan de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening gratis beroep doen op de N.V. Aquafin en dit enkel inzake :<br />1° de uitvoering van een minder-hinderprogramma voor de omwonenden;<br />2° het beperken van verrekeningen.
+...
 
 ### ART. 21.
 
-De kennisgeving aan de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening<br />door de provinciegouverneur van het niet conform zijn van het ontwerpdossier met het definitief aanvaarde voorontwerpdossier geeft aan de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening het recht om:<br />- hetzij een aanpassing van het ontwerpdossiers door te voeren teneinde de conformiteit met het definitief aanvaarde voorontwerp te waarborgen. Dit gewijzigde ontwerpdossier dient volgens de procedure beschreven in artikel 17 t.e.m. 19 afgehandeld te worden;<br />- hetzij een gewijzigd voorontwerpdossier in te dienen volgens de procedure beschreven in artikel 8 t.e.m. 13.<br /><br />In beide gevallen kan het gewijzigde dossier echter geen aanleiding zijn voor het verhogen van het conform art. 14 reeds vastgelegde plafondbedrag van de gewestbijdrage.
+...
 
 ## AFDELING 4 UITBETALING VAN DE GEWESTBIJDRAGE
 
 ### ART. 22.
 
-§ 1. De gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening kan een voorschot van maximum 80 % van de goedgekeurde gewestbijdrage op basis van het definitief aanvaarde voorontwerpdossier krijgen, bij uitvoering van 20 % van de subsidieerbare werken. Dit voorschot mag echter nooit hoger zijn dan 80 % van het gunningsbedrag.<br>
-<br>
-§ 2. De gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening dient hiertoe bij de N.V. Aquafin een aanvraag tot conformiteitsattest in na uitvoering van 20 % van de subsidieerbare werken.<br>
-<br>
-Deze aanvraag dient minstens te bevatten:<br>
-1° de vorderingsstaat waaruit blijkt dat 20 % van de subsidieerbare werken is uitgevoerd;<br>
-2° een overzichtstabel van de uitgevoerde proeven, tegenproeven en proefverslagen, die gedaan werden op dit deel van de werken.<br>
-<br>
-Door de N.V. Aquafin wordt, binnen de veertien kalenderdagen na ontvangst van de aanvraag, het conformiteitsattest aan de Vlaamse Milieumaatschappij bezorgd.<br>
-<br>
-Het voorschot wordt afgerond tot het lager gelegen duizendtal en wordt uitbetaald door het Departement Omgeving binnen de vijfenveertig kalenderdagen na ontvangst van het conformiteitsattest.
+...
 
 ### ART. 23.
 
-§ 1. Het saldo van de gewestbijdrage wordt betaald op basis van de goedgekeurde eindafrekening, in die zin dat het bedrag van de gewestbijdrage niet hoger kan zijn dan de bij de definitieve aanvaarding van het voorontwerpdossier goedgekeurde gewestbijdrage.<br>
-<br>
-§ 2. Hiertoe dient de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening binnen de drie jaar na bekendmaking van de gewestbijdrage door de Vlaamse Milieumaatschappij de eindafrekening in twee exemplaren en het as-built-plan in vier exemplaren over te maken aan de voornoemde administratie. Deze periode kan door de ambtelijke commissie, na beoordeling van de gemotiveerde aanvraag van de gemeente, gemeentebedrijf, intercommunale of intergemeentelijke samenwerkingsverband, worden verlengd.<br>
-<br>
-De eindafrekening dient onder meer te bevatten:<br>
-1° het proces-verbaal van voorlopige oplevering;<br>
-2° de cumulatieve eindstaat;<br>
-3° de eventuele verrekeningen, bijakten en bijwerken;<br>
-4° de facturen van alle vorderingsstaten en alle betaalbewijzen;<br>
-5° een overzicht per vorderingsstaat (met vermelding van het bedrag, de eventuele herziening, de BTW, de eventuele rafacties, de eventuele boetes);<br>
-6° het borgstellingsbewijs;<br>
-7° een overzichtstabel van de gebruikte materialen en een overzicht van de afgeleverde attesten en keuringsverslagen;<br>
-8° een overzichtstabel van de uitgevoerde proeven, tegenproeven en proefverslagen;<br>
-9° een overzicht van de uitvoeringstermijn;<br>
-10° de saldoberekening.<br>
-<br>
-Het as-built-plan dient te omvatten:<br>
-1° een as-built-plan met aanduiding van de uitgevoerde riolering in Lambert 72-coördinaten en TAW-peilen;<br>
-2° de AQUADATA-fiches.<br>
-<br>
-§ 3. Door de Vlaamse Milieumaatschappij wordt binnen de 7 kalenderdagen één exemplaar van de eindafrekening aan de N.V. Aquafin overgemaakt voor advisering.<br>
-<br>
-De N.V. Aquafin controleert de conformiteit tussen het definitief aanvaarde ontwerp en de uitgevoerde werken en levert binnen de zestig kalenderdagen na ontvangst van het eindafrekeningsdossier een definitief advies af aan de administratie Milieu-, Natuur-, Land- en Waterbeheer.<br>
-<br>
-§ 4. De Vlaamse Milieumaatschappij bezorgt aan de NV Aquafin en aan de provinciegouverneur van de gemeente in kwestie een exemplaar van het as-built-plan.<br>
-<br>
-§ 5. Door het Departement Omgeving wordt het saldo van de gewestbijdrage aan de gemeente, gemeentebedrijf, intercommunale , intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening uitbetaald binnen de negentig kalenderdagen na ontvangst van de aanvraag.<br>
-<br>
-Indien de kostprijs van de uitgevoerde subsidieerbare werken lager is dan de aanvaarde raming van de kosten zoals bepaald in artikel 13, dan wordt de gewestbijdrage verminderd tot 50 %, respectievelijk 75 % of 100 % van de kostprijs van de subsidieerbare werken. In dit geval wordt de vastlegging lastens het MINA-fonds verminderd.<br>
-<br>
-§ 6. De provinciegouverneur wordt door Vlaamse Milieumaatschappij in kennis gesteld van het uitbetaalde subsidiebedrag.
+...
 
 ### ART. 24.
 
-§ 1. De gewestbijdrage vervalt van rechtswege en zal worden teruggevorderd indien:<br />1° blijkt dat de gegevens van het aanvraagdossier, op basis waarvan de werken in het subsidiëringsprogramma werden opgenomen, manifest onjuist zijn;<br />2° de gemeente, gemeentebedrijf, intercommunale, intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening binnen een periode van drie jaar na bekendmaking van de gewestbijdrage aan de gemeente door de Vlaamse Milieumaatschappij de documenten uit artikel 23 niet heeft ingediend. Deze periode kan door de ambtelijke commissie, na beoordeling van de gemotiveerde aanvraag van de gemeente, gemeentebedrijf, intercommunale of intergemeentelijke samenwerkingsverband, worden verlengd.<br /><br />§ 2. De provinciegouverneur wordt door de Vlaamse Milieumaatschappij in kennis gesteld van het vervallen van de subsidie.
+...
 
 ## [HOOFDSTUK IVbis VOORWAARDEN VOOR DE TOEKENNING VAN EEN GEWESTBIJDRAGE VOOR DE AANLEG VAN INDIVIDUELE WATERZUIVERINGSINSTALLATIES (ing. BVR 9 mei 2008, art. 7, I: 15 mei 2008)]
 
 ### ART. 24bis.
 
-Om in aanmerking te komen voor de gewestbijdrage, vermeld in artikel 3bis, moet voor het op het subsidiëringsprogramma voorkomende project voor de aanleg van een individuele waterzuiveringsinstallatie de procedure, vermeld in artikel 24ter tot en met artikel 24quinquies, in acht worden genomen.
+...
 
 ### ART. 24ter.
 
-Uiterlijk negen maanden na de bekendmaking door de Vlaamse Milieumaatschappij aan de gemeente, het gemeentebedrijf, de intercommunale, intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening in kwestie van het driemaandelijks geactualiseerde programma, waarop het project is opgenomen, dient de gemeente, het gemeentebedrijf, de intercommunale, intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening een subsidiedossier in bij de Vlaamse Milieumaatschappij.
+...
 
 ### ART. 24quater.
 
-Het subsidiedossier voor een individuele waterzuiveringsinstallaties omvat : <br />1° een overzicht van de individuele waterzuiveringsinstallaties waarvoor een gewestbijdrage wordt aangevraagd met vermelding van naam, adres en kadastraal perceel en de kosten, verbonden aan de aanleg van de individuele waterzuiveringsinstallaties voor de woongelegenheden waarvan het afvalwater wordt gezuiverd;<br />2° een verklaring dat alle gesubsidieerde waterzuiveringsinstallaties voldoen aan de criteria, vermeld in artikel 5;<br />3° de factuur en alle betaalbewijzen.<br /><br />De Vlaamse Milieumaatschappij gaat over tot een technische controle van het subsidiedossier. Die controle omvat ten minste een toetsing van het subsidiedossier aan het definitieve gemeentelijke zoneringsplan en, bij gebrek daaraan, aan de openbare zuiveringsinfrastructuur.<br /><br />De Vlaamse Milieumaatschappij legt het definitieve aanvaarde subsidiedossier met een voorstel tot toezegging van de gewestbijdrage ten laste van het MINA-fonds voor aan de bevoegde Vlaamse minister. Die beslist binnen dertig dagen na de goedkeuring van de gewestbijdrage door de Vlaamse Milieumaatschappij over het bedrag. Het aldus toegezegde bedrag van de gewestbijdrage wordt vastgelegd ten laste van het MINA-fonds.<br /><br />Een kopie van de toezegging van de gewestbijdrage wordt door de Vlaamse Milieumaatschappij bezorgd aan de gemeente, het gemeentebedrijf, de intercommunale, intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening binnen dertig kalenderdagen na de ondertekening van het ministerieel besluit van vastlegging door de Vlaamse minister van Leefmilieu.
+...
 
 ### ART. 24quinquies.
 
-De gewestbijdrage wordt betaald op basis van het goedgekeurde subsidiedossier.<br /><br />Door de Vlaamse Milieumaatschappij wordt de gewestbijdrage binnen negentig kalenderdagen na de vastlegging ervan ten laste van het MINA-fonds uitbetaald aan de gemeente, het gemeentebedrijf, de intercommunale, intergemeentelijk samenwerkingsverband of de Vlaamse Maatschappij voor Watervoorziening.
+...
 
 ## HOOFDSTUK V SAMENSTELLING VAN DE AMBTELIJKE COMMISSIE
 
 ### ART. 25.
 
-De ambtelijke commissie is samengesteld uit:<br />1° vier door het hoofd van de Vlaamse Milieumaatschappij aangeduide vertegenwoordigers van deze maatschappij, waarvan één, daartoe door voormeld hoofd aangewezen, het voorzitterschap van de ambtelijke commissie verzekert; en één, daartoe door voormeld hoofd aangewezen, het secretariaat van de ambtelijke commissie verzekert. <br />2° ...<br />3° twee vertegenwoordigers zonder stemrecht van de N.V. Aquafin aangeduid door deze maatschappij;<br />4° een vertegenwoordiger van elke provincie aangeduid door de bestendige deputatie van de provincie. Deze vertegenwoordiger heeft alleen stemrecht voor de dossiers van de gemeenten die deel uitmaken van de provincie die wordt vertegenwoordigd.
+...
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
 ### ART. 26.
 
-Onverminderd de bepalingen van dit besluit worden de rioleringsprojecten, waarvan het voorontwerp op de datum van inwerkingtreding van dit besluit is goedgekeurd, verder afgehandeld met toepassing van het besluit van de Vlaamse regering van 30 maart 1996 houdende vaststelling van de voorwaarden onder dewelke, alsook van de verhouding in dewelke het Vlaamse Gewest bijdraagt in de kosten verbonden aan de aanleg en de verbetering door de gemeenten van openbare riolen, andere dan prioritaire rioleringen, evenals houdende vaststelling van nadere regels met betrekking tot de procedure tot vaststelling van subsidiëringsprogramma's.<br /><br />De rioleringsprojecten waarvan het voorontwerp, op de datum van inwerkingtreding van dit besluit, nog niet is goedgekeurd vallen onder de bepalingen van onderhavig besluit.
+...
 
 ### ART. 27.
 
-Onverminderd de bepalingen van dit besluit worden de projecten van kleinschalige zuivering, waarvan het voorontwerp op de datum van inwerkingtreding van dit besluit is goedgekeurd, verder afgehandeld met toepassing van het besluit van de Vlaamse regering van 15 juli 1997 houdende vaststelling van de voorwaarden onder dewelke, alsook van de verhouding in dewelke het Vlaamse Gewest bijdraagt in de kosten verbonden aan de bouw door de gemeenten van rioolwaterzuiveringsinstallaties met een capaciteit van maximum 500 inwonerequivalenten evenals houdende vaststelling van nadere regels met betrekking tot de procedure tot vaststelling van subsidiëringsprogramma's.<br /><br />De projecten van kleinschalige zuivering waarvan het voorontwerp, op de datum van inwerkingtreding van dit besluit, nog niet is goedgekeurd vallen onder de bepalingen van onderhavig besluit.
+...
 
 ### ART. 28.
 
-(niet opgenomen)<br /><br />(Heft het besluit van de Vlaamse regering van 30 maart 1996 houdende vaststelling van de voorwaarden onder dewelke, alsook van de verhouding in dewelke het Vlaamse Gewest bijdraagt in de kosten verbonden aan de aanleg en de verbetering door de gemeenten van openbare riolen, andere dan prioritaire rioleringen, evenals houdende vaststelling van nadere regels met betrekking tot de procedure tot vaststelling van subsidiëringsprogramma's op)
+...
 
 ### ART. 29.
 
-(niet opgenomen)<br /><br />(Heft het besluit van de Vlaamse regering van 15 juli 1997 houdende vaststelling van de voorwaarden onder dewelke, alsook van de verhouding in dewelke het Vlaamse Gewest bijdraagt in de kosten verbonden aan de bouw door de gemeenten van rioolwaterzuiveringsinstallaties met een capaciteit van maximum 500 inwonerequivalenten evenals houdende vaststelling van nadere regels met betrekking tot de procedure tot vaststelling van subsidiëringsprogramma's op)
+...
 
 ### ART. 30.
 
-Dit besluit treedt met terugwerkende kracht in werking op 1 januari 2002.
+...
 
 ### ART. 31.
 
-De Vlaamse minister, bevoegd voor het leefmilieu, is belast met de uitvoering van dit besluit.
+...
