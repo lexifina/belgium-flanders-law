@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028295,
+  "title": "Besluit van de Vlaamse Regering van 2017-04-28 houdende wijzing van het besluit van de Vlaamse Regering van 25 februari 2011 houdende opheffing van de Watering de Goren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028295/VolledigDocument?datum=2017-06-17",
+  "source_sha256": "7b3858d967401eec15b1cf95f2414f9d48358c9acc62d42eb1ed9eecc1a6472e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028295&param=informatie",
+  "as_of": "2017-06-17",
+  "made": "2017-04-28",
+  "gazette": "2017-06-07",
+  "numac": 2017012288,
+  "document_start": "2017-06-17",
+  "document_end": null,
+  "in_force": "2017-06-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-06-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
