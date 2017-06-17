@@ -2,16 +2,16 @@
   "codex_id": 1020102,
   "title": "Besluit van de Vlaamse Regering van 2011-02-25 houdende opheffing van watering De Goren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020102/VolledigDocument?datum=2011-03-26",
-  "source_sha256": "c0672146f09031a1971a5d21f3dbb7232add1150a708a851c0e607b6a7aca60b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020102/VolledigDocument?datum=2017-06-17",
+  "source_sha256": "d6f0b9f3911a92cb6e6ae70941e115009792026eea3a9d4157ab35129552ce28",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020102&param=informatie",
-  "as_of": "2011-03-26",
+  "as_of": "2017-06-17",
   "made": "2011-02-25",
   "gazette": "2011-03-16",
   "numac": 2011035231,
   "document_start": "2011-03-26",
   "document_end": null,
-  "in_force": "2011-03-26",
+  "in_force": "2017-06-17",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2011-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-06-17; future article versions excluded; article text as the API gives it"
 }

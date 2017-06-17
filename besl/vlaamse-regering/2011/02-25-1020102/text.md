@@ -14,7 +14,12 @@ Na de opheffing van de watering De Goren moeten de waterlopen beheerd worden zoa
 
 ### ART. 3.
 
-Het vermogen van de watering De Goren, bestaande uit geldelijke middelen, zal verdeeld worden onder de toekomstige beheerders zoals bepaald in artikel 2 naar rato van het aantal kilometer te beheren waterlopen, en zal worden aangewend om onderhouds- en herstellingswerken uit te voeren binnen het ambtsgebied van de op te heffen watering. Het pompstation wordt overgedragen aan het provinciebestuur.
+Het vermogen van de watering De Goren, bestaande uit geldelijke middelen, zal verdeeld worden onder de toekomstige beheerders zoals bepaald in artikel 2 naar rato van het aantal kilometer te beheren waterlopen, en zal worden aangewend om onderhouds- en herstellingswerken uit te voeren binnen het ambtsgebied van de op te heffen watering. Het pompstation wordt overgedragen aan het provinciebestuur. Naast het kadastraal perceel waarop het pompstation is gelegen, worden ook volgende percelen overgedragen aan de provincie Antwerpen:<br>
+- Heist-op-den-Berg 1 AFD Sectie C 256/2;<br>
+- Heist-op-den-Berg 1 AFD Sectie C 257/2;<br>
+- Heist-op-den-Berg 1 AFD Sectie C 256 C;<br>
+- Heist-op-den-Berg 1 AFD Sectie C 188 H;<br>
+- Heist-op-den-Berg 5 AFD Sectie C 435 C.
 
 ### ART. 4.
 
