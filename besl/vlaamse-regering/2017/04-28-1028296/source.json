@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028296,
+  "title": "Besluit van de Vlaamse Regering van 2017-04-28 tot bepaling van de kwaliteitscriteria voor de instroomopleiding Havenarbeider",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028296/VolledigDocument?datum=2017-06-17",
+  "source_sha256": "5c0556c3a1bcbebb405cbc7f9f3b3b663e676cfffd335275eb3257cf9e7f9f99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028296&param=informatie",
+  "as_of": "2017-06-17",
+  "made": "2017-04-28",
+  "gazette": "2017-06-07",
+  "numac": 2017012289,
+  "document_start": "2017-06-17",
+  "document_end": null,
+  "in_force": "2017-06-17",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-06-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
