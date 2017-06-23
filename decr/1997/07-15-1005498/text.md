@@ -12,6 +12,10 @@ Dit decreet, hierna Vlaamse Wooncode te noemen, regelt een aangelegenheid bedoel
 1° aanpassing : de uitvoering van specifieke werkzaamheden om een woning te doen beantwoorden aan de woningbezetting, de gezinssamenstelling of aan de fysieke mogelijkheden van bejaarden en personen met een handicap;<br>
 2°&nbsp;decreet Grond- en Pandenbeleid : het decreet van 27 maart 2009 betreffende het Grond- en Pandenbeleid;<br>
 3° bestaande woonkern : een gebied met dichte bebouwing, bestemd voor bewoning, waar gemakkelijk een aansluiting op bestaande infrastructuur kan worden gerealiseerd en dat gekarakteriseerd wordt door de effectieve beschikbaarheid van primaire voorzieningen van dagelijkse, commerciële, dienstverlenende en socio-culturele aard;<br>
+3° bis beveiligde zending: één van de hiernavolgende betekeningswijzen:<br>
+a) een aangetekend schrijven;<br>
+b) een afgifte tegen ontvangstbewijs;<br>
+c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
 4° Heffingsdecreet : afdeling 2, van hoofdstuk VIII, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
 5° gemeenschapsvoorzieningen : de installaties of gebouwen van collectieve aard en van sociaal of cultureel belang, met inbegrip van voorzieningen die bijdragen tot een verwevenheid van functies op buurtniveau;<br>
 6° woonbehoeftig : verkerend in een feitelijke economische en maatschappelijke situatie waarin een behoorlijke huisvesting slechts kan worden verworven of behouden met extra of omvattende steun;<br>
@@ -513,7 +517,7 @@ De Vlaamse Regering waakt erover dat : <br />1° de verrichtingen van de sociale
 ### ART. 29bis.
 
 § 1. Een toezichthouder voor de sociale huisvesting, hierna de toezichthouder te noemen, oefent, binnen het ambtsgebied dat hem wordt toegewezen, het toezicht uit op de volgende verrichtingen :<br>
-1° de verrichtingen van de sociale woonorganisaties, met uitzondering van de VMSW, krachtens titels V, VI en VII;<br>
+1° de verrichtingen van de sociale woonorganisaties, met uitzondering van de VMSW, krachtens titels V, VI en VII. De verrichtingen gesteld vanaf de intrekking van de erkenning van een sociale woonorganisatie, overeenkomstig artikel 48, 49 en 56bis, § 1, tot aan de afsluiting van de vereffening, worden gelijkgesteld met de voormelde verrichtingen;<br>
 2° de verrichtingen van de VMSW krachtens artikel 34, § 1, met uitzondering van het voorschieten van financiële middelen aan de sociale huisvestingsmaatschappijen als vermeld in 2° en van 6°; krachtens artikel 34, § 3, eerste en tweede lid, en § 5; krachtens titel VI en krachtens titel VII;<br>
 3° de volgende verrichtingen van het OCMW, een OCMW-vereniging, de gemeente en een intergemeentelijk samenwerkingsverband :<br>
 a) de verrichtingen krachtens titel VI en VII;<br>
@@ -589,7 +593,8 @@ De VMSW wordt er ook mee belast de sociale verhuurkantoren te ondersteunen bij h
 2° het organiseren van het overleg tussen sociale verhuurkantoren;<br>
 3° het ondersteunen van de sociale verhuurkantoren als huurders op de private huurmarkt enerzijds en als sociale verhuurders anderzijds;<br>
 4° het begeleiden van sociale verhuurkantoren die nog niet erkend zijn overeenkomstig artikel 56, § 1, met het oog op die erkenning;<br>
-5° het stimuleren en ondersteunen van samenwerkingsverbanden tussen sociale verhuurkantoren enerzijds, en sociale huisvestingsmaatschappijen, gemeenten, OCMW's, welzijnsorganisaties en andere relevante actoren anderzijds.<br>
+5° het stimuleren en ondersteunen van samenwerkingsverbanden tussen sociale verhuurkantoren enerzijds, en sociale huisvestingsmaatschappijen, gemeenten, OCMW's, welzijnsorganisaties en andere relevante actoren anderzijds;<br>
+6° het verstrekken van leningen met rentevermindering met als doel tijdelijke liquiditeitstekorten van sociale verhuurkantoren op te vangen. De Vlaamse Regering bepaalt de voorwaarden waaronder de leningen met rentevermindering worden verstrekt.<br>
 <br>
 Daarnaast heeft de VMSW als opdracht :<br>
 1° bijzondere sociale leningen toe te staan voor de verwerving en realisatie van sociale koopwoningen en van andere woningen, en voor de renovatie, de verbetering of de aanpassing van woningen;<br>
@@ -649,7 +654,7 @@ De VMSW en de sociale huisvestingsmaatschappijen kunnen voor het uitvoeren van h
 1° de sociale huisvestingsmaatschappijen;<br>
 2° aan gezinnen of alleenstaanden ter uitvoering van de opdrachten, vermeld in artikel 33, waarbij ze rekening houdt met de prijsnormen, met de chronologie van de aanvragen en met de prioriteiten en andere voorwaarden die de Vlaamse Regering dienaangaande vaststelt;<br>
 2° /1 aan gezinnen en alleenstaanden ter uitvoering van de opdrachten met betrekking tot het bescheiden woonaanbod in de zin van artikel 41, § 2;<br>
-3° gemeenten, autonome gemeentebedrijven als vermeld in titel VII, hoofdstuk II, afdeling II, van het Gemeentedecreet van 15 juli 2005, intergemeentelijke samenwerkingsverbanden, of openbare centra voor maatschappelijk welzijn, voor doeleinden die te maken hebben met sociaal woonaanbod, het bescheiden woonaanbod of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen;<br>
+3° gemeenten, autonome gemeentebedrijven als vermeld in titel VII, hoofdstuk II, afdeling II, van het Gemeentedecreet van 15 juli 2005, intergemeentelijke samenwerkingsverbanden, het Vlaams Woningfonds, openbare centra voor maatschappelijk welzijn of OCMW-verenigingen, voor doeleinden die te maken hebben met sociaal woonaanbod, het bescheiden woonaanbod of de realisatie van gemeenschapsvoorzieningen die een identificeerbare band hebben met nabijgelegen reeds bestaande of nog te realiseren sociale woningen;<br>
 3° /1 initiatiefnemers van en partners in projecten als vermeld in paragraaf 1, tweede lid, 1° ; onder de voorwaarden die de Vlaamse Regering bepaalt;<br>
 4° andere personen, voor zover de onroerende goederen in kwestie niet meer van nut zijn voor huisvesting, en een openbare verkoop niet de venale waarde oplevert of de kosten van een openbare verkoop niet in verhouding staan tot de venale waarde en voor zover voldaan is aan de voorwaarden die de Vlaamse Regering bepaalt;<br>
 5° Vlabinvest apb.<br>
@@ -705,10 +710,39 @@ b) elk ander decreet of besluit, voorzover dat betrekking heeft op aspecten van 
 7° de vennootschap zorgt voor een behoorlijk werkend systeem van interne controle;<br>
 8° de vennootschap verbindt er zich toe haar financiële middelen die niet noodzakelijk zijn voor de dagelijkse werking te laten beheren door de VMSW;<br>
 9° de vennootschap heeft een voldoende lokale binding met een welomschreven werkgebied en een voldoende laagdrempelige bereikbaarheid voor de doelgroep;<br>
-10° de vennootschap stelt een raad van bestuur aan waarvan ten minste een derde van de aangestelde leden van een ander geslacht is, en die maximaal uit een door de Vlaamse Regering te bepalen aantal leden bestaat;<br>
-11° de vennootschap draagt in voldoende mate bij aan het bereiken van het bindend sociaal objectief, vermeld in artikel 4.1.2 van het decreet Grond- en Pandenbeleid, van de gemeenten in haar werkgebied, tenzij zij aantoont dat er externe factoren zijn die verantwoorden waarom het objectief niet wordt bereikt.<br>
+10° de vennootschap draagt in voldoende mate bij aan het bereiken van het bindend sociaal objectief, vermeld in artikel 4.1.2 van het decreet Grond- en Pandenbeleid, van de gemeenten in haar werkgebied, tenzij zij aantoont dat er externe factoren zijn die verantwoorden waarom het objectief niet wordt bereikt;<br>
+11° de vennootschap beschikt uiterlijk op 1 januari 2019 over een patrimonium van ten minste 1000 sociale huurwoningen in beheer;<br>
+12° de vennootschap bezorgt de door de Vlaamse Regering gevraagde informatie aan het Vlaamse Gewest of haar organen, op eerste verzoek;<br>
+13° de vennootschap verleent haar actieve en volledige medewerking aan de procedure voor prestatiebeoordeling voor sociale huisvestingmaatschappijen. De Vlaamse Regering bepaalt de procedure voor prestatiebeoordeling;<br>
+14° de vennootschap neemt, op eigen initiatief of op verzoek van de Vlaamse Regering, de nodige maatregelen om haar prestaties te verbeteren, onder meer door verbeterplannen op te maken en naar behoren uit te voeren;<br>
+15° de vennootschap stelt een raad van bestuur aan met ten minste een derde van de aangestelde leden van een ander geslacht en die maximaal uit het volgende aantal leden bestaat:<br>
+a) vijf leden voor een sociale huisvestingsmaatschappij die minder dan 500 sociale huurwoningen in beheer heeft en die de laatste vijf jaar gemiddeld minder dan 10 sociale koopwoningen per jaar heeft gerealiseerd;<br>
+b) negen leden voor een sociale huisvestingsmaatschappij die minstens 500 en minder dan 1500 sociale huurwoningen in beheer heeft of die de laatste vijf jaar gemiddeld minstens 10 sociale koopwoningen per jaar heeft gerealiseerd;<br>
+c) dertien leden voor een sociale huisvestingsmaatschappij die minstens 1500 sociale huurwoningen in beheer heeft.<br>
 <br>
 De Vlaamse Regering bepaalt de methodologie en de criteria aan de hand waarvan het in voldoende mate bijdragen aan het bereiken van het bindend sociaal objectief, vermeld in artikel 4.1.2 van het decreet Grond- en Pandenbeleid, van de gemeenten in het werkgebied van de vennootschap, vermeld in het tweede lid, 11°, wordt beoordeeld. Ten minste moet rekening gehouden worden met de andere sociale huisvestingsmaatschappijen en de sociale verhuurkantoren die in hetzelfde werkgebied actief zijn.<br>
+<br>
+De voorwaarde, vermeld in het tweede lid, 11°, geldt niet voor vennootschappen die alleen sociale koopwoningen aanbieden. Voor de berekening van de minimale schaalgrootte, vermeld in het tweede lid, 11°, wordt rekening gehouden met de door de sociale huisvestingsmaatschappij gerealiseerde en geplande sociale huurwoningen op 1 januari 2019. Een sociale huurwoning is gepland als ze nog niet is gerealiseerd, maar de uitvoering of de gunningsprocedure voor de realisatie van de woning kan opgestart worden binnen een termijn van drie jaar. De realisatie van de geplande sociale huurwoningen is ten minste opgenomen in de meerjarenplanning, vermeld in artikel 33, § 3.<br>
+<br>
+De Vlaamse Regering kan een sociale huisvestingmaatschappij een uitstel van maximaal vijf jaar verlenen om te voldoen aan de voorwaarde met betrekking tot de minimale schaalgrootte, vermeld in het tweede lid, 11°. De sociale huisvestingsmaatschappij dient hiervoor uiterlijk op 31 december 2017 een gemotiveerde aanvraag in bij de Vlaamse Regering. Het aanvraagdossier omvat minstens:<br>
+1° een toelichting over de inspanningen die de vennootschap heeft geleverd om de minimale schaalgrootte te bereiken, en de verhinderende omstandigheden, vreemd aan de vennootschap;<br>
+2° als de sociale huisvestingsmaatschappij de minimale schaalgrootte wil bereiken door een fusie met een of meerdere sociale huisvestingsmaatschappijen:<br>
+a) hetzij het bewijs van neerlegging van het fusievoorstel van de fuserende vennootschappen op de griffie van de rechtbank van koophandel;<br>
+b) hetzij een stappenplan voor de realisatie van een fusie van een of meerdere vennootschappen voor 1 januari 2024;<br>
+3° als de sociale huisvestingsmaatschappij opteert voor een eigenstandige aangroei van haar sociaal huurpatrimonium, een planning van de toename van het sociaal woonaanbod, die toelaat de minimale schaalgrootte te bereiken voor 1 januari 2024.<br>
+<br>
+De Vlaamse Regering kan een niet eerder als sociale huisvestingsmaatschappij erkende vennootschap een uitstel van maximaal tien jaar verlenen om te voldoen aan de voorwaarde met betrekking tot de minimale schaalgrootte, vermeld in het tweede lid, 11°. De sociale huisvestingsmaatschappij voegt bij het aanvraagdossier voor de erkenning minstens:<br>
+1° een toelichting over de inspanningen die de vennootschap zal leveren om de minimale schaalgrootte te bereiken;<br>
+2° als de sociale huisvestingsmaatschappij de minimale schaalgrootte wil bereiken door een fusie met een of meerdere sociale huisvestingsmaatschappijen:<br>
+a) hetzij het bewijs van neerlegging van het fusievoorstel van de fuserende vennootschappen op de griffie van de rechtbank van koophandel;<br>
+b) hetzij een stappenplan voor de realisatie van een fusie van een of meerdere vennootschappen binnen de termijn van maximaal tien jaar vanaf de tijdelijke erkenning van de vennootschap;<br>
+3° als de vennootschap opteert voor een eigenstandige aangroei van haar sociaal huurpatrimonium, een planning van de toename van het sociaal woonaanbod die toelaat de minimale schaalgrootte te bereiken binnen de termijn van tien jaar vanaf de tijdelijke erkenning van de vennootschap. De Vlaamse Regering neemt een beslissing over een aanvraag tot uitstel als vermeld in het vijfde en in het zesde lid, binnen een termijn van zes maanden na de melding van de ontvangst van de aanvraag. Bij gebrek aan een beslissing binnen die termijn wordt de aanvraag tot uitstel geacht toegekend te zijn.<br>
+<br>
+De Vlaamse Regering neemt een beslissing over een aanvraag tot uitstel als vermeld in het vijfde en zesde lid, binnen een termijn van zes maanden na de melding van de ontvangst van de aanvraag. Bij gebrek aan een beslissing binnen die termijn wordt de aanvraag tot uitstel geacht toegekend te zijn.<br>
+<br>
+In geval van een beslissing tot toekenning van een uitstel als vermeld in het vijfde lid, 2°, b), en het zesde lid, 2°, b), levert de sociale huisvestingsmaatschappij, uiterlijk dertig maanden voor het verstrijken van de termijn van uitstel, een bewijs van neerlegging van het fusievoorstel van elke fuserende vennootschap op de griffie van de rechtbank van koophandel. In geval van een beslissing tot toekenning van uitstel als vermeld in het vijfde lid, 2°, nemen de algemene vergaderingen van elke fuserende vennootschap uiterlijk op de laatste dag van de termijn van uitstel een beslissing over het fusievoorstel.<br>
+<br>
+Na de fusie van twee of meer sociale huisvestingsmaatschappijen, kan een hoger aantal bestuursleden aangesteld blijven dan vermeld in het tweede lid, 15°. In dat geval mogen na de aanstelling van de eerste raad van bestuur van de gefuseerde maatschappij geen nieuwe raadsleden worden aangesteld of mandaten van raadsleden worden verlengd zolang hun aantal te hoog is. Uiterlijk na de vervanging of verlenging van alle mandaten van de leden van de raad van bestuur na de samenstelling van de eerste raad van bestuur van de gefuseerde maatschappij moet aan alle voorwaarden worden voldaan. De Vlaamse Regering bepaalt de wijze van berekening van het aantal sociale woningen in beheer en kan bekwaamheidsvereisten opleggen aan de leden van de raad van bestuur.<br>
 <br>
 De Vlaamse Regering stelt de procedure voor de erkenning en de intrekking van de erkenning, alsook de modelstatuten van de sociale huisvestingsmaatschappijen en de regeling voor het beheer van de middelen als vermeld in het tweede lid, 8°, vast. Aan de statuten van een sociale huisvestingsmaatschappij kan geen enkele wijziging worden aangebracht zonder de voorafgaande goedkeuring van de Vlaamse Regering, tenzij in de gevallen die door de Vlaamse Regering anders bepaald zijn. Die modelstatuten bepalen dat de bestuurders van de sociale huisvestingsmaatschappijen verplicht zijn het toezicht zoals dat geregeld is in de Vlaamse Wooncode te eerbiedigen en te doen eerbiedigen en tevens te zorgen voor een behoorlijk werkend systeem van interne controle.<br>
 <br>
@@ -776,11 +810,31 @@ De Vlaamse Regering bepaalt onder welke voorwaarden de sociale huisvestingsmaats
 
 ### ART. 48.
 
-Op eigen initiatief of op verzoek van de toezichthouder kan de Vlaamse Regering een sociale huisvestingsmaatschappij die de opdrachten, opgelegd bij decreet of bij besluit van de Vlaamse Regering, niet behoorlijk uitvoert, die de verbintenissen die ze is aangegaan niet nakomt of waarvan de werking in gebreke blijft, de volgende sancties opleggen :<br />1° de eerstvolgende prestatiebeoordeling, conform de door de Vlaamse Regering vastgestelde procedure voor de beoordeling van de prestaties van sociale huisvestingsmaatschappijen, vervroegen;<br />2° verplichten om een beroep te doen op externe bijstand;<br />3° aanstellen van een bestuurder die geheel of gedeeltelijk in de plaats treedt van het bestuursorgaan van de sociale huisvestingsmaatschappij;<br />4° de activiteiten van de sociale huisvestingsmaatschappij tijdelijk uitbesteden; <br />5° verplichten tot samenwerking met een andere sociale huisvestingsmaatschappij.<br /><br />Met behoud van de persoonlijke en hoofdelijke aansprakelijkheid van de bestuurders kan de Vlaamse Regering, op eigen initiatief of op verzoek van de toezichthouder, een sociale huisvestingsmaatschappij die de opdrachten, opgelegd bij decreet of bij besluit van de Vlaamse Regering, niet behoorlijk uitvoert, die de verbintenissen die ze is aangegaan niet nakomt of waarvan de werking in gebreke blijft, de volgende sancties opleggen :<br />1° verplichten tot fusie met een andere sociale huisvestingsmaatschappij;<br />2° intrekken van de erkenning van de sociale huisvestingsmaatschappij.<br /><br />Met behoud van de toepassing van artikel 49 kan de Vlaamse Regering de nadere regelen en de procedure vaststellen voor het opleggen van de sancties, vermeld in het eerste en het tweede lid.
+Op eigen initiatief of op verzoek van de toezichthouder kan de Vlaamse Regering een sociale huisvestingsmaatschappij die de opdrachten, opgelegd bij decreet of bij besluit van de Vlaamse Regering, niet behoorlijk uitvoert, die de verbintenissen die ze is aangegaan niet nakomt of waarvan de werking in gebreke blijft, de volgende sancties opleggen :<br>
+1° de eerstvolgende prestatiebeoordeling, conform de door de Vlaamse Regering vastgestelde procedure voor de beoordeling van de prestaties van sociale huisvestingsmaatschappijen, vervroegen;<br>
+2° verplichten om een beroep te doen op externe bijstand. De kosten verbonden aan de externe bijstand kunnen worden gesubsidieerd. De Vlaamse Regering bepaalt de voorwaarden en de procedure voor het bekomen van deze aanvullende subsidie;<br>
+3° aanstellen van een bestuurder die geheel of gedeeltelijk in de plaats treedt van het bestuursorgaan van de sociale huisvestingsmaatschappij;<br>
+4° de activiteiten van de sociale huisvestingsmaatschappij tijdelijk uitbesteden;<br>
+5° verplichten tot samenwerking met een andere sociale huisvestingsmaatschappij;<br>
+6° opschorten van de projectfinanciering voor toekomstige nieuwbouwprojecten, als niet voldaan is aan de erkenningsvoorwaarde, vermeld in artikel 40, § 1, tweede lid, 11°.<br>
+<br>
+Met behoud van de persoonlijke en hoofdelijke aansprakelijkheid van de bestuurders kan de Vlaamse Regering, op eigen initiatief of op verzoek van de toezichthouder, een sociale huisvestingsmaatschappij die de opdrachten, opgelegd bij decreet of bij besluit van de Vlaamse Regering, niet behoorlijk uitvoert, die de verbintenissen die ze is aangegaan niet nakomt of waarvan de werking in gebreke blijft, de volgende sancties opleggen :<br>
+1° verplichten tot fusie met een andere sociale huisvestingsmaatschappij;<br>
+2° intrekken van de erkenning van de sociale huisvestingsmaatschappij.<br>
+<br>
+Voorafgaand aan de beslissing om een van de sancties, vermeld in het eerste en het tweede lid, op te leggen, stuurt de Vlaamse Regering de betrokken sociale huisvestingsmaatschappij een ingebrekestelling. In de ingebrekestelling motiveert de Vlaamse Regering waarom de sociale huisvestingsmaatschappij de erkenningsvoorwaarden niet nakomt, de opdrachten, opgelegd bij decreet of krachtens een besluit van de Vlaamse Regering, niet behoorlijk uitvoert, de verbintenissen die ze is aangegaan, niet nakomt, of haar werking in gebreke blijft. De ingebrekestelling wordt met een beveiligde zending verstuurd. De in gebreke gestelde sociale huisvestingsmaatschappij wordt uitgenodigd om te worden gehoord. Zij kan zich daarbij laten bijstaan.<br>
+<br>
+Met behoud van de toepassing van artikel 49 kan de Vlaamse Regering de nadere regelen en de procedure vaststellen voor het opleggen van de sancties, vermeld in het eerste en het tweede lid.
 
 ### ART. 49.
 
-§ 1. De uittredende vennoten van de sociale huisvestingsmaatschappij die verplicht wordt tot fusie met een andere sociale huisvestingsmaatschappij, hetzij door overneming, hetzij door oprichting van een nieuwe sociale huisvestingsmaatschappij, krijgen tot uiterlijk drie maanden na de beslissing van de Vlaamse Regering tot verplichte fusie, hun deelbewijzen en aandelen terugbetaald, tegen de waarde die ze op grond van de statuten zouden hebben als hun vennootschap ontbonden was.<br /><br />§ 2. De intrekking van de erkenning van een sociale huisvestingsmaatschappij heeft van rechtswege tot gevolg dat het vermogen van de ontbonden vennootschap, na aanzuivering van het passief en de eventuele terugbetaling aan de vennoten van hun inbreng, overgaat op een andere overeenkomstig haar statuten aan te wijzen sociale huisvestingsmaatschappij.<br /><br />De beslissing tot intrekking van de erkenning heeft uitwerking vanaf de dag van de betekening ervan. Van dan af worden alle bevoegdheden om de sociale huisvestingsmaatschappij te besturen en te verbinden toegewezen aan een of meer door de Vlaamse Regering aangestelde vereffenaars. Die zijn bevoegd om alle maatregelen te nemen en alle daden van bestuur en beschikking te stellen die noodzakelijk zijn voor de overgang van het patrimonium van de ontbonden vennootschap op de aangewezen sociale huisvestingsmaatschappij. De Vlaamse Regering is uitdrukkelijk en met uitsluiting van elk vennootschapsorgaan bevoegd om de wijze van vereffening vast te stellen, het verslag van de door haar aangestelde vereffenaars te aanhoren en het afsluiten van de vereffening uit te spreken. Alleen de Vlaamse Regering is bevoegd om de vereffenaars te machtigen tot het stellen van alle daden die in de vereffeningsprocedure vereist zijn.<br /><br />§ 3. ...<br />
+§ 1. De uittredende vennoten van de sociale huisvestingsmaatschappij die verplicht wordt tot fusie met een andere sociale huisvestingsmaatschappij, hetzij door overneming, hetzij door oprichting van een nieuwe sociale huisvestingsmaatschappij, krijgen tot uiterlijk drie maanden na de beslissing van de Vlaamse Regering tot verplichte fusie, hun deelbewijzen en aandelen terugbetaald, tegen de waarde die ze op grond van de statuten zouden hebben als hun vennootschap ontbonden was.<br>
+<br>
+§ 2. De intrekking van de erkenning van een sociale huisvestingsmaatschappij heeft van rechtswege tot gevolg dat het vermogen van de ontbonden vennootschap, na aanzuivering van het passief en de eventuele terugbetaling aan de vennoten van hun inbreng, overgaat op een andere overeenkomstig haar statuten aan te wijzen sociale huisvestingsmaatschappij.<br>
+<br>
+De beslissing tot intrekking van de erkenning heeft uitwerking vanaf de dag van de betekening ervan. Van dan af worden alle bevoegdheden om de sociale huisvestingsmaatschappij te besturen en te verbinden toegewezen aan een of meer door de Vlaamse Regering aangestelde vereffenaars. Die zijn bevoegd om alle maatregelen te nemen en alle daden van bestuur en beschikking te stellen die noodzakelijk zijn voor de overgang van het patrimonium van de ontbonden vennootschap op de aangewezen sociale huisvestingsmaatschappij. De Vlaamse Regering is uitdrukkelijk en met uitsluiting van elk vennootschapsorgaan bevoegd om de wijze van vereffening vast te stellen, het verslag van de door haar aangestelde vereffenaars te aanhoren en het afsluiten van de vereffening uit te spreken. Alleen de Vlaamse Regering is bevoegd om de vereffenaars te machtigen tot het stellen van alle daden die in de vereffeningsprocedure vereist zijn.<br>
+<br>
+§ 3. De Vlaamse Regering kan de eventuele nadelige financiële gevolgen voor een sociale huisvestingsmaatschappij, ten gevolge van een herstructurering in de zin van boek XI van het Wetboek van Vennootschappen, geheel of gedeeltelijk compenseren door een toelage te verlenen. De kosten verbonden aan de herstructurering en de bijkomende lasten ten gevolge van de herstructurering kunnen betoelaagd worden. De Vlaamse Regering stelt hiervoor de nadere regels vast.
 
 ## HOOFDSTUK III HET VLAAMS WONINGFONDS [... (geschr. Decr. 31 mei 2013, art. 18, I: 21 juli 2013)]
 
@@ -819,7 +873,51 @@ De toezichthouder ziet in het bijzonder toe op de beslissingen van de raad van b
 
 ### ART. 56.
 
-§ 1. De Vlaamse regering kan, rekening houdend met artikel 29,   huurdersbonden en sociale verhuurkantoren erkennen als huurdiensten waarvan de   werking wordt gesubsidieerd overeenkomstig de bepalingen van artikel   58.<BR><BR>Om erkend te kunnen worden als huurdienst moet ten minste aan de   volgende voorwaarden voldaan zijn:<BR>1° de huurdienst is werkzaam en gevestigd   in het Vlaamse Gewest;<BR>2° de huurdienst verbindt er zich toe de opdrachten   uit te voeren die hem worden opgelegd door:<BR>a) de Vlaamse Wooncode en de   besluiten ter uitvoering ervan;<BR>b) elk ander decreet of besluit, voorzover   die betrekking hebben op aspecten van het sociale woonbeleid;<BR>3° de   huurdienst verbindt er zich toe het toezicht van de Vlaamse regering en van de   toezichthouder voor de sociale huisvesting in het bijzonder, te   aanvaarden.<BR><BR>De Vlaamse regering stelt de procedure vast voor de erkenning   en de intrekking van de erkenning. De Vlaamse regering kan aanvullende   voorwaarden opleggen om erkend te worden als huurdienst, onder meer wat   representativiteit, schaalgrootte en regionale spreiding betreft.<BR><BR>§ 2. De   erkende huurdiensten dragen bij tot het helpen realiseren van het recht op wonen   en behartigen, zoals hierna bepaald, de belangen van de meest behoeftige   gezinnen en alleenstaanden op de privé-huurwoningmarkt.<BR><BR>De huurdersbonden   verstrekken op individuele of collectieve basis informatie en advies over alle   aangelegenheden inzake het wonen in huurwoningen, onder meer bevattelijke   huurinformatie en huuradvies. Ze kunnen juridische bijstand verlenen aan   huurders en aanstaande huurders in het algemeen en aan de meest behoeftige   huurders in het bijzonder.<BR><BR>De sociale verhuurkantoren hebben als taak   privé-huurwoningen in te schakelen voor de huisvesting van woonbehoeftige   gezinnen en alleenstaanden. In het bijzonder huren ze met dat doel woningen op   de private huurwoningmarkt om ze aan de woonbehoeftige gezinnen en   alleenstaanden onder te verhuren en ontwikkelen ze initiatieven op het vlak van   de woonbegeleiding om hun huurders in de praktijk vertrouwd te maken met hun   rechten en plichten als huurder.<BR><BR>§ 3. De Vlaamse Regering kan, hetzij op   eigen initiatief, hetzij op verzoek van de toezichthouder, de erkenning van een   huurdienst intrekken.<BR><BR>§ 4. ...<BR><BR>§ 5. ...<BR><BR>§ 6.   ...
+§ 1. De Vlaamse Regering kan, rekening houdend met artikel 29, huurdersbonden en sociale verhuurkantoren erkennen als huurdiensten waarvan de werking wordt gesubsidieerd conform artikel 58.<br>
+<br>
+§ 2. De erkende huurdiensten dragen bij tot het helpen realiseren van het recht op wonen en behartigen de belangen van de meest behoeftige gezinnen en alleenstaanden op de privéhuurwoningmarkt.<br>
+<br>
+De huurdersbonden verstrekken op individuele of collectieve basis informatie en advies over alle aangelegenheden met betrekking tot het wonen in huurwoningen, onder meer bevattelijke huurinformatie en huuradvies. Ze kunnen juridische bijstand verlenen aan huurders en aanstaande huurders in het algemeen en aan de meest behoeftige huurders in het bijzonder.<br>
+<br>
+De sociale verhuurkantoren hebben de volgende opdrachten:<br>
+1° op de private huurmarkt woningen of kamers huren of in erfpacht nemen om kwaliteitsvolle woningen of kamers te verhuren aan woonbehoeftige gezinnen en alleenstaanden tegen een redelijke huurprijs en met aandacht voor het bieden van woonzekerheid;<br>
+2° de huurders begeleiden om hen vertrouwd te maken met hun rechten en plichten als huurder;<br>
+3° met het oog op de verruiming van het woningaanbod toegankelijk zijn voor de kandidaat-verhuurders en voor de verhuurders en hen begeleiden en ondersteunen om de woningkwaliteit te verzekeren conform de normen, vermeld in artikel 5;<br>
+4° met lokale besturen en woon- en welzijnsactoren samenwerken en overleggen en, als dat wenselijk is, initiatieven nemen om samenwerkingsverbanden op te zetten.<br>
+<br>
+Het sociaal verhuurkantoor kan ter ondersteuning van de uitvoering van zijn opdrachten, bijkomende taken opnemen. De Vlaamse Regering kan daarvoor nadere regels bepalen.<br>
+<br>
+§ 3. Om erkend te kunnen worden en te blijven als huurdienst moet ten minste aan volgende voorwaarden zijn voldaan:<br>
+1° de huurdienst is werkzaam en gevestigd in het Vlaamse Gewest;<br>
+2° de huurdienst verbindt er zich toe de opdrachten uit te voeren die hen worden opgelegd door:<br>
+a) dit decreet en zijn uitvoeringsbesluiten;<br>
+b) elk ander decreet of besluit, als dat betrekking heeft op aspecten van het sociale woonbeleid;<br>
+3° de huurdienst aanvaardt het toezicht van de Vlaamse Regering en van de toezichthouder voor de sociale huisvesting in het bijzonder.<br>
+<br>
+§ 4. Met behoud van de toepassing van de voorwaarden, vermeld in paragraaf 3, moet de aanvrager om als sociaal verhuurkantoor erkend te kunnen worden en te blijven, aan volgende voorwaarden voldoen:<br>
+1° de opdrachten, vermeld in paragraaf 2, derde lid, 1°, effectief uitgevoerd hebben gedurende een periode van tenminste zes maanden;<br>
+2° de opdrachten, vermeld in paragraaf 2, derde lid, 2°, 3° en 4°, vervullen;<br>
+3° het werkingsgebied afstemmen op de werkingsgebieden van de erkende sociale verhuurkantoren die actief zijn in de betreffende regio en geen woningen in huur nemen die gelegen zijn in gemeenten waar een ander erkend sociaal verhuurkantoor al een woning in huur heeft genomen. Het werkingsgebied van een sociaal verhuurkantoor is het gebied dat gevormd wordt door de gemeenten waar het sociaal verhuurkantoor effectief woningen of kamers huurt of verhuurt;<br>
+4° de lokale inbedding en verankering van de werking en het beheer aantonen in de gemeenten die deel uitmaken van het werkingsgebied;<br>
+5° instaan voor een systeem van interne controle. De Vlaamse Regering kan de modaliteiten van de interne controle bepalen;<br>
+6° een jaarverslag opmaken. De Vlaamse Regering legt de richtlijnen vast voor de opmaak van dit jaarverslag;<br>
+7° elke statutenwijziging melden aan het door de Vlaamse Regering aangewezen agentschap.<br>
+<br>
+§ 5. De Vlaamse Regering stelt de procedure vast voor de erkenning van huurdiensten en de intrekking van de erkenning. De Vlaamse Regering kan aanvullende voorwaarden opleggen om erkend te worden als huurdienst, onder meer wat representativiteit, schaalgrootte en regionale spreiding betreft.
+
+### ART 56bis.
+
+§ 1. Op eigen initiatief of op verzoek van de toezichthouder kan de Vlaamse Regering de erkenning intrekken van een huurdersbond die niet aan de erkenningsvoorwaarden voldoet, de opdrachten, opgelegd bij decreet of bij besluit van de Vlaamse Regering, niet behoorlijk uitvoert, of waarvan de werking in gebreke blijft.<br>
+<br>
+§ 2. Op eigen initiatief of op verzoek van de toezichthouder kan de Vlaamse Regering een sociaal verhuurkantoor dat niet aan de erkenningsvoorwaarden voldoet, de opdrachten, opgelegd bij decreet of krachtens een besluit van de Vlaamse Regering, niet behoorlijk uitvoert, of waarvan de werking in gebreke blijft, een of meer van de volgende maatregelen opleggen:<br>
+1° de erkenning van het sociaal verhuurkantoor intrekken;<br>
+2° het sociaal verhuurkantoor verplichten tot opmaak van een verbeterplan;<br>
+3° het sociaal verhuurkantoor verplichten om, met het oog op continuïteit van de activiteiten, tijdelijk samen te werken met een ander sociaal verhuurkantoor;<br>
+4° het sociaal verhuurkantoor verplichten een beroep te doen op gespecialiseerde externe bijstand ter verbetering van het bedrijfsbeheer of met het oog op het vermijden van de gedwongen stopzetting van de activiteit. De kosten verbonden aan de externe bijstand kunnen, aanvullend op de subsidiëring van de werking overeenkomstig de bepalingen van artikel 58, worden gesubsidieerd. De Vlaamse Regering bepaalt de voorwaarden en de procedure voor het bekomen van deze aanvullende subsidie.<br>
+<br>
+§ 3. Voorafgaand aan de beslissing om een van de sancties, vermeld in paragraaf 1 en 2, op te leggen, stuurt de Vlaamse Regering de betrokken huurdienst een ingebrekestelling. In de ingebrekestelling motiveert de Vlaamse Regering dat de huurdienst de erkenningsvoorwaarden niet nakomt, de opdrachten, opgelegd bij decreet of bij besluit van de Vlaamse Regering, niet behoorlijk uitvoert, de verbintenissen die ze is aangegaan niet nakomt, of haar werking in gebreke blijft. De ingebrekestelling wordt met een beveiligde zending verstuurd. De in gebreke gestelde huurdienst wordt uitgenodigd om te worden gehoord. Zij kan zich daarbij laten bijstaan.<br>
+<br>
+§ 4. De Vlaamse Regering kan de nadere regelen en procedure vastleggen voor het opleggen van de sancties vermeld in paragraaf 1 en 2.
 
 ### ART. 57.
 
@@ -892,7 +990,21 @@ De Vlaamse regering bepaalt het bedrag van de subsidies, vermeld in dit   hoofds
 
 ### ART. 64.
 
-§ 1. De Vlaamse regering kan subsidie verlenen om initiatiefnemers in   staat te stellen:<BR>1° gronden bouwrijp te maken, in voorkomend geval door   sloping van de aanwezige constructies;<BR>2° infrastructuurwerken uit te voeren,   met name de wegenuitrusting, de nutsvoorzieningen en de inrichtingen voor afvoer   en zuivering van afvalwater die voor de woningen in kwestie noodzakelijk   zijn;<BR>3° gemeenschapsvoorzieningen op te richten;<BR>4°   aanpassingswerkzaamheden aan de woonomgeving uit te voeren.<BR><BR>§ 2.   ...<BR><BR>§ 3. In deze paragraaf wordt verstaan onder : <BR>1° Algemene   Overeenkomst : de Algemene Overeenkomst tussen de Vlaamse Gemeenschap en het   Vlaamse Gewest, vertegenwoordigd door de Vlaamse Regering, en Serviceflats   Invest nv, gesloten op 18 oktober 1995 en gewijzigd door een addendum van 3   december 1996 en 22 juli 2008;<BR>2° serviceflats : individuele wooneenheden in   een serviceflatgebouw als vermeld in artikel 2, 5°, van de gecoördineerde   decreten van 18 december 1991 inzake voorzieningen voor bejaarden; <BR>3°   Serviceflats Invest nv : de bij besluit van de Vlaamse Regering van 18 oktober   1995 erkende vastgoedbeleggingsvennootschap met vast kapitaal.<BR><BR>Zolang   Serviceflats Invest nv de in de Algemene Overeenkomst opgenomen doelstelling om   2 000 serviceflats te realiseren niet heeft bereikt, kan in afwijking van   artikel 60 de subsidie voor verrichtingen als vermeld in paragraaf 1, 1°, 2° en   3°, ook worden verleend aan een OCMW of een vereniging zonder winstoogmerk als   er serviceflats worden opgericht in het kader van een onroerende   leasingovereenkomst tussen Serviceflats Invest nv en het OCMW of de vereniging   zonder winstoogmerk. <BR><BR>§ 4. In afwijking van artikel 60 kunnen subsidies,   vermeld in dit artikel, ook worden verleend aan initiatiefnemers, opgericht in   de vorm van een vereniging zonder winstoogmerk, overeenkomstig de wet van 27   juni 1921, waarbij aan verenigingen zonder winstgevend doel en aan instellingen   van openbaar nut rechtspersoonlijkheid wordt verleend.<BR><BR>§ 5. In afwijking   van artikel 60 kunnen de subsidies, vermeld in dit artikel, ook worden verleend   voor de verrichtingen in het kader van een renovatieproject voor woningen van   een wijk of buurt, waaraan een in artikel 60 vermelde initiatiefnemer   deelneemt.
+§ 1. De Vlaamse Regering kan subsidie verlenen om initiatiefnemers in staat te stellen:<br>
+1° gronden bouwrijp te maken, in voorkomend geval door sloping van de aanwezige constructies;<br>
+2° infrastructuurwerken uit te voeren of aan te passen, namelijk de wegenuitrusting, de omgevingswerken, de openbare verlichting, het openbare watervoorzieningsnet en de inrichtingen voor afvoer en zuivering van afvalwater die voor de woningen in kwestie noodzakelijk zijn;<br>
+3° gemeenschapsvoorzieningen op te richten.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. In deze paragraaf wordt verstaan onder :<br>
+1° Algemene Overeenkomst : de Algemene Overeenkomst tussen de Vlaamse Gemeenschap en het Vlaamse Gewest, vertegenwoordigd door de Vlaamse Regering, en Serviceflats Invest nv, gesloten op 18 oktober 1995 en gewijzigd door een addendum van 3 december 1996 en 22 juli 2008;<br>
+2° serviceflats : individuele wooneenheden in een serviceflatgebouw als vermeld in artikel 2, 5°, van de gecoördineerde decreten van 18 december 1991 inzake voorzieningen voor bejaarden;<br>
+3° Serviceflats Invest nv : de bij besluit van de Vlaamse Regering van 18 oktober 1995 erkende vastgoedbeleggingsvennootschap met vast kapitaal.<br>
+<br>
+Zolang Serviceflats Invest nv de in de Algemene Overeenkomst opgenomen doelstelling om 2 000 serviceflats te realiseren niet heeft bereikt, kan in afwijking van artikel 60 de subsidie voor verrichtingen als vermeld in paragraaf 1, 1°, 2° en 3°, ook worden verleend aan een OCMW of een vereniging zonder winstoogmerk als er serviceflats worden opgericht in het kader van een onroerende leasingovereenkomst tussen Serviceflats Invest nv en het OCMW of de vereniging zonder winstoogmerk.<br>
+<br>
+§ 4. In afwijking van artikel 60 kunnen subsidies, vermeld in dit artikel, ook worden verleend aan initiatiefnemers, opgericht in de vorm van een vereniging zonder winstoogmerk, overeenkomstig de wet van 27 juni 1921, waarbij aan verenigingen zonder winstgevend doel en aan instellingen van openbaar nut rechtspersoonlijkheid wordt verleend.
 
 ### ART. 65.
 
