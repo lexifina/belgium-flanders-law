@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028310,
+  "title": "Besluit van de Vlaamse Regering van 2017-04-21 houdende herverdeling 2017 van de Provisies Vlaamse Regering vervat in het provisie artikel MB0-1MFX2AG-PR van de algemene uitgaven-begroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2017",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028310/VolledigDocument?datum=2017-06-23",
+  "source_sha256": "06a5cb3ef925e4df0b40d8eb306feea74b86dcdc7b4fca4c969cc08ff16d8305",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028310&param=informatie",
+  "as_of": "2017-06-23",
+  "made": "2017-04-21",
+  "gazette": "2017-06-13",
+  "numac": 2017020379,
+  "document_start": "2017-06-23",
+  "document_end": null,
+  "in_force": "2017-06-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
