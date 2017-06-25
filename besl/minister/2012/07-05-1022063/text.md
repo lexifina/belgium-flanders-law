@@ -14,12 +14,12 @@ Besluit :
 
 ### ART. 1.
 
-Het draaiboek voor de prestatiebeoordeling van sociale huisvestingsmaatschappijen is als bijlage bij dit besluit gevoegd.
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2012/08/10_1.pdf#page=152" title=" Bijlage" target="_blank" class="pdf">Bijlage</a>
+...
