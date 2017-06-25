@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028318,
+  "title": "Ministerieel besluit van 2017-05-11 betreffende de vormvereisten voor het register van de toelatingen, de bekrachtigingen van archeologienota's en nota's en de meldingen, bijgehouden door de erkende onroerenderfgoedgemeenten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028318/VolledigDocument?datum=2017-06-25",
+  "source_sha256": "22c5912a336acfdc59a7f5d7aa757888ac6f524974cc13133a36b172093ecc0a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028318&param=informatie",
+  "as_of": "2017-06-25",
+  "made": "2017-05-11",
+  "gazette": "2017-06-15",
+  "numac": 2017012385,
+  "document_start": "2017-06-25",
+  "document_end": null,
+  "in_force": "2017-06-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-06-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
