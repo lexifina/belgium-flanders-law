@@ -2,16 +2,16 @@
   "codex_id": 1028321,
   "title": "Besluit van de Vlaamse Regering van 2017-03-24 houdende wijziging van het besluit Vlaamse Codex Fiscaliteit van 20 december 2013, wat betreft de heffing ongeschikte en onbewoonbare woningen en het vereenvoudigd fiscaal derdenbeslag",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028321/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "fb1130a55a91c581af7496519f8bf774def1b00e02cb313f622ee1392ab22911",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028321/VolledigDocument?datum=2017-06-26",
+  "source_sha256": "59deb532b9312f97becfd231d4a4c0799d09aaf89fe9037636d5ac9b3bedcea0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028321&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2017-06-26",
   "made": "2017-03-24",
   "gazette": "2017-06-16",
   "numac": 2017012388,
   "document_start": "2017-06-26",
   "document_end": null,
-  "in_force": "2017-01-01",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2017-06-26",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2017-06-26; future article versions excluded; article text as the API gives it"
 }
