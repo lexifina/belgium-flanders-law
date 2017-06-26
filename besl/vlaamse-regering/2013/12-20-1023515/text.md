@@ -955,11 +955,60 @@ De bevoegde entiteit van de Vlaamse administratie rekent de hem gestorte   somme
 
 ### ART. 3.10.3.3.1.
 
-<P>§ 1. Het bevoegde personeelslid kan met een aangetekende brief uitvoerend   beslag onder derden leggen op de sommen en zaken die aan een belastingschuldige   verschuldigd zijn of toebehoren, tot beloop van het bedrag, geheel of   gedeeltelijk, dat door die laatste verschuldigd is uit hoofde van belastingen en   toebehoren. Het beslag wordt eveneens met een aangetekende brief aan de   belastingschuldige aangezegd. Als de belastingschuldige noch in België, noch in   het buitenland een gekende woonplaats, verblijfplaats of gekozen verblijfplaats   heeft, wordt het beslag aangezegd met aangetekende brief aan de met toepassing   van artikel 40 van het Gerechtelijk Wetboek bevoegde procureur des   Konings.<BR></P>  <P>Dat beslag heeft uitwerking vanaf de overhandiging van het stuk aan de   geadresseerde.<BR></P>  <P>De belastingschuldige kan tegen het beslag met een aangetekende brief verzet   aantekenen bij het bevoegde personeelslid binnen 15 dagen, te rekenen vanaf de   derde werkdag die volgt op de datum van afgifte ter post van de aanzegging van   het beslag. De belastingschuldige moet binnen dezelfde termijn met een   aangetekende brief de derde-beslagene inlichten.<BR></P>  <P>Als het beslag slaat op inkomsten als vermeld in artikel 1409, § 1 en § 1bis,   en 1410 van het Gerechtelijk Wetboek, bevat de aanzegging, op straffe van   nietigheid, het aangifteformulier voor kind ten laste waarvan het model bepaald   is door de minister van Justitie overeenkomstig artikel 1409ter, § 1, eerste   lid, van het Gerechtelijk Wetboek.<BR></P>  <P>§ 2. Het beslag, vermeld in paragraaf 1, geeft aanleiding tot het opmaken en   het verzenden door het bevoegde personeelslid dat met de invordering is belast,   van een bericht van beslag als vermeld in artikel 1390 van het Gerechtelijk   Wetboek.<BR></P>  <P>§ 3. Onder voorbehoud van paragraaf 1 zijn op dat beslag de bepalingen   toepasselijk van artikel 1539, 1540, 1542, eerste en tweede lid, en 1543 van het   Gerechtelijk Wetboek, met dien verstande dat het bedrag van het beslag wordt   afgegeven in handen van het bevoegde personeelslid.<BR></P>  <P>§ 4. De kosten voor de aangetekende brieven, vermeld in paragraaf 1 en 3,   zijn ten laste van de belastingschuldige.<BR></P>  <P>§ 5. De belastingschuldige wordt op de hoogte gebracht van de bestemming van   de betalingen en van het saldo na de betalingen.</P>
+<p>§ 1. Het bevoegde personeelslid kan met een aangetekende brief uitvoerend beslag onder derden leggen op de sommen en zaken die aan een belastingschuldige verschuldigd zijn of toebehoren, tot beloop van het bedrag, geheel of gedeeltelijk, dat door die laatste verschuldigd is uit hoofde van belastingen en toebehoren.</p>
+
+<p>Dat beslag heeft uitwerking vanaf de overhandiging van het stuk aan de geadresseerde.<br>
+<br>
+§ 1/1. Vanaf de datum van de inwerkingtreding van het akkoord dat daarvoor tussen de derde-beslagene en de bevoegde entiteit van de Vlaamse administratie wordt gesloten, kan het bevoegde personeelslid het beslag, vermeld in paragraaf 1, leggen door middel van een procedure waarbij informaticatechnieken worden gebruikt.<br>
+<br>
+Het akkoord blijft van toepassing zolang de derde-beslagene het niet uitdrukkelijk met een aangetekende brief heeft opgezegd. De opzegging gaat in vanaf de eerste dag van de derde maand die volgt op de maand waarin de bevoegde entiteit van de Vlaamse administratie de kennisgeving ervan ontvangt.<br>
+<br>
+In de gevallen waarin wordt gebruikgemaakt van de mogelijkheid, vermeld in het eerste lid, heeft het beslag uitwerking vanaf de datum van ontvangstmelding van het beslag door de derde-beslagene.<br>
+<br>
+Als hetzelfde beslag achtereenvolgens wordt gelegd op de wijze, respectievelijk vermeld in het eerste lid van deze paragraaf en in paragraaf 1, eerste lid, zal het beslag, gelegd conform paragraaf 1, eerste lid, alleen primeren als de overhandiging van het stuk aan de geadresseerde, vermeld in paragraaf 1, tweede lid, de datum van ontvangstmelding van het beslag door de derde-beslagene, vermeld in het derde lid van deze paragraaf, voorafgaat.<br>
+<br>
+De informatie die is opgenomen in de kennisgeving van het beslag, vermeld in paragraaf 1 en 1/1, is dezelfde, ongeacht of ze wordt meegedeeld door middel van een procedure waarbij informaticatechnieken worden gebruikt of met een aangetekende brief.<br>
+<br>
+De oorsprong en de integriteit van de inhoud van de kennisgeving van het beslag, vermeld in paragraaf 1 en 1/1, moeten, in geval van verzending door middel van een procedure waarbij informaticatechnieken worden gebruikt, worden verzekerd met aangepaste beveiligingstechnieken.<br>
+<br>
+Opdat de kennisgeving van het beslag op geldige wijze als beslag onder derden zou gelden, moet een digitaal certificaat worden gebruikt.<br>
+<br>
+Ongeacht de toegepaste techniek wordt er gegarandeerd dat alleen de gerechtigde personen toegang hebben tot de middelen waarmee het digitale certificaat wordt gecreëerd.<br>
+<br>
+De gevolgde procedures moeten toelaten dat de natuurlijke persoon die verantwoordelijk is voor de verzending, correct kan worden geïdentificeerd en dat het tijdstip van de verzending correct kan worden vastgesteld.<br>
+<br>
+Met als enig doel de bepalingen, vermeld in deze paragraaf, uit te voeren, wordt de beslagen belastingschuldige geïdentificeerd aan de hand van het identificatienummer, vermeld in artikel III.17 van het Wetboek van economisch recht, als het gaat om een rechtspersoon, en aan de hand van het rijksregisternummer of, bij gebrek daaraan, aan de hand van het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid, als het gaat om een natuurlijke persoon.<br>
+<br>
+§ 1/2. Het beslag wordt met een aangetekende brief aan de belastingschuldige aangezegd. Als de belastingschuldige noch in België, noch in het buitenland een gekende woonplaats, verblijfplaats of gekozen verblijfplaats heeft, wordt het beslag aangezegd met aangetekende brief aan de met toepassing van artikel 40 van het Gerechtelijk Wetboek bevoegde procureur des Konings.<br>
+<br>
+De belastingschuldige kan met een aangetekende brief verzet aantekenen tegen het beslag bij het bevoegde personeelslid binnen vijftien dagen vanaf de derde werkdag die volgt op de datum van afgifte van de aanzegging van het beslag bij de aanbieder van de universele postdienst. De belastingschuldige moet binnen dezelfde termijn met een aangetekende brief de derde-beslagene inlichten.<br>
+<br>
+Als het beslag slaat op inkomsten als vermeld in artikel 1409, § 1 en § 1bis, en artikel 1410 van het Gerechtelijk Wetboek, bevat de aanzegging, op straffe van nietigheid, het aangifteformulier voor kind ten laste conform het model, vermeld in artikel 1409ter, § 1, eerste lid, van het Gerechtelijk Wetboek.<br>
+<br>
+§ 2. Het beslag, vermeld in paragraaf 1 en 1/1, geeft aanleiding tot het opmaken en het verzenden door het bevoegde personeelslid dat met de invordering is belast, van een bericht van beslag als vermeld in artikel 1390 van het Gerechtelijk Wetboek<br>
+<br>
+§ 3. Onder voorbehoud van paragraaf 1, 1/1 en 1/2, zijn op het beslag, vermeld in paragraaf 1 en 1/1, de bepalingen van artikel 1539, 1540, 1542, eerste lid, en artikel 1543 van het Gerechtelijk Wetboek van toepassing, met dien verstande dat:<br>
+1° de derde-beslagene zijn verklaring van de sommen of zaken die het voorwerp zijn van het beslag ook door middel van een procedure waarbij informaticatechnieken worden gebruikt, aan het bevoegde personeelslid kan doen als het beslag op de wijze, vermeld in paragraaf 1/1, eerste lid, is gelegd. In dat geval is de datum van de verklaring van de sommen of zaken die het voorwerp zijn van het beslag, de datum van de ontvangstmelding die de bevoegde entiteit van de Vlaamse administratie verstuurt;<br>
+2° de derde-beslagene er overeenkomstig artikel 1543 van het Gerechtelijk Wetboek toe gehouden is, op overlegging van een afschrift van de aanzegging van het beslag, afgifte te doen van het bedrag van het beslag, vermeld in paragraaf 1/2, eerste lid. Als het beslag wordt gelegd op de wijze, vermeld in paragraaf 1/1, eerste lid, wordt de overlegging van een afschrift van de aanzegging van het beslag geacht te zijn vervuld door de mededeling aan de derde-beslagene van de datum van de afgifte van de aanzegging van het beslag bij de aanbieder van de universele postdienst. In dat geval wordt de mededeling ook gedaan door middel van een procedure waarbij informaticatechnieken worden gebruikt;<br>
+3° het bedrag van het beslag wordt afgegeven aan het bevoegde personeelslid.<br>
+<br>
+Met als enig doel de bepalingen, vermeld in deze paragraaf, uit te voeren, wordt de beslagen belastingschuldige geïdentificeerd aan de hand van het identificatienummer, vermeld in artikel III.17 van het Wetboek van economisch recht, als het gaat om een rechtspersoon, en aan de hand van het rijksregisternummer of, bij gebrek daaraan, aan de hand van het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid, als het gaat om een natuurlijke persoon..<br>
+<br>
+§ 4. De kosten voor de aangetekende brieven, vermeld in paragraaf 1, 1/2&nbsp;en 3, zijn ten laste van de belastingschuldige.<br>
+<br>
+§ 5. De belastingschuldige wordt op de hoogte gebracht van de bestemming van de betalingen en van het saldo na de betalingen.</p>
 
 ### ART. 3.10.3.3.2.
 
-<P>Het uitvoerend beslag onder derden moet worden uitgevoerd door middel van een   gerechtsdeurwaardersexploot op de wijze, bepaald in artikel 1539 tot 1544 van   het Gerechtelijk Wetboek, als blijkt:<BR>1° dat de belastingschuldige zich   verzet tegen het beslag, vermeld in artikel 3.10.3.3.1, § 1;<BR>2° dat de   derde-beslagene zijn schuld tegenover de belastingschuldige betwist;<BR>3° dat   de sommen en zaken het voorwerp zijn van een verzet of beslag onder derden vóór   het beslag, vermeld in artikel 3.10.3.3.1, § 1, gedaan door andere   schuldeisers;<BR>4° dat de zaken te gelde moeten worden gemaakt.<BR></P>  <P>In de gevallen, vermeld in het eerste lid, blijft het beslag dat het bevoegde   personeelslid overeenkomstig artikel 3.10.3.3.1, § 1, heeft gelegd, zijn   bewarend effect behouden als een uitvoerend beslag onder derden bij   gerechtsdeurwaardersexploot wordt gelegd als vermeld in artikel 1539 van het   Gerechtelijk Wetboek, binnen een maand na de afgifte ter post van het verzet van   de belastingschuldige, vermeld in artikel 3.10.3.3.1, § 1, derde lid, of van de   verklaring, vermeld in artikel 1452 van het Gerechtelijk   Wetboek.</P>
+<p>Het uitvoerend beslag onder derden moet worden uitgevoerd door middel van een gerechtsdeurwaardersexploot op de wijze, bepaald in artikel 1539 tot 1544 van het Gerechtelijk Wetboek, als blijkt:<br>
+1° dat de belastingschuldige zich verzet tegen het beslag, vermeld in artikel 3.10.3.3.1, § 1 en § 1/1;<br>
+2° dat de derde-beslagene zijn schuld tegenover de belastingschuldige betwist;<br>
+3° dat de sommen en zaken het voorwerp zijn van een verzet of beslag onder derden vóór het beslag, vermeld in artikel 3.10.3.3.1, § 1 en § 1/1, gedaan door andere schuldeisers;<br>
+4° dat de zaken te gelde moeten worden gemaakt.</p>
+
+<p>In de gevallen, vermeld in het eerste lid, blijft het beslag dat het bevoegde personeelslid conform artikel 3.10.3.3.1, § 1 en § 1/1, heeft gelegd, zijn bewarend effect behouden als een uitvoerend beslag onder derden bij gerechtsdeurwaardersexploot wordt gelegd als vermeld in artikel 1539 van het Gerechtelijk Wetboek, binnen een maand na:<br>
+1° ofwel de afgifte bij de aanbieder van de universele postdienst van het verzet van de belastingschuldige, vermeld in artikel 3.10.3.3.1, § 1/2, tweede lid, of van de verklaring, vermeld in artikel 1452 van het Gerechtelijk Wetboek;<br>
+2° ofwel de ontvangstmelding van die verklaring als ze is verzonden door middel van een procedure waarbij informatietechnieken worden gebruikt als vermeld in artikel 3.10.3.3.1, § 3, eerste lid, 1°.</p>
 
 ## Onderafdeling 4. Vervolgingskosten
 
