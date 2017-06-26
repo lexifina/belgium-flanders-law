@@ -6,7 +6,7 @@ De   Vlaamse Regering,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT:
 
 ### ART. 1.
 
-De N473A Zelestraat en Brugstraat tussen kilometerpunt 0,000   en 1,170 en N473B Zand tussen kilometerpunt 0,000 en 0,118, gelegen op het   grondgebied van de stad Lokeren, worden ingedeeld bij de   gemeentewegen.
+De N473A Zelestraat en Brugstraat tussen kilometerpunt 0,000 en 1,261 en N473B Zand tussen kilometerpunt 0,000 en 0,118, gelegen op het grondgebied van de stad Lokeren, worden ingedeeld bij de gemeentewegen.
 
 ### ART. 2.
 
