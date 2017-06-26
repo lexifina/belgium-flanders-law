@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028325,
+  "title": "Besluit van de Vlaamse Regering van 2017-05-19 tot rangschikking van onbevaarbare waterlopen op het grondgebied van de provincie Antwerpen in een hogere categorie zoals bedoeld in artikel 4bis, § 3, van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028325/VolledigDocument?datum=2017-06-26",
+  "source_sha256": "05c51eb8b4b0f4be48fdeff21294be0036238e227e2552c4407e2a06125532ea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028325&param=informatie",
+  "as_of": "2017-06-26",
+  "made": "2017-05-19",
+  "gazette": "2017-06-16",
+  "numac": 2017012389,
+  "document_start": "2017-06-26",
+  "document_end": null,
+  "in_force": "2017-06-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-06-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
