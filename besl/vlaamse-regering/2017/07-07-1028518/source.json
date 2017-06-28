@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028518,
+  "title": "Besluit van de Vlaamse Regering van 2017-07-07 betreffende de waarborgregeling voor de werkingsmiddelen in het buitengewoon basisonderwijs voor het schooljaar 2015-2016 en 2016-2017 en in het buitengewoon secundair onderwijs voor het schooljaar 2016-2017",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028518/VolledigDocument?datum=2017-06-28",
+  "source_sha256": "d07769ea6c468e4c3e40a07cb3b09ef3dcd6190c88f51a31aa3c0d5d9eae04ec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028518&param=informatie",
+  "as_of": "2017-06-28",
+  "made": "2017-07-07",
+  "gazette": "2017-08-04",
+  "numac": 2017040472,
+  "document_start": "2017-06-28",
+  "document_end": null,
+  "in_force": "2017-06-28",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2017-06-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
