@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028341,
+  "title": "Besluit van de Vlaamse Regering van 2017-05-12 tot wijziging van het besluit van de Vlaamse Regering van 23 januari 2004 betreffende de subsidiëring van bepaalde werken, leveringen en diensten die in het Vlaamse Gewest door of op initiatief van lokale besturen of ermee gelijkgestelde personen worden uitgevoerd",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028341/VolledigDocument?datum=2017-06-30",
+  "source_sha256": "4e47ac7e08491445297eff8da48161b53bad2ea2205e65ea43b5e55d4fa1e1ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028341&param=informatie",
+  "as_of": "2017-06-30",
+  "made": "2017-05-12",
+  "gazette": "2017-06-20",
+  "numac": 2017012392,
+  "document_start": "2017-06-30",
+  "document_end": null,
+  "in_force": "2017-06-30",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2017-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
