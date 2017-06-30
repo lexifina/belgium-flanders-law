@@ -62,21 +62,97 @@ Voor   het facilitair management heeft het hoofd van het departement of agentsch
 
 ### ART. 13.
 
-Het   hoofd van het departement of agentschap heeft delegatie om overheidsopdrachten   en raamovereenkomsten te plaatsen tot een bedrag dat de bedragen, vermeld in de   volgende tabel, niet overschrijdt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>bedragen in euro</TD>      <TD>aanbesteding en offerteaanvraag</TD>      <TD>(vereenvoudigde)<BR>onderhandelingsprocedure met         voorafgaande<BR>bekendmaking<BR>of concurrentiedialoog</TD>      <TD>onderhandelingsprocedure zonder voorafgaande bekendmaking<BR></TD></TR>    <TR>      <TD>werken</TD>      <TD>13.000.000</TD>      <TD>6.500.000</TD>      <TD>1.300.000<BR></TD></TR>    <TR>      <TD>leveringen</TD>      <TD>8.000.000</TD>      <TD>4.000.000</TD>      <TD>800.000<BR></TD></TR>    <TR>      <TD>diensten</TD>      <TD>2.400.000</TD>      <TD>1.200.000</TD>      <TD>240.000<BR></TD></TR></TBODY></TABLE>  <P><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Voor   de toepassing van het eerste lid hebben de grensbedragen betrekking   op:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het goed te keuren offertebedrag als het gaat om de beslissing tot gunning,   plaatsing of niet-plaatsing;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de geraamde waarde van de opdracht voor alle voorbereidende   beslissingen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   concessies voor openbare werken geldt de delegatie tot en met een bedrag van   13.000.000 euro.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   ontwerpenwedstrijden, met inbegrip van de plaatsing van de erop volgende   dienstenopdracht bij onderhandelingsprocedure met toepassing van artikel 26, §   1, 4°, of artikel 66, § 2, 5°, van de wet overheidsopdrachten en bepaalde   opdrachten voor werken, leveringen en diensten van 15 juni 2006, geldt de   delegatie tot en met een bedrag van 2.400.000 euro.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   werkenwedstrijden geldt de delegatie tot en met een bedrag van 13.000.000   euro.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+Het hoofd van het departement of agentschap heeft delegatie om overheidsopdrachten, prijsvragen en raamovereenkomsten te plaatsen tot een bedrag dat de bedragen, vermeld in de volgende tabel, niet overschrijdt:
+<table border="1">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;Openbare of niet-openbare<br>
+			procedure</td>
+			<td>Mededingingsprocedure met onderhandeling, (vereenvoudigde) onderhandelings-<br>
+			procedure met voorafgaande oproep tot mededinging, vereenvoudigde onderhandelings-procedure met voorafgaande bekendmaking, concurrentiegerichte dialoog en innovatiepartnerschap</td>
+			<td>Onderhandelings- procedure zonder voorafgaande bekendmaking en onderhandelings- procedure zonder voorafgaande oproep tot mededinging</td>
+		</tr>
+		<tr>
+			<td>werken</td>
+			<td>13.000.000</td>
+			<td>6.500.000</td>
+			<td>1.300.000</td>
+		</tr>
+		<tr>
+			<td>leveringen</td>
+			<td>8.000.000</td>
+			<td>4.000.000</td>
+			<td>800.000</td>
+		</tr>
+		<tr>
+			<td>diensten</td>
+			<td>2.400.000</td>
+			<td>1.200.000</td>
+			<td>240.000</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Voor de toepassing van het eerste lid hebben de grensbedragen betrekking op:<br>
+1° de geraamde waarde van de opdracht voor:<br>
+a) alle voorbereidende beslissingen, waaronder minstens de principiële beslissing tot uitvoering van de opdracht, de keuze van de gunningsprocedure, de goedkeuring van de opdrachtdocumenten en de selectiebeslissing;<br>
+b) de beslissing tot niet-plaatsing;<br>
+2° het goed te keuren offertebedrag voor de gunningsbeslissing.<br>
+<br>
+Het hoofd van het departement of agentschap heeft naast de delegatie, vermeld in het eerste lid, delegatie om overheidsopdrachten van beperkte waarde die tot stand komen met aanvaarde factuur als vermeld in artikel 92 van de wet van 17 juni 2016 inzake overheidsopdrachten, te plaatsen.
 
 ### ART. 14.
 
-Het   hoofd van het departement of agentschap heeft delegatie om beslissingen te nemen   over de uitvoering van overheidsopdrachten. Voor beslissingen met een financiële   weerslag geldt de delegatie alleen binnen het voorwerp van de opdracht en tot   een gezamenlijke maximale financiële weerslag van 15 % van het oorspronkelijke   opdrachtbedrag.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Als het hoofd van het departement of agentschap voor een bepaalde overheidsopdracht, prijsvraag of raamovereenkomst delegatie heeft om de gunningsbeslissing te nemen, heeft die ook delegatie om de beslissingen te nemen over de uitvoering van die overheidsopdracht, prijsvraag of raamovereenkomst, ongeacht de financiële weerslag ervan.<br>
+<br>
+Als het hoofd van het departement of agentschap voor een bepaalde overheidsopdracht, prijsvraag of raamovereenkomst geen delegatie heeft om de gunningsbeslissing te nemen, heeft die toch delegatie om de beslissingen te nemen over de uitvoering van de overheidsopdracht, prijsvraag of raamovereenkomst binnen het wettelijke kader en tot een gezamenlijke maximale financiële weerslag van 15% van het oorspronkelijke opdrachtbedrag.
 
 ### ART. 15.
 
 <P>Het   hoofd van het departement of agentschap heeft delegatie om opdrachten te   plaatsen in het kader van een raamovereenkomst, binnen het voorwerp en de   bepalingen ervan, tot een bedrag per opdracht van respectievelijk :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   6.500.000 euro voor werken;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   4.000.000 euro voor leveringen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   1.200.000 euro voor diensten.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   de opdracht bestaat uit continue prestaties, zoals exploitatie en recurrent   onderhoud, geldt de delegatie zonder beperking van het bedrag.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
 
+### ART 15/1.
+
+Het hoofd van het departement of agentschap heeft delegatie om alle beslissingen te nemen in het kader van de plaatsing van een concessie als de waarde van de concessie de volgende bedragen niet overschrijdt:<br>
+1° voor concessies voor werken: 13.000.000 euro;<br>
+2° voor concessies voor diensten: 2.400.000 euro.<br>
+<br>
+Als het hoofd van het departement of agentschap voor een bepaalde concessie delegatie heeft om de gunningsbeslissing te nemen, heeft hij ook delegatie om de beslissingen te nemen over de uitvoering van die concessie, ongeacht de financiële weerslag ervan.<br>
+<br>
+Als het hoofd van het departement of agentschap voor een bepaalde concessie geen delegatie heeft om de gunningsbeslissing te nemen, heeft hij toch delegatie om de beslissingen te nemen over de uitvoering van de concessie binnen het wettelijke kader en tot een gezamenlijke maximale financiële weerslag van 15% van de waarde van de concessie.
+
+### ART 15/2.
+
+Het hoofd van het departement of agentschap heeft delegatie om opdrachten voor diensten van onderzoek en ontwikkeling te plaatsen die niet onderworpen zijn aan de wet van 17 juni 2016 inzake overheidsopdrachten, tot en met een bedrag van 1.200.000 euro.<br>
+<br>
+Voor de toepassing van het eerste lid heeft het grensbedrag betrekking op het geraamde bedrag van het aandeel van de opdracht dat ten laste is van de aanbestedende overheid.<br>
+<br>
+De delegatie, vermeld in het eerste lid, geldt voor alle beslissingen binnen het verloop van de opdracht, waaronder minstens de principiële beslissing om een dergelijke opdracht te plaatsen, de goedkeuring van de opdrachtdocumenten, de beslissingen tot aanwijzing van de deelnemers in de verschillende fasen en de beslissing tot stopzetting van het proces.
+
 ## HOOFDSTUK 5 Delegatie voor rechtsgedingen
 
 ### ART. 16.
 
-<P>§   1. Het hoofd van het departement of agentschap heeft delegatie om:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   advocaten aan te stellen en het bedrag van de erelonen en de vergoedbare kosten   van de advocaten goed te keuren en te betalen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   rechtsgedingen te voeren, als eiser, verweerder of tussenkomende partij, voor de   hoven en rechtbanken, de administratieve rechtscolleges en het Rekenhof, met   uitzondering van de rechtsgedingen voor het Grondwettelijk Hof;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Wat   de departementen en de intern verzelfstandigde agentschappen zonder   rechtspersoonlijkheid betreft, worden de rechtsgedingen gevoerd namens de   Vlaamse Regering, ten verzoeke van de minister;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Deze   delegatie omvat het nemen van de beslissingen over:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   het instellen van rechtsgedingen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   het verrichten van alle noodzakelijke proceshandelingen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">c)   het berusten in een vonnis of arrest of het instellen van rechtsmiddelen   ertegen, met uitzondering van het instellen van een hoger beroep of een   voorziening in cassatie;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">d)   de afstand van geding;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   dadingen, minnelijke schikkingen en schulderkenningen aan te gaan, als het   bedrag van de uitgaven die eruit voortvloeien 85.000 euro niet   overschrijdt;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   dadingen, minnelijke schikkingen en schulderkenningen die betrekking hebben op   overheidsopdrachten, geldt de delegatie tot een bedrag van:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   1.500.000 euro voor werken;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   400.000 euro voor leveringen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">c)   100.000 euro voor diensten;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   overeenkomsten tot arbitrage te sluiten, voor zover, als het een in geld   waardeerbaar geschil betreft, de waarde van het geschil 500.000 euro in hoofdsom   niet overschrijdt;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de uitgaven die verbonden zijn aan de uitvoering van vonnissen, arresten,   dadingen, minnelijke schikkingen, schulderkenningen en arbitrageprocedures, goed   te keuren en te betalen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De beslissing over de dagvaarding van een rekenplichtige voor het Rekenhof   wordt genomen door de minister. Die beslissing kan niet gedelegeerd   worden.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Het hoofd van het departement of agentschap heeft delegatie om:<br>
+1° advocaten aan te stellen en het bedrag van de erelonen en de vergoedbare kosten van de advocaten goed te keuren en te betalen;<br>
+2° rechtsgedingen te voeren, als eiser, verweerder of tussenkomende partij, voor de hoven en rechtbanken, de administratieve rechtscolleges en het Rekenhof, met uitzondering van de rechtsgedingen voor het Grondwettelijk Hof en de internationale hoven;<br>
+Wat de departementen en de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid betreft, worden de rechtsgedingen gevoerd namens de Vlaamse Regering, ten verzoeke van de minister;<br>
+Deze delegatie omvat het nemen van de beslissingen over:<br>
+a) het instellen van rechtsgedingen;<br>
+b) het verrichten van alle noodzakelijke proceshandelingen;<br>
+c) het berusten in een vonnis of arrest of het instellen van rechtsmiddelen ertegen, met uitzondering van het instellen van een hoger beroep of een voorziening in cassatie;<br>
+d) de afstand van geding;<br>
+3° dadingen, minnelijke schikkingen en schulderkenningen aan te gaan, als het bedrag van de uitgaven die eruit voortvloeien 85.000 euro niet overschrijdt;</p>
+
+<p>Voor dadingen, minnelijke schikkingen en schulderkenningen die betrekking hebben op overheidsopdrachten of concessies,&nbsp;geldt de delegatie tot een bedrag van:<br>
+a) 1.500.000 euro voor werken;<br>
+b) 400.000 euro voor leveringen;<br>
+c) 100.000 euro voor diensten;<br>
+4° overeenkomsten tot arbitrage te sluiten, voor zover, als het een in geld waardeerbaar geschil betreft, de waarde van het geschil 500.000 euro in hoofdsom niet overschrijdt;<br>
+5° de uitgaven die verbonden zijn aan de uitvoering van vonnissen, arresten, dadingen, minnelijke schikkingen, schulderkenningen en arbitrageprocedures, goed te keuren en te betalen.</p>
+
+<p>§ 2. De beslissing over de dagvaarding van een rekenplichtige voor het Rekenhof wordt genomen door de minister. Die beslissing kan niet gedelegeerd worden.</p>
 
 ## HOOFDSTUK 6 Delegaties voor diverse aangelegenheden
 
