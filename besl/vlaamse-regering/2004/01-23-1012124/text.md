@@ -4,7 +4,15 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° Vlaamse   minister: het lid van de Vlaamse regering, bevoegd voor het leefmilieu;<BR>2°   bevoegde administratie: de Openbare Vlaamse Afvalstoffenmaatschappij;<BR>3°   lokale besturen: gemeenten, gemeentebedrijven, intergemeentelijke   samenwerkingsverbanden, provincies en provinciebedrijven;<BR>4° opdrachten:   opdrachten van leveringen, werken en diensten;<BR>5° ontwerpdossier: het dossier   op basis waarvan de subsidieaanvraag wordt ingediend door de   initiatiefnemer;<BR>6° gunningsprocedure: de procedure waarbij wordt overgegaan   tot één van de vormen van gunnen zoals opgenomen in de wet van 24 december 1993   betreffende de overheidsopdrachten en sommige opdrachten voor aanneming van   werken, leveringen en diensten;<BR>7° gunningsdossier: het dossier op basis   waarvan de initiatiefnemer zijn keuze van weerhouden inschrijving   verantwoordt;<BR>8° vaste belofte van toelage: kredietvastlegging op naam van   het lager bestuur en op basis van het goedgekeurde ramingsbedrag van het   ontwerpdossier.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor het leefmilieu;<br>
+2° bevoegde administratie: de Openbare Vlaamse Afvalstoffenmaatschappij;<br>
+3° lokale besturen: gemeenten, gemeentebedrijven, intergemeentelijke samenwerkingsverbanden, verenigingen van steden en gemeenten, provincies en provinciebedrijven;<br>
+4° opdrachten: opdrachten van leveringen, werken en diensten;<br>
+5° ontwerpdossier: het dossier op basis waarvan de subsidieaanvraag wordt ingediend door de initiatiefnemer;<br>
+6° gunningsprocedure: de procedure waarbij wordt overgegaan tot één van de vormen van gunnen zoals opgenomen in de wet van 24 december 1993 betreffende de overheidsopdrachten en sommige opdrachten voor aanneming van werken, leveringen en diensten;<br>
+7° gunningsdossier: het dossier op basis waarvan de initiatiefnemer zijn keuze van weerhouden inschrijving verantwoordt;<br>
+8° vaste belofte van toelage: kredietvastlegging op naam van het&nbsp;lokaal bestuur en op basis van het goedgekeurde ramingsbedrag van het ontwerpdossier.
 
 ## HOOFDSTUK II BEGUNSTIGDEN VAN DE SUBSIDIES
 
@@ -16,7 +24,13 @@ Binnen de perken van de daartoe voorziene kredieten op begroting van het   Vlaam
 
 ### ART. 3.
 
-De subsidieerbare materies ter uitvoering van de algemene bepalingen van   de plannen en uitvoerings-plannen die van toepassing zijn, oovereenkomstig   artikel 18 van het decreet van 23 december 2011 betreffende het duurzaam beheer   van materiaalkringlopen en afvalstoffen, zijn de volgende:<BR>1° voorzieningen   voor de preventie van afvalstoffen;<BR>2° bouwen, uitbreiden, aanpassen en   vernieuwen van installaties voor afvalstoffenbeheer die ondermeer tot doel   hebben: selectie en tijdelijke opslag, overslag, volumereductie, recyclage en   hergebruik van afvalstoffen;<BR>3° innovatieve projecten die zijn opgezet in   samenwerking met de OVAM en die leiden tot een lagere milieudruk, verbonden met   het materiaalgebruik of -verbruik door het stimuleren van een duurzamer ontwerp   of gebruik van producten en diensten, meer en betere selectieve inzameling, en   recyclage of betere afzet van recyclaten.
+De subsidieerbare materies ter uitvoering van de algemene bepalingen van de plannen en uitvoerings-plannen die van toepassing zijn, oovereenkomstig artikel 18 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, zijn de volgende:<br>
+1° voorzieningen voor de preventie van afvalstoffen, alsook voorzieningen die leiden tot een lagere milieudruk op het vlak van materialengebruik;<br>
+2° bouwen, uitbreiden, aanpassen en vernieuwen van installaties voor afvalstoffenbeheer die ondermeer tot doel hebben: selectie en tijdelijke opslag, overslag, volumereductie, recyclage en hergebruik van afvalstoffen;<br>
+3° innovatieve projecten die zijn opgezet in samenwerking met de OVAM en die leiden tot een lagere milieudruk, verbonden met het materiaalgebruik of -verbruik door het stimuleren van een duurzamer ontwerp of gebruik van producten en diensten, meer en betere selectieve inzameling, en recyclage of betere afzet van recyclaten;<br>
+4° het starten van een bijkomende selectieve inzameling via een huis-aan-huisinzameling of een brengsysteem op korte afstand, alsook het opzetten van projecten ter ondersteuning van gemeenten beide met als doel de restafvaldoelstellingen van het lokaal bestuur te realiseren;<br>
+5° voorzieningen en projecten ter ondersteuning van het asbestafbouwbeleid;<br>
+6° voorzieningen ter ondersteuning van het zwerfvuil- en sluikstortbeleid.
 
 ## HOOFDSTUK IV BEDRAG VAN DE SUBSIDIES
 
@@ -24,13 +38,17 @@ De subsidieerbare materies ter uitvoering van de algemene bepalingen van   de pl
 
 ### ART. 4.
 
-Een meervoudig subsidiepercentage is toepasselijk op de onder artikel 3   van dit besluit vermelde opdrachten. Dat meervoudige percentage bestaat uit een   hoog percentage van 70 %, een middenpercentage van 50 % en een laag percentage   van 35 % van de kostprijs van deze opdrachten.<BR><BR>De Vlaamse minister stelt   de nadere regels vast met betrekking tot de percentages, de toepassingsperioden,   de bijzondere bepalingen, de afbakening van de subsidieerbare materie en   bedragen, de berekeningswijzen die van toepassing zijn en de   uitbetalingsmodaliteiten..
+Een maximum subsidiepercentage van 50% is toepasselijk op de onder artikel 3 van dit besluit vermelde opdrachten. In afwijking hiervan kan de Vlaamse minister tijdelijk een hoger percentage tot maximum 90% toepassen voor het sterker ondersteunen van lokale besturen in het kader van het asbestafbouwbeleid. Dat meervoudige percentage bestaat uit een hoog percentage van 70 %, een middenpercentage van 50 % en een laag percentage van 35 % van de kostprijs van deze opdrachten.<br>
+<br>
+De Vlaamse minister stelt de nadere regels vast met betrekking tot de percentages, de toepassingsperioden, de bijzondere bepalingen, de afbakening van de subsidieerbare materie en bedragen, de berekeningswijzen die van toepassing zijn en de uitbetalingsmodaliteiten..
 
 ## AFDELING 2 MAXIMUMBEDRAGEN VAN DE SUBSIDIRING
 
 ### ART. 5.
 
-De maximumpercentages aan subsidies die kunnen worden verleend bij het   toepasbaar stellen van dit besluit zijn de volgende:<BR>1° voorzieningen voor   preventie van afvalstoffen overeenkomstig artikel 3, 1°, maximaal 70 %;<BR>2°   installaties voor afvalstoffenbeheer overeenkomstig artikel 3, 2°, maximaal 50   %;<BR>3° innovatieve projecten overeenkomstig artikel 3, 3°, maximaal 50 %   .<BR><BR>Door de Vlaamse minister kunnen voor een aantal van de subsidieerbare   items de hierboven vermelde maximumpercentages worden verlaagd, alsook kunnen de   bedragen aanvullend worden afgebakend aan de hand van maximumbedragen per   eenheid.
+Het maximumpercentage aan subsidies is van toepassing op de eigen inbreng van het lokale bestuur zodat er geen overlap is met de ondersteuning vanuit andere budgetten.<br>
+<br>
+Door de Vlaamse minister kan voor een aantal van de subsidieerbare items het hierboven vermelde maximumpercentage worden verlaagd, alsook kunnen de bedragen aanvullend worden afgebakend aan de hand van maximumbedragen per eenheid.
 
 ## AFDELING 3 BEREKENINGSWIJZE VAN DE SUBSIDIËRING
 
@@ -58,13 +76,29 @@ De Vlaamse minister kan het door dit besluit vastgestelde subsidiepercentage voo
 
 ### ART. 11.
 
-Voor de onder artikel 3 genoemde materies gelden de volgende algemene   voorwaarden:<BR>1° de vaste beloftes van toelage met betrekking tot artikel 3,   2°, worden voorwaardelijk verleend onder het voorbehoud dat nadien alle vereiste   vergunningen worden verkregen;<BR>2° de opportuniteit omtrent het verlenen van   een subsidie en de toepasselijke bepalingen hierbij kunnen gekoppeld worden aan   een engagement vanwege de lokale besturen zoals vastgelegd in een   milieuconvenant;<BR>3° er kan geen toelage verleend worden voor het geheel of   het gedeelte van de installatie waarvoor het lokaal bestuur geen recht van   eigendom, opstal of erfpacht heeft;<BR>4° er kunnen geen toelagen verleend   worden voor de ontmanteling van gesubsidieerde installaties of een gedeelte   ervan zolang het niet-gesubsidieerde deel niet is afgeschreven;<BR>5° de   toelagetrekker is ertoe gehouden verantwoording te verstrekken aan de bevoegde   administratie omtrent de aanwending van de ontvangen bedragen;<BR>6° gedurende   de afschrijvingstermijn zijn de subsidies, verleend ingevolge artikel 3, 2°,   blijvend aan te wenden voor de doelstellingen waartoe ze werden verleend. De   toepasselijke afschrijvingstermijnen bedragen:<BR>a) 20 jaar voor infrastructuur   en bouwkundige werken;<BR>b) 15 jaar voor elektromechanische uitrusting;<BR>c) 5   jaar voor rollend materieel;<BR>7° als niet aan de onder de punten 5° en 6°   vermelde voorwaarden wordt voldaan of als de installatie ten dele of geheel   wordt vervreemd gedurende de afschrijvingstermijn moet het overeenstemmende   subsidiebedrag terugbetaald worden.
+Voor de onder artikel 3 genoemde materies gelden de volgende algemene voorwaarden:<br>
+1° de vaste beloftes van toelage met betrekking tot artikel 3 worden voorwaardelijk verleend onder voorbehoud dat :<br>
+a) nadien alle vereiste vergunningen worden verkregen;<br>
+b) de wettelijke en reglementaire bepalingen over overheidsopdrachten worden nageleefd conform de wet overheidsopdrachten en bepaalde opdrachten voor werken, leveringen en diensten van 15 juni 2006, het koninklijk besluit plaatsing overheidsopdrachten klassieke sectoren van 15 juli 2011 en het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten en van de concessies voor openbare werken;<br>
+c) de procedures en de verplichtingen, vermeld in hoofdstuk VI, worden nageleefd;<br>
+2° de opportuniteit omtrent het verlenen van een subsidie en de toepasselijke bepalingen hierbij kunnen gekoppeld worden aan een engagement vanwege de lokale besturen zoals vastgelegd in een milieuconvenant;<br>
+3° er kan geen toelage verleend worden voor het geheel of het gedeelte van de installatie waarvoor het lokaal bestuur geen recht van eigendom, opstal of erfpacht heeft;<br>
+4° er kunnen geen toelagen verleend worden voor de ontmanteling van gesubsidieerde installaties of een gedeelte ervan zolang het niet-gesubsidieerde deel niet is afgeschreven;<br>
+5° de toelagetrekker is ertoe gehouden verantwoording te verstrekken aan de bevoegde administratie omtrent de aanwending van de ontvangen bedragen;<br>
+6° gedurende de afschrijvingstermijn zijn de subsidies, verleend ingevolge artikel 3 blijvend aan te wenden voor de doelstellingen waartoe ze werden verleend. De OVAM kan tijdens die afschrijvingstermijn controle uitoefenen op de aanwending van de ontvangen subsidies. De toepasselijke afschrijvingstermijnen bedragen:<br>
+a) 20 jaar voor infrastructuur en bouwkundige werken;<br>
+b) 15 jaar voor&nbsp;uitrusting;<br>
+c) 5 jaar voor rollend materieel;<br>
+6° /1 vervreemding, uitbesteding of vervroegde buitendienststelling van de gesubsidieerde installatie of voorziening gedurende de afschrijvingstermijn wordt schriftelijk gemeld aan de subsidiërende overheid;<br>
+7° als niet aan de onder de punten 5° en 6° vermelde voorwaarden wordt voldaan of als de installatie en voorzieningen&nbsp;ten dele of geheel worden vervreemd gedurende de afschrijvingstermijn moet het overeenstemmende subsidiebedrag terugbetaald worden.<br>
+<br>
+Als de voorwaarden, vermeld in het eerste lid, 1°, niet worden nageleefd, vervalt het recht op subsidies.
 
 ## HOOFDSTUK VI PROCEDURE VAN DE SUBSIDIEAANVRAAG
 
 ### ART. 12.
 
-<P>De Vlaamse minister kan nadere regels vaststellen omtrent de   aanvraagprocedure zoals de samenstelling van de ontwerp- en gunningsdossiers,   het projectidee, het projectvoorstel en het eindrapport, alsook de wijze van   indiening.</P>
+<p>De Vlaamse minister kan nadere regels vaststellen omtrent de aanvraagprocedure zoals de samenstelling van de ontwerp- en gunningsdossiers,&nbsp;het projectvoorstel en het eindrapport, alsook de wijze van indiening onder meer over de indiening van de dossiers en documenten op elektronische wijze.</p>
 
 ## AFDELING 1 PROCEDURE VOOR SUBSIDIËRING [ANDERE DAN DE SUBSIDIËRING VAN INNOVATIEVE PROJECTEN (verv. BVR 12 mei 2017, art. 7, I: 30 juni 2017)]
 
@@ -74,15 +108,19 @@ Het lokaal bestuur zendt het ontwerpdossier met een aangetekende brief   naar de
 
 ### ART. 14.
 
-De Vlaamse minister geeft op basis van het ontwerpdossier al dan niet de   vaste belofte tot toelage en brengt het lokaal bestuur daarvan op de   hoogte.
+De Vlaamse minister geeft op basis van het ontwerpdossier al dan niet de vaste belofte tot toelage en brengt het lokaal bestuur daarvan op de hoogte.<br>
+<br>
+Als in geval van installaties en voorzieningen de gunningsprocedure al gestart is vóór de goedkeuring van het ontwerpdossier door de Vlaamse minister of de gemachtigde ambtenaar, vervalt het recht op subsidie.
 
 ### ART. 15.
 
-De ontvangst van de vaste belofte van toelage geeft het lager bestuur het recht om de gunningsproce-dure in te zetten.
+De ontvangst van de vaste belofte van toelage geeft het&nbsp;lokaal bestuur het recht om de gunningsproce-dure in te zetten.
 
 ### ART. 16.
 
-Binnen 365 kalenderdagen, te rekenen vanaf de datum van betekening van de   vaste belofte van toelage, moet het lokaal bestuur de gunningsprocedure   doorvoeren en de met redenen omklede beslissing omtrent de keuze van de   inschrijver met een aangetekende brief naar de bevoegde administratie   sturen.
+Binnen 365 kalenderdagen, te rekenen vanaf de datum van betekening van de vaste belofte van toelage, moet het lokaal bestuur de gunningsprocedure doorvoeren en de met redenen omklede beslissing omtrent de keuze van de inschrijver met een aangetekende brief naar de bevoegde administratie sturen.<br>
+<br>
+Het gunningsdossier moet goedgekeurd worden door de Vlaamse minister of de gemachtigde ambtenaar vóór de opdracht gesloten wordt. Anders vervalt het recht op subsidie. De bevoegde administratie controleert het gunningsdossier op het vlak van de overheidsopdrachtenwetgeving. De bevoegde administratie kan bijkomende informatie of een motivering opvragen of niet met een toewijzing akkoord gaan.
 
 ### ART. 17.
 
@@ -92,61 +130,91 @@ Als de gunningsprocedure wordt doorgevoerd binnen de in artikel 16   bedoelde te
 
 Als de in artikel 16 bedoelde termijn overschreden wordt, kan de leidende   ambtenaar van de bevoegde administratie een afwijking toestaan op basis van een   gemotiveerd verzoek van het lokaal bestuur.<BR><BR>Als het gunningsbedrag boven   de maximumgrens, vermeld in artikel 17, ligt, kan de Vlaamse minister eveneens   een afwijking toestaan op basis van een gemotiveerd verzoek van het lokaal   bestuur.<BR><BR>Als het gunningsbedrag onder de minimumgrens, vermeld in artikel   17, ligt, kan de leidende ambtenaar van de bevoegde administratie eveneens een   afwijking toestaan op basis van een gemotiveerd verzoek van het lokaal   bestuur.
 
+### ART 18/1.
+
+Verrekeningen en bijkomende werken die een wijziging van de posten van de opdracht meebrengen, worden vooraf aan de bevoegde administratie ter goedkeuring voorgelegd. De voormelde verrekeningen en bijkomende werken kunnen voor maximaal 50% van het oorspronkelijke bedrag in aanmerking komen voor subsidiëring als ze gemotiveerd worden en noodzakelijk zijn voor de uitvoering van de opdracht, als ze vooraf niet te voorzien waren en als ze ter goedkeuring zijn voorgelegd vóór de uitvoering ervan.<br>
+<br>
+Bij leveringen kunnen subsidies verleend worden voor bijkomende bestellingen tot maximaal 50% van de oorspronkelijke hoeveelheid. Die overschrijdingen worden vooraf ter goedkeuring aan de bevoegde administratie voorgelegd.<br>
+<br>
+Verlengingen van de uitvoeringstermijn worden gemotiveerd en vooraf aan de bevoegde administratie ter goedkeuring voorgelegd.
+
 ### ART. 19.
 
-De uitbetaling van de subsidies gebeurt na controle van de voorgelegde   facturen, vorderingsstaten en eindafrekeningen en na goedkeuring door de   leidende ambtenaar van de bevoegde administratie.
+De subsidies worden uitbetaald op basis van een schuldvordering en na controle van de voorgelegde facturen, de vorderingsstaten en de eindafrekeningen, en na goedkeuring door de leidend ambtenaar van de bevoegde administratie.<br>
+<br>
+De eindafrekening met bijbehorende bewijsstukken wordt uiterlijk 180 kalenderdagen na de voorlopige oplevering ingediend.<br>
+<br>
+Bij de berekening van de subsidies worden boetes en straffen ten gevolge van een laattijdige of gebrekkige uitvoering van de opdracht, zoals bepaald in het goedgekeurde ontwerpdossier, in mindering gebracht van het subsidieerbare bedrag.<br>
+<br>
+In afwijking van het eerste lid kan de subsidieaanvrager bij het ontwerpdossier vragen om een gedeelte van de subsidie al uit te betalen op basis van tussentijdse vorderingsstaten. Die vraag moet in de subsidieaanvraag worden gemotiveerd op basis van een financieel plan waarin de baten van de uitbetaling op basis van tussentijdse vorderingsstaten worden aangetoond en begroot. In dat geval worden de modaliteiten waaronder een gedeelte van de subsidie kan worden uitbetaald, vastgelegd in de belofte van toelage.<br>
+<br>
+Subsidies worden niet uitbetaald of kunnen teruggevorderd worden bij niet-naleving van de procedures of verplichtingen of bij zware tekortkomingen die worden vastgesteld na de toewijzing en uitvoering van de opdracht.
 
 ## [AFDELING 2 PROCEDURE VOOR DE SUBSIDIËRING VAN INNOVATIEVE PROJECTEN (verv. BVR 12 mei 2017, art. 13, I: 30 juni 2017)]
 
 ### ART. 20.
 
-Het lokaal bestuur zendt het ontwerpdossier met een aangetekende brief   naar de bevoegde administratie.
+Lokale besturen kunnen innovatieve projecten die het potentieel hebben om te leiden tot een lagere milieudruk op het vlak van materialengebruik of -verbruik, indienen bij de bevoegde administratie.
 
 ### ART. 21.
 
-De Vlaamse minister&nbsp;geeft op basis van het ontwerpdossier al dan niet   de vaste belofte van toelage en stelt het lokaal bestuur hiervan in   kennis.
+Een ingediend projectvoorstel wordt ter beoordeling voorgelegd aan een expertencommissie, voorgezeten door een vertegenwoordiger van de bevoegde administratie. De projectvoorstellen worden beoordeeld op basis van de volgende criteria :<br>
+1° het potentieel aan verwachte effecten op het vlak van materialengebruik en -verbruik, op dertig punten;<br>
+2° het innovatieve karakter van het project, het potentieel aan leerervaringen voor Vlaanderen en het lokaal bestuur, op dertig punten;<br>
+3° de concrete uitvoerbaarheid van het project, op tien punten;<br>
+4° de opschaalbaarheid of reproduceerbaarheid van het project bij andere lokale besturen, op tien punten;<br>
+5° de mate waarin het project past binnen de beleidsprioriteiten van de Vlaamse overheid, vermeld in de beheersovereenkomst tussen de OVAM en de Vlaamse minister, op tien punten;<br>
+6° de globale milieuwinst, de win-winsituatie voor andere leefmilieudomeinen, op tien punten.<br>
+<br>
+De Vlaamse minister stelt de samenstelling vast van de expertencommissie, vermeld in het eerste lid. De Vlaamse minister kan ook nadere regels voor de behandeling van projectvoorstellen bepalen.
 
 ### ART. 22.
 
-De ontvangst van de vaste belofte van toelage geeft het lokaal bestuur het   recht om de gunningsproce-dure in te zetten.
+De Vlaamse minister geeft op basis van het projectvoorstel en de beoordeling ervan door de expertencommissie al dan niet de vaste belofte van toelage en brengt het lokaal bestuur daarvan op de hoogte.<br>
+<br>
+De ontvangst van de vaste belofte van toelage geeft het lokaal bestuur het recht om het project te starten.
 
 ### ART. 23.
 
-Binnen 365 kalenderdagen, te rekenen vanaf de datum van betekening van de   vaste belofte van toelage, moet het lokaal bestuur de gunning   doorvoeren.
+Tenzij het anders bepaald is in de vaste belofte van toelage, wordt binnen zes maanden na afloop van het project een eindrapport opgeleverd.<br>
+<br>
+De bevoegde administratie brengt de expertencommissie, vermeld in artikel 21, op de hoogte van het eindrapport, op basis waarvan een advies kan worden verleend aan de bevoegde administratie over de mate waarin het project is uitgevoerd conform het goedgekeurde projectvoorstel, en formuleert, als dat van toepassing is, aanbevelingen ter zake.<br>
+<br>
+De subsidies worden uitbetaald conform artikel 19.
 
 ### ART. 24.
 
-De uitbetaling van de subsidies gebeurt na controle van het   gunningsdossier, de voorgelegde facturen, vorderingsstaten en eindafrekeningen   en na goedkeuring door de leidende ambtenaar van de bevoegde   administratie.
+Als blijkt dat het project niet uitgevoerd kan worden zoals opgenomen in het projectvoorstel, hebben zowel de subsidieaanvrager als de OVAM het recht om het project stop te zetten.
 
 ## [... (opgeh. BVR 12 mei 2017, art. 13, I: 30 juni 2017)]
 
 ### ART. 24/1.
 
-Tegen 1 april en 1 oktober van elk jaar kunnen lokale besturen één of   meerdere projectideeën betreffende een innovatief project dat potentieel heeft   om te leiden tot een lagere milieudruk op het vlak van materialengebruik of   -verbruik, indienen bij de bevoegde administratie.
+...
 
 ### ART. 24/2.
 
-&nbsp;Uit de ingediende projectideeën worden een aantal projecten   geselecteerd binnen het beschikbare budget. De selectie zal gebeuren door een   expertencommissie, voorgezeten door de bevoegde administratie. De afweging van   de projectideeën zal gebeuren aan de hand van de volgende criteria:<BR>1°   potentieel aan verwachte effecten op het vlak van materialengebruik en   -verbruik, op 20 punten;<BR>2° innovatief karakter van het project, potentieel   aan leerervaringen voor Vlaanderen en het lokaal bestuur, op 20 punten;<BR>3°   concrete uitvoerbaarheid van het project, op 20 punten;<BR>4° opschaalbaarheid   of reproduceerbaarheid van het project naar andere lokale besturen, op 20   punten;<BR>5° passend binnen de beleidsprioriteiten van de Vlaamse overheid,   vermeld in de beheersovereenkomst tussen de OVAM en de Vlaamse minister, op 10   punten;<BR>6° globale milieuwinst, win-win situatie naar andere   leefmilieudomeinen, op 10 punten.<BR><BR>De projectideeën worden gerangschikt   volgens een aflopende score. Projecten onder 50/100 komen niet in aanmerking   voor subsidiëring.<BR><BR>Projectideeën met een score van meer dan 50/100 die   omwille van budgettaire beperkingen niet geselecteerd worden, worden op een   lijst geplaatst en komen bij een volgende indieningsperiode opnieuw in   aanmerking als mogelijk te subsidiëren projectidee.<BR><BR>De Vlaamse minister   stelt de samenstelling van de expertencommissie, vermeld in het eerste lid,   vast.
+...
 
 ### ART. 24/3.
 
-De geselecteerde projectideëen worden elk via een projectgroep bestaande   uit vertegenwoordigers van het lokaal bestuur en de OVAM verder uitgewerkt tot   een compleet projectvoorstel.
+...
 
 ### ART. 24/4.
 
-Het projectvoorstel moet ingediend worden uiterlijk 6 maanden na het   bericht van selectie van het projectidee. Deze periode kan op vraag van de   projectindiener, éénmalig verlengd worden met nogmaals 6 maanden, na goedkeuring   door de bevoegde administratie. Na het verstrijken van deze termijn komt de   selectie van het projectidee te vervallen.
+...
 
 ### ART. 24/5.
 
-Het projectvoorstel kan pas ingediend worden voor subsidiëring na   goedkeuring van het voorstel door zowel de subsidieaanvrager, de OVAM als   eventueel andere betrokkenen. Deze goedkeuring wordt bij de projectaanvraag   gevoegd.
+...
 
 ### ART. 24/6.
 
-Het lokaal bestuur zendt het projectvoorstel met een aangetekende brief   naar de bevoegde administratie.
+...
 
 ### ART. 24/7.
 
-De Vlaamse minister geeft op basis van het projectvoorstel al dan niet de   vaste belofte van toelage en stelt het lokaal bestuur hiervan in   kennis.
+...
 
 ### ART. 24/8.
 
@@ -158,19 +226,19 @@ De ontvangst van de vaste belofte van toelage geeft het lokaal bestuur het   rec
 
 ### ART. 24/9.
 
-Binnen 6 maanden na afloop van het project wordt een eindrapport   opgeleverd.
+...
 
 ### ART. 24/10.
 
-De expertencommissie, vermeld in artikel 24/2, adviseert de leidende   ambtenaar van de bevoegde administratie over het eindrapport. Ze geeft daarbij   aan in welke mate het project is uitgevoerd conform het goedgekeurde   projectvoorstel.
+...
 
 ### ART. 24/11.
 
-De uitbetaling van de subsidies gebeurt na controle van de eindafrekening,   de facturen en kostennota's en mits goedkeuring door de leidende ambtenaar van   de bevoegde administratie van het eindrapport.
+...
 
 ### ART. 24/12.
 
-Als blijkt dat het project niet kan uitgevoerd worden zoals opgenomen in   het projectvoorstel, hebben zowel de subsidieaanvrager als de OVAM het recht om   het project stop te zetten.
+...
 
 ## HOOFDSTUK VII PROCEDURE VOOR DE TERUG- VORDERING VAN DE SUBSIDIES
 
