@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028491,
+  "title": "Besluit van de Vlaamse Regering van 2017-06-30 tot regeling van de beheersovereenkomst met, het toezicht op en de subsidiëring van het Vlaams Instituut voor Kwaliteit van Zorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028491/VolledigDocument?datum=2017-06-30",
+  "source_sha256": "8aeda1201bbb01382b0e05ea0ea0240d09692515d3b262fab025c17d18d57f5f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028491&param=informatie",
+  "as_of": "2017-06-30",
+  "made": "2017-06-30",
+  "gazette": "2017-07-24",
+  "numac": 2017030722,
+  "document_start": "2017-06-30",
+  "document_end": null,
+  "in_force": "2017-06-30",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2017-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
