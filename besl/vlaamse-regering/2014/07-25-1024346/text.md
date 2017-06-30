@@ -167,7 +167,27 @@ Elk lid van de Vlaamse Regering oefent de in dit hoofdstuk gedelegeerde   beslis
 
 ### ART. 6.
 
-De leden van de Vlaamse Regering hebben delegatie voor:<BR>1° het nemen   van beslissingen voor de toepassing van de verdragen, EG-verordeningen,   samenwerkingsakkoorden, wetten, decreten, verordeningen, koninklijke besluiten,   besluiten van de Vlaamse Regering en ministeriële besluiten;<BR>2° de aanwending   van de begrotingskredieten;<BR>3° de samenwerking met de federale staat en de   andere gemeenschappen en gewesten, voorgeschreven door de Grondwet of de   institutionele wetten, als het gaat om advies-, overleg- of   betrokkenheidsprocedures. Deze delegatie geldt niet voor procedures van akkoord,   eensluidend advies of beslissing op voorstel;<BR>4° de uitoefening van het   administratief toezicht op de regionale en lokale besturen;<BR>5° de uitoefening   van het bestuur van of het toezicht op de diensten, instellingen en   rechtspersonen die afhangen van de Vlaamse Gemeenschap of het Vlaamse Gewest,   met uitzondering van het sluiten van beheersovereenkomsten of   samenwerkingsovereenkomsten met agentschappen;<BR>6° de aanwijzing van personen   in adviesorganen en commissies op voorwaarde dat het voornemen tot aanwijzing   vooraf door het bevoegde lid aan de Vlaamse Regering wordt meegedeeld;<BR>7° de   verwerving, kosteloos of onder bezwarende titel, van onroerende goederen ten   bate van de Vlaamse Gemeenschap of het Vlaamse Gewest;<BR>8° het beheer van de   onroerende goederen die behoren tot het openbare of het private domein van de   Vlaamse Gemeenschap of het Vlaamse Gewest, overeenkomstig de bestemming die met   toepassing van de regels vastgesteld door de Vlaamse Regering, aan die goederen   is gegeven.<BR><BR>Deze delegatie geldt ook voor:<BR>a) de beslissing tot   wijziging van de bestemming, of tot het onttrekken van een onroerend goed aan   zijn bestemming, als die beslissing onverwijld ter kennis wordt gebracht van het   lid van de Vlaamse Regering dat bevoegd is voor het algemeen beleid inzake   vastgoedbeheer;<BR>b) het verlenen van vergunningen voor private ingebruikneming   en van concessies op openbare domeingoederen;<BR>c) de vestiging van zakelijke   rechten op private domeingoederen of de verhuring of verpachting ervan;<BR>9°   het verwerven, vervreemden en beheren van roerende domeingoederen;<BR>10° het   aanvaarden en weigeren van schenkingen en legaten;<BR>11° de vaststelling van de   personeelsformatie van de instellingen en rechtspersonen die afhangen van de   Vlaamse Gemeenschap of het Vlaamse Gewest;<BR>12° de oprichting van basis- en   tussenoverlegcomités;<BR>13° de erkenning van vorderingen als lasten van het   verleden, vermeld in artikel 53, § 2, tweede lid, 1°, van het decreet van 21   december 1994 houdende bepalingen tot begeleiding van de begroting 1995 na   voorafgaand akkoord van de Vlaamse minister, bevoegd voor de financiën en de   begrotingen;<BR>14° het sluiten van dadingen, minnelijke schikkingen en   schulderkenningen als het bedrag van de uitgaven die eruit voortvloeien 250.000   euro niet overschrijdt, met behoud van de toepassing van artikel 8, § 4;<BR>15°   het sluiten van overeenkomsten tot arbitrage;<BR>16° het sluiten, wijzigen of   beëindigen van overeenkomsten met een maximale looptijd van negen jaar voor de   huur van onroerende goederen, met uitzondering van de onroerende goederen,   vermeld in artikel 10, § 2. Deze delegatie geldt alleen voor de onroerende   goederen waarvan de totale gerelateerde jaarlijkse uitgaven (huur, fiscale   lasten, huurlasten, aflossing geprefinancierde investeringsuitgaven, enzovoort)   niet meer bedragen dan 150.000 euro.
+De leden van de Vlaamse Regering hebben delegatie voor:<br>
+1° het nemen van beslissingen voor de toepassing van de verdragen, EG-verordeningen, samenwerkingsakkoorden, wetten, decreten, verordeningen, koninklijke besluiten, besluiten van de Vlaamse Regering en ministeriële besluiten;<br>
+2° de aanwending van de begrotingskredieten;<br>
+3° de samenwerking met de federale staat en de andere gemeenschappen en gewesten, voorgeschreven door de Grondwet of de institutionele wetten, als het gaat om advies-, overleg- of betrokkenheidsprocedures. Deze delegatie geldt niet voor procedures van akkoord, eensluidend advies of beslissing op voorstel;<br>
+4° de uitoefening van het administratief toezicht op de regionale en lokale besturen;<br>
+5° de uitoefening van het bestuur van of het toezicht op de diensten, instellingen en rechtspersonen die afhangen van de Vlaamse Gemeenschap of het Vlaamse Gewest, met uitzondering van het sluiten van beheersovereenkomsten of samenwerkingsovereenkomsten met agentschappen;<br>
+6° de aanwijzing van personen in adviesorganen en commissies op voorwaarde dat het voornemen tot aanwijzing vooraf door het bevoegde lid aan de Vlaamse Regering wordt meegedeeld;<br>
+7° de verwerving, kosteloos of onder bezwarende titel, van onroerende goederen ten bate van de Vlaamse Gemeenschap of het Vlaamse Gewest;<br>
+8° het beheer van de onroerende goederen die behoren tot het openbare of het private domein van de Vlaamse Gemeenschap of het Vlaamse Gewest, overeenkomstig de bestemming die met toepassing van de regels vastgesteld door de Vlaamse Regering, aan die goederen is gegeven.<br>
+Deze delegatie geldt ook voor:<br>
+a) de beslissing tot wijziging van de bestemming, of tot het onttrekken van een onroerend goed aan zijn bestemming, als die beslissing onverwijld ter kennis wordt gebracht van het lid van de Vlaamse Regering dat bevoegd is voor het algemeen beleid inzake vastgoedbeheer;<br>
+b) het verlenen van vergunningen voor private ingebruikneming en van concessies op openbare domeingoederen;<br>
+c) de vestiging van zakelijke rechten op private domeingoederen of de verhuring of verpachting ervan;<br>
+9° het verwerven, vervreemden en beheren van roerende domeingoederen;<br>
+10° het aanvaarden en weigeren van schenkingen en legaten;<br>
+11° de vaststelling van de personeelsformatie van de instellingen en rechtspersonen die afhangen van de Vlaamse Gemeenschap of het Vlaamse Gewest;<br>
+12° de oprichting van basis- en tussenoverlegcomités;<br>
+13° de erkenning van vorderingen als lasten van het verleden, vermeld in artikel 53, § 2, tweede lid, 1°, van het decreet van 21 december 1994 houdende bepalingen tot begeleiding van de begroting 1995 na voorafgaand akkoord van de Vlaamse minister, bevoegd voor de financiën en de begrotingen;<br>
+14° het sluiten van dadingen, minnelijke schikkingen en schulderkenningen als het bedrag van de uitgaven die eruit voortvloeien 250.000 euro niet overschrijdt, met behoud van de toepassing van artikel 8, § 4, en § 5, tweede lid;<br>
+15° het sluiten van overeenkomsten tot arbitrage;<br>
+16° het sluiten, wijzigen of beëindigen van overeenkomsten met een maximale looptijd van negen jaar voor de huur van onroerende goederen, met uitzondering van de onroerende goederen, vermeld in artikel 10, § 2. Deze delegatie geldt alleen voor de onroerende goederen waarvan de totale gerelateerde jaarlijkse uitgaven (huur, fiscale lasten, huurlasten, aflossing geprefinancierde investeringsuitgaven, enzovoort) niet meer bedragen dan 150.000 euro.
 
 ### ART. 7.
 
@@ -175,7 +195,73 @@ De delegatie, toegestaan bij artikel 6, omvat niet:<BR>1° het nemen van   regle
 
 ### ART. 8.
 
-§ 1. Inzake de plaatsing van overheidsopdrachten en raamovereenkomsten   voor werken, leveringen en diensten hebben de leden van de Vlaamse Regering,   ieder wat hem of haar betreft, delegatie voor het plaatsen van opdrachten   waarvan het goed te keuren offertebedrag de hierna vermelde bedragen niet   overschrijdt:<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>bedragen in euro       <TD>aanbesteding of offerteaanvraag       <TD>(vereenvoudigde)<BR>onderhandelingsprocedure met voorafgaande         bekendmaking<BR>of concurrentiedialoog       <TD>onderhandelingsprocedure zonder voorafgaande bekendmaking<BR>    <TR>      <TD>werken       <TD>20.000.000       <TD>10.000.000       <TD>2.000.000<BR>    <TR>      <TD>leveringen       <TD>10.000.000       <TD>5.000.000       <TD>1.000.000<BR>    <TR>      <TD>diensten       <TD>5.000.000       <TD>2.500.000       <TD>500.000<BR></TD></TR></TBODY></TABLE><BR><BR>De delegatie geldt ook voor   investeringssubsidies als het bedrag van de opdracht of de raming ervan de   bedragen, vermeld in het eerste lid, niet overschrijdt.<BR><BR>Voor concessies   voor openbare werken geldt de delegatie tot en met een bedrag van 20.000.000   euro.<BR><BR>Voor ontwerpenwedstrijden, met inbegrip van de plaatsing van de   erop volgende dienstenopdracht bij onderhandelingsprocedure met toepassing van   artikel 26, § 1, 4°, of artikel 66, § 2, 5°, van de wet van 15 juni 2006   Overheidsopdrachten en bepaalde opdrachten voor werken, leveringen en diensten,   geldt de delegatie tot en met een bedrag van 5.000.000 euro.<BR><BR>Voor   werkenwedstrijden geldt de delegatie tot en met een bedrag van 20.000.000   euro.<BR><BR>De delegatie geldt, ongeacht het bedrag, voor:<BR>1° de keuze van   de gunningsprocedure, de goedkeuring van het bestek en de andere   opdrachtdocumenten;<BR>2° de selectie van de deelnemers aan beperkte procedures   en onderhandelingsprocedures, concurrentiedialoog, dynamisch aankoopsysteem,   lijst van geselecteerden en kwalificatiesysteem;<BR>3° het gunnen van een   opdracht bij onderhandelingsprocedure in de gevallen van dringende   noodzakelijkheid, vermeld in artikel 26, § 1, 1°, c), of artikel 66, § 1, 1°,   a), van de wet van 15 juni 2006 Overheidsopdrachten en bepaalde opdrachten voor   werken, leveringen en diensten;<BR>4° het gunnen van een opdracht aan een of   meer derden, voor rekening van een in gebreke gebleven aannemer tegen wie   ambtshalve wordt opgetreden;<BR>5° de opdracht tot niet-plaatsing.<BR><BR>§ 2.   Inzake de uitvoering van overheidsopdrachten hebben de leden van de Vlaamse   Regering, ieder wat hem of haar betreft, delegatie voor het nemen van alle   beslissingen ongeacht de financiële weerslag.<BR><BR>Die delegatie geldt alleen   binnen het wettelijke kader en binnen het voorwerp van de opdracht.<BR><BR>§ 3.   De leden van de Vlaamse Regering hebben, ieder wat hem of haar betreft,   delegatie om opdrachten te plaatsen in het kader van een raamovereenkomst,   binnen het voorwerp en de bepalingen ervan.<BR><BR>§ 4. In afwijking van artikel   6, 14°, hebben de leden van de Vlaamse Regering delegatie voor het sluiten van   dadingen, minnelijke schikkingen en schulderkenningen die betrekking hebben op   overheidsopdrachten, als het bedrag van de uitgaven die eruit voortvloeien de   hierna vermelde bedragen niet overschrijdt:<BR>1° 2.500.000 euro voor   werken;<BR>2° 625.000 euro voor leveringen;<BR>3° 150.000 euro voor   diensten.
+§ 1. De leden van de Vlaamse Regering hebben, ieder wat hem of haar betreft, delegatie om de gunningsbeslissing te nemen bij overheidsopdrachten, prijsvragen en raamovereenkomsten voor werken, leveringen en diensten waarvan het goed te keuren offertebedrag de volgende bedragen niet overschrijdt:<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;Openbare of niet-openbare<br>
+			procedure</td>
+			<td>Mededingingsprocedure met onderhandeling, (vereenvoudigde) onderhandelings-<br>
+			procedure met voorafgaande oproep tot mededinging, vereenvoudigde onderhandelings-procedure met voorafgaande bekendmaking, concurrentiegerichte dialoog en innovatiepartnerschap</td>
+			<td>Onderhandelings- procedure zonder voorafgaande bekendmaking en onderhandelings- procedure zonder voorafgaande oproep tot mededinging</td>
+		</tr>
+		<tr>
+			<td>werken</td>
+			<td>20.000.000</td>
+			<td>10.000.000</td>
+			<td>2.000.000</td>
+		</tr>
+		<tr>
+			<td>leveringen</td>
+			<td>10.000.000</td>
+			<td>5.000.000</td>
+			<td>1.000.000</td>
+		</tr>
+		<tr>
+			<td>diensten</td>
+			<td>5.000.000</td>
+			<td>2.500.000</td>
+			<td>500.000</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De delegatie geldt ook voor investeringssubsidies als het bedrag van de opdracht of de raming ervan de bedragen, vermeld in het eerste lid, niet overschrijdt.<br>
+<br>
+De leden van de Vlaamse Regering hebben, ieder wat hem of haar betreft, ongeacht het bedrag, delegatie voor:<br>
+1° de principiële beslissing tot uitvoering van de opdracht, de keuze van de gunningsprocedure en de goedkeuring van de opdrachtdocumenten;<br>
+2° de selectiebeslissing;<br>
+3° de gunningsbeslissing in geval van een opdracht op basis van een onderhandelingsprocedure zonder voorafgaande bekendmaking respectievelijk een onderhandelingsprocedure zonder voorafgaande oproep tot mededinging, in geval van dwingende spoed die voortvloeit uit onvoorzienbare gebeurtenissen als vermeld in artikel 42, § 1, eerste lid, 1°, b), respectievelijk artikel 124, § 1, 5°, van de wet van 17 juni 2016 inzake overheidsopdrachten;<br>
+4° de beslissing tot niet-plaatsing.<br>
+<br>
+Naast de delegaties, vermeld in het eerste tot en met derde lid, hebben de leden van de Vlaamse Regering, ieder wat hem of haar betreft, delegatie om overheidsopdrachten van beperkte waarde die tot stand komen met aanvaarde factuur als vermeld in artikel 92 van de wet van 17 juni 2016 inzake overheidsopdrachten, te plaatsen.<br>
+<br>
+§ 2. Inzake de uitvoering van overheidsopdrachten hebben de leden van de Vlaamse Regering, ieder wat hem of haar betreft, delegatie voor het nemen van alle beslissingen ongeacht de financiële weerslag.<br>
+<br>
+§ 3. De leden van de Vlaamse Regering hebben, ieder wat hem of haar betreft, delegatie om opdrachten te plaatsen in het kader van een raamovereenkomst, binnen het voorwerp en de bepalingen ervan.<br>
+<br>
+§ 4. In afwijking van artikel 6, 14°, hebben de leden van de Vlaamse Regering delegatie voor het sluiten van dadingen, minnelijke schikkingen en schulderkenningen die betrekking hebben op overheidsopdrachten, als het bedrag van de uitgaven die eruit voortvloeien de hierna vermelde bedragen niet overschrijdt:<br>
+1° 2.500.000 euro voor werken;<br>
+2° 625.000 euro voor leveringen;<br>
+3° 150.000 euro voor diensten.<br>
+<br>
+§ 5. De leden van de Vlaamse Regering hebben, ieder wat hem of haar betreft, delegatie om de gunningsbeslissing bij concessies te nemen als de waarde van de concessie de volgende bedragen niet overschrijdt:<br>
+1° voor concessies voor werken: 20.000.000 euro;<br>
+2° voor concessies voor diensten: 5.000.000 euro.<br>
+<br>
+In afwijking van artikel 6, 14°, hebben de leden van de Vlaamse Regering delegatie om dadingen, minnelijke schikkingen en schulderkenningen te sluiten die betrekking hebben op concessies, als het bedrag van de uitgaven die eruit voortvloeien, de volgende bedragen niet overschrijdt:<br>
+1° 2.000.000 euro voor concessies voor werken;<br>
+2° 500.000 euro voor concessies voor diensten.<br>
+<br>
+De delegatie geldt, ongeacht het bedrag, voor alle andere beslissingen die in het kader van de plaatsing of uitvoering van een concessie worden genomen.<br>
+<br>
+§ 6. De leden van de Vlaamse Regering hebben, ieder wat hem of haar betreft, delegatie om de principiële beslissing te nemen tot de plaatsing van opdrachten voor diensten van onderzoek en ontwikkeling die niet onderworpen zijn aan de bepalingen van de wet van 17 juni 2016 inzake overheidsopdrachten, tot en met een bedrag van 2.500.000 euro.<br>
+<br>
+Voor de toepassing van het eerste lid heeft het grensbedrag betrekking op het geraamde bedrag van het aandeel van de opdracht dat ten laste is van de aanbestedende overheid.<br>
+<br>
+Naast de delegatie, vermeld in het eerste lid, hebben de leden van de Vlaamse Regering, ieder wat hem of haar betreft, voor de opdrachten voor diensten van onderzoek en ontwikkeling, delegatie om alle andere beslissingen te nemen binnen het verloop van de opdracht, waaronder minstens de goedkeuring van de opdrachtdocumenten, de beslissingen tot aanwijzing van de deelnemers in de verschillende fasen en de beslissing tot stopzetting van het proces, ongeacht het bedrag.
 
 ### ART. 9.
 
