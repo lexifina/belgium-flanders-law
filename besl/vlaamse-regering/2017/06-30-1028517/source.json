@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028517,
+  "title": "Besluit van de Vlaamse Regering van 2017-06-30 tot uitvoering van de begrotingsaanpassing van het begrotingsjaar 2017 aangaande het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028517/VolledigDocument?datum=2017-06-30",
+  "source_sha256": "af8d0bf4650e5f50d266b10e0f6fe8c7649c26e00a9e514bd92643ebc67458e9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028517&param=informatie",
+  "as_of": "2017-06-30",
+  "made": "2017-06-30",
+  "gazette": "2017-08-04",
+  "numac": 2017030829,
+  "document_start": "2017-06-30",
+  "document_end": null,
+  "in_force": "2017-06-30",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2017-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
