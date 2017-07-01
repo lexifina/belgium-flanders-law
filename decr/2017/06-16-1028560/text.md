@@ -56,6 +56,11 @@ Artikel IV.3 treedt in werking op 1 september 2016.
 
 ## HOOFDSTUK 5 Volwassenenonderwijs
 
+### ART V.11.
+
+In artikel 107ter van hetzelfde decreet, ingevoegd bij het decreet van 1 juli 2011 en gewijzigd bij het decreet van 23 december 2016, wordt punt 1° vervangen door wat volgt :<br>
+"1° de module(s) van opleidingen van het studiegebied `Nederlands tweede taal richtgraad 1 en 2' waarop de aanvraag betrekking heeft, wordt vermeld;".
+
 ## HOOFDSTUK 6 Hoger onderwijs
 
 ## Afdeling 1 Codex Hoger Onderwijs
