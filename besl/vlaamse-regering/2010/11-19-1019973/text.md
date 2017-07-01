@@ -27,12 +27,12 @@ De minister kan de bijlagen bij dit besluit wijzigen, met uitzondering van bijla
 4° titel II van het VLAREM : het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
 5° besluit inzake het onderhoud en nazicht van centrale stooktoestellen : het besluit van de Vlaamse Regering van 8 december 2006 betreffende het onderhoud en het nazicht van stooktoestellen voor verwarming van gebouwen of voor de aanmaak van warm verbruikswater;<br>
 6° het departement: het Departement Omgeving;<br>
-7° ....<br>
+7° ...<br>
 8° ...<br>
 9° ...<br>
 10° ...<br>
-11° ...<br>
-12°&nbsp;...<br>
+11°...<br>
+12° ...<br>
 13° ...<br>
 14° ...<br>
 15° het één-loket : het ondernemersloket, vermeld in het besluit van de Vlaamse Regering van 11 december 2009 tot gedeeltelijke omzetting van artikel 6 en 8 van Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende diensten op de interne markt;<br>
@@ -92,7 +92,9 @@ f) voor de aanvragen tot erkenning,&nbsp;vermeld in artikel 6, 7°, a) : de afde
 63° onderhoud : alle activiteiten, met uitsluiting van terugwinning en controles op lekken als vermeld in artikel 4 van verordening nr. 517/2014 en artikel 23 van verordening nr. 1005/2009 die met zich brengen dat de circuits die gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevatten of daartoe ontworpen zijn, worden geopend, namelijk het toevoegen aan het systeem van gefluoreerde broeikasgassen, het verwijderen van een of meer onderdelen van het circuit of de apparatuur, het opnieuw monteren van twee of meer onderdelen van het circuit of de apparatuur, alsook het repareren van lekkages;<br>
 64° reparatie : het herstel van beschadigde of lekkende producten of apparatuur die gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevatten of nodig hebben voor de werking ervan, en waarvan een onderdeel zulke gassen bevat dan wel daartoe ontworpen is;<br>
 65° buitendienststelling : het definitieve stilleggen en buiten werking of gebruik stellen van een product of deel van de apparatuur dat gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen bevat;<br>
-66° terugwinning : het verzamelen en opslaan van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen uit producten, waaronder houders, en apparatuur gedurende het onderhoud, dan wel voorafgaand aan de verwijdering van de producten of de apparatuur.<br>
+66° terugwinning : het verzamelen en opslaan van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen uit producten, waaronder houders, en apparatuur gedurende het onderhoud, dan wel voorafgaand aan de verwijdering van de producten of de apparatuur;<br>
+67° koelwagen: een motorvoertuig met een gewicht van meer dan 3,5 ton dat primair bestemd en gebouwd is om goederen te vervoeren en dat met een koeleenheid is uitgerust;<br>
+68° koelaanhangwagen: een voertuig dat bestemd en gebouwd is om door een vrachtwagen of een trekker te worden gesleept, primair om goederen te vervoeren en dat met een koeleenheid is uitgerust.<br>
 <br>
 § 2. Voor de toepassing van artikel 25/1 en 25/2 wordt verstaan onder beschikken over : ofwel zelf beschikken over, ofwel op continue basis ter beschikking hebben via :<br>
 1° een werknemer die zich via arbeidsovereenkomst ertoe verbindt om tegen loon en onder het gezag van de bodemsaneringsdeskundige arbeid te verrichten;<br>
@@ -127,14 +129,14 @@ d) MER-deskundige : deskundige voor het opstellen van milieueffectrapporten als 
 7) geluid en trillingen : geluid en trillingen;<br>
 8) klimaat;<br>
 9) landschap, bouwkundig erfgoed en archeologie : landschap, bouwkundig erfgoed en archeologie;<br>
-e) VR-deskundige : deskundige voor het opstellen van omgevings- en ruimtelijke veiligheidsrapporten als vermeld in titel IV van het decreet Milieubeleid;<br>
+e) VR-deskundige : deskundige voor het opstellen van omgevings- en ruimtelijke veiligheidsrapporten als vermeld in titel IV van het decreet Milieubeleid;;<br>
 f) airco-energiedeskundige : deskundige voor het uitvoeren van keuringen aan airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW als vermeld in artikel 5.16.3.3, § 3, eerste lid, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, of artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM;<br>
 2° technici :<br>
 a) technicus vloeibare brandstof als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
 b) technicus gasvormige brandstof als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
 c) technicus verwarmingsaudit als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
 d) stookolietechnicus : de erkende technicus als vermeld in artikel 6.5.6.3 van titel II van het VLAREM;<br>
-e) koeltechnicus van categorie I, II, III of IV als vermeld in artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, of artikel 6.8.1.1 van titel II van het VLAREM;<br>
+e) koeltechnicus van categorie I, II, III of IV als vermeld in artikel 4.4.8.4, artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, artikel 6.8.1.1 of artikel 6.8.6.1 van titel II van het VLAREM;<br>
 f) technicus voor brandbeveiligingsapparatuur als vermeld in artikel 4.4.8.1 of artikel 6.8.2.1 van titel II van het VLAREM;<br>
 g) technicus voor elektrische schakelinrichtingen als vermeld in artikel 4.4.8.2 of artikel 6.8.3.1 van titel II van het VLAREM;<br>
 h) technicus voor apparatuur die oplosmiddelen bevat als vermeld in artikel 4.4.8.3 of artikel 6.8.4.1 van titel II van het VLAREM;<br>
@@ -780,7 +782,7 @@ Als een geldig bewijs van betaling van de desbetreffende retributie, vermeld in 
 ### ART 40/1.
 
 De erkende koeltechnicus, vermeld in artikel 6, 2°, e) :<br>
-1° die in het bezit is van een certificaat van categorie I, II, III of IV mag de volgende werkzaamheden uitvoeren aan stationaire koelinstallaties met zowel gefluoreerde broeikasgassen als ozonlaagafbrekende stoffen :<br>
+1° die in het bezit is van een certificaat van categorie I, II, III of IV mag de volgende werkzaamheden uitvoeren aan stationaire koelinstallaties met zowel gefluoreerde broeikasgassen als ozonlaagafbrekende stoffen of aan koeleenheden op koelwagens en koelaanhangwagens die gefluoreerde broeikasgassen bevatten&nbsp;:<br>
 a) in geval van categorie I : de werkzaamheden, vermeld in artikel 3, lid 2, a), van verordening nr. 2015/2067;<br>
 b) in geval van categorie II : de werkzaamheden, vermeld in artikel 3, lid 2, b), van verordening nr. 2015/2067;<br>
 c) in geval van categorie III : de werkzaamheden, vermeld in artikel 3, lid 2, c), van verordening nr. 2015/2067;<br>
@@ -814,7 +816,28 @@ e) bij een buitendienststelling :<br>
 4° slaagt vijfjaarlijks voor het actualisatie-examen in een erkend opleidingscentrum als vermeld in artikel 6, 4°, h), of voor een gelijkwaardig examen dat aanvaard is door het departement. Als het certificaat van bekwaamheid als vermeld in artikel 17/1, 2°, of artikel 32, § 2, eerste lid, 7°, b), ouder is dan vijf jaar na de afgiftedatum, vermeld op het certificaat, slaagt hij voor het actualisatie-examen of voor een gelijkwaardig examen vóór hij de erkenning kan gebruiken. De examens die gelijkwaardig worden bevonden, worden gepubliceerd op de website van het departement. De datum van het slagen voor het actualisatie-examen of een gelijkwaardig examen mag niet ouder zijn dan vijf jaar, voorafgaand aan de datum van de betaling van de retributie, vermeld in artikel 17/1, 3°, of artikel 32, § 2, derde lid;<br>
 5° doet al het mogelijke om lekkage van gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen te voorkomen of tot een minimum te beperken;<br>
 6° doet al het nodige voor de recycling, regeneratie of vernietiging van gefluoreerde broeikasgassen als een cilinder met dat broeikasgas verwijderd moet worden;<br>
-7° beschikt over een vertaling van zijn certificaat van categorie I, II, III of IV naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven.
+7° beschikt over een vertaling van zijn certificaat van categorie I, II, III of IV naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven;<br>
+8° bezorgt een afschrift van de volgende registraties aan de eigenaar of beheerder van de koelwagen of koelaanhangwagen die een koeleenheid met gefluoreerde broeikasgassen bevat:<br>
+a) bij de initiële installatie of een aanpassing van de koeleenheid waardoor de nominale koelmiddelinhoud of het type koelmiddel wijzigt:<br>
+1) de nominale koelmiddelinhoud, uitgedrukt in metrische eenheid en eveneens in ton CO2-equivalent;<br>
+2) het type koelmiddel;<br>
+3) indien bij de koeleenheid gerecycleerde of geregenereerde gefluoreerde broeikasgassen gebruikt worden: de vermelding hiervan en de naam en het adres van het recyclage- of regeneratiebedrijf;<br>
+4) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de initiële installatie of de aanpassing van de koeleenheid uitgevoerd heeft;<br>
+b) als gefluoreerde broeikasgassen werden bijgevuld of afgetapt:<br>
+1) het type koelmiddel;<br>
+2) de hoeveelheid, uitgedrukt in metrische eenheid;<br>
+3) de datum van bijvulling of aftapping;<br>
+4) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de bijvulling of aftapping uitgevoerd heeft;<br>
+c) als lekkagecontroles als vermeld in artikel 4 van verordening nr. 517/2014 uitgevoerd worden:<br>
+1) de datum van de lekkagecontrole;<br>
+2) een beschrijving en de resultaten van de uitgevoerde controles;<br>
+3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de lekkagecontrole uitgevoerd heeft;<br>
+d) de nominale koelmiddelinhoud van de koelinstallatie, uitgedrukt in metrische eenheid, en eveneens in ton CO2-equivalent, als die niet gekend is;<br>
+e) bij een buitendienststelling:<br>
+1) de datum van de buitendienststelling;<br>
+2) de maatregelen die genomen zijn om de gefluoreerde broeikasgassen terug te winnen en te verwijderen;<br>
+3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de installatie buiten dienst gesteld heeft;<br>
+9° houdt de registraties als vermeld in punt 8° ten minste vijf jaar bij.
 
 ### ART 40/2.
 
@@ -1528,7 +1551,7 @@ Voor dit besluit worden het toezicht en de bestuurlijke handhaving uitgeoefend e
 
 ### ART. 58/1.
 
-§ 1.&nbsp;het departement kan een centraal stooktoestel dat door een erkende technicus gekeurd is vóór de eerste ingebruikname, onderhouden is of aan een verwarmingsaudit onderworpen is als vermeld in het besluit inzake het onderhoud en nazicht van centrale stooktoestellen, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement.<br>
+§ 1.&nbsp;Het departement kan een centraal stooktoestel dat door een erkende technicus gekeurd is vóór de eerste ingebruikname, onderhouden is of aan een verwarmingsaudit onderworpen is als vermeld in het besluit inzake het onderhoud en nazicht van centrale stooktoestellen, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door de het departement.<br>
 <br>
 Een willekeurige selectie van ten minste een statistisch relevant percentage van alle attesten van de onderhoudsbeurten en verwarmingsauditrapporten die jaarlijks worden verstrekt, wordt aan een controle onderworpen.<br>
 <br>
@@ -1536,9 +1559,9 @@ Een willekeurige selectie van ten minste een statistisch relevant percentage van
 <br>
 Een willekeurige selectie van ten minste een statistisch relevant percentage van alle keuringsverslagen die jaarlijks worden verstrekt, wordt aan een controle onderworpen.<br>
 &nbsp;
-<p style="text-align: justify;">§3.&nbsp;Het departement kan een stookolietank die door een erkende stookolietechnicus gecontroleerd, onderhouden of buiten gebruik gesteld is als vermeld in afdeling 5.17.2, 5.17.3, 6.5.4 en 6.5.5 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement..<br>
+<p style="text-align: justify;">§3.&nbsp;Het departement kan een stookolietank die door een erkende stookolietechnicus gecontroleerd, onderhouden of buiten gebruik gesteld is als vermeld in afdeling 5.17.2, 5.17.3, 6.5.4 en 6.5.5 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement.<br>
 <br>
-§ 4.&nbsp;Het departement kan een koelinstallatie die door een erkende koeltechnicus of een erkend koeltechnisch bedrijf geïnstalleerd, onderhouden, gerepareerd of buiten dienst gesteld werd, die door een erkende koeltechnicus gecontroleerd werd op lekkage of waaruit gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden teruggewonnen door een erkende koeltechnicus als vermeld in artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, of artikel 6.8.1.1 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement. Bovendien kan&nbsp;het departement het gebruik van de erkenning als koeltechnicus of als koeltechnisch bedrijf onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement.</p>
+§ 4.&nbsp;Het departement kan een koelinstallatie&nbsp;of een koeleenheid op koelwagens en koelaanhangwagens die door een erkende koeltechnicus of een erkend koeltechnisch bedrijf geïnstalleerd, onderhouden, gerepareerd of buiten dienst gesteld werd, die door een erkende koeltechnicus gecontroleerd werd op lekkage of waaruit gefluoreerde broeikasgassen of ozonlaagafbrekende stoffen werden teruggewonnen door een erkende koeltechnicus als vermeld in&nbsp;artikel 4.4.8.4, artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, artikel 6.8.1.1 of artikel 6.8.6.1 van titel II van het VLAREM, op ieder moment onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement. Bovendien kan&nbsp;het departement het gebruik van de erkenning als koeltechnicus of als koeltechnisch bedrijf onderwerpen aan een controle door een keuringsinstelling die aangewezen is door het departement.</p>
 
 ## [HOOFDSTUK 13/2 Keuringsinstelling (ing. BVR 1 maart 2013, art. 133, I: 3 mei 2013)]
 
