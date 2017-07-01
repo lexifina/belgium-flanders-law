@@ -43,7 +43,9 @@ De inhoud van de verklaring op erewoord voor de energiedeskundige type B is als 
 
 ### BIJLAGE 1
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/22_2.pdf#page=15">Bijlage   1</A></P>
+Bijlage 1<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/06/14_1.pdf#page=85">http://www.ejustice.just.fgov.be/mopdf/2017/06/14_1.pdf#page=85</a>
 
 ## BIJLAGE II
 
