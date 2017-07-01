@@ -950,6 +950,30 @@ Art. 6.4.26. De netbeheerder, of zijn werkmaatschappij, heeft in het kader van d
 In artikel 7.4.1, § 2, tweede lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 september 2013 en gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2015, wordt het woord "zes" vervangen door het woord "twaalf".<br>
 &nbsp;
 
+### ART 26.
+
+Aan artikel 7.4.2, § 1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 september 2013 en gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2015, wordt een elfde lid toegevoegd, dat luidt als volgt:<br>
+"De steun wordt in het geval het project een afvalverbrandingsinstallatie betreft, enkel toegekend:<br>
+1° voor investeringen die noodzakelijk zijn voor warmterecuperatie. Investeringen die zowel voor elektriciteit- als voor warmteproductie noodzakelijk zijn, worden verdeeld in investeringen voor enerzijds elektriciteitsproductie anderzijds warmteproductie pro rata het respectievelijke aandeel ingezet voor elektriciteitsproductie en warmteproductie.<br>
+2° indien de installatie voldoet aan een door de minister vastgelegd minimale hoeveelheid warmteproductie;<br>
+3° het project niet strijdig is met de verwerkingshiërarchie, vermeld in artikel 4 van het decreet 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, en het principe de vervuiler betaalt.".<br>
+&nbsp;
+
+### ART 27.
+
+Aan artikel 7.4.3, § 2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 september 2013 en gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2015, wordt een lid toegevoegd, dat luidt als volgt:<br>
+"Er kan geen steun worden gegeven strijdig aan de verwerkingshiërarchie en het principe de vervuiler betaalt. Voor steun aan een afvalverbrandingsinstallatie vraagt het Vlaams Energieagentschap het advies van de OVAM met betrekking tot de inzet van specifieke afvalstoffen. De OVAM onderzoekt in haar advies of steun voor de installatie in overeenstemming is met de principes uit het decreet 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen en in het bijzonder met de verwerkingshiërarchie, vermeld in artikel 4 van dat decreet, de in uitvoering van dat decreet genomen uitvoeringsplannen, het principe van de vervuiler betaalt, en de bepalingen van het VLAREMA.".<br>
+&nbsp;
+
+### ART 28.
+
+Aan artikel 7.4.4, § 4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 september 2013 en gewijzigd bij het besluit van de Vlaamse Regering van 17 juli 2015, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid, 5° worden de woorden "laatste lid" vervangen door de woorden "tiende lid";<br>
+2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"In afwijking van het eerste lid, 4° en 5, wordt in het geval het project een afvalverbrandingsinstallatie betreft de subsidie teruggevorderd binnen tien jaar na de ingebruikname van de installatie in geval:<br>
+minder dan 100% van de brandstof gebruikt sinds de ingebruikname in het gesteunde deel van de installatie voldoet aan de vereisten bedoeld in artikel 7.4.2, § 1, tiende lid met betrekking tot de herkomst van vaste biomassa.".<br>
+&nbsp;
+
 ### ART 29.
 
 In artikel 7.5.1, § 2, tweede lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 september 2013 en gewijzigd bij de besluiten van de Vlaamse Regering van 10 juli 2015 en 17 juli 2015, wordt het woord "zes" vervangen door het woord "twaalf".<br>
@@ -1025,6 +1049,18 @@ Aan artikel 8.5.1, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de
 
 ## HOOFDSTUK 7 Wijzigingen aan titel IX van het Energiebesluit van 19 november 2010
 
+### ART 37.
+
+Aan artikel 9.2.1, § 2, van hetzelfde besluit wordt een tweede lid toegevoegd dat luidt als volgt:<br>
+"Elk residentieel gebouw wordt altijd beschouwd als geklimatiseerd.".<br>
+&nbsp;
+
+### ART 38.
+
+Aan artikel 9.2.6, § 2, van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Elk niet-residentieel gebouw wordt altijd beschouwd als geklimatiseerd.".<br>
+&nbsp;
+
 ### ART 39.
 
 In artikel 9.2.12 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 20 mei 2011 en 27 april 2012, wordt paragraaf 6 vervangen door wat volgt:<br>
@@ -1086,6 +1122,11 @@ Artikel 12.3.11, in de versie zoals ingevoegd bij het besluit van de Vlaamse Reg
 &nbsp;
 
 ## HOOFDSTUK 11 Slotbepalingen
+
+### ART 48.
+
+Artikel 4, 4°, van het decreet van 27 november 2015 houdende diverse bepalingen inzake energie treedt in werking.<br>
+&nbsp;
 
 ### ART 49.
 
