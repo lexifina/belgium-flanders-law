@@ -87,7 +87,7 @@ p) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wo
 7° de Vlaamse minister van Welzijn, Volksgezondheid en Gezin is bevoegd voor:<br>
 a) Zorg en Gezondheid;<br>
 b) Jongerenwelzijn;<br>
-c) Zorginspectie;<br>
+c) ...;<br>
 d) het Openbaar Psychiatrisch Zorgcentrum Geel;<br>
 e) het Openbaar Psychiatrisch Zorgcentrum Rekem;<br>
 f) Kind en Gezin;<br>
