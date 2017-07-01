@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028380,
+  "title": "Ministerieel besluit van 2017-06-07 tot aanpassing van een aantal formulieren naar aanleiding van de inwerkingtreding van de omgevingsvergunning",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028380/VolledigDocument?datum=2017-07-01",
+  "source_sha256": "d55aa7a0d7a3e088e51a89c30a071081f2737e958a3c9d724cf0ab28beed62f7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028380&param=informatie",
+  "as_of": "2017-07-01",
+  "made": "2017-06-07",
+  "gazette": "2017-07-04",
+  "numac": 2017012915,
+  "document_start": "2017-07-01",
+  "document_end": null,
+  "in_force": "2017-07-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2017-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
