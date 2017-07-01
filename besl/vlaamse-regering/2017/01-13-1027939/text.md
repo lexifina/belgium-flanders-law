@@ -537,6 +537,31 @@ In artikel 11.2.8, eerste lid van hetzelfde besluit wordt de zin "De geschorste 
 Bijlage V bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 18 december 2015, wordt vervangen door bijlage 1, die bij dit besluit is gevoegd.<br>
 &nbsp;
 
+### ART 29.
+
+Aan bijlage V bij hetzelfde besluit, vervangen door artikel 29 bij dit besluit, worden de volgende wijzigingen aangebracht:<br>
+1° In punt 7.8.6 worden de woorden "De waarde van de vermenigvuldigingsfactor mheat,sec i, mcool,sec i en moverh,sec i kan minimaal 1,0 bedragen. De waarde bij ontstentenis van mheat,sec i is 1,5. De waarde bij ontstentenis van mcool,sec i en moverh,sec i is 1,0.<br>
+Voor het bepalen van gunstigere waarden wordt verwezen naar Bijlage B van deze tekst." vervangen door de woorden "De waarde van de vermenigvuldigingsfactor mheat,sec i, mcool,sec i en moverh,sec i kan minimaal 1,0 bedragen. De waarde bij ontstentenis van mheat,sec i is 1,5. De waarde bij ontstentenis van mcool,sec i en moverh,sec i is 1,0. De prestaties van de ventilatievoorzieningen worden bepaald volgens vooraf door de minister bepaalde regels. Als de prestaties niet volgens die regels zijn bepaald, moet de waarde bij ontstentenis worden beschouwd. Voor het bepalen van gunstigere waarden wordt verwezen naar Bijlage B van deze tekst.";<br>
+2° In punt B.1.2.1 worden de woorden<br>
+"o indien in ventilatiezone z de debieten (bij nominale ventilatorstand) van de mechanische toevoeropeningen niet, of niet allemaal, gemeten zijn, geldt:<br>
+radj,mech.supply,zone&nbsp;z = 0,20<br>
+Dit is de waarde bij ontstentenis.<br>
+o indien in ventilatiezone z de debieten (bij nominale ventilatorstand) van alle mechanische toevoeropeningen gemeten zijn, geldt:" en de woorden<br>
+"- zoniet:<br>
+radj,mech.supply,zone&nbsp;z = 0,20" opgeheven;<br>
+3° In punt B.1.3.1. worden de woorden "<br>
+o indien in ventilatiezone z de debieten (bij nominale ventilatorstand) van de mechanische afvoeropeningen niet, of niet allemaal, gemeten zijn, geldt:<br>
+radj,mech.extr,zone&nbsp;z&nbsp;= 0,20<br>
+Dit is de waarde bij ontstentenis.<br>
+o indien in ventilatiezone z de debieten (bij nominale ventilatorstand) van alle mechanische afvoeropeningen gemeten zijn, geldt: :" en de woorden<br>
+"- zoniet:<br>
+radj,mech.extr,zone&nbsp;z =0,20" opgeheven;<br>
+4° In punt B.2 worden de woorden "gebeurt op plaats p een continue meting van het ingaand debiet en vindt op basis daarvan een continue en automatische aanpassing aan de instelwaarde plaats zodat het ingaand debiet bij geen enkele ventilatorstand meer dan 5% van de instelwaarde afwijkt, dan geldt:" vervangen door de woorden "Als de prestaties van de toevoeropeningen zijn bepaald volgens de door de minister bepaalde regels en gebeurt op plaats p een continue meting van het ingaand debiet en vindt op basis daarvan een continue en automatische aanpassing aan de instelwaarde plaats zodat het ingaand debiet bij geen enkele ventilatorstand meer dan 5% van de instelwaarde afwijkt, dan geldt: ";<br>
+5° In punt B.2 worden de woorden "Worden de toevoerdebieten bij de nominale ventilatorstand effectief gemeten in alle ruimten die via plaats p van buitenlucht voorzien worden, dan gebruikt men voor de som van deze meetwaarden. In het andere geval wordt vmech sup ply,p gelijk gesteld aan de som van de geëiste buitenluchttoevoerdebieten per ruimte." vervangen door de woorden "Als de prestaties van de toevoeropeningen zijn bepaald volgens de door de minister bepaalde regels en zijn de toevoerdebieten bij de nominale ventilatorstand effectief gemeten in alle ruimten die via plaats p van buitenlucht voorzien worden, dan gebruikt men voor vmech sup ply,p de som van deze meetwaarden. In het andere geval wordt vmech sup ply,p gelijk gesteld aan de som van de geëiste buitenluchttoevoerdebieten per ruimte.";<br>
+6° In punt B.2 worden de woorden "gebeurt op plaats p een continue meting van het uitgaand debiet en vindt op basis daarvan een continue en automatische aanpassing aan de instelwaarde plaats zodat het uitgaand debiet bij geen enkele ventilatorstand meer dan 5% van de instelwaarde afwijkt, dan geldt:" vervangen door de woorden "Als de prestaties van de afvoeropeningen zijn bepaald volgens de door de minister bepaalde regels en gebeurt op plaats p een continue meting van het uitgaand debiet en vindt op basis daarvan een continue en automatische aanpassing aan de instelwaarde plaats zodat het uitgaand debiet bij geen enkele ventilatorstand meer dan 5% van de instelwaarde afwijkt, dan geldt:";<br>
+7° In punt B.2 worden de woorden "Worden de afvoerdebieten bij nominale ventilatorstand effectief gemeten in alle ruimten van waaruit via plaats p naar buiten afgezogen wordt, dan gebruikt men voor vmech extr,p de som van deze meetwaarden. In het andere geval wordt vmech extr,p gelijk gesteld aan de som van de geëiste afvoerdebieten naar buiten" vervangen door de woorden "Als de prestaties van de afvoeropeningen zijn bepaald volgens de door de minister bepaalde regels en zijn de afvoerdebieten bij nominale ventilatorstand effectief gemeten in alle ruimten van waaruit via plaats p naar buiten afgezogen wordt, dan gebruikt men voor vmech extr,p de som van deze meetwaarden. In het andere geval wordt vmech extr,p gelijk gesteld aan de som van de geëiste afvoerdebieten naar buiten.".<br>
+&nbsp;
+
 ### ART 30.
 
 Bijlage VI bij hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 18 december 2015, wordt vervangen door bijlage 2, die bij dit besluit is gevoegd.<br>
