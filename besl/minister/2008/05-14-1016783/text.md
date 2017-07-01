@@ -45,63 +45,74 @@ Dit besluit treedt in werking op 1 juni 2008.
 ### BIJLAGE
 
 <strong>1) BELEIDSDOMEIN KANSELARIJ EN BESTUUR</strong>
-<table border="1" cellpadding="0" cellspacing="0">
+<table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width:203px">&nbsp;</td>
-			<td style="width:279px"><strong>B/S-opdrachten</strong></td>
-			<td style="width:122px"><strong>Verloning</strong></td>
+			<td style="width: 203px;">&nbsp;</td>
+			<td style="width: 279px;"><strong>B/S-opdrachten</strong></td>
+			<td style="width: 122px;"><strong>Verloning</strong></td>
 		</tr>
 		<tr>
-			<td style="width:203px">&nbsp;1.1. Departement Kanselarij en Bestuur</td>
-			<td style="width:279px">Vlaamse bouwmeester</td>
-			<td style="width:122px">&nbsp;</td>
+			<td style="width: 203px;">&nbsp;1.1. Departement Kanselarij en Bestuur</td>
+			<td style="width: 279px;">Vlaamse bouwmeester</td>
+			<td style="width: 122px;">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:203px">&nbsp;1.2. Agentschap Overheidspersoneel</td>
-			<td style="width:279px">Vlaams diversiteitsambtenaar</td>
-			<td style="width:122px">A214</td>
+			<td style="width: 203px;">&nbsp;1.2. Agentschap Overheidspersoneel</td>
+			<td style="width: 279px;">Vlaams diversiteitsambtenaar</td>
+			<td style="width: 122px;">A214</td>
 		</tr>
 		<tr>
-			<td colspan="1" rowspan="9" style="width:203px">1.3. Agentschap Facilitair Bedrijf</td>
-			<td style="width:279px">Schoonmaakpersoneel (uitvoerende functie</td>
-			<td style="width:122px">D111</td>
+			<td style="width: 203px;" rowspan="11" colspan="1">1.3. Agentschap Facilitair Bedrijf</td>
+			<td style="width: 279px;">Schoonmaakpersoneel (uitvoerende functie</td>
+			<td style="width: 122px;">D111</td>
 		</tr>
 		<tr>
-			<td style="width:279px">Schoonmaakpersoneel werf- en sectorverantwoordelijke</td>
-			<td style="width:122px">D211</td>
+			<td style="width: 279px;">Schoonmaakpersoneel werf- en sectorverantwoordelijke</td>
+			<td style="width: 122px;">D211</td>
 		</tr>
 		<tr>
-			<td style="width:279px">Backup werf- en sectorverantwoordelijken schoonmaak</td>
-			<td style="width:122px">D112</td>
+			<td style="width: 279px;">Backup werf- en sectorverantwoordelijken schoonmaak</td>
+			<td style="width: 122px;">D112</td>
 		</tr>
 		<tr>
-			<td style="width:279px">Cateringpersoneel (keukenhulp)</td>
-			<td style="width:122px">D111</td>
+			<td style="width: 279px;">Cateringpersoneel (keukenhulp)</td>
+			<td style="width: 122px;">D111</td>
 		</tr>
 		<tr>
-			<td style="width:279px">Cateringpersoneel (kok)</td>
-			<td style="width:122px">D132</td>
+			<td style="width: 279px;">Cateringpersoneel (kok)</td>
+			<td style="width: 122px;">D132</td>
 		</tr>
 		<tr>
-			<td style="width:279px">Cateringpersoneel (back up chef catering grote keuken)</td>
-			<td style="width:122px">C111</td>
+			<td style="width: 279px;">Cateringpersoneel (back up chef catering grote keuken)</td>
+			<td style="width: 122px;">C111</td>
 		</tr>
 		<tr>
-			<td style="width:279px">Cateringpersoneel (chef catering kleine keuken)</td>
-			<td style="width:122px">C123</td>
+			<td style="width: 279px;">Cateringpersoneel (chef catering kleine keuken)</td>
+			<td style="width: 122px;">C123</td>
 		</tr>
 		<tr>
-			<td style="width:279px">Cateringpersoneel (chef catering middelgrote keuken)</td>
-			<td style="width:122px">C211</td>
+			<td style="width: 279px;">Cateringpersoneel (chef catering middelgrote keuken)</td>
+			<td style="width: 122px;">C211</td>
 		</tr>
 		<tr>
-			<td style="width:279px">Cateringpersoneel (chef catering grote keuken)</td>
-			<td style="width:122px">C221</td>
+			<td style="width: 279px;">Cateringpersoneel (chef catering grote keuken)</td>
+			<td style="width: 122px;">C221</td>
+		</tr>
+		<tr>
+			<td style="width: 279px;">cateringpersoneel (back-up chef catering middelgrote keuken)</td>
+			<td style="width: 122px;">D132</td>
+		</tr>
+		<tr>
+			<td style="width: 279px;">cateringpersoneel (back-up chef catering kleine keuken)</td>
+			<td style="width: 122px;">D132</td>
 		</tr>
 	</tbody>
 </table>
-&nbsp;<br>
+&nbsp;&nbsp;<br>
+<br>
+<br>
+<br>
 &nbsp;
 
 ### BIJLAGE
