@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028379,
+  "title": "Decreet van 2017-06-16 houdende wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft de vergroening van de verkeersfiscaliteit voor lichte vracht en oldtimers",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028379/VolledigDocument?datum=2017-07-01",
+  "source_sha256": "5e3fdc4305512132aa8c57b688a60a4300d69952834a00d6d8ccde31bb0db37f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028379&param=informatie",
+  "as_of": "2017-07-01",
+  "made": "2017-06-16",
+  "gazette": "2017-07-04",
+  "numac": 2017012949,
+  "document_start": "2017-07-01",
+  "document_end": null,
+  "in_force": "2017-07-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2017-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
