@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028334,
+  "title": "Ministerieel besluit van 2017-05-30 tot vaststelling van de coëfficiënt voor het berekenen van de geactualiseerde kostprijs van sociale huurwoningen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028334/VolledigDocument?datum=2017-07-01",
+  "source_sha256": "b3b735a818f3739c4080b9faaaf68844b8c76afe2309db419319894e8eb52756",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028334&param=informatie",
+  "as_of": "2017-07-01",
+  "made": "2017-05-30",
+  "gazette": "2017-06-19",
+  "numac": 2017012612,
+  "document_start": "2017-07-01",
+  "document_end": null,
+  "in_force": "2017-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
