@@ -64,13 +64,15 @@ Als het voertuig, aangewezen als lichte vrachtauto in de reglementering, vermeld
 5° gewone verblijfplaats : de plaats waar iemand gewoonlijk verblijft, dat wil zeggen gedurende ten minste 185 dagen per kalenderjaar wegens persoonlijke en beroepsmatige bindingen of, voor personen zonder beroepsmatige bindingen, wegens persoonlijke bindingen waaruit nauwe banden blijken tussen hemzelf en de plaats waar hij woont.<br>
 De gewone verblijfplaats van iemand die zijn beroepsmatige bindingen op een andere plaats heeft dan zijn persoonlijke bindingen en daardoor afwisselend verblijft op verschillende plaatsen in twee of meer staten, wordt evenwel geacht zich op dezelfde plaats te bevinden als zijn persoonlijke bindingen, op voorwaarde dat hij op geregelde tijden terugkeert naar die plaats. Die laatste voorwaarde vervalt als de betrokkene in een staat verblijft voor een opdracht van een bepaalde duur. Het feit dat college wordt gelopen of een school wordt bezocht, houdt niet in dat de gewone verblijfplaats wordt verplaatst;<br>
 6° euronorm: de maximumdrempel voor de concentratie van bepaalde vervuilende stoffen in de uitlaatgassen van motorvoertuigen, bepaald in opeenvolgende Europese richtlijnen en verordeningen;<br>
-7° wegvoertuigen: de personenauto's, auto's voor dubbel gebruik en minibussen zoals die voertuigen zijn omschreven in de reglementering van de inschrijving van de motorvoertuigen en de aanhangwagens en zoals ze worden verstaan in de zin van de laatste zin van punt 2°, voor zover die voertuigen voorzien zijn van of voorzien moeten zijn van een andere nummerplaat dan een in het kader van de bedoelde regeling uitgereikte proefrittenplaat, handelaarsplaat of tijdelijke plaat die geen internationale kentekenplaat is.<br>
+7° wegvoertuigen: de personenauto's, auto's voor dubbel gebruik en minibussen zoals die voertuigen zijn omschreven in de reglementering van de inschrijving van de motorvoertuigen en de aanhangwagens en zoals ze worden verstaan in de zin van de laatste zin van punt 2°, voor zover die voertuigen voorzien zijn van of voorzien moeten zijn van een andere nummerplaat dan een in het kader van de bedoelde regeling uitgereikte proefrittenplaat, handelaarsplaat of tijdelijke plaat die geen internationale kentekenplaat is;<br>
+8° vennootschap: in afwijking van het eerste lid, 21°, een vennootschap als vermeld in de wet van 7 mei 1999 houdende het Wetboek van Vennootschappen.<br>
 <br>
 In titel 2, hoofdstuk 3, wordt verstaan onder :<br>
 1° wegvoertuigen : de personenauto's, auto's voor dubbel gebruik, minibussen en motorfietsen, zoals die voertuigen zijn omschreven in de reglementering van de inschrijving van de motorvoertuigen en de aanhangwagens en zoals ze worden verstaan in de zin van de laatste zin van punt 2° van het vorige lid, voor zover die voertuigen voorzien zijn van of voorzien moeten zijn van een andere nummerplaat dan een in het kader van de bedoelde regeling uitgereikte proefrittenplaat, handelaarsplaat of tijdelijke plaat die geen internationale kentekenplaat is;<br>
 2° luchtvaartuigen : de vliegtuigen, watervliegtuigen, helikopters, zweefvliegtuigen, luchtballons of bestuurbare luchtschepen en andere luchtvaartuigen, zwaarder of lichter dan lucht, met of zonder motor, als ze ingeschreven zijn of moeten zijn;<br>
 3° boten : de jachten en pleziervaartuigen die langer zijn dan 7,5 meter, als daarvoor een vlaggenbrief afgeleverd is of afgeleverd moet zijn;<br>
-4° euronorm: de maximumdrempel voor de concentratie van bepaalde vervuilende stoffen in de uitlaatgassen van motorvoertuigen, bepaald in opeenvolgende Europese richtlijnen en verordeningen.<br>
+4° euronorm: de maximumdrempel voor de concentratie van bepaalde vervuilende stoffen in de uitlaatgassen van motorvoertuigen, bepaald in opeenvolgende Europese richtlijnen en verordeningen;<br>
+5° vennootschap: in afwijking van het eerste lid, 21°, een vennootschap als vermeld in de wet van 7 mei 1999 houdende het Wetboek van Vennootschappen.<br>
 <br>
 In titel 2, hoofdstuk 4, wordt verstaan onder :<br>
 1° EURO-emissieklasse : de klasse gedefinieerd op basis van de emissiegrenswaarden, vermeld in bijlage 0 van richtlijn 1999/62/EG van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen;<br>
@@ -463,7 +465,8 @@ De plaats, de datum en het uur van de weging of van het volledige   onderzoek va
 <p>§ 1. De belasting wordt, ofwel per periode van twaalf opeenvolgende maanden, ofwel per kalenderjaar, berekend op de wijze die in de hierna volgende paragrafen wordt vermeld.<br>
 <br>
 § 2. Voor de personenauto's, de auto's voor dubbel gebruik en de minibussen wordt de belasting berekend, op basis van fiscale paardenkracht (pk), volgens de volgende tabel :</p>
-<br>
+&nbsp;
+
 <table border="1">
 	<tbody>
 		<tr>
@@ -582,7 +585,7 @@ b) verminderd met 0,30% voor iedere gram CO<sub>2</sub>-uitstoot per kilometer o
 		<tr>
 			<td>euro 3 + roetfilter</td>
 			<td>/</td>
-			<td>30 %</td>
+			<td>+25 %</td>
 		</tr>
 		<tr>
 			<td>euro 4</td>
@@ -613,6 +616,124 @@ In afwijking van artikel 2.2.4.0.2, § 2, bedraagt de belasting, berekend overee
 Deze paragraaf is alleen van toepassing op wegvoertuigen van natuurlijke personen en andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.<br>
 <br>
 § 3. Voor de motorvoertuigen, bestemd voor het vervoer van goederen waarvan de maximaal toegelaten massa 3 500 kilogram niet overschrijdt, de lijkwagens, de alleenrijdende landbouwtractoren en de alleenrijdende trekkers, andere dan die, vermeld in paragraaf 6, bedraagt de belasting 19,32 euro per 500 kg maximaal toegelaten massa.<br>
+<br>
+§ 3/1. Voor de motorvoertuigen, bestemd voor het vervoer van goederen, de lijkwagens, de alleenrijdende landbouwtractoren en de alleenrijdende trekkers, als het andere voertuigen zijn dan de voertuigen, vermeld in paragraaf 6, die na 30 juni 2017 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid en waarvan de maximaal toegelaten massa maximum 2500 kilogram bedraagt, bedraagt de belasting 19,32 euro per 500 kg maximaal toegelaten massa, met inachtneming van volgende elementen:<br>
+1° in functie van de CO<sub>2</sub>-uitstoot van het voertuig, gemeten tijdens de homologatie ervan volgens de geldende Europese regelgeving, wordt het tarief<br>
+a) vermeerderd met 0,30% voor iedere gram CO<sub>2</sub>-uitstoot per kilometer boven 122 gram en niet hoger dan 500 gram;<br>
+b) verminderd met 0,30% voor iedere gram CO<sub>2</sub>-uitstoot per kilometer onder 122 gram, maar hoger dan 24 gram;<br>
+2° in functie van de euronorm en de brandstofsoort van het voertuig en, in voorkomend geval, de aanwezigheid van een roetfilter wordt het tarief met een percentage vermeerderd of verminderd conform de volgende tabel:<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>euronorm</td>
+			<td>benzine en andere brandstoffen</td>
+			<td>diesel</td>
+		</tr>
+		<tr>
+			<td>euro 0</td>
+			<td>+30%</td>
+			<td>+50%</td>
+		</tr>
+		<tr>
+			<td>euro 1</td>
+			<td>+10%</td>
+			<td>+40%</td>
+		</tr>
+		<tr>
+			<td>euro 2</td>
+			<td>+5%</td>
+			<td>+35%</td>
+		</tr>
+		<tr>
+			<td>euro 3</td>
+			<td>0%</td>
+			<td>+30%</td>
+		</tr>
+		<tr>
+			<td>euro 3 met roetfilter</td>
+			<td>/</td>
+			<td>+25%</td>
+		</tr>
+		<tr>
+			<td>euro 4</td>
+			<td>-12,5%</td>
+			<td>+25%</td>
+		</tr>
+		<tr>
+			<td>euro 4 met roetfilter</td>
+			<td>/</td>
+			<td>+17,5%</td>
+		</tr>
+		<tr>
+			<td>euro 5 of EEV</td>
+			<td>-15%</td>
+			<td>+17,5%</td>
+		</tr>
+		<tr>
+			<td>euro 6</td>
+			<td>-15%</td>
+			<td>+15%</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+In afwijking van artikel 2.2.4.0.2, § 2, bedraagt de belasting, berekend overeenkomstig het eerste lid, minimum 40 euro.<br>
+<br>
+Deze paragraaf is alleen van toepassing op voertuigen van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.<br>
+<br>
+§ 3/2. Voor de motorvoertuigen, bestemd voor het vervoer van goederen, de lijkwagens, de alleenrijdende landbouwtractoren en de alleenrijdende trekkers, als het andere voertuigen zijn dan de voertuigen, vermeld in paragraaf 6, die na 30 juni 2017 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid en waarvan de maximaal toegelaten massa hoger is dan 2500 kilogram en 3500 kilogram niet overschrijdt, bedraagt de belasting 19,32 euro per 500 kg maximaal toegelaten massa.<br>
+<br>
+In functie van de euronorm van het voertuig en, in voorkomend geval, de aanwezigheid van een roetfilter wordt het tarief, vermeld in het eerste lid, met een percentage vermeerderd of verminderd conform de volgende tabel:<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>euronorm</td>
+			<td>percentage</td>
+		</tr>
+		<tr>
+			<td>euro 0</td>
+			<td>+ 35%</td>
+		</tr>
+		<tr>
+			<td>euro 1</td>
+			<td>+ 25%</td>
+		</tr>
+		<tr>
+			<td>euro 2</td>
+			<td>+ 20%</td>
+		</tr>
+		<tr>
+			<td>euro 3</td>
+			<td>+ 15%</td>
+		</tr>
+		<tr>
+			<td>euro 3 met roetfilter</td>
+			<td>+ 10%</td>
+		</tr>
+		<tr>
+			<td>euro 4</td>
+			<td>+ 10%</td>
+		</tr>
+		<tr>
+			<td>euro 4 met roetfilter</td>
+			<td>+ 2,5%</td>
+		</tr>
+		<tr>
+			<td>euro 5 of EEV</td>
+			<td>+ 2,5%</td>
+		</tr>
+		<tr>
+			<td>euro 6</td>
+			<td>0%</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+In afwijking van artikel 2.2.4.0.2, § 2, bedraagt de belasting, berekend overeenkomstig het eerste lid, minimum 40 euro.<br>
+<br>
+Deze paragraaf is alleen van toepassing op voertuigen van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.<br>
 <br>
 § 4. Voor de motorfietsen bedraagt de belasting 49,44 euro.<br>
 <br>
@@ -1127,11 +1248,27 @@ De kampeerwagens vallen buiten de toepassing van artikel 2.2.6.0.1, § 1, eerste
 
 ### ART. 2.2.4.0.2.
 
-<P>§ 1. In afwijking van artikel 2.2.4.0.1 bedraagt de belasting 31,61 euro voor   :<BR>1° de personenauto's, de auto's voor dubbel gebruik, de minibussen en de   motorfietsen die bij het ontstaan van de belastingplicht sedert meer dan   vijfentwintig jaar in het verkeer zijn gebracht;<BR>2° de kampeeraanhangwagens   en de aanhangwagens die speciaal zijn ontworpen voor het vervoer van één   boot;<BR>3° de militaire voertuigen uit verzamelingen, die niet onder de   toepassing vallen van artikel 2.2.7.0.2, § 1, eerste lid, en die bij het   ontstaan van de belastingschuld sedert meer dan dertig jaar in het verkeer zijn   gebracht en slechts bij uitzondering op de openbare weg worden gebruikt ter   gelegenheid van behoorlijk toegelaten manifestaties om zich naar die   manifestaties te begeven of voor proefritten met het oog op die manifestaties,   uitgevoerd binnen een straal van 25 kilometer, tussen zonsopgang en   zonsondergang.<BR></P>  <P>Artikel 2.2.6.0.3, eerste lid, artikel 2.2.6.0.4, artikel 3.3.2.0.1 en   artikel 3.4.7.0.3 zijn niet van toepassing op de belasting, vermeld in het   eerste lid.<BR></P>  <P>§ 2. Als de belastingplichtige belasting voor een voertuig is verschuldigd,   mag de belasting voor dat voertuig niet minder dan 31,61 euro   bedragen.<BR><BR>Deze paragraaf is niet van toepassing op de voertuigen, vermeld   in artikel 2.2.4.0.1, § 6.<BR></P>
+<p>§ 1. In afwijking van artikel 2.2.4.0.1 bedraagt de belasting 31,61 euro voor :<br>
+1° de voertuigen die bij het ontstaan van de belastingplicht sedert meer dan dertig jaar in het verkeer zijn gebracht;<br>
+1/1° de voertuigen die voldoen aan een van de volgende voorwaarden:<br>
+a) in aanslagjaar 2017 sedert meer dan vijfentwintig jaar in het verkeer zijn gebracht;<br>
+b) in aanslagjaar 2018 sedert meer dan zesentwintig jaar in het verkeer zijn gebracht;<br>
+c) in aanslagjaar 2019 sedert meer dan zevenentwintig jaar in het verkeer zijn gebracht;<br>
+d) in aanslagjaar 2020 sedert meer dan achtentwintig jaar in het verkeer zijn gebracht;<br>
+e) in aanslagjaar 2021 sedert meer dan negenentwintig jaar in het verkeer zijn gebracht;<br>
+2° de kampeeraanhangwagens en de aanhangwagens die speciaal zijn ontworpen voor het vervoer van één boot.</p>
+
+<p>Artikel 2.2.6.0.3, eerste lid, artikel 2.2.6.0.4, artikel 3.3.2.0.1 en artikel 3.4.7.0.3 zijn niet van toepassing op de belasting, vermeld in het eerste lid.</p>
+
+<p>§ 2. Als de belastingplichtige belasting voor een voertuig is verschuldigd, mag de belasting voor dat voertuig niet minder dan 31,61 euro bedragen.<br>
+<br>
+Deze paragraaf is niet van toepassing op de voertuigen, vermeld in artikel 2.2.4.0.1, § 6.</p>
 
 ### ART. 2.2.4.0.3.
 
-<P>De belasting, vastgesteld volgens artikel 2.2.4.0.1, § 2 en § 4, de   minimumbelastingen, vermeld in artikel 2.2.4.0.1, § 2/1, tweede lid, en artikel   2.2.4.0.1, § 5, de belastingen, vermeld in artikel 2.2.4.0.1, § 7, alsook de   belasting, vermeld in artikel 2.2.4.0.2, § 1, en de minimumbelasting, vermeld in   artikel 2.2.4.0.2, § 2, alsook het bedrag, vermeld in artikel 2.2.5.0.4, zijn   gekoppeld aan de schommelingen van het algemeen indexcijfer van de   consumptieprijzen van het Rijk. De belastingbedragen worden aangepast op 1 juli   van elk jaar op grond van de schommelingen van het algemeen indexcijfer van de   consumptieprijzen van het Rijk, vastgesteld tussen de maand mei van het vorige   jaar en de maand mei van het lopende jaar. De belastingbedragen, vermeld in   artikel 2.2.4.0.1, met uitzondering van paragraaf 2/1, en artikel 2.2.4.0.2,   zijn de bedragen die van toepassing waren op 1 juli 2013. Voor de toepassing van   de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.1, § 2/1, tweede lid,   en artikel 2.2.5.0.4, de bedragen die gelden alsof ze van toepassing waren op 1   juli 2015.<BR></P>  <P>De aangepaste belastingbedragen, vermeld in het eerste lid, kunnen met   maximaal 0,11 euro worden verlaagd om een veelvoud van twaalf te   vormen.<BR></P>
+<p>De belasting, vastgesteld volgens artikel 2.2.4.0.1, § 2, § 3 voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1, eerste lid, § 3/2, eerste lid, en § 4, de minimumbelastingen, vermeld in artikel 2.2.4.0.1, § 2/1, tweede lid, &nbsp;artikel 2.2.4.0.1, § 3/1, tweede lid, artikel 2.2.4.0.1, § 3/2, derde lid,&nbsp;en artikel 2.2.4.0.1, § 5, de belastingen, vermeld in artikel 2.2.4.0.1, § 7, alsook de belasting, vermeld in artikel 2.2.4.0.2, § 1, en de minimumbelasting, vermeld in artikel 2.2.4.0.2, § 2, alsook het bedrag, vermeld in artikel 2.2.5.0.4, zijn gekoppeld aan de schommelingen van het algemeen indexcijfer van de consumptieprijzen van het Rijk. De belastingbedragen worden aangepast op 1 juli van elk jaar op grond van de schommelingen van het algemeen indexcijfer van de consumptieprijzen van het Rijk, vastgesteld tussen de maand mei van het vorige jaar en de maand mei van het lopende jaar. De belastingbedragen, vermeld in artikel 2.2.4.0.1, met uitzondering van paragraaf 2/1, § 3 voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1 en § 3/2, en artikel 2.2.4.0.2, zijn de bedragen die van toepassing waren op 1 juli 2013. Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.1, § 2/1, tweede lid, en artikel 2.2.5.0.4, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2015. Voor de toepassing van de indexatie zijn de bedragen, vermeld in artikel 2.2.4.0.1, § 3, voor zover het voertuigen betreft van natuurlijke personen en van andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten, § 3/1, eerste en tweede lid, en § 3/2, eerste en derde lid, de bedragen die gelden alsof ze van toepassing waren op 1 juli 2017.</p>
+
+<p>De aangepaste belastingbedragen, vermeld in het eerste lid, kunnen met maximaal 0,11 euro worden verlaagd om een veelvoud van twaalf te vormen.</p>
 
 ### ART. 2.2.4.0.4.
 
@@ -1143,12 +1280,12 @@ De kampeerwagens vallen buiten de toepassing van artikel 2.2.6.0.1, § 1, eerste
 
 ### ART. 2.2.4.0.6.
 
-&nbsp;Als de euronorm van het wegvoertuig niet bekend is, wordt die parameter voor de toepassing van artikel 2.2.4.0.1, § 2/1, eerste lid, 2°, bepaald aan de hand van de datum van de eerste inschrijving van het wegvoertuig, vermeld in de volgende tabel:<br>
+Als de euronorm van het voertuig niet bekend is, wordt die parameter voor de toepassing van artikel 2.2.4.0.1, § 2/1, eerste lid, 2°, artikel 2.2.4.0.1, § 3/1 en § 3/2, bepaald aan de hand van de datum van de eerste inschrijving van het voertuig, vermeld in de volgende tabel:<br>
 &nbsp;
 <table border="1">
 	<tbody>
 		<tr>
-			<td>Datum van de eerste inschrijving van het wegvoertuig in het binnenland of in het buitenland</td>
+			<td>Datum van de eerste inschrijving van het voertuig in het binnenland of in het buitenland</td>
 			<td>Euronorm</td>
 		</tr>
 		<tr>
@@ -1184,7 +1321,7 @@ De kampeerwagens vallen buiten de toepassing van artikel 2.2.6.0.1, § 1, eerste
 
 ### ART. 2.2.4.0.7.
 
-Als de CO<sub>2</sub>-uitstoot van het wegvoertuig niet bekend is, wordt die parameter voor de toepassing van artikel 2.2.4.0.1, § 2/1, eerste lid, 1°, bepaald aan de hand van de brandstofsoort, de cilinderinhoud en de euronorm, vermeld in de volgende tabel:<br>
+Als de CO<sub>2</sub>-uitstoot van het voertuig niet bekend is, wordt die parameter voor de toepassing van artikel 2.2.4.0.1, § 2/1, eerste lid, 1°, artikel 2.2.4.0.1, § 3/2, bepaald aan de hand van de brandstofsoort, de cilinderinhoud en de euronorm, vermeld in de volgende tabel:<br>
 &nbsp;
 <table border="1">
 	<tbody>
@@ -1313,7 +1450,13 @@ Als de CO<sub>2</sub>-uitstoot van het wegvoertuig niet bekend is, wordt die par
 
 ### ART. 2.2.4.0.8.
 
-De aanwezigheid van een roetfilter als vermeld in artikel 2.2.4.0.1, §   2/1, eerste lid, 2°, wordt vastgesteld op basis van de PM-gegevens of op basis   van de gegevens over de premie voor de aankoop en installatie van   emissieverminderende voorzieningen in wegvoertuigen met een dieselmotor. Onder   PM wordt verstaan: de uitstoot van deeltjes, gemeten tijdens de homologatie van   het wegvoertuig volgens de geldende Europese regelgeving.<BR><BR>Een roetfilter   als vermeld in artikel 2.2.4.0.1, § 2/1, eerste lid, 2°, is een halfopen of een   gesloten roetfilter.<BR><BR>Een gesloten roetfilter wordt geacht aanwezig te   zijn bij wegvoertuigen van euronorm 3 en 4 met een uitstoot kleiner dan of   gelijk aan 10 mg/km PM. Als in de waarden de combinatie van 0 mg/km PM en 0 g/km   CO<SUB>2</SUB> voorkomt, wordt er geacht geen gesloten roetfilter aanwezig te   zijn.<BR><BR>Een halfopen roetfilter wordt geacht aanwezig te zijn bij   wegvoertuigen als de premie-aanvraag voor de aankoop en installatie van de   roetfilter door de Vlaamse overheid is goedgekeurd.
+De aanwezigheid van een roetfilter als vermeld in artikel 2.2.4.0.1, § 2/1, eerste lid, 2°, artikel 2.2.4.0.1, § 3/1 en § 3/2, wordt vastgesteld op basis van de PM-gegevens of op basis van de gegevens over de premie voor de aankoop en installatie van emissieverminderende voorzieningen in voertuigen met een dieselmotor. Onder PM wordt verstaan: de uitstoot van deeltjes, gemeten tijdens de homologatie van het voertuig volgens de geldende Europese regelgeving.<br>
+<br>
+Een roetfilter als vermeld in artikel 2.2.4.0.1, § 2/1, eerste lid, 2°, artikel 2.2.4.0.1, § 3/1 en § 3/2,&nbsp;is een halfopen of een gesloten roetfilter.<br>
+<br>
+Een gesloten roetfilter wordt geacht aanwezig te zijn bij voertuigen van euronorm 3 en 4 met een uitstoot kleiner dan of gelijk aan 10 mg/km PM. Als in de waarden de combinatie van 0 mg/km PM en 0 g/km CO<sub>2</sub> voorkomt, wordt er geacht geen gesloten roetfilter aanwezig te zijn.<br>
+<br>
+Een halfopen roetfilter wordt geacht aanwezig te zijn bij voertuigen als de premie-aanvraag voor de aankoop en installatie van de roetfilter door de Vlaamse overheid is goedgekeurd.
 
 ### ART. 2.2.4.0.9.
 
@@ -1335,7 +1478,9 @@ De belasting voor de personenauto's, de auto's voor dubbel gebruik en de   minib
 
 ### ART. 2.2.5.0.4.
 
-Voor de voertuigen waarvan de motor, ook al is het maar gedeeltelijk of   tijdelijk, aangedreven wordt met vloeibaar petroleumgas of andere vloeibare   koolwaterstofgassen, wordt de belasting verminderd met 100 euro, in voorkomend   geval beperkt tot het bedrag van de belasting als berekend overeenkomstig   artikel 2.2.4.0.1 tot en met 2.2.4.0.3, maar zonder toepassing van de   minimumbelastingen, vermeld in artikel 2.2.4.0.1, § 2/1, tweede lid, en § 5, en   in artikel 2.2.4.0.2, § 2.<BR><BR>Dit artikel is alleen van toepassing op   wegvoertuigen van natuurlijke personen en andere rechtspersonen dan   vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend   doel, met leasingactiviteiten.
+Voor de voertuigen waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk, aangedreven wordt met vloeibaar petroleumgas of andere vloeibare koolwaterstofgassen, wordt de belasting verminderd met 100 euro, in voorkomend geval beperkt tot het bedrag van de belasting als berekend overeenkomstig artikel 2.2.4.0.1 tot en met 2.2.4.0.3, maar zonder toepassing van de minimumbelastingen, vermeld in artikel 2.2.4.0.1, § 2/1, tweede lid, en § 5, en in artikel 2.2.4.0.2, § 2.<br>
+<br>
+Dit artikel is alleen van toepassing op wegvoertuigen, de lichte vrachtauto's, vermeld in artikel 1.1.0.0.2, derde lid, 2°, laatste zin, lijkwagens, en alleenrijdende trekkers, als het andere voertuigen zijn dan de voertuigen, vermeld in artikel 2.2.4.0.1, § 6, van natuurlijke personen en andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.
 
 ## Afdeling 6 Vrijstellingen
 
@@ -1373,11 +1518,24 @@ De Vlaamse Regering bepaalt de wijze van de aanvraag van de terugbetaling, verme
 
 ### ART. 2.2.6.0.6.
 
-Op voertuigen die uitsluitend aangedreven worden door een elektrische   motor of waterstof wordt geen belasting geheven.<BR><BR>Dit artikel is alleen   van toepassing op wegvoertuigen van natuurlijke personen en andere   rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen   zonder winstgevend doel, met leasingactiviteiten.
+Op voertuigen die uitsluitend aangedreven worden door een elektrische motor of waterstof wordt geen belasting geheven.<br>
+<br>
+Dit artikel is alleen van toepassing op wegvoertuigen, de lichte vrachtauto's, de lijkwagens, en de alleenrijdende trekkers, als het andere voertuigen zijn dan de voertuigen, vermeld in artikel 2.2.4.0.1, § 6, van natuurlijke personen en andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.
 
 ### ART. 2.2.6.0.7.
 
-Er wordt tot en met 31 december 2020 geen belasting geheven op:<BR>1°   voertuigen waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk,   aangedreven wordt met aardgas;<BR>2° plug-in hybride voertuigen met een maximale   CO<SUB>2</SUB>-uitstoot van 50 gram per kilometer.<BR><BR>Een plug-in hybride   voertuig is een voertuig dat aangedreven wordt door een elektrische motor en een   verbrandingsmotor waarvoor de energie geleverd wordt aan de elektrische motor   door batterijen die volledig opgeladen kunnen worden via een aansluiting aan een   externe energiebron buiten het voertuig.<BR><BR>Dit artikel is alleen van   toepassing op wegvoertuigen van natuurlijke personen en andere rechtspersonen   dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder   winstgevend doel, met leasingactiviteiten.
+Er wordt tot en met 31 december 2020 geen belasting geheven op:<br>
+1° voertuigen waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk, aangedreven wordt met aardgas;<br>
+2° plug-in hybride voertuigen met een maximale CO<sub>2</sub>-uitstoot van 50 gram per kilometer.<br>
+<br>
+Een plug-in hybride voertuig is een voertuig dat aangedreven wordt door een elektrische motor en een verbrandingsmotor waarvoor de energie geleverd wordt aan de elektrische motor door batterijen die volledig opgeladen kunnen worden via een aansluiting aan een externe energiebron buiten het voertuig.<br>
+<br>
+Het eerste lid, 1°, is alleen van toepassing op de volgende voertuigen van natuurlijke personen en andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten:<br>
+1° de wegvoertuigen die vóór 1 juli 2017 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid;<br>
+2° de wegvoertuigen die na 30 juni 2017 worden ingeschreven in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid en waarvan het belastbaar vermogen 11 fiscale paardenkracht niet te boven gaat;<br>
+3° de lichte vrachtauto's, de lijkwagens, en de alleenrijdende trekkers, als het andere voertuigen zijn dan de voertuigen, vermeld in artikel 2.2.4.0.1, § 6.<br>
+<br>
+Het eerste lid, 2°, is alleen van toepassing op de wegvoertuigen, de lichte vrachtauto's, de lijkwagens, en de alleenrijdende trekkers als het andere voertuigen zijn dan de voertuigen vermeld in artikel 2.2.4.0.1, § 6, van natuurlijke personen en andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.
 
 ## Afdeling 7 Wijze van heffing
 
@@ -1423,7 +1581,12 @@ De belasting op de personenauto's, auto's voor dubbel gebruik en de   minibussen
 
 ### ART. 2.3.4.1.3.
 
-De belasting bedraagt nooit minder dan 41,99 euro en nooit meer dan   10.497,70 euro. In afwijking van artikel 2.3.4.1.2 bedraagt de belasting op   wegvoertuigen die een eerste keer in het verkeer zijn gesteld 25 jaar geleden of   eerder 41,99 euro.<BR>
+De belasting bedraagt nooit minder dan 41,99 euro en nooit meer dan 10.497,70 euro. In afwijking van artikel 2.3.4.1.2 bedraagt de belasting 41,99 euro voor de wegvoertuigen die een eerste keer in het verkeer zijn gesteld 30 jaar geleden of eerder en voor de wegvoertuigen die voldoen aan een van de volgende voorwaarden:<br>
+1° in aanslagjaar 2017 sedert meer dan vijfentwintig jaar in het verkeer zijn gebracht;<br>
+2° in aanslagjaar 2018 sedert meer dan zesentwintig jaar in het verkeer zijn gebracht;<br>
+3° in aanslagjaar 2019 sedert meer dan zevenentwintig jaar in het verkeer zijn gebracht;<br>
+4° in aanslagjaar 2020 sedert meer dan achtentwintig jaar in het verkeer zijn gebracht;<br>
+5° in aanslagjaar 2021 sedert meer dan negenentwintig jaar in het verkeer zijn gebracht.
 
 ### ART. 2.3.4.1.4.
 
@@ -1467,7 +1630,11 @@ Overeenkomstig artikel 107 van het federale Wetboek van 23 november 1965   van d
 
 ### ART. 2.3.5.0.1.
 
-Voorbehouden voor toekomstig gebruik.<BR>
+Voor voertuigen waarvan het belastbaar vermogen 11 fiscale paardenkracht te boven gaat en waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk, aangedreven wordt met aardgas, wordt de belasting verminderd met vierduizend euro, in voorkomend geval beperkt tot het bedrag van de belasting als berekend overeenkomstig artikel 2.3.4.1.2 tot en met 2.3.4.1.4, maar zonder toepassing van de minimumbelasting, vermeld in artikel 2.3.4.1.3.<br>
+<br>
+Dit artikel is alleen van toepassing op de wegvoertuigen, vermeld in artikel 2.3.4.1.1.<br>
+<br>
+De vermindering, vermeld in het eerste lid, wordt toegekend tot en met 31 december 2020.
 
 ## Afdeling 6 Vrijstellingen
 
@@ -1502,7 +1669,13 @@ In het eerste lid wordt verstaan onder op afstand bestuurde luchtvaartuigsysteme
 
 ### ART. 2.3.6.0.3.
 
-Er wordt tot en met 31 december 2020 geen belasting geheven op:<BR>1°   voertuigen waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk,   aangedreven wordt met aardgas;<BR>2° plug-in hybride voertuigen met een maximale   CO<SUB>2</SUB>-uitstoot van 50 gram per kilometer.<BR><BR>Een plug-in hybride   voertuig is een voertuig dat aangedreven wordt door een elektrische motor en een   verbrandingsmotor waarvoor de energie geleverd wordt aan de elektrische motor   door batterijen die volledig opgeladen kunnen worden via een aansluiting aan een   externe energiebron buiten het voertuig.<BR><BR>Dit artikel is alleen van   toepassing op de wegvoertuigen, vermeld in artikel 2.3.4.1.1.
+Er wordt tot en met 31 december 2020 geen belasting geheven op:<br>
+1° voertuigen&nbsp;waarvan het belastbaar vermogen 11 fiscale paardenkracht niet te boven gaat en waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk, aangedreven wordt met aardgas;<br>
+2° plug-in hybride voertuigen met een maximale CO<sub>2</sub>-uitstoot van 50 gram per kilometer.<br>
+<br>
+Een plug-in hybride voertuig is een voertuig dat aangedreven wordt door een elektrische motor en een verbrandingsmotor waarvoor de energie geleverd wordt aan de elektrische motor door batterijen die volledig opgeladen kunnen worden via een aansluiting aan een externe energiebron buiten het voertuig.<br>
+<br>
+Dit artikel is alleen van toepassing op de wegvoertuigen, vermeld in artikel 2.3.4.1.1.
 
 ## Afdeling 7 Wijze van heffing
 
@@ -1661,7 +1834,7 @@ De Vlaamse Regering wordt ertoe gemachtigd om de wegenlijst in bijlage 2, vermel
 1° naamswijzigingen van de erin opgenomen wegen;<br>
 2° wijzigingen van de categorisering van de erin opgenomen wegen.<br>
 <br>
-De bedragen, vermeld in het eerste lid, worden met ingang van 1 juli 2017 op 1 juli van elk jaar geïndexeerd met behulp van de coëfficiënt die wordt verkregen door het algemene indexcijfer van de consumptieprijzen van het Rijk, voor de maand mei van het lopende jaar te delen door het algemene indexcijfer van de consumptieprijzen van het Rijk voor de maand mei van het jaar 2016. Daarbij worden de volgende afrondingen toegepast :<br>
+Het tarief Tz, vermeld in het eerste lid, wordt&nbsp;met ingang van 1 juli 2017 op 1 juli van elk jaar geïndexeerd met behulp van de coëfficiënt die wordt verkregen door het algemene indexcijfer van de consumptieprijzen van het Rijk,&nbsp;voor de maand maart van het lopende jaar te delen door het algemene indexcijfer van de consumptieprijzen van het Rijk voor de maand mei van het jaar 2016. Daarbij worden de volgende afrondingen toegepast :<br>
 1° de coëfficiënt wordt afgerond op het hogere of lagere tienduizendste naargelang het cijfer van de honderdduizendsten al of niet vijf bereikt;<br>
 2° na de toepassing van de coëfficiënt wordt het verkregen bedrag afgerond op het hogere of lagere tiende van een eurocent naargelang het cijfer van het honderdste van de eurocent al dan niet vijf bereikt.<br>
 <br>
@@ -4653,7 +4826,7 @@ Voor de kilometerheffing kan slechts één administratieve geldboete van 1000 eu
 <br>
 Er wordt geen administratieve geldboete opgelegd voor iedere overtreding die werd begaan binnen een ononderbroken tijdvak van drie uren vanaf de vaststelling van een andere overtreding op de bepalingen van deze codex en de uitvoeringsbesluiten ervan of van de wetgeving van het Brusselse Hoofdstedelijke Gewest of het Waalse Gewest met betrekking tot de kilometerheffing, in zoverre de betrokken overtredingen werden begaan met hetzelfde voertuig en in zoverre een administratieve geldboete werd opgelegd voor de eerst begane overtreding.<br>
 <br>
-De administratieve geldboete, vermeld in het derde lid, wordt met ingang van 1 juli 2017 op 1 juli van elk jaar geïndexeerd met behulp van de coëfficiënt die wordt verkregen door het algemene indexcijfer van de consumptieprijzen van het Rijk, voor de maand mei van het lopende jaar te delen door het algemene indexcijfer van de consumptieprijzen van het Rijk voor de maand mei van het jaar 2016. Daarbij worden de volgende afrondingen toegepast :<br>
+De administratieve geldboete, vermeld in het derde lid, wordt met ingang van 1 juli 2017 op 1 juli van elk jaar geïndexeerd met behulp van de coëfficiënt die wordt verkregen door het algemene indexcijfer van de consumptieprijzen van het Rijk, voor de maand maart van het lopende jaar te delen door het algemene indexcijfer van de consumptieprijzen van het Rijk voor de maand mei van het jaar 2016. Daarbij worden de volgende afrondingen toegepast :<br>
 1° de coëfficiënt wordt afgerond op het hogere of lagere tienduizendste naargelang het cijfer van de honderdduizendsten al of niet vijf bereikt;<br>
 2° na de toepassing van de coëfficiënt wordt het verkregen bedrag afgerond op de hogere of lagere euro naargelang het cijfer van het tiende al of niet vijf bereikt.<br>
 <br>
