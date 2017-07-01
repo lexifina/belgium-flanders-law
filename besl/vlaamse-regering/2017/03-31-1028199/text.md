@@ -135,7 +135,7 @@ Ieder jaar wordt geëvalueerd of de inspanningsverbintenissen conform de aanvraa
 <br>
 Het agentschap en het departement bespreken het resultaat van de evaluatie, vermeld in het eerste en tweede lid, met de betrokken organisator. Op basis van die bespreking en, in voorkomend geval, op basis van de bevindingen van Zorginspectie kan het agentschap, in voorkomend geval, gebruikmaken van een van de handhavingsinstrumenten, vermeld in artikel 76 tot en met 80 van het besluit van 28 maart 2014.<br>
 <br>
-In het derde lid wordt verstaan onder Zorginspectie: het agentschap, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Zorginspectie.
+In het derde lid wordt verstaan onder Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
 
 ## HOOFDSTUK 4 Procedures voor de subsidiëring
 
