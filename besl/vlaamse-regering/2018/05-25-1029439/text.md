@@ -1,0 +1,41 @@
+# Besluit van de Vlaamse Regering van 2018-05-25 tot wijziging van het besluit van de Vlaamse Regering van 12 mei 2017 tot uitvoering van het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest, wat betreft het maximaal aantal gesubsidieerde sluitingsdagen en de overgangsbepalingen
+
+### Aanhef
+
+<br>
+De Vlaamse Regering,<br>
+<br>
+Gelet op het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest, artikel 6, tweede lid, en artikel 9, derde lid;<br>
+<br>
+Gelet op het besluit van de Vlaamse Regering van 12 mei 2017 tot uitvoering van het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest;<br>
+<br>
+Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 27 maart 2018;<br>
+<br>
+Gelet op advies 63.374/1 van de Raad van State, gegeven op 4 mei 2018, met toepassing van artikel 84, § 1, eerste lid, 2°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br>
+<br>
+Overwegende verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun;<br>
+<br>
+Op voorstel van de Vlaamse minister van Werk, Economie, Innovatie en Sport;<br>
+<br>
+Na beraadslaging,<br>
+<br>
+Besluit :
+
+### ART 1.
+
+In artikel 17 van het besluit van de Vlaamse Regering van 12 mei 2017 tot uitvoering van het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest wordt het eerste lid vervangen door wat volgt:<br>
+"Hinderpremie B wordt per onderneming maximaal voor de duur van de hinderperiode toegekend.".
+
+### ART 2.
+
+In artikel 34, eerste lid, van het besluit van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 24 november 2017, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "die ingediend zijn vóór 1 januari 2018 en" wordt opgeheven;<br>
+2° de zin "De subsidiabele duurtijd van de openbare werken of de subsidiabele sluitingsperiode kan in dat geval maximaal zes maanden na de inwerkingtreding van dit besluit lopen." wordt opgeheven.
+
+### ART 3.
+
+Dit besluit heeft uitwerking met ingang van 1 juli 2017.
+
+### ART 4.
+
+De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van dit besluit.
