@@ -19,6 +19,15 @@ Na beraadslaging,<br>
 Besluit :<br>
 &nbsp;
 
+### ART 1.
+
+Aan artikel 3.2.18 van het Energiebesluit van 19 november 2010, ingevoegd bij het besluit van de Vlaamse Regering van 15 juli 2016, worden de volgende wijzigingen aangebracht:<br>
+1° er wordt in het eerste lid een punt 12° toegevoegd, dat luidt als volgt:<br>
+"12° vermeldt op de afrekenings- en slotfactuur duidelijk de precieze vergoeding die de afnemer van elektriciteit verschuldigd is, de heffingsgrondslag en de berekeningswijze van de heffing, vermeld in titel XIV van het Energiedecreet van 8 mei 2009.";<br>
+2° tussen het tweede en derde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"De minister kan nadere regels vastleggen aangaande de vermelding van de berekeningswijze, vermeld in het eerste lid, 12°, op de afrekenings- en slotfactuur.".<br>
+&nbsp;
+
 ### ART 2.
 
 In artikel 7.8.1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 8 januari 2016 en gewijzigd bij het besluit van de Vlaamse Regering van 15 juli 2016, worden de volgende wijzigingen aangebracht:<br>
