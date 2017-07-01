@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028136,
+  "title": "Decreet van 2017-03-10 houdende wijziging van het decreet van 20 december 1996 tot regeling van de rol van de lokale adviescommissie in het kader van het recht op minimumlevering van elektriciteit, gas en water en van het Energiedecreet van 8 mei 2009, wat betreft de invoering van een regulerend kader voor warmte- of koudenetten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028136/VolledigDocument?datum=2017-07-01",
+  "source_sha256": "c94d2803c407ea8acb613e8980bf8d01ddbf8924f533a4ccb74f90f9ba0222ea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028136&param=informatie",
+  "as_of": "2017-07-01",
+  "made": "2017-03-10",
+  "gazette": "2017-04-13",
+  "numac": 2017020336,
+  "document_start": "2019-04-01",
+  "document_end": null,
+  "in_force": "2017-07-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2017-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
