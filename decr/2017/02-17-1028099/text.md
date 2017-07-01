@@ -130,6 +130,20 @@ In artikel 11.1.7 van hetzelfde decreet, vervangen bij het decreet van 18 novemb
 " § 3. De verslaggever stelt vanaf zijn aanstelling tot bij de indiening van de EPB-aangifte een technisch EPB-dossier samen. Het technisch EPB-dossier geeft een overzicht van de tijdens de werken genomen maatregelen met de bijhorende bewijsstukken. Op basis van het technisch EPB-dossier stelt de verslaggever de uiteindelijke EPB-aangifte op.<br>
 Het technisch EPB-dossier kan volledig in elektronisch formaat zijn. Het wordt vijf jaar bewaard door de verslaggever en kan opgevraagd worden door het Vlaams Energieagentschap.".
 
+### ART 15.
+
+Aan artikel 11.1.9 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 24 april 2014, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1 worden een derde lid en een vierde lid toegevoegd, die luiden als volgt:<br>
+"Als de aangifteplicht wordt overgedragen als vermeld in het tweede lid, wordt in het kader van de overdracht een tussentijds verslag opgesteld dat opgemaakt is door de verslaggever die door de oorspronkelijke aangifteplichtige is aangesteld, en dat is ondertekend door de verslaggever, de oorspronkelijke aangifteplichtige en de nieuwe aangifteplichtige, en waarin alle maatregelen die uitgevoerd zijn of die uitgevoerd moeten worden om aan de EPB-eisen te voldoen, worden opgesomd, en waarin wordt vermeld wie voor de uitvoering van de verschillende maatregelen zal instaan. De oorspronkelijke aangifteplichtige stelt na de beëindiging van de werken waarvoor hij instaat, de nodige gegevens van de door hem of in zijn opdracht uitgevoerde werken, ter beschikking van de aangifteplichtige met het oog op het opstellen van de definitieve EPB-aangifte.<br>
+De Vlaamse Regering kan nadere regels bepalen voor de vaststelling van de vorm en de inhoud van het tussentijdse verslag, vermeld in het derde lid.";<br>
+2° paragraaf 2 wordt vervangen door wat volgt:<br>
+" § 2. In afwijking van paragraaf 1 is bij een overeenkomst tussen een promotor-bouwheer en een natuurlijke persoon of een rechtspersoon, en die tot doel heeft een gebouw te verkopen, te bouwen of te verbouwen, de promotor-bouwheer altijd de aangifteplichtige, tenzij aan de volgende drie voorwaarden is voldaan:<br>
+1° in de authentieke akte wordt vermeld dat de aangifteplicht wordt overgedragen en aan wie;<br>
+2° bij de authentieke akte wordt een tussentijds verslag gevoegd dat opgemaakt is door de verslaggever die door de promotor-bouwheer is aangesteld, en dat is ondertekend door de verslaggever, de promotor-bouwheer en de nieuwe aangifteplichtige. In het tussentijdse verslag worden alle maatregelen die uitgevoerd zijn of die uitgevoerd moeten worden om aan de EPB-eisen te voldoen, opgesomd en wordt vermeld wie voor de uitvoering van de verschillende maatregelen zal instaan;<br>
+3° de promotor-bouwheer stelt na de beëindiging van de werken de nodige gegevens van de door hem of in zijn opdracht uitgevoerde werken, ter beschikking van de aangifteplichtige met het oog op het opstellen van de definitieve EPB-aangifte.<br>
+Het eerste lid is ook van toepassing op elke overeenkomst waarbij de Woningbouwwet van toepassing is of contractueel van toepassing is gemaakt.<br>
+De Vlaamse Regering kan nadere regels bepalen met betrekking tot de vaststelling van de vorm en de inhoud van het tussentijdse verslag, vermeld in het eerste lid, 2°. ".
+
 ### ART 16.
 
 In artikel 11.1.11 van hetzelfde decreet, gewijzigd bij het decreet van 18 december 2015, worden de volgende wijzigingen aangebracht:<br>

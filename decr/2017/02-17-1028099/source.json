@@ -2,16 +2,16 @@
   "codex_id": 1028099,
   "title": "Decreet van 2017-02-17 houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft de energieprestaties van gebouwen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028099/VolledigDocument?datum=2017-03-30",
-  "source_sha256": "9b4cec80207a9b639806d780e3e09f73b198ff0c8e49f9b1617c8d68734e427e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028099/VolledigDocument?datum=2017-07-01",
+  "source_sha256": "24214617c8e86cc3fb96d25e7101b8ca948742c9bb611078df8a3a7f5b2dd027",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028099&param=informatie",
-  "as_of": "2017-03-30",
+  "as_of": "2017-07-01",
   "made": "2017-02-17",
   "gazette": "2017-03-30",
   "numac": 2017011332,
   "document_start": "2017-03-30",
   "document_end": null,
-  "in_force": "2017-03-30",
-  "article_versions": 31,
-  "record_form": "consolidated version as in force on 2017-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2017-07-01",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2017-07-01; future article versions excluded; article text as the API gives it"
 }
