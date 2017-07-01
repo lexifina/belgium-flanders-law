@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028870,
+  "title": "Besluit van de Vlaamse Regering van 2017-11-24 tot wijziging van het besluit van de Vlaamse Regering van 12 mei 2017 tot uitvoering van het decreet van 15 juli 2016 houdende toekenning van een hinderpremie aan kleine ondernemingen die ernstige hinder ondervinden van openbare werken in het Vlaamse Gewest, wat betreft de overgangsbepalingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028870/VolledigDocument?datum=2017-07-01",
+  "source_sha256": "1f76f04aca34a87405ebdfa621f176a5a8f0319c1b90c8d63bfbd5b2659d067a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028870&param=informatie",
+  "as_of": "2017-07-01",
+  "made": "2017-11-24",
+  "gazette": "2018-01-12",
+  "numac": 2017031951,
+  "document_start": "2017-07-01",
+  "document_end": null,
+  "in_force": "2017-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
