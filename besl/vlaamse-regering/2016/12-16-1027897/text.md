@@ -290,6 +290,38 @@ In artikel 2.2.4.5.1 van hetzelfde besluit worden de woorden ", de geluidsplanni
 In artikel 2.2.4.6.1, 4°, van hetzelfde besluit, wordt het woord "milieukwaliteitsnormen" vervangen door het woord "drempelwaarden".<br>
 &nbsp;
 
+### ART 12.
+
+Aan afdeling 4.4.8 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 18 maart 2016, wordt een artikel 4.4.8.4 toegevoegd, dat luidt als volgt:<br>
+"Art. 4.4.8.4. De volgende werkzaamheden aan koeleenheden op koelwagens en koelaanhangwagens die gefluoreerde broeikasgassen bevatten, mogen alleen uitgevoerd worden door een erkende koeltechnicus als vermeld in artikel 6, 2°, e), van het VLAREL, die in het bezit is van een certificaat van de overeenkomstige categorie:<br>
+1° installatie, onderhoud, reparatie en buitendienststelling;<br>
+2° controles op lekkage van koeleenheden op koelwagens en koelaanhangwagens als vermeld in artikel 4 van verordening (EU) nr. 517/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van Verordening (EG) nr. 842/2006;<br>
+3° terugwinning van gefluoreerde broeikasgassen.<br>
+<br>
+Het eerste lid is niet van toepassing op een persoon die in het bezit is van een inschrijvingsbewijs voor een opleiding om het certificaat te behalen voor de betreffende categorie, vermeld in artikel 17/1, 2°, van het VLAREL, op voorwaarde dat hij de werkzaamheden uitvoert onder toezicht van een erkende koeltechnicus die houder is van een certificaat van de betreffende categorie en die de volledige verantwoordelijkheid draagt voor de correcte uitvoering van de werkzaamheden. Deze vrijstelling van erkenningsverplichting is gedurende maximaal twee jaar, te rekenen vanaf de datum van inschrijving voor de opleiding, toegestaan en vervalt indien de persoon een erkenning als koeltechnicus voor de desbetreffende categorie als vermeld in artikel 6, 2°, e), van het VLAREL behaalt. De betrokkene legt op verzoek van de bevoegde toezichthouder een bewijs van inschrijving voor.<br>
+<br>
+Het eerste lid is niet van toepassing op een persoon die voldoet aan de voorwaarde, vermeld in artikel 3, lid 3, van de uitvoeringsverordening (EU) 2015/2067 van de Commissie van 17 november 2015 tot vaststelling, ingevolge Verordening (EU) nr. 517/2014 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van natuurlijke personen betreffende stationaire koel-, klimaatregelings- en warmtepompapparatuur en koeleenheden op koelwagens en koelaanhangwagens die gefluoreerde broeikasgassen bevatten, en voor de certificering van bedrijven betreffende stationaire koel-, klimaatregelings- en warmtepompapparatuur die gefluoreerde broeikasgassen bevat.<br>
+<br>
+Het eerste lid is eveneens niet van toepassing op fabricage- en reparatieactiviteiten op vestigingsplaatsen van de fabrikant voor koeleenheden op koelwagens en koelaanhangwagens die gefluoreerde broeikasgassen bevatten.".<br>
+&nbsp;
+
+### ART 13.
+
+Aan hoofdstuk 6.8 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 18 maart 2016, wordt een afdeling 6.8.6 die bestaat uit artikel 6.8.6.1 toegevoegd, die luidt als volgt:<br>
+"Afdeling 6.8.6. - Niet-ingedeelde koeleenheden op koelwagens en koelaanhangwagens<br>
+<br>
+Art. 6.8.6.1. De volgende werkzaamheden aan koeleenheden op koelwagens en koelaanhangwagens die gefluoreerde broeikasgassen bevatten mogen alleen uitgevoerd worden door een erkende koeltechnicus als vermeld in artikel 6, 2°, e), van het VLAREL, die in het bezit is van een certificaat van de overeenkomstige categorie:<br>
+1° installatie, onderhoud, reparatie en buitendienststelling;<br>
+2° controles op lekkage van koeleenheden op koelwagens en koelaanhangwagens als vermeld in artikel 4 van verordening (EU) nr. 517/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van Verordening (EG) nr. 842/2006;<br>
+3° terugwinning van gefluoreerde broeikasgassen.<br>
+<br>
+Het eerste lid is niet van toepassing op een persoon die in het bezit is van een inschrijvingsbewijs voor een opleiding om het certificaat te behalen voor de betreffende categorie, vermeld in artikel 17/1, 2°, van het VLAREL, op voorwaarde dat hij de werkzaamheden uitvoert onder toezicht van een erkende koeltechnicus die houder is van een certificaat van de betreffende categorie en die de volledige verantwoordelijkheid draagt voor de correcte uitvoering van de werkzaamheden. Deze vrijstelling van erkenningsverplichting is gedurende maximaal twee jaar, te rekenen vanaf de datum van inschrijving voor de opleiding, toegestaan en vervalt indien de persoon een erkenning als koeltechnicus voor de desbetreffende categorie als vermeld in artikel 6, 2°, e), van het VLAREL behaalt. De betrokkene legt op verzoek van de bevoegde toezichthouder een bewijs van inschrijving voor.<br>
+<br>
+Het eerste lid is niet van toepassing op een persoon die voldoet aan de voorwaarde, vermeld in artikel 3, lid 3, van de uitvoeringsverordening (EU) 2015/2067 van de Commissie van 17 november 2015 tot vaststelling, ingevolge Verordening (EU) nr. 517/2014 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van natuurlijke personen betreffende stationaire koel-, klimaatregelings- en warmtepompapparatuur en koeleenheden op koelwagens en koelaanhangwagens die gefluoreerde broeikasgassen bevatten, en voor de certificering van bedrijven betreffende stationaire koel-, klimaatregelings- en warmtepompapparatuur die gefluoreerde broeikasgassen bevat.<br>
+<br>
+Het eerste lid is eveneens niet van toepassing op fabricage- en reparatieactiviteiten op vestigingsplaatsen van de fabrikant voor koeleenheden op koelwagens en koelaanhangwagens die gefluoreerde broeikasgassen bevatten.".<br>
+&nbsp;
+
 ### ART 14.
 
 In bijlage 2.2.4.1 van hetzelfde besluit wordt het woord "milieukwaliteitsnormen" vervangen door het woord "drempelwaarden".<br>
@@ -551,7 +583,104 @@ De referentiemethode voor de bepaling van de depositie van benzo(a)pyreen en de 
 
 ## HOOFDSTUK 2 Wijzigingen van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid
 
+### ART 24.
+
+In bijlage XXIII van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, vervangen bij het besluit van de Vlaamse Regering van 18 maart 2016, worden in het punt "Bijzondere gebruikseisen voor technici" na de rij
+<table style="text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: times new roman; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px;" border="1">
+	<tbody>
+		<tr>
+			<td>40/1, 7°</td>
+			<td>De erkende koeltechnicus, vermeld in artikel 6, 2°, e):<br>
+			7° beschikt over een vertaling van zijn certificaat van categorie I, II, III of IV naar het Nederlands, Frans, Duits of Engels als het certificaat in een andere taal dan in een van die talen werd afgegeven;</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">de volgende rijen ingevoegd:</span>
+
+<table style="text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: times new roman; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px;" border="1">
+	<tbody>
+		<tr>
+			<td>40/1, 8°</td>
+			<td>De erkende koeltechnicus, vermeld in artikel 6, 2°, e):<br>
+			8° bezorgt een afschrift van de volgende registraties aan de eigenaar of beheerder van de koelwagen of koelaanhangwagen die een koeleenheid met gefluoreerde broeikasgassen bevat:<br>
+			a) bij de initiële installatie of een aanpassing van de koeleenheid waardoor de nominale koelmiddelinhoud of het type koelmiddel wijzigt:<br>
+			1) de nominale koelmiddelinhoud, uitgedrukt in metrische eenheid en eveneens in ton CO<sup>2</sup>-equivalent;<br>
+			2) het type koelmiddel;<br>
+			3) indien bij de koeleenheid gerecycleerde of geregenereerde gefluoreerde broeikasgassen gebruikt worden: de vermelding hiervan en de naam en het adres van het recyclage- of regeneratiebedrijf;<br>
+			4) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de initiële installatie of de aanpassing van de koeleenheid uitgevoerd heeft;<br>
+			b) als gefluoreerde broeikasgassen werden bijgevuld of afgetapt:<br>
+			1) het type koelmiddel;<br>
+			2) de hoeveelheid, uitgedrukt in metrische eenheid;<br>
+			3) de datum van bijvulling of aftapping;<br>
+			4) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de bijvulling of aftapping uitgevoerd heeft;<br>
+			c) als lekkagecontroles als vermeld in artikel 4 van verordening nr. 517/2014 uitgevoerd worden:<br>
+			1) de datum van de lekkagecontrole;<br>
+			2) een beschrijving en de resultaten van de uitgevoerde controles;<br>
+			3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de lekkagecontrole uitgevoerd heeft;<br>
+			d) de nominale koelmiddelinhoud van de koelinstallatie, uitgedrukt in metrische eenheid, en eveneens in ton CO<sup>2</sup>-equivalent, als die niet gekend is;<br>
+			e) bij een buitendienststelling:<br>
+			1) de datum van de buitendienststelling;<br>
+			2) de maatregelen die genomen zijn om de gefluoreerde broeikasgassen terug te winnen en te verwijderen;<br>
+			3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de installatie buiten dienst gesteld heeft;</td>
+		</tr>
+		<tr>
+			<td>40/1, 9°</td>
+			<td>De erkende koeltechnicus, vermeld in artikel 6, 2°, e):<br>
+			9° houdt de registraties als vermeld in punt 8° ten minste vijf jaar bij.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
+
 ## HOOFDSTUK 3 Wijzigingen van het VLAREL
+
+### ART 25.
+
+Aan artikel 4, § 1, van het VLAREL, gewijzigd bij de besluiten van de Vlaamse Regering van 1 maart 2013, 16 mei 2014 en 18 maart 2016, worden een punt 67° en een punt 68° toegevoegd, die luiden als volgt:<br>
+"67° koelwagen: een motorvoertuig met een gewicht van meer dan 3,5 ton dat primair bestemd en gebouwd is om goederen te vervoeren en dat met een koeleenheid is uitgerust;<br>
+68° koelaanhangwagen: een voertuig dat bestemd en gebouwd is om door een vrachtwagen of een trekker te worden gesleept, primair om goederen te vervoeren en dat met een koeleenheid is uitgerust."
+
+### ART 26.
+
+In artikel 6, 2°, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 1 maart 2013, 16 mei 2014 en 18 maart 2016, wordt punt e) vervangen door wat volgt:<br>
+"e) koeltechnicus van categorie I, II, III of IV als vermeld in artikel 4.4.8.4, artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, artikel 6.8.1.1 of artikel 6.8.6.1 van titel II van het VLAREM;".
+
+### ART 27.
+
+In artikel 40/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 18 maart 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° worden na de woorden "aan stationaire koelinstallaties met zowel gefluoreerde broeikasgassen als ozonlaagafbrekende stoffen" de woorden "of aan koeleenheden op koelwagens en koelaanhangwagens die gefluoreerde broeikasgassen bevatten" toegevoegd;<br>
+2° er worden een punt 8° en een punt 9° toegevoegd, die luiden als volgt:<br>
+"8° bezorgt een afschrift van de volgende registraties aan de eigenaar of beheerder van de koelwagen of koelaanhangwagen die een koeleenheid met gefluoreerde broeikasgassen bevat:<br>
+a) bij de initiële installatie of een aanpassing van de koeleenheid waardoor de nominale koelmiddelinhoud of het type koelmiddel wijzigt:<br>
+1) de nominale koelmiddelinhoud, uitgedrukt in metrische eenheid en eveneens in ton CO2-equivalent;<br>
+2) het type koelmiddel;<br>
+3) indien bij de koeleenheid gerecycleerde of geregenereerde gefluoreerde broeikasgassen gebruikt worden: de vermelding hiervan en de naam en het adres van het recyclage- of regeneratiebedrijf;<br>
+4) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de initiële installatie of de aanpassing van de koeleenheid uitgevoerd heeft;<br>
+b) als gefluoreerde broeikasgassen werden bijgevuld of afgetapt:<br>
+1) het type koelmiddel;<br>
+2) de hoeveelheid, uitgedrukt in metrische eenheid;<br>
+3) de datum van bijvulling of aftapping;<br>
+4) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de bijvulling of aftapping uitgevoerd heeft;<br>
+c) als lekkagecontroles als vermeld in artikel 4 van verordening nr. 517/2014 uitgevoerd worden:<br>
+1) de datum van de lekkagecontrole;<br>
+2) een beschrijving en de resultaten van de uitgevoerde controles;<br>
+3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de lekkagecontrole uitgevoerd heeft;<br>
+d) de nominale koelmiddelinhoud van de koelinstallatie, uitgedrukt in metrische eenheid, en eveneens in ton CO2-equivalent, als die niet gekend is;<br>
+e) bij een buitendienststelling:<br>
+1) de datum van de buitendienststelling;<br>
+2) de maatregelen die genomen zijn om de gefluoreerde broeikasgassen terug te winnen en te verwijderen;<br>
+3) de voor- en achternaam en het erkenningsnummer van de koeltechnicus die de installatie buiten dienst gesteld heeft;<br>
+9° houdt de registraties als vermeld in punt 8° ten minste vijf jaar bij.".<br>
+&nbsp;
+
+### ART 28.
+
+In artikel 58/1, § 4, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 18 maart 2016, worden de volgende wijzigingen aangebracht:<br>
+1° tussen de woorden "een koelinstallatie" en de woorden "die door een erkende koeltechnicus" worden de woorden "of een koeleenheid op koelwagens en koelaanhangwagens" ingevoegd;<br>
+2° de zinsnede "artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, of artikel 6.8.1.1" wordt vervangen door de zinsnede "artikel 4.4.8.4, artikel 5.2.2.5.2, § 9, artikel 5.16.3.3, § 1bis, artikel 5bis.15.5.4.5.4, § 1, artikel 5bis.19.8.4.8.4, § 1, artikel 6.8.1.1 of artikel 6.8.6.1 van titel II van het VLAREM".<br>
+&nbsp;
 
 ## HOOFDSTUK 4 Overgangs- en Slotbepalingen
 

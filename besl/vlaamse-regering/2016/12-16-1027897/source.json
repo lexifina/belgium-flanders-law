@@ -2,16 +2,16 @@
   "codex_id": 1027897,
   "title": "Besluit van de Vlaamse Regering van 2016-12-16 tot wijziging van diverse besluiten inzake leefmilieu",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027897/VolledigDocument?datum=2017-02-27",
-  "source_sha256": "228e1fcc69548fffbf1195d25dd729c652bd3eb4d516fbdf894515568f0e61e0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027897/VolledigDocument?datum=2017-07-01",
+  "source_sha256": "6368b77824ee7200dd34a11ebb906ed21c9eb354e7d8de19f20a70881b84317d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027897&param=informatie",
-  "as_of": "2017-02-27",
+  "as_of": "2017-07-01",
   "made": "2016-12-16",
   "gazette": "2017-02-17",
   "numac": 2017020161,
   "document_start": "2017-02-27",
   "document_end": null,
-  "in_force": "2017-02-27",
-  "article_versions": 26,
-  "record_form": "consolidated version as in force on 2017-02-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2017-07-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2017-07-01; future article versions excluded; article text as the API gives it"
 }
