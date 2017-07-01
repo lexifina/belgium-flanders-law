@@ -6,9 +6,33 @@
 
 ## Afdeling 1 Avenant en nieuwe overeenkomst tussen het RIZIV en VAZG
 
+### ART 2.
+
+In artikel 2 van het decreet van 7 juli 1998 houdende bepalingen tot begeleiding van de aanpassing van de begroting 1998, vervangen bij het decreet van 19 december 2003 en gewijzigd bij het decreet van 8 juli 2011, 21 december 2012, 19 december 2014, 18 december 2015 en 8 juli 2016, worden volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt de zinsnede "en voor de uitvoering van het protocolakkoord van 5 februari 2016 tussen de federale overheid en de Vlaamse Gemeenschap betreffende de aankoop van vaccins voor vaccinatie van asielzoekers," vervangen door de zinsnede ", voor de uitvoering van het protocolakkoord van 5 februari 2016 tussen de federale overheid en de Vlaamse Gemeenschap betreffende de aankoop van vaccins voor vaccinatie van asielzoekers, voor de uitvoering van het avenant van 16 januari 2017 bij de overeenkomst (1 augustus 2015 - 31 december 2017) van 13 oktober 2015 tussen het Comité van de verzekering voor Geneeskundige Verzorging, ingesteld bij de dienst voor Geneeskundige Verzorging van het RIZIV, en het Agentschap Zorg en Gezondheid, en voor de uitvoering van de overeenkomst (1 juli 2017 - 31 december 2018) van 27 januari 2017 tussen het Comité van de verzekering voor Geneeskundige Verzorging, ingesteld bij de dienst voor Geneeskundige Verzorging van het RIZIV, en het Agentschap Zorg en Gezondheid,";<br>
+2° in paragraaf 2/3 worden de woorden "een overeenkomst" vervangen door de zinsnede "de overeenkomst (1 augustus 2015 - 31 juli 2016) van 13 oktober 2015";<br>
+3° er wordt een paragraaf 2/5 ingevoegd, die luidt als volgt:<br>
+" § 2/5. Het Fonds wordt gespijsd met middelen die in uitvoering van het avenant van 16 januari 2017 bij de overeenkomst (1 augustus 2015 - 31 december 2017) van 13 oktober 2015 tussen het Comité van de verzekering voor Geneeskundige Verzorging, ingesteld bij de dienst voor Geneeskundige Verzorging van het RIZIV, en het Agentschap Zorg en Gezondheid worden uitbetaald.";<br>
+4° er wordt een paragraaf 2/6 ingevoegd, die luidt als volgt:<br>
+" § 2/6. Het Fonds wordt gespijsd met middelen die in de uitvoering van de overeenkomst (1 juli 2017 - 31 december 2018) van 27 januari 2017 tussen het Comité van de verzekering voor Geneeskundige Verzorging, ingesteld bij de dienst voor Geneeskundige Verzorging van het RIZIV, en het Agentschap Zorg en Gezondheid worden uitbetaald.";<br>
+5° er wordt een paragraaf 3/5 ingevoegd, die luidt als volgt:<br>
+" § 3/5. Ten laste van dit Fonds worden alle soorten uitgaven die gedaan worden door het Agentschap Zorg en Gezondheid aangerekend, voor zover die uitgaven verband houden met de uitvoering van het avenant van 16 januari 2017 bij de overeenkomst (1 augustus 2015 - 31 december 2017) van 13 oktober 2015 tussen het Comité van de verzekering voor Geneeskundige Verzorging, ingesteld bij de dienst voor Geneeskundige Verzorging van het RIZIV, en het Agentschap Zorg en Gezondheid.";<br>
+6° er wordt een paragraaf 3/6 ingevoegd, die luidt als volgt:<br>
+" § 3/6. Ten laste van dit Fonds worden alle soorten uitgaven die gedaan worden door het Agentschap Zorg en Gezondheid aangerekend, voor zover die uitgaven verband houden met de uitvoering van de overeenkomst (1 juli 2017 - 31 december 2018) van 27 januari 2017 tussen het Comité van de verzekering voor Geneeskundige Verzorging, ingesteld bij de dienst voor Geneeskundige Verzorging van het RIZIV, en het Agentschap Zorg en Gezondheid.".
+
 ## HOOFDSTUK 3 Mobiliteit en Openbare Werken
 
 ## Afdeling 1 Aanpassing indexatie heffing en boete kilometerheffing
+
+### ART 3.
+
+In artikel 2.4.4.0.2, derde lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, het laatst gewijzigd bij het decreet van 23 december 2016, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "De bedragen, vermeld in het eerste lid, worden", wordt vervangen door de zinsnede "Het tarief Tz, vermeld in het eerste lid, wordt";<br>
+2° de woorden "voor de maand mei van het lopende jaar" worden vervangen door de woorden "voor de maand maart van het lopende jaar".
+
+### ART 4.
+
+In artikel 3.18.0.0.1, § 4, vijfde lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, ingevoegd bij het decreet van 3 juli 2015, worden de woorden "voor de maand mei van het lopende jaar" vervangen door de woorden "voor de maand maart van het lopende jaar".
 
 ## Afdeling 2 Machtiging aan de Vlaamse Waterweg nv inzake borgstelling in DBFM-overeenkomsten
 
@@ -125,7 +149,53 @@ Deze bedragen zijn niet onderhevig aan de index zoals bedoeld in artikel 47.".
 
 ## Afdeling 1 Wijzigingen van het Jachtdecreet van 24 juli 1991
 
+### ART 11.
+
+In het Jachtdecreet van 24 juli 1991, het laatst gewijzigd bij het decreet van 18 december 2015, wordt een hoofdstuk IX/1 ingevoegd, dat luidt als volgt:<br>
+"Hoofdstuk IX/1. Het Jachtfonds".
+
+### ART 12.
+
+In hetzelfde decreet wordt in hoofdstuk IX/1, ingevoegd bij artikel 11, een artikel 32/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 32/1. Bij het Agentschap voor Natuur en Bos wordt een Jachtfonds ingesteld, dat kan worden aangewend om de volgende doelstellingen te realiseren:<br>
+1° het streven naar stabiele populaties van wildsoorten binnen hun leefgebieden;<br>
+2° sensibilisering met betrekking tot de inpassing van het wildbeheer in het bredere kader van natuurbehoud;<br>
+3° vastgestelde instandhoudingsdoelstellingen realiseren die een verbetering van de leefgebieden van wildsoorten met zich meebrengen;<br>
+4° de werking van de wildbeheereenheden bevorderen en ondersteunen;<br>
+5° de praktische organisatie van de jacht ondersteunen, namelijk de volgende aspecten:<br>
+a) jachtexamens organiseren;<br>
+b) een jachtverlof uitreiken;<br>
+c) een jachtvergunning uitreiken;<br>
+d) een plan als vermeld in artikel 7 van dit decreet, opmaken en indienen;<br>
+e) de dienstverlening aan de jachtsector bevorderen;<br>
+6° maatschappelijk onaanvaardbare schade en impact door jachtwild, invasieve uitheemse soorten en beschermde soorten voorkomen en inperken;<br>
+7° wetenschappelijk onderzoek in het kader van de doelstellingen, vermeld in punt 1° tot en met 6°, uitvoeren;<br>
+8° verscherping van het toezicht op de toepassing van de jachtreglementering.".
+
+### ART 13.
+
+&nbsp;In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 december 2015, wordt in hetzelfde hoofdstuk IX/1 een artikel 32/2 ingevoegd, dat luidt als volgt:<br>
+"Art. 32/2. Het Jachtfonds is een begrotingsfonds als vermeld in artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof. Het wordt gespijsd door:<br>
+1° de prijs van de jachtverloven en jachtvergunningen;<br>
+2° de opbrengst van de inschrijvingsgelden voor het jachtexamen.".
+
+### ART 14.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 december 2015, wordt in hetzelfde hoofdstuk IX/1 een artikel 32/3 ingevoegd, dat luidt als volgt:<br>
+"Art. 32/3. De Vlaamse Regering bepaalt nadere regels inzake de volgende aspecten:<br>
+1° wie instaat voor het beheer van het Jachtfonds;<br>
+2° de wijze waarop het aandeel van het Jachtfonds wordt bepaald dat wordt toebedeeld aan elk van de doelstellingen, vermeld in artikel 32/1;<br>
+3° het instellen van een Centraal Comité van het Jachtfonds, de samenstelling ervan, de werking ervan en de taken ervan;<br>
+4° de procedure waarmee de middelen uit het Jachtfonds kunnen worden aangewend voor de doelstellingen, vermeld in artikel 32/1.".
+
 ## Afdeling 2 Wijziging van het decreet van 23 december 2011 betreffende het duurzaam beheer van materialenkringlopen en afvalstoffen
+
+### ART 15.
+
+In artikel 46, § 1, 6°, b), van het decreet van 23 december 2011 betreffende het duurzaam beheer van materialenkringlopen en afvalstoffen worden de volgende zinnen toegevoegd:<br>
+"In afwijking hiervan geldt het heffingstarief van 0 euro per ton voor het storten op een daartoe vergunde stortplaats van afvalstoffen afkomstig van door de OVAM goedgekeurde Enhanced Landfill Mining-projecten die voldoen aan de volgende voorwaarden:<br>
+- het ELFM-project betreft een stortplaats;<br>
+- de afgraving en herontwikkeling is opgenomen in een bodemsaneringsproject of levert een grondstoffen-, energie- of ruimtewinst op.".
 
 ## HOOFDSTUK 8 Onderwijs en Vorming
 

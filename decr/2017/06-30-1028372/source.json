@@ -2,16 +2,16 @@
   "codex_id": 1028372,
   "title": "Decreet van 2017-06-30 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2017",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028372/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "e6dca9bc9b53881087ef423793fe27faef857c0e095abe8bbe71a2aadce04803",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028372/VolledigDocument?datum=2017-07-01",
+  "source_sha256": "0c8626858f5e8b33ae9f299de5982290fe2f00f5a9266041eb5daf0a0121928f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028372&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2017-07-01",
   "made": "2017-06-30",
   "gazette": "2017-07-03",
   "numac": 2017030415,
   "document_start": "2017-07-13",
   "document_end": null,
-  "in_force": "2017-04-01",
-  "article_versions": 13,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2017-07-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2017-07-01; future article versions excluded; article text as the API gives it"
 }
