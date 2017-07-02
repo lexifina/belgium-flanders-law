@@ -2,16 +2,16 @@
   "codex_id": 1026578,
   "title": "Ministerieel besluit van 2016-02-23 tot bepaling van de voorwaarden voor de toekenning van de subsidies [voor investeringen in terreinen voor woonwagenbewoners ter uitvoering van artikel 5.83, § 4, artikel 5.84, 5.88, eerste lid, artikel 5.89 van het Besluit Vlaamse Codex Wonen van 2021]",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026578/VolledigDocument?datum=2016-04-04",
-  "source_sha256": "8b4f7696afc95645acd9bd1c53a8687cbd4993a742cc3e033ed90e2f40ef7337",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026578/VolledigDocument?datum=2017-07-02",
+  "source_sha256": "28cae1b185b7280045800aab8c968c87bb4d253fa2da70fd3c4ff2079962b6e4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026578&param=informatie",
-  "as_of": "2016-04-04",
+  "as_of": "2017-07-02",
   "made": "2016-02-23",
   "gazette": "2016-03-25",
   "numac": 2016035282,
   "document_start": "2016-04-04",
   "document_end": null,
-  "in_force": "2016-04-04",
+  "in_force": "2017-07-02",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2016-04-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-07-02; future article versions excluded; article text as the API gives it"
 }
