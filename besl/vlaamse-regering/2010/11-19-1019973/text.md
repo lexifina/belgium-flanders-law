@@ -2049,7 +2049,26 @@ De technische opleiding verwarmingsaudit (installaties met totaal   geïnstallee
 
 ### Tekst
 
-<P>...</P>
+<p>§ 1. Het programma van de technische bijscholing inzake de verwarmingsaudit (installaties met totaal geïnstalleerd nominaal vermogen groter dan 100 kW, of installaties bestaande uit meerdere ketels) omvat minstens 8 uur (theorielessen en praktijk). Het programma bestaat uit een herhaling van de belangrijkste aspecten van de verwarmingsaudit:<br>
+1° de reglementering;<br>
+2° de inhoud en het correct gebruik van de software;<br>
+3° het energieverbruik;<br>
+4° de componenten van een cv-installatie, de algemene technische en regeltechnische kennis, met minstens:<br>
+a) de productie-eenheden;<br>
+b) de hydraulica;<br>
+c) de productie van sanitair warm water;<br>
+d) de regelingen;<br>
+e) de algemene componenten;<br>
+f) de verluchting van stookplaatsen;<br>
+g) de isolatie van leidingen;<br>
+5° de componenten in een gebouw: de ventilatie en invloed op de verluchting van de stookplaats;<br>
+6° de interpretatie van de resultaten en de formulering van adviezen.<br>
+<br>
+§ 2. De bijscholing inzake de verwarmingsaudit wordt gevolgd door proeven, die bestaan uit:<br>
+1° een schriftelijke proef waarbij de theoretische kennis van de technicus wordt getoetst aan de hand van meerkeuzevragen;<br>
+2° een mondelinge proef waarbij de technicus een zelf uitgevoerde, reële verwarmingsaudit verdedigt.<br>
+<br>
+De proeven duren maximaal 4 uur.</p>
 
 ## Afdeling 5 Opleiding stookolietechnicus : minimumprogramma van de algemene opleiding en van de bijscholing
 
