@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028375,
+  "title": "Decreet van 2017-06-02 houdende instemming met het samenwerkingsakkoord van 14 juli 2016 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de aan de kinderbijslagregelgeving aan te brengen wijzigingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028375/VolledigDocument?datum=2017-07-03",
+  "source_sha256": "450eaf87459c58a17dcf8b5e4fe08b5fc7a0c5f49b08f135bfcfc9b242fcd0d6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028375&param=informatie",
+  "as_of": "2017-07-03",
+  "made": "2017-06-02",
+  "gazette": "2017-07-03",
+  "numac": 2017012776,
+  "document_start": "2017-07-03",
+  "document_end": null,
+  "in_force": "2017-07-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-07-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
