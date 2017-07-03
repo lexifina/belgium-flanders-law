@@ -40,6 +40,13 @@ In artikel 3.18.0.0.1, § 4, vijfde lid, van de Vlaamse Codex Fiscaliteit van 13
 
 ## Afdeling 1 Fonds Personeelsleden met Verlof voor Opdracht
 
+### ART 6.
+
+Aan artikel 33 van het decreet van 6 juli 2001 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2001, vervangen bij het decreet van 21 november 2008 en gewijzigd bij het decreet van 18 december 2009, worden een paragraaf 7 en een paragraaf 8 toegevoegd, die luiden als volgt:<br>
+" § 7. Aan het fonds bij het Vlaams ministerie Kanselarij en Bestuur worden alle terugvorderingen van wedden en ermee samenhangende vergoedingen of kosten toegewezen met betrekking tot personeelsleden die naar het agentschap Facilitair Bedrijf worden overgedragen zonder kredietoverdracht of hun vervangers.<br>
+<br>
+§ 8. De middelen van het fonds van het Vlaams ministerie Kanselarij en Bestuur, verkregen op basis van paragraaf 7, dienen aangewend te worden voor de betaling van wedden, weddentoelagen en werkingskosten van personeelsleden die naar het agentschap Facilitair Bedrijf worden overgedragen zonder kredietoverdracht of hun vervangers.".
+
 ## Afdeling 2 Gemeentefonds - cofinanciering externe audit
 
 ## HOOFDSTUK 5 Ruimtelijke Ordening, Onroerend Erfgoed en Woonbeleid
