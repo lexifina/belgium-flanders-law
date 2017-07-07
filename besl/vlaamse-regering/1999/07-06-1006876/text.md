@@ -30,33 +30,21 @@ Per thema wordt slechts één steunpunt erkend. De erkenning wordt toegekend voo
 ### ART. 5.
 
 § 1. De Vlaamse regering bepaald één of meerdere thema's. Naast de verwijzing naar de algemene voorwaarden zoals bepaald in artikel 3 wordt per thema het volgende vermeld:<br>
-<br>
 1° de termijn waarbinnen de aanvragen ingediend moeten worden;<br>
-<br>
 2° de administratie waar de aanvragen ingediend moeten worden;<br>
-<br>
 3° de criteria op basis waarvan de aanvragen beoordeeld zullen worden;<br>
-<br>
 4° de begrotingspost en de basisallocatie waarop de subsidie aangerekend zal worden;<br>
-<br>
 5° in voorkomend geval, de grenzen en/of voorwaarden van de financiële tegemoetkoming.<br>
 <br>
-§ 2. De universiteiten worden per thema gelijktijdig en per aangetekende brief uitgenodigd een aanvraag in te dienen.<br>
+§ 2. De universiteiten worden per thema gelijktijdig uitgenodigd een aanvraag in te dienen.<br>
 <br>
 De aanvraag dient volgende gegevens te bevatten:<br>
-<br>
 1° de gedetailleerde meerjarenplanning;<br>
-<br>
 2° de omschrijving van de doelstellingen en de beoogde resultaten;<br>
-<br>
 3° de wijze waarop de bereikte resultaten en effecten en de geleverde prestaties zullen worden geregistreerd;<br>
-<br>
 4° de begroting die verbonden is aan de uitvoering van de meerjarenplanning;<br>
-<br>
 5° de gegevens van de universiteit en het rekeningnummer waarop de subsidie gestort kan worden;<br>
-<br>
 6° de verantwoordelijke van het steunpunt met opgave van zijn/haar relevante beroepservaring;<br>
-<br>
 7° de omschrijving van de huisvesting van het steunpunt en de herkenbaarheid ten aanzien van de gebruiker.
 
 ### ART. 6.
@@ -75,13 +63,15 @@ De opdrachtgever wordt vermeld bij alle mededelingen en publicaties over de acti
 
 ### ART. 9.
 
-De subsidie wordt jaarlijks uitgekeerd in twee schijven: een eerste schijf van 50 % binnen de 30 kalenderdagen na het begin van het betreffend werkingsjaar en na ontvangst van het jaarverslag van het vorig werkingsjaar; een tweede schijf van 50 % vóór 31 juli van het betreffend werkingsjaar, voor zover de eerste schijf werd uitbetaald.<br>
+De toegekende subsidies worden jaarlijks uitgekeerd in de volgende twee schijven :<br>
+1° een eerste schijf van 80% uiterlijk op 28 februari van het betrokken jaar of in het eerste werkjaar uiterlijk vier maanden na de start van het steunpunt;<br>
+2° een tweede schijf van 20% na de ontvangst en de goedkeuring van het jaarverslag.<br>
 <br>
 De subsidie kan worden aangewend voor personeelskosten, werkingskosten, uitrustingskosten, centrale beheerskosten en algemene exploitatiekosten, eventueel beperkt tot de krachtens artikel 5, § 1, 5° bepaalde grenzen.<br>
 <br>
 De besteding van de subsidiebedragen moet bewezen worden door middel van een voor het steunpunt afgezonderde boekhouding.<br>
 <br>
-Het steunpunt kan een reserve opbouwen ten bedrage van maximaal 5 % van de jaarlijkse werkingssubsidie. De reserve moet worden aangewend voor de goede werking en de activiteiten van het steunpunt.<br>
+Het steunpunt kan een reserve opbouwen ten bedrage van maximaal 20% van de jaarlijkse werkingssubsidie. In het jaarverslag, vermeld in artikel 7, tweede lid wordt de aanwending van de reserve verantwoord. De reserve moet worden aangewend voor de goede werking en de activiteiten van het steunpunt.<br>
 <br>
 Met de opbrengsten die door de werking in het kader van de overeenkomst worden gegenereerd moeten de activiteiten van het steunpunt gefinancierd worden.
 
