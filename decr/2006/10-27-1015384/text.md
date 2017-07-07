@@ -416,7 +416,10 @@ De Vlaamse Regering stelt nadere regelen vast betreffende de   conformverklaring
 
 ### ART. 52.
 
-In het conformiteitsattest bepaalt de OVAM de voorwaarden waaronder de bodemsaneringswerken moeten worden uitgevoerd. Deze voorwaarden beogen de bescherming van mens en milieu en de verwezenlijking van een goede plaatselijke aanleg.<br /><br />
+In het conformiteitsattest bepaalt de OVAM de voorwaarden waaronder de bodemsaneringswerken moeten worden uitgevoerd. Deze voorwaarden beogen de bescherming van mens en milieu en de verwezenlijking van een goede plaatselijke aanleg. De OVAM kan bij het bepalen van de voorwaarden in het conformiteitsattest voor het bodemsaneringsproject in individuele gevallen en op gemotiveerd verzoek afwijken van de voorwaarden, opgelegd door of krachtens titel V van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, op voorwaarde dat het bodemsaneringsproject:<br>
+1° in overeenstemming is met de goede plaatselijke aanleg;<br>
+2° voorziet in een gelijkwaardige bescherming van mens en milieu.<br>
+&nbsp;
 
 ### ART. 53.
 
