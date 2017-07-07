@@ -126,6 +126,13 @@ In artikel 5 van het decreet van 19 mei 2006 betreffende de oprichting en de wer
 
 ## HOOFDSTUK 21Wijzigingen van het Bodemdecreet van 27 oktober 2006
 
+### ART 66.
+
+Aan artikel 52 van hetzelfde decreet wordt de volgende zin toegevoegd:<br>
+"De OVAM kan bij het bepalen van de voorwaarden in het conformiteitsattest voor het bodemsaneringsproject in individuele gevallen en op gemotiveerd verzoek afwijken van de voorwaarden, opgelegd door of krachtens titel V van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, op voorwaarde dat het bodemsaneringsproject:<br>
+1° in overeenstemming is met de goede plaatselijke aanleg;<br>
+2° voorziet in een gelijkwaardige bescherming van mens en milieu.".
+
 ## HOOFDSTUK 22 Wijzigingen van het Mestdecreet van 22 december 2006
 
 ## HOOFDSTUK 23 Wijzigingen van het decreet van 22 december 2006 houdende inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid
