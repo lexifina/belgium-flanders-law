@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028364,
+  "title": "Besluit van de Vlaamse Regering van 2017-06-09 tot opheffing van het besluit van de Vlaamse Regering van 3 juli 2009 tot vaststelling van de voorwaarden voor erkenning en subsidiëring van de gelijkebehandelingsbureaus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028364/VolledigDocument?datum=2017-07-07",
+  "source_sha256": "14f712661e697f880b1eb0a919625a41e2234bd3ad8a6898cfcb5c78c8e025db",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028364&param=informatie",
+  "as_of": "2017-07-07",
+  "made": "2017-06-09",
+  "gazette": "2017-06-27",
+  "numac": 2017012745,
+  "document_start": "2017-07-07",
+  "document_end": null,
+  "in_force": "2017-07-07",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-07-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
