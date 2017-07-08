@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028365,
+  "title": "Ministerieel besluit van 2017-06-15 houdende de verlenging van de indieningstermijn van het standaardaanvraagformulier tot deelname aan de proefomgeving voor experimentele woonvormen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028365/VolledigDocument?datum=2017-07-08",
+  "source_sha256": "1c2f0a282475e68785a27fd49d2ad691685841abb75c5919304d2a57eda073a3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028365&param=informatie",
+  "as_of": "2017-07-08",
+  "made": "2017-06-15",
+  "gazette": "2017-06-28",
+  "numac": 2017012859,
+  "document_start": "2017-07-08",
+  "document_end": null,
+  "in_force": "2017-07-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-07-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
