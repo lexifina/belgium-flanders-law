@@ -16,4 +16,4 @@ In hun aanvraag tot deelname aan de proefomgeving voor experimentele woonvormen,
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/05/29_1.pdf#page=31">http://www.ejustice.just.fgov.be/mopdf/2017/05/29_1.pdf#page=31</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/06/28_1.pdf#page=32">http://www.ejustice.just.fgov.be/mopdf/2017/06/28_1.pdf#page=32</a>

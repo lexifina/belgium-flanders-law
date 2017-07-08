@@ -2,16 +2,16 @@
   "codex_id": 1028257,
   "title": "Ministerieel besluit van 2017-04-24 houdende de vaststelling van het standaardaanvraagformulier tot deelname aan de proefomgeving voor experimentele woonvormen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028257/VolledigDocument?datum=2017-06-08",
-  "source_sha256": "d562e2f4e2d7f7d6c898d2d7f92d0d75e674df62f0dd5b39b94ca44ff6c72914",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028257/VolledigDocument?datum=2017-07-08",
+  "source_sha256": "f00c667d792698d84e9cfbb0b53fef9c424d01ffbfbf9778da8fec3b085c4d9f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028257&param=informatie",
-  "as_of": "2017-06-08",
+  "as_of": "2017-07-08",
   "made": "2017-04-24",
   "gazette": "2017-05-29",
   "numac": 2017040322,
   "document_start": "2017-06-08",
   "document_end": null,
-  "in_force": "2017-06-08",
+  "in_force": "2017-07-08",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2017-06-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-07-08; future article versions excluded; article text as the API gives it"
 }
