@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028371,
+  "title": "Samenwerkingsakkoord van 2017-03-27 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest, het Brusselse Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap in het kader van de richtlijn 2011/16/EU van de Raad van 15 februari 2011 betreffende de administratieve samenwerking op het gebied van de belastingen en tot intrekking van Richtlijn 77/799/EEG en in het kader van de gemengde bilaterale en multilaterale verdragen tussen het Koninkrijk België en een andere Staat of andere Staten die voorzien in een administratieve samenwerking op het gebied van de belastingen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028371/VolledigDocument?datum=2017-07-10",
+  "source_sha256": "d2f3437459cf94c1d289d669571cfdfcfca9747c855241b65c3b6ed0789e1ad8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028371&param=informatie",
+  "as_of": "2017-07-10",
+  "made": "2017-03-27",
+  "gazette": "2017-06-30",
+  "numac": 2017020442,
+  "document_start": "2017-07-10",
+  "document_end": null,
+  "in_force": "2017-07-10",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2017-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
