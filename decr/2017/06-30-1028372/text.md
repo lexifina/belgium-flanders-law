@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1 Algemeen
 
+### ART 1.
+
+Dit decreet regelt een gewest- en gemeenschapsaangelegenheid.
+
 ## HOOFDSTUK 2 Welzijn, Volksgezondheid en Gezin
 
 ## Afdeling 1 Avenant en nieuwe overeenkomst tussen het RIZIV en VAZG
@@ -36,6 +40,10 @@ In artikel 3.18.0.0.1, § 4, vijfde lid, van de Vlaamse Codex Fiscaliteit van 13
 
 ## Afdeling 2 Machtiging aan de Vlaamse Waterweg nv inzake borgstelling in DBFM-overeenkomsten
 
+### ART 5.
+
+&nbsp;De Vlaamse Waterweg nv wordt gemachtigd om in de DBFM-overeenkomsten voor het verhogen van een deel van de bruggen over het Albertkanaal een clausule op te nemen op grond waarvan het Vlaamse Gewest, daarbij vertegenwoordigd door de Vlaamse minister bevoegd voor Begroting, zich borg stelt voor de nakoming door De Vlaamse Waterweg nv van alle betalingsverplichtingen die zij ten aanzien van de opdrachtnemer (of diens rechtsopvolger) op zich neemt krachtens deze DBFM-overeenkomsten.
+
 ## HOOFDSTUK 4 Kanselarij en Bestuur
 
 ## Afdeling 1 Fonds Personeelsleden met Verlof voor Opdracht
@@ -49,6 +57,10 @@ Aan artikel 33 van het decreet van 6 juli 2001 houdende bepalingen tot begeleidi
 
 ## Afdeling 2 Gemeentefonds - cofinanciering externe audit
 
+### ART 7.
+
+In artikel 3, § 3/1, van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds wordt tussen de zinsnede "in 2016 verminderd met 1.044.000 euro." en de woorden "De in mindering gebrachte bedragen" de zin "Vanaf 2017 bedraagt de vermindering 470.000 euro." ingevoegd.
+
 ## HOOFDSTUK 5 Ruimtelijke Ordening, Onroerend Erfgoed en Woonbeleid
 
 ## Afdeling 1 Waarborg in toepassing van artikel 78, § 2 - bevoegdheden VWF
@@ -61,6 +73,13 @@ Aan artikel 33 van het decreet van 6 juli 2001 houdende bepalingen tot begeleidi
 ## HOOFDSTUK 6 Cultuur, Jeugd, Sport en Media
 
 ## Afdeling 1 Fonds Personeelsleden met Verlof voor Opdracht
+
+### ART 9.
+
+Aan artikel 33 van het decreet van 6 juli 2001 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2001, gewijzigd bij de decreten van 21 november 2008 en 18 december 2009, wordt een paragraaf 9 toegevoegd, die luidt als volgt:<br>
+" § 9. Aan het fonds van het Vlaams ministerie van Cultuur, Jeugd, Sport en Media worden alle inkomsten toegewezen die verkregen worden uit de kandidaatstellingen voor netwerkradio's en lokale radio's die in het jaar 2017 bij het Departement Cultuur, Jeugd en Media worden ingediend.<br>
+<br>
+De middelen van het fonds van het Vlaams ministerie van Cultuur, Jeugd, Sport en Media, verkregen op basis van het eerste lid, dienen aangewend te worden voor de betaling van de wedden en weddentoelagen van de tijdelijke personeelsleden die worden aangeworven voor het behandelen van de aanvragen inzake netwerkradio's en lokale radio's.".
 
 ## Afdeling 2 Wijziging van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk tot bijkomende ondersteuning van de verenigingen van migranten
 
@@ -229,6 +248,12 @@ Artikel 192 van hetzelfde decreet, gewijzigd bij de decreten van 10 juli 2003, 7
 
 ## Afdeling 2 Machtiging aan AGION voor verbintenissen voor huursubsidies
 
+### ART 20.
+
+AGION wordt er toe gemachtigd verbintenissen aan te gaan voor huursubsidies voor een totaal van maximaal 3.600.000 euro subsidie per jaar.<br>
+<br>
+Dit bedrag wordt gekoppeld aan de consumptieprijsindex van december 2016, basis 2013, en wordt jaarlijks op 1 januari berekend.
+
 ## Afdeling 3 Bachelor in de toegepaste psychologie Artesis Plantijn Hogeschool Antwerpen
 
 ### ART 21.
@@ -383,3 +408,13 @@ De Vlaamse Regering bepaalt wat dient te worden verstaan onder persoons- en omge
 § 3. Het toezicht en de controle op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan geschiedt overeenkomstig de bepalingen van het decreet van 30 april 2004 houdende sociaalrechtelijk toezicht.
 
 ## HOOFDSTUK 10 Inwerkingtreding
+
+### ART 29.
+
+Dit decreet treedt in werking 10 dagen na bekendmaking in het Belgisch Staatsblad, met uitzondering van:<br>
+1° de artikelen 2, 3, 4 en 11 tot en met 15 die in werking treden op 1 juli 2017;<br>
+2° artikel 6 dat in werking treedt op de dag van de publicatie in het Belgisch Staatsblad;<br>
+3° artikel 8 dat uitwerking heeft vanaf 1 april 2017;<br>
+4° de artikelen 10, 16 tot en met 19, 21 tot en met 24 en 26 die uitwerking hebben vanaf 1 januari 2017;<br>
+5° artikel 25 dat in werking treedt op 1 september 2017;<br>
+6° artikelen 27 en 28, die uitwerking hebben op 1 april 2017 en buiten werking treden op 1 januari 2019.
