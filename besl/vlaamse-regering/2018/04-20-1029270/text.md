@@ -79,12 +79,27 @@ In artikel I 4quater, eerste lid, van hetzelfde besluit, ingevoegd bij het beslu
 2° de zinsnede "artikel I 4ter, § 2, derde lid" wordt vervangen door de zinsnede "artikel I 4ter, § 3".<br>
 &nbsp;
 
+### ART 8.
+
+In artikel I 14bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 3 oktober 2014, wordt de zinsnede ", het functiefamilieniveau" geschrapt.<br>
+&nbsp;
+
+### ART 9.
+
+&nbsp;In artikel I 14quater, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 3 oktober 2014, worden de woorden "het functiefamilieniveau en" en het woord "bijbehorende" geschrapt.<br>
+&nbsp;
+
 ### ART 20.
 
 In artikel VI 30ter, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 juli 2007, vervangen bij het het besluit van de Vlaamse Regering van 1 juli 2011 en gewijzigd bij het besluit van de Vlaamse Regering van 21 februari 2014, worden de volgende wijzigingen aangebracht:<br>
 1° in punt 2°, c) wordt de zinsnede "het Universitair Ziekenhuis Gent," opgeheven;<br>
 2° in punt 3°, c) wordt de zinsnede "artikel 5 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen" vervangen door de zinsnede "artikel II 3 van de Codex Hoger Onderwijs van 11 oktober 2013";<br>
 3° in punt 3°, d) wordt de zinsnede "artikel 4 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen" vervangen door de zinsnede "artikel II 2 van de Codex Hoger Onderwijs van 11 oktober 2013".<br>
+&nbsp;
+
+### ART 35.
+
+In artikel VII 44bis, § 4, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 februari 2014, wordt het woord "functieniveaumatrix" vervangen door het woord "functiematrix".<br>
 &nbsp;
 
 ### ART 37.
@@ -105,4 +120,9 @@ In artikel VII 109octies, eerste lid, van hetzelfde besluit, ingevoegd bij het b
 ### ART 47.
 
 &nbsp;In artikel VII 126, § 2, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 2 december 2011, wordt het woord "LNE" vervangen door het woord "Omgeving".<br>
+&nbsp;
+
+### ART 52.
+
+Bijlage 13 bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 3 oktober 2014, wordt vervangen door bijlage 4, die bij dit besluit is gevoegd.<br>
 &nbsp;
