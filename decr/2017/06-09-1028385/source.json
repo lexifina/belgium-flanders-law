@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028385,
+  "title": "Decreet van 2017-06-09 houdende instemming met het verdrag nr. 188 betreffende het werk in de visserijsector, aangenomen door de Internationale Arbeidsconferentie in haar zesennegentigste zitting in Genève op 14 juni 2007",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028385/VolledigDocument?datum=2017-07-16",
+  "source_sha256": "a09a9693da2b8e4451532ed84c8a4b34793fa44951a157896d71e7ccbaea36ad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028385&param=informatie",
+  "as_of": "2017-07-16",
+  "made": "2017-06-09",
+  "gazette": "2017-07-06",
+  "numac": 2017012932,
+  "document_start": "2017-07-16",
+  "document_end": null,
+  "in_force": "2017-07-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
