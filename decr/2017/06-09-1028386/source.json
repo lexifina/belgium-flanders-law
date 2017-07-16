@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028386,
+  "title": "Decreet van 2017-06-09 houdende instemming met het protocol betreffende de conventie over gedwongen arbeid van 1930, aangenomen door de Internationale Arbeidsconferentie tijdens haar honderdenderde zitting in Genève op 11 juni 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028386/VolledigDocument?datum=2017-07-16",
+  "source_sha256": "a112c05e9192a0b6d53e8ea6ea0c60ea4b5f73b2eb388818e08c1702e242b2d0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028386&param=informatie",
+  "as_of": "2017-07-16",
+  "made": "2017-06-09",
+  "gazette": "2017-07-06",
+  "numac": 2017012934,
+  "document_start": "2017-07-16",
+  "document_end": null,
+  "in_force": "2017-07-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
