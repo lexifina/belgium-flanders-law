@@ -98,35 +98,37 @@ Het vruchtgebruik, gevestigd op onbebouwde of bebouwde percelen gelegen in een o
 
 ### ART. 18.
 
-Na de ontginning moeten de vergunninghouders de eindafwerking van de percelen realiseren. Die verplichting blijft ook gelden nadat de vergunningstermijn verstreken is, of als een vergunning vervallen, ingetrokken of geschorst is.<br /><br />De vergunninghouders moeten, ten voordele van de Vlaamse regering, financiële zekerheden stellen om de kosten voor de realisatie van de eindafwerking van de percelen te waarborgen.
+Uiterlijk vijf jaar na de ontginning moeten de vergunninghouders de eindafwerking van de percelen realiseren. Als de vergunde oppervlakte in zones wordt ingedeeld en gefaseerd wordt ontgonnen, geldt die verplichting per zone. De verplichting blijft ook gelden nadat de vergunningstermijn verstreken is, of als een vergunning vervallen, ingetrokken of geschorst is. Deze verplichting geldt niet voor niet-ontgonnen zones.<br>
+<br>
+De vergunninghouder meldt jaarlijks aan het departement de percelen of delen van percelen waarvan de eindafwerking is gerealiseerd. In voorkomend geval maakt de melding deel uit van het ingediend jaarlijks voortgangsrapport of het geactualiseerd basisvoortgangsrapport, vermeld in artikel 24 van het besluit van de Vlaamse Regering van 26 maart 2004 houdende regels tot uitvoering van het oppervlaktedelfstoffendecreet.
 
 ### ART. 19.
 
-De vergunninghouders hebben de keuze om de financiële zekerheden te stellen in de volgende vormen, afzonderlijk of in combinatie:<br /><br />1° een verzekering;<br /><br />2° een garantie van een financiële instelling of een consortium van verschillende financiële instellingen die gecontroleerd worden door de Commissie voor het Bank- en Financiewezen;<br /><br />3° een andere persoonlijke of zakelijke zekerheid.
+...
 
 ### ART. 20.
 
-De ontginning mag niet worden aangevat vooraleer de financiële zekerheden werden aanvaard door het departement.
+...
 
 ### ART. 21.
 
-Het bedrag van de financiële zekerheden zoals bedoeld in artikel 18 wordt vastgesteld door de Vlaam-se regering.<br /><br />Indien de ontginning gefaseerd gebeurt, kunnen de financiële zekerheden worden opgebouwd naargelang de opeenvolgende ontginningsfasen worden aangevat en worden afgebouwd naargelang de afgewerkte fasen worden opgeleverd.
+...
 
 ### ART. 22.
 
-De financiële zekerheden kunnen niet worden overgedragen. Zij kunnen niet in pand of op een andere wijze in zekerheid gegeven worden.
+...
 
 ### ART. 23.
 
-Bij overdracht van de vergunning worden nieuwe financiële zekerheden geëist van de nieuwe vergunninghouder. De ontginning mag door de nieuwe vergunninghouder pas worden voortgezet nadat het departement het bewijs van de nieuwe financiële zekerheden heeft ontvangen en aanvaard. Op dat ogenblik worden de financiële zekerheden, gesteld door de vroegere vergunninghouder, vrijgegeven.
+...
 
 ### ART. 24.
 
-Als de vergunninghouder de opgelegde eindafwerking niet realiseert of als de eindafwerking niet aanvaard wordt, kan de minister de financiële zekerheden op eerste verzoek aanspreken en met de financiële middelen ervan in de plaats van de vergunninghouder de opgelegde eindafwerking verwezenlijken.
+...
 
 ### ART. 25.
 
-De Vlaamse regering kan nadere regels bepalen voor de financiële zekerheden.
+...
 
 ## HOOFDSTUK V NATUURLIJKE SAMENSTELLING VAN OPPERVLAKTEDELFSTOFFEN
 
@@ -154,7 +156,7 @@ Voor dit decreet en haar uitvoeringsbesluiten gebeurt het uitoefenen van toezich
 
 ### ART. 30.
 
-De Vlaamse regering kan, na advies van het departement, vastleggen voor welke percelen, ontgonnen via een vergunning, afgeleverd vóór het van kracht worden van dit decreet, financiële zekerheden moeten worden gesteld.<br /><br />het departement moet bij het uitbrengen van haar advies rekening houden met de volgende criteria:<br />1° de percelen moeten deel uitmaken van een vergunning tot ontginning waarvan de termijn nog niet verstreken is;<br />2° de voorwaarden van de van toepassing zijnde vergunningen moeten kaderen binnen de geldende milieuwetgeving;<br />3° enkel voor de niet-afgewerkte en de nog te ontginnen percelen moeten de financiële zekerheden worden gesteld.
+...
 
 ### ART. 31.
 
