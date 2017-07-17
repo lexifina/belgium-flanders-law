@@ -279,7 +279,7 @@ b) elke betekenisvolle verstoring van een soort vermeld in de bijlagen II, III o
 <br>
 De Vlaamse regering stelt hiervoor nadere regels vast.<br>
 <br>
-§ 3. Een vergunningsplichtige activiteit die, of een plan of programma dat, afzonderlijk of in combinatie met één of meerdere bestaande of voorgestelde activiteiten, plannen of programma's, een betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone kan veroorzaken, dient onderworpen te worden aan een passende beoordeling wat betreft de betekenisvolle effecten voor de speciale beschermingszone.<br>
+§ 3. Een vergunningsplichtige activiteit die, of een plan of programma dat, afzonderlijk of in combinatie met één of meerdere bestaande of voorgestelde activiteiten, plannen of programma's, een betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone kan veroorzaken,&nbsp;zonder dat die vergunningsplichtige activiteit of dat plan of programma direct verband houdt met of nodig is voor het beheer van een gebied in de speciale beschermingszone in kwestie dient onderworpen te worden aan een passende beoordeling wat betreft de betekenisvolle effecten voor de speciale beschermingszone.<br>
 <br>
 De verplichting tot het uitvoeren van een passende beoordeling geldt ook indien wegens het verstrijken van de lopende vergunning van de vergunningsplichtige activiteit een nieuwe vergunning moet worden aangevraagd.<br>
 <br>
@@ -304,16 +304,12 @@ De Vlaamse regering kan nadere regels vaststellen in verband met de inhoud en de
 § 4. De overheid die over een vergunningsaanvraag, een plan of programma moet beslissen, mag de vergunning slechts toestaan of het plan of programma slechts goedkeuren indien het plan of programma of de uitvoering van de activiteit geen betekenisvolle aantasting van de natuurlijke kenmerken van de betrokken speciale beschermingszone kan veroorzaken. De bevoegde overheid draagt er steeds zorg voor dat door het opleggen van voorwaarden er geen betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone kan ontstaan.<br>
 <br>
 § 5. In afwijking op de bepalingen van § 4, kan een vergunningsplichtige activiteit die of een plan of programma dat afzonderlijk of in combinatie met één of meer bestaande of voorgestelde activiteiten, plannen of programma's, een betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone kan veroorzaken, slechts toegestaan of goedgekeurd worden<br>
-<br>
 a) nadat is gebleken dat er voor de natuurlijke kenmerken van de speciale beschermingszone geen minder schadelijke alternatieve oplossingen zijn en<br>
-<br>
 b) omwille van dwingende redenen van groot openbaar belang met inbegrip van redenen van sociale of economische aard. Wanneer de betrokken speciale beschermingszone of een deelgebied ervan, een gebied met een prioritair type natuurlijke habitat of een prioritaire soort is, komen alleen argumenten die verband houden met de menselijke gezondheid, de openbare veiligheid of met voor het milieu wezenlijk gunstige effecten dan wel, na advies van de Europese Commissie, andere dwingende redenen van groot openbaar belang, in aanmerking.<br>
 <br>
 De afwijking bedoeld in het voorgaande lid kan bovendien slechts toegestaan worden nadat voldaan is aan de volgende voorwaarden:<br>
-<br>
 1° de nodige compenserende maatregelen genomen zijn en de nodige actieve instandhoudingsmaatregelen genomen zijn of worden die waarborgen dat de algehele samenhang van de speciale beschermingszone en -zones bewaard blijft;<br>
-<br>
-2° de compenserende maatregelen zijn van die aard dat een evenwaardige habitat of het natuurlijk milieu ervan, van minstens een gelijkaardige oppervlakte in principe actief is ontwikkeld.<br>
+2° de compenserende maatregelen zijn van die aard dat een evenwaardige habitat of het natuurlijk milieu ervan, van minstens een gelijkaardige oppervlakte in principe actief is ontwikkeld. De initiatiefnemer rapporteert aan het agentschap over de uitvoering van de compenserende maatregelen, ten laatste binnen een jaar na de definitieve beslissing waarbij de afwijking is toegestaan. Het agentschap neemt de gerapporteerde compenserende maatregelen op in een register. Na de ontvangst van de rapportering beslist het agentschap binnen drie maanden over de inhoud en desgevallend de verdere frequentie van de rapportering.<br>
 <br>
 De Vlaamse regering kan nadere regels vaststellen voor het opstellen van een passende beoordeling van de effecten van de activiteit op de habitats, de habitats van een soort en op de soort of soorten waarvoor de speciale beschermingszone is aangewezen, voor het onderzoeken van minder schadelijke alternatieven en inzake de compenserende maatregelen.<br>
 <br>
@@ -324,16 +320,13 @@ Elke beslissing in uitvoering van de afwijkingsprocedure van deze paragraaf, wor
 § 6. De overheid houdt bij haar beslissing over de voorgenomen actie, en in voorkomend geval ook bij de uitwerking ervan, rekening met het goedgekeurde milieueffectrapport, de passende beoordeling of het advies van de administratie bevoegd voor het natuurbehoud.<br>
 <br>
 De overheid motiveert elke beslissing over de voorgenomen actie in het bijzonder op volgende punten:<br>
-<br>
 1° de keuze voor de voorgenomen actie, een bepaald alternatief of bepaalde deelalternatieven;<br>
-<br>
 2° de aanvaardbaarheid van de te verwachten betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone;<br>
-<br>
 3° de in het milieueffectrapport, in de passende beoordeling of de in het advies van de administratie bevoegd voor het natuurbehoud voorgestelde compenserende maatregelen en actieve instandhoudingsmaatregelen.<br>
 <br>
 Wordt deze beslissing genomen in het kader van een vergunningverlening of het verlenen van een toestemming of machtiging, dan deelt de overheid haar beslissing mee aan de aanvrager op dezelfde wijze als de beslissing op de aanvraag voor de vergunning of de toestemming of machtiging wordt meegedeeld.<br>
 <br>
-§ 7. Voor de speciale beschermingszones kan de Vlaamse regering een specifieke regeling uitwerken voor de cumulatieve toepassing van de procedures voorzien in dit artikel en in de artikelen 13, 15 en 26bis. (ing. decr. 19 juli 2002, art. 26, I: 10 september 2002) ]
+§ 7. Voor de speciale beschermingszones kan de Vlaamse regering een specifieke regeling uitwerken voor de cumulatieve toepassing van de procedures voorzien in dit artikel en in de artikelen 13, 15 en 26bis.
 
 ## AFDELING 4 ALGEMENE MAATREGELEN VOOR DE BESCHERMING VAN HET NATUURLIJK MILIEU
 
