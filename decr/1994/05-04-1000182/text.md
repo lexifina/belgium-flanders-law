@@ -117,7 +117,13 @@ De vennootschap oefent haar bevoegdheden uit:<br /><br />1° voor wat betreft he
 
 ### ART. 19.
 
-§ 1. De vennootschap kan alle voor de uitoefening van haar bevoegdheden   nodige roerende en onroerende goederen verwerven.<BR><BR>§ 2. Na machtiging door   de Vlaamse regering kan de vennootschap overeenkomstig de wetgeving betreffende   de onteigening ten algemene nutte in eigen naam en voor eigen rekening   onroerende goederen onteigenen die nodig zijn voor de verwezenlijking van haar   maatschappelijk doel.<BR><BR>§ 3. De vennootschap kan de onroerende goederen   waarvan zij eigenaar is, slechts verkopen mits machtiging van de Vlaamse   regering.
+§ 1. De vennootschap kan alle voor de uitoefening van haar bevoegdheden nodige roerende en onroerende goederen verwerven.<br>
+<br>
+§ 2. Na machtiging door de Vlaamse regering kan de vennootschap overeenkomstig de wetgeving betreffende de onteigening ten algemene nutte in eigen naam en voor eigen rekening onroerende goederen onteigenen die nodig zijn voor de verwezenlijking van haar maatschappelijk doel.<br>
+<br>
+§ 3. De vennootschap kan de onroerende goederen waarvan zij eigenaar is, slechts verkopen mits machtiging van de Vlaamse regering.<br>
+<br>
+§ 4. In afwijking van paragraaf 3 kan de vennootschap de onroerende goederen waarvan ze eigenaar is in het kader van het flankerende beleid landbouw van het geactualiseerde Sigmaplan, in eigendom overdragen aan de Vlaamse Landmaatschappij.
 
 ### ART. 20.
 
