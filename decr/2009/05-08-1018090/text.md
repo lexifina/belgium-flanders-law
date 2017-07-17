@@ -38,13 +38,13 @@ Voor de toepassing van dit decreet wordt verstaan onder :<br>
 27° afsluiting van een opslaglocatie : definitieve stopzetting van de injectie van koolstofdioxide in een opslaglocatie;<br>
 28° periode na afsluiting : periode na de afsluiting van een opslaglocatie, inclusief de periode na de overdracht van de verantwoordelijkheid aan het Vlaamse Gewest;<br>
 29° transportnetwerk : netwerk van pijpleidingen, met inbegrip van de daarvoor benodigde pompstations, om koolstofdioxide naar de opslaglocatie te transporteren;<br>
-30° minister : Vlaamse minister, bevoegd voor de natuurlijke rijkdommen, als het de opsporing of de winning van koolwaterstoffen of aardwarmte betreft, dan wel de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, als het de geologische opslag van koolstofdioxide betreft;<br>
+30° minister : Vlaamse minister, bevoegd voor de natuurlijke rijkdommen, als het de opsporing of de winning van koolwaterstoffen of aardwarmte, of de structuurvisie voor de diepe ondergrond&nbsp;betreft, dan wel de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, als het de geologische opslag van koolstofdioxide betreft;<br>
 31° rechthebbende : houder van een zakelijk recht of een ander genotsrecht;<br>
 32° aangewezen vennootschap : investeringsmaatschappij als vermeld in het decreet van 7 mei 2004 betreffende de investeringsmaatschappijen van de Vlaamse overheid;<br>
 33° gecoördineerde Mijnwetten : de wetten op de mijnen, de graverijen en de groeven, gecoördineerd op 15 september 1919;<br>
 34° Pachtwet : afdeling III van boek III, titel VIII, hoofdstuk II, van het Burgerlijk Wetboek, ingevoegd door artikel 1 van de wet van 4 november 1969 tot wijziging van de pachtwetgeving en van de wetgeving betreffende het recht van voorkoop ten gunste van huurders van landeigendommen.<br>
 35° volumegebied : omschreven driedimensionaal gebied in de diepe ondergrond, afgebakend met behulp van x-, y- en z-coördinaten (Lambert BD72-stelsel en Tweede Algemene Waterpassing), grensvlakken van geologische lagen of andere geologische criteria;<br>
-36° aardwarmte : in de ondergrond aanwezige warmte die daar langs natuurlijke weg is ontstaan;<br>
+36° aardwarmte : in de ondergrond aanwezige warmte die daar langs natuurlijke weg of door warmteopslag&nbsp;is ontstaan;<br>
 37° opsporen van aardwarmte : onderzoek doen naar de aanwezigheid van winbare aardwarmte of naar nadere gegevens daarover, met gebruikmaking van een boorgat;<br>
 38° winnen van aardwarmte : het onttrekken van aardwarmte aan de ondergrond met gebruikmaking van een boorgat, in voorkomend geval met inbegrip van het terugvoeren van bij de winning opgepompt water in hetzelfde geothermische reservoir;<br>
 39° opsporingsvergunning voor aardwarmte : exclusieve schriftelijke toestemming om winbare aardwarmte op te sporen in de diepe ondergrond en om die aardwarmte tijdens de duur van de opsporingsvergunning overeenkomstig de vergunningsvoorwaarden te winnen;<br>
@@ -183,7 +183,8 @@ De houder of laatste houder van een vergunning neemt alle maatregelen die redeli
 
 ### ART. 14.
 
-De houder van een vergunning deelt elke substantiële wijziging in een vergunningscriterium, vermeld in artikelen 9 en 10, onmiddellijk met een aangetekende brief mee aan de Vlaamse Regering.<br /><br />
+De houder van een vergunning deelt elke substantiële wijziging in een vergunningscriterium, vermeld in artikelen 9 en 10, onmiddellijk&nbsp;mee aan de Vlaamse Regering.<br>
+&nbsp;
 
 ### ART. 15.
 
@@ -198,7 +199,10 @@ Als dat noodzakelijk is voor een efficiënte winning van de koolwaterstoffen, ka
 
 ### ART. 16.
 
-De houder van een vergunning dient jaarlijks met een aangetekende brief een rapport in bij de Vlaamse Regering met een overzicht van de in het voorbije jaar verrichte activiteiten, en een overzicht van de in het eerstvolgende jaar geplande activiteiten. Als er in het voorbije jaar geen activiteiten verricht zijn, of in het eerstvolgende jaar geen activiteiten gepland zijn, is de vergunninghouder niet ontslagen van zijn verplichting om dat in een jaarlijks rapport aan de Vlaamse Regering te melden.<br /><br />Het jaarlijkse rapport wordt ingediend uiterlijk voor het einde van de derde maand nadat een jaarlijkse periode verstreken is vanaf de datum van het besluit van de Vlaamse Regering waarbij de vergunning verleend is.<br /><br />
+De houder van een vergunning dient jaarlijks een rapport in bij de Vlaamse Regering met een overzicht van de in het voorbije jaar verrichte activiteiten, en een overzicht van de in het eerstvolgende jaar geplande activiteiten. Als er in het voorbije jaar geen activiteiten verricht zijn, of in het eerstvolgende jaar geen activiteiten gepland zijn, is de vergunninghouder niet ontslagen van zijn verplichting om dat in een jaarlijks rapport aan de Vlaamse Regering te melden.<br>
+<br>
+Het jaarlijkse rapport wordt ingediend uiterlijk voor het einde van de derde maand nadat een jaarlijkse periode verstreken is vanaf de datum van het besluit van de Vlaamse Regering waarbij de vergunning verleend is.<br>
+&nbsp;
 
 ### ART. 17.
 
@@ -502,7 +506,15 @@ Elk jaar, of, als de Vlaamse Regering dat in het kader van een bepaalde opslagve
 
 ### ART. 51.
 
-§ 1. Bij lekkages of significante onregelmatigheden stelt de exploitant de minister onmiddellijk met een aangetekende brief in kennis, en treft hij de nodige corrigerende maatregelen, waaronder maatregelen betreffende de bescherming van de volksgezondheid. In geval van lekkages en significante onregelmatigheden die een lekkagerisico inhouden, stelt de exploitant ook de afdeling van het departement Leefmilieu, Natuur en Energie, bevoegd voor luchtverontreiniging, daarvan in kennis.<br /><br />De nodige corrigerende maatregelen worden getroffen met als minimumbasis het plan met corrigerende maatregelen dat is ingediend bij de minister en door de Vlaamse Regering is goedgekeurd.<br /><br />§ 2. De minister kan van de exploitant op elk moment eisen de nodige corrigerende maatregelen te treffen, alsmede maatregelen betreffende de bescherming van de volksgezondheid. Deze kunnen een aanvulling zijn op of verschillen van die welke in het plan met corrigerende maatregelen zijn opgenomen. De minister kan ook altijd zelf corrigerende maatregelen treffen.<br /><br />Als de exploitant nalaat de nodige corrigerende maatregelen te treffen, neemt de minister de vereiste corrigerende maatregelen zelf.<br /><br />De Vlaamse Regering verhaalt op de exploitant de kosten die in verband met de in het eerste en het tweede lid bedoelde maatregelen zijn gemaakt, met inbegrip van het aanspreken van de financiële zekerheid overeenkomstig artikel 57.
+§ 1. Bij lekkages of significante onregelmatigheden stelt de exploitant de minister onmiddellijk met&nbsp;een beveiligde zending in kennis, en treft hij de nodige corrigerende maatregelen, waaronder maatregelen betreffende de bescherming van de volksgezondheid. In geval van lekkages en significante onregelmatigheden die een lekkagerisico inhouden, stelt de exploitant ook de afdeling van het departement Leefmilieu, Natuur en Energie, bevoegd voor luchtverontreiniging, daarvan in kennis.<br>
+<br>
+De nodige corrigerende maatregelen worden getroffen met als minimumbasis het plan met corrigerende maatregelen dat is ingediend bij de minister en door de Vlaamse Regering is goedgekeurd.<br>
+<br>
+§ 2. De minister kan van de exploitant op elk moment eisen de nodige corrigerende maatregelen te treffen, alsmede maatregelen betreffende de bescherming van de volksgezondheid. Deze kunnen een aanvulling zijn op of verschillen van die welke in het plan met corrigerende maatregelen zijn opgenomen. De minister kan ook altijd zelf corrigerende maatregelen treffen.<br>
+<br>
+Als de exploitant nalaat de nodige corrigerende maatregelen te treffen, neemt de minister de vereiste corrigerende maatregelen zelf.<br>
+<br>
+De Vlaamse Regering verhaalt op de exploitant de kosten die in verband met de in het eerste en het tweede lid bedoelde maatregelen zijn gemaakt, met inbegrip van het aanspreken van de financiële zekerheid overeenkomstig artikel 57.
 
 ## Onderafdeling VI Verplichtingen bij afsluiting en in de periode na afsluiting
 
