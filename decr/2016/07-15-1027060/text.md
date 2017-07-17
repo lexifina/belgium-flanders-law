@@ -216,7 +216,7 @@
 
 ### ART 56.
 
-<span style="color: rgb(0, 0, 0);">Artikel 29 en 30 van dit decreet zijn niet van toepassing op ontwerpen van verordeningen die reeds een eerste maal door de Vlaamse Regering, de deputatie of het college van burgemeester en schepenen zijn vastgesteld voor de inwerkingtreding van de nadere regels rond het openbaar onderzoek, vermeld in deze artikelen.</span><br>
+<span style="color: rgb(0, 0, 0);">Artikel&nbsp;30 en 31 van dit decreet zijn niet van toepassing op ontwerpen van verordeningen die reeds een eerste maal door de Vlaamse Regering, de deputatie of het college van burgemeester en schepenen zijn vastgesteld voor de inwerkingtreding van de nadere regels rond het openbaar onderzoek, vermeld in deze artikelen.</span><br>
 &nbsp;
 
 ### ART 57.
