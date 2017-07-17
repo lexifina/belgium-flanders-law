@@ -136,35 +136,86 @@ Artikel 28 heeft uitwerking met ingang vanaf 1 april 2006.<br /><br />
 
 ### ART. 30.
 
-Bij het Agentschap voor Natuur en Bos, hierna het agentschap te noemen, of zijn rechtsopvolger, wordt een Eigen Vermogen ingesteld onder de benaming Ondersteunend Centrum van het Agentschap voor Natuur en Bos, afgekort OC-ANB.<br /><br />Aan het OC-ANB wordt rechtspersoonlijkheid toegekend.<br /><br />
+Bij het Agentschap voor Natuur en Bos, hierna het agentschap te noemen, of zijn rechtsopvolger, wordt een Eigen Vermogen ingesteld onder de benaming Natuurinvest.<br>
+<br>
+Aan Natuurinvest wordt rechtspersoonlijkheid toegekend.<br>
+&nbsp;
 
 ### ART. 31.
 
-Het OC-ANB heeft tot doel bij te dragen tot de realisatie van het beleid inzake natuurbehoud en de vrijwaring van het natuurlijk milieu en het milieubeleid door middel van :<br />1° het sociaal-economisch valoriseren in het kader van een duurzaam beheer van de domeinen in beheer bij het agentschap, inclusief op natuurbeleving gericht recreatief en educatief medegebruik en van de goederen in eigendom van het OC-ANB;<br />2° het uitvoeren van terreinrealisaties zowel op gronden van het Vlaamse Gewest, waaronder domeinbossen, Vlaamse natuurreservaten, parken en viswaters, als op terreinen van derden.<br />Onder derden wordt in dit verband verstaan :<br />a) overheden en openbare instellingen;<br />b) de conform het bosdecreet van 13 juni 1990 erkende bosgroepen en leden van die bosgroepen;<br />c) de conform het decreet natuurbehoud van 21 oktober 1997 erkende natuurverenigingen;<br />d) rechtspersonen die zijn opgezet met het oog op het realiseren van projecten die van belang zijn voor het natuurlijk milieu, bos, groen en faunabeheer, alsmede private rechtspersonen op wiens gronden die projecten worden uitgevoerd;<br />3° het verlenen van diensten en het uitwisselen van diensten in coöperatief verband;<br />4° het participeren in publiek-private samenwerkingsverbanden mits het voorafgaandelijk akkoord van de Minister van Begroting;<br />5° het ondersteunen van en het uitbaten van bezoekerscentra van het agentschap;<br />6° het meedingen naar of uitvoeren van opdrachten en projecten waarmee de kennis en ervaring die aanwezig zijn binnen het agentschap en het OC-ANB kunnen worden ingezet ter ondersteuning van andere publiek- of privaatrechtelijke verenigingen, ondernemingen of instellingen.<br /><br />
+Natuurinvest heeft tot doel bij te dragen tot de realisatie van het beleid inzake natuurbehoud en de vrijwaring van het natuurlijk milieu en het milieubeleid door middel van :<br>
+1° het sociaal-economisch valoriseren in het kader van een duurzaam beheer van de domeinen in beheer bij het agentschap, inclusief op natuurbeleving gericht recreatief en educatief medegebruik en van de goederen in eigendom van Natuurinvest;<br>
+2° het uitvoeren van terreinrealisaties zowel op gronden van het Vlaamse Gewest, waaronder domeinbossen, Vlaamse natuurreservaten, parken en viswaters, als op terreinen van derden.<br>
+Onder derden wordt in dit verband verstaan :<br>
+a) overheden en openbare instellingen;<br>
+b) de conform het bosdecreet van 13 juni 1990 erkende bosgroepen en leden van die bosgroepen;<br>
+c) de conform het decreet natuurbehoud van 21 oktober 1997 erkende natuurverenigingen;<br>
+d) rechtspersonen die zijn opgezet met het oog op het realiseren van projecten die van belang zijn voor het natuurlijk milieu, bos, groen en faunabeheer, alsmede private rechtspersonen op wiens gronden die projecten worden uitgevoerd;<br>
+3° het verlenen van diensten en het uitwisselen van diensten in coöperatief verband;<br>
+4° het participeren in publiek-private samenwerkingsverbanden mits het voorafgaandelijk akkoord van de Minister van Begroting;<br>
+5° het ondersteunen van en het uitbaten van bezoekerscentra van het agentschap;<br>
+6° het meedingen naar of uitvoeren van opdrachten en projecten waarmee de kennis en ervaring die aanwezig zijn binnen het agentschap en Natuurinvest kunnen worden ingezet ter ondersteuning van andere publiek- of privaatrechtelijke verenigingen, ondernemingen of instellingen.<br>
+&nbsp;
 
 ### ART. 32.
 
-Het OC-ANB kan voor de verwezenlijking van zijn doel vrij contracten sluiten in het raam van een aanneming, onderaanneming, tijdelijke vereniging, een consortium, en alle andere geschikt bevonden samenwerkingsverbanden, roerende en onroerende goederen verwerven en vervreemden en in het algemeen alle nuttige rechtshandelingen stellen<br />
+Natuurinvest kan voor de verwezenlijking van zijn doel vrij contracten sluiten in het raam van een aanneming, onderaanneming, tijdelijke vereniging, een consortium, en alle andere geschikt bevonden samenwerkingsverbanden, roerende en onroerende goederen verwerven en vervreemden en in het algemeen alle nuttige rechtshandelingen stellen
 
 ### ART. 33.
 
-Het OC-ANB kan mits een unanieme beslissing in de beheerscommissie medeoprichter, lid, bestuurder of vennoot zijn van publiek- of privaatrechtelijke verenigingen, ondernemingen of instellingen, op voorwaarde dat het doel van die rechtspersonen verband houdt met het doel van het OC-ANB.<br /><br />
+Natuurinvest kan mits een unanieme beslissing in de beheerscommissie medeoprichter, lid, bestuurder of vennoot zijn van publiek- of privaatrechtelijke verenigingen, ondernemingen of instellingen, op voorwaarde dat het doel van die rechtspersonen verband houdt met het doel van Natuurinvest.<br>
+&nbsp;
 
 ### ART. 34.
 
-In navolging van artikel 32 kan het OC-ANB op contractuele basis personeel aanwerven, tewerkstellen en ontslaan.<br /><br />Het OC-ANB kan personeel ter beschikking stellen van het Vlaamse Gewest. De wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers is op die terbeschikkingstelling niet van toepassing.<br /><br />
+In navolging van artikel 32 kan Natuurinvest op contractuele basis personeel aanwerven, tewerkstellen en ontslaan.<br>
+<br>
+Natuurinvest kan personeel ter beschikking stellen van het Vlaamse Gewest. De wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers is op die terbeschikkingstelling niet van toepassing.<br>
+&nbsp;
 
 ### ART. 35.
 
-§ 1. Het OC-ANB wordt bestuurd door een beheerscommissie.<br /><br />De volgende personen zijn ambtshalve lid :<br />1° het hoofd van het agentschap, tevens voorzitter van de beheerscommissie en, in voorkomend geval, de algemeen directeur. Bij afwezigheid van het hoofd van het agentschap is de algemeen directeur de voorzitter;<br />2° de hoofden op afdelingsniveau van de centrale diensten van het agentschap;<br />3° de afgevaardigde van de Vlaamse minister bevoegd voor de landinrichting en het natuurbehoud.<br /><br />De volgende personen worden benoemd door de Vlaamse Regering :<br />1° een vertegenwoordiger van de conform het Bosdecreet van 13 juni 1990 erkende bosgroepen;<br />2° een vertegenwoordiger van de conform het decreet natuurbehoud van 21 oktober 1997 erkende natuurverenigingen;<br />3° een vertegenwoordiger van de conform het jachtdecreet van 24 juli 1991 erkende wildbeheereenheden;<br />4° een vertegenwoordiger van de Vereniging van Vlaamse Steden en Gemeenten;<br />5° een ambtenaar, deskundig in financiën en begroting, op voorstel van de Vlaamse minister bevoegd voor Financiën en Begroting.<br /><br />§ 2. De beheerscommissie moet steeds voor minstens de helft zijn samengesteld uit ambtenaren van het agentschap. Ook een vertegenwoordiger van de Vlaamse minister, bevoegd voor de Landinrichting en het Natuurbehoud, moet er deel van uitmaken. Met dit doel kan het hoofd van het agentschap desgevallend één of meer afdelingshoofden van de provinciale entiteiten van het agentschap als lid aanstellen.<br /><br />De Vlaamse Regering wordt gemachtigd de samenstelling te wijzigen op basis van wijzigingen op het vlak van interne organisatie van het agentschap en van het gewicht dat aan een taak of doelgroep wordt gegeven. De voorwaarde, gesteld in het vorige lid, moet daarbij nageleefd worden.<br /><br />§ 3. De voorzitter kan bevoegde personen uitnodigen om met raadgevende stem aan de bespreking van een punt van de agenda van een vergadering van de beheerscommissie deel te nemen.<br /><br />§ 4. De beheerscommissie vergadert minstens tweemaal per jaar.<br /><br />
+§ 1. Natuurinvest wordt bestuurd door een beheerscommissie.<br>
+<br>
+De volgende personen zijn ambtshalve lid :<br>
+1° het hoofd van het agentschap, tevens voorzitter van de beheerscommissie en, in voorkomend geval, de algemeen directeur. Bij afwezigheid van het hoofd van het agentschap is de algemeen directeur de voorzitter;<br>
+2° de hoofden op afdelingsniveau van de centrale diensten van het agentschap;<br>
+3° de afgevaardigde van de Vlaamse minister bevoegd voor de landinrichting en het natuurbehoud.<br>
+<br>
+De volgende personen worden benoemd door de Vlaamse Regering :<br>
+1° een vertegenwoordiger van de conform het Bosdecreet van 13 juni 1990 erkende bosgroepen;<br>
+2° een vertegenwoordiger van de conform het decreet natuurbehoud van 21 oktober 1997 erkende natuurverenigingen;<br>
+3° een vertegenwoordiger van de conform het jachtdecreet van 24 juli 1991 erkende wildbeheereenheden;<br>
+4° een vertegenwoordiger van de Vereniging van Vlaamse Steden en Gemeenten;<br>
+5° een ambtenaar, deskundig in financiën en begroting, op voorstel van de Vlaamse minister bevoegd voor Financiën en Begroting.<br>
+<br>
+§ 2. De beheerscommissie moet steeds voor minstens de helft zijn samengesteld uit ambtenaren van het agentschap. Ook een vertegenwoordiger van de Vlaamse minister, bevoegd voor de Landinrichting en het Natuurbehoud, moet er deel van uitmaken. Met dit doel kan het hoofd van het agentschap desgevallend één of meer afdelingshoofden van de provinciale entiteiten van het agentschap als lid aanstellen.<br>
+<br>
+De Vlaamse Regering wordt gemachtigd de samenstelling te wijzigen op basis van wijzigingen op het vlak van interne organisatie van het agentschap en van het gewicht dat aan een taak of doelgroep wordt gegeven. De voorwaarde, gesteld in het vorige lid, moet daarbij nageleefd worden.<br>
+<br>
+§ 3. De voorzitter kan bevoegde personen uitnodigen om met raadgevende stem aan de bespreking van een punt van de agenda van een vergadering van de beheerscommissie deel te nemen.<br>
+<br>
+§ 4. De beheerscommissie vergadert minstens tweemaal per jaar.<br>
+&nbsp;
 
 ### ART. 36.
 
-De inkomsten van het OC-ANB worden gevormd door :<br />1° de opbrengsten, gehaald uit de verkoop van hout en andere producten uit de domeinen in beheer van het agentschap;<br />2° het valoriseren van de resultaten van de uitgevoerde activiteiten, vermeld in artikel 31;<br />3° de giften, legaten, schenkingen, beurzen, prijzen of alle andere giften die zijn aanvaard krachtens de wet van 12 juli 1931 betreffende de uitbreiding tot alle rechtspersonen van het voordeel van de voorlopige aanvaarding van bij akte gedane schenkingen onder de levenden;<br />4° heffingen, retributies, subsidies en dergelijke meer;<br />4°bis huurgelden, pachtgelden, inkomsten uit concessies en in het algemeen alle inkomsten uit gebruiksrechten op onroerende goederen die in beheer zijn van het agentschap;<br />5° de verkoop van rapporten, brochures, kaarten, plans of andere publicaties, met inbegrip van producten in elektronische vorm;<br />6° het uitbaten van bezoekerscentra van het agentschap;<br />7° het beheer en de vervreemding van goederen die behoren tot de rechtspersoon OC-ANB;<br />8° andere inkomsten, na goedkeuring door de Vlaamse Regering.<br /><br />
+De inkomsten van Natuurinvest worden gevormd door :<br>
+1° de opbrengsten, gehaald uit de verkoop van hout en andere producten uit de domeinen in beheer van het agentschap;<br>
+2° het valoriseren van de resultaten van de uitgevoerde activiteiten, vermeld in artikel 31;<br>
+3° de giften, legaten, schenkingen, beurzen, prijzen of alle andere giften die zijn aanvaard krachtens de wet van 12 juli 1931 betreffende de uitbreiding tot alle rechtspersonen van het voordeel van de voorlopige aanvaarding van bij akte gedane schenkingen onder de levenden;<br>
+4° heffingen, retributies, subsidies en dergelijke meer;<br>
+4°bis huurgelden, pachtgelden, inkomsten uit concessies en in het algemeen alle inkomsten uit gebruiksrechten op onroerende goederen die in beheer zijn van het agentschap;<br>
+5° de verkoop van rapporten, brochures, kaarten, plans of andere publicaties, met inbegrip van producten in elektronische vorm;<br>
+6° het uitbaten van bezoekerscentra van het agentschap;<br>
+7° het beheer en de vervreemding van goederen die behoren tot de rechtspersoon Natuurinvest;<br>
+8° andere inkomsten, na goedkeuring door de Vlaamse Regering.<br>
+&nbsp;
 
 ### ART. 37.
 
-De Vlaamse Regering kan beslissen onroerende en roerende goederen van het Vlaamse Gewest die niet langer dienstig zijn voor de strikte overheidstaak van het agentschap met het oog op valorisatie kosteloos in eigendom over te dragen aan het OC-ANB. In die gevallen neemt het OC-ANB de rechten en plichten over van het agentschap. Betrokken onroerende en roerende goederen kunnen niet vervreemd worden dan ten behoeve van de schatkist.<br /><br />
+De Vlaamse Regering kan beslissen onroerende en roerende goederen van het Vlaamse Gewest die niet langer dienstig zijn voor de strikte overheidstaak van het agentschap met het oog op valorisatie kosteloos in eigendom over te dragen aan Natuurinvest. In die gevallen neemt Natuurinvest de rechten en plichten over van het agentschap. Betrokken onroerende en roerende goederen kunnen niet vervreemd worden dan ten behoeve van de schatkist.<br>
+&nbsp;
 
 ### ART. 38.
 
