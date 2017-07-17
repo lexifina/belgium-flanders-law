@@ -56,7 +56,41 @@ Dit decreet doet geen afbreuk aan de doelstellingen en inhoudelijke   verplichti
 
 ### ART. 6.
 
-<P>§ 1. Het nemen van de startbeslissing en het vaststellen van het   voorkeursbesluit of het projectbesluit komt toe aan de Vlaamse Regering, de   provincieraad of de gemeenteraad.<BR></P>  <P>§ 2. De Vlaamse Regering is bevoegd voor het vaststellen van het   voorkeursbesluit als het complexe project dat met het voorkeursbesluit wordt   beoogd, een project betreft als vermeld in artikel 15, § 1, eerste lid, van het   decreet van 25 april 2014 betreffende de omgevingsvergunning.<BR></P>  <P>De provincieraad is bevoegd voor het vaststellen van het voorkeursbesluit als   het complexe project dat met het voorkeursbesluit wordt beoogd, een project   betreft als vermeld in artikel 15, § 1, derde lid, van het decreet van 25 april   2014 betreffende de omgevingsvergunning.<BR></P>  <P>De gemeenteraad is bevoegd voor het vaststellen van het voorkeursbesluit in   alle andere gevallen.<BR></P>  <P>§ 3. Als het complexe project bestaat uit twee of meer deelprojecten,   waarvoor krachtens het decreet van 25 april 2014 betreffende de   omgevingsvergunning twee of meer overheden als vermeld in paragraaf 1, bevoegd   zijn, wijzen ze in onderling overleg de bevoegde overheid aan die het   voorkeursbesluit zal vaststellen.<BR></P>  <P>Het aanwijzen van de bevoegde overheid en de eventueel daarmee gepaard gaande   afspraken en voorwaarden gebeurt schriftelijk en uiterlijk op het moment waarop   het ontwerp van voorkeursbesluit wordt vastgesteld.<BR></P>  <P>§ 4. De Vlaamse Regering is bevoegd voor het vaststellen van het   projectbesluit als het complexe project dat met het projectbesluit wordt beoogd,   een project betreft als vermeld in artikel 15, § 1, eerste lid, van het decreet   van 25 april 2014 betreffende de omgevingsvergunning.<BR></P>  <P>De provincieraad is bevoegd voor het vaststellen van het projectbesluit als   het complexe project dat met het projectbesluit wordt beoogd, een project   betreft als vermeld in artikel 15, § 1, derde lid, van het decreet van 25 april   2014 betreffende de omgevingsvergunning.<BR></P>  <P>De gemeenteraad is bevoegd voor het vaststellen van het projectbesluit in   alle andere gevallen.<BR></P>  <P>§ 5. Als het complexe project bestaat uit twee of meer deelprojecten,   waarvoor krachtens het decreet van 25 april 2014 betreffende de   omgevingsvergunning twee of meer overheden als vermeld in paragraaf 1, bevoegd   zijn, wijzen ze in onderling overleg de bevoegde overheid aan die het   projectbesluit zal vaststellen.<BR></P>  <P>Het aanwijzen van de bevoegde overheid en de eventueel daarmee gepaard gaande   afspraken en voorwaarden gebeurt schriftelijk en uiterlijk op het moment waarop   het ontwerp van projectbesluit wordt vastgesteld.<BR></P>
+<p>§ 1. Het nemen van de startbeslissing en het vaststellen van het voorkeursbesluit of het projectbesluit komt toe aan de Vlaamse Regering, de provincieraad of de gemeenteraad.</p>
+
+<p>§ 2. De Vlaamse Regering is bevoegd voor het vaststellen van het voorkeursbesluit als het complexe project dat met het voorkeursbesluit wordt beoogd, een project betreft als vermeld in artikel 15, § 1, eerste lid, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.</p>
+
+<p>De provincieraad is bevoegd voor het vaststellen van het voorkeursbesluit als het complexe project dat met het voorkeursbesluit wordt beoogd, een project betreft als vermeld in artikel 15, § 1, derde lid, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.</p>
+
+<p>De gemeenteraad is bevoegd voor het vaststellen van het voorkeursbesluit in alle andere gevallen.</p>
+
+<p>§ 3. Als het complexe project bestaat uit twee of meer deelprojecten, waarvoor krachtens het decreet van 25 april 2014 betreffende de omgevingsvergunning twee of meer overheden als vermeld in paragraaf 1, bevoegd zijn, wijzen ze in onderling overleg de bevoegde overheid aan die het voorkeursbesluit zal vaststellen.</p>
+
+<p>Het aanwijzen van de bevoegde overheid en de eventueel daarmee gepaard gaande afspraken en voorwaarden gebeurt schriftelijk en uiterlijk op het moment waarop het ontwerp van voorkeursbesluit wordt vastgesteld.</p>
+
+<p>§ 4. De Vlaamse Regering is bevoegd voor het vaststellen van het projectbesluit als het complexe project dat met het projectbesluit wordt beoogd, een project betreft als vermeld in artikel 15, § 1, eerste lid, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.</p>
+
+<p>De provincieraad is bevoegd voor het vaststellen van het projectbesluit als het complexe project dat met het projectbesluit wordt beoogd, een project betreft als vermeld in artikel 15, § 1, derde lid, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.</p>
+
+<p>De gemeenteraad is bevoegd voor het vaststellen van het projectbesluit in alle andere gevallen.</p>
+
+<p>§ 5. Als het complexe project bestaat uit twee of meer deelprojecten, waarvoor krachtens het decreet van 25 april 2014 betreffende de omgevingsvergunning twee of meer overheden als vermeld in paragraaf 1, bevoegd zijn, wijzen ze in onderling overleg de bevoegde overheid aan die het projectbesluit zal vaststellen.</p>
+
+<p>Het aanwijzen van de bevoegde overheid en de eventueel daarmee gepaard gaande afspraken en voorwaarden gebeurt schriftelijk en uiterlijk op het moment waarop het ontwerp van projectbesluit wordt vastgesteld.<br>
+<br>
+§ 6. De bevoegde overheden kunnen de bevoegdheid voor het vaststellen van het voorkeursbesluit en het projectbesluit delegeren aan een ander bestuursniveau.<br>
+<br>
+Het delegatiebesluit wordt opgenomen in het ontwerp van voorkeursbesluit of het ontwerp van projectbesluit, na schriftelijke instemming van de betrokken bestuursniveaus. Het delegatiebesluit bevat een motivering voor de delegatie van de bevoegdheid.<br>
+<br>
+Bij het verlenen van de delegatie kunnen de bestuursniveaus afspraken maken die verbonden zijn aan de opmaak van het voorkeurs- en projectbesluit.<br>
+<br>
+De delegatie van de bevoegdheid voor het vaststellen van het voorkeursbesluit vervalt in de volgende gevallen:<br>
+1° als er geen voorkeursbesluit definitief is vastgesteld, binnen de vijf jaar na de vaststelling van het ontwerp van voorkeursbesluit;<br>
+2° als er een voorkeursbesluit definitief is vastgesteld, vanaf de inwerkingtreding hiervan, met behoud van de mogelijkheid tot opheffing vermeld in artikel 43, tweede lid.<br>
+<br>
+De delegatie van de bevoegdheid voor het vaststellen van het projectbesluit vervalt in de volgende gevallen:<br>
+1° als er geen projectbesluit definitief is vastgesteld, binnen de vijf jaar na de vaststelling van het ontwerp van projectbesluit;<br>
+2° als er een projectbesluit definitief is vastgesteld, vanaf de inwerkingtreding hiervan.</p>
 
 ### ART 6/1.
 
@@ -342,7 +376,9 @@ Het voorkeursbesluit of projectbesluit kan instanties of personen   aanwijzen di
 
 ### ART. 38.
 
-Het definitief vastgestelde projectbesluit wordt in voorkomend geval van   rechtswege beschouwd als de melding, vermeld in :<BR>1° artikel 106 van het   decreet van 25 april 2014 betreffende de omgevingsvergunning;<BR>2° artikel   5.4.6 van het decreet van 12 juli 2013 betreffende het onroerend   erfgoed.<BR>
+Het definitief vastgestelde projectbesluit wordt in voorkomend geval van rechtswege beschouwd als de melding, vermeld in :<br>
+1° artikel 106 van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
+2° ...
 
 ### ART. 39.
 
