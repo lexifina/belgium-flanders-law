@@ -412,7 +412,16 @@ In artikel 27bis van hetzelfde decreet worden de cijfers "11 en 12" vervangen do
 
 ### ART. 40.
 
-§ 1. Volgende reeds toegekende terugvorderbare voorschotten worden bevestigd aan de hierna vermelde verenigingen, erkend met toepassing van de wet van 20 juni 1956 betreffende de verbetering van de rassen van voor landbouw nuttige huisdieren :<br />1° 100.000,00 euro aan de vzw Vlaams Fokkerijcentrum;<br />2° 71.520,36 euro aan de vzw Vlaamse Rundveeteelt Vereniging;<br />3° 178.476,10 euro aan de vzw Vlaams Varkensstamboek.<br /><br />§ 2. Het terugvorderbaar voorschot, vermeld in artikel 1, mag door de vereniging in kwestie uitsluitend aangewend worden voor de uitvoering van opdrachten haar gegeven met toepassing van de wet van 20 juni 1956.<br /><br />§ 3. De Vlaamse Regering wordt gemachtigd :<br />1° de voorwaarden betreffende de aanwending van het terugvorderbaar voorschot te bepalen;<br />2° het bedrag van de terugvorderbare voorschotten te wijzigen.<br /><br />
+§ 1. De volgende reeds toegekende terugvorderbare voorschotten worden bevestigd aan de volgende verenigingen, erkend met toepassing van artikel 40, 2°, van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid:<br>
+1° 71.520,36 euro aan de vzw CRV Vlaanderen;<br>
+2° 278.476,10 euro aan de vzw Vlaamse Piétrain Fokkerij.<br>
+<br>
+§ 2. Het terugvorderbare voorschot, vermeld in paragraaf 1, mag door de vereniging in kwestie uitsluitend aangewend worden voor de uitvoering van opdrachten die haar gegeven zijn krachtens artikel 40, 1°, van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid.<br>
+<br>
+§ 3. De Vlaamse Regering wordt gemachtigd :<br>
+1° de voorwaarden betreffende de aanwending van het terugvorderbaar voorschot te bepalen;<br>
+2° het bedrag van de terugvorderbare voorschotten te wijzigen.<br>
+&nbsp;
 
 ## HOOFDSTUK XI Energie
 
