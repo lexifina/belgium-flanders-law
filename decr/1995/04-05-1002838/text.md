@@ -34,7 +34,7 @@ Onder milieuplanning wordt het geheel van activiteiten verstaan die erop gericht
 
 ### ART. 2.1.2.
 
-De milieuplanning op gewestelijk niveau omvat :<br />1° het tweejaarlijks opstellen van een milieurapport;<br />2° het vijfjaarlijks opstellen van een milieubeleidsplan;<br />3° het jaarlijks opstellen van een milieujaarprogramma.<br /><br />Het milieujaarprogramma vormt een herkenbaar onderdeel van de begroting en sluit er inhoudelijk bij aan.<br /><br />Op provinciaal en gemeentelijk niveau kunnen eveneens milieubeleidsplannen en milieujaarprogramma's worden opgesteld.<br />
+De milieuplanning op gewestelijk niveau omvat de plannen en programma's die in uitvoering van thematische wetgeving worden opgesteld en het tweejaarlijks opstellen van een milieurapport.
 
 ## AFDELING 2 MILIEUPLANNING OP GEWESTELIJK NIVEAU
 
@@ -60,33 +60,33 @@ Het milieurapport wordt ter kennis gebracht van de provincies en gemeenten.<br /
 
 ### ART. 2.1.7.
 
-§ 1. De Vlaamse Regering stelt in de loop van het jaar dat volgt op haar aantreden een milieubeleidsplan vast met het oog op de bescherming en het beheer van het milieu. Dat plan beoogt de doeltreffendheid, de efficiëntie en de interne samenhang van het milieubeleid op alle beleidsniveaus te bevorderen.<br /><br />Het plan wordt onder meer opgesteld op basis van het regeerakkoord en van de gegevens van het milieurapport en houdt onder meer rekening met :<br />1° de doelstellingen en beginselen, bepaald in artikel 1.2.1 van dit decreet;<br />2° de redelijkerwijze te verwachten financiële, sociaal-economische en ruimtelijke gevolgen van het milieubeleid;<br />3° de mogelijke ontwikkelingen op lange termijn.<br /><br />§ 2. Het plan bepaalt de hoofdlijnen van het milieubeleid dat door het Vlaamse Gewest, alsmede door de provincies en de gemeenten in aangelegenheden van gewestelijk belang, dient te worden gevoerd.<br /><br />§ 3. Het plan omvat een actieplan dat tenminste bevat:<br />1° de in de betrokken periode beoogde kwaliteit van de onderscheiden onderdelen van het milieu en met name de vooropgestelde milieukwaliteitsnormen en de termijnen waarbinnen ze dienen te worden bereikt;<br />2° de aanduiding van gebieden waarin de kwaliteit van het milieu of van een of meer onderdelen daarvan bijzondere beschermings- of beheersmaatregelen behoeft;<br />3° de daartoe vereiste beperking van milieubelasting, sanering of herstel van het milieu;<br />4° de maatregelen, de middelen en de termijnen die worden vooropgesteld om deze doelstellingen te bereiken, alsmede de prioriteiten die daarbij gelden.
+...
 
 ### ART. 2.1.8.
 
-§ 1. Het ontwerpplan wordt opgesteld door een planningsteam. De Vlaamse regering bepaalt de samenstelling en werking van dit planningsteam en duidt een coördinator aan.<br /><br />§ 2. Het planningsteam kan bij de uitvoering van zijn opdracht worden bijgestaan door externe deskundigen die aangeworven worden op contractuele basis overeenkomstig de voorwaarden bepaald door de Vlaamse regering.<br /><br />§ 3. De diensten van de Vlaamse overheid, de instellingen die afhangen van het Vlaamse Gewest, de ondergeschikte besturen die onder het administratief toezicht staan van het Vlaamse Gewest en de publiekrechtelijke en privaatrechtelijke rechtspersonen die belast zijn met taken van openbaar nut inzake milieu, stellen, op eenvoudige vraag van het planningsteam, alle informatie waarover zij beschikken en die nodig is voor het opstellen van het milieubeleidsplan ter beschikking van het planningsteam, voor zover deze informatie nog niet ter beschikking werd gesteld van de Vlaamse Milieumaatschappij met toepassing van artikel 2.1.5, § 3.<br /><br />§ 4. De Vlaamse regering bepaalt de voorwaarden waaronder, overeenkomstig § 3, informatie aan het planningsteam ter beschikking wordt gesteld.
+...
 
 ### ART. 2.1.9.
 
-§ 1. Uiterlijk acht maanden voor de voorziene datum van inwerkingtreding   van het milieubeleidsplan stelt de Vlaamse Regering het ontwerpplan voorlopig   vast en deelt het mee aan het Vlaams Parlement, de Sociaal-Economische Raad van   Vlaanderen, de Milieu- en Natuurraad, de provincies en de gemeenten. <BR><BR>§   2. Het ontwerpplan wordt voor een termijn van zestig dagen aan een openbaar   onderzoek onderworpen. De Vlaamse Regering brengt dit ontwerpplan met het oog op   inspraak ter kennis van de bevolking.<BR><BR>§ 3. Iedereen kan gedurende de in §   2 bepaalde termijn opmerkingen op het ontwerpplan schriftelijk   indienen.<BR><BR>§ 4. ... <BR><BR>§ 5. In het kader van het openbaar onderzoek   wordt gedurende de in paragraaf 2 bepaalde termijn minstens één informatie- en   inspraakmoment georganiseerd.<BR><BR>§ 6. Binnen negentig dagen na ontvangst van   het ontwerpplan brengen de provincies,&nbsp;de gemeenten, de Sociaal-Economische   Raad van Vlaanderen en de Milieu- en Natuurraad van Vlaanderen hun met redenen   omkleed advies met betrekking tot het ontwerpplan ter kennis van het   planningsteam.<BR><BR>Wanneer een advies niet is verleend binnen de in het   eerste lid bepaalde termijn, mag aan de adviesvereiste worden   voorbijgegaan.<BR><BR>§ 7. Binnen negentig dagen na ontvangst van het   ontwerpplan kunnen de bevoegde commissies van het Vlaams Parlement aan de   Vlaamse regering een advies uitbrengen over het ontwerpplan.<BR><BR>§ 8. De   Vlaamse regering stelt de nadere regels vast voor het openbaar onderzoek dat in   dit artikel is bepaald.
+...
 
 ### ART. 2.1.10.
 
-§ 1. Binnen zestig dagen na het verstrijken van de in artikel 2.1.9, § 6,   en 2.1.9, § 7, bepaalde termijn, onderzoekt het planningsteam de met toepassing   van artikel 2.1.9, § 3, § 6 en § 7, ingediende opmerkingen en verstrekte   adviezen, stelt het definitieve ontwerpplan op en deelt het, samen met de   ingediende opmerkingen en verstrekte adviezen en zijn standpunt hierover, mee   aan de Vlaamse regering.<BR><BR>§ 2. De Vlaamse regering stelt het plan vast bij   een met redenen omkleed besluit en vermeldt daarin in het algemeen wat zij   omtrent de ingediende opmerkingen en verstrekte adviezen heeft   overwogen.<BR><BR>§ 3. Het plan wordt ter kennis gebracht van het Vlaams   Parlement, de provincies, de gemeenten, de Sociaal-Economische Raad van   Vlaanderen en de Milieu- en Natuurraad van Vlaanderen.<BR><BR>§ 4. Het plan   wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<BR><BR>(Zie:   B.V.R. 8 juli 1997, B.S., 10 januari 1998)
+...
 
 ### ART. 2.1.11.
 
-§ 1. De bepalingen van het milieubeleidsplan zijn indicatief, behoudens de bepalingen van het actieplan die door de Vlaamse regering als bindend zijn aangeduid. Deze bepalingen zijn bindend voor de diensten van de Vlaamse overheid, de instellingen die afhangen van het Vlaamse Gewest, de ondergeschikte besturen die onder het administratief toezicht staan van het Vlaamse Gewest en de publiekrechtelijke en privaatrechtelijke rechtspersonen die belast zijn met taken van openbaar nut inzake milieu.<br /><br />§ 2. Het milieubeleidsplan wordt in principe opgesteld voor een termijn van vijf jaar, maar blijft gelden tot het door een ander is vervangen.<br /><br />Het plan kan te allen tijde door de Vlaamse regering worden herzien volgens de procedure bepaald in de artikelen 2.1.8, 2.1.9 en 2.1.10 van dit decreet.
+...
 
 ### ART. 2.1.12.
 
-Bij wijze van overgangsmaatregel blijft het MINA-plan 3 geldig tot 31 december 2010. Bij wijze van eenmalige uitzondering in het kader van de overgangsmaatregel kunnen, rekening houdend met de adviezen van MINA-Raad en SERV, in het milieu-jaarprogramma 2008 de nodige actualisaties en aanvullingen i.f.v. internationale ontwikkelingen en bevindingen uit recente milieu- en natuurrapporten worden aangebracht aan de doelstellingen en maatregelen voor de periode 2008-2010. De adviezen aan de MINA-Raad en SERV worden hierbij voorafgaand aan de begroting 2008 gevraagd. Voorafgaande inspraak voor het publiek m.b.t. de actualisaties en aanvullingen wordt voorzien.<br />
+...
 
 ## ONDERAFDELING 3 HET GEWESTELIJK MILIEUJAARPROGRAMMA
 
 ### ART. 2.1.13.
 
-Het milieujaarprogramma wordt opgesteld ter uitvoering en operationalisering van het milieubeleidsplan en bevat tenminste:<br /><br />1° een verslag van de stand van uitvoering van het geldende milieubeleidsplan;<br /><br />2° een verslag van de stand van uitvoering van de Europese milieuwetgeving;<br /><br />3° een verslag van de stand van zaken aangaande de goedkeuring van de internationale overeenkomsten door het Vlaamse Gewest;<br /><br />4° een opgave van de door het Vlaamse Gewest in het komende jaar te verrichten activiteiten en te nemen maatregelen ter uitvoering van het geldende milieubeleidsplan;<br /><br />5° een overzicht van de in het ontwerp van begroting geraamde inkomsten en uitgaven voor de uitvoering van het milieubeleidsplan;<br /><br />6° een lijst met alle geplande en lopende onderzoeken en herstelprogramma's.
+...
 
 ### ART. 2.1.14.
 
