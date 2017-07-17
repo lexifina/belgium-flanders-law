@@ -208,684 +208,262 @@ De besluiten ter uitvoering van de besluitwet van 18 december 1946 waarbij tot h
 
 ### BIJLAGE
 
+Bijlage<br>
+<br>
 I. Laagfactor<br>
 &nbsp;
-<table border="1" cellpadding="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td>
-			<p>Code<!--?xml:namespace         prefix = "o" /--></p>
-			</td>
-			<td>
-			<p>Hydrogeologische hoofdeenheid</p>
-			</td>
-			<td>
-			<p>laagfactor</p>
-			</td>
+			<td>Code</td>
+			<td>Hydrogeologische hoofdeenheid</td>
+			<td>laagfactor</td>
 		</tr>
 		<tr>
-			<td>
-			<p>0100</p>
-			</td>
-			<td>
-			<p>Quartaire aquifersystemen</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
+			<td>0100</td>
+			<td>Quartaire aquifersystemen</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td>
-			<p>0200</p>
-			</td>
-			<td>
-			<p>Kempens aquifersysteem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
+			<td>0200</td>
+			<td>Kempens aquifersysteem</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td>
-			<p>0300</p>
-			</td>
-			<td>
-			<p>Boom aquitard</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
+			<td>0300</td>
+			<td>Boom aquitard</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td>
-			<p>0400</p>
-			</td>
-			<td>
-			<p>Oligoceen aquifersysteem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
+			<td>0400</td>
+			<td>Oligoceen aquifersysteem</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td>
-			<p>0500</p>
-			</td>
-			<td>
-			<p>Bartoon aquitardsysteem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
+			<td>0500</td>
+			<td>Bartoon aquitardsysteem</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td>
-			<p>0600</p>
-			</td>
-			<td>
-			<p>Ledo-Paniseliaan Brusseliaan aquifersysteem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
+			<td>0600</td>
+			<td>Ledo-Paniseliaan Brusseliaan aquifersysteem</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td>
-			<p>0700</p>
-			</td>
-			<td>
-			<p>Paniseliaan aquitard</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
+			<td>0700</td>
+			<td>Paniseliaan aquitard</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td>
-			<p>0800</p>
-			</td>
-			<td>
-			<p>Ieperiaan aquifer</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
+			<td>0800</td>
+			<td>Ieperiaan aquifer</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td>
-			<p>0900</p>
-			</td>
-			<td>
-			<p>Ieperiaan aquitardsysteem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
+			<td>0900</td>
+			<td>Ieperiaan aquitardsysteem</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td>
-			<p>1000</p>
-			</td>
-			<td>
-			<p>Paleoceen aquifersysteem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
+			<td>1000</td>
+			<td>Paleoceen aquifersysteem</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td>
-			<p>1100</p>
-			</td>
-			<td>
-			<p>Krijt aquifersysteem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
+			<td>1100</td>
+			<td>Krijt aquifersysteem</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td>
-			<p>1200</p>
-			</td>
-			<td>
-			<p>Jura Trias Perm</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
+			<td>1200</td>
+			<td>Jura Trias Perm</td>
+			<td>1</td>
 		</tr>
 		<tr>
-			<td>
-			<p>1300</p>
-			</td>
-			<td>
-			<p>Sokkel</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
+			<td>1300</td>
+			<td>Sokkel</td>
+			<td>1</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;<br>
-II. Gebiedsfactor</p>
-
-<table border="1" cellpadding="0">
+<br>
+II. Gebiedsfactor<br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
-			<td>
-			<p>Code gebied</p>
-			</td>
-			<td>
-			<p>Hydrogeo- logische hoofdeenheid</p>
-			</td>
-			<td>
-			<p>Zone</p>
-			</td>
-			<td>
-			<p>Gebiedsfactor heffingsjaar 2009</p>
-			</td>
-			<td>
-			<p>Jaarlijkse toename van de gebiedsfactor tot en met heffingsjaar 2017</p>
-			</td>
+			<td>Code gebied</td>
+			<td>Hydrogeologische hoofdeenheid</td>
+			<td>Zone</td>
+			<td>Gebiedsfactor heffingsjaar 2018</td>
+			<td>Jaarlijkse toename van de factor tot en met heffingsjaar 2023</td>
 		</tr>
 		<tr>
-			<td>
-			<p>0100</p>
-			</td>
-			<td>
-			<p>0100</p>
-			</td>
-			<td>
-			<p>Quartair aquifersysteem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
-			<td>
-			<p>0,03125</p>
-			</td>
+			<td>0100_niet-afgesloten</td>
+			<td>0100</td>
+			<td>Quartaire aquifersystemen</td>
+			<td>1,28</td>
+			<td>0,03125</td>
 		</tr>
 		<tr>
-			<td>
-			<p>cks_0200</p>
-			</td>
-			<td>
-			<p>0200</p>
-			</td>
-			<td>
-			<p>Kempens aquifersysteem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
-			<td>
-			<p>0,03125</p>
-			</td>
+			<td>0200_niet-afgesloten</td>
+			<td>0200</td>
+			<td>Kempens aquifersysteem</td>
+			<td>1,28</td>
+			<td>0,03125</td>
 		</tr>
 		<tr>
-			<td>
-			<p>blks_0400_1</p>
-			</td>
-			<td>
-			<p>0400</p>
-			</td>
-			<td>
-			<p>niet afgesloten deel van het Oligoceen aquifersysteem in het Brulandkrijtsysteem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
-			<td>
-			<p>0,03125</p>
-			</td>
+			<td>0400_niet-afgesloten</td>
+			<td>0400</td>
+			<td>Niet afgesloten deel van het Oligoceen aquifersysteem</td>
+			<td>1,28</td>
+			<td>0,03125</td>
 		</tr>
 		<tr>
-			<td>
-			<p>blks_0400_2</p>
-			</td>
-			<td>
-			<p>0400</p>
-			</td>
-			<td>
-			<p>afgesloten deel van het Oligoceen aquifersysteem in het Brulandkrijtsysteem</p>
-			</td>
-			<td>
-			<p>1,25</p>
-			</td>
-			<td>
-			<p>0,0625</p>
-			</td>
+			<td>0400_ afgesloten</td>
+			<td>0400</td>
+			<td>Afgesloten deel van het Oligoceen aquifersysteem buiten het actiegebied</td>
+			<td>1,81</td>
+			<td>0,0625</td>
 		</tr>
 		<tr>
-			<td>
-			<p>blks_0400_3</p>
-			</td>
-			<td>
-			<p>0400</p>
-			</td>
-			<td>
-			<p>depressietrechter van het afgesloten deel van het Oligoceen aquifersysteem in het Brulandkrijtsysteem</p>
-			</td>
-			<td>
-			<p>1,5</p>
-			</td>
-			<td>
-			<p>0,125</p>
-			</td>
+			<td>0400_actiegebied</td>
+			<td>0400</td>
+			<td>Actiegebied in het afgesloten deel van het Oligoceen aquifersysteem</td>
+			<td>3,72</td>
+			<td>0,21875</td>
 		</tr>
 		<tr>
-			<td>
-			<p>cvs_0400_1</p>
-			</td>
-			<td>
-			<p>0400</p>
-			</td>
-			<td>
-			<p>niet afgesloten deel van het Oligoceen aquifersysteem in het Centraal Vlaams Systeem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
-			<td>
-			<p>0,03125</p>
-			</td>
+			<td>0600_niet-afgesloten</td>
+			<td>0600</td>
+			<td>Niet afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem</td>
+			<td>1,28</td>
+			<td>0,03125</td>
 		</tr>
 		<tr>
-			<td>
-			<p>cvs_0400_2</p>
-			</td>
-			<td>
-			<p>0400</p>
-			</td>
-			<td>
-			<p>depressietrechter in het afgesloten deel van het Oligoceen aquifersysteem in het Centraal Vlaams Systeem</p>
-			</td>
-			<td>
-			<p>1,5</p>
-			</td>
-			<td>
-			<p>0,125</p>
-			</td>
+			<td>0600_ afgesloten</td>
+			<td>0600</td>
+			<td>Afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem</td>
+			<td>1,81</td>
+			<td>0,0625</td>
 		</tr>
 		<tr>
-			<td>
-			<p>blks_0600_1</p>
-			</td>
-			<td>
-			<p>0600</p>
-			</td>
-			<td>
-			<p>niet afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Brulandkrijtsysteem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
-			<td>
-			<p>0,03125</p>
-			</td>
+			<td>0600_actiegebied</td>
+			<td>0600</td>
+			<td>Actiegebied in het afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem</td>
+			<td>2,63</td>
+			<td>0,125</td>
 		</tr>
 		<tr>
-			<td>
-			<p>blks_0600_2</p>
-			</td>
-			<td>
-			<p>0600</p>
-			</td>
-			<td>
-			<p>afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Brulandkrijtsysteem</p>
-			</td>
-			<td>
-			<p>1,25</p>
-			</td>
-			<td>
-			<p>0,0625</p>
-			</td>
+			<td>0800_niet-afgesloten</td>
+			<td>0800</td>
+			<td>Niet afgesloten deel van de Ieperiaan aquifer</td>
+			<td>1,28</td>
+			<td>0,03125</td>
 		</tr>
 		<tr>
-			<td>
-			<p>blks_0600_3</p>
-			</td>
-			<td>
-			<p>0600</p>
-			</td>
-			<td>
-			<p>depressietrechter van het afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Brulandkrijtsysteem</p>
-			</td>
-			<td>
-			<p>1,75</p>
-			</td>
-			<td>
-			<p>0,21875</p>
-			</td>
+			<td>0800_ afgesloten</td>
+			<td>0800</td>
+			<td>Afgesloten deel van de Ieperiaan aquifer</td>
+			<td>1,81</td>
+			<td>0,0625</td>
 		</tr>
 		<tr>
-			<td>
-			<p>cvs_0600_1</p>
-			</td>
-			<td>
-			<p>0600</p>
-			</td>
-			<td>
-			<p>niet afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Centraal Vlaams systeem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
-			<td>
-			<p>0,03125</p>
-			</td>
+			<td>0800_actiegebied</td>
+			<td>0800</td>
+			<td>Actiegebied in de Ieperiaan Aquifer</td>
+			<td>2,63</td>
+			<td>0,125</td>
 		</tr>
 		<tr>
-			<td>
-			<p>cvs_0600_2</p>
-			</td>
-			<td>
-			<p>0600</p>
-			</td>
-			<td>
-			<p>afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Centraal Vlaams systeem</p>
-			</td>
-			<td>
-			<p>1,25</p>
-			</td>
-			<td>
-			<p>0,0625</p>
-			</td>
+			<td>1000_niet-afgesloten</td>
+			<td>1000</td>
+			<td>Niet afgesloten deel van het Paleoceen Aquifersysteem</td>
+			<td>1,28</td>
+			<td>0,03125</td>
 		</tr>
 		<tr>
-			<td>
-			<p>cvs_0600_3</p>
-			</td>
-			<td>
-			<p>0600</p>
-			</td>
-			<td>
-			<p>depressietrechter van het afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Centraal Vlaams systeem</p>
-			</td>
-			<td>
-			<p>1,75</p>
-			</td>
-			<td>
-			<p>0,21875</p>
-			</td>
+			<td>1000_ afgesloten</td>
+			<td>1000</td>
+			<td>Afgesloten deel van het Paleoceen Aquifersysteem</td>
+			<td>1,81</td>
+			<td>0,0625</td>
 		</tr>
 		<tr>
-			<td>
-			<p>blks_0800_1</p>
-			</td>
-			<td>
-			<p>0800</p>
-			</td>
-			<td>
-			<p>niet afgesloten deel van de Ieperiaan aquifer in het Brulandkrijtsysteem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
-			<td>
-			<p>0,03125</p>
-			</td>
+			<td>1000_actiegebied_4</td>
+			<td>1000</td>
+			<td>Actiegebied 4 in het Paleoceen Aquifersysteem binnen het Sokkelsysteem</td>
+			<td>1,81</td>
+			<td>0,0625</td>
 		</tr>
 		<tr>
-			<td>
-			<p>blks_0800_2</p>
-			</td>
-			<td>
-			<p>0800</p>
-			</td>
-			<td>
-			<p>afgesloten deel van de Ieperiaan aquifer in het Brulandkrijtsysteem</p>
-			</td>
-			<td>
-			<p>1,25</p>
-			</td>
-			<td>
-			<p>0,0625</p>
-			</td>
+			<td>1000_actiegebied_3</td>
+			<td>1000</td>
+			<td>Actiegebied 3 in het Paleoceen Aquifersysteem binnen het Sokkelsysteem</td>
+			<td>2,63</td>
+			<td>0,125</td>
 		</tr>
 		<tr>
-			<td>
-			<p>cvs_0800_1</p>
-			</td>
-			<td>
-			<p>0800</p>
-			</td>
-			<td>
-			<p>niet afgesloten deel van de Ieperiaan aquifer in het Centraal Vlaams systeem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
-			<td>
-			<p>0,03125</p>
-			</td>
+			<td>1000_actiegebied_2</td>
+			<td>1000</td>
+			<td>Actiegebied 2 in het Paleoceen Aquifersysteem binnen het Sokkelsysteem</td>
+			<td>5,38</td>
+			<td>0,375</td>
 		</tr>
 		<tr>
-			<td>
-			<p>cvs_0800_2</p>
-			</td>
-			<td>
-			<p>0800</p>
-			</td>
-			<td>
-			<p>afgesloten deel van de Ieperiaan aquifer in het Centraal Vlaams systeem</p>
-			</td>
-			<td>
-			<p>1,25</p>
-			</td>
-			<td>
-			<p>0,0625</p>
-			</td>
+			<td>1000_actiegebied_1</td>
+			<td>1000</td>
+			<td>Actiegebied 1 in het Paleoceen Aquifersysteem binnen het Sokkelsysteem</td>
+			<td>5,38</td>
+			<td>0,375</td>
 		</tr>
 		<tr>
-			<td>
-			<p>blks_1000_gwl_1</p>
-			</td>
-			<td>
-			<p>1000</p>
-			</td>
-			<td>
-			<p>niet afgesloten deel van het Paleoceen aquifersysteem in het Brulandkrijtsysteem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
-			<td>
-			<p>0,03125</p>
-			</td>
+			<td>1100_niet-afgesloten</td>
+			<td>1100+1300</td>
+			<td>Niet afgesloten deel van het Krijt Aquifersysteem en de Sokkel</td>
+			<td>1,28</td>
+			<td>0,03125</td>
 		</tr>
 		<tr>
-			<td>
-			<p>blks_1000_gwl_2</p>
-			</td>
-			<td>
-			<p>1000</p>
-			</td>
-			<td>
-			<p>afgesloten deel van het Paleoceen aquifersysteem in het Brulandkrijtsysteem</p>
-			</td>
-			<td>
-			<p>1,25</p>
-			</td>
-			<td>
-			<p>0,0625</p>
-			</td>
+			<td>1100_afgesloten</td>
+			<td>1100+1300</td>
+			<td>Afgesloten deel van het Krijt Aquifersysteem en de Sokkel</td>
+			<td>1,81</td>
+			<td>0,0625</td>
 		</tr>
 		<tr>
-			<td>
-			<p>ss_1000_gwl_1-1</p>
-			</td>
-			<td>
-			<p>1000</p>
-			</td>
-			<td>
-			<p>depressietrechter in het Paleoceen zonder alternatief in het Quartair (zone dun Q-dek en of dun verzilt gebied)</p>
-			</td>
-			<td>
-			<p>1,5</p>
-			</td>
-			<td>
-			<p>0,125</p>
-			</td>
+			<td>1300_actiegebied_4</td>
+			<td>1100+1300</td>
+			<td>Actiegebied 4 in het Krijt Aquifersysteem en de Sokkel binnen het Sokkelsysteem</td>
+			<td>1,81</td>
+			<td>0,0625</td>
 		</tr>
 		<tr>
-			<td>
-			<p>ss_1000_gwl_1-2</p>
-			</td>
-			<td>
-			<p>1000</p>
-			</td>
-			<td>
-			<p>depressietrechter in het Paleoceen met alternatief in het Quartair (buiten de zone met dun Q-dek en of dun verzilt gebied)</p>
-			</td>
-			<td>
-			<p>2</p>
-			</td>
-			<td>
-			<p>0,375</p>
-			</td>
+			<td>1300_actiegebied_3</td>
+			<td>1100+1300</td>
+			<td>Actiegebied 3 in het Krijt Aquifersysteem en de Sokkel binnen het Sokkelsysteem</td>
+			<td>2,63</td>
+			<td>0,125</td>
 		</tr>
 		<tr>
-			<td>
-			<p>ss_1000_gwl_2</p>
-			</td>
-			<td>
-			<p>1000</p>
-			</td>
-			<td>
-			<p>niet afgesloten deel van het Paleoceen aquifersysteem in het Sokkelsysteem</p>
-			</td>
-			<td>
-			<p>1,5</p>
-			</td>
-			<td>
-			<p>0,125</p>
-			</td>
+			<td>1300_actiegebied_2</td>
+			<td>1100+1300</td>
+			<td>Actiegebied 2 in het Krijt Aquifersysteem en de Sokkel binnen het Sokkelsysteem</td>
+			<td>5,38</td>
+			<td>0,375</td>
 		</tr>
 		<tr>
-			<td>
-			<p>blks_1100_gwl_1</p>
-			</td>
-			<td>
-			<p>1100+1300</p>
-			</td>
-			<td>
-			<p>niet afgesloten deel van het Krijt en de Sokkel het Brulandkrijtsysteem</p>
-			</td>
-			<td>
-			<p>1</p>
-			</td>
-			<td>
-			<p>0,03125</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>blks_1100_gwl_2</p>
-			</td>
-			<td>
-			<p>1100+1300</p>
-			</td>
-			<td>
-			<p>afgesloten deel van het Krijt en de Sokkel in het Brulandkrijtsysteem</p>
-			</td>
-			<td>
-			<p>1,25</p>
-			</td>
-			<td>
-			<p>0,0625</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>ss_1300_gwl_1</p>
-			</td>
-			<td>
-			<p>1100+1300</p>
-			</td>
-			<td>
-			<p>Kolenkalk</p>
-			</td>
-			<td>
-			<p>1,5</p>
-			</td>
-			<td>
-			<p>0,125</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>ss_1300_gwl_2</p>
-			</td>
-			<td>
-			<p>1100+1300</p>
-			</td>
-			<td>
-			<p>voedingsgebied van de Sokkel</p>
-			</td>
-			<td>
-			<p>1,5</p>
-			</td>
-			<td>
-			<p>0,125</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>ss_1300_gwl_3</p>
-			</td>
-			<td>
-			<p>1100+1300</p>
-			</td>
-			<td>
-			<p>depressietrechter in de regio Waregem in de Sokkel</p>
-			</td>
-			<td>
-			<p>2</p>
-			</td>
-			<td>
-			<p>0,375</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>ss_1300_gwl_4</p>
-			</td>
-			<td>
-			<p>1100+1300</p>
-			</td>
-			<td>
-			<p>Sokkel</p>
-			</td>
-			<td>
-			<p>1,5</p>
-			</td>
-			<td>
-			<p>0,125</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>ss_1300_gwl_5</p>
-			</td>
-			<td>
-			<p>1100+1300</p>
-			</td>
-			<td>
-			<p>depressietrechter in de regio Aalst</p>
-			</td>
-			<td>
-			<p>2</p>
-			</td>
-			<td>
-			<p>0,375</p>
-			</td>
+			<td>1300_actiegebied_1</td>
+			<td>1100+1300</td>
+			<td>Actiegebied 1 in het Krijt Aquifersysteem en de Sokkel binnen het Sokkelsysteem</td>
+			<td>5,38</td>
+			<td>0,375</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;<br>
-De Vlaamse Regering legt deze gebieden op kaart vast. De gebiedsfactor is in de overige zones gelijk aan de gebiedsfactor van codegebied 0100.</p>
+<br>
+De gebiedsfactor is in de overige zones gelijk aan de gebiedsfactor van het gebied met code 0100_niet-afgesloten.<br>
+<br>
+De Vlaamse Regering legt deze gebieden op kaart vast.<br>
+<br>
+Gezien om gevoegd te worden bij het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer.
