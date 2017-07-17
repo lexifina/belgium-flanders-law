@@ -240,7 +240,11 @@ Een oriënterend bodemonderzoek wordt uitgevoerd op initiatief en op kosten van 
 
 ### ART. 30.
 
-In afwijking van artikel 29, 102 en 103 moet voor de overdracht van een privatief deel van een onroerend goed dat valt onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 577-3 van het Burgerlijk Wetboek, enkel in de volgende gevallen een oriënterend bodemonderzoek worden uitgevoerd en de melding van overdracht gebeuren :<br />1° in dat privatieve deel is of was een risico-inrichting gevestigd;<br />2° in de gemeenschappelijke delen is of was een risico-inrichting gevestigd die uitsluitend bestemd is of was voor dat privatieve deel.<br /><br />Het oriënterend bodemonderzoek wordt uitgevoerd op initiatief en op kosten van de overdrager of desgevallend de gemandateerde.
+In afwijking van artikel 29 en 102 gebeurt de overdracht van een privatief deel van een gebouw of groep van gebouwen als&nbsp;vermeld in artikel 577-3 van het Burgerlijk Wetboek, enkel in de volgende gevallen een oriënterend bodemonderzoek worden uitgevoerd en de melding van overdracht gebeuren :<br>
+1° in dat privatieve deel is of was een risico-inrichting gevestigd;<br>
+2° in de gemeenschappelijke delen is of was een risico-inrichting gevestigd die uitsluitend bestemd is of was voor dat privatieve deel.<br>
+<br>
+Het oriënterend bodemonderzoek wordt uitgevoerd op initiatief en op kosten van de overdrager of desgevallend de gemandateerde.
 
 ## [B. Eenmalig oriënterend bodemonderzoek bij gedwongen mede-eigendom (ing. decr. 12 december 2008, art.107, I: 14 februari 2009)]
 
@@ -467,7 +471,8 @@ De bepalingen van artikelen 52 en 53 zijn van overeenkomstige toepassing.<br />
 
 ### ART. 60.
 
-De bepalingen van artikel 54, § 1,&nbsp;zijn van overeenkomstige   toepassing.<BR><BR>
+De bepalingen van artikel 54&nbsp;zijn van overeenkomstige toepassing.<br>
+&nbsp;
 
 ## Onderafdeling VI [... (opgeh. decr. 18 juni 2021, art. 14, I: te bepalen door de Vlaamse Regering)]
 
@@ -727,7 +732,12 @@ Als een erkende bodemsaneringsorganisatie de verplichtingen in deze afdeling nie
 
 ### ART. 102.
 
-§ 1. Risicogronden kunnen slechts overgedragen worden als er vooraf een   orienterend bodemonderzoek werd uitgevoerd en het verslag ervan aan de OVAM werd   bezorgd.<BR><BR>In afwijking van het eerste lid geldt de regeling, vermeld in   artikel 30, voor de uitvoering van een oriënterend bodemonderzoek in het kader   van de overdracht van een privatief deel van een onroerend goed dat valt onder   het stelsel van gedwongen mede- eigendom, vermeld in artikel 577-3 van het   Burgerlijk Wetboek.<BR><BR>§ 2. Het oriënterend bodemonderzoek wordt uitgevoerd   op initiatief en op kosten van de persoon, vermeld in artikel 29 of   30.<BR><BR>
+§ 1. Risicogronden kunnen slechts overgedragen worden als er vooraf een orienterend bodemonderzoek werd uitgevoerd en het verslag ervan aan de OVAM werd bezorgd.<br>
+<br>
+In afwijking van het eerste lid geldt de regeling, vermeld in artikel 30, voor de uitvoering van een oriënterend bodemonderzoek in het kader van de overdracht van een privatief deel van een gebouw of groep van gebouwen als, vermeld in artikel 577-3 van het Burgerlijk Wetboek.<br>
+<br>
+§ 2. Het oriënterend bodemonderzoek wordt uitgevoerd op initiatief en op kosten van de persoon, vermeld in artikel 29 of 30.<br>
+&nbsp;
 
 ## B. Melding van overdracht
 
@@ -847,7 +857,31 @@ De overheid die van plan is tot onteigening van een grond of gronden over   te g
 
 ### ART. 122.
 
-§ 1. Binnen een termijn van negentig dagen na de sluiting van een   risico-inrichting wordt een oriënterend bodemonderzoek uitgevoerd op de grond   waar de inrichting gevestigd is of was.<BR><BR>§ 2. Het oriënterend   bodemonderzoek wordt op initiatief en op kosten van de exploitant   uitgevoerd.<BR><BR>§ 3. De exploitant meldt aan de OVAM de sluiting van de   risico-inrichting binnen de termijn, vermeld in § 1. Op straffe van   onontvankelijkheid voegt hij bij de melding een verslag van het oriënterend   bodemonderzoek of desgevallend een verslag van oriënterend en beschrijvend   bodemonderzoek. De melding moet, op straffe van niet-ontvankelijkheid, gedaan   worden met een volledig ingevuld, gedagtekend en ondertekend meldingsformulier   voor sluiting.<BR><BR>De Vlaamse Regering kan nadere regelen vaststellen   betreffende de modaliteiten van deze melding.<BR><BR>§ 4. Als de OVAM op basis   van het oriënterend bodemonderzoek van oordeel is dat er duidelijke aanwijzingen   zijn dat de risicogrond is aangetast door een nieuwe bodemverontreiniging die de   bodemsaneringsnormen overschrijdt of dreigt te overschrijden, of door een   ernstige nieuwe of historische bodemverontreiniging, maant ze binnen een termijn   van zestig dagen na ontvangst van de ontvankelijke melding van sluiting de   exploitant, vermeld in § 2, aan om een beschrijvend bodemonderzoek uit te   voeren.<BR><BR>Als de OVAM op basis van het verslag van beschrijvend   bodemonderzoek of het verslag van oriënterend en beschrijvend bodemonderzoek van   oordeel is dat de nieuwe bodemverontreiniging de bodemsaneringsnormen   overschrijdt of dat er sprake is van een ernstige nieuwe of historische   bodemverontreiniging, maant ze de exploitant, vermeld in § 2, binnen een termijn   van zestig dagen na ontvangst van het verslag van beschrijvend bodemonderzoek of   het verslag van oriënterend en beschrijvend bodemonderzoek aan om over te gaan   tot bodemsanering en uitvoering van de eventuele nazorg. <BR><BR>Op verzoek van   de OVAM stelt de exploitant financiële zekerheden tot waarborg van de uitvoering   van zijn verplichtingen, vermeld in het eerste en tweede lid. De Vlaamse   Regering bepaalt de wijze waarop die financiële zekerheden worden   gesteld.<BR><BR>De OVAM kan de termijn bepalen waarin het beschrijvend   bodemonderzoek wordt uitgevoerd en het bodemsaneringsproject wordt opgesteld, en   het verslag van het beschrijvend bodemonderzoek en het bodemsaneringsproject aan   haar wordt bezorgd.<BR><BR>§ 5. De exploitant, vermeld in § 2, is niet verplicht   om op de aanmaning tot het uitvoeren van een beschrijvend bodemonderzoek of   bodemsanering en de eventuele nazorg in te gaan, als de OVAM op basis van het   dossier van de grond of het gemotiveerd standpunt van de exploitant van oordeel   is dat hij cumulatief voldoet aan de volgende voorwaarden :<BR>1° hij heeft de   bodemverontreiniging niet zelf veroorzaakt;<BR>2° de bodemverontreiniging is tot   stand gekomen voor het tijdstip waarop hij de grond in exploitatie heeft   genomen. Als de OVAM op basis van het dossier of het standpunt van oordeel is   dat de exploitant voor een deel van de bodemverontreiniging cumulatief aan die   voorwaarden voldoet, wordt de exploitant voor dat deel van de   bodemverontreiniging vrijgesteld van de saneringsplicht.<BR><BR>In afwijking van   het eerste lid is de exploitant, vermeld in § 2, alsnog verplicht in te gaan op   de aanmaning tot het uitvoeren van een beschrijvend bodemonderzoek of   bodemsanering en de eventuele nazorg, als de OVAM aantoont dat een   rechtsvoorganger de bodemverontreiniging heeft veroorzaakt of dat de   bodemverontreiniging tot stand gekomen is tijdens de periode dat een   rechtsvoorganger de grond in exploitatie had.<BR><BR>De Vlaamse Regering stelt   nadere regelen vast betreffende de behandeling van de aanvraag van de   vrijstelling van de verplichting om het beschrijvend bodemonderzoek of de   bodemsanering en de eventuele nazorg uit te voeren. De Vlaamse Regering kan een   termijn vaststellen waarbinnen de aanvraag tot vrijstelling, op straffe van   onontvankelijkheid, bij de OVAM moet worden ingediend.<BR><BR>§ 6. Alle   belanghebbenden kunnen tegen de beslissingen van de OVAM, vermeld in § 4 en § 5,   beroep indienen bij de Vlaamse Regering overeenkomstig de bepalingen van   artikelen 153 tot en met 155.
+§ 1. Binnen een termijn van negentig dagen na de sluiting van een risico-inrichting wordt een oriënterend bodemonderzoek uitgevoerd op de grond waar de inrichting gevestigd is of was.<br>
+<br>
+§ 2. Het oriënterend bodemonderzoek wordt op initiatief en op kosten van de exploitant uitgevoerd.<br>
+<br>
+§ 3. De exploitant meldt aan de OVAM de sluiting van de risico-inrichting binnen de termijn, vermeld in § 1. Op straffe van niet-ontvankelijkheid wordt uiterlijk op de datum van de melding aan de OVAM een verslag van het oriënterende bodemonderzoek of, in voorkomend geval, een verslag van het oriënterende en het beschrijvende bodemonderzoek bezorgd. De melding moet, op straffe van niet-ontvankelijkheid, gedaan worden met een volledig ingevuld, gedagtekend en ondertekend meldingsformulier voor sluiting.<br>
+<br>
+De Vlaamse Regering kan nadere regelen vaststellen betreffende de modaliteiten van deze melding.<br>
+<br>
+§ 4. Als de OVAM op basis van het oriënterend bodemonderzoek van oordeel is dat er duidelijke aanwijzingen zijn dat de risicogrond is aangetast door een nieuwe bodemverontreiniging die de bodemsaneringsnormen overschrijdt of dreigt te overschrijden, of door een ernstige nieuwe of historische bodemverontreiniging, maant ze binnen een termijn van zestig dagen na ontvangst van de ontvankelijke melding van sluiting de exploitant, vermeld in § 2, aan om een beschrijvend bodemonderzoek uit te voeren.<br>
+<br>
+Als de OVAM op basis van het verslag van beschrijvend bodemonderzoek of het verslag van oriënterend en beschrijvend bodemonderzoek van oordeel is dat de nieuwe bodemverontreiniging de bodemsaneringsnormen overschrijdt of dat er sprake is van een ernstige nieuwe of historische bodemverontreiniging, maant ze de exploitant, vermeld in § 2, binnen een termijn van zestig dagen na ontvangst van het verslag van beschrijvend bodemonderzoek of het verslag van oriënterend en beschrijvend bodemonderzoek aan om over te gaan tot bodemsanering en uitvoering van de eventuele nazorg.<br>
+<br>
+Op verzoek van de OVAM stelt de exploitant financiële zekerheden tot waarborg van de uitvoering van zijn verplichtingen, vermeld in het eerste en tweede lid. De Vlaamse Regering bepaalt de wijze waarop die financiële zekerheden worden gesteld.<br>
+<br>
+De OVAM kan de termijn bepalen waarin het beschrijvend bodemonderzoek wordt uitgevoerd en het bodemsaneringsproject wordt opgesteld, en het verslag van het beschrijvend bodemonderzoek en het bodemsaneringsproject aan haar wordt bezorgd.<br>
+<br>
+§ 5. De exploitant, vermeld in § 2, is niet verplicht om op de aanmaning tot het uitvoeren van een beschrijvend bodemonderzoek of bodemsanering en de eventuele nazorg in te gaan, als de OVAM op basis van het dossier van de grond of het gemotiveerd standpunt van de exploitant van oordeel is dat hij cumulatief voldoet aan de volgende voorwaarden :<br>
+1° hij heeft de bodemverontreiniging niet zelf veroorzaakt;<br>
+2° de bodemverontreiniging is tot stand gekomen voor het tijdstip waarop hij de grond in exploitatie heeft genomen. Als de OVAM op basis van het dossier of het standpunt van oordeel is dat de exploitant voor een deel van de bodemverontreiniging cumulatief aan die voorwaarden voldoet, wordt de exploitant voor dat deel van de bodemverontreiniging vrijgesteld van de saneringsplicht.<br>
+<br>
+In afwijking van het eerste lid is de exploitant, vermeld in § 2, alsnog verplicht in te gaan op de aanmaning tot het uitvoeren van een beschrijvend bodemonderzoek of bodemsanering en de eventuele nazorg, als de OVAM aantoont dat een rechtsvoorganger de bodemverontreiniging heeft veroorzaakt of dat de bodemverontreiniging tot stand gekomen is tijdens de periode dat een rechtsvoorganger de grond in exploitatie had.<br>
+<br>
+De Vlaamse Regering stelt nadere regelen vast betreffende de behandeling van de aanvraag van de vrijstelling van de verplichting om het beschrijvend bodemonderzoek of de bodemsanering en de eventuele nazorg uit te voeren. De Vlaamse Regering kan een termijn vaststellen waarbinnen de aanvraag tot vrijstelling, op straffe van onontvankelijkheid, bij de OVAM moet worden ingediend.<br>
+<br>
+§ 6. Alle belanghebbenden kunnen tegen de beslissingen van de OVAM, vermeld in § 4 en § 5, beroep indienen bij de Vlaamse Regering overeenkomstig de bepalingen van artikelen 153 tot en met 155.
 
 ## HOOFDSTUK XI Faillissement [... (opgeh. decr. 8 december 2017, art. 44, I: 12 februari 2018)]
 
