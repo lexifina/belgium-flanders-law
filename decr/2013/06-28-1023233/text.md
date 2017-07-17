@@ -8,7 +8,16 @@ Dit decreet regelt een gemeenschaps- en   gewestaangelegenheid.<BR>
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder : <BR>1° aquacultuur : de kweek of   teelt van aquatische organismen, meer bepaald alle in het water levende soorten   die behoren tot de eukaryoten, inclusief alle delen, geslachtscellen,   zaadcellen, eicellen of propagulen van dergelijke organismen die kans maken op   overleving en reproductie, waarbij technieken worden gebruikt om de aangroei van   de organismen in kwestie te verhogen tot boven de natuurlijke capaciteiten van   het milieu;<BR>2° etiketteringsvoorschriften : de aanduidingen op en de vorm van   de merken, verzegelingen, labels, verpakkingen, etiketten, getuigschriften,   facturen, certificaten, attesten, bordjes, tekens, benamingen die aangebracht   moeten of mogen worden om bepaalde kwaliteits- of foktechnische eigenschappen   aan te duiden;<BR>3° fokdier : elk dier, opgenomen in een stamboek of een   register, dat bestemd is voor de fokkerij;<BR>4° grondstoffen : verzamelterm   voor enerzijds teeltmateriaal van dierlijke of plantaardige oorsprong en   anderzijds elke stof die bestemd is om de plantaardige en dierlijke productie te   beschermen, te verbeteren of te bevorderen, met inbegrip van elk substraat voor   plantencultuur of dierenvoeders. Het grondstoffenbeleid gevoerd in uitvoering   van dit decreet beperkt zich tot de kwaliteitsaspecten van die   grondstoffen;<BR>5° hoofdzakelijke hoedanigheden : enerzijds de kwaliteitsnormen   die vastgesteld zijn voor de grondstoffen en de productie, en anderzijds alle   etiketteringvoorschriften;<BR>6° minister : de Vlaamse minister, bevoegd voor   het landbouwbeleid en de zeevisserij;<BR>7° register : elke informatiedrager,   bijgehouden door een vereniging of organisatie van fokkers of door een private   onderneming die daartoe erkend is in de lidstaat waar ze is gevestigd of die   erkend is in een derde land, waarin fokdieren met hun zoötechnische gegevens   worden opgenomen;<BR>8° stamboek : elke informatiedrager, bijgehouden door een   vereniging of organisatie van fokkers die daartoe officieel erkend is in de   lidstaat waarin ze is opgericht of die erkend is in een derde land, waarin de   fokdieren van een bepaald ras worden ingeschreven of geregistreerd met   vermelding van hun voorgeslacht.<BR>
+In dit decreet wordt verstaan onder :<br>
+1° aquacultuur : de kweek of teelt van aquatische organismen, meer bepaald alle in het water levende soorten die behoren tot de eukaryoten, inclusief alle delen, geslachtscellen, zaadcellen, eicellen of propagulen van dergelijke organismen die kans maken op overleving en reproductie, waarbij technieken worden gebruikt om de aangroei van de organismen in kwestie te verhogen tot boven de natuurlijke capaciteiten van het milieu;<br>
+2° etiketteringsvoorschriften : de aanduidingen op en de vorm van de merken, verzegelingen, labels, verpakkingen, etiketten, getuigschriften, facturen, certificaten, attesten, bordjes, tekens, benamingen die aangebracht moeten of mogen worden om bepaalde kwaliteits- of foktechnische eigenschappen aan te duiden;<br>
+3° fokdier : elk dier, opgenomen in een stamboek of een register, dat bestemd is voor de fokkerij;<br>
+4° grondstoffen : verzamelterm voor enerzijds teeltmateriaal van dierlijke of plantaardige oorsprong en anderzijds elke stof die bestemd is om de plantaardige en dierlijke productie te beschermen, te verbeteren of te bevorderen, met inbegrip van elk substraat voor plantencultuur of dierenvoeders. Het grondstoffenbeleid gevoerd in uitvoering van dit decreet beperkt zich tot de kwaliteitsaspecten van die grondstoffen;<br>
+5° hoofdzakelijke hoedanigheden : enerzijds de kwaliteitsnormen die vastgesteld zijn voor de grondstoffen en de productie, en anderzijds alle etiketteringvoorschriften;<br>
+6° minister : de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij;<br>
+6° /1 personeelslid: de contractuele en statutaire personeelsleden;<br>
+7° register : elke informatiedrager, bijgehouden door een vereniging of organisatie van fokkers of door een private onderneming die daartoe erkend is in de lidstaat waar ze is gevestigd of die erkend is in een derde land, waarin fokdieren met hun zoötechnische gegevens worden opgenomen;<br>
+8° stamboek : elke informatiedrager, bijgehouden door een vereniging of organisatie van fokkers die daartoe officieel erkend is in de lidstaat waarin ze is opgericht of die erkend is in een derde land, waarin de fokdieren van een bepaald ras worden ingeschreven of geregistreerd met vermelding van hun voorgeslacht.
 
 ### ART. 3.
 
@@ -25,7 +34,7 @@ c) etiketteringsvoorschriften;<br>
 d) de toekenning van steun voor de beoefening van landbouw-, zeevisserij-, en aquacultuuractiviteiten in een maatschappelijk verantwoord kader dat rekening houdt met de maatschappelijke verwachtingen op het vlak van natuur- en milieubehoud, dierengezondheid en -welzijn, voedselvoorziening, -veiligheid en -kwaliteit, en consumentenbelangen;<br>
 3° alle maatregelen nemen voor de invoering en uitvoering van kwaliteitssystemen, voor de toekenning van kwaliteitslabels en oorsprongsbenamingen van regionale of lokale aard;<br>
 4° alle maatregelen nemen voor de kwaliteitsbewaking ten aanzien van de activiteiten, vermeld in artikel 3, § 1;<br>
-5° de vergoedingen,&nbsp;rechten, heffingen, afhoudingen en toeslagen vaststellen die worden gevorderd voor de uitvoering van de maatregelen, vermeld in dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid en het bedrag ervan bepalen. Het besluit betreffende die verplichte bijdragen wordt van rechtswege opgeheven met terugwerkende kracht tot op de datum van de inwerkingtreding ervan als het niet binnen een maand na de goedkeuring door de Vlaamse Regering aan het Vlaams Parlement ter bekrachtiging wordt voorgelegd. Het besluit wordt bekrachtigd bij decreet binnen zes maanden na de goedkeuring ervan. Die periodes worden opgeschort tijdens het parlementaire reces en bij de ontbinding van het parlement;<br>
+5° de vergoedingen,&nbsp;rechten, heffingen, afhoudingen en toeslagen vaststellen die worden gevorderd voor de uitvoering van de maatregelen, vermeld in dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid en het bedrag ervan bepalen. Het besluit betreffende die verplichte bijdragen wordt van rechtswege opgeheven met terugwerkende kracht tot op de datum van de inwerkingtreding ervan als het niet binnen een jaar na de bekendmaking ervan wordt bekrachtigd bij decreet.&nbsp;Die&nbsp;termijn van een jaar wordt opgeschort tijdens het parlementaire reces en bij de ontbinding van het parlement;<br>
 5° /1 de retributies vaststellen die worden gevorderd voor de uitvoering van de maatregelen, vermeld in dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid, en het bedrag van de voormelde retributies bepalen;<br>
 6° het beleid inzake landbouw, zeevisserij of aquacultuur diversifiëren ten aanzien van een nader te bepalen sector, deelsector, doelgroep of regio;<br>
 7° risicobeheer ondersteunen;<br>
@@ -77,7 +86,17 @@ De Vlaamse Regering kan een vergoeding voor sociale promotie toekennen aan   per
 
 ### ART. 14.
 
-<P>Een vereniging kan als centrum voor landbouwvorming erkend worden als ze aan   de volgende voorwaarden voldoet : <BR>1° ze is opgericht in de vorm van een   vereniging zonder winstoogmerk met als statutair doel de organisatie van   naschoolse vormingsactiviteiten als vermeld in artikel 12;<BR>2° ze heeft een   vestiging in het Nederlandse taalgebied of in het tweetalige gebied   Brussel-Hoofdstad, met een secretariaat dat beschikt over alle gegevens die   nodig zijn voor de controle en de uitvoering van de activiteiten waarvoor ze   erkend is;<BR>3° ze biedt alle waarborgen voor een adequate organisatie en   planning van de verschillende types vormingsactiviteiten, bepaald door de   Vlaamse Regering;<BR>4° ze aanvaardt de administratieve en financiële controle   van de Vlaamse overheid en de Europese Unie.<BR></P>  <P>De Vlaamse Regering kan nadere regels bepalen voor de voorwaarden, vermeld in   het eerste lid, en aanvullende voorwaarden en regels voor de erkenning en de   gevolgen van de erkenning.<BR></P>  <P>De erkenning kan worden geschorst of opgeheven als niet aan de voorwaarden,   vermeld in het eerste lid, wordt voldaan. De Vlaamse Regering kan de regels voor   de schorsing en de opheffing nader bepalen en kan ook nog andere gevallen   bepalen die leiden tot schorsing of opheffing van de erkenning als   centrum.<BR></P>  <P>De erkenning wordt geschorst als het centrum ook andere subsidiëring   aanvraagt en krijgt voor activiteiten die worden gesubsidieerd ter uitvoering   van deze afdeling.<BR></P>
+<p>Een vereniging kan als centrum voor landbouwvorming erkend worden als ze aan de volgende voorwaarden voldoet :<br>
+1° ze is opgericht in de vorm van een vereniging zonder winstoogmerk met als statutair doel de organisatie van naschoolse vormingsactiviteiten als vermeld in artikel 12;<br>
+2° ze&nbsp;stelt op eenvoudig verzoek alle gegevens die nodig zijn voor de controle en de uitvoering van de activiteiten waarvoor ze erkend is ter beschikking die nodig zijn voor de controle en de uitvoering van de activiteiten waarvoor ze erkend is;<br>
+3° ze biedt alle waarborgen voor een adequate organisatie en planning van de verschillende types vormingsactiviteiten, bepaald door de Vlaamse Regering;<br>
+4° ze aanvaardt de administratieve en financiële controle van de Vlaamse overheid en de Europese Unie.</p>
+
+<p>De Vlaamse Regering kan nadere regels bepalen voor de voorwaarden, vermeld in het eerste lid, en aanvullende voorwaarden en regels voor de erkenning en de gevolgen van de erkenning.</p>
+
+<p>De erkenning kan worden geschorst of opgeheven als niet aan de voorwaarden, vermeld in het eerste lid, wordt voldaan. De Vlaamse Regering kan de regels voor de schorsing en de opheffing nader bepalen en kan ook nog andere gevallen bepalen die leiden tot schorsing of opheffing van de erkenning als centrum.</p>
+
+<p>De erkenning wordt geschorst als het centrum ook andere subsidiëring aanvraagt en krijgt voor activiteiten die worden gesubsidieerd ter uitvoering van deze afdeling.</p>
 
 ### ART. 15.
 
@@ -91,7 +110,18 @@ Met behoud van de toepassing van artikel 10, § 1, tweede lid, kunnen, ter   bev
 
 ### ART. 17.
 
-<P>Een vereniging kan als centrum voor sensibilisering van duurzame landbouw   worden erkend als ze aan de volgende voorwaarden voldoet : <BR>1° ze is   opgericht in de vorm van een vereniging zonder winstoogmerk met als statutair   doel de organisatie van sensibiliseringsacties als vermeld in artikel 16;<BR>2°   ze heeft een vestiging in het Nederlandse taalgebied of in het tweetalige gebied   Brussel-Hoofdstad met een secretariaat dat beschikt over alle gegevens die nodig   zijn voor de controle en de uitvoering van de activiteiten waarvoor ze erkend   is;<BR>3° ze heeft de nodige ervaring met de organisatie en uitvoering van   sensibiliseringsactiviteiten als vermeld in artikel 16, of van   sensibiliseringsactiviteiten in sectoren die verwant zijn met landbouw;<BR>4° ze   biedt alle waarborgen voor een adequate organisatie en planning van de   sensibiliseringsacties, vermeld in artikel 16;<BR>5° ze aanvaardt de   administratieve en financiële controle van de Vlaamse overheid en de Europese   Unie.<BR></P>  <P>De Vlaamse Regering kan nadere regels voor de voorwaarden, vermeld in het   eerste lid, en aanvullende voorwaarden en regels voor de erkenning en de   gevolgen van de erkenning bepalen.<BR></P>  <P>De erkenning kan worden geschorst of opgeheven als niet aan de voorwaarden,   vermeld in het eerste lid, wordt voldaan. De Vlaamse Regering kan de regels voor   de schorsing en de opheffing nader bepalen en kan ook nog andere gevallen   bepalen die leiden tot schorsing of opheffing van de erkenning als   centrum.<BR></P>  <P>De erkenning wordt geschorst als het centrum ook andere subsidiëring   aanvraagt en krijgt voor activiteiten die worden gesubsidieerd ter uitvoering   van deze afdeling.<BR></P>
+<p>Een vereniging kan als centrum voor sensibilisering van duurzame landbouw worden erkend als ze aan de volgende voorwaarden voldoet :<br>
+1° ze is opgericht in de vorm van een vereniging zonder winstoogmerk met als statutair doel de organisatie van sensibiliseringsacties als vermeld in artikel 16;<br>
+2° ze&nbsp;stelt op eenvoudig verzoek alle gegevens die nodig zijn voor de controle en de uitvoering van de activiteiten waarvoor ze erkend is ter beschikking die nodig zijn voor de controle en de uitvoering van de activiteiten waarvoor ze erkend is;<br>
+3° ze heeft de nodige ervaring met de organisatie en uitvoering van sensibiliseringsactiviteiten als vermeld in artikel 16, of van sensibiliseringsactiviteiten in sectoren die verwant zijn met landbouw;<br>
+4° ze biedt alle waarborgen voor een adequate organisatie en planning van de sensibiliseringsacties, vermeld in artikel 16;<br>
+5° ze aanvaardt de administratieve en financiële controle van de Vlaamse overheid en de Europese Unie.</p>
+
+<p>De Vlaamse Regering kan nadere regels voor de voorwaarden, vermeld in het eerste lid, en aanvullende voorwaarden en regels voor de erkenning en de gevolgen van de erkenning bepalen.</p>
+
+<p>De erkenning kan worden geschorst of opgeheven als niet aan de voorwaarden, vermeld in het eerste lid, wordt voldaan. De Vlaamse Regering kan de regels voor de schorsing en de opheffing nader bepalen en kan ook nog andere gevallen bepalen die leiden tot schorsing of opheffing van de erkenning als centrum.</p>
+
+<p>De erkenning wordt geschorst als het centrum ook andere subsidiëring aanvraagt en krijgt voor activiteiten die worden gesubsidieerd ter uitvoering van deze afdeling.</p>
 
 ### ART. 18.
 
@@ -105,7 +135,18 @@ Met behoud van de toepassing van artikel 10, § 1, tweede lid, kunnen, ter   bev
 
 ### ART. 20.
 
-<P>Een vereniging kan als centrum voor landbouweducatie erkend worden als ze aan   de volgende voorwaarden voldoet : <BR>1° ze is opgericht in de vorm van een   vereniging zonder winstoogmerk met als statutair doel de organisatie van   landbouweducatieve activiteiten als vermeld in artikel 19;<BR>2° ze heeft een   vestiging in het Nederlandse taalgebied of in het tweetalige gebied   Brussel-Hoofdstad met een secretariaat dat over alle gegevens beschikt, die   nodig zijn voor de controle en de uitvoering van de activiteiten waarvoor ze   erkend is;<BR>3° ze heeft de nodige ervaring met educatieve initiatieven, al dan   niet in de landbouwsfeer;<BR>4° ze biedt alle waarborgen voor een adequate   organisatie en planning van de landbouweducatieve activiteiten, vermeld in   artikel 19;<BR>5° ze aanvaardt de administratieve en financiële controle van de   Vlaamse overheid en de Europese Unie.<BR></P>  <P>De Vlaamse Regering kan nadere regels voor de voorwaarden, vermeld in het   eerste lid, en aanvullende voorwaarden en regels voor de erkenning en de   gevolgen van de erkenning bepalen.<BR></P>  <P>De erkenning kan worden geschorst of opgeheven als niet aan de voorwaarden,   vermeld in het eerste lid, wordt voldaan. De Vlaamse Regering kan de regels voor   de schorsing en de opheffing nader bepalen en kan ook nog andere gevallen   bepalen die leiden tot schorsing of opheffing van de erkenning als   centrum.<BR></P>  <P>De erkenning wordt geschorst als het centrum ook andere subsidiëring   aanvraagt en krijgt voor activiteiten die worden gesubsidieerd ter uitvoering   van deze afdeling.<BR></P>
+<p>Een vereniging kan als centrum voor landbouweducatie erkend worden als ze aan de volgende voorwaarden voldoet :<br>
+1° ze is opgericht in de vorm van een vereniging zonder winstoogmerk met als statutair doel de organisatie van landbouweducatieve activiteiten als vermeld in artikel 19;<br>
+2° ze stelt op eenvoudig verzoek alle gegevens die nodig zijn voor de controle en de uitvoering van de activiteiten waarvoor ze erkend is ter beschikking, die nodig zijn voor de controle en de uitvoering van de activiteiten waarvoor ze erkend is;<br>
+3° ze heeft de nodige ervaring met educatieve initiatieven, al dan niet in de landbouwsfeer;<br>
+4° ze biedt alle waarborgen voor een adequate organisatie en planning van de landbouweducatieve activiteiten, vermeld in artikel 19;<br>
+5° ze aanvaardt de administratieve en financiële controle van de Vlaamse overheid en de Europese Unie.</p>
+
+<p>De Vlaamse Regering kan nadere regels voor de voorwaarden, vermeld in het eerste lid, en aanvullende voorwaarden en regels voor de erkenning en de gevolgen van de erkenning bepalen.</p>
+
+<p>De erkenning kan worden geschorst of opgeheven als niet aan de voorwaarden, vermeld in het eerste lid, wordt voldaan. De Vlaamse Regering kan de regels voor de schorsing en de opheffing nader bepalen en kan ook nog andere gevallen bepalen die leiden tot schorsing of opheffing van de erkenning als centrum.</p>
+
+<p>De erkenning wordt geschorst als het centrum ook andere subsidiëring aanvraagt en krijgt voor activiteiten die worden gesubsidieerd ter uitvoering van deze afdeling.</p>
 
 ### ART. 21.
 
@@ -223,7 +264,11 @@ Deze onderafdeling is ook van toepassing op de andere afdelingen van   hoofdstuk
 
 ### ART. 44.
 
-<P>Onverminderd de bevoegdheden van de officieren van de gerechtelijke politie   en met behoud van de toepassing van afdeling 2, houden de ambtenaren die de   Vlaamse Regering aanwijst toezicht op dit decreet, de uitvoeringsbesluiten   ervan, het Europese Gemeenschappelijk Landbouwbeleid en het Europese   Gemeenschappelijk Visserijbeleid.<BR></P>  <P>In uitvoering van het eerste lid, kan de Vlaamse Regering de specifieke   toezichtopdracht van de verschillende toezichthouders nader bepalen.<BR></P>  <P>De resultaten van controles uitgevoerd in het kader van de toezichtopdracht   kunnen doorgegeven worden binnen het beleidsdomein Landbouw en Visserij, aan de   controleorganen, vermeld in artikel 45, en aan derden. De Vlaamse Regering kan   hiervoor nadere modaliteiten bepalen.<BR></P>
+<p>Onverminderd de bevoegdheden van de officieren van de gerechtelijke politie en met behoud van de toepassing van afdeling 2, houden de personeelsleden die de Vlaamse Regering aanwijst toezicht op dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid en het Europese Gemeenschappelijk Visserijbeleid.</p>
+
+<p>In uitvoering van het eerste lid, kan de Vlaamse Regering de specifieke toezichtopdracht van de verschillende toezichthouders nader bepalen.</p>
+
+<p>De resultaten van controles uitgevoerd in het kader van de toezichtopdracht kunnen doorgegeven worden binnen het beleidsdomein Landbouw en Visserij, aan de controleorganen, vermeld in artikel 45, en aan derden. De Vlaamse Regering kan hiervoor nadere modaliteiten bepalen.</p>
 
 ### ART. 45.
 
@@ -243,7 +288,19 @@ Toezichthouders mogen vaststellingen doen met behulp van audiovisuele   middelen
 
 ### ART. 49.
 
-<P>§ 1. Toezichthouders mogen zaken onderzoeken of laten onderzoeken met behoud   van de toepassing van artikel 5, § 2, door een daarvoor erkend laboratorium. Ze   mogen zaken onder meer beproeven of laten beproeven, er monsters van nemen of   laten nemen en ze meten of laten meten. Ze mogen daarvoor verpakkingen openen of   laten openen.<BR></P>  <P>Als het onderzoek niet ter plaatse uitgevoerd kan worden, mogen ze : <BR>1°   de zaken voor dat doel meenemen tegen een door hen af te geven schriftelijk   bewijs; <BR>2° de verpakkingen, die nodig zijn voor het vervoer en voor het   houden van de te onderzoeken zaken, kosteloos opvorderen van de houder van die   zaken.<BR></P>  <P>De gecontroleerde mag in het kader van dit onderzoek de afname en het   onderzoek van een tegenstaal eisen. De voorwaarden en de procedure kunnen   hiervoor bepaald worden door de Vlaamse Regering.<BR></P>  <P>§ 2. Toezichthouders mogen de technische middelen en het personeel om de   beproeving, monsterneming of meting uit te voeren kosteloos opvorderen van de   houder van de te onderzoeken zaken.<BR></P>  <P>§ 3. De Vlaamse Regering stelt de nadere regels vast voor de uitvoering van   de onderzoeken en de bijbehorende analyses.<BR></P>
+<p>§ 1. Toezichthouders mogen zaken onderzoeken of laten onderzoeken met behoud van de toepassing van artikel 5, § 2, door een daarvoor erkend laboratorium. Ze mogen zaken onder meer beproeven of laten beproeven, er monsters van nemen of laten nemen en ze meten&nbsp;met gebruik van technische middelen of laten meten. Ze mogen daarvoor verpakkingen openen of laten openen.</p>
+
+<p>Als het onderzoek niet ter plaatse uitgevoerd kan worden, mogen ze :<br>
+1° de zaken voor dat doel meenemen tegen een door hen af te geven schriftelijk bewijs;<br>
+2° de verpakkingen, die nodig zijn voor het vervoer en voor het houden van de te onderzoeken zaken, kosteloos opvorderen van de houder van die zaken.</p>
+
+<p>De gecontroleerde mag in het kader van dit onderzoek de afname en het onderzoek van een tegenstaal eisen. De voorwaarden en de procedure kunnen hiervoor bepaald worden door de Vlaamse Regering.</p>
+
+<p>§ 2. Toezichthouders mogen de technische middelen en het personeel om de beproeving, monsterneming of meting uit te voeren kosteloos opvorderen van de houder van de te onderzoeken zaken.</p>
+
+<p>§ 3. De Vlaamse Regering stelt de nadere regels vast voor de uitvoering van de onderzoeken en de bijbehorende analyses.<br>
+<br>
+De Vlaamse Regering kan technische voorschriften vaststellen waaraan de technische middelen, vermeld in paragraaf 1, eerste lid, moeten voldoen.</p>
 
 ### ART. 50.
 
@@ -259,7 +316,15 @@ Bij de uitoefening van hun toezichtrechten mogen toezichthouders zich   laten bi
 
 ### ART. 53.
 
-<P>Bij vermoeden van inbreuk op dit decreet, de uitvoeringsbesluiten ervan, het   Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk   Visserijbeleid, maakt de toezichthouder daarvan melding in het   controleverslag.<BR></P>  <P>Bij de vaststelling van inbreuken die aanleiding geven tot een zwaardere   sanctie dan het geven van een waarschuwing, maakt de toezichthouder een   proces-verbaal op.<BR></P>  <P>De processen-verbaal die de toezichthouders opmaken, hebben bewijswaarde tot   het tegenbewijs is geleverd. Een kopie ervan wordt binnen een termijn van   vijftien werkdagen na de datum van verbalisering aangetekend verstuurd naar de   persoon of de personen ten laste van wie het is opgesteld, voor zover de persoon   van de overtreder bekend is. Indien er tevens nader onderzoek nodig is om de   persoon van de overtreder en zijn verblijfplaats te achterhalen, wordt een kopie   van het proces-verbaal binnen een termijn van vijftien werkdagen na de datum   waarop de persoon van de overtreder en zijn verblijfplaats bekend zijn,   verstuurd naar deze persoon.<BR></P>  <P>Indien de termijnen, vermeld in het derde lid niet nageleefd worden, verliest   het procesverbaal zijn bijzondere bewijswaarde tot bewijs van het   tegendeel.<BR></P>  <P>De uitbetaling van steun kan worden opgeschort tijdens het onderzoek naar de   naleving van dit decreet, en de uitvoeringsbesluiten ervan, het Europese   Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk   Visserijbeleid.<BR></P>
+<p>Bij vermoeden van inbreuk op dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid, maakt de toezichthouder daarvan melding in het controleverslag.</p>
+
+<p>Bij de vaststelling van inbreuken die aanleiding geven tot een zwaardere sanctie dan het geven van een waarschuwing, maakt de toezichthouder een proces-verbaal op.</p>
+
+<p>De processen-verbaal die de toezichthouders opmaken, hebben bewijswaarde tot het tegenbewijs is geleverd. Een kopie ervan wordt door de toezichthouder binnen een termijn van twintig dagen na de datum van verbalisering aangetekend verstuurd naar de persoon of de personen ten laste van wie het proces-verbaal is opgesteld, als de persoon van de overtreder bekend is. Als er ook nader onderzoek nodig is om de persoon van de overtreder en zijn verblijfplaats te achterhalen, wordt een kopie van het proces-verbaal binnen een termijn van twintig dagen na de datum waarop de persoon van de overtreder en zijn verblijfplaats bekend zijn, verstuurd naar die persoon.</p>
+
+<p>Indien de termijnen, vermeld in het derde lid niet nageleefd worden, verliest het procesverbaal zijn bijzondere bewijswaarde tot bewijs van het tegendeel.</p>
+
+<p>De uitbetaling van steun kan worden opgeschort tijdens het onderzoek naar de naleving van dit decreet, en de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid.</p>
 
 ### ART. 54.
 
@@ -269,7 +334,14 @@ Bij de uitoefening van hun toezichtrechten mogen toezichthouders zich   laten bi
 
 ### ART. 55.
 
-<P>Als een inbreuk op dit decreet, de uitvoeringsbesluiten ervan of het Europese   Gemeenschappelijk Landbouwbeleid, wordt vastgesteld, kunnen de door de Vlaamse   Regering aangewezen ambtenaren een waarschuwing richten aan de overtreder en hem   aanmanen een einde te maken aan de inbreuk.<BR></P>  <P>Het origineel van de waarschuwing wordt naar de overtreder gestuurd binnen   vijftien dagen na de vaststelling van de inbreuk.<BR></P>  <P>De waarschuwing vermeldt : <BR>1° de ten laste gelegde feiten en de   overtreden wettelijke bepalingen; <BR>2° in voorkomend geval, de termijn waarin   een einde gemaakt moet worden aan de inbreuk; <BR>3° dat, als geen gevolg   gegeven wordt aan de waarschuwing, een proces-verbaal opgesteld zal worden en   een exclusieve bestuurlijke geldboete, als vermeld in artikel 56, opgelegd kan   worden.<BR></P>
+<p>Als een inbreuk op dit decreet, de uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk Landbouwbeleid, wordt vastgesteld, kunnen de door de Vlaamse Regering aangewezen&nbsp;personeelsleden een waarschuwing richten aan de overtreder en hem aanmanen een einde te maken aan de inbreuk.</p>
+
+<p>Het origineel van de waarschuwing wordt naar de overtreder gestuurd binnen vijftien dagen na de vaststelling van de inbreuk.</p>
+
+<p>De waarschuwing vermeldt :<br>
+1° de ten laste gelegde feiten en de overtreden wettelijke bepalingen;<br>
+2° in voorkomend geval, de termijn waarin een einde gemaakt moet worden aan de inbreuk;<br>
+3° dat, als geen gevolg gegeven wordt aan de waarschuwing, een proces-verbaal opgesteld zal worden en een exclusieve bestuurlijke geldboete, als vermeld in artikel 56, opgelegd kan worden.</p>
 
 ### ART. 56.
 
@@ -277,11 +349,21 @@ Bij de uitoefening van hun toezichtrechten mogen toezichthouders zich   laten bi
 
 ### ART. 57.
 
-&nbsp;De Vlaamse Regering duidt de ambtenaren aan die de exclusieve   bestuurlijke geldboete, vermeld in artikel 56, opleggen.<BR>
+De Vlaamse Regering wijst de personeelsleden aan die de exclusieve bestuurlijke geldboete, vermeld in artikel 56, opleggen en invorderen.
 
 ### ART. 58.
 
-<P>§ 1. Na de ontvangst van het proces-verbaal, vermeld in artikel 53, brengen   de door de Vlaamse Regering aan te duiden ambtenaren binnen een termijn van   zestig dagen, de vermoedelijke overtreder op de hoogte van het voornemen om een   exclusieve bestuurlijke geldboete op te leggen.<BR></P>  <P>De vermoedelijke overtreder kan binnen een termijn van dertig dagen die volgt   op de kennisgeving van dit bericht schriftelijk zijn verweer meedelen. Als de   vermoedelijke overtreder zijn schriftelijk verweer mondeling wenst toe te   lichten, moet hij hierom uitdrukkelijk in het schriftelijk verweer   verzoeken.<BR></P>  <P>§ 2. Binnen een termijn van negentig dagen, na de kennisgeving van het   voornemen om een exclusieve bestuurlijke geldboete op te leggen en na de   vermoedelijke overtreder in voorkomend geval te hebben gehoord beslissen de door   de Vlaamse Regering aan te duiden ambtenaren over het opleggen van de exclusieve   bestuurlijke geldboetes, vermeld in artikel 56.<BR></P>  <P>De beslissing, vermeld in het eerste lid, bepaalt het bedrag van de   exclusieve bestuurlijke geldboete.<BR></P>  <P>De overtreder wordt onmiddellijk van deze beslissing in kennis   gesteld.<BR></P>  <P>§ 3. De Vlaamse Regering kan de procedure voor het opleggen van de exclusieve   bestuurlijke geldboete, vermeld in artikel 56, nader   uitwerken.<BR></P>
+<p>§ 1. Na de ontvangst van het proces-verbaal, vermeld in artikel 53, brengen de door de Vlaamse Regering aan te duiden&nbsp;personeelsleden binnen een termijn van zestig dagen, de vermoedelijke overtreder op de hoogte van het voornemen om een exclusieve bestuurlijke geldboete op te leggen.</p>
+
+<p>De vermoedelijke overtreder kan binnen een termijn van dertig dagen die volgt op de kennisgeving van dit bericht schriftelijk zijn verweer meedelen. Als de vermoedelijke overtreder zijn schriftelijk verweer mondeling wenst toe te lichten, moet hij hierom uitdrukkelijk in het schriftelijk verweer verzoeken.</p>
+
+<p>§ 2. Binnen een termijn van negentig dagen, na de kennisgeving van het voornemen om een exclusieve bestuurlijke geldboete op te leggen en na de vermoedelijke overtreder in voorkomend geval te hebben gehoord beslissen de door de Vlaamse Regering aan te duiden personeelsleden over het opleggen van de exclusieve bestuurlijke geldboetes, vermeld in artikel 56.</p>
+
+<p>De beslissing, vermeld in het eerste lid, bepaalt het bedrag van de exclusieve bestuurlijke geldboete.</p>
+
+<p>De overtreder wordt onmiddellijk van deze beslissing in kennis gesteld.</p>
+
+<p>§ 3. De Vlaamse Regering kan de procedure voor het opleggen van de exclusieve bestuurlijke geldboete, vermeld in artikel 56, nader uitwerken.</p>
 
 ### ART. 59.
 
@@ -309,7 +391,28 @@ Bij de uitoefening van hun toezichtrechten mogen toezichthouders zich   laten bi
 
 ### ART. 64.
 
-<P>§ 1. Met betrekking tot de zeevisserij en onverminderd de bevoegdheden van de   officieren van gerechtelijke politie houden de ambtenaren die de Vlaamse   Regering aanwijst, toezicht op de naleving van dit decreet, de   uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Visserijbeleid en de   internationale akten. Ze stellen de inbreuken daarop vast in processen-verbaal   die bewijswaarde hebben tot het tegendeel is bewezen.<BR></P>  <P>De toezichthouders vermeld in het eerste lid, hebben daarvoor het recht om   zich op elk moment aan boord van vissersvaartuigen te begeven, de overlegging   van alle scheepspapieren en alle bewijsstukken te eisen, alsook zich te begeven   in alle lokalen en plaatsen aan boord waar zich visserijproducten of vistuigen   kunnen bevinden. Ze mogen alle documenten en bewijsstukken voor onderzoek in   beslag nemen. In de uitoefening van hun opdracht mogen zij op elk moment   fabrieken, magazijnen, bergplaatsen, kantoren, vervoermiddelen,   bedrijfsgebouwen, veilingen, markten, vismijnen en de in de open lucht gelegen   bedrijven betreden. Zij mogen de plaatsen die tot woning dienen, slechts   bezoeken met verlof van de rechter in de politierechtbank.<BR></P>  <P>§ 2. Als een inbreuk als vermeld in paragraaf 1, eerste lid, wordt   vastgesteld, kunnen de ambtenaren die aangewezen zijn door de Vlaamse Regering,   een waarschuwing richten aan de overtreder en hem aanmanen een einde te maken   aan de inbreuk.<BR></P>  <P>Het origineel van de waarschuwing wordt naar de overtreder gestuurd binnen   vijftien dagen na de vaststelling van de inbreuk.<BR></P>  <P>De waarschuwing vermeldt : <BR>1° de ten laste gelegde feiten en de   overtreden wettelijke bepalingen; <BR>2° in voorkomend geval, de termijn waarin   een einde gemaakt moet worden aan de inbreuk; <BR>3° dat, als geen gevolg   gegeven wordt aan de waarschuwing, een proces-verbaal opgesteld zal worden en   naar de procureur des Konings gestuurd zal worden.<BR></P>  <P>§ 3. In geval van ontdekking op heterdaad mogen de toezichthouders, vermeld   in paragraaf 1, eerste lid, met het doel een vervolging in te stellen en met   instemming van de procureur des Konings bij de rechtbank van eerste aanleg in   Brugge, het vissersvaartuig naar een Belgische haven opbrengen of laten   opbrengen op kosten en risico van de eigenaar of exploitant en, indien nodig,   het vissersvaartuig voor rekening en risico van de eigenaar of exploitant aan de   ketting leggen.<BR></P>  <P>Als de toezichthouders, vermeld in paragraaf 1, eerste lid, ernstige redenen   hebben om te geloven dat er inbreuken zijn begaan, mogen ze, met instemming van   de procureur des Konings bij de rechtbank van eerste aanleg in Brugge, het   vissersvaartuig naar een Belgische haven opbrengen of laten opbrengen, op kosten   en risico van de eigenaar of exploitant. Als vervolgens een inbreuk wordt   vastgesteld, mogen ze, indien nodig, het vissersvaartuig voor rekening en risico   van de eigenaar of de exploitant aan de ketting leggen.<BR></P>  <P>§ 4. Als een vissersvaartuig aan de ketting is gelegd ter uitvoering van dit   decreet, de uitvoeringsbesluiten ervan en het Europese Gemeenschappelijk   Visserijbeleid en de internationale akten, wordt het vissersvaartuig   onmiddellijk vrijgegeven in ruil voor het stellen door de eigenaar of de persoon   die voor zijn rekening handelt, van een borgsom of een bankgarantie, die   overeenkomt met een bedrag dat vastgesteld wordt door de verbalisant en niet   hoger mag zijn dan de maximumgeldboete, vermeld in artikel 67, eerste lid. De   borgsom of de bankgarantie moet, tegen afgifte van ontvangstbewijs, aan de   verbalisant worden bezorgd die ze in bewaring geeft volgens de voorwaarden en de   procedure die de Vlaamse Regering kan bepalen.<BR></P>  <P>De geldboete die is opgelegd door een in kracht van gewijsde gegane   rechterlijke beslissing, alsook alle andere kosten worden op de borgsom   verhaald. Het overblijvende gedeelte wordt onmiddellijk terugbetaald. De rente   van de in consignatie gegeven som wordt bij de borgsom gevoegd.<BR></P>  <P>§ 5. Als een vreemd vissersvaartuig aan de ketting wordt gelegd, wordt de   vlaggenstaat via zijn diplomatieke vertegenwoordiger onmiddellijk op de hoogte   gebracht van de genomen maatregelen en van de eventuele daarna opgelegde   straffen.<BR></P>
+<p>§ 1. Met betrekking tot de zeevisserij en onverminderd de bevoegdheden van de officieren van gerechtelijke politie houden de personeelsleden die de Vlaamse Regering aanwijst, toezicht op de naleving van dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Visserijbeleid en de internationale akten. Ze stellen de inbreuken daarop vast in processen-verbaal die bewijswaarde hebben tot het tegendeel is bewezen.</p>
+
+<p>De toezichthouders vermeld in het eerste lid, hebben daarvoor het recht om zich op elk moment aan boord van vissersvaartuigen te begeven, de overlegging van alle scheepspapieren en alle bewijsstukken te eisen, alsook zich te begeven in alle lokalen en plaatsen aan boord waar zich visserijproducten of vistuigen kunnen bevinden. Ze mogen alle documenten en bewijsstukken voor onderzoek in beslag nemen. In de uitoefening van hun opdracht mogen zij op elk moment fabrieken, magazijnen, bergplaatsen, kantoren, vervoermiddelen, bedrijfsgebouwen, veilingen, markten, vismijnen en de in de open lucht gelegen bedrijven betreden. Zij mogen de plaatsen die tot woning dienen, slechts bezoeken met verlof van de rechter in de politierechtbank.</p>
+
+<p>§ 2. Als een inbreuk als vermeld in paragraaf 1, eerste lid, wordt vastgesteld, kunnen de personeelsleden die aangewezen zijn door de Vlaamse Regering, een waarschuwing richten aan de overtreder en hem aanmanen een einde te maken aan de inbreuk.</p>
+
+<p>Het origineel van de waarschuwing wordt naar de overtreder gestuurd binnen vijftien dagen na de vaststelling van de inbreuk.</p>
+
+<p>De waarschuwing vermeldt :<br>
+1° de ten laste gelegde feiten en de overtreden wettelijke bepalingen;<br>
+2° in voorkomend geval, de termijn waarin een einde gemaakt moet worden aan de inbreuk;<br>
+3° dat, als geen gevolg gegeven wordt aan de waarschuwing, een proces-verbaal opgesteld zal worden en naar de procureur des Konings gestuurd zal worden.</p>
+
+<p>§ 3. In geval van ontdekking op heterdaad mogen de toezichthouders, vermeld in paragraaf 1, eerste lid, met het doel een vervolging in te stellen en met instemming van de procureur des Konings bij de rechtbank van eerste aanleg in Brugge, het vissersvaartuig naar een Belgische haven opbrengen of laten opbrengen op kosten en risico van de eigenaar of exploitant en, indien nodig, het vissersvaartuig voor rekening en risico van de eigenaar of exploitant aan de ketting leggen.</p>
+
+<p>Als de toezichthouders, vermeld in paragraaf 1, eerste lid, ernstige redenen hebben om te geloven dat er inbreuken zijn begaan, mogen ze, met instemming van de procureur des Konings bij de rechtbank van eerste aanleg in Brugge, het vissersvaartuig naar een Belgische haven opbrengen of laten opbrengen, op kosten en risico van de eigenaar of exploitant. Als vervolgens een inbreuk wordt vastgesteld, mogen ze, indien nodig, het vissersvaartuig voor rekening en risico van de eigenaar of de exploitant aan de ketting leggen.</p>
+
+<p>§ 4. Als een vissersvaartuig aan de ketting is gelegd ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan en het Europese Gemeenschappelijk Visserijbeleid en de internationale akten, wordt het vissersvaartuig onmiddellijk vrijgegeven in ruil voor het stellen door de eigenaar of de persoon die voor zijn rekening handelt, van een borgsom of een bankgarantie, die overeenkomt met een bedrag dat vastgesteld wordt door de verbalisant en niet hoger mag zijn dan de maximumgeldboete, vermeld in artikel 67, eerste lid. De borgsom of de bankgarantie moet, tegen afgifte van ontvangstbewijs, aan de verbalisant worden bezorgd die ze in bewaring geeft volgens de voorwaarden en de procedure die de Vlaamse Regering kan bepalen.</p>
+
+<p>De geldboete die is opgelegd door een in kracht van gewijsde gegane rechterlijke beslissing, alsook alle andere kosten worden op de borgsom verhaald. Het overblijvende gedeelte wordt onmiddellijk terugbetaald. De rente van de in consignatie gegeven som wordt bij de borgsom gevoegd.</p>
+
+<p>§ 5. Als een vreemd vissersvaartuig aan de ketting wordt gelegd, wordt de vlaggenstaat via zijn diplomatieke vertegenwoordiger onmiddellijk op de hoogte gebracht van de genomen maatregelen en van de eventuele daarna opgelegde straffen.</p>
 
 ### ART. 65.
 
@@ -365,15 +468,33 @@ Met behoud van de toepassing van de bepalingen van hoofdstuk 3, afdeling   1, ka
 
 ### ART. 75.
 
-<P>§ 1. Bij gebreke aan voldoening van de exclusieve bestuurlijke geldboeten, en   alle ten onrechte uitbetaalde steun en toebehoren kan door de ambtenaar die   belast is met de invordering, een dwangbevel worden uitgevaardigd.<BR></P>  <P>Dat dwangbevel wordt geviseerd en uitvoerbaar verklaard door de daarvoor door   de Vlaamse Regering aangewezen ambtenaar.<BR></P>  <P>§ 2. Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot of met een   aangetekende brief.<BR></P>
+<p>§ 1. Bij gebreke aan voldoening van de exclusieve bestuurlijke geldboeten, en alle ten onrechte uitbetaalde steun en toebehoren kan door de daarvoor door de Vlaamse Regering aangewezen personeelsleden, een dwangbevel worden uitgevaardigd.</p>
+
+<p>Dat dwangbevel wordt geviseerd en uitvoerbaar verklaard door de daarvoor door de Vlaamse Regering aangewezen personeelslid.</p>
+
+<p>§ 2. Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot of met een aangetekende brief.</p>
 
 ### ART. 76.
 
-<P>Op het dwangbevel zijn de bepalingen van toepassing van deel V van het   Gerechtelijk Wetboek houdende bewarend beslag en middelen tot   tenuitvoerlegging.<BR></P>  <P>Binnen een termijn van dertig dagen na de betekening van het dwangbevel kan   de betrokkene bij gerechtsdeurwaardersexploot een met redenen omkleed verzet   aantekenen houdende dagvaarding van het Vlaamse Gewest, bij de rechtbank van   eerste aanleg van het arrondissement van de standplaats van de ambtenaar die het   dwangbevel heeft uitgevaardigd.<BR></P>  <P>Het verzet schorst de tenuitvoerlegging van het   dwangbevel.<BR></P>
+<p>Op het dwangbevel zijn de bepalingen van toepassing van deel V van het Gerechtelijk Wetboek houdende bewarend beslag en middelen tot tenuitvoerlegging.</p>
+
+<p>Binnen een termijn van dertig dagen na de betekening van het dwangbevel kan de betrokkene bij gerechtsdeurwaardersexploot een met redenen omkleed verzet aantekenen houdende dagvaarding van het Vlaamse Gewest, bij de rechtbank van eerste aanleg van het arrondissement van de standplaats van het personeelslid die het dwangbevel heeft uitgevaardigd.</p>
+
+<p>Het verzet schorst de tenuitvoerlegging van het dwangbevel.</p>
 
 ### ART. 77.
 
-<P>§ 1. Op grond van het uitvoerbaar verklaarde dwangbevel en tot zekerheid van   de voldoening van alle ten onrechte uitbetaalde steun en toebehoren, de   exclusieve bestuurlijke geldboeten, de administratieve geldboeten, en de kosten   heeft het Vlaamse Gewest een algemeen voorrecht op alle roerende goederen van de   betrokkene en kan het een wettelijke hypotheek nemen op al de goederen van de   betrokkene die daarvoor vatbaar zijn en die in het Vlaamse Gewest   liggen.<BR></P>  <P>§ 2. Het voorrecht, vermeld in paragraaf 1, neemt rang in onmiddellijk na de   voorrechten, vermeld in artikel 19 en 20 van de wet van 16 december 1851 en in   artikel 23 van boek II van het Wetboek van Koophandel.<BR></P>  <P>§ 3. De rang van de wettelijke hypotheek wordt bepaald door de dagtekening   van de inschrijving die genomen wordt krachtens het uitvoerbaar verklaarde en   betekende dwangbevel.<BR></P>  <P>§ 4. De hypotheek wordt ingeschreven op verzoek van de ambtenaar, vermeld in   artikel 75, § 1, tweede lid.<BR></P>  <P>De inschrijving vindt plaats, niettegenstaande verzet, betwisting of beroep,   op voorlegging van een afschrift van het dwangbevel dat door die ambtenaar   eensluidend wordt verklaard en dat melding maakt van de betekening   ervan.<BR></P>  <P>§ 5. Artikel 19, tweede lid, van de Faillissementswet van 8 augustus 1997 is   niet van toepassing op de wettelijke hypotheek inzake de verschuldigde ten   onrechte uitbetaalde steun en toebehoren, de exclusieve bestuurlijke geldboeten   en de administratieve geldboeten waarvoor een dwangbevel is uitgevaardigd en   waarvan betekening aan de betrokkene is gedaan voor het vonnis van   faillietverklaring.<BR></P>
+<p>§ 1. Op grond van het uitvoerbaar verklaarde dwangbevel en tot zekerheid van de voldoening van alle ten onrechte uitbetaalde steun en toebehoren, de exclusieve bestuurlijke geldboeten, de administratieve geldboeten, en de kosten heeft het Vlaamse Gewest een algemeen voorrecht op alle roerende goederen van de betrokkene en kan het een wettelijke hypotheek nemen op al de goederen van de betrokkene die daarvoor vatbaar zijn en die in het Vlaamse Gewest liggen.</p>
+
+<p>§ 2. Het voorrecht, vermeld in paragraaf 1, neemt rang in onmiddellijk na de voorrechten, vermeld in artikel 19 en 20 van de wet van 16 december 1851 en in artikel 23 van boek II van het Wetboek van Koophandel.</p>
+
+<p>§ 3. De rang van de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving die genomen wordt krachtens het uitvoerbaar verklaarde en betekende dwangbevel.</p>
+
+<p>§ 4. De hypotheek wordt ingeschreven op verzoek van het personeelslid, vermeld in artikel 75, § 1, tweede lid.</p>
+
+<p>De inschrijving vindt plaats, niettegenstaande verzet, betwisting of beroep, op voorlegging van een afschrift van het dwangbevel dat door dat personeelslid eensluidend wordt verklaard en dat melding maakt van de betekening ervan.</p>
+
+<p>§ 5. Artikel 19, tweede lid, van de Faillissementswet van 8 augustus 1997 is niet van toepassing op de wettelijke hypotheek inzake de verschuldigde ten onrechte uitbetaalde steun en toebehoren, de exclusieve bestuurlijke geldboeten en de administratieve geldboeten waarvoor een dwangbevel is uitgevaardigd en waarvan betekening aan de betrokkene is gedaan voor het vonnis van faillietverklaring.</p>
 
 ## HOOFDSTUK 4 Slotbepalingen
 
