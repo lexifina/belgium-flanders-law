@@ -734,11 +734,15 @@ Aan   artikel 39, § 1, van het decreet van 3 juli 2015 houdende bepalingen van 
 
 ### ART 170/1.
 
-De Vlaamse Regering wordt gemachtigd om de Klimaatprijs uit te reiken. De Klimaatprijs is een jaarlijkse prijs voor duurzame klimaatprojecten die een bijdrage leveren aan het behalen van de lokale en Vlaamse milieu- en klimaatdoelstellingen.
+De Vlaamse Regering wordt gemachtigd om de Klimaatprijs uit te reiken. De Klimaatprijs is een jaarlijkse prijs voor duurzame klimaatprojecten die een bijdrage leveren aan het behalen van de lokale en Vlaamse milieu- en klimaatdoelstellingen.<br>
+<br>
+De Vlaamse Regering kan de criteria en de procedure voor de toekenning van de Klimaatprijs bepalen.
 
 ### ART 170/2.
 
-De Vlaamse Regering wordt gemachtigd om de Prijs Rudi Verheyen uit te reiken. De Prijs Rudi Verheyen is een jaarlijkse prijs voor wetenschappelijk werk met een bijzondere verdienste voor het Vlaamse milieu- en natuurbeleid.
+De Vlaamse Regering wordt gemachtigd om de Prijs Rudi Verheyen uit te reiken. De Prijs Rudi Verheyen is een jaarlijkse prijs voor wetenschappelijk werk met een bijzondere verdienste voor het Vlaamse milieu- en natuurbeleid.<br>
+<br>
+De Vlaamse Regering kan de criteria en de procedure voor de toekenning van de Prijs Rudi Verheyen bepalen.
 
 ## HOOFDSTUK 32 Slotbepalingen
 
