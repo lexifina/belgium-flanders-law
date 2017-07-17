@@ -6,7 +6,35 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-De hiernavolgende werken, handelingen en inrichtingen nodig om het Deurganckdok, zoals aangegeven in kaart 1, aan te leggen en operationeel te maken, worden van dwingend groot algemeen en strategisch belang verklaard:<br /><br />1° de aanleg in drie fasen van maximum 5 300 m diepgefundeerde kaaimuren en aanhorigheden, inbegrepen alle bijbehorende droge grondwerken, met inbegrip van eventuele zandwinning;<br /><br />2° het baggeren van het dok en de toegang ervan tot de Beneden-Zeeschelde, inbegrepen de verruiming van de Drempel van Frederik en Zandvliet, zoals aangegeven in kaart 3, en het aanwenden van de vrijgekomen baggerspecie voor het ophogen van de terreinen omheen het dok en van de terreinen ten westen van en aansluitend aan het Doeldok, zoals aangegeven in kaart 2, alsook voor het gedeeltelijk dempen van het Doeldok, met inbegrip van eventuele zandwinning;<br /><br />3° de aanleg van de leefbaarheidsbuffer tussen Doel en de terreinen rond het Deurganckdok;<br /><br />4° de aanleg van de ontsluitingsinfrastructuur voor weg- en spoorverkeer, inclusief de noodzakelijke aanpassingen van de bestaande transportinfrastructuur en haar aanhorigheden;<br /><br />5° de compenserende maatregelen in toepassing van artikel 6, leden 2, 3 en 4, van de richtlijn 92/43/EEG van de Raad van 21 mei 1992, inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna, zoals aangegeven in kaarten 4 en 5:<br /><br />a) weidevogelgebied gelegen in een gecontroleerd overstromingsgebied binnen het gebied Kruibeke-Bazel-Rupelmonde;<br /><br />b) Paardenschor;<br /><br />c) kreek ter hoogte van het Paardenschor;<br /><br />d) zoetwaterkreek in de buffer (Zuid-West B);<br /><br />e) plas "Drydijck" met inbegrip van ecologische buffer;<br /><br />f) weidevogelgebieden gelegen in zoekzone "Doelpolder noord" (V) en in tijdelijk weidevogelgebied "Putten west" (ZTA);<br /><br />g) verbetering ecologische kwaliteit polder op percelen in eigendom van de Vlaamse overheid;<br /><br />h) tijdelijk en permanent beheer van waterplassen gelegen in de zone "Putten Plas" en overige waterplassen in Z2-gebied;<br /><br />i) tijdelijke inrichting van de spuitvelden "Zwijndrecht", "ex-Doeldok" en "Z2-gebied".
+De hiernavolgende werken, handelingen en inrichtingen nodig om het Deurganckdok, zoals aangegeven in kaart 1, aan te leggen en operationeel te maken, worden van dwingend groot algemeen en strategisch belang verklaard:<br>
+<br>
+1° de aanleg in drie fasen van maximum 5 300 m diepgefundeerde kaaimuren en aanhorigheden, inbegrepen alle bijbehorende droge grondwerken, met inbegrip van eventuele zandwinning;<br>
+<br>
+2° het baggeren van het dok en de toegang ervan tot de Beneden-Zeeschelde, inbegrepen de verruiming van de Drempel van Frederik en Zandvliet, zoals aangegeven in kaart 3, en het aanwenden van de vrijgekomen baggerspecie voor het ophogen van de terreinen omheen het dok en van de terreinen ten westen van en aansluitend aan het Doeldok, zoals aangegeven in kaart 2, alsook voor het gedeeltelijk dempen van het Doeldok, met inbegrip van eventuele zandwinning;<br>
+<br>
+3° ...;<br>
+<br>
+4° de aanleg van de ontsluitingsinfrastructuur voor weg- en spoorverkeer, inclusief de noodzakelijke aanpassingen van de bestaande transportinfrastructuur en haar aanhorigheden;<br>
+<br>
+5° de compenserende maatregelen in toepassing van artikel 6, leden 2, 3 en 4, van de richtlijn 92/43/EEG van de Raad van 21 mei 1992, inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna, zoals aangegeven in kaarten 4 en 5:<br>
+<br>
+a) weidevogelgebied gelegen in een gecontroleerd overstromingsgebied binnen het gebied Kruibeke-Bazel-Rupelmonde;<br>
+<br>
+b) Paardenschor;<br>
+<br>
+c) kreek ter hoogte van het Paardenschor;<br>
+<br>
+d) zoetwaterkreek in de buffer (Zuid-West B);<br>
+<br>
+e) plas "Drydijck" met inbegrip van ecologische buffer;<br>
+<br>
+f) weidevogelgebieden gelegen in zoekzone "Doelpolder noord" (V) en in tijdelijk weidevogelgebied "Putten west" (ZTA);<br>
+<br>
+g) verbetering ecologische kwaliteit polder op percelen in eigendom van de Vlaamse overheid;<br>
+<br>
+h) tijdelijk en permanent beheer van waterplassen gelegen in de zone "Putten Plas" en overige waterplassen in Z2-gebied;<br>
+<br>
+i) tijdelijke inrichting van de spuitvelden "Zwijndrecht", "ex-Doeldok" en "Z2-gebied".
 
 ### ART. 3.
 
@@ -43,6 +71,10 @@ Wanneer ingevolge de toepassing van dit decreet een perceel een bestemming krijg
 ### ART. 11.
 
 De artikelen 3, eerste lid, 5 en 6, tweede lid, van dit decreet houden op uitwerking te hebben vanaf het ogenblik dat de Vlaamse regering of de vergunningverlenende overheden de mogelijkheid hebben de vergunningen bedoeld in artikel 3, eerste lid, van dit decreet te verlenen op basis van artikel 103 van het decreet van 18 mei 1999 houdende organisatie van de ruimtelijke ordening.
+
+### ART 11bis.
+
+De bepalingen van huidig decreet hebben alleen betrekking op handelingen, werken en inrichtingen verricht om het Deurganckdok aan te leggen en operationeel te maken en niet op latere handelingen, werken en inrichtingen in zoverre de verplichtingen in toepassing van artikel 6, leden 2, 3 en 4, van de richtlijn 92/43/EEG van de Raad van 21 mei 1992, inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna, ingevolge het aanleggen en operationeel maken van het Deurganckdok, niet in het gedrang komen derwijze dat latere handelingen, werken en inrichtingen steeds moeten voldoen aan en overeenstemmen met de ecologische kenmerken en doelstellingen van de voornoemde verplichtingen.
 
 ### ART. 12.
 
