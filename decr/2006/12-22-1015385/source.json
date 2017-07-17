@@ -2,16 +2,16 @@
   "codex_id": 1015385,
   "title": "Decreet van 2006-12-22 houdende inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015385/VolledigDocument?datum=2016-01-08",
-  "source_sha256": "f54bf4f4c1ba6a2273a6d54ff3005fc7108b4ef1fb31502959c0ce19e7af428c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015385/VolledigDocument?datum=2017-07-17",
+  "source_sha256": "c786cdb1d799142ea491d838bb14d038edeaf59ee174e219da49de38a3509f45",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015385&param=informatie",
-  "as_of": "2016-01-08",
+  "as_of": "2017-07-17",
   "made": "2006-12-22",
   "gazette": "2007-01-22",
   "numac": 2007035045,
   "document_start": "2007-01-01",
   "document_end": null,
-  "in_force": "2016-01-08",
+  "in_force": "2017-07-17",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2016-01-08; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-07-17; future article versions excluded; article text as the API gives it"
 }
