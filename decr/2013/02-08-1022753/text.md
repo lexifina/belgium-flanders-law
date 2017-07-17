@@ -17,7 +17,7 @@ Dit decreet voorziet in de gedeeltelijke omzetting van Richtlijn   2009/128/EG v
 ### ART. 4.
 
 Dit decreet is enkel van toepassing op het gebruik van pesticiden in de open lucht :<br>
-1° in gebieden die door het brede publiek of door kwetsbare groepen worden gebruikt;<br>
+1° in gebieden die door het brede publiek, door kwetsbare groepen of door particulieren worden gebruikt;<br>
 2° in de beschermde gebieden als bedoeld in artikel 71 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid en andere gebieden die ten behoeve van de uitvoering van de noodzakelijke natuurbehoudsmaatregelen zijn aangewezen overeenkomstig de bepalingen van artikel 36bis van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 3° in gebieden die bescherming vergen voor het aquatisch milieu en het drinkwater.<br>
 <br>
@@ -35,7 +35,9 @@ Met behoud van de toepassing van dit decreet wordt :<br>
 
 ### ART. 6.
 
-<P>Het gebruik van pesticiden kan worden gereglementeerd door een verbod of   gebruiksbeperkingen op te leggen. Daarbij kan een onderscheid gemaakt worden   naar terreinen in specifieke gebieden, activiteit of doelgroep.<BR></P>  <P>De Vlaamse Regering stelt hiervoor nadere regels vast.<BR></P>
+<p>Het gebruik van pesticiden kan worden gereglementeerd door een verbod of gebruiksbeperkingen op te leggen. Daarbij kan een onderscheid gemaakt worden naar&nbsp;type werkzame stof, terreinen in specifieke gebieden, activiteit of doelgroep.</p>
+
+<p>De Vlaamse Regering stelt hiervoor nadere regels vast.</p>
 
 ### ART. 7.
 
