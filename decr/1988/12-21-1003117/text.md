@@ -170,7 +170,11 @@ Onverminderd de bepalingen van het kaderdecreet, dit decreet, de wetten en decre
 
 ### ART. 16.
 
-De algemene vergadering van aandeelhouders bestaat uit alle aandeelhouders van het agentschap. <br /><br />Aan de algemene vergadering wordt het verslag van de raad van bestuur en het verslag van de revisor meegedeeld. Ze beslist over de gevolgtrekkingen uit deze verslagen, alsmede over het ontwerp van de jaarrekeningen. Ze geeft kwijting aan de leden van de raad van bestuur. Ze kan elk moment besluiten tot de uitgifte van nieuwe aandelen. De statuten kunnen door haar worden gewijzigd mits de Vlaamse regering goedkeuring verleent. De raad van bestuur kan op elk moment overgaan tot de oproeping van buitengewone algemene vergaderingen. Als om de oproeping verzocht wordt door aandeelhouders die ten minste één vijfde van het maatschappelijk kapitaal vertegenwoordigen, moet ze plaatsvinden binnen dertig dagen vanaf het verzoek.<br /><br />De statuten van het agentschap bepalen de nadere regels in verband met het statuut en de werking van de algemene vergadering.
+De algemene vergadering van aandeelhouders bestaat uit alle aandeelhouders van het agentschap.<br>
+<br>
+Aan de algemene vergadering wordt het verslag van de raad van bestuur en het verslag van de commissaris meegedeeld. Ze beslist over de gevolgtrekkingen uit deze verslagen, alsmede over het ontwerp van de jaarrekeningen. Ze geeft kwijting aan de leden van de raad van bestuur. Ze kan elk moment besluiten tot de uitgifte van nieuwe aandelen. De statuten kunnen door haar worden gewijzigd mits de Vlaamse regering goedkeuring verleent. De raad van bestuur kan op elk moment overgaan tot de oproeping van buitengewone algemene vergaderingen. Als om de oproeping verzocht wordt door aandeelhouders die ten minste één vijfde van het maatschappelijk kapitaal vertegenwoordigen, moet ze plaatsvinden binnen dertig dagen vanaf het verzoek.<br>
+<br>
+De statuten van het agentschap bepalen de nadere regels in verband met het statuut en de werking van de algemene vergadering.
 
 ## AFDELING 3 RAAD VAN BESTUUR
 
@@ -178,13 +182,53 @@ De algemene vergadering van aandeelhouders bestaat uit alle aandeelhouders van h
 
 ### ART. 17.
 
-§ 1. Onverminderd artikel 17 van het kaderdecreet wordt het agentschap   bestuurd door een raad van bestuur. De gedelegeerd bestuurder van het agentschap   en de algemeen directeur wonen de vergadering van de raad van bestuur bij met   raadgevende stem.<BR><BR>De raad van bestuur is, voor het bestuur van het   agentschap, met de meest uitvoerige macht bekleed. Zo regelt hij onder meer wat   volgt :<BR>1° ...<BR>2° hij beslist over de leningen, geeft de waarborgen voor   de verplichtingen die door het agentschap worden aangegaan en aanvaardt de   aangeboden waarborg voor de tegenover hem genomen verbintenissen;<BR>3° hij   bepaalt bij algemeen reglement en met de goedkeuring van de Vlaamse regering de   rentevoet en de voorwaarden van de leningen van het agentschap;<BR>4° hij stelt   de programma's vast voor de verwerving, het beheer en de overdracht van gronden,   gebouwen en bedrijven;<BR>5° hij maakt het ontwerp van de begroting en het   ontwerp van de aanpassing van de begroting op, alsook de verantwoordende   ramingstaten en de memorie van toelichting, hij stelt de algemene rekening van   het agentschap vast en oefent de bevoegdheden uit die hem worden toegekend door   het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding,   de toekenning van subsidies en de controle op de aanwending ervan, en de   controle door het Rekenhof;<BR>6° hij sluit de overeenkomsten voor aannemingen   van werken, leveringen en diensten;<BR>7° hij oefent de bevoegdheden uit die hem   krachtens het besluit van de Vlaamse regering houdende de regeling van de   rechtspositie van het personeel, alsmede krachtens alle andere op het personeel   van toepassing zijnde wettelijke, decretale of reglementaire bepalingen, worden   toegekend;<BR>8° hij neemt alle sommen en waarden in ontvangst die aan het   agentschap toekomen, of hij belast zijn vertegenwoordigers met de inning   ervan;<BR>9° hij behandelt alle zaken die met de belangen van het agentschap   verband houden, en treft daaromtrent dadingen en compromissen;<BR>10° hij geeft   machtiging tot het aangaan van alle rechtsvorderingen;<BR>11° hij ziet af van   alle zakelijke rechten, voorrechten en eisen tot ontbinding en verleent   machtiging tot de opheffing van alle bevoorrechte of hypothecaire   inschrijvingen, overschrijvingen, inbeslagname, verzet en alle andere   verhindering, zonder de uitputting van de maatschappelijke schuldvorderingen of   betalingen te hoeven rechtvaardigen. Hij mag dienaangaande zijn bevoegdheden   overdragen aan de gedelegeerd bestuurder van het agentschap of aan een door deze   laatste -aangewezen ambtenaar;<BR>12° hij wijst de secretaris aan van elke   coördinatiecommissie, van elk ruilverkavelingscomité en van elk ander orgaan,   belast met de ruilverkaveling van landeigendommen en de landinrichting, en hij   verstrekt, binnen de perken van de beschikbare gelden van het agentschap, voor   elk voornoemd orgaan de nodige kredieten voor de uitvoering van de werken en   voor alle andere nodige uitgaven voor de uitvoering ervan;<BR>13° hij wijst de   secretaris aan van elk projectcomité en elke projectcommissie, opgericht voor   elk natuurinrichtingsproject;<BR>14° binnen de perken van de wet, het decreet of   het reglement, beschikt hij over de fondsen die zich in bewaring, of op   rekening-courant bevinden.<BR><BR>§ 2. De raad van bestuur kan de volgende   bevoegdheden in geen geval delegeren :<BR>1° het sluiten van de   beheersovereenkomst, bedoeld in artikel 14 van het kaderdecreet Bestuurlijk   Beleid van 18 juli 2003;<BR>2° het vaststellen van het ondernemingsplan;<BR>3°   het goedkeuren van de rapportering over de uitvoering van de bedoelde   beheersovereenkomst;<BR>4° de opmaak van het ontwerp van begroting;<BR>5° de   opmaak van het ontwerp van aanpassing van de begroting;<BR>6° de opmaak van de   algemene rekening;<BR>7° de rapportering over de uitvoering van de   begroting;<BR>8° de opmaak van de verantwoordende ramingsstaten en de memorie   van toelichting.<BR><BR>§ 3. De raad van bestuur mag, onder zijn   verantwoordelijkheid, een gedeelte van de bevoegdheden waarmee hij bekleed is,   overdragen aan één of meer van zijn leden of aan de gedelegeerd bestuurder, met   uitzondering van de bevoegdheden, bedoeld in § 2.<BR><BR>De gedelegeerd   bestuurder kan, mits de raad van bestuur goedkeuring verleent, bepaalde van deze   bevoegdheden overdragen aan de door hem aangewezen ambtenaren van het   agentschap, met uitzondering van de bevoegdheden, bedoeld in § 2. Deze delegatie   geldt ad nutum.<BR><BR>§ 4. De raad van bestuur kan in zijn midden een   bestuurscomité instellen dat belast is met de beslissingen over de verwerving   van het eigendoms- of gebruiksrecht van eigendommen ter uitvoering van de missie   en taken, bedoeld in artikelen 5, 6 en 6bis en hoofdstuk VII, die aan het   agentschap zijn opgedragen.<BR><BR>De statuten van het agentschap bepalen de   nadere regels inzake werking en samenstelling van het bestuurscomité.
+§ 1. Onverminderd artikel 17 van het kaderdecreet wordt het agentschap bestuurd door een raad van bestuur. De gedelegeerd bestuurder van het agentschap en de algemeen directeur wonen de vergadering van de raad van bestuur bij met raadgevende stem.<br>
+<br>
+De raad van bestuur is, voor het bestuur van het agentschap, met de meest uitvoerige macht bekleed. Zo regelt hij onder meer wat volgt :<br>
+1° ...<br>
+2° hij beslist over de leningen, geeft de waarborgen voor de verplichtingen die door het agentschap worden aangegaan en aanvaardt de aangeboden waarborg voor de tegenover hem genomen verbintenissen;<br>
+3° hij bepaalt bij algemeen reglement en met de goedkeuring van de Vlaamse regering de rentevoet en de voorwaarden van de leningen van het agentschap;<br>
+4° hij stelt de programma's vast voor de verwerving, het beheer en de overdracht van gronden, gebouwen en bedrijven;<br>
+5° hij maakt het ontwerp van de begroting en het ontwerp van de aanpassing van de begroting op, alsook de verantwoordende ramingstaten en de memorie van toelichting, hij stelt de algemene rekening van het agentschap vast en oefent de bevoegdheden uit die hem worden toegekend door het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof;<br>
+6° hij sluit de overeenkomsten voor aannemingen van werken, leveringen en diensten;<br>
+7° hij oefent de bevoegdheden uit die hem krachtens het besluit van de Vlaamse regering houdende de regeling van de rechtspositie van het personeel, alsmede krachtens alle andere op het personeel van toepassing zijnde wettelijke, decretale of reglementaire bepalingen, worden toegekend;<br>
+8° hij neemt alle sommen en waarden in ontvangst die aan het agentschap toekomen, of hij belast zijn vertegenwoordigers met de inning ervan;<br>
+9° hij behandelt alle zaken die met de belangen van het agentschap verband houden, en treft daaromtrent dadingen en compromissen;<br>
+10° hij geeft machtiging tot het aangaan van alle rechtsvorderingen;<br>
+11° hij ziet af van alle zakelijke rechten, voorrechten en eisen tot ontbinding en verleent machtiging tot de opheffing van alle bevoorrechte of hypothecaire inschrijvingen, overschrijvingen, inbeslagname, verzet en alle andere verhindering, zonder de uitputting van de maatschappelijke schuldvorderingen of betalingen te hoeven rechtvaardigen. Hij mag dienaangaande zijn bevoegdheden overdragen aan de gedelegeerd bestuurder van het agentschap of aan een door deze laatste -aangewezen ambtenaar;<br>
+12° hij wijst de secretaris aan van elke coördinatiecommissie, van elk ruilverkavelingscomité en van elk ander orgaan, belast met de ruilverkaveling van landeigendommen en de landinrichting, en hij verstrekt, binnen de perken van de beschikbare gelden van het agentschap, voor elk voornoemd orgaan de nodige kredieten voor de uitvoering van de werken en voor alle andere nodige uitgaven voor de uitvoering ervan;<br>
+13° hij wijst de secretaris aan van elk projectcomité en elke projectcommissie, opgericht voor elk natuurinrichtingsproject;<br>
+14° binnen de perken van de wet, het decreet of het reglement, beschikt hij over de fondsen die zich in bewaring, of op rekening-courant bevinden.<br>
+<br>
+§ 2. De raad van bestuur kan de volgende bevoegdheden in geen geval delegeren :<br>
+1° ...;<br>
+2° het vaststellen van het ondernemingsplan overeenkomstig artikel 5/1, § 1, tweede lid, van het kaderdecreet;<br>
+3° het vaststellen van het jaarrapport over de uitvoering van het ondernemingsplan overeenkomstig artikel 5/1 van het kaderdecreet;<br>
+4° de opmaak van het ontwerp van begroting;<br>
+5° de opmaak van het ontwerp van aanpassing van de begroting;<br>
+6° de opmaak van de algemene rekening;<br>
+7° de rapportering over de uitvoering van de begroting;<br>
+8° de opmaak van de verantwoordende ramingsstaten en de memorie van toelichting.<br>
+<br>
+§ 3. De raad van bestuur mag, onder zijn verantwoordelijkheid, een gedeelte van de bevoegdheden waarmee hij bekleed is, overdragen aan één of meer van zijn leden of aan de gedelegeerd bestuurder, met uitzondering van de bevoegdheden, bedoeld in § 2.<br>
+<br>
+De gedelegeerd bestuurder kan, mits de raad van bestuur goedkeuring verleent, bepaalde van deze bevoegdheden overdragen aan de door hem aangewezen ambtenaren van het agentschap, met uitzondering van de bevoegdheden, bedoeld in § 2. Deze delegatie geldt ad nutum.<br>
+<br>
+§ 4. De raad van bestuur kan in zijn midden een bestuurscomité instellen dat belast is met de beslissingen over de verwerving van het eigendoms- of gebruiksrecht van eigendommen ter uitvoering van de missie en taken, bedoeld in artikelen 5, 6 en 6bis, die aan het agentschap zijn opgedragen.<br>
+<br>
+De statuten van het agentschap bepalen de nadere regels inzake werking en samenstelling van het bestuurscomité.
 
 ## [ONDERAFDELING 2 SAMENSTELLING, AANSTELLING, ONTSLAG, WERKING (ing. decr. 7 mei 2004, art. 28)]
 
 ### ART. 18.
 
-§ 1. De raad van bestuur bestaat uit minimum 13 en maximum 17 leden,   waaronder een voorzitter en een vice-voorzitter. De Vlaamse regering bepaalt het   aantal leden, benoemt en ontslaat de voorzitter, de vice-voorzitter en de   overige leden van de raad. Zij bepaalt tevens de werking van de   raad.<BR><BR>Alleen de bestuurders die beschikken over de voor het agentschap   relevante deskundigheid en ervaring ten aanzien van de missie, de taken en   bevoegdheden, bedoeld in artikelen 5, 6, 6bis en 10 en hoofdstuk VII, van het   agentschap, kunnen tot lid van de raad van bestuur van het agentschap worden   aangesteld.&nbsp;<BR><BR>§ 2. Onder de leden van de raad van bestuur van het   agentschap worden zoveel bestuurders benoemd als er provincies vertegenwoordigd   zijn in de vergadering van aandeelhouders, op basis van een door deze provincies   voorgedragen dubbele lijst waarbij elke provincie een mannelijke en een   vrouwelijke kandidaat voordraagt.<BR><BR>§ 3. Voor zover dit niet is geregeld in   het besluit van de Vlaamse regering, bedoeld in § 1, bepalen de statuten van het   agentschap de nadere regels inzake het statuut en de werking van de raad van   bestuur.
+§ 1. De raad van bestuur bestaat uit minimum 13 en maximum 17 leden, waaronder een voorzitter en een vice-voorzitter. De Vlaamse regering bepaalt het aantal leden, benoemt en ontslaat de voorzitter, de vice-voorzitter en de overige leden van de raad. Zij bepaalt tevens de werking van de raad.<br>
+<br>
+Alleen de bestuurders die beschikken over de voor het agentschap relevante deskundigheid en ervaring ten aanzien van de missie, de taken en bevoegdheden, bedoeld in artikelen 5, 6, 6bis en 10, van het agentschap, kunnen tot lid van de raad van bestuur van het agentschap worden aangesteld.&nbsp;<br>
+<br>
+§ 2. Onder de leden van de raad van bestuur van het agentschap worden zoveel bestuurders benoemd als er provincies vertegenwoordigd zijn in de vergadering van aandeelhouders, op basis van een door deze provincies voorgedragen dubbele lijst waarbij elke provincie een mannelijke en een vrouwelijke kandidaat voordraagt.<br>
+<br>
+§ 3. Voor zover dit niet is geregeld in het besluit van de Vlaamse regering, bedoeld in § 1, bepalen de statuten van het agentschap de nadere regels inzake het statuut en de werking van de raad van bestuur.
 
 ## [AFDELING 4 HET DAGELIJKS BESTUUR (verv. decr. 7 mei 2004, art. 30)]
 
@@ -196,7 +240,7 @@ De algemene vergadering van aandeelhouders bestaat uit alle aandeelhouders van h
 
 ### ART. 18ter.
 
-[De voorwaarden en de procedure voor de uitvoering van de opdrachten van openbare dienst worden vastgelegd in een, na onderhandeling gesloten, beheersovereenkomst als bedoeld in artikel 14 van het kaderdecreet tussen het Vlaamse Gewest, vertegenwoordigd door de Vlaamse regering en het agentschap, vertegenwoordigd door zijn raad van bestuur. (ing. decr. 7 mei 2004, art. 31, I: 1 april 2006) ]
+De voorwaarden en de procedure voor de uitvoering van de opdrachten van openbare dienst worden overeenkomstig artikel 5/1, § 1, tweede lid, van het kaderdecreet door de raad van bestuur in een jaarlijks ondernemingsplan vastgesteld, in samenspraak met de Vlaamse Regering, alsook in een jaarrapport over de uitvoering van het ondernemingsplan.
 
 ## HOOFDSTUK X FINANCIËLE BEPALINGEN
 
@@ -204,7 +248,25 @@ De algemene vergadering van aandeelhouders bestaat uit alle aandeelhouders van h
 
 ### ART. 18quater.
 
-§ 1. Het agentschap kan beschikken over de volgende ontvangsten :<BR>1°   dotaties;<BR>2° leningen;<BR>3° fiscale heffingen voorzover ze bij decreet   toegewezen zijn aan het agentschap;<BR>4° retributies voorzover ze bij decreet   toegewezen zijn aan het agentschap;<BR>5° ontvangsten uit daden van beheer of   beschikking met betrekking tot eigen domeingoederen;<BR>6° schenkingen en   legaten in contanten of schenkingen en legaten van goederen of rechten. De raad   van bestuur beoordeelt vooraf de opportuniteit en de risico's van de   aanvaarding;<BR>7° inkomsten uit eigen participaties en uit door het agentschap   verstrekte leningen aan derden;<BR>8° opbrengsten uit de verkoop van eigen   participaties;<BR>9° de subsidies waarvoor het agentschap als begunstigde in   aanmerking komt;<BR>10° terugvorderingen van ten onrechte gedane   uitgaven;<BR>11° vergoedingen voor prestaties aan derden, volgens de   voorwaarden, bepaald in de beheersovereenkomst;<BR>12° opbrengsten uit   intellectuele rechten;<BR>13° terugbetaling van kapitaal en interesten van de   aan het agentschap overgedragen leningen bij het   Landbouwinvesteringsfonds.<BR><BR>§ 2. Tenzij het bij decreet anders is bepaald,   worden de ontvangsten, bedoeld in § 1, beschouwd als ontvangsten die bestemd   zijn voor de gezamenlijke uitgaven.<BR><BR>§ 3. De Vlaamse regering kan aan het   agentschap terugvorderbare voorschotten verstrekken, ter aanvulling van de   inkomsten van het agentschap. De regels van aanvraag, vaststelling, toekenning   en terugbetaling van deze voorschotten worden door de Vlaamse regering   vastgesteld.<BR><BR>Ter uitvoering van de aan het agentschap opgedragen missie,   taken en bevoegdheden, bedoeld in artikelen 5, 6, 6bis en 10 en hoofdstuk VII,   kan het agentschap aan prefinanciering doen.
+§ 1. Het agentschap kan beschikken over de volgende ontvangsten :<br>
+1° dotaties;<br>
+2° leningen;<br>
+3° fiscale heffingen voorzover ze bij decreet toegewezen zijn aan het agentschap;<br>
+4° retributies voorzover ze bij decreet toegewezen zijn aan het agentschap;<br>
+5° ontvangsten uit daden van beheer of beschikking met betrekking tot eigen domeingoederen;<br>
+6° schenkingen en legaten in contanten of schenkingen en legaten van goederen of rechten. De raad van bestuur beoordeelt vooraf de opportuniteit en de risico's van de aanvaarding;<br>
+7° inkomsten uit eigen participaties en uit door het agentschap verstrekte leningen aan derden;<br>
+8° opbrengsten uit de verkoop van eigen participaties;<br>
+9° de subsidies waarvoor het agentschap als begunstigde in aanmerking komt;<br>
+10° terugvorderingen van ten onrechte gedane uitgaven;<br>
+11° vergoedingen voor prestaties aan derden, volgens de voorwaarden, bepaald in het ondernemingsplan;<br>
+12° opbrengsten uit intellectuele rechten.<br>
+<br>
+§ 2. Tenzij het bij decreet anders is bepaald, worden de ontvangsten, bedoeld in § 1, beschouwd als ontvangsten die bestemd zijn voor de gezamenlijke uitgaven.<br>
+<br>
+§ 3. De Vlaamse regering kan aan het agentschap terugvorderbare voorschotten verstrekken, ter aanvulling van de inkomsten van het agentschap. De regels van aanvraag, vaststelling, toekenning en terugbetaling van deze voorschotten worden door de Vlaamse regering vastgesteld.<br>
+<br>
+Ter uitvoering van de aan het agentschap opgedragen missie, taken en bevoegdheden, bedoeld in artikelen 5, 6, 6bis en 10, kan het agentschap aan prefinanciering doen.
 
 ## [AFDELING 2 COMMISSARIS (verv. decr. 28 februari 2014, art. 22)]
 
