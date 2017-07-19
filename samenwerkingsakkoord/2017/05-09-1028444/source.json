@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028444,
+  "title": "Samenwerkingsakkoord van 2017-05-09 tussen de Federale Overheid en het Vlaamse Gewest met betrekking tot de regularisatie van niet uitsplitsbare bedragen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028444/VolledigDocument?datum=2017-07-19",
+  "source_sha256": "01adee3fdc1d40252989b31f03faae701fc136e0dd6e934051fdb4a8ecb8bfcc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028444&param=informatie",
+  "as_of": "2017-07-19",
+  "made": "2017-05-09",
+  "gazette": "2017-07-18",
+  "numac": 2017030677,
+  "document_start": "2017-07-19",
+  "document_end": null,
+  "in_force": "2017-07-19",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2017-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
