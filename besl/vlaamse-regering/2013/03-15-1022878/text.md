@@ -18,7 +18,28 @@ In dit besluit wordt verstaan onder:<BR>1° Actieplan: Actieplan Duurzaam   Pest
 
 ### ART. 3.
 
-<P>Met uitzondering van land- en tuinbouwactiviteiten zijn hoofdstuk 2, 3 en 4   van dit besluit van toepassing op de volgende terreinen die beheerd worden in   het kader van een openbare dienst of in het kader van een commerciële   activiteit: <BR>1° alle terreinen, inclusief de bermen, op minder dan zes meter   van het talud van het oppervlaktewater; <BR>2° alle bermen langs wegen en   spoorwegen;<BR>3° alle wegranden, trottoirs en andere verharde terreinen die   deel uitmaken van de openbare weg of die erbij horen, zoals parkeerterreinen en   pleinen;<BR>4° alle verharde terreinen die 200 m<SUP>2</SUP> of groter   zijn;<BR>5° alle terreinen die toegankelijk zijn voor het brede publiek of voor   kwetsbare groepen, zoals:<BR>a) parken, plantsoenen, tuinen, pleinen en   begraafplaatsen;<BR>b) sportdomeinen, recreatiedomeinen, dieren- en   pretparken;<BR>c) terreinen bij kinderopvang, scholen en instellingen voor   kleuter-, basisonderwijs en secundair onderwijs, deeltijds kunstonderwijs en   centra voor leerlingenbegeleiding;<BR>d) speelplaatsen, speelterreinen,   sportterreinen, schoolterreinen en terreinen van zorgverstrekkende instellingen   die niet vervat zijn onder c);<BR>6° alle andere terreinen dan de terreinen   vermeld in punt 1° tot en met 5°, die gebruikt worden voor een openbare dienst   of die horen bij een gebouw dat gebruikt wordt voor een openbare dienst.   <BR></P>  <P>In het eerste lid wordt verstaan onder:<BR>1° kwetsbare groepen: mensen die   specifieke aandacht behoeven als het gaat om de beoordeling van acute en   chronische gevolgen van pesticiden voor de gezondheid;<BR>2° oppervlaktewater:   water, vermeld in artikel 3, § 2, 3°, van het decreet van 18 juli 2003   betreffende het integraal waterbeleid;<BR>3° talud: talud vermeld in artikel 3,   § 2, 42°, van het decreet van 18 juli 2003 betreffende het integraal   waterbeleid;<BR>4° verhard terrein: grondoppervlak dat op een of andere wijze   bedekt is met een verharding, al dan niet waterdoorlatend;<BR>5°   zorgverstrekkende instelling: instelling zoals een ziekenhuis, rust- en   verzorgingstehuis of een psychiatrisch verzorgingstehuis.<BR></P>
+<p>Met uitzondering van land- en tuinbouwactiviteiten zijn&nbsp;hoofdstuk 2, 3, 4 en 4/1 van dit besluit van toepassing op de volgende terreinen die beheerd worden in het kader van een openbare dienst of in het kader van een commerciële activiteit:<br>
+1° alle terreinen, inclusief de bermen, op minder dan zes meter van het talud van het oppervlaktewater;<br>
+2° alle bermen langs wegen en spoorwegen;<br>
+3° alle wegranden, trottoirs en andere verharde terreinen die deel uitmaken van de openbare weg of die erbij horen, zoals parkeerterreinen en pleinen;<br>
+4° alle verharde terreinen die 200 m<sup>2</sup> of groter zijn;<br>
+5° alle terreinen die toegankelijk zijn voor het brede publiek of voor kwetsbare groepen, zoals:<br>
+a) parken, plantsoenen, tuinen, pleinen en begraafplaatsen;<br>
+b) sportdomeinen, recreatiedomeinen, dieren- en pretparken;<br>
+c) terreinen bij kinderopvang, scholen en instellingen voor kleuter-, basisonderwijs en secundair onderwijs, deeltijds kunstonderwijs en centra voor leerlingenbegeleiding;<br>
+d) speelplaatsen, speelterreinen, sportterreinen, schoolterreinen en terreinen van zorgverstrekkende instellingen die niet vervat zijn onder c);<br>
+6° alle andere terreinen dan de terreinen vermeld in punt 1° tot en met 5°, die gebruikt worden voor een openbare dienst of die horen bij een gebouw dat gebruikt wordt voor een openbare dienst.</p>
+
+<p>In het eerste lid wordt verstaan onder:<br>
+1° kwetsbare groepen: mensen die specifieke aandacht behoeven als het gaat om de beoordeling van acute en chronische gevolgen van pesticiden voor de gezondheid;<br>
+2° oppervlaktewater: water, vermeld in artikel 3, § 2, 3°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
+3° talud: talud vermeld in artikel 3, § 2, 42°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
+4° verhard terrein: grondoppervlak dat op een of andere wijze bedekt is met een verharding, al dan niet waterdoorlatend;<br>
+5° zorgverstrekkende instelling: instelling zoals een ziekenhuis, rust- en verzorgingstehuis of een psychiatrisch verzorgingstehuis.</p>
+
+### ART 3/1.
+
+Hoofdstuk 4/1 is van toepassing op de gebieden die door particulieren worden gebruikt.
 
 ## [HOOFDSTUK 3 Minimumgebruik of verbod op het gebruik van pesticiden op terreinen die beheerd worden in het kader van een openbare dienst of in het kader van een commerciële activiteit (verv. BVR 14 juli 2017, art. 3, I: 19 juli 2017)]
 
@@ -45,6 +66,14 @@ In dit besluit wordt verstaan onder:<BR>1° Actieplan: Actieplan Duurzaam   Pest
 <P>§ 1. Het Vlaamse Gewest, de Vlaamse Gemeenschap en alle diensten en   agentschappen die er van afhangen, de provinciale overheden, de gemeenten, de   autonome gemeentebedrijven en de polders en wateringen rapporteren jaarlijks   vóór 1 april van het daaropvolgende jaar de volgende gegevens over de gebruikte   pesticiden aan de Vlaamse Milieumaatschappij: de omschrijving van de plaats van   het gebruik, de productnaam, het erkenningsnummer of toelatingsnummer, de   hoeveelheid en het nummer van de afwijking die ze ontvangen hebben van de   Vlaamse Milieumaatschappij.<BR></P>  <P>De Vlaamse Milieumaatschappij kan de inhoud en de wijze waarop gerapporteerd   wordt, verder regelen.<BR></P>  <P>§ 2. De andere beheerders van de terreinen, vermeld in artikel 3, eerste lid,   houden de gegevens over pesticidengebruik jaarlijks bij voor een periode van   vijf jaar. Die gegevens omvatten: de plaats van het gebruik, de productnaam, het   erkenningsnummer of toelatingsnummer en de hoeveelheid die gebruikt is in dat   jaar. <BR></P>  <P>De Vlaamse Milieumaatschappij heeft inzagerecht. <BR></P>
 
 ## [HOOFDSTUK 4/1 Gebruik van pesticiden die glyfosaat bevatten (ing. BVR 14 juli 2017, art. 5, I: 19 juli 2017)]
+
+### ART 8/1.
+
+Alleen een professionele gebruiker met een fytolicentie P1, P2 of P3 mag pesticiden die glyfosaat bevatten, toepassen.<br>
+<br>
+In het eerste lid wordt verstaan onder professionele gebruiker: elke persoon die, in de landbouwsector of in een andere sector, producten gebruikt in het kader van zijn beroepsactiviteiten, met inbegrip van bedieners van toepassingsapparatuur, technici, werkgevers en zelfstandigen.<br>
+<br>
+De professionele gebruiker, vermeld in het eerste lid, handelt conform artikel 5 van het decreet en artikel 5 van het besluit van de Vlaamse Regering van 5 december 2014 houdende de toepassing van geïntegreerde gewasbescherming door professionele gebruikers van gewasbeschermingsmiddelen.
 
 ## HOOFDSTUK 5 Opmaak van het Actieplan Duurzaam Pesticidengebruik
 
