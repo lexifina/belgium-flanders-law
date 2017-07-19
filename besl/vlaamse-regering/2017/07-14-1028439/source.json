@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028439,
+  "title": "Besluit van de Vlaamse Regering van 2017-07-14 tot wijziging van het besluit van de Vlaamse Regering van 15 maart 2013 houdende nadere regels inzake duurzaam gebruik van pesticiden in het Vlaamse Gewest voor niet-land- en tuinbouwactiviteiten en de opmaak van het Vlaams Actieplan Duurzaam Pesticidengebruik",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028439/VolledigDocument?datum=2017-07-19",
+  "source_sha256": "c75743a97795cc561786209f61939490fe3f966bed4b3eaa3aacf9d654e4acc2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028439&param=informatie",
+  "as_of": "2017-07-19",
+  "made": "2017-07-14",
+  "gazette": "2017-07-18",
+  "numac": 2017040437,
+  "document_start": "2017-07-19",
+  "document_end": null,
+  "in_force": "2017-07-19",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2017-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
