@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028401,
+  "title": "Ministerieel besluit van 2017-06-21 tot wijziging van het ministerieel besluit van 19 februari 2016 tot vaststelling van de historische stadskern van Torhout als archeologische zone",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028401/VolledigDocument?datum=2017-07-20",
+  "source_sha256": "195001fc3d9b12061923e44de0532af09318dc7d3917dc4c530273345abc8082",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028401&param=informatie",
+  "as_of": "2017-07-20",
+  "made": "2017-06-21",
+  "gazette": "2017-07-10",
+  "numac": 2017030425,
+  "document_start": "2017-07-20",
+  "document_end": null,
+  "in_force": "2017-07-20",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
