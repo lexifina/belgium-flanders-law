@@ -41,3 +41,17 @@ De erkenning van de volgende Vlaamse sportfederaties wordt van rechtswege ingetr
 ### ART 2.
 
 De erkenning van de De FitnessOrganisatie vzw, Groenstraat 240, 9041 Gent, met ondernemingsnummer 0453.706.414, als Vlaamse sportfederatie wordt van rechtswege ingetrokken omwille van haar erkenning als organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van gezond en ethisch sporten in de fitness, conform artikel 14/1 van het decreet van 20 december 2013 inzake gezond en ethisch sporten.
+
+### ART 3.
+
+In toepassing van artikel 68, § 3, van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector, wordt de erkenning van de volgende sportfederaties ingetrokken vermits ze niet meer voldoen aan de erkenningsvoorwaarden, vermeld in artikel 4, 3°, 14° en 15°, van het voormelde decreet van 10 juni 2016:<br>
+1° Belgische Politie Sportbond - Nederlandstalige Vleugel vzw, Boomsesteenweg 180, 2610 Wilrijk, met ondernemingsnummer 0418.257.763;<br>
+2° Vlaamse Liefhebbers Motorrijders vzw, Linkhoutstraat 219a, 3560 Lummen, met ondernemingsnummer 0463.518.260.<br>
+<br>
+In toepassing van artikel 68, § 3, van het voormelde decreet van 10 juni 2016 wordt de erkenning van de Hondenfederatie Vrienden Onder Eén vzw, Bollewerpstraat 119, 8770 Ingelmunster, met ondernemingsnummer 0885.962.564, ingetrokken vermits ze niet langer voldoet aan de erkenningsvoorwaarden, vermeld in artikel 4, 3°, 9°, 14° en 15°, van het voormelde decreet van 10 juni 2016.
+
+### ART 4.
+
+Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br>
+<br>
+In afwijking van het eerste lid, hebben artikel 1 en 2 uitwerking met ingang van 1 januari 2017.

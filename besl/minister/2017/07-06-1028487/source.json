@@ -2,16 +2,16 @@
   "codex_id": 1028487,
   "title": "Ministerieel besluit van 2017-07-06 houdende de intrekking van de erkenning van sommige Vlaamse sportfederaties",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028487/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "81fa80c135c5967dc188fb65c0b4f6410f9e645c6ad2e6891f69d8be4d265c21",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028487/VolledigDocument?datum=2017-07-20",
+  "source_sha256": "1e1e0a74eb85f300fffe9306955ba8cd5226f0c0cfb5bccf3f646467baa363e7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028487&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2017-07-20",
   "made": "2017-07-06",
   "gazette": "2017-07-20",
   "numac": 2017203912,
   "document_start": "2017-07-20",
   "document_end": null,
-  "in_force": "2017-01-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2017-07-20",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-07-20; future article versions excluded; article text as the API gives it"
 }
