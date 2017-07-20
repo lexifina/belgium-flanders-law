@@ -10,7 +10,7 @@
 
 ### BIJLAGE 1
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2016/03/31_1.pdf#page=162">Bijlage   1</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/07/10_1.pdf#page=90">http://www.ejustice.just.fgov.be/mopdf/2017/07/10_1.pdf#page=90</a>
 
 ### BIJLAGE 2
 
