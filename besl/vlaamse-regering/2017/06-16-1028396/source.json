@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028396,
+  "title": "Besluit van de Vlaamse Regering van 2017-06-16 tot wijziging van artikel 2, 4, 6 en 7 van het besluit van de Vlaamse Regering van 19 juli 2007 houdende samenstelling en werking van de raadgevende comités bij de intern verzelfstandigde agentschappen van het beleidsdomein Welzijn, Volksgezondheid en Gezin",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028396/VolledigDocument?datum=2017-07-20",
+  "source_sha256": "460df0d55d010b6873546ce79b41c23d4c73804e0c920cc5727b8a4bc411465d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028396&param=informatie",
+  "as_of": "2017-07-20",
+  "made": "2017-06-16",
+  "gazette": "2017-07-10",
+  "numac": 2017030491,
+  "document_start": "2017-07-20",
+  "document_end": null,
+  "in_force": "2017-07-20",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2017-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
