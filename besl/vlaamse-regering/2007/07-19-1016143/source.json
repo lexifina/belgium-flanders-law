@@ -2,16 +2,16 @@
   "codex_id": 1016143,
   "title": "Besluit van de Vlaamse Regering van 2007-07-19 houdende samenstelling en werking van de raadgevende comités bij de intern verzelfstandigde agentschappen van het beleidsdomein Welzijn, Volksgezondheid en Gezin",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016143/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "95d897c2fbf88275ee34bdbe08e695892fc8f6fff128a76754690d0f6f2a6baa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016143/VolledigDocument?datum=2017-07-20",
+  "source_sha256": "8d5c0a3b73f1ff8e1fc71a6696a4c8be0d1c7b5957c3960911eb895a5ca135c3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016143&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2017-07-20",
   "made": "2007-07-19",
   "gazette": "2007-09-10",
   "numac": 2007036514,
   "document_start": "2007-09-20",
   "document_end": null,
-  "in_force": "2017-01-01",
+  "in_force": "2017-07-20",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-07-20; future article versions excluded; article text as the API gives it"
 }

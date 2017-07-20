@@ -50,8 +50,8 @@ De voorzitter, vermeld in artikel 5, wordt aangewezen onder de deskundigen, verm
 4° zes vertegenwoordigers van de voorzieningen en de zorgverstrekkers;<br>
 5° zes onafhankelijke deskundigen met een bijzondere bekwaamheid op het vlak van sociale bescherming.<br>
 <br>
-§ 5 Het raadgevend comité van Jongerenwelzijn bestaat uit 23 leden, waarvan :<br>
-1° zes vertegenwoordigers van de gebruikers van de ondersteuning, georganiseerd door de departementen en agentschappen die betrokken zijn bij de integrale jeugdhulp;<br>
+§ 5 Het raadgevend comité van Jongerenwelzijn bestaat uit 24 leden, waarvan :<br>
+1° zeven vertegenwoordigers van de gebruikers van de ondersteuning, georganiseerd door de departementen en agentschappen die betrokken zijn bij de integrale jeugdhulp;<br>
 2° acht vertegenwoordigers van de voorzieningen die actief zijn op het terrein van de departementen en agentschappen die betrokken zijn bij de integrale jeugdhulp;<br>
 3° drie vertegenwoordigers van de werknemers van de voorzieningen vermeld in punt 2° ;<br>
 4° zes onafhankelijke deskundigen.
@@ -63,7 +63,7 @@ De leden worden door de Vlaamse Regering voor een periode van vier jaar benoemd,
 
 ### ART. 4.
 
-De minister nodigt organisaties en geledingen uit om kandidaten voor te dragen voor de mandaten vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3° en § 4, 1° tot en met 4°.<br>
+De minister nodigt organisaties en geledingen uit om kandidaten voor te dragen voor de mandaten vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3°, § 4, 1° tot en met 4°, en § 5, 1° tot en met 3°.<br>
 <br>
 Hij houdt hierbij rekening met de maatschappelijke relevantie en de belangrijkheid van deze organisaties en geledingen evenals met de verscheidenheid ervan.<br>
 &nbsp;
@@ -75,12 +75,12 @@ De minister wijst onder de leden van de raadgevende comités een voorzitter en h
 
 ### ART. 6.
 
-De voordragende organisaties en geledingen duiden een plaatsvervanger aan voor de vertegenwoordigers, vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3° en § 4, 1° tot en met 4°.<br>
+De voordragende organisaties en geledingen duiden een plaatsvervanger aan voor de vertegenwoordigers, vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3° , § 4, 1° tot en met 4°, en § 5, 1° tot en met 3°.<br>
 &nbsp;
 
 ### ART. 7.
 
-De vertegenwoordigers, vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3°, en § 4, 1° tot en met 4°, worden voorgedragen op lijsten, waarbij voor elke vertegenwoordiger één mannelijke en één vrouwelijke kandidaat worden voorgedragen.<br>
+De vertegenwoordigers, vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3°, § 4, 1° tot en met 4°, en § 5, 1° tot en met 3°, worden voorgedragen op lijsten, waarbij voor elke vertegenwoordiger één mannelijke en één vrouwelijke kandidaat worden voorgedragen.<br>
 <br>
 Telkens als in een raadgevend comité één of meerdere mandaten ten gevolge van een voordrachtprocedure vacant zijn, moeten per mandaat, één man en één vrouw worden voorgedragen.<br>
 &nbsp;
