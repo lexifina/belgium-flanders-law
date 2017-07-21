@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028405,
+  "title": "Besluit van de Vlaamse Regering van 2017-06-09 houdende vaststelling van een gewestelijke stedenbouwkundige verordening inzake breedband",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028405/VolledigDocument?datum=2017-07-21",
+  "source_sha256": "4bcddd63902a91c5fbccf06aabf2a54874753a0047c440b6a66953ee102a9941",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028405&param=informatie",
+  "as_of": "2017-07-21",
+  "made": "2017-06-09",
+  "gazette": "2017-07-11",
+  "numac": 2017040342,
+  "document_start": "2017-07-21",
+  "document_end": null,
+  "in_force": "2017-07-21",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2017-07-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
