@@ -2,16 +2,16 @@
   "codex_id": 1024668,
   "title": "Besluit van de Vlaamse Regering van 2014-06-20 tot regeling van het Vlaams Natura 2000-programma, de managementplannen Natura 2000, de zoekzones en de actiegebieden voor de specifieke instandhoudingsdoelstellingen voor Europees te beschermen soorten en habitats (citeeropschrift: \"het Instandhoudingsbesluit\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024668/VolledigDocument?datum=2014-10-25",
-  "source_sha256": "21b739f7ee881d26ac5f6593698172fc8666db89839f001d3b8333ae42b7b428",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024668/VolledigDocument?datum=2017-07-23",
+  "source_sha256": "2d02b46df234b3889aff8295d17b0c7cdaa6ba27de977f9469e8e1260f7cb05a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024668&param=informatie",
-  "as_of": "2014-10-25",
+  "as_of": "2017-07-23",
   "made": "2014-06-20",
   "gazette": "2014-10-15",
   "numac": 2014035998,
   "document_start": "2014-10-25",
   "document_end": null,
-  "in_force": "2014-10-25",
+  "in_force": "2017-07-23",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2014-10-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-07-23; future article versions excluded; article text as the API gives it"
 }
