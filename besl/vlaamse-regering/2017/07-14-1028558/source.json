@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028558,
+  "title": "Besluit van de Vlaamse Regering van 2017-07-14 houdende de herverdeling van begrotingsartikel MB0-1MFX2AG-PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2017",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028558/VolledigDocument?datum=2017-07-24",
+  "source_sha256": "bf9875477194ca852b6520ecc5cda66ede69761027af383b5b8c6264ffd13b5a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028558&param=informatie",
+  "as_of": "2017-07-24",
+  "made": "2017-07-14",
+  "gazette": "2017-08-17",
+  "numac": 2017030964,
+  "document_start": "2017-07-24",
+  "document_end": null,
+  "in_force": "2017-07-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-07-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
