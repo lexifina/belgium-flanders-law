@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028427,
+  "title": "Decreet van 2017-07-07 houdende aanpassing van de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2017",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028427/VolledigDocument?datum=2017-07-27",
+  "source_sha256": "fc1894d7de2d4d3de25629b475fec66c167e3212741c4b5ebdd19d693935782d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028427&param=informatie",
+  "as_of": "2017-07-27",
+  "made": "2017-07-07",
+  "gazette": "2017-07-17",
+  "numac": 2017030643,
+  "document_start": "2017-07-27",
+  "document_end": null,
+  "in_force": "2017-07-27",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2017-07-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
