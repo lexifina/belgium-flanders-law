@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028434,
+  "title": "Decreet van 2017-06-16 houdende instemming met het samenwerkingsakkoord van 9 mei 2017 tussen de Federale Overheid en het Vlaamse Gewest met betrekking tot de regularisatie van niet uitsplitsbare bedragen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028434/VolledigDocument?datum=2017-07-28",
+  "source_sha256": "e822ffc28916ae8b4dabfaae353bf625627eb3ab1ce0bd4cbbed3a5c7e312a53",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028434&param=informatie",
+  "as_of": "2017-07-28",
+  "made": "2017-06-16",
+  "gazette": "2017-07-18",
+  "numac": 2017030680,
+  "document_start": "2017-07-28",
+  "document_end": null,
+  "in_force": "2017-07-28",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-07-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
