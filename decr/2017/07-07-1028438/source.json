@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028438,
+  "title": "Decreet van 2017-07-07 houdende instemming met het Multilateraal Akkoord tussen bevoegde autoriteiten betreffende de automatische uitwisseling van inlichtingen inzake financiële rekeningen, ondertekend te Berlijn op 29 oktober 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028438/VolledigDocument?datum=2017-07-28",
+  "source_sha256": "fd08e20c31fd0e8def711b53aa859c0c26b947a0fa897c9a9400ee5bd16ea48f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028438&param=informatie",
+  "as_of": "2017-07-28",
+  "made": "2017-07-07",
+  "gazette": "2017-07-18",
+  "numac": 2017030641,
+  "document_start": "2017-07-28",
+  "document_end": null,
+  "in_force": "2017-07-28",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-07-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
