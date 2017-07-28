@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028435,
+  "title": "Decreet van 2017-07-07 houdende instemming met het protocol, ondertekend te Brussel op 11 november 2016, betreffende de toetreding van Ecuador tot de handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, ondertekend in Brussel op 26 juni 2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028435/VolledigDocument?datum=2017-07-28",
+  "source_sha256": "c5c8ed93d8945882968e19a48bb27dced02e3b0e961800bb87e132ac9e0e2d28",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028435&param=informatie",
+  "as_of": "2017-07-28",
+  "made": "2017-07-07",
+  "gazette": "2017-07-18",
+  "numac": 2017030626,
+  "document_start": "2017-07-28",
+  "document_end": null,
+  "in_force": "2017-07-28",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-07-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
