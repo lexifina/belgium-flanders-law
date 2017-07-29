@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028453,
+  "title": "Besluit van de Vlaamse Regering van 2017-04-21 tot erkenning van de beroepskwalificatie kinderbegeleider baby's en peuters",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028453/VolledigDocument?datum=2017-07-29",
+  "source_sha256": "ea4c62db1a361ec5a091e27c87f19bbba8247c100b3ced66c54c58dffc69664f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028453&param=informatie",
+  "as_of": "2017-07-29",
+  "made": "2017-04-21",
+  "gazette": "2017-07-19",
+  "numac": 2017012839,
+  "document_start": "2017-07-29",
+  "document_end": null,
+  "in_force": "2017-07-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
