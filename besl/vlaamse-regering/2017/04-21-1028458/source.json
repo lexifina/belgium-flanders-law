@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028458,
+  "title": "Besluit van de Vlaamse Regering van 2017-04-21 tot erkenning van de beroepskwalificatie monteerder-afregelaar",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028458/VolledigDocument?datum=2017-07-29",
+  "source_sha256": "c558b076843f553b811967a7f91a35d43d30374bb4d88022178aff424c5ed40a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028458&param=informatie",
+  "as_of": "2017-07-29",
+  "made": "2017-04-21",
+  "gazette": "2017-07-19",
+  "numac": 2017012856,
+  "document_start": "2017-07-29",
+  "document_end": null,
+  "in_force": "2017-07-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
