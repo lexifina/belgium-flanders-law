@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028465,
+  "title": "Besluit van de Vlaamse Regering van 2017-04-21 tot erkenning van de beroepskwalificatie samensteller",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028465/VolledigDocument?datum=2017-07-29",
+  "source_sha256": "f81ab4a3dbd735b07fd3c77195b9d360da0f9d0b146bce21df95e2a68344cc95",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028465&param=informatie",
+  "as_of": "2017-07-29",
+  "made": "2017-04-21",
+  "gazette": "2017-07-19",
+  "numac": 2017012898,
+  "document_start": "2017-07-29",
+  "document_end": null,
+  "in_force": "2017-07-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
