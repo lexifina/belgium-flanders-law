@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028481,
+  "title": "Decreet van 2017-07-07 houdende instemming met het Protocol tot wijziging van de Benelux-Overeenkomst op het gebied van de jacht en de vogelbescherming, gedaan te Brussel op 17 februari 2016",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028481/VolledigDocument?datum=2017-07-30",
+  "source_sha256": "1aa3850a2b69024a44bb06be60f7f10258d7b37117e363984c5b14e0a8bcaab7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028481&param=informatie",
+  "as_of": "2017-07-30",
+  "made": "2017-07-07",
+  "gazette": "2017-07-20",
+  "numac": 2017040435,
+  "document_start": "2017-07-30",
+  "document_end": null,
+  "in_force": "2017-07-30",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-07-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
