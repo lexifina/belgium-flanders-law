@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028482,
+  "title": "Decreet van 2017-07-07 houdende instemming met de overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Cuba, anderzijds, ondertekend te Brussel op 12 december 2016",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028482/VolledigDocument?datum=2017-07-30",
+  "source_sha256": "bb80012518e77bd85976bb56b4b962be6dc635252a8c2b03587ea78a01688aa3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028482&param=informatie",
+  "as_of": "2017-07-30",
+  "made": "2017-07-07",
+  "gazette": "2017-07-20",
+  "numac": 2017040436,
+  "document_start": "2017-07-30",
+  "document_end": null,
+  "in_force": "2017-07-30",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-07-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
