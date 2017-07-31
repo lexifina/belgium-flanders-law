@@ -38,4 +38,17 @@ In artikel 4, § 1/2, van het koninklijk besluit van 12 augustus 1985 tot uitvoe
 
 ## HOOFDSTUK 3 Wijziging van het koninklijk besluit van 26 maart 1965 betreffende de kinderbijslag voor bepaalde categorieën van het door de staat bezoldigd personeel alsmede voor de personeelsleden van het operationeel kader en van het administratief en logistiek kader van de korpsen van de lokale politie
 
+### ART 3.
+
+Artikel 5 van het koninklijk besluit van 26 maart 1965 betreffende de kinderbijslag voor bepaalde categorieën van het door de staat bezoldigd personeel alsmede voor de personeelsleden van het operationeel kader en van het administratief en logistiek kader van de korpsen van de lokale politie, vervangen bij het koninklijk besluit van 31 januari 2010, wordt vervangen als volgt:<br>
+"Art. 5. De kinderbijslagen bedoeld bij artikel 1 worden betaald aan de bijslagtrekkende als volgt:<br>
+- voor de maand augustus 2017 op 1 september 2017;<br>
+- voor de maand september 2017 op 3 oktober 2017;<br>
+- voor de maand oktober 2017 op 6 november 2017;<br>
+- voor de maand november 2017 op 6 december 2017;<br>
+- voor de maand december 2017 op 8 januari 2018.<br>
+<br>
+Voor de maanden na december 2017 worden de kinderbijslagen bedoeld bij artikel 1, overeenkomstig artikel 71, § 1, van de algemene kinderbijslagwet betaald."<br>
+&nbsp;
+
 ## HOOFDSTUK 4 Inwerkingtreding van het samenwerkingsakkoord
