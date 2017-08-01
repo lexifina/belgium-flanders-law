@@ -2,16 +2,16 @@
   "codex_id": 1019579,
   "title": "Ministerieel besluit van 2010-09-17 betreffende de verstrekking van melk en bepaalde zuivelproducten aan leerlingen in onderwijsinstellingen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019579/VolledigDocument?datum=2012-08-01",
-  "source_sha256": "8d647926cb60ea140bdf27e0fe17d5886c1d941907645f95dc536cfd2432ea2d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019579/VolledigDocument?datum=2017-08-01",
+  "source_sha256": "e468a0d74f67d1fb11948d18b691ccf9e3962c8039e7ba5da8a99346077fd68c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019579&param=informatie",
-  "as_of": "2012-08-01",
+  "as_of": "2017-08-01",
   "made": "2010-09-17",
   "gazette": "2010-10-19",
   "numac": 2010205221,
   "document_start": "2010-08-01",
   "document_end": "2017-07-31",
-  "in_force": "2012-08-01",
+  "in_force": "2017-08-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2012-08-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-08-01; future article versions excluded; article text as the API gives it"
 }
