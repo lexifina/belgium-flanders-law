@@ -31,36 +31,36 @@ Besluit :
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder : <br />1° het besluit van 29 mei 2009 : het besluit van de Vlaamse Regering van 29 mei 2009 betreffende de ondersteuning van de verstrekking van groenten en fruit aan leerlingen in onderwijsinstellingen;<br />2° het e-loket : het elektronisch loket dat de bevoegde entiteit ontwikkelt en beheert;<br />3° de verordening (EG) nr. 288/2009 : de verordening (EG) nr. 288/2009 van de Commissie van 7 april 2009 houdende bepalingen voor de uitvoering van verordening (EG) nr. 1234/2007 van de Raad ten aanzien van de toekenning in het kader van een schoolfruitregeling, van communautaire steun voor de verstrekking van groente- en fruitproducten, verwerkte groente- en fruitproducten en banaanproducten aan kinderen in onderwijsinstellingen.
+...
 
 ### ART. 2.
 
-De onderwijsinstelling die voor het eerst de erkenningsaanvraag, vermeld in artikel 3, eerste lid, van het besluit van 29 mei 2009, indient, maakt voor die aanvraag gebruik van het formulier dat de bevoegde entiteit ter beschikking stelt. De onderwijsinstelling stuurt de erkenningsaanvraag met een aangetekende brief naar de bevoegde entiteit. De datum van de poststempel geldt als datum van de erkenningsaanvraag.<br /><br />De aanvraag tot vernieuwing van de erkenning wordt elektronisch ingediend via het e-loket.<br /><br />De bijkomende erkenningsaanvraag, vermeld in artikel 3, tweede lid, van het besluit van 29 mei 2009, wordt elektronisch ingediend via het e-loket.
+...
 
 ### ART. 3.
 
-§ 1. De steunaanvraag, vermeld in artikel 7 van het besluit van 29 mei 2009, wordt elektronisch via het e-loket ingediend bij de bevoegde entiteit. De datum waarop de correct ingevulde elektronische aanvraag bij het e-loket als ingediend wordt geregistreerd, geldt als aanvraagdatum.<br /><br />De steunaanvraag, vermeld in het eerste lid, wordt aan de bevoegde entiteit bezorgd op zijn vroegst op de eerste dag die volgt op de periode in kwestie en uiterlijk op de laatste dag van de derde maand die volgt op de periode in kwestie, overeenkomstig artikel 10, derde lid, van Verordening (EG) nr. 288/2009.<br /><br />In afwijking van het tweede lid mogen steunaanvragen die trimestrieel worden ingediend, bij de bevoegde entiteit ingediend worden vanaf :<br />1° de eerste dag van de kerstvakantie voor steunaanvragen met betrekking tot het eerste trimester;<br />2° de eerste dag van de paasvakantie voor steunaanvragen met betrekking tot het tweede trimester;<br />3° 30 juni of vanaf 15 juni als het project vroeger beëindigd werd, voor steunaanvragen die betrekking hebben op het derde trimester.<br /><br />§ 2. Voor steunaanvragen die na de uiterste indieningsdatum worden ingediend, wordt de steun verminderd overeenkomstig artikel 11, derde lid, van de verordening. Bij een termijnoverschrijding van meer dan twee maanden en negentig dagen, wordt de steunaanvraag ongeldig verklaard.
+...
 
 ### ART. 3/1.
 
-Om geldig te zijn moet een steunaanvraag de volgende gegevens bevatten   :<BR>1° het aantal leerlingen die in de periode in kwestie hebben deelgenomen   aan de schoolfruitactie. Dat aantal kan hoogstens gelijk zijn aan het aantal   deelnemers dat werd opgegeven bij de erkenningsaanvraag, vermeld in artikel 3,   eerste lid, van het besluit van 29 mei 2009;<BR>2° het aantal weken waarin er   gedurende de periode fruit en groenten werden geleverd in het kader van de   schoolfruitactie;<BR>3° een verklaring dat de leerlingen tijdens de duurtijd van   het project wekelijks minstens een portie fruit of groenten ontvangen;<BR>4° de   correcte factuurgegevens van de aangekochte groenten en fruit. Die gegevens   omvatten minstens het factuurnummer, de datum van de factuur en het   gefactureerde bedrag.
+...
 
 ### ART. 3/2.
 
-Het bedrag van de onterecht ontvangen steun, vermeld in artikel 10, § 1, van het besluit van 29 mei 2009, wordt vastgelegd op 20 % van de voor het schooljaar in kwestie berekende steunbedrag, voor elk van volgende onregelmatigheden :<br />1° de onderwijsinstelling organiseert geen afzonderlijk fruitmoment;<br />2° de onderwijsinstelling verstrekt minder dan één portie fruit per leerling per week.
+...
 
 ### ART. 3/3.
 
-§ 1. Als voor het aantal leerlingen aangegeven via   de&nbsp;erkenningsaanvraag, vermeld in artikel 3, eerste lid, van het besluit   van 29 mei 2009, het totale bedrag dat per leerling in het schooljaar in kwestie   werd besteed aan de aankoop van groenten en fruit in het kader van de   schoolfruitregeling, meer dan 15 % lager is dan het bedrag van zes euro, vermeld   in artikel 5, § 1, van het besluit van 29 mei 2009, wordt die onregelmatigheid   als ernstige nalatigheid beschouwd en wordt de sanctie, vermeld in artikel 10, §   2, van het besluit van 29 mei 2009, toegepast.<BR><BR>Als voor het aantal   leerlingen aangegeven via de&nbsp;erkenningsaanvraag, vermeld in artikel 3,   eerste lid, van het besluit van 29 mei 2009, het aantal fruitweken dat door de   onderwijsinstelling tijdens een schooljaar werd georganiseerd, meer dan 15 %   lager is dan het aantal fruitweken, vermeld in artikel 4, § 1, 1°, a), van het   besluit van 29 mei 2009, wordt die onregelmatigheid als ernstige nalatigheid   beschouwd en wordt de sanctie, vermeld in artikel 10, § 2, van het besluit van   29 mei 2009, toegepast.<BR><BR>§ 2. Als de onregelmatigheid, vermeld in   paragraaf 1, eerste en tweede lid, het gevolg is van opzet van de   onderwijsinstelling, wordt de erkenning, vermeld in artikel 3, eerste lid, van   het besluit van 29 mei 2009, overeenkomstig artikel 9 van het besluit van 29 mei   2009, ingetrokken. Als gevolg van de intrekking worden de steunaanvragen die   betrekking hebben op het schooljaar in kwestie, geweigerd en wordt de steun die   voor dat schooljaar werd uitbetaald, teruggevorderd overeenkomstig artikel 10, §   1, van het besluit van 29 mei 2009.
+...
 
 ### ART. 3/4.
 
-In afwijking van artikel 3/1, 1°, kan bij steunaanvragen van onderwijsinstellingen die een bijkomende erkenningsaanvraag ingediend hebben overeenkomstig artikel 3, tweede lid, van het besluit van 29 mei 2009, het aantal leerlingen die hebben deelgenomen aan de schoolfruitactie tijdens de periode in kwestie, hoogstens gelijk zijn aan het aantal deelnemers dat werd opgegeven bij de erkenningsaanvraag, vermeld in artikel 3, eerste lid, van het besluit van 29 mei 2009, vermeerderd met het aantal leerlingen die met de bijkomende erkenningsaanvraag ingeschreven zijn voor de steunaanvragen van het tweede en derde trimester.
+...
 
 ### ART. 3/5.
 
-§ 1. Als een steunaanvraag volgt uit een bijkomende erkenningsaanvraag als   vermeld in artikel 3, tweede lid, van het besluit van 29 mei 2009, en als het   totale bedrag, dat per leerling die aangegeven is in de bijkomende   erkenningsaanvraag, in de periode in kwestie werd besteed aan de aankoop van   groenten en fruit in het kader van de schoolfruitregeling, meer dan 15 % lager   is dan het bedrag van drie euro, vermeld in artikel 5, § 2, van het besluit van   29 mei 2009, wordt die onregelmatigheid als ernstige nalatigheid beschouwd en   wordt de sanctie, vermeld in artikel 10, § 2, van het besluit van 29 mei 2009,   toegepast.<BR><BR>Als een steunaanvraag volgt uit een bijkomende   erkenningsaanvraag als vermeld in artikel 3, tweede lid, van het besluit van 29   mei 2009, en als in de periode in kwestie het aantal fruitweken dat door de   onderwijsinstelling werd georganiseerd voor de leerlingen, opgenomen in de   bijkomende erkenningsaanvraag, meer dan 15 % lager is dan het aantal fruitweken,   vermeld in artikel 4, § 1, 1°, k), van het besluit van 29 mei 2009, wordt die   onregelmatigheid als ernstige nalatigheid beschouwd en wordt de sanctie, vermeld   in artikel 10, § 2, van het besluit van 29 mei 2009, toegepast.<BR><BR>§ 2. De   sanctie, vermeld in artikel 3/3, § 2, is van overeenkomstige toepassing op   steunaanvragen die betrekking hebben op leerlingen die zijn aangegeven via een   bijkomende erkenningsaanvraag als vermeld in artikel 3, tweede lid, van het   besluit van 29 mei 2009.
+...
 
 ### ART. 4.
 
-Dit besluit heeft uitwerking vanaf 1 juli 2009.
+...
