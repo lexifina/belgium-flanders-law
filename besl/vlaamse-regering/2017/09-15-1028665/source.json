@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028665,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-15 tot wijziging van bijlage XVII bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028665/VolledigDocument?datum=2017-08-01",
+  "source_sha256": "69ebb4d524890a874be4d492b841413be37d753891f4a1bab5865ecb3f00ca99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028665&param=informatie",
+  "as_of": "2017-08-01",
+  "made": "2017-09-15",
+  "gazette": "2017-10-12",
+  "numac": 2017013507,
+  "document_start": "2017-08-01",
+  "document_end": null,
+  "in_force": "2017-08-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2017-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
