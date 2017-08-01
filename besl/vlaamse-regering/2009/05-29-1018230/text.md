@@ -31,64 +31,64 @@ Besluit :<br>
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder : <BR>1° bevoegde   entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van   Landbouw en Visserij;<BR>2° groenten en fruit: de producten van de sector verse   groenten en fruit en de sector bananen, vermeld in verordening (EU) nr.   1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot   vaststelling van een gemeenschappelijke ordening van de markten voor   landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG)   nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad;<BR>3° de   ministers : de Vlaamse minister, bevoegd voor het afzet- en uitvoerbeleid van   landbouw-, tuinbouw- en visserijproducten, en de Vlaamse minister, bevoegd voor   het gezondheidsbeleid;<BR>4° onderwijsinstelling: een door de Vlaamse   Gemeenschap erkende, gefinancierde of gesubsidieerde instelling voor   basisonderwijs of buitengewoon secundair onderwijs;<BR>5° de regionale strategie   : de strategie opgesteld door het Vlaamse Gewest, vermeld in artikel 3 van de   verordening; <BR>6° de verordening : verordening (EG) nr. 288/2009 van de   Commissie. <BR><BR>
+...
 
 ### ART. 1/1.
 
-&nbsp;Het hoofd van de bevoegde entiteit kan de aangelegenheden die   conform dit besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van   de bevoegde entiteit vallen, subdelegeren aan personeelsleden van de bevoegde   entiteit die onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ### ART. 2.
 
-Afhankelijk van de kredieten op de begroting van de Vlaamse Gemeenschap   die daartoe goedgekeurd zijn, kunnen de ministers een subsidie toekennen aan de   onderwijsinstellingen&nbsp;die voldoen aan de voorwaarden, vermeld in artikel 3,   4 en 5 van dit besluit en in artikel 7 van de verordening.<BR><BR>
+...
 
 ### ART. 3.
 
-Om voor de subsidiëring in aanmerking te komen, moeten de onderwijsinstellingen, vermeld in artikel 2, door de bevoegde entiteit zijn erkend. De erkenningsaanvraag moet jaarlijks ingediend worden, uiterlijk op 15 oktober.<br /><br />Onderwijsinstellingen die al erkend zijn bij het begin van het schooljaar, kunnen vanaf het schooljaar 2010-2011 een keer per schooljaar elektronisch een bijkomende erkenningsaanvraag indienen voor bijkomende leerlingen. De periode waarin die aanvraag ingediend moet worden, loopt vanaf de eerste schooldag na de kerstvakantie tot en met 31 januari van het schooljaar in kwestie.<br /><br />De ministers bepalen de wijze waarop de erkenningsaanvraag moet worden ingediend.
+...
 
 ### ART. 4.
 
-§ 1. Om erkend te worden,moeten de onderwijsinstellingen : <BR>1° zich er   schriftelijk toe verbinden : <BR>a) de gesubsidieerde groenten en fruit aan de   leerlingen te verstrekken, in minimaal één portie per week gedurende minstens   dertig weken per schooljaar, niet als onderdeel van de schoolmaaltijden;<BR>b)   de ouders op de hoogte te brengen van de verstrekking van gesubsidieerde   groenten en fruit;<BR>c) alleen subsidies te vragen voor (verse) producten die   gesubsidieerd kunnen worden overeenkomstig artikel 3 van de verordening;<BR>d)   de gesubsidieerde groenten en het gesubsidieerde fruit alleen te gebruiken voor   leerlingen;<BR>e) ...<BR>f) zich te onderwerpen aan de controles van de   ambtenaren die belast zijn met de uitvoering van verordening (EG) nr. 485/2008   van de Raad van 26 mei 2008 inzake de door de lidstaten uit te voeren controles   op de verrichtingen in het kader van de financieringsregeling van het Europees   Landbouwgarantiefonds;<BR>g) de ten onrechte betaalde steun terug te betalen   voor de betreffende hoeveelheden als overeenkomstig artikel 13 van de   verordening geconstateerd wordt dat de artikelen 4, 5 en 6 van dit besluit niet   worden nageleefd,of dat de steun werd ontvangen voor grotere hoeveelheden dan de   hoeveelheden die voortvloeien uit de toepassing van artikel 13, van de   verordening;<BR>h) om in een bijdrage van de onderwijsinstelling van minstens 2   euro per leerling te voorzien;<BR>i) ...<BR>j) de verbintenissen vermeld in   artikel 7 van de verordening na te leven.<BR>k) de gesubsidieerde groenten en   fruit te verstrekken, in minstens één portie per week gedurende minstens   vijftien weken per schooljaar, niet als onderdeel van de schoolmaaltijden, voor   kinderen die aangegeven zijn overeenkomstig artikel 3, tweede lid;<BR>l) in een   bijdrage van de onderwijsinstelling van minstens 1 euro te voorzien voor   kinderen die aangegeven zijn overeenkomstig artikel 3, tweede lid. <BR>2°   aangeven hoeveel leerlingen erbij betrokken zijn.<BR><BR>§ 2. De   onderwijsinstellingen verbinden zich tot de verbintenissen, vermeld in § 1, door   het indienen van de erkenningsaanvraag.<BR><BR>
+...
 
 ### ART. 5.
 
-§ 1. In het kader van de schoolfruitregeling kunnen de erkende   onderwijsinstellingen per&nbsp;leerling per schooljaar maximaal 4 euro steun   krijgen. Dat maximumbedrag wordt toegekend als de onderwijsinstelling   per&nbsp;leerling per schooljaar kosten heeft van minstens 6 euro, en als de   onderwijsinstelling aan de volgende voorwaarden voldoet :<BR>1° ze leeft de   verbintenis, vermeld in artikel 4, 1°, na;<BR>2° ze levert een bijdrage van   minstens 2 euro per leerling per schooljaar, waarbij de onderwijsinstelling zelf   kan beslissen hoe die bijdrage gefinancierd wordt;<BR>3° ze verstrekt geen   producten die zijn opgenomen in bijlage 1 van de verordening;<BR>4° ze vraagt   alleen steun voor kosten zoals vermeld in artikel 5, eerste lid, a, van de   verordening, die gemaakt zijn op schooldagen;<BR>5° ze houdt een overzicht bij   waarin de volgende gegevens worden vermeld :<BR>a) de leverancier van de   groenten en het fruit;<BR>b) de soorten aangekochte groenten en fruit;<BR>c) het   factuurnummer van de aangekochte groenten en het aangekochte fruit;<BR>d) de   aankoopprijs van de groenten en het fruit;<BR>e) de aangekochte hoeveelheid   groenten en fruit.<BR><BR>§ 2. In afwijking van paragraaf 1 kunnen de erkende   onderwijsinstellingen per leerling die is opgenomen in de bijkomende   erkenningsaanvraag, vermeld in artikel 3, tweede lid, maximaal 2 euro steun   krijgen. Dat maximumbedrag wordt toegekend als de onderwijsinstelling   per&nbsp;leerling per schooljaar kosten heeft van minstens 3 euro, en als de   onderwijsinstelling aan de volgende voorwaarden voldoet :<BR>1° ze leeft de   verbintenis, vermeld in artikel 4, 1°, na;<BR>2° ze levert een bijdrage van   minstens 1 euro per leerling per schooljaar, waarbij ze zelf kan beslissen hoe   die bijdrage gefinancierd wordt;<BR>3° ze verstrekt geen producten die zijn   opgenomen in bijlage 1 van de verordening;<BR>4° ze vraagt alleen steun voor   kosten als vermeld in artikel 5, eerste lid, a, van de verordening, die gemaakt   zijn op schooldagen;<BR>5° ze houdt een overzicht bij waarin de volgende   gegevens worden vermeld :<BR>a) de leverancier van de groenten en het   fruit;<BR>b) de soorten aangekochte groenten en fruit;<BR>c) het factuurnummer   van de aangekochte groenten en het aangekochte fruit;<BR>d) de aankoopprijs van   de groenten en het fruit;<BR>e) de aangekochte hoeveelheid groenten en   fruit.<BR><BR>§ 3. De ministers kunnen de voorwaarden, vermeld in paragraaf 1 en   2, verder uitwerken.
+...
 
 ### ART. 6.
 
-Er worden geen voorschotten uitbetaald. <br /><br />
+...
 
 ### ART. 7.
 
-Onderwijsinstellingen moeten de steunaanvragen trimestrieel indienen. <br /><br />Leerlingen die zijn opgenomen in de bijkomende erkenningsaanvraag, vermeld in artikel 3, tweede lid, mogen vanaf het tweede trimester opgenomen worden in de steunaanvraag.<br /><br />De inhoud van de steunaanvragen en de wijze waarop ze ingediend moeten worden, worden door de ministers bepaald.<br /><br />
+...
 
 ### ART. 8.
 
-De onderwijsinstelling moet gedurende ten minste drie jaar alle bewijsstukken, zoals leveringsbonnen, facturen en steunaanvragen bewaren en ze ter beschikking houden van de ambtenaren die met de controle belast zijn.<br /><br />
+...
 
 ### ART. 9.
 
-Als aan een van de verplichtingen, vermeld in de artikelen 3 tot 8 van dit besluit, en de verordening, niet voldaan is, zal de bevoegde entiteit de erkenning, overeenkomstig artikel 9 van de verordening schorsen of intrekken.<br /><br />
+...
 
 ### ART. 10.
 
-§ 1. Onterecht uitbetaalde steun wordt overeenkomstig artikel 13, lid 9 van de verordening teruggevorderd.<br /><br />§ 2. Met behoud van de toepassing van paragraaf 1 wordt de sanctie, vermeld in artikel 13, tiende lid, van de verordening toegepast als bepaalde delen van de verbintenis niet worden nageleefd en deze onregelmatigheid als een ernstige nalatigheid beschouwd wordt.<br /><br />De ministers bepalen de criteria voor het vaststellen van de ernst van de onregelmatigheid.
+...
 
 ### ART. 11.
 
-Een bezwaarschrift tegen de genomen beslissing tot schorsing, vermeld in artikel 9, of tot terugbetaling van de onterecht ontvangen steun, vermeld in artikel 10, kan ingediend worden bij de bevoegde entiteit, binnen een maand na de mededeling van de beslissing.
+...
 
 ### ART. 12.
 
-<P>...</P>
+...
 
 ### ART. 13.
 
-De ministers kunnen aanvullende maatregelen nemen die noodzakelijk zijn voor de toepassing van dit besluit.<br /><br />
+...
 
 ### ART. 14.
 
-Dit besluit treedt in werking op 1 juli 2009.<br /><br />
+...
 
 ### ART. 15.
 
-De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, en de Vlaamse minister bevoegd voor het gezondheidsbeleid zijn belast met de uitvoering van dit besluit.<br /><br />
+...
