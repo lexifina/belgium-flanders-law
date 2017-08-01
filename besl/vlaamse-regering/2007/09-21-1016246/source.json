@@ -2,16 +2,16 @@
   "codex_id": 1016246,
   "title": "Besluit van de Vlaamse Regering van 2007-09-21 betreffende de verstrekking van melk en bepaalde zuivelproducten aan leerlingen in onderwijsinstellingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016246/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "32105645a0c9758dae71e7db6851a1b71373cf46c69249b94f2d136c8426eebd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016246/VolledigDocument?datum=2017-08-01",
+  "source_sha256": "d8bb77c28cb88b83a6a2d9f3c639af73bd751f228593ce371c66eb499b603853",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016246&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2017-08-01",
   "made": "2007-09-21",
   "gazette": "2007-10-15",
   "numac": 2007036741,
   "document_start": "2007-09-01",
   "document_end": "2017-07-31",
-  "in_force": "2015-01-01",
+  "in_force": "2017-08-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-08-01; future article versions excluded; article text as the API gives it"
 }
