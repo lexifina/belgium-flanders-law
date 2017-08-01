@@ -12,7 +12,9 @@ In dit besluit wordt verstaan onder :<br />1° decreet kwaliteit : het decreet v
 
 ### ART. 2.
 
-Binnen de kredieten die daarvoor jaarlijks worden uitgetrokken op de begroting, kunnen onder de voorwaarden, vermeld in dit besluit, nascholingsprojecten op initiatief van de Vlaamse Regering worden toegewezen.<br /><br />
+Binnen de kredieten die daarvoor jaarlijks worden uitgetrokken op de begroting, kunnen onder de voorwaarden, vermeld in dit besluit, de volgende projecten worden toegewezen :<br>
+1° nascholingsprojecten op initiatief van de Vlaamse Regering;<br>
+2° projecten over innovatieve nascholingsvoorstellen, die inspelen op recent wetenschappelijk onderzoek.
 
 ## HOOFDSTUK 2 Bepaling van de beleidsprioriteiten m.b.t. nascholingsinitiatieven
 
@@ -28,11 +30,25 @@ De uitvoering van de projecten m.b.t. nascholingsinitiatieven kan maximaal   lop
 
 ### ART. 5.
 
-De oproep bevat :<br />1° de inhoudelijke en vormelijke vereisten waaraan de nascholingsvoorstellen moeten voldoen;<br />2° het maximumbedrag van de subsidieaanvraag per project;<br />3° de algemene beoordelingscriteria, zoals vermeld in artikel 6;<br />4° eventueel bijkomende beoordelingscriteria.<br /><br />
+De oproep bevat :<br>
+1° de inhoudelijke en vormelijke vereisten waaraan de nascholingsvoorstellen moeten voldoen;<br>
+2° het maximumbedrag van de subsidieaanvraag per project en het maximumpercentage van het bedrag van de nascholingsvoorstellen dat besteed kan worden aan valorisatie;<br>
+3° de algemene beoordelingscriteria, zoals vermeld in artikel 6;<br>
+4° eventueel bijkomende beoordelingscriteria.<br>
+&nbsp;
 
 ### ART. 6.
 
-De nascholingsvoorstellen worden op elektronische wijze ingediend vóór 15 september van jaar X in de vorm van een projectfiche waarvan het model samen met de oproep ter beschikking wordt gesteld.<br /><br />De administratie verbindt zich ertoe om de indiener binnen twee werkdagen na de ontvangst van de projectfiche een ontvangstbewijs te bezorgen.<br /><br />De ingediende voorstellen worden beoordeeld op basis van de volgende criteria :<br />1° de relevantie ten aanzien van de vastgestelde beleidsprioriteiten;<br />2° de kwaliteit van het ingediende project, vooral wat betreft de gebruikte methode, het gebruikte materiaal en de gebruikte evaluatie;<br />3° de kostenefficiëntie van het project, namelijk de kostprijs per sessie;<br />4° eventueel bijkomende beoordelingscriteria.<br /><br />
+De nascholingsvoorstellen worden op elektronische wijze ingediend vóór 15 september van jaar X in de vorm van een projectfiche waarvan het model samen met de oproep ter beschikking wordt gesteld.<br>
+<br>
+De administratie verbindt zich ertoe om de indiener binnen twee werkdagen na de ontvangst van de projectfiche een ontvangstbewijs te bezorgen.<br>
+<br>
+De ingediende voorstellen worden beoordeeld op basis van de volgende criteria :<br>
+1° de relevantie ten aanzien van de vastgestelde beleidsprioriteiten;<br>
+2° de kwaliteit van het ingediende project, vooral wat betreft de gebruikte methode, het gebruikte materiaal en de gebruikte evaluatie;<br>
+3° de kostenefficiëntie van het project, namelijk de kostprijs per sessie en de kosten die worden gemaakt in het kader van de valorisatie;<br>
+4° eventueel bijkomende beoordelingscriteria.<br>
+&nbsp;
 
 ### ART. 7.
 
@@ -46,6 +62,10 @@ Op basis van de gemotiveerde rangschikking van de commissie beslist de   ministe
 
 De nascholingsorganisaties die projectvoorstellen hebben ingediend, worden   vóór 31 januari van jaar X + 1 op een gemotiveerde wijze op de hoogte gebracht   van de beslissing.<BR><BR>In het geval van een verlengingsdossier worden de   nascholingsorganisaties voor 1 juni van jaar X+2 op de hoogte gebracht van de   beslissing.<BR><BR>
 
+### ART 9/1.
+
+De projecten worden kwalitatief opgevolgd en zo nodig bijgestuurd door een stuurgroep die de secretaris-generaal van het Departement Onderwijs en Vorming van het Vlaams Ministerie van Onderwijs en Vorming samenstelt. In die stuurgroep zitten naast ambtenaren van het Vlaams Ministerie van Onderwijs en Vorming experts uit de gekozen beleidsprioriteit.
+
 ## HOOFDSTUK 4 Financiering
 
 ### ART. 10.
@@ -54,7 +74,36 @@ Van het totale budget voor de nascholing op initiatief van de Vlaamse Regering i
 
 ### ART. 11.
 
-§ 1. Bij de goedkeuring van de projecten wordt per project op basis van de   aanvraag en de bijbehorende ingediende budgettering een standaardprijs per   sessie vastgesteld. In het ministerieel besluit worden die standaardprijs en het   aantal geplande sessies vastgelegd. Als er in de aangevraagde budgettering   sprake is van btw, worden die bedragen eveneens berekend in de   standaardprijs.<BR><BR>§ 2. Het bedrag dat ieder schooljaar voor de   nascholingsinitiatieven wordt uitgetrokken, wordt in drie keer uitbetaald. Een   eerste schijf van 50 % wordt uitbetaald tegen eind september van het jaar X + 1.   De tweede schijf van 40 % wordt betaald tegen eind januari van het jaar X + 2 en   de derde schijf van 10 % na goedkeuring van het jaarlijks verslag.<BR><BR>§ 3.   Ten laatste op 30 september van elk jaar van de looptijd van het project dient   de nascholingsorganisatie een jaarlijks verslag in bij de bevoegde dienst van   het Departement Onderwijs en Vorming.<BR><BR>In het jaarlijks verslag   verantwoordt de nascholingsorganisatie in welke mate de uitvoering van het   project overeenstemt met de aanvraag.<BR><BR>Daarnaast bevat het jaarlijks   verslag een projectoverzicht dat bestaat uit de volgende bijlagen :<BR>1° een   gerangschikte deelnemerslijst : voornaam, familienaam, school;<BR>2° een   overzichtslijst van alle sessies die hebben plaatsgevonden met het aantal   effectieve deelnemers per sessie;<BR>3° een genummerde lijst van de   bewijsstukken, met telkens de vermelding van het bedrag;<BR>4° een verklaring op   erewoord dat de originele, genummerde en gedateerde bewijsstukken die betrekking   hebben op de subsidieperiode en op het project, ter beschikking worden   gehouden.<BR><BR>De volgende documenten moeten ter inzage liggen en kunnen ter   plaatse gecontroleerd worden door de administratie :<BR>1° de getekende   deelnemerslijsten per sessie;<BR>2° de evaluatie : het modelformulier en de   resultaten ervan;<BR>3° de bewijsstukken.<BR><BR>§ 4. Het project wordt   beoordeeld op basis van het&nbsp;jaarlijks verslag&nbsp;en op basis van het   projectoverzicht dat aantoont hoeveel sessies hebben plaatsgevonden.<BR><BR>Het   bedrag van de uit te betalen subsidie wordt bepaald door de reëel gemaakte   kosten verminderd met de eventuele ontvangsten maar begrensd door het reële   aantal georganiseerde sessies x standaardsubsidie per sessie.<BR><BR>Als het   toegekende bedrag bij de eindafrekening kleiner is dan het reeds uitbetaalde   bedrag van de eerste schijf, wordt het verschil teruggevorderd.<BR><BR>Het   maximaal toegekende bedrag bij de eindafrekening kan niet hoger zijn dan het   bedrag voor het volledige project dat is vastgelegd in de overeenkomst, vermeld   in artikel 10.<BR><BR>§ 5. Organisaties die middelen niet besteden   overeenkomstig de bestemming ervan, die ze niet tijdig aanwenden of die de   contractuele voorwaarden niet naleven, komen tijdens de volgende drie   schooljaren niet meer in aanmerking voor de financiering van   nascholingsprojecten in het kader van de nascholing op initiatief van de Vlaamse   Regering.<BR><BR>
+§ 1. Bij de goedkeuring van de nascholingsprojecten worden per project op basis van de aanvraag en de bijbehorende ingediende budgettering de volgende bedragen vastgelegd :<br>
+1° het maximumbedrag dat besteed kan worden aan valorisatie, namelijk maximaal 10% van het aangevraagde budget;<br>
+2° de standaardprijs per sessie.<br>
+<br>
+De bedragen, vermeld in het eerste lid, 1° en 2°, en het aantal geplande sessies worden in een ministerieel besluit vastgelegd. Als er in de aangevraagde budgettering sprake is van btw, worden ook die bedragen verrekend in de bedragen, vermeld in het eerste lid, 1° en 2°.<br>
+<br>
+§ 2. Het bedrag dat ieder schooljaar voor nascholingsprojecten wordt uitgetrokken, wordt in drie keer uitbetaald. Een eerste schijf van 50% wordt uitbetaald tegen eind september van het jaar X + 1. De tweede schijf van 40% wordt betaald tegen eind januari van het jaar X + 2 en de derde schijf van 10% na de goedkeuring van het jaarlijks verslag.<br>
+<br>
+§ 3. Uiterlijk op 30 september van elk jaar van de looptijd van het project dient de nascholingsorganisatie een jaarlijks verslag in over het toegekende nascholingsproject bij het Vlaams Ministerie van Onderwijs en Vorming.<br>
+<br>
+De sjabloon voor het jaarlijks verslag, vermeld in het eerste lid, wordt aan de nascholingsorganisatie bezorgd.<br>
+<br>
+Het jaarlijks verslag bevat ook een projectoverzicht, dat bestaat uit de volgende documenten :<br>
+1° een genummerde lijst van de bewijsstukken, met telkens de vermelding van het bedrag;<br>
+2° alle bewijsstukken, genummerd conform de lijst genoemd in 1° ;<br>
+3° eventueel bijkomende documenten, zoals opgenomen in de richtlijnen voor het kostendossier.<br>
+<br>
+De volgende documenten liggen ter inzage en kunnen ter plaatse gecontroleerd worden door de administratie :<br>
+1° de getekende deelnemerslijsten per sessie;<br>
+2° de evaluatie aan de hand van een instrument door de organisatie opgesteld en de resultaten ervan.<br>
+<br>
+§ 4. Het saldo voor elk nascholingsproject wordt uitbetaald na de goedkeuring van het inhoudelijk en financieel jaarlijks verslag en op basis van het projectoverzicht dat aantoont hoeveel sessies hebben plaatsgevonden.<br>
+<br>
+Het bedrag van de uit te betalen subsidie wordt bepaald door de reëel gemaakte kosten, verminderd met de eventuele ontvangsten, maar begrensd tot het reële aantal georganiseerde sessies, vermenigvuldigd met de standaardsubsidie per sessie, en het bedrag voor de valorisatie.<br>
+<br>
+Als het toegekende bedrag bij de eindafrekening kleiner is dan het bedrag dat al is uitbetaald, wordt het verschil teruggevorderd.<br>
+<br>
+Het maximaal toegekende bedrag bij de eindafrekening kan niet hoger zijn dan het bedrag dat voor het volledige project is vastgelegd in het ministerieel besluit.<br>
+<br>
+§ 5. Organisaties die de middelen niet besteden overeenkomstig de bestemming ervan, die ze niet tijdig aanwenden of die de contractuele voorwaarden niet naleven, komen tijdens de volgende drie schooljaren niet meer in aanmerking voor de financiering van nascholingsprojecten in het kader van de nascholing op initiatief van de Vlaamse Regering.
 
 ### ART. 12.
 
@@ -64,31 +113,33 @@ Controle ter plaatse door de daartoe gemachtigde ambtenaren van het Vlaams Minis
 
 ### ART. 13.
 
-In afwijking van artikel 4 wordt voor schooljaar 2012-2013 geen oproep met prioritaire nascholingsthema's gelanceerd.<br /><br />De thema's van schooljaar 2011-2012 blijven behouden voor schooljaar 2012-2013.<br /><br />
+In afwijking van artikel 3 wordt voor schooljaar 2017-2018 geen oproep met prioritaire nascholingsthema's gelanceerd.<br>
+<br>
+In afwijking van artikel 4 blijft het thema van de schooljaren 2015-2016 en 2016-2017 behouden voor het schooljaar 2017-2018.
 
 ### ART. 14.
 
-De nascholingsorganisaties die tijdens schooljaar 2011-2012 voor subsidiëring in aanmerking gekomen zijn, kunnen een verlengingsdossier indienen.<br /><br />
+De nascholingsprojecten die tijdens de schooljaren 2015-2016 en 2016-2017 voor gesubsidieerd zijn, worden ook in het schooljaar 2017-2018 gesubsidieerd.
 
 ### ART. 15.
 
-De verlengingsdossiers worden op elektronische wijze ingediend vóór 1 maart 2012 in de vorm van een projectfiche waarvan het model ter beschikking wordt gesteld.<br /><br />De administratie verbindt zich ertoe om de indiener binnen twee werkdagen na de ontvangst van de projectfiche een ontvangstbewijs te bezorgen.<br /><br />De ingediende voorstellen worden beoordeeld op basis van de volgende criteria :<br />1° de relevantie ten aanzien van de vastgestelde beleidsprioriteiten;<br />2° de kwaliteit van het ingediende project, vooral wat betreft de gebruikte methode, het gebruikte materiaal en de gebruikte evaluatie;<br />3° de kostenefficiëntie van het project, namelijk de kostprijs per sessie.<br /><br />
+...
 
 ### ART. 16.
 
-De verlengingsdossiers worden per thema beoordeeld door een commissie, samengesteld uitafgevaardigden van het Vlaams Ministerie van Onderwijs en Vorming.<br /><br />De commissie brengt vóór 1 april 2012 een advies uit aan de hand van een gemotiveerde rangschikking van de nascholingsprojecten die in aanmerking komen voor subsidiëring op grond van de criteria, vermeld in artikel 6.<br /><br />De projecten worden gerangschikt in vijf niveaus :<br />1° zeer goed (niveau A);<br />2° goed (niveau B);<br />3° voldoende (niveau C);<br />4° onvoldoende (niveau D);<br />5° onvoldoende ingevuld of onvoldoende aansluiting bij het thema (niveau E).<br /><br />De commissie heeft de bevoegdheid om de projectvoorstellen van niveau A en B zowel inhoudelijk als financieel te laten bijsturen.<br /><br />Daaropvolgend worden de bijgestuurde projectvoorstellen op elektronische wijze ingediend. De commissie beoordeelt deze bijsturingen. Indien deze bijgestuurde projectvoorstellen tegemoet komen aan de gevraagde bijsturingen, zullen deze projecten opgenomen worden in de gemotiveerde rangschikking die overgemaakt wordt aan de minister. Indien de bijsturingen niet tegemoet komen aan de gevraagde bijsturingen, zullen deze projecten niet opgenomen worden in de rangschikking.<br /><br />De commissie bezorgt de gemotiveerde rangschikking aan de minister.<br /><br />
+...
 
 ### ART. 17.
 
-Op basis van de gemotiveerde rangschikking van de commissie beslist de minister vóór 1 mei 2012 bij ministerieel besluit welke projecten voor subsidiëring in aanmerking komen. Als de keuze afwijkt van de volgorde, voorgesteld door de commissie, moet de minister die keuze bijkomend motiveren.<br /><br />
+...
 
 ### ART. 18.
 
-De nascholingsorganisaties die de verlengingsdossiers hebben ingediend, worden vóór 7 mei 2012 op gemotiveerde wijze op de hoogte gebracht van de beslissing.<br /><br />
+...
 
 ### ART. 19.
 
-De financiering van het verlengingsdossier zal verlopen zoals de financiering, vermeld in artikel 11.<br /><br />
+...
 
 ## HOOFDSTUK 6 Slotbepalingen
 
