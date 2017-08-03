@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028488,
+  "title": "Decreet van 2017-07-07 houdende instemming met de wijzigingen aan het Protocol inzake persistente organische verontreinigende stoffen, met bijlagen, bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, gedaan op 18 december 2009 te Genève",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028488/VolledigDocument?datum=2017-08-03",
+  "source_sha256": "caeb209621823c5b47f267001aa2bc5b428995a981efa5f05fdb757d46adb83d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028488&param=informatie",
+  "as_of": "2017-08-03",
+  "made": "2017-07-07",
+  "gazette": "2017-07-24",
+  "numac": 2017040439,
+  "document_start": "2017-08-03",
+  "document_end": null,
+  "in_force": "2017-08-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-08-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
