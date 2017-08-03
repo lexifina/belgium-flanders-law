@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028489,
+  "title": "Besluit van de Vlaamse Regering van 2017-06-09 houdende wijziging van het Energiebesluit van 19 november 2010, wat betreft de uitbreiding van de doelgroep die in aanmerking komt voor een zero-emissiepremie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028489/VolledigDocument?datum=2017-08-03",
+  "source_sha256": "2b6a93aa0525af8c171b539266694cdc695870bcae6979a3f0347d42da6b5d47",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028489&param=informatie",
+  "as_of": "2017-08-03",
+  "made": "2017-06-09",
+  "gazette": "2017-07-24",
+  "numac": 2017030721,
+  "document_start": "2017-08-03",
+  "document_end": null,
+  "in_force": "2017-08-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-08-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
