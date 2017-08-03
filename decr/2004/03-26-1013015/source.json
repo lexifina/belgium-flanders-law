@@ -2,16 +2,16 @@
   "codex_id": 1013015,
   "title": "Decreet van 2004-03-26 houdende instemming met het protocol bij het verdrag betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake persistente organische stoffen, met bijlagen, ondertekend in Aarhus op 24 juni 1998",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013015/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "d60496b00611e26613419372105a234eff3d50493574162ec6eb9bdaea0ef0dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013015/VolledigDocument?datum=2017-08-03",
+  "source_sha256": "738ff5fdda35554e7aaeef54799d4b2566e1b4ab649bdc190bfd5e245081d997",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013015&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2017-08-03",
   "made": "2004-03-26",
   "gazette": "2004-05-21",
   "numac": 2004035676,
   "document_start": "2004-05-31",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2017-08-03",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-08-03; future article versions excluded; article text as the API gives it"
 }
