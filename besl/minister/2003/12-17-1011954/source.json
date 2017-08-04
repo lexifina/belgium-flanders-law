@@ -2,16 +2,16 @@
   "codex_id": 1011954,
   "title": "Ministerieel besluit van 2003-12-17 houdende vaststelling van de luchthavenvergoedingen voor de internationale luchthaven Oostende-Brugge",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011954/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "515514ee5e1a4fa9315e68dc148ab63307914e0bb224dc8b4b9b45e501f65313",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011954/VolledigDocument?datum=2017-08-04",
+  "source_sha256": "e730839cf1cc8ca39e93f41326b63097022dcb9f29b2dd22341dd507765de8c5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011954&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2017-08-04",
   "made": "2003-12-17",
   "gazette": "2003-12-31",
   "numac": 2003036257,
   "document_start": "2004-01-01",
   "document_end": "2017-08-03",
-  "in_force": "2006-06-01",
+  "in_force": "2017-08-04",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-08-04; future article versions excluded; article text as the API gives it"
 }
