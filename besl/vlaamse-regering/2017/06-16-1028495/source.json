@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028495,
+  "title": "Besluit van de Vlaamse Regering van 2017-06-16 tot opheffing van het besluit van de Vlaamse regering van 8 juni 1994 betreffende het financiële en materiële beheer van de diensten met afzonderlijk beheer luchthaven Antwerpen en luchthaven Oostende, het ministerieel besluit van 17 december 2003 houdende vaststelling van de luchthavenvergoedingen voor de internationale luchthaven Oostende-Brugge en het ministerieel besluit van 13 maart 2009 houdende vaststelling van de luchthavenvergoedingen voor de luchthaven Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028495/VolledigDocument?datum=2017-08-04",
+  "source_sha256": "4448372e1e551562a7f02b354792df018e481154503fdf691c526d706fdb5aa5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028495&param=informatie",
+  "as_of": "2017-08-04",
+  "made": "2017-06-16",
+  "gazette": "2017-07-25",
+  "numac": 2017030766,
+  "document_start": "2017-08-04",
+  "document_end": null,
+  "in_force": "2017-08-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-08-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
