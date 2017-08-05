@@ -8,11 +8,26 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° agentschap : het Agentschap   voor Kwaliteitszorg in Onderwijs en Vorming opgericht bij besluit van de Vlaamse   Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd   agentschap Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties   en Studietoelagen;<BR>2° beroepskwalificatie : het begrip vermeld in artikel 2,   4° van het decreet van 30 april 2009; <BR>3° beroepskwalificatiedossier : het   begrip vermeld in artikel 2, 4° bis van het decreet van 30 april 2009; <BR>4°   competentie : het begrip vermeld in artikel 2, 6° van het decreet van 30 april   2009 en artikel 3, 5° van het decreet van 30 april 2009 betreffende het   secundair na secundair onderwijs en het hoger beroepsonderwijs;<BR>5° decreet   van 30 april 2009 : het decreet van 30 april 2009 betreffende de   kwalificatiestructuur; <BR>6° commissie voor hoger beroepsonderwijs : de   commissie zoals vermeld in afdeling I van Hoofdstuk II van het decreet van 30   april 2009 betreffende het secundair na secundair onderwijs en het hoger   beroepsonderwijs; <BR>7° interprofessionele sociale partner : sociale partner   vertegenwoordigd in de Raad van de SERV;<BR>8° minister : de Vlaamse minister   bevoegd voor het onderwijs en voor de coördinatie van het vormingsbeleid;<BR>9°   onderwijskwalificatie : het begrip vermeld in artikel 2, 17° van het decreet van   30 april 2009; <BR>10° SERV : de Sociaal-Economische Raad van Vlaanderen;<BR>11°   SYNTRA Vlaanderen : het Vlaams Agentschap voor Ondernemersvorming;<BR>12° VDAB :   de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding; <BR>13° VLOR : de   Vlaamse Onderwijsraad.
+In dit besluit wordt verstaan onder :<br>
+1° agentschap : het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming opgericht bij besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd agentschap Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
+2° beroepskwalificatie : het begrip vermeld in artikel 2, 4° van het decreet van 30 april 2009;<br>
+3° beroepskwalificatiedossier : het begrip vermeld in artikel 2, 4° bis van het decreet van 30 april 2009;<br>
+4° competentie : het begrip vermeld in artikel 2, 6° van het decreet van 30 april 2009;<br>
+5° decreet van 30 april 2009 : het decreet van 30 april 2009 betreffende de kwalificatiestructuur;<br>
+6° ...;<br>
+7° interprofessionele sociale partner : sociale partner vertegenwoordigd in de Raad van de SERV;<br>
+8° minister : de Vlaamse minister bevoegd voor het onderwijs en voor de coördinatie van het vormingsbeleid;<br>
+9° onderwijskwalificatie : het begrip vermeld in artikel 2, 17° van het decreet van 30 april 2009;<br>
+10° SERV : de Sociaal-Economische Raad van Vlaanderen;<br>
+11° SYNTRA Vlaanderen : het Vlaams Agentschap voor Ondernemersvorming;<br>
+12° VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
+13° VLOR : de Vlaamse Onderwijsraad.
 
 ### ART. 2.
 
-<P>Dit besluit is van toepassing voor de erkenning van de beroepskwalificaties   van niveau 1 tot en met 8 en is van toepassing op de erkenning van de   onderwijskwalificaties van niveau 4 en 5 vermeld in artikel 14, 4°, g) en 5°, a)   van artikel 14 van het decreet van 30 april 2009.<BR></P>  <P>Onderwijskwalificaties van niveau 4 als vermeld in artikel 14, 4°, g) van het   voormelde decreet, kunnen uitgereikt worden door instellingen die secundair na   secundair onderwijs organiseren.<BR></P>  <P>Onderwijskwalificaties van niveau 5 als vermeld in artikel 14, 5°, a) van het   voormelde decreet, kunnen uitgereikt worden door instellingen die hoger   beroepsonderwijs organiseren.</P>
+<p>Dit besluit is van toepassing voor de erkenning van de beroepskwalificaties van niveau 1 tot en met 8 en is van toepassing op de erkenning van de onderwijskwalificaties van niveau 4&nbsp;vermeld in artikel 14, 4°, g)&nbsp;van artikel 14 van het decreet van 30 april 2009.</p>
+
+<p>Onderwijskwalificaties van niveau 4 als vermeld in artikel 14, 4°, g) van het voormelde decreet, kunnen uitgereikt worden door instellingen die secundair na secundair onderwijs organiseren.</p>
 
 ## HOOFDSTUK 2. Procedure voor de erkenning van beroepskwalificaties
 
@@ -80,19 +95,73 @@ Het agentschap voert een marginale toetsing uit van het proces en het   resultaa
 
 ## [HOOFDSTUK 2/1. Procedure voor de actualisering of schrapping van beroepskwalificaties (ing. BVR 7 juli 2017, art. 4, I: 5 augustus 2017)]
 
+### ART 15/1.
+
+Iedere arbeidsmarktactor kan een beroepskwalificatiedossier als vermeld in artikel 5, voor de actualisering van een erkende beroepskwalificatie of een vraag tot schrapping van een erkende beroepskwalificatie indienen. De arbeidsmarktactor kan dit doen op eigen initiatief of op vraag van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen of andere overheidsdiensten.
+
+### ART 15/2.
+
+Als een actualisering van een erkende beroepskwalificatie alleen betrekking heeft op een technische aanpassing, legt het agentschap het geactualiseerde dossier, vermeld in artikel 15/1, ter beslissing voor aan Vlaamse minister(s) bevoegd voor onderwijs, de coördinatie van het vormingsbeleid en de werkgelegenheid.<br>
+<br>
+Onder technische aanpassingen als vermeld in het eerste lid, worden een van de volgende aanpassingen verstaan:<br>
+1° redactionele aanpassingen van taalkundige, grammaticale of vormelijke aard, zonder afbreuk te doen aan de inhoudelijk bedoelde omschrijving van bepalingen van de erkende beroepskwalificatie;<br>
+2° rechtzettingen van onnauwkeurigheden, zonder afbreuk te doen aan de inhoudelijk bedoelde omschrijving van bepalingen van de erkende beroepskwalificatie;<br>
+3° wijzigingen in het beroepskwalificatiedossier, die niet in de erkende beroepskwalificatie opgenomen worden.
+
+### ART 15/3.
+
+§ 1. Als een actualisering van een erkende beroepskwalificatie niet beperkt is tot een technische aanpassing, legt het agentschap het dossier, vermeld in artikel 15/1, voor aan de valideringscommissie, vermeld in artikel 8.<br>
+<br>
+De valideringscommissie beoordeelt het dossier conform artikel 7 en beslist conform artikel 9 over de actualisering.<br>
+<br>
+§ 2. Na de validering van de actualisering van een erkende beroepskwalificatie, vermeld in § 1, legt het agentschap het dossier voor aan de inschalingscommissie. De inschalingscommissie beoordeelt of de actualisering van een erkende beroepskwalificatie aanleiding kan geven tot een inschaling op een ander niveau van de kwalificatiestructuur, door na te gaan of de actualisering aanleiding kan geven tot het toekennen van een andere wegingsscore voor de acht descriptorelementen, vermeld in de inschalingsmethodiek die is opgenomen in de bijlage die bij dit besluit is gevoegd.<br>
+<br>
+Artikelen 11 en 12 zijn van overeenkomstige toepassing op de beoordeling vermeld in eerste lid.<br>
+<br>
+§ 3. Als de inschalingscommissie van oordeel is dat de actualisering van de erkende beroepskwalificatie aanleiding kan geven tot een inschaling op een ander niveau van de kwalificatiestructuur, schaalt zij het dossier opnieuw in.<br>
+<br>
+Artikelen 11, 12, 14 en 15 zijn van overeenkomstige toepassing op de actualisering van de erkende beroepskwalificatie.<br>
+<br>
+§ 4. Als de inschalingscommissie van oordeel is dat de actualisering geen aanleiding geeft tot een nieuwe inschaling, bezorgt zij het dossier opnieuw aan het agentschap.<br>
+<br>
+Artikelen 14 en 15, tweede lid, zijn van overeenkomstige toepassing op de actualisering van de erkende beroepskwalificatie.<br>
+<br>
+De Vlaamse minister(s) bevoegd voor onderwijs, de coördinatie van het vormingsbeleid en de werkgelegenheid nemen een beslissing over de actualisering van de erkende beroepskwalificatie, als vermeld in paragraaf 1 en het eerste lid van deze paragraaf.
+
+### ART 15/4.
+
+Als het dossier, vermeld in artikel 15/1, betrekking heeft op een integrale schrapping van een erkende beroepskwalificatie, bezorgt het agentschap het dossier aan de valideringscommissie, vermeld in artikel 8.<br>
+<br>
+De valideringscommissie beoordeelt het dossier conform artikel 7 en beslist conform artikel 9 over de schrapping. De valideringscommissie bezorgt het dossier vervolgens opnieuw aan het agentschap.<br>
+<br>
+Artikel 14 en 15, tweede lid, zijn van overeenkomstige toepassing op de schrapping van de erkende beroepskwalificatie.<br>
+<br>
+De Vlaamse Regering neemt een beslissing over de voorgestelde schrapping van de erkende beroepskwalificatie.
+
 ## HOOFDSTUK 3. [... (opgeh. BVR 16 juli 2021, art. 55, I: 1 september 2021)]
 
 ## Afdeling 1. [... (opgeh. BVR 16 juli 2021, art. 55, I: 1 september 2021)]
 
 ### ART. 16.
 
-<P>Het agentschap werkt voorstellen van onderwijskwalificaties uit op eigen   initiatief of op vraag van belanghebbenden. <BR></P>  <P>Ieder voorstel van onderwijskwalificatie bevat : <BR>1° de competenties van   één of meer erkende beroepskwalificaties als vermeld in artikel 14 van het   decreet van 30 april 2009; <BR>2° het kwalificatieniveau; <BR>3° de toepassing   van de criteria, vermeld in artikel 15, tweede lid van het decreet van 30 april   2009; <BR>4° de samenhang met andere voorstellen van onderwijskwalificaties en   met erkende beroeps- en onderwijskwalificaties.<BR>5° een advies over de   wenselijkheid van een opleiding die leidt tot die onderwijskwalificatie, de   studieomvang van de opleiding hoger beroepsonderwijs die leidt tot die   onderwijskwalificatie, uitgedrukt in studiepunten, de benaming van de opleiding   in het hoger beroepsonderwijs en het studiegebied waartoe ze   behoort.</P>
+<p>Het agentschap werkt voorstellen van onderwijskwalificaties uit op eigen initiatief of op vraag van belanghebbenden.</p>
+
+<p>Ieder voorstel van onderwijskwalificatie bevat :<br>
+1° de competenties van één of meer erkende beroepskwalificaties als vermeld in artikel 14 van het decreet van 30 april 2009;<br>
+2° het kwalificatieniveau;<br>
+3° de toepassing van de criteria, vermeld in artikel 15, tweede lid van het decreet van 30 april 2009;<br>
+4° de samenhang met andere voorstellen van onderwijskwalificaties en met erkende beroeps- en onderwijskwalificaties.<br>
+5° een advies over de wenselijkheid van een opleiding die leidt tot die onderwijskwalificatie en het studiegebied waartoe ze behoort.</p>
 
 ## Afdeling 2. [... (opgeh. BVR 16 juli 2021, art. 55, I: 1 september 2021)]
 
 ### ART. 17.
 
-<P>§ 1. Elk voorstel van onderwijskwalificatie van niveau 4 wordt door het   agentschap aan de VLOR voor advies voorgelegd. De VLOR brengt advies uit over de   elementen, vermeld in artikel 16, 3° en 4° van dit besluit. </P>  <P>Dat advies wordt bij het agentschap uitgebracht binnen dertig   kalenderdagen.</P>  <P>§ 2 Elk voorstel van onderwijskwalificatie van niveau 5 wordt door het   agentschap aan de commissie hoger onderwijs voor advies voorgelegd.</P>  <P>De commissie hoger onderwijs adviseert over de aspecten vermeld in artikel   16. Dat advies wordt bij het agentschap uitgebracht binnen dertig   kalenderdagen.</P>
+<p>§ 1. Elk voorstel van onderwijskwalificatie van niveau 4 wordt door het agentschap aan de VLOR voor advies voorgelegd. De VLOR brengt advies uit over de elementen, vermeld in artikel 16, 3° en 4° van dit besluit.</p>
+
+<p>Dat advies wordt bij het agentschap uitgebracht binnen dertig kalenderdagen.</p>
+
+<p>§ 2 ....</p>
 
 ## Afdeling 3. [... (opgeh. BVR 16 juli 2021, art. 55, I: 1 september 2021)]
 
