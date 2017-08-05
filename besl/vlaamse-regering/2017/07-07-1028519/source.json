@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028519,
+  "title": "Besluit van de Vlaamse Regering van 2017-07-07 tot wijziging van het besluit van de Vlaamse Regering van 11 januari 2013 houdende de uitvoering van het decreet betreffende de kwalificatiestructuur van 30 april 2009 inzake de erkenning van beroepskwalificaties en inzake de erkenning van onderwijskwalificaties voor het secundair na secundair onderwijs en het hoger beroepsonderwijs, wat betreft de invoering van een procedure om beroepskwalificaties aan te passen of te schrappen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028519/VolledigDocument?datum=2017-08-05",
+  "source_sha256": "961612d9ecc76b86a2f811e4165106e4fbffa7aad4b6c7be6f097405f8b85619",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028519&param=informatie",
+  "as_of": "2017-08-05",
+  "made": "2017-07-07",
+  "gazette": "2017-08-04",
+  "numac": 2017020492,
+  "document_start": "2017-08-05",
+  "document_end": null,
+  "in_force": "2017-08-05",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2017-08-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
