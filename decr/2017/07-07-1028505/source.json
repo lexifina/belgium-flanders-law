@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028505,
+  "title": "Decreet van 2017-07-07 houdende instemming met de wijzigingen aan het Protocol inzake zware metalen, met bijlagen, bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, gedaan op 13 december 2012 te Genève",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028505/VolledigDocument?datum=2017-08-11",
+  "source_sha256": "0e1f671fdcdde71796bc170bf0777868e6d016e62dba6dd42766fbc67bb7d22c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028505&param=informatie",
+  "as_of": "2017-08-11",
+  "made": "2017-07-07",
+  "gazette": "2017-08-01",
+  "numac": 2017030870,
+  "document_start": "2017-08-11",
+  "document_end": null,
+  "in_force": "2017-08-11",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
