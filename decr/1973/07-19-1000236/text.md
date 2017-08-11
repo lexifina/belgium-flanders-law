@@ -24,7 +24,30 @@ De “sociale betrekkingen” omvatten zowel de mondelinge als schriftelijke ind
 
 ### ART. 5.
 
-&nbsp;§ 1. De te gebruiken taal voor de sociale betrekkingen tussen de   werkgevers en de werknemers, alsmede voor de wettelijk voorgeschreven akten en   bescheiden van de onder- nemingen en voor alle documenten die bestemd zijn voor   het personeel, is het Nederlands.<BR><BR>§ 2. Met behoud van de toepassing van   paragraaf 1, kan voor individuele arbeidsovereen- komsten bijkomend een   rechtsgeldige versie worden opgemaakt in een van volgende door alle betrokken   partijen begrepen talen:<BR>1° een officiële taal van de Europese Unie;<BR>2°   een officiële taal van een van de lidstaten van de Europese Economische Ruimte   maar die geen lid zijn van de Europese Unie.<BR><BR>Het eerste lid is enkel van   toepassing indien de werknemer zich in een van onderstaande gevallen   bevindt:<BR>1° hij heeft zijn woonplaats op het grondgebied van een van de   andere lidstaten van de Europese Unie of een van de lidstaten van de Europese   Economische Ruimte;<BR>2° hij heeft zijn woonplaats op het Belgische grondgebied   en heeft gebruikgemaakt van zijn recht op vrij verkeer van werknemers of van de   vrijheid van vestiging, zoals gewaarborgd door artikel 45 en 49 van het verdrag   betreffende de werking van de Europese Unie en door verordening (EU) nr.   492/2011 van het Europees Parlement en de Raad van 5 april 2011 betreffende het   vrije verkeer van werknemers binnen de Unie;<BR>3° hij valt onder het vrij   verkeer van werknemers op grond van een internationaal of supranationaal   verdrag.<BR><BR>§ 3. Zo de samenstelling van het personeel zulks rechtvaardigt   en op eenparige aanvraag van de werknemersleden van de ondernemingsraad of, bij   ontstentenis van een ondernemingsraad, op eenparige aanvraag van de syndicale   afvaardiging of, bij ontstentenis van beide, op verzoek van een afgevaardigde   van een representatieve vakorganisatie, dient de werkgever evenwel bij de   berichten, mededelingen, akten, getuigschriften en formulieren bestemd voor het   personeel, een vertaling te voegen in één of meer talen.<BR><BR>De regeling,   vermeld in het eerste lid, geldt voor één jaar en dient op straffe van   nietigheid, schriftelijk te zijn opgesteld. Ze dient door de werkgevers binnen   een maand aan de ambtenaren, belast met het toezicht op de uitvoering van dit   decreet, te worden betekend.<BR><BR>§ 4. Als er een verschil bestaat tussen de   Nederlandstalige versie en de anderstalige versie van een document als vermeld   in paragraaf 2 en 3, heeft de Nederlandstalige versie van het document   voorrang.<BR><BR>§ 5. Met behoud van de toepassing van paragraaf 1 tot en met 4   kan de werkgever meertaligheid eisen van de sollicitant en de kennis van andere   talen bij sollicitanten toetsen tijdens de selectieperiode.<BR>
+&nbsp;§ 1. De te gebruiken taal voor de sociale betrekkingen tussen de werkgevers en de werknemers, alsmede voor de wettelijk voorgeschreven akten en bescheiden van de onder- nemingen en voor alle documenten die bestemd zijn voor het personeel, is het Nederlands.<br>
+<br>
+§ 2. Met behoud van de toepassing van paragraaf 1, kan voor individuele arbeidsovereen- komsten bijkomend een rechtsgeldige versie worden opgemaakt in een van volgende door alle betrokken partijen begrepen talen:<br>
+1° een officiële taal van de Europese Unie;<br>
+2° een officiële taal van een van de lidstaten van de Europese Economische Ruimte maar die geen lid zijn van de Europese Unie.<br>
+<br>
+Het eerste lid is enkel van toepassing indien de werknemer zich in een van onderstaande gevallen bevindt:<br>
+1° hij heeft zijn woonplaats op het grondgebied van een van de andere lidstaten van de Europese Unie of een van de lidstaten van de Europese Economische Ruimte;<br>
+2° hij heeft zijn woonplaats op het Belgische grondgebied en heeft gebruikgemaakt van zijn recht op vrij verkeer van werknemers of van de vrijheid van vestiging, zoals gewaarborgd door artikel 45 en 49 van het verdrag betreffende de werking van de Europese Unie en door verordening (EU) nr. 492/2011 van het Europees Parlement en de Raad van 5 april 2011 betreffende het vrije verkeer van werknemers binnen de Unie;<br>
+3° hij valt onder het vrij verkeer van werknemers op grond van een internationaal of supranationaal verdrag.<br>
+<br>
+§ 2/1. Met behoud van de toepassing van paragraaf 1 kan voor facturen bijkomend een rechtsgeldige versie worden opgemaakt in een van volgende door alle betrokken partijen begrepen talen:<br>
+1° een officiële taal van de Europese Unie;<br>
+2° een officiële taal van een van de lidstaten van de Europese Economische Ruimte die geen lid zijn van de Europese Unie.<br>
+<br>
+Het eerste lid is alleen van toepassing als de natuurlijke persoon of de exploitatiezetel van de onderneming waaraan de factuur gericht is, gevestigd is in een van de lidstaten van de Europese Unie of Europese Economische Ruimte, met uitzondering van België.<br>
+<br>
+§ 3. Zo de samenstelling van het personeel zulks rechtvaardigt en op eenparige aanvraag van de werknemersleden van de ondernemingsraad of, bij ontstentenis van een ondernemingsraad, op eenparige aanvraag van de syndicale afvaardiging of, bij ontstentenis van beide, op verzoek van een afgevaardigde van een representatieve vakorganisatie, dient de werkgever evenwel bij de berichten, mededelingen, akten, getuigschriften en formulieren bestemd voor het personeel, een vertaling te voegen in één of meer talen.<br>
+<br>
+De regeling, vermeld in het eerste lid, geldt voor één jaar en dient op straffe van nietigheid, schriftelijk te zijn opgesteld. Ze dient door de werkgevers binnen een maand aan de ambtenaren, belast met het toezicht op de uitvoering van dit decreet, te worden betekend.<br>
+<br>
+§ 4. Als er een verschil bestaat tussen de Nederlandstalige versie en de anderstalige versie van een document als vermeld in paragraaf 2, 2/1&nbsp;en 3, heeft de Nederlandstalige versie van het document voorrang.<br>
+<br>
+§ 5. Met behoud van de toepassing van paragraaf 1 tot en met 4 kan de werkgever meertaligheid eisen van de sollicitant en de kennis van andere talen bij sollicitanten toetsen tijdens de selectieperiode.
 
 ## IV. Toezicht
 

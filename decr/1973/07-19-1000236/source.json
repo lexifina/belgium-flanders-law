@@ -2,16 +2,16 @@
   "codex_id": 1000236,
   "title": "Decreet van 1973-07-19 tot regeling van het gebruik van de talen voor de sociale betrekkingen tussen de werkgevers en de werknemers, alsmede van de door de wet en de verordeningen voorgeschreven akten en bescheiden van de ondernemingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000236/VolledigDocument?datum=2014-05-02",
-  "source_sha256": "54f40281b2efffdde42b62737c5faaab330635221b1b30a80f08b755c875998a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000236/VolledigDocument?datum=2017-08-11",
+  "source_sha256": "e4f0f9616b73785cd6ab8279748a01c0ea02e65096c02d91387c82b685869c16",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000236&param=informatie",
-  "as_of": "2014-05-02",
+  "as_of": "2017-08-11",
   "made": "1973-07-19",
   "gazette": "1973-09-06",
   "numac": 1973071902,
   "document_start": "1973-09-16",
   "document_end": null,
-  "in_force": "2014-05-02",
+  "in_force": "2017-08-11",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2014-05-02; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-08-11; future article versions excluded; article text as the API gives it"
 }
