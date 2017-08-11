@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028509,
+  "title": "Decreet van 2017-07-07 houdende diverse bepalingen met betrekking tot het beleidsdomein [Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie]",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028509/VolledigDocument?datum=2017-08-11",
+  "source_sha256": "ae841109347ba514cefbdab7d1cf0c536c818d502f10b9d627bc379de234ecc5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028509&param=informatie",
+  "as_of": "2017-08-11",
+  "made": "2017-07-07",
+  "gazette": "2017-08-01",
+  "numac": 2017030840,
+  "document_start": "2017-08-11",
+  "document_end": null,
+  "in_force": "2017-08-11",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2017-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
