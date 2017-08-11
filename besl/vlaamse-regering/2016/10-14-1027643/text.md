@@ -1880,12 +1880,18 @@ De minister bepaalt de nadere regels voor de stopzetting van een beslissing.<br>
 ### ART 186.
 
 De tegemoetkoming wordt niet uitgevoerd als de gebruiker aan een van de volgende voorwaarden voldoet :<br>
-1° de gebruiker is ingeschreven in een internaat of een opvangcentrum van een medisch pedagogisch instituut van het Gemeenschapsonderwijs;<br>
+1° de gebruiker is ingeschreven in&nbsp;een internaat of een internaat met permanente openstelling van een medisch pedagogisch instituut van het Gemeenschapsonderwijs;<br>
 2° de gebruiker doet een beroep op een persoonlijk assistentiebudget;<br>
-3° de gebruiker verblijft volgens het protocol van verblijf in een multifunctioneel centrum voor minderjarige personen met een handicap, erkend door het Vlaams Agentschap voor Personen met een Handicap;<br>
+3° de gebruiker&nbsp;doet een beroep op een multifunctioneel centrum voor minderjarige personen met een handicap, erkend door het Vlaams Agentschap voor Personen met een Handicap;<br>
 4° de gebruiker verblijft in een residentiële gehandicaptenvoorziening die in België door een andere overheid dan de Vlaamse overheid erkend is;<br>
 5° de gebruiker verblijft in een niet in België gevestigde residentiële gehandicaptenvoorziening die een vergelijkbare hulp- en dienstverlening aanbiedt als een voorziening als vermeld in punt 4° ;<br>
-6° de gebruiker verblijft in een psychiatrisch verzorgingstehuis.<br>
+6° de gebruiker verblijft in een psychiatrisch verzorgingstehuis;<br>
+7° de gebruiker maakt gebruik van niet-rechtstreeks toegankelijke jeugdhulp en verblijft in een organisatie voor bijzondere jeugdzorg;<br>
+8° de gebruiker verblijft in een gemeenschapsinstelling;<br>
+9° de gebruiker doet een beroep op een ambulante gehandicaptenvoorziening die een vergelijkbare hulp- en dienstverlening aanbiedt als de niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in artikel 6 van het decreet van 25 april 2014 en die:<br>
+a) in België door een andere overheid dan de Vlaamse overheid erkend is;<br>
+b) niet in België gevestigd is;<br>
+10° de gebruiker maakt gebruik van niet-rechtstreeks toegankelijke jeugdhulp en verblijft in een centrum voor kinderzorg en gezinsondersteuning.<br>
 <br>
 De minister kan nadere regels voor de cumulatie van de tegemoetkomingen bepalen.<br>
 &nbsp;

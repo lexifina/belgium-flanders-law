@@ -2,16 +2,16 @@
   "codex_id": 1027643,
   "title": "Besluit van de Vlaamse Regering van 2016-10-14 houdende de uitvoering van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027643/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "8c90954f69f9519089e04b36cb2d72cfa2c5068cd3382902a718cab74d03772f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027643/VolledigDocument?datum=2017-08-11",
+  "source_sha256": "00f2b2998894836e75b2ee74fd67ce1471bb8a4ef552a072f319b2176b6a773d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027643&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2017-08-11",
   "made": "2016-10-14",
   "gazette": "2016-12-16",
   "numac": 2016036593,
   "document_start": "2017-01-01",
   "document_end": "2018-12-31",
-  "in_force": "2017-01-01",
+  "in_force": "2017-08-11",
   "article_versions": 220,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-08-11; future article versions excluded; article text as the API gives it"
 }
