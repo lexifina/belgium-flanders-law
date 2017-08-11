@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028506,
+  "title": "Decreet van 2017-07-07 houdende wijziging van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters, wat het attest van draagkracht betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028506/VolledigDocument?datum=2017-08-11",
+  "source_sha256": "6ea9545fbe0cd74fcc3fd728dadf71e799e4ccc74af4885a18e01ba3f978d62f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028506&param=informatie",
+  "as_of": "2017-08-11",
+  "made": "2017-07-07",
+  "gazette": "2017-08-01",
+  "numac": 2017030871,
+  "document_start": "2017-08-11",
+  "document_end": null,
+  "in_force": "2017-08-11",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
