@@ -44,7 +44,7 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 33° het besluit van de Vlaamse Regering van 3 mei 2002 tot instelling van de aanmoedigingspremies in de Vlaamse private sociale profitsector;<br>
 34° het besluit van de Vlaamse Regering van 8 september 2000 houdende een impuls- en ondersteuningsprogramma van de meerwaardeneconomie;<br>
 35° het decreet van 13 maart 2009 betreffende de sectorconvenants in het raam van het Vlaams Werkgelegenheidsbeleid;<br>
-37° het hoofdstuk IV, afdeling 5 en afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, met uitzondering van de bepalingen van artikel 115, 118 en 119;<br>
+37° het hoofdstuk IV, afdeling 5 en afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, met uitzondering van de bepalingen van artikel 113, 115, 118 en 119;<br>
 38° de wet van 19 juli 1983 op het leerlingwezen voor beroepen uitgeoefend door werknemers in loondienst;<br>
 39° hoofdstukken V en VII van de wet van 5 september 2001 tot de verbetering van de werkgelegenheidsgraad van de werknemers;<br>
 40° artikel 8 van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, met uitzondering van de bepalingen van paragraaf 4, derde lid, en paragraaf 10 van het voormelde artikel;<br>
@@ -286,11 +286,53 @@ Het openbaar ministerie beslist of het al dan niet strafrechtelijk vervolgt.<br 
 
 ### ART. 17.
 
-§ 1. Het openbaar ministerie beschikt over een termijn van&nbsp;vier   maanden te rekenen van de dag van ontvangst van het proces-verbaal om van zijn   beslissing omtrent het al dan niet instellen van een strafvervolging kennis te   geven aan de krachtens artikel 15, tweede lid, aangewezen ambtenaar.<BR><BR>Bij   gemotiveerde beslissing kan het Openbaar Ministerie die termijn verlengen met   maximaal&nbsp;vier maanden. Het Openbaar Ministerie brengt de aangewezen   ambtenaar, vermeld in artikel 15, tweede lid, daarvan op de hoogte.<BR><BR>§ 2.   Ingeval het openbaar ministerie van strafvervolging afziet of nalaat binnen de   gestelde termijn van zijn beslissing kennis te geven, beslist de aangewezen   ambtenaar, nadat het opleidingscentrum, de werkgever, en in voorkomend geval, de   gebruiker de mogelijkheid geboden werd zijn verweermiddelen naar voren te   brengen, of, wegens de inbreuk, een admi-nistratieve geldboete wordt   opgelegd.<BR><BR>De aangewezen ambtenaar zal het opleidingscentrum, de werkgever   en in voorkomend geval de gebruiker uiterlijk 1 maand voorafgaand aan het   onderhoud per aangetekende brief in kennis stellen van de aan hem ten laste   gelegde feiten. In dit oproepingschrijven wordt de geadresseerde het volgende   meegedeeld:<BR>a) de plaats en het uur van het onderhoud;<BR>b) de plaats en de   uurregeling tot inzage van het dossier gedurende de termijn van minstens 3   weken;<BR>c) de mogelijkheid tot bijstand van een raadsman;<BR>d) de   mogelijkheid tot neerlegging uiterlijk op de dag van het onderhoud van een   schriftelijk verweerschrift, al dan niet vergezeld van   overtuigingstukken.<BR><BR>De aangewezen ambtenaar beschikt over een termijn   van&nbsp;acht maanden voor het opleggen van een administratieve geldboete, te   rekenen vanaf de kennisneming van de beslissing bedoeld in § 1 of bij   ontstentenis vanaf het einde van de termijn bedoeld in dezelfde   paragraaf.<BR><BR>§ 3. Indien de aangewezen ambtenaar beslist een   administratieve geldboete op te leggen, vermeldt zijn beslissing met in   achtneming van de bepalingen van de wet van 29 juli 1991 betreffende de   uitdrukkelijke motivering van de bestuurshande-lingen, het bedrag, de tekst van   § 5 en de termijn waarbinnen en de manier waarop de administratieve geldboete   betaald wordt.<BR><BR>Wanneer verzachtende omstandigheden aanwezig zijn kan de   aangewezen ambtenaar een administratieve geldboete onder de betreffende   minimumbedragen opleggen zonder dat de geldboete lager mag zijn dan 40 % van het   toepasselijke minimumbedrag.<BR><BR>§ 4. De in § 3 vermelde beslissing wordt bij   een ter post aangetekende brief aan het opleidingscentrum, de werkgever en, in   voorkomend geval, aan de gebruiker ter kennis gegeven. De kennisgeving vermeldt   de wijze waarop tegen de beslissing beroep kan worden ingesteld.<BR><BR>De   verzending van de kennisgeving van de beslissing doet de strafvordering uit   hoofde van de in artikel 2 van dit decreet genoemde regelgeving   vervallen.<BR><BR>De betaling van de administratieve geldboete en de eventuele   invorderingskosten maakt een einde aan de vordering van de Vlaamse   overheid.<BR><BR>§ 5. Het opleidingscentrum, de werkgever en, in voorkomend   geval, de gebruiker die de beslissing van de bevoegde ambte-naar betwist, tekent   op straffe van verval binnen een termijn van twee maanden na de verzending van   de kennisgeving van de beslissing, door middel van de neerlegging van een   verzoekschrift overeenstemmend met de bepalingen van artikel 704 van het   Gerechtelijk Wetboek beroep aan bij de arbeidsrechtbank. Dit beroep schorst de   uitvoering van de beslissing.<BR><BR>§ 6. In geval van beroep tegen de   beslissing van de bevoegde ambtenaar kunnen de arbeidsgerechten, wanneer   verzachtende omstandigheden aanwezig zijn, het bedrag van de opgelegde   administratieve geldboete verminderen tot onder de toepasselijke   minimumbedragen, zonder dat de geldboete lager mag zijn dan 40 % van het   betreffende minimumbedrag.<BR><BR>§ 7. De Vlaamse regering bepaalt de termijn en   de nadere regelen voor de betaling van de administratieve geldboeten.<BR><BR>§   8. Onverminderd de decreten van 22 februari 1995 tot regeling van de invordering   van niet-fiscale schuldvorderingen voor, respectievelijk de Vlaamse Gemeenschap   en het Vlaamse Gewest, en de instellingen die eronder ressorteren zal de Vlaamse   regering bij besluit de ambtenaren binnen haar administratie machtigen om de in   dit decreet bedoelde onbetwiste en opeisbare administratieve geldboeten en   eventuele invorderingskosten te verhalen.<BR><BR>De ambtenaar aangewezen   krachtens artikel 15, tweede lid, van dit decreet deelt de beslissing van   hemzelf of van het ar-beidsgerecht die in kracht van gewijsde is gegaan mede aan   de door deze paragraaf gemachtigde ambtenaren.
+§ 1. Het openbaar ministerie beschikt over een termijn van&nbsp;vier maanden te rekenen van de dag van ontvangst van het proces-verbaal om van zijn beslissing omtrent het al dan niet instellen van een strafvervolging kennis te geven aan de krachtens artikel 15, tweede lid, aangewezen ambtenaar.<br>
+<br>
+Bij gemotiveerde beslissing kan het Openbaar Ministerie die termijn verlengen met maximaal&nbsp;vier maanden. Het Openbaar Ministerie brengt de aangewezen ambtenaar, vermeld in artikel 15, tweede lid, daarvan op de hoogte.<br>
+<br>
+§ 2. Ingeval het openbaar ministerie van strafvervolging afziet of nalaat binnen de gestelde termijn van zijn beslissing kennis te geven, beslist de aangewezen ambtenaar, nadat het opleidingscentrum, de werkgever, en in voorkomend geval, de gebruiker de mogelijkheid geboden werd zijn verweermiddelen naar voren te brengen, of, wegens de inbreuk, een admi-nistratieve geldboete wordt opgelegd.<br>
+<br>
+De aangewezen ambtenaar zal het opleidingscentrum, de werkgever en in voorkomend geval de gebruiker uiterlijk 1 maand voorafgaand aan het onderhoud per aangetekende brief in kennis stellen van de aan hem ten laste gelegde feiten. In dit oproepingschrijven wordt de geadresseerde het volgende meegedeeld:<br>
+a) de plaats en het uur van het onderhoud;<br>
+b) de plaats en de uurregeling tot inzage van het dossier gedurende de termijn van minstens 3 weken;<br>
+c) de mogelijkheid tot bijstand van een raadsman;<br>
+d) de mogelijkheid tot neerlegging uiterlijk op de dag van het onderhoud van een schriftelijk verweerschrift, al dan niet vergezeld van overtuigingstukken.<br>
+<br>
+De aangewezen ambtenaar beschikt over een termijn van&nbsp;acht maanden voor het opleggen van een administratieve geldboete, te rekenen vanaf de kennisneming van de beslissing bedoeld in § 1 of bij ontstentenis vanaf het einde van de termijn bedoeld in dezelfde paragraaf.<br>
+<br>
+§ 3. Indien de aangewezen ambtenaar beslist een administratieve geldboete op te leggen, vermeldt zijn beslissing met in achtneming van de bepalingen van de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshande-lingen, het bedrag, de tekst van § 5 en de termijn waarbinnen en de manier waarop de administratieve geldboete betaald wordt.<br>
+<br>
+Wanneer verzachtende omstandigheden aanwezig zijn kan de aangewezen ambtenaar een administratieve geldboete onder de betreffende minimumbedragen opleggen zonder dat de geldboete lager mag zijn dan 40 % van het toepasselijke minimumbedrag.<br>
+<br>
+§ 3/1. Op vraag van de overtreder kan de aangewezen ambtenaar geheel of gedeeltelijk uitstel van tenuitvoerlegging van de administratieve geldboete verlenen, gedurende een proefperiode die niet minder dan één jaar en niet meer dan drie jaar mag bedragen.<br>
+<br>
+Het uitstel wordt verleend in de beslissing tot oplegging van administratieve geldboete.<br>
+<br>
+Het uitstel wordt van rechtswege herroepen als gedurende de proeftijd een nieuwe inbreuk omschreven in dit hoofdstuk wordt gepleegd, met een administratieve of gerechtelijke beslissing tot schuldigverklaring, een administratieve beslissing tot oplegging van een administratieve geldboete of een gerechtelijke veroordeling tot gevolg.<br>
+<br>
+§ 4. De in § 3 vermelde beslissing wordt bij een ter post aangetekende brief aan het opleidingscentrum, de werkgever en, in voorkomend geval, aan de gebruiker ter kennis gegeven. De kennisgeving vermeldt de wijze waarop tegen de beslissing beroep kan worden ingesteld.<br>
+<br>
+De verzending van de kennisgeving van de beslissing doet de strafvordering uit hoofde van de in artikel 2 van dit decreet genoemde regelgeving vervallen.<br>
+<br>
+De betaling van de administratieve geldboete en de eventuele invorderingskosten maakt een einde aan de vordering van de Vlaamse overheid.<br>
+<br>
+§ 5. Het opleidingscentrum, de werkgever en, in voorkomend geval, de gebruiker die de beslissing van de bevoegde ambte-naar betwist, tekent op straffe van verval binnen een termijn van twee maanden na de verzending van de kennisgeving van de beslissing, door middel van de neerlegging van een verzoekschrift overeenstemmend met de bepalingen van artikel 704 van het Gerechtelijk Wetboek beroep aan bij de arbeidsrechtbank. Dit beroep schorst de uitvoering van de beslissing.<br>
+<br>
+§ 6. In geval van beroep tegen de beslissing van de bevoegde ambtenaar kunnen de arbeidsgerechten, wanneer verzachtende omstandigheden aanwezig zijn, het bedrag van de opgelegde administratieve geldboete verminderen tot onder de toepasselijke minimumbedragen, zonder dat de geldboete lager mag zijn dan 40 % van het betreffende minimumbedrag.<br>
+<br>
+§ 7. De Vlaamse regering bepaalt de termijn en de nadere regelen voor de betaling van de administratieve geldboeten.<br>
+<br>
+§ 8. Onverminderd de decreten van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor, respectievelijk de Vlaamse Gemeenschap en het Vlaamse Gewest, en de instellingen die eronder ressorteren zal de Vlaamse regering bij besluit de ambtenaren binnen haar administratie machtigen om de in dit decreet bedoelde onbetwiste en opeisbare administratieve geldboeten en eventuele invorderingskosten te verhalen.<br>
+<br>
+De ambtenaar aangewezen krachtens artikel 15, tweede lid, van dit decreet deelt de beslissing van hemzelf of van het ar-beidsgerecht die in kracht van gewijsde is gegaan mede aan de door deze paragraaf gemachtigde ambtenaren.
 
 ### ART. 18.
 
-Wanneer eenzelfde feit verscheidene inbreuken oplevert of wanneer   verschillende inbreuken die de opeenvolgende en voortgezette uitvoering zijn van   een zelfde bijzonder opzet gelijktijdig worden voorgelegd aan de krachtens   artikel 15, tweede lid, van dit decreet aangewezen ambtenaar of ambtenaren,   worden de bedragen van de administratieve geldboeten samengevoegd, zonder dat   zij evenwel het bedrag van 20.000 euro mogen overschrijden, of het dubbele van   het maximum van de hoogste administratieve geldboete als dit bedrag hoger   ligt.<BR><BR>Wanneer de krachtens artikel 15, tweede lid, van dit decreet   aangewezen ambtenaar vaststelt dat inbreuken die reeds het voorwerp waren van   een in kracht van gewijsde gegane beslissing en andere feiten die bij hem   aanhangig zijn en die, in de veronderstelling dat zij bewezen zouden zijn, aan   die beslissing voorafgaan en samen met de eerste inbreuken de opeenvol-gende en   voortgezette uitvoering zijn van een zelfde bijzonder opzet, houdt hij bij de   straftoemeting rekening met de reeds opgelegde sancties. Indien deze hem voor   een juiste sanctionering van al die inbreuken voldoende lijken, spreekt hij zich   over de schuldvraag uit en verwijst hij in zijn beslissing naar de reeds   opgelegde sancties.
+In geval van samenloop van meerdere inbreuken worden de bedragen van de administratieve geldboeten samengevoegd zonder dat ze evenwel het bedrag van 20.000 euro mogen overschrijden, of het dubbele van het maximum van de hoogste administratieve geldboete als dit bedrag hoger ligt.<br>
+<br>
+Wanneer eenzelfde feit verscheidene inbreuken oplevert of wanneer verschillende inbreuken die gelijktijdig worden voorgelegd aan de bevoegde administratie de opeenvolgende en voortgezette uitvoering zijn van hetzelfde misdadig opzet, wordt alleen de zwaarste administratieve geldboete uitgesproken.<br>
+<br>
+Wanneer de krachtens artikel 15, tweede lid, van dit decreet aangewezen ambtenaar vaststelt dat inbreuken die reeds het voorwerp waren van een in kracht van gewijsde gegane beslissing en andere feiten die bij hem aanhangig zijn en die, in de veronderstelling dat zij bewezen zouden zijn, aan die beslissing voorafgaan en samen met de eerste inbreuken de opeenvol-gende en voortgezette uitvoering zijn van een zelfde bijzonder opzet, houdt hij bij de straftoemeting rekening met de reeds opgelegde sancties. Indien deze hem voor een juiste sanctionering van al die inbreuken voldoende lijken, spreekt hij zich over de schuldvraag uit en verwijst hij in zijn beslissing naar de reeds opgelegde sancties.
 
 ### ART. 18/1.
 
@@ -298,7 +340,7 @@ Onder dezelfde voorwaarden als voorzien voor strafrechtelijke geldboeten,   word
 
 ### ART. 19.
 
-<P>Als binnen vijf jaar, te rekenen vanaf de datum van het proces-verbaal, een   nieuwe inbreuk wordt vastgesteld, worden de bedragen, vermeld in artikel 13 tot   en met 13/3, verdubbeld. Het bedrag, vermeld in artikel 18, mag in dat geval   evenwel 40.000 euro niet overschrijden of het viervoud van de hoogste   administratieve geldboete als dat bedrag hoger is.</P>
+<p>Als binnen vijf jaar, te rekenen vanaf de datum van het proces-verbaal, een nieuwe inbreuk wordt vastgesteld, worden de bedragen, vermeld in artikel 13 tot en met 13/6, verdubbeld. Het bedrag, vermeld in artikel 18, mag in dat geval evenwel 40.000 euro niet overschrijden of het viervoud van de hoogste administratieve geldboete als dat bedrag hoger is.</p>
 
 ### ART. 20.
 
@@ -320,7 +362,17 @@ Artikel 14 van dit decreet is van overeenkomstige toepassing met betrekking tot 
 
 ### ART. 23.
 
-§ 1. De administratieve geldboete wordt opgelegd door de krachtens artikel   15, tweede lid, aangewezen ambtenaar.<BR><BR>§ 2. Met uitzondering van de   tussenkomst van het Openbaar Ministerie en de gevolgen hiervan op de bevoegdheid   van de aangewezen ambtenaar en de verzachtende omstandigheden die niet kunnen   weerhouden worden is artikel 17 van dit decreet van overeenkomstige   toepassing.<BR><BR>§ 3. Artikel 18 is van overeenkomstige toepassing op het   bepalen van de hoogte van de administratieve geldboete.<BR><BR>§ 4. Indien   binnen&nbsp;vijf jaar, te rekenen vanaf de datum van het proces-verbaal,   eenzelfde inbreuk wordt vastgesteld, worden de in artikel 21 genoemde bedragen   verdubbeld.<BR><BR>§ 5. De in § 2 bedoelde beslissing kan niet meer worden   genomen na een jaar te rekenen vanaf het plegen van het feit dat een in artikel   21 bedoelde inbreuk uitmaakt.<BR><BR>§ 6. De daden van onderzoek of vervolging,   met inbegrip van de door artikel 17, § 2, geregelde kennisgeving aan de   werkgever of, in voorkomend geval, aan de gebruiker, om zijn verweermiddelen   naar voren te brengen, verricht binnen de in § 5 gestelde termijn, stuiten de   loop ervan. Met die daden begint een nieuwe termijn van gelijke duur te lopen,   zelfs ten aanzien van personen die niet het voorwerp uitmaakten van de   kennisgeving, noch bij de daden van onderzoek betrokken waren.
+§ 1. De administratieve geldboete wordt opgelegd door de krachtens artikel 15, tweede lid, aangewezen ambtenaar.<br>
+<br>
+§ 2. Met uitzondering van de tussenkomst van het Openbaar Ministerie en de gevolgen hiervan op de bevoegdheid van de aangewezen ambtenaar en de verzachtende omstandigheden die niet kunnen weerhouden worden is artikel 17 van dit decreet van overeenkomstige toepassing.<br>
+<br>
+§ 3. Artikel 18 is van overeenkomstige toepassing op het bepalen van de hoogte van de administratieve geldboete.<br>
+<br>
+§ 4. Indien binnen&nbsp;vijf jaar, te rekenen vanaf de datum van het proces-verbaal, eenzelfde inbreuk wordt vastgesteld, worden de in artikel 21 en 21/1&nbsp;genoemde bedragen verdubbeld.<br>
+<br>
+§ 5. De in § 2 bedoelde beslissing kan niet meer worden genomen na een jaar te rekenen vanaf het plegen van het feit dat een in artikel 21 bedoelde inbreuk uitmaakt.<br>
+<br>
+§ 6. De daden van onderzoek of vervolging, met inbegrip van de door artikel 17, § 2, geregelde kennisgeving aan de werkgever of, in voorkomend geval, aan de gebruiker, om zijn verweermiddelen naar voren te brengen, verricht binnen de in § 5 gestelde termijn, stuiten de loop ervan. Met die daden begint een nieuwe termijn van gelijke duur te lopen, zelfs ten aanzien van personen die niet het voorwerp uitmaakten van de kennisgeving, noch bij de daden van onderzoek betrokken waren.
 
 ## HOOFDSTUK IV STRAFBEPALINGEN
 
