@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028508,
+  "title": "Decreet van 2017-07-07 houdende instemming met het akkoord tussen het Koninkrijk België en de Staten van Guernsey inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te Brussel op 24 april 2014 en te Saint Peter Port op 7 mei 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028508/VolledigDocument?datum=2017-08-11",
+  "source_sha256": "df24cc5e6dbb64e10f3f69fe66aeff8f00011b82f0943ab8f2fedbad5feafe22",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028508&param=informatie",
+  "as_of": "2017-08-11",
+  "made": "2017-07-07",
+  "gazette": "2017-08-01",
+  "numac": 2017030873,
+  "document_start": "2017-08-11",
+  "document_end": null,
+  "in_force": "2017-08-11",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
