@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028539,
+  "title": "Besluit van de Vlaamse Regering van 2017-07-07 tot wijziging van het besluit van de Vlaamse Regering van 14 oktober 2016 houdende de uitvoering van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028539/VolledigDocument?datum=2017-08-11",
+  "source_sha256": "74e403e8a4d5275e13aae0f4e8aa0deec786f1ac0c2697b48aa91e3f4367f34a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028539&param=informatie",
+  "as_of": "2017-08-11",
+  "made": "2017-07-07",
+  "gazette": "2017-08-10",
+  "numac": 2017020585,
+  "document_start": "2017-08-11",
+  "document_end": null,
+  "in_force": "2017-08-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
