@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028514,
+  "title": "Besluit van de Vlaamse Regering van 2017-07-07 betreffende afwijking van de rationalisatienorm van een centrum voor volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028514/VolledigDocument?datum=2017-08-13",
+  "source_sha256": "2738001d68e1ace6a8aa8eb3688c5989db6ae8061fcec7e2c0dcc4e32239c11d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028514&param=informatie",
+  "as_of": "2017-08-13",
+  "made": "2017-07-07",
+  "gazette": "2017-08-03",
+  "numac": 2017020513,
+  "document_start": "2017-08-13",
+  "document_end": null,
+  "in_force": "2017-08-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-08-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
