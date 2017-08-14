@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028516,
+  "title": "Decreet van 2017-07-07 houdende instemming met bepaalde wijzigingen bij het Internationaal Verdrag van 1973 ter voorkoming van verontreiniging door schepen, opgemaakt te Londen op 2 november 1973 (MARPOL), aangenomen op basis van artikel 16 van dit verdrag",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028516/VolledigDocument?datum=2017-08-14",
+  "source_sha256": "a19cc1ef1188c6fa2bbff6eb088688ccda6c3b1cc2e8f915f7844e461f015739",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028516&param=informatie",
+  "as_of": "2017-08-14",
+  "made": "2017-07-07",
+  "gazette": "2017-08-04",
+  "numac": 2017030799,
+  "document_start": "2017-08-14",
+  "document_end": null,
+  "in_force": "2017-08-14",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
