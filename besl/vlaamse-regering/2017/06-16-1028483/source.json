@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028483,
+  "title": "Besluit van de Vlaamse Regering van 2017-06-16 houdende de uitvoering van het decreet van 5 mei 2017 houdende de ondersteuning van bovenlokale sportinfrastructuur en topsportinfrastructuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028483/VolledigDocument?datum=2017-08-15",
+  "source_sha256": "f5183f7791aa55d63f6fe4641ab0013cc4177c660ed260c174efb4510ef7c422",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028483&param=informatie",
+  "as_of": "2017-08-15",
+  "made": "2017-06-16",
+  "gazette": "2017-07-20",
+  "numac": 2017040388,
+  "document_start": "2017-08-15",
+  "document_end": null,
+  "in_force": "2017-08-15",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2017-08-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
