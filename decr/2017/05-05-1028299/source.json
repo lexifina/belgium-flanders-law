@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028299,
+  "title": "Decreet van 2017-05-05 houdende de ondersteuning van bovenlokale sportinfrastructuur en topsportinfrastructuur",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028299/VolledigDocument?datum=2017-08-15",
+  "source_sha256": "f6319ebbaf2f9ae47eff1c6ee63a614d8ead68f9e5af27e53f723dcad23aa8e7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028299&param=informatie",
+  "as_of": "2017-08-15",
+  "made": "2017-05-05",
+  "gazette": "2017-06-08",
+  "numac": 2017012299,
+  "document_start": "2017-08-15",
+  "document_end": null,
+  "in_force": "2017-08-15",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2017-08-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
