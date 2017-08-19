@@ -144,7 +144,7 @@ De zelfstandige adoptant bezorgt de Vlaamse adoptieambtenaar, binnen vier   maan
 
 ### ART. 30.
 
-Kind en Gezin erkent de adoptiediensten, overeenkomstig artikel 16 van het   decreet van 20 januari 2012, voor een hernieuwbare periode van minimaal twee en   maximaal vijf jaar, volgens de procedures, vermeld in hoofdstuk   8.<BR>
+Kind en Gezin erkent&nbsp;maximaal drie&nbsp;adoptiediensten, overeenkomstig artikel 16 van het decreet van 20 januari 2012, voor een hernieuwbare periode van minimaal twee en maximaal vijf jaar, volgens de procedures, vermeld in hoofdstuk 8.
 
 ### ART. 31.
 
@@ -291,7 +291,13 @@ De aanvraag tot erkenning als adoptiedienst, opgesteld volgens de sjabloon die K
 
 ### ART. 55.
 
-<P>Kind en Gezin neemt op basis van de gegevens, vermeld in artikel 52, een   gemotiveerd voornemen tot erkenning of een gemotiveerd voornemen tot weigering   van de erkenning.<BR></P>  <P>Kind en Gezin brengt de aanvrager met een aangetekende brief op de hoogte van   de voorgenomen beslissing. Die kennisgeving vermeldt minstens :<BR>1° de   identiteit en contactgegevens van de aanvrager;<BR>2° de voorgenomen   beslissing;<BR>3° de motivering van de voorgenomen beslissing;<BR>4° de   bezwaarprocedure.<BR></P>
+<p>Kind en Gezin neemt op basis van de programmatie, vermeld in artikel 30 en de gegevens, vermeld in artikel 52, een gemotiveerd voornemen tot erkenning of een gemotiveerd voornemen tot weigering van de erkenning.</p>
+
+<p>Kind en Gezin brengt de aanvrager met een aangetekende brief op de hoogte van de voorgenomen beslissing. Die kennisgeving vermeldt minstens :<br>
+1° de identiteit en contactgegevens van de aanvrager;<br>
+2° de voorgenomen beslissing;<br>
+3° de motivering van de voorgenomen beslissing;<br>
+4° de bezwaarprocedure.</p>
 
 ### ART. 56.
 
