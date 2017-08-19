@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028526,
+  "title": "Besluit van de Vlaamse Regering van 2017-07-14 tot wijziging van het besluit van de Vlaamse Regering van 30 januari 2015 houdende de vaststelling van de wijze van communicatie in het kader van het bestuurlijk toezicht op de lokale overheid, de provincieoverheid en de intergemeentelijke overheid, wat betreft de hulpverleningszones",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028526/VolledigDocument?datum=2017-08-19",
+  "source_sha256": "fa7b944b5949d59055a5cc360a3beaa3bf6587ec9244ebcabd03103160879525",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028526&param=informatie",
+  "as_of": "2017-08-19",
+  "made": "2017-07-14",
+  "gazette": "2017-08-09",
+  "numac": 2017020558,
+  "document_start": "2017-08-19",
+  "document_end": null,
+  "in_force": "2017-08-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-08-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
