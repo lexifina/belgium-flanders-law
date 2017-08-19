@@ -2,16 +2,16 @@
   "codex_id": 1025050,
   "title": "Besluit van de Vlaamse Regering van 2015-01-30 houdende de vaststelling van de wijze van communicatie in het kader van het bestuurlijk toezicht op de lokale overheid, de provincieoverheid en de intergemeentelijke overheid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025050/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "891913d6352d692657c4a8eb6fa93d9071eb9b6d3fc1e7f89947f18a515156ba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025050/VolledigDocument?datum=2017-08-19",
+  "source_sha256": "fcadd42d960753deb3166bc037cbbc8e749912f9ba9dd6fa514c7fb8b72df7e8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025050&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2017-08-19",
   "made": "2015-01-30",
   "gazette": "2015-03-03",
   "numac": 2015035229,
   "document_start": "2015-01-01",
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2017-08-19",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-08-19; future article versions excluded; article text as the API gives it"
 }
