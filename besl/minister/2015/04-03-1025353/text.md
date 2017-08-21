@@ -1391,11 +1391,11 @@ Dit   besluit heeft uitwerking met ingang van 1 januari 2015.
 
 ### BIJLAGE 12
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/01/09_1.pdf#page=244">http://www.ejustice.just.fgov.be/mopdf/2017/01/09_1.pdf#page=244</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/08/11_2.pdf#page=83">http://www.ejustice.just.fgov.be/mopdf/2017/08/11_2.pdf#page=83</a>
 
 ### BIJLAGE 13
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/01/09_1.pdf#page=247">http://www.ejustice.just.fgov.be/mopdf/2017/01/09_1.pdf#page=247</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/08/11_2.pdf#page=85">http://www.ejustice.just.fgov.be/mopdf/2017/08/11_2.pdf#page=85</a>
 
 ### BIJLAGE 14
 
