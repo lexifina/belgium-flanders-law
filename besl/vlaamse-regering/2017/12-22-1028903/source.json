@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028903,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-22 tot wijziging van artikel 3 van het besluit van de Vlaamse Regering van 23 september 2016 houdende eenmalige subsidiëring van de digitale behandeling van de omgevingsvergunning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028903/VolledigDocument?datum=2017-08-21",
+  "source_sha256": "7db7f9844b215ef2a8716190e355eb04edbe0fdb39dba050fdf1d3c06b1f5094",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028903&param=informatie",
+  "as_of": "2017-08-21",
+  "made": "2017-12-22",
+  "gazette": "2018-01-22",
+  "numac": 2018010114,
+  "document_start": "2017-08-21",
+  "document_end": null,
+  "in_force": "2017-08-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-08-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
