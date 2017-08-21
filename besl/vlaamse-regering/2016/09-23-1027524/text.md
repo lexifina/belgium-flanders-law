@@ -42,19 +42,11 @@ Het departement betaalt&nbsp;die subsidie uiterlijk uit op 1 september 2017 als 
 
 In dit artikel wordt verstaan onder uitwisselingsplatform omgevingsvergunning: het digitale platform, vermeld in artikel 147, eerste lid, van het besluit van 27 november 2015.<br>
 <br>
-Binnen de perken van de daarvoor bestemde kredieten op de begroting van de Vlaamse Gemeenschap wordt een subsidie toegekend aan de Vlaamse gemeenten en de Vlaamse provincies als tegemoetkoming voor de aansluiting van het gemeentelijk of provinciaal dossiersysteem op het uitwisselingsplatform omgevingsvergunning of de aanpassing van dat systeem aan de regeling rond omgevingsvergunning.<br>
+Binnen de perken van de daarvoor bestemde kredieten op de begroting van de Vlaamse Gemeenschap wordt een subsidie toegekend aan de Vlaamse gemeenten en de Vlaamse provincies als tegemoetkoming voor de digitale werking in het kader van de omgevingsvergunning.<br>
 <br>
-De subsidie, vermeld in het tweede lid, bedraagt:<br>
-1° 4500 euro (vierduizend vijfhonderd euro) als de Vlaamse gemeente of de Vlaamse provincie op 23 februari 2017 al op het uitwisselingsplatform digitale bouwaanvraag is aangesloten en gebruikmaakt van het uitwisselingsplatform omgevingsvergunning;<br>
-2° 4500 euro (vierduizend vijfhonderd euro) als de Vlaamse gemeente of de Vlaamse provincie op het uitwisselingsplatform omgevingsvergunning aansluit in de periode van 23 februari 2017 tot en met 22 augustus 2017;<br>
-3° 3000 euro (drieduizend euro) als de Vlaamse gemeente of de Vlaamse provincie op het uitwisselingsplatform omgevingsvergunning aansluit in de periode van 23 augustus 2017 tot en met 22 februari 2018.<br>
+De subsidie, vermeld in het tweede lid, bedraagt 4500 euro.<br>
 <br>
-Het departement betaalt de subsidie, vermeld in het derde lid, 1°, uiterlijk uit op 1 september 2017 als de gemeente of de provincie vóór 1 juni 2017 de departementen heeft laten weten op welk rekeningnummer de subsidie uitbetaald kan worden.<br>
-<br>
-Het departement betaalt de subsidie, vermeld in het derde lid, 2° en 3°, uiterlijk uit in de vierde maand van 2018. Het subsidiebedrag wordt overgeschreven op het rekeningnummer dat de gemeente of de provincie aan het departement heeft bezorgd, conform artikel 2, derde lid.<br>
-<br>
-De subsidies, vermeld in het derde lid, worden uitbetaald na de vaststelling van een werkende connectie tussen het betreffende dossiersysteem en het uitwisselingsplatform omgevingsvergunning.<br>
-&nbsp;
+Het departement betaalt de subsidie, vermeld in het derde lid, uiterlijk op 31 december 2017 uit aan de provincies en gemeenten die voor 1 juni 2017 zijn ingestapt in de omgevingsvergunning en uiterlijk op 1 juli 2018 aan alle andere gemeenten. Het subsidiebedrag wordt overgeschreven op het rekeningnummer dat de gemeente of de provincie aan het departement heeft bezorgd.
 
 ### ART 4.
 
