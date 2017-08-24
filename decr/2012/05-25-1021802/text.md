@@ -16,7 +16,17 @@ Dit decreet is van toepassing op de organisatie van de verkiezingen, vermeld in 
 
 ### ART. 4.
 
-§ 1. Het is niet toegelaten bij de lokale en provinciale verkiezingen een ander digitaal stemsysteem te gebruiken dan het digitale stemsysteem dat vastgesteld is door de Vlaamse Regering.<br /><br />De Vlaamse Regering wijst de gemeenten aan die van het digitale stemsysteem, vermeld in het eerste lid, kunnen gebruikmaken bij de organisatie van de verkiezing van de organen, vermeld in artikel 3 van het Lokaal en Provinciaal Kiesdecreet.<br /><br />§ 2. De Vlaamse Regering stelt de software ter beschikking van de stembureaus die gebruikmaken van het digitale stemsysteem, de gemeentelijke hoofdbureaus, de stadsdistrictshoofdbureaus, de provinciedistrictshoofdbureaus en de provinciale hoofdbureaus.<br /><br />De Vlaamse Regering stelt vast dat de digitale systemen en processen voor het kandidatenbeheer, voor de digitale stemming, voor het verwerken van de stemmen en voor de zetelberekening de integriteit van de gegevens en het geheim van de stemming waarborgen. Ze wint daarvoor het advies in van het orgaan dat ze erkend heeft.<br /><br />§ 3. De Vlaamse Regering maakt in de week volgend op de dag van de verkiezingen de broncode van de stemsoftware bekend.
+§ 1. Het is niet toegelaten bij de lokale en provinciale verkiezingen een ander digitaal stemsysteem te gebruiken dan het digitale stemsysteem dat vastgesteld is door de Vlaamse Regering.<br>
+<br>
+De Vlaamse Regering wijst de gemeenten aan die van het digitale stemsysteem, vermeld in het eerste lid, kunnen gebruikmaken bij de organisatie van de verkiezing van de organen, vermeld in artikel 3 van het Lokaal en Provinciaal Kiesdecreet.<br>
+<br>
+De Vlaamse Regering wijst de gemeenten aan die een audiomodule kunnen gebruiken tijdens de stemming voor de verkiezing van de organen, vermeld in artikel 3 van het Lokaal en Provinciaal Kiesdecreet.<br>
+<br>
+§ 2. De Vlaamse Regering stelt de software ter beschikking van de stembureaus die gebruikmaken van het digitale stemsysteem, de gemeentelijke hoofdbureaus, de stadsdistrictshoofdbureaus, de provinciedistrictshoofdbureaus en de provinciale hoofdbureaus.<br>
+<br>
+De Vlaamse Regering stelt vast dat de digitale systemen en processen voor het kandidatenbeheer, voor de digitale stemming, voor het verwerken van de stemmen en voor de zetelberekening de integriteit van de gegevens en het geheim van de stemming waarborgen. Ze wint daarvoor het advies in van het orgaan dat ze erkend heeft.<br>
+<br>
+§ 3. De Vlaamse Regering maakt in de week volgend op de dag van de verkiezingen de broncode van de stemsoftware bekend.
 
 ### ART. 5.
 
@@ -26,7 +36,7 @@ Dit decreet wordt aangehaald als : het Digitaal Kiesdecreet van 25 mei 2012.
 
 ### ART. 6.
 
-De kiezers vormen één stemafdeling als er niet meer dan 900 kiezers zijn. Als er meer kiezers zijn, worden ze door het college van burgemeester en schepenen ingedeeld in stemafdelingen van ten minste 150 en ten hoogste 900 kiezers.<br /><br />De Vlaamse Regering kan beslissen af te wijken van de bepalingen in het eerste lid.<br />
+...
 
 ### ART. 7.
 
@@ -44,6 +54,8 @@ De gegevens, vermeld in het eerste lid, worden op digitale wijze en ondertekend 
 <br>
 § 2. De Vlaamse Regering legt de afdrukken waarop de volgnummers en de lijstnamen van de voorgedragen lijsten voorkomen, en de afdrukken waarop de namen van de kandidaten voorkomen, zoals ze op het beeldscherm van de stemcomputers zullen verschijnen, ter goedkeuring voor aan de voorzitters van de hoofdbureaus, vermeld in paragraaf 1. Elke voorzitter brengt, indien nodig, de verbeteringen aan op de documenten, valideert de documenten door ze te ondertekenen en stuurt de gevalideerde documenten terug naar de Vlaamse Regering.<br>
 <br>
+Voor de gemeenten, vermeld in artikel 4, § 1, derde lid, legt de Vlaamse Regering de auditieve versie van de voorgedragen lijsten met de namen van de kandidaten zoals ze door de kiezer zullen gehoord worden, ter goedkeuring voor aan de voorzitters van de hoofdbureaus, vermeld in paragraaf 1. Elke voorzitter bezorgt zijn eventuele opmerkingen schriftelijk aan de Vlaamse Regering.<br>
+<br>
 § 3. De Vlaamse Regering zorgt ervoor dat, uiterlijk de derde dag vóór de dag van de verkiezingen, de gegevensdragers met de software en met de kandidatenlijsten in verzegelde enveloppe, tegen ontvangstbewijs, overhandigd worden aan de voorzitters van de gemeentelijke hoofdbureaus of, in voorkomend geval, de stadsdistrictshoofdbureaus.<br>
 <br>
 Per stembureau worden de nodige veiligheidselementen voor het gebruik van de gegevensdragers in een aparte verzegelde enveloppe, tegen ontvangstbewijs, overhandigd aan de voorzitters van de hoofdbureaus, vermeld in het eerste lid.<br>
@@ -55,15 +67,15 @@ Op zijn vroegst de dag vóór de dag van de verkiezingen overhandigt de voorzitt
 Het digitale stemsysteem omvat per stembureau :<br>
 1° in afwijking van artikel 124 van het Lokaal en Provinciaal Kiesdecreet, één digitale stembus met een scanner;<br>
 2° een of meer stemcomputers met geïntegreerd aanraakscherm en geïntegreerde printer;<br>
-3° een computer voor de voorzitter met een schrijfeenheid voor chipkaarten en een printer;<br>
-4° een handscanner voor de visualisatie van de barcode door de kiezer;<br>
+3° een computer voor de voorzitter met een schrijfeenheid voor chipkaarten;<br>
+4° ...;<br>
 5° chipkaarten.<br>
 <br>
-Elk stemhokje van het stemlokaal is uitgerust met een stemcomputer. In elk stembureau is één stemhokje uitgerust met een stemcomputer met een handscanner.<br>
+Elk stemhokje van het stemlokaal is uitgerust met een stemcomputer. In elk stemlokaal van de gemeenten, vermeld in artikel 4, § 1, derde lid, is een stemhokje uitgerust met een audiomodule, waarvan de kiezer kan gebruikmaken tijdens het stemproces.<br>
 <br>
 De Vlaamse Regering bepaalt de regels volgens dewelke de kandidaten van een kandidatenlijst op het beeldscherm van de stemcomputer worden getoond.<br>
 <br>
-In afwijking van artikel 123, § 2, van het Lokaal en Provinciaal Kiesdecreet is er ten minste één stemhokje per honderdtachtig kiezers. De Vlaamse Regering kan beslissen daarvan af te wijken.<br>
+In afwijking van artikel 123, § 2, van het Lokaal en Provinciaal Kiesdecreet is er ten minste één stemhokje per&nbsp;tweehonderd kiezers.<br>
 <br>
 In elk stemlokaal worden alle kandidatenlijsten voor elk van de verkiezingen opgehangen op een daarvoor bestemd bord. Die lijsten worden ook opgehangen in elk stemhokje.<br>
 <br>
@@ -71,7 +83,23 @@ Met behoud van de toepassing van artikel 125 van het Lokaal en Provinciaal Kiesd
 
 ### ART. 11.
 
-§ 1. Het gemeentebestuur zorgt voor het onderhoud en de bewaring van de apparatuur. Het beheert die goederen als een goede huisvader. Het laat alle apparatuur die buiten gebruik is, zo spoedig mogelijk herstellen of vervangen. <br /><br />De kosten daarvan zijn ten laste van de gemeente. De gemeente sluit daarvoor een onderhoudscontract.<br /><br />De kosten voor technische bijstand op de dag van de lokale en provinciale verkiezingen zijn ten laste van de Vlaamse overheid.<br /><br />§ 2. De verkiezingssoftware, de veiligheidselementen en de gegevensdragers worden voor de lokale en provinciale verkiezingen kosteloos verstrekt door de Vlaamse overheid.<br /><br />§ 3. De gemeenten mogen de stemapparatuur die eigendom is van de Vlaamse overheid, kosteloos gebruiken voor verkiezingen georganiseerd door de federale overheid.
+§ 1. Het gemeentebestuur zorgt voor het onderhoud en de bewaring van de apparatuur. Het beheert die goederen als een goede huisvader. Het laat alle apparatuur die buiten gebruik is, zo spoedig mogelijk herstellen of vervangen.<br>
+<br>
+De kosten daarvan zijn ten laste van de gemeente. De gemeente sluit daarvoor een onderhoudscontract.<br>
+<br>
+De kosten voor technische bijstand op de dag van de lokale en provinciale verkiezingen zijn ten laste van de Vlaamse overheid.<br>
+<br>
+§ 2. De verkiezingssoftware, de veiligheidselementen en de gegevensdragers worden voor de lokale en provinciale verkiezingen kosteloos verstrekt door de Vlaamse overheid.<br>
+<br>
+§ 3. De gemeenten mogen de stemapparatuur die eigendom is van de Vlaamse overheid, kosteloos gebruiken voor verkiezingen georganiseerd door de federale overheid.<br>
+<br>
+§ 4. Het gemeentebestuur stelt een coördinator aan die zorgt voor:<br>
+1° de organisatie van de opleiding van de voorzitters van de stembureaus;<br>
+2° de uitvoering van de verplichte technische testen van de apparatuur;<br>
+3° de opstelling van de apparatuur in de stembureaus;<br>
+4° de logistieke verbruiksgoederen die nodig zijn op de dag van de verkiezingen;<br>
+5° hulp bij het gebruik van de apparatuur door de bureauleden;<br>
+6° de coördinatie van het melden en het oplossen van technische problemen vóór en op de verkiezingsdag.
 
 ### ART. 12.
 
@@ -87,7 +115,7 @@ In afwijking van artikel 126, eerste lid, van het Lokaal en Provinciaal Kiesdecr
 
 ### ART. 14.
 
-In aanwezigheid van de leden van het stembureau gaat de voorzitter vóór de opening van het stembureau na of de teller van de uitgebrachte stemmen op nul staat en of de stembus leeg is, en hij verzegelt de stembus. Bij wijze van test brengen de voorzitter en eventueel een of meerdere leden van het stembureau stemmen uit die enkel dienen om na te gaan of de apparatuur correct functioneert. De afgedrukte stembiljetten met de aldus uitgebrachte stemmen worden niet in de stembus gedeponeerd.<br />
+In aanwezigheid van de leden van het stembureau gaat de voorzitter vóór de opening van het stembureau na of de teller van de uitgebrachte stemmen op nul staat en of de stembus leeg is, en hij verzegelt de stembus.
 
 ### ART. 15.
 
@@ -99,15 +127,28 @@ In afwijking van artikel 134, eerste lid, van het Lokaal en Provinciaal Kiesdecr
 
 ### ART. 17.
 
-§ 1. Als de kiezer voor alle verkiezingen waarvoor hij opgeroepen is, zijn stem heeft uitgebracht, drukt de stemcomputer een papieren stembiljet af waarop de uitgebrachte stem (of de uitgebrachte stemmen) in tekst en in een tweedimensionale barcode is afgedrukt. De kiezer scheurt het stembiljet los van de stemcomputer en verwijdert de chipkaart. De kiezer kan zijn stem op het stembiljet visueel verifiëren en vouwt het biljet in twee gelijke delen met de bedrukte zijde naar binnen. Noch op de stemcomputer noch op de chipkaart worden gegevens over de stem bewaard. De kiezer heeft bovendien de mogelijkheid de inhoud van de barcode op het stembiljet te visualiseren volgens de proce dure, vermeld in artikel 18.<br /><br />In afwijking van artikel 138, § 3, eerste en tweede lid, van het Lokaal en Provinciaal Kiesdecreet, overhandigt de kiezer de chipkaart aan de voorzitter van het stembureau of aan de door hem aangewezen bijzitter en scant de barcode van het stembiljet. Nadat de voorzitter of de door hem aangewezen bijzitter heeft vastgesteld dat de kiezer de stem effectief heeft ingescand, vouwt de kiezer het stembiljet opnieuw dicht met de bedrukte zijde naar binnen en overhandigt het aan de bijzitter, die het stembiljet in de stembus deponeert.<br /><br />§ 2. In afwijking van artikel 139 van het Lokaal en Provinciaal Kiesdecreet wordt het stembiljet geannuleerd : <br />1° als de kiezer zijn stembiljet zo vouwt dat de stem die hij heeft uitgebracht, bekendgemaakt wordt;<br />2° als de kiezer onvrijwillig het stembiljet heeft beschadigd;<br />3° als de visualisatie, vermeld in artikel 18, onmogelijk is;<br />4° op verzoek van de kiezer;<br />5° als de barcode niet gelezen kan worden door de digitale stembus.<br /><br />In dat geval maakt de voorzitter het stembiljet onmiddellijk onbruikbaar en krijgt de kiezer een andere chipkaart waarmee hij opnieuw zijn stem kan uitbrengen overeenkomstig artikel 16.
+§ 1. Als de kiezer voor alle verkiezingen waarvoor hij opgeroepen is, zijn stem heeft uitgebracht, drukt de stemcomputer een papieren stembiljet af waarop de uitgebrachte stem (of de uitgebrachte stemmen) in tekst en in een tweedimensionale barcode is afgedrukt. De kiezer scheurt het stembiljet los van de stemcomputer en verwijdert de chipkaart. De kiezer kan zijn stem op het stembiljet visueel verifiëren en vouwt het biljet in twee gelijke delen met de bedrukte zijde naar binnen. Noch op de stemcomputer noch op de chipkaart worden gegevens over de stem bewaard.<br>
+<br>
+In afwijking van artikel 138, § 3, eerste en tweede lid, van het Lokaal en Provinciaal Kiesdecreet, overhandigt de kiezer de chipkaart aan de voorzitter van het stembureau of aan de door hem aangewezen bijzitter en scant de barcode van het stembiljet. Nadat de voorzitter of de door hem aangewezen bijzitter heeft vastgesteld dat de kiezer de barcode effectief heeft ingescand, vouwt de kiezer het stembiljet opnieuw dicht met de bedrukte zijde naar binnen en deponeert hij het stembiljet in de stembus.<br>
+<br>
+§ 2. In afwijking van artikel 139 van het Lokaal en Provinciaal Kiesdecreet wordt het stembiljet geannuleerd :<br>
+1° als de kiezer zijn stembiljet zo vouwt dat de stem die hij heeft uitgebracht, bekendgemaakt wordt;<br>
+2° als de kiezer&nbsp;het stembiljet heeft beschadigd;<br>
+3° ...;<br>
+4° op verzoek van de kiezer;<br>
+5° als de barcode niet gelezen kan worden door de digitale stembus.<br>
+<br>
+In dat geval maakt de voorzitter het stembiljet onmiddellijk onbruikbaar en krijgt de kiezer een andere chipkaart waarmee hij opnieuw zijn stem kan uitbrengen overeenkomstig artikel 16.
 
 ### ART. 18.
 
-Nadat de kiezer voor alle verkiezingen waarvoor hij opgeroepen is, heeft gestemd en het stembiljet is afgedrukt door de stemcomputer, heeft hij de mogelijkheid op de stemcomputer met de handscanner zijn uitgebrachte stem te visualiseren door de barcode te scannen. Indien de kiezer vaststelt dat de gescande barcode niet overeenstemt met zijn uitgebrachte stem, kan hij overeenkomstig artikel 17, § 2, eerste lid, 4°, de voorzitter van het stembureau verzoeken om opnieuw zijn stem uit te brengen.
+Voor de gemeenten, vermeld in artikel 4, § 1, derde lid, kan de kiezer aan de voorzitter van het stembureau vragen om gebruik te maken van de audiomodule.
 
 ### ART. 19.
 
-Het scannen van het afgedrukte stembiljet door de digitale stembus genereert de stem van de kiezer in digitale vorm. Het afgedrukte stembiljet zelf is louter bestemd voor controle en auditdoeleinden.<br /><br />Alleen bij een eventuele hertelling kan de voorzitter van het bevoegde hoofdbureau beslissen om stembiljetten waarvan de tekst van de stem onleesbaar is of waarvan de overeenstemming tussen de tekst en de barcode niet meer te verifiëren is, te weren. Het hoofdbureau maakt daarvan melding in het proces-verbaal.
+Het scannen van het afgedrukte stembiljet door de digitale stembus genereert de stem van de kiezer in digitale vorm. Het afgedrukte stembiljet zelf is louter bestemd voor controle en auditdoeleinden.<br>
+<br>
+Alleen bij een eventuele hertelling, conform artikel 24, derde lid,&nbsp;&nbsp;kan de voorzitter van het bevoegde hoofdbureau beslissen om stembiljetten waarvan de tekst van de stem onleesbaar is of waarvan de overeenstemming tussen de tekst en de barcode niet meer te verifiëren is, te weren. Het hoofdbureau maakt daarvan melding in het proces-verbaal.
 
 ### ART. 20.
 
@@ -117,7 +158,9 @@ De kiezer die moeilijkheden ondervindt bij het uitbrengen van zijn stem, kan zic
 
 ### ART. 21.
 
-In afwijking van artikel 142 en 144 van het Lokaal en Provinciaal Kiesdecreet schakelt de voorzitter van het stembureau na afloop van de stemming de stemcomputers uit, maakt het proces-verbaal op met behulp van de voorzitterscomputer, drukt het proces-verbaal af en sluit de toepassing af.<br /><br />Het proces-verbaal bevat het aantal geregistreerde stemmen per verkiezing. Daarnaast worden in voorkomend geval ook de moeilijkheden en incidenten vermeld die zich tijdens de stemverrichtingen hebben voorgedaan.<br />
+In afwijking van artikel 142 en 144 van het Lokaal en Provinciaal Kiesdecreet schakelt de voorzitter van het stembureau na afloop van de stemming de stemcomputers uit, maakt het proces-verbaal op en sluit de toepassing af.<br>
+<br>
+Het proces-verbaal bevat het aantal geregistreerde stemmen per verkiezing. Daarnaast worden in voorkomend geval ook de moeilijkheden en incidenten vermeld die zich tijdens de stemverrichtingen hebben voorgedaan.
 
 ### ART. 22.
 
@@ -125,7 +168,17 @@ De stemgegevens van het stembureau zijn altijd op twee originele, met de compute
 
 ### ART. 23.
 
-§ 1. De verzegelde stembussen worden onmiddellijk na de stemming geopend. In afwijking van artikel 145, eerste en tweede lid, van het Lokaal en Provinciaal Kiesdecreet worden de stembiljetten in de daarvoor bestemde enveloppe gestoken.<br /><br />De overeenkomstig artikel 17, § 2, geannuleerde stembiljetten enerzijds, en de stembiljetten met de stemmen, bij wijze van test uitgebracht door de voorzitter of de leden van het stembureau vóór de opening van het stembureau voor de kiezers anderzijds, worden in aparte verzegelde enveloppen gestoken.<br /><br />De enveloppen, vermeld in het eerste en tweede lid, worden samen met het procesverbaal, vermeld in artikel 21, en de gegevensdragers, vermeld in artikel 22, tegen ontvangstbewijs overhandigd aan de voorzitter van het gemeentelijk hoofdbureau of, in voorkomend geval, van het stadsdistrictshoofdbureau.<br /><br />§ 2. De voorzitter van het stembureau bezorgt, tegen ontvangstbewijs, de volgende stukken aan de voorzitter van het gemeentelijk hoofdbureau of, in voorkomend geval, het stadsdistrictshoofdbureau : <br />1° de verzegelde enveloppe met de twee exemplaren van de aanstiplijsten;<br />2° de aanstellingsbrieven van de getuigen, vermeld in artikel 116 van het Lokaal en Provinciaal Kiesdecreet;<br />3° de volmachten en de bijbehorende attesten, vermeld in artikel 56, § 2, van het Lokaal en Provinciaal Kiesdecreet;<br />4° de documenten die de voorzitter heeft ontvangen van de kiezers die niet op de aanstiplijsten stonden, maar die toch hebben gestemd overeenkomstig artikel 137, § 3, van het Lokaal en Provinciaal Kiesdecreet.
+§ 1. De verzegelde stembussen worden onmiddellijk na de stemming geopend. In afwijking van artikel 145, eerste en tweede lid, van het Lokaal en Provinciaal Kiesdecreet worden de stembiljetten in de daarvoor bestemde enveloppe gestoken.<br>
+<br>
+De stembiljetten die conform artikel 17, § 2, werden geannuleerd, worden in een aparte verzegelde enveloppe gestopt.<br>
+<br>
+De enveloppen, vermeld in het eerste en tweede lid, worden samen met het procesverbaal, vermeld in artikel 21, en de gegevensdragers, vermeld in artikel 22, tegen ontvangstbewijs overhandigd aan de voorzitter van het gemeentelijk hoofdbureau of, in voorkomend geval, van het stadsdistrictshoofdbureau.<br>
+<br>
+§ 2. De voorzitter van het stembureau bezorgt, tegen ontvangstbewijs, de volgende stukken aan de voorzitter van het gemeentelijk hoofdbureau of, in voorkomend geval, het stadsdistrictshoofdbureau :<br>
+1° de verzegelde enveloppe met de twee exemplaren van de aanstiplijsten;<br>
+2° de aanstellingsbrieven van de getuigen, vermeld in artikel 116 van het Lokaal en Provinciaal Kiesdecreet;<br>
+3° de volmachten en de bijbehorende attesten, vermeld in artikel 56, § 2, van het Lokaal en Provinciaal Kiesdecreet;<br>
+4° de documenten die de voorzitter heeft ontvangen van de kiezers die niet op de aanstiplijsten stonden, maar die toch hebben gestemd overeenkomstig artikel 137, § 3, van het Lokaal en Provinciaal Kiesdecreet.
 
 ### ART. 24.
 
@@ -149,7 +202,13 @@ Voor de uitvoering van hun opdrachten, omschreven in het Lokaal en Provinciaal K
 
 ### ART. 28.
 
-De volgende artikelen van het Lokaal en Provinciaal Kiesdecreet zijn niet van toepassing op verkiezingen waarbij een digitaal stemsysteem wordt gebruikt : <br />1° artikel 42, tweede, derde, vierde en vijfde lid;<br />2° artikel 43;<br />3° artikel 44, § 1, tweede lid, 1° en 3°;<br />4° artikelen 45, 46 en 47;<br />5° artikelen 121 en 122;<br />6° artikelen 150 tot en met 160.<br />
+De volgende artikelen van het Lokaal en Provinciaal Kiesdecreet zijn niet van toepassing op verkiezingen waarbij een digitaal stemsysteem wordt gebruikt :<br>
+1° artikel 42, tweede, derde, vierde, vijfde en zesde lid;<br>
+2° artikel 43;<br>
+3° 3° artikel 44, § 1, derde lid, 1° en 3°;<br>
+4° artikelen 45, 46 en 47;<br>
+5° artikelen 121 en 122;<br>
+6° artikelen 150 tot en met 160.
 
 ### ART. 29.
 
