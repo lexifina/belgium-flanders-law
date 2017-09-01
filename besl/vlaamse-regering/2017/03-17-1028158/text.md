@@ -36,6 +36,10 @@ Het statutaire personeelslid van het Instituut voor Natuur- en Bosonderzoek dat 
 
 ## HOOFDSTUK 3 Overdracht van een personeelslid van het Agentschap Innoveren en Ondernemen aan het Departement Omgeving
 
+### ART 4.
+
+Het statutaire personeelslid van het Agentschap Innoveren en Ondernemen dat is opgenomen in bijlage 4, die bij dit besluit is gevoegd, wordt overgedragen aan het Departement Omgeving.
+
 ## HOOFDSTUK 4 Overdracht van een personeelslid van het Departement Leefmilieu, Natuur en Energie aan het Agentschap Onroerend Erfgoed
 
 ### ART 5.
