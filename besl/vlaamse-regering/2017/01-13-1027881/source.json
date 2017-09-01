@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027881,
+  "title": "Besluit van de Vlaamse Regering van 2017-01-13 tot vrijstelling van de voorwaarde om een Nederlandstalige equivalente opleiding aan te bieden voor de Master of Economics",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027881/VolledigDocument?datum=2017-09-01",
+  "source_sha256": "a985882dfa7f75ec54e87ade4b36aecdf9bbc3d53f392d5bfadc52638f32766a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027881&param=informatie",
+  "as_of": "2017-09-01",
+  "made": "2017-01-13",
+  "gazette": "2017-02-14",
+  "numac": 2017010580,
+  "document_start": "2017-09-01",
+  "document_end": null,
+  "in_force": "2017-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
