@@ -4,7 +4,26 @@
 
 ## HOOFDSTUK 2. Wijzigingen van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991
 
+### ART 7.
+
+In artikel 39bis, § 4, van hetzelfde decreet, ingevoegd bij het decreet van 8 mei 2009, vervangen bij het decreet van 9 juli 2010 en gewijzigd bij de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, bekrachtigd bij het decreet van 23 december 2016, en het decreet van 16 juni 2017, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt i) wordt de zinsnede "betreffende het verlof voor verminderde prestaties, gewettigd door sociale of familiale redenen, en de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheid ten gunste van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding" vervangen door de woorden "betreffende het verlof en de afwezigheid voor verminderde prestaties";<br>
+<br>
+2° een punt j) wordt toegevoegd, dat luidt als volgt:<br>
+"j) een terbeschikkingstelling wegens persoonlijke aangelegenheden als vermeld in het besluit van de Vlaamse Regering van 16 oktober 2009 betreffende de terbeschikkingstelling wegens persoonlijke aangelegenheden voor de personeelsleden van het onderwijs, die een personeelslid tot en met 31 augustus 2017 heeft opgenomen.".
+
 ## HOOFDSTUK 3. Wijzigingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991
+
+### ART 18.
+
+Aan artikel 42bis, § 4, van hetzelfde decreet, ingevoegd bij het decreet van 8 mei 2009, vervangen bij het decreet van 9 juli 2010 en gewijzigd bij de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, bekrachtigd bij het decreet van 23 december 2016, en het decreet van 16 juni 2017, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt j) wordt de zinsnede "betreffende het verlof voor verminderde prestaties, gewettigd door sociale of familiale redenen, en de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheid ten gunste van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding" vervangen door de zinsnede "betreffende het verlof en de afwezigheid voor verminderde prestaties";<br>
+<br>
+2° een punt k) wordt toegevoegd, dat luidt als volgt:<br>
+<br>
+"k) een terbeschikkingstelling wegens persoonlijke aangelegenheden als vermeld in het besluit van de Vlaamse Regering van 16 oktober 2009 betreffende de terbeschikkingstelling wegens persoonlijke aangelegenheden voor de personeelsleden van het onderwijs, die een personeelslid tot en met 31 augustus 2017 heeft opgenomen.".
 
 ## HOOFDSTUK 4. Wijzigingen van het decreet basisonderwijs van 25 februari 1997
 
@@ -19,6 +38,16 @@
 ## HOOFDSTUK 9. Wijzigingen van het decreet van 6 juni 2008 houdende het instellen van een rookverbod in onderwijsinstellingen en centra voor leerlingenbegeleiding
 
 ## HOOFDSTUK 10. Wijzigingen van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap
+
+### ART 63.
+
+In artikel 82 van hetzelfde decreet, vervangen bij het decreet van 8 mei 2009, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1, 3°, worden de woorden "Syntra Vlaanderen" vervangen door de woorden "het begeleidingsteam";<br>
+<br>
+2° in paragraaf 2, 3°, worden de woorden "Syntra Vlaanderen" vervangen door de woorden "het begeleidingsteam";<br>
+<br>
+3° in paragraaf 3, 4°, worden de woorden "Syntra Vlaanderen" vervangen door de woorden "het begeleidingsteam".
 
 ## HOOFDSTUK 11. Wijzigingen van het decreet van 13 februari 2009 houdende de organisatie van schoolsport
 
