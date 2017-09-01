@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028387,
+  "title": "Besluit van de Vlaamse Regering van 2017-06-02 tot wijziging van het besluit van de Vlaamse Regering van 24 oktober 2008 houdende uitvoering van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, wat het opleidingenaanbod betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028387/VolledigDocument?datum=2017-09-01",
+  "source_sha256": "cc369fcb4cdaea298c22621912f3db4975476eaaa4fcb3f474dfa4714e18c771",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028387&param=informatie",
+  "as_of": "2017-09-01",
+  "made": "2017-06-02",
+  "gazette": "2017-07-06",
+  "numac": 2017020429,
+  "document_start": "2017-09-01",
+  "document_end": null,
+  "in_force": "2017-09-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2017-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
