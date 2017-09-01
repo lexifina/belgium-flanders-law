@@ -16,6 +16,10 @@ In artikel 2 van het besluit van de Vlaamse Regering van 19   juli 2007 betreffe
 
 <P>Aan   artikel 3, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 17 oktober 2008 en het laatst gewijzigd bij het besluit van   de Vlaamse Regering van 1 maart 2013 wordt de volgende zin toegevoegd:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"De   opleidingsprofielen vastgelegd in bijlage XXXXIII tot en met XXXXV en de   afwijkingen van het minimale aantal lestijden per module in de opleidingen van   het leergebied alfabetisering Nederlands tweede taal zoals vastgelegd in bijlage   XXVI worden uiterlijk tijdens het schooljaar 2018-2019   geëvalueerd.".</P>
 
+### ART. 4.
+
+Bijlage II bij hetzelfde besluit wordt   opgeheven.
+
 ### ART. 5.
 
 Bijlage III bij hetzelfde besluit wordt   opgeheven.
