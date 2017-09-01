@@ -75,6 +75,33 @@ Het fonds wordt aangewend voor de werking van het Vlaams Cultureel Centrum Voere
 
 ## Afdeling 9 Verhogen werkingsmiddelen voor het kleuteronderwijs
 
+### ART 91.
+
+Aan hoofdstuk VII, afdeling 2, onderafdeling D, van het decreet basisonderwijs van 25 februari 1997 wordt een titel 5° toegevoegd, die luidt als volgt:<br>
+"5° Extra werkingsbudget voor het kleuteronderwijs".
+
+### ART 92.
+
+In hetzelfde decreet wordt in titel 5°, ingevoegd bij artikel 91, een artikel 87bis ingevoegd, dat luidt als volgt:<br>
+"Artikel 87bis. § 1. Vanaf het begrotingsjaar X, startend in begrotingsjaar 2017, wordt een extra werkingsbudget van 10.000.000 euro toegekend aan het gewoon en buitengewoon basisonderwijs, voor het schooljaar X-X+1, startend in schooljaar 2017-2018.<br>
+<br>
+Het extra werkingsbudget per school is het resultaat van de vermenigvuldiging van het aantal kleuters in de school op de teldag vermeld in artikel 87, met de G_Kl, waarbij:<br>
+G_Kl = het extra werkingsbudget vermeld in paragraaf 1, eerste lid, na toepassing van paragraaf 2, gedeeld door het totaal aantal kleuters in het gewoon en buitengewoon basisonderwijs op de teldag vermeld in artikel 87.<br>
+<br>
+Het extra werkingsbudget wordt elk schooljaar aan het schoolbestuur uitbetaald vóór 31 december van het lopende schooljaar.<br>
+<br>
+§ 2. Vanaf het begrotingsjaar 2019 wordt het extra werkingsbudget vermeld in paragraaf 1, eerste lid, vermenigvuldigd met de aanpassingscoëfficiënten A1 en A2.<br>
+<br>
+De coëfficiënten A1 en A2 worden als volgt berekend:<br>
+1° A1 = 0,6 + 0,4 (punten 1/punten 0), waarbij:<br>
+a) punten 1 = de som van het totale aantal punten voor schoolkenmerk 1 en 2, berekend na de toepassing van artikel 81, voor de leerlingen van het gewoon basisonderwijs op de eerste schooldag van februari van het vorige schooljaar en het totaal aantal punten voor schoolkenmerk 3, 4, 5 en 6 zoals berekend na toepassing van artikel 85quater, voor de leerlingen van het buitengewoon basisonderwijs op de eerste schooldag van februari van het vorige schooljaar;<br>
+b) punten 0 = de som van het totale aantal punten voor schoolkenmerk 1 en 2, berekend na de toepassing van artikel 81, voor de leerlingen van het gewoon basisonderwijs op de eerste schooldag van februari van het voorlaatste schooljaar en het totale aantal punten voor schoolkenmerk 3, 4, 5 en 6, zoals berekend na toepassing van artikel 85quater, voor de leerlingen van het buitengewoon basisonderwijs op de eerste schooldag van februari van het voorlaatste schooljaar;<br>
+2° A2 = (Cx-1/Cx-2), waarbij:<br>
+a) Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
+b) Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
+De A2-coëfficiënt wordt voor 100 % in rekening gebracht.".<br>
+&nbsp;
+
 ## Afdeling 10 Huursubsidies schoolinfrastructuur
 
 ## Afdeling 11 Machtiging aan AGION voor verbintenissen voor huursubsidies
