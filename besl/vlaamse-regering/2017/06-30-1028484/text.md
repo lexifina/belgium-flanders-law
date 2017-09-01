@@ -20,6 +20,18 @@ Besluit :
 
 ## HOOFDSTUK 1 Terminologische aanpassingen ten gevolge van wijzigingen van verwante regelgeving
 
+### ART 1.
+
+In artikel 5 van het besluit van de Vlaamse Regering van 7 september 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 2, derde lid, wordt de zinsnede "en die gehuwd is" vervangen door de zinsnede "en een partner die als gehuwden in de zin van artikel 5, 15°, van het decreet moeten worden beschouwd";<br>
+2° in paragraaf 2 wordt het vierde lid opgeheven;<br>
+3° in paragraaf 3, eerste lid, wordt de zinsnede "een tussenkomst van een comité voor bijzondere jeugdzorg of van een andere publiekrechtelijke overheid of instelling, fiscaal ten laste is van een andere natuurlijke persoon" vervangen door de zinsnede "een tussenkomst van een publiekrechtelijke overheid of instelling, zijn hoofdverblijfplaats heeft bij een andere natuurlijke persoon".
+
+### ART 2.
+
+In artikel 6, § 1, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 5 juni 2009, wordt het eerste lid vervangen door wat volgt:<br>
+"Als de leerling of student uiterlijk op 31 december van het betrokken school- of academiejaar gehuwd is als vermeld in artikel 5, 15°, van het decreet, wordt voor de berekening van de toelage uitgegaan van het referentie-inkomen van beide gehuwden, op voorwaarde dat ze vanaf het ogenblik dat ze als gehuwden in de zin van artikel 5, 15°, van het decreet moeten worden beschouwd tot en met 31 december van het kalenderjaar dat volgt op de aanvang van het betrokken school- of academiejaar, twaalf maanden financiële middelen hebben verworven waarvan het totaal minstens overeenkomt met het leefloon dat op 31 december van het kalenderjaar dat voorafgaat aan het betrokken school- of academiejaar, conform artikel 14, § 1, 1°, eerste lid, 1°, en artikel 15 van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie jaarlijks wordt uitgekeerd aan de persoon die met een of meer personen samenwoont.".
+
 ### ART 3.
 
 In artikel 8 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
@@ -33,4 +45,23 @@ In artikel 8 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<b
 
 ## HOOFDSTUK 2 Bijsturing van de bepaling van het inkomstenjaar voor doelgroepen met een bijzonder verblijfsstatuut
 
+### ART 4.
+
+In artikel 13, § 1, van het besluit van de Vlaamse Regering van 7 september 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, gewijzigd bij het besluit van de Vlaamse Regering van 14 april 2014, wordt het tweede lid vervangen door wat volgt:<br>
+"Van het in aanmerking te nemen jaar, vermeld in artikel 11, § 1, van dit besluit, moet ook worden afgeweken als er tegelijkertijd aan al de onderstaande voorwaarden voldaan wordt:<br>
+1° aan een van de personen op wiens inkomen de toelage wordt berekend, wordt pas in de loop van of na het in aanmerking te nemen jaar, vermeld in artikel 11, § 1, van dit besluit, een van de volgende verblijfstitels verleend:<br>
+a) slachtoffer van mensenhandel, geattesteerd door een door de federale overheid erkend centrum dat gespecialiseerd is in het onthaal van slachtoffers van mensenhandel;<br>
+b) persoon met een buitenlandse nationaliteit die toegelaten is tot een verblijf van bepaalde duur in België conform artikel 49, § 1, of artikel 49/2, § 1, van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
+2° het referentie-inkomen van een van de personen waarop de toelage wordt berekend, kan niet bepaald worden aan de hand van de door de Federale Overheidsdienst Financiën nageziene inkomsten, vermeld in artikel 11, § 1, van dit besluit, of door een buitenlandse belastingdienst.".
+
 ## HOOFDSTUK 3 Slotbepalingen
+
+### ART 5.
+
+Dit besluit treedt in werking op 1 september 2017.<br>
+<br>
+Artikel 3 heeft uitwerking met ingang van 1 september 2016.
+
+### ART 6.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
