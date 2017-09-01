@@ -275,6 +275,16 @@ In afwijking van het eerste lid kan een centrum voor volwassenenonderwijs zonder
 In artikel 68 van hetzelfde decreet, vervangen bij het decreet van 23 december 2011 en gewijzigd bij de decreten van 12 juli 2013, 19 december 2014 en 19 juni 2015, worden paragraaf 2 en 3 opgeheven.<br>
 &nbsp;
 
+### ART 28.
+
+Artikel 69 van hetzelfde decreet, vervangen bij het decreet van 19 december 2014, wordt opgeheven.<br>
+&nbsp;
+
+### ART 29.
+
+Artikel 70 van hetzelfde decreet, gewijzigd bij de decreten van 4 juli 2008, 8 mei 2009, 9 juli 2010, 12 juli 2013 en 19 december 2014, wordt opgeheven.<br>
+&nbsp;
+
 ### ART 30.
 
 In artikel 98 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 17 juni 2016, worden de volgende wijzigingen aangebracht :<br>
