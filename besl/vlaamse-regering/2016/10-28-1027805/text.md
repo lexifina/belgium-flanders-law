@@ -139,6 +139,8 @@ De afwijking, vermeld in het tweede lid, is noodzakelijk voor het hanteren van b
 Zodra, in voorkomend geval, de betrokken personen in samenspraak met de leerling kiezen voor een opleiding van het tijdelijke project, zal aan hen, gezien de doelgroep van het duale leren, een niet-bindend advies worden gegeven over de quasi arbeidsrijpheid of arbeidsrijpheid van de leerling. Dat advies, op basis van een screening, gaat uit van de twee volgende instanties samen:<br>
 1° de voltallige klassenraad van het laatste structuuronderdeel dat de leerling in kwestie heeft gevolgd in het secundair onderwijs of het begeleidingsteam van de laatste opleiding die de leerling binnen de leertijd heeft gevolgd;<br>
 2° de trajectbegeleider van de opleiding en het centrum binnen het tijdelijke project die door de betrokken personen worden gekozen.<br>
+<br>
+Als het niet mogelijk is een beroep te doen op de voltallige klassenraad van het laatste structuuronderdeel dat door de leerling in kwestie is gevolgd in het secundair onderwijs of het begeleidingsteam van de laatste opleiding die de leerling binnen de leertijd heeft gevolgd, kunnen de trajectbegeleider van de opleiding en het centrum binnen het tijdelijke project die door de betrokken personen worden gekozen, een alternatieve werkwijze vastleggen om tot desbetreffend advies te komen.<br>
 &nbsp;
 
 ### ART 10.
