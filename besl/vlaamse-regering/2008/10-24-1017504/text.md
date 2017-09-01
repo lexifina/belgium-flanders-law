@@ -34,7 +34,74 @@ De lijst van de centra voor deeltijds beroepssecundair onderwijs die bij de inwe
 
 ### ART. 6.
 
-De lijst van opleidingen van het deeltijds beroepssecundair onderwijs   respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is opgenomen   : <BR>1°voor het schooljaar 2008-2009 : in bijlage III, die bij dit besluit is   gevoegd;<BR><BR>2° voor het schooljaar 2009-2010 : in bijlage III/1, die bij dit   besluit is gevoegd;<BR><BR>3° voor het schooljaar 2010-2011 : in bijlage III/2,   die bij dit besluit is gevoegd;<BR><BR>4° voor het schooljaar 2011-2012 : in   bijlage III/3, die bij dit besluit is gevoegd;<BR><BR>5° voor het schooljaar   2012-2013 : in bijlage III/4, die bij dit besluit is gevoegd. <BR><BR>6° voor   het schooljaar 2013-2014 : idem schooljaar 2012-2013, evenwel aangevuld met   volgende opleidingen voor de leertijd : <BR>a) rubriek land- en tuinbouw :   <BR>1° hovenier;<BR>2° hovenier-aanleg;<BR>3° hovenier-onderhoud;<BR>b) rubriek   personenzorg : <BR>1° logistiek assistent in de ziekenhuizen;<BR>2° logistiek   helper in de zorginstellingen;<BR>3° verzorgende;<BR>4°   verzorgende/zorgkundige;<BR>5° begeleider in de kinderopvang;<BR>c) rubriek   schoonheidszorg : <BR>1° assistent kapper;<BR>2° kapper;<BR>d) rubriek sport en   vrije tijd : <BR>1° sportbegeleider;<BR>2° animator in de   evenementensector.<BR><BR>7° voor het schooljaar 2014-2015 : idem schooljaar   2013-2014;<BR><BR>8° voor het schooljaar 2015-2016 : idem schooljaar 2014-2015,   maar :<BR>a)met aanvulling van de volgende opleidingen voor het deeltijds   beroepssecundair onderwijs die modulair georganiseerd zijn op basis van een   beroepskwalificatie :<BR>1) Behandelaar luchtvracht en bagage;<BR>2)   Kapper;<BR>3) Kapper-salonverantwoordelijke;<BR>b) met aanvulling van de   volgende opleidingen voor de leertijd die georganiseerd zijn op basis van een   beroepskwalificatie :<BR>1) Behandelaar luchtvracht en bagage;<BR>2)   Kapper;<BR>3) Kapper-salonverantwoordelijke;<BR>c) met opheffing van alle   opleidingen van de rubriek schoonheidszorg voor het deeltijds beroepssecundair   onderwijs;<BR>d) met opheffing van de volgende opleidingen van de rubriek   schoonheidszorg voor de leertijd :<BR>1) Assistent-kapper;<BR>2)   Kapper.<BR><BR>Als de lijst, vermeld in het eerste lid, een indeling in   rubrieken bevat, strekt die indeling er alleen toe om de screening, vermeld in   artikel 23, § 1, van het decreet, mogelijk te maken.
+De lijst van opleidingen van het deeltijds beroepssecundair onderwijs respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is opgenomen :<br>
+1°voor het schooljaar 2008-2009 : in bijlage III, die bij dit besluit is gevoegd;<br>
+2° voor het schooljaar 2009-2010 : in bijlage III/1, die bij dit besluit is gevoegd;<br>
+3° voor het schooljaar 2010-2011 : in bijlage III/2, die bij dit besluit is gevoegd;<br>
+4° voor het schooljaar 2011-2012 : in bijlage III/3, die bij dit besluit is gevoegd;<br>
+5° voor het schooljaar 2012-2013 : in bijlage III/4, die bij dit besluit is gevoegd.<br>
+6° voor het schooljaar 2013-2014 : idem schooljaar 2012-2013, evenwel aangevuld met volgende opleidingen voor de leertijd :<br>
+a) rubriek land- en tuinbouw :<br>
+1° hovenier;<br>
+2° hovenier-aanleg;<br>
+3° hovenier-onderhoud;<br>
+b) rubriek personenzorg :<br>
+1° logistiek assistent in de ziekenhuizen;<br>
+2° logistiek helper in de zorginstellingen;<br>
+3° verzorgende;<br>
+4° verzorgende/zorgkundige;<br>
+5° begeleider in de kinderopvang;<br>
+c) rubriek schoonheidszorg :<br>
+1° assistent kapper;<br>
+2° kapper;<br>
+d) rubriek sport en vrije tijd :<br>
+1° sportbegeleider;<br>
+2° animator in de evenementensector.<br>
+7° voor het schooljaar 2014-2015 : idem schooljaar 2013-2014;<br>
+8° voor het schooljaar 2015-2016 : idem schooljaar 2014-2015, maar :<br>
+a)met aanvulling van de volgende opleidingen voor het deeltijds beroepssecundair onderwijs die modulair georganiseerd zijn op basis van een beroepskwalificatie :<br>
+1) Behandelaar luchtvracht en bagage;<br>
+2) Kapper;<br>
+3) Kapper-salonverantwoordelijke;<br>
+b) met aanvulling van de volgende opleidingen voor de leertijd die georganiseerd zijn op basis van een beroepskwalificatie :<br>
+1) Behandelaar luchtvracht en bagage;<br>
+2) Kapper;<br>
+3) Kapper-salonverantwoordelijke;<br>
+c) met opheffing van alle opleidingen van de rubriek schoonheidszorg voor het deeltijds beroepssecundair onderwijs;<br>
+d) met opheffing van de volgende opleidingen van de rubriek schoonheidszorg voor de leertijd :<br>
+1) Assistent-kapper;<br>
+2) Kapper.<br>
+9° voor het schooljaar 2016-2017 : idem schooljaar 2015-2016;<br>
+10° voor het schooljaar 2017-2018 : idem schooljaar 2016-2017, maar :<br>
+a) met aanvulling van de volgende opleidingen voor het deeltijds beroepssecundair onderwijs die modulair georganiseerd zijn op basis van een beroepskwalificatie :<br>
+1) - Medewerker groen- en tuinaanleg;<br>
+2) - Medewerker groen- en tuinbeheer;<br>
+3) - Medewerker textielverzorging;<br>
+4) - Operator textielverzorging;<br>
+5) - Tuinaanlegger/groenbeheerder;<br>
+b) met aanvulling van de volgende opleidingen voor de leertijd die georganiseerd zijn op basis van een beroepskwalificatie :<br>
+1) - Medewerker groen- en tuinaanleg;<br>
+2) - Medewerker groen- en tuinbeheer;<br>
+3) - Medewerker textielverzorging;<br>
+4) - Operator textielverzorging;<br>
+5) - Tuinaanlegger/groenbeheerder;<br>
+c) met opheffing van de opleiding Operator in de wasserij van de rubriek kleding &amp; confectie voor het deeltijds beroepssecundair onderwijs;<br>
+d) met opheffing van de volgende opleidingen van de rubriek land- en tuinbouw voor het deeltijds beroepssecundair onderwijs;<br>
+1) - Hovenier;<br>
+2) - Hovenier-aanleg;<br>
+3) - Hovenier-onderhoud;<br>
+e) met opheffing van de volgende opleidingen van de rubriek kleding &amp; confectie voor de leertijd :<br>
+1) - Textielreiniger : chemisch reiniger-verver;<br>
+2) - Textielreiniger-witwasser;<br>
+f) met opheffing van de volgende opleidingen van de rubriek land- en tuinbouw voor de leertijd :<br>
+1) - Hovenier;<br>
+2) - Hovenier-aanleg;<br>
+3) - Hovenier-onderhoud;<br>
+4) - Tuinaannemer;<br>
+5) - Tuinontwerper;<br>
+6) - Tuinverzorger.<br>
+<br>
+Als de lijst, vermeld in het eerste lid, een indeling in rubrieken bevat, strekt die indeling er alleen toe om de screening, vermeld in artikel 23, § 1, van het decreet, mogelijk te maken.
 
 ### ART. 7.
 
@@ -123,7 +190,10 @@ Voor opleidingen die gebaseerd zijn op een beroepskwalificatie, geldt het   cert
 
 ### ART. 12ter.
 
-De volgende certificaten gelden als een bewijs van beroepskwalificatie   :<BR>1° van niveau 2 : Behandelaar luchtvracht en bagage;<BR>2° van niveau 3 :   Kapper;<BR>3° van niveau 4 : Kapper-salonverantwoordelijke.
+De volgende certificaten gelden als een bewijs van beroepskwalificatie :<br>
+1° - van niveau 2 : Behandelaar luchtvracht en bagage, Medewerker groen- en tuinaanleg, Medewerker groen- en tuinbeheer en Medewerker textielverzorging;<br>
+2° - van niveau 3 : Kapper;<br>
+3° - van niveau 4 : Kapper-salonverantwoordelijke, Operator textielverzorging en Tuinaanlegger/groenbeheerder.
 
 ## HOOFDSTUK X. Studiebekrachtiging leertijd
 
@@ -155,17 +225,20 @@ Voor opleidingen die gebaseerd zijn op een beroepskwalificatie, geldt het   cert
 
 ### ART. 16ter.
 
-De volgende certificaten gelden als een bewijs van beroepskwalificatie   :<BR>1° van niveau 2 : Behandelaar luchtvracht en bagage;<BR>2° van niveau 3 :   Kapper;<BR>3° van niveau 4 : Kapper-salonverantwoordelijke.
+De volgende certificaten gelden als een bewijs van beroepskwalificatie :<br>
+1° - van niveau 2 : Behandelaar luchtvracht en bagage, Medewerker groen- en tuinaanleg, Medewerker groen- en tuinbeheer en Medewerker textielverzorging;<br>
+2° - van niveau 3 : Kapper;<br>
+3° - van niveau 4 : Kapper-salonverantwoordelijke, Operator textielverzorging en Tuinaanlegger/groenbeheerder.
 
 ## HOOFDSTUK XI. Financiering en subsidiëring deeltijds beroepssecundair onderwijs
 
 ### ART. 17.
 
-De aanvullende werkingsmiddelen voor het schooljaar 2016-2017, toegekend aan een centrum voor deeltijds beroepssecundair onderwijs als vermeld in artikel 86, § 1, 3°, van het decreet, worden als volgt vastgesteld:<br>
-1° 50 euro per jongere die minimaal 96 uur effectief in een voortraject heeft gepresteerd in het schooljaar 2015-2016 en voor zover als dusdanig door de organisator geregistreerd in de chronologische fiche en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd;<br>
-2° 0,50 euro per jongere per effectief gepresteerd uur in een brugproject in het schooljaar 2015-2016 met een maximum van achthonderd uur en voor zover als dusdanig door de organisator geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd;<br>
-3° 20 euro per jongere die deelneemt aan het project `intensieve begeleiding alternerend leren' in het schooljaar 2015-2016, en voor zover als dusdanig geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br>
-4° 2,25 euro per kalenderdag voor leerplichtige jongeren die in het schooljaar 2015-2016 contractueel in de fase arbeidsdeelname zitten, en 0,25 euro per kalenderdag voor niet-leerplichtige jongeren die in het schooljaar 2015-2016 contractueel in de fase arbeidsdeelname zitten, en voor zover als dusdanig geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding. Voor arbeidsdeelname, die inhoudelijk moet aansluiten bij de component leren, komen de volgende contracten in aanmerking:<br>
+De aanvullende werkingsmiddelen voor het schooljaar 2017-2018, toegekend aan een centrum voor deeltijds beroepssecundair onderwijs als vermeld in artikel 86, § 1, 3°, van het decreet, worden als volgt vastgesteld:<br>
+1° 50 euro per jongere die minimaal 96 uur effectief in een voortraject heeft gepresteerd in het schooljaar 2016-2017 en voor zover als dusdanig door de organisator geregistreerd in de chronologische fiche en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd;<br>
+2° 0,50 euro per jongere per effectief gepresteerd uur in een brugproject in het schooljaar 2016-2017 met een maximum van achthonderd uur en voor zover als dusdanig door de organisator geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd;<br>
+3° 20 euro per jongere die deelneemt aan het project `intensieve begeleiding alternerend leren' in het schooljaar 2016-2017, en voor zover als dusdanig geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br>
+4° 2,25 euro per kalenderdag voor leerplichtige jongeren die in het schooljaar 2016-2017 contractueel in de fase arbeidsdeelname zitten, en 0,25 euro per kalenderdag voor niet-leerplichtige jongeren die in het schooljaar 2016-2017 contractueel in de fase arbeidsdeelname zitten, en voor zover als dusdanig geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding. Voor arbeidsdeelname, die inhoudelijk moet aansluiten bij de component leren, komen de volgende contracten in aanmerking:<br>
 a) deeltijds arbeidscontract;<br>
 b) werknemersleercontract;<br>
 c) contract individuele beroepsopleiding van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
@@ -173,8 +246,10 @@ d) tewerkstelling via de Sociale Maribel of Generatiepact;<br>
 e) beroepsinlevingsovereenkomst;<br>
 f) Jojo-contract;<br>
 g) werkervaringsproject cfr. tewerkstelling in het kader van artikel 60, § 7, van de wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, tewerkstellingen in het kader van het besluit van de Vlaamse Regering van 10 juli 2008 betreffende werkervaring;<br>
+h) een overeenkomst van alternerende opleiding zoals bedoeld in artikel 3, 1°, van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen;<br>
+i) een stageovereenkomst alternerende opleiding zoals bedoeld in artikel 3, 2°, van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen.<br>
 <br>
-Een jongere waarvoor tijdens de looptijd van zijn contract in het schooljaar 2015-16 de leerplicht eindigt, wordt voor de toepassing van deze bepaling beschouwd als een leerplichtige jongere.<br>
+Een jongere waarvoor tijdens de looptijd van zijn contract in het schooljaar 2016-2017 de leerplicht eindigt, wordt voor de toepassing van deze bepaling beschouwd als een leerplichtige jongere.<br>
 <br>
 De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair onderwijs worden gevoegd bij het voorschot op het werkingsbudget.
 
@@ -186,7 +261,7 @@ De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair o
 
 ### ART. 19.
 
-De aanvullende werkingsmiddelen voor het schooljaar 2016-2017, toegekend aan Syntra Vlaanderen als vermeld in artikel 93, § 2, van het decreet, worden als volgt vastgesteld: 50 euro per jongere die minimaal 96 uur effectief in een voortraject heeft gepresteerd in het schooljaar 2015-2016 en voor zover als dusdanig door de organisator geregistreerd in de chronologische fiche en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd.
+De aanvullende werkingsmiddelen voor het schooljaar 2017-2018, toegekend aan Syntra Vlaanderen als vermeld in artikel 93, § 2, van het decreet, worden als volgt vastgesteld: 50 euro per jongere die minimaal 96 uur effectief in een voortraject heeft gepresteerd in het schooljaar 2016-2017 en voor zover als dusdanig door de organisator geregistreerd in de chronologische fiche en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd.
 
 ## HOOFDSTUK XIII. [... (opgeh. BVR 16 juli 2021, art. 43, I: 1 september 2021)]
 
@@ -206,7 +281,9 @@ Voor een brugproject wordt een opleidingsovereenkomst gesloten tussen de   organ
 
 ### ART. 20quater.
 
-Aan de organisator wordt een vergoeding toegekend van 4.5 euro per   effectief gepresteerd begeleidingsuur.<BR><BR>De organisator betaalt de jongere   een forfaitaire vergoeding van 1 euro per effectief gepresteerd uur, uitsluitend   bedoeld voor het dekken van verplaatsings- en telefoonkosten.
+Elk jaar bepaalt de Vlaamse Regering het bedrag van de vergoeding die wordt toegekend aan de organisator. Deze vergoeding bedraagt minimaal 4,50 euro per effectief gepresteerd begeleidingsuur.<br>
+<br>
+De organisator betaalt de jongere een forfaitaire vergoeding van 1 euro per effectief gepresteerd uur, uitsluitend bedoeld voor het dekken van verplaatsings- en telefoonkosten.
 
 ## HOOFDSTUK XIV. Wijzigingsbepalingen
 
@@ -1390,7 +1467,24 @@ Visbereider
 
 ### BIJLAGE IV
 
-<P> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1.pdf#page=18" title=" Bijlage   3" target="_blank" class="pdf">Bijlage   3</a> </P>  <P>&nbsp;</P>  <P>* Bij BVR van 10 juli 2015, B.S. 12/8/2015 worden in bijlage IV de volgende   wijzigingen aangebracht:<BR>"1° rubriek b) wordt vervangen door wat volgt   :<BR>"b) Met betrekking tot opleidingen die gebaseerd zijn op een   beroepskwalificatie :<BR>1° besluit van de Vlaamse Regering van 31 januari 2014   tot erkenning van de beroepskwalificatie kapper;<BR>2° besluit van de Vlaamse   Regering van 31 januari 2014 tot erkenning van de beroepskwalificatie   kapper-salonverantwoordelijke;<BR>3° besluit van de Vlaamse Regering van 13   maart 2015 tot erkenning van de beroepskwalificatie behandelaar luchtvracht en   bagage.";<BR>2° rubriek c) tot en met f) worden opgeheven".</P>
+<p><a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1.pdf#page=18" target="_blank" title=" Bijlage   3">Bijlage IV</a></p>
+
+<p>&nbsp;</p>
+
+<p>* Bij BVR van 10 juli 2015, B.S. 12/8/2015 worden in bijlage IV de volgende wijzigingen aangebracht:<br>
+"1° rubriek b) wordt vervangen door wat volgt :<br>
+"b) Met betrekking tot opleidingen die gebaseerd zijn op een beroepskwalificatie :<br>
+1° besluit van de Vlaamse Regering van 31 januari 2014 tot erkenning van de beroepskwalificatie kapper;<br>
+2° besluit van de Vlaamse Regering van 31 januari 2014 tot erkenning van de beroepskwalificatie kapper-salonverantwoordelijke;<br>
+3° besluit van de Vlaamse Regering van 13 maart 2015 tot erkenning van de beroepskwalificatie behandelaar luchtvracht en bagage.";<br>
+2° rubriek c) tot en met f) worden opgeheven".<br>
+<br>
+* Bij BVR van 2 juni 2017, B.S. 6/7/2017 worden in bijlage IV aan rubriek b) de punten 4°, 5°, 6°, 7° en 8° toegevoegd, die luiden als volgt :<br>
+"4° besluit van de Vlaamse Regering van 5 december 2014 tot erkenning van de beroepskwalificatie medewerker groen- en tuinaanleg;<br>
+5° besluit van de Vlaamse Regering van 5 december 2014 tot erkenning van de beroepskwalificatie medewerker groen- en tuinbeheer;<br>
+6° besluit van de Vlaamse Regering van 29 november 2013 tot erkenning van de beroepskwalificatie medewerker textielverzorging;<br>
+7° besluit van de Vlaamse Regering van 29 november 2013 tot erkenning van de beroepskwalificatie operator textielverzorging;<br>
+8° besluit van de Vlaamse Regering van 5 december 2014 tot erkenning van de beroepskwalificatie tuinaanlegger/groenbeheerder.".</p>
 
 ### BIJLAGE V
 
@@ -1448,6 +1542,10 @@ Visbereider
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2015/08/12_1.pdf#page=37">Bijlage V/7</a>
 
+### BIJLAGE V/8
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/07/06_1.pdf#page=43">Bijlage V/8</a>
+
 ### BIJLAGE VI
 
 <p><a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_11.pdf#page=80" target="_blank" title=" Bijlage   12">Bijlage 12</a><br>
@@ -1466,6 +1564,10 @@ Voor de opleidingen in de leertijd, limitatief vermeld in artikel 6, eerste lid,
 ### BIJLAGE VI/1
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2015/08/12_1.pdf#page=86">Bijlage VI/1</a>
+
+### BIJLAGE VI/2
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/07/06_1.pdf#page=124">Bijlage VI/2</a>
 
 ### BIJLAGE VII
 
