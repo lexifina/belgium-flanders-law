@@ -309,7 +309,11 @@ Bij de start van elke nieuwe periode waarvoor de omkadering wordt vastgesteld, v
 
 ### ART. 61.
 
-Bij de start van elke nieuwe periode waarvoor de omkadering wordt vastgesteld, vermeld in artikel 67, kan elk centrum met één of meer andere centra fuseren.<br /><br />Een fusie van centra heeft uitwerking op 1 september. Het centrum door fusie ontstaan wordt niet als een nieuwe oprichting beschouwd. De programmatienormen zijn niet van toepassing.
+Bij de start van elke nieuwe periode waarvoor de omkadering wordt vastgesteld, vermeld in artikel 67, kan elk centrum met één of meer andere centra fuseren.<br>
+<br>
+Een fusie van centra heeft uitwerking op 1 september. Het centrum door fusie ontstaan wordt niet als een nieuwe oprichting beschouwd. De programmatienormen zijn niet van toepassing.<br>
+<br>
+In afwijking van het eerste lid kunnen ook op 1 september 2017 twee of meer centra fuseren. In voorkomend geval is de omkadering voor het schooljaar 2017-2018 van het centrum dat door fusie ontstaat, gelijk aan de som van de omkadering die in de periode voorafgaand aan de fusie werd toegekend aan elk afzonderlijk centrum dat bij de fusie is betrokken.
 
 ## ONDERAFDELING C PROGRAMMATIENORMEN
 
@@ -345,7 +349,15 @@ Om gefinancierd of gesubsidieerd te blijven tijdens de eerstvolgende periode waa
 
 ### ART. 67.
 
-Het aantal gefinancierde of gesubsidieerde betrekkingen binnen een centrum is afhankelijk van een aan het centrum toegekend omkaderingsgewicht dat om de drie jaar wordt vastgesteld op basis van:<br />1° het gewogen leerlingenaantal van het centrum;<br />2° de taakbelasting, zoals beïnvloed door de aanwezigheid van kansarme leerlingen en de densiteit.<br /><br />Het omkaderingsgewicht wordt voor het eerst vastgesteld voor het schooljaar 2000-2001.<br /><br />In afwijking van het eerste en het tweede lid, wordt het omkaderingsgewicht voor het schooljaar 2012-2013 vastgesteld voor een periode van twee jaar. Met ingang van schooljaar 2014-2015 wordt het omkaderingsgewicht opnieuw vastgesteld, telkens voor een periode van drie jaar.<br /><br />Bij de berekening van het omkaderingsgewicht wordt geen rekening gehouden met de wijzigingen inzake beleidscontracten en beleidsplannen ingevolge de toepassing van artikel 38 gedurende de periode waarvoor het omkaderingsgewicht reeds werd vastgesteld.
+Het aantal gefinancierde of gesubsidieerde betrekkingen binnen een centrum is afhankelijk van een aan het centrum toegekend omkaderingsgewicht dat om de drie jaar wordt vastgesteld op basis van:<br>
+1° het gewogen leerlingenaantal van het centrum;<br>
+2° de taakbelasting, zoals beïnvloed door de aanwezigheid van kansarme leerlingen en de densiteit.<br>
+<br>
+Het omkaderingsgewicht wordt voor het eerst vastgesteld voor het schooljaar 2000-2001.<br>
+<br>
+In afwijking van het eerste en het tweede lid, wordt het omkaderingsgewicht voor het schooljaar 2012-2013 vastgesteld voor een periode van twee jaar. Met ingang van schooljaar 2014-2015 wordt het omkaderingsgewicht opnieuw vastgesteld, telkens voor een periode van&nbsp;vier jaar.<br>
+<br>
+Bij de berekening van het omkaderingsgewicht wordt geen rekening gehouden met de wijzigingen inzake beleidscontracten en beleidsplannen ingevolge de toepassing van artikel 38 gedurende de periode waarvoor het omkaderingsgewicht reeds werd vastgesteld.
 
 ## AFDELING 2 GEWOGEN LEERLINGENAANTAL
 
