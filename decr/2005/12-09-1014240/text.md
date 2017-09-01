@@ -33,7 +33,41 @@ De Vlaamse Regering zal er zich telkens van vergewissen of de scholen en centra 
 
 ### ART. 4.
 
-§ 1. Tijdelijke projecten kunnen afwijken of kunnen afwijkingen toestaan van wettelijke en decretale bepalingen onder de hierna gestelde voorwaarden.<br /><br />§ 2. De afwijkingen zijn alleen mogelijk:<br />1° als de doelstellingen van het tijdelijke project gericht zijn op de voorbereiding van een eventuele wijziging van de onderwijswetgeving met het oog op:<br />a) onderwijsvernieuwing, en/of<br />b) het ontwikkelen van specifieke maatregelen voor bepaalde doelgroepen, en/of<br />c) een betere organisatie van het onderwijs; en<br />2° als de afwijkingen noodzakelijk zijn om de doelstellingen van de tijdelijke projecten te realiseren.<br /><br />De Vlaamse Regering wijst per tijdelijk project de wettelijke en decretale bepalingen aan waarvan afgeweken wordt. Ze motiveert de noodzaak om van die bepalingen af te wijken en uit de omschrijving van het tijdelijke project laat ze blijken dat de bepalingen waarvan wordt afgeweken in verband staan met de doelstellingen van het tijdelijke project.<br /><br />De Vlaamse Regering kan indien nodig voorzien in pedagogische, wetenschappelijke of andere adequate ondersteuning en begeleiding.<br /><br />§ 3. De afwijkingen kunnen evenwel geen betrekking hebben op:<br />1° de bepalingen inzake het inschrijvingsrecht in het basis- en secundair onderwijs;<br />2° de eindtermen en ontwikkelingsdoelen;<br />3° de bepalingen inzake het minimumlessenrooster of de minimumlessentabel in het secundair en volwassenenonderwijs en in de deeltijdse vormingen in het kader van de deeltijdse leerplicht;<br />4° de bepalingen inzake liet minimumaantal wekelijkse lestijden voor leerlingen in het basis-, secundair en volwassenenonderwijs;<br />5° de bepalingen die betrekking hebben op de participatie:<br />6° de bepalingen die betrekking hebben op de erkenning van scholen en centra, met uitzondering van de bepalingen inzake onderwijsstructuur en leerplan;<br />7° de bepalingen die betrekking hebben op het inschrijvingsgeld in het volwassenenonderwijs;<br />8° de bepalingen inzake zorgvuldig bestuur.<br /><br />§ 4. Als het tijdelijke project aanleiding geeft tot het uitvaardigen van afwijkende regelgeving, waarborgt deze regeling in elk geval:<br />1° het recht van de leerling op begeleiding door een centrum voor leerlingenbegeleiding;<br />2° de mogelijkheid tot overstap van een leerling in het begin van het schooljaar of tijdens het schooljaar naar een onderwijsinstelling of opleiding buiten het tijdelijke project;<br />3° de eindbekrachtiging van de studies, met de daaraan verbonden civiele effecten;<br />4° de vigerende verhouding tussen het aantal lessen op jaarbasis enerzijds, en de vakantie- en verlofregeling anderzijds ;<br />5° dat in de vormen van onderwijs waar tegen omstreden beslissingen beroep kan worden ingesteld, dat ook in tijdelijke projecten het geval is;<br />6° dat de basisfinanciering of -subsidiëring van de scholen en centra in kwestie nooit lager is dan die welke onder identieke omstandigheden buiten het tijdelijke project wordt toegekend;<br />7° de geldelijke loopbaan van de personeelsleden die in tijdelijke projecten fungeren.<br /><br />§ 5. Besluiten die afwijken of die afwijkingen toestaan van wettelijke en decretale bepalingen, worden binnen de maand na hun goedkeuring ter bekrachtiging aan het Vlaams Parlement voorgelegd. De bekrachtiging bij decreet gebeurt binnen de zes maanden na goedkeuring van het besluit en vóór de inwerkingtreding van dit besluit.<br /><br />Besluiten die betrekking hebben op het schooljaar 2005-2006 worden voor dat schooljaar als bekrachtigd beschouwd.
+§ 1. Tijdelijke projecten kunnen afwijken of kunnen afwijkingen toestaan van wettelijke en decretale bepalingen onder de hierna gestelde voorwaarden.<br>
+<br>
+§ 2. De afwijkingen zijn alleen mogelijk:<br>
+1° als de doelstellingen van het tijdelijke project gericht zijn op de voorbereiding van een eventuele wijziging van de onderwijswetgeving met het oog op:<br>
+a) onderwijsvernieuwing, en/of<br>
+b) het ontwikkelen van specifieke maatregelen voor bepaalde doelgroepen, en/of<br>
+c) een betere organisatie van het onderwijs; en<br>
+2° als de afwijkingen noodzakelijk zijn om de doelstellingen van de tijdelijke projecten te realiseren.<br>
+<br>
+De Vlaamse Regering wijst per tijdelijk project de wettelijke en decretale bepalingen aan waarvan afgeweken wordt. Ze motiveert de noodzaak om van die bepalingen af te wijken en uit de omschrijving van het tijdelijke project laat ze blijken dat de bepalingen waarvan wordt afgeweken in verband staan met de doelstellingen van het tijdelijke project.<br>
+<br>
+De Vlaamse Regering kan indien nodig voorzien in pedagogische, wetenschappelijke of andere adequate ondersteuning en begeleiding.<br>
+<br>
+§ 3. De afwijkingen kunnen evenwel geen betrekking hebben op:<br>
+1° de bepalingen inzake het inschrijvingsrecht in het basis- en secundair onderwijs;<br>
+2° de eindtermen en ontwikkelingsdoelen;<br>
+3° de bepalingen inzake het minimumlessenrooster of de minimumlessentabel in het secundair en volwassenenonderwijs en in de deeltijdse vormingen in het kader van de deeltijdse leerplicht;<br>
+4° de bepalingen inzake liet minimumaantal wekelijkse lestijden voor leerlingen in het basis-, secundair en volwassenenonderwijs;<br>
+5° de bepalingen die betrekking hebben op de participatie:<br>
+6° de bepalingen die betrekking hebben op de erkenning van scholen en centra, met uitzondering van de bepalingen inzake onderwijsstructuur en leerplan;<br>
+7° de bepalingen die betrekking hebben op het inschrijvingsgeld in het volwassenenonderwijs;<br>
+8° de bepalingen inzake zorgvuldig bestuur.<br>
+<br>
+§ 4. Als het tijdelijke project aanleiding geeft tot het uitvaardigen van afwijkende regelgeving, waarborgt deze regeling in elk geval:<br>
+1° het recht van de leerling op begeleiding door een centrum voor leerlingenbegeleiding;<br>
+2° de mogelijkheid tot overstap van een leerling in het begin van het schooljaar of tijdens het schooljaar naar een onderwijsinstelling of opleiding buiten het tijdelijke project;<br>
+3° de eindbekrachtiging van de studies, met de daaraan verbonden civiele effecten;<br>
+4° de vigerende verhouding tussen het aantal lessen op jaarbasis enerzijds, en de vakantie- en verlofregeling anderzijds ;<br>
+5° dat in de vormen van onderwijs waar tegen omstreden beslissingen beroep kan worden ingesteld, dat ook in tijdelijke projecten het geval is;<br>
+6° dat de basisfinanciering of -subsidiëring van de scholen en centra in kwestie nooit lager is dan die welke onder identieke omstandigheden buiten het tijdelijke project wordt toegekend;<br>
+7° de geldelijke loopbaan van de personeelsleden die in tijdelijke projecten fungeren.<br>
+<br>
+§ 5. Besluiten die afwijken of die afwijkingen toestaan van wettelijke en decretale bepalingen, worden binnen de maand na hun goedkeuring ter bekrachtiging aan het Vlaams Parlement voorgelegd. De bekrachtiging bij decreet gebeurt binnen de zes maanden na goedkeuring van het besluit en vóór de inwerkingtreding van dit besluit. Een besluit van de Vlaamse Regering tot uitbreiding van een bestaand tijdelijk project wordt niet ter bekrachtiging aan het Vlaams Parlement voorgelegd als het, wat afwijkingen van wettelijke en decretale bepalingen betreft die voor dat project zijn toegestaan, bij eerder door het Vlaams Parlement bekrachtigd besluit van de Vlaamse Regering, enkel het toepassingsgebied van die afwijkingen verruimt en geen nieuwe inhoudelijke afwijkingen toevoegt.<br>
+<br>
+Besluiten die betrekking hebben op het schooljaar 2005-2006 worden voor dat schooljaar als bekrachtigd beschouwd.
 
 ### ART. 5.
 
