@@ -68,6 +68,7 @@ b) in het buitengewoon onderwijs: wijziging in de structuur van een school op he
 24° huisonderwijs :<br>
 - het onderwijs dat verstrekt wordt aan leerplichtigen van wie de ouders beslist hebben om hen niet in te schrijven in een door de Vlaamse Gemeenschap, de Franse Gemeenschap of de Duitstalige Gemeenschap erkende, gefinancierde of gesubsidieerde school;<br>
 - onder huisonderwijs wordt eveneens verstaan het onderwijs dat aan een leerplichtige wordt verstrekt in het kader van de toepassing van het besluit van de Vlaamse Regering van 27 juni 1990 waarbij de voorwaarden worden vastgesteld waaronder in bepaalde gemeenschapsinstellingen voor observatie en opvoeding en in onthaal- en oriëntatiecentra en in de observatiecentra, ressorterend onder de bijzondere jeugdbijstand aan de leerplicht kan worden voldaan;<br>
+24° /1 individueel aangepast curriculum : een curriculum waarbij leerdoelen op maat van de leerling met een verslag voor toegang tot buitengewoon onderwijs worden geformuleerd. De leerdoelen op maat van de leerling worden gekozen door de klassenraad in afstemming met de ouders, waar mogelijk de leerling, de CLB-medewerker en in voorkomend geval externe ondersteuners, vertrekkende van de ontwikkelingsdoelen en de leerdoelen die het bereiken van de eindtermen beogen. Dit curriculum kan, indien dit noodzakelijk is voor de leerling, ook gebaseerd worden op de ontwikkelingsdoelen van het buitengewoon onderwijs. Het curriculum wordt naargelang de studievoortgang van de leerling aangepast. Deze leerdoelen moeten worden nagestreefd en beogen de maximale ontplooiing van de leerling en een zo volwaardig mogelijke participatie aan het klas- en schoolgebeuren in de school voor gewoon onderwijs. Leerlingen die een individueel aangepast curriculum volgen komen niet in aanmerking voor het getuigschrift basisonderwijs behoudens wanneer voldaan is aan de voorwaarden van artikel 54;<br>
 24° bis kadastraal perceel : een deel van het Belgisch grondgebied dat door een kadastraal perceelnummer wordt geïdentificeerd zoals gedefinieerd in het koninklijk besluit van 20 september 2002 tot vaststelling van de vergeldingen en de nadere regels voor de afgifte van kadastrale uittreksels en inlichtingen;<br>
 25° klassenraad: team van personeelsleden dat onder leiding van de directeur of zijn afgevaardigde samen de verantwoordelijkheid draagt of zal dragen voor de begeleiding van en het onderwijs aan een bepaalde leerlingengroep of individuele leerling;<br>
 25°bis kleuterparticipatie : de inschrijving in en deelname aan het kleuteronderwijs van niet-leerplichtige leerlingen met het oog op het realiseren van de ontwikkelingsdoelen;<br>
@@ -712,7 +713,9 @@ Een schoolbestuur kan de inschrijving weigeren in een school waar de betrokken l
 
 <p>§ 1. Het recht op inschrijving, vermeld in artikel 37bis, § 1, geldt onverkort voor leerlingen die het gemeenschappelijk curriculum kunnen volgen met toepassing van gepaste maatregelen, zoals remediërende, differentiërende, compenserende of dispenserende maatregelen, die proportioneel zijn. Leerlingen voor wie deze aanpassingen worden toegepast, blijven in aanmerking komen voor de gewone studiebekrachtiging toegekend door de klassenraad.<br>
 <br>
-§ 2. Leerlingen die beschikken over een verslag als vermeld in artikel 15 worden door een school voor gewoon onderwijs onder ontbindende voorwaarde ingeschreven. Dit verslag maakt deel uit van de informatie die ouders bij een vraag tot inschrijving aan de school overmaken. Het ter beschikking stellen van het verslag door de ouders gaat samen met de verbintenis van de school tot het organiseren van overleg met de ouders, de klassenraad en het centrum voor leerlingenbegeleiding, over de aanpassingen die nodig zijn om de leerling mee te nemen in een gemeenschappelijk curriculum of om de leerling studievoortgang te laten maken op basis van een individueel aangepast curriculum. Ook indien de school pas nadat de inschrijving reeds gerealiseerd werd, kennis neemt van een verslag, ten laatste gedateerd op de dag waarop de leerling in de betreffende school instapt, wordt de inschrijving van de leerling omgezet in een inschrijving onder ontbindende voorwaarde.<br>
+§ 2. Leerlingen die beschikken over een verslag als vermeld in artikel 15 worden door een school voor gewoon onderwijs onder ontbindende voorwaarde ingeschreven. Dit verslag maakt deel uit van de informatie die ouders bij een vraag tot inschrijving aan de school overmaken. Het ter beschikking stellen van het verslag door de ouders gaat samen met de verbintenis van de school tot het organiseren van overleg met de ouders, de klassenraad en het centrum voor leerlingenbegeleiding, binnen een redelijke termijn na de inschrijving&nbsp;over de aanpassingen die nodig zijn om de leerling mee te nemen in een gemeenschappelijk curriculum of om de leerling studievoortgang te laten maken op basis van een individueel aangepast curriculum. Ook indien de school pas nadat de inschrijving reeds gerealiseerd werd, kennis neemt van een verslag, ten laatste gedateerd op de dag waarop de leerling in de betreffende school instapt, wordt de inschrijving van de leerling omgezet in een inschrijving onder ontbindende voorwaarde.<br>
+<br>
+Op basis van het overleg met de ouders, de klassenraad en het centrum voor leerlingenbegeleiding, vermeld in het eerste lid, beslist de school binnen een redelijke termijn en uiterlijk 60 kalenderdagen na de effectieve start van de lesbijwoning of de aanpassingen die de leerling nodig heeft proportioneel dan wel disproportioneel zijn.<br>
 <br>
 Indien na het overleg de school de disproportionaliteit van de aanpassingen die nodig zijn, bevestigt, wordt de inschrijving ontbonden op het moment dat deze leerling in een andere school is ingeschreven en uiterlijk 1 maand, vakantieperioden niet inbegrepen, na de kennisgeving van de bevestiging van de disproportionaliteit.<br>
 <br>
@@ -1004,7 +1007,15 @@ In de vrije lagere scholen wordt hetzij onderwijs in één of meer erkende godsd
 
 ### ART. 43.
 
-§ 1. Het leergebied Frans is verplicht in het vijfde en zesde jaar gewoon   lager onderwijs.<BR><BR>Het leergebied Frans kan aangeboden worden vanaf het   eerste jaar gewoon lager onderwijs in de scholen van het tweetalige gebied   Brussel-Hoofdstad en, op voorwaarde dat de leerlingen de onderwijstaal voldoende   beheersen, vanaf het derde jaar gewoon lager onderwijs in de scholen buiten het   tweetalige gebied Brussel-Hoofdstad..<BR><BR>§ 2. Taalinitiaties in het Frans,   Engels en Duits behoren facultatief tot het onderwijsaanbod van het gewoon   basisonderwijs.<BR><BR>Als een taalinitiatie als vermeld in het eerste lid,   wordt georganiseerd, wordt eerst taalinitiatie in het Frans aangeboden.<BR><BR>§   3. Het in § 2 bedoelde aanbod wordt bepaald door het schoolbestuur met   toepassing van de regelgeving inzake participatie.<BR><BR>§ 4. De   onderwijsinspectie waakt over een kwaliteitsvolle invulling van de   taalinitiatie.
+§ 1. Het leergebied Frans is verplicht in het vijfde en zesde jaar gewoon lager onderwijs. Het leergebied Frans kan aangeboden worden vanaf het eerste jaar gewoon lager onderwijs in de scholen van het tweetalige gebied Brussel-Hoofdstad en, op voorwaarde dat de leerlingen het Nederlands voldoende beheersen, vanaf het derde jaar gewoon lager onderwijs in de scholen buiten het tweetalige gebied Brussel-Hoofdstad.<br>
+<br>
+§ 2. De talen Frans en/of Duits en/of Engels kunnen facultatief aangeboden worden vanaf het derde jaar gewoon lager onderwijs, op voorwaarde dat de leerlingen het Nederlands voldoende beheersen.<br>
+<br>
+§ 3. Taalinitiaties in het Frans, Engels en Duits behoren facultatief tot het onderwijsaanbod van het gewoon basisonderwijs.<br>
+<br>
+§ 4. Het in paragraaf 2 en paragraaf 3 bedoelde aanbod wordt bepaald door het schoolbestuur met toepassing van de regelgeving inzake participatie.<br>
+<br>
+§ 5. De onderwijsinspectie waakt over een kwaliteitsvolle invulling van het taalaanbod, vermeld in dit artikel.
 
 ## AFDELING 2 EINDTERMEN EN ONTWIKKELINGSDOELEN
 
@@ -1055,6 +1066,12 @@ In de gevallen, bedoeld in het eerste lid, is het schoolbestuur gebonden door de
 
 ## [AFDELING 2bis GEBRUIK VAN GEVALIDEERDE TOETSEN VOOR INTERNE KWALITEITSZORG (ing. decr. 16 juni 2017, art. II.6, I: 1 september 2017)]
 
+### ART 44ter.
+
+Op het einde van het gewoon lager onderwijs neemt de school van elke leerling, vanaf het schooljaar 2017-2018, een gevalideerde toets af voor ten minste twee leergebieden en vanaf het schooljaar 2018-2019 voor ten minste drie leergebieden.<br>
+<br>
+De resultaten van deze toetsafnames zijn gericht op het verkrijgen van informatie op schoolniveau over de mate waarin de leerlingenpopulatie de eindtermen bereikt en ze worden aangewend in het kader van interne kwaliteitszorg. De resultaten kunnen één van de elementen zijn waar de klassenraad rekening mee houdt bij de toekenning van een getuigschrift zoals bepaald in artikel 53.
+
 ## [AFDELING 2ter DE VLAAMSE TOETSEN (ing. decr. 28 april 2023, art. 4, I: 1 april 2023)]
 
 ## [AFDELING 3 LEERPLAN, INDIVIDUEEL AANGEPAST CURRICULUM EN SCHOOLWERKPLAN (verv. decr. 5 mei 2023, art. 107, I: 1 september 2023)]
@@ -1101,19 +1118,23 @@ Vragen in verband met de toepassing van artikel 51 en klachten met betrekking to
 
 ### ART. 53.
 
-Voor zover zijn scho(o)l(en) voldoen aan de voorwaarden bepaald in de artikelen 45 en 62 kan ieder schoolbestuur, op voordracht en na beslissing van de klassenraad een getuigschrift basisonderwijs uitreiken aan de regelmatige leerlingen uit het gewoon lager onderwijs.<br>
+Voor zover haar scholen voldoen aan de voorwaarden, bepaald in de artikelen 45 en 62, kan ieder schoolbestuur, op voordracht en na beslissing van de klassenraad een getuigschrift uitreiken aan de regelmatige leerlingen uit het gewoon lager onderwijs.<br>
 <br>
-De klassenraad oordeelt autonoom of een regelmatige leerling in voldoende mate&nbsp;die doelen uit het leerplan die het bereiken van de eindtermen beogen heeft bereikt om een getuigschrift basisonderwijs te bekomen.<br>
+De klassenraad oordeelt autonoom welk getuigschrift een leerling krijgt :<br>
+1° hetzij een getuigschrift basisonderwijs, dat aangeeft dat de regelmatige leerling in voldoende mate die doelen uit het leerplan die het bereiken van de eindtermen beogen heeft bereikt;<br>
+2° hetzij, indien de leerling het in punt 1° vermelde getuigschrift basisonderwijs niet krijgt, een getuigschrift dat aangeeft welke doelen de leerling wel bereikt heeft.<br>
 <br>
-Het getuigschrift basisonderwijs kan slechts uitgereikt worden aan leerlingen die vóór 1 januari van het lopende schooljaar al acht jaar geworden zijn.
+Het getuigschrift kan slechts uitgereikt worden aan leerlingen die vóór 1 januari van het lopende schooljaar al acht jaar geworden zijn.
 
 ### ART. 54.
 
-Aan leerlingen uit het buitengewoon lager onderwijs kan het getuigschrift basisonderwijs uitgereikt worden indien de leerdoelen van het gevolgde handelingsplan door de onderwijsinspectie als gelijkwaardig worden be-schouwd met die van het gewoon lager onderwijs.
+§ 1. Aan leerlingen uit het buitengewoon lager onderwijs en aan leerlingen met een individueel aangepast curriculum in het gewoon lager onderwijs kan een getuigschrift basisonderwijs worden uitgereikt indien de voor deze leerlingen vooropgestelde leerdoelen door de onderwijsinspectie als gelijkwaardig worden beschouwd met die van het gewoon lager onderwijs.<br>
+<br>
+§ 2. De in paragraaf 1 vermelde leerlingen die het getuigschrift basisonderwijs niet krijgen, ontvangen een getuigschrift dat aangeeft welke doelen de leerling wel heeft bereikt.
 
 ### ART. 55.
 
-Iedere leerling die bij het voltooien van het lager onderwijs geen   getuigschrift basisonderwijs krijgt, heeft recht op een schriftelijke motivering   met inbegrip van bijzondere aandachtspunten voor de verdere schoolloopbaan, en   een&nbsp;verklaring met de vermelding van het aantal en de soort van gevolgde   schooljaren lager onderwijs, afgeleverd door de directie. De beslissing omtrent   het toekennen van het getuigschrift basisonderwijs wordt uiterlijk op 30 juni   aan de ouders meegedeeld. De ouders worden geacht die beslissing uiterlijk op 1   juli in ontvangst te hebben genomen. Indien de ouders niet akkoord gaan met de   genomen beslissing volgt er, op vraag van de ouders, een overleg met de   directeur en zijn afgevaardigde, binnen een termijn vastgelegd in het   schoolreglement. De school kan dit overleg niet weigeren. Van het overleg wordt   een schriftelijke neerslag gemaakt. Dit overleg kan ertoe leiden dat de   directeur of zijn afgevaardigde beslist om de klassenraad opnieuw te laten   samenkomen om het niet toekennen van het getuigschrift basisonderwijs te   bevestigen of te wijzigen. De ouders nemen de beslissing om de klassenraad niet   opnieuw te laten samenkomen, dan wel de beslissing van de klassenraad die   opnieuw is samengekomen schriftelijk in ontvangst. Bij het niet in ontvangst   nemen van deze beslissing door de ouders op de voorziene datum wordt ze toch   geacht te zijn ontvangen op de voorziene ontvangstdatum. Indien de ouders niet   akkoord gaan met de beslissing, wijst de school de ouders schriftelijk op de   mogelijkheid tot beroep zoals bepaald in hoofdstuk IV, afdeling 2, onderafdeling   E.
+De beslissing omtrent het toekennen van het getuigschrift&nbsp;wordt uiterlijk op 30 juni aan de ouders meegedeeld. De ouders worden geacht die beslissing uiterlijk op 1 juli in ontvangst te hebben genomen. Indien de ouders niet akkoord gaan met de genomen beslissing volgt er, op vraag van de ouders, een overleg met de directeur en zijn afgevaardigde, binnen een termijn vastgelegd in het schoolreglement. De school kan dit overleg niet weigeren. Van het overleg wordt een schriftelijke neerslag gemaakt. Dit overleg kan ertoe leiden dat de directeur of zijn afgevaardigde beslist om de klassenraad opnieuw te laten samenkomen om het niet toekennen van het getuigschrift basisonderwijs te bevestigen of te wijzigen. De ouders nemen de beslissing om de klassenraad niet opnieuw te laten samenkomen, dan wel de beslissing van de klassenraad die opnieuw is samengekomen schriftelijk in ontvangst. Bij het niet in ontvangst nemen van deze beslissing door de ouders op de voorziene datum wordt ze toch geacht te zijn ontvangen op de voorziene ontvangstdatum. Indien de ouders niet akkoord gaan met de beslissing, wijst de school de ouders schriftelijk op de mogelijkheid tot beroep zoals bepaald in hoofdstuk IV, afdeling 2, onderafdeling E.
 
 ### ART. 56.
 
@@ -1121,7 +1142,7 @@ Op advies van de inspectie duidt de regering per provincie ten minste één   of
 
 ### ART. 57.
 
-De regering bepaalt de procedure tot aflevering van het getuigschrift   basisonderwijs alsook de vorm ervan en legt de vergoeding voor de in artikel 56   bedoelde scholen vast. Het meegeven van het getuigschrift en rapport kan om geen   enkele reden worden ingehouden, ook niet bij verzuim door de ouders van hun   financiële verplichtingen.
+De regering bepaalt de modaliteiten, de vorm en de procedure tot aflevering van de getuigschriften zoals bepaald in artikel 53&nbsp;en legt de vergoeding voor de in artikel 56 bedoelde scholen vast. Het meegeven van het getuigschrift en rapport kan om geen enkele reden worden ingehouden, ook niet bij verzuim door de ouders van hun financiële verplichtingen.
 
 ### ART. 57bis.
 
@@ -1599,6 +1620,19 @@ Die cao-middelen worden verdeeld pro rata het aantal punten per school van het v
 
 Per school wordt het totale aantal punten berekend door de   vermenigvuldiging van het aantal GON-leerlingen die begeleid worden vanuit de   school voor buitengewoon basisonderwijs, te vermenigvuldigen met hun   puntengewicht, zoals bepaald in artikel 85quater.<BR><BR>De integratietoelage   per school van het buitengewoon basisonderwijs is het resultaat van de   vermenigvuldiging van het totale aantal punten per school, zoals berekend in het   eerste lid, met de GPP_SchK, zoals bepaald in artikel 85quater, § 3.<BR><BR>De   integratietoelagen van de scholengroepen van het gemeenschapsonderwijs en van de   scholen van het gesubsidieerd buitengewoon basisonderwijs worden elk schooljaar   in minstens twee schijven uitbetaald waarbij vóór 1 februari de som van de   uitbetaalde schijven minstens 50 procent van de integratietoelagen van het   betrokken schooljaar vertegenwoordigt en het saldo vóór 1 juli betaald   wordt.<BR><BR>Indien het decreet houdende de aanpassing van de algemene   uitgavenbegroting van het begrotingsjaar waarin de integratietoelagen voor het   betrokken schooljaar zijn opgenomen aanleiding geeft tot meer middelen voor de   schoolbesturen van het gesubsidieerd buitengewoon basisonderwijs of de   scholengroepen van het gemeenschapsonderwijs, dan worden deze bijkomende   middelen uitbetaald binnen de twee maanden na de bekrachtiging door de Vlaamse   Regering van betrokken decreet.
 
+### ART 86bis/1.
+
+Er worden jaarlijks werkingsmiddelen toegekend aan de schoolbesturen van scholen buitengewoon basisonderwijs die vanaf het schooljaar 2017-2018 met toepassing van artikel 172quinquies ondersteuning bieden.<br>
+<br>
+De voormelde werkingsmiddelen voor het schooljaar (X, X+1) worden berekend door het aantal aan de schoolbesturen toegekende begeleidingseenheden, extra lestijden, extra lesuren en extra uren in het kader van het ondersteuningsmodel, vermeld in artikel 172quinquies, in voorkomend geval na overdrachten, te vermenigvuldigen met een bedrag per begeleidingseenheid, lestijd, lesuur of uur.<br>
+<br>
+Het bedrag, vermeld in het tweede lid, wordt berekend door het budget dat op de onderwijsbegroting voor 2018 voorzien is voor de toekenning van werkingsmiddelen voor het ondersteuningsmodel te delen door het totaal aantal toegekende begeleidingseenheden, extra lestijden, extra lesuren en extra uren in het kader van het ondersteuningsmodel voor het schooljaar 2017-2018.<br>
+<br>
+Vanaf het schooljaar 2018-2019 wordt het bedrag, vermeld in het derde lid, jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A, die berekend wordt conform de volgende formule :<br>
+A = (Cx-1/Cx-2), waarbij :<br>
+1° Cx-1 : de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
+2° Cx-2 : de gezondheidsindex van de maand januari van het begrotingsjaar x- 2.
+
 ### ART 86ter.
 
 Met het oog op het in overeenstemming brengen van de integratietoelagen toegekend in het begrotingsjaar 2017 voor de leerlingen geïntegreerd onderwijs voor het schooljaar 2015-2016 worden in het begrotingsjaar 2017 volgende afwijkingen voorzien:<br>
@@ -1618,6 +1652,27 @@ De integratietoelage per school van het buitengewoon basisonderwijs is het resul
 § 1. Het werkingsbudget wordt ieder schooljaar per school berekend op basis van het aantal regelmatige leerlingen dat ingeschreven is op de eerste schooldag van februari van het voorgaande schooljaar.<br /><br />§ 2. In afwijking van § 1 is de teldag voor de berekening van het werkingsbudget voor scholen in programmatie de eerste schooldag van oktober van het lopende schooljaar.<br /><br />Die teldag geldt in het gewoon basisonderwijs voor de hele school voor het schooljaar van oprichting en voor de vijf daaropvolgende schooljaren.<br /><br />Die teldag geldt in het buitengewoon basisonderwijs voor de hele school voor het schooljaar van oprichting en voor de twee daaropvolgende schooljaren.<br /><br />§ 3. In afwijking van § 1 is de teldag voor de berekening van het werkingsbudget voor scholen die betrokken zijn bij een herstructurering, de eerste schooldag van oktober van het lopende schooljaar.<br /><br />§ 4. Voor de toepassing van dit artikel op CKG-scholen en op scholen voor type 5 worden de woorden « de eerste schooldag van oktober » telkens gelezen als « de maand september » en wordt het woord « teldag » telkens gelezen als « telperiode ».<br /><br />Voor de toepassing van dit artikel op CKG-scholen en scholen voor type 5 worden de woorden « op basis van het aantal regelmatige leerlingen, ingeschreven op de eerste schooldag van februari » gelezen als « op basis van het gemiddeld aantal regelmatige leerlingen, ingeschreven tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari ».<br /><br />§ 5. Het werkingsbudget van een school voor type 5 kan alleen volledig worden aangewend als een door de regering vastgelegd gemiddelde van onderwijsdagen per kind gedurende de telperiode wordt bereikt.<br /><br />Als dat gemiddelde niet wordt bereikt, dan wordt het werkingsbudget evenredig verminderd.<br /><br />§ 6. De teldag voor de integratietoelage is de eerste schooldag van oktober van het vorige schooljaar.
 
 ## [5° EXTRA WERKINGSBUDGET VOOR HET KLEUTERONDERWIJS (ing. Decr. 22 december 2017, art. 91, I: 1 september 2017)]
+
+### ART 87bis.
+
+§ 1. Vanaf het begrotingsjaar X, startend in begrotingsjaar 2017, wordt een extra werkingsbudget van 10.000.000 euro toegekend aan het gewoon en buitengewoon basisonderwijs, voor het schooljaar X-X+1, startend in schooljaar 2017-2018.<br>
+<br>
+Het extra werkingsbudget per school is het resultaat van de vermenigvuldiging van het aantal kleuters in de school op de teldag vermeld in artikel 87, met de G_Kl, waarbij:<br>
+G_Kl = het extra werkingsbudget vermeld in paragraaf 1, eerste lid, na toepassing van paragraaf 2, gedeeld door het totaal aantal kleuters in het gewoon en buitengewoon basisonderwijs op de teldag vermeld in artikel 87.<br>
+<br>
+Het extra werkingsbudget wordt elk schooljaar aan het schoolbestuur uitbetaald vóór 31 december van het lopende schooljaar.<br>
+<br>
+§ 2. Vanaf het begrotingsjaar 2019 wordt het extra werkingsbudget vermeld in paragraaf 1, eerste lid, vermenigvuldigd met de aanpassingscoëfficiënten A1 en A2.<br>
+<br>
+De coëfficiënten A1 en A2 worden als volgt berekend:<br>
+1° A1 = 0,6 + 0,4 (punten 1/punten 0), waarbij:<br>
+a) punten 1 = de som van het totale aantal punten voor schoolkenmerk 1 en 2, berekend na de toepassing van artikel 81, voor de leerlingen van het gewoon basisonderwijs op de eerste schooldag van februari van het vorige schooljaar en het totaal aantal punten voor schoolkenmerk 3, 4, 5 en 6 zoals berekend na toepassing van artikel 85quater, voor de leerlingen van het buitengewoon basisonderwijs op de eerste schooldag van februari van het vorige schooljaar;<br>
+b) punten 0 = de som van het totale aantal punten voor schoolkenmerk 1 en 2, berekend na de toepassing van artikel 81, voor de leerlingen van het gewoon basisonderwijs op de eerste schooldag van februari van het voorlaatste schooljaar en het totale aantal punten voor schoolkenmerk 3, 4, 5 en 6, zoals berekend na toepassing van artikel 85quater, voor de leerlingen van het buitengewoon basisonderwijs op de eerste schooldag van februari van het voorlaatste schooljaar;<br>
+2° A2 = (Cx-1/Cx-2), waarbij:<br>
+a) Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
+b) Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
+<br>
+De A2-coëfficiënt wordt voor 100 % in rekening gebracht.
 
 ## [6° EXTRA WERKINGSBUDGET VOOR BELEIDSONDERSTEUNING (ing. Decr. 25 februari 2022, art. 2, I: 1 september 2021)]
 
@@ -1703,7 +1758,26 @@ Een vrije school voor gewoon onderwijs, gebaseerd op een godsdienst of levensbes
 
 ### ART. 101.
 
-§ 1. In elke gefinancierde of gesubsidieerde school voor buitengewoon   onderwijs die voldoet aan de door de regering vastgelegde rationalisatienormen   kunnen per 1 september types van vrije keuze, met uitzondering van type 5,   worden gefinancierd of gesubsidieerd indien het type binnen de provincie niet   georganiseerd wordt in een school van dezelfde groep.<BR><BR>§ 2. De volgens § 1   nieuw opgerichte types van vrije keuze moeten twee schooljaren voldoen aan de   door de regering vastgelegde programmatienormen;<BR><BR>§ 3. Een volgens § 1   opgericht type kan niet tot een ander type omgevormd worden.<BR><BR>&nbsp;§ 4.   In aanvulling op § 1 tot § 3 moet een schoolbestuur dat een nieuw type van vrije   keuze wil oprichten een oprichtingsdossier indienen. Dit oprichtingsdossier moet   ten minste voldoen aan onderstaande kwaliteitsvoorwaarden:<BR>1° het   schoolbestuur is verantwoordelijk voor het indienen van het dossier na overleg   binnen de schoolraad en na overleg of na onderhandeling in het lokaal   comité;<BR>2° de school moet beschikken over de vereiste infrastructurele en   materiële voorzieningen op gebied van toegankelijkheid en hulpmiddelen nodig   voor het nieuwe type;<BR>3° de reeds bestaande expertise of de inspanningen rond   professionalisering van het team met betrekking tot het nieuwe type worden in   het dossier weergegeven.<BR><BR>De regering kan nadere regels bepalen over de   inhoud en de vorm van het oprichtingsdossier en over de wijze waarop de   kwaliteitsvoorwaarden worden beoordeeld.<BR><BR>§ 5. De oprichting vanaf 1   september van een nieuw type van vrije keuze kan pas na een gunstige beslissing   van de regering.<BR><BR>Het schoolbestuur stuurt daartoe uiterlijk op 30   november van het voorafgaande schooljaar een gemotiveerde aanvraag met het   oprichtingsdossier aan AgODi.<BR><BR>In afwijking van het voorgaande lid, kunnen   voor de oprichting vanaf 1 september 2015 van een type 9 van vrije keuze   gemotiveerde aanvragen bij AgODi ingediend worden tot uiterlijk 1 juli   2014.<BR><BR>De regering neemt deze beslissing na advies van AgODi en de   onderwijsinspectie.
+§ 1. In elke gefinancierde of gesubsidieerde school voor buitengewoon onderwijs die voldoet aan de door de regering vastgelegde rationalisatienormen kunnen per 1 september types van vrije keuze, met uitzondering van type 5, worden gefinancierd of gesubsidieerd indien het type binnen de provincie niet georganiseerd wordt in een school van dezelfde groep.<br>
+<br>
+§ 2. De conform paragraaf 1 nieuw opgerichte types van vrije keuze moeten op de eerste schooldag van oktober van het oprichtingsjaar voldoen aan de door de regering vastgelegde rationalisatienormen;<br>
+<br>
+§ 3. Een volgens § 1 opgericht type kan niet tot een ander type omgevormd worden.<br>
+<br>
+§ 4. In aanvulling op § 1 tot § 3 moet een schoolbestuur dat een nieuw type van vrije keuze wil oprichten een oprichtingsdossier indienen. Dit oprichtingsdossier moet ten minste voldoen aan onderstaande kwaliteitsvoorwaarden:<br>
+1° het schoolbestuur is verantwoordelijk voor het indienen van het dossier na overleg binnen de schoolraad en na overleg of na onderhandeling in het lokaal comité;<br>
+2° de school moet beschikken over de vereiste infrastructurele en materiële voorzieningen op gebied van toegankelijkheid en hulpmiddelen nodig voor het nieuwe type;<br>
+3° de reeds bestaande expertise of de inspanningen rond professionalisering van het team met betrekking tot het nieuwe type worden in het dossier weergegeven.<br>
+<br>
+De regering kan nadere regels bepalen over de inhoud en de vorm van het oprichtingsdossier en over de wijze waarop de kwaliteitsvoorwaarden worden beoordeeld.<br>
+<br>
+§ 5. De oprichting vanaf 1 september van een nieuw type van vrije keuze kan pas na een gunstige beslissing van de regering.<br>
+<br>
+Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het voorafgaande schooljaar een gemotiveerde aanvraag met het oprichtingsdossier aan AgODi.<br>
+<br>
+In afwijking van het voorgaande lid, kunnen voor de oprichting vanaf 1 september 2015 van een type 9 van vrije keuze gemotiveerde aanvragen bij AgODi ingediend worden tot uiterlijk 1 juli 2014.<br>
+<br>
+De regering neemt deze beslissing na advies van AgODi en de onderwijsinspectie.
 
 ## AFDELING 2 PROGRAMMATIE
 
@@ -1799,7 +1873,13 @@ In afwijking van de artikelen 101, 103, 111 en 112 kan er in het   schooljaar 20
 
 ### ART. 115.
 
-§ 1. Scholen, vestigingsplaatsen, niveaus of types die op de teldag, zoals   bepaald in artikel 114, § 1, niet aan de voor hen geldende rationalisatienormen   of behoudsnormen voldoen, blijven gesubsidieerd of gefinancierd als op de vorige   teldag de volgende voorwaarden vervuld waren :<BR>1° de school in haar geheel   voldeed aan de rationalisatienormen of behoudsnormen;<BR>2° elke   vestigingsplaats, elk niveau, elk type van de school en elk type van de   vestigingsplaatsen voldeden aan de voor hen geldende rationalisatienormen of   behoudsnormen.<BR><BR>§ 2. Scholen, vestigingsplaatsen, niveaus of types die op   de teldag, zoals bepaald in artikel 114, § 2, niet aan de voor hen geldende   rationalisatienormen of behoudsnormen voldoen blijven gesubsidieerd of   gefinancierd als op de eerste schooldag van februari van het voorgaande   schooljaar de volgende voorwaarden vervuld waren :<BR>1° de school in haar   geheel voldeed aan de rationalisatienormen of behoudsnormen;<BR>2° elke   vestigingsplaats, elk niveau, elk type van de school en elk type van de   vestigingsplaatsen, die tijdens het lopende schooljaar nog deel uitmaken van de   school, voldeden aan de voor hen geldende rationalisatienormen of   behoudsnormen.
+§ 1. Scholen, vestigingsplaatsen, niveaus of types die op de teldag, zoals bepaald in artikel 114, § 1, niet aan de voor hen geldende rationalisatienormen of behoudsnormen voldoen, blijven gesubsidieerd of gefinancierd als op de vorige, of voor het buitengewoon onderwijs ook de daaraanvoorafgaande, teldag de volgende voorwaarden vervuld waren :<br>
+1° de school in haar geheel voldeed aan de rationalisatienormen of behoudsnormen;<br>
+2° elke vestigingsplaats, elk niveau, elk type van de school en elk type van de vestigingsplaatsen voldeden aan de voor hen geldende rationalisatienormen of behoudsnormen.<br>
+<br>
+§ 2. Scholen, vestigingsplaatsen, niveaus of types die op de teldag, zoals bepaald in artikel 114, § 2, niet aan de voor hen geldende rationalisatienormen of behoudsnormen voldoen blijven gesubsidieerd of gefinancierd als op de eerste schooldag van februari van het voorgaande schooljaar, of voor het buitengewoon onderwijs ook de daaraanvoorafgaande teldag, &nbsp;de volgende voorwaarden vervuld waren :<br>
+1° de school in haar geheel voldeed aan de rationalisatienormen of behoudsnormen;<br>
+2° elke vestigingsplaats, elk niveau, elk type van de school en elk type van de vestigingsplaatsen, die tijdens het lopende schooljaar nog deel uitmaken van de school, voldeden aan de voor hen geldende rationalisatienormen of behoudsnormen.
 
 ## ONDERAFDELING B BEHOUD IN HET BUITENGEWOON ONDERWIJS
 
@@ -2278,6 +2358,10 @@ De bepalingen van deze sectie zijn uitsluitend van toepassing op de scholen voor
 
 § 1. Scholen kunnen voor een periode van drie schooljaren aanvullende   lestijden krijgen, voor zover ze aan alle onderstaande voorwaarden voldoen   :<BR>1° op 1 februari van het voorafgaande schooljaar ten minste 40 % externe en   semi-interne regelmatige leerlingen type basisaanbod en type 3 tellen, die   beantwoorden aan de in artikel 139undecies, § 1, 1°, bedoelde   gelijkekansenindicator;<BR>2° overeenkomstig de bepalingen van artikel 139ter   decies batig gerangschikt zijn onder de in 1° bedoelde scholen en ten minste 6   aanvullende lestijden genereren.<BR><BR>§ 2. In afwijking van § 1 krijgen   scholen gedurende de schooljaren 2009-2010 en 2010-2011 slechts voor een periode   van twee schooljaren aanvullende lestijden.<BR><BR>§ 3. De regering voorziet   voor de schooljaren 2009-2010 en 2010-2011 in een sociale overgangsmaatregel   voor de scholen die in het schooljaar 2008-2009 lestijden voor het voeren van   een onderwijsvoorrangsbeleid kregen.
 
+### ART 139duodecies/1.
+
+In afwijking van de bepalingen van artikel 139duodecies en artikel 139terdecies, § 1, wordt de driejarige cyclus 2014-2015 tot en met 2016-2017 waarbij aan scholen een geïntegreerd ondersteuningsaanbod gelijke onderwijskansen wordt toegekend, verlengd tot en met het schooljaar 2017-2018 met behoud voor elke school van het aantal bijkomende lestijden.
+
 ### ART. 139ter decies.
 
 § 1. De toekenning van de middelen gebeurt driejaarlijks als volgt :<br />1° de in artikel 139duode cies bedoelde scholen worden gerangschikt volgens het percentage leerlingen die beantwoorden aan de in artikel 139undecies, § 1, 1°, bedoelde gelijkekansenindicator. Binnen eenzelfde percentage worden de scholen volgens het absolute aantal van deze leerlingen gerangschikt;<br />2° de leerlingen genereren een aantal punten op basis van het gewicht van de gelijkekansenindicatoren die op hen van toepassing zijn.<br /><br />§ 2. De regering bepaalt binnen de beschikbare begrotingskredieten hoeveel aanvullende lestijden een punt vertegenwoordigt.<br /><br />De regering bepaalt de personeelscategorieën en ambten waarin op basis van de aanvullende lestijden betrekkingen kunnen worden ingericht en op welke wijze de lestijden, rekening houdend met bekwaamheidsbewijzen en salarisschalen, naar de gefinancierde of gesubsidieerde betrekkingen worden omgerekend.<br /><br />De regering bepaalt tevens de regelen inzake de toekenning of herverdeling, tijdens een lopende periode van drie schooljaren, van nieuwe of vrijkomende aanvullende lestijden.<br /><br />§ 3. In de lestijden bekomen op basis van artikel 139duo decies, § 3, kunnen geen personeelsleden vastbenoemd worden.
@@ -2474,7 +2558,7 @@ Voor de toepassing van deze afdeling wordt verstaan onder :<br />1° samenwerkin
 <br>
 Deze personeelsleden vallen onder de toepassing van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.<br>
 <br>
-§ 2. Het schoolbestuur kan ten laste van het werkingsbudget, vermeld&nbsp;in artikel 76, artikel 173quinquies/2 of artikel 173quinquies/3 of van de Vlaamse ondersteuningspremie uitgekeerd door de VDAB, personeel aanwerven. In het gemeenschapsonderwijs kan een schoolbestuur voormeld principe aanwenden voor de personeelscategorieën van toepassing in het basisonderwijs vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 rechtspositie personeelsleden gemeenschapsonderwijs, met uitzondering van het statutaire meesters-, vak- en dienstpersoneel. In het gesubsidieerd onderwijs kan een schoolbestuur voormeld principe aanwenden voor de personeelscategorieën van toepassing in het basisonderwijs vermeld in artikel 4, § 1, a), van het decreet van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd onderwijs.<br>
+§ 2. Het schoolbestuur kan ten laste van het werkingsbudget, vermeld&nbsp;in artikel 76, artikel 173quinquies/2, artikel 173quinquies/3 of artikel 173quinquies/4 of van de Vlaamse ondersteuningspremie uitgekeerd door de VDAB, personeel aanwerven. In het gemeenschapsonderwijs kan een schoolbestuur voormeld principe aanwenden voor de personeelscategorieën van toepassing in het basisonderwijs vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 rechtspositie personeelsleden gemeenschapsonderwijs, met uitzondering van het statutaire meesters-, vak- en dienstpersoneel. In het gesubsidieerd onderwijs kan een schoolbestuur voormeld principe aanwenden voor de personeelscategorieën van toepassing in het basisonderwijs vermeld in artikel 4, § 1, a), van het decreet van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd onderwijs.<br>
 <br>
 De betrekking die met deze middelen wordt ingericht kan niet worden vacant verklaard en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking.<br>
 <br>
@@ -2634,6 +2718,83 @@ De Vlaamse Regering bepaalt de procedure voor de berekening van de hoogte van de
 
 ## [AFDELING 4 ... (opgeh. decr. 5 mei 2023, art. 120, I: 1 september 2023)]
 
+### ART 172quinquies.
+
+§ 1. Met het oog op de invoering van ondersteuningsnetwerken in het basis- en secundair onderwijs kent de Vlaamse Regering jaarlijks binnen de beschikbare budgettaire ruimte personeelsomkadering onder de vorm van begeleidingseenheden, lestijden, lesuren en uren toe aan het buitengewoon onderwijs. Het betreft :<br>
+1° 32.587 begeleidingseenheden, waarvan 21.029 voor het basisonderwijs en 11.558 voor het secundair onderwijs;<br>
+2° enerzijds de lestijden en uren, in toepassing van artikel 173septies van dit decreet en anderzijds de lesuren en uren in toepassing van artikel 314/5 van de Codex Secundair Onderwijs;<br>
+3° het extra budget ten belope van 2120 lestijden voor het basisonderwijs en 1410 lesuren voor het secundair onderwijs en 2168 uren, waarvan 1302 voor het basisonderwijs en 886 voor het secundair onderwijs.<br>
+<br>
+Begeleidingseenheden kunnen naargelang de aard van de ondersteuning die nodig is, omgezet worden in lestijden, lesuren en uren.<br>
+<br>
+De lestijden, respectievelijk de lesuren, en uren, inclusief de omgezette begeleidingseenheden, worden voor scholen buitengewoon basisonderwijs beschouwd als extra lestijden en extra uren, zoals bedoeld in artikel 3, 14° en 14° bis, van dit decreet, en voor scholen buitengewoon secundair onderwijs als extra lesuren en uren.<br>
+<br>
+§ 2. Op het totaal van de middelen, vermeld in paragraaf 1, 1° tot en met 3°, wordt jaarlijks een pakket aan begeleidingseenheden afgehouden voor de ondersteuning in het gewoon basis- of secundair onderwijs van leerlingen met een inschrijvingsverslag type 2, 4, 6 of 7 auditieve beperking, waarover ze beschikken omdat ze, voor het basisonderwijs, vallen onder de toepassing van artikel 16, § 2, van dit decreet of, voor het secundair onderwijs, vallen onder de toepassing van artikel 352, § 2, van de Codex Secundair Onderwijs en leerlingen met een gemotiveerd verslag of een verslag type 2, 4, 6 of 7 auditieve beperking, die voldoen aan de criteria, vermeld in artikel 10, § 1, eerste lid, 2°, 4° en 6°, van dit decreet, en artikel 10, § 1, eerste lid, 7°, van het voormelde decreet wat betreft een auditieve beperking of artikel 259, § 1, 2°, 4° en 6°, van de Codex Secundair Onderwijs van 17 december 2010, en artikel 259, § 1, 7°, van dezelfde codex, wat betreft een auditieve beperking.<br>
+<br>
+De voorafname gebeurt naar rato van de procentuele toename of afname van het aantal leerlingen van de in het vorige lid vermelde types, die op de eerste schooldag van februari van het voorafgaande schooljaar zijn ingeschreven in een school voor gewoon onderwijs, in vergelijking met deze op de eerste schooldag van oktober 2016, voor wie in het schooljaar 2017-2018 in een pakket ten belope van 14.804 begeleidingseenheden wordt voorzien.<br>
+<br>
+De begeleidingseenheden worden door de Vlaamse Regering toegewezen aan de scholen voor buitengewoon onderwijs en worden aangewend om netoverstijgend de ondersteuningsvragen van scholen en centra gewoon onderwijs met betrekking tot leerlingen type 2, 4, 6 en 7 auditieve beperking te beantwoorden.<br>
+<br>
+§ 3. Het budget, vermeld in paragraaf 1, verminderd met de jaarlijkse voorafname, vermeld in paragraaf 2, wordt door de Vlaamse Regering toegewezen aan ondersteuningsnetwerken en volledig toegekend aan de scholen buitengewoon onderwijs, voor de ondersteuning in het gewoon basis- of secundair onderwijs van leerlingen met een inschrijvingsverslag waarover ze beschikken omdat ze, voor het basisonderwijs, vallen onder de toepassing van artikel 16, § 2, van dit decreet of, voor het secundair onderwijs, vallen onder de toepassing van artikel 352, § 2, van de Codex Secundair Onderwijs en leerlingen met een gemotiveerd verslag of een verslag type basisaanbod, 3, 9 of 7 spraak- of taalstoornis, die voldoen aan de criteria, vermeld in artikel 10, § 1, eerste lid, 1°, 3° en 8°, van dit decreet, en artikel 10, § 1, eerste lid, 7°, van het voormelde decreet wat betreft een spraak- of taalstoornis of artikel 259, § 1, 1°, 3° en 8°, van de Codex Secundair Onderwijs van 17 december 2010, en artikel 259, § 1, 7°, van dezelfde codex, wat betreft een spraak- of taalstoornis, waarbij :<br>
+1° 70 % wordt verdeeld op basis van het leerlingenaantal op de eerste schooldag van februari van het voorafgaande schooljaar van de scholen en centra voor gewoon onderwijs van het ondersteuningsnetwerk;<br>
+2° 30 % wordt verdeeld op basis van het gemiddeld aantal leerlingen met een verslag, gemotiveerd verslag of inschrijvingsverslag in de scholen en centra voor gewoon onderwijs van het ondersteuningsnetwerk op de eerste schooldag van februari van de zes voorafgaande schooljaren;<br>
+3° in afwijking van punt 2° gelden als teldata :<br>
+a) voor het schooljaar 2017-2018 : de eerste schooldag van oktober van de schooljaren 2011-2012 tot en met 2016-2017;<br>
+b) voor het schooljaar 2018-2019 : de eerste schooldag van oktober van de schooljaren 2012-2013 tot en met 2016-2017 en de eerste schooldag van februari van het schooljaar 2017-2018;<br>
+c) voor het schooljaar 2019-2020 : de eerste schooldag van oktober van de schooljaren 2013-2014 tot en met 2016-2017 en de eerste schooldag van februari van de schooljaren 2017-2018 en 2018-2019.<br>
+<br>
+Voor de middelen, vermeld in paragraaf 1, 2°, gebeurt deze verdeling afzonderlijk voor het basisonderwijs en voor het secundair onderwijs.<br>
+<br>
+Scholen voor gewoon en buitengewoon onderwijs delen uiterlijk op 30 juni 2017 aan het Agentschap voor Onderwijsdiensten mee met welke scholen zij op dit moment samenwerken in het kader van gon, ion en waarborg in functie van de ondersteuning van leerlingen met specifieke onderwijsbehoeften, en bij welk ondersteuningsnetwerk ze voor het schooljaar 2017-2018 aansluiten. Daarna moeten wijzigingen aan de samenstelling jaarlijks uiterlijk op 1 maart van het voorafgaande schooljaar meegedeeld worden.<br>
+<br>
+Voor de vorming van de ondersteuningsnetwerken wordt maximaal ingezet op samenwerking met scholen van andere netten. Deze samenwerking kan minimaal volgende vormen aannemen :<br>
+a) scholen kunnen indien ze dit wensen, opteren voor ondersteuning door een ondersteuningsnetwerk van een ander net;<br>
+b) het versterken van de internettensamenwerking.<br>
+<br>
+Voor het gesubsidieerd officieel onderwijs en het GO!-onderwijs van de Vlaamse Gemeenschap maken de inrichtende machten tegen 1 januari 2018 sluitende afspraken over logische regionale gebieden waarbinnen er slechts een ondersteuningsnetwerk actief is en waarbij binnen die regio alle officiële scholen zich aansluiten en die over ondersteuning en begeleiding in het kader van ondersteuning van kinderen met specifieke onderwijsbehoeften, afspraken kunnen maken met eender welk ander ondersteuningsnetwerk.<br>
+<br>
+In het kader van deze afspraken kunnen scholen buitengewoon onderwijs middelen overdragen aan scholen buitengewoon onderwijs van een ondersteuningsnetwerk dat behoort tot een ander onderwijsnet.<br>
+<br>
+§ 4. Het globale verlies op het niveau van een onderwijsnet ten gevolge van de berekeningswijze, vermeld in paragraaf 3, in vergelijking met de situatie op niveau van een onderwijsnet van waarborg en begeleidingseenheden gon, met uitzondering van de doelgroepen, bedoeld in paragraaf 2, in het schooljaar 2016-2017, wordt gecompenseerd voor een transitieperiode van de drie schooljaren 2017-2018, 2018-2019 en 2019-2020 bij wijze van een garantiefonds, door het aandeel van de scholen en centra van het stijgende onderwijsnet procentueel te verminderen en het aandeel van de scholen en centra van het dalende onderwijsnet procentueel te vermeerderen naar rato van het vastgestelde verlies van het dalende onderwijsnet.<br>
+<br>
+De middelen die het dalende onderwijsnet op die wijze ontvangt, vallen onder de regie van dat onderwijsnet om de verliezen in het buitengewoon onderwijs te compenseren zodat er geen verlies is aan tewerkstelling en ondersteuning die vandaag bestaat. Deze middelen worden tijdens de transitieperiode ingezet voor de verdere ondersteuning van scholen en centra in het gewoon onderwijs van de onderwijsnetten.<br>
+<br>
+§ 5. Voor ondersteuningsnetwerken die netoverstijgend zijn samengesteld fungeert de gemeenschappelijke vergadering, vermeld in paragraaf 9, als commissie. Voor het gesubsidieerd vrij onderwijs, het gesubsidieerd officieel onderwijs en het GO!-onderwijs van de Vlaamse Gemeenschap wordt telkens een commissie opgericht die in een gelijke vertegenwoordiging is samengesteld uit leden van het GO!-onderwijs van de Vlaamse Gemeenschap respectievelijk de representatieve verenigingen van inrichtende machten en de representatieve groeperingen van personeelsverenigingen aangesloten bij een in de Sociaal-Economische Raad van Vlaanderen vertegenwoordigde syndicale organisatie. In de schoot van de commissie voor het gesubsidieerd vrij onderwijs kan voor een of meer groepen binnen het gesubsidieerd vrij onderwijs anders dan het gesubsidieerd vrij katholiek onderwijs, een subcommissie opgericht worden. Bij de toewijzing wordt rekening gehouden met volgende criteria : er mag geen verlies aan tewerkstelling en bestaande ondersteuning zijn zodat de verschuivingen zo maximaal mogelijk op een natuurlijke manier tot stand komen.<br>
+<br>
+De Vlaamse Regering wijst de omkadering, vermeld in paragraaf 3 en 4, toe aan de ondersteuningsnetwerken op voorstel van de commissies, vermeld in het eerste lid, en kent de omkadering toe aan de scholen voor buitengewoon onderwijs. De commissies houden bij hun voorstellen tijdens de transitieperiode rekening met de beoogde ondersteuning van de ondersteuningsnetwerken, zoals bepaald overeenkomstig paragraaf 3.<br>
+<br>
+In afwijking hiervan worden van de in paragraaf 1, 1°, vermelde 32.587 begeleidingseenheden 17.783 begeleidingseenheden door de Vlaamse Regering rechtstreeks terug verdeeld naar de scholen voor buitengewoon onderwijs die in het schooljaar 2016-2017 begeleidingen deden in het kader van het geïntegreerd onderwijs naar rato van :<br>
+1° 100 % in het schooljaar 2017-2018;<br>
+2° 66 % in het schooljaar 2018-2019;<br>
+3° 33 % in het schooljaar 2019-2020.<br>
+<br>
+Het aandeel begeleidingseenheden waarover de commissies in de schooljaren 2018-2019 en 2019-2020 bevoegd worden, worden uitgedrukt in lestijden, lesuren en uren.<br>
+<br>
+§ 6. Het personeelslid dat in een betrekking wordt aangesteld op basis van de lestijden, lesuren of uren als vermeld in het laatste lid van paragraaf 1, wordt steeds aangesteld als tijdelijk personeelslid voor bepaalde duur. De bepalingen van het decreet Rechtspositie Personeelsleden Gemeenschapsonderwijs of het decreet Rechtspositie Personeelsleden Gesubsidieerd Onderwijs zijn, naargelang van het geval, van toepassing op deze aanstelling, met uitzondering van de volgende bepalingen :<br>
+1° de betrekking is niet onderworpen aan de reglementering betreffende terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. Het schoolbestuur van de school waar de betrekking wordt opgericht, kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ontstentenis van betrekking. Deze aanstelling gebeurt steeds met instemming van het ter beschikking gestelde personeelslid en is, naargelang van het geval, een reaffectatie, een wedertewerkstelling of een tewerkstelling. Indien deze aanstelling een tewerkstelling is, dan wordt ze beschouwd als een wedertewerkstelling;<br>
+2° het schoolbestuur van de school waaraan de betrekking wordt toegewezen, is niet verplicht om in de betrekking een personeelslid aan te stellen dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven, overeenkomstig artikelen 21 en 21bis van het decreet Rechtspositie Personeelsleden Gemeenschapsonderwijs of artikelen 23 en 23bis van het decreet Rechtspositie Personeelsleden Gesubsidieerd Onderwijs, naargelang van het geval;<br>
+3° de betrekking kan niet vacant worden verklaard. Het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in de betrekking.<br>
+<br>
+§ 7. De afspraken die samenwerkende scholen in dit project maken betreffende de inzetbaarheid van de personeelsleden, vallen onder de toepassing van artikel 12quater van het decreet Rechtspositie Personeelsleden Gemeenschapsonderwijs en artikel 17quater van het decreet Rechtspositie Personeelsleden Gesubsidieerd Onderwijs.<br>
+<br>
+§ 8. In afwijking van artikel 8 tot en met artikel 15, artikel 16bis tot en met artikel 20, en artikel 22 tot en met artikel 23 van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de opdracht van het personeel in het basisonderwijs geldt voor het onderwijzend personeel, het paramedisch personeel, het medisch, sociaal, psychologisch en orthopedagogisch personeel dat aangesteld wordt in een betrekking in het buitengewoon basisonderwijs tijdens het schooljaar 2017-2018 tot en met 2019-2020 een hoofdopdracht van 22 lestijden en een schoolopdracht van 26 klokuren.<br>
+<br>
+De hoofdopdracht bestaat in de ondersteuning van het onderwijzend personeel en van het kind dat de ondersteuning nodig heeft in het gewoon onderwijs.<br>
+<br>
+De tijd die nodig is voor professionalisering, overleg en samenwerking, coördinatietaken en dienstverplaatsingen maakt deel uit van de schoolopdracht.<br>
+<br>
+Middelen binnen een ondersteuningsnetwerk die niet rechtstreeks worden aangewend voor leerling- of leerkrachtgerichte ondersteuning moeten worden verantwoord en goedgekeurd door alle lokale onderhandelingscomités van de betrokken scholen.<br>
+<br>
+In het kader van de uitwerking van dit decreet zullen de competentiebegeleiders, vermeld in artikel VI.1 van het decreet van 21 maart 2014 betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften, in hun taakstelling bijzondere aandacht besteden aan de opdracht, vermeld in paragraaf 2, punt 4°, door hen effectief in te zetten om in de ondersteuningsnetwerken te werken aan expertiseontwikkeling.<br>
+<br>
+§ 9. Een stuurgroep die wordt opgericht in de schoot van deze gemeenschappelijke vergadering van het Sectorcomité X - Onderwijs (Vlaamse Gemeenschap), het Comité voor de provinciale en plaatselijke overheidsdiensten - afdeling 2 - onderafdeling `Vlaamse Gemeenschap' en het Overkoepelend onderhandelingscomité gesubsidieerd vrij onderwijs, staat in voor de voorbereiding, opvolging en aansturing van de invoering van ondersteuningsnetwerken. De onderwijsinspectie en administratie zullen toezicht houden op de toekenning en aanwending van de middelen voor personeelsomkadering, vermeld in paragraaf 1, op de werking van de ondersteuningsnetwerken, de coördinatie en de aansturing van de teams en op de kwaliteit van de ondersteuning op niveau van het effect voor leraren, lerarenteams en leerlingen.<br>
+<br>
+§ 10. De overheid zal een grondige evaluatie en monitoring doorvoeren waarvan de resultaten op 1 september 2019 beschikbaar zijn. Deze evaluatie zal uitgevoerd worden in samenspraak met de stuurgroep, vermeld in paragraaf 9, door een onafhankelijke commissie van experten en academici en heeft onder meer betrekking op :<br>
+1° het gehanteerde verdelingsmechanisme;<br>
+2° de personeelseffecten;<br>
+3° de ondersteuning in de klas voor de leerling en de leerkracht en de leerlingenbewegingen;<br>
+4° de doelmatige aanwending van de middelen.
+
 ## [AFDELING 5 PROJECT ONDERSTEUNING LEERKRACHTEN IN HET BASISONDERWIJS 2018-2019 (ing. decr. 6 juli 2018, art. 45, I: 1 september 2018)]
 
 ### ART 172septies.
@@ -2709,6 +2870,23 @@ C = het totale aantal kleuters in de school dat op 14 november 2016 voldoet aan 
 D = de totale stijging aan kleuters in de school, die voldoen aan het leerlingenkenmerk, vermeld in artikel 78, § 1, 1°, c), op 14 november 2016 ten opzichte van de teldag voor de berekening van het werkingsbudget voor schooljaar 2016-2017.<br>
 <br>
 § 3. De scholen kunnen de extra toelage berekend volgens paragraaf 2 uitsluitend voor activiteiten in het kader van initiatie in en versterking van het Nederlands voor het schooljaar 2016-2017 aanwenden.
+
+### ART 173quinquies/4.
+
+§ 1. Aan de scholen voor gewoon basisonderwijs die aan een van volgende criteria voldoen, wordt in het schooljaar 2017-2018 een extra toelage toegekend uitsluitend voor activiteiten als vermeld in paragraaf 3 en die berekend wordt volgens paragraaf 2:<br>
+1° de school vertoont op 27 oktober 2017 een stijging van het aantal kleuters die voldoen aan het leerlingenkenmerk, vermeld in artikel 78, § 1, 1°, c), ten opzichte van de teldag voor de berekening van het werkingsbudget voor het schooljaar 2017-2018;<br>
+2° de school telt op 27 oktober 2017 minstens één leerling die uiterlijk op 31 december van het lopende schooljaar jonger is dan vijf jaar en die op 27 oktober 2017 gelijktijdig aan al de volgende voorwaarden voldoet:<br>
+a) hij is een nieuwkomer, dat wil zeggen dat hij pas sinds 1 juli 2017 of later in België verblijft;<br>
+b) hij heeft niet het Nederlands als thuistaal of moedertaal;<br>
+c) hij beheerst onvoldoende de onderwijstaal om met goed gevolg de lessen te kunnen volgen;<br>
+d) hij is maximaal negen maanden ingeschreven, vakantiemaanden juli en augustus niet inbegrepen, in een school met het Nederlands als onderwijstaal.<br>
+<br>
+§ 2. De extra toelage waar de school recht op heeft, vermeld in paragraaf 1, wordt berekend conform de volgende formule: 950 euro x (C + (D-C)), waarbij:<br>
+1° als D-C negatief is, dit gelijkgesteld wordt aan 0;<br>
+2° C: het totale aantal kleuters in de school, die op 27 oktober 2017 voldoen aan de voorwaarden, vermeld in paragraaf 1, 2° ;<br>
+3° D: de totale stijging aan kleuters in de school, die voldoen aan het leerlingenkenmerk, vermeld in artikel 78, § 1, 1°, c), op 27 oktober 2017 ten opzichte van de teldag voor de berekening van het werkingsbudget voor het schooljaar 2017-2018.<br>
+<br>
+§ 3. De scholen, vermeld in paragraaf 1, mogen de extra toelage berekend conform paragraaf 2, uitsluitend voor activiteiten in het kader van initiatie in en versterking van het Nederlands voor het schooljaar 2017-2018 aanwenden.
 
 ## [HOOFDSTUK XIIQUATER WAARBORGREGELING LICHAMELIJKE OPVOEDING (ing. decr. 6 juli 2012, art. 34, I: 1 september 2012)]
 
