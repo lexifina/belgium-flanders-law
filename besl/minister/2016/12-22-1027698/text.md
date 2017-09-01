@@ -490,6 +490,8 @@ In de periode van 1 januari 2017 tot en met 31 december 2017 is het voor een vis
 <br>
 In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
+In afwijking van het eerste en tweede lid, worden vanaf het ogenblik dat het scholquotum VIIf, g voor 85% is benut tot en met 31 december 2017 de hoeveelheden schol, bepaald in het eerste en tweede lid, gehalveerd.<br>
+<br>
 § 3. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden VIII voor een vissersvaartuig verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 &nbsp;
 
@@ -532,9 +534,13 @@ De hoeveelheden vermeld in de paragrafen 1 tot en met 3 worden in de periode van
 
 In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden VII, VIII voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 25 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden VII, VIII voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 januari 2017 tot en met 31&nbsp;augustus 2017 is het in de ICES-gebieden VII, VIII voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In afwijking van het eerste en tweede lid worden de maximaal toegelaten vangsthoeveelheden verdubbeld, die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2017 uitsluitend uitgerust is met de planken.<br>
+Van 1 september 2017 tot en met 31 december 2017 is het in het ICES-gebied VII behalve VIIa, en in het ICES-gebied VIII, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 25 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+<br>
+Van 1 september 2017 tot en met 31 december 2017 is het in het ICES-gebied VIIa, zijnde Ierse Zee, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.&nbsp;<br>
+<br>
+In afwijking van&nbsp;het eerste tot en met het vierde lid worden de maximaal toegelaten vangsthoeveelheden verdubbeld, die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2017 uitsluitend uitgerust is met de planken.<br>
 &nbsp;
 
 ## Onderafdeling 5 Rog
