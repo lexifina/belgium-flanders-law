@@ -27,6 +27,7 @@ e) op 31 december volgend op de aanvang van het schooljaar de leeftijd van 18 ja
 5° ter differentiërende maatregelen: maatregelen, waarbij het centrum binnen het leerprogramma, van een beperkte variatie in het onderwijsleerproces aanbrengt om beter tegemoet te komen aan de behoeften van individuele jongeren of groepen van jongeren;<br>
 5° quater dispenserende maatregelen: maatregelen waarbij het centrum doelen aan het leerprogramma toevoegt of de jongere vrijstelt van doelen van het leerprogramma en die, waar mogelijk, vervangt door gelijkwaardige doelen, in die mate dat ofwel de doelen voor de studiebekrachtiging in functie van de finaliteit voor het betreffende onderdeel ofwel de doelen voor het doorstromen naar het beoogde vervolgonderwijs of naar de arbeidsmarkt nog in voldoende mate kunnen bereikt worden;<br>
 6° eindtermen : minimumdoelen die de overheid noodzakelijk en bereikbaar acht voor een bepaalde jongerenpopulatie in het gewoon secundair onderwijs. Met minimumdoelen wordt bedoeld : een minimum aan kennis, inzicht, vaardigheden en attitudes, bestemd voor die jongerenpopulatie;<br>
+6° bis individueel aangepast curriculum : een curriculum waarbij leerdoelen op maat van de leerling met een verslag voor toegang tot buitengewoon onderwijs worden geformuleerd. De leerdoelen op maat van de leerling worden gekozen door de klassenraad in afstemming met de ouders, waar mogelijk de leerling, de CLB-medewerker en in voorkomend geval externe ondersteuners, vertrekkende van de leerdoelen die de doelen, in voorkomend geval de eindtermen, van de algemene vorming en de doelen van de beroepsgerichte vorming, beogen. Dit curriculum kan, indien dit noodzakelijk is voor de leerling, gebaseerd worden op de ontwikkelingsdoelen van het buitengewoon onderwijs of op de opleidingsprofielen van opleidingsvorm 3. Het curriculum wordt naargelang de studievoortgang van de leerling aangepast. Deze leerdoelen moeten worden nagestreefd, en beogen de maximale ontplooiing van de leerling en een zo volwaardig mogelijke participatie aan het klas- en schoolgebeuren in de school voor gewoon onderwijs. Daarnaast beoogt dit curriculum ook ofwel de participatie aan de maatschappij, eventueel in een omgeving waar in ondersteuning voorzien is, ofwel de arbeidsdeelname in een omgeving waar in ondersteuning voorzien is, ofwel de tewerkstelling in een werkomgeving waar in ondersteuning voorzien is, ofwel de tewerkstelling in het gewone arbeidsmilieu, ofwel de verdere studies. Leerlingen die een individueel aangepast curriculum volgen komen niet in aanmerking voor de reguliere studiebewijzen van het gewoon voltijds secundair onderwijs, behoudens wanneer voldaan is aan de voorwaarden van artikel 73bis, eerste lid;<br>
 7° inschrijving : de opname in het leerlingenbestand van een door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd centrum voor deeltijds beroepssecundair onderwijs of van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, dan wel de heropname na uitschrijving;<br>
 7° bis jongere met specifieke onderwijsbehoeften: jongere met langdurige en belangrijke participatieproblemen die te wijten zijn aan het samenspel tussen:<br>
 a) één of meerdere functiebeperkingen op mentaal, psychisch, lichamelijk of zintuiglijk vlak en;<br>
@@ -258,7 +259,7 @@ Bij de organisatie van het leerprogramma werkt de klassenraad op een   systemati
 
 ### ART. 31.
 
-De leertijd bestaat uit een praktijkopleiding in een onderneming, aangevuld met een theoretische vorming in een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen. Praktijkopleiding en aanvullende theoretische vorming zijn onlosmakelijk met elkaar verbonden. De praktijkopleiding staat gelijk met de component werkplekleren en de theoretische vorming staat gelijk met de component leren.<br>
+§ 1. De leertijd bestaat uit een praktijkopleiding in een onderneming, aangevuld met een theoretische vorming in een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen. Praktijkopleiding en aanvullende theoretische vorming zijn onlosmakelijk met elkaar verbonden. De praktijkopleiding staat gelijk met de component werkplekleren en de theoretische vorming staat gelijk met de component leren.<br>
 <br>
 Voor de praktijkopleiding in de leertijd wordt een stageovereenkomst alternerende opleiding, een overeenkomst van alternerende opleiding of een deeltijdse arbeidsovereenkomst voor bepaalde duur tussen een ondernemingshoofdopleider en een jongere gesloten.<br>
 <br>
@@ -267,6 +268,10 @@ De theoretische vorming in een centrum voor vorming van zelfstandigen en kleine 
 Vanaf het schooljaar dat begint in het kalenderjaar waarin de jongere de leeftijd van 18 jaar bereikt, kan Syntra Vlaanderen de jongere vrijstellen van de algemene vorming.<br>
 <br>
 Bij de organisatie van de leertijd werkt een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen op een systematische, planmatige en transparante wijze samen met het centrum voor leerlingenbegeleiding en de betrokken personen en doet in het bijzonder voor jongeren met specifieke onderwijsbehoeften gepaste en redelijke aanpassingen, waaronder remediërende, differentiërende, compenserende of dispenserende maatregelen naargelang de noden van de jongere. De specifieke onderwijsbehoeften van jongeren en de ondersteuningsbehoeften van het onderwijspersoneel en de ouders staan daarbij centraal.<br>
+<br>
+§ 2. Voor de organisatie van de beroepsgerichte vorming en de algemene vorming en van activiteiten ter ondersteuning van de beroepsgerichte vorming en de algemene vorming kan een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen samenwerken met andere centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, met centra voor deeltijds beroepssecundair onderwijs, met centra voor volwassenenonderwijs of met instellingen voor voltijds gewoon technisch of beroepssecundair onderwijs.<br>
+<br>
+In voorkomend geval wordt er tussen het centrum en de instelling in kwestie of tussen de twee centra in kwestie een samenwerkingsovereenkomst gesloten waarin alle noodzakelijk geachte afspraken en voorwaarden zijn opgenomen.<br>
 &nbsp;
 
 ### ART. 31/1.
@@ -358,7 +363,10 @@ De inschrijving in een centrum voor deeltijds beroepssecundair onderwijs of in e
 
 ### ART. 49.
 
-Voor een jongere die bij zijn inschrijving in een centrum voor deeltijds beroepssecundair onderwijs niet meer leerplichtig is, wordt die inschrijving onmiddellijk beëindigd als uit de screening als vermeld in artikel 62, volgt dat hij niet in de arbeidsdeelname wordt ingeschaald. <br /><br />Voor een jongere wordt de inschrijving in een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen onmiddellijk beëindigd als uit de screening als vermeld in artikel 62, volgt dat hij niet in de arbeidsdeelname wordt ingeschaald.<br /><br />
+Voor een jongere die zich pas inschrijft in het deeltijds beroepssecundair onderwijs na zijn leerplicht wordt de inschrijving in het centrum onmiddellijk beëindigd als uit de screening, vermeld in artikel 62, blijkt dat hij niet in arbeidsdeelname of in brugproject wordt ingeschaald.<br>
+<br>
+Voor een jongere wordt de inschrijving in een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen onmiddellijk beëindigd als uit de screening als vermeld in artikel 62, volgt dat hij niet in de arbeidsdeelname wordt ingeschaald.<br>
+&nbsp;
 
 ### ART. 49bis.
 
@@ -406,6 +414,17 @@ Van zodra hij met de effectieve lesbijwoning start, moet de jongere een opleidin
 <br>
 De Vlaamse Regering bepaalt welke afwezigheden van rechtswege gewettigd zijn en welke afwezigheden door het centrum kunnen worden gewettigd. De Vlaamse Regering bepaalt ook welke maatregelen in geval van problematische afwezigheden worden genomen. Voor de uitvoering van deze bepaling hanteert de Vlaamse Regering objectieve criteria waaronder alleszins de duur en de aard van de afwezigheid.<br>
 &nbsp;
+
+### ART 58/1.
+
+Het centrumbestuur kan op grond van specifieke onderwijskundige argumenten en met het oog op het aanbieden van meer individuele leertrajecten, beslissen om voor een jongere of jongerengroep af te wijken van de voorwaarde, vermeld in de eerste zin van het eerste lid van artikel 58, en onder de volgende modaliteiten :<br>
+1° het individueel vrijstellen van het volgen van bepaalde onderdelen van de opleiding gedurende een deel of het geheel van het schooljaar en de vervanging door andere onderdelen die de finaliteit van de opleiding niet aantasten, mits de klassenraad van het centrum voor deeltijds beroepssecundair onderwijs of het begeleidingsteam van het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, naargelang van het geval, een gunstige beslissing neemt én mits akkoord van de betrokken personen, voor een jongere die onderwijsbehoeften heeft omwille van :<br>
+a) hetzij hoogbegaafdheid, zoals vastgesteld op basis van handelingsgerichte diagnostiek van het centrum voor leerlingenbegeleiding;<br>
+b) hetzij tijdelijke leermoeilijkheden of leerachterstanden voor bepaalde onderdelen van de opleiding, die niet vallen onder de toepassing van artikel 30/1 of artikel 31;<br>
+2° in voorkomend geval :<br>
+a) kunnen individuele vrijstellingen nooit worden verleend voor het geheel van de algemene vorming of het geheel van de beroepsgerichte vorming;<br>
+b) worden individuele vrijstellingen en vervangingen schriftelijk en gemotiveerd vastgelegd;<br>
+c) doen individuele vrijstellingen en vervangingen geen afbreuk aan de studiebekrachtiging.
 
 ### ART. 59.
 
@@ -517,7 +536,12 @@ De Vlaamse Regering bepaalt de voorwaarden en de procedure, met inbegrip   van e
 
 ### ART. 75.
 
-Syntra Vlaanderen richt in elke vestigingsplaats van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen waar de leertijd wordt aangeboden, een begeleidingsteam op. <br /><br />Het begeleidingsteam bestaat uit een afgevaardigde van Syntra Vlaanderen, die het begeleidingsteam voorzit, de betrokken trajectbegeleider Syntra Vlaanderen, de directeur van het centrum of zijn afgevaardigde en, afhankelijk van de jongere, de lesgevers algemene en beroepsgerichte vorming en de medewerkers van de centra voor leerlingenbegeleiding.<br /><br />Het begeleidingsteam mag zich steeds laten bijstaan door andere personen die nuttige beoordelingselementen kunnen aanbrengen voor de begeleiding of de evaluatie van een of meer jongeren.<br /><br />
+Een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen richt voor elke vestigingsplaats waar de leertijd wordt aangeboden, een begeleidingsteam op.<br>
+<br>
+Het begeleidingsteam bestaat uit de volgende stemgerechtigde leden die elk over één stem beschikken : de directeur van het centrum of zijn afgevaardigde die het begeleidingsteam voorzit, en, afhankelijk van de jongere, de trajectbegeleider, de lesgevers algemene en beroepsgerichte vorming en een afgevaardigde van het CLB.<br>
+<br>
+Het begeleidingsteam mag zich steeds laten bijstaan door andere personen die nuttige beoordelingselementen kunnen aanbrengen voor de begeleiding of de evaluatie van een of meer jongeren.<br>
+&nbsp;
 
 ### ART. 76.
 
@@ -525,14 +549,13 @@ Het begeleidingsteam volgt de vorderingen en de houding van de jongeren tijdens 
 
 ### ART. 77.
 
-Het begeleidingsteam kan gemotiveerde voorstellen doen voor het verdere verloop van de leertijd en de stageovereenkomst alternerende opleiding, de overeenkomst van alternerende opleiding of de deeltijdse arbeidsovereenkomst. Die voorstellen kunnen zijn : voortzetting, verlenging of opheffing van de erkenning van de stageovereenkomst alternerende opleiding, de overeenkomst van alternerende opleiding of de deeltijdse arbeidsovereenkomst.<br>
+Het begeleidingsteam beslist over het verdere verloop van de leertijd van een jongere en of een jongere is geslaagd voor een opleiding.<br>
 <br>
 Daarbij wordt rekening gehouden met de concrete gegevens uit het dossier van de jongere, inzonderheid met de resultaten die voortvloeien uit de evaluatie van de jongere. De evaluatie slaat op de theoretische vorming en de praktijkopleiding in de onderneming en gebeurt permanent om enerzijds de jongere te ondersteunen in zijn leerproces en anderzijds te beslissen of hij in voldoende mate de opleidingsdoelstellingen heeft bereikt. Het begeleidingsteam bepaalt de vorm waarin de jongere wordt geëvalueerd.
 
 ### ART. 78.
 
-De voorstellen van het begeleidingsteam worden bezorgd aan Syntra Vlaanderen, dat een beslissing neemt. Als het voorstel van het begeleidingsteam niet eenparig wordt gedaan, moeten de standpunten die afwijken van het voorstel, eraan toegevoegd worden.<br>
-&nbsp;
+Het begeleidingsteam beslist op gemotiveerde wijze en deelt die beslissing schriftelijk en gemotiveerd mee aan de betrokken personen. Van de beslissingen van het begeleidingsteam wordt een proces-verbaal opgemaakt en worden er notulen gemaakt. Het proces-verbaal bevat de lijst van de geslaagde en niet-geslaagde jongeren. De notulen bevatten een synthese van de elementen die tot de beslissingen hebben geleid, waaronder eventueel het resultaat van een stemming. De processen-verbaal en de notulen moeten gedurende 30 jaar bewaard worden.
 
 ### ART. 79.
 
@@ -552,7 +575,21 @@ Aan een jongere die een opleiding in de leertijd met vrucht heeft gevolgd, wordt
 
 ### ART. 82.
 
-§ 1. Aan een jongere die voldaan heeft aan al de onderstaande voorwaarden wordt een getuigschrift van de tweede graad van het secundair onderwijs uitgereikt :<br />1° met uitzondering van de eerste graad, ten minste 2 schooljaren in het secundair onderwijs of in de leertijd hebben doorgebracht;<br />2° ten minste één certificaat behaald hebben;<br />3° ingevolge een beslissing van Syntra Vlaanderen, in voldoende mate de doelstellingen die in het leerplan zijn opgenomen bereikt hebben en aldus voldaan hebben voor het geheel van de vorming.<br /><br />§ 2. Aan een jongere die voldaan heeft aan al de onderstaande voorwaarden wordt een studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs uitgereikt :<br />1° met uitzondering van de eerste graad, ten minste 4 schooljaren in het secundair onderwijs of in de leertijd hebben doorgebracht;<br />2° ten minste één certificaat behaald hebben;<br />3° ingevolge een beslissing van Syntra Vlaanderen, in voldoende mate de doelstellingen die in het leerplan zijn opgenomen bereikt hebben en aldus voldaan hebben voor het geheel van de vorming.<br /><br />§ 3. Aan een jongere die voldaan heeft aan al de onderstaande voorwaarden wordt een diploma van secundair onderwijs uitgereikt :<br />1° met uitzondering van de eerste graad, ten minste 5 schooljaren in het secundair onderwijs of in de leertijd hebben doorgebracht;<br />2° in het bezit zijn van een getuigschrift van de tweede graad van het secundair onderwijs;<br />3° ten minste één certificaat behaald hebben;<br />4° ingevolge een beslissing van Syntra Vlaanderen, in voldoende mate de doelstellingen die in het leerplan zijn opgenomen bereikt hebben en aldus voldaan hebben voor het geheel van de vorming.
+§ 1. Aan een jongere die voldaan heeft aan al de onderstaande voorwaarden wordt een getuigschrift van de tweede graad van het secundair onderwijs uitgereikt :<br>
+1° met uitzondering van de eerste graad, ten minste 2 schooljaren in het secundair onderwijs of in de leertijd hebben doorgebracht;<br>
+2° ten minste één certificaat behaald hebben;<br>
+3° ingevolge een beslissing van het begeleidingsteam, in voldoende mate de doelstellingen die in het leerplan zijn opgenomen bereikt hebben en aldus voldaan hebben voor het geheel van de vorming.<br>
+<br>
+§ 2. Aan een jongere die voldaan heeft aan al de onderstaande voorwaarden wordt een studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs uitgereikt :<br>
+1° met uitzondering van de eerste graad, ten minste 4 schooljaren in het secundair onderwijs of in de leertijd hebben doorgebracht;<br>
+2° ten minste één certificaat behaald hebben;<br>
+3° ingevolge een beslissing van het begeleidingsteam, in voldoende mate de doelstellingen die in het leerplan zijn opgenomen bereikt hebben en aldus voldaan hebben voor het geheel van de vorming.<br>
+<br>
+§ 3. Aan een jongere die voldaan heeft aan al de onderstaande voorwaarden wordt een diploma van secundair onderwijs uitgereikt :<br>
+1° met uitzondering van de eerste graad, ten minste 5 schooljaren in het secundair onderwijs of in de leertijd hebben doorgebracht;<br>
+2° in het bezit zijn van een getuigschrift van de tweede graad van het secundair onderwijs;<br>
+3° ten minste één certificaat behaald hebben;<br>
+4° ingevolge een beslissing van het begeleidingsteam, in voldoende mate de doelstellingen die in het leerplan zijn opgenomen bereikt hebben en aldus voldaan hebben voor het geheel van de vorming.
 
 ### ART. 83.
 
@@ -681,6 +718,8 @@ De toekenning van het aantal deelnemersuren als vermeld in § 1, voor een bepaal
 De tijdelijke of definitieve stopzetting door een centrum voor deeltijdse vorming van de organisatie van persoonlijke ontwikkelingstrajecten waardoor het aantal deelnemersuren als vermeld in § 1, niet meer wordt toegekend, wordt door het betrokken centrumbestuur aan het Agentschap voor Onderwijsdiensten meegedeeld uiterlijk 31 januari van het voorafgaand schooljaar.<br>
 <br>
 Voor de aanvragen vermeld in het eerste en tweede lid verloopt het beslissingsproces analoog aan dat voor de gevallen bedoeld in paragraaf 2.<br>
+<br>
+§ 1/2. Binnen eenzelfde centrum voor deeltijdse vorming kan gedurende een lopend schooljaar maximum 15% van de toegekende middelen overgedragen worden van het ene naar het andere werkingsgebied.<br>
 <br>
 § 2. Indien tijdens een bepaald schooljaar het door een centrum voor deeltijdse vorming georganiseerd aantal deelnemersuren minder dan 85 % bedraagt van het maximum aantal subsidieerbare deelnemersuren, dan kan vanaf het daaropvolgend schooljaar het maximum aantal gesubsidieerde deelnemersuren voor dat centrum verminderd worden tot maximum 85 % van het aantal gegarandeerde deelnemersuren. Het op die wijze vrijgekomen aantal uren kan door de Vlaamse Regering geheel of gedeeltelijk worden aangewend om nieuwe behoeften te dekken bij bestaande of nieuwe centra voor deeltijdse vorming.<br>
 <br>
