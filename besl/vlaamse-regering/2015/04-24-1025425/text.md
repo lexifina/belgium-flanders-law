@@ -68,9 +68,21 @@ Aan   hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 
 
 Aan   artikel 3 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 27 april 2012, wordt een paragraaf 6 toegevoegd, die luidt als   volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"   § 6. Het bestuur van een Centrum voor Volwassenenonderwijs dat   onderwijsbevoegdheid heeft voor de modulaire opleiding Plaatser parket, heeft   vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de modulaire opleiding   Binnenschrijnwerker.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 15.
+
+Bijlage   I en IV bij hetzelfde besluit worden opgeheven.
+
 ### ART. 16.
 
 Bijlage   II en VII bij hetzelfde besluit worden opgeheven.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 17.
+
+Bijlage   V bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van   21 september 2012, wordt opgeheven.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 18.
+
+Bijlage   IX bij hetzelfde besluit wordt vervangen door bijlage 8, die bij dit besluit is   gevoegd.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
 ### ART. 19.
 
@@ -105,6 +117,10 @@ Aan   hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 1
 ### ART. 26.
 
 Bijlage   I, IV tot en met VI, en VIII en IX bij hetzelfde besluit worden   opgeheven.
+
+### ART. 27.
+
+Bijlage   II, III en VII bij hetzelfde besluit worden opgeheven.
 
 ## Hoofdstuk 6 Wijziging van de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied mechanica-elektriciteit
 
