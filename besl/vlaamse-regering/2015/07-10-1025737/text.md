@@ -36,13 +36,21 @@ Bij   het Agentschap voor Onderwijsdiensten wordt een Vlaamse Bemiddelingscommis
 
 ### ART. 6.
 
-<P>De   leden van de Commissie hebben een mandaat van zes jaar. Het mandaat is eenmaal   hernieuwbaar.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Met   behoud van de toepassing van de bepalingen van het eerste lid eindigt het   mandaat :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   in geval van ontslagneming;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   als niet meer voldaan is aan de aanstellingsvoorwaarden;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   in geval van overlijden.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Bij   de vroegtijdige beëindiging van het mandaat van effectief lid, voltooit de   plaatsvervanger als effectief lid de lopende mandaatperiode van zijn voorganger.   De minister wijst een nieuwe plaatsvervanger aan.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   Commissie behoudt haar bevoegdheden tot de nieuwe Commissie is   samengesteld.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De leden van de Commissie hebben een mandaat van zes jaar. Het mandaat is eenmaal hernieuwbaar.</p>
+
+<p>Met behoud van de toepassing van de bepalingen van het eerste lid eindigt het mandaat :<br>
+1° in geval van ontslagneming;<br>
+2° als niet meer voldaan is aan de aanstellingsvoorwaarden.</p>
+
+<p>Bij de vroegtijdige beëindiging van het mandaat van effectief lid, voltooit de plaatsvervanger als effectief lid de lopende mandaatperiode van zijn voorganger. De minister wijst een nieuwe plaatsvervanger aan.</p>
+
+<p>De Commissie behoudt haar bevoegdheden tot de nieuwe Commissie is samengesteld.</p>
 
 ### ART. 7.
 
 <p>De leden van de Commissie ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig het Vlaams personeelsstatuut van 13 januari 2006.</p>
 
-<p>De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 4000 euro. Indien van toepassing, ontvangt de plaatsvervangende voorzitter pro rata van het aantal voorgezeten vergaderingen, een deel van deze vergoeding.<br>
+<p>De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 4000 euro. Indien van toepassing, ontvangt de plaatsvervangende voorzitter pro rata van het aantal voorgezeten bemiddelingsgesprekken, een deel van deze vergoeding.<br>
 <br>
 De vergoeding wordt jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, en dit indexcijfer wordt voor 75 % toegepast.</p>
 
@@ -64,11 +72,15 @@ De   Commissie stelt bij haar aantreden een werkingsreglement op. Het Ministerie
 
 ### ART. 11.
 
-Een   bemiddelingsverzoek kan alleen worden ingediend :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   na het doorlopen van de fase van uitbreiding van zorg, vermeld in artikel 3, 53°   bis, van het decreet basisonderwijs van 25 februari 1997 en artikel 3, 44° /1,   van de Codex Secundair Onderwijs van 17 december 2010;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   en in geval de vraag tot bemiddeling gesteld wordt door de ouders, na het   doorlopen van bestaande procedures van de school of van het CLB.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Een bemiddelingsverzoek is ontvankelijk:<br>
+1° na het doorlopen van de fase van uitbreiding van zorg, vermeld in artikel 3, 53° bis, van het decreet basisonderwijs van 25 februari 1997, en artikel 3, 44° /1, van de codex secundair onderwijs van 17 december 2010;<br>
+2° en in geval de vraag tot bemiddeling gesteld wordt door de ouders, na het doorlopen van de klachtenprocedure van het CLB.
 
 ### ART. 12.
 
-<P>Zodra   de Commissie ingeschakeld wordt, brengt de voorzitter of zijn gemandateerde de   betrokken partijen op de hoogte van de datum van behandeling en nodigt hen uit   om, uiterlijk op de zitting, elementen ter bespreking te bezorgen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   voorzitter nodigt alleen de leden van de representatieve organisaties van de   centra voor leerlingenbegeleiding, van de representatieve verenigingen van   inrichtende machten, van het GO! Onderwijs van de Vlaamse Gemeenschap en van de   erkende ouderverenigingen uit, die behoren tot het net waartoe het betreffende   centrum voor leerlingenbegeleiding en de school waarvoor het bemiddelingsverzoek   is ingediend, behoren.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Zodra de Commissie ingeschakeld wordt, brengt de voorzitter of zijn gemandateerde de betrokken partijen op de hoogte van de datum van behandeling en nodigt hen uit om, voorafgaand aan het bemiddelingsgesprek en uiterlijk op het door de voorzitter bepaald tijdstip, elementen ter bespreking te bezorgen.</p>
+
+<p>De voorzitter nodigt alleen de leden van de representatieve organisaties van de centra voor leerlingenbegeleiding, van de representatieve verenigingen van inrichtende machten, van het GO! Onderwijs van de Vlaamse Gemeenschap en van de erkende ouderverenigingen uit, die behoren tot het net waartoe het betreffende centrum voor leerlingenbegeleiding en de school waarvoor het bemiddelingsverzoek is ingediend, behoren.</p>
 
 ### ART. 13.
 
@@ -76,7 +88,7 @@ Om   haar werkzaamheden te kunnen uitoefenen, kan de Commissie documenten over d
 
 ### ART. 14.
 
-Een   zitting kan plaatsvinden als de voorzitter of de plaatsvervangende voorzitter   aanwezig is en ten minste één lid van de representatieve organisaties van de   centra voor leerlingenbegeleiding, van de representatieve verenigingen van   inrichtende machten, van het GO! Onderwijs van de Vlaamse Gemeenschap en van de   erkende ouderverenigingen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+Een&nbsp;bemiddelingsgesprek kan plaatsvinden als de voorzitter of de plaatsvervangende voorzitter aanwezig is en ten minste één lid van de representatieve organisaties van de centra voor leerlingenbegeleiding, van de representatieve verenigingen van inrichtende machten, van het GO! Onderwijs van de Vlaamse Gemeenschap en van de erkende ouderverenigingen.
 
 ### ART. 15.
 
