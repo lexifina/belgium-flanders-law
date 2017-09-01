@@ -14,7 +14,70 @@ Dit besluit is van toepassing op de personeelsleden van het bestuurs- en onderwi
 
 ### ART. 2.
 
-Het aantal prestatie-eenheden voor een ambt met volledige prestaties in de   wervingsambten van het bestuurs- en onderwijzend personeel wordt vastgesteld als   volgt : <BR>1° leraar secundair volwassenenonderwijs : <BR>a) 20 lestijden van   50 minuten als het ambt wordt uitgeoefend in de volgende studiegebieden : <BR>1)   Algemene vorming.<BR>2) Chemie.<BR>3) Grafische Technieken.<BR>4) Handel.<BR>5)   Informatie- en communicatietechnologie.<BR>6) Maritieme opleidingen.<BR>7)   Nederlands Tweede taal.<BR>8) Talen richtgraad 1 en 2.<BR>9) Talen richtgraad 3   en 4.<BR>10) Bijzondere Educatieve Noden, als het gaat om de opleidingen Vlaamse   gebarentaal richtgraad 1, Vlaamse gebarentaal richtgraad 2 en   Ervaringsdeskundige in de armoede.<BR>a/1) 20 lestijden van 50 minuten als het   ambt wordt uitgeoefend in de geletterdheidsmodules Nederlands en Leren   leren.<BR>b) 21 lestijden van 50 minuten als het ambt wordt uitgeoefend in de   volgende studiegebieden : <BR>1) Boekbinden.<BR>2) Toerisme.<BR>c) 22 lestijden   van 50 minuten als het ambt wordt uitgeoefend in de volgende studiegebieden :   <BR>1) Mechanica-elektriciteit.<BR>2) Personenzorg.<BR>d) 23 lestijden van 50   minuten als het ambt wordt uitgeoefend in de volgende studiegebieden : <BR>1)   Auto.<BR>2) Koeling en warmte.<BR>3) Land- en tuinbouw.<BR>4)   Lichaamsverzorging.<BR>5) Muziekinstrumentenbouw.<BR>6) Textiel.<BR>7)   Bijzondere Educatieve Noden, als het gaat om de opleidingen autocarchauffeur,   autobuschauffeur, vrachtwagenchauffeur en nascholing vrachtwagenchauffeur.<BR>e)   24 lestijden van 50 minuten als het ambt wordt uitgeoefend in de volgende   studiegebieden : <BR>1) Bouw.<BR>2) Decoratieve technieken.<BR>3)   Diamantbewerking.<BR>4) Hout.<BR>5) Juwelen.<BR>6) Lederbewerking.<BR>7)   Mode.<BR>8) Smeden.<BR>9) Voeding.<BR>f) 25 lestijden van 50 minuten als het   ambt wordt uitgeoefend in de volgende studiegebieden : <BR>1) Huishoudelijk   onderwijs.<BR>2) Kant.<BR>2° lector : 20 lestijden van 50 minuten.
+Het aantal prestatie-eenheden voor een ambt met volledige prestaties in de wervingsambten van het bestuurs- en onderwijzend personeel wordt vastgesteld als volgt :<br>
+1° leraar secundair volwassenenonderwijs:<br>
+a) 20 lestijden van 50 minuten als het ambt wordt uitgeoefend in de volgende studiegebieden:<br>
+1) Aanvullende algemene vorming;<br>
+2) Administratie;<br>
+3) Algemene vorming;<br>
+4) Assistentie vrije zorgberoepen, als het gaat om de opleidingen farmaceutisch technisch assistent, uitvaartassistent, uitvaartmedewerker en uitvaartmanager;<br>
+5) Bedrijfsbeheer;<br>
+6) Bibliotheek-, archief- en documentatiekunde;<br>
+7) Bijzondere educatieve noden;<br>
+8) Chemie;<br>
+9) Europese hoofdtalen richtgraad 1 en 2;<br>
+10) Europese neventalen richtgraad 1 en 2;<br>
+11) Europese talen richtgraad 3 en 4;<br>
+12) Fotografie;<br>
+13) Grafische communicatie en media;<br>
+14) Hebreeuws;<br>
+15) Informatie- en communicatietechnologie;<br>
+16) Logistiek en verkoop;<br>
+17) Maritieme diensten;<br>
+18) Nederlands tweede taal richtgraad 1 en 2;<br>
+19) Nederlands tweede taal richtgraad 3 en 4;<br>
+20) Oosterse talen;<br>
+21) Printmedia;<br>
+22) Scandinavische talen;<br>
+23) Slavische talen;<br>
+b) 20 lestijden van 50 minuten als het ambt wordt uitgeoefend in de geletterdheidsmodules Nederlands en Leren leren;<br>
+c) 21 lestijden van 50 minuten als het ambt wordt uitgeoefend in de volgende studiegebieden:<br>
+1) Ambachtelijk erfgoed, als het gaat om de opleidingen Boekvergulder, Hulpboekbinder, Manueel Boekbinder en Manueel Boekbinder-Boekvergulder;<br>
+2) Toerisme;<br>
+d) 22 lestijden van 50 minuten als het ambt wordt uitgeoefend in de volgende studiegebieden:<br>
+1) Algemene personenzorg;<br>
+2) Assistentie vrije zorgberoepen, als het gaat om de opleiding Tandartsassistent;<br>
+3) ICT-technieken;<br>
+4) Lassen;<br>
+5) Mechanica-elektriciteit;<br>
+6) Specifieke personenzorg;<br>
+e) 23 lestijden van 50 minuten als het ambt wordt uitgeoefend in de volgende studiegebieden:<br>
+1) Ambachtelijk erfgoed, als het gaat om de opleidingen Klavierinstrumentenbouwer-Hersteller, Strijkinstrumentenbouwer-Hersteller en Tokkelinstrumentenbouwer-Hersteller;<br>
+2) Auto;<br>
+3) Groot transport;<br>
+4) Koeling en warmte;<br>
+5) Land- en tuinbouw;<br>
+6) Lichaamsverzorging;<br>
+7) Textiel;<br>
+f) 24 lestijden van 50 minuten als het ambt wordt uitgeoefend in de volgende studiegebieden:<br>
+1) Afwerking bouw<br>
+2) Ambachtelijke accessoires, als het gaat om de opleidingen Accessoires, Breien, Briljanteerder, Diamantbewerker, Diamantsnijder, Edelsteenzetter, Goudsmid, Juweelhersteller, Kruiswerker, Marokijnbewerker, Mode en Interieur, Mode en Textielverkoop, Modist, Schoenhersteller, Schoenmaker- Ontwerper, Uurwerkmaker en Zilversmid;<br>
+3) Ambachtelijk erfgoed, als het gaat om de opleidingen Hoefsmid, Siersmid en Vakman Houtsnijwerk;<br>
+4) Bakkerij;<br>
+5) Drankenkennis;<br>
+6) Horeca;<br>
+7) Meubelmakerij;<br>
+8) Mode: maatwerk;<br>
+9) Mode: realisaties;<br>
+10) Ruwbouw;<br>
+11) Schrijnwerkerij;<br>
+12) Slagerij;<br>
+g) 25 lestijden van 50 minuten als het ambt wordt uitgeoefend in de volgende studiegebieden:<br>
+1) Ambachtelijke accessoires, als het gaat om de opleidingen Afgeknoopte Draden, Borduren, Doorlopende draden en Naaldkant;<br>
+2) Huishoudhulp;<br>
+3) Huishoudelijk koken;<br>
+4) Huishoudelijke decoratie- en naaitechnieken;<br>
+2° lector : 20 lestijden van 50 minuten.
 
 ### ART. 3.
 
