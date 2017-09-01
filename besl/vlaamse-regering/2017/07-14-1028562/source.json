@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028562,
+  "title": "Besluit van de Vlaamse Regering van 2017-07-14 betreffende de toekenning van lestijden, lesuren en uren in het buitengewoon onderwijs op basis van het ondersteuningsmodel voor het schooljaar 2017-2018",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028562/VolledigDocument?datum=2017-09-01",
+  "source_sha256": "c37fa4d24006a6cc441a0abb2bff8e3a048c86f17b5004ad92ab73670d445e83",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028562&param=informatie",
+  "as_of": "2017-09-01",
+  "made": "2017-07-14",
+  "gazette": "2017-08-24",
+  "numac": 2017040634,
+  "document_start": "2017-09-01",
+  "document_end": null,
+  "in_force": "2017-09-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2017-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
