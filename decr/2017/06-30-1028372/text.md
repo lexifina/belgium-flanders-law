@@ -338,6 +338,11 @@ Artikel 107, tweede lid, van het decreet van 15 juni 2007 betreffende het volwas
 
 ## Afdeling 6 Flexibele inzet uren POT-trajecten
 
+### ART 25.
+
+In het artikel 95 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, gewijzigd bij het decreet van 23 december 2011 en het decreet van 19 juni 2015, wordt een paragraaf 1/2 ingevoegd, die luidt als volgt:<br>
+" § 1/2. Binnen eenzelfde centrum voor deeltijdse vorming kan gedurende een lopend schooljaar maximum 15% van de toegekende middelen overgedragen worden van het ene naar het andere werkingsgebied.".
+
 ## Afdeling 7 Middelen verhoogde taalvereiste NT2
 
 ### ART 26.
