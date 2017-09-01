@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027882,
+  "title": "Besluit van de Vlaamse Regering van 2017-01-13 tot vrijstelling van de voorwaarde om een Nederlandstalige equivalente opleiding aan te bieden voor de Master of African Studies",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027882/VolledigDocument?datum=2017-09-01",
+  "source_sha256": "e905f1ac8d27ab50bcecbfa21bb4c17b4bf8859ecfd20df74f5285b8775714f7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027882&param=informatie",
+  "as_of": "2017-09-01",
+  "made": "2017-01-13",
+  "gazette": "2017-02-14",
+  "numac": 2017010581,
+  "document_start": "2017-09-01",
+  "document_end": null,
+  "in_force": "2017-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
