@@ -16,6 +16,18 @@ In   bijlage I bij het decreet van 15 juni 2007 betreffende het volwassenenonder
 
 Artikel   4 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van   27 april 2012, wordt opgeheven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 4.
+
+Bijlage   III bij hetzelfde besluit wordt opgeheven.
+
+### ART. 5.
+
+Bijlage   IX bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van   24 april 2015, wordt opgeheven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 6.
+
+Aan   hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 27   april 2012, 21 september 2012 en 24 april 2015, wordt een bijlage XXII   toegevoegd, die als bijlage 2 bij dit besluit is gevoegd.
+
 ### ART. 7.
 
 Aan   hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 27   april 2012, 21 september 2012 en 24 april 2015, worden een bijlage XXIII tot en   met XXVII toegevoegd, die als bijlage 3 tot en met 7 bij dit besluit zijn   gevoegd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
@@ -24,6 +36,14 @@ Aan   hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 
 
 &nbsp;In artikel 1, eerste lid, van het   besluit van de Vlaamse Regering van 10 juli 2008 betreffende de modulaire   structuur van de studiegebieden van het hoger beroepsonderwijs wordt de zinsnede   "bijlage I tot en met IV" vervangen door de zinsnede "bijlage I en bijlage   IV".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 9.
+
+&nbsp;Bijlage II bij hetzelfde besluit wordt   opgeheven.
+
+### ART. 10.
+
+Bijlage   III bij hetzelfde besluit wordt opgeheven.
+
 ### ART. 11.
 
 In   artikel 1 van het besluit van de Vlaamse Regering van 11 juni 2010 betreffende   de modulaire structuur van het secundair volwassenenonderwijs voor het   studiegebied lichaamsverzorging, gewijzigd bij het besluit van de Vlaamse   Regering van 1 maart 2013, wordt de zinsnede "bijlage I tot en met XII"   vervangen door de zinsnede "bijlage III en bijlage V tot en met   XIV".
@@ -31,6 +51,10 @@ In   artikel 1 van het besluit van de Vlaamse Regering van 11 juni 2010 betreffe
 ### ART. 12.
 
 Aan   artikel 2/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse   Regering van 1 maart 2013, wordt een derde lid toegevoegd, dat luidt als   volgt:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"Het   bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft   voor de modulaire opleiding Kappersmedewerker, heeft vanaf 1 februari 2016   onderwijsbevoegdheid voor de modulaire opleiding Kapper.".
+
+### ART. 13.
+
+&nbsp;Bijlage I bij hetzelfde besluit wordt   opgeheven.
 
 ### ART. 16.
 
