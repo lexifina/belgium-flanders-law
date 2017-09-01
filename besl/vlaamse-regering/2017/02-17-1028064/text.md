@@ -21,20 +21,20 @@ Besluit :
 
 ### ART 1.
 
-De bachelor- en mastergraden in het academisch onderwijs waaraan de specificatie "of Arts", "of Science", "of Laws", "of Medicine", "of Veterinary Science", "of Veterinary Medicine" of "of Philosophy" mag worden toegevoegd, worden vermeld in de lijst, opgenomen in de bijlage die bij dit besluit is gevoegd.
+...
 
 ### ART 2.
 
-Het besluit van de Vlaamse Regering van 4 mei 2016 tot vaststelling van de lijst van de bachelor- en mastergraden in het academisch onderwijs waaraan de specificatie "of Arts", "of Science", "of Laws", "of Medicine", "of Veterinary Science", "of Veterinary Medicine" of "of Philosophy" mag worden toegevoegd wordt opgeheven.
+...
 
 ### ART 3.
 
-Dit besluit heeft uitwerking met ingang van het academiejaar 2016-2017.
+...
 
 ### ART 4.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/03/22_1.pdf#page=464">http://www.ejustice.just.fgov.be/mopdf/2017/03/22_1.pdf#page=464</a>
+...
