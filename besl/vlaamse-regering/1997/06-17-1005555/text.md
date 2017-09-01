@@ -46,29 +46,11 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° ...<BR>2°   and
 1° van de basisomkadering van het kleuteronderwijs worden de lestijden onderwijsopdracht die, in voorkomend geval, de directeur of de adjunct-direteur presteren in het kleuteronderwijs, afgetrokken;<br>
 2° de overige lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van kleuteronderwijzer of leermeester lichamelijke opvoeding. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.</p>
 
-<p>§ 3.&nbsp;Voor de schooljaren 2012-2013, 2013-2014, 2014-2015, 2015-2016 en 2016-2017 kan de basisomkadering van het kleuteronderwijs, mits er een tekort wordt vastgesteld aan kleuteronderwijzers met een vereist of een voldoende geacht bekwaamheidsbewijs of kleuteronderwijzers met een ander bekwaamheidsbewijs die de opleiding bachelor in het onderwijs : kleuteronderwijs volgen, worden ingericht in het ambt van kinderverzorger, na omzetting volgens de onderstaande tabel :</p>
+<p>§ 3.&nbsp;Voor de schooljaren 2012-2013, 2013-2014, 2014-2015, 2015-2016, 2016-2017 en 2017-2018 kan de basisomkadering van het kleuteronderwijs, mits er een tekort wordt vastgesteld aan kleuteronderwijzers met een vereist of een voldoende geacht bekwaamheidsbewijs of kleuteronderwijzers met een ander bekwaamheidsbewijs die de opleiding bachelor in het onderwijs : kleuteronderwijs volgen, worden ingericht in het ambt van kinderverzorger, na omzetting volgens de onderstaande tabel :</p>
 
 <p>&nbsp;</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 &nbsp;
+
 <table border="1">
 	<tbody>
 		<tr>
@@ -158,8 +140,6 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° ...<BR>2°   and
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
 <p><br>
 § 4. Uit de basisomkadering van het lager onderwijs, verkregen volgens artikel 131 van het decreet, kunnen, in het lager onderwijs, betrekkingen worden ingericht in de volgende ambten :<br>
 1° onderwijzer;<br>
@@ -201,7 +181,7 @@ Het aantal regelmatige kleuters dat de school op de instapdatum méér telt ten 
 § 3. Uit de lestijden bekomen ten gevolge van de herberekening vermeld in § 1 en uit de lestijden bekomen ten gevolge van de herberekening vermeld in artikel 173quinquies/1, § 2, van het decreet, kunnen betrekkingen worden ingericht :<br>
 1° in het ambt van kleuteronderwijzer;<br>
 2° in het ambt van leermeester lichamelijke opvoeding;<br>
-3° voor de schooljaren 2012-2013, 2013-2014, 2014-2015, 2015-2016 en 2016-2017 na omzetting van de lestijden in het ambt van kinderverzorger, als er een tekort wordt vastgesteld aan kleuteronderwijzers met een vereist of een voldoende geacht bekwaamheidsbewijs of aan kleuteronderwijzers met een ander bekwaamheidsbewijs die de opleiding bachelor in het onderwijs : kleuteronderwijs volgen.<br>
+3°&nbsp;voor de schooljaren 2012-2013, 2013-2014, 2014-2015, 2015-2016, 2016-2017 en 2017-2018 na omzetting van de lestijden in het ambt van kinderverzorger, als er een tekort wordt vastgesteld aan kleuteronderwijzers met een vereist of een voldoende geacht bekwaamheidsbewijs of aan kleuteronderwijzers met een ander bekwaamheidsbewijs die de opleiding bachelor in het onderwijs : kleuteronderwijs volgen.<br>
 <br>
 § 4. De herberekende lestijden die overeenkomstig § 3 niet worden aangewend in het ambt van kleuteronderwijzer worden samengeteld. Na het samentellen van deze herberekende lestijden worden ze omgezet volgens onderstaande tabel :&nbsp;</p>
 
