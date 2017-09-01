@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029524,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-08 tot wijziging van bijlage 1 en 3 bij het besluit van de Vlaamse Regering van 8 september 2017 betreffende de onderwijsbevoegdheden per vestigingsplaats van centra voor volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029524/VolledigDocument?datum=2017-09-01",
+  "source_sha256": "fc65bfd4c0f248a9f631e9e45df79a7f8d3de6f38a72f569740902d847f271b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029524&param=informatie",
+  "as_of": "2017-09-01",
+  "made": "2018-06-08",
+  "gazette": "2018-07-12",
+  "numac": 2018031424,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2017-09-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
