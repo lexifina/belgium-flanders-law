@@ -76,7 +76,7 @@ De kandidaten worden in de volgorde van hun stemmenaantal verkozen. Bij een geli
 
 ### ART. 17.
 
-Het mandaat van de personeelsafgevaardigden in de LOC's duurt vier jaar en is hernieuwbaar.
+Het mandaat van de personeelsafgevaardigden in de LOC's duurt vier jaar en is hernieuwbaar. In afwijking van de vorige zin zal het mandaat van de personeelsafgevaardigden in de LOC's drie jaar duren voor de periode van 2017-2020.
 
 ### ART. 18.
 
