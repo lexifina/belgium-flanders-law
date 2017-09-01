@@ -82,6 +82,21 @@ Het bestuur van een centrum voor volwassenenonderwijs dat onderwijsbevoegdheid h
 Artikel 2/2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 11 juni 2010, wordt opgeheven.<br>
 &nbsp;
 
+### ART 8.
+
+Bijlage VIII en XV bij hetzelfde besluit worden opgeheven.<br>
+&nbsp;
+
+### ART 9.
+
+Bijlage XVI bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 11 juni 2010, wordt opgeheven.<br>
+&nbsp;
+
+### ART 10.
+
+De bijlagen XVII en XVIII, ingevoegd bij het besluit van de Vlaamse Regering van 1 april 2011, worden opgeheven.<br>
+&nbsp;
+
 ### ART 11.
 
 Aan hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 11 juni 2010 en 1 april 2011, worden een bijlage XIX tot en met XXII toegevoegd, die als bijlage 3 tot en met 6 bij dit besluit zijn gevoegd.<br>
@@ -110,6 +125,11 @@ In hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 24 a
 Het bestuur van een centrum voor volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Informatica: computer- en besturingssystemen en netwerken, heeft vanaf 1 september 2016 ook onderwijs bevoegdheid voor de modulaire opleiding ICT Besturingssystemen en Netwerken.<br>
 <br>
 Het bestuur van een centrum voor volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Informatica: programmeren, heeft vanaf 1 september 2016 ook onderwijs bevoegdheid voor de modulaire opleiding ICT Programmeren.".<br>
+&nbsp;
+
+### ART 15.
+
+Bijlage I bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 24 april 2015, wordt opgeheven.<br>
 &nbsp;
 
 ### ART 17.
