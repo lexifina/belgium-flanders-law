@@ -222,7 +222,9 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 Model van een overeenkomst van alternerende opleiding<br>
 <br>
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=136">http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=136</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=136">http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=136</a><br>
+<br>
+* Met ingang van 1 september 2017 wordt in artikel 6 , eerste lid, van bijlage 1&nbsp;in de voetnoot het punt 3°, d) opgeheven.
 
 ### BIJLAGE
 
