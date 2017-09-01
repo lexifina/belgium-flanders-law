@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028120,
+  "title": "Besluit van de Vlaamse Regering van 2017-03-10 tot wijziging van het besluit van de Vlaamse Regering van 26 februari 2010 betreffende de prestatieregeling en de vaststelling van het recht op een salaris in een ambt in de centra voor volwassenenonderwijs betreffende een aanpassing van de prestatienoemers per studiegebied",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028120/VolledigDocument?datum=2017-09-01",
+  "source_sha256": "e3ae8e9c358a3ef8418ee37ab0795f8ede735bc2e7b0d422e5554d425f0e06f0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028120&param=informatie",
+  "as_of": "2017-09-01",
+  "made": "2017-03-10",
+  "gazette": "2017-04-10",
+  "numac": 2017011458,
+  "document_start": "2017-09-01",
+  "document_end": null,
+  "in_force": "2017-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
