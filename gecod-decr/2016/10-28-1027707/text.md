@@ -783,7 +783,7 @@ Bovendien moet het internaat of tehuis :<br>
 1° een structuur aannemen vastgesteld door of krachtens een wet of decreet;<br>
 2° zich aan de door de Vlaamse Regering ingerichte controle en onderwijsinspectie onderwerpen. Deze inspectie heeft in het bijzonder betrekking op de studieomgeving en het studieklimaat en de middelen die ter beschikking staan om de leerstof in te oefenen en de toepassing van de taalwetten, met uitsluiting van de pedagogische methodes;<br>
 3° georganiseerd zijn onder de verantwoordelijkheid van een bestuur, zoals bedoeld in artikel 24, §4, van de Grondwet, zijnde een natuurlijke persoon of een rechtspersoon;<br>
-4° het minimum aantal leerlingen tellen, bepaald bij de regelgeving, behoudens een door de Vlaamse minister, bevoegd voor het onderwijs, verleende vrijstelling met het oog op bijzondere en exceptionele omstandigheden;<br>
+4° het minimum aantal leerlingen tellen, bepaald bij de regelgeving;<br>
 5° gevestigd zijn in lokalen die aan de voorwaarden inzake hygiëne en bewoonbaarheid voldoen;<br>
 6° beschikken over materieel en een uitrusting die beantwoorden aan de pedagogische vereisten;<br>
 7° beschikken over personeel waarvan de gezondheidstoestand die van de leerlingen niet in gevaar brengt en dat onderworpen is aan de regelgeving inzake controle op afwezigheid wegens ziekte;<br>
@@ -835,7 +835,7 @@ Een internaat of tehuis kan eveneens worden opgericht in het kader van een herst
 &nbsp;<br>
 Een internaat of tehuis kan eveneens worden opgericht in het kader van een herstructurering, zijnde een afsplitsing van een bestaand internaat of tehuis, al dan niet na fusie, met dien verstande dat het oorspronkelijke aantal internaten of tehuizen wel wordt overschreden. In voorkomend geval bedraagt de oprichtingsnorm 40 regelmatig ingeschreven interne leerlingen op 1 september van het schooljaar van oprichting. Deze norm is van toepassing op alle internaten en tehuizen die uit de herstructurering voortvloeien.<br>
 &nbsp;<br>
-§2. De behoudsnorm voor een door de Vlaamse Gemeenschap gefinancierd of gesubsidieerd internaat of tehuis bedraagt 30 regelmatig ingeschreven interne leerlingen op 1 februari van het voorafgaande schooljaar.<br>
+§2. De behoudsnorm voor een door de Vlaamse Gemeenschap gefinancierd of gesubsidieerd internaat of tehuis bedraagt 30 regelmatig ingeschreven interne leerlingen op 1 februari van het voorafgaande schooljaar. Internaten en tehuizen die niet aan de behoudsnorm voldoen, blijven gefinancierd of gesubsidieerd als het internaat of tehuis op de vorige teldag wel aan de geldende norm voldeed.<br>
 &nbsp;<br>
 §3. Indien 1 september of 1 februari een lesvrije dag is, dan wordt de eerstvolgende lesdag als teldatum genomen.
 
