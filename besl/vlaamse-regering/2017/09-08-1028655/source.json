@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028655,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-08 tot wijziging van het besluit van de Vlaamse regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs, wat betreft het omzetten van lestijden in uren kinderverzorging",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028655/VolledigDocument?datum=2017-09-01",
+  "source_sha256": "272f6240508561a2e1cae7dd04cc7be46b99b29bacee3a79a6f28b8bde43897c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028655&param=informatie",
+  "as_of": "2017-09-01",
+  "made": "2017-09-08",
+  "gazette": "2017-10-11",
+  "numac": 2017031263,
+  "document_start": "2017-09-01",
+  "document_end": null,
+  "in_force": "2017-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
