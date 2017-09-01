@@ -150,7 +150,7 @@ Een pedagogische begeleidingsdienst die recht heeft op minder dan twintig halfti
 <br>
 § 6. Binnen iedere pedagogische begeleidingsdienst kan, met het oog op de uitoefening van bestuurlijke en organisatorische taken ten behoeve van deze pedagogische begeleidingsdienst, aan maximum drie voltijdse of zes halftijdse vastbenoemde pedagogische adviseurs een verlof wegens opdracht worden toegekend, zoals vermeld in artikel 51quater, § 3, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding of artikel 77quater, § 3, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs.<br>
 <br>
-§ 7. De pedagogische begeleidingsdienst die op 1 februari 2015 voor het eerst 350 of meer organieke betrekkingen telt in een van de niveaus, vermeld in § 1, zal voor het schooljaar 2015-2016 en voor het schooljaar 2016-2017 niet over een personeelsformatie beschikken.
+§ 7. De pedagogische begeleidingsdienst die op 1 februari 2015 voor het eerst 350 of meer organieke betrekkingen telt in een van de niveaus, vermeld in § 1, zal voor het schooljaar 2015-2016&nbsp;tot en met het schooljaar 2018-2019 niet over een personeelsformatie beschikken.
 
 ## Afdeling II. Verloven wegens bijzondere opdracht
 
@@ -468,7 +468,29 @@ De Vlaamse Regering richt een permanent overlegorgaan op waarin de inspectie en 
 
 ### ART. 49.
 
-§ 1. De volgende personeelsleden kunnen lid worden van de inspectie : <br />1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs; <br />2° de personeelsleden, vermeld in artikel 4, § 1, a), van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding; <br />3° het zelfstandig en het assisterend academisch personeel van de universiteiten;<br />4° het onderwijzend personeel van de hogescholen; <br />5° de leraars basiseducatie, de stafmedewerkers en de directeurs in een centrum voor basiseducatie en de educatieve personeelsleden tewerkgesteld in het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs.<br /><br />§ 2. De personeelsleden, vermeld in § 1, kunnen zich kandidaat stellen voor een ambt van de inspectie als ze ten minste acht jaar dienstanciënniteit hebben in het onderwijs, ten minste acht jaar gepresteerde diensten in de basiseducatie hebben of ten minste acht jaar dienstanciënniteit/gepresteerde diensten hebben in het onderwijs als in de basiseducatie samen. <br /><br />§ 3. In afwijking van § 1 en § 2 kan iemand zich ook kandidaat stellen als hij ten minste acht jaar relevante ervaring heeft in of met het onderwijs of de basiseducatie, aangevuld met ervaring in kwaliteitszorg en evaluatie in educatieve sectoren. <br /><br />§ 4. De algemene voorwaarden voor de toelating tot een ambt bij de inspectie zijn : <br />1° onderdaan zijn van een lidstaat van de Europese Unie of van de Europese Vrijhandelsassociatie, behoudens een door de Vlaamse Regering te verlenen vrijstelling; <br />2° van onberispelijk gedrag zijn, zoals dat blijkt uit een uittreksel uit het strafregister dat niet langer dan één jaar tevoren werd afgegeven; <br />3° de burgerlijke en politieke rechten genieten behoudens een door de Vlaamse Regering te verlenen vrijstelling die samengaat met de vrijstelling, vermeld in punt 1°;<br />4° voldoen aan de dienstplichtwetten;<br />5° voldoen aan de taalvereisten zoals bepaald in artikel 50 van dit decreet.<br /><br />§ 5. De kandidaat moet aan de aanwervingsvoorwaarden voldoen uiterlijk op het ogenblik van de kandidaatstelling voor de test van de generieke competenties. <br /><br />§ 6. De voorzitter van de selectiecommissie, vermeld in artikel 65, § 3, gaat na of de kandidaat voldoet aan de aanwervingsvoorwaarden. Hij baseert zich hiervoor op het dossier, vermeld in artikel 64, § 2. Indien de voorzitter van de selectiecommissie, vermeld in artikel 65, § 3, oordeelt dat de kandidaat niet aan de aanwervingsvoorwaarden voldoet, kan de kandidaat, binnen zeven kalenderdagen na de kennisname van zijn beslissing, vragen om gehoord te worden. De voorzitter van de selectiecommissie, vermeld in artikel 65, § 3, hoort de kandidaat in ieder geval voor de test van de generieke competenties.<br /><br />§ 7. De Vlaamse Regering bepaalt hoe de dienstanciënniteit in het onderwijs en de gepresteerde diensten in de basiseducatie worden berekend.
+§ 1. De volgende personeelsleden kunnen lid worden van de inspectie :<br>
+1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
+2° de personeelsleden, vermeld in artikel 4, § 1, a), van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
+3° het zelfstandig en het assisterend academisch personeel van de universiteiten;<br>
+4° het onderwijzend personeel van de hogescholen;<br>
+5° de leraars basiseducatie, de stafmedewerkers en de directeurs in een centrum voor basiseducatie en de educatieve personeelsleden tewerkgesteld in het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs.<br>
+<br>
+§ 2. De personeelsleden, vermeld in § 1, kunnen zich kandidaat stellen voor een ambt van de inspectie als ze ten minste acht jaar dienstanciënniteit hebben in het onderwijs, ten minste acht jaar gepresteerde diensten in de basiseducatie hebben of ten minste acht jaar dienstanciënniteit/gepresteerde diensten hebben in het onderwijs als in de basiseducatie samen.<br>
+<br>
+§ 3. In afwijking van § 1 en § 2 kan iemand zich ook kandidaat stellen als hij ten minste acht jaar relevante ervaring heeft in of met het onderwijs of de basiseducatie, aangevuld met ervaring in kwaliteitszorg en evaluatie in educatieve sectoren.<br>
+<br>
+§ 4. De algemene voorwaarden voor de toelating tot een ambt bij de inspectie zijn :<br>
+1° onderdaan zijn van een lidstaat van de Europese Unie of van de Europese Vrijhandelsassociatie, behoudens een door de Vlaamse Regering te verlenen vrijstelling;<br>
+2° van onberispelijk gedrag zijn, zoals dat blijkt uit een uittreksel uit het strafregister dat niet langer dan één jaar tevoren werd afgegeven;<br>
+3° de burgerlijke en politieke rechten genieten behoudens een door de Vlaamse Regering te verlenen vrijstelling die samengaat met de vrijstelling, vermeld in punt 1°;<br>
+4° ...;<br>
+5° voldoen aan de taalvereisten zoals bepaald in artikel 50 van dit decreet.<br>
+<br>
+§ 5. De kandidaat moet aan de aanwervingsvoorwaarden voldoen uiterlijk op het ogenblik van de kandidaatstelling voor de test van de generieke competenties.<br>
+<br>
+§ 6. De voorzitter van de selectiecommissie, vermeld in artikel 65, § 3, gaat na of de kandidaat voldoet aan de aanwervingsvoorwaarden. Hij baseert zich hiervoor op het dossier, vermeld in artikel 64, § 2. Indien de voorzitter van de selectiecommissie, vermeld in artikel 65, § 3, oordeelt dat de kandidaat niet aan de aanwervingsvoorwaarden voldoet, kan de kandidaat, binnen zeven kalenderdagen na de kennisname van zijn beslissing, vragen om gehoord te worden. De voorzitter van de selectiecommissie, vermeld in artikel 65, § 3, hoort de kandidaat in ieder geval voor de test van de generieke competenties.<br>
+<br>
+§ 7. De Vlaamse Regering bepaalt hoe de dienstanciënniteit in het onderwijs en de gepresteerde diensten in de basiseducatie worden berekend.
 
 ### ART. 50.
 
@@ -986,7 +1008,26 @@ Behoudens uitdrukkelijk strijdige bepalingen heeft het personeelslid in de stand
 
 ### ART. 144.
 
-Onder de door de Vlaamse Regering bepaalde voorwaarden is het personeelslid in de stand non-activiteit als : <br />1° het in vredestijd sommige militaire prestaties vervult of voor de civiele bescherming of voor taken van openbaar nut wordt aangewezen op grond van de wetten houdende het statuut van de gewetensbezwaarden, gecoördineerd op 20 februari 1980; <br />2° een afwezigheid van lange duur die gewettigd is door familiale redenen, wordt toegestaan; <br />3° het personeelslid afwezig is op grond van een machtiging om zijn ambt met verminderde prestaties wegens persoonlijke aangelegenheden uit te oefenen, in dit geval is het personeelslid in non-activiteit voor de niet-uitgeoefende prestaties;<br />4° het met politiek verlof is, met inbegrip van de periode van eventuele uitgestelde indiensttreding na de beëindiging van het mandaat.<br /><br />In afwachting dat de Vlaamse Regering de voorwaarden, vermeld in het eerste lid, vastlegt, gelden voor de personeelsleden de bepalingen die van toepassing zijn op de personeelsleden van het gemeenschapsonderwijs.
+Onder de door de Vlaamse Regering bepaalde voorwaarden is het personeelslid in de stand non-activiteit als :<br>
+1° het in vredestijd sommige militaire prestaties vervult of voor de civiele bescherming of voor taken van openbaar nut wordt aangewezen op grond van de wetten houdende het statuut van de gewetensbezwaarden, gecoördineerd op 20 februari 1980;<br>
+2° ...;<br>
+3° het personeelslid afwezig is op grond van een machtiging om zijn ambt met verminderde prestaties uit te oefenen, in dit geval is het personeelslid in non-activiteit voor de niet-uitgeoefende prestaties;<br>
+4° het met politiek verlof is, met inbegrip van de periode van eventuele uitgestelde indiensttreding na de beëindiging van het mandaat.<br>
+<br>
+In afwachting dat de Vlaamse Regering de voorwaarden, vermeld in het eerste lid, vastlegt, gelden voor de personeelsleden de bepalingen die van toepassing zijn op de personeelsleden van het gemeenschapsonderwijs.<br>
+<br>
+De wettelijke feestdagen, de weekends en de herfst-, kerst-, krokus- en paasvakantie die, geheel of gedeeltelijk, onmiddellijk aansluiten bij een voorafgaande periode van afwezigheid voor verminderde prestaties, en die een nieuwe periode van afwezigheid voor verminderde prestaties onmiddellijk voorafgaan, worden eveneens als een periode van afwezigheid voor verminderde prestaties beschouwd.<br>
+<br>
+Onverminderd de berekeningswijze van de tijdens de zomervakantie toe te kennen uitgestelde bezoldiging en als in wettelijke of reglementaire bepalingen of in de door de Vlaamse Regering vastgelegde voorwaarden wordt vermeld dat als gevolg van een tijdens het schooljaar of dienstjaar genoten afwezigheid voor verminderde prestaties het salaris tijdens het jaarlijkse vakantieverlof in evenredige mate wordt verminderd, heeft dat tot gevolg dat in de zomervakantie van dat schooljaar of dienstjaar een aantal kalenderdagen niet worden bezoldigd. Om dat aantal kalenderdagen te berekenen :<br>
+1° worden alle kalenderdagen genoten afwezigheid voor verminderde prestaties opgeteld met een maximum van driehonderd dagen per schooljaar of dienstjaar;<br>
+2° wordt het resultaat met 0,2 vermenigvuldigd;<br>
+3° wordt het resultaat naar de lagere eenheid afgerond.<br>
+<br>
+Als ten gevolge van die berekening het maandsalaris niet volledig verschuldigd is, wordt het in dertigsten verdeeld in overeenstemming met de regeling die in dit geval voor de vastbenoemde personeelsleden wordt toegepast.<br>
+<br>
+Onverminderd de berekeningswijze van de geldelijke anciënniteit voor tijdelijke personeelsleden met het recht op uitgestelde bezoldiging, komen de voormelde dagen wel in aanmerking voor de berekening van de geldelijke anciënniteit en worden niet meegerekend om de duur te bepalen van de periode van afwezigheid voor verminderde prestaties waarop het personeelslid nog recht heeft.<br>
+<br>
+In afwijking van de bepalingen van het vierde lid eindigt de afwezigheid voor verminderde prestaties, toegekend voor een volledig schooljaar of dienstjaar steeds bij het einde van dat schooljaar of dienstjaar, de zomervakantie inbegrepen.
 
 ### ART. 145.
 
@@ -998,17 +1039,11 @@ Ongewettigde afwezigheid plaatst het personeelslid ambtshalve in de stand non-ac
 
 Het personeelslid kan, onder de door de Vlaamse Regering bepaalde voorwaarden, ter beschikking worden gesteld wegens :<br>
 1° ziekte;<br>
-2° persoonlijke aangelegenheden;<br>
-3° persoonlijke aangelegenheden voorafgaand aan het rustpensioen.<br>
+2° persoonlijke aangelegenheden, voorafgaand aan het rustpensioen.<br>
 <br>
 Een personeelslid dat ter beschikking gesteld is om de reden, vermeld in het eerste lid, 1°, kan gedurende twee jaar zijn aanspraak op een ander ambt en op bevordering tot een hoger salaris doen gelden.<br>
 <br>
-In afwachting dat de Vlaamse Regering de voorwaarden, vermeld in het eerste lid, vaststelt, gelden voor de personeelsleden de bepalingen die van toepassing zijn op de personeelsleden van het gemeenschapsonderwijs.<br>
-<br>
-Als in de voormelde wettelijke of reglementaire bepalingen of in de door de Vlaamse Regering uitgevaardigde verlofstelsels wordt vermeld dat als gevolg van een tijdens het schooljaar of dienstjaar genoten terbeschikkingstelling wegens persoonlijke aangelegenheden het salaris tijdens het jaarlijkse vakantieverlof in evenredige mate wordt verminderd, heeft dat tot gevolg dat in de zomervakantie van dat schooljaar of dienstjaar, enkel voor de bezoldiging, een aantal kalenderdagen eveneens als dergelijk verlof wordt beschouwd. De aldus met een periode van verlof gelijkgestelde dagen worden niet meegerekend om de duur te bepalen van de periode van verlof waarop het personeelslid nog recht heeft. Voor het berekenen van dit aantal kalenderdagen :<br>
-1° worden het aantal kalenderdagen genoten verlof opgeteld met een maximum van driehonderd dagen per schooljaar of dienstjaar;<br>
-2° wordt het resultaat met 0,2 vermenigvuldigd;<br>
-3° wordt het resultaat naar de lagere eenheid afgerond.
+In afwachting dat de Vlaamse Regering de voorwaarden, vermeld in het eerste lid, vaststelt, gelden voor de personeelsleden de bepalingen die van toepassing zijn op de personeelsleden van het gemeenschapsonderwijs.
 
 ### ART. 147.
 
@@ -1016,7 +1051,9 @@ Niemand kan ter beschikking gesteld of gehouden worden wegens   ziekte&nbsp;vana
 
 ### ART. 148.
 
-De Vlaamse Regering bepaalt de voorwaarden waaronder een personeelslid ter beschikking gesteld wordt om de redenen, vermeld in artikel 146, eerste lid, 1°, 2°, en 3°. <br /><br />Het wachtgeld, de toelagen en de vergoedingen die eventueel aan dat personeelslid wordt toegekend, zijn onderworpen aan de mobiliteitsregeling die geldt voor de bezoldiging van een personeelslid in dienst-activiteit.
+De Vlaamse Regering bepaalt de voorwaarden waaronder een personeelslid ter beschikking gesteld wordt om de redenen, vermeld in artikel 146, eerste lid.<br>
+<br>
+Het wachtgeld, de toelagen en de vergoedingen die eventueel aan dat personeelslid wordt toegekend, zijn onderworpen aan de mobiliteitsregeling die geldt voor de bezoldiging van een personeelslid in dienst-activiteit.
 
 ## HOOFDSTUK XI. Definitieve ambtsneerlegging
 
