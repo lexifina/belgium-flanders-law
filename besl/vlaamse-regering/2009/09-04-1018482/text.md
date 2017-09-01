@@ -72,7 +72,22 @@ In dit hoofdstuk wordt onder een personeelslid verstaan :<br />1° het personeel
 
 ### ART. 11.
 
-§ 1. Voor de toewijzing van een betrekking kan de inrichtende macht of directeur, in afwijking van de bestaande reglementaire bepalingen, tijdelijk en na toestemming van het personeelslid, een beroep doen op een personeelslid dat :<br />1° met verlof is voor verminderde prestaties, gewettigd door sociale of familiale redenen, of afwezig is voor verminderde prestaties wegens persoonlijke aangelegenheid;<br />2° ter beschikking gesteld is wegens persoonlijke aangelegenheden;<br />3° deeltijds ter beschikking gesteld is wegens persoonlijke aangelegenheden, voorafgaand aan het rustpensioen;<br />4° volledig ter beschikking gesteld is wegens persoonlijke aangelegenheden, voorafgaand aan het rustpensioen.<br /><br />§ 2. De toewijzing, vermeld in paragraaf 1, gebeurt uiterlijk tot het einde van het lopende school- of dienstjaar op voorwaarde dat geen ander geschikt kandidaat kan worden gevonden die de betrokken prestaties kan uitoefenen.<br /><br />Een geschikt kandidaat is een persoon die voldoet aan de decretale of reglementaire aanstellingsvoorwaarden vastgelegd in de rechtspositieregeling.<br /><br />Verhaal tegen de toewijzing van een betrekking vermeld in paragraaf 1, wordt ingediend en behandeld op dezelfde wijze als vermeld in het besluit van de Vlaamse Regering van 24 maart 1993 tot uitvoering van artikel 10, § 6, van het koninklijk besluit nr. 63 van 20 juli 1982 houdende wijziging van de bezoldigingsregels van toepassing op het onderwijzend en daarmee gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan.<br /><br />§ 3. Het verlof of de afwezigheid voor verminderde prestaties, of de terbeschikkingstelling wegens persoonlijke aangelegenheden van het personeelslid dat zich in het geval, vermeld in paragraaf1, 1° of 2°, bevindt, wordt geheel of gedeeltelijk opgeschort zodra op het personeelslid een beroep wordt gedaan.<br /><br />Een personeelslid kan tijdens de opschorting van het verlof, de afwezigheid of de terbeschikkingstelling opnieuw geheel of gedeeltelijk de betrekking opnemen waarvan het titularis is, of een andere betrekking opnemen waarbij de opdracht van de vervanger tijdelijk wordt opgeschort.<br /><br />
+§ 1. Voor de toewijzing van een betrekking kan de inrichtende macht of directeur, in afwijking van de bestaande reglementaire bepalingen, tijdelijk en na toestemming van het personeelslid, een beroep doen op een personeelslid dat :<br>
+1° met verlof of afwezigheid is voor verminderde prestaties;<br>
+2° ...<br>
+3° deeltijds ter beschikking gesteld is wegens persoonlijke aangelegenheden, voorafgaand aan het rustpensioen;<br>
+4° volledig ter beschikking gesteld is wegens persoonlijke aangelegenheden, voorafgaand aan het rustpensioen.<br>
+<br>
+§ 2. De toewijzing, vermeld in paragraaf 1, gebeurt uiterlijk tot het einde van het lopende school- of dienstjaar op voorwaarde dat geen ander geschikt kandidaat kan worden gevonden die de betrokken prestaties kan uitoefenen.<br>
+<br>
+Een geschikt kandidaat is een persoon die voldoet aan de decretale of reglementaire aanstellingsvoorwaarden vastgelegd in de rechtspositieregeling.<br>
+<br>
+Verhaal tegen de toewijzing van een betrekking vermeld in paragraaf 1, wordt ingediend en behandeld op dezelfde wijze als vermeld in het besluit van de Vlaamse Regering van 24 maart 1993 tot uitvoering van artikel 10, § 6, van het koninklijk besluit nr. 63 van 20 juli 1982 houdende wijziging van de bezoldigingsregels van toepassing op het onderwijzend en daarmee gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan.<br>
+<br>
+§ 3. Het verlof of de afwezigheid voor verminderde prestaties, of de terbeschikkingstelling wegens persoonlijke aangelegenheden van het personeelslid dat zich in het geval, vermeld in paragraaf1, 1° of 2°, bevindt, wordt geheel of gedeeltelijk opgeschort zodra op het personeelslid een beroep wordt gedaan.<br>
+<br>
+Een personeelslid kan tijdens de opschorting van het verlof, de afwezigheid of de terbeschikkingstelling opnieuw geheel of gedeeltelijk de betrekking opnemen waarvan het titularis is, of een andere betrekking opnemen waarbij de opdracht van de vervanger tijdelijk wordt opgeschort.<br>
+&nbsp;
 
 ## Afdeling II Bezoldiging
 
