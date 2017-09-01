@@ -6,19 +6,19 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de   modulaire structuur van het studiegebied chemie, dat behoort tot het secundair   volwassenenonderwijs, vastgelegd in bijlage 1&nbsp;tot en met&nbsp;6, die bij   dit besluit zijn gevoegd.
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied chemie, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 1 en bijlage 3 tot en met 6, die bij dit besluit zijn gevoegd.
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar   na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die   evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het   decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<BR><BR>De   opleidingsprofielen vastgelegd in bijlagenn 3 tot en met 6 worden uiterlijk   tijdens het schooljaar 2016-2017 geëvalueerd.
+...
 
 ### ART. 3.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat   onderwijsbevoegdheid heeft voor de modulaire opleiding Farmaceutisch Technisch   Assistent TSO 3 heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de   modulaire opleiding Farmaceutisch Technisch Assistent.<BR><BR>Het bestuur van   een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de   modulaire opleiding Biochemie TSO3 heeft vanaf 1 februari 2013   onderwijsbevoegdheid voor de modulaire opleidingen Technicus in   fermentatieprocessen - bieren, Technicus in fermentatieprocessen - wijnen,   Technicus in fermentatieprocessen - destillaten en likeuren en Technicus in   fermentatieprocessen - zuivel.
+...
 
 ### ART. 4.
 
-De modulaire opleiding Farmaceutisch Technisch Assistent TSO 3 kan, bij wijze van overgangsmaatregel, nog gedurende het schooljaar 2011-2012 georganiseerd worden.
+...
 
 ### ART. 5.
 
@@ -34,7 +34,7 @@ Modulaire opleiding Procesoperator Chemie<br /><br /> <a href="http://www.ejusti
 
 ### BIJLAGE
 
-Modulaire opleiding Farmaceutisch Technisch Assistent <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/10/31_1.pdf#page=64" title=" " target="_blank" class="pdf"></a>
+...
 
 ### BIJLAGE
 
