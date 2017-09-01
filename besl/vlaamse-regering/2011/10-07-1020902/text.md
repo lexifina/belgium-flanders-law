@@ -29,44 +29,44 @@ Besluit :<br>
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied muziekinstrumentenbouw, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 1 tot en met 3, die bij dit besluit zijn gevoegd.<br /><br />
+...
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />
+...
 
 ### ART. 3.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Tokkelinstrumentenbouw BSO 3 heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleiding Tokkelinstrumentenbouwer-hersteller.<br /><br />
+...
 
 ### ART. 4.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Strijkinstrumentenbouw BSO 3, heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleiding Strijkinstrumentenbouwer-hersteller.<br /><br />
+...
 
 ### ART. 5.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Klavierinstrumentenbouw BSO 3, heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleiding Klavierinstrumentenbouwer-hersteller.<br /><br />
+...
 
 ### ART. 6.
 
-De modulaire opleidingen Tokkelinstrumentenbouw BSO 3, Strijkinstrumentenbouw BSO 3 en Klavierinstrumentenbouw BSO 3 kunnen, bij wijze van overgangsmaatregel, nog gedurende het schooljaar 2011-2012 georganiseerd worden.<br /><br />
+...
 
 ### ART. 7.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2011.<br /><br />
+...
 
 ### ART. 8.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
+...
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/07_1.pdf#page=52" title=" Bijlage 1" target="_blank" class="pdf">Bijlage 1</a>
+...
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/07_1.pdf#page=83" title=" Bijlage 2" target="_blank" class="pdf">Bijlage 2</a>
+...
 
 ### BIJLAGE 3
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/07_1.pdf#page=109" title=" Bijlage 3" target="_blank" class="pdf">Bijlage 3</a>
+...
