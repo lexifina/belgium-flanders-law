@@ -4,7 +4,11 @@
 
 ### ART. 1.
 
-§ 1. Dit besluit is van toepassing op:<br /><br />1° de personeelsleden van de hogescholen, bedoeld in het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap voor zover ze worden betaald ten laste van de werkingsuitkeringen, met uitzondering van de gastprofessoren;<br /><br />2° de personeelsleden van de Hogere Zeevaartschool, bedoeld in het decreet van 9 juni 1998 betreffende de Hogere Zeevaartschool;<br /><br />3° de personeelsleden, vermeld in artikel 182, § 1, 1° tot en met 3°, en in artikel 195bis, § 8, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, die effectief in een hogeschool zijn tewerkgesteld.<br /><br />§ 2. Hoofdstuk III en Hoofdstuk IV is niet van toepassing op de personeelsleden vermeld in artikel 182, § 1, 1° tot en met 3°, en in artikel 195bis, § 8, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, die niet in een hogeschool zijn tewerkgesteld. Hiervoor gelden de regels die van toepassing zijn op hun effectieve werkrelatie.
+§ 1. Dit besluit is van toepassing op de tijdelijke en de benoemde personeelsleden van de hogescholen in de Vlaamse Gemeenschap, die behoren tot de categorieën van het onderwijzend of van het administratief en technisch personeel, bedoeld in deel 5, titel 2 en titel 5, hoofdstuk 2 van de Codex Hoger Onderwijs, gecodificeerd op 11 oktober 2013.<br>
+<br>
+Dit besluit is ook van toepassing op de personeelsleden, vermeld in artikel III.35, § 1, 1° tot en met 3° en in artikel III.36, § 4, van de Codex Hoger Onderwijs, die effectief in een hogeschool zijn tewerkgesteld.<br>
+<br>
+§ 2. Hoofdstuk III en hoofdstuk IV is niet van toepassing op de personeelsleden, vermeld in artikel III.35, § 1, 1° tot en met 3°, en in artikel III.36, § 4, van de Codex Hoger Onderwijs, die niet in een hogeschool zijn tewerkgesteld. Hiervoor gelden de regels die van toepassing zijn op hun effectieve werkrelatie.
 
 ## HOOFDSTUK II Moederschapsbescherming
 
@@ -58,7 +62,13 @@ Het opvangverlof bedraagt : <br />1° ten hoogste zes weken als het opgenomen ki
 
 ### ART. 8/4.
 
-Het opvangverlof moet een aanvang nemen binnen&nbsp;vier maanden volgend   op de datum waarop het kind effectief in het gezin wordt opgenomen. Het bewijs   van de opname wordt geleverd door een door het gemeentebestuur uitgereikt   getuigschrift van domiciliëring.&nbsp; In geval van een intrafamiliale adoptie,   zoals gedefinieerd in het besluit van de Vlaamse Regering van 12 oktober 2012   betreffende de voorbereiding en de nazorg bij interlandelijke adoptie, wordt   bovendien het bewijs geleverd dat het verzoekschrift tot adoptie is   ingediend.<BR><BR>In afwijking van het eerste lid kan het opvangverlof ook   beginnen op de dag van de afreis van het personeelslid naar het buitenland, op   voorwaarde dat de adoptie bij de terugkeer in België tot stand is gekomen.   <BR><BR>Als blijkt dat er bij de terugkeer geen adoptie heeft plaatsgevonden,   wordt het opvangverlof omgezet in een terbeschikkingstelling wegens persoonlijke   aangelegenheden. Die terbeschikkingstelling neemt een einde bij het verstrijken   van de periode waarvoor het opvangverlof was aangevraagd.<BR><BR>Als de   procedure voor de intrafamiliale adoptie niet in een adoptie resulteert, dan   wordt het opvangverlof omgezet in een terbeschikkingstelling wegens persoonlijke   aangelegenheden. De terbeschikkingstelling neemt een einde bij het verstrijken   van de periode waarvoor het opvangverlof was aangevraagd.
+Het opvangverlof moet een aanvang nemen binnen&nbsp;vier maanden volgend op de datum waarop het kind effectief in het gezin wordt opgenomen. Het bewijs van de opname wordt geleverd door een door het gemeentebestuur uitgereikt getuigschrift van domiciliëring.&nbsp; In geval van een intrafamiliale adoptie, zoals gedefinieerd in het besluit van de Vlaamse Regering van 12 oktober 2012 betreffende de voorbereiding en de nazorg bij interlandelijke adoptie, wordt bovendien het bewijs geleverd dat het verzoekschrift tot adoptie is ingediend.<br>
+<br>
+In afwijking van het eerste lid kan het opvangverlof ook beginnen op de dag van de afreis van het personeelslid naar het buitenland, op voorwaarde dat de adoptie bij de terugkeer in België tot stand is gekomen.<br>
+<br>
+Als blijkt dat er bij de terugkeer geen adoptie heeft plaatsgevonden, wordt het opvangverlof omgezet in een afwezigheid voor verminderde prestaties. Die afwezigheid neemt een einde bij het verstrijken van de periode waarvoor het opvangverlof was aangevraagd.<br>
+<br>
+Als de procedure voor de intrafamiliale adoptie niet in een adoptie resulteert, dan wordt het opvangverlof omgezet in een afwezigheid voor verminderde prestaties. De&nbsp;afwezigheid neemt een einde bij het verstrijken van de periode waarvoor het opvangverlof was aangevraagd.
 
 ### ART. 8/5.
 
@@ -84,31 +94,97 @@ Het pleegzorgverlof bedraagt ten hoogste zes dagen per kalenderjaar. Als twee pe
 
 ### ART. 9.
 
-§ 1. Het hogeschoolbestuur kan aan de personeelsleden op hun verzoek een verlof voor verminderde prestaties toestaan. Het personeelslid dat een verlof voor verminderde prestaties geniet, moet ten minste een opdracht van 10 % van een voltijdse opdracht aan de hogeschool of meerdere hogescholen of andere onderwijsinstellingen blijven vervullen. De nog te verrichten prestaties moeten steeds worden afgerond naar de hogere eenheid.<br /><br />§ 2. Het hogeschoolbestuur kan een personeelslid enkel omwille van de goede werking van de hogeschool weigeren zijn opdracht met verminderde prestaties uit te oefenen. Als het verzoek niet of slechts gedeeltelijk wordt ingewilligd, wordt de beslissing omstandig gemotiveerd.
+§ 1. Een personeelslid, vermeld in artikel 1, kan verlof voor verminderde prestaties opnemen. Tijdens het verlof voor verminderde prestaties kan het personeelslid de prestaties:<br>
+1° volledig onderbreken;<br>
+2° verminderen tot de helft van een voltijdse betrekking;<br>
+3° verminderen tot 80% van een voltijdse betrekking.<br>
+<br>
+In afwijking van het eerste lid kan het hogeschoolbestuur bij onderlinge overeenkomst het personeelslid een ander volume van vermindering van de prestaties toestaan. Het personeelslid blijft ten minste een opdracht van 10% van een voltijdse opdracht vervullen aan de hogeschool, aan verschillende hogescholen, of aan andere onderwijsinstellingen, met uitzondering van de universiteiten, behalve voor wat het integratiekader betreft. De nog te verrichten prestaties worden altijd afgerond naar de hogere eenheid.<br>
+<br>
+§ 2. De prestaties, vermeld in paragraaf 1, omvatten ook de prestaties, verstrekt aan een andere hogeschool of in een andere onderwijsinstelling van een ander niveau, vermeld in artikel 15 van het besluit van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties, met uitzondering van de universiteiten, behalve voor wat het integratiekader betreft.<br>
+<br>
+De volledige onderbreking omvat al de door de Vlaamse Gemeenschap gefinancierde en gesubsidieerde ambten die het personeelslid uitoefent in het onderwijs en in de centra voor leerlingenbegeleiding, met uitzondering van de universiteiten, behalve voor wat het integratiekader betreft.
 
 ### ART. 10.
 
-§ 1. Het verlof voor verminderde prestaties wordt gelijkgesteld met dienstactiviteit.<br /><br />§ 2. Het personeelslid ontvangt tijdens de periode waarin hij zijn opdracht met verminderde prestaties uitoefent, een salaris dat overeenkomt met het volume van de nog effectief uitgeoefende opdracht aan de hogeschool.
+De totale duur van de volledige onderbreking van de prestaties mag over de hele loopbaan niet meer dan 24 maanden bedragen.<br>
+<br>
+De totale duur van de vermindering van de prestaties mag over de hele loopbaan niet meer dan 120 maanden bedragen.<br>
+<br>
+Bij de berekening van de maximale duur van het verlof voor verminderde prestaties, vermeld in het eerste en het tweede lid, wordt alleen rekening gehouden met de volledige onderbreking of de vermindering van de prestaties vanaf 1 september 2017. Bij de berekening van die termijnen wordt ook rekening gehouden met de duur van de verloven voor verminderde prestaties die opgenomen zijn aan andere hogescholen, andere onderwijsinstellingen of centra voor leerlingenbegeleiding, met uitzondering van de universiteiten, behalve voor wat het integratiekader betreft.
 
 ### ART. 11.
 
-De totale duur van het verlof voor verminderde prestaties dat een personeelslid over zijn hele loopbaan neemt, mag de vijf jaar niet overschrijden. Om te bepalen of deze vijf jaar bereikt zijn, wordt ook rekening gehouden met de duur van de verloven voor verminderde prestaties die op basis van andere regelgeving werden genomen voor 1.1.2006, met uitzondering van de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheden.<br /><br />Na het verstrijken van de termijn van vijf jaar wordt het verlof voor verminderde prestaties automatisch omgezet in een deeltijdse terbeschikkingstelling wegens persoonlijke aangelegenheden.
+Het verlof voor verminderde prestaties is gedurende een periode van 60 maanden een recht, ongeacht of de prestaties tijdens het verlof volledig onderbroken worden of verminderd worden tot de helft of 80% van een voltijdse betrekking.<br>
+<br>
+Vanaf de 61ste maand of wanneer bij onderlinge overeenkomst een ander volume van vermindering van de prestaties toegestaan is dan vermeld in het eerste lid, kan het verlof alleen opgenomen worden met instemming van het hogeschoolbestuur.<br>
+<br>
+Het in het eerste lid vermelde recht geldt voor tijdelijke personeelsleden op voorwaarde dat ze:<br>
+1° in de periode voorafgaand aan het verlof een aanstelling hebben gekregen voor een volledig academiejaar als onderwijzend personeel of voor een aaneensluitende periode van 12 maanden als administratief en technisch personeel in een vacante of niet-vacante betrekking;<br>
+2° bij de aanvang van het verlof voor een volledig academiejaar als onderwijzend personeel of voor een aaneensluitende periode van 12 maanden als administratief of technisch personeel zijn aangesteld.
 
 ### ART. 12.
 
-Het volume, de aanvangsdatum en de duur van het verlof voor verminderde prestaties worden bepaald bij overeenkomst tussen het hogeschoolbestuur en het personeelslid.<br /><br />Het verlof voor verminderde prestaties eindigt steeds op het einde van een academiejaar, de zomervakantie inbegrepen, tenzij het hogeschoolbestuur hierop een afwijking toestaat.<br /><br />Voor tijdelijke personeelsleden eindigt het verlof voor verminderde prestaties steeds bij het einde van de aanstelling.<br /><br />Het hogeschoolbestuur kan het personeelslid, op zijn verzoek en mits een opzeggingsperiode van één maand in acht wordt genomen, toestaan vervroegd een einde te maken aan het verlof voor verminderde prestaties. Het hogeschoolbestuur kan een kortere opzeggingstermijn aanvaarden.
+Het verlof voor verminderde prestaties gaat in op 1 september, 1 oktober of 1 februari.<br>
+<br>
+Het verlof voor verminderde prestaties eindigt altijd op 31 augustus of 30 september. Voor tijdelijke personeelsleden eindigt het verlof voor verminderde prestaties altijd op het einde van hun aanstelling.<br>
+<br>
+In afwijking van het eerste en het tweede lid kan het hogeschoolbestuur een andere begin- of einddatum toestaan.<br>
+<br>
+Het hogeschoolbestuur kan het personeelslid, op zijn verzoek en mits een opzeggingsperiode van één maand in acht wordt genomen, toestaan vervroegd een einde te maken aan het verlof voor verminderde prestaties. Het hogeschoolbestuur kan een kortere opzeggingstermijn aanvaarden.
 
 ## [Afdeling 2. Verlof voor verminderde prestaties vanaf de leeftijd van 55 jaar (ing. BVR 21 april 2017, art. 13, I: 1 september 2017)]
 
 ### ART. 13.
 
-Het verlof wegens ziekte of gebrekkigheid of de terbeschikkingstelling wegens ziekte of gebrekkigheid maken geen einde aan de verminderde prestaties.<br /><br />Voor het vaststellen van het wachtgeld bij terbeschikkingstelling wegens ziekte of gebrekkigheid wordt als activiteitssalaris genomen het salaris dat verbonden is aan de nog effectief uitgeoefende prestaties.
+De personeelsleden hebben vanaf 1 september, 1 oktober of 1 februari die volgt op de datum waarop ze de leeftijd van 55 jaar bereikt hebben, en uiterlijk tot de datum waarop ze met pensioen gaan, recht op een gedeeltelijk verlof voor verminderde prestaties.<br>
+<br>
+Tijdelijke personeelsleden hebben recht op het verlof, vermeld in het eerste lid, op voorwaarde dat ze:<br>
+1° in het academiejaar dat voorafgaat aan het verlof, een aanstelling hebben gekregen voor het volledige academiejaar als onderwijzend personeel of een aaneensluitende periode van 12 maanden als administratief en technisch personeel in een vacante of niet-vacante betrekking;<br>
+2° bij de aanvang van het academiejaar waarin ze het verlof nemen, opnieuw voor een volledig academiejaar als onderwijzend personeel of voor een aaneensluitende periode van 12 maanden als administratief en technisch personeel zijn aangesteld.<br>
+<br>
+De periodes van verlof voor verminderde prestaties vanaf de leeftijd van 55 jaar tellen niet mee voor de berekening van de termijnen, vermeld in artikel 10 en 11.
 
 ### ART. 14.
 
-§ 1. Het verlof voor verminderde prestaties wordt opgeschort op het ogenblik dat het personeelslid afwezig is wegens:<br />1° bevallingsverlof;<br />2° borstvoedingsverlof;<br />3° een terbeschikkingstelling wegens persoonlijke aangelegenheden;<br />4° vakbondsverlof;<br />5° verlof voor het vervullen van gewone of spoedwederoproepingen bij de strijdkrachten of bij de burgerlijke bescherming;<br />6° verlof om dwingende redenen van familiaal belang;<br />7° verlof om een stage te vervullen in een andere betrekking van de staat, een gemeenschap, een gewest, de provincies, de gemeenten, een daarmee gelijkgestelde openbare instelling, een officiële of een gesubsidieerde vrije school of centrum;<br />8° verlof om zijn kandidatuur voor de wetgevende of provinciale verkiezingen voor te dragen;<br />9° verlof om de cursussen bij te wonen van de school voor burgerlijke bescherming, hetzij als vrijwillige dienstnemer bij dat korps, hetzij als niet tot dat korps behorende leerling;<br />10° verlof om in vredestijd prestaties te verrichten bij het korps voor burgerlijke bescherming als vrijwillige dienstnemer bij dat korps;<br />11° verlof voor het vervullen van sommige militaire prestaties in vredestijd en van diensten bij de civiele bescherming of van taken van openbaar nut op grond van de wetten houdende het statuut van de gewetensbezwaarden, gecoördineerd op 20 februari 1980;<br />12° verlof voor het verrichten van bepaalde prestaties ten behoeve van de in de wetgevende vergaderingen van de staat en van de gemeenschappen of de gewesten erkende politieke groepen, respectievelijk ten behoeve van de voorzitters van die groepen;<br />13° verlof om van het kabinet van de koning deel uit te maken;<br />14° een loopbaanonderbreking voor palliatieve verzorging, de verzorging van een zwaar ziek familielid, of voor ouderschapsverlof;<br />15° verlof bij overlijden of hospitalisatie van de moeder;<br />16° verlof voor de opvang met het oog op adoptie en pleegvoogdij.<br /><br />§ 2. Gedurende de periode dat een personeelslid een verlof voor verminderde prestaties geniet, mag het geen winstgevende activiteit uitoefenen.
+<br>
+Tijdens het verlof voor verminderde prestaties kan het personeelslid de prestaties:<br>
+1° verminderen tot de helft van een voltijdse betrekking;<br>
+2° verminderen tot 80% van een voltijdse betrekking.<br>
+<br>
+Het personeelslid kan ieder jaar op de ingangsdatum van het verlof de omvang van het gedeeltelijke verlof voor verminderde prestaties vanaf 55 jaar aanpassen.<br>
+<br>
+Het personeelslid heeft eenmalig het recht om, met behoud van het recht op een nieuw verlof voor verminderde prestaties vanaf 55 jaar, op de ingangsdatum van het verlof voor verminderde prestaties vanaf 55 jaar het verlof te beëindigen en zijn betrekking aan de hogeschool weer op te nemen.
 
 ## [Afdeling 3. Algemene bepalingen (ing. BVR 21 april 2017, art. 16, I: 1 september 2017)]
+
+### ART 14/1.
+
+Het verlof voor verminderde prestaties wordt gelijkgesteld met dienstactiviteit.<br>
+<br>
+Het personeelslid ontvangt tijdens de periode waarin het zijn prestaties vermindert, een salaris dat overeenkomt met het volume van de effectief uitgeoefende opdracht aan de hogeschool. Bij een volledige onderbreking van de prestaties ontvangt het personeelslid geen salaris, salaristoelage, wachtgeld of wachtgeldtoelage.<br>
+<br>
+Gedurende de periode dat een personeelslid een verlof voor verminderde prestaties geniet, mag het geen vervangende winstgevende activiteit uitoefenen. De volgende politieke mandaten worden niet als een vervangende winstgevende activiteit beschouwd: gemeenteraadslid, provincieraadslid, lid van het Bureau van de Raad voor Maatschappelijk Welzijn, lid van de Raad voor Maatschappelijk Welzijn of lid van de districtsraad.
+
+### ART 14/2.
+
+Het personeelslid dat verlof voor verminderde prestaties wil nemen of dat de omvang van het verlof voor verminderde prestaties vanaf 55 jaar wil wijzigen, dient daarvoor een aanvraag in bij het hogeschoolbestuur. De aanvraag vermeldt de gewenste aanvangsdatum, de duur en de omvang van het verlof voor verminderde prestaties.<br>
+<br>
+Het hogeschoolbestuur deelt zijn beslissing aan het personeelslid mee binnen vijftien kalenderdagen vanaf de ontvangst van de aanvraag. Als de aanvraag niet wordt ingewilligd, wordt de beslissing gemotiveerd.
+
+### ART 14/3.
+
+Het verlof voor verminderde prestaties wordt opgeschort op het ogenblik dat het personeelslid afwezig is wegens:<br>
+1° bevallingsverlof;<br>
+2° verlof voor de opvang met het oog op adoptie en pleegvoogdij;<br>
+3° borstvoedingsverlof;<br>
+4° verlof bij overlijden of ziekenhuisopname van de moeder;<br>
+5° loopbaanonderbreking voor ouderschapsverlof;<br>
+6° loopbaanonderbreking voor medische bijstand;<br>
+7° loopbaanonderbreking voor palliatieve zorgen;<br>
+8° zorgkrediet.<br>
+<br>
+Ziekteverlof of een terbeschikkingstelling wegens ziekte schorten het verlof voor verminderde prestaties niet op.
 
 ## HOOFDSTUK V Ziekteverlof van tijdelijke personeelsleden die behoren tot de categorie van het onderwijzend personeel van de hogescholen en tot de categorie van het bestuurs- en onderwijzend personeel van de Hogere Zeevaartschool
 
@@ -134,11 +210,45 @@ Indien de afwezigheid wegens ziekte of gebrekkigheid van een in artikel 16 bedoe
 
 ### ART. 19.
 
-Het hogeschoolbestuur kan een personeelslid, op zijn verzoek, een terbeschikkingstelling wegens persoonlijke aangelegenheden toestaan.<br /><br />Deze terbeschikkingstelling kan volledig of deeltijds zijn.<br />Het personeelslid kan geen ziekte of gebrekkigheid inroepen die hij gedurende de periode van volledige terbeschikkingstelling heeft opgedaan.
+§ 1. Het hogeschoolbestuur kan een personeelslid, op zijn verzoek, een afwezigheid voor verminderde prestaties toestaan. Die afwezigheid kan voltijds of deeltijds zijn.<br>
+<br>
+§ 2. Bij een deeltijdse afwezigheid ontvangt het personeelslid een salaris dat gebaseerd is op zijn effectieve prestaties. Bij een voltijdse afwezigheid ontvangt het personeelslid geen salaris, salaristoelage, wachtgeld of wachtgeldtoelage.
 
 ### ART. 20.
 
-Het volume, de aanvangsdatum en de duur van de terbeschikkingstelling wegens persoonlijke aangelegenheden worden bepaald bij overeenkomst tussen het hogeschoolbestuur en het personeelslid.<br /><br />De deeltijdse terbeschikkingstelling wegens persoonlijke aangelegenheden eindigt steeds op het einde van een academiejaar, de zomervakantie inbegrepen, tenzij het hogeschoolbestuur hierop een afwijking toestaat.<br /><br />Voor tijdelijke personeelsleden eindigt de terbeschikkingstelling steeds bij het einde van de aanstelling.
+De totale duur van de afwezigheid voor verminderde prestaties mag over de hele loopbaan niet meer dan zestig maanden bedragen, ongeacht of het gaat om een voltijdse of deeltijdse afwezigheid. Gedurende de afwezigheid bevindt het personeelslid zich in de stand non-activiteit.<br>
+<br>
+Bij de berekening van de maximale duur van de afwezigheid voor verminderde prestaties, vermeld in het eerste lid, wordt alleen rekening gehouden met de volledige onderbreking of de vermindering van de prestaties vanaf 1 september 2017. Bij de berekening van die termijnen wordt ook rekening gehouden met de duur van de afwezigheden voor verminderde prestaties die opgenomen zijn aan andere hogescholen, andere onderwijsinstellingen of centra voor leerlingenbegeleiding, met uitzondering van de universiteiten, behalve voor wat het integratiekader betreft.<br>
+<br>
+In afwijking van het eerste lid kan de totale duur van zestig maanden worden overschreden als een andere onderbreking van de beroepsloopbaan, ander verlof of een andere afwezigheid ambtshalve wordt omgezet in een afwezigheid voor verminderde prestaties.
+
+### ART 20/1.
+
+Het volume, de aanvangsdatum en de duur van de afwezigheid voor verminderde prestaties worden bepaald in een overeenkomst tussen het hogeschoolbestuur en het personeelslid.<br>
+<br>
+De afwezigheid voor verminderde prestaties eindigt altijd op het einde van een academiejaar, de zomervakantie inbegrepen, tenzij het hogeschoolbestuur een afwijking daarvan toestaat.<br>
+<br>
+Voor tijdelijke personeelsleden eindigt de afwezigheid altijd op het einde van de aanstelling.<br>
+<br>
+Het hogeschoolbestuur kan het personeelslid, op zijn verzoek en mits een opzeggingsperiode van één maand in acht wordt genomen, toestaan vervroegd een einde te maken aan de afwezigheid voor verminderde prestaties. Het hogeschoolbestuur kan een kortere opzeggingstermijn aanvaarden.
+
+### ART 20/2.
+
+Het personeelslid dat een afwezigheid voor verminderde prestaties wil nemen, dient daarvoor een aanvraag in bij het hogeschoolbestuur. Het hogeschoolbestuur deelt zijn beslissing mee binnen dertig kalenderdagen vanaf de ontvangst van de aanvraag.
+
+### ART 20/3.
+
+De afwezigheid voor verminderde prestaties wordt opgeschort op het ogenblik dat het personeelslid afwezig is wegens:<br>
+1° bevallingsverlof;<br>
+2° verlof voor de opvang met het oog op adoptie en pleegvoogdij;<br>
+3° borstvoedingsverlof;<br>
+4° verlof bij overlijden of ziekenhuisopname van de moeder;<br>
+5° loopbaanonderbreking voor ouderschapsverlof;<br>
+6° loopbaanonderbreking voor medische bijstand;<br>
+7° loopbaanonderbreking voor palliatieve zorgen;<br>
+8° zorgkrediet.<br>
+<br>
+Ziekteverlof of een terbeschikkingstelling wegens ziekte schorten de afwezigheid voor verminderde prestaties niet op.
 
 ## [HOOFDSTUK VII ... (opgeh. BVR 26 februari 2021, art. 5, I: 1 januari 2021)]
 
