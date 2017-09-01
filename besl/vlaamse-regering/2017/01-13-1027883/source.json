@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027883,
+  "title": "Besluit van de Vlaamse Regering van 2017-01-13 tot vrijstelling van de voorwaarde om een Nederlandstalige equivalente opleiding aan te bieden voor de Master of Business and Information Systems Engineering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027883/VolledigDocument?datum=2017-09-01",
+  "source_sha256": "7c6c783fcd656e361b4dba51621c7b69f74b7a3f603816050a779ca931573401",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027883&param=informatie",
+  "as_of": "2017-09-01",
+  "made": "2017-01-13",
+  "gazette": "2017-02-14",
+  "numac": 2017010582,
+  "document_start": "2017-09-01",
+  "document_end": null,
+  "in_force": "2017-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
