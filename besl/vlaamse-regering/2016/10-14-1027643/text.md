@@ -1334,7 +1334,7 @@ De toegekende punten worden samengeteld en naar gelang van dat totaal behoort de
 
 ### ART 139.
 
-§ 1. Voor de persoon met een verminderde zelfredzaamheid die behoort tot de categorie A, wordt een bedrag van 13.395,42 euro van het inkomen niet in aanmerking genomen. Voor de persoon met een verminderde zelfredzaamheid die behoort tot de categorie B, wordt een bedrag van 16.738,72 euro van het gezinsinkomen niet in aanmerking genomen.<br>
+§ 1. Voor de persoon met een verminderde zelfredzaamheid die behoort tot de categorie A, wordt een bedrag van 13.872,38 euro van het inkomen niet in aanmerking genomen. Voor de persoon met een verminderde zelfredzaamheid die behoort tot de categorie B, wordt een bedrag van 17.334,71 euro van het gezinsinkomen niet in aanmerking genomen.<br>
 <br>
 De bedragen, vermeld in het eerste lid, worden gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen overeenkomstig de bepalingen van de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening gehouden moet worden bij de berekening van sommige bijdragen van de sociale zekerheid van de werknemers, alsook de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen. Het besluit van de Vlaamse Regering van 17 juli 2015 houdende de indexering van subsidies, forfaits en tegemoetkomingen is van toepassing op die koppeling.<br>
 <br>
