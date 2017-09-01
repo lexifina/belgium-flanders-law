@@ -420,6 +420,11 @@ Wanneer de klassenraad en het CLB op basis van deze evaluatie beslissen dat de a
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">``8° deze regeling is in hoofde van een leerling gedurende hetzelfde schooljaar niet combineerbaar met hetgeen in artikel 260/1 is opgenomen.".</span><br>
 &nbsp;
 
+### ART III.24.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In de artikelen 175, § 6, 178, 200, 206, 274, § 1, 4°, en § 4, en 285/1, van dezelfde codex worden de woorden "uiterlijk 1 mei" telkens vervangen door de woorden "uiterlijk 1 april".</span><br>
+&nbsp;
+
 ### A III.25.
 
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Artikel 177 van dezelfde codex, gewijzigd bij de decreten van 19 juli 2013 en 25 april 2014, wordt vervangen door wat volgt :</span><br>
