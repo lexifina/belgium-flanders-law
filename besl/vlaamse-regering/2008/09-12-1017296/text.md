@@ -30,7 +30,34 @@ Voor de toepassing van dit besluit wordt verstaan onder : <BR>1° bekwame   mind
 
 ### ART. 2.
 
-Het multidisciplinaire dossier verzamelt alle gekende gegevens die op   papier of op een andere informatiedrager geregistreerd zijn door CLB-medewerkers   in het kader van hun opdracht binnen het centrum, en die in verband staan met   een leerling die tot de doelgroep van het centrum behoort.<BR><BR>Het   multidisciplinaire dossier bevat minstens de volgende beschikbare gegevens :   <BR>1° de administratieve gegevens van de betrokken leerling : <BR>a) de   identificatiegegevens van de leerling : voornaam, achternaam, geboortedatum,   nationaliteit;<BR>b) de hoofdverblijfplaats en in voorkomend geval andere   feitelijke verblijfplaatsen;<BR>c) school, onderwijsniveau, structuuronderdeel,   leerjaar, klas;<BR>d) voornaam, achternaam, geboortedatum van de ouders en in   voorkomend geval de opvoedingsverantwoordelijken;<BR>e) contactgegevens van de   ouders en in voorkomend geval de opvoedingsverantwoordelijken;<BR>2° de gegevens   over de verplichte begeleiding op het vlak van preventieve gezondheidszorg naar   aanleiding van een algemeen of gericht consult : <BR>a) de gegevens die   beschikbaar worden gesteld door de ouders en in voorkomend geval de   opvoedingsverantwoordelijken;<BR>b) de gegevens die beschikbaar worden gesteld   door de school;<BR>c) de gegevens die door Kind en Gezin en door de door Kind en   Gezin erkende instellingen en diensten of door de behandelende arts beschikbaar   worden gesteld;<BR>d) de gegevens die het resultaat zijn van het consult, met   inbegrip van de nazorg; <BR>e) in voorkomend geval het gezondheidsbilan;<BR>3°   de gegevens over de vaccinaties en over de profylactische maatregelen;<BR>4° de   gegevens over de verplichte begeleiding inzake leerplicht : <BR>a) de notulen   van het gestructureerde overleg tussen de school en het centrum over de   voortgangscontrole van afwezigheden van de leerling;<BR>b) de begeleiding van   leerplichtproblemen;<BR>c) een kopie van de documenten die de school moet   bezorgen aan het beleidsdomein Onderwijs en Vorming naar aanleiding van   schoolveranderingen;<BR>d) de gegevens van andere instanties die betrokken zijn   bij de begeleiding van leerplichtproblemen;<BR>5° de gegevens in het kader van   het verzekerd aanbod, vermeld in het besluit van de Vlaamse Regering van 3 juli   2009 tot vaststelling van de operationele doelstellingen van de Centra voor   Leerlingenbegeleiding;<BR>6° de gegevens van de vraaggestuurde begeleiding;   <BR>7° een chronologisch overzicht van alle contacten en tussenkomsten in   verband met de betrokken leerling, met vermelding van de aard van de tussenkomst   en de naam van de betrokken CLB-medewerker;<BR>8° het resultaat van het   eventuele multidisciplinaire overleg binnen het centrum, met inbegrip van de   gekozen methodiek;<BR>9° de eventuele verwijzingen naar een externe dienst of   persoon, met de vermelding van de naam ervan, met inbegrip van de gegevens die   werden medegedeeld aan de bevoegde instanties binnen Integrale   Jeugdhulpverlening ter uitvoering van het decreet van 12 juli 2013 betreffende   de integrale jeugdhulp;<BR>10° de gegevens die werden meegedeeld aan de school   of een personeelslid van de school;<BR>11° in voorkomend geval, de dossiers die   zijn overgedragen door de vroegere PMS- en MST-centra.
+Het multidisciplinaire dossier verzamelt alle gekende gegevens die op papier of op een andere informatiedrager geregistreerd zijn door CLB-medewerkers in het kader van hun opdracht binnen het centrum, en die in verband staan met een leerling die tot de doelgroep van het centrum behoort of door CLB-medewerkers van een ander centrum als de leerling ook onder begeleiding van dat andere centrum is.<br>
+<br>
+Het multidisciplinaire dossier bevat minstens de volgende beschikbare gegevens :<br>
+1° de administratieve gegevens van de betrokken leerling :<br>
+a) de identificatiegegevens van de leerling : voornaam, achternaam, geboortedatum, nationaliteit;<br>
+b) de hoofdverblijfplaats en in voorkomend geval andere feitelijke verblijfplaatsen;<br>
+c) school, onderwijsniveau, structuuronderdeel, leerjaar, klas;<br>
+d) voornaam, achternaam, geboortedatum van de ouders en in voorkomend geval de opvoedingsverantwoordelijken;<br>
+e) contactgegevens van de ouders en in voorkomend geval de opvoedingsverantwoordelijken;<br>
+2° de gegevens over de verplichte begeleiding op het vlak van preventieve gezondheidszorg naar aanleiding van een algemeen of gericht consult :<br>
+a) de gegevens die beschikbaar worden gesteld door de ouders en in voorkomend geval de opvoedingsverantwoordelijken;<br>
+b) de gegevens die beschikbaar worden gesteld door de school;<br>
+c) de gegevens die door Kind en Gezin en door de door Kind en Gezin erkende instellingen en diensten of door de behandelende arts beschikbaar worden gesteld;<br>
+d) de gegevens die het resultaat zijn van het consult, met inbegrip van de nazorg;<br>
+e) in voorkomend geval het gezondheidsbilan;<br>
+3° de gegevens over de vaccinaties en over de profylactische maatregelen;<br>
+4° de gegevens over de verplichte begeleiding inzake leerplicht :<br>
+a) de notulen van het gestructureerde overleg tussen de school en het centrum over de voortgangscontrole van afwezigheden van de leerling;<br>
+b) de begeleiding van leerplichtproblemen;<br>
+c) een kopie van de documenten die de school moet bezorgen aan het beleidsdomein Onderwijs en Vorming naar aanleiding van schoolveranderingen;<br>
+d) de gegevens van andere instanties die betrokken zijn bij de begeleiding van leerplichtproblemen;<br>
+5° de gegevens in het kader van het verzekerd aanbod, vermeld in het besluit van de Vlaamse Regering van 3 juli 2009 tot vaststelling van de operationele doelstellingen van de Centra voor Leerlingenbegeleiding;<br>
+6° de gegevens van de vraaggestuurde begeleiding;<br>
+7° een chronologisch overzicht van alle contacten en tussenkomsten in verband met de betrokken leerling, met vermelding van de aard van de tussenkomst en de naam van de betrokken CLB-medewerker;<br>
+8° het resultaat van het eventuele multidisciplinaire overleg binnen het centrum, met inbegrip van de gekozen methodiek;<br>
+9° de eventuele verwijzingen naar een externe dienst of persoon, met de vermelding van de naam ervan, met inbegrip van de gegevens die werden medegedeeld aan de bevoegde instanties binnen Integrale Jeugdhulpverlening ter uitvoering van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+10° de gegevens die werden meegedeeld aan de school of een personeelslid van de school;<br>
+11° in voorkomend geval, de dossiers die zijn overgedragen door de vroegere PMS- en MST-centra.
 
 ### ART. 3.
 
@@ -44,7 +71,9 @@ Elke CLB-medewerker is wat zijn opdrachten betreft verantwoordelijk voor het aan
 
 ### ART. 5.
 
-Elke CLB-medewerker heeft, als hij betrokken is bij de begeleiding van de leerling in kwestie, toegang tot alle gegevens, vermeld in artikel 2. De toegang tot die gegevens voor de betrokken CLB-medewerker gebeurt steeds onder de verantwoordelijkheid van de directeur en de verantwoordelijke beroepsbeoefenaar van het centrum.
+Elke CLB-medewerker van het centrum die betrokken is bij de begeleiding van de leerling in kwestie, heeft toegang tot alle gegevens, vermeld in artikel 2.<br>
+<br>
+Een CLB-medewerker van een ander centrum die betrokken is bij de begeleiding van de leerling, kan toegang krijgen tot het multidisciplinaire dossier van de leerling onder begeleiding van dat andere centrum. De toegang tot voormelde gegevens voor de betrokken CLB-medewerker gebeurt altijd onder de verantwoordelijkheid van de directeur en de verantwoordelijke beroepsbeoefenaar van het centrum. De toegang tot voormelde gegevens voor de betrokken CLB-medewerker is daarenboven slechts mogelijk mits toestemming van de ouders, de bekwame minderjarige leerling zoals omschreven in artikel 4 van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp of de meerderjarige leerling.
 
 ### ART. 6.
 
@@ -106,11 +135,9 @@ Wanneer de beroepsbeoefenaar van oordeel is dat het meedelen van medische gegeve
 
 ### ART. 9.
 
-Het centrum en de CLB-medewerkers mogen enkel in het belang van de leerling gegevens uit het multidisciplinaire dossier bezorgen aan de volgende derden :<br>
+Met behoud van de toepassing van de bepalingen van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, mogen het centrum en de CLB-medewerkers alleen in het belang van de leerling gegevens uit het multidisciplinaire dossier bezorgen aan de volgende derden:<br>
 1° het betrokken schoolpersoneel voor wat betreft de gegevens die nodig zijn om hun taak naar behoren te kunnen vervullen;<br>
-1° /1 de actoren, vermeld in artikel 72 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, als de volgende voorwaarden vervuld zijn:<br>
-a) de gegevensuitwisseling heeft alleen betrekking op gegevens die noodzakelijk zijn voor de jeugdhulp;<br>
-b) er wordt zo veel mogelijk geprobeerd om de instemming met de gegevensuitwisseling te verkrijgen van de persoon op wie de gegevens betrekking hebben;<br>
+1° /1 ...;<br>
 2° anderen, om een verplichting na te komen die opgelegd wordt door of krachtens een wet, een decreet of een ordonnantie, of op gemotiveerd verzoek of na schriftelijke toestemming van :<br>
 a) de bekwame minder- of meerderjarige leerling;<br>
 b) de ouders of in voorkomend geval de opvoedingsverantwoordelijken, in eigen naam of namens de niet-bekwame minder- of meerderjarige leerling.<br>
