@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028259,
+  "title": "Besluit van de Vlaamse Regering van 2017-04-21 tot aanpassing van een aantal verlofstelsels in het onderwijs en in de hogescholen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028259/VolledigDocument?datum=2017-09-01",
+  "source_sha256": "cc4ccebef43e3956f867467d049703248f87ea9b06af93034a69148b4b545a0b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028259&param=informatie",
+  "as_of": "2017-09-01",
+  "made": "2017-04-21",
+  "gazette": "2017-05-30",
+  "numac": 2017040315,
+  "document_start": "2017-09-01",
+  "document_end": null,
+  "in_force": "2017-09-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2017-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
