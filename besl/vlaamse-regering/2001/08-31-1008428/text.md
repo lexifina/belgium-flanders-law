@@ -16,7 +16,18 @@ Het schooljaar begint op 1 september en eindigt op 31 augustus van het daaropvol
 
 ### ART. 4.
 
-Stages in het voltijds gewoon en buitengewoon secundair onderwijs kunnen op elk tijdstip van het schooljaar onder de volgende voorwaarden worden georganiseerd:<br />1° de stage is in overeenstemming met de bepalingen van de arbeidswet van 16 maart 1971 en haar uitvoeringsbesluiten;<br />2° de stage verloopt volgens de in de stageverlenende onderneming of instelling geldende arbeids- of dienstregeling;<br />3° stages tussen 20 uur en 6 uur zijn verboden. De Vlaamse minister, bevoegd voor het Onderwijs, kan voor bepaalde studierichtingen de periode waarin stages zijn verboden, inkorten, voor zover dit niet strijdig is met de bepalingen bedoeld in 1°;<br />4° stages op zondag zijn verboden. De Vlaamse minister, bevoegd voor het Onderwijs, kan voor bepaalde studierichtingen dit verbod opheffen, voor zover dit niet strijdig is met de bepalingen bedoeld in 1°;<br />5° het maximum aantal effectieve lesuren inclusief stage-uren, uitgedrukt in klokuren, per leerling bedraagt:<br />a) per etmaal: 8;<br />b) per week: 38;<br />c) per schooljaar: 1 200;<br />6° aan elke leerling worden in de periode juni tot en met augustus ten minste 4 aaneensluitende weken vakantie toegekend;<br />7° het tijdstip waarop stage wordt georganiseerd mag nooit afbreuk doen aan voldoende stagebegeleiding, ook op de stageplaats, door de school;<br />8° ter vrijwaring van de stagedoelstellingen, zijnde leerdoelstellingen, kunnen stages nooit een middel zijn ter compensatie van de afwezigheid of ontstentenis van reguliere werknemers en dient er door de stageplaats voorzien te zijn in voldoende stagebegeleiding.
+Stages in het voltijds gewoon en buitengewoon secundair onderwijs kunnen op elk tijdstip van het schooljaar onder de volgende voorwaarden worden georganiseerd:<br>
+1° de stage is in overeenstemming met de bepalingen van de arbeidswet van 16 maart 1971 en haar uitvoeringsbesluiten;<br>
+2° de stage verloopt volgens de in de stageverlenende onderneming of instelling geldende arbeids- of dienstregeling;<br>
+3° ...;<br>
+4° ...;<br>
+5° het maximum aantal effectieve lesuren inclusief stage-uren, uitgedrukt in klokuren, per leerling bedraagt:<br>
+a) per etmaal: 8;<br>
+b) per week: 38;<br>
+c) per schooljaar: 1 200;<br>
+6° aan elke leerling worden in de periode juni tot en met augustus ten minste 4 aaneensluitende weken vakantie toegekend;<br>
+7° het tijdstip waarop stage wordt georganiseerd mag nooit afbreuk doen aan voldoende stagebegeleiding, ook op de stageplaats, door de school;<br>
+8° ter vrijwaring van de stagedoelstellingen, zijnde leerdoelstellingen, kunnen stages nooit een middel zijn ter compensatie van de afwezigheid of ontstentenis van reguliere werknemers en dient er door de stageplaats voorzien te zijn in voldoende stagebegeleiding.
 
 ### ART. 5.
 
