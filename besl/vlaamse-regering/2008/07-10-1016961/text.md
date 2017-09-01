@@ -6,19 +6,29 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de   modulaire structuur van het studiegebied personenzorg, dat behoort tot het   secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met X, die bij   dit besluit zijn gevoegd.<BR><BR>Ter uitvoering van artikel 24, § 2, van het   voormelde decreet wordt voor bijzondere doelgroepen als volgt afgeweken van het   minimale aantal lestijden van de volgende opleiding: de opleiding Begeleider in   de Kinderopvang kan voor snel-lerende cursisten 1260 lestijden bedragen, waarbij   de module Zorg in de kinderopvang 1 slechts 20 lestijden bedraagt.
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs op de volgende wijze vastgelegd in de volgende bijlagen die bij dit besluit zijn gevoegd :<br>
+1° bijlage VI tot en met VIII voor het studiegebied algemene personenzorg;<br>
+2° bijlage IV en bijlage X tot en met XIV voor het studiegebied assistentie vrije zorgberoepen;<br>
+3° bijlage I tot en met III, bijlage V en bijlage IX voor het studiegebied specifieke personenzorg.<br>
+<br>
+Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor bijzondere doelgroepen als volgt afgeweken van het minimale aantal lestijden van de volgende opleidingen :<br>
+1° de opleiding Begeleider in de Kinderopvang kan voor snel-lerende cursisten 1260 lestijden bedragen, waarbij de module Zorg in de kinderopvang 1 maar 20 lestijden bedraagt;<br>
+2° de uitbreidingsmodule Motorisch-visuele communicatievormen, vastgelegd in de opleidingsprofielen, vermeld in bijlage III en bijlage VI tot en met IX, kan voor snel-lerende cursisten maar 40 lestijden bedragen;<br>
+3° de uitbreidingsmodule Complexe cliëntcontexten, vastgelegd in de opleidingsprofielen, vermeld in bijlage VII en VIII, kan voor snel-lerende cursisten maar 40 lestijden bedragen;<br>
+4° de uitbreidingsmodule Mentor op de werkvloer, vastgelegd in de opleidingsprofielen, vermeld in bijlage I tot en met IV, bijlage VIII en bijlage IX, kan voor snel-lerende cursisten 40 lestijden bedragen;<br>
+5° de uitbreidingsmodule Communicatieve hulmiddelen, vastgelegd in de opleidingsprofielen, vermeld in bijlage III en bijlage VI tot en met IX, kan voor snel-lerende cursisten maar 20 lestijden bedragen.
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar   na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die   evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het   decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<BR><BR>De   opleidingsprofielen voor de modulaire opleidingen Interculturele Medewerker,   Logistiek Assistent, Verzorgende en Zorgkundige worden uiterlijk tijdens het   schooljaar 2014-2015 geëvalueerd. Het opleidingsprofiel voor de modulaire   opleiding Begeleider-animator voor Bejaarden wordt uiterlijk tijdens het   schooljaar 2015-2016 geëvalueerd. De uitbreidingsmodules van de   opleidingsprofielen, vermeld in bijlage I tot en met III en bijlage V tot en met   IX, worden uiterlijk tijdens het schooljaar 2016-2017 geëvalueerd.
+De uitbreidingsmodules Kraamzorg : verzorgende aspecten en Kraamzorg : psychosociale aspecten van de opleidingsprofielen, vermeld in bijlage I, VII en VIII, en de uitbreidingsmodules Kraamzorg : koken in de praktijk en Organisatie van de huishoudelijke taken van het opleidingsprofiel, vermeld in bijlage I, worden tijdens het schooljaar 2018-2019 geëvalueerd. De pedagogische begeleidingsdiensten, het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs, de Vereniging van de Diensten voor Gezinszorg van de Vlaamse Gemeenschap en de Expertisecentra Kraamzorg Vlaanderen worden uitgenodigd om aan de voormelde evaluatie deel te nemen.
 
 ### ART. 2/1.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding jeugd- en gehandicaptenzorg TSO 3, vermeld in bijlage III bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, heeft vanaf 1 februari 2009 ook onderwijsbevoegdheid voor de modulaire opleiding jeugd- en gehandicaptenzorg.<br /><br />Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Intercultureel werk TSO 3 heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleiding Intercultureel Medewerker.<br /><br />Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Polyvalent Verzorgende/Thuis- en Bejaardenzorg BSO 3 heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleidingen Logistiek Assistent, Verzorgende en Zorgkundige.<br /><br />Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Begeleider-animator voor Bejaarden TSO3, heeft vanaf 15 april 2012 ook onderwijsbevoegdheid voor de modulaire opleiding Begeleider-animator voor Bejaarden.
+...
 
 ### ART. 2/2.
 
-De modulaire opleiding jeugd- en gehandicaptenzorg TSO 3 kan, bij wijze van overgangsmaatregel, nog gedurende de schooljaren 2009-2010 en 2010-2011 georganiseerd worden.<br /><br />De modulaire opleiding Polyvalent verzorgende/thuis- en bejaardenzorg BSO 3 kan, bij wijze van overgangsmaatregel, nog gedurende het schooljaar 2011-2012 georganiseerd worden.<br /><br />Overeenkomstig artikel 180, tweede lid, 2°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs kan de modulaire opleiding Begeleider-animator voor Bejaarden TSO3 bij wijze van overgangsmaatregel, nog gedurende het schooljaar 2011-2012 georganiseerd worden.
+...
 
 ### ART. 3.
 
@@ -34,7 +44,9 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE I
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/11/05_1_5.pdf#page=7">Bijlage   I</A></P>
+<p>Bijlage I:<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=326">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=326</a></p>
 
 ### BIJLAGE II
 
@@ -58,11 +70,15 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE VII
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/05_1_5.pdf#page=8">Bijlage   VII</A></P>
+Bijlage VII<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=381">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=381</a>
 
 ### BIJLAGE VIII
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/05_1_5.pdf#page=52">Bijlage   VIII Deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/05_1_6.pdf#page=1">Bijlage   VIII Deel 2</A>&nbsp;</P>
+<p>Bijlage VIII<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=422">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=422</a></p>
 
 ### BIJLAGE IX
 
@@ -71,3 +87,27 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE X
 
 <A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/05_1_6.pdf#page=3">Bijlage   X</A>
+
+### BIJLAGE XI
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=469">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=469</a>
+
+### BIJLAGE XII
+
+Bijlage XII<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=490">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=490</a><br>
+<br>
+&nbsp;
+
+### BIJLAGE XIII
+
+Bijlage XIII<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=499">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=499</a>
+
+### BIJLAGE XIV
+
+Bijlage XIV<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=515">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=515</a>
