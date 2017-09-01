@@ -27,32 +27,32 @@ Besluit :<br>
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied smeden, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 1 en 2, die bij dit besluit zijn gevoegd.<br /><br />
+...
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />
+...
 
 ### ART. 3.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de lineaire opleiding Siersmeden BSO 2, vermeld in bijlage III bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, heeft vanaf 1 februari 2011 ook onderwijsbevoegdheid voor de modulaire opleiding Siersmid.<br /><br />
+...
 
 ### ART. 4.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de lineaire opleiding Hoefsmederij BSO 2, vermeld in bijlage III bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, heeft vanaf 1 februari 2011 ook onderwijsbevoegdheid voor de modulaire opleiding Hoefsmid.<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit heeft uitwerking met ingang van 1 februari 2011.<br /><br />
+...
 
 ### ART. 6.
 
-De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van dit besluit. <br /><br />
+...
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/05/26_1.pdf#page=26" title=" Bijlage 1" target="_blank" class="pdf">Bijlage 1</a>
+...
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/05/26_1.pdf#page=49" title=" Bijlage 2" target="_blank" class="pdf">Bijlage 2</a>
+...
