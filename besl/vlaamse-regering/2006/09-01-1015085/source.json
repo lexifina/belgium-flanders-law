@@ -2,16 +2,16 @@
   "codex_id": 1015085,
   "title": "Besluit van de Vlaamse Regering van 2006-09-01 [betreffende de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied ambachtelijk erfgoed (verv. BVR 8 september 2017, art. 10, I: 1 september 2017)",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015085/VolledigDocument?datum=2005-09-01",
-  "source_sha256": "4741874c73de201f8d8e364e6a34ec49acfa859dca974fc0c36073b625217cd4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015085/VolledigDocument?datum=2017-09-01",
+  "source_sha256": "4bafaf32f385979b0bbdadd01c39eabae1d844437de31af26a2e47f0eb68c475",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015085&param=informatie",
-  "as_of": "2005-09-01",
+  "as_of": "2017-09-01",
   "made": "2006-09-01",
   "gazette": "2006-10-26",
   "numac": 2006036668,
   "document_start": "2005-09-01",
   "document_end": null,
-  "in_force": "2005-09-01",
-  "article_versions": 12,
-  "record_form": "consolidated version as in force on 2005-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2017-09-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2017-09-01; future article versions excluded; article text as the API gives it"
 }

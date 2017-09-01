@@ -6,13 +6,11 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Ter uitvoering van artikel 14 en 15, § 1,&nbsp;van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied Boekbinden, dat behoort tot het secundair onderwijs voor sociale promotie, vastgelegd in bijlage I tot en met V, die als bijlagen bij dit besluit zijn gevoegd.<br>
-&nbsp;
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs vastgelegd in bijlage I tot en met XI, die bij dit besluit zijn gevoegd.
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1 , worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd.<br>
-&nbsp;
+...
 
 ### ART. 3.
 
@@ -21,9 +19,7 @@ De modulaire opleiding « Manueel boekbinder TSO 3 » leidt tot een diploma secu
 
 ### ART. 4.
 
-Het hierna vermelde, conform artikel 75 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, goedgekeurde structuurschema kan bij wijze van overgangsmaatregel nog gedurende twee schooljaren gebruikt worden:<br>
-1° « Boekbinden BSO 3 », goedgekeurd op 22 december 2000.<br>
-&nbsp;
+...
 
 ### ART. 5.
 
@@ -52,3 +48,27 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 ### BIJLAGE V
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2006/10/26_1_3.pdf#page=60" title=" bijlage V" target="_blank" class="pdf">bijlage V</a>
+
+### BIJLAGE VI
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=182">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=182</a>
+
+### BIJLAGE VII
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=206">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=206</a>
+
+### BIJLAGE VIII
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=228">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=228</a>
+
+### BIJLAGE IX
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=260">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=260</a>
+
+### BIJLAGE X
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=287">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=287</a>
+
+### BIJLAGE XI
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=303">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=303</a>
