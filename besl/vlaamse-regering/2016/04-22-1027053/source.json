@@ -2,16 +2,16 @@
   "codex_id": 1027053,
   "title": "Besluit van de Vlaamse Regering van 2016-04-22 betreffende het tijdelijke project \"schoolbank op de werkplek\" rond duaal leren in het secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027053/VolledigDocument?datum=2016-09-01",
-  "source_sha256": "98f76e4b8bc0c64dc70fd6ca1990cf695345a34ef16f8f882ac6322e269ece9b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027053/VolledigDocument?datum=2017-09-01",
+  "source_sha256": "369d2c568037931b08ce9526aa7db845802942400978a82c06617500675086bc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027053&param=informatie",
-  "as_of": "2016-09-01",
+  "as_of": "2017-09-01",
   "made": "2016-04-22",
   "gazette": "2016-07-26",
   "numac": 2016035894,
   "document_start": "2016-09-01",
   "document_end": "2019-08-31",
-  "in_force": "2016-09-01",
+  "in_force": "2017-09-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-09-01; future article versions excluded; article text as the API gives it"
 }

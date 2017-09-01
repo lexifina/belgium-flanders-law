@@ -193,7 +193,9 @@
 
 <span style="color: rgb(0, 0, 0);">Zodra, in voorkomend geval, de betrokken personen in samenspraak met de leerling kiezen voor een opleiding van het tijdelijke project, zal aan hen, gezien de doelgroep van het duale leren, een niet-bindend advies worden gegeven over de quasi arbeidsrijpheid of arbeidsrijpheid van de leerling. Dat advies, op basis van een screening, gaat uit van de twee volgende instanties samen :</span><br>
 <span style="color: rgb(0, 0, 0);">1° de voltallige klassenraad van het laatste structuuronderdeel dat door de leerling in kwestie is gevolgd;</span><br>
-<span style="color: rgb(0, 0, 0);">2° de trajectbegeleider van de opleiding en de school binnen het tijdelijke project die door de betrokken personen worden gekozen.</span><br>
+<span style="color: rgb(0, 0, 0);">2° de trajectbegeleider van de opleiding en de school binnen het tijdelijke project die door de betrokken personen worden gekozen.<br>
+<br>
+Als het niet mogelijk is een beroep te doen op de voltallige klassenraad van het laatste structuuronderdeel dat door de leerling in kwestie is gevolgd, kunnen de trajectbegeleider van de opleiding en de school binnen het tijdelijke project die door de betrokken personen worden gekozen, een alternatieve werkwijze vastleggen om tot desbetreffend advies te komen.</span><br>
 &nbsp;
 
 ### ART 10.
@@ -316,7 +318,7 @@
 
 ### ART 19.
 
-<span style="color: rgb(0, 0, 0);">Voor de vaststelling van het pakket uren-leraar in het voltijds gewoon secundair onderwijs met toepassing van de geldende regelgeving worden de onderstaande opleidingen ondergebracht in de opgegeven overeenkomstige disciplines :</span><br>
+<span style="color: rgb(0, 0, 0);">§ 1. Voor de vaststelling van het pakket uren-leraar in het voltijds gewoon secundair onderwijs met toepassing van de geldende regelgeving worden de onderstaande opleidingen ondergebracht in de opgegeven overeenkomstige disciplines :</span><br>
 <span style="color: rgb(0, 0, 0);">1° chemische procestechnieken duaal : discipline chemie (tso);</span><br>
 <span style="color: rgb(0, 0, 0);">2° elektromechanische technieken duaal : discipline elektriciteit (tso);</span><br>
 <span style="color: rgb(0, 0, 0);">3° elektrische installaties duaal : discipline elektriciteit (bso);</span><br>
@@ -326,13 +328,17 @@
 <br>
 <span style="color: rgb(0, 0, 0);">Het pakket uren-leraar in het voltijds gewoon secundair onderwijs wordt vastgesteld in afwijking van bijlage 4 van het besluit van de Vlaamse Regering van 31 juli 1990 tot vastlegging van het pakket "uren-leraar" in het voltijds secundair onderwijs.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0);">De afwijking is noodzakelijk om voor elke opleiding van het voltijds gewoon secundair onderwijs in het tijdelijke project in een omkadering te voorzien die gelijk is aan de bestaande omkadering voor de niet-duale gelijknamige opleiding of, als dergelijke opleiding niet voorkomt in het Vlaamse studieaanbod, de omkadering voor inhoudelijk verwante opleidingen. De geldende omkaderingsnormen in het voltijds buitengewoon secundair onderwijs en het deeltijds beroepssecundair onderwijs zijn van die aard dat ze naar de projectwerking kunnen worden doorgetrokken.</span><br>
+<span style="color: rgb(0, 0, 0);">De afwijking is noodzakelijk om voor elke opleiding van het voltijds gewoon secundair onderwijs in het tijdelijke project in een omkadering te voorzien die gelijk is aan de bestaande omkadering voor de niet-duale gelijknamige opleiding of, als dergelijke opleiding niet voorkomt in het Vlaamse studieaanbod, de omkadering voor inhoudelijk verwante opleidingen. De geldende omkaderingsnormen in het voltijds buitengewoon secundair onderwijs en het deeltijds beroepssecundair onderwijs zijn van die aard dat ze naar de projectwerking kunnen worden doorgetrokken.<br>
+<br>
+§ 2. De leerlingen van de opleiding groen- en tuinbeheer worden bijgeteld bij de leerlingen van de opleiding tuinbouwarbeider van opleidingsvorm 3 van het buitengewoon secundair onderwijs met het oog op het bereiken van de norm van 40 leerlingen voor toekenning van een extra voltijdse betrekking in het ambt van leraar secundair onderwijs, belast met beroepsgerichte vorming.<br>
+<br>
+Deze maatregel gebeurt in afwijking van artikel 308/1 van de Codex Secundair Onderwijs.</span><br>
 &nbsp;
 
 ### ART 20.
 
 <span style="color: rgb(0, 0, 0);">Boven op het pakket uren-leraar of lesuren dat met toepassing van de geldende regelgeving voor de school is berekend, wordt tijdens de looptijd van het tijdelijke project een extra aantal uren-leraar of lesuren toegekend dat als volgt wordt vastgesteld.</span><br>
-<span style="color: rgb(0, 0, 0);">1° Voor het schooljaar 2016-2017 worden aan elke deelnemende school forfaitair 12 uren-leraar of lesuren toegekend.</span><br>
+<span style="color: rgb(0, 0, 0);">1°&nbsp;Voor het schooljaar waarin een school met leerlingen in het tijdelijke project stapt, worden aan elke deelnemende school forfaitair 12 uren-leraar of lesuren toegekend.</span><br>
 <span style="color: rgb(0, 0, 0);">2° Voor het schooljaar 2016-2017, 2017-2018 respectievelijk 2018-2019 worden aan elke deelnemende school, per ingerichte eenjarige duale opleiding of per ingericht jaar van een tweejarige duale opleiding :</span><br>
 <span style="color: rgb(0, 0, 0);">a) 6 uren-leraar of lesuren toegekend als het aantal regelmatige leerlingen op de eerste lesdag van oktober minimum 1 en maximum 6 bedraagt;</span><br>
 <span style="color: rgb(0, 0, 0);">b) 11 uren-leraar of lesuren toegekend als het aantal regelmatige leerlingen op de eerste lesdag van oktober minimum 7 bedraagt.</span><br>
@@ -398,7 +404,8 @@
 <span style="color: rgb(0, 0, 0);">17° één afgevaardigde van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;</span><br>
 <span style="color: rgb(0, 0, 0);">18° drie afgevaardigden, voorgedragen door de representatieve middenstands-, zelfstandigen- en werkgeversorganisaties;</span><br>
 <span style="color: rgb(0, 0, 0);">19° drie afgevaardigden, voorgedragen door de representatieve werknemersorganisaties;</span><br>
-<span style="color: rgb(0, 0, 0);">20° drie wetenschappelijke experten, aangewezen door de voorzitter van het expertenpanel.</span><br>
+<span style="color: rgb(0, 0, 0);">20° drie wetenschappelijke experten, aangewezen door de voorzitter van het expertenpanel;<br>
+21° de voorzitter van het Vlaams Partnerschap.</span><br>
 <br>
 <span style="color: rgb(0, 0, 0);">Elke geleding wijst haar afgevaardigden aan.</span><br>
 <br>
