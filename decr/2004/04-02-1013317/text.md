@@ -282,7 +282,13 @@ Een inrichtende macht kan een pedagogische raad, ouderraad en/of leerlingenraad 
 
 ### ART. 48.
 
-<P>De pedagogische raad, leerlingenraad en ouderraad kunnen op vraag van de   schoolraad maar ook op eigen initiatief een schriftelijk advies uitbrengen over   alle aangelegenheden opgesomd in artikel 21. Het schoolbestuur geeft na   ontvangst van dit advies binnen dertig kalenderdagen een met redenen omkleed   antwoord. Elk desbetreffend advies van de pedagogische raad, de leerlingenraad   of de ouderraad wordt ter informatie bezorgd aan de overige voormelde raden en   de schoolraad.<BR><BR>De leden van de pedagogische raad, leerlingenraad en   ouderraad hebben in functie van de uitoefening van hun bevoegdheden een algemeen   informatierecht.<BR><BR>Deze raden hebben ten behoeve van al het personeel,   ouders en leerlingen een informatieplicht over hun activiteiten en standpunten   en over de wijze waarop zij hun bevoegdheden uitoefenen.</P>
+<p>De pedagogische raad, de leerlingenraad en de ouderraad in het onderwijs gesubsidieerd door de Vlaamse Gemeenschap kunnen op verzoek van de schoolraad maar ook op eigen initiatief, een schriftelijk advies uitbrengen over alle aangelegenheden, vermeld in artikel 21.<br>
+<br>
+De pedagogische raad, de leerlingenraad en de ouderraad in het onderwijs, gefinancierd door de Vlaamse Gemeenschap, kunnen op vraag van de schoolraad maar ook op eigen initiatief een schriftelijk advies uitbrengen over alle aangelegenheden vermeld in artikel 11, § 1, van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs. Het schoolbestuur geeft na ontvangst van dit advies binnen dertig kalenderdagen een met redenen omkleed antwoord. Elk desbetreffend advies van de pedagogische raad, de leerlingenraad of de ouderraad wordt ter informatie bezorgd aan de overige voormelde raden en de schoolraad.<br>
+<br>
+De leden van de pedagogische raad, leerlingenraad en ouderraad hebben in functie van de uitoefening van hun bevoegdheden een algemeen informatierecht.<br>
+<br>
+Deze raden hebben ten behoeve van al het personeel, ouders en leerlingen een informatieplicht over hun activiteiten en standpunten en over de wijze waarop zij hun bevoegdheden uitoefenen.</p>
 
 ## ONDERAFDELING 3 WERKING
 
@@ -418,7 +424,14 @@ De VLOR heeft de opdracht advies te verstrekken ten behoeve van de regering en v
 
 ### ART. 70.
 
-De regering is verplicht advies te vragen aan de VLOR over:<br /><br />1° voorontwerpen van decreet over aangelegenheden bedoeld in artikel 24, § 5, van de Grondwet, met uitzondering van de decreten houdende bekrachtiging van eindtermen, decretale specifieke eindtermen en ontwikkelingsdoelen, de decreten houdende bekrachtiging van beroepsprofielen van de leraren en de decreten die jaarlijks de begroting regelen;<br /><br />2° bij het Vlaams Parlement ingediende beleidsbrieven en beleidsnota's;<br /><br />3° ontwerpen van besluit houdende tijdelijke projecten van onderwijskundige aard.<br /><br />Het Vlaams Parlement bepaalt de onderwijsaangelegenheden waarvoor het advies van de VLOR eveneens verplicht ingewonnen wordt.<br /><br />De regering kan gemotiveerd afwijken van adviezen en informeert de VLOR hierover.
+De regering is verplicht advies te vragen aan de VLOR over:<br>
+1° voorontwerpen van decreet over aangelegenheden bedoeld in artikel 24, § 5, van de Grondwet, met uitzondering van de decreten houdende bekrachtiging van eindtermen, decretale specifieke eindtermen en ontwikkelingsdoelen, de decreten houdende bekrachtiging van beroepsprofielen van de leraren en de decreten die jaarlijks de begroting regelen en de decreten betreffende bekrachtiging van codificaties en coördinaties van regelgeving;<br>
+2° bij het Vlaams Parlement ingediende beleidsbrieven en beleidsnota's;<br>
+3° ontwerpen van besluit houdende tijdelijke projecten van onderwijskundige aard.<br>
+<br>
+Het Vlaams Parlement bepaalt de onderwijsaangelegenheden waarvoor het advies van de VLOR eveneens verplicht ingewonnen wordt.<br>
+<br>
+De regering kan gemotiveerd afwijken van adviezen en informeert de VLOR hierover.
 
 ### ART. 71.
 
