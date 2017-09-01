@@ -55,9 +55,13 @@
 
 ### ART 1.
 
-§ 1. De maximale duur van de niet-verplichte leerlingenstage of van de sociaal maatschappelijke training in opleidingsvorm 1 is dertig dagen per schooljaar. De klassenraad kan die duur verlengen tot zestig dagen. De duur kan langer verlengd worden als de klassenraad daarvoor een bijkomende motivering opstelt voor individuele leerlingen en als dat schriftelijk gemeld wordt aan de onderwijsinspectie.<br>
+§ 1. De klassenraad bepaalt de minimale en de maximale duur van de niet-verplichte leerlingenstage of sociaal-maatschappelijke training, die in groep en onder voortdurende begeleiding van de leraar kan plaatsvinden in opleidingsvorm 1.<br>
 <br>
-§ 2. De maximale duur van de niet-verplichte leerlingenstage tijdens de tweede fase van opleidingsvorm 2 is dertig dagen per schooljaar. In het laatste jaar van de tweede fase kan de klassenraad die duur verlengen tot zestig dagen. De duur kan in het laatste jaar van de tweede fase langer verlengd worden als de klassenraad daarvoor een bijkomende motivering opstelt voor individuele leerlingen en als dat schriftelijk gemeld wordt aan de onderwijsinspectie.<br>
+De maximale duur van de niet-verplichte individuele leerlingenstage of van de individuele sociaal maatschappelijke training in opleidingsvorm 1 is dertig dagen per schooljaar. De klassenraad kan die duur verlengen tot zestig dagen. De duur kan langer verlengd worden als de klassenraad daarvoor een bijkomende motivering opstelt voor individuele leerlingen en als dat schriftelijk gemeld wordt aan de onderwijsinspectie.<br>
+<br>
+§ 2. De klassenraad bepaalt de minimale en de maximale duur van de niet-verplichte leerlingenstage, die in groep en onder voortdurende begeleiding van de leraar kan plaatsvinden in de tweede fase van opleidingsvorm 2.<br>
+<br>
+De maximale duur van de niet-verplichte individuele leerlingenstage tijdens de tweede fase van opleidingsvorm 2 is dertig dagen per schooljaar. In het laatste jaar van de tweede fase kan de klassenraad die duur verlengen tot zestig dagen. De duur kan in het laatste jaar van de tweede fase langer verlengd worden als de klassenraad daarvoor een bijkomende motivering opstelt voor individuele leerlingen en als dat schriftelijk gemeld wordt aan de onderwijsinspectie.<br>
 <br>
 In opleidingsvorm 2 kan een leerling tijdens het laatste jaar van de tweede fase op basis van een individuele handelingsplanning, na de beslissing van de klassenraad, zo mogelijk in samenspraak met de ouders en de leerling, een leerlingenstage volgen in een alternerende vorm van leerlingenstage en vorming op school op weekbasis. Hierbij kan afgeweken worden van de maximale stageduur, vermeld in het eerste lid.<br>
 <br>
