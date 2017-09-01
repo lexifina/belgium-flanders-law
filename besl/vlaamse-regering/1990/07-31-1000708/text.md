@@ -166,7 +166,7 @@ CF/MP = 85,00/100<br>
 waarbij<br>
 CF = het aantal uren-leraar toegekend door de coëfficientenregeling, zonder rekening te houden met het percentage bedoeld in artikel 13 toegepast op die structuuronderdelen die voor de in artikel 4, §§ 5 tot en met 7bis en de bijlagen 1, 2 en 3 bedoelde regeling in aanmerking komen<br>
 MP = het aantal uren-leraar waar de school recht op heeft ingevolge de in artikel 4, §§ 5 tot en met 7bis en de bijlagen 1, 2 en 3 bedoelde regeling;<br>
-4° met het oog op controle door de bevoegde dienst, het schoolbestuur op erewoord verklaart dat in geen enkel structuuronderdeel van een graad of onderwijsvorm waarvoor aan de school in kwestie een minimumpakket is toegekend, tijdens het schooljaar van toekenning de inschrijving van een leerling wordt geweigerd op basis van de capaciteit of de volzetverklaring, vermeld in artikel 110/9, § 2 en § 7, van de Codex Secundair Onderwijs van 17 december 2010.<br>
+4° ....<br>
 <br>
 § 7ter. Voor de toepassing van de bepalingen van de § § 5 tot en met 7bis worden de vierde graad en het hoger beroepsonderwijs niet in aanmerking genomen.<br>
 <br>
