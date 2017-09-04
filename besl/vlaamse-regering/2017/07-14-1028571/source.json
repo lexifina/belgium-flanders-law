@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028571,
+  "title": "Besluit van de Vlaamse Regering van 2017-07-14 houdende vaststelling van de criteria voor geïntegreerd natuurbeheer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028571/VolledigDocument?datum=2017-09-04",
+  "source_sha256": "a88d27f00b2f073b658a0ce9f7fbdad9fa2a8a2f1ede52e8a025d7b4d9b03690",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028571&param=informatie",
+  "as_of": "2017-09-04",
+  "made": "2017-07-14",
+  "gazette": "2017-08-25",
+  "numac": 2017040641,
+  "document_start": "2017-09-04",
+  "document_end": null,
+  "in_force": "2017-09-04",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2017-09-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
