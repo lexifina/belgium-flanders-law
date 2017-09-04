@@ -2,16 +2,16 @@
   "codex_id": 1011558,
   "title": "Besluit van de Vlaamse Regering van 2003-06-27 tot vaststelling van de criteria voor duurzaam bosbeheer voor bossen gelegen in het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011558/VolledigDocument?datum=2008-05-21",
-  "source_sha256": "4f38b706c4f3a38fd547225ec14cb396c47fa310aed469bced7943380c7afa43",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011558/VolledigDocument?datum=2017-09-04",
+  "source_sha256": "76683a3a6693c6025724e995384aae6b86a2310060111d19e8595515de2c9524",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011558&param=informatie",
-  "as_of": "2008-05-21",
+  "as_of": "2017-09-04",
   "made": "2003-06-27",
   "gazette": "2003-09-10",
   "numac": 2003035996,
   "document_start": null,
   "document_end": "2017-09-03",
-  "in_force": "2008-05-21",
+  "in_force": "2017-09-04",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-09-04; future article versions excluded; article text as the API gives it"
 }
