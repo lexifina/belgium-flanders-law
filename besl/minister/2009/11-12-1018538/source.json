@@ -2,16 +2,16 @@
   "codex_id": 1018538,
   "title": "Ministerieel besluit van 2009-11-12 houdende de vaststelling van het basisbouwprogramma voor kunstgrasvelden in het kader van een inhaalbeweging in sportinfrastructuur via alternatieve financiering",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018538/VolledigDocument?datum=2008-12-01",
-  "source_sha256": "a617164c067d42db8c6014bf51253a7f3305c082bc4835abfc6bcc4576ec8792",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018538/VolledigDocument?datum=2017-09-14",
+  "source_sha256": "438a8a5bfeae0fe92535eb921e4963414de5462e8485f10a866e97011077bba7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018538&param=informatie",
-  "as_of": "2008-12-01",
+  "as_of": "2017-09-14",
   "made": "2009-11-12",
   "gazette": "2009-11-27",
   "numac": 2009205457,
   "document_start": "2008-12-01",
   "document_end": null,
-  "in_force": "2008-12-01",
+  "in_force": "2017-09-14",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2008-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-09-14; future article versions excluded; article text as the API gives it"
 }
