@@ -6,6 +6,14 @@
 
 ## HOOFDSTUK 3. Wijziging van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie
 
+### ART 4.
+
+Aan artikel 6, § 3, van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, ingevoegd bij het decreet van 22 december 2006, worden een tweede en derde lid toegevoegd, die luiden als volgt:<br>
+<br>
+"Het agentschap kan optreden als uitbetalingsinstelling voor lokale besturen die subsidies verlenen als vermeld in artikel 12, § 1, van het decreet van 20 april 2012 en waarmee het agentschap een convenant heeft gesloten.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels wat betreft de voorwaarden waaronder het agentschap kan optreden als uitbetalingsinstelling als vermeld in het tweede lid.".
+
 ## HOOFDSTUK 4. Wijziging van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand
 
 ## HOOFDSTUK 5. Wijzigingen van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen
