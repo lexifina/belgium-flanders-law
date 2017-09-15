@@ -33,7 +33,21 @@ De kerntaak van het agentschap omvat de regie van de kinderopvang en de organisa
 
 ### ART. 6.
 
-§ 1. De taak inzake de regie van kinderopvang omvat in elk geval :<br />1° de programmatie op operationeel niveau, op lokaal en regionaal niveau en op het niveau van de Vlaamse Gemeenschap;<br />2° het stimuleren, toelaten, vergunnen, erkennen, subsidiëren en handhaven van kinderopvanglocaties;<br />3° het beheren van een informatie- en registratiesysteem om de vraag naar kinderopvang af te stemmen op het beschikbare aanbod aan kinderopvanglocaties en om registratiegegevens over de vraag, het aanbod, het gebruik en de subsidiëring van kinderopvang te verzamelen en te beheren;<br />4° de bevordering van de kwaliteit van kinderopvanglocaties;<br />5° het adviseren van de Vlaamse Regering over de kwalificaties en de competenties voor kinderopvang;<br />6° het beheren van het budget dat voortkomt uit de bestuurlijke geldboeten. <br /><br />§ 2. Het agentschap beoogt inzake kinderopvang een zo goed mogelijk antwoord te bieden aan de behoeften van gezinnen, vooral in het kader van de afstemming gezin-arbeid, met bijzondere aandacht voor de gezinnen met bijzondere opvangbehoeften.<br /><br />§ 3. Het agentschap oefent zijn taak betreffende de regie van de kinderopvang uit in samenspraak met de lokale besturen, die een lokaal beleid kinderopvang uitwerken in overeenstemming met de regels die de Vlaamse Regering bepaalt.
+§ 1. De taak inzake de regie van kinderopvang omvat in elk geval :<br>
+1° de programmatie op operationeel niveau, op lokaal en regionaal niveau en op het niveau van de Vlaamse Gemeenschap;<br>
+2° het stimuleren, toelaten, vergunnen, erkennen, subsidiëren en handhaven van kinderopvanglocaties;<br>
+3° het beheren van een informatie- en registratiesysteem om de vraag naar kinderopvang af te stemmen op het beschikbare aanbod aan kinderopvanglocaties en om registratiegegevens over de vraag, het aanbod, het gebruik en de subsidiëring van kinderopvang te verzamelen en te beheren;<br>
+4° de bevordering van de kwaliteit van kinderopvanglocaties;<br>
+5° het adviseren van de Vlaamse Regering over de kwalificaties en de competenties voor kinderopvang;<br>
+6° het beheren van het budget dat voortkomt uit de bestuurlijke geldboeten.<br>
+<br>
+§ 2. Het agentschap beoogt inzake kinderopvang een zo goed mogelijk antwoord te bieden aan de behoeften van gezinnen, vooral in het kader van de afstemming gezin-arbeid, met bijzondere aandacht voor de gezinnen met bijzondere opvangbehoeften.<br>
+<br>
+§ 3. Het agentschap oefent zijn taak betreffende de regie van de kinderopvang uit in samenspraak met de lokale besturen, die een lokaal beleid kinderopvang uitwerken in overeenstemming met de regels die de Vlaamse Regering bepaalt.<br>
+<br>
+Het agentschap kan optreden als uitbetalingsinstelling voor lokale besturen die subsidies verlenen als vermeld in artikel 12, § 1, van het decreet van 20 april 2012 en waarmee het agentschap een convenant heeft gesloten.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels wat betreft de voorwaarden waaronder het agentschap kan optreden als uitbetalingsinstelling als vermeld in het tweede lid.
 
 ### ART. 7.
 
