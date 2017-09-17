@@ -2,16 +2,16 @@
   "codex_id": 1028430,
   "title": "Ministerieel besluit van 2017-05-16 tot vaststelling van de urencontingenten gezinszorg 2017 van de openbare diensten voor gezinszorg en aanvullende thuiszorg",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028430/VolledigDocument?datum=2017-07-27",
-  "source_sha256": "b023b0668e4ecaea15d877796e2c7c2e37e04a2750eb55a4898077dd4b04a817",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028430/VolledigDocument?datum=2017-09-17",
+  "source_sha256": "e4707907bdc9fc95c40ab58cde0621f22bbada4c519c6ef1a7891be321606203",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028430&param=informatie",
-  "as_of": "2017-07-27",
+  "as_of": "2017-09-17",
   "made": "2017-05-16",
   "gazette": "2017-07-17",
   "numac": 2017030440,
   "document_start": "2017-07-27",
   "document_end": null,
-  "in_force": "2017-07-27",
+  "in_force": "2017-09-17",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2017-07-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-09-17; future article versions excluded; article text as the API gives it"
 }

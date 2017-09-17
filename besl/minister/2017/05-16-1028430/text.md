@@ -18,11 +18,12 @@ Besluit :
 
 ### ART 1.
 
-Vanaf 1 januari 2017 worden de urencontingenten gezinszorg voor de openbare diensten voor gezinszorg en aanvullende thuiszorg vastgesteld als volgt :
+Vanaf 1 januari 2017 worden de urencontingenten gezinszorg voor de openbare diensten voor gezinszorg en aanvullende thuiszorg vastgesteld als volgt:<br>
+&nbsp;
 <table border="1">
 	<tbody>
 		<tr>
-			<td>Erkenningsnummer</td>
+			<td>Erkennings-nummer</td>
 			<td>Openbare dienst voor gezinszorg en aanvullende thuiszorg</td>
 			<td>Contingent 2017</td>
 		</tr>
@@ -359,7 +360,7 @@ Vanaf 1 januari 2017 worden de urencontingenten gezinszorg voor de openbare dien
 		<tr>
 			<td>316</td>
 			<td>OCMW Zwijndrecht</td>
-			<td>15.390</td>
+			<td>15.649</td>
 		</tr>
 		<tr>
 			<td>320</td>
@@ -409,12 +410,12 @@ Vanaf 1 januari 2017 worden de urencontingenten gezinszorg voor de openbare dien
 		<tr>
 			<td>333</td>
 			<td>OCMW Herent</td>
-			<td>9.243</td>
+			<td>9.346</td>
 		</tr>
 		<tr>
 			<td>335</td>
 			<td>Welzijnsregio Noord-Limburg</td>
-			<td>105.646</td>
+			<td>106.520</td>
 		</tr>
 		<tr>
 			<td>337</td>
@@ -429,7 +430,7 @@ Vanaf 1 januari 2017 worden de urencontingenten gezinszorg voor de openbare dien
 		<tr>
 			<td>339</td>
 			<td>Welzijnskoepel West-Brabant</td>
-			<td>111.334</td>
+			<td>111.559</td>
 		</tr>
 		<tr>
 			<td>341</td>
@@ -454,12 +455,10 @@ Vanaf 1 januari 2017 worden de urencontingenten gezinszorg voor de openbare dien
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;Totaal</td>
-			<td>2.933.675</td>
+			<td>2.935.136</td>
 		</tr>
 	</tbody>
 </table>
-<br>
-&nbsp;
 
 ### ART 2.
 
