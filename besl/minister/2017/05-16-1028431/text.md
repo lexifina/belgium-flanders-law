@@ -16,7 +16,8 @@ Besluit :
 
 ### ART 1.
 
-Vanaf 1 januari 2017 worden de urencontingenten gezinszorg voor de private diensten voor gezinszorg en aanvullende thuiszorg vastgesteld als volgt :
+Vanaf 1 januari 2017 worden de urencontingenten gezinszorg voor de private diensten voor gezinszorg en aanvullende thuiszorg vastgesteld als volgt:<br>
+&nbsp;
 <table border="1">
 	<tbody>
 		<tr>
@@ -27,37 +28,37 @@ Vanaf 1 januari 2017 worden de urencontingenten gezinszorg voor de private diens
 		<tr>
 			<td>002</td>
 			<td>Familiehulp</td>
-			<td>5.973.185</td>
+			<td>5.997.057</td>
 		</tr>
 		<tr>
 			<td>003</td>
 			<td>Familiezorg West-Vlaanderen</td>
-			<td>1.290.343</td>
+			<td>1.295.658</td>
 		</tr>
 		<tr>
 			<td>005</td>
 			<td>Familiezorg Oost-Vlaanderen</td>
-			<td>1.066.170</td>
+			<td>1.070.410</td>
 		</tr>
 		<tr>
 			<td>008</td>
 			<td>Gezinszorg Villers</td>
-			<td>362.964</td>
+			<td>365.783</td>
 		</tr>
 		<tr>
 			<td>014</td>
 			<td>thuiszorg vleminckveld</td>
-			<td>129.891</td>
+			<td>130.705</td>
 		</tr>
 		<tr>
 			<td>015</td>
 			<td>Thuishulp</td>
-			<td>1.702.011</td>
+			<td>1.706.897</td>
 		</tr>
 		<tr>
 			<td>062</td>
 			<td>Landelijke Thuiszorg</td>
-			<td>1.264.643</td>
+			<td>1.277.891</td>
 		</tr>
 		<tr>
 			<td>074</td>
@@ -67,17 +68,17 @@ Vanaf 1 januari 2017 worden de urencontingenten gezinszorg voor de private diens
 		<tr>
 			<td>152</td>
 			<td>Liers Centrum voor Gezinszorg</td>
-			<td>25.163</td>
+			<td>25.307</td>
 		</tr>
 		<tr>
 			<td>163</td>
 			<td>SOWEL</td>
-			<td>234.434</td>
+			<td>234.689</td>
 		</tr>
 		<tr>
 			<td>202</td>
 			<td>Solidariteit voor het Gezin</td>
-			<td>1.534.075</td>
+			<td>1.538.535</td>
 		</tr>
 		<tr>
 			<td>220</td>
@@ -87,17 +88,17 @@ Vanaf 1 januari 2017 worden de urencontingenten gezinszorg voor de private diens
 		<tr>
 			<td>233</td>
 			<td>De Regenboog</td>
-			<td>25.256</td>
+			<td>25.365</td>
 		</tr>
 		<tr>
 			<td>294</td>
 			<td>Partena Gezinszorg</td>
-			<td>119.679</td>
+			<td>119.906</td>
 		</tr>
 		<tr>
 			<td>302</td>
 			<td>Onafhankelijke Thuiszorg Verenigingen</td>
-			<td>203.735</td>
+			<td>204.534</td>
 		</tr>
 		<tr>
 			<td>308</td>
@@ -107,12 +108,12 @@ Vanaf 1 januari 2017 worden de urencontingenten gezinszorg voor de private diens
 		<tr>
 			<td>312</td>
 			<td>Pajottenlands Centrum - Leda</td>
-			<td>48.278</td>
+			<td>49.401</td>
 		</tr>
 		<tr>
 			<td>340</td>
 			<td>Wij blijven Thuis</td>
-			<td>17.016</td>
+			<td>18.719</td>
 		</tr>
 		<tr>
 			<td>343</td>
@@ -142,17 +143,15 @@ Vanaf 1 januari 2017 worden de urencontingenten gezinszorg voor de private diens
 		<tr>
 			<td>356</td>
 			<td>Woon- en zorgcentrum Sint-Vincentius</td>
-			<td>17.425</td>
+			<td>17.783</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;Totaal</td>
-			<td>14.290.133</td>
+			<td>14.354.505</td>
 		</tr>
 	</tbody>
 </table>
-<br>
-&nbsp;
 
 ### ART 2.
 
