@@ -559,9 +559,9 @@ In de periode van 1 januari 2017 tot en met 31 december 2017 is het in ICES-gebi
 <br>
 In afwijking van het eerste en tweede lid worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2017 uitsluitend uitgerust is met de planken.<br>
 <br>
-§ 3. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 375 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+§ 3. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
-In de periode van 1 januari 2017 tot en met 31 december 2017 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 750 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+In de periode van 1 januari 2017 tot en met 31 december 2017 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan&nbsp;400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
 § 4. In de periode van 11 maart 2017 tot en met 31 december 2017 is het in het ICES-gebied VIIe voor een vissersvaartuig verboden bij de golfrogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 40 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dit ICES-gebied.
 
