@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028833,
+  "title": "Samenwerkingsakkoord van 2017-07-14 tussen de Federale Staat, de Gemeenschappen en de Gewesten in het kader van de omzetting van de Richtlijn 2014/61/EU",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028833/VolledigDocument?datum=2017-09-22",
+  "source_sha256": "08387bb7f43d2cb24c5f0d9a21ebae8ca617ecc875878698ec9479d0c5f45035",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028833&param=informatie",
+  "as_of": "2017-09-22",
+  "made": "2017-07-14",
+  "gazette": "2017-09-12",
+  "numac": 0,
+  "document_start": "2017-09-22",
+  "document_end": null,
+  "in_force": "2017-09-22",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2017-09-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
