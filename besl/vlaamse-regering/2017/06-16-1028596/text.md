@@ -1,0 +1,904 @@
+# Besluit van de Vlaamse Regering van 2017-06-16 tot erkenning van de beroepskwalificatie traiteur-banketaannemer
+
+### Aanhef
+
+De Vlaamse Regering,<br>
+<br>
+Gelet op het decreet van 30 april 2009 betreffende de kwalificatiestructuur, artikel 12, vervangen bij het decreet van 1 juli 2011;<br>
+<br>
+Gelet op het erkenningsadvies van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, gegeven op 19 mei 2017;&nbsp;<br>
+<br>
+Gelet op het advies van de Inspectie van Financiën, gegeven op 2 juni 2017;<br>
+<br>
+Op voorstel van de Vlaamse minister van Onderwijs en de Vlaamse minister van Werk, Economie, Innovatie en Sport;&nbsp;<br>
+<br>
+Na beraadslaging,<br>
+<br>
+Besluit :&nbsp;
+
+### ART 1.
+
+De beroepskwalificatie van traiteur-banketaannemer, ingeschaald op niveau 5 van de Vlaamse kwalificatiestructuur, waarvan de beschrijving is opgenomen in de bijlage die bij dit besluit is gevoegd, wordt erkend.
+
+### ART 2.
+
+De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
+
+### BIJLAGE
+
+Beschrijving van de beroepskwalificatie van traiteur-banketaannemer (0289) als vermeld in artikel 1<br>
+1. GLOBAAL<br>
+a. Titel<br>
+Traiteur-banketaannemer<br>
+b. Definitie<br>
+"Bereidt warme en koude maaltijden teneinde deze te verkopen of op te dienen in het traiteursbedrijf of op bestelling buiten het traiteursbedrijf af te leveren of op te dienen."<br>
+c. Niveau<br>
+5<br>
+d. Jaartal<br>
+2017<br>
+2. COMPETENTIES<br>
+2.1 Opsomming competenties<br>
+BASISACTIVITEITEN<br>
+-Werkt in teamverband (co 01993)<br>
+- Wisselt informatie uit met collega's en eindverantwoordelijke<br>
+- Rapporteert aan de eindverantwoordelijke<br>
+- Werkt efficiënt samen met collega's<br>
+- Past zich flexibel aan (verandering van collega's, verandering van werkschema...)<br>
+- Meldt problemen, mondeling of schriftelijk, aan de leidinggevende<br>
+- Deelt vakkennis<br>
+- Vraagt zelf hulp of advies indien nodig<br>
+- Toont respect voor elke collega, functie of taak<br>
+- Draagt bij tot een aangename sfeer in het team<br>
+- Verplaatst zich in de positie van een collega en reageert gepast (hulp bieden, afstand houden, relativeren...)<br>
+- Werkt kostenbewust met oog voor veiligheid, milieu, kwaliteit en welzijn (co 01994)<br>
+- Werkt ergonomisch (past hef- en tiltechnieken toe)<br>
+- Werkt economisch en vermijdt verspilling<br>
+- Werkt conform voorgeschreven procedures en huisregels en vult de nodige documenten in<br>
+- Past de veiligheids-, voedselveiligheids- en milieuvoorschriften toe<br>
+- Gebruikt persoonlijke en collectieve beschermingsmiddelen<br>
+- Past nieuwe technieken toe en leert ze aan<br>
+- Verplaatst zich op efficiënte wijze tussen de verschillende werkplekken<br>
+- Werkt ordelijk en houdt zich aan de planning<br>
+- Werkt zorgvuldig en met oog voor detail<br>
+- Bepaalt de werkvolgorde en organiseert de taken<br>
+- Controleert het eigen werk en voorkomen en dat van al het keukenpersoneel<br>
+- Past het voorkomen en bedrijfskledij aan conform de taakuitvoering<br>
+- Draagt zorg voor materiaal, kledij, goederen...<br>
+- Sorteert afval volgens de richtlijnen<br>
+- Is zich bewust van de kostprijs van ingrediënten en producten<br>
+- Werkt volgens de regels van hygiëne en voedselveiligheid (co 01995)<br>
+- Respecteert de persoonlijke hygiëne<br>
+- Wast en ontsmet de handen volgens de hygiënische richtlijnen<br>
+- Bedekt eventuele wonden met wettelijk toegelaten middelen<br>
+- Draagt werk- en beschermkledij volgens de hygiënische richtlijnen<br>
+- Respecteert de zones binnen de keuken: koude/warme en vuile/schone<br>
+- Haalt producten pas op de laatste moment uit de koelruimte om ze te verwerken<br>
+- Controleert of producten voldoen aan de voedselveiligheid<br>
+- Controleert kwaliteit en versheid van producten voor gebruik<br>
+- Vermijdt kruisbesmetting<br>
+- Herkoelt producten zo snel mogelijk na bewerking<br>
+- Bewaart voedingsproducten conform de regels van voedselveiligheid<br>
+- Registreert goederen en temperaturen<br>
+- Is zich bewust van mogelijke gevaren en allergenen<br>
+- Ontvangt en controleert de goederen (G160201 Id18112-c)<br>
+- Ontvangt en controleert leveringen op kwaliteit, aantallen, gewicht, verpakking, houdbaarheidsdatum en bewaarcondities<br>
+- Controleert de temperatuur, het gewicht en de versheid van de goederen visueel en aan de hand van meetapparatuur<br>
+- Controleert of de goederen voldoen aan de voedselveiligheid<br>
+- Houdt rekening met de beperkte houdbaarheid van producten<br>
+- Vermeldt en registreert afwijkingen<br>
+- Rapporteert beschadigingen en/of afwijkingen in de bestelling aan de keukenverantwoordelijke/zaakvoerder en de leverancier<br>
+- Slaat goederen op in een koelkamer of voorraadkamer (G160201 Id18112-c)<br>
+- Houdt rekening met de voorwaarden waaraan moet worden voldaan om goederen op te slaan<br>
+- Slaat goederen op in de koeling, diepvries of magazijn volgens het "First In First Out"-principe* of "First Expired First Out"-principe**<br>
+- Controleert de temperatuur in de opslagruimte en registreert deze volgens regelgeving<br>
+*FIFO: het First In- First Out-principe wordt gebruikt als een vulsysteem voor schabben voor producten die onderhevig zijn aan bederf of verandering<br>
+** FEFO: First Expired - First Out is een methode waarbij de goederen waarvan de houdbaarheid verlopen is als eersten worden gebruikt of verstuurd. Deze methode wordt gebruikt bij goederen met een beperkte houdbaarheid, zoals voeding en geneesmiddelen<br>
+- Voert de voorbereidende werkzaamheden uit voor de bereidingen (G160201 Id16605-c)<br>
+- Raadpleegt de opdrachten of receptuur<br>
+- Stelt de werkvolgorde vast<br>
+- Kiest het juiste materiaal<br>
+- Kiest de juiste producten, volgens het FIFO/FEFO-principe<br>
+- Schat de vereiste hoeveelheden in en zet alle ingrediënten klaar<br>
+- Weegt eventueel de benodigde hoeveelheden af<br>
+- Meldt voorraadtekorten aan de verantwoordelijke of registreert ze<br>
+- Zet alle keukentoestellen aan (ovens, kookplaten...) in functie van de opdracht<br>
+- Wast groenten en fruit, maakt ze schoon en versnijdt ze (G160201 Id6296-c)<br>
+- Controleert de kwaliteit en versheid van producten voor gebruik<br>
+- Past de volgorde van de bewerkingen (schoonmaken, wassen, versnijden) aan de ingrediënten aan<br>
+- Spoelt groenten en fruit totdat alle aarde en zand verwijderd is<br>
+- Schilt of pelt ingrediënten met zo weinig mogelijk verlies<br>
+- Gebruikt de voorgeschreven snijtechniek(en) en houdt daarbij rekening met de kwetsbaarheid en bederfelijkheid van het voedingsproduct<br>
+- Gebruikt eventueel een snijmachine volgens de veiligheidsvoorschriften<br>
+- Versnijdt groenten en fruit naar opgedragen grootte/vorm (julienne, brunoise, snipperen/eminceren, ciseleren, hakken)<br>
+- Gaart de producten eventueel voor<br>
+- Respecteert de hoeveelheden en gewichten beschreven in de receptuur<br>
+- Verpakt en etiketteert de producten<br>
+- Maakt schoon, bewerkt, versnijdt en portioneert vlees, vis, gevogelte en andere basisproducten (co 01996)<br>
+- Controleert de kwaliteit en versheid van producten voor gebruik<br>
+- Past de volgorde van de bewerkingen (schoonmaken, wassen, versnijden) aan de ingrediënten aan<br>
+- Gebruikt de voorgeschreven snijtechniek(en) en houdt daarbij rekening met de kwetsbaarheid en bederfelijkheid van het voedingsproduct<br>
+- Gebruikt eventueel een snijmachine volgens de veiligheidsvoorschriften<br>
+- Versnijdt en portioneert het product op een economisch verantwoorde en kwaliteitsvolle manier<br>
+- Gaart de producten eventueel voor<br>
+- Gebruikt de weegschaal<br>
+- Respecteert de hoeveelheden en gewichten beschreven in de receptuur<br>
+- Verpakt en etiketteert de producten<br>
+- Herkoelt de producten zo snel mogelijk na bewerking<br>
+- Past de bereidingstechnieken toe voor het bereiden van hapjes, garnituren, sauzen, soepen, voorgerechten, bijgerechten, salades, deegwaren, rijstgerechten, aardappelbereidingen (co 01997)<br>
+- Kiest de grondstoffen op basis van het recept en weegt ze af<br>
+- Controleert de versheid en de kwaliteit van de producten voor gebruik<br>
+- Respecteert de tijdsplanning, receptuur, werkmethode en organisatie<br>
+- Gebruikt het juiste kook- en bereidingsmaterieel<br>
+- Past de juiste bereidingstechniek toe (stoven, koken, bakken, braden, blancheren, smoren, glaceren, gratineren, sueren, pocheren, stomen, frituren, sauteren, grilleren...)<br>
+- Beoordeelt de smaak van de gedoseerde en gemengde ingrediënten<br>
+- Bepaalt de juiste porties per persoon en/of per bestelling<br>
+- Past diverse bereidingstechnieken toe voor het bereiden van vlees, gevogelte, visgerechten en vegetarische gerechten... (co 0251)<br>
+- Kiest de grondstoffen op basis van het recept en weegt ze af<br>
+- Controleert de versheid en de kwaliteit van de producten voor gebruik<br>
+- Respecteert de tijdsplanning, receptuur, werkmethode en organisatie<br>
+- Gebruikt het juiste kook- en bereidingsmaterieel<br>
+- Past de juiste bereidingstechniek toe (stoven, koken, bakken, braden, blancheren, smoren (braiseren), glaceren, poêleren, gratineren, sueren, pocheren, stomen, frituren, sauteren, grilleren...)<br>
+- Beoordeelt de smaak van gedoseerde en gemengde ingrediënten<br>
+- Bepaalt de juiste porties per persoon en/of per bestelling<br>
+- Controleert bereidingen en gerechten op smaak, kwaliteit en presentatie<br>
+- Past diverse bereidingstechnieken toe voor het bereiden van zuivelbereidingen en nagerechten (co 01999)<br>
+- Kiest de grondstoffen op basis van het recept en weegt ze af<br>
+- Controleert de versheid en de kwaliteit van de producten voor gebruik<br>
+- Respecteert de tijdsplanning, receptuur, werkmethode en organisatie<br>
+- Gebruikt het juiste kook- en bereidingsmaterieel<br>
+- Past de juiste bereidingstechniek toe<br>
+- Beoordeelt de smaak van gedoseerde en gemengde ingrediënten<br>
+- Bepaalt de juiste porties per persoon en/of per bestelling<br>
+- Past diverse bereidingstechnieken toe voor het bereiden van vlees, gevogelte, visgerechten en vegetarische gerechten (co 02510)<br>
+- Kiest de grondstoffen op basis van het recept en weegt ze af<br>
+- Controleert de versheid en de kwaliteit van de producten voor gebruik<br>
+- Respecteert de tijdsplanning, receptuur, werkmethode en organisatie<br>
+- Gebruikt het juiste kook- en bereidingsmaterieel<br>
+- Past de juiste bereidingstechniek toe (stoven, koken, bakken, braden, blancheren, smoren (braiseren), glaceren, poêleren, gratineren, sueren, pocheren, stomen, frituren, sauteren, grilleren...)<br>
+- Beoordeelt de smaak van gedoseerde en gemengde ingrediënten<br>
+- Bepaalt de juiste porties per persoon en/of per bestelling<br>
+- Controleert bereidingen en gerechten op smaak, kwaliteit en presentatie<br>
+- Bereidt gerechten en maaltijden à la minute (co 02000)<br>
+- Leest de bestelbon<br>
+- Bereidt het gerecht op basis van afroep door de verantwoordelijke<br>
+- Past indien nodig regeneratietechnieken toe<br>
+- Stemt af met de bediening tijdens de dienst<br>
+- Werkt gerechten af volgens bestelling<br>
+- Houdt rekening met afwijkingen of allergenen<br>
+- Respecteert de juiste porties<br>
+- Past diverse dresseertechnieken toe op het bord (G160201 Id5855-c)<br>
+- Volgt de receptuur en de technische fiche<br>
+- Respecteert de juiste porties van de maaltijdcomponenten<br>
+- Presenteert en schikt de maaltijden hygiënisch en aantrekkelijk<br>
+- Schikt meerdere borden identiek<br>
+- Veegt gemorste resten af met proper keukenpapier<br>
+- Ondersteunt, indien nodig, het doorgeven van de gerechten naar de zaal<br>
+- Zet het buffet klaar (co 02001)<br>
+- Maakt schotels klaar voor saladebars, toonbank selfservice, banketten en buffetten en vult ze aan<br>
+- Past technieken toe van het versnijden en portioneren<br>
+- Zet koude en warme etenswaren klaar<br>
+- Controleert regelmatig de temperatuur van de bereidingen, de bain-maries en koeltogen<br>
+- Verpakt en etiketteert de bereidingen, producten en bergt ze op in de koelkamer, in de voorraadkamer (G160201 Id9117-c)<br>
+- Koelt de producten af volgens de regels van de voedselveiligheid<br>
+- Dekt koude bereidingen onmiddellijk af<br>
+- Dekt warme bereidingen af nadat ze afgekoeld zijn<br>
+- Zet te bewaren overschotten onmiddellijk in de koelruimte indien ze niet dezelfde dag gebruikt worden<br>
+- Gebruikt het juiste verpakkingsmateriaal<br>
+- Voorziet overschotten van een etiket alvorens ze op de juiste plaats op te bergen<br>
+- Past het FIFO/FEFO-principe toe<br>
+- Maakt het werkblad, het gereedschap en de ruimtes hygiënisch schoon (co 02002)<br>
+- Houdt zich aan het reinigingsplan en de -richtlijnen<br>
+- Ruimt de werkplek en het materieel systematisch op<br>
+- Reinigt tussen elke handeling het gebruikte keukenmateriaal en de werkoppervlakken volgens de hygiënische richtlijnen<br>
+- Reinigt regelmatig alle oppervlakken die met de voedingsproducten in contact kwamen<br>
+- Ruimt na de dienst de werkplek op<br>
+- Reinigt en desinfecteert het materieel, de werkoppervlakken en de vloeren<br>
+- Stemt de techniek en de schoonmaakproducten af op de opdracht<br>
+- Stemt de hoeveelheid product af op de vervuiling en het oppervlak<br>
+- Controleert de staat van het materieel en slijpt messen waar nodig<br>
+- Merkt afwijkingen, storingen of de nood aan preventief onderhoud aan de keukenuitrusting op<br>
+- Signaleert pannes aan de verantwoordelijke<br>
+- Voert controletests uit op de versheid van voedingsmiddelen, bereidingen en neemt stalen (co 02082)<br>
+- Voert temperatuurcontroles uit<br>
+- Volgt houdbaarheidsdata op<br>
+- Gebruikt controle/meetinstrumenten<br>
+- Houdt zich aan de voorschriften voor staalname (tijdstip, hoeveelheid, bewaring, e.d.)<br>
+- Vult de correcte formulieren in<br>
+- Gebruikt kantoorsoftware (tekstverwerking, rekenblad...)<br>
+SPECIFIEKE ACTIVITEITEN<br>
+- Stelt gerechten en menu's samen (G160201 Id21083-c)<br>
+- Overlegt met de eindverantwoordelijke<br>
+- Stelt de menukaart en gerechten samen<br>
+- Houdt rekening met de juiste smaakcombinaties, texturen en kleuren<br>
+- Houdt rekening met het seizoenaanbod en de prijs van voedingswaren<br>
+- Houdt rekening met infrastructuur van keuken en zaal<br>
+- Houdt rekening met budget, foodcost, afwisseling in het assortiment, allergenen en diëten<br>
+- Zorgt voor een evenwichtige samenstelling<br>
+- Ontwikkelt de eigen vakkennis (bedrijfsbezoeken, beurzen, overleg met concullega's...)<br>
+- Houdt rekening met nieuwe trends en technologieën<br>
+- Bedenkt de presentatie, samenstelling en afwerking van het bord en buffet<br>
+- Houdt rekening met het aantal handelingen<br>
+- Bepaalt het recept en de bereidingswijze<br>
+- Vraagt feedback<br>
+- Past gerechten aan waar nodig<br>
+- Stelt technische fiches of handleidingen op per gerecht<br>
+- Overlegt met de gespecialiseerd drankenkelner en/of maître d'hôtel om de wijnen en dranken af te stemmen<br>
+- Bepaalt de manier van serveren in overleg met de zaal (op de Engelse manier, op een bord, op de Franse manier, op de Russische manier, onder een stolp... )<br>
+- Bepaalt in overleg het passende servies<br>
+- Houdt bij de ontwikkeling van nieuwe producten rekening met de manier van verkopen (koud/warm, verpakking,...)<br>
+- Maakt een prijsberekening voor menu's en gerechten (co 02113)<br>
+- Bepaalt de foodcost per gerecht en menu<br>
+- Bepaalt de totale kostprijs per gerecht en menu<br>
+- Houdt rekening met vergelijkbare concurrenten uit de omgeving, het type gast, het type bedrijf, e.d.<br>
+- Doet een voorstel voor de verkoopprijs<br>
+- Organiseert en coördineert de werkzaamheden van de keuken (co 02114)<br>
+- Maakt een inschatting van de werkzaamheden<br>
+- Houdt rekening met reservaties, bestellingen, offertes, weersomstandigheden...<br>
+- Maakt werkroosters, werkplanning op en stelt de werkvolgorde vast<br>
+- Communiceert de opdrachten naar het keukenpersoneel<br>
+- Controleert, begeleidt, ondersteunt en geeft instructies aan het keukenpersoneel<br>
+- Structureert de mise-en-place van de keuken<br>
+- Bewaakt de naleving van het tijdschema en zorgt voor een efficiënte werkvoortgang<br>
+- Stuurt bij en reageert adequaat op onvoorziene omstandigheden<br>
+- Controleert de kwaliteit voordat de borden worden doorgegeven aan het zaalpersoneel<br>
+- Controleert de kwaliteit van de banketten die worden opgesteld<br>
+- Maakt afspraken met het zaalpersoneel zodat een goede dienstverlening verzekerd wordt<br>
+- Registreert en verwerkt allerhande gegevens: gepresteerde werkuren, ziekte, verlof, calculatie, voorraad, bestellingen en verbruik<br>
+- Stelt de zaal en de office op en maakt de tafels klaar voor de dienst (co 02199)<br>
+- Organiseert de eigen werkzaamheden<br>
+- Leest het zaalplan<br>
+- Schikt tafels en stoelen<br>
+- Staat in voor de mise-en-place van de zaal : mastiek (schoonmaken) van zaalmateriaal of meubilair<br>
+- Dekt de tafels: legt linnen, plooit servetten, plaatst bestek en vaatwerk, decoreert tafels, de buffetten en de zaal (indien van toepassing)<br>
+- Staat in voor de mise-en-place van het dienstmateriaal (brood, boter, warmhoudplaatjes, e.d.)<br>
+- Staat in voor de mise-en-place van het buffet<br>
+- Vult de frigo's aan (indien van toepassing)<br>
+- Staat in voor de mise-en-place van aperitieven, nagerechten, koffie en toebehoren<br>
+- Heeft aandacht voor de juiste atmosfeer (verlichting, geluid, temperatuur)<br>
+- Past ergonomische hef- en tiltechnieken toe<br>
+- Werkt samen met leveranciers en dienstverleners (co 02115)<br>
+- Selecteert leveranciers en dienstverleners op basis van kwaliteit, dienstverlening, prijs...<br>
+- Gebruikt kantoorsoftware<br>
+- Contacteert leveranciers en dienstverleners in geval van fouten en problemen<br>
+- Bouwt een netwerk uit<br>
+- Zorgt voor de opleiding en begeleiding van al het keukenpersoneel (G160201 Id19841-c)<br>
+- Neemt een coachende houding aan<br>
+- Geeft het goede voorbeeld<br>
+- Motiveert en enthousiasmeert het keukenpersoneel<br>
+- Geeft duidelijke opdrachten<br>
+- Stelt leervragen en geeft constructieve feedback<br>
+- Verleent hulp en advies bij problemen<br>
+- Geeft vertrouwen en ruimte<br>
+- Heeft zicht op sterke en zwakke punten en kan verbeterpunten geven<br>
+- Zorgt voor een goede teamgeest<br>
+- Stimuleert het vakmanschap<br>
+- Begeleidt de bereidingsprocessen<br>
+- Rapporteert aan de zaakvoerder of keukenverantwoordelijke<br>
+- Onthaalt de gast bij zijn aankomst (co 02200)<br>
+- Begroet de gast(en)<br>
+- Controleert de reservatie (indien van toepassing)<br>
+- Herkent de gewoonten van verschillende types van gasten<br>
+- Komt zo goed mogelijk tegemoet aan hun verwachtingen<br>
+- Neemt de jassen aan en brengt ze naar de vestiaire (indien van toepassing)<br>
+- Wijst een plaats toe<br>
+- Begeleidt gasten naar hun tafel<br>
+- Gaat discreet om met gasten<br>
+- Reageert correct bij normoverschrijdend gedrag van gasten<br>
+- Bereidt eenvoudige warme en koude dranken (G180301 Id23856-c)<br>
+- Gebruikt barmateriaal (koffiemachine, tapkraan, ...)<br>
+- Doet de mise-en-place voor aperitieven, koffie en toebehoren (aperitiefhapjes, koekjes, ...)<br>
+- Tapt/schenkt de voorgeschreven hoeveelheid drank in een glas volgens de richtlijnen<br>
+- Vult dranken aan<br>
+- Bereidt eenvoudige warme dranken (koffie, thee, ....)<br>
+- Bereidt complexe warme en koude dranken (G180301 Id23856-c)<br>
+- Zet alle benodigde materialen klaar<br>
+- Zorgt dat er zo min mogelijk tijd en materiaal wordt verspild<br>
+- Zet de producten (alcoholische en niet-alcoholische dranken, suikers, room, fruitsoorten, kruiden, specerijen, ....) klaar zodat de bereiding zonder onderbrekingen kan verlopen<br>
+- Ontkurkt en decanteert de wijnen<br>
+- Tapt/schenkt de voorgeschreven hoeveelheid drank in een glas/tas volgens de richtlijnen<br>
+- Decoreert en serveert de drankbereiding volgens recept en de richtlijnen van het huis<br>
+- Vult dranken en producten aan<br>
+- Dient gerechten en/of dranken op in de zaal of aan het buffet (G180301 Id20722-c/20888-c/20889-c/20890-c/20891-c/20892-c)<br>
+- Leest en voert de bestelling uit<br>
+- Zet de dranken klaar of geeft de bestelling door<br>
+- Past het bestek aan volgens het gerecht<br>
+- Haalt dranken en maaltijden op<br>
+- Serveert dranken volgens de richtlijnen van het huis<br>
+- Brengt de gerechten naar de tafel<br>
+- Bedient de gasten volgens de richtlijnen van het huis en de etiquette<br>
+- Wenst de gasten smakelijk eten en vraagt of alles naar wens is<br>
+- Hanteert de juiste kracht en snelheid bij het bedienen van de gast en het afruimen van de tafel<br>
+- Beweegt zich in een beperkte ruimte zonder de gast(en) of collega's te hinderen<br>
+- Serveert, indien nodig, gerechten na met dienstbestek<br>
+- Ruimt de tafel af<br>
+- Houdt de gast(en) tijdens de maaltijd in de gaten, reageert alert op hun signalen<br>
+- Houdt de glazen van de gast(en) in de gaten en schenkt bij indien nodig<br>
+- Heeft aandacht voor de eigen veiligheid bij het hanteren van warme of koude borden/dienschalen/machines/materiaal<br>
+- Gebruikt het gepaste zaalmateriaal<br>
+- Neemt op gepaste wijze afscheid<br>
+- Beantwoordt vragen van gasten en behandelt klachten (co 02117)<br>
+- Vraagt of alles naar wens is<br>
+- Geeft aan klanten uitleg over gerechten en hun samenstelling<br>
+- Geeft aan welke producten er in gerechten zijn verwerkt in functie van allergenen en diëten<br>
+- Reikt alternatieven voor allergenen en diëten aan<br>
+- Behandelt klachten<br>
+- Volgt de voorraad op, stelt tekorten vast en geeft bestellingen door (G160201 Id18152)<br>
+- Houdt gegevens bij over het verbruik van producten<br>
+- Inventariseert de behoefte aan grondstoffen en producten<br>
+- Stemt de hoeveelheid te bestellen producten af op de recepten in de planning<br>
+- Houdt de voorraad op peil<br>
+- Stelt tekorten vast en reageert<br>
+- Vult een bestelformulier in<br>
+- Voorziet ingrediënten om in te spelen op specifieke vragen van de gast (bv. vegetarisch, allergie, dieet...)<br>
+- Houdt rekening met de kostprijs van een product<br>
+- Verricht onderhoud aan keukenmaterieel en houdt een inventaris bij (co 02118)<br>
+- Maakt de inventaris op<br>
+- Controleert keukenmaterieel op voorkomen, gebreken, slijtage<br>
+- Gebruikt eventueel een onderhoudsschema<br>
+- Verricht eenvoudig onderhoud aan het keukenmateriaal en machines volgens de werkinstructiefiches<br>
+- Meldt gebreken en beschadigingen aan de eindverantwoordelijke<br>
+- Adviseert bij de aankoop van keukenmateriaal<br>
+- Zorgt ervoor dat de regelgeving met betrekking tot veiligheid, hygiëne, milieu en voedselveiligheid wordt toegepast in de keuken (co 02119)<br>
+- Stelt procedures op om te voldoen aan de regelgeving<br>
+- Organiseert en verdeelt de taken<br>
+- Controleert of alle taken worden uitgevoerd<br>
+- Neemt steekproeven<br>
+- Versiert, presenteert en verpakt gerechten en traiteursschotels (D110301 Id6051-c, D110501 Id15570-c/8059-c)<br>
+- Weegt porties af<br>
+- Past afwerkings- en garneringstechnieken toe om de waren verkoopsklaar te maken<br>
+- Versnijdt en of pelt bereide schaaldieren<br>
+- Opent eventueel schelpdieren<br>
+- Zorgt voor een evenwichtige vulling van de schalen volgens bestelling/opdracht<br>
+- Voorkomt kruisbesmetting<br>
+- Schikt en presenteert schotels<br>
+- Verpakt producten met de hand of met een verpakkingsmachine<br>
+- Brengt etiketten aan met de wettelijke informatie (prijs, gewicht, samenstelling, allergenen, ....)<br>
+- Bewaart volgens het `First-In First-Out'-principe<br>
+- Plaatst de producten in de toonbank/koeltoog volgens het `First-In First Out'-principe<br>
+- Bewaakt de kwaliteit van de presentatie van producten<br>
+- Vult tijdig aan, controleert en verwijdert producten die niet meer aan de (houdbaarheids)norm voldoen<br>
+- Volgt klantenrelaties op (co 01974)<br>
+- Onderhoudt contacten met vaste klanten of groepen en formuleert gerichte verkoopvoorstellen<br>
+- Ontvangt nieuwe klanten en formuleert gerichte verkoopvoorstellen<br>
+- Verzorgt de dienst na verkoop<br>
+- Volgt de online reviews op<br>
+- Verkoopt producten ter plaatse, neemt de bestelling van de klant/gast op en informeert over de producten en schotels (D110301 Id12038-c)<br>
+- Voert een verkoopgesprek en tracht de wensen van de klant te achterhalen<br>
+- Wijst de klant op speciale acties en producten om de verkoop te stimuleren<br>
+- Neemt de bestelling van de klant op<br>
+- Weegt producten en verpakt ze volgens voorschriften met betrekking tot voedselveiligheid<br>
+- Houdt tijdens het pakken, afwegen en verpakken constant de kwaliteit van de producten in de gaten i.v.m. voedselveiligheid<br>
+- Verpakt de producten in de juiste volgorde en in de juiste verpakkingsmaterialen<br>
+- Zorgt dat er geen verspilling optreedt<br>
+- Adviseert de klanten over de samenstelling, bereidingswijze, bewaringswijze en toepassing van de producten<br>
+- Geeft alternatieven voor vlees en vleesproducten<br>
+- Beantwoordt specifieke vragen, bijvoorbeeld met betrekking tot diëten en allergenen, samenstelling van gerechten...<br>
+- Reikt alternatieven aan voor allergenen<br>
+- Rekent de verkoopprijs af met de klant<br>
+- Bedient de kassa op een nauwkeurige wijze zodat de bestellingen en de financiële afhandeling correct geschiedt<br>
+- Reageert correct en adequaat bij klachten van de klant<br>
+- Levert de bestelling bij de klanten (N410501 Id12436-c)<br>
+- Levert, indien gewenst, de bestelling aan huis<br>
+- Kijkt de bestelbon na<br>
+- Houdt zich aan het afgesproken tijdstip<br>
+- Bereidt de bestelling(en) voor en laadt ze in het voertuig<br>
+- Gaat, bij levering, de staat van de bestelling na op eventuele schade of tekorten<br>
+- Informeert de klant over de levering<br>
+- Regelt de facturatie<br>
+- Reinigt het voertuig volgens de regels van voedselveiligheid en -hygiëne<br>
+- Respecteert de wettelijke temperatuur en voert regelmatig temperatuurcontroles uit bij het in- en uitladen zowel voor, tijdens als na het transport<br>
+- Vult de nodige registratieformulieren in<br>
+- Respecteert de koude en warme keten<br>
+- Organiseert de afsluitingsfase van de opdracht (co 02201)<br>
+- Plant kostenbewust het nodige personeel en transport<br>
+- Koelt de producten af volgens de regels van de voedselveiligheid<br>
+- Zet te bewaren overschotten onmiddellijk in de koelruimte indien ze niet dezelfde dag gebruikt worden<br>
+- Gebruikt het juiste verpakkingsmateriaal<br>
+- Voorziet overschotten van een etiket alvorens ze op de juiste plaats op te bergen<br>
+- Maakt het werkblad, het gereedschap en de ruimtes hygiënisch schoon<br>
+- Ruimt de tafels af en maakt de gebruikte ruimtes schoon na de dienst<br>
+- Reinigt meubilair, glazen en couverts (met stoom, met azijn...) en bergt het vaatwerk op<br>
+- Sorteert en transporteert het afval volgens de geldende regels<br>
+- Zorgt voor de correcte uitvoering van taken door extern personeel (co 02202)<br>
+- Maakt een inschatting van de werkzaamheden<br>
+- Huurt het extra personeel in (bijvoorbeeld interim, flexi job, jobstudent, extra...)<br>
+- Maakt duidelijke afspraken m.b.t. opdracht en praktische afspraken (aanwezigheid, catering, kledij...)<br>
+- Maakt werkroosters, werkplanning op en stelt de werkvolgorde vast<br>
+- Communiceert de opdrachten naar het personeel<br>
+- Controleert, begeleidt, ondersteunt en geeft instructies aan het personeel<br>
+- Bewaakt de naleving van het tijdschema en zorgt voor een efficiënte werkvoortgang<br>
+- Stuurt bij en reageert adequaat op onvoorziene omstandigheden<br>
+- Maakt afspraken met het personeel zodat een goede dienstverlening verzekerd wordt<br>
+- Registreert en verwerkt de gepresteerde werkuren<br>
+2.2 Beschrijving competenties/activiteiten adhv de descriptorelementen<br>
+2.2.1 Kennis<br>
+- Basiskennis van serveertechnieken<br>
+- Basiskennis van de manieren van serveren (Frans, Engels, Russisch...)<br>
+- Basiskennis van het netwerken<br>
+- Basiskennis van reservatiesystemen<br>
+- Basiskennis van laden en lossen van goederen<br>
+- Basiskennis van de wettelijke bepalingen voor het transport van voedingsproducten<br>
+- Basiskennis van EHBO<br>
+- Kennis van modaliteiten voor het vervoer van goederen/voedingsproducten<br>
+- Kennis van ergonomie<br>
+- Kennis van voorschriften voor ontvangst en controle van goederen<br>
+- Kennis van de voorwaarden voor opslag van voeding<br>
+- Kennis van het FIFO- en FEFO-principe<br>
+- Kennis van de traceerbaarheid van producten<br>
+- Kennis van de verpakkingswijze van voedingsmiddelen<br>
+- Kennis van de invloed van een verpakking op de hygiëne en het bewaren van een product<br>
+- Kennis van de relatie tussen de verpakking en het bewaren van een product<br>
+- Kennis van sorteer- en stockeertechnieken m.b.t. voedingsproducten<br>
+- Kennis van etikettering<br>
+- Kennis van controletests en het nemen van stalen<br>
+- Kennis van schillen en pellen van voedingsproducten<br>
+- Kennis van het schoonmaken, versnijden en portioneren van vis, vlees, gevogelte en andere basisproducten<br>
+- Kennis van portioneren van maaltijdcomponenten<br>
+- Kennis van functionele rekenvaardigheid m.b.t. het berekenen van hoeveelheden<br>
+- Kennis van versnijdingsvormen (groenten, vlees en vis)<br>
+- Kennis van allergenen en diëten<br>
+- Kennis van vlees-, gevogelte- en visgerechten<br>
+- Kennis van vegetarische en veganistische gerechten<br>
+- Kennis van de anatomie van dieren voor consumptie<br>
+- Kennis van alternatieven voor specifieke gasten met specifieke vereisten<br>
+- Kennis van vervanging van dierlijke ingrediënten door plantaardige<br>
+- Kennis van het samenstellen van maaltijdpakketten<br>
+- Kennis van het samenstellen en klaarzetten van buffetten<br>
+- kennis van functionele communicatie met collega's in het Frans en Engels<br>
+- Kennis van de principes van gastvriendelijkheid<br>
+- Kennis van etiquette<br>
+- Kennis van klachtenbehandeling<br>
+- Kennis van opmaak van offertes<br>
+- Kennis van de werking van keukenapparatuur, materiaal en gereedschappen<br>
+- Kennis van veiligheidsregels bij het gebruik van machines, snijmaterialen en onderhoud van toestellen<br>
+- Kennis van het gebruik van instrumenten voor staalnames<br>
+- Kennis van meetinstrumenten in de keuken (thermometer, digitale weegschaal...)<br>
+- Kennis van de werking van machines of materieel<br>
+- Kennis van reinigingstechnieken<br>
+- Kennis van de toegelaten reinigings- en ontsmettingsmiddelen en procedures<br>
+- Kennis van het reinigingsplan<br>
+- Kennis van het slijpen van messen<br>
+- Kennis van efficiënte werkorganisatie<br>
+- Kennis van lezen, interpreteren en uitwerken van bestelbonnen<br>
+- Kennis van bestellingen (opmaak, opvolging, procedures, formulieren, ontvangstcontrole e.d.)<br>
+- Kennis van voorraadbeheer<br>
+- Kennis van opmaak van inventarissen<br>
+- Kennis van kantoorsoftware en eenvoudige registratietechnieken<br>
+- Kennis van rekenvaardigheid in functie van klantgericht en economisch werken<br>
+- Kennis van opmaak van uurroosters en planningen<br>
+- Kennis van vakmanschap en begeleiding van teamleden<br>
+- Kennis van leidinggeven, aansturen, motiveren van medewerkers<br>
+- Kennis van feedbacktechnieken<br>
+- Kennis van communicatietechnieken<br>
+- Kennis van keukenterminologie en vakjargon in het Frans en het Engels<br>
+- Kennis van werkinstructiefiches<br>
+- Kennis van technische fiches van bereidingen en handleidingen<br>
+- Kennis van dranken en wijnen<br>
+- Kennis van nieuwe trends en technologieën<br>
+- Kennis van zaalplan- en inrichting<br>
+- Kennis van correct ingedekte tafel<br>
+- Kennis van mise-en-place van zaal en buffet<br>
+- Kennis van onthaal en ontvangst van gasten<br>
+- Kennis van de mis-en-place van de bar<br>
+- Kennis van barmateriaal<br>
+- Kennis van drankbereidingen<br>
+- Kennis van serveren en decoreren van drankbereidingen<br>
+- Kennis van schikken van de producten in de toonbank<br>
+- Kennis van regelgeving voor het inhuren van extra personeel<br>
+- Kennis van opmaken van uurroosters en planningen<br>
+- Kennis van de vigerende wettelijke bepalingen m.b.t. de verhoudingen in bereidingen<br>
+- Kennis van besmettingsgevaar en micro-organismen (Listeria, E-coli, Salmonella...)<br>
+- Kennis van registratietechnieken (o.a. voor inventarissen)<br>
+- Kennis van kaassoorten en de combinatie ervan<br>
+- Kennis van diverse presentatie- en garneertechnieken<br>
+- Kennis van materialen die toegelaten zijn bij presentatie en garneringen<br>
+- Kennis van technieken om vlees, vis, wild en gevogelte te snijden<br>
+- Kennis van de jacht- en seizoenskalender<br>
+- Kennis van de soorten bindmiddelen<br>
+- Kennis van technieken om tafels op te maken en af te ruimen<br>
+- Kennis van zaalmateriaal<br>
+- Kennis van verkooptechnieken<br>
+- Kennis van betaalmiddelen en inningsprocedures<br>
+- Kennis van het bedienen en controleren van de kassa<br>
+- Kennis van ergonomische hef- en tiltechnieken<br>
+- Kennis van regelgeving bij kwaliteitsafwijkingen<br>
+- Grondige kennis van producten (assortiment, seizoenen, kwaliteitskenmerken, uitzicht, houdbaarheid, versheid)<br>
+- Grondige kennis van ingrediënten, voedingsproducten en hun toepassingsmogelijkheden<br>
+- Grondige kennis van de combinatie van smaken, aroma's en voedingsmiddelen<br>
+- Grondige kennis van het beoordelen van de smaak van een product of bereiding<br>
+- Grondige kennis van samenstelling van (gezonde en gebalanceerde) gerechten<br>
+- Grondige kennis van hapjes en amuses, voorgerechten, tussengerechten, hoofdgerechten, nagerechten, desserts...<br>
+- Grondige kennis van bijgerechten, garnituren, salades, sauzen, soepen, deegwaren, rijstgerechten, aardappelgerechten, zuivelbereidingen, deegbereidingen...<br>
+- Grondige kennis van vlees-, gevogelte- en visgerechten<br>
+- Grondige kennis van het doseren en mengen van ingrediënten<br>
+- Grondige kennis van de samenhang van een gerecht<br>
+- Grondige kennis van opslag- en bewaartechnieken van voedingswaren (grondstoffen, hulpstoffen, halffabricaten, afgewerkte producten, niet verkochte waren...)<br>
+- Grondige kennis van kwaliteitskenmerken van voedingsproducten<br>
+- Grondige kennis van snijtechnieken<br>
+- Grondige kennis van bereidingswijzen en kooktechnieken<br>
+- Grondige kennis van regeneratietechnieken<br>
+- Grondige kennis van dresseertechnieken<br>
+- Grondige kennis van HACCP-normen*<br>
+- Grondige kennis van het opmaken en lezen van recepten<br>
+- Grondige Kennis van foodcost, wastecost en prijszetting<br>
+- Grondige kennis van verschillende methoden voor kostprijsberekening<br>
+- Grondige kennis van menu-engineering**<br>
+- Grondige kennis van lezen, interpreteren en uitwerken van bestelbonnen<br>
+*HACCP : Hazard Analysis and Critical Control Points is een risico-inventarisatie voor voedingsmiddelen (Gevarenanalyse en kritische controlepunten). Bedrijven die zich bezig houden met de bereiding, verwerking, behandeling, verpakking, vervoer en distributie van levensmiddelen dienen hierdoor alle aspecten van het voorbereidingsproces te identificeren en op gevaren te analyseren. Dit controleproces, uitgaande van de Europese Unie wil ervoor zorgen dat het productieproces van alle voedingsmiddelen gepaard gaat met een zo weinig mogelijk risico op besmetting.<br>
+**Menu-engineering is een systeem om op basis van brutomarge en verkochte aantallen de gerechten en dranken op te delen in vier categorieën (winnaars, slapers, hardlopers en verliezers) en zo het rendement van de kaart te verhogen.<br>
+2.2.2 Vaardigheden<br>
+Cognitieve vaardigheden<br>
+- Het kunnen uitwisselen van informatie met collega's en eindverantwoordelijke<br>
+- Het kunnen rapporteren aan de eindverantwoordelijke<br>
+- Het kunnen efficiënt samenwerken met collega's<br>
+- Het kunnen delen van vakkennis<br>
+- Het kunnen hulp of advies vragen<br>
+- Het kunnen respect tonen voor elke collega, functie of taak<br>
+- Het kunnen bijdragen tot een aangename sfeer in het team<br>
+- Het kunnen zich verplaatsen in de positie van een collega<br>
+- Het kunnen economisch werken en het kunnen vermijden van verspilling<br>
+- Het kunnen werken conform de voorgeschreven procedures en huisregels en het kunnen invullen van de nodige documenten<br>
+- Het kunnen toepassen van de veiligheids-, voedselveiligheids- en milieuvoorschriften<br>
+- Het kunnen gebruiken van persoonlijke en collectieve beschermingsmiddelen<br>
+- Het kunnen toepassen en aanleren van nieuwe technieken<br>
+- Het kunnen zich op efficiënte wijze verplaatsen tussen de verschillende werkplekken<br>
+- Het kunnen ordelijk werken en het zich kunnen houden aan de planning<br>
+- Het kunnen zorgvuldig werken en het kunnen werken met oog voor detail<br>
+- Het kunnen bepalen van de werkvolgorde en het kunnen organiseren van de taken<br>
+- Het kunnen controleren van het eigen werk en voorkomen en dat van al het keukenpersoneel<br>
+- Het kunnen aanpassen van het voorkomen en de bedrijfskledij conform de taakuitvoering<br>
+- Het kunnen zorg dragen voor materiaal, kledij, goederen...<br>
+- Het kunnen zich bewust zijn van de kostprijs van ingrediënten en producten<br>
+- Het kunnen respecteren van de persoonlijke hygiëne<br>
+- Het kunnen dragen van werk- en beschermkledij volgens de hygiënische richtlijnen<br>
+- Het kunnen respecteren van de zones binnen de keuken: koude/warme en vuile/schone<br>
+- Het kunnen op het laatste moment uithalen van producten uit de koelruimte om ze te verwerken<br>
+- Het kunnen controleren of producten voldoen aan de voedselveiligheid<br>
+- Het kunnen controleren van de kwaliteit en versheid van producten voor gebruik<br>
+- Het kunnen vermijden van kruisbesmetting<br>
+- Het kunnen zo snel mogelijk herkoelen van producten na bewerking<br>
+- Het kunnen bewaren van de voedingsproducten conform de regels van de voedselveiligheid<br>
+- Het kunnen registeren van goederen en temperaturen<br>
+- Het kunnen zich bewust zijn van mogelijke gevaren en allergenen<br>
+- Het kunnen ontvangen en controleren van leveringen op kwaliteit, aantallen, gewicht, verpakking, houdbaarheidsdatum en bewaarcondities<br>
+- Het kunnen controleren van de temperatuur, het gewicht en de versheid van de goederen visueel en aan de hand van meetapparatuur<br>
+- Het kunnen rekening houden met de beperkte houdbaarheid van de producten<br>
+- Het kunnen vermelden en registeren van afwijkingen<br>
+- Het kunnen rekening houden met de voorwaarden waaraan voldaan moet worden om goederen op te slaan<br>
+- Het kunnen opslaan van goederen in de koeling, diepvries of magazijn volgens het "First In First Out"-principe of "First Expired First Out"-principe<br>
+- Het kunnen controleren van de temperatuur in de opslagruimte en het kunnen registeren ervan volgens de regelgeving<br>
+- Het kunnen raadplegen van de opdrachten of receptuur<br>
+- Het kunnen vaststellen van de werkvolgorde<br>
+- Het kunnen kiezen van het juiste materiaal<br>
+- Het kunnen kiezen van de juiste producten volgens het FIFO/FEFO-principe<br>
+- Het kunnen inschatten van de vereiste hoeveelheden en het kunnen klaarzetten van alle ingrediënten<br>
+- Het kunnen aanpassen van de volgorde van de bewerkingen (schoonmaken, wassen, versnijden) aan de ingrediënten<br>
+- Het kunnen respecteren van de hoeveelheden en gewichten beschreven in de receptuur<br>
+- Het kunnen kiezen van de grondstoffen op basis van het recept en het kunnen afwegen ervan<br>
+- Het kunnen respecteren van de tijdsplanning, receptuur, werkmethode en organisatie<br>
+- Het kunnen beoordelen van de smaak van de gedoseerde en gemengde ingrediënten<br>
+- Het kunnen bepalen van de juiste porties per persoon en/of per bestelling<br>
+- Het kunnen controleren van bereidingen en gerechten op smaak, kwaliteit en presentatie<br>
+- Het kunnen lezen van de bestelbon<br>
+- Het kunnen bereiden van het gerecht op basis van de afroep door de verantwoordelijke<br>
+- Het kunnen afstemmen met de bediening tijdens de dienst<br>
+- Het kunnen afwerken van gerechten volgens bestelling<br>
+- Het kunnen rekening houden met afwijkingen of allergenen<br>
+- Het kunnen respecteren van de juiste porties<br>
+- Het kunnen volgen van de receptuur en de technische fiche<br>
+- Het kunnen respecteren van de juiste porties van de maaltijdcomponenten<br>
+- Het kunnen gebruiken van het juiste verpakkingsmateriaal<br>
+- Het kunnen toepassen van het FIFO/FEFO-principe<br>
+- Het kunnen zich houden aan het reinigingsplan en de reinigingsrichtlijnen<br>
+- Het kunnen afstemmen van de techniek en de schoonmaakproducten op de opdracht<br>
+- Het kunnen opvolgen van houdbaarheidsdata<br>
+- Het kunnen zich houden aan de voorschriften voor staalname (tijdstip, hoeveelheid, bewaring, e.d.)<br>
+- Het kunnen gebruiken van kantoorsoftware<br>
+- Het kunnen overleggen met de eindverantwoordelijke<br>
+- Het kunnen samenstellen van menukaart en gerechten<br>
+- Het kunnen rekening houden met de juiste smaakcombinaties, texturen en kleuren<br>
+- Het kunnen rekening houden met het seizoenaanbod en de prijs van voedingswaren<br>
+- Het kunnen rekening houden met infrastructuur van keuken en zaal<br>
+- Het kunnen rekening houden met budget, foodcost, afwisseling in het assortiment, allergenen en diëten<br>
+- Het kunnen zorgen voor een evenwichtige samenstelling<br>
+- Het kunnen ontwikkelen van de eigen vakkennis (bedrijfsbezoeken, beurzen, overleg met concullega's...)<br>
+- Het kunnen rekening houden met nieuwe trends en technologieën<br>
+- Het kunnen bedenken van de presentatie, samenstelling en afwerking van het bord en buffet<br>
+- Het kunnen rekening houden met het aantal handelingen<br>
+- Het kunnen bepalen van het recept en de bereidingswijze<br>
+- Het kunnen vragen van feedback<br>
+- Het kunnen aanpassen van gerechten<br>
+- Het kunnen opstellen van technische fiches of handleidingen per gerecht<br>
+- Het kunnen overleggen met de gespecialiseerd drankenkelner en/of maître d'hôtel om de wijnen en dranken af te stemmen<br>
+- Het kunnen bepalen van de manier van serveren in overleg met de zaal (op de Engelse manier, op een bord, op de Franse manier, op de Russische manier, onder een stolp...)<br>
+- Het kunnen bepalen van het passende servies in overleg<br>
+- Het kunnen bijhouden van de ontwikkeling van nieuwe producten rekening houdend met de manier van verkopen (koud/warm, verpakking...)<br>
+- Het kunnen bepalen van de foodcost per gerecht en menu<br>
+- Het kunnen bepalen van de totale kostprijs per gerecht en menu<br>
+- Het kunnen rekening houden met vergelijkbare concurrenten uit de omgeving, het type gast, het type bedrijf, e.d.<br>
+- Het kunnen doen van een voorstel voor de verkoopprijs<br>
+- Het kunnen maken van een inschatting van de werkzaamheden<br>
+- Het kunnen rekening houden met reservaties, bestellingen, offertes, weersomstandigheden...<br>
+- Het kunnen opmaken van werkroosters, werkplanning en het kunnen vaststellen van de werkvolgorde<br>
+- Het kunnen communiceren van de opdrachten naar het keukenpersoneel<br>
+- Het kunnen controleren, begeleiden, ondersteunen en het kunnen geven van instructies aan het keukenpersoneel<br>
+- Het kunnen structureren van de mise-en-place van de keuken<br>
+- Het kunnen bewaken van de naleving van het tijdschema en het kunnen zorgen voor een efficiënte werkvoortgang<br>
+- Het kunnen controleren van de kwaliteit voordat de borden worden doorgegeven aan het zaalpersoneel<br>
+- Het kunnen controleren van de kwaliteit van de banketten die worden opgesteld<br>
+- Het kunnen maken van afspraken met het zaalpersoneel zodat een goede dienstverlening verzekerd wordt<br>
+- Het kunnen registreren en verwerken van allerhande gegevens: gepresteerde werkuren, ziekte, verlof, calculatie, voorraad, bestellingen en verbruik<br>
+- Het kunnen organiseren van de eigen werkzaamheden<br>
+- Het kunnen lezen van het zaalplan<br>
+- Het kunnen schikken van tafels en stoelen<br>
+- Het kunnen aandacht hebben voor de juiste atmosfeer (verlichting, geluid, temperatuur)<br>
+- Het kunnen selecteren van leveranciers en dienstverleners op basis van kwaliteit, dienstverlening, prijs...<br>
+- Het kunnen uitbouwen van een netwerk<br>
+- Het kunnen aannemen van een coachende houding<br>
+- Het kunnen geven van het goede voorbeeld<br>
+- Het kunnen motiveren en enthousiasmeren van het keukenpersoneel<br>
+- Het kunnen geven van duidelijke opdrachten<br>
+- Het kunnen stellen van leervragen en het kunnen geven van constuctieve feedback<br>
+- Het kunnen geven van vertrouwen en ruimte<br>
+- Het kunnen zicht hebben op sterke en zwakke punten en het kunnen geven van verbeterpunten<br>
+- Het kunnen zorgen voor een goede teamgeest<br>
+- Het kunnen stimuleren van vakmanschap<br>
+- Het kunnen begeleiden van de bereidingsprocessen<br>
+- Het kunnen rapporteren aan de zaakvoerder of keukenverantwoordelijke<br>
+- Het kunnen begroeten van de gast(en)<br>
+- Het kunnen controleren van de reservatie<br>
+- Het kunnen herkennen van de gewoonten van verschillende types van gasten<br>
+- Het kunnen zo goed mogelijk tegemoet komen aan de verwachtingen van de gasten<br>
+- Het kunnen discreet omgaan met de gasten<br>
+- Het kunnen gebruiken van barmateriaal (koffiemachine, tapkraan...)<br>
+- Het kunnen tappen/schenken van de voorgeschreven hoeveelheid drank in een glas volgens de richtlijnen<br>
+- Het kunnen bereiden van eenvoudige warme dranken (koffie, thee...)<br>
+- Het kunnen zorgen dat er zo min mogelijk tijd en materiaal wordt verspild<br>
+- Het kunnen decoreren en serveren van de drankbereiding volgens recept en de richtlijnen van het huis<br>
+- Het kunnen lezen en uitvoeren van de bestelling<br>
+- Het kunnen aanpassen van het bestek volgens het gerecht<br>
+- Het kunnen serveren van de dranken volgens de richtlijnen van het huis<br>
+- Het kunnen bedienen van de gasten volgens de richtlijnen van het huis en de etiquette<br>
+- Het kunnen smakelijk eten wensen aan de gasten en het kunnen vragen of alles naar wens is<br>
+- Het kunnen in de gaten houden van de gast(en) tijdens de maaltijd, het kunnen alert reageren op hun signalen<br>
+- Het kunnen in de gaten houden van de glazen van de gast(en) en het kunnen bijschenken<br>
+- Het kunnen aandacht hebben voor de eigen veiligheid bij het hanteren van warme of koude borden/dienstschalen/machines/materiaal<br>
+- Het kunnen gebruiken van het gepaste zaalmateriaal<br>
+- Het kunnen op gepaste wijze afscheid nemen<br>
+- Het kunnen vragen of alles naar wens is<br>
+- Het kunnen uitleg geven aan klanten over gerechten en hun samenstelling<br>
+- Het kunnen aangeven welke producten er in gerecht verwerkt zijn in functie van allergenen en diëten<br>
+- Het kunnen aanreiken van alternatieven voor allergenen en diëten<br>
+- Het kunnen bijhouden van gegeven over het verbruik van producten<br>
+- Het kunnen inventariseren van de behoefte aan grondstoffen en producten<br>
+- Het kunnen afstemmen in de planning van de hoeveelheid te bestellen producten op de recepten<br>
+- Het kunnen op peil houden van de voorraad<br>
+- Het kunnen voorzien van ingrediënten om in te spelen op specifieke vragen van de gast (bv. vegetarisch, allergie, dieet...)<br>
+- Het kunnen rekening houden met de kostprijs van een product<br>
+- Het kunnen opmaken van de inventaris<br>
+- Het kunnen controleren van het keukenmateriaal op voorkomen, gebreken, slijtage<br>
+- Het kunnen gebruiken van een onderhoudsschema<br>
+- Het kunnen adviseren bij de aankoop van keukenmateriaal<br>
+- Het kunnen opstellen van procedures om te voldoen aan de regelgeving<br>
+- Het kunnen organiseren en verdelen van de taken<br>
+- Het kunnen controleren of alle taken worden uitgevoerd<br>
+- Het kunnen nemen van steekproeven<br>
+- Het kunnen toepassen van afwerkings- en garneringstechnieken om de waren verkoopsklaar te maken<br>
+- Het kunnen zorgen voor een evenwichtige vulling van de schalen volgens bestelling/opdracht<br>
+- Het kunnen bewaren volgens het 'First-In First-Out'-principe<br>
+- Het kunnen bewaken van de kwaliteit van de presentatie van producten<br>
+- Het kunnen tijdig aanvullen, controleren en verwijderen van producten die niet meer aan de (houdbaarheids)norm voldoen<br>
+- Het kunnen onderhouden van contacten met vaste klanten of groepen en het kunnen formuleren van gerichte verkoopvoorstellen<br>
+- Het kunnen ontvangen van nieuwe klanten en formuleren van gerichte verkoopvoorstellen<br>
+- Het kunnen verzorgen van de dienst na verkoop<br>
+- Het kunnen opvolgen van de online reviews<br>
+- Het kunnen voeren van een verkoopgesprek en het kunnen achterehalen van de wensen van de klant<br>
+- Het kunnen wijzen op speciale acties en producten om de verkoop te stimuleren<br>
+- Het kunnen opnemen van de bestelling van de klant<br>
+- Het kunnen afwegen van producten en verpakken volgens de voorschriften met betrekking tot de voedselveiligheid<br>
+- Het kunnen in de gaten houden van de kwaliteit van de producten tijdens het pakken, afwegen en verpakken<br>
+- Het kunnen adviseren van de klanten over de samenstelling, bereidingswijze, bewaringswijze en toepassing van de producten<br>
+- Het kunnen geven van alternatieven voor vlees en vleesproducten<br>
+- Het kunnen beantwoorden van specifieke vragen, bijvoorbeeld met betrekking tot diëten en altergenen, samenstelling van gerechten...<br>
+- Het kunnen afrekenen van de verkoopprijs met de klant<br>
+- Het kunnen bedienen van de kassa op een nauwkeurige wijze zodat de bestellingen en de financiële afhandeling correct geschiedt<br>
+- Het kunnen nakijken van de bestelbon<br>
+- Het kunnen zich houden aan het afgesproken tijdstip<br>
+- Het kunnen informeren van de klant over de levering<br>
+- Het kunnen regelen van de facturatie<br>
+- Het kunnen reinigen van het voertuig volgens de regels van voedselveiligheid en -hygiëne<br>
+- Het kunnen respecteren van de wettelijke temperatuur en het regelmatig kunnen uitvoeren van temperatuurcontroles bij in- en uitladen zowel voor, tijdens, als na het transport<br>
+- Het kunnen respecteren van de koude en warme keten<br>
+- Het kunnen kostenbewust plannen van het nodige personeel en transport<br>
+- Het kunnen afkoelen van de producten volgens de regels van de voedselveiligheid<br>
+- Het kunnen gebruiken van het juiste verpakkingsmateriaal<br>
+- Het kunnen voorzien van etiketten op overschotten alvorens ze op de juiste plaats op te bergen<br>
+- Het kunnen sorteren en transporteren van het afval volgens de geldende regels<br>
+- Het kunnen maken van een inschatting van de werkzaamheden<br>
+- Het kunnen inhuren van extra personeel (vb. interim, flexi job, jobstudent, extra...)<br>
+- Het kunnen maken van duidelijke afspraken met betrekking tot opdracht en praktische afspraken (aanwezigheid, catering, kledij...)<br>
+- Het kunnen maken van afspraken met het personeel zodat een goede dienstverlening verzekerd wordt<br>
+- Het kunnen registreren en verwerken van de gepresteerde werkuren<br>
+Probleemoplossende vaardigheden<br>
+- Het kunnen het zich flexibel kunnen aanpassen (verandering van collega's, verandering van werkschema...)<br>
+- Het kunnen melden van problemen, mondeling of schriftelijk, aan de eindverantwoordelijke<br>
+- Het kunnen rapporteren van beschadigingen en/of afwijkingen in de bestelling aan de keukenverantwoordelijke/zaakvoerder en de leverancier<br>
+- Het kunnen melden van voorraadtekorten aan de verantwoordelijke of ze kunnen registreren<br>
+- Het kunnen opmerken van afwijkingen, storingen of de nood aan preventief onderhoud aan de keukenuitrusting<br>
+- Het kunnen signaleren van pannes aan de verantwoordelijke<br>
+- Het kunnen bijsturen en adequaat reageren op onvoorziene omstandigheden<br>
+- Het kunnen contacteren van leveranciers en dienstverleners in geval van fouten en problemen<br>
+- Het kunnen verlenen van hulp en advies bij problemen<br>
+- Het kunnen correct reageren bij normoverschrijdend gedrag van gasten<br>
+- Het kunnen behandelen van klachten<br>
+- Het kunnen vaststellen en reageren op tekorten<br>
+- Het kunnen melden van gebreken en beschadigingen aan de eindverantwoordelijke<br>
+- Het kunnen correct en adequaat reageren bij klachten van de klant<br>
+Motorische vaardigheden<br>
+- Het kunnen ergonomisch werken<br>
+- Het kunnen sorteren van afval volgens de richtlijnen<br>
+- Het kunnen wassen en ontsmetten van de handen volgens de hygiënische richtlijnen<br>
+- Het kunnen bedekken van eventuele wonden met wettelijk toegelaten middelen<br>
+- Het kunnen afwegen van de benodigde hoeveelheden<br>
+- Het kunnen aanzetten van alle keukentoestellen (ovens, kookplaten...) in functie van de opdracht<br>
+- Het kunnen spoelen van groenten en fruit totdat alle aarde en zand verwijderd is<br>
+- Het kunnen schillen of pellen van de ingrediënten met zo weinig mogelijk verlies<br>
+- Het kunnen gebruiken van de voorgeschreven snijtechniek(en) waarbij rekening wordt gehouden met de kwetsbaarheid en bederfelijkheid van het voedingsproduct<br>
+- Het kunnen gebruiken van een snijmachine volgens de veiligheidsvoorschriften<br>
+- Het kunnen versnijden van groenten en fruit naar opgedragen grootte/vorm (julienne, brunoise, snipperen/eminceren, ciseleren, hakken)<br>
+- Het kunnen voorgaren van de producten<br>
+- Het kunnen verpakken en etiketteren van de producten<br>
+- Het kunnen gebruiken van een weegschaal<br>
+- Het kunnen gebruiken van het juiste kook- en bereidingsmaterieel<br>
+- Het kunnen toepassen van de juiste bereidingstechniek (stoven, koken, bakken, braden, blancheren, smoren (braiseren), glaceren, poêleren, gratineren, sueren, pocheren, stomen, frituren, sauteren, grilleren...)<br>
+- Het kunnen toepassen van de regerenatietechnieken<br>
+- Het kunnen presenteren en schikken van de maaltijden op hygiënische en aantrekkelijke wijze<br>
+- Het kunnen het identiek kunnen schikken van meerdere borden<br>
+- Het kunnen afvegen van gemorste resten met proper keukenpapier<br>
+- Het kunnen ondersteunen van het doorgeven van de gerechten naar de zaal<br>
+- Het kunnen klaarmaken van schotels voor saladebars, toonbank selfservice, banketten en buffetten en het kunnen aanvullen ervan<br>
+- Het kunnen toepassen van technieken voor het versnijden en portioneren<br>
+- Het kunnen klaarzetten van koude en warme etenswaren<br>
+- Het kunnen regelmatig controleren van de temperatuur van de bereidingen, de bain-maries en koeltogen<br>
+- Het kunnen afkoelen van de producten volgens de regels van de voedselveiligheid<br>
+- Het kunnen onmiddellijk afdekken van koude bereidingen<br>
+- Het kunnen afdekken van warme bereidingen nadat ze afgekoeld zijn<br>
+- Het kunnen onmiddellijk plaatsen van te bewaren overschotten in de koelruimte indien ze niet dezelfde dag gebruikt worden<br>
+- Het kunnen voorzien van een etiket op overschotten alvorens ze op een juiste plaats op te bergen<br>
+- Het kunnen systematisch opruimen van de werkplek en het materieel<br>
+- Het kunnen reinigen tussen elke handeling van het gebruikte keukenmateriaal en de werkoppervlakken volgens de hygiënische richtlijnen<br>
+- Het kunnen regelmatig reinigen van alle oppervlakken die met de voedingsproducten in contact kwamen<br>
+- Het kunnen opruimen van de werkplek na de dienst<br>
+- Het kunnen reinigen en desinfecteren van het materieel, de werkoppervlakken en de vloeren<br>
+- Het kunnen afstemmen van de hoeveelheid product op de vervuiling en het oppervlak<br>
+- Het kunnen controleren van de staat van het materieel en het kunnen slijpen van de messen<br>
+- Het kunnen uitvoeren van temperatuurcontroles<br>
+- Het kunnen gebruiken van controle/meetinstrumenten<br>
+- Het kunnen invullen van de correcte formulieren<br>
+- Het kunnen instaan voor de mis-en-place van de zaal: mastiek (schoonmaken) van zaalmateriaal of meubilair<br>
+- Het kunnen dekken van tafels: het kunnen leggen van linnen, bestekken en vaatwerk plaatsen, decoreren van tafels, buffetten en de zaal<br>
+- Het kunnen instaan voor de mise-en-place van het dienstmateriaal (brood, boter, warmhoudplaatsjes, e.d.)<br>
+- Het kunnen instaan voor de mise-en-place van het buffet<br>
+- Het kunnen aanvullen van de frigo's<br>
+- Het kunnen instaan voor de mise-en-place van aperitieven, nagerechten, koffie en toebehoren<br>
+- Het kunnen aannemen van de jassen en het kunnen brengen van de jassen naar de vestiaire<br>
+- Het kunnen toewijzen van een plaats<br>
+- Het kunnen begeleiden van de gasten naar hun tafel<br>
+- Het kunnen doen van de mise-en-place voor aperitieven, koffie en toebehoren (aperitiefhapjes, koekjes...)<br>
+- Het kunnen aanvullen van dranken<br>
+- Het kunnen klaarzetten van alle benodigde materialen<br>
+- Het kunnen klaarzetten van de producten (alcoholische en niet-alcoholische dranken, suikers, room, fruitsoorten, kruiden, specerijen...) zodat de bereiding zonder onderbrekingen kan verlopen<br>
+- Het kunnen ontkurken en decanteren van de wijnen<br>
+- Het kunnen klaarzetten van de dranken of doorgeven van bestellingen<br>
+- Het kunnen ophalen van dranken en maaltijden<br>
+- Het kunnen brengen van de gerechten naar de tafel<br>
+- Het kunnen hanteren van de juiste kracht en snelheid bij het bedienen van de gast en het kunnen afruimen van de tafel<br>
+- Het zich kunnen bewegen in een beperkte ruimte zonder de gast(en) of collega's te hinderen<br>
+- Het kunnen serveren van gerechten met dienstbestek<br>
+- Het kunnen invullen van een bestelformulier<br>
+- Het kunnen verrichten van eenvoudig onderhoud aan het keukenmateriaal en machines volgens de werkinstructiefiches<br>
+- Het kunnen afwegen van porties<br>
+- Het kunnen versnijden en of pellen van bereide schaaldieren<br>
+- Het kunnen openen van schelpdieren<br>
+- Het kunnen schikken en presenteren van schotels<br>
+- Het kunnen verpakken van producten met de hand of met een verpakkingsmachine<br>
+- Het kunnen aanbrengen van etiketten met de wettelijke informatie (prijs, gewicht, samenstelling, allergenen...)<br>
+- Het kunnen plaatsen van producten in de toonbank/koeltoog volgens het 'First-In First-Out'-principe<br>
+- Het kunnen verpakken van de producten in de juiste volgorde en in de juiste verpakkingsmaterialen<br>
+- Het kunnen leveren van de bestelling aan huis<br>
+- Het kunnen voorbereiden en inladen van de bestelling(en)<br>
+- Het kunnen invullen van de nodige registratieformulieren<br>
+- Het onmiddellijk kunnen plaatsen van te bewaren overschotten in de koelruimte indien ze niet dezelfde dag gebruikt worden<br>
+- Het kunnen hygiënisch schoonmaken van het werkblad, het gereedschap en de ruimtes<br>
+- Het kunnen afruimen van de tafels<br>
+- Het kunnen reinigen van meubilair, glazen en couverts (met stoom, azijn...) en het kunnen opbergen van het vaatwerk<br>
+2.2.3 Context<br>
+Omgevingscontext<br>
+- Het beroep wordt uitgeoefend in een zaak en/of op locatie: de traiteur-banketaannemer moet zich flexibel kunnen aanpassen aan de werkomstandigheden en -mogelijkheden van de nieuwe en onbekende locatie<br>
+- Het beroep wordt flexibel uitgeoefend op weekdagen, tijdens het weekend en op feestdagen, overdag of `s avonds<br>
+- De traiteur-banketaannemer moet inspelen op de wensen van de klanten (trouwfeest, event...) en rekening houden met de mogelijkheden van het bedrijf<br>
+- De traiteur-banketaannemer moet kwalitatief hoogwaardige producten afleveren die hij in een relatief kort tijdbestek moet realiseren<br>
+- Het werk kan plaats vinden in koude en warme ruimtes<br>
+- Het beroep kan het hanteren van lasten en langdurig rechtstaan inhouden<br>
+- Bij buitenactiviteiten (voorbeeld tuinfeest) is de traiteur-banketaannemer sterk afhankelijk van de weersomstandigheden: hij moet dus kunnen voorzien in alternatieven en uitwijkmogelijkheden (in samenspraak met de klant) bij koud en regenachtig weer. Hij moet zich flexibel kunnen opstellen bij warme temperaturen om de voedselveiligheid te garanderen (de basisproducten moeten aan de wettelijke normen blijven voldoen!)<br>
+- De traiteur-banketaannemer moet rekening houden met de toevoer van stroom- en watervoorziening, de hygiëne en de mogelijkheden van zijn apparatuur op de externe locatie<br>
+- Voor bepaalde taken zal de traiteur-banketaannemer hygiënische en arbeidsveilige beschermkledij volgens regelgeving moeten dragen. Voor andere taken zal hij aangepaste kledij volgens opdracht en werkzaamheden moeten aantrekken<br>
+- De traiteur-banketaannemer moet de nieuwe trends op de markt opvolgen en hierop inspelen in zijn aanbod<br>
+- De uitoefening van het beroep kent piekmomenten (vb. Kerstmis, Nieuwjaar, communiefeesten, tuinparty's...). De beroepsbeoefenaar moet hier flexibel kunnen mee omgaan<br>
+- De traiteur-banketaannemer is afhankelijk van het aanbod van de leveranciers waarmee hij werkt en de beschikbaarheid van de producten<br>
+- De traiteur-banketaannemer moet rekening houden met de wisselende praktijksituaties binnen het team: hij werkt met vast personeel, maar gelijktijdig ook met mensen die niet tot het vast personeel behoren (extra's, gelegenheidswerkers...) waarvan de competenties niet altijd bekend zijn<br>
+- De traiteur-banketaannemer werkt in een omgeving waar begeleidende, coördinerende (werkzaamheden op mekaar afstemmen), administratieve en uitvoerende taken moeten gecombineerd worden en hij volgt meerdere opdrachten gelijktijdig op<br>
+- De traiteur-banketaannemer komt in contact met controlediensten van voedselveiligheid en hygiëne, klanten, leveranciers, vaste en losse medewerkers....<br>
+- De traiteur-banketaannemer moet de plaatselijke reglementering van gemeenten/steden tijdens de organisatie van publieke evenementen/feesten respecteren<br>
+- De traiteur-banketaannemer moet rekening houden met de wettelijke bepalingen voor transport van voedingsproducten<br>
+- De werkzaamheden worden steeds in team uitgeoefend<br>
+- De activiteiten variëren naar gelang de grootte van het bedrijf en het beoogde doel<br>
+Handelingscontext<br>
+- De traiteur-banketaannemer heeft aandacht voor persoonlijke hygiëne<br>
+- De traiteur-banketaannemer respecteert de hygiëne op de werkvloer, de regelgeving voor voedselveiligheid en -hygiëne en moet permanent aandacht hebben voor het naleven van een waaier aan regels<br>
+- De uiteenlopende handelingen moeten afgestemd zijn op de planning van de opdracht. De traiteur-banketaannemer moet de planning opvolgen en aanpassen indien noodzakelijk<br>
+- Omgang met een strikt tijdschema en de controle hierop is belangrijk<br>
+- Het vergt vakkundig, economisch, ecologisch en hygiënisch omgaan met diverse grondstoffen, ingrediënten en producten die onderhevig zijn aan bederf<br>
+- De traiteur-banketaannemer moet efficiënt kunnen handelen in kritische situaties in verband met voedselveiligheid en bij productafwijkingen<br>
+- De traiteur-banketaannemer moet aandachtig zijn omwille van omgang met verschillende gevaarlijke apparatuur en materieel (messen, kookfornuizen, barbecue-apparatuur...)<br>
+- De traiteur-banketaannemer gaat om met een verscheidenheid aan producten en ingrediënten: hij is uiterst aandachtig voor het garanderen van voedselveiligheid en voorkomt kruiscontaminaties<br>
+- De traiteur-banketaannemer moet kwaliteitsvol en klantgericht handelen in alle omstandigheden<br>
+- De traiteur-banketaannemer legt creativiteit aan de dag bij de ontwikkeling van de producten<br>
+- De traiteur-banketaannemer heeft aandacht voor de nauwkeurige opvolging van alle gegevens van de producten, de bestellingen en/of opdrachten<br>
+- De traiteur-banketaannemer heeft werkinzicht en aandacht voor de vorderingen van het werkverloop: hij moet de inzetbaarheid van zijn medewerkers aanpassen aan de omstandigheden tijdens de uitvoering van de werkopdracht<br>
+- De traiteur-banketaannemer moet nauwkeurig omgaan met financiën<br>
+- Hij/zij moet contactvaardig zijn<br>
+2.2.4 Autonomie<br>
+Is zelfstandig in<br>
+- het opvolgen van de werkzaamheden in de keuken: het ontvangen, controleren en het opslaan van goederen, het bepalen van de foodcost van een gerecht; het controleren van de persoonlijke hygiëne van medewerkers, de bewaring van voedingsmiddelen, de orde en netheid in de keuken, het schoonmaken, bewerken, professioneel versnijden, bereiden, portioneren en dresseren van maaltijdcomponenten; het inventariseren van materiaal en uitvoeren van eenvoudig onderhoud; het beantwoorden van vragen van gasten; het opleiden, begeleiden en bijsturen van het keukenpersoneel<br>
+Is gebonden aan<br>
+- de instructies van de eindverantwoordelijke, het respecteren van bedrijfsprocedures en -afspraken, regels met betrekking tot voedselveiligheid en -hygiëne, veiligheidsvoorschriften, milieuvoorschriften, principes van klantvriendelijkheid en etiquette<br>
+Doet beroep op<br>
+- vaste en losse medewerkers voor het ondersteunen en uitvoeren van de activiteiten, in functie van de opdracht<br>
+2.2.5 Verantwoordelijkheid<br>
+- het werken in teamverband<br>
+- het kostenbewust werken met oog voor veiligheid, milieu, kwaliteit en welzijn<br>
+- het werken volgens de regels van hygiëne en voedselveiligheid<br>
+- het ontvangen en controleren van goederen<br>
+- het opslaan van goederen in een koelkamer of voorraadkamer<br>
+- het uitvoeren van de voorbereidende werkzaamheden voor de bereidingen<br>
+- het wassen van groenten en fruit<br>
+- het schoonmaken van groenten en fruit<br>
+- het versnijden van groenten en fruit<br>
+- het schoonmaken, bewerken, versnijden en portioneren van vlees, vis, gevogelte en andere basisproducten<br>
+- het toepassen van bereidingstechnieken voor het bereiden van hapjes, garnituren, sauzen, soepen, voorgerechten, bijgerechten, salades, deegwaren, rijstgerechten, aardappelbereidingen<br>
+- het toepassen van diverse bereidingstechnieken voor het bereiden van vlees, gevogelte, visgerechten, vegetarische gerechten...<br>
+- het toepassen van diverse bereidingstechnieken voor het bereiden van zuivelbereidingen en nagerechten<br>
+- het bereiden van gerechten en maaltijden à la minute<br>
+- het toepassen van diverse dresseertechnieken op het bord<br>
+- het klaarzetten van het buffet<br>
+- het verpakken en etiketteren van de bereidingen, producten en het opbergen ervan in de koelkamer, in de voorraadkamer<br>
+- het hygiënisch schoonmaken van het werkblad, het gereedschap en de ruimtes<br>
+- het uitvoeren van controletests op de versheid van voedingsmiddelen, bereidingen en het nemen van stalen<br>
+- het samenstellen van gerechten en menu's<br>
+- het maken van een prijsberekening voor menu's en gerechten<br>
+- het organiseren en coördineren van de werkzaamheden van de keuken<br>
+- het opstellen van de zaal en de office en het klaarmaken van de tafels voor de dienst<br>
+- het samenwerken met leveranciers en dienstverleners<br>
+- het zorgen voor opleidingen en begeleiding van het keukenpersoneel<br>
+- het onthalen van de gast bij zijn aankomst<br>
+- het bereiden van eenvoudige warme en koude dranken<br>
+- het bereiden van complexe warme en koude dranken<br>
+- het opdienen van gerechten en/of dranken in de zaal of aan het buffet<br>
+- het beantwoorden van vragen van gasten en het behandelen van klachten<br>
+- het opvolgen van de voorraad, het vaststellen van tekorten en het doorgeven van bestellingen<br>
+- het verrichten van onderhoud aan keukenmaterieel en het bijhouden van een inventaris<br>
+- het zorgen voor de toepassing van de regelgeving met betrekking tot veiligheid, hygiëne, milieu en voedselveiligheid in de keuken<br>
+- het versieren, presenteren en verpakken van gerechten en traiteursschotels<br>
+- het opvolgen van klantenrelaties<br>
+- het verkopen van producten ter plaatse, het opnemen van de bestelling van de klant/gast en het informeren over de producten en schotels<br>
+- het leveren van de bestelling bij de klanten<br>
+- het organiseren van de afsluitingsfase van de opdracht<br>
+- het zorgen voor de correcte uitvoering van taken door extern personeel<br>
+2.3 Attesten<br>
+2.3.1 Wettelijke Attesten<br>
+Medisch attest voor werken in de voeding volgens de wettelijke regelgeving.<br>
+2.3.2 Vereiste Attesten<br>
+Geen vereisten.<br>
+2.3.3 Instapvoorwaarden<br>
+Geen vereisten.
