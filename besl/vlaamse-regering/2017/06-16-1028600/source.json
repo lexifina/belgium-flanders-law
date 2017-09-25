@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028600,
+  "title": "Besluit van de Vlaamse Regering van 2017-06-16 tot erkenning van de beroepskwalificatie productiemedewerker varkenshouderij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028600/VolledigDocument?datum=2017-09-25",
+  "source_sha256": "3ee5b812c4645bf72c5e252c9672ca444ae066f5bc50dd0cba8414f12f9a7d83",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028600&param=informatie",
+  "as_of": "2017-09-25",
+  "made": "2017-06-16",
+  "gazette": "2017-09-15",
+  "numac": 2017013058,
+  "document_start": "2017-09-25",
+  "document_end": null,
+  "in_force": "2017-09-25",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
