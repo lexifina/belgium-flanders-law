@@ -26,7 +26,7 @@ De CRAB-specificaties over het meedelen van adrescomponenten, vermeld in artikel
 
 ### ART. 5.
 
-De Vlaamse minister, bevoegd voor de uitbouw van een geografische informatie-infrastructuur, legt, op voorstel van de stuurgroep GDI-Vlaanderen, de CRAB-specificaties, vermeld in artikelen 2 tot en met 4, nader vast.
+De Vlaamse minister, bevoegd voor de uitbouw van een geografische informatie-infrastructuur, legt, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, de CRAB-specificaties, vermeld in artikelen 2 tot en met 4, nader vast.
 
 ## HOOFDSTUK 3. De wijze waarop de gemeenten in relatie tot het agentschap hun opdrachten uitvoeren
 

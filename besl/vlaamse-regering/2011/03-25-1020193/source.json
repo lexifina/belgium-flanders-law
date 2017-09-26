@@ -2,16 +2,16 @@
   "codex_id": 1020193,
   "title": "Besluit van de Vlaamse Regering van 2011-03-25 houdende de uitvoering van het decreet van 8 mei 2009 betreffende het Centraal Referentieadressenbestand",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020193/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "9633ff05360f11c73731d6075d48fa850368068f0d666f50112384ad5a72da0c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020193/VolledigDocument?datum=2017-09-26",
+  "source_sha256": "49b3449c7beb015091ba41aaad114d7a381f88778c2529431b3bc3671bf3fcd9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020193&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2017-09-26",
   "made": "2011-03-25",
   "gazette": "2011-04-22",
   "numac": 2011201881,
   "document_start": "2011-06-01",
   "document_end": null,
-  "in_force": "2016-01-01",
+  "in_force": "2017-09-26",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-09-26; future article versions excluded; article text as the API gives it"
 }
