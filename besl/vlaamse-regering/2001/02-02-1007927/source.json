@@ -2,16 +2,16 @@
   "codex_id": 1007927,
   "title": "Besluit van de Vlaamse Regering van 2001-02-02 houdende de samenstelling en de werking van de Stuurgroep GIS-Vlaanderen, het Wetenschappelijk Comité GIS-Vlaanderen en de Geografische Informatie Raad",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007927/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "560dfeb75828cb81b9c87581c9245d3c19dbc6579ba6d1c06dee8f9c1f794a8c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007927/VolledigDocument?datum=2017-09-26",
+  "source_sha256": "2503535887ee7dc4f3ba6e83cd3371f8dc31e528470f294266bdac0d7626c125",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007927&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2017-09-26",
   "made": "2001-02-02",
   "gazette": "2001-04-04",
   "numac": 2001035340,
   "document_start": null,
   "document_end": "2017-09-26",
-  "in_force": "2017-04-01",
+  "in_force": "2017-09-26",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-09-26; future article versions excluded; article text as the API gives it"
 }
