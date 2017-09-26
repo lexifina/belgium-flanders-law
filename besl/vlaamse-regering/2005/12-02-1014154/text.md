@@ -17,7 +17,11 @@ De netbeheerder van een fysiek leidingnet vult het aangifteformulier juist en vo
 
 ### ART. 4.
 
-De netbeheerder van een detailnet vermeldt zijn aanwezigheid bij de   projectzone waarvoor een GRB-product beschikbaar is in de aangiftetabel   detailnet. In geval van een complementair detailnet vermeldt hij in de   aangiftetabel detailnet eveneens het aantal verbruiksmeters van zijn detailnet   in die projectzone.<BR><BR>De netbeheerder van een vervoersnet vermeldt zijn   aanwezigheid bij de projectzone waarvoor een GRB-product beschikbaar is in de   aangiftetabel vervoersnet. Hij vermeldt eveneens per projectzone binnen zijn   discipline de trajectlengte van zijn aanwezige exploiteerbare net.<BR><BR>Bij de   bepaling van het aantal verbruiksmeters en de trajectlengte volgt de   netbeheerder de technische procedures die goedgekeurd zijn door de GRB-raad en   die raadpleegbaar zijn op de website van het&nbsp;Agentschap op het   internetadres:<BR><BR>http://www.agiv.be.
+De netbeheerder van een detailnet vermeldt zijn aanwezigheid bij de projectzone waarvoor een GRB-product beschikbaar is in de aangiftetabel detailnet. In geval van een complementair detailnet vermeldt hij in de aangiftetabel detailnet eveneens het aantal verbruiksmeters van zijn detailnet in die projectzone.<br>
+<br>
+De netbeheerder van een vervoersnet vermeldt zijn aanwezigheid bij de projectzone waarvoor een GRB-product beschikbaar is in de aangiftetabel vervoersnet. Hij vermeldt eveneens per projectzone binnen zijn discipline de trajectlengte van zijn aanwezige exploiteerbare net.<br>
+<br>
+Bij de bepaling van het aantal verbruiksmeters en de trajectlengte volgt de netbeheerder de technische procedures die goedgekeurd zijn door het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, en die raadpleegbaar zijn op de website van de Vlaamse overheid.
 
 ### ART. 5.
 
