@@ -8,13 +8,40 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 18 juli 2008 betreffend
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° het decreet van 18 juli 2008 :   het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke   gegevensverkeer;<BR>2° de toezichtcommissie : de Vlaamse toezichtcommissie voor   het elektronische bestuurlijke gegevensverkeer, vermeld in artikel 10 van het   decreet van 18 juli 2008;<BR>3° coördinatiecomité: het coördinatiecomité,   vermeld in artikel 20 van het decreet van 13 juli 2012 houdende de oprichting en   organisatie van een Vlaamse dienstenintegrator;<BR>4° de beheersinstantie : de   instantie, vermeld in artikel 4, § 1, van het decreet van 18 juli 2008;<BR>5° de   minister : de Vlaamse minister, bevoegd voor het reguleringsmanagement, de   administratieve vereenvoudiging en het e-government, en de Vlaamse minister,   bevoegd voor het algemeen beleid inzake informatie- en   communicatietechnologie.<BR>6° ...;<BR>7° ...;<BR>8° GDI-decreet : het decreet   van 20 februari 2009 betreffende de Geografische Data-Infrastructuur   Vlaanderen;<BR>9° geografische gegevensbron : gegevensbron als vermeld in   artikel 3, 5°, van het GDI-decreet;<BR>10° authentieke geografische gegevensbron   : geografische gegevensbron als vermeld in artikel 22 van het   GDI-decreet.<BR><BR>
+In dit besluit wordt verstaan onder :<br>
+1° het decreet van 18 juli 2008 : het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
+2° de toezichtcommissie : de Vlaamse toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer, vermeld in artikel 10 van het decreet van 18 juli 2008;<br>
+3° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid;<br>
+4° de beheersinstantie : de instantie, vermeld in artikel 4, § 1, van het decreet van 18 juli 2008;<br>
+5° de minister : de Vlaamse minister, bevoegd voor het reguleringsmanagement, de administratieve vereenvoudiging en het e-government, en de Vlaamse minister, bevoegd voor het algemeen beleid inzake informatie- en communicatietechnologie.<br>
+6° ...;<br>
+7° ...;<br>
+8° GDI-decreet : het decreet van 20 februari 2009 betreffende de Geografische Data-Infrastructuur Vlaanderen;<br>
+9° geografische gegevensbron : gegevensbron als vermeld in artikel 3, 5°, van het GDI-decreet;<br>
+10° authentieke geografische gegevensbron : geografische gegevensbron als vermeld in artikel 22 van het GDI-decreet.<br>
+&nbsp;
 
 ## HOOFDSTUK II Procedure voor de erkenning van authentieke gegevensbronnen
 
 ### ART. 2.
 
-§ 1. Een gegevensbron wordt na advies van het coördinatiecomité door de   Vlaamse Regering als een authentieke gegevensbron erkend. Als de gegevensbron   persoonsgegevens bevat, wordt ook het advies van de toezichtcommissie   ingewonnen. <BR><BR>De gegevensbron wordt als authentieke gegevensbron erkend   als ze voldoende garanties biedt voor :<BR>1° de kwaliteit van de gegevens, in   het bijzonder de volledigheid, de juistheid, de actualiteit, de garanties voor   de kwaliteitsborging van de gegevens, de kwaliteitsbewaking naar de afnemers   toe, de opspoorbaarheid van de wijzigingen in de gegevens en de bewaring van de   historiek van de toegang tot de gegevens; <BR>2° de bruikbaarheid van de   gegevensbron, in het bijzonder de ontsluitbaarheid en de openbaarheid;<BR>3° de   operationaliteit van de gegevensbron, in het bijzonder de beschikbaarheid;<BR>4°   de veiligheid van de gegevensbron op fysiek, technisch en organisatorisch   niveau.<BR><BR>Het coördinatiecomité bepaalt in welke mate de gegevensbron in   kwestie aan de bovenvermelde garanties moet voldoen.<BR><BR>§ 2. In afwijking   van paragraaf 1 worden geografische gegevensbronnen door de Vlaamse Regering als   authentieke geografische gegevensbronnen erkend overeenkomstig artikel 22 van   het GDI-decreet. <BR><BR>Een geografische gegevensbron die informatie van   geïdentificeerde of identificeerbare natuurlijke personen als vermeld in artikel   18, § 2, van het GDI-decreet, bevat, wordt met behoud van de toepassing van   artikel 22, eerste lid, van het GDI-decreet door de Vlaamse Regering als een   authentieke geografische gegevensbron erkend na advies van de toezichtcommissie   en als ze voldoende garanties biedt voor veiligheid op fysiek, technisch en   organisatorisch niveau.<BR><BR>
+§ 1. Een gegevensbron wordt op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid door de Vlaamse Regering als een authentieke gegevensbron erkend. Als de gegevensbron persoonsgegevens bevat, wordt ook het advies van de toezichtcommissie ingewonnen.<br>
+<br>
+De gegevensbron wordt als authentieke gegevensbron erkend als ze voldoende garanties biedt voor :<br>
+1° de kwaliteit van de gegevens, in het bijzonder de volledigheid, de juistheid, de nauwkeurigheid, de actualiteit, de garanties voor de kwaliteitsborging van de gegevens en de kwaliteitsbewaking naar de afnemers toe;<br>
+2° de bruikbaarheid van de gegevensbron, in het bijzonder de ontsluitbaarheid, de beschikbaarheid &nbsp;en de openbaarheid;<br>
+3°&nbsp;het adequate beheer van de gegevensbron, in het bijzonder de aanwezigheid van een inzage- en terugmeldfaciliteit;<br>
+4° de veiligheid van de gegevensbron op fysiek, technisch en organisatorisch niveau, in het bijzonder de opspoorbaarheid van de wijzigingen in de gegevens en de bewaring van de historiek van de toegang tot de gegevens;<br>
+5° de financiering van de gegevensbron, in het bijzonder de financiering van de kosten ingevolge de specifieke dienstverlening die een authentieke gegevensbron aan andere instanties moet leveren.<br>
+<br>
+Het&nbsp;stuurorgaan Vlaams Informatie- en ICT-beleid bepaalt in welke mate de gegevensbron in kwestie aan de bovenvermelde garanties moet voldoen.<br>
+<br>
+§ 2. Met behoud van de toepassing van paragraaf 1 wordt een geografische gegevensbron als vermeld in artikel 12, eerste lid, 1°, 2° en 4°, van het GDI-decreet, als een authentieke geografische gegevensbron erkend als ze voldoet aan de volgende bijkomende voorwaarden:<br>
+1° ze is beschreven door middel van metagegevens die in overeenstemming zijn met de regels die het stuurorgaan met toepassing van artikel 14 van het GDI-decreet opstelt;<br>
+2° ze is raadpleegbaar via een raadpleegdienst als vermeld in artikel 3, 18°, van het GDI-decreet;<br>
+3° ze is overdraagbaar via een overdrachtdienst als vermeld in artikel 3, 19°, van het GDI-decreet;<br>
+4° ze is geharmoniseerd overeenkomstig de technische voorschriften, vermeld in artikel 25 van het GDI-decreet.<br>
+&nbsp;
 
 ### ART. 3.
 
@@ -22,7 +49,7 @@ Per gegevensbron die in aanmerking komt om als een authentieke gegevensbron of a
 
 ### ART. 4.
 
-Bij ernstige aanwijzingen dat een gegevensbron die door de Vlaamse   Regering als authentieke gegevensbron is erkend, niet of niet meer in voldoende   mate voldoet aan de bepalingen, vermeld in artikel 2 en 3, stelt de Vlaamse   Regering een onderzoek in. Als het onderzoek aantoont dat de gegevensbron niet   of niet meer in voldoende mate voldoet aan de bepalingen, vermeld in artikel 2   en 3, kan de Vlaamse Regering, na advies van het coördinatiecomité, de erkenning   als authentieke gegevensbron intrekken of aanvullende voorwaarden stellen aan de   beheersinstantie van de authentieke gegevensbron in kwestie. Als de gegevensbron   persoonsgegevens bevat, wordt ook het advies van de toezichtcommissie   ingewonnen. <BR><BR>In afwijking van het eerste lid kan de Vlaamse Regering, na   advies van de stuurgroep GDI-Vlaanderen, vermeld in artikel 7 van het   GDI-decreet, de erkenning als authentieke geografische gegevensbron intrekken of   aanvullende voorwaarden stellen aan de beheersinstantie van de authentieke   geografische gegevensbron in kwestie als het onderzoek aantoont dat een   authentieke geografische gegevensbron niet of niet meer in voldoende mate   voldoet aan de bepalingen, vermeld in artikel 2 en 3 van dit besluit. Als de   geografische gegevensbron persoonsgegevens bevat, wordt ook het advies van de   toezichtcommissie ingewonnen. <BR><BR>
+Bij ernstige aanwijzingen dat een gegevensbron die door de Vlaamse Regering als authentieke gegevensbron is erkend, niet of niet meer in voldoende mate voldoet aan de bepalingen, vermeld in artikel 2 en 3, stelt de Vlaamse Regering een onderzoek in. Als het onderzoek aantoont dat de gegevensbron niet of niet meer in voldoende mate voldoet aan de bepalingen, vermeld in artikel 2 en 3, kan de Vlaamse Regering, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, de erkenning als authentieke gegevensbron intrekken of aanvullende voorwaarden stellen aan de beheersinstantie van de authentieke gegevensbron in kwestie. Als de gegevensbron persoonsgegevens bevat, wordt ook het advies van de toezichtcommissie ingewonnen.
 
 ## HOOFDSTUK III Vaststelling van de door de entiteiten van de Vlaamse administratie te raadplegen authentieke gegevensbronnen, beheerd door een externe overheid
 
