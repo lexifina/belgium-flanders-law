@@ -42,7 +42,7 @@ Besluit :<br>
 ### ART 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° coördinatiecomité : het coördinatiecomité, vermeld in artikel 20 van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator;<br>
+1° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid;<br>
 2° decreet van 27 april 2007 : het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie;<br>
 3° Informatie Vlaanderen : het agentschap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;<br>
 4° minister : de Vlaamse minister, bevoegd voor de informatiemaatschappij, het structureren, opslaan, uitwisselen en ontsluiten van informatie en de infolijn.<br>
@@ -62,7 +62,7 @@ Als ingevolge artikel 7, eerste lid, van het decreet van 27 april 2007 een vergo
 <br>
 Bij het bepalen van de wijze van fysieke terbeschikkingstelling is de verstrekkende instantie ertoe gehouden om te kiezen voor de terbeschikkingstelling die de kosten voor de hergebruiker zo laag mogelijk houden.<br>
 <br>
-In geval van terbeschikkingstelling van bestuursdocumenten voor hergebruik in een onlineomgeving wordt geen vergoeding gevraagd. In afwijking daarvan kan een vergoeding als vermeld in het eerste lid worden gevraagd als de instantie vooraf een gemotiveerde melding aan het coördinatiecomité heeft bezorgd, waarin ook een verantwoording is opgenomen van de marginale kosten die worden aangerekend.<br>
+In geval van terbeschikkingstelling van bestuursdocumenten voor hergebruik in een onlineomgeving wordt geen vergoeding gevraagd. In afwijking daarvan kan een vergoeding als vermeld in het eerste lid worden gevraagd als de instantie vooraf een gemotiveerde melding aan het&nbsp;stuurorgaan Vlaams Informatie- en ICT-beleid heeft bezorgd, waarin ook een verantwoording is opgenomen van de marginale kosten die worden aangerekend.<br>
 &nbsp;
 
 ### ART 3.
@@ -119,7 +119,7 @@ In geval van hergebruik als vermeld in artikel 3, derde lid, van het decreet van
 
 ### ART 8.
 
-In afwijking van artikel 7 kan de instantie een andere licentie dan de modellicenties, vermeld in 7, hanteren als de instantie daarover vooraf een gemotiveerde melding aan het coördinatiecomité bezorgt.
+...
 
 ### ART 9.
 
@@ -138,19 +138,19 @@ Die portaalsite staat ook ter beschikking van de andere instanties die de overzi
 
 ### ART 11.
 
-De prioriteiten met betrekking tot de belangrijkste bestuursdocumenten, vermeld in artikel 9 van het decreet van 27 april 2007, zijn bestuursdocumenten die betrekking hebben op geografie, milieu, mobiliteit, economie en statistiek. De minister kan, na advies van het coördinatiecomité, de prioriteitenlijst van de belangrijkste documenten aanpassen.<br>
+De prioriteiten met betrekking tot de belangrijkste bestuursdocumenten, vermeld in artikel 9 van het decreet van 27 april 2007, zijn bestuursdocumenten die betrekking hebben op geografie, milieu, mobiliteit, economie en statistiek. De minister kan, na advies van het stuurorgaan Vlaams Informatie- en ICT-beleid, de prioriteitenlijst van de belangrijkste documenten aanpassen.<br>
 &nbsp;
 
 ## HOOFDSTUK 5 Evaluatie
 
 ### ART 12.
 
-Het coördinatiecomité evalueert tweejaarlijks de beschikbaarheid van overheidsinformatie voor hergebruik, de voorwaarden waaronder die informatie beschikbaar wordt gesteld, de praktijk op het vlak van rechtsmiddelen en in het bijzonder de toepassing van artikel 7 van het decreet van 27 april 2007 met betrekking tot vergoedingen die de marginale kosten overstijgen. Dat evaluatieverslag wordt aan de Vlaamse Regering bezorgd.<br>
+Het stuurorgaan Vlaams Informatie- en ICT-beleid evalueert tweejaarlijks de beschikbaarheid van overheidsinformatie voor hergebruik, de voorwaarden waaronder die informatie beschikbaar wordt gesteld, de praktijk op het vlak van rechtsmiddelen en in het bijzonder de toepassing van artikel 7 van het decreet van 27 april 2007 met betrekking tot vergoedingen die de marginale kosten overstijgen. Dat evaluatieverslag wordt aan de Vlaamse Regering bezorgd.<br>
 &nbsp;
 
 ### ART 13.
 
-Het coördinatiecomité evalueert tweejaarlijks in welke mate de instanties gebruikmaken van de portaalsite, vermeld in artikel 10, en met betrekking tot welke belangrijkste documenten als vermeld in artikel 11, de overzichtslijsten met de relevante metadata op de portaalsite worden gepubliceerd.<br>
+Het stuurorgaan Vlaams Informatie- en ICT-beleid evalueert tweejaarlijks in welke mate de instanties gebruikmaken van de portaalsite, vermeld in artikel 10, en met betrekking tot welke belangrijkste documenten als vermeld in artikel 11, de overzichtslijsten met de relevante metadata op de portaalsite worden gepubliceerd.<br>
 &nbsp;
 
 ## HOOFDSTUK 6 Uitwisseling van bestuursdocumenten tussen instanties onderling
@@ -169,7 +169,7 @@ In afwijking van het eerste lid, wordt in nood- of crisissituaties onmiddellijk 
 De instantie die de bestuursdocumenten heeft ontvangen, is verplicht :<br>
 1° adequate en afdoende technologische en organisatorische maatregelen te treffen om onrechtmatige toegang tot of onrechtmatig gebruik van de bestuursdocumenten te voorkomen;<br>
 2° een bronvermelding op te nemen zoals bepaald door de bezorgende instantie, als die daarom verzoekt;<br>
-3° in geval van publieke kennisgeving eventuele bijkomende voorwaarden met beperkte en technische draagwijdte na te leven zoals bepaald door de bezorgende instantie in overleg met het coördinatiecomité.
+3° in geval van publieke kennisgeving eventuele bijkomende voorwaarden met beperkte en technische draagwijdte na te leven zoals bepaald door de bezorgende instantie in overleg met het stuurorgaan Vlaams Informatie- en ICT-beleid.
 
 ### ART 16.
 
