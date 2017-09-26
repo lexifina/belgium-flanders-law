@@ -29,7 +29,7 @@ De leden en hun plaatsvervangers hebben minstens twee jaar nuttige economische, 
 3° een lid en zijn plaatsvervanger worden benoemd door de Vlaamse minister, bevoegd voor het Leefmilieu en het Waterbeleid;<br>
 4° een lid en zijn plaatsvervanger worden benoemd door de Vlaamse minister, bevoegd voor de Ruimtelijke Ordening.<br>
 <br>
-§ 2. De leden van de afdeling hergebruik van overheidsinformatie, onder wie de voorzitter, worden aangewezen door de Vlaamse minister, bevoegd voor de informatiemaatschappij, het structureren, opslaan, uitwisselen en ontsluiten van informatie en de infolijn, op voordracht van het coördinatiecomité, vermeld in artikel 20 van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator, en na mededeling aan de Vlaamse Regering.<br>
+§ 2. De leden van de afdeling hergebruik van overheidsinformatie, onder wie de voorzitter, worden aangewezen door de Vlaamse minister, bevoegd voor de informatiemaatschappij, het structureren, opslaan, uitwisselen en ontsluiten van informatie en de infolijn, op voordracht van het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, en na mededeling aan de Vlaamse Regering.<br>
 <br>
 § 3. De leden en hun plaatsvervangers worden door de benoemende minister&nbsp;aangeduid voor een telkens verlengbare termijn van vijf jaar.<br>
 &nbsp;

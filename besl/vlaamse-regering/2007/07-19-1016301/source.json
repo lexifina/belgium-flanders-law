@@ -2,16 +2,16 @@
   "codex_id": 1016301,
   "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot oprichting van de beroepsinstantie inzake openbaarheid van bestuur en hergebruik van overheidsinformatie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016301/VolledigDocument?datum=2016-11-28",
-  "source_sha256": "5b3f69b232e60e765108951cddc10f345bd92f4891ffa89d1275dbb12a0aef4c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016301/VolledigDocument?datum=2017-09-26",
+  "source_sha256": "4c6f28a63aae16eed1db790acd0298370ee55a25f9583761ae19ba613cd163a1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016301&param=informatie",
-  "as_of": "2016-11-28",
+  "as_of": "2017-09-26",
   "made": "2007-07-19",
   "gazette": "2007-11-05",
   "numac": 2007036544,
   "document_start": "2007-11-05",
   "document_end": null,
-  "in_force": "2016-11-28",
+  "in_force": "2017-09-26",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2016-11-28; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-09-26; future article versions excluded; article text as the API gives it"
 }
