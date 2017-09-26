@@ -2,16 +2,16 @@
   "codex_id": 1023830,
   "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot uitvoering van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023830/VolledigDocument?datum=2014-02-14",
-  "source_sha256": "94ab31fef32af1a1c66f9febb5b3589601a8ac0ea50ec4478ee7d8dcd823b122",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023830/VolledigDocument?datum=2017-09-26",
+  "source_sha256": "a6da22283f5b944496f49c8398da9dbf532bff34dd1e32ddce30a126f71cbf05",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023830&param=informatie",
-  "as_of": "2014-02-14",
+  "as_of": "2017-09-26",
   "made": "2013-11-29",
   "gazette": "2014-02-14",
   "numac": 2014035171,
   "document_start": "2014-02-14",
   "document_end": null,
-  "in_force": "2014-02-14",
+  "in_force": "2017-09-26",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2014-02-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-09-26; future article versions excluded; article text as the API gives it"
 }
