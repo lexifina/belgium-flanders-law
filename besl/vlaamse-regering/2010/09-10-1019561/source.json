@@ -2,16 +2,16 @@
   "codex_id": 1019561,
   "title": "Besluit van de Vlaamse Regering van 2010-09-10 tot bepaling van de nadere regels voor de toegang tot en het gebruik door de deelnemers aan GDI-Vlaanderen van de geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019561/VolledigDocument?datum=2015-12-04",
-  "source_sha256": "3be0c1b0019e0b8befce602729146bb7faa6018cb97532c07e9a08a0ed415a8f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019561/VolledigDocument?datum=2017-09-26",
+  "source_sha256": "df44337cbcce7cc23d537b627cd06ff16218538caafa380ab248038d00c7ccca",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019561&param=informatie",
-  "as_of": "2015-12-04",
+  "as_of": "2017-09-26",
   "made": "2010-09-10",
   "gazette": "2010-10-07",
   "numac": 2010205088,
   "document_start": "2010-10-17",
   "document_end": null,
-  "in_force": "2015-12-04",
+  "in_force": "2017-09-26",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2015-12-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-09-26; future article versions excluded; article text as the API gives it"
 }
