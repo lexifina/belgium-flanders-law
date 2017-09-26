@@ -8,7 +8,30 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder :<BR>1° adres :   identificatie van een adresseerbaar object met adrescomponenten zoals een   gemeentenaam, een straatnaam, een huisnummer en een subadres;<BR>2°   adresseerbaar object : geografisch object dat met een adres kan worden   geïdentificeerd;<BR>3° geografisch object : een abstracte voorstelling van een   reëel verschijnsel in relatie tot een specifieke locatie of een specifiek   geografisch gebied;<BR>4° straatnaam : adrescomponent die een weg of een deel   van een weg identificeert;<BR>5° weg : geregistreerde weg met zijn inrichting   als vermeld in artikel 5, 4°, van het decreet van 16 april 2004 houdende het   Grootschalig Referentie Bestand (GRB);<BR>6° straat : weg of deel van een weg   waaraan een straatnaam is toegekend;<BR>7° huisnummer : adrescomponent die een   adresseerbaar object identificeert in een straat;<BR>8° subadres :   adrescomponent, zoals een busnummer en appartementnummer, ter identificatie van   een onderdeel van een adresseerbaar object waaraan een huisnummer is   toegekend;<BR>9° identificator : een taalkundig onafhankelijke opeenvolging van   karakters die toelaat om datgene waarmee ze wordt geassocieerd, op een unieke en   permanente wijze te identificeren;<BR>10° CRAB-straatnaamcode : identificator   die wordt toegekend aan elke straatnaam die is opgenomen in het Centraal   Referentieadressenbestand, afgekort CRAB;<BR>11° GRB : Grootschalig Referentie   Bestand, vermeld in artikel 2, 3°, van het decreet van 16 april 2004 houdende   het Grootschalig Referentie Bestand;<BR>12° Privacywet : de wet van 8 december   1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de   verwerking van persoonsgegevens en de uitvoeringsbesluiten ervan;<BR>13°   verwerken : iedere verwerking, vermeld in artikel 1, § 2, van de   Privacywet;<BR>14° mededeling : een of meer van de handelingen, vermeld in   artikel 1, § 2, van de Privacywet, die slaan op het verstrekken van gegevens   door middel van doorzending, het verspreiden, en het op welke andere wijze ook   ter beschikking stellen van gegevens, voor zover dat op systematische en   georganiseerde wijze gebeurt. De mededeling aan de personen op wie de gegevens   betrekking hebben, aan hun wettelijke vertegenwoordigers, alsook aan degenen die   door hen uitdrukkelijk werden gemachtigd om de gegevens te verwerken, wordt niet   als mededeling in de betekenis van dit decreet beschouwd;<BR>15° authentieke   geografische gegevensbron : geografische gegevensbron als vermeld in hoofdstuk V   van het decreet van 20 februari 2009 betreffende de Geografische   Data-Infrastructuur Vlaanderen;<BR>16° GDI-Vlaanderen : de Geografische   Data-Infrastructuur Vlaanderen, vermeld in artikel 4 van het decreet van 20   februari 2009 betreffende de Geografische Data-Infrastructuur Vlaanderen;<BR>17°   deelnemer aan GDI-Vlaanderen : iedere instantie in de zin van artikel 4, § 1,   van het decreet van 26 maart 2004 betreffende de openbaarheid van   bestuur;<BR>18° stuurgroep GDI-Vlaanderen : de stuurgroep GDI-Vlaanderen,   vermeld in artikel 7, eerste lid, van het decreet van 20 februari 2009   betreffende de Geografische Data-Infrastructuur Vlaanderen;<BR>19° instantie :   een instantie als vermeld in artikel 3, 3°, van het decreet van 26 maart 2004   betreffende de openbaarheid van bestuur;<BR>20° derde partij : een natuurlijke   persoon, een rechtspersoon of een groepering ervan die geen instantie is;<BR>21°   initiator : een instantie of derde partij die hetzij door of krachtens dit   decreet, hetzij door of krachtens een andere wettelijke of decretale bepaling   exclusieve eindverantwoordelijkheid heeft gekregen over de levensloop van een   adrescomponent, met inbegrip van de relatie tussen de adrescomponent en het   geografische object waarnaar ze verwijst;<BR>22° gebruiker : iedereen die   gebruik maakt van het CRAB;<BR>23° agentschap : het intern verzelfstandigd   agentschap Informatie Vlaanderen, vermeld in artikel 2 van besluit van de   Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern   verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse   maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van   de overdracht van de activiteiten en het vermogen van het AGIV aan het   agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer   en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;
+Voor de toepassing van dit decreet wordt verstaan onder :<br>
+1° adres : identificatie van een adresseerbaar object met adrescomponenten zoals een gemeentenaam, een straatnaam, een huisnummer en een subadres;<br>
+2° adresseerbaar object : geografisch object dat met een adres kan worden geïdentificeerd;<br>
+3° geografisch object : een abstracte voorstelling van een reëel verschijnsel in relatie tot een specifieke locatie of een specifiek geografisch gebied;<br>
+4° straatnaam : adrescomponent die een weg of een deel van een weg identificeert;<br>
+5° weg : geregistreerde weg met zijn inrichting als vermeld in artikel 5, 4°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB);<br>
+6° straat : weg of deel van een weg waaraan een straatnaam is toegekend;<br>
+7° huisnummer : adrescomponent die een adresseerbaar object identificeert in een straat;<br>
+8° subadres : adrescomponent, zoals een busnummer en appartementnummer, ter identificatie van een onderdeel van een adresseerbaar object waaraan een huisnummer is toegekend;<br>
+9° identificator : een taalkundig onafhankelijke opeenvolging van karakters die toelaat om datgene waarmee ze wordt geassocieerd, op een unieke en permanente wijze te identificeren;<br>
+10° CRAB-straatnaamcode : identificator die wordt toegekend aan elke straatnaam die is opgenomen in het Centraal Referentieadressenbestand, afgekort CRAB;<br>
+11° GRB : Grootschalig Referentie Bestand, vermeld in artikel 2, 3°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand;<br>
+12° Privacywet : de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens en de uitvoeringsbesluiten ervan;<br>
+13° verwerken : iedere verwerking, vermeld in artikel 1, § 2, van de Privacywet;<br>
+14° mededeling : een of meer van de handelingen, vermeld in artikel 1, § 2, van de Privacywet, die slaan op het verstrekken van gegevens door middel van doorzending, het verspreiden, en het op welke andere wijze ook ter beschikking stellen van gegevens, voor zover dat op systematische en georganiseerde wijze gebeurt. De mededeling aan de personen op wie de gegevens betrekking hebben, aan hun wettelijke vertegenwoordigers, alsook aan degenen die door hen uitdrukkelijk werden gemachtigd om de gegevens te verwerken, wordt niet als mededeling in de betekenis van dit decreet beschouwd;<br>
+15° authentieke geografische gegevensbron : geografische gegevensbron als vermeld in hoofdstuk V van het decreet van 20 februari 2009 betreffende de Geografische Data-Infrastructuur Vlaanderen;<br>
+16° GDI-Vlaanderen : de Geografische Data-Infrastructuur Vlaanderen, vermeld in artikel 4 van het decreet van 20 februari 2009 betreffende de Geografische Data-Infrastructuur Vlaanderen;<br>
+17° deelnemer aan GDI-Vlaanderen : iedere instantie in de zin van artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur;<br>
+18° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid;<br>
+19° instantie : een instantie als vermeld in artikel 3, 3°, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur;<br>
+20° derde partij : een natuurlijke persoon, een rechtspersoon of een groepering ervan die geen instantie is;<br>
+21° initiator : een instantie of derde partij die hetzij door of krachtens dit decreet, hetzij door of krachtens een andere wettelijke of decretale bepaling exclusieve eindverantwoordelijkheid heeft gekregen over de levensloop van een adrescomponent, met inbegrip van de relatie tussen de adrescomponent en het geografische object waarnaar ze verwijst;<br>
+22° gebruiker : iedereen die gebruik maakt van het CRAB;<br>
+23° agentschap : het intern verzelfstandigd agentschap Informatie Vlaanderen, vermeld in artikel 2 van besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;
 
 ## HOOFDSTUK II. Centraal Referentieadressenbestand (CRAB)
 
@@ -30,13 +53,21 @@ Het agentschap wordt belast met de coördinatie van de aanmaak en de bijhouding,
 
 ### ART. 6.
 
-In het CRAB worden adressen opgenomen van de hiernavolgende types van adresseerbare objecten :<br />1° gebouw of onderdeel van een gebouw : gebouw als vermeld in artikel 5, 1°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB);<br />2° kunstwerk : kunstwerk als vermeld in artikel 5, 2°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB);<br />3° perceel : perceel als vermeld in artikel 5, 3°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB);<br />4° kadastraal perceel : kadastraal perceel als vermeld in artikel 1, derde streepje, van het koninklijk besluit van 20 september 2002 tot vaststelling van de vergeldingen en de nadere regels voor de afgifte van kadastrale uittreksels en inlichtingen.<br /><br />De stuurgroep GDI-Vlaanderen kan, op voorstel van het agentschap, aanvullende types van adresseerbare objecten vaststellen waarvoor adressen in het CRAB worden opgenomen. Hij legt die, na advies van de toezichtcommissie in toepassing van artikel 11, § 1, eerste lid, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, ter goedkeuring voor aan de Vlaamse Regering.
+In het CRAB worden adressen opgenomen van de hiernavolgende types van adresseerbare objecten :<br>
+1° gebouw of onderdeel van een gebouw : gebouw als vermeld in artikel 5, 1°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB);<br>
+2° kunstwerk : kunstwerk als vermeld in artikel 5, 2°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB);<br>
+3° perceel : perceel als vermeld in artikel 5, 3°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB);<br>
+4° kadastraal perceel : kadastraal perceel als vermeld in artikel 1, derde streepje, van het koninklijk besluit van 20 september 2002 tot vaststelling van de vergeldingen en de nadere regels voor de afgifte van kadastrale uittreksels en inlichtingen.<br>
+<br>
+Het stuurorgaan Vlaams Informatie- en ICT-beleid&nbsp;kan, op voorstel van het agentschap, aanvullende types van adresseerbare objecten vaststellen waarvoor adressen in het CRAB worden opgenomen. Hij legt die, na advies van de toezichtcommissie in toepassing van artikel 11, § 1, eerste lid, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, ter goedkeuring voor aan de Vlaamse Regering.
 
 ## Afdeling III. CRAB-specificaties
 
 ### ART. 7.
 
-Het CRAB wordt aangemaakt en bijgehouden overeenkomstig specificaties die, op voorstel van de stuurgroep GDI-Vlaanderen, goedgekeurd worden door de Vlaamse Regering.<br /><br />De CRAB-specificaties zijn technische bepalingen over in het bijzonder het opnemen, bijhouden, beheren en meedelen van adrescomponenten.
+Het CRAB wordt aangemaakt en bijgehouden overeenkomstig specificaties die, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, goedgekeurd worden door de Vlaamse Regering.<br>
+<br>
+De CRAB-specificaties zijn technische bepalingen over in het bijzonder het opnemen, bijhouden, beheren en meedelen van adrescomponenten.
 
 ## HOOFDSTUK III. Aanmaak, bijhouding en beheer van het CRAB
 
@@ -52,11 +83,21 @@ De progressieve aanmaak en bijhouding van het CRAB wordt opgenomen in het GDI-ui
 
 ### ART. 10.
 
-De gemeenten treden op als initiator voor de adrescomponenten straatnaam, huisnummer en subadres.<br /><br />De Vlaamse Regering kan, op voorstel van de stuurgroep GDI-Vlaanderen en na advies van de toezichtcommissie in toepassing van artikel 11, § 1, eerste lid, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, aanvullende types van adrescomponenten vastleggen waarvoor de gemeenten als initiator optreden.
+De gemeenten treden op als initiator voor de adrescomponenten straatnaam, huisnummer en subadres.<br>
+<br>
+De Vlaamse Regering kan, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid en na advies van de toezichtcommissie in toepassing van artikel 11, § 1, eerste lid, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, aanvullende types van adrescomponenten vastleggen waarvoor de gemeenten als initiator optreden.
 
 ### ART. 11.
 
-De gemeenten werken in het algemeen mee aan de aanmaak en de bijhouding van het CRAB en waken er in het bijzonder over dat de adressen van de adresseerbare objecten op hun grondgebied op accurate wijze door het agentschap in het CRAB opgenomen kunnen worden.<br /><br />Die opdracht omvat de hiernavolgende taken :<br />1° de vaststelling en toekenning van de adrescomponenten, vermeld in artikel 10, op hun grondgebied;<br />2° de mededeling van de adrescomponenten, vermeld in 1°, met het oog op de opname ervan in het CRAB;<br />3° de mededeling van elke wijziging, correctie en aanvulling van de adrescomponenten, vermeld in 1°, met het oog op de bijhouding en kwaliteitsverbetering van het CRAB;<br />4° het onderzoeken van vragen of meldingen van het agentschap met betrekking tot de adrescomponenten, vermeld in 1°, met het oog op de kwaliteitsverbetering van het CRAB.<br /><br />De Vlaamse Regering stelt, op voorstel van de stuurgroep GDI-Vlaanderen, nadere regels vast voor de wijze waarop de gemeente in relatie tot het agentschap die opdracht zal uitvoeren.
+De gemeenten werken in het algemeen mee aan de aanmaak en de bijhouding van het CRAB en waken er in het bijzonder over dat de adressen van de adresseerbare objecten op hun grondgebied op accurate wijze door het agentschap in het CRAB opgenomen kunnen worden.<br>
+<br>
+Die opdracht omvat de hiernavolgende taken :<br>
+1° de vaststelling en toekenning van de adrescomponenten, vermeld in artikel 10, op hun grondgebied;<br>
+2° de mededeling van de adrescomponenten, vermeld in 1°, met het oog op de opname ervan in het CRAB;<br>
+3° de mededeling van elke wijziging, correctie en aanvulling van de adrescomponenten, vermeld in 1°, met het oog op de bijhouding en kwaliteitsverbetering van het CRAB;<br>
+4° het onderzoeken van vragen of meldingen van het agentschap met betrekking tot de adrescomponenten, vermeld in 1°, met het oog op de kwaliteitsverbetering van het CRAB.<br>
+<br>
+De Vlaamse Regering stelt, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, nadere regels vast voor de wijze waarop de gemeente in relatie tot het agentschap die opdracht zal uitvoeren.
 
 ### ART. 12.
 
