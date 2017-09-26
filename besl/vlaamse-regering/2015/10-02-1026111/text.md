@@ -40,17 +40,17 @@ Conform   artikel 22 van het GDI-decreet van 20 februari 2009 wordt het GRB vana
 
 ### ART. 8.
 
-<p>De Vlaamse minister, bevoegd voor de uitbouw van een geografische informatie infrastructuur, stelt op voorstel van de stuurgroep GDI-Vlaanderen en na advies van de GRB-raad, de meldingsspecificaties, vermeld in artikel 13, § 2, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB), en de as-builtspecificaties, vermeld in artikel 13, § 3, van het voormelde decreet, vast.</p>
+<p>De Vlaamse minister, bevoegd voor de uitbouw van een geografische informatie infrastructuur, stelt op voorstel van&nbsp;het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, de meldingsspecificaties, vermeld in artikel 13, § 2, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB), en de as-builtspecificaties, vermeld in artikel 13, § 3, van het voormelde decreet, vast.</p>
 
 <p>Het&nbsp;agentschap maakt de meldings- en de as-builtspecificaties op zijn website bekend.</p>
 
 ### ART. 9.
 
-De Vlaamse minister, bevoegd voor de uitbouw van een geografische informatie infrastructuur, keurt op voorstel van de stuurgroep GDI-Vlaanderen en na advies van de GRB-raad, de nadere regels goed voor de termijnen waarbinnen en de wijze waarop de meldingen en de opmetingen ten gevolge van terreinmutaties, vermeld in artikel 8 van dit besluit, en opmetingen als vermeld in artikel 13, § 4, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB), aangeleverd moeten worden aan het agentschap.
+De Vlaamse minister, bevoegd voor de uitbouw van een geografische informatie infrastructuur, keurt op voorstel van&nbsp;het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, de nadere regels goed voor de termijnen waarbinnen en de wijze waarop de meldingen en de opmetingen ten gevolge van terreinmutaties, vermeld in artikel 8 van dit besluit, en opmetingen als vermeld in artikel 13, § 4, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB), aangeleverd moeten worden aan het agentschap.
 
 ### ART. 10.
 
-De   Vlaamse minister, bevoegd voor de uitbouw van een geografische informatie   infrastructuur, evalueert de bijhoudingsheffing ter recuperatie van de   bijhoudingskosten, vermeld in artikel 22, § 2, van het decreet van 16 april 2004   houdende het Grootschalig Referentie Bestand (GRB), tegen 1 januari 2018 en   legt, op voorstel van de stuurgroep GDI-Vlaanderen en na advies van de GRB-raad,   een evaluatienota voor aan de Vlaamse Regering.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+De Vlaamse minister, bevoegd voor de uitbouw van een geografische informatie infrastructuur, evalueert de bijhoudingsheffing ter recuperatie van de bijhoudingskosten, vermeld in artikel 22, § 2, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB), tegen 1 januari 2018 en legt, op voorstel van&nbsp;het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, een evaluatienota voor aan de Vlaamse Regering.
 
 ## HOOFDSTUK 4 Wijzigingsbepalingen
 
