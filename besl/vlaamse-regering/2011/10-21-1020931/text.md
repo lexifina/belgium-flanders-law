@@ -28,7 +28,7 @@ De instantie is verplicht : <br />1° elk onrechtmatig gebruik van de geografisc
 
 ### ART. 5.
 
-Voor de kennisgeving van de geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI, door de instanties aan andere instanties of elke instantie, natuurlijke persoon, rechtspersoon of groepering ervan die geen deelnemer is aan de GDI-Vlaanderen kunnen bijkomende voorwaarden van beperkte en technische draagwijdte worden opgelegd door de eigenaar of beheerder, in overleg met de stuurgroep GDI-Vlaanderen. <br />
+Voor de kennisgeving van de geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI, door de instanties aan andere instanties of elke instantie, natuurlijke persoon, rechtspersoon of groepering ervan die geen deelnemer is aan de GDI-Vlaanderen kunnen bijkomende voorwaarden van beperkte en technische draagwijdte worden opgelegd door de eigenaar of beheerder,na goedkeuring door het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid.
 
 ### ART. 6.
 
