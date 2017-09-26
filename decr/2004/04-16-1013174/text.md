@@ -10,13 +10,21 @@ Dit decreet regelt een aangelegenheid bedoeld in artikel 39 van de Grondwet.
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt begrepen onder:<BR>1°   grootschalige geografische gegevens: geografische gegevens omtrent fenomenen die   cartografisch binnen een schaalbereik van 1/250 tot 1/5 000 kunnen worden   afgebeeld;<BR>2° grootschalige referentiegegevens: alle grootschalige   geografische gegevens die opgenomen zijn in het Grootschalig Referentie   Bestand;<BR>3° Grootschalig Referentie Bestand, hierna 'GRB' genoemd: het   databanksysteem waarin de grootschalige referentiegegevens over het grondgebied   van het Vlaamse Gewest worden opgenomen, bijgehouden en toegankelijk   gemaakt;<BR>4° het agentschap : het intern verzelfstandigd agentschap Informatie   Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18   maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap   Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding   zonder vereffening van het AGIV, de regeling van de overdracht van de   activiteiten en het vermogen van het AGIV aan het agentschap Informatie   Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van   het Eigen Vermogen Informatie Vlaanderen;<BR>5° ...;<BR>6° stuurgroep   GDI-Vlaanderen : de stuurgroep GDI-Vlaanderen, vermeld in artikel 7 van het   GDI-decreet; <BR>7° netbeheerder van een fysiek leidingnet: netbeheerder bedoeld   in artikel 21, 1°, van een of meerdere leidingnetten bedoeld in artikel 21,2°   tot en met 5°, voor zover die leidingnetten aanwezig zijn op het grondgebied van   het Vlaamse Gewest;<BR>8° derden : natuurlijke personen of rechtspersonen die   geen netbeheerder van een fysiek leidingnet zijn en niet de hoedanigheid hebben   van het Vlaamse Gewest, de Vlaamse Gemeenschap, een intern verzelfstandigd   agentschap met rechtspersoonlijkheid, een publiekrechtelijk vormgegeven extern   verzelfstandigd agentschap, een privaatrechtelijk vormgegeven extern   verzelfstandigd agentschap, een Vlaamse openbare instelling, een provincie en   een gemeente.
+Voor de toepassing van dit decreet wordt begrepen onder:<br>
+1° grootschalige geografische gegevens: geografische gegevens omtrent fenomenen die cartografisch binnen een schaalbereik van 1/250 tot 1/5 000 kunnen worden afgebeeld;<br>
+2° grootschalige referentiegegevens: alle grootschalige geografische gegevens die opgenomen zijn in het Grootschalig Referentie Bestand;<br>
+3° Grootschalig Referentie Bestand, hierna 'GRB' genoemd: het databanksysteem waarin de grootschalige referentiegegevens over het grondgebied van het Vlaamse Gewest worden opgenomen, bijgehouden en toegankelijk gemaakt;<br>
+4° het agentschap : het intern verzelfstandigd agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;<br>
+5° ...;<br>
+6° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid;<br>
+7° netbeheerder van een fysiek leidingnet: netbeheerder bedoeld in artikel 21, 1°, van een of meerdere leidingnetten bedoeld in artikel 21,2° tot en met 5°, voor zover die leidingnetten aanwezig zijn op het grondgebied van het Vlaamse Gewest;<br>
+8° derden : natuurlijke personen of rechtspersonen die geen netbeheerder van een fysiek leidingnet zijn en niet de hoedanigheid hebben van het Vlaamse Gewest, de Vlaamse Gemeenschap, een intern verzelfstandigd agentschap met rechtspersoonlijkheid, een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, een Vlaamse openbare instelling, een provincie en een gemeente.
 
 ## HOOFDSTUK III ORGANISATIE
 
 ### ART. 3.
 
-§ 1. Er wordt een GRB-raad opgericht die bestaat uit een representatieve en evenwichtige ver-tegenwoordiging van de netbeheerders van fysieke leidingnetten.<br /><br />De Vlaamse regering bepaalt de samenstelling en werking van de GRB-raad. Zij benoemt de voorzitter en de leden. De leden van de GRB-raad zijn deskundig op het gebied van grootschalige geografische gegevens of de nutssector.<br /><br />§ 2. De GRB-raad verleent advies aan de Vlaamse regering in de gevallen bedoeld in dit decreet. De GRB-raad brengt advies uit binnen de zestig kalenderdagen nadat daarom is verzocht. Indien binnen deze termijn geen advies wordt meegedeeld, wordt aangenomen dat de GRB-raad gunstig advies heeft uitgebracht.<br /><br />De Vlaamse regering kan de GRB-raad raadplegen omtrent alle aangelegenheden die verband houden met het GRB. De GRB-raad is een afnemersforum als vermeld in artikel 4, § 4, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.
+...
 
 ### ART. 4.
 
@@ -41,7 +49,12 @@ In het GRB worden gegevens opgenomen betreffende volgende grootschalige fenomene
 
 ### ART. 6.
 
-De GRB-specificaties zijn technische minimumbepalingen betreffende:<br />1° de opmeting van grootschalige geografische gegevens;<br />2° de opname van grootschalige geografische gegevens in het GRB;<br />3° de uitwisseling van gegevens met het GRB.<br /><br />De stuurgroep GDI-Vlaanderen stelt, op voorstel van het Agentschap en na advies van de GRB-raad, de GRB-specificaties op en legt deze ter goedkeuring voor aan de Vlaamse regering.
+De GRB-specificaties zijn technische minimumbepalingen betreffende:<br>
+1° de opmeting van grootschalige geografische gegevens;<br>
+2° de opname van grootschalige geografische gegevens in het GRB;<br>
+3° de uitwisseling van gegevens met het GRB.<br>
+<br>
+Het stuurorgaan Vlaams Informatie- en ICT-beleid stelt, op voorstel van het Agentschap, de GRB-specificaties op en legt deze ter goedkeuring voor aan de Vlaamse regering.
 
 ### ART. 7.
 
@@ -61,7 +74,13 @@ Het GDI-plan, vermeld in artikel 10, § 1, van het GDI-decreet, omvat de strateg
 
 ### ART. 10.
 
-Het GRB-uitvoeringsplan is een voortschrijdend meerjarenprogramma betreffende de aanmaak en bijhouding van het GRB.<br /><br />De Vlaamse regering stelt, op voorstel van de stuurgroep GDI-Vlaanderen en na advies van de GRB-raad, de criteria vast voor opname van de projectzones in het GRB-uitvoeringsplan.<br /><br />De stuurgroep GDI-Vlaanderen stelt, op voorstel van het Agentschap en na advies van de GRB-raad, het GRB-uitvoeringsplan en de jaarlijkse aanpassingen ervan vast en legt het GRB-uitvoeringsplan en de wijzigingen aan dit plan ter goedkeuring voor aan de Vlaamse regering.<br /><br />De Vlaamse regering stelt nadere regels vast in verband met de inhoud en de vorm van het GRB-uitvoeringsplan.
+Het GRB-uitvoeringsplan is een voortschrijdend meerjarenprogramma betreffende de aanmaak en bijhouding van het GRB.<br>
+<br>
+De Vlaamse regering stelt, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, de criteria vast voor opname van de projectzones in het GRB-uitvoeringsplan.<br>
+<br>
+Het stuurorgaan Vlaams Informatie- en ICT-beleid stelt, op voorstel van het Agentschap, het GRB-uitvoeringsplan en de jaarlijkse aanpassingen ervan vast en legt het GRB-uitvoeringsplan en de wijzigingen aan dit plan ter goedkeuring voor aan de Vlaamse regering.<br>
+<br>
+De Vlaamse regering stelt nadere regels vast in verband met de inhoud en de vorm van het GRB-uitvoeringsplan.
 
 ## AFDELING 2 AANMAAK
 
@@ -71,7 +90,13 @@ Het Agentschap staat in voor de aanmaak van het GRB. Deze aanmaak gebeurt per pr
 
 ### ART. 12.
 
-§ 1. Grootschalige geografische gegevens, die door of in opdracht van anderen dan het Agentschap zijn opgemeten conform het skeletbestek, kunnen worden aangewend bij de aanmaak van het GRB, mits instemming van de partij door wie of in wiens opdracht deze gegevens werden opgemeten. Op deze uitwisseling van grootschalige geografische gegevens zijn de GRB-specificaties van toepassing.<br /><br />De Vlaamse regering bepaalt, op voorstel van de stuurgroep GDI-Vlaanderen en na advies van de GRB-raad, de nadere voorwaarden en modaliteiten van dergelijke aanwending. In geen geval mag een eventuele vergoeding meer bedragen dan de besparing die daardoor wordt gerealiseerd op de kosten voor opmetingen die in opdracht van het Agentschap gebeuren met het oog op de aanmaak van het GRB.<br /><br />§ 2. Grootschalige geografische gegevens die door of in opdracht van anderen dan het Agentschap zijn opgemeten voor de goedkeuring door de Vlaamse regering van het skeletbestek overeenkomstig artikel 6 en niet conform zijn met het skeletbestek kunnen slechts worden aangewend bij de aanmaak van het GRB, overeenkomstig § 1, indien de Vlaamse regering daartoe beslist, op voorstel van de stuurgroep GDI-Vlaanderen en na advies van de GRB-raad.<br /><br />§ 3. In de door de Vlaamse Regering bepaalde gevallen, worden de aangeboden grootschalige geografische gegevens door het Agentschap aan een kwaliteitscontrole onderworpen. Onder de voorwaarden en modaliteiten bepaald door de Vlaamse Regering, betaalt de betrokken persoon een vergoeding aan het Agentschap die de kosten dekt van die kwaliteitscontrole.
+§ 1. Grootschalige geografische gegevens, die door of in opdracht van anderen dan het Agentschap zijn opgemeten conform het skeletbestek, kunnen worden aangewend bij de aanmaak van het GRB, mits instemming van de partij door wie of in wiens opdracht deze gegevens werden opgemeten. Op deze uitwisseling van grootschalige geografische gegevens zijn de GRB-specificaties van toepassing.<br>
+<br>
+De Vlaamse regering bepaalt, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, de nadere voorwaarden en modaliteiten van dergelijke aanwending. In geen geval mag een eventuele vergoeding meer bedragen dan de besparing die daardoor wordt gerealiseerd op de kosten voor opmetingen die in opdracht van het Agentschap gebeuren met het oog op de aanmaak van het GRB.<br>
+<br>
+§ 2. Grootschalige geografische gegevens die door of in opdracht van anderen dan het Agentschap zijn opgemeten voor de goedkeuring door de Vlaamse regering van het skeletbestek overeenkomstig artikel 6 en niet conform zijn met het skeletbestek kunnen slechts worden aangewend bij de aanmaak van het GRB, overeenkomstig § 1, indien de Vlaamse regering daartoe beslist, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid.<br>
+<br>
+§ 3. In de door de Vlaamse Regering bepaalde gevallen, worden de aangeboden grootschalige geografische gegevens door het Agentschap aan een kwaliteitscontrole onderworpen. Onder de voorwaarden en modaliteiten bepaald door de Vlaamse Regering, betaalt de betrokken persoon een vergoeding aan het Agentschap die de kosten dekt van die kwaliteitscontrole.
 
 ## AFDELING 3 BIJHOUDING
 
@@ -97,7 +122,9 @@ Het Vlaamse Gewest is de producent van het GRB, in de zin van de wet van 31 augu
 
 ### ART. 16.
 
-De Vlaamse regering bepaalt, op voorstel van de stuurgroep GDI-Vlaanderen en na het advies te hebben ingewonnen van de GRB-raad, de wijze waarop toegang wordt verleend tot het GRB en de voorwaarden die gelden voor het gebruik van de erin opgenomen grootschalige referentiegegevens.<br /><br />Het Vlaamse Gewest, de Vlaamse Gemeenschap, de intern verzelfstandigde agentschappen met rechtspersoonlijkheid, de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen, de privaatrechtelijk vormgegeven extern verzelfstandigde agentschappen, de Vlaamse openbare instellingen, de provincies en gemeenten en de netbeheerders van fysieke leidingnetten krijgen in ieder geval een kosteloze toegang tot het GRB en de erin opgenomen grootschalige geografische referentiegegevens.
+De Vlaamse regering bepaalt, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, de wijze waarop toegang wordt verleend tot het GRB en de voorwaarden die gelden voor het gebruik van de erin opgenomen grootschalige referentiegegevens.<br>
+<br>
+Het Vlaamse Gewest, de Vlaamse Gemeenschap, de intern verzelfstandigde agentschappen met rechtspersoonlijkheid, de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen, de privaatrechtelijk vormgegeven extern verzelfstandigde agentschappen, de Vlaamse openbare instellingen, de provincies en gemeenten en de netbeheerders van fysieke leidingnetten krijgen in ieder geval een kosteloze toegang tot het GRB en de erin opgenomen grootschalige geografische referentiegegevens.
 
 ### ART. 17.
 
@@ -113,13 +140,15 @@ De aanmaak, de bijhouding en het beheer van het GRB worden gefinancierd door:<br
 
 ### ART. 19.
 
-In de rekeningen van het Eigen Vermogen Informatie Vlaanderen, vermeld in   artikel 7 van het decreet van 15 januari 2016 houdende diverse maatregelen   inzake de ontbinding van het publiekrechtelijk vormgegeven extern   verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en   de oprichting van het Eigen Vermogen Informatie Vlaanderen worden de inkomsten   en uitgaven die betrekking hebben op het GRB afzonderlijk vermeld.<BR><BR>Het   Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 7 van het decreet van   15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het   publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor   Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen   Informatie Vlaanderen brengt jaarlijks verslag uit aan de stuurgroep   GDI-Vlaanderen en aan de GRB-raad omtrent deze inkomsten en   uitgaven.
+In de rekeningen van het Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen worden de inkomsten en uitgaven die betrekking hebben op het GRB afzonderlijk vermeld.<br>
+<br>
+Het Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen brengt jaarlijks verslag uit aan het stuurorgaan Vlaams Informatie- en ICT-beleid&nbsp;omtrent deze inkomsten en uitgaven.
 
 ## AFDELING 2 VERGOEDING DOORDERDEN
 
 ### ART. 20.
 
-De Vlaamse regering bepaalt, op voorstel van de stuurgroep GDI-Vlaanderen en na advies van de GRB-raad, de vergoedingen die door derden zijn verschuldigd voor de toegang tot het GRB. De opbrengsten worden gelijk verdeeld tussen de netbeheerders van fysieke leidingnetten en het Vlaamse Gewest. De Vlaamse regering bepaalt, op voorstel van de stuurgroep GDI-Vlaanderen en na het advies te hebben ingewonnen van de GRB-raad, de verdere modaliteiten voor de verdeling van deze opbrengsten.
+De Vlaamse regering bepaalt, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, de vergoedingen die door derden zijn verschuldigd voor de toegang tot het GRB. De opbrengsten worden gelijk verdeeld tussen de netbeheerders van fysieke leidingnetten en het Vlaamse Gewest. De Vlaamse regering bepaalt, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, de verdere modaliteiten voor de verdeling van deze opbrengsten.
 
 ## AFDELING 3 HEFFINGEN
 
