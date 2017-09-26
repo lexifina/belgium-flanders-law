@@ -21,11 +21,10 @@
 ### ART. 2.
 
 <p>Elke derde partij die een geografische gegevensbron en geografische dienst beheert, kan die koppelen aan het netwerk als ze de volgende voorwaarden in acht neemt :<br>
-1° de metagegevens worden ingediend m<br>
-et de toepassing die het agentschap ter beschikking stelt;<br>
+1° de metagegevens worden ingediend met de toepassing die het agentschap ter beschikking stelt;<br>
 2° de geografische gegevensbron en de geografische dienst voldoen aan de technische voorwaarden, overeenkomstig artikel 28 van het decreet van 20 februari 2009 betreffende de Geografische Data-Infrastructuur Vlaanderen.</p>
 
-<p>De stuurgroep GDI-Vlaanderen oordeelt of de koppeling van de geografische gegevensbron en de geografische dienst in beheer van een derde partij, nuttig is voor de taken van algemeen belang van de instanties.</p>
+<p>Het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid,&nbsp;oordeelt of de koppeling van de geografische gegevensbron en de geografische dienst in beheer van een derde partij, nuttig is voor de taken van algemeen belang van de instanties.</p>
 
 <p>De geografische gegevensbronnen en geografische diensten in beheer van een derde partij, moeten voor een periode van minstens drie jaar gekoppeld worden aan het netwerk.</p>
 
@@ -63,7 +62,14 @@ De toegang tot en het gebruik van geografische gegevensbronnen en   geografische
 
 ### ART. 8.
 
-<P>§ 1. De Vlaamse Regering kan, op voorstel van de stuurgroep GDI-Vlaanderen,   de toegang tot de geografische gegevensbronnen en geografische diensten,   gekoppeld aan het netwerk, beperken als die toegang een gevaar oplevert voor de   volgende aangelegenheden : <BR>1° het vertrouwelijke karakter van de   internationale betrekkingen van het Vlaamse Gewest of de Vlaamse Gemeenschap en   van de betrekkingen van het Vlaamse Gewest of de Vlaamse Gemeenschap met de   supranationale instellingen, met de Federale Staat en met andere gemeenschappen   en gewesten; <BR>2° de openbare veiligheid en de nationale defensie; <BR>3° de   rechtspleging in een strafrechtelijk, burgerlijk, administratief of   sociaalrechtelijk rechtsgeding. <BR></P>  <P>§ 2. Als de geografische gegevens, gekoppeld aan het netwerk, informatie van   geïdentificeerde of identificeerbare natuurlijke personen bevatten, moeten die   gegevens worden gekwalificeerd als persoonsgegevens als vermeld in artikel 1, §   1, van de wet van 8 december 1992 tot bescherming van de persoonlijke   levenssfeer ten opzichte van de verwerking van persoonsgegevens. De toegang tot   die geografische persoonsgegevens wordt verleend volgens de bepalingen, vermeld   in artikelen 8 en 9 van het decreet van 18 juli 2008 betreffende het   elektronische bestuurlijke gegevensverkeer. <BR></P>  <P>De toegang tot geografische persoonsgegevens door instanties wordt in ieder   geval uitsluitend verleend als de latere verwerking ervan past in of verenigbaar   is met de wettelijk of reglementair bepaalde taken van de instantie in kwestie   die de toegang tot of het gebruik van de betreffende gegevens   vraagt.</P>
+<p>§ 1. De Vlaamse Regering kan, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, de toegang tot de geografische gegevensbronnen en geografische diensten, gekoppeld aan het netwerk, beperken als die toegang een gevaar oplevert voor de volgende aangelegenheden :<br>
+1° het vertrouwelijke karakter van de internationale betrekkingen van het Vlaamse Gewest of de Vlaamse Gemeenschap en van de betrekkingen van het Vlaamse Gewest of de Vlaamse Gemeenschap met de supranationale instellingen, met de Federale Staat en met andere gemeenschappen en gewesten;<br>
+2° de openbare veiligheid en de nationale defensie;<br>
+3° de rechtspleging in een strafrechtelijk, burgerlijk, administratief of sociaalrechtelijk rechtsgeding.</p>
+
+<p>§ 2. Als de geografische gegevens, gekoppeld aan het netwerk, informatie van geïdentificeerde of identificeerbare natuurlijke personen bevatten, moeten die gegevens worden gekwalificeerd als persoonsgegevens als vermeld in artikel 1, § 1, van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens. De toegang tot die geografische persoonsgegevens wordt verleend volgens de bepalingen, vermeld in artikelen 8 en 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.</p>
+
+<p>De toegang tot geografische persoonsgegevens door instanties wordt in ieder geval uitsluitend verleend als de latere verwerking ervan past in of verenigbaar is met de wettelijk of reglementair bepaalde taken van de instantie in kwestie die de toegang tot of het gebruik van de betreffende gegevens vraagt.</p>
 
 ## HOOFDSTUK 6. Ontkoppeling van de geografische gegevensbronnen en geografische diensten, gekoppeld aan het netwerk
 
@@ -75,7 +81,7 @@ De toegang tot en het gebruik van geografische gegevensbronnen en   geografische
 
 <p>De derde partij zal het agentschap op de hoogte brengen van haar verzoek. Indien het agentschap niet binnen drie maanden zijn verplichtingen nakomt, zal de ontkoppeling effectief plaatsvinden.</p>
 
-<p>§ 3. De geografische gegevensbron en geografische dienst, gekoppeld aan het netwerk, zullen worden ontkoppeld op voorstel van de stuurgroep GDI-Vlaanderen in de volgende gevallen :<br>
+<p>§ 3. De geografische gegevensbron en geografische dienst, gekoppeld aan het netwerk, zullen worden ontkoppeld op voorstel van&nbsp;het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, in de volgende gevallen :<br>
 1° als de geografische gegevensbron of geografische dienst niet langer voldoet aan de technische vereisten, vermeld in artikel 27 van het GDI-decreet van 20 februari 2009;<br>
 2° als de metagegevens niet worden bijgehouden.</p>
 
