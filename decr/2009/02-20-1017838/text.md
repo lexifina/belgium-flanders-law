@@ -12,7 +12,28 @@ Dit decreet regelt onder meer de omzetting van richtlijn 2007/2/EG van het Europ
 
 ### ART. 3.
 
-In dit decreet wordt verstaan onder :<BR>1° instantie : een instantie als   vermeld in artikel 3, 3°, van het decreet van 26 maart 2004 betreffende de   openbaarheid van bestuur;<BR>2° derde partij : een natuurlijke persoon, een   rechtspersoon of een groepering ervan die geen instantie is :<BR>3° geografische   gegevens : elektronische gegevens die direct of indirect verwijzen naar een   specifieke locatie of een specifiek geografisch gebied;<BR>4° geografisch object   : een abstracte voorstelling van een reëel verschijnsel in relatie tot een   specifieke locatie of een specifiek geografisch gebied;<BR>5° geografische   gegevensbron : een identificeerbare verzameling van geografische gegevens;<BR>6°   geografische diensten : de bewerking van de geografische gegevens die zich in   geografische gegevensbronnen bevinden of de verwerking van de aanverwante   metagegevens door middel van een computertoepassing;<BR>7° metagegevens :   informatie waarin geografische gegevensbronnen en geografische diensten worden   beschreven en die het mogelijk maakt die gegevens te zoeken, te inventariseren   en te gebruiken;<BR>8° Geografische Data-Infrastructuur, hierna GDI te noemen :   een logisch geheel van metagegevens, geografische gegevensbronnen en   geografische diensten, technische specificaties en standaarden en de   overeenkomsten betreffende de uitwisseling, de toegang en het gebruik ervan, met   de daarbij behorende netwerkdiensten en technologieën, technische specificaties   en standaarden, en de in overeenstemming met dit decreet ingestelde, beheerde of   beschikbaar gemaakte mechanismen, processen en procedures en monitoring   ervan;<BR>9° deelnemer aan GDI-Vlaanderen : iedere instantie in de zin van   artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid   van bestuur;<BR>10° interoperabiliteit : de mogelijkheid dat, zonder   terugkerende handmatige verrichtingen, geografische gegevensbronnen zodanig   worden gecombineerd en geografische diensten zodanig op elkaar inwerken dat het   verkregen resultaat coherent is en de meerwaarde van de geografische   gegevensbronnen en geografische diensten wordt verhoogd;<BR>11° minister : de   Vlaamse minister, bevoegd voor de uitbouw van een geografische   informatie-infrastructuur;<BR>12° agentschap : het intern verzelfstandigd   agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de   Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern   verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse   maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van   de overdracht van de activiteiten en het vermogen van het AGIV aan het   agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer   en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;<BR>13° de   INSPIRE-richtlijn : richtlijn 2007/2/EG van het Europees Parlement en de Raad   van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke   informatie in de Europese Gemeenschap (INSPIRE);<BR>14° harmonisering van   geografische gegevensbronnen : de afstemming van geografische objectdefinities,   objectidentificatie, objectmodellering, objectkenmerken en coderingswijze in   functie van interoperabiliteit met geografische diensten die gelijksoortige   geografische gegevens aanbieden;<BR>15° geoportaal : een internetsite die een   centrale toegang verschaft tot de GDI, of een equivalent daarvan;<BR>16°   e-commercedienst : een elektronische dienst die tot doel heeft de bestelling,   betaling en eventueel ook de voortgangscontrole op de levering van geografische   gegevensbronnen en geografische diensten op een veilige wijze af te handelen via   het internet;<BR>17° zoekdienst : een geografische dienst die het mogelijk maakt   om geografische gegevensbronnen en geografische diensten op te zoeken en de   inhoud van de metagegevens weer te geven;<BR>18° raadpleegdienst : een   geografische dienst die het minstens mogelijk maakt raadpleegbare geografische   gegevensbronnen weer te geven en te bevragen;<BR>19° overdrachtdienst : een   geografische dienst die het mogelijk maakt om geografische gegevensbronnen   geheel of gedeeltelijk te downloaden en uploaden en, als dat praktisch mogelijk   is, ze rechtstreeks ter beschikking te hebben;<BR>20° verwerkingsdienst : een   geografische dienst die het mogelijk maakt om geografische gegevensbronnen te   transformeren om tot interoperabiliteit te komen.
+In dit decreet wordt verstaan onder :<br>
+1° instantie : een instantie als vermeld in artikel 3, 3°, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur;<br>
+2° derde partij : een natuurlijke persoon, een rechtspersoon of een groepering ervan die geen instantie is :<br>
+3° geografische gegevens : elektronische gegevens die direct of indirect verwijzen naar een specifieke locatie of een specifiek geografisch gebied;<br>
+4° geografisch object : een abstracte voorstelling van een reëel verschijnsel in relatie tot een specifieke locatie of een specifiek geografisch gebied;<br>
+5° geografische gegevensbron : een identificeerbare verzameling van geografische gegevens;<br>
+6° geografische diensten : de bewerking van de geografische gegevens die zich in geografische gegevensbronnen bevinden of de verwerking van de aanverwante metagegevens door middel van een computertoepassing;<br>
+7° metagegevens : informatie waarin geografische gegevensbronnen en geografische diensten worden beschreven en die het mogelijk maakt die gegevens te zoeken, te inventariseren en te gebruiken;<br>
+8° Geografische Data-Infrastructuur, hierna GDI te noemen : een logisch geheel van metagegevens, geografische gegevensbronnen en geografische diensten, technische specificaties en standaarden en de overeenkomsten betreffende de uitwisseling, de toegang en het gebruik ervan, met de daarbij behorende netwerkdiensten en technologieën, technische specificaties en standaarden, en de in overeenstemming met dit decreet ingestelde, beheerde of beschikbaar gemaakte mechanismen, processen en procedures en monitoring ervan;<br>
+9° deelnemer aan GDI-Vlaanderen : iedere instantie in de zin van artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur;<br>
+10° interoperabiliteit : de mogelijkheid dat, zonder terugkerende handmatige verrichtingen, geografische gegevensbronnen zodanig worden gecombineerd en geografische diensten zodanig op elkaar inwerken dat het verkregen resultaat coherent is en de meerwaarde van de geografische gegevensbronnen en geografische diensten wordt verhoogd;<br>
+11° minister : de Vlaamse minister, bevoegd voor de uitbouw van een geografische informatie-infrastructuur;<br>
+12° agentschap : het intern verzelfstandigd agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;<br>
+13° de INSPIRE-richtlijn : richtlijn 2007/2/EG van het Europees Parlement en de Raad van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Europese Gemeenschap (INSPIRE);<br>
+14° harmonisering van geografische gegevensbronnen : de afstemming van geografische objectdefinities, objectidentificatie, objectmodellering, objectkenmerken en coderingswijze in functie van interoperabiliteit met geografische diensten die gelijksoortige geografische gegevens aanbieden;<br>
+15° geoportaal : een internetsite die een centrale toegang verschaft tot de GDI, of een equivalent daarvan;<br>
+16° e-commercedienst : een elektronische dienst die tot doel heeft de bestelling, betaling en eventueel ook de voortgangscontrole op de levering van geografische gegevensbronnen en geografische diensten op een veilige wijze af te handelen via het internet;<br>
+17° zoekdienst : een geografische dienst die het mogelijk maakt om geografische gegevensbronnen en geografische diensten op te zoeken en de inhoud van de metagegevens weer te geven;<br>
+18° raadpleegdienst : een geografische dienst die het minstens mogelijk maakt raadpleegbare geografische gegevensbronnen weer te geven en te bevragen;<br>
+19° overdrachtdienst : een geografische dienst die het mogelijk maakt om geografische gegevensbronnen geheel of gedeeltelijk te downloaden en uploaden en, als dat praktisch mogelijk is, ze rechtstreeks ter beschikking te hebben;<br>
+20° verwerkingsdienst : een geografische dienst die het mogelijk maakt om geografische gegevensbronnen te transformeren om tot interoperabiliteit te komen;<br>
+21° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid.
 
 ## HOOFDSTUK II. Het samenwerkingsverband GDI-Vlaanderen
 
@@ -32,23 +53,23 @@ GDI-Vlaanderen zal instaan voor de uitbouw en de exploitatie van de GDI. Dat hou
 
 ### ART. 6.
 
-Het agentschap is belast met de operationele coördinatie van de uitbouw en de exploitatie van de GDI, rekening houdend met de bevoegdheden die door de bepalingen van deze afdeling zijn toegekend aan de Vlaamse Regering, de stuurgroep GDI-Vlaanderen en de GDI-raad.
+Het agentschap is belast met de operationele coördinatie van de uitbouw en de exploitatie van de GDI, rekening houdend met de bevoegdheden die door de bepalingen van deze afdeling zijn toegekend aan de Vlaamse Regering.
 
 ## Onderafdeling II. [... (opgeh. decr. 23 december 2016, art. 20, I: 26 september 2017)]
 
 ### ART. 7.
 
-Er wordt een stuurgroep GDI-Vlaanderen opgericht, hierna de stuurgroep te noemen, bestaande uit afgevaardigden van de deelnemers aan GDI-Vlaanderen.<br /><br />De stuurgroep heeft onder meer de volgende taken :<br />1° op eigen initiatief of op verzoek van de minister beleidsvoorstellen doen met betrekking tot strategische beleidsbeslissingen over de uitbouw van de GDI;<br />2° voorstellen doen over het opstellen van het ontwerp van GDI-plan en GDI-uitvoeringsplan;<br />3° voorstellen doen over de toegang, het gebruik, de uitwisseling en het hergebruik van geografische gegevensbronnen en geografische diensten;<br />4° voorstellen van standaarden en richtlijnen uitwerken met betrekking tot de aanmaak, het beheer, de uitwisseling en het gebruik van geografische gegevensbronnen en geografische diensten;<br />5° voorstellen welke geografische gegevensbronnen moeten evolueren naar authentieke geografische gegevensbronnen en als dusdanig kunnen worden erkend;<br />6° voorstellen doen over de bijdrage van de deelnemers aan GDI-Vlaanderen aan de kosten die verbonden zijn aan de ontwikkeling en het beheer van de centrale e-commercedienst, vermeld in artikel 34;<br />7° het vaststellen van de geografische gegevensbronnen en geografische diensten die moeten kunnen worden uitgewisseld door middel van de GDI;<br />8° het vaststellen van :<br />a) de functionaliteiten waaraan de GDI moet voldoen;<br />b) de zoekcriteria die de zoekdiensten, vermeld in artikel 26, § 1, 1°, moeten omvatten;<br />c) de elementen waarop de metagegevens, vermeld in artikel 14, betrekking hebben;<br />d) nadere regels voor het opstellen van metagegevens als vermeld in artikel 14;<br />9° het vaststellen van de technische voorschriften voor interoperabiliteit van geografische diensten en harmonisering van geografische gegevensbronnen;<br />10° het bewaken van de verhouding van GDI-Vlaanderen tot andere samenwerkingsverbanden;<br />11° het vaststellen van algemene richtlijnen met betrekking tot de gebruikerseisen en de bruikbaarheid van geografische diensten als vermeld in artikel 26, § 2, derde lid;<br />12° het vaststellen van de technische voorwaarden die een koppeling mogelijk maken tussen de geografische gegevensbronnen en geografische diensten uit de GDI en het netwerk, vermeld in artikel 26.<br /><br />De Vlaamse Regering bepaalt de samenstelling en de werking van de stuurgroep en van een secretariaat dat belast is met de administratieve ondersteuning en de organisatie van de stuurgroep. De Vlaamse Regering benoemt de voorzitter en de leden van de stuurgroep.
+...
 
 ## Onderafdeling III. [... (opgeh. decr. 23 december 2016, art. 20, I: 26 september 2017)]
 
 ### ART. 8.
 
-Er wordt een GDI-raad opgericht, bestaande uit vertegenwoordigers van de maatschappelijke actoren en onafhankelijke experts die deskundig zijn voor geografische informatie.<br /><br />De GDI-raad heeft als opdracht om op eigen initiatief of op verzoek van de minister strategisch advies te geven over de uitbouw van de GDI. Dit houdt onder meer in :<br />1° het geven van advies over de beleidsbrief en de beleidsnota van de minister;<br />2° het geven van advies over het ontwerp van GDI-plan;<br />3° het geven van advies over de toegang tot de GDI van derde partijen van wie de geografische gegevensbronnen en geografische diensten gekoppeld zijn aan het netwerk, vermeld in artikel 26.<br /><br />De GDI-raad is voor authentieke geografische gegevensbronnen als vermeld in artikel 22, een afnemersforum als vermeld in artikel 4, § 4, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br /><br />De Vlaamse Regering bepaalt de samenstelling en de werking van de GDI-raad en van een secretariaat, belast met de administratieve ondersteuning en de organisatie van de GDI-raad. De Vlaamse Regering benoemt de voorzitter en de leden van de GDI-raad.
+...
 
 ### ART. 9.
 
-De Vlaamse Regering kan commissies oprichten die in de door haar bepaalde gevallen door de GDI-raad worden geraadpleegd.<br /><br />De Vlaamse Regering bepaalt de samenstelling en de werking van de commissies en benoemt de voorzitters en de leden.
+...
 
 ## HOOFDSTUK III. Planning van GDI-Vlaanderen
 
@@ -56,7 +77,7 @@ De Vlaamse Regering kan commissies oprichten die in de door haar bepaalde gevall
 
 ### ART. 10.
 
-§ 1. Het GDI-plan is het strategisch beleidsdocument van de Vlaamse Regering houdende de doelstellingen van GDI-Vlaanderen.<br /><br />Het GDI-uitvoeringsplan is een gefaseerd uit te voeren voortschrijdend meerjarenprogramma voor de realisatie van de doelstellingen van GDI-Vlaanderen.<br /><br />§ 2. De minister stelt een ontwerp van het GDI-plan en een ontwerp van het GDI-uitvoeringsplan op. Hij raadpleegt daarover de stuurgroep, die zelf een ontwerp kan voorstellen. Het ontwerp van het GDI-plan en het ontwerp van het GDI-uitvoeringsplan worden goedgekeurd door de Vlaamse Regering. De Vlaamse Regering stelt de nadere regels vast voor het opstellen en goedkeuren van het ontwerp van het GDI-plan en van het GDI-uitvoeringsplan.
+...
 
 ## Afdeling II. Gezamenlijke aanmaak, bijwerking en financiering van geografische gegevensbronnen, geografische diensten en metagegevens, opgenomen in het GDI-plan en het GDI-uitvoeringsplan
 
@@ -70,7 +91,13 @@ Het agentschap is gemachtigd om, voor projecten die gepland zijn in het GDI-uitv
 
 ### ART. 12.
 
-De GDI bevat de volgende geografische gegevensbronnen, geografische diensten en metagegevens :<br />1° die welke beheerd worden door de deelnemers aan GDI-Vlaanderen en die vallen onder een van de categorieën, vermeld in de bijlage, die bij dit decreet is gevoegd;<br />2° die welke beheerd worden door de deelnemers aan GDI-Vlaanderen en waarvan de stuurgroep heeft vastgesteld dat de onderlinge uitwisseling ervan nodig is voor het uitvoeren van taken van algemeen belang of het uitoefenen van verantwoordelijkheden of functies of het verlenen van openbare diensten met betrekking tot het milieu;<br />3° die welke beheerd worden door een derde partij of een instantie die geen deelnemer aan GDI-Vlaanderen is en waarvan de stuurgroep heeft beslist dat de toevoeging aan de GDI nodig is, voor zover een overeenkomst als vermeld in artikel 13, § 2, die toevoeging mogelijk maakt;<br />4° die welke, ter uitvoering van een overeenkomst als vermeld in artikel 11, gezamenlijk zijn aangemaakt.<br /><br />De Vlaamse Regering past de bijlage aan volgens de wijzigingen die worden aangebracht aan de INSPIRE-richtlijn.
+De GDI bevat de volgende geografische gegevensbronnen, geografische diensten en metagegevens :<br>
+1° die welke beheerd worden door de deelnemers aan GDI-Vlaanderen en die vallen onder een van de categorieën, vermeld in de bijlage, die bij dit decreet is gevoegd;<br>
+2° die welke beheerd worden door de deelnemers aan GDI-Vlaanderen en waarvan het stuurorgaan Vlaams Informatie- en ICT-beleid heeft vastgesteld dat de onderlinge uitwisseling ervan nodig is voor het uitvoeren van taken van algemeen belang of het uitoefenen van verantwoordelijkheden of functies of het verlenen van openbare diensten met betrekking tot het milieu;<br>
+3° die welke beheerd worden door een derde partij of een instantie die geen deelnemer aan GDI-Vlaanderen is en waarvan het stuurorgaan Vlaams Informatie- en ICT-beleid heeft beslist dat de toevoeging aan de GDI nodig is, voor zover een overeenkomst als vermeld in artikel 13, § 2, die toevoeging mogelijk maakt;<br>
+4° die welke, ter uitvoering van een overeenkomst als vermeld in artikel 11, gezamenlijk zijn aangemaakt.<br>
+<br>
+De Vlaamse Regering past de bijlage aan volgens de wijzigingen die worden aangebracht aan de INSPIRE-richtlijn.
 
 ## Afdeling II. Verplichtingen van de deelnemers en het agentschap met betrekking tot de GDI
 
@@ -78,13 +105,28 @@ De GDI bevat de volgende geografische gegevensbronnen, geografische diensten en 
 
 ### ART. 13.
 
-§ 1. De deelnemers aan GDI-Vlaanderen voegen de geografische gegevensbronnen, geografische diensten en metagegevens, vermeld in artikel 12, eerste lid, 1° en 2°, die ze beheren, aan de GDI toe overeenkomstig de richtlijnen die zijn vastgesteld door de stuurgroep.<br /><br />§ 2. Het agentschap is gemachtigd om, in naam en voor rekening van het Vlaamse Gewest, met instanties die geen deelnemer aan GDI-Vlaanderen zijn en met derde partijen, overeenkomsten te sluiten om de toevoeging aan de GDI van de geografische gegevensbronnen, geografische diensten en metagegevens die zij beheren, mogelijk te maken.<br /><br />Het agentschap kan die overeenkomsten pas sluiten nadat de stuurgroep heeft vastgesteld dat de toevoeging van de desbetreffende geografische gegevensbronnen, geografische diensten en metagegevens nodig is voor het uitvoeren van taken van algemeen belang, of voor het uitoefenen van verantwoordelijkheden of functies of het verlenen van openbare diensten met betrekking tot het milieu.<br /><br />De geografische gegevensbronnen, geografische diensten en metagegevens waarop de overeenkomsten betrekking hebben, worden door liet agentschap toegevoegd aan de GDI, overeenkomstig de richtlijnen die zijn vastgesteld door de stuurgroep.
+§ 1. De deelnemers aan GDI-Vlaanderen voegen de geografische gegevensbronnen, geografische diensten en metagegevens, vermeld in artikel 12, eerste lid, 1° en 2°, die ze beheren, aan de GDI toe overeenkomstig de richtlijnen die zijn vastgesteld door het stuurorgaan Vlaams Informatie- en ICT-beleid.<br>
+<br>
+§ 2. Het agentschap is gemachtigd om, in naam en voor rekening van het Vlaamse Gewest, met instanties die geen deelnemer aan GDI-Vlaanderen zijn en met derde partijen, overeenkomsten te sluiten om de toevoeging aan de GDI van de geografische gegevensbronnen, geografische diensten en metagegevens die zij beheren, mogelijk te maken.<br>
+<br>
+Het agentschap kan die overeenkomsten pas sluiten nadat het stuurorgaan Vlaams Informatie- en ICT-beleid heeft vastgesteld dat de toevoeging van de desbetreffende geografische gegevensbronnen, geografische diensten en metagegevens nodig is voor het uitvoeren van taken van algemeen belang, of voor het uitoefenen van verantwoordelijkheden of functies of het verlenen van openbare diensten met betrekking tot het milieu.<br>
+<br>
+De geografische gegevensbronnen, geografische diensten en metagegevens waarop de overeenkomsten betrekking hebben, worden door liet agentschap toegevoegd aan de GDI, overeenkomstig de richtlijnen die zijn vastgesteld door het stuurorgaan Vlaams Informatie- en ICT-beleid.
 
 ## Onderafdeling II. Opstellen van metagegevens
 
 ### ART. 14.
 
-De deelnemers aan GDI-Vlaanderen stellen metagegevens op voor de geografische gegevensbronnen en geografische diensten, vermeld in artikel 12, eerste lid, 1° en 2°, die ze beheren, en werken ze bij.<br /><br />De stuurgroep stelt in overeenstemming met de uitvoeringsbepalingen die de Europese Commissie ter uitvoering van artikel 5 van de INSPIRE-richtlijn heeft uitgevaardigd, de nadere regels vast voor het opstellen van de metagegevens. Ze bepaalt eveneens op welke elementen die metagegevens betrekking hebben. Het gaat minstens om :<br />1° de overeenstemming van de geografische gegevensbronnen met de uitvoeringsbepalingen, uitgevaardigd door de Europese Commissie ter uitvoering van de INSPIRE-richtlijn;<br />2° de voorwaarden voor de toegang tot en het gebruik van verzamelingen van geografische gegevens en geografische diensten en de eventuele daarmee samenhangende vergoedingen;<br />3° de kwaliteit en de geldigheid van de geografische gegevensbronnen;<br />4° de instanties die verantwoordelijk zijn voor de oprichting, het beheer, het onderhoud en de verspreiding van de verzamelingen van geografische gegevensbronnen en de geografische diensten;<br />5° de volgens artikel 31 vastgestelde beperkingen van de publieke toegang en de motieven daarvoor.<br /><br />Het agentschap biedt de deelnemers aan GDI-Vlaanderen de nodige ondersteuning voor het opstellen en bijwerken van metagegevens in overeenstemming met het tweede lid, zodat die metagegevens van volledige en toereikende kwaliteit zijn om de geografische gegevensbronnen en geografische diensten, vermeld in artikel 12, eerste lid, 1° en 2°, te kunnen opzoeken, inventariseren en gebruiken.
+De deelnemers aan GDI-Vlaanderen stellen metagegevens op voor de geografische gegevensbronnen en geografische diensten, vermeld in artikel 12, eerste lid, 1° en 2°, die ze beheren, en werken ze bij.<br>
+<br>
+Het stuurorgaan Vlaams Informatie- en ICT-beleid stelt in overeenstemming met de uitvoeringsbepalingen die de Europese Commissie ter uitvoering van artikel 5 van de INSPIRE-richtlijn heeft uitgevaardigd, de nadere regels vast voor het opstellen van de metagegevens. Ze bepaalt eveneens op welke elementen die metagegevens betrekking hebben. Het gaat minstens om :<br>
+1° de overeenstemming van de geografische gegevensbronnen met de uitvoeringsbepalingen, uitgevaardigd door de Europese Commissie ter uitvoering van de INSPIRE-richtlijn;<br>
+2° de voorwaarden voor de toegang tot en het gebruik van verzamelingen van geografische gegevens en geografische diensten en de eventuele daarmee samenhangende vergoedingen;<br>
+3° de kwaliteit en de geldigheid van de geografische gegevensbronnen;<br>
+4° de instanties die verantwoordelijk zijn voor de oprichting, het beheer, het onderhoud en de verspreiding van de verzamelingen van geografische gegevensbronnen en de geografische diensten;<br>
+5° de volgens artikel 31 vastgestelde beperkingen van de publieke toegang en de motieven daarvoor.<br>
+<br>
+Het agentschap biedt de deelnemers aan GDI-Vlaanderen de nodige ondersteuning voor het opstellen en bijwerken van metagegevens in overeenstemming met het tweede lid, zodat die metagegevens van volledige en toereikende kwaliteit zijn om de geografische gegevensbronnen en geografische diensten, vermeld in artikel 12, eerste lid, 1° en 2°, te kunnen opzoeken, inventariseren en gebruiken.
 
 ## Afdeling III. Toegang tot en gebruik van de GDI
 
@@ -92,7 +134,9 @@ De deelnemers aan GDI-Vlaanderen stellen metagegevens op voor de geografische ge
 
 ### ART. 15.
 
-De deelnemers aan GDI-Vlaanderen hebben toegang tot de geografische gegevensbronnen, geografische diensten en metagegevens die toegevoegd zijn aan de GDI. Ze kunnen de geografische gegevensbronnen en geografische diensten gebruiken voor de vervulling van taken van algemeen belang, met inbegrip van de uitoefening van verantwoordelijkheden of functies, of het verlenen van openbare diensten met betrekking tot het milieu, tenzij die toegang beperkt is overeenkomstig artikel 18.<br /><br />De Vlaamse Regering stelt, op voorstel van de stuurgroep, de nadere toegangs- en gebruiksregels vast. Die regels voorkomen in het bijzonder dat er op de plaats van gebruik praktische belemmeringen voor de uitwisseling ontstaan. Indien nodig houdt ze daarbij rekening met de gebruiksvoorwaarden die vastgesteld zijn voor de geografische gegevensbronnen en geografische diensten, vermeld in artikel 12, eerste lid, 3° en 4°.
+De deelnemers aan GDI-Vlaanderen hebben toegang tot de geografische gegevensbronnen, geografische diensten en metagegevens die toegevoegd zijn aan de GDI. Ze kunnen de geografische gegevensbronnen en geografische diensten gebruiken voor de vervulling van taken van algemeen belang, met inbegrip van de uitoefening van verantwoordelijkheden of functies, of het verlenen van openbare diensten met betrekking tot het milieu, tenzij die toegang beperkt is overeenkomstig artikel 18.<br>
+<br>
+De Vlaamse Regering stelt, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, de nadere toegangs- en gebruiksregels vast. Die regels voorkomen in het bijzonder dat er op de plaats van gebruik praktische belemmeringen voor de uitwisseling ontstaan. Indien nodig houdt ze daarbij rekening met de gebruiksvoorwaarden die vastgesteld zijn voor de geografische gegevensbronnen en geografische diensten, vermeld in artikel 12, eerste lid, 3° en 4°.
 
 ## Onderafdeling II. Toegang voor en gebruik door instanties die geen deelnemer zijn
 
@@ -110,13 +154,28 @@ De instellingen en organen van de Europese Gemeenschap en iedere natuurlijke per
 
 ### ART. 18.
 
-§ 1. De Vlaamse Regering kan, op voorstel van de stuurgroep, de toegang tot de geografische gegevensbronnen en geografische diensten die toegevoegd zijn aan de GDI, beperken, voor zover en in de mate dat deze toegang een gevaar oplevert voor de volgende aangelegenheden :<br />1° het vertrouwelijke karakter van de internationale betrekkingen van het Vlaamse Gewest of de Vlaamse Gemeenschap en van de betrekkingen van het Vlaamse Gewest of de Vlaamse Gemeenschap met de supranationale instellingen, met de Federale Staat en met andere gemeenschappen en gewesten;<br />2° de openbare veiligheid en de nationale defensie;<br />3° de rechtspleging in een strafrechtelijk, burgerlijk, administratief of sociaalrechtelijk rechtsgeding.<br /><br />§ 2. Wanneer de geografische gegevens informatie van geïdentificeerde of identificeerbare natuurlijke personen bevatten, moeten deze gegevens als persoonsgegevens in de zin van artikel 1, § 1, van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens worden gekwalificeerd. De toegang tot die geografische persoonsgegevens gebeurt overeenkomstig artikelen 8 en 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br /><br />De toegang tot geografische persoonsgegevens door instanties wordt in ieder geval uitsluitend verleend voor zover de latere verwerking kadert binnen of verenigbaar is met de wettelijk of reglementair bepaalde taken van de instantie in kwestie die de toegang tot of het gebruik van de betreffende gegevens vraagt.
+§ 1. De Vlaamse Regering kan, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, de toegang tot de geografische gegevensbronnen en geografische diensten die toegevoegd zijn aan de GDI, beperken, voor zover en in de mate dat deze toegang een gevaar oplevert voor de volgende aangelegenheden :<br>
+1° het vertrouwelijke karakter van de internationale betrekkingen van het Vlaamse Gewest of de Vlaamse Gemeenschap en van de betrekkingen van het Vlaamse Gewest of de Vlaamse Gemeenschap met de supranationale instellingen, met de Federale Staat en met andere gemeenschappen en gewesten;<br>
+2° de openbare veiligheid en de nationale defensie;<br>
+3° de rechtspleging in een strafrechtelijk, burgerlijk, administratief of sociaalrechtelijk rechtsgeding.<br>
+<br>
+§ 2. Wanneer de geografische gegevens informatie van geïdentificeerde of identificeerbare natuurlijke personen bevatten, moeten deze gegevens als persoonsgegevens in de zin van artikel 1, § 1, van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens worden gekwalificeerd. De toegang tot die geografische persoonsgegevens gebeurt overeenkomstig artikelen 8 en 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br>
+<br>
+De toegang tot geografische persoonsgegevens door instanties wordt in ieder geval uitsluitend verleend voor zover de latere verwerking kadert binnen of verenigbaar is met de wettelijk of reglementair bepaalde taken van de instantie in kwestie die de toegang tot of het gebruik van de betreffende gegevens vraagt.
 
 ## Onderafdeling V. Vergoedingen
 
 ### ART. 19.
 
-§ 1. Het gebruik van geografische gegevensbronnen, en geografische diensten die toegevoegd zijn aan de GDI, is kosteloos. Die kosteloosheid geldt onder meer in de volgende gevallen :<br />1° als de geografische gegevensbronnen, andere dan grootschalige referentiegegevens als vermeld in artikel 2, 2°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB), en geografische diensten worden gebruikt door deelnemers aan GDI-Vlaanderen, met het oog op de vervulling van taken van algemeen belang, met inbegrip van de uitoefening van verantwoordelijkheden of functies of het verlenen van openbare diensten met betrekking tot het milieu;<br />2° als de geografische gegevensbronnen en geografische diensten nodig zijn en worden gebruikt ter vervulling van de verplichtingen die België heeft met betrekking tot verslaglegging krachtens de Gemeenschapswetgeving inzake het milieu.<br /><br />§ 2. Buiten de gevallen, vermeld in § 1, 1° en 2°, kunnen de deelnemers aan GDI-Vlaanderen, in afwijking van § 1, het gebruik van de aan de GDI toegevoegde geografische gegevensbronnen en geografische diensten die ze beheren, afhankelijk maken van de betaling van een vergoeding. Ze plegen hierover vooraf overleg met de stuurgroep.<br /><br />De vaststelling van een vergoeding voor het gebruik van de aan de GDI toegevoegde grootschalige referentiegegevens, vermeld in artikel 2, 2°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB), gebeurt overeenkomstig de bepalingen van het voormelde decreet.<br /><br />De vergoedingen, vermeld in het eerste en het tweede lid, blijven in elk geval beperkt tot het minimum dat nodig is om de noodzakelijke kwaliteit en beschikbaarheid van de geografische gegevensbronnen en geografische diensten te garanderen, eventueel vermeerderd met een redelijk rendement op de investering, in voorkomend geval met inachtneming van de vereisten voor zelffinanciering van de deelnemer aan GDI-Vlaanderen die de geografische gegevensbronnen en geografische diensten verstrekt. De Vlaamse Regering stelt de nadere regels vast voor de vergoedingsregeling, zonder evenwel de vergoeding zelf te bepalen.
+§ 1. Het gebruik van geografische gegevensbronnen, en geografische diensten die toegevoegd zijn aan de GDI, is kosteloos. Die kosteloosheid geldt onder meer in de volgende gevallen :<br>
+1° als de geografische gegevensbronnen, andere dan grootschalige referentiegegevens als vermeld in artikel 2, 2°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB), en geografische diensten worden gebruikt door deelnemers aan GDI-Vlaanderen, met het oog op de vervulling van taken van algemeen belang, met inbegrip van de uitoefening van verantwoordelijkheden of functies of het verlenen van openbare diensten met betrekking tot het milieu;<br>
+2° als de geografische gegevensbronnen en geografische diensten nodig zijn en worden gebruikt ter vervulling van de verplichtingen die België heeft met betrekking tot verslaglegging krachtens de Gemeenschapswetgeving inzake het milieu.<br>
+<br>
+§ 2. Buiten de gevallen, vermeld in § 1, 1° en 2°, kunnen de deelnemers aan GDI-Vlaanderen, in afwijking van § 1, het gebruik van de aan de GDI toegevoegde geografische gegevensbronnen en geografische diensten die ze beheren, afhankelijk maken van de betaling van een vergoeding. Ze plegen hierover vooraf overleg met het stuurorgaan Vlaams Informatie- en ICT-beleid.<br>
+<br>
+De vaststelling van een vergoeding voor het gebruik van de aan de GDI toegevoegde grootschalige referentiegegevens, vermeld in artikel 2, 2°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB), gebeurt overeenkomstig de bepalingen van het voormelde decreet.<br>
+<br>
+De vergoedingen, vermeld in het eerste en het tweede lid, blijven in elk geval beperkt tot het minimum dat nodig is om de noodzakelijke kwaliteit en beschikbaarheid van de geografische gegevensbronnen en geografische diensten te garanderen, eventueel vermeerderd met een redelijk rendement op de investering, in voorkomend geval met inachtneming van de vereisten voor zelffinanciering van de deelnemer aan GDI-Vlaanderen die de geografische gegevensbronnen en geografische diensten verstrekt. De Vlaamse Regering stelt de nadere regels vast voor de vergoedingsregeling, zonder evenwel de vergoeding zelf te bepalen.
 
 ## Afdeling IV. Financiering van de GDI
 
@@ -130,19 +189,19 @@ De uitbouw en de exploitatie van de GDI worden gefinancierd door :<br />1° een 
 
 ### ART. 21.
 
-Voor de toepassing van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, wordt elke authentieke geografische gegevensbron als vermeld in artikel 22, beschouwd als een authentieke gegevensbron als vermeld in artikel 2, 2°, van voormeld decreet.
+...
 
 ## Afdeling II. [... (opgeh. decr. 23 december 2016, art. 25, I: 26 september 2017)]
 
 ### ART. 22.
 
-Een geografische gegevensbron als vermeld in artikel 12, eerste lid, 1°, 2° en 4°, wordt, op voorstel van de stuurgroep, door de Vlaamse Regering erkend als een authentieke geografische gegevensbron voor zover ze voldoet aan de volgende voorwaarden :<br />1° ze biedt voldoende kwaliteitsgaranties in verband met actualiteit, nauwkeurigheid en volledigheid;<br />2° ze is beschreven door middel van metagegevens die in overeenstemming zijn met de regels die de stuurgroep overeenkomstig artikel 14 heeft opgesteld;<br />3° ze is raadpleegbaar via een raadpleegdienst;<br />4° ze is overdraagbaar via een overdrachtdienst;<br />5° ze is geharmoniseerd overeenkomstig de technische voorschriften, vermeld in artikel 25.<br /><br />Met behoud van de toepassing van het eerste lid, kan de Vlaamse Regering extra voorwaarden bepalen waaraan een geografische gegevensbron moet voldoen om als authentieke geografische gegevensbron erkend te worden.
+...
 
 ## Afdeling III. [... (opgeh. decr. 23 december 2016, art. 25, I: 26 september 2017)]
 
 ### ART. 23.
 
-De Vlaamse Regering duidt, op voorstel van de stuurgroep, aan welke van de geografische gegevensbronnen, vermeld in artikel 12, eerste lid, 2° en 4°, zullen worden erkend als authentieke geografische gegevensbronnen. Ze bepaalt eveneens de wijze waarop de aanpassingen die noodzakelijk zijn om te evolueren naar een authentieke geografische gegevensbron, worden gefinancierd.
+...
 
 ## Afdeling IV. Verplicht gebruik van authentieke geografische gegevensbronnen en aangeduide gegevensbronnen
 
@@ -154,7 +213,14 @@ Bij het uitvoeren van taken van algemeen belang, met inbegrip van de uitoefening
 
 ### ART. 25.
 
-De stuurgroep stelt, op voorstel van het agentschap, de technische voorschriften vast voor de interoperabiliteit van geografische diensten en, waar mogelijk, voor de harmonisering van geografische gegevensbronnen die aan de GDI zijn toegevoegd. Deze technische voorschriften zijn in overeenstemming met de uitvoeringsbepalingen die de Europese Commissie in uitvoering van hoofdstuk III van de INSPIRE-richtlijn heeft uitgevaardigd.<br /><br />De deelnemers aan GDI-Vlaanderen brengen de geografische gegevensbronnen en de desbetreffende geografische diensten, vermeld in artikel 12, 1°, 2° en 4°, in overeenstemming met deze technische voorschriften binnen de termijnen die verstrijken op de volgende dagen :<br />1° wat betreft de geografische gegevensbronnen, vermeld in artikel 12, eerste lid, 1°, waarvan de geografische gegevens werden verzameld na de dag waarop de uitvoeringsbepalingen, vermeld in het eerste lid, in werking treden, uiterlijk twee jaar na die dag;<br />2° wat betreft de geografische gegevensbronnen, vermeld in artikel 12, eerste lid, 1°, die grondig werden geherstructureerd na de dag waarop de uitvoeringsbepalingen, vermeld in het eerste lid, in werking treden, uiterlijk twee jaar na die dag;<br />3° wat betreft de overige geografische gegevensbronnen, vermeld in artikel 12, eerste lid, 1°, en de geografische gegevensbronnen, vermeld in artikel 12, eerste lid. 2° en 4°, uiterlijk zeven jaar na de dag waarop de uitvoeringsbepalingen. vermeld in het eerste lid, in werking treden.<br /><br />Het agentschap maakt alle informatie die nodig is om te voldoen aan deze technische voorschriften algemeen bekend.
+Het stuurorgaan Vlaams Informatie- en ICT-beleid stelt, op voorstel van het agentschap, de technische voorschriften vast voor de interoperabiliteit van geografische diensten en, waar mogelijk, voor de harmonisering van geografische gegevensbronnen die aan de GDI zijn toegevoegd. Deze technische voorschriften zijn in overeenstemming met de uitvoeringsbepalingen die de Europese Commissie in uitvoering van hoofdstuk III van de INSPIRE-richtlijn heeft uitgevaardigd.<br>
+<br>
+De deelnemers aan GDI-Vlaanderen brengen de geografische gegevensbronnen en de desbetreffende geografische diensten, vermeld in artikel 12, 1°, 2° en 4°, in overeenstemming met deze technische voorschriften binnen de termijnen die verstrijken op de volgende dagen :<br>
+1° wat betreft de geografische gegevensbronnen, vermeld in artikel 12, eerste lid, 1°, waarvan de geografische gegevens werden verzameld na de dag waarop de uitvoeringsbepalingen, vermeld in het eerste lid, in werking treden, uiterlijk twee jaar na die dag;<br>
+2° wat betreft de geografische gegevensbronnen, vermeld in artikel 12, eerste lid, 1°, die grondig werden geherstructureerd na de dag waarop de uitvoeringsbepalingen, vermeld in het eerste lid, in werking treden, uiterlijk twee jaar na die dag;<br>
+3° wat betreft de overige geografische gegevensbronnen, vermeld in artikel 12, eerste lid, 1°, en de geografische gegevensbronnen, vermeld in artikel 12, eerste lid. 2° en 4°, uiterlijk zeven jaar na de dag waarop de uitvoeringsbepalingen. vermeld in het eerste lid, in werking treden.<br>
+<br>
+Het agentschap maakt alle informatie die nodig is om te voldoen aan deze technische voorschriften algemeen bekend.
 
 ## HOOFDSTUK VII. Netwerkdiensten
 
@@ -162,13 +228,37 @@ De stuurgroep stelt, op voorstel van het agentschap, de technische voorschriften
 
 ### ART. 26.
 
-§ 1. Het agentschap is belast met de coördinatie van zowel de oprichting als de exploitatie van een netwerk van de volgende geografische diensten met betrekking tot de geografische gegevensbronnen en geografische diensten die toegevoegd zijn aan de GDI :<br />1° zoekdiensten;<br />2° raadpleegdiensten;<br />3° overdrachtdiensten;<br />4° verwerkingsdiensten.<br /><br />§ 2. De deelnemers aan GDI-Vlaanderen ontwikkelen en bieden de volgende geografische diensten aan betreffende de authentieke geografische gegevensbronnen die ze beheren, tenzij in een overeenkomst tussen het agentschap en de deelnemers bepaald wordt dat het agentschap hiervoor instaat :<br />1° raadpleegdiensten;<br />2° overdrachtdiensten die het mogelijk maken om de authentieke geografische gegevensbronnen rechtstreeks ter beschikking te hebben;<br />3° verwerkingsdiensten.<br /><br />Met behoud van de toepassing van wat bepaald is in een overeenkomst als vermeld in het eerste lid, ontwikkelt en biedt het agentschap de volgende geografische diensten aan met betrekking tot de authentieke geografische gegevensbronnen en de overige geografische gegevensbronnen :<br />1° zoekdiensten;<br />2° overdrachtdiensten om geografische gegevensbronnen geheel of gedeeltelijk te downloaden;<br />3° de door de Vlaamse Regering aangeduide verwerkingsdiensten die algemeen bruikbaar zijn.<br /><br />De deelnemers en, in voorkomend geval, het agentschap zien erop toe dat alle voornoemde geografische diensten rekening houden met de relevante gebruikerseisen en gemakkelijk bruikbaar zijn door en beschikbaar voor het publiek. De stuurgroep stelt met dat doel algemene richtlijnen op. Het agentschap maakt die richtlijnen algemeen bekend, en houdt toezicht op de correcte toepassing ervan.<br /><br />§ 3. De stuurgroep stelt, op voorstel van het agentschap, de zoekcriteria vast die de zoekdiensten, vermeld in § 1, 1°, moeten omvatten. Ze omvatten minstens de zoekcriteria, vermeld in artikel 11, tweede lid, van de INSPIRE-richtlijn.<br /><br />§ 4. De geografische diensten, vermeld in § 1, moeten op zodanige wijze met elkaar worden gecombineerd dat ze kunnen worden geëxploiteerd conform met de uitvoeringsbepalingen uitgevaardigd door de Europese Commissie in uitvoering van hoofdstuk III van de INSPIRE-richtlijn.
+§ 1. Het agentschap is belast met de coördinatie van zowel de oprichting als de exploitatie van een netwerk van de volgende geografische diensten met betrekking tot de geografische gegevensbronnen en geografische diensten die toegevoegd zijn aan de GDI :<br>
+1° zoekdiensten;<br>
+2° raadpleegdiensten;<br>
+3° overdrachtdiensten;<br>
+4° verwerkingsdiensten.<br>
+<br>
+§ 2. De deelnemers aan GDI-Vlaanderen ontwikkelen en bieden de volgende geografische diensten aan betreffende de authentieke geografische gegevensbronnen die ze beheren, tenzij in een overeenkomst tussen het agentschap en de deelnemers bepaald wordt dat het agentschap hiervoor instaat :<br>
+1° raadpleegdiensten;<br>
+2° overdrachtdiensten die het mogelijk maken om de authentieke geografische gegevensbronnen rechtstreeks ter beschikking te hebben;<br>
+3° verwerkingsdiensten.<br>
+<br>
+Met behoud van de toepassing van wat bepaald is in een overeenkomst als vermeld in het eerste lid, ontwikkelt en biedt het agentschap de volgende geografische diensten aan met betrekking tot de authentieke geografische gegevensbronnen en de overige geografische gegevensbronnen :<br>
+1° zoekdiensten;<br>
+2° overdrachtdiensten om geografische gegevensbronnen geheel of gedeeltelijk te downloaden;<br>
+3° de door de Vlaamse Regering aangeduide verwerkingsdiensten die algemeen bruikbaar zijn.<br>
+<br>
+De deelnemers en, in voorkomend geval, het agentschap zien erop toe dat alle voornoemde geografische diensten rekening houden met de relevante gebruikerseisen en gemakkelijk bruikbaar zijn door en beschikbaar voor het publiek. Het stuurorgaan Vlaams Informatie- en ICT-beleid stelt met dat doel algemene richtlijnen op. Het agentschap maakt die richtlijnen algemeen bekend, en houdt toezicht op de correcte toepassing ervan.<br>
+<br>
+§ 3. Het stuurorgaan Vlaams Informatie- en ICT-beleid stelt, op voorstel van het agentschap, de zoekcriteria vast die de zoekdiensten, vermeld in § 1, 1°, moeten omvatten. Ze omvatten minstens de zoekcriteria, vermeld in artikel 11, tweede lid, van de INSPIRE-richtlijn.<br>
+<br>
+§ 4. De geografische diensten, vermeld in § 1, moeten op zodanige wijze met elkaar worden gecombineerd dat ze kunnen worden geëxploiteerd conform met de uitvoeringsbepalingen uitgevaardigd door de Europese Commissie in uitvoering van hoofdstuk III van de INSPIRE-richtlijn.
 
 ## Afdeling II. Koppeling aan het netwerk van geografische gegevensbronnen en geografische diensten
 
 ### ART. 27.
 
-§ 1. De stuurgroep stelt de technische voorwaarden vast waaronder een koppeling van geografische gegevensbronnen en geografische diensten, met het netwerk, vermeld in artikel 26, mogelijk is.<br /><br />§ 2. De deelnemers aan GDI-Vlaanderen koppelen de aan de GDI toegevoegde geografische gegevensbronnen en geografische diensten die ze beheren met het netwerk, vermeld in artikel 26.<br /><br />Het agentschap biedt de deelnemers aan GDI-Vlaanderen de nodige ondersteuning opdat ze kunnen voldoen aan de technische voorwaarden, vermeld in § 1.
+§ 1. Het stuurorgaan Vlaams Informatie- en ICT-beleid stelt de technische voorwaarden vast waaronder een koppeling van geografische gegevensbronnen en geografische diensten, met het netwerk, vermeld in artikel 26, mogelijk is.<br>
+<br>
+§ 2. De deelnemers aan GDI-Vlaanderen koppelen de aan de GDI toegevoegde geografische gegevensbronnen en geografische diensten die ze beheren met het netwerk, vermeld in artikel 26.<br>
+<br>
+Het agentschap biedt de deelnemers aan GDI-Vlaanderen de nodige ondersteuning opdat ze kunnen voldoen aan de technische voorwaarden, vermeld in § 1.
 
 ### ART. 28.
 
@@ -206,7 +296,17 @@ Het gebruik van de geografische diensten, vermeld in artikel 26, § 1, 1° en 2�
 
 ### ART. 34.
 
-§ 1. Het agentschap ontwikkelt en beheert een centrale e-commercedienst met betrekking tot de geografische gegevensbronnen en geografische diensten die overeenkomstig de bepalingen van dit decreet toegankelijk zijn.<br /><br />Die e-commercedienst heeft zowel betrekking op de geografische gegevensbronnen en geografische diensten die door middel van de overdrachtdiensten, vermeld in artikel 26, § 1, 3°, kosteloos ter beschikking worden gesteld, als op de geografische gegevensbronnen en geografische diensten die tegen een vergoeding ter beschikking worden gesteld.<br /><br />§ 2. De deelnemer aan GDI-Vlaanderen die het gebruik van overdrachtdiensten, vermeld in artikel 26, § 1, 3°, afhankelijk heeft gemaakt van de betaling van een vergoeding, stelt de desbetreffende geografische gegevensbronnen ter beschikking via eigen e-commercediensten of via de centrale e-commercedienst, vermeld in § 1.<br /><br />De deelnemer, vermeld in het eerste lid, die geen gebruik maakt van een eigen e-commercedienst, is het agentschap een bijdrage verschuldigd voor het gebruik van de centrale e-commercedienst.<br /><br />De Vlaamse Regering beslist, op voorstel van de stuurgroep, welke elementen in acht moeten worden genomen bij het vaststellen van de verschuldigde bijdrage. Het gaat minstens om de ontwikkelings- en beheerskosten die aan de centrale e-commercedienst verbonden zijn.<br /><br />De bijdrage, vermeld in het tweede lid, wordt door het agentschap in overleg met de stuurgroep vastgesteld.
+§ 1. Het agentschap ontwikkelt en beheert een centrale e-commercedienst met betrekking tot de geografische gegevensbronnen en geografische diensten die overeenkomstig de bepalingen van dit decreet toegankelijk zijn.<br>
+<br>
+Die e-commercedienst heeft zowel betrekking op de geografische gegevensbronnen en geografische diensten die door middel van de overdrachtdiensten, vermeld in artikel 26, § 1, 3°, kosteloos ter beschikking worden gesteld, als op de geografische gegevensbronnen en geografische diensten die tegen een vergoeding ter beschikking worden gesteld.<br>
+<br>
+§ 2. De deelnemer aan GDI-Vlaanderen die het gebruik van overdrachtdiensten, vermeld in artikel 26, § 1, 3°, afhankelijk heeft gemaakt van de betaling van een vergoeding, stelt de desbetreffende geografische gegevensbronnen ter beschikking via eigen e-commercediensten of via de centrale e-commercedienst, vermeld in § 1.<br>
+<br>
+De deelnemer, vermeld in het eerste lid, die geen gebruik maakt van een eigen e-commercedienst, is het agentschap een bijdrage verschuldigd voor het gebruik van de centrale e-commercedienst.<br>
+<br>
+De Vlaamse Regering beslist, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, welke elementen in acht moeten worden genomen bij het vaststellen van de verschuldigde bijdrage. Het gaat minstens om de ontwikkelings- en beheerskosten die aan de centrale e-commercedienst verbonden zijn.<br>
+<br>
+De bijdrage, vermeld in het tweede lid, wordt door het agentschap in overleg met het stuurorgaan Vlaams Informatie- en ICT-beleid vastgesteld.
 
 ## Afdeling IV. Koppeling met INSPIRE-geoportaal
 
