@@ -50,7 +50,19 @@ In geval van standaardvergoedingen voor het hergebruik van documenten in   het b
 
 ### ART. 8.
 
-<P>§ 1. De Vlaamse Regering bepaalt een of meerdere modellicenties met   voorwaarden voor hergebruik.<BR><BR>De modellicenties, vermeld in het eerste   lid, die aan specifieke licentieaanvragen kunnen worden aangepast, worden in   digitaal formaat beschikbaar gesteld en kunnen elektronisch worden   verwerkt.<BR><BR>§ 2. De voorwaarden voor hergebruik mogen de mogelijkheden van   hergebruik niet nodeloos beperken noch gebruikt worden om de mededinging aan   banden te leggen.<BR><BR>De voorwaarden voor hergebruik bevatten de toestemming   om de bestuursdocumenten in hun geheel of ten dele te hergebruiken op eender   welke wijze, in oorspronkelijke of in gewijzigde of bewerkte vorm, zonder   uitsluiting van enige categorieën van aanvragers, zonder beperkingen in de tijd   of in geografische draagwijdte van het hergebruik, tenzij het om juridische,   technische of zeer gegronde redenen niet mogelijk is.<BR><BR>§ 3. In geval van   hergebruik als vermeld in artikel 3, derde lid, hanteert de instantie een van de   modellicenties, vermeld in paragraaf 1.<BR><BR>In afwijking van het eerste lid   kan de instantie, met behoud van toepassing van artikel 8, § 2, zonder   motivering de toestemming geven voor onvoorwaardelijk hergebruik of kan de   instantie, mits motivering, andere voorwaarden voor het hergebruik   bepalen.<BR><BR>§ 4. In afwijking van paragraaf 3, is het de stuurgroep   GDI-Vlaanderen, vermeld in artikel 7, eerste lid, van het GDI-decreet van 20   februari 2009, en niet de deelnemers aan GDI-Vlaanderen, die de toestemming voor   het onvoorwaardelijk hergebruik geeft of de voorwaarden bepaalt voor het   hergebruik van geografische informatie.</P>
+<p>§ 1. De Vlaamse Regering bepaalt een of meerdere modellicenties met voorwaarden voor hergebruik.<br>
+<br>
+De modellicenties, vermeld in het eerste lid, die aan specifieke licentieaanvragen kunnen worden aangepast, worden in digitaal formaat beschikbaar gesteld en kunnen elektronisch worden verwerkt.<br>
+<br>
+§ 2. De voorwaarden voor hergebruik mogen de mogelijkheden van hergebruik niet nodeloos beperken noch gebruikt worden om de mededinging aan banden te leggen.<br>
+<br>
+De voorwaarden voor hergebruik bevatten de toestemming om de bestuursdocumenten in hun geheel of ten dele te hergebruiken op eender welke wijze, in oorspronkelijke of in gewijzigde of bewerkte vorm, zonder uitsluiting van enige categorieën van aanvragers, zonder beperkingen in de tijd of in geografische draagwijdte van het hergebruik, tenzij het om juridische, technische of zeer gegronde redenen niet mogelijk is.<br>
+<br>
+§ 3. In geval van hergebruik als vermeld in artikel 3, derde lid, hanteert de instantie een van de modellicenties, vermeld in paragraaf 1.<br>
+<br>
+In afwijking van het eerste lid kan de instantie, met behoud van toepassing van artikel 8, § 2, zonder motivering de toestemming geven voor onvoorwaardelijk hergebruik of kan de instantie, mits motivering, andere voorwaarden voor het hergebruik bepalen. De motivering wordt voorafgaand aan het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, ter goedkeuring voorgelegd.<br>
+<br>
+§ 4. ...</p>
 
 ### ART. 9.
 
