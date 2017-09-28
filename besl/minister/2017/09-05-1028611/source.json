@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028611,
+  "title": "Ministerieel besluit van 2017-09-05 tot bepaling van de aard van de investeringen die in aanmerking komen voor een lening door een energiehuis",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028611/VolledigDocument?datum=2017-09-28",
+  "source_sha256": "b4bb2e79cb39495e9aa2595cb8fd465cad02acbcfe78f8d24ec1eb4bab3c934f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028611&param=informatie",
+  "as_of": "2017-09-28",
+  "made": "2017-09-05",
+  "gazette": "2017-09-18",
+  "numac": 2017013192,
+  "document_start": "2017-09-28",
+  "document_end": null,
+  "in_force": "2017-09-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-09-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
