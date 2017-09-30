@@ -2,16 +2,16 @@
   "codex_id": 1028100,
   "title": "Besluit van de Vlaamse Regering van 2017-02-17 betreffende nadere regels voor de milieueffectrapportage over projecten en voor de omgevingsveiligheidsrapportage",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028100/VolledigDocument?datum=2017-02-23",
-  "source_sha256": "cea10f93c7cc6f9ee5e86171801baa6e4ca56e2c6eb4a9e2769d3c7841280a26",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028100/VolledigDocument?datum=2017-09-30",
+  "source_sha256": "8c28cba13db9d3bc16804b88bc0f566d34c4446b7934350e5cabed64b6cdfb0b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028100&param=informatie",
-  "as_of": "2017-02-23",
+  "as_of": "2017-09-30",
   "made": "2017-02-17",
   "gazette": "2017-03-30",
   "numac": 2017011245,
   "document_start": "2017-02-23",
   "document_end": null,
-  "in_force": "2017-02-23",
-  "article_versions": 35,
-  "record_form": "consolidated version as in force on 2017-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2017-09-30",
+  "article_versions": 36,
+  "record_form": "consolidated version as in force on 2017-09-30; future article versions excluded; article text as the API gives it"
 }

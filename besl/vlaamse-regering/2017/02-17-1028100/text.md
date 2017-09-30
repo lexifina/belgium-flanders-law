@@ -539,6 +539,10 @@ In artikel 6, 1°, d), van het VLAREL van 19 november 2010, het laatst gewijzigd
 3° in punt b) worden de woorden "fauna en flora" vervangen door het woord "biodiversiteit";<br>
 4° punt f) wordt opgeheven.
 
+### ART 17.
+
+&nbsp;In artikel 103 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 1 maart 2013, wordt paragraaf 2 opgeheven.
+
 ### ART 18.
 
 In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 18 maart 2016, worden een artikel 103/4 en 103/5 ingevoegd, die luiden als volgt:<br>
