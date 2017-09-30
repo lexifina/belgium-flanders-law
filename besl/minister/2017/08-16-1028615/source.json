@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028615,
+  "title": "Ministerieel besluit van 2017-08-16 houdende vaststelling van het subsidieringsprogramma van de werken, vermeld in artikel 32duodecies van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging voor het eerste deelprogramma 2018",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028615/VolledigDocument?datum=2017-09-30",
+  "source_sha256": "111cb8ef0f27e45b462d88d9cab75409ea970afaae1faba4101b568bb7988945",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028615&param=informatie",
+  "as_of": "2017-09-30",
+  "made": "2017-08-16",
+  "gazette": "2017-09-20",
+  "numac": 2017020642,
+  "document_start": "2017-09-30",
+  "document_end": null,
+  "in_force": "2017-09-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-09-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
