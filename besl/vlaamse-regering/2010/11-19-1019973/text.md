@@ -120,12 +120,12 @@ a. het uitvoeren van akoestische onderzoeken, het opstellen en begeleiden van sa
 b. optioneel, het beproeven of controleren van apparaten en inrichtingen die bestemd zijn om het lawaai te dempen of op te slorpen;<br>
 2) trillingen, voor het uitvoeren van trillingsmetingen, het opstellen en begeleiden van saneringsplannen en het beproeven of controleren van apparaten en inrichtingen die trillingen kunnen veroorzaken, die bestemd zijn om trillingen te meten of de hinder ervan te verhelpen;<br>
 d) MER-deskundige : deskundige voor het opstellen van milieueffectrapporten als vermeld in titel IV van het decreet Milieubeleid, met betrekking tot een of meer van de volgende disciplines en deeldomeinen :<br>
-1) mens : toxicologie, psychosomatische aspecten, mobiliteit en ruimtelijke aspecten;<br>
+1) mens : gezondheid, mobiliteit en ruimtelijke aspecten;<br>
 2) biodiversiteit;<br>
 3) bodem : pedologie en geologie;<br>
 4) water : geohydrologie, oppervlakte- en afvalwater, en mariene waters;<br>
 5) lucht : geur en luchtverontreiniging;<br>
-6) licht, warmte en elektromagnetische golven;<br>
+6) ...<br>
 7) geluid en trillingen : geluid en trillingen;<br>
 8) klimaat;<br>
 9) landschap, bouwkundig erfgoed en archeologie : landschap, bouwkundig erfgoed en archeologie;<br>
@@ -542,11 +542,11 @@ Een aanvraag die onvolledig bevonden wordt en waaraan door de aanvrager binnen e
 2° voor de aanvragen tot erkenning als MER-deskundige als vermeld in artikel 6, 1°, d): aan de personeelsleden van het departement die deskundig zijn op het vlak van milieueffectrapportage.<br>
 Voor de volgende disciplines wordt een aanvullend advies gevraagd aan:<br>
 a) mens, deeldomeinen:<br>
-1) toxicologie: de afdeling Preventie van het Agentschap Zorg en Gezondheid;<br>
-2) psychosomatische aspecten: de afdeling Preventie van het Agentschap Zorg en Gezondheid;<br>
+1) gezondheid: de afdeling Preventie van het Agentschap Zorg en Gezondheid;<br>
+2) ...<br>
 3) mobiliteit: de afdeling Beleid, Mobiliteit en Verkeersveiligheid van het Departement Mobiliteit en Openbare Werken;<br>
 4) ruimtelijke aspecten: de personeelsleden van het departement die deskundig zijn op het gebied van ruimtelijke ordening;<br>
-b) fauna en flora: het Agentschap voor Natuur en Bos;<br>
+b) biodiversiteit: het Agentschap voor Natuur en Bos;<br>
 c) bodem: deeldomeinen:<br>
 1) pedologie: de personeelsleden van het departement die deskundig zijn op het vlak van bodembescherming, en aan de afdeling, bevoegd voor bodembeheer;<br>
 2) geologie: de personeelsleden van het departement die deskundig zijn op het vlak van natuurlijke rijkdommen, en aan de afdeling, bevoegd voor bodembeheer;<br>
@@ -557,7 +557,7 @@ d) water, deeldomeinen:<br>
 e) lucht, deeldomeinen:<br>
 1) geur: de personeelsleden van het departement die deskundig zijn op het vlak van luchtverontreiniging;<br>
 2) luchtverontreiniging: de personeelsleden van het departement die deskundig zijn op het vlak van luchtverontreiniging, en aan de afdeling, bevoegd voor het opvolgen van de luchtkwaliteit;<br>
-f) licht, warmte en elektromagnetische golven: de personeelsleden van het departement die deskundig zijn op het vlak van luchtverontreiniging;<br>
+f) ...<br>
 g) geluid en trillingen: de personeelsleden van het departement die deskundig zijn op het vlak van geluidshinder;<br>
 h) klimaat: de personeelsleden van het departement die deskundig zijn op het vlak van luchtverontreiniging;<br>
 i) landschap, bouwkundig erfgoed en archeologie: het agentschap Onroerend Erfgoed;<br>
@@ -1853,7 +1853,28 @@ Een milieudeskundige in de discipline lucht, erkend volgens titel II van het VLA
 
 ### ART. 103.
 
-§ 1. Een MER-deskundige die op de datum van de inwerkingtreding van dit   besluit erkend is in de discipline monumenten en landschappen en materiële   goederen in het algemeen of in de discipline onroerend erfgoed en materiële   goederen in het algemeen, is met toepassing van dit besluit erkend in de   discipline landschap, bouwkundig erfgoed en archeologie waarbij de erkenning   voor de deeldomeinen cultureel erfgoed en materiële goederen in het algemeen nu   geldt als erkenning voor de deeldomeinen bouwkundig erfgoed en archeologie en de   erkenning voor het deeldomein onroerend erfgoed nu geldt als erkenning voor het   deeldomein bouwkundig erfgoed.<BR><BR>§ 2. Een MER-deskundige die op de datum   van de inwerkingtreding van dit besluit erkend is in de discipline licht, warmte   en stralingen, is met toepassing van dit besluit erkend als een MER-deskundige   in de discipline licht, warmte en elektromagnetische golven.<BR><BR>§ 3. Een   MER-deskundige die op de datum van de inwerkingtreding van dit besluit erkend is   in de discipline water, deeldomein oppervlaktewater, is met toepassing van dit   besluit erkend als een MER-deskundige in de discipline water, deeldomein   oppervlakte- en afvalwater.<BR><BR>§ 4. Een MER-deskundige die op de datum van   de inwerkingtreding van dit besluit erkend is in de discipline lucht is met   toepassing van dit besluit erkend als een MER-deskundige in de discipline lucht,   deeldomeinen geur en luchtverontreiniging.<BR><BR>§ 4/1. Een MER-deskundige die   op de datum van de inwerkingtreding van dit besluit erkend is in de discipline   geluid en trillingen, is met toepassing van dit besluit erkend als   MER-deskundige in de discipline geluid en trillingen voor de deeldomeinen geluid   en trillingen. <BR><BR>§ 5. Een milieudeskundige die op de datum van de   inwerkingtreding van dit besluit erkend is in de discipline oppervlakte- en   grondwater of een laboratorium voor wateranalyse, dat op de datum van de   inwerkingtreding van dit besluit erkend is volgens het besluit van de Vlaamse   Regering van 29 juni 1994 tot vaststelling van de voorwaarden voor de erkenning   van laboratoria voor wateranalyse, is met toepassing van dit besluit erkend als   een laboratorium in de discipline water, deeldomeinen afvalwater,   oppervlaktewater, grondwater en drinkwater.<BR><BR>§ 6. Een milieudeskundige die   op de datum van de inwerkingtreding van dit besluit erkend is in de discipline   lucht is met toepassing van dit besluit erkend als een laboratorium in de   discipline lucht.<BR><BR>§ 7. Een milieudeskundige die op de datum van de   inwerkingtreding van dit besluit erkend is in de discipline bodem, deeldomein   bodembescherming, is met toepassing van dit besluit erkend als een laboratorium   in de discipline bodem, deeldomein bodembescherming.<BR><BR>§ 8. Een   milieudeskundige die op de datum van de inwerkingtreding van dit besluit erkend   is in de discipline geluid en trillingen, is met toepassing van dit besluit   erkend als milieudeskundige in de discipline geluid en trillingen voor de   deeldomeinen geluid en trillingen.<BR><BR>§ 9. Een milieudeskundige die op de   datum van de inwerkingtreding van dit besluit erkend is voor de code 1), a, mag   met toepassing van dit besluit ook geluidsplannen als vermeld in artikel   5.32.2.2bis, § 2, 4°, b), van titel II van het VLAREM, opmaken.<BR><BR>§ 10. Een   deskundige die op de datum van de inwerkingtreding van dit besluit erkend is als   deskundige voor het opstellen van omgevingsveiligheidsrapporten, is met   toepassing van dit besluit erkend als VR-deskundige voor het opstellen van   omgevings- en ruimtelijke veiligheidsrapporten. <BR><BR>
+§ 1. Een MER-deskundige die op de datum van de inwerkingtreding van dit besluit erkend is in de discipline monumenten en landschappen en materiële goederen in het algemeen of in de discipline onroerend erfgoed en materiële goederen in het algemeen, is met toepassing van dit besluit erkend in de discipline landschap, bouwkundig erfgoed en archeologie waarbij de erkenning voor de deeldomeinen cultureel erfgoed en materiële goederen in het algemeen nu geldt als erkenning voor de deeldomeinen bouwkundig erfgoed en archeologie en de erkenning voor het deeldomein onroerend erfgoed nu geldt als erkenning voor het deeldomein bouwkundig erfgoed.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Een MER-deskundige die op de datum van de inwerkingtreding van dit besluit erkend is in de discipline water, deeldomein oppervlaktewater, is met toepassing van dit besluit erkend als een MER-deskundige in de discipline water, deeldomein oppervlakte- en afvalwater.<br>
+<br>
+§ 4. Een MER-deskundige die op de datum van de inwerkingtreding van dit besluit erkend is in de discipline lucht is met toepassing van dit besluit erkend als een MER-deskundige in de discipline lucht, deeldomeinen geur en luchtverontreiniging.<br>
+<br>
+§ 4/1. Een MER-deskundige die op de datum van de inwerkingtreding van dit besluit erkend is in de discipline geluid en trillingen, is met toepassing van dit besluit erkend als MER-deskundige in de discipline geluid en trillingen voor de deeldomeinen geluid en trillingen.<br>
+<br>
+§ 5. Een milieudeskundige die op de datum van de inwerkingtreding van dit besluit erkend is in de discipline oppervlakte- en grondwater of een laboratorium voor wateranalyse, dat op de datum van de inwerkingtreding van dit besluit erkend is volgens het besluit van de Vlaamse Regering van 29 juni 1994 tot vaststelling van de voorwaarden voor de erkenning van laboratoria voor wateranalyse, is met toepassing van dit besluit erkend als een laboratorium in de discipline water, deeldomeinen afvalwater, oppervlaktewater, grondwater en drinkwater.<br>
+<br>
+§ 6. Een milieudeskundige die op de datum van de inwerkingtreding van dit besluit erkend is in de discipline lucht is met toepassing van dit besluit erkend als een laboratorium in de discipline lucht.<br>
+<br>
+§ 7. Een milieudeskundige die op de datum van de inwerkingtreding van dit besluit erkend is in de discipline bodem, deeldomein bodembescherming, is met toepassing van dit besluit erkend als een laboratorium in de discipline bodem, deeldomein bodembescherming.<br>
+<br>
+§ 8. Een milieudeskundige die op de datum van de inwerkingtreding van dit besluit erkend is in de discipline geluid en trillingen, is met toepassing van dit besluit erkend als milieudeskundige in de discipline geluid en trillingen voor de deeldomeinen geluid en trillingen.<br>
+<br>
+§ 9. Een milieudeskundige die op de datum van de inwerkingtreding van dit besluit erkend is voor de code 1), a, mag met toepassing van dit besluit ook geluidsplannen als vermeld in artikel 5.32.2.2bis, § 2, 4°, b), van titel II van het VLAREM, opmaken.<br>
+<br>
+§ 10. Een deskundige die op de datum van de inwerkingtreding van dit besluit erkend is als deskundige voor het opstellen van omgevingsveiligheidsrapporten, is met toepassing van dit besluit erkend als VR-deskundige voor het opstellen van omgevings- en ruimtelijke veiligheidsrapporten.<br>
+&nbsp;
 
 ### ART. 103/1.
 
@@ -3563,30 +3584,20 @@ b) een milieudeskundige in de discipline geluid en trillingen, deeldomein trilli
 7) berekenen van emissie- en immissieniveaus;<br>
 8) bronnen van trillingen.<br>
 9) beperken van trillingshinder;<br>
-2° De opleiding voor de MER-deskundige, vermeld in artikel 12, § 1, 3° bestaat uit minstens 60 uur per deeldomein of als er geen deeldomeinen zijn, per discipline, uitgezonderd voor de discipline licht, warmte en elektromagnetische golven en het deeldomein geur, waarvoor de opleiding uit minstens 25 uur bestaat. De onderwerpen van de opleiding per deeldomein of, als er geen deeldomeinen zijn, per discipline zijn de volgende :<br>
+2° De opleiding voor de MER-deskundige, vermeld in artikel 12, § 1, 3° bestaat uit minstens 60 uur per deeldomein of als er geen deeldomeinen zijn, per discipline, uitgezonderd voor&nbsp;het deeldomein geur, waarvoor de opleiding uit minstens 25 uur bestaat. De onderwerpen van de opleiding per deeldomein of, als er geen deeldomeinen zijn, per discipline zijn de volgende :<br>
 a) discipline mens :<br>
-1) deeldomein toxicologie :<br>
-1.1. chemische en ecologische principes en begrippen in verband met ecotoxicologie;<br>
-1.2. effecten van chemische, fysische en biologische stoffen op het milieu;<br>
-1.3. evaluatie van blootstelling en effecten;<br>
-1.4. basisbegrippen van de epidemiologie;<br>
-1.5. risico-evaluatie van chemische, fysische, biologische stoffen in het milieu;<br>
-1.6. essentiële begrippen over celbiologie en menselijke fysiologie in hun relatie met toxicologie;<br>
-1.7. toxicokinetiek en -dynamiek;<br>
-1.8. toxicologisch onderzoek en normstelling;<br>
-1.9. overzicht wijzen waarop het lichaam aan polluenten kan worden blootgesteld en de effecten ervan in het lichaam;<br>
-1.10. biomonitoring;<br>
-1.11. milderende maatregelen met betrekking tot het deeldomein toxicologie.<br>
-2) deeldomein psychosomatische aspecten;<br>
-2.1. milieugezondheidskunde;<br>
-2.2. basisbegrippen van acute en chronische toxiciteit;<br>
-2.3. basisbegrippen van de epidemiologie en hun toepassing in milieusettings;<br>
-2.4. blootstellingsevalutatie in de gevoelige populaties en in gevoelige settings;<br>
-2.5. risico-evalutie van chemische, fysische en biologische stoffen;<br>
-2.6. psychosomatische en psychosociale gevolgen van milieublootstellingen en gepercipieerde milieublootstelling;<br>
-2.7. mentaal en sociaal welzijn;<br>
-2.8. gevolgen van hinder op het welzijn van de mens;<br>
-2.9. milderende maatregelen met betrekking tot het deeldomein psychosomatische aspecten.<br>
+1) deeldomein gezondheid:<br>
+1.1. epidemiologie: begrippen, methoden en technieken van epidemiologisch onderzoek;<br>
+1.2. (eco)toxicologie, inclusief evaluatie van blootstelling en effecten, toxicokinetiek en -dynamiek (ook voor gevoelige populaties);<br>
+1.3. risicoanalyse (van (blootstelling aan) chemische, fysische, biologische stoffen op de gezondheid van de mens);<br>
+1.4. toxicologisch onderzoek en normstelling, verschil normen/gezondheidskundige advieswaarden;<br>
+1.5. biomonitoring;<br>
+1.6. milieugezondheidskunde;<br>
+1.7. psychosomatische en psychosociale gevolgen van milieublootstellingen en gepercipieerde milieublootstelling; gevolgen voor mentaal en sociaal welzijn en lichamelijke effecten;<br>
+1.8. elementaire begrippen over licht, optica en studie van elektromagnetische golven;<br>
+1.9. relatie tussen klimaat en menselijke gezondheid;<br>
+1.10. milderende maatregelen voor het deeldomein mens-gezondheid (zowel voor toxicologie, psychosomatische aspecten als effecten ten gevolge van licht en elektromagnetische golven);<br>
+2) ...<br>
 3) deeldomein mobiliteit :<br>
 3.1. verkeerskunde;<br>
 3.2. verkeerstechnologie en -planologie;<br>
@@ -3650,11 +3661,7 @@ e) discipline lucht :<br>
 2.3 aantasting ozonlaag, broeikaseffect, fotochemische luchtverontreiniging, verzuring, fijn stof en gevaarlijke stoffen;<br>
 2.4 impactmodellering;<br>
 2.5 luchtzuiveringstechnieken.<br>
-f) discipline licht, warmte en elektromagnetische golven :<br>
-1) elementaire fysische begrippen in verband met licht;<br>
-2) grondbeginselen optica;<br>
-3) studie van elektromagnetische golven;<br>
-4) milderende maatregelen met betrekking tot de discipline licht, warmte en elektromagnetische golven.<br>
+f) ...<br>
 g) discipline klimaat :<br>
 1) klimatologische processen en hun onderlinge verbanden;<br>
 2) regionale klimatologie;<br>
