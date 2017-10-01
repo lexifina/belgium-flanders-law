@@ -58,7 +58,9 @@ Mevr.   Erica Caluwaerts, met woonplaats in 2000 Antwerpen, Amerikalei 138, word
 
 ### ART. 7.
 
-De   volgende personen worden benoemd als lid van de Raad voor Economisch Onderzoek   inzake Vreemdelingen :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de heer Valens Jozef Michel Delbarre als lid; Mevr. Sofie Roels en Mevr. Sabine   Johanna Gerda Berkvens als plaatsvervanger;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de heer Dries van Betten en Mevr. Karen Jozef C Cambré als lid; Mevr. Ann   Bogman, de heer Wouter Ottevaere en de heer Josse Theo Barbé als   plaatsvervanger.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+De volgende personen worden benoemd als lid van de Raad voor Economisch Onderzoek inzake Vreemdelingen :<br>
+1° de heer Valens Jozef Michel Delbarre als lid; Mevr. Sofie Roels en Mevr. Sabine Johanna Gerda Berkvens als plaatsvervanger;<br>
+2°&nbsp;Mevr. Saskia Baele en Mevr. Karen Jozef C Cambré als lid; Mevr. Ann Bogman, de heer Wouter Ottevaere en de heer Josse Theo Barbé als plaatsvervanger.
 
 ### ART. 8.
 
@@ -66,7 +68,7 @@ De   volgende personen worden benoemd als lid van de Raad voor Economisch Onderz
 
 ### ART. 9.
 
-&nbsp;De leden van de Raad voor Economisch   Onderzoek inzake Vreemdelingen worden benoemd voor een termijn van twee   jaar.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+&nbsp;De leden van de Raad voor Economisch Onderzoek inzake Vreemdelingen worden benoemd voor een termijn van vier jaar, die afloopt op 31 december 2018. Na afloop van die termijn zal de minister de voorzitter, de ondervoorzitter, de gewone en de plaatsvervangende leden van de Raad voor Economisch Onderzoek inzake Vreemdelingen benoemen.
 
 ### ART. 10.
 
