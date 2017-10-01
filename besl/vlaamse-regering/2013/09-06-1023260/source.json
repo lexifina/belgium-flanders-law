@@ -2,16 +2,16 @@
   "codex_id": 1023260,
   "title": "Besluit van de Vlaamse Regering van 2013-09-06 tot vaststelling van de ambtsgebieden van de commissarissen van de Vlaamse Regering bij de hogescholen in de Vlaamse Gemeenschap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023260/VolledigDocument?datum=2013-10-01",
-  "source_sha256": "b9f8a8541a25a98dc8040c7a7c51a4ddf0c562e2186453309db7bbfaeb7279d7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023260/VolledigDocument?datum=2017-10-01",
+  "source_sha256": "e9fd13afa99f728ea23fe61ab94b341866bebe97760010d8353534f8fe787c51",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023260&param=informatie",
-  "as_of": "2013-10-01",
+  "as_of": "2017-10-01",
   "made": "2013-09-06",
   "gazette": "2013-10-02",
   "numac": 2013035817,
   "document_start": "2013-10-01",
   "document_end": "2017-09-30",
-  "in_force": "2013-10-01",
+  "in_force": "2017-10-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2013-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-10-01; future article versions excluded; article text as the API gives it"
 }
