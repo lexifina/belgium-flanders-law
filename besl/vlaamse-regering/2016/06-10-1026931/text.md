@@ -375,7 +375,11 @@
 
 ### ART 27.
 
-<span style="color: rgb(0, 0, 0);">Voor werknemers die zijn ontslagen in het kader van een herstructurering en uiterlijk op 31 december 2016 in dienst zijn getreden, behouden werkgevers tot uiterlijk 31 december 2018 een doelgroepvermindering volgens de voorwaarden, bepaald krachtens artikel 28/1, 28/1bis en 28/1ter van het koninklijk besluit van 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen van de sociale zekerheidsbijdragen, zoals van kracht vóór de inwerkingtreding van dit besluit.</span><br>
+<span style="color: rgb(0, 0, 0);">Voor werknemers die zijn ontslagen in het kader van een herstructurering en uiterlijk op 31 december 2016 in dienst zijn getreden, behouden werkgevers tot uiterlijk 31 december 2018 een doelgroepvermindering volgens de voorwaarden, bepaald krachtens artikel 28/1, 28/1bis en 28/1ter van het koninklijk besluit van 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen van de sociale zekerheidsbijdragen, zoals van kracht vóór de inwerkingtreding van dit besluit.<br>
+<br>
+In afwijking van artikel 28/1, tweede lid, 3°, is het referteloon van de werknemer niet hoger dan :<br>
+a) 13.942,47 euro als de werknemer op de dag van de indiensttreding minstens dertig jaar is;<br>
+b) 7178,76 euro als de werknemer op de dag van de indiensttreding jonger dan dertig jaar is.</span><br>
 &nbsp;
 
 ### ART 28.
