@@ -50,6 +50,14 @@ Artikel 10 van dezelfde wet, vervangen bij de wet van 22 december 2003 en gewijz
 
 ## HOOFDSTUK 5 Wijziging van de programmawet (I) van 24 december 2002
 
+### ART 7.
+
+In artikel 346, § 2, tweede lid, van de programmawet (I) van 24 december 2002, ingevoegd bij het decreet van 4 maart 2016, worden de volgende wijzigingen aangebracht:<br>
+1° punt 3° wordt vervangen door wat volgt:<br>
+"3° de jonge werknemer is niet voltijds leerplichtig;";<br>
+2° er wordt een punt 4° toegevoegd, dat luidt als volgt:<br>
+"4° de jonge werknemer volgt geen opleiding waarbij hij binnen de vier maanden, te rekenen vanaf de dag van zijn indienstneming, een diploma of graad kan behalen die valt buiten het toepassingsgebied van punt 2°. ".
+
 ## HOOFDSTUK 6 Wijziging van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004
 
 ### ART 8.
