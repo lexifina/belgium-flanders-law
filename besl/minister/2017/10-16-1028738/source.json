@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028738,
+  "title": "Ministerieel besluit van 2017-10-16 houdende bepaling van de prioriteitscriteria voor de toekenning van infrastructuursubsidies aan woonzorgcentra en centra voor kortverblijf",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028738/VolledigDocument?datum=2017-10-01",
+  "source_sha256": "a6123de3eb39201d10de8aa6736d84ea88e1135fa64e16c57fdbd05511c361ce",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028738&param=informatie",
+  "as_of": "2017-10-01",
+  "made": "2017-10-16",
+  "gazette": "2017-11-09",
+  "numac": 2017013953,
+  "document_start": "2017-10-01",
+  "document_end": null,
+  "in_force": "2017-10-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
