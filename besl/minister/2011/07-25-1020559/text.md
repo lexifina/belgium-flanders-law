@@ -18,4 +18,6 @@ Dit besluit treedt in werking drie maanden na de bekendmaking ervan in het Belgi
 
 ### BIJLAGE
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/05/11_1.pdf#page=56">Bijlage</A></P>
+<p>Bijlage<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/09/29_1.pdf#page=212">http://www.ejustice.just.fgov.be/mopdf/2017/09/29_1.pdf#page=212</a></p>
