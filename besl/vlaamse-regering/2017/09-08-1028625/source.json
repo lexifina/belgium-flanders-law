@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028625,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-08 tot wijziging van artikel 1 van het besluit van de Vlaamse Regering van 20 januari 2017 houdende de invoering van een regelluw kader in functie van de proefprojecten basisbereikbaarheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028625/VolledigDocument?datum=2017-10-12",
+  "source_sha256": "fbb2d3e72dc00576d0d65beb7b2cf0b4640ff5b4c10fac2a7314e23647a7169e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028625&param=informatie",
+  "as_of": "2017-10-12",
+  "made": "2017-09-08",
+  "gazette": "2017-10-02",
+  "numac": 2017031239,
+  "document_start": "2017-10-12",
+  "document_end": null,
+  "in_force": "2017-10-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-10-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
