@@ -2,16 +2,16 @@
   "codex_id": 1027925,
   "title": "Besluit van de Vlaamse Regering van 2017-01-20 houdende de invoering van een regelluw kader in functie van de proefprojecten basisbereikbaarheid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027925/VolledigDocument?datum=2017-03-03",
-  "source_sha256": "ebb7cb57aa11dbd2a34d1a8a058dea01a3ac812f1cbd661dbed288d8b5ff3d13",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027925/VolledigDocument?datum=2017-10-12",
+  "source_sha256": "2fea00a9a49e92f41abffd5fb131be3262d1c693a19fe96a20f1611aeaa54109",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027925&param=informatie",
-  "as_of": "2017-03-03",
+  "as_of": "2017-10-12",
   "made": "2017-01-20",
   "gazette": "2017-02-21",
   "numac": 2017010714,
   "document_start": "2017-03-03",
   "document_end": "2018-03-31",
-  "in_force": "2017-03-03",
+  "in_force": "2017-10-12",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2017-03-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-10-12; future article versions excluded; article text as the API gives it"
 }

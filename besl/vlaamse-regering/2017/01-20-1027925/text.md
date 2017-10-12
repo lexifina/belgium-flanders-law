@@ -34,7 +34,8 @@ Besluit :<br>
 Ter uitvoering van artikel 3 van het decreet van 8 juli 2016 houdende de invoering van een regelluw kader in functie van de proefprojecten basisbereikbaarheid worden de volgende vervoersregio's aangewezen:<br>
 1° vervoersregio Aalst, bestaande uit de gemeenten Aalst, Affligem, Berlare, Buggenhout, Denderleeuw, Dendermonde, Erpe-Mere, Haaltert, Hamme, Lebbeke, Lede, Liedekerke, Ninove, Opwijk, Sint-Lievens-Houtem, Wichelen en Zele;<br>
 2° vervoersregio Mechelen, bestaande uit de gemeenten Berlaar, Boortmeerbeek, Bonheiden, Bornem, Duffel, Heist-op-den-Berg, Kapelle-op-den-Bos, Keerbergen, Lier, Londerzeel, Mechelen, Nijlen, Putte, Puurs, Sint-Amands, Sint-Katelijne-Waver, Willebroek en Zemst;<br>
-3° vervoersregio Westhoek: Alveringem, De Panne, Diksmuide, Heuvelland, Houthulst, Ieper, Koekelare, Koksijde, Kortemark, Langemark-Poelkapelle, Lo-Reninge, Mesen, Nieuwpoort, Poperinge, Veurne, Vleteren, Wervik en Zonnebeke.
+3° vervoersregio Westhoek: Alveringem, De Panne, Diksmuide, Heuvelland, Houthulst, Ieper, Koekelare, Koksijde, Kortemark, Langemark-Poelkapelle, Lo-Reninge, Mesen, Nieuwpoort, Poperinge, Veurne, Vleteren, Wervik en Zonnebeke;<br>
+4° vervoersregio Antwerpen, bestaande uit de gemeenten Aartselaar, Antwerpen, Beveren, Boechout, Borsbeek, Boom, Brasschaat, Brecht, Edegem, Essen, Hemiksem, Hove, Kalmthout, Kapellen, Kontich, Kruibeke, Lint, Malle, Mortsel, Niel, Ranst, Rumst, Schelle, Schilde, Schoten, Stabroek, Wijnegem, Wommelgem, Wuustwezel, Zandhoven, Zoersel, Zwijndrecht.
 
 ### ART 2.
 
