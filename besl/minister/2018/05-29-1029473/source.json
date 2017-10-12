@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029473,
+  "title": "Ministerieel besluit van 2018-05-29 tot wijziging van het ministerieel besluit van 12 oktober 2017 houdende vaststelling van nadere regels voor de subsidiëring van bepaalde werken, leveringen en diensten die in het Vlaamse Gewest door of op initiatief van lokale besturen worden uitgevoerd",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029473/VolledigDocument?datum=2017-10-12",
+  "source_sha256": "2748886b400c9f368d48819046ae6654d02d2926603c991d68ba43e35e9b0e2a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029473&param=informatie",
+  "as_of": "2017-10-12",
+  "made": "2018-05-29",
+  "gazette": "2018-06-28",
+  "numac": 2018031296,
+  "document_start": "2017-10-12",
+  "document_end": null,
+  "in_force": "2017-10-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-10-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
