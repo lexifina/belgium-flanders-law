@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028731,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-13 tot wijziging van het besluit van de Vlaamse Regering van 25 april 2014 betreffende de samenstelling en de werking van het Nationaal Sociaal-Economisch Comité voor de Distributie en van het Interministerieel Comité voor de Distributie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028731/VolledigDocument?datum=2017-10-13",
+  "source_sha256": "32a5c5097ab10c0d76f981a6efa8f5ffd0d7c04aad46e6d158d41fbab2395afc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028731&param=informatie",
+  "as_of": "2017-10-13",
+  "made": "2017-10-13",
+  "gazette": "2017-11-03",
+  "numac": 2017013847,
+  "document_start": "2017-10-13",
+  "document_end": null,
+  "in_force": "2017-10-13",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2017-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
