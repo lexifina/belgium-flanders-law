@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028626,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-22 houdende erkenning van de droogte van 1 april tot en met 30 juni 2017 als landbouwramp en de afbakening van de geografische uitgestrektheid en de getroffen teelten van die ramp",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028626/VolledigDocument?datum=2017-10-13",
+  "source_sha256": "30789e14ad29d7811b5ea6acbe6b3d7708bfaf0a42a13d3b27c18cb4cd9d747a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028626&param=informatie",
+  "as_of": "2017-10-13",
+  "made": "2017-09-22",
+  "gazette": "2017-10-03",
+  "numac": 2017013438,
+  "document_start": "2017-10-13",
+  "document_end": null,
+  "in_force": "2017-10-13",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2017-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
