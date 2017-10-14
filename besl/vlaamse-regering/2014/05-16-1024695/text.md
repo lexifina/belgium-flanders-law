@@ -1586,7 +1586,7 @@ Er worden geen premies toegekend voor:<br>
 In afwijking van het eerste lid kunnen wel premies worden toegekend voor beheersmaatregelen, werkzaamheden of diensten aan of in:<br>
 1° kathedralen, bisschoppelijke of aartsbisschoppelijke paleizen en seminaries;<br>
 2° onderwijsgebouwen;<br>
-3° onroerende goederen, in erfpacht gegeven aan de nv Vlaamse Erfgoedkluis;<br>
+3° onroerende goederen, in erfpacht gegeven aan de nv Participatiemaatschappij Vlaanderen;<br>
 4° onroerende goederen, in erfpacht gegeven aan Herita vzw;<br>
 5° onroerende goederen, in erfpacht gegeven aan gemeenten;<br>
 6° onroerende goederen in het domein Bokrijk;<br>
@@ -1674,7 +1674,7 @@ In geval van onderwijsgebouwen, erkend als open erfgoed, komen beheersmaatregele
 
 ### ART. 11.2.12.
 
-Als de premienemer kan aantonen dat hij de btw niet kan recupereren dan   wordt de erfgoedpremie berekend op de aanvaarde kostenraming, inclusief   btw.<BR>
+...
 
 ### ART. 11.2.13.
 
@@ -1862,7 +1862,7 @@ De onderzoekspremie wordt berekend op basis van de aanvaarde kostenraming.   Er 
 
 ### ART. 11.3.3.
 
-<P>De onderzoekspremie bedraagt 80 % van de aanvaarde kostenraming, exclusief   btw.<BR></P>  <P>Als de premienemer kan aantonen dat hij de btw niet kan recupereren dan wordt   de onderzoekspremie berekend op de aanvaarde kostenraming, inclusief   btw.<BR></P>
+<p>De onderzoekspremie bedraagt 80 % van de aanvaarde kostenraming, exclusief btw.</p>
 
 ### ART. 11.3.4.
 
@@ -2079,7 +2079,7 @@ In deze paragraaf wordt verstaan onder franchise: de niet-betoelaagbare eerste s
 <br>
 § 2. ...<br>
 <br>
-§ 3. Als de premienemer kan aantonen dat hij de btw niet kan recupereren dan wordt de premie voor buitensporige opgravingskosten berekend op de forfaitaire basiskosten, inclusief btw.
+§ 3. ...
 
 ### ART. 11.7.5.
 
