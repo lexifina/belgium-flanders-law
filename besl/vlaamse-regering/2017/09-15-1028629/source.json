@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028629,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-15 houdende wijziging van het Onroerenderfgoedbesluit van 16 mei 2014 betreffende het uitsluiten van de btw bij het berekenen van premies",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028629/VolledigDocument?datum=2017-10-14",
+  "source_sha256": "9aaeb9c7289ae56ca0cc77f54bb51fc962c9316bdb64e082d16ea9a35c0dc0c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028629&param=informatie",
+  "as_of": "2017-10-14",
+  "made": "2017-09-15",
+  "gazette": "2017-10-04",
+  "numac": 2017013291,
+  "document_start": "2017-10-14",
+  "document_end": null,
+  "in_force": "2017-10-14",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2017-10-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
