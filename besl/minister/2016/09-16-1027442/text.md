@@ -21,17 +21,16 @@ Besluit :<br>
 
 ### ART 1.
 
-De tabel, vermeld in <a href="#" data-codex-params-artikelversieid="1298936" data-codex-params-artikelid="1129778" data-codex-params-documentid="1019755">artikel 5.4.7, derde lid van het Energiebesluit </a>van 19 november 2010 gaat als bijlage 1 bij dit besluit.<br>
-&nbsp;
+...
 
 ### ART 2.
 
-Het ministerieel besluit van 21 oktober 2015 houdende vastlegging van de tabel betreffende de hoeveelheid aardgas die de huishoudelijke afnemer nodig heeft om tot het einde van de winterperiode te beschikken over een minimale verwarming van de woning wordt opgeheven.
+...
 
 ### ART 3.
 
-Dit besluit treedt in werking op 15 oktober 2016.
+...
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2016/09/30_1.pdf#page=48">http://www.ejustice.just.fgov.be/mopdf/2016/09/30_1.pdf#page=48</a>
+...
