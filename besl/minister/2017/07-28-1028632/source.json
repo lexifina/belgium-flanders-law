@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028632,
+  "title": "Ministerieel besluit van 2017-07-28 tot regeling van de werking van de Vlaamse reaffectatiecommissie bij het ministerie van Onderwijs en Vorming",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028632/VolledigDocument?datum=2017-10-15",
+  "source_sha256": "74d29d69d01a1aba03f3915769697607a920894c9136cffdcdc73a7eefa66020",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028632&param=informatie",
+  "as_of": "2017-10-15",
+  "made": "2017-07-28",
+  "gazette": "2017-10-05",
+  "numac": 2017020635,
+  "document_start": "2017-10-15",
+  "document_end": null,
+  "in_force": "2017-10-15",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2017-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
