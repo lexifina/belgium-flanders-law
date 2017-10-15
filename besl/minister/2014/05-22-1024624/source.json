@@ -2,16 +2,16 @@
   "codex_id": 1024624,
   "title": "Ministerieel besluit van 2014-05-22 houdende vaststelling van nadere regels voor de subsidiëring van bepaalde werken, leveringen en diensten die in het Vlaamse Gewest door of op initiatief van lokale besturen worden uitgevoerd",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024624/VolledigDocument?datum=2014-10-12",
-  "source_sha256": "5d991c744a6ff23874b9217aec9e0f908783a58c8132ce1fd5ad34fb02cc8120",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024624/VolledigDocument?datum=2017-10-15",
+  "source_sha256": "e02a48c8a9ed015797954458f5f3815db9f621f60c8ec0e680d18a68637089a2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024624&param=informatie",
-  "as_of": "2014-10-12",
+  "as_of": "2017-10-15",
   "made": "2014-05-22",
   "gazette": "2014-10-02",
   "numac": 2014035912,
   "document_start": "2014-10-12",
   "document_end": "2023-03-22",
-  "in_force": "2014-10-12",
+  "in_force": "2017-10-15",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2014-10-12; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-10-15; future article versions excluded; article text as the API gives it"
 }
