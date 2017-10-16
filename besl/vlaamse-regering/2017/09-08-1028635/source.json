@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028635,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-08 houdende indeling bij de gemeentewegen van de gewestweg(en) N456f tussen kilometerpunt 0,000 en 0,320 op het grondgebied van de stad Gent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028635/VolledigDocument?datum=2017-10-16",
+  "source_sha256": "5a59f95ae0f626cfe0c96ef41d24dd410a175301ab5f8bfc76f86da00deea2b5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028635&param=informatie",
+  "as_of": "2017-10-16",
+  "made": "2017-09-08",
+  "gazette": "2017-10-06",
+  "numac": 2017013386,
+  "document_start": "2017-10-16",
+  "document_end": null,
+  "in_force": "2017-10-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-10-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
