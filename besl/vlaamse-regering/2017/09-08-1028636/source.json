@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028636,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-08 houdende indeling bij de gemeentewegen van de gewestweg N8-Avelgemstraat, Kortrijkstraat tussen kilometerpunt 77,116 en 82,020 op het grondgebied van de gemeente Zwevegem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028636/VolledigDocument?datum=2017-10-16",
+  "source_sha256": "77447c3ac4a96e0a008bbd88804c0b12ff348118ebdbaa3941bf33d656f64452",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028636&param=informatie",
+  "as_of": "2017-10-16",
+  "made": "2017-09-08",
+  "gazette": "2017-10-06",
+  "numac": 2017013385,
+  "document_start": "2017-10-16",
+  "document_end": null,
+  "in_force": "2017-10-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-10-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
