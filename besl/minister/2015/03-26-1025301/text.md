@@ -135,6 +135,14 @@ Het   hoofd van het departement heeft voor de toepassing van het besluit van de 
 
 Het   hoofd van het departement heeft inzake het Vlaams betaalorgaan delegatie om de   Europese Commissie onverwijld op de hoogte te brengen van elke bepaling of   significante wijziging inzake de accreditering van het betaalorgaan:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de benaming en het statuut van het betaalorgaan;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de administratieve, boekhoudkundige en op de interne controle betrekking   hebbende voorwaarden, waaronder de betalingen worden verricht;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   het erkenningsbesluit van het betaalorgaan.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART 23/1.
+
+Het hoofd van het departement adviseert de minister over het voortdurend voldoen van het Vlaams betaalorgaan aan de accrediteringscriteria.
+
+### ART 23/2.
+
+Het hoofd van het departement staat in voor het laten uitvoeren van de certificeringsaudit op de jaarrekeningen van het Vlaams betaalorgaan door een onafhankelijke auditorganisatie als vermeld in artikel 9 van verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordeningen (EEG) nr. 352/78, (EG) nr. 165/94, (EG) nr. 2799/98, (EG) nr. 814/2000, (EG) nr. 1290/2005 en (EG) nr. 485/2008 van de Raad.
+
 ## [Afdeling 2 Delegatie inzake de taken van de directeur van het Vlaams betaalorgaan (ing. MB 25 mei 2023, art. 9, I: 1 januari 2023)]
 
 ### ART. 24.
