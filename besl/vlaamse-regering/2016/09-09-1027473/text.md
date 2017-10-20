@@ -48,7 +48,7 @@ De thema's, vermeld in artikel 3, worden bekendgemaakt aan alle mogelijke indien
 
 ### ART 5.
 
-De projectvoorstellen worden op elektronische wijze ingediend vóór 31 augustus in de vorm van een projectfiche waarvan het model bepaald wordt door de minister. In 2016 worden in afwijking hiervan de projectvoorstellen ingediend vóór 16 oktober 2016. Het voormelde model wordt bij de bekendmaking van de thema's voor de transitieprojecten meegedeeld.<br>
+De projectvoorstellen worden op elektronische wijze ingediend vóór&nbsp;16 oktober 2016. Het voormelde model wordt bij de bekendmaking van de thema's voor de transitieprojecten meegedeeld.<br>
 <br>
 Een transitieproject kan alleen ingediend worden door een samenwerkingsverband van initiële lerarenopleidingen. Een samenwerkingsverband bestaat uit minstens twee initiële lerarenopleidingen die tot een verschillend type onderwijsinstelling behoren. De volgende types onderwijsinstellingen komen in aanmerking : universiteit, hogeschool, centrum voor volwassenenonderwijs en ambtshalve geregistreerde instelling.
 
@@ -64,11 +64,11 @@ De ingediende voorstellen worden beoordeeld op basis van de volgende criteria :<
 
 ### ART 7.
 
-Een commissie, bestaande uit personeelsleden van de administratie en externen, samengesteld door de minister, maakt, vóór 20 november een gemotiveerde rangschikking van de voorstellen op grond van de criteria, vermeld in artikel 6. Zij beoordeelt ook de aangevraagde financiële middelen. Per transitieproject kan maximaal 200.000 euro toegekend worden.
+Een commissie, bestaande uit personeelsleden van de administratie en externen, samengesteld door de minister, maakt, vóór 20 november 2016 een gemotiveerde rangschikking van de voorstellen op grond van de criteria, vermeld in artikel 6. Zij beoordeelt ook de aangevraagde financiële middelen. Per transitieproject kan maximaal 200.000 euro toegekend worden.
 
 ### ART 8.
 
-De minister legt vóór 15 december bij ministerieel besluit de transitieprojecten vast die voor financiering in aanmerking komen.
+De minister legt vóór 15 december 2016 bij ministerieel besluit de transitieprojecten vast die voor financiering in aanmerking komen.
 
 ### ART 9.
 
@@ -82,13 +82,13 @@ Bij de goedkeuring van de projecten kent de minister het budget ervoor toe, op v
 
 ### ART 11.
 
-De verslaggeving verloopt elektronisch en vóór 15 maart van het jaar dat volgt op de start van het project. De vormelijke en de inhoudelijke elementen van de verslaggeving worden bezorgd aan de goedgekeurde projecten.
+De verslaggeving verloopt elektronisch en vóór 15&nbsp;juni van het jaar dat volgt op de start van het project. De vormelijke en de inhoudelijke elementen van de verslaggeving worden bezorgd aan de goedgekeurde projecten.
 
 ## HOOFDSTUK 5. Slotbepalingen
 
 ### ART 12.
 
-Dit besluit treedt in werking op 1 september 2016 en treedt buiten werking op 15 maart 2020.
+Dit besluit treedt in werking op 1 september 2016 en treedt buiten werking op 15 juni 2018.
 
 ### ART 13.
 
