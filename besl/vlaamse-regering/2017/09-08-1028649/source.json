@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028649,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-08 houdende de wijziging van het besluit van de Vlaamse Regering van 9 september 2016 betreffende transitieprojecten in de lerarenopleidingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028649/VolledigDocument?datum=2017-10-20",
+  "source_sha256": "6cb0ec05bd5d789152dad49384dcda40ad905092d855e5b32cb54295928d79ec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028649&param=informatie",
+  "as_of": "2017-10-20",
+  "made": "2017-09-08",
+  "gazette": "2017-10-10",
+  "numac": 2017013441,
+  "document_start": "2017-10-20",
+  "document_end": null,
+  "in_force": "2017-10-20",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2017-10-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
