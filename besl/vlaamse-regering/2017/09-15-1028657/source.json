@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028657,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-15 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 7 september 2007 houdende de organisatie van de vaststelling van en de controle op de samenstelling van rauwe koemelk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028657/VolledigDocument?datum=2017-10-21",
+  "source_sha256": "a0ad92707f1120c38c5a79558460a1f1ccb12626c11f6eb768e669724453403c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028657&param=informatie",
+  "as_of": "2017-10-21",
+  "made": "2017-09-15",
+  "gazette": "2017-10-11",
+  "numac": 2017031240,
+  "document_start": "2017-10-21",
+  "document_end": null,
+  "in_force": "2017-10-21",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2017-10-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
