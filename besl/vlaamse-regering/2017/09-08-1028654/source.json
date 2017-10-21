@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028654,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-08 houdende indeling bij de gemeentewegen van de gewestweg N712a Leopoldlaan tussen kilometerpunt 0,000 tot 0,300 links en 0,000 tot 0,185 rechts op het grondgebied van de gemeente Overpelt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028654/VolledigDocument?datum=2017-10-21",
+  "source_sha256": "e397ecedd6034f21cef2f4fe4c732f1757b88d23466cc173177535b4a9bd9365",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028654&param=informatie",
+  "as_of": "2017-10-21",
+  "made": "2017-09-08",
+  "gazette": "2017-10-11",
+  "numac": 2017013384,
+  "document_start": "2017-10-21",
+  "document_end": null,
+  "in_force": "2017-10-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-10-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
