@@ -36,13 +36,21 @@
 
 Het   maximale aantal te erkennen woongelegenheden in woonzorgcentra en centra voor   kortverblijf voor de periode 2015-2025 wordt als volgt bepaald:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>jaartal</TD>      <TD>maximaal aantal te erkennen woongelegenheden woonzorgcentra en centra         voor kortverblijf<BR></TD></TR>    <TR>      <TD>2015</TD>      <TD>2.348<BR></TD></TR>    <TR>      <TD>2016</TD>      <TD>3.287<BR></TD></TR>    <TR>      <TD>2017</TD>      <TD>1.389<BR></TD></TR>    <TR>      <TD>2018</TD>      <TD>1.389<BR></TD></TR>    <TR>      <TD>2019</TD>      <TD>1.389<BR></TD></TR>    <TR>      <TD>2020</TD>      <TD>1.389<BR></TD></TR>    <TR>      <TD>2021</TD>      <TD>1.389<BR></TD></TR>    <TR>      <TD>2022</TD>      <TD>1.389<BR></TD></TR>    <TR>      <TD>2023</TD>      <TD>1.389<BR></TD></TR>    <TR>      <TD>2024</TD>      <TD>1.389<BR></TD></TR>    <TR>      <TD>2025</TD>      <TD>1.389<BR></TD></TR></TBODY></TABLE><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART 1/1.
+
+De woongelegenheden waarvoor de administrateur-generaal een erkenningskalender verleent met toepassing van artikel 2/1 en 2/2, worden in mindering gebracht op het maximaal aantal te erkennen woongelegenheden voor 2019.
+
 ### ART. 2.
 
-De   administrateur-generaal van het intern verzelfstandigd Agentschap Zorg en   Gezondheid vult de aanvragen tot opname in de erkenningskalender op basis van   het maximale aantal te erkennen woongelegenheden voor woonzorgcentra en centra   voor kortverblijf in, enkel voor de jaren 2015 tot en met 2018.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+De administrateur-generaal van het intern verzelfstandigd Agentschap Zorg en Gezondheid vult de aanvragen tot opname in de erkenningskalender op basis van het maximale aantal te erkennen woongelegenheden voor woonzorgcentra en centra voor kortverblijf in,&nbsp;voor de jaren 2015 tot en met 2019.
 
 ### ART 2/1.
 
 Het maximale aantal te erkennen woongelegenheden voor 2017 en 2018, vermeld in artikel 1 van dit besluit, wordt verhoogd met het aantal woongelegenheden waarvoor een erkenningskalender wordt verleend door de administrateur-generaal naar aanleiding van de oproep, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 16 september 2016 houdende de bepaling van voorwaarden voor een bijzondere oproep om voor bepaalde woongelegenheden een erkenningskalender in te dienen en tot wijziging van de regelgeving betreffende de voorafgaande vergunning voor centra voor kortverblijf en woonzorgcentra en het besluit van de Vlaamse Regering van 24 april 2015 betreffende het maximale aantal te erkennen woongelegenheden voor woonzorgcentra en centra voor kortverblijf in het kader van de erkenningskalender, tot maximaal 1389 woongelegenheden voor beide jaren samen.
+
+### ART 2/2.
+
+Het maximale aantal te erkennen woongelegenheden voor 2018, vermeld in artikel 1 van dit besluit, wordt verhoogd met het aantal woongelegenheden waarvoor een erkenningskalender wordt verleend door de administrateur-generaal naar aanleiding van de oproep, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 15 september 2017 houdende de bepaling van voorwaarden voor een bijzondere oproep om voor bepaalde woongelegenheden een erkenningskalender in te dienen en tot wijziging van het besluit van de Vlaamse Regering van 20 december 2013 betreffende de voorafgaande vergunning voor centra voor kortverblijf en woonzorgcentra en tot wijziging van de regels betreffende de voorafgaande vergunning en de erkenning van die centra en het besluit van de Vlaamse Regering van 24 april 2015 betreffende het maximale aantal te erkennen woongelegenheden voor woonzorgcentra en centra voor kortverblijf in het kader van de erkenningskalender, tot maximaal 293.
 
 ### ART. 3.
 
