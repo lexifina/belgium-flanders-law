@@ -8,7 +8,19 @@ De Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisser
 
 ### ART. 1.
 
-<P>In dit besluit wordt verstaan onder : <BR>1° bevoegde entiteit: het   Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en   Visserij;<BR>2° ILVO : het Instituut voor Landbouw- en Visserijonderzoek;<BR>3°   koper : een levensmiddelenbedrijf dat over een toelating beschikt met toepassing   van het koninklijk besluit van 16 januari 2006 tot vaststelling van de nadere   regels van de erkenningen, toelatingen en voorafgaande registraties afgeleverd   door het Federaal Agentschap voor de Veiligheid van de Voedselketen;<BR>4°   ladingsverrichting : de fysieke overbrenging van een hoeveelheid melk vanuit een   koeltank van de producent naar een erkende RMO met behulp van een pompsysteem   dat op de RMO geplaatst is;<BR>5° melk : het product dat verkregen wordt door   een of meer koeien te melken;<BR>6° melklevering : de hoeveelheid melk,   geregistreerd per ladingsverrichting en geleverd door de producent aan de   koper;<BR>7° melkophaling : het vervoer vanaf het laden van een of meer   leveringen op het melkproductiebedrijf tot het afladen ervan bij de koper;<BR>8°   melkproductiebedrijf : een inrichting met een of meer landbouwhuisdieren voor de   melkproductie met als oogmerk die melk als levensmiddel in de handel te   brengen;<BR>9° minister : de Vlaamse minister, bevoegd voor het landbouwbeleid   en de zeevisserij;<BR>10° producent : de natuurlijke persoon of rechtspersoon   die alleen of gegroepeerd een melkproductiebedrijf uitbaat;<BR>11° RMO : de   rijdende melkontvangst.</P>
+<p>In dit besluit wordt verstaan onder :<br>
+1° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+2° ILVO : het Instituut voor Landbouw- en Visserijonderzoek;<br>
+3° koper : een levensmiddelenbedrijf dat over een toelating beschikt met toepassing van het koninklijk besluit van 16 januari 2006 tot vaststelling van de nadere regels van de erkenningen, toelatingen en voorafgaande registraties afgeleverd door het Federaal Agentschap voor de Veiligheid van de Voedselketen;<br>
+4° ladingsverrichting : de fysieke overbrenging van een hoeveelheid melk vanuit een koeltank van de producent naar een erkende RMO met behulp van een pompsysteem dat op de RMO geplaatst is;<br>
+5° melk : het product dat verkregen wordt door een of meer koeien te melken;<br>
+6° melklevering : de hoeveelheid melk, geregistreerd per ladingsverrichting en geleverd door de producent aan de koper;<br>
+7° melkophaling : het vervoer vanaf het laden van een of meer leveringen op het melkproductiebedrijf tot het afladen ervan bij de koper;<br>
+8° melkproductiebedrijf : een inrichting met een of meer landbouwhuisdieren voor de melkproductie met als oogmerk die melk als levensmiddel in de handel te brengen;<br>
+9° minister : de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij;<br>
+10° producent : de natuurlijke persoon of rechtspersoon die alleen of gegroepeerd een melkproductiebedrijf uitbaat;<br>
+11° RMO : de rijdende melkontvangst;<br>
+12° kleine koper: een koper die in het afgelopen kalenderjaar maximaal 500.000 liter melk opgehaald heeft bij maximaal vijf verschillende producenten.</p>
 
 ### ART. 1/1.
 
@@ -26,11 +38,39 @@ Met uitzondering van de bepalingen in hoofdstuk V is dit besluit van   toepassin
 
 ### ART. 3.
 
-§ 1. Er mag geen melk geleverd worden aan of opgehaald worden door een   koper die niet erkend is.<BR><BR>§ 2. De melk die door een producent wordt   geleverd aan of die opgehaald wordt door een of meer kopers, moet overeenstemmen   met een van de volgende types : <BR>1° rauwe volle melk : de melk, afgescheiden   door de melkklier van een of meer koeien, die niet is verhit tot meer dan 40 °C   of een behandeling met een gelijkwaardig effect heeft ondergaan en waarvan het   natuurlijke vetgehalte niet is gewijzigd; <BR>2° rauwe afgeroomde melk : volle   melk waarvan het vetgehalte is teruggebracht tot ten hoogste 5 g/l.<BR><BR>§ 3.   De koper moet de samenstelling van de melk, die voor zijn rekening wordt   opgehaald, op een melkproductiebedrijf of vanuit een melkproductiebedrijf aan   hem wordt geleverd, laten vaststellen.<BR><BR>De samenstelling van de melk wordt   vastgesteld door een interprofessioneel organisme dat daarvoor erkend is door de   minister.<BR><BR>§ 4. De minister stelt de criteria vast op basis waarvan de   samenstelling van de melk bepaald wordt.<BR><BR>§ 5. Bij melkophaling op het   melkproductiebedrijf worden voor elk type melk, vermeld in paragraaf 2, en van   elke melklevering door middel van een automatisch bemonsteringsapparaat, dat   geïnstalleerd is op de RMO, de volgende gegevens geregistreerd met een   elektronisch monsteridentificatiesysteem, goedgekeurd door het   interprofessioneel organisme : <BR>1° de identiteit van de koper, de producent   en het melkproductiebedrijf;<BR>2° het aantal liter per melklevering;<BR>3° de   datum en het tijdstip van de melklevering.<BR><BR>De minister kan bepalen dat   aanvullende gegevens geregistreerd moeten worden.<BR>
+§ 1. Er mag geen melk geleverd worden aan of opgehaald worden door een koper die niet erkend is.<br>
+<br>
+§ 2. De melk die door een producent wordt geleverd aan of die opgehaald wordt door een of meer kopers, moet overeenstemmen met een van de volgende types :<br>
+1° rauwe volle melk : de melk, afgescheiden door de melkklier van een of meer koeien, die niet is verhit tot meer dan 40 °C of een behandeling met een gelijkwaardig effect heeft ondergaan en waarvan het natuurlijke vetgehalte niet is gewijzigd;<br>
+2° rauwe afgeroomde melk : volle melk waarvan het vetgehalte is teruggebracht tot ten hoogste 5 g/l.<br>
+<br>
+§ 3. De koper moet de samenstelling van de melk, die voor zijn rekening wordt opgehaald, op een melkproductiebedrijf of vanuit een melkproductiebedrijf aan hem wordt geleverd, laten vaststellen.<br>
+<br>
+De samenstelling van de melk wordt vastgesteld door een interprofessioneel organisme dat daarvoor erkend is door de minister.<br>
+<br>
+§ 4. De minister stelt de criteria vast op basis waarvan de samenstelling van de melk bepaald wordt.<br>
+<br>
+§ 5. Bij melkophaling op het melkproductiebedrijf worden voor elk type melk, vermeld in paragraaf 2, en van elke melklevering door middel van een automatisch bemonsteringsapparaat, dat geïnstalleerd is op de RMO, de volgende gegevens geregistreerd met een elektronisch monsteridentificatiesysteem, goedgekeurd door het interprofessioneel organisme :<br>
+1° de identiteit van de koper, de producent en het melkproductiebedrijf;<br>
+2° het aantal liter per melklevering;<br>
+3° de datum en het tijdstip van de melklevering.<br>
+<br>
+De verplichting, vermeld in het eerste lid, geldt niet voor melkophalingen door kleine kopers<br>
+<br>
+De minister kan bepalen dat aanvullende gegevens geregistreerd moeten worden.
 
 ### ART. 4.
 
-§ 1. De bepaling van de samenstelling, vermeld in artikel 3, § 3, gebeurt   aan de hand van een representatief monster. Bij de bemonstering moeten de   volgende voorschriften in acht genomen worden :<BR>1° een bemonstering is   verplicht bij iedere melklevering van elk type melk;<BR>2° voor producties van   melk waarvan minstens één monster genomen wordt per drie dagen productie, kan   uit die productie een maximale hoeveelheid van honderd liter, al dan niet   opgedeeld, geleverd of opgehaald worden, zonder dat daarvan een monster wordt   genomen;<BR>3° de bemonstering verloopt mechanisch met behulp van een   automatisch bemonsteringsapparaat op de RMO. Het monster mag alleen manueel   genomen worden als het bemonsteringsapparaat defect is of als een te geringe   hoeveelheid melk een representatieve mechanische bemonstering onmogelijk   maakt;<BR>4° de minister stelt de procedure voor de bemonstering vast.<BR><BR>§   2. De minister bepaalt :<BR>1° de minimale analysefrequentie van de   monsters;<BR>2° de analysemethoden;<BR>3° de manier waarop en de frequentie   waarmee de gegevens en de resultaten van de analyse aan onder meer de   producenten, aan de kopers, aan de bevoegde entiteit worden   meegedeeld.<BR>
+§ 1. De bepaling van de samenstelling, vermeld in artikel 3, § 3, gebeurt aan de hand van een representatief monster. Bij de bemonstering moeten de volgende voorschriften in acht genomen worden :<br>
+1° een bemonstering is verplicht bij iedere melklevering van elk type melk;<br>
+2° voor producties van melk waarvan minstens één monster genomen wordt per drie dagen productie, kan uit die productie een maximale hoeveelheid van honderd liter, al dan niet opgedeeld, geleverd of opgehaald worden, zonder dat daarvan een monster wordt genomen;<br>
+3° de bemonstering verloopt mechanisch met behulp van een automatisch bemonsteringsapparaat op de RMO. Het monster mag alleen manueel genomen worden als het bemonsteringsapparaat defect is of als een te geringe hoeveelheid melk een representatieve mechanische bemonstering onmogelijk maakt, of in het geval van een kleine koper;<br>
+4° de minister stelt de procedure voor de bemonstering vast.<br>
+<br>
+§ 2. De minister bepaalt :<br>
+1° de minimale analysefrequentie van de monsters;<br>
+2° de analysemethoden;<br>
+3° de manier waarop en de frequentie waarmee de gegevens en de resultaten van de analyse aan onder meer de producenten, aan de kopers, aan de bevoegde entiteit worden meegedeeld.
 
 ### ART. 5.
 
@@ -40,7 +80,43 @@ Met uitzondering van de bepalingen in hoofdstuk V is dit besluit van   toepassin
 
 ### ART. 6.
 
-§ 1. Om erkend te worden moet een interprofessioneel organisme voldoen aan   de volgende voorwaarden :<BR>1° ...<BR>2° haar activiteiten voor de bepaling van   de samenstelling van de melk uitoefenen in Vlaanderen;<BR>3° in de statuten   vastleggen dat in de beleidsorganen pariteit is tussen vertegenwoordigers van de   producenten en vertegenwoordigers van de kopers;<BR>4° beschikken over   voorschriften die voor de bepaling van de samenstelling van melk onder meer de   volgende aspecten beschrijven :<BR>a) de wijze van bemonstering;<BR>b) de wijze   waarop analyses worden uitgevoerd;<BR>c) de interpretatie van de   resultaten;<BR>d) de manier waarop de resultaten worden meegedeeld;<BR>e) de   procedure om betwistingen te regelen;<BR>f) de geschillenprocedure, vermeld in   artikel 5, § 2, vierde lid;<BR>5° geaccrediteerd zijn volgens de Europese norm   EN ISO/IEC 17025 voor de analyses die uitgevoerd worden in het kader van de   controle van de samenstelling van de melk, vermeld in artikel 3, § 3, eerste   lid;<BR>6° deelnemen aan de wetenschappelijke begeleiding, georganiseerd en   uitgevoerd door het ILVO. De minister stelt de voorwaarden van die   wetenschappelijke begeleiding vast;<BR>7° de verslagen van de vergaderingen van   de algemene vergadering en van de raad van bestuur bezorgen aan de bevoegde   entiteit;<BR>8° zich onderwerpen aan het toezicht, de controlemaatregelen en de   instructies van de bevoegde entiteit.<BR><BR>In afwijking op het eerste lid, 2°,   kan een interprofessioneel organisme de uitvoering van die bepaling overdragen   aan een ander interprofessioneel organisme die in Vlaanderen niet erkend is, als   die laatste :<BR>1° door het Federaal Agentschap voor de Veiligheid van de   Voedselketen erkend is volgens het koninklijk besluit van 21 december 2006   betreffende de controle van de kwaliteit van de rauwe melk en de erkenning van   de interprofessionele organismen;<BR>2° geaccrediteerd is volgens de Europese   norm EN ISO/IEC 17025 voor de analyses die uitgevoerd worden in het kader van de   controle van de samenstelling van de melk, vermeld in artikel 3, § 3, eerste   lid.<BR><BR>Het erkende interprofessioneel organisme bezorgt jaarlijks aan de   bevoegde entiteit een lijst met de overgedragen producenten en de betrokken   interprofessionele organisaties.<BR><BR>Elke wijziging die een erkend   interprofessioneel organisme aanbrengt aan de voorschriften, vermeld in het   eerste lid, 4°, moet vooraf meegedeeld worden aan de minister.<BR><BR>Het ILVO   legt de wijze waarop de wetenschappelijke begeleiding wordt uitgevoerd vast in   een document dat door de minister goedgekeurd wordt. Elke wijziging van dat   document wordt vooraf door de minister goedgekeurd.<BR><BR>§ 2. De   overeenkomstig het koninklijk besluit van 3 maart 1994 betreffende de erkenning   van interprofessionele organismen voor het bepalen van de kwaliteit en de   samenstelling, zoals gewijzigd bij koninklijk besluit van 3 september 2000 en   het besluit van de Vlaamse Regering van 28 april 2006, erkende professionele   organismen behouden deze erkenning en worden gelijkgesteld met een   overeenkomstig § 1 erkend interprofessioneel organisme.<BR><BR>§ 3. Bij   ontstentenis van een erkend interprofessioneel organisme kan een erkenning   verleend worden aan een andere organisatie die voldoet aan de voorwaarden,   vermeld in paragraaf 1, met uitzondering van de voorwaarde, vermeld in punt 3°.   <BR><BR>§ 4. De minister heft de erkenning van een interprofessioneel organisme   of organisatie op als ze niet langer voldoet aan de voorwaarden, vermeld in § 1,   en nadat de volgende procedure doorlopen is.<BR><BR>De minister deelt de redenen   voor de opheffing van de erkenning per aangetekende brief mee aan de organisatie   in kwestie. Die beschikt, op straffe van verval, over vijftien werkdagen om met   een aangetekende brief haar bezwaren kenbaar te maken en, in voorkomend geval,   te verzoeken om gehoord te worden of verbeteringen voor te stellen om tegemoet   te komen aan de ingeroepen redenen.<BR><BR>Daarna beschikt de minister over   dertig werkdagen om, in voorkomend geval, de belanghebbende te horen, een   beslissing te nemen en die met een aangetekende brief mee te   delen.<BR>
+§ 1. Om erkend te worden moet een interprofessioneel organisme voldoen aan de volgende voorwaarden :<br>
+1° ...<br>
+2° haar activiteiten voor de bepaling van de samenstelling van de melk uitoefenen in Vlaanderen;<br>
+3° in de statuten vastleggen dat in de beleidsorganen pariteit is tussen vertegenwoordigers van de producenten en vertegenwoordigers van de kopers;<br>
+4° beschikken over voorschriften die voor de bepaling van de samenstelling van melk onder meer de volgende aspecten beschrijven :<br>
+a) de wijze van bemonstering;<br>
+b) de wijze waarop analyses worden uitgevoerd;<br>
+c) de interpretatie van de resultaten;<br>
+d) de manier waarop de resultaten worden meegedeeld;<br>
+e) de procedure om betwistingen te regelen;<br>
+f) de geschillenprocedure, vermeld in artikel 5, § 2, vierde lid;<br>
+5° geaccrediteerd zijn volgens de Europese norm EN ISO/IEC 17025 voor de analyses die uitgevoerd worden in het kader van de controle van de samenstelling van de melk, vermeld in artikel 3, § 3, eerste lid;<br>
+6° deelnemen aan de wetenschappelijke begeleiding, georganiseerd en uitgevoerd door het ILVO. De minister stelt de voorwaarden van die wetenschappelijke begeleiding vast;<br>
+7° de verslagen van de vergaderingen van de algemene vergadering en van de raad van bestuur bezorgen aan de bevoegde entiteit;<br>
+8° zich onderwerpen aan het toezicht, de controlemaatregelen en de instructies van de bevoegde entiteit.<br>
+<br>
+In afwijking op het eerste lid, 2°, kan een interprofessioneel organisme de uitvoering van die bepaling overdragen aan een ander interprofessioneel organisme die in Vlaanderen niet erkend is, als die laatste :<br>
+1° door het Federaal Agentschap voor de Veiligheid van de Voedselketen erkend is volgens het koninklijk besluit van 21 december 2006 betreffende de controle van de kwaliteit van de rauwe melk en de erkenning van de interprofessionele organismen;<br>
+2° geaccrediteerd is volgens de Europese norm EN ISO/IEC 17025 voor de analyses die uitgevoerd worden in het kader van de controle van de samenstelling van de melk, vermeld in artikel 3, § 3, eerste lid.<br>
+<br>
+Het erkende interprofessioneel organisme bezorgt jaarlijks aan de bevoegde entiteit een lijst met de overgedragen producenten en de betrokken interprofessionele organisaties.<br>
+<br>
+Elke wijziging die een erkend interprofessioneel organisme aanbrengt aan de voorschriften, vermeld in het eerste lid, 4°, moet vooraf meegedeeld worden aan de minister.<br>
+<br>
+Het ILVO legt de wijze waarop de wetenschappelijke begeleiding wordt uitgevoerd vast in een document dat door de minister goedgekeurd wordt. Elke wijziging van dat document wordt vooraf door de minister goedgekeurd.<br>
+<br>
+&nbsp;§ 1/1. Het erkende interprofessionele organisme kan het bedrag van een inhouding ten laste van de producenten vaststellen om zijn activiteiten in het kader van dit besluit te financieren.<br>
+<br>
+§ 2. De overeenkomstig het koninklijk besluit van 3 maart 1994 betreffende de erkenning van interprofessionele organismen voor het bepalen van de kwaliteit en de samenstelling, zoals gewijzigd bij koninklijk besluit van 3 september 2000 en het besluit van de Vlaamse Regering van 28 april 2006, erkende professionele organismen behouden deze erkenning en worden gelijkgesteld met een overeenkomstig § 1 erkend interprofessioneel organisme.<br>
+<br>
+§ 3. Bij ontstentenis van een erkend interprofessioneel organisme kan een erkenning verleend worden aan een andere organisatie die voldoet aan de voorwaarden, vermeld in paragraaf 1, met uitzondering van de voorwaarde, vermeld in punt 3°.<br>
+<br>
+§ 4. De minister heft de erkenning van een interprofessioneel organisme of organisatie op als ze niet langer voldoet aan de voorwaarden, vermeld in § 1, en nadat de volgende procedure doorlopen is.<br>
+<br>
+De minister deelt de redenen voor de opheffing van de erkenning per aangetekende brief mee aan de organisatie in kwestie. Die beschikt, op straffe van verval, over vijftien werkdagen om met een aangetekende brief haar bezwaren kenbaar te maken en, in voorkomend geval, te verzoeken om gehoord te worden of verbeteringen voor te stellen om tegemoet te komen aan de ingeroepen redenen.<br>
+<br>
+Daarna beschikt de minister over dertig werkdagen om, in voorkomend geval, de belanghebbende te horen, een beslissing te nemen en die met een aangetekende brief mee te delen.
 
 ## HOOFDSTUK V. Betaling van melk
 
