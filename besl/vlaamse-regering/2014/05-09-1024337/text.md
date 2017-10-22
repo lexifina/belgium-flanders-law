@@ -60,7 +60,16 @@ Een organisator geeft voor een bestaande vergunning elke wijziging van de   gege
 
 ### ART. 9.
 
-Naast het elektronische aanvraagformulier, vermeld in artikel 8, bezorgt   de organisator de volgende documenten, met de post of elektronisch, volgens de   administratieve richtlijnen van Kind en Gezin:<BR>1° een uittreksel uit het   strafregister van de organisator als vermeld in artikel 5 en 49 van het   Vergunningsbesluit van 22 november 2013;<BR>2° een uittreksel uit het   strafregister van de verantwoordelijke als vermeld in artikel 4 en 40, § 1,   eerste lid, 2°, van het Vergunningsbesluit van 22 november 2013;<BR>3° voor   groepsopvang:<BR>a) een verslag over de infrastructuur met een advies   infrastructuur;<BR>b) het brandveiligheidsattest A of B;<BR>4° voor   gezinsopvang:<BR>a) een uittreksel uit het strafregister van alle   kinderbegeleiders als vermeld in artikel 10 en 43, § 1, eerste lid, 2°, van het   Vergunningsbesluit van 22 november 2013;<BR>b) een uittreksel uit het   strafregister van alle personen met regelmatig direct contact in de   kinderopvanglocatie als vermeld in artikel 10 en 45, eerste lid, 1°, van het   Vergunningsbesluit van 22 november 2013;<BR>c) een attest draagkracht van alle   kinderbegeleiders.<BR>
+Naast het elektronische aanvraagformulier, vermeld in artikel 8, bezorgt de organisator de volgende documenten, met de post of elektronisch, volgens de administratieve richtlijnen van Kind en Gezin:<br>
+1° een uittreksel uit het strafregister van de organisator als vermeld in artikel 5 en 49 van het Vergunningsbesluit van 22 november 2013;<br>
+2° een uittreksel uit het strafregister van de verantwoordelijke als vermeld in artikel 4 en 40, § 2, eerste lid, 1° , van het Vergunningsbesluit van 22 november 2013;<br>
+3° voor groepsopvang:<br>
+a) een verslag over de infrastructuur met een advies infrastructuur;<br>
+b) het brandveiligheidsattest A of B;<br>
+4° voor gezinsopvang:<br>
+a) een uittreksel uit het strafregister van alle kinderbegeleiders als vermeld in artikel 10 en 43, § 2, eerste lid, 1°, van het Vergunningsbesluit van 22 november 2013;<br>
+b) een uittreksel uit het strafregister van alle personen met regelmatig direct contact in de kinderopvanglocatie als vermeld in artikel 10 en 45, eerste lid, 1°, van het Vergunningsbesluit van 22 november 2013;<br>
+c) een attest draagkracht van alle kinderbegeleiders.
 
 ### ART. 10.
 
@@ -124,7 +133,9 @@ Kind en Gezin beslist over de gegrondheid van de aanvraag van een   vergunning o
 
 ### ART. 21.
 
-De termijn, vermeld in artikel 20, wordt met maximaal dertig kalenderdagen   geschorst als Kind en Gezin:<BR>1° bijkomende gegevens vraagt aan de   organisator;<BR>2° vraagt om de organisator te horen. Dat is altijd het geval   als Kind en Gezin het voornemen heeft om de vergunning te weigeren met   toepassing van artikel 4.<BR>
+De termijn, vermeld in artikel 20, wordt telkens met maximaal dertig kalenderdagen geschorst als Kind en Gezin:<br>
+1° bijkomende gegevens vraagt aan de organisator;<br>
+2° vraagt om de organisator te horen. Dat is altijd het geval als Kind en Gezin het voornemen heeft om de vergunning te weigeren met toepassing van artikel 4.
 
 ### ART. 22.
 
@@ -248,15 +259,59 @@ Zorginspectie bezorgt het verslag over de infrastructuur met advies   uiterlijk 
 
 ### ART. 44.
 
-<P>§ 1. De aanvraag tot afwijking als vermeld in artikel 63, 1° tot en met 4°,   van het Vergunningsbesluit van 22 november 2013, wordt ingediend met het   aanvraagformulier van Kind en Gezin, dat de volgende gegevens bevat:<BR>1° de   identificatiegegevens en de contactgegevens van de organisator;<BR>2° de naam en   het adres van de kinderopvanglocatie;<BR>3° het dossiernummer;<BR>4° de   vergunningsvoorwaarden waarvoor een afwijking wordt gevraagd;<BR>5° de motivatie   waarom een afwijking wordt gevraagd;<BR>6° de context en een voorstel met   maatregelen die een gelijkwaardige veiligheid en kwaliteit kunnen   garanderen;<BR>7° de datum en de handtekening van de organisator.<BR></P>  <P>Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de   organisator de volgende documenten, met de post of elektronisch, die de   gegevens, vermeld in het eerste lid, aantonen :<BR>1° een duidelijk grondplan   van de kinderopvanglocatie op schaal 1/50 of 1/100 met minstens de volgende   aanduidingen :<BR>a) de leefruimtes met alle binnenafmetingen en het aantal   kinderen dat er opgevangen zal worden;<BR>b) de rustruimtes met alle   binnenafmetingen en het aantal kinderen dat er opgevangen zal worden;<BR>c) de   eventuele andere aanwezige lokalen met vermelding van de functie ervan;<BR>2°   een berekening van de nettovloeroppervlakte van de leefruimtes en de   rustruimtes, vermeld in artikel 16 van het Vergunningsbesluit van 22 november   2013.<BR></P>  <P>Kind en Gezin kan naast de informatie of stukken, vermeld in het eerste en   het tweede lid, bijkomende informatie of stukken opvragen uiterlijk vijftien   kalenderdagen na ontvangst van het aanvraagformulier tot afwijking, vermeld in   het eerste lid.<BR></P>  <P>Kind en Gezin bezorgt na ontvangst van de aanvraag een   ontvangstmelding.<BR></P>  <P>§ 2. De aanvraag tot afwijking als vermeld in artikel 63, 5°, van het   Vergunningsbesluit van 22 november 2013, wordt ingediend bij de technische   commissie met het aanvraagformulier van de technische commissie, dat de volgende   gegevens bevat:<BR>1° de identificatiegegevens en de contactgegevens van de   organisator;<BR>2° de naam, het adres en het aantal kinderopvangplaatsen van de   kinderopvanglocatie;<BR>3° de omschrijving van de kinderopvanglocatie waarvoor   een afwijking gevraagd wordt;<BR>4° de vergunningsvoorwaarde waarvoor een   afwijking wordt gevraagd;<BR>5° de motivatie waarom een afwijking wordt   gevraagd;<BR>6° de context en een voorstel met maatregelen die een   gelijkwaardige veiligheid en kwaliteit kunnen garanderen;<BR>7° de datum en de   handtekening van de organisator.<BR></P>  <P>Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de   organisator minstens de volgende documenten, met de post of elektronisch, die de   gegevens, vermeld in het eerste lid, aantonen :<BR>1° een duidelijk grondplan   van de kinderopvanglocatie op schaal 1/50 of 1/100 met minstens de volgende   aanduidingen :<BR>a) de leefruimtes met alle binnenafmetingen en het aantal   kinderen dat er opgevangen zal worden;<BR>b) de rustruimtes met alle   binnenafmetingen en het aantal kinderen dat er opgevangen zal worden;<BR>c) de   eventuele andere aanwezige lokalen met vermelding van de functie ervan;<BR>2°   het verslag van de bevoegde brandweerdienst en, in voorkomend geval, het   brandveiligheidsattest, het stappenplan en het advies van de brandweer over dat   stappenplan.<BR></P>  <P>De technische commissie kan naast de informatie of stukken, vermeld in het   eerste en het tweede lid, bijkomende informatie of stukken opvragen na ontvangst   van het aanvraagformulier tot afwijking, vermeld in het eerste lid.<BR></P>  <P>De technische commissie bezorgt na ontvangst van de aanvraag een   ontvangstmelding.<BR></P>
+<p>§ 1. De aanvraag tot afwijking als vermeld in artikel 63, eerste lid, 1° tot en met 3° , van het Vergunningsbesluit van 22 november 2013, wordt ingediend met het aanvraagformulier van Kind en Gezin, dat de volgende gegevens bevat:<br>
+1° de identificatiegegevens en de contactgegevens van de organisator;<br>
+2° de naam en het adres van de kinderopvanglocatie;<br>
+3° het dossiernummer;<br>
+4° de vergunningsvoorwaarden waarvoor een afwijking wordt gevraagd;<br>
+5° de motivatie waarom een afwijking wordt gevraagd;<br>
+6° de context en een voorstel met maatregelen die een gelijkwaardige veiligheid en kwaliteit kunnen garanderen;<br>
+7° de datum en de handtekening van de organisator.</p>
+
+<p>Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de organisator de volgende documenten, met de post of elektronisch, die de gegevens, vermeld in het eerste lid, aantonen :<br>
+1° een duidelijk grondplan van de kinderopvanglocatie op schaal 1/50 of 1/100 met minstens de volgende aanduidingen :<br>
+a) de leefruimtes met alle binnenafmetingen en het aantal kinderen dat er opgevangen zal worden;<br>
+b) de rustruimtes met alle binnenafmetingen en het aantal kinderen dat er opgevangen zal worden;<br>
+c) de eventuele andere aanwezige lokalen met vermelding van de functie ervan;<br>
+2° een berekening van de nettovloeroppervlakte van de leefruimtes en de rustruimtes, vermeld in artikel 16 van het Vergunningsbesluit van 22 november 2013.</p>
+
+<p>Kind en Gezin kan naast de informatie of stukken, vermeld in het eerste en het tweede lid, bijkomende informatie of stukken opvragen uiterlijk vijftien kalenderdagen na ontvangst van het aanvraagformulier tot afwijking, vermeld in het eerste lid.</p>
+
+<p>Kind en Gezin bezorgt na ontvangst van de aanvraag een ontvangstmelding.</p>
+
+<p>§ 2. De aanvraag tot afwijking als vermeld in artikel 63, eerste lid, 4°, van het Vergunningsbesluit van 22 november 2013, wordt ingediend bij de technische commissie met het aanvraagformulier van de technische commissie, dat de volgende gegevens bevat:<br>
+1° de identificatiegegevens en de contactgegevens van de organisator;<br>
+2° de naam, het adres en het aantal kinderopvangplaatsen van de kinderopvanglocatie;<br>
+3° de omschrijving van de kinderopvanglocatie waarvoor een afwijking gevraagd wordt;<br>
+4° de vergunningsvoorwaarde waarvoor een afwijking wordt gevraagd;<br>
+5° de motivatie waarom een afwijking wordt gevraagd;<br>
+6° de context en een voorstel met maatregelen die een gelijkwaardige veiligheid en kwaliteit kunnen garanderen;<br>
+7° de datum en de handtekening van de organisator.</p>
+
+<p>Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de organisator minstens de volgende documenten, met de post of elektronisch, die de gegevens, vermeld in het eerste lid, aantonen :<br>
+1° een duidelijk grondplan van de kinderopvanglocatie op schaal 1/50 of 1/100 met minstens de volgende aanduidingen :<br>
+a) de leefruimtes met alle binnenafmetingen en het aantal kinderen dat er opgevangen zal worden;<br>
+b) de rustruimtes met alle binnenafmetingen en het aantal kinderen dat er opgevangen zal worden;<br>
+c) de eventuele andere aanwezige lokalen met vermelding van de functie ervan;<br>
+2° het verslag van de bevoegde brandweerdienst en, in voorkomend geval, het brandveiligheidsattest, het stappenplan en het advies van de brandweer over dat stappenplan.</p>
+
+<p>De technische commissie kan naast de informatie of stukken, vermeld in het eerste en het tweede lid, bijkomende informatie of stukken opvragen na ontvangst van het aanvraagformulier tot afwijking, vermeld in het eerste lid.</p>
+
+<p>De technische commissie bezorgt na ontvangst van de aanvraag een ontvangstmelding.</p>
 
 ### ART. 45.
 
-Kind en Gezin vraagt advies over de aanvraag tot afwijking, vermeld in   artikel 44, § 1, aan de commissie voor afwijkingen kinderopvang, vermeld in   artikel 63 van het Vergunningsbesluit van 22 november 2013, uiterlijk vijftien   kalenderdagen na de ontvangst van de aanvraag tot afwijking. De termijn wordt   voor maximaal dertig kalenderdagen geschorst als Kind en Gezin bijkomende   informatie vraagt als vermeld in artikel 44, derde lid.<BR>
+...
 
 ### ART. 46.
 
-Kind en Gezin beslist over de aanvraag tot afwijking, vermeld in artikel   44, uiterlijk zestig kalenderdagen na de ontvangst van het advies van de   bevoegde commissie, en stuurt de beslissing en het advies van de bevoegde   commissie daarover aan de organisator uiterlijk vijftien kalenderdagen na de   beslissing:<BR>1° als de aanvraag ingewilligd wordt: elektronisch;<BR>2° als de   aanvraag gedeeltelijk of niet ingewilligd wordt: elektronisch en met een   aangetekende brief.<BR>
+Kind en Gezin beslist over de aanvraag tot afwijking, vermeld in artikel 44, § 1, uiterlijk vijfenzeventig kalenderdagen na de ontvangst van die aanvraag. Als Kind en Gezin bijkomende informatie of stukken als vermeld in artikel 44, § 1, derde lid, vraagt, dan wordt de termijn voor maximaal dertig kalenderdagen geschorst.<br>
+<br>
+Kind en Gezin beslist over de aanvraag tot afwijking, vermeld in artikel 44, § 2, uiterlijk zestig kalenderdagen na de ontvangst van het advies van de bevoegde technische commissie. Het advies wordt bij de beslissing gevoegd.<br>
+<br>
+Kind en Gezin bezorgt de beslissing uiterlijk vijftien kalenderdagen na de beslissing aan de organisator:<br>
+1° als de aanvraag ingewilligd wordt: elektronisch;<br>
+2° als de aanvraag gedeeltelijk of niet ingewilligd wordt: elektronisch en met een aangetekende brief.
 
 ### ART. 47.
 
@@ -266,7 +321,18 @@ Als Kind en Gezin geen beslissing heeft genomen of de organisator daarvan   niet
 
 ### ART. 48.
 
-<P>De aanvraag van een attest tot afwijking als vermeld in artikel 64, 65 en   66/1, van het Vergunningsbesluit van 22 november 2013, wordt ingediend met het   aanvraagformulier van Kind en Gezin, dat de volgende gegevens bevat:<BR>1° de   identificatiegegevens en de contactgegevens van de persoon voor wie de afwijking   aangevraagd wordt;<BR>2° de vergunningsvoorwaarde waarvoor een afwijking   gevraagd wordt.<BR></P>  <P>Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de   organisator de volgende documenten, met de post of elektronisch:<BR>1° voor het   attest, vermeld in artikel 64, derde lid, van het Vergunningsbesluit van 22   november 2013 : de documenten die aantonen dat de persoon voor wie het attest   geldt, hetzij gedurende de vijf jaar die voorafgaan aan 1 april 2014, drie jaar   tewerkgesteld was als kinderbegeleider of verantwoordelijke, hetzij een   tewerkstelling kan aantonen met ervaring binnen een kwaliteitsvolle   werking;<BR>2° voor het attest, vermeld in artikel 65 van het Vergunningsbesluit   van 22 november 2013: de documenten die aantonen dat de persoon voor wie het   attest geldt, al gewerkt heeft binnen de gezinsopvang en op welk adres;<BR>3°   voor het attest, vermeld in artikel 66/1 van het Vergunningsbesluit van 22   november 2013: de documenten die aantonen dat een bewijs van kennis van het   Nederlands bezorgd en aanvaard is door Kind en Gezin als vermeld in artikel 66/1   van het Vergunningsbesluit van 22 november 2013.<BR></P>  <P>Kind en Gezin kan naast de informatie of stukken, vermeld in het eerste en   het tweede lid, bijkomende informatie of stukken opvragen uiterlijk vijftien   kalenderdagen na het aanvraagformulier, vermeld in het eerste lid.<BR></P>  <P>Kind en Gezin bezorgt na ontvangst van de aanvraag een   ontvangstmelding.<BR></P>
+<p>De aanvraag van een attest tot afwijking als vermeld in artikel 64, 65 en 66/1, van het Vergunningsbesluit van 22 november 2013, wordt ingediend met het aanvraagformulier van Kind en Gezin, dat de volgende gegevens bevat:<br>
+1° de identificatiegegevens en de contactgegevens van de persoon voor wie de afwijking aangevraagd wordt;<br>
+2° de vergunningsvoorwaarde waarvoor een afwijking gevraagd wordt.</p>
+
+<p>Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de organisator&nbsp;&nbsp;of de persoon die voor zichzelf de afwijking aanvraagt, de volgende documenten, met de post of elektronisch:<br>
+1° voor het attest, vermeld in artikel 64, derde lid, van het Vergunningsbesluit van 22 november 2013 : de documenten die aantonen dat de persoon voor wie het attest geldt, hetzij gedurende de vijf jaar die voorafgaan aan 1 april 2014, drie jaar tewerkgesteld was als kinderbegeleider of verantwoordelijke, hetzij een tewerkstelling kan aantonen met ervaring binnen een kwaliteitsvolle werking;<br>
+2° voor het attest, vermeld in artikel 65 van het Vergunningsbesluit van 22 november 2013: de documenten die aantonen dat de persoon voor wie het attest geldt, al gewerkt heeft binnen de gezinsopvang en op welk adres;<br>
+3° voor het attest, vermeld in artikel 66/1 van het Vergunningsbesluit van 22 november 2013: de documenten die aantonen dat een bewijs van kennis van het Nederlands bezorgd en aanvaard is door Kind en Gezin als vermeld in artikel 66/1 van het Vergunningsbesluit van 22 november 2013.</p>
+
+<p>Kind en Gezin kan naast de informatie of stukken, vermeld in het eerste en het tweede lid, bijkomende informatie of stukken opvragen uiterlijk vijftien kalenderdagen na het aanvraagformulier, vermeld in het eerste lid.</p>
+
+<p>Kind en Gezin bezorgt na ontvangst van de aanvraag een ontvangstmelding.</p>
 
 ### ART. 49.
 
@@ -447,7 +513,13 @@ Als Kind en Gezin geen beslissing heeft genomen of de organisator daarvan   niet
 
 ### ART. 75.
 
-<P>De subsidiebelofte heeft de volgende geldigheidsduur:<BR>1° de   subsidiebelofte voor de basissubsidie, de subsidie voor inkomenstarief en de   plussubsidie geldt voor gezinsopvang één jaar en voor groepsopvang drie   jaar;<BR>2° de subsidiebelofte voor subsidie voor kinderopvang met flexibele   openingstijden, voor de structurele inclusieve kinderopvang en voor een Centrum   voor inclusieve kinderopvang geldt één jaar.<BR></P>  <P>De organisator kan eenmalig een verlenging vragen van de subsidiebelofte bij   Kind en Gezin voor maximaal dezelfde geldigheidsduur als in aanvang.<BR></P>  <P>Als de subsidiebelofte binnen de geldigheidsduur niet omgezet is in een   subsidietoekenning, vervalt de subsidiebelofte van   rechtswege.<BR></P>
+<p>De subsidiebelofte is geldig tot drie maanden na de gewenste startdatum die de organisator op het formulier voor de aanvraag van een subsidiebelofte heeft ingevuld. In afwijking daarvan behouden de subsidiebeloftes die Kind en Gezin heeft toegekend vóór 1 november 2017, de geldigheidsduur vermeld in de beslissing tot toekenning van de subsidiebelofte. Een verlenging van die subsidiebelofte gebeurt overeenkomstig het tweede lid.<br>
+<br>
+Als de organisator de subsidiebelofte niet tijdig kan omzetten in een subsidietoekenning, kan de organisator eenmalig en gemotiveerd een verlenging van de subsidiebelofte van maximaal zes maanden vragen bij Kind en Gezin. Kind en Gezin zal een verlenging toekennen als de verlenging tot resultaat kan hebben dat de organisator binnen die termijn de subsidiebelofte kan laten omzetten in een subsidietoekenning.<br>
+<br>
+In afwijking van het tweede en het derde lid kan Kind en Gezin in uitzonderlijke situaties van overmacht een ruimere verlenging toestaan..</p>
+
+<p>Als de subsidiebelofte binnen de geldigheidsduur niet omgezet is in een subsidietoekenning, vervalt de subsidiebelofte van rechtswege.</p>
 
 ### ART. 76.
 
@@ -469,7 +541,22 @@ Kind en Gezin beslist over de aanvraag tot verlenging uiterlijk dertig   kalende
 
 ### ART. 79.
 
-De aanvraag van een subsidietoekenning na een subsidiebelofte wordt   ingediend met het aanvraagformulier van Kind en Gezin, dat de volgende gegevens   bevat:<BR>1° de datum vanaf wanneer de organisator de subsidies effectief wil   laten ingaan;<BR>2° de gegevens over de organisator:<BR>a) de naam, de   rechtsvorm, het adres, het rekeningnummer en het ondernemingsnummer van de   organisator. Als de organisator een feitelijke vereniging is, moet het   rekeningnummer slaan op de feitelijke vereniging zelf;<BR>b) de   identiteitsgegevens en de contactgegevens, waaronder minstens de voor- en   achternaam, het telefoonnummer en het e-mailadres van de contactpersoon van de   organisator;<BR>3° de gegevens over de organisatie van de kinderopvang waarvoor   de subsidietoekenning wordt aangevraagd:<BR>a) het gevraagde aantal   subsidieerbare kinderopvangplaatsen;<BR>b) voor welke subsidiegroep;<BR>c) de   verwijzing naar de subsidiebelofte;<BR>d) de kinderopvanglocatie waar de   organisator de specifieke dienstverlening zal aanbieden;<BR>4° een verklaring op   erewoord over:<BR>a) het feit dat de persoon die de aanvraag doet, gemachtigd is   om te handelen in naam van de organisator;<BR>b) de kennisname van de   voorwaarden voor de specifieke dienstverlening, vermeld in het Subsidiebesluit   van 22 november 2013;<BR>5° de datum en de handtekening van de   organisator.<BR>
+De aanvraag van een subsidietoekenning na een subsidiebelofte wordt ingediend met het aanvraagformulier van Kind en Gezin, dat de volgende gegevens bevat:<br>
+1° de datum vanaf wanneer de organisator de subsidies effectief wil laten ingaan;<br>
+2° de gegevens over de organisator:<br>
+a) de naam, de rechtsvorm, het adres, het rekeningnummer en het ondernemingsnummer van de organisator. Als de organisator een feitelijke vereniging is, moet het rekeningnummer slaan op de feitelijke vereniging zelf;<br>
+b) de identiteitsgegevens en de contactgegevens, waaronder minstens de voor- en achternaam, het telefoonnummer en het e-mailadres van de contactpersoon van de organisator;<br>
+3° de gegevens over de organisatie van de kinderopvang waarvoor de subsidietoekenning wordt aangevraagd:<br>
+a) het gevraagde aantal subsidieerbare kinderopvangplaatsen;<br>
+b) voor welke subsidiegroep;<br>
+c) de verwijzing naar de subsidiebelofte;<br>
+d) de kinderopvanglocatie waar de organisator de specifieke dienstverlening zal aanbieden, waarbij voor de eerste realisatie:<br>
+1) in geval van groepsopvang: de kinderopvanglocatie moet overeenstemmen met de kinderopvanglocatie die is opgegeven in de aanvraag van een subsidiebelofte;<br>
+2) in geval van gezinsopvang: de gemeente waar de kinderopvanglocatie gelegen is moet overeenstemmen met de gemeente die is opgegeven in de aanvraag van een subsidiebelofte;<br>
+4° een verklaring op erewoord over:<br>
+a) het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
+b) de kennisname van de voorwaarden voor de specifieke dienstverlening, vermeld in het Subsidiebesluit van 22 november 2013;<br>
+5° de datum en de handtekening van de organisator.
 
 ### ART. 80.
 
@@ -513,7 +600,9 @@ Kind en Gezin kan de aanvraag tot wijziging van een subsidietoekenning   toekenn
 
 ### ART. 89.
 
-Als Kind en Gezin een wijziging van de subsidietoekenning toekent, gaat   die op zijn vroegste in op de eerste dag van de maand die volgt op de beslissing   tot toekenning.<BR>
+Als Kind en Gezin een wijziging van de subsidietoekenning als vermeld in artikel 88, 1°, toekent, gaat die op zijn vroegste in op 1 januari van het vorige kalenderjaar. Als er al een saldoafrekening is gemaakt, kan de toekenning op zijn vroegste ingaan op 1 januari van het jaar van de aanvraag.<br>
+<br>
+Als Kind en Gezin een wijziging van de subsidietoekenning als vermeld in artikel 88, 2° tot en met 6°, toekent, gaat die op zijn vroegste in op de datum van de beslissing tot toekenning.
 
 ## Onderafdeling 4 Aanvraag van een subsidietoekenning bij wijziging van de organisator
 
