@@ -20,6 +20,41 @@ Na beraadslaging,<br>
 <br>
 Besluit :
 
+### ART 1.
+
+In artikel 9 van het Procedurebesluit van 9 mei 2014, gewijzigd bij het besluit van de Vlaamse Regering van 9 oktober 2015, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 2° wordt de zinsnede "vermeld in artikel 4 en 40, § 1, eerste lid, 2° " vervangen door de zinsnede "vermeld in artikel 4 en 40, § 2, eerste lid, 1° ";<br>
+2° in punt 4°, a), wordt de zinsnede "vermeld in artikel 10 en 43, § 1, eerste lid, 2° " vervangen door de zinsnede "vermeld in artikel 10 en 43, § 2, eerste lid, 1° ".
+
+### ART 2.
+
+In artikel 21 van hetzelfde besluit worden de woorden "wordt met maximaal" vervangen door de woorden "wordt telkens met maximaal".
+
+### ART 3.
+
+In artikel 44 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 9 oktober 2015, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt de zinsnede "vermeld in artikel 63, 1° tot en met 4° " vervangen door de zinsnede "vermeld in artikel 63, eerste lid, 1° tot en met 3° ";<br>
+2° in paragraaf 2, eerste lid, wordt de zinsnede "vermeld in artikel 63, 5° " vervangen door de zinsnede "vermeld in artikel 63, eerste lid, 4° ".
+
+### ART 4.
+
+Artikel 45 van hetzelfde besluit wordt opgeheven.
+
+### ART 5.
+
+Artikel 46 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+"Art. 46. Kind en Gezin beslist over de aanvraag tot afwijking, vermeld in artikel 44, § 1, uiterlijk vijfenzeventig kalenderdagen na de ontvangst van die aanvraag. Als Kind en Gezin bijkomende informatie of stukken als vermeld in artikel 44, § 1, derde lid, vraagt, dan wordt de termijn voor maximaal dertig kalenderdagen geschorst.<br>
+<br>
+Kind en Gezin beslist over de aanvraag tot afwijking, vermeld in artikel 44, § 2, uiterlijk zestig kalenderdagen na de ontvangst van het advies van de bevoegde technische commissie. Het advies wordt bij de beslissing gevoegd.<br>
+<br>
+Kind en Gezin bezorgt de beslissing uiterlijk vijftien kalenderdagen na de beslissing aan de organisator:<br>
+1° als de aanvraag ingewilligd wordt: elektronisch;<br>
+2° als de aanvraag gedeeltelijk of niet ingewilligd wordt: elektronisch en met een aangetekende brief.".
+
+### ART 6.
+
+In artikel 48, tweede lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 9 oktober 2015, wordt tussen de woorden "bezorgt de organisator" en de woorden "de volgende documenten" de zinsnede "of de persoon die voor zichzelf de afwijking aanvraagt," ingevoegd.
+
 ### ART 7.
 
 In artikel 57 van hetzelfde besluit, vervangen bij besluit van de Vlaamse Regering van 23 oktober 2015, worden de volgende wijzigingen aangebracht:<br>
@@ -51,6 +86,29 @@ In artikel 58, 5°, van hetzelfde besluit wordt het woord "ontvankelijkheid" ver
 Aan artikel 72, 3°, van hetzelfde besluit wordt een punt f) en een punt g) toegevoegd, die luiden als volgt:<br>
 "f) in geval van groepsopvang: in welke kinderopvanglocatie de subsidieerbare plaatsen eerst gerealiseerd moeten worden;<br>
 g) in geval van gezinsopvang: in welke gemeente de subsidieerbare plaatsen eerst gerealiseerd moeten worden;".
+
+### ART 10.
+
+In artikel 75 van hetzelfde besluit worden het eerste lid en het tweede lid vervangen door wat volgt:<br>
+"De subsidiebelofte is geldig tot drie maanden na de gewenste startdatum die de organisator op het formulier voor de aanvraag van een subsidiebelofte heeft ingevuld. In afwijking daarvan behouden de subsidiebeloftes die Kind en Gezin heeft toegekend vóór 1 november 2017, de geldigheidsduur vermeld in de beslissing tot toekenning van de subsidiebelofte. Een verlenging van die subsidiebelofte gebeurt overeenkomstig het tweede lid.<br>
+<br>
+Als de organisator de subsidiebelofte niet tijdig kan omzetten in een subsidietoekenning, kan de organisator eenmalig en gemotiveerd een verlenging van de subsidiebelofte van maximaal zes maanden vragen bij Kind en Gezin. Kind en Gezin zal een verlenging toekennen als de verlenging tot resultaat kan hebben dat de organisator binnen die termijn de subsidiebelofte kan laten omzetten in een subsidietoekenning.<br>
+<br>
+In afwijking van het tweede en het derde lid kan Kind en Gezin in uitzonderlijke situaties van overmacht een ruimere verlenging toestaan.".
+
+### ART 11.
+
+In artikel 79, 3°, van hetzelfde besluit wordt punt d) vervangen door wat volgt:<br>
+"d) de kinderopvanglocatie waar de organisator de specifieke dienstverlening zal aanbieden, waarbij voor de eerste realisatie:<br>
+1) in geval van groepsopvang: de kinderopvanglocatie moet overeenstemmen met de kinderopvanglocatie die is opgegeven in de aanvraag van een subsidiebelofte;<br>
+2) in geval van gezinsopvang: de gemeente waar de kinderopvanglocatie gelegen is moet overeenstemmen met de gemeente die is opgegeven in de aanvraag van een subsidiebelofte;".
+
+### ART 12.
+
+Artikel 89 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+"Art. 89. Als Kind en Gezin een wijziging van de subsidietoekenning als vermeld in artikel 88, 1°, toekent, gaat die op zijn vroegste in op 1 januari van het vorige kalenderjaar. Als er al een saldoafrekening is gemaakt, kan de toekenning op zijn vroegste ingaan op 1 januari van het jaar van de aanvraag.<br>
+<br>
+Als Kind en Gezin een wijziging van de subsidietoekenning als vermeld in artikel 88, 2° tot en met 6°, toekent, gaat die op zijn vroegste in op de datum van de beslissing tot toekenning.".
 
 ### ART 13.
 
@@ -96,3 +154,11 @@ Art. 112/6. Kind en Gezin stopt met de tussenkomst als uitbetalingsinstelling in
 1° het lokaal bestuur leeft de voorwaarden van het convenant of van de bepalingen, vermeld in artikel 112/4, niet na;<br>
 2° het lokaal bestuur stopt de subsidiëring van de organisator. Het lokaal bestuur laat dat onmiddellijk weten aan Kind en Gezin;<br>
 3° het convenant wordt door het lokaal bestuur of door Kind en Gezin stopgezet.".
+
+### ART 14.
+
+Artikel 7, 8, 9 en 13 hebben uitwerking met ingang van 15 maart 2017.
+
+### ART 15.
+
+&nbsp;De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
