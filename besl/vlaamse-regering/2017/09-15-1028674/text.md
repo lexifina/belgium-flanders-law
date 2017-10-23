@@ -108,6 +108,16 @@ Aan hetzelfde besluit wordt een bijlage 20 toegevoegd, die bij dit besluit is ge
 
 Als ziekenhuizen erkende verpleegkundigen tewerkstellen voor wie de overgangsbepaling, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 15 juli 2016 tot wijziging van artikel 1 van het koninklijk besluit van 28 december 2011 betreffende uitvoering van het attractiviteitsplan voor het verpleegkundig beroep, in bepaalde federale gezondheidssectoren, wat betreft de premies voor de titels en bijzondere beroepsbekwaamheden en ongemakkelijke prestaties, van toepassing is, blijft het koninklijk besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen, zoals van kracht vóór de inwerkingtreding van dit besluit, gelden.
 
+### ART 9.
+
+Artikel 1, artikel 2 en artikel 5 tot en met 8 hebben uitwerking met ingang van 2 september 2016.<br>
+<br>
+Artikel 3, artikel 4 en artikel 7 hebben uitwerking met ingang van 1 juli 2016.
+
+### ART 10.
+
+De Vlaamse minister, bevoegd voor het gezondheidsbeleid, is belast met de uitvoering van dit besluit.
+
 ### BIJLAGE
 
 Bijlage 20 bij het koninklijk besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen<br>
