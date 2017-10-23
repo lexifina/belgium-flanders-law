@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028706,
+  "title": "Ministerieel besluit van 2017-10-12 tot wijziging van het besluit van de Vlaamse Regering van 16 november 2012 tot toekenning van steun aan ondernemingen voor strategische ecologie-investeringen in het Vlaamse Gewest, wat betreft de schrapping van de ecologie-investeringen in warmtenetten die in aanmerking komen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028706/VolledigDocument?datum=2017-10-23",
+  "source_sha256": "9710c4487b7044e2e67dc66ac38249dac5b513d508de9a58ad76195e36b8303a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028706&param=informatie",
+  "as_of": "2017-10-23",
+  "made": "2017-10-12",
+  "gazette": "2017-10-27",
+  "numac": 2017013839,
+  "document_start": "2017-10-23",
+  "document_end": null,
+  "in_force": "2017-10-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
