@@ -110,7 +110,23 @@ De termijn van vijf jaar, vermeld in artikel 7 van het decreet van 16   maart 20
 
 ### ART. 17.
 
-<P>De volgende ecologie-investeringen komen niet voor steun in aanmerking :   <BR>1° de ecologie-investeringen die vroeger zijn geactiveerd en opgenomen in de   afschrijvingstabel, en die verworven worden van : <BR>a) een onderneming waarin   de steunaanvragende onderneming rechtstreeks of onrechtstreeks   participeert;<BR>b) een onderneming die rechtstreeks of onrechtstreeks   participeert in de steunaanvragende onderneming;<BR>c) een verwante   patrimoniumvennootschap;<BR>2° de ecologie-investeringen die verworven worden   van een zaakvoerder, een bestuurder of een aandeelhouder van de steunaanvragende   onderneming;<BR>3° de ecologie-investeringen die in geval van aankoop niet   verworven worden in volle eigendom;<BR>4° de ecologie-investeringen, met   uitzondering van oplaadsystemen voor elektrische of hybride vaartuigen of   voertuigen, die gratis of onder bezwarende titel ter beschikking worden gesteld   aan derden;<BR>5° ecologie-investeringen die in aanmerking komen voor   steunverlening via warmtekrachtcertificaten als vermeld in het titel, VII,   hoofdstuk I, van het Energiedecreet;<BR>6° ecologie-investeringen die in   aanmerking komen voor steunverlening via groenestroomcertificaten als vermeld in   het titel, VII, hoofdstuk I, van het Energiedecreet;<BR>7° de   ecologie-investeringen die een onderdeel uitmaken van de ecologie-investeringen,   vermeld in punten 5° en 6°;<BR>8° de ecologie-investeringen met betrekking tot   de oprichting, uitbreiding of modernisering van een bedrijvencentrum of een   doorgangsgebouw;<BR>9° de ecologie-investeringen die op een periode van minder   dan drie jaar worden afgeschreven. <BR>10° de ecologie-investeringen in diepe   aardwarmte-installaties, met uitzondering van de eerste twee diepe boringen voor   de productie- en injectieput van een open hydrothermaal systeem in een vergund   volumegebied voor zover een systeem van vergunningen of concessie van toepassing   is.<BR><BR>De minister kan, overeenkomstig de bedoeling van het decreet van 16   maart 2012 en dit besluit, de opsomming van de niet in aanmerking komende   ecologie-investeringen, vermeld in het eerste lid, aanpassen.</P>
+<p>De volgende ecologie-investeringen komen niet voor steun in aanmerking :<br>
+1° de ecologie-investeringen die vroeger zijn geactiveerd en opgenomen in de afschrijvingstabel, en die verworven worden van :<br>
+a) een onderneming waarin de steunaanvragende onderneming rechtstreeks of onrechtstreeks participeert;<br>
+b) een onderneming die rechtstreeks of onrechtstreeks participeert in de steunaanvragende onderneming;<br>
+c) een verwante patrimoniumvennootschap;<br>
+2° de ecologie-investeringen die verworven worden van een zaakvoerder, een bestuurder of een aandeelhouder van de steunaanvragende onderneming;<br>
+3° de ecologie-investeringen die in geval van aankoop niet verworven worden in volle eigendom;<br>
+4° de ecologie-investeringen, met uitzondering van oplaadsystemen voor elektrische of hybride vaartuigen of voertuigen, die gratis of onder bezwarende titel ter beschikking worden gesteld aan derden;<br>
+5° ecologie-investeringen die in aanmerking komen voor steunverlening via warmtekrachtcertificaten als vermeld in het titel, VII, hoofdstuk I, van het Energiedecreet;<br>
+6° ecologie-investeringen die in aanmerking komen voor steunverlening via groenestroomcertificaten als vermeld in het titel, VII, hoofdstuk I, van het Energiedecreet;<br>
+7° de ecologie-investeringen die een onderdeel uitmaken van de ecologie-investeringen, vermeld in punten 5° en 6°;<br>
+8° de ecologie-investeringen met betrekking tot de oprichting, uitbreiding of modernisering van een bedrijvencentrum of een doorgangsgebouw;<br>
+9° de ecologie-investeringen die op een periode van minder dan drie jaar worden afgeschreven.<br>
+10° de ecologie-investeringen in diepe aardwarmte-installaties, met uitzondering van de eerste twee diepe boringen voor de productie- en injectieput van een open hydrothermaal systeem in een vergund volumegebied voor zover een systeem van vergunningen of concessie van toepassing is;<br>
+11° de ecologie-investeringen in warmtenetten als vermeld in artikel 1.1.3, 113/1/1°, van het Energiedecreet.<br>
+<br>
+De minister kan, overeenkomstig de bedoeling van het decreet van 16 maart 2012 en dit besluit, de opsomming van de niet in aanmerking komende ecologie-investeringen, vermeld in het eerste lid, aanpassen.</p>
 
 ### ART. 18.
 
