@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028772,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-27 tot wijziging van het besluit van de Vlaamse Regering van 25 juli 2014 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028772/VolledigDocument?datum=2017-10-27",
+  "source_sha256": "d5c8de9f5e4799ed9b1e169a8fffe1f6a1bc66b901e73aec7480409ed661f067",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028772&param=informatie",
+  "as_of": "2017-10-27",
+  "made": "2017-10-27",
+  "gazette": "2017-11-24",
+  "numac": 2017014079,
+  "document_start": "2017-10-27",
+  "document_end": null,
+  "in_force": "2017-10-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-10-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
