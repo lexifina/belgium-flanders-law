@@ -287,6 +287,10 @@ In de rechtsgedingen van de Vlaamse Gemeenschap of het Vlaamse Gewest met   betr
 
 De Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, heeft   delegatie om onteigeningsmachtigingen te verlenen ten algemenen nutte, behoudens   in de gevallen bepaald in de wet, aan de gemeenten, de provincies, de autonome   gemeentebedrijven, de autonome provinciebedrijven, de OCMW's, de   intergemeentelijke samenwerkingsverbanden en de provinciale   ontwikkelingsmaatschappijen overeenkomstig het besluit van de Vlaamse Regering   inzake onteigeningen ten algemene nutte ten behoeve van de gemeenten, de   provincies, de autonome gemeentebedrijven, de autonome provinciebedrijven, de   OCMW's, de intergemeentelijke samenwerkingsverbanden en de provinciale   ontwikkelingsmaatschappijen.<BR><BR>De leden van de Vlaamse Regering hebben   delegatie om onteigeningsmachtigingen te verlenen aan instellingen of   rechtspersonen die onder hun bevoegdheid vallen.
 
+### ART 13/1.
+
+De Vlaamse minister, bevoegd voor de ruimtelijke ordening, heeft delegatie om te beslissen over de beroepen inzake opening, afschaffing, wijziging of verlegging van buurtwegen, vermeld in artikel 28 van de wet van 10 april 1841 op de buurtwegen.
+
 ## HOOFDSTUK 3 Algemene bepalingen
 
 ### ART. 14.
