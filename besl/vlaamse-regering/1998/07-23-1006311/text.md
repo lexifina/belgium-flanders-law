@@ -139,7 +139,20 @@ Onverminderd het bepaalde in artikel 9 van het decreet, is het wijzigen   van de
 
 ### ART. 9.
 
-Indien er, wanneer van toepassing, uitdrukkelijk voldaan is aan de   bepalingen van artikel 14 van het decreet, inzake de zorgplicht, artikel 16 van   het decreet, inzake het vermijden van vermijdbare natuurschade of 36ter van het   decreet, inzake de bescherming van speciale beschermingszones, gelden de in dit   hoofdstuk opgenomen verbodsbepalingen en vergunningsplichten niet wanneer ze   activiteiten betreffend die : <BR>1° hetzij worden uitgevoerd op huiskavels van   een vergunde woning en/of bedrijfsgebouw en gelegen binnen een straal van   maximum 100 meters rondom de vergunde woning en/of bedrijfsgebouw voor zover ze   respectievelijk bewoond of in gebruik zijn. Deze straal wordt beperkt tot 50   meter als groengebied, parkgebied, buffergebied of bosgebied bestreken wordt.   Voor zover gelegen binnen groengebieden, parkgebieden, buffergebieden en   bosgebieden wordt dit beperkt tot het kadastraal perceel van de vergunde woning   en/of bedrijfsgebouw met een maximale straal van 50 meter rondom de vergunde   woning en/of bedrijfsgebouw.<BR>2° hetzij worden uitgevoerd op basis van een   omgevingsvergunning voor stedenbouwkundige handelingen afgeleverd met toepassing   van de wetgeving op de ruimtelijke ordening na advies van het agentschap; <BR>3°   hetzij worden uitgevoerd op basis van een regelmatige machtiging of vergunning,   afgeleverd op basis van het Bosdecreet van 13 juni 1990;<BR>4° hetzij expliciet   zijn opgenomen in : <BR>a) een beheersplan voor natuurreservaten goedgekeurd met   toepassing van artikel 34 van het decreet;<BR>b) een beheersplan, goedgekeurd   met toepassing van artikel 25 of 43 van het Bosdecreet van 13 juni 1990;<BR>c)   in een landinrichtingsplan goedgekeurd met toepassing van het besluit van de   Vlaamse Regering van 28 maart 2014 betreffende de landinrichting;<BR>d) een   kavelplan goedgekeurd met toepassing van de wet van 22 juli 1970 op de   ruilverkaveling van landeigendommen en inzoverre zij zijn uit te voeren in   opdracht van het ruilverkavelingscomité;<BR>e) een natuurinrichtingsproject,   goedgekeurd met toepassing van artikel 47 van het decreet;<BR>f) een beheersplan   goedgekeurd met toepassing van het decreet van 16 april 1996 betreffende de   landschapszorg;<BR>g) een natuurrichtplan goedgekeurd met toepassing van artikel   48 en volgende van het decreet;<BR>5° hetzij normale onderhoudswerken, als   bedoeld in artikel 13, § 6, 4°, van het decreet, betreffen;<BR>6° hetzij vallen   onder en voldoen aan de beschermingsbepalingen van het VEN.
+Indien er, wanneer van toepassing, uitdrukkelijk voldaan is aan de bepalingen van artikel 14 van het decreet, inzake de zorgplicht, artikel 16 van het decreet, inzake het vermijden van vermijdbare natuurschade of 36ter van het decreet, inzake de bescherming van speciale beschermingszones, gelden de in dit hoofdstuk opgenomen verbodsbepalingen en vergunningsplichten niet wanneer ze activiteiten betreffend die :<br>
+1° hetzij worden uitgevoerd op huiskavels van een vergunde woning en/of bedrijfsgebouw en gelegen binnen een straal van maximum 100 meters rondom de vergunde woning en/of bedrijfsgebouw voor zover ze respectievelijk bewoond of in gebruik zijn. Deze straal wordt beperkt tot 50 meter als groengebied, parkgebied, buffergebied of bosgebied bestreken wordt. Voor zover gelegen binnen groengebieden, parkgebieden, buffergebieden en bosgebieden wordt dit beperkt tot het kadastraal perceel van de vergunde woning en/of bedrijfsgebouw met een maximale straal van 50 meter rondom de vergunde woning en/of bedrijfsgebouw.<br>
+2° hetzij worden uitgevoerd op basis van een omgevingsvergunning voor stedenbouwkundige handelingen afgeleverd met toepassing van de wetgeving op de ruimtelijke ordening na advies van het agentschap;<br>
+3° hetzij worden uitgevoerd op basis van een regelmatige machtiging of vergunning, afgeleverd op basis van het Bosdecreet van 13 juni 1990;<br>
+4° hetzij expliciet zijn opgenomen in :<br>
+a) een beheerplan vastgesteld op grond van het decreet of van het Bosdecreet van 13 juni 1990;<br>
+b) ...<br>
+c) in een landinrichtingsplan goedgekeurd met toepassing van het besluit van de Vlaamse Regering van 28 maart 2014 betreffende de landinrichting;<br>
+d) een kavelplan goedgekeurd met toepassing van de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen en inzoverre zij zijn uit te voeren in opdracht van het ruilverkavelingscomité;<br>
+e) een natuurinrichtingsproject, goedgekeurd met toepassing van artikel 47 van het decreet;<br>
+f) een beheersplan goedgekeurd met toepassing van het decreet van 16 april 1996 betreffende de landschapszorg;<br>
+g) een natuurrichtplan goedgekeurd met toepassing van artikel 48 en volgende van het decreet;<br>
+5° hetzij normale onderhoudswerken, als bedoeld in artikel 13, § 6, 4°, van het decreet, betreffen;<br>
+6° hetzij vallen onder en voldoen aan de beschermingsbepalingen van het VEN.
 
 ### ART. 10.
 
@@ -196,22 +209,18 @@ Van de in artikel 15, § 1 of § 4, vermelde beslissing over de aanvraag wordt e
 2° de uitvoering van het natuurinrichtingsproject.<br>
 <br>
 § 2. Het projectcomité is samengesteld uit de volgende effectieve leden:<br>
-1° twee vertegenwoordigers van het Agentschap, waarvan één het voorzitterschap verzekert;<br>
-2° één vertegenwoordiger van de VLM, die het secretariaat verzekert;<br>
-3° één vertegenwoordiger van elk departement van de Vlaamse ministeries en van elk agentschap van de Vlaamse administratie, waarvan de bevoegdheid bij het project is betrokken, voorgedragen door de voor deze materie bevoegde minister;<br>
+1° twee vertegenwoordigers van het Agentschap, waarvan één het voorzitterschap verzekert, voorgedragen door de leidend ambtenaar in kwestie;<br>
+2° één vertegenwoordiger van de VLM, die het secretariaat verzekert, voorgedragen door de leidend ambtenaar in kwestie;<br>
+3° één vertegenwoordiger van elk departement van de Vlaamse ministeries en van elk agentschap van de Vlaamse administratie, waarvan de bevoegdheid bij het project is betrokken,&nbsp;voorgedragen door de leidend ambtenaar in kwestie;<br>
 4° één vertegenwoordiger van de provincie, voorgedragen door de Bestendige Deputatie van de betrokken provincieraad;<br>
 5° één vertegenwoordiger van de betrokken gemeente, voorgedragen door de Burgemeester van deze gemeente;<br>
 6° één vertegenwoordiger van de natuurverenigingen indien voorgedragen door de MINA-raad;<br>
 7° één vertegenwoordiger van de Provinciale Landbouwkamers indien voorgedragen door de Landbouwkamer van de betrokken provincie;<br>
 8° één vertegenwoordiger van de Koninklijke Federatie van de Belgische Notarissen indien voorgedragen door de Vlaamse afdeling van deze Federatie;<br>
-9° één vertegenwoordiger van elke erkende terreinbeherende natuurvereniging die als eigenaar of beheerder van erkende natuurreservaten bij het natuurinrichtingsproject is betrokken;<br>
-10° één vertegenwoordiger van de watervoorzieningsmaatschappij waarvan een waterwinning gelegen is binnen het desbetreffende natuurinrichtingsproject of waarvan de activiteit van een waterwinning een rechtstreekse hydrologische invloed heeft op gebieden binnen het desbetreffende natuurinrichtingsproject.<br>
+9° één vertegenwoordiger van elke erkende terreinbeherende natuurvereniging die als eigenaar of beheerder van erkende natuurreservaten bij het natuurinrichtingsproject is betrokken, voorgedragen door de betrokken vereniging;<br>
+10° één vertegenwoordiger van de watervoorzieningsmaatschappij waarvan een waterwinning gelegen is binnen het desbetreffende natuurinrichtingsproject of waarvan de activiteit van een waterwinning een rechtstreekse hydrologische invloed heeft op gebieden binnen het desbetreffende natuurinrichtingsproject, voorgedragen door de betrokken watervoorzieningsmaatschappij.<br>
 <br>
-Voor elk van de in het eerste lid vermelde effectieve leden worden op dezelfde wijze plaatsvervangende leden voorgedragen.<br>
-<br>
-De minister benoemt de effectieve en plaatsvervangende leden.<br>
-<br>
-Elk ministerieel besluit houdende de benoeming van de effectieve en de plaatsvervangende leden van een projectcomité wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.
+Voor elk van de in het eerste lid vermelde effectieve leden worden op dezelfde wijze plaatsvervangende leden voorgedragen.
 
 ### ART. 21.
 
@@ -221,7 +230,20 @@ Elk ministerieel besluit houdende de benoeming van de effectieve en de plaatsver
 
 ### ART. 22.
 
-§ 1. Voor elk natuurinrichtingsproject dat door de minister overeenkomstig artikel 47 van het decreet is ingesteld, wordt een natuurinrichtingsprojectcommissie opgericht die het projectcomité bedoeld in artikel 20 van dit besluit adviseert.<br /><br />§ 2. De projectcommissie is samengesteld uit de volgende effectieve leden:<br />1° twee leden, gekozen uit een dubbele lijst voorgedragen door de erkende terreinbeherende natuurverenigingen die als eigenaar, gebruiker, vruchtgebruiker of beheerder van onroerende goederen bij het natuurinrichtingsproject zijn betrokken;<br />2° twee leden van de erkende gewestelijke natuur- en milieuverenigingen en/of de natuur- en milieuverenigingen uit de streek, gekozen uit een dubbele lijst voorgedragen door de Raad;<br />3° twee leden, gekozen uit de eigenaars, gebruikers, vruchtgebruikers of beheerders van onroerende goederen die bij het natuurinrichtingsproject zijn betrokken;<br />4° twee leden uit de streek, die deskundig zijn op het vlak van natuurbehoud en natuurlijk milieu en die niet als eigenaar, gebruiker, vruchtgebruiker of beheerder van onroerende goederen bij het natuurinrichtingsproject zijn betrokken op voor-dracht op een dubbele lijst van de Milieu- en Natuurraad van Vlaanderen;<br />5° twee leden uit de streek die deskundig zijn op het vlak van de landbouw en die niet als eigenaar, gebruiker, vruchtgebruiker of beheerder van onroerende goederen bij het natuurinrichtingsproject zijn betrokken op voordracht op een dubbele lijst van de Strategische Adviesraad voor Landbouw en Visserij; indien de afbakening van het natuurinrichtingsproject in belangrijke mate betrekking heeft op gebieden met agrarische bestemming die onder een speciale beschermingszone vallen, kan de minister deze delegatie uitbreiden tot vier leden; <br />6° twee leden, die niet als eigenaar, gebruiker, vruchtgebruiker of beheerder van onroerende goederen bij het natuurinrichtingsproject zijn betrokken, op voordracht van de Milieu- en Natuurraad van Vlaanderen, gekozen uit een dubbele lijst voorgedragen door deze Raad, voor zover bos in toepassing van het Bosdecreet van 13 juni 1990 voorkomt in het gebied van het natuurinrichtingsproject;<br />7° één vertegenwoordiger van de watervoorzieningsmaatschappij waarvan een waterwinning gelegen is binnen het desbetreffende natuurinrichtingsproject of waarvan de activiteit van een waterwinning een rechtstreekse hydrologische invloed heeft op gebieden binnen het desbetreffende natuurinrichtingsproject.<br /><br />Voor elk van voormelde effectieve leden worden op dezelfde wijze plaatsvervangende leden voorgedragen.<br /><br />De minister benoemt de effectieve en plaatsvervangende leden.<br /><br />Elk ministerieel besluit houdende de benoeming van de effectieve en de plaatsvervangende leden van een projectcommissie wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br /><br />§ 3. De voorzitter en de secretaris van het overeenkomstige projectcomité of hun plaatsvervangers nemen het voorzitterschap, respectievelijk het secretariaat van de projectcommissie waar.
+§ 1. Voor elk natuurinrichtingsproject dat door de minister overeenkomstig artikel 47 van het decreet is ingesteld, wordt een natuurinrichtingsprojectcommissie opgericht die het projectcomité bedoeld in artikel 20 van dit besluit adviseert.<br>
+<br>
+§ 2. De projectcommissie is samengesteld uit de volgende effectieve leden:<br>
+1° twee leden, gekozen uit een dubbele lijst voorgedragen door de erkende terreinbeherende natuurverenigingen die als eigenaar, gebruiker, vruchtgebruiker of beheerder van onroerende goederen bij het natuurinrichtingsproject zijn betrokken;<br>
+2° twee leden van de erkende gewestelijke natuur- en milieuverenigingen en/of de natuur- en milieuverenigingen uit de streek, gekozen uit een dubbele lijst voorgedragen door de Raad;<br>
+3° twee leden, gekozen uit de eigenaars, gebruikers, vruchtgebruikers of beheerders van onroerende goederen die bij het natuurinrichtingsproject zijn betrokken, voorgedragen door&nbsp;het projectsecretariaat;<br>
+4° twee leden uit de streek, die deskundig zijn op het vlak van natuurbehoud en natuurlijk milieu en die niet als eigenaar, gebruiker, vruchtgebruiker of beheerder van onroerende goederen bij het natuurinrichtingsproject zijn betrokken op voor-dracht op een dubbele lijst van de Milieu- en Natuurraad van Vlaanderen;<br>
+5° twee leden uit de streek die deskundig zijn op het vlak van de landbouw en die niet als eigenaar, gebruiker, vruchtgebruiker of beheerder van onroerende goederen bij het natuurinrichtingsproject zijn betrokken op voordracht op een dubbele lijst van de Strategische Adviesraad voor Landbouw en Visserij; indien de afbakening van het natuurinrichtingsproject in belangrijke mate betrekking heeft op gebieden met agrarische bestemming die onder een speciale beschermingszone vallen, kan de minister deze delegatie uitbreiden tot vier leden;<br>
+6° twee leden, die niet als eigenaar, gebruiker, vruchtgebruiker of beheerder van onroerende goederen bij het natuurinrichtingsproject zijn betrokken, op voordracht van de Milieu- en Natuurraad van Vlaanderen, gekozen uit een dubbele lijst voorgedragen door deze Raad, voor zover bos in toepassing van het Bosdecreet van 13 juni 1990 voorkomt in het gebied van het natuurinrichtingsproject;<br>
+7° één vertegenwoordiger van de watervoorzieningsmaatschappij waarvan een waterwinning gelegen is binnen het desbetreffende natuurinrichtingsproject of waarvan de activiteit van een waterwinning een rechtstreekse hydrologische invloed heeft op gebieden binnen het desbetreffende natuurinrichtingsproject, voorgedragen door de betrokken watervoorzieningsmaatschappij.<br>
+<br>
+Voor elk van voormelde effectieve leden worden op dezelfde wijze plaatsvervangende leden voorgedragen.<br>
+<br>
+§ 3. De voorzitter en de secretaris van het overeenkomstige projectcomité of hun plaatsvervangers nemen het voorzitterschap, respectievelijk het secretariaat van de projectcommissie waar.
 
 ### ART. 23.
 
@@ -231,7 +253,30 @@ Elk ministerieel besluit houdende de benoeming van de effectieve en de plaatsver
 
 ### ART. 24.
 
-§ 1. Voor elk natuurinrichtingsproject dat door de minister overeenkomstig het artikel 47 van het decreet is ingesteld, stelt de afdeling een projectrapport op met betrekking tot:<br />1° de maatregelen die binnen het ingestelde natuurinrichtingsproject van toepassing zouden dienen gesteld;<br />2° de nadere uitvoeringsmodaliteiten.<br /><br />Het Agentschap kan zich hiervoor laten bijstaan door het Instituut, door de VLM of door externe deskundigen.<br /><br />§ 2. Het in § 1 bedoelde projectrapport omvat ten minste:<br />1° administratieve gegevens :<br />a) een aanduiding van het juridisch kader en het beleidskader dat geldt in het vastgesteld gebied, met in het bijzonder een weergave van de planologische en andere gebiedscategorieën waaronder het projectgebied valt;<br />b) een nominatieve lijst van belanghebbenden, opgemaakt overeenkomstig artikel 28;<br />2° beleidsgegevens:<br />a) indien er voor het vastgestelde gebied of voor een deel ervan geen natuurrichtplan, bepaald in artikel 48 of 50 van het decreet, is vastgesteld, een voorstel voor de natuurdoeltypes, de natuurstreefbeelden, de doelsystemen en de doelsoorten van het project;<br />b) een voorstel voor de bij de verdere uitvoering van het project te betrekken bevoegdheden;<br />c) een raming van de kosten voor de uitvoering van het project;<br />d) een aanduiding van de impact van de ingrepen en de mogelijke disproportionele gevolgen hiervan buiten het natuurinrichtingsproject;<br />3° een voorstel van de binnen het natuurinrichtingsproject te treffen maatregelen, desgevallend gebaseerd op een kosten-batenafweging met betrekking tot mogelijke alternatieve maatregelenpakketten;<br />4° een voorstel van modaliteiten tot uitvoering van het natuurinrichtingsproject.<br /><br />§ 3. Het in § 1 bedoelde projectrapport dient door het Agentschap binnen een termijn van één jaar na de instelling van het project bezorgd aan:<br />1° de minister;<br />2° het natuurinrichtingsprojectcomité, met verzoek tot uitbrengen van het advies bedoeld in artikel 26;<br />3° de projectcommissie; bedoeld in dit artikel;<br />4° de Gouverneur van de betrokken provincie;<br />5° de Burgemeester van de betrokken gemeente, met verzoek tot uitvoering van heet openbaar onderzoek bedoeld in artikel 25.
+§ 1. Voor elk natuurinrichtingsproject dat door de minister overeenkomstig het artikel 47 van het decreet is ingesteld, stelt de afdeling een projectrapport op met betrekking tot:<br>
+1° de maatregelen die binnen het ingestelde natuurinrichtingsproject van toepassing zouden dienen gesteld;<br>
+2° de nadere uitvoeringsmodaliteiten.<br>
+<br>
+Het Agentschap kan zich hiervoor laten bijstaan door het Instituut, door de VLM of door externe deskundigen.<br>
+<br>
+§ 2. Het in § 1 bedoelde projectrapport omvat ten minste:<br>
+1° administratieve gegevens :<br>
+a) een aanduiding van het juridisch kader en het beleidskader dat geldt in het vastgesteld gebied, met in het bijzonder een weergave van de planologische en andere gebiedscategorieën waaronder het projectgebied valt;<br>
+b) een nominatieve lijst van belanghebbenden, opgemaakt overeenkomstig artikel 28;<br>
+2° beleidsgegevens:<br>
+a) indien er voor het vastgestelde gebied of voor een deel ervan geen natuurrichtplan, managementplan of managementplan Natura 2000, vermeld in het decreet, is vastgesteld: een voorstel voor de natuurdoeltypes, de natuurstreefbeelden, de doelsystemen en de doelsoorten van het project;<br>
+b) een voorstel voor de bij de verdere uitvoering van het project te betrekken bevoegdheden;<br>
+c) een raming van de kosten voor de uitvoering van het project;<br>
+d) een aanduiding van de impact van de ingrepen en de mogelijke disproportionele gevolgen hiervan buiten het natuurinrichtingsproject;<br>
+3° een voorstel van de binnen het natuurinrichtingsproject te treffen maatregelen, desgevallend gebaseerd op een kosten-batenafweging met betrekking tot mogelijke alternatieve maatregelenpakketten;<br>
+4° een voorstel van modaliteiten tot uitvoering van het natuurinrichtingsproject.<br>
+<br>
+§ 3. Het in § 1 bedoelde projectrapport dient door het Agentschap binnen een termijn van één jaar na de instelling van het project bezorgd aan:<br>
+1° de minister;<br>
+2° het natuurinrichtingsprojectcomité, met verzoek tot uitbrengen van het advies bedoeld in artikel 26;<br>
+3° de projectcommissie; bedoeld in dit artikel;<br>
+4° de Gouverneur van de betrokken provincie;<br>
+5° de Burgemeester van de betrokken gemeente, met verzoek tot uitvoering van heet openbaar onderzoek bedoeld in artikel 25.
 
 ## AFDELING 2 VASTSTELLING VAN DE MAATREGELEN BINNEN HET NATUURINRICHTINGSPROJECT EN VAN DE UITVOERINGSMODALITEITEN
 
@@ -273,7 +318,17 @@ Na vaststelling door de minister van de binnen het natuurinrichtingsproject te t
 
 ### ART. 31.
 
-Het projectuitvoeringsplan, vermeld in artikel 30, in voorkomend geval vervolledigd met de gegevens, vermeld in artikel 32 en 32bis, omvat :<br />1° inventarisatieplannen met ten minste :<br />a) de bestaande perceelsstructuur en het bestaande grondgebruik;<br />b) de bestaande wegen-, waterlopen-, kavel-, nuts- en recreatieve infrastructuur;<br />2° technische plannen met ten minste :<br />a) de technische uitwerking van de natuurinrichtingsmaatregelen;<br />b) een uitvoeringsprogramma dat de verantwoordelijke actoren en het tijdsschema voor het uitvoeren van de natuurinrichtingsmaatregelen bepaalt;<br />3° een financieringsplan, met in voorkomend geval de wijze van medefinanciering;<br />4° in voorkomend geval een plan met de erfdienstbaarheden die worden afgeschaft of gevestigd.<br /><br />Onder medefinanciering, als vermeld in eerste lid, 3°, wordt verstaan iedere vorm van financiering van de uitvoering van het natuurinrichtingsproject door partners, waarbij niet de kredieten gebruikt worden die toegewezen zijn aan natuurinrichting in de begroting van het Agentschap voor Natuur en Bos.<br />
+Het projectuitvoeringsplan, vermeld in artikel 30, in voorkomend geval vervolledigd met de gegevens, vermeld in artikel 32 en 32bis, omvat :<br>
+1° inventarisatieplannen met ten minste :<br>
+a) de bestaande perceelsstructuur en het bestaande grondgebruik;<br>
+b) de bestaande wegen-, waterlopen-, kavel-, nuts- en recreatieve infrastructuur;<br>
+2° technische plannen met ten minste :<br>
+a) de technische uitwerking van de natuurinrichtingsmaatregelen;<br>
+b) een uitvoeringsprogramma dat de verantwoordelijke actoren en het tijdsschema voor het uitvoeren van de natuurinrichtingsmaatregelen bepaalt, alsook, in voorkomend geval, de voorwaarden vermeldt waaraan de betrokken eigenaars of gebruikers moeten voldoen wanneer zij mede instaan voor de uitvoering van het natuurinrichtingsproject;<br>
+3° een financieringsplan, met, in voorkomend geval, de wijze van medefinanciering en afspraken met betrekking tot de vergoeding voor uitvoering van het natuurinrichtingsproject aan betrokken eigenaars of gebruikers;<br>
+4° in voorkomend geval een plan met de erfdienstbaarheden die worden afgeschaft of gevestigd.<br>
+<br>
+Onder medefinanciering, als vermeld in eerste lid, 3°, wordt verstaan iedere vorm van financiering van de uitvoering van het natuurinrichtingsproject door partners, waarbij niet de kredieten gebruikt worden die toegewezen zijn aan natuurinrichting in de begroting van het Agentschap voor Natuur en Bos.
 
 ### ART. 32.
 
@@ -385,7 +440,15 @@ Het natuurinrichtingsproject kan worden uitgewerkt via een verkorte procedure al
 
 ### ART. 44bis.
 
-§ 1. Het natuurinrichtingsproject wordt ingesteld door de minister.<br /><br />§ 2. Het projectcomité wordt opgericht overeenkomstig artikelen 20 en 21. Evenwel wordt de samenstelling van het projectcomité beperkt tot de leden vermeld in artikel 20, § 2, het eerste lid, 1° tot en met 5°. Elke eigenaar van gronden die binnen het natuurinrichtingsproject liggen, wordt als lid van het projectcomité toegevoegd.<br /><br />Er wordt geen projectcommissie opgericht.
+§ 1. Het natuurinrichtingsproject wordt ingesteld door de minister.<br>
+<br>
+§ 2. Het projectcomité wordt opgericht overeenkomstig artikelen 20 en 21. Evenwel wordt de samenstelling van het projectcomité beperkt tot de leden vermeld in artikel 20, § 2, het eerste lid, 1° tot en met 5°. Elke eigenaar van gronden die binnen het natuurinrichtingsproject liggen, wordt als lid van het projectcomité toegevoegd.<br>
+<br>
+Er wordt geen projectcommissie opgericht.<br>
+<br>
+De minister kan ambtshalve gelijktijdig beslissen over de instelling van het natuurinrichtingsproject, de oprichting van het projectcomité en het vaststellen van de binnen het natuurinrichtingsproject te treffen natuurinrichtingsmaatregelen, alsook de uitvoeringsmodaliteiten indien de eigenaars naast de instemming, vermeld in artikel 44, ook instemmen met het uitvoeringsprogramma, vermeld in artikel 31, eerste lid, 2°, b), en het financieringsplan, vermeld in artikel 31, eerste lid, 3°.<br>
+<br>
+In het geval vermeld in het derde lid is artikel 44ter niet van toepassing. Artikel 44quater tot en met 44sexies zijn desgevallend wel van toepassing.
 
 ### ART. 44ter.
 
