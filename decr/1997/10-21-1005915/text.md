@@ -8,7 +8,100 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-<P>Voor de toepassing van dit decreet wordt verstaan onder:<BR>1° organismen:   flora, fauna en overige organismen andere dan de mens;<BR>2° biologische   diversiteit: de variabiliteit onder levende organismen van allerlei herkomst,   met inbegrip van, onder andere, terrestrische, mariene en andere aquatische   ecosystemen en de ecologische complexen waarvan zij deel uitmaken; dit omvat   mede de diversiteit binnen soorten, tussen soorten en van ecosystemen;<BR>3°   ecosysteem: het geheel van biotische en abiotische elementen die het samenleven   van levende organismen in een bepaald gebied kenmerken;<BR>4° habitat: een   natuurlijke habitat en/of een leefgebied van een soort waarbij:<BR>a) een   natuurlijke habitat een geheel natuurlijke of halfnatuurlijke land- of waterzone   met bijzondere geografische, abiotische en biotische kenmerken is;<BR>b) een   leefgebied van een soort een door specifieke abiotische en biotische elementen   bepaald natuurlijk milieu is waarin de soort tijdens een van de fasen van zijn   biologische cyclus leeft. Daartoe behoren ook de woongebieden van een   vogelsoort, meer bepaald: de rustplaatsen in de trekzones, de voortplantings-,   broed- en foerageergebieden alsook de rui- en overwinteringsgebieden; <BR>5°   historisch permanent grasland: is een halfnatuurlijke vegetatie bestaande uit   grasland gekenmerkt door het langdurige grondgebruik als graasweide, hooiland of   wisselweide met ofwel cultuurhistorische waarde, ofwel een soortenrijke   vegetatie van kruiden en grassoorten waarbij het milieu wordt gekenmerkt door   aanwezigheid van sloten, greppels, poelen, uitgesproken microreliëf, bronnen of   kwelzones;<BR>6° kleine landschapselementen: lijn- of puntvormige elementen met   inbegrip van de bijhorende vegetaties waarvan het uitzicht, de structuur of de   aard al dan niet resultaat zijn van menselijk handelen, en die deel uitmaken van   de natuur zoals: bermen, bomen, ... bronnen, dijken, graften, houtkanten, hagen,   holle wegen, hoogstamboomgaarden, perceelsrandbegroeiingen, sloten, struwelen,   poelen, veedrinkputten en waterlopen;<BR>7° natuur: de levende organismen, hun   habitats, de ecosystemen waarvan zij deel uitmaken en de daarmee verbonden uit   zichzelf functionerende ecologische processen, ongeacht of deze al dan niet   voorkomen in aansluiting op menselijk handelen, met uitsluiting van de   cultuurgewassen, de landbouwdieren en de huisdieren;<BR>8° natuurelement: elk   afzonderlijk element dat natuur in de zin van dit decreet bevat;<BR>9° natuur in   de bebouwde omgeving: de natuurelementen en soorten die voorkomen in samenhang   met de stedelijke en bebouwde omgeving;<BR>10° natuurbehoud: het instandhouden,   herstellen en ontwikkelen van de natuur en het natuurlijk milieu door   natuurbescherming, natuurontwikkeling en natuurbeheer en het streven naar een zo   groot mogelijke biologische diversiteit in de natuur en naar een gunstige staat   van instandhouding van habitats en soorten; <BR>11° natuurbescherming: het   geheel van de maatregelen gericht op natuurbehoud en tegen nadelige invloeden   die kunnen ontstaan door menselijke activiteiten;<BR>12° natuurontwikkeling: het   geheel van maatregelen gericht op het creëren van voorwaarden voor het tot stand   komen of het herstel van natuur in een bepaald gebied;<BR>13° natuurbeheer: het   regelend en sturend ingrijpen van de mens in de natuur en in het natuurlijk   milieu, bewust niets doen inbegrepen, ten behoeve van het natuurbehoud;<BR>14°   natuurkwaliteit: de bijdrage die een gebied of één of meerdere afzonderlijke   natuurelementen, al of niet in onderlinge samenhang, levert of kan leveren aan   de biologische diversiteit;<BR>15° natuurlijk milieu: het geheel van biotische   en abiotische elementen, samen met hun ruimtelijke en ecologische kenmerken en   processen die nodig zijn voor het behoud van de natuur in het Vlaamse   Gewest;<BR>16° erkende terreinbeherende natuurvereniging: een privaatrechtelijk   rechtspersoon waarvan de statuten het natuurbehoud en/of de natuurbescherming   als hoofdzakelijk en ondubbelzinnig doel bepalen, die gebieden beheert als   natuurreservaat en als dusdanig op grond van dit decreet wordt erkend;<BR>17°   soortenbehoud: het geheel van maatregelen gericht op het instandhouden,   herstellen of ontwikkelen van populaties van soorten en ondersoorten;<BR>18°   erkende beheersgroep : een door de Vlaamse Regering erkende lokale of regionale   vereniging van betrokkenen die, voor een bepaald gebied, het beheer en de   bescherming van natuurelementen of het natuurlijk milieu tot doel heeft.<BR>19°   19° pesticiden :<BR>a) een gewasbeschermingsmiddel zoals omschreven in   verordening (EG) nr. 1107/2009 van het Europees Parlement en de Raad van 21   oktober 2009 betreffende het op de markt brengen van gewasbeschermingsmiddelen   en tot intrekking van de Richtlijnen 79/117/EEG en 91/414/EEG van de Raad;<BR>b)   een biocide zoals omschreven in Richtlijn 98/8/EG van het Europees Parlement en   de Raad van 16 februari 1998 betreffende het op de markt brengen van biociden,   waarin biociden gedefinieerd worden als : werkzame stoffen en preparaten die, in   de vorm waarin ze aan de gebruiker worden geleverd, een of meer werkzame stoffen   bevatten en bestemd zijn om een schadelijk organisme te vernietigen, af te   schrikken, onschadelijk te maken, de effecten daarvan te voorkomen of het op een   andere wijze langs chemische of biologische weg te bestrijden;<BR>20° waterrijke   gebieden: gebieden met moerassen, vennen, veen- of plasgebieden, natuurlijk of   kunstmatig, blijvend of tijdelijk, met stilstaand of stromend water, zoet, brak   of zout, met inbegrip van zeewater, waarvan de diepte bij eb niet meer is dan   zes meter;<BR>21° waterrijke gebieden van internationale betekenis: waterrijke   gebieden die aangeduid zijn conform de Overeenkomst inzake watergebieden die van   internationale betekenis zijn, opgemaakt te Ramsar op 2 februari 1971;<BR>22°   administratieve overheid: het Vlaamse Gewest, de openbare instellingen die ervan   afhangen, de publiekrechtelijke en privaatrechtelijke instellingen die belast   zijn met taken van openbaar nut en de andere besturen die onderworpen zijn aan   het administratief toezicht van het Vlaamse Gewest;<BR>23° VEN: Vlaams   Ecologisch Netwerk;<BR>24° GEN: Grote Eenheid Natuur;<BR>25° GENO: Grote Eenheid   Natuur in Ontwikkeling;<BR>26° IVON: Integraal Verwevings- en Ondersteunend   Netwerk;<BR>27° VLM: Vlaamse Landmaatschappij;<BR>28° ...<BR>29° Mina-fonds:   Fonds voor Preventie en Sanering inzake leefmilieu en natuur opgericht bij   decreet van 23 januari 1991;<BR>30° betekenisvolle aantasting van de natuurlijke   kenmerken van een speciale beschermingszone: een aantasting die meetbare en   aantoonbare gevolgen heeft voor de natuurlijke kenmerken van een speciale   beschermingszone, in de mate er meetbare en aantoonbare gevolgen zijn voor de   staat van instandhouding van de soort(en) of de habitat(s) waarvoor de   betreffende speciale beschermingszone is aangewezen of voor de staat van   instandhouding van de soort(en) vermeld in bijlage III van dit decreet voor   zover voorkomend in de betreffende speciale beschermingszone;<BR>31°   betekenisvolle verstoring van een soort: een verstoring die meetbare en   aantoonbare gevolgen heeft voor de staat van instandhouding van een soort.   Factoren die als dusdanig kunnen worden beschouwd, zijn:<BR>- elke activiteit   die bijdraagt tot de afname op lange termijn van de grootte van de populatie   (populatieomvang) van de betrokken soort in het gebied of tot een geringe afname   waardoor in vergelijking met de begintoestand de soort niet langer een   levensvatbare component van de natuurlijke habitat kan blijven;<BR>- elke   activiteit die ertoe bijdraagt dat het verspreidingsgebied van de soort in het   gebied kleiner wordt of dreigt te worden;<BR>- elke activiteit die ertoe   bijdraagt dat de omvang van de habitat van de soort in het gebied kleiner   wordt.<BR>Betreft het een soort van bijlage II of IV van dit decreet, dan dient   de verstoring ervan tevens geëvalueerd te worden in het licht van de bijdrage   van de speciale beschermingszone tot de algehele samenhang van de speciale   beschermingszone en -zones;<BR>32° Bosdecreet: het bosdecreet van 13 juni   1990;<BR>33° code voor goede natuurpraktijk: richtlijnen inzake natuurbeheer met   het oog op het respecteren van het standstill-beginsel;<BR>34° Habitatrichtlijn:   Richtlijn 92/43/EEG van de Raad van 21 mei 1992 inzake de instandhouding van de   natuurlijke habitats en de wilde flora en fauna;<BR>35° huiskavel: kadastraal   perceel of kadastrale percelen die ofwel behoren bij een vergunde woning ofwel   behoren bij de stal of stallen van de landbouw- en/of veeteeltinrichting zoals   bedoeld in het mestdecreet en met de vergunde woning, stal of stallen een   ononderbroken geheel vormen; de begrenzing van de huiskavel vindt plaats op   basis van een duidelijk herkenbaar specifiek gebruik of op basis van een in het   landschap duidelijk herkenbaar element;<BR>36° instandhouding: het geheel van   maatregelen die nodig zijn voor het behoud of herstel van habitats en populaties   van wilde dier- en plantensoorten in een gunstige staat van   instandhouding.<BR>De staat van instandhouding van een habitat wordt als gunstig   beschouwd wanneer:<BR>- het natuurlijke verspreidingsgebied van de habitat en de   oppervlakte van die habitat binnen dat gebied stabiel zijn of toenemen;<BR>- de   nodige specifieke structuur en functies voor behoud op lange termijn bestaan en   in de afzienbare toekomst vermoedelijk zullen blijven bestaan;<BR>- de staat van   instandhouding van de voor die habitat gunstige typische soorten gunstig   is.<BR>De staat van instandhouding van een soort wordt als gunstig beschouwd   wanneer:<BR>- uit populatiedynamische gegevens blijkt dat de betrokken soort nog   altijd een levensvatbare component is van de habitat waarin de soort voorkomt en   dat vermoedelijk op lange termijn zal blijven;<BR>- het natuurlijke   verspreidingsgebied van die soort niet kleiner wordt of binnen afzienbare tijd   lijkt te zullen worden;<BR>- er een voldoende grote habitat bestaat en   waarschijnlijk zal blijven bestaan om de populaties van die soort op lange   termijn in stand te houden;<BR>37° Mestdecreet: het decreet van 23 januari 1991   inzake de bescherming van het leefmilieu tegen de verontreiniging door   meststoffen;<BR>38° natuurlijke kenmerken van een speciale beschermingszone: het   geheel van biotische en abiotische elementen, samen met hun ruimtelijke en   ecologische kenmerken en processen, die nodig zijn voor de instandhouding   van<BR>a) de natuurlijke habitats en de leefgebieden van de soorten waarvoor de   betreffende speciale beschermingszone is aangewezen en<BR>b) de soorten vermeld   in de bijlage III;<BR>39° natuurrichtplan: een plan dat aangeeft wat op vlak van   natuurbehoud voor een specifiek gebied wordt beoogd en waarin de instrumenten en   maatregelen zijn opgenomen die al dan niet projectmatig verlopen, om de beoogde   doelstellingen op het vlak van het natuurbehoud te realiseren. Het plan komt tot   stand en wordt uitgevoerd met medewerking van eigenaars of   grondgebruikers;<BR>40° plan of programma: een document waarin   beleidsvoornemens, beleidsontwikkelingen of grootschalige overheids-,   particuliere of gemengde activiteiten worden aangekondigd en dat wordt opgemaakt   en vastgesteld, gewijzigd of herzien op initiatief of onder toezicht van het   Vlaamse Gewest, de provincies, de intercommunales, de intergemeentelijke   samenwerkingsverbanden en/of de gemeenten, en/of van de federale overheid of   waarvoor medefinanciering voorzien is door de Europese Gemeenschap of door het   Vlaamse Gewest of de Vlaamse Gemeenschap in het kader van de internationale   samenwerking, voor zover het voorgenomen plan of programma aanzienlijke milieu-   of veiligheidseffecten kan hebben op het grondgebied van het Vlaamse   Gewest;<BR>41° plan-MERrichtlijn: Richtlijn 2001/42/EG van het Europees   Parlement en de Raad van 27 juni 2001 betreffende de beoordeling van de gevolgen   voor het milieu van bepaalde plannen en programma's;<BR>42°   project-MERrichtlijn: Richtlijn 85/337/EEG van de Raad van 27 juni 1985   betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere   projecten;<BR>43° speciale beschermingszone:<BR>a) een gebied, aangewezen door   de Vlaamse Regering met toepassing van artikel 4 van de Vogelrichtlijn;<BR>b)   een gebied, aangewezen door het Waalse Gewest, het Brusselse Hoofdstedelijke   Gewest of een andere lidstaat van de Europese Unie met toepassing van artikel 4   van de Vogelrichtlijn;<BR>c) een gebied, aangewezen door de Vlaamse Regering met   toepassing van artikel 4, vierde lid, van de Habitatrichtlijn, of, in afwachting   van die aanwijzing, een gebied dat met toepassing van de Habitatrichtlijn door   de Vlaamse Regering definitief is vastgesteld met toepassing van artikel 36bis,   § 6, van dit decreet of dat geacht wordt definitief te zijn vastgesteld met   toepassing van artikel 36bis, § 12, van dit decreet;<BR>d) een gebied,   aangewezen door het Waalse Gewest of het Brusselse Hoofdstedelijke Gewest of   door een andere lidstaat van de Europese Unie met toepassing van artikel 4,   vierde lid, van de Habitatrichtlijn of, in afwachting van die aanwijzing, een   gebied dat voorgesteld is door één van beide gewesten of door een andere   lidstaat, met toepassing van artikel 4, eerste lid, van de Habitatrichtlijn, dat   door de Europese Commissie van communautair belang is verklaard met toepassing   van artikel 4, tweede lid, van de Habitatrichtlijn;<BR>44° staat van   instandhouding van een habitat: de som van de invloeden die op de betrokken   habitat en de daar voorkomende typische soorten inwerken en op lange termijn een   verandering kunnen bewerkstelligen in de natuurlijke verspreiding, de structuur   en de functies van die habitat of die van invloed kunnen zijn op het   voortbestaan op lange termijn van de betrokken typische soorten in het Vlaamse   Gewest;<BR>45° staat van instandhouding van een soort: het effect van de som van   de invloeden die op de betrokken soort inwerken en op lange termijn een   verandering kunnen bewerkstelligen in de verspreiding en de grootte van de   populaties van die soort in het Vlaamse Gewest;<BR>46° vergunningsplichtige   activiteit: een activiteit waarvoor op grond van een wet, decreet of besluit,   een vergunning, toestemming of machtiging vereist is;<BR>47° Vogelrichtlijn:   richtlijn 2009/147/EG van het Europees Parlement en de Raad van 30 november 2009   inzake het behoud van de vogelstand;<BR>48° wijzigingsdecreet 19 juli 2002:   decreet van 19 juli 2002 houdende de wijziging van het decreet van 21 oktober   1997 inzake het natuurbehoud en het natuurlijk milieu, van het bosdecreet van 13   juni 1990, van het decreet van 16 april 1996 betreffende de landschapszorg, van   het decreet van 21 december 1988 houdende oprichting van de Vlaamse   Landmaatschappij, van de wet van 22 juli 1970 op de ruilverkaveling van   landeigendommen uit kracht van wet zoals aangevuld door de wet van 11 augustus   1978 houdende bijzondere bepalingen eigen aan het Vlaamse Gewest, van het   decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de   verontreiniging door meststoffen en van de wet betreffende de politie over het   wegverkeer, gecordineerd bij koninklijk besluit van 16 maart 1968;<BR>49° de   Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht   volgens het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse   Grondenbank en houdende wijziging van diverse bepalingen.</P>  <P>60° agentschap: het agentschap voor Natuur en Bos, opgericht bij het besluit   van de Vlaamse Regering van 23 december 2005 tot oprichting van het intern   verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Natuur   en Bos;<BR>61° instandhoudingsdoelstellingen: de gewestelijke   instandhoudingsdoelstellingen of de instandhoudingsdoelstellingen voor een   speciale beschermingszone in het Vlaamse Gewest;<BR>62° Europees te beschermen   habitats: de habitattypes opgenomen in bijlage I bij dit decreet;<BR>63°   Europees te beschermen soorten: de soorten, opgenomen in bijlage II, III en IV   bij dit decreet, en de trekvogels die geregeld voorkomen op het grondgebied van   het Vlaamse Gewest en die niet in bijlage IV bij dit decreet worden   vermeld;<BR>64° gewestelijke instandhoudingsdoelstellingen: de verbeter- of   behoudopgaven voor het behouden, herstellen of ontwikkelen van een gunstige   staat van instandhouding op Vlaams niveau van in het Vlaamse Gewest voorkomende   Europees te beschermen habitats of soorten;<BR>65° instandhoudingsdoelstellingen   voor een speciale beschermingszone: de verbeter- of behoudopgaven voor de   Europees te beschermen habitats of populaties van Europees te beschermen soorten   en hun leefgebieden, waarvoor het Europees te beschermen gebied is aangemeld of   die in het Europees te beschermen gebied voorkomen;<BR>66°   instandhoudingsmaatregelen: de plannen of programma's, geboden of verboden en   andere acties die er op gericht zijn om Europees te beschermen habitats of   populaties van Europees te beschermen soorten en hun leefgebieden, en het   natuurlijk milieu ervan, in stand te houden, te herstellen of te   ontwikkelen;<BR>67° inheemse soort: een soort die van nature in het Vlaamse   Gewest in het wild voorkomt of voorkwam, of er al lang is ingeburgerd;<BR>68°   soortenbeschermingsprogramma: een programma van soortenbehoudsmaatregelen dat   met name gericht is op het verkrijgen van de gunstige staat van instandhouding   van een inheemse soort of een groep van soorten in het gebied waarop het   programma van toepassing is;<BR>69° planversie: één van de opeenvolgende versies   van een managementplan Natura 2000;<BR>70° zoekzone: een zone die per Europees   te beschermen soort en per Europees te beschermen habitat de perimeter aangeeft   die gevrijwaard wordt met het oog op het optimaal plaatsen van de   instandhoudingsdoelstellingen voor de betrokken speciale beschermingszone. De   omvang van de zoekzone wordt bepaald door de oppervlakte die nodig is voor het   realiseren van het openstaand saldo van de taakstelling voor de betrokken   Europees te beschermen habitat of Europees te beschermen soort;<BR>71°   actiegebied: een gebied dat op basis van relevante milieueffecten vastgesteld   wordt voor de realisatie van de taakstelling inzake de toestand van het   natuurlijk milieu voor de betrokken speciale beschermingszone.</P>
+<p>Voor de toepassing van dit decreet wordt verstaan onder:<br>
+1° organismen: flora, fauna en overige organismen andere dan de mens;<br>
+2° biologische diversiteit: de variabiliteit onder levende organismen van allerlei herkomst, met inbegrip van, onder andere, terrestrische, mariene en andere aquatische ecosystemen en de ecologische complexen waarvan zij deel uitmaken; dit omvat mede de diversiteit binnen soorten, tussen soorten en van ecosystemen;<br>
+3° ecosysteem: het geheel van biotische en abiotische elementen die het samenleven van levende organismen in een bepaald gebied kenmerken;<br>
+4° habitat: een natuurlijke habitat en/of een leefgebied van een soort waarbij:<br>
+a) een natuurlijke habitat een geheel natuurlijke of halfnatuurlijke land- of waterzone met bijzondere geografische, abiotische en biotische kenmerken is;<br>
+b) een leefgebied van een soort een door specifieke abiotische en biotische elementen bepaald natuurlijk milieu is waarin de soort tijdens een van de fasen van zijn biologische cyclus leeft. Daartoe behoren ook de woongebieden van een vogelsoort, meer bepaald: de rustplaatsen in de trekzones, de voortplantings-, broed- en foerageergebieden alsook de rui- en overwinteringsgebieden;<br>
+5° historisch permanent grasland: is een halfnatuurlijke vegetatie bestaande uit grasland gekenmerkt door het langdurige grondgebruik als graasweide, hooiland of wisselweide met ofwel cultuurhistorische waarde, ofwel een soortenrijke vegetatie van kruiden en grassoorten waarbij het milieu wordt gekenmerkt door aanwezigheid van sloten, greppels, poelen, uitgesproken microreliëf, bronnen of kwelzones;<br>
+6° kleine landschapselementen: lijn- of puntvormige elementen met inbegrip van de bijhorende vegetaties waarvan het uitzicht, de structuur of de aard al dan niet resultaat zijn van menselijk handelen, en die deel uitmaken van de natuur zoals: bermen, bomen, ... bronnen, dijken, graften, houtkanten, hagen, holle wegen, hoogstamboomgaarden, perceelsrandbegroeiingen, sloten, struwelen, poelen, veedrinkputten en waterlopen;<br>
+7° natuur: de levende organismen, hun habitats, de ecosystemen waarvan zij deel uitmaken en de daarmee verbonden uit zichzelf functionerende ecologische processen, ongeacht of deze al dan niet voorkomen in aansluiting op menselijk handelen, met uitsluiting van de cultuurgewassen, de landbouwdieren en de huisdieren;<br>
+8° natuurelement: elk afzonderlijk element dat natuur in de zin van dit decreet bevat;<br>
+9° natuur in de bebouwde omgeving: de natuurelementen en soorten die voorkomen in samenhang met de stedelijke en bebouwde omgeving;<br>
+10° natuurbehoud: het instandhouden, herstellen en ontwikkelen van de natuur en het natuurlijk milieu door natuurbescherming, natuurontwikkeling en natuurbeheer en het streven naar een zo groot mogelijke biologische diversiteit in de natuur en naar een gunstige staat van instandhouding van habitats en soorten;<br>
+11° natuurbescherming: het geheel van de maatregelen gericht op natuurbehoud en tegen nadelige invloeden die kunnen ontstaan door menselijke activiteiten;<br>
+12° natuurontwikkeling: het geheel van maatregelen gericht op het creëren van voorwaarden voor het tot stand komen of het herstel van natuur in een bepaald gebied;<br>
+13° natuurbeheer: het regelend en sturend ingrijpen van de mens in de natuur en in het natuurlijk milieu, bewust niets doen inbegrepen, ten behoeve van het natuurbehoud;<br>
+14° natuurkwaliteit: de bijdrage die een gebied of één of meerdere afzonderlijke natuurelementen, al of niet in onderlinge samenhang, levert of kan leveren aan de biologische diversiteit;<br>
+15° natuurlijk milieu: het geheel van biotische en abiotische elementen, samen met hun ruimtelijke en ecologische kenmerken en processen die nodig zijn voor het behoud van de natuur in het Vlaamse Gewest;<br>
+16° erkende terreinbeherende natuurvereniging: een privaatrechtelijk rechtspersoon waarvan de statuten het natuurbehoud en/of de natuurbescherming als hoofdzakelijk en ondubbelzinnig doel bepalen, die gebieden beheert als natuurreservaat en als dusdanig op grond van dit decreet wordt erkend;<br>
+17° soortenbehoud: het geheel van maatregelen gericht op het instandhouden, herstellen of ontwikkelen van populaties van soorten en ondersoorten;<br>
+18° erkende beheersgroep : een door de Vlaamse Regering erkende lokale of regionale vereniging van betrokkenen die, voor een bepaald gebied, het beheer en de bescherming van natuurelementen of het natuurlijk milieu tot doel heeft.<br>
+19° 19° pesticiden :<br>
+a) een gewasbeschermingsmiddel zoals omschreven in verordening (EG) nr. 1107/2009 van het Europees Parlement en de Raad van 21 oktober 2009 betreffende het op de markt brengen van gewasbeschermingsmiddelen en tot intrekking van de Richtlijnen 79/117/EEG en 91/414/EEG van de Raad;<br>
+b) een biocide zoals omschreven in Richtlijn 98/8/EG van het Europees Parlement en de Raad van 16 februari 1998 betreffende het op de markt brengen van biociden, waarin biociden gedefinieerd worden als : werkzame stoffen en preparaten die, in de vorm waarin ze aan de gebruiker worden geleverd, een of meer werkzame stoffen bevatten en bestemd zijn om een schadelijk organisme te vernietigen, af te schrikken, onschadelijk te maken, de effecten daarvan te voorkomen of het op een andere wijze langs chemische of biologische weg te bestrijden;<br>
+20° waterrijke gebieden: gebieden met moerassen, vennen, veen- of plasgebieden, natuurlijk of kunstmatig, blijvend of tijdelijk, met stilstaand of stromend water, zoet, brak of zout, met inbegrip van zeewater, waarvan de diepte bij eb niet meer is dan zes meter;<br>
+21° waterrijke gebieden van internationale betekenis: waterrijke gebieden die aangeduid zijn conform de Overeenkomst inzake watergebieden die van internationale betekenis zijn, opgemaakt te Ramsar op 2 februari 1971;<br>
+22° administratieve overheid: het Vlaamse Gewest, de openbare instellingen die ervan afhangen, de publiekrechtelijke en privaatrechtelijke instellingen die belast zijn met taken van openbaar nut en de andere besturen die onderworpen zijn aan het administratief toezicht van het Vlaamse Gewest;<br>
+23° VEN: Vlaams Ecologisch Netwerk;<br>
+24° GEN: Grote Eenheid Natuur;<br>
+25° GENO: Grote Eenheid Natuur in Ontwikkeling;<br>
+26° IVON: Integraal Verwevings- en Ondersteunend Netwerk;<br>
+27° VLM: Vlaamse Landmaatschappij;<br>
+28° ...<br>
+29° Mina-fonds: Fonds voor Preventie en Sanering inzake leefmilieu en natuur opgericht bij decreet van 23 januari 1991;<br>
+30° betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone: een aantasting die meetbare en aantoonbare gevolgen heeft voor de natuurlijke kenmerken van een speciale beschermingszone, in de mate er meetbare en aantoonbare gevolgen zijn voor de staat van instandhouding van de soort(en) of de habitat(s) waarvoor de betreffende speciale beschermingszone is aangewezen of voor de staat van instandhouding van de soort(en) vermeld in bijlage III van dit decreet voor zover voorkomend in de betreffende speciale beschermingszone;<br>
+31° betekenisvolle verstoring van een soort: een verstoring die meetbare en aantoonbare gevolgen heeft voor de staat van instandhouding van een soort. Factoren die als dusdanig kunnen worden beschouwd, zijn:<br>
+- elke activiteit die bijdraagt tot de afname op lange termijn van de grootte van de populatie (populatieomvang) van de betrokken soort in het gebied of tot een geringe afname waardoor in vergelijking met de begintoestand de soort niet langer een levensvatbare component van de natuurlijke habitat kan blijven;<br>
+- elke activiteit die ertoe bijdraagt dat het verspreidingsgebied van de soort in het gebied kleiner wordt of dreigt te worden;<br>
+- elke activiteit die ertoe bijdraagt dat de omvang van de habitat van de soort in het gebied kleiner wordt.<br>
+Betreft het een soort van bijlage II of IV van dit decreet, dan dient de verstoring ervan tevens geëvalueerd te worden in het licht van de bijdrage van de speciale beschermingszone tot de algehele samenhang van de speciale beschermingszone en -zones;<br>
+32° Bosdecreet: het bosdecreet van 13 juni 1990;<br>
+33° code voor goede natuurpraktijk: richtlijnen inzake natuurbeheer met het oog op het respecteren van het standstill-beginsel;<br>
+34° Habitatrichtlijn: Richtlijn 92/43/EEG van de Raad van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna;<br>
+35° huiskavel: kadastraal perceel of kadastrale percelen die ofwel behoren bij een vergunde woning ofwel behoren bij de stal of stallen van de landbouw- en/of veeteeltinrichting zoals bedoeld in het mestdecreet en met de vergunde woning, stal of stallen een ononderbroken geheel vormen; de begrenzing van de huiskavel vindt plaats op basis van een duidelijk herkenbaar specifiek gebruik of op basis van een in het landschap duidelijk herkenbaar element;<br>
+36° instandhouding: het geheel van maatregelen die nodig zijn voor het behoud of herstel van habitats en populaties van wilde dier- en plantensoorten in een gunstige staat van instandhouding.<br>
+De staat van instandhouding van een habitat wordt als gunstig beschouwd wanneer:<br>
+- het natuurlijke verspreidingsgebied van de habitat en de oppervlakte van die habitat binnen dat gebied stabiel zijn of toenemen;<br>
+- de nodige specifieke structuur en functies voor behoud op lange termijn bestaan en in de afzienbare toekomst vermoedelijk zullen blijven bestaan;<br>
+- de staat van instandhouding van de voor die habitat gunstige typische soorten gunstig is.<br>
+De staat van instandhouding van een soort wordt als gunstig beschouwd wanneer:<br>
+- uit populatiedynamische gegevens blijkt dat de betrokken soort nog altijd een levensvatbare component is van de habitat waarin de soort voorkomt en dat vermoedelijk op lange termijn zal blijven;<br>
+- het natuurlijke verspreidingsgebied van die soort niet kleiner wordt of binnen afzienbare tijd lijkt te zullen worden;<br>
+- er een voldoende grote habitat bestaat en waarschijnlijk zal blijven bestaan om de populaties van die soort op lange termijn in stand te houden;<br>
+37° Mestdecreet: het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen;<br>
+38° natuurlijke kenmerken van een speciale beschermingszone: het geheel van biotische en abiotische elementen, samen met hun ruimtelijke en ecologische kenmerken en processen, die nodig zijn voor de instandhouding van<br>
+a) de natuurlijke habitats en de leefgebieden van de soorten waarvoor de betreffende speciale beschermingszone is aangewezen en<br>
+b) de soorten vermeld in de bijlage III;<br>
+39° natuurrichtplan: een plan dat aangeeft wat op vlak van natuurbehoud voor een specifiek gebied wordt beoogd en waarin de instrumenten en maatregelen zijn opgenomen die al dan niet projectmatig verlopen, om de beoogde doelstellingen op het vlak van het natuurbehoud te realiseren. Het plan komt tot stand en wordt uitgevoerd met medewerking van eigenaars of grondgebruikers;<br>
+40° plan of programma: een document waarin beleidsvoornemens, beleidsontwikkelingen of grootschalige overheids-, particuliere of gemengde activiteiten worden aangekondigd en dat wordt opgemaakt en vastgesteld, gewijzigd of herzien op initiatief of onder toezicht van het Vlaamse Gewest, de provincies, de intercommunales, de intergemeentelijke samenwerkingsverbanden en/of de gemeenten, en/of van de federale overheid of waarvoor medefinanciering voorzien is door de Europese Gemeenschap of door het Vlaamse Gewest of de Vlaamse Gemeenschap in het kader van de internationale samenwerking, voor zover het voorgenomen plan of programma aanzienlijke milieu- of veiligheidseffecten kan hebben op het grondgebied van het Vlaamse Gewest;<br>
+41° plan-MERrichtlijn: Richtlijn 2001/42/EG van het Europees Parlement en de Raad van 27 juni 2001 betreffende de beoordeling van de gevolgen voor het milieu van bepaalde plannen en programma's;<br>
+42° project-MERrichtlijn: Richtlijn 85/337/EEG van de Raad van 27 juni 1985 betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere projecten;<br>
+43° speciale beschermingszone:<br>
+a) een gebied, aangewezen door de Vlaamse Regering met toepassing van artikel 4 van de Vogelrichtlijn;<br>
+b) een gebied, aangewezen door het Waalse Gewest, het Brusselse Hoofdstedelijke Gewest of een andere lidstaat van de Europese Unie met toepassing van artikel 4 van de Vogelrichtlijn;<br>
+c) een gebied, aangewezen door de Vlaamse Regering met toepassing van artikel 4, vierde lid, van de Habitatrichtlijn, of, in afwachting van die aanwijzing, een gebied dat met toepassing van de Habitatrichtlijn door de Vlaamse Regering definitief is vastgesteld met toepassing van artikel 36bis, § 6, van dit decreet of dat geacht wordt definitief te zijn vastgesteld met toepassing van artikel 36bis, § 12, van dit decreet;<br>
+d) een gebied, aangewezen door het Waalse Gewest of het Brusselse Hoofdstedelijke Gewest of door een andere lidstaat van de Europese Unie met toepassing van artikel 4, vierde lid, van de Habitatrichtlijn of, in afwachting van die aanwijzing, een gebied dat voorgesteld is door één van beide gewesten of door een andere lidstaat, met toepassing van artikel 4, eerste lid, van de Habitatrichtlijn, dat door de Europese Commissie van communautair belang is verklaard met toepassing van artikel 4, tweede lid, van de Habitatrichtlijn;<br>
+44° staat van instandhouding van een habitat: de som van de invloeden die op de betrokken habitat en de daar voorkomende typische soorten inwerken en op lange termijn een verandering kunnen bewerkstelligen in de natuurlijke verspreiding, de structuur en de functies van die habitat of die van invloed kunnen zijn op het voortbestaan op lange termijn van de betrokken typische soorten in het Vlaamse Gewest;<br>
+45° staat van instandhouding van een soort: het effect van de som van de invloeden die op de betrokken soort inwerken en op lange termijn een verandering kunnen bewerkstelligen in de verspreiding en de grootte van de populaties van die soort in het Vlaamse Gewest;<br>
+46° vergunningsplichtige activiteit: een activiteit waarvoor op grond van een wet, decreet of besluit, een vergunning, toestemming of machtiging vereist is;<br>
+47° Vogelrichtlijn: richtlijn 2009/147/EG van het Europees Parlement en de Raad van 30 november 2009 inzake het behoud van de vogelstand;<br>
+48° wijzigingsdecreet 19 juli 2002: decreet van 19 juli 2002 houdende de wijziging van het decreet van 21 oktober 1997 inzake het natuurbehoud en het natuurlijk milieu, van het bosdecreet van 13 juni 1990, van het decreet van 16 april 1996 betreffende de landschapszorg, van het decreet van 21 december 1988 houdende oprichting van de Vlaamse Landmaatschappij, van de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van wet zoals aangevuld door de wet van 11 augustus 1978 houdende bijzondere bepalingen eigen aan het Vlaamse Gewest, van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen en van de wet betreffende de politie over het wegverkeer, gecordineerd bij koninklijk besluit van 16 maart 1968;<br>
+49° de Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen.<br>
+50° natuurstreefbeeld: een habitat, een ecosysteem of een landschapstype dat als ecologisch einddoel in een natuurbeheerplan wordt vooropgesteld;<br>
+51° potentiële natuurwaarden: de aanwezigheid van het natuurlijk milieu voor het realiseren van een natuurstreefbeeld;<br>
+52° bos: een grondoppervlakte zoals vermeld in artikel 3, § 1 en § 2, van het Bosdecreet van 13 juni 1990, met uitsluiting van de grondoppervlakten, vermeld in artikel 3, § 3, van het voormelde decreet;<br>
+53° privaat terrein: een terrein in eigendom van een natuurlijke persoon of een privaatrechtelijke rechtspersoon;<br>
+54° openbaar terrein: een terrein in eigendom of mede-eigendom van een publiekrechtelijke rechtspersoon;<br>
+55° natuurdomein: een terrein in beheer van het agentschap;<br>
+56° beheerder van een terrein: de eigenaar of mede-eigenaar, de houder van andere zakelijke rechten of de houder van een persoonlijk recht die belast is met het beheer van een terrein;<br>
+57° openbare wegen: de wegen die een bestemming hebben gekregen als openbare weg, meer bepaald de wegen die de administratieve overheid zelf daarvoor heeft bestemd en de wegen waarop na verjaring door dertigjarig gebruik een publiekrechtelijke erfdienstbaarheid van doorgang is gevestigd;<br>
+58° private wegen: de private toegangswegen of de wegen die door het publiek worden gebruikt maar waar niet door verjaring een publiekrechtelijke erfdienstbaarheid van doorgang op is gevestigd;<br>
+59° ontbossen: iedere handeling waardoor een bos geheel of gedeeltelijk verdwijnt en aan de grond een andere bestemming of een ander gebruik wordt gegeven;<br>
+60° agentschap: het agentschap voor Natuur en Bos, opgericht bij het besluit van de Vlaamse Regering van 23 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Natuur en Bos;<br>
+61° instandhoudingsdoelstellingen: de gewestelijke instandhoudingsdoelstellingen of de instandhoudingsdoelstellingen voor een speciale beschermingszone in het Vlaamse Gewest;<br>
+62° Europees te beschermen habitats: de habitattypes opgenomen in bijlage I bij dit decreet;<br>
+63° Europees te beschermen soorten: de soorten, opgenomen in bijlage II, III en IV bij dit decreet, en de trekvogels die geregeld voorkomen op het grondgebied van het Vlaamse Gewest en die niet in bijlage IV bij dit decreet worden vermeld;<br>
+64° gewestelijke instandhoudingsdoelstellingen: de verbeter- of behoudopgaven voor het behouden, herstellen of ontwikkelen van een gunstige staat van instandhouding op Vlaams niveau van in het Vlaamse Gewest voorkomende Europees te beschermen habitats of soorten;<br>
+65° instandhoudingsdoelstellingen voor een speciale beschermingszone: de verbeter- of behoudopgaven voor de Europees te beschermen habitats of populaties van Europees te beschermen soorten en hun leefgebieden, waarvoor het Europees te beschermen gebied is aangemeld of die in het Europees te beschermen gebied voorkomen;<br>
+66° instandhoudingsmaatregelen: de plannen of programma's, geboden of verboden en andere acties die er op gericht zijn om Europees te beschermen habitats of populaties van Europees te beschermen soorten en hun leefgebieden, en het natuurlijk milieu ervan, in stand te houden, te herstellen of te ontwikkelen;<br>
+67° inheemse soort: een soort die van nature in het Vlaamse Gewest in het wild voorkomt of voorkwam, of er al lang is ingeburgerd;<br>
+68° soortenbeschermingsprogramma: een programma van soortenbehoudsmaatregelen dat met name gericht is op het verkrijgen van de gunstige staat van instandhouding van een inheemse soort of een groep van soorten in het gebied waarop het programma van toepassing is;<br>
+69° planversie: één van de opeenvolgende versies van een managementplan Natura 2000;<br>
+70° zoekzone: een zone die per Europees te beschermen soort en per Europees te beschermen habitat de perimeter aangeeft die gevrijwaard wordt met het oog op het optimaal plaatsen van de instandhoudingsdoelstellingen voor de betrokken speciale beschermingszone. De omvang van de zoekzone wordt bepaald door de oppervlakte die nodig is voor het realiseren van het openstaand saldo van de taakstelling voor de betrokken Europees te beschermen habitat of Europees te beschermen soort;<br>
+71° actiegebied: een gebied dat op basis van relevante milieueffecten vastgesteld wordt voor de realisatie van de taakstelling inzake de toestand van het natuurlijk milieu voor de betrokken speciale beschermingszone.</p>
 
 ## HOOFDSTUK II OFFICIËLE STRUCTUREN INZAKE NATUURBELEID
 
@@ -42,7 +135,9 @@ Het onder artikel 6 bedoelde beleid is gericht op het nemen van alle maatregelen
 
 ### ART. 8.
 
-De Vlaamse regering neemt alle nodige maatregelen ter aanvulling van de bestaande regelgeving om over het gehele grondgebied van het Vlaamse Gewest de milieukwaliteit te vrijwaren die vereist is voor het behoud van de natuur en om het standstill-beginsel toe te passen zowel wat betreft de kwaliteit als de kwantiteit van de natuur.
+De Vlaamse regering neemt alle nodige maatregelen ter aanvulling van de bestaande regelgeving om over het gehele grondgebied van het Vlaamse Gewest de milieukwaliteit te vrijwaren die vereist is voor het behoud van de natuur en om het standstill-beginsel toe te passen zowel wat betreft de kwaliteit als de kwantiteit van de natuur.<br>
+<br>
+Dit standstillbeginsel is ook van toepassing na het verstrijken van de termijn van elk beheerplan wanneer de realisatie van de beheerdoelstellingen en -maatregelen van een natuurbeheerplan als vermeld in artikel 16octies of de uitvoering van de beheerplannen in het kader van of in uitvoering van dit decreet of het Bosdecreet van 13 juni 1990, leidt tot een hogere natuurkwaliteit.
 
 ### ART. 9.
 
@@ -118,11 +213,106 @@ Het ontwerp van natuurbeleidsplan wordt onderworpen aan dezelfde adviesprocedure
 
 ## [AFDELING 1 ALGEMENE BEPALINGEN ((ing. decr. 9 mei 2014, art. 4, I: 28 oktober 2017)]
 
+### ART. 12bis.
+
+Bij het beheer van terreinen ten behoeve van het natuurbehoud, wordt gestreefd naar een geïntegreerd beheer waarbij rekening gehouden wordt met de ecologische, de economische en de sociale functie.
+
 ## [AFDELING 2 DE ECOLOGISCHE FUNCTIE ((ing. decr. 9 mei 2014, art. 6, I: 28 oktober 2017)]
+
+### ART. 12ter.
+
+De ecologische functie heeft onder meer betrekking op:<br>
+1° de rol van een terrein in het kader van het natuurbehoud en in het kader van de zorg voor het behoud van de biologische diversiteit;<br>
+2° de milieubeschermende rol van een terrein dat beheerd wordt ten behoeve van het natuurbehoud.
+
+### ART. 12quater.
+
+De zorg voor de ecologische functie van een terrein wordt onder meer gerealiseerd door:<br>
+1° het voeren van een gepast beheer voor de realisatie van de gewenste natuurstreefbeelden;<br>
+2° de zorg voor behoud van de biologische diversiteit, onder meer door het bevorderen van de instandhouding van populaties van inheemse dier- en plantensoorten met inbegrip van de instandhouding van hun leefgebieden;<br>
+3° de instandhouding van het natuurlijk milieu, inclusief een voor de natuurwaarden gunstige waterhuishouding;<br>
+4° het voeren van een beheer dat gericht is op het tegengaan van alle nadelige externe beïnvloeding van de natuur en het natuurlijk milieu.
 
 ## [AFDELING 3 DE ECONOMISCHE FUNCTIE ((ing. decr. 9 mei 2014, art. 9, I: 28 oktober 2017)]
 
+### ART. 12quinquies.
+
+De economische functie van een terrein dat beheerd wordt ten behoeve van het natuurbehoud bestaat onder meer uit het optimaal benutten van ecosysteemdiensten, waaronder de duurzame productie van goederen of diensten, die binnen dit terrein gerealiseerd kunnen worden.
+
 ## [AFDELING 4 DE SOCIALE FUNCTIE ((ing. decr. 9 mei 2014, art. 11, I: 28 oktober 2017)]
+
+### ART. 12sexies.
+
+De sociale functie van een terrein dat beheerd wordt ten behoeve van het natuurbehoud heeft onder meer betrekking op:<br>
+1° de natuurbeleving en -educatie;<br>
+2° de toegankelijkheid van het terrein met het oog op recreatie;<br>
+3° de rol van het terrein voor algemene landschapszorg en het beheer van onroerend erfgoed;<br>
+4° de rol van het terrein voor het wetenschappelijk onderzoek.
+
+### ART. 12septies.
+
+§ 1. De volgende terreinen zijn toegankelijk voor voetgangers op de openbare en de private wegen:<br>
+1° een openbaar terrein dat beheerd wordt ten behoeve van het natuurbehoud;<br>
+2° een bos;<br>
+3° een terrein dat beheerd wordt ten behoeve van het natuurbehoud en dat werd aangekocht of waarop een zakelijk of persoonlijk recht werd verworven, in beide gevallen met financiële tussenkomst van een administratieve overheid in uitvoering van dit decreet.<br>
+<br>
+Met de voetganger wordt gelijkgesteld, de rolstoelgebruikers en de fietsers jonger dan 9 jaar.<br>
+<br>
+§ 2. Een terrein als vermeld in paragraaf 1, eerste lid, kan door de beheerder geheel of gedeeltelijk ontoegankelijk worden gesteld, met uitzondering van de openbare wegen. De ontoegankelijkheid kan van bepaalde duur of van onbepaalde duur zijn en kan betrekking hebben op een of meer categorieën van gebruikers.<br>
+<br>
+In een openbaar terrein dat beheerd wordt ten behoeve van het natuurbehoud kan de beheerder ook de minder belangrijke openbare wegen ontoegankelijk stellen. Als minder belangrijke openbare wegen worden beschouwd: alle openbare of gedeelten van openbare wegen, met uitzondering van die openbare wegen die ingericht zijn voor het gewone gemotoriseerde verkeer en die in hoofdzaak bestemd zijn als doorgangsweg.<br>
+<br>
+In een openbaar terrein dat beheerd wordt ten behoeve van het natuurbehoud of in een terrein dat verworven is met financiële tussenkomst van een administratieve overheid in uitvoering van dit decreet, kan de ontoegankelijkheid, vermeld in het eerste en het tweede lid, alleen in de volgende gevallen worden ingesteld:<br>
+1° als ze is opgenomen in een goedgekeurde toegankelijkheidsregeling, als vermeld in artikel 12octies;<br>
+2° als ze noodzakelijk is voor de openbare veiligheid, zoals bij brandgevaar, storm of andere gevaarlijke situaties;<br>
+3° als ze noodzakelijk is voor de bescherming van de inheemse dier- en plantensoorten;<br>
+4° als er beheerwerkzaamheden worden uitgevoerd waarbij de veiligheid van de bezoekers niet gegarandeerd kan worden;<br>
+5° als er jacht- en bestrijdingsactiviteiten worden uitgevoerd overeenkomstig de jachtregelgeving of de regelgeving inzake soortenbeheer.<br>
+<br>
+De ontoegankelijkheid wordt op een duidelijk zichtbare wijze aangeduid. De Vlaamse Regering legt de nadere regels vast voor de aanduiding van de ontoegankelijkheid in terreinen als vermeld in paragraaf 1, eerste en tweede lid.<br>
+<br>
+In terreinen van type twee, type drie of type vier, vermeld in artikel 16ter, § 1, waarvoor een natuurbeheerplan is goedgekeurd overeenkomstig artikel 16octies, geldt een minimale toegankelijkheid. Dit betekent dat voor een dergelijk terrein geen volledige ontoegankelijkheid kan worden ingesteld zoals vermeld in het eerste en het tweede lid.<br>
+<br>
+§ 3. Het toelaten van andere categorieën van weggebruikers dan voetgangers of het beperken van de toegankelijkheid wordt vastgesteld in een goedgekeurde toegankelijkheidsregeling als vermeld in artikel 12octies.<br>
+<br>
+§ 4. De Vlaamse Regering kan voor terreinen als vermeld in paragraaf 1, eerste lid, voor zover de natuurkwaliteit van het terrein niet wordt bedreigd en de vervulling van de verschillende functies niet wordt verhinderd en onder de voorwaarden die ze bepaalt, regels vaststellen voor:<br>
+1° het verlaten van de openbare en de private wegen in bepaalde zones of voor bepaalde activiteiten;<br>
+2° het gebruik van de private wegen en de minder belangrijke openbare wegen, vermeld in paragraaf 2, voor risicovolle activiteiten, door het verkrijgen van een vergunning. Met risicovolle activiteiten worden activiteiten bedoeld die door hun aard of omvang schade kunnen teweegbrengen aan fauna, flora of derden;<br>
+3° het toelaten van huisdieren.<br>
+<br>
+De Vlaamse Regering bepaalt de categorieën van andere gebruikers dan voetgangers die onder bepaalde voorwaarden toegang kunnen krijgen tot een terrein als vermeld in paragraaf 1, eerste lid. De toegankelijkheid voor andere categorieën van gebruikers dan voetgangers wordt op een duidelijk zichtbare wijze aangeduid. De Vlaamse Regering kan nadere regels vastleggen voor de aanduiding van de toegankelijkheid.
+
+### ART. 12octies.
+
+§ 1. De toegankelijkheid van een terrein als vermeld in artikel 12septies, § 1, eerste lid, wordt vastgesteld in een toegankelijkheidsregeling. Die regeling mag niet strijdig zijn met de inhoud van het natuurbeheerplan of met de bepalingen van dit decreet.<br>
+<br>
+In de volgende gevallen hoeft geen toegankelijkheidsregeling te worden vastgesteld:<br>
+1° in een terrein als vermeld in artikel 12septies, § 1, eerste lid, waar de toegankelijkheid beperkt blijft tot het verlenen van toegang voor voetgangers op de openbare en de private wegen als vermeld in artikel 12septies, § 1;<br>
+2° in een privaat terrein als vermeld in artikel 12 septies, § 1, eerste lid, waar het terrein ontoegankelijk is gesteld zoals vermeld in artikel 12septies, § 2, eerste lid.<br>
+<br>
+In andere terreinen dan deze vermeld in artikel 12septies, § 1, eerste lid, kan een toegankelijkheidsregeling opgesteld worden als er voor dat terrein een goedgekeurd natuurbeheerplan is.<br>
+<br>
+§ 2. Een toegankelijkheidsregeling kan opgemaakt worden door de beheerder of een groep van beheerder, met de instemming van de eigenaars.<br>
+<br>
+De procedure voor de opmaak van een toegankelijkheidsregeling heeft de volgende kenmerken:<br>
+1° een aanvraag voor de opmaak van een toegankelijkheidsregeling wordt ingediend door de beheerder van het terrein, met instemming van de eigenaar;<br>
+2° een aanvraag voor de opmaak van een toegankelijkheidsregeling kan tegelijk gebeuren met de aanvraag voor de goedkeuring van een natuurbeheerplan, vermeld in artikel 16octies, § 1;<br>
+3° een aanvraag voor de opmaak van een toegankelijkheidsregeling wordt onderworpen aan een advies van het agentschap.<br>
+<br>
+De Vlaamse Regering of haar gemachtigde beslist over de aanvragen van de goedkeuring van een toegankelijkheidsregeling, vermeld in het tweede lid.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt nadere regels over de inhoud en de procedure voor de goedkeuring van een toegankelijkheidsregeling.
+
+### ART. 12novies.
+
+In een terrein als vermeld in artikel 12septies, § 1, eerste lid, is geen enkele vorm van gemotoriseerd verkeer toegelaten, uitgezonderd op de openbare wegen die ingericht zijn voor het gewone gemotoriseerd verkeer en in hoofdzaak bestemd zijn als doorgangsweg.<br>
+<br>
+Het verbod, vermeld in het eerste lid, geldt niet voor gemotoriseerd verkeer dat nodig is voor:<br>
+1° het uitvoeren van beheeractiviteiten, inclusief jacht- en bestrijdingsactiviteiten overeenkomstig de jachtregelgeving of de regelgeving inzake soortenbeheer;<br>
+2° het uitoefenen van toezicht en opsporing;<br>
+3° het garanderen van de veiligheid van de bezoekers;<br>
+4° bijzondere omstandigheden die vastgesteld zijn in een toegankelijkheidsregeling of een natuurbeheerplan;<br>
+5° het gebruik van toegangswegen door de beheerder van het terrein of zijn genodigden in functie van de bereikbaarheid van onroerende goederen.
 
 ## [AFDELING 5 TECHNISCH BEHEER VAN OPENBARE TERREINEN (ing. decr. 1 juli 2022, art. 10, I: 8 augustus 2022)]
 
@@ -132,7 +322,42 @@ Het ontwerp van natuurbeleidsplan wordt onderworpen aan dezelfde adviesprocedure
 
 ### ART. 13.
 
-§ 1. De Vlaamse regering kan alle nodige maatregelen nemen voor het   natuurbehoud, ten behoeve van de bestaande natuur ongeacht de bestemming van het   betrokken gebied, evenals voor de instandhouding van het natuurlijk milieu   binnen de groen-, park-, buffer- en bosgebieden van de uitvoeringsplannen, van   kracht in de ruimtelijke ordening, en meer bepaald voor:<BR>1° de bescherming,   de instandhouding, de ontwikkeling of het herstel van natuurlijke of deels   natuurlijke habitats of ecosystemen, met inbegrip van de waterrijke gebieden van   internationale betekenis;<BR>2° de bescherming, de instandhouding en   ontwikkeling van natuurlijke of halfnatuurlijke vegetaties;<BR>3° de   bescherming, de instandhouding en de ontwikkeling van de wilde inheemse fauna en   flora en van de trekkende wilde diersoorten en hun habitats;<BR>4° de   bescherming, de instandhouding en ontwikkeling van kleine   landschapselementen;<BR>5° de bescherming, de instandhouding en ontwikkeling van   de natuur in de bebouwde omgeving;<BR>6° het regelen van de toegang tot en het   gebruik van het natuurlijke milieu, [met inachtneming van het bepaalde in   artikel 35, § 1. Voor de natuurreservaten en het VEN of onderdelen van het VEN   houdt dit eveneens het regelen in van de toegang tot de voor het verkeer minder   belangrijke openbare wegen. Worden beschouwd als voor het verkeer minder   belangrijke openbare wegen: alle openbare of gedeelten van openbare wegen   liggend in de natuurreservaten of het VEN, met uitzondering van de openbare   wegen die ingericht zijn voor het gewone gemotoriseerde verkeer voor zover deze   in hoofdzaak bestemd zijn als doorgangsweg. De toegang tot deze wegen kan   slechts wettig worden aangeduid in de vorm en op de wijze zoals bepaald door de   Vlaamse regering. <BR><BR>§ 2. De maatregelen bedoeld in § 1 kunnen gericht zijn   op het stimuleren van het natuurbeheer, het onderhoud, de natuurontwikkeling en   kunnen, binnen de perken van de begroting, een financiële regeling   vaststellen.<BR><BR>§ 3. De maatregelen bedoeld in ó 1 kunnen het uitvoeren van   bepaalde activiteiten verbieden of aan voorwaarden onderwerpen. Deze voorwaarden   en activiteiten kunnen afhankelijk worden gemaakt van het verkrijgen van een   vergunning. De Vlaamse regering bepaalt de nadere regels met betrekking tot deze   activiteiten of voorwaarden:<BR>1° de wijze waarop, de omstandigheden waaronder   of de plaats waar de activiteit kan worden uitgevoerd;<BR>2° het verlenen van   een voorafgaande, schriftelijke vergunning of toestemming door een in het   besluit aangewezen overheid;<BR>3° het voorafgaand, schriftelijk melden of   kennisgeven van bepaalde activiteiten aan een bij besluit aangewezen overheid,   die binnen een bepaalde termijn de gevolgen van de voorgenomen activiteit   beoordeelt;<BR>4° het herstel in de oorspronkelijke toestand of in een door het   besluit aangegeven toestand na de beëindiging van de activiteit.<BR><BR>§ 4.   Onverminderd de bepalingen van § 3 wordt het wijzigen van de vegetatie of het   geheel of gedeeltelijk wijzigen van kleine landschapselementen of de vegetatie   ervan, voor zover de Vlaamse regering die wijzigingen niet verbiedt, afhankelijk   gemaakt van het verkrijgen van een vergunning. Het gaat daarbij om de volgende   gebieden:<BR>1° de groengebieden, de parkgebieden, de buffergebieden, de   bosgebieden, de natuurontwikkelingsgebieden, de valleigebieden, de brongebieden,   de agrarische gebieden met ecologisch belang of waarde, de agrarische gebieden   met bijzondere waarde en de met al deze gebieden vergelijkbare   bestemmingsgebieden, aangewezen op de plannen van aanleg of de ruimtelijke   uitvoeringsplannen van kracht in de ruimtelijke ordening;<BR>2° de beschermde   duingebieden, aangeduid krachtens artikel 52 van de wet van 12 juli 1973,   toegevoegd bij decreet van 14 juli 1993 houdende maatregelen tot bescherming van   de kustduinen;<BR>3° de gebieden afgebakend volgens of in uitvoering van   internationale overeenkomsten of verdragen betreffende het natuurbehoud of van   akten betreffende het natuurbehoud, met inbegrip van Europese richtlijnen,   vastgesteld op grond van internationale verdragen.<BR><BR>De Vlaamse regering   kan bepalen welke activiteiten een wijziging zijn van de vegetatie of van kleine   landschapselementen of van de vegetatie ervan.<BR><BR>§ 5. Onverminderd de   bepalingen van §§ 3 en 4, wordt het geheel of gedeeltelijk wijzigen van kleine   landschapselementen of de vegetatie ervan, voor zover de Vlaamse regering die   wijzigingen niet verbiedt, tevens afhankelijk gemaakt van het verkrijgen van een   vergunning in de volgende gebieden:<BR>1° de landschappelijk waardevolle   agrarische gebieden en de agrarische gebieden en de met al deze gebieden   vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of de   ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<BR>2° het   IVON.<BR><BR>§ 6. De Vlaamse regering kan nadere regels bepalen inzake   vrijstelling van de vergunningsplicht, bedoeld in §§ 4 en 5, voor zover   uitdrukkelijk voldaan wordt aan de zorgplicht opgelegd door artikel 14 en, in   voorkomend geval, voldaan is aan de bepalingen van artikel 16, §§ 1 tot 3 inzake   het tegengaan van vermijdbare schade wanneer:<BR>1° voor de vermelde activiteit   op grond van wetten, decreten of besluiten een vergunning of toestemming van de   overheid verleend is, na advies van het Agentschap voor Natuur en Bos;<BR>2° de   activiteit geregeld is in goedgekeurde plannen of projecten die nader zijn   bepaald door de Vlaamse regering;<BR>3° het huiskavels met een maximale grootte   van 3 ha betreft;<BR>4° het normale onderhoudswerken betreft.<BR><BR>§ 7. Met   behoud van de toepassing van artikel 16 en artikel 36ter, § 3 tot en met § 6,   kunnen samenhangende of periodiek terugkerende activiteiten die een wijziging   zijn van de vegetatie of van kleine landschapselementen of van de vegetatie   ervan, in één vergunning worden toegestaan voor zover de aard, de locatie en de   omvang en de frequentie van elk van die vergunningsplichtige activiteiten   duidelijk omschreven wordt.<BR><BR>De Vlaamse Regering kan nadere regels bepalen   met betrekking tot de informatie die moet worden aangeleverd door de aanvrager   van een vergunning met betrekking tot de termijn, de frequentie en de aard van   de activiteiten.
+§ 1. De Vlaamse regering kan alle nodige maatregelen nemen voor het natuurbehoud, ten behoeve van de bestaande natuur ongeacht de bestemming van het betrokken gebied, evenals voor de instandhouding van het natuurlijk milieu binnen de groen-, park-, buffer- en bosgebieden van de uitvoeringsplannen, van kracht in de ruimtelijke ordening, en meer bepaald voor:<br>
+1° de bescherming, de instandhouding, de ontwikkeling of het herstel van natuurlijke of deels natuurlijke habitats of ecosystemen, met inbegrip van de waterrijke gebieden van internationale betekenis;<br>
+2° de bescherming, de instandhouding en ontwikkeling van natuurlijke of halfnatuurlijke vegetaties;<br>
+3° de bescherming, de instandhouding en de ontwikkeling van de wilde inheemse fauna en flora en van de trekkende wilde diersoorten en hun habitats;<br>
+4° de bescherming, de instandhouding en ontwikkeling van kleine landschapselementen;<br>
+5° de bescherming, de instandhouding en ontwikkeling van de natuur in de bebouwde omgeving;<br>
+6° het regelen van de toegang tot en het gebruik van het natuurlijke milieu,<br>
+<br>
+§ 2. De maatregelen bedoeld in § 1 kunnen gericht zijn op het stimuleren van het natuurbeheer, het onderhoud, de natuurontwikkeling en kunnen, binnen de perken van de begroting, een financiële regeling vaststellen.<br>
+<br>
+§ 3. De maatregelen bedoeld in ó 1 kunnen het uitvoeren van bepaalde activiteiten verbieden of aan voorwaarden onderwerpen. Deze voorwaarden en activiteiten kunnen afhankelijk worden gemaakt van het verkrijgen van een vergunning. De Vlaamse regering bepaalt de nadere regels met betrekking tot deze activiteiten of voorwaarden:<br>
+1° de wijze waarop, de omstandigheden waaronder of de plaats waar de activiteit kan worden uitgevoerd;<br>
+2° het verlenen van een voorafgaande, schriftelijke vergunning of toestemming door een in het besluit aangewezen overheid;<br>
+3° het voorafgaand, schriftelijk melden of kennisgeven van bepaalde activiteiten aan een bij besluit aangewezen overheid, die binnen een bepaalde termijn de gevolgen van de voorgenomen activiteit beoordeelt;<br>
+4° het herstel in de oorspronkelijke toestand of in een door het besluit aangegeven toestand na de beëindiging van de activiteit.<br>
+<br>
+§ 4. Onverminderd de bepalingen van § 3 wordt het wijzigen van de vegetatie of het geheel of gedeeltelijk wijzigen van kleine landschapselementen of de vegetatie ervan, voor zover de Vlaamse regering die wijzigingen niet verbiedt, afhankelijk gemaakt van het verkrijgen van een vergunning. Het gaat daarbij om de volgende gebieden:<br>
+1° de groengebieden, de parkgebieden, de buffergebieden, de bosgebieden, de natuurontwikkelingsgebieden, de valleigebieden, de brongebieden, de agrarische gebieden met ecologisch belang of waarde, de agrarische gebieden met bijzondere waarde en de met al deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br>
+2° de beschermde duingebieden, aangeduid krachtens artikel 52 van de wet van 12 juli 1973, toegevoegd bij decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen;<br>
+3° de gebieden afgebakend volgens of in uitvoering van internationale overeenkomsten of verdragen betreffende het natuurbehoud of van akten betreffende het natuurbehoud, met inbegrip van Europese richtlijnen, vastgesteld op grond van internationale verdragen.<br>
+<br>
+De Vlaamse regering kan bepalen welke activiteiten een wijziging zijn van de vegetatie of van kleine landschapselementen of van de vegetatie ervan.<br>
+<br>
+§ 5. Onverminderd de bepalingen van §§ 3 en 4, wordt het geheel of gedeeltelijk wijzigen van kleine landschapselementen of de vegetatie ervan, voor zover de Vlaamse regering die wijzigingen niet verbiedt, tevens afhankelijk gemaakt van het verkrijgen van een vergunning in de volgende gebieden:<br>
+1° de landschappelijk waardevolle agrarische gebieden en de agrarische gebieden en de met al deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br>
+2° het IVON.<br>
+<br>
+§ 6. De Vlaamse regering kan nadere regels bepalen inzake vrijstelling van de vergunningsplicht, bedoeld in §§ 4 en 5, voor zover uitdrukkelijk voldaan wordt aan de zorgplicht opgelegd door artikel 14 en, in voorkomend geval, voldaan is aan de bepalingen van artikel 16, §§ 1 tot 3 inzake het tegengaan van vermijdbare schade wanneer:<br>
+1° voor de vermelde activiteit op grond van wetten, decreten of besluiten een vergunning of toestemming van de overheid verleend is, na advies van het Agentschap voor Natuur en Bos;<br>
+2° de activiteit geregeld is in goedgekeurde plannen of projecten die nader zijn bepaald door de Vlaamse regering;<br>
+3° het huiskavels met een maximale grootte van 3 ha betreft;<br>
+4° het normale onderhoudswerken betreft.<br>
+<br>
+§ 7. Met behoud van de toepassing van artikel 16 en artikel 36ter, § 3 tot en met § 6, kunnen samenhangende of periodiek terugkerende activiteiten die een wijziging zijn van de vegetatie of van kleine landschapselementen of van de vegetatie ervan, in één vergunning worden toegestaan voor zover de aard, de locatie en de omvang en de frequentie van elk van die vergunningsplichtige activiteiten duidelijk omschreven wordt.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen met betrekking tot de informatie die moet worden aangeleverd door de aanvrager van een vergunning met betrekking tot de termijn, de frequentie en de aard van de activiteiten.
 
 ### ART. 14.
 
@@ -148,9 +373,224 @@ De Vlaamse regering stelt regels vast met betrekking tot het aanvragen, verlenen
 
 ## [AFDELING 2 NATUURBEHEERPLANNEN (ing. decr. 9 mei 2014, art. 18, I: 28 oktober 2017)]
 
+### ART. 16bis.
+
+§ 1. Voor een terrein dat beheerd wordt of zal worden ten behoeve van het natuurbehoud kan een natuurbeheerplan worden opgemaakt.<br>
+<br>
+Een natuurbeheerplan bevat:<br>
+1° een beschrijving van de bestaande toestand;<br>
+2° een globaal kader voor de ecologische, de sociale en de economische functie;<br>
+3° de beheerdoelstellingen;<br>
+4° de beheermaatregelen die genomen zullen worden om de beheerdoelstellingen te realiseren;<br>
+5° de wijze waarop de realisatie van de beheerdoelstellingen wordt opgevolgd en geëvalueerd.<br>
+<br>
+§ 2. Voor alle natuurdomeinen stelt het agentschap een natuurbeheerplan op.<br>
+<br>
+Met het oog op de realisatie van instandhoudingsdoelstellingen stelt de beheerder van een openbaar terrein beheerd ten behoeve van het natuurbehoud, een natuurbeheerplan op.<br>
+<br>
+Een natuurbeheerplan kan opgemaakt worden door de beheerder of een groep van beheerders, met de instemming van de eigenaars.
+
+### ART. 16ter.
+
+§ 1. Bij het opstellen van een natuurbeheerplan, als vermeld in artikel 16bis, worden, afhankelijk van de doelstellingen die gekozen worden voor de realisatie van de ecologische functie, de volgende types terreinen onderscheiden:<br>
+1° type één: behouden van de aanwezige natuurkwaliteit;<br>
+2° type twee: bereiken van een hogere natuurkwaliteit;<br>
+3° type drie: bereiken van de hoogste natuurkwaliteit;<br>
+4° type vier: erkend natuurreservaat.<br>
+<br>
+§ 2. De private terreinen, waarvoor een natuurbeheerplan wordt opgemaakt, die geheel of gedeeltelijk liggen in het VEN of in een speciale beschermingszone in het Vlaamse Gewest, de natuurdomeinen alsook de openbare terreinen waarvoor een natuurbeheerplan wordt opgemaakt, moeten ten minste aan de voorwaarden voor type twee voldoen. In het geval vermeld in artikel 16septies, tweede lid, wordt daarbij maximaal gestreefd om te voldoen aan de voorwaarden voor type drie of type vier. Voor natuurdomeinen die verworven zijn met het oog op de realisatie van instandhoudingsdoelstellingen voldoet het natuurbeheerplan aan de voorwaarden voor type drie of type vier.<br>
+<br>
+Voor de terreinen die niet vermeld zijn in het eerste lid kiest de beheerder van het terrein die een geïntegreerd beheer ten behoeve van het natuurbehoud wil voeren, uit de vier types, vermeld in het eerste lid. De beheerder kan alleen kiezen voor type drie of type vier als het terrein, in voorkomend geval in samenhang met de ruimtelijke omgeving ervan, voldoende oppervlakte heeft om op duurzame wijze de aanwezige of te ontwikkelen natuurstreefbeelden in stand te houden.
+
+### ART. 16quater.
+
+Het beheer van een terrein van type één als vermeld in artikel 16ter, § 1, 1°, wordt gevoerd met het oog op een geïntegreerd beheer ten behoeve van het natuurbehoud, waarbij het behoud van de aanwezige natuurkwaliteit en van het natuurlijk milieu gegarandeerd worden.
+
+### ART. 16quinquies.
+
+Het beheer van een terrein van type twee als vermeld in artikel 16ter, § 1, 2°, wordt gevoerd met het oog op het behouden of ontwikkelen van een hogere natuurkwaliteit en van het behouden of verbeteren van het natuurlijk milieu. Het beheer van een dergelijk terrein is gebaseerd op volgende uitgangspunten:<br>
+1° over ten minste een vierde van de oppervlakte van het terrein wordt het realiseren van minstens één natuurstreefbeeld tot doel gesteld;<br>
+2° met het oog op een geïntegreerd beheer ten behoeve van het natuurbehoud worden doelstellingen geformuleerd voor de ecologische, economische en sociale functie in het terrein, waarbij sterk rekening wordt gehouden met de aanwezige en potentiële natuurwaarden, en waarbij de maatregelen ter realisatie van de economische functie en sociale functie het vervullen van de ecologische functie niet mogen bemoeilijken of verhinderen;<br>
+3° de beheerder kan plaatselijk en voor een of meer delen van het terrein de klemtoon op het realiseren van een bepaalde functie leggen, op voorwaarde dat de andere functies voldoende in het volledige terrein aan bod komen.
+
+### ART. 16sexies.
+
+Het beheer van een terrein van type drie of type vier als vermeld in artikel 16ter, § 1, 3° en 4°, wordt gevoerd met het oog op het behouden of ontwikkelen van de hoogste natuurkwaliteit. Het beheer van een dergelijk terrein is gebaseerd op volgende uitgangspunten:<br>
+1° over de volledige oppervlakte van het terrein wordt het realiseren van minstens één natuurstreefbeeld tot doel gesteld;<br>
+2° er kan bovendien gestreefd worden naar de realisatie van de sociale functie en de economische functie, op voorwaarde dat dit de realisatie van de ecologische functie en van de natuurstreefbeelden niet bemoeilijkt of verhindert.<br>
+<br>
+Om gemotiveerde reden kan in het natuurbeheerplan worden afgeweken van de voorwaarde vermeld in het eerste lid, 1°, voor ten hoogste tien percent van de oppervlakte van het terrein.
+
+### ART. 16septies.
+
+De beheerdoelstellingen en -maatregelen in een natuurbeheerplan moeten in voorkomend geval in overeenstemming zijn met:<br>
+1° de instandhoudingsdoelstellingen;<br>
+2° de soortenbeschermingsprogramma's;<br>
+3° de al vastgestelde natuurrichtplannen;<br>
+4° de managementplannen, vermeld in artikel 48;<br>
+5° de bepalingen van het managementplan Natura 2000.<br>
+<br>
+Indien het natuurbeheerplan betrekking heeft op terreinen die zich bevinden in een speciale beschermingszone in het Vlaamse Gewest wordt het natuurbeheerplan binnen de zoekzones, vermeld in artikel 50septies, § 4, maximaal afgestemd op de bepalingen van het managementplan Natura 2000 voor zover het betrekking heeft op:<br>
+1° natuurdomeinen;<br>
+2° openbare terreinen;<br>
+3° terreinen die werden aangekocht of waarop een zakelijk of persoonlijk recht werd verworven, in beide gevallen met financiële tussenkomst van de administratieve overheid in uitvoering van dit decreet.<br>
+<br>
+Naast de maximale afstemming op de bepalingen van het managementplan Natura 2000, als vermeld in het tweede lid, kan het natuurbeheerplan ook het realiseren van natuurstreefbeelden van regionaal belang omvatten.<br>
+<br>
+De Vlaamse Regering stelt de natuurstreefbeelden vast die voor het Vlaamse Gewest van regionaal belang zijn.<br>
+<br>
+De Vlaamse Regering stelt een lijst van de natuurstreefbeelden vast die in aanmerking komen voor terreinen van type twee, type drie en type vier.<br>
+<br>
+De Vlaamse Regering stelt nadere regels vast om te beoordelen of het terrein van type drie of type vier voldoende oppervlakte heeft om op een duurzame wijze de aanwezige of te ontwikkelen natuurstreefbeelden in stand te houden.<br>
+<br>
+De Vlaamse Regering stelt voor de vier types van terreinen de nadere criteria vast waaraan het beheer, bepaald in een natuurbeheerplan, moet voldoen.<br>
+<br>
+Als naast een natuurbeheerplan ook een beheerplan in het kader van het Onroerend-erfgoeddecreet van 12 juli 2013 wordt opgemaakt, worden alle beheerdoelstellingen voor dat terrein in één beheerplan geïntegreerd. De Vlaamse Regering bepaalt daarvoor de nadere regels. De bepalingen van dit artikel zijn ook van toepassing op dat geïntegreerde beheerplan.
+
+### ART. 16octies.
+
+§ 1. De procedure voor de goedkeuring van een natuurbeheerplan verloopt als volgt:<br>
+1° in een eerste, verkennend deel wordt de informatie verzameld die nodig is om te bepalen met welk van de vier types terreinen, vermeld in artikel 16ter, § 1, het geplande beheer overeenstemt. Dit eerste deel wordt goedgekeurd door het agentschap;<br>
+2° na de goedkeuring van het eerste deel wordt een ontwerp van een natuurbeheerplan opgemaakt;<br>
+3° een ontwerp van natuurbeheerplan, vermeld in punt 2°, wordt onderworpen aan een consultatie van het publiek als het gaat om terreinen van type twee, type drie of type vier;<br>
+4° een ontwerp van natuurbeheerplan, vermeld in punt 2°, wordt onderworpen aan het advies van door de Vlaamse Regering aan te wijzen instanties. De Vlaamse Regering kan bepalen voor welke types van terreinen advies moet worden verleend;<br>
+5° er wordt een beslissing genomen over het ontwerp van natuurbeheerplan.<br>
+<br>
+De beslissing, vermeld in punt 5° van het eerste lid, gebeurt door de Vlaamse Regering of haar gemachtigde als het ontwerp van natuurbeheerplan betrekking heeft op een natuurdomein. Het agentschap beslist over de goedkeuring van het ontwerp van het natuurbeheerplan van andere terreinen.<br>
+<br>
+§ 2. Er worden evaluatiemomenten voorzien om te bepalen in welke mate de in een natuurbeheerplan vooropgestelde beheerdoelstellingen gerealiseerd worden. Het resultaat van deze evaluatiemomenten kan leiden tot de wijziging van een natuurbeheerplan.<br>
+<br>
+§ 3. Een natuurbeheerplan geldt voor een periode van 24 jaar, tenzij bij de goedkeuring ervan anders is bepaald.<br>
+<br>
+§ 4. Een goedgekeurd natuurbeheerplan wordt bij uittreksel gepubliceerd in het Belgisch Staatsblad. De goedgekeurde natuurbeheerplannen worden door het agentschap opgenomen in een register en meegedeeld aan de gemeente of gemeenten waarin het terrein geheel of gedeeltelijk ligt.
+
+### ART. 16novies.
+
+&nbsp;§ 1. De goedkeuring van het natuurbeheerplan houdt voor de beheerder van het terrein een verbintenis in tot de uitvoering van de in het natuurbeheerplan opgenomen beheermaatregelen, voor zover de financieringsverbintenis wordt nageleefd.<br>
+<br>
+De goedkeuring van het natuurbeheerplan, ander dan dit van type één, houdt voor het Vlaamse Gewest een verbintenis in tot financiering, binnen de perken van de begroting van de in het natuurbeheerplan opgenomen maatregelen, die voor subsidie in aanmerking komen met toepassing van artikel 16sedecies, § 1, 2°.<br>
+<br>
+Voor zover de realisatie van het in het natuurbeheerplan opgenomen globaal kader en de beheerdoelstellingen niet in het gedrang komt, kan de beheerder afwijken van de beheermaatregelen die het goedgekeurde natuurbeheerplan bevat, op voorwaarde dat voldaan wordt aan de voorwaarden inzake natuurbeheer die zijn opgenomen in het natuurbeheerplan en de afwijking van de beheermaatregelen geen gevolg heeft buiten het terrein. Afwijkende beheermaatregelen die wel de realisatie van het globaal kader en de beheerdoelstellingen in het gedrang brengen of die gevolgen hebben buiten het terrein, zijn pas mogelijk na een goedgekeurde wijziging van het natuurbeheerplan.<br>
+<br>
+Een goedgekeurd natuurbeheerplan is bindend voor de opeenvolgende beheerders.<br>
+<br>
+De overname van het beheer van een terrein met een goedgekeurd natuurbeheerplan door een nieuwe beheerder wordt binnen een termijn van dertig dagen na de overname door de vorige beheerder aan het agentschap gemeld.<br>
+<br>
+§ 2. De instrumenterend ambtenaar vermeldt in alle akten van verkoop of van verhuring voor meer dan negen jaar van een onroerend goed, van een inbreng van een onroerend goed in een vennootschap, en ook in alle akten van vestiging of overdracht van vruchtgebruik, erfpacht of opstal, en in elke andere akte van een eigendomsoverdracht ten bezwarende titel, met uitzondering van huwelijkscontracten en hun wijzigingen, dat geheel of gedeeltelijk is gelegen binnen een terrein waarop een goedgekeurd natuurbeheerplan van toepassing is:<br>
+1° de datum waarop het natuurbeheerplan werd goedgekeurd, de duur waarvoor het werd goedgekeurd en de verplichtingen die het meebrengt voor de verwerver van het onroerend goed;<br>
+2° het bestaan van de erfdienstbaarheid, vermeld in artikel 16quater decies, § 2.
+
+### ART. 16decies.
+
+§ 1. Als het agentschap vaststelt dat de beheerder van een terrein de beheermaatregelen niet uitvoert of andere beheermaatregelen uitvoert dan wat in het goedgekeurd natuurbeheerplan is opgenomen, en dat doet op zodanige wijze dat de realisatie van de beheerdoelstellingen in het gedrang komt, kan het agentschap beslissen om het natuurbeheerplan op te heffen, na de beheerder gehoord te hebben. Het agentschap kan voorstellen aan de Vlaamse Regering om te beslissen dat het agentschap het beheer van het terrein overneemt gedurende de resterende looptijd van het natuurbeheerplan, voor zover het beheer ervan van belang is voor het realiseren van de instandhoudingsdoelstellingen en voor zover het beheer van het terrein op voorstel van de beheerder niet kan overgenomen worden door een andere beheerder die aantoont of aangetoond heeft op een deskundige manier aan natuurbeheer te kunnen doen. De beslissing over de overname wordt genomen nadat een advies is gevraagd aan een door de Vlaamse Regering aan te wijzen adviesinstantie.<br>
+<br>
+Bij de beslissing tot opheffing van het natuurbeheerplan of tot overname van het beheer, vermeld in het eerste lid, wordt het verlenen van subsidies stopgezet door het agentschap. De verleende subsidies worden geheel of gedeeltelijk teruggevorderd.<br>
+<br>
+§ 2. De beheerder van een terrein kan het agentschap verzoeken om het natuurbeheerplan op te heffen.<br>
+<br>
+Het agentschap kan het verzoek tot opheffing van een natuurbeheerplan type twee, drie of vier voor een privaat terrein alleen toestaan als uit het gemotiveerd verzoek van de beheerder blijkt dat de opheffing wordt gevraagd omwille van gevallen van overmacht waardoor de beheerder in de onmogelijkheid verkeert om het beheerplan uit te voeren.<br>
+<br>
+Als het verzoek tot opheffing van een natuurbeheerplan type twee, drie of vier betrekking heeft op een openbaar terrein kan het agentschap het verzoek tot opheffing alleen toestaan als uit het gemotiveerd verzoek van de beheerder blijkt dat het verzoek tot opheffing noodzakelijk is voor maatregelen die een maatschappelijk belang dienen.<br>
+<br>
+Het agentschap kan, na de beheerder gehoord te hebben, voorstellen aan de Vlaamse Regering om te beslissen dat het agentschap het beheer van het terrein overneemt gedurende de resterende looptijd van het natuurbeheerplan, voor zover het beheer ervan van belang is voor het realiseren van de instandhoudingsdoelstellingen en voor zover het beheer van het terrein op voorstel van de beheerder niet kan overgenomen worden door een andere beheerder die aantoont of aangetoond heeft op een deskundige manier aan natuurbeheer te kunnen doen. De beslissing over de overname wordt genomen nadat een advies is gevraagd aan een door de Vlaamse Regering aan te wijzen adviesinstantie.<br>
+<br>
+Bij de beslissing tot opheffing van het natuurbeheerplan of tot overname van het beheer, vermeld in het vierde lid, wordt het verlenen van subsidies stopgezet door het agentschap. De verleende subsidies kunnen geheel of gedeeltelijk worden teruggevorderd.<br>
+<br>
+§ 3. De beheerder van het privaat terrein ontvangt vanaf het ogenblik van de overname van het beheer door het agentschap, vermeld in de paragrafen 1 en 2, een vergoeding van het agentschap die overeenkomt met het kadastraal inkomen van het terrein, aangepast aan het indexcijfer van de consumptieprijzen van het Rijk als vermeld in artikel 518 van het Wetboek van de Inkomstenbelastingen, dat van toepassing is op het ogenblik van de overname van het beheer. De vergoeding wordt jaarlijks op 1 januari aangepast aan het in artikel 518 van het Wetboek van de Inkomstenbelasting 1992 bedoelde indexcijfer.<br>
+<br>
+§ 4. In geval van gehele of gedeeltelijke terugvordering van subsidies met toepassing van paragraaf 1 en 2, is de beheerder van het terrein gehouden tot terugbetaling van de subsidie, vermeld in artikel 13bis van het Bosdecreet, voor de resterende duur van de periode waarvoor ze geacht wordt te zijn toegekend.
+
+### ART. 16undecies.
+
+§ 1. Met uitzondering van de beslissing van de Vlaamse Regering over de overname van het beheer, vermeld in artikel 16decies, § 1, eerste lid, en § 2, vierde lid, kan de beheerder van het terrein tegen de beslissingen van het agentschap, vermeld in artikel 16octies, § 1, eerste lid, 1°, en tweede lid, en § 2, artikel 16decies, § 1, eerste en tweede lid, en § 2, vierde en vijfde lid, binnen een vervaltermijn van dertig dagen na kennisgeving van de beslissing, een beroep instellen bij de Vlaamse Regering. Dat beroep is niet schorsend.<br>
+<br>
+§ 2. De beslissing over het beroep, vermeld in paragraaf 1, wordt genomen nadat een advies is gevraagd aan een door de Vlaamse Regering aan te wijzen adviesinstantie.<br>
+<br>
+De adviesinstantie brengt een schriftelijk en gemotiveerd advies uit binnen dertig kalenderdagen na ontvangst van het dossier. Als er binnen die termijn geen advies is verleend, kan aan de adviesvereiste worden voorbijgegaan.
+
+### ART. 16duodecies.
+
+De Vlaamse Regering bepaalt de nadere regels voor:<br>
+1° de inhoud van het natuurbeheerplan, vermeld in artikel 16bis, § 1, tweede lid;<br>
+2° de procedure voor de goedkeuring van het natuurbeheerplan, vermeld in artikel 16octies, § 1, inclusief de wijze waarop de consultatie van het publiek plaatsvindt en de aanwijzing van instanties die advies uitbrengen over het natuurbeheerplan;<br>
+3° de procedure voor de wijziging van een natuurbeheerplan en de gevallen waarin tot wijziging van dat plan moet worden overgegaan;<br>
+4° de procedure voor de opheffing van een natuurbeheerplan, de terugbetaling van subsidies en de overname van het beheer door het agentschap, en de nadere regels voor de betaling en de indexering van de vergoeding bij overname van het beheer, vermeld in artikel 16decies, § 3;<br>
+5° de opvolging en evaluatie van de uitvoering van het natuurbeheerplan;<br>
+6° de melding van de overname van het beheer, vermeld in artikel 16novies, § 1,&nbsp;vijfde lid;<br>
+7° de procedure van beroep, vermeld in artikel 16undecies, § 1;<br>
+8° de samenstelling en de werking van de adviesinstantie, vermeld in artikel 16decies, § 1, eerste lid, 16decies, § 2, vierde lid, en 16undecies, § 2, eerste lid. De adviesinstantie moet beschikken over voldoende expertise en onafhankelijkheid.
+
 ## [AFDELING 3 DE ERKENNING ALS NATUURRESERVAAT (ing. decr. 9 mei 2014, art. 30, I: 28 oktober 2017)]
 
+### ART. 16ter decies.
+
+§ 1. Een terrein van type vier, als vermeld in artikel 16ter, § 1, 4°, is een terrein van type drie met een goedgekeurd natuurbeheerplan dat tevens erkend is als natuurreservaat.<br>
+<br>
+§ 2. Om erkend te kunnen worden als natuurreservaat moet een terrein aan de volgende voorwaarden voldoen:<br>
+1° het terrein voldoet aan het toetsingskader voor de Vlaamse natuurreservaten. Het terrein moet zich kunnen ontwikkelen om een belangrijke bijdrage te leveren op een van de volgende vlakken:<br>
+a) op het vlak van de habitats, populaties van inheemse dier- en plantensoorten en ecosystemen;<br>
+b) op het vlak van mozaïeklandschappen en onbeheerde climaxvegetaties, waarbij natuurlijke processen een sturende rol spelen;<br>
+c) op het vlak van het natuurlijk milieu met hoge natuurkwaliteit en hoge biodiversiteit;<br>
+2° de schaal van het terrein is voldoende ruim voor het duurzaam voeren van een gepast natuurbeheer voor de realisatie van de beoogde natuurstreefbeelden en voor de instand-houding van populaties of deelpopulaties van de soorten die kenmerkend zijn voor de beoogde natuurstreefbeelden.<br>
+<br>
+§ 3. In de agrarische gebieden en de landschappelijk waardevolle agrarische gebieden, gelegen buiten de gebieden afgebakend in uitvoering van internationale overeenkomsten of verdragen betreffende het natuurbehoud of van akten betreffende het natuurbehoud, met inbegrip van Europese richtlijnen, vastgesteld op grond van internationale verdragen, kunnen terreinen erkend worden als natuurreservaat (type vier) als ze aan de volgende criteria voldoen:<br>
+1° ofwel zijn het gronden die een actuele hoge natuurwaarde hebben en weinig geschikt zijn voor normaal landbouwgebruik in de betrokken landbouwstreek en waarvan de erkenning de agrarische structuur niet aantast;<br>
+2° ofwel zijn het gebieden met een hoge actuele of potentiële natuurwaarde en lage landbouwwaarde die in het kader van een goedgekeurd ruilverkavelingsplan of een goedgekeurd richtplan van een landinrichtingsproject hiertoe zijn aangewezen en waarvan de erkenning de agrarische structuur niet aantast.<br>
+<br>
+§ 4. In de valleigebieden, de brongebieden, de agrarische gebieden met ecologisch belang of agrarische gebieden met bijzondere waarde buiten het VEN en buiten de gebieden afgebakend in uitvoering van internationale overeenkomsten of verdragen betreffende het natuurbehoud of van akten betreffende het natuurbehoud, met inbegrip van Europese richtlijnen, vastgesteld op grond van internationale verdragen, kan de Vlaamse Regering specifieke criteria voor erkenning vaststellen.<br>
+<br>
+§ 5. De criteria vermeld in de paragrafen 3 en 4 zijn ook van toepassing voor de subsidie zoals vermeld in artikel 16sedecies, § 1, 3°.
+
+### ART. 16quater decies.
+
+§ 1. De procedure voor de erkenning van een natuurreservaat heeft de volgende kenmerken:<br>
+1° een aanvraag voor de erkenning als natuurreservaat wordt ingediend door de beheerder van het terrein, met instemming van de eigenaar;<br>
+2° een aanvraag voor de erkenning als natuurreservaat kan tegelijk gebeuren met de aanvraag voor de goedkeuring van een natuurbeheerplan voor een terrein van type drie, vermeld in artikel 16octies, § 1;<br>
+3° een aanvraag voor de erkenning als natuurreservaat wordt onderworpen aan een advies van het agentschap om na te gaan of wordt voldaan aan de voorwaarden als vermeld in artikel 16ter decies.<br>
+<br>
+De Vlaamse Regering of haar gemachtigde beslist over de aanvragen van de erkenning als natuurreservaat, vermeld in het eerste lid.<br>
+<br>
+De erkenning als natuurreservaat wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
+<br>
+§ 2. De erkenning als natuurreservaat vestigt een erfdienstbaarheid tot algemeen nut op het terrein, meer bepaald een publiekrechtelijke erfdienstbaarheid van duurzaam gebruik en langdurig beheer van het terrein als natuurreservaat.<br>
+<br>
+§ 3. De Vlaamse Regering of haar gemachtigde kan, na de beheerder gehoord te hebben, de erkenning als natuurreservaat van een terrein opheffen vanaf het ogenblik dat niet meer aan de voorwaarden van erkenning wordt voldaan. De opheffing van het natuurbeheerplan van een als natuurreservaat erkend terrein houdt van rechtswege de opheffing van de erkenning als natuurreservaat in. In dat geval kan de Vlaamse Regering of haar gemachtigde, na de beheerder gehoord te hebben, beslissen om de verleende subsidies geheel of gedeeltelijk terug te vorderen.<br>
+<br>
+De opheffing van de erkenning als natuurreservaat wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.
+
+### ART. 16quindecies.
+
+De Vlaamse Regering bepaalt de nadere regels voor de procedure van de erkenning als natuurreservaat, van de wijziging en de opheffing ervan.<br>
+<br>
+De Vlaamse Regering stelt ook het toetsingskader vermeld in artikel 16ter decies, § 2, vast waaraan een terrein moet voldoen om erkend te kunnen worden als natuurreservaat.
+
 ## [AFDELING 4 SUBSIDIES (ing. decr. 9 mei 2014, art. 34, I: 28 oktober 2017)]
+
+### ART. 16sedecies.
+
+§ 1. Om de ontwikkeling en uitvoering van het natuurbeheer te bevorderen, kan de Vlaamse Regering, binnen de perken van de begrotingskredieten, een subsidie verlenen voor:<br>
+1° de opmaak van een natuurbeheerplan, als vermeld in artikel 16bis, voor terreinen van type twee, drie of vier;<br>
+2° de uitvoering van de beheer- en inrichtingsmaatregelen voor de realisatie van een natuurstreefbeeld en de opvolging van de beheerdoelstellingen, vermeld in artikel 16bis;<br>
+3° de aankoop van of het verwerven van een zakelijk of persoonlijk recht op gronden, met als doel ze te laten erkennen als natuurreservaat;<br>
+4° de openstelling van een terrein met een goedgekeurd natuurbeheerplan en de aanleg van de infrastructuurwerken om deze openstelling mogelijk te maken, alsook het onthaal van de bezoekers in een erkend natuurreservaat.<br>
+<br>
+De Vlaamse Regering bepaalt telkens voor een periode van drie jaar nadere regels met betrekking tot het aandeel van het verleende budget voor de aankoop en subsidie voor aankoop van gronden vermeld in het eerste lid, 3°, in functie van de realisatie van de instandhoudingsdoelstellingen. Aankopen die niet gericht zijn op instandhoudingsdoelstellingen, door de Vlaamse overheid of met subsidie van de Vlaamse overheid, zijn niet gericht op percelen in beroepslandbouwgebruik. De regels worden geëvalueerd voor het verstrijken van een periode van drie jaar.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de nadere voorwaarden om voor de subsidies, vermeld in paragraaf 1, in aanmerking te komen. Daarbij houdt de Vlaamse Regering onder meer rekening met de volgende criteria:<br>
+1° de goedkeuring van het natuurbeheerplan. Voorafgaand aan de goedkeuring van een natuurbeheerplan kan de subsidie, vermeld in paragraaf 1, eerste lid, 1°, toegekend worden, en er kan een voorschot uitbetaald worden. De volledige uitbetaling van de subsidie is pas mogelijk na de goedkeuring van een natuurbeheerplan;<br>
+2° in eerste instantie de mate waarin de beoogde natuurstreefbeelden worden bereikt en vervolgens de mate waarin de beheer- en inrichtingsmaatregelen worden uitgevoerd;<br>
+3° de mate waarin de beoogde openstelling van het terrein wordt bereikt en de mate waarin het onthaal van de bezoekers in erkende natuurreservaten wordt gerealiseerd.<br>
+<br>
+Met behoud van de toepassing van de mogelijkheid tot terugvordering van subsidies, vermeld in artikel 16decies, § 1 en § 2, en artikel 16quaterdecies, § 3, voorziet de Vlaamse Regering nog in andere mogelijkheden om subsidies geheel of gedeeltelijk terug te vorderen, namelijk in de volgende gevallen:<br>
+1° als blijkt dat een begunstigde van subsidies, verleend op basis van dit artikel, andere subsidies voor dezelfde activiteit heeft verkregen, waardoor de totale subsidies 100% van de totale aangetoonde kostprijs van de gesubsidieerde activiteit overschrijden;<br>
+2° als blijkt dat een begunstigde van subsidies, verleend op basis van dit artikel, niet langer voldoet aan de vereisten om in aanmerking te komen voor die subsidies.<br>
+<br>
+De Vlaamse Regering bepaalt ook:<br>
+1° de wijze van berekening van de subsidie;<br>
+2° de procedures voor de aanvraag, de beoordeling, de toekenning en de uitbetaling van de subsidie en de evaluatie van de bereikte resultaten;<br>
+3° de procedure voor de terugvordering van de subsidies.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen inzake de cumulatie van de subsidies toegekend op basis van deze bepaling met subsidies die zijn toegekend op basis van alle andere regelgeving.
 
 ## HOOFDSTUK V GEBIEDSGERICHT BELEID
 
@@ -209,7 +649,33 @@ De Vlaamse regering kan de gebiedscategorieën van het VEN, overeenkomstig de be
 
 ### ART. 25.
 
-§ 1. De administratieve overheid neemt, binnen haar bevoegdheden, de   nodige maatregelen om in GEN, bij voorrang ten opzichte van de andere functies   in het gebied, en in GENO, rekening houdend met de overige functies in het   gebied, de natuur en het natuurlijk milieu te behouden, te herstellen en te   ontwikkelen.<BR><BR>Naast de maatregelen vermeld in hoofdstuk IV, afdeling 4 van   dit hoofdstuk en hoofdstuk VI en onverminderd hetgeen bepaald wordt in het   eerste lid, hebben deze maatregelen betrekking op:<BR>1° het bevorderen van een   natuurgerichte bosbouw en het instellen van bosreservaten, in overeenstemming   met de bepalingen van het Bosdecreet;<BR>2° het behouden, herstellen en/of op   natuurelementen met een hoge natuurkwaliteit afstemmen van de waterhuishouding,   ondermeer de waterkwaliteit, de waterkwantiteit en de natuurlijke structuur van   de waterlopen en hun randzones, zonder dat dit disproportionele gevolgen heeft   op de omliggende gebieden;<BR>3° het beschermen van de insijpelingsgebieden van   het grondwater;<BR>4° het behouden en herstellen van het microreliëf en de   structuur van het landschap;<BR>5° het recreatieve medegebruik;<BR>6° het   agrarisch medegebruik;<BR>7° het beheer van de natuurwaarden gedurende of na   afloop van de economische of andere activiteiten die in het gebied plaatsvinden,   rekening houdend met cultuurhistorische en landschappelijke waarden van het   gebied. <BR><BR>§ 2. ... <BR><BR>§ 3. In de GEN en de GENO gelden de volgende   voorschriften:<BR>1° het gebruik van meststoffen wordt geregeld overeenkomstig   het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen   de verontreiniging door meststoffen;<BR>2° behoudens individuele ontheffing,   verleend door het Agentschap voor Natuur en Bos of algemene ontheffing, is het   verboden:<BR>1) pesticiden te gebruiken. Dit verbod geldt niet voor de percelen   van de landbouwbedrijven waar in het kader van artikel 15, § 5, lid twee en   vier, van het decreet van 23 januari 1991 inzake de bescherming van het   leefmilieu tegen de verontreiniging door meststoffen, een ontheffing geldt; noch   voor de percelen van landbouwbedrijven die onder de bepalingen van artikel 14 of   artikel 15, §§ 1 tot 4 en § 6 van bovengenoemd decreet vallen; noch voor gronden   die louter om de reden dat deze verworven zijn in de periode tussen de aangifte   95 en de inwerkingtreding van het mestdecreet niet onder de toepassing van   hogervermelde ontheffing vallen, behalve in bepaalde gevallen aangeduid door de   Vlaamse regering, waarbij de modaliteiten of middelen nader kunnen worden   gespecificeerd zonder nochtans tot een volledig verbod te kunnen overgaan;<BR>2)   behoudens in toepassing van een goedgekeurd beheersplan conform het bosdecreet   van 13 juni 1990, de vegetatie, de vegetatie, met inbegrip van meerjarige   cultuurgewassen of van kleine landschapselementen te wijzigen;<BR>3) het reliëf   van de bodem te wijzigen;<BR>4) werkzaamheden uit te voeren die rechtstreeks of   onrechtstreeks het grondwaterpeil verlagen, alsook maatregelen die de bestaande   ont- en afwatering versterken;<BR>5) de structuur van de waterlopen te   wijzigen.<BR><BR>Met behoud van de toepassing van artikel 16, artikel 26bis en   artikel 36ter, § 3 tot en met § 6, kunnen samenhangende of periodiek   terugkerende ontheffingsplichtige activiteiten, in één ontheffing worden   toegestaan voor zover de aard, de locatie en de omvang en de frequentie van elk   van die ontheffingsplichtige activiteiten duidelijk omschreven wordt.<BR><BR>De   Vlaamse regering bepaalt na advies van MINA-Raad, de voorwaarden en de   procedure, de termijn en de beroepsprocedure tot het verlenen van ontheffingen   zoals bedoeld in § 3, 2° van dit artikel.<BR><BR>De Vlaamse regering kan   onverminderd de toepassing van artikelen 18 en 19 voor de bestaande vergunde   drinkwaterwinningen en de bijhorende vergunde capaciteit een algemene ontheffing   verlenen op de verbodsbepaling inzake het uitvoeren van werkzaamheden die   rechtstreeks of onrechtstreeks het grondwaterpeil   verlagen.<BR><BR>Overeenkomstig artikel 6.4.4, § 3, van het decreet van 12 juli   2013 betreffende het onroerend erfgoed wordt voor het verlenen van een   ontheffing zoals bedoeld in § 3, 2°, van dit artikel, die betrekking heeft op   een handeling aan of in beschermde goederen zoals bedoeld in dat decreet, advies   gevraagd aan de entiteit die door de Vlaamse Regering is belast met de   beleidsuitvoering inzake onroerend erfgoed.
+§ 1. De administratieve overheid neemt, binnen haar bevoegdheden, de nodige maatregelen om in GEN, bij voorrang ten opzichte van de andere functies in het gebied, en in GENO, rekening houdend met de overige functies in het gebied, de natuur en het natuurlijk milieu te behouden, te herstellen en te ontwikkelen.<br>
+<br>
+Naast de maatregelen vermeld in hoofdstuk IV, afdeling 4 van dit hoofdstuk en hoofdstuk VI en onverminderd hetgeen bepaald wordt in het eerste lid, hebben deze maatregelen betrekking op:<br>
+1° het bevorderen van een natuurgerichte bosbouw en het instellen van bosreservaten, in overeenstemming met de bepalingen van het Bosdecreet;<br>
+2° het behouden, herstellen en/of op natuurelementen met een hoge natuurkwaliteit afstemmen van de waterhuishouding, ondermeer de waterkwaliteit, de waterkwantiteit en de natuurlijke structuur van de waterlopen en hun randzones, zonder dat dit disproportionele gevolgen heeft op de omliggende gebieden;<br>
+3° het beschermen van de insijpelingsgebieden van het grondwater;<br>
+4° het behouden en herstellen van het microreliëf en de structuur van het landschap;<br>
+5° het recreatieve medegebruik;<br>
+6° het agrarisch medegebruik;<br>
+7° het beheer van de natuurwaarden gedurende of na afloop van de economische of andere activiteiten die in het gebied plaatsvinden, rekening houdend met cultuurhistorische en landschappelijke waarden van het gebied.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. In de GEN en de GENO gelden de volgende voorschriften:<br>
+1° het gebruik van meststoffen wordt geregeld overeenkomstig het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen;<br>
+2° behoudens individuele ontheffing, verleend door het Agentschap voor Natuur en Bos of algemene ontheffing, is het verboden:<br>
+1) pesticiden te gebruiken. Dit verbod geldt niet voor de percelen van de landbouwbedrijven waar in het kader van artikel 15, § 5, lid twee en vier, van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen, een ontheffing geldt; noch voor de percelen van landbouwbedrijven die onder de bepalingen van artikel 14 of artikel 15, §§ 1 tot 4 en § 6 van bovengenoemd decreet vallen; noch voor gronden die louter om de reden dat deze verworven zijn in de periode tussen de aangifte 95 en de inwerkingtreding van het mestdecreet niet onder de toepassing van hogervermelde ontheffing vallen, behalve in bepaalde gevallen aangeduid door de Vlaamse regering, waarbij de modaliteiten of middelen nader kunnen worden gespecificeerd zonder nochtans tot een volledig verbod te kunnen overgaan;<br>
+2) behoudens in toepassing van een goedgekeurd beheersplan conform het bosdecreet van 13 juni 1990 of met toepassing van een natuurbeheerplan conform dit decreet, de vegetatie, met inbegrip van meerjarige cultuurgewassen of van kleine landschapselementen te wijzigen;<br>
+3) het reliëf van de bodem te wijzigen;<br>
+4) werkzaamheden uit te voeren die rechtstreeks of onrechtstreeks het grondwaterpeil verlagen, alsook maatregelen die de bestaande ont- en afwatering versterken;<br>
+5) de structuur van de waterlopen te wijzigen.<br>
+<br>
+Met behoud van de toepassing van artikel 16, artikel 26bis en artikel 36ter, § 3 tot en met § 6, kunnen samenhangende of periodiek terugkerende ontheffingsplichtige activiteiten, in één ontheffing worden toegestaan voor zover de aard, de locatie en de omvang en de frequentie van elk van die ontheffingsplichtige activiteiten duidelijk omschreven wordt.<br>
+<br>
+De Vlaamse regering bepaalt na advies van MINA-Raad, de voorwaarden en de procedure, de termijn en de beroepsprocedure tot het verlenen van ontheffingen zoals bedoeld in § 3, 2° van dit artikel.<br>
+<br>
+De Vlaamse regering kan onverminderd de toepassing van artikelen 18 en 19 voor de bestaande vergunde drinkwaterwinningen en de bijhorende vergunde capaciteit een algemene ontheffing verlenen op de verbodsbepaling inzake het uitvoeren van werkzaamheden die rechtstreeks of onrechtstreeks het grondwaterpeil verlagen.
 
 ### ART. 26.
 
@@ -245,23 +711,45 @@ Behoudens in de groengebieden en bosgebieden en de met een van deze gebieden ver
 
 ### ART. 32.
 
-De Vlaamse regering kan terreinen die van belang zijn voor het behoud en ontwikkeling van de natuur of voor het behoud en de ontwikkeling van het natuurlijk milieu, aanwijzen of erkennen als natuurreservaat.<br /><br />In deze natuurreservaten wordt, via een aangepast beheer, een natuurstreefbeeld behouden of ontwikkeld.
+<p>...</p>
 
 ### ART. 33.
 
-Een Vlaams natuurreservaat is een beschermd gebied dat, na advies van de MiNa-Raad, door de Vlaamse regering wordt aangewezen op gronden die het Vlaamse Gewest in eigendom of in huur heeft of die het daartoe ter beschikking worden gesteld.<br /><br />Een erkend natuurreservaat is een beschermd gebied, niet bedoeld onder het eerste lid, dat na advies van de MiNa-Raad door de Vlaamse regering wordt erkend op verzoek van de eigenaar en/of diegene die het gebruiksrecht heeft, mits beider toestemming, of van de beheerder, mits de eigenaar ermee instemt.<br /><br />Voor elk natuurreservaat, kan binnen de groengebieden en bosgebieden en bosuitbreidingsgebieden of het VEN, een uitbreidingszone vastgesteld worden waarbinnen het recht van voorkoop van toepassing is conform artikel 37.
+<p>...</p>
 
 ### ART. 34.
 
-§ 1. Voor elk natuurreservaat ingesteld krachtens dit decreet wordt een   beheersplan opgesteld. Het beheersplan vermeldt de maatregelen en bepalingen   inzake het beheer en de inrichting van het gebied, waarbij voor redenen van   natuurbehoud, of voor redenen van recreatief of educatief medegebruik, en   voorzover dit inpasbaar is in de doelstelling van het natuurreservaat, kan   worden afgeweken van de voorschriften van dit decreet, inzonderheid van artikel   35, § 2 .<BR><BR>Indien het natuurreservaat geheel of gedeeltelijk is gelegen   binnen een speciale beschermingszone moeten in het beheersplan de maatregelen   bedoeld in artikel 36ter, §§ 1 en 2 opgenomen worden. <BR><BR>Als voor een   onroerend goed naast een beheersplan als vermeld in het eerste lid ook een   beheersplan in het kader van het Onroerenderfgoeddecreet van 12 juli 2013 wordt   opgemaakt, worden alle beheersdoelstellingen in één beheersplan geïntegreerd. De   Vlaamse Regering bepaalt daarvoor de nadere regels.<BR><BR>§ 2. Voor elk Vlaams   natuurreservaat wijst de Vlaamse regering de ambtenaar van het Agentschap voor   Natuur en Bos aan die met het beheer ervan belast is. Deze ambtenaar stelt het   beheersplan op, dat aan de regering ter goedkeuring wordt voorgelegd.<BR><BR>§   3. Met betrekking tot een afzonderlijk Vlaams natuurreservaat of voor een groep   van Vlaamse natuurreservaten kan de Vlaamse regering adviescommissies instellen.   Die adviescommissies hebben als taak de ambtenaar, bedoeld in § 2, bij te staan   door het verstrekken van adviezen en het doen van voorstellen inzake het beheer,   het opstellen van een beheersplan alsook het stimuleren van het onderzoek en de   educatie met betrekking tot de natuur in het natuurreservaat of in de groep van   natuurreservaten. <BR>
+...
 
 ### ART. 35.
 
-§ 1. Binnen de natuurreservaten hebben, behoudens bij toepassing van het   tweede of derde lid, de voetgangers steeds toegang tot alle wegen waarvoor de   Vlaamse regering krachtens artikel 13, § 1, 6°, bevoegd is de toegang te   regelen. Zij hebben echter geen toegang tot de paden waarop slechts één   voetganger tegelijkertijd kan passeren, tenzij die paden in het goedgekeurde   beheersplan als toegankelijk zijn aangeduid. Wat de voetgangers betreft, kan dit   beheersplan tevens bepalen dat één of meerdere zones van het natuurreservaat ook   buiten de wegen toegankelijk zijn.<BR><BR>Andere categorieën van weggebruikers   dan de voetgangers kunnen tot de wegen en de paden die krachtens het eerste lid   voor de voetgangers toegankelijk zijn, worden toegelaten voor zover het   goedgekeurde beheersplan dit uitdrukkelijk toelaat of voor zover dit medegebruik   toegelaten wordt in uitvoering van artikel 13, § 1, 6°. <BR><BR>Het goedgekeurde   beheersplan van een natuurreservaat kan bepalen dat het reservaat geheel of   gedeeltelijk en bestendig, tijdelijk of periodiek ontoegankelijk is, de in het   eerste lid bedoelde wegen en paden inbegrepen. Deze ontoegankelijkheid dient op   een duidelijk zichtbare wijze te worden aangeduid langs de belangrijkste   toegangswegen tot het reservaat of reservaatgedeelte dat ontoegankelijk wordt   gesteld. De Vlaamse regering legt de vorm en de wijze vast waarop die aanduiding   moet gebeuren.<BR><BR>De ambtenaar bedoeld in artikel 34, § 2, kan ten allen   tijde, zo mogelijk in overleg met de bevoegde adviescommissie bedoeld in artikel   34, § 3, beslissen dat het Vlaamse natuurreservaat met het beheer waarvan hij   belast is, voor een welbepaalde duur geheel of gedeeltelijk ontoegankelijk is,   de in het eerste lid bedoelde wegen en paden inbegrepen, omwille van het   brandgevaar, de bescherming van de fauna tijdens het voortplantingsseizoen of   wegens het bestaan van ernstige bedreigingen voor de te beschermen planten- of   diersoorten. De beheerder van een erkend reservaat heeft dezelfde bevoegdheid   voor zijn reservaat, maar zijn beslissing behoeft wel de goedkeuring van het   Agentschap voor Natuur en Bos. Wat betreft de vorm en de wijze van het aanduiden   van de in dit lid bedoelde ontoegankelijkheid, gelden de bepalingen van het   vorige lid.<BR><BR>§ 2. Binnen de natuurreservaten is het verboden, behoudens   ontheffing in het goedgekeurd beheersplan:<BR>1° individuele of groepssporten te   beoefenen;<BR>2° gemotoriseerde voertuigen te gebruiken of achter te laten   tenzij die nodig zijn voor het beheer en de bewaking van het reservaat of voor   de hulp aan personen in nood;<BR>3° keten, loodsen, tenten of andere   constructies te plaatsen, zelfs tijdelijk;<BR>4° de rust te verstoren of reclame   te maken op welke wijze ook;<BR>5° in het wild levende diersoorten opzettelijk   te verstoren, vooral tijdens de perioden van voortplanting, afhankelijkheid van   de jongen of overwintering en trek; ze opzettelijk te vangen of te doden; hun   eieren opzettelijk te rapen of te vernielen of hun nesten,   voortplantingsplaatsen of rust- en schuilplaatsen te vernielen of te   beschadigen;<BR>6° planten opzettelijk te plukken, te verzamelen, af te snijden,   te ontwortelen of te vernielen of planten of vegetatie op welke wijze ook te   beschadigen of te vernietigen;<BR>7° opgravingen, boringen, grondwerkzaamheden   of exploitatie van materialen te verrichten, welk werk ook uit te voeren dat de   aard van de grond, het uitzicht van het terrein, de bronnen en het hydrografisch   net zou kunnen wijzigen, boven- of ondergrondse leidingen te leggen en   reclameborden en aanplakbrieven te plaatsen;<BR>8° vuur te maken en afval te   storten;<BR>9° pesticiden te gebruiken;<BR>10° meststoffen te gebruiken, met   uitzondering van de natuurlijke uitscheiding als gevolg van extensieve   begrazing;<BR>11° het waterpeil te wijzigen en op kunstmatige wijze water te   lozen;<BR>12° het terrein op geringe hoogte te overvliegen of er te landen met   vliegtuigen, helikopters, luchtballons en andere luchtvaartuigen van om het even   welke aard.<BR><BR>Deze maatregelen kunnen evenwel geen erfdienstbaarheden   opleggen op de omliggende gebieden.<BR><BR>De Vlaamse regering kan om redenen   van natuurbehoud bijkomende algemene maatregelen treffen voor   natuurreservaten.<BR><BR>De Vlaamse regering of haar gemachtigde kan in het   belang van het natuurbehoud, de volksgezondheid of het wetenschappelijk   onderzoek, ter voorkoming van disproportionele schade ontheffing verlenen van de   in dit artikel bedoelde verbodsbepalingen. <BR><BR>De Vlaamse Regering kan   bepalen dat het Agentschap ontheffing kan verlenen van de in deze paragraaf   opgesomde verbodsbepalingen, met het oog op het recreatief of educatief   medegebruik en voor zover dit medegebruik inpasbaar is in de doelstellingen van   het natuurreservaat.<BR><BR>Overeenkomstig artikel 6.4.4, § 3, van het decreet   van 12 juli 2013 betreffende het onroerend erfgoed wordt voor het verlenen van   een ontheffing zoals vermeld in het vierde en het vijfde lid van paragraaf 2 van   dit artikel, die betrekking heeft op een handeling aan of in beschermde goederen   zoals bedoeld in dat decreet, advies gevraagd aan de entiteit die door de   Vlaamse Regering is belast met de beleidsuitvoering inzake onroerend erfgoed.
+§ 1. ...<br>
+<br>
+§ 2. Binnen de natuurreservaten, vermeld in artikel 16ter decies,&nbsp; is het verboden, behoudens ontheffing in een overeenkomstig dit decreet goedgekeurd beheerplan:<br>
+1° individuele of groepssporten te beoefenen;<br>
+2° gemotoriseerde voertuigen te gebruiken of achter te laten tenzij die nodig zijn voor het beheer en de bewaking van het reservaat of voor de hulp aan personen in nood;<br>
+3° keten, loodsen, tenten of andere constructies te plaatsen, zelfs tijdelijk;<br>
+4° de rust te verstoren of reclame te maken op welke wijze ook;<br>
+5° in het wild levende diersoorten opzettelijk te verstoren, vooral tijdens de perioden van voortplanting, afhankelijkheid van de jongen of overwintering en trek; ze opzettelijk te vangen of te doden; hun eieren opzettelijk te rapen of te vernielen of hun nesten, voortplantingsplaatsen of rust- en schuilplaatsen te vernielen of te beschadigen;<br>
+6° planten opzettelijk te plukken, te verzamelen, af te snijden, te ontwortelen of te vernielen of planten of vegetatie op welke wijze ook te beschadigen of te vernietigen;<br>
+7° opgravingen, boringen, grondwerkzaamheden of exploitatie van materialen te verrichten, welk werk ook uit te voeren dat de aard van de grond, het uitzicht van het terrein, de bronnen en het hydrografisch net zou kunnen wijzigen, boven- of ondergrondse leidingen te leggen en reclameborden en aanplakbrieven te plaatsen;<br>
+8° vuur te maken en afval te storten;<br>
+9° pesticiden te gebruiken;<br>
+10° meststoffen te gebruiken, met uitzondering van de natuurlijke uitscheiding als gevolg van extensieve begrazing;<br>
+11° het waterpeil te wijzigen en op kunstmatige wijze water te lozen;<br>
+12° het terrein op geringe hoogte te overvliegen of er te landen met vliegtuigen, helikopters, luchtballons en andere luchtvaartuigen van om het even welke aard.<br>
+<br>
+Deze maatregelen kunnen evenwel geen erfdienstbaarheden opleggen op de omliggende gebieden.<br>
+<br>
+De Vlaamse regering kan om redenen van natuurbehoud bijkomende algemene maatregelen treffen voor natuurreservaten.<br>
+<br>
+De Vlaamse regering of haar gemachtigde kan in het belang van het natuurbehoud, de volksgezondheid of het wetenschappelijk onderzoek, ter voorkoming van disproportionele schade ontheffing verlenen van de in dit artikel bedoelde verbodsbepalingen.<br>
+<br>
+De Vlaamse Regering kan bepalen dat het Agentschap ontheffing kan verlenen van de in deze paragraaf opgesomde verbodsbepalingen, met het oog op het recreatief of educatief medegebruik en voor zover dit medegebruik inpasbaar is in de doelstellingen van het natuurreservaat.
 
 ### ART. 36.
 
-§ 1. De Vlaamse regering stelt de voorwaarden vast waaronder de terreinen   van private personen of van rechtpersonen andere dan het Vlaamse Gewest of de   Staat erkend kunnen worden als natuurreservaat.<BR><BR>§ 2. In de agrarische   gebieden en de landschappelijk waardevolle agrarische gebieden gelegen buiten de   gebieden afgebakend in uitvoering van internationale overeenkomsten of verdragen   betreffende het natuurbehoud of van akten betreffende het natuurbehoud, met   inbegrip van Europese richtlijnen, vastgesteld op grond van internationale   verdragen, kunnen natuurreservaten erkend worden als ze aan de volgende criteria   voldoen: <BR>1° ofwel zijn het gronden die een actuele hoge natuurwaarde hebben   en weinig geschikt zijn voor normaal landbouwgebruik in de betrokken   landbouwstreek en waarvan de erkenning de agrarische structuur niet   aantast;<BR>2° ofwel zijn het gebieden met een hoge actuele of potentiële   natuurwaarde en lage landbouwwaarde die in het kader van een goedgekeurd   ruilverkavelingsplan of een goedgekeurd landinrichtingsproject hiertoe zijn   aangewezen en waarvan de erkenning de agrarische structuur niet   aantast.<BR><BR>§ 3. In de valleigebieden, de brongebieden, de agrarische   gebieden met ecologisch belang of agrarische gebieden met bijzondere waarde   buiten het VEN en buiten de gebieden afgebakend in uitvoering van internationale   overeenkomsten of verdragen betreffende het natuurbehoud of van akten   betreffende het natuurbehoud, met inbegrip van Europese richtlijnen, vastgesteld   op grond van internationale verdragen, kan de Vlaamse regering specifieke   criteria voor erkenning vaststellen. <BR><BR>§ 4. In afwijking van § 2 komen   alle bij de inwerkingtreding van dit decreet erkende natuurreservaten en erkende   natuurreservaten op terreinen die met een aankoopsubsidie van het Vlaamse Gewest   werden aangekocht, in aanmerking voor verlenging, ongeacht de criteria van §   2.<BR><BR>§ 5. De erkenning van een reservaat is geldig voor een periode van 27   jaar.<BR><BR>Bij elke vervaldag van de erkenning kan zij voor een periode van 27   jaar worden hernieuwd.<BR><BR>§ 6. De Vlaamse regering kan jaarlijks, binnen de   perken van de begroting, subsidies verlenen voor de huur, de beheerskosten en   het toezicht in een erkend reservaat.<BR><BR>§ 7. De Vlaamse regering stelt   nadere regels vast voor de aanvraag, de hernieuwing, de uitbreiding en de   intrekking van de erkenning, alsook voor het toekennen van de   subsidies.
+<p>...</p>
 
 ## [AFDELING 3BIS DE SPECIALE BESCHERMINGSZONES (ing. decr. 19 juli 2002, art. 24)]
 
@@ -271,7 +759,11 @@ Een Vlaams natuurreservaat is een beschermd gebied dat, na advies van de MiNa-Ra
 
 ### ART. 36ter.
 
-§ 1. De administratieve overheid neemt, binnen haar bevoegdheden, in de speciale beschermingszones, ongeacht de bestemming van het betrokken gebied, de nodige instandhoudingsmaatregelen die steeds dienen te beantwoorden aan de ecologische vereisten van de typen habitats vermeld in bijlage I van dit decreet en de soorten vermeld in de bijlagen II, III en IV van dit decreet evenals de niet in bijlage IV van dit decreet genoemde en op het grondgebied van het Vlaamse Gewest geregeld voorkomende soorten trekvogels. De Vlaamse Regering kan nadere regels vaststellen met betrekking tot de nodige instandhoudingmaatregelen en de ecologische vereisten, evenals een procedure voor vaststelling van de instandhoudingsdoelstellingen.<br>
+§ 1. De administratieve overheid binnen de haar door de Vlaamse Regering opgelegde taken, en de natuurlijke personen of rechtspersonen die zakelijke rechten of persoonlijke rechten verwerven op gronden met financiële tussenkomst van een administratieve overheid in uitvoering van dit decreet en waarvoor ze over een goedgekeurd natuurbeheerplan type drie of type vier beschikken, nemen, in de speciale beschermingszones, ongeacht de bestemming van het betrokken gebied, de nodige instandhoudingsmaatregelen die steeds dienen te beantwoorden aan de ecologische vereisten van de typen habitats vermeld in bijlage I van dit decreet en de soorten vermeld in de bijlagen II, III en IV van dit decreet evenals de niet in bijlage IV van dit decreet genoemde en op het grondgebied van het Vlaamse Gewest geregeld voorkomende soorten trekvogels. De Vlaamse Regering kan nadere regels vaststellen met betrekking tot de nodige instandhoudingmaatregelen en de ecologische vereisten, evenals een procedure voor vaststelling van de instandhoudingsdoelstellingen.<br>
+<br>
+De conform het eerste lid vastgestelde instandhoudingsdoelstellingen zijn voor een administratieve overheid bindend bij:<br>
+1° het nemen van beslissingen ter uitvoering van het eerste lid en paragraaf 2 van dit artikel;<br>
+2° het nemen van beslissingen of het verlenen van advies ter uitvoering van paragraaf 3 tot en met 6.<br>
 <br>
 § 2. De administratieve overheid neemt, binnen haar bevoegdheden, ongeacht de bestemming van het betrokken gebied, tevens alle nodige maatregelen om<br>
 a) elke verslechtering van de natuurkwaliteit en het natuurlijk milieu van de habitats van bijlage I van dit decreet en van de habitats van de soorten vermeld in de bijlagen II, III en IV van dit decreet evenals de niet in bijlage IV van dit decreet genoemde en op het grondgebied van het Vlaamse Gewest geregeld voorkomende soorten trekvogels in een speciale beschermingszone te vermijden;<br>
@@ -279,7 +771,7 @@ b) elke betekenisvolle verstoring van een soort vermeld in de bijlagen II, III o
 <br>
 De Vlaamse regering stelt hiervoor nadere regels vast.<br>
 <br>
-§ 3. Een vergunningsplichtige activiteit die, of een plan of programma dat, afzonderlijk of in combinatie met één of meerdere bestaande of voorgestelde activiteiten, plannen of programma's, een betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone kan veroorzaken,&nbsp;zonder dat die vergunningsplichtige activiteit of dat plan of programma direct verband houdt met of nodig is voor het beheer van een gebied in de speciale beschermingszone in kwestie dient onderworpen te worden aan een passende beoordeling wat betreft de betekenisvolle effecten voor de speciale beschermingszone.<br>
+§ 3. Een vergunningsplichtige activiteit die, of een plan of programma dat, afzonderlijk of in combinatie met één of meerdere bestaande of voorgestelde activiteiten, plannen of programma's, een betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone kan veroorzaken, zonder dat die vergunningsplichtige activiteit of dat plan of programma direct verband houdt met of nodig is voor het beheer van een gebied in de speciale beschermingszone in kwestie dient onderworpen te worden aan een passende beoordeling wat betreft de betekenisvolle effecten voor de speciale beschermingszone.<br>
 <br>
 De verplichting tot het uitvoeren van een passende beoordeling geldt ook indien wegens het verstrijken van de lopende vergunning van de vergunningsplichtige activiteit een nieuwe vergunning moet worden aangevraagd.<br>
 <br>
@@ -362,7 +854,7 @@ De eigenaar van een onroerend goed kan van de Vlaamse Grondenbank de   verwervin
 
 ### ART. 44.
 
-§ 1. Het Vlaamse Gewest kan de aankoop van gebieden met het oog op de oprichting van erkende reservaten, conform artikel 36, § 1, door erkende terreinbeherende natuurverenigingen subsidiëren, binnen de beperkingen van de begroting.<br /><br />§ 2. Deze onroerende goederen kunnen slechts vervreemd worden mits instemming van en onder de voorwaarden bepaald door de Vlaamse regering.<br /><br />De subsidiëring van de aankoop van de gronden gelegen in agrarische gebieden buiten het VEN is enkel mogelijk voor gebieden die voldoen aan de criteria van artikel 36, § 2 of § 3. De subsidiëring is substantieel lager dan voor gebieden gelegen in VEN en groengebieden en bosgebieden. Deze subsidiëring wordt tevens in omvang beperkt.<br /><br />Deze gebieden kunnen alleen na akkoord van de eigenaar aangekocht worden.<br /><br />§ 3. De Vlaamse regering stelt de nadere regels vast voor de erkenning van terreinbeherende natuurverenigingen en voor het toekennen van de subsidies.
+<p>...</p>
 
 ## ONDERAFDELING B VRIJWILLIGE BEHEERSOVEREENKOMSTEN
 
@@ -726,7 +1218,7 @@ Voor dit decreet en haar uitvoeringsbesluiten gebeurt het uitoefenen van toezich
 
 ### ART. 72.
 
-§ 1. (niet opgenomen)<br /><br />(Wijzigt artikel 16 van het decreet van 16 april 1996 houdende bescherming van landschappen)<br /><br />§ 2. In afwijking van artikel 16 van hetzelfde decreet wordt voor de landschappen gelegen in natuurreservaten zoals bedoeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, één enkel beheersplan per natuurreservaat opgemaakt, de administratie bevoegd voor landschappen gehoord, overeenkomstig het decreet van 21 oktober 1997. De ambtenaar van het bestuur bevoegd voor het natuurbehoud vraagt het advies van de administratie bevoegd voor landschappen. Indien dit advies niet binnen een termijn van [zestig dagen  <span class="reference">(verv. decr. 19 juli 2002, art. 41, I: 10 september 2002)</span> ] wordt uitgebracht, wordt het geacht gunstig te zijn.
+<p>...</p>
 
 ### ART. 73.
 
