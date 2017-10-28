@@ -16,11 +16,47 @@ Dit decreet heeft tot doel het behoud, de bescherming, [het beheer, het herstel 
 
 ### ART. 4.
 
-In de zin van dit decreet wordt verstaan onder:<BR><BR>1° aangestelde :   elk personeelslid van het Agentschap voor Natuur en Bos met een technische,   administratieve of bewakingsopdracht;<BR><BR>1bis. administratieve overheden:   het Vlaamse Gewest, de openbare instellingen die ervan afhangen, de   publiekrechtelijke en privaatrechtelijke instellingen die belast zijn met taken   van openbaar nut en de andere besturen die onderworpen zijn aan het   administratief toezicht van het Vlaamse Gewest; <BR><BR>1°ter Agentschap : het   Agentschap voor Natuur en Bos;<BR><BR>2° ambtenaar : elk personeelslid van het   Agentschap voor Natuur en Bos behorende tot het niveau A. <BR><BR>2bis.   autochtone boom- of struiksoort: boom- of struiksoort die, sinds zijn spontane   vestiging na de laatste ijstijd, zich ter plaatse altijd slechts natuurlijk   heeft verjongd of kunstmatig verjongd is met strikt lokaal uitgangsmateriaal;   <BR><BR>3. bebossing : bezetting met bomen of houtachtige struikvegetaties, door   menselijke ingreep of spontaan, van een oppervlakte die daardoor onder het   toepassingsgebied van dit decreet komt te vallen;<BR><BR>4. beheersplan:   document met het geheel van maatregelen om de functievervulling van een bos te   verwezenlijken, uitgaande van de bestaande toestand, de vooruitzichten en de   nagestreefde doelstellingen;<BR><BR>5. bestand: het kleinste onderdeel van het   bos waarop een afzonderlijk aangepast beheer wordt toegepast;<BR><BR>5bis.   bijzondere wachter: wachter aangesteld door bijzondere personen en gelijkgesteld   met de veldwachters zoals bedoeld in artikel 61 van het Veldwetboek; <BR><BR>6.   ...<BR><BR>6bis. bosbeheerders: de boseigenaar of mede-eigenaar, de houder van   andere zakelijk rechten of de houder van een persoonlijk recht aan wie het   beheer van het bos toekomt; <BR><BR>7. ... <BR><BR>8° bosgroep: een bosgroep   zoals vermeld in artikel 54bis van decreet Natuurbehoud<BR><BR>9. bosweg: alle   wegen of gedeelten van wegen gelegen in het bos, met uitzondering van de   openbare wegen die ingericht zijn voor het gewone, gemotoriseerde verkeer en die   in hoofdzaak bestemd zijn als doorgangsweg. Paden waarop slechts één voetganger   tegelijkertijd kan passeren worden niet als boswegen beschouwd, tenzij ze deel   uitmaken van het toegankelijke wegennet opgenomen in het beheersplan of in het   toegankelijkheidsreglement zoals bepaald in artikel 12 van dit decreet;   <BR><BR>9bis het Decreet Natuurbehoud: het decreet van 21 oktober 1997 inzake   het natuurbehoud en het natuurlijk milieu; <BR><BR>10. domeinbos: openbaar bos   waarvan het volledige beheer werd toevertrouwd aan het Agentschap;<BR><BR>11.   herbebossing : bezetting met bomen of houtachtige struikvegetaties, door   menselijke ingreep of spontaan, van een oppervlakte die reeds onder de   toepassing van dit decreet viel; <BR><BR>11bis. inheemse boom- of struiksoort:   boom- of struiksoort, die van nature voorkomt in een bepaalde streek of regio;   <BR><BR>12. kaalslag: het kappen van het bosbestand zonder aan de grond een   ander gebruik te geven; <BR><BR>13. ... <BR><BR>14. ... <BR><BR>14bis. kavel:   een bestand, deel van een bestand of een groep bestanden waarin de bomen al dan   niet geveld en/of andere bosproducten dan hout te koop worden   aangeboden;<BR><BR>14bis1. Korte-omloop-houtteelt : teelt van snelgroeiende   houtachtige gewassen waarbij de bovengrondse biomassa periodiek tot maximaal 8   jaar na de aanplanting of na de vorige oogst, in zijn totaliteit wordt   geoogst;<BR><BR>14ter. lot: vastgelegde en gemerkte hoeveelheid te vellen of   gevelde bomen in één of meerdere kavels, of opgestapeld in het bos, die   gezamenlijk te koop worden aangeboden;<BR><BR>14quater. natuurvereniging:   erkende terreinbeherende vereniging, zoals bedoeld in artikel 2, 16° van het   decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk   milieu; <BR><BR>15. ontbossen: iedere handeling waardoor een bos geheel of   gedeeltelijk verdwijnt en aan de grond een andere bestemming of gebruik wordt   gegeven; <BR><BR>16. openbaar bos: elk bos waarvan een publiekrechtelijk   rechtspersoon eigenaar of medeëigenaar is;<BR><BR>16bis. pesticiden :<BR>1° een   gewasbeschermingsmiddel zoals omschreven in verordening (EG) nr. 1107/2009 van   het Europees Parlement en de Raad van 21 oktober 2009 betreffende het op de   markt brengen van gewasbeschermingsmiddelen en tot intrekking van de richtlijnen   79/117/EEG en 91/414/EEG van de Raad;<BR>2° een biocide zoals omschreven in   richtlijn 98/8/EG van het Europees Parlement en de Raad van 16 februari 1998   betreffende het op de markt brengen van biociden, waarin biociden gedefinieerd   worden als werkzame stoffen en preparaten die, in de vorm waarin ze aan de   gebruiker worden geleverd, een of meer werkzame stoffen bevatten en bestemd zijn   om een schadelijk organisme te vernietigen, af te schrikken, onschadelijk te   maken, de effecten daarvan te voorkomen of het op een andere wijze langs   chemische of biologische weg te bestrijden; <BR><BR>17. privé-bos: elk bos   waarvan uitsluitend natuurlijke personen of privaatrechtelijke rechtspersonen   eigenaar zijn;<BR><BR>18. ... <BR><BR>19. MiNa-Raad : de Milieu- en Natuurraad   van Vlaanderen zoals opgericht bij artikel 11.1.2 van het decreet van 5 april   1995 houdende algemene bepalingen inzake milieubeleid<BR><BR>20. rooiing: het   verwijderen van bomen en houtachtige gewassen, met inbegrip van hun   wortelstelsel.<BR><BR>21. vertegenwoordiger van de bosgroep: afgevaardigde   aangewezen door de Raad van Bestuur van de bosgroep;<BR><BR>22. voetganger: met   de gewone voetganger wordt gelijkgesteld, de rolstoelgebruikers en de fietsers   jonger dan 9 jaar.
+In de zin van dit decreet wordt verstaan onder:<br>
+1° aangestelde : elk personeelslid van het Agentschap voor Natuur en Bos met een technische, administratieve of bewakingsopdracht;<br>
+1bis. administratieve overheden: het Vlaamse Gewest, de openbare instellingen die ervan afhangen, de publiekrechtelijke en privaatrechtelijke instellingen die belast zijn met taken van openbaar nut en de andere besturen die onderworpen zijn aan het administratief toezicht van het Vlaamse Gewest;<br>
+1°ter Agentschap : het Agentschap voor Natuur en Bos;<br>
+2° ambtenaar : elk personeelslid van het Agentschap voor Natuur en Bos behorende tot het niveau A.<br>
+2bis. autochtone boom- of struiksoort: boom- of struiksoort die, sinds zijn spontane vestiging na de laatste ijstijd, zich ter plaatse altijd slechts natuurlijk heeft verjongd of kunstmatig verjongd is met strikt lokaal uitgangsmateriaal;<br>
+3. bebossing : bezetting met bomen of houtachtige struikvegetaties, door menselijke ingreep of spontaan, van een oppervlakte die daardoor onder het toepassingsgebied van dit decreet komt te vallen;<br>
+4. beheersplan: document met het geheel van maatregelen om de functievervulling van een bos te verwezenlijken, uitgaande van de bestaande toestand, de vooruitzichten en de nagestreefde doelstellingen en dat is vastgesteld met toepassing van dit decreet of met toepassing van artikel 16octies, § 2, van het decreet Natuurbehoud;<br>
+5. bestand: het kleinste onderdeel van het bos waarop een afzonderlijk aangepast beheer wordt toegepast;<br>
+5bis. bijzondere wachter: wachter aangesteld door bijzondere personen en gelijkgesteld met de veldwachters zoals bedoeld in artikel 61 van het Veldwetboek;<br>
+6. ...<br>
+6bis. bosbeheerders: de boseigenaar of mede-eigenaar, de houder van andere zakelijk rechten of de houder van een persoonlijk recht aan wie het beheer van het bos toekomt;<br>
+7. ...<br>
+8° bosgroep: een bosgroep zoals vermeld in artikel 54bis van decreet Natuurbehoud<br>
+9. ...<br>
+9bis het Decreet Natuurbehoud: het decreet van 21 oktober 1997 inzake het natuurbehoud en het natuurlijk milieu;<br>
+10. domeinbos: openbaar bos waarvan het volledige beheer werd toevertrouwd aan het Agentschap;<br>
+11. herbebossing : bezetting met bomen of houtachtige struikvegetaties, door menselijke ingreep of spontaan, van een oppervlakte die reeds onder de toepassing van dit decreet viel;<br>
+11bis. inheemse boom- of struiksoort: boom- of struiksoort, die van nature voorkomt in een bepaalde streek of regio;<br>
+12. kaalslag: het kappen van het bosbestand zonder aan de grond een ander gebruik te geven;<br>
+13. ...<br>
+14. ...<br>
+14bis. kavel: een bestand, deel van een bestand of een groep bestanden waarin de bomen al dan niet geveld en/of andere bosproducten dan hout te koop worden aangeboden;<br>
+14bis1. Korte-omloop-houtteelt : teelt van snelgroeiende houtachtige gewassen waarbij de bovengrondse biomassa periodiek tot maximaal 8 jaar na de aanplanting of na de vorige oogst, in zijn totaliteit wordt geoogst;<br>
+14ter. lot: vastgelegde en gemerkte hoeveelheid te vellen of gevelde bomen in één of meerdere kavels, of opgestapeld in het bos, die gezamenlijk te koop worden aangeboden;<br>
+14quater. natuurvereniging: erkende terreinbeherende vereniging, zoals bedoeld in artikel 2, 16° van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+15. ontbossen: iedere handeling waardoor een bos geheel of gedeeltelijk verdwijnt en aan de grond een andere bestemming of gebruik wordt gegeven;<br>
+16. openbaar bos: elk bos waarvan een publiekrechtelijk rechtspersoon eigenaar of medeëigenaar is;<br>
+16bis. pesticiden :<br>
+1° een gewasbeschermingsmiddel zoals omschreven in verordening (EG) nr. 1107/2009 van het Europees Parlement en de Raad van 21 oktober 2009 betreffende het op de markt brengen van gewasbeschermingsmiddelen en tot intrekking van de richtlijnen 79/117/EEG en 91/414/EEG van de Raad;<br>
+2° een biocide zoals omschreven in richtlijn 98/8/EG van het Europees Parlement en de Raad van 16 februari 1998 betreffende het op de markt brengen van biociden, waarin biociden gedefinieerd worden als werkzame stoffen en preparaten die, in de vorm waarin ze aan de gebruiker worden geleverd, een of meer werkzame stoffen bevatten en bestemd zijn om een schadelijk organisme te vernietigen, af te schrikken, onschadelijk te maken, de effecten daarvan te voorkomen of het op een andere wijze langs chemische of biologische weg te bestrijden;<br>
+17. privé-bos: elk bos waarvan uitsluitend natuurlijke personen of privaatrechtelijke rechtspersonen eigenaar zijn;<br>
+18. ...<br>
+19. MiNa-Raad : de Milieu- en Natuurraad van Vlaanderen zoals opgericht bij artikel 11.1.2 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid<br>
+20. rooiing: het verwijderen van bomen en houtachtige gewassen, met inbegrip van hun wortelstelsel.<br>
+21. vertegenwoordiger van de bosgroep: afgevaardigde aangewezen door de Raad van Bestuur van de bosgroep;<br>
+22. ...
 
 ### ART. 4bis.
 
-§ 1. De Vlaamse regering kan, in afwijking van de bepalingen van artikel 3, § 3, 2., parken aanwijzen of erkennen, waardoor die onder de voorwaarden van dit decreet vallen. Parken in eigendom van of gehuurd door de Vlaamse Gemeenschap of het Vlaamse Gewest kunnen aangewezen worden. Zij worden aangewezen parken genoemd en beheerd door het Agentschap. Parken in eigendom van privé-eigenaars of openbare eigenaars andere dan de Vlaamse Gemeenschap of het Vlaamse Gewest kunnen, op voordracht van de eigenaars, erkend worden. Zij worden erkende parken genoemd. De Vlaamse regering bepaalt de criteria voor de erkenning en aanwijzing van parken.<br /><br />§ 2. In dit artikel wordt verstaan onder:<br /><br />1. park: een groene ruimte waar bij de aanleg, de inrichting en het beheer sociaalrecreatieve en/of esthetische overwegingen overheersen en waar gelijktijdig verschillende andere functies kunnen worden vervuld, zoals recreatieve, educatieve, economische, cultuurhistorische, landschappelijke, wetenschappelijke, ecologische, organismebeschermende, en milieubeschermende functies. Zij bestaan naast uit open gedeelten waaronder waterpartijen, grasvelden, bloemperken, wandelwegen en andere infrastructuren, uit een afwisseling van bosgedeelten en/of gedeelten begroeid met bomen, heesters en kruidachtige gewassen;<br /><br />2. ...<br /><br />§ 3. In afwijking van § 1 kan de Vlaamse regering voor aangewezen en erkende parken bij algemeen besluit afwijkingen toestaan op de bepalingen van dit decreet.<br /><br />§ 4. Individuele afwijkingen, andere dan die vermeld in § 3, zijn slechts toegestaan mits zij uitdrukkelijk zijn opgenomen in een goedgekeurd beheersplan.<br /><br />§ 5. De Vlaamse regering kan, onder de voorwaarden door haar te bepalen:<br /><br />1. subsidies verlenen aan provincies, gemeenten, andere openbare besturen en aan privé-eigenaars met het oog op de erkenning van de parken in eigendom;<br /><br />2. subsidies verlenen aan provincies, gemeenten en andere openbare besturen voor het verwerven van parken en gronden bestemd voor de inrichting van parken met het oog op erkenning. De subsidiëring met betrekking tot het verwerven van gronden bestemd voor de inrichting van nieuwe parken met het oog op erkenning kan enkel wanneer die gronden gelegen zijn in zones met bestemming groengebied, parkgebied, buffergebied, bosgebied en volrood gekleurd woongebied volgens de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br /><br />3. subsidies verlenen aan provincies, gemeenten en andere openbare besturen voor de inrichting van parken met het oog op erkenning of voor de herinrichting van erkende parken.
+<p>...</p>
 
 ## HOOFDSTUK II DE BOSFUNCTIES
 
@@ -44,7 +80,7 @@ Om beter te voldoen aan de aan het bos toebedeelde functies kan de Vlaamse reger
 
 ### ART. 8.
 
-De economische functie van het bos bestaat in de voortbrenging van hout en van bosprodukten andere dan hout, waarvan de winning het voortbestaan van het bos niet bedreigt.<br /><br />De maatregelen tot verhoging van de materiële opbrengst mogen de andere functies die het bos dient te vervullen, niet verhinderen. Het bos dient te worden beschouwd en behandeld als een hernieuwbare natuurlijke hulpbron, die belangrijke grondstoffen levert.
+<p>Een bos heeft een economische functie als vermeld in artikel 12quinquies van het decreet Natuurbehoud.</p>
 
 ### ART. 9.
 
@@ -54,19 +90,19 @@ De economische functie van het bos bestaat in de voortbrenging van hout en van b
 
 ### ART. 10.
 
-§ 1. De sociale en educatieve functie van het bos bestaat onder meer in de toegankelijkheid van het bos voor het publiek met het oog op de recreatie of vorming.<br /><br />§ 2. Behoudens in de gevallen vermeld in het volgende lid, zijn alle bossen voor het publiek, aangeduid in § 3 van dit artikel, steeds toegankelijk. Zij zijn evenwel enkel toegankelijk op de boswegen. De Vlaamse regering kan echter, voor zover dit het voortbestaan van het bos niet bedreigt en de vervulling van de andere bosfuncties niet verhindert, bij besluit toestaan dat voor bepaalde activiteiten de boswegen worden verlaten. De Vlaamse regering kan de uitoefening van deze activiteiten afhankelijk stellen van het verkrijgen van een machtiging van het Agentschap.<br /><br />Bossen kunnen voor bepaalde of onbepaalde duur, geheel of gedeeltelijk ontoegankelijk worden. Het ontoegankelijk stellen van openbare bossen is slechts toegestaan na een machtiging van het Agentschap.<br /><br />De eventuele ontoegankelijkheid van een bos of een gedeelte van een bos dient langs de boswegen te worden aangeduid op een duidelijk zichtbare wijze. De Vlaamse regering legt de vorm en de wijze vast waarop die aanduiding moet gebeuren. De eventuele ontoegankelijkheid van een bos of een gedeelte van een bos kan niet wettig in een andere vorm of op een andere wijze worden aangeduid.<br /><br />§ 3. De voetgangers hebben steeds toegang tot alle bossen die voor het publiek toegankelijk zijn overeenkomstig § 2 van dit artikel.<br /><br />De Vlaamse regering kan bij besluit, zonder afbreuk te doen aan de bepaling van artikel 14, op de boswegen andere categorieën van weggebruikers toelaten voor zover die het voortbestaan van het bos niet bedreigen en de vervulling van de andere bosfuncties niet verhinderen.<br /><br />De Vlaamse regering regelt bij besluit de toegang tot de boswegen van alle in beide voorgaande leden bedoelde categorieën van weggebruikers. De toegang tot de boswegen kan slechts wettig worden aangeduid in de vorm en op de wijze zoals bepaald door de Vlaamse regering.
+<p>Een bos heeft een sociale en educatieve functie als vermeld in artikel 12sexies van het decreet Natuurbehoud.</p>
 
 ### ART. 11.
 
-Het openstellen van het bos mag niet leiden tot enige vermindering van de oppervlakte die effectief met bosbegroeiing bezet is, tenzij de grond wordt gebruikt voor de infrastructuren, andere dan gebouwen, die absoluut vereist zijn om de bezoekers op te vangen.
+<p>...</p>
 
 ### ART. 12.
 
-§ 1. ... <br /><br />§ 2. ...<br /><br />§ 3. ...<br /><br />§ 4. De toegankelijkheid van een bos wordt geregeld door een toegankelijkheidsregeling die niet strijdig is met de inhoud van het beheersplan of met de bepalingen van dit decreet. Als de toegankelijkheid beperkt blijft tot het verlenen van toegang voor voetgangers op de boswegen overeenkomstig artikel 10, § 2 en § 3, vervalt de verplichting tot opmaak van een toegankelijkheidsregeling. De Vlaamse Regering bepaalt door wie een toegankelijkheidsregeling kan worden opgesteld, evenals de inhoud en de procedure voor de goedkeuring van deze toegankelijkheidsregeling.
+<p>De toegankelijkheid van een bos wordt geregeld met toepassing van artikel 12septies, 12octies en 12novies van het decreet Natuurbehoud.</p>
 
 ### ART. 13.
 
-Om de openstelling van de bossen en de educatie van het publiek te bevorderen en de bosrecreatie te verbeteren, kan de Vlaamse Regering onder de voorwaarden die ze zelf bepaalt, subsidies verlenen aan bosbeheerders. Voor openbare besturen en openbare instellingen kunnen deze subsidies betrekking hebben op de aankoop en de huur van bossen of gronden voor bosaanleg, op bosaanleg door aanplanting, door bezaaiing of op spontane wijze, op het onderhoud van bossen en op de aanleg en het onderhoud van de bosinfrastructuur. Voor natuurlijke personen of privaatrechtelijke rechtspersonen kunnen de subsidies betrekking hebben op het onderhoud en de aanleg van de infrastructuur van bossen die voor het publiek toegankelijk zijn. <br /><br />Indien de aan de subsidie verbonden voorwaarden niet worden nageleefd, wordt de subsidie teruggevorderd onder de voorwaarden bepaald door de Vlaamse regering.<br /><br />Het teruggevorderde bedrag wordt toegewezen aan het Fonds voor preventie en Sanering inzake Leefmilieu en Natuur dat is ingeschreven in de begroting van het Vlaamse Gewest.
+<p>...</p>
 
 ### ART. 13bis.
 
@@ -74,7 +110,7 @@ De erfbelasting die verschuldigd zou zijn geweest over het bij toepassing   van 
 
 ### ART. 14.
 
-In de bossen en op de boswegen is geen enkele vorm van gemotoriseerd verkeer toegelaten, behalve om technische redenen zoals onderhoud en exploitatie, of wanneer dit verkeer noodzakelijk is voor het beheer en de bewaking, voor de veiligheid van de bezoekers en in door een toegankelijkheidsregeling of een bosbeheerplan vastgestelde bijzondere omstandigheden.
+<p>...</p>
 
 ### ART. 15.
 
@@ -84,25 +120,25 @@ In de bossen en op de boswegen is geen enkele vorm van gemotoriseerd verkeer toe
 
 ### ART. 16.
 
-Bossen die omwille van hun ligging of in samenstelling een uitgesproken rol vervullen onder meer voor de bescherming van waterwinningsgebieden, de erosiebestrijding, de regulering van het debiet der waterlopen, de klimaatregeling, de waterzuivering, of die zones afschermen die het leefmilieu belasten, kunnen als milieubeschermende bossen worden erkend.<br /><br />De Vlaamse regering wijst de bestaande of aan te leggen bossen aan die een milieubeschermende functie moeten vervullen.<br /><br />Ze bepaalt, de MiNa-Raad gehoord, de criteria voor de aanduiding en de regelen van het beheer en toegankelijkheid van deze bossen, rekening houdend met de noodzaak van het behoud van die bossen.<br />
+<p>Een bos heeft een milieubeschermende functie als vermeld in artikel 12ter van het decreet Natuurbehoud.</p>
 
 ### ART. 17.
 
-De Vlaamse regering, na advies van de MiNa-Raad bepaalt de vergoeding, alsmede de wijze van toekenning, aan de bosbeheerder wanneer zijn bos of een deel van zijn bos als milieubeschermend bos wordt aangewezen.
+<p>...</p>
 
 ## AFDELING 4 DE ECOLOGISCHE FUNCTIE
 
 ### ART. 18.
 
-[De zorg voor het behoud, de ontwikkeling of het herstel van de ecologische functie van de bossen bestaat onder meer uit:<br /><br />1. het bevorderen van de autochtone boom- of struiksoorten;<br /><br />2. het stimuleren van uit zichzelf functionerende processen;<br /><br />3. het bevorderen van een gevarieerde bosstructuur door onder meer ongelijkjarigheid en ongelijkvormigheid na te streven en te streven naar een voldoende aanwezigheid van oude bomen en dood hout;<br /><br />4. een gepast beheer van alle natuurelementen en van alle landschapsecologisch en cultuurhistorisch waardevolle elementen;<br /><br />5. het beheer ten behoeve van het behoud, de ontwikkeling of herstel van de biologische diversiteit, van populaties van zeldzame soorten of ondersoorten en ten behoeve van de instandhouding, de ontwikkeling of het herstel van [habitats of deels natuurlijke ecosystemen;  <span class="reference">(verv. decr. 19 juli 2002, art. 46, I: 10 september 2002)</span> ]<br /><br />6. het behoud of herstel van de natuurlijke waterhuishouding;<br /><br />7. het beheer gericht op het tegengaan van alle nadelige externe beïnvloeding.  <span class="reference">(verv. decr. 18 mei 1999, art. 16, I: 2 augustus 1999)</span> ]
+<p>De zorg voor de ecologische functie van een bos moet worden begrepen overeenkomstig artikel 12quater van het decreet Natuurbehoud.</p>
 
 ### ART. 19.
 
-[Bij het beheer van openbare bossen moet altijd rekening worden gehouden met de ecologische functie, zoals die in artikel 18 werd vastgelegd.<br /><br />In het beheersplan van alle bossen, zoals bedoeld in de artikelen 25 en 43, wordt steeds aangegeven hoe en in welke mate de ecologische functie aan bod komt, onverminderd de bepalingen van artikel 20.<br /><br />Voor elk openbaar bos en bosreservaat dat geheel of gedeeltelijk gelegen is binnen een speciale beschermingszone moeten in het beheersplan tevens de nodige maatregelen zoals bedoeld in artikel 36ter, §§ 1 en 2 van het Decreet Natuurbehoud opgenomen worden.  <span class="reference">(verv. decr. 19 juli 2002, art. 47, I: 10 september 2002)</span> ]
+<p>...</p>
 
 ### ART. 19bis.
 
-De Vlaamse regering kan, na advies van de MiNa-Raad volgens de voorwaarden en de normen door haar te bepalen, afhankelijk van de begrotingskredieten, toelagen verlenen voor het nemen van maatregelen die de ontwikkeling van natuur in het bos, met inbegrip van de realisatie van de maatregelen bedoeld in artikel 36ter, §§ 1 en 2 van het Decreet Natuurbehoud tot doel hebben, desgevallend afgestemd op de door het natuurbeleid of het ruimtelijk beleid vooropgestelde gebiedscategorieën en zo nodig afgestemd op de gebieden afgebakend in uitvoering van internationale overeenkomsten of verdragen betreffende het natuurbehoud of van akten betreffende het natuurbehoud, met inbegrip van Europese richtlijnen, vastgesteld op grond van internationale verdragen.
+<p>...</p>
 
 ### ART. 20.
 
@@ -116,31 +152,27 @@ De Vlaamse regering kan in alle bossen het gebruik van pesticiden regelen.<br />
 
 ### ART. 22.
 
-In de bosreservaten wordt de groei en de ontwikkeling vrijgelaten of wordt gestreefd naar het behoud of het tot stand brengen van natuurlijke bosgemeenschappen en bijzondere bostypes.<br>
-<br>
-De Vlaamse regering stelt vast mits toestemming van de eigenaar, voor welke bossen of gedeelten van bossen bijzondere beschermings- en beheersmaatregelen genomen worden omdat zij [een ecologische en wetenschappelijke functie vervullen. Deze bossen worden vanaf de aanwijzing of de erkenning bosreservaten genoemd; zij kunnen zones met een verschillende bescherming omvatten.<br>
-<br>
-De Vlaamse regering stelt de voorwaarden tot erkenning en aanwijzing vast.
+<p>...</p>
 
 ### ART. 23.
 
-De [aangewezen bosreservaten,  <span class="reference">(verv. decr. 18 mei 1999, art. 22, I: 2 augustus 1999)</span> ] eigendom van het Vlaamse Gewest, behouden hun statuut van bosreservaat voor een onbepaalde tijdsduur.<br /><br />Voor de bosreservaten, in huur genomen door het Vlaamse Gewest, moet de huurperiode tenminste vierenvijftig jaar bedragen.<br /><br />De andere bosreservaten worden erkend voor een periode van tenminste zevenentwintig jaar: verlenging met tenminste zevenentwintig jaar aan het einde van elke erkenningsperiode is mogelijk.<br /><br />De Vlaamse regering kan steeds de erkenning van een bosreservaat intrekken vanaf het ogenblik dat niet meer aan de voorwaarden van erkenning wordt voldaan.
+<p>...</p>
 
 ### ART. 24.
 
-De Vlaamse regering stelt de vergoeding vast die wordt toegekend aan de bosbeheerder wanneer zijn bos of een deel van zijn bos tot bosreservaat wordt aangewezen of erkend overeenkomstig artikel 22.<br /><br />De wijze van toekenning wordt eveneens door de Vlaamse regering Raad bepaald.
+<p>...</p>
 
 ### ART. 25.
 
-Voor elk bosreservaat dient een beheersplan of een nieuw beheersplan te worden opgesteld binnen een periode van drie jaar, die aanvangt op de datum van het besluit tot erkenning [of aanwijzing.  <span class="reference">(verv. decr. 18 mei 1999, art. 24, I: 2 augustus 1999)</span> ]<br /><br />Het beheersplan dient rekening te houden met het doel dat met de oprichting van het bosreservaat wordt nagestreefd [conform de bepalingen van artikel 22.  <span class="reference">(verv. decr. 18 mei 1999, art. 24, I: 2 augustus 1999)</span> ]<br /><br />[...  <span class="reference">(opgeh. decr. 18 mei 1999, art. 24, I: 2 augustus 1999)</span> ]
+<p>...</p>
 
 ### ART. 26.
 
-De bosbeheerder van een bos dat erkend wordt als bosreservaat, kan het beheer van dat bosreservaat overdragen aan het Agentschap. <br /><br />Voor elk aangewezen bosreservaat wordt een ambtenaar van het Agentschap aangeduid die met het beheer ervan is belast.
+<p>...</p>
 
 ### ART. 27.
 
-[De Vlaamse regering stelt één of meer adviescommissies in voor de begeleiding van het beheer van de bosreservaten.  <span class="reference">(verv. decr. 18 mei 1999, art. 26, I: 2 augustus 1999)</span> ]<br /><br />De Vlaamse regering bepaalt de opdracht, de samenstelling en de werkingsregelen van de adviescommissies.<br /><br />[...  <span class="reference">(opgeh. decr. 18 mei 1999, art. 26, I: 2 augustus 1999)</span> ]<br /><br />(De presentiegelden en vergoedingen toegekend aan de leden van de adviescommissies bosreservaten zijn die welke vastgesteld zijn bij B.V.R. van 14 december 1983 houdende sommige maatregelen tot harmonisatie van de werking en van de presentiegelden en vergoedingen van adviesorganen - zie B.V.R. 7 april 2000, B.S., 6 juli 2000)
+<p>...</p>
 
 ### ART. 28.
 
@@ -148,11 +180,11 @@ De bosbeheerder van een bos dat erkend wordt als bosreservaat, kan het beheer va
 
 ### ART. 29.
 
-De Vlaamse regering bepaalt welke maatregelen dienen getroffen te worden in de onmiddellijke omgeving van het bosreservaat, teneinde alle nadelige externe beïnvloeding tegen te gaan.<br /><br />Deze maatregelen kunnen betrekking hebben op het gebruik van pesticiden, het regelen van waterstanden of het bodemgebruik, waartoe met de eigenaars, vruchtgebruikers of gebruikers beheersovereenkomsten moeten worden afgesloten waarin de vergoedingen worden bepaald.
+<p>...</p>
 
 ### ART. 30.
 
-Onverminderd de verbodsbepalingen opgenomen in wetten, decreten, reglementen en de ontheffingen opgenomen in het beheersplan, is het in de bosreservaten verboden:<br />1. planten of onderdelen van planten te verwijderen; <br />2. opgravingen of extracties van materiaal uit de bodem of uit de ondergrond te verrichten;<br />3. werkzaamheden uit te voeren die niet in het beheersplan zijn opgenomen en die van aard zijn wijzigingen aan te brengen in de mineralogische en paleontologische sites, de archeologische grondvesten, het landschap, het reliëf, de natuurlijke waterhuishouding de bodemvruchtbaarheid, de zuiverheid en het regime van de waterlopen, de vegetatie en de inheemse flora en fauna;<br />4. dieren en planten te introduceren;<br />5. vuur te maken behalve wanneer zulks nodig is als beheersmaatregel, als fytosanitaire maatregel bij wet verplicht of als onderdeel van een wetenschappelijk experiment;<br />6. bronnen, veen- of turflagen te wijzigen;<br />7. dieren te verdelgen, te verplaatsen of te vangen, hun jongen, eieren, nesten of schuilplaatsen te storen, tenzij een machtiging door het Agentschap werd uitgereikt, de commissie gehoord;<br />8. sport te beoefenen.<br />9. te jagen, tenzij daarvoor machtiging werd verleend door het Agentschap, na de adviescommissie gehoord te hebben;<br />10. pesticiden te gebruiken;<br />11. meststoffen te gebruiken;<br />12. keten, loodsen, tenten of andere constructies te plaatsen, zelfs als die slechts tijdelijk zijn.
+<p>...</p>
 
 ## HOOFDSTUK III HET BOSBEHEER
 
@@ -182,7 +214,7 @@ De personeelsleden van het Agentschap kunnen enkel met toelating van het hoofd v
 
 ### ART. 37.
 
-De personeelsleden van het Agentschap mogen geen handel drijven, noch rechtstreeks noch onrechtstreeks, in hout- en andere bosproducten en boomkwekerijprodukten. Het is de personeelsleden van het Agentschap ook verboden privé-bossen te beheren of erin beheersdaden te stellen. Het is hen ook verboden beheersplannen van privé-bossen op te maken, tenzij ambtshalve voor bossen waarvan de bosbeheerder in gebreke werd gesteld of op verzoek van de bosbeheerder van een erkend bosreservaat.
+De personeelsleden van het Agentschap mogen geen handel drijven, noch rechtstreeks noch onrechtstreeks, in hout- en andere bosproducten en boomkwekerijprodukten. Het is de personeelsleden van het Agentschap ook verboden privé-bossen te beheren of erin beheersdaden te stellen. Het is hen ook verboden beheersplannen van privé-bossen op te maken.
 
 ## HOOFDSTUK IV DE VLAAMSE HOGE BOSRAAD
 
@@ -204,15 +236,17 @@ De personeelsleden van het Agentschap mogen geen handel drijven, noch rechtstree
 
 ### ART. 41.
 
-Het beheer van de bossen heeft tot doel het bosareaal te bewaren en het te brengen of te behouden in een bestendige staat van veelzijdige functie zoals bepaald in artikel 5.<br /><br />De Vlaamse regering stelt, na advies van de MiNa-Raad, criteria voor duurzaam bosbeheer vast en bepaalt, overeenkomstig de bepalingen van artikel 7, voor welke bossen die criteria gelden.<br />
+Het beheer van de bossen heeft tot doel het bosareaal te bewaren en het te brengen of te behouden in een bestendige staat van veelzijdige functie zoals bepaald in artikel 5.<br>
+<br>
+Het beheer van de bossen wordt in voorkomend geval uitgevoerd conform de criteria, vermeld in artikel 16septies, zevende lid, van het decreet Natuurbehoud.
 
 ### ART. 41bis.
 
-§ 1. De Vlaamse regering legt de MiNa-Raad gehoord de nadere regels vast voor de erkenning van de bosgroep.<br /><br />De doelstellingen van de bosgroep dienen het volgende te omvatten:<br />1. het stimuleren van een duurzaam bosbeheer;<br />2. het op elkaar afstemmen en coördineren van de beheersdoelstellingen en -maatregelen voor de bossen van de verschillende bosbeheerders;<br />3. de samenwerking inzake bosbeheerwerken verbeteren en het op elkaar afstemmen van deze werken;<br />4. de organisatie van de houtwinning, de verkoop van hout en het verkrijgen van alternatieve inkomsten verbeteren;<br />5. het recreatieve medegebruik verbeteren door de openstelling van de bossen op elkaar af te stemmen;<br />6. de organisatie van de bosarbeid verbeteren, met inbegrip van het welzijn op het werk en van werkgelegenheidsinitiatieven;<br />7. het op elkaar afstemmen, wat de bossen betreft, van de gebiedsgerichte terreinvisies uit andere beleidsdomeinen, zoals onder meer de jacht, het visbeheer, het natuurbehoud, de landschapszorg, de waterbeheersing en de waterwinning;<br />8. het stimuleren van de responsabilisering van de bosbeheerders;<br />9. het invullen en het verbeteren van de ecologische functie op het niveau van de bosgroep;<br />10. bij de functie-invulling van de betrokken bossen, rekening houden met de behoeften van de lokale gemeenschap en de bosgebruikers;<br />11. het nemen van bijzondere initiatieven die de toetreding van de bosbeheerders van kleine boseigendommen bevorderen;<br />12. in voorkomend geval, zich actief richten op de realisatie van de doelstellingen en maatregelen van het natuurrichtplan, conform de artikelen 48 en 50 van het decreet van 21 oktober 1997 inzake het natuurbehoud en het natuurlijk milieu. Het beheer is daarvoor verantwoordelijk.<br /><br />§ 2. De Vlaamse regering kan volgens de voorwaarden en de normen die ze zelf bepaalt, binnen de beperkingen van de begrotingskredieten, aan de erkende bosgroep subsidies verlenen voor de ondersteuning van de algemene werking van de erkende bosgroep, zoals onder meer het stimuleren van een gemeenschappelijk beheer, de coördinatie van de beheerswerken, van de houtverkoop en van de bosarbeid, het op elkaar afstemmen van de beheersplannen en van de toegankelijkheid van de bossen, alsook het bevorderen van de toetreding van de bosbeheerders tot de bosgroep, mits instemming van de eigenaar is verleend.<br /><br />§ 3. De Vlaamse regering bepaalt tevens op welke wijze de evaluatie van de werking van elke erkende bosgroep zal gebeuren. Zo dient elke erkende bosgroep op de vastgelegde tijdstippen aan het Agentschap te rapporteren over de realisatie van de in § 1 vastgelegde doelstellingen.<br /><br />Het Agentschap evalueert de voorgelegde rapporten en voert de controle uit. Het Agentschap maakt hierover een evaluatieverslag op, waarin wordt aangegeven op welke wijze de erkende bosgroep haar functie vervult en beantwoordt aan de erkenningscriteria, die door de Vlaamse regering worden vastgelegd.<br /><br />De bundel met evaluatieverslagen van alle erkende bosgroepen wordt, samen met de bundel van werkverslagen van die bosgroepen, jaarlijks voorgelegd aan de MiNa-Raad met het oog op een overzichtsadvies.<br /><br />Op grond van die evaluatieverslagen en dat overzichtsadvies kan de Vlaamse regering aanbevelingen doen of in voorkomend geval de erkenning intrekken of opschorten.<br /><br />In het geval beheerders van natuurreservaten, die overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijke milieu, werden aangewezen of erkend, deelnemen aan de werking van een erkende bosgroep, kunnen de percelen van de betrokken natuurreservaten, niet in rekening gebracht worden bij de evaluatie van de realisatie van de in § 1 opgelegde doelstelling 1. en 9.
+<p>...</p>
 
 ### ART. 41ter.
 
-§ 1. Het Vlaamse Gewest wordt gemachtigd om bosgroepen mee op te richten die voldoen aan de in artikel 41bis vermelde doelstellingen en om toe te treden tot de erkende bosgroepen.<br /><br />§ 2. De statuten van de bosgroepen waartoe het Vlaamse Gewest, vertegenwoordigd door de Vlaamse regering, wil toetreden, worden vooraf goedgekeurd door de Vlaamse regering. Deze bosgroepen delen hun statuten mee aan het Vlaams Parlement.<br /><br />§ 3. Alle bosbeheerders van een openbaar bos, andere dan de domeinbossen, worden gemachtigd om toe te treden tot een bosgroep om de doelstellingen van het bosbeleid zoals bepaald in dit decreet te verwezenlijken.<br /><br />§ 4. De Vlaamse regering bepaalt de nadere regels voor de wijze waarop de leden van het Agentschap, in afwijking van artikel 37, kunnen meewerken in erkende bosgroepen.
+<p>...</p>
 
 ### ART. 41quater.
 
@@ -226,25 +260,37 @@ De Vlaamse regering bepaalt de procedure tot erkenning van uitgangsmateriaal voo
 
 ### ART. 43.
 
-§ 1. Voor alle domeinbossen wordt door het Agentschap een beheersplan opgesteld. <br /><br />§ 2. Voor alle andere openbare bossen wordt door de eigenaar een beheersplan opgesteld.<br /><br />Het Agentschap kan in de plaats treden van de eigenaars van een openbaar bos, indien zij geen beheersplan voorleggen binnen een termijn van zes maanden na de ingebrekestelling door het Agentschap. Het Agentschap kan daarvoor een beroep doen op derden. De kosten voor het opmaken van het beheersplan worden verhaald op de eigenaars van het openbare bos.<br /><br />§ 3. Voor elk privé-bos van tenminste vijf hectare wordt door de bosbeheerder een beheersplan opgesteld. Voor bossen kleiner dan vijf hectare kan eveneens een beheersplan worden opgesteld.<br /><br />Het Agentschap kan in de plaats treden van de bosbeheerders, indien zij geen beheersplan indienen binnen een termijn van zes maanden na de ingebrekestelling door het Agentschap. Het Agentschap kan hiervoor beroep doen op derden. De kosten voor het opmaken van het beheersplan worden verhaald op de bosbeheerders.<br /><br />§ 4. De Vlaamse regering, de MiNa-Raad gehoord bepaalt de vorm, de inhoud, de termijn, het inzagerecht en de procedure voor de consultatie en voor de indiening en goedkeuring van een beheersplan en de beroepsprocedure.<br /><br />Ten behoeve van de beroepsprocedure wordt een comité van beroep ingesteld, dat is samengesteld uit een voorzitter, twee ambtenaren en twee vertegenwoordigers van boseigenaars en hun vervangers. De leden worden benoemd door de Vlaamse regering. De vertegenwoordigers van de boseigenaars worden, voor beroepen met betrekking tot privé-bossen, vertegenwoordigd door privé-boseigenaars, en voor beroepen met betrekking tot openbare bossen, vertegenwoordigd door openbare boseigenaars, voorgedragen door de permanente werkcommissie inzake bosbeleid van de MiNa-Raad.<br /><br />Indien het voorgelegde beheersplan niet voldoet, geeft het Agentschap of, bij toepassing van de beroepsprocedure, het comité van beroep aan, welke onderdelen ervan moeten worden gewijzigd. Wanneer het gewijzigde beheersplan niet binnen een termijn van zes maanden na de afkeuring van het beheersplan door het Agentschap of bij toepassing van de beroepsprocedure door het comité van beroep aan het Agentschap wordt voorgelegd, kan het Agentschap in de plaats treden van de openbare eigenaar of van de bosbeheerder van een privé-bos om een beheersplan op te maken. Het Agentschap kan daarvoor een beroep doen op derden. De kosten voor het opmaken van het beheersplan worden verhaald op de openbare eigenaar of de bosbeheerder van het privé-bos.<br /><br />De Vlaamse regering bepaalt voor welke aanplantingen geen beheersplan moet worden opgesteld en/of welke kappingen niet aan een machtiging zijn onderworpen.<br /><br />§ 5. Het beheersplan bindt de opeenvolgende bosbeheerders zolang geen gewijzigd beheersplan werd ingediend en goedgekeurd. Het wordt opgenomen in een register dat berust bij het Agentschap. Het beheersplan van een openbaar bos is een openbaar document en kan op verzoek kosteloos worden ingezien.<br /><br />§ 6. Het beheersplan dient de concrete beheersmaatregelen te bevatten, die nodig zijn om de doelstellingen in het kader van de ecologische functie van de bossen, zoals vastgelegd in artikel 18 van dit decreet, te verwezenlijken.
+<p>Beheersplannen voor bossen worden vastgesteld conform de bepalingen vermeld in hoofdstuk IV, afdeling 2, van het decreet Natuurbehoud.</p>
 
 ### ART. 44.
 
-§ 1. Het Agentschap houdt toezicht op de correcte uitvoering van de   voorschriften van het beheersplan.<BR><BR>§ 2. Behoudens dringende   noodzakelijkheid kan enkel van het goedgekeurde beheersplan worden afgeweken   mits de voorafgaandelijke machtiging van het Agentschap.<BR><BR>De dringende   noodzakelijkheid en de motivering ervan, dienen onverwijld aan het Agentschap te   worden medegedeeld.<BR><BR>Het Agentschap stelt binnen de dertig dagen na de   mededeling een onderzoek op tegenspraak in en beslist binnen een termijn van   zestig dagen. Bij overschrijding van de termijn van zestig dagen wordt het   verzoek tot afwijking van het goedgekeurde beheersplan geacht te zijn   ingewilligd.<BR><BR>Overeenkomstig artikel 6.4.4, § 3, van het decreet van 12   juli 2013 betreffende het onroerend erfgoed wordt voor het verlenen van een   machtiging zoals vermeld in het eerste lid, die betrekking heeft op een   handeling aan of in beschermde goederen zoals bedoeld in dat decreet, advies   gevraagd aan de entiteit die door de Vlaamse Regering is belast met de   beleidsuitvoering inzake onroerend erfgoed.
+§ 1. Het Agentschap houdt toezicht op de correcte uitvoering van de voorschriften van het beheersplan.<br>
+<br>
+§ 2. ...
 
 ### ART. 45.
 
-§ 1. Onverminderd artikel 34, § 2, van het decreet van 21 oktober 1997   betreffende het natuurbehoud en het natuurlijk milieu, worden alle openbare   bossen beheerd door het Agentschap.<BR><BR>In de openbare bossen, andere dan de   domeinbossen, omvat dat beheer enkel de technische aspecten van het bosbeheer,   die de praktische uitvoering van het beheersplan betreffen. De Vlaamse regering   bepaalt wat onder die technische aspecten moet worden verstaan.<BR><BR>De   eigenaar van een openbaar bos kan het volledige of gedeeltelijke beheer door een   overeenkomst aan het Agentschap overdragen.<BR><BR>§ 2. Onverminderd de   bepalingen van § 1, kan de eigenaar van een openbaar bos het uitvoeren van   beheersmaatregelen, in uitvoering van een goedgekeurd beheersplan of wanneer ze   gemachtigd zijn door het Agentschap, toevertrouwen aan een natuurvereniging of   een bosgroep, door middel van een overeenkomst. De eigenaar zendt onverwijld een   afschrift van de overeenkomst naar het Agentschap.<BR><BR>In afwijking van de   bepalingen in § 1, kan de eigenaar van een openbaar bos het beheer aan een   natuurvereniging overdragen ten behoeve van het beheer van het bos als   bosreservaat of als natuurreservaat. De eigenaar zendt onverwijld een afschrift   van de overeenkomst aan het Agentschap. De bedoelde bossen behouden het statuut   van openbaar bos en het beheer wordt gevoerd overeenkomstig de bepalingen van   dit decreet, tot op het ogenblik dat het bos wordt erkend als natuurreservaat   overeenkomstig de procedure van het decreet van 21 oktober 1997 betreffende het   natuurbehoud en het natuurlijk milieu en het beheersplan, dat overeenkomstig   artikel 47 van dit decreet werd opgemaakt, wordt goedgekeurd. Vanaf dat ogenblik   wordt het bos beheerd overeenkomstig de bepalingen in het beheersplan dat   overeenkomstig artikel 47 van dit decreet werd opgemaakt en zijn voor de erin   voorziene werken en beheersmaatregelen geen machtigingen van het Agentschap   vereist. Wanneer binnen een periode van drie jaar na het sluiten van de   overeenkomst geen aanvraag is ingediend om het bos te erkennen als bosreservaat   of als natuurreservaat, vervalt de overeenkomst tussen de openbare eigenaar en   de natuurvereniging en wordt het beheer van de bossen opnieuw gevoerd   overeenkomstig paragraaf 1 van dit artikel.<BR><BR>§ 3. Onroerende goederen die   onder de toepassing van dit decreet vallen en die in uitvoering van de wet van   22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van wet,   aangevuld door de wet van 11 augustus 1978 houdende bijzondere bepalingen eigen   aan het Vlaamse Gewest, verworven werden, kunnen aan een ander openbaar bestuur   overgedragen worden of het zakelijk recht op deze goederen kan hun toegekend   worden, zonder machtiging in afwijking van artikel 90, eerste lid.<BR><BR>§ 4.   De bossen die, overeenkomstig het decreet van 21 oktober 1997 betreffende het   natuurbehoud en het natuurlijk milieu, door de Vlaamse regering werden   aangewezen als Vlaams natuurreservaat, worden in overeenstemming met de   bepalingen van artikel 34, § 2, van het decreet van 21 oktober 1997 betreffende   het natuurbehoud en het natuurlijk milieu beheerd.
+§ 1. Onverminderd artikel 34, § 2, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, worden alle openbare bossen beheerd door het Agentschap.<br>
+<br>
+In de openbare bossen, andere dan de domeinbossen, omvat dat beheer enkel de technische aspecten van het bosbeheer, die de praktische uitvoering van het beheersplan betreffen. De Vlaamse regering bepaalt wat onder die technische aspecten moet worden verstaan.<br>
+<br>
+De eigenaar van een openbaar bos kan het volledige of gedeeltelijke beheer door een overeenkomst aan het Agentschap overdragen.<br>
+<br>
+§ 2. Onverminderd de bepalingen van § 1, kan de eigenaar van een openbaar bos het uitvoeren van beheersmaatregelen, in uitvoering van een goedgekeurd beheersplan of wanneer ze gemachtigd zijn door het Agentschap, toevertrouwen aan een natuurvereniging of een bosgroep, door middel van een overeenkomst. De eigenaar zendt onverwijld een afschrift van de overeenkomst naar het Agentschap.<br>
+<br>
+In afwijking van paragraaf 1 kan de eigenaar van een openbaar bos het beheer aan een natuurvereniging overdragen. De eigenaar zendt onverwijld een afschrift van de overeenkomst aan het agentschap. De bossen in kwestie behouden in dat geval de status van openbaar bos. Het beheer wordt gevoerd conform de bepalingen van dit decreet en, voor wat het beheersplan betreft, overeenkomstig de bepalingen vermeld in hoofdstuk 4, afdeling 2, van het decreet Natuurbehoud.<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. De bossen die, overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, door de Vlaamse regering werden aangewezen als Vlaams natuurreservaat, worden in overeenstemming met de bepalingen van artikel 34, § 2, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu beheerd.
 
 ### ART. 46.
 
-Binnen de perken van dit decreet voert elke bosbeheerder het beheer van zijn bos overeenkomstig het beheersplan.<br /><br />Voor de bossen gelegen in het Vlaams Ecologisch Netwerk, zoals bedoeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, worden in de beheersplannen die goedgekeurd worden na de inwerkingtreding van voormeld decreet uitdrukkelijk de maatregelen vermeld die moeten worden genomen om de in artikel 18 van het bosdecreet van 13 juni 1990 bepaalde doelstellingen te realiseren en dient in overeenstemming te zijn met het natuurrichtplan conform de artikelen 48 en 50 van het decreet van 21 oktober 1997 inzake het natuurbehoud en natuurlijk milieu.<br /><br />Dit beheer omvat onder meer de technische en administratieve aspecten van het beheer, de inventarisatie, de kapregeling, de uitvoering van onderhouds- en verbeteringswerken, de verkoop van de bosprodukten, de bebossing, de herbebossing en de bewaking.
+<p>...</p>
 
 ### ART. 47.
 
-In afwijking van de artikelen 43 tot en met 46 wordt voor de bossen gelegen in natuurreservaten bedoeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, één enkel beheersplan per natuurreservaat opgemaakt, overeenkomstig dat decreet van 21 oktober 1997.<br>
-<br>
-In afwijking van de&nbsp;vergunningsplicht voor ontbossing, zoals bepaald in artikel 4.2.1, 2°, van de Vlaamse Codex Ruimtelijke Ordening, is er voor ontbossing in natuurreservaten, waarvoor een beheerplan is goedgekeurd op grond van artikel 34, § 1, of artikel 16octies van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, enkel een voorafgaande eenvoudige melding aan de ambtenaar vereist, op voorwaarde dat deze ontbossing voorzien is in het vermelde beheerplan en, met betrekking tot beheerplannen die goedgekeurd worden na 1 januari 2009, als de ontbossing noodzakelijk is met het oog op de realisatie van vastgestelde instandhoudingsdoelstellingen. Van deze melding stelt de ambtenaar onverwijld het college van burgemeester en schepenen en het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed in kennis.
+In afwijking van de&nbsp;vergunningsplicht voor ontbossing, zoals bepaald in artikel 4.2.1, 2°, van de Vlaamse Codex Ruimtelijke Ordening, is er voor ontbossing in natuurreservaten, waarvoor een beheerplan is goedgekeurd met toepassing van het decreet Natuurbehoud, enkel een voorafgaande eenvoudige melding aan de ambtenaar vereist, op voorwaarde dat deze ontbossing voorzien is in het vermelde beheerplan en, met betrekking tot beheerplannen die goedgekeurd worden na 1 januari 2009, als de ontbossing noodzakelijk is met het oog op de realisatie van vastgestelde instandhoudingsdoelstellingen. Van deze melding stelt de ambtenaar onverwijld het college van burgemeester en schepenen en het&nbsp;Departement Omgeving in kennis.
 
 ## HOOFDSTUK VI BIJZONDERE BEPALINGEN BETREFFENDE DE OPENBARE BOSSEN
 
@@ -416,7 +462,7 @@ De bosbeheerder van privé-bossen kan een beroep doen op het Agentschap om hem a
 
 ### ART. 85.
 
-In geval van vrijwillige samenvoeging van het beheer van twee of meer boseigendommen met een totale inbreng van meer dan vijf hectare, [...  <span class="reference">(geschr. decr. 18 mei 1999, art. 57, I: 2 augustus 1999)</span> ], kunnen voor dit gegroepeerd beheer regelingen inzake bewaking en subsidiëring, met uitzondering van aankoopsubsidies door de Vlaamse regering worden toegestaan.<br /><br />Voor dergelijke groepering van beheer kan een toelage bekomen worden op voorwaarde dat een enkel beheersplan wordt opgemaakt en goedgekeurd overeenkomstig artikel 43.<br /><br />De Vlaamse regering bepaalt ook de voorwaarden en de normen van deze tegemoetkomingen binnen de perken van de begrotingskredieten.
+<p>...</p>
 
 ### ART. 86.
 
@@ -459,7 +505,7 @@ Openbare onroerende goederen, die onder de toepassing van het decreet vallen, ku
 2° ontbossing of verkaveling in zones met de bestemmingen woongebied of industriegebied in de ruime zin;<br>
 3° ontbossing of verkaveling in zones die volgens de geldende plannen van aanleg of de ruimtelijke uitvoeringsplannen gelijk te stellen zijn met de bestemmingen woongebied of industriegebied in de ruime zin;<br>
 4° ontbossing van de uitvoerbare delen in een niet-vervallen vergunde verkaveling;<br>
-5° ontbossing in functie van vastgestelde instandhoudingsdoelstellingen, op voorwaarde dat die ontbossing opgenomen is in een beheerplan dat is goedgekeurd op grond van artikel 25, 43, § 1, 43, § 2, of 43, § 3, van dit decreet of van artikel 34, § 1, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
+5° ontbossing in functie van vastgestelde instandhoudingsdoelstellingen, op voorwaarde dat die ontbossing opgenomen is in een beheerplan dat is goedgekeurd op grond van artikel 25, 43, § 1, 43, § 2, of 43, § 3, van dit decreet, van artikel 34, § 1, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu of opgenomen is in een natuurbeheerplan dat is goedgekeurd conform artikel 16octies van het voormelde decreet.<br>
 <br>
 De omgevingsvergunning voor ontbossing of voor het verkavelen van gronden voor geheel of gedeeltelijk beboste terreinen wordt verleend na voorafgaand advies van het Agentschap. Het advies wordt verleend op verzoek van de vergunningverlenende overheid. Als het advies niet wordt verleend binnen dertig dagen, wordt het geacht gunstig te zijn.<br>
 <br>
