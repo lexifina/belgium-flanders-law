@@ -15,7 +15,8 @@ Dit besluit wordt aangehaald als: het Onroerenderfgoedbesluit van 16 mei   2014.
 ### ART. 2.
 
 In dit besluit wordt verstaan onder:<br>
-1° beheersdienst: de administratieve overheid die belast is met de uitvoering van de beheersovereenkomsten;<br>
+1° behandelende agentschap: de instantie waarbij een aanvraag tot opmaak van een geïntegreerd beheersplan wordt ingediend, namelijk het agentschap of het Agentschap voor Natuur en Bos;<br>
+1°/1 beheersdienst: de administratieve overheid die belast is met de uitvoering van de beheersovereenkomsten;<br>
 2° beheersmaatregel: het werk, de dienst of de handeling die de zakelijkrechthouder of beheerder in het kader van een beheersovereenkomst verricht, laat verrichten of achterwege laat, afhankelijk van de beheersdoelstelling;<br>
 3° beheerspakket: een geheel van beheersmaatregelen die tegemoetkomen aan een specifieke beheersdoelstelling;<br>
 4° belanghebbende: de zakelijkrechthouder en de gebruiker van het onroerend goed, de zakelijkrechthouders van percelen die grenzen aan het onroerend goed, de gemeente of de provincie waarin het onroerend goed gelegen is, het agentschap en in voorkomend geval de leden van de beheerscommissie;<br>
@@ -25,6 +26,7 @@ In dit besluit wordt verstaan onder:<br>
 8° cultuurgoederen: roerende goederen, die omwille van hun erfgoedwaarde van algemeen belang zijn, waarvan het samen voorkomen met het gebouw een bijzondere waarde heeft en die ofwel ontworpen zijn voor of vervaardigd met het beschermd goed ofwel gerelateerd zijn aan de functie van het beschermd goed en waarvoor historische verbondenheid met het beschermd goed kan aangetoond worden. Voor beschermde onroerende goederen in eigendom van privé-personen of -rechtspersonen moeten de cultuurgoederen opgenomen zijn in een beschermingsbesluit of een goedgekeurd beheersplan of er moet voorheen voor het beheer ervan een premie verleend zijn opdat ze als cultuurgoederen beschouwd kunnen worden;<br>
 9° discipline: een bepaald vakgebied, specialisme of beroep binnen de onroerenderfgoedsector;<br>
 10° forfaitaire werkzaamheden: de werkzaamheden of diensten, opgenomen in een door de minister vastgestelde lijst, die op forfaitaire basis overeenkomstig de bedragen, vermeld in die lijst, in aanmerking komen voor de toekenning van een erfgoed- of onderzoekspremie;<br>
+10° /1 geïntegreerd beheersplan: een beheersplan waarin één gebiedsgerichte beheerplanning voor een onroerend erfgoed, voor erfgoedlandschappen, een natuurdomein of voor een ander terrein, beheerd ten behoeve van het natuurbehoud wordt vooropgesteld, en/of waarbij in geval van het overlappen van de verschillende beschermingsstatuten de verschillende beleidsdoelstellingen op elkaar worden afgestemd. Dat geïntegreerde beheersplan omvat steeds de verschillende beheerdoelstellingen en garandeert één afgestemde gebiedsgerichte visie binnen de geldende regelgeving;<br>
 11° gespecialiseerde werkzaamheden:<br>
 a) beheersmaatregelen, werkzaamheden of diensten aan:<br>
 1) orgels, beiaarden, torenuurwerken, luiklokken;<br>
@@ -46,6 +48,7 @@ b) beveiligingswerken tegen diefstal, brand en blikseminslag van beschermde monu
 14° meerwerken: de bijkomende werkzaamheden, beheersmaatregelen of diensten die de vermoedelijke hoeveelheden die in de aanvaarde kostenraming worden vermeld, overschrijden;<br>
 15° minister: de Vlaamse minister, bevoegd voor het onroerend erfgoed;<br>
 16° ...;<br>
+16° /1 natuurdomein: een terrein als vermeld in artikel 2, punt 55°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 17° onderwijsgebouw: een onroerend goed dat op grond van zijn onderwijsbestemming vrijgesteld is van de onroerende voorheffing;<br>
 18° onroerenderfgoedactoren: de betrokkenen en belanghebbenden bij de zorg voor het onroerend erfgoed op het grondgebied van de gemeente;<br>
 19° ontwerper: de natuurlijke persoon of rechtspersoon die het ontwerp maakt van de werkzaamheden of diensten aan of in beschermde goederen of in erfgoedlandschappen, en ze begeleidt en controleert of het beheersplan opmaakt;<br>
@@ -55,6 +58,7 @@ b) beveiligingswerken tegen diefstal, brand en blikseminslag van beschermde monu
 22° /1 premie voor buitensporige opgravingskosten: de premie ter financiering van de buitensporige directe kosten van de verplichte en al uitgevoerde archeologische opgraving, zoals opgenomen in de bekrachtigde archeologienota of de bekrachtigde nota ter uitvoering van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 23° ...;<br>
 24° regulier onderhoud: de preventieve en periodieke onderhoudswerken, gericht op het duurzaam in goede staat houden van een goed, die geen vervanging of wijziging van materiaal en uitvoeringstechniek impliceren en die geen negatieve impact op de erfgoedwaarde en geen impact op de bodem hebben;<br>
+24° /1 terrein beheerd ten behoeve van het natuurbehoud: een terrein dat beheerd wordt conform de bepalingen van hoofdstuk IIIbis van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 25° toekenning: de officiële kennisgeving aan de premienemer van het ministerieel besluit waarbij het bedrag van de erfgoedpremie, aangevraagd volgens de bijzondere procedure, wordt vastgesteld;<br>
 26° uitvoerder: de natuurlijke persoon of rechtspersoon, die het beheer van of de werkzaamheden aan onroerend erfgoed en erfgoedlandschappen uitvoert;<br>
 27° voorafgaand onderzoek: elke vorm van voorbereidend onderzoek dat noodzakelijk is voor het kwaliteitsvolle beheer of de herwaardering van een beschermd goed of een erfgoedlandschap en waarvan verondersteld mag worden dat het buiten de gebruikelijke opdracht van een eventuele ontwerper valt, met inbegrip van de werkzaamheden die nodig zijn om dat onderzoek uit te voeren;<br>
@@ -1210,23 +1214,158 @@ Een goedgekeurd beheersplan heeft een geldigheidsduur van twintig   jaar.<BR>
 
 ## [Onderafdeling 1 Opdrachtgever (ing. BVR 14 juli 2017, art. 52, I: 28 oktober 2017)]
 
+### ART 8.3.1.
+
+Als de zakelijkrechthouder of de gebruiker voor een onroerend erfgoed of een erfgoedlandschap of voor een deel ervan dat een opzichzelfstaand geheel vormt, tegelijkertijd of opeenvolgend een beheersplan onroerend erfgoed en een natuurbeheerplan met toepassing van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu opstelt, dan worden de verwezenlijkingen van alle beheersdoelstellingen voor dat goed in 1 beheersplan geïntegreerd. Eén of meer zakelijkrechthouders of gebruikers kunnen een gevolmachtigde aanwijzen die een gezamenlijke aanvraag tot opmaak van een geïntegreerd beheersplan in hun plaats indient.<br>
+<br>
+Het Agentschap voor Natuur en Bos maakt het ontwerp van een geïntegreerd beheersplan voor een natuurdomein op.
+
 ## [Onderafdeling 2 Verkenning (ing. BVR 14 juli 2017, art. 52, I: 28 oktober 2017)]
+
+### ART 8.3.2.
+
+Voor er gestart wordt met de opmaak van een geïntegreerd beheersplan, dient de zakelijkrechthouder, de gebruiker of de gevolmachtigde een verkenning in bij het agentschap of bij het Agentschap voor Natuur en Bos.<br>
+<br>
+De verkenning als vermeld in het eerste lid bevat, naast de elementen als vermeld in artikel 3, eerste lid, 1°, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten, tevens de volgende elementen:<br>
+1° de identificatie en grafische afbakening van het onroerend erfgoed of erfgoedlandschap of van het deel ervan dat een op-zichzelf-staand geheel vormt, waarvoor het nodige beheersplan zal worden opgesteld;<br>
+2° een oplijsting en een beschrijving van de erfgoedwaarde en erfgoedelementen;<br>
+3° een beknopte omschrijving van de visie op het beheer;<br>
+4° als het beheersplan betrekking heeft op verschillende zakelijkrechthouders of gebruikers, een voorstel over hoe de participatie in en communicatie over de opmaak van het beheersplan zal verlopen.
 
 ## [Onderafdeling 3 Ontvankelijkheid van de verkenning Opdrachtgever (ing. BVR 14 juli 2017, art. 52, I: 28 oktober 2017)]
 
+### ART 8.3.3.
+
+Het behandelende agentschap gaat na of de in artikel 8.3.2 vermelde verkenning volledig is, en verzendt binnen een termijn van dertig kalenderdagen na de indiening ervan met een beveiligde zending een ontvangstmelding met daarin een volledigheidsverklaring. Bij eventuele onvolkomenheden zendt het behandelende agentschap binnen een termijn van dertig kalenderdagen het dossier terug met opgave van de redenen van onvolledigheid. Het behandelend agentschap neemt de beslissing inzake de volledigheid op basis van de elementen vermeld in artikel 4, vierde lid, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten en op basis van de elementen in artikel 8.3.2.<br>
+<br>
+Het Agentschap voor Natuur en Bos beoordeelt de verkenning op basis van de overeenstemming van de keuze voor één van de vier types terreinen, vermeld in artikel 16ter, § 1, van het decreet van 21 oktober 1997, met de bepalingen van artikel 16ter, § 2, artikel 16quater, artikel 16quinquies en artikel 16sexies van het decreet van 21 oktober 1997 en aan de hand van de natuurstreefbeelden, vermeld in bijlage 3 bij het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten, die voor het type in aanmerking komen.<br>
+<br>
+Binnen een termijn van zestig kalenderdagen na de volledigheidsverklaring, vermeld in het eerste lid, neemt het behandelend agentschap een beslissing over de verkenning. Het bezorgt die beslissing met een beveiligde zending aan de indiener.
+
 ## [Onderafdeling 4 Opmaak (ing. BVR 14 juli 2017, art. 52, I: 28 oktober 2017)]
+
+### ART 8.3.4.
+
+Het geïntegreerd beheersplan bevat ten minste de elementen, als vermeld in artikel 8.1.4, § 1, eerste en tweede lid, alsook de delen vermeld in artikel 3, eerste lid, 2°, 3°, 4° en 5°, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten.<br>
+<br>
+De visie op het beheer, de beheerdoelstellingen en de richtlijnen, maatregelen en werkzaamheden moet in voorkomend geval in overeenstemming zijn met de geldende regelgeving.
 
 ## [Onderafdeling 5 Indiening (ing. BVR 14 juli 2017, art. 52, I: 28 oktober 2017)]
 
+### ART 8.3.5.
+
+Nadat het agentschap een gunstige beslissing heeft genomen over de verkenning, vermeld in artikel 8.3.2 van dit besluit, wordt het ontwerp van een geïntegreerd beheersplan, vermeld in artikel 8.3.4, ingediend bij het behandelende agentschap.<br>
+<br>
+Het ontwerp van een geïntegreerd beheersplan wordt in vier papieren exemplaren en één digitaal exemplaar ingediend bij het behandelende agentschap, voorzien van de gegevens of bijlagen vermeld in artikel 8.1.5.
+
 ## [Onderafdeling 6 Goedkeuringsprocedure (ing. BVR 14 juli 2017, art. 52, I: 28 oktober 2017)]
+
+### ART 8.3.6.
+
+§ 1. Binnen de dertig kalenderdagen nadat het ontwerp van het geïntegreerde beheersplan werd ingediend, stuurt het behandelende agentschap met een beveiligde zending een ontvangstmelding met daarin een volledigheidsverklaring aan de indiener. Ingeval er elementen, als vermeld in artikel 8.3.4, ontbreken, stuurt het behandelende agentschap met een beveiligde zending het ontwerp van geïntegreerd beheersplan terug, met opgave van de redenen van onvolledigheid.<br>
+<br>
+§ 2. Als het ontwerp van geïntegreerd beheersplan betrekking heeft op een terrein van type twee, drie of vier als vermeld in artikel 16ter, § 1, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, moet het ontwerp voor consultatie ter inzage gelegd worden bij het behandelende agentschap, bij de indiener of op een door de indiener en het behandelende agentschap gezamenlijk te bepalen plaats in de omgeving van het gebied in kwestie. De indiener zorgt voor de aankondiging van de consultatie over het ontwerp van het geïntegreerde beheersplan binnen een termijn van dertig kalenderdagen, die ingaat op de dag na de kennisgeving van de ontvangstmelding, vermeld in paragraaf 2. De aankondiging wordt bekend gemaakt op één van de volgende wijzen:<br>
+1° in minstens één regionale krant;<br>
+2° via de gemeentelijke informatiekanalen;<br>
+3° door middel van aanplakking op een duidelijk zichtbare wijze langs de toegangsweg of -wegen van het terrein in kwestie.<br>
+<br>
+De wijze van bekendmaking als vermeld in het eerste lid wordt nader bepaald in de verkenning, vermeld in artikel 8.3.2, van dit besluit.<br>
+<br>
+In de aankondiging worden de volgende gegevens vermeld:<br>
+1° de ligging en, in voorkomend geval, de naam van het gebied waarop het ontwerp van geïntegreerd beheersplan betrekking heeft;<br>
+2° de plaats waar en de uren waarop het ontwerp van het geïntegreerde beheersplan kan worden ingezien;<br>
+3° de begin- en de einddatum van de consultatieperiode. Die periode moet dertig kalenderdagen duren;<br>
+4° de mededeling dat gedurende de periode, vermeld in punt 3°, opmerkingen en bezwaren aan het behandelende agentschap kunnen worden gericht .<br>
+<br>
+§ 3. Na de kennisgeving van de volledigheidsverklaring, vermeld in artikel 8.3.6, § 1, legt het behandelende agentschap het ontwerp van natuurbeheerplan ter advies voor aan de instanties en in die gevallen als vermeld in artikel 6, § 3, 1°, 2° en 4°, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten.<br>
+<br>
+De adviezen worden uitgebracht aan het behandelende agentschap binnen een termijn van dertig kalenderdagen, die ingaat de dag na de ontvangst van de adviesvraag. Als die termijn wordt overschreden, kan aan de adviesvereiste worden voorbijgegaan.<br>
+<br>
+§ 4. Binnen zeven kalenderdagen na het verstrijken van de consultatieperiode, vermeld in paragraaf 2, en de termijn van dertig kalenderdagen, vermeld in paragraaf 3, tweede lid, bezorgt het behandelende agentschap een kopie van de ingediende opmerkingen en bezwaren en adviezen aan de indiener van het geïntegreerde beheersplan.<br>
+<br>
+De indiener past het ontwerp van het geïntegreerd beheersplan zo nodig aan en voegt er een verslag van de consultatie en adviesronde bij. Dat verslag omvat, naast het bewijs van de aankondiging van de consultatie, ook een vermelding van de manier waarop en de redenen waarom al dan niet rekening wordt gehouden met de ingediende opmerkingen, bezwaren en adviezen.<br>
+<br>
+Aan het ontwerp van het geïntegreerde beheersplan kan de indiener alleen aanpassingen aanbrengen die gebaseerd zijn op of voortvloeien uit de ingediende opmerkingen, bezwaren en adviezen. Het aangepaste ontwerp van het geïntegreerd beheersplan kan echter de oppervlakte van het gebied waarop het betrekking heeft, niet uitbreiden.<br>
+<br>
+Het verslag van de consultatie- en adviesronde wordt samen met het definitieve ontwerp van het geïntegreerd beheersplan ingediend bij het behandelend agentschap binnen negentig kalenderdagen na ontvangst van de opmerkingen, de bezwaren en de adviezen, vermeld in het eerste lid.<br>
+<br>
+§ 5. Het agentschap en het agentschap voor Natuur en Bos beslissen samen over de goedkeuring binnen een termijn van negentig kalenderdagen, die ingaat op de dag na ontvangst van het verslag van de consultatie- en adviesronde en het ontwerp van het geïntegreerd beheersplan. Het agentschap voor Natuur en Bos neemt de beslissing op basis van de elementen vermeld in artikel 7, § 1, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten. Als er geen beslissing wordt genomen binnen de daarvoor uitgetrokken termijn, wordt ervan uitgegaan dat het ontwerp van geïntegreerd beheersplan afgekeurd is.<br>
+<br>
+§ 6. Het behandelende agentschap brengt de indiener met een beveiligde zending op de hoogte van de beslissing vermeld in paragraaf 5.<br>
+<br>
+§ 7. In een beslissing tot goedkeuring kunnen voorwaarden opgelegd worden over de uitvoering en de opvolging van het geïntegreerde beheersplan.<br>
+<br>
+Als het geïntegreerd beheersplan niet wordt goedgekeurd, brengt het behandelende agentschap de indiener met een beveiligde zending op de hoogte van de gemotiveerde beslissing over de onderdelen van het ontwerp van geïntegreerd beheersplan die moeten worden gewijzigd.<br>
+<br>
+Een aangepast ontwerp van geïntegreerd beheersplan kan ingediend worden bij het behandelende agentschap binnen een termijn van negentig kalenderdagen, die ingaat de dag na ontvangst van de melding, vermeld in het tweede lid. Een aanpassing van het beheersplan kan bovendien alleen met betrekking tot de voorgestelde wijzigingen en kan de oppervlakte van het gebied waarop het betrekking heeft, niet uitbreiden.<br>
+<br>
+Als het aangepaste beheersplan tegemoetkomt aan de voorgestelde wijzigingen, dan beslissen het agentschap en het agentschap voor Natuur en Bos dat het beheersplan wordt goedgekeurd. Als het aangepaste beheersplan niet tegemoetkomt aan de voorgestelde wijzigingen, vermeld in paragraaf 7, tweede lid, of als er binnen de voormelde termijn van negentig kalenderdagen geen aangepast beheerplan is ingediend, brengt het behandelende agentschap de indiener met een beveiligde zending op de hoogte van de afkeuring. Het behandelende agentschap brengt ook de gemeente of gemeenten waarin het onroerend goed ligt en/of intergemeentelijke onroerenderfgoeddienst of -diensten van die gemeente of gemeenten, op de hoogte van die beslissing.<br>
+<br>
+§ 8. Als het geïntegreerd beheersplan een gebied betreft dat een natuurdomein omvat, of een gebied betreft met enerzijds natuurdomein en anderzijds één of meer openbare of private terreinen die beheerd worden ten behoeve van het natuurbehoud, dan is de goedkeuringsprocedure, vermeld in paragraaf 2 tot en met 7 van overeenkomstige toepassing, evenwel met dien verstande dat beslissingen genomen worden door het agentschap en de minister, bevoegd voor het natuurbehoud.
 
 ## [Onderafdeling 7 Geldigheidsduur (ing. BVR 14 juli 2017, art. 52, I: 28 oktober 2017)]
 
+### ART 8.3.7.
+
+Het geïntegreerde beheersplan heeft een geldigheidsduur van vierentwintig jaar.
+
 ## [Onderafdeling 8 Evaluatie en opvolging (ing. BVR 14 juli 2017, art. 52, I: 28 oktober 2017)]
+
+### ART 8.3.8.
+
+De zakelijkrechthouder, de gebruiker of hun gevolmachtigde is belast met de opvolging en bezorgt een verslag over de uitvoering van het geïntegreerde beheersplan aan het behandelende agentschap.<br>
+<br>
+Te rekenen vanaf de datum van goedkeuring van het geïntegreerde beheersplan voor een terrein van type twee, type drie of type vier, als vermeld in artikel 16ter, § 1, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, maakt het Agentschap voor Natuur en Bos om de zes jaar, op basis van het verslag, vermeld in het eerste lid, een evaluatie van de uitvoering van het geïntegreerde beheersplan.<br>
+<br>
+Als uit de evaluatie blijkt dat de beheersmaatregelen die in het goedgekeurde beheersplan zijn opgenomen, onvoldoende uitgevoerd werden of niet geschikt zijn om de beheerdoelstellingen te halen, nemen het agentschap en het Agentschap voor Natuur en Bos daarover samen een beslissing binnen zestig kalenderdagen, te rekenen vanaf de dag na de ontvangst van het verslag.<br>
+<br>
+Het behandelende agentschap brengt de zakelijkrechthouder, de gebruiker of hun gevolmachtigde met een beveiligde zending op de hoogte van de beslissing, vermeld in het derde lid, met de vermelding van de redenen waarom en de manier waarop het beheer moet worden aangepast.<br>
+<br>
+Het behandelende agentschap brengt ook de gemeente of gemeenten waarin het onroerend goed ligt en/of intergemeentelijke onroerenderfgoeddienst of -diensten van die gemeente of gemeenten, op de hoogte van die beslissing.
 
 ## [Onderafdeling 9 Aanpassingen (ing. BVR 14 juli 2017, art. 52, I: 28 oktober 2017)]
 
+### ART 8.3.9.
+
+§ 1. Een goedgekeurd geïntegreerd beheersplan kan op gemotiveerde vraag van de zakelijkrechthouder, de gebruiker of de gevolmachtigde aangepast worden.<br>
+<br>
+§ 2. Het agentschap of het Agentschap voor Natuur en Bos kunnen de zakelijkrechthouder, de gebruiker of de gevolmachtigde verzoeken om een aanvraag tot aanpassing van het geïntegreerde beheersplan in te dienen, als de aanpassing van het goedgekeurd beheersplan wenselijk is in het kader van een optimaler beheer van de erfgoedwaarden van het gebied of met toepassing van artikel 12, § 2, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten.<br>
+<br>
+De zakelijkrechthouder, de gebruiker of de gevolmachtigde dient binnen een termijn van 180 kalenderdagen na het verzoek, vermeld in het eerste lid, een aanvraag tot aanpassing in bij het behandelende agentschap. Artikel 7, § 3, vierde lid, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten is hierop van overeenkomstige toepassing.<br>
+<br>
+§ 3. De aanvraag tot aanpassing bevat de volgende elementen:<br>
+1° de identificatiegegevens van de zakelijkrechthouder, de gebruiker en/of de gevolmachtigde;<br>
+2° een volmacht;<br>
+3° de afbakening op het kadasterplan van het gebied waarvoor het beheersplan zou worden aangepast;<br>
+4° de motivering van de vraag tot aanpassing en een gecoördineerde versie van de aangepaste delen van het goedgekeurde beheersplan, met aanduiding van de aangepaste gegevens.<br>
+<br>
+§ 4. De aanvraag tot aanpassing van een goedgekeurd geïntegreerd beheersplan wordt behandeld volgens de procedure, vermeld in de artikelen 8.3.5 en 8.3.6.<br>
+<br>
+In afwijking van artikel 8.3.6., § 2 en 3, kan, na gemotiveerd verzoek en na akkoord van het behandelende agentschap, afgezien worden van de verplichte consultatie- en adviesronde, als de aanpassing alleen betrekking heeft op onroerend erfgoed of indien voldaan wordt aan de voorwaarden voor toepassing van de beperkte procedure als vermeld in artikel 12, § 4, derde lid, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten.<br>
+<br>
+Tijdens de consultatie- en adviesronde kunnen alleen bezwaren, opmerkingen en adviezen worden ingediend die betrekking hebben op de te wijzigen gegevens.<br>
+<br>
+De goedkeuring van de aanpassing van een geïntegreerd beheersplan geldt voor de resterende termijn van de oorspronkelijke looptijd van het beheersplan.<br>
+<br>
+§ 5. Een geïntegreerd beheersplan voor een terrein dat ligt in een gebied waarvoor een managementplan Natura 2000 met toepassing van artikel 50septies van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, of een managementplan als vermeld in artikel 48 van hetzelfde decreet, van kracht wordt, en waarvoor wordt vastgesteld dat de aanpassing tot gevolg heeft dat de beheerdoelstellingen voor dat terrein wijzigen, moet worden gewijzigd. Die wijziging vindt uiterlijk plaats bij de eerstvolgende evaluatie van het geïntegreerd beheersplan, vermeld in artikel 8.3.8 van dit besluit.
+
+### ART 8.3.10.
+
+De bepalingen met betrekking tot de opheffing en de overname van het beheer bij een natuurbeheerplan, vermeld in hoofdstuk 2, afdeling 6, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten zijn van overeenkomstige toepassing op het geïntegreerde beheersplan.
+
 ## [Onderafdeling 10 Beroepsprocedure (ing. BVR 14 juli 2017, art. 52, I: 28 oktober 2017)]
+
+### ART 8.3.11.
+
+De zakelijkrechthouder, de gebruiker of de gevolmachtigde kan tegen de beslissingen, genomen met toepassing van deze onderafdeling, een georganiseerd administratief beroep instellen bij de Vlaamse Regering.<br>
+<br>
+Een beroepschrift wordt met een beveiligde zending ingesteld binnen een termijn van dertig kalenderdagen, die ingaat op dag na de kennisgeving van de beslissing of, in geval van een stilzwijgende beslissing na het verstrijken van de uitgetrokken beslissingstermijn, vanaf de dag die volgt op het verstrijken van die termijn.<br>
+<br>
+Het beroepschrift bestaat minstens uit een gemotiveerd verzoekschrift met vermelding van de datum en het referentienummer van de bestreden beslissing.<br>
+<br>
+De Vlaamse Regering kan bij de Commissie en bij de adviesinstantie, vermeld in artikel 16undecies, § 2, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, over het beroep advies inwinnen. De Commissie en de adviesinstantie beschikken over een termijn van dertig kalenderdagen, die ingaat op de dag na de ontvangst van de adviesvraag, om over het beroep een advies uit te brengen. Als het advies niet tijdig wordt verleend, wordt aan de adviesvraag voorbijgegaan.<br>
+<br>
+De Vlaamse Regering neemt een beslissing over het beroep binnen een termijn van zestig kalenderdagen, die ingaat de dag na de ontvangst van het beroepschrift. Als er geen beslissing wordt genomen binnen de toepasselijke vervaltermijn wordt, er van uitgegaan dat het beroep afgewezen is. De beslissing wordt onverwijld met een beveiligde zending aan de indiener van het beroep bezorgd.
 
 ## [Afdeling 4 Open Erfgoed (ing. BVR. 4 december 2015, art. 25, I: 1 januari 2016)]
 
