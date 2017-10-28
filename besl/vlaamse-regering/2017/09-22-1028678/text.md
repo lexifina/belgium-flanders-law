@@ -17,6 +17,38 @@ Op voorstel van de Vlaamse minister van Werk, Economie, Innovatie en Sport;<br>
 Na beraadslaging,<br>
 Besluit :
 
+### ART 1.
+
+In artikel 1, 5°, van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet wordt tussen het woord "of" en de woorden "het pleegkind" de zinsnede "het kind van wie het personeelslid, of de partner met wie het personeelslid gehuwd is of een verklaring van wettelijke samenwoning heeft afgelegd de pleegvoogd is vermeld in artikel 475ter tot en met 475septies van het Burgerlijk Wetboek of" ingevoegd.
+
+### ART 2.
+
+Aan artikel 2, eerste lid, van hetzelfde besluit worden een punt 19° tot en met 24° toegevoegd, die luiden als volgt:<br>
+<br>
+"19° de personeelsleden van het Eigen Vermogen Instituut voor Landbouw- en Visserijonderzoek, vermeld in artikel 39 van het decreet van 23 december 2005 houdende bepalingen tot begeleiding van de begroting 2006;<br>
+20° de personeelsleden van het Eigen Vermogen Instituut voor Natuur- en Bosonderzoek, vermeld in artikel 30 van het decreet van 23 december 2005 houdende bepalingen tot begeleiding van de begroting 2006;<br>
+21° de personeelsleden van Natuurinvest, Ondersteunend Centrum van het Agentschap voor Natuur en Bos, vermeld in artikel 34 van het decreet van 19 mei 2006 houdende diverse bepalingen inzake leefmilieu en energie;<br>
+22° de personeelsleden van het Eigen Vermogen Flanders Hydraulics, vermeld in artikel 5 van het decreet van 31 januari 2003 betreffende de oprichting van een Eigen Vermogen "Flanders Hydraulics";<br>
+23° de personeelsleden van het Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 9 van het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen;<br>
+24° de personeelsleden van het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten Antwerpen, vermeld in de wet van 27 juni 1930 waarbij de rechtspersoonlijkheid wordt verleend aan de wetenschappelijke instellingen en kunstinrichtingen welke van het Ministerie van Kunsten en Wetenschappen afhangen of in het koninklijk besluit van 22 september 1931 betreffende het Koninklijk Museum voor Schone Kunsten te Antwerpen - Rechtspersoonlijkheid.".
+
+### ART 3.
+
+In artikel 9 van hetzelfde besluit wordt tussen het eerste en het tweede lid twee leden ingevoegd, die luiden als volgt:<br>
+<br>
+"In afwijking van het eerste lid kan de aanvraag bestaan uit niet gehele maanden in een van de volgende gevallen:<br>
+1° de periode waarvoor zorgkrediet wordt aangevraagd, eindigt de dag voordat het kind voor wie zorgkrediet wordt opgenomen, de leeftijd van dertien jaar bereikt;<br>
+2° het zorgkrediet wordt opgenomen om een opleiding te volgen conform artikel 7;<br>
+3° het tijdelijke personeelslid vermeld in artikel 2, eerste lid, 2°, 3°, 4°, 5°, 6°, 7° of 8°, neemt zorgkrediet op dat start na 1 april en afloopt omdat de tijdelijke aanstelling wordt beëindigd op het einde van het schooljaar.<br>
+<br>
+Een tijdelijk personeelslid als vermeld in artikel 2, eerste lid, 2°, 3°, 4°, 5°, 6°, 7° of 8°, kan zorgkrediet aanvragen voor minder dan drie maanden als het zorgkrediet start na 1 april en afloopt omdat de tijdelijke aanstelling wordt beëindigd op het einde van het schooljaar."
+
+### ART 4.
+
+Aan artikel 19 van hetzelfde besluit wordt een punt 9° toegevoegd, dat luidt als volgt:<br>
+<br>
+"9° de authentieke overeenkomst waarbij de pleegvoogdij tot stand komt en bekrachtigd is conform artikel 475ter van het Burgerlijk Wetboek.".
+
 ### ART 5.
 
 In artikel 37 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
@@ -33,3 +65,19 @@ In artikel 37 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<
 <br>
 6° in het derde lid wordt tussen de zinsnede "na 2 september 2016" en het woord "stopzetten" de zinsnede "of na hun overdracht aan het Vlaamse Gewest of de Vlaamse<br>
 Gemeenschap op 1 januari 2017 ingevolge het koninklijk besluit van 25 december 2016 tot overdracht van personeelsleden van de Rijksdienst voor arbeidsvoorziening naar het Vlaams Gewest voor de personeelsleden gedetacheerd in de plaatselijke werkgelegenheidsagentschappen in de gemeenten of het koninklijk besluit van 25 december 2016 tot overdracht van personeelsleden van de Rijksdienst voor arbeidsvoorziening naar het Vlaams Gewest voor de personeelsleden die de opdracht PWA-coördinatie uitoefenen " ingevoegd.
+
+### ART 6.
+
+In hetzelfde besluit wordt een artikel 37/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 37/1. De beslissingen ingegaan vóór datum van inwerkingtreding van het besluit van de Vlaamse Regering van 22 september 2017 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet en die betrekking hebben op de personeelsleden vermeld in artikel 2, eerste lid, 19°, 20°, 21°, 22°, 23° of 24° van dit besluit en zijn genomen ter uitvoering van artikel 3, 5, 6, 7, 8, § 1, artikel 8bis, 9 en 11, zoals van kracht vóór 2 september 2016, van het koninklijk besluit van 2 januari 1991 betreffende de toekenning van onderbrekingsuitkeringen, met betrekking tot een volledige schorsing of vermindering van de beroepsloopbaan, blijven van kracht voor de toegestane periode. De beslissingen ingegaan vóór datum van inwerkingtreding van het besluit van de Vlaamse Regering van 22 september 2017 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet en die betrekking hebben op de personeelsleden vermeld in artikel 2, eerste lid, 19°, 20°, 21°, 22°, 23° of 24° van dit besluit en zijn genomen ter uitvoering van artikel 8, § 2, § 3 en § 4, zoals van kracht vóór 2 september 2016, van het koninklijk besluit van 2 januari 1991 betreffende de toekenning van onderbrekingsuitkeringen, blijven van kracht tot aan de effectieve datum van het pensioen. De personeelsleden vermeld in artikel 2, eerste lid, 19°, 20°, 21°, 22°, 23° of 24° van dit besluit en die vóór datum van inwerkingtreding van het besluit van de Vlaamse Regering van 22 september 2017 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet een onderbrekingsuitkering ontvangen ter uitvoering van artikel 8, § 2, § 3 of § 4, zoals van kracht vóór 2 september 2016, van het koninklijk besluit van 2 januari 1991 betreffende de toekenning van onderbrekingsuitkeringen en die de onderbrekingsuitkering stopzetten na datum van inwerkingtreding van het besluit van de Vlaamse Regering van 22 september 2017 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet om palliatieve zorgen te verlenen als vermeld in artikel 100bis of 102bis van de Herstelwet van 22 januari 1985 houdende sociale bepalingen, behouden het recht op een onderbrekingsuitkering ter uitvoering van artikel 8, § 2, § 3 en § 4, zoals van kracht vóór 2 september 2016, van het koninklijk besluit van 2 januari 1991 betreffende de toekenning van onderbrekingsuitkeringen.<br>
+<br>
+De beslissingen ingegaan vóór datum van inwerkingtreding van het besluit van de Vlaamse Regering van 22 september 2017 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet en die betrekking hebben op de personeelsleden vermeld in artikel 2, eerste lid, 19°, 20°, 21°, 22°, 23° of 24° van dit besluit en zijn genomen ter uitvoering van artikel 4, 5, 6, 7, en 21, zoals van kracht vóór 2 september 2016, van het koninklijk besluit van 7 mei 1999 betreffende de onderbreking van de beroepsloopbaan van het personeel van de besturen, met betrekking tot een volledige schorsing of vermindering van de beroepsloopbaan, blijven van kracht voor de toegestane periode. De beslissingen ingegaan vóór datum van inwerkingtreding van het besluit van de Vlaamse Regering van 22 september 2017 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet die betrekking hebben op de personeelsleden vermeld in artikel 2, eerste lid, 19°, 20°, 21°, 22°, 23° of 24° van dit besluit en zijn genomen ter uitvoering van artikel 8 en 8bis, zoals van kracht vóór 2 september 2016, van het koninklijk besluit van 7 mei 1999 betreffende de onderbreking van de beroepsloopbaan van het personeel van de besturen, blijven van kracht tot aan de effectieve datum van het pensioen. De personeelsleden vermeld in artikel 2, eerste lid, 19°, 20°, 21°, 22°, 23° of 24° van dit besluit en die vóór datum van inwerkingtreding van het besluit van de Vlaamse Regering van 22 september 2017 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet een onderbrekingsuitkering ontvangen ter uitvoering van artikel 8 en 8bis, zoals van kracht vóór 2 september 2016, van het koninklijk besluit van 7 mei 1999 betreffende de onderbreking van de beroepsloopbaan van het personeel van de besturen en die de onderbrekingsuitkering stopzetten na datum van inwerkingtreding van het besluit van de Vlaamse Regering van 22 september 2017 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet om palliatieve zorgen te verlenen als vermeld in artikel 100bis of 102bis van de Herstelwet van 22 januari 1985 houdende sociale bepalingen, behouden het recht op een onderbrekingsuitkering ter uitvoering van artikel 8 en 8bis, zoals van kracht vóór 2 september 2016, van het koninklijk besluit van 7 mei 1999 betreffende de onderbreking van de beroepsloopbaan van het personeel van de besturen.
+
+### ART 7.
+
+Artikel 5 heeft uitwerking met ingang van 2 september 2016.
+
+### ART 8.
+
+De Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, is belast met de uitvoering van dit besluit.
