@@ -499,6 +499,13 @@ Aan artikel 19 van het decreet van 4 mei 1994 betreffende het publiekrechtelijk 
 
 ## HOOFDSTUK 13 Wijzigingen van het decreet van 21 oktober 1997 op het natuurbehoud en het natuurlijk milieu
 
+### ART 43.
+
+In artikel 16sedecies, § 2, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, ingevoegd bij het decreet van 9 mei 2014, wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+"Met behoud van de toepassing van de mogelijkheid tot terugvordering van subsidies, vermeld in artikel 16decies, § 1 en § 2, en artikel 16quaterdecies, § 3, voorziet de Vlaamse Regering nog in andere mogelijkheden om subsidies geheel of gedeeltelijk terug te vorderen, namelijk in de volgende gevallen:<br>
+1° als blijkt dat een begunstigde van subsidies, verleend op basis van dit artikel, andere subsidies voor dezelfde activiteit heeft verkregen, waardoor de totale subsidies 100% van de totale aangetoonde kostprijs van de gesubsidieerde activiteit overschrijden;<br>
+2° als blijkt dat een begunstigde van subsidies, verleend op basis van dit artikel, niet langer voldoet aan de vereisten om in aanmerking te komen voor die subsidies.".
+
 ### ART 44.
 
 In artikel 36ter van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
