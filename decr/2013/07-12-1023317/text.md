@@ -900,6 +900,12 @@ De onroerenderfgoedrichtplannen zijn de sectorale voorstellen voor   inrichtings
 
 <P>De opmaak en de uitvoering van een beheersplan voor onroerend erfgoed en   erfgoedlandschappen kunnen worden begeleid door een beheerscommissie.<BR></P>  <P>De Vlaamse Regering kan onroerende goederen aanduiden waarvoor de oprichting   van een beheerscommissie verplicht is.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels voor de oprichting, de   samenstelling en de werking van beheerscommissies.<BR></P>
 
+### ART. 8.1.3.
+
+<p>Als voor een onroerend goed naast een beheersplan als vermeld in artikel 8.1.1 ook een natuurbeheerplan in het kader van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu wordt opgemaakt, worden alle beheersdoelstellingen voor dat onroerend goed in één plan geïntegreerd.</p>
+
+<p>De Vlaamse Regering kan daarvoor de nadere regels bepalen en afwijken of in een aanvulling voorzien van wat daarvoor is voorzien in dit decreet, in het Bosdecreet van 13 juni 1990 of in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.</p>
+
 ## HOOFDSTUK 9 Prijzen
 
 ### ART. 9.1.1.
