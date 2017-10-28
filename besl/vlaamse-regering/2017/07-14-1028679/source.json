@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028679,
+  "title": "Besluit van de Vlaamse Regering van 2017-07-14 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028679/VolledigDocument?datum=2017-10-28",
+  "source_sha256": "05e0f1c9813d0a190626942ad6e10d27b2aae1e2e943ef4fdd3d48ed0efaac4f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028679&param=informatie",
+  "as_of": "2017-10-28",
+  "made": "2017-07-14",
+  "gazette": "2017-10-18",
+  "numac": 2017013299,
+  "document_start": "2017-10-28",
+  "document_end": null,
+  "in_force": "2017-10-28",
+  "article_versions": 63,
+  "record_form": "consolidated version as in force on 2017-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
