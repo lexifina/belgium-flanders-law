@@ -114,6 +114,7 @@ De leden van de Vlaamse regering zijn, ieder wat hem betreft, belast met de uitv
 - de kapitaalschadecommissies vermeld in artikel 2 van het besluit van de Vlaamse Regering van 3 juli 2009 tot oprichting van de kapitaalschadecommissies en tot regeling van de kapitaalschadecompensatie ter uitvoering van het decreet grond- en pandenbeleid;<br>
 - Vlaamse Commissie voor Varend Erfgoed;<br>
 - de deskundigen van de Gewestelijke Omgevingsvergunningscommissie.<br>
+- de adviesinstantie, vermeld in artikel 16decies, § 1 en § 2, en artikel 16undecies, § 2, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 <br>
 8. Betrekkingen:<br>
 - Vlaamse Unesco Commissie.<br>
