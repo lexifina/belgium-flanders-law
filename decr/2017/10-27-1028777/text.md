@@ -8,6 +8,11 @@
 
 ## Afdeling 2 Wijzigingen van het Bosdecreet van 13 juni 1990
 
+### ART 4.
+
+In artikel 47 van het Bosdecreet van 13 juni 1990, vervangen bij het decreet van 21 oktober 1997 en het laatst gewijzigd bij het decreet van 9 mei 2014, wordt de zinsnede "Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed" vervangen door de woorden "Departement Omgeving".<br>
+&nbsp;
+
 ## Afdeling 3 Wijzigingen van het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning
 
 ## Afdeling 4 Wijzigingen aan het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid

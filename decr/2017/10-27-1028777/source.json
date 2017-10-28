@@ -2,16 +2,16 @@
   "codex_id": 1028777,
   "title": "Decreet van 2017-10-27 houdende omvorming van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed en het beleidsdomein Leefmilieu, Natuur en Energie naar het beleidsdomein Omgeving en van de betrokken departementen naar het Departement Omgeving",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028777/VolledigDocument?datum=2017-02-23",
-  "source_sha256": "073d1a28a15f670d3fd2f513e273c5ec04a03611d85a8f9dc363f8026e2d6444",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028777/VolledigDocument?datum=2017-10-28",
+  "source_sha256": "a55d9423688867c2abf52d21235a866af1e3fd164327b574710e45ff03b20a1e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028777&param=informatie",
-  "as_of": "2017-02-23",
+  "as_of": "2017-10-28",
   "made": "2017-10-27",
   "gazette": "2017-11-27",
   "numac": 2017014100,
   "document_start": "2017-12-07",
   "document_end": null,
-  "in_force": "2017-02-23",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2017-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2017-10-28",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-10-28; future article versions excluded; article text as the API gives it"
 }
