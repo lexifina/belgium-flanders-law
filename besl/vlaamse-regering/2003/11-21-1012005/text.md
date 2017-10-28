@@ -4,21 +4,41 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het   decreet: het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu;<BR>2° ...<BR>3° akkerland: gronden die een actueel gebruik   hebben als akkerbouwteelten inclusief groenbemesters en tijdelijk raaigrasland,   tuinbouwteelten, boomteelten en laagstamfruitteelten en die aangegeven zijn als   cultuurgrond bij de Mestbank.<BR>4° overstort: kunstwerk in het rioolstelsel   waarmee overtollig rioolwater, meestal door hemelwater aangevoerd, kan worden   geloosd;<BR>5° beheersplan: elk document met een geheel van maatregelen voor het   beheer van grondoppervlakten of populaties, uitgaande van de bestaande toestand,   de vooruitzichten en de nagestreefde doelstellingen zoals onder meer een   bosbeheersplan, wildbeheersplan, afschotplan, natuurbeheersplan,   landschapsbeheersplan;<BR>6° bosbeheersplan: een beheersplan voor bossen   goedgekeurd met toepassing van het Bosdecreet van 13 juni 1990;<BR>7°   inrichtingsplan: elk document met een geheel van maatregelen, gericht op het   vrijwaren, herwaarderen en het meer geschikt maken van grondoppervlakken en   kleine landschapselementen voor een in dat document bepaalde functie;<BR>8°   woonperceel: het terrein waarop een woning is gebouwd en de omringende   tuin;<BR>9° bedrijfsperceel: de terreinen die behoren bij de bedrijfsgebouwen en   met deze bedrijfsgebouwen een ononderbroken ruimtelijk geheel vormen met een   straal van maximaal 50 m rond de vergunde bedrijfsgebouwen. Dit omvat de   gebouwen, waarbinnen de bedrijfsactiviteiten plaatsvinden, de bijhorende loodsen   en opslagruimten en de parkeerruimte. Het bedrijfsperceel omvat geen   graasweides, akkers, ontginningen, schuilhokken en dergelijke;<BR>10°   hoofdzakelijk vergunde woning of bedrijf : de woningen of bedrijven die   ingevolge de Vlaamse Codex Ruimtelijke Ordening hoofdzakelijk vergund   zijn;<BR>11° cultuurgewas: een gewas dat verbouwd wordt voor economische   doeleinden, inclusief braakgronden kaderend in het Europees landbouwbeleid, met   uitzondering van historisch permanent grasland en van bossen conform het   Bosdecreet;<BR>12° cultuurgrond: gronden aangegeven bij de mestbank zoals   voorzien in het decreet van 23 januari 1991 inzake de bescherming van het   leefmilieu tegen de verontreiniging door meststoffen;<BR>13° meststof: elke één   of meer stikstof- en/of fosforverbindingen bevattende stof die op het land wordt   gebruikt ter bevordering van de gewasgroei, met inbegrip van dierlijke mest,   afval van visteeltbedrijven en zuiveringsslib; deze meststoffen omvatten aldus   inzonderheid de dierlijke mest, de chemische meststoffen en de andere   meststoffen;<BR>14° gebruiker: hij die ofwel als eigenaar, vruchtgebruiker,   erfpachter, opstalhouder of houder van een recht van gebruik of bewoning het   onroerend goed exploiteert of met toestemming van een van hen, het onroerend   goed pacht of huurt;<BR>15° permanent grasland: de cultuurgrond die minimum vier   jaar ononderbroken grasland is;<BR>16° classificatieplan: document dat in het   kader van de vergoeding voor de verhoging van het waterpeil de betrokken gronden   indeelt in waardeklassen op basis van de waarde die elk van deze gronden heeft   voor bosbouw of voor het verbouwen van cultuurgewassen;<BR>17° het Agentschap :   het Agentschap voor Natuur en Bos;<BR>18° erkende terreinbeherende   natuurvereniging: een vereniging, erkend als terreinbeherende natuurvereniging   in uitvoering van artikel 36, § 7 van het decreet;<BR>19° het Bosdecreet: het   decreet van 13 juni 1990 Bosdecreet.<BR>20° de Vlaamse Grondenbank : afdeling   van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006   betreffende het oprichten van de Vlaamse Grondenbank en houdende wijziging van   diverse bepalingen.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° het decreet: het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+2° ...<br>
+3° akkerland: gronden die een actueel gebruik hebben als akkerbouwteelten inclusief groenbemesters en tijdelijk raaigrasland, tuinbouwteelten, boomteelten en laagstamfruitteelten en die aangegeven zijn als cultuurgrond bij de Mestbank.<br>
+4° overstort: kunstwerk in het rioolstelsel waarmee overtollig rioolwater, meestal door hemelwater aangevoerd, kan worden geloosd;<br>
+5° beheersplan: elk document met een geheel van maatregelen voor het beheer van grondoppervlakten of populaties, uitgaande van de bestaande toestand, de vooruitzichten en de nagestreefde doelstellingen zoals onder meer een bosbeheersplan, wildbeheersplan, afschotplan, natuurbeheersplan, landschapsbeheersplan;<br>
+6° bosbeheersplan: een beheersplan voor bossen goedgekeurd met toepassing van het Bosdecreet van 13 juni 1990;<br>
+7° inrichtingsplan: elk document met een geheel van maatregelen, gericht op het vrijwaren, herwaarderen en het meer geschikt maken van grondoppervlakken en kleine landschapselementen voor een in dat document bepaalde functie;<br>
+8° woonperceel: het terrein waarop een woning is gebouwd en de omringende tuin;<br>
+9° bedrijfsperceel: de terreinen die behoren bij de bedrijfsgebouwen en met deze bedrijfsgebouwen een ononderbroken ruimtelijk geheel vormen met een straal van maximaal 50 m rond de vergunde bedrijfsgebouwen. Dit omvat de gebouwen, waarbinnen de bedrijfsactiviteiten plaatsvinden, de bijhorende loodsen en opslagruimten en de parkeerruimte. Het bedrijfsperceel omvat geen graasweides, akkers, ontginningen, schuilhokken en dergelijke;<br>
+10° hoofdzakelijk vergunde woning of bedrijf : de woningen of bedrijven die ingevolge de Vlaamse Codex Ruimtelijke Ordening hoofdzakelijk vergund zijn;<br>
+11° cultuurgewas: een gewas dat verbouwd wordt voor economische doeleinden, inclusief braakgronden kaderend in het Europees landbouwbeleid, met uitzondering van historisch permanent grasland en van bossen conform het Bosdecreet;<br>
+12° cultuurgrond: gronden aangegeven bij de mestbank zoals voorzien in het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen;<br>
+13° meststof: elke één of meer stikstof- en/of fosforverbindingen bevattende stof die op het land wordt gebruikt ter bevordering van de gewasgroei, met inbegrip van dierlijke mest, afval van visteeltbedrijven en zuiveringsslib; deze meststoffen omvatten aldus inzonderheid de dierlijke mest, de chemische meststoffen en de andere meststoffen;<br>
+14° gebruiker: hij die ofwel als eigenaar, vruchtgebruiker, erfpachter, opstalhouder of houder van een recht van gebruik of bewoning het onroerend goed exploiteert of met toestemming van een van hen, het onroerend goed pacht of huurt;<br>
+15° permanent grasland: de cultuurgrond die minimum vier jaar ononderbroken grasland is;<br>
+16° classificatieplan: document dat in het kader van de vergoeding voor de verhoging van het waterpeil de betrokken gronden indeelt in waardeklassen op basis van de waarde die elk van deze gronden heeft voor bosbouw of voor het verbouwen van cultuurgewassen;<br>
+17° het Agentschap : het Agentschap voor Natuur en Bos;<br>
+18° erkende terreinbeherende natuurvereniging : erkende terreinbeherende natuurvereniging als vermeld in artikel 2, punt 16°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+19° het Bosdecreet: het decreet van 13 juni 1990 Bosdecreet.<br>
+20° de Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen.
 
 ## HOOFDSTUK II [ALGEMENE BEPALINGEN BETREFFENDE NATUURRICHTPLANNEN, MANAGEMENTPLANNEN EN MANAGEMENTPLANNEN NATURA 2000 (verv. BVR 14 juli 2017, art. 41, I: 28 oktober 2017)]
 
 ### ART. 2.
 
-Geen enkele subsidie kan worden verleend door een administratieve overheid voor om het even welk werk of activiteit die in strijd is met de bindende bepalingen van een goedgekeurd natuurrichtplan.
+Geen enkele subsidie kan worden verleend door een administratieve overheid voor om het even welk werk of activiteit die in strijd is met de bindende bepalingen van een goedgekeurd natuurrichtplan of met de bepalingen van een managementplan Natura 2000 of een managementplan.
 
 ### ART. 3.
 
-Een beheersplan of een inrichtingsplan kan niet worden goedgekeurd door de bevoegde administratieve overheid indien de bepalingen van dat plan in strijd zijn met de bindende bepalingen van het goedgekeurd natuurrichtplan.
+Een beheersplan of een inrichtingsplan kan niet worden goedgekeurd door de bevoegde administratieve overheid indien de bepalingen van dat plan in strijd zijn met de bindende bepalingen van het goedgekeurd natuurrichtplan of met de bepalingen van een managementplan Natura 2000 of een managementplan.
 
 ### ART. 4.
 
-Onverminderd art. 48, § 4, van het decreet draagt een administratieve overheid er zorg voor dat een activiteit, in het geval van een vergunningsplichtige activiteit of een activiteit waarvoor een kennisgeving of melding aan deze overheid vereist is, niet strijdig is met de bindende bepalingen van een goedgekeurd natuurrichtplan, in voorkomend geval, door het opleggen van voorwaarden, of door de activiteit niet toe te staan.
+De administratieve overheid draagt er zorg voor dat een activiteit, in het geval van een vergunningsplichtige activiteit of een activiteit waarvoor een kennisgeving of melding aan deze overheid vereist is, niet strijdig is met de bindende bepalingen van een goedgekeurd natuurrichtplan of met de bepalingen van een managementplan Natura 2000 of een managementplan, in voorkomend geval, door het opleggen van voorwaarden, of door de activiteit niet toe te staan.
 
 ## HOOFDSTUK III ALGEMENE BESCHERMINGSVOORSCHRIFTEN
 
@@ -28,7 +48,16 @@ Onverminderd art. 48, § 4, van het decreet draagt een administratieve overheid 
 
 ### ART. 6.
 
-Volgende activiteiten zijn verboden in gebieden behorende tot een GEN of GENO:<br /><br />1° het kunstmatig zaaien, aanplanten of op elke ander wijze introduceren van niet-inheemse planten, inclusief bomen en struiken, uitgezonderd:<br /><br />a) indien voorzien in een goedgekeurd beheersplan;<br /><br />b) indien het cultuurgewassen op cultuurgronden betreft;<br /><br />c) indien het laanbeplantingen met populieren betreft;<br /><br />d) indien het hoogstamboomgaarden betreft;<br /><br />e) omwille van specifieke cultuurhistorische redenen.<br /><br />2° bij het beheer van bossen in de zin van artikel 3, §§ 1 en 2 van het Bosdecreet af te wijken van de criteria voor duurzaam bosbeheer zoals vastgesteld in uitvoering van artikel 41 van het Bosdecreet, uitgezonderd indien voorzien in een goedgekeurd beheersplan conform het Bosdecreet;<br /><br />3° het scheuren van permanent grasland;<br /><br />4° strandvisserij te beoefenen met behulp van warrelnetten.
+Volgende activiteiten zijn verboden in gebieden behorende tot een GEN of GENO:<br>
+1° het kunstmatig zaaien, aanplanten of op elke ander wijze introduceren van niet-inheemse planten, inclusief bomen en struiken, uitgezonderd:<br>
+a) indien voorzien in een goedgekeurd beheersplan;<br>
+b) indien het cultuurgewassen op cultuurgronden betreft;<br>
+c) indien het laanbeplantingen met populieren betreft;<br>
+d) indien het hoogstamboomgaarden betreft;<br>
+e) omwille van specifieke cultuurhistorische redenen.<br>
+2° ...<br>
+3° het scheuren van permanent grasland;<br>
+4° strandvisserij te beoefenen met behulp van warrelnetten.
 
 ## HOOFDSTUK IV BEHEERSVOORSCHRIFTEN VOOR DE ADMINISTRATIEVE OVERHEDEN
 
@@ -326,11 +355,17 @@ De eigenaar, gebruiker of vruchtgebruiker kan binnen dertig dagen na verzending 
 
 ### ART. 61.
 
-De eigenaar van een onroerend goed dat gelegen is in een GEN of GENO of in een speciale beschermingszone kan binnen een periode van twee jaar na de definitieve afbakening van het GEN of GENO of binnen een periode van twee jaar na de aanwijzing van de speciale beschermingszone of binnen twee jaar na de goedkeuring van het natuurrichtplan voor het betreffende GEN of GENO of de betreffende speciale beschermingszone, de verwerving van het onroerend goed eisen van de Vlaamse Grondenbank.
+De eigenaar van een onroerend goed dat gelegen is in een GEN of GENO of in een speciale beschermingszone kan binnen een periode van twee jaar na de definitieve afbakening van het GEN of GENO of binnen een periode van twee jaar na de opname van het onroerend goed in een vastgesteld managementplan Natura 2000 of een vastgestelde planversie als vermeld in artikel 50octies, § 1, van het decreet of binnen twee jaar na de goedkeuring van het natuurrichtplan voor het betreffende GEN of GENO of de betreffende speciale beschermingszone, de verwerving van het onroerend goed eisen van de Vlaamse Grondenbank.
 
 ### ART. 62.
 
-De Vlaamse Grondenbank gaat in eigen naam en voor eigen rekening over tot de gedwongen aankopen en treedt op bij eventuele betwistingen over de gedwongen aankopen.<br /><br />De onroerende goederen, aangekocht in het kader van een gedwongen aankoop, vormen een patrimonium van de Vlaamse Landmaatschappij dat gescheiden is van andere patrimonia die de Vlaamse Landmaatschappij in het kader van haar opdrachten administratief beheert.<br /><br />De Vlaamse Grondenbank beheert administratief de zakelijke rechten op die onroerende goederen tot aan de overdracht aan de bevoegde administratieve overheid van het Vlaamse Gewest of aan een door die overheid aangewezen natuurlijke persoon of rechtspersoon.<br /><br />De Vlaamse Grondenbank wijst, als die gronden vrij van gebruik zijn, de gebruiksrechten van die onroerende goederen toe aan het Agentschap. Het Agentschap kan het beheer van de onroerende goederen overdragen.<br /><br />De onroerende goederen, aangekocht in het kader van een gedwongen aankoop, worden in de regel aangewezen als Vlaams natuurreservaat, bosreservaat of domeinbos of, ze worden, na gebruiksoverdracht aan een erkende terreinbeherende natuurvereniging, erkend als natuurreservaat.
+De Vlaamse Grondenbank gaat in eigen naam en voor eigen rekening over tot de gedwongen aankopen en treedt op bij eventuele betwistingen over de gedwongen aankopen.<br>
+<br>
+De onroerende goederen, aangekocht in het kader van een gedwongen aankoop, vormen een patrimonium van de Vlaamse Landmaatschappij dat gescheiden is van andere patrimonia die de Vlaamse Landmaatschappij in het kader van haar opdrachten administratief beheert.<br>
+<br>
+De Vlaamse Grondenbank beheert administratief de zakelijke rechten op die onroerende goederen tot aan de overdracht aan de bevoegde administratieve overheid van het Vlaamse Gewest of aan een door die overheid aangewezen natuurlijke persoon of rechtspersoon.<br>
+<br>
+De Vlaamse Grondenbank wijst, als die gronden vrij van gebruik zijn, de gebruiksrechten van die onroerende goederen toe aan het Agentschap. Het Agentschap kan het beheer van de onroerende goederen overdragen aan een beheerder van een terrein van type vier.
 
 ## ONDERAFDELING B VOORWAARDEN EN PROCEDURE VOOR DE KOOPPLICHT
 
