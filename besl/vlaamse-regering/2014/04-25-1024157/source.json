@@ -2,16 +2,16 @@
   "codex_id": 1024157,
   "title": "Besluit van de Vlaamse Regering van 2014-04-25 houdende vaststelling van de voorwaarden waaronder de jacht kan worden uitgeoefend [citeeropschrift: \"het Jachtvoorwaardenbesluit van 25 april 2014\"]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024157/VolledigDocument?datum=2016-06-22",
-  "source_sha256": "3abc4be11a54716be43f9ac33550f7c8b7bd05d72c05af79527d39aa17db33a8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024157/VolledigDocument?datum=2017-10-28",
+  "source_sha256": "f9438caebcb7c80c347841734705284b6b0a9ffeaa0f2ebf587a36981d2c2afd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024157&param=informatie",
-  "as_of": "2016-06-22",
+  "as_of": "2017-10-28",
   "made": "2014-04-25",
   "gazette": "2014-06-12",
   "numac": 2014035606,
   "document_start": "2014-07-01",
   "document_end": null,
-  "in_force": "2016-06-22",
+  "in_force": "2017-10-28",
   "article_versions": 73,
-  "record_form": "consolidated version as in force on 2016-06-22; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-10-28; future article versions excluded; article text as the API gives it"
 }
