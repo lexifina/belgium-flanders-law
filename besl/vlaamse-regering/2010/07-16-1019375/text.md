@@ -262,6 +262,7 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor vo
 5° het plaatsen of herinrichten van kleinschalige faunavoorzieningen;<br>
 6° het aanleggen of herinrichten van infiltratie- of buffervoorzieningen met een maximale oppervlakte van 100 vierkante meter;<br>
 7° het aanleggen of herinrichten van poelen in functie van natuur- of landschapsbeheer met een maximale oppervlakte van 100 vierkante meter.<br>
+<br>
 De vrijstelling, vermeld in het eerste lid, geldt alleen voor handelingen ter uitvoering van:<br>
 1° een ingesteld landinrichtingsproject als vermeld in artikel 3.1.1 van het decreet van 28 maart 2014 betreffende de landinrichting;<br>
 2° een ingesteld natuurinrichtingsproject als vermeld in artikel 47 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
@@ -272,7 +273,8 @@ De vrijstelling, vermeld in het eerste lid, geldt alleen voor handelingen ter ui
 7° een nuttig verklaarde ruilverkaveling met toepassing van artikel 14 van de wet van 10 januari 1978 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen in der minne;<br>
 8° een goedgekeurd beheersplan op basis van artikel 43 van het Bosdecreet van 13 juni 1990;<br>
 9° een goedgekeurd beheersplan op basis van artikel 34 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
-10° een goedgekeurd beheersplan zoals bedoeld in artikel 8.1.1. of artikel 8.1.3. van het Onroerenderfgoeddecreet van 12 juli 2013.
+10° een goedgekeurd beheersplan zoals bedoeld in artikel 8.1.1. of artikel 8.1.3. van het Onroerenderfgoeddecreet van 12 juli 2013.<br>
+11° een goedgekeurd natuurbeheerplan op basis van artikel 16octies van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.
 
 ### ART 6.3.
 
