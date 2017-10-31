@@ -119,7 +119,21 @@ De ecologie-investeringen kunnen ook uitgevoerd worden door een   patrimoniumven
 
 ### ART. 19.
 
-De volgende ecologie-investeringen komen niet in aanmerking :<BR>1° de   ecologie-investeringen, voorheen geactiveerd en opgenomen in de   afschrijvingstabel, die verworven worden van :<BR>a) een onderneming waarin de   steunaanvragende onderneming rechtstreeks of onrechtstreeks participeert;<BR>b)   een onderneming die rechtstreeks of onrechtstreeks participeert in de   steunaanvragende onderneming;<BR>c) een verwante patrimoniumvennootschap;<BR>2°   de ecologie-investeringen die verworven worden van een zaakvoerder, een   bestuurder of een aandeelhouder van de steunaanvragende onderneming;<BR>3° de   ecologie-investeringen die in geval van aankoop niet verworven worden in volle   eigendom;<BR>4° de ecologie-investeringen met betrekking tot de oprichting,   uitbreiding en modernisering&nbsp;van een bedrijvencentrum of een   doorgangsgebouw;<BR>5° de ecologie-investeringen die op een periode van minder   dan drie jaar worden afgeschreven;<BR>6° de ecologie-investeringen die een   onderdeel uitmaken van de ecologie-investeringen, vermeld in artikel 16, derde   lid, van het besluit van de Vlaamse Regering van 17 december 2010;<BR>7° de   ecologie-investeringen, met uitzondering van oplaadsystemen voor elektrische of   hybride vaartuigen of voertuigen, die gratis of onder bezwarende titel ter   beschikking worden gesteld aan derden.<BR><BR>De minister kan, overeenkomstig de   bedoeling van het decreet van 16 maart 2012 en dit besluit, de opsomming van de   niet in aanmerking komende ecologie-investeringen, vermeld in het eerste lid,   aanpassen.<BR><BR>
+De volgende ecologie-investeringen komen niet in aanmerking :<br>
+1° de ecologie-investeringen, voorheen geactiveerd en opgenomen in de afschrijvingstabel, die verworven worden van :<br>
+a) een onderneming waarin de steunaanvragende onderneming rechtstreeks of onrechtstreeks participeert;<br>
+b) een onderneming die rechtstreeks of onrechtstreeks participeert in de steunaanvragende onderneming;<br>
+c) een verwante patrimoniumvennootschap;<br>
+2° de ecologie-investeringen die verworven worden van een zaakvoerder, een bestuurder of een aandeelhouder van de steunaanvragende onderneming;<br>
+3° de ecologie-investeringen die in geval van aankoop niet verworven worden in volle eigendom;<br>
+4° de ecologie-investeringen met betrekking tot de oprichting, uitbreiding en modernisering&nbsp;van een bedrijvencentrum of een doorgangsgebouw;<br>
+5° de ecologie-investeringen die op een periode van minder dan drie jaar worden afgeschreven;<br>
+6° de ecologie-investeringen die een onderdeel uitmaken van de ecologie-investeringen, vermeld in artikel 16, derde lid, van het besluit van de Vlaamse Regering van 17 december 2010;<br>
+7° de ecologie-investeringen, met uitzondering van oplaadsystemen voor elektrische of hybride vaartuigen of voertuigen, die gratis of onder bezwarende titel ter beschikking worden gesteld aan derden;<br>
+8° de ecologie-investeringen die in een periode van minder dan drie jaar worden terugverdiend.<br>
+<br>
+De minister kan, overeenkomstig de bedoeling van het decreet van 16 maart 2012 en dit besluit, de opsomming van de niet in aanmerking komende ecologie-investeringen, vermeld in het eerste lid, aanpassen.<br>
+&nbsp;
 
 ## HOOFDSTUK 4 Steunintensiteit
 
@@ -149,33 +163,33 @@ De subsidie wordt berekend als een percentage van de subsidiabele   investeringe
 		</tr>
 		<tr>
 			<td>A</td>
-			<td>9 - 6</td>
-			<td>25 %</td>
-			<td>12,5 %</td>
+			<td>9</td>
+			<td>50%</td>
+			<td>40%</td>
 		</tr>
 		<tr>
 			<td>B</td>
-			<td>4 - 3</td>
-			<td>10 %</td>
-			<td>5 %</td>
+			<td>6</td>
+			<td>30%</td>
+			<td>15%</td>
 		</tr>
 		<tr>
 			<td>C</td>
-			<td>2</td>
-			<td>0 %</td>
-			<td>0 %</td>
+			<td>3 - 4</td>
+			<td>0%</td>
+			<td>0%</td>
 		</tr>
 		<tr>
 			<td>D</td>
-			<td>1</td>
-			<td>0 %</td>
-			<td>0 %</td>
+			<td>1 - 2</td>
+			<td>0%</td>
+			<td>0%</td>
 		</tr>
 		<tr>
 			<td colspan="4">2° investering op energiegebied:</td>
 		</tr>
 		<tr>
-			<td colspan="4">a) investering ten behoeve van energiebesparende maatregelen</td>
+			<td colspan="4">a) investering in energiebesparende maatregelen</td>
 		</tr>
 		<tr>
 			<td>ecoklasse</td>
@@ -185,30 +199,30 @@ De subsidie wordt berekend als een percentage van de subsidiabele   investeringe
 		</tr>
 		<tr>
 			<td>A</td>
-			<td>9 - 6</td>
-			<td>25 %</td>
-			<td>12,5 %</td>
+			<td>9</td>
+			<td>40%</td>
+			<td>30%</td>
 		</tr>
 		<tr>
 			<td>B</td>
-			<td>4 - 3</td>
-			<td>10 %</td>
-			<td>5 %</td>
+			<td>6</td>
+			<td>30%</td>
+			<td>15%</td>
 		</tr>
 		<tr>
 			<td>C</td>
-			<td>2</td>
-			<td>0 %</td>
-			<td>0 %</td>
+			<td>3 - 4</td>
+			<td>0%</td>
+			<td>0%</td>
 		</tr>
 		<tr>
 			<td>D</td>
-			<td>1</td>
-			<td>0 %</td>
-			<td>0 %</td>
+			<td>1 - 2</td>
+			<td>0%</td>
+			<td>0%</td>
 		</tr>
 		<tr>
-			<td colspan="4">b) investering ten behoeve van energie uit hernieuwbare energiebronnen of hoogrenderende warmte-krachtkoppeling</td>
+			<td colspan="4">b) investering in energie uit hernieuwbare energiebronnen of hoogrenderende warmte-krachtkoppeling</td>
 		</tr>
 		<tr>
 			<td>ecoklasse</td>
@@ -218,93 +232,37 @@ De subsidie wordt berekend als een percentage van de subsidiabele   investeringe
 		</tr>
 		<tr>
 			<td>A</td>
-			<td>9 - 6</td>
-			<td>25 %</td>
-			<td>12,5 %</td>
+			<td>9</td>
+			<td>55%</td>
+			<td>45%</td>
 		</tr>
 		<tr>
 			<td>B</td>
-			<td>4 - 3</td>
-			<td>10 %</td>
-			<td>5 %</td>
+			<td>6</td>
+			<td>30%</td>
+			<td>15%</td>
 		</tr>
 		<tr>
 			<td>C</td>
-			<td>2</td>
-			<td>0 %</td>
-			<td>0 %</td>
+			<td>3 - 4</td>
+			<td>0%</td>
+			<td>0%</td>
 		</tr>
 		<tr>
 			<td>D</td>
-			<td>1</td>
-			<td>0 %</td>
-			<td>0 %</td>
+			<td>1 - 2</td>
+			<td>0%</td>
+			<td>0%</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-<br>
-§ 2. Het subsidiepercentage kan verhoogd worden met een subsidiebonus. De maximale hoogte van de subsidiebonus wordt bepaald op basis van het feit of de onderneming beschikt over een milieu-, energie- of eco-efficiëntiescan, een milieucertificaat of een milieumanagementsysteem op de indieningsdatum van de steunaanvraag, en op basis van de grootte van de onderneming op de indieningsdatum van de steunaanvraag overeenkomstig de volgende tabel :<br>
-&nbsp;
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td>
-			<p>&nbsp;</p>
-			</td>
-			<td>
-			<p>&nbsp;kleine en middelgrote ondernemingen</p>
-			</td>
-			<td>
-			<p>grote ondernemingen</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>een milieu-, energie- of eco-efficiëntiescan</p>
-			</td>
-			<td>
-			<p>5 %</p>
-			</td>
-			<td>
-			<p>0 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>een milieucertificaat</p>
-			</td>
-			<td>
-			<p>5 %</p>
-			</td>
-			<td>
-			<p>0 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>een milieumanagementsysteem</p>
-			</td>
-			<td>
-			<p>10 %</p>
-			</td>
-			<td>
-			<p>5 %</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p><br>
-<br>
-De subsidiebonussen kunnen niet met elkaar gecumuleerd worden.<br>
-<br>
-De minister bepaalt welke en onder welke voorwaarden de milieu-, energie- of eco-efficiëntiescans, milieucertificaten of milieumanagementsystemen in aanmerking komen.<br>
+§ 2. ...<br>
 <br>
 § 3. Het totale bedrag aan toegekende subsidies aan een onderneming bedraagt binnen de perken van de beschikbare begrotingsmiddelen maximaal 1.000.000 euro over een periode van drie jaar.<br>
 <br>
 &nbsp;§ 4. De minister kan de maximale subsidiepercentages, de maximale subsidiebonussen en het maximale subsidiebedrag verlagen en de periode, vermeld inparagraaf 3, verlengen afhankelijk van de budgettaire noodzakelijkheden. Elke aanpassing wordt meegedeeld aan de Vlaamse Regering.<br>
-&nbsp;</p>
+&nbsp;
 
 ## HOOFDSTUK 5 Procedure van de steunaanvraag
 
