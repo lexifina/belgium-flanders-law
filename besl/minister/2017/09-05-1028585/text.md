@@ -75,9 +75,66 @@ Als niet is voldaan aan een of elk van beide voorwaarden, vermeld in het eerste 
 
 ## HOOFDSTUK 3 Het kader voor de lokale woontoets
 
+### ART 4.
+
+Een project dat voorziet in de nieuwbouw van sociale huurwoningen, en een project dat voorziet in de verwerving van een of meer goede woningen, passen in het bindend sociaal objectief van de gemeente als een van de volgende gevallen zich voordoet:<br>
+1° het project ligt in een gemeente die haar objectief voor sociale huurwoningen nog niet heeft behaald en dat niet zal behalen, rekening houdend met het gerealiseerde en geplande sociaal huuraanbod;<br>
+2° het project past in een sociaal woonbeleidsconvenant als vermeld in artikel 4.1.4, § 3, tweede lid, van het decreet Grond- en Pandenbeleid.<br>
+<br>
+Voor de toepassing van het eerste lid worden de volgende gegevens gebruikt:<br>
+1° het gerealiseerde sociaal huuraanbod in de gemeente: het aanbod aan sociale huurwoningen volgens de meest recente jaarlijkse meting van het sociaal huuraanbod, waarbij:<br>
+a) bijkomende sociale huurwoningen van sociale verhuurkantoren sinds de nulmeting pas meetellen als ten minste 90% van het objectief voor sociale huurwoningen is behaald of zal behaald worden, rekening houdend met het gerealiseerde en geplande sociaal huuraanbod;<br>
+b) overdrachten waarvan de verkoopovereenkomst wordt gesloten na 31 oktober 2017, van sociale huurwoningen van een gemeente, OCMW, intergemeentelijk samenwerkingsverband of OCMW-vereniging aan een sociale huisvestingsmaatschappij niet meetellen;<br>
+2° het geplande sociaal huuraanbod in de gemeente: het aanbod aan sociale huurwoningen volgens de meest recente Projectenlijst die de VMSW aan de beoordelingscommissie heeft voorgelegd.
+
+### ART 5.
+
+Een project dat voorziet in de vervangingsbouw van sociale huurwoningen waarbij er sprake is van een toename met meer dan 20% ten opzichte van het huidige aantal sociale huurwoningen op projectniveau, en een project dat een investeringsverrichting omvat waarvoor een vergunning, een melding of een verhuisbeweging is vereist waarbij er sprake is van een toename met meer dan 20% ten opzichte van het huidige aantal sociale huurwoningen op projectniveau, passen binnen het bindend sociaal objectief van de gemeente als een van de gevallen, vermeld in artikel 4, eerste lid, zich voordoet.
+
 ## HOOFDSTUK 4 Het financiële kader
 
+### ART 6.
+
+Bij de opmaak van de meerjarenplanning en de kortetermijnplanning houdt de beoordelingscommissie binnen de perken van de kredieten die daarvoor beschikbaar zijn op de begroting van de Vlaamse Gemeenschap, rekening met:<br>
+1° het beleidsmatig investeringsprogramma, vermeld in artikel 22, § 2, van de Vlaamse Wooncode;<br>
+2° artikel 33, § 3, eerste lid, van de Vlaamse Wooncode;<br>
+3° de aangegane engagementen en overeenkomsten.
+
+### ART 7.
+
+In dit artikel wordt verstaan onder een verrichting:<br>
+1° de nieuwbouw en de verwerving van één of meerdere goede woningen;<br>
+2° de investering in de renovatie, de verbetering of de aanpassing van verworven bebouwde onroerende goederen.<br>
+<br>
+Bij de beslissing over de opname van een verrichting in de meerjarenplanning en de kortetermijnplanning houdt de beoordelingscommissie, respectievelijk de VMSW achtereenvolgens rekening met:<br>
+1° voorrang voor de verrichtingen die deel uitmaken van een CBO-oproep;<br>
+2° de chronologische volgorde volgens de datum waarop de verrichting principieel vatbaar is voor opname in de meerjarenplanning, respectievelijk principieel vatbaar is voor opname in de kortetermijnplanning.
+
+### ART 8.
+
+§ 1. In dit artikel wordt verstaan onder verrichting: de investering in de renovatie, de verbetering of de aanpassing van eigen sociale huurwoningen en vervangingsbouw van sociale huurwoningen.<br>
+<br>
+§ 2. Bij de beslissing over de opname van een verrichting in de meerjarenplanning houdt de beoordelingscommissie rekening met de chronologische volgorde volgens de datum waarop de verrichting principieel vatbaar is voor opname in de meerjarenplanning.<br>
+<br>
+De beoordelingscommissie kan in geval van beperkte budgetten beslissen om voorrang te verlenen aan projecten op basis van de conditiescore die de projecten in het kader van de renovatietoets hebben gekregen of op basis van de veiligheids- en gezondheidsaspecten van de gebouwen of woningen in de projecten.<br>
+<br>
+§ 3. Bij de beslissing over de opname van een verrichting in de kortetermijnplanning houdt de beoordelingscommissie, respectievelijk de VMSW rekening met de chronologische volgorde volgens de datum waarop de verrichting principieel vatbaar is voor opname in de kortetermijnplanning.<br>
+<br>
+De beoordelingscommissie kan in geval van beperkte budgetten beslissen om voorrang te verlenen aan projecten op basis van de conditiescore die de projecten in het kader van de renovatietoets hebben gekregen of op basis van de veiligheids- en gezondheidsaspecten van de gebouwen of woningen in de projecten.
+
+### ART 9.
+
+Bij de beslissing over de opname van een infrastructuurverrichting in de meerjarenplanning en de kortetermijnplanning houdt de VMSW rekening met de chronologische volgorde volgens de datum waarop de verrichting principieel vatbaar is voor opname in de meerjarenplanning, respectievelijk principieel vatbaar is voor opname in de kortetermijnplanning.
+
 ## HOOFDSTUK 5 Slotbepalingen
+
+### ART 10.
+
+Het ministerieel besluit van 13 februari 2014 houdende vaststelling van het decretale beleidskader en het financiële kader ter uitvoering van artikel 4, eerste lid, van het Procedurebesluit Wonen van 25 oktober 2013, wordt opgeheven.
+
+### ART 11.
+
+&nbsp;In afwijking van artikel 4, tweede lid, 2°, wordt het geplande sociaal huuraanbod in de gemeente tot en met 31 december 2017 berekend als het aanbod aan bijkomende sociale huurwoningen in projecten waarvan de bouw- of investeringsverrichting volgens de meest recente beoordelingscommissie is opgenomen in de meerjarenplanning of in de kortetermijnplanning of waarvan voor de bouw- of investeringsverrichting middelen zijn toegewezen op een jaarbudget en de werkzaamheden nog niet zijn voltooid.
 
 ### ART 12.
 
