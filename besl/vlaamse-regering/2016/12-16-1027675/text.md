@@ -160,6 +160,16 @@ In hoofdstuk 8, afdeling 1, van hetzelfde besluit, gewijzigd bij het besluit van
 5° in artikel 8.1.6, § 3, eerste lid, van hetzelfde besluit wordt de zinsnede "en kan de oppervlakte van het gebied waarop het betrekking heeft, niet uitbreiden" opgeheven.<br>
 &nbsp;
 
+### ART 16.
+
+In artikel 9.1.1 van hetzelfde besluit worden de woorden "onroerend erfgoed" vervangen door de woorden "beschermd onroerend erfgoed of erfgoedlandschappen".<br>
+&nbsp;
+
+### ART 17.
+
+In artikel 9.1.6 van hetzelfde besluit worden de woorden "onroerend erfgoed" vervangen door de woorden "beschermd onroerend erfgoed of erfgoedlandschappen".<br>
+&nbsp;
+
 ### ART 18.
 
 Aan artikel 11.2.4, eerste lid, 2°, van hetzelfde besluit worden de volgende zinnen toegevoegd:<br>
