@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026522,
+  "title": "Besluit van de Vlaamse Regering van 2016-02-05 betreffende de identificatie[, registratie en sterilisatie (verv. BVR 23 februari 2018, art. 1, I: 1 april 2018)] van katten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026522/VolledigDocument?datum=2017-11-01",
+  "source_sha256": "cbb85f84914143e297da6ff45dea4bbda5e7655dd7f778d16cd7dbd96d6e7e51",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026522&param=informatie",
+  "as_of": "2017-11-01",
+  "made": "2016-02-05",
+  "gazette": "2016-03-03",
+  "numac": 2016035225,
+  "document_start": "2017-11-01",
+  "document_end": "2024-06-30",
+  "in_force": "2017-11-01",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2017-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
