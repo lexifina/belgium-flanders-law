@@ -248,6 +248,10 @@ In het opschrift van het besluit van de Vlaamse Regering van 8 november 2013 bet
 
 ## HOOFDSTUK 9 Wijziging van het besluit van de Vlaamse Regering van 17 januari 2014 met betrekking tot programmatie van structuuronderdelen in het voltijds gewoon secundair onderwijs
 
+### ART 20.
+
+In de bijlage 1 van het besluit van de Vlaamse Regering van 17 januari 2014 met betrekking tot programmatie van structuuronderdelen in het voltijds gewoon secundair onderwijs, vervangen bij het besluit van de Vlaamse Regering van 10 juli 2015, wordt de zin "Alle structuuronderdelen die niet zijn opgenomen in bijlage 2" vervangen door de zin "Alle structuuronderdelen die niet zijn opgenomen in bijlage 2 of waarvan de benaming niet de component "duaal" of de component "maritieme" bevat."
+
 ## HOOFDSTUK 10 Wijzigingen van het besluit van de Vlaamse Regering van 10 juli 2015 tot wijziging van diverse besluiten van de Vlaamse Regering en tot verdere uitvoering van het decreet van 21 maart 2014 betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften
 
 ### ART 21.
