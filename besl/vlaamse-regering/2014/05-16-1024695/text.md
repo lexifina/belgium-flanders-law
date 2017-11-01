@@ -1383,7 +1383,7 @@ Een goed wordt erkend als open erfgoed samen met de goedkeuring van een   beheer
 
 ### ART. 9.1.1.
 
-De minister kent jaarlijks de Onroerenderfgoedprijs toe aan een   privé-persoon, een privé-instelling, een openbare instelling of een openbaar   bestuur voor een recente verwezenlijking op het gebied van onroerend   erfgoed.<BR>
+De minister kent jaarlijks de Onroerenderfgoedprijs toe aan een privé-persoon, een privé-instelling, een openbare instelling of een openbaar bestuur voor een recente verwezenlijking op het gebied van&nbsp;beschermd onroerend erfgoed of erfgoedlandschappen.
 
 ### ART. 9.1.2.
 
@@ -1403,7 +1403,7 @@ De minister kan het advies van de Commissie inwinnen.<BR>
 
 ### ART. 9.1.6.
 
-Verwezenlijkingen met betrekking tot onroerend erfgoed in eigendom van of   beheerd door de Vlaamse overheid, het agentschap of de door het agentschap   aangewezen instanties of verenigingen worden uitgesloten van deelname aan de   Onroerenderfgoedprijs.<BR>
+Verwezenlijkingen met betrekking tot beschermd onroerend erfgoed of erfgoedlandschappen in eigendom van of beheerd door de Vlaamse overheid, het agentschap of de door het agentschap aangewezen instanties of verenigingen worden uitgesloten van deelname aan de Onroerenderfgoedprijs.
 
 ### ART. 9.1.7.
 
