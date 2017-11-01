@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028530,
+  "title": "Ministerieel besluit van 2017-07-17 houdende wijziging van het ministerieel besluit van 16 maart 2015 tot vaststelling van een wedstrijdreglement voor de jaarlijkse toekenning van de Onroerenderfgoedprijs",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028530/VolledigDocument?datum=2017-11-01",
+  "source_sha256": "10fe1f99a0deb9fc69c21463914b8058994804731e59df400ce7f090f206db81",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028530&param=informatie",
+  "as_of": "2017-11-01",
+  "made": "2017-07-17",
+  "gazette": "2017-08-09",
+  "numac": 2017020611,
+  "document_start": "2017-11-01",
+  "document_end": null,
+  "in_force": "2017-11-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
