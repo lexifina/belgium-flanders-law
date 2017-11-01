@@ -295,11 +295,15 @@ Het de minimisquotum bedraagt 88 ton tong. De drempelwaarde bedoeld in artikel 8
 <br>
 § 2. Van 1 januari 2017 tot en met 31 oktober 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5500 kg, vermeerderd met een hoeveelheid die gelijk is aan&nbsp;60 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
+Vanaf 1 november 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5000 kg verhoogd met een hoeveelheid die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+<br>
 § 3. Van 1 januari 2017 tot en met 30 juni 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5500 kg, vermeerderd met een hoeveelheid die gelijk is aan 16 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
 In afwijking van het eerste lid is het in de periode van 1 januari 2017 tot en met 31 oktober 2017 in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat uitsluitend de passieve visserij bedrijft, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 6500 kg, vermeerderd met een hoeveelheid die gelijk is aan 40 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
 Van 1 juli 2017 tot en met 31 oktober 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de tongvangst een hoeveelheid te overschrijden, die gelijk is aan 5000 kg, vermeerderd met een hoeveelheid die gelijk is aan 17 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+<br>
+Vanaf 1 november 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 5000 kg verhoogd met een hoeveelheid die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 &nbsp;
 
 ## Onderafdeling 2 Schol Noordzee - ICES-gebieden II, IV
@@ -312,9 +316,13 @@ Het totale scholquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-es
 <br>
 § 2. Van 1 januari 2017 tot en met 31 oktober 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 440 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2017 worden opgevist.<br>
 <br>
+Vanaf 1 november 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 170 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+<br>
 § 3. Van 1 januari 2017 tot en met 30 juni 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2017 worden opgevist.<br>
 <br>
 Van 1 juli 2017 tot en met 31 oktober 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 350 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+<br>
+Vanaf 1 november 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 260 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 &nbsp;
 
 ## Onderafdeling 3 Tong Bristolkanaal en Keltische Zee - ICES-gebieden VIIf, g
@@ -346,6 +354,10 @@ Voor de vissersvaartuigen die op de lijst "Vismachtigingen Bristolkanaal KVS 201
 Van 1 juli 2017 tot en met 31 oktober 2017 is het in de ICES-gebieden VIIf,g voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 7 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW.<br>
 <br>
 In afwijking van het tweede lid wordt voor de vaartuigen, die voorkomen op de lijst "Visvergunningen Golf van Gascogne 2017", vermeld in artikel 22, de hoeveelheid verlaagd met een hoeveelheid van 7 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW.<br>
+<br>
+Vanaf 1 november 2017 tot en met 31 december 2017 is het in de ICES-gebieden VIIf,g voor een vissersvaartuig met een motorvermogen van 221 kW of meer, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 2000 kg, vermeerderd met een hoeveelheid die gelijk is aan 3 kg, vermenigvuldigd met een motorvermogen van het vissersvaartuig uitgedrukt in kW.<br>
+<br>
+In afwijking van het vierde lid wordt voor de vaartuigen, die voorkomen op de lijst "Visvergunningen Golf van Gascogne 2017" zoals vermeld in artikel 22, de hoeveelheid verlaagd met een hoeveelheid van 3 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW.<br>
 &nbsp;
 
 ## Onderafdeling 4 Tong oostelijk Kanaal - ICES-gebied VIId
@@ -403,7 +415,11 @@ Vanaf 1 juli 2017 tot en met 31 oktober 2017 is het in de ICES-gebieden II, IV v
 
 Van 1 januari 2017 tot en met 31 oktober 2017 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 4000 kg vermeerderd met een hoeveelheid die gelijk is aan 7 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
-De hoeveelheid vermeld in het eerste lid wordt verdubbeld voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2017 uitsluitend uitgerust is met de planken of met passief tuig.
+De hoeveelheid vermeld in het eerste lid wordt verdubbeld voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2017 uitsluitend uitgerust is met de planken of met passief tuig.<br>
+<br>
+Vanaf 1 november 2017 tot en met 31 december 2017 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 3000 kg, verhoogd met een hoeveelheid die gelijk is aan 4 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+<br>
+De hoeveelheid vermeld in het derde lid wordt verdubbeld voor een vissersvaartuig dat volgens de officiële lijst der Belgische vissersvaartuigen 2017 uitsluitend uitgerust is met de planken.
 
 ## Onderafdeling 8 Kabeljauw oostelijk kanaal - ICES-gebied VIId
 
@@ -411,7 +427,9 @@ De hoeveelheid vermeld in het eerste lid wordt verdubbeld voor een vissersvaartu
 
 Van 1 januari 2017 tot en met 31 oktober 2017 is het in het ICES-gebied VIId voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 2 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
-De hoeveelheid vermeld in het eerste lid wordt verdubbeld voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2017 uitsluitend uitgerust is met de planken of met passief tuig.
+De hoeveelheid vermeld in het eerste lid wordt verdubbeld voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2017 uitsluitend uitgerust is met de planken of met passief tuig.<br>
+<br>
+Vanaf 1 november 2017 tot en met 31 december 2017 is het in het ICES-gebied VIId voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 3 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
 
 ## Onderafdeling 9 Tong Golf van Gascogne - ICES-gebieden VIIIa, b
 
@@ -453,9 +471,11 @@ Bij uitputting van de minimisquotum, vermeld in het eerste lid, is het voor die 
 <br>
 In de periode van 1 februari 2017 tot en met 31 oktober 2017 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden een totale tongvangst te realiseren die groter is dan 500 kg.<br>
 <br>
-§ 2. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in het ICES-gebied VIId voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 240 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+In de periode van 1 november 2017 tot en met 31 december 2017 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden een totale tongvangst in het desbetreffende ICES-gebied te realiseren die groter is dan 500 kg.<br>
 <br>
-In de periode van 1 januari 2017 tot en met 31 december 2017 is het in het ICES-gebied VIId voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 480 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+§ 2. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in het ICES-gebied VIId voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+<br>
+In de periode van 1 januari 2017 tot en met 31 december 2017 is het in het ICES-gebied VIId voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
 In de periode van 1 januari 2017 tot en met 31 december 2017 is het voor een vissersvaartuig met een motorvermogen van 221 kW of minder, die gemengde zeereizen in de ICES-gebieden VIId, II en IV maakt, verboden bij de tongvangst in de ICES-gebieden II, IV per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden II, IV.<br>
 <br>
@@ -468,23 +488,27 @@ In afwijking van het tweede lid is het voor een vissersvaartuig met een motorver
 § 3. Het de minimisquotum voor tong in het ICES-gebied VIIe bedraagt 1 ton tong. De drempelwaarde vermeld in artikel 8 bedraagt voor de tongvisserij in het ICES-gebied VIIe maximaal 5% van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie. Bij uitputting van dat de minimisquotum, is het voor die vissersvaartuigen verboden nog gebruik te maken van de minimis voor tong afkomstig uit dat ICES-gebied VIIe.<br>
 <br>
 In de periode van 1 januari 2017 tot en met 31 oktober 2017 is het in het ICES-gebied VIIe voor een vissersvaartuig verboden een totale tongvangst te realiseren die groter is dan 1500 kg.<br>
+<br>
+In de periode van 1 november 2017 tot en met 31 december 2017 is het in het ICES-gebied VIIe voor een vissersvaartuig verboden een totale tongvangst in het desbetreffende ICES-gebied te realiseren die groter is dan 2300 kg.<br>
 &nbsp;
 
 ## Onderafdeling 2 Schol
 
 ### ART 24.
 
-§ 1. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden VIId, e voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 750 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 1. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden VIId, e voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 Zolang minder dan 27% van het quotum is opgevist, is het in de periode van 1 januari 2017 tot en met 15 februari 2017 in de ICES-gebieden VIId, e voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden VIId, e voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden VIId, e voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 2000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 Zolang minder dan 27% van het quotum is opgevist, is het in de periode van 1 januari 2017 tot en met 15 februari 2017 in de ICES-gebieden VIId, e voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 2400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2017 tot en met 31 december 2017 is het voor een vissersvaartuig met een motorvermogen van 221 kW of minder, die gemengde zeereizen in de ICES-gebieden VIId en IV maakt, verboden bij de scholvangst in de ICES-gebieden IV per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden IV.<br>
+In de periode van 1 januari 2017 tot en met 31 december 2017 is het voor een vissersvaartuig met een motorvermogen van 221 kW of minder, die gemengde zeereizen in de ICES-gebieden VIId en IV maakt, verboden bij de scholvangst in de ICES-gebieden IV per zeereis een hoeveelheid te overschrijden die gelijk is aan 1000 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden IV.<br>
 <br>
-In de periode van 1 januari 2017 tot en met 31 december 2017 is het voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, die gemengde zeereizen in de ICES-gebieden VIId en IV maakt, verboden bij de scholvangst in de ICES-gebieden IV een hoeveelheid te overschrijden die gelijk is aan 1600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de ICES-gebieden IV.<br>
+In de periode van 1 januari 2017 tot en met 31 december 2017 is het voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, die gemengde zeereizen in de ICES-gebieden VIId en IV maakt, verboden bij de scholvangst in de ICES-gebieden IV een hoeveelheid te overschrijden die gelijk is aan 2000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de ICES-gebieden IV.<br>
+<br>
+Vanaf het ogenblik dat het quotum 90% benut is voor 1 december 2017 worden de hoeveelheden in deze paragraaf gehalveerd en dit tot 31 december 2017.<br>
 <br>
 § 2. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
@@ -547,11 +571,17 @@ In afwijking van&nbsp;het eerste tot en met het vierde lid worden de maximaal to
 
 ### ART 27.
 
-§ 1. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 125 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 1. In de periode van 1 januari 2017 tot en met 31&nbsp;oktober 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 125 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In afwijking van het eerste en tweede lid, worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2017 uitsluitend uitgerust is met de planken.<br>
+<br>
+In de periode van 1 november 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 november 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In afwijking van het vierde en vijfde lid, worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2017 uitsluitend is uitgerust met de planken.<br>
 <br>
 § 2. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in ICES-gebied VIId voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
@@ -595,9 +625,9 @@ In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-g
 <br>
 In afwijking van het eerste en tweede lid worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2017 uitsluitend uitgerust is met de planken of met de zegen.<br>
 <br>
-§ 7. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 7. In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 januari 2017 tot en met 31 december 2017 is het in de ICES-gebieden VIIb-k voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In afwijking van het tweede lid worden de maximaal toegelaten vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2017 uitsluitend uitgerust is met de planken of met de zegen.<br>
 <br>
