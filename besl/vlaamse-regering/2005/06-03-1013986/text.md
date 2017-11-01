@@ -193,6 +193,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 5° het Agentschap voor Vlaamse Sociale Bescherming;<br>
 6° Fonds Jongerenwelzijn;<br>
 7° Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
+8° Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid;<br>
 9° Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg.<br>
 <br>
 § 3. De strategische adviesraad die tot het beleidsdomein Welzijn, Volksgezondheid en Gezin behoort, is de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid.
