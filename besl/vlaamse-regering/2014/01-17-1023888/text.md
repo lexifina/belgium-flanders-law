@@ -50,7 +50,9 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de   uitvoering v
 
 ### BIJLAGE 1
 
-<P>Lijst van niet-programmeerbare structuuronderdelen<BR><BR>Alle   structuuronderdelen die niet zijn opgenomen in bijlage 2.</P>
+<p>Lijst van niet-programmeerbare structuuronderdelen<br>
+<br>
+Alle structuuronderdelen die niet zijn opgenomen in bijlage 2 of waarvan de benaming niet de component "duaal" of de component "maritieme" bevat.</p>
 
 ### BIJLAGE 2
 
