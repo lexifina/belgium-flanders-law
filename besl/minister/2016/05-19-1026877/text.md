@@ -61,7 +61,59 @@ Bij de toekenning van de steun, vermeld in artikel 11 van het besluit,   wordt v
 
 ### ART. 9.
 
-Om in aanmerking te komen voor steun voor visverwerking als vermeld in   artikel 13 van het besluit, verwerkt de aanvrager minimaal de volgende   percentages verse vis of aquacultuurproducten van oorsprong uit de Europese Unie   :<BR>1° micro- en kleine onderneming : 20% van de totale jaarlijks verwerkte   hoeveelheden;<BR>2° middelgrote onderneming : 35% van de totale jaarlijks   verwerkte hoeveelheden.<BR><BR>Om in aanmerking te komen voor steun voor   visverwerking, legt de aanvrager een bedrijfsplan voor waaruit blijkt dat   :<BR>1° hij voldoet aan de voorwaarde, vermeld in het eerste lid;<BR>2° de   investeringen zullen resulteren in een door de aanvrager te bepalen groter   aandeel aan verse vis en aquacultuurproducten van oorsprong uit de Europese Unie   in de totale jaarlijks verwerkte hoeveelheden. Twee jaar na de betaling van de   steun toont de begunstigde de verhoging van dat aandeel aan door middel van   documenten die de verificatie van de EU oorsprong toelaten. Als de begunstigde   niet aan die voorwaarde voldoet, wordt de steun teruggevorderd ten belope van de   verhouding tussen enerzijds het verschil van de vooropgestelde verhoging met de   werkelijke verhoging en anderzijds de vooropgestelde verhoging. Indien deze   verhouding twee derde of meer is wordt de volledige steun   teruggevorderd.
+Om in aanmerking te komen voor steun voor visverwerking als vermeld in artikel 13 van het besluit, verwerkt de aanvrager minimaal de volgende percentages verse vis- of aquacultuurproducten die van oorsprong uit de Europese Unie komen :<br>
+1° micro- en kleine onderneming : 50% van de totale jaarlijks verwerkte hoeveelheden;<br>
+2° middelgrote onderneming : 60% van de totale jaarlijks verwerkte hoeveelheden.<br>
+<br>
+Het percentage, vermeld in het eerste lid, is het procentuele aandeel verse vis- en aquacultuurproducten van EU-oorsprong, in de totale hoeveelheid vis- en aquacultuurproducten uitgedrukt in kilogram, die verwerkt is in het laatste kalenderjaar of, als de aanvrager daarvoor opteert, in de laatste drie kalenderjaren voor het jaar waarin de subsidieaanvraag wordt ingediend.
+
+### ART 9/1.
+
+§ 1. Voor de primaire bewerking van verse vis - en aquacultuurproducten zijn de investeringen voor de verwerking van visserij- en aquacultuurproducten subsidiabel als ze gedaan worden in machines en installaties die noodzakelijk zijn voor de volgende bewerkingen :<br>
+1° fileren;<br>
+2° portioneren;<br>
+3° vellen;<br>
+4° wassen;<br>
+5° koelen;<br>
+6° verpakken;<br>
+7° onthoofden;<br>
+8° gutten.<br>
+<br>
+Voor de secundaire bewerking van verse vis - en aquacultuurproducten zijn de investeringen voor de verwerking van visserij- en aquacultuurproducten subsidiabel als ze gedaan worden in machines en installaties die noodzakelijk zijn voor de volgende bewerkingen :<br>
+1° roken;<br>
+2° malen;<br>
+3° koken;<br>
+4° invriezen;<br>
+5° inblikken;<br>
+6° ontgraten;<br>
+7° paneren;<br>
+8° pekelen;<br>
+9° modified atmosphere packaging (MAP) verpakken;<br>
+10° productie van kaviaar en kaviaarsurrogaten.<br>
+<br>
+Investeringen in grond en gebouwen worden uitgesloten.<br>
+<br>
+§ 2. De investeringen, vermeld in paragraaf 1, komen alleen in aanmerking voor subsidiëring als ze worden uitgevoerd in visverwerkende bedrijven die aan al de volgende voorwaarden voldoen :<br>
+1° geregistreerd zijn bij de Kruispuntbank van Ondernemingen (KBO) van de federale overheidsdienst Economie onder NACE-code 10.200;<br>
+2° conform hoofdstuk II en bijlage II van het koninklijk besluit van 16 januari 2006 tot vaststelling van de nadere regels van de erkenningen, toelatingen en voorafgaande registraties afgeleverd door het Federaal Agentschap voor de Veiligheid van de Voedselketen erkend zijn als visverwerkend bedrijf bij het Federaal Agentschap voor Voedselveiligheid in een van de volgende categorieën :<br>
+a) categorie 3.4 inrichtingen die visserijproducten bewerken;<br>
+b) categorie 3.5 inrichtingen die visserijproducten verwerken;<br>
+3° de bewerking of verwerking van vis- en aquacultuurproducten als statutair doel hebben;<br>
+4° als hoofdactiviteit vis- en aquacultuurproducten bewerken of verwerken tot producten als vermeld in bijlage 1 bij de GMO-verordening, en daarvoor machines en installaties, vermeld in paragraaf 1, gebruiken.<br>
+<br>
+§ 3. De investeringen, vermeld in paragraaf 1, resulteren in een door de aanvrager te bepalen verhoging van het procentueel aandeel aan verse vis- en aquacultuurproducten die van oorsprong uit de Europese Unie komen, in de totale hoeveelheid vis- en aquacultuurproducten, uitgedrukt in kilogram, die de aanvrager verwerkt.<br>
+<br>
+Uiterlijk vijf jaar na de volledige betaling van de steun toont de begunstigde de verhoging van dat procentuele aandeel, vermeld in het eerste lid, aan, met documenten die de verificatie van die voorwaarde toelaten.<br>
+<br>
+De verhoging van het procentuele aandeel verse vis - en aquacultuurproducten van EU-oorsprong, vermeld in het eerste lid, is het absolute verschil tussen het procentuele aandeel verse vis- en aquacultuurproducten van EU-oorsprong, in de totale hoeveelheid vis- en aquacultuurproducten die verwerkt zal worden in de drie jaar na het jaar waarin de volledige subsidie wordt aangevraagd, ten opzichte van het percentage, bepaald conform artikel 9, tweede lid.<br>
+<br>
+Als de begunstigde niet aan de voorwaarde, vermeld in het eerste lid, voldoet, wordt de steun teruggevorderd ten belope van de verhouding tussen enerzijds het verschil van de vooropgestelde verhoging met de werkelijke verhoging en anderzijds de vooropgestelde verhoging. Als die verhouding twee derde of meer is, wordt de volledige steun teruggevorderd.<br>
+<br>
+§ 4. De aanvrager toont op verzoek van de managementautoriteit, aan dat de investeringen waarvoor steun wordt aangevraagd, en het visverwerkende bedrijf voldoen aan de voorwaarden, vermeld in dit artikel.
+
+### ART 9/2.
+
+Om in aanmerking te komen voor steun voor visverwerking, legt de aanvrager een bedrijfsplan voor waaruit blijkt dat hij voldoet aan de voorwaarden, vermeld in artikel 9 en 9/1.
 
 ## HOOFDSTUK 8. Algemene bepalingen
 
@@ -71,7 +123,11 @@ Het maximum percentage van de steun, toegekend vanuit het FIVA, voor   investeri
 
 ### ART. 11.
 
-De aanvrager vraagt de steun aan met een voor zijn project geschikt   aanvraagformulier in de vorm zoals dit op het moment van de aanvraag op de   website van het Departement Landbouw en Visserij ter beschikking   staat.<BR><BR>De aanvraagformulieren zijn opgenomen in bijlage 2, die bij dit   besluit is gevoegd. Het hoofd van het Departement Landbouw en Visserij krijgt   delegatie om de aanvraagformulieren te wijzigen in functie van gewijzigde   wetgeving en uit administratieve noodzaak.
+De aanvrager vraagt de steun aan met een voor zijn project geschikt aanvraagformulier in de vorm zoals dit op het moment van de aanvraag op de website van het Departement Landbouw en Visserij ter beschikking staat.<br>
+<br>
+De aanvraagformulieren zijn opgenomen in bijlage 2, die bij dit besluit is gevoegd. Het hoofd van het Departement Landbouw en Visserij krijgt delegatie om de aanvraagformulieren te wijzigen in functie van gewijzigde wetgeving en uit administratieve noodzaak.<br>
+<br>
+Voor investeringen in rederijen, in aquacultuurbedrijven en in visverwerking voegt de aanvrager bij zijn aanvraagformulier een elektronische rekentabel met een overzicht van de geplande of de al uitgevoerde investeringen en uitgaven op basis van offertes en facturen.
 
 ### ART. 12.
 
