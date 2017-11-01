@@ -442,6 +442,14 @@ In artikel 2 van het decreet van 17 oktober 2003 betreffende de kwaliteit van de
 
 ## HOOFDSTUK 10. Kind en Gezin
 
+### ART 90.
+
+...
+
+### ART 91.
+
+...
+
 ### ART 92.
 
 In artikel 10 van hetzelfde decreet wordt tussen het vierde en het vijfde lid een lid ingevoegd, dat luidt als volgt:<br>
