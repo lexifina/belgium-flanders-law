@@ -97,6 +97,7 @@ i) het Fonds Jongerenwelzijn;<br>
 j) het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
 k) het Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg;<br>
 l) de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid;<br>
+m)&nbsp;Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid.<br>
 <br>
 8° de Vlaamse minister van Werk, Economie, Innovatie en Sport is bevoegd voor:<br>
 a) het Agentschap Innoveren en Ondernemen;<br>
