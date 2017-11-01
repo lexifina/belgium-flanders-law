@@ -15,7 +15,7 @@ In dit besluit wordt verstaan onder :<br>
 4° bezwaar : een bezwaar als vermeld in artikel 12, tweede, derde en vierde lid, van het decreet van 7 december 2007;<br>
 5° Commissie : de commissie, vermeld in artikel 12 van het decreet van 7 december 2007;<br>
 6° decreet van 7 december 2007 : het decreet van 7 december 2007 houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers;<br>
-7° gezins- en welzijnsaangelegenheden : de aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, die tot het beleidsdomein behoren;<br>
+7° gezins- en welzijnsaangelegenheden : de aangelegenheden, vermeld in artikel 5, § 1, II en IV, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, die tot het beleidsdomein behoren;<br>
 8° gezondheidsaangelegenheden : de aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, die tot het beleidsdomein behoren;<br>
 9° gezondheidsvoorziening : een organisatie die activiteiten uitoefent in een of meer gezondheidsaangelegenheden, of een onderdeel van die organisatie;<br>
 10° ministers : de Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
