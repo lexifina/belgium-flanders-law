@@ -13,7 +13,9 @@ In dit decreet wordt verstaan onder:<br>
 2° kinderopvang: kinderopvang van baby's en peuters en de buitenschoolse opvang van kinderen in al zijn vormen;<br>
 3° preventieve gezinsondersteuning : het geheel van maatregelen en aanbod dat gericht is op het bevorderen van het welbevinden van alle gezinnen met kinderen, en aanstaande ouders met inbegrip van de ondersteuning op het vlak van opvoeding en preventieve gezondheidszorg;<br>
 4° gezin: primaire leefvormen of samenlevingsvormen waarin meerdere personen min of meer duurzame relaties onderhouden;<br>
-5° voorzieningen: elke organisatievorm die de ondersteuning organiseert en/of verleent.
+5° voorzieningen: elke organisatievorm die de ondersteuning organiseert en/of verleent;<br>
+6° gezinsbeleid: het gezinsbeleid met inbegrip van alle vormen van hulp en bijstand aan gezinnen en kinderen, vermeld in artikel 5, § 1, II, 1°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, en het beleid inzake de gezinsbijslagen, vermeld in artikel 5, § 1, IV, van de voormelde wet;<br>
+7° toelagen in het kader van het gezinsbeleid: toelagen als vermeld in de regelgeving betreffende de toelagen in het kader van het gezinsbeleid.
 
 ## HOOFDSTUK II OPRICHTING
 
@@ -29,7 +31,7 @@ Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgeric
 
 ### ART. 5.
 
-De kerntaak van het agentschap omvat de regie van de kinderopvang en de organisatie van de preventieve gezinsondersteuning.
+De kerntaak van het agentschap omvat de regie van de kinderopvang, de regie van toelagen in het kader van het gezinsbeleid, en de organisatie van de preventieve gezinsondersteuning.
 
 ### ART. 6.
 
@@ -53,6 +55,17 @@ De Vlaamse Regering bepaalt de nadere regels wat betreft de voorwaarden waaronde
 
 § 1. De taak van de eigen personeelsleden van het agentschap inzake het   aanbieden van preventieve gezinsondersteuning omvat in elk geval:<BR>1° het   informeren en adviseren van gezinnen en toekomstige ouders voor gezondheid,   ontwikkeling, opvoeding, voeding en veiligheid van kinderen;<BR>2° het opvolgen,   detecteren en signaleren van risico's inzake gezondheid, ontwikkeling en   opvoeding van kinderen, waaronder de detectie van kindermishandeling en het   screenen van gehoor en zicht;<BR>3° de preventieve gezondheidszorg met   betrekking tot het jonge kind, in het bijzonder het promoten, toedienen en   opvolgen van vaccinaties;<BR>4° de ondersteuning van gezinnen en toekomstige   ouders met specifieke behoeften inzake gezondheid, ontwikkeling en opvoeding,   waaronder huilen, slapen, eten en interactie ouders-kinderen.<BR><BR>§ 2. Het   agentschap beoogt met de preventieve gezinsondersteuning een zo groot mogelijk   bereik bij kinderen en gezinnen, maar richt zich tegelijkertijd intensief naar   gezinnen met specifieke behoeften.<BR><BR>Onder gezinnen met specifieke   behoeften wordt onder meer verstaan:<BR>kansarme gezinnen,   vluchtelingengezinnen, gezinnen met kinderen met een handicap, éénoudergezinnen   en gezinnen met een meerling.<BR><BR>Het agentschap kan zijn dienstverlening   inzake preventieve gezinsondersteuning eveneens richten naar de   opvanginitiatieven, als bedoeld in artikel 6.
 
+### ART 7/1.
+
+De regie van toelagen in het kader van het gezinsbeleid door het agentschap omvat in elk geval:<br>
+1° de beleidsvoorbereiding en -ontwikkeling van een geïntegreerd gezinsbeleid;<br>
+2° het verlenen van een vergunning aan de private uitbetalingsactoren en de uitoefening van toezicht en controle op de uitbetalingsactoren;<br>
+3° het beheer en de toekenning van beleidskredieten aan de uitbetalingsactoren;<br>
+4° de ontwikkeling, de uitbouw en het beheer van een gegevensnetwerk in het kader van toelagen in het gezinsbeleid, dat de uitwisseling van alle noodzakelijke gegevens met Vlaamse en federale authentieke gegevensbronnen en de uitbetalingsactoren mogelijk maakt;<br>
+5° de registratie en verwerking van de noodzakelijke persoonsgegevens om een kadaster van toelagen in het kader van het gezinsbeleid op te richten en te beheren.<br>
+<br>
+Het agentschap beoogt met de toelagen in het kader van het gezinsbeleid de ondersteuning van gezinnen en kinderen op een geïntegreerde wijze, doelmatig en efficiënt aan te pakken, met daarbij ook aandacht voor de bestrijding van kinderarmoede.
+
 ### ART. 8.
 
 § 1. Naast de kerntaken, vermeld in artikel 5, neemt het agentschap met uitsluiting van pleegzorg als bedoeld in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg ook taken op inzake crisisopvang van jonge kinderen, inzake verstoorde opvoedingssituaties en inzake hulpverlening bij kindermishandeling.<br /><br />Het agentschap stemt deze taken af op het beleid inzake integrale jeugdzorg.<br /><br />Het agentschap neemt ook taken op zich betreffende binnenlandse en interlandelijke adoptie.<br /><br />§ 2. Binnen het kader van de missie en de taken van het agentschap kan de Vlaamse regering specifieke opdrachten aan het agentschap toewijzen.
@@ -67,11 +80,11 @@ Onverminderd de behandeling van klachten over de eigen werking en dienstverlenin
 
 ### ART. 10.
 
-Het agentschap voert de taken, vermeld in artikel 5, 6, 7 en 8, voorzover het om beleidsuitvoerende taken gaat, uit in samenhang met:<br>
+Het agentschap voert de taken, vermeld in artikel 5, 6, 7, 7/1 en 8, voorzover het om beleidsuitvoerende taken gaat, uit in samenhang met:<br>
 1° het door andere beleidsdomeinen en beleidsniveaus gevoerde beleid;<br>
 2° het door de Vlaamse Gemeenschap gevoerde beleid inzake welzijn en gezondheid.<br>
 <br>
-Het agentschap ontwikkelt terreinexpertise met betrekking tot de taken, vermeld in artikelen 5, 6, 7 en 8.<br>
+Het agentschap ontwikkelt terreinexpertise met betrekking tot de taken, vermeld in artikelen 5, 6, 7, 7/1 en 8.<br>
 <br>
 Het agentschap zal de verworven kennis en expertise ter beschikking stellen van de beleidsondersteuning als bedoeld in artikel 4, § 1, van het kaderdecreet.<br>
 <br>
@@ -80,7 +93,7 @@ Het agentschap zal haar dienstverlening permanent optimaliseren en vernieuwen op
 In het kader van zijn missie, vermeld in artikel 4, § 1, kan het agentschap de persoonsgegevens verwerken van alle pasgeboren kinderen en hun ouders die noodzakelijk zijn om de taken inzake preventieve gezinsondersteuning, vermeld in artikel 7, uit te voeren. De concrete gegevensstromen die hiertoe noodzakelijk zijn, dienen vooraf te worden gemachtigd door het bevoegde sectoraal comité of een andere instantie of toezichthouder met een machtigingsbevoegdheid in het kader van de toepassing van de regelgeving tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.<br>
 <br>
 Het agentschap registreert en verwerkt alle gegevens, met inbegrip van persoonsgegevens met betrekking tot zijn cliënteel, die noodzakelijk zijn om:<br>
-1° de taken, bedoeld in artikelen 5, 6, 7 en 8 uit te voeren;<br>
+1° de taken, bedoeld in artikelen 5, 6, 7, 7/1 en 8 uit te voeren;<br>
 2° de beleidsgerichte input als bedoeld in artikel 4, § 3, van het kaderdecreet te leveren.<br>
 <br>
 De Vlaamse regering bepaalt de nadere regels met betrekking tot de gegevensregistratie en verwerking, onverminderd de toepassing van de regelgeving tot bescherming van de persoonlijke levenssfeer voor de verwerking van de persoonsgegevens.
