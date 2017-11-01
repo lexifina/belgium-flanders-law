@@ -47,31 +47,31 @@ Besluit :
 In dit besluit wordt verstaan onder :<br>
 1° actueel besteedbaar inkomen : het gemiddelde van het effectief beschikbare inkomen over een periode van minimum drie van de zes maanden die aan de referentiedatum voorafgaat, van de kandidaat-huurder, met uitsluiting van de ongehuwde kinderen die vanaf hun meerderjarigheid zonder onderbreking deel uitmaken van het gezin en die minder dan 25 jaar oud zijn op het ogenblik van de referentiedatum. Het inkomen van inwonende ascendenten van de persoon die zich bij de inschrijving heeft opgegeven als toekomstige referentiehuurder of van zijn wettelijke of feitelijke partner wordt slechts voor de helft aangerekend. Het wordt niet aangerekend voor de familieleden van de eerste en de tweede graad van de persoon die zich bij de inschrijving heeft opgegeven als toekomstige referentiehuurder of van zijn wettelijke of feitelijke partner die erkend zijn als ernstig gehandicapt of die ten minste 65 jaar oud zijn. Het effectief beschikbare inkomen is het verschil tussen enerzijds alle belastbare en niet-belastbare inkomens en anderzijds de vrijgestelde inkomens, de effectief betaalde alimentatievergoeding en de effectief betaalde schuldaflossingen. De minister bepaalt de vrijgestelde inkomens en de effectief betaalde schuldaflossingen en stelt de nadere regels vast voor de berekening van het effectief beschikbare inkomen. De effectief betaalde schuldaflossingen komen alleen in aanmerking voor zover de kandidaat-huurder toegelaten is tot een collectieve schuldenregeling overeenkomstig de wet van 5 juli 1998 betreffende de collectieve schuldenregeling en de mogelijkheid van verkoop uit de hand van in beslag genomen onroerende goederen, of in budgetbegeleiding of budgetbeheer is bij een O.C.M.W. of bij een andere door de Vlaamse Gemeenschap erkende instelling voor schuldbemiddeling;<br>
 2° ...;<br>
-3° attest van EVC : het attest, vermeld in artikel 2, eerste lid, 13°, van het Inburgeringsdecreet;<br>
-4° attest van inburgering : het attest, vermeld in artikel 2, eerste lid, 11°, van het Inburgeringsdecreet;<br>
-5° attest van vrijstelling : het attest, vermeld in artikel 2, eerste lid, 12°, van het Inburgeringsdecreet;<br>
-6° centrum voor basiseducatie : het centrum voor basiseducatie, vermeld in artikel 2, 4°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
-6° bis. centrum voor volwassenenonderwijs : het centrum voor volwassenenonderwijs, vermeld in artikel 2, 4°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
-7° cursus Nederlands tweede taal : een opleiding Nederlands tweede taal die georganiseerd wordt dooreen centrum voor basiseducatie, een centrum voor volwassenenonderwijs of een talencentrum opgericht door een universiteit als vermeld in artikel 4 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs inVlaanderen;<br>
+3° basistaalvaardigheid Nederlands: het niveau van het Nederlands dat overeenstemt met niveau A1 van het Europees Referentiekader voor Moderne Vreemde Talen;<br>
+4° ...;<br>
+5° ...;<br>
+6° ...;<br>
+6° bis. ...;<br>
+7° ...;<br>
 8° dakloze : de persoon die niet over een eigen woongelegenheid beschikt, die niet de middelen heeft om daar op eigen kracht voor te zorgen en daardoor geen verblijfplaats heeft, of tijdelijk in een tehuis verblijft, in afwachting dat hem een eigen woongelegenheid ter beschikking wordt gesteld;<br>
 8°bis ...<br>
-9° Huis van het Nederlands : het territoriaal bevoegde provinciale of stedelijke Huis van het Nederlands, erkend en gesubsidieerd overeenkomstig het decreet van 7 mei 2004 betreffende de Huizen van het Nederlands;<br>
+9°...;<br>
 10° huurder : een huurder als vermeld in artikel 2, § 1, eerste lid, 34°, van de Vlaamse Wooncode;<br>
-11° inburgeringsbesluit : het besluit van de Vlaamse Regering van 15 december 2006 betreffende de uitvoering van het Vlaamse inburgeringsbeleid;<br>
-12° inburgeringscontract : het contract, vermeld in artikel 2, eerste lid, 9°, van het Inburgeringsdecreet;<br>
-13° Inburgeringsdecreet : het decreet van 28 februari 2003 betreffende het Vlaamse inburgeringsbeleid;<br>
-14° inburgeringstraject : het primaire inburgeringstraject, vermeld in artikel 10 van het Inburgeringsdecreet;<br>
+11° ...;<br>
+12° ...;<br>
+13° ...;<br>
+14° ...;<br>
 15° inkomen : de som van de aan de personenbelasting onderworpen inkomsten en van de niet-belastbare vervangingsinkomsten van de referentiepersoon, met uitsluiting van de ongehuwde kinderen die vanaf hun meerderjarigheid zonder onderbreking deel uitmaken van het gezin en die minder dan 25 jaar oud zijn op het ogenblik van de referentiedatum. Het inkomen van inwonende ascendenten van al naargelang het geval, de persoon die zich bij de inschrijving opgeeft of heeft opgegeven als toekomstige referentiehuurder of de referentiehuurder, of van zijn wettelijke of feitelijke partner wordt slechts voor de helft aangerekend. Het wordt niet aangerekend voor de familieleden van de eerste en de tweede graad van al naargelang het geval, de persoon die zich bij de inschrijving opgeeft of heeft opgegeven als toekomstige referentiehuurder of de referentiehuurder, of van zijn wettelijke of feitelijke partner die erkend zijn als ernstig gehandicapt of die ten minste 65 jaar oud zijn. Ongeacht de periode waarop het inkomen betrekking heeft, wordt dat inkomen steeds geïndexeerd volgens de gezondheidsindex van de maand juni van het jaar dat aan de toepassing ervan voorafgaat en met als basis de maand juni van het jaar waarop het inkomen betrekking heeft. In afwijking daarvan wordt het inkomen niet geïndexeerd als het betrekking heeft op een periode na de maand juni van het jaar dat aan de toepassing ervan voorafgaat;<br>
-15° bis intake : een intake als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 22 juli 2005 betreffende de Huizen van het Nederlands;<br>
+15° bis ...;<br>
 16° intern huurreglement : een openbaar document ter uitvoering van de bepalingen van dit besluit waarin de verhuurder minimaal de concrete regels die een verdere invulling vereisen of op basis waarvan keuzes moeten worden gemaakt, vastlegt en waarin in voorkomend geval de specifieke toewijzingsregels ter uitvoering van artikel 25 tot en met 29 worden opgenomen;<br>
 17° kandidaat-huurder : een of meer personen die zijn ingeschreven in het inschrijvingsregister, vermeld in artikel 7;<br>
-18° Kruispuntbank Inburgering : de Kruispuntbank Inburgering, vermeld in artikel 1, § 1, 6°, van het inburgeringsbesluit;<br>
+18° Kruispuntbank Inburgering: de Kruispuntbank Inburgering, vermeld in artikel 1, 8°, van het besluit van de Vlaamse Regering van 29 januari 2016 houdende de uitvoering van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid;<br>
 18°bis meerderjarig : volle achttien jaar oud en niet in staat van verlengde minderjarigheid verklaard overeenkomstig artikel 487bis van het Burgerlijk Wetboek;<br>
 18°ter minderjarig : minder dan volle achttien jaar oud of in staat van verlengde minderjarigheid verklaard overeenkomstig artikel 487bis van het Burgerlijk Wetboek;<br>
 19° minister : de Vlaamse minister, bevoegd voor de Huisvesting;<br>
 19°bis mantelzorger : de natuurlijke persoon die vanuit een sociale en emotionele band een of meer personen met een verminderd zelfzorgvermogen, niet beroepshalve maar meer dan occasioneel, helpt en ondersteunt in het dagelijkse leven;<br>
 20° ...;<br>
-21° onthaalbureau : het onthaalbureau, vermeld in artikel 20 van het inburgeringsbesluit, dat de gemeente bedient waar de referentiepersoon woont;<br>
+21° organisaties belast met de uitvoering van het Vlaamse integratie- en inburgeringsbeleid: het Agentschap Integratie en Inburgering, vermeld in artikel 17, § 2, 7°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, het gemeentelijk extern verzelfstandigd agentschap Integratie en Inburgering Antwerpen vzw, het gemeentelijk extern verzelfstandigd agentschap Integratie en Inburgering Gent vzw en het Huis van het Nederlands Brussel vzw;<br>
 22° persoon ten laste :<br>
 a) het kind dat op de referentiedatum bij de referentiepersoon gedomicilieerd is en dat voldoet aan een van de volgende voorwaarden :<br>
 1) het is minderjarig of er wordt kinderbijslag of wezentoelage voor uitbetaald;<br>
@@ -88,10 +88,10 @@ c) de persoon die erkend is als ernstig gehandicapt, of erkend was als ernstig g
 27° sociaal verhuurkantoor : het sociaal verhuurkantoor dat erkend is overeenkomstig artikel 56 van de Vlaamse Wooncode;<br>
 27° bis sociale assistentiewoning : een woning als vermeld in artikel 4, § 1, tweede lid, van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers;<br>
 28° toezichthouder : de toezichthouder, vermeld in artikel 29bis van de Vlaamse Wooncode;<br>
-28° bis vereiste niveau van het Nederlands : het niveau van het Nederlands dat overeenstemt met richtgraad 1, niveau 1, van het Europese referentiekader voor vreemde talen, vermeld in artikel 5, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
+28° bis ...;<br>
 28° ter verhurende instelling : openbare besturen, welzijnsorganisaties of organisaties die de Vlaamse Regering daarvoor erkent als vermeld in artikel 91, § 1, 3°, van de Vlaamse Wooncode;<br>
 29° verhuurder : de instantie die woningen verhuurt of onderverhuurt overeenkomstig de bepalingen van titel VII van de Vlaamse Wooncode, namelijk een sociale huisvestingsmaatschappij, de VMSW, het Vlaams Woningfonds, een gemeente, een intergemeentelijk samenwerkingsverband, een O.C.M.W., een OCMW-vereniging of een sociaal verhuurkantoor;<br>
-30° verplichte inburgeraar : de inburgeraar, vermeld in artikel 2, eerste lid, 6bis °, van het Inburgeringsdecreet;<br>
+30° ...;<br>
 31° Vlaamse Wooncode : decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
 32° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van de Vlaamse Wooncode;<br>
 33° welzijns- of gezondheidsvoorziening : een voorziening die werkzaam is in het kader van de persoonsgebonden aangelegenheden, vermeld in artikel 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, voor zover die aangelegenheden vallen onder het beleidsdomein Welzijn, Volksgezondheid en Gezin, vastgesteld krachtens artikel 2 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003. Een OCMW wordt gelijkgesteld met een welzijns- of gezondheidsvoorziening;<br>
@@ -119,11 +119,11 @@ Een afschrift van het interne huurreglement en latere wijzigingen worden onmidde
 2° hij beschikt, samen met zijn gezinsleden, niet over een inkomen in het referentiejaar, dat de grenzen, vermeld in § 2, overschrijdt;<br>
 3° hij heeft, samen met zijn gezinsleden, geen woning of perceel, bestemd voor woningbouw, volledig of gedeeltelijk in volle eigendom of volledig in vruchtgebruik in binnen- of buitenland;<br>
 3° bis hij of een van zijn gezinsleden is geen zaakvoerder, bestuurder of aandeelhouder van een vennootschap waarin hij of een van zijn gezinsleden een woning of een perceel dat bestemd is voor woningbouw, heeft ingebracht;<br>
-4° hij en, in voorkomend geval, zijn gezinsleden tonen de bereidheid om Nederlands aan te leren;<br>
-5° hij en, in voorkomend geval, zijn gezinsleden, zijn bereid het inburgeringstraject te volgen overeenkomstig het Inburgeringsdecreet voor zover hij en, in voorkomend geval, zijn gezinsleden verplichte inburgeraars zijn;<br>
+4°...;<br>
+5° ...;<br>
 6° hij en, in voorkomend geval, zijn gezinsleden zijn ingeschreven in de bevolkingsregisters, vermeld in artikel 1, § 1, eerste lid, 1°, van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten en tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen, of hij en, in voorkomend geval, zijn gezinsleden zijn ingeschreven op een referentieadres als vermeld in artikel 1, § 2, van de voormelde wet.<br>
 <br>
-Als een persoon zich wil inschrijven voor een sociale assistentiewoning gelden naast de voorwaarden, vermeld in het eerste lid, 2°, 4°, 5° en 6°, de volgende voorwaarden :<br>
+Als een persoon zich wil inschrijven voor een sociale assistentiewoning gelden naast de voorwaarden, vermeld in het eerste lid, 2° en 6°, de volgende voorwaarden :<br>
 1° hij of een van zijn gezinsleden is minstens 65 jaar oud;<br>
 2° hij heeft, samen met zijn gezinsleden, geen woning volledig of gedeeltelijk in volle eigendom of volledig in vruchtgebruik gehad in de periode van tien jaar voor de inschrijvingsdatum;<br>
 3° hij heeft, samen met zijn gezinsleden, geen perceel, bestemd voor woningbouw, volledig of gedeeltelijk in volle eigendom of volledig in vruchtgebruik;<br>
@@ -175,7 +175,7 @@ In het geval, vermeld in het eerste lid, 2°, moet de persoon die zich kandidaat
 
 ### ART. 4.
 
-<P>§ 1. De verhuurder gaat via de Kruispuntbank Inburgering na of de persoon die   zich wil inschrijven, een verplichte inburgeraar is. Als de verhuurder dat niet   heeft kunnen vaststellen, verwijst hij de persoon door naar het onthaalbureau   als de persoon met de Belgische nationaliteit niet in België geboren is of als   de persoon noch de Belgische nationaliteit, noch de nationaliteit van een van de   staten van de EU+, vermeld in artikel 2, eerste lid, 17°, van het   Inburgeringsdecreet, heeft.<BR><BR>De persoon van wie wordt vastgesteld via de   Kruispuntbank Inburgering of via het onthaalbureau dat hij een verplichte   inburgeraar is en die geen attest van vrijstelling heeft, wordt geacht te   voldoen aan de inschrijvingsvoorwaarde, vermeld in artikel 3, § 1, eerste lid,   4°. Hij voldoet aan de inschrijvingsvoorwaarde, vermeld in artikel 3, § 1,   eerste lid, 5°, als hij beschikt over een van de volgende attesten of stukken   :<BR>1° een attest van inburgering;<BR>2° een attest van vrijstelling;<BR>3° een   attest van EVC;<BR>4° het inburgeringscontract;<BR>5° een attest van aanmelding   als vermeld in artikel 10, § 2, van het inburgeringsbesluit, uitgereikt door het   onthaalbureau;<BR>6° een attest van uitstel van aanmelding als vermeld in   artikel 13, § 6, tweede lid, van het inburgeringsbesluit;<BR>7° een attest van   heraanmelding als vermeld in artikel 2, § 3, van het ministerieel besluit van 22   december 2008 tot vaststelling van de modellen van attest, van   inburgeringscontract en van bijlage bij het inburgeringscontract in het kader   van het inburgeringsbeleid;<BR>8° een attest van uitstel van ondertekening van   het inburgeringscontract, vermeld in artikel 13, § 6, tweede lid, van het   inburgeringsbesluit.<BR><BR>§ 2. De persoon die zich wil inschrijven, en die   geen verplichte inburgeraar of een verplichte inburgeraar met een attest van   vrijstelling is, moet voldoen aan de inschrijvingsvoorwaarde, vermeld in artikel   3, § 1, eerste lid, 4°. <BR><BR>De persoon die zich wil inschrijven, voldoet aan   de inschrijvingsvoorwaarde, vermeld in artikel 3, § 1, eerste lid, 4°, als een   van de volgende feiten blijkt uit de raadpleging van de Kruispuntbank   Inburgering of ingevolge een verklaring van het Huis van het Nederlands :<BR>1°   de persoon behaalt het vereiste niveau van het Nederlands;<BR>2° de persoon   heeft deelgenomen aan een cursus Nederlands tweede taal en was minstens 80%   aanwezig;<BR>3° de persoon neemt deel aan een cursus Nederlands tweede taal, en   hij was tot op het ogenblik van de inschrijving minstens 80% aanwezig of kan nog   minstens 80% aanwezig zijn;<BR>4° er is door het huis van het Nederlands een   intake afgenomen;<BR>5° de persoon heeft een inburgeringscontract   gesloten;<BR>6° de persoon heeft een attest van EVC;<BR>7° de persoon heeft een   attest van inburgering;<BR>8° de persoon heeft een vrijstelling voor het   vereiste niveau van het Nederlands op basis van een toelatingsproef van een   centrum voor basiseducatie, een centrum voor volwassenenonderwijs of van het   Huis van het Nederlands;<BR>9° er is voor de persoon een verklaring van   uitgeleerdheid door een centrum voor basiseducatie afgelegd.<BR><BR>Met   toepassing van artikel 4ter kan het Huis van het Nederlands aan de verhuurder of   zijn gemachtigde de bevoegdheid verlenen om in zijn naam vast te stellen dat een   persoon voldoet aan het vereiste niveau van het Nederlands. In dat geval doet de   verhuurder of zijn gemachtigde die vaststelling op basis van de instrumenten die   aangeleverd worden door de Huizen van het Nederlands, tenzij het voor de   verhuurder manifest vaststaat dat een persoon die zich wil inschrijven, voldoet   aan het vereiste niveau van het Nederlands.<BR><BR>Als de verhuurder of zijn   gemachtigde met toepassing van het derde lid vaststelt dat de persoon het   vereiste niveau van het Nederlands behaalt, voldoet de persoon aan de   inschrijvingsvoorwaarde, vermeld in artikel 3, § 1, eerste lid, 4°. <BR><BR>Als   de verhuurder of zijn gemachtigde een redelijke twijfel heeft of vermoedt dat de   persoon het vereiste niveau van het Nederlands niet behaalt, of als de   verhuurder niet bevoegd is om de vaststelling, vermeld in het vierde lid, te   doen, verwijst de verhuurder de persoon door naar het Huis van het Nederlands   dat moet vaststellen of de persoon voldoet aan het vereiste niveau van het   Nederlands.<BR><BR>§ 3. De minister kan de minimale aanwezigheid van 80%,   vermeld in paragraaf 2, tweede lid, 2° en 3°, versoepelen voor sommige   personen.<BR><BR>Voor de persoon die om beroepsmatige, medische of persoonlijke   redenen tijdelijk niet kan deelnemen of verder deelnemen aan een cursus   Nederlands tweede taal, kan de inschrijvingsvoorwaarde, vermeld in artikel 3, §   1, eerste lid, 4°, worden opgeschort. De minister bepaalt de beroepsmatige,   medische en persoonlijke redenen.<BR><BR>Aan de persoon van wie de   gezondheidstoestand deelname of verdere deelname aan een cursus Nederlands   tweede taal blijvend onmogelijk maakt, wordt een vrijstelling van de   inschrijvingsvoorwaarde, vermeld in artikel 3, § 1, eerste lid, 4°, toegestaan   als hij een medisch attest voorlegt.</P>
+...
 
 ### ART. 4bis.
 
@@ -183,15 +183,15 @@ In het geval, vermeld in het eerste lid, 2°, moet de persoon die zich kandidaat
 
 ### ART. 4ter.
 
-Het Huis van het Nederlands en de minister leggen, na overleg met de   verhuurders een afsprakenkader vast voor de nadere regeling van de verlening van   de bevoegdheid, vermeld in artikel 4, § 2, derde lid.<BR><BR>Dat afsprakenkader   bepaalt minstens :<BR>1° de opleiding die de verhuurder of zijn gemachtigde moet   volgen;<BR>2° de instrumenten die de verhuurder of zijn gemachtigde moet   gebruiken;<BR>3° de gestandaardiseerde formulieren, die de verhuurder of zijn   gemachtigde moet gebruiken.<BR><BR>De opleiding, de instrumenten en de   formulieren, vermeld in het tweede lid, zijn identiek voor alle Huizen van het   Nederlands en alle verhuurders.
+...
 
 ### ART. 5.
 
-<P>...</P>
+<p>...</p>
 
 ### ART. 6.
 
-<P>De verhuurder meldt binnen zeven werkdagen na de inschrijving in het   register, vermeld in artikel 7, via de Kruispuntbank Inburgering :<BR>1° aan het   Huis van het Nederlands de identiteitsgegevens van de kandidaat-huurder,   waarvoor een verklaring waaruit de feiten, vermeld in artikel 4, § 2, tweede   lid, 3° of 4°, blijken, is afgelegd;<BR>2° aan het onthaalbureau de   identiteitsgegevens van de kandidaat-huurder waarvoor een van de attesten,   vermeld in artikel 4, § 1, tweede lid, 4° tot en met 8°, is   afgeleverd.</P>
+...
 
 ## HOOFDSTUK IV. Inschrijvingsregister
 
@@ -207,7 +207,26 @@ De toezichthouder oefent het toezicht uit op deze verrichtingen.
 
 ### ART. 9.
 
-Op het ogenblik van de inschrijving deelt de verhuurder aan de   kandidaat-huurder het volgende mee :<BR>1° de inschrijvings- en   toelatingsvoorwaarden;<BR>2° de regel dat alle meerderjarige personen die de   sociale huurwoning gaan betrekken bij de aanvang van de huurovereenkomst,   voldoen aan de toelatingsvoorwaarden;<BR>3° de toewijzingsregels;<BR>4°   informatie over de types van woning die door de kandidaat-huurder rationeel   bezet kunnen worden;<BR>5° de regel dat aan een kandidaat-huurder die zich wil   inschrijven voor een woning die niet voldoet aan de rationele bezetting, de   woning slechts wordt toegewezen aan de kandidaat-huurder waarvan de   gezinssamenstelling de rationele bezetting het meest benadert voor zover er voor   die woning geen andere kandidaat-huurders met een aangepaste rationele bezetting   zijn ingeschreven;<BR>6° de regel dat als er een aanvraag tot gezinshereniging   werd ingediend of zal worden ingediend de kandidaat-huurder zich moet   inschrijven voor een woning die voldoet aan de rationele bezetting waarbij er   rekening wordt gehouden met de gezinssamenstelling na de   gezinshereniging.<BR><BR>De regel, vermeld in het eerste lid, 6°, is niet van   toepassing voor de verhuurders die het toewijzingssysteem, vermeld in artikel   21, toepassen en wordt bijgevolg ook niet meegedeeld.<BR><BR>In het geval de   verhuurder een sociale huisvestingsmaatschappij is, deelt zij op het ogenblik   van de inschrijving aan de kandidaat-huurder mee dat de kandidaat-huurder de   mogelijkheid heeft om zijn kandidatuur door de sociale huisvestingsmaatschappij   te laten bezorgen aan de andere sociale huisvestingsmaatschappijen die in die   gemeente en de aangrenzende gemeenten actief zijn.<BR><BR>De minister kan de   toepassing van het&nbsp;derde lid uitbreiden naar de andere   verhuurders.<BR>
+Op het ogenblik van de inschrijving deelt de verhuurder aan de kandidaat-huurder het volgende mee :<br>
+1° de inschrijvings- en toelatingsvoorwaarden;<br>
+2° de regel dat alle meerderjarige personen die de sociale huurwoning gaan betrekken bij de aanvang van de huurovereenkomst, voldoen aan de toelatingsvoorwaarden;<br>
+3° de toewijzingsregels;<br>
+4° informatie over de types van woning die door de kandidaat-huurder rationeel bezet kunnen worden;<br>
+5° de regel dat aan een kandidaat-huurder die zich wil inschrijven voor een woning die niet voldoet aan de rationele bezetting, de woning slechts wordt toegewezen aan de kandidaat-huurder waarvan de gezinssamenstelling de rationele bezetting het meest benadert voor zover er voor die woning geen andere kandidaat-huurders met een aangepaste rationele bezetting zijn ingeschreven;<br>
+6° de regel dat als er een aanvraag tot gezinshereniging werd ingediend of zal worden ingediend de kandidaat-huurder zich moet inschrijven voor een woning die voldoet aan de rationele bezetting waarbij er rekening wordt gehouden met de gezinssamenstelling na de gezinshereniging;<br>
+7° de verplichting, vermeld artikel 92, § 3, eerste lid, 6° en 7°, van de Vlaamse Wooncode, en de contactgegevens van de organisaties belast met de uitvoering van het Vlaamse integratie- en inburgeringsbeleid.<br>
+<br>
+De regel, vermeld in het eerste lid, 6°, is niet van toepassing voor de verhuurders die het toewijzingssysteem, vermeld in artikel 21, toepassen en wordt bijgevolg ook niet meegedeeld.<br>
+<br>
+De regel, vermeld in het eerste lid, 7°, is niet van toepassing in de volgende gevallen:<br>
+1° de verhuurder heeft bij de inschrijving vastgesteld dat de huurder manifest beschikt over de basistaalvaardigheid Nederlands of hij doet die vaststelling met toepassing van artikel 30ter;<br>
+2° de verhuurder verkrijgt via de Kruispuntbank Inburgering een bewijs waaruit blijkt dat de huurder beschikt over de basistaalvaardigheid Nederlands.<br>
+<br>
+De verhuurder meldt binnen zeven werkdagen na de inschrijving in het register, vermeld in artikel 7, via de Kruispuntbank Inburgering aan de organisatie belast met de uitvoering van het Vlaamse integratie- en inburgeringsbeleid de identiteitsgegevens van de kandidaat-huurders aan wie de contactgegevens van de vermelde organisatie gegeven zijn.<br>
+<br>
+In het geval de verhuurder een sociale huisvestingsmaatschappij is, deelt zij op het ogenblik van de inschrijving aan de kandidaat-huurder mee dat de kandidaat-huurder de mogelijkheid heeft om zijn kandidatuur door de sociale huisvestingsmaatschappij te laten bezorgen aan de andere sociale huisvestingsmaatschappijen die in die gemeente en de aangrenzende gemeenten actief zijn.<br>
+<br>
+De minister kan de toepassing van het&nbsp;vijfde lid uitbreiden naar de andere verhuurders.
 
 ### ART. 10.
 
@@ -226,10 +245,12 @@ De kandidaat-huurder ontvangt een inschrijvingsbewijs, waarin het volgende wordt
 7° bis de melding dat de kandidaat-huurder een wijziging van de gezinssamenstelling moet meedelen binnen een maand na de wijziging;<br>
 8° de melding dat de kandidaat-huurder door zijn inschrijving de toestemming geeft aan de verhuurder om bij de bevoegde overheden en instellingen en bij de lokale besturen de noodzakelijke verklaringen, attesten of gegevens betreffende de voorwaarden en verplichtingen van dit besluit te verkrijgen;<br>
 9° de melding dat alle meerderjarige personen die de sociale huurwoning gaan betrekken bij de aanvang van de huurovereenkomst, ook moeten voldoen aan de toelatingsvoorwaarden;<br>
+9° bis in voorkomend geval de melding van de verplichting, vermeld in artikel 92, § 3, eerste lid, 6° en 7°, van de Vlaamse Wooncode;<br>
+9° ter in voorkomend geval de contactgegevens van de organisaties belast met de uitvoering van het Vlaamse integratie- en inburgeringsbeleid;<br>
 10° de contactgegevens van de entiteit die bevoegd is inzake het toezicht op de inschrijvingsregisters;<br>
 11° de melding op welke wijze openbaarheid wordt gegeven aan het interne huurreglement.<br>
 <br>
-Als een kandidaat-huurder van het verzoek, vermeld in artikel 9,&nbsp;derde lid, gebruikmaakt, bezorgt de sociale huisvestingsmaatschappij binnen een termijn van vijftien kalenderdagen vanaf de inschrijving de kandidatuur aan de andere sociale huisvestingsmaatschappijen die in deze gemeente of in de aangrenzende gemeenten actief zijn. Mits akkoord van de kandidaat-huurder en voor zover beschikbaar bezorgt de sociale huisvestingsmaatschappij aan de andere sociale huisvestingsmaatschappijen binnen dertig dagen na de inschrijving een dossier met de in artikel 3 vermelde gegevens en een afschrift van de bewijsstukken. De andere sociale huisvestingsmaatschappij stuurt de betrokken kandidaat-huurder binnen een termijn van vijftien kalenderdagen vanaf de ontvangst van de kandidatuur een ontvangstmelding van het verzoek en meldt dat de kandidaat-huurder de voorkeur, vermeld in artikel 10, eerste lid, kan aangeven binnen een termijn die de andere sociale huisvestingsmaatschappij bepaalt. De kandidaat-huurder ontvangt het inschrijvingsbewijs als hij die voorkeur heeft aangegeven.
+Als een kandidaat-huurder van het verzoek, vermeld in artikel 9,&nbsp;vijfde lid, gebruikmaakt, bezorgt de sociale huisvestingsmaatschappij binnen een termijn van vijftien kalenderdagen vanaf de inschrijving de kandidatuur aan de andere sociale huisvestingsmaatschappijen die in deze gemeente of in de aangrenzende gemeenten actief zijn. Mits akkoord van de kandidaat-huurder en voor zover beschikbaar bezorgt de sociale huisvestingsmaatschappij aan de andere sociale huisvestingsmaatschappijen binnen dertig dagen na de inschrijving een dossier met de in artikel 3 vermelde gegevens en een afschrift van de bewijsstukken. De andere sociale huisvestingsmaatschappij stuurt de betrokken kandidaat-huurder binnen een termijn van vijftien kalenderdagen vanaf de ontvangst van de kandidatuur een ontvangstmelding van het verzoek en meldt dat de kandidaat-huurder de voorkeur, vermeld in artikel 10, eerste lid, kan aangeven binnen een termijn die de andere sociale huisvestingsmaatschappij bepaalt. De kandidaat-huurder ontvangt het inschrijvingsbewijs als hij die voorkeur heeft aangegeven.
 
 ### ART. 12.
 
@@ -291,11 +312,11 @@ Als de gevallen, vermeld in artikel 3, § 4, eerste lid, 2° tot en met 4°, en 
 
 ### ART. 15.
 
-<P>De kandidaat-huurder die een verplichte inburgeraar is, voldoet aan de   toelatingsvoorwaarde met betrekking tot de bereidheid om het inburgeringstraject   te volgen als een van de volgende voorwaarden vervuld zijn :<BR>1° op het moment   van inschrijving is een attest voorgelegd als vermeld in artikel 4, § 1, tweede   lid, 1°, 2° of 3° ;<BR>2° de verhuurder verkrijgt via de Kruispuntbank   Inburgering een van de volgende attesten of stukken :<BR>a) een van de attesten,   vermeld in artikel 4, § 1, tweede lid, 1°, 2°, 3°, 6° en 8° ;<BR>b) het   inburgeringscontract, vermeld in artikel 4, § 1, tweede lid, 4°, voor zover de   kandidaat-huurder geen inbreuk heeft gepleegd op artikel 5, § 3, 2°, van het   Inburgeringsdecreet;<BR>c) het attest, vermeld in artikel 4, § 1, tweede lid,   5°, voor zover de datum van afgifte van het attest niet ouder dan drie maanden   is;<BR>d) het attest, vermeld in artikel 4, § 1, tweede lid, 7°, voor zover de   datum van afgifte van het attest niet ouder dan drie maanden is.<BR><BR>De   verhuurder gaat via de Kruispuntbank Inburgering na of de persoon die wil   toetreden tot een lopende huurovereenkomst, een verplichte inburgeraar is. Als   de verhuurder dat niet heeft kunnen vaststellen, verwijst hij de persoon die   beantwoordt aan de categorieën, vermeld in artikel 4, § 1, eerste lid, door naar   het onthaalbureau.<BR><BR>De persoon die wil toetreden tot een lopende   huurovereenkomst en van wie wordt vastgesteld via de Kruispuntbank Inburgering   of via het onthaalbureau dat hij een verplichte inburgeraar is, en die geen   attest van vrijstelling heeft, wordt geacht te voldoen aan de   toelatingsvoorwaarde met betrekking tot de bereidheid om het Nederlands aan te   leren. Hij voldoet aan de toelatingsvoorwaarde met betrekking tot de   inburgeringsbereidheid als hij beschikt over een van de attesten of stukken,   vermeld in artikel 4, § 1, tweede lid. De verhuurder meldt via de Kruispuntbank   Inburgering aan het onthaalbureau de identiteitsgegevens van de persoon die wil   toetreden, voor wie een van de attesten of stukken, vermeld in artikel 4, § 1,   tweede lid, 4° tot en met 8°, is afgeleverd. Die gegevens worden binnen zeven   werkdagen na de toetreding gemeld.</P>
+...
 
 ### ART. 16.
 
-<P>§ 1. De kandidaat-huurder en de persoon die wil toetreden tot een lopende   huurovereenkomst, en die geen verplichte inburgeraars of verplichte inburgeraars   met een attest van vrijstelling zijn, moeten voldoen aan de toelatingsvoorwaarde   met betrekking tot de bereidheid om het Nederlands te leren.<BR><BR>§ 2. De   kandidaat-huurder voldoet aan de toelatingsvoorwaarde, vermeld in paragraaf 1,   als :<BR>1° hij op het moment van inschrijving het vereiste niveau van het   Nederlands behaald heeft, of als er voor hem een verklaring waaruit de feiten,   vermeld in artikel 4, § 2, tweede lid, 2°, blijken, is afgelegd;<BR>2° uit de   raadpleging van de Kruispuntbank Inburgering of ingevolge een verklaring van het   Huis van het Nederlands een van de volgende feiten blijkt :<BR>a) een van de   feiten, vermeld in artikel 4, § 2, tweede lid, 1° tot en met 3° en 6° tot en met   9° ;<BR>b) er is minder dan zes maanden geleden een intake afgenomen;<BR>c) er   is voor hem geen passend aanbod van een cursus Nederlands tweede taal;<BR>d) hij   heeft een inburgeringscontract gesloten en hij heeft geen inbreuk gepleegd als   vermeld in artikel 2, § 1, van het besluit van de Vlaamse Regering van 12   september 2008 betreffende het opleggen van een administratieve geldboete aan   rechthebbende en verplichte inburgeraars;<BR>3° de verhuurder of zijn   gemachtigde met toepassing van artikel 4, § 2, derde lid, heeft vastgesteld dat   hij het vereiste niveau van het Nederlands bezit.<BR><BR>Als de verhuurder of   zijn gemachtigde een redelijke twijfel heeft of vermoedt dat de   kandidaat-huurder het vereiste niveau van het Nederlands niet bezit, of als de   verhuurder niet bevoegd is om de vaststelling, vermeld in artikel 4, § 2, derde   lid, te doen, verwijst de verhuurder hem door naar het Huis van het Nederlands   dat vaststelt of de persoon voldoet aan het vereiste niveau van het   Nederlands.<BR><BR>§ 3. De persoon die wil toetreden tot een lopende   huurovereenkomst, voldoet aan de toelatingsvoorwaarde, vermeld in paragraaf 1,   als :<BR>1° uit de raadpleging van de Kruispuntbank Inburgering of ingevolge een   verklaring van het Huis van het Nederlands een van de feiten, vermeld in artikel   4, § 2, tweede lid, blijkt;<BR>2° de verhuurder of zijn gemachtigde met   toepassing van artikel 4, § 2, derde lid, vaststelt dat de persoon het vereiste   niveau van het Nederlands bezit;<BR>3° het voor de verhuurder manifest vaststaat   dat de persoon voldoet aan het vereiste niveau van het Nederlands.<BR><BR>Als de   verhuurder of zijn gemachtigde een redelijke twijfel heeft of vermoedt dat de   persoon die wil toetreden tot een lopende huurovereenkomst, het vereiste niveau   van het Nederlands niet bezit, of als de verhuurder niet bevoegd is om de   vaststelling, vermeld in artikel 4, § 2, derde lid, te doen, verwijst de   verhuurder hem door naar het Huis van het Nederlands dat vaststelt of de persoon   voldoet aan het vereiste niveau van het Nederlands.<BR><BR>De verhuurder meldt   via de Kruispuntbank Inburgering aan het Huis van het Nederlands de   identiteitsgegevens van de persoon die wil toetreden, voor wie een verklaring   waaruit de feiten, vermeld in artikel 4, § 2, tweede lid, 3° of 4°, blijken, is   afgelegd. Die gegevens worden binnen zeven werkdagen na de toetreding   gemeld.<BR><BR>§ 4. De versoepeling, vermeld in artikel 4, § 3, eerste lid,   geldt in voorkomend geval ook voor de toelatingsvoorwaarde, vermeld in paragraaf   1.<BR><BR>De toelatingsvoorwaarde, vermeld in paragraaf 1, is niet van   toepassing voor de kandidaat-huurder of de persoon die wil toetreden tot een   lopende huurovereenkomst die om beroepsmatige, medische of persoonlijke redenen   tijdelijk niet kan deelnemen of niet verder kan deelnemen aan een cursus   Nederlands tweede taal. De minister bepaalt de beroepsmatige, medische en   persoonlijke redenen.<BR><BR>Aan de kandidaat-huurder of de persoon die wil   toetreden tot een lopende huurovereenkomst,van wie de gezondheidstoestand   deelname of verdere deelname aan een cursus Nederlands tweede taal blijvend   onmogelijk maakt, wordt een vrijstelling van de toelatingsvoorwaarde met   betrekking tot de bereidheid om het Nederlands te leren toegestaan als hij een   medisch attest voorlegt.</P>
+...
 
 ## Afdeling IV. De standaardvoorrangs- en toewijzingsregels
 
@@ -499,6 +520,40 @@ Als de beslissing niet is verzonden binnen de gestelde termijn, wordt het beroep
 
 ## [HOOFDSTUK VIbis. Huurdersverplichting, vermeld in artikel 92, § 3, eerste lid, 6° en 7°, van de Vlaamse Wooncode (ing. BVR 7 juli 2017, art. 7, I: 1 november 2017)]
 
+### ART 30bis.
+
+De huurder moet voldoen aan de huurdersverplichting, vermeld in artikel 92, § 3, eerste lid, 6° en 7°, van de Vlaamse Wooncode één jaar nadat hij huurder is geworden.<br>
+<br>
+De huurder voldoet aan de huurdersverplichting, vermeld in het eerste lid, als een van de volgende voorwaarden vervuld zijn:<br>
+1° het stond voor de verhuurder manifest vast of hij stelde met toepassing van artikel 30ter vast dat de huurder bij de inschrijving voor een sociale huurwoning of de toelating van de huurder tot de woning of de toetreding van de huurder tot de huurovereenkomst beschikte over de basistaalvaardigheid Nederlands;<br>
+2° de verhuurder verkrijgt via de Kruispuntbank Inburgering of van de huurder een van de volgende documenten:<br>
+a) een bewijs waaruit blijkt dat de huurder beschikt over de basistaalvaardigheid Nederlands, uitgereikt door instellingen waarin het Nederlands de onderwijstaal is, die wettelijk of decretaal erkend zijn in het vereiste niveau;<br>
+b) een diploma, certificaat of ander document, behaald als bewijs van het voltooien van een opleiding die gevolgd is aan een onderwijsinstelling die gefinancierd, georganiseerd of gesubsidieerd wordt door Nederland, met uitzondering van de opleidingen gevolgd aan een onderwijsinstelling in Bonaire, Sint-Eustatius of Saba;<br>
+c) een diploma, certificaat of ander document, behaald als bewijs van het voltooien van een van de door de Vlaamse Regering bepaalde Nederlandstalige opleidingen in een onderwijsinstelling in Bonaire, Sint-Eustatius, Saba, Aruba, Curaçao of Sint-Maarten of in Suriname;<br>
+d) een bewijs waaruit blijkt dat de huurder beschikt over de basistaalvaardigheid Nederlands, uitgereikt door de organisaties die belast zijn met de uitvoering van het Vlaamse integratie- en inburgeringsbeleid;<br>
+e) het Certificaat Nederlands als Vreemde Taal van de Nederlandse Taalunie;<br>
+f) een bewijs waaruit blijkt dat de huurder beschikt over de basistaalvaardigheid Nederlands, uitgereikt door de gewestelijke diensten voor beroepsopleiding en arbeidsbemiddeling;<br>
+g) een taalcertificaat, afgegeven door het Selectiebureau van de Federale Overheid (SELOR) waaruit blijkt dat de huurder beschikt over de basistaalvaardigheid Nederlands;<br>
+<br>
+Ter uitvoering van artikel 92, § 3, derde lid, van de Vlaamse Wooncode, is de huurder vrijgesteld van de huurdersverplichting, vermeld in het eerste lid, in de volgende gevallen:<br>
+1° de verhuurder leidt af uit de Kruispuntbank Inburgering dat de huurder wegens ernstige ziekte, mentale of fysieke handicap blijvend vrijgesteld is van het volgen van de opleiding Nederlands tweede taal;<br>
+2° de verhuurder verkrijgt via de Kruispuntbank Inburgering een verklaring van uitgeleerdheid die de beperkte cognitieve vaardigheden van de huurder aantoont. De verklaring wordt afgeleverd door een centrum voor basiseducatie, vermeld in artikel 2, 4°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
+3° de huurder legt een medisch attest voor waaruit blijkt dat een ernstige ziekte, mentale of fysieke handicap hem blijvend belemmert om over de basistaalvaardigheid Nederlands te beschikken.<br>
+<br>
+De huurder krijgt een uitstel van één jaar om te voldoen aan de huurdersverplichting, vermeld in het eerste lid, als de verhuurder bij de controle via de Kruispuntbank Inburgering een van de volgende documenten verkrijgt:<br>
+1° een bewijs waaruit blijkt dat de huurder de opleiding Nederlands tweede taal om over de basistaalvaardigheid Nederlands te kunnen beschikken omwille van beroepsmatige, medische of persoonlijke redenen die de minister bepaalt, nog niet heeft gestart of heeft kunnen afronden;<br>
+2° een verklaring, afgeleverd door de organisaties die belast zijn met de uitvoering van het Vlaamse integratie- en inburgeringsbeleid, waaruit blijkt dat de huurder de opleiding Nederlands tweede taal om over de basistaalvaardigheid Nederlands te kunnen beschikken, nog niet heeft gestart of heeft kunnen afronden doordat een gepaste opleiding Nederlands tweede taal niet tijdig beschikbaar is.<br>
+<br>
+Als de huurder niet voldoet aan de huurdersverplichting, vermeld in het eerste lid, en hij is niet vrijgesteld van de verplichting, verwittigt de verhuurder de toezichthouder die conform artikel 102bis van de Vlaamse Wooncode een administratieve geldboete kan opleggen.
+
+### ART 30ter.
+
+De organisatie belast met de uitvoering van het Vlaamse integratie- en inburgeringsbeleid verleent op verzoek aan de verhuurder of zijn gemachtigde de bevoegdheid om in haar naam vast te stellen dat een persoon voldoet aan de basistaalvaardigheid Nederlands. In dat geval doet de verhuurder of zijn gemachtigde die vaststelling op basis van de instrumenten die aangeleverd worden door de voornoemde organisatie.<br>
+<br>
+De minister legt de nadere regeling voor de verlening van de bevoegdheid, vermeld in het eerste lid, vast waarin minstens de volgende elementen zijn opgenomen:<br>
+1° de opleiding die de verhuurder of zijn gemachtigde moet volgen;<br>
+2° de instrumenten die de verhuurder of zijn gemachtigde moet gebruiken.
+
 ## HOOFDSTUK VII. Huurovereenkomst, huurlasten en waarborg
 
 ## Afdeling I. Huurovereenkomst en beëindiging van de huurovereenkomst
@@ -523,7 +578,7 @@ De plaatsbeschrijving bij de aanvang van de huurovereenkomst wordt opgemaakt voo
 
 ### ART. 32.
 
-<P>Als een huurder zijn verplichtingen, vermeld in artikel 92, § 3, eerste lid,   6° en 7°, van de Vlaamse Wooncode, niet nakomt, meldt het Huis van het   Nederlands dat schriftelijk of via de Kruispuntbank Inburgering aan de   verhuurder binnen dertig dagen na de vaststelling. De verplichting is niet   nagekomen als een huurder de aangeboden cursus Nederlands tweede taal niet heeft   aangevat of minder dan 80% aanwezig was tijdens de cursus Nederlands tweede   taal, of geen 80 % meer aanwezig kan zijn, met behoud van de toepassing van   artikel 4, § 3, tenzij de huurder kan aantonen dat hij het vereiste niveau van   het Nederlands heeft behaald.<BR><BR>Als een huurder zijn verplichting, vermeld   in artikel 92, § 3, eerste lid, 8°, van de Vlaamse Wooncode, niet nakomt, meldt   het onthaalbureau dat schriftelijk of via de Kruispuntbank Inburgering aan de   verhuurder binnen dertig dagen na de vaststelling. De verplichting is niet   nagekomen als een huurder een inbreuk pleegt als vermeld in artikel 2, § 1, van   het besluit van de Vlaamse Regering van 12 september 2008 betreffende het   opleggen van een administratieve geldboete aan rechthebbende en verplichte   inburgeraars.</P>
+...
 
 ### ART. 33.
 
@@ -542,7 +597,7 @@ Als de verwerving, vermeld in het eerste lid, 2°, kosteloos gebeurt, moet al na
 <br>
 § 1bis. Als de huurder zijn verplichtingen, vermeld in artikel 92, § 3, eerste lid, van de Vlaamse Wooncode, niet nakomt, kan de verhuurder om een uithuiszetting te voorkomen de volgende maatregelen nemen :<br>
 1° de huurder doorverwijzen naar een welzijns- of gezondheidsvoorziening voor begeleiding;<br>
-2° als de huurder valt onder het toepassingsgebied van het Inburgeringsdecreet, de huurder doorverwijzen naar het onthaalbureau.<br>
+2° als de huurder valt onder het toepassingsgebied van het Inburgeringsdecreet, de huurder doorverwijzen naar de organisatie die belast is met de uitvoering van het Vlaamse integratie- en inburgeringsbeleid.<br>
 <br>
 De begeleidende maatregelen die gekoppeld zijn aan de begeleiding, vermeld in het eerste lid, 1°, worden opgenomen in een begeleidingsovereenkomst tussen de huurder en een welzijns- of gezondheidsvoorziening.<br>
 <br>
@@ -738,8 +793,8 @@ Onder de bevoegde overheden en instellingen, vermeld in § 1 en § 2, eerste lid
 2° de instellingen van sociale zekerheid, vermeld in artikelen 1 en 2, eerste lid, 2°, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid en de personen waartoe het netwerk van de sociale zekerheid met toepassing van artikel 18 van dezelfde wet werd uitgebreid;<br>
 3° de Federale Overheidsdienst Financiën;<br>
 4° de Kruispuntbank Inburgering;<br>
-5° de Huizen van het Nederlands;<br>
-6° de onthaalbureaus;<br>
+5° ...;<br>
+6° de organisaties die belast zijn met de uitvoering van het Vlaamse integratie- en inburgeringsbeleid;<br>
 7° de coördinatiecel Vlaamse E-government;<br>
 8° ...<br>
 <br>
@@ -773,7 +828,8 @@ De toezichthouder is bevoegd om de administratieve maatregelen, vermeld in artik
 3° het bedrag van de opgelegde administratieve geldboete en de elementen die in aanmerking werden genomen voor het bepalen van dat bedrag;<br>
 4° de termijn waarbinnen de administratieve geldboete moet worden voldaan;<br>
 5° de vermelding van de mogelijkheid om de administratieve geldboete te betwisten en om te verzoeken om een kwijtschelding, vermindering of uitstel van betaling als vermeld in artikel 102bis, § 5, van de Vlaamse Wooncode, en de melding dat de huurder schriftelijk om een hoorzitting kan verzoeken als vermeld in artikel 102bis, § 4, van de Vlaamse Wooncode;<br>
-6° de melding dat de huurder zich, in voorkomend geval, op de hoorzitting kan laten bijstaan of vertegenwoordigen door een raadsman of een huurdersbond of vertrouwenspersoon. In geval van een vertegenwoordiging door een huurdersbond of vertrouwenspersoon is een schriftelijk mandaat van de huurder nodig.<br>
+6° de melding dat de huurder zich, in voorkomend geval, op de hoorzitting kan laten bijstaan of vertegenwoordigen door een raadsman of een huurdersbond of vertrouwenspersoon. In geval van een vertegenwoordiging door een huurdersbond of vertrouwenspersoon is een schriftelijk mandaat van de huurder nodig;<br>
+7° in voorkomend geval de melding van de termijn waarbinnen de huurdersverplichting alsnog moet zijn nagekomen. Die termijn mag maximaal één jaar zijn voor de huurdersverplichting, vermeld in artikel 92, § 3, eerste lid, 6° en 7°, van de Vlaamse Wooncode.<br>
 <br>
 De toezichthouder bepaalt, in voorkomend geval, de dag waarop de overtreder uitgenodigd wordt om zijn zaak mondeling te verdedigen. De toezichthouder maakt een verslag van de hoorzitting.<br>
 <br>
@@ -1113,9 +1169,18 @@ Art. 17. De huurder is verplicht de elementen die nodig zijn voor de berekening 
 <br>
 Art. 18. De huurder is verplicht de woning te onderhouden als een goede huisvader. Hij zal de woning op zodanige wijze bewonen dat geen overmatige hinder wordt veroorzaakt voor de buren en de naaste omgeving en dat de leefbaarheid niet in het gedrang komt.<br>
 <br>
-Art. 19. (als de taalbereidheidsvoorwaarde reeds vervuld is, kan dit artikel worden geschrapt) De huurder is verplicht de bereidheid te tonen om het Nederlands aan te leren.<br>
+Art 19. (als de taalkennisverplichting reeds vervuld is, kan dit artikel worden geschrapt) De huurder is verplicht na een jaar over een taalvaardigheid van het Nederlands te beschikken die overeenstemt met niveau A.1 van het Europees Referentiekader voor Moderne Vreemde Talen.<br>
 <br>
-Art. 20. (als de inburgeringsbereidheidsvoorwaarde reeds vervuld is, of als de huurder niet moet voldoen aan die voorwaarde, kan dit artikel worden geschrapt) De huurder is verplicht het inburgeringstraject te volgen.<br>
+De huurder is vrijgesteld van de verplichting in de volgende gevallen:<br>
+1° de verhuurder leidt af uit de Kruispuntbank Inburgering dat de huurder wegens ernstige ziekte, mentale of fysieke handicap blijvend vrijgesteld is van het volgen van de opleiding Nederlands tweede taal;<br>
+2° de verhuurder verkrijgt via de Kruispuntbank Inburgering een verklaring van uitgeleerdheid, afgeleverd door een centrum voor basiseducatie, vermeld in artikel 2, 4°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
+3° de huurder legt een medisch attest voor waaruit blijkt dat een ernstige ziekte, mentale of fysieke handicap hem blijvend belemmert om over de basistaalvaardigheid Nederlands te beschikken.<br>
+<br>
+De huurder krijgt een uitstel van een jaar om te voldoen aan deze huurdersverplichting als de verhuurder via de Kruispuntbank Inburgering een van de volgende documenten verkrijgt:<br>
+1° een bewijs waaruit blijkt dat de huurder de opleiding Nederlands tweede taal om over de basistaalvaardigheid Nederlands te kunnen beschikken omwille van beroepsmatige, medische of persoonlijke redenen nog niet heeft gestart of heeft kunnen afronden;<br>
+2° een verklaring, afgeleverd door de organisaties die belast zijn met de uitvoering van het Vlaamse integratie- en inburgeringsbeleid, waaruit blijkt dat de huurder de opleiding Nederlands tweede taal om over de basistaalvaardigheid Nederlands te kunnen beschikken, nog niet heeft gestart of heeft kunnen afronden doordat een gepaste opleiding Nederlands tweede taal niet tijdig beschikbaar is..<br>
+<br>
+Art. 20. ....<br>
 <br>
 Art. 21. (alleen van toepassing als de toewijzing afhankelijk is gemaakt van het sluiten van een begeleidingsovereenkomst overeenkomstig titel VII van de Vlaamse Wooncode) De huurder is verplicht de afspraken na te leven die opgenomen zijn in de begeleidingsovereenkomst die opgemaakt is als voorwaarde voor de toewijzing van de sociale huurwoning.<br>
 <br>
@@ -1339,9 +1404,18 @@ Art. 17. De huurder is verplicht de elementen die nodig zijn voor de berekening 
 <br>
 Art. 18. De huurder is verplicht de woning te onderhouden als een goede huisvader. Hij zal de woning op zodanige wijze bewonen dat geen overmatige hinder wordt veroorzaakt voor de buren en de naaste omgeving en dat de leefbaarheid niet in het gedrang komt.<br>
 <br>
-Art. 19. (Als de taalbereidheidsvoorwaarde al vervuld is, kan dit artikel worden geschrapt.) De huurder is verplicht bereidheid te tonen om het Nederlands aan te leren.<br>
+Art 19. (als de taalkennisverplichting reeds vervuld is, kan dit artikel worden geschrapt) De huurder is verplicht na een jaar over een taalvaardigheid van het Nederlands te beschikken die overeenstemt met niveau A.1 van het Europees Referentiekader voor Moderne Vreemde Talen.<br>
 <br>
-Art. 20. (Als de inburgeringsbereidheidsvoorwaarde al vervuld is, of als de huurder niet moet voldoen aan die voorwaarde, kan dit artikel worden geschrapt.) De huurder is verplicht het inburgeringstraject te volgen.<br>
+De huurder is vrijgesteld van de verplichting in de volgende gevallen:<br>
+1° de verhuurder leidt af uit de Kruispuntbank Inburgering dat de huurder wegens ernstige ziekte, mentale of fysieke handicap blijvend vrijgesteld is van het volgen van de opleiding Nederlands tweede taal;<br>
+2° de verhuurder verkrijgt via de Kruispuntbank Inburgering een verklaring van uitgeleerdheid, afgeleverd door een centrum voor basiseducatie, vermeld in artikel 2, 4°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
+3° de huurder legt een medisch attest voor waaruit blijkt dat een ernstige ziekte, mentale of fysieke handicap hem blijvend belemmert om over de basistaalvaardigheid Nederlands te beschikken.<br>
+<br>
+De huurder krijgt een uitstel van een jaar om te voldoen aan deze huurdersverplichting als de verhuurder via de Kruispuntbank Inburgering een van de volgende documenten verkrijgt:<br>
+1° een bewijs waaruit blijkt dat de huurder de opleiding Nederlands tweede taal om over de basistaalvaardigheid Nederlands te kunnen beschikken omwille van beroepsmatige, medische of persoonlijke redenen nog niet heeft gestart of heeft kunnen afronden;<br>
+2° een verklaring, afgeleverd door de organisaties die belast zijn met de uitvoering van het Vlaamse integratie- en inburgeringsbeleid, waaruit blijkt dat de huurder de opleiding Nederlands tweede taal om over de basistaalvaardigheid Nederlands te kunnen beschikken, nog niet heeft gestart of heeft kunnen afronden doordat een gepaste opleiding Nederlands tweede taal niet tijdig beschikbaar is..<br>
+<br>
+Art. 20. ....<br>
 <br>
 Art. 21. (Dit artikel is alleen van toepassing als de toewijzing afhankelijk is gemaakt van het sluiten van een begeleidingsovereenkomst overeenkomstig titel VII van de Vlaamse Wooncode.) De huurder is verplicht de afspraken na te leven die opgenomen zijn in de begeleidingsovereenkomst die opgemaakt is als voorwaarde voor de toewijzing van de sociale huurwoning.<br>
 <br>
@@ -1594,9 +1668,18 @@ Art. 18. De onderhuurder is hoofdelijk en ondeelbaar gehouden tot betaling van d
 <br>
 Art. 19. De onderhuurder is verplicht de woning te onderhouden als een goede huisvader. Hij zal de woning op zodanige wijze bewonen dat geen overmatige hinder wordt veroorzaakt voor de buren en de naaste omgeving en dat de leefbaarheid niet in het gedrang komt.<br>
 <br>
-Art. 20. (als de taalbereidheidsvoorwaarde reeds vervuld is, kan dit artikel worden geschrapt) De onderhuurder is verplicht de bereidheid te tonen om het Nederlands aan te leren.<br>
+Art 20. (als de taalkennisverplichting reeds vervuld is, kan dit artikel worden geschrapt) De onderhuurder is verplicht na een jaar over een taalvaardigheid van het Nederlands te beschikken die overeenstemt met niveau A.1 van het Europees Referentiekader voor Moderne Vreemde Talen.<br>
 <br>
-Art. 21. (als de inburgeringsbereidheidsvoorwaarde reeds vervuld is, of als de huurder niet moet voldoen aan die voorwaarde, kan dit artikel worden geschrapt) De onderhuurder is verplicht het inburgeringstraject te volgen.<br>
+De huurder is vrijgesteld van de verplichting in de volgende gevallen:<br>
+1° de verhuurder leidt af uit de Kruispuntbank Inburgering dat de huurder wegens ernstige ziekte, mentale of fysieke handicap blijvend vrijgesteld is van het volgen van de opleiding Nederlands tweede taal;<br>
+2° de verhuurder verkrijgt via de Kruispuntbank Inburgering een verklaring van uitgeleerdheid, afgeleverd door een centrum voor basiseducatie, vermeld in artikel 2, 4°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
+3° de huurder legt een medisch attest voor waaruit blijkt dat een ernstige ziekte, mentale of fysieke handicap hem blijvend belemmert om over de basistaalvaardigheid Nederlands te beschikken.<br>
+<br>
+De huurder krijgt een uitstel van een jaar om te voldoen aan deze huurdersverplichting als de verhuurder via de Kruispuntbank Inburgering een van de volgende documenten verkrijgt:<br>
+1° een bewijs waaruit blijkt dat de huurder de opleiding Nederlands tweede taal om over de basistaalvaardigheid Nederlands te kunnen beschikken omwille van beroepsmatige, medische of persoonlijke redenen nog niet heeft gestart of heeft kunnen afronden;<br>
+2° een verklaring, afgeleverd door de organisaties die belast zijn met de uitvoering van het Vlaamse integratie- en inburgeringsbeleid, waaruit blijkt dat de huurder de opleiding Nederlands tweede taal om over de basistaalvaardigheid Nederlands te kunnen beschikken, nog niet heeft gestart of heeft kunnen afronden doordat een gepaste opleiding Nederlands tweede taal niet tijdig beschikbaar is..<br>
+<br>
+Art. 21. ...<br>
 <br>
 Art. 22. (alleen van toepassing als de toewijzing afhankelijk is gemaakt van het sluiten van een begeleidingsovereenkomst overeenkomstig titel VII van de Vlaamse Wooncode) De onderhuurder is verplicht de afspraken na te leven die opgenomen zijn in de begeleidingsovereenkomst die opgemaakt is als voorwaarde voor de toewijzing van de sociale huurwoning.<br>
 <br>
