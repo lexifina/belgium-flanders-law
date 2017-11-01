@@ -67,6 +67,10 @@ De bedragen, vermeld in deze paragraaf, worden telkens op 1 januari en 1 juli aa
 <br>
 § 2/2. De meerderjarige gebruikers, vermeld in paragraaf 2, die jonger zijn dan 21 jaar, betalen de financiële bijdragen, vermeld in artikel 25 van het besluit van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap.".
 
+### ART 5.
+
+In artikel 9/1, § 2, eerste lid, van hetzelfde besluit, ingevoegd bij besluit van de Vlaamse Regering van 8 september 2017, worden tussen het woord "dagondersteuning" en het woord "begeleid" de woorden "of een van de individuele ondersteuningsfuncties" ingevoegd.
+
 ### ART 6.
 
 Aan hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 8 september 2017, wordt een bijlage 5 toegevoegd, die als bijlage 1 bij dit besluit is gevoegd.
