@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029855,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-21 tot regeling van sommige aspecten van de organisatie en werking van het Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029855/VolledigDocument?datum=2017-11-01",
+  "source_sha256": "ce2075222309a79f0f0c739c5dd8bfecabe748df8e670c41a13d53cc66a1d00d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029855&param=informatie",
+  "as_of": "2017-11-01",
+  "made": "2018-09-21",
+  "gazette": "2018-10-26",
+  "numac": 2018014427,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2017-11-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
