@@ -2,16 +2,16 @@
   "codex_id": 1025282,
   "title": "Ministerieel besluit van 2015-03-16 tot vaststelling van een wedstrijdreglement voor de jaarlijkse toekenning van de Onroerenderfgoedprijs",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025282/VolledigDocument?datum=2015-04-26",
-  "source_sha256": "6fb7bb7a26e719a1d60e7747c31ee48dfd08c1e191af0bfd3a69066e1d7e62c9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025282/VolledigDocument?datum=2017-11-01",
+  "source_sha256": "d005a879307a9d6546c109c8815e396e2eb22c07f58cdf4b1589c528dc1ac32a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025282&param=informatie",
-  "as_of": "2015-04-26",
+  "as_of": "2017-11-01",
   "made": "2015-03-16",
   "gazette": "2015-04-16",
   "numac": 2015035449,
   "document_start": "2015-04-26",
   "document_end": null,
-  "in_force": "2015-04-26",
+  "in_force": "2017-11-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2015-04-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-11-01; future article versions excluded; article text as the API gives it"
 }

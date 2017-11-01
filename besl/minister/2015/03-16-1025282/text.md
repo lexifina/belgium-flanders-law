@@ -8,7 +8,7 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder onroerenderfgoedproject: een project rond   archeologische sites, monumenten, stads- en dorpsgezichten, en   cultuurhistorische landschappen, zonder onderscheid tussen beschermd en   niet-beschermd onroerend erfgoed, geïnventariseerd en niet-geïnventariseerd   onroerend erfgoed, of onroerend erfgoed dat al dan niet is opgenomen in een   vastgestelde inventaris.
+In dit besluit wordt verstaan onder onroerenderfgoedproject: een project rond erfgoedlandschappen, beschermde archeologische sites, beschermde monumenten, beschermde stads- en dorpsgezichten en beschermde cultuurhistorische landschappen.
 
 ### ART. 2.
 
@@ -34,7 +34,15 @@ In   dit besluit wordt verstaan onder onroerenderfgoedproject: een project rond 
 
 ### ART. 7.
 
-<P>Het   onroerenderfgoedproject moet gerealiseerd zijn in het Vlaamse Gewest.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   onroerenderfgoedproject past binnen de voor dat jaar bekendgemaakte groep als   vermeld in artikel 4, § 2.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   onroerenderfgoedproject werd maximaal vijf jaar vóór de uiterste datum van   kandidaatstelling voltooid. Bij archeologische sites kan het gaan om nog niet   afgeronde projecten, op voorwaarde dat ze al zo ver gevorderd zijn dat de jury   het te verwachten eindresultaat kan beoordelen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Elk   onroerenderfgoedproject kan maar één keer aan de Onroerenderfgoedprijs   deelnemen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   onroerenderfgoedproject werd gerealiseerd conform alle vigerende wettelijke en   decretale voorschriften en regelingen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het onroerenderfgoedproject moet gerealiseerd zijn in het Vlaamse Gewest.</p>
+
+<p>Het onroerenderfgoedproject past binnen de voor dat jaar bekendgemaakte groep als vermeld in artikel 4, § 2.</p>
+
+<p>Het onroerenderfgoedproject werd maximaal vijf jaar vóór de uiterste datum van kandidaatstelling voltooid. Bij beschermde archeologische sites kan het gaan om nog niet afgeronde projecten, op voorwaarde dat ze al zo ver gevorderd zijn dat de jury het te verwachten eindresultaat kan beoordelen.</p>
+
+<p>Elk onroerenderfgoedproject kan maar één keer aan de Onroerenderfgoedprijs deelnemen.</p>
+
+<p>Het onroerenderfgoedproject werd gerealiseerd conform alle vigerende wettelijke en decretale voorschriften en regelingen.</p>
 
 ## Hoofdstuk 3 Kandidaatstelling
 
@@ -58,7 +66,19 @@ In   dit besluit wordt verstaan onder onroerenderfgoedproject: een project rond 
 
 ### ART. 12.
 
-<P>§   1. De jury beoordeelt de kandidaturen aan de hand van de volgende   beoordelingscriteria:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   voorbeeldfunctie: de mate waarin het onroerenderfgoedproject inspirerend kan   werken voor andere projecten door de voorbeeldige omgang met het onroerend   erfgoed;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   vernieuwend karakter: de mate waarin het onroerenderfgoedproject blijk geeft van   een doordacht en vernieuwend concept, of de mate waarin nieuwe inzichten,   methoden en technieken zijn toegepast;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   maatschappelijke relevantie: de mate waarin het onroerenderfgoedproject inspeelt   op maatschappelijke uitdagingen of bijdraagt aan de waardering voor onroerend   erfgoed in het algemeen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   betrokkenheid en engagement: de mate waarin eigenaars, beheerders, omwonenden of   andere belanghebbenden een betekenisvolle rol hebben gespeeld in de   totstandkoming van het onroerenderfgoedproject.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De jury kan aanvullende informatie opvragen of een bezoek ter plaatse   brengen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. De jury wijst drie laureaten aan en kiest uit die drie laureaten één winnaar.   De jury motiveert haar keuze op basis van de beoordelingscriteria, vermeld in   paragraaf 1.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   4. Als de jury het kwaliteitsniveau onvoldoende acht, kan ze gemotiveerd   beslissen om minder laureaten te selecteren of om geen Onroerenderfgoedprijs toe   te kennen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   5. De jury kan ook de architect, restaurateur, ambachtsman of een andere   uitvoerder van de winnaar honoreren met een speciale vermelding vanwege zijn   voortreffelijke bijdrage aan het onroerenderfgoedproject. De jury motiveert haar   keuze.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. De jury beoordeelt de kandidaturen aan de hand van de volgende beoordelingscriteria:<br>
+1° voorbeeldfunctie: de mate waarin het onroerenderfgoedproject inspirerend kan werken voor andere projecten door de voorbeeldige omgang met het onroerend erfgoed;<br>
+2° vernieuwend karakter: de mate waarin het onroerenderfgoedproject blijk geeft van een doordacht en vernieuwend concept, of de mate waarin nieuwe inzichten, methoden en technieken zijn toegepast;<br>
+3° maatschappelijke relevantie: de mate waarin het onroerenderfgoedproject inspeelt op maatschappelijke uitdagingen of bijdraagt aan de waardering voor onroerend erfgoed in het algemeen;<br>
+4° betrokkenheid en engagement: de mate waarin eigenaars, beheerders, omwonenden of andere belanghebbenden een betekenisvolle rol hebben gespeeld in de totstandkoming van het onroerenderfgoedproject.</p>
+
+<p>§ 2. De jury kan aanvullende informatie opvragen of een bezoek ter plaatse brengen.</p>
+
+<p>§ 3. De jury wijst drie laureaten aan en kiest uit die drie laureaten één winnaar. De jury motiveert haar keuze op basis van de beoordelingscriteria, vermeld in paragraaf 1.</p>
+
+<p>§ 4. Als de jury het kwaliteitsniveau onvoldoende acht, kan ze gemotiveerd beslissen om minder laureaten te selecteren of om geen Onroerenderfgoedprijs toe te kennen.</p>
+
+<p>§ 5. De jury kan ook de architect, restaurateur, ambachtsman of een andere uitvoerder&nbsp;van een onroerenderfgoedproject honoreren met een speciale vermelding vanwege zijn voortreffelijke bijdrage aan het onroerenderfgoedproject. De jury motiveert haar keuze.</p>
 
 ### ART. 13.
 
