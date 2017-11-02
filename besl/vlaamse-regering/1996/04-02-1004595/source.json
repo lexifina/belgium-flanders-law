@@ -2,16 +2,16 @@
   "codex_id": 1004595,
   "title": "Besluit van de Vlaamse Regering van 1996-04-02 betreffende de heffing ter bestrijding van [...] verkrotting van gebouwen en/of woningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004595/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "519fb74af53fe850f191f4f3f9bf21976d96bd55ed931bafc7c90bcc539b42a5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004595/VolledigDocument?datum=2017-11-02",
+  "source_sha256": "b1baa17d27acaff8c3924c324c18c092eaf8b99921e1b05f3ee2d2bf3b809591",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004595&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2017-11-02",
   "made": "1996-04-02",
   "gazette": "1996-05-01",
   "numac": 1996035526,
   "document_start": "1996-05-01",
   "document_end": "2017-11-01",
-  "in_force": "2017-04-01",
+  "in_force": "2017-11-02",
   "article_versions": 36,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-11-02; future article versions excluded; article text as the API gives it"
 }
