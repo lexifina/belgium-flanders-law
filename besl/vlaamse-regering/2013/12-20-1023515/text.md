@@ -16,7 +16,15 @@ Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der   instellingen
 
 ### ART. 1.1.0.0.1.
 
-<P>De begrippen, gehanteerd in titel 2, hoofdstuk 5, worden geïnterpreteerd in   overeenstemming met de bepalingen van het besluit van de Vlaamse Regering van 2   april 1996 betreffende de heffing ter bestrijding van verkrotting van gebouwen   en/of woningen.<BR><BR>De begrippen, gehanteerd in titel 2, hoofdstuk 6, worden   geïnterpreteerd in overeenstemming met de bepalingen van het besluit van de   Vlaamse Regering van 1 juli 1997 tot uitvoering van het decreet van 19 april   1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en   verwaarlozing van bedrijfsruimten.<BR><BR>In titel 3, hoofdstuk 4, afdeling 3,   van dit besluit wordt verstaan onder : de bijzondere commissie : de bijzondere   commissie, vermeld in artikel 3.4.3.0.2, § 1, eerste lid, van de Vlaamse Codex   Fiscaliteit van 13 december 2013.<BR><BR>In titel 3, hoofdstuk 20, van dit   besluit wordt verstaan onder :<BR>1° het Agentschap : het Agentschap voor Natuur   en Bos, vermeld in artikel 27, § 1, 2° van het besluit van de Vlaamse Regering   van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse   administratie;<BR>2° uitgebreid beheerplan van bossen : het beheerplan dat de   gegevens bevat, vermeld in bijlage I bij het besluit van de Vlaamse Regering van   27 juni 2003 betreffende de beheerplannen van bossen</P>
+<p>De begrippen, gehanteerd in titel 2, hoofdstuk 5, worden geïnterpreteerd in overeenstemming met de bepalingen van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de kwaliteits- en veiligheidsnormen voor woningen.<br>
+<br>
+De begrippen, gehanteerd in titel 2, hoofdstuk 6, worden geïnterpreteerd in overeenstemming met de bepalingen van het besluit van de Vlaamse Regering van 1 juli 1997 tot uitvoering van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten.<br>
+<br>
+In titel 3, hoofdstuk 4, afdeling 3, van dit besluit wordt verstaan onder : de bijzondere commissie : de bijzondere commissie, vermeld in artikel 3.4.3.0.2, § 1, eerste lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013.<br>
+<br>
+In titel 3, hoofdstuk 20, van dit besluit wordt verstaan onder :<br>
+1° het Agentschap : het Agentschap voor Natuur en Bos, vermeld in artikel 27, § 1, 2° van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br>
+2° uitgebreid beheerplan van bossen : het beheerplan dat de gegevens bevat, vermeld in bijlage I bij het besluit van de Vlaamse Regering van 27 juni 2003 betreffende de beheerplannen van bossen</p>
 
 ## TITEL 2. Belastingheffing
 
@@ -271,7 +279,13 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 2.5.6.0.1.
 
-<P>De houder van een zakelijk recht die meent in aanmerking te komen voor de   vrijstelling van de heffing, vermeld in artikel 2.5.6.0.1 van de Vlaamse Codex   Fiscaliteit van 13 december 2013, moet een verklaring op erewoord overleggen dat   hij op het vermelde adres is ingeschreven en daar zijn hoofdverblijf heeft, en   dat hij over geen andere woning beschikt.<BR></P>  <P>Die verklaring kan worden overgelegd tot uiterlijk het einde van de   bezwaartermijn, vermeld in artikel 3.5.2.0.1 van de Vlaamse Codex Fiscaliteit   van 13 december 2013. De verklaring geldt totdat ze wordt herroepen door de   houder van het zakelijk recht. De houder van het zakelijk recht moet zijn   verklaring herroepen zodra hij niet langer voldoet aan de voorwaarden om de   vrijstelling van de heffing te krijgen.<BR></P>  <P>Zolang de houder van het zakelijk recht geen aanslagbiljet heeft ontvangen,   moet de verklaring worden overgelegd aan het agentschap of, in voorkomend geval,   aan de administratieve eenheid, vermeld in artikel 2, § 2, van het besluit van   de Vlaamse Regering van 2 april 1996 betreffende de heffing ter bestrijding van   verkrotting van gebouwen en/of woningen. Na de ontvangst van het aanslagbiljet   moet de verklaring worden overgelegd aan de bevoegde entiteit van de Vlaamse   administratie.<BR></P>  <P>Een onvolledige of onjuiste verklaring en een te late herroeping worden   beschouwd als een ontduiking van de heffing.</P>
+<p>De houder van een zakelijk recht die meent in aanmerking te komen voor de vrijstelling van de heffing, vermeld in artikel 2.5.6.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013, moet een verklaring op erewoord overleggen dat hij op het vermelde adres is ingeschreven en daar zijn hoofdverblijf heeft, en dat hij over geen andere woning beschikt.</p>
+
+<p>Die verklaring kan worden overgelegd tot uiterlijk het einde van de bezwaartermijn, vermeld in artikel 3.5.2.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013. De verklaring geldt totdat ze wordt herroepen door de houder van het zakelijk recht. De houder van het zakelijk recht moet zijn verklaring herroepen zodra hij niet langer voldoet aan de voorwaarden om de vrijstelling van de heffing te krijgen.</p>
+
+<p>Zolang de houder van het zakelijk recht geen aanslagbiljet heeft ontvangen, moet de verklaring worden overgelegd aan het agentschap. Na de ontvangst van het aanslagbiljet moet de verklaring worden overgelegd aan de bevoegde entiteit van de Vlaamse administratie.</p>
+
+<p>Een onvolledige of onjuiste verklaring en een te late herroeping worden beschouwd als een ontduiking van de heffing.</p>
 
 ## Afdeling 7. Wijze van heffing
 
@@ -602,8 +616,8 @@ Voorbehouden voor toekomstig gebruik.
 ### ART. 3.1.0.0.2.
 
 <p>De gemeenten ontvangen voor de administratiekosten die ze ter uitvoering van de heffing ongeschikte en onbewoonbare woningen moeten maken:<br>
-1° een eenmalige vergoeding van 15 % van de opbrengst van de eerste belasting met betrekking tot de onroerende goederen die op het grondgebied van de gemeente liggen, met een maximum van 125 euro per belaste woning of gebouw, voor elk gebouw of elke woning waarvan de gemeente de correcte gegevens en indicaties, vermeld in artikel 4 van het besluit van de Vlaamse Regering van 2 april 1996 betreffende de heffing ter bestrijding van verkrotting van gebouwen en/of woningen, heeft meegedeeld aan het agentschap;<br>
-2° vanaf de eerste heffing, 6% van de jaarlijkse opbrengst van de belasting met betrekking tot de onroerende goederen die op het grondgebied van de gemeente liggen voor het beheer van de inventaris, inclusief de opsporings- en vaststellingskosten, op voorwaarde dat de gebouwen of woningen werden gesignaleerd overeenkomstig artikel 4 van het besluit van de Vlaamse Regering van 2 april 1996 betreffende de heffing ter bestrijding van verkrotting van gebouwen en/of woningen.</p>
+1° een eenmalige vergoeding van 15 % van de opbrengst van de eerste belasting met betrekking tot de onroerende goederen die op het grondgebied van de gemeente liggen, met een maximum van 125 euro per belaste woning of gebouw, voor elke woning waarvoor de gemeente conform artikel 15, tweede lid, van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de kwaliteits- en veiligheidsnormen voor woningen het agentschap heeft ingelicht;<br>
+2° vanaf de eerste heffing, 6% van de jaarlijkse opbrengst van de belasting met betrekking tot de onroerende goederen die op het grondgebied van de gemeente liggen voor het beheer van de inventaris, inclusief de opsporings- en vaststellingskosten, op voorwaarde dat de gemeente het agentschap over de woningen heeft ingelicht conform artikel 15, tweede lid, van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de kwaliteits- en veiligheidsnormen voor woningen.</p>
 
 <p>De gemeentelijke opcentiemen, de nalatigheidsinteresten, de administratieve geldboetes en de kosten worden niet in aanmerking genomen voor de berekening van de opbrengst van de belasting, vermeld in het vorige lid.</p>
 
