@@ -47,6 +47,7 @@ In dit besluit wordt verstaan onder :<br>
 1° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving;<br>
 2° bad : een lig- of zitbad, voorzien van koud- en warmwatertoevoer en aansluiting op het rioleringsnet;<br>
 3° beveiligde zending : een aangetekende brief of een afgifte tegen ontvangstbewijs;<br>
+3° /1 decreet van 22 december 1995: hoofdstuk VIII, afdeling 2, onderafdeling 1 en 3, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
 4° decreet van 1 juni 2012 : het decreet van 1 juni 2012 houdende de beveiliging van woningen door optische rookmelders;<br>
 5° douche : een stortbad, voorzien van koud- en warmwatertoevoer en aansluiting op het rioleringsnet;<br>
 6° gemeenschappelijk sanitair lokaal : een gemeenschappelijk lokaal dat uitsluitend bestemd is voor de persoonlijke hygiëne van de kamerbewoners;<br>
@@ -56,6 +57,7 @@ In dit besluit wordt verstaan onder :<br>
 10° gemeenschappelijke ruimte : een gemeenschappelijk deel van de kamerwoning dat aangewend wordt als zitplaats, keuken, interne circulatieruimte of gemeenschappelijk sanitair lokaal;<br>
 11° houder van het zakelijk recht : de persoon of de personen met een recht van volle eigendom, opstal, erfpacht of vruchtgebruik met betrekking tot een gebouw of een woning;<br>
 12° geïndexeerd kadastraal inkomen : het kadastraal inkomen aangepast aan het indexcijfer van de consumptieprijzen van het rijk als vermeld in artikel 518 van het Wetboek van de Inkomstenbelastingen 1992;<br>
+12° /1 inventaris: de inventaris, vermeld in artikel 26, § 1, van het decreet van 22 december 1995;<br>
 13° kamerwoning : elk gebouw of deel ervan dat bestaat uit een of meer kamers en gemeenschappelijke ruimten;<br>
 14° kookruimte : een lokaal of deel ervan dat bestemd is om te koken, waarin een kooktoestel op gas of elektriciteit geplaatst kan worden en dat uitgerust is met een gootsteen met koudwatertoevoer en een aansluiting op het rioleringsnet;<br>
 15° minister : de Vlaamse minister, bevoegd voor de huisvesting;<br>
@@ -236,9 +238,52 @@ De burgemeester bezorgt ook een afschrift aan de gewestelijk ambtenaar en aan de
 
 ### ART. 16.
 
-<P>§ 1. De verzoeker, de bewoner, de houder van het zakelijk recht en de   gewestelijk ambtenaar kunnen met toepassing van artikel 16, § 2, eerste lid,   artikel 16, § 3, eerste lid, artikel 17, § 3, eerste lid, of artikel 17, § 4,   eerste lid, van de Vlaamse Wooncode met een gemotiveerd verzoekschrift bij de   minister beroep aantekenen tegen de beslissing of het stilzitten van de   burgemeester.<BR></P>  <P>Om ontvankelijk te zijn moet het verzoekschrift ingediend worden met een   beveiligde zending, behalve als de gewestelijk ambtenaar het verzoekschrift   indient. Het wordt ingediend op het adres van het agentschap in Brussel.<BR></P>  <P>§ 2. Het beroep tegen een besluit tot ongeschikt- of onbewoonbaarverklaring   werkt schorsend voor de opname op de inventaris, vermeld in artikel 28, § 1, van   het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de   begroting 1996.<BR></P>  <P>§ 3. De minister kan in beroep een besluit nemen om de woning ongeschikt,   onbewoonbaar of overbewoond te verklaren en kan de nodige maatregelen   treffen.<BR></P>  <P>Het agentschap betekent de beslissing van de minister en de eventuele   gevolgen aan de verzoeker, de houder van het zakelijk recht, de bewoner en de   burgemeester.</P>
+<p>§ 1. De verzoeker, de bewoner, de houder van het zakelijk recht en de gewestelijk ambtenaar kunnen met toepassing van artikel 16, § 2, eerste lid, artikel 16, § 3, eerste lid, artikel 17, § 3, eerste lid, of artikel 17, § 4, eerste lid, van de Vlaamse Wooncode met een gemotiveerd verzoekschrift bij de minister beroep aantekenen tegen de beslissing of het stilzitten van de burgemeester.</p>
+
+<p>Om ontvankelijk te zijn moet het verzoekschrift ingediend worden met een beveiligde zending, behalve als de gewestelijk ambtenaar het verzoekschrift indient. Het wordt ingediend op het adres van het agentschap in Brussel.</p>
+
+<p>§ 2. Het beroep tegen een besluit tot ongeschikt- of onbewoonbaarverklaring werkt schorsend voor de opname op de inventaris.</p>
+
+<p>§ 3. De minister kan in beroep een besluit nemen om de woning ongeschikt, onbewoonbaar of overbewoond te verklaren en kan de nodige maatregelen treffen.</p>
+
+<p>Het agentschap betekent de beslissing van de minister en de eventuele gevolgen aan de verzoeker, de houder van het zakelijk recht, de bewoner en de burgemeester.</p>
 
 ## [HOOFDSTUK 5/1. De inventaris van ongeschikte en onbewoonbare woningen (ing. BVR 15 september 2017, art. 3, I: 2 november 2017)]
+
+### ART 16/1.
+
+Het agentschap beheert de inventaris.<br>
+<br>
+De ambtenaren die de leidend ambtenaar van het agentschap aanwijst, oefenen de bevoegdheden die verbonden zijn aan het beheer van de inventaris, uit op het grondgebied van alle gemeenten van het Vlaamse Gewest.<br>
+<br>
+De inventaris wordt digitaal bijgehouden.
+
+### ART 16/2.
+
+Het registratieattest, vermeld in artikel 28, § 1, van het decreet van 22 december 1995, bevat minimaal de volgende gegevens:<br>
+1° het adres van de ongeschikt of onbewoonbaar verklaarde woning;<br>
+2° de kadastrale gegevens van de ongeschikt of onbewoonbaar verklaarde woning;<br>
+3° de identiteit en het adres van de houders van het zakelijk recht;<br>
+4° het nummer en de datum van het besluit tot ongeschikt- of onbewoonbaarverklaring;<br>
+5° de datum van het registratieattest;<br>
+6° de gronden van de inventarisatie;<br>
+7° de verdere gevolgen van de inventarisatie;<br>
+8° de beroepsmogelijkheden.<br>
+<br>
+De minister kan een model van registratieattest opmaken.<br>
+<br>
+De registratieattesten worden met een beveiligde zending betekend aan de houders van het zakelijk recht, zoals bekend bij de Administratie van het Kadaster, de Registratie en de Domeinen op de datum van de inventarisatie.
+
+### ART 16/3.
+
+Bij overdracht van een zakelijk recht als vermeld in artikel 2.5.2.0.1, eerste lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, bevat het formulier, vermeld in artikel 29, tweede lid, van het decreet van 22 december 1995, de gegevens van het registratieattest en de identificatiegegevens van de verkrijger van het zakelijk recht, met inbegrip van het nummer in de Kruispuntbank van Ondernemingen (KBO) of het btw-nummer van rechtspersonen en het rijksregisternummer van natuurlijke personen.
+
+### ART 16/4.
+
+In het laatste kwartaal dat voorafgaat aan de verjaardag van de inventarisatie, stuurt de inventarisbeheerder een brief naar de houder van het zakelijk recht waarin hij wijst op al de volgende feiten:<br>
+1° het feit dat de woning in kwestie nog altijd geïnventariseerd is;<br>
+2° de gevolgen van de verjaardag van de inventarisatie;<br>
+3° de mogelijkheid tot schrapping, vermeld in artikel 30 van het decreet van 22 december 1995.
 
 ## HOOFDSTUK 6. Herhuisvesting
 
@@ -466,38 +511,18 @@ De Vlaamse minister, bevoegd voor de huisvesting, is belast met de uitvoering va
 
 ### BIJLAGE
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2013/08/01_1.pdf#page=157">Model van technisch verslag voor kamers als vermeld in artikel 2, § 1, 1°</a><br>
+Technisch verslag van het onderzoek van de kwaliteit van kamers<br>
 <br>
-* In deel B van de bijlage wordt in punt 81 tussen de woorden "brandweer" en "blijkt" de zinsnede "of de brandtoezichter, aangewezen door de burgemeester" ingevoegd (Zie BVR 27 november 2015, art. 4, I: 22 januari 2016).</p>
-
-<p>In deel C en D van bijlage 1&nbsp;wordt punt 121 vervangen door wat volgt: <a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56">http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56</a><br>
-<br>
-In bijlage 1&nbsp;worden de volgende wijzigingen aangebracht:<br>
-1° in deel C, punt 236, wordt tussen het woord "brievenbus" en het woord "en" de zinsnede "(alleen als het geen studentenkamer betreft)" ingevoegd;<br>
-2° in deel D wordt punt 241 vervangen door wat volgt: <a href="www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56#page=57">www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56#page=57</a><br>
-3° in hetzelfde deel D worden de zinnen&nbsp;... vervangen door de volgende zinnen:<a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=57">http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=57</a><br>
-4° in de bijlage "berekening gemeenschappelijke functies" worden de zinnen ...vervangen door de volgende zinnen:<a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=57">http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=57</a></p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/23_1.pdf#page=25">http://www.ejustice.just.fgov.be/mopdf/2017/10/23_1.pdf#page=25</a>
 
 ### BIJLAGE
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2013/08/01_1.pdf#page=167">Model van technisch verslag voor kamers die verhuurd worden aan seizoensarbeiders als vermeld in artikel 2, § 1, 2°</a></p>
-
-<p>* In deel B van de bijlage wordt in punt 81 tussen de woorden "brandweer" en "blijkt" de zinsnede "of de brandtoezichter, aangewezen door de burgemeester" ingevoegd (Zie BVR 27 november 2015, art. 4, I: 22 januari 2016).<br>
+Technisch verslag van het onderzoek van de kwaliteit van kamers voor seizoenarbeiders<br>
 <br>
-* In deel C en D van bijlage 2&nbsp;wordt punt 121 vervangen door wat volgt: <a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56">http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56</a><br>
-<br>
-* In de bijlage "berekening gemeenschappelijke functies" bij bijlage 2 worden de zinnen ...vervangen door de volgende zinnen: &nbsp;<a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56">http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=58</a><br>
-&nbsp;</p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/23_1.pdf#page=35">http://www.ejustice.just.fgov.be/mopdf/2017/10/23_1.pdf#page=35</a>
 
 ### BIJLAGE
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2013/08/01_1.pdf#page=177">Model van technisch verslag voor zelfstandige woningen als vermeld in artikel 2, § 1, 3°</a></p>
-
-<p>* In deel B van de bijlage wordt in punt 81 tussen de woorden "brandweer" en "blijkt" de zinsnede "of de brandtoezichter, aangewezen door de burgemeester" ingevoegd (Zie BVR 27 november 2015, art. 4, I: 22 januari 2016).<br>
+Technisch verslag van het onderzoek van de kwaliteit van woningen<br>
 <br>
-* In deel D van de&nbsp;bijlage&nbsp;wordt in punt D.1 tussen de woorden "woning" en "gebouwd" de zinsnede "met een totale nettovloeroppervlakte van de woonlokalen kleiner dan 18 m² en" ingevoegd (Zie BVR 27 november 2015, art. 5, I: 22 januari 2016).<br>
-<br>
-* In deel C van bijlage 3&nbsp;wordt punt 121 vervangen door wat volgt: <a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56">http://www.ejustice.just.fgov.be/mopdf/2016/08/29_1.pdf#page=56</a><br>
-<br>
-* &nbsp;In deel D van bijlage 3 worden aan punt D.1 de volgende zinnen toegevoegd:<br>
-"Een leefruimte van minstens 8 m² met open keuken geldt als twee woonlokalen. Onder open keuken wordt verstaan: de enige kookruimte die geïntegreerd is in de leefruimte.".</p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/23_1.pdf#page=44">http://www.ejustice.just.fgov.be/mopdf/2017/10/23_1.pdf#page=44</a>
