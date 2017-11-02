@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028693,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-15 houdende de wijziging en de opheffing van diverse besluiten over wonen, wat betreft leegstand, verwaarlozing, ongeschikt- en onbewoonbaar-verklaring en de technische normen voor sociale woningbouw",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028693/VolledigDocument?datum=2017-11-02",
+  "source_sha256": "d9d1ccba0bc458feb752cb51ab3161917ca5a70e357a0a013898a162ca4f1d3d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028693&param=informatie",
+  "as_of": "2017-11-02",
+  "made": "2017-09-15",
+  "gazette": "2017-10-23",
+  "numac": 2017013304,
+  "document_start": "2017-11-02",
+  "document_end": null,
+  "in_force": "2017-11-02",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2017-11-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
