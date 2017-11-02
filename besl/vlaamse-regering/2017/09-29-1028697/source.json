@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028697,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-29 houdende tot het niet-toepasselijk verklaren van het koninklijk besluit van 4 juni 1958 betreffende de vrije stroken langs de autosnelwegen op de zone E17 en de zone R1 tussen Antwerpen-West en afrit Sint-Anna",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028697/VolledigDocument?datum=2017-11-02",
+  "source_sha256": "295117507b3134c8e89004b7d084d19a7aadef53b48cdad76a015ddf34b3f29c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028697&param=informatie",
+  "as_of": "2017-11-02",
+  "made": "2017-09-29",
+  "gazette": "2017-10-23",
+  "numac": 2017013596,
+  "document_start": "2017-11-02",
+  "document_end": null,
+  "in_force": "2017-11-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-11-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
