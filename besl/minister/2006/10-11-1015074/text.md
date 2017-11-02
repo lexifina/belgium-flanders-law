@@ -15,9 +15,8 @@ Besluit :<br>
 
 ### Enig artikel
 
-De overdracht van het zakelijk recht wordt aan de administratie en aan de ambtenaren, vermeld in artikel 38, eerste lid, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, bekendgemaakt aan de hand van het formulier, waarvan het model als bijlage bij dit ministerieel besluit is vastgelegd.<br>
-&nbsp;
+...
 
 ### Bijlage
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2010/03/16_1.pdf#page=133" title=" " target="_blank" class="pdf"></a>
+...
