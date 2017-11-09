@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028719,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-29 tot wijziging van artikel 1, 3, 5, 6 en 10 van het besluit van de Vlaamse Regering van 11 december 2015 houdende de subsidiëring van de verwerving, de inrichting, de renovatie en de uitbreiding van terreinen voor woonwagenbewoners",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028719/VolledigDocument?datum=2017-11-09",
+  "source_sha256": "6d80c708fcbfb2c68922e0013ef084ad64343ffd7d646ac225e450ba5961ef3b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028719&param=informatie",
+  "as_of": "2017-11-09",
+  "made": "2017-09-29",
+  "gazette": "2017-10-30",
+  "numac": 2017013695,
+  "document_start": "2017-11-09",
+  "document_end": null,
+  "in_force": "2017-11-09",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2017-11-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
