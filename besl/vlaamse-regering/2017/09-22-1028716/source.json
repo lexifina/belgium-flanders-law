@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028716,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-22 tot wijziging van het besluit van de Vlaamse Regering van 14 oktober 2016 houdende de uitvoering van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming, wat betreft de erkenningsvoorwaarden van zorgkassen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028716/VolledigDocument?datum=2017-11-09",
+  "source_sha256": "88a12a57e842292e27dd65725c66d6d9791b8348c50c0c7384b5f70888a20eb6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028716&param=informatie",
+  "as_of": "2017-11-09",
+  "made": "2017-09-22",
+  "gazette": "2017-10-30",
+  "numac": 2017031362,
+  "document_start": "2017-11-09",
+  "document_end": null,
+  "in_force": "2017-11-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-11-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
