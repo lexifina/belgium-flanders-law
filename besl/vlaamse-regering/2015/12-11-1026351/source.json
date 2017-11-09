@@ -2,16 +2,16 @@
   "codex_id": 1026351,
   "title": "Besluit van de Vlaamse Regering van 2015-12-11 houdende de subsidiëring van de verwerving, de inrichting, de renovatie en de uitbreiding van terreinen voor woonwagenbewoners",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026351/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "2412254dae1a07b42c9410f0fa3caf1afcf2bf44e3d2920bbc5e92710a40f4c6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026351/VolledigDocument?datum=2017-11-09",
+  "source_sha256": "e03ed5c43557a7e9879811777495e5591c6fe8d6b3f3a4416f9f37070daff78b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026351&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2017-11-09",
   "made": "2015-12-11",
   "gazette": "2016-01-27",
   "numac": 2016035042,
   "document_start": "2016-01-01",
   "document_end": "2020-12-31",
-  "in_force": "2017-04-01",
+  "in_force": "2017-11-09",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-11-09; future article versions excluded; article text as the API gives it"
 }
