@@ -192,7 +192,8 @@ Om ontvankelijk te zijn moet een aanvraag tot erkenning van een zorgkas uitgaan 
 3° de statuten van de instantie of de instanties, vermeld in artikel 15 van het decreet van 24 juni 2016, die de zorgkas heeft of hebben opgericht;<br>
 4° de voornamen, de familienaam, de woon- of verblijfplaats van de leden, natuurlijke personen of rechtspersonen, die in de algemene vergadering van de zorgkas een gekwalificeerde deelneming bezitten en het percentage van die deelneming;<br>
 5° de verbintenis om de regels na te leven die bij of krachtens het decreet van 24 juni 2016 zijn vastgesteld;<br>
-6° andere gegevens en stukken, die door het agentschap worden bepaald.<br>
+6° andere gegevens en stukken, die door het agentschap worden bepaald;<br>
+7° de gegevens en stukken waaruit blijkt dat is voldaan aan de voorwaarden, vermeld in artikel 24 van dit besluit.<br>
 <br>
 In het eerste lid, 4°, wordt verstaan onder gekwalificeerde deelneming : het rechtstreeks of onrechtstreeks bezitten van ten minste 10% van de stemrechten of elke andere mogelijkheid om een invloed van betekenis uit te oefenen op de bedrijfsvoering van de zorgkas.<br>
 &nbsp;
@@ -287,7 +288,9 @@ De schorsing van de erkenning heeft als gevolg dat de zorgkas geen nieuwe aanslu
 
 ### ART 24.
 
-De instanties, vermeld in artikel 15 van het decreet van 24 juni 2016, zijn actief in het gehele territorium van het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad als ze hetzij in elke provincie van het Nederlandse taalgebied en in het tweetalige gebied Brussel-Hoofdstad een exploitatiezetel hebben, hetzij daar vertegenwoordigd zijn, hetzij daar, naar gelang het geval, leden of verzekerden hebben.
+De instanties, vermeld in artikel 15, eerste lid, 1° en 3°, van het decreet van 24 juni 2016, zijn actief in het hele territorium van het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad als ze aan al de volgende voorwaarden voldoen:<br>
+1° ze hebben minstens 140.000 leden of verzekerden, waarvan telkens minstens 8.000 in iedere provincie van het Nederlandse taalgebied en in het tweetalige gebied Brussel-Hoofdstad;<br>
+2° ze zijn niet alleen digitaal en telefonisch bereikbaar voor hun leden of verzekerden, maar ze hebben ook minstens één kantoor in iedere provincie van het Nederlandse taalgebied en in tweetalige gebied Brussel-Hoofdstad, en hebben er een fysiek toegankelijke dienstverlening voor hun leden met het oog op informatie en advies in het kader van de Vlaamse sociale bescherming.
 
 ## HOOFDSTUK 4 De organisatie, de werking, en het beheer van de zorgkassen en het toezicht en de controle op de zorgkassen
 
