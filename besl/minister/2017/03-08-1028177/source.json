@@ -2,16 +2,16 @@
   "codex_id": 1028177,
   "title": "Ministerieel besluit van 2017-03-08 betreffende de bepaling van het aantal erkende voltijds equivalenten voor 2017 van de Diensten Maatschappelijk Werk van de Ziekenfondsen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028177/VolledigDocument?datum=2017-05-04",
-  "source_sha256": "25c01067ff8db68bdf4ced39cc4abc92b35313dcb69fb9f1de1738b3b16c4385",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028177/VolledigDocument?datum=2017-11-13",
+  "source_sha256": "4747a1c0aefb218c99871823c60a177457591738db460a51a6f0693795acb49a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028177&param=informatie",
-  "as_of": "2017-05-04",
+  "as_of": "2017-11-13",
   "made": "2017-03-08",
   "gazette": "2017-04-25",
   "numac": 2017040293,
   "document_start": "2017-05-04",
   "document_end": "2017-11-12",
-  "in_force": "2017-05-04",
+  "in_force": "2017-11-13",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2017-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-11-13; future article versions excluded; article text as the API gives it"
 }
