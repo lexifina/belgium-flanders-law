@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028726,
+  "title": "Decreet van 2017-10-20 houdende instemming met de overeenkomst tot oprichting van de internationale EU-LAC-Stichting, ondertekend te Santo Domingo op 25 oktober 2016",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028726/VolledigDocument?datum=2017-11-13",
+  "source_sha256": "1dd1172c37c8311cbf7e2ecb08a3d23e8e43c9e10ac4cdc7a92740818f2fc496",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028726&param=informatie",
+  "as_of": "2017-11-13",
+  "made": "2017-10-20",
+  "gazette": "2017-11-03",
+  "numac": 2017013837,
+  "document_start": "2017-11-13",
+  "document_end": null,
+  "in_force": "2017-11-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-11-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
