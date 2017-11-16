@@ -24,7 +24,9 @@ Een CKG dat een module kiest binnen de typemodules in dit besluit, voert   die u
 
 ### ART. 5.
 
-<P>Het CKG besteedt zijn gehele subsidie-enveloppe, verminderd met een bedrag   voor basissubsidie, aan modules binnen de typemodules in dit besluit. Deze   basissubsidie dient om de kosten, die verbonden zijn aan de overkoepelende   werking, te dekken. De basissubsidie hangt af van de subsidie-enveloppe van het   respectievelijk CKG.<BR></P>  <P>Elk CKG krijgt een startbedrag van 220.000 euro. Van zodra de   subsidie-enveloppe van een CKG het grensbedrag van 1.800.000 euro (een miljoen   achthonderdduizend euro) overschrijdt, groeit het startbedrag aan met 5 % van   het verschil van de subsidie-enveloppe met dat   grensbedrag.<BR></P>
+<p>Het CKG besteedt zijn gehele subsidie-enveloppe, verminderd met een bedrag voor basissubsidie, aan modules binnen de typemodules in dit besluit. Deze basissubsidie dient om de kosten, die verbonden zijn aan de overkoepelende werking, te dekken. De basissubsidie hangt af van de subsidie-enveloppe van het respectievelijk CKG.</p>
+
+<p>Elk CKG krijgt een startbedrag van 218.350 euro (tweehonderdachttienduizend driehonderdvijftig euro). Van zodra de subsidie-enveloppe van een CKG het grensbedrag van&nbsp;1.786.500 euro (een miljoen zevenhonderdzesentachtigduizend vijfhonderd euro) overschrijdt, groeit het startbedrag aan met 5 % van het verschil van de subsidie-enveloppe met dat grensbedrag.</p>
 
 ## HOOFDSTUK 2 Mobiele begeleiding
 
@@ -32,7 +34,13 @@ Een CKG dat een module kiest binnen de typemodules in dit besluit, voert   die u
 
 ### ART. 6.
 
-&nbsp;De typemodules mobiele begeleiding hebben de volgende kenmerken :   <BR>1° ze zijn rechtstreeks toegankelijk;<BR>2° ze vertrekken vanuit de   bereidheid van ouders om mee te werken;<BR>3° ze bestaan uit begeleiding aan   huis;<BR>4° ze focussen vooral op de ouder-kindinteractie.<BR>
+&nbsp;De typemodules mobiele begeleiding hebben de volgende kenmerken :<br>
+1° ze zijn rechtstreeks toegankelijk;<br>
+2° ze vertrekken vanuit de bereidheid van ouders om mee te werken;<br>
+3° ze bestaan vooral uit begeleiding aan huis;<br>
+4° ze focussen vooral op de ouder-kindinteractie, opvoeding en opvoedingscontext,<br>
+5° ze kunnen prenataal worden ingezet onder meer met het oog op latere begeleiding;<br>
+6° ze kunnen afgestemd op residentiële opvang worden ingezet.
 
 ### ART. 7.
 
@@ -46,11 +54,15 @@ De typemodule korte licht mobiele pedagogische begeleiding voor kinderen   en hu
 
 ### ART. 9.
 
-De MIH is achttien begeleidingen en kan aangevuld worden met minimaal 1   fractie. Een fractie bestaat uit één begeleiding. De kostprijs van een fractie   is 1/18 van het bedrag, vermeld in artikel 10.<BR>
+§ 1. De MIH is zeventwintig begeleidingen en kan aangevuld worden met minimaal 1 fractie. Een fractie bestaat uit één begeleiding. Het kan daarbij alleen om korte licht mobiele pedagogische begeleidingen gaan of begeleidingen die gecombineerd gebruikt worden met de typemodule lange licht mobiele pedagogische begeleiding.<br>
+<br>
+Als de MIH voor verschillende typemodules wordt gebruikt, moet de kostprijs worden berekend per ingezette fractie van elke typemodule per begeleiding.<br>
+<br>
+§ 2. De kostprijs van een fractie is 1/27 van het bedrag, vermeld in artikel 10.
 
 ### ART. 10.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel   9, eerste lid, is 40.600 euro. <BR>
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 9, eerste lid, is 60.443,25 euro (zestigduizend vierhonderddrieënveertig euro vijfentwintig cent).
 
 ## Afdeling 3 Lange licht mobiele pedagogische begeleiding voor kinderen en hun gezin
 
@@ -60,11 +72,15 @@ De typemodule lange licht mobiele pedagogische begeleiding voor kinderen   en hu
 
 ### ART. 12.
 
-De MIH is negen begeleidingen en kan aangevuld worden met minimaal één   fractie. Een fractie bestaat uit één begeleiding. De kostprijs van een fractie   is 1/9 van het bedrag, vermeld in artikel 13.<BR>
+§ 1. De MIH is zeventwintig begeleidingen en kan aangevuld worden met minimaal één fractie. Een fractie bestaat uit één begeleiding. Het kan daarbij alleen om lange licht mobiele pedagogische begeleidingen gaan of begeleidingen die gecombineerd gebruikt worden met de typemodule korte licht mobiele begeleiding.<br>
+<br>
+Als de MIH voor verschillende typemodules wordt gebruikt, moet de kostprijs worden berekend per ingezette fractie van elke typemodule per begeleiding.<br>
+<br>
+§ 2. De kostprijs van een fractie is 1/27 van het bedrag, vermeld in artikel 13.
 
 ### ART. 13.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel   12, eerste lid, is 79.200 euro.<BR>
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 12, eerste lid, is 235.818 euro (tweehonderdvijfendertigduizend achthonderdachttien euro).
 
 ## Afdeling 4 Zeer korte intensieve mobiele pedagogische begeleiding voor kinderen en hun gezin
 
@@ -74,45 +90,49 @@ De typemodule zeer korte intensieve mobiele pedagogische begeleiding voor   kind
 
 ### ART. 15.
 
-De MIH is zes begeleidingen en kan aangevuld worden met minimaal één   fractie. Een fractie bestaat uit één begeleiding. De kostprijs van een fractie   is 1/6 van het bedrag, vermeld in artikel 16.<BR>
+De MIH is&nbsp;één begeleiding en kan aangevuld worden met minimaal één fractie. Een fractie bestaat uit één begeleiding. De kostprijs van een fractie is het volledige bedrag, vermeld in artikel 16. De begeleidingen kunnen uitsluitend worden ingezet als aan de MIH van korte of lange licht mobiele pedagogische begeleidingen is voldaan.
 
 ### ART. 16.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel   15, eerste lid, is 27.100 euro.<BR>
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 15, eerste lid, is 4.482,79 euro (vierduizend vierhonderdtweeëntachtig euro negenenzeventig cent).
 
 ## Afdeling 5 Korte intensieve mobiele pedagogische begeleiding voor kinderen en hun gezin
 
 ### ART. 17.
 
-De typemodule korte intensieve mobiele pedagogische begeleiding voor   kinderen en hun gezin bestaat uit het aanbieden van gemiddeld drie keer per week   gedurende één tot drie uur begeleiding aan huis voor het gezin. Die begeleiding   heeft een duurtijd van één week tot drie maanden.<BR>
+De typemodule korte intensieve mobiele pedagogische begeleiding voor kinderen en hun gezin bestaat uit het aanbieden van&nbsp;twee tot&nbsp;drie keer per week gedurende één tot drie uur begeleiding aan huis voor het gezin. Die begeleiding heeft een duurtijd van één week tot drie maanden.
 
 ### ART. 18.
 
-De MIH is zes begeleidingen en kan aangevuld worden met minimaal één   fractie. Een fractie bestaat uit één begeleiding. De kostprijs van een fractie   is 1/6 van het bedrag, vermeld in artikel 19.<BR>
+De MIH is&nbsp;één begeleiding en kan aangevuld worden met minimaal één fractie. Een fractie bestaat uit één begeleiding. De kostprijs van een fractie is het volledige bedrag, vermeld in artikel 19. Die begeleidingen kunnen uitsluitend worden ingezet als aan de MIH van korte of lange licht mobiele pedagogische begeleidingen is voldaan.
 
 ### ART. 19.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel   18, eerste lid, is 40.600 euro.<BR>
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 18, eerste lid, is 6.715,92 euro (zesduizend zevenhonderdvijftien euro tweeënnegentig cent).
 
 ## Afdeling 6 Middellange intensieve mobiele pedagogische begeleiding voor kinderen en hun gezin
 
 ### ART. 20.
 
-De typemodule middellange intensieve mobiele pedagogische begeleiding voor   kinderen en hun gezin bestaat uit het aanbieden van gemiddeld drie keer per week   gedurende één tot drie uur begeleiding aan huis aan de kinderen en hun gezin.   Die begeleiding heeft een duurtijd van drie tot zes maanden.<BR>
+De typemodule middellange intensieve mobiele pedagogische begeleiding voor kinderen en hun gezin bestaat uit het aanbieden van&nbsp;twee tot drie keer per week gedurende één tot drie uur begeleiding aan huis aan de kinderen en hun gezin. Die begeleiding heeft een duurtijd van drie tot zes maanden.
 
 ### ART. 21.
 
-De MIH is zes begeleidingen en kan aangevuld worden met minimaal één   fractie. Een fractie bestaat uit één begeleiding. De kostprijs van een fractie   is 1/6 van het bedrag, vermeld in artikel 22.<BR>
+De MIH is&nbsp;één begeleiding en kan aangevuld worden met minimaal één fractie. Een fractie bestaat uit één begeleiding. De kostprijs van een fractie is het volledige bedrag, vermeld in artikel 22. Die begeleidingen kunnen uitsluitend worden ingezet als aan de MIH van korte of lange licht mobiele pedagogische begeleidingen is voldaan.
 
 ### ART. 22.
 
-&nbsp;Het bedrag om de typemodule in te zetten voor de MIH, vermeld in   artikel 21, eerste, lid is 78.700 euro.<BR>
+&nbsp;Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 21, eerste, lid is 13.018,29 euro (dertienduizend achttien euro negenentwintig cent).
 
 ## HOOFDSTUK 3 Ambulante opvang
 
 ### ART. 23.
 
-De typemodule ambulante opvang heeft de volgende kenmerken : <BR>1° de   opvang is rechtstreeks toegankelijk;<BR>2° de opvang vertrekt vanuit de   bereidheid van ouders om mee te werken;<BR>3° de typemodule heeft voornamelijk   tot doel opvang overdag te organiseren in het CKG ter ondersteuning van een   mobiele of ambulante begeleiding;<BR>4° de combinatie met een mobiele of   ambulante begeleiding is verplicht, tenzij het gaat om een situationele crisis   waarbij kan worden volstaan met ambulante opvang.<BR>
+De typemodule ambulante opvang heeft de volgende kenmerken :<br>
+1° de opvang is rechtstreeks toegankelijk;<br>
+2° de opvang vertrekt vanuit de bereidheid van ouders om mee te werken;<br>
+3° de typemodule heeft voornamelijk tot doel opvang overdag te organiseren in het CKG ter ondersteuning van het kind en gezin in een mobiele of ambulante begeleiding;<br>
+4° de combinatie met een mobiele of ambulante begeleiding is verplicht, tenzij het gaat om een situationele crisis waarbij kan worden volstaan met ambulante opvang.
 
 ### ART. 24.
 
@@ -128,7 +148,7 @@ De typemodule ambulante opvang bestaat erin dat een kind twee tot vijf   keer pe
 
 ### ART. 27.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel   26, eerste paragraaf, is 119.200 euro.<BR>
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 26, eerste paragraaf, is 118.306 euro (honderdachttienduizend driehonderdenzes euro).
 
 ## HOOFDSTUK 4 Ambulante pedagogische training
 
@@ -136,21 +156,28 @@ Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel   26, e
 
 ### ART. 28.
 
-De typemodules ambulante pedagogische training hebben de volgende   kenmerken : <BR>1° ze zijn rechtstreeks toegankelijk;<BR>2° ze vertrekken vanuit   de bereidheid van ouders om mee te werken;<BR>3° ze worden in groep aangeboden   in het CKG of op een andere locatie;<BR>4° ze hebben als voornaamste focus het   aanleren van een aantal vaardigheden op het vlak van de ouder-kindinteractie en   sociale vaardigheden bij het kind.<BR>
+De typemodules ambulante pedagogische training hebben de volgende kenmerken :<br>
+1° ze zijn rechtstreeks toegankelijk;<br>
+2° ze vertrekken vanuit de bereidheid van ouders om mee te werken;<br>
+3° ze worden in groep aangeboden in het CKG of op een andere locatie;<br>
+4° ze hebben als voornaamste focus het aanleren van een aantal vaardigheden op het vlak van de ouder-kindinteractie;<br>
+5° ze hebben een uitgesproken methodische aanpak, met een duidelijke omschrijving van de beoogde doelgroep en doelstellingen, en van de fasering, inhoud en onderbouwing van het gehanteerde programma.
 
 ## Afdeling 2 Ambulante pedagogische training van ouders samen met kinderen in groepsverband
 
 ### ART. 29.
 
-De typemodule ambulante pedagogische training van ouders samen met   kinderen in groepsverband bestaat uit het aanbieden van een training voor   minimaal acht gezinnen tegelijk. Die training heeft gemiddeld één tot drie keer   per week gedurende twee tot zes uur plaats en duurt met de nodige nazorg één tot   zes maanden.<BR>
+De typemodule ambulante pedagogische training van ouders samen met kinderen in groepsverband bestaat uit het aanbieden van een training voor minimaal&nbsp;zes gezinnen tegelijk. Die training heeft gemiddeld één tot drie keer per week gedurende twee tot zes uur plaats en duurt met de nodige nazorg één tot zes maanden.
 
 ### ART. 30.
 
-<P>De MIH is zestien gezinnen op jaarbasis en kan aangevuld worden met minimaal   één fractie. <BR></P>  <P>Een fractie bestaat uit twee gezinnen. De kostprijs van een fractie is 1/8   van het bedrag, vermeld in artikel 31.<BR></P>
+De MIH is twaalf gezinnen op jaarbasis en kan aangevuld worden met één fractie.<br>
+<br>
+Een fractie bestaat uit één gezin. De kostprijs van een fractie is 1/12 van het bedrag, vermeld in artikel 31.
 
 ### ART. 31.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel   30, eerste lid, is 207.600 euro.<BR>
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 30, eerste lid, is 154.532,25 euro (honderdvierenvijftigduizend vijfhonderdtweeëndertig euro vijfentwintig cent).
 
 ## Afdeling 3 Ambulante pedagogische training in groepsverband van ouders en van kinderen
 
@@ -164,7 +191,7 @@ De typemodule ambulante pedagogische training in groepsverband van ouders   en v
 
 ### ART. 34.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel   33, eerste lid, is 95.500 euro.<BR>
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 33, eerste lid, is 94.783,75 euro (vierennegentigduizend zevenhonderddrieëntachtig euro vijfenzeventig cent).
 
 ## Afdeling 4 Ambulante pedagogische training van ouders in groepsverband
 
@@ -178,7 +205,7 @@ De typemodule ambulante pedagogische training van ouders in groepsverband   best
 
 ### ART. 37.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel   36, eerste lid, is 19.100 euro.<BR>
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 36, eerste lid, is 18.956,75 euro (achttienduizend negenhonderdzesenvijftig euro vijfenzeventig cent).
 
 ## Afdeling 5 Ambulante pedagogische training of begeleiding van ouders individueel
 
@@ -192,7 +219,7 @@ De typemodule ambulante pedagogische training van ouders individueel   bestaat u
 
 ### ART. 40.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel   39, eerste lid, is 40.600 euro. <BR>
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 39, eerste lid, is 40.295,50 euro (veertigduizend tweehonderdvijfennegentig euro vijftig cent).
 
 ## HOOFDSTUK 5 Residentiële opvang
 
@@ -212,7 +239,7 @@ De CKG's die modules aanbieden die onder de typemodules van dit hoofdstuk   vall
 
 ### ART. 44.
 
-De typemodules onder dit hoofdstuk moeten, voor zover dat mogelijk en   noodzakelijk is, in functie van gepaste ondersteuning van het kind en zijn   gezin, steeds aangevuld worden met kwaliteitsvol ingevulde mobiele en/of   ambulante begeleiding van het gezin.<BR>
+De typemodules onder dit hoofdstuk moeten, voor zover dat mogelijk en&nbsp;in het belang van het kind is,&nbsp;steeds aangevuld worden met kwaliteitsvol ingevulde mobiele en/of ambulante begeleiding van het gezin.
 
 ## Afdeling 2 Crisisopvang
 
@@ -226,17 +253,23 @@ De typemodule crisisopvang heeft de volgende kenmerken : <BR>1° ze is   rechtst
 
 ### ART. 47.
 
-<P>&nbsp;§ 1. De MIH is zes plaatsen en kan aangevuld worden met minimaal één   fractie. Die plaatsen kunnen alleen voor crisisopvang ingezet worden of   gecombineerd gebruikt worden met de typemodules ambulante opvang of kort   residentiële opvang. <BR></P>  <P>Als de plaatsen voor verschillende typemodules worden gebruikt, moet de   kostprijs worden berekend per ingezette fractie van elke typemodule per plaats.   <BR></P>  <P>§ 2. De gemiddelde bezetting, uitgedrukt in functie van begeleidingsdagen van   deze plaatsen, mag niet minder dan 80 % bedragen. Bovendien geldt dat de   gemiddelde aanwezigheid op jaarbasis van die plaatsen niet minder dan 60 % mag   bedragen.<BR></P>  <P>§ 3. Een fractie bestaat uit één plaats. De kostprijs van een fractie is 1/6   van het bedrag, vermeld in artikel 48.<BR></P>
+<p>&nbsp;§ 1. De MIH is zes plaatsen en kan aangevuld worden met minimaal één fractie. Die plaatsen kunnen alleen voor crisisopvang ingezet worden of gecombineerd gebruikt worden met de typemodules ambulante opvang , zeer korte residentiële opvang of lange residentiële opvang.</p>
+
+<p>Als de plaatsen voor verschillende typemodules worden gebruikt, moet de kostprijs worden berekend per ingezette fractie van elke typemodule per plaats.</p>
+
+<p>§ 2. De gemiddelde bezetting, uitgedrukt in functie van begeleidingsdagen van deze plaatsen, mag niet minder dan 80 % bedragen. Bovendien geldt dat de gemiddelde aanwezigheid op jaarbasis van die plaatsen niet minder dan 60 % mag bedragen.</p>
+
+<p>§ 3. Een fractie bestaat uit één plaats. De kostprijs van een fractie is 1/6 van het bedrag, vermeld in artikel 48.</p>
 
 ### ART. 48.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel   47, eerste paragraaf, is 283.200 euro.<BR>
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 47, eerste paragraaf, is 281.076 euro (tweehonderdeenentachtigduizend zesenzeventig euro).
 
 ## Afdeling 3 Zeer korte residentiële opvang
 
 ### ART. 49.
 
-De typemodule zeer korte residentiële opvang bestaat uit het aanbieden van   residentiële opvang die maximaal zes weken duurt.<BR>
+De typemodule zeer korte residentiële opvang bestaat uit het aanbieden van residentiële opvang die maximaal zes weken duurt. Ze kan maximaal één keer worden herhaald zonder aanvraag bij de intersectorale toegangspoort tot niet-rechtstreeks toegankelijke jeugdhulp met als functie verblijf of de start van een procedure maatschappelijke noodzaak bij een gemandateerde voorziening, op voorwaarde dat de vervolgstappen conform de aanvraag tot verblijf zijn.
 
 ### ART. 50.
 
@@ -244,11 +277,17 @@ De typemodule zeer korte residentiële opvang heeft de volgende kenmerken :   <B
 
 ### ART. 51.
 
-<P>§ 1. De MIH is zes plaatsen en kan aangevuld worden met minimaal één fractie.   Die plaatsen kunnen alleen voor kort residentiële opvang ingezet worden of   gecombineerd gebruikt worden met de typemodules ambulante opvang of   crisisopvang.<BR></P>  <P>Als de plaatsen voor verschillende typemodules worden gebruikt, moet de   kostprijs worden berekend per ingezette fractie van elke typemodule per   plaats.<BR></P>  <P>§ 2. De gemiddelde bezetting, uitgedrukt in functie van begeleidingsdagen van   die plaatsen mag niet minder dan 80 % bedragen. Bovendien geldt dat de   gemiddelde aanwezigheid op jaarbasis van die plaatsen niet minder dan 60 % mag   bedragen. <BR></P>  <P>§ 3. Een fractie bestaat uit één plaats. De kostprijs van een fractie is 1/6   van het bedrag, vermeld in artikel 52.<BR></P>
+<p>§ 1. De MIH is zes plaatsen en kan aangevuld worden met minimaal één fractie. Die plaatsen kunnen alleen voor zeer korte residentiële opvang ingezet worden of gecombineerd gebruikt worden met de typemodules ambulante opvang, crisisopvang of lange residentiële opvang.</p>
+
+<p>Als de plaatsen voor verschillende typemodules worden gebruikt, moet de kostprijs worden berekend per ingezette fractie van elke typemodule per plaats.</p>
+
+<p>§ 2. De gemiddelde bezetting, uitgedrukt in functie van begeleidingsdagen van die plaatsen mag niet minder dan 80 % bedragen. Bovendien geldt dat de gemiddelde aanwezigheid op jaarbasis van die plaatsen niet minder dan 60 % mag bedragen.</p>
+
+<p>§ 3. Een fractie bestaat uit één plaats. De kostprijs van een fractie is 1/6 van het bedrag, vermeld in artikel 52.</p>
 
 ### ART. 52.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel   51, eerste paragraaf, is 283.200 euro.<BR>
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 51, eerste paragraaf, is 281.076 euro (tweehonderdeenentachtigduizend zesenzeventig euro).
 
 ## Afdeling 4 Lange residentiële opvang
 
@@ -266,30 +305,45 @@ Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel   51, e
 <br>
 Perspectiefbiedende opvang heeft volgende kenmerken :<br>
 1° de opvang is niet rechtstreeks toegankelijk;<br>
-2° de opvang wordt enkel aangeboden aan jonge kinderen;<br>
-3° de opvang duurt maximaal totdat kinderen de leeftijd van zes jaar bereikt hebben.</p>
+2° de opvang wordt alleen opgestart bij kinderen tot en met zes jaar, tenzij de opvang van oudere kinderen noodzakelijk en wenselijk is om broers of zussen van een jong kind bij elkaar te houden en voor zover dat het leefgroepklimaat niet negatief beïnvloedt;<br>
+3° ...</p>
 
 ### ART. 54.
 
-<P>§ 1. De MIH is achttien plaatsen en kan aangevuld worden met minimaal één   fractie. Die plaatsen kunnen alleen voor lange residentiële opvang ingezet   worden of gecombineerd gebruikt worden met de typemodules ambulante opvang, zeer   korte residentiële opvang of crisisopvang.<BR></P>  <P>Als deze plaatsen voor verschillende typemodules worden gebruikt, moet de   kostprijs worden berekend per ingezette fractie van elke typemodule per   plaats.<BR></P>  <P>§ 2. De gemiddelde bezetting, uitgedrukt in functie van begeleidingsdagen van   de plaatsen, die voor lange residentiële opvang zijn gereserveerd, mag niet   minder dan 85 % bedragen.<BR></P>  <P>§ 3. Een fractie bestaat uit één plaats. De kostprijs van een fractie is 1/18   van het bedrag, vermeld in artikel 55.<BR></P>
+<p>§ 1. De MIH is&nbsp;zes plaatsen en kan aangevuld worden met minimaal één fractie. Die plaatsen kunnen alleen voor lange residentiële opvang ingezet worden of gecombineerd gebruikt worden met de typemodules crisisopvang of zeer korte residentiële opvang.</p>
+
+<p>Als deze plaatsen voor verschillende typemodules worden gebruikt, moet de kostprijs worden berekend per ingezette fractie van elke typemodule per plaats.</p>
+
+<p>§ 2. De gemiddelde bezetting, uitgedrukt in functie van begeleidingsdagen van de plaatsen, die voor lange residentiële opvang zijn gereserveerd, mag niet minder dan 85 % bedragen.</p>
+
+<p>§ 3. Een fractie bestaat uit één plaats. De kostprijs van een fractie is 1/6 van het bedrag, vermeld in artikel 55.</p>
 
 ### ART. 55.
 
-Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel   54, eerste paragraaf, is 849.600 euro.<BR>
+Het bedrag om de typemodule in te zetten voor de MIH, vermeld in artikel 54, eerste paragraaf, is 281.076 euro (tweehonderdeenentachtigduizend zesenzeventig euro).
 
 ## [HOOFDSTUK 6 Innovatiemodule (verv. MB 16 november 2017, art. 33, I: 16 november 2017)]
 
 ### ART. 56.
 
-&nbsp;Een weesmodule is een typemodule, maar geen van   bovengenoemde.<BR>
+&nbsp;Een&nbsp;innovatiemodule is een typemodule, maar geen van bovengenoemde.
 
 ### ART. 57.
 
-Een CKG kan een weesmodule inzetten onder de volgende voorwaarden : <BR>1°   er is een voorafgaande toestemming van Kind en Gezin;<BR>2° er is een vraag   vanuit het netwerk Integrale Jeugdhulp die aansluit bij de specifieke regionale   behoeftes. Die vraag wordt door het CKG aan Kind en Gezin doorgegeven;<BR>3° er   kan een efficiënte besteding van middelen aangetoond worden;<BR>4° de module is   wetenschappelijk onderbouwd en beschreven. Dat betekent dat er minimaal verwezen   moet worden naar literatuur waaruit blijkt dat de methodiek theoretisch   onderbouwd is. Het gaat om een theorie die kan vertrekken vanuit   praktijkervaringen en/of vanuit wetenschappelijk onderzoek.<BR>
+Een CKG kan een&nbsp;innovatiemodule inzetten onder de volgende voorwaarden :<br>
+1° er is een voorafgaande toestemming van Kind en Gezin;<br>
+2° er is een vraag vanuit het netwerk Integrale Jeugdhulp die aansluit bij de specifieke regionale behoeftes. Die vraag wordt door het CKG aan Kind en Gezin doorgegeven;<br>
+3° er kan een efficiënte besteding van middelen aangetoond worden;<br>
+4° de module is wetenschappelijk onderbouwd en beschreven. Dat betekent dat er minimaal verwezen moet worden naar literatuur waaruit blijkt dat de methodiek theoretisch onderbouwd is. Het gaat om een theorie die kan vertrekken vanuit praktijkervaringen en/of vanuit wetenschappelijk onderzoek;<br>
+5° "de module een vernieuwing van de bestaande typemodules inhoudt, die voortbouwt op de aanwezige CKG-expertise;<br>
+6° de meerwaarde van de module geëvalueerd wordt.
 
 ### ART. 58.
 
-Het CKG bezorgt Kind en Gezin een gedetailleerde beschrijving en begroting   van de weesmodule die het wil inzetten. Kind en Gezin stelt op basis daarvan de   volgende zaken vast : <BR>1° de parameters voor frequentie, intensiteit en   duur;<BR>2° de MIH;<BR>3° de kostprijsberekening. <BR>
+Het CKG bezorgt Kind en Gezin een gedetailleerde beschrijving en begroting van de&nbsp;innovatiemodule die het wil inzetten. Kind en Gezin stelt op basis daarvan de volgende zaken vast :<br>
+1° de parameters voor frequentie, intensiteit en duur;<br>
+2° de MIH;<br>
+3° de kostprijsberekening.
 
 ## HOOFDSTUK 7 Slotbepalingen
 
