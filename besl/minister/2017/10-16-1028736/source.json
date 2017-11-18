@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028736,
+  "title": "Ministerieel besluit van 2017-10-16 tot vaststelling van buitengewone productievoorschriften voor het gebruik van niet-biologisch zaaizaad of niet-biologische pootaardappelen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028736/VolledigDocument?datum=2017-11-18",
+  "source_sha256": "c12233a3f12661f45cd8755cdd49c8cfcd8b70b0a207465778d8de94f6ce6949",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028736&param=informatie",
+  "as_of": "2017-11-18",
+  "made": "2017-10-16",
+  "gazette": "2017-11-08",
+  "numac": 2017013927,
+  "document_start": "2017-11-18",
+  "document_end": "2021-12-31",
+  "in_force": "2017-11-18",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2017-11-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
