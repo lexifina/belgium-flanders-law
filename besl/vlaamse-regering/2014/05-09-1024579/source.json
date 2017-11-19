@@ -2,16 +2,16 @@
   "codex_id": 1024579,
   "title": "Besluit van de Vlaamse Regering van 2014-05-09 betreffende de uitvoering van het decreet van 13 december 2013 houdende de ondersteuning van de professionele kunsten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024579/VolledigDocument?datum=2014-09-29",
-  "source_sha256": "1e6936ce60093251d1bcc5084e3c54aef2b97ae5349e9577aa7b275b0d3d8e30",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024579/VolledigDocument?datum=2017-11-19",
+  "source_sha256": "b19934634bc7b03c1aaf78fe20e0624d978b207a51b2f1c1777453c9bcd01482",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024579&param=informatie",
-  "as_of": "2014-09-29",
+  "as_of": "2017-11-19",
   "made": "2014-05-09",
   "gazette": "2014-09-19",
   "numac": 2014035763,
   "document_start": "2014-09-29",
   "document_end": "2018-12-31",
-  "in_force": "2014-09-29",
+  "in_force": "2017-11-19",
   "article_versions": 118,
-  "record_form": "consolidated version as in force on 2014-09-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-11-19; future article versions excluded; article text as the API gives it"
 }

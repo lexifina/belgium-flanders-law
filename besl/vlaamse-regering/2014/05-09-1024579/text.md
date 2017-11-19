@@ -186,7 +186,9 @@ Uiterlijk   op het ogenblik waarop de subsidie wordt toegekend, bepaalt de minis
 
 ### ART. 35.
 
-De minister kan, rekening houdend met en op grond van de   specifieke doeleinden waarvoor de projectsubsidie aangewend moet worden, of op   grond van de bijzondere kenmerken van het project of de realisatiedatum van het   project een aangepaste verantwoording vragen of een aangepaste indieningdatum   opleggen.
+De minister kan, rekening houdend met en op grond van de specifieke doeleinden waarvoor de projectsubsidie aangewend moet worden, of op grond van de bijzondere kenmerken van het project of de realisatiedatum van het project een aangepaste verantwoording vragen of een aangepaste indieningdatum opleggen.<br>
+<br>
+Als de subsidieontvanger niet volledig voldoet aan de subsidievoorwaarde, vermeld in artikel 51, § 1, 2° van het Kunstendecreet van 13 december 2013, beschikt de subsidieontvanger over een remediëringstermijn van twintig werkdagen vanaf het ogenblik van de kennisgeving door de dienst die de Vlaamse Regering aangewezen heeft, om alsnog aan de subsidievoorwaarde te voldoen.
 
 ### ART. 36.
 
