@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028740,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-20 houdende indeling bij de gemeentewegen van de gewestwegen N454 tussen kmp. 22,350 en kmp. 24,100 (Godveerdegemstraat) - N462 tussen kmp. 12,713 en kmp. 15,440 (Buke-Heldenlaan) en N042700 tussen kmp. 0,000 en kmp. 0,208 (Veldweg) in ruil met de overname van de lokale weg Tweekerkenstraat op het grondgebied van de stad Zottegem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028740/VolledigDocument?datum=2017-11-20",
+  "source_sha256": "9d6180aa3e3cab3bc871f4c1310b7e3c35e194783030304576bc3fae29173281",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028740&param=informatie",
+  "as_of": "2017-11-20",
+  "made": "2017-10-20",
+  "gazette": "2017-11-10",
+  "numac": 2017031455,
+  "document_start": "2017-11-20",
+  "document_end": null,
+  "in_force": "2017-11-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-11-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
