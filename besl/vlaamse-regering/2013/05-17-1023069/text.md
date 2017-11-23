@@ -8,11 +8,30 @@ De Vlaamse Regering,<BR><BR>Gelet op het decreet van 19 december 2003   houdende
 
 ### ART. 1.
 
-De steun verleend met toepassing of ter uitvoering van dit besluit, wordt   toegekend met in achtneming van de voorwaarden van het besluit 2012/21/EU van de   Commissie van 20 december 2011 betreffende de toepassing van artikel 106, lid 2,   van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de   vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het   beheer van diensten van algemeen economisch belang belaste   ondernemingen.
+De steun verleend met toepassing of ter uitvoering van dit besluit, wordt toegekend met in achtneming van de voorwaarden van art. 107, 2a) van het verdrag betreffende de werking van de Europese Unie.
 
 ### ART. 2.
 
-In dit besluit wordt verstaan onder :<BR>1° gemandateerde onderneming : de   onderneming die door de minister wordt gemachtigd om loopbaanbegeleiding uit te   oefenen;<BR>2° kansengroepen : de personen van vijftig jaar en ouder,   allochtonen, personen met een arbeidshandicap, kortgeschoolden, vermeld in het   besluit van de Vlaamse Regering van 7 juni 2013 tot vaststelling van de   criteria, de voorwaarden en de nadere regels voor het verlenen van subsidies ter   ondersteuning en uitvoering van het loopbaan- en diversiteitsbeleid;<BR>3°   loopbaanbegeleiding : de professionele ondersteuning van de professioneel   actieve persoon bij het nemen van loopbaankeuzen en -beslissingen tijdens een   proces waarbij het ontdekken, het versterken of het ontwikkelen van de   competenties die nodig zijn om de loopbaan zelf actief te beheren, centraal   staan opdat zijn arbeidsmarktpositie kan worden versterkt;<BR>4° loopbaancheque   : het elektronische betaalmiddel voor loopbaanbegeleiding;<BR>5° minister : de   Vlaamse minister, bevoegd voor de professionele vorming;<BR>6° persoonlijk   ontwikkelingsplan : het begeleide proces dat tot doel heeft de   arbeidsmarktgerichte persoonlijke ontwikkeling van het individu te   bevorderen;<BR>7° professioneel actieve persoon:<BR>a) de persoon, die op het   ogenblik van de aanvraag van de loopbaancheque tewerkgesteld is krachtens een   arbeidsovereenkomst, of die arbeid verricht onder het gezag van een ander   persoon, en die in een van de volgende gevallen verkeert:<BR>1) hij heeft zijn   woonplaats op het grondgebied van het Vlaamse Gewest of het Brusselse   Hoofdstedelijke Gewest;<BR>2) hij heeft zijn woonplaats op het grondgebied van   een van de andere lidstaten van de Europese Unie (EU) of van de Europese   Economische Ruimte (EER) en is tewerkgesteld op het grondgebied van het Vlaamse   Gewest of het Brusselse Hoofdstedelijke Gewest;<BR>3) hij heeft zijn woonplaats   op het grondgebied van het Waalse Gewest, maakt gebruik van zijn recht op vrij   verkeer van werknemers of van de vrijheid van vestiging, zoals gewaarborgd door   artikel 45 en 49 van het verdrag betreffende de werking van de Europese Unie, en   is tewerkgesteld op het grondgebied van het Vlaamse Gewest of het Brusselse   Hoofdstedelijke Gewest;<BR>b) de natuurlijke persoon, vermeld in artikel 3 van   het koninklijk besluit nr. 38 van 27 juli 1967 houdende inrichting van het   sociaal statuut der zelfstandigen die in een van de volgende gevallen   verkeert:<BR>1) hij heeft zijn woonplaats op het grondgebied van het Vlaamse   Gewest of het Brusselse Hoofdstedelijke Gewest;<BR>2) hij heeft zijn woonplaats   op het grondgebied van een van de andere lidstaten van de Europese Unie (EU) of   van de Europese Economische Ruimte (EER) en hij oefent zijn bedrijvigheid uit in   een vestiging op het grondgebied van het Vlaamse Gewest of het Brusselse   Hoofdstedelijke Gewest;<BR>3) hij heeft zijn woonplaats op het grondgebied van   het Waalse Gewest, maakt gebruik van zijn recht op vrij verkeer van werknemers   of van de vrijheid van vestiging, zoals gewaarborgd door artikel 45 en 49 van   het verdrag betreffende de werking van de Europese Unie, en oefent zijn   bedrijvigheid uit in een vestiging op het grondgebied van het Vlaamse Gewest of   het Brusselse Hoofdstedelijke Gewest;<BR>8° stimuleringsfinanciering : de   bijkomende financiële ondersteuning voor een gemandateerde onderneming met het   oog op een hoger bereik van kansengroepen;<BR>9° uitgiftebedrijf : de na   mededinging aangewezen onderneming die belast is met de uitgifte en de   uitbetaling van de loopbaancheques;<BR>10° VDAB : het publiekrechtelijk   vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor   Arbeidsbemiddeling en Beroepsopleiding, opgericht bij artikel 3 van het decreet   van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern   verzelfstandigd agentschap « Vlaamse Dienst voor Arbeidsbemiddeling en   Beroepsopleiding »;<BR>11° vergoeding : een financiële compensatie voor de   uitvoering van de loopbaanbegeleiding.
+In dit besluit wordt verstaan onder :<br>
+1° gemandateerde onderneming : de onderneming die door de minister wordt gemachtigd om loopbaanbegeleiding uit te oefenen;<br>
+2° kansengroepen : de personen van vijftig jaar en ouder, allochtonen, personen met een arbeidshandicap, kortgeschoolden, vermeld in het besluit van de Vlaamse Regering van 7 juni 2013 tot vaststelling van de criteria, de voorwaarden en de nadere regels voor het verlenen van subsidies ter ondersteuning en uitvoering van het loopbaan- en diversiteitsbeleid;<br>
+3° loopbaanbegeleiding: de professionele ondersteuning van de professioneel actieve persoon bij het nemen van loopbaankeuzen en -beslissingen tijdens een proces waarbij het ontdekken, het versterken of het ontwikkelen van de loopbaancompetenties die nodig zijn om de loopbaan zelf actiever te beheren, centraal staan zodat zijn arbeidsmarktpositionering kan worden versterkt. De loopbaanbegeleiding vertrekt vanuit de loopbaanvraag en is continu afgestemd op maat van de klant. De loopbaanbegeleiding resulteert in de opmaak van een persoonlijk ontwikkelingsplan en heeft een impact op de inzetbaarheid en flexibiliteit op de arbeidsmarkt. Het initiatief voor het aanvragen van de loopbaanbegeleiding met de loopbaancheque vertrekt altijd vanuit de professioneel actieve persoon. De loopbaanbegeleiding met de loopbaancheque maakt geen deel uit van een andere vorm van begeleiding, opleiding, outplacement of coaching, ook niet als voorbereiding of sluitstuk ervan;<br>
+4° loopbaancheque : het elektronische betaalmiddel voor loopbaanbegeleiding;<br>
+5° minister : de Vlaamse minister, bevoegd voor de professionele vorming;<br>
+6° persoonlijk ontwikkelingsplan : het begeleide proces dat tot doel heeft de arbeidsmarktgerichte persoonlijke ontwikkeling van het individu te bevorderen;<br>
+7° professioneel actieve persoon:<br>
+a) de persoon, die op het ogenblik van de aanvraag van de loopbaancheque tewerkgesteld is krachtens een arbeidsovereenkomst, of die arbeid verricht onder het gezag van een ander persoon, en die in een van de volgende gevallen verkeert:<br>
+1) hij heeft zijn woonplaats op het grondgebied van het Vlaamse Gewest of het Brusselse Hoofdstedelijke Gewest;<br>
+2) hij heeft zijn woonplaats op het grondgebied van een van de andere lidstaten van de Europese Unie (EU) of van de Europese Economische Ruimte (EER) en is tewerkgesteld op het grondgebied van het Vlaamse Gewest of het Brusselse Hoofdstedelijke Gewest;<br>
+3) hij heeft zijn woonplaats op het grondgebied van het Waalse Gewest, maakt gebruik van zijn recht op vrij verkeer van werknemers of van de vrijheid van vestiging, zoals gewaarborgd door artikel 45 en 49 van het verdrag betreffende de werking van de Europese Unie, en is tewerkgesteld op het grondgebied van het Vlaamse Gewest of het Brusselse Hoofdstedelijke Gewest;<br>
+b) de natuurlijke persoon, vermeld in artikel 3 van het koninklijk besluit nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen die in een van de volgende gevallen verkeert:<br>
+1) hij heeft zijn woonplaats op het grondgebied van het Vlaamse Gewest of het Brusselse Hoofdstedelijke Gewest;<br>
+2) hij heeft zijn woonplaats op het grondgebied van een van de andere lidstaten van de Europese Unie (EU) of van de Europese Economische Ruimte (EER) en hij oefent zijn bedrijvigheid uit in een vestiging op het grondgebied van het Vlaamse Gewest of het Brusselse Hoofdstedelijke Gewest;<br>
+3) hij heeft zijn woonplaats op het grondgebied van het Waalse Gewest, maakt gebruik van zijn recht op vrij verkeer van werknemers of van de vrijheid van vestiging, zoals gewaarborgd door artikel 45 en 49 van het verdrag betreffende de werking van de Europese Unie, en oefent zijn bedrijvigheid uit in een vestiging op het grondgebied van het Vlaamse Gewest of het Brusselse Hoofdstedelijke Gewest;<br>
+8° stimuleringsfinanciering : de bijkomende financiële ondersteuning voor een gemandateerde onderneming met het oog op een hoger bereik van kansengroepen;<br>
+9° uitgiftebedrijf : de na mededinging aangewezen onderneming die belast is met de uitgifte en de uitbetaling van de loopbaancheques;<br>
+10° VDAB : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij artikel 3 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding »;<br>
+11° vergoeding : een financiële compensatie voor de uitvoering van de loopbaanbegeleiding.
 
 ## HOOFDSTUK 2. Toepassingsgebied
 
@@ -24,17 +43,93 @@ In dit besluit wordt verstaan onder :<BR>1° gemandateerde onderneming : de   on
 
 ### ART. 4.
 
-§ 1. De gemandateerde onderneming moet per aangeboden loopbaancheque   :<BR>1° een pakket loopbaanbegeleiding aanbieden, dat minimaal bestaat uit   :<BR>a) het uitvoeren van loopbaanbegeleiding op maat van de professioneel   actieve persoon gedurende vier uur. De loopbaanbegeleiding vindt hoofdzakelijk   individueel plaats en is verspreid over minimaal twee dagen;<BR>b) het uitvoeren   van de verschillende stappen loopbaanbegeleiding, vermeld in artikel 102, derde   lid, a) tot en met d), van het decreet van 19 december 2003 houdende bepalingen   tot begeleiding van de begroting 2004, die resulteren in de opmaak van een   persoonlijk ontwikkelingsplan. Het persoonlijk ontwikkelingsplan stelt de   reflecties over de loopbaan, de competenties en het benoemen van een   loopbaandoel centraal en kan resulteren in de opmaak van een actieplan;<BR>c)   duidelijke informatieverstrekking over de aanvang, de procedure, de inhoud en   het verloop van de loopbaanbegeleiding;<BR>d) het verstrekken van nazorg aan de   professioneel actieve persoon die daarom verzoekt. Onder nazorg wordt verstaan   de behandeling van bijkomende vragen met het oog op de versterking van de   realisatiegraad van het persoonlijk ontwikkelingsplan. De nazorg is niet   begrepen in het contingent uren, vermeld in punt 1°, a), en wordt door de   gemandateerde onderneming verstrekt tot een jaar na de beëindiging van het   afsluitende gesprek;<BR>e) het uitvoeren van loopbaanbegeleiding op maat van de   kansengroepen, als de gemandateerde onderneming een beroep doet op de   stimuleringsfinanciering, vermeld in artikel 15;<BR>2° toegankelijke,   beschikbare en bereikbare dienstverlening in het kader van de   loopbaanbegeleiding waarborgen;<BR>3° over de voorwaarden van de   loopbaanbegeleiding een schriftelijke overeenkomst sluiten met de professioneel   actieve persoon, na afloop van het intakegesprek.<BR><BR>De minister kan de   voorwaarden, vermeld in het eerste lid, 1° tot en met 3°, verder   specificeren.<BR><BR>§ 2. De gemandateerde onderneming bezorgt aan de   professioneel actieve persoon een gepersonaliseerd attest als in zijn   persoonlijk ontwikkelingsplan de noodzakelijke behoefte is opgenomen aan een   opleiding als vermeld in artikel 7, § 1, tweede lid, 2°, en § 2, van het besluit   van de Vlaamse regering van 18 juli 2003 betreffende de opleidingscheques voor   werknemers. Dat attest vermeldt ten minste de opleiding die past in het kader   van het persoonlijk ontwikkelingsplan.
+§ 1. De gemandateerde onderneming moet per aangeboden loopbaancheque :<br>
+1° een pakket loopbaanbegeleiding aanbieden, dat minimaal bestaat uit :<br>
+a) het uitvoeren van loopbaanbegeleiding op maat van de professioneel actieve persoon gedurende vier uur. De loopbaanbegeleiding vindt hoofdzakelijk individueel plaats en is verspreid over minimaal twee dagen;<br>
+b) het uitvoeren van de verschillende stappen loopbaanbegeleiding, vermeld in artikel 102, derde lid, a) tot en met d), van het decreet van 19 december 2003 houdende bepalingen tot begeleiding van de begroting 2004, die resulteren in de opmaak van een persoonlijk ontwikkelingsplan. Het persoonlijk ontwikkelingsplan stelt de reflecties over de loopbaan, de competenties en het benoemen van een loopbaandoel centraal en kan resulteren in de opmaak van een actieplan;<br>
+c) duidelijke informatieverstrekking over de aanvang, de procedure, de inhoud en het verloop van de loopbaanbegeleiding;<br>
+d) het verstrekken van nazorg aan een professioneel actieve persoon die daarom verzoekt. Onder nazorg wordt verstaan, de behandeling van aanvullende vragen bij de bestaande loopbaanvraag en de al genoten begeleiding met het oog op de versterking van de realisatiegraad van het persoonlijk ontwikkelingsplan. De nazorg is niet begrepen in het contingent uren, vermeld in punt 1°, a), en wordt door de gemandateerde onderneming verstrekt tot een jaar na de beëindiging van het afsluitende gesprek. De nazorg omvat maximaal dertig minuten per begonnen pakket of maximaal 1 uur per acht uur begeleiding. De gemandateerde onderneming kan de vorm van nazorg vrij kiezen;<br>
+e) het uitvoeren van loopbaanbegeleiding op maat van de kansengroepen, als de gemandateerde onderneming een beroep doet op de stimuleringsfinanciering, vermeld in artikel 15;<br>
+2° toegankelijke, beschikbare en bereikbare dienstverlening in het kader van de loopbaanbegeleiding waarborgen;<br>
+3° over de voorwaarden van de loopbaanbegeleiding een schriftelijke overeenkomst sluiten met de professioneel actieve persoon, na afloop van het intakegesprek.<br>
+<br>
+De minister kan de voorwaarden, vermeld in het eerste lid, 1° tot en met 3°, verder specificeren.<br>
+<br>
+§ 2. De gemandateerde onderneming bezorgt aan de professioneel actieve persoon een gepersonaliseerd attest als in zijn persoonlijk ontwikkelingsplan de noodzakelijke behoefte is opgenomen aan een opleiding als vermeld in artikel 7, § 1, tweede lid, 2°, en § 2, van het besluit van de Vlaamse regering van 18 juli 2003 betreffende de opleidingscheques voor werknemers. Dat attest vermeldt ten minste de opleiding die past in het kader van het persoonlijk ontwikkelingsplan.
 
 ## HOOFDSTUK 4. Voorwaarden
 
 ### ART. 5.
 
-§ 1. De onderneming die loopbaanbegeleiding als vermeld in dit besluit wil   verrichten, dient een mandaataanvraag in bij de VDAB.<BR><BR>De onderneming   toont daarbij aan dat ze aan de volgende voorwaarden voldoet :<BR>1° de   onderneming heeft een van de volgende statuten :<BR>a) het statuut van   rechtspersoon, opgericht volgens de rechtsregels van de lidstaat van   vestiging;<BR>b) het statuut van natuurlijke persoon die beschikt over   burgerrechten en politieke rechten;<BR>2° de onderneming verkeert niet in staat   van faillissement of in staat van kennelijk onvermogen, noch maakt ze het   voorwerp uit van een procedure tot faillietverklaring of een gelijkaardige   wetgeving in de lidstaat van vestiging;<BR>3° de onderneming is geen   achterstallige belastingen, boeten of intresten verschuldigd, noch   socialezekerheidsbijdragen, met sociale zekerheid gelijkgestelde bijdragen,   boeten of intresten, verschuldigd aan de Rijksdienst voor Sociale   Zekerheid;<BR>4° de onderneming beschikt over een van de kwaliteitscertificaten   :<BR>a) Qfor-certificaat;<BR>b) ISO-certificaat;<BR>c) CEDEO-certificaat;<BR>d)   Recognised for Excellence;<BR>e) K2c, K2b, K2a voor opleiding of   begeleiding;<BR>f) Blik op Werk'-Keurmerk;<BR>g) CERTO-certificaat;<BR>h)   kmop-norm : de kwaliteitsnorm vastgesteld ter uitvoering van artikel 11 van het   besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun   aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende   diensten;<BR>i) ESF-label;<BR>5° de onderneming toont haar professionele   deskundigheid op het vlak van loopbaanbegeleiding aan.<BR>De zaakvoerder,   exploitant of verantwoordelijke van de onderneming of haar aangestelden of   lasthebbers beschikken daarvoor over een beroepservaring van ten minste drie   jaar in de sector van loopbaanbegeleiding, loopbaanoriëntatie of -coaching,   outplacement of werkzoekendenbegeleiding;<BR>6° de onderneming onderschrijft de   bepalingen van de gedragscode, opgenomen in de bijlage die bij dit besluit is   toegevoegd.<BR><BR>In het tweede lid wordt verstaan onder :<BR>1° lidstaat van   vestiging : een lidstaat van de Europese Economische Ruimte op het grondgebied   waarvan de zetel van de dienstverrichter is gevestigd;<BR>2° sociale partners :   de representatieve organisaties van de werknemers, de werkgevers, de middenstand   en de landbouw die zijn vertegenwoordigd in de Sociaal-Economische Raad van   Vlaanderen, als vermeld in het decreet van 7 mei 2004 inzake de   Sociaal-Economische Raad van Vlaanderen.<BR><BR>De voorwaarde, vermeld in het   tweede lid, 1°, a), geldt niet voor de sociale partners.<BR><BR>De VDAB kan de   lijst, vermeld in het tweede lid, 4°, met door haar gelijkwaardige geachte   certificaten uitbreiden.<BR><BR>§ 2. De VDAB gaat na of de onderneming voldoet   aan de voorwaarden, vermeld in paragraaf 1, tweede lid.<BR><BR>Na het positieve   advies van de VDAB verleent de minister aan de onderneming een mandaat tot   uitvoering van de loopbaanbegeleiding met een looptijd van zes jaar.<BR><BR>§ 3.   De minister brengt de onderneming schriftelijk op de hoogte van de   toekenningsvoorwaarden van het mandaat, in het bijzonder :<BR>1° de looptijd van   het mandaat;<BR>2° de omschrijving van de openbare diensttaken in het kader van   de loopbaanbegeleiding;<BR>3° een beschrijving van het compensatiemechanisme en   de parameters voor berekening, monitoring en herziening van de   compensatie;<BR>4° de regelingen om eventuele overcompensatie te vermijden en   terug te vorderen;<BR>5° de opgave van de wettelijke rechtsgrondslag voor het   mandaat;<BR>6° de niet-overdraagbaarheid van het mandaat.<BR><BR>De minister   bepaalt de nadere voorwaarden voor de indiening en behandeling van de   aanvraag.
+§ 1. De onderneming die loopbaanbegeleiding als vermeld in dit besluit wil verrichten, dient een mandaataanvraag in bij de VDAB.<br>
+<br>
+De onderneming toont daarbij aan dat ze aan de volgende voorwaarden voldoet :<br>
+1° de onderneming heeft een van de volgende statuten :<br>
+a) het statuut van rechtspersoon, opgericht volgens de rechtsregels van de lidstaat van vestiging;<br>
+b) het statuut van natuurlijke persoon die beschikt over burgerrechten en politieke rechten;<br>
+2° de onderneming verkeert niet in staat van faillissement of in staat van kennelijk onvermogen, noch maakt ze het voorwerp uit van een procedure tot faillietverklaring of een gelijkaardige wetgeving in de lidstaat van vestiging;<br>
+3° de onderneming is geen achterstallige belastingen, boeten of intresten verschuldigd, noch socialezekerheidsbijdragen, met sociale zekerheid gelijkgestelde bijdragen, boeten of intresten, verschuldigd aan de Rijksdienst voor Sociale Zekerheid;<br>
+4° de onderneming beschikt over een van de kwaliteitscertificaten :<br>
+a) Qfor-certificaat;<br>
+b) ISO-certificaat;<br>
+c) CEDEO-certificaat;<br>
+d) Recognised for Excellence;<br>
+e) K2c, K2b, K2a voor opleiding of begeleiding;<br>
+f) Blik op Werk'-Keurmerk;<br>
+g) CERTO-certificaat;<br>
+h) kmop-norm : de kwaliteitsnorm vastgesteld ter uitvoering van artikel 11 van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten;<br>
+i) ESF-label;<br>
+5° de onderneming toont haar professionele deskundigheid op het vlak van loopbaanbegeleiding aan. Ze voldoet daarvoor aan al de volgende voorwaarden:<br>
+a) de zaakvoerder, exploitant of verantwoordelijke van de onderneming of haar aangestelden of lasthebbers beschikken over een beroepservaring van ten minste drie jaar in de sector van loopbaanbegeleiding, loopbaanoriëntatie of -coaching, outplacement of werkzoekendenbegeleiding;<br>
+b) de onderneming legt een visie voor over hoe loopbaanbegeleiding strookt met de beleidsdoelstelling en past die toe; de onderneming waarborgt dat de visie van de onderaannemers ook strookt met de beleidsdoelstellingen en dat de onderaannemers die ook toepassen;<br>
+c) de onderneming licht toe hoe ze de expertise over loopbaanbegeleiding, alsook de kennis van de aanpak en methodiek van haar eigen personeelsleden en van onderaannemers systematisch waarborgt;<br>
+6° de onderneming onderschrijft de bepalingen van de gedragscode, opgenomen in de bijlage die bij dit besluit is toegevoegd en de praktische onderrichtingen, uitgevaardigd door de VDAB;<br>
+7° het mandaat van de onderneming werd in de vijf jaar vóór de aanvraag, niet ingetrokken met toepassing van artikel 18;<br>
+8° de bestuurders, zaakvoerders, lasthebbers, of andere personen die bevoegd zijn om de onderneming te verbinden of te vertegenwoordigen, of de hoofdaandeelhouders van de onderneming, in zoverre zij in de feiten de bevoegdheden van bestuurder uitoefenen, werden tijdens een periode van vijf jaar voorafgaand aan de datum van mandaataanvraag niet :<br>
+a) veroordeeld wegens faillissement, bedrieglijk onvermogen, valsheid in geschrifte, misbruik van vertrouwen, oplichting, omkoping of bedrog;<br>
+b) aansprakelijk gesteld voor de verbintenissen of de schulden van een gefailleerde vennootschap met toepassing van artikelen 229, 5°, 265, 315, 456, 4°, en 530, van het Wetboek van Vennootschappen of een gelijkaardige wetgeving in de lidstaat van vestiging of hebben meermaals een functie van zaakvoerder of gemachtigde uitgeoefend in een gefailleerde vennootschap;<br>
+c) herhaaldelijk in overtreding gesteld op het gebied van de fiscale, sociale verplichtingen of van de wettelijke en reglementaire bepalingen;<br>
+d) onderworpen aan een exploitatieverbod met bedrijfssluiting, of aan een beroepsverbod met bedrijfssluiting;<br>
+e) ontheven van hun burgerrechten en politieke rechten.<br>
+<br>
+In het tweede lid wordt verstaan onder :<br>
+1° lidstaat van vestiging : een lidstaat van de Europese Economische Ruimte op het grondgebied waarvan de zetel van de dienstverrichter is gevestigd;<br>
+2° sociale partners : de representatieve organisaties van de werknemers, de werkgevers, de middenstand en de landbouw die zijn vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen, als vermeld in het decreet van 7 mei 2004 inzake de Sociaal-Economische Raad van Vlaanderen.<br>
+<br>
+De voorwaarde, vermeld in het tweede lid, 1°, a), geldt niet voor de sociale partners.<br>
+<br>
+De VDAB kan de lijst, vermeld in het tweede lid, 4°, met door haar gelijkwaardige geachte certificaten uitbreiden.<br>
+<br>
+§ 2. De VDAB gaat na of de onderneming voldoet aan de voorwaarden, vermeld in paragraaf 1, tweede lid.<br>
+<br>
+De raad van bestuur van de VDAB verleent aan de onderneming een mandaat tot uitvoering van de loopbaanbegeleiding met een looptijd van zes jaar.<br>
+<br>
+§ 3. De&nbsp;VDAB brengt de onderneming schriftelijk op de hoogte van de toekenningsvoorwaarden van het mandaat, in het bijzonder :<br>
+1° de looptijd van het mandaat;<br>
+2° de omschrijving van de openbare diensttaken in het kader van de loopbaanbegeleiding;<br>
+3° een beschrijving van het compensatiemechanisme en de parameters voor berekening, monitoring en herziening van de compensatie;<br>
+4° de regelingen om eventuele overcompensatie te vermijden en terug te vorderen;<br>
+5° de opgave van de wettelijke rechtsgrondslag voor het mandaat;<br>
+6° de niet-overdraagbaarheid van het mandaat;<br>
+7° de praktische onderrichtingen, uitgevaardigd door de VDAB.<br>
+<br>
+De minister bepaalt de nadere voorwaarden voor de indiening en behandeling van de aanvraag.
 
 ### ART. 6.
 
-Met behoud van de toepassing van de voorwaarden, vermeld in artikel 5, §   1, tweede lid, voldoet de gemandateerde onderneming tijdens de looptijd van het   mandaat aan de volgende voorwaarden :<BR>1° de gemandateerde onderneming handelt   op een objectieve, respectvolle en niet-discriminerende wijze conform de   bepalingen van het decreet van 8 mei 2002 houdende evenredige participatie op de   arbeidsmarkt;<BR>2° de gemandateerde onderneming eerbiedigt de persoonlijke   levenssfeer en verwerkt persoonsgegevens conform de wet van 8 december 1992 tot   bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van   persoonsgegevens;<BR>3° De gemandateerde organisatie kan voor het uitvoeren van   deze dienstverlening een beroep doen op onderaannemers. De gemandateerde   onderneming controleert of de onderaannemers voldoen aan de voorwaarden vermeld   in artikel 5, § 1, tweede lid. Voor de voorwaarde vermeld in artikel 5, § 1,   tweede lid, 4°, volstaat het dat de onderaannemers zich beroepen op het   kwaliteitscertificaat van de gemandateerde organisatie.<BR>4° de gemandateerde   onderneming hanteert een boekhouding die inkomsten en uitgaven die verband   houden met de loopbaanbegeleiding of de stimuleringsfinanciering, alsook de   parameters, vermeld in artikel 11, tweede lid, en in artikel 15, § 3, voor de   toerekening van de kosten en inkomsten, transparant afzondert;<BR>5° de   gemandateerde onderneming registreert minimaal de volgende gegevens in databank   van de VDAB :<BR>a) de identificatiegegevens van de begeleide persoon;<BR>b) de   verschillende contactmomenten;<BR>c) de stappen, vermeld in artikel 4, § 1,   eerste lid, 1°, b);<BR>d) het persoonlijk ontwikkelingsplan;<BR>6° de   gemandateerde onderneming bezorgt op verzoek van de VDAB de informatiegegevens   die de VDAB nodig acht om de controle uit te oefenen.<BR><BR>De VDAB kan naast   de bepalingen, vermeld in het eerste lid, 5°, aanvullende richtlijnen   uitvaardigen op het vlak van de te hanteren boekhouding met het oog op de   rechtmatigheidscontrole van kosten en inkomsten en naast de verplichtingen,   vermeld in het eerste lid, 6°, bijkomende registratieverplichtingen   bepalen.
+Met behoud van de toepassing van de voorwaarden, vermeld in artikel 5, § 1, tweede lid, voldoet de gemandateerde onderneming tijdens de looptijd van het mandaat aan de volgende voorwaarden :<br>
+1° de gemandateerde onderneming handelt op een objectieve, respectvolle en niet-discriminerende wijze conform de bepalingen van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt;<br>
+2° de gemandateerde onderneming eerbiedigt de persoonlijke levenssfeer en verwerkt persoonsgegevens conform de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens;<br>
+3° De gemandateerde organisatie kan voor het uitvoeren van deze dienstverlening een beroep doen op onderaannemers. De gemandateerde onderneming controleert of de onderaannemers voldoen aan de voorwaarden vermeld in artikel 5, § 1, tweede lid met uitzondering van punt 5°, a. Voor de voorwaarde vermeld in artikel 5, § 1, tweede lid, 4°, volstaat het dat de onderaannemers zich beroepen op het kwaliteitscertificaat van de gemandateerde organisatie;<br>
+4° de gemandateerde onderneming hanteert een boekhouding die inkomsten en uitgaven die verband houden met de loopbaanbegeleiding of de stimuleringsfinanciering, alsook de parameters, vermeld in artikel 11, tweede lid, en in artikel 15, § 3, voor de toerekening van de kosten en inkomsten, transparant afzondert;<br>
+5° de gemandateerde onderneming registreert minimaal de volgende gegevens in databank van de VDAB :<br>
+a) de identificatiegegevens van de begeleide persoon;<br>
+b) de verschillende contactmomenten;<br>
+c) de stappen, vermeld in artikel 4, § 1, eerste lid, 1°, b);<br>
+d) het persoonlijk ontwikkelingsplan;<br>
+6° de gemandateerde onderneming bezorgt op verzoek van de VDAB de informatiegegevens die de VDAB nodig acht om de controle uit te oefenen of geeft de VDAB toestemming om deze ter plaatse in te kijken.<br>
+<br>
+De VDAB kan naast de bepalingen, vermeld in het eerste lid, 5°, aanvullende richtlijnen uitvaardigen op het vlak van de te hanteren boekhouding met het oog op de rechtmatigheidscontrole van kosten en inkomsten en naast de verplichtingen, vermeld in het eerste lid, 6°, bijkomende registratieverplichtingen bepalen.
 
 ## HOOFDSTUK 5. Loopbaancheque
 
@@ -65,9 +160,13 @@ De vergoeding per pakket loopbaanbegeleiding bedraagt maximaal 550 euro exclusie
 2° werkingskosten die maximaal 25 procent van de personeelskosten bedragen;<br>
 3° een winstaandeel van maximaal 6 procent van de loon- en werkingskosten.<br>
 <br>
+In het tweede lid, 1°, wordt onder personeelskosten ook verstaan, het geheel van vergoedingen van de onderaannemer of de zelfstandige ondernemer, die overeenkomen met de personeelskosten van de loopbaanbegeleider alsof die persoon in dienst zou zijn van het loopbaancentrum.<br>
+<br>
 In het tweede lid, 2°, wordt verstaan onder werkingskosten :<br>
 a) de uitgaven die rechtstreeks betrekking hebben op de planning, uitvoering, monitoring en evaluatie van de loopbaandienstverlening;<br>
-b) de uitgaven die als overhead betrekking hebben op de organisatie van de onderneming.
+b) de uitgaven die als overhead betrekking hebben op de organisatie van de onderneming.<br>
+<br>
+Als de gemandateerde onderneming een beroep doet op onderaannemers of zelfstandige ondernemers, worden de werkingskosten, vermeld in het derde lid, van elke partij samengeteld.
 
 ### ART. 12.
 
@@ -79,17 +178,46 @@ De vergoeding, vermeld in artikel 11, kan niet gecumuleerd worden met   andere s
 
 ### ART. 14.
 
-De gemandateerde onderneming kan voor de professioneel actieve persoon   geen enkele andere vergoeding voor loopbaandienstbegeleiding ontvangen dan de   vergoeding vermeld in dit besluit.<BR><BR>De gemandateerde onderneming kan geen   schadevergoeding eisen van de professioneel actieve persoon die beslist om de   loopbaanbegeleiding vroegtijdig stop te zetten.<BR><BR>De gemandateerde   onderneming kan geen loopbaanbegeleiding aanbieden aan eigen   werknemers.<BR><BR>De vergoeding, vermeld in artikel 11, kan door de   gemandateerde onderneming niet aangewend worden ter financiering van een   derdebetalersregeling van de eigen bijdrage van de professioneel actieve   persoon.
+De gemandateerde onderneming kan voor de professioneel actieve persoon geen enkele andere vergoeding voor loopbaandienstbegeleiding ontvangen dan de vergoeding vermeld in dit besluit.<br>
+<br>
+De gemandateerde onderneming kan geen schadevergoeding eisen van de professioneel actieve persoon die beslist om de loopbaanbegeleiding vroegtijdig stop te zetten.<br>
+<br>
+De gemandateerde onderneming kan geen loopbaanbegeleiding aanbieden aan eigen werknemers, aan onderaannemers of werknemers van onderaannemers.<br>
+<br>
+De vergoeding, vermeld in artikel 11, kan door de gemandateerde onderneming niet aangewend worden ter financiering van een derdebetalersregeling van de eigen bijdrage van de professioneel actieve persoon.
 
 ### ART. 15.
 
-&nbsp;§ 1. Binnen de grenzen van de goedgekeurde jaarlijkse   begrotingskredieten en volgens de voorwaarden, vermeld in dit besluit, verkrijgt   de gemandateerde onderneming stimuleringsfinanciering voor de   loopbaanbegeleiding van professioneel actieve personen die behoren tot de   kansengroepen als :<BR>1° de gemandateerde onderneming over minimaal twee jaar   ervaring beschikt op het vlak van het werken met kansengroepen;<BR>2° het   jaarlijkse aandeel van de professioneel actieve personen die de onderneming   begeleidt en die behoren tot de kansengroepen, op het totaal aantal begeleide   personen minimaal 30 procent bedraagt.<BR><BR>De gemandateerde onderneming   levert bij de aanvraag van mandaat of bij de aanvang van werkingsjaar het bewijs   van de ervaring, vermeld in het eerste lid, 1°. <BR><BR>§ 2. De gemandateerde   onderneming ontvangt een forfaitaire vergoeding volgens de formule :<BR>S = JBA   x BP x 150/100, waarbij<BR>1° S : stimuleringsfinanciering, die bestaat uit een   vergoeding uitgedrukt in euro;<BR>2° JBA : het jaarlijks bereikt aandeel,   vermeld in paragraaf 1, eerste lid, 2°, dat gelijk is aan :<BR>a) 30 : bij een   bereik van 30 procent tot en met 40 procent;<BR>b) 40 : bij een bereik van 41   procent tot en met 50 procent;<BR>c) 50 : bij een bereik van 51 procent tot en   met 60 procent;<BR>d) 60 : bij een bereik van 61procent tot en met 100   procent.<BR>3° BP : het totale aantal daadwerkelijk begeleide personen;<BR>4°   150 : honderd vijftig euro.<BR><BR>§ 3. De vergoeding van honderdvijftig euro,   vermeld in paragraaf 2, 4°, vertegenwoordigt :<BR>1° de personeelskosten om   promotie te voeren bij kansengroepen;<BR>2° de personeelskosten om de methodiek   en instrumenten op maat van kansengroepen te ontwikkelen en aan te passen;<BR>3°   werkingsmiddelen.<BR><BR>§ 4. De stimuleringsfinanciering wordt jaarlijks door   de VDAB berekend en toegekend.
+&nbsp;§ 1. Binnen de grenzen van de goedgekeurde jaarlijkse begrotingskredieten en volgens de voorwaarden, vermeld in dit besluit, verkrijgt de gemandateerde onderneming stimuleringsfinanciering voor de loopbaanbegeleiding van professioneel actieve personen die behoren tot de kansengroepen als :<br>
+1° de gemandateerde onderneming over minimaal twee jaar ervaring beschikt op het vlak van het werken met kansengroepen;<br>
+2° het jaarlijkse aandeel van de professioneel actieve personen die de onderneming begeleidt en die behoren tot de kansengroepen, op het totaal aantal begeleide personen minimaal 30 procent bedraagt;<br>
+3° er minimaal twintig actieve personen per jaar begeleid worden.<br>
+<br>
+De gemandateerde onderneming levert bij de aanvraag van mandaat of bij de aanvang van werkingsjaar het bewijs van de ervaring, vermeld in het eerste lid, 1°.<br>
+<br>
+§ 2. De gemandateerde onderneming ontvangt een forfaitaire vergoeding volgens de formule :<br>
+S = JBA x BP x 150/100, waarbij<br>
+1° S : stimuleringsfinanciering, die bestaat uit een vergoeding uitgedrukt in euro;<br>
+2° JBA : het jaarlijks bereikt aandeel, vermeld in paragraaf 1, eerste lid, 2°, dat gelijk is aan :<br>
+a) 30 : bij een bereik van 30 procent tot en met 40 procent;<br>
+b) 40 : bij een bereik van 41 procent tot en met 50 procent;<br>
+c) 50 : bij een bereik van 51 procent tot en met 60 procent;<br>
+d) 60 : bij een bereik van 61procent tot en met 100 procent.<br>
+3° BP : het totale aantal daadwerkelijk begeleide personen;<br>
+4° 150 : honderd vijftig euro.<br>
+<br>
+§ 3. De vergoeding van honderdvijftig euro, vermeld in paragraaf 2, 4°, vertegenwoordigt :<br>
+1° de personeelskosten om promotie te voeren bij kansengroepen;<br>
+2° de personeelskosten om de methodiek en instrumenten op maat van kansengroepen te ontwikkelen en aan te passen;<br>
+3° werkingsmiddelen.<br>
+<br>
+§ 4. De stimuleringsfinanciering wordt jaarlijks door de VDAB berekend en toegekend.
 
 ## HOOFDSTUK 7. Controle en sanctionering
 
 ### ART. 16.
 
-De VDAB voert op regelmatige basis, uiterlijk om de drie jaar, controles   uit die gericht zijn op de naleving van de bepalingen van dit besluit, om de   omvang van de vergoedingen voor de loopbaanbegeleiding te bepalen.
+De VDAB voert op regelmatige basis controles uit die gericht zijn op de naleving van de bepalingen van dit besluit en, om de omvang van de vergoedingen voor de loopbaanbegeleiding te bepalen.
 
 ### ART. 17.
 
@@ -97,11 +225,36 @@ Informatiegegevens die betrekking hebben op de naleving van de voorwaarden   van
 
 ### ART. 18.
 
-§ 1. De minister kan het mandaat schorsen of het mandaat intrekken als   wordt vastgesteld dat :<BR>1° de gemandateerde onderneming de bepalingen van dit   besluit niet naleeft;<BR>2° de zaakvoerder, exploitant of verantwoordelijke van   de gemandateerde onderneming of haar aangestelden of lasthebbers, het toezicht   en de controle, vermeld in artikel 16 verhinderen;<BR>3° de gemandateerde   onderneming haar activiteiten stopzet;<BR>4° de gemandateerde onderneming haar   mandaat heeft verkregen op basis van valse, onvolledige of onjuiste   verklaringen;<BR>5° de gemandateerde onderneming de inlichtingen die het ter   uitvoering van de bepalingen van dit besluit moet leveren, vervalst.<BR><BR>§ 2.   De beslissing is definitief nadat de gemandateerde onderneming de mogelijkheid   heeft gekregen om haar verweermiddelen mee te delen binnen een vervaltermijn van   vijftien dagen, in geval van een voornemen tot schorsing van het mandaat, en een   vervaltermijn van dertig dagen, in geval van een voornemen tot intrekking van   het mandaat.<BR><BR>De termijnen, vermeld in het eerste lid, vangen aan de dag   nadat het voornemen aan de gemandateerde onderneming ter kennisgeving is   verzonden per aangetekende brief.<BR><BR>§ 3. Bij de beslissing tot intrekking   van het mandaat deelt de minister mee binnen welke termijn de gemandateerde   onderneming opnieuw een mandaat mag aanvragen.
+§ 1.&nbsp;De raad van bestuur van de VDAB kan het mandaat schorsen of het mandaat intrekken als wordt vastgesteld dat :<br>
+1° de gemandateerde onderneming de bepalingen van dit besluit niet naleeft;<br>
+2° de zaakvoerder, exploitant of verantwoordelijke van de gemandateerde onderneming of haar aangestelden of lasthebbers, het toezicht en de controle, vermeld in artikel 16 verhinderen;<br>
+3° de gemandateerde onderneming haar activiteiten stopzet;<br>
+4° de gemandateerde onderneming haar mandaat heeft verkregen op basis van valse, onvolledige of onjuiste verklaringen;<br>
+5° de gemandateerde onderneming de inlichtingen die het ter uitvoering van de bepalingen van dit besluit moet leveren, vervalst;<br>
+6° de gemandateerde onderneming langer dan een jaar geen loopbaanbegeleiding met loopbaancheque heeft uitgevoerd, het opstartjaar buiten beschouwing gelaten;<br>
+7° de bestuurders, zaakvoerders, lasthebbers, of andere personen die bevoegd zijn om de gemandateerde onderneming te verbinden of te vertegenwoordigen, of de hoofdaandeelhouders van de gemandateerde onderneming, in zoverre zij in de feiten de bevoegdheden van bestuurder uitoefenen, werden tijdens een periode van vijf jaar voorafgaand aan de aanvang van de activiteit van loopbaanbegeleiding of tijdens de uitoefening van het lopende mandaat inzake loopbaanbegeleidingsactiviteiten:<br>
+a) veroordeeld wegens faillissement, bedrieglijk onvermogen, valsheid in geschrifte, misbruik van vertrouwen, oplichting, omkoping of bedrog;<br>
+b) aansprakelijk gesteld voor de verbintenissen of de schulden van een gefailleerde vennootschap met toepassing van artikelen 229, 5°, 265, 315, 456, 4°, en 530, van het Wetboek van Vennootschappen of een gelijkaardige wetgeving in de lidstaat van vestiging of hebben meermaals een functie van zaakvoerder of gemachtigde uitgeoefend in een gefailleerde vennootschap;<br>
+c) herhaaldelijk in overtreding gesteld op het gebied van de fiscale, sociale verplichtingen of van de wettelijke en reglementaire bepalingen;<br>
+d) onderworpen aan een exploitatieverbod met bedrijfssluiting, of aan een beroepsverbod met bedrijfssluiting;<br>
+e) ontheven van hun burgerrechten en politieke rechten.<br>
+<br>
+§ 2. De beslissing is definitief nadat de gemandateerde onderneming de mogelijkheid heeft gekregen om haar verweermiddelen mee te delen binnen een vervaltermijn van vijftien dagen, in geval van een voornemen tot schorsing van het mandaat, en een vervaltermijn van dertig dagen, in geval van een voornemen tot intrekking van het mandaat.<br>
+<br>
+De termijnen, vermeld in het eerste lid, vangen aan de dag nadat het voornemen aan de gemandateerde onderneming ter kennisgeving is verzonden per aangetekende brief.<br>
+<br>
+§ 3. Bij de beslissing tot intrekking van het mandaat deelt&nbsp;de raad van bestuur van de VDAB mee binnen welke termijn de gemandateerde onderneming of de zaakvoerder opnieuw een mandaat mag aanvragen.
 
 ### ART. 19.
 
-§ 1. Met behoud van de toepassing van artikel 18, § 1, kan de   loopbaanvergoeding worden verminderd of teruggevorderd door de VDAB als :<BR>1°   de gemandateerde onderneming de bepalingen van dit besluit niet naleeft;<BR>2°   de gemandateerde onderneming nog vergoedingen ontvangt nadat haar mandaat   geschorst of ingetrokken is;<BR>3° de VDAB inbreuken vaststelt op de bepalingen   van het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de   toepassing van artikel 106, lid 2, van het Verdrag betreffende de werking van de   Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst,   verleend aan bepaalde met het beheer van diensten van algemeen economisch belang   belaste ondernemingen.<BR><BR>§ 2. De beslissing is definitief nadat de   gemandateerde onderneming de mogelijkheid heeft gekregen om haar verweermiddelen   mee te delen binnen een vervaltermijn van vijftien dagen, behalve als ze haar   verweermiddelen al heeft kunnen voorleggen met toepassing van artikel   18.<BR><BR>De termijn, vermeld in het eerste lid, vangt aan de dag nadat het   voornemen aan de gemandateerde onderneming ter kennisgeving is verzonden per   aangetekende brief.
+§ 1. Met behoud van de toepassing van artikel 18, § 1, kan de loopbaanvergoeding worden verminderd of teruggevorderd door de VDAB als :<br>
+1° de gemandateerde onderneming de bepalingen van dit besluit niet naleeft;<br>
+2° de gemandateerde onderneming nog vergoedingen ontvangt nadat haar mandaat geschorst of ingetrokken is;<br>
+3° ...<br>
+<br>
+§ 2. De beslissing is definitief nadat de gemandateerde onderneming de mogelijkheid heeft gekregen om haar verweermiddelen mee te delen binnen een vervaltermijn van vijftien dagen, behalve als ze haar verweermiddelen al heeft kunnen voorleggen met toepassing van artikel 18.<br>
+<br>
+De termijn, vermeld in het eerste lid, vangt aan de dag nadat het voornemen aan de gemandateerde onderneming ter kennisgeving is verzonden per aangetekende brief.
 
 ## HOOFDSTUK 8. Evaluatie en klachtenprocedure
 
