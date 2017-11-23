@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028742,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-13 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 17 mei 2013 betreffende de loopbaanbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028742/VolledigDocument?datum=2017-11-23",
+  "source_sha256": "9de8281e24b9216981dea6eaefe06c4f3bc41a52ecf9fa284d282377bb617830",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028742&param=informatie",
+  "as_of": "2017-11-23",
+  "made": "2017-10-13",
+  "gazette": "2017-11-13",
+  "numac": 2017013952,
+  "document_start": "2017-11-23",
+  "document_end": null,
+  "in_force": "2017-11-23",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2017-11-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
