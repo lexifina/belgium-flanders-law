@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028746,
+  "title": "Decreet van 2017-11-10 inzake maatregelen ter verlaging van de kosten voor de aanleg van elektronische-communicatienetwerken met hoge snelheid en tot wijziging van diverse decreten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028746/VolledigDocument?datum=2017-11-24",
+  "source_sha256": "cb0e10a78b68078ea31921e0b4347c86087a399e3e36fd780a3e0e1b59938830",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028746&param=informatie",
+  "as_of": "2017-11-24",
+  "made": "2017-11-10",
+  "gazette": "2017-11-14",
+  "numac": 2017040792,
+  "document_start": "2017-11-24",
+  "document_end": "2026-07-22",
+  "in_force": "2017-11-24",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2017-11-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
