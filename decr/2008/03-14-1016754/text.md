@@ -6,15 +6,47 @@
 
 Dit decreet regelt een gewest- en gemeenschapsaangelegenheid.<br /><br />
 
+### ART 1/1.
+
+Dit decreet voorziet in de gedeeltelijke omzetting van richtlijn 2014/61/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake maatregelen ter verlaging van de kosten van de aanleg van elektronische-communicatienetwerken met hoge snelheid.
+
 ### ART. 2.
 
-§ 1. In dit decreet wordt verstaan onder : <BR>1° Kabel en Leiding   Informatie Portaal, hierna KLIP te noemen : elektronisch informatiesysteem voor   de ontsluiting en de uitwisseling van informatie over kabels en leidingen tussen   KLB's, planaanvragers en ODB's; <BR>2° kabels en leidingen : alle ondergrondse   infrastructuur die bestemd is voor de transit, het transport, de transmissie of   de distributie van vaste, vloeibare of gasvormige stoffen, energie of   informatie; <BR>3° kabel- en leidingbeheerder, hierna KLB te noemen : persoon   die in het kader van zijn beroepsactiviteiten of taken van publiek belang kabels   en leidingen op het grondgebied van het Vlaamse Gewest beheert of binnen   uiterlijk vijftig werkdagen dit beheer op zich zal nemen; <BR>4° belangenzone   kabel- en leidingbeheerder, hierna KLB-zone te noemen : alle gebieden waarin een   bepaalde KLB-kabels en leidingen beheert of binnen uiterlijk vijftig werkdagen   dit beheer op zich zal nemen; <BR>5° professionele planaanvrager : persoon die   in het kader van zijn beroepsactiviteiten of taken van publiek belang op het   grondgebied van het Vlaamse Gewest ofwel grondwerken zal uitvoeren, ofwel   betrokken is bij de voorbereiding en planning van dergelijke werken, en zich in   die hoedanigheid geregistreerd heeft in het KLIP;<BR>6° particuliere   planaanvrager : persoon die niet als professionele planaanvrager geregistreerd   is in het KLIP; <BR>7° planaanvraagzone : gebied waarop een planaanvraag   betrekking heeft; <BR>8° planaanvraag : aanvraag die via het KLIP is ingediend   om informatie over de ligging van kabels en leidingen in de planaanvraagzone te   verkrijgen; <BR>9° werkdag : elke dag van de week, met uitzondering van zater-   en zondagen, en de wettelijke, decretale of reglementaire feestdagen; <BR>10°   grondwerken : alle activiteiten die een impact hebben op het grondoppervlak of   de ondergrond en schade kunnen veroorzaken aan kabels en leidingen; <BR>11°   openbaardomeinbeheerder, hierna ODB te noemen : persoon die openbaar domein in   beheer heeft, en zich in die hoedanigheid geregistreerd heeft in het KLIP;   <BR>12° belangenzone openbaardomeinbeheerder, hierna ODB-zone te noemen : alle   gebieden die een bepaalde ODB in beheer heeft; <BR>13° Informatie Model Kabels   en Leidingen, hierna IMKL te noemen : uitwisselingsformaat met als doel de   informatie over kabels en leidingen van KLB's te standaardiseren zodat deze   informatie via het KLIP kan uitgewisseld worden; <BR>14° het agentschap : het   intern verzelfstandigd agentschap Informatie Vlaanderen, vermeld in artikel 2   van het besluit van de Vlaamse Regering van 18 maart 2014 houdende de oprichting   van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van   diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de   regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan   het agentschap Informatie Vlaanderen en de vaststelling van de werking, het   beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;<BR>15°   presentatiemodel Kabels en Leidingen, hierna PMKL te noemen : het geheel van   visualisatieafspraken met als doel de wijze van voorstelling van IMKL-conforme   informatie over kabels en leidingen van KLB's te standaardiseren zodat die   informatie via het KLIP op uniforme wijze aan de planaanvragers meegedeeld kan   worden.<BR><BR>§ 2. De verplichtingen uit dit decreet doen geen afbreuk aan   verplichtingen uit toepasselijke sectorreglementering, die in voorkomend geval   cumulatief moeten worden nageleefd.<BR><BR>
+§ 1. In dit decreet wordt verstaan onder :<br>
+1° Kabel en Leiding Informatie Portaal, hierna KLIP te noemen : elektronisch informatiesysteem voor de ontsluiting en de uitwisseling van informatie over kabels en leidingen tussen KLB's, planaanvragers en ODB's;<br>
+2° kabels en leidingen : alle ondergrondse infrastructuur die bestemd is voor de transit, het transport, de transmissie of de distributie van vaste, vloeibare of gasvormige stoffen, energie of informatie;<br>
+3° kabel- en leidingbeheerder, hierna KLB te noemen : persoon die in het kader van zijn beroepsactiviteiten of taken van publiek belang kabels en leidingen op het grondgebied van het Vlaamse Gewest beheert of binnen uiterlijk vijftig werkdagen dit beheer op zich zal nemen;<br>
+4° belangenzone kabel- en leidingbeheerder, hierna KLB-zone te noemen : alle gebieden waarin een bepaalde KLB-kabels en leidingen beheert of binnen uiterlijk vijftig werkdagen dit beheer op zich zal nemen;<br>
+5° professionele planaanvrager : persoon die in het kader van zijn beroepsactiviteiten of taken van publiek belang op het grondgebied van het Vlaamse Gewest ofwel grondwerken zal uitvoeren, ofwel betrokken is bij de voorbereiding en planning van dergelijke werken, en zich in die hoedanigheid geregistreerd heeft in het KLIP;<br>
+6° particuliere planaanvrager : persoon die niet als professionele planaanvrager geregistreerd is in het KLIP;<br>
+7° planaanvraagzone : gebied waarop een planaanvraag betrekking heeft;<br>
+8° planaanvraag : aanvraag die via het KLIP is ingediend om informatie over de ligging van kabels en leidingen in de planaanvraagzone te verkrijgen;<br>
+9° werkdag : elke dag van de week, met uitzondering van zater- en zondagen, en de wettelijke, decretale of reglementaire feestdagen;<br>
+10° grondwerken : alle activiteiten die een impact hebben op het grondoppervlak of de ondergrond en schade kunnen veroorzaken aan kabels en leidingen;<br>
+11° openbaardomeinbeheerder, hierna ODB te noemen : persoon die openbaar domein in beheer heeft, en zich in die hoedanigheid geregistreerd heeft in het KLIP;<br>
+12° belangenzone openbaardomeinbeheerder, hierna ODB-zone te noemen : alle gebieden die een bepaalde ODB in beheer heeft;<br>
+13° Informatie Model Kabels en Leidingen, hierna IMKL te noemen : uitwisselingsformaat met als doel de informatie over kabels en leidingen van KLB's te standaardiseren zodat deze informatie via het KLIP kan uitgewisseld worden;<br>
+14° het agentschap : het intern verzelfstandigd agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2014 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;<br>
+15° presentatiemodel Kabels en Leidingen, hierna PMKL te noemen : het geheel van visualisatieafspraken met als doel de wijze van voorstelling van IMKL-conforme informatie over kabels en leidingen van KLB's te standaardiseren zodat die informatie via het KLIP op uniforme wijze aan de planaanvragers meegedeeld kan worden;<br>
+16° elektronisch communicatienetwerk met hoge snelheid: de transmissiesystemen, de schakel- of routeringsapparatuur en andere middelen, zoals netwerkelementen die niet actief zijn, die het mogelijk maken signalen over te brengen, ongeacht de aard van de overgebrachte informatie, via:<br>
+a) draad;<br>
+b) radiogolven;<br>
+c) optische of andere elektromagnetische middelen, zoals satellietnetwerken, vaste en mobiele terrestrische netwerken;<br>
+d) elektriciteitsnetten, als ze voor overdracht van signalen worden gebruikt;<br>
+e) netwerken voor de transmissie van radio-omroep en televisie.<br>
+Vaste terrestrische netwerken omvatten circuit- en pakketgeschakelde netwerken, met inbegrip van internet. Het gaat alleen om elektronische-communicatienetwerken die geheel of hoofdzakelijk gebruikt worden om voor het publiek beschikbare elektronische-communicatiediensten aan te bieden ter ondersteuning van de overdracht van informatie tussen netwerkaansluitpunten met een snelheid van minstens 30 Mbps.<br>
+<br>
+§ 2. De verplichtingen uit dit decreet doen geen afbreuk aan verplichtingen uit toepasselijke sectorreglementering, die in voorkomend geval cumulatief moeten worden nageleefd.<br>
+&nbsp;
 
 ## HOOFDSTUK II Doelstelling en werking
 
 ### ART. 3.
 
-Het doel van het KLIP is de directe en indirecte milieuschade, de economische schade (waaronder de schade aan de leidingen zelf) en de risico's inzake veiligheid en gezondheid ingevolge schade aan kabels en leidingen door grondwerken te voorkomen, dit door de informatie over kabels en leidingen beter te ontsluiten en uit te wisselen. <br /><br />
+Het doel van het KLIP is de directe en indirecte milieuschade, de economische schade (waaronder de schade aan de leidingen zelf) en de risico's inzake veiligheid en gezondheid ingevolge schade aan kabels en leidingen door grondwerken te voorkomen, dit door de informatie over kabels en leidingen beter te ontsluiten en uit te wisselen.<br>
+<br>
+Het doel is ook, tegen lagere kosten, de uitrol van elektronische-communicatienetwerken met hoge snelheid te vergemakkelijken en te stimuleren, door meer gezamenlijk gebruik van bestaande fysieke infrastructuur en een efficiëntere aanleg van nieuwe fysieke infrastructuur.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -113,7 +145,10 @@ In artikel 5 van het decreet van 7 mei 2004 houdende de oprichting van het publi
 
 ### ART. 20.
 
-De Vlaamse Regering kan een afzonderlijke KLB of een categorie van KLB's   wegens gegronde redenen vrijstelling verlenen van een of meer&nbsp;van de   verplichtingen van hoofdstuk III, en van de artikelen 10 en   11.<BR><BR>
+De Vlaamse Regering kan een afzonderlijke KLB of een categorie van KLB's wegens gegronde redenen vrijstelling verlenen van een of meer&nbsp;van de verplichtingen van hoofdstuk III, en van de artikelen 10 en 11.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, geldt niet als de planaanvraag wordt ingediend met het oog op de aanleg van elektronische-communicatienetwerken met hoge snelheid.<br>
+&nbsp;
 
 ### ART. 21.
 
