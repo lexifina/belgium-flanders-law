@@ -2,16 +2,16 @@
   "codex_id": 1022378,
   "title": "Besluit van de Vlaamse Regering van 2012-09-07 houdende vaststelling van de maximale rentabiliteitsoppervlakten, vermeld in de pachtwetgeving",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022378/VolledigDocument?datum=2012-11-25",
-  "source_sha256": "43cb782ebce056f5524459d893d539963016cdcd7442bdf13e5b0a10cfc0fe69",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022378/VolledigDocument?datum=2017-11-25",
+  "source_sha256": "e9acbb04ea0c93a2740a134bfaca6d76b7a9dbd9795a388bc84d129a430f0cc4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022378&param=informatie",
-  "as_of": "2012-11-25",
+  "as_of": "2017-11-25",
   "made": "2012-09-07",
   "gazette": "2012-10-15",
   "numac": 2012205607,
   "document_start": "2012-11-25",
   "document_end": "2017-11-24",
-  "in_force": "2012-11-25",
+  "in_force": "2017-11-25",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2012-11-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-11-25; future article versions excluded; article text as the API gives it"
 }

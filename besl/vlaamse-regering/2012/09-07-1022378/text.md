@@ -30,37 +30,12 @@ Besluit :</p>
 
 ### ART. 1.
 
-<p>De maximale rentabiliteitsoppervlakten, vermeld in artikel 12.7 van Artikel I van de wet van 4 november 1969 tot wijziging van de pachtwetgeving en van de wetgeving betreffende het recht van voorkoop ten gunste van huurders van landeigendommen, gewijzigd bij de wet van 7 november 1988, worden vastgesteld als volgt :<br>
-1° Antwerpen :<br>
-a) polders : 135 ha;<br>
-b) zandstreek : 120 ha;<br>
-c) Kempen : 115 ha;<br>
-2° Vlaams-Brabant :<br>
-a) zandstreek : 120 ha;<br>
-b) Kempen : 115 ha;<br>
-c) zandleemstreek : 150 ha;<br>
-d) leemstreek : 200 ha;<br>
-3° Limburg :<br>
-a) Kempen : 115 ha;<br>
-b) zandleemstreek : 150 ha;<br>
-c) leemstreek : 200 ha;<br>
-d) grasstreek : 140 ha;<br>
-4° West-Vlaanderen :<br>
-a) duinen : 135 ha;<br>
-b) polders : 135 ha;<br>
-c) zandstreek : 120 ha;<br>
-d) zandleemstreek : 150 ha;<br>
-e) leemstreek : 200 ha;<br>
-5° Oost-Vlaanderen :<br>
-a) polders : 135 ha;<br>
-b) zandleemstreek : 150 ha;<br>
-c) zandstreek : 120 ha;<br>
-d) leemstreek : 200 ha.</p>
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op 25 november 2012.
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, is belast met de uitvoering van dit besluit.
+...
