@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028802,
+  "title": "Besluit van de Vlaamse Regering van 2017-11-24 houdende vaststelling van de maximale rentabiliteitsoppervlakten, vermeld in de pachtwetgeving",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028802/VolledigDocument?datum=2017-11-25",
+  "source_sha256": "a61dbfa605832678c8350876115378cb49ff3634c1a9a4a42a3dd7613793d0aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028802&param=informatie",
+  "as_of": "2017-11-25",
+  "made": "2017-11-24",
+  "gazette": "2017-12-12",
+  "numac": 2017031740,
+  "document_start": "2017-11-25",
+  "document_end": "2022-11-24",
+  "in_force": "2017-11-25",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-11-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
