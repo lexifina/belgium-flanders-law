@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028750,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-20 houdende indeling bij de gemeentewegen van de gewestweg N447 tussen kilometerpunt 2,570 en 2,650 op het grondgebied van de gemeente Destelbergen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028750/VolledigDocument?datum=2017-11-26",
+  "source_sha256": "f6073da08979fc0b92265d8d9dc6396057d6e59c95bf58e74fe8d78a26a0c5e2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028750&param=informatie",
+  "as_of": "2017-11-26",
+  "made": "2017-10-20",
+  "gazette": "2017-11-16",
+  "numac": 2017013974,
+  "document_start": "2017-11-26",
+  "document_end": null,
+  "in_force": "2017-11-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-11-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
