@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028751,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-20 houdende indeling bij de gemeentewegen van de gewestweg N462 tussen kilometerpunt 21,200 en 21,400 (St.-Hubertusplein) op het grondgebied van de stad Zottegem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028751/VolledigDocument?datum=2017-11-26",
+  "source_sha256": "2a4a098b1be87adef9839a5e21f940c15bc4da9efdb101540cf8adfd982031df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028751&param=informatie",
+  "as_of": "2017-11-26",
+  "made": "2017-10-20",
+  "gazette": "2017-11-16",
+  "numac": 2017013977,
+  "document_start": "2017-11-26",
+  "document_end": null,
+  "in_force": "2017-11-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-11-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
