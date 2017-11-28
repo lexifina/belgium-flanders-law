@@ -32,4 +32,4 @@ Dit besluit is van toepassing op onderhandse overeenkomsten afgesloten na 30 jun
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/05/29_1.pdf#page=45">http://www.ejustice.just.fgov.be/mopdf/2017/05/29_1.pdf#page=45</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/11/28_1.pdf#page=44">http://www.ejustice.just.fgov.be/mopdf/2017/11/28_1.pdf#page=44</a>
