@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028778,
+  "title": "Ministerieel besluit van 2017-10-13 tot vervanging van de bijlage bij het ministerieel besluit van 15 mei 2017 houdende vervanging van bijlage I van het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere regels voor de toepassing van de watertoets, tot aanwijzing van de adviesinstantie en tot vaststelling van nadere regels voor de adviesprocedure bij de watertoets, vermeld in artikel 8 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028778/VolledigDocument?datum=2017-11-28",
+  "source_sha256": "7e1cfe4df251b9731fa8fc7975a0a7d8a6c55aa0b2a64561de995ab12c4ec435",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028778&param=informatie",
+  "as_of": "2017-11-28",
+  "made": "2017-10-13",
+  "gazette": "2017-11-28",
+  "numac": 2017014185,
+  "document_start": "2017-11-28",
+  "document_end": null,
+  "in_force": "2017-11-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-11-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
