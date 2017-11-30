@@ -161,6 +161,10 @@ De melding tot ingebruikname van een nieuwe vestigingsplaats wordt gevoegd bij d
 
 Een fusie van centra voor deeltijds beroepssecundair onderwijs wordt door   het centrumbestuur of de centrumbesturen in kwestie uiterlijk op 1 mei van het   voorafgaand schooljaar gemeld aan het Agentschap voor   Onderwijsdiensten.<BR><BR>Een afbouw van een centrum voor deeltijds   beroepssecundair onderwijs wordt door het centrumbestuur in kwestie uiterlijk op   1 mei van het voorafgaand schooljaar gemeld aan het Agentschap voor   Onderwijsdiensten.
 
+### ART 13ter.
+
+Een centrum voor deeltijds beroepssecundair onderwijs kan voltijds gewoon secundair onderwijs organiseren als het gaat om structuuronderdelen met in de benaming de term "duaal". In voorkomend geval zijn de Codex Secundair Onderwijs van 17 december 2010 en de uitvoeringsbesluiten ervan over de programmatie en organisatie van die structuuronderdelen, van toepassing.
+
 ## Onderafdeling II Centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen
 
 ### ART. 14.
@@ -174,6 +178,10 @@ Voor de erkenning, binnen de leertijd, van een opleiding van een centrum   voor 
 ### ART. 16.
 
 Voor de subsidiëring, binnen de leertijd, van een opleiding van een   centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen   moeten alle voorwaarden als vermeld in artikel 38 van het decreet van 7 mei 2004   tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd   agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, zijn   vervuld.<BR><BR>Met behoud van de erkenning wordt de subsidiëring, binnen de   leertijd, van een centrum dat niet meer voldoet aan alle   subsidiëringsvoorwaarden of een opleiding ervan die niet meer voldoet aan al die   voorwaarden, door Syntra Vlaanderen geheel of gedeeltelijk   ingehouden.<BR><BR>
+
+### ART 16bis.
+
+Een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen kan voltijds gewoon secundair onderwijs organiseren als het gaat om structuuronderdelen met in de benaming de term "duaal". In voorkomend geval zijn de Codex Secundair Onderwijs van 17 december 2010 en de uitvoeringsbesluiten ervan over de programmatie en organisatie van die structuuronderdelen, van toepassing.
 
 ## Onderafdeling III [... (opgeh. decr. 30 maart 2018, art. 90, I: 1 september 2019)]
 
