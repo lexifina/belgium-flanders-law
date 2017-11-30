@@ -92,6 +92,45 @@ De schriftelijke bewijsstukken van de aanwending liggen in de school ter control
 
 ## Afdeling 3 Organieke opstart van duaal leren
 
+### ART 5.
+
+In het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt een artikel 13ter ingevoegd, dat luidt als volgt:<br>
+"Art. 13ter. Een centrum voor deeltijds beroepssecundair onderwijs kan voltijds gewoon secundair onderwijs organiseren als het gaat om structuuronderdelen met in de benaming de term "duaal". In voorkomend geval zijn de Codex Secundair Onderwijs van 17 december 2010 en de uitvoeringsbesluiten ervan over de programmatie en organisatie van die structuuronderdelen, van toepassing.".<br>
+&nbsp;
+
+### ART 6.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt een artikel 16bis ingevoegd, dat luidt als volgt:<br>
+"Art. 16bis. Een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen kan voltijds gewoon secundair onderwijs organiseren als het gaat om structuuronderdelen met in de benaming de term "duaal". In voorkomend geval zijn de Codex Secundair Onderwijs van 17 december 2010 en de uitvoeringsbesluiten ervan over de programmatie en organisatie van die structuuronderdelen, van toepassing.".<br>
+&nbsp;
+
+### ART 7.
+
+In de Codex Secundair Onderwijs van 17 december 2010, het laatst gewijzigd bij het decreet van 16 juni 2017, wordt een artikel 127/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 127/1. Structuuronderdelen met in de benaming de term "duaal" die organiek in het studieaanbod worden opgenomen, zijn structuuronderdelen van het voltijds gewoon secundair onderwijs.<br>
+<br>
+De volgende bepalingen zijn niet van toepassing op structuuronderdelen met in de benaming de term "duaal" die op 1 september 2018 in het studieaanbod worden opgenomen:<br>
+1° artikel 15 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur met betrekking tot de procedure voor erkenning van onderwijskwalificaties;<br>
+2° artikel 129, § 1, van deze codex met betrekking tot de indienings- en adviseringsprocedure voor voorstellen van nieuwe structuuronderdelen;<br>
+3° de uitvoeringsbepalingen van punt 1° en 2°. ".<br>
+&nbsp;
+
+### ART 8.
+
+Aan artikel 179/1 van dezelfde codex, ingevoegd bij het decreet van 19 juli 2013 en gewijzigd bij het decreet van 17 juni 2016, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"In afwijking van de datum van 30 november, vermeld in het eerste lid, wordt de programmatie op 1 september 2018 van een structuuronderdeel met in de benaming de term "duaal", uiterlijk op 28 februari 2018 aangevraagd bij de bevoegde diensten. Die termijn geldt als vervaltermijn. De Vlaamse Regering neemt haar beslissing uiterlijk op 30 april 2018. Als de Vlaamse Regering op 30 april 2018 geen beslissing heeft genomen, is de programmatieaanvraag van rechtswege goedgekeurd.".<br>
+&nbsp;
+
+### ART 9.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 16 juni 2017, wordt een artikel 179/4 ingevoegd, dat luidt als volgt:<br>
+"Art. 179/4. Structuuronderdelen die zijn opgericht met toepassing van de volgende regelgeving, en vanaf 1 september 2018 ononderbroken georganiseerd blijven, zijn niet onderworpen aan programmatie:<br>
+1° het besluit van de Vlaamse Regering van 22 april 2016 betreffende het tijdelijke project "schoolbank op de werkplek" rond duaal leren in het secundair onderwijs, bekrachtigd bij het decreet van 10 juni 2016, gewijzigd bij besluit van de Vlaamse Regering van 7 juli 2017 tot uitbreiding van het tijdelijke project "schoolbank op de werkplek" rond duaal leren en houdende diverse maatregelen betreffende basis- en secundair onderwijs, leertijd en leerlingenbegeleiding;<br>
+2° het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende het tijdelijke project "schoolbank op de werkplek" rond duaal leren in de leertijd, bekrachtigd bij het decreet van 10 juni 2016, gewijzigd bij besluit van de Vlaamse Regering van 7 juli 2017 tot uitbreiding van het tijdelijke project "schoolbank op de werkplek" rond duaal leren en houdende diverse maatregelen betreffende basis- en secundair onderwijs, leertijd en leerlingenbegeleiding.<br>
+<br>
+Een structuuronderdeel als vermeld in het eerste lid, blijft in voorkomend geval in het tweede leerjaar van de derde graad tijdens het schooljaar 2018-2019 georganiseerd op basis van het standaardtraject van het schooljaar 2017-2018.".<br>
+&nbsp;
+
 ## HOOFDSTUK 3 Slotbepaling
 
 ### ART 10.
