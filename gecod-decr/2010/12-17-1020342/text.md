@@ -1686,6 +1686,15 @@ Het aanbod in het secundair onderwijs, met uitzondering van de eerste graad, wor
 
 <P>...</P>
 
+### ART 127/1.
+
+Structuuronderdelen met in de benaming de term "duaal" die organiek in het studieaanbod worden opgenomen, zijn structuuronderdelen van het voltijds gewoon secundair onderwijs.<br>
+<br>
+De volgende bepalingen zijn niet van toepassing op structuuronderdelen met in de benaming de term "duaal" die op 1 september 2018 in het studieaanbod worden opgenomen:<br>
+1° artikel 15 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur met betrekking tot de procedure voor erkenning van onderwijskwalificaties;<br>
+2° artikel 129, § 1, van deze codex met betrekking tot de indienings- en adviseringsprocedure voor voorstellen van nieuwe structuuronderdelen;<br>
+3° de uitvoeringsbepalingen van punt 1° en 2°.
+
 ### ART. 128.
 
 <P>De Vlaamse Regering kan beslissen om bestaande structuuronderdelen om te   zetten. De omzetting houdt in dat het structuuronderdeel hetzij wordt opgeheven,   hetzij wordt gewijzigd op één of meer van volgende onderdelen:<BR>a) de   benaming;<BR>b) de graad, de onderwijsvorm, het studiegebied of het   leerjaarniveau waarin het wordt ondergebracht;<BR>c) de duurtijd, doch   uitsluitend wat Se-n-Se betreft;<BR>d) de goedkeuring van   leerplannen.</P>
@@ -2077,7 +2086,9 @@ Na advies van enerzijds de Vlaamse Onderwijsraad en anderzijds de onderwijsinspe
 2° het beantwoorden van de programmatie aan het kwantitatief en kwalitatief aantoonbaar niet-behoeftedekkend onderwijsaanbod binnen de betrokken onderwijszone en met respect voor de keuzevrijheid van ouders en leerlingen;<br>
 3° a) de aanwezigheid van een convenant, of;<br>
 b) de inhoudelijke aansluiting en de objectief vastgestelde nood op de arbeidsmarkt, of;<br>
-c) de studiecontinuïteit van leerlingen binnen de school of de scholengemeenschap.
+c) de studiecontinuïteit van leerlingen binnen de school of de scholengemeenschap.<br>
+<br>
+In afwijking van de datum van 30 november, vermeld in het eerste lid, wordt de programmatie op 1 september 2018 van een structuuronderdeel met in de benaming de term "duaal", uiterlijk op 28 februari 2018 aangevraagd bij de bevoegde diensten. Die termijn geldt als vervaltermijn. De Vlaamse Regering neemt haar beslissing uiterlijk op 30 april 2018. Als de Vlaamse Regering op 30 april 2018 geen beslissing heeft genomen, is de programmatieaanvraag van rechtswege goedgekeurd.
 
 ### ART. 179/2.
 
@@ -2097,6 +2108,14 @@ a) hetzij per scholengemeenschap; in dat geval wordt bij de aanvraag het protoco
 b) hetzij door het schoolbestuur per school die niet tot een scholengemeenschap behoort; in dat geval wordt bij de aanvraag het protocol gevoegd van de onderhandeling ter zake in het bevoegde lokaal comité;<br>
 2° binnen tien werkdagen wordt een advies gegeven enerzijds door de Vlaamse Onderwijsraad en anderzijds door de onderwijsinspectie en de bevoegde diensten van de Vlaamse Gemeenschap;<br>
 3° uiterlijk twee maanden na indiening van de aanvraag neemt de Vlaamse Regering een beslissing. Die beslissing is gebaseerd op de verwachte instroom van anderstalige nieuwkomers versus het al dan niet behoeftedekkend bestaande aanbod van onthaalonderwijs. Bij gunstige beslissing wordt tevens bepaald vanaf welk tijdstip het onthaaljaar kan worden opgericht.
+
+### ART 179/4.
+
+Structuuronderdelen die zijn opgericht met toepassing van de volgende regelgeving, en vanaf 1 september 2018 ononderbroken georganiseerd blijven, zijn niet onderworpen aan programmatie:<br>
+1° het besluit van de Vlaamse Regering van 22 april 2016 betreffende het tijdelijke project "schoolbank op de werkplek" rond duaal leren in het secundair onderwijs, bekrachtigd bij het decreet van 10 juni 2016, gewijzigd bij besluit van de Vlaamse Regering van 7 juli 2017 tot uitbreiding van het tijdelijke project "schoolbank op de werkplek" rond duaal leren en houdende diverse maatregelen betreffende basis- en secundair onderwijs, leertijd en leerlingenbegeleiding;<br>
+2° het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende het tijdelijke project "schoolbank op de werkplek" rond duaal leren in de leertijd, bekrachtigd bij het decreet van 10 juni 2016, gewijzigd bij besluit van de Vlaamse Regering van 7 juli 2017 tot uitbreiding van het tijdelijke project "schoolbank op de werkplek" rond duaal leren en houdende diverse maatregelen betreffende basis- en secundair onderwijs, leertijd en leerlingenbegeleiding.<br>
+<br>
+Een structuuronderdeel als vermeld in het eerste lid, blijft in voorkomend geval in het tweede leerjaar van de derde graad tijdens het schooljaar 2018-2019 georganiseerd op basis van het standaardtraject van het schooljaar 2017-2018.
 
 ## Afdeling 4. Programmatie van scholen die niet tot een scholengemeenschap behoren
 
