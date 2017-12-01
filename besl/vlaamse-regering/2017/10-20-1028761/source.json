@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028761,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-20 tot wijziging van het besluit van de Vlaamse Regering van 26 maart 2004 houdende regels tot uitvoering van het oppervlaktedelfstoffendecreet, tot wijziging van bijlage XVI bij het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en tot opheffing van diverse ministeriële besluiten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028761/VolledigDocument?datum=2017-12-01",
+  "source_sha256": "3bafc052207b5fe18ce26292ac9e4d91d8c11b8fa80cfe5da244279e0981f346",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028761&param=informatie",
+  "as_of": "2017-12-01",
+  "made": "2017-10-20",
+  "gazette": "2017-11-21",
+  "numac": 2017014015,
+  "document_start": "2017-12-01",
+  "document_end": null,
+  "in_force": "2017-12-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2017-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
