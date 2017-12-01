@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028786,
+  "title": "Ministerieel besluit van 2017-10-06 houdende vervanging van de refertelijst inzake individuele materiële bijstand",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028786/VolledigDocument?datum=2017-12-01",
+  "source_sha256": "64b5ec1c363c7012526809f89199ecea873f438b258fc8ee57823f0fdd1b6ad3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028786&param=informatie",
+  "as_of": "2017-12-01",
+  "made": "2017-10-06",
+  "gazette": "2017-11-30",
+  "numac": 2017040924,
+  "document_start": "2017-12-01",
+  "document_end": null,
+  "in_force": "2017-12-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
