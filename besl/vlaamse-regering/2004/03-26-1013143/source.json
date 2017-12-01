@@ -2,16 +2,16 @@
   "codex_id": 1013143,
   "title": "Besluit van de Vlaamse Regering van 2004-03-26 houdende regels tot uitvoering van het oppervlaktedelfstoffendecreet",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013143/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "3a0f115da9e7cf341cf5ef7dbfccda95a0c0b84492631849a3ac03eddcf17e27",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013143/VolledigDocument?datum=2017-12-01",
+  "source_sha256": "da9f64c3e9f1b7c7d634d14478f2b39849ef7a50e4f973fa94577e207fb391bc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013143&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2017-12-01",
   "made": "2004-03-26",
   "gazette": "2004-06-28",
   "numac": 2004035978,
   "document_start": "2004-07-08",
   "document_end": null,
-  "in_force": "2017-04-01",
+  "in_force": "2017-12-01",
   "article_versions": 55,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-12-01; future article versions excluded; article text as the API gives it"
 }
