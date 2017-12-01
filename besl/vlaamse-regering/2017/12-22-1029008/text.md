@@ -15,6 +15,10 @@ Besluit :
 
 ## HOOFDSTUK 1. Overdracht van personeelsleden aan het Agentschap Overheidspersoneel
 
+### ART 4.
+
+Het statutaire personeelslid van het Agentschap Wegen en Verkeer, vermeld in punt 1.4 van bijlage 1, die bij dit besluit is gevoegd, wordt overgedragen aan het Agentschap Overheidspersoneel.
+
 ### ART 7.
 
 Aan het contractuele personeelslid van het Departement Omgeving, vermeld in punt 1.7 van bijlage 1, die bij dit besluit is gevoegd, biedt de in dienst nemende overheid bij het Agentschap Overheidspersoneel een addendum bij de arbeidsovereenkomst aan. Op grond van het voormelde addendum wordt het contractuele personeelslid bij de voormelde entiteit tewerkgesteld.
