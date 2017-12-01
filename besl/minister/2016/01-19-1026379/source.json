@@ -2,16 +2,16 @@
   "codex_id": 1026379,
   "title": "Ministerieel besluit van 2016-01-19 betreffende de bepaling van het L-urencontingent voor het beleidsdomein Welzijn, Volksgezondheid en Gezin",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026379/VolledigDocument?datum=2015-12-01",
-  "source_sha256": "b6bef3c77b9d3e6d09f4bfe7273fbdbe4ce68bf486b1b98157a4ac7132369c7b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026379/VolledigDocument?datum=2017-12-01",
+  "source_sha256": "095de6b73269369e65d1becc9adcee32918401d2aa5665903bcc1e40e09397e1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026379&param=informatie",
-  "as_of": "2015-12-01",
+  "as_of": "2017-12-01",
   "made": "2016-01-19",
   "gazette": "2016-02-02",
   "numac": 2016035084,
   "document_start": "2015-12-01",
   "document_end": "2017-11-30",
-  "in_force": "2015-12-01",
+  "in_force": "2017-12-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2015-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-12-01; future article versions excluded; article text as the API gives it"
 }
