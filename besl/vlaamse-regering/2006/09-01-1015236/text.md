@@ -74,7 +74,49 @@ In het gewoon basisonderwijs :<br />1° worden de wervingsambten van administrat
 ### BIJLAGE V.
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/26_2.pdf#page=41">Bijlage V,</a> deel 1<br>
-<a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/26_2_2.pdf#page=1">Bijlage V, deel 2</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/08/26_2_2.pdf#page=1">Bijlage V, deel 2</a><br>
+<br>
+* Bij BVR van 22 december 2017 werd met ingang van 1 december 2017 aan bijlage V een punt 14° toegevoegd dat luidt als volgt:<br>
+<br>
+"14° met ingang van 1 december 2017 wordt<br>
+A. De opleiding Initiatie bibliotheek-, Documentatie- en Informatiekunde ambtshalve geconcordeerd naar de opleiding Bibliotheekmedewerker-informatiebemiddelaar;<br>
+B. De hieronder in de linkerkolom vermelde module ambtshalve geconcordeerd naar de hieronder in de rechterkolom vermelde module<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>module</td>
+			<td>module</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Informatiebemiddeling in functie van</td>
+			<td>Informatiebemiddeling voor een</td>
+		</tr>
+		<tr>
+			<td>specifieke klantengroepen</td>
+			<td>specifieke doelgroep</td>
+		</tr>
+		<tr>
+			<td>Specifieke bibliotheek- en documentatietechnieken</td>
+			<td>Toepassing van specifieke bibliotheek- of documentatietechnieken</td>
+		</tr>
+		<tr>
+			<td>Specifieke collecties en informatiematerialen in</td>
+			<td>Werken met specifiek informatieaanbod"</td>
+		</tr>
+		<tr>
+			<td>bibliotheken en documentatiecentra</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+"
 
 ## BIJLAGE VI
 
