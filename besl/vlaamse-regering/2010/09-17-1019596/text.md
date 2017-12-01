@@ -6,27 +6,37 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 13 juli 2001 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 10 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs krijgt het experimenteel nieuw studiegebied bibliotheek-, archief- en documentatiekunde voor het secundair volwassenenonderwijs een tijdelijke erkenning.<br /><br />De waarde van de deler voor dat experimenteel nieuw studiegebied is 12.
+...
 
 ### ART. 2.
 
-Ter uitvoering van artikel 24, § 1, van hetzelfde decreet worden de opleidingsprofielen voor de modulaire structuur van het experimenteel nieuw studiegebied bibliotheek-, archief- en documentatiekunde, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met III, die bij dit besluit zijn gevoegd.
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs van het studiegebied bibliotheek-, archief- en documentatiekunde, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage II tot en met IV, die bij dit besluit zijn gevoegd.<br>
+<br>
+Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor bijzondere doelgroepen op de wijze, vermeld in het derde lid, van het minimale aantal lestijden afgeweken.<br>
+<br>
+De opleiding Bibliotheekmedewerker, vastgelegd in bijlage IV, die bij dit besluit is gevoegd, kan voor snel-lerende cursisten 160 lestijden omvatten waarbij:<br>
+1° de module Bibliotheekadministratie maar twintig lestijden bedraagt;<br>
+2° de module Informatieverstrekking maar dertig lestijden bedraagt;<br>
+3° de module Introductie in de bibliotheek- en informatiesector maar twintig lestijden bedraagt;<br>
+4° de module Ondersteuning van activiteiten en pr maar twintig lestijden bedraagt;<br>
+5° de module Onthaal en begeleiding van bibliotheek- of informatiegebruikers maar dertig lestijden bedraagt;<br>
+6° de module Verzorgen en toegankelijk maken van het informatieaanbod maar veertig lestijden bedraagt.
 
 ### ART. 3.
 
-De opleidingsprofielen, vermeld in artikel 2, worden uiterlijk tijdens het schooljaar 2015-2016 <br />geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.
+...
 
 ### ART. 4.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Initiatie tot de Bibliotheek-, Documentatie- en Informatiekunde TSO 3 van het studiegebied personenzorg, vermeld in bijlage III bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, heeft vanaf 1 september 2010 ook onderwijsbevoegdheid voor de modulaire opleiding Initiatie Bibliotheek-, Documentatie- en Informatiekunde en de modulaire opleiding Initiatie Archiefkunde.
+...
 
 ### ART. 5.
 
-De modulaire opleiding Initiatie tot de Bibliotheek-, Documentatie- en Informatiekunde TSO 3 kan, bij wijze van overgangsmaatregel, nog gedurende het schooljaar 2010-2011 georganiseerd worden.
+...
 
 ### ART. 6.
 
-§ 1. Voor het personeelslid dat in toepassing van dit besluit wordt aangesteld in een betrekking in het ambt van leraar secundair volwassenenonderwijs in een opleiding vermeld in bijlage I en II, die bij dit besluit zijn gevoegd, wordt het aantal prestatie-eenheden voor een ambt met volledige prestaties vastgesteld op 20 lestijden van 50 minuten.<br /><br />§ 2. Het personeelslid bedoeld in § 1 heeft recht op een salaris dat wordt toegekend op basis van artikel 6, § 4 van het besluit van de Vlaamse Regering van 26 februari 2010 betreffende de prestatieregeling en de vaststelling van het recht op een salaris.
+...
 
 ### ART. 7.
 
@@ -47,3 +57,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 ### BIJLAGE III
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2012/05/30_1.pdf#page=103" title=" Bijlage III" target="_blank" class="pdf">Bijlage III</a>
+
+### BIJLAGE IV
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/02/05_1.pdf#page=449">Bijlage IV</a>
