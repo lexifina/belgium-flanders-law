@@ -90,7 +90,51 @@ Alle instellingen, vermeld in dit decreet, schrijven zich in in het   beleidspla
 
 ### ART. 14/1.
 
-De innovatiecentra hebben als vzw het maatschappelijk doel om de regionale   innovatiekracht te versterken door bedrijven en ondernemers aan te moedigen en   te begeleiden om efficiënt en op duurzame wijze te innoveren.<BR><BR>Er is één   innovatiecentrum per provincie van het Vlaamse Gewest. De innovatiecentra   fungeren als frontoffice van IWT en als actieve navigator in het Vlaams   Innovatienetwerk.<BR><BR>De Vlaamse Regering stelt binnen de beschikbare   begrotingskredieten jaarlijks een subsidie ter beschikking van elk van de   innovatiecentra.<BR><BR>De Vlaamse Regering sluit een vijfjaarlijks convenant   met elk van de innovatiecentra waarin ten minste de volgende elementen zijn   opgenomen:<BR>1° de modaliteiten waaronder de Vlaamse Regering de subsidies   verleent;<BR>2° de strategische en operationele doelstellingen van de   instelling;<BR>3° de regels voor de meting en de opvolging ervan;<BR>4° de   betalingsregeling voor de jaarlijkse subsidie van het Vlaamse Gewest of de   Vlaamse Gemeenschap;<BR>5° de financiële bepalingen over de aanwending van de   subsidies en de reservevorming;<BR>6° een rapporteringsmechanisme en een   mechanisme dat bestemd is voor de opvolging van de werking;<BR>7° de maatregelen   in geval van niet-naleving van het convenant;<BR>8° de gevallen waarin en de   wijze waarop het convenant tijdens de looptijd ervan kan worden gewijzigd;<BR>9°   de duur en de opzeggings- en verlengingsmogelijkheden van het convenant;<BR>10°   de vereisten waaraan de code van behoorlijk bestuur van de instelling moet   beantwoorden.<BR><BR>De statuten van de innovatiecentra waarborgen dat hun raden   van bestuur ten minste voor de helft bestaan uit bedrijfsleiders of ondernemers   op voordracht van de bedrijfsfederaties die lid zijn van het innovatiecentrum.   De Vlaamse Regering bepaalt welke leden minimaal vertegenwoordigd moeten zijn in   de raden van bestuur van de innovatiecentra.
+De Vlaamse Regering is ertoe gemachtigd deel te nemen in de vzw die opgericht wordt met als doel te fungeren als frontoffice van het Agentschap Innoveren en Ondernemen en als actieve navigator in het netwerk van dienstverleners die verbonden zijn aan het Agentschap Innoveren en Ondernemen.<br>
+<br>
+De Vlaamse Regering stelt binnen de beschikbare begrotingskredieten jaarlijks een subsidie ter beschikking van de vzw die wordt aangewend voor de in het eerste lid omschreven missie en taken.<br>
+<br>
+De Vlaamse Regering sluit een vijfjaarlijks convenant met de vzw, waarin ten minste de volgende elementen zijn opgenomen:<br>
+1° de modaliteiten waaronder de Vlaamse Regering de subsidies verleent;<br>
+2° de strategische en operationele doelstellingen van de instelling;<br>
+3° de regels voor de meting en de opvolging ervan;<br>
+4° de betalingsregeling voor de jaarlijkse subsidie van het Vlaamse Gewest of de Vlaamse Gemeenschap;<br>
+5° de financiële bepalingen over de aanwending van de subsidies en de reservevorming;<br>
+6° een rapporteringsmechanisme en een mechanisme dat bestemd is voor de opvolging van de werking;<br>
+7° de maatregelen in geval van niet-naleving van het convenant;<br>
+8° de gevallen waarin en de wijze waarop het convenant tijdens de looptijd ervan kan worden gewijzigd;<br>
+9° de duur en de opzeggings- en verlengingsmogelijkheden van het convenant;<br>
+10° de vereisten waaraan de code van behoorlijk bestuur van de instelling moet beantwoorden.<br>
+<br>
+De statuten van de vzw worden voorgelegd aan de Vlaamse Regering. Die verplichting is ook opgenomen in het convenant, vermeld in het derde lid.<br>
+<br>
+De Vlaamse Regering ziet erop toe dat de algemene werking van de vzw, voor het lopende convenant verstreken is, geëvalueerd wordt aan de hand van de strategische en operationele doelstellingen die vastgelegd zijn in het convenant.<br>
+<br>
+De voorwaarden voor een nieuw convenant worden onder meer bepaald door de resultaten van de evaluatie.
+
+### ART 14/2.
+
+De Vlaamse Regering is ertoe gemachtigd om deel te nemen in de vereniging zonder winstoogmerk Flanders District of Creativity, opgericht bij notariële akte van 2 juli 2004, die het maatschappelijk doel heeft in de creatieve en culturele sectoren innovatie te stimuleren, te begeleiden bij meer en succesvol ondernemerschap en meer samenwerking te stimuleren.<br>
+<br>
+Flanders District of Creativity fungeert ook als frontoffice van het Agentschap Innoveren en Ondernemen die zich richt tot creatief Vlaanderen, en als actieve navigator in het netwerk van dienstverleners die verbonden zijn aan het Agentschap Innoveren en Ondernemen en die diensten aanbieden aan creatieve ondernemers.<br>
+<br>
+De Vlaamse Regering stelt binnen de beschikbare begrotingskredieten jaarlijks een subsidie ter beschikking van Flanders District of Creativity die wordt aangewend voor de in het eerste en tweede lid omschreven missie en taken.<br>
+<br>
+De Vlaamse Regering sluit een vijfjaarlijks convenant met Flanders District of Creativity, waarin ten minste de volgende elementen zijn opgenomen:<br>
+1° de modaliteiten waaronder de Vlaamse Regering de subsidies verleent;<br>
+2° de strategische en operationele doelstellingen van de instelling;<br>
+3° de regels voor de meting en de opvolging ervan;<br>
+4° de betalingsregeling voor de jaarlijkse subsidie van het Vlaamse Gewest of de Vlaamse Gemeenschap;<br>
+5° de financiële bepalingen over de aanwending van de subsidies en de reservevorming;<br>
+6° een rapporteringsmechanisme en een mechanisme dat bestemd is voor de opvolging van de werking;<br>
+7° de maatregelen in geval van niet-naleving van het convenant;<br>
+8° de gevallen waarin en de wijze waarop het convenant tijdens de looptijd ervan kan worden gewijzigd;<br>
+9° de duur en de opzeggings- en verlengingsmogelijkheden van het convenant;<br>
+10° de vereisten waaraan de code van behoorlijk bestuur van de instelling moet beantwoorden.<br>
+<br>
+Het convenant bepaalt dat de statuten van de vzw worden voorgelegd aan de Vlaamse Regering.<br>
+<br>
+De Vlaamse Regering ziet erop toe dat de algemene werking van Flanders District of Creativity vzw, voor het lopende convenant verstreken is, geëvalueerd wordt aan de hand van de strategische en operationele doelstellingen die vastgelegd zijn in het convenant. De voorwaarden voor een nieuw convenant worden onder meer bepaald door de resultaten van de evaluatie.
 
 ## HOOFDSTUK II [Fonds Wetenschappelijk Onderzoek - Vlaanderen (verv. decr. 25 april 2014, art. 15, I: 8 september 2014)]
 
@@ -124,7 +168,34 @@ Binnen de beschikbare begrotingskredieten is het FWO belast met :<BR>1°   het b
 
 ### ART. 19.
 
-§ 1. De Vlaamse Regering benoemt de volgende leden van de raad van bestuur   van het FWO :<BR>1° twee leden worden aangesteld op voordracht van de raad van   bestuur van de Katholieke Universiteit Leuven;<BR>2° twee leden worden   aangesteld op voordracht van de raad van bestuur van de Universiteit Gent;<BR>3°   één lid wordt aangesteld op voordracht van de raad van bestuur van de   Universiteit Antwerpen;<BR>4° één lid wordt aangesteld op voordracht van de raad   van bestuur van de Vrije Universiteit Brussel;<BR>5° één lid wordt aangesteld op   voordracht van de raad van bestuur van de UHasselt;<BR>6° één lid wordt   aangesteld uit een dubbeltal, gezamenlijk voorgedragen door de raden van bestuur   van de strategische onderzoekscentra;<BR>7° vier onafhankelijke bestuurders, die   voorgedragen worden door de raad van bestuur onder de voorwaarden en op basis   van de procedure, vermeld in paragraaf 2, en van wie hoogstens twee van   hetzelfde geslacht mogen zijn.<BR><BR>Ten hoogste vijf van de leden, vermeld in   het eerste lid, 1° tot en met 5°, mogen van hetzelfde geslacht zijn. Als aan die   voorwaarde niet voldaan is, dragen de universiteiten die geen kandidaat van het   ondervertegenwoordigde geslacht hadden voorgedragen, een bijkomende kandidaat   van dat geslacht voor.<BR><BR>De Vlaamse Regering kan nadere regels bepalen voor   de voordrachtenregelingen, vermeld in het eerste lid, 1° tot 6°.<BR><BR>§ 2. De   onafhankelijke bestuurders, vermeld in paragraaf 1, 7°, beschikken over   deskundigheid op het vlak van het algemeen bestuur van het agentschap en over   specifieke deskundigheid met betrekking tot de missie en de taken van het   agentschap, vermeld in artikel 17 en 18. De onafhankelijke bestuurders zijn   bovendien afkomstig uit het bedrijfsleven en zijn vertrouwd met het wetenschaps-   en innovatiebeleid.<BR><BR>Ze zijn onafhankelijk ten aanzien van het Vlaamse   Gewest, de Vlaamse Gemeenschap, de universiteiten, de strategische   onderzoekscentra en de secretaris-generaal. Om die onafhankelijkheid te bepalen,   zijn de criteria uit de corporate- governancecode voor beursgenoteerde bedrijven   richtinggevend.<BR><BR>De raad van bestuur stelt de vereisten vast waaraan   kandidaten voor het mandaat van onafhankelijk bestuurder moeten voldoen op het   vlak van bekwaamheden, kennis en ervaring en doet een open oproep tot   kandidaatstelling voor een mandaat van onafhankelijk bestuurder. Die oproep   bevat een weergave van de vereisten waaraan kandidaten moeten voldoen en regelt   de wijze van kandidaatstelling, waarbij minstens een curriculum vitae wordt   voorgelegd.<BR><BR>De raad van bestuur vergelijkt de respectieve verdiensten van   de kandidaten.<BR><BR>De onafhankelijke bestuurders worden uit lijsten van twee   kandidaten per vacant mandaat door de Vlaamse Regering aangesteld, op voordracht   van de raad van bestuur.<BR><BR>§ 3. De raad van bestuur verkiest onder zijn   leden een voorzitter, behorend tot de categorie, vermeld in § 1, eerste lid, 1°   tot en met 5°, en een ondervoorzitter, behorend tot de categorie, vermeld in §   1, eerste lid, 7°.<BR><BR>§ 4. Artikel 18, 19 en 20 van het kaderdecreet   Bestuurlijk Beleid van 18 juli 2003 zijn van toepassing op de raad van bestuur   van het FWO.<BR><BR>§ 5. De leidend ambtenaar van het Agentschap Innoveren en   Ondernemen woont de vergaderingen van de raad van bestuur van FWO bij met   raadgevende stem.
+§ 1. De Vlaamse Regering benoemt de volgende leden van de raad van bestuur van het FWO :<br>
+1° twee leden worden aangesteld op voordracht van de raad van bestuur van de Katholieke Universiteit Leuven;<br>
+2° twee leden worden aangesteld op voordracht van de raad van bestuur van de Universiteit Gent;<br>
+3° één lid wordt aangesteld op voordracht van de raad van bestuur van de Universiteit Antwerpen;<br>
+4° één lid wordt aangesteld op voordracht van de raad van bestuur van de Vrije Universiteit Brussel;<br>
+5° één lid wordt aangesteld op voordracht van de raad van bestuur van de UHasselt;<br>
+6° één lid wordt aangesteld uit een dubbeltal, gezamenlijk voorgedragen door de raden van bestuur van de strategische onderzoekscentra;<br>
+7° vier onafhankelijke bestuurders, die voorgedragen worden door de raad van bestuur onder de voorwaarden en op basis van de procedure, vermeld in paragraaf 2, en van wie hoogstens twee van hetzelfde geslacht mogen zijn.<br>
+<br>
+Ten hoogste vijf van de leden, vermeld in het eerste lid, 1° tot en met 5°, mogen van hetzelfde geslacht zijn. Als aan die voorwaarde niet voldaan is, dragen de universiteiten die geen kandidaat van het ondervertegenwoordigde geslacht hadden voorgedragen, een bijkomende kandidaat van dat geslacht voor.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de voordrachtenregelingen, vermeld in het eerste lid, 1° tot 6°.<br>
+<br>
+§ 2. De onafhankelijke bestuurders, vermeld in paragraaf 1, 7°, beschikken over deskundigheid op het vlak van het algemeen bestuur van het agentschap en over specifieke deskundigheid met betrekking tot de missie en de taken van het agentschap, vermeld in artikel 17 en 18. De onafhankelijke bestuurders zijn bovendien afkomstig uit het bedrijfsleven en zijn vertrouwd met het wetenschaps- en innovatiebeleid.<br>
+<br>
+Ze zijn onafhankelijk ten aanzien van het Vlaamse Gewest, de Vlaamse Gemeenschap, de universiteiten, de strategische onderzoekscentra en de secretaris-generaal. Om die onafhankelijkheid te bepalen, zijn de criteria uit de corporate- governancecode voor beursgenoteerde bedrijven richtinggevend.<br>
+<br>
+De raad van bestuur stelt de vereisten vast waaraan kandidaten voor het mandaat van onafhankelijk bestuurder moeten voldoen op het vlak van bekwaamheden, kennis en ervaring en doet een open oproep tot kandidaatstelling voor een mandaat van onafhankelijk bestuurder. Die oproep bevat een weergave van de vereisten waaraan kandidaten moeten voldoen en regelt de wijze van kandidaatstelling, waarbij minstens een curriculum vitae wordt voorgelegd.<br>
+<br>
+De raad van bestuur vergelijkt de respectieve verdiensten van de kandidaten.<br>
+<br>
+De onafhankelijke bestuurders worden uit lijsten van twee kandidaten per vacant mandaat door de Vlaamse Regering aangesteld, op voordracht van de raad van bestuur.<br>
+<br>
+§ 3. De raad van bestuur verkiest onder zijn leden een voorzitter, behorend tot de categorie, vermeld in § 1, eerste lid, 1° tot en met 5°, en een ondervoorzitter, behorend tot de categorie, vermeld in § 1, eerste lid, 7°.<br>
+<br>
+§ 4. Artikel 18, 19 en 20 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 zijn van toepassing op de raad van bestuur van het FWO.<br>
+<br>
+§ 5. De leidend ambtenaar van het Agentschap Innoveren en Ondernemen en de leidend ambtenaar van het Departement Economie, Wetenschap en Innovatie wonen de vergaderingen van de raad van bestuur van FWO bij met raadgevende stem.
 
 ## Afdeling V Samenwerkingsovereenkomst
 
@@ -424,19 +495,19 @@ De Vlaamse Regering ziet erop toe dat de algemene werking van de   Koninklijke V
 
 ### ART. 55.
 
-§ 1. De Vlaamse Regering is ertoe gemachtigd om deel te nemen in de   vereniging zonder winstoogmerk Flanders District of Creativity, opgericht bij de   notariële akte van 2 juli 2004, waarvan het maatschappelijk doel erin bestaat de   regionale concurrentiekracht te versterken door creativiteit, innovativiteit,   ondernemerschap en internationaal ondernemen te stimuleren via het creëren van   een gestructureerd netwerk waarbinnen de Vlaamse overheid, kennisinstellingen en   ondernemingen hun krachten bundelen.<BR><BR>§ 2. De Vlaamse Regering stelt   binnen de beschikbare begrotingskredieten een jaarlijkse subsidie ter   beschikking van Flanders District of Creativity.<BR><BR>De vereniging zonder   winstoogmerk en de Vlaamse Regering sluiten een meerjaarlijks convenant waarin   ten minste de volgende elementen zijn beschreven:<BR>1° de modaliteiten   waaronder de Vlaamse Regering de subsidies verleent;<BR>2° de strategische en   operationele doelstellingen van de instelling;<BR>3° de regels voor de meting en   de opvolging ervan;<BR>4° de betalingsregeling voor de jaarlijkse subsidie van   het Vlaamse Gewest of de Vlaamse Gemeenschap;<BR>5° de financiële bepalingen   over de aanwending van de subsidies en de reservevorming;<BR>6° een   rapporteringsmechanisme en een mechanisme dat bestemd is voor de opvolging van   de werking;<BR>7° de maatregelen in geval van niet-naleving van het   convenant;<BR>8° de gevallen waarin en de wijze waarop het convenant tijdens de   looptijd ervan kan worden gewijzigd;<BR>9° de duur en de opzeggings- en   verlengingsmogelijkheden van het convenant.
+...
 
 ## Afdeling III [... (opgeh. Decr. 15 maart 2019, art. 20, I: 18 april 2019)]
 
 ### ART. 56.
 
-De statuten van Flanders District of Creativity waarborgen dat de raad van   bestuur ervan ten minste bestaat uit een meerderheid van vertegenwoordigers van   de Vlaamse Regering.<BR><BR>
+De raad van bestuur bestaat uit maximaal 12 leden. De statuten waarborgen de voordracht van de leden van de raad van bestuur door de Vlaamse Regering.
 
 ## [Afdeling IV. Evaluatie (ing. decr. 25 arpril 2014, art. 72, I: 8 september 2014)]
 
 ### ART. 56/0.
 
-De Vlaamse Regering ziet erop toe dat de algemene werking van Flanders   District of Creativity, vóór het verstrijken van het lopende convenant,   geëvalueerd wordt aan de hand van de strategische en operationele doelstellingen   en indicatoren die vastgelegd zijn in het convenant.<BR><BR>De voorwaarden voor   een nieuw convenant worden onder meer bepaald door de resultaten van de   evaluatie.
+...
 
 ## [HOOFDSTUK IV Vzw Vlaams Instituut voor de Zee (ing. decr. 9 juli 2010, art. 42)]
 
@@ -694,6 +765,10 @@ Het FWO brengt zijn statuten in overeenstemming met de bepalingen van   artikel 
 ### ART. 69/5.
 
 &nbsp;Naast de evaluatie, vermeld in artikel 22, kan een evaluatie van het   FWO worden uitgevoerd in de tweede jaarhelft van 2018.
+
+### ART 69/6.
+
+Het convenant met de vzw, vermeld in artikel 14/1, wordt uiterlijk op 31 december 2018 gesloten.
 
 ### ART. 70.
 
