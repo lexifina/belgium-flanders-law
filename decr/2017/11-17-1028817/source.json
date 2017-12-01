@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028817,
+  "title": "Decreet van 2017-11-17 houdende wijziging van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002 en het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028817/VolledigDocument?datum=2017-12-01",
+  "source_sha256": "f074ade1045776b158e6956ae384ee11b627570446152accf57bab097be92a93",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028817&param=informatie",
+  "as_of": "2017-12-01",
+  "made": "2017-11-17",
+  "gazette": "2017-12-15",
+  "numac": 2017031872,
+  "document_start": "2017-12-01",
+  "document_end": null,
+  "in_force": "2017-12-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2017-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
