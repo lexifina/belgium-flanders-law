@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028767,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-20 houdende indeling bij de gemeentewegen van de gewestweg N42a tussen kilometerpunt 0,000 en 3,938 op het grondgebied van de stad Zottegem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028767/VolledigDocument?datum=2017-12-02",
+  "source_sha256": "9c7607c4e31d4efca844b798f05c31e8b5fcca3eca462db9944ab0a597461b7c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028767&param=informatie",
+  "as_of": "2017-12-02",
+  "made": "2017-10-20",
+  "gazette": "2017-11-22",
+  "numac": 2017013988,
+  "document_start": "2017-12-02",
+  "document_end": null,
+  "in_force": "2017-12-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-12-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
