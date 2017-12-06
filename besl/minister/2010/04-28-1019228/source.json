@@ -2,16 +2,16 @@
   "codex_id": 1019228,
   "title": "Ministerieel besluit van 2010-04-28 met betrekking tot de registratieprocedure voor de subsidieaanvraag of het beheer van het dossier in het kader van de besluiten ecologiepremie, ecologiepremie call, groeipremie en K.M.O.-portefeuille",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019228/VolledigDocument?datum=2014-04-01",
-  "source_sha256": "ec3f113478c8661414477b7f21e3aee26bcf3ac366f1d49800f18e4cc9571221",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019228/VolledigDocument?datum=2017-12-06",
+  "source_sha256": "6ee60d2b163461da1cc014ef93652586b9b1e1dee4447f78529eda19dfc892e4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019228&param=informatie",
-  "as_of": "2014-04-01",
+  "as_of": "2017-12-06",
   "made": "2010-04-28",
   "gazette": "2010-07-22",
   "numac": 2010203798,
   "document_start": "2010-07-01",
   "document_end": "2017-12-05",
-  "in_force": "2014-04-01",
+  "in_force": "2017-12-06",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-12-06; future article versions excluded; article text as the API gives it"
 }
