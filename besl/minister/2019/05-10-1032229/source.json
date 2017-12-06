@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032229,
+  "title": "Ministerieel besluit van 2019-05-10 tot wijziging van het ministerieel besluit van 30 maart 2016 inzake de kmo-portefeuille en het ministerieel besluit van 24 januari 2011 inzake de ecologiepremie, wat betreft de opheffing van het ministerieel besluit van 28 april 2010 inzake de registratieprocedure",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032229/VolledigDocument?datum=2017-12-06",
+  "source_sha256": "3a118d7b884c3a4b926d09d9e3c24b4d272b8f4ebc226676de638aee1d5e6519",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032229&param=informatie",
+  "as_of": "2017-12-06",
+  "made": "2019-05-10",
+  "gazette": "2019-09-11",
+  "numac": 2019014290,
+  "document_start": "2017-12-06",
+  "document_end": null,
+  "in_force": "2017-12-06",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-12-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
