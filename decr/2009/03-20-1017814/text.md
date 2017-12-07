@@ -150,7 +150,29 @@ De Vlaamse Regering stelt nadere regels vast voor de organisatie, de samenstelli
 
 ### ART. 26/4.
 
-§ 1. De Vlaamse Regering stelt een RMC in die haar beraadslagingen kan houden in elke provincie. De RMC is een multidisciplinaire en beleidsdomeinoverschrijdende beoordelingscommissie.<br /><br />De RMC is verantwoordelijk voor : <br />1° de uitvoering van een kwaliteitscontrole op het ontwerp, de evaluatie en, in voorkomend geval, de herziening van het gemeentelijk of intergemeentelijk mobiliteitsplan;<br />2° de uitvoering van een kwaliteitscontrole op projecten.<br /><br />§ 2. De RMC is tenminste samengesteld uit : <br />1° de initiatiefnemer, als die niet de hoedanigheid, vermeld in punt 2° tot en met 7°, heeft;<br />2° een vertegenwoordiger van het departement;<br />3° een vertegenwoordiger van het Agentschap Wegen en Verkeer;<br />4° een vertegenwoordiger van de Vlaamse Vervoermaatschappij - De Lijn;<br />5° een vertegenwoordiger van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, vermeld in artikel 29, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br />6° een vertegenwoordiger van de gemeenten in kwestie;<br />7° een vertegenwoordiger van de provincie.<br /><br />De samenstelling van de RMC kan worden uitgebreid met andere relevante actoren.<br /><br />§ 3. De RMC wordt bijgestaan door een kwaliteitsadviseur die wordt aangesteld door het departement.<br /><br />De kwaliteitsadviseur is verantwoordelijk voor : <br />1° de inhoudelijke begeleiding van de beraadslaging in de RMC;<br />2° het verlenen van gemotiveerd advies over het ontwerp van gemeentelijk of intergemeentelijk mobiliteitsplan en de resultaten van de sneltoets;<br />3° het verlenen van gemotiveerd advies over de projecten.
+§ 1. De Vlaamse Regering stelt een RMC in die haar beraadslagingen kan houden in elke provincie. De RMC is een multidisciplinaire en beleidsdomeinoverschrijdende beoordelingscommissie.<br>
+<br>
+De RMC is verantwoordelijk voor :<br>
+1° de uitvoering van een kwaliteitscontrole op het ontwerp, de evaluatie en, in voorkomend geval, de herziening van het gemeentelijk of intergemeentelijk mobiliteitsplan;<br>
+2° de uitvoering van een kwaliteitscontrole op projecten.<br>
+<br>
+§ 2. De RMC is tenminste samengesteld uit :<br>
+1° de initiatiefnemer, als die niet de hoedanigheid, vermeld in punt 2° tot en met 7°, heeft;<br>
+2° een vertegenwoordiger van het departement;<br>
+3° een vertegenwoordiger van het Agentschap Wegen en Verkeer;<br>
+4° een vertegenwoordiger van de Vlaamse Vervoermaatschappij - De Lijn;<br>
+5° een vertegenwoordiger van het Departement Omgeving, deskundig op het vlak van ruimtelijke ordening;<br>
+6° een vertegenwoordiger van de gemeenten in kwestie;<br>
+7° een vertegenwoordiger van de provincie.<br>
+<br>
+De samenstelling van de RMC kan worden uitgebreid met andere relevante actoren.<br>
+<br>
+§ 3. De RMC wordt bijgestaan door een kwaliteitsadviseur die wordt aangesteld door het departement.<br>
+<br>
+De kwaliteitsadviseur is verantwoordelijk voor :<br>
+1° de inhoudelijke begeleiding van de beraadslaging in de RMC;<br>
+2° het verlenen van gemotiveerd advies over het ontwerp van gemeentelijk of intergemeentelijk mobiliteitsplan en de resultaten van de sneltoets;<br>
+3° het verlenen van gemotiveerd advies over de projecten.
 
 ### ART. 26/5.
 
