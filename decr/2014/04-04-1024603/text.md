@@ -170,7 +170,7 @@ Het rolrecht dat verschuldigd is per verzoekende partij bij de indiening van een
 <br>
 Het rolrecht dat verschuldigd is per tussenkomende partij bij de indiening van een verzoekschrift tot tussenkomst, bedraagt 100 euro per vordering waarin een verzoek tot tussenkomst is ingediend, ongeacht of de tussenkomst geldt voor een vordering tot vernietiging of voor een vordering tot schorsing, ingediend conform artikel 40, § 1 en § 2.<br>
 <br>
-§ 2. De leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed of van het Departement Leefmilieu, Natuur en Energie, of bij hun afwezigheid hun gemachtigden die optreden met toepassing van artikel 105, § 2, 5°, respectievelijk 6°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning zijn vrijgesteld van de betaling van enig rolrecht, behalve in het geval de Vlaamse Regering de bevoegde overheid in eerste aanleg is.<br>
+§ 2. De leidend ambtenaar van het Departement Omgeving of het Agentschap Innoveren en Ondernemen, of bij hun afwezigheid hun gemachtigden die optreden met toepassing van artikel 105, § 2, respectievelijk 5° tot en met 7°, van het -decreet van 25 april 2014 betreffende de omgevingsvergunning, zijn vrijgesteld van de betaling van enig rolrecht.<br>
 <br>
 § 3. De verzoekende partij of tussenkomende partij die aantoont dat haar inkomsten ontoereikend zijn, is vrijgesteld van de betaling van enig rolrecht.<br>
 <br>
