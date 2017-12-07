@@ -62,13 +62,58 @@ Het agentschap heeft als missie bij te dragen tot de realisatie van de   doelste
 
 ### ART. 6bis.
 
-§ 1. Het agentschap heeft als taak om, op verzoek van de bevoegde diensten   van de Vlaamse regering, de bevoegde agentschappen of, in voorkomend geval, de   bevoegde lokale besturen, zijn medewerking te verlenen aan de ondersteuning van   de algemene inrichting van het buitengebied en de open ruimte.<BR><BR>Het   agentschap vervult deze taak onder meer door :<BR>1° bij te dragen aan het   beleid inzake inrichting en ontwikkeling van het   inrichtingsinstrumentarium;<BR>2° zijn medewerking te verlenen aan het   voorbereiden, het uitvoeren, het verzekeren van de nazorg, het monitoren en het   evalueren van inrichtingsprojecten;<BR>3° zijn medewerking te verlenen aan de   voorbereiding en uitvoering van de ruilverkaveling van landeigendommen;<BR>4°   zijn medewerking te verlenen aan de voorbereiding en de uitvoering van de   landinrichting;<BR>5° zijn medewerking te verlenen aan de voorbereiding en de   uitvoering van de natuurinrichting;<BR>6° gebouwen van agrarische en direct   agrarisch gebonden bedrijven op te richten, in te richten en de uitbating ervan   te bevorderen, en bedrijven, met inbegrip van het woonhuis en de gronden die   nodig zijn voor het bedrijf, te verplaatsen.<BR><BR>§ 2. Het agentschap heeft   als taak de uitvoering van het geïntegreerd plattelandsbeleid met uitzondering   van die aspecten die werden toegewezen aan andere agentschappen of tot een ander   beleidsdomein behoren.<BR><BR>Het agentschap vervult deze taak onder meer door   :<BR>1° projecten en programma's in samenwerking met andere beleidsdomeinen en   de bevoegde lokale besturen voor te bereiden, te stimuleren en te   ondersteunen;<BR>2° structuren, instrumenten en beleidsonderbouwend onderzoek   voor te bereiden, te ondersteunen en de financiering van het geïntegreerd   plattelandsbeleid te beheren;<BR>3° te adviseren over het gebruik van het   buitengebied en de open ruimte vanuit het plattelandsbeleid.<BR><BR>§ 3. Het   agentschap heeft als taak een uniek loket beheersovereenkomsten voor de   doelgroep landbouw op te richten en te beheren.<BR><BR>Het agentschap vervult   deze taak onder meer door :<BR>1° deze beheersovereenkomsten voor te bereiden,   in samenwerking met de diensten van de Vlaamse regering en de agentschappen van   het beleidsdomein Leefmilieu, Natuur en Energie en van andere   beleidsdomeinen;<BR>2° deze beheersovereenkomsten te sluiten;<BR>3° een actieve   begeleidingsstrategie uit te voeren en de uitvoering van de overeenkomsten op te   volgen.<BR><BR>§ 4. Het agentschap heeft als taak om, op verzoek van de bevoegde   diensten van de Vlaamse regering of de bevoegde agentschappen, zijn medewerking   te verlenen aan de uitvoering van het grondbeleid.<BR><BR>Het agentschap vervult   deze taak onder meer door :<BR>1° buiten zijn beleidsdomein onroerende goederen   te verwerven in naam en voor rekening van het Vlaamse Gewest;<BR>2° binnen zijn   beleidsdomein, ofwel goederen te verwerven in naam en voor rekening van   agentschappen met rechtspersoonlijkheid van het beleidsdomein, ofwel goederen te   verwerven in eigen naam en voor eigen rekening, administratief te beheren tot   aan de overdracht en over te dragen;<BR>3° informatie over onroerende goederen   te bundelen en centraal beschikbaar te stellen;<BR>4° een centraal meldingspunt   voor verkoopsaanbiedingen uit te bouwen binnen het eigen beleidsdomein.<BR><BR>§   5. Het agentschap heeft als taak ondersteuning te geven aan het agentschap   Informatie Vlaanderen.<BR><BR>§ 6. Het agentschap heeft als taak een   gronddatabank uit te bouwen en te beheren.<BR><BR>Het agentschap vervult deze   taak onder meer door :<BR>1° informatie over kenmerken en gebruik van de bodem   en gegevens over inrichtingsaspecten van de open ruimte op te slaan, te   verwerken en te beheren;<BR>2° zijn medewerking te verlenen bij de uitvoering   van studies over de interpretatie van de gegevens naar hun economische, sociale   en ruimtelijke implicaties;<BR>3° te zorgen voor de opbouw, het beheer en de   distributie van ruimtelijk gerefereerde gegevensbestanden en hun afgeleide   informatieproducten in het kader van de milieudatabank.<BR><BR>§ 7. De taken van   het agentschap met betrekking tot de open ruimte en het buitengebied zijn, op   verzoek van de bevoegde diensten van de Vlaamse regering of de bevoegde   agentschappen :<BR>1° initiatieven bevorderen, medewerking verlenen aan   initiatieven en initiatieven uitvoeren die kunnen bijdragen tot de ontwikkeling   van de open ruimte en het buitengebied. In het bijzonder verleent het agentschap   zijn medewerking aan het natuurbehoud, het integraal waterbeleid, de   bodembescherming, de algemene landschapszorg, de monumentenzorg, de   archeologische monumentenzorg, de bebossing en de herbebossing;<BR>2° bijdragen   aan de algemene beleidsondersteuning inzake de open ruimte en het   buitengebied.<BR><BR>§ 8. Het agentschap wordt belast met de taken die   overeenkomstig het decreet Vlaamse Grondenbank aan de Vlaamse Grondenbank zijn   opgedragen.
+§ 1. Het agentschap heeft als taak om, op verzoek van de bevoegde diensten van de Vlaamse regering, de bevoegde agentschappen of, in voorkomend geval, de bevoegde lokale besturen, zijn medewerking te verlenen aan de ondersteuning van de algemene inrichting van het buitengebied en de open ruimte.<br>
+<br>
+Het agentschap vervult deze taak onder meer door :<br>
+1° bij te dragen aan het beleid inzake inrichting en ontwikkeling van het inrichtingsinstrumentarium;<br>
+2° zijn medewerking te verlenen aan het voorbereiden, het uitvoeren, het verzekeren van de nazorg, het monitoren en het evalueren van inrichtingsprojecten;<br>
+3° zijn medewerking te verlenen aan de voorbereiding en uitvoering van de ruilverkaveling van landeigendommen;<br>
+4° zijn medewerking te verlenen aan de voorbereiding en de uitvoering van de landinrichting;<br>
+5° zijn medewerking te verlenen aan de voorbereiding en de uitvoering van de natuurinrichting;<br>
+6° gebouwen van agrarische en direct agrarisch gebonden bedrijven op te richten, in te richten en de uitbating ervan te bevorderen, en bedrijven, met inbegrip van het woonhuis en de gronden die nodig zijn voor het bedrijf, te verplaatsen.<br>
+<br>
+§ 2. Het agentschap heeft als taak de uitvoering van het geïntegreerd plattelandsbeleid met uitzondering van die aspecten die werden toegewezen aan andere agentschappen of tot een ander beleidsdomein behoren.<br>
+<br>
+Het agentschap vervult deze taak onder meer door :<br>
+1° projecten en programma's in samenwerking met andere beleidsdomeinen en de bevoegde lokale besturen voor te bereiden, te stimuleren en te ondersteunen;<br>
+2° structuren, instrumenten en beleidsonderbouwend onderzoek voor te bereiden, te ondersteunen en de financiering van het geïntegreerd plattelandsbeleid te beheren;<br>
+3° te adviseren over het gebruik van het buitengebied en de open ruimte vanuit het plattelandsbeleid.<br>
+<br>
+§ 3. Het agentschap heeft als taak een uniek loket beheersovereenkomsten voor de doelgroep landbouw op te richten en te beheren.<br>
+<br>
+Het agentschap vervult deze taak onder meer door :<br>
+1° deze beheersovereenkomsten voor te bereiden, in samenwerking met de diensten van de Vlaamse regering en de agentschappen van het&nbsp;beleidsdomein Omgeving en van andere beleidsdomeinen;<br>
+2° deze beheersovereenkomsten te sluiten;<br>
+3° een actieve begeleidingsstrategie uit te voeren en de uitvoering van de overeenkomsten op te volgen.<br>
+<br>
+§ 4. Het agentschap heeft als taak om, op verzoek van de bevoegde diensten van de Vlaamse regering of de bevoegde agentschappen, zijn medewerking te verlenen aan de uitvoering van het grondbeleid.<br>
+<br>
+Het agentschap vervult deze taak onder meer door :<br>
+1° buiten zijn beleidsdomein onroerende goederen te verwerven in naam en voor rekening van het Vlaamse Gewest;<br>
+2° binnen zijn beleidsdomein, ofwel goederen te verwerven in naam en voor rekening van agentschappen met rechtspersoonlijkheid van het beleidsdomein, ofwel goederen te verwerven in eigen naam en voor eigen rekening, administratief te beheren tot aan de overdracht en over te dragen;<br>
+3° informatie over onroerende goederen te bundelen en centraal beschikbaar te stellen;<br>
+4° een centraal meldingspunt voor verkoopsaanbiedingen uit te bouwen binnen het eigen beleidsdomein.<br>
+<br>
+§ 5. Het agentschap heeft als taak ondersteuning te geven aan het agentschap Informatie Vlaanderen.<br>
+<br>
+§ 6. Het agentschap heeft als taak een gronddatabank uit te bouwen en te beheren.<br>
+<br>
+Het agentschap vervult deze taak onder meer door :<br>
+1° informatie over kenmerken en gebruik van de bodem en gegevens over inrichtingsaspecten van de open ruimte op te slaan, te verwerken en te beheren;<br>
+2° zijn medewerking te verlenen bij de uitvoering van studies over de interpretatie van de gegevens naar hun economische, sociale en ruimtelijke implicaties;<br>
+3° te zorgen voor de opbouw, het beheer en de distributie van ruimtelijk gerefereerde gegevensbestanden en hun afgeleide informatieproducten in het kader van de milieudatabank.<br>
+<br>
+§ 7. De taken van het agentschap met betrekking tot de open ruimte en het buitengebied zijn, op verzoek van de bevoegde diensten van de Vlaamse regering of de bevoegde agentschappen :<br>
+1° initiatieven bevorderen, medewerking verlenen aan initiatieven en initiatieven uitvoeren die kunnen bijdragen tot de ontwikkeling van de open ruimte en het buitengebied. In het bijzonder verleent het agentschap zijn medewerking aan het natuurbehoud, het integraal waterbeleid, de bodembescherming, de algemene landschapszorg, de monumentenzorg, de archeologische monumentenzorg, de bebossing en de herbebossing;<br>
+2° bijdragen aan de algemene beleidsondersteuning inzake de open ruimte en het buitengebied.<br>
+<br>
+§ 8. Het agentschap wordt belast met de taken die overeenkomstig het decreet Vlaamse Grondenbank aan de Vlaamse Grondenbank zijn opgedragen.
 
 ## [HOOFDSTUK VI RELATIE MET ANDERE BESTUURSNIVEAUS, BELEIDSDOMEINEN EN ACTOREN, INHOUDELIJKE SAMENWERKING EN COÖRDINATIE, BEVOEGDHEDEN (ing. decr. 7 mei 2004, art. 13)]
 
 ### ART. 7.
 
-Het agentschap streeft zijn missie na en voert zijn taken uit om een bijdrage te leveren aan de be-leidsvoorbereiding van het beleidsdomein Leefmilieu, Natuur en Energie, met inbegrip van de milieuplanning en de regelgeving, of om het vastgestelde beleid uit te voeren. De beleidsvoorbereiding en de beleidsuitvoering maken het voorwerp uit van de door de Vlaamse regering en het departement aangestuurde beleids- en beheerscyclus.
+Het agentschap streeft zijn missie na en voert zijn taken uit om een bijdrage te leveren aan de beleidsvoorbereiding van het beleidsdomein Omgeving, met inbegrip van de milieuplanning en de regelgeving, of om het vastgestelde beleid uit te voeren. De beleidsvoorbereiding en de beleidsuitvoering maken het voorwerp uit van de door de Vlaamse regering en het departement aangestuurde beleids- en beheerscyclus.
 
 ### ART. 8.
 
