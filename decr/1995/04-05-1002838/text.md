@@ -1214,7 +1214,13 @@ De administratie keurt het rapport goed of af. Als de administratie het rapport 
 
 ### ART. 5.4.4.
 
-Het voorontwerp van besluit van de Vlaamse Regering inzake vaststelling   van algemene en sectorale milieuvoorwaarden wordt gedurende een termijn van   dertig dagen gepubliceerd op de website van de afdeling bevoegd voor de   omgevingsvergunning van het Departement Leefmilieu, Natuur en   Energie.<BR><BR>Het voorontwerp van besluit is gedurende dezelfde termijn ter   inzage bij de afdeling bevoegd voor de omgevingsvergunning van het Departement   Leefmilieu, Natuur en Energie.<BR><BR>Gedurende deze termijn kan elke persoon   zijn opmerkingen aan deze afdeling meedelen.<BR><BR>De Vlaamse Regering bepaalt   de nadere regels inzake bekendmaking en inspraak van de bevolking.
+Het voorontwerp van besluit van de Vlaamse Regering inzake vaststelling van algemene en sectorale milieuvoorwaarden wordt gedurende een termijn van dertig dagen gepubliceerd op de website van het Departement Omgeving.<br>
+<br>
+Het voorontwerp van besluit is gedurende dezelfde termijn ter inzage bij het Departement Omgeving.<br>
+<br>
+Gedurende deze termijn kan elke persoon zijn opmerkingen aan&nbsp;dit departement meedelen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels inzake bekendmaking en inspraak van de bevolking.
 
 ## [Afdeling 2 Onderlinge verhouding tussen de algemene milieuvoorwaarden, de sectorale milieuvoorwaarden en de bijzondere milieuvoorwaarden, vermeld in artikel 72 en 113 van het decreet van 25 april 2014 betreffende de omgevingsvergunning (ing. decr. 25 april 2014, art. 193)]
 
@@ -1365,7 +1371,7 @@ Dit decreet voorziet, voor wat de bevoegdheden van het Vlaamse Gewest   betreft,
 ### ART. 8.1.2.
 
 In deze titel wordt verstaan onder:<br>
-1° bevoegde autoriteit: de instantie, aangewezen conform artikel 18 van Richtlijn 2003/87/ EG, zijnde de afdeling van het Departement Leefmilieu, Natuur en Energie, bevoegd voor luchtverontreiniging;<br>
+1° bevoegde autoriteit: de instantie, aangewezen overeenkomstig artikel 18 van richtlijn 2003/87/ EG, namelijk het Departement Omgeving;<br>
 2° BKG-installatie: een vaste technische eenheid waarin een of meer van de activiteiten en processen, zoals omschreven in de indelingslijst in bijlage I, van titel I, van het VLAREM en aangeduid met de letter Y in de vierde kolom van de indelingslijst in bijlage I, van titel I, van het VLAREM, alsmede andere op dezelfde locatie ten uitvoer gebrachte en daarmee rechtstreeks samenhangende activiteiten plaatsvinden die technisch in verband staan met voormelde activiteiten en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br>
 3° broeikasgassen: koolstofdioxide (CO2), methaan (CH4), distikstofoxide (N2O), onvolledig gefluoreerde koolwaterstoffen (HFK's), perfluorkoolwaterstoffen (PFK's) en zwavelhexafluoride (SF6);<br>
 4° eerste verbintenisperiode: de periode van 1 januari 2008 tot en met 31 december 2012;<br>
@@ -1491,7 +1497,13 @@ De Vlaamse Regering bepaalt de hoogte van de tegemoetkomingen en de kosten   die
 
 ### ART. 8.5.1.
 
-De afdeling van het Departement Leefmilieu, Natuur en Energie, bevoegd   voor luchtverontreiniging, legt aan de exploitant van een BKG-installatie of de   vliegtuigexploitant een administratieve geldboete op voor elke ton   CO2-equivalent die uitgestoten wordt en waarvoor met toepassing van artikel   8.2.1, § 1, of artikel 8.3.6, § 4, geen emissierechten zijn ingeleverd. Per ton   uitgestoten CO2-equivalent bedraagt de administratieve geldboete 100 euro. De   betaling van de boete wegens emissieoverschrijding ontslaat de exploitant van   een BKG-installatie of de vliegtuigexploitant niet van de verplichting, bij de   inlevering van emissierechten in verband met het volgende kalenderjaar, een   hoeveelheid emissierechten in te leveren die gelijk is aan de   emissieoverschrijding.<BR><BR>In het eerste lid wordt verstaan onder exploitant   van een BKG-installatie: de houder(s) van de milieuvergunning(en) van de   BKG-installatie.<BR><BR>De administratieve geldboete, vermeld in het eerste lid,   wordt vanaf 1 januari 2014 overeenkomstig het Europese indexcijfer van de   consumptieprijzen verhoogd.<BR><BR>De Vlaamse Regering neemt maatregelen om de   publicatie te verzekeren van de namen van de exploitanten of de   vliegtuigexploitanten die onvoldoende emissierechten inleveren om te voldoen aan   de verplichtingen die opgelegd zijn met toepassing van artikel 8.2.1, § 1, of   artikel 8.3.6, § 4.
+Het Departement Omgeving, legt aan de exploitant van een BKG-installatie of de vliegtuigexploitant een administratieve geldboete op voor elke ton CO2-equivalent die uitgestoten wordt en waarvoor met toepassing van artikel 8.2.1, § 1, of artikel 8.3.6, § 4, geen emissierechten zijn ingeleverd. Per ton uitgestoten CO2-equivalent bedraagt de administratieve geldboete 100 euro. De betaling van de boete wegens emissieoverschrijding ontslaat de exploitant van een BKG-installatie of de vliegtuigexploitant niet van de verplichting, bij de inlevering van emissierechten in verband met het volgende kalenderjaar, een hoeveelheid emissierechten in te leveren die gelijk is aan de emissieoverschrijding.<br>
+<br>
+In het eerste lid wordt verstaan onder exploitant van een BKG-installatie: de houder(s) van de milieuvergunning(en) van de BKG-installatie.<br>
+<br>
+De administratieve geldboete, vermeld in het eerste lid, wordt vanaf 1 januari 2014 overeenkomstig het Europese indexcijfer van de consumptieprijzen verhoogd.<br>
+<br>
+De Vlaamse Regering neemt maatregelen om de publicatie te verzekeren van de namen van de exploitanten of de vliegtuigexploitanten die onvoldoende emissierechten inleveren om te voldoen aan de verplichtingen die opgelegd zijn met toepassing van artikel 8.2.1, § 1, of artikel 8.3.6, § 4.
 
 ### ART. 8.5.2.
 
@@ -1944,7 +1956,11 @@ De Vlaamse Regering kan nadere regels bepalen over de indiening, de behandeling 
 
 ### ART. 15.8.1.
 
-De Vlaamse Regering stelt binnen het beleidsdomein Leefmilieu, Natuur en   Energie het departement Leefmilieu, Natuur en Energie aan als bevoegde instantie   die verantwoordelijk is voor de uitvoering van de onderscheiden taken waarin de   artikelen 15.8.2 tot en met 15.8.19 voorzien. <BR><BR>Deze bevoegde instantie   kan een of meer van deze taken opdragen of delegeren aan overheidsinstanties of   derden. <BR><BR>De Vlaamse Regering kan nadere regels bepalen over de   organisatie en de werking van de bevoegde instantie.
+De Vlaamse Regering stelt binnen&nbsp;het beleidsdomein Omgeving het Departement Omgeving aan als bevoegde instantie die verantwoordelijk is voor de uitvoering van de onderscheiden taken waarin de artikelen 15.8.2 tot en met 15.8.19 voorzien.<br>
+<br>
+Deze bevoegde instantie kan een of meer van deze taken opdragen of delegeren aan overheidsinstanties of derden.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen over de organisatie en de werking van de bevoegde instantie.
 
 ## [AFDELING II TAKEN (ing. decr. 21 december 2007, art. 2)]
 
@@ -2080,7 +2096,28 @@ De bepalingen van deze titel zijn van toepassing op de hiernavolgende   wetten e
 
 ### ART. 16.1.2.
 
-Tenzij het uitdrukkelijk anders bepaald is, wordt, voor de toepassing van   deze titel, verstaan onder :<BR>1° milieu-inbreuk : een gedraging, in strijd met   een voorschrift dat wordt gehandhaafd met toepassing van deze titel. Die   gedraging :<BR>a)...;<BR>b) betreft geen emissies als vermeld in artikel   16.6.2;<BR>c) betreft niet het achterlaten, beheren of overbrengen van   afvalstoffen als vermeld in artikel 16.6.3;<BR>d) veroorzaakt geen   gezondheidsschade of dood;<BR>e) betreft geen gedraging waarop een straf is   gesteld overeenkomstig de bepalingen van deze titel;<BR>f) moet opgenomen zijn   in een lijst, te bepalen door de Vlaamse Regering.<BR>Onverminderd de bepalingen   van het eerste lid kunnen evenwel gedragingen die een schending inhouden van   :<BR>a) de verplichting om te beschikken over een milieuvergunning of een   erkenning;<BR>b) de verplichting om een veiligheidsrapport of een   milieueffectrapport op te maken;<BR>niet beschouwd worden als een   milieu-inbreuk;<BR>2° milieumisdrijf : een gedraging, in strijd met een   voorschrift dat wordt gehandhaafd met toepassing van deze titel, waarop een   straf is gesteld overeenkomstig de bepalingen van deze titel;<BR>3° kennisgeving   : een schriftelijke mededeling die gedaan kan worden ofwel door middel van een   aangetekende brief met ontvangstbewijs ofwel door middel van afgifte tegen   ontvangstbewijs;<BR>4° gewestelijke entiteit : de entiteit van het Vlaams   Ministerie van Leefmilieu, Natuur en Energie, die de Vlaamse Regering aanwijst   om de alternatieve bestuurlijke geldboete of de exclusieve bestuurlijke   geldboete op te leggen;<BR>5° gemachtigde ambtenaar : de door de Vlaamse   Regering aangewezen ambtenaar of ambtenaren;<BR>6° referentiemeetmethode :   geschreven en publiek toegankelijke werkwijze die voor een bepaalde meting dient   te worden toegepast. Worden in elk geval beschouwd als referentiemeetmethode en   worden in geval van onderlinge tegenstrijdigheden toegepast in de hierna   voorziene volgorde :<BR>a) de toepasselijke bepalingen in de Belgische wetten,   decreten en besluiten;<BR>b) de Belgische normen uitgegeven door het Bureau voor   Normalisatie (NBN);<BR>c) de normen uitgegeven door het Comité Européen de   Normalisation (CEN);<BR>d) de normen uitgegeven door de Vlaamse instelling voor   Technologisch Onderzoek (VITO);<BR>e) de normen uitgegeven door de International   Organization for Standardization (ISO).
+Tenzij het uitdrukkelijk anders bepaald is, wordt, voor de toepassing van deze titel, verstaan onder :<br>
+1° milieu-inbreuk : een gedraging, in strijd met een voorschrift dat wordt gehandhaafd met toepassing van deze titel. Die gedraging :<br>
+a)...;<br>
+b) betreft geen emissies als vermeld in artikel 16.6.2;<br>
+c) betreft niet het achterlaten, beheren of overbrengen van afvalstoffen als vermeld in artikel 16.6.3;<br>
+d) veroorzaakt geen gezondheidsschade of dood;<br>
+e) betreft geen gedraging waarop een straf is gesteld overeenkomstig de bepalingen van deze titel;<br>
+f) moet opgenomen zijn in een lijst, te bepalen door de Vlaamse Regering.<br>
+Onverminderd de bepalingen van het eerste lid kunnen evenwel gedragingen die een schending inhouden van :<br>
+a) de verplichting om te beschikken over een milieuvergunning of een erkenning;<br>
+b) de verplichting om een veiligheidsrapport of een milieueffectrapport op te maken;<br>
+niet beschouwd worden als een milieu-inbreuk;<br>
+2° milieumisdrijf : een gedraging, in strijd met een voorschrift dat wordt gehandhaafd met toepassing van deze titel, waarop een straf is gesteld overeenkomstig de bepalingen van deze titel;<br>
+3° kennisgeving : een schriftelijke mededeling die gedaan kan worden ofwel door middel van een aangetekende brief met ontvangstbewijs ofwel door middel van afgifte tegen ontvangstbewijs;<br>
+4° gewestelijke entiteit : de subentiteit van het Vlaams Ministerie van Omgeving, die de Vlaamse Regering aanwijst om de alternatieve bestuurlijke geldboete of de exclusieve bestuurlijke geldboete op te leggen;<br>
+5° gemachtigde ambtenaar : de door de Vlaamse Regering aangewezen ambtenaar of ambtenaren;<br>
+6° referentiemeetmethode : geschreven en publiek toegankelijke werkwijze die voor een bepaalde meting dient te worden toegepast. Worden in elk geval beschouwd als referentiemeetmethode en worden in geval van onderlinge tegenstrijdigheden toegepast in de hierna voorziene volgorde :<br>
+a) de toepasselijke bepalingen in de Belgische wetten, decreten en besluiten;<br>
+b) de Belgische normen uitgegeven door het Bureau voor Normalisatie (NBN);<br>
+c) de normen uitgegeven door het Comité Européen de Normalisation (CEN);<br>
+d) de normen uitgegeven door de Vlaamse instelling voor Technologisch Onderzoek (VITO);<br>
+e) de normen uitgegeven door de International Organization for Standardization (ISO).
 
 ### ART. 16.1.3.
 
@@ -2732,7 +2769,9 @@ Artikel 16.5.4. De ambtenaar, belast met de inning en invordering, beslist evene
 
 ### ART. 16.5.5.
 
-De Vlaamse Regering kan, met behoud van de voorwaarden, vermeld in artikel 16.3.8, aan personeelsleden van het departement en de agentschappen, die behoren tot het beleidsdomein Leefmilieu, Natuur en Energie, de hoedanigheid toekennen van officier van gerechtelijke politie ten behoeve van de opsporing van milieumisdrijven als vermeld in hoofdstuk VI en in de regelgeving, vermeld in artikel 16.1.1. <br /><br />Deze officieren van gerechtelijke politie worden hierna gewestelijke milieuopsporingsambtenaren genoemd.
+De Vlaamse Regering kan, met behoud van de voorwaarden, vermeld in artikel 16.3.8, aan personeelsleden van het departement en de agentschappen, die behoren tot het beleidsdomein Omgeving, de hoedanigheid toekennen van officier van gerechtelijke politie ten behoeve van de opsporing van milieumisdrijven als vermeld in hoofdstuk VI en in de regelgeving, vermeld in artikel 16.1.1.<br>
+<br>
+Deze officieren van gerechtelijke politie worden hierna gewestelijke milieuopsporingsambtenaren genoemd.
 
 ### ART. 16.5.6.
 
