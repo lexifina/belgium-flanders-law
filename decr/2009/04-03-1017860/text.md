@@ -40,7 +40,26 @@ Dit decreet is van toepassing op elke landbouwer en elk bedrijf of persoon die t
 
 ### ART. 9.
 
-§ 1. De « commissie co-existentie van conventionele, biologische en   genetisch gemodificeerde gewassen », hierna de commissie genoemd, wordt   opgericht.<BR><BR>§ 2. De commissie bestaat uit negen stemgerechtigde leden,   waaronder een voorzitter, die de vergaderingen van de commissie voorzit en de   commissie naar buiten toe vertegenwoordigt.<BR><BR>De commissie bestaat uit   :<BR>1° een vertegenwoordiger van het Departement Landbouw en Visserij van het   Vlaams Ministerie van Landbouw en Visserij, die optreedt als voorzitter;<BR>2°   een vertegenwoordiger van het Instituut voor Landbouw- en   Visserijonderzoek;<BR>3° twee vertegenwoordigers, aangeduid door het Departement   Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij, waarvan   ten minste één vertegenwoordiger met kennis of expertise in het beleid voor en   het toezicht op de biologische landbouw en biologische productie; <BR>4° een   vertegenwoordiger, aangeduid door het beleidsdomein Economie, Wetenschap en   Innovatie;<BR>5° een vertegenwoordiger, aangeduid door het beleidsdomein   Leefmilieu, Natuur en Energie;<BR>6° twee wetenschappelijke experten, verbonden   aan een Vlaamse wetenschappelijke instelling;<BR>7° een expert, aangeduid door   de leden van de Strategische Adviesraad voor Landbouw en Visserij.<BR><BR>De   commissie kan bovendien tijdelijk en in functie van de concrete dossiers beroep   doen op andere vertegenwoordigers van de diensten en instellingen van de Vlaamse   overheid en externe deskundigen.<BR><BR>Het secretariaat van de commissie wordt   waargenomen door een ambtenaar van de bevoegde instantie.<BR><BR>De Vlaamse   Regering benoemt de effectieve en de plaatsvervangende leden van de commissie.   De duur van het mandaat bedraagt vijf jaar. Het mandaat is   hernieuwbaar.<BR><BR>Onverminderd de rol als plaatsvervanger bij afwezigheid van   een effectief lid, kan een plaatsvervangend lid de vergaderingen van de   commissie bijwonen als het effectieve lid voor wie hij als plaatsvervanger is   aangeduid, aanwezig is, zonder evenwel in dat geval stemgerechtigd te   zijn.
+§ 1. De « commissie co-existentie van conventionele, biologische en genetisch gemodificeerde gewassen », hierna de commissie genoemd, wordt opgericht.<br>
+<br>
+§ 2. De commissie bestaat uit negen stemgerechtigde leden, waaronder een voorzitter, die de vergaderingen van de commissie voorzit en de commissie naar buiten toe vertegenwoordigt.<br>
+<br>
+De commissie bestaat uit :<br>
+1° een vertegenwoordiger van het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij, die optreedt als voorzitter;<br>
+2° een vertegenwoordiger van het Instituut voor Landbouw- en Visserijonderzoek;<br>
+3° twee vertegenwoordigers, aangeduid door het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij, waarvan ten minste één vertegenwoordiger met kennis of expertise in het beleid voor en het toezicht op de biologische landbouw en biologische productie;<br>
+4° een vertegenwoordiger, aangeduid door het beleidsdomein Economie, Wetenschap en Innovatie;<br>
+5° een vertegenwoordiger, aangeduid door het beleidsdomein Omgeving;<br>
+6° twee wetenschappelijke experten, verbonden aan een Vlaamse wetenschappelijke instelling;<br>
+7° een expert, aangeduid door de leden van de Strategische Adviesraad voor Landbouw en Visserij.<br>
+<br>
+De commissie kan bovendien tijdelijk en in functie van de concrete dossiers beroep doen op andere vertegenwoordigers van de diensten en instellingen van de Vlaamse overheid en externe deskundigen.<br>
+<br>
+Het secretariaat van de commissie wordt waargenomen door een ambtenaar van de bevoegde instantie.<br>
+<br>
+De Vlaamse Regering benoemt de effectieve en de plaatsvervangende leden van de commissie. De duur van het mandaat bedraagt vijf jaar. Het mandaat is hernieuwbaar.<br>
+<br>
+Onverminderd de rol als plaatsvervanger bij afwezigheid van een effectief lid, kan een plaatsvervangend lid de vergaderingen van de commissie bijwonen als het effectieve lid voor wie hij als plaatsvervanger is aangeduid, aanwezig is, zonder evenwel in dat geval stemgerechtigd te zijn.
 
 ### ART. 10.
 
