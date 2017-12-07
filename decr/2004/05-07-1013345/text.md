@@ -14,7 +14,23 @@ Dit decreet regelt het statuut, de werking, de taken en de bevoegdheden van de S
 
 ### ART. 3.
 
-§ 1. De Raad is het orgaan waarbinnen het sociaal-economische overleg   plaatsvindt tussen de representatieve organisaties van de werknemers, de   werkgevers, de middenstand en de landbouw. <BR><BR>De in het eerste lid vermelde   organisaties kunnen met elkaar akkoorden sluiten, alsmede aanbevelingen doen aan   sectoren en ondernemingen betreffende de aangelegenheden bedoeld in artikel 11,   § 1.<BR><BR>Het staat de in het eerste lid vermelde organisaties vrij om de in   het tweede lid bedoelde akkoorden al dan niet ter bekrachtiging aan de Vlaamse   regering voor te leggen.<BR><BR>§ 2. Naast de opdracht, vermeld in § 1,   functioneert de Raad tevens als de strategische adviesraad voor de   beleidsdomeinen Kanselarij en Bestuur, Werk en Sociale Economie, voor het   gedeelte Economie van het beleidsdomein Economie, Wetenschap en Innovatie, en   voor het beleidsveld Energie van het beleidsdomein Leefmilieu, Natuur en   Energie.<BR><BR>De opdracht van de Raad als strategische adviesraad voor het   beleidsveld Energie heeft betrekking op de sociaal-economische dimensie.   <BR><BR>§ 3. Bij het uitbrengen van zijn studies, standpunten, adviezen en   andere documenten vermeldt de Raad telkens de hoedanigheid waarin hij optreedt,   te weten hetzij, enerzijds, de hoedanigheid van orgaan van sociaal-economisch   overleg als bedoeld in de eerste paragraaf, hetzij, anderzijds, de hoedanigheid   van strategische adviesraad als bedoeld in de tweede paragraaf, evenals het   artikel van dit decreet waarop zijn optreden is gesteund.<BR><BR>§ 4. Naast de   hoedanigheden, vermeld in § 1 en § 2, heeft de Raad ook bijzondere opdrachten   zoals vermeld in hoofdstuk IV, afdeling 2.<BR><BR>§ 5. Bij de Raad zijn de   bijzondere overleginstanties, vermeld in hoofdstuk IV, afdeling 3,   opgericht.<BR><BR>§ 6. Bij de Raad zijn ook de Mobiliteitsraad van Vlaanderen,   vermeld in hoofdstuk Vbis, de Strategische Adviesraad voor het Vlaamse   Welzijns-, Gezondheids- en Gezinsbeleid, vermeld in hoofdstuk Vter en de   Strategische Adviesraad voor Landbouw en Visserij, vermeld in hoofdstuk Vquater,   werkzaam als strategische adviesraad.
+§ 1. De Raad is het orgaan waarbinnen het sociaal-economische overleg plaatsvindt tussen de representatieve organisaties van de werknemers, de werkgevers, de middenstand en de landbouw.<br>
+<br>
+De in het eerste lid vermelde organisaties kunnen met elkaar akkoorden sluiten, alsmede aanbevelingen doen aan sectoren en ondernemingen betreffende de aangelegenheden bedoeld in artikel 11, § 1.<br>
+<br>
+Het staat de in het eerste lid vermelde organisaties vrij om de in het tweede lid bedoelde akkoorden al dan niet ter bekrachtiging aan de Vlaamse regering voor te leggen.<br>
+<br>
+§ 2. Naast de opdracht, vermeld in § 1, functioneert de Raad tevens als de strategische adviesraad voor de beleidsdomeinen Kanselarij en Bestuur, Werk en Sociale Economie, voor het gedeelte Economie van het beleidsdomein Economie, Wetenschap en Innovatie, en voor het beleidsveld Energie van het beleidsdomein Omgeving.<br>
+<br>
+De opdracht van de Raad als strategische adviesraad voor het beleidsveld Energie heeft betrekking op de sociaal-economische dimensie.<br>
+<br>
+§ 3. Bij het uitbrengen van zijn studies, standpunten, adviezen en andere documenten vermeldt de Raad telkens de hoedanigheid waarin hij optreedt, te weten hetzij, enerzijds, de hoedanigheid van orgaan van sociaal-economisch overleg als bedoeld in de eerste paragraaf, hetzij, anderzijds, de hoedanigheid van strategische adviesraad als bedoeld in de tweede paragraaf, evenals het artikel van dit decreet waarop zijn optreden is gesteund.<br>
+<br>
+§ 4. Naast de hoedanigheden, vermeld in § 1 en § 2, heeft de Raad ook bijzondere opdrachten zoals vermeld in hoofdstuk IV, afdeling 2.<br>
+<br>
+§ 5. Bij de Raad zijn de bijzondere overleginstanties, vermeld in hoofdstuk IV, afdeling 3, opgericht.<br>
+<br>
+§ 6. Bij de Raad zijn ook de Mobiliteitsraad van Vlaanderen, vermeld in hoofdstuk Vbis, de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid, vermeld in hoofdstuk Vter en de Strategische Adviesraad voor Landbouw en Visserij, vermeld in hoofdstuk Vquater, werkzaam als strategische adviesraad.
 
 ## HOOFDSTUK III STATUUT, SAMENSTELLING EN WERKING VAN DE RAAD
 
