@@ -506,7 +506,7 @@ Elk jaar, of, als de Vlaamse Regering dat in het kader van een bepaalde opslagve
 
 ### ART. 51.
 
-§ 1. Bij lekkages of significante onregelmatigheden stelt de exploitant de minister onmiddellijk met&nbsp;een beveiligde zending in kennis, en treft hij de nodige corrigerende maatregelen, waaronder maatregelen betreffende de bescherming van de volksgezondheid. In geval van lekkages en significante onregelmatigheden die een lekkagerisico inhouden, stelt de exploitant ook de afdeling van het departement Leefmilieu, Natuur en Energie, bevoegd voor luchtverontreiniging, daarvan in kennis.<br>
+§ 1. Bij lekkages of significante onregelmatigheden stelt de exploitant de minister onmiddellijk met&nbsp;een beveiligde zending in kennis, en treft hij de nodige corrigerende maatregelen, waaronder maatregelen betreffende de bescherming van de volksgezondheid. In geval van lekkages en significante onregelmatigheden die een lekkagerisico inhouden, stelt de exploitant ook het Departement Omgeving, daarvan in kennis.<br>
 <br>
 De nodige corrigerende maatregelen worden getroffen met als minimumbasis het plan met corrigerende maatregelen dat is ingediend bij de minister en door de Vlaamse Regering is goedgekeurd.<br>
 <br>
