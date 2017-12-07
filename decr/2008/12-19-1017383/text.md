@@ -722,7 +722,12 @@ Aan het decreet van 21 april 2006 houdende de decretale aanpassingen binnen het 
 
 ### ART. 92.
 
-§ 1. Er wordt een fonds opgericht binnen het departement LNE voor de uitvoering van Life en andere projecten die tot stand komen met cofinanciering van de Europese Unie. Dit fonds is een begrotingsfonds als bedoeld in artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit type B, hierna het fonds te noemen.<br /><br />§ 2. De inkomsten van het fonds worden gespijsd met EU-cofinanciering voor Life en andere projecten. Ook inkomsten van andere partners die naast het Vlaamse Gewest en de EU aan het project deelnemen, kunnen het fonds spijzen.<br /><br />§ 3. De inkomsten van het fonds mogen aangewend worden voor uitgaven voor diensten, werking, exploitatie en uitrusting, voor zover deze uitgaven verband houden met de realisatie van de projecten met cofinanciering van de EU.<br /><br />
+§ 1. Er wordt een fonds opgericht binnen het&nbsp;Departement Omgeving voor de uitvoering van Life en andere projecten die tot stand komen met cofinanciering van de Europese Unie. Dit fonds is een begrotingsfonds als bedoeld in artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit type B, hierna het fonds te noemen.<br>
+<br>
+§ 2. De inkomsten van het fonds worden gespijsd met EU-cofinanciering voor Life en andere projecten. Ook inkomsten van andere partners die naast het Vlaamse Gewest en de EU aan het project deelnemen, kunnen het fonds spijzen.<br>
+<br>
+§ 3. De inkomsten van het fonds mogen aangewend worden voor uitgaven voor diensten, werking, exploitatie en uitrusting, voor zover deze uitgaven verband houden met de realisatie van de projecten met cofinanciering van de EU.<br>
+&nbsp;
 
 ### ART. 92bis.
 
