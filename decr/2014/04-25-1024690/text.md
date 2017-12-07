@@ -331,7 +331,13 @@ De Vlaamse Regering bepaalt de nadere regels voor de vereenvoudigde   vergunning
 
 ### ART. 53.
 
-Het beroep kan worden ingesteld door:<BR>1° de vergunningsaanvrager, de   vergunninghouder of de exploitant;<BR>2° het betrokken publiek;<BR>3° de leidend   ambtenaar van de adviesinstanties of bij zijn afwezigheid zijn gemachtigde als   de adviesinstantie tijdig advies heeft verstrekt of als aan hem ten onrechte   niet om advies werd verzocht;<BR>4° het college van burgemeester en schepenen   als het tijdig advies heeft verstrekt of als het ten onrechte niet om advies   werd verzocht;<BR>5° de leidend ambtenaar van het Departement Leefmilieu, Natuur   en Energie of bij zijn afwezigheid zijn gemachtigde;<BR>6° de leidend ambtenaar   van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed of bij   zijn afwezigheid zijn gemachtigde.<BR>
+Het beroep kan worden ingesteld door:<br>
+1° de vergunningsaanvrager, de vergunninghouder of de exploitant;<br>
+2° het betrokken publiek;<br>
+3° de leidend ambtenaar van de adviesinstanties of bij zijn afwezigheid zijn gemachtigde als de adviesinstantie tijdig advies heeft verstrekt of als aan hem ten onrechte niet om advies werd verzocht;<br>
+4° het college van burgemeester en schepenen als het tijdig advies heeft verstrekt of als het ten onrechte niet om advies werd verzocht;<br>
+5° ...;<br>
+6° de leidend ambtenaar van het Departement Omgeving of, bij zijn afwezigheid, zijn gemachtigde.
 
 ### ART. 54.
 
@@ -639,8 +645,8 @@ De termijnen van vijf, tien of vijftien jaar, vermeld in artikel 102,   worden g
 2° het betrokken publiek;<br>
 3° de leidend ambtenaar van de adviesinstanties, vermeld in artikel 24 of in artikel 42 of bij zijn afwezigheid zijn gemachtigde, als die instantie tijdig advies heeft verstrekt of als aan hem ten onrechte niet om advies werd verzocht;<br>
 4° het college van burgemeester en schepenen als het tijdig advies heeft verstrekt of als het ten onrechte niet om advies werd verzocht;<br>
-5° de leidend ambtenaar van het Departement Leefmilieu, Natuur en Energie of bij zijn afwezigheid zijn gemachtigde;<br>
-6° de leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed of bij zijn afwezigheid zijn gemachtigde.</p>
+5° ...;<br>
+6° de leidend ambtenaar van het Departement Omgeving of, bij zijn afwezigheid, zijn gemachtigde.</p>
 
 <p>De persoon aan wie kan worden verweten dat hij een voor hem nadelige vergunningsbeslissing niet heeft bestreden door middel van het daartoe openstaande georganiseerd administratief beroep bij de bevoegde overheid, vermeld in artikel 52, wordt geacht te hebben verzaakt aan zijn recht om zich tot de Raad voor Vergunningsbetwistingen te wenden.<br>
 <br>
