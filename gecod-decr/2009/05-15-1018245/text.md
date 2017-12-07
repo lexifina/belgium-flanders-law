@@ -17,7 +17,7 @@ Voor de toepassing van deze codex wordt verstaan onder :<br>
 a) een aangetekend schrijven,<br>
 b) een afgifte tegen ontvangstbewijs,<br>
 c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
-4° departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+4° departement: het Departement Omgeving;<br>
 4° /1 effectbeoordeling : de effectonderzoeken en effectrapportages die noodzakelijk zijn om een ruimtelijk uitvoeringsplan te onderbouwen, of als ondersteuning voor de te nemen beslissingen;<br>
 4° /2 erkennings-, rangschikkings- en beschermingsbesluiten inzake onroerend erfgoed : de erkennings-, rangschikkings- en beschermingsbesluiten, genomen met toepassing van de wet van 7 augustus 1931 op het behoud van monumenten en landschappen, het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg en het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 5° functie : het feitelijk gebruik van een onroerend goed of een gedeelte daarvan;<br>
@@ -2537,7 +2537,15 @@ Onverminderd de bevoegdheden van de agenten en de officieren van gerechtelijke p
 
 ### ART. 6.1.6.
 
-§ 1. Bij het Vlaamse Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt een Hoge Raad voor het Handhavingsbeleid opgericht, hierna de Hoge Raad te noemen.<br /><br />§ 2. De Hoge Raad is een orgaan van actief bestuur.<br /><br />Zijn adviezen, evenals de beslissingen, vermeld in artikel 6.1.21, zijn te allen tijde gesteund op motieven die ontleend worden aan :<br />1° het recht, met inbegrip van de algemene beginselen van behoorlijk bestuur zoals deze specifiek binnen de ruimtelijke ordening gelden;<br />2° de weerslag van inbreuken op de rechten van derden en op de plaatselijke ordening, zijnde het niveau van de goede ruimtelijke ordening van naburige percelen dat zou worden behaald indien zich geen schade ingevolge een misdrijf, vermeld in artikel 6.1.1, zou hebben voorgedaan.<br /><br />§ 3. De Vlaamse Regering geeft nimmer instructies omtrent de behandeling van concrete dossiers die aan de beoordeling van de Hoge Raad zijn voorgelegd.
+§ 1. Bij&nbsp;het Vlaams Ministerie van Omgeving wordt een Hoge Raad voor het Handhavingsbeleid opgericht, hierna de Hoge Raad te noemen.<br>
+<br>
+§ 2. De Hoge Raad is een orgaan van actief bestuur.<br>
+<br>
+Zijn adviezen, evenals de beslissingen, vermeld in artikel 6.1.21, zijn te allen tijde gesteund op motieven die ontleend worden aan :<br>
+1° het recht, met inbegrip van de algemene beginselen van behoorlijk bestuur zoals deze specifiek binnen de ruimtelijke ordening gelden;<br>
+2° de weerslag van inbreuken op de rechten van derden en op de plaatselijke ordening, zijnde het niveau van de goede ruimtelijke ordening van naburige percelen dat zou worden behaald indien zich geen schade ingevolge een misdrijf, vermeld in artikel 6.1.1, zou hebben voorgedaan.<br>
+<br>
+§ 3. De Vlaamse Regering geeft nimmer instructies omtrent de behandeling van concrete dossiers die aan de beoordeling van de Hoge Raad zijn voorgelegd.
 
 ## Onderafdeling 2 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
