@@ -58,7 +58,7 @@ Voor dit decreet en de uitvoeringsbesluiten ervan verloopt het uitoefenen   van 
 
 ### ART. 12.
 
-De Vlaamse Regering wordt gemachtigd een regeling uit te werken   betreffende de financiering van de maatregelen die het Vlaamse Gewest dient te   nemen voor preventie, surveillance en bestrijding van ziekten bij in het wild   levende dieren alsook schade ingevolge deze ziekten. De financiering gebeurt   binnen de beschikbare kredieten van de betrokken beleidsdomeinen, zijnde de   bevoegde entiteiten van de beleidsdomeinen "Leefmilieu, Natuur en Energie",   "Landbouw en Visserij" en "Welzijn, Volksgezondheid en Gezin".
+De Vlaamse Regering wordt gemachtigd een regeling uit te werken betreffende de financiering van de maatregelen die het Vlaamse Gewest dient te nemen voor preventie, surveillance en bestrijding van ziekten bij in het wild levende dieren alsook schade ingevolge deze ziekten. De financiering gebeurt binnen de beschikbare kredieten van de betrokken beleidsdomeinen, zijnde de bevoegde entiteiten van de beleidsdomeinen "Omgeving", "Landbouw en Visserij" en "Welzijn, Volksgezondheid en Gezin".
 
 ### ART. 13.
 
