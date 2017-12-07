@@ -8,7 +8,26 @@ Dit decreet regelt een aangelegenheid als bedoeld in artikel 107quater van de Gr
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet en zijn uitvoeringsbesluiten wordt verstaan onder:<br />1° fonds: het fonds dat uitsluitend dient voor de regeling van de grindwinning, ook grindfonds genoemd;<br />2° IML: Intercommunale Maatschappij voor de ruimtelijke ontwikkeling in Limburg;<br />3° afdeling bevoegd voor natuurlijke rijkdommen : afdeling binnen het departement Leefmilieu, Natuur en Energie die bevoegd is voor natuurlijke rijkdommen;<br />4° POM : Provinciale Ontwikkelingsmaatschappij Limburg, publiekrechtelijke instelling die opgericht is met toepassing van het decreet van 7 mei 2004, houdende vaststelling van het kader tot oprichting van de provinciale ontwikkelingsmaatschappijen (POM) en erkend door de Vlaamse Regering met toepassing van artikel 3 van het voormelde decreet;<br />5° grind: de fractie van het afbraakmateriaal van vast gesteente in diluviale gronden en op de bodem van rivieren die niet door de afdeling, bevoegd voor natuurlijke rijkdommen, aanvaarde zeef met een maaswijdte van 4 mm gaat. Fracties die de 4 mm overlappen worden eveneens als grind beschouwd;<br />6° breekzand: de fractie van gebroken grind die door een aanvaarde zeef met een maaswijdte van 4 mm gaat en waarvan het wasslib, enkel in het geval dat de fractie gewassen wordt, niet in rekening wordt gebracht;<br />7° berggrind: grind dat gewonnen wordt op het Plateau van de Kempen;<br />8° valleigrind: grind dat gewonnen wordt in de alluviale vlakte van de Maas, inclusief de terrassen tot aan de steilrand van het Plateau van de Kempen;<br />9° grindwinning: de ontgronding van natuurlijke grondstoffen waarvan het percentage grind op kalenderjaarbasis tenminste 20 % bedraagt;<br />10° grindwinning als nevenproduktie: elke grindwinning waarvan het percentage grind op kalenderjaarbasis minder dan 50 % en meer dan 20 % bedraagt;<br />11° nieuwe grindwinningsgebieden: gebieden die bij de goedkeuring van het decreet nog niet als ontginningsgebieden in de ruimste betekenis op de goedgekeurde gewestplannen zijn aangeduid en die in toepassing van artikel 17, § 2, als reservegebieden, effectieve grindwinningsgebieden en uitbreidingsgebieden worden aangeduid;<br />12° ecologische impactstudie: een rapport dat een beschrijving bevat van de ecologische uitgangssituatie van een gebied, een beschrijving van de ingreep, een analyse van de effecten op de deelaspecten van het milieu en een beoordeling van deze effecten met bijzondere aandacht voor de ecohydrologische aspecten;<br />13° structuurvisie: een plan dat de belangrijkste beleidsdoeleinden en beleidsmaatregelen aangeeft voor de verschillende ruimtebehoevende activiteiten en ruimtelijke relaties in een bepaald gebied. Het vormt de basis voor de concrete plannen van de ruimtelijke ordening. Het omvat een richtplan, een structuurkader en een actieplan;<br />14° afwerken: het uitvoeren van grondwerken met het oog op de realisatie van het nabestemmingsplan en het naleven van de voorwaarden met betrekking tot het reliëf, zoals bepaald in de milieu- en stedebouwkundige vergunning;<br />15° uitrusten: het uitvoeren van de infrastructuur- en de inrichtingswerken na het afwerken, met inbegrip van alle maatregelen ter realisatie van de nabestemming;<br />16° grindwinning bij infrastructuurwerken : de bedoelde of onbedoelde grindwinning die optreedt bij werken aan of het aanleggen van infrastructuur van openbaar nut die zelf niet de exploitatie van grind tot doel hebben;<br />17° projectgrindwinning : de grindwinning die gepaard gaat met de realisatie van een maatschappelijk project van groot openbaar belang dat op zichzelf niet gericht is op het winnen van grind;<br />18° project : een geheel van activiteiten houdende de uitvoering van werken, de totstandbrenging en in voorkomend geval de exploitatie van installaties, werkzaamheden of andere ingrepen in het milieu, dat maatschappelijk van groot openbaar belang is, dat op zichzelf niet gericht is op het winnen van grind maar waarvan de projectgrindwinning een substantieel onderdeel is en te realiseren is in een gemeente die voorkomt op de lijst, vastgesteld conform artikel 7, § 3;<br />19° projectcomité : het projectgrindwinningscomité zoals omschreven in artikel 20sexies.
+Voor de toepassing van dit decreet en zijn uitvoeringsbesluiten wordt verstaan onder:<br>
+1° fonds: het fonds dat uitsluitend dient voor de regeling van de grindwinning, ook grindfonds genoemd;<br>
+2° IML: Intercommunale Maatschappij voor de ruimtelijke ontwikkeling in Limburg;<br>
+3° het departement: het Departement Omgeving;<br>
+4° POM : Provinciale Ontwikkelingsmaatschappij Limburg, publiekrechtelijke instelling die opgericht is met toepassing van het decreet van 7 mei 2004, houdende vaststelling van het kader tot oprichting van de provinciale ontwikkelingsmaatschappijen (POM) en erkend door de Vlaamse Regering met toepassing van artikel 3 van het voormelde decreet;<br>
+5° grind: de fractie van het afbraakmateriaal van vast gesteente in diluviale gronden en op de bodem van rivieren die niet door de het departement, aanvaarde zeef met een maaswijdte van 4 mm gaat. Fracties die de 4 mm overlappen worden eveneens als grind beschouwd;<br>
+6° breekzand: de fractie van gebroken grind die door een aanvaarde zeef met een maaswijdte van 4 mm gaat en waarvan het wasslib, enkel in het geval dat de fractie gewassen wordt, niet in rekening wordt gebracht;<br>
+7° berggrind: grind dat gewonnen wordt op het Plateau van de Kempen;<br>
+8° valleigrind: grind dat gewonnen wordt in de alluviale vlakte van de Maas, inclusief de terrassen tot aan de steilrand van het Plateau van de Kempen;<br>
+9° grindwinning: de ontgronding van natuurlijke grondstoffen waarvan het percentage grind op kalenderjaarbasis tenminste 20 % bedraagt;<br>
+10° grindwinning als nevenproduktie: elke grindwinning waarvan het percentage grind op kalenderjaarbasis minder dan 50 % en meer dan 20 % bedraagt;<br>
+11° nieuwe grindwinningsgebieden: gebieden die bij de goedkeuring van het decreet nog niet als ontginningsgebieden in de ruimste betekenis op de goedgekeurde gewestplannen zijn aangeduid en die in toepassing van artikel 17, § 2, als reservegebieden, effectieve grindwinningsgebieden en uitbreidingsgebieden worden aangeduid;<br>
+12° ecologische impactstudie: een rapport dat een beschrijving bevat van de ecologische uitgangssituatie van een gebied, een beschrijving van de ingreep, een analyse van de effecten op de deelaspecten van het milieu en een beoordeling van deze effecten met bijzondere aandacht voor de ecohydrologische aspecten;<br>
+13° structuurvisie: een plan dat de belangrijkste beleidsdoeleinden en beleidsmaatregelen aangeeft voor de verschillende ruimtebehoevende activiteiten en ruimtelijke relaties in een bepaald gebied. Het vormt de basis voor de concrete plannen van de ruimtelijke ordening. Het omvat een richtplan, een structuurkader en een actieplan;<br>
+14° afwerken: het uitvoeren van grondwerken met het oog op de realisatie van het nabestemmingsplan en het naleven van de voorwaarden met betrekking tot het reliëf, zoals bepaald in de milieu- en stedebouwkundige vergunning;<br>
+15° uitrusten: het uitvoeren van de infrastructuur- en de inrichtingswerken na het afwerken, met inbegrip van alle maatregelen ter realisatie van de nabestemming;<br>
+16° grindwinning bij infrastructuurwerken : de bedoelde of onbedoelde grindwinning die optreedt bij werken aan of het aanleggen van infrastructuur van openbaar nut die zelf niet de exploitatie van grind tot doel hebben;<br>
+17° projectgrindwinning : de grindwinning die gepaard gaat met de realisatie van een maatschappelijk project van groot openbaar belang dat op zichzelf niet gericht is op het winnen van grind;<br>
+18° project : een geheel van activiteiten houdende de uitvoering van werken, de totstandbrenging en in voorkomend geval de exploitatie van installaties, werkzaamheden of andere ingrepen in het milieu, dat maatschappelijk van groot openbaar belang is, dat op zichzelf niet gericht is op het winnen van grind maar waarvan de projectgrindwinning een substantieel onderdeel is en te realiseren is in een gemeente die voorkomt op de lijst, vastgesteld conform artikel 7, § 3;<br>
+19° projectcomité : het projectgrindwinningscomité zoals omschreven in artikel 20sexies.
 
 ## HOOFDSTUK II HET GRINDFONDS
 
@@ -42,7 +61,29 @@ De beslissingen van het grindcomité en de drie subcomités bedoeld in artikel 4
 
 ### ART. 8.
 
-§ 1. Het grindcomité heeft een voorzitter en een aantal gewone leden. Het aantal gewone leden wordt aangepast indien een gemeente het statuut van grindgemeente krijgt of verliest.<br /><br />Indien zij geen deel uitmaken van het grindcomité, wonen de voorzitters van de subcomités de vergadering bij met raadgevende stem.<br /><br />§ 2. De Vlaamse regering benoemt de voorzitter en wijst de gewone leden van het grindcomité als volgt aan:<br />1° één lid wordt benoemd uit kandidaten voorgedragen door de POM;<br />2° één lid wordt benoemd uit kandidaten voorgedragen door de IML;<br />3° twee leden worden benoemd uit kandidaten voorgedragen door de werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br />4° twee leden worden benoemd uit kandidaten voorgedragen door de werkgeversorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br />5° één lid wordt benoemd uit kandidaten voorgedragen door de landbouworganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br />6° één lid wordt voor elk van de grindgemeenten benoemd uit kandidaten voorgedragen door de betrokken gemeenten;<br />7° één lid wordt benoemd uit kandidaten voorgedragen door verenigingen die uitsluitend de bescherming van het leefmilieu en de natuur als doel hebben en vertegenwoordigd zijn in de Milieu- en Natuurraad van Vlaanderen.<br /><br />Deze leden hebben stemrecht.<br /><br />§ 3. Een vertegenwoordiger van elk van de gemeenten waarin zich een reservegebied zoals bedoeld in artikel 17, § 2, bevindt, woont de vergaderingen van het grindcomité bij met raadgevende stem, voor zover deze gemeenten niet vertegenwoordigd zijn overeenkomstig § 2, 6°.<br /><br />§ 4. Als vertegenwoordigers van de betrokken gemeenten komen enkel gemeenteraadsleden in aanmerking. Zij worden voorgedragen door de gemeenteraad.<br /><br />§ 5. Als leden met raadgevende stem worden aangewezen:<br />- één vertegenwoordiger van het departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />- één vertegenwoordiger van de Vlaamse Landmaatschappij;<br />- één vertegenwoordiger van het Instituut voor Natuur- en Bosonderzoek;<br />- één vertegenwoordiger van de afdeling, bevoegd voor natuurlijke rijkdommen.
+§ 1. Het grindcomité heeft een voorzitter en een aantal gewone leden. Het aantal gewone leden wordt aangepast indien een gemeente het statuut van grindgemeente krijgt of verliest.<br>
+<br>
+Indien zij geen deel uitmaken van het grindcomité, wonen de voorzitters van de subcomités de vergadering bij met raadgevende stem.<br>
+<br>
+§ 2. De Vlaamse regering benoemt de voorzitter en wijst de gewone leden van het grindcomité als volgt aan:<br>
+1° één lid wordt benoemd uit kandidaten voorgedragen door de POM;<br>
+2° één lid wordt benoemd uit kandidaten voorgedragen door de IML;<br>
+3° twee leden worden benoemd uit kandidaten voorgedragen door de werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+4° twee leden worden benoemd uit kandidaten voorgedragen door de werkgeversorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+5° één lid wordt benoemd uit kandidaten voorgedragen door de landbouworganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+6° één lid wordt voor elk van de grindgemeenten benoemd uit kandidaten voorgedragen door de betrokken gemeenten;<br>
+7° één lid wordt benoemd uit kandidaten voorgedragen door verenigingen die uitsluitend de bescherming van het leefmilieu en de natuur als doel hebben en vertegenwoordigd zijn in de Milieu- en Natuurraad van Vlaanderen.<br>
+<br>
+Deze leden hebben stemrecht.<br>
+<br>
+§ 3. Een vertegenwoordiger van elk van de gemeenten waarin zich een reservegebied zoals bedoeld in artikel 17, § 2, bevindt, woont de vergaderingen van het grindcomité bij met raadgevende stem, voor zover deze gemeenten niet vertegenwoordigd zijn overeenkomstig § 2, 6°.<br>
+<br>
+§ 4. Als vertegenwoordigers van de betrokken gemeenten komen enkel gemeenteraadsleden in aanmerking. Zij worden voorgedragen door de gemeenteraad.<br>
+<br>
+§ 5. De volgende personen worden aangewezen als leden met raadgevende stem :<br>
+1° twee vertegenwoordigers van het departement van wie een deskundig op het vlak van milieu en een op het vlak van ruimtelijke ordening;<br>
+2° één vertegenwoordiger van de Vlaamse Landmaatschappij;<br>
+3° één vertegenwoordiger van het Instituut voor Natuur- en Bosonderzoek.
 
 ### ART. 9.
 
@@ -52,7 +93,34 @@ Het grindcomité heeft tot opdracht:<BR>1° het adviseren over het beheer   van 
 
 ### ART. 10.
 
-Het herstructureringscomité heeft een voorzitter en een aantal gewone leden.<br /><br />De Vlaamse regering benoemt de voorzitter en wijst de gewone leden van het herstructureringscomité als volgt aan:<br />1° één vertegenwoordiger van elk van de grindgemeenten benoemd uit kandidaten voorgedragen door de betrokken gemeenteraden;<br />2° één vertegenwoordiger van de IML;<br />3° één vertegenwoordiger van de landbouworganisaties zoals bedoeld in artikel 8, § 2, 5°;<br />4° twee vertegenwoordigers van de milieu- en natuurverenigingen zoals bedoeld in artikel 8, § 2, 7°.<br /><br />Deze leden hebben stemrecht.<br /><br />Als leden met raadgevende stem worden aangewezen:<br />1° één vertegenwoordiger van de afdeling, bevoegd voor natuurlijke rijkdommen;<br />2° één vertegenwoordiger van de Vlaamse Landmaatschappij;<br />3° één vertegenwoordiger van het Instituut voor Natuur- en Bosonderzoek;<br />4° twee vertegenwoordigers van de werkgevers in de ontgrindingsondernemingen;<br />5° twee vertegenwoordigers van de werknemers in de ontgrindingsondernemingen;<br />6° één vertegenwoordiger van het departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />7° één vertegenwoordiger van de afdeling binnen het departement Leefmilieu, Natuur en Energie, bevoegd voor algemeen milieu-, natuur- en energiebeleid;<br />8° één vertegenwoordiger van de V.Z.W. Toerisme Limburg. <br /><br />De Vlaamse minister wijst op voordracht van de V.Z.W. Toerisme Limburg de vertegenwoordiger van de V.Z.W. Toerisme Limburg aan in het herstructureringscomité. <br /><br />Het herstructureringscomité heeft tot opdracht:<br />1° het opmaken, actualiseren en afstemmen op de vigerende regelgeving van de structuurvisie;<br />2° het laten uitrusten van de afgewerkte grindwinningsgebieden in het kader van de structuurvisie, die blijkt uit het in artikel 9, 6°, bedoelde beleidsplan, met inbegrip van het herstel en de ontwikkeling van de natuur en het natuurlijk milieu van de voormelde gebieden en de aanpalende omgeving;<br />3° het adviseren van de nabestemmingsplannen in de vergunning voor de exploitatie van grind voor de nieuwe ontginningsgebieden aan de vergunningsverlenende overheid;<br />4° in voorkomend geval, het laten afwerken na ontgrinding;<br />5° het toezicht houden op het afwerken en uitrusten van de grindwinningsgebieden.
+Het herstructureringscomité heeft een voorzitter en een aantal gewone leden.<br>
+<br>
+De Vlaamse regering benoemt de voorzitter en wijst de gewone leden van het herstructureringscomité als volgt aan:<br>
+1° één vertegenwoordiger van elk van de grindgemeenten benoemd uit kandidaten voorgedragen door de betrokken gemeenteraden;<br>
+2° één vertegenwoordiger van de IML;<br>
+3° één vertegenwoordiger van de landbouworganisaties zoals bedoeld in artikel 8, § 2, 5°;<br>
+4° twee vertegenwoordigers van de milieu- en natuurverenigingen zoals bedoeld in artikel 8, § 2, 7°.<br>
+<br>
+Deze leden hebben stemrecht.<br>
+<br>
+Als leden met raadgevende stem worden aangewezen:<br>
+1° drie vertegenwoordigers van het departement, van wie een deskundig op het vlak van ruimtelijke ordening, een op het vlak van milieu in het algemeen en een op het vlak van natuurlijke rijkdommen;<br>
+2° één vertegenwoordiger van de Vlaamse Landmaatschappij;<br>
+3° één vertegenwoordiger van het Instituut voor Natuur- en Bosonderzoek;<br>
+4° twee vertegenwoordigers van de werkgevers in de ontgrindingsondernemingen;<br>
+5° twee vertegenwoordigers van de werknemers in de ontgrindingsondernemingen;<br>
+6° ...;<br>
+7° ...;<br>
+8° één vertegenwoordiger van de V.Z.W. Toerisme Limburg.<br>
+<br>
+De Vlaamse minister wijst op voordracht van de V.Z.W. Toerisme Limburg de vertegenwoordiger van de V.Z.W. Toerisme Limburg aan in het herstructureringscomité.<br>
+<br>
+Het herstructureringscomité heeft tot opdracht:<br>
+1° het opmaken, actualiseren en afstemmen op de vigerende regelgeving van de structuurvisie;<br>
+2° het laten uitrusten van de afgewerkte grindwinningsgebieden in het kader van de structuurvisie, die blijkt uit het in artikel 9, 6°, bedoelde beleidsplan, met inbegrip van het herstel en de ontwikkeling van de natuur en het natuurlijk milieu van de voormelde gebieden en de aanpalende omgeving;<br>
+3° het adviseren van de nabestemmingsplannen in de vergunning voor de exploitatie van grind voor de nieuwe ontginningsgebieden aan de vergunningsverlenende overheid;<br>
+4° in voorkomend geval, het laten afwerken na ontgrinding;<br>
+5° het toezicht houden op het afwerken en uitrusten van de grindwinningsgebieden.
 
 ## AFDELING 6 [... (opgeh. decr. 1 maart 2019, art. 16, I: 29 maart 2019)]
 
@@ -64,7 +132,23 @@ Het sociaal comité is samengesteld uit zeven leden: de voorzitter en zes gewone
 
 ### ART. 12.
 
-Het onderzoekscomité is samengesteld uit tien leden: de voorzitter en   negen gewone leden.<BR><BR>De Vlaamse regering benoemt de voorzitter en wijst de   gewone leden van het grindonderzoekscomité aan als volgt:<BR>1° twee leden   worden benoemd uit kandidaten voorgedragen door publieke rechtspersonen,   verenigingen of inrichtingen die rechtstreeks betrokken zijn bij de aanwending   van grind en grindproducten en als zodanig worden aangewezen door de Vlaamse   regering; <BR>2° twee leden worden benoemd uit kandidaten voorgedragen door   publieke rechtspersonen die rechtstreeks betrokken zijn bij het wetenschappelijk   onderzoek en als zodanig worden aangewezen door de Vlaamse regering;<BR>3° twee   leden worden benoemd uit kandidaten op paritaire basis voorgedragen door de   organisaties vertegenwoordigd in het artikel 11, tweede lid, bedoeld paritair   subcomité;<BR>4° twee leden worden benoemd uit kandidaten voorgedragen door   verenigingen die uitsluitend de bescherming van het leefmilieu en de natuur als   doel hebben en vertegenwoordigd zijn in de Milieu- en Natuurraad van   Vlaanderen;<BR>5° één lid wordt benoemd uit kandidaten voorgedragen door het   Wetenschappelijk en Technisch Centrum voor het Bouwbedrijf.<BR><BR>Deze leden   hebben stemrecht.<BR><BR>Als lid met raadgevende stem wordt aangeduid:<BR>- één   vertegenwoordiger van de afdeling, bevoegd voor natuurlijke   rijkdommen.<BR><BR>Het onderzoekscomité stelt onderzoeksprogramma's vast voor de   ontwikkeling van grindsubstituten alsmede projecten tot ondersteuning van de   commercialisering en het gebruik van zulke substituten.<BR><BR>Met ingang van 1   januari 2013 wordt het onderzoekscomité ontbonden. Vanaf die datum treedt het   grindcomité op als rechtsopvolger van het onderzoekscomité en neemt het alle   taken, rechten en plichten ervan over.
+Het onderzoekscomité is samengesteld uit tien leden: de voorzitter en negen gewone leden.<br>
+<br>
+De Vlaamse regering benoemt de voorzitter en wijst de gewone leden van het grindonderzoekscomité aan als volgt:<br>
+1° twee leden worden benoemd uit kandidaten voorgedragen door publieke rechtspersonen, verenigingen of inrichtingen die rechtstreeks betrokken zijn bij de aanwending van grind en grindproducten en als zodanig worden aangewezen door de Vlaamse regering;<br>
+2° twee leden worden benoemd uit kandidaten voorgedragen door publieke rechtspersonen die rechtstreeks betrokken zijn bij het wetenschappelijk onderzoek en als zodanig worden aangewezen door de Vlaamse regering;<br>
+3° twee leden worden benoemd uit kandidaten op paritaire basis voorgedragen door de organisaties vertegenwoordigd in het artikel 11, tweede lid, bedoeld paritair subcomité;<br>
+4° twee leden worden benoemd uit kandidaten voorgedragen door verenigingen die uitsluitend de bescherming van het leefmilieu en de natuur als doel hebben en vertegenwoordigd zijn in de Milieu- en Natuurraad van Vlaanderen;<br>
+5° één lid wordt benoemd uit kandidaten voorgedragen door het Wetenschappelijk en Technisch Centrum voor het Bouwbedrijf.<br>
+<br>
+Deze leden hebben stemrecht.<br>
+<br>
+Als lid met raadgevende stem wordt aangeduid:<br>
+- één vertegenwoordiger van het departement.<br>
+<br>
+Het onderzoekscomité stelt onderzoeksprogramma's vast voor de ontwikkeling van grindsubstituten alsmede projecten tot ondersteuning van de commercialisering en het gebruik van zulke substituten.<br>
+<br>
+Met ingang van 1 januari 2013 wordt het onderzoekscomité ontbonden. Vanaf die datum treedt het grindcomité op als rechtsopvolger van het onderzoekscomité en neemt het alle taken, rechten en plichten ervan over.
 
 ## AFDELING 8 [... (opgeh. decr. 1 maart 2019, art. 18, I: 29 maart 2019)]
 
@@ -130,7 +214,50 @@ De exploitant van een vergunde projectgrindwinning en de houder van de vergunnin
 
 ### ART. 20sexies.
 
-§ 1. De personen, vermeld in het derde lid, kunnen een projectgrindwinningscomité oprichten dat belast wordt met de volgende taken : <br />1° het formuleren van voorstellen voor maatschappelijke projecten van groot openbaar belang waarvan projectgrindwinning een substantieel onderdeel is voor de realisatie van het project; <br />2° de voortgangsbewaking van de projectgrindwinning;<br />3° de voortgangsbewaking van de uitvoering van de goedgekeurde projecten;<br />4° het toezicht op de afwerking en de uitrusting van de projectgrindwinning tijdens en na de beëindiging van de grindwinning;<br />5° het sluiten van de in artikel 20quinquies vermelde overeenkomst.<br /><br />De oprichting van dit comité en het instellen van zijn bevoegdheden doen geen afbreuk aan de bevoegdheid van andere overheden om projecten uit te werken.<br /><br />Het projectcomité bestaat uit : <br />1° twee vertegenwoordigers, aangewezen door de bestendige deputatie van de provincie Limburg, het betreft de leden van de deputatie, bevoegd voor Ruimtelijke Ordening en Leefmilieu/Natuur of hun afgevaardigden;<br />2° de burgemeester van elke grindgemeente die voorkomt op de lijst, vastgesteld conform artikel 7, § 3, of hun afgevaardigde;<br />3° twee leden, aangewezen door de VZW Belbag als representatieve organisatie voor de exploitanten van grindwinning;<br />4° twee leden, aangewezen door de representatieve landbouworganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br />5° twee leden, aangewezen door representatieve verenigingen die uitsluitend de bescherming van het leefmilieu en de natuur als doel hebben en vertegenwoordigd zijn in de Milieu- en Natuurraad van Vlaanderen;<br /><br />Een ambtenaar van de afdeling bevoegd voor natuurlijke rijkdommen, woont de vergaderingen van het projectgrindwinningscomité bij als waarnemer.<br /><br />Het projectgrindwinningscomité heeft rechtspersoonlijkheid.<br /><br />Het comité zorgt zelf voor de financiering van zijn werking, het noodzakelijke personeel en de noodzakelijke uitrusting.<br /><br />Het mandaat van de leden van het projectgrindwinningscomité is onbezoldigd. Het comité regelt zelf de wijze waarop de leden worden vergoed voor de door hen gemaakte kosten. Deze vergoedingen zijn ten laste van het projectgrindwinningscomité. <br /><br />§ 2. Een projectvoorstel of een wijziging van een goedgekeurd projectvoorstel kan in het projectcomité maar worden goedgekeurd indien minstens twee derde van de leden aanwezig of vertegenwoordigd is en wanneer er geen enkele tegenstem is van deze aanwezige of vertegenwoordigde leden tegen het voorstel.<br /><br />Het projectvoorstel mag enkel betrekking hebben op maatschappelijke projecten van groot openbaar belang, en voor zover de projectgrindwinning een substantieel onderdeel is van de realisatie van het project.<br /><br />De Vlaamse Regering kan nadere regels bepalen voor de werking van het projectgrindwinningscomité.<br /><br />§ 3. Het voorstel moet minimaal omschrijven : <br />a) welk maatschappelijk relevant doel men met de realisatie van het project wil bereiken;<br />b) op welke wijze de voorwaarden van artikel 20quater zullen worden nageleefd;<br />c) op welke wijze het doel wordt bereikt waarbij de daartoe meest aangewezen maatregelen worden vermeld die de wetgeving ter beschikking stelt en tegelijkertijd de overheden, organisaties of personen worden aangeduid die deze maatregelen kunnen uitvoeren;<br />d) op welke wijze de gevolgen van het gerealiseerde doel en de gevolgen van de uitvoering worden onderzocht, waarbij men de daartoe meest aangewezen onderzoeksmaatregelen vermeldt die de wetgeving daarvoor ter beschikking stelt en de overheden, organisaties of personen aanduidt die deze maatregelen kunnen uitvoeren;<br />e) op welke wijze het voorstel een impact heeft op de beroepslandbouw via een landbouwgevoeligheidsanalyse en landbouweffectenrapport en in voorkomend geval hoe deze impact via flankerende maatregelen dient gecompenseerd te worden;<br />f) welke adviezen over het project moeten worden ingewonnen;<br />g) vanaf welk moment de projectgrindwinning kan worden aangevat, onder welke voorwaarden de projectgrindwinning kan worden uitgevoerd en wat het minimale niveau van afwerking en uitrusting zal zijn bij de beëindiging van de grindwinning ter realisatie van de doelstelling van het project en de planologische bestemming;<br />h) op welke wijze het project zal worden gefinancierd;<br />i) wat de gewenste eigendoms- en beheerssituatie van het project is na beëindiging van de projectgrindwinning, wat kan inhouden het formuleren van een plan met betrekking tot het duurzaam beheer van het terrein na uitvoering van de projectgrindwinning; tegelijkertijd worden de overheden, organisaties of personen aangeduid die betrokken zijn bij of instaan voor de uitwerking van deze eigendoms- of beheerssituatie. <br /><br />De Vlaamse Regering kan extra voorschriften in verband met de inhoud van het project bepalen.<br /><br />§ 4. De Vlaamse Regering kan het voorstel enkel goed- of afkeuren.
+§ 1. De personen, vermeld in het derde lid, kunnen een projectgrindwinningscomité oprichten dat belast wordt met de volgende taken :<br>
+1° het formuleren van voorstellen voor maatschappelijke projecten van groot openbaar belang waarvan projectgrindwinning een substantieel onderdeel is voor de realisatie van het project;<br>
+2° de voortgangsbewaking van de projectgrindwinning;<br>
+3° de voortgangsbewaking van de uitvoering van de goedgekeurde projecten;<br>
+4° het toezicht op de afwerking en de uitrusting van de projectgrindwinning tijdens en na de beëindiging van de grindwinning;<br>
+5° het sluiten van de in artikel 20quinquies vermelde overeenkomst.<br>
+<br>
+De oprichting van dit comité en het instellen van zijn bevoegdheden doen geen afbreuk aan de bevoegdheid van andere overheden om projecten uit te werken.<br>
+<br>
+Het projectcomité bestaat uit :<br>
+1° twee vertegenwoordigers, aangewezen door de bestendige deputatie van de provincie Limburg, het betreft de leden van de deputatie, bevoegd voor Ruimtelijke Ordening en Leefmilieu/Natuur of hun afgevaardigden;<br>
+2° de burgemeester van elke grindgemeente die voorkomt op de lijst, vastgesteld conform artikel 7, § 3, of hun afgevaardigde;<br>
+3° twee leden, aangewezen door de VZW Belbag als representatieve organisatie voor de exploitanten van grindwinning;<br>
+4° twee leden, aangewezen door de representatieve landbouworganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+5° twee leden, aangewezen door representatieve verenigingen die uitsluitend de bescherming van het leefmilieu en de natuur als doel hebben en vertegenwoordigd zijn in de Milieu- en Natuurraad van Vlaanderen;<br>
+<br>
+Een ambtenaar van het departement, woont de vergaderingen van het projectgrindwinningscomité bij als waarnemer.<br>
+<br>
+Het projectgrindwinningscomité heeft rechtspersoonlijkheid.<br>
+<br>
+Het comité zorgt zelf voor de financiering van zijn werking, het noodzakelijke personeel en de noodzakelijke uitrusting.<br>
+<br>
+Het mandaat van de leden van het projectgrindwinningscomité is onbezoldigd. Het comité regelt zelf de wijze waarop de leden worden vergoed voor de door hen gemaakte kosten. Deze vergoedingen zijn ten laste van het projectgrindwinningscomité.<br>
+<br>
+§ 2. Een projectvoorstel of een wijziging van een goedgekeurd projectvoorstel kan in het projectcomité maar worden goedgekeurd indien minstens twee derde van de leden aanwezig of vertegenwoordigd is en wanneer er geen enkele tegenstem is van deze aanwezige of vertegenwoordigde leden tegen het voorstel.<br>
+<br>
+Het projectvoorstel mag enkel betrekking hebben op maatschappelijke projecten van groot openbaar belang, en voor zover de projectgrindwinning een substantieel onderdeel is van de realisatie van het project.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de werking van het projectgrindwinningscomité.<br>
+<br>
+§ 3. Het voorstel moet minimaal omschrijven :<br>
+a) welk maatschappelijk relevant doel men met de realisatie van het project wil bereiken;<br>
+b) op welke wijze de voorwaarden van artikel 20quater zullen worden nageleefd;<br>
+c) op welke wijze het doel wordt bereikt waarbij de daartoe meest aangewezen maatregelen worden vermeld die de wetgeving ter beschikking stelt en tegelijkertijd de overheden, organisaties of personen worden aangeduid die deze maatregelen kunnen uitvoeren;<br>
+d) op welke wijze de gevolgen van het gerealiseerde doel en de gevolgen van de uitvoering worden onderzocht, waarbij men de daartoe meest aangewezen onderzoeksmaatregelen vermeldt die de wetgeving daarvoor ter beschikking stelt en de overheden, organisaties of personen aanduidt die deze maatregelen kunnen uitvoeren;<br>
+e) op welke wijze het voorstel een impact heeft op de beroepslandbouw via een landbouwgevoeligheidsanalyse en landbouweffectenrapport en in voorkomend geval hoe deze impact via flankerende maatregelen dient gecompenseerd te worden;<br>
+f) welke adviezen over het project moeten worden ingewonnen;<br>
+g) vanaf welk moment de projectgrindwinning kan worden aangevat, onder welke voorwaarden de projectgrindwinning kan worden uitgevoerd en wat het minimale niveau van afwerking en uitrusting zal zijn bij de beëindiging van de grindwinning ter realisatie van de doelstelling van het project en de planologische bestemming;<br>
+h) op welke wijze het project zal worden gefinancierd;<br>
+i) wat de gewenste eigendoms- en beheerssituatie van het project is na beëindiging van de projectgrindwinning, wat kan inhouden het formuleren van een plan met betrekking tot het duurzaam beheer van het terrein na uitvoering van de projectgrindwinning; tegelijkertijd worden de overheden, organisaties of personen aangeduid die betrokken zijn bij of instaan voor de uitwerking van deze eigendoms- of beheerssituatie.<br>
+<br>
+De Vlaamse Regering kan extra voorschriften in verband met de inhoud van het project bepalen.<br>
+<br>
+§ 4. De Vlaamse Regering kan het voorstel enkel goed- of afkeuren.
 
 ### ART. 20septies.
 
@@ -148,7 +275,37 @@ De houders van een vergunning voor de exploitatie van grind kunnen, zonder schad
 
 ### ART. 23.
 
-Onverminderd de bevoegdheden van de officieren van de gerechtelijke politie zijn de ambtenaren van de afdeling, bevoegd voor natuurlijke rijkdommen,  gerechtigd om de overtreding van dit decreet en de uitvoeringsbesluiten op te sporen en vast te stellen.<br /><br />De ambtenaren van de afdeling, bevoegd voor natuurlijke rijkdommen, maken zich kenbaar door middel van een legitimatiebewijs dat hen machtigt overtredingen op dit decreet en zijn uitvoeringsbesluiten op te sporen en vast te stellen.<br /><br />De ambtenaren van de afdeling, bevoegd voor natuurlijke rijkdommen, zijn bevoegd om:<br />1° inlichtingen te geven;<br />2° waarschuwingen te geven;<br />3° een termijn vast te stellen voor de overtreder om zich in regel te stellen;<br />4° processen-verbaal op te stellen, waarin alle bevindingen en verhoren, alsook alle vastgestelde inbreuken worden opgetekend.<br /><br />De processen-verbaal, zoals voorzien in het vorige lid, hebben bewijskracht tot het tegendeel bewezen is voorzover een afschrift ervan ter kennis wordt gebracht van de overtreder, binnen een termijn van veertien kalenderdagen die een aanvang neemt de dag na de vaststelling van de overtreding. Wanneer de vervaldag een zaterdag, een zondag of een wettelijke feestdag is, dan wordt deze verplaatst naar de eerstvolgende werkdag.<br /><br />Een exemplaar van het proces-verbaal waarbij de overtreding is vastgesteld, wordt binnen dezelfde termijn aan de door de Vlaamse regering aangewezen ambtenaar en, in voorkomend geval, aan het Openbaar Ministerie toegezonden.<br /><br />De door de ambtenaren van de afdeling, bevoegd voor natuurlijke rijkdommen, gemaakte materiële vaststellingen kunnen, met hun bewijskracht, aangewend worden door de ambtenaren die belast zijn met het toezicht op de naleving van andere reglementeringen.<br /><br />De ambtenaren van de afdeling, bevoegd voor natuurlijke rijkdommen, zijn van ambtswege gemachtigd, zowel bij de heffingsplichtige als, indien een inbreuk is vastgesteld, bij derden, alle inlichtingen te nemen, op te zoeken en in te zamelen die kunnen leiden tot de juiste heffing ten laste van de heffingsplichtige.<br /><br />Zij zijn van rechtswege gemachtigd, zowel bij de heffingsplichtige als, indien een inbreuk is vastgesteld, bij derden, alle boeken, stukken en registers op te vragen die kunnen leiden tot de juiste heffing van de heffingsplichtige.<br /><br />Hij die over de gevraagde inlichtingen beschikt, is verplicht deze inlichtingen te verstrekken op ieder verzoek van deze ambtenaren. Hij die over de gevraagde boeken, stukken en registers beschikt, is verplicht deze voor te leggen op ieder verzoek van deze ambtenaren. De ambtenaren kunnen de boeken, stukken en registers meenemen tegen afgifte van een ontvangstbewijs.<br /><br />Elke inlichting, stuk, proces-verbaal of akte, ontdekt of bekomen door de in het eerste lid bedoelde ambtenaar in het uitoefenen van zijn functie, hetzij rechtstreeks, hetzij door tussenkomst van een dienst van de Vlaamse overheid, de parketten en griffies van hoven en rechtbanken, de administraties van de federale overheid, de provincies en de gemeenten, alsook de openbare instellingen, kan worden ingeroepen voor het opsporen van elke ingevolge dit decreet verschuldigde heffing.<br /><br />De ambtenaren van de afdeling, bevoegd voor natuurlijke rijkdommen, zijn gemachtigd preventieve controles uit te voeren, alsook om controles uit te voeren om de juistheid van de gegevens, vermeld bij de aangifte, te controleren.<br /><br />Zij kunnen elk onderzoek, elke controle en enquête instellen, alsook alle inlichtingen inwinnen die zij nodig achten om zich ervan te vergewissen dat de bepalingen van het decreet en zijn uitvoeringsbesluiten worden nageleefd.<br /><br />In de uitoefening van hun ambt kunnen zij de bijstand van de gemeentepolitie of van de rijkswacht vorderen. <br /><br />Zij hebben bij dag en nacht toegang tot alle instellingen of inrichtingen - woongelegenheden uitgezonderd - als ze redenen hebben om aan te nemen dat dit decreet of zijn uitvoeringsbesluiten worden overtreden.
+Onverminderd de bevoegdheden van de officieren van de gerechtelijke politie zijn de door de leidend ambtenaar van het departement aangewezen personeelsleden, gerechtigd om de overtreding van dit decreet en de uitvoeringsbesluiten op te sporen en vast te stellen.<br>
+<br>
+De door de leidend ambtenaar van het departement aangewezen personeelsleden, maken zich kenbaar door middel van een legitimatiebewijs dat hen machtigt overtredingen op dit decreet en zijn uitvoeringsbesluiten op te sporen en vast te stellen.<br>
+<br>
+De door de leidend ambtenaar van het departement aangewezen personeelsleden, zijn bevoegd om:<br>
+1° inlichtingen te geven;<br>
+2° waarschuwingen te geven;<br>
+3° een termijn vast te stellen voor de overtreder om zich in regel te stellen;<br>
+4° processen-verbaal op te stellen, waarin alle bevindingen en verhoren, alsook alle vastgestelde inbreuken worden opgetekend.<br>
+<br>
+De processen-verbaal, zoals voorzien in het vorige lid, hebben bewijskracht tot het tegendeel bewezen is voorzover een afschrift ervan ter kennis wordt gebracht van de overtreder, binnen een termijn van veertien kalenderdagen die een aanvang neemt de dag na de vaststelling van de overtreding. Wanneer de vervaldag een zaterdag, een zondag of een wettelijke feestdag is, dan wordt deze verplaatst naar de eerstvolgende werkdag.<br>
+<br>
+Een exemplaar van het proces-verbaal waarbij de overtreding is vastgesteld, wordt binnen dezelfde termijn aan de door de Vlaamse regering aangewezen ambtenaar en, in voorkomend geval, aan het Openbaar Ministerie toegezonden.<br>
+<br>
+De door de door de leidend ambtenaar van het departement aangewezen personeelsleden, gemaakte materiële vaststellingen kunnen, met hun bewijskracht, aangewend worden door de ambtenaren die belast zijn met het toezicht op de naleving van andere reglementeringen.<br>
+<br>
+De door de leidend ambtenaar van het departement aangewezen personeelsleden, zijn van ambtswege gemachtigd, zowel bij de heffingsplichtige als, indien een inbreuk is vastgesteld, bij derden, alle inlichtingen te nemen, op te zoeken en in te zamelen die kunnen leiden tot de juiste heffing ten laste van de heffingsplichtige.<br>
+<br>
+Zij zijn van rechtswege gemachtigd, zowel bij de heffingsplichtige als, indien een inbreuk is vastgesteld, bij derden, alle boeken, stukken en registers op te vragen die kunnen leiden tot de juiste heffing van de heffingsplichtige.<br>
+<br>
+Hij die over de gevraagde inlichtingen beschikt, is verplicht deze inlichtingen te verstrekken op ieder verzoek van deze ambtenaren. Hij die over de gevraagde boeken, stukken en registers beschikt, is verplicht deze voor te leggen op ieder verzoek van deze ambtenaren. De ambtenaren kunnen de boeken, stukken en registers meenemen tegen afgifte van een ontvangstbewijs.<br>
+<br>
+Elke inlichting, stuk, proces-verbaal of akte, ontdekt of bekomen door de in het eerste lid bedoelde ambtenaar in het uitoefenen van zijn functie, hetzij rechtstreeks, hetzij door tussenkomst van een dienst van de Vlaamse overheid, de parketten en griffies van hoven en rechtbanken, de administraties van de federale overheid, de provincies en de gemeenten, alsook de openbare instellingen, kan worden ingeroepen voor het opsporen van elke ingevolge dit decreet verschuldigde heffing.<br>
+<br>
+De door de leidend ambtenaar van het departement aangewezen personeelsleden, zijn gemachtigd preventieve controles uit te voeren, alsook om controles uit te voeren om de juistheid van de gegevens, vermeld bij de aangifte, te controleren.<br>
+<br>
+Zij kunnen elk onderzoek, elke controle en enquête instellen, alsook alle inlichtingen inwinnen die zij nodig achten om zich ervan te vergewissen dat de bepalingen van het decreet en zijn uitvoeringsbesluiten worden nageleefd.<br>
+<br>
+In de uitoefening van hun ambt kunnen zij de bijstand van de gemeentepolitie of van de rijkswacht vorderen.<br>
+<br>
+Zij hebben bij dag en nacht toegang tot alle instellingen of inrichtingen - woongelegenheden uitgezonderd - als ze redenen hebben om aan te nemen dat dit decreet of zijn uitvoeringsbesluiten worden overtreden.
 
 ### ART. 23bis.
 
