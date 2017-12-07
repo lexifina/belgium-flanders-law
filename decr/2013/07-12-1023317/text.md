@@ -575,7 +575,9 @@ De door de Vlaamse Regering daartoe aangewezen ambtenaren hebben voor het   onde
 
 ### ART. 6.1.3.
 
-<P>De Vlaamse Regering wint voorafgaand aan de voorlopige bescherming het advies   in bij de colleges van burgemeester en schepenen van de betrokken   gemeentebesturen en de departementen of agentschappen van de Vlaamse overheid   bevoegd voor ruimtelijke ordening, woonbeleid en onroerend erfgoed, leefmilieu,   natuur en energie, mobiliteit en openbare werken en landbouw en visserij. Deze   adviezen worden uitgebracht binnen een vervaltermijn van dertig dagen, ingaand   de dag na deze van de ontvangst van de adviesvraag. Als deze termijn wordt   overschreden, wordt het advies geacht gunstig te zijn. Aan deze adviesvereiste   kan worden voorbijgegaan in geval van dringende noodzakelijkheid.<BR></P>  <P>De Vlaamse Regering wint voorafgaand aan de voorlopige bescherming het advies   in bij de Vlaamse Commissie Onroerend Erfgoed. Dit advies wordt uitgebracht   binnen een vervaltermijn van zestig dagen, ingaand de dag na deze van de   ontvangst van de adviesvraag. Als deze termijn wordt overschreden, wordt het   advies geacht gunstig te zijn. Aan deze adviesvereiste kan worden voorbijgegaan   in geval van dringende noodzakelijkheid.<BR></P>
+<p>De Vlaamse Regering wint voorafgaand aan de voorlopige bescherming het advies in bij de colleges van burgemeester en schepenen van de betrokken gemeentebesturen en de departementen of agentschappen van de Vlaamse overheid bevoegd voor omgeving, mobiliteit en openbare werken en landbouw en visserij. Deze adviezen worden uitgebracht binnen een vervaltermijn van dertig dagen, ingaand de dag na deze van de ontvangst van de adviesvraag. Als deze termijn wordt overschreden, wordt het advies geacht gunstig te zijn. Aan deze adviesvereiste kan worden voorbijgegaan in geval van dringende noodzakelijkheid.</p>
+
+<p>De Vlaamse Regering wint voorafgaand aan de voorlopige bescherming het advies in bij de Vlaamse Commissie Onroerend Erfgoed. Dit advies wordt uitgebracht binnen een vervaltermijn van zestig dagen, ingaand de dag na deze van de ontvangst van de adviesvraag. Als deze termijn wordt overschreden, wordt het advies geacht gunstig te zijn. Aan deze adviesvereiste kan worden voorbijgegaan in geval van dringende noodzakelijkheid.</p>
 
 ### ART. 6.1.4.
 
@@ -1104,7 +1106,9 @@ f) het niet melden van de aanvang van een archeologische opgraving, als vermeld 
 
 ### ART. 11.3.1.
 
-<P>Als bevoegde personen vaststellen dat een inbreuk onroerend erfgoed of een   misdrijf onroerend erfgoed dreigt op te treden, kunnen zij alle raadgevingen   geven die zij nuttig achten om dat te voorkomen.<BR></P>  <P>Onder bevoegde personen, vermeld in het eerste lid, worden begrepen, de   personen bedoeld in onderafdeling 2 en 3, en de personeelsleden van het   departement en de agentschappen die behoren tot de beleidsdomeinen Ruimtelijke   Ordening, Wonen en Onroerend Erfgoed, die worden aangewezen door de Vlaamse   Regering.<BR></P>
+<p>Als bevoegde personen vaststellen dat een inbreuk onroerend erfgoed of een misdrijf onroerend erfgoed dreigt op te treden, kunnen zij alle raadgevingen geven die zij nuttig achten om dat te voorkomen.</p>
+
+<p>Onder bevoegde personen, vermeld in het eerste lid, worden begrepen, de personen bedoeld in onderafdeling 2 en 3, en de personeelsleden van het departement en de agentschappen die behoren tot het beleidsdomein Omgeving, die worden aangewezen door de Vlaamse Regering.</p>
 
 ### ART. 11.3.2.
 
