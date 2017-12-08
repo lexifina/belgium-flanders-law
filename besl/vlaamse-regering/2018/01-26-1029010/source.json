@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029010,
+  "title": "Besluit van de Vlaamse Regering van 2018-01-26 tot goedkeuring van de wijzigingen van de statuten van de Vlaamse Maatschappij voor Watervoorziening, aangebracht door de Algemene Vergadering van de Vlaamse Maatschappij voor Watervoorziening op 8 december 2017",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029010/VolledigDocument?datum=2017-12-08",
+  "source_sha256": "1443e65104004c59ad4471162412790771e34d13e01ba77bbad1016425affaa0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029010&param=informatie",
+  "as_of": "2017-12-08",
+  "made": "2018-01-26",
+  "gazette": "2018-02-14",
+  "numac": 2018030358,
+  "document_start": "2017-12-08",
+  "document_end": null,
+  "in_force": "2017-12-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-12-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
