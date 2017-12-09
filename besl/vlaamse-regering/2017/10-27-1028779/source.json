@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028779,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-27 houdende wijziging van het Energiebesluit van 19 november 2010, wat betreft het invoeren van een S-peil",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028779/VolledigDocument?datum=2017-12-09",
+  "source_sha256": "ef0e42af916a7b6a318095581c31a6ed30377ea5135ca2b9dedc168bd392bff5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028779&param=informatie",
+  "as_of": "2017-12-09",
+  "made": "2017-10-27",
+  "gazette": "2017-11-29",
+  "numac": 2017040836,
+  "document_start": "2017-12-09",
+  "document_end": null,
+  "in_force": "2017-12-09",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-12-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
