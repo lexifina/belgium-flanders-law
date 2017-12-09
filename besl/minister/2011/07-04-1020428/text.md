@@ -22,100 +22,105 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 
 ### BIJLAGE
 
-<p>De sociaalrechtelijke inspecteurs van de afdeling Inspectie Werk en Sociale Economie van het Departement Werk en Sociale Economie zijn:</p>
+De sociaalrechtelijke inspecteurs van de afdeling Toezicht en Handhaving van het Departement Werk en Sociale Economie zijn :<br>
 &nbsp;
-
 <table border="1">
 	<tbody>
 		<tr>
-			<td>Lorette Aerts</td>
-			<td>Guy Joosten</td>
+			<td>Aerts Lorette</td>
+			<td>Joosten Guy</td>
 		</tr>
 		<tr>
-			<td>Jean-Marc Bergiers</td>
-			<td>Ann Lambrechts</td>
+			<td>Bergiers Jean-Marc</td>
+			<td>Lambrechts Ann</td>
 		</tr>
 		<tr>
-			<td>Thalassa Marchand</td>
-			<td>Kristof Botteldoorn</td>
+			<td>Botteldoorn Kristof</td>
+			<td>Linskens Caroline</td>
 		</tr>
 		<tr>
-			<td>Evi Martens</td>
-			<td>David Matthys</td>
+			<td>Breynaert Katleen</td>
+			<td>Marchand Thalassa</td>
 		</tr>
 		<tr>
-			<td>Katleen Breynaert</td>
-			<td>Hans Peeraer</td>
+			<td>Caestecker Nicky</td>
+			<td>Martens Evi</td>
 		</tr>
 		<tr>
-			<td>Nicky Caestecker</td>
-			<td>Thomas Rossie</td>
+			<td>Carlier Sofie</td>
+			<td>Matthys David</td>
 		</tr>
 		<tr>
-			<td>Koen Cauwels</td>
-			<td>Tom Segers</td>
+			<td>Cauwels Koen</td>
+			<td>Nollet Bart</td>
 		</tr>
 		<tr>
-			<td>Cornelia Costermans</td>
-			<td>Elke Smits</td>
+			<td>Costermans Cornelia</td>
+			<td>Paternoster Johanna</td>
 		</tr>
 		<tr>
-			<td>Luc Cretskens</td>
-			<td>Chris Vandaele</td>
+			<td>Crals Myriam</td>
+			<td>Peeraer Hans</td>
 		</tr>
 		<tr>
-			<td>Evelien Decraene</td>
-			<td>Martine Van Den Bossche</td>
+			<td>Cretskens Luc</td>
+			<td>Rossie Thomas</td>
 		</tr>
 		<tr>
-			<td>Hedwig De Wilde</td>
-			<td>Stefanie Vandenbussche</td>
+			<td>Cuypers Ines</td>
+			<td>Segers Tom</td>
 		</tr>
 		<tr>
-			<td>Jurgen De Wit</td>
-			<td>Elke Van Neygen</td>
+			<td>De Koster Liesbet</td>
+			<td>Smits Elke</td>
 		</tr>
 		<tr>
-			<td>Steven Dhaeze</td>
-			<td>Koenraad Van Osselaer</td>
+			<td>De Wilde Hedwig</td>
+			<td>Van Den Bossche Martine</td>
 		</tr>
 		<tr>
-			<td>Nathalie Dhondt</td>
-			<td>Willem Van Parys</td>
+			<td>De Wit Jurgen</td>
+			<td>Van der Velde Petra</td>
 		</tr>
 		<tr>
-			<td>Lize Gijsel</td>
-			<td>Jelle Verhaegen</td>
+			<td>Decraene Evelien</td>
+			<td>Van Duppen Nick</td>
 		</tr>
 		<tr>
-			<td>Raymond Graindor</td>
-			<td>Marc Willems</td>
+			<td>Dhaeze Steven</td>
+			<td>Van Neygen Elke</td>
 		</tr>
 		<tr>
-			<td>Nele Dumeez</td>
-			<td>Nick Van Duppen</td>
+			<td>Dhondt Nathalie</td>
+			<td>Van Osselaer Koenraad</td>
 		</tr>
 		<tr>
-			<td>David Feremans</td>
-			<td>Sofie Carlier</td>
+			<td>Dumeez Nele</td>
+			<td>Van Parys Willem</td>
 		</tr>
 		<tr>
-			<td>Frank Haerinck</td>
-			<td>Alexander Heirman</td>
+			<td>Feremans David</td>
+			<td>Vandaele Chris</td>
 		</tr>
 		<tr>
-			<td>Katrien Herman</td>
-			<td>Bart Nollet</td>
+			<td>Gijsel Lize</td>
+			<td>Vandenameele Vincent</td>
 		</tr>
 		<tr>
-			<td>Jan Boeykens</td>
-			<td>Liesbet De Koster</td>
+			<td>Haerinck Frank</td>
+			<td>Vandenbussche Stefanie</td>
 		</tr>
 		<tr>
-			<td>Johanna Paternoster</td>
+			<td>Heirman Alexander</td>
+			<td>Verhaegen Jelle</td>
+		</tr>
+		<tr>
+			<td>Herman Katrien</td>
+			<td>Willems Marc</td>
+		</tr>
+		<tr>
+			<td>Inghelbrecht Lena</td>
 			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
