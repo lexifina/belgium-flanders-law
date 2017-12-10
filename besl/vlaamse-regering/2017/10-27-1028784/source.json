@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028784,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-27 houdende gedeeltelijke herverdeling van de provisie CB0-1CB-B-2-AB-PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2017- VAK/VEK buffer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028784/VolledigDocument?datum=2017-12-10",
+  "source_sha256": "b645f14a3803c9811de3d0d44a1b9e0c7c532b4ed10ac9bd33281afee5ec80f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028784&param=informatie",
+  "as_of": "2017-12-10",
+  "made": "2017-10-27",
+  "gazette": "2017-11-30",
+  "numac": 2017040855,
+  "document_start": "2017-12-10",
+  "document_end": null,
+  "in_force": "2017-12-10",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-12-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
