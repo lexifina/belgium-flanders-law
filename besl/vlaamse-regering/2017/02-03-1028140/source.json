@@ -2,16 +2,16 @@
   "codex_id": 1028140,
   "title": "Besluit van de Vlaamse Regering van 2017-02-03 tot wijziging van diverse besluiten met betrekking tot wonen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028140/VolledigDocument?datum=2017-04-24",
-  "source_sha256": "0c6ad37c217f8051a00557c2db2a9398533f766c98fa0ff52377fc2de98c62c7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028140/VolledigDocument?datum=2017-12-18",
+  "source_sha256": "45bc2fc3ea15d46f8fc3be9dfa104bde0c26d9795c7462f1f3d0413a4b022d3d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028140&param=informatie",
-  "as_of": "2017-04-24",
+  "as_of": "2017-12-18",
   "made": "2017-02-03",
   "gazette": "2017-04-14",
   "numac": 2017011465,
   "document_start": "2017-04-24",
   "document_end": null,
-  "in_force": "2017-04-24",
+  "in_force": "2017-12-18",
   "article_versions": 63,
-  "record_form": "consolidated version as in force on 2017-04-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-12-18; future article versions excluded; article text as the API gives it"
 }

@@ -429,7 +429,7 @@ De huurder die op de datum van de inwerkingtreding van dit besluit voldoet aan d
 <br>
 Als de huurder de woning wil aankopen, meldt hij dat aan de sociale huisvestingsmaatschappij vóór de datum, vermeld in het eerste lid. Met de melding zal alleen rekening worden gehouden als de melding wordt gedaan met een beveiligde zending als vermeld in artikel 1, eerste lid, 18°, van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode, of op elektronische wijze, als dat een ontvangstbewijs van de geadresseerde oplevert.<br>
 <br>
-Voor de verkopen die plaatsvinden met toepassing van dit artikel, gelden artikel 9 en 10 van het voormelde besluit, zoals van kracht vóór de inwerkingtreding van dit besluit.
+Voor de verkopen die plaatsvinden met toepassing van dit artikel, gelden artikel 43 van het voormelde decreet, zoals van kracht vóór de datum van de inwerkingtreding van dit besluit, artikel 9 en 10 van het voormelde besluit en hoofdstuk III van bijlage III van het voormelde besluit, zoals van kracht vóór de inwerkingtreding van dit besluit.
 
 ### ART 59.
 
@@ -450,7 +450,9 @@ a) artikel 49 van het decreet van 25 juni 1992 houdende diverse bepalingen tot b
 b) artikel 69 tot en met 71 van de Vlaamse Wooncode, zoals van kracht voor de inwerkingtreding van het decreet van 19 december 2014 houdende bepalingen tot begeleiding van de begroting 2015;<br>
 c) artikel 80 van de Huisvestingscode, gevoegd bij het koninklijk besluit van 10 december 1970 en bekrachtigd bij de wet van 2 juli 1971, zoals van kracht vóór de inwerkingtreding van artikel 103, § 1, 6°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
 d) artikel 94 en 95 van de Huisvestingscode, gevoegd bij het koninklijk besluit van 10 december 1970 en bekrachtigd bij de wet van 2 juli 1971, zoals van kracht vóór de inwerkingtreding van artikel 103, § 1, 6°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br>
-3° de eenzijdige beloften van aankoop en de authentieke verkoopakten zijn gesloten na de inwerkingtreding van dit besluit, en ze kwamen in aanmerking voor een subsidie krachtens 91, eerste lid, 1°, 2° en 3°, van het decreet van 19 december 2014 houdende bepalingen tot begeleiding van de begroting 2015, zoals gewijzigd bij het decreet van 14 oktober 2016.
+3° de eenzijdige beloften van aankoop en de authentieke verkoopakten zijn gesloten na de inwerkingtreding van dit besluit, en ze kwamen in aanmerking voor een subsidie krachtens 91, eerste lid, 1°, 2° en 3°, van het decreet van 19 december 2014 houdende bepalingen tot begeleiding van de begroting 2015, zoals gewijzigd bij het decreet van 14 oktober 2016.<br>
+<br>
+Het eerste en tweede lid zijn niet van toepassing op woningen die na de uitoefening van een recht van wederinkoop opnieuw te koop worden aangeboden.
 
 ### ART 60.
 
