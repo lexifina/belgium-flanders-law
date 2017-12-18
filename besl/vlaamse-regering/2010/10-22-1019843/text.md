@@ -23,25 +23,20 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br>
-1° beveiligde zending : een van de hiernavolgende betekeningswijzen :<br>
-a) een aangetekende brief;<br>
-b) een afgifte tegen ontvangstbewijs;<br>
-c) elke andere door de minister toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
-2° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving;<br>
-3° entiteiten van het beleidsveld Wonen : het agentschap en de VMSW van het beleidsdomein Omgeving;<br>
-4° minister : de Vlaamse minister, bevoegd voor wonen;<br>
-5° operationele doelstellingen : de uit de Vlaamse Wooncode afgeleide doelstellingen voor SHM's, zo veel mogelijk geformuleerd in indicatoren die specifiek, meetbaar, acceptabel, resultaatgericht en tijdsgebonden zijn;<br>
-6° prestatiebeoordeling : de procedure voor de beoordeling van de prestaties van een SHM, desgevallend in vergelijking met een voorgaande beoordeling, bestaande uit de volgende stappen die achtereenvolgens doorlopen worden :<br>
-a) een meting van de prestaties van de SHM;<br>
-b) een visitatie van de SHM;<br>
+In dit besluit wordt verstaan onder:<br>
+1° Agentschap: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen, opgericht bij het besluit van de Vlaamse Regering van 16 december 2005;<br>
+2° Entiteiten van het beleidsveld Wonen: het agentschap en de VMSW;<br>
+3° Minister: de Vlaamse minister, bevoegd voor wonen;<br>
+4° Operationele doelstellingen: de uit de Vlaamse Wooncode afgeleide doelstellingen voor sociale huisvestingsmaatschappijen, zo veel mogelijk geformuleerd in indicatoren die specifiek, meetbaar, acceptabel, resultaatgericht en tijdsgebonden zijn;<br>
+5° Prestatiebeoordeling: de procedure voor de beoordeling van de prestaties van een sociale huisvestingsmaatschappij, in voorkomend geval in vergelijking met een voorgaande beoordeling, bestaande uit de volgende stappen die achtereenvolgens doorlopen worden:<br>
+a) een meting van de prestaties van de sociale huisvestingsmaatschappij;<br>
+b) een visitatie van de sociale huisvestingsmaatschappij;<br>
 c) de opmaak van een visitatierapport waarin de prestaties van de SHM worden beoordeeld;<br>
-7° Prestatiedatabank : de databank, vermeld in artikel 33, § 1, tweede lid, 10°, van de Vlaamse Wooncode;<br>
-8° SHM : een sociale huisvestingsmaatschappij als vermeld in artikel 40, § 1, eerste lid, van de Vlaamse Wooncode;<br>
-9° strategische doelstellingen : de uit de Vlaamse Wooncode afgeleide doelstellingen die de algemene beleidskeuzen aangeven;<br>
-10° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
-11° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van de Vlaamse Wooncode.<br>
-&nbsp;
+6° Prestatiedatabank: de databank, vermeld in artikel 33, § 1, vierde lid, 10°, van de Vlaamse Wooncode;<br>
+7° SHM: een sociale huisvestingsmaatschappij als vermeld in artikel 40 van de Vlaamse Wooncode;<br>
+8° Strategische doelstellingen: de uit de Vlaamse Wooncode afgeleide doelstellingen die de algemene beleidskeuzen aangeven;<br>
+9° Vlaamse Wooncode: het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+10° VMSW: de Vlaamse Maatschappij voor Sociaal Wonen, publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, vermeld in artikel 30 van de Vlaamse Wooncode.
 
 ## HOOFDSTUK II De erkenning en de intrekking van de erkenning als SHM en de statuten van SHM's
 
@@ -49,15 +44,38 @@ c) de opmaak van een visitatierapport waarin de prestaties van de SHM worden beo
 
 ### ART. 2.
 
-Onder de voorwaarden en volgens de procedure, vermeld in deze afdeling, kan de minister vennootschappen als vermeld in artikel 40, § 1, eerste lid, van de Vlaamse Wooncode, erkennen als SHM.<br /><br />
+Onder de voorwaarden, vermeld in artikel 40, § 1, tweede lid, van de Vlaamse Wooncode, en volgens de procedure, vermeld in deze afdeling, kan de minister vennootschappen erkennen als SHM.
 
 ### ART. 3.
 
-Om als SHM erkend te kunnen worden en te blijven, moeten vennootschappen   als vermeld in artikel 2 :<BR>1° voldoen aan de voorwaarden, vermeld in artikel   40, § 1, tweede lid, en § 2, van de Vlaamse Wooncode;<BR>2° er zich toe   verbinden op actieve wijze hun volledige medewerking te verlenen aan het systeem   van prestatiebeoordeling, vermeld in hoofdstuk III;<BR>3° er zich toe verbinden,   op eigen initiatief of op verzoek van de minister, de nodige maatregelen te   nemen om hun prestaties te verbeteren, onder meer door verbeterplannen op te   maken en naar behoren uit te voeren;<BR>4° aantonen dat zij een voldoende lokale   binding met een welomschreven werkgebied en een voldoende laagdrempelige   bereikbaarheid voor de doelgroep hebben;<BR>5° aantonen dat zij voldoen aan door   de minister te bepalen minimale capaciteiten inzake patrimonium, interne   controle en administratieve ondersteuning waarbij rekening wordt gehouden met de   omvang en de locatie van de maatschappijen;<BR>6° een raad van bestuur   aanstellen met ten minste een derde van de aangestelde leden van een ander   geslacht en die maximaal uit het volgende aantal leden bestaat:<BR>a) vijf leden   voor een sociale huisvestingsmaatschappij die minder dan 500 sociale   huurwoningen in beheer heeft en die de laatste vijf jaar gemiddeld minder dan 10   sociale koopwoningen per jaar heeft gerealiseerd;<BR>b) negen leden voor een   sociale huisvestingsmaatschappij die minstens 500 en minder dan 1500 sociale   huurwoningen in beheer heeft of die de laatste vijf jaar gemiddeld minstens 10   sociale koopwoningen per jaar heeft gerealiseerd;<BR>c) dertien leden voor een   sociale huisvestingsmaatschappij die minstens 1500 sociale huurwoningen in   beheer heeft.<BR><BR>Voor het vaststellen van het aantal sociale huurwoningen   dat in beheer is en het aantal sociale koopwoningen dat de laatste vijf jaar   gerealiseerd is, wordt gebruik gemaakt van de informatie in de prestatiedatabank   voor de prestatiebeoordeling, op basis van de gegevens op 31 december van het   jaar voorafgaand aan het jaar van de aanstelling. Deze vaststelling vindt plaats   bij elke aanstelling van een raadslid en bij elke verlenging van een   mandaat.<BR><BR>De algemene vergadering waakt er bij de samenstelling van de   raad van bestuur over dat deze, zij het door ervaring, zij het door opleiding,   over voldoende gezamenlijke deskundigheid beschikt op juridisch-technisch,   economisch-financieel en sociaal vlak.<BR><BR>Na de fusie van twee sociale   huisvestingsmaatschappijen kan een hoger aantal bestuursleden aangesteld blijven   dan vermeld in het eerste lid, 6°. In dat geval mogen na de aanstelling van de   eerste raad van bestuur van de gefuseerde maatschappij geen nieuwe raadsleden   worden aangesteld of mandaten van raadsleden worden verlengd zolang hun aantal   te hoog is. Uiterlijk na de vervanging of verlenging van alle mandaten van de   leden van de raad van bestuur na de samenstelling van de eerste raad van bestuur   van de gefuseerde maatschappij moet aan alle voorwaarden worden   voldaan.<BR><BR>Na voorafgaande mededeling aan de Vlaamse Regering kan de   minister de voorwaarden en verbintenissen, vermeld in het eerste lid, nader   omschrijven.
+Om als SHM erkend te kunnen worden en erkend te blijven, moeten vennootschappen als vermeld in artikel 2 van dit besluit, voldoen aan de voorwaarden, vermeld in artikel 40, § 1, tweede lid, en § 2, van de Vlaamse Wooncode.<br>
+<br>
+Ter uitvoering van artikel 40, § 1, tweede lid, 15°, van de Vlaamse Wooncode, wordt voor het vaststellen van het aantal sociale huurwoningen dat in beheer is en het aantal sociale koopwoningen dat de laatste vijf jaar gerealiseerd is, gebruikgemaakt van de informatie in de prestatiedatabank, op basis van de gegevens op 31 december van het jaar dat voorafgaat aan het jaar van de aanstelling of de mandaatverlenging van een raadslid. Die vaststelling vindt plaats bij elke aanstelling van een raadslid en bij elke verlenging van een mandaat.<br>
+<br>
+De algemene vergadering waakt er bij de samenstelling van de raad van bestuur over dat die door ervaring of opleiding over voldoende gezamenlijke deskundigheid beschikt op juridisch-technisch, economisch-financieel en sociaal vlak.<br>
+<br>
+Na voorafgaande mededeling aan de Vlaamse Regering kan de minister de voorwaarden, vermeld in het eerste lid, nader omschrijven.
 
 ### ART. 4.
 
-§ 1. De vennootschappen, vermeld in artikel 2, dienen hun aanvraag tot erkenning als SHM met een beveiligde zending in bij het agentschap.<br /><br />Het aanvraagdossier bevat de gegevens en stukken waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in artikel 3, eerste lid, 1°, 4° en 5°, en een ondertekende verklaring waarin de aanvrager de verbintenissen, vermeld in artikel 3, eerste lid, 2° en 3°, onderschrijft.<br /><br />De minister kan de gegevens en stukken die in het aanvraagdossier opgenomen moeten worden, nader bepalen. Hij kan tevens een model van verklaring als vermeld in het tweede lid, vaststellen.<br /><br />§ 2. Binnen een termijn van vijftien werkdagen, die ingaat op de dag na de ontvangst van het volledige aanvraagdossier, bezorgt het agentschap de aanvrager met een beveiligde zending een ontvangstmelding.<br /><br />Als het agentschap van oordeel is dat het aanvraagdossier onvolledig is, kan het bij de aanvrager met een beveiligde zending aanvullende documenten of inlichtingen opvragen. De aanvrager bezorgt het agentschap met een beveiligde zending de aanvullende documenten of inlichtingen.<br /><br />§ 3. Een aanvraag tot erkenning als SHM van een vennootschap als vermeld in artikel 2 is onontvankelijk als minder dan vier jaar geleden de erkenning als SHM van die vennootschap werd ingetrokken.<br /><br />§ 4. Binnen een termijn van drie maanden, die ingaat op de dag na de betekening van de ontvangstmelding, vermeld in paragraaf 2, eerste lid, neemt de minister een beslissing over de aanvraag. De aanvrager wordt met een beveiligde zending op de hoogte gebracht van de ministeriële beslissing.<br /><br />De aanvraag kan alleen worden geweigerd als de aanvrager werd gehoord. De aanvrager kan zich daarbij laten bijstaan.<br /><br />Als de minister binnen de termijn, vermeld in het eerste lid, geen beslissing neemt over de aanvraag, wordt de erkenning als SHM geacht te zijn verleend.<br /><br />
+§ 1. De vennootschappen, vermeld in artikel 2, dienen hun aanvraag tot erkenning als SHM met een beveiligde zending in bij het agentschap.<br>
+<br>
+Het aanvraagdossier bevat de gegevens en stukken waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in artikel 40, § 1, tweede lid, en § 2, van de Vlaamse Wooncode. Die gegevens en stukken tonen een voldoende lokale binding met een welomschreven werkgebied en een voldoende laagdrempelige bereikbaarheid voor de doelgroep aan.<br>
+<br>
+De minister kan de gegevens en stukken die in het aanvraagdossier opgenomen moeten worden, nader bepalen. Hij kan tevens een model van verklaring als vermeld in het tweede lid, vaststellen.<br>
+<br>
+§ 2. Binnen een termijn van vijftien werkdagen, die ingaat op de dag na de ontvangst van het volledige aanvraagdossier, bezorgt het agentschap de aanvrager met een beveiligde zending een ontvangstmelding.<br>
+<br>
+Als het agentschap van oordeel is dat het aanvraagdossier onvolledig is, kan het bij de aanvrager met een beveiligde zending aanvullende documenten of inlichtingen opvragen. De aanvrager bezorgt het agentschap met een beveiligde zending de aanvullende documenten of inlichtingen.<br>
+<br>
+§ 3. Een aanvraag tot erkenning als SHM van een vennootschap als vermeld in artikel 2 is onontvankelijk als minder dan vier jaar geleden de erkenning als SHM van die vennootschap werd ingetrokken.<br>
+<br>
+§ 4. Binnen een termijn van drie maanden, die ingaat op de dag na de betekening van de ontvangstmelding, vermeld in paragraaf 2, eerste lid, neemt de minister een beslissing over de aanvraag. De aanvrager wordt met een beveiligde zending op de hoogte gebracht van de ministeriële beslissing.<br>
+<br>
+De aanvraag kan alleen worden geweigerd als de aanvrager werd gehoord. De aanvrager kan zich daarbij laten bijstaan.<br>
+<br>
+Als de minister binnen de termijn, vermeld in het eerste lid, geen beslissing neemt over de aanvraag, wordt de erkenning als SHM geacht te zijn verleend.<br>
+&nbsp;
 
 ### ART. 5.
 
@@ -105,7 +123,12 @@ In het kader van het prestatieveld, vermeld in artikel 10, § 1, 3°, moeten de 
 
 ### ART. 14.
 
-In het kader van het prestatieveld, vermeld in artikel 10, § 1, 4°, moeten de SHM's de volgende operationele doelstellingen realiseren, voor zover van toepassing :<br />1° zich inzetten voor een zo goed mogelijke woonzekerheid;<br />2° leefbaarheidsproblemen voorkomen en aanpakken;<br />3° bewonersgroepen betrekken bij sociale huurprojecten en wijkbeheer;<br />4° huisvestingsondersteuning bieden aan bewoners.<br /><br />
+In het kader van het prestatieveld, vermeld in artikel 10, § 1, 4°, moeten de SHM's de volgende operationele doelstellingen realiseren, voor zover van toepassing :<br>
+1° huisvestingsondersteuning bieden aan bewoners;<br>
+2° zich inzetten voor een zo goed mogelijke woonzekerheid;<br>
+3° leefbaarheidsproblemen voorkomen en aanpakken;<br>
+4° bewonersgroepen betrekken bij sociale huurprojecten en wijkbeheer.<br>
+&nbsp;
 
 ### ART. 15.
 
@@ -149,7 +172,14 @@ De visitatiecommissie beoordeelt periodiek, eenmaal om de&nbsp;zes jaar,   de pr
 
 ### ART. 24.
 
-§ 1. Minstens twee maanden voor de datum waarop een visitatie bij een SHM zal plaatsvinden, genereert de visitatiecommissie voor de SHM in kwestie op een gestandaardiseerde manier een output uit de Prestatiedatabank.<br /><br />De visitatiecommissie brengt de SHM in kwestie onmiddellijk met een beveiligde zending op de hoogte van de output uit de Prestatiedatabank.<br /><br />§ 2. Als de SHM in kwestie vaststelt dat de gegevens waarop de output uit de Prestatiedatabank gebaseerd is, niet correct, niet volledig of niet recent zijn, zal ze binnen een termijn van één maand, die ingaat op de dag na de kennisgeving, vermeld in paragraaf 1, tweede lid, haar digitaal prestatieregister in de Prestatiedatabank actualiseren.<br /><br />
+§ 1. Minstens&nbsp;drie maanden voor de datum waarop een visitatie bij een SHM zal plaatsvinden, genereert de visitatiecommissie voor de SHM in kwestie op een gestandaardiseerde manier een output uit de Prestatiedatabank.<br>
+<br>
+Uiterlijk tien weken vóór de eerste visitatiedag bezorgt de SHM aan de visitatiecommissie een geactualiseerde versie van de in de prestatiedatabank opgenomen lijst van lokale woon- en welzijnsactoren en vertegenwoordigers van bewonersgroeperingen<br>
+<br>
+De visitatiecommissie brengt de SHM in kwestie onmiddellijk met een beveiligde zending op de hoogte van de output uit de Prestatiedatabank.<br>
+<br>
+§ 2. Als de SHM in kwestie vaststelt dat de gegevens waarop de output uit de Prestatiedatabank gebaseerd is, niet correct, niet volledig of niet recent zijn, zal ze binnen een termijn van één maand, die ingaat op de dag na de kennisgeving, vermeld in paragraaf 1, derde lid, haar digitaal prestatieregister in de Prestatiedatabank actualiseren.<br>
+&nbsp;
 
 ### ART. 25.
 
@@ -191,13 +221,22 @@ Als uit het definitieve visitatierapport van de prestatiebeoordeling van   een S
 
 ### ART. 34.
 
-Als uit het definitieve visitatierapport van de prestatiebeoordeling van   een SHM blijkt dat ze voor een of meer&nbsp;operationele   doelstellingen&nbsp;een&nbsp;beoordeling 'onvoldoende' behaald heeft, kan de   minister de maatregel, vermeld in artikel 33, alsook een of meer van de   maatregelen, vermeld in artikel 48, eerste lid, van de Vlaamse Wooncode,   opleggen.<BR><BR>Met behoud van de toepassing van het eerste lid kan de minister   de Vlaamse Regering voorstellen om een van de maatregelen, vermeld in artikel   48, tweede lid, van de Vlaamse Wooncode, op te leggen.<BR><BR>
+Als uit het definitieve visitatierapport van de prestatiebeoordeling van een SHM blijkt dat ze voor een of meer operationele doelstellingen een beoordeling `onvoldoende' behaald heeft, kan de minister de maatregel, vermeld in artikel 33 van dit besluit, en een of meer van de maatregelen, vermeld in artikel 48, eerste lid, van de Vlaamse Wooncode, opleggen, met uitzondering van punt 6° van de voormelde bepaling.<br>
+<br>
+Met behoud van de toepassing van het eerste lid kan de minister de Vlaamse Regering voorstellen om een van de maatregelen, vermeld in artikel 48, eerste lid, 6°, en tweede lid, van de Vlaamse Wooncode, op te leggen."
 
 ## HOOFDSTUK IV Overgangs- en slotbepalingen
 
 ### ART. 35.
 
-De bepalingen van dit besluit zijn van toepassing op SHM's waarvan de   erkenning werd verleend voor de datum van inwerkingtreding van dit besluit,   hetzij overeenkomstig het decreet van 21 december 1988 houdende oprichting van   een Vlaamse Huisvestingsmaatschappij, hetzij overeenkomstig de Vlaamse Wooncode,   met dien verstande dat :<BR>1° de erkenning als SHM geldt tot op de datum waarop   de minister een beslissing neemt over de maatregelen die aan de eerste   prestatiebeoordeling van een SHM verbonden worden, en uiterlijk tot 31 december   2020;<BR>2° om als SHM erkend te kunnen blijven, een SHM in afwijking van   artikel 3 moet voldoen aan de voorwaarden, vermeld in artikel 3, eerste lid, 1°   en 5°, en de verbintenissen, vermeld in artikel 3, eerste lid, 2° en 3°, moet   naleven;<BR>3° de erkenning als SHM kan worden ingetrokken als een SHM niet meer   voldoet aan de voorwaarden, vermeld in artikel 3, eerste lid, 1° en 5°, of in de   gevallen, vermeld in artikel 6, eerste lid, 2° en 3°;<BR>4° de SHM's hun   statuten binnen een termijn van twa alf maanden, die ingaat op de dag na de   datum van inwerkingtreding van dit besluit, in overeenstemming moeten brengen   met de modelstatuten, vermeld in artikel 7, § 1 of § 2;<BR>5° de   visitatiecommissie bij de eerste prestatiebeoordeling van een SHM in afwijking   van artikel 28, § 1, tweede lid, 4°, voor elk van de operationele doelstellingen   enkel een beoordeling `zeer goed', `goed' of `voor verbetering vatbaar' kan   geven;<BR>6° als de minister het verbeterplan dat een SHM moet opmaken   tengevolge van de eerste prestatiebeoordeling, als niet voldoende of niet   haalbaar beschouwt, hij in afwijking van artikel 33, § 2, derde lid, de SHM in   kwestie kan verplichten het verbeterplan aan te passen of een vervroeging van de   eerstvolgende prestatiebeoordeling kan opleggen.<BR><BR>
+De bepalingen van dit besluit zijn van toepassing op SHM's waarvan de erkenning werd verleend voor de datum van inwerkingtreding van dit besluit, hetzij overeenkomstig het decreet van 21 december 1988 houdende oprichting van een Vlaamse Huisvestingsmaatschappij, hetzij overeenkomstig de Vlaamse Wooncode, met dien verstande dat :<br>
+1° de erkenning als SHM geldt tot op de datum waarop de minister een beslissing neemt over de maatregelen die aan de eerste prestatiebeoordeling van een SHM verbonden worden, en uiterlijk tot 31 december 2020;<br>
+2° ...;<br>
+3° ...;<br>
+4° de SHM's hun statuten binnen een termijn van twa alf maanden, die ingaat op de dag na de datum van inwerkingtreding van dit besluit, in overeenstemming moeten brengen met de modelstatuten, vermeld in artikel 7, § 1 of § 2;<br>
+5° de visitatiecommissie bij de eerste prestatiebeoordeling van een SHM in afwijking van artikel 28, § 1, tweede lid, 4°, voor elk van de operationele doelstellingen enkel een beoordeling `zeer goed', `goed' of `voor verbetering vatbaar' kan geven;<br>
+6° als de minister het verbeterplan dat een SHM moet opmaken tengevolge van de eerste prestatiebeoordeling, als niet voldoende of niet haalbaar beschouwt, hij in afwijking van artikel 33, § 2, derde lid, de SHM in kwestie kan verplichten het verbeterplan aan te passen of een vervroeging van de eerstvolgende prestatiebeoordeling kan opleggen.<br>
+&nbsp;
 
 ### ART. 36.
 
