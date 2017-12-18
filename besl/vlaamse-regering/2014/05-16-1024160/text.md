@@ -78,7 +78,21 @@ De raad van bestuur is bevoegd voor het afsluiten van een   groepsverzekering vo
 
 ### ART. 15.
 
-<P>§ 1. De raad van bestuur neemt een beslissing over de aankoop of financiële   huur (lease) van een bedrijfswagen voor de directeur overeenkomstig de   bepalingen van dit artikel.<BR></P>  <P>De reële aankoopprijs voor de bedrijfswagen bedraagt maximaal 30.000 euro   inclusief btw en inclusief het gedeelte dat door de overname van een vorige   wagen wordt gefinancierd. De financiële huur (lease) van de bedrijfswagen is   afgestemd op hetzelfde maximumbedrag en heeft een maximale kost van 700€ per   maand, inclusief onderhoud en verzekering. De vermelde bedragen worden jaarlijks   op 1 januari geactualiseerd op basis van de gezondheidsindex van de maand   december, vertrekkend van het indexcijfer 100 voor het jaar 2013 (basis   2013).<BR></P>  <P>§ 2. Terug te betalen professionele onkosten van de directeur moeten   gerechtvaardigd zijn voor de uitoefening van de functie en moeten steeds worden   verantwoord met bewijsstukken. Voor verplaatsingen met de eigen wagen zijn   verklaringen op eer toegelaten.<BR></P>  <P>In afwijking van het eerste lid kunnen forfaitaire vergoedingen en premies   worden toegekend die zijn afgesproken binnen het sociaal overleg tussen   werkgever en werknemer en kunnen forfaitaire vergoedingen worden toegekend voor   professionele onkosten, zoals voor het gebruik van telefonie, internet en   openbaar vervoer, overeenkomstig het daarover door de raad van bestuur   vastgelegd kostenbeleid.</P>
+<p>§ 1. De raad van bestuur neemt een beslissing over de aankoop of financiële huur (lease) van een bedrijfswagen voor de directeur overeenkomstig de bepalingen van dit artikel.</p>
+
+<p>De reële aankoopprijs voor een bedrijfswagen bedraagt maximaal 25.000 euro, in voorkomend geval verhoogd met de overname waarde van een vorige bedrijfswagen die minimaal vijf jaar in gebruik genomen is. De financiële huur (lease) van een bedrijfswagen is afgestemd op hetzelfde maximumbedrag en heeft een maximale kostprijs van 580 euro per maand, inclusief onderhoud en verzekering.<br>
+<br>
+In afwijking van het tweede lid bedraagt de reële aankoopprijs maximaal 30.000 euro en bedraagt de maximale kostprijs voor de financiële huur maximaal 660 euro per maand voor een bedrijfswagen die uitsluitend aangedreven wordt door een elektrische motor of waterstof, of waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk, aangedreven wordt met aardgas of die een plug-in hybridevoertuig is.<br>
+<br>
+In het derde lid wordt verstaan onder plug-in hybride voertuig: een plug-in hybridevoertuig als vermeld in artikel 2.2.6.0.7, eerste lid, 2°, van de Vlaamse Codex Fiscaliteit van 13 december 2013.<br>
+<br>
+In geval van een beslissing tot aankoop of inhuurname van een voertuig waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk, aangedreven wordt met aardgas of een plug-in hybride voertuig, dient de raad van bestuur de keuze te motiveren vanuit de afweging van energie-efficiëntie. De beslissing dient tegelijk te voorzien in de invoering van een wagenreglement dat toelaat het gebruik van het plug-in hybride voertuig te monitoren wat betreft energieverbruik en rij- en laadgedrag.<br>
+<br>
+Alle bedragen, vermeld in dit artikel, zijn exclusief btw en worden jaarlijks op 1 januari geactualiseerd op basis van de gezondheidsindex van de maand december, vertrekkend van het indexcijfer 100 voor het jaar 2013 (basis 2013)</p>
+
+<p>§ 2. Terug te betalen professionele onkosten van de directeur moeten gerechtvaardigd zijn voor de uitoefening van de functie en moeten steeds worden verantwoord met bewijsstukken. Voor verplaatsingen met de eigen wagen zijn verklaringen op eer toegelaten.</p>
+
+<p>In afwijking van het eerste lid kunnen forfaitaire vergoedingen en premies worden toegekend die zijn afgesproken binnen het sociaal overleg tussen werkgever en werknemer en kunnen forfaitaire vergoedingen worden toegekend voor professionele onkosten, zoals voor het gebruik van telefonie, internet en openbaar vervoer, overeenkomstig het daarover door de raad van bestuur vastgelegd kostenbeleid.</p>
 
 ## HOOFDSTUK 4. De presentiegelden voor de leden van de beheersorganen en de onkostenvergoeding voor de leden van de beraadslagende vergaderingen
 
