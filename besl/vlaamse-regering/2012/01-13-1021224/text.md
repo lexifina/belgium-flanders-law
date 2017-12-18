@@ -63,15 +63,34 @@ Nadat hij de minister daarvan op de hoogte gebracht heeft, kan de raad van   bes
 
 ### ART. 7.
 
-§ 1. Er wordt een korting toegekend op de totale beheersvergoeding die een   sociale woonactor voor een werkingsjaar heeft betaald, zonder rekening te houden   met de verrekening van de marge op leningen die de VMSW verstrekt volgens   artikel 11, § 2, eerste lid,&nbsp;van het Financieringsbesluit, vermeld in   afdeling 5 van dit hoofdstuk.<BR><BR>De korting wordt berekend door op de   effectief betaalde beheersvergoeding, vermeld in het eerste lid, de volgende   percentages toe te passen :<BR>1° 0 % op de schijf van 0,01 euro tot 50.000   euro;<BR>2° 10 % op de schijf van 50.000,01 euro tot 100.000 euro;<BR>3° 20 % op   de schijf boven 100.000 euro.<BR><BR>§ 2. De korting wordt verrekend bij de   vaststelling van het voorschot op de vergoeding voor de ondersteuning van   verhuuractiviteiten voor het jaar dat volgt op dat werkingsjaar, vermeld in   afdeling 2.<BR><BR>Als ingevolge de toepassing van het eerste lid een saldo   overblijft, wordt dat saldo in mindering gebracht van de eerstvolgende   vergoedingen voor leningen volgens artikel 11, § 2, eerste lid,&nbsp;van het   Financieringsbesluit, vermeld in afdeling 1 van dit hoofdstuk, tot het einde van   het tweede jaar dat volgt op het werkingsjaar.<BR><BR>Als ingevolge de   toepassing van het eerste en het tweede lid een saldo overblijft, wordt het   resterende bedrag van de korting integraal teruggestort naar de sociale   woonactor na de definitieve verrekening van het saldo van de definitieve GSC   voor het werkingsjaar met het voorschot op de GSC voor het volgende   werkingsjaar, vermeld in artikel 28, § 2, tweede lid, van het   Financieringsbesluit.<BR><BR>§ 3. In afwijking van paragraaf 1 en paragraaf 2   wordt de korting beperkt tot het bedrag dat overeenstemt met de totale   overeenkomstig artikel 2 vastgestelde beheersvergoeding die de sociale woonactor   voor het werkingsjaar heeft betaald, na verrekening van de marge op leningen die   de VMSW verstrekt volgens artikel 11, § 2, eerste lid,&nbsp;van het   Financieringsbesluit, vermeld in afdeling 5 van dit hoofdstuk, voor dat   werkingsjaar.<BR><BR>
+§ 1. Er wordt een korting toegekend op de totale beheersvergoeding die een sociale woonactor voor een werkingsjaar heeft betaald, zonder rekening te houden met de verrekening van de marge op leningen die de VMSW verstrekt volgens artikel 11, § 2, eerste lid,&nbsp;van het Financieringsbesluit, vermeld in afdeling 5 van dit hoofdstuk.<br>
+<br>
+De korting wordt berekend door op de effectief betaalde beheersvergoeding, vermeld in het eerste lid, de volgende percentages toe te passen :<br>
+1° 0 % op de schijf van 0,01 euro tot 50.000 euro;<br>
+2° 10 % op de schijf van 50.000,01 euro tot 100.000 euro;<br>
+3° 20 % op de schijf boven 100.000 euro.<br>
+<br>
+§ 2. De korting wordt verrekend bij de vaststelling van het voorschot op de vergoeding voor de ondersteuning van verhuuractiviteiten voor het jaar dat volgt op dat werkingsjaar, vermeld in afdeling 2.<br>
+<br>
+Als ingevolge de toepassing van het eerste een saldo overblijft, wordt het resterende bedrag van de korting integraal teruggestort naar de sociale woonactor.<br>
+<br>
+§ 3. In afwijking van paragraaf 1 en paragraaf 2 wordt de korting beperkt tot het bedrag dat overeenstemt met de totale overeenkomstig artikel 2 vastgestelde beheersvergoeding die de sociale woonactor voor het werkingsjaar heeft betaald, na verrekening van de marge op leningen die de VMSW verstrekt volgens artikel 11, § 2, eerste lid,&nbsp;van het Financieringsbesluit, vermeld in afdeling 5 van dit hoofdstuk, voor dat werkingsjaar.<br>
+&nbsp;
 
 ## Afdeling 5 [Verrekening van de marge op de leningen die de VMSW verstrekt conform artikel 11, § 2, eerste lid, van het Financieringsbesluit van 21 december 2012, en op de NFS2-leningen die SHM's bij de VMSW gesloten hebben (verv. BVR 24 januari 2014, art. 11, I: 1 januari 2012)]
 
 ### ART. 8.
 
-Als de VMSW overeenkomstig artikel 3 in een werkingsjaar een marge   aanrekent op leningen die zij verstrekt&nbsp;conform artikel 11, § 2, eerste   lid, van het Financieringsbesluit van 21 december 2012, of op leningen die ze   heeft verstrekt met toepassing van het besluit van de Vlaamse Regering van 12   oktober 2007, vermeld in artikel 81, 1°, van het Financieringsbesluit van 21   december 2012, wordt het bedrag dat overeenstemt met de marge op de lening, in   mindering gebracht van de vergoeding voor de ondersteuning van   verhuuractiviteiten, vermeld in afdeling 2 van dit hoofdstuk, voor het jaar dat   volgt op dat werkingsjaar.<BR><BR>Als ingevolge de toepassing van het eerste lid   een saldo overblijft, wordt dat saldo in mindering gebracht van de eerstvolgende   vergoedingen voor verstrekte leningen&nbsp;vermeld in afdeling 1 van dit   hoofdstuk, na toepassing van de vermindering, vermeld in artikel 7, § 2, tweede   lid.<BR><BR>
+Als de VMSW overeenkomstig artikel 3 in een werkingsjaar een marge aanrekent op leningen die zij verstrekt&nbsp;conform artikel 11, § 2, eerste lid, van het Financieringsbesluit van 21 december 2012, of op leningen die ze heeft verstrekt met toepassing van het besluit van de Vlaamse Regering van 12 oktober 2007, vermeld in artikel 81, 1°, van het Financieringsbesluit van 21 december 2012, wordt het bedrag dat overeenstemt met de marge op de lening, in mindering gebracht van de vergoeding voor de ondersteuning van verhuuractiviteiten, vermeld in afdeling 2 van dit hoofdstuk, voor het jaar dat volgt op dat werkingsjaar.<br>
+&nbsp;
 
 ## [Afdeling 6 Berekening van de beheersvergoeding bij herstructureringen (ing. BVR 27 oktober 2017, art. 18, I: 18 december 2017)]
+
+### ART 8/1.
+
+In geval van een fusie van twee of meer SHM's, een herstructurering door splitsing of bij inbreng van een bedrijfstak of een algemeenheid in een SHM, wordt de beheersvergoeding voor het werkingsjaar waarin de fusie, splitsing of inbreng plaatsvindt, ongeacht de datum van de boekhoudkundige retroactiviteit, met ingang van 1 januari van dat werkingsjaar berekend door de betrokken verrichtingen van alle vennootschappen of delen van vennootschappen samen te voegen op basis van de vennootschappen die ontstaan na de fusie, splitsing of inbreng. De verrichtingen worden in geval van een splitsing of inbreng verdeeld op basis van de verdeling van het vermogen die in de splitsings- of inbrengakte is bepaald.<br>
+<br>
+Voor de werkingsjaren die de fusie voorafgaan, worden de beheersvergoeding en eventuele latere correcties daarop berekend voor de afzonderlijke vennootschappen, zonder onderlinge verrekening. De resulterende bedragen komen ten goede van, of zijn verschuldigd door de fusievennootschap, en worden in geval van een splitsing of inbreng verdeeld op basis van de verdeling van het vermogen die in de splitsings- of inbrengakte is bepaald
 
 ## HOOFDSTUK 3 Het Fonds voor de Financiering van de VMSW
 
