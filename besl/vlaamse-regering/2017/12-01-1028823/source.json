@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028823,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-01 tot aanpassing van de regelgeving betreffende het vervoer van gevaarlijke goederen over de weg aan de wetenschappelijke en technische vooruitgang",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028823/VolledigDocument?datum=2017-12-18",
+  "source_sha256": "be7292111abc2cfe644a304cad3bd46b8b8ed1b9c03049b4f5c0dc587f06ea26",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028823&param=informatie",
+  "as_of": "2017-12-18",
+  "made": "2017-12-01",
+  "gazette": "2017-12-18",
+  "numac": 2017014274,
+  "document_start": "2017-12-18",
+  "document_end": null,
+  "in_force": "2017-12-18",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2017-12-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
