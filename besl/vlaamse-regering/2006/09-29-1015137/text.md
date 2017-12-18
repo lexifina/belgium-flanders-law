@@ -113,7 +113,7 @@ Als het inkomen minder dan 8789 euro bedraagt, worden de inkomsten, vermeld in a
 <br>
 § 2. De bedragen, vermeld in paragraaf 1 worden jaarlijks op 1 januari aangepast aan de evolutie van de gezondheidsindex (basis 2004) naar het gezondheidsindexcijfer van de maand juni van het voorgaande jaar met als basis het gezondheidsindexcijfer van 119 voor juni 2012. Het resultaat wordt afgerond naar het eerstvolgende natuurlijke getal.<br>
 <br>
-§ 3. ...<br>
+§ 3. Met betrekking tot de verkoop van sociale huurwoningen met toepassing van artikel 43 van de Vlaamse Wooncode, zoals van kracht vóór 24 april 2017, wordt de kandidaat-koper beschouwd als woonbehoeftig als hij voldoet aan de voorwaarden, vermeld in artikel 43, § 1, eerste lid, 3°, van de Vlaamse Wooncode, zoals van kracht vóór 24 april 2017.<br>
 <br>
 § 4. Met betrekking tot&nbsp;de vrijwillige verkoop van sociale huurwoningen aan de zittende huurder wordt de kandidaat-koper beschouwd als woonbehoeftig als hij&nbsp;en zijn gezinsleden op de referentiedatum geen woning of een perceel dat bestemd is voor woningbouw volledig of gedeeltelijk&nbsp;in volle eigendom of volledig in vruchtgebruik heeft en geen zaakvoerder, bestuurder of aandeelhouder is van een vennootschap waarin hij een woning of een perceel dat bestemd is voor woningbouw, heeft ingebracht.<br>
 <br>
@@ -141,17 +141,19 @@ De uitzonderingsregel bepaald in deze paragraaf kan slechts eenmaal voor dezelfd
 <br>
 § 7. ...<br>
 <br>
-§ 8. Voor de toepassing van artikel 52 van het Wetboek van Registratie-, Hypotheek- en Griffierechten wordt de particulier die voldoet aan de voorwaarden, vermeld in dit artikel, beschouwd als de persoon die recht heeft op de aankooppremie, voor zover hij overgaat tot de aankoop van een sociale koopwoning of een sociale huurwoning.
+§ 8. ...
 
 ### ART 3/1.
 
-De verkoopprijs van een sociale koopwoning, exclusief btw, met inbegrip van de grond, is gelijk aan het verschil tussen de venale waarde van de sociale koopwoning, met inbegrip van de grond, en, in voorkomend geval, de som van de subsidie, vermeld in artikel 3, § 2, van het Financieringsbesluit van 21 december 2012, en de door de verkoper toegestane korting.<br>
+De verkoopprijs van een sociale koopwoning, exclusief btw, met inbegrip van de grond, is gelijk aan het verschil tussen de venale waarde van de sociale koopwoning, met inbegrip van de grond, en, in voorkomend geval, de som van de subsidie, vermeld in artikel 64 van de Vlaamse Wooncode, en de door de verkoper toegestane korting.<br>
 <br>
 De verkoopprijs van een sociale kavel is gelijk aan het verschil tussen de venale waarde van de sociale kavel en de door de verkoper toegestane korting.<br>
 <br>
-Als de grond in erfpacht wordt gegeven, bepaalt de erfpachtgever de erfpachtvergoeding en is de verkoopprijs van de woning, exclusief btw, gelijk aan het verschil tussen de venale waarde van de sociale koopwoning, en, in voorkomend geval, de som van de subsidie, vermeld in artikel 3, § 2, van het Financieringsbesluit van 21 december 2012, en de door de verkoper toegestane korting.<br>
+Als de grond in erfpacht wordt gegeven, bepaalt de erfpachtgever de erfpachtvergoeding en is de verkoopprijs van de woning, exclusief btw, gelijk aan het verschil tussen de venale waarde van de sociale koopwoning, en, in voorkomend geval, de som van de subsidie, vermeld in artikel 64 van de Vlaamse Wooncode, en de door de verkoper toegestane korting.<br>
 <br>
-Als in de erfpachtovereenkomst waarbij de grond in erfpacht wordt gegeven, een aankoopoptie is opgenomen, is de prijs voor het lichten van de optie ofwel gelijk aan de venale waarde van de grond op het ogenblik van het sluiten van de erfpachtovereenkomst ofwel gelijk aan de venale waarde van de grond bij het lichten van de aankoopoptie ofwel gelijk aan een bedrag tussen die twee venale waarden.
+Als in de erfpachtovereenkomst waarbij de grond in erfpacht wordt gegeven, een aankoopoptie is opgenomen, is de prijs voor het lichten van de optie ofwel gelijk aan de venale waarde van de grond op het ogenblik van het sluiten van de erfpachtovereenkomst ofwel gelijk aan de venale waarde van de grond bij het lichten van de aankoopoptie ofwel gelijk aan een bedrag tussen die twee venale waarden.<br>
+<br>
+Als de subsidie, vermeld in het eerste en derde lid, niet kan worden bepaald vóór de tekoopstelling van de sociale koopwoning, wordt de geraamde subsidie in mindering gebracht.
 
 ### ART. 4.
 
@@ -498,11 +500,11 @@ HOOFDSTUK 1. - Sociale koopwoningen<br>
 <br>
 Artikel 1. De koper leeft de verplichtingen, vermeld in artikel 84 van de Vlaamse Wooncode, na. Minstens een van de personen die de sociale koopwoning hebben gekocht, of een van de wettelijke erfgenamen woont persoonlijk in de woning.<br>
 <br>
-De koper die de verplichtingen niet naleeft, betaalt een vergoeding die gelijk is aan het resterende gedeelte van de subsidie, vermeld in artikel 3, § 2, van het Financieringsbesluit van 21 december 2012, die in mindering is gebracht om de verkoopprijs te bepalen. Die subsidie wordt gedurende twintig jaar afgeschreven met een twintigste van het oorspronkelijke bedrag van de subsidie. Het bedrag van de verschuldigde vergoeding wordt voor ieder jaar in de authentieke akte vermeld.<br>
+De koper die de verplichtingen niet naleeft, betaalt een vergoeding die gelijk is aan het resterende gedeelte van de subsidie, vermeld in artikel 64 van de Vlaamse Wooncode, die in mindering is gebracht om de verkoopprijs te bepalen. Die subsidie wordt gedurende twintig jaar afgeschreven met een twintigste van het oorspronkelijke bedrag van de subsidie. Het bedrag van de verschuldigde vergoeding wordt voor ieder jaar in de authentieke akte vermeld.<br>
 <br>
 Als de verkoper een korting als vermeld in artikel 3/1 van dit besluit, heeft toegestaan en de koper leeft de verplichtingen, vermeld in het eerste lid, niet na, geldt de volgende regeling. Als de verkoopprijs, minder dan 90% van de venale waarde van de sociale koopwoning bedroeg, betaalt de koper een vergoeding aan de verkoper. De vergoeding bedraagt minstens de helft van het resterende gedeelte van het verschil tussen 90% van de venale waarde en de verkoopprijs, van de sociale koopwoning, als die vergoeding gedurende twintig jaar elk jaar wordt afgeschreven met een twintigste van het oorspronkelijke bedrag. Als de verkoopprijs, 90% of meer bedroeg van de venale waarde van de sociale koopwoning, kan de verkoper een vergoeding vragen die maximaal gelijk is aan het resterende gedeelte van het verschil tussen de venale waarde en de verkoopprijs, van de sociale koopwoning, als die vergoeding gedurende twintig jaar elk jaar wordt afgeschreven met een twintigste van het oorspronkelijke bedrag. Het bedrag van de verschuldigde vergoeding wordt voor ieder jaar in de authentieke akte vermeld.<br>
 <br>
-In de verkoopprijs, vermeld in het derde lid, wordt de btw niet inbegrepen maar in voorkomend geval wel de subsidie, vermeld in artikel 3, § 2, van het Financieringsbesluit van 21 december 2012.<br>
+In de verkoopprijs, vermeld in het derde lid, wordt de btw niet inbegrepen maar in voorkomend geval wel de subsidie, vermeld in artikel 64 van de Vlaamse Wooncode.<br>
 <br>
 Art. 2. ...<br>
 <br>
