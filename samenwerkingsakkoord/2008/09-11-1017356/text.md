@@ -8,19 +8,51 @@ Gelet op artikel 92bis, § 1, van de bijzondere wet tot hervorming der instellin
 
 ### ART. 1.
 
-De partijen bij dit akkoord beslissen de Belgische industrie hun steun te verlenen in de productie en ontwikkeling van onderdelen voor de vliegtuigen AIRBUS A350 XWB door er in het bijzonder over te waken dat de ondernemingen over financiële middelen beschikken die hen in staat stellen de onderzoeks- en ontwikkelingsactiviteiten tot een goed einde te brengen. De Federale overheid zal hieraan bijdragen tot minimum 150 miljoen euro door het toekennen van terugvorderbare voorschotten in overeenstemming met de Europese regelgeving, zodat het risico verbonden aan het industrieel onderzoek en experimentele ontwikkeling van de nieuwe producten, onderdelen en vliegtuigen gedeeld wordt.<br /><br />
+De partijen bij dit akkoord beslissen de Belgische industrie hun steun te verlenen in de productie en ontwikkeling van onderdelen voor de vliegtuigen AIRBUS A350 XWB door er in het bijzonder over te waken dat de ondernemingen over financiële middelen beschikken die hen in staat stellen de onderzoeks- en ontwikkelingsactiviteiten tot een goed einde te brengen. De Federale overheid zal hieraan bijdragen tot minimum 150 miljoen euro door het toekennen van terugvorderbare voorschotten in overeenstemming met de Europese regelgeving, zodat het risico verbonden aan het industrieel onderzoek en experimentele ontwikkeling van de nieuwe producten, onderdelen en vliegtuigen gedeeld wordt.<br>
+<br>
+De Federale overheid stelt een bijkomend budget ter beschikking van 45 miljoen euro teneinde steun te verlenen aan de deelname van de Belgische industrie in de ontwikkeling en productie van vliegtuigen uit het Airbus-gamma.<br>
+&nbsp;
 
 ## HOOFDSTUK II Financiering van de werkzaamheden in het kader van dit samenwerkingsakkoord
 
 ### ART. 2.
 
-Tegemoetkoming van de Federale overheid.<br /><br />De Federale overheid heeft op 14 oktober 2005, 18 maart 2007 en tijdens het begrotingsconclaaf van 29 februari 2008 besloten een enveloppe van 150 miljoen euro ter beschikking te stellen ter financiering van de onderzoeksactiviteiten van de Belgische ondernemingen in het kader van het A350 XWB-ontwikkelingsprogramma.<br /><br />Die tussenkomst is berekend op basis van een raming die in samenwerking met de industrie werd uitgevoerd en ze zal worden uitgekeerd door de Federale overheid in functie van de voortgang van het programma, de projecten die door de industrie worden ingediend bij het Federaal Luchtvaartplatform en door deze worden aanvaard na advies van het Stuurcomité. De tussenkomst van 150 miljoen euro zal worden gebruikt voor de financiering van de onderzoeks- en ontwikkelingsuitgaven in het kader van het Airbusprogramma A350 XWB. <br /><br />De tussenkomst zal geschieden onder de vorm van steunmaatregelen die terugbetaalbaar zijn aan de Federale overheid volgens de Europese regelgeving ten voordele van elk bedrijf dat aantoont dat zij een redelijke kans op slagen heeft om als leverancier voor de A350 XWB geselecteerd te worden, aan de hand van een contract of een officiële intentieverklaring tussen Airbus of zijn onderaannemer en de Belgische firma.<br /><br />De tussenkomst aan de verschillende rechthebbende ondernemingen zal gebeuren op basis van een onderzoek door het Federaal Luchtvaartplatform van de contracten of de officiële intentieverklaringen, van de maximale tussenkomst toegestaan overeenkomstig de heersende Europese regelgeving en door middel van een overeenkomst afgesloten tussen de Federale overheid en de rechthebbende onderneming. <br /><br />60 % van de enveloppe van 150 miljoen euro voor de A350 XWB, dit is 90 miljoen euro, worden onmiddellijk vrijgemaakt en ter beschikking van de industrieën gesteld volgens een verdeling 50 % voor bedrijven met exploitatiezetel in het Vlaamse Gewest en 50 % voor bedrijven met exploitatiezetel in het Brusselse en Waalse Gewest. <br /><br />Het resterende saldo van 28 miljoen euro op het budget van het A380 programma zal ter beschikking van de industrieën worden gesteld volgens een verdeling 60 % voor bedrijven met exploitatiezetel in het Vlaamse Gewest en 40 % voor bedrijven met exploitatiezetel in het Brusselse en Waalse Gewest voor de programma's A350 XWB/A400M/A380.<br /><br />Het resterende saldo van 40 % van de enveloppe van 150 miljoen euro voor de A350 XWB, dit is 60 miljoen euro, zal, als de oorspronkelijke enveloppe volledig is opgenomen door ten minste één van de Gewesten, worden toegewezen naargelang van de ingediende projecten bij het Federaal Luchtvaartplatform en rekening houdend met een verdeling volgens welke 56 % van dit bedrag naar bedrijven met exploitatiezetel in het Vlaamse Gewest gaat en het saldo naar de bedrijven met exploitatiezetel in de twee andere Gewesten.<br /><br />De financiering van de NRC's die door een onderneming worden gedragen en die contractueel een recurrent omzetcijfer tijdens de duur van het A350 XWB-programma genereren in een ander Gewest van het land, wordt automatisch aangerekend op het budget van het Gewest dat van deze activiteit profiteert en dit naar rata van deze activiteit in verhouding tot het totale recurrente omzetcijfer dat door het betrokken contract wordt gegenereerd. De bedragen voor de financiering van NRC's die zo aan een ander Gewest worden aangerekend mogen niet meer dan 10 % van de globale enveloppe van dit Gewest bedragen.<br /><br />De NRC's gekoppeld aan het A400M-programma die niet, of niet volledig, gedekt zijn door contracten die door Airbus Military of zijn toeleveranciers aan Belgische partners zijn toegekend, zullen aangerekend worden op het saldo van het budget van de A380.<br /><br />Mocht tijdens de uitvoering van het A350 XWB-programma blijken dat de op die manier bekomen enveloppe onvoldoende is, zal de Federale overheid de mogelijkheid onderzoeken om een bijkomende tussenkomst te voorzien en dit in het licht van een maximale deelname van de Belgische industrie aan het programma A350 XWB.<br /><br />
+Tegemoetkoming van de Federale overheid.<br>
+<br>
+De Federale overheid heeft op 14 oktober 2005, 18 maart 2007 en tijdens het begrotingsconclaaf van 29 februari 2008 besloten een enveloppe van 150 miljoen euro ter beschikking te stellen ter financiering van de onderzoeksactiviteiten van de Belgische ondernemingen in het kader van het A350 XWB-ontwikkelingsprogramma.<br>
+<br>
+Die tussenkomst is berekend op basis van een raming die in samenwerking met de industrie werd uitgevoerd en ze zal worden uitgekeerd door de Federale overheid in functie van de voortgang van het programma, de projecten die door de industrie worden ingediend bij het Federaal Luchtvaartplatform en door deze worden aanvaard na advies van het Stuurcomité. De tussenkomst van 150 miljoen euro zal worden gebruikt voor de financiering van de onderzoeks- en ontwikkelingsuitgaven in het kader van het Airbusprogramma A350 XWB.<br>
+<br>
+De tussenkomst zal geschieden onder de vorm van steunmaatregelen die terugbetaalbaar zijn aan de Federale overheid volgens de Europese regelgeving ten voordele van elk bedrijf dat aantoont dat zij een redelijke kans op slagen heeft om als leverancier voor de A350 XWB geselecteerd te worden, aan de hand van een contract of een officiële intentieverklaring tussen Airbus of zijn onderaannemer en de Belgische firma.<br>
+<br>
+De tussenkomst aan de verschillende rechthebbende ondernemingen zal gebeuren op basis van een onderzoek door het Federaal Luchtvaartplatform van de contracten of de officiële intentieverklaringen, van de maximale tussenkomst toegestaan overeenkomstig de heersende Europese regelgeving en door middel van een overeenkomst afgesloten tussen de Federale overheid en de rechthebbende onderneming.<br>
+<br>
+60 % van de enveloppe van 150 miljoen euro voor de A350 XWB, dit is 90 miljoen euro, worden onmiddellijk vrijgemaakt en ter beschikking van de industrieën gesteld volgens een verdeling 50 % voor bedrijven met exploitatiezetel in het Vlaamse Gewest en 50 % voor bedrijven met exploitatiezetel in het Brusselse en Waalse Gewest.<br>
+<br>
+Het resterende saldo van 28 miljoen euro op het budget van het A380 programma zal ter beschikking van de industrieën worden gesteld volgens een verdeling 60 % voor bedrijven met exploitatiezetel in het Vlaamse Gewest en 40 % voor bedrijven met exploitatiezetel in het Brusselse en Waalse Gewest voor de programma's A350 XWB/A400M/A380.<br>
+<br>
+Het resterende saldo van 40 % van de enveloppe van 150 miljoen euro voor de A350 XWB, dit is 60 miljoen euro, zal, als de oorspronkelijke enveloppe volledig is opgenomen door ten minste één van de Gewesten, worden toegewezen naargelang van de ingediende projecten bij het Federaal Luchtvaartplatform en rekening houdend met een verdeling volgens welke 56 % van dit bedrag naar bedrijven met exploitatiezetel in het Vlaamse Gewest gaat en het saldo naar de bedrijven met exploitatiezetel in de twee andere Gewesten.<br>
+<br>
+De financiering van de NRC's die door een onderneming worden gedragen en die contractueel een recurrent omzetcijfer tijdens de duur van het A350 XWB-programma genereren in een ander Gewest van het land, wordt automatisch aangerekend op het budget van het Gewest dat van deze activiteit profiteert en dit naar rata van deze activiteit in verhouding tot het totale recurrente omzetcijfer dat door het betrokken contract wordt gegenereerd. De bedragen voor de financiering van NRC's die zo aan een ander Gewest worden aangerekend mogen niet meer dan 10 % van de globale enveloppe van dit Gewest bedragen.<br>
+<br>
+De NRC's gekoppeld aan het A400M-programma die niet, of niet volledig, gedekt zijn door contracten die door Airbus Military of zijn toeleveranciers aan Belgische partners zijn toegekend, zullen aangerekend worden op het saldo van het budget van de A380.<br>
+<br>
+Mocht tijdens de uitvoering van het A350 XWB-programma blijken dat de op die manier bekomen enveloppe onvoldoende is, zal de Federale overheid de mogelijkheid onderzoeken om een bijkomende tussenkomst te voorzien en dit in het licht van een maximale deelname van de Belgische industrie aan het programma A350 XWB.<br>
+<br>
+De Federale overheid heeft op 20 oktober 2016 besloten een enveloppe van 45 miljoen euro ter beschikking te stellen ter financiering van de onderzoeks- en ontwikkelingsactiviteiten van de Belgische ondernemingen in het kader van de Airbus-programma's. Dit bijkomende budget van 45 miljoen euro is een maximum waarvoor geen verhoging is voorzien.<br>
+<br>
+Voor een tussenkomst die verleend wordt vanuit dit bijkomende budget van 45 miljoen euro, dient een bedrijf aan te tonen dat zij een redelijke kans op slagen heeft om als leverancier te worden geselecteerd voor een Airbus-programma.<br>
+<br>
+De totaliteit van de enveloppe van 45 miljoen euro voor de Airbus-programma's wordt onmiddellijk vrijgemaakt en ter beschikking van de industrieën gesteld volgens een verdeling van 33 miljoen euro voor bedrijven met exploitatiezetel in het Vlaams Gewest en van 12 miljoen euro voor bedrijven met exploitatiezetel in het Brussels-Hoofdstedelijk Gewest of in het Waals Gewest.<br>
+&nbsp;
 
 ## HOOFDSTUK III Opvolging van de participatie
 
 ### ART. 3.
 
-Stuurcomité.<br /><br />De opvolging en de coördinatie van de Belgische participatie aan het A350 XWB-programma zal door een Stuurcomité worden verzekerd dat zich bij unanimiteit van zijn leden zal uitspreken.<br /><br />
+Stuurcomité.<br>
+<br>
+De opvolging en de coördinatie van de Belgische participatie aan de Airbus-programma's zal door een Stuurcomité worden verzekerd dat zich bij unanimiteit van zijn leden zal uitspreken.
 
 ### ART. 4.
 
@@ -38,11 +70,11 @@ De Belgische Regering en de Gewestregeringen verbinden. er zich toe dat aan de r
 
 ### ART. 7.
 
-Wat de eventuele herbestemming van niet opgenomen budgetten betreft en over de indiening van aanvragen voor bijkomende budgetten zullen de industriëlen, via hun beroepsverenigingen, vooraf worden gehoord.<br /><br />
+Wat de eventuele herbestemming van niet opgenomen budgetten betreft zullen de industriëlen, via hun beroepsverenigingen, vooraf worden gehoord
 
 ### ART. 8.
 
-De partijen bij dit akkoord verbinden er zich toe om een amendement bij dit samenwerkingsakkoord te onderhandelen als zou blijken dat de A350 XWB-enveloppe onvoldoende is.<br /><br />
+De bepalingen van het onderhavige Samenwerkingsakkoord kunnen enkel worden gewijzigd door een door alle partijen getekend amendement.
 
 ### ART. 9.
 

@@ -2,16 +2,16 @@
   "codex_id": 1017356,
   "title": "Samenwerkingsakkoord van 2008-09-11 [met betrekking tot de tegemoetkoming van de Federale overheid in de deelname van de Belgische industrie aan de Airbus-programma's (verv. SA 19 december 2017, art. 1, I: 19 december 2019)]",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017356/VolledigDocument?datum=2008-09-11",
-  "source_sha256": "821935b89f60d6cc678dc981b5d0c07417547b191bcd91d463c217591bfa1808",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017356/VolledigDocument?datum=2017-12-19",
+  "source_sha256": "75cbb802d7b05e3b4fab842075bebfd8cd929cdc355b073986acda2e3959be3f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017356&param=informatie",
-  "as_of": "2008-09-11",
+  "as_of": "2017-12-19",
   "made": "2008-09-11",
   "gazette": "2008-12-11",
   "numac": 2008204466,
   "document_start": "2008-09-11",
   "document_end": null,
-  "in_force": "2008-09-11",
+  "in_force": "2017-12-19",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2008-09-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-12-19; future article versions excluded; article text as the API gives it"
 }
