@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028795,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-27 tot wijziging van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne en tot wijziging van artikel 3.7.10.2 van titel III van het VLAREM van 16 mei 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028795/VolledigDocument?datum=2017-12-21",
+  "source_sha256": "f1a31741d487d90b1f63eaf304fa3f88de9be8d1245bf429089b01f79729cd1a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028795&param=informatie",
+  "as_of": "2017-12-21",
+  "made": "2017-10-27",
+  "gazette": "2017-12-11",
+  "numac": 2017014210,
+  "document_start": "2017-12-21",
+  "document_end": null,
+  "in_force": "2017-12-21",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2017-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
