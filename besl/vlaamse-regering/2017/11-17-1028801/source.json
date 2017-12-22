@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028801,
+  "title": "Besluit van de Vlaamse Regering van 2017-11-17 houdende de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2017",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028801/VolledigDocument?datum=2017-12-22",
+  "source_sha256": "e5f52ae7ed5ea0e904630de40bb9338500238c1c4a781f0d91a8f5ccf78b8ba4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028801&param=informatie",
+  "as_of": "2017-12-22",
+  "made": "2017-11-17",
+  "gazette": "2017-12-12",
+  "numac": 2017031734,
+  "document_start": "2017-12-22",
+  "document_end": null,
+  "in_force": "2017-12-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-12-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
