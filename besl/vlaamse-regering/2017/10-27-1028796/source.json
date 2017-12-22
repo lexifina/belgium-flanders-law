@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028796,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-27 houdende de herverdeling van de begrotingsartikelen EB0-1EFG2AD-WT en EB0-1EEG2AA-PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2017 naar begrotingsartikel EB0-1EFG2AW-IS",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028796/VolledigDocument?datum=2017-12-22",
+  "source_sha256": "65861450e8430076e2e53fd7d742f410d6e26094ee97f2416308fbc73e9a5990",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028796&param=informatie",
+  "as_of": "2017-12-22",
+  "made": "2017-10-27",
+  "gazette": "2017-12-12",
+  "numac": 2017031736,
+  "document_start": "2017-12-22",
+  "document_end": null,
+  "in_force": "2017-12-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-12-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
