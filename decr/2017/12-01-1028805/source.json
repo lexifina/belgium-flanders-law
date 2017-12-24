@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028805,
+  "title": "Decreet van 2017-12-01 houdende instemming met het Samenwerkingsakkoord van 17 juli 2017 tussen het Vlaamse Gewest, het Waalse Gewest, het Brusselse Hoofdstedelijke Gewest en de Duitstalige Gemeenschap met betrekking tot de erkende plaatselijke geloofsgemeenschappen van de erkende erediensten, waarvan het grondgebied meer dan één deelstaat bestrijkt",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028805/VolledigDocument?datum=2017-12-24",
+  "source_sha256": "ea8427bbfe1bd38b931a1320055534767d79d88f37d72ea708af0c234e8eac7e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028805&param=informatie",
+  "as_of": "2017-12-24",
+  "made": "2017-12-01",
+  "gazette": "2017-12-14",
+  "numac": 2017031824,
+  "document_start": "2017-12-24",
+  "document_end": null,
+  "in_force": "2017-12-24",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-12-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
