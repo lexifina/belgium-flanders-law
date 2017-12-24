@@ -2,16 +2,16 @@
   "codex_id": 1028808,
   "title": "Decreet van 2017-12-08 houdende bepalingen tot verdere regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en voor het Vlaamse Gewest en de instellingen die eronder ressorteren, diverse fiscale bepalingen, en de overname van de dienst van de belasting op spelen en weddenschappen, de automatische ontspanningstoestellen en de openingsbelasting op slijterijen van gegiste dranken",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028808/VolledigDocument?datum=2017-12-01",
-  "source_sha256": "ffa5029988ba293041715f63388f43778d613853321187a2bc8e2ecbaeeb8b34",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028808/VolledigDocument?datum=2017-12-24",
+  "source_sha256": "68bf32240dc9de73874eaae16cb2691eea949060efe0cb2f75e1e3521e378169",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028808&param=informatie",
-  "as_of": "2017-12-01",
+  "as_of": "2017-12-24",
   "made": "2017-12-08",
   "gazette": "2017-12-14",
   "numac": 2017014300,
   "document_start": "2017-12-24",
   "document_end": null,
-  "in_force": "2017-12-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2017-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2017-12-24",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2017-12-24; future article versions excluded; article text as the API gives it"
 }
