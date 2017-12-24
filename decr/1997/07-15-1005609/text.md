@@ -20,6 +20,7 @@ b) de volgende afdelingen van organisaties voor de bijzondere jeugdzorg als bedo
 i. Proeftuin De Overstap als afdeling van vzw Vereniging voor Jeugdbijstand Wingerdbloei;<br>
 ii. De Switch als afdeling van De Wissel;<br>
 iii. Proeftuin JEZ11 als afdeling van de Vereniging Ons Tehuis voor Zuid-West-Vlaanderen;<br>
+iv. De Leemwinning als afdeling van vzw Emmaüs;<br>
 c) het Centrum voor voorlopige plaatsing van minderjarigen die een als misdrijf omschreven feit hebben gepleegd als bedoeld in artikel 2 van de wet van 1 maart 2002 betreffende de voorlopige plaatsing van minderjarigen die een als misdrijf omschreven feit hebben gepleegd;<br>
 d) de Vlaamse detentiecentra als bedoeld in artikel 2, 22°, van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand.
 
