@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028813,
+  "title": "Besluit van de Vlaamse Regering van 2017-11-17 houdende de goedkeuring van het intern reglement van de raad van bestuur van het Vlaams Agentschap voor Internationaal Ondernemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028813/VolledigDocument?datum=2017-12-24",
+  "source_sha256": "0e7cf155137079b21395eae111e75080f12671f6c863594ece5767369863986b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028813&param=informatie",
+  "as_of": "2017-12-24",
+  "made": "2017-11-17",
+  "gazette": "2017-12-14",
+  "numac": 2017031685,
+  "document_start": "2017-12-24",
+  "document_end": null,
+  "in_force": "2017-12-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2017-12-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
