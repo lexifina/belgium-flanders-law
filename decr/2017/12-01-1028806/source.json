@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028806,
+  "title": "Decreet van 2017-12-01 houdende wijziging van het decreet van 15 juli 1997 houdende oprichting van een Kinderrechtencommissariaat en instelling van het ambt van Kinderrechtencommissaris",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028806/VolledigDocument?datum=2017-12-24",
+  "source_sha256": "9a197dae951ab47f413b3d397a3272cae4d7df867f2c0c1054f696179bbf17c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028806&param=informatie",
+  "as_of": "2017-12-24",
+  "made": "2017-12-01",
+  "gazette": "2017-12-14",
+  "numac": 2017031825,
+  "document_start": "2017-12-24",
+  "document_end": null,
+  "in_force": "2017-12-24",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2017-12-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
