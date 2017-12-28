@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028848,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-20 houdende wijziging van het Energiebesluit van 19 november 2010, wat betreft een vergoeding voor de uitvoering van de openbaredienstverplichtingen vermeld in artikel 7.1.6 en 7.1.7 van het Energiedecreet van 8 mei 2009",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028848/VolledigDocument?datum=2017-12-28",
+  "source_sha256": "119d7d86e2c92aba3fd52d7b864e46db1aa933c76158c4907fb213655eb8436d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028848&param=informatie",
+  "as_of": "2017-12-28",
+  "made": "2017-12-20",
+  "gazette": "2017-12-28",
+  "numac": 2017014371,
+  "document_start": "2017-12-28",
+  "document_end": null,
+  "in_force": "2017-12-28",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2017-12-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
