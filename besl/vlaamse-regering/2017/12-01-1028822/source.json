@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028822,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-01 tot wijziging van artikel 63, § 2, 1°, van het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het decreet van 22 november 2013 betreffende de lokale diensteneconomie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028822/VolledigDocument?datum=2017-12-28",
+  "source_sha256": "65e2163689a60e34dbd7a9ff58bb060dbad397f05bc25ba9f0d5af75e2eba55c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028822&param=informatie",
+  "as_of": "2017-12-28",
+  "made": "2017-12-01",
+  "gazette": "2017-12-18",
+  "numac": 2017014273,
+  "document_start": "2017-12-28",
+  "document_end": null,
+  "in_force": "2017-12-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2017-12-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
