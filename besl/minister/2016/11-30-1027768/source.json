@@ -2,16 +2,16 @@
   "codex_id": 1027768,
   "title": "Ministerieel besluit van 2016-11-30 houdende de uitbetalingsregels voor de vergoedingen voor de opkoop van groenestroomcertificaten door de elektriciteitsdistributienetbeheerders, vermeld in artikel 6.4.14/2 van het Energiebesluit van 19 november 2010",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027768/VolledigDocument?datum=2017-01-23",
-  "source_sha256": "d506205f184f2db4c55dbbba855031fba6035966d0c3dcf0d8c842a18ad7053b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027768/VolledigDocument?datum=2017-12-28",
+  "source_sha256": "043ba683e7879a85bbe879714de16220cb02e150b5eb381b19d382db904ee13d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027768&param=informatie",
-  "as_of": "2017-01-23",
+  "as_of": "2017-12-28",
   "made": "2016-11-30",
   "gazette": "2017-01-23",
   "numac": 2017030072,
   "document_start": "2017-01-23",
   "document_end": "2017-12-27",
-  "in_force": "2017-01-23",
+  "in_force": "2017-12-28",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2017-01-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-12-28; future article versions excluded; article text as the API gives it"
 }
