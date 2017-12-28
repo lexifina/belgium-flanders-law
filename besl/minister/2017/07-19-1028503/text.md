@@ -28,8 +28,8 @@ Besluit :
 
 ### ART 1.
 
-De voor het kalenderjaar 2017 beschikbare middelen vanuit het Energiefonds, opgericht op grond van artikel 3.2.1. van het Energiedecreet van 8 mei 2009 als een begrotingsfonds in zin van artikel 12 van het Rekendecreet, bedragen maximaal 165 miljoen euro voor de volgens artikel 6.4.14/2 van het Energiebesluit van 19 november 2010 te betalen vergoedingen aan de elektriciteitsdistributienetbeheerders voor de opkoop en het uit de markt halen van groenestroomcertificaten.
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking op de datum van de bekendmaking ervan in het Belgisch Staatsblad.
+...
