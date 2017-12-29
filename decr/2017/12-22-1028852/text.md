@@ -45,6 +45,11 @@ Het fonds wordt aangewend voor de werking van het Vlaams Cultureel Centrum Voere
 
 ## Afdeling 1 Energieleningen
 
+### ART 63.
+
+Artikel 49 van het decreet van 27 november 2015 houdende diverse bepalingen inzake energie wordt ingetrokken.<br>
+&nbsp;
+
 ## Afdeling 2 Dierenwelzijnsfonds
 
 ## Afdeling 3 Wijziging van het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning
