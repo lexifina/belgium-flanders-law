@@ -46,7 +46,9 @@ In artikel 2.1.2 van dezelfde codex worden de volgende wijzigingen   aangebracht
 
 ### ART. 11.
 
-&nbsp;In artikel 2.1.3 van dezelfde codex, gewijzigd bij het decreet van   18 november 2011, worden de volgende wijzigingen aangebracht:<BR>1° paragraaf 3   wordt vervangen door wat volgt:<BR>" § 3. De Vlaamse Regering onderwerpt het   ontwerp van het Ruimtelijk Structuurplan Vlaanderen aan een openbaar onderzoek   dat start binnen zestig dagen na de voorlopige vaststelling, vermeld in §   2.<BR>De Vlaamse Regering stelt nadere regels voor het openbaar onderzoek   vast.";<BR>2° in paragraaf 5, eerste lid, worden de woorden "toegezonden bij   aangetekende brief of afgegeven tegen ontvangstbewijs" vervangen door de woorden   "bezorgd per beveiligde zending".<BR>
+&nbsp;In artikel 2.1.3 van dezelfde codex, gewijzigd bij het decreet van 18 november 2011, worden de volgende wijzigingen aangebracht:<br>
+1° ....";<br>
+2° in paragraaf 5, eerste lid, worden de woorden "toegezonden bij aangetekende brief of afgegeven tegen ontvangstbewijs" vervangen door de woorden "bezorgd per beveiligde zending".
 
 ### ART. 12.
 
@@ -54,11 +56,17 @@ In artikel 2.1.6 van dezelfde codex wordt het derde lid   opgeheven.<BR>
 
 ### ART. 13.
 
-<P>In artikel 2.1.10 van dezelfde codex, gewijzigd bij het decreet van 18   november 2011, worden de volgende wijzigingen aangebracht:<BR>1° paragraaf 1   wordt vervangen door wat volgt:<BR>" § 1. De deputatie onderwerpt het ontwerp   van provinciaal ruimtelijk structuurplan aan een openbaar onderzoek dat start   binnen zestig dagen na de voorlopige vaststelling, vermeld in artikel 2.1.9, §   2.<BR></P>  <P>De Vlaamse Regering stelt nadere regels voor het openbaar onderzoek   vast.<BR></P>  <P>De deputatie organiseert ten minste één informatie- en   inspraakvergadering.";<BR></P>  <P>2° in paragraaf 3, eerste lid, worden de woorden "toegezonden bij een   aangetekende brief of afgegeven tegen ontvangstbewijs" vervangen door de woorden   "bezorgd per beveiligde zending".<BR></P>
+<p>In artikel 2.1.10 van dezelfde codex, gewijzigd bij het decreet van 18 november 2011, worden de volgende wijzigingen aangebracht:<br>
+1° ...;</p>
+
+<p>2° in paragraaf 3, eerste lid, worden de woorden "toegezonden bij een aangetekende brief of afgegeven tegen ontvangstbewijs" vervangen door de woorden "bezorgd per beveiligde zending".</p>
 
 ### ART. 14.
 
-<P>In artikel 2.1.16 van dezelfde codex worden de volgende wijzigingen   aangebracht:<BR>1° paragraaf 3 wordt vervangen door wat volgt:<BR>" § 3. Het   college van burgemeester en schepenen onderwerpt het ontwerp van gemeentelijk   ruimtelijk structuurplan aan een openbaar onderzoek dat start binnen zestig   dagen na de voorlopige vaststelling, vermeld in § 2.<BR></P>  <P>De Vlaamse Regering stelt nadere regels voor het openbaar onderzoek   vast.<BR></P>  <P>Het college van burgemeester en schepenen organiseert ten minste één   informatie- en inspraakvergadering.";<BR></P>  <P>2° in paragraaf 5, eerste lid, worden de woorden "toegezonden bij   aangetekende brief of afgegeven tegen ontvangstbewijs" vervangen door de woorden   "bezorgd per beveiligde zending".<BR></P>
+<p>In artikel 2.1.16 van dezelfde codex worden de volgende wijzigingen aangebracht:<br>
+1° ...;</p>
+
+<p>2° in paragraaf 5, eerste lid, worden de woorden "toegezonden bij aangetekende brief of afgegeven tegen ontvangstbewijs" vervangen door de woorden "bezorgd per beveiligde zending".</p>
 
 ### ART. 15.
 
@@ -70,7 +78,15 @@ In artikel 2.1.6 van dezelfde codex wordt het derde lid   opgeheven.<BR>
 
 ### ART. 17.
 
-<P>In artikel 2.2.7 van dezelfde codex, gewijzigd bij het decreet van 18   november 2011, worden de volgende wijzigingen aangebracht:<BR>1° paragraaf 2   wordt vervangen door wat volgt:<BR>" § 2. De Vlaamse Regering onderwerpt het   ontwerp van gewestelijk ruimtelijk uitvoeringsplan aan een openbaar onderzoek   dat binnen dertig dagen na de voorlopige vaststelling, vermeld in § 1, minstens   wordt aangekondigd door een bericht in het Belgisch Staatsblad. Deze termijn is   een termijn van orde.<BR></P>  <P>De Vlaamse Regering stelt nadere regels voor het openbaar onderzoek   vast.<BR></P>  <P>De Vlaamse Regering kan beslissen tot een individuele kennisgeving van het   openbaar onderzoek aan de eigenaars van percelen waarop het planningsinitiatief   betrekking heeft.";<BR></P>  <P>2° in paragraaf 4, eerste lid, worden de woorden "per aangetekende brief   toegezonden aan de Vlaamse Regering of afgegeven tegen ontvangstbewijs"   vervangen door de woorden "aan de Vlaamse Regering bezorgd per beveiligde   zending";<BR></P>  <P>"3° er wordt een paragraaf 10 toegevoegd, die luidt als volgt:<BR>" § 10. De   Vlaamse Regering kan, met het oog op het herstel van een onregelmatigheid, het   besluit houdende definitieve vaststelling van het gewestelijk ruimtelijk   uitvoeringsplan geheel of gedeeltelijk intrekken en hernemen, waarbij het   wettigheidsgebrek wordt rechtgezet. <BR></P>  <P>De bepalingen van § § 7 en 8 zijn onverminderd van toepassing, met   uitzondering van de vervaltermijn van honderdtachtig   dagen.".<BR></P>
+<p>In artikel 2.2.7 van dezelfde codex, gewijzigd bij het decreet van 18 november 2011, worden de volgende wijzigingen aangebracht:<br>
+1° ...;</p>
+
+<p>2° in paragraaf 4, eerste lid, worden de woorden "per aangetekende brief toegezonden aan de Vlaamse Regering of afgegeven tegen ontvangstbewijs" vervangen door de woorden "aan de Vlaamse Regering bezorgd per beveiligde zending";</p>
+
+<p>"3° er wordt een paragraaf 10 toegevoegd, die luidt als volgt:<br>
+" § 10. De Vlaamse Regering kan, met het oog op het herstel van een onregelmatigheid, het besluit houdende definitieve vaststelling van het gewestelijk ruimtelijk uitvoeringsplan geheel of gedeeltelijk intrekken en hernemen, waarbij het wettigheidsgebrek wordt rechtgezet.</p>
+
+<p>De bepalingen van § § 7 en 8 zijn onverminderd van toepassing, met uitzondering van de vervaltermijn van honderdtachtig dagen.".</p>
 
 ### ART. 18.
 
@@ -82,7 +98,19 @@ In artikel 2.2.8, derde lid, van dezelfde codex, gewijzigd bij het decreet   van
 
 ### ART. 20.
 
-<P>In artikel 2.2.10 van dezelfde codex worden de volgende wijzigingen   aangebracht:<BR>1° paragraaf 2 wordt vervangen door wat volgt:<BR>" § 2. De   deputatie onderwerpt het ontwerp van provinciaal ruimtelijk uitvoeringsplan aan   een openbaar onderzoek dat binnen dertig dagen na de voorlopige vaststelling,   vermeld in § 1, minstens wordt aangekondigd door een bericht in het Belgisch   Staatsblad. Deze termijn is een termijn van orde.<BR></P>  <P>De Vlaamse Regering stelt nadere regels voor het openbaar onderzoek   vast.<BR></P>  <P>De deputatie kan beslissen tot een individuele kennisgeving van het openbaar   onderzoek aan de eigenaars van percelen waarop het planningsinitiatief   betrekking heeft.";<BR></P>  <P>2° in paragraaf 4, eerste lid, worden de woorden "aan de provinciale   commissie voor ruimtelijke ordening toegezonden per aangetekende brief of   afgegeven tegen ontvangstbewijs" vervangen door de woorden "aan de provinciale   commissie voor ruimtelijke ordening bezorgd per beveiligde zending";<BR></P>  <P>3° in paragraaf 4, vierde lid, worden de woorden "De Vlaamse Regering"   vervangen door de woorden "Het departement";<BR></P>  <P>4° in paragraaf 5, eerste lid, worden de woorden "de Vlaamse Regering"   vervangen door de woorden "het departement";<BR></P>  <P>5° er wordt een paragraaf 9 toegevoegd, die luidt als volgt:<BR>" § 9. De   provincieraad kan, met het oog op het herstel van een onregelmatigheid, het   besluit houdende definitieve vaststelling van het provinciaal ruimtelijk   uitvoeringsplan geheel of gedeeltelijk intrekken en hernemen, waarbij het   wettigheidsgebrek wordt rechtgezet.<BR></P>  <P>De bepalingen van §§ 6 en 7 zijn onverminderd van toepassing, met   uitzondering van de vervaltermijn van honderdtachtig   dagen.".<BR></P>
+<p>In artikel 2.2.10 van dezelfde codex worden de volgende wijzigingen aangebracht:<br>
+1° ...;</p>
+
+<p>2° in paragraaf 4, eerste lid, worden de woorden "aan de provinciale commissie voor ruimtelijke ordening toegezonden per aangetekende brief of afgegeven tegen ontvangstbewijs" vervangen door de woorden "aan de provinciale commissie voor ruimtelijke ordening bezorgd per beveiligde zending";</p>
+
+<p>3° in paragraaf 4, vierde lid, worden de woorden "De Vlaamse Regering" vervangen door de woorden "Het departement";</p>
+
+<p>4° in paragraaf 5, eerste lid, worden de woorden "de Vlaamse Regering" vervangen door de woorden "het departement";</p>
+
+<p>5° er wordt een paragraaf 9 toegevoegd, die luidt als volgt:<br>
+" § 9. De provincieraad kan, met het oog op het herstel van een onregelmatigheid, het besluit houdende definitieve vaststelling van het provinciaal ruimtelijk uitvoeringsplan geheel of gedeeltelijk intrekken en hernemen, waarbij het wettigheidsgebrek wordt rechtgezet.</p>
+
+<p>De bepalingen van §§ 6 en 7 zijn onverminderd van toepassing, met uitzondering van de vervaltermijn van honderdtachtig dagen.".</p>
 
 ### ART. 21.
 
@@ -98,7 +126,15 @@ In artikel 2.2.8, derde lid, van dezelfde codex, gewijzigd bij het decreet   van
 
 ### ART. 24.
 
-<P>&nbsp;In artikel 2.2.14 van dezelfde codex, gewijzigd bij het decreet van 11   mei 2012, worden de volgende wijzigingen aangebracht:<BR>1° paragraaf 2 wordt   vervangen door wat volgt:<BR>" § 2. Het college van burgemeester en schepenen   onderwerpt het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan aan een   openbaar onderzoek dat binnen dertig dagen na de voorlopige vaststelling,   vermeld in § 1, minstens wordt aangekondigd door een bericht in het Belgisch   Staatsblad. Deze termijn is een termijn van orde.<BR></P>  <P>De Vlaamse Regering stelt nadere regels voor het openbaar onderzoek   vast.<BR></P>  <P>Het college van burgemeester en schepenen kan beslissen tot een individuele   kennisgeving van het openbaar onderzoek aan de eigenaars van percelen waarop het   planningsinitiatief betrekking heeft.";<BR></P>  <P>2° in paragraaf 4, eerste lid, worden de woorden "toegezonden aan de   gemeentelijke commissie voor ruimtelijke ordening per aangetekende brief of   afgegeven tegen ontvangstbewijs" vervangen door de woorden "aan de gemeentelijke   commissie voor ruimtelijke ordening bezorgd per beveiligde zending";<BR></P>  <P>3° er wordt een paragraaf 9 toegevoegd, die luidt als volgt:<BR>" § 9. De   gemeenteraad kan, met het oog op het herstel van een onregelmatigheid, het   besluit houdende definitieve vaststelling van het gemeentelijk ruimtelijk   uitvoeringsplan geheel of gedeeltelijk intrekken en hernemen, waarbij het   wettigheidsgebrek wordt rechtgezet.<BR></P>  <P>De bepalingen van §§ 6 en 7 zijn onverminderd van toepassing, met   uitzondering van de vervaltermijn van honderdtachtig   dagen.".<BR></P>
+<p>&nbsp;In artikel 2.2.14 van dezelfde codex, gewijzigd bij het decreet van 11 mei 2012, worden de volgende wijzigingen aangebracht:<br>
+1° ...;</p>
+
+<p>2° in paragraaf 4, eerste lid, worden de woorden "toegezonden aan de gemeentelijke commissie voor ruimtelijke ordening per aangetekende brief of afgegeven tegen ontvangstbewijs" vervangen door de woorden "aan de gemeentelijke commissie voor ruimtelijke ordening bezorgd per beveiligde zending";</p>
+
+<p>3° er wordt een paragraaf 9 toegevoegd, die luidt als volgt:<br>
+" § 9. De gemeenteraad kan, met het oog op het herstel van een onregelmatigheid, het besluit houdende definitieve vaststelling van het gemeentelijk ruimtelijk uitvoeringsplan geheel of gedeeltelijk intrekken en hernemen, waarbij het wettigheidsgebrek wordt rechtgezet.</p>
+
+<p>De bepalingen van §§ 6 en 7 zijn onverminderd van toepassing, met uitzondering van de vervaltermijn van honderdtachtig dagen.".</p>
 
 ### ART. 25.
 
