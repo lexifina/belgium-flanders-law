@@ -233,7 +233,7 @@
 
 <span style="color: rgb(0, 0, 0);">Dit decreet treedt in werking op de datum van publicatie in het Belgisch Staatsblad, met uitzondering van :</span><br>
 <span style="color: rgb(0, 0, 0);">1° artikel 10, § 1. Deze paragraaf treedt in werking op een door de Vlaamse Regering vast te stellen datum, en ten vroegste op de datum van inwerkingtreding van het besluit van de Vlaamse Regering dat uitvoering geeft aan de bepalingen in artikel 2.3.1 en 2.3.2 van de Vlaamse Codex Ruimtelijke Ordening, zoals gewijzigd door artikelen 30 en 31 van dit decreet;</span><br>
-<span style="color: rgb(0, 0, 0);">2° hoofdstukken 4 en 6. Deze hoofdstukken treden in werking op 1 januari 2018;</span><br>
+<span style="color: rgb(0, 0, 0);">2° hoofdstukken 4 en 6. Deze hoofdstukken treden in werking op een door de Vlaamse Regering per artikel vast te stellen datum;</span><br>
 <span style="color: rgb(0, 0, 0);">3° hoofdstukken 7 en 8. Deze hoofdstukken treden in werking op een door de Vlaamse Regering per artikel vast te stellen datum;</span><br>
-<span style="color: rgb(0, 0, 0);">4° artikel 52. Dit artikel heeft uitwerking vanaf 1 juli 2014.</span><br>
+<span style="color: rgb(0, 0, 0);">4° [... (vernietigd arrest Grondwettelijk Hof 51/2018 van 26 april 2018)]</span><br>
 &nbsp;
