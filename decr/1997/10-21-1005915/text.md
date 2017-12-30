@@ -345,7 +345,7 @@ Het verbod, vermeld in het eerste lid, geldt niet voor gemotoriseerd verkeer dat
 <br>
 De Vlaamse regering kan bepalen welke activiteiten een wijziging zijn van de vegetatie of van kleine landschapselementen of van de vegetatie ervan.<br>
 <br>
-§ 5. Onverminderd de bepalingen van §§ 3 en 4, wordt het geheel of gedeeltelijk wijzigen van kleine landschapselementen of de vegetatie ervan, voor zover de Vlaamse regering die wijzigingen niet verbiedt, tevens afhankelijk gemaakt van het verkrijgen van een vergunning in de volgende gebieden:<br>
+§ 5. Onverminderd de bepalingen van §§ 3 en 4, wordt het geheel of gedeeltelijk wijzigen van kleine landschapselementen of de vegetatie ervan, voor zover de Vlaamse regering die wijzigingen niet verbiedt, tevens afhankelijk gemaakt&nbsp;van het verkrijgen van een omgevingsvergunning voor het wijzigen van de vegetatie in de volgende gebieden:<br>
 1° de landschappelijk waardevolle agrarische gebieden en de agrarische gebieden en de met al deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br>
 2° het IVON.<br>
 <br>
@@ -357,7 +357,9 @@ De Vlaamse regering kan bepalen welke activiteiten een wijziging zijn van de veg
 <br>
 § 7. Met behoud van de toepassing van artikel 16 en artikel 36ter, § 3 tot en met § 6, kunnen samenhangende of periodiek terugkerende activiteiten die een wijziging zijn van de vegetatie of van kleine landschapselementen of van de vegetatie ervan, in één vergunning worden toegestaan voor zover de aard, de locatie en de omvang en de frequentie van elk van die vergunningsplichtige activiteiten duidelijk omschreven wordt.<br>
 <br>
-De Vlaamse Regering kan nadere regels bepalen met betrekking tot de informatie die moet worden aangeleverd door de aanvrager van een vergunning met betrekking tot de termijn, de frequentie en de aard van de activiteiten.
+De Vlaamse Regering kan nadere regels bepalen met betrekking tot de informatie die moet worden aangeleverd door de aanvrager van een vergunning met betrekking tot de termijn, de frequentie en de aard van de activiteiten.<br>
+<br>
+§ 8. Het zonder voorafgaandelijke omgevingsvergunning of in strijd met deze omgevingsvergunning uitvoeren van vergunningsplichtige handelingen inzake wijziging van de vegetatie of van kleine landschapselementen of van de vegetatie ervan of van handelingen die verboden zijn op basis van of in uitvoering van artikel 13, § 3, is verboden.
 
 ### ART. 14.
 
