@@ -792,7 +792,7 @@ Artikelen   111 en 112 zijn van toepassing op aanvragen tot herziening of opheff
 
 ### ART. 182.
 
-Artikel   115 treedt in werking op de datum van inwerkingtreding van artikel 339 van het   decreet van 25 april 2014 betreffende de handhaving van de   omgevingsvergunning.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Artikel 115 treedt in werking op de datum van inwerkingtreding van artikel 34 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning.
 
 ### ART. 183.
 
