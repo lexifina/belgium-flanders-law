@@ -54,6 +54,117 @@ In titel VI, hoofdstuk I, van dezelfde codex, gewijzigd bij het decreet van 16 j
 
 In titel VI, hoofdstuk I, van dezelfde codex, gewijzigd bij het decreet van 16 juli 2010 en 11 mei 2012, wordt afdeling 2, die bestaat uit artikel 6.1.4, opgeheven.
 
+### ART 38/1.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 18 december 2015 wordt aan afdeling 2, ingevoegd bij artikel 32, een onderafdeling 4 toegevoegd, die luidt als volgt:<br>
+<br>
+"Onderafdeling 4. - Verbalisanten ruimtelijke ordening".
+
+### ART 38/2.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 18 december 2015 wordt aan onderafdeling 4, toegevoegd bij artikel 38/1, een artikel 6.2.5/1 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 6.2.5/1. § 1. De volgende personen kunnen verbalisant ruimtelijke ordening zijn:<br>
+1° de personeelsleden van de entiteit, bevoegd voor de uitvoering van de handhavingstaken met betrekking tot de ruimtelijke ordening, die daarvoor worden aangewezen door de Vlaamse Regering;<br>
+2° de personeelsleden van het Vlaamse Gewest van andere entiteiten, die daarvoor worden aangewezen door de Vlaamse Regering;<br>
+3° de personeelsleden van de gemeente, die daarvoor worden aangewezen door het college van burgemeester en schepenen;<br>
+4° de personeelsleden van een intergemeentelijk samenwerkingsverband, die daarvoor worden aangewezen door de colleges van burgemeester en schepenen.<br>
+<br>
+De Vlaamse Regering kan voorwaarden, die onder meer betrekking kunnen hebben op de scholingsvereisten, bepalen waaraan de verbalisanten ruimtelijke ordening moeten voldoen.<br>
+<br>
+§ 2. De Vlaamse Regering wijst onder de gewestelijke personeelsleden die als verbalisant ruimtelijke ordening zijn aangewezen, degenen aan die de hoedanigheid van officier van gerechtelijke politie, hulpofficier van de procureur des Konings, verkrijgen om misdrijven als vermeld in dit hoofdstuk, op te sporen en vast te stellen in een proces-verbaal.<br>
+<br>
+§ 3. Contractuele personeelsleden kunnen alleen verbalisant ruimtelijke ordening zijn als ze zijn beëdigd. De Vlaamse Regering kan de voorwaarden van de eedaflegging bepalen.<br>
+<br>
+Een beëdiging op grond van artikel 106 van het Gemeentedecreet geldt tevens als eedaflegging in de zin van het eerste lid.<br>
+<br>
+§ 4. De Vlaamse Regering kan de aanwijzingsbevoegdheid, vermeld in paragraaf 1 en 2, delegeren.".
+
+### ART. 43.
+
+...
+
+### ART 70/1.
+
+In dezelfde codex wordt aan onderafdeling 3, ingevoegd bij artikel 69, een artikel 6.3.12/1 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 6.3.12/1. § 1. In de beroepsprocedure, vermeld in artikel 6.4.8 en 6.4.15, wint de Vlaamse Regering schriftelijk advies in bij de hoge raad over de herstelmaatregelen als het dossier ontvankelijk wordt bevonden. De hoge raad behandelt die adviesaanvragen bij voorrang.<br>
+<br>
+§ 2. Het advies wordt uitgebracht binnen een vervaltermijn van vijfenveertig dagen vanaf de dag na de ontvangst van de adviesaanvraag door de hoge raad. Als die termijn wordt overschreden, kan aan de adviesvereiste worden voorbijgegaan.<br>
+<br>
+§ 3. De werkingsregels, vermeld in artikel 6.3.13, § 1, en artikel 6.3.14 tot en met 6.3.17, zijn van overeenkomstige toepassing. Het procedure- en werkingsreglement, vermeld in artikel 6.3.14, regelt de nadere procedurele regels.".
+
+### ART 70/2.
+
+In titel VI, hoofdstuk III, van dezelfde codex, wordt in afdeling 2, ingevoegd bij artikel 61, een onderafdeling 3/1 ingevoegd, die luidt als volgt:<br>
+<br>
+"Onderafdeling 3/1. - Bemiddeling".
+
+### ART 70/3.
+
+In titel VI, hoofdstuk III, afdeling 2, van dezelfde codex, wordt in onderafdeling 3/1, ingevoegd bij artikel 70/2, een artikel 6.3.12/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 6.3.12/2. De hoge raad is belast met vrijwillige en gerechtelijke bemiddeling zoals vermeld in artikel 6.3.12/3 en 6.3.12/4.<br>
+<br>
+De hoge raad kan een bemiddelaar aanwijzen onder zijn leden of onder de leden van het permanent secretariaat.<br>
+<br>
+Het procedure- en werkingsreglement, vermeld in artikel 6.3.14, regelt de nadere procedurele regels.".
+
+### ART 70/4.
+
+In titel VI, hoofdstuk III, afdeling 2, van dezelfde codex, wordt in onderafdeling 3/1, ingevoegd bij artikel 70/2, een artikel 6.3.12/3 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 6.3.12/3. § 1. Van bij de aanvang van een bestuurlijke procedure tot minnelijke schikking zoals vermeld in artikel 6.4.19 of een procedure tot het sluiten van een dading zoals vermeld in artikel 6.3.5, kan elke belanghebbende vragen aan de hoge raad om een vrijwillige bemiddeling op te starten.<br>
+<br>
+Dit geldt ook in geval van weigering van een minnelijke schikking of een dading door de gewestelijke stedenbouwkundige inspecteur, de gemeentelijke stedenbouwkundige inspecteur of burgemeester.<br>
+<br>
+§ 2. De aanvraag om een vrijwillige bemiddeling op te starten wordt op straffe van onontvankelijkheid per beveiligde zending betekend aan de hoge raad.<br>
+<br>
+De aanvrager doet in de bemiddelingsaanvraag een opgave van de personen aan wie de zakelijke rechten op het onroerend goed waarop de minnelijke schikking of de dading betrekking heeft, toebehoren.<br>
+<br>
+In geval van niet-inaanmerkingneming van de bemiddelingsaanvraag stelt de hoge raad de aanvrager, de gewestelijke stedenbouwkundige inspecteur, de gemeentelijke stedenbouwkundige inspecteur of burgemeester van de bevoegde gemeente hiervan per beveiligde zending in kennis.<br>
+<br>
+In geval van inaanmerkingneming van de bemiddelingsaanvraag stelt de hoge raad de personen, vermeld in het tweede en derde lid, hiervan per beveiligde zending in kennis.<br>
+<br>
+De personen, vermeld in het tweede en derde lid, worden voor de toepassing van dit artikel samen aangeduid als de betrokken partijen.<br>
+<br>
+De door de hoge raad aangewezen bemiddelaar kan ook derden bij de bemiddeling betrekken.<br>
+<br>
+§ 3. Een bemiddeling eindigt wanneer de betrokken partijen een bemiddelingsakkoord bereiken.<br>
+<br>
+Onverminderd het eerste lid kan de hoge raad een bemiddeling te allen tijde beëindigen eens hij vaststelt dat de randvoorwaarden voor een geslaagde bemiddeling niet of niet langer zijn vervuld. Dit kan onder meer wanneer de betrokken partijen de raad in kennis stellen van hun wil om een einde te maken aan de bemiddeling. De hoge raad stelt de betrokken partijen en desgevallend de betrokken derden bedoeld in paragraaf 2, daarvan per beveiligde zending in kennis.<br>
+<br>
+§ 4. Vanaf de betekening van de bemiddelingsaanvraag in de procedure tot minnelijke schikking bedoeld in artikel 6.4.19, is de verjaring van de herstelvordering zoals bedoeld in artikel 6.3.3, § 3, en van het recht een bestuurlijke maatregel op te leggen zoals bedoeld in artikel 6.4.3, § 2, geschorst voor de betrokken partijen en desgevallend de betrokken derden bedoeld in paragraaf 2.<br>
+<br>
+Vanaf de verzending van de bemiddelingsaanvraag in de procedure tot dading bedoeld in artikel 6.3.5, is de verjaring van het recht op uitvoeren van de definitieve rechterlijke herstelmaatregel geschorst voor de betrokken partijen en desgevallend de betrokken derden bedoeld in paragraaf 2.<br>
+<br>
+De schorsing bedoeld in het eerste en tweede lid, neemt een einde vanaf de datum waarop:<br>
+1° de hoge raad de beslissing tot niet-inaanmerkingneming van de bemiddelingsaanvraag aan de aanvrager betekent;<br>
+2° een bemiddelingsakkoord bereikt wordt;<br>
+3° de hoge raad de beëindiging van de bemiddeling omwille van de vaststelling dat de randvoorwaarden voor een geslaagde bemiddeling niet of niet langer zijn vervuld, betekent aan de betrokken partijen en desgevallend de betrokken derden bedoeld in paragraaf 2.".
+
+### ART 70/5.
+
+In titel VI, hoofdstuk III, afdeling 2, van dezelfde codex, wordt in onderafdeling 3/1, ingevoegd bij artikel 70/2, een artikel 6.3.12/4 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 6.3.12/4. § 1. Zolang de zaak niet in beraad is genomen, kan de reeds geadieerde rechter in elke stand van de procedure zoals bedoeld in artikel 6.3.1 en 6.3.3, op verzoek van een van de partijen in het geding, op verzoek van de overheid die de herstelmaatregel vordert of op eigen initiatief een gerechtelijke bemiddeling bij de hoge raad bevelen.<br>
+<br>
+De rechterlijke beslissing die een bemiddeling beveelt, legt de duur van de opdracht van de hoge raad vast, zonder dat deze drie maanden kan overschrijden. Zij vermeldt tevens de datum waarop de zaak is verdaagd.<br>
+<br>
+§ 2. De griffier zendt onmiddellijk een afschrift van de rechterlijke beslissing aan de partijen in het geding, de overheid die de herstelmaatregel vordert en de hoge raad.<br>
+<br>
+De door de hoge raad aangewezen bemiddelaar kan derden bij de bemiddeling betrekken. Dit geldt ook ten opzichte van de gewestelijke stedenbouwkundige inspecteur, de gemeentelijke stedenbouwkundige inspecteur of de burgemeester indien geen van hen een rechterlijke herstelmaatregel heeft gevorderd.<br>
+<br>
+§ 3. Als een bemiddelingsakkoord is bereikt, maakt de hoge raad dit over aan de rechtbank.<br>
+<br>
+Minstens meldt de hoge raad bij afloop van de bemiddelingsopdracht schriftelijk aan de rechter of er al dan niet een bemiddelingsakkoord is bekomen.<br>
+<br>
+De rechter behoudt niettemin de mogelijkheid om, zo hij dat opportuun acht en zowel de overheid die de herstelmaatregel vordert als de partijen in het geding ermee instemmen, de bemiddelingsopdracht van de hoge raad voor een door hem bepaalde termijn te verlengen.<br>
+<br>
+§ 4. Gedurende de bemiddeling blijft de rechter geadieerd en kan hij op elk ogenblik de noodzakelijk geachte maatregel treffen. Op verzoek van de hoge raad kan hij ook vóór het verstrijken van de vastgestelde termijn een einde maken aan de bemiddeling.<br>
+<br>
+§ 5. Er is geen rechtsmiddel mogelijk tegen de beslissing waarbij de bemiddeling wordt bevolen, verlengd of beëindigd.".
+
 ### ART. 113.
 
 Artikel 7.7.3 van dezelfde codex wordt vervangen door wat volgt :<br>
@@ -166,6 +277,10 @@ Artikel 16.2.2 van hetzelfde decreet, ingevoegd bij het decreet van 21 december 
 ### ART. 132.
 
 <p>...</p>
+
+### ART. 135.
+
+...
 
 ## Hoofdstuk 4 Wijzigingen van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtcolleges
 
