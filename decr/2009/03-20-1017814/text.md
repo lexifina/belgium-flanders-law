@@ -34,7 +34,20 @@ Het mobiliteitsplan is een beleidsplan dat in hoofdlijnen de langetermijnvisie a
 
 ### ART. 7.
 
-§ 1. Het Mobiliteitsplan Vlaanderen en de gemeentelijk mobiliteitsplannen bevatten een richtinggevend en een informatief deel. <br /><br />§ 2. Van het richtinggevende deel van het plan kan niet worden afgeweken, tenzij wegens onvoorziene ontwikkelingen van de mobiliteitsbehoeften van de onderscheiden maatschappelijke activiteiten of om dringende sociale, culturele, economische, budgettaire of ecologische redenen. De afwijking mag de realisatie van de doelstellingen, vermeld in artikel 4, eerste lid niet in het gedrang brengen. De beslissing die de overheid neemt over de afwijking, wordt gemotiveerd. <br /><br />Het richtinggevende deel van het Mobiliteitsplan Vlaanderen is richtinggevend voor het Vlaamse Gewest, de eronder ressorterende diensten en agentschappen, de provincies en gemeenten, alsmede de publiekrechtelijke en privaatrechtelijke rechtspersonen die in het Vlaamse Gewest belast zijn met taken van openbaar nut. Het richtinggevende deel van een gemeentelijk mobiliteitsplan is richtinggevend voor de gemeente en de eronder ressorterende diensten en agentschappen.<br /><br />§ 3. Het Mobiliteitsplan Vlaanderen en de gemeentelijk mobiliteitsplannen bevatten bepalingen die de afstemming regelen met : <br />1° de relevante bepalingen van ten minste de ruimtelijke structuurplannen, de milieubeleidsplannen en de waterbeheerplannen; <br />2° de relevante beleidsdocumenten.<br /><br />De bepalingen, vermeld in het eerste lid, zijn informatief.<br /><br />§ 4. De in § 1 vermelde plannen vormen geen beoordelingsgrond voor vergunningen.<br /><br />
+§ 1. Het Mobiliteitsplan Vlaanderen en de gemeentelijk mobiliteitsplannen bevatten een richtinggevend en een informatief deel.<br>
+<br>
+§ 2. Van het richtinggevende deel van het plan kan niet worden afgeweken, tenzij wegens onvoorziene ontwikkelingen van de mobiliteitsbehoeften van de onderscheiden maatschappelijke activiteiten of om dringende sociale, culturele, economische, budgettaire of ecologische redenen. De afwijking mag de realisatie van de doelstellingen, vermeld in artikel 4, eerste lid niet in het gedrang brengen. De beslissing die de overheid neemt over de afwijking, wordt gemotiveerd.<br>
+<br>
+Het richtinggevende deel van het Mobiliteitsplan Vlaanderen is richtinggevend voor het Vlaamse Gewest, de eronder ressorterende diensten en agentschappen, de provincies en gemeenten, alsmede de publiekrechtelijke en privaatrechtelijke rechtspersonen die in het Vlaamse Gewest belast zijn met taken van openbaar nut. Het richtinggevende deel van een gemeentelijk mobiliteitsplan is richtinggevend voor de gemeente en de eronder ressorterende diensten en agentschappen.<br>
+<br>
+§ 3. Het Mobiliteitsplan Vlaanderen en de gemeentelijk mobiliteitsplannen bevatten bepalingen die de afstemming regelen met :<br>
+1° de relevante bepalingen van ten minste de ruimtelijke structuurplannen of ruimtelijke beleidsplannen, de milieubeleidsplannen en de waterbeheerplannen;<br>
+2° de relevante beleidsdocumenten.<br>
+<br>
+De bepalingen, vermeld in het eerste lid, zijn informatief.<br>
+<br>
+§ 4. De in § 1 vermelde plannen vormen geen beoordelingsgrond voor vergunningen.<br>
+&nbsp;
 
 ### ART. 8.
 
@@ -50,7 +63,18 @@ De Vlaamse Regering kan de voorwaarden bepalen waaraan fysieke personen, rechtsp
 
 ### ART. 10.
 
-§ 1. Het informatieve deel van het Mobiliteitsplan Vlaanderen bevat ten minste : <br />1° een omschrijving, analyse en evaluatie van de bestaande mobiliteitstoestand; <br />2° een onderzoek naar de toekomstige mobiliteitsbehoeften van de onderscheiden maatschappelijke activiteiten;<br />3° een opsomming, analyse en evaluatie van de relevante voorschriften van de gewestelijke beleidsplannen, waaronder minstens het Ruimtelijk Structuurplan Vlaanderen, het gewestelijk milieubeleidsplan, en de relevante gewestelijke beleidsdocumenten, waarmee in voorkomend geval de afstemming wordt geregeld overeenkomstig artikel 7, § 3, 1°;<br />4° een beschrijving, analyse en evaluatie van het mobiliteitsbeleid, de relevante beleidsplannen en beleidsdocumenten van de Europese Unie, naburige staten, de federale staat of de gewesten die een invloed hebben op de mobiliteitstoestand in het Vlaamse Gewest, waarmee in voorkomend geval de afstemming wordt geregeld overeenkomstig artikel 7, § 3, 1°;<br />5° een omstandige omschrijving van de redelijkerwijs in aanmerking te nemen alternatieven om de gewenste mobiliteit te bereiken.<br /><br />§ 2. Het richtinggevende deel van het Mobiliteitsplan Vlaanderen omvat ten minste : <br />1° een beschrijving van de gewenste mobiliteitsontwikkeling;<br />2° de operationele doelstellingen betreffende de mobiliteitsontwikkeling;<br />3° een actieplan, uitgewerkt in hoofdlijnen, dat bestaat in de maatregelen, middelen, termijnen, en de prioriteiten die daarbij gelden, en, in voorkomend geval, een lijst met punten waarvoor overleg en samenwerking met naburige staten, de federale staat of de gewesten is aangewezen. Het actieplan wordt zonodig geactualiseerd op basis van het voortgangsrapport vermeld in artikel 15.<br /><br />
+§ 1. Het informatieve deel van het Mobiliteitsplan Vlaanderen bevat ten minste :<br>
+1° een omschrijving, analyse en evaluatie van de bestaande mobiliteitstoestand;<br>
+2° een onderzoek naar de toekomstige mobiliteitsbehoeften van de onderscheiden maatschappelijke activiteiten;<br>
+3° een opsomming, analyse en evaluatie van de relevante voorschriften van de gewestelijke beleidsplannen, waaronder minstens het Ruimtelijk Structuurplan Vlaanderen of het Beleidsplan Ruimte Vlaanderen, het gewestelijk milieubeleidsplan, en de relevante gewestelijke beleidsdocumenten, waarmee in voorkomend geval de afstemming wordt geregeld overeenkomstig artikel 7, § 3, 1°;<br>
+4° een beschrijving, analyse en evaluatie van het mobiliteitsbeleid, de relevante beleidsplannen en beleidsdocumenten van de Europese Unie, naburige staten, de federale staat of de gewesten die een invloed hebben op de mobiliteitstoestand in het Vlaamse Gewest, waarmee in voorkomend geval de afstemming wordt geregeld overeenkomstig artikel 7, § 3, 1°;<br>
+5° een omstandige omschrijving van de redelijkerwijs in aanmerking te nemen alternatieven om de gewenste mobiliteit te bereiken.<br>
+<br>
+§ 2. Het richtinggevende deel van het Mobiliteitsplan Vlaanderen omvat ten minste :<br>
+1° een beschrijving van de gewenste mobiliteitsontwikkeling;<br>
+2° de operationele doelstellingen betreffende de mobiliteitsontwikkeling;<br>
+3° een actieplan, uitgewerkt in hoofdlijnen, dat bestaat in de maatregelen, middelen, termijnen, en de prioriteiten die daarbij gelden, en, in voorkomend geval, een lijst met punten waarvoor overleg en samenwerking met naburige staten, de federale staat of de gewesten is aangewezen. Het actieplan wordt zonodig geactualiseerd op basis van het voortgangsrapport vermeld in artikel 15.<br>
+&nbsp;
 
 ### ART. 11.
 
@@ -82,7 +106,19 @@ De Vlaamse Regering kan nadere regels vaststellen voor de inhoud, de methodologi
 
 ### ART. 17.
 
-§ 1. Het informatieve deel van het gemeentelijk mobiliteitsplan bevat ten minste : <br />1° een omschrijving, analyse en evaluatie van de bestaande, lokale mobiliteitstoestand; <br />2° een onderzoek naar de toekomstige mobiliteitsbehoeften van de onderscheiden maatschappelijke activiteiten;<br />3° een omschrijving, analyse en evaluatie van de relatie met onder meer het Mobiliteitsplan Vlaanderen, de relevante provinciale en gemeentelijke ruimtelijke structuurplannen, de provinciale en gemeentelijke milieubeleidsplannen, en de relevante provinciale en gemeentelijke beleidsdocumenten, waarmee in voorkomend geval de afstemming wordt geregeld overeenkomstig artikel 7, § 3;<br />4° een omstandige omschrijving van de redelijkerwijs in aanmerking te nemen alternatieven om de gewenste mobiliteit op het lokale vlak te bereiken.<br /><br />§ 2. Het richtinggevende deel van het gemeentelijk mobiliteitsplan omvat ten minste : <br />1° een beschrijving van de gewenste lokale mobiliteitsontwikkeling;<br />2° de operationele doelstellingen betreffende de lokale mobiliteitsontwikkeling;<br />3° een actieplan, uitgewerkt in hoofdlijnen, dat bestaat in de maatregelen, middelen, termijnen, en de prioriteiten die daarbij gelden, en, in voorkomend geval, een lijst met punten waarvoor overleg en samenwerking met naburige gemeenten wenselijk zijn.<br /><br />§ 3. Het gemeentelijk mobiliteitsplan geeft aan in hoeverre het voorgenomen mobiliteitsbeleid is afgestemd op de beleidsplannen, vermeld in § 1, eerste lid, 3°, of aanleiding geeft tot een wijziging van gemeentelijke beleidsplannen of gemeentelijke beleidsdocumenten.<br /><br />
+§ 1. Het informatieve deel van het gemeentelijk mobiliteitsplan bevat ten minste :<br>
+1° een omschrijving, analyse en evaluatie van de bestaande, lokale mobiliteitstoestand;<br>
+2° een onderzoek naar de toekomstige mobiliteitsbehoeften van de onderscheiden maatschappelijke activiteiten;<br>
+3° een omschrijving, analyse en evaluatie van de relatie met onder meer het Mobiliteitsplan Vlaanderen, de relevante provinciale en gemeentelijke ruimtelijke structuurplannen of provinciale en gemeentelijke ruimtelijke beleidsplannen, de provinciale en gemeentelijke milieubeleidsplannen, en de relevante provinciale en gemeentelijke beleidsdocumenten, waarmee in voorkomend geval de afstemming wordt geregeld overeenkomstig artikel 7, § 3;<br>
+4° een omstandige omschrijving van de redelijkerwijs in aanmerking te nemen alternatieven om de gewenste mobiliteit op het lokale vlak te bereiken.<br>
+<br>
+§ 2. Het richtinggevende deel van het gemeentelijk mobiliteitsplan omvat ten minste :<br>
+1° een beschrijving van de gewenste lokale mobiliteitsontwikkeling;<br>
+2° de operationele doelstellingen betreffende de lokale mobiliteitsontwikkeling;<br>
+3° een actieplan, uitgewerkt in hoofdlijnen, dat bestaat in de maatregelen, middelen, termijnen, en de prioriteiten die daarbij gelden, en, in voorkomend geval, een lijst met punten waarvoor overleg en samenwerking met naburige gemeenten wenselijk zijn.<br>
+<br>
+§ 3. Het gemeentelijk mobiliteitsplan geeft aan in hoeverre het voorgenomen mobiliteitsbeleid is afgestemd op de beleidsplannen, vermeld in § 1, eerste lid, 3°, of aanleiding geeft tot een wijziging van gemeentelijke beleidsplannen of gemeentelijke beleidsdocumenten.<br>
+&nbsp;
 
 ### ART. 18.
 
