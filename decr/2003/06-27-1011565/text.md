@@ -154,11 +154,23 @@ Er wordt een Rubiconfonds opgericht, hierna het Fonds te noemen.<br /><br />Het 
 
 ### ART. 29.
 
-De middelen van het Fonds zijn:<br /><br />1° de opbrengsten van de planbatenheffing, bedoeld in artikel 88, § 1, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, verschuldigd ingevolge de bestemmingswijzigingen van een perceel naar een zone bestemd voor bedrijven;<br /><br />2° alle inkomsten voortvloeiend uit de activiteiten van het Fonds;<br /><br />3° het gebeurlijke saldo op het einde van het begrotingsjaar op het Fonds;<br /><br />4° de terugvorderingen voortvloeiend uit de ten onrechte gedane betalingen;<br /><br />5° een eventuele dotatie ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
+De middelen van het Fonds zijn:<br>
+1° de opbrengsten van de planbatenheffing, bedoeld in artikel 2.6.4 van de Vlaamse Codex Ruimtelijke Ordening, verschuldigd ingevolge de bestemmingswijzigingen van een perceel naar een zone bestemd voor bedrijven;<br>
+2° alle inkomsten voortvloeiend uit de activiteiten van het Fonds;<br>
+3° het gebeurlijke saldo op het einde van het begrotingsjaar op het Fonds;<br>
+4° de terugvorderingen voortvloeiend uit de ten onrechte gedane betalingen;<br>
+5° een eventuele dotatie ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
 
 ### ART. 30.
 
-De middelen van het Fonds kunnen uitsluitend aangewend worden voor de gehele of gedeeltelijke financiering of subsidiëring van:<br /><br />1° alle waterkeringswerken, alle werken tot de aanleg, aanpassing of inrichting van overstromingsgebieden en wachtbekkens, en de bijhorende werken van natuurtechnische milieubouw;<br /><br />2° de werken tot aanleg of aanpassing van de rechtstreekse toegang naar de in 1° bedoelde waterkeringswerken, overstromingsgebieden en wachtbekkens;<br /><br />3° het aankopen en onteigenen zoals bedoeld in de artikelen 6 en 7 van het decreet van 16 april 1996 betreffende de waterkeringen;<br /><br />4° de uitvoering van de instrumenten inzake de verwerving van goederen zoals bedoeld in afdeling III, hoofdstuk III, titel I, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br /><br />5° de uitvoering van de bepalingen van het stroomgebiedsbeheersplan, het bekkenbeheersplan en het deel-bekkenbeheersplan, zoals bedoeld in titel I van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, die uitvoering geven aan artikel 5, 6°, van het decreet;<br /><br />6° de werkingskosten eigen aan het Fonds.
+De middelen van het Fonds kunnen uitsluitend aangewend worden voor de gehele of gedeeltelijke financiering of subsidiëring van:<br>
+1° alle waterkeringswerken, alle werken tot de aanleg, aanpassing of inrichting van overstromingsgebieden en wachtbekkens, en de bijhorende werken van natuurtechnische milieubouw;<br>
+2° de werken tot aanleg of aanpassing van de rechtstreekse toegang naar de in 1° bedoelde waterkeringswerken, overstromingsgebieden en wachtbekkens;<br>
+3° het aankopen en onteigenen zoals bedoeld in de artikelen 6 en 7 van het decreet van 16 april 1996 betreffende de waterkeringen;<br>
+4° de uitvoering van de instrumenten inzake de verwerving van goederen zoals bedoeld in afdeling III, hoofdstuk III, titel I, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
+5° de uitvoering van de bepalingen van het stroomgebiedsbeheersplan, het bekkenbeheersplan en het deel-bekkenbeheersplan, zoals bedoeld in titel I van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, die uitvoering geven aan artikel 5, 6°, van het decreet;<br>
+6° de werkingskosten eigen aan het Fonds;<br>
+7° de vergoedingen als gevolg van de aanduiding als watergevoelig openruimtegebied, zoals bedoeld in artikel 5.6.8 van de Vlaamse Codex Ruimtelijke Ordening.
 
 ### ART. 31.
 

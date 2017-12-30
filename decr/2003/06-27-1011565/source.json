@@ -2,16 +2,16 @@
   "codex_id": 1011565,
   "title": "Decreet van 2003-06-27 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2003",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011565/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "4ba675cc40111a755522b9f31d37b02f9df50373aa242b20959b62d39cee619b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011565/VolledigDocument?datum=2017-12-30",
+  "source_sha256": "4896f424d3aa78f8e001842488c2ba2a88cd6dd9537ce5b1b8d35e674e853212",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011565&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2017-12-30",
   "made": "2003-06-27",
   "gazette": "2003-09-12",
   "numac": 2003035990,
   "document_start": null,
   "document_end": null,
-  "in_force": "2017-01-01",
+  "in_force": "2017-12-30",
   "article_versions": 46,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2017-12-30; future article versions excluded; article text as the API gives it"
 }
