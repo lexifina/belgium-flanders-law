@@ -165,7 +165,7 @@ Een ontwerp van voorkeursbesluit bevat :<br>
 5° een verklaring die samenvat op welke wijze milieuoverwegingen in het voorkeursbesluit worden geïntegreerd en op welke wijze rekening is gehouden met de gevoerde onderzoeken, waaronder het&nbsp;ontwerp van&nbsp;MER en met de in het kader van die onderzoeken uitgebrachte opmerkingen, adviezen en overwegingen;<br>
 6° de relatie met de relevante beleidsplannen;<br>
 7° in voorkomend geval, de wijze waarop zal worden afgeweken van :<br>
-a) het richtinggevende en bindende gedeelte van de ruimtelijke structuurplannen;<br>
+a) de ruimtelijke beleidsplannen of het richtinggevende en bindende gedeelte van de ruimtelijke structuurplannen;<br>
 b) de voorschriften van plannen van aanleg en van ruimtelijke uitvoeringsplannen;<br>
 8° de monitoringsmaatregelen en, in voorkomend geval, de flankerende maatregelen op het detailleringsniveau van het ontwerp van voorkeursbesluit;<br>
 9° in voorkomend geval, de rechtsgevolgen, vermeld in de artikelen 28, 30, 31 en 34;<br>
@@ -268,7 +268,7 @@ In afwijking van het tweede lid mag de bevoegde overheid het voorkeursbesluit to
 4° een verklaring die samenvat op welke wijze milieuoverwegingen in het projectbesluit worden geïntegreerd en op welke wijze rekening is gehouden met de gevoerde onderzoeken, waaronder het ontwerp van MER, en met de opmerkingen, adviezen en overwegingen die in het kader van die onderzoeken zijn uitgebracht met inbegrip van een samenvatting van deze opmerkingen, adviezen en overwegingen;<br>
 5° de relatie met de relevante beleidsplannen;<br>
 6° in voorkomend geval, de wijze waarop zal worden afgeweken van :<br>
-a) het richtinggevende en bindende gedeelte van de ruimtelijke structuurplannen;<br>
+a) de ruimtelijke beleidsplannen of het richtinggevende en bindende gedeelte van de ruimtelijke structuurplannen;<br>
 b) de voorschriften van plannen van aanleg en ruimtelijke uitvoeringsplannen;<br>
 7° de opgave als welke beslissingen vermeld in artikel 40 en 41 het projectbesluit geldt en, in voorkomend geval, de wijze waarop toepassing gemaakt wordt van artikel 41;<br>
 8° in voorkomend geval, een herkenbaar onderdeel dat geldt als ruimtelijk uitvoeringsplan als vermeld in artikel 2.2.5. van de Vlaamse Codex Ruimtelijke Ordening, en dat de gegevens, vermeld in artikel 2.2.5, § 1, van de voormelde codex, bevat;<br>
