@@ -8,7 +8,16 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 2.
 
-§ 1. De provincies zijn het intermediair beleidsniveau tussen het Vlaamse en het gemeentelijke niveau. De provincies beogen om op het provinciale niveau bij te dragen tot de duurzame ontwikkeling van het provinciale gebied.<br /><br />§ 2. Overeenkomstig artikel 41 van de gecoördineerde Grondwet zijn de provincies bevoegd voor de regeling van de provinciale belangen. Tot die provinciale belangen behoren met name :<br />1° de bovenlokale taakbehartiging. Een taakbehartiging is bovenlokaal als ze aangelegenheden van lokaal gemeentelijk belang overstijgt, voor zover ze streekgericht blijft en gericht is op realisaties binnen de grenzen van het grondgebied van de provincie;<br />2° ondersteunende taken op verzoek van andere overheden;<br />3° het nemen van initiatieven met het oog op gebiedsgerichte samenwerking tussen besturen in een regio, met inbegrip van samenwerkingsverbanden met of zonder rechtspersoonlijkheid, binnen de grenzen, vastgelegd door de Vlaamse Regering, zonder afbreuk te doen aan het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking.<br /><br />Alleen als dat bij decreet uitdrukkelijk is bepaald, kunnen de provincies de medewerking van de gemeenten regelen.<br /><br />§ 3. Inzake de aangelegenheden vermeld in de artikelen 4 en 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen oefenen de provincies slechts de bevoegdheden en taken uit indien en voor zover hen die door of krachtens de wet of het decreet zijn toevertrouwd.<br /><br />Voor zover dit bij decreet is bepaald, oefenen de provincies deze bevoegdheden uit overeenkomstig de bepalingen opgenomen in een bestuursakkoord afgesloten tussen de Vlaamse Regering en de provincies. De Vlaamse Regering sluit hiertoe een bestuursakkoord met elk van de vijf provincies. Deze bestuursakkoorden bevatten zowel een algemeen luik, identiek in de vijf bestuursakkoorden, als een specifiek luik, afgestemd op de betrokken provincie.<br /><br />De bestuursakkoorden worden gesloten voor een periode van zes jaar. Ze starten op 1 januari van het tweede jaar dat volgt op de provincieraadsverkiezingen en lopen af op 31 december van het jaar na de volgende provincieraadsverkiezingen. De Vlaamse Regering bepaalt de nadere modaliteiten met betrekking tot de inhoud en de procedure voor de opmaak, het afsluiten en de evaluatie van de bestuursakkoorden.
+§ 1. De provincies zijn het intermediair beleidsniveau tussen het Vlaamse en het gemeentelijke niveau. De provincies beogen om op het provinciale niveau bij te dragen tot de duurzame ontwikkeling van het provinciale gebied.<br>
+<br>
+§ 2. Overeenkomstig artikel 41 van de gecoördineerde Grondwet zijn de provincies bevoegd voor de regeling van de provinciale belangen. Tot die provinciale belangen behoren met name :<br>
+1° de bovenlokale taakbehartiging. Een taakbehartiging is bovenlokaal als ze aangelegenheden van lokaal gemeentelijk belang overstijgt, voor zover ze streekgericht blijft en gericht is op realisaties binnen de grenzen van het grondgebied van de provincie;<br>
+2° ondersteunende taken op verzoek van andere overheden;<br>
+3° het nemen van initiatieven met het oog op gebiedsgerichte samenwerking tussen besturen in een regio, met inbegrip van samenwerkingsverbanden met of zonder rechtspersoonlijkheid, binnen de grenzen, vastgelegd door de Vlaamse Regering, zonder afbreuk te doen aan het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking.<br>
+<br>
+Alleen als dat bij decreet uitdrukkelijk is bepaald, kunnen de provincies de medewerking van de gemeenten regelen.<br>
+<br>
+§ 3. Voor de aangelegenheden, vermeld in artikel 4 en 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, oefenen de provincies geen bevoegdheden en taken uit.
 
 ### ART. 3.
 
@@ -1352,7 +1361,21 @@ Behalve in geval van gemotiveerde afwijking, kan aan geen enkel personeelslid va
 
 ### ART. 235.
 
-§ 1. Het autonoom provinciebedrijf kan leningen aangaan en giften of toelagen ontvangen binnen de grenzen, gesteld in de statuten en de beheersovereenkomst.<br /><br />§ 2. Het autonoom provinciebedrijf kan door de Vlaamse Regering gemachtigd worden om in eigen naam en voor eigen rekening over te gaan tot onteigeningen die noodzakelijk zijn voor de verwezenlijking van zijn doelstellingen.<br /><br />§ 3. Het autonoom provinciebedrijf beslist vrij, binnen de grenzen van zijn doel, over de verwerving, de aanwending en de vervreemding van zijn goederen, over de vestiging of opheffing van zakelijke rechten op die goederen, alsook over de uitvoering van dergelijke beslissingen en over hun financiering.<br /><br />§ 4. Het autonoom provinciebedrijf stelt de tarieven en de tariefstructuren voor de door het bedrijf geleverde prestaties vast binnen de grenzen van de in de beheersovereenkomst bepaalde grondregelen inzake tarifering. De maximumtarieven of de formules voor hun berekening die niet in de beheersovereenkomst zijn geregeld, worden ter goedkeuring voorgelegd aan de provincieraad.<br /><br />§ 5. Het autonoom provinciebedrijf kan andere rechtspersonen oprichten, erin deelnemen of zich erin laten vertegenwoordigen, voorzover dat past in zijn opdrachten. De oprichting, deelname of vertegenwoordiging mag geen speculatieve oogmerken nastreven en gebeurt in overeenstemming met het gelijkheidsbeginsel, de regelgeving inzake mededinging en staatssteun en de voorwaarden, bepaald in de beheersovereenkomst. De beslissing tot oprichting, deelname of vertegenwoordiging toont aan dat aan de voormelde voorwaarden is voldaan.<br /><br />De deelname is onderworpen aan de voorwaarde dat aan het autonoom provinciebedrijf minstens een mandaat van bestuurder wordt toegekend.<br /><br />De beslissing tot oprichting, deelname of vertegenwoordiging wordt binnen dertig dagen aan de Vlaamse Regering verzonden. Tot de oprichting, deelname of vertegenwoordiging kan pas worden overgegaan nadat de beslissing hiertoe werd goedgekeurd.<br /><br />Binnen honderd dagen na verzending keurt de Vlaamse Regering de beslissing al dan niet goed. Als die termijn verstrijkt zonder dat de Vlaamse Regering een beslissing heeft genomen en die beslissing heeft verzonden aan het autonoom provinciebedrijf, dan wordt de goedkeuring geacht te zijn verleend.
+§ 1. Het autonoom provinciebedrijf kan leningen aangaan en giften of toelagen ontvangen binnen de grenzen, gesteld in de statuten en de beheersovereenkomst.<br>
+<br>
+§ 2. Het autonoom provinciebedrijf kan, op voorwaarde dat het daarvoor de machtiging krijgt van de provincieraad van de provincie op het grondgebied waarvan het voorwerp van de onteigening zich bevindt,&nbsp; in eigen naam en voor eigen rekening over te gaan tot onteigeningen die noodzakelijk zijn voor de verwezenlijking van zijn doelstellingen.<br>
+<br>
+§ 3. Het autonoom provinciebedrijf beslist vrij, binnen de grenzen van zijn doel, over de verwerving, de aanwending en de vervreemding van zijn goederen, over de vestiging of opheffing van zakelijke rechten op die goederen, alsook over de uitvoering van dergelijke beslissingen en over hun financiering.<br>
+<br>
+§ 4. Het autonoom provinciebedrijf stelt de tarieven en de tariefstructuren voor de door het bedrijf geleverde prestaties vast binnen de grenzen van de in de beheersovereenkomst bepaalde grondregelen inzake tarifering. De maximumtarieven of de formules voor hun berekening die niet in de beheersovereenkomst zijn geregeld, worden ter goedkeuring voorgelegd aan de provincieraad.<br>
+<br>
+§ 5. Het autonoom provinciebedrijf kan andere rechtspersonen oprichten, erin deelnemen of zich erin laten vertegenwoordigen, voorzover dat past in zijn opdrachten. De oprichting, deelname of vertegenwoordiging mag geen speculatieve oogmerken nastreven en gebeurt in overeenstemming met het gelijkheidsbeginsel, de regelgeving inzake mededinging en staatssteun en de voorwaarden, bepaald in de beheersovereenkomst. De beslissing tot oprichting, deelname of vertegenwoordiging toont aan dat aan de voormelde voorwaarden is voldaan.<br>
+<br>
+De deelname is onderworpen aan de voorwaarde dat aan het autonoom provinciebedrijf minstens een mandaat van bestuurder wordt toegekend.<br>
+<br>
+De beslissing tot oprichting, deelname of vertegenwoordiging wordt binnen dertig dagen aan de Vlaamse Regering verzonden. Tot de oprichting, deelname of vertegenwoordiging kan pas worden overgegaan nadat de beslissing hiertoe werd goedgekeurd.<br>
+<br>
+Binnen honderd dagen na verzending keurt de Vlaamse Regering de beslissing al dan niet goed. Als die termijn verstrijkt zonder dat de Vlaamse Regering een beslissing heeft genomen en die beslissing heeft verzonden aan het autonoom provinciebedrijf, dan wordt de goedkeuring geacht te zijn verleend.
 
 ### ART. 236.
 
@@ -1512,6 +1535,20 @@ De provincieraad treedt op als tuchtoverheid voor de provinciegriffier en voor d
 
 § 1. De Vlaamse Regering stelt de overgangsregelen vast betreffende het administratief en geldelijk statuut van de provincieontvangers die op het moment van de volledige inwerkingtreding van hoofdstuk VI van titel II van dit decreet in dienst van de provincies zijn, met inachtneming van de volgende principes:<br /><br />1° de waarborg van aanstelling in het ambt van financieel beheerder in de provincie in kwestie tot het einde van de loopbaan;<br /><br />2° het behoud van de verworven rechten inzake het geldelijk statuut.<br /><br />§ 2. Het mandaatstelsel, bedoeld in artikel 101, § 4, treedt slechts in werking bij de eerste nieuwe benoeming of aanstelling in de betrekking, nadat het mandaatstelsel voor deze betrekking in de rechtspositieregeling werd voorzien. De in § 1 vermelde gewaarborgde aanstelling van de provincieontvanger in het ambt van financieel beheerder, wordt niet geacht een nieuwe benoeming of aanstelling te zijn.<br /><br />§ 3. In afwijking van § 2 kan de provincieraad beslissen dat voor de vacatures uitgeschreven na de publicatie van onderhavig decreet het mandaatstelsel kan worden toegepast.
 
+### ART 264bis.
+
+De personeelsleden van de provincie van wie de huidige taken of functie de rechtstreekse of onrechtstreekse uitoefening inhouden van de aangelegenheden, vermeld in artikel 4 en 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, worden hetzij aan de Vlaamse Gemeenschap, hetzij aan een gemeente overgedragen.<br>
+<br>
+De personeelsleden, vermeld in het eerste lid, worden bij besluit van de Vlaamse Regering overgedragen. Voor elke overdracht aan een gemeente of gemeentelijk extern verzelfstandigd agentschap is voorafgaand overleg met het betrokken bestuur noodzakelijk.<br>
+<br>
+Het besluit, vermeld in het tweede lid, garandeert aan de overgedragen personeelsleden in elk geval :<br>
+1° het behoud van de hoedanigheid;<br>
+2° het behoud van de graad of het verkrijgen van een gelijkwaardige graad;<br>
+3° het behoud van de administratieve en geldelijke anciënniteit;<br>
+4° het behoud van het salaris op de datum van de overdracht of het verkrijgen van een gelijkwaardige salarisschaal;<br>
+5° het behoud van de functionele loopbaan;<br>
+6° het behoud van de toelagen en vergoedingen waarop het personeelslid op de datum van de overdracht op reglementaire basis recht heeft, als de voorwaarden van toekenning blijven bestaan en als aan die voorwaarden blijft voldaan.
+
 ## Afdeling II Overgangsbepalingen voor de provinciale financiën
 
 ### ART. 265.
@@ -1521,6 +1558,12 @@ De kwijting, vermeld in artikel 171, die wordt verleend voor de eerste jaarreken
 ### ART. 265.
 
 ...
+
+### ART 265bis.
+
+De roerende en onroerende goederen van de provincie, zowel van het openbaar als van het privaat domein, die onmisbaar zijn voor de uitoefening van de aangelegenheden, vermeld in artikel 4 en 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, alsook de rechten en plichten die verband houden met die aangelegenheden, worden hetzij aan de Vlaamse Gemeenschap, hetzij aan een gemeente zonder schadeloosstelling overgedragen.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden en de nadere regelen van de overdracht bedoeld in het eerste lid.
 
 ## Afdeling III Overgangsbepalingen voor de provinciale externe verzelfstandiging
 
