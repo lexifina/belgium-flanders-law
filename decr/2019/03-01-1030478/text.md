@@ -18,6 +18,18 @@ Aan artikel 20, § 3, van het decreet betreffende het secundair na secundair ond
 
 ## HOOFDSTUK 6. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
+### ART 17.
+
+In artikel II.66/1, eerste lid, van dezelfde codex, ingevoegd bij het decreet van 8 december 2017, worden de volgende wijzigingen aangebracht :<br>
+<br>
+1° punt 4° wordt vervangen door wat volgt :<br>
+<br>
+"4° voor de bachelor- en masteropleidingen van het academisch onderwijs, met uitzondering van de bachelor- en de masteropleidingen in de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten en van de masteropleidingen in het studiegebied Geneeskunde : ten minste 30 studiepunten en ten hoogste 120 studiepunten;";<br>
+<br>
+2° er wordt een punt 6° toegevoegd, dat luidt als volgt :<br>
+<br>
+"6° voor de masteropleidingen in het studiegebied Geneeskunde : ten minste 30 studiepunten.".
+
 ### ART 26.
 
 In artikel II.152 van dezelfde codex, vervangen bij het decreet van 8 december 2017 en gewijzigd bij het decreet van 18 mei 2018, worden de volgende wijzigingen aangebracht :<br>
