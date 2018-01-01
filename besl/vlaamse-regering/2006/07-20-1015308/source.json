@@ -2,16 +2,16 @@
   "codex_id": 1015308,
   "title": "Besluit van de Vlaamse Regering van 2006-07-20 houdende de aanduiding van de begrenzing van de afgesloten watervoerende lagen en heffingsgebieden ter uitvoering van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015308/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "72c06dd503cd846f4700145759963d8f1756984178aab0a7ad2952cd0e48ebcf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015308/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "9b089d52822c3a086a51392f77c78bb67354f782a9743033e83124f9c488d3ab",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015308&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2018-01-01",
   "made": "2006-07-20",
   "gazette": "2006-12-22",
   "numac": 2006036275,
   "document_start": "2007-01-01",
   "document_end": "2017-12-31",
-  "in_force": "2007-01-01",
+  "in_force": "2018-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
