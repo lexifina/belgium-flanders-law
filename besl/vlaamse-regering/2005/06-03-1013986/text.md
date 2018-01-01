@@ -123,11 +123,11 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 17.
 
-<p>§ 1. Voor het beleidsdomein Kanselarij en Bestuur wordt het Vlaams ministerie met de naam "Kanselarij en Bestuur" opgericht, dat bestaat uit het departement "Kanselarij en Bestuur", het departement "Informatie Vlaanderen", de Dienst van de Bestuursrechtscolleges en&nbsp;vijf agentschappen zonder rechtspersoonlijkheid:<br>
+<p>§ 1. Voor het beleidsdomein Kanselarij en Bestuur wordt het Vlaams ministerie met de naam "Kanselarij en Bestuur" opgericht, dat bestaat uit het departement "Kanselarij en Bestuur",&nbsp;de Dienst van de Bestuursrechtscolleges en&nbsp;vijf agentschappen zonder rechtspersoonlijkheid:<br>
 1° Audit Vlaanderen.<br>
 2° Agentschap Overheidspersoneel;<br>
 3° Agentschap Facilitair Bedrijf;<br>
-4° Agentschap Binnenlands Bestuur.<br>
+4° Agentschap Binnenlands Bestuur;<br>
 5° agentschap Informatie Vlaanderen.<br>
 <br>
 § 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Kanselarij en Bestuur behoren, zijn :<br>
@@ -233,7 +233,7 @@ De taken die conform artikel 30 aan de departementen worden toevertrouwd, behore
 § 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Mobiliteit en Openbare Werken behoren, zijn :<br>
 1° Vlaamse Vervoermaatschappij - De Lijn;<br>
 2° De Vlaamse Waterweg;<br>
-3° Waterwegen en Zeekanaal;<br>
+3° ...;<br>
 4° ...;<br>
 5° Luchthavenontwikkelingsmaatschappij Oostende-Brugge;<br>
 6° Luchthavenontwikkelingsmaatschappij Kortrijk-Wevelgem;<br>
