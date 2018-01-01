@@ -2,16 +2,16 @@
   "codex_id": 1028241,
   "title": "Besluit van de Vlaamse Regering van 2017-04-21 houdende regeling tot erkenning en subsidiëring van een Vlaamse organisatie ter ondersteuning van welzijnsbevordering en samenlevingsopbouw",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028241/VolledigDocument?datum=2017-05-15",
-  "source_sha256": "ad087ae81a01e49cb0543c0297aefc2e68f4e28534bd91ff9db697dffdcfa4fa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028241/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "37f751ae7966be81c97ab35a14ec6f0af4b8ad8d357ec234be5fb22c8312a6b7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028241&param=informatie",
-  "as_of": "2017-05-15",
+  "as_of": "2018-01-01",
   "made": "2017-04-21",
   "gazette": "2017-05-19",
   "numac": 2017012044,
   "document_start": "2017-05-15",
   "document_end": null,
-  "in_force": "2017-05-15",
-  "article_versions": 31,
-  "record_form": "consolidated version as in force on 2017-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-01-01",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }

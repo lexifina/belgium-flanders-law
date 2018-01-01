@@ -260,10 +260,66 @@ Conform artikel 14 van het decreet van 17 februari 2017 oefenen personeelsleden 
 
 ## HOOFDSTUK 5 Wijzigingsbepalingen
 
+### ART 26.
+
+In het opschrift van het besluit van de Vlaamse Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling en tot subsidiëring van een Vlaams Centrum Schuldenlast, vervangen bij het besluit van de Vlaamse Regering van 7 oktober 2011, worden de woorden "en tot subsidiëring van een Vlaams Centrum Schuldenlast" opgeheven.
+
+### ART 27.
+
+In artikel 1, 1°, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 24 november 2006, 7 oktober 2011, 31 januari 2014 en 30 januari 2015, worden de woorden "en tot subsidiëring van een Vlaams Centrum Schuldenlast" opgeheven.
+
+### ART 28.
+
+In artikel 11sexies, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 31 januari 2014, worden de woorden "het Vlaams Centrum Schuldenlast" vervangen door de woorden "de Vlaamse organisatie ter ondersteuning van welzijnsbevordering en samenlevingsopbouw".
+
+### ART 29.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 29 januari 2016, wordt hoofdstuk Vbis, dat bestaat uit artikel 15bis tot en met 15septies decies, opgeheven.
+
+### ART 30.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 17 juli 2000 tot uitvoering van het decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk, gewijzigd bij de besluiten van de Vlaamse Regering van 20 februari 2004, 24 november 2006, 24 september 2010, 12 juli 2013, 24 januari 2014 en 30 januari 2015, wordt punt 12° opgeheven.
+
+### ART 31.
+
+In artikel 3ter van hetzelfde besluit, ingevoegd en gewijzigd bij het besluit van de Vlaamse Regering van 24 januari 2014, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 3, eerste lid, worden de woorden "Het Vlaams instituut en de" vervangen door het woord "De";<br>
+2° in paragraaf 4, eerste lid, worden de woorden "Het Vlaams instituut en de" vervangen door het woord "De".
+
+### ART 32.
+
+In artikel 4 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 24 september 2010 en 24 januari 2014, wordt punt 1° opgeheven.
+
+### ART 33.
+
+In artikel 13, § 1, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 24 januari 2014, wordt punt 1° opgeheven.
+
+### ART 34.
+
+In artikel 14, § 1, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 20 februari 2004 en gewijzigd bij het besluit van de Vlaamse Regering van 24 september 2010, wordt de zinsnede ", en door het Vlaams instituut voor minstens 70 %" opgeheven.
+
+### ART 35.
+
+In artikel 17 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 20 februari 2004 en gewijzigd bij de besluiten van de Vlaamse Regering van 24 september 2010 en 24 januari 2014, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 worden de woorden "het Vlaams instituut en" opgeheven;<br>
+2° in paragraaf 2, eerste lid, worden de woorden "Het Vlaams instituut en het regionaal instituut moeten" vervangen door de woorden "Het regionaal instituut moet".
+
+### ART 36.
+
+&nbsp;In artikel 21 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 24 september 2010, worden de woorden "Het Vlaams instituut en de" vervangen door het woord "De".
+
+### ART 37.
+
+In artikel 22, § 1, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 20 februari 2004 en vervangen bij het besluit van de Vlaamse Regering van 24 januari 2014, worden de woorden "het Vlaams instituut en" opgeheven.
+
 ### ART 38.
 
 Aan artikel 2 van het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 22 november 2013, wordt een punt 17° toegevoegd, dat luidt als volgt:<br>
 "17° het decreet van 17 februari 2017 houdende regeling tot erkenning en subsidiëring van een Vlaamse organisatie ter ondersteuning van welzijnsbevordering en samenlevingsopbouw.".
+
+### ART 39.
+
+Artikel 39 van het besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk wordt opgeheven.
 
 ## HOOFDSTUK 6 Slotbepalingen
 
