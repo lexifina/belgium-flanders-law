@@ -2,11 +2,26 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op : <br />1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br />2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br />3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br />4° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.
+Dit besluit is van toepassing op :<br>
+1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
+2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
+3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
+4° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br>
+5° de personeelsleden vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie.
 
 ### ART. 2.
 
-§ 1. De in artikel 1 bedoelde personeelsleden hebben op hun aanvraag recht op een opvangverlof wanneer zij een kind beneden tien jaar in hun gezin opnemen met het oog op adoptie of pleegvoogdij.<br /><br />De tijdelijk aangestelde personeelsleden hebben enkel recht op dit opvangverlof voor zover het geheel of gedeeltelijk valt binnen de periode van hun aanstelling.<br /><br />Alleen het personeelslid dat adopteert, kan aanspraak maken op het opvangverlof.<br /><br />§ 2. Het opvangverlof wordt toegekend door de inrichtende macht aan de personeelsleden, vermeld in artikel 1, 1° en 2°, en door de Vlaamse minister bevoegd voor het onderwijs, of zijn gemachtigde aan de personeelsleden, vermeld in artikel 1, 3° en 4°.
+§ 1. De in artikel 1 bedoelde personeelsleden hebben op hun aanvraag recht op een opvangverlof wanneer zij een kind beneden tien jaar in hun gezin opnemen met het oog op adoptie of pleegvoogdij.<br>
+<br>
+De tijdelijk aangestelde personeelsleden hebben enkel recht op dit opvangverlof voor zover het geheel of gedeeltelijk valt binnen de periode van hun aanstelling.<br>
+<br>
+Alleen het personeelslid dat adopteert, kan aanspraak maken op het opvangverlof.<br>
+<br>
+§ 2. Het opvangverlof wordt toegekend door:<br>
+1° de inrichtende macht of het schoolbestuur voor de personeelsleden, vermeld in artikel 1, 1°, en 2° ;<br>
+2° de inspecteur-generaal voor de inspecteur en de coördinerend inspecteur;<br>
+3° de Vlaamse minister, bevoegd voor het onderwijs, of zijn gemachtigde, voor de inspecteur-generaal en voor de personeelsleden, vermeld in artikel 1, 4° ;<br>
+4° het centrumbestuur voor de personeelsleden, vermeld in artikel 1, 5°.
 
 ### ART. 3.
 
@@ -37,6 +52,10 @@ De personeelsleden die het verplichte voorbereidingsprogramma volgen met het oog
 ### ART. 7.
 
 (niet opgenomen)<br /><br />(Opgeheven worden:<br /><br />1° hoofdstuk IIbis van het koninklijk besluit van 8 december 1967 genomen ter uitvoering van artikel 3 van het koninklijk besluit van 28 februari 1967 houdende vaststelling van de administratieve stand van de leden van het administratief personeel en van het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs;<br /><br />2° hoofdstuk IIbis van het koninklijk besluit van 15 januari 1974 genomen ter toepassing van artikel 160 van het koninklijk besluit van 22 maart 1969 tot vaststelling van het statuut van de leden van het bestuurs- en onderwijzend personeel, van het opvoedend hulppersoneel, van het paramedisch personeel der inrichtingen voor kleuter-, lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs van de Staat, alsmede der internaten die van deze inrichtingen afhangen en van de leden van de inspectiedienst die belast is met het toezicht op deze inrichtingen;<br /><br />3° het koninklijk besluit van 13 oktober 1978 betreffende het verlof voor de opvang met het oog op adoptie en pleegvoogdij van de personeelsleden van het gesubsidieerd onderwijs;<br /><br />4° hoofdstuk III van het koninklijk besluit van 19 mei 1981 betreffende de vakantie- en verlofregeling van het stagedoend en vastbenoemd technisch personeel van de rijks-psycho-medisch-sociale centra, de rijksvormingscentra en de inspectiediensten;<br /><br />5° het koninklijk besluit van 1 oktober 1985 betreffende het verlof voor de opvang met het oog op adoptie en pleegvoogdij toegekend aan de tijdelijke leden van het technisch personeel van de rijks-psycho-medisch-sociale centra;<br /><br />6° het koninklijk besluit van 14 oktober 1985 betreffende het verlof voor de opvang met het oog op adoptie en pleegvoogdij van de gesubsidieerde personeelsleden van de gesubsidieerde psycho-medisch-sociale centra en diensten voor studie- en beroepsorintering;<br /><br />7° het koninklijk besluit van 12 november 1986 betreffende het verlof voor de opvang met het oog op adoptie en pleegvoogdij toegekend aan sommige tijdelijk aangestelde personeelsleden van rijksonderwijsinrichtingen)
+
+### ART 7/1.
+
+De perioden van opvangverlof met het oog op adoptie of pleegvoogdij, die door de personeelsleden van de centra voor basiseducatie opgenomen zijn vóór 1 januari 2018, worden in mindering gebracht van het contingent, vermeld in artikel 3.
 
 ### ART. 8.
 
