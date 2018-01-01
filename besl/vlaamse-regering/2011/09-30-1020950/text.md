@@ -18,7 +18,12 @@ Het agentschap kan overeenkomstig de bepalingen van dit besluit en binnen de gre
 
 ### ART. 3.
 
-Met behoud van de toepassing van de erkenningsvoorwaarden, vermeld in artikel 8bis en hoofdstuk II met uitzondering van artikel 11, b) en 11, c) van het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap, omvat de aanvraag tot erkenning de volgende gegevens :<br />1° het advies over de aanvraag tot erkenning van het Regionaal Overleg Gehandicaptenzorg van de provincie van de dienst;<br />2° het bewijs dat er voldaan wordt aan de bepalingen van artikel 4;<br />3° het engagement om binnen zes maanden na de erkenning overeenkomsten voor te leggen die gesloten zijn met de andere diensten in de provincie, waarbij afspraken worden gemaakt om ervoor te zorgen dat heel de provincie territoriaal bediend wordt en alle doelgroepen aan bod komen;<br />4° het engagement om de beheersovereenkomst, vermeld in artikel 8, te sluiten met het agentschap.<br /><br />
+Met behoud van de toepassing van de erkenningsvoorwaarden, vermeld in artikel 8bis en hoofdstuk II met uitzondering van artikel 11, b) en 11, c) van het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap, omvat de aanvraag tot erkenning de volgende gegevens :<br>
+1° ...<br>
+2° het bewijs dat er voldaan wordt aan de bepalingen van artikel 4;<br>
+3° het engagement om binnen zes maanden na de erkenning overeenkomsten voor te leggen die gesloten zijn met de andere diensten in de provincie, waarbij afspraken worden gemaakt om ervoor te zorgen dat heel de provincie territoriaal bediend wordt en alle doelgroepen aan bod komen;<br>
+4° het engagement om de beheersovereenkomst, vermeld in artikel 8, te sluiten met het agentschap.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -73,7 +78,20 @@ De dienst gaat volgens de door de mentororganisatie aangestuurde   methodieken n
 
 ### ART. 12.
 
-De personeelsformatie wordt uitgedrukt in personeelspunten.<BR><BR>De   tabel, die als bijlage 2 bij dit besluit is gevoegd, geeft per functie de   puntenwaarde aan per voltijdse equivalent.<BR><BR>Van de personeelspunten moet   ten minste 80% ingezet worden met personeelsleden van functies 13 tot en met 21   van de tabel, die als bijlage 2 bij dit besluit is gevoegd.<BR><BR>Van de   personeelspunten kan maximaal 10 % omgezet worden in een bedrag per punt dat   jaarlijks door het agentschap wordt bepaald door de totale gesubsidieerde   personeelskosten van de voorzieningen te delen door het totale aantal   gesubsidieerde personeelspunten, om handicapspecifieke knowhow in te   kopen.<BR><BR>Deze middelen mogen niet ingezet worden om andere organisaties   onder eigen gezag begeleidingen te laten verrichten.<BR><BR>
+De personeelsformatie wordt uitgedrukt in personeelspunten.<br>
+<br>
+De tabel, die als bijlage 2 bij dit besluit is gevoegd, geeft per functie de puntenwaarde aan per voltijdse equivalent.<br>
+<br>
+Van de personeelspunten moet ten minste 80% ingezet worden met personeelsleden van functies 13 tot en met 21 van de tabel, die als bijlage 2 bij dit besluit is gevoegd.<br>
+<br>
+Van de personeelspunten kan maximaal 3 % omgezet worden in een bedrag per punt om handicapspecifieke knowhow in te kopen. Het bedrag per punt bedraagt 834 euro (achthonderdvierendertig euro).<br>
+<br>
+De middelen, bepaald in het vierde lid,&nbsp;mogen niet ingezet worden om andere organisaties onder eigen gezag begeleidingen te laten verrichten.<br>
+<br>
+Het bedrag, vermeld in het vierde lid, mag niet aangewend worden voor reservevorming of voor de aanwerving van personeel of voor de vergoeding van eigen personeelskosten. De besteding van het bedrag mag gespreid worden over meer dan een boekhoudkundig jaar.<br>
+<br>
+Het bedrag, vermeld in het vierde lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).<br>
+&nbsp;
 
 ### ART. 13.
 
@@ -96,7 +114,14 @@ Per gepresteerde begeleiding ontvangt de dienst een werkingstoelage van 25 euro 
 
 ### ART. 17.
 
-§ 1. De personeelssubsidies en de werkingstoelagen worden per maand betaald voor een bedrag van acht procent van het bedrag op jaarbasis, dat wordt geraamd op basis van de bekende personeels- en cliëntgegevens.<br /><br />§ 2. Het jaarverslag en het financieel verslag worden ingediend uiterlijk op 30 juni van het jaar dat volgt op het werkingsjaar.<br /><br />De Vlaamse minister, bevoegd voor de bijstand aan personen, bepaalt de inhoud en de vorm van het jaarverslag en het financieel verslag.<br /><br />§ 3. Het saldo van de personeelssubsidies en de werkingstoelagen wordt verrekend na de goedkeuring van het jaarverslag en het financieel verslag, binnen achttien maanden die volgen op de datum, vermeld in paragraaf 2. De facto is dat 24 maanden na het einde van het werkingsjaar, op voorwaarde dat het jaarverslag en het financieel verslag op tijd en overeenkomstig de instructies van het agentschap ingediend zijn.<br /><br />
+§ 1. De personeelssubsidies en de werkingstoelagen worden per maand betaald voor een bedrag van acht procent van&nbsp;de totale subsidie op jaarbasis, dat wordt geraamd op basis van de bekende personeels- en cliëntgegevens.<br>
+<br>
+§ 2. Het jaarverslag en het financieel verslag worden ingediend uiterlijk op 30 juni van het jaar dat volgt op het werkingsjaar.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, bepaalt de inhoud en de vorm van het jaarverslag en het financieel verslag.<br>
+<br>
+§ 3. Het saldo van de personeelssubsidies en de werkingstoelagen wordt verrekend na de goedkeuring van het jaarverslag en het financieel verslag, binnen achttien maanden die volgen op de datum, vermeld in paragraaf 2. De facto is dat 24 maanden na het einde van het werkingsjaar, op voorwaarde dat het jaarverslag en het financieel verslag op tijd en overeenkomstig de instructies van het agentschap ingediend zijn.<br>
+&nbsp;
 
 ## HOOFDSTUK 5 [... (opgeh. BVR 11 maart 2022, art. 10, I: 1 juli 2022)]
 
