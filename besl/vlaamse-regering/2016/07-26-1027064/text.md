@@ -51,7 +51,7 @@
 <span style="color: rgb(0, 0, 0);">3° de personeelsleden, vermeld in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;</span><br>
 <span style="color: rgb(0, 0, 0);">4° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;</span><br>
 <span style="color: rgb(0, 0, 0);">5° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken;</span><br>
-<span style="color: rgb(0, 0, 0);">6° de personeelsleden, vermeld in artikel 127, § 1, eerste lid, 1°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;</span><br>
+6° de personeelsleden, vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie;<br>
 <span style="color: rgb(0, 0, 0);">7° de contractuele personeelsleden van het onderwijs en van de centra voor leerlingenbegeleiding;</span><br>
 <span style="color: rgb(0, 0, 0);">8° de personeelsleden van de universiteiten en de hogescholen in de Vlaamse Gemeenschap;</span><br>
 <span style="color: rgb(0, 0, 0);">9° de personeelsleden van provincies, de gemeenten, de openbare instellingen en de publiekrechtelijke agentschappen en verenigingen die ervan afhangen, alsook de intergemeentelijke samenwerkingsverbanden;</span><br>

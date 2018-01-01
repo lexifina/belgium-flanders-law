@@ -2,16 +2,16 @@
   "codex_id": 1027064,
   "title": "Besluit van de Vlaamse Regering van 2016-07-26 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027064/VolledigDocument?datum=2017-10-28",
-  "source_sha256": "b1e39541752b855ea9260f1e8761692634c07ed758d155b8cbdea042cee0c7c4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027064/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "27107a4c2e6cc0a5d15761620a96fcedcd321a8b274da2a0dca81d82ca828194",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027064&param=informatie",
-  "as_of": "2017-10-28",
+  "as_of": "2018-01-01",
   "made": "2016-07-26",
   "gazette": "2016-08-03",
   "numac": 2016036222,
   "document_start": "2016-09-02",
   "document_end": null,
-  "in_force": "2017-10-28",
+  "in_force": "2018-01-01",
   "article_versions": 42,
-  "record_form": "consolidated version as in force on 2017-10-28; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
