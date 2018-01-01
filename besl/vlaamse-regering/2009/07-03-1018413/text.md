@@ -8,7 +8,9 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de personeelsleden, vermeld in artikel 127, § 1, 1°, 2° en 3°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.
+Dit besluit is van toepassing op<br>
+1° de personeelsleden vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie in de basiseducatie;<br>
+2° de contractuele personeelsleden van de centra voor basiseducatie op wie de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing is.
 
 ### ART. 2.
 
@@ -18,7 +20,9 @@ In dit besluit wordt verstaan onder :<br />1° wettelijke feestdagen : 1 januari
 
 ### ART. 3.
 
-Dit hoofdstuk is niet van toepassing op de personeelsleden die aangesteld zijn in de functie van directeur van een Centrum voor Basiseducatie ten belope van het volume van hun opdracht als directeur.<br /><br />Een directeur kan binnen hetzelfde Centrum voor Basiseducatie niet aangesteld zijn voor meer dan een voltijdse opdracht.
+Dit hoofdstuk is niet van toepassing op de personeelsleden die aangesteld zijn in het ambt van directeur van een Centrum voor Basiseducatie ten belope van het volume van hun opdracht als directeur.<br>
+<br>
+Een directeur kan binnen hetzelfde Centrum voor Basiseducatie niet aangesteld zijn voor meer dan een voltijdse opdracht.
 
 ### ART. 4.
 
@@ -48,7 +52,22 @@ Jaarlijks kunnen verlofdagen overgedragen worden naar het volgende kalenderjaar.
 
 ### ART. 10.
 
-Elke periode waarvoor het personeelslid is aangesteld geeft recht op een aantal jaarlijkse verlofdagen.<br /><br />Voor het personeelslid dat deeltijds werkt, wordt het aantal jaarlijkse verlofdagen in evenredige mate verminderd.<br /><br />Als een personeelslid in de loop van het jaar in dienst treedt of uit dienst treedt, wordt aantal jaarlijkse verlofdagen tijdens het lopende jaar in evenredige mate verminderd.<br /><br />Het aantal jaarlijkse verlofdagen wordt tijdens het lopende jaar, en als dat niet meer mogelijk is, tijdens het volgende jaar eveneens in evenredige mate verminderd met het aantal onbezoldigde perioden van verlof of afwezigheid.<br /><br />In afwijking van het vierde lid, leiden de volgende verloven of afwezigheden niet tot een vermindering van het aantal jaarlijkse vakantiedagen :<br />1° afwezigheid wegens ziekte of ongeval;<br />2° bevallingsverlof overeenkomstig artikel 39 van de arbeidswet van 16 maart 1971;<br />3°afwezigheid wegens militaire dienst die geen volle kalendermaand beslaat;<br />4° vaderschapsverlof overeenkomstig het koninklijk besluit van 17 oktober 1994 betreffende de omzetting van het moederschapsverlof in vaderschapsverlof ingevolge hospitalisatie of overlijden van de moeder.<br /><br />Het aantal aldus berekende jaarlijkse verlofdagen bedraagt altijd een halve of volledige dag. De afronding van de berekening gebeurt naar de hogere halve dag.
+Elke periode waarvoor het personeelslid is aangesteld geeft recht op een aantal jaarlijkse verlofdagen.<br>
+<br>
+Voor het personeelslid dat deeltijds werkt, wordt het aantal jaarlijkse verlofdagen in evenredige mate verminderd.<br>
+<br>
+Als een personeelslid in de loop van het jaar in dienst treedt of uit dienst treedt, wordt aantal jaarlijkse verlofdagen tijdens het lopende jaar in evenredige mate verminderd.<br>
+<br>
+Het aantal jaarlijkse verlofdagen wordt tijdens het lopende jaar, en als dat niet meer mogelijk is, tijdens het volgende jaar eveneens in evenredige mate verminderd met het aantal onbezoldigde perioden van verlof of afwezigheid.<br>
+<br>
+In afwijking van het vierde lid, leiden de volgende verloven of afwezigheden niet tot een vermindering van het aantal jaarlijkse vakantiedagen :<br>
+1° afwezigheid wegens ziekte of ongeval;<br>
+2° bevallingsverlof overeenkomstig artikel 39 van de arbeidswet van 16 maart 1971;<br>
+3°afwezigheid wegens militaire dienst die geen volle kalendermaand beslaat;<br>
+4° vaderschapsverlof overeenkomstig het koninklijk besluit van 17 oktober 1994 betreffende de omzetting van het moederschapsverlof in vaderschapsverlof ingevolge hospitalisatie of overlijden van de moeder.<br>
+5° geboorteverlof ingevolge overlijden of hospitalisatie van de moeder conform het besluit van de Vlaamse Regering van 3 juli 2009 betreffende het omstandigheidsverlof, het verlof wegens overmacht, het onbezoldigd ouderschapsverlof en het geboorteverlof in geval van overlijden of hospitalisatie van de moeder voor bepaalde personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding en tot wijziging van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof voor verminderde prestaties, gewettigd door sociale of familiale redenen en de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheid ten gunste van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding.<br>
+<br>
+Het aantal aldus berekende jaarlijkse verlofdagen bedraagt altijd een halve of volledige dag. De afronding van de berekening gebeurt naar de hogere halve dag.
 
 ### ART. 11.
 
@@ -56,7 +75,7 @@ Naast het recht op jaarlijkse verlofdagen, vermeld in dit hoofdstuk, heeft het p
 
 ### ART. 12.
 
-§ 1. Naast het recht op jaarlijkse verlofdagen vermeld in dit hoofdstuk, heeft het personeelslid recht om op grond van dwingende redenen per kalenderjaar tien dagen afwezig te zijn van het werk. Onder dwingende redenen wordt verstaan elke niet te voorziene, los van het werk staande gebeurtenis die de dringende en noodzakelijke tussenkomst van de werknemer vereist en dit voor zover de uitvoering van de arbeidsovereenkomst deze tussenkomst onmogelijk maakt. <br /><br />Voor een personeelslid dat deeltijds aangesteld is, wordt het voormeld verlof om dwingende redenen in evenredige mate verminderd.<br /><br />Van de voormelde tien dagen worden er vier bezoldigd. <br /><br />§ 2. Het personeelslid dat om dringende redenen afwezig is, moet het centrumbestuur vooraf verwittigen. Indien dit niet mogelijk is moet het personeelslid het centrumbestuur zo spoedig mogelijk verwittigen.<br /><br />Op verzoek van het centrumbestuur moet het personeelslid de dwingende reden bewijzen aan de hand van de gepaste documenten of bij gebreke hieraan, door ieder ander bewijsmiddel.
+...
 
 ### ART. 13.
 
