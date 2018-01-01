@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029091,
+  "title": "Ministerieel besluit van 2018-01-11 betreffende de wijziging van het ministerieel besluit van 6 juli 2017 tot vaststelling van de lijst van de erkende Vlaamse sportfederaties in uitvoering van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029091/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "c81f2354337576b0b3c46f0a20f71aacab01d7c8e667617543ac045f65d9385b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029091&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2018-01-11",
+  "gazette": "2018-03-02",
+  "numac": 2018010894,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
