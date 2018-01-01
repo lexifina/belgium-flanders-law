@@ -8,17 +8,30 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   agentschap : het intern verzelfstandigd agentschap met rechtspersoonlijkheid   Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van   7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met   rechtspersoonlijkheid Vlaams Agentschap voor Personen met een   Handicap;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   collectief overlegorgaan : het overlegorgaan, vermeld in artikel 27 van het   besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene   erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang,   behandeling en begeleiding van personen met een handicap;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   collectieve inspraak : de collectieve inspraak, vermeld in artikel 30 van het   besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene   erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang,   behandeling en begeleiding van personen met een handicap;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   decreet van 12 juli 2013 : het decreet van 12 juli 2013 betreffende de integrale   jeugdhulp;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   gebruiker : de minderjarige persoon met een handicap die beschikt over een   indicatiestelling als vermeld in artikel 20 van het decreet van 12 juli   2013;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">6°   MFC : een multifunctioneel centrum voor minderjarige personen met een handicap   als vermeld in artikel 2 van dit besluit;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">7°   ministerieel besluit van 1 maart 2012 : het ministerieel besluit van 1 maart   2012 houdende vaststelling van de ondersteuningsvelden;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">8°   module : een duidelijk afgelijnde eenheid van jeugdhulpverlening als vermeld in   artikel 2, § 1, 38°, van het decreet van 12 juli 2013, en in artikel 2 van het   besluit van de Vlaamse Regering van 9 december 2005 betreffende de modulering in   de integrale jeugdhulp.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+In dit besluit wordt verstaan onder :<br>
+1° agentschap : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
+2° collectief overlegorgaan : het overlegorgaan, vermeld in artikel 27 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
+3° collectieve inspraak : de collectieve inspraak, vermeld in artikel 30 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap;<br>
+4° decreet van 12 juli 2013 : het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+5° gebruiker : de minderjarige persoon met een handicap die beschikt over een indicatiestelling als vermeld in artikel 20 van het decreet van 12 juli 2013;<br>
+5° /1 GES+ : ernstig externaliserend of internaliserend storend gedrag, in combinatie met een handicap, waarvan de impact dermate groot is dat er nood is aan continue, hoofdzakelijk residentiële ondersteuning met een semi-gesloten karakter;<br>
+6° MFC : een multifunctioneel centrum voor minderjarige personen met een handicap als vermeld in artikel 2 van dit besluit;<br>
+6° /1 MFC GES+ : een multifunctioneel centrum voor minderjarige personen met GES+ als vermeld in artikel 2, tweede lid, van dit besluit;<br>
+7° ministerieel besluit van 1 maart 2012 : het ministerieel besluit van 1 maart 2012 houdende vaststelling van de ondersteuningsvelden;<br>
+8° module : een duidelijk afgelijnde eenheid van jeugdhulpverlening als vermeld in artikel 2, § 1, 38°, van het decreet van 12 juli 2013, en in artikel 2 van het besluit van de Vlaamse Regering van 9 december 2005 betreffende de modulering in de integrale jeugdhulp;<br>
+9° residentiële ondersteuning : de voltijdse combinatie van de ondersteuningsfuncties verblijf met schoolaanvullende dagopvang of schoolvervangende dagopvang.
 
 ### ART. 2.
 
-&nbsp;Het agentschap kan binnen de grenzen   van de kredieten die daarvoor ingeschreven zijn op de begroting,   multifunctionele centra voor minderjarige personen met een handicap erkennen en   subsidiëren.
+Het agentschap kan binnen de grenzen van de kredieten die daarvoor ingeschreven zijn op de begroting, multifunctionele centra voor minderjarige personen met een handicap erkennen en subsidiëren.<br>
+<br>
+Het agentschap kan, binnen de grenzen van de kredieten die daarvoor ingeschreven zijn op de begroting, ook multifunctionele centra voor minderjarige personen met een handicap met GES+ erkennen en subsidiëren.
 
 ## HOOFDSTUK 2 Erkenning
 
 ### ART. 3.
 
-Om   erkend te worden en te blijven, moet een MFC voldoen aan de bepalingen, vermeld   in dit hoofdstuk en hoofdstuk 3, 4 en 5 van dit besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Om erkend te worden en te blijven, moet een MFC en MFC GES+ voldoen aan de bepalingen, vermeld in dit hoofdstuk en hoofdstuk 3, 4 en 5 van dit besluit.
 
 ### ART. 4.
 
@@ -27,6 +40,23 @@ Om   erkend te worden en te blijven, moet een MFC voldoen aan de bepalingen, ver
 ### ART. 5.
 
 <P>§   1. Een MFC voorziet, wat betreft de infrastructuur en basisuitrusting die het   ter beschikking stelt aan gebruikers, in veilige en aangepaste accommodatie   waarbij de privacy van de gebruiker gegarandeerd wordt. De infrastructuur moet   voldoende verwarmd, verlicht en geventileerd zijn.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Een MFC neemt maatregelen voor brandpreventie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   gebouwen waarin verblijf aangeboden wordt, en voor lokalen voor   schoolaanvullende dagopvang of schoolvervangende dagopvang, beschikt een MFC   over een brandweerverslag over de brandveiligheid van het   gebouw.</P>
+
+### ART 5/1.
+
+Om erkend te worden en te blijven als MFC GES+, moet een MFC aan al de volgende erkenningsnormen voldoen :<br>
+1° ondersteuning bieden aan gebruikers met een normale begaafdheid tot licht verstandelijke handicap en GES+ of gebruikers met een matige of ernstige verstandelijke handicap en GES+;<br>
+2° aan minimaal zes gebruikers met GES+ residentiële ondersteuning kunnen bieden. Organisaties die nog niet beschikken over die capaciteit bij aanvang van de erkenning engageren zich om daar binnen drie jaar aan te voldoen;<br>
+3° beschikken over de module voor de ondersteuning van minderjarigen met GES+;<br>
+4° een aangepaste infrastructuur hebben zodat er bescherming en veiligheid kan worden geboden, als de problematiek van de gebruiker dat vereist. Organisaties die nog niet beschikken over die capaciteit bij aanvang van de erkenning engageren zich om daar binnen drie jaar aan te voldoen ;<br>
+5° kunnen voorzien in een besloten aanbod als de problematiek van de gebruiker dat vereist;<br>
+6° kunnen voorzien in voltijdse residentiële ondersteuning, zeven dagen op zeven, als de problematiek van de gebruiker dat vereist;<br>
+7° de gebruiker de ondersteuning, vermeld in artikel 9, § 2, kunnen aanbieden;<br>
+8° samenwerken met andere MFC GES+ uit de regio om ervoor te zorgen dat er residentiële ondersteuning kan worden geboden tot en met de leeftijd van 21 jaar als de problematiek van de gebruiker dat vereist;<br>
+9° samenwerken met andere MFC GES+ uit de regio om ervoor te zorgen dat 50% van de totale capaciteit voor MFC GES+ prioritair wordt ingezet voor uitstroom uit de gemeenschapsinstellingen;<br>
+10° sectoraal en intersectoraal samenwerken;<br>
+11° overdragen van specifieke knowhow aan andere actoren die betrokken zijn bij de ondersteuning van gebruikers met GES+.<br>
+<br>
+In het eerste lid wordt verstaan onder besloten aanbod : een veilige en beveiligde leefomgeving met individuele kamers en de mogelijkheid tot afzonderingsmaatregelen als vermeld in artikel 45 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap.
 
 ## HOOFDSTUK 3 Doelgroep
 
@@ -46,10 +76,10 @@ Een   MFC kan gebruikers opnemen tot en met de leeftijd van eenentwintig   jaar.
 
 <p>§ 1. In dit artikel wordt verstaan onder het besluit van 27 november 2015 het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget.</p>
 
-<p>§ 2. De gebruiker die in een MFC verblijft en de leeftijd van eenentwintig jaar heeft bereikt, kan verder ondersteund worden door een MFC tot en met de leeftijd van vijfentwintig jaar in de volgende gevallen :<br>
+<p>§ 2. De gebruiker die in een MFC of MFC GES+ verblijft en de leeftijd van eenentwintig jaar heeft bereikt, kan verder ondersteund worden door een MFC of MFC GES+ tot en met de leeftijd van vijfentwintig jaar in de volgende gevallen :<br>
 1° de gebruiker komt niet in aanmerking voor een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in artikel 17, eerste lid, van het besluit van 27 november 2015;<br>
 2° ...;<br>
-3° de gebruiker is een budgetcategorie toegekend met toepassing van artikel 17, eerste lid, van het besluit van 27 november 2015, heeft een zware ondersteuningsnood en heeft nog geen plaats in een FAM.</p>
+3° de gebruiker is een budgetcategorie toegekend met toepassing van artikel 17, eerste lid, van het besluit van 27 november 2015, heeft een zware ondersteuningsnood en kan geen zorg of ondersteuning krijgen bij een vergunde zorgaanbieder als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap.</p>
 
 <p>§ 3. De&nbsp;ondersteuning van de gebruiker, vermeld in paragraaf 2, 1°, heeft tot doel :<br>
 1° de afronding van zijn schoolloopbaan;<br>
@@ -94,7 +124,18 @@ De   Vlaamse minister, bevoegd voor de bijstand aan personen, kan bepalen dat ee
 
 ### ART. 16.
 
-<P>Het   agentschap bepaalt, binnen de grenzen van de kredieten die daarvoor ingeschreven   zijn op de begroting, per MFC :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   het aantal personeelspunten waarvoor een MFC erkend wordt;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de werkingssubsidies van een MFC;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   in voorkomend geval het hoogste bedrag voor de werkingssubsidies voor vervoer   waarop het MFC gedurende de drie kalenderjaren voorafgaand aan de datum van   inwerkingtreding van dit besluit recht had met toepassing van artikel 2 § 5 van   het ministerieel besluit van 18 juni 1975 tot bepaling van de te volgen regels   voor de vaststelling van het bedrag van de tegemoetkoming uit het Fonds voor   medische, sociale en pedagogische zorg voor gehandicapten in de kosten voor   onderhoud, opvoeding en behandeling van gehandicapten die geplaatst zijn in   inrichtingen die onder het stelsel van het semi-internaat werken;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   agentschap bepaalt per MFC het aantal begeleidingsovereenkomsten die   geregistreerd zijn tijdens het jaar voor de instap in het experiment MFC, dat   opgezet werd vanaf 2012 en werd georganiseerd op basis van beheersovereenkomsten   als vermeld in artikel 7/1, § 3, van het besluit van de Vlaamse Regering van 26   april 1995 tot vaststelling van de voorwaarden en maatregelen volgens welke het   Vlaams Agentschap voor Personen met een Handicap bijzondere subsidies aan   voorzieningen kan toekennen. Dat aantal geldt als referentie voor het te   realiseren aantal begeleidingsovereenkomsten, vermeld in artikel 36 van dit   besluit. Bij de bepaling van het aantal begeleidingsovereenkomsten wordt geen   rekening gehouden met de gebruikers die opgenomen zijn via een persoonsvolgend   convenant dat gesloten is met toepassing van artikel 3 van het besluit van de   Vlaamse Regering van 19 juli 2002 houdende maatregelen om tegemoet te komen aan   de noodzaak tot leniging van dringende behoeften van personen met een   handicap.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het agentschap bepaalt, binnen de grenzen van de kredieten die daarvoor ingeschreven zijn op de begroting, per MFC :<br>
+1° het aantal personeelspunten waarvoor een MFC erkend wordt;<br>
+2° de werkingssubsidies van een MFC;<br>
+3° in voorkomend geval het hoogste bedrag voor de werkingssubsidies voor vervoer waarop het MFC gedurende de drie kalenderjaren voorafgaand aan de datum van inwerkingtreding van dit besluit recht had met toepassing van artikel 2 § 5 van het ministerieel besluit van 18 juni 1975 tot bepaling van de te volgen regels voor de vaststelling van het bedrag van de tegemoetkoming uit het Fonds voor medische, sociale en pedagogische zorg voor gehandicapten in de kosten voor onderhoud, opvoeding en behandeling van gehandicapten die geplaatst zijn in inrichtingen die onder het stelsel van het semi-internaat werken;</p>
+
+<p>Het agentschap bepaalt per MFC het aantal begeleidingsovereenkomsten die geregistreerd zijn tijdens het jaar voor de instap in het experiment MFC, dat opgezet werd vanaf 2012 en werd georganiseerd op basis van beheersovereenkomsten als vermeld in artikel 7/1, § 3, van het besluit van de Vlaamse Regering van 26 april 1995 tot vaststelling van de voorwaarden en maatregelen volgens welke het Vlaams Agentschap voor Personen met een Handicap bijzondere subsidies aan voorzieningen kan toekennen. Dat aantal geldt als referentie voor het te realiseren aantal begeleidingsovereenkomsten, vermeld in artikel 36 van dit besluit. Bij de bepaling van het aantal begeleidingsovereenkomsten wordt geen rekening gehouden met de gebruikers die opgenomen zijn via een persoonsvolgend convenant dat gesloten is met toepassing van artikel 3 van het besluit van de Vlaamse Regering van 19 juli 2002 houdende maatregelen om tegemoet te komen aan de noodzaak tot leniging van dringende behoeften van personen met een handicap.<br>
+<br>
+Een MFC GES+ ontvangt bijkomend op het aantal personeelspunten, vermeld in het eerste lid, 1°, 23, 60 personeelspunten voor de ondersteuning van één gebruiker met GES+. Die 23,60 personeelspunten worden toegevoegd aan de maximale personeelsnorm die bepaald is voor opvoedend en verzorgend personeel voor de doelgroep van gehandicapten met karakterstoornissen, vermeld in tabel 2 van bijlage II bij het ministerieel besluit van 24 april 1973 tot bepaling, wat betreft het Ministerie van Volksgezondheid en van het Gezin, van de te volgen bijzondere regels voor de vaststelling van de toelagen per dag, toegekend voor het onderhoud en de behandeling van de gehandicapten, geplaatst ten laste van de openbare besturen, zoals van kracht op 31 december 2015. Vanaf 1 september 2018 ontvangt dit MFC GES+ nog bijkomend 8,85 personeelspunten voor de ondersteuning van één gebruiker met GES+.<br>
+<br>
+In afwijking van het derde lid ontvangt een MFC GES+ 2,95 personeelspunten voor de ondersteuning van één gebruiker met GES+ als het MFC GES+ al een hogere personeelsomkadering heeft gekregen voor de opvang van zes gebruikers met GES+ conform de bepalingen van bijlage 2, Tabel I, Personeelsnormen voor inrichtingen die werken onder het internaatsstelsel, punt (9), van het ministerieel besluit van 24 april 1973 tot bepaling, wat betreft het Ministerie van Volksgezondheid en van het Gezin, van de te volgen bijzondere regels voor de vaststelling van de toelagen per dag, toegekend voor het onderhoud en de behandeling van de gehandicapten, geplaatst ten laste van de openbare besturen, zoals van kracht op 31 december 2015. Vanaf 1 september 2018 ontvangt dit MFC GES+ nog bijkomend 8,85 personeelspunten voor de ondersteuning van één gebruiker met GES+.<br>
+<br>
+Artikel 18 en 19 zijn niet van toepassing op de personeelspunten, vermeld in het derde tot en met vierde lid.</p>
 
 ### ART. 17.
 
@@ -106,7 +147,15 @@ Minstens   75% van het puntenpakket in erkenning wordt besteed aan functies van 
 
 ### ART. 19.
 
-<P>Een   MFC kan maximaal 10% van de personeelspunten omzetten in werkingsmiddelen tegen   een bedrag per punt.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   bedrag, vermeld in het eerste lid, wordt jaarlijks door het agentschap bepaald   door de totale gesubsidieerde personeelskosten van de voorzieningen erkend en   gesubsidieerd door het agentschap te delen door het totale aantal gesubsidieerde   personeelspunten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   bedrag, vermeld in het eerste lid, wordt alleen gesubsidieerd op voorwaarde dat   er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het   collectief overlegorgaan of dat er collectieve inspraak is geweest en dat er een   schriftelijke overeenkomst met de werknemersvertegenwoordiging is, en er aan   deze overlegkanalen transparantie is geboden over de aanwending. Op verzoek van   het agentschap bewijst het MFC het resultaat van het overleg met het collectief   overlegorgaan of collectieve inspraak en het schriftelijk akkoord met de   werknemersvertegenwoordiging.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   een MFC 5% of minder dan 5% van de personeelspunten omzet in werkingsmiddelen,   dan is er geen schriftelijke overeenkomst met de werknemersvertegenwoordiging   vereist. In dat geval volstaat voorafgaand overleg met de genoemde   overlegkanalen met het oog op transparantie over de aanwending.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevorming   als vermeld in artikel 30. De besteding van het bedrag mag evenwel gespreid   worden over meer dan een boekhoudkundig jaar."<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Een MFC kan maximaal 3% van de personeelspunten omzetten in werkingsmiddelen tegen een bedrag per punt.</p>
+
+<p>Het bedrag per punt bedraagt 834 euro (achthonderdvierendertig euro).</p>
+
+<p>Het bedrag, vermeld in het eerste lid, wordt alleen gesubsidieerd op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectief overlegorgaan of dat er collectieve inspraak is geweest en dat er overleg met de werknemersvertegenwoordiging heeft plaatsgevonden, en er aan deze overlegkanalen transparantie is geboden over de aanwending. Op verzoek van het agentschap bewijst het MFC het resultaat van het overleg met het collectief overlegorgaan of collectieve inspraak en het&nbsp;overleg met de werknemersvertegenwoordiging.</p>
+
+<p>Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevorming of voor de aanwerving van personeel of voor de vergoeding van eigen personeelskosten.</p>
+
+<p>De besteding van het bedrag, vermeld in het eerste lid, mag evenwel gespreid worden over meer dan een boekhoudkundig jaar.</p>
 
 ### ART. 20.
 
@@ -118,7 +167,10 @@ Minstens   75% van het puntenpakket in erkenning wordt besteed aan functies van 
 
 ### ART. 22.
 
-De   werkingssubsidies en de aanvullende werkingssubsidies worden op 1 januari (jaar   X) aangepast, rekening houdend met het indexcijfer van de consumptieprijzen,   vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter   uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands   concurrentievermogen, hierna G-index te noemen, volgens de formule :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">(basisbedrag   x G-index december jaar X<SUP   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">-1</SUP>)   / G-index   december 2015
+De werkingssubsidies en de aanvullende werkingssubsidies worden op 1 januari (jaar X) aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule :<br>
+(basisbedrag x G-index december jaar X<sup>-1</sup>) / G-index december 2015<br>
+<br>
+Het bedrag, vermeld in artikel 19, tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).
 
 ### ART. 23.
 
@@ -194,7 +246,11 @@ Een   MFC vermindert de bijdrage voor schoolaanvullende dagopvang of schoolverva
 
 ### ART. 32.
 
-<P>&nbsp;De voorschotten op de subsidies worden   per maand betaald voor een bedrag van 8,33% van de totale subsidie op jaarbasis.   De personeelssubsidies worden geraamd op basis van de aan het agentschap   bekendgemaakte personeelsgegevens.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   subsidiedossier wordt uiterlijk ingediend op 30 juni van het jaar na het   werkingsjaar. Het agentschap bepaalt de inhoud en de vorm van het   subsidiedossier.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   saldo van de subsidies wordt verrekend na de goedkeuring van het   subsidiedossier, binnen achttien maanden die volgen op de datum, vermeld in het   tweede lid.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>&nbsp;De voorschotten op de subsidies worden per maand betaald voor een bedrag van 8% van de totale subsidie op jaarbasis. De personeelssubsidies worden geraamd op basis van de aan het agentschap bekendgemaakte personeelsgegevens.</p>
+
+<p>Het subsidiedossier wordt uiterlijk ingediend op 30 juni van het jaar na het werkingsjaar. Het agentschap bepaalt de inhoud en de vorm van het subsidiedossier.</p>
+
+<p>Het saldo van de subsidies wordt verrekend na de goedkeuring van het subsidiedossier, binnen achttien maanden die volgen op de datum, vermeld in het tweede lid.</p>
 
 ### ART. 33.
 
@@ -213,6 +269,14 @@ Een   MFC vermindert de bijdrage voor schoolaanvullende dagopvang of schoolverva
 ### ART. 36.
 
 <P>Een   MFC moet minstens evenveel begeleidingsovereenkomsten realiseren als bepaald   conform artikel 16, tweede lid.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Bij   de bepaling van het aantal geregistreerde begeleidingsovereenkomsten, vermeld in   het eerste lid, wordt geen rekening gehouden met de gebruikers die opgenomen   zijn via een persoonsvolgend convenant dat gesloten is met toepassing van   artikel 3 van het besluit van de Vlaamse Regering van 19 juli 2002 houdende   maatregelen om tegemoet te komen aan de noodzaak tot leniging van dringende   behoeften van personen met een handicap.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   een MFC minder begeleidingsovereenkomsten realiseert dan bepaald in het eerste   lid, motiveert het MFC dat in het subsidiedossier, vermeld in artikel 32, tweede   lid.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+
+### ART 36/1.
+
+Als een MFC GES+ gedurende twee opeenvolgende jaren niet aan de erkenningsnormen, vermeld in artikel 5/1, voldoet, of op jaarbasis geen bezettingsgraad van 75% van de zes gebruikers met GES+ behaalt, dan wordt vanaf het derde jaar het aantal personeelspunten dat het MFC conform artikel 16, derde lid, ontvangt, verminderd met 25 %.<br>
+<br>
+Als het MFC GES+ gedurende twee jaren na de jaren, vermeld in het eerste lid, nog steeds niet aan de erkenningsnormen, vermeld in artikel 5/1, voldoet, of op jaarbasis geen bezettingsgraad van 75% van de zes gebruikers met GES+ behaalt, dan wordt zijn erkenning als MFC GES+ ingetrokken.<br>
+<br>
+Tegen de intrekking van de erkenning als MFC GES+, vermeld in het tweede lid, kan het MFC GES+ beroep aantekenen conform artikel 17 van het besluit van de Vlaamse regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap.
 
 ## HOOFDSTUK 6 Toezicht
 
