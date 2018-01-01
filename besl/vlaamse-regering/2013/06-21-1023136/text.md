@@ -188,7 +188,7 @@ De minister kan, binnen de perken van de begrotingskredieten, een subsidie   ver
 
 ### ART. 39.
 
-<P>De minister kan, binnen de perken van de begrotingskredieten, een subsidie   verlenen aan een of meer organisaties die ondersteunende of dienstverlenende   taken verrichten voor de centra. Die taken omvatten onder meer de ondersteuning   of dienstverlening, in de ruime betekenis, aan heel de sector van het algemeen   welzijnswerk op het vlak van methodiekontwikkeling, begeleiding en coaching,   deskundigheidstransfer, innovatief optreden, documentaire onderbouw en   kennisopbouw, met uitsluiting van sectorale belangenbehartiging vanuit   werkgeversperspectief.</P>  <P><BR>Deze subsidiëring wordt geregeld via een overeenkomst.</P>
+...
 
 ## HOOFDSTUK 6. Het toezicht
 
