@@ -11,12 +11,12 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br />
 In dit decreet wordt verstaan onder :<br>
 1° basisonderwijs : het gewoon en buitengewoon basisonderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap;<br>
 2° centrumstad : Aalst, Antwerpen, Brugge, Genk, Gent, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas, Turnhout;<br>
-3° deeltijds kunstonderwijs : het deeltijds kunstonderwijs;<br>
+3° deeltijds kunstonderwijs : &nbsp;het deeltijds kunstonderwijs;<br>
 4° ...<br>
 5° hoger onderwijs : het onderwijs, georganiseerd door hogescholen en universiteiten;<br>
 6° lokaal overlegplatform : het lokaal overlegplatform vermeld in artikel VIII.2 en volgende van de Codificatie sommige bepalingen voor het onderwijs;<br>
 7° lokale actoren : de onderwijsinstellingen en alle andere rechtspersonen, instellingen, diensten, organisaties en/of groeperingen die op lokaal vlak bijdragen tot de doelstellingen van het flankerend onderwijsbeleid;<br>
-8° lokale besturen : de gemeenten, de provincies en de Vlaamse Gemeenschapscommissie, tenzij anders bepaald;<br>
+8° lokale besturen : de gemeenten, de provincies, binnen het kader van de uitoefening van hun provinciale bevoegdheden en de Vlaamse Gemeenschapscommissie, tenzij anders bepaald;<br>
 9° schoolbestuur : de inrichtende macht zoals vermeld in artikel 24, § 4, van de Grondwet. Dit is een rechtspersoon of natuurlijke persoon die verantwoordelijk is voor één of meer scholen;<br>
 10° secundair onderwijs : het voltijds secundair onderwijs, het buitengewoon secundair onderwijs, het deeltijds beroepssecundair onderwijs en het deeltijds secundair zeevisserijonderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap;<br>
 11° volwassenenonderwijs : het onderwijs vermeld in het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br>
@@ -24,7 +24,7 @@ In dit decreet wordt verstaan onder :<br>
 
 ### ART. 2bis.
 
-De bepalingen van het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd, zijn van toepassing op hoofdstuk IV.
+...
 
 ### ART. 3.
 
@@ -100,23 +100,23 @@ De lokale besturen werken mee aan maatregelen die moeten leiden tot een veralgem
 
 ### ART. 17.
 
-Dit hoofdstuk is niet van toepassing op het tweetalige gebied Brussel-Hoofdstad.
+...
 
 ### ART. 18.
 
-Binnen de beschikbare begrotingskredieten wordt in subsidies voorzien voor projecten in de gemeenten die het Vlaamse onderwijsbeleid versterken. Het bedrag dat hiervoor wordt ingeschreven in de begroting 2012 in uitvoering van het decreet flankerend onderwijsbeleid wordt vanaf het begrotingsjaar 2012 aangepast aan de evolutie van de gezondheidindex.<br /><br />Binnen de beschikbare begrotingskredieten bepaalt de Vlaamse Regering de criteria van de verdeling van dit budget aan de gemeenten.
+...
 
 ### ART. 19.
 
-Om voor de subsidies, vermeld in artikel 18, in aanmerking te komen, moeten gemeenten een neutraal school- en netoverschrijdend flankerend onderwijsbeleid voeren dat is opgenomen in de strategische meerjarenplanning van de gemeente, zoals vermeld in titel 2, hoofdstuk 2, van het besluit van de Vlaamse Regering van 25 juni 2010 betreffende de beleids- en beheerscyclus van de gemeenten, de provincies en de openbare centra voor maatschappelijk welzijn.<br /><br />De strategische meerjarenplanning bevat :<br />1° een beschrijving van de gewenste effecten en indicatoren van het flankerend onderwijsbeleid;<br />2° de actieplannen die de gemeente in samenwerking met lokale actoren opzet om vorm te geven aan het flankerend onderwijsbeleid. De actieplannen zijn gericht op één of meerdere doelstellingen met betrekking tot gelijke onderwijskansen, kleuterparticipatie, spijbelen, probleemgedrag op school, ongekwalificeerde uitstroom, taalstimulering Standaardnederlands, betrokkenheid van ouders en de buurt, samenwerking tussen onderwijs, welzijn, cultuur, jeugd en sport, overgang van onderwijs naar arbeidsmarkt, doorstroming en oriëntering, geletterdheid of levenslang leren. De Vlaamse Regering kan andere beleidsprioriteiten formuleren;<br />3° de manier waarop de gemeente voor de lokale actoren de samenwerking en het overleg faciliteert.<br /><br />De strategische meerjarenplanning en de actieplannen die betrekking hebben op basis- of secundair onderwijs, worden geadviseerd door het lokaal overlegplatform, voor zover er een lokaal overlegplatform binnen de gemeente actief is. In voorkomend geval moet de gemeente de betrokkenheid van het lokaal overlegplatform bij de opmaak van de strategische meerjarenplanning aantonen.
+...
 
 ### ART. 19bis.
 
-Een centrumstad kan ervoor kiezen projecten te laten uitvoeren door een vereniging zonder winstoogmerk. De subsidies kunnen in dat geval rechtstreeks toegekend worden aan de vereniging zonder winstoogmerk die het project uitvoert.
+...
 
 ### ART. 19ter.
 
-§ 1. Om voor subsidies ter stimulering van het flankerend onderwijsbeleid in aanmerking te komen, moet de gemeente de actieplannen, vermeld in artikel 19, 2°, gedeeltelijk mee financieel ondersteunen.<br /><br />De Vlaamse Regering is ermee belast het aandeel van de verplichte financiële inbreng te bepalen. De verplichte cofinanciering moet beperkt blijven tot een bedrag dat niet groter is dan het bedrag van de subsidie.<br /><br />§ 2. De subsidies worden telkens voor maximaal zes jaar toegekend. De Vlaamse Regering kan na drie jaar een evaluatie maken.<br /><br />§ 3. De Vlaamse Regering bepaalt de procedure van beoordeling en goedkeuring van de subsidieaanvragen en de rapportering over de uitvoering van de beleidsprioriteiten.
+...
 
 ### ART. 20.
 
