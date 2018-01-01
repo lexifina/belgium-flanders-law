@@ -22,32 +22,32 @@
 
 ### ART. 1.
 
-Voor particuliere radio-omroepen wordt een frequentieplan als vermeld in   bijlage 1, die bij dit besluit is gevoegd, vastgesteld.<BR>
+...
 
 ### ART. 2.
 
-Aan landelijke radio-omroepen worden de frequenties, vermeld in bijlage 2,   die bij dit besluit is gevoegd, ter beschikking gesteld.<BR>
+...
 
 ### ART. 3.
 
-Aan lokale radio-omroepen wordt een van de frequenties, vermeld in bijlage   3, die bij dit besluit is gevoegd, ter beschikking gesteld.<BR>
+...
 
 ### ART. 4.
 
-Dit besluit heeft uitwerking met ingang van 5 september   2012.<BR>
+...
 
 ### ART. 5.
 
-De Vlaamse minister, bevoegd voor het mediabeleid, is belast met de   uitvoering van dit besluit.<BR>
+...
 
 ### BIJLAGE 1
 
-Frequentieplan als vermeld in artikel 1<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD colSpan=3 align=middle>Lijst van Vlaamse frequenties voor particuliere         radio<BR>    <TR>      <TD>Lokaliteit       <TD>Freq<BR>(MHz)       <TD>Vermogen<BR>(watt)<BR>    <TR>      <TD>Antwerpen       <TD>99,2       <TD>10.000<BR>    <TR>      <TD>Bree       <TD>103,0       <TD>1000<BR>    <TR>      <TD>Brussegem       <TD>95,6       <TD>1259<BR>    <TR>      <TD>Brussel       <TD>102,8       <TD>1000<BR>    <TR>      <TD>Brussel       <TD>103,4       <TD>10.000<BR>    <TR>      <TD>Heuvelland (Wijtschate)       <TD>93,2       <TD>316<BR>    <TR>      <TD>Poperinge       <TD>104,5       <TD>1000<BR>    <TR>      <TD>Schoten       <TD>102,9       <TD>50.119<BR>    <TR>      <TD>Tongeren       <TD>94,8       <TD>1000<BR></TD></TR></TBODY></TABLE><BR>
+...
 
 ### BIJLAGE 2
 
-Frequentieplan als vermeld in artikel 2<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD colSpan=3 align=middle>Pakket 1<BR>    <TR>      <TD>Lokaliteit       <TD>Freq<BR>(MHz)       <TD>Vermogen<BR>(watt)<BR>    <TR>      <TD>BRUSSEGEM       <TD>95,6       <TD>1259<BR>    <TR>      <TD>BRUSSEL       <TD>103,4       <TD>10.000<BR></TD></TR></TBODY></TABLE><BR>  <TABLE border=1>    <TBODY>    <TR>      <TD colSpan=3 align=middle>Pakket 2<BR>    <TR>      <TD>Lokaliteit       <TD>Freq<BR>(MHz)       <TD>Vermogen<BR>(watt)<BR>    <TR>      <TD>ANTWERPEN       <TD>99,2       <TD>10.000<BR>    <TR>      <TD>HEUVELLAND (WIJTSCHATE)       <TD>93,2       <TD>316<BR></TD></TR></TBODY></TABLE><BR>  <TABLE border=1>    <TBODY>    <TR>      <TD colSpan=3 align=middle>Pakket 3<BR>    <TR>      <TD>Lokaliteit       <TD>Freq<BR>(MHz)       <TD>Vermogen<BR>(watt)<BR>    <TR>      <TD>SCHOTEN       <TD>102,9       <TD>50.119<BR>    <TR>      <TD>BREE       <TD>103,0       <TD>1000<BR>    <TR>      <TD>TONGEREN       <TD>94,8       <TD>1000<BR></TD></TR></TBODY></TABLE><BR>
+...
 
 ### BIJLAGE 3
 
-Frequentieplan als vermeld in artikel 3<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD colSpan=3 align=middle>Lijst van Vlaamse frequenties voor lokale         radio<BR>    <TR>      <TD>Lokaliteit       <TD>Freq<BR>(MHz)       <TD>Vermogen<BR>(watt)<BR>    <TR>      <TD>BRUSSEL       <TD>102,8       <TD>1000<BR>    <TR>      <TD>POPERINGE       <TD>104,5       <TD>1000<BR></TD></TR></TBODY></TABLE><BR>
+...
