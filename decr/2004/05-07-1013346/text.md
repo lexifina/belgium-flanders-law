@@ -51,7 +51,11 @@ De middelen die voor de aanvullende subsidie voor tewerkstelling binnen de cultu
 
 ### ART. 10.
 
-De erkende of gesubsidieerde organisaties, binnen de onder artikel 9 genoemde sectoren, kunnen de aanvullende personeelssubsidies ontvangen voor tewerkstelling van personeelsleden binnen de eigen organisatie.<br /><br />De gemeentebesturen kunnen aanvullende personeelssubsidies ontvangen voor de ondersteuning van tewerkstelling in verenigingen zonder winstoogmerk.
+De erkende of gesubsidieerde organisaties, binnen de onder artikel 9 genoemde sectoren, kunnen de aanvullende personeelssubsidies ontvangen voor tewerkstelling van personeelsleden binnen de eigen organisatie.<br>
+<br>
+De gemeentebesturen kunnen aanvullende personeelssubsidies ontvangen voor de ondersteuning van tewerkstelling in verenigingen zonder winstoogmerk.<br>
+<br>
+De bepaling in het eerste lid is niet van toepassing voor de sector, vermeld in artikel 9, 3°. De middelen die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn binnen de sector van het sociaal-cultureel volwassenenwerk, worden met ingang van 2021 toegevoegd aan de totale subsidie-enveloppe voor de werking van sociaal-culturele volwassenenorganisaties zoals bepaald in artikel 65, eerste lid, van het decreet van 7 juli 2017 houdende de subsidiëring en erkenning van het sociaal-cultureel volwassenenwerk. De middelen die vrijkomen na de beëindiging van de arbeidsovereenkomst met geregulariseerde DAC-werknemers binnen de sector van het lokaal cultuurbeleid worden vanaf 2018 besteed aan projectsubsidies, zoals bepaald in artikel 45 van het decreet van 7 juli 2017 houdende de subsidiëring en erkenning van het sociaal-cultureel volwassenenwerk. De middelen die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn binnen de sector van het lokaal cultuurbeleid, worden met ingang van 2021 volledig besteed aan projectsubsidies, zoals bepaald in artikel 45 van het decreet van 7 juli 2017 houdende de subsidiëring en erkenning van het sociaal-cultureel volwassenenwerk.
 
 ### ART. 11.
 
@@ -85,7 +89,7 @@ De minister kan in het kader van het lokale cultuurbeleid een uitzondering toest
 
 ### ART. 16.
 
-De eerste verdeling, bedoeld in artikelen 9 en 10, kan pas plaatsvinden naar aanleiding van de eerst-volgende beleidsplannen, en op zijn vroegst:<br>
+De eerste verdeling, bedoeld in artikelen 9 en 10, kan pas plaatsvinden naar aanleiding van de eerstvolgende beleidsplannen, en op zijn vroegst:<br>
 1° voor het lokale cultuurbeleid: 2008-2013;<br>
 2° voor het lokale jeugdwerkbeleid: 2008-2011;<br>
 3° voor het sociaal-cultureel volwassenenwerk: 2010-2013;<br>
@@ -96,20 +100,22 @@ Onverminderd de toepassing van het eerste lid vinden de eerste verdeling en toew
 <br>
 In afwijking van het tweede lid, vindt, wat het landelijk jeugdwerk betreft, de eerste verdeling en toewijzing, bedoeld in artikelen 9 en 10, plaats in het kader van de bespreking van de beleidsnota 2007-2009.<br>
 <br>
-In afwijking van het tweede lid wijst de Vlaamse Regering de personeelsfuncties waarin geregulariseerde DAC'ers tewerkgesteld zijn, die op het ogenblik van de inwerkingtreding van dit decreet onder de toepassing vallen van artikelen 5 en 6, voor zover zij niet te situeren zijn in de erkende of gesubsidieerde organisaties, vermeld in artikelen 2, 8°, en 9, 2°, en voor zover de personeelsfuncties behoren tot de subsector, vermeld in artikel 9, 1°, toe aan organisaties die gesubsidieerd worden in het kader van het Participatiedecreet.<br>
+In afwijking van het tweede lid wijst de Vlaamse Regering de personeelsfuncties waarin geregulariseerde DAC'ers tewerkgesteld zijn, die op het ogenblik van de inwerkingtreding van dit decreet onder de toepassing vallen van artikelen 5 en 6, voor zover zij niet te situeren zijn in de erkende of gesubsidieerde organisaties, vermeld in artikelen 2, 8°, en 9, 2°, en voor zover de personeelsfuncties behoren tot de subsector, vermeld in artikel 9, 1°, toe aan organisaties die gesubsidieerd worden in het kader van het de projectsubsidies binnen het decreet van 7 juli 2017 houdende de subsidiëring en erkenning van het sociaal-cultureel volwassenenwerk.<br>
 <br>
 Bij wijze van overgang wordt bij de vaststelling van de toe te wijzen personeelsfuncties rekening gehouden met de volgende principes :<br>
 1° voor de projecten, die op het ogenblik van de inwerkingtreding van dit decreet maximaal twee voltijdse equivalenten personeelsfuncties gesubsidieerd krijgen, gebeurt de toewijzing vanaf 1 januari 2009;<br>
 2° per project kan de toewijzing die op het ogenblik van de inwerkingtreding van dit decreet plaatsvindt, niet hoger zijn dan het equivalent van twee voltijdse personeelsfuncties;<br>
 3° onverminderd de toepassing van 2° behouden de projecten in 2008 altijd minstens een subsidiabel personeelsbestand van minstens twee voltijdse equivalenten personeelsfuncties.<br>
 <br>
-De personeelsfuncties die in de loop van de toepassing van dit decreet onder de toepassing van de artikelen 5 en 6 komen, worden, met toepassing van de principes 1°, 2° en 3°, van het vijfde lid van dit artikel, in afwijking van artikel 6, eerste lid, onmiddellijk toegewezen aan organisaties die gesubsidieerd worden in het kader van het Participatiedecreet.<br>
+De personeelsfuncties die in de loop van de toepassing van dit decreet onder de toepassing van de artikelen 5 en 6 komen, worden, met toepassing van de principes 1°, 2° en 3°, van het vijfde lid van dit artikel, in afwijking van artikel 6, eerste lid, onmiddellijk toegewezen aan organisaties die gesubsidieerd worden in het kader van het de projectsubsidies binnen het decreet van 7 juli 2017 houdende de subsidiëring en erkenning van het sociaal-cultureel volwassenenwerk.<br>
 <br>
 In afwijking van het tweede lid vindt voor het sociaal-cultureel volwassenenwerk de eerste verdeling en toewijzing plaats vanaf het jaar, volgend op de vaststelling van de objectieve parameters en regels door de Vlaamse Regering.<br>
 <br>
 In afwijking van het tweede lid vindt voor het gemeentelijk jeugdwerkbeleid de eerste verdeling en toewijzing plaats op 1 januari 2014.<br>
 <br>
-In afwijking van artikel 6 geldt dat als de arbeidsovereenkomst met een geregulariseerde DAC-werknemer in de sector niet-landelijk jeugdwerk beëindigd wordt of beëindigd is, de vervanger van de geregulariseerde DAC'er gesubsidieerd wordt tot en met 31 december van het jaar dat volgt op de beëindiging van de arbeidsovereenkomst. De eerste herverdeling vindt plaats na 31 december 2016.
+In afwijking van artikel 6 geldt dat als de arbeidsovereenkomst met een geregulariseerde DAC-werknemer in de sector niet-landelijk jeugdwerk beëindigd wordt of beëindigd is, de vervanger van de geregulariseerde DAC'er gesubsidieerd wordt tot en met 31 december van het jaar dat volgt op de beëindiging van de arbeidsovereenkomst. De eerste herverdeling vindt plaats na 31 december 2016.<br>
+<br>
+In afwijking van artikel 6 geldt dat als de arbeidsovereenkomst van de geregulariseerde DAC-werknemer binnen een erkende of gesubsidieerde sociaal-culturele volwassenenorganisatie op basis van het decreet van 4 april 2003 in de periode 2018-2020 wordt beëindigd, de vrijgekomen middelen gaan naar de sociaal-culturele volwassenenorganisaties, erkend of gesubsidieerd op basis van het decreet van 4 april 2003.
 
 ### ART. 17.
 
