@@ -1283,7 +1283,32 @@ Ieder schoolbestuur van een gesubsidieerde school moet aan Agodi verantwoording 
 
 ### ART. 78.
 
-§ 1. Voor de toepassing van dit hoofdstuk gelden volgende kenmerken :<br />1° leerlingenkenmerken :<br />a) het opleidingsniveau van de moeder : de moeder is niet in het bezit van een diploma van het secundair onderwijs of van een studiegetuigschrift van het tweede leerjaar van de derde graad van het beroepssecundair onderwijs of van een daarmee gelijkwaardig studiebewijs, hierna leerlingenkenmerk 1 te noemen;<br />b) het krijgen van een schooltoelage : er wordt een schooltoelage gegeven aan de leerling, als vermeld in het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap van 8 juni 2007 uitbetaald ten gunste van de leerling, hierna leerlingenkenmerk 2 te noemen. Voor de toepassing van dit artikel worden de leerlingen die in toepassing van voornoemd decreet, enkel omwille van ongewettigde afwezigheid of onvoldoende aanwezigheid geen recht op een schooltoelage hadden, eveneens meegerekend;<br />c) de taal die de leerling in het gezin spreekt en die verschilt van de onderwijstaal : daaronder wordt de taal verstaan die de leerling meestal spreekt met moeder, vader of broers en zussen, hierna leerlingenkenmerk 3 te noemen. De taal die de leerling in het gezin spreekt is niet de onderwijstaal, indien de leerling in het gezin met niemand of in een gezin met drie gezinsleden (de leerling niet meegerekend) met maximum één gezinslid de onderwijstaal spreekt. Broers en zussen worden als één gezinslid beschouwd;<br />d) de leerling heeft zijn woonplaats in een buurt met een hoog percentage leerlingen met minstens twee jaar schoolse vertraging op vijftienjarige leeftijd, hierna leerlingenkenmerk 4 te noemen. Onder schoolse vertraging wordt het aantal leerjaren vertraging verstaan die een leerling oploopt ten aanzien van het leerjaar waarin hij zich zou bevinden als hij normaal zou vorderen. Voor leerlingen woonachtig in het Vlaamse Gewest wordt onder « buurt » de statistische sector verstaan. De statistische sector is de territoriale basiseenheid zoals vastgelegd door de federale instantie die bevoegd is voor de coördinatie van de openbare statistiek. Voor leerlingen woonachtig in het Brussels Gewest wordt onder « buurt » de gemeente waar zij wonen verstaan;<br />2° schoolkenmerken :<br />a) het schoolbestuur organiseert gewoon kleuteronderwijs, hierna schoolkenmerk 1 te noemen;<br />b) het schoolbestuur organiseert gewoon lager onderwijs, hierna schoolkenmerk 2 te noemen;<br />c) het schoolbestuur organiseert buitengewoon kleuteronderwijs met uitzondering van type 4, hierna schoolkenmerk 3 te noemen;<br />d) het schoolbestuur organiseert buitengewoon kleuteronderwijs van type 4, hierna schoolkenmerk 4 te noemen;<br />e) het schoolbestuur organiseert buitengewoon lager onderwijs met uitzondering van type 4, hierna schoolkenmerk 5 te noemen;<br />f) het schoolbestuur organiseert buitengewoon lager onderwijs van type 4, hierna schoolkenmerk 6 te noemen;<br />g) het schoolbestuur van een school voor buitengewoon basisonderwijs begeleidt één of meer leerlingen in het geïntegreerd basisonderwijs, als vermeld in artikel 11, hierna schoolkenmerk 7 te noemen;<br />h) het schoolbestuur organiseert, conform artikel 24, § 1, tweede lid, van de gecoördineerde Grondwet, neutraal onderwijs, hierna voorafname 1 (V1) te noemen;<br />i) het schoolbestuur biedt, conform artikel 24, § 1, vierde lid, van de gecoördineerde grondwet, de keuze aan tussen onderricht in een van de erkende godsdiensten en de niet-confessionele zedenleer, hierna voorafname 2 (V2) te noemen.<br /><br />§ 2. Leerlingenkenmerk 4 wordt als volgt vastgesteld :<br />1° in een eerste fase wordt de schoolse vertraging van alle buurten berekend. De berekening van de schoolse vertraging, is gebaseerd op alle leerlingen van het gewoon onderwijs die school hebben gelopen in een onderwijsinstelling, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap. Per buurt wordt het percentage vijftienjarige leerlingen berekend die de afgelopen zes tot tien jaar op vijftienjarige leeftijd twee of meer jaar schoolse vertraging hebben opgelopen. Buurten waarvan de berekening van de schoolse vertraging gebaseerd is op minder dan vijftig vijftienjarigen worden hierna dunbevolkte buurten genoemd;<br />2° in een tweede fase wordt voor elke leerling vastgesteld wat het percentage schoolse vertraging is van de buurt. Leerlingen die behoren tot de trekkende bevolking, vermeld in artikel 3, 52ter, en thuislozen, vermeld in artikel 3, 52° bis/2, worden geacht te wonen in een buurt met een hoog percentage leerlingen met minstens twee jaar schoolse vertraging op vijftienjarige leeftijd.<br /><br />Voor alle leerlingen uit het gewoon basisonderwijs wordt het 75e percentiel van de buurtscores bepaald. Leerlingen die hun woonplaats hebben in een buurt met een score hoger dan of gelijk aan het 75e percentiel beantwoorden aan de indicator 'woonplaats hebben in een buurt met een hoog percentage leerlingen met minstens twee jaar schoolse vertraging op vijftienjarige leeftijd'.<br /><br />Leerlingenkenmerk 4 is enkel van toepassing voor leerlingen die in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad wonen.<br /><br />§ 3. De regering bepaalt de wijze waarop de leerlingenkenmerken worden vastgesteld en legt de procedure vast volgens dewelke de gegevens door het Vlaams Ministerie van Onderwijs en Vorming worden verzameld. Voor leerlingenkenmerk 4 bepaalt de regering de wijze waarop de buurten worden afgebakend.
+§ 1. Voor de toepassing van dit hoofdstuk gelden volgende kenmerken :<br>
+1° leerlingenkenmerken :<br>
+a) het opleidingsniveau van de moeder : de moeder is niet in het bezit van een diploma van het secundair onderwijs of van een studiegetuigschrift van het tweede leerjaar van de derde graad van het beroepssecundair onderwijs of van een daarmee gelijkwaardig studiebewijs, hierna leerlingenkenmerk 1 te noemen;<br>
+b) het krijgen van een schooltoelage : er wordt een schooltoelage gegeven aan de leerling, als vermeld in het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap van 8 juni 2007 uitbetaald ten gunste van de leerling, hierna leerlingenkenmerk 2 te noemen. Voor de toepassing van dit artikel worden de leerlingen die in toepassing van voornoemd decreet, enkel omwille van ongewettigde afwezigheid of onvoldoende aanwezigheid geen recht op een schooltoelage hadden, eveneens meegerekend;<br>
+c) de taal die de leerling in het gezin spreekt en die verschilt van de onderwijstaal : daaronder wordt de taal verstaan die de leerling meestal spreekt met moeder, vader of broers en zussen, hierna leerlingenkenmerk 3 te noemen. De taal die de leerling in het gezin spreekt is niet de onderwijstaal, indien de leerling in het gezin met niemand of in een gezin met drie gezinsleden (de leerling niet meegerekend) met maximum één gezinslid de onderwijstaal spreekt. Broers en zussen worden als één gezinslid beschouwd;<br>
+d) de leerling heeft zijn woonplaats in een buurt met een hoog percentage leerlingen met minstens twee jaar schoolse vertraging op vijftienjarige leeftijd, hierna leerlingenkenmerk 4 te noemen. Onder schoolse vertraging wordt het aantal leerjaren vertraging verstaan die een leerling oploopt ten aanzien van het leerjaar waarin hij zich zou bevinden als hij normaal zou vorderen. Voor leerlingen woonachtig in het Vlaamse Gewest wordt onder « buurt » de statistische sector verstaan. De statistische sector is de territoriale basiseenheid zoals vastgelegd door de federale instantie die bevoegd is voor de coördinatie van de openbare statistiek. Voor leerlingen woonachtig in het Brussels Gewest wordt onder « buurt » de gemeente waar zij wonen verstaan;<br>
+2° schoolkenmerken :<br>
+a) het schoolbestuur organiseert gewoon kleuteronderwijs, hierna schoolkenmerk 1 te noemen;<br>
+b) het schoolbestuur organiseert gewoon lager onderwijs, hierna schoolkenmerk 2 te noemen;<br>
+c) het schoolbestuur organiseert buitengewoon kleuteronderwijs met uitzondering van type 4, hierna schoolkenmerk 3 te noemen;<br>
+d) het schoolbestuur organiseert buitengewoon kleuteronderwijs van type 4, hierna schoolkenmerk 4 te noemen;<br>
+e) het schoolbestuur organiseert buitengewoon lager onderwijs met uitzondering van type 4, hierna schoolkenmerk 5 te noemen;<br>
+f) het schoolbestuur organiseert buitengewoon lager onderwijs van type 4, hierna schoolkenmerk 6 te noemen;<br>
+g) ...;<br>
+h) het schoolbestuur organiseert, conform artikel 24, § 1, tweede lid, van de gecoördineerde Grondwet, neutraal onderwijs, hierna voorafname 1 (V1) te noemen;<br>
+i) het schoolbestuur biedt, conform artikel 24, § 1, vierde lid, van de gecoördineerde grondwet, de keuze aan tussen onderricht in een van de erkende godsdiensten en de niet-confessionele zedenleer, hierna voorafname 2 (V2) te noemen.<br>
+<br>
+§ 2. Leerlingenkenmerk 4 wordt als volgt vastgesteld :<br>
+1° in een eerste fase wordt de schoolse vertraging van alle buurten berekend. De berekening van de schoolse vertraging, is gebaseerd op alle leerlingen van het gewoon onderwijs die school hebben gelopen in een onderwijsinstelling, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap. Per buurt wordt het percentage vijftienjarige leerlingen berekend die de afgelopen zes tot tien jaar op vijftienjarige leeftijd twee of meer jaar schoolse vertraging hebben opgelopen. Buurten waarvan de berekening van de schoolse vertraging gebaseerd is op minder dan vijftig vijftienjarigen worden hierna dunbevolkte buurten genoemd;<br>
+2° in een tweede fase wordt voor elke leerling vastgesteld wat het percentage schoolse vertraging is van de buurt. Leerlingen die behoren tot de trekkende bevolking, vermeld in artikel 3, 52ter, en thuislozen, vermeld in artikel 3, 52° bis/2, worden geacht te wonen in een buurt met een hoog percentage leerlingen met minstens twee jaar schoolse vertraging op vijftienjarige leeftijd.<br>
+<br>
+Voor alle leerlingen uit het gewoon basisonderwijs wordt het 75e percentiel van de buurtscores bepaald. Leerlingen die hun woonplaats hebben in een buurt met een score hoger dan of gelijk aan het 75e percentiel beantwoorden aan de indicator 'woonplaats hebben in een buurt met een hoog percentage leerlingen met minstens twee jaar schoolse vertraging op vijftienjarige leeftijd'.<br>
+<br>
+Leerlingenkenmerk 4 is enkel van toepassing voor leerlingen die in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad wonen.<br>
+<br>
+§ 3. De regering bepaalt de wijze waarop de leerlingenkenmerken worden vastgesteld en legt de procedure vast volgens dewelke de gegevens door het Vlaams Ministerie van Onderwijs en Vorming worden verzameld. Voor leerlingenkenmerk 4 bepaalt de regering de wijze waarop de buurten worden afgebakend.
 
 ## 2° [WERKINGSBUDGETTEN IN HET GEFINANCIERDE EN ESUBSIDIEERDE GEWOON BASISONDERWIJS (verv. Decr. 4 juli 2008, art. 3, I: 1 november 2008)]
 
@@ -1295,8 +1320,7 @@ Ieder schoolbestuur van een gesubsidieerde school moet aan Agodi verantwoording 
 <br>
 § 2. 1° Vanaf begrotingsjaar 2010 tot en met begrotingsjaar 2015 wordt het werkingsbudget voor het gewoon basisonderwijs jaarlijks berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het gewoon basisonderwijs vermeerderd met 30 % van de loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het Gemeenschapsonderwijs van het vorige begrotingsjaar voor het gewoon basisonderwijs.<br>
 2° Voor het begrotingsjaar 2016 wordt het werkingsbudget voor het gewoon basisonderwijs berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het gewoon basisonderwijs, vermeerderd met 60 % van de loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het Gemeenschapsonderwijs van het vorige begrotingsjaar voor het gewoon basisonderwijs.<br>
-3° Voor het begrotingsjaar 2017 wordt het werkingsbudget voor het gewoon basisonderwijs berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het gewoon basisonderwijs, vermeerderd met de volledige loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het Gemeenschapsonderwijs van het vorige begrotingsjaar voor het gewoon basisonderwijs.<br>
-4° Vanaf 2018 wordt het werkingsbudget voor het gewoon basisonderwijs jaarlijks op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het gewoon basisonderwijs.<br>
+3° Vanaf het begrotingsjaar 2017 wordt het werkingsbudget voor het gewoon basisonderwijs berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het gewoon basisonderwijs, vermeerderd met de volledige loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het Gemeenschapsonderwijs van het vorige begrotingsjaar voor het gewoon basisonderwijs.<br>
 <br>
 § 3. Voor het begrotingsjaar 2009 wordt het bedrag van 402.900.000 euro vermenigvuldigd met de aanpassingscoëfficiënten A1 en A2.<br>
 <br>
@@ -1451,8 +1475,7 @@ Die cao-middelen worden verdeeld pro rata het aantal punten per school van het v
 <br>
 § 2. 1° Vanaf begrotingsjaar 2010 tot en met begrotingsjaar 2015 wordt het werkingsbudget voor het buitengewoon basisonderwijs jaarlijks berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het buitengewoon basisonderwijs, vermeerderd met 30 % van de loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het Gemeenschapsonderwijs van het vorige begrotingsjaar voor het buitengewoon basisonderwijs.<br>
 2° Voor het begrotingsjaar 2016 wordt het werkingsbudget voor het buitengewoon basisonderwijs jaarlijks berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het buitengewoon basisonderwijs, vermeerderd met 60 % van de loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het Gemeenschapsonderwijs van het vorige begrotingsjaar voor het buitengewoon basisonderwijs.<br>
-3° Vanaf het begrotingsjaar 2017 wordt het werkingsbudget voor het buitengewoon basisonderwijs berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het buitengewoon basisonderwijs, vermeerderd met de volledige loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het Gemeenschapsonderwijs van het vorige begrotingsjaar voor het buitengewoon basisonderwijs.<br>
-4° Vanaf 2018 wordt het werkingsbudget voor het buitengewoon basisonderwijs jaarlijks berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het buitengewoon basisonderwijs.<br>
+3° Vanaf het begrotingsjaar 2017 wordt het werkingsbudget voor het buitengewoon basisonderwijs berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het buitengewoon basisonderwijs, vermeerderd met de volledige loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het Gemeenschapsonderwijs van het vorige begrotingsjaar voor het buitengewoon basisonderwijs;<br>
 <br>
 § 3. Voor het begrotingsjaar 2009 wordt het bedrag van 35.599.000 euro vermenigvuldigd met de aanpassingscoëfficiënten A1 en A2.<br>
 <br>
@@ -1483,98 +1506,15 @@ De A2-coëfficiënt wordt voor 100 % in rekening gebracht.<br>
 
 ### ART. 85quater.
 
-B_SchK, zoals bepaald in artikel 85ter, § 3, wordt als volgt verdeeld over de schoolkenmerken 3, 4, 5, 6 en 7 :<br>
-1° voor de leerlingen van het buitengewoon kleuteronderwijs, het buitengewoon lager onderwijs en van het geïntegreerd basisonderwijs wordt het puntengewicht als volgt vastgesteld :<br>
-&nbsp;
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.75pt">
-	<tbody>
-		<tr>
-			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:370.6pt">
-			<p>Buitengewoon kleuteronderwijs niet type 4</p>
-			</td>
-			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:77.15pt">
-			<p>9 punten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:370.6pt">
-			<p>Buitengewoon kleuteronderwijs wel type 4</p>
-			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:77.15pt">
-			<p>11 punten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:370.6pt">
-			<p>Buitengewoon lager onderwijs niet type 4</p>
-			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:77.15pt">
-			<p>13 punten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:370.6pt">
-			<p>Buitengewoon lager onderwijs wel type 4</p>
-			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:77.15pt">
-			<p>15 punten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:370.6pt">
-			<p>Geïntegreerd onderwijs – gedeeltelijk en permanente integratie</p>
-			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:77.15pt">
-			<p>1,1 punten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:370.6pt">
-			<p>Geïntegreerd onderwijs – volledige en permanente integratie voor leerlingen met een attest van het buitengewoon onderwijs type basisaanbod en type 2&nbsp;</p>
-			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:77.15pt">
-			<p>1,1 punten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:370.6pt">
-			<p>Geïntegreerd onderwijs – volledige en permanente integratie van leerlingen met een attest van het buitengewoon onderwijs type&nbsp;4, 6 of 7 met een bijkomende mentale handicap</p>
-			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:77.15pt">
-			<p>1,1 punten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:370.6pt">
-			<p>Geïntegreerd onderwijs – volledige en permanente integratie van normaal begaafde leerlingen met een attest van het buitengewoon onderwijs type 3 of 9</p>
-			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:77.15pt">
-			<p>4,4 punten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:370.6pt">
-			<p>Geïntegreerd onderwijs – volledige en permanente integratie van normaal begaafde leerlingen met een attest van het buitengewoon onderwijs type 4 of 7</p>
-			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:77.15pt">
-			<p>5,5 punten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:370.6pt">
-			<p>Geïntegreerd onderwijs – volledige en permanente integratie van normaal begaafde leerlingen met een attest van het buitengewoon onderwijs type 6</p>
-			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:77.15pt">
-			<p>8,8 punten</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>Met dien verstande dat in het buitengewoon kleuteronderwijs het aantal regelmatige leerlingen op de eerste schooldag van februari wordt gewogen met volgend percentage : 94,5 %;</p>
-2° voor alle scholen wordt per schoolkenmerk vermeld in 1° het aantal leerlingen, geteld zoals bepaald in artikel 87, vermenigvuldigd met het overeenkomstige puntengewicht;<br>
+B_SchK zoals bepaald in artikel 85ter, § 3, wordt als volgt verdeeld over de schoolkenmerken 3, 4, 5, en 6:<br>
+1° voor de leerlingen van het buitengewoon onderwijs wordt het puntengewicht als volgt vastgesteld:<br>
+a) buitengewoon kleuteronderwijs niet type 4 (= schoolkenmerk 3) 9 punten;<br>
+b) buitengewoon kleuteronderwijs wel type 4 (= schoolkenmerk 4) 11 punten;<br>
+c) buitengewoon lager onderwijs niet type 4 (= schoolkenmerk 5) 13 punten;<br>
+d) buitengewoon lager onderwijs wel type 4 (= schoolkenmerk 6) 15 punten.<br>
+Met dien verstande dat in het buitengewoon kleuteronderwijs het aantal regelmatige leerlingen op de eerste schooldag van februari wordt gewogen met volgend percentage: 94,5 %;<br>
+2° voor alle scholen wordt per schoolkenmerk, vermeld in punt 1°, het aantal leerlingen, geteld zoals bepaald in artikel 87, vermenigvuldigd met het overeenkomstige puntengewicht;<br>
 3° het B_SchK wordt vervolgens gedeeld door het totale aantal te verdelen punten.<br>
-<br>
 Het quotiënt van die deling is de geldwaarde per punt voor schoolkenmerken, hierna GPP_SchK te noemen.
 
 ### ART. 85quinquies.
@@ -1618,7 +1558,7 @@ Die cao-middelen worden verdeeld pro rata het aantal punten per school van het v
 
 ### ART. 86bis.
 
-Per school wordt het totale aantal punten berekend door de   vermenigvuldiging van het aantal GON-leerlingen die begeleid worden vanuit de   school voor buitengewoon basisonderwijs, te vermenigvuldigen met hun   puntengewicht, zoals bepaald in artikel 85quater.<BR><BR>De integratietoelage   per school van het buitengewoon basisonderwijs is het resultaat van de   vermenigvuldiging van het totale aantal punten per school, zoals berekend in het   eerste lid, met de GPP_SchK, zoals bepaald in artikel 85quater, § 3.<BR><BR>De   integratietoelagen van de scholengroepen van het gemeenschapsonderwijs en van de   scholen van het gesubsidieerd buitengewoon basisonderwijs worden elk schooljaar   in minstens twee schijven uitbetaald waarbij vóór 1 februari de som van de   uitbetaalde schijven minstens 50 procent van de integratietoelagen van het   betrokken schooljaar vertegenwoordigt en het saldo vóór 1 juli betaald   wordt.<BR><BR>Indien het decreet houdende de aanpassing van de algemene   uitgavenbegroting van het begrotingsjaar waarin de integratietoelagen voor het   betrokken schooljaar zijn opgenomen aanleiding geeft tot meer middelen voor de   schoolbesturen van het gesubsidieerd buitengewoon basisonderwijs of de   scholengroepen van het gemeenschapsonderwijs, dan worden deze bijkomende   middelen uitbetaald binnen de twee maanden na de bekrachtiging door de Vlaamse   Regering van betrokken decreet.
+...
 
 ### ART 86bis/1.
 
@@ -1635,21 +1575,35 @@ A = (Cx-1/Cx-2), waarbij :<br>
 
 ### ART 86ter.
 
-Met het oog op het in overeenstemming brengen van de integratietoelagen toegekend in het begrotingsjaar 2017 voor de leerlingen geïntegreerd onderwijs voor het schooljaar 2015-2016 worden in het begrotingsjaar 2017 volgende afwijkingen voorzien:<br>
-1° afwijking op artikelen 85bis en 85ter van het decreet basisonderwijs:<br>
-Van het werkingsbudget voor het buitengewoon onderwijs wordt in het begrotingsjaar 2017 4.259.000 euro afgehouden voor het werkingsbudget voor de integratietoelage voor GON-leerlingen, hierna BschK-GON te noemen;<br>
-2° afwijking op artikel 85quater, 2° en 3°, van het decreet basisonderwijs:<br>
-Voor alle scholen wordt per schoolkenmerk, vermeld in artikel 85quater, 1°, apart voor het aantal leerlingen van het buitengewoon basisonderwijs en apart voor het aantal leerlingen van het geïntegreerd onderwijs, op de respectievelijke teldata, het aantal leerlingen vermenigvuldigd met het overeenkomstige puntengewicht.<br>
-Het B-SchK wordt gedeeld door het totale aantal te verdelen punten voor buitengewoon basisonderwijs. Het quotiënt van die deling is de geldwaarde per punt voor schoolkenmerken voor buitengewoon basisonderwijs, hierna GPP-SchK te noemen.<br>
-Het BschK-GON wordt gedeeld door het totale aantal te verdelen punten voor het geïntegreerd onderwijs. Het quotiënt van die deling is de geldwaarde per punt voor schoolkenmerken voor geïntegreerd onderwijs, hierna GPP-SchKGON te noemen;<br>
-3° afwijking op artikel 86bis, tweede lid, van het decreet basisonderwijs:<br>
-De integratietoelage per school van het buitengewoon basisonderwijs is het resultaat van de vermenigvuldiging van het totale aantal punten per school zoals berekenend in het eerste lid met de GPP-SchKGON, als vermeld in punt 2°.
+...
+
+### ART 86quater.
+
+...
 
 ## [4° TELDAGEN (ing. Decr. 4 juli 2008, art.3, I: 1 november 2008)]
 
 ### ART. 87.
 
-§ 1. Het werkingsbudget wordt ieder schooljaar per school berekend op basis van het aantal regelmatige leerlingen dat ingeschreven is op de eerste schooldag van februari van het voorgaande schooljaar.<br /><br />§ 2. In afwijking van § 1 is de teldag voor de berekening van het werkingsbudget voor scholen in programmatie de eerste schooldag van oktober van het lopende schooljaar.<br /><br />Die teldag geldt in het gewoon basisonderwijs voor de hele school voor het schooljaar van oprichting en voor de vijf daaropvolgende schooljaren.<br /><br />Die teldag geldt in het buitengewoon basisonderwijs voor de hele school voor het schooljaar van oprichting en voor de twee daaropvolgende schooljaren.<br /><br />§ 3. In afwijking van § 1 is de teldag voor de berekening van het werkingsbudget voor scholen die betrokken zijn bij een herstructurering, de eerste schooldag van oktober van het lopende schooljaar.<br /><br />§ 4. Voor de toepassing van dit artikel op CKG-scholen en op scholen voor type 5 worden de woorden « de eerste schooldag van oktober » telkens gelezen als « de maand september » en wordt het woord « teldag » telkens gelezen als « telperiode ».<br /><br />Voor de toepassing van dit artikel op CKG-scholen en scholen voor type 5 worden de woorden « op basis van het aantal regelmatige leerlingen, ingeschreven op de eerste schooldag van februari » gelezen als « op basis van het gemiddeld aantal regelmatige leerlingen, ingeschreven tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari ».<br /><br />§ 5. Het werkingsbudget van een school voor type 5 kan alleen volledig worden aangewend als een door de regering vastgelegd gemiddelde van onderwijsdagen per kind gedurende de telperiode wordt bereikt.<br /><br />Als dat gemiddelde niet wordt bereikt, dan wordt het werkingsbudget evenredig verminderd.<br /><br />§ 6. De teldag voor de integratietoelage is de eerste schooldag van oktober van het vorige schooljaar.
+§ 1. Het werkingsbudget wordt ieder schooljaar per school berekend op basis van het aantal regelmatige leerlingen dat ingeschreven is op de eerste schooldag van februari van het voorgaande schooljaar.<br>
+<br>
+§ 2. In afwijking van § 1 is de teldag voor de berekening van het werkingsbudget voor scholen in programmatie de eerste schooldag van oktober van het lopende schooljaar.<br>
+<br>
+Die teldag geldt in het gewoon basisonderwijs voor de hele school voor het schooljaar van oprichting en voor de vijf daaropvolgende schooljaren.<br>
+<br>
+Die teldag geldt in het buitengewoon basisonderwijs voor de hele school voor het schooljaar van oprichting en voor de twee daaropvolgende schooljaren.<br>
+<br>
+§ 3. In afwijking van § 1 is de teldag voor de berekening van het werkingsbudget voor scholen die betrokken zijn bij een herstructurering, de eerste schooldag van oktober van het lopende schooljaar.<br>
+<br>
+§ 4. Voor de toepassing van dit artikel op CKG-scholen en op scholen voor type 5 worden de woorden « de eerste schooldag van oktober » telkens gelezen als « de maand september » en wordt het woord « teldag » telkens gelezen als « telperiode ».<br>
+<br>
+Voor de toepassing van dit artikel op CKG-scholen en scholen voor type 5 worden de woorden « op basis van het aantal regelmatige leerlingen, ingeschreven op de eerste schooldag van februari » gelezen als « op basis van het gemiddeld aantal regelmatige leerlingen, ingeschreven tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari ».<br>
+<br>
+§ 5. Het werkingsbudget van een school voor type 5 kan alleen volledig worden aangewend als een door de regering vastgelegd gemiddelde van onderwijsdagen per kind gedurende de telperiode wordt bereikt.<br>
+<br>
+Als dat gemiddelde niet wordt bereikt, dan wordt het werkingsbudget evenredig verminderd.<br>
+<br>
+§ 6. ...
 
 ## [5° EXTRA WERKINGSBUDGET VOOR HET KLEUTERONDERWIJS (ing. Decr. 22 december 2017, art. 91, I: 1 september 2017)]
 
