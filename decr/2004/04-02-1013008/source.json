@@ -2,16 +2,16 @@
   "codex_id": 1013008,
   "title": "Decreet van 2004-04-02 houdende goedkeuring en uitvoering van het verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en het Vlaamse hoger onderwijs, ondertekend te Den Haag op 3 september 2003",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013008/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "298c9ba21e1e7e4312b2cc8b8e0e69f288bdf19ec68c9b354255b2b11b5e6ab0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013008/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "9801028e2322a1f6376ba5b6d4c9505de97fe4367dad7f92cb9051602e45b318",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013008&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2018-01-01",
   "made": "2004-04-02",
   "gazette": "2004-05-18",
   "numac": 2004035769,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2018-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }

@@ -18,4 +18,10 @@ De Vlaamse regering kan met inachtname van artikel 1, 2., van hetzelfde verdrag 
 
 ### ART. 4.
 
-§ 1. De in artikel 15, 1., van hetzelfde verdrag bedoelde tariefbepaling houdt rekening met volgende beginselen:<br /><br />1° het tarief voor de accreditatie van een opleiding bedraagt per opleiding ten minste 500 en ten hoogste 1.000 euro;<br /><br />2° het tarief voor de toets nieuwe opleiding bedraagt per opleiding ten minste 5.000 en ten hoogste 10.000 euro.<br /><br />§ 2. De in § 1 bedoelde bedragen kunnen jaarlijks worden geïndexeerd.<br /><br />De Vlaamse regering bepaalt de wijze waarop deze indexering wordt toegepast.
+§ 1. De in artikel 15, 1., van hetzelfde verdrag bedoelde tariefbepaling houdt rekening met volgende beginselen:<br>
+1° het tarief voor de accreditatie van een opleiding bedraagt per opleiding ten minste 500 en ten hoogste 1.000 euro;<br>
+2° het tarief voor de toets nieuwe opleiding bedraagt per opleiding ten hoogste 20.000 euro.<br>
+<br>
+§ 2. De in § 1 bedoelde bedragen kunnen jaarlijks worden geïndexeerd.<br>
+<br>
+De Vlaamse regering bepaalt de wijze waarop deze indexering wordt toegepast.
