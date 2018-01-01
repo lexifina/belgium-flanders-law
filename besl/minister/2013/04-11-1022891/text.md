@@ -6,7 +6,49 @@
 
 ### ART. 1.
 
-<P>De erkende controlelaboratoria, die door de Vlaamse minister, bevoegd voor de   medisch verantwoorde sportbeoefening, worden aangewezen voor de analyse van   monsters, ontvangen ten laste van de begroting van de Vlaamse Gemeenschap een   vergoeding voor de uitvoering van die analyses.<BR><BR>De vergoeding per staal   voor de analyse van urinemonsters wordt, afhankelijk van het soort analyse en   het aantal stalen die per jaar door het controlelaboratorium worden   geanalyseerd, op de volgende wijze bepaald:<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Aantal stalen per jaar       <TD>Ongeacht het<BR>aantal stalen       <TD>800-1599       <TD>1600-3000<BR>    <TR>      <TD>urinemonsters van een controle binnen wedstrijdverband       <TD>      <TD>171,98       <TD>158,95<BR>    <TR>      <TD>urinemonsters van een controle buiten wedstrijdverband       <TD>      <TD>135,04       <TD>126,12<BR>    <TR>      <TD>afwijkend analyseresultaat: extra prijs per substantie (kwalitatieve         analyse)       <TD>102,48       <TD>      <TD><BR>    <TR>      <TD>afwijkend analyseresultaat: extra prijs per substantie (kwantitatieve         analyse)       <TD>201,65       <TD>      <TD><BR></TD></TR></TBODY></TABLE><BR>Voor de bepaling van het aantal stalen,   worden het aantal urinestalen van een controle binnen wedstrijdverband en van   een controle buiten wedstrijdverband samengeteld.<BR><BR>De vergoeding per staal   bij het gebruik van een specifieke technologie voor de analyse van urinemonsters   wordt op de volgende wijze bepaald:<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Aantal stalen per jaar       <TD>&lt;25       <TD>25-99       <TD>100-249       <TD>250-599       <TD>600-1000       <TD>&gt;1000<BR>    <TR>      <TD>analyse op epo of analogen       <TD>175       <TD>165       <TD>155       <TD>148       <TD>142       <TD>140<BR>    <TR>      <TD>GC/C/IRMS-analyse op testosteron of metabolieten       <TD colSpan=6 align=center>220<BR>    <TR>      <TD>screening op kleine peptidehormonen (o.a. GHRP's, LHRH, desmopressin,         TB500)       <TD>130       <TD>125       <TD>120       <TD>116       <TD>112       <TD>110<BR>    <TR>      <TD>screening op stanozolol glucuronides       <TD>130       <TD>125       <TD>120       <TD>116       <TD>112       <TD>110<BR>    <TR>      <TD>analyse op insuline       <TD>138,5       <TD>133,5       <TD>128,5       <TD>124,5       <TD>120,4       <TD>118,4<BR></TD></TR></TBODY></TABLE><BR>De vergoeding per staal voor de   analyse van bloedmonsters wordt, afhankelijk van het soort analyse en het aantal   stalen die per jaar worden geanalyseerd, op de volgende wijze bepaald:<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Aantal stalen per jaar       <TD>&lt;250       <TD>250-499       <TD>500-1000       <TD>&gt;1000<BR>    <TR>      <TD>analyse op epo, CERA of epo-analogen       <TD>155       <TD>148       <TD>144       <TD>142<BR>    <TR>      <TD>analyse op groeihormoon (1-15 stalen)       <TD colSpan=4 align=center>1200<BR>    <TR>      <TD>bloedpaspoort zonder opstartkost       <TD>60       <TD>52       <TD>46       <TD>40<BR>    <TR>      <TD>bloedpaspoort met opstartkost van 125 euro       <TD>30,25       <TD>29,25       <TD>28,25       <TD>26,5<BR>    <TR>      <TD>bloedpaspoort na de werkuren of tijdens de weekends       <TD colSpan=4 align=center>225 extra bij   opstart<BR></TD></TR></TBODY></TABLE><BR>De vergoedingen, vermeld in het tweede,   vierde en vijfde lid, zijn bedragen in euro's exclusief btw, en gelden vanaf het   eerste staal.<BR><BR>Op basis van de noodzaak wordt de vergoeding van andere   analyses overeengekomen met het laboratorium in kwestie.</P>
+<p>De erkende controlelaboratoria die door de Vlaamse minister, bevoegd voor de medisch verantwoorde sportbeoefening, worden aangewezen voor de analyse van monsters, ontvangen ten laste van de begroting van de Vlaamse Gemeenschap een vergoeding voor de uitvoering van die analyses.<br>
+<br>
+De vergoeding per staal voor de analyse van urinemonsters wordt afhankelijk van het soort analyse op de volgende wijze bepaald:<br>
+1° urinemonster van een controle binnen wedstrijdverband: 155 euro;<br>
+2° urinemonster van een controle buiten wedstrijdverband: 120 euro;<br>
+3° bevestiging van een afwijkend analyseresultaat, per substantie (kwalitatief): 225 euro;<br>
+4° bevestiging van een afwijkend analyseresultaat, per substantie (kwantitatief): 450 euro.<br>
+<br>
+De vergoeding per staal bij het gebruik van een specifieke technologie voor de analyse van urinemonsters wordt op de volgende wijze bepaald:<br>
+1° analyse op epo of analogen: 140 euro;<br>
+2° screening op kleine peptidehormonen, onder andere GHRP's, LHRH, desmopressin, TB500: 115 euro;<br>
+3° screening op stanozolol glucuronides: 115 euro;<br>
+4° analyse op insuline: 150 euro;<br>
+5° GC/C/IRMS-analyse op testosteron of metabolieten ervan, inclusief bevestiging van steroïdprofiel: 220 euro;<br>
+6° GC/C/IRMS-analyse op norandrosterone: 1000 euro;<br>
+7° GC/C/IRMS-analyse op formestaan: 340 euro;<br>
+8° GC/C/IRMS-analyse op boldenone of een metaboliet ervan: 880 euro;<br>
+9° bijkomende retrospectieve analyse na de inschrijving van de stalen (supplement administratieve kosten): 25 euro;<br>
+10° bevestiging van een afwijkend analyseresultaat op epo: 800 euro;<br>
+11° bevestiging van een afwijkend analyseresultaat IRMS: 1000 euro.<br>
+<br>
+De vergoeding per staal voor de analyse van bloedmonsters wordt afhankelijk van het soort analyse op de volgende wijze bepaald:<br>
+1° analyse op epo, CERA of epo-analogen in serum: 250 euro;<br>
+2° analyse op epo, CERA of epo-analogen in plasma: 250 euro;<br>
+3° analyse op groeihormoon (isoformmethode): 95 euro;<br>
+4° analyse op groeihormoon (biomarkermethode): 165 euro;<br>
+5° analyse op groeihormoon (isoform- en biomarkermethode): 250 euro;<br>
+6° analyse in het kader van het bloedpaspoort: 45 euro;<br>
+7° extra opstartkosten voor de analyse van stalen buiten de werkuren van het laboratorium of in het weekend in het kader van het bloedpaspoort: 225 euro.<br>
+<br>
+De vergoeding per staal voor de langetermijnbewaring van urinemonsters wordt op de volgende wijze bepaald:<br>
+1° selectie, registratie en vernietiging, 120 maanden bewaring bij -20 ° C: 60 euro;<br>
+2° heropzoeking voor een analyse die niet in DoCoLab is uitgevoerd, exclusief mogelijke andere kosten: 20 euro.<br>
+<br>
+De vergoeding per staal voor de langetermijnbewaring van bloedserummonsters wordt op de volgende wijze bepaald:<br>
+1° selectie, registratie en vernietiging, 120 maanden bewaring bij &lt; -70 ° C: 100 euro;<br>
+2° heropzoeking voor een analyse die niet in DoCoLab is uitgevoerd, exclusief mogelijke andere kosten: 20 euro.<br>
+<br>
+De vergoeding voor de APME-diensten bedraagt 150 euro per uur, exclusief kosten voor externe experten, laboratoriumdocumentatiepakketten van andere laboratoria en bijkomende analyses, maar inclusief communicatiekosten, interne expertevaluatie en APME-rapportkosten.<br>
+<br>
+De vergoedingen, vermeld in het tweede tot en met zesde lid, zijn bedragen in euro exclusief btw, en gelden vanaf het eerste staal.<br>
+<br>
+Op basis van de noodzaak wordt de vergoeding van andere analyses overeengekomen met het laboratorium in kwestie.</p>
 
 ### ART. 2.
 
@@ -26,7 +68,7 @@ De volgende regelingen worden opgeheven :<BR>1° Het ministerieel besluit   van 
 
 ### ART. 6.
 
-Artikel 1 treedt buiten werking op 1 januari 2018.
+Artikel 1 treedt buiten werking op 1 januari 2021.
 
 ### BIJLAGE
 
