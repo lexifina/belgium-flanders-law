@@ -2,16 +2,16 @@
   "codex_id": 1026255,
   "title": "Decreet van 2015-12-18 houdende diverse bepalingen inzake omgeving, natuur en landbouw en energie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026255/VolledigDocument?datum=2017-12-30",
-  "source_sha256": "f6014cc6371c90dec1456d8d22cd9590ccf86d608ed45bf8695724c14e6b2c0b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026255/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "1f30ae04af94a3cd4b616fd00450471e945a09d19635347bf5ae151015f4473a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026255&param=informatie",
-  "as_of": "2017-12-30",
+  "as_of": "2018-01-01",
   "made": "2015-12-18",
   "gazette": "2015-12-29",
   "numac": 2015036643,
   "document_start": "2016-01-08",
   "document_end": null,
-  "in_force": "2017-12-30",
-  "article_versions": 183,
-  "record_form": "consolidated version as in force on 2017-12-30; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-01-01",
+  "article_versions": 185,
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
