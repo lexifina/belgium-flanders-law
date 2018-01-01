@@ -176,7 +176,25 @@ Als de aanwezigheid van een kind in de kinderopvanglocatie gespreid is   over ve
 
 ### ART. 21.
 
-<P>Voor de volgende bijkomende kosten kan een bijkomend tarief gevraagd   worden:<BR>1° de volgende kosten die direct gelinkt zijn aan kinderopvang:<BR>a)   vervoer, beperkt tot het bedrag per kilometer, vermeld in artikel 13 van het   koninklijk besluit van 18 januari 1965 houdende algemene regeling inzake   reiskosten;<BR>b) verzorgingsproducten, het gebruik en de afvalverwerking van   luiers, uitzonderlijke maar noodzakelijke uitgaven voor een individueel kind,   die bepaald zijn in het huishoudelijk reglement en in de schriftelijke   overeenkomst voor dat kind. Het bijkomend tarief is beperkt tot maximaal de   werkelijk gemaakte kosten, de personeelskosten niet meegerekend;<BR>c)   administratiekosten en facturatiekosten, beperkt tot maximaal 3,5 euro per maand   per opgevangen kind;<BR>d) inningskosten bij wanbetaling, beperkt tot maximaal   de werkelijk gemaakte kosten, de personeelskosten meegerekend;<BR>e) het verlies   of de beschadiging van materiaal dat door de organisator aan het gezin   meegegeven wordt, beperkt tot maximaal de werkelijk gemaakte kosten, de   personeelskosten niet meegerekend;<BR>f) de warme maaltijd voor kinderen die   naar de basisschool gaan, beperkt tot maximaal 3,5 euro;<BR>g) niet verwittigde   afwezigheden;<BR>2° de kosten voor kinderopvang op de volgende momenten:<BR>a)   kinderopvang op een moment voor of na de uren die overeengekomen zijn in het   opvangplan en waarvoor geen akkoord van de organisator is;<BR>b)   kinderopvangprestaties met een duurtijd langer dan elf uur of   kinderopvangprestaties 's nachts.<BR></P>  <P>Voor de kosten, vermeld in het eerste lid, 1°, b), d), en e), houdt de   organisator de bewijsstukken van de werkelijk gemaakte kosten ter   beschikking.<BR></P>  <P>Het bijkomend tarief voor de kosten, vermeld in het eerste lid, 2°, b), kan   niet gevraagd worden door de organisator die beschikt over de subsidie flexibele   urenpakketten groepsopvang of de subsidie flexibele   gezinsopvang.<BR></P>
+<p>Voor de volgende bijkomende kosten kan een bijkomend tarief gevraagd worden:<br>
+1° de volgende kosten die direct gelinkt zijn aan kinderopvang:<br>
+a) vervoer, beperkt tot het bedrag per kilometer, vermeld in artikel 13 van het koninklijk besluit van 18 januari 1965 houdende algemene regeling inzake reiskosten;<br>
+b)&nbsp;uitzonderlijke maar noodzakelijke uitgaven voor een individueel kind, die bepaald zijn in het huishoudelijk reglement en in de schriftelijke overeenkomst voor dat kind. Het bijkomend tarief is beperkt tot maximaal de werkelijk gemaakte kosten, de personeelskosten niet meegerekend;<br>
+c) administratiekosten en facturatiekosten, beperkt tot maximaal 3,5 euro per maand per opgevangen kind;<br>
+d) inningskosten bij wanbetaling, beperkt tot maximaal de werkelijk gemaakte kosten, de personeelskosten meegerekend;<br>
+e) het verlies of de beschadiging van materiaal dat door de organisator aan het gezin meegegeven wordt, beperkt tot maximaal de werkelijk gemaakte kosten, de personeelskosten niet meegerekend;<br>
+f) de warme maaltijd voor kinderen die naar de basisschool gaan, beperkt tot maximaal 3,5 euro;<br>
+g) niet verwittigde afwezigheden;<br>
+h) verzorgingsproducten, het gebruik van luiers en de afvalverwerking van luiers, die bepaald zijn in het huishoudelijk reglement en in de schriftelijke overeenkomst voor dat kind. Het bijkomende tarief is ofwel beperkt tot maximaal de werkelijk gemaakte kosten, de personeelskosten niet meegerekend, ofwel beperkt tot het volgende forfait:<br>
+1) als het kind gebruikmaakt van luiers van de opvang: maximaal 1,5 euro per volle dag, maximaal 60% van 1,5 euro per halve dag of maximaal 160% van 1,5 euro voor aansluitende dag- en nachtopvang;<br>
+2) als het kind niet gebruikmaakt van luiers van de opvang: maximaal 0,3 euro per volle dag, maximaal 60% van 0,3 euro per halve dag of maximaal 160% van 0,3 euro voor aansluitende dag- en nachtopvang;<br>
+2° de kosten voor kinderopvang op de volgende momenten:<br>
+a) kinderopvang op een moment voor of na de uren die overeengekomen zijn in het opvangplan en waarvoor geen akkoord van de organisator is;<br>
+b) kinderopvangprestaties met een duurtijd langer dan elf uur of kinderopvangprestaties 's nachts.</p>
+
+<p>Voor de kosten, vermeld in het eerste lid, 1°, b), d), en e), houdt de organisator de bewijsstukken van de werkelijk gemaakte kosten ter beschikking. Als de organisator kiest voor het bijkomende tarief, beperkt tot maximaal de werkelijk gemaakte kosten, vermeld in het eerste lid, 1°, h), houdt de organisator de bewijsstukken van de werkelijk gemaakte kosten ter beschikking, ten aanzien van Kind en Gezin en de toezichthouder.</p>
+
+<p>Het bijkomend tarief voor de kosten, vermeld in het eerste lid, 2°, b), kan niet gevraagd worden door de organisator die beschikt over de subsidie flexibele urenpakketten groepsopvang of de subsidie flexibele gezinsopvang.</p>
 
 ### ART. 22.
 
@@ -203,7 +221,7 @@ De einddatum, vermeld op het attest inkomenstarief, is de laatste dag van het ka
 ### ART. 25.
 
 Voor de berekening van het inkomenstarief wordt het inkomen als volgt vermenigvuldigd met een coëfficiënt:<br>
-1° voor een inkomen tot en met 41.774,97 euro wordt het inkomen vermenigvuldigd met 0,000385. Het verkregen tarief wordt geplafonneerd op 15,95 euro;<br>
+1° voor een inkomen tot en met 41.774,97 euro wordt het inkomen vermenigvuldigd met 0,000385. Het verkregen tarief wordt geplafonneerd op 16,11 euro;<br>
 2° voor een inkomen van 41.774,98 euro tot en met 59.772,14 euro wordt het inkomen vermenigvuldigd met 0,000380. Het verkregen tarief wordt geplafonneerd op 20,95 euro;<br>
 3° voor een inkomen van 59.772,15 euro of hoger wordt het tarief van 20,95 euro per begonnen inkomensschijf van 3700 euro, gerekend vanaf 59.772,15, verhoogd met 0,60 euro. Het bekomen tarief wordt geplafonneerd op het maximaal tarief, vermeld in artikel 27.
 
