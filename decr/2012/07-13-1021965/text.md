@@ -84,7 +84,8 @@ In artikel 18 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderw
 § 4. Met betrekking tot de periodes na 2012 worden aan het Fonds de volgende inkomsten toegewezen :<br>
 - de opbrengsten voor Vlaanderen uit de veiling van emissierechten voor luchtvaartoperatoren vanaf 2012;<br>
 - de opbrengsten voor Vlaanderen uit de veiling van emissierechten voor BKG-inrichtingen vanaf 2012, met uitzondering van deze vermeld onder paragraaf 2;<br>
-- de opbrengsten van de administratieve geldboete vermeld in artikel 8.5.1. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, ingevoegd bij decreet van 14 februari 2014.<br>
+- de opbrengsten van de administratieve geldboete vermeld in artikel 8.5.1. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, ingevoegd bij decreet van 14 februari 2014;<br>
+- De bedragen toegekend aan het Vlaamse Gewest, overeenkomstig artikel 65quater, § 5, 1°, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en Gewesten, gewijzigd bij de bijzondere wet van 6 januari 2014.<br>
 <br>
 § 5. Met betrekking tot de periodes na 2012 mogen de inkomsten van het Fonds aangewend worden voor:<br>
 - de uitvoering van intern Vlaams klimaatbeleid met het oog op het behalen van de Vlaamse broeikasgasemissiereductiedoelstellingen;<br>
