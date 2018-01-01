@@ -30,7 +30,7 @@ Besluit :
 
 ### ART. 1.
 
-§ 1. Dit besluit regelt het financiële en materiële beheer van de dienst met afzonderlijkheid beheer, het Cultureel Centrum van de Vlaamse Gemeenschap Landcommanderij Alden Biesen in Bilzen, hierna het C.C.V.G. Alden Biesen te noemen.<br /> <br />§ 2. ...
+...
 
 ## HOOFDSTUK II. De begroting
 
@@ -44,7 +44,7 @@ Besluit :
 
 ### ART. 4.
 
-De ontvangsten hebben betrekking op : <br />1° het overgedragen saldo; <br />2° de dotatie, zoals ingeschreven op de begroting van de algemene uitgaven van de Vlaamse Gemeenschap; <br />3° de eigen inkomsten; <br />4° de schenkingen en de legaten.
+...
 
 ### ART. 5.
 
@@ -62,7 +62,7 @@ De ontvangsten hebben betrekking op : <br />1° het overgedragen saldo; <br />2�
 
 ### ART. 8.
 
-<p>De lijnmanager van het Departement Cultuur, Jeugd en Media van het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media of zijn gemandateerde, is beheerder en gedelegeerd ordonnateur van het C.C.V.G. Alden Biesen.</p>
+...
 
 ### ART. 9.
 
@@ -88,15 +88,15 @@ De ontvangsten hebben betrekking op : <br />1° het overgedragen saldo; <br />2�
 
 ### ART. 14.
 
-De ordonnateur is gemachtigd om alle verbintenissen aan te gaan die noodzakelijk zijn voor de culturele en administratieve werking, met behoud van toepassing van de reglementaire bepalingen daarover en afhankelijk van de beschikbare kredieten.
+...
 
 ### ART. 15.
 
-De Vlaamse Regering zorgt voor de werving en bezoldiging van het   statutaire en contractuele personeel, noodzakelijk voor de ondersteuning van de   structurele werking van het C.C.V.G. Alden Biesen. <BR><BR>Het C.C.V.G. Alden   Biesen zorgt voor de indienstneming en bezoldiging van aanvullend contractueel   personeel met het oog op behoud, beheer, onderzoek en ontsluiting, en voor   tijdelijke projecten.
+...
 
 ### ART. 16.
 
-Met behoud van toepassing van de bepalingen van artikel 14 en 15 worden de uitgaven - al naargelang de uitgavenveroorzakende rechtshandeling gesteld wordt uit hoofde van het beheer van de diensten algemeen bestuur van de Vlaamse Gemeenschap, of uit hoofde van het beheer van het C.C.V.G. Alden Biesen - respectievelijk gedragen door de begroting van de Vlaamse Gemeenschap of door de begroting van het C.C.V.G. Alden Biesen.
+...
 
 ### ART. 17.
 
@@ -112,7 +112,7 @@ Met behoud van toepassing van de bepalingen van artikel 14 en 15 worden de uitga
 
 ### ART. 20.
 
-Met behoud van de toepassing van artikel 5, § 1, van het besluit van de Vlaamse Regering van 22 december 1993 houdende oprichting van een cultureel centrum van de Vlaamse Gemeenschap in Bilzen, genaamd Landcommanderij Alden Biesen bepaalt de ordonnateur de tarieven voor de verkoopprijs van publicaties, het entreegeld voor voorstellingen, exposities, lezingen, en andere tarieven.
+...
 
 ### ART. 21.
 
@@ -120,7 +120,7 @@ Met behoud van de toepassing van artikel 5, § 1, van het besluit van de Vlaamse
 
 ### ART. 22.
 
-De bij dit besluit verleende delegaties aan de ordonnateur worden tevens verleend aan het personeelslid dat de ordonnateur vervangt bij tijdelijke afwezigheid of verhindering. In geval van tijdelijke afwezigheid of verhindering plaatst het betrokken personeelslid, boven de vermelding van zijn graad en zijn handtekening, de formule "voor de ordonnateur, afwezig". Het personeelslid wordt aangewezen door de ordonnateur.
+...
 
 ## HOOFDSTUK V. [... (opgeh. BVR 1 juni 2012, art. 19)]
 
@@ -132,12 +132,12 @@ De bij dit besluit verleende delegaties aan de ordonnateur worden tevens verleen
 
 ### ART. 24.
 
-Het besluit van de Vlaamse Regering van 22 juni 1999 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer Cultureel Centrum van de Vlaamse Gemeenschap Landcommanderij Alden Biesen wordt opgeheven.
+...
 
 ### ART. 25.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2008.
+...
 
 ### ART. 26.
 
-De Vlaamse minister, bevoegd voor de Financiën en de Begrotingen en de Vlaamse minister, bevoegd voor de Culturele aangelegenheden, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
+...
