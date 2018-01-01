@@ -9,7 +9,8 @@ Dit besluit is van toepassing op:<br>
 2° de personeelsleden, vermeld in artikel 4, § 1 van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
 3° de leden van de onderwijsinspectie, bedoeld in het decreet betreffende de kwaliteit van onderwijs;<br>
 4° de personeelsleden van de pedagogische begeleidingsdiensten, bedoeld in het decreet betreffende de kwaliteit van onderwijs;<br>
-5° de personeelsleden, vermeld in artikel 127, § 1, eerste lid, 1° van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.
+5° de personeelsleden vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie.<br>
+&nbsp;
 
 ## HOOFDSTUK II [VERLOF VOOR VERMINDERDE PRESTATIES (verv. BVR 30 augustus 2016, art. 12, I: 1 september 2017)]
 
@@ -17,11 +18,9 @@ Dit besluit is van toepassing op:<br>
 
 § 1. De personeelsleden, vermeld in artikel 1, hebben recht op verlof voor verminderde prestaties overeenkomstig de bepalingen van § 2 en § 3.<br>
 <br>
-In afwijking van het eerste lid hebben tijdelijke personeelsleden enkel recht op het verlof voor verminderde prestaties overeenkomstig de bepalingen van § 2 en § 3 op voorwaarde dat ze 720 dagen dienstanciënniteit hebben opgebouwd, zoals bepaald in artikel 4 van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en artikel 6 van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs. Minimum 360 dagen daarvan moeten opgebouwd zijn bij het schoolbestuur of het centrumbestuur, of, indien het personeelslid is aangesteld of geaffecteerd bij een instelling die behoort tot een scholengemeenschap, bij de scholengemeenschap.<br>
+In afwijking van het eerste lid hebben tijdelijke personeelsleden enkel recht op het verlof voor verminderde prestaties overeenkomstig de bepalingen van § 2 en § 3 op voorwaarde dat ze 720 dagen dienstanciënniteit hebben opgebouwd, zoals bepaald in artikel 4 van het decreet rechtspositie personeelsleden&nbsp;gemeenschapsonderwijs, artikel 6 van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs en artikel 5, 6°, van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie. Minimum 360 dagen daarvan moeten opgebouwd zijn bij het schoolbestuur of het centrumbestuur, of, indien het personeelslid is aangesteld of geaffecteerd bij een instelling die behoort tot een scholengemeenschap, bij de scholengemeenschap.<br>
 <br>
 Voor tijdelijk aangestelde personeelsleden moet het verlof voor verminderde prestaties binnen hun aanstellingsperiode vallen.<br>
-<br>
-In afwijking van het eerste lid hebben de personeelsleden vermeld in artikel 1, 5° recht op het verlof voor verminderde prestaties indien ze twee jaar diensten hebben gepresteerd in een functie zoals bepaald in artikel 2 van het besluit van de Vlaamse Regering van 29 mei 2009 tot vaststelling van de functies, de bekwaamheidsbewijzen en de salarisschalen in de Centra voor Basiseducatie. Van deze diensten moeten 360 dagen gepresteerd zijn bij het centrumbestuur bij wie het verlof wordt opgenomen.<br>
 <br>
 § 2. Het recht op verlof voor verminderde prestaties geldt als er een kandidaat-vervanger is die aan al de volgende voorwaarden voldoet:<br>
 1° hij is in het bezit van het vereiste bekwaamheidsbewijs;<br>
@@ -30,13 +29,14 @@ In afwijking van het eerste lid hebben de personeelsleden vermeld in artikel 1, 
 De inrichtende macht mag nagaan of de kandidaat-vervanger de eventueel vereiste nuttige ervaring heeft voor het bekwaamheidsbewijs, vermeld in het eerste lid, 1°. Dat onderzoek moet uitgevoerd worden op dezelfde wijze als de wijze die door de inrichtende macht gevolgd wordt bij de aanwerving van een personeelslid op grond van de bepalingen van de hierna volgende decreten :<br>
 1° het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br>
 2° het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding.<br>
+3° het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie.<br>
 <br>
 In afwijking van het eerste lid geldt het recht op verlof voor verminderde prestaties voor de personeelsleden vermeld in artikel 1, 5° als er een kandidaat-vervanger is die aan de voorwaarden voldoet van artikel 3 van het besluit van de Vlaamse Regering van 29 mei 2009 tot vaststelling van de functies, de bekwaamheidsbewijzen en de salarisschalen in de Centra voor Basiseducatie.<br>
 <br>
 § 3. De voorwaarden zoals bedoeld in § 2 moeten niet vervuld zijn:<br>
 1° voor een personeelslid in een wervingsambt dat het verlof voor verminderde prestaties opneemt zoals vermeld in artikel 5, § 1, 3° ;<br>
 2° op de eerstvolgende ingangsdatum, voor een personeelslid in een wervingsambt dat een verlof voor verminderde prestaties opneemt zoals vermeld in artikel 5, § 1, 1° en 2°, en van wie de oorspronkelijke en vóór 1 juni ingediende aanvraag met de ingangsdatum van 1 september niet werd goedgekeurd op basis van het niet voldaan zijn van de voorwaarden zoals bedoeld in § 2;<br>
-3° voor de personeelsleden vermeld in artikel 2, 2°, 3°, 4°, 5° en 6° van het besluit van de Vlaamse Regering van 29 mei 2009 tot vaststelling van de functies, de bekwaamheidsbewijzen en de salarisschalen in de Centra voor Basiseducatie, die het verlof voor verminderde prestaties opnemen zoals vermeld in artikel 5, § 1, 3°.<br>
+3° voor de personeelsleden vermeld in artikel 2, 3°, van het besluit van de Vlaamse Regering van 29 mei 2009 tot vaststelling van de functies, de bekwaamheidsbewijzen en de salarisschalen in de Centra voor Basiseducatie, die het verlof voor verminderde prestaties opnemen zoals vermeld in artikel 5, § 1, 3°.<br>
 <br>
 § 4. De personeelsleden die niet voldoen aan de bepalingen vermeld in § 1 en § 2, kunnen een verlof voor verminderde prestaties krijgen, op voorwaarde dat de inrichtende macht of het schoolbestuur of het centrumbestuur of de inspecteur-generaal of de Vlaamse minister, bevoegd voor het onderwijs, daarmee instemt.<br>
 <br>
@@ -195,7 +195,7 @@ b) het tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jonge
 ### ART. 15.
 
 Om het aantal prestatie-eenheden te bepalen, vermeld in artikel 3, vierde en vijfde lid, of het aantal prestaties, vermeld in artikel 12, worden de volgende prestaties ook in aanmerking genomen of als prestatie-eenheden beschouwd:<br>
-1° de prestaties, verstrekt door personeelsleden met verlof wegens bijzondere opdracht of verlof wegens opdracht als vermeld in artikel 51quater, § 2 en § 3, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en artikel 77quater, § 2 en § 3 van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+1° de prestaties, verstrekt door personeelsleden met verlof wegens bijzondere opdracht of verlof wegens opdracht als vermeld in artikel 51quater, § 2 en § 3, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en artikel 77quater, § 2 en § 3 van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 en de artikelen 67 tot en met 70 van het decreet betreffende de rechtspositie van de personeelsleden in de basiseducatie;<br>
 2° de prestaties, verstrekt door de personeelsleden met verlof wegens vakbondsopdracht als vermeld in artikel 17 van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en artikel 77 van het koninklijk besluit van 28 september 1984 tot uitvoering van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel;<br>
 3° de prestaties, verstrekt voor in de wetgevende vergaderingen van de Staat en van de gemeenschappen of de gewesten erkende politieke groepen, respectievelijk voor de voorzitters van die groepen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 19 december 1991 betreffende het verlof dat aan de personeelsleden van het onderwijs en de psycho-medisch-sociale centra wordt verleend voor het verrichten van bepaalde prestaties ten behoeve van in de wetgevende vergaderingen van de Staat en van de gemeenschappen of de gewesten erkende politieke groepen, respectievelijk ten behoeve van de voorzitters van die groepen;<br>
 4° de prestaties, verstrekt door de personeelsleden met verlof als vermeld in artikel 2 van het koninklijk besluit van 21 november 1980 betreffende het verlof toegekend aan bepaalde, ter beschikking van de Koning gestelde personeelsleden van de Rijksdiensten;<br>
@@ -205,7 +205,7 @@ Om het aantal prestatie-eenheden te bepalen, vermeld in artikel 3, vierde en vij
 8° de prestaties, verstrekt door de personeelsleden met verlof, vermeld in artikel 166, § 1, van het decreet basisonderwijs van 25 februari 1997;<br>
 9° de prestaties, verstrekt door de personeelsleden met verlof, vermeld in artikel 53 van het decreet van 5 april 1995 tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs;<br>
 10° de prestaties, verstrekt door de personeelsleden met verlof, vermeld in artikel 69 van de codificatie betreffende het secundair onderwijs.<br>
-11° de prestaties verstrekt door personeelsleden met verlof, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 3 juli 2009 betreffende de toekenning van een verlof voor het uitoefenen van een andere tewerkstelling voor sommige personeelsleden van de Centra voor Basiseducatie;
+11° ...
 
 ### ART. 16.
 

@@ -2,16 +2,16 @@
   "codex_id": 1001140,
   "title": "Besluit van de Vlaamse Regering van 1990-04-26 [betreffende het verlof en de afwezigheid voor verminderde prestaties (verv. BVR 30 augustus 2016, art. 10, I: 1 september 2017)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001140/VolledigDocument?datum=2017-09-01",
-  "source_sha256": "360d42c806babf9e5f80bf694e57da515ba7d448a580cef3af0df1f8da799a2f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001140/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "b8220eea084e74bb5fcd1563822c52230438f59e294e13cd612d6c681e052f92",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001140&param=informatie",
-  "as_of": "2017-09-01",
+  "as_of": "2018-01-01",
   "made": "1990-04-26",
   "gazette": "1990-07-25",
   "numac": 1990029728,
   "document_start": "1989-09-01",
   "document_end": null,
-  "in_force": "2017-09-01",
+  "in_force": "2018-01-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2017-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
