@@ -56,7 +56,7 @@ De Vlaamse regering bepaalt tot welk beleidsdomein de vennootschap behoort.
 
 ### ART. 5.
 
-§ 1. de vennootschap heeft als doel het beheren en exploiteren van de waterwegen, de infrastructuur en de gronden die gelegen zijn langs de waterwegen binnen de grenzen van het Vlaamse Gewest, met uitzondering van de waterwegen en hun infrastructuur die worden beheerd door Waterwegen en Zeekanaal, het Vlaamse Gewest of een havenbedrijf, zoals bij besluit en bijgevoegde plannen van de Vlaamse regering wordt omschreven als behorende tot het ambtsgebied van de vennootschap.<br>
+§ 1. de vennootschap heeft als doel het beheren en exploiteren van de waterwegen, de infrastructuur en de gronden die gelegen zijn langs de waterwegen binnen de grenzen van het Vlaamse Gewest, met uitzondering van de waterwegen en hun infrastructuur die worden beheerd door&nbsp;het Vlaamse Gewest of een havenbedrijf, zoals bij besluit en bijgevoegde plannen van de Vlaamse regering wordt omschreven als behorende tot het ambtsgebied van de vennootschap.<br>
 <br>
 Het beheren, bedoeld in het eerste lid, houdt onder meer in dat de vennootschap de waterwegen, infrastructuur en gronden, bedoeld in het eerste lid, verwerft,&nbsp;uitrust, bebouwt, onderhoudt, exploiteert én commercialiseert.<br>
 <br>
@@ -142,7 +142,7 @@ De vennootschap wordt ertoe gemachtigd om, binnen de perken van de ingeschreven 
 
 ### ART. 9.
 
-Daartoe gemachtigd door de Vlaamse regering, kan de vennootschap overeenkomstig de reglementering betreffende de onteigening ten algemenen nutte in eigen naam en voor eigen rekening onroerende goederen onteigenen die voor de verwezenlijking van zijn maatschappelijk doel nodig zijn.
+Daartoe gemachtigd door de Vlaamse regering, kan de vennootschap&nbsp;conform het Vlaams Onteigeningsdecreet van 24 februari 2017 in eigen naam en voor eigen rekening onroerende goederen onteigenen die voor de verwezenlijking van zijn maatschappelijk doel nodig zijn.
 
 ## ONDERAFDELING 3 RECHT VAN VOORKOOP
 
