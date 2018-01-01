@@ -8,7 +8,18 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 13 juli 2001 betreffend
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder : <br />1° fiets : vervoermiddel met twee of meer wielen dat voorbewogen wordt door op pedalen te trappen, waarvoor de eventuele hulpmotor een vermogen heeft van niet meer dan 0,3 kW;<br />2° woon-werkverkeer : de verplaatsing van en naar het werk met het openbaar vervoer en/of met de fiets vanaf de wettelijke woonplaats, maar ook vanaf de verblijfplaats als het personeelslid : <br />a) gedurende een bepaalde periode of op geregelde tijdstippen op een ander adres dan het domicilieadres verblijft, en;<br />b) de werkgever op de hoogte heeft gebracht van zijn verblijfplaats;<br />3° openbaar vervoer : trein, bus, tram en metro.
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° fiets:<br>
+a) een vervoermiddel met twee of meer wielen dat voortbewogen wordt door op pedalen te trappen;<br>
+b) een elektrische fiets;<br>
+c) een speedpedelec;<br>
+1° /1 elektrische fiets: een vervoermiddel met twee of meer wielen dat voortbewogen wordt door op pedalen te trappen en waarvan de trapondersteuning wegvalt boven de 25 kilometer per uur;<br>
+1° /2 speedpedelec: een vervoermiddel met twee of meer wielen dat voortbewogen wordt door op pedalen te trappen met een maximaal vermogen van 4 kW en een ondersteuning tot maximaal 45 kilometer per uur, waarbij de motor alleen werkt als je zelf trapt;<br>
+Deze verkrijgen een fietsvergoeding als ze in overeenstemming zijn zoals bepaald in het algemeen regelement op de politie van het wegverkeer.<br>
+2° woon-werkverkeer : de verplaatsing van en naar het werk met het openbaar vervoer en/of met de fiets vanaf de wettelijke woonplaats, maar ook vanaf de verblijfplaats als het personeelslid :<br>
+a) gedurende een bepaalde periode of op geregelde tijdstippen op een ander adres dan het domicilieadres verblijft, en;<br>
+b) de werkgever op de hoogte heeft gebracht van zijn verblijfplaats;<br>
+3° openbaar vervoer : trein, bus, tram en metro.
 
 ### ART. 2.
 
