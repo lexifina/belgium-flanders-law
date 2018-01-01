@@ -442,17 +442,17 @@ Een persoon als vermeld in artikel 29, § 2, tweede lid of vierde lid, van het d
 
 § 1. Elke persoon, vermeld in artikel 29, § 1, eerste lid, van het decreet van 24 juni 2016, sluit zich vanaf het jaar waarin hij de leeftijd van 26 jaar bereikt, aan bij een zorgkas van zijn keuze. Als die persoon zich niet aansluit vóór 1 juli van het jaar waarin hij de leeftijd van 26 jaar bereikt, wordt hij automatisch aangesloten bij de Vlaamse Zorgkas met ingang van 1 januari van het jaar waarop hij zich had moeten aansluiten.<br>
 <br>
-De eerste en tweede bijdrage kunnen worden betaald tot en met 31 december van het jaar na het jaar waarin de persoon de leeftijd van 26 jaar bereikt, zonder dat de persoon een opschorting met verlies van rechten bij de zorgverzekeringstegemoetkoming oploopt en zonder dat de jaren in aanmerking genomen worden voor de administratieve geldboete, vermeld in artikel 32 van het decreet van 24 juni 2016. De minister kan de nadere voorwaarden voor de betaling van de eerste en tweede bijdrage bepalen.<br>
+De eerste en tweede bijdrage kunnen worden betaald tot en met 31 december van het jaar na het jaar waarin de persoon de leeftijd van 26 jaar bereikt, zonder dat de jaren in aanmerking genomen worden voor de administratieve geldboete, vermeld in artikel 32 van het decreet van 24 juni 2016. De minister kan de nadere voorwaarden voor de betaling van de eerste en tweede bijdrage bepalen.<br>
 <br>
 § 2. Elke persoon die in het Nederlandse taalgebied komt wonen en minstens de leeftijd van 26 jaar heeft bereikt, sluit zich aan bij een zorgkas van zijn keuze. De aansluiting is verplicht met ingang van 1 januari van het jaar waarin die persoon in het Nederlandse taalgebied komt wonen. Als die persoon zich niet aansluit bij een zorgkas van zijn keuze binnen zes maanden nadat hij in het Nederlandse taalgebied is komen wonen, wordt hij automatisch aangesloten bij de Vlaamse Zorgkas met ingang van 1 januari van het jaar waarin hij zich had moeten aansluiten.<br>
 <br>
-De personen die in de eerste jaarhelft van een kalenderjaar in het Nederlandse taalgebied komen wonen, kunnen de eerste en tweede bijdrage betalen tot en met 31 december van het jaar na het jaar waarin ze er zijn komen wonen, zonder dat die personen een opschorting met verlies van rechten bij de zorgverzekeringstegemoetkoming oplopen, en zonder dat de jaren in aanmerking genomen worden voor de administratieve geldboete, vermeld in artikel 32 van het decreet van 24 juni 2016. De minister kan de nadere voorwaarden voor de betaling van de eerste en tweede bijdrage bepalen.<br>
+De personen die in de eerste jaarhelft van een kalenderjaar in het Nederlandse taalgebied komen wonen, kunnen de eerste en tweede bijdrage betalen tot en met 31 december van het jaar na het jaar waarin ze er zijn komen wonen, zonder dat de jaren in aanmerking genomen worden voor de administratieve geldboete, vermeld in artikel 32 van het decreet van 24 juni 2016. De minister kan de nadere voorwaarden voor de betaling van de eerste en tweede bijdrage bepalen.<br>
 <br>
-De personen die in de tweede jaarhelft van een kalenderjaar in het Nederlandse taalgebied komen wonen, kunnen de eerste, tweede en derde bijdrage betalen tot en met 31 december van het tweede jaar na het jaar waarin ze er zijn komen wonen, zonder dat die personen een opschorting met verlies van rechten bij de zorgverzekeringstegemoetkoming oplopen, en zonder dat de jaren in aanmerking genomen worden voor de administratieve geldboete, vermeld in artikel 32 van het decreet van 24 juni 2016. De minister kan de nadere voorwaarden voor de betaling van de eerste, de tweede en derde bijdrage bepalen.<br>
+De personen die in de tweede jaarhelft van een kalenderjaar in het Nederlandse taalgebied komen wonen, kunnen de eerste, tweede en derde bijdrage betalen tot en met 31 december van het tweede jaar na het jaar waarin ze er zijn komen wonen,&nbsp;zonder dat de jaren in aanmerking genomen worden voor de administratieve geldboete, vermeld in artikel 32 van het decreet van 24 juni 2016. De minister kan de nadere voorwaarden voor de betaling van de eerste, de tweede en derde bijdrage bepalen.<br>
 <br>
 § 3. Elke persoon, vermeld in artikel 29, § 2, eerste en tweede lid, van het decreet van 24 juni 2016, die minstens de leeftijd van 26 jaar heeft bereikt, sluit zich aan bij een zorgkas van zijn keuze.<br>
 <br>
-De personen, vermeld in het eerste lid, kunnen de bijdragen betalen tot en met 31 december van het tweede jaar na de datum waarop het agentschap het bestand heeft ontvangen van de Kruispuntbank van de Sociale Zekerheid, waarin die personen voor het eerst opgenomen zijn, zonder dat die personen een opschorting met verlies van rechten bij de zorgverzekeringstegemoetkoming oplopen, en zonder dat de jaren in aanmerking genomen worden voor de administratieve geldboete, vermeld in artikel 32 van het decreet van 24 juni 2016.<br>
+De personen, vermeld in het eerste lid, kunnen de bijdragen betalen tot en met 31 december van het tweede jaar na de datum waarop het agentschap het bestand heeft ontvangen van de Kruispuntbank van de Sociale Zekerheid, waarin die personen voor het eerst opgenomen zijn, zonder dat de jaren in aanmerking genomen worden voor de administratieve geldboete, vermeld in artikel 32 van het decreet van 24 juni 2016.<br>
 <br>
 De minister bepaalt de nadere regels voor de termijn van aansluiting, het begrip tewerkstelling en het bewijs van de hoedanigheid van Belgische sociaal verzekerde.<br>
 &nbsp;
@@ -463,17 +463,17 @@ De minister bepaalt de nadere regels voor de termijn van aansluiting, het begrip
 
 § 1. Elke persoon, vermeld in artikel 29, § 1, tweede lid, van het decreet van 24 juni 2016, kan zich met ingang van 1 januari van het jaar waarin hij de leeftijd van 26 jaar bereikt, aansluiten bij een zorgkas van zijn keuze.<br>
 <br>
-De eerste en tweede bijdrage kunnen worden betaald tot en met 31 december van het jaar na het jaar waarin de persoon 26 jaar is geworden, zonder dat die persoon een opschorting met verlies van rechten bij de zorgverzekeringstegemoetkoming oploopt. De minister kan de nadere voorwaarden voor de betaling van de eerste en tweede bijdrage bepalen.<br>
+De eerste en tweede bijdrage kunnen worden betaald tot en met 31 december van het jaar na het jaar waarin de persoon 26 jaar is geworden. De minister kan de nadere voorwaarden voor de betaling van de eerste en tweede bijdrage bepalen.<br>
 <br>
 § 2. Elke persoon die in het tweetalige gebied Brussel-Hoofdstad komt wonen en minstens de leeftijd van 26 jaar heeft bereikt, kan zich aansluiten bij een zorgkas van zijn keuze. De aansluiting is mogelijk met ingang van 1 januari van het jaar waarin die persoon in het tweetalige gebied Brussel-Hoofdstad komt wonen.<br>
 <br>
-De personen die in de eerste jaarhelft van een kalenderjaar in het tweetalige gebied Brussel-Hoofdstad komen wonen, kunnen de eerste en tweede bijdrage betalen tot en met 31 december van het jaar na het jaar waarin zij er zijn komen wonen, zonder dat die personen een opschorting met verlies van rechten bij de zorgverzekeringstegemoetkoming oplopen. De minister kan de nadere voorwaarden voor de betaling van de eerste en tweede bijdrage bepalen.<br>
+De personen die in de eerste jaarhelft van een kalenderjaar in het tweetalige gebied Brussel-Hoofdstad komen wonen, kunnen de eerste en tweede bijdrage betalen tot en met 31 december van het jaar na het jaar waarin zij er zijn komen wonen. De minister kan de nadere voorwaarden voor de betaling van de eerste en tweede bijdrage bepalen.<br>
 <br>
-De personen die in de tweede jaarhelft van een kalenderjaar in het tweetalige gebied Brussel-Hoofdstad komen wonen, kunnen de eerste, tweede en derde bijdrage betalen tot en met 31 december van het tweede jaar na het jaar waarin ze er zijn komen wonen, zonder dat die personen een opschorting met verlies van rechten bij de zorgverzekeringstegemoetkoming oplopen. De minister kan de nadere voorwaarden bepalen voor de betaling van de eerste, de tweede en de derde bijdrage.<br>
+De personen die in de tweede jaarhelft van een kalenderjaar in het tweetalige gebied Brussel-Hoofdstad komen wonen, kunnen de eerste, tweede en derde bijdrage betalen tot en met 31 december van het tweede jaar na het jaar waarin ze er zijn komen wonen. De minister kan de nadere voorwaarden bepalen voor de betaling van de eerste, de tweede en de derde bijdrage.<br>
 <br>
 § 3. Elke persoon, vermeld in artikel 29, § 2, derde en vierde lid, van het decreet van 24 juni 2016, die minstens de leeftijd van 26 jaar heeft bereikt, kan zich aansluiten bij een zorgkas van zijn keuze.<br>
 <br>
-De personen, vermeld in het eerste lid, kunnen de bijdragen betalen tot en met 31 december van het tweede jaar na de datum waarop het agentschap het bestand heeft ontvangen van de Kruispuntbank van de Sociale Zekerheid, waarin die personen voor het eerst opgenomen zijn, zonder dat die personen een opschorting met verlies van rechten bij de zorgverzekeringstegemoetkoming oplopen.<br>
+De personen, vermeld in het eerste lid, kunnen de bijdragen betalen tot en met 31 december van het tweede jaar na de datum waarop het agentschap het bestand heeft ontvangen van de Kruispuntbank van de Sociale Zekerheid, waarin die personen voor het eerst opgenomen zijn.<br>
 <br>
 De minister bepaalt de nadere regels voor de aansluiting, het begrip tewerkstelling, en het bewijs van de hoedanigheid van Belgische sociaal verzekerde.<br>
 <br>
@@ -481,7 +481,7 @@ De minister bepaalt de nadere regels voor de aansluiting, het begrip tewerkstell
 <br>
 In het eerste lid wordt verstaan onder Belgische militair : een militair die betaald wordt door het Belgische Ministerie van Defensie, en zijn personen ten laste.<br>
 <br>
-§ 5. Elke persoon, vermeld in paragraaf 1 tot en met 4, die zich buiten de periodes, vermeld in paragraaf 1 tot en met 4, aansluit, is te laat aangesloten. De te late aansluiting gaat in op 1 januari van het jaar waarin de eerste bijdrage betaald is. In dat geval is de termijn van ononderbroken aansluiting, vermeld in artikel 28, § 1, tweede lid, van het decreet van 24 juni 2016, van toepassing. Ook de opschorting met verlies van rechten bij de zorgverzekeringstegemoetkoming wordt bij een laattijdige aansluiting opgelegd voor de jaren waarin de persoon zich had kunnen aansluiten en dat niet gedaan heeft.
+§ 5. Elke persoon, vermeld in paragraaf 1 tot en met 4, die zich buiten de periodes, vermeld in paragraaf 1 tot en met 4, aansluit, is te laat aangesloten. De te late aansluiting gaat in op 1 januari van het jaar waarin de eerste bijdrage betaald is. In dat geval is de termijn van ononderbroken aansluiting, vermeld in artikel 28, § 1, tweede lid, van het decreet van 24 juni 2016, van toepassing.
 
 ## Onderafdeling 3 Verbod op aansluiting
 
@@ -500,7 +500,7 @@ De minister bepaalt ook hoe het bewijs geleverd kan worden dat een persoon de ho
 
 ### ART 45.
 
-Elke persoon, vermeld in artikel 43, die de hoedanigheid verwerft van een persoon als vermeld in artikel 41 of 42, kan de eerste en de tweede bijdrage betalen tot en met 31 december van het jaar na de datum van wijziging van zijn hoedanigheid, zonder dat die persoon een opschorting met verlies van rechten bij de zorgverzekeringstegemoetkoming oploopt, zonder dat de jaren in aanmerking genomen worden voor de administratieve geldboete, vermeld in artikel 32 van het decreet van 24 juni 2016, en zonder dat de termijn van ononderbroken aansluiting, vermeld in artikel 28, § 1, tweede lid, van het decreet van 24 juni 2016, van toepassing is.<br>
+Elke persoon, vermeld in artikel 43, die de hoedanigheid verwerft van een persoon als vermeld in artikel 41 of 42, kan de eerste en de tweede bijdrage betalen tot en met 31 december van het jaar na de datum van wijziging van zijn hoedanigheid,&nbsp;zonder dat de jaren in aanmerking genomen worden voor de administratieve geldboete, vermeld in artikel 32 van het decreet van 24 juni 2016, en zonder dat de termijn van ononderbroken aansluiting, vermeld in artikel 28, § 1, tweede lid, van het decreet van 24 juni 2016, van toepassing is.<br>
 &nbsp;
 
 ## Afdeling 3 Wijze van aansluiten
@@ -624,7 +624,7 @@ Het lid kan tegen de ambtshalve beëindiging van zijn aansluiting verzet aanteke
 
 ### ART 63.
 
-Als de persoon, vermeld in artikel 61 of 62, na de stopzetting met terugwerkende kracht van zijn lidmaatschap, zich opnieuw aansluit bij een zorgkas, blijven artikel 28, § 1, tweede lid, en de opschorting met verlies van rechten bij de zorgverzekeringstegemoetkoming, van toepassing.<br>
+Als de persoon, vermeld in artikel 61 of 62, na de stopzetting met terugwerkende kracht van zijn lidmaatschap, zich opnieuw aansluit bij een zorgkas, blijft artikel 28, § 1, tweede lid van het decreet van 24 juni 2016 van toepassing.<br>
 &nbsp;
 
 ### ART 64.
@@ -851,7 +851,7 @@ De minister bepaalt de nadere regels voor de voorwaarden voor tegemoetkoming voo
 ### ART 85.
 
 De volgende instellingen worden beschouwd als erkende of met erkenning gelijkgestelde residentiële voorzieningen :<br>
-1° de woonzorgcentra;<br>
+1° de woonzorgcentra, behalve wat betreft de personen van wie het zelfzorgvermogen niet is aangetast en die conform artikel 53/1 van het Woonzorgdecreet van 13 maart 2009 zijn opgenomen buiten de erkende capaciteit;<br>
 2° de psychiatrische verzorgingstehuizen;<br>
 3° de in België maar niet in het Nederlandse taalgebied gevestigde voorzieningen, die een vergelijkbare hulp- en dienstverlening aanbieden als de voorzieningen, vermeld in punt 1° en 2°, en die hun activiteiten op rechtmatige wijze verrichten;<br>
 4° de niet in België gevestigde voorzieningen en professionele zorgverleners die in een andere lidstaat van de Europese Gemeenschap of van de Europese Economische Ruimte dan België of in Zwitserland gevestigd zijn, die een vergelijkbare hulp- en dienstverlening aanbieden als de voorzieningen, vermeld in punt 1° en 2°, en die hun activiteiten op rechtmatige wijze verrichten in de lidstaat van vestiging.<br>
@@ -897,6 +897,10 @@ Het verblijfsattest is het attest dat het verblijf in een erkende of met erkenni
 &nbsp;
 
 ## HOOFDSTUK 2 Indicatiestelling
+
+### ART 88.
+
+Bij gebrek aan het attest, vermeld in hoofdstuk 1, toont een indicatiestelling de graad van de verminderde zelfredzaamheid om een tegemoetkoming voor mantel- en thuiszorg te verkrijgen, bij gebruikers die ouder zijn dan vijf jaar.
 
 ### ART 89.
 
@@ -1005,31 +1009,15 @@ De minister bepaalt de nadere regels voor de beslissing over de tegemoetkoming, 
 
 ### ART 102.
 
-Met behoud van de toepassing van artikel 41 en 42, schort de zorgkas de uitvoering van de zorgverzekeringstegemoetkoming met verlies van rechten voor vier maanden op, conform artikel 10, § 3, eerste lid, van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering, voor elk jaar dat de ledenbijdrage uiterlijk op 31 december van dat jaar niet of niet volledig betaald is.
+...
 
 ### ART 103.
 
-In de volgende situaties wordt de niet-betaling van de ledenbijdrage, de gedeeltelijke betaling van de ledenbijdrage of de laattijdige betaling van de ledenbijdrage niet in aanmerking genomen voor de opschorting met verlies van rechten :<br>
-1° het lid is ononderbroken en minstens van 1 maart tot en met 30 april van het jaar waarvoor de ledenbijdrage verschuldigd is en waarvoor de ledenbijdrage niet, gedeeltelijk of laattijdig is betaald, vermist, afwezig verklaard of van ambtswege afgevoerd. Het bewijs daarvan is een afdruk van het elektronische rijksregisterbestand, een attest van aangifte of een kopie van het vonnis van de rechtbank van eerste aanleg;<br>
-2° het niet-betalen of gedeeltelijk of laattijdig betalen van de ledenbijdrage is het gevolg van een fout van het agentschap, het Rijksregister of de Kruispuntbank van de Sociale Zekerheid;<br>
-3° het niet-ontvangen of het niet tijdig ontvangen van de uitnodiging tot betaling van de ledenbijdrage is het gevolg van een aantoonbare fout van de zorgkas;<br>
-4° het lid is een buitenlandse sociaal verzekerde of een Belgische sociaal verzekerde met woonplaats buiten het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad voor wie een onderzoek loopt over de aansluitingsplicht bij het agentschap;<br>
-5° de zorgkas heeft een volledig betaalde ledenbijdrage van een lid ten onrechte teruggestort.<br>
-<br>
-In het kader van de regularisatiemogelijkheid, vermeld in artikel 23quater van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering, wordt de niet-betaling van de ledenbijdragen, de gedeeltelijke betaling van de ledenbijdragen of de laattijdige betaling van de ledenbijdragen in de volgende gevallen niet in aanmerking genomen voor de opschorting met verlies van rechten :<br>
-1° het lid is ononderbroken en minstens van 1 november 2005 tot en met 30 april 2006 vermist, afwezig verklaard of van ambtswege afgevoerd. Het bewijs daarvan is een afdruk van het elektronische rijksregisterbestand, een attest van aangifte of een kopie van het vonnis van de rechtbank van eerste aanleg;<br>
-2° de regularisatiebijdragen staan uiterlijk op 10 mei 2006 op de rekening van de zorgkas;<br>
-3° bij verandering van zorgkas op 1 januari 2006 staan de regularisatiebijdragen uiterlijk op 31 december 2006 op de rekening van de zorgkas.<br>
-<br>
-De opschorting met verlies van rechten geldt niet voor de jaren waarvoor de ledenbijdrage niet verschuldigd was met toepassing van artikel 30, § 3, van het decreet van 24 juni 2016.<br>
-&nbsp;
+...
 
 ### ART 104.
 
-De opschorting met verlies van rechten vervalt als de gebruiker zich in een behartigenswaardige situatie bevindt. Het agentschap beslist hierover na advies van de bezwaarcommissie, vermeld in artikel 130. Een gebruiker of zijn vertegenwoordiger dient daarvoor een bezwaar in binnen drie maanden na de verzending van de kennisgeving door de zorgkas van de opschorting met verlies van rechten. Het agentschap biedt de mogelijkheid om de niet betaalde ledenbijdragen alsnog te betalen of om de gebruiker geheel of gedeeltelijk vrij te stellen van betaling.<br>
-<br>
-De minister bepaalt de nadere regels voor het vervallen van de opschorting met verlies van rechten, vermeld in het eerste lid.<br>
-&nbsp;
+...
 
 ## TITEL 3 Geldigheidsduur
 
@@ -1157,7 +1145,7 @@ De tegemoetkomingen voor mantel- en thuiszorg en residentiële zorg zijn niet cu
 
 Retroactieve tegemoetkomingen als vermeld in artikel 33 van het decreet van 24 juni 2016 worden uitgevoerd onder de volgende voorwaarden :<br>
 1° retroactieve tegemoetkomingen zijn beperkt tot maximaal zes maanden;<br>
-2° de eerste maand retroactieve tegemoetkoming wordt niet uitgevoerd. Deze termijn van de eerste maand is begrepen in de opschorting met verlies van rechten.<br>
+2° de eerste maand retroactieve tegemoetkoming wordt niet uitgevoerd.<br>
 <br>
 Er is sprake van retroactieve tegemoetkomingen als de aanvraagdatum in een maand valt die volgt op de datum van het recht op de opening van een tegemoetkoming, vermeld in artikel 47, eerste lid, 1° en 2°, van het decreet van 24 juni 2016.<br>
 <br>
@@ -2161,7 +2149,7 @@ Artikel 10, § 2, eerste lid, van het decreet van 30 maart 1999 houdende de orga
 <br>
 Artikel 31 en 87 hebben uitwerking met ingang van 1 september 2016.<br>
 <br>
-Artikel 88 heeft uitwerking met ingang van 1 september 2016, voor wat betreft het basisondersteuningsbudget.
+Artikel 88 treedt in werking op 1 januari 2018 met uitzondering van de bepalingen voor wat betreft het basisondersteuningsbudget, die in werking treden op 1 september 2016.
 
 ### ART 218.
 
