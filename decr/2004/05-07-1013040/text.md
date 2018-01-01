@@ -92,11 +92,30 @@ De financiële tegemoetkoming van de Vlaamse Gemeenschap in de algemene werking 
 
 ### ART. 10/1.
 
-De Vlaamse Regering kan een subsidie verlenen aan de VZW de Rand voor de   uitvoering van een of meer beleidsprioriteiten voor het jeugdbeleid, het   (lokaal) sportbeleid en het cultuurbeleid, ten behoeve van de Nederlandstalige   initiatieven in de Vlaamse Rand rond Brussel.<BR><BR>De beleidsprioriteiten,   vermeld in het eerste lid, zijn de beleidsprioriteiten vastgelegd door of   krachtens :<BR>1° artikel 4, § 1, eerste en tweede lid, van het decreet van 6   juli 2012 houdende de ondersteuning en stimulering van het lokaal jeugdbeleid en   de bepaling van het provinciaal jeugdbeleid;<BR>2° artikel 5, tweede lid, 2°,   van het decreet van 6 juli 2012 betreffende het lokaal cultuurbeleid, voor zover   het de ondersteuning betreft van de privaatrechtelijke bibliotheken van Kraainem   en Drogenbos;<BR>3° artikel 5 van het decreet van 6 juli 2012 houdende het   stimuleren en subsidiëren van een lokaal sportbeleid.<BR><BR>De subsidie wordt   verleend voor de ondersteuning van plaatselijke initiatieven in de zes   randgemeenten die geen subsidie hebben aangevraagd in het kader van de   subsidieregelingen, vermeld in het tweede lid, en dient aangewend te worden voor   de ondersteuning van deze initiatieven.<BR><BR>Om in aanmerking te komen voor   subsidiëring dient de VZW de Rand, in samenwerking met de plaatselijke   Nederlandstalige initiatieven, een beleidsplan op te maken, waarin aangegeven   wordt op welke manier invulling kan gegeven worden aan de Vlaamse   beleidsprioriteiten, vermeld in het tweede lid.<BR><BR>De subsidie wordt   verleend onder de voorwaarden en modaliteiten vastgelegd in de decreten, vermeld   in het tweede lid. Deze voorwaarden en modaliteiten worden geconcretiseerd in   een samenwerkingsovereenkomst tussen de Vlaamse ministers bevoegd voor Jeugd,   Sport en Cultuur, en de VZW "de Rand."
+De Vlaamse Regering kan een subsidie verlenen aan de VZW de Rand voor de uitvoering van&nbsp;het jeugdbeleid, het (lokaal) sportbeleid en het cultuurbeleid, ten behoeve van de Nederlandstalige initiatieven in de Vlaamse Rand rond Brussel.<br>
+<br>
+De subsidies worden aangewend als volgt:<br>
+1° wat het jeugdbeleid betreft, worden de subsidies aangewend in het kader van:<br>
+a) de ondersteuning van het jeugdwerk in algemene zin;<br>
+b) de bevordering van de participatie in het jeugdwerk van kinderen en jongeren;<br>
+c) het ondersteunen van initiatieven binnen de vrijetijdscontext van kinderen en jongeren, op basis van behoeften in de gemeenten en gericht op het bevorderen van het gebruik van het Nederlands;<br>
+2° wat het cultuurbeleid betreft, worden de subsidies aangewend in het kader van:<br>
+a) het voeren van een kwaliteitsvol en duurzaam lokaal cultuurbeleid;<br>
+b) het financieren van een bibliotheekwerking, voor zover er geen kwalitatief gemeentelijk initiatief is;<br>
+3° wat het sportbeleid betreft, worden de subsidies aangewend in het kader van:<br>
+a) het ondersteunen van de kwalitatieve uitbouw van de sportverenigingen via een doelgericht subsidiebeleid;<br>
+b) het ondersteunen van promotieactiviteiten gericht op het activeren tot sportparticipatie;<br>
+c) het ondersteunen van lokale initiatieven met betrekking tot sport, op basis van behoeften van inwoners van de gemeenten en van de lokale sportclubs.<br>
+<br>
+De subsidie wordt verleend voor de ondersteuning van plaatselijke initiatieven&nbsp;in de randgemeenten en dient aangewend te worden voor de ondersteuning van deze initiatieven.<br>
+<br>
+Om in aanmerking te komen voor subsidiëring dient de VZW de Rand, in samenwerking met de plaatselijke Nederlandstalige initiatieven, een beleidsplan op te maken, waarin aangegeven wordt op welke manier invulling kan gegeven worden aan het jeugdbeleid, het lokaal sportbeleid en het cultuurbeleid.<br>
+<br>
+De voorwaarden en modaliteiten waaronder de subsidie wordt verleend, worden geconcretiseerd in een samenwerkingsovereenkomst tussen de Vlaamse ministers, bevoegd voor de coördinatie van het kinderrechtenbeleid, de lichamelijke opvoeding, de sport en het openluchtleven, en de culturele aangelegenheden, en de vzw "de Rand".
 
 ### ART. 10/2.
 
-In afwijking van artikel 10/1, laatste lid, gelden voor de subsidiëring   van de Vlaamse beleidsprioriteiten Sport voor Allen, vermeld in artikel 10/1,   tweede lid, 3°, de volgende afwijkende voorwaarden en modaliteiten:<BR>1° de   subsidiereglementen die vzw de Rand moet opstellen met het oog op de   subsidiëring van derden ter uitvoering van de Vlaamse beleidsprioriteiten Sport   voor Allen, vermeld in artikel 5 van het decreet van 6 juli 2012 houdende het   stimuleren en subsidiëren van een lokaal sportbeleid, moeten voor de   inwerkingtreding ervan goedgekeurd worden door de Vlaamse minister, bevoegd voor   de sport, na advies van het agentschap Sport Vlaanderen, vermeld in artikel 2,   14°, van hetzelfde decreet;<BR>2° de bestedingspercentages voor de Vlaamse   beleidsprioriteiten Sport voor Allen, vermeld in artikel 7 van het voormelde   decreet van 6 juli 2012, worden bepaald in de samenwerkingsovereenkomst,   gesloten tussen de Vlaamse minister, bevoegd voor de sport, en de vzw de Rand,   vermeld in artikel 10/1, laatste lid;<BR>3° artikel 9 van het voormelde decreet   van 6 juli 2012 is niet van toepassing op de subsidie die de Vlaamse Regering   krachtens artikel 10/1 toekent aan vzw de Rand voor de uitvoering van de Vlaamse   beleidsprioriteiten Sport voor Allen;<BR>4° de opdrachten en bevoegdheden van de   sportraad, vermeld in artikel 15 van het voormelde decreet van 6 juli 2012,   worden opgenomen door een representatieve groep van sportorganisaties van de   betreffende randgemeenten.
+...
 
 ### ART. 11.
 
