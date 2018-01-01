@@ -203,6 +203,16 @@ In artikel 8 van hetzelfde decreet wordt tussen het tweede en het derde   lid ee
 
 ## HOOFDSTUK 13 Woonzorg
 
+### ART. 46.
+
+<p>Aan artikel 36 van het Woonzorgdecreet van 13 maart 2009, waarvan de bestaande tekst paragraaf 1 zal vormen, wordt een paragraaf 2 toegevoegd, die luidt als volgt :<br>
+" § 2. Als een erkend centrum voor kortverblijf dat uitgebaat wordt in de lokalen van een woonzorgcentrum, en een erkende groep van assistentiewoningen in elkaars onmiddellijke nabijheid gevestigd zijn en functioneel een geheel vormen, en als beide voorzieningen door dezelfde rechtspersoon worden uitgebaat, of als een erkend centrum voor kortverblijf dat uitgebaat wordt in de lokalen van een woonzorgcentrum, en een erkende groep van assis- tentiewoningen in elkaars onmiddellijke nabijheid gevestigd zijn en een samenwerkingsovereenkomst hebben gesloten, kan :<br>
+1° in afwijking van artikel 32, het centrum voor kortverblijf de toelating krijgen om een of meer woongelegenheden kortverblijf in te zetten in die groep van assistentiewoningen;<br>
+2° de opdracht die een woonassistent uitvoert in de groep van assistentiewoningen, opgenomen worden door het personeel van het centrum voor kortverblijf;<br>
+3° de opdracht, vermeld in punt 2°, ook worden opgenomen door personeel van een erkende dienst voor gezinszorg en aanvullende thuiszorg of een erkend lokaal dienstencentrum of een erkend woonzorgcentrum, als de dienst of het centrum in de onmiddellijke nabijheid ligt van en functioneel een geheel vormt met de groep van assistentiewoningen en door dezelfde rechtspersoon wordt uitgebaat, of als de dienst of het centrum in de onmiddellijke nabijheid ligt van en een samenwerkingsovereenkomst gesloten heeft met de groep van assistentiewoningen.</p>
+
+<p>De Vlaamse Regering bepaalt de voorwaarden en de procedure voor de toelating, vermeld in het eerste lid, 1°.".</p>
+
 ### ART. 47.
 
 &nbsp;In artikel 40 van hetzelfde decreet worden de woorden "Uitzonderlijk   en onder" vervangen door het woord "Onder".<BR>
