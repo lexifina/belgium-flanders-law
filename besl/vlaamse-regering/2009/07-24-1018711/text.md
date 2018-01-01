@@ -14,7 +14,7 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° bekendmaking 
 
 ### ART. 2.
 
-Het machtigen van de provincies en de gemeenten om over te gaan tot onteigeningen ten algemene nutte als vermeld in artikel 11 van het decreet, verloopt zoals geregeld in het besluit van de Vlaamse Regering van 14 oktober 2011 inzake onteigening ten algemenen nutte ten behoeve van de gemeenten, de provincies, de autonome gemeentebedrijven, de autonome provinciebedrijven, de O.C.M.W.'s, de intergemeentelijke samenwerkingsverbanden en de provinciale ontwikkelingsmaatschappijen.
+...
 
 ### ART. 3.
 
