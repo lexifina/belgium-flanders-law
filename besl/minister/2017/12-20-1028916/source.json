@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028916,
+  "title": "Ministerieel besluit van 2017-12-20 houdende vaststelling van de tarieven voor accreditatieaanvragen en voor aanvragen van de toets nieuwe opleiding bij Vlaamse hogeronderwijsopleidingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028916/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "efae3ab04eae1e8cf30eefbdac2d76a705c1775f362f77fe0576a2a1dfd86af7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028916&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-12-20",
+  "gazette": "2018-01-24",
+  "numac": 201704131,
+  "document_start": "2018-01-01",
+  "document_end": "2019-08-31",
+  "in_force": "2018-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
