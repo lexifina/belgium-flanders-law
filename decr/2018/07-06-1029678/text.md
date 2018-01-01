@@ -12,9 +12,32 @@
 
 ## Afdeling 1. Verdeling investeringsmiddelen overgedragen provinciale gebouwen
 
+### ART 4.
+
+Binnen het Fonds Culturele Infrastructuur worden gedurende de periode 2018 tot en met 2024 middelen toegekend voor investeringsnoden van de in het tweede lid vermelde gebouwen. De middelen bedragen jaarlijks 3,5 miljoen euro gedurende die periode, voor zover de nodige kredieten zijn voorzien in de begroting.<br>
+<br>
+Bij de toekenning van de middelen wordt over de periode 2018 tot en met 2024 de volgende verdeelsleutel gehanteerd :<br>
+1° 24,1 % voor de volgende gebouwen samen : Arenberg, Fotomuseum, Mode-museum, Museum Edelsmeedkunst, Juwelen en Diamant;<br>
+2° 18,6 % voor de volgende gebouwen samen : Bibliotheek Hasselt Limburg, Gallo-Romeins Museum en Z33;<br>
+3° 14,2 % voor de volgende gebouwen samen : Roger Raveelmuseum, Caermers-klooster en Schrijvershuis Anton Van Wilderode;<br>
+4° 3,2 % voor Hanenbos;<br>
+5° 39,9 % voor de volgende gebouwen samen : MuZee, Permeke en Lijsternest.<br>
+<br>
+Voor de gebouwen die eigendom zijn van de lokale besturen, dient het bestuur uiterlijk op de door het Fonds Culturele Infrastructuur bepaalde datum een meerjarenplan in bij het Fonds Culturele Infrastructuur, met een overzicht van de reële investeringsnoden voor de periode 2018 tot en met 2024.<br>
+<br>
+Voor de gebouwen die eigendom zijn van de Vlaamse Gemeenschap, maakt het Fonds Culturele Infrastructuur uiterlijk op dezelfde datum een meerjarenplan op met een overzicht van de reële investeringsnoden voor de periode 2018 tot en met 2024.<br>
+<br>
+De Vlaamse Regering beslist over de verdeling van de middelen, vermeld in het eerste lid op basis van de ingediende meerjarenplannen.
+
 ## Afdeling 2. Provinciale middelen Jeugd
 
 ## Afdeling 4. Indexatie dotatie diensten met afzonderlijk beheer "de beheersdienst van het Kasteel-Domein van Gaasbeek" en "het cultuur- en congrescentrum van de Vlaamse Gemeenschap `Landcommanderij Alden Biesen' te Bilzen"
+
+### ART 7.
+
+Met behoud van de toepassing van artikel 47, § 1, van het decreet van 23 december 2016 houdende bepalingen tot begeleiding van de begroting 2017, worden de dotaties aan de volgende diensten met afzonderlijk beheer die worden ingeschreven op de begroting van de algemene uitgaven van de Vlaamse Gemeenschap gekoppeld aan de gezondheidsindex als bedoeld in artikel 2, § 1, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen :<br>
+1° de beheersdienst van het Kasteel-Domein van Gaasbeek, vermeld in artikel 62 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992;<br>
+2° het cultuur- en congrescentrum van de Vlaamse Gemeenschap `Landcommanderij Alden Biesen' te Bilzen, vermeld in artikel 35 van het decreet van 21 december 1994 houdende bepalingen tot begeleiding van de begroting 1995.
 
 ## HOOFDSTUK 4. Omgeving
 
@@ -34,6 +57,15 @@ In artikel 14, § 2 en § 4, van het decreet van 13 juli 2012 van het decreet ho
 
 ## Afdeling 1. Onroerende voorheffing
 
+### ART 19.
+
+Aan artikel 2.1.4.0.1, § 3, van de Vlaamse Codex Fiscaliteit van 13 december 2013, gewijzigd bij het decreet van 20 december 2013 en het decreet van 18 november 2016, wordt een tweede lid toegevoegd, dat luidt als volgt :<br>
+<br>
+"De coëfficiënt wordt verkregen door het gemiddelde van de maandelijkse indexcijfers van het jaar 1996 te delen door het gemiddelde van de maandelijkse indexcijfers van het jaar dat voorafgaat aan het jaar van de inkomsten. Daarbij worden de volgende afrondingen toegepast :<br>
+1° het gemiddelde van de maandelijkse indexcijfers wordt afgerond op het hogere of lagere honderdste naargelang het cijfer van de duizendsten al of niet vijf bereikt;<br>
+2° de coëfficiënt wordt afgerond op het hogere of lagere tienduizendste naargelang het cijfer van de honderdduizendsten al of niet vijf bereikt;<br>
+3° na de toepassing van de coëfficiënt wordt het verkregen tariefbedrag afgerond op het hogere of lagere honderdste naargelang het cijfer van de duizendsten al of niet vijf bereikt.".
+
 ## Afdeling 2. Leegstandsheffing bedrijfsruimten - opschorting brownfieldconvenant
 
 ### ART 20.
@@ -52,7 +84,23 @@ In artikel 2.6.7.7.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013 wordt
 
 ## Afdeling 1. Toelage hogere instituten en andere instellingen voor Schone Kunsten
 
+### ART 23.
+
+In artikel III.119 van de Codex Hoger Onderwijs van 11 oktober 2013, bekrachtigd bij het decreet van 20 december 2013, gewijzigd bij de decreten van 25 april 2014 en 19 december 2014, worden de volgende wijzigingen aangebracht :<br>
+<br>
+1° aan paragraaf 1 wordt een zevende lid toegevoegd, dat luidt als volgt :<br>
+"Vanaf het begrotingsjaar 2018 wordt een bedrag van 400.000 euro toegevoegd aan de toelage, vermeld in deze paragraaf.";<br>
+<br>
+2° in paragraaf 6 wordt de laatste zin vervangen door wat volgt :<br>
+"Voor de berekening van de 2 % worden de bijkomende toelagen van 250.000 euro in 2015 en 2016 en van 400.000 euro vanaf 2018 niet in rekening gebracht.".
+
 ## Afdeling 2. Bijstellen toekenning aanvullende leraarsuren/punten/werkingsmiddelen asielmiddelen volwassenenonderwijs
+
+### ART 24.
+
+In artikel 196sexies, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, ingevoegd bij het decreet van 18 december 2015, en gewijzigd bij de decreten van 23 december 2016, 30 juni 2017 en 22 december 2017, wordt het derde lid vervangen door wat volgt :<br>
+<br>
+"Ten laste van het begrotingsjaar 2018 worden 33.970,40 aanvullende leraarsuren, 496,83 aanvullende punten en een bedrag van 579.000,23 euro aan werkingsmiddelen aan de centra voor volwassenenonderwijs en 96,40 aanvullende vte, 1.589,46 aanvullende punten en een bedrag van 1.339.999,77 euro aan werkingsmiddelen aan de centra voor basiseducatie toegekend.".
 
 ## Afdeling 3. Maatregelen tot uitvoering van cao XI - Lerarenplatform en omzetting van niet-ingevulde vervangingen - Basisonderwijs
 
@@ -73,6 +121,14 @@ In artikel 2.6.7.7.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013 wordt
 ## HOOFDSTUK 9. Welzijn, Volksgezondheid en Gezin
 
 ## Afdeling 1. Fonds ter beschikking gestelde ex-provinciale personeelsleden
+
+### ART 49.
+
+Bij het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin wordt een begrotingsfonds als vermeld in artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof opgericht voor de aanwending van de betaling van salarissen, vergoedingen en toelagen van personeelsleden die ter uitvoering van artikel 264bis van het Provinciedecreet werden overgedragen aan de Vlaamse Gemeenschap en die vanaf 1 januari 2018 via het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin ter beschikking worden gesteld van specifieke voorzieningen in de gezondheids- of welzijnssector.<br>
+<br>
+Aan het fonds worden toegewezen alle terugvorderingen van salarissen, vergoedingen en toelagen met betrekking tot de personeelsleden, vermeld in het eerste lid.<br>
+<br>
+De middelen van het fonds dienen aangewend te worden voor de betaling van salarissen, vergoedingen en toelagen van de personeelsleden, vermeld in het eerste lid.
 
 ## Afdeling 2. Opheffing fonds voor de bestrijding van het tabaks- en middelengebruik
 
