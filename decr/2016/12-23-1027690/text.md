@@ -537,6 +537,11 @@ In artikel 2, 5°, van het decreet van 19 mei 2006 betreffende de Winwinlening, 
 
 ## Afdeling 6 Belastingvermindering voor dakisolatie
 
+### ART 46.
+
+Aan artikel 145<sup>47</sup>, eerste lid, van het Wetboek van 10 april 1992 van de Inkomstenbelastingen, ingevoegd bij de wet van 8 mei 2014, worden de woorden "voor zover de uitgaven uiterlijk op 31 december 2017 werkelijk zijn betaald en betrekking hebben op werken die worden verricht in het kader van een overeenkomst die uiterlijk 31 december 2016 werd gesloten en waarvoor uiterlijk 31 december 2016 een voorschot werd betaald." toegevoegd.<br>
+&nbsp;
+
 ## Afdeling 7 Bevriezing index subsidies
 
 ### ART 47.
