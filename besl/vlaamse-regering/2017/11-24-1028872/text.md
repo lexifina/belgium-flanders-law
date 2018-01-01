@@ -82,20 +82,20 @@ Het agentschap subsidieert de personeelspunten waarvoor de voorziening, vermeld 
 <br>
 Het agentschap verleent bijkomend een werkingstoelage van 89 euro per personeelspunt waarvoor de voorziening, vermeld in artikel 2, is erkend.<br>
 <br>
-Het agentschap subsidieert de werkingsmiddelen, vermeld in artikel 8, eerste lid, van dit besluit, op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van 4 februari 2011, of dat er collectieve inspraak als vermeld in artikel 30 van het voormelde besluit, is geweest en dat er een schriftelijke overeenkomst met de werknemersvertegenwoordiging is gesloten, en er aan die overlegkanalen transparantie is geboden over de aanwending.<br>
+Het agentschap subsidieert de werkingsmiddelen, vermeld in artikel 8, eerste lid, van dit besluit, op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van 4 februari 2011, of dat er collectieve inspraak als vermeld in artikel 30 van het voormelde besluit, is geweest en dat er overleg met de werknemersvertegenwoordiging heeft plaatsgevonden, en er aan die overlegkanalen transparantie is geboden over de aanwending.<br>
 <br>
-Op verzoek van het agentschap bewijst de voorziening, vermeld in artikel 2, het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het schriftelijke akkoord met de werknemersvertegenwoordiging.<br>
-<br>
-Als een voorziening als vermeld in artikel 10, 5% of minder dan 5% van de personeelspunten omzet in werkingsmiddelen, is er geen schriftelijke overeenkomst met de werknemersvertegenwoordiging vereist. In dat geval volstaat voorafgaand overleg met de vermelde overlegkanalen met het oog op transparantie over de aanwending.<br>
+Op verzoek van het agentschap bewijst de voorziening, vermeld in artikel 2, het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het overleg met de werknemersvertegenwoordiging.<br>
 &nbsp;
 
 ### ART 8.
 
-Een voorziening als vermeld in artikel 2, kan maximaal 10% van de personeelspunten waarvoor ze is erkend, omzetten in werkingsmiddelen tegen een bedrag per punt.<br>
+Een voorziening als vermeld in artikel 2, kan maximaal 3% van de personeelspunten waarvoor ze is erkend, omzetten in werkingsmiddelen tegen een bedrag per punt.<br>
 <br>
-Het bedrag per punt, vermeld in het eerste lid, wordt jaarlijks door het agentschap bepaald door de totale gesubsidieerde personeelskosten van de voorzieningen die erkend en gesubsidieerd of vergund zijn door het agentschap, te delen door het totale aantal personeelspunten die het agentschap subsidieert.<br>
+Het bedrag per punt bedraagt 834 euro (achthonderdvierendertig euro).<br>
 <br>
 Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevorming of voor de aanwerving van personeel of voor de vergoeding van eigen personeelskosten. De besteding van het bedrag mag gespreid worden over meer dan een boekhoudkundig jaar.<br>
+<br>
+Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).<br>
 &nbsp;
 
 ### ART 9.
@@ -172,20 +172,21 @@ De voorzieningen, vermeld in artikel 10, worden gesubsidieerd voor 87 personeels
 <br>
 Het agentschap subsidieert de personeelspunten die maximaal gesubsidieerd kunnen worden voor de voorziening, vermeld in artikel 10, in voorkomend geval verminderd met de personeelspunten die worden omgezet in werkingsmiddelen als vermeld in artikel 17.<br>
 <br>
-Het agentschap subsidieert de werkingsmiddelen, vermeld in artikel 17 eerste lid, van dit besluit, op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van 4 februari 2011, of dat er collectieve inspraak als vermeld in artikel 30 van het voormelde besluit, is geweest en dat er een schriftelijke overeenkomst met de werknemersvertegenwoordiging is gesloten, en er aan die overlegkanalen transparantie is geboden over de aanwending.<br>
+Het agentschap subsidieert de werkingsmiddelen, vermeld in artikel 17 eerste lid, van dit besluit, op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van 4 februari 2011, of dat er collectieve inspraak als vermeld in artikel 30 van het voormelde besluit, is geweest en dat er overleg met de werknemersvertegenwoordiging heeft plaatsgevonden, en er aan die overlegkanalen transparantie is geboden over de aanwending.<br>
 <br>
-Op verzoek van het agentschap bewijst de voorziening, vermeld in artikel 10, het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het schriftelijke akkoord met de werknemersvertegenwoordiging.<br>
+Op verzoek van het agentschap bewijst de voorziening, vermeld in artikel 10, het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het&nbsp;overleg met de werknemersvertegenwoordiging.<br>
 <br>
-Als een voorziening als vermeld in artikel 10, 5% of minder dan 5% van de personeelspunten omzet in werkingsmiddelen, is er geen schriftelijke overeenkomst met de werknemersvertegenwoordiging vereist. In dat geval volstaat voorafgaand overleg met de vermelde overlegkanalen met het oog op transparantie over de aanwending.<br>
 &nbsp;
 
 ### ART 17.
 
-Een voorziening als vermeld in artikel 10, kan maximaal 10% van de personeelspunten, vermeld in artikel 16, eerste lid, omzetten in werkingsmiddelen tegen een bedrag per punt.<br>
+Een voorziening als vermeld in artikel 10, kan maximaal 3% van de personeelspunten, vermeld in artikel 16, eerste lid, omzetten in werkingsmiddelen tegen een bedrag per punt.<br>
 <br>
-Het bedrag per punt, vermeld in het eerste lid, wordt jaarlijks door het agentschap bepaald door de totale gesubsidieerde personeelskosten van de voorzieningen die erkend en gesubsidieerd of vergund zijn door het agentschap, te delen door het totale aantal personeelspunten die het agentschap subsidieert.<br>
+Het bedrag per punt bedraagt 834 euro (achthonderdvierendertig euro).<br>
 <br>
-Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevorming of voor de aanwerving van personeel of voor de vergoeding van personeelskosten. De besteding van het bedrag mag gespreid worden over meer dan een boekhoudkundig jaar.
+Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevorming of voor de aanwerving van personeel of voor de vergoeding van personeelskosten. De besteding van het bedrag mag gespreid worden over meer dan een boekhoudkundig jaar.<br>
+<br>
+Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).
 
 ### ART 18.
 
