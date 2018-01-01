@@ -62,11 +62,11 @@
 
 ### ART. 10.
 
-Voor de toekenning van subsidies dienen de erkende verenigingen volgende documenten naar de administratie te sturen:<br /><br />1° vóór 1 november van het voorgaand jaar:<br /><br />- een door de algemene vergadering of door de algemene vergadering gemandateerd beheersorgaan goedgekeurde begroting, respectievelijk ontwerpbegroting voor het volgend werkjaar;<br /><br />- een door de algemene vergadering of het door de algemene vergadering gemandateerd beheersorgaan goedgekeurd werkingsprogramma voor het volgend jaar;<br /><br />- het aantal aangesloten verenigingen en leden;<br /><br />- de wijzigingen aan de gegevens uit het erkenningsdossier;<br /><br />2° vóór 1 maart van het lopend jaar:<br /><br />- een inhoudelijk werkingsverslag, vergezeld van de vereiste stavingstukken, over het voorgaande jaar met verwijzing naar het betrokken jaarprogramma waarvan dit een uitwerking is;<br /><br />- een overzicht van het subsidieerbaar personeel en de werkelijk gemaakte personeelsuitgaven in het voorgaande jaar;<br /><br />3° vóór 30 april van het lopende jaar:<br /><br />een door de algemene vergadering definitief goedgekeurde begroting en een goedgekeurd gedetailleerd financieel verslag van het voorbije kalenderjaar, met balans volgens het toepasselijk boekhoudkundig plan.<br /><br />De minister bepaalt het model van het werkingsverslag en het boekhoudkundig plan.
+...
 
 ### ART. 11.
 
-De verenigingen bezorgen jaarlijks aan de administratie een samenvattende uitgavenstaat met nauwkeurige aanduiding van de bedragen. De verenigingen houden de nodige verantwoordingsstukken ter beschikking voor eventuele controle ter plaatse door de bevoegde ambtenaren.
+...
 
 ## II.2. SUBSIDIEREGELING
 
@@ -74,7 +74,7 @@ De verenigingen bezorgen jaarlijks aan de administratie een samenvattende uitgav
 
 ### ART. 12.
 
-§ 1. Het krediet beschikbaar voor organieke subsidies aan de verenigingen krachtens titel I en titel II, bestaat uit het totale begrotingskrediet; minus het bedrag bestemd voor de dienstverlening inzake organi-satieontwikkeling en deskundigheidsbevordering, bedoeld in artikel 14, § 1, 3°, minus het bedrag van de aanvullende forfaitaire subsidies, bedoeld in artikel 15, § 1, minus het bedrag bestemd voor de streekverenigingen zoals bedoeld in Titel III. Minimaal 75 % van dit overblijvend krediet beschikbaar voor organieke subsidies, wordt voorbehouden voor werkingssubsidie en personeelssubsidie.<br /><br />§ 2. De vereniging ontvangt een subsidie voor de algemene werking waaronder personeelskosten. Daarenboven kan zij een aanvullende subsidie bekomen voor activiteiten en prestaties zoals omschreven in artikel 17.
+§ 1. ...<BR><BR>§ 2. De vereniging ontvangt een subsidie voor de algemene   werking waaronder personeelskosten. Daarenboven kan zij een aanvullende subsidie   bekomen voor activiteiten en prestaties zoals omschreven in artikel   17.
 
 ### ART. 13.
 
@@ -86,7 +86,7 @@ De verenigingen bezorgen jaarlijks aan de administratie een samenvattende uitgav
 
 ### ART. 15.
 
-§ 1. Overeenkomstig artikel 13 van het decreet, heeft elke erkende   vereniging die vertegenwoordigd is in de Raad, recht op een aanvullende   forfaitaire subsidie ter ondersteuning van haar adviesverlenende opdracht in de   Raad en de deelraden en commissies toegevoegd aan de Raad. Om voor deze   aanvullende subsidie in aanmerking te komen moet de vereniging een brede   beleidswerking kunnen bewijzen. Dit moet blijken uit:<BR>1° verslagen van   activiteiten die een breed spectrum van het globale milieu- en natuurbeleid   bestrijken;<BR>2° de uitgave van afzonderlijke, onderbouwde en beleidsgerichte   publicaties.<BR><BR>§ 2. Het bedrag van de aanvullende subsidie per   beleidsmedewerker wordt vastgesteld op de totale jaarlijkse loonkost van een   beleidsmedewerker bij de Minaraad met de functie-classificatie 'Adjunct van de   directeur' met een anciënniteit van 5 jaar in het barema A111.<BR><BR>§ 3. De   aanvullende subsidie wordt gebruikt voor de personeelskosten van een aantal   beleidsmedewerkers. Dit aantal staat in verhouding tot het aantal effectieve   leden die als vertegenwoordiger van de vereniging als lid van de Raad werden   aangesteld.<BR><BR>§ 4. De aanvullende subsidie wordt voor 100 % aan de   vereniging uitbetaald indien haar vertegenwoordigers op meer dan drie vierde van   de plenaire vergaderingen van de Raad aanwezig waren. De subsidie wordt beperkt   tot 50 % indien meer dan 1/3 doch minder dan 2/3 van de plenaire vergaderingen   werd bijgewoond.
+...
 
 ## TITEL III DE STREEKVERENIGINGEN
 
@@ -108,7 +108,7 @@ De subsidie op basis van artikel 12 tot en met 14, kan met een bijkomende subsid
 
 ### ART. 19.
 
-§ 1. De erkende verenigingen sluiten een verzekering af voor burgerlijke aansprakelijkheid op grond van de artikelen 1382 tot en met 1386 van het Burgerlijk Wetboek.<br /><br />§ 2. De omvang van het minimaal te verzekeren bedrag zal bepaald worden in verhouding met de hoogte van de inkomsten van het voorgaand jaar, desgevallend verminderd met de toelagen vanwege het Vlaams Gewest voor de aankoop en het beheer van natuurreservaten, wat neerkomt op een minimaal verzekerd bedrag van:<br /><br />- voor gewestelijke koepelorganisaties : minimaal vijfmaal het bedrag van de inkomsten van het voorgaand jaar;<br /><br />- voor gewestelijke ledenverenigingen en thematische verenigingen zonder koepelfunctie: minimaal viermaal het bedrag van de inkomsten van het voorgaand jaar;<br /><br />- voor regionale verenigingen: minimaal driemaal het bedrag van de inkomsten van het voorgaand jaar.<br /><br />§ 3. De in § 1 bedoelde inkomsten dienen bewezen te worden aan de hand van een door de algemene vergadering goedgekeurd gedetailleerd financieel verslag, met balans volgens het boekhoudkundig plan gevoegd in bijlage bij dit besluit.
+...
 
 ### ART. 20.
 
