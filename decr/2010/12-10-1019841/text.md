@@ -100,7 +100,29 @@ Als de uitzendactiviteiten definitief worden stopgezet, wordt de erkenning van h
 
 ### ART. 20.
 
-§ 1. In de SERV wordt een adviescommissie voor uitzendactiviteiten   opgericht.<BR><BR>De adviescommissie verleent de Vlaamse Regering advies inzake   de aanvraag van de erkenning, de hernieuwing, de vervanging, de omzetting en de   intrekking van de erkenning van het uitzendbureau.<BR><BR>De Vlaamse Regering   kan, na het advies van de SERV, de opdrachten van de adviescommissie   uitbreiden.<BR><BR>§ 2. De adviescommissie is samengesteld uit :<BR>1° een   voorzitter; <BR>2° een gelijk aantal vertegenwoordigers van de representatieve   werkgevers- en werknemersorganisaties, die vertegenwoordigd zijn in de SERV;   <BR>3° een deskundige die onafhankelijk is van enerzijds de organisaties die in   de adviescommissie vertegenwoordigd zijn en anderzijds de bureaus en die houder   is van een universitair diploma in de rechten;<BR>4° een vertegenwoordiger van   het Departement Werk en Sociale Economie;<BR>5° een vertegenwoordiger van het   Vlaams Subsidieagentschap voor Werk en Sociale Economie. <BR><BR>De voorzitter   is onafhankelijk ten opzichte van de representatieve werkgevers- en   werknemersorganisaties en wordt door de Vlaamse Regering benoemd. Bij   afwezigheid van de voorzitter neemt de leidend ambtenaar van de SERV het   voorzitterschap over. <BR><BR>De leden van de adviescommissie worden door de   Vlaamse Regering benoemd. De effectieve en plaatsvervangende leden van de   representatieve werkgeversorganisaties en de representatieve   werknemersorganisaties worden voorgedragen door de respectieve werkgevers- en   werknemersorganisaties via een lijst van kandidaten. De Vlaamse Regering bepaalt   de nadere regels inzake de samenstelling, de werkwijze en de vergoedingsregeling   van de adviescommissie. <BR><BR>Alleen de leden, vermeld in het eerste lid, 2°,   zijn stemgerechtigd. <BR><BR>§ 3. Er is onverenigbaarheid inzake het mandaat van   lid van de adviescommissie en de hoedanigheid van bestuurder, zaakvoerder,   lasthebber of aangestelde van een privaat arbeidsbemiddelingsbureau of   uitzendbureau.<BR><BR>§ 4. De adviescommissie wordt door de Afdeling Toezicht en   Handhaving van het Departement Werk en Sociale Economie van het Departement Werk   en Sociale Economie op de hoogte gebracht van de overtredingen die aanleiding   kunnen geven tot weigering of intrekking van een   erkenning.<BR><BR>
+§ 1. Door de Vlaamse Regering wordt een adviescommissie voor uitzendactiviteiten opgericht.<br>
+<br>
+De adviescommissie verleent de Vlaamse Regering advies inzake de aanvraag van de erkenning, de hernieuwing, de vervanging, de omzetting en de intrekking van de erkenning van het uitzendbureau.<br>
+<br>
+De Vlaamse Regering kan de opdrachten van de adviescommissie uitbreiden.<br>
+<br>
+§ 2. De adviescommissie is samengesteld uit :<br>
+1° een voorzitter;<br>
+2° een gelijk aantal vertegenwoordigers van de representatieve werkgevers- en werknemersorganisaties, die vertegenwoordigd zijn in de SERV;<br>
+3° een deskundige die onafhankelijk is van enerzijds de organisaties die in de adviescommissie vertegenwoordigd zijn en anderzijds de bureaus en die houder is van een universitair diploma in de rechten;<br>
+4° twee vertegenwoordigers van het Departement Werk en Sociale Economie;<br>
+5° ...<br>
+<br>
+De voorzitter en zijn plaatsvervanger zijn onafhankelijk ten opzichte van de representatieve werkgevers- en werknemersorganisaties en worden door de Vlaamse Regering benoemd. Bij afwezigheid van de voorzitter neemt zijn plaatsvervanger het voorzitterschap over.<br>
+<br>
+De leden van de adviescommissie worden door de Vlaamse Regering benoemd. De effectieve en plaatsvervangende leden van de representatieve werkgeversorganisaties en de representatieve werknemersorganisaties worden voorgedragen door de respectieve werkgevers- en werknemersorganisaties via een lijst van kandidaten. De Vlaamse Regering bepaalt de nadere regels inzake de samenstelling, de werkwijze en de vergoedingsregeling van de adviescommissie.<br>
+<br>
+Alleen de leden, vermeld in het eerste lid, 2°, zijn stemgerechtigd.<br>
+<br>
+§ 3. Er is onverenigbaarheid inzake het mandaat van lid van de adviescommissie en de hoedanigheid van bestuurder, zaakvoerder, lasthebber of aangestelde van een privaat arbeidsbemiddelingsbureau of uitzendbureau.<br>
+<br>
+§ 4. De adviescommissie wordt door de Afdeling Toezicht en Handhaving van het Departement Werk en Sociale Economie van het Departement Werk en Sociale Economie op de hoogte gebracht van de overtredingen die aanleiding kunnen geven tot weigering of intrekking van een erkenning.<br>
+&nbsp;
 
 ## HOOFDSTUK 4 Klachtenprocedure
 
