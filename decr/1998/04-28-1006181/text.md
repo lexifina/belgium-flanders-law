@@ -8,7 +8,23 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<BR>1° ...;<BR>2° ...;<BR>3°   ...;<BR>4° ...;<BR>5° ...;<BR>6° ...;<BR>7° ...;<BR>8° ...;<BR>9° ...;<BR>10°   ...;<BR>11° ...;<BR>12° ...;<BR>13° ...;<BR>14° Planlastendecreet : het decreet   van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de   Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en   rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd;<BR>15°   strategische meerjarenplanning : de meerjarenplanning bedoeld in het   Gemeentedecreet van 15 juli 2005;<BR>16° integratiesubsidie : een subsidie die   steden en gemeenten ontvangen in het kader van dit decreet om, conform de   bepalingen van het Planlastendecreet, een lokale invulling te geven aan de   Vlaamse beleidsprioriteiten inzake het integratiebeleid.
+In dit decreet wordt verstaan onder :<br>
+1° ...;<br>
+2° ...;<br>
+3° ...;<br>
+4° ...;<br>
+5° ...;<br>
+6° ...;<br>
+7° ...;<br>
+8° ...;<br>
+9° ...;<br>
+10° ...;<br>
+11° ...;<br>
+12° ...;<br>
+13° ...;<br>
+14° ...;<br>
+15° ...;<br>
+16° ...
 
 ## HOOFDSTUK II [DOELSTELLINGEN (verv. decr. 30 april 2009, art. 4)]
 
@@ -198,39 +214,19 @@ De steden en gemeenten hebben de regierol over het integratiebeleid op hun grond
 
 ### ART. 29.
 
-Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering aan steden en gemeenten een integratiesubsidie toekennen.<br>
-<br>
-De integratiesubsidie wordt toegekend voor de realisatie van de doelstellingen van het integratiebeleid, zoals vermeld in artikel 4 en 5. De Vlaamse Regering verduidelijkt die doelstellingen en maakt ze bekend als Vlaamse beleidsprioriteiten.
+...
 
 ### ART. 30.
 
-§ 1. De Vlaamse Regering kan voor de toekenning van een integratiesubsidie op basis van de strategische meerjarenplanning van de steden en gemeenten, een prioriteitsstelling opmaken, die met de volgende elementen rekening houdt :<br>
-1° de aanwezigheid en concentratie van de personen vermeld, in artikel 3, eerste lid, 1° en 2° ;<br>
-2° de mate waarin een achterstellings- en achterstandsproblematiek voorkomen.<br>
-<br>
-De Vlaamse Regering bepaalt objectieve criteria voor de prioriteitsstelling.<br>
-<br>
-§ 2. De Vlaamse Regering bepaalt de minimale aanwezigheid en/of concentratie van de personen vermeld in artikel 3, eerste lid, 1° en 2°, om in aanmerking te komen voor de toekenning van een integratiesubsidie.<br>
-<br>
-§ 3. De Vlaamse Regering maakt de lijst met de steden en gemeenten die in aanmerking komen voor een integratiesubsidie, bekend. Bij de aanvang van de meerjarenplanning 2014-2019 komen alleen steden en gemeenten, die in het verleden al een subsidie voor een integratiedienst of voor het opstarten van een integratiedienst hebben ontvangen, voor een integratiesubsidie in aanmerking.<br>
-<br>
-Bijkomende steden en gemeenten dan die, vermeld in het eerste lid, kunnen alleen voor subsidiëring in aanmerking komen voor zover er voldoende extra middelen op de begroting beschikbaar zijn.<br>
-<br>
-In aanvulling op het Planlastendecreet wordt in de mogelijkheid voorzien om, in afwijking van de zesjaarlijkse lokale beleidscyclus tussentijds in te stappen. De Vlaamse Regering bepaalt daartoe de verdere procedure.<br>
-<br>
-§ 4. De Vlaamse Regering kan voor de bepaling van het bedrag van de integratiesubsidie regels opstellen die minstens rekening houden met de volgende elementen :<br>
-1° de aanwezigheid en concentratie van personen als vermeld in artikel 3, eerste lid, 1° en 2° ;<br>
-2° de mate waarin een achterstellingsen achterstandsproblematiek voorkomen.
+...
 
 ### ART. 31.
 
-De stad of gemeente die een aanvraag voor een integratiesubsidie doet, toont aan hoe ze de personen, vermeld in artikel 3, eerste lid, 1° en 2°, en hun organisaties betrokken heeft bij de opmaak, en hoe ze de personen, vermeld in artikel 3, eerste lid, 1° en 2°, en hun organisaties zal betrekken bij de uitvoering van de strategische meerjarenplanning.<br>
-<br>
-De Vlaamse Regering bepaalt de cofinanciering voor het lokale integratiebeleid.
+...
 
 ### ART. 32.
 
-De bepalingen van het Planlastendecreet zijn van toepassing op het lokale integratiebeleid.
+...
 
 ## AFDELING 3 [HUIZEN VAN DIVERSITEIT (ver. decr. 30 april 2009, art. 26)]
 
