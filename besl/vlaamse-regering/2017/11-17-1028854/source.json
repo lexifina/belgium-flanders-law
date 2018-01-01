@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028854,
+  "title": "Besluit van de Vlaamse Regering van 2017-11-17 tot wijziging van bijlage I, IV, V, VI, VIII en X bij het besluit van de Vlaamse Regering van 4 februari 1997 betreffende de verplichte bijdragen bestemd voor de promotie en afzetbevordering van de Vlaamse producten van de sectoren landbouw, tuinbouw en visserij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028854/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "907158e380bf74ba08fe25a786a1ba3ad5175f40b3343fbed1b53f2355a39d1a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028854&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-11-17",
+  "gazette": "2017-12-29",
+  "numac": 2017031711,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
