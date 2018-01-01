@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028797,
+  "title": "Besluit van de Vlaamse Regering van 2017-11-10 houdende de bepaling van de normen en de aanmeldingsprocedure voor het verblijf van zelfredzame personen in een woonzorgcentrum buiten de erkende capaciteit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028797/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "e1462c285c5cfc3f219d3c53f47169b8a5c1c4219af42c518b71e464db17c466",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028797&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-11-10",
+  "gazette": "2017-12-12",
+  "numac": 2017031737,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
