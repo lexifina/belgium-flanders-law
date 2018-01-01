@@ -356,7 +356,7 @@ In het eerste toewijzingssysteem is de verhuurder verplicht om achtereenvolgens 
 6° de kandidaat-huurder die in de gemeente waar de toe te wijzen woning gelegen is, zijn hoofdverblijfplaats had in een woning op de datum waarop die :<br>
 a) onbewoonbaar werd verklaard overeenkomstig artikel 135 van de Nieuwe Gemeentewet, en waarvan de ontruiming noodzakelijk was;<br>
 b) met toepassing van artikel 15 of 16bis van de Vlaamse Wooncode ongeschikt of onbewoonbaar verklaard is of het voorwerp was van een conformiteitsonderzoek als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de kwaliteits- en veiligheidsnormen voor woningen, voor zover die woning op het technisch verslag ofwel minstens drie gebreken van categorie III onder de hoofdrubrieken "Omhulsel" of "Binnenstructuur" ofwel minstens drie gebreken van categorie IV en 60 strafpunten gescoord heeft;<br>
-7° de kandidaat-huurder die zijn hoofdverblijfplaats had in een woning op de datum waarop die woning deel uitmaakt van een vastgesteld onteigeningsplan;<br>
+7° de kandidaat-huurder die zijn hoofdverblijfplaats had in een woning op de datum waarop die woning deel uitmaakt van een het onteigeningsplan, zoals vastgesteld door het voorlopig onteigeningsbesluit;<br>
 8° de kandidaat-huurder die een ontvoogde minderjarige persoon is.<br>
 <br>
 Als de kandidaat-huurder op het moment van zijn kandidaatstelling al huurder is van de verhuurder, hoeft hij niet te voldoen aan de inkomensvoorwaarde, vermeld in artikel 3, § 1, eerste lid, 2°.<br>
