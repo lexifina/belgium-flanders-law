@@ -119,25 +119,15 @@ Na onderzoek formuleren de adviescommissie en de administratie een definitief ad
 
 ### ART. 5.
 
-§ 1. Een politieke jongerenbeweging die voor het eerst gesubsidieerd wil worden op basis van artikel 15 van het decreet van 20 januari 2012, dient daartoe voor 1 juni een aanvraag in bij de administratie. De subsidiëringsaanvraag wordt ingediend volgens de leidraad die de administratie ter beschikking stelt. Als vastgesteld wordt dat een aanvraag onvolledig is en nog vervolledigd kan worden, vraagt de administratie de aanvullende gegevens op voor 15 juni. De vereniging vervolledigt haar dossier vóór 1 juli.<br>
+De erkende politieke jongerenbeweging en de politieke jongerenbeweging die erkend wil worden op basis van artikel 15 en 17/2, § 1, eerste lid, van het decreet van 20 januari 2012, dienen uiterlijk op 1 april bij de administratie een verslag, zoals bedoeld in artikel 17/2, § 1, tweede lid, 2°, in, waaruit blijkt dat ze aan de erkenningsvoorwaarden voldoen. Ze maken daarbij gebruik van het formulier dat de administratie ter beschikking stelt.<br>
 <br>
-Een eventueel voornemen van niet-subsidiëring wordt aan de aanvragende vereniging&nbsp;meegedeeld vóór 15 september. De vereniging kan daartegen voor 1 oktober schriftelijk bezwaar indienen. Als het bezwaarschrift onontvankelijk is, wordt de vereniging daarvan voor 15 oktober op de hoogte gebracht. De beslissing om over te gaan tot al dan niet subsidiëren, wordt aan de vereniging meegedeeld voor 30 november.<br>
+Een eventueel voornemen van niet-erkenning of van de intrekking van de erkenning wordt aan de politieke jongerenbeweging meegedeeld voor 1 mei. De vereniging kan daartegen binnen vijftien kalenderdagen schriftelijk een gemotiveerd bezwaar indienen. Als het bezwaarschrift onontvankelijk is, wordt de vereniging daarvan voor 1 juni op de hoogte gebracht.<br>
 <br>
-§ 2. Een politieke jongerenbeweging kan worden gesubsidieerd vanaf het kalenderjaar na het jaar waarin werd beslist om de vereniging te subsidiëren.<br>
-<br>
-§ 3. De door de politieke jongerenbewegingen georganiseerde politieke vormingsinitiatieven worden ten minste twee weken op voorhand aan de administratie gemeld, met vermelding van de datum, het begin- en einduur, het adres en het programma.<br>
-<br>
-§ 4. De politieke jongerenbewegingen dienen uiterlijk op 31 januari een werkingsverslag over het voorbije jaar in bij de administratie. Ze dienen ook uiterlijk op 28 februari een financieel verslag over het voorbije jaar in bij de administratie.<br>
-<br>
-Het werkingsverslag- en het financieel verslag worden opgesteld overeenkomstig de leidraad die de administratie ter beschikking stelt.<br>
-<br>
-Uiterlijk op 28 februari bezorgt de administratie de politieke jongerenbewegingen de berekening van het aantal modules die in aanmerking komen voor subsidiëring. De verenigingen kunnen daartegen bezwaar indienen tot uiterlijk 20 maart. De minister beslist uiterlijk op 30 april over eventuele bezwaren.<br>
-<br>
-Voor 15 mei deelt de administratie de politieke jongerenbewegingen de hoogte van het toegekende subsidiebedrag mee.
+De beslissing om de politieke jongerenbeweging te erkennen, niet te erkennen of om de erkenning in te trekken, wordt aan de vereniging meegedeeld voor 1 juli.
 
 ### ART. 6.
 
-In afwijking van artikel 5, § 1, van dit besluit, wordt voor politieke jongerenbewegingen die in het jaar dat voorafgaat aan de subsidieaanvraag al gesubsidieerd werden op basis van artikel 15 van het decreet van 20 januari 2012 het ingediende werkingsverslag over dat voorbije jaar gelijkgesteld met een subsidieaanvraag, tenzij verenigingen daar uitdrukkelijk van afzien.
+...
 
 ### ART. 7.
 
