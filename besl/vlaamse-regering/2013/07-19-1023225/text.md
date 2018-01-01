@@ -142,7 +142,15 @@ De kosten die maximaal in aanmerking komen, zijn die welke zijn opgenomen   in a
 
 ### ART. 25.
 
-<P>Binnen de beschikbare begrotingskredieten kan steun worden verleend aan   kleine en middelgrote ondernemingen in het Vlaamse Gewest voor initiële   investeringen als vermeld in artikel 6, eerste lid, van het decreet van 16 maart   2012 die verband houden met het ingediende transformatieproject, onder de   voorwaarden, vermeld in artikel 10 tot en met 12 van het decreet van 16 maart   2012 en dit besluit.<BR><BR>Binnen de beschikbare begrotingskredieten kan steun   worden verleend aan grote ondernemingen in het Vlaamse Gewest voor initiële   investeringen ten behoeve van een nieuwe economische activiteit als vermeld in   artikel 6, tweede lid, van het decreet van 16 maart 2012. Die investeringen   moeten gebeuren in de regionale steungebieden en moeten verband houden met het   ingediende transformatieproject, onder de voorwaarden, vermeld in artikel 10 tot   en met 12 van het decreet van 16 maart 2012 en dit besluit.<BR></P>  <P>De minister beslist over de uiterste indieningsdatum voor de   transformatieprojecten ingediend door grote ondernemingen zodat een beslissing   in deze dossiers kan worden genomen voor het aflopen van de regionale   steunkaart, vermeld in artikel 3, 7°, van het decreet van 16 maart   2012.<BR></P>
+<p>Binnen de beschikbare begrotingskredieten kan steun worden verleend aan kleine en middelgrote ondernemingen in het Vlaamse Gewest voor initiële investeringen als vermeld in artikel 6, eerste lid, van het decreet van 16 maart 2012 die verband houden met het ingediende transformatieproject, onder de voorwaarden, vermeld in artikel 10 tot en met 12 van het decreet van 16 maart 2012 en dit besluit.<br>
+<br>
+Binnen de beschikbare begrotingskredieten kan steun worden verleend aan grote ondernemingen in het Vlaamse Gewest voor initiële investeringen ten behoeve van een nieuwe economische activiteit als vermeld in artikel 6, tweede lid, van het decreet van 16 maart 2012. Die investeringen moeten gebeuren in de regionale steungebieden en moeten verband houden met het ingediende transformatieproject, onder de voorwaarden, vermeld in artikel 10 tot en met 12 van het decreet van 16 maart 2012 en dit besluit.<br>
+<br>
+Overeenkomstig artikel 14, lid 16, van de algemene vrijstellingsverordening voeren de grote ondernemingen, vermeld in het eerste lid, gedurende twee jaar voor de steunaanvraag tot twee jaar na de beëindiging van de investeringen geen verplaatsing uit.<br>
+<br>
+In dit artikel wordt verstaan onder verplaatsing: de verplaatsing, vermeld in artikel 2, punt 61bis, van de algemene vrijstellingsverordening.</p>
+
+<p>De minister beslist over de uiterste indieningsdatum voor de transformatieprojecten ingediend door grote ondernemingen zodat een beslissing in deze dossiers kan worden genomen voor het aflopen van de regionale steunkaart, vermeld in artikel 3, 7°, van het decreet van 16 maart 2012.</p>
 
 ### ART. 26.
 
