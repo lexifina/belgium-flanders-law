@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028527,
+  "title": "Besluit van de Vlaamse Regering van 2017-07-14 tot opheffing van koninklijke besluiten betreffende de beroepsbekwaamheden van slager-groothandelaar, droogkuiser-verver, restaurateur of traiteur-banketaannemer, brood- en banketbakker, kapper, schoonheidsspecialist, masseur, voetverzorging, opticien, dentaaltechnicus, begrafenisondernemer, beenhouwer-spekslager en met betrekking tot de uitoefening van zelfstandige activiteiten met betrekking tot fietsen en motorvoertuigen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028527/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "ebc0f9bce16e6b61fdf74d3534b7933ccecbe68c7858833a513f818e0b8d7c4b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028527&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-07-14",
+  "gazette": "2017-08-09",
+  "numac": 2017020587,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
