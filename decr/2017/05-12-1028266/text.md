@@ -22,7 +22,27 @@ De Vlaamse Regering en de gemeenten en andere publiekrechtelijke rechtspersonen 
 
 ### ART 3.
 
-De Vlaamse Regering wordt gemachtigd om mee te werken aan de oprichting van een vereniging zonder winstoogmerk en toe te treden tot die vereniging met als doel ondernemerschap en professionalisering in de Vlaamse culturele sector te bevorderen en toeleiding naar aanvullende financiering te faciliteren.
+De Vlaamse Regering wordt gemachtigd om mee te werken aan de oprichting van een vereniging zonder winstoogmerk "Cultuurloket vzw" en toe te treden tot die vereniging met als doel ondernemerschap en professionalisering in de Vlaamse culturele sector te bevorderen en toeleiding naar aanvullende financiering te faciliteren.<br>
+<br>
+Indien de Vlaamse Regering gebruikmaakt van de machtiging, vermeld in het eerste lid, dient ze de volgende voorwaarden te respecteren:<br>
+1° de taken van Cultuurloket vzw zijn:<br>
+a) kennis te bundelen en een visie te vormen over zakelijk-juridische aangelegenheden en aanvullende financiering voor de Vlaamse cultuursector;<br>
+b) kennis te ontsluiten en advies te verlenen aan professionele actoren - zowel individuen als organisaties - in de Vlaamse cultuursector;<br>
+c) vormings- en opleidingsprojecten te organiseren en te stimuleren en matching-trajecten op te zetten om de cultuursector op zakelijk vlak te professionaliseren en duurzaam ondernemen te bevorderen;<br>
+d) te netwerken met de ondersteunende organisaties uit de cultuursector (lokaal, Vlaams en internationaal);<br>
+2° de beheersformule, vermeld in artikel 9, b), van de wet van 16 juli 1973, wordt toegepast.<br>
+<br>
+De Vlaamse Regering kan bijkomende opdrachten toekennen aan Cultuurloket vzw.<br>
+<br>
+De Vlaamse Regering kent binnen de perken van de door het Vlaams Parlement goedgekeurde kredieten, een jaarlijkse subsidie van 1.522.000 euro toe aan Cultuurloket vzw, op voorwaarde van het afsluiten van een beheersovereenkomst. Deze subsidie bestaat uit een subsidiëring van een kern van personeelsleden, een jaarlijkse basistoelage voor de werking en een subsidiëring op grond van werkelijk gepresteerde activiteiten.<br>
+<br>
+Met behoud van de toepassing van artikel 47, § 1, van het decreet van 23 december 2016 houdende bepalingen tot begeleiding van de begroting 2017, wordt het subsidiebedrag gekoppeld aan hetzelfde prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen.<br>
+<br>
+De subsidie wordt uitgekeerd in een voorschot en een saldo. Het voorschot wordt betaald in het eerste kwartaal van elk werkjaar en bedraagt 90% van het toegekende subsidiebedrag. Het saldo wordt uitbetaald in de loop van het jaar dat volgt op het gesubsidieerde werkjaar nadat de administratie de financiële afrekening en het jaarverslag van het voorbije gesubsidieerde jaar heeft goedgekeurd.<br>
+<br>
+De Vlaamse Regering sluit een beheersovereenkomst met Cultuurloket vzw voor een duur van maximaal vijf jaar. Deze beheersovereenkomst bevat de concrete uitwerking, op praktisch vlak, van de bij dit artikel vastgestelde regels, zoals de missie, de invulling van de kerntaken en de strategische en operationele doelstellingen.<br>
+<br>
+Cultuurloket vzw mag het gedeelte van het toegekende subsidiebedrag voor het werkjaar dat de kosten van dat werkjaar overschrijdt, onbeperkt aanwenden voor de aanleg van een reserve binnen de duur van de beheersovereenkomst. Die gecumuleerde reserve mag op het einde van de beheersovereenkomst maximaal twintig procent bedragen van het toegekende subsidiebedrag van het laatste werkjaar op voorwaarde dat een nieuwe beheersovereenkomst wordt afgesloten. Indien geen nieuwe beheersovereenkomst wordt afgesloten dient Cultuurloket vzw een gemotiveerd bestedingsplan omtrent de vzw in bij de bevoegde administratie. Als de administratie het bestedingsplan niet goedkeurt, is Cultuurloket vzw gehouden tot onmiddellijke terugbetaling van de met subsidies opgebouwde reserve.
 
 ### ART 4.
 
@@ -35,6 +55,10 @@ De bestuurders van die vereniging worden voorgedragen in gezamenlijk overleg tus
 ### ART 5.
 
 De Vlaamse Regering wordt gemachtigd om toe te treden tot een vereniging zonder winstoogmerk met als doel vorm en inhoud te geven aan de Vlaams-Nederlandse culturele samenwerking, ter uitvoering van het verdrag inzake de samenwerking op het gebied van cultuur, onderwijs, wetenschappen en welzijn tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap in het Koninkrijk België, ondertekend in Antwerpen op 17 januari 1995.
+
+### ART 6.
+
+De Vlaamse Regering wordt gemachtigd om toe te treden tot een vereniging zonder winstoogmerk met als doel de organisatie mogelijk te maken van culturele evenementen en congresactiviteiten in een zo ruim mogelijke betekenis en die daartoe een concertgebouw te Brugge heeft opgericht.
 
 ## HOOFDSTUK 3 Lokaal cultuurbeleid
 
@@ -75,7 +99,26 @@ In artikel 7 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2004 
 
 ## HOOFDSTUK 6 Wijzigingen van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid
 
+### ART 11.
+
+In artikel 8, § 3, van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "en provinciale" telkens opgeheven;<br>
+2° in het tweede lid wordt de zinsnede ", voor de Vlaamse provinciebesturen" opgeheven.
+
+### ART 12.
+
+In artikel 9, § 3, tweede lid, van hetzelfde decreet worden de woorden "gemeente- en provinciebesturen" vervangen door het woord "gemeentebesturen".
+
+### ART 13.
+
+In artikel 11, § 7, tweede lid, van hetzelfde decreet worden de woorden "gemeente- en provinciebesturen" vervangen door het woord "gemeentebesturen".
+
 ## HOOFDSTUK 7 Wijziging van het decreet van 6 juli 2012 houdende subsidiëring van hostels, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme
+
+### ART 14.
+
+Aan artikel 4, eerste lid, van het decreet van 6 juli 2012 houdende subsidiëring van hostels, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+"3° het jeugdverblijf Hanenbos in Dworp.".
 
 ## HOOFDSTUK 8 Wijziging van het decreet van 5 juli 2013 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2013
 
