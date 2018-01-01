@@ -104,6 +104,15 @@ Besluit :
 
 ## HOOFDSTUK 11. Wijziging van het ministerieel besluit van 13 juli 2015 houdende uitvoering van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid, wat betreft de specifieke regels voor vergroening binnen de rechtstreekse betalingen
 
+### ART 43.
+
+In artikel 12 van het ministerieel besluit van 13 juli 2015 houdende uitvoering van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid, wat betreft de specifieke regels voor vergroening binnen de rechtstreekse betalingen, gewijzigd bij het ministerieel besluit van 8 februari 2018, worden de volgende wijzigingen aangebracht:<br>
+1° tussen het eerste lid en het bestaande tweede lid, dat het vijfde lid wordt, worden drie nieuwe leden ingevoegd die luiden als volgt:<br>
+"Ingeval van overmacht kan de bevoegde entiteit afwijkingen toestaan op de in het vorige lid vermelde minimale zaaidichtheden waaraan de gewassoorten in het mengsel moeten voldoen.<br>
+In het kalenderjaar 2018 komen arealen met vanggewassen of groenbedekkers eveneens in aanmerking als ecologisch aandachtsgebied wanneer ze ingezaaid zijn met zuivere gewas op voorwaarde dat de ingezaaide gewassen grassen of andere kruidachtige voedergewassen zijn.<br>
+Voor het kalenderjaar 2018 komen arealen met wintergewassen die normaliter in het najaar worden ingezaaid om te worden geoogst als ruwvoeder of begraasd, eveneens in aanmerking als arealen met vanggewassen of groenbedekkers.";<br>
+2° tussen het bestaande derde lid, dat het zesde lid wordt en het bestaande vierde lid, dat het achtste lid wordt, wordt een lid ingevoegd dat luidt als volgt: "Ingeval van overmacht kan de bevoegde entiteit afwijkingen toestaan op de datums vermeld in het vorige lid.".
+
 ## HOOFDSTUK 12. Wijziging van het ministerieel besluit van 5 november 2015 tot vaststelling van een keurings- en certificeringsreglement voor de productie van pootaardappelen
 
 ## HOOFDSTUK 13. Wijzigingen van het ministerieel besluit van 22 december 2015 betreffende steun aan de investeringen en aan de overname in de landbouw
