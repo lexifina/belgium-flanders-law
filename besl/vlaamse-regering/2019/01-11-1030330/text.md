@@ -40,3 +40,13 @@ In artikel 8 van het besluit van de Vlaamse Regering van 8 december 2017 over de
 1° in het derde lid wordt het getal "8" vervangen door het getal "9";<br>
 2° in hetzelfde lid worden de woorden "dat er een schriftelijke overeenkomst met de werknemersvertegenwoordiging is gesloten" vervangen door de woorden "dat er overleg met de werknemersvertegenwoordiging heeft plaatsgevonden";<br>
 3° het vijfde lid wordt opgeheven.
+
+### ART 10.
+
+In artikel 9 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt het percentage "10 %" vervangen door het percentage "3 %";<br>
+2° het tweede lid wordt vervangen door wat volgt:<br>
+"Het bedrag per punt bedraagt 834 euro (achthonderdvierendertig euro).";<br>
+3° er wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+"Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, met de volgende formule:<br>
+(basisbedrag x index december 20../index december 2017).".
