@@ -22,7 +22,12 @@ Om gesubsidieerd te worden en te blijven, moeten de hostels, jeugdverblijfcentra
 
 ### ART. 4.
 
-Om een zo groot mogelijk aanbod van capaciteit en diversiteit mogelijk te maken voor jeugdtoeristische- en vormingsactiviteiten, subsidieert de Vlaamse Regering ADJ. Deze vereniging heeft tot doel de volgende centra te beheren : <br />1° de Hoge Rielen in Kasterlee (Lichtaart);<br />2° het jeugdvormingscentrum Destelheide in Beersel (Dworp).<br /><br />De Vlaamse Regering sluit met ADJ een beheersovereenkomst die de voorwaarden voor de terbeschikkingstelling van bovenvermelde centra regelt.
+Om een zo groot mogelijk aanbod van capaciteit en diversiteit mogelijk te maken voor jeugdtoeristische- en vormingsactiviteiten, subsidieert de Vlaamse Regering ADJ. Deze vereniging heeft tot doel de volgende centra te beheren :<br>
+1° de Hoge Rielen in Kasterlee (Lichtaart);<br>
+2° het jeugdvormingscentrum Destelheide in Beersel (Dworp).<br>
+3° het jeugdverblijf Hanenbos in Dworp.<br>
+<br>
+De Vlaamse Regering sluit met ADJ een beheersovereenkomst die de voorwaarden voor de terbeschikkingstelling van bovenvermelde centra regelt.
 
 ### ART. 5.
 
