@@ -2,16 +2,16 @@
   "codex_id": 1026158,
   "title": "Ministerieel besluit van 2015-04-20 houdende het instellen van een regelluw kader voor multifunctionele centra",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026158/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "6d8b92ea68263524914642d5ba65bce6d2f56e4a57eb1c72384f08baf732e46f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026158/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "0582ce80ca44f2faa134d3c10ff81cac5f472385dee59242d029c80a7d54be14",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026158&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2018-01-01",
   "made": "2015-04-20",
   "gazette": "2015-12-02",
   "numac": 2015036470,
   "document_start": "2015-01-01",
   "document_end": "2017-12-31",
-  "in_force": "2015-01-01",
+  "in_force": "2018-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
