@@ -164,6 +164,8 @@ De bedragen, vermeld in deze paragraaf, worden telkens op 1 januari en 1 juli aa
 <br>
 De kosten voor aanpassingen aan de infrastructuur die ter beschikking gesteld wordt door de vergunde zorgaanbieder, die uitgevoerd worden met het oog op bijzondere infrastructuurnoden door de aard van de handicap, mogen niet als woonkosten aangerekend worden.<br>
 <br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen kan de wijze bepalen waarop de woonkosten, vermeld in het eerste lid, berekend moeten worden.<br>
+<br>
 Onder leefkosten wordt verstaan de vergoeding voor het levensonderhoud. Het gaat om de kosten voor:<br>
 1° voeding;<br>
 2° drank;<br>
@@ -183,6 +185,14 @@ Kosten die vergoed worden met een persoonsvolgend budget, kunnen niet ook als wo
 De voorziening biedt aan het collectief overlegorgaan transparantie over de principes die aan de basis liggen van de berekeningswijze van de woon- en leefkosten.<br>
 <br>
 De voorziening maakt de woon- en leefkosten en aanpassingen ervan publiek kenbaar en neemt die op in de individuele dienstverleningsovereenkomst.<br>
+<br>
+Voor de meerderjarige gebruikers die op 1 januari 2017 financiële bijdragen betaalden en die woon- en leefkosten moeten betalen na de overschakeling naar een systeem waarbij de gebruiker zelf instaat voor de woon- en leefkosten als vermeld in artikel 2, derde lid, wordt het bedrag van de woon- en leefkosten berekend rekening houdend met de financiële bijdragen die moesten worden betaald en met de bijkomende vergoedingen voor specifieke prestaties en verstrekkingen die aangerekend zijn voor de omschakeling naar een systeem waarbij de gebruiker zelf instaat voor de woon- en leefkosten.<br>
+<br>
+De voorzieningen berekenen het bedrag dat gemiddeld als financiële bijdrage en als bijkomende vergoeding is aangerekend.<br>
+<br>
+Het bedrag van de woon- en leefkosten dat aan de gebruikers, vermeld in het achtste lid, wordt aangerekend, mag tot en met 31 december 2020 gemiddeld niet meer bedragen dan het gemiddelde bedrag vermeld in het negende lid.<br>
+<br>
+Van de bepaling, vermeld in het tiende lid, kan alleen worden afgeweken na omstandige motivatie op basis van de kostenstructuur van de voorziening en na goedkeuring door het collectief overlegorgaan van de voorziening en door het agentschap.<br>
 <br>
 § 4. De voorziening streeft ernaar een maatschappelijk aanvaardbare ondersteuning te verstrekken aan de gebruiker of zijn omgeving.<br>
 <br>
