@@ -2,16 +2,16 @@
   "codex_id": 1022088,
   "title": "Decreet van 2012-07-13 ruimtelijke economie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022088/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "0fe1f5f547fa55e59a5196318382f7b449e0de699a15a03a1db1079c8d5d8f9c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022088/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "bada84ae75d55a65d02ef34b2d930173f5545d5c9221624b0803152c8cbff06f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022088&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2018-01-01",
   "made": "2012-07-13",
   "gazette": "2012-08-16",
   "numac": 2012204501,
   "document_start": "2012-08-26",
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2018-01-01",
   "article_versions": 86,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }

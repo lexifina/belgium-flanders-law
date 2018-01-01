@@ -86,15 +86,16 @@ De Vlaamse Regering kan overgaan tot onteigening van onroerende goederen die ver
 
 ### ART. 16.
 
-De Vlaamse Regering kan de provincies, de gemeenten, de verenigingen van gemeenten, de autonome gemeentebedrijven, de Vlaamse openbare instellingen en andere publiekrechtelijke rechtspersonen die daarvoor door haar worden aangewezen, geval per geval machtigen tot onteigening voor de (her)aanleg van bedrijventerreinen, alsook van hun toegangswegen en de bijkomende infrastructuur voor die bedrijventerreinen.<br /><br />
+De provincies en de gemeenten kunnen tot onteigening overgaan voor de (her)aanleg van bedrijventerreinen, alsook van de toegangswegen en de bijkomende infrastructuur voor die bedrijventerreinen. De Vlaamse Regering kan met hetzelfde doel de Vlaamse openbare instellingen en andere publiekrechtelijke rechtspersonen die daarvoor door haar worden aangewezen, geval per geval machtigen tot onteigening. De gemeenteraad van de gemeente op wiens grondgebied het voorwerp van de onteigening zich bevindt, kan hiertoe ook de verenigingen van gemeenten en de autonome gemeentebedrijven, geval per geval machtigen.
 
 ### ART. 17.
 
-Het onteigeningsplan bevat de identiteit van de onteigenende instantie voor elk te onteigenen perceel, de omtrek van de te onteigenen goederen met kadastrale vermelding van de sectie, de nummers, de grootte, de aard van de percelen en de namen van de eigenaars volgens het kadaster en op basis van het kadasterplan. De wegen en waterwegen die de te onteigenen goederen doorkruisen en die opgeheven moeten worden, worden in het onteigeningsbesluit aan het openbaar domein en hun bestemming onttrokken.<br /><br />
+Het onteigeningsplan wordt opgemaakt conform artikel 11 van het Vlaams Onteigeningsdecreet van 24 februari 2017. De wegen en waterwegen die de te onteigenen goederen doorkruisen en die opgeheven moeten worden, worden in het onteigeningsbesluit aan het openbaar domein en hun bestemming onttrokken.<br>
+&nbsp;
 
 ### ART. 18.
 
-Het ontwerp van onteigeningsplan wordt op kosten van de onteigenende instantie onderworpen aan een vijftiendaags openbaar onderzoek. Voor de aanvang van dat onderzoek brengt de onteigenende instantie de eigenaars van de te onteigenen goederen op het adres van hun woonplaats of maatschappelijke zetel ervan op de hoogte dat het ontwerpplan ter inzage ligt in het gemeentehuis. Voor de aanvang van dat onderzoek wordt de aankondiging van het openbaar onderzoek ook duidelijk zichtbaar aangeplakt op een plaats waar de te onteigenen goederen palen aan een openbare weg, of, als de goederen aan verschillende openbare wegen palen, aan al die openbare wegen.<br /><br />
+Er wordt een openbaar onderzoek georganiseerd conform de bepalingen van titel 3, hoofdstuk 3, van het Vlaams Onteigeningsdecreet van 24 februari 2017.
 
 ### ART. 19.
 
@@ -128,7 +129,13 @@ Publiekrechtelijke rechtspersonen actief inzake de ontwikkeling of het beheer va
 
 ### ART. 26.
 
-De hierna genoemde personen moeten, bij de verkoop, het in opstal, erfpacht of vruchtgebruik geven van de hierna vermelde gronden gelegen binnen bedrijventerreinen in de onderhandse overeenkomst en in de authentieke akte die verleden wordt na de inwerkingtreding van dit decreet een recht van terugkoop, respectievelijk een recht van wederovername opnemen of laten opnemen : <br />1° iedere persoon aan wie een ondersteuning als vermeld in titel 3, afdeling 2, onderafdeling 1 of onderafdeling 3 of afdeling 3, is verleend en dit voor de gronden gelegen binnen het inrichtingsplan van de zone waarvoor de ondersteuning is verleend; <br />2° de persoon die een onteigeningsmachtiging heeft verkregen op basis van dit decreet voor de aanleg of heraanleg van een bedrijventerrein, toegangswegen naar of bijkomende infrastructuur voor dat bedrijventerrein en dit voor de gronden waarop de onteigeningsmachtiging betrekking heeft;<br />3° de persoon die gronden heeft verworven krachtens het terugkooprecht, vermeld in artikel 32 van de wet van 30 december 1970 op de economische expansie en dit voor de aldus verworven gronden;<br />4° de persoon die gronden heeft verworven krachtens het terugkooprecht, vermeld in artikel 75 of 76 van het decreet van 19 december 2003 houdende bepalingen ter begeleiding van de begroting 2004 en dit voor de aldus verworven gronden; <br />5° de persoon die gronden of een recht van opstal, erfpacht of vruchtgebruik heeft verworven krachtens het terugkooprecht of het recht van wederovername bedoeld in dit decreet en dit voor de aldus verworven gronden en rechten.<br /><br />
+De hierna genoemde personen moeten, bij de verkoop, het in opstal, erfpacht of vruchtgebruik geven van de hierna vermelde gronden gelegen binnen bedrijventerreinen in de onderhandse overeenkomst en in de authentieke akte die verleden wordt na de inwerkingtreding van dit decreet een recht van terugkoop, respectievelijk een recht van wederovername opnemen of laten opnemen :<br>
+1° iedere persoon aan wie een ondersteuning als vermeld in titel 3, afdeling 2, onderafdeling 1 of onderafdeling 3 of afdeling 3, is verleend en dit voor de gronden gelegen binnen het inrichtingsplan van de zone waarvoor de ondersteuning is verleend;<br>
+2° de onteigenende instantie die op basis van dit decreet voor de aanleg of heraanleg van een bedrijventerrein, de toegangswegen naar of bijkomende infrastructuur voor dat bedrijventerrein tot onteigening is overgegaan voor de gronden waarop de onteigening betrekking heeft;<br>
+3° de persoon die gronden heeft verworven krachtens het terugkooprecht, vermeld in artikel 32 van de wet van 30 december 1970 op de economische expansie en dit voor de aldus verworven gronden;<br>
+4° de persoon die gronden heeft verworven krachtens het terugkooprecht, vermeld in artikel 75 of 76 van het decreet van 19 december 2003 houdende bepalingen ter begeleiding van de begroting 2004 en dit voor de aldus verworven gronden;<br>
+5° de persoon die gronden of een recht van opstal, erfpacht of vruchtgebruik heeft verworven krachtens het terugkooprecht of het recht van wederovername bedoeld in dit decreet en dit voor de aldus verworven gronden en rechten.<br>
+&nbsp;
 
 ### ART. 27.
 
