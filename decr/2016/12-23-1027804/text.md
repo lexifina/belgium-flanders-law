@@ -18,6 +18,28 @@ In dit decreet wordt verstaan onder:<br>
 
 ## HOOFDSTUK 3 Maatregelen voor de fusie van Waterwegen en Zeekanaal NV en nv De Scheepvaart
 
+### ART 3.
+
+Met het oog op de herstructurering van de vennootschappen Waterwegen en Zeekanaal NV en nv De Scheepvaart wordt Waterwegen en Zeekanaal NV ontbonden onder de voorwaarden en op de wijze, vermeld in artikel 4 tot en met 7.
+
+### ART 4.
+
+De ontbinding, vermeld in artikel 3, is een ontbinding zonder vereffening waarbij het hele vermogen, alle rechten en plichten en alle activiteiten van Waterwegen en Zeekanaal NV worden overgedragen aan de vennootschap.<br>
+&nbsp;
+
+### ART 5.
+
+De aandeelhouders van Waterwegen en Zeekanaal NV worden vergoed met aandelen in de vennootschap die aan hen worden toegekend in verhouding van hun kapitaal in Waterwegen en Zeekanaal NV tot het kapitaal van de vennootschap.
+
+### ART 6.
+
+De personeelsleden van Waterwegen en Zeekanaal NV worden conform artikel I, 5ter, van het besluit van het Vlaams personeelsstatuut van 13 januari 2006 van rechtswege overgedragen aan de vennootschap. De titularis van de functie van algemeen directeur bij Waterwegen en Zeekanaal NV wordt overgedragen naar de vennootschap met behoud van de functie van algemeen directeur en de daaraan verbonden administratieve en geldelijke rechten.<br>
+&nbsp;
+
+### ART 7.
+
+De vennootschap wordt van rechtswege in de plaats gesteld in alle rechten en plichten van de ingebrachte vennootschap Waterwegen en Zeekanaal NV, en geldt als de algemene rechtsopvolger van de ingebrachte vennootschap Waterwegen en Zeekanaal NV.
+
 ## HOOFDSTUK 4 Wijzigingen van het decreet van 2 april 2004 betreffende de omzetting van de Dienst voor de Scheepvaart in het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap De Scheepvaart
 
 ### ART 8.
@@ -335,6 +357,10 @@ Artikel 48, vervangen bij het decreet van 27 april 2007 en gewijzigd bij het dec
 &nbsp;
 
 ## HOOFDSTUK 5 Slotbepalingen
+
+### ART 47.
+
+Het decreet van 4 mei 1994 betreffende het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Waterwegen en Zeekanaal, naamloze vennootschap van publiek recht, het laatst gewijzigd bij het decreet van 1 maart 2013, wordt opgeheven.
 
 ### ART 48.
 
