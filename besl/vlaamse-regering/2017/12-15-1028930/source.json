@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028930,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-15 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de overheveling van provinciepersoneel vanaf 1 januari 2018 in het kader van de afslanking van de provincies en enkele andere bepalingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028930/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "10fbdb0d0a1290bc4fa19eb6ed2793e84b3da7e07bfe1aa6e19d8cdb4a191de4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028930&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-12-15",
+  "gazette": "2018-01-26",
+  "numac": 2018030138,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
