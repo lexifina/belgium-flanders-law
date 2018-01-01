@@ -162,6 +162,19 @@ d) geïntegreerde brandstoftanks bij vast opgestelde motoren, zoals bij aggregat
 "- prioritaire stoffen : de stoffen die conform artikel 3, § 2, 19°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid zijn opgesomd in lijst III van bijlage 2C bij dit besluit. Tot die stoffen behoren prioritaire gevaarlijke stoffen waarvoor maatregelen moeten worden getroffen conform artikel 5, eerste lid, 2°, van het voormelde decreet;".<br>
 &nbsp;
 
+### ART 4.
+
+In artikel 1.4.1.1, zesde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 27 november 2015, wordt tussen de zinsnede "artikel 82" en de zinsnede "een algemene evaluatie" de zinsnede "van het decreet van 25 april 2014" ingevoegd.
+
+### ART 5.
+
+In artikel 1.4.3.1.1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 27 november 2015, wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt :<br>
+"De concrete planning wordt door de afdeling Milieu, bevoegd voor de omgevingsvergunning, maximaal zestig dagen na de publicatie van nieuwe of herziene BBT-conclusies in het Publicatieblad van de Europese Unie geactualiseerd."
+
+### ART 6.
+
+In artikel 1.4.6.1, vierde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 27 november 2015, wordt de zinsnede "als vermeld in artikel 1.4.1.2, 2°, c) en d)" vervangen door de zinsnede "als vermeld in artikel 1.4.2.1, 2°, c) en d)".
+
 ### ART 7.
 
 In artikel 2.3.6.1, § 3, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 mei 2014, wordt het woord "milieuvergunning" telkens vervangen door de woorden "omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit".
