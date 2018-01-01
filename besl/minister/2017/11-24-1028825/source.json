@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028825,
+  "title": "Ministerieel besluit van 2017-11-24 houdende vaststelling van de verboden lijst, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 13 februari 2015 houdende uitvoering van het Antidopingdecreet van 25 mei 2012",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028825/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "a0234b95f0f584207d42fcc283b8dc24cee050a6d6ad704f9d975bd1f62a4e00",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028825&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-11-24",
+  "gazette": "2017-12-18",
+  "numac": 2017031859,
+  "document_start": "2018-01-01",
+  "document_end": "2018-12-31",
+  "in_force": "2018-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
