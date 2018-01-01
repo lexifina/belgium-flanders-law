@@ -20,7 +20,14 @@ Dit besluit wordt aangehaald als: Vergunningsbesluit van 22 november   2013.
 
 ### ART. 2.
 
-<P>De organisator heeft kennisgenomen van de werkingsvoorwaarden die op hem van   toepassing zijn, vermeld in artikel 14 tot en met 62, en verbindt zich ertoe om   aan die voorwaarden te voldoen zodra er in de kinderopvanglocatie kinderen   worden opgevangen.<BR></P>  <P>De organisator heeft bovendien :<BR>1° een risicoanalyse als vermeld in   artikel 24, § 1;<BR>2° een schriftelijke overeenkomst met een pedagogische   ondersteuningsorganisatie als vermeld in artikel 32, tenzij de organisator zelf   erkend is als pedagogische ondersteuningsorganisatie en voor zichzelf die rol   vervult;<BR>3° een bewijs van aanvraag tot advies van het lokaal bestuur van de   gemeente waar de kinderopvanglocatie zich bevindt, over de uitbreiding van de   kinderopvang binnen het eigen grondgebied, meer bepaald over de nog op te   starten kinderopvanglocatie van de organisator. Deze verplichting geldt alleen   voor de organisator van groepsopvang.<BR></P>  <P>De startvoorwaarden, vermeld in het eerste en tweede lid, blijken uit een   verklaring op erewoord van de organisator opgenomen in het aanvraagformulier van   een vergunning voor kinderopvang van Kind en Gezin.<BR></P>
+<p>De organisator heeft kennisgenomen van de werkingsvoorwaarden die op hem van toepassing zijn, vermeld in artikel 14 tot en met 62, en verbindt zich ertoe om aan die voorwaarden te voldoen zodra er in de kinderopvanglocatie kinderen worden opgevangen.</p>
+
+<p>De organisator heeft bovendien :<br>
+1° een risicoanalyse als vermeld in artikel 24, § 1;<br>
+2° ...<br>
+3° een bewijs van aanvraag tot advies van het lokaal bestuur van de gemeente waar de kinderopvanglocatie zich bevindt, over de uitbreiding van de kinderopvang binnen het eigen grondgebied, meer bepaald over de nog op te starten kinderopvanglocatie van de organisator. Deze verplichting geldt alleen voor de organisator van groepsopvang.</p>
+
+<p>De startvoorwaarden, vermeld in het eerste en tweede lid, blijken uit een verklaring op erewoord van de organisator opgenomen in het aanvraagformulier van een vergunning voor kinderopvang van Kind en Gezin.</p>
 
 ### ART. 3.
 
@@ -64,7 +71,7 @@ De organisator van gezinsopvang zorgt ervoor dat elke kinderbegeleider de   modu
 
 ### ART. 12.
 
-<P>De organisator van gezinsopvang heeft voor elke kinderbegeleider een   beslissing als vermeld in artikel 6, § 2, eerste lid, van het decreet van 20   april 2012, over het maximaal aantal tegelijk aanwezige kinderen waarvoor de   kinderbegeleider draagkracht heeft. Dat blijkt uit een attest draagkracht als   vermeld in artikel 6, § 2, eerste lid, van het voormelde decreet, opgesteld door   de pedagogische ondersteuningsorganisatie, vermeld in artikel 32 van dit   besluit.<BR></P>  <P>Het attest, vermeld in het eerste lid, is bij de aanvraag van de vergunning   maximaal drie maanden oud.<BR></P>
+...
 
 ## Afdeling 3 Groepsopvang
 
