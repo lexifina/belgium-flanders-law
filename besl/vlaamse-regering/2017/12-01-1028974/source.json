@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028974,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-01 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de energiescans",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028974/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "7b05710da486dfdf2487b96ed53b554a4c48079a521e4a23a1ec97d298e3d419",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028974&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-12-01",
+  "gazette": "2018-02-05",
+  "numac": 2018010381,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
