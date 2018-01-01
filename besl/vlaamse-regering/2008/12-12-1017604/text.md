@@ -171,7 +171,7 @@ Als het controleorgaan vermoedt dat een marktdeelnemer verboden producten   gebr
 
 ### ART. 25.
 
-<P>Het controleorgaan moet bij iedere marktdeelnemer die aan zijn controle   onderworpen is, om de 48 maanden minstens een monster nemen, uitgezonderd bij   marktdeelnemers die niet fysiek over biologische producten   beschikken.</P>
+...
 
 ## Afdeling II Aard van de analyses
 
