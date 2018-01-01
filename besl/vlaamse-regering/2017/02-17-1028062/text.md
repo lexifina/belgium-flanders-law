@@ -40,13 +40,14 @@ In dit besluit wordt verstaan onder:<br>
 2° VDAB: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 3, § 1, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding".<br>
 3° minister: de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid;<br>
 4° niet-werkende werkzoekende: de persoon, vermeld in artikel 1, eerste lid, 8°, van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding;<br>
-5° onderneming: elke natuurlijke persoon of rechtspersoon die een niet-werkende werkzoekende aanwerft;
+5° onderneming: elke natuurlijke persoon of rechtspersoon die een niet-werkende werkzoekende aanwerft;<br>
+6° departement: het Departement Werk en Sociale Economie, vermeld in artikel 25, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
 
 ## HOOFDSTUK 2 Toekenningsvoorwaarden
 
 ### ART 2.
 
-§ 1. Binnen de perken van de jaarlijks goedgekeurde begroting kan de VDAB een aanwervingsincentive toekennen aan ondernemingen die aan de volgende voorwaarden voldoen:<br>
+§ 1. Binnen de perken van de jaarlijks goedgekeurde begroting kan&nbsp;het departement een aanwervingsincentive toekennen aan ondernemingen die aan de volgende voorwaarden voldoen:<br>
 1° de onderneming werft vanaf 1 januari 2017 een niet-werkende werkzoekende aan die op het ogenblik van zijn indiensttreding aan de volgende voorwaarden voldoet:<br>
 a) hij is gedurende minstens twee jaar als niet-werkende werkzoekende bij de VDAB ingeschreven;<br>
 b) op het einde van het kwartaal van de indiensttreding is hij minstens 25 jaar en heeft hij de leeftijd van 55 jaar nog niet bereikt.<br>
@@ -113,11 +114,11 @@ In het tweede lid, 2°, wordt verstaan onder onderneming waarin ten minste een a
 
 ### ART 6.
 
-§ 1. De onderneming dient voor aanwervingen vanaf de datum van inwerkingtreding op straffe van verval binnen de drie maanden na de indiensttreding van de niet-werkende werkzoekende bij de VDAB een aanvraag in voor de aanwervingsincentive. De VDAB stelt daarvoor een aanvraagformulier ter beschikking.<br>
+§ 1. De onderneming dient voor aanwervingen vanaf de datum van inwerkingtreding op straffe van verval binnen de drie maanden na de indiensttreding van de niet-werkende werkzoekende bij het departement een aanvraag in voor de aanwervingsincentive. Het departement stelt daarvoor een aanvraagformulier ter beschikking.<br>
 <br>
 In afwijking van het eerste lid dienen ondernemingen voor aanwervingen gebeurd tussen 1 januari 2017 en de datum van inwerkingtreding van dit besluit, een aanvraag voor de aanwervingsincentive in binnen de drie maanden te rekenen vanaf de datum van inwerkingtreding van dit besluit.<br>
 <br>
-In afwijking van het eerste lid kan de minister een afwijkende termijn vaststellen als de behandeling van de aanvragen door de VDAB om administratief-technische redenen niet tijdig kan plaatsvinden.<br>
+In afwijking van het eerste lid kan de minister een afwijkende termijn vaststellen als de behandeling van de aanvragen door het departement om administratief-technische redenen niet tijdig kan plaatsvinden.<br>
 <br>
 De aanvraag vermeldt de volgende gegevens:<br>
 1° de identiteitsgegevens van de onderneming;<br>
@@ -125,62 +126,62 @@ De aanvraag vermeldt de volgende gegevens:<br>
 3° de datum van indiensttreding van de werknemer;<br>
 4° de gegevens over de aard van de arbeidsrelatie.<br>
 <br>
-De VDAB beoordeelt de aanvraag op basis van een volledig en correct ingevuld aanvraagformulier.<br>
+Het departement beoordeelt de aanvraag op basis van een volledig en correct ingevuld aanvraagformulier.<br>
 <br>
-De VDAB kan alle noodzakelijk gegevensbronnen raadplegen met het oog op de verwerking van de aanvraag.<br>
+Het departement kan alle noodzakelijk gegevensbronnen raadplegen met het oog op de verwerking van de aanvraag.<br>
 <br>
-§ 2. De onderneming ontvangt een ontvangstmelding dat de aanvraag wordt geregistreerd of een vraag om bijkomende inlichtingen binnen veertien kalenderdagen na de aanvraag. Die termijn van veertien kalenderdagen wordt geschorst als de VDAB de onderneming om aanvullende informatie heeft verzocht en de VDAB die informatie nog niet heeft ontvangen.<br>
+§ 2. De onderneming ontvangt een ontvangstmelding dat de aanvraag wordt geregistreerd of een vraag om bijkomende inlichtingen binnen veertien kalenderdagen na de aanvraag. Die termijn van veertien kalenderdagen wordt geschorst als het departement de onderneming om aanvullende informatie heeft verzocht en het departement die informatie nog niet heeft ontvangen.<br>
 <br>
 Als het dossier drie maanden na de indiening van de aanvraag niet volledig is, vervalt de aanvraag.<br>
 <br>
-In afwijking van het eerste lid kan de minister een afwijkende termijn vaststellen als de behandeling van de aanvragen door de VDAB om administratief-technische redenen niet tijdig kan plaatsvinden.
+In afwijking van het eerste lid kan de minister een afwijkende termijn vaststellen als de behandeling van de aanvragen door het departement om administratief-technische redenen niet tijdig kan plaatsvinden.
 
 ### ART 7.
 
-De VDAB kent de aanwervingsincentive toe op basis van een onderzoek naar de toekenningsvoorwaarden, vermeld in artikel 2, 4, 5 en 6.<br>
+Het departement kent de aanwervingsincentive toe op basis van een onderzoek naar de toekenningsvoorwaarden, vermeld in artikel 2, 4, 5 en 6.<br>
 <br>
-De VDAB kan alle noodzakelijk gegevensbronnen raadplegen met het oog op de verwerking van de aanvraag.
+Het departement kan alle noodzakelijk gegevensbronnen raadplegen met het oog op de verwerking van de aanvraag.
 
 ### ART 8.
 
-Uiterlijk dertig dagen na de volledige aanvraag brengt de VDAB de onderneming op de hoogte van de beslissing tot toekenning van een aanwervingsincentive.<br>
+Uiterlijk dertig dagen na de volledige aanvraag brengt het departement de onderneming op de hoogte van de beslissing tot toekenning van een aanwervingsincentive.<br>
 <br>
 De beslissing tot toekenning omvat:<br>
 1° de identiteitsgegevens van de werknemer;<br>
 2° in voorkomend geval, de tijdstippen van de uitbetaling van de aanwervingsincentive, vermeld in artikel 9;<br>
 3° in voorkomend geval, de motivering voor het niet-toekennen van de aanwervingsincentive.<br>
 <br>
-In afwijking van het eerste lid kan de minister een afwijkende termijn vaststellen als de behandeling van de aanvragen door de VDAB om administratief-technische redenen niet tijdig kan plaatsvinden.
+In afwijking van het eerste lid kan de minister een afwijkende termijn vaststellen als de behandeling van de aanvragen door het departement om administratief-technische redenen niet tijdig kan plaatsvinden.
 
 ### ART 9.
 
-§ 1. De VDAB betaalt de subsidie uit als de tewerkstellingsperiodes, vermeld in artikel 3, eerste lid, van dit besluit, effectief kunnen worden vastgesteld op basis van de gegevens in de aangiftes, vermeld in het koninklijk besluit van 5 november 2002 tot invoering van een onmiddellijke aangifte van tewerkstelling, met toepassing van artikel 38 van de wet van 26 juli 1996 tot modernisering van de sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke pensioenstelsel, en de gegevens van inschrijving als niet-werkende werkzoekende bij de VDAB.<br>
+§ 1. Het departement betaalt de subsidie uit als de tewerkstellingsperiodes, vermeld in artikel 3, eerste lid, van dit besluit, effectief kunnen worden vastgesteld op basis van de gegevens in de aangiftes, vermeld in het koninklijk besluit van 5 november 2002 tot invoering van een onmiddellijke aangifte van tewerkstelling, met toepassing van artikel 38 van de wet van 26 juli 1996 tot modernisering van de sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke pensioenstelsel, en de gegevens van inschrijving als niet-werkende werkzoekende bij het departement.<br>
 <br>
-In afwijking van het eerste lid kan de VDAB de subsidie uitbetalen als de arbeidsovereenkomst voor het verstrijken van de periode waarvoor de aanwervingsincentive wordt toegekend, beëindigd is, hetzij door de aangeworvene zelf, hetzij om een dringende reden die de aangeworvene ten laste wordt gelegd, hetzij wegens overmacht, hetzij om redenen buiten de wil van de werkgever. De onderneming geeft daarvan een bewijs.<br>
+In afwijking van het eerste lid kan het departement de subsidie uitbetalen als de arbeidsovereenkomst voor het verstrijken van de periode waarvoor de aanwervingsincentive wordt toegekend, beëindigd is, hetzij door de aangeworvene zelf, hetzij om een dringende reden die de aangeworvene ten laste wordt gelegd, hetzij wegens overmacht, hetzij om redenen buiten de wil van de werkgever. De onderneming geeft daarvan een bewijs.<br>
 <br>
-§ 2. Bij het uitbetalen van de eerste schijf van de subsidie past de VDAB bij een deeltijdse tewerkstelling, conform artikel 3, § 2, tweede lid, het bedrag aan op basis van de gegevens in de aanvraag van de onderneming, vermeld in artikel 6.<br>
+§ 2. Bij het uitbetalen van de eerste schijf van de subsidie past het departement bij een deeltijdse tewerkstelling, conform artikel 3, § 2, tweede lid, het bedrag aan op basis van de gegevens in de aanvraag van de onderneming, vermeld in artikel 6.<br>
 <br>
-§ 3. Bij het uitbetalen van de tweede schijf van de subsidie past de VDAB bij een deeltijdse tewerkstelling, conform artikel 3, tweede lid, van dit besluit, het bedrag aan op basis van de laatst beschikbare gegevens over de contractuele tewerkstellingsbreuk in de aangiftes, vermeld in artikel 21 van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, en de uitvoeringsbesluiten ervan.<br>
+§ 3. Bij het uitbetalen van de tweede schijf van de subsidie past het departement bij een deeltijdse tewerkstelling, conform artikel 3, tweede lid, van dit besluit, het bedrag aan op basis van de laatst beschikbare gegevens over de contractuele tewerkstellingsbreuk in de aangiftes, vermeld in artikel 21 van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, en de uitvoeringsbesluiten ervan.<br>
 <br>
 Als de aangiftegegevens, vermeld in het eerste lid, niet beschikbaar zijn uiterlijk drie maanden na het tijdstip van de vastgelegde uitbetaling van de tweede schijf, vervalt het recht op de uitbetaling van de tweede schijf.<br>
 <br>
-§ 4. De VDAB kan alle noodzakelijk gegevensbronnen raadplegen met het oog op de vaststelling van de tewerkstellingsperiode en de verwerking van de uitbetaling.
+§ 4. Het departement kan alle noodzakelijk gegevensbronnen raadplegen met het oog op de vaststelling van de tewerkstellingsperiode en de verwerking van de uitbetaling.
 
 ### ART 10.
 
-De onderneming brengt de VDAB onmiddellijk en op eigen initiatief op de hoogte van elke wijziging die betrekking heeft of kan hebben op de toekenningsvoorwaarden van de aanwervingsincentive.
+De onderneming brengt het departement onmiddellijk en op eigen initiatief op de hoogte van elke wijziging die betrekking heeft of kan hebben op de toekenningsvoorwaarden van de aanwervingsincentive.
 
 ## HOOFDSTUK 4 Controle en sancties
 
 ### ART 11.
 
-Op verzoek van de VDAB bezorgt de onderneming alle nodige documenten of inlichtingen om de naleving van de toekenningsvoorwaarden te controleren.<br>
+Op verzoek van het departement bezorgt de onderneming alle nodige documenten of inlichtingen om de naleving van de toekenningsvoorwaarden te controleren.<br>
 <br>
 De sociaalrechtelijke inspecteurs van de afdeling Toezicht en Handhaving van het departement Werk en Sociale Economie zijn gerechtigd om ter plaatse controle uit te oefenen op de naleving van de bepalingen van dit besluit.
 
 ### ART 12.
 
-De VDAB schorst de betaling van de aanwervingsincentive, houdt het verschuldigde bedrag in op de nog te betalen subsidie of vordert de uitbetaalde subsidie terug wanneer:<br>
+Het departement schorst de betaling van de aanwervingsincentive, houdt het verschuldigde bedrag in op de nog te betalen subsidie of vordert de uitbetaalde subsidie terug wanneer:<br>
 1° uit nauwkeurige en overeenstemmende vermoedens blijkt dat de onderneming een of meer werknemers heeft ontslagen met de uitsluitende bedoeling ze te vervangen door één of meer niet-werkende werkzoekenden die recht geven op de aanwervingsincentive;<br>
 2° de onderneming de voorwaarden, vermeld in dit besluit, niet naleeft;<br>
 3° de onderneming in de aanvraag onjuiste, onvolledige of misleidende informatie heeft verstrekt.
