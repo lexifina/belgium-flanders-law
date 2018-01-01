@@ -33,12 +33,12 @@ De Vlaamse werkgroep wordt opgericht voor onbepaalde   duur.
 <p>§ 2. De volgende personen worden, op voordracht van de representatieve werkgeversorganisaties, benoemd tot effectief lid van de Vlaamse werkgroep :<br>
 1° de heer René Leekens;<br>
 2° Mevr. Yolanda Avontroodt;<br>
-3° Mona Wyverkens.</p>
+3° Louis Warlop.</p>
 
 <p>§ 3. De volgende personen worden, op voordracht van de representatieve werknemersorganisaties, benoemd tot effectief lid van de Vlaamse werkgroep :<br>
-1° Mevr. Bergie Vandenbossche;<br>
-2° Mevr. Helga Coppen;<br>
-3° Mevr. Laïla Aissa.</p>
+1° Mevr. Caroline Hielegems;<br>
+2° de heer Steven Genbrugge;<br>
+3° Mevr. Caroline Van de Sande.</p>
 
 <p>§ 4. De volgende personen worden, op voordracht van de Vlaamse Wetenschappelijke Vereniging voor Arbeidsgeneesheren en de Nederlandstalige leden van de Belgische Beroepsverening voor Arbeidsgeneesheren, benoemd tot effectief lid van de Vlaamse werkgroep :<br>
 1° Mevr. Lutgart Braeckman;<br>
