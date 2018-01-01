@@ -79,7 +79,18 @@ Als   er geen wijzigingen zijn ten opzichte van het voorgaande jaar, kan een   l
 
 ### ART. 6.
 
-<P>De landbouwer geeft in de verzamelaanvraag aan dat hij actieve landbouwer is   als vermeld in hoofdstuk 1, afdeling 3, van het besluit van 24 oktober   2014.<BR><BR>Als een landbouwer door de bevoegde entiteit niet als actieve   landbouwer als vermeld in artikel 8 van het besluit van 24 oktober 2014, wordt   beschouwd, brengt de bevoegde entiteit de landbouwer in kwestie daarvan op de   hoogte. Een aanduiding in de verzamelaanvraag die ter beschikking wordt gesteld   van een individuele landbouwer, geldt als kennisgeving van de beslissing dat de   landbouwer in kwestie niet als actief wordt beschouwd en wordt gelijkgesteld met   een betekening met een brief.<BR><BR>Het tegenbewijs, vermeld in artikel 8, § 1,   van het besluit van 24 oktober 2014, wordt uiterlijk op de uiterste   indieningsdatum van de verzamelaanvraag ingediend en kan geleverd worden op de   volgende wijze :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de landbouwer in kwestie toont aan dat zijn rechtstreekse betalingen in het   meest recente fiscale jaar waarvoor de informatie beschikbaar is, ten minste 5%   bedroegen van zijn inkomsten uit niet-landbouwactiviteiten, conform artikel 9,   lid 2, a), van verordening (EU) nr. 1307/2013 en artikel 11 en 12 van   verordening (EU) nr. 639/2014. Hij kan daarvoor onder andere de boekhouding,   zijn aanslagbiljet van de personenbelasting of zijn btw-aangifte gebruiken;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de landbouwer in kwestie toont conform artikel 9, lid 2, b), van verordening   (EU) nr. 1307/2013 aan dat zijn landbouwactiviteit niet onaanzienlijk is.   Daarvoor toont hij conform artikel 13 van verordening (EU) nr. 639/2014 aan dat   hij een derde van zijn totale inkomen uit landbouwactiviteiten gehaald heeft in   het meest recente fiscale jaar waarvoor de informatie beschikbaar is. Hij kan   daarvoor onder andere de boekhouding, zijn aanslagbiljet van de   personenbelasting of zijn btw-aangifte gebruiken;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de landbouwer in kwestie toont conform artikel 9, lid 2, c), van verordening   (EU) nr. 1307/2013 en artikel 13, lid 3, van verordening (EU) nr. 639/2014 aan   dat zijn voornaamste bedrijfsdoel of -activiteit bestaat uit een   landbouwactiviteit.<BR><BR>Als de kennisgeving van de beslissing dat een   landbouwer niet wordt beschouwd als actieve landbouwer, minder dan dertig dagen   voor de uiterste indieningsdatum van de verzamelaanvraag of, in voorkomend   geval, na de uiterste indieningsdatum wordt gegeven, wordt, in afwijking van het   derde lid, de termijn om het tegenbewijs te leveren, verlengd tot uiterlijk   dertig dagen na de kennisgeving.</P>
+<p>De landbouwer geeft in de verzamelaanvraag aan of hij activiteiten uitvoert als vermeld in artikel 8 van het besluit van 24 oktober 2014, waardoor hij niet als actieve landbouwer beschouwd wordt.<br>
+<br>
+Als een landbouwer door de bevoegde entiteit niet als actieve landbouwer als vermeld in artikel 8 van het besluit van 24 oktober 2014, wordt beschouwd, brengt de bevoegde entiteit de landbouwer in kwestie daarvan op de hoogte. Een aanduiding in de verzamelaanvraag die ter beschikking wordt gesteld van een individuele landbouwer, geldt als kennisgeving van de beslissing dat de landbouwer in kwestie niet als actief wordt beschouwd en wordt gelijkgesteld met een betekening met een brief.<br>
+<br>
+Het tegenbewijs, vermeld in artikel 8, § 1, van het besluit van 24 oktober 2014, wordt uiterlijk op de uiterste indieningsdatum van de verzamelaanvraag ingediend en kan geleverd worden op de volgende wijze :<br>
+1° de landbouwer in kwestie toont aan dat zijn rechtstreekse betalingen in het meest recente fiscale jaar waarvoor de informatie beschikbaar is, ten minste 5% bedroegen van zijn inkomsten uit niet-landbouwactiviteiten, conform artikel 9, lid 2, a), van verordening (EU) nr. 1307/2013 en artikel 11 en 12 van verordening (EU) nr. 639/2014;<br>
+2° de landbouwer in kwestie toont conform artikel 9, lid 2, b), van verordening (EU) nr. 1307/2013 aan dat zijn landbouwactiviteit niet onaanzienlijk is. Daarvoor toont hij conform artikel 13 van verordening (EU) nr. 639/2014 aan dat hij een derde van zijn totale inkomen uit landbouwactiviteiten gehaald heeft in het meest recente fiscale jaar waarvoor de informatie beschikbaar is;<br>
+3° de landbouwer in kwestie toont conform artikel 9, lid 2, c), van verordening (EU) nr. 1307/2013 en artikel 13, lid 3, van verordening (EU) nr. 639/2014 aan dat zijn voornaamste bedrijfsdoel of -activiteit bestaat uit een landbouwactiviteit.<br>
+<br>
+Als de kennisgeving van de beslissing dat een landbouwer niet wordt beschouwd als actieve landbouwer, minder dan dertig dagen voor de uiterste indieningsdatum van de verzamelaanvraag of, in voorkomend geval, na de uiterste indieningsdatum wordt gegeven, wordt, in afwijking van het derde lid, de termijn om het tegenbewijs te leveren, verlengd tot uiterlijk dertig dagen na de kennisgeving.<br>
+<br>
+Het bewijs om aan te tonen dat men actieve landbouwer is, vermeld in artikel 8, § 1 van het besluit van 24 oktober 2014 en vermeld in het derde en vierde lid, bestaat uit een verklaring die verleend wordt met een door de bevoegde entiteit ter beschikking gesteld formulier. Dat formulier wordt ingevuld door een accountant die is ingeschreven op het tableau van het Instituut van de accountants en belastingconsulenten conform artikel 5, § 1, van de wet van 22 april 1999 betreffende de boekhoudkundige en fiscale beroepen. Een bewijs van die inschrijving kan steeds opgevraagd worden. Uit de verklaring moet blijken dat de landbouwer voldoet aan het derde lid, 1° of 2°.</p>
 
 ### ART. 7.
 
@@ -106,7 +117,7 @@ Als   er geen wijzigingen zijn ten opzichte van het voorgaande jaar, kan een   l
 2° andere gebouwen;<br>
 3° niet-landbouwareaal dat begraasd wordt;<br>
 4° heide als dat areaal begraasd wordt;<br>
-5° tuinen met hoogstamboomgaarden als de landbouwer daar steun voor aanvraagt in het kader van een verbintenis voor hoogstamboomgaarden als vermeld in artikel 2, 5°, van het besluit van de Vlaamse Regering van 21 december 2007 tot het verlenen van subsidies voor de uitvoering van agromilieumaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling, die conform artikel 18 van het besluit van de Vlaamse Regering van 5 september 2014 tot het verlenen van subsidies voor de uitvoering van agromilieu- en klimaatmaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de periode 2014-2020 blijft lopen;<br>
+5° ...;<br>
 6° ...;<br>
 7° ...</p>
 
@@ -163,7 +174,7 @@ De wijzigingen die na 31 mei van het jaar in kwestie worden meegedeeld, worden c
 <br>
 In afwijking van het eerste lid kunnen:<br>
 1° ...;<br>
-2° wisselingen in het landbouwgebruik van percelen in het kader van de toepassing van groenbedekker als ecologisch aandachtsgebied worden meegedeeld tot 16 oktober van het jaar in kwestie, met uitzondering van wisselingen in het landbouwgebruik van de percelen in de landbouwstreek `Polders' en `Duinen', die maar tot 16 september van het jaar in kwestie meegedeeld kunnen worden.<br>
+2° wisselingen in het landbouwgebruik van percelen in het kader van de toepassing van groenbedekker als ecologisch aandachtsgebied worden meegedeeld tot 1 november van het jaar in kwestie, met uitzondering van wisselingen in het landbouwgebruik van de percelen in de landbouwstreek `Polders en Duinen', die maar tot 20 augustus van het jaar in kwestie meegedeeld kunnen worden en van wisselingen in het landbouwgebruik van de percelen in de landbouwstreek `de leemstreek', die maar tot 1 oktober van het jaar in kwestie meegedeeld kunnen worden.<br>
 <br>
 De landbouwer deelt elke wijziging van zijn ingediende verzamelaanvraag mee aan de bevoegde entiteit, uiterlijk op 31 oktober van het jaar in kwestie en voor een controle wordt aangekondigd of uitgevoerd.<br>
 <br>
@@ -191,8 +202,8 @@ Bijlage 1. - Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld
 	<tbody>
 		<tr>
 			<td>&nbsp;</td>
-			<td>&nbsp;Code</td>
-			<td>Categorie</td>
+			<td>&nbsp;code</td>
+			<td>categorie</td>
 		</tr>
 		<tr>
 			<td>1°</td>
@@ -215,11 +226,6 @@ Bijlage 1. - Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld
 			<td>vlinderbloemige gewassen</td>
 		</tr>
 		<tr>
-			<td>5°</td>
-			<td>SI2, SE2 of SB2</td>
-			<td>sierteelt (intensieve sierteelt, extensieve sierteelt, beschutte sierteelt)</td>
-		</tr>
-		<tr>
 			<td>6°</td>
 			<td>VER</td>
 			<td>verwarringstechniek bij pitfruitteelt</td>
@@ -228,11 +234,6 @@ Bijlage 1. - Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld
 			<td>7°</td>
 			<td>BOS</td>
 			<td>bebossing van landbouwgrond - onderhoud en inkomenscompensatie</td>
-		</tr>
-		<tr>
-			<td>8°</td>
-			<td>HSB</td>
-			<td>behoud genetische diversiteit hoogstambomen</td>
 		</tr>
 		<tr>
 			<td>9°</td>
@@ -265,34 +266,9 @@ Bijlage 1. - Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld
 			<td>vezelhennep verminderde bemesting</td>
 		</tr>
 		<tr>
-			<td>19°</td>
-			<td>BW3</td>
-			<td>verminderde bemesting in kwetsbare zones water</td>
-		</tr>
-		<tr>
 			<td>20°</td>
 			<td>BW4</td>
 			<td>beheerovereenkomst waterkwaliteit</td>
-		</tr>
-		<tr>
-			<td>21°</td>
-			<td>DI2</td>
-			<td>erosiebestrijding - directe inzaai</td>
-		</tr>
-		<tr>
-			<td>22°</td>
-			<td>NK2</td>
-			<td>erosiebestrijding - niet-kerende bodembewerking</td>
-		</tr>
-		<tr>
-			<td>23°</td>
-			<td>WV1</td>
-			<td>weidevogelbeheer met vluchtstroken</td>
-		</tr>
-		<tr>
-			<td>24°</td>
-			<td>HAM</td>
-			<td>hamsterbescherming - graanstrook en luzernestrook</td>
 		</tr>
 		<tr>
 			<td>25°</td>
@@ -308,10 +284,10 @@ Bijlage 1. - Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld
 	<tbody>
 		<tr>
 			<td>&nbsp;</td>
-			<td>&nbsp;NAAM BEHEERPAKKET</td>
+			<td>&nbsp;naam beheerpakket</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;Interne code pakket</td>
-			<td>Voordrukcode VA</td>
+			<td>&nbsp;interne code pakket</td>
+			<td>voordrukcode VA</td>
 		</tr>
 		<tr>
 			<td>1°</td>
@@ -440,13 +416,6 @@ Bijlage 1. - Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld
 			<td>HKW</td>
 		</tr>
 		<tr>
-			<td>19°</td>
-			<td>beheerovereenkomst waterkwaliteit</td>
-			<td>PDPO3</td>
-			<td>BW4</td>
-			<td>BW4</td>
-		</tr>
-		<tr>
 			<td>20°</td>
 			<td>fosfaatuitmijning akkerland</td>
 			<td>PDPO3</td>
@@ -466,160 +435,6 @@ Bijlage 1. - Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld
 			<td>PDPO3</td>
 			<td>IHD33</td>
 			<td>IHD</td>
-		</tr>
-		<tr>
-			<td>23°</td>
-			<td>AV gemengde grasstroken</td>
-			<td>PDPO2</td>
-			<td>AKV21</td>
-			<td>AKV</td>
-		</tr>
-		<tr>
-			<td>25°</td>
-			<td>AKV vogelvoedselgewas</td>
-			<td>PDPO2</td>
-			<td>AKV23</td>
-			<td>AKV</td>
-		</tr>
-		<tr>
-			<td>26°</td>
-			<td>BB grasland maaien 1 juni</td>
-			<td>PDPO2</td>
-			<td>BB21</td>
-			<td>BB</td>
-		</tr>
-		<tr>
-			<td>27°</td>
-			<td>BB grasland maaien 16 juni</td>
-			<td>PDPO2</td>
-			<td>BB22</td>
-			<td>BB</td>
-		</tr>
-		<tr>
-			<td>28°</td>
-			<td>BB grasland beweiden 1 juni</td>
-			<td>PDPO2</td>
-			<td>BB23</td>
-			<td>BB</td>
-		</tr>
-		<tr>
-			<td>29°</td>
-			<td>BB akkerland</td>
-			<td>PDPO2</td>
-			<td>BB24</td>
-			<td>BB</td>
-		</tr>
-		<tr>
-			<td>30°</td>
-			<td>ER aanleg en onderhoud grasbufferstrook</td>
-			<td>PDPO2</td>
-			<td>ER21</td>
-			<td>ER</td>
-		</tr>
-		<tr>
-			<td>31°</td>
-			<td>ER aanleg en onderhoud grasgang = rand</td>
-			<td>PDPO2</td>
-			<td>ER22</td>
-			<td>ER</td>
-		</tr>
-		<tr>
-			<td>32°</td>
-			<td>ER aanleg en onderhoud grasgang</td>
-			<td>PDPO2</td>
-			<td>ER23</td>
-			<td>ER</td>
-		</tr>
-		<tr>
-			<td>33°</td>
-			<td>KLE (her)aanleg poel</td>
-			<td>PDPO2</td>
-			<td>KLE212</td>
-			<td>POE</td>
-		</tr>
-		<tr>
-			<td>34°</td>
-			<td>KLE onderhoud poel</td>
-			<td>PDPO2</td>
-			<td>KLE215</td>
-			<td>POE</td>
-		</tr>
-		<tr>
-			<td>35°</td>
-			<td>KLE aanplant houtkant streekeigen</td>
-			<td>PDPO2</td>
-			<td>KLE25</td>
-			<td>HKW</td>
-		</tr>
-		<tr>
-			<td>36°</td>
-			<td>KLE aanplant houtkant autochtoon</td>
-			<td>PDPO2</td>
-			<td>KLE26</td>
-			<td>HKW</td>
-		</tr>
-		<tr>
-			<td>37°</td>
-			<td>KLE onderhoud houtkant</td>
-			<td>PDPO2</td>
-			<td>KLE29</td>
-			<td>HKW</td>
-		</tr>
-		<tr>
-			<td>38°</td>
-			<td>PRB natuur</td>
-			<td>PDPO2</td>
-			<td>PRB21</td>
-			<td>PRB</td>
-		</tr>
-		<tr>
-			<td>39°</td>
-			<td>PRB milieu</td>
-			<td>PDPO2</td>
-			<td>PRB22</td>
-			<td>PRB</td>
-		</tr>
-		<tr>
-			<td>40°</td>
-			<td>WV maaien</td>
-			<td>PDPO2</td>
-			<td>WV21</td>
-			<td>WV</td>
-		</tr>
-		<tr>
-			<td>41°</td>
-			<td>WV beweiden</td>
-			<td>PDPO2</td>
-			<td>WV22</td>
-			<td>WV</td>
-		</tr>
-		<tr>
-			<td>42°</td>
-			<td>WV omzetten akkerland en maaien</td>
-			<td>PDPO2</td>
-			<td>WV23</td>
-			<td>WV</td>
-		</tr>
-		<tr>
-			<td>44°</td>
-			<td>PRB met duo- en triorandenbeheer</td>
-			<td>PDPO2</td>
-			<td>PRB 23</td>
-			<td>PRB</td>
-		</tr>
-		<tr>
-			<td>45°</td>
-			<td>ER grasbufferstrook met teeltbeperking</td>
-			<td>PDPO2</td>
-			<td>ER201</td>
-			<td>ER</td>
-		</tr>
-		<tr>
-			<td>46°</td>
-			<td>ER grasbufferstrook zonder teeltbeperking</td>
-			<td>PDPO2</td>
-			<td>ER202</td>
-			<td>ER</td>
 		</tr>
 		<tr>
 			<td>47°</td>
@@ -647,6 +462,4 @@ Bijlage 1. - Agromilieu- en klimaatmaatregelen en andere maatregelen als vermeld
 
 ### BIJLAGE 2
 
-<p>Bijlage 2 - Voorbereidingsblad voor de verzamelaanvraag als vermeld in artikel 3, tweede lid<br>
-<br>
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/03/03_1.pdf#page=104">http://www.ejustice.just.fgov.be/mopdf/2017/03/03_1.pdf#page=104</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/02/19_1.pdf#page=66">Bijlage 2 - Voorbereidingsblad voor de verzamelaanvraag als vermeld in artikel 3, tweede lid</a></p>
