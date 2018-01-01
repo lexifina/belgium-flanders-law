@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028642,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-08 tot bepaling van de datum van de inwerkingtreding van artikel 30, § 1, 1°, van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028642/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "73ff17e99d788b006e7de34f7d176e6e61a894fa207da9b893dc9f2513cb362d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028642&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-09-08",
+  "gazette": "2017-10-09",
+  "numac": 2017013392,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
