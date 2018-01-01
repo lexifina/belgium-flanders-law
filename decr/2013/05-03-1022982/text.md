@@ -8,7 +8,17 @@ Dit decreet regelt een gewestaangelegenheid.<BR>
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<BR>1° algemeen reglement op de   politie van het wegverkeer : het koninklijk besluit van 1 december 1975 houdende   algemeen reglement op de politie van het wegverkeer en van het gebruik van de   openbare weg en de daaruit volgende toepassingsbesluiten;<BR>2° onderneming :   natuurlijke persoon of rechtspersoon die overeenkomstig artikel 1384 van het   Burgerlijk Wetboek burgerrechtelijk aansprakelijk is voor de overtreder;<BR>3°   overtreder : natuurlijke persoon of rechtspersoon die een inbreuk pleegt op dit   decreet of de uitvoeringsbesluiten ervan;<BR>4° solidariteitsbijdrage : de   bijdrage, vermeld in artikel 15, eerste lid;<BR>5° technisch reglement : het   koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de   technische eisen waaraan de auto's, hun aanhangwagens, hun onderdelen en hun   veiligheidstoebehoren moeten voldoen en de aanpassingen ervan;<BR>6°   uitzonderlijk vervoer : het vervoer dat plaatsvindt met een voertuig of een   sleep waarvan de afmetingen, de eigen massa, de massa onder de assen of de massa   in beladen toestand, door zijn constructie of zijn ondeelbare lading, de maxima   overschrijden die zijn bepaald in het algemeen reglement op de politie van het   wegverkeer en in het technisch reglement;<BR>7° Vlaams Infrastructuurfonds : het   fonds, opgericht bij artikel 57, § 1, van het decreet van 25 juni 1992 houdende   diverse bepalingen tot begeleiding van de begroting 1992;<BR>8° wegeninspecteur   : ambtenaar die aangewezen is ter uitvoering van artikel 16;<BR>9°   wegeninspecteur-controleur : ambtenaar die aangewezen is ter uitvoering van   artikel 17.<BR>
+In dit decreet wordt verstaan onder :<br>
+1° algemeen reglement op de politie van het wegverkeer : het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg en de daaruit volgende toepassingsbesluiten;<br>
+2° onderneming : natuurlijke persoon of rechtspersoon die overeenkomstig artikel 1384 van het Burgerlijk Wetboek burgerrechtelijk aansprakelijk is voor de overtreder;<br>
+3° overtreder : natuurlijke persoon of rechtspersoon die een inbreuk pleegt op dit decreet of de uitvoeringsbesluiten ervan;<br>
+4° solidariteitsbijdrage : de bijdrage, vermeld in artikel 15, eerste lid;<br>
+5° technisch reglement : het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto's, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen en de aanpassingen ervan;<br>
+6° uitzonderlijk vervoer : het vervoer dat plaatsvindt met een voertuig of een sleep waarvan de afmetingen, de eigen massa, de massa onder de assen of de massa in beladen toestand, door zijn constructie of zijn ondeelbare lading, de maxima overschrijden die zijn bepaald in het algemeen reglement op de politie van het wegverkeer en in het technisch reglement;<br>
+6° /1 langere en zwaardere sleep: een sleep van voertuigen waarvan de samenstelling niet beantwoordt aan de voorschriften voor maximale massa en maximale lengte, bepaald in het technisch reglement;<br>
+7° Vlaams Infrastructuurfonds : het fonds, opgericht bij artikel 57, § 1, van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992;<br>
+8° wegeninspecteur : ambtenaar die aangewezen is ter uitvoering van artikel 16;<br>
+9° wegeninspecteur-controleur : ambtenaar die aangewezen is ter uitvoering van artikel 17.
 
 ## HOOFDSTUK 2 Bescherming van de verkeersinfrastructuur
 
@@ -22,15 +32,48 @@ In dit decreet wordt verstaan onder :<BR>1° algemeen reglement op de   politie 
 
 ### ART. 4.
 
-<P>In het kader van een proefproject kunnen slepen, die wegens hun samenstelling   wat lengte en massa betreft niet beantwoorden aan de voorschriften, bepaald in   het technisch reglement, op bepaalde trajecten worden toegelaten op voorwaarde   dat ze een voorafgaande schriftelijke vergunning hebben verkregen.<BR></P>  <P>De lengte van de sleep mag niet meer bedragen dan 25,25 meter, met een   maximaal toegelaten massa van 60 ton.<BR></P>
+Het vervoer met langere en zwaardere slepen is enkel mogelijk met voertuigcombinaties die minimaal voldoen aan de volgende voorwaarden:<br>
+1° de lengte van de sleep bedraagt niet meer dan 25,25 meter;<br>
+2° de maximaal toegelaten massa van de sleep bedraagt niet meer dan 60 ton;<br>
+3° elk voertuig afzonderlijk voldoet aan de bepalingen van het technisch reglement.<br>
+<br>
+Een langere en zwaardere sleep mag zich enkel op de openbare weg begeven op voorwaarde dat er in het kader van een door de Vlaamse Regering opgezet proefproject een schriftelijke vergunning is afgeleverd en alle vergunningsvoorwaarden zijn nageleefd.
+
+### ART 4/1.
+
+De Vlaamse Regering bepaalt:<br>
+1° de start- en einddatum van een proefproject;<br>
+2° de toegelaten voertuigcombinaties;<br>
+3° de technische voorwaarden van de voertuigen en slepen van voertuigen;<br>
+4° de lading die niet met een langere en zwaardere sleep vervoerd mag worden;<br>
+5° de voorwaarden voor de beroepsbekwaamheid van de bestuurder.<br>
+<br>
+De Vlaamse Regering kan het maximum aantal vergunningen dat in het kader van een proefproject kan worden afgeleverd, bepalen.
 
 ### ART. 5.
 
-<P>De Vlaamse Regering bepaalt :<BR>1° de aanvangsdatum van het proefproject met   een maximale duur van twee jaar, eenmaal verlengbaar voor dezelfde   periode;<BR>2° de hoofdtrajecten en de toetsingscriteria om de geschiktheid van   de voor-, na- en tussentrajecten te beoordelen;<BR>3° het maximaal aantal   trajecten en de selectiecriteria om het aantal trajecten te beperken tot dit   aantal indien de ontvankelijke en toelaatbare vergunningsaanvragen betrekking   hebben op een hoger aantal;<BR>4° de inhoud van de vergunning;<BR>5° de   procedure voor de aanvraag en de afgifte van de vergunning;<BR>6° de procedure   voor de evaluatie van het project.<BR></P>  <P>De vergunning vermeldt minstens het traject en de maatregelen tot voorkoming   van schade aan de verkeersinfrastructuur.<BR></P>  <P>De Vlaamse Regering kan voor het uitreiken van de vergunning en het gebruik   van de verkeersinfrastructuur voor vervoer met langere en zwaardere slepen een   vergoeding bepalen.<BR></P>
+Het vervoer met een langere en zwaardere sleep is enkel mogelijk op het basisnetwerk of op goedgekeurde aantakkingstrajecten.<br>
+<br>
+De Vlaamse Regering bepaalt:<br>
+1° het basisnetwerk;<br>
+2° de toetsingscriteria en de procedure om de aantakkingstrajecten goed te keuren en te schorsen;<br>
+3° de voorwaarden waaronder van de trajecten mag worden afgeweken in geval van overmacht of een onverwachte hindernis.<br>
+<br>
+Het basisnetwerk en de toetsingscriteria voor de aantakkingstrajecten worden bepaald met het oog op het verzekeren van de verkeersveiligheid, het veilig en vlot laten verlopen van het verkeer met de langere en zwaardere slepen, en het voorkomen van beschadigingen van de openbare weg en van aanhorigheden van de openbare weg, de erin liggende kunstwerken en de aanpalende eigendommen.<br>
+<br>
+De Vlaamse Regering kan het maximum aantal aantakkingstrajecten dat in het kader van een proefproject kan worden goedgekeurd, bepalen.
 
 ### ART. 6.
 
-Het is verboden zich met een sleep die, wegens zijn samenstelling wat   lengte en massa betreft niet beantwoordt aan de voorschriften van het technisch   reglement en het algemeen reglement op de politie van het wegverkeer, op de   openbare weg te bevinden zonder voorafgaande schriftelijke vergunning of zonder   de vergunningsvoorwaarden na te leven.<BR>
+De Vlaamse Regering bepaalt, met het oog op het afleveren van een vergunning:<br>
+1° de inhoud van de vergunning. De vergunning vermeldt minstens de maatregelen om schade aan de verkeersinfrastructuur te voorkomen;<br>
+2° de procedure voor de aanvraag en de afgifte van de vergunning.<br>
+<br>
+De Vlaamse Regering kan voor het uitreiken van de vergunning en het gebruik van de verkeersinfrastructuur voor vervoer met langere en zwaardere slepen een vergoeding bepalen.
+
+### ART 6/1.
+
+Elk proefproject wordt jaarlijks geëvalueerd. De Vlaamse Regering bepaalt de procedure voor de evaluatie van het project.
 
 ## Afdeling 3 Uitzonderlijk vervoer
 
