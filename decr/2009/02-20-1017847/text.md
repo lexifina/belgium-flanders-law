@@ -18,7 +18,13 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 4.
 
-§ 1. Naast de werkingsuitkering ontvangt de Hogere Zeevaartschool vanaf het begrotingsjaar 2009 een bedrag van 169.183 euro voor investeringsmiddelen en een bedrag van 18.839 euro voor eigenaarsonderhoud.<br /><br />§ 2. Vanaf het begrotingsjaar 2011 wordt het bedrag van de investeringsmiddelen geïndexeerd volgens de evolutie van de gezondheidsindex.<br /><br />§ 3. De investeringsmiddelen dragen uitsluitend bij tot de dekking van de uitgaven voor de aankoop van gebouwen, voor gehele of gedeeltelijke nieuwbouw of verbouwing, voor de voorafgaande afbraakwerken, voor de omgevingswerken, voor de eerste uitrusting, voor de aankoop van gronden, voor de aankoop van didactische en wetenschappelijke apparatuur die bestemd is voor het onderwijs, en voor de onroerende investeringen voor de sociale voorzieningen, en tot dekking van de kapitaal- en intrestlasten die voortvloeien uit leningen voor de investeringsuitgaven.
+§ 1. Naast de werkingsuitkering ontvangt de Hogere Zeevaartschool vanaf het begrotingsjaar 2009 een bedrag van 169.183 euro voor investeringsmiddelen en een bedrag van 18.839 euro voor eigenaarsonderhoud.<br>
+<br>
+§ 2. Vanaf het begrotingsjaar 2011 wordt het bedrag van de investeringsmiddelen geïndexeerd volgens de evolutie van de gezondheidsindex.<br>
+<br>
+§ 3. De investeringsmiddelen dragen uitsluitend bij tot de dekking van de uitgaven voor de aankoop van gebouwen, voor gehele of gedeeltelijke nieuwbouw of verbouwing, voor de voorafgaande afbraakwerken, voor de omgevingswerken, voor de eerste uitrusting, voor de aankoop van gronden, voor de aankoop van didactische en wetenschappelijke apparatuur die bestemd is voor het onderwijs, en voor de onroerende investeringen voor de sociale voorzieningen, en tot dekking van de kapitaal- en intrestlasten die voortvloeien uit leningen voor de investeringsuitgaven.<br>
+<br>
+§ 4. Als aanvulling op de bedragen, vermeld in paragraaf 1, ontvangt de Hogere Zeevaartschool in begrotingsjaar 2018 een eenmalige bijkomende investeringsdotatie van 10.000.000 euro.
 
 ## HOOFDSTUK III. Overgangsbepalingen voor het personeel
 
