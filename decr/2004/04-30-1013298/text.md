@@ -43,11 +43,11 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 32° het besluit van de Vlaamse Regering van 1 maart 2002 houdende hervorming van het stelsel van de aanmoedigingspremies in de privésector;<br>
 33° het besluit van de Vlaamse Regering van 3 mei 2002 tot instelling van de aanmoedigingspremies in de Vlaamse private sociale profitsector;<br>
 34° het besluit van de Vlaamse Regering van 8 september 2000 houdende een impuls- en ondersteuningsprogramma van de meerwaardeneconomie;<br>
-35° het decreet van 13 maart 2009 betreffende de sectorconvenants in het raam van het Vlaams Werkgelegenheidsbeleid;<br>
+35° het decreet van 13 maart 2009 betreffende de sectorconvenants in het raam van het Vlaams Werkgelegenheidsbeleid.<br>
 37° het hoofdstuk IV, afdeling 5 en afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, met uitzondering van de bepalingen van artikel 113, 115, 118 en 119;<br>
 38° de wet van 19 juli 1983 op het leerlingwezen voor beroepen uitgeoefend door werknemers in loondienst;<br>
 39° hoofdstukken V en VII van de wet van 5 september 2001 tot de verbetering van de werkgelegenheidsgraad van de werknemers;<br>
-40° artikel 8 van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, met uitzondering van de bepalingen van paragraaf 4, derde lid, en paragraaf 10 van het voormelde artikel;<br>
+40° het Wijk-werkendecreet van 7 juli 2017;<br>
 41° titel IV, hoofdstuk XII, van de wet van 23 december 2005 betreffende het generatiepact;<br>
 42° artikel 57quater, § 1, § 2 en § 4, 2°, 60, § 7, en 61, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br>
 43° de verordening (EU) Nr. 516/2014 van het Europees Parlement en de Raad van 16 april 2014 tot oprichting van het Fonds voor asiel, migratie en integratie, tot wijziging van Beschikking 2008/381/EG van de Raad en tot intrekking van Beschikkingen nr. 573/2007/EG en nr. 575/2007/EG van het Europees Parlement en de Raad en Beschikking 2007/435/EG van de Raad;<br>
