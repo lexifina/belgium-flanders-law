@@ -30,7 +30,7 @@ In dit besluit wordt verstaan onder:<BR>1째 advocaat: een persoon die als   advo
 
 ### ART. 4.
 
-De verzoekschriften en processtukken moeten op straffe van onontvankelijkheid worden ingediend binnen de termijnen, vermeld in het decreet, de Vlaamse Codex Ruimtelijke Ordening, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011,&nbsp;het decreet van 25 april 2014 betreffende de omgevingsvergunning en dit besluit.
+De verzoekschriften en processtukken moeten op straffe van onontvankelijkheid worden ingediend binnen de termijnen, vermeld in het decreet, de Vlaamse Codex Ruimtelijke Ordening, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011,&nbsp;het decreet van 25 april 2014 betreffende de omgevingsvergunning,het Vlaams Onteigeningsdecreet van 24 februari 2017 en dit besluit.
 
 ### ART. 5.
 
@@ -150,7 +150,7 @@ Een verzoekschrift dat niet, onvolledig of laattijdig is geregulariseerd, wordt 
 
 De griffier betekent met een beveiligde zending een afschrift van het verzoekschrift aan:<br>
 1째 de verweerder;<br>
-2째 de belanghebbenden bij de zaak, als ze kunnen worden bepaald.
+2째 de belanghebbenden bij de zaak, als ze kunnen worden bepaald op basis van het verzoekschrift en de bijkomende overtuigingsstukken.
 
 ## Afdeling 3 Kosten
 
@@ -495,7 +495,8 @@ Als het College een verbeterend arrest uitspreekt overeenkomstig artikel   39, �
 
 Dit deel is van toepassing op de beroepen die worden ingediend tegen :<br>
 1째 valideringsbeslissingen en registratiebeslissingen, als vermeld in artikel 4.8.2 van de Vlaamse Codex Ruimtelijke Ordening;<br>
-2째 vergunningsbeslissingen en aktenames of niet-aktenames van een melding, als vermeld in artikel 105 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
+2째 vergunningsbeslissingen en aktenames of niet-aktenames van een melding, als vermeld in artikel 105 van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
+3째 definitieve onteigeningsbesluiten, conform artikel 43 en 44 van het Vlaams Onteigeningsdecreet van 24 februari 2017.
 
 ## HOOFDSTUK 2 Rechtspleging
 
