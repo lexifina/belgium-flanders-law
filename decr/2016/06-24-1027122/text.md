@@ -21,6 +21,48 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° punt 2° wordt opgeheven.</span><br>
 &nbsp;
 
+### ART 4.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 10 van hetzelfde decreet worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° aan paragraaf 2, tweede lid, wordt de volgende zin toegevoegd :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"In die combinatie komen voor de realisatie van de module, vermeld in het eerste lid, 4°, enkel initiatieven in aanmerking waarbij jeugdredacties worden gevormd.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° in paragraaf 3 worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) in het eerste lid wordt het woord "twee" vervangen door het woord "een";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) het tweede lid wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De activiteiten worden gerealiseerd met deelnemers uit ten minste drie provincies. Daarbij wordt het tweetalige gebied Brussel-Hoofdstad gelijkgesteld met een provincie. Voor elk van die drie provincies geldt dat inwoners uit die provincie samen ten minste 175 deelnemersuren realiseren. Voor het tweetalige gebied Brussel-Hoofdstad volstaan 60 deelnemersuren.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">c) in het derde lid wordt het woord "gemeentelijke" vervangen door het woord "provinciale";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° in paragraaf 4 worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) in het eerste lid wordt het woord "twee" vervangen door het woord "een";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) het tweede lid wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De activiteiten worden gerealiseerd met deelnemers uit ten minste drie provincies. Daarbij wordt het tweetalige gebied Brussel-Hoofdstad gelijkgesteld met een provincie. Voor elk van die drie provincies geldt dat inwoners uit die provincie samen ten minste 175 deelnemersuren realiseren. Voor het tweetalige gebied Brussel-Hoofdstad volstaan 60 deelnemersuren.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">c) in het derde lid wordt het woord "gemeentelijke" vervangen door het woord "provinciale";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° in paragraaf 5 worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) in het eerste lid wordt punt 1° vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"1° minstens drie up-to-date informatieproducten van zichzelf ter beschikking stellen. De informatieproducten mogen maximaal vijf jaar oud zijn;";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) in het vierde lid wordt de zinsnede "750 keer gedownload" vervangen door de zinsnede "heeft 750 weergaves";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">c) het vijfde lid wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Als de module, vermeld in paragraaf 2, eerste lid, 3°, verschillende keren wordt gerealiseerd, dan worden het aantal eigen producten, databanken of websites dat ter beschikking wordt gesteld alsook het aantal productafnames of paginaweergaves in evenredige mate vermeerderd.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° in paragraaf 8 wordt het getal "25" vervangen door het getal "30";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° in paragraaf 9, eerste lid, wordt tussen de eerste en de tweede zin de volgende zin ingevoegd : "Enkel de vragen die niet de bedoeling hebben om informatie te krijgen over de werking, producten, dienstverlening of evenementen van de vereniging informatie en participatie komen hiervoor in aanmerking.".</span><br>
+&nbsp;
+
+### ART 5.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 11 van hetzelfde decreet worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° in paragraaf 3 worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) het derde lid wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De activiteiten worden gerealiseerd met deelnemers uit ten minste drie provincies. Daarbij wordt het tweetalige gebied Brussel-Hoofdstad gelijkgesteld met een provincie. Voor elk van die drie provincies geldt dat inwoners uit die provincie samen ten minste 175 deelnemersuren realiseren. Voor het tweetalige gebied Brussel-Hoofdstad volstaan 60 deelnemersuren.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) in het vierde lid wordt het woord "gemeentelijke" vervangen door het woord "provinciale";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° in paragraaf 4 worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) het tweede lid wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De activiteiten worden gerealiseerd met deelnemers uit ten minste drie provincies. Daarbij wordt het tweetalige gebied Brussel-Hoofdstad gelijkgesteld met een provincie. Voor elk van die drie provincies geldt dat inwoners uit die provincie samen ten minste 175 deelnemersuren realiseren. Voor het tweetalige gebied Brussel-Hoofdstad volstaan 60 deelnemersuren.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) in het derde lid wordt het woord "gemeentelijke" vervangen door het woord "provinciale";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° in paragraaf 7, vierde lid, worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) punt 1° wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"1° begeleiding en coaching op maat : een specifiek inhoudelijk aanbod voor een lokaal cultuureducatief initiatief of een coaching op maat, bijgewoond door minstens een begeleider van dat lokale initiatief. De begeleiding of coaching op maat duurt minimaal twee uur;";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) punt 2° wordt opgeheven.</span><br>
+&nbsp;
+
 ### ART 6.
 
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 12 van hetzelfde decreet wordt het eerste lid vervangen door wat volgt :</span><br>
