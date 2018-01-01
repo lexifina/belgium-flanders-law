@@ -17,9 +17,9 @@ Het aantal voltijds equivalente subsidieerbare arbeidsplaatsen voor werknemers m
 4° 14.359 met ingang van 01.01.2012;<br>
 5° 14.469 met ingang van 1 januari 2014;<br>
 6° 14.513,30 met ingang van 1 januari 2017.<br>
-7° 14.553,30 met ingang van 1 januari 2018.<br>
-8° 14.590,30 met ingang van 1 januari 2019.<br>
-9° 14.623,05 met ingang van 1 januari 2020.<br>
+7° 14.904,30 met ingang van 1 januari 2018;<br>
+8° 14.941,30 met ingang van 1 januari 2019;<br>
+9° 14.974,05 met ingang van 1 januari 2020.<br>
 &nbsp;
 
 ### ART. 3.
