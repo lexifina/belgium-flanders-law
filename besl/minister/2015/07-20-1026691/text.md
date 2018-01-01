@@ -15,11 +15,11 @@
 <p>De volgende gemeenten vormen een huisartsenzone als vermeld in artikel 1, 4°, van het besluit van de Vlaamse Regering van 26 juni 2015 betreffende de huisartsenkringen, met als respectievelijke namen:<br>
 1° Aalst: Aalst, Affligem,&nbsp;Haaltert, Erpe-Mere;<br>
 2° ...<br>
-3° Alden Biesen: Bilzen, Hoeselt;<br>
+3° Alden Biesen: Bilzen, Hoeselt, Riemst;<br>
 4° Antwerpen Centrum: Antwerpen (2000), Antwerpen (2018), Antwerpen (2060);<br>
 5° ...;<br>
 6° Berchem: Berchem;<br>
-7° Borsbeek - Wommelgem: Borsbeek, Wommelgem;<br>
+7° ...;<br>
 8° Brasschaat: Brasschaat;<br>
 9° Brecht-Wuustwezel: Brecht, Wuustwezel;<br>
 10° Bree - Meeuwen-Gruitrode: Bree, Meeuwen-Gruitrode;<br>
@@ -27,7 +27,7 @@
 12° Brussel: Anderlecht, Oudergem, Sint-Agatha-Berchem, Brussel, Etterbeek, Evere, Vorst, Ganshoren, Elsene, Jette, Koekelberg, Sint-Jans-Molenbeek, Sint-Gillis, Sint-Joost-ten-Node, Schaarbeek, Ukkel, Watermaal-Bosvoorde, Sint-Lambrechts-Woluwe en Sint-Pieters-Woluwe;<br>
 13° Denderland: Liedekerke, Denderleeuw;<br>
 14° Dendermonde: Berlare, Buggenhout, Dendermonde, Hamme, Lebbeke, Zele;<br>
-15° Deurne - Borgerhout: Deurne, Borgerhout;<br>
+15° Antwerpen-Oost: Deurne, Borgerhout, Borsbeek, Wommelgem;<br>
 16° Diest: Diest;<br>
 17° Dijle en Netevallei: Bonheiden, Heist-op-den-Berg, Mechelen, Putte, Sint-Katelijne-Waver, Keerbergen;<br>
 18° Dilsen-Stokkem: Dilsen-Stokkem;<br>
@@ -74,14 +74,14 @@
 59° Panacea: Herzele, Sint-Lievens-Houtem, Zottegem, Oosterzele, Brakel, Lierde;<br>
 60° Prometheus: As, Genk, Opglabbeek, Zutendaal;<br>
 61° regio Mortsel: Boechout, Edegem, Hove, Kontich, Lint, Mortsel;<br>
-62° Riemst: Riemst;<br>
+62° ...;<br>
 63° Ronse: Horebeke, Maarkedal, Ronse;<br>
 64° Rupelstreek: Aartselaar, Boom, Hemiksem, Niel, Rumst, Schelle;<br>
 65° Schelde en Leie: Sint-Denijs-Westrem, Zwijnaarde, Deinze, De Pinte, Nazareth, Nevele, Sint-Martens-Latem, Zulte;<br>
 66° Sint-Truiden en omgeving: Gingelom, Nieuwerkerken, Sint-Truiden;<br>
 67° Tervuren: Tervuren;<br>
 68° Tongeren: Herstappe, Tongeren;<br>
-69° 't Oosten van West-Vlaanderen: Dentergem, Meulebeke, Oostrozebeke, Pittem, Ruiselede, Tielt, Wielsbeke, Wingene;<br>
+69° 't Oosten van West-Vlaanderen: Dentergem, Meulebeke, Oostrozebeke, Pittem, Ruiselede, Tielt, Wingene;<br>
 70° Turnhout: Arendonk, Baarle-Hertog, Beerse, Dessel, Hoogstraten, Kasterlee, Lille, Merksplas, Oud-Turnhout, Ravels, Retie, Rijkevorsel, Turnhout, Vosselaar;<br>
 71° 't Vlaemsch Hooft: Antwerpen (2050), Zwijndrecht;<br>
 72° Vaartland: Willebroek, Kapelle-op-den-Bos;<br>
@@ -97,7 +97,7 @@
 82° Zaventem: Zaventem;<br>
 83° Zuiderkempen: Balen, Geel, Grobbendonk, Herentals, Herenthout, Herselt, Hulshout, Meerhout, Mol, Olen, Vorselaar, Westerlo, Laakdal;<br>
 84° Zuid-oost-Hageland: Boutersem, Geetbets, Hoegaarden, Kortenaken, Tienen, Zoutleeuw, Linter, Glabbeek;<br>
-85° Zuid-West-Vlaanderen: Anzegem, Avelgem, Deerlijk, Harelbeke, Kortrijk, Kuurne, Menen, Waregem, Wevelgem, Zwevegem, Spiere-Helkijn.<br>
+85° Zuid-West-Vlaanderen: Anzegem, Avelgem, Deerlijk, Harelbeke, Kortrijk, Kuurne, Menen, Waregem, Wevelgem, Zwevegem, Spiere-Helkijn, Wielsbeke;<br>
 86° Voorkempen: Schilde, Wijnegem;</p>
 
 ### ART. 2.
