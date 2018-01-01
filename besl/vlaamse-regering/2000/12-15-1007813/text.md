@@ -169,7 +169,19 @@ Als de combinatie een kortverblijf in een niet door de overheid gesubsidieerd wo
 
 ### ART. 11/1.
 
-§ 1. In afwijking van artikel 11 wordt het maximumbedrag, vermeld in   artikel 8, § 1, bij wijze van werkkapitaal ter beschikking gesteld aan   budgethouders aan wie na 1 januari 2012 een PAB werd toegekend en aan   budgethouders die aan het agentschap melden dat ze vrijwillig willen   overschakelen. <BR><BR>Het agentschap kan de groep van budgethouders, vermeld in   het eerste lid, uitbreiden. Het agentschap kan nadere regels vaststellen voor de   verrekening van de voorschotten, vermeld in artikel 11, § 1, om de omschakeling   naar het werkkapitaal te begeleiden.<BR><BR>§ 2. Het in de eerste paragraaf   vermelde werkkapitaal bedraagt maximum vijf twaalfden van het maximumbedrag,   vermeld in artikel 8, § 1. Het werkkapitaal wordt berekend op het geïndexeerde   maximumbedrag in het jaar van omschakeling naar het werkkapitaal en wordt   afgerond op het honderdtal. Het agentschap bepaalt de hoogte van het   werkkapitaal.<BR><BR>Als het werkkapitaal berekend aan de index van het lopende   jaar meer dan 300 euro hoger ligt dan het toegekende werkkapitaal, past het   agentschap de hoogte van het werkkapitaal, afgerond op het honderdtal,   aan.<BR><BR>§ 3. Het agentschap past het werkkapitaal bij binnen dertig dagen na   ontvangst van de kostenstaat voor de bewijsbare kosten die erop vermeld staan.   De budgethouder mag maximaal zes kostenstaten per jaar indienen. Het agentschap   kan het werkkapitaal maximaal zes keer per kalenderjaar   bijpassen.<BR><BR>Kostenstaten die betrekking hebben op het vorige jaar, worden   vóór 1 maart van het lopende jaar ingediend. Kostenstaten die laattijdig bij het   agentschap ingediend worden, komen niet voor vergoeding in   aanmerking.<BR><BR>Toepassing van dit artikel kan er niet toe leiden dat het   toegekende PAB op jaarbasis overschreden wordt.<BR><BR>§ 4. Het agentschap   bepaalt de nadere regels voor het ter beschikking stellen van het werkkapitaal   en het in aanmerking nemen van de kostenstaten.
+§ 1. Het agentschap kent een terugvorderbaar voorschot toe dat maximaal vijf twaalfden bedraagt van het maximumbedrag dat conform artikel 8, § 1, is vastgesteld. Het terugvorderbaar voorschot wordt niet aangerekend op het PAB van de budgethouder.<br>
+<br>
+Als het maximumbedrag dat conform artikel 8, § 1, is vastgesteld, verminderd wordt conform artikel 10, § 4, tweede lid, wordt het terugvorderbaar voorschot verminderd tot vijf twaalfden van het verminderde maximumbedrag..<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Het agentschap past het terugvorderbaar voorschot bij binnen dertig dagen na ontvangst van de kostenstaat voor de bewijsbare kosten die erop vermeld staan. De budgethouder mag maximaal zes kostenstaten per jaar indienen. Het agentschap kan hetterugvorderbaar voorschot maximaal zes keer per kalenderjaar bijpassen.<br>
+<br>
+Kostenstaten die betrekking hebben op het vorige jaar, worden vóór 1 maart van het lopende jaar ingediend. Kostenstaten die laattijdig bij het agentschap ingediend worden, komen niet voor vergoeding in aanmerking.<br>
+<br>
+Toepassing van dit artikel kan er niet toe leiden dat het toegekende PAB op jaarbasis overschreden wordt.<br>
+<br>
+§ 4. Het agentschap bepaalt de nadere regels voor het ter beschikking stellen van het terugvorderbaar voorschot en het in aanmerking nemen van de kostenstaten.
 
 ## HOOFDSTUK V VERHOUDING BUDGETHOUDER - PERSOONLIJKE ASSISTENT
 
