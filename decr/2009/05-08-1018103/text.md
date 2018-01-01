@@ -94,7 +94,7 @@ Het algemeen welzijnswerk wordt in een registratie opgenomen. Om het hulpaanbod 
 
 ### ART. 19.
 
-De Vlaamse Regering kan, onder de voorwaarden die ze bepaalt en binnen de perken van de begrotingskredieten, een subsidie verlenen voor projecten.<br /><br />De Vlaamse Regering kan, onder de voorwaarden die ze bepaalt en binnen de perken van de begrotingskredieten, een subsidie verlenen aan een of meer organisaties die ondersteunende of dienstverlenende taken verrichten voor de centra.
+De Vlaamse Regering kan, onder de voorwaarden die ze bepaalt en binnen de perken van de begrotingskredieten, een subsidie verlenen voor projecten.
 
 ## HOOFDSTUK V. Toezicht
 
