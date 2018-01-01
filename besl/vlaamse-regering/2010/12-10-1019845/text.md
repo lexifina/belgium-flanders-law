@@ -112,7 +112,22 @@ De duur van het mandaat van de leden bedraagt vier jaar. Het mandaat is hernieuw
 
 ### ART. 18.
 
-§ 1. De werking van de adviescommissie wordt geregeld in een huishoudelijk reglement. Dat reglement wordt opgesteld door de adviescommissie en goedgekeurd door de minister.<br /><br />Het huishoudelijk reglement bepaalt minstens :<br />1° de bevoegdheden van de voorzitter;<br />2° de wijze van bijeenroeping en beraadslaging;<br />3° de periodiciteit van de vergaderingen;<br />4° de bekendmaking van de handelingen;<br />5° de werking van het secretariaat.<br /><br />De adviescommissie kan een beroep doen op externe deskundigen en permanente of tijdelijke werkgroepen instellen onder de voorwaarden die bepaald zijn in het huishoudelijk reglement. Het secretariaat van de adviescommissie wordt verzekerd door de SERV.<br /><br />§ 2. Om rechtsgeldig te kunnen vergaderen, moeten ten minste vier van de stemgerechtigde leden aanwezig zijn en dienen zowel de werknemers- als de werkgeversorganisaties vertegenwoordigd zijn.<br /><br />§ 3. De werking van de adviescommissie wordt jaarlijks geëvalueerd. De adviescommissie maakt daartoe jaarlijks voor 1 mei een verslag op dat aan de minister ter beschikking wordt gesteld.<br /><br />§ 4. Artikel 1 tot en met 13 van het besluit van de Vlaamse Regering van 27 januari 1988 houdende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden aan commissarissen, gemachtigden van financiën, afgevaardigden van de Vlaamse Regering, voorzitters en leden van niet-adviserende bijzondere commissies of van raden van bestuur van instellingen en ondernemingen die onder de Vlaamse Regering behoren, zijn van toepassing op de voorzitter en de deskundigen van de adviescommissie, op het vlak van toelagen, presentiegelden en vergoedingen wegens reis- en verblijfkosten. Voor de toepassing van voormelde bepalingen is de commissie ingedeeld in categorie III, zoals vermeld in het voormeld besluit, en hebben de voorzitter en de deskundigen van de adviescommissie de hoedanigheid van de personen, vermeld in artikel 1, 3°, van het bovenvermeld besluit. Er wordt in een aanvullend representatiebudget van 2.500 euro per jaar voorzien voor de voorzitter van de adviescommissie.
+§ 1. De werking van de adviescommissie wordt geregeld in een huishoudelijk reglement. Dat reglement wordt opgesteld door de adviescommissie en goedgekeurd door de minister.<br>
+<br>
+Het huishoudelijk reglement bepaalt minstens :<br>
+1° de bevoegdheden van de voorzitter;<br>
+2° de wijze van bijeenroeping en beraadslaging;<br>
+3° de periodiciteit van de vergaderingen;<br>
+4° de bekendmaking van de handelingen;<br>
+5° de werking van het secretariaat.<br>
+<br>
+De adviescommissie kan een beroep doen op externe deskundigen en permanente of tijdelijke werkgroepen instellen onder de voorwaarden die bepaald zijn in het huishoudelijk reglement. Het secretariaat van de adviescommissie wordt verzekerd door de administratie.<br>
+<br>
+§ 2. Om rechtsgeldig te kunnen vergaderen, moeten ten minste vier van de stemgerechtigde leden aanwezig zijn en dienen zowel de werknemers- als de werkgeversorganisaties vertegenwoordigd zijn.<br>
+<br>
+§ 3. De werking van de adviescommissie wordt jaarlijks geëvalueerd. De adviescommissie maakt daartoe jaarlijks voor 1 mei een verslag op dat aan de minister ter beschikking wordt gesteld.<br>
+<br>
+§ 4. Artikel 1 tot en met 13 van het besluit van de Vlaamse Regering van 27 januari 1988 houdende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden aan commissarissen, gemachtigden van financiën, afgevaardigden van de Vlaamse Regering, voorzitters en leden van niet-adviserende bijzondere commissies of van raden van bestuur van instellingen en ondernemingen die onder de Vlaamse Regering behoren, zijn van toepassing op de voorzitter en de deskundigen van de adviescommissie, op het vlak van toelagen, presentiegelden en vergoedingen wegens reis- en verblijfkosten. Voor de toepassing van voormelde bepalingen is de commissie ingedeeld in categorie III, zoals vermeld in het voormeld besluit, en hebben de voorzitter en de deskundigen van de adviescommissie de hoedanigheid van de personen, vermeld in artikel 1, 3°, van het bovenvermeld besluit. Er wordt in een aanvullend representatiebudget van 2.500 euro per jaar voorzien voor de voorzitter van de adviescommissie.
 
 ## HOOFDSTUK 8. Gedragscodes
 
