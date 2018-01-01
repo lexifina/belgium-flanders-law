@@ -6,7 +6,9 @@ De Vlaamse minister van Financiën, Begroting, Werk, Ruimtelijke Ordening en Spo
 
 ### ART. 1.
 
-De secretaris-generaal van het Departement Werk en Sociale Economie, is het hoofd van de cel Administratieve Geldboeten, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 14 januari 2005 tot uitvoering van het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaalrechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn. <br />Bij tijdelijke afwezigheid of verhindering wordt de secretaris-generaal vervangen door het afdelingshoofd van de afdeling Werkgelegenheidsbeleid van het departement Werk en Sociale Economie of door het hoofd van het team Juridische Dienstverlening en Externe Relaties. <br /><br />
+De secretaris-generaal van het Departement Werk en Sociale Economie, is het hoofd van de cel Administratieve Geldboeten, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 14 januari 2005 tot uitvoering van het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaalrechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn.<br>
+Bij tijdelijke afwezigheid of verhindering wordt de secretaris-generaal vervangen door het afdelingshoofd van de afdeling Algemene Diensten, of door het diensthoofd van de dienst Economische Migratie en Regulering, of door het teamhoofd van het team Regulering en Administratieve Geldboeten van het departement Werk en Sociale Economie.<br>
+&nbsp;
 
 ### ART. 2.
 
