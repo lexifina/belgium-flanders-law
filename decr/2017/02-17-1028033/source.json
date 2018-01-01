@@ -2,16 +2,16 @@
   "codex_id": 1028033,
   "title": "Decreet van 2017-02-17 houdende regeling tot erkenning en subsidiëring van een Vlaamse organisatie ter ondersteuning van welzijnsbevordering en samenlevingsopbouw",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028033/VolledigDocument?datum=2017-05-15",
-  "source_sha256": "38aceb56db168e0b03c0759b81ec2a38a4516d0c0098a93b5738be6d8678b8be",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028033/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "67bd4b3866894f95efa13691fe3eca584dd0e568d399c627d20bcfd4ecee6fea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028033&param=informatie",
-  "as_of": "2017-05-15",
+  "as_of": "2018-01-01",
   "made": "2017-02-17",
   "gazette": "2017-03-21",
   "numac": 2017011139,
   "document_start": "2017-05-15",
   "document_end": null,
-  "in_force": "2017-05-15",
-  "article_versions": 17,
-  "record_form": "consolidated version as in force on 2017-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-01-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }

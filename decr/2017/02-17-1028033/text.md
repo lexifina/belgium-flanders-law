@@ -116,11 +116,35 @@ Van hun vaststellingen maken de personen, vermeld in het tweede lid, een verslag
 
 ## HOOFDSTUK 6 Wijzigingsbepalingen
 
+### ART 15.
+
+In artikel 2, 5°, van het decreet van 26 juni 1991 betreffende de erkenning en subsidiëring van het maatschappelijk opbouwwerk, vervangen bij het decreet van 10 juli 2008, worden de woorden "één Vlaams instituut ter bevordering en ondersteuning van het maatschappelijk opbouwwerk en" opgeheven.
+
+### ART 16.
+
+In het opschrift van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling en tot subsidiëring van een Vlaams Centrum Schuldenlast, vervangen bij het decreet van 10 juli 2008, worden de woorden "en tot subsidiëring van een Vlaams Centrum Schuldenlast" opgeheven.
+
+### ART 17.
+
+&nbsp;In hetzelfde decreet, gewijzigd bij de decreten van 28 april 2006, 10 juli 2008 en 21 juni 2013, wordt hoofdstuk III, dat bestaat uit artikel 10ter, opgeheven.
+
+### ART 18.
+
+In artikel 19 van het decreet van 8 mei 2009 betreffende het algemeen welzijnswerk wordt het tweede lid opgeheven.
+
+### ART 19.
+
+Het besluit van de Vlaamse Regering van 13 december 2002 betreffende de erkenning en subsidiëring van een steunpunt voor kennisbeheer en netwerkvorming met betrekking tot de hulp- en dienstverlening aan specifieke subdoelgroepen van personen met een handicap, gewijzigd bij de besluiten van de Vlaamse Regering van 14 december 2007, 7 oktober 2011, 20 juni 2014 en 29 mei 2015, wordt opgeheven.
+
 ## HOOFDSTUK 7 Slotbepalingen
 
 ### ART 20.
 
 Conform artikel 7 erkent de Vlaamse Regering de vereniging, opgericht door de vzw Samenlevingsopbouw Vlaanderen, de vzw Steunpunt Algemeen Welzijnswerk, de vzw Steunpunt Expertisenetwerken, de vzw Steunpunt Jeugdhulp en de vzw Vlaams Centrum Schuldenlast, als de organisatie op voorwaarde dat de vereniging voldoet aan de bepalingen van dit decreet en de uitvoeringsbesluiten ervan.
+
+### ART 21.
+
+&nbsp;De verenigingen, vermeld in artikel 20, dragen de financiële reserves waarover ze beschikken op de datum van inwerkingtreding van dit decreet, integraal over aan de organisatie.
 
 ### ART 22.
 
