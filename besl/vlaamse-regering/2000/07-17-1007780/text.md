@@ -4,7 +4,21 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° decreet:   het decreet van 26 juni 1991 houdende erkenning en subsidiëring van het   maatschappelijk opbouwwerk;<BR>2° kwaliteitsdecreet: het decreet van 17 oktober   2003 betreffende de kwaliteit van de gezondheids- en wel-zijnsvoorzieningen;   <BR>3° minister: de Vlaamse minister, bevoegd voor de bijstand aan   personen;<BR>4° administratie: de functioneel bevoegde afdeling van het   Departement Welzijn, Volksgezondheid en Gezin van het Vlaams Ministerie van   Welzijn, Volksgezondheid en Gezin, of Zorginspectie van het voormelde   departement, vermeld in artikel 3, § 2, derde lid, van het besluit van de   Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn,   Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot   oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en   Gezin en betreffende de wijziging van regelgeving met betrekking tot dat   beleidsdomein;<BR> 5° strategisch meerjarenplan: het document waarin de werking   ter uitvoering van de opdrachten als een geïntegreerd geheel wordt voorgesteld   en verantwoord. Het bevat de beschrijving van de missie van de organisatie, de   omgevingsanalyse, de externe en interne strategische doelstellingen en de   onderliggende operationele doelstellingen. Het strategisch meerjarenplan wordt   voor vijf jaar opgemaakt;<BR>6° strategische doelstelling: de doelstelling ter   uitvoering van het strategisch meerjarenplan die wordt geformuleerd in termen   van effecten die men wil bereiken in de externe of interne omgeving. Externe   strategische doelstellingen bevatten een beschrijving en voorstel van aanpak van   een bepaalde problematiek met betrekking tot maatschappelijke achterstelling en   sociale uitsluiting, met aanduiding van doelgroepen of werkgebieden. De interne   strategische doelstellingen beschrijven de wijze waarop de organisatie de nodige   randvoorwaarden zal creëren om de externe strategische doelstellingen te   verwezenlijken;<BR>7° operationele doelstelling: de doelstelling die de wijze   beschrijft waarop de instituten de strategische doelstellingen omzetten via   specifieke, meer tijdsgebonden en realistische prestaties;<BR>8° strategische   actie: een samenhangend geheel van projecten of andere activiteiten ter   uitvoering van de operationele doelstellingen;<BR>9° ...;<BR>10° wijziging van   erkenning: hetzij de erkenning voor een gewijzigde subsidiabele   personeelsformatie, hetzij de erkenning voor een gewijzigd territorium waarop   een organisatie actief is;<BR>11° de secretaris-generaal : het personeelslid dat   belast is met de leiding van het departement Welzijn, Volksgezondheid en   Gezin;<BR>12° het Vlaams Instituut : Het Vlaams Instituut ter bevordering en   ondersteuning van maatschappelijk opbouwwerk, bedoeld in artikel 2, 5°, van het   decreet van 26 juni 1991 betreffende de erkenning en subsidiëring van het   maatschappelijk opbouwwerk.<BR>13° voortgangsrapport: het jaarlijkse document   waarin de stand van zaken van de uitvoering van het strategisch meerjarenplan   wordt beschreven en toegelicht. In voorkomend geval worden hierin ook de   wijzigingen in operationele doelstellingen of strategische acties gesitueerd en   gemotiveerd;<BR>14° deugdelijk bestuur: het waarborgen van de onderlinge   samenhang van de wijze van sturen, beheersen en toezicht houden van een   organisatie, gericht op een efficiënte en effectieve realisatie van de   doelstellingen, alsook het daarover op open wijze communiceren en verantwoording   afleggen ten behoeve van belanghebbenden.<BR>
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° decreet: het decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk;<br>
+2° kwaliteitsdecreet: het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en wel-zijnsvoorzieningen;<br>
+3° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+4° administratie: de functioneel bevoegde afdeling van het Departement Welzijn, Volksgezondheid en Gezin van het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin, of Zorginspectie van het voormelde departement, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
+5° strategisch meerjarenplan: het document waarin de werking ter uitvoering van de opdrachten als een geïntegreerd geheel wordt voorgesteld en verantwoord. Het bevat de beschrijving van de missie van de organisatie, de omgevingsanalyse, de externe en interne strategische doelstellingen en de onderliggende operationele doelstellingen. Het strategisch meerjarenplan wordt voor vijf jaar opgemaakt;<br>
+6° strategische doelstelling: de doelstelling ter uitvoering van het strategisch meerjarenplan die wordt geformuleerd in termen van effecten die men wil bereiken in de externe of interne omgeving. Externe strategische doelstellingen bevatten een beschrijving en voorstel van aanpak van een bepaalde problematiek met betrekking tot maatschappelijke achterstelling en sociale uitsluiting, met aanduiding van doelgroepen of werkgebieden. De interne strategische doelstellingen beschrijven de wijze waarop de organisatie de nodige randvoorwaarden zal creëren om de externe strategische doelstellingen te verwezenlijken;<br>
+7° operationele doelstelling: de doelstelling die de wijze beschrijft waarop de instituten de strategische doelstellingen omzetten via specifieke, meer tijdsgebonden en realistische prestaties;<br>
+8° strategische actie: een samenhangend geheel van projecten of andere activiteiten ter uitvoering van de operationele doelstellingen;<br>
+9° ...;<br>
+10° wijziging van erkenning: hetzij de erkenning voor een gewijzigde subsidiabele personeelsformatie, hetzij de erkenning voor een gewijzigd territorium waarop een organisatie actief is;<br>
+11° de secretaris-generaal : het personeelslid dat belast is met de leiding van het departement Welzijn, Volksgezondheid en Gezin;<br>
+12° ...<br>
+13° voortgangsrapport: het jaarlijkse document waarin de stand van zaken van de uitvoering van het strategisch meerjarenplan wordt beschreven en toegelicht. In voorkomend geval worden hierin ook de wijzigingen in operationele doelstellingen of strategische acties gesitueerd en gemotiveerd;<br>
+14° deugdelijk bestuur: het waarborgen van de onderlinge samenhang van de wijze van sturen, beheersen en toezicht houden van een organisatie, gericht op een efficiënte en effectieve realisatie van de doelstellingen, alsook het daarover op open wijze communiceren en verantwoording afleggen ten behoeve van belanghebbenden.
 
 ### ART. 2.
 
@@ -22,11 +36,71 @@ De regionale instituten pakken situaties van maatschappelijke   achterstelling e
 
 ### ART. 3ter.
 
-§ 1. Elk regionaal instituut voert een kwaliteitsbeleid overeenkomstig de   bepalingen van het decreet van 17 oktober 2003 betreffende de kwaliteit van de   gezondheids- en welzijnsvoorzieningen en in functie van de eigen opdrachten. De   regionale instituten tonen daarbij door middel van zelfevaluatie aan hoe ze een   verantwoord aanbod realiseren bij de realisatie van de kernprocessen. De   zelfevaluatie heeft minstens betrekking op de volgende zorgaspecten:<BR>1° het   aanbod sluit aan bij de behoeftes van de doelgroep;<BR>2° het aanbod is   toegankelijk;<BR>3° de doelgroep participeert actief in de vormgeving van de   strategische actie;<BR>4° er wordt methodisch gedifferentieerd gewerkt;<BR>5°   het aanbod is effectief.<BR><BR>§ 2. Het kwaliteitsbeleid, vermeld in paragraaf   1, wordt beschreven in een kwaliteitshandboek als vermeld in artikel 5, § 4, van   het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en   welzijnsvoorzieningen.<BR><BR>Het kwaliteitshandboek, vermeld in het eerste lid,   bevat minimaal de volgende elementen:<BR>1° een inleiding met daarin:<BR>a) een   voorwoord;<BR>b) de structuur van het kwaliteitshandboek;<BR>c) de   organisatorische structuur, bevoegdheden en verantwoordelijkheden van het   instituut, met inbegrip van de taken en competentie- en functieprofielen van   bestuurders in algemene vergadering en raad van bestuur, de verhouding tussen   bestuur en management, de overleg- en inspraakorganen, en op welke wijze   opvolging wordt gegeven aan een professioneel personeels- en financieel   beleid;<BR>2° een weergave van het kwaliteitsbeleid waarin de volgende elementen   zijn opgenomen:<BR>a) de missie en de visie;<BR>b) de opdracht en de   doelstellingen;<BR>c) de strategie;<BR>3° een weergave van het kwaliteitssysteem   dat voor de regionale instituten de volgende elementen omvat:<BR>1) de   werkwijzen die betrekking hebben op de kernprocessen;<BR>2) de werkwijzen om   informatie over de gebruiker te verwerven, te gebruiken en door te geven;<BR>3)   de werkwijze bij gevaar voor schade aan de integriteit van de gebruiker en van   derden;<BR>4) de werkwijze om grensoverschrijdend gedrag ten aanzien van   gebruikers te vermijden en ermee om te gaan;<BR>5) de procedure voor   klachtenbehandeling en klachtenregistratie;<BR>6) de werkwijzen voor   zelfevaluatie;<BR>7) een weergave van de kwaliteitsplanning op basis van   zelfevaluatie:<BR>a) de aanpak en doelstellingen van de zelfevaluatie;<BR>b) de   kwaliteitsplanning op basis van zelfevaluatie;<BR>c) de aanpak van de   monitoring.<BR><BR>§ 3. Het Vlaams instituut en de regionale instituten voeren   in het kader van deugdelijk bestuur een kwaliteitsvol en transparant beleid op   het vlak van:<BR>1° hun doelstellingen en de beoogde maatschappelijke   meerwaarde;<BR>2° de strategieën om hun doelstellingen en maatschappelijke   meerwaarde te verwezenlijken;<BR>3° hun structurele en maatschappelijke   inbedding en positionering;<BR>4° hun bestuur en de samenstelling, bevoegdheden   en taakafbakening van de verschillende bestuursorganen, namelijk de algemene   vergadering, de raad van bestuur, het dagelijks bestuur en de directie;<BR>5° de   procedure voor werving en ondersteuning van bestuurders en de principes inzake   hun profiel, competenties, engagement, integriteit, onafhankelijkheid,   vergoeding, onverenigbaarheden, belangenconflicten;<BR>6° de voorbereiding,   frequentie, besluitvorming, opvolging en verslaggeving van vergaderingen van de   raad van bestuur en de algemene vergadering, en de communicatie daarover;<BR>7°   de regelmatige evaluatie van de werking en de realisatie van de   doelstellingen;<BR>8° het algemeen beheer en het beheer van de financiële,   materiële en personele middelen;<BR>9° klachtenbehandeling en   klachtenregistratie;<BR>10° de betrokkenheid van en de verantwoording voor   interne en externe belanghebbenden.<BR><BR>Het instituut moet in de   beleidsvoering kunnen aantonen dat het de beginselen van deugdelijk bestuur voor   de social profit toepast, onder meer aan de hand van zijn statuten,   huishoudelijke reglementen, verslagen van bestuursorganen, strategisch   meerjarenplan, voortgangsrapporten, en ze bekendmaken bij zijn   belanghebbenden.<BR><BR>§ 4. Het Vlaams instituut en de regionale instituten   zorgen voor verstaanbare communicatie tussen hun medewerkers en de gebruikers.   Ze voeren een taalbeleid waarin verduidelijkt wordt welke ondersteuning geboden   wordt zodat anderstalige medewerkers een actieve kennis van het Nederlands   kunnen verwerven.<BR><BR>Het instituut kan zijn taalbeleid schriftelijk aantonen   en het bekendmaken bij zijn belanghebbenden.<BR><BR>§ 5. Het instituut   ontwikkelt een geschreven referentiekader voor grensoverschrijdend gedrag ten   aanzien van gebruikers. Het hanteert een procedure voor de preventie van   grensoverschrijdend gedrag ten aanzien van gebruikers, alsook voor de detectie   van en het gepast reageren op dat grensoverschrijdend gedrag. In die procedure   is een registratiesysteem opgenomen dat geanonimiseerde gegevens bijhoudt over   de gevallen van grensoverschrijdend gedrag ten aanzien van   gebruikers.<BR><BR>Grensoverschrijdend gedrag van medewerkers van het instituut   ten aanzien van gebruikers wordt op een geanonimiseerde wijze gemeld aan de   administratie.
+§ 1. Elk regionaal instituut voert een kwaliteitsbeleid overeenkomstig de bepalingen van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen en in functie van de eigen opdrachten. De regionale instituten tonen daarbij door middel van zelfevaluatie aan hoe ze een verantwoord aanbod realiseren bij de realisatie van de kernprocessen. De zelfevaluatie heeft minstens betrekking op de volgende zorgaspecten:<br>
+1° het aanbod sluit aan bij de behoeftes van de doelgroep;<br>
+2° het aanbod is toegankelijk;<br>
+3° de doelgroep participeert actief in de vormgeving van de strategische actie;<br>
+4° er wordt methodisch gedifferentieerd gewerkt;<br>
+5° het aanbod is effectief.<br>
+<br>
+§ 2. Het kwaliteitsbeleid, vermeld in paragraaf 1, wordt beschreven in een kwaliteitshandboek als vermeld in artikel 5, § 4, van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen.<br>
+<br>
+Het kwaliteitshandboek, vermeld in het eerste lid, bevat minimaal de volgende elementen:<br>
+1° een inleiding met daarin:<br>
+a) een voorwoord;<br>
+b) de structuur van het kwaliteitshandboek;<br>
+c) de organisatorische structuur, bevoegdheden en verantwoordelijkheden van het instituut, met inbegrip van de taken en competentie- en functieprofielen van bestuurders in algemene vergadering en raad van bestuur, de verhouding tussen bestuur en management, de overleg- en inspraakorganen, en op welke wijze opvolging wordt gegeven aan een professioneel personeels- en financieel beleid;<br>
+2° een weergave van het kwaliteitsbeleid waarin de volgende elementen zijn opgenomen:<br>
+a) de missie en de visie;<br>
+b) de opdracht en de doelstellingen;<br>
+c) de strategie;<br>
+3° een weergave van het kwaliteitssysteem dat voor de regionale instituten de volgende elementen omvat:<br>
+1) de werkwijzen die betrekking hebben op de kernprocessen;<br>
+2) de werkwijzen om informatie over de gebruiker te verwerven, te gebruiken en door te geven;<br>
+3) de werkwijze bij gevaar voor schade aan de integriteit van de gebruiker en van derden;<br>
+4) de werkwijze om grensoverschrijdend gedrag ten aanzien van gebruikers te vermijden en ermee om te gaan;<br>
+5) de procedure voor klachtenbehandeling en klachtenregistratie;<br>
+6) de werkwijzen voor zelfevaluatie;<br>
+7) een weergave van de kwaliteitsplanning op basis van zelfevaluatie:<br>
+a) de aanpak en doelstellingen van de zelfevaluatie;<br>
+b) de kwaliteitsplanning op basis van zelfevaluatie;<br>
+c) de aanpak van de monitoring.<br>
+<br>
+§ 3. De regionale instituten voeren in het kader van deugdelijk bestuur een kwaliteitsvol en transparant beleid op het vlak van:<br>
+1° hun doelstellingen en de beoogde maatschappelijke meerwaarde;<br>
+2° de strategieën om hun doelstellingen en maatschappelijke meerwaarde te verwezenlijken;<br>
+3° hun structurele en maatschappelijke inbedding en positionering;<br>
+4° hun bestuur en de samenstelling, bevoegdheden en taakafbakening van de verschillende bestuursorganen, namelijk de algemene vergadering, de raad van bestuur, het dagelijks bestuur en de directie;<br>
+5° de procedure voor werving en ondersteuning van bestuurders en de principes inzake hun profiel, competenties, engagement, integriteit, onafhankelijkheid, vergoeding, onverenigbaarheden, belangenconflicten;<br>
+6° de voorbereiding, frequentie, besluitvorming, opvolging en verslaggeving van vergaderingen van de raad van bestuur en de algemene vergadering, en de communicatie daarover;<br>
+7° de regelmatige evaluatie van de werking en de realisatie van de doelstellingen;<br>
+8° het algemeen beheer en het beheer van de financiële, materiële en personele middelen;<br>
+9° klachtenbehandeling en klachtenregistratie;<br>
+10° de betrokkenheid van en de verantwoording voor interne en externe belanghebbenden.<br>
+<br>
+Het instituut moet in de beleidsvoering kunnen aantonen dat het de beginselen van deugdelijk bestuur voor de social profit toepast, onder meer aan de hand van zijn statuten, huishoudelijke reglementen, verslagen van bestuursorganen, strategisch meerjarenplan, voortgangsrapporten, en ze bekendmaken bij zijn belanghebbenden.<br>
+<br>
+§ 4.&nbsp;De regionale instituten zorgen voor verstaanbare communicatie tussen hun medewerkers en de gebruikers. Ze voeren een taalbeleid waarin verduidelijkt wordt welke ondersteuning geboden wordt zodat anderstalige medewerkers een actieve kennis van het Nederlands kunnen verwerven.<br>
+<br>
+Het instituut kan zijn taalbeleid schriftelijk aantonen en het bekendmaken bij zijn belanghebbenden.<br>
+<br>
+§ 5. Het instituut ontwikkelt een geschreven referentiekader voor grensoverschrijdend gedrag ten aanzien van gebruikers. Het hanteert een procedure voor de preventie van grensoverschrijdend gedrag ten aanzien van gebruikers, alsook voor de detectie van en het gepast reageren op dat grensoverschrijdend gedrag. In die procedure is een registratiesysteem opgenomen dat geanonimiseerde gegevens bijhoudt over de gevallen van grensoverschrijdend gedrag ten aanzien van gebruikers.<br>
+<br>
+Grensoverschrijdend gedrag van medewerkers van het instituut ten aanzien van gebruikers wordt op een geanonimiseerde wijze gemeld aan de administratie.
 
 ### ART. 4.
 
-De organisaties voor maatschappelijk opbouwwerk voeren volgende opdrachten   uit:<BR>1° het Vlaams instituut:<BR>a) organiseren en coördineren van overleg   met en tussen de regionale instituten voor maatschappelijk opbouwwerk en het   ondersteunen van hun besturen;<BR>b) inhoudelijk methodisch en organisatorisch   ondersteunen van het maatschappelijk opbouwwerk via onderzoek, studie en   begeleiding;<BR>c) bijscholen en vormen van beroepskrachten, bestuursleden en   vrijwilligers;<BR>d) aanleggen van documentatie en verzorgen van   publicaties;<BR>e) beleidsvoorbereidend onderzoek en studie uitvoeren;<BR>f) in   overleg treden met de Vlaamse regering, beleidsverantwoordelijken en andere   organisaties;<BR>g) internationale betrekkingen behartigen in het kader van het   maatschappelijk opbouwwerk;<BR>h) bij de uitvoering van deze opdrachten   samenwerken met relevante actoren binnen en buiten zijn werkgebied, in het   bijzonder met de sector van de verenigingen waar armen het woord nemen en het   algemeen welzijnswerk;<BR>i) evalueren van de werking, zowel van de uitvoering   van het strategisch meerjarenplan als van de eigen werking als   organisatie;<BR>2° de regionale instituten voor maatschappelijk   opbouwwerk:<BR>a) in overleg met de voor de uitvoering van de opdrachten   relevante organisaties en instanties wordt een meerjarenplan opgesteld;<BR>b) in   overleg met andere betrokken besturen en instellingen het beleid inzake   maatschappelijk opbouwwerk bevorderen;<BR>c) opbouwwerkprojecten voorbereiden en   uitvoeren;<BR>d) bij de uitvoering van deze opdrachten samenwerken met relevante   actoren binnen en buiten zijn werkgebied, in het bijzonder met de sector van de   verenigingen waar armen het woord nemen en het algemeen welzijnswerk;<BR>e)   evalueren van de werking, zowel van de uitvoering van het `strategisch   meerjarenplan' als van de eigen werking als organisatie;<BR>f) ...<BR>g)   ...<BR>h) ...
+De organisaties voor maatschappelijk opbouwwerk voeren volgende opdrachten uit:<br>
+1° ...;<br>
+2° de regionale instituten voor maatschappelijk opbouwwerk:<br>
+a) in overleg met de voor de uitvoering van de opdrachten relevante organisaties en instanties wordt een meerjarenplan opgesteld;<br>
+b) in overleg met andere betrokken besturen en instellingen het beleid inzake maatschappelijk opbouwwerk bevorderen;<br>
+c) opbouwwerkprojecten voorbereiden en uitvoeren;<br>
+d) bij de uitvoering van deze opdrachten samenwerken met relevante actoren binnen en buiten zijn werkgebied, in het bijzonder met de sector van de verenigingen waar armen het woord nemen en het algemeen welzijnswerk;<br>
+e) evalueren van de werking, zowel van de uitvoering van het `strategisch meerjarenplan' als van de eigen werking als organisatie;<br>
+f) ...<br>
+g) ...<br>
+h) ...
 
 ### ART. 5.
 
@@ -78,11 +152,17 @@ In het geval bedoeld in artikel 7, § 1, laatste lid, wordt de definitieve besli
 
 ### ART. 13.
 
-<P>§ 1. Afhankelijk van de beschikbare begrotingskredieten en overeenkomstig de   bepalingen van het decreet en van dit besluit, kent de secretaris-generaal aan   de organisaties een subsidie-enveloppe toe voor infrastructuur, werkings- en   personeelskosten, zoals bedoeld in artikel 5, § 1 van het decreet. De   secretaris-generaal bepaalt binnen de perken van de begrotingskredieten   jaarlijks de grootte van de subsidie-enveloppe op basis van de volgende   regels:<BR>1° voor het Vlaams instituut wordt een forfaitair bedrag bepaald,   rekening houdend met de opdrachten en het aantal voltijdsequivalenten in de   subsidiabele personeelsformatie, vermeld in artikel 9, § 3, 4° ;<BR>2° voor de   regionale instituten wordt aan elk instituut hetzelfde forfaitaire bedrag   toegekend, aangevuld met een bedrag per voltijdsequivalent in de subsidiabele   personeelsformatie, vermeld in artikel 9, § 3, 4°. <BR><BR>§ 2. Bij de   subsidie-enveloppen, vermeld in paragraaf 1, worden jaarlijks de middelen   gevoegd voor de toepassing van het Vlaams Intersectoraal Akkoord voor de   Social-Profitsector.</P>
+<p>§ 1. Afhankelijk van de beschikbare begrotingskredieten en overeenkomstig de bepalingen van het decreet en van dit besluit, kent de secretaris-generaal aan de organisaties een subsidie-enveloppe toe voor infrastructuur, werkings- en personeelskosten, zoals bedoeld in artikel 5, § 1 van het decreet. De secretaris-generaal bepaalt binnen de perken van de begrotingskredieten jaarlijks de grootte van de subsidie-enveloppe op basis van de volgende regels:<br>
+1°&nbsp;... ;<br>
+2° voor de regionale instituten wordt aan elk instituut hetzelfde forfaitaire bedrag toegekend, aangevuld met een bedrag per voltijdsequivalent in de subsidiabele personeelsformatie, vermeld in artikel 9, § 3, 4°.<br>
+<br>
+§ 2. Bij de subsidie-enveloppen, vermeld in paragraaf 1, worden jaarlijks de middelen gevoegd voor de toepassing van het Vlaams Intersectoraal Akkoord voor de Social-Profitsector.</p>
 
 ### ART. 14.
 
-§ 1. De subsidie-enveloppe moet door de regionale instituten voor minstens 75 %, en door het Vlaams instituut voor minstens 70 % aangewend worden voor personeelskosten.<br /><br />§ 2. De salarisschalen voor de personeelsleden van de organisaties worden bepaald door de raad van bestuur in overeenstemming met de geldende collectieve arbeidsovereenkomsten voor de sector.
+§ 1. De subsidie-enveloppe moet door de regionale instituten voor minstens 75 % aangewend worden voor personeelskosten.<br>
+<br>
+§ 2. De salarisschalen voor de personeelsleden van de organisaties worden bepaald door de raad van bestuur in overeenstemming met de geldende collectieve arbeidsovereenkomsten voor de sector.
 
 ### ART. 15.
 
@@ -94,7 +174,19 @@ Als een organisatie haar subsidie-enveloppe in het jaar waarvoor die   enveloppe
 
 ### ART. 17.
 
-§ 1. De subsidie wordt aan het Vlaams instituut en het regionaal instituut   toegekend op voorwaarde dat aan de erkenningsvoorwaarden, vermeld in het   decreet, en in hoofdstuk II van dit besluit, wordt voldaan.<BR><BR>§ 2. Het   Vlaams instituut en het regionaal instituut moeten aan de volgende extra   subsidiëringsvoorwaarden voldoen:<BR>1° de subsidie besteden aan de   infrastructuur, werkings- en personeelskosten van de organisatie, onder   voorbehoud van artikel 16;<BR>2° bij de uitbetaling van de personeelskosten de   wettelijke verplichtingen als werkgever naleven;<BR>3° elk jaar uiterlijk op 30   april de subsidie-enveloppe aanvragen. Daarvoor dienen ze bij de administratie   een dossier in, dat wordt opgesteld aan de hand van het door de administratie   uitgewerkte model dat minimaal de volgende elementen bevat:<BR>a) het   voortgangsrapport, met resultaatgerichte indicatoren;<BR>b) een overzicht van de   personeelsleden met de taakverdeling en de tijdsbesteding;<BR>c) een begroting   met postgewijze toelichting.<BR><BR>In het eerste lid, 3°, a), wordt verstaan   onder resultaatgerichte indicatoren: de gegevens waarmee de resultaten van de   werking worden beschreven en weergegeven. De gegevens kunnen zowel kwantitatief   als kwalitatief van aard zijn.<BR><BR>De minister bepaalt de resultaatgerichte   indicatoren, na overleg met de sector. De eerste set van indicatoren zal worden   geëvalueerd twee jaar na de invoering ervan.
+§ 1. De subsidie wordt aan het regionaal instituut toegekend op voorwaarde dat aan de erkenningsvoorwaarden, vermeld in het decreet, en in hoofdstuk II van dit besluit, wordt voldaan.<br>
+<br>
+§ 2.&nbsp;Het regionaal instituut moet aan de volgende extra subsidiëringsvoorwaarden voldoen:<br>
+1° de subsidie besteden aan de infrastructuur, werkings- en personeelskosten van de organisatie, onder voorbehoud van artikel 16;<br>
+2° bij de uitbetaling van de personeelskosten de wettelijke verplichtingen als werkgever naleven;<br>
+3° elk jaar uiterlijk op 30 april de subsidie-enveloppe aanvragen. Daarvoor dienen ze bij de administratie een dossier in, dat wordt opgesteld aan de hand van het door de administratie uitgewerkte model dat minimaal de volgende elementen bevat:<br>
+a) het voortgangsrapport, met resultaatgerichte indicatoren;<br>
+b) een overzicht van de personeelsleden met de taakverdeling en de tijdsbesteding;<br>
+c) een begroting met postgewijze toelichting.<br>
+<br>
+In het eerste lid, 3°, a), wordt verstaan onder resultaatgerichte indicatoren: de gegevens waarmee de resultaten van de werking worden beschreven en weergegeven. De gegevens kunnen zowel kwantitatief als kwalitatief van aard zijn.<br>
+<br>
+De minister bepaalt de resultaatgerichte indicatoren, na overleg met de sector. De eerste set van indicatoren zal worden geëvalueerd twee jaar na de invoering ervan.
 
 ### ART. 18.
 
@@ -114,11 +206,17 @@ Bij vastgestelde afwending van de toegekende subsidie kan de secretaris-generaal
 
 ### ART. 21.
 
-Het Vlaams instituut en de regionale instituten ontvangen twee voorschotten van 50 % van de subsidie-enveloppe voor het kalenderjaar. Het eerste voorschot wordt zo snel mogelijk uitbetaald na de goedkeuring van de uitgavenbegroting van de Vlaamse Gemeenschap voor het jaar waarop de subsidie-enveloppe betrekking heeft, en het tweede voorschot begin juli van dat jaar.
+De regionale instituten ontvangen twee voorschotten van 50 % van de subsidie-enveloppe voor het kalenderjaar. Het eerste voorschot wordt zo snel mogelijk uitbetaald na de goedkeuring van de uitgavenbegroting van de Vlaamse Gemeenschap voor het jaar waarop de subsidie-enveloppe betrekking heeft, en het tweede voorschot begin juli van dat jaar.
 
 ### ART. 22.
 
-&nbsp;§ 1. Uiterlijk op 30 april van elk jaar dienen het Vlaams instituut   en de regionale instituten een financieel verslag over het voorgaande jaar in   bij de administratie. Dat verslag wordt opgesteld aan de hand van het door de   administratie uitgewerkte model.<BR><BR>Het financiële verslag bevat alle   documenten, vermeld in artikel 13 van het besluit van de Vlaamse Regering van 13   januari 2006 betreffende de boekhouding en het financieel verslag voor de   voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn,   Volksgezondheid en Gezin.<BR><BR>Elk instituut stelt een natuurlijke persoon of   een rechtspersoon, die lid is van het Instituut van de Bedrijfsrevisoren, als   commissaris aan. Die commissaris wordt belast met de controle op de financiële   toestand, op de jaarrekening en op de regelmatigheid ten aanzien van de wet en   de statuten, en van de verrichtingen die zijn opgenomen in de   jaarrekening.<BR><BR>§ 2. Bij laattijdige indiening van het financiële verslag   of het inhoudelijke verslag, inclusief de boordtabellen, wordt 5 % van de   toegekende subsidie-enveloppe niet uitbetaald.
+&nbsp;§ 1. Uiterlijk op 30 april van elk jaar dienen de regionale instituten een financieel verslag over het voorgaande jaar in bij de administratie. Dat verslag wordt opgesteld aan de hand van het door de administratie uitgewerkte model.<br>
+<br>
+Het financiële verslag bevat alle documenten, vermeld in artikel 13 van het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br>
+<br>
+Elk instituut stelt een natuurlijke persoon of een rechtspersoon, die lid is van het Instituut van de Bedrijfsrevisoren, als commissaris aan. Die commissaris wordt belast met de controle op de financiële toestand, op de jaarrekening en op de regelmatigheid ten aanzien van de wet en de statuten, en van de verrichtingen die zijn opgenomen in de jaarrekening.<br>
+<br>
+§ 2. Bij laattijdige indiening van het financiële verslag of het inhoudelijke verslag, inclusief de boordtabellen, wordt 5 % van de toegekende subsidie-enveloppe niet uitbetaald.
 
 ### ART. 23.
 
