@@ -27,7 +27,12 @@ d) een tijdtabel voor de uitvoering van de saneringswerkzaamheden;<br>
 
 ### ART. 3.
 
-§ 1. Zijn uitgesloten van de toepassing van dit besluit en worden   bijgevolg niet geregistreerd in de Inventaris:<BR>1° het perceel waarop zich een   bedrijfsgebouw bevindt waarin de woning van de eigenaar(s) een niet-afsplitsbaar   onderdeel uitmaakt van het gebouw en dat nog effectief wordt benut als   verblijfsplaats;<BR>2° de bedrijfsruimten waarop een onteigeningsbeslissing rust   of waarvoor door een openbare rechtspersoon een beslissing tot onteigening werd   genomen;<BR>3° ...<BR><BR>§ 2. Een woning wordt als afsplitsbaar beschouwd ten   opzichte van het bedrijfsgebouw indien zij na sloping van het bedrijfsgebouw als   een afzonderlijke volwaardige woning kan worden beschouwd die voldoet aan de   bouwfysische vereisten.
+§ 1. Zijn uitgesloten van de toepassing van dit besluit en worden bijgevolg niet geregistreerd in de Inventaris:<br>
+1° het perceel waarop zich een bedrijfsgebouw bevindt waarin de woning van de eigenaar(s) een niet-afsplitsbaar onderdeel uitmaakt van het gebouw en dat nog effectief wordt benut als verblijfsplaats;<br>
+2° de bedrijfsruimten waarvoor door een openbare rechtspersoon een definitief onteigeningsbesluit werd genomen;<br>
+3° ...<br>
+<br>
+§ 2. Een woning wordt als afsplitsbaar beschouwd ten opzichte van het bedrijfsgebouw indien zij na sloping van het bedrijfsgebouw als een afzonderlijke volwaardige woning kan worden beschouwd die voldoet aan de bouwfysische vereisten.
 
 ### ART. 4.
 
