@@ -1,0 +1,3 @@
+# Art. 40undecies
+De voorzitter van het Bestuurscomité van het UZ Gent en de gedelegeerd bestuurder van het UZ Gent waken elk, in opdracht van de raad van bestuur, over het financiële beleid en het financiële evenwicht van het universitair ziekenhuis.
+De hoofdgeneesheer waakt, in overleg met de voorzitter van het Bestuurscomité van het UZ Gent en met de gedelegeerd bestuurder van het UZ Gent, over de continuïteit van de dienstverlening en neemt daarvoor, in voorkomend geval, de nodige maatregelen. Als er geen overeenstemming wordt bereikt over de invulling van de continuïteit, kan de voorzitter aan de provinciegouverneur vragen maatregelen te treffen in het kader van de handhaving van de openbare veiligheid en volksgezondheid in de provincie.
