@@ -6,20 +6,20 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de voorziening Centrum Ganspoel VZW, met zetel in Ganspoel 2, 3040 Huldenberg, Thuisbegeleiding, 066.200.114.
+...
 
 ### ART. 2.
 
-Het gedeelte van de personeelskosten opgenomen in de beheersovereenkomst gesloten met Centrum Ganspoel VZW, dat het centrum aanwendt om de personeelskosten van de organisatie die dat personeel ter beschikking stelt te vergoeden, wordt in aanmerking genomen voor subsidiëring in afwijking van artikelen 15 en 16 van het besluit van de Vlaamse Regering van 17 december 1996 betreffende de erkenning en subsidiëring van thuisbegeleidingsdiensten voor personen met een handicap.<br /><br />De barema's en loonvoorwaarden worden beperkt tot die van de bestaande regelgeving en de collectieve arbeidsovereenkomsten van het paritair comité 319.01 waarbij de extra legale voordelen in aanmerking kunnen worden genomen op voorwaarde dat het totale reglementair subsidieerbaar bedrag niet wordt overschreden. De personeelsleden op wie een beroep wordt gedaan, voldoen aan de diplomavoorwaarden, vermeld in artikel 15 van het het besluit van de Vlaamse Regering van 17 december 1996 betreffende de erkenning en subsidiëring van thuisbegeleidingsdiensten voor personen met een handicap.
+...
 
 ### ART. 3.
 
-Het gedeelte van de werkingskosten dat opgenomen is in de beheersovereenkomst gesloten met Centrum Ganspoel VZW, dat het centrum aanwendt om de werkingskosten van de organisatie die dat personeel ter beschikking stelt, te vergoeden, wordt in aanmerking genomen voor subsidiëring in afwijking van artikel 17 van het besluit van de Vlaamse Regering van 17 december 1996 betreffende de erkenning en subsidiëring van thuisbegeleidingsdiensten voor personen met een handicap.
+...
 
 ### ART. 4.
 
-De subsidiëring die met toepassing van dit besluit verkregen wordt, kan nooit meer bedragen dan de subsidiëring die verkregen wordt op basis van de bepalingen waarvan een afwijking wordt toegestaan.
+...
 
 ### ART. 5.
 
-<P>Dit besluit heeft uitwerking met ingang van 1 januari 2012 en treedt buiten   werking op 31 december 2017.</P>
+...
