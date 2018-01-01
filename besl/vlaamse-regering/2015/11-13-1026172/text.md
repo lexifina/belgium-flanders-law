@@ -10,7 +10,7 @@ De   Vlaamse Regering,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT:
 
 ### ART. 2.
 
-<p>§ 1. De reders, vermeld in artikel 3, § 1, 2°, van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij, worden vrijgesteld van de betaling van bepaalde werkgeversbijdragen aan de Hulp- en Voorzorgskas voor Zeevarenden.</p>
+<p>§ 1. De reders, vermeld in artikel 3, § 1, 2°, van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij, worden vrijgesteld van de betaling van bepaalde werkgeversbijdragen aan de Rijksdienst voor Sociale Zekerheid.</p>
 
 <p>§ 2. ...</p>
 
@@ -32,7 +32,14 @@ De   Vlaamse Regering,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT:
 
 ### ART. 4.
 
-<P>De reder deelt aan de Hulp- en Voorzorgskas voor Zeevarenden de   volgende gegevens mee:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het aantal dagen waarvoor de socialezekerheidsbijdragen verschuldigd zijn,   namelijk:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   elke vaart- en bijwerkdag voor de zeevarenden;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   elke arbeidsdag voor de shoregangers;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">c)   elke dag waarvoor de opzeggingsvergoeding door de reder verschuldigd   is;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het maand per maand betaalde brutoloon met betrekking tot de voormelde dagen,   waarop de zeeman ingevolge zijn dienstbetrekking recht heeft.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het eerste lid, 2°, wordt verstaan onder brutoloon van de zeeman: de   standaardgage, vermeerderd met de overuren en alle vergoedingen,   opzegvergoedingen inbegrepen.</P>
+<p>De reder deelt aan de Rijksdienst voor Sociale Zekerheid de volgende gegevens mee:<br>
+1° het aantal dagen waarvoor de socialezekerheidsbijdragen verschuldigd zijn, namelijk:<br>
+a) elke vaart- en bijwerkdag voor de zeevarenden;<br>
+b) elke arbeidsdag voor de shoregangers;<br>
+c) elke dag waarvoor de opzeggingsvergoeding door de reder verschuldigd is;<br>
+2° het maand per maand betaalde brutoloon met betrekking tot de voormelde dagen, waarop de zeeman ingevolge zijn dienstbetrekking recht heeft.</p>
+
+<p>In het eerste lid, 2°, wordt verstaan onder brutoloon van de zeeman: de standaardgage, vermeerderd met de overuren en alle vergoedingen, opzegvergoedingen inbegrepen.</p>
 
 ### ART. 5.
 
