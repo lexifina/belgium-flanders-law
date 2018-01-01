@@ -28,6 +28,8 @@ Het Fonds is een begrotingsfonds zoals vermeld in artikel 12 van het decreet van
 <br>
 § 2/6. Het Fonds wordt gespijsd met middelen die in de uitvoering van de overeenkomst (1 juli 2017 - 31 december 2018) van 27 januari 2017 tussen het Comité van de verzekering voor Geneeskundige Verzorging, ingesteld bij de dienst voor Geneeskundige Verzorging van het RIZIV, en het Agentschap Zorg en Gezondheid worden uitbetaald.<br>
 <br>
+§ 2/8. Het Fonds wordt gespijsd met middelen die in de uitvoering van de overeenkomst (1 januari 2018 - 31 december 2020) van 1 oktober 2018 tussen het Comité van de verzekering voor Geneeskundige Verzorging, ingesteld bij de dienst voor Geneeskundige Verzorging van het RIZIV, en het Agentschap Zorg en Gezondheid worden uitbetaald.<br>
+<br>
 § 3. Ten laste van dit Fonds worden alle soorten uitgaven van de administratie Gezondheidszorg aangerekend, zowel voor personeel, als voor werking of uitrusting, voorzover deze uitgaven verband houden met onderzoek dat door derden wordt betaald, betrekking hebben op het centraal beheer van het informatiesysteem, op de kosten gegenereerd door de uitvoering van het protocolakkoord van 20 maart 2003 gesloten tussen de Federale Overheid en de Overheden bedoeld in artikelen 128, 130 en 135 van de Grondwet betreffende de harmonisering van het vaccinatiebeleid en het aanhangsel bij het protocolakkoord van 20 maart 2003, over de harmonisering van het vaccinatiebeleid inzake het netwerk voor de distributie van vaccins en inzake het akkoord gesloten tussen de Gemeenschappen en de Gemeenschappelijke Gemeenschapscommissie van het tweetalig gebied Brussel-Hoofdstad of op het preventief gezondheidsbeleid.<br>
 <br>
 § 3/1. Ten laste van dit Fonds worden alle soorten uitgaven van de administratie Zorg en Gezondheid aangerekend, zowel voor personeel, als voor werking of uitrusting voor zover deze uitgaven verband houden met de uitvoering van Europese overeenkomsten.<br>
@@ -41,6 +43,8 @@ Het Fonds is een begrotingsfonds zoals vermeld in artikel 12 van het decreet van
 § 3/5. Ten laste van dit Fonds worden alle soorten uitgaven die gedaan worden door het Agentschap Zorg en Gezondheid aangerekend, voor zover die uitgaven verband houden met de uitvoering van het avenant van 16 januari 2017 bij de overeenkomst (1 augustus 2015 - 31 december 2017) van 13 oktober 2015 tussen het Comité van de verzekering voor Geneeskundige Verzorging, ingesteld bij de dienst voor Geneeskundige Verzorging van het RIZIV, en het Agentschap Zorg en Gezondheid.<br>
 <br>
 § 3/6. Ten laste van dit Fonds worden alle soorten uitgaven die gedaan worden door het Agentschap Zorg en Gezondheid aangerekend, voor zover die uitgaven verband houden met de uitvoering van de overeenkomst (1 juli 2017 - 31 december 2018) van 27 januari 2017 tussen het Comité van de verzekering voor Geneeskundige Verzorging, ingesteld bij de dienst voor Geneeskundige Verzorging van het RIZIV, en het Agentschap Zorg en Gezondheid.<br>
+<br>
+§ 3/8. Ten laste van dit Fonds worden alle soorten uitgaven die gedaan worden door het Agentschap Zorg en Gezondheid aangerekend, voor zover die uitgaven verband houden met de uitvoering van de overeenkomst (1 januari 2018 - 31 december 2020) van 1 oktober 2018 tussen het Comité van de verzekering voor Geneeskundige Verzorging, ingesteld bij de dienst voor Geneeskundige Verzorging van het RIZIV, en het Agentschap Zorg en Gezondheid.<br>
 <br>
 § 4. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het Fonds.</p>
 
