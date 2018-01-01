@@ -34,7 +34,9 @@ De bepalingen van titel IV, hoofdstukken I, II en VII, van het decreet van 16 ju
 
 ### ART. 7.
 
-De gewestelijke waterbeheerders kunnen te allen tijde onteigenen, zowel voor de uitvoering van de in artikel 4 bedoelde werken als voor de bijbehorende werken van natuurtechnische milieubouw en recreatie.<br /><br />De onteigeningen gebeuren overeenkomstig de spoedprocedure bepaald in artikel 5 van de wet van 26 juli 1962 betreffende de onteigeningen ten algemene nutte en de concessies voor de bouw van de autosnelwegen.
+De gewestelijke waterbeheerders kunnen te allen tijde onteigenen, zowel voor de uitvoering van de in artikel 4 bedoelde werken als voor de bijbehorende werken van natuurtechnische milieubouw en recreatie.<br>
+<br>
+De onteigeningen worden uitgevoerd conform de bepalingen van het Vlaams Onteigeningsdecreet van 24 februari 2017.
 
 ### ART. 8.
 
