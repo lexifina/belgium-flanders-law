@@ -188,11 +188,25 @@ c) de vestiging van zakelijke rechten op private domeingoederen of de verhuring 
 13° de erkenning van vorderingen als lasten van het verleden, vermeld in artikel 53, § 2, tweede lid, 1°, van het decreet van 21 december 1994 houdende bepalingen tot begeleiding van de begroting 1995 na voorafgaand akkoord van de Vlaamse minister, bevoegd voor de financiën en de begrotingen;<br>
 14° het sluiten van dadingen, minnelijke schikkingen en schulderkenningen als het bedrag van de uitgaven die eruit voortvloeien 250.000 euro niet overschrijdt, met behoud van de toepassing van artikel 8, § 4, en § 5, tweede lid;<br>
 15° het sluiten van overeenkomsten tot arbitrage;<br>
-16° het sluiten, wijzigen of beëindigen van overeenkomsten met een maximale looptijd van negen jaar voor de huur van onroerende goederen, met uitzondering van de onroerende goederen, vermeld in artikel 10, § 2. Deze delegatie geldt alleen voor de onroerende goederen waarvan de totale gerelateerde jaarlijkse uitgaven (huur, fiscale lasten, huurlasten, aflossing geprefinancierde investeringsuitgaven, enzovoort) niet meer bedragen dan 150.000 euro.
+16° het sluiten, wijzigen of beëindigen van overeenkomsten met een maximale looptijd van negen jaar voor de huur van onroerende goederen, met uitzondering van de onroerende goederen, vermeld in artikel 10, § 2. Deze delegatie geldt alleen voor de onroerende goederen waarvan de totale gerelateerde jaarlijkse uitgaven (huur, fiscale lasten, huurlasten, aflossing geprefinancierde investeringsuitgaven, enzovoort) niet meer bedragen dan 150.000 euro;<br>
+17° het overschrijden van kredieten of verlenen van kasvoorschotten, in geval van noodwendige of dringende uitgaven, als dat is toegestaan in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br>
+18° het verstrekken van leningen of kredieten en het aangaan van participaties die minder dan 250.000 euro bedragen;<br>
+19° het toestaan van provisies, als dat is toegestaan in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
 
 ### ART. 7.
 
-De delegatie, toegestaan bij artikel 6, omvat niet:<BR>1° het nemen van   reglementaire besluiten;<BR>2° het verlenen van facultatieve subsidies die niet   nominatim in de begroting zijn opgenomen en die meer dan 250.000 euro bedragen,   ongeacht of die subsidies al dan niet zijn opgenomen in een budgettair   implementatieplan;<BR>3° de beslissingen ter uitvoering van de regelgeving   inzake economische expansie, waarbij voordelen worden verleend die betrekking   hebben op investeringen van meer dan 12.500.000&nbsp;euro;<BR>4° de beslissingen   waarbij de gewestwaarborg of de gemeenschapswaarborg wordt verleend voor een   gecumuleerd bedrag, per natuurlijke persoon of per rechtspersoon, van meer dan   5.000.000 euro;<BR>5° het sluiten van samenwerkingsakkoorden of verdragen;<BR>6°   de oprichting en de wijze van samenstelling van raden, commissies, diensten,   instellingen of rechtspersonen;<BR>7° de indienstnemingen, aanwijzingen of   benoemingen van:<BR>a) managers die aan het hoofd staan van een departement,   instelling of rechtspersoon die afhangt van de Vlaamse Gemeenschap of het   Vlaamse Gewest, en van managers en projectleiders die behoren tot hetzelfde   niveau;<BR>b) algemeen directeur;<BR>8° de aanwijzing van personen in   administratieve rechtscolleges of in bestuursorganen en de aanwijzing van   regeringsafgevaardigden of regeringscommissarissen.
+De delegatie, toegestaan bij artikel 6, omvat niet:<br>
+1° het nemen van reglementaire besluiten;<br>
+2° het verlenen van facultatieve subsidies die niet nominatim in de begroting zijn opgenomen en die meer dan 250.000 euro bedragen, ongeacht of die subsidies al dan niet zijn opgenomen in een budgettair implementatieplan;<br>
+3° de beslissingen ter uitvoering van de regelgeving inzake economische expansie, waarbij voordelen worden verleend die betrekking hebben op investeringen van meer dan 12.500.000&nbsp;euro;<br>
+4° de beslissingen waarbij de gewestwaarborg of de gemeenschapswaarborg wordt verleend voor een gecumuleerd bedrag, per natuurlijke persoon of per rechtspersoon, van meer dan 5.000.000 euro, tenzij de mogelijkheid tot het verlenen van een waarborg is voorzien in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br>
+5° het sluiten van samenwerkingsakkoorden of verdragen;<br>
+6° de oprichting en de wijze van samenstelling van raden, commissies, diensten, instellingen of rechtspersonen;<br>
+7° de indienstnemingen, aanwijzingen of benoemingen van:<br>
+a) managers die aan het hoofd staan van een departement, instelling of rechtspersoon die afhangt van de Vlaamse Gemeenschap of het Vlaamse Gewest, en van managers en projectleiders die behoren tot hetzelfde niveau;<br>
+b) algemeen directeur;<br>
+8° de aanwijzing van personen in administratieve rechtscolleges of in bestuursorganen en de aanwijzing van regeringsafgevaardigden of regeringscommissarissen;<br>
+9° het sluiten van samenwerkingsovereenkomsten die voorzien in de mogelijkheid om leningen of kredieten uit te geven of participaties aan te gaan.
 
 ### ART. 8.
 
@@ -282,15 +296,40 @@ In de rechtsgedingen van de Vlaamse Gemeenschap of het Vlaamse Gewest met   betr
 <br>
 § 2. De Vlaamse minister, bevoegd voor de financiën en de begroting, heeft delegatie om ter uitvoering van artikel 91 van het decreet van 18 december 2015 houdende bepalingen tot begeleiding van de begroting:<br>
 1° de saldi die voor de berekening van het bedrag van de herverdeling naar de provisie investeringsmiddelen in aanmerking komen, te beperken;<br>
-2° de kredieten vast te stellen die herverdeeld kunnen worden naar de provisie, vermeld in punt 1°.
+2° de kredieten vast te stellen die herverdeeld kunnen worden naar de provisie, vermeld in punt 1°.<br>
+<br>
+§ 3. De Vlaamse minister, bevoegd voor de financiën en de begrotingen, heeft delegatie om:<br>
+1° rentegevende financieringsmiddelen met inbegrip van thesauriebewijzen als vermeld in artikel 3 van de wet van 22 juli 1991 betreffende de thesauriebewijzen en de depositobewijzen, te creëren;<br>
+2° de voorwaarden en de terugbetalingstermijnen te bepalen of aan te passen, of, in het algemeen, daarover met de geldschieters overeenkomsten af te sluiten;<br>
+3° elke verrichting te doen voor het financieel beheer in het algemeen belang, met inbegrip van het verstrekken van leningen of kredieten en het aangaan van participaties die kaderen in de directe financiering van te consolideren instellingen alsook het stellen van de waarborg van de Vlaamse Gemeenschap of het Vlaamse Gewest, naargelang het geval, van dergelijke operaties door derden;<br>
+4° de terugbetaling van kapitaalsaflossingen van leningen van de directe schuld die op vervaldag komen, door middel van leningen te dekken.<br>
+<br>
+§ 4. De Vlaamse minister, bevoegd voor de financiën en de begrotingen, heeft delegatie om het jaarlijkse percentage vast te stellen van de verbintenissen dat volgens de statistische gegevens over de saldi en de ordonnanties effectief vereffend wordt, als dat is toegestaan in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
 
 ### ART. 13.
 
-De Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, heeft   delegatie om onteigeningsmachtigingen te verlenen ten algemenen nutte, behoudens   in de gevallen bepaald in de wet, aan de gemeenten, de provincies, de autonome   gemeentebedrijven, de autonome provinciebedrijven, de OCMW's, de   intergemeentelijke samenwerkingsverbanden en de provinciale   ontwikkelingsmaatschappijen overeenkomstig het besluit van de Vlaamse Regering   inzake onteigeningen ten algemene nutte ten behoeve van de gemeenten, de   provincies, de autonome gemeentebedrijven, de autonome provinciebedrijven, de   OCMW's, de intergemeentelijke samenwerkingsverbanden en de provinciale   ontwikkelingsmaatschappijen.<BR><BR>De leden van de Vlaamse Regering hebben   delegatie om onteigeningsmachtigingen te verlenen aan instellingen of   rechtspersonen die onder hun bevoegdheid vallen.
+De leden van de Vlaamse Regering hebben delegatie om onteigeningsmachtigingen te verlenen aan instellingen of rechtspersonen die onder hun bevoegdheid vallen.
 
 ### ART 13/1.
 
 De Vlaamse minister, bevoegd voor de ruimtelijke ordening, heeft delegatie om te beslissen over de beroepen inzake opening, afschaffing, wijziging of verlegging van buurtwegen, vermeld in artikel 28 van de wet van 10 april 1841 op de buurtwegen.
+
+### ART 13/2.
+
+De Vlaamse minister, bevoegd voor de culturele aangelegenheden, heeft delegatie om de diensten met afzonderlijk beheer Landcommanderij Alden Biesen, Kasteel van Gaasbeek en Koninklijk Museum voor Schone Kunsten Antwerpen toestemming te geven om bijkomende verbintenissen aan te gaan ten belope van de door de diensten gerealiseerde meerontvangsten, als dat is toegestaan in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
+
+### ART 13/3.
+
+De Vlaamse minister, bevoegd voor de huisvesting, heeft delegatie om de Vlaamse Maatschappij voor Sociaal Wonen in het kader van haar bevoegdheid voor sociale huisvesting te machtigen om:<br>
+1° marktconforme leningen en bulletleningen te verstrekken, met of zonder rentekortingen;<br>
+2° bijzondere sociale leningen te verstrekken aan particulieren;<br>
+3° grondaankopen te financieren vanuit het Rollend Grondfonds.<br>
+<br>
+De Vlaamse minister, bevoegd voor de huisvesting, heeft delegatie om het Vlaams Woningfonds in het kader van zijn bevoegdheid voor sociale huisvesting te machtigen bijzondere sociale leningen te verstrekken aan particulieren.
+
+### ART 13/4.
+
+De Vlaamse minister, bevoegd voor de economie, het wetenschapsbeleid en het technologisch innovatiebeleid, heeft delegatie om in het kader van de opdracht van het Fonds Flankerend Economisch en Innovatiebeleid uitgaven tot 500.000 euro aan te gaan die passen in het sociale, economische en regionale beleid van de Vlaamse Regering.
 
 ## HOOFDSTUK 3 Algemene bepalingen
 
