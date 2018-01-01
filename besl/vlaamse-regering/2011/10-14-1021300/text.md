@@ -23,21 +23,57 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° Rekendecreet : het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof;<br />2° aanrekening : elke boeking op een vastleggings- of vereffeningskrediet, met inbegrip van elke verhoging, vermindering of annulering. <br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° Rekendecreet : het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof;<br>
+2° aanrekening : elke boeking op een vastleggings- of vereffeningskrediet, met inbegrip van elke verhoging, vermindering of annulering;<br>
+3° bevoegde dienst: de dienst binnen het Departement Financiën en Begroting die verantwoordelijk is voor de gegevensverwerking van een herverdeling;<br>
+4° werking en toelage: de begrotingskredieten met het ESR-aggregaat WT;<br>
+5° interne stroom: de begrotingskredieten met het ESR-aggregaat IS.<br>
+&nbsp;
 
 ### ART. 2.
 
-Dit besluit is van toepassing op de Vlaamse ministeries, vermeld in artikel 4, § 1, 1°, van het Rekendecreet.<br /><br />De diensten met afzonderlijk beheer, met uitzondering van VIF en MINA, worden vrijgesteld van het voorafgaande visum van de controleur van de vastleggingen.<br /><br />
+Dit besluit is van toepassing op de Vlaamse ministeries, vermeld in artikel 4, § 1, 1°, van het Rekendecreet.
 
 ## [HOOFDSTUK 1/1. Herverdelingen (ing. BVR 1 juni 2012, art. 4)]
 
 ### ART. 2/1.
 
-De leden van de Vlaamse Regering hebben delegatie voor het uitvoeren van   de volgende herverdelingen : <BR>1° de herverdelingen binnen en tussen de   vastleggingskredieten, vastleggingskredieten van de dienst met afzonderlijk   beheer MINA-fonds en het Vlaams Infrastructuurfonds, en de   vastleggingsmachtigingen van de Vlaamse rechtspersonen, vermeld in artikel 4, §   1, 2°, van het Rekendecreet, binnen hetzelfde programma als vermeld in artikel   20, § 1, van voormeld decreet;<BR>2° de herverdelingen binnen en tussen de   vereffeningskredieten, vereffeningskredieten van de dienst met afzonderlijk   beheer MINA-fonds en het Vlaams Infrastructuurfonds, en de vastleggings- en   vereffeningskredieten, gerelateerd aan de vastleggingsmachtigingen van de   Vlaamse rechtspersonen, vermeld in artikel 4, § 1, 2°, van hetzelfde decreet,   binnen voormeld beleidsdomein als vermeld in artikel 20, § 2, van voormeld   decreet;<BR>3° de herverdelingen van de vastleggingskredieten en de   vereffeningskredieten van een dienst met afzonderlijk beheer tussen de   programma's die deel uitmaken van die dienst, vermeld in artikel 20, § 3, van   voormeld decreet.
+De leden van de Vlaamse Regering hebben delegatie voor het uitvoeren van de volgende herverdelingen :<br>
+1° de herverdelingen binnen en tussen de vastleggingskredieten, vastleggingskredieten van de dienst met afzonderlijk beheer MINA-fonds en het Vlaams Infrastructuurfonds, en de vastleggingsmachtigingen van de Vlaamse rechtspersonen, vermeld in artikel 4, § 1, 2°, van het Rekendecreet, binnen hetzelfde programma als vermeld in artikel 20, § 1, van voormeld decreet;<br>
+2° de herverdelingen binnen en tussen de vereffeningskredieten, vereffeningskredieten van de dienst met afzonderlijk beheer MINA-fonds en het Vlaams Infrastructuurfonds, en de vastleggings- en vereffeningskredieten, gerelateerd aan de vastleggingsmachtigingen van de Vlaamse rechtspersonen, vermeld in artikel 4, § 1, 2°, van hetzelfde decreet, binnen voormeld beleidsdomein als vermeld in artikel 20, § 2, van voormeld decreet;<br>
+3° de herverdelingen van de vastleggingskredieten en de vereffeningskredieten van een dienst met afzonderlijk beheer tussen de programma's die deel uitmaken van die dienst, vermeld in artikel 20, § 3, van voormeld decreet;<br>
+4° de herverdelingen van de vastleggingskredieten en de vereffeningskredieten overheen programma's die in afwijking van het Rekendecreet mogelijk zijn omdat ze worden toegestaan in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.<br>
+<br>
+Het eerste lid, 4°, is niet van toepassing op herverdelingen van provisionele kredieten.
 
 ### ART. 2/2.
 
-<P>§ 1. Het akkoord van de Vlaamse minister, bevoegd voor de begroting, is   vereist voor:<BR>1° de herverdelingen, vermeld in artikel 20, § 1, van hetzelfde   decreet;<BR>2° de herverdelingen, vermeld in artikel 20, § 2, van hetzelfde   decreet, als het herverdelingen met betrekking tot kredietverleningen,   deelnemingen en de aflossing van overheidsschuld betreft;<BR>3° de   herverdelingen, vermeld in artikel 20, § 2, van hetzelfde decreet, als het   herverdelingen betreft tussen verschillende programma's die behoren tot   hetzelfde beleidsdomein;<BR>4° de herverdelingen van de vastleggingskredieten,   vermeld in artikel 20, § 3, van hetzelfde decreet;<BR>5° de herverdelingen van   de vereffeningskredieten, vermeld in artikel 20, § 3, van hetzelfde decreet, als   het herverdelingen met betrekking tot kredietverleningen, deelnemingen, de   aflossing van overheidsschuld, het over te dragen saldo en de spijziging van het   reservefonds betreft.<BR><BR>§ 2. De Vlaamse minister, bevoegd voor de   begroting, bevestigt zo snel mogelijk de ontvangst van een aanvraag tot   herverdeling van kredieten en vermeldt daarbij de datum van ontvangst. Hij doet   uitspraak over de herverdeling van kredieten binnen een periode van twaalf   werkdagen vanaf de ontvangstdatum.<BR><BR>Als de Vlaamse minister, bevoegd voor   de begroting, geen uitspraak doet binnen een periode van twaalf werkdagen, wordt   hij geacht in te stemmen met het voorstel van de functioneel bevoegde   minister.<BR><BR>Als de Vlaamse minister, bevoegd voor de begroting, zijn   akkoord niet verleent, kan de functioneel bevoegde minister zijn voorstel ter   beslissing voorleggen aan de Vlaamse Regering.<BR><BR>§ 3. De Vlaamse minister,   bevoegd voor de begroting, bepaalt de nadere regels voor de indiening van een   aanvraag tot herverdeling van kredieten.</P>
+<p>§ 1. Het akkoord van de Vlaamse minister, bevoegd voor de begroting, is vereist voor:<br>
+1° de herverdelingen, vermeld in artikel 20, § 1, van hetzelfde decreet;<br>
+2° de herverdelingen, vermeld in artikel 20, § 2, van hetzelfde decreet, als het herverdelingen met betrekking tot kredietverleningen, deelnemingen en de aflossing van overheidsschuld betreft;<br>
+3° de herverdelingen, vermeld in artikel 20, § 2, van hetzelfde decreet, als het herverdelingen betreft tussen verschillende programma's die behoren tot hetzelfde beleidsdomein;<br>
+4° de herverdelingen van de vastleggingskredieten, vermeld in artikel 20, § 3, van hetzelfde decreet;<br>
+5° de herverdelingen van de vereffeningskredieten, vermeld in artikel 20, § 3, van hetzelfde decreet, als het herverdelingen met betrekking tot kredietverleningen, deelnemingen, de aflossing van overheidsschuld, het over te dragen saldo en de spijziging van het reservefonds betreft;<br>
+6° herverdelingen van vastleggingskredieten overheen verschillende programma's die in afwijking van het Rekendecreet mogelijk zijn omdat ze worden toegestaan in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.<br>
+<br>
+In afwijking van het eerste lid, is het akkoord van de Vlaamse minister, bevoegd voor de begroting, niet vereist voor herverdelingen binnen hetzelfde programma die worden toegestaan in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.<br>
+<br>
+Het eerste lid, 1° en 4°, is niet van toepassing op de volgende herverdelingen:<br>
+1° herverdelingen van werking en toelage naar interne stroom binnen hetzelfde inhoudelijk structuurelement en binnen hetzelfde programma;<br>
+2° herverdelingen van interne stroom naar werking en toelage als in hetzelfde begrotingsjaar al een herverdeling van werking en toelage naar interne stroom heeft plaatsgevonden tussen de artikels in kwestie, en als de herverdeling het daarbij herverdeelde bedrag niet overschrijdt.<br>
+<br>
+§ 1/2. Als de herverdeling onder de uitzondering, vermeld in paragraaf 1, derde lid, valt, wordt een voorstel van herverdeling ingediend voor een bindend advies technische uitvoerbaarheid bij de bevoegde dienst. De bevoegde dienst verleent zijn advies binnen vijf werkdagen.<br>
+<br>
+Als geen advies wordt meegedeeld binnen de termijn, vermeld in het eerste lid, wordt het advies geacht gunstig te zijn.<br>
+<br>
+§ 2. De Vlaamse minister, bevoegd voor de begroting, bevestigt zo snel mogelijk de ontvangst van een aanvraag tot herverdeling van kredieten en vermeldt daarbij de datum van ontvangst. Hij doet uitspraak over de herverdeling van kredieten binnen een periode van twaalf werkdagen vanaf de ontvangstdatum.<br>
+<br>
+Als de Vlaamse minister, bevoegd voor de begroting, geen uitspraak doet binnen een periode van twaalf werkdagen, wordt hij geacht in te stemmen met het voorstel van de functioneel bevoegde minister.<br>
+<br>
+Als de Vlaamse minister, bevoegd voor de begroting, zijn akkoord niet verleent, kan de functioneel bevoegde minister zijn voorstel ter beslissing voorleggen aan de Vlaamse Regering.<br>
+<br>
+§ 3. De Vlaamse minister, bevoegd voor de begroting, bepaalt de nadere regels voor de indiening van een aanvraag tot herverdeling van kredieten.</p>
 
 ## HOOFDSTUK 2 Handleiding over de boekhoudregels
 
@@ -55,19 +91,53 @@ De Vlaamse minister, bevoegd voor de financiën en de begrotingen, stelt een han
 
 Facturen die nog niet ontvangen zijn op 31 december, worden geboekt in het af te sluiten begrotingsjaar en worden aangerekend op het vereffeningskrediet van het af te sluiten begrotingsjaar als de factuur uiterlijk op 31 januari van het volgende jaar geboekt wordt. Als dan nog geen factuur ontvangen is, wordt de uitgave geregistreerd ten laste van de kredieten van het volgende begrotingsjaar.<br /><br />Voor interesten, huur en vergoedingen voor in de tijd gespreide prestaties die verschuldigd zijn of gevorderd worden, wordt budgettair een proratering toegepast als ze betrekking hebben op verschillende begrotingsjaren en als het te prorateren bedrag groter is dan 7.000 euro.<br /><br />
 
+### ART 5/1.
+
+De volgende uitgaven kunnen gelijktijdig worden aangerekend op het vastleggingskrediet en op het vereffeningskrediet:<br>
+1° de salarissen, de salaristoelagen, de vergoedingen en de sociale voordelen van de personeelsleden van de Vlaamse overheid;<br>
+2° de salarissen en de salaristoelagen van de personeelsleden van de Nederlandstalige peutertuinen en kinderdagverblijven, alsook van de personeelsleden van het voor- en naschoolse toezicht, verbonden aan de scholen van het Gemeenschapsonderwijs in Brussel-Hoofdstad, alsook de salaristoelagen voor het leidinggevende en technische personeel van de erkende openbare gemeentelijke, provinciale en privaatrechtelijke bibliotheken;<br>
+3° de salarissen en de salaristoelagen, fietsvergoedingen en vervoerkosten van de personeelsleden van het basisonderwijs, het secundair onderwijs, het hoger onderwijs, met uitzondering van het universitair onderwijs, het buitengewoon onderwijs, het secundair volwassenenonderwijs, het hoger beroepsonderwijs, het deeltijds kunstonderwijs, de diensten voor beroepsoriëntering, de centra voor leerlingenbegeleiding, de onderwijsinspectie, de pedagogische begeleidingsdiensten, alsook de salarissen en de salaristoelagen voor de personeelsleden van de basiseducatie;<br>
+4° de toelagen, de vergoedingen en de presentiegelden voor de afgevaardigden van de Vlaamse Regering;<br>
+5° de schadevergoedingen die toegewezen zijn op basis van een uitvoerbaar vonnis of arrest, of een dading;<br>
+6° de aflossingen van kapitaal en rente die betaald zijn onder het beleidsdomein Financiën en Begroting;<br>
+7° de betaling van de moratoriumintresten die verschuldigd zijn aan belastingplichtigen in het kader van de inning van belastingen door de Vlaamse Belastingdienst;<br>
+8° overheidsopdrachten die gesloten zijn met een aanvaarde factuur;<br>
+9° alle werkingskosten die niet hoger zijn dan 30.000 euro;<br>
+10° de kantoorkosten, de huur en huurkosten, en de abonnementen op publicaties, ongeacht het bedrag ervan;<br>
+11° de besluiten tot toekenning van subsidies, prijzen en giften waarvan het bedrag lager is dan 7000 euro;<br>
+12° de toelagen aan de diensten met afzonderlijk beheer;<br>
+13° de terugbetaling van ten onrechte geïnde ontvangsten;<br>
+14° de honoraria van experts uit het buitenland, ongeacht het bedrag ervan, en de toelagen die voortvloeien uit regelingen met vreemde landen waarvan het bedrag lager is dan 1250 euro per begunstigde;<br>
+15° de voorschotten en afrekeningen van de buitenlandse zendingen, ongeacht het bedrag ervan;<br>
+16° de reiskosten van de personen die uit het buitenland komen of zich naar het buitenland begeven, ongeacht het bedrag ervan;<br>
+17° de uitgaven voor nutsvoorzieningen en energiefacturen, ongeacht het bedrag ervan;<br>
+18° de onroerende voorheffing op het patrimonium van het Vlaamse Gewest, ongeacht het bedrag ervan;<br>
+19° de milieuheffingen, ongeacht het bedrag ervan;<br>
+20° de uitgaven in het kader van de aanmoedigingspremies voor de openbare, de privé- en de socialprofitsector;<br>
+21° de subsidies en loontegemoetkomingen in het kader van het derdearbeidscircuit, de gesubsidieerde contractuelen en de werkervaringsmaatregelen;<br>
+22° de subsidies en loontegemoetkomingen in het kader van de invoegbedrijven, de sociale en beschutte werkplaatsen, de lokale diensteneconomie en de arbeidszorg;<br>
+23° alle schulden die voortvloeien uit contracten met vervrachters voor het strooien van dooizouten en het sneeuwruimen met betrekking tot de winterdienst, ongeacht het bedrag ervan;<br>
+24° de uitgaven waarvan het bedrag niet hoger is dan 37.500 euro voor het geïntegreerd beheers- en controlesysteem;<br>
+25° alle betalingen aan de nv Tunnel Liefkenshoek die voortvloeien uit het tolvrij openstellen van de Liefkenshoektunnel ten gevolge van verkeersincidenten of calamiteiten die een belangrijke hinder doen ontstaan op de ring van Antwerpen, de toegangswegen naar de ring of in de Kennedytunnel gedurende de verplichte omleiding, ongeacht het bedrag ervan;<br>
+26° alle schulden, ongeacht het bedrag ervan, die voortvloeien uit de herstelling van averijen aan elektrische en elektromechanische installaties op de gewestwegen en waterwegen, alsook het overige patrimonium dat onder de bevoegdheid van het agentschap Wegen en Verkeer valt;<br>
+27° de betaling van de declaraties, inclusief de rentedeclaraties, met toepassing van het verdrag tussen het Vlaamse Gewest en het Koninkrijk der Nederlanden inzake de verruiming van de vaarweg in de Westerschelde ondertekend in Antwerpen op 17 januari 1995, de werken op Nederlands grondgebied aan het kanaal Gent - Terneuzen en de realisatie van de langetermijnvisie Schelde, ongeacht het bedrag ervan;<br>
+28° de pensioenen voor de vastbenoemde personeelsleden van de VRT en de overlevingspensioenen, toegekend aan de rechtverkrijgenden van die personeelsleden uitbetaald door de Vlaamse Gemeenschap;<br>
+29° het vervangend leefloon voor personen onder elektronisch toezicht;<br>
+30° uitgaven waarvoor de uitdrukkelijke gelijktijdige aanrekening in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap wordt toegestaan.
+
 ## HOOFDSTUK 4 [... (opgeh. BVR 22 december 2017, art. 16, I: 1 januari 2018)]
 
 ### ART. 6.
 
-De controleur van de vastleggingen ziet erop toe dat de voorgestelde uitgave op het juiste begrotingsartikel wordt aangerekend en dat het desbetreffende krediet niet wordt overschreden. Hij gaat ook de wettelijkheid en regelmatigheid van de voorgestelde uitgave na voor hij zijn visum verleent.<br /><br />
+...
 
 ### ART. 7.
 
-<P>§ 1. De volgende uitgaven zijn vrijgesteld van het voorafgaande visum van de   controleur van de vastleggingen:<BR>1° de salarissen, de salaristoelagen, de   vergoedingen en de sociale voordelen van de personeelsleden van de Vlaamse   overheid;<BR>2° de salarissen en de salaristoelagen van de personeelsleden van   de Nederlandstalige peutertuinen en kinderdagverblijven, alsook van de   personeelsleden van het voor- en naschoolse toezicht, verbonden aan de scholen   van het Gemeenschapsonderwijs in Brussel-Hoofdstad, alsook de salaristoelagen   voor het leidinggevende en technische personeel van de erkende openbare   gemeentelijke, provinciale en privaatrechtelijke bibliotheken;<BR>3° de   salarissen en de salaristoelagen, fietsvergoedingen en vervoerkosten van de   personeelsleden van het basis-, secundair, hoger onderwijs (met uitzondering van   het universitair onderwijs), het buitengewoon onderwijs, het secundair   volwassenenonderwijs, het hoger beroepsonderwijs, het deeltijds kunstonderwijs,   de diensten voor beroepsoriëntering, de centra voor leerlingenbegeleiding, de   onderwijsinspectie, de pedagogische begeleidingsdiensten, alsook de salarissen   en de salaristoelagen voor de basiseducatie;<BR>4° de toelagen, de vergoedingen   en de presentiegelden voor de afgevaardigden van de Vlaamse Regering;<BR>5° de   schadevergoedingen, toegewezen op basis van een uitvoerbaar vonnis of arrest of   een afgesloten dading;<BR>6° de aflossingen van kapitaal en rente, bepaald onder   het beleidsdomein Financiën en Begroting;<BR>7° de betaling van de   moratoriumintresten, verschuldigd aan belastingplichtigen in het kader van de   inning van de onroerende voorheffing, de verkeersbelasting, de belasting op de   inverkeerstelling en het eurovignet door het Vlaamse Gewest, van de heffing ter   bestrijding van de leegstand en verkrotting van gebouwen of woningen, van de   heffing ter bestrijding en voorkoming van de leegstand en verwaarlozing van   bedrijfsruimten;<BR>8° overheidsopdrachten, gesloten met een aanvaarde   factuur;<BR>9° alle werkingskosten die niet hoger zijn dan 8.500 euro;<BR>10° de   kantoorkosten, de huur en huurkosten, en de abonnementen op publicaties,   ongeacht het bedrag ervan;<BR>11° de besluiten tot toekenning van subsidies,   prijzen en giften waarvan het bedrag lager is dan 7000 euro;<BR>12° de toelagen   aan de diensten met afzonderlijk beheer;<BR>13° de terugbetaling van ten   onrechte geïnde ontvangsten;<BR>14° de honoraria van experts uit het buitenland,   ongeacht het bedrag ervan, en de toelagen die voortvloeien uit regelingen met   vreemde landen waarvan het bedrag lager is dan 1250 euro per begunstigde;<BR>15°   de voorschotten en afrekeningen met betrekking tot de buitenlandse zendingen,   ongeacht het bedrag ervan;<BR>16° de reiskosten van de personen die uit het   buitenland komen of zich naar het buitenland begeven, ongeacht het bedrag   ervan;<BR>17° de uitgaven voor nutsvoorzieningen en energiefacturen, ongeacht   het bedrag ervan;<BR>18° de onroerende voorheffing op het patrimonium van het   Vlaamse Gewest, ongeacht het bedrag ervan;<BR>19° de milieuheffingen, ongeacht   het bedrag ervan;<BR>20° de uitgaven in het kader van de aanmoedigingspremies   voor de openbare, de privé- en de socialprofitsector;<BR>21° de subsidies en   loontegemoetkomingen in het kader van het derdearbeidscircuit, de gesubsidieerde   contractuelen en de werkervaringsmaatregelen;<BR>22° de subsidies en   loontegemoetkomingen in het kader van de invoegbedrijven, de sociale en   beschutte werkplaatsen, de lokale diensteneconomie en de arbeidszorg;<BR>23°   alle schuldvorderingen die voortvloeien uit contracten met vervrachters voor het   strooien van dooizouten en het sneeuwruimen met betrekking tot de winterdienst,   ongeacht het bedrag ervan;<BR>24° de uitgaven waarvan het bedrag niet hoger is   dan 37.500 euro voor het geïntegreerd beheers- en controlesysteem;<BR>25° alle   betalingen aan de nv Tunnel Liefkenshoek die voortvloeien uit het tolvrij   openstellen van de Liefkenshoektunnel ten gevolge van verkeersincidenten of   calamiteiten die een belangrijke hinder doen ontstaan op de ring van Antwerpen,   de toegangswegen naar de ring of in de Kennedytunnel gedurende de verplichte   omleiding, ongeacht het bedrag ervan;<BR>26° alle schuldvorderingen, ongeacht   het bedrag ervan, die voortvloeien uit de herstelling van averijen aan   elektrische en elektromechanische installaties op de gewestwegen en waterwegen,   alsook het overige patrimonium dat onder de bevoegdheid van het agentschap Wegen   en Verkeer valt;<BR>27° de betaling van de declaraties, inclusief de   rentedeclaraties, met toepassing van het verdrag tussen het Koninkrijk der   Nederlanden en het Vlaamse Gewest inzake de verruiming van de vaarweg in de   Westerschelde, de werken op Nederlands grondgebied aan het kanaal Gent -   Terneuzen en de realisatie van de langetermijnvisie Schelde, ongeacht het bedrag   ervan;<BR>28° uitgaven die vrijgesteld zijn op basis van een decretale   toelating.<BR><BR>§ 2. De uitgaven blijven onderhevig aan een   a-posterioricontrole door de controleur van de vastleggingen.<BR><BR>§ 3. De   uitgaven kunnen gelijktijdig aangerekend worden op het vastleggingskrediet en op   het vereffeningskrediet.<BR><BR>§ 4. De budgettaire aanrekening op de   vastleggingskredieten van budgetreserveringen waarvan de definitieve begunstigde   of het bedrag per begunstigde nog niet bekend is op 31 december, moeten voorzien   worden van het visum van de controleur van de vastleggingen om overgedragen te   worden naar het volgende begrotingsjaar.</P>
+...
 
 ### ART. 8.
 
-De entiteit die voor de uitgave verantwoordelijk is, legt aan de controleur van de vastleggingen een visumverleningsvraag voor die de volgende inlichtingen bevat :<br />1° de vermoedelijke uitgave volgens de overeenkomst of het toekenningsbesluit;<br />2° het begrotingsjaar en het vastleggingskrediet waarop de uitgave aangerekend moet worden;<br />3° in voorkomend geval, de leverancier, aannemer, schuldeiser of begunstigde;<br />4° de naam van de dossierbehandelaar.<br /><br />De visumverleningsvraag gaat gepaard met de terbeschikkingstelling van alle bewijsstukken en van de nodige adviezen en akkoorden ter uitvoering van de richtlijnen voor de begrotingscontrole.<br /><br />
+...
 
 ## [HOOFDSTUK 4/1. De begroting en de boekhouding van de diensten met afzonderlijk beheer (ing. BVR 1 juni 2012, art. 5)]
 
