@@ -2,16 +2,16 @@
   "codex_id": 1023499,
   "title": "Decreet van 2013-12-13 houdende de Vlaamse Codex Fiscaliteit (citeeropschrift: \"Vlaamse Codex Fiscaliteit van 13 december 2013\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023499/VolledigDocument?datum=2017-12-24",
-  "source_sha256": "3fa8640679c0675340b601c590ef379225f93a62a1f8ee4e942a206da5664d33",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023499/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "286890a877f892ead27828fed4e141582223f431cd2c6a4101b846fee5f01e16",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023499&param=informatie",
-  "as_of": "2017-12-24",
+  "as_of": "2018-01-01",
   "made": "2013-12-13",
   "gazette": "2013-12-23",
   "numac": 2013036154,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2017-12-24",
+  "in_force": "2018-01-01",
   "article_versions": 593,
-  "record_form": "consolidated version as in force on 2017-12-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }

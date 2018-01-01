@@ -169,11 +169,45 @@ Voor de vaststelling van de belastbare grondslag wordt geen rekening   gehouden 
 
 ### ART. 2.1.4.0.1.
 
-<P>§ 1. Het tarief van de onroerende voorheffing bedraagt 2,5 %.<BR></P>  <P>§ 2. In afwijking van paragraaf 1 bedraagt het tarief 1,6 % voor :<BR>1° de   eigendommen die als sociale woningen worden verhuurd en toebehoren aan Openbare   Centra voor Maatschappelijk Welzijn of aan door haar opgerichte verenigingen   waarvan slechts één of meer Openbare Centra voor Maatschappelijk Welzijn deel   uitmaken;<BR>2° de eigendommen die als sociale woningen worden verhuurd en   toebehoren aan gemeenten;<BR>3° de eigendommen die als sociale woningen worden   verhuurd en toebehoren aan de Vlaamse Maatschappij voor Sociaal Wonen of aan de   erkende sociale huisvestingsmaatschappijen, vermeld in artikel 40 van het   decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<BR>4° de eigendommen die   als sociale woningen worden verhuurd en toebehoren aan het Vlaams   Woningfonds;<BR>5° de eigendommen die als sociale woningen worden verhuurd en   toebehoren aan een erkend sociaal verhuurkantoor;<BR>6° de eigendommen die door   een erkend sociaal verhuurkantoor worden gehuurd met toepassing van en in   overeenstemming met de voorwaarden, vermeld in artikel 2 en 3 van het besluit   van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en   subsidievoorwaarden van sociale verhuurkantoren;<BR>7° de eigendommen die   toebehoren aan rechtspersonen, erkend overeenkomstig artikel 7, tweede lid, van   het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd   agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een   Handicap en die gebruikt worden voor wooninfrastructuur voor personen met een   handicap, vermeld in artikel 2, 2°, van hetzelfde decreet, die een duidelijk   vastgestelde behoefte aan zorg en ondersteuning hebben. De Vlaamse Regering   bepaalt de wijze waarop de behoefte aan zorg en ondersteuning wordt   vastgesteld.</P>  <P>Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op   gelijkaardige onroerende goederen van gelijkaardige rechtspersonen die opgericht   zijn volgens en onderworpen zijn aan de wetgeving van een staat van de Europese   Economische Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of   hun hoofdvestiging binnen de Europese Economische Ruimte hebben.</P>  <P>Het verlaagde tarief, vermeld in het eerste lid, 6°, wordt toegekend vanaf   het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de   Vlaamse administratie gemeld wordt dat de eigendom op 1 januari van het   aanslagjaar gehuurd wordt door een erkend sociaal verhuurkantoor. De toekenning   geldt tot het einde van de huurovereenkomst. Elke vroegtijdige beëindiging van   de huurovereenkomst moet uiterlijk op 31 maart van het jaar dat volgt op de   beëindiging aan de bevoegde entiteit van de Vlaamse administratie gemeld   worden.</P>  <P>Het verlaagde tarief, vermeld in het eerste lid, 7°, wordt toegekend vanaf   het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de   Vlaamse administratie gemeld wordt dat een rechtspersoon erkend is   overeenkomstig artikel 7, tweede lid, van het decreet van 7 mei 2004 tot   oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid   Vlaams Agentschap voor Personen met een Handicap. De toekenning geldt tot het   einde van de erkenning. Elke beëindiging van een erkenning moet uiterlijk op 31   maart van het jaar dat volgt op de beëindiging aan de bevoegde entiteit van de   Vlaamse administratie gemeld worden.</P>  <P>§ 3. In afwijking van paragraaf 1 bedraagt het tarief voor materieel en   outillage als vermeld in artikel 471, § 3, van het federale WIB 92, 2,5 %   vermenigvuldigd met de coëfficiënt, vermeld in het tweede lid. De toepassing van   de coëfficiënt mag geen aanleiding geven tot een hoger tarief dan het tarief dat   van toepassing is in het vorige aanslagjaar.<BR></P>  <P>De coëfficiënt wordt verkregen door het gemiddelde van de maandelijkse   indexcijfers van het jaar 1996 te delen door het gemiddelde van de maandelijkse   indexcijfers van het jaar dat voorafgaat aan het jaar van de inkomsten. Daarbij   worden de volgende afrondingen toegepast :<BR>1° het gemiddelde van de   maandelijkse indexcijfers wordt afgerond op het hogere of lagere honderdste   naargelang het cijfer van de duizendsten al of niet vijf bereikt;<BR>2° de   coëfficiënt wordt afgerond op het hogere of lagere tienduizendste naargelang het   cijfer van de honderdduizendsten al of niet vijf bereikt;<BR>3° na de toepassing   van de coëfficiënt wordt het verkregen tariefbedrag afgerond op het hogere of   lagere honderdste naargelang het cijfer van de duizendsten al of niet vijf   bereikt.<BR></P>
+<p>§ 1. Het tarief van de onroerende voorheffing bedraagt 3,97 %.</p>
+
+<p>§ 2. In afwijking van paragraaf 1 bedraagt het tarief 2,54 % voor :<br>
+1° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan Openbare Centra voor Maatschappelijk Welzijn of aan door haar opgerichte verenigingen waarvan slechts één of meer Openbare Centra voor Maatschappelijk Welzijn deel uitmaken;<br>
+2° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan gemeenten;<br>
+3° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan de Vlaamse Maatschappij voor Sociaal Wonen of aan de erkende sociale huisvestingsmaatschappijen, vermeld in artikel 40 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+4° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan het Vlaams Woningfonds;<br>
+5° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan een erkend sociaal verhuurkantoor;<br>
+6° de eigendommen die door een erkend sociaal verhuurkantoor worden gehuurd met toepassing van en in overeenstemming met de voorwaarden, vermeld in artikel 2 en 3 van het besluit van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren;<br>
+7° de eigendommen die toebehoren aan rechtspersonen, erkend overeenkomstig artikel 7, tweede lid, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap en die gebruikt worden voor wooninfrastructuur voor personen met een handicap, vermeld in artikel 2, 2°, van hetzelfde decreet, die een duidelijk vastgestelde behoefte aan zorg en ondersteuning hebben. De Vlaamse Regering bepaalt de wijze waarop de behoefte aan zorg en ondersteuning wordt vastgesteld.</p>
+
+<p>Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijkaardige onroerende goederen van gelijkaardige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een staat van de Europese Economische Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.</p>
+
+<p>Het verlaagde tarief, vermeld in het eerste lid, 6°, wordt toegekend vanaf het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de Vlaamse administratie gemeld wordt dat de eigendom op 1 januari van het aanslagjaar gehuurd wordt door een erkend sociaal verhuurkantoor. De toekenning geldt tot het einde van de huurovereenkomst. Elke vroegtijdige beëindiging van de huurovereenkomst moet uiterlijk op 31 maart van het jaar dat volgt op de beëindiging aan de bevoegde entiteit van de Vlaamse administratie gemeld worden.</p>
+
+<p>Het verlaagde tarief, vermeld in het eerste lid, 7°, wordt toegekend vanaf het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de Vlaamse administratie gemeld wordt dat een rechtspersoon erkend is overeenkomstig artikel 7, tweede lid, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap. De toekenning geldt tot het einde van de erkenning. Elke beëindiging van een erkenning moet uiterlijk op 31 maart van het jaar dat volgt op de beëindiging aan de bevoegde entiteit van de Vlaamse administratie gemeld worden.</p>
+
+<p>§ 3. In afwijking van paragraaf 1 bedraagt het tarief voor materieel en outillage als vermeld in artikel 471, § 3, van het federale WIB 92, 3,97% vermenigvuldigd met de coëfficiënt, vermeld in het tweede lid. De toepassing van de coëfficiënt mag geen aanleiding geven tot een hoger tarief dan het tarief dat van toepassing is in het vorige aanslagjaar, met uitzondering van het aanslagjaar waarin dit decreet in werking treedt waarbij de toepassing van de coëfficiënt geen aanleiding mag geven tot een hoger tarief dan 3,97%.<br>
+<br>
+De coëfficiënt wordt verkregen door het gemiddelde van de maandelijkse indexcijfers van het jaar 1996 te delen door het gemiddelde van de maandelijkse indexcijfers van het jaar dat voorafgaat aan het jaar van de inkomsten. Daarbij worden de volgende afrondingen toegepast :<br>
+1° het gemiddelde van de maandelijkse indexcijfers wordt afgerond op het hogere of lagere honderdste naargelang het cijfer van de duizendsten al of niet vijf bereikt;<br>
+2° de coëfficiënt wordt afgerond op het hogere of lagere tienduizendste naargelang het cijfer van de honderdduizendsten al of niet vijf bereikt;<br>
+3° na de toepassing van de coëfficiënt wordt het verkregen tariefbedrag afgerond op het hogere of lagere honderdste naargelang het cijfer van de duizendsten al of niet vijf bereikt.</p>
 
 ### ART. 2.1.4.0.2.
 
-Overeenkomstig artikel 464/1, 1°, van het federale WIB 92, zijn de   provincies, de agglomeraties en de gemeenten gemachtigd tot het heffen van   opcentiemen op de onroerende voorheffing.<BR>
+§ 1. Overeenkomstig artikel 464/1, 1°, van het Wetboek van de Inkomstenbelastingen 1992, zijn de provincies, gemeenten en de agglomeraties gemachtigd om opcentiemen op de onroerende voorheffing te heffen.<br>
+<br>
+§ 2. Voor iedere gemeente van het Vlaamse Gewest mag het tarief, vermeld in artikel 2.1.4.0.1, op zichzelf de opbrengst van de gemeentelijke opcentiemen van het aanslagjaar waarin dit artikel in werking treedt niet verhogen ten opzichte van het vorige aanslagjaar.<br>
+Als een gemeente de opbrengst van haar deel in die onroerende voorheffing evenwel wil wijzigen, geeft ze dat expliciet aan in haar beslissing en vermeldt ze afzonderlijk :<br>
+1° het aantal opcentiemen dat nodig is om, op haar niveau, dezelfde opbrengst te verkrijgen als in het aanslagjaar voorafgaand aan het aanslagjaar waarin dit artikel in werking treedt;<br>
+2° het aantal opcentiemen dat voor het aanslagjaar waarin dit artikel in werking treedt daadwerkelijk wordt geheven.<br>
+<br>
+§ 3. Voor iedere provincie van het Vlaamse Gewest mogen de provinciale opcentiemen niet meer bedragen dan :<br>
+1° voor de provincie Antwerpen : 145,33 opcentiemen;<br>
+2° voor de provincie Limburg : 214,52 opcentiemen;<br>
+3° voor de provincie Oost-Vlaanderen : 148,47 opcentiemen;<br>
+4° voor de provincie Vlaams-Brabant : 171,75 opcentiemen;<br>
+5° voor de provincie West-Vlaanderen : 186,22 opcentiemen.
 
 ## Afdeling 5 Verminderingen
 
@@ -186,57 +220,58 @@ Overeenkomstig artikel 464/1, 1°, van het federale WIB 92, zijn de   provincies
 <table border="1">
 	<tbody>
 		<tr>
-			<td>aantal kinderen dat in aanmerking komt</td>
+			<td>"aantal kinderen dat in aanmerking komt</td>
 			<td>totaalbedrag van de vermindering in euro</td>
 		</tr>
 		<tr>
 			<td>2</td>
-			<td>5,40</td>
+			<td>8,58</td>
 		</tr>
 		<tr>
 			<td>3</td>
-			<td>8,55</td>
+			<td>13,58</td>
 		</tr>
 		<tr>
 			<td>4</td>
-			<td>11,97</td>
+			<td>19,01</td>
 		</tr>
 		<tr>
 			<td>5</td>
-			<td>15,69</td>
+			<td>24,92</td>
 		</tr>
 		<tr>
 			<td>6</td>
-			<td>19,68</td>
+			<td>31,25</td>
 		</tr>
 		<tr>
 			<td>7</td>
-			<td>23,97</td>
+			<td>38,06</td>
 		</tr>
 		<tr>
 			<td>8</td>
-			<td>28,56</td>
+			<td>45,35</td>
 		</tr>
 		<tr>
 			<td>9</td>
-			<td>33,42</td>
+			<td>53,07</td>
 		</tr>
 		<tr>
 			<td>10</td>
-			<td>38,60</td>
+			<td>61,30</td>
 		</tr>
 	</tbody>
 </table>
 
 <p><br>
-Eenheden boven het tiende geven recht op een verhoging van de vermindering met 5,40 euro. De totale bedragen, vermeld in de tabel, en het bedrag van de voormelde verhoging van de vermindering met 5,40 euro worden jaarlijks aangepast aan het indexcijfer van de consumptieprijzen van het Rijk. Die aanpassing gebeurt op basis van een coëfficiënt die verkregen wordt door het gemiddelde van de maandelijkse indexcijfers van het jaar dat voorafgaat aan het jaar van de inkomsten, te delen door het gemiddelde van de maandelijkse indexcijfers van het jaar 1996. Na de toepassing van de coëfficiënt worden de bedragen afgerond door weglating van de centgedeelten na de tweede decimaal;<br>
+Eenheden boven het tiende geven recht op een verhoging van de vermindering met 8,58 euro. De totale bedragen, vermeld in de tabel, en het bedrag van de voormelde verhoging van de vermindering met 8,58 euro worden jaarlijks aangepast aan het indexcijfer van de consumptieprijzen van het Rijk. Die aanpassing gebeurt op basis van een coëfficiënt die verkregen wordt door het gemiddelde van de maandelijkse indexcijfers van het jaar dat voorafgaat aan het jaar van de inkomsten, te delen door het gemiddelde van de maandelijkse indexcijfers van het jaar 1996. Na de toepassing van de coëfficiënt worden de bedragen afgerond door weglating van de centgedeelten na de tweede decimaal;<br>
 3° de onroerende voorheffing per gehandicapte persoon, met uitsluiting van de gehandicapte kinderen, vermeld in punt 2°, voor de woning waar de gehandicapte persoon volgens het bevolkingsregister op 1 januari van het aanslagjaar zijn woonplaats heeft. Deze vermindering wordt berekend alsof het een gehandicapt kind betreft.</p>
 
 <p>§ 2. Er wordt een vermindering verleend van :<br>
 1° 20 % van de onroerende voorheffing gedurende tien jaar voor woningen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend vóór 1 januari 2013 en die op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E60;<br>
 2° 20 % van de onroerende voorheffing gedurende tien jaar voor andere gebouwde onroerende goederen dan woningen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend vóór 1 januari 2013 en die op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E70;<br>
 3° 40 % van de onroerende voorheffing gedurende tien jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend vóór 1 januari 2013 en die op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E40;<br>
-4° 50% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend na 31 december 2012 en die op 1 januari van het aanslagjaar ten hoogste een E-peil hebben volgens de volgende tabel:</p>
+4° 50% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend na 31 december 2012 en die op 1 januari van het aanslagjaar ten hoogste een E-peil hebben volgens de volgende tabel:<br>
+&nbsp;</p>
 
 <table border="1">
 	<tbody>
@@ -306,7 +341,8 @@ Eenheden boven het tiende geven recht op een verhoging van de vermindering met 5
 		</tr>
 	</tbody>
 </table>
-<br>
+
+<p><br>
 Het E-peil, vermeld in het eerste lid, is het peil van primair energieverbruik, zoals berekend ter uitvoering van titel XI van het Energiedecreet van 8 mei 2009.<br>
 <br>
 De grens van het E-peil waaraan het gebouwde onroerend goed moet voldoen voor de vermindering, wordt vastgesteld rekening houdend met het ogenblik waarop de volledige aanvraag van een stedenbouwkundige vergunning is ingediend.<br>
@@ -317,7 +353,8 @@ De termijn van vijf jaar, vermeld in het eerste lid, 4° en 5°, neemt een aanva
 <br>
 Alleen de gebouwde onroerende goederen waarvoor het vereiste E-peil voor het gebouw als geheel is bepaald, komen in aanmerking voor de verminderingen, vermeld in het eerste lid. De verminderingen worden alleen toegekend als het gaat om renovatie of nieuwbouw als vermeld in artikel 1.1.1, § 2, 50° en 110°, van het Energiebesluit van 19 november 2010.<br>
 <br>
-Bij de overdracht van een onroerend goed waarvoor een vermindering als vermeld in het eerste lid, is verleend, wordt de vermindering vanaf het aanslagjaar dat volgt op het jaar van de overdracht, verder toegekend aan de verkrijger van het goed, voor de nog resterende aanslagjaren in de periode van tien jaar of vijf jaar.
+Bij de overdracht van een onroerend goed waarvoor een vermindering als vermeld in het eerste lid, is verleend, wordt de vermindering vanaf het aanslagjaar dat volgt op het jaar van de overdracht, verder toegekend aan de verkrijger van het goed, voor de nog resterende aanslagjaren in de periode van tien jaar of vijf jaar.</p>
+
 <p>&nbsp;</p>
 
 ### ART. 2.1.5.0.2.
@@ -349,15 +386,27 @@ Als de grens van 745 euro, vermeld in artikel 2.1.5.0.1, § 1, 1°, wordt   over
 
 ### ART. 2.1.5.0.6.
 
-<p>Voor de onbebouwde onroerende goederen in het Vlaams Ecologisch Netwerk, vermeld in artikel 17 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wordt aan de belastingplichtige een belastingkrediet toegekend dat gelijk is aan 2,5 % van het kadastraal inkomen.</p>
-
-<p>Het belastingkrediet, vermeld in het eerste lid, komt volledig ten laste van het Vlaamse Gewest en kan nooit meer bedragen dan de onroerende voorheffing, zoals bepaald in artikel 2.1.4.0.1.</p>
-
-<p>Het belastingkrediet, vermeld in het eerste lid, geldt vanaf de inwerkingtreding van het definitief vastgestelde plan, vermeld in artikel 21, § 9, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, of van het gewestelijk ruimtelijk uitvoeringsplan, vermeld in artikel 2.2.11 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.</p>
+Voor de onbebouwde onroerende goederen in het Vlaams Ecologisch Netwerk, vermeld in artikel 17 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wordt aan de belastingplichtige een belastingkrediet toegekend dat gelijk is aan :<br>
+1° 2,5 % van het kadastraal inkomen als het tarief, vermeld in artikel 2.1.4.0.1, § 1, van toepassing is;<br>
+2° 1,6 % van het kadastraal inkomen als het tarief, vermeld in artikel 2.1.4.0.1, § 2, van toepassing is;<br>
+3° 2,5 % van het kadastraal inkomen vermenigvuldigd met de coëfficiënt, vermeld in artikel 2.1.4.0.1, § 3, tweede lid, als het tarief, vermeld in artikel 2.1.4.0.1, § 3, van toepassing is.<br>
+<br>
+Het belastingkrediet, vermeld in het eerste lid, kan nooit meer bedragen dan de onroerende voorheffing, na toepassing van vrijstellingen en verminderingen.<br>
+<br>
+Het belastingkrediet, vermeld in het eerste lid, komt volledig ten laste van het Vlaamse Gewest.<br>
+<br>
+Het belastingkrediet, vermeld in het eerste lid, geldt vanaf de inwerkingtreding van het definitief vastgestelde plan, vermeld in artikel 21, § 9, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, of van het gewestelijk ruimtelijk uitvoeringsplan, vermeld in artikel 2.2.11 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.
 
 ### ART. 2.1.5.0.7.
 
-<P>Aan de belastingplichtige rechtspersoon wordt een belastingkrediet toegekend   dat gelijk is aan het bedrag van de onroerende voorheffing, zoals bepaald in   artikel 2.1.4.0.1.<BR></P>  <P>Het belastingkrediet, vermeld in het eerste lid, komt volledig ten laste van   het Vlaamse Gewest.<BR></P>
+Aan de belastingplichtige rechtspersoon wordt een belastingkrediet toegekend dat gelijk is aan :<br>
+1° 2,5 % van het kadastraal inkomen als het tarief, vermeld in artikel 2.1.4.0.1, § 1, van toepassing is;<br>
+2° 1,6 % van het kadastraal inkomen als het tarief, vermeld in artikel 2.1.4.0.1, § 2, van toepassing is;<br>
+3° 2,5 % van het kadastraal inkomen vermenigvuldigd met de coëfficiënt, vermeld in artikel 2.1.4.0.1, § 3, tweede lid, als het tarief, vermeld in artikel 2.1.4.0.1, § 3, van toepassing is.<br>
+<br>
+Het belastingkrediet, vermeld in het eerste lid, kan nooit meer bedragen dan de onroerende voorheffing, na toepassing van vrijstellingen en verminderingen.<br>
+<br>
+Het belastingkrediet, vermeld in het eerste lid, komt volledig ten laste van het Vlaamse Gewest.
 
 ## Afdeling 6 Vrijstellingen
 
@@ -1548,12 +1597,12 @@ Er wordt een gehele of gedeeltelijke vrijstelling van de aanvullende   verkeersb
 
 <p>De belasting, betaald voor vrachtauto's, tractors, aanhangwagens en opleggers, wordt terugbetaald als die voertuigen afstanden afleggen in het kader van gecombineerd vervoer als vermeld in artikel 1 van Richtlijn nr. 92/106/EEG van de Raad van 7 december 1992 houdende vaststelling van gemeenschappelijke voorschriften voor bepaalde vormen van gecombineerd vervoer van goederen tussen Lid-Staten.</p>
 
-<p>De terugbetaling (T), vermeld in het eerste lid, wordt op forfaitaire wijze berekend volgens de volgende formule: T = t * n/220, waarbij:<br>
+<p>De terugbetaling (T), vermeld in het eerste lid, wordt op forfaitaire wijze berekend volgens de volgende formule: T = t * n/100, waarbij:<br>
 1° t = het bedrag van de verschuldigde verkeersbelasting voor het voertuig;<br>
-2° n = het aantal overslagverrichtingen tijdens de belastbare periode waarbij de vrachtwagen, de aanhangwagen, de oplegger met of zonder trekker, de wissellaadbak of de container van 20 voet en meer overschakelt van vervoer per spoor, via zeetraject of via de binnenwateren naar vervoer over de weg of omgekeerd. De parameter n mag niet meer dan 220 bedragen.<br>
+2° n = het aantal overslagverrichtingen tijdens de belastbare periode waarbij de vrachtwagen, de aanhangwagen, de oplegger met of zonder trekker, de wissellaadbak of de container van 20 voet en meer overschakelt van vervoer per spoor, via zeetraject of via de binnenwateren naar vervoer over de weg of omgekeerd. De parameter n mag niet meer dan 100 bedragen.<br>
 <br>
 In het tweede lid wordt verstaan onder:<br>
-1° overslagverrichting: het verplaatsen van intermodale transporteenheden van de ene vervoersmodus, namelijk per spoor, via zeetraject of via de binnenwateren, naar de andere vervoersmodus, namelijk vervoer over de weg, of omgekeerd, waarbij de verplaatsing plaatsvindt tussen minstens twee staten van de Europese Economische Ruimte en waarbij de overslagverrichting in België gebeurt;<br>
+1° overslagverrichting: het verplaatsen van intermodale transporteenheden van de ene vervoersmodus, namelijk per spoor, via zeetraject of via de binnenwateren, naar de andere vervoersmodus, namelijk vervoer over de weg, of omgekeerd, waarbij de verplaatsing plaatsvindt tussen minstens twee staten van de Europese Economische Ruimte;<br>
 2° wissellaadbak: een vrachtvervoereenheid die aan de afmetingen van wegvoertuigen is aangepast en die voorzien is van inrichtingen voor goederenoverslag tussen verschillende vervoerswijzen, zoals van weg naar spoor.<br>
 <br>
 De minimumbelasting, vermeld in artikel 2.2.4.0.2, § 2, is niet van toepassing.<br>
@@ -3592,7 +3641,9 @@ De gegevens en de documenten die de bevoegde entiteit van de Vlaamse   administr
 
 <p>§ 2. Als de provincies, de agglomeraties en de gemeenten ertoe besluiten opcentiemen te heffen met toepassing van de bepalingen van deze codex, stellen de provincieraad, respectievelijk de agglomeratieraad of de gemeenteraad daarvan uiterlijk op 31 januari van het aanslagjaar de opcentiemen voor het aanslagjaar in kwestie vast en delen ze die opcentiemen uiterlijk op 1 maart van hetzelfde jaar per aangetekende brief mee aan de bevoegde entiteit van de Vlaamse administratie.<br>
 <br>
-Als de provincie-, agglomeratie- of gemeenteraad de opcentiemen op de onroerende voorheffing niet heeft vastgesteld of als een van de data of beide data, vermeld in het eerste lid, werden overschreden, zal de onroerende voorheffing worden gevestigd met toepassing van de opcentiemen die voor de provincie, gemeente of agglomeratie in kwestie van toepassing waren voor het voorafgaande aanslagjaar.</p>
+Als de provincie-, agglomeratie- of gemeenteraad de opcentiemen op de onroerende voorheffing niet heeft vastgesteld of als een van de data of beide data, vermeld in het eerste lid, werden overschreden, zal de onroerende voorheffing worden gevestigd met toepassing van de opcentiemen die voor de provincie, gemeente of agglomeratie in kwestie van toepassing waren voor het voorafgaande aanslagjaar.<br>
+<br>
+Voor de toepassing van het tweede lid wordt uitgegaan van de naleving van de verplichtingen, vermeld in artikel 2.1.4.0.2, § 2 en § 3.</p>
 
 <p>§ 3. De bevoegde entiteit van de Vlaamse administratie stort aan de provincies, de agglomeraties en de gemeenten de ontvangsten die ze voor hun rekening verwezenlijkt hebben, door in de maand die volgt op de maand van de ontvangsten, verminderd met de ontheffingen van betaalde vorderingen die doorgevoerd zijn tijdens de maand van de inning van die ontvangsten.</p>
 
@@ -5063,15 +5114,56 @@ In het geval, vermeld in artikel 2.7.3.4.2, derde lid, moet het bestaan   van de
 <br>
 § 4. Als de overtredingen, vermeld in paragraaf 1 en paragraaf 2, blijven bestaan nadat een administratieve geldboete wordt opgelegd, kan daarvoor een nieuwe administratieve geldboete worden opgelegd telkens als de overtreding opnieuw wordt vastgesteld. In dat geval worden de bedragen, vermeld in paragraaf 1 of paragraaf 2, vermenigvuldigd met een factor die overeenkomt met het aantal keer dat de overtreding is vastgesteld. Dezelfde overtreding kan maximaal tien keer per kalenderjaar worden beboet.<br>
 <br>
-Het eerste lid is niet van toepassing op de kilometerheffing.<br>
+&nbsp;§ 4/1. Paragraaf 4 is niet van toepassing op de kilometerheffing.<br>
 <br>
-Voor de kilometerheffing kan slechts één administratieve geldboete van 1000 euro worden opgelegd voor het totaal van de administratieve inbreuken die gepleegd zijn met hetzelfde voertuig en vastgesteld zijn binnen hetzelfde ononderbroken tijdvak van drie uur vanaf de eerste vaststelling van de overtreding.<br>
+Voor de kilometerheffing kan slechts één administratieve geldboete worden opgelegd voor het totaal van de overtredingen, vermeld in het vierde lid, die gepleegd zijn met hetzelfde voertuig en vastgesteld zijn op dezelfde kalenderdag. Het toepasselijke tarief voor de administratieve geldboete is dat van de overtreding waarvoor het hoogste tarief geldt, overeenkomstig het vierde lid.<br>
 <br>
-Er wordt geen administratieve geldboete opgelegd voor iedere overtreding die werd begaan binnen een ononderbroken tijdvak van drie uren vanaf de vaststelling van een andere overtreding op de bepalingen van deze codex en de uitvoeringsbesluiten ervan of van de wetgeving van het Brusselse Hoofdstedelijke Gewest of het Waalse Gewest met betrekking tot de kilometerheffing, in zoverre de betrokken overtredingen werden begaan met hetzelfde voertuig en in zoverre een administratieve geldboete werd opgelegd voor de eerst begane overtreding.<br>
+Onverminderd de toepassing van het tweede lid, wordt er geen administratieve geldboete opgelegd voor iedere overtreding die werd begaan binnen een ononderbroken tijdvak van drie uren vanaf de vaststelling van een eerdere overtreding op de bepalingen van deze codex en de uitvoeringsbesluiten ervan of van de wetgeving van het Brusselse Hoofdstedelijke Gewest of het Waalse Gewest met betrekking tot de kilometerheffing, in zoverre de betrokken overtredingen werden begaan met hetzelfde voertuig en in zoverre een administratieve geldboete werd opgelegd voor de eerst begane overtreding.<br>
 <br>
-De administratieve geldboete, vermeld in het derde lid, wordt met ingang van 1 juli 2017 op 1 juli van elk jaar geïndexeerd met behulp van de coëfficiënt die wordt verkregen door het algemene indexcijfer van de consumptieprijzen van het Rijk, voor de maand maart van het lopende jaar te delen door het algemene indexcijfer van de consumptieprijzen van het Rijk voor de maand mei van het jaar 2016. Daarbij worden de volgende afrondingen toegepast :<br>
-1° de coëfficiënt wordt afgerond op het hogere of lagere tienduizendste naargelang het cijfer van de honderdduizendsten al of niet vijf bereikt;<br>
-2° na de toepassing van de coëfficiënt wordt het verkregen bedrag afgerond op de hogere of lagere euro naargelang het cijfer van het tiende al of niet vijf bereikt.<br>
+De administratieve geldboete, vermeld in het tweede lid, wordt berekend volgens de volgende tabel:<br>
+&nbsp;</p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Categorie van de overtreding</td>
+			<td>Soort overtreding</td>
+			<td>Boetebedrag<br>
+			(in euro)</td>
+		</tr>
+		<tr>
+			<td>A</td>
+			<td>-manipulatie van de elektronische registratievoorziening;<br>
+			-vervalsing van de boorddocumenten die nodig zijn om het maximaal toegestane totaalgewicht en de euro-emissieklasse van het voertuig te bepalen;</td>
+			<td>1.000</td>
+		</tr>
+		<tr>
+			<td>B</td>
+			<td>-er is geen elektronische registratievoorziening voor België aan boord van het voertuig;<br>
+			-er is geen dienstverleningsovereenkomst afgesloten voor het betrokken voertuig;</td>
+			<td>800</td>
+		</tr>
+		<tr>
+			<td>C</td>
+			<td>-de elektronische registratievoorziening is niet geactiveerd;<br>
+			-de elektronische registratievoorziening aan boord van het voertuig is diegene van een ander voertuig; -gebruik van het belastbaar wegennet terwijl de dienst-verleningsovereenkomst geschorst is;<br>
+			-gebruik van het belastbaar wegennet nadat de elektronische registratievoorziening het signaal heeft ontvangen dat het ter beschikking gestelde gegarandeerde betaalmiddel ontoereikend is geworden;<br>
+			- gebruik van het belastbaar wegennet terwijl de elektronische registratievoorziening een probleem signaleert, of elk signaal door de elektronische registratievoorziening ontbreekt, zonder dat de houder van het voertuig zich onmiddellijk in verbinding stelt met de dienstverlener;<br>
+			gebruik van het belastbaar wegennet terwijl de elektronische registratievoorziening een probleem signaleert, of elk signaal door de elektronische registratievoorziening ontbreekt, nadat de houder van het voertuig zich onmiddellijk in verbinding stelt met de dienstverlener, maar zonder dat hij de gegeven instructies naleeft;</td>
+			<td>500</td>
+		</tr>
+		<tr>
+			<td>D</td>
+			<td>elke andere overtreding van de regelgeving inzake de kilometer-heffing in deze codex en zijn uitvoeringsbesluiten die hierboven niet expliciet vermeld is</td>
+			<td>100</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Het bevoegde personeelslid kan de administratieve geldboete, vermeld in het vierde lid, categorie C, verminderen tot 250 euro als de boete betrekking heeft op de eerste overtreding van categorie C in het betreffende kalenderjaar.<br>
+<br>
+Het bevoegde personeelslid kan de administratieve geldboetes, vermeld in het vierde lid, voor hetzelfde type van overtreding begaan binnen een beperkte tijdspanne verminderen als de belastingplichtige te goeder trouw handelde.<br>
 <br>
 § 5. De administratieve geldboeten, vermeld in paragraaf 1 tot en met paragraaf 4, eerste lid, worden ingevorderd volgens de regels die van toepassing zijn op de overeenstemmende belasting.</p>
 
@@ -9599,7 +9691,7 @@ Autosnelwegringen<br>
 	</tbody>
 </table>
 <br>
-2) Overige gewestwegen met een tarief hoger dan nul eurocent :<br>
+2) Overige gewestwegen met een tarief hoger dan nul eurocent:<br>
 &nbsp;
 <table border="1">
 	<tbody>
@@ -9651,7 +9743,12 @@ Autosnelwegringen<br>
 		<tr>
 			<td>N10</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;Mortsel -Diest</td>
+			<td>&nbsp;Mortsel - Diest</td>
+		</tr>
+		<tr>
+			<td>N14</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;Vanaf (de kruising met) R16 - (de kruising met) E34</td>
 		</tr>
 		<tr>
 			<td>N20</td>
@@ -9661,12 +9758,32 @@ Autosnelwegringen<br>
 		<tr>
 			<td>N31</td>
 			<td>(E403)</td>
-			<td>Brugge - Zeebrugge, excl. N31 Zeebrugge tot en met de kruising met de N348</td>
+			<td>Brugge - Zeebrugge, exclusief N31 Zeebrugge tot en met de kruising met de N348</td>
+		</tr>
+		<tr>
+			<td>N35</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;Deinze - Tielt</td>
+		</tr>
+		<tr>
+			<td>N35</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;Pittem (de kruising met N50) - (de kruising met) N330</td>
+		</tr>
+		<tr>
+			<td>N42</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;Vanaf (de kruising met) N8 - grens met Wallonië</td>
+		</tr>
+		<tr>
+			<td>N43</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;Vanaf (de kruising met) R8 - (de kruising met) R4</td>
 		</tr>
 		<tr>
 			<td>N49</td>
 			<td>(E34)</td>
-			<td>Antwerpen - Zelzate - Maldegem - Knokke (Knokke-Heist), excl. N49 van Westkapelle tot aan de kruising met de R4- West</td>
+			<td>Antwerpen - Zelzate - Maldegem - Knokke (Knokke-Heist), exclusief N49 van Westkapelle tot aan de kruising met de R4-West</td>
 		</tr>
 		<tr>
 			<td>N50</td>
@@ -9682,6 +9799,11 @@ Autosnelwegringen<br>
 			<td>N70</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;Gent - Antwerpen</td>
+		</tr>
+		<tr>
+			<td>N73</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;Heppen - Kinrooi (kruising met de N762)</td>
 		</tr>
 		<tr>
 			<td>N80</td>
