@@ -2,16 +2,16 @@
   "codex_id": 1029654,
   "title": "Besluit van de Vlaamse Regering van 2018-06-08 houdende de wijziging van diverse besluiten van de Vlaamse Regering die verband houden met de ondersteuning van personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029654/VolledigDocument?datum=2017-11-01",
-  "source_sha256": "df4657761551424db4cf6a9fd4f47c566cf3fbaa12a5096915a4a33dcb2b5d47",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029654/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "6be525c620d819c0a8c482bb43bfa80aab323594f0fd9b2fef4d6727663e4f2a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029654&param=informatie",
-  "as_of": "2017-11-01",
+  "as_of": "2018-01-01",
   "made": "2018-06-08",
   "gazette": "2018-08-17",
   "numac": 2018031673,
   "document_start": "2018-08-27",
   "document_end": null,
-  "in_force": "2017-11-01",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2017-11-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }

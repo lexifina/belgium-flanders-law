@@ -11,6 +11,10 @@ Aan artikel 23 van het besluit van de Vlaamse Regering van 24 juli 1991 betreffe
 11° Diensten en Begeleidingscentrum Openluchtopvoeding bij vzw OLO;<br>
 12° DIDIOR, dienst diagnostiek en oriëntering.".
 
+### ART 2.
+
+In artikel 28, § 3, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 12 november 2010 en vervangen bij het besluit van de Vlaamse Regering van 27 november 2015, wordt het bedrag "25 euro" vervangen door het bedrag "75 euro".
+
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap
 
 ### ART 3.
@@ -67,6 +71,25 @@ De bedragen, vermeld in deze paragraaf, worden telkens op 1 januari en 1 juli aa
 <br>
 § 2/2. De meerderjarige gebruikers, vermeld in paragraaf 2, die jonger zijn dan 21 jaar, betalen de financiële bijdragen, vermeld in artikel 25 van het besluit van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap.".
 
+### ART 4.
+
+In artikel 9 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 maart 2017, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 3 wordt tussen het tweede en het derde lid een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"De Vlaamse minister, bevoegd voor de bijstand aan personen kan de wijze bepalen waarop de woonkosten, vermeld in het eerste lid, berekend moeten worden.";<br>
+<br>
+5° aan paragraaf 3 worden drie leden toegevoegd, die luiden als volgt:<br>
+<br>
+"Voor de meerderjarige gebruikers die op 1 januari 2017 financiële bijdragen betaalden en die woon- en leefkosten moeten betalen na de overschakeling naar een systeem waarbij de gebruiker zelf instaat voor de woon- en leefkosten als vermeld in artikel 2, derde lid, wordt het bedrag van de woon- en leefkosten berekend rekening houdend met de financiële bijdragen die moesten worden betaald en met de bijkomende vergoedingen voor specifieke prestaties en verstrekkingen die aangerekend zijn voor de omschakeling<br>
+naar een systeem waarbij de gebruiker zelf instaat voor de woon- en leefkosten.<br>
+<br>
+De voorzieningen berekenen het bedrag dat gemiddeld als financiële bijdrage en als bijkomende vergoeding is aangerekend.<br>
+<br>
+Het bedrag van de woon- en leefkosten dat aan de gebruikers, vermeld in het achtste lid, wordt aangerekend, mag tot en met 31 december 2020 gemiddeld niet meer bedragen dan het gemiddelde bedrag vermeld in het negende lid.<br>
+<br>
+Van de bepaling, vermeld in het tiende lid, kan alleen worden afgeweken na omstandige motivatie op basis van de kostenstructuur van de voorziening en na goedkeuring door het collectief overlegorgaan van de voorziening en door het agentschap.".
+
 ### ART 5.
 
 In artikel 9/1, § 2, eerste lid, van hetzelfde besluit, ingevoegd bij besluit van de Vlaamse Regering van 8 september 2017, worden tussen het woord "dagondersteuning" en het woord "begeleid" de woorden "of een van de individuele ondersteuningsfuncties" ingevoegd.
@@ -77,11 +100,103 @@ Aan hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Reger
 
 ## HOOFDSTUK 3. Wijzigingen van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget
 
+### ART 10.
+
+Artikel 17 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 17. Het agentschap kan een van de budgetcategorieën toewijzen die vermeld worden in tabel 1, opgenomen in de bijlage die bij dit besluit is gevoegd.<br>
+<br>
+Elke budgetcategorie wordt uitgedrukt in zorggebonden punten. Het aantal zorggebonden punten is een maximum voor een kalenderjaar.<br>
+<br>
+De omslagsleutel voor de omzetting van een zorggebonden punt naar een bedrag in euro bedraagt 839,72 euro.<br>
+<br>
+De omslagsleutel, vermeld in het derde lid, wordt jaarlijks aangepast, rekening houdend met de afgevlakte gezondheidsindex die moet berekend en toegepast worden conform artikel 2 tot en met 2quater van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van `s lands concurrentievermogen, hierna G-index te noemen, volgens de formule: omslagsleutel van het jaar x = omslagsleutel van het jaar x- 1 x (1 + 90% x ((G-index december jaar x-1/G-index december jaar x-2) - 1)).".
+
+### ART 14.
+
+Artikel 34 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 24 februari 2017, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 34. De aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap aan wie jeugdhulpverlening is toegekend, wordt ingediend conform de bepalingen van hoofdstuk 2 en afgehandeld overeenkomstig de bepalingen van hoofdstuk 3.<br>
+<br>
+In afwijking van de bepalingen van hoofdstuk 3, afdeling 3, van dit besluit, wordt het dossier niet voorgelegd aan de regionale prioriteitencommissie voor de toekenning van een prioriteitengroep als het bedrag van de budgetcategorie die conform artikel 17 tot en met 21 kan worden toegewezen, kleiner is dan of gelijk is aan het bedrag van de subsidies dat is berekend conform het derde lid en het vierde lid.<br>
+<br>
+Voor de berekening van het bedrag van de subsidies, vermeld in het tweede lid, wordt rekening gehouden met de subsidies die het agentschap heeft betaald voor jeugdhulpverlening en in voorkomend geval met de subsidies die het agentschap jongerenwelzijn heeft betaald voor de persoon met een handicapin het kader van een aanvullend geïndividualiseerd hulpaanbod als vermeld in artikel 67, tweede lid, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, of via de inschakeling van een intersectoraal zorgnetwerk als vermeld in artikel 1, 4°, van het besluit van de Vlaamse Regering van 9 oktober 2015 betreffende het intersectorale zorgnetwerk en tot wijziging van het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp, wat betreft de prioritair toe te wijzen hulpvragen.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, bepaalt op welke wijze het bedrag van de subsidies, vermeld in het tweede lid, conform het derde lid moet worden vastgesteld.<br>
+<br>
+Als het bedrag van de budgetcategorie die conform artikel 17 tot en met 21 kan worden toegewezen, groter is dan het bedrag van de subsidies, vermeld in het tweede lid, wordt het dossier voorgelegd aan de regionale prioriteitencommissie voor de toekenning van een prioriteitengroep, voor het gedeelte van het bedrag van de budgetcategorie dat het bedrag van de subsidies, vermeld in het tweede lid, overstijgt.".
+
+### ART 17.
+
+In artikel 56 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 4 maart 2016 en 24 februari 2017, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het vierde lid worden de woorden "is toegewezen en dat het bedrag van de subsidies die door het agentschap zijn betaald voor de niet rechtstreeks toegankelijke jeugdhulpverlening" vervangen door de zinsnede "het bedrag van de subsidies berekend conform artikel 34, derde en vierde lid,";<br>
+<br>
+2° tussen het vierde en het vijfde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"De beslissing tot toekenning van jeugdhulpverlening of van een aanvullend geïndividualiseerd hulpaanbod als vermeld in artikel 67, tweede lid, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, of de beslissing betreffende de inschakeling van een intersectoraal zorgnetwerk als vermeld in artikel 1, 4°, van het besluit van de Vlaamse Regering van 9 oktober 2015 betreffende het intersectorale zorgnetwerk en tot wijziging van het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp, wat betreft de prioritair toe te wijzen hulpvragen die is genomen met toepassing van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, of de beslissing van het agentschap tot toewijzing van jeugdhulpverlening vervalt met ingang van de eerste dag van de vierde maand die volgt op de datum van de terbeschikkingstelling van het budget, vermeld in het vierde lid.";<br>
+<br>
+3° het bestaande vijfde lid, dat het zesde lid wordt, wordt vervangen door wat volgt:<br>
+<br>
+"In de periode van 1 januari 2017 tot en met 31 december 2019 wordt de vraag naar een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning van de persoon met een handicap die op het moment van de aanvraag van dat budget gebruikmaakt van een andere vorm van jeugdhulpverlening dan een persoonlijke-assistentiebudget en die conform het vierde lid nog niet in aanmerking komt voor een terbeschikkingstelling van een budget, in afwijking van artikel 34, tweede lid en vierde lid, voorgelegd aan de regionale prioriteitencommissie voor de toekenning van een prioriteitengroep voor het gehele bedrag van de budgetcategorie die conform artikel 17 tot en met 21 kan worden toegewezen.".
+
 ## HOOFDSTUK 4. Wijziging van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering
 
 ## HOOFDSTUK 5. Wijzigingen van het besluit van de Vlaamse Regering van 4 maart 2016 over de oprichting van een regionale prioriteitencommissie, de toekenning van prioriteitengroepen, de vaststelling van de maatschappelijke noodzaak, de toeleiding naar ondersteuning, de afstemming en planning in het kader van persoonsvolgende financiering
 
+### ART 27.
+
+In artikel 10 van hetzelfde besluit wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+"De regionale prioriteitencommissie kent op basis van haar inschatting van de grootte van de ondersteuningskloof een van volgende categorieën toe:<br>
+1° categorie 1: er is geen mogelijkheid tot of men wenst geen ondersteuning noch van reguliere of rechtstreeks toegankelijke diensten, noch van mantelzorgers of vrijwillige hulp, maar er zijn duidelijk intense of complexe ondersteuningsnoden;<br>
+2° categorie 2: er is geen mogelijkheid tot of men wenst geen ondersteuning noch van reguliere of rechtstreeks toegankelijke diensten, noch van mantelzorgers of vrijwillige hulp, maar de ondersteuningsnood is beperkt in intensiteit of complexiteit. Er is ondersteuning van reguliere of rechtstreeks toegankelijke diensten of vrijwillige hulp, maar die volstaat niet meer of is onaangepast om tegemoet te komen aan de ondersteuningsnoden van de persoon. Er zijn geen mantelzorgers aanwezig, ondersteuning van mantelzorgers volstaat niet meer, of mantelzorgers zijn overbelast;<br>
+3° categorie 3: de huidige ondersteuning komt goed tegemoet aan de ondersteuningsnoden van de persoon. Er is geen grote kloof tussen wat de persoon nodig heeft en nu al krijgt aan ondersteuning.".
+
+### ART 31.
+
+In artikel 16, eerste lid, van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° punt 1° wordt vervangen door wat volgt:<br>
+<br>
+"1° er is aangetoond dat de persoon met een handicap ernstig fysiek, psychisch, emotioneel of seksueel misbruikt wordt door de mantelzorgers of samenwonende personen uit het netwerk, of dat de persoon met een handicap het slachtoffer is van incest;";<br>
+<br>
+2° punt 3° wordt vervangen door wat volgt:<br>
+<br>
+"3° er is aangetoond dat de persoon met een handicap ernstig fysiek, psychisch of emotioneel wordt verwaarloosd door de mantelzorgers of samenwonende personen uit het netwerk.".
+
 ## HOOFDSTUK 6. Wijziging van het besluit van de Vlaamse Regering van 10 juni 2016 houdende de transitie van personen met een handicap met een actieve zorgvraag naar persoonsvolgende financiering
+
+### ART 34.
+
+Artikel 27/1 van het besluit van de Vlaamse Regering van 10 juni 2016 houdende de transitie van personen met een handicap met een actieve zorgvraag naar persoonsvolgende financiering, ingevoegd bij het besluit van de Vlaamse Regering van 24 februari 2017, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 27/1. § 1. In deze paragraaf wordt verstaan onder jeugdhulpverlening: de niet rechtstreeks toegankelijke zorg en ondersteuning die is toegekend met toepassing van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp of is toegewezen door het agentschap en die bestaat uit een van de volgende vormen van ondersteuning:<br>
+1° de niet rechtstreeks toegankelijke ondersteuning die wordt geboden door een multifunctioneel centrum voor minderjarigen als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
+2° de ondersteuning die wordt geboden in het kader van een persoonsvolgende convenant als vermeld in artikel 3 van het besluit van de Vlaamse regering van 19 juli 2002 houdende maatregelen om tegemoet te komen aan de noodzaak tot leniging van dringende behoeften van personen met een handicap;<br>
+3° de ondersteuning die wordt geboden met de inzet van persoonsvolgende middelen als vermeld in het besluit van de Vlaamse Regering van 10 maart 2017 over persoonsvolgende middelen voor minderjarige personen met een handicap met dringende noden;<br>
+4° de ondersteuning die wordt geboden met een persoonlijke- assistentiebudget als vermeld in artikel 19/1 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.<br>
+<br>
+In de periode van 1 januari 2017 tot en met 31 december 2019 kan het agentschap gefaseerd een budget ter beschikking stellen aan personen met een handicap aan wie het agentschap een budget heeft toegewezen met toepassing van artikel 3 tot en met 14 van dit besluit en die gebruikmaken van jeugdhulpverlening voor een bedrag dat maximaal overeenstemt met het bedrag van de subsidies dat berekend wordt conform artikel 34, derde en vierde lid, van het besluit van 27 november 2015.<br>
+<br>
+De beslissing tot toekenning van jeugdhulpverlening of van een aanvullend geïndividualiseerd hulpaanbod als vermeld in artikel 67, tweede lid, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, of de beslissing betreffende de inschakeling van een intersectoraal zorgnetwerk als vermeld in artikel 1, 4°, van het besluit van de Vlaamse Regering van 9 oktober 2015 betreffende het intersectorale zorgnetwerk en tot wijziging van het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp, wat betreft de prioritair toe te wijzen hulpvragen, die is genomen met toepassing van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp of de beslissing van het agentschap tot toewijzing van jeugdhulpverlening, vervalt met ingang van de eerste dag van de vierde maand die volgt op de datum van de terbeschikkingstelling van het budget, vermeld in het vierde lid.<br>
+<br>
+Voor de terbeschikkingstellingen, vermeld in het tweede lid, gelden de volgende fasen:<br>
+1° in 2017 wordt het budget ter beschikking gesteld aan de personen met een handicap die geboren zijn in 1994 of vroeger en die in 2017 gebruikmaken van niet rechtstreeks toegankelijke jeugdhulpverlening;<br>
+2° in 2018 kan het budget ter beschikking gesteld worden aan de personen met een handicap die geboren zijn in 1996 of vroeger en die in 2018 gebruikmaken van niet rechtstreeks toegankelijke jeugdhulpverlening;<br>
+3° in 2019 kan het budget ter beschikking gesteld worden aan de personen met een handicap die geboren zijn in 1998 of vroeger en die in 2019 gebruikmaken van niet rechtstreeks toegankelijke jeugdhulpverlening.<br>
+<br>
+§ 2. Voor de personen met een handicap die in 2017 in aanmerking komen voor de terbeschikkingstelling van een budget, vermeld in § 1, tweede lid, kan dat budget ter beschikking gesteld worden, op voorwaarde dat dat budget het budget dat met toepassing van artikel 3 tot en met 14 is toegewezen, niet overschrijdt. Als het budget, vermeld in § 1, tweede lid, groter is dan het budget dat met toepassing van artikel 3 tot en met 14 is toegewezen, wordt dat laatste budget ter beschikking gesteld.<br>
+<br>
+Conform artikel 16 van dit besluit dienen de personen met een handicap, vermeld in het eerste lid, na de terbeschikkingstelling van het budget conform het eerste lid, een aanvraag van herziening in van het budget dat is toegewezen door het agentschap met toepassing van artikel 3 tot en met 14.<br>
+<br>
+Als het budget, vermeld in de beslissing tot toewijzing na de aanvraag van herziening, vermeld in het tweede lid, hoger is dan het budget dat conform pararaaf 1, tweede lid, ter beschikking kan worden gesteld, wordt dat laatste budget ter beschikking gesteld.<br>
+<br>
+Als het budget dat wordt toegewezen na de aanvraag van herziening, vermeld in het tweede lid, lager is dan het budget dat conform het eerste lid ter beschikking is gesteld, wordt het budget dat wordt toegewezen na de aanvraag van herziening ter beschikking gesteld met ingang van de eerste dag van de vierde maand na de datum die opgenomen is in de beslissing tot toewijzing van het budget na herziening.<br>
+<br>
+§ 3. Voor de personen met een handicap die vanaf het jaar 2018 in aanmerking komen voor de terbeschikkingstelling van een budget, vermeld in pararaaf 1, tweede lid, kan het agentschap een budget als vermeld in paragraaf 1, tweede lid, ter beschikking stellen nadat de personen met een handicap, conform hoofdstuk 7 van het besluit van 27 november 2015 een aanvraag van herziening van het budget dat is toegewezen met toepassing van artikel 3 tot en met 14 van dit besluit, hebben ingediend bij het agentschap en het agentschap heeft beslist om een budget toe te wijzen na de afhandeling van de aanvraag van herziening. In afwijking van artikel 22 van het voormelde besluit wordt het dossier alleen voorgelegd aan de regionale prioriteitencommissie als de budgetcategorie die kan worden toegewezen conform artikel 17 tot en met 21 van het voormelde besluit, groter is dan het bedrag, vermeld in paragraaf 1, tweede lid.<br>
+<br>
+Als het budget, vermeld in de beslissing van het agentschap tot toewijzing van een budget na de aanvraag van herziening, vermeld in het eerste lid, hoger is dan of gelijk is aan het budget dat overeenstemt met het bedrag, vermeld in paragraaf 1, tweede lid, stelt het agentschap een budget ter beschikking dat overeenstemt met het bedrag, vermeld in paragraaf 1, tweede lid. Als het budget, vermeld in de beslissing van het agentschap tot toewijzing van een budget na de aanvraag van herziening, vermeld in het eerste lid, lager is dan het budget dat overeenstemt met het bedrag, vermeld in paragraaf 1, tweede lid, stelt het agentschap het budget, vermeld in de beslissing van het agentschap tot toewijzing van een budget na de aanvraag van herziening ter beschikking.".
 
 ## HOOFDSTUK 7. Wijzigingen van het besluit van de Vlaamse Regering van 24 juni 2016 houdende de transitie van personen met een handicap die gebruikmaken van een persoonlijke-assistentiebudget of een persoonsgebonden budget of die ondersteund worden door een flexibel aanbodcentrum voor meerderjarigen of een thuisbegeleidingsdienst, naar persoonsvolgende financiering en houdende de transitie van de flexibele aanbodcentra voor meerderjarigen en de thuisbegeleidingsdiensten
 
@@ -93,7 +208,26 @@ Aan artikel 29/6, § 2, van hetzelfde besluit, ingevoegd bij het besluit van de 
 
 ## HOOFDSTUK 8. Wijzigingen van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders
 
+### ART 40.
+
+In artikel 7, eerste lid, punt 2° wordt punt d) vervangen door wat volgt:<br>
+<br>
+"d) een gebruikersovereenkomst met een organisator als vermeld in artikel 3, 4°, van het Wijk-werkendecreet van 7 juli 2017, om wijk-werkcheques te gebruiken;".
+
+### ART 46.
+
+In artikel 24 van hetzelfde besluit worden punt 8° en 9° vervangen door wat volgt:<br>
+<br>
+"8° de aankoop van wijk-werkcheques;<br>
+9° het inschrijvingsrecht bij een organisator als vermeld als vermeld in artikel 3, 4°, van het Wijk-werkendecreet van 7 juli 2017;".
+
 ## HOOFDSTUK 9. Wijzigingen van het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap
+
+### ART 50.
+
+In artikel 2, eerste lid, punt 2°, van hetzelfde besluit wordt punt d) vervangen door wat volgt:<br>
+<br>
+"d) een gebruikersovereenkomst met een organisator als vermeld in artikel 3, 4°, van het Wijk-werkendecreet van 7 juli 2017, om wijk-werkcheques te gebruiken;".
 
 ## HOOFDSTUK 10. Wijziging van het besluit van de Vlaamse Regering van 17 maart 2017 houdende wijzigingen van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap wat betreft de nieuwe beschermingsstatus ingevoerd bij de wet van 17 maart 2013 tot hervorming van de regelingen inzake onbekwaamheid en tot instelling van een nieuwe beschermingsstatus die strookt met de menselijke waardigheid, en wat betreft de invoering van de persoonsvolgende financiering, ingevoerd bij het decreet van 25 april 2014
 
