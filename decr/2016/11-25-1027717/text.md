@@ -128,7 +128,7 @@ Voor de instellingen, de internaten en de centra, vermeld in artikel 3, in het g
 
 ### ART 15.
 
-§ 1. AGION wordt er toe gemachtigd om in het kader van het projectspecifiek DBFM-programma gedurende de dertigjarige beschikbaarheidsperiode verbintenissen aan te gaan ten belope van maximaal 22,5 miljoen euro per jaar. Die verbintenissen mogen voorzien in een indexering conform paragraaf 2.<br>
+§ 1. AGION wordt er toe gemachtigd om in het kader van het projectspecifiek DBFM-programma gedurende de dertigjarige beschikbaarheidsperiode verbintenissen aan te gaan ten belope van maximaal 36,5 miljoen euro per jaar. Die verbintenissen mogen voorzien in een indexering conform paragraaf 2.<br>
 <br>
 § 2. Vanaf het tweede jaar en tot en met het dertigste jaar van de dertigjarige beschikbaarheidstermijn mag de beschikbaarheidsvergoeding voor elk project jaarlijks geïndexeerd worden onder de volgende voorwaarden:<br>
 1° slechts het gedeelte van de beschikbaarheidsvergoeding dat betrekking heeft op de eigen werkingskosten van de projectvennootschap, het onderhoud en de verzekeringen, komt in aanmerking voor indexering op basis van parameters die de reële kosten vertegenwoordigen;<br>
