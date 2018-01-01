@@ -52,3 +52,7 @@ Artikel VII 102, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 § 5. Het personeelslid dat op minder dan 80% van het aantal dagen dat hij het woon-werktraject naar de standplaats aflegt, het hele traject of een deel ervan met de fiets of de speed pedelec aflegt, heeft ook recht op een abonnement op het openbaar vervoer als vermeld in artikel VII 95.<br>
 <br>
 § 6. Op straffe van verval van recht, dient het personeelslid de aanvraag van een fietsvergoeding uiterlijk in op de laatste dag van de maand die volgt op de maand waarop de fietsvergoeding betrekking heeft.".
+
+### ART 30.
+
+In artikel VII 199, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 december 2017, wordt tussen de woorden "van de brutojaarwedde" en het woord "ontving" de zinsnede "(verhoogd met de haard- of standplaatstoelage)" ingevoegd.
