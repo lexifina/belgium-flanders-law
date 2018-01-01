@@ -6,7 +6,15 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 1991 betreffen
 
 ### ART. 1.
 
-Dit besluit is van toepassing op :<br />1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br />2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br />3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br />4° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken;<br />5° de personeelsleden van de Centra voor Basiseducatie, vermeld in artikel 127 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />Voor de tijdelijke personeelsleden, vermeld in het eerste lid, 1° tot en met 4°, en voor de personeelsleden vermeld in het eerste lid, 5°, gelden de bepalingen van dit besluit alleen voorzover het verlof, vermeld in artikel 2, geheel of gedeeltelijk binnen de periode van hun aanstelling valt.<br /><br />
+Dit besluit is van toepassing op :<br>
+1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
+2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
+3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
+4° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken;<br>
+5° de personeelsleden van de Centra voor Basiseducatie, vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie.<br>
+<br>
+Voor de tijdelijke personeelsleden, vermeld in het eerste lid, 1° tot en met 5°, gelden de bepalingen van dit besluit alleen als het verlof, vermeld in artikel 2, geheel of gedeeltelijk binnen de periode van hun aanstelling valt.<br>
+&nbsp;
 
 ### ART. 2.
 
