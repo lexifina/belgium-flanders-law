@@ -14,7 +14,7 @@ Dit decreet regelt een gemeenschaps- en   gewestaangelegenheid.<BR>
 3° de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen;<br>
 4° de privaatrechtelijk vormgegeven extern verzelfstandigde agentschappen;<br>
 5° de secretariaten van de strategische adviesraden;<br>
-6° de Vlaamse openbare instellingen De Watergroep, het Universitair Ziekenhuis Gent, de Vlaamse Radio- en Televisieomroep en het Vlaams Fonds voor de Letteren;<br>
+6° de Vlaamse openbare instellingen De Watergroep,&nbsp;de Vlaamse Radio- en Televisieomroep en het Vlaams Fonds voor de Letteren;<br>
 7° het Ondersteunend Centrum van het Agentschap voor Natuur en Bos, het Eigen Vermogen van het Instituut voor Landbouw- en Visserij onderzoek, het Eigen Vermogenvan het Instituut voor Natuur- en Bosonderzoek en het Eigen Vermogen Flanders Hydraulics;<br>
 8° de vzw's, voor zover het openbare instellingen betreft in de zin van artikel 9 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en die, in overeenstemming met het Europees systeem van nationale en regionale rekeningen, vermeld in verordening (EG) nr. 2223/96 van de Raad van 25 juni 1996 betreffende het Europees systeem van de nationale en regionale rekeningen in de gemeenschap, deel uitmaken van de Vlaamse deelstaatoverheid door onder sectorale code 13.12 te ressorteren, met uitsluiting van de universitaire instellingen, met inbegrip van hun patrimonium, en de hogescholen;<br>
 9° de handelsvennootschappen die, in overeenstemming met het Europees systeem van nationale en regionale rekeningen, vermeld in verordening (EG) nr. 2223/96 van de Raad van 25 juni 1996 betreffende het Europees systeem van de nationale en regionale rekeningen in de gemeenschap, deel uitmaken van de Vlaamse deelstaatoverheid door onder sectorale code 13.12 te ressorteren;<br>
@@ -98,7 +98,9 @@ Het mandaat van regeringscommissaris vereist een vertrouwensrelatie met de   Vla
 
 ### ART. 19.
 
-<P>De jaarlijkse bezoldiging van de personeelsleden en de leden van de raad van   bestuur van de entiteiten, vermeld in artikel 2, § 1, mag niet meer bedragen dan   de jaarlijkse bezoldiging van de minister-president van de Vlaamse   Regering.<BR></P>  <P>Het eerste lid is niet van toepassing op de artsen tewerkgesteld bij het UZ   Gent.<BR></P>  <P>De Vlaamse Regering kan, op advies van het Remuneratiecomité van de Vlaamse   overheid, toestaan dat afgeweken wordt van de maximumbezoldiging, vermeld in het   eerste lid.<BR></P>
+<p>De jaarlijkse bezoldiging van de personeelsleden en de leden van de raad van bestuur van de entiteiten, vermeld in artikel 2, § 1, mag niet meer bedragen dan de jaarlijkse bezoldiging van de minister-president van de Vlaamse Regering.</p>
+
+<p>De Vlaamse Regering kan, op advies van het Remuneratiecomité van de Vlaamse overheid, toestaan dat afgeweken wordt van de maximumbezoldiging, vermeld in het eerste lid.</p>
 
 ### ART. 20.
 
