@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028735,
+  "title": "Ministerieel besluit van 2017-10-13 tot wijziging van het ministerieel besluit van 11 april 2013 houdende vaststelling van de vergoeding van de controlelaboratoria, controleartsen en chaperons, wat betreft de vergoeding van de controlelaboratoria",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028735/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "bc006fbda1abacd7728cc5093df23d988456014cfea75ea5306bdd493bdfdfbb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028735&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-10-13",
+  "gazette": "2017-11-06",
+  "numac": 2017013891,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
