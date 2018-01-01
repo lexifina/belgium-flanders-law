@@ -28,7 +28,10 @@ Besluit :<br>
 In dit besluit wordt verstaan onder :<br>
 1° Rekendecreet : het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof;<br>
 2° Vlaamse rechtspersoon : de rechtspersonen, vermeld in artikel 4, § 1, 2°, van het Rekendecreet behalve als het anders bepaald is in artikel 2;<br>
-3° inhoudelijk bevoegde minister : de minister die belast is met het beheer van of het toezicht op de Vlaamse rechtspersoon.<br>
+3° inhoudelijk bevoegde minister : de minister die belast is met het beheer van of het toezicht op de Vlaamse rechtspersoon;<br>
+4° bevoegde dienst: de dienst binnen het Departement Financiën en Begroting die verantwoordelijk is voor de gegevensverwerking van een herverdeling;<br>
+5° werking en toelage: de begrotingskredieten met het ESR-aggregaat WT;<br>
+6° interne stroom: de begrotingskredieten met het ESR-aggregaat IS.<br>
 &nbsp;
 
 ### ART. 2.
@@ -75,7 +78,29 @@ Iedere Vlaamse rechtspersoon met een machtiging om investeringen uit te voeren w
 
 ### ART. 9/1.
 
-§ 1. Voor de herverdelingen van kredieten of overschrijdingen van   limitatieve kredieten van een Vlaamse rechtspersoon is het akkoord vereist van   de Vlaamse minister, bevoegd voor de financiën en de begrotingen. Voor de   Vlaamse rechtspersoon die niet onder het toepassingsgebied van artikel 1, eerste   lid&nbsp;van het besluit van de Vlaamse Regering van 19 januari 2001 houdende   regeling van de begrotingscontrole en -opmaak valt, is artikel 6 van hetzelfde   besluit overeenkomstig van toepassing.<BR><BR>Noch het advies van de Inspectie   van Financiën, noch het akkoord van de Vlaamse minister, bevoegd voor de   financiën en de begrotingen, is vereist in geval van herverdeling van   vereffeningskredieten binnen hetzelfde programma van de begroting van de Vlaamse   Rechtspersoon met een opvolging volgens gesplitste kredieten in de begroting,   tenzij het herverdelingen met betrekking tot kredietverleningen, deelnemingen,   de aflossing van overheidsschuld, het over te dragen saldo en de spijziging van   het reservefonds betreft.<BR><BR>§ 2. De Vlaamse minister, bevoegd voor de   begroting, bepaalt de nadere regels voor de indiening van een aanvraag tot   begrotingsakkoord houdende herverdeling van kredieten of overschrijding van   limitatieve kredieten.<BR><BR>§ 3. Als de Vlaamse rechtspersoon beschikt over   een raad van bestuur, voegt de bevoegde minister het advies van de   regeringsafgevaardigde, de regeringscommissaris, de gemachtigde van Financiën of   een persoon met een soortgelijke functie die is aangesteld door de Vlaamse   Regering op voordracht van de Vlaamse minister, bevoegd voor de financiën en de   begrotingen, bij het verzoek tot het akkoord van de Vlaamse minister, bevoegd   voor de begroting.<BR><BR>§ 4. De Vlaamse minister, bevoegd voor de begroting,   bevestigt zo snel mogelijk de ontvangst van een aanvraag tot herverdeling van   kredieten of tot overschrijding van limitatieve kredieten en vermeldt daarbij de   datum van ontvangst. Hij doet uitspraak over de herverdeling van kredieten of   over de overschrijding van limitatieve kredieten binnen een periode van twaalf   werkdagen vanaf de ontvangstdatum.<BR><BR>Als de Vlaamse minister, bevoegd voor   de begroting, geen uitspraak doet binnen een periode van twaalf werkdagen, wordt   hij geacht in te stemmen met het voorstel van de functioneel bevoegde   minister.<BR><BR>Als de Vlaamse minister, bevoegd voor de begroting, zijn   akkoord niet verleent, kan de functioneel bevoegde minister zijn voorstel ter   beslissing voorleggen aan de Vlaamse Regering.
+§ 1. Voor de herverdelingen van kredieten of overschrijdingen van limitatieve kredieten van een Vlaamse rechtspersoon is het akkoord vereist van de Vlaamse minister, bevoegd voor de financiën en de begrotingen. Voor de Vlaamse rechtspersoon die niet onder het toepassingsgebied van artikel 1, eerste lid&nbsp;van het besluit van de Vlaamse Regering van 19 januari 2001 houdende regeling van de begrotingscontrole en -opmaak valt, is artikel 6 van hetzelfde besluit overeenkomstig van toepassing.<br>
+<br>
+Noch het advies van de Inspectie van Financiën, noch het akkoord van de Vlaamse minister, bevoegd voor de financiën en de begroting, is vereist in geval van:<br>
+1° herverdeling van vereffeningskredieten binnen hetzelfde programma, behalve voor herverdelingen met betrekking tot kredietverleningen, deelnemingen, de aflossing van overheidsschuld, het over te dragen saldo en de spijziging van het Reservefonds;<br>
+2° herverdeling van vastleggingskrediet van werking en toelage naar een interne stroom binnen hetzelfde inhoudelijk structuurelement binnen hetzelfde programma;<br>
+3° herverdeling van vastleggingskrediet van interne stroom naar werking en toelage als in hetzelfde begrotingsjaar al een herverdeling van werking en toelage naar interne stroom heeft plaatsgevonden tussen de artikels in kwestie, en als de herverdeling het daarbij herverdeelde bedrag niet overschrijdt;<br>
+4° herverdeling van vastleggingskredieten en vereffeningskredieten binnen hetzelfde programma die worden toegestaan in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.<br>
+<br>
+Het tweede lid is alleen van toepassing op rechtspersonen met een begroting met opvolging volgens gesplitste kredieten.<br>
+<br>
+§ 1/1. Als de herverdeling valt onder de uitzondering, vermeld in paragraaf 1, tweede lid, 2° of 3°, wordt een voorstel van herverdeling ingediend voor een bindend advies technische uitvoerbaarheid bij de bevoegde dienst. De bevoegde dienst verleent zijn advies binnen vijf werkdagen.<br>
+<br>
+Als geen advies wordt meegedeeld binnen de termijn, vermeld in het eerste lid, wordt het advies geacht gunstig te zijn.<br>
+<br>
+§ 2. De Vlaamse minister, bevoegd voor de begroting, bepaalt de nadere regels voor de indiening van een aanvraag tot begrotingsakkoord houdende herverdeling van kredieten of overschrijding van limitatieve kredieten.<br>
+<br>
+§ 3. Als de Vlaamse rechtspersoon beschikt over een raad van bestuur, voegt de bevoegde minister het advies van de regeringsafgevaardigde, de regeringscommissaris, de gemachtigde van Financiën of een persoon met een soortgelijke functie die is aangesteld door de Vlaamse Regering op voordracht van de Vlaamse minister, bevoegd voor de financiën en de begrotingen, bij het verzoek tot het akkoord van de Vlaamse minister, bevoegd voor de begroting.<br>
+<br>
+§ 4. De Vlaamse minister, bevoegd voor de begroting, bevestigt zo snel mogelijk de ontvangst van een aanvraag tot herverdeling van kredieten of tot overschrijding van limitatieve kredieten en vermeldt daarbij de datum van ontvangst. Hij doet uitspraak over de herverdeling van kredieten of over de overschrijding van limitatieve kredieten binnen een periode van twaalf werkdagen vanaf de ontvangstdatum.<br>
+<br>
+Als de Vlaamse minister, bevoegd voor de begroting, geen uitspraak doet binnen een periode van twaalf werkdagen, wordt hij geacht in te stemmen met het voorstel van de functioneel bevoegde minister.<br>
+<br>
+Als de Vlaamse minister, bevoegd voor de begroting, zijn akkoord niet verleent, kan de functioneel bevoegde minister zijn voorstel ter beslissing voorleggen aan de Vlaamse Regering.
 
 ## HOOFDSTUK 3 Bepalingen over de boekhouding
 
