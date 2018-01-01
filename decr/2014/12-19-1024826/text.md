@@ -590,7 +590,20 @@ Artikel   31 van hetzelfde decreet wordt vervangen door wat volgt:<BR   style="T
 
 ### ART. 107.
 
-<P>§ 1. Er wordt een `Vlaams Dierenwelzijnsfonds' opgericht, hierna genoemd `het   Fonds'. Het Fonds is een begrotingsfonds in de zin van artikel 12 van het   decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de   toekenning van subsidies en de controle op de aanwending ervan, en de controle   door het Rekenhof.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§ 2. Het fonds wordt gespijsd met :<BR>1° de opbrengsten voortvloeiend uit de   bepalingen van de wet van 14 augustus 1986 betreffende de bescherming en het   welzijn der dieren, met name :<BR>-de retributie voor de aanvragen tot erkenning   bedoeld in artikel 3bis, § 2, 3°, b), tweede lid;<BR>-de retributie voor de   aanvragen tot erkenning bedoeld in artikel 5, § 3, tweede lid;<BR>-de bijdrage   voor de identificatie en registratie van honden en katten bedoeld in artikel   7;<BR>-de administratieve boetes bedoeld in artikel 41bis;<BR>2° schenkingen,   legaten en sponsoring.<BR><BR>§ 3. De inkomsten van het Fonds mogen aangewend   worden voor de financiering van administratie- en werkingskosten, kosten voor   sensibilisering, kosten voor studies en wetenschappelijk onderzoek,   investeringen, toezicht, en de toepassing en controle van de bepalingen van de   wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren en   de uitvoeringsbesluiten, alsook het verlenen van subsidies voor het dekken van   de kosten voortvloeiend uit het gesubsidieerd wetenschappelijk onderzoek in het   kader van dierenwelzijn toegekend voor 1 juli 2014 door de FOD   Volksgezondheid.</P>
+<p>§ 1. Er wordt een `Vlaams Dierenwelzijnsfonds' opgericht, hierna genoemd `het Fonds'. Het Fonds is een begrotingsfonds in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.</p>
+
+<p>§ 2. Het fonds wordt gespijsd met :<br>
+1° de opbrengsten voortvloeiend uit de bepalingen van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, met name :<br>
+-de retributie voor de aanvragen tot erkenning bedoeld in artikel 3bis, § 2, 3°, b), tweede lid;<br>
+-de retributie voor de aanvragen tot erkenning bedoeld in artikel 5, § 3, tweede lid;<br>
+-de bijdrage voor de identificatie en registratie van honden en katten bedoeld in artikel 7;<br>
+-de administratieve boetes bedoeld in artikel 41bis;<br>
+2° schenkingen, legaten en sponsoring.<br>
+3° vrijwillige bijdragen van de proefdiergebruikers voor onderzoek naar en promotie van alternatieven voor dierproeven;<br>
+4° rechtsplegingsvergoedingen die in het kader van rechtszaken opgelegd kunnen worden;<br>
+5° de inning van bij de eigenaar of voormalige eigenaar teruggevorderde onkosten die voortvloeien uit de inbeslagname van zijn verwaarloosde dieren.<br>
+<br>
+§ 3. De inkomsten van het Fonds mogen aangewend worden voor de financiering van administratie- en werkingskosten, kosten voor juridische bijstand&nbsp;kosten voor sensibilisering, kosten voor studies en wetenschappelijk onderzoek, investeringen, toezicht, en de toepassing en controle van de bepalingen van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren en de uitvoeringsbesluiten, waaronder ook de kosten die gepaard gaan met de inbeslagname van verwaarloosde dieren, alsook het verlenen van subsidies voor het dekken van de kosten voortvloeiend uit het gesubsidieerd wetenschappelijk onderzoek in het kader van dierenwelzijn toegekend voor 1 juli 2014 door de FOD Volksgezondheid.</p>
 
 ## HOOFDSTUK 21 Slotbepalingen
 
