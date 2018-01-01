@@ -8,12 +8,19 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet en de uitvoeringsbesluiten ervan wordt verstaan onder:<br />1° lokaal cultuurbeleid: een cultuurbeleid dat steunt op deskundigheid, strategische aanpak en participatie van alle actoren, dat streeft naar een evenwicht tussen enerzijds de culturele behoeften en anderzijds het cultuuraanbod, ondersteund door de lokale overheid, en dat uitgaat van de samenhang tussen de verschillende cultuurbeleidsdo- meinen;<br />2° gemeenschapscentrum: culturele infrastructuur die de gemeente beheert met het oog op cultuurparticipatie, gemeenschapsvorming en cultuurspreiding ten behoeve van de lokale bevolking en met bijzondere aandacht voor de culturele diversiteit;<br />3° cultuurcentrum: culturele infrastructuur die de gemeente beheert met het oog op cultuurparticipatie, gemeenschapsvorming en cultuurspreiding ten behoeve van de lokale bevolking en met bijzondere aandacht voor de culturele diversiteit, met daarnaast een breed en eigen cultuurspreidingsaanbod, gericht op de bevolking van een streekgericht werkingsgebied;<br />4° openbare bibliotheek: een basisvoorziening waar elke burger terechtkan met zijn vragen over kennis, cultuur, informatie en ontspanning. Ze bemiddelt actief bij het beantwoorden van deze vragen. De openbare bibliotheek is actief op het vlak van geletterdheid, cultuurspreiding en cultuurparticipatie. De bibliotheek werkt in een geest van objectiviteit en vrij van levensbeschouwelijke, politieke en commerciële invloeden;<br />5° administratie: de administratie, bevoegd voor de cultuur;<br />6° minister: de Vlaamse minister, bevoegd voor de cultuur;<br />7° Planlastendecreet: het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd.<br /><br />
+Voor de toepassing van dit decreet en de uitvoeringsbesluiten ervan wordt verstaan onder:<br>
+1° lokaal cultuurbeleid: een cultuurbeleid dat steunt op deskundigheid, strategische aanpak en participatie van alle actoren, dat streeft naar een evenwicht tussen enerzijds de culturele behoeften en anderzijds het cultuuraanbod, ondersteund door de lokale overheid, en dat uitgaat van de samenhang tussen de verschillende cultuurbeleidsdo- meinen;<br>
+2° gemeenschapscentrum: culturele infrastructuur die de gemeente beheert met het oog op cultuurparticipatie, gemeenschapsvorming en cultuurspreiding ten behoeve van de lokale bevolking en met bijzondere aandacht voor de culturele diversiteit;<br>
+3° cultuurcentrum: culturele infrastructuur die de gemeente beheert met het oog op cultuurparticipatie, gemeenschapsvorming en cultuurspreiding ten behoeve van de lokale bevolking en met bijzondere aandacht voor de culturele diversiteit, met daarnaast een breed en eigen cultuurspreidingsaanbod, gericht op de bevolking van een streekgericht werkingsgebied;<br>
+4° openbare bibliotheek: een basisvoorziening waar elke burger terechtkan met zijn vragen over kennis, cultuur, informatie en ontspanning. Ze bemiddelt actief bij het beantwoorden van deze vragen. De openbare bibliotheek is actief op het vlak van geletterdheid, cultuurspreiding en cultuurparticipatie. De bibliotheek werkt in een geest van objectiviteit en vrij van levensbeschouwelijke, politieke en commerciële invloeden;<br>
+5° administratie: de administratie, bevoegd voor de cultuur;<br>
+6° minister: de Vlaamse minister, bevoegd voor de cultuur;<br>
+7° ....<br>
+&nbsp;
 
 ### ART. 3.
 
-De bepalingen van het Planlastendecreet zijn niet van toepassing op titel 3, hoofdstukken 4 en 5, op afdeling 1 van hoofdstuk 6 en op titel 5.<br>
-&nbsp;
+...
 
 ### ART. 4.
 
@@ -23,15 +30,7 @@ De subsidiebedragen, vermeld in dit decreet en de uitvoeringsbesluiten ervan, di
 
 ### ART. 5.
 
-Dit decreet heeft tot doel het lokaal cultuurbeleid van de gemeenten in het Nederlandse taalgebied, uitgewerkt in de strategische meerjarenplanning, te ondersteunen, onverminderd de toepassing van titel 3, hoofdstuk 6, afdeling 1.<br>
-<br>
-De ondersteuning gebeurt op basis van de volgende Vlaamse beleidsprioriteiten :<br>
-1° de gemeente voert een kwalitatief en duurzaam lokaal cultuurbeleid;<br>
-2° de gemeente organiseert een laagdrempelige bibliotheek, aangepast aan de hedendaagse behoeften;<br>
-3° de gemeente, opgenomen in de lijst van steden en gemeenten die als bijlage bij dit decreet is gevoegd, organiseert een cultuurcentrum.<br>
-<br>
-De ondersteuning van een kwalitatief en duurzaam lokaal cultuurbeleid gebeurt met bijzondere aandacht voor de openbare bibliotheek en het cultuurcentrum. Dat veronderstelt in ieder geval de aanwezigheid van de nodige deskundigheid bij de respectieve instellingen.<br>
-&nbsp;
+...
 
 ## TITEL 3 Het lokaal cultuurbeleid
 
@@ -39,38 +38,31 @@ De ondersteuning van een kwalitatief en duurzaam lokaal cultuurbeleid gebeurt me
 
 ### ART. 6.
 
-De Vlaamse Regering kan de Vlaamse beleidsprioriteit, vermeld in artikel 5, 1°, specificeren. Ze bepaalt de subsidie die wordt uitgetrokken voor die Vlaamse beleidsprioriteit, en de criteria voor de verdeling van die subsidie onder de gemeenten.<br /><br />
+...
 
 ### ART. 7.
 
-Om te kunnen intekenen op de Vlaamse beleidsprioriteit, vermeld in artikel 5, 1°, moet een gemeente, alleen of in een samenwerkingsverband van een of meer andere gemeenten :<br />1° een coördinerende rol opnemen met betrekking tot het lokaal cultuurbeleid;<br />2° de lokale belanghebbenden betrekken bij de opmaak van de strategische meerjarenplanning;<br />3° minstens 0,8 euro per inwoner besteden aan ondersteuning van particuliere verenigingen en instellingen;<br />4° beschikken over een openbare bibliotheek en over een cultuurcentrum of een gemeenschapscentrum met een beheerorgaan, conform de bepalingen van het decreet van 28 januari 1974 waarbij de bescherming van de ideologische en filosofische strekkingen gewaarborgd wordt. De Vlaamse Regering specificeert de infrastructuurvoorwaarden waaraan een gemeenschapscentrum moet voldoen;<br />5° met het oog op monitoring, naast de door de gemeenteraad goedgekeurde jaarrekening, één keer per jaar algemene beleidsrelevante gegevens ter beschikking stellen over het gemeentelijk cultuurbeleid in de vorm en volgens de procedure die de Vlaamse Regering bepaalt.<br /><br />
+...
 
 ## HOOFDSTUK 2 [... (opgeh. decr. 22 december 2017, art. 23, I: 1 januari 2018)]
 
 ### ART. 8.
 
-De Vlaamse Regering kan de Vlaamse beleidsprioriteit, vermeld in artikel 5, 2°, specificeren. Ze bepaalt de subsidie die wordt uitgetrokken voor die Vlaamse beleidsprioriteit en de criteria voor de verdeling van die subsidie onder de gemeenten.<br /><br />
+...
 
 ### ART. 9.
 
-Elke gemeente moet, alleen of in een samenwerkingsverband van een of meer andere gemeenten, een openbare bibliotheek organiseren. Om te kunnen intekenen op de Vlaamse beleidsprioriteit, vermeld in artikel 5, 2°, moet de openbare bibliotheek :<br />1° inspelen op maatschappelijke uitdagingen zoals de digitalisering van de samenleving;<br />2° een onafhankelijk en pluriform informatieaanbod ter beschikking stellen, breed en zorgvuldig samengesteld, aangepast aan de behoeften van het doelpubliek en in een niet-commerciële omgeving;<br />3° een onlinecatalogus aanbieden vanuit een bibliotheeksysteem, gebaseerd op de gegevens van het centraal bibliografisch achtergrondbestand Open Vlacc;<br />4° de raadpleging in de bibliotheek van alle informatiedragers en de uitlening van materialen en bestanden zo laagdrempelig mogelijk maken, in het bijzonder voor moeilijk bereikbare doelgroepen en voor mensen met een beperkt inkomen;<br />5° een optimale publieke dienstverlening garanderen op klantvriendelijke uren;<br />6° van de middelen, bestemd voor de aankoop van gedrukte materialen, jaarlijks minstens 75 percent van het vastgestelde budget besteden aan Nederlandstalige publicaties;<br />7° met het oog op monitoring, naast de door de gemeenteraad goedgekeurde jaarrekening, één keer per jaar algemene beleidsrelevante gegevens ter beschikking stellen over de openbare bibliotheek in de vorm en volgens de procedure die de Vlaamse Regering bepaalt.<br /><br />
+...
 
 ## HOOFDSTUK 3 [... (opgeh. decr. 22 december 2017, art. 24, I: 1 januari 2018)]
 
 ### ART. 10.
 
-De Vlaamse Regering kan de Vlaamse beleidsprioriteit, vermeld in artikel 5, 3°, specificeren. Ze bepaalt de subsidie die wordt uitgetrokken voor die Vlaamse beleidsprioriteit en de criteria voor de verdeling van die subsidie onder de gemeenten, opgenomen in de lijst van steden en gemeenten die als bijlage bij dit decreet is gevoegd.<br>
-<br>
-De gemeenten worden ingeschaald in categorieën als vermeld in de lijst van steden en gemeenten.<br>
-&nbsp;
+...
 
 ### ART. 11.
 
-Om te kunnen intekenen op de Vlaamse beleidsprioriteit, vermeld in artikel 5, 3°, moet een gemeente, opgenomen in de lijst van steden en gemeenten, vermeld in artikel 10, alleen of in een samenwerkingsverband met een of meer aangrenzende gemeenten :<br>
-1° enerzijds een eigen aanbod realiseren waarbij een regionaal relevante staalkaart van allerlei cultuuruitingen, complementair aan de lokale en regionale behoeften, wordt aangeboden, en anderzijds de receptieve werking ondersteunen;<br>
-2° beschikken over een cultuurcentrum waarvan de Vlaamse Regering de infrastructuurvoorwaarden specificeert naargelang van de indeling in een categorie;<br>
-3° met het oog op monitoring, naast de door de gemeenteraad goedgekeurde jaarrekening, één keer per jaar algemene beleidsrelevante gegevens ter beschikking stellen over het cultuurcentrum in de vorm en volgens de procedure die de Vlaamse Regering bepaalt.<br>
-&nbsp;
+...
 
 ## HOOFDSTUK 4 Organisaties met een specifieke opdracht
 
@@ -208,7 +200,7 @@ De organisatie, vermeld in artikel 36, concretiseert haar werking om de vijf jaa
 Met het oog op een structurele samenwerking voor een afstemming van het cultuuraanbod en de cultuurcommunicatie kunnen gemeenten een intergemeentelijk samenwerkingsverband met rechtspersoonlijkheid oprichten.<br>
 <br>
 Een samenwerkingsverband als vermeld in het eerste lid kan een jaarlijkse subsidie verkrijgen van 0,33 euro per inwoner, met een maximum van 82.500 euro, op voorwaarde dat het voldoet aan de volgende voorwaarden :<br>
-1° minimaal bestaan uit vier aangrenzende gemeenten, waarvan er één behoort tot de lijst van steden en gemeenten, vermeld in artikel 10;<br>
+1° minimaal bestaan uit vier aangrenzende gemeenten, waarvan er één behoort tot de lijst van steden en gemeenten, die als bijlage bij dit decreet is gevoegd;<br>
 2° door alle aangesloten gemeenten samen jaarlijks een bedrag inbrengen dat minstens gelijk is aan de jaarlijkse subsidie van de Vlaamse Regering;<br>
 3° voor een periode die loopt tot en met het eerste jaar van een nieuwe gemeentelijke legislatuur een cultuurnota indienen die beschrijft welke activiteiten het intergemeentelijk samenwerkingsverband zal opzetten in het kader van de afstemming van het cultuuraanbod en de cultuurcommunicatie voor alle deelnemende gemeenten.<br>
 &nbsp;
@@ -223,7 +215,14 @@ De Vlaamse Regering bepaalt de procedure die moet worden gevolgd voor het aanvra
 
 ### ART. 40.
 
-Gemeenten in het tweetalige gebied Brussel-Hoofdstad die beschikken over een Nederlandstalige openbare bibliotheek die op basis van dit decreet wordt gesubsidieerd, kunnen een cultuurbeleidsplan indienen waarin wordt aangegeven hoe ze invulling zullen geven aan de Vlaamse beleidsprioriteiten, vermeld in artikel 5, 1° en 2°, die de Vlaamse Regering kan specificeren.<br /><br />Het cultuurbeleidsplan van de gemeenten wordt opgesteld voor een periode van zes jaar.<br /><br />
+Gemeenten in het tweetalige gebied Brussel-Hoofdstad die beschikken over een Nederlandstalige openbare bibliotheek die op basis van dit decreet wordt gesubsidieerd, kunnen een cultuurbeleidsplan indienen waarin wordt aangegeven hoe ze invulling zullen geven aan de Vlaamse beleidsprioriteiten,&nbsp;die de Vlaamse Regering kan specificeren.<br>
+<br>
+De Vlaamse beleidsprioriteiten voor de gemeenten in het tweetalige gebied Brussel-Hoofdstad zijn:<br>
+1° de gemeente voert een kwaliteitsvol en duurzaam lokaal cultuurbeleid;<br>
+2° de gemeente organiseert een laagdrempelige bibliotheek, aangepast aan de hedendaagse behoeften.<br>
+<br>
+Het cultuurbeleidsplan van de gemeenten wordt opgesteld voor een periode van zes jaar.<br>
+&nbsp;
 
 ### ART. 41.
 
@@ -243,7 +242,25 @@ Als een cultuurbeleidsplan voor 31 december bij de administratie is ingediend, w
 
 ### ART. 45.
 
-De Vlaamse Regering geeft subsidies aan de gemeenten in het tweetalige gebied Brussel-Hoofdstad voor de organisatie van de gemeentelijke, Nederlandstalige openbare bibliotheek die moet voldoen aan de bepalingen, vermeld in artikel 9.<br /><br />De Vlaamse Regering verleent een forfaitaire subsidie voor het personeel dat in een gemeentelijke openbare bibliotheek tewerkgesteld is binnen de personeelsformatie voor de bibliotheek die de gemeenteraad heeft goedgekeurd.<br /><br />Die subsidie wordt als volgt toegekend :<br />1° gemeenten met minder dan 10 000 inwoners ontvangen een subsidie van 56.000 euro;<br />2° gemeenten met 10 000 inwoners of meer ontvangen een subsidie van 6,5 euro per inwoner van de gemeente.<br /><br />De Vlaamse Regering verleent een forfaitaire subsidie van 0,17 euro per inwoner van de gemeente ter ondersteuning van de participatie aan het Brusselse Netwerk Openbare Bibliotheken.<br /><br />De Vlaamse Regering bepaalt de procedure die moet worden gevolgd voor het aanvragen van de subsidie, de voorwaarden en de procedure van toekenning en verantwoording van de subsidie.<br /><br />
+De Vlaamse Regering geeft subsidies aan de gemeenten in het tweetalige gebied Brussel-Hoofdstad voor de organisatie van de gemeentelijke, Nederlandstalige openbare bibliotheek op voorwaarde dat die bibliotheek:<br>
+1° inspeelt op maatschappelijke uitdagingen, zoals de digitalisering van de samenleving;<br>
+2° een onafhankelijk en pluriform informatieaanbod ter beschikking stelt, breed en zorgvuldig samengesteld, aangepast aan de behoeften van het doelpubliek en in een niet-commerciële omgeving;<br>
+3° een onlinecatalogus aanbiedt vanuit een bibliotheeksysteem, gebaseerd op de gegevens van het centraal bibliografisch achtergrondbestand Open Vlacc;<br>
+4° de raadpleging in de bibliotheek van alle informatiedragers en de uitlening van materialen en bestanden zo laagdrempelig mogelijk maakt, in het bijzonder voor moeilijk bereikbare doelgroepen en voor mensen met een beperkt in-komen;<br>
+5° een optimale publieke dienstverlening garandeert op klantvriendelijke uren;<br>
+6° van de middelen, bestemd voor de aankoop van gedrukte materialen, jaarlijks minstens 75 percent van het vastgestelde budget besteedt aan Nederlandstalige publicaties;<br>
+7° met het oog op monitoring, naast de door de gemeenteraad goedgekeurde jaarrekening, één keer per jaar algemene beleidsrelevante gegevens ter beschikking stelt over de openbare bibliotheek in de vorm en volgens de procedure die de Vlaamse Regering bepaalt.<br>
+<br>
+De Vlaamse Regering verleent een forfaitaire subsidie voor het personeel dat in een gemeentelijke openbare bibliotheek tewerkgesteld is binnen de personeelsformatie voor de bibliotheek die de gemeenteraad heeft goedgekeurd.<br>
+<br>
+Die subsidie wordt als volgt toegekend :<br>
+1° gemeenten met minder dan 10 000 inwoners ontvangen een subsidie van 56.000 euro;<br>
+2° gemeenten met 10 000 inwoners of meer ontvangen een subsidie van 6,5 euro per inwoner van de gemeente.<br>
+<br>
+De Vlaamse Regering verleent een forfaitaire subsidie van 0,17 euro per inwoner van de gemeente ter ondersteuning van de participatie aan het Brusselse Netwerk Openbare Bibliotheken.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure die moet worden gevolgd voor het aanvragen van de subsidie, de voorwaarden en de procedure van toekenning en verantwoording van de subsidie.<br>
+&nbsp;
 
 ### ART. 46.
 
@@ -251,7 +268,18 @@ Loonkosten van personen voor wie de gemeente op basis van een andere regelgeving
 
 ### ART. 47.
 
-De minister kan namens de Vlaamse Regering een convenant sluiten met de Vlaamse Gemeenschapscommissie waarin de volgende elementen aan bod komen:<br />1° de invulling die de Vlaamse Gemeenschapscommissie zal geven aan de Vlaamse beleidsprioriteiten, vermeld in artikel 5, 1°, 2° en 3° ;<br />2° de organisatie van de openbare bibliotheek door Muntpunt vzw;<br />3° de voorwaarden waaronder de Vlaamse Gemeenschapscommissie de taken kan opnemen van een streekgericht bibliotheekbeleid als vermeld in artikel 59.<br /><br />Voor de uitvoering van het convenant geeft de Vlaamse Regering een subsidie aan de Vlaamse Gemeenschapscommissie.<br /><br />Het convenant wordt opgesteld voor een periode van vijf jaar. Het bepaalt het subsidiebedrag en de nadere regels voor de toekenning en de verantwoording van de subsidie.<br /><br />
+De minister kan namens de Vlaamse Regering een convenant sluiten met de Vlaamse Gemeenschapscommissie waarin de volgende elementen aan bod komen:<br>
+1° de invulling die de Vlaamse Gemeenschapscommissie zal geven aan de Vlaamse beleidsprioriteiten, namelijk:<br>
+a) een kwaliteitsvol en duurzaam lokaal cultuurbeleid voeren;<br>
+b) een laagdrempelige bibliotheek, aangepast aan de hedendaagse behoeften, organiseren;<br>
+c) een cultuurcentrum organiseren;<br>
+2° de organisatie van de openbare bibliotheek door Muntpunt vzw;<br>
+3° de voorwaarden waaronder de Vlaamse Gemeenschapscommissie de taken kan opnemen van een streekgericht bibliotheekbeleid als vermeld in artikel 59.<br>
+<br>
+Voor de uitvoering van het convenant geeft de Vlaamse Regering een subsidie aan de Vlaamse Gemeenschapscommissie.<br>
+<br>
+Het convenant wordt opgesteld voor een periode van vijf jaar. Het bepaalt het subsidiebedrag en de nadere regels voor de toekenning en de verantwoording van de subsidie.<br>
+&nbsp;
 
 ### ART. 48.
 
@@ -261,10 +289,7 @@ Voor de individuele gemeenten in het tweetalige gebied Brussel-Hoofdstad wordt v
 
 ### ART. 49.
 
-De Vlaamse Regering zal in het kader van het lokaal cultuurbeleid Vlaamse beleidsprioriteiten bepalen voor de grootstedelijke gebieden Antwerpen en Gent. Om te kunnen intekenen op die beleidsprioriteiten moeten Antwerpen en Gent voldoen aan de bepalingen, vermeld in artikelen 7 en 9.<br>
-<br>
-De Vlaamse Regering bepaalt de subsidie en de criteria voor de toekenning van de subsidie.<br>
-&nbsp;
+...
 
 ## HOOFDSTUK 7 Indexering van de subsidiebedragen
 
@@ -310,11 +335,11 @@ De gemeente bepaalt de nadere voorwaarden van de werking van de adviesorganen vo
 
 ### ART. 59.
 
-Ter ondersteuning van de bibliotheekwerking van elke gemeente in de provincie neemt elke provincie het initiatief tot een streekgericht bibliotheekbeleid.<br /><br />Elke provincie geeft autonoom invulling aan het streekgericht bibliotheekbeleid ter ondersteuning van de bibliotheekwerking in de provincie. Speciale aandacht gaat naar de schaalvergroting van de bibliotheekwerking, door provinciale bibliotheeksystemen te ontwikkelen en aan te bieden, en door samenwerkingsverbanden tussen gemeenten te begeleiden, te stimuleren en te ondersteunen.<br /><br />De provincie betrekt de gemeenten, via een ruim participatieproces, actief bij de invulling, uitvoering en evaluatie van het streekgericht bibliotheekbeleid.<br /><br />De Vlaamse Regering zal jaarlijks minstens één interbestuurlijk overleg organiseren om het Vlaamse, provinciale en lokale bibliotheekbeleid op elkaar af te stemmen.<br /><br />
+...
 
 ### ART. 60.
 
-De provincies zijn bevoegd om :<br />1° ondersteuning te bieden aan vormen van bovenlokale platformwerking en samenwerking in het kader van het lokaal cultuurbeleid en de lokale cultuureducatie en cultuurcommunicatie, met uitzondering van de structurele subsidiëring van activiteiten die worden ondersteund op basis van artikel 38 van dit decreet;<br />2° het sociaal-cultureel volwassenenwerk van bovenlokaal belang structureel te ondersteunen, met uitzondering van de ondersteuning aan organisaties die structureel gesubsidieerd worden op basis van de Vlaamse vigerende regelgeving met betrekking tot het sociaal-cultureel volwassenenwerk;<br />3° kwaliteitbevorderende maatregelen te nemen binnen de amateurkunstensector, meer bepaald :<br />a) de structurele ondersteuning van organisaties van bovenlokaal belang, met uitzondering van de organisaties die structureel gesubsidieerd worden op basis van de Vlaamse vigerende regelgeving met betrekking tot de amateurkunsten;<br />b) de organisatie van wedstrijden en tornooien met het oog op kwaliteitsbevordering;<br />4° de professionele kunsten van bovenlokaal belang structureel te ondersteunen, met uitzondering van de organisaties of kunstenaars die structureel gesubsidieerd worden op basis van de Vlaamse vigerende regelgeving met betrekking tot de kunsten;<br />5° ondersteuning te bieden aan circusorganisaties van bovenlokaal belang, circusevenementen en circusateliers, met uitzondering van de ondersteuning aan organisaties, evenementen en ateliers die structureel gesubsidieerd worden op basis van de Vlaamse vigerende regelgeving met betrekking tot het circus;<br />6° een regionaal cultureel-erfgoedbeleid te voeren zoals wordt bepaald in de Vlaamse vigerende regelgeving met betrekking tot het cultureel-erfgoedbeleid;<br />7° gebiedsgerichte projecten, impulsprojecten of projecten voor bijzondere doelgroepen in het kader van het beleid met betrekking tot het sociaal-cultureel volwassenenwerk, het (amateur)kunstenbeleid, het circusbeleid en het cultureel-erfgoedbeleid te ondersteunen. Op verzoek van hetzij de Vlaamse Regering, hetzij een of meer provincies, kan dat opgenomen worden in een bestuursakkoord als vermeld in artikel 2 van het Provinciedecreet;<br />8° in afwijking van punten 2°, 3°, 4°, 5° en 6°, ondersteuning te bieden aan initiatieven en organisaties die worden ondersteund door de Vlaamse overheid, maar waarvan de provincie medeorganisator is, binnen de afspraken die zijn opgenomen in een beheersovereenkomst.<br /><br />Een provincie die op 1 januari 2014 deelneemt in een rechtspersoon die gericht is op het uitoefenen van een bevoegdheid of taak als vermeld in artikel 4 en 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, behoudt die bevoegdheid voor zover die instelling opgenomen is in de lijst die de Vlaamse Regering heeft vastgesteld, na advies van de provincies.<br /><br />
+...
 
 ## TITEL 6 Overgangsbepalingen
 
