@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029019,
+  "title": "Besluit van de Vlaamse Regering van 2018-01-12 houdende de omschrijving van de territoriale bevoegdheid van De Vlaamse Waterweg NV",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029019/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "4f0de1d74cc9da6751a03d5a12c0942944823cc82533999dfc359303bd13fba2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029019&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2018-01-12",
+  "gazette": "2018-02-15",
+  "numac": 2018010574,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
