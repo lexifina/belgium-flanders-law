@@ -2,16 +2,16 @@
   "codex_id": 1022085,
   "title": "Decreet van 2012-07-06 houdende het stimuleren en subsidiëren van een lokaal sportbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022085/VolledigDocument?datum=2016-07-01",
-  "source_sha256": "c179510dd8db29ba3e3fd118456a25a80010a6dead7163dcb89e31207c8ba250",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022085/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "7abdc84f7a85541a20f86f7b1fbafcc8fe0c530a28801a5fdf4a8bdf727214d7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022085&param=informatie",
-  "as_of": "2016-07-01",
+  "as_of": "2018-01-01",
   "made": "2012-07-06",
   "gazette": "2012-08-16",
   "numac": 2012204477,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2016-07-01",
-  "article_versions": 38,
-  "record_form": "consolidated version as in force on 2016-07-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-01-01",
+  "article_versions": 39,
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
