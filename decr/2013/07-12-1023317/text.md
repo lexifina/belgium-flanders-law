@@ -846,7 +846,9 @@ De cultuurgoederen die opgenomen zijn in een besluit tot bescherming van   een m
 
 ### ART. 6.4.10.
 
-<P>De Vlaamse Regering kan om redenen van algemeen nut overgaan tot onteigening   van een beschermd goed als dat dreigt te vervallen, te worden beschadigd of te   worden vernield.<BR></P>  <P>De Vlaamse Regering kan het gemeentebestuur of een autonoom gemeentebedrijf   op het grondgebied waarvan het beschermd goed ligt, de toestemming verlenen om   tot die onteigening over te gaan.<BR></P>
+<p>De Vlaamse Regering en de gemeente op het grondgebied waarvan het beschermd goed ligt, kunnen om redenen van algemeen nut overgaan tot onteigening van een beschermd goed als dat dreigt te vervallen, te worden beschadigd of te worden vernield.<br>
+<br>
+Een autonoom gemeentebedrijf kan door de gemeenteraad van de gemeente op wiens grondgebied het voorwerp van de onteigening zich bevindt, hiertoe gemachtigd worden.</p>
 
 ## Afdeling 5 Erfgoedlandschappen
 
