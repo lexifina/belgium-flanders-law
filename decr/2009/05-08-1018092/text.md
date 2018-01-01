@@ -99,7 +99,7 @@ g) informatie bezorgen die niet consistent of in overeenstemming met de werkelij
 48° EPB-eisen : eisen op het vlak van de energieprestaties en het binnenklimaat, dat wil zeggen het geheel van voorwaarden waaraan een gebouw, een technisch bouwsysteem of de constructieonderdelen inzake energetische prestaties, thermische isolatie, binnenklimaat, systeemeisen en ventilatie moet voldoen;<br>
 49° erkende instelling voor schuldbemiddeling : instelling die erkend is volgens het decreet van 24 juli 1996 houdende de regeling tot erkenning van de instellingen voor schuldbemiddeling in de Vlaamse Gemeenschap;<br>
 50° evenwichtsverantwoordelijke : rechtspersoon die een contract heeft afgesloten met de beheerder van het transmissienet met betrekking tot de transmissie van elektriciteit tussen een of meer injectiepunten en afnamepunten en die voor een geheel van toegangspunten zorg draagt voor het evenwicht tussen de injectie en de afname van elektriciteit op die toegangspunten;<br>
-51° ...<br>
+51° federale Elektriciteitswet: de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br>
 53° garantie van oorsprong : uniek, verhandelbaar en overdraagbaar elektronisch document dat uitsluitend tot doel heeft om de eindafnemer aan te tonen dat een bepaald aandeel of een bepaalde hoeveelheid energie geproduceerd is op basis van hernieuwbare energiebronnen of kwalitatieve warmte-krachtkoppeling.<br>
 54° gaswinningsinstallatie : installatie waarmee aardgas wordt gewonnen uit de ondergrond of waarin biogas wordt geproduceerd;<br>
 55° gebied bestemd voor bewoning : gebied dat volgens het gewestplan of ruimtelijk uitvoeringsplan één van de volgende bestemmingen heeft :<br>
@@ -125,6 +125,7 @@ b) het distribueert primair elektriciteit of aardgas aan de eigenaar of beheerde
 64° heffingsjaar : het kalenderjaar waarvoor de heffing, vermeld in titel XIV, is verschuldigd;<br>
 65° hernieuwbare energiebronnen : hernieuwbare niet-fossiele en niet-nucleaire energiebronnen, met name wind, zon, aerothermische, geothermische, hydrothermische energie en energie uit de oceanen, waterkracht, biomassa, stortgas, gas van rioolwaterzuiveringsinstallaties en biogas;<br>
 66° hernieuwbare energietechnologieën : technologieën die gebruikmaken van hernieuwbare energiebronnen;<br>
+66° /1 hoogspanning: een nominaal spanningsniveau van 30 kilovolt of hoger;<br>
 67° huishoudelijke afnemer : elke natuurlijke persoon aangesloten op een aardgasdistributienet of een elektriciteitsdistributienet op een spanning gelijk aan 1 000 volt of minder, die elektriciteit of aardgas afneemt om te voorzien in zijn behoeften of die van de personen die samen met hem in de woning in kwestie gedomicilieerd zijn, behoudens in het geval dat het leveringscontract voor de levering van elektriciteit respectievelijk aardgas op het afnamepunt in kwestie werd gesloten door een onderneming, zoals bedoeld in artikel 2, 3°, van de wet van 16 januari 2003 tot oprichting van een kruispuntbank voor ondernemingen, tot modernisering van het handelsregister, tot oprichting van erkende ondernemingsloketten en houdende diverse bepalingen;<br>
 67° /2 huishoudelijke netgebruiker : een huishoudelijke afnemer of een natuurlijke persoon die aangesloten is op een aardgasdistributienet of een elektriciteitsdistributienet op een spanning gelijk aan 1000 volt of minder, die elektriciteit opwekt, biogas produceert of aardgas wint om te voorzien in zijn behoeften of die van de personen die samen met hem in de woning in kwestie gedomicilieerd zijn;<br>
 68° hulpkrediet : een krediet dat ter beschikking wordt gesteld van een huishoudelijke afnemer, zodra het op de budgetmeter voor elektriciteit of op de budgetmeter voor aardgas opgeladen bedrag opgebruikt is;<br>
@@ -149,6 +150,7 @@ b) de resterende geraamde economische levensduur van een gebouw, waarbij de ener
 en dat binnen het scala van prestatieniveaus ligt waar de berekende kosten-batenanalyse over de geraamde economische levensduur positief is;<br>
 76° kwalitatieve warmte-krachtinstallatie: warmte-krachtinstallatie waarvan het productieproces voldoet aan de kwaliteitsvoorwaarden die opgelegd zijn overeenkomstig artikel 7.1.2, § 4;<br>
 77° kwalitatieve warmte-krachtkoppeling: warmte-krachtkoppeling die voldoet aan de kwaliteitsvereisten, opgelegd overeenkomstig artikel 7.1.2, § 4;<br>
+77° /1 laagspanning: een nominaal spanningsniveau van 1000 volt of lager;<br>
 78° leverancier : elke natuurlijke persoon of rechtspersoon die aan afnemers elektriciteit of aardgas verkoopt;<br>
 79° lokale adviescommissie : commissie als vermeld in artikel 7 van het decreet van 20 december 1996 tot regeling van het recht op minimumlevering van elektriciteit, gas en water;<br>
 79° /1 lopende projecten : projecten met startdatum tot en met de eerstvolgende hieronder genoemde van toepassing zijnde datum :<br>
@@ -168,6 +170,7 @@ d) die, bij weten van haar bestuursorgaan, onder de controle staan van de ondern
 a) minder dan 250 werknemers tewerkstellen;<br>
 b) een jaaromzet hebben van maximaal 50 miljoen euro of een jaarlijks balanstotaal van maximaal 43 miljoen euro;<br>
 c) beantwoorden aan het zelfstandigheidscriterium;<br>
+86° /1 middenspanning: een nominaal spanningsniveau van meer dan 1000 volt en lager dan 30 kilovolt;<br>
 87° minister : de Vlaamse minister, bevoegd voor het energiebeleid;<br>
 88°...<br>
 89° net : distributienet, plaatselijk vervoernet van elektriciteit, transmissienet, vervoersnet, gesloten distributienet of privédistributienet;<br>
@@ -206,6 +209,7 @@ b) decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensv
 109° referentieproject : project voor het installeren en monitoren bij een eerste gebruiker, die niet de ontwikkelaar, fabrikant of distributeur is, van voor het Vlaamse Gewest nieuwe energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën of van voor het Vlaamse Gewest nieuwe toepassingen van energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën door de ontwikkelaar, fabrikant of distributeur ervan;<br>
 110° REG-actieplan : actieplan voor de bevordering van het rationeel energiegebruik, waarbij de acties minstens bestaan uit het geven van een financiële stimulans aan de afnemers voor het uitvoeren van maatregelen en uit het verlenen van informatie, waardoor de aandacht op de actie wordt gevestigd en de doelgroep de nodige informatie krijgt over de besparingsmogelijkheden ervan;<br>
 111° rendabele investeringen : investeringen met een interne rentevoet na belastingen die hoger is dan een minimum, dat vastgelegd is door de Vlaamse Regering;<br>
+111° /1 residentiële afnemer: elke natuurlijke persoon aangesloten op een elektriciteitsdistributienet op laagspanning, die elektriciteit afneemt om te voorzien in zijn behoeften of die van de personen die samen met hem in de woning in kwestie gedomicilieerd zijn, behoudens in het geval dat het leveringscontract voor de levering van elektriciteit op het afnamepunt in kwestie werd gesloten door een onderneming, zoals bedoeld in artikel I.4, 1°, van het Wetboek van Economisch Recht;<br>
 112° richtlijn 2010/31/EU : richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen;<br>
 113° ...<br>
 113°/1 slimme meter : een elektronische meter die energiestromen en aanverwante fysische grootheden meet en registreert en die uitgerust is met een tweerichtingscommunicatiemiddel, dat ervoor zorgt dat de gegevens niet alleen lokaal, maar ook op afstand uitgelezen kunnen worden en dat de meter in staat is om op basis van de gegevens die hij lokaal of van op afstand ontvangt bepaalde acties uit te voeren;<br>
@@ -258,13 +262,7 @@ b) voor warmte-krachtbesparing is dit de netto warmte-krachtbesparing over een b
 137° /2 welzijnsvoorziening: een organisatie die erkend is door de Vlaamse Gemeenschap en activiteiten uitoefent op het gebied van het gezin, het maatschappelijk welzijn, het onthaal en de integratie van inwijkelingen, de mindervaliden, de bejaarden, de jeugdbescherming en de sociale hulpverlening aan gedetineerden met het oog op hun sociale re-integratie, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 138° werkmaatschappij : de privaatrechtelijke vennootschap waarin de distributienetbeheerder participeert of de publiekrechtelijke rechtspersoon die participeert in de distributienetbeheerder, die in naam en voor rekening van de distributienetbeheerder belast is met de exploitatie van zijn net en de toepassing van openbaredienstverplichtingen;<br>
 138/1° Woningbouwwet: de wet van 9 juli 1971 tot regeling van de woningbouw en de verkoop van te bouwen of in aanbouw zijnde woningen;<br>
-139° wooneenheid : elke eenheid in een woongebouw die over de nodige woonvoorzieningen beschikt om autonoom te kunnen functioneren.<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-&nbsp;
+139° wooneenheid : elke eenheid in een woongebouw die over de nodige woonvoorzieningen beschikt om autonoom te kunnen functioneren.
 
 ## TITEL II. DOELSTELLINGEN
 
@@ -853,7 +851,11 @@ De uitoefening door de netbeheerder van het recht, vermeld in artikel 4.1.23, ka
 
 ### ART. 4.1.26.
 
-§ 1. Met uitzondering voor het gewestelijk openbaar domein kunnen netbeheerders, daartoe gemachtigd door de Vlaamse Regering, overeenkomstig de reglementering betreffende de onteigening ten algemenen nutte, in eigen naam en voor eigen rekening onroerende goederen onteigenen die voor de rechtstreekse verwezenlijking van hun doel nodig zijn.<br /><br />De onteigeningen, vermeld in het eerste lid, zullen worden gevorderd met toepassing van de gemeenrechtelijke onteigeningsprocedure of van de rechtspleging in urgente omstandigheden.<br /><br />§ 2. In afwijking van § 1 kan de Vlaamse Regering aan de netbeheerder op het gewestelijk openbaar domein domeintoelatingen, vergunningen voor het privatief gebruik of domeinconcessies verlenen via het gelasten van de door haar of via decreet aangestelde domeinbeheerder.
+§ 1. Met uitzondering voor het gewestelijk openbaar domein kunnen netbeheerders, daartoe gemachtigd door de Vlaamse Regering, overeenkomstig de reglementering betreffende de onteigening ten algemenen nutte, in eigen naam en voor eigen rekening onroerende goederen onteigenen die voor de rechtstreekse verwezenlijking van hun doel nodig zijn.<br>
+<br>
+De onteigeningen, vermeld in het eerste lid, worden uitgevoerd conform de bepalingen van het Vlaams Onteigeningsdecreet van 24 februari 2017.<br>
+<br>
+§ 2. In afwijking van § 1 kan de Vlaamse Regering aan de netbeheerder op het gewestelijk openbaar domein domeintoelatingen, vergunningen voor het privatief gebruik of domeinconcessies verlenen via het gelasten van de door haar of via decreet aangestelde domeinbeheerder.
 
 ## [Onderafdeling III. Recht op toegang van de netbeheerder tot alle installaties waarvan hij het eigendoms- of gebruiksrecht heeft en die zich bevinden in de inrichting van de netgebruiker (ing. decr. 14 maart 2014, art. 13, I: 7 april 2014)]
 
@@ -2427,29 +2429,43 @@ De inkomsten die voortvloeien uit de opbrengst van de administratieve geldboetes
 
 ### ART. 14.1.1.
 
-<p>§ 1. Er wordt vanaf heffingsjaar 2015 een maandelijkse heffing per afnamepunt gelegen in het Vlaamse Gewest vastgesteld:<br>
+<p>§ 1. Vanaf heffingsjaar 2018 wordt een maandelijkse heffing vastgesteld per afnamepunt gelegen in het Vlaamse Gewest:<br>
 1° op het elektriciteitsdistributienet;<br>
 2° op het plaatselijk vervoersnet van elektriciteit;<br>
-3° op een gesloten distributienet van elektriciteit.<br>
+3° op een gesloten distributienet van elektriciteit;<br>
+4° op het transmissienet, met inbegrip van de netten vermeld in artikel 2, 41° en 42°, van de federale Elektriciteitswet.<br>
 <br>
-§ 2. De heffing is verschuldigd door elke afnemer die in de loop van het heffingsjaar volgens het toegangsregister titularis was van een afnamepunt, vermeld in § 1.</p>
+§ 2. De heffing, vermeld in § 1, is verschuldigd door elke afnemer die in de loop van het heffingsjaar volgens het toegangsregister titularis was van een afnamepunt als vermeld in § 1.<br>
+<br>
+Het geheel van afnamepunten van een gesloten distributienet als vermeld in paragraaf 1, 3°, dat voldoet aan artikel 1.1.3, 56° /2, en van een gesloten industrieel net als vermeld in artikel 2, 41°, van de federale Elektriciteitswet, wordt echter als één afnamepunt beschouwd. De heffing is in dat geval verschuldigd door de afnemer die volgens het toegangsregister titularis was van het afnamepunt op het transmissienet, het plaatselijk vervoersnet van elektriciteit, het elektriciteitsdistributienet.</p>
 
 ### ART. 14.1.2.
 
-<p>Het tarief van de heffing bedraagt per afnamepunt per maand dat de afnemer in het heffingsjaar is aangesloten geweest op een van de netten, vermeld in artikel 14.1.1, § 1 :<br>
-- van 1 januari tot en met 30 juni 2015 : 15 eurocent;<br>
-- van 1 juli 2015 tot en met 31 december 2015 : 34 eurocent;<br>
-- vanaf 1 januari 2016 : 25 eurocent.</p>
+Het tarief van de heffing bedraagt per afnamepunt per maand dat de afnemer in het heffingsjaar is aangesloten geweest op een van de netten, vermeld in artikel 14.1.1, § 1:<br>
+1° voor de volgende afnemers die aangesloten zijn op laagspanning:<br>
+a) voor residentiële afnemers: 42 eurocent per maand;<br>
+b) voor niet-residentiële afnemers: 7,87 euro per maand;<br>
+2° voor de afnemers die aangesloten zijn op middenspanning: 150,00 euro per maand;<br>
+3° voor afnemers die aangesloten zijn op hoogspanning: 875,00 euro per maand.<br>
+<br>
+Indien in de loop van een maand een afnamepunt aangesloten op één van de netten, vermeld in artikel 14.1.1, § 1, wordt weggenomen, dan wordt het tarief, vermeld in het eerste lid, toegepast pro rata temporis voor de periode dat het afnamepunt tot de categorieën, vermeld in het eerste lid, behoort.<br>
+<br>
+Indien in de loop van een maand een nieuw afnamepunt wordt aangesloten op één van de netten, vermeld in artikel 14.1.1, § 1, dan is de heffing voor dat afnamepunt voor het eerst verschuldigd vanaf de eerste dag van de maand volgende op de aansluiting.<br>
+<br>
+Indien in de loop van een maand een afnamepunt dat is aangesloten op één van de netten, vermeld in artikel 14.1.1, § 1, wordt aangepast waardoor het van spanningsniveau verandert, dan is het tarief van de spanningscategorie waartoe het na wijziging behoort, als vermeld in het eerste lid, voor het eerst verschuldigd vanaf de eerste dag van de maand volgende op de wijziging.<br>
+<br>
+Wat het onderscheid betreft tussen residentiële en niet-residentiële afnemers als vermeld in het eerste lid, 1°, wordt dit onderscheid met betrekking tot elk afnamepunt op laagspanning als vermeld in artikel 14.1.1, voor toepassing van elke heffingsmaand gemaakt aan de hand van de situatie zoals deze van toepassing was op de eerste dag van die maand. Het afnamepunt in kwestie behoudt deze status tot en met de laatste dag van diezelfde maand.
 
 ### ART. 14.1.3.
 
-Hoeveelheid elektrische stroom, uitgedrukt in GWh, zoals berekend in artikel 14
-<p>De heffing wordt van rechtswege met ingang van heffingsjaar 2016 jaarlijks op 1 januari geïndexeerd door het tarief in artikel 14.1.2 te vermenigvuldigen met het indexcijfer van de consumptieprijzen, vastgesteld voor de maand oktober van het vorige heffingsjaar, en te delen door het indexcijfer van de consumptieprijzen, vastgesteld voor de maand december van het jaar 2014. Na de toepassing van die coëfficiënt worden de bedragen afgerond op de hogere eurocent.<br>
-<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>3</o:Revision><br>  <o:TotalTime>8</o:TotalTime><br>  <o:Created>2009-07-07T10:30:00Z</o:Created><br>  <o:LastSaved>2009-07-08T06:22:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>93</o:Words><br>  <o:Characters>515</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>4</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>607</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;3074"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--></p>
+De heffing, vermeld in dit hoofdstuk, wordt van rechtswege met ingang van heffingsjaar 2019 jaarlijks op 1 januari geïndexeerd door het tarief, vermeld in artikel 14.1.2, te vermenigvuldigen met het indexcijfer van de consumptieprijzen, vastgesteld voor de maand oktober van het vorige heffingsjaar, en te delen door het indexcijfer van de consumptieprijzen, vastgesteld voor de maand december van het jaar 2017.
 
 ### ART. 14.1.3/1.
 
-[ ... (Deze versie vervalt ingevolge het arrest 83/2017 van het Grondwettelijk Hof van&nbsp;22&nbsp;juni 2017. Zie commentaar bij dit artikel)]
+Het tarief, vermeld in artikel 14.1.2, 1°, van dit decreet, wordt verminderd tot 0,00 euro als residentiële afnemer, vermeld in artikel 14.1.1, § 2, een beschermde afnemer is als vermeld in artikel 1.1.1, § 2, 7°, van het Energiebesluit van 19 november 2010.<br>
+<br>
+Deze vermindering wordt toegepast pro rata temporis voor de periode dat de afnemer of het afnamepunt tot de categorieën, vermeld in het eerste lid, behoort.<br>
+&nbsp;
 
 ### ART 14.1.4.
 
@@ -2477,7 +2493,15 @@ Indien er gedurende een bepaalde kalendermaand voor een afnamepunt echter meerde
 <br>
 De factuur die naar de afnemer wordt verstuurd, vermeldt de precieze vergoeding die de afnemer verschuldigd is en geldt als verzoek tot betaling van de verschuldigde heffing. De betalingstermijn bedraagt ten minste vijftien dagen en begint te lopen op de verzendingsdatum van het verzoek tot betaling.<br>
 <br>
-&nbsp;§ 2. Elke toegangshouder bezorgt uiterlijk de twintigste dag van elke&nbsp;maand aan de Vlaamse Belastingdienst een overzicht van de ten laste van de afnemers aangerekende heffingen die hij in de loop van de vorige&nbsp;maand heeft geboekt.<br>
+&nbsp;§ 1/1. Voor het toepassen van het tarief, vermeld in artikel 14.1.2, eerste lid, 1°, brengt elke elektriciteitsdistributienetbeheerder tegen uiterlijk de vijftiende dag van elke maand en dit voor het eerst uiterlijk op 15 april 2018 iedere toegangshouder op de hoogte van het feit of er op het adres van de afnamepunten waarvoor die toegangshouder als dusdanig in het toegangsregister van die elektriciteitsdistributienetbeheerder staat geregistreerd op de eerste dag van de vorige maand minstens één natuurlijke persoon was gedomicilieerd.<br>
+<br>
+In afwijking van eerste lid brengt elke elektriciteitsdistributienetbeheerder voor het toepassen van het tarief, vermeld in artikel 14.1.2, eerste lid, 1°, vanaf 1 januari 2019 tegen uiterlijk de eerste dag van elke maand iedere toegangshouder op de hoogte van het feit of er op het adres van de afnamepunten waarvoor die toegangshouder als dusdanig in het toegangsregister van die elektriciteitsdistributienetbeheerder staat geregistreerd op de eerste dag van de vorige maand minstens één natuurlijke persoon was gedomicilieerd.<br>
+<br>
+De elektriciteitsdistributienetbeheerder doet voor de taak, vermeld in het eerste lid, een beroep op de gegevens uit een authentieke gegevensbron als vermeld in artikel 2, 2°, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Hieronder wordt minstens verstaan de Kruispuntdatabank van de Sociale Zekerheid en het Rijksregister. De elektriciteitsdistributienetbeheerders bekomen van het Rijksregister voor die afnamepunten de NAW-gegevens, te weten naam, adres en woonplaats, en het rijksregisternummer en kunnen die gebruiken bij de volgende periodieke koppelingen met het Rijksregister. De Vlaamse Regering kan nadere regels bepalen met betrekking tot de procedure van bovenvermelde kennisgevingen.<br>
+<br>
+Als een residentiële afnemer op basis van de gegevens, vermeld in het eerste lid, onterecht het tarief, vermeld in artikel 14.1.2, eerste lid, 1°, b, werd aangerekend, dan bezorgt de betrokken residentiële afnemer aan diens toegangshouder een bewijs waarin aangegeven is dat hij of een andere natuurlijke persoon op de eerste dag van de betrokken heffingsmaand op het adres van het afnamepunt gedomicilieerd was. De toegangshouder corrigeert de aanrekening van de heffing overeenkomstig en stuurt een correctie naar het toegangsregister.<br>
+<br>
+§ 2. Elke toegangshouder bezorgt uiterlijk de twintigste dag van elke&nbsp;maand aan de Vlaamse Belastingdienst een overzicht van de ten laste van de afnemers aangerekende heffingen die hij in de loop van de vorige&nbsp;maand heeft geboekt.<br>
 <br>
 Het model en de wijze van indienen van dit overzicht wordt door de Vlaamse Regering vastgesteld maar bevat minstens:<br>
 1° de benaming van de toegangshouder;<br>
@@ -2499,7 +2523,7 @@ Als het totaal bedrag van de niet-invorderbare schuldvorderingen lager is dan he
 
 <p><!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>1</o:TotalTime><br>  <o:Created>2009-07-07T10:36:00Z</o:Created><br>  <o:LastSaved>2009-07-07T10:37:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>93</o:Words><br>  <o:Characters>513</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>4</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>605</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;2050"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->§ 1. De Vlaamse Regering kan nadere regels bepalen betreffende de procedure en de modaliteiten voor de vordering van de heffing door de toegangshouder, de betaling van de geïnde bedragen aan het Energiefonds en de invordering. Ze bepaalt welke informatie aan de Vlaamse Belastingdienst moet worden meegedeeld en de inlichtingen die nodig zijn voor de controle en de invordering van de heffing.<br>
 <br>
-§ 2. In afwijking van artikel 14.2.2, § 2, kan de Vlaamse Regering als overgangsmaatregel bepalen dat de eerste stortingen door de toegangshouders op de rekening van het Vlaamse Gewest van alle door hen conform artikel 14.2.2, § 1, reeds geïnde heffingen pas tegen uiterlijk 30 juli 2015 dienen te geschieden.</p>
+§ 2. In afwijking van artikel 14.2.2, dienen de eerste doorstortingen door de toegangshouders op de rekening van het Vlaamse Gewest van alle door hen conform artikel 14.2.2, § 1, voor het heffingsjaar 2018 reeds geïnde heffingen pas tegen uiterlijk 30 juli 2018 te geschieden.</p>
 
 ## [HOOFDSTUK III. Heffing op de exploitatie van een directe lijn in het Vlaamse Gewest (ing. decr. 16 november 2018, art. 5, I: 1 januari 2019)]
 
@@ -2596,6 +2620,14 @@ De elektriciteitsdistributienetbeheerders zorgen ervoor dat tegen uiterlijk 1 ju
 ### ART 15.3.5/10.
 
 Tegen de beslissingen die de VREG met toepassing van titel IV, hoofdstuk I, afdeling XII, heeft genomen, en die op de dag van de inwerkingtreding van dit artikel niet definitief waren, loopt een nieuwe beroepstermijn van 30 dagen vanaf diezelfde dag.
+
+### ART 15.3.5/11.
+
+In afwijking van artikel 14.1.1 wordt het geheel van afnamepunten waarvoor bij de VREG op 1 januari 2018 al een aanvraag tot goedkeuring als een gesloten distributienet lopende is, behandeld conform artikel 14.1.1, § 2, tweede lid, op voorwaarde dat tegen uiterlijk 1 januari 2021 over deze aanvraag een gunstige beslissing valt.<br>
+<br>
+In afwijking van artikel 14.1.1 wordt het geheel van afnamepunten waarvoor bij de daartoe bevoegde federale overheidsdienst op 1 januari 2018 al een aanvraag tot goedkeuring als een gesloten industrieel net, vermeld in artikel 2, 41°, van de federale Elektriciteitswet, lopende is, behandeld conform artikel 14.1.1, § 2, tweede lid, op voorwaarde dat tegen uiterlijk 1 januari 2021 over deze aanvraag een gunstige beslissing valt.<br>
+<br>
+Indien de afnamepunten, vermeld in het eerste en tweede lid, op 1 januari 2021 echter geen deel uitmaken van een goedgekeurd gesloten distributienet of een goedgekeurd gesloten industrieel net, dan worden zij alsnog voor de periode vanaf 1 januari 2018 tot en met 31 december 2020 belast conform artikel 14.1.1, § 2, eerste lid, en dit aan het tarief, vermeld in artikel 14.1.2, die voor de desbetreffende maandelijkse periodes van toepassing was. In afwijking van artikel 14.2.2 zorgt de Vlaamse Belastingdienst in dat geval tegen uiterlijk 1 juli 2021 voor een bijkomende aanslag. De Vlaamse Regering kan nadere regels vastleggen voor de gegevensoverdracht van de toegangshouders en de netbeheerders aan de Vlaamse Belastingdienst voor de correcte toepassing van dit artikel.
 
 ### ART 15.3.5/12.
 
