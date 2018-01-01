@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028673,
+  "title": "Besluit van de Vlaamse Regering van 2017-09-08 tot diversificatie van het bedrag van de retributie voor een planaanvraag en het bepalen van een bijkomende retributie voor een andere functionaliteit van het KLIP als vermeld in artikel 5 van het KLIP-decreet van 14 maart 2008",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028673/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "a62bd201e079c7cd692bbb1db6afbcfea135980e70a00f02dd4cb530763c5e30",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028673&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-09-08",
+  "gazette": "2017-10-13",
+  "numac": 2017013440,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
