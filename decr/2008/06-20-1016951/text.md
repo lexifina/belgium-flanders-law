@@ -66,7 +66,18 @@ De raad van bestuur is het hoogste bestuurs- en beheersorgaan en heeft uit dien 
 
 ### ART. 12.
 
-De raad van bestuur is belast met:<BR>1° de oprichting en de inrichting   van de faculteiten, de departementen, de schools, de diensten, de   onderzoeksinstituten, de leerstoelen en alle andere academische organen en   organisatie-eenheden die de raad noodzakelijk acht; <BR>2° het bepalen van het   bestuursreglement, de reglementen voor de verkiezing van de rector, de   vicerectoren en de leden van de andere academische organen, het onderwijs- en   het examenreglement, met inbegrip van onderwijsprogramma's, de   rechtspositieregeling van de student, het personeelsreglement, het   tuchtreglement en alle andere reglementen rekening houdend met het bepaalde in   artikel 5/1;<BR>3° de goedkeuring van de algemene richtlijnen voor de   organisatie, coördinatie en kwaliteitsbewaking van het academisch onderwijs, het   wetenschappelijk onderzoek en de wetenschappelijke en maatschappelijke   dienstverlening van de Universiteit Hasselt;<BR>4° het goedkeuren en eventueel   aanpassen van het vijfjaarlijks investerings- en financieringsplan;<BR>5° het   jaarlijks vastleggen en goedkeuren van de begroting, de jaarrekening en het   jaarverslag van de universiteit;<BR>6° het bepalen van de   personeelsformatie;<BR>7° de aanstelling van de voorzitter, ondervoorzitter,   rector, vicerectoren;<BR>8° de aanstelling en de evaluatie van de   beheerder.<BR>9° het onteigenen van onroerende goederen die rechtstreeks of   onrechtstreeks vereist zijn voor het onderwijs, het onderzoek, de   wetenschappelijke dienstverlening en de administratie van de universiteit,   overeenkomstig de wetgeving betreffende de onteigeningen ten algemene nutte en   na de machtiging van de Vlaamse Regering.<BR><BR>Die bevoegdheden kunnen niet   aan enig ander orgaan worden opgedragen.
+De raad van bestuur is belast met:<br>
+1° de oprichting en de inrichting van de faculteiten, de departementen, de schools, de diensten, de onderzoeksinstituten, de leerstoelen en alle andere academische organen en organisatie-eenheden die de raad noodzakelijk acht;<br>
+2° het bepalen van het bestuursreglement, de reglementen voor de verkiezing van de rector, de vicerectoren en de leden van de andere academische organen, het onderwijs- en het examenreglement, met inbegrip van onderwijsprogramma's, de rechtspositieregeling van de student, het personeelsreglement, het tuchtreglement en alle andere reglementen rekening houdend met het bepaalde in artikel 5/1;<br>
+3° de goedkeuring van de algemene richtlijnen voor de organisatie, coördinatie en kwaliteitsbewaking van het academisch onderwijs, het wetenschappelijk onderzoek en de wetenschappelijke en maatschappelijke dienstverlening van de Universiteit Hasselt;<br>
+4° het goedkeuren en eventueel aanpassen van het vijfjaarlijks investerings- en financieringsplan;<br>
+5° het jaarlijks vastleggen en goedkeuren van de begroting, de jaarrekening en het jaarverslag van de universiteit;<br>
+6° het bepalen van de personeelsformatie;<br>
+7° de aanstelling van de voorzitter, ondervoorzitter, rector, vicerectoren;<br>
+8° de aanstelling en de evaluatie van de beheerder.<br>
+9° het onteigenen van onroerende goederen die rechtstreeks of onrechtstreeks vereist zijn voor het onderwijs, het onderzoek, de wetenschappelijke dienstverlening en de administratie van de universiteit,&nbsp;conform het Vlaams Onteigeningsdecreet van 24 februari 2017 en na de machtiging van de Vlaamse Regering.<br>
+<br>
+Die bevoegdheden kunnen niet aan enig ander orgaan worden opgedragen.
 
 ### ART. 13.
 
