@@ -8,7 +8,12 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 13 juli 1994 betreffend
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de personeelsleden vermeld in artikel 127, eerste lid, § 1, 1° en 2°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />Met behoud van de toepassing van het eerste lid, is hoofdstuk VII eveneens van toepassing op de personeelsleden van de Centra voor Basiseducatie die bezoldigd worden op basis van :<br />1° het koninklijk besluit van 15 april 1958 houdende de bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs<br />2° het koninklijk besluit van 1 december 1970 houdende bezoldigingsregeling van het administratief personeel, het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs.<br /><br />
+Dit besluit is van toepassing op de personeelsleden vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie.<br>
+<br>
+Met behoud van de toepassing van het eerste lid, is hoofdstuk VII eveneens van toepassing op de personeelsleden van de Centra voor Basiseducatie die bezoldigd worden op basis van :<br>
+1° het koninklijk besluit van 15 april 1958 houdende de bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs<br>
+2° het koninklijk besluit van 1 december 1970 houdende bezoldigingsregeling van het administratief personeel, het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs.<br>
+&nbsp;
 
 ## HOOFDSTUK II Terminologie
 
@@ -103,6 +108,10 @@ Aan artikel 14 van het koninklijk besluit van 1 december 1970 houdende bezoldigi
 ### ART. 21.
 
 In afwijking van artikel 13, worden alle prestaties die geleverd werden in een Centrum of in meerdere Centra voor Basiseducatie tijdens de periode van 1 januari 2008 tot en met 31 augustus 2008 voor de vaststelling van het vakantiegeld voor het jaar 2009 voor de personeelsleden, vermeld in artikel 1, § 1, beschouwd, als werden deze prestaties verricht door personeelsleden aangesteld overeenkomstig artikel 127, § 1, 1° en 2°, van het voormeld decreet.<br /><br />
+
+### ART 21/1.
+
+De perioden van tewerkstelling vóór 1 januari 2018 die opgenomen werden conform artikel 3, eerste lid, 5° en 6°, van het besluit van de Vlaamse Regering van 3 juli 2009 betreffende de toekenning van een verlof voor het uitoefenen van een andere tewerkstelling voor sommige personeelsleden van de Centra voor Basiseducatie, komen eveneens in aanmerking voor de toekenning van periodieke salarisverhogingen, vermeld in artikel 4 van dit besluit.
 
 ### ART. 22.
 
