@@ -974,7 +974,7 @@ De geldwaarde per punt is gelijk aan het quotiënt van de deling van het werking
 Dit bedrag wordt jaarlijks geïndexeerd door het bedrag van het voorgaande jaar te vermenigvuldigen met de aanpassingscoëfficiënt A = 0,4 (C1/C0) + 0,6 (Lkl/Lk0), waarbij :<br>
 1° Cl/C0 gelijk is aan de verhouding tussen het geraamde indexcijfer van de consumptieprijzen op het einde van het volgende begrotingsjaar en het geraamde indexcijfer van de consumptieprijzen op het einde van het lopende begrotingsjaar;<br>
 2° Lkl/Lk0 gelijk is aan de verhouding tussen het geraamde indexcijfer van de eenheidsloonkosten op het einde van het volgende begrotingsjaar en het geraamde indexcijfer van de eenheidsloonkosten op het einde van het lopende begrotingsjaar.<br>
-Voor de berekening van die subsidie komen de regelmatige leerlingen die op 1 februari van het vorige begrotingsjaar in het internaat verblijven in aanmerking. Er komen niet meer dan 100 leerlingen voor subsidiëring in aanmerking;<br>
+Voor de berekening van die subsidie komen de regelmatige leerlingen die op 1 februari van het vorige begrotingsjaar in het internaat verblijven in aanmerking. Er komen niet meer dan 110 leerlingen voor subsidiëring in aanmerking;<br>
 3° in afwijking van punt 1° is de verhouding C1/C0 voor het begrotingsjaar 2012 gelijk aan 1;<br>
 4° in afwijking van punt 1° is de verhouding C1/C0 voor het begrotingsjaar 2013 gelijk aan 1;<br>
 5° in afwijking van punt 1° is de verhouding C1/C0 voor het begrotingsjaar 2015 gelijk aan 1.<br>
@@ -1976,7 +1976,8 @@ De Vlaamse Regering bepaalt de duur en het tijdstip van de jaarlijkse vakantie v
 Deze afdeling is van toepassing op :<br>
 1° de personeelsleden bedoeld in artikel 2, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
 2° de personeelsleden bedoeld in artikel 4, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
-3° de leden van de onderwijsinspectie, bedoeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.<br>
+3° de leden van de onderwijsinspectie, bedoeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
+4° de personeelsleden bedoeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie.<br>
 &nbsp;<br>
 De afdeling is van toepassing op bovenvermelde personeelsleden voor zover zij :<br>
 - hetzij vast benoemd of tot de proeftijd toegelaten zijn;<br>
@@ -2080,7 +2081,8 @@ Dit hoofdstuk is van toepassing op :<br>
 1° de personeelsleden, bedoeld in artikel 2, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
 2° de personeelsleden, bedoeld in artikel 4, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
 3° de leden van de onderwijsinspectie, vermeld in het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
-4° de personeelsleden, bedoeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.
+4° de personeelsleden, bedoeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken;<br>
+5° de personeelsleden, bedoeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie.
 
 ### ART V.42.
 
