@@ -2,19 +2,19 @@
 
 ### Aanhef
 
-De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, artikel 114, tweede zin, en 128, § 1 en § 2, gewijzigd bij het decreet van 8 mei 2009; <br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 9 september 2008;<br /><br />Gelet op protocol nr. 10 van 20 maart 2009 houdende de conclusies van de onderhandelingen die werden gevoerd in het Vlaams Onderhandelingscomité voor de Basiseducatie, vermeld in het decreet van 23 januari 2009 tot oprichting van onderhandelingscomités voor de basiseducatie en voor het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs;<br /><br />Gelet op het advies 46.561/1 van de Raad van State, gegeven op 18 juni 2009, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br /><br />Op voorstel van de Vlaamse minister van Werk, Onderwijs en Vorming;<br /><br />Na beraadslaging, <br /><br />Besluit :
+...
 
 ## HOOFDSTUK I. Toepassingsgebied
 
 ### ART. 1.
 
-<P>Dit besluit is uitsluitend van toepassing op de personeelsleden vermeld in   artikel 127, § 1, 1°, van het decreet van 15 juni 2007 betreffende het   volwassenenonderwijs die op 31 augustus 2012 genieten van een verlof voor   onderbreking of voor vermindering van de arbeidsprestaties in toepassing van   artikel 3, 6, 9, 21, 23 of 28 van dit besluit.</P>  <P>Voor de personeelsleden die op 31 augustus 2012 genieten van een verlof voor   vermindering van de arbeidsprestaties vanaf de leeftijd van 50 jaar, zoals   vermeld in artikel 9 van dit besluit, is het besluit van toepassing tot op de   vooravond van de eerste instapdatum volgend op hun 55e   verjaardag.</P>
+...
 
 ## HOOFDSTUK II. Terminologie
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder de CAO : de collectieve arbeidsovereenkomst nr. 77bis van 19 december 2001 tot vervanging van de collectieve arbeidsovereenkomst nr. 77 van 14 februari 2001 tot invoering van een stelsel van tijdskrediet, loopbaanvermindering en vermindering van de arbeidsprestaties tot een halftijdse betrekking, gewijzigd door de collectieve arbeidsovereenkomsten nr. 77ter van 10 juli 2002 en nr. 77quater van 30 maart 2007.
+...
 
 ## HOOFDSTUK III. Algemene stelsels
 
@@ -22,53 +22,53 @@ Voor de toepassing van dit besluit wordt verstaan onder de CAO : de collectieve 
 
 ### ART. 3.
 
-De personeelsleden, vermeld in artikel 1, hebben recht op een verlof voor onderbreking van de arbeidsprestaties of voor vermindering van de arbeidsprestaties tot een halftijdse betrekking, voor een maximumperiode van drie jaar over de gehele loopbaan, op te nemen per minimumperiode van drie maanden : <br />1° hetzij door hun arbeidsprestaties te onderbreken ongeacht de arbeidsregeling waarin zij in het centrum tewerkgesteld zijn op het ogenblik van de schriftelijke kennisgeving, verricht overeenkomstig artikel 18; <br />2° hetzij door hun arbeidsprestaties te verminderen tot een halftijdse betrekking voor zover zij ten minste voor drie vierden van een voltijdse betrekking in het centrum tewerkgesteld zijn gedurende de twaalf maanden die voorafgaan aan de schriftelijke kennisgeving, verricht overeenkomstig artikel 18. <br /><br />Met behoud van de toepassing van het eerste lid, kan het personeelslid het tweede jaar van het verlof, vermeld in het eerste lid, opnemen vanaf het ogenblik dat ze vijf jaar dienst telt bij het centrum. Het derde jaar kan opgenomen worden vanaf het ogenblik dat het personeelslid tien jaar dienst telt in het centrum. Het centrumbestuur kan daar om billijkheidsredenen van afwijken.
+...
 
 ### ART. 4.
 
-§ 1. Op de maximumduur van drie jaar als vermeld in artikel 3, eerste lid, worden de perioden van onderbreking of vermindering van de arbeidsprestaties tot een halftijdse betrekking in mindering gebracht, die opgenomen zijn op basis van : <br />1° artikel 3 van de CAO;<br />2° de herstelwet van 22 januari 1985 houdende sociale bepalingen.<br /><br />Op de maximumduur van drie jaar, vermeld in artikel 3, eerste lid, worden de perioden van onderbreking of vermindering van de arbeidsprestaties tot een halftijdse betrekking niet in mindering gebracht, als ze opgenomen zijn op basis van : <br />1° het koninklijk besluit van 22 maart 1995 inzake palliatief verlof en houdende uitvoering van artikel 100bis, § 4, van de herstelwet van 22 januari 1985 houdende sociale bepalingen en tot wijziging van het koninklijk besluit van 2 januari 1991 betreffende de toekenning van onderbrekingsuitkeringen; <br />2° de collectieve arbeidsovereenkomst nr. 64 van 29 april 1997 tot instelling van een recht op ouderschapsverlof; <br />3° het koninklijk besluit van 29 oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van de onderbreking van de beroepsloopbaan; <br />4° het koninklijk besluit van 10 augustus 1998 tot invoering van een recht op loopbaanonderbreking voor bijstand of verzorging van een zwaar ziek gezins- of familielid;<br />5° de bepalingen, vermeld in hoofdstuk IV van dit besluit. <br /><br />§ 2. De totale duur van de onderbreking of vermindering van de arbeidsprestaties op basis van de herstelwet van 22 januari 1985 houdende sociale bepalingen, artikel 3 van de CAO, en het verlof, vermeld in artikel 3, mag over de gehele loopbaan niet meer dan 36 maanden bedragen.
+...
 
 ### ART. 5.
 
-Om recht te hebben op het verlof, vermeld in artikel 3, moeten de personeelsleden door een arbeidsovereenkomst met het centrumbestuur verbonden zijn geweest gedurende twaalf maanden in de loop van de vijftien maanden die voorafgaan aan de schriftelijke kennisgeving, vermeld in artikel 18.
+...
 
 ## Afdeling II. Verlof voor vermindering van de arbeidsprestaties met een vijfde
 
 ### ART. 6.
 
-De personeelsleden, vermeld in artikel 1, hebben recht op een loopbaanvermindering met een vijfde ten belope van een dag of twee halve dagen per week voor maximaal vijf jaar over de gehele loopbaan. Dat recht wordt uitgeoefend per periode van minimaal zes maanden.
+...
 
 ### ART. 7.
 
-Om recht te hebben op een loopbaanvermindering, vermeld in artikel 6 moeten de personeelsleden gelijktijdig aan de volgende voorwaarden voldoen : <br />1° door een arbeidsovereenkomst met het centrumbestuur verbonden zijn geweest gedurende de vijf jaar die voorafgaan aan de schriftelijke kennisgeving, verricht overeenkomstig artikel 18. In afwijking hiervan wordt die termijn voor werknemers van 50 jaar of ouder teruggebracht tot drie jaar. Deze laatste termijn kan in onderling akkoord tussen de werknemer en de werkgever verder worden ingekort tot minimum twee jaar voor werknemers die vanaf de leeftijd van 50 jaar worden aangeworven en tot minimum één jaar voor werknemers die vanaf de leeftijd van 55 jaar worden aangeworven; <br />2° in een voltijdse arbeidsregeling tewerkgesteld zijn geweest gedurende de twaalf maanden die voorafgaan aan de schriftelijke kennisgeving verricht overeenkomstig artikel 18.
+...
 
 ### ART. 8.
 
-Op de maximumduur van vijf jaar, vermeld in artikel 6, worden de perioden van vermindering van de arbeidsprestaties met een vijfde in mindering gebracht, die opgenomen zijn op basis van artikel 6 van de CAO, en de perioden van vermindering van de arbeidsprestaties met een vijfde, een vierde en een derde die opgenomen zijn op basis van de herstelwet van 22 januari 1985 houdende sociale bepalingen. <br /><br />Op de maximumduur, vermeld in het eerste lid, worden de perioden van vermindering van de arbeidsprestaties met minder dan een tweede niet in mindering gebracht, die opgenomen zijn op basis van : <br />1° het koninklijk besluit van 22 maart 1995 inzake palliatief verlof en houdende uitvoering van artikel 100bis, § 4, van de herstelwet van 22 januari 1985 houdende sociale bepalingen en tot wijziging van het koninklijk besluit van 2 januari 1991 betreffende de toekenning van onderbrekingsuitkeringen; <br />2° de collectieve arbeidsovereenkomst nr. 64 van 29 april 1997 tot instelling van een recht op ouderschapsverlof;<br />3° het koninklijk besluit van 29 oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van de onderbreking van de beroepsloopbaan; <br />4° het koninklijk besluit van 10 augustus 1998 tot invoering van een recht op loopbaanonderbreking voor bijstand of verzorging van een zwaar ziek gezins- of familielid;<br />5° de bepalingen, vermeld in hoofdstuk III van dit besluit.
+...
 
 ## Afdeling III. Verlof voor vermindering van de arbeidsprestaties vanaf de leeftijd van 50 jaar
 
 ### ART. 9.
 
-De personeelsleden, vermeld in artikel 1, hebben zonder maximumduur recht op : <br />1° een verlof voor vermindering van de arbeidsprestaties met een vijfde ten belope van een dag of twee halve dagen per week, uitgeoefend per periode van minimaal zes maanden;<br />2° een verlof voor vermindering van de arbeidsprestaties tot een halftijdse betrekking, uitgeoefend per periode van minimaal drie maanden.
+...
 
 ### ART. 10.
 
-§ 1. Om recht te hebben op een verlof, vermeld in artikel 9, 1°, moeten de personeelsleden voltijds of ten belope van vier vijfden van een voltijdse betrekking in het centrum tewerkgesteld zijn in het kader van artikel 6 van dit besluit, artikel 6 van de CAO, of van artikel 102 van de herstelwet van 22 januari 1985, aangesteld zijn gedurende de twaalf maanden die voorafgaan aan de schriftelijke kennisgeving, verricht overeenkomstig artikel 18.<br /><br />Om recht te hebben op een verlof, vermeld in artikel 9, 2°, moeten de personeelsleden ten minste voor drie vierden van een voltijdse betrekking of ten belope van een halftijdse betrekking in het centrum tewerkgesteld zijn in het kader van artikel 6 van de CAO of van artikel 102 van de herstelwet van 22 januari 1985, gedurende de twaalf maanden die voorafgaan aan de schriftelijke kennisgeving, verricht overeenkomstig artikel 18. <br /><br />Om recht te hebben op een verlof, vermeld in artikel 9, moeten de personeelsleden de voorwaarden, vermeld in het eerste en tweede lid, vervullen en bovendien gelijktijdig aan de volgende voorwaarden voldoen : <br />1° ten minste 50 jaar oud zijn op het ogenblik van de gewenste begindatum van de uitoefening van het recht; <br />2° door een arbeidsovereenkomst met het centrumbestuur verbonden zijn geweest gedurende de drie jaar die voorafgaan aan de schriftelijke kennisgeving, verricht overeenkomstig artikel 18.<br />De termijn van drie jaar kan in onderling akkoord tussen de personeelsleden en het centrumbestuur verder worden ingekort tot minimaal twee jaar voor personeelsleden die vanaf de leeftijd van 50 jaar worden aangeworven en tot minimaal één jaar voor personeelsleden die vanaf de leeftijd van 55 jaar worden aangeworven. <br />3° een anciënniteit van twintig jaar als werknemer hebben op het ogenblik van de schriftelijke kennisgeving als verricht overeenkomstig artikel 18. <br /><br />§ 2. Om de anciënniteit van twintig jaar als werknemer vast te stellen, worden de arbeidsdagen in aanmerking genomen. Met arbeidsdagen, uitgezonderd de volledige onderbreking van de arbeidsprestaties ingevolge de CAO, het verlof, vermeld in artikel 3, eerste lid, 1°, en artikel 100 van de herstelwet van 22 januari 1985 houdende sociale bepalingen, worden gelijkgesteld : <br />1° de dagen die aanleiding hebben gegeven tot betaling van een uitkering met toepassing van de wetgeving op de verplichte ziekte- en invaliditeitsverzekering, de schadeloosstelling voor arbeidsongevallen, ongevallen op de weg naar en van het werk en beroepsziekten, de werkloosheidsverzekering, de jaarlijkse vakantie en het invaliditeitspensioen voor mijnwerkers; <br />2° de dagen waarop niet werd gewerkt en waarvoor een loon werd betaald waarop sociale zekerheidsbijdragen, met inbegrip van de sector werkloosheid, werden ingehouden;<br />3° de feestdagen waarvoor, overeenkomstig de wettelijke bepalingen, een loon werd betaald, waarop geen sociale zekerheidsbijdragen werden ingehouden; <br />4° de dagen van arbeidsongeschiktheid waarvoor, overeenkomstig de wettelijke bepalingen, een loon werd betaald, waarop geen sociale zekerheidsbijdragen werden ingehouden; <br />5° de inhaalrustdagen waarop de personeelsleden recht heeft op basis van de arbeidswet van 16 maart 1971 of op basis van een regeling tot vermindering van de arbeidsduur; <br />6° de dagen van staking of lock-out;<br />7° de carensdagen, vermeld in de wetgeving op de verplichte ziekte- en invaliditeitsverzekering; <br />8° de dagen waarop de personeelsleden het ambt van rechter in sociale zaken of van rechter in handelszaken, of van raadsheer in sociale zaken heeft vervuld; <br />9° andere niet-bezoldigde afwezigheidsdagen voor ten hoogste tien dagen per kalenderjaar; <br />10° de dagen van aanwezigheid onder de wapens wegens oproeping of wederoproeping, alsmede de dagen van dienst als gewetensbezwaarde of de dagen van prestaties als dienstplichtige die krachtens de betrokken wetgeving met legerdienst gelijkgesteld worden.
+...
 
 ## Afdeling IV. Gemeenschappelijke bepalingen
 
 ### ART. 11.
 
-§ 1. Voor de berekening van de twaalf maanden vermeld in artikelen 3, eerste lid, 2°, 7, 2°, en 10, § 1, worden met een tewerkstelling gelijkgesteld : <br />1° de perioden van schorsing van de arbeidsovereenkomst, vermeld in artikelen 26, 27, 28, 29, 30, 30bis, 31, 49, 50 en 51, van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten. De periode van schorsing van de arbeidsovereenkomst, vermeld in artikel 31 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, is evenwel beperkt tot de door het gewaarborgd loon gedekte perioden; <br />2° de verlofdagen.<br /><br />§ 2. Voor de berekening van de twaalf maanden vermeld in artikelen 3, eerste lid, 2°, 7, 2°, en 10, § 1, worden de perioden van onderbreking van de arbeidsovereenkomst niet in aanmerking genomen, die opgenomen zijn op basis van : <br />1° het koninklijk besluit van 22 maart 1995 inzake palliatief verlof en houdende uitvoering van artikel 100bis, § 4, van de herstelwet van 22 januari 1985 houdende sociale bepalingen en tot wijziging van het koninklijk besluit van 2 januari 1991 betreffende de toekenning van onderbrekingsuitkeringen; <br />2° de collectieve arbeidsovereenkomst nr. 64 van 29 april 1997 tot instelling van een recht op ouderschapsverlof; <br />3° het koninklijk besluit van 29 oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van de onderbreking van de beroepsloopbaan;<br />4° het koninklijk besluit van 10 augustus 1998 tot invoering van een recht op loopbaanonderbreking voor bijstand of verzorging van een zwaar ziek gezins- of familielid; <br />5° de perioden van schorsing van de arbeidsovereenkomst ten gevolge van een verlof zonder wedde of staking en lock-out; <br />6° de periode van schorsing van de arbeidsovereenkomst, bepaald in artikel 31 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, voor vijf maanden die niet gedekt zijn door het gewaarborgd loon. <br />Die periode van vijf maanden wordt verlengd met zes maanden in geval van tijdelijke volledige arbeidsongeschiktheid ten gevolge van een arbeidsongeval of beroepsziekte;<br />7° de bepalingen, vermeld in hoofdstuk IV van dit besluit.<br /><br />Deze perioden schorten de termijn van twaalf maanden op.<br /><br />§ 3. In geval van een schriftelijke kennisgeving, verricht overeenkomstig artikel 18, § 2, moeten de voorwaarden, vermeld in artikelen 3, 7, 2°, en 10, § 1, vervuld zijn op het ogenblik van de schriftelijke kennisgeving zoals aanvankelijk verricht overeenkomstig artikel 18, § 1.
+...
 
 ### ART. 12.
 
-De directeur heeft geen automatisch recht op een verlof voor onderbreking of vermindering van de arbeidsprestaties overeenkomstig artikelen 3, 6 en 9.<br /><br />Het centrumbestuur moet akkoord zijn met de aanvraag.<br />
+...
 
 ### ART. 13.
 
-Om uitzonderlijke redenen en mits toestemming van de werkgever kan het personeelslid dat het verlof voor onderbreking of vermindering van de arbeidsprestaties genomen heeft, van de Vlaamse minister of zijn gemachtigde, de toelating krijgen om zijn functie opnieuw op te nemen vooraleer de periode van het verlof voor onderbreking of vermindering van de arbeidsprestaties is verstreken.<br /><br />Deze opzegging moet worden gericht aan de Vlaamse minister bevoegd voor het onderwijs, door tussenkomst en met akkoord van het centrumbestuur.
+...
 
 ## Afdeling V. [... (opgeh. BVR 15 juli 2011, art. 1)]
 
@@ -92,17 +92,17 @@ Om uitzonderlijke redenen en mits toestemming van de werkgever kan het personeel
 
 ### ART. 18.
 
-§ 1. De personeelsleden, vermeld in artikel 1 die het recht op verlof, vermeld in artikelen 3, 6 en 9, willen opnemen, brengen het centrumbestuur daarvan vier maanden vooraf schriftelijk op de hoogte.<br /><br />Na onderhandelingen in het lokaal comité kan een kortere termijn worden afgesproken.<br /><br />Elke aanvraag voor een onderbreking of vermindering van de arbeidsprestaties vermeld in artikelen 3 en 6, is beperkt tot een periode van twaalf maanden.<br /><br />§ 2. De schriftelijke kennisgeving en de termijnen, vermeld in § 1, zijn van toepassing op de personeelsleden die de uitoefening van het recht op verlof, vermeld in artikelen 3, 6 en 9 willen verlengen.<br /><br />De uitoefening van het voormeld recht op verlof wordt verlengd volgens de regels vermeld in artikel 3, 6 en 9.<br /><br />§ 3. De termijn van vier maanden, vermeld in § 1, wordt verminderd tot twee weken als de personeelsleden het recht op verlof, vermeld in de artikelen 3, 6 en 9, zonder onderbreking willen uitoefenen nadat zij het recht hebben opgebruikt in het kader van palliatief verlof. <br /><br />§ 4. ...<br /><br />§ 5. Als voormelde personeelsleden het recht op verlof, vermeld in artikelen 3 en 6, willen uitoefenen, wordt bij de aanvraag vermeld tijdens welke periode of perioden de personeelsleden : <br />1° een onderbreking of een loopbaanvermindering hebben genoten als vermeld in artikelen 3 en 6 van de CAO of ingevolge artikelen 3 en 6 van dit besluit;<br />2° een onderbreking of een vermindering van de arbeidsprestaties op basis van artikelen 100 en 102 van de herstelwet van 22 januari 1985 houdende sociale bepalingen, hebben genoten. <br /><br />§ 6. Bij het geschrift worden eveneens attesten gevoegd als de personeelsleden het recht op verlof, vermeld in de artikelen 3, 6 en 9, uitoefenen, nadat zij het recht hebben opgebruikt in het kader van : <br />1° het koninklijk besluit van 22 maart 1995 inzake palliatief verlof en houdende uitvoering van artikel 100bis, § 4, van de herstelwet van 22 januari 1985 houdende sociale bepalingen en tot wijziging van het koninklijk besluit van 2 januari 1991 betreffende de toekenning van onderbrekingsuitkeringen; <br />2° het koninklijk besluit van 29 oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van de onderbreking van de beroepsloopbaan; <br />3° het koninklijk besluit van 10 augustus 1998 tot invoering van een recht op loopbaanonderbreking voor bijstand of verzorging van een zwaar ziek gezins- of familielid;<br />4° de bepalingen van hoofdstuk IV van dit besluit. <br /><br />§ 7. Het geschrift bevat met betrekking tot de uitoefening van het recht op verlof, vermeld in artikelen 3, 6 en 9 : <br />1° het voorstel van het personeelslid over de wijze van uitoefening van het recht; <br />2° de gewenste begindatum, alsook de duur van de uitoefening van het recht; <br />3° ...<br /><br />§ 8. De kennisgeving gebeurt door middel van een aangetekende brief of door de overhandiging van het geschrift, vermeld in § 1, waarvan het duplicaat door het centrumbestuur voor ontvangst wordt getekend.
+...
 
 ## Afdeling VII. Wijze van uitstel en intrekking
 
 ### ART. 19.
 
-Binnen een maand na de schriftelijke kennisgeving als verricht overeenkomstig artikel 18, kan het centrumbestuur de uitoefening van het recht op onderbreking of vermindering van de arbeidsprestaties tot een halftijdse betrekking of met een vijfde, vermeld in artikelen 3, 6 en 9, uitstellen om ernstige redenen. <br /><br />De redenen moeten in het lokaal comité worden vastgelegd. <br /><br />Het recht op onderbreking of vermindering van de arbeidsprestaties tot een halftijdse betrekking of met een vijfde, vermeld in artikelen 3, 6 en 9, gaat in uiterlijk zes maanden te rekenen vanaf de dag waarop het uitgeoefend zou zijn als er geen uitstel was geweest. <br /><br />Het centrumbestuur en het personeelslid kunnen evenwel een andere regeling overeenkomen. <br /><br />Het centrumbestuur kan de uitoefening van het recht op vermindering van de arbeidsprestaties, vermeld in artikelen 6 en 9, intrekken of wijzigen om redenen en voor de duur van deze redenen, als bepaald in het lokaal comité.
+...
 
 ### ART. 20.
 
-Binnen een maand na de schriftelijke kennisgeving als verricht overeenkomstig artikel 18, kan de werkgever de uitoefening van het recht op een vermindering van de arbeidsprestaties met een vijfde, vermeld in artikelen 6 en 9, gedurende maximum twaalf maanden uitstellen voor de directeurs van 55 jaar of ouder. <br /><br />De werkgever is verplicht dit uitstel te motiveren. <br /><br />Het recht op een vermindering van de arbeidsprestaties met een vijfde, vermeld in artikelen 6 en 9, 1°, voor de directeurs van 55 jaar of ouder, gaat in uiterlijk twaalf maanden te rekenen vanaf de dag waarop het uitgeoefend zou zijn als er geen uitstel was geweest. Het centrumbestuur en de werknemer kunnen evenwel een andere regeling overeenkomen.<br /><br />In onderling akkoord kan de uitoefening van het recht op een vermindering van de arbeidsprestaties met een vijfde, als bedoeld in artikelen 6 en 9, 1°, voor directeurs vanaf de leeftijd van 50 jaar of ouder tijdelijk worden gewijzigd om ernstige redenen en voor de duur van deze redenen.
+...
 
 ## HOOFDSTUK IV. Specifieke stelsels
 
@@ -110,76 +110,76 @@ Binnen een maand na de schriftelijke kennisgeving als verricht overeenkomstig ar
 
 ### ART. 21.
 
-De personeelsleden, vermeld in artikel 1 die een palliatief verlof voor een periode van 1 maand, eventueel verlengbaar met één maand, willen opnemen, hebben recht om : <br />1° hun arbeidsprestaties volledig te onderbreken;<br />2° hun arbeidsprestaties te verminderen tot de helft van een voltijdse betrekking, wanneer zij voor ten minste drie vierden van een voltijdse betrekking in het centrum tewerkgesteld waren;<br />3° hun arbeidsprestaties te verminderen met een vijfde, wanneer zij voltijds in het centrum tewerkgesteld waren.
+...
 
 ### ART. 22.
 
-§ 1. De personeelsleden die gebruik willen maken van het recht op palliatief verlof, moeten een attest indienen, afgeleverd door de behandelende geneesheer van de persoon die palliatieve verzorging behoeft en waaruit blijkt dat zij zich bereid hebben verklaard die palliatieve verzorging te verlenen, zonder dat daarbij de identiteit van de patiënt wordt vermeld. Onder palliatieve verzorging wordt verstaan, elke vorm van bijstand en inzonderheid medische, sociale, administratieve en psychologische bijstand en verzorging van personen die lijden aan een ongeneeslijke ziekte en die zich in een terminale fase bevinden.<br /><br />§ 2. Het recht gaat in op de eerste dag van de week die volgt op de week waarin het attest door de personeelsleden werd overhandigd aan het centrumbestuur of op een vroeger tijdstip met akkoord van het centrumbestuur.<br /><br />In geval de personeelsleden gebruik willen maken van de verlenging van de periode met één maand moeten zij opnieuw een dergelijk attest afleveren.<br /><br />Een personeelslid kan maximaal twee attesten afleveren voor de palliatieve verzorging van eenzelfde persoon.
+...
 
 ## Afdeling II. Verlof voor bijstand of verzorging van een zwaar ziek gezins- of familielid
 
 ### ART. 23.
 
-De personeelsleden, vermeld in artikel 1 die een verlof voor het verlenen van bijstand of verzorging aan een gezinslid of een familielid tot de tweede graad dat lijdt aan een zware ziekte willen opnemen, hebben recht om : <br />1° hun arbeidsprestaties volledig te onderbreken;<br />2° hun arbeidsprestaties te verminderen tot de helft van een voltijdse betrekking, wanneer zij voor ten minste drie vierden van een voltijdse betrekking in het centrum tewerkgesteld waren;<br />3° hun arbeidsprestaties te verminderen met een vijfde van wanneer zij voltijds in het centrum tewerkgesteld waren. <br /><br />Voor de toepassing van dit artikel wordt verstaan onder gezinslid, elke persoon die samenwoont met het personeelslid en als familielid zowel de bloed- als de aanverwanten.<br /><br />Voor de toepassing van dit artikel wordt onder zware ziekte verstaan, elke ziekte of medische ingreep die door de behandelende arts als dusdanig wordt beschouwd en waarbij de arts oordeelt dat elke vorm van sociale, familiale of emotionele bijstand of verzorging noodzakelijk is voor het herstel.
+...
 
 ### ART. 24.
 
-Het bewijs van de reden tot onderbreking of vermindering van de arbeidsprestaties, vermeld in artikel 23, wordt geleverd door de personeelsleden bij middel van een attest, afgeleverd door de behandelende geneesheer van het zwaar zieke gezinslid of familielid tot de tweede graad, waaruit blijkt dat zij zich bereid verklaard hebben bijstand of verzorging te verlenen aan de zwaar zieke persoon.
+...
 
 ### ART. 25.
 
-Het recht op verlof voor onderbreking van de arbeidsovereenkomst, vermeld in artikel 23 wordt beperkt tot maximaal twaalf maanden per patiënt. De onderbrekingsperioden kunnen enkel opgenomen worden met periodes van minimaal één maand of maximaal drie maanden, aaneensluitend of niet, tot de maximumtermijn van twaalf maanden bereikt is.<br /><br />Het recht op verlof voor vermindering van de arbeidsprestaties tot de helft of met een vijfde, vermeld in artikel 23, 2° en 3°, wordt beperkt tot maximum 24 maanden per patiënt. De periodes van verlof voor vermindering van arbeidsprestaties kunnen enkel opgenomen worden met periodes van minimaal één maand tot maximaal drie maanden, aaneensluitend of niet tot de maximumtermijn van 24 maanden bereikt is.<br /><br />De maximumduur van 12 maanden of 24 maanden wordt evenwel verminderd met de duur van de onderbreking of de vermindering van de arbeidsprestaties die het personeelslid in om het even welke hoedanigheid bij een andere werkgever heeft genoten voor de bijstand of verzorging van dezelfde patiënt.
+...
 
 ### ART. 26.
 
-Voor de personeelsleden die alleenstaand zijn, wordt, in geval van zware ziekte van hun kind dat hoogstens 16 jaar oud is, de maximumperiode van verlof voor onderbreking van de arbeidsprestaties, vermeld in artikel 25, eerste lid, uitgebreid tot 24 maanden en wordt de maximumperiode van verlof voor vermindering van arbeidsprestaties, vermeld in artikel 25, tweede lid, uitgebreid tot achtenveertig maanden. <br /><br />De maximumduur van 48 maanden wordt evenwel verminderd met de duur van de onderbreking of de vermindering van de arbeidsprestaties die het personeelslid in om het even welke hoedanigheid bij een andere werkgever heeft genoten voor de bijstand of verzorging van dezelfde patiënt.<br /><br />De periodes van onderbreking en van vermindering van arbeidsprestaties kunnen alleen worden opgenomen met periodes van minimaal één maand en maximaal drie maanden, aaneensluitend of niet. <br /><br />Onder alleenstaande in de zin van dit artikel wordt verstaan de personeelsleden die uitsluitend en effectief samenwonen met één of meerdere van hun kinderen.
+...
 
 ### ART. 27.
 
-§ 1. De personeelsleden die van het recht op dit verlof willen gebruik maken, moeten dat schriftelijk bekend maken aan het centrumbestuur. Die kennisgeving gebeurt minstens zeven dagen vóór de aanvangsdatum van de onderbreking of de vermindering van de arbeidsprestaties, tenzij de partijen schriftelijk een andere termijn overeenkomen. Deze kennisgeving kan gebeuren door de overhandiging van een geschrift aan het centrumbestuur waarbij het centrumbestuur een duplicaat tekent als bericht van ontvangst, of met een aangetekende brief die geacht wordt ontvangen te zijn de derde werkdag na de afgifte ervan bij de post.<br /><br />In de kennisgeving, vermeld in het eerste lid, vermelden de personeelsleden de periode waarin zij hun arbeidsprestaties willen onderbreken of verminderen en zij voegen er het attest bij, vermeld in artikel 24. In geval van toepassing van artikel 26 moeten de personeelsleden bovendien het bewijs leveren van de samenstelling van het gezin door middel van een attest dat wordt afgeleverd door de gemeentelijke overheid en waaruit blijkt dat de personeelsleden op het moment van de aanvraag uitsluitend en effectief samenwonen met één of meer van hun kinderen. <br /><br />Voor iedere verlenging van een periode van onderbreking of vermindering van de arbeidsprestaties moeten de personeelsleden dezelfde procedure volgen en de attesten, vereist krachtens artikel 24 en in voorkomend krachtens artikel 26 indienen.<br /><br />§ 2. Binnen twee werkdagen na de ontvangst van de schriftelijke kennisgeving, vermeld in § 1, kan het centrumbestuur het personeelslid ervan in kennis stellen dat de ingangsdatum wordt uitgesteld om redenen die verband houden met het functioneren van het centrum. De kennisgeving gebeurt door overhandiging van een geschrift aan het personeelslid waarin de duur en de reden van het uitstel worden vermeld. De duur van het uitstel bedraagt zeven dagen.
+...
 
 ## Afdeling III. Ouderschapsverlof
 
 ### ART. 28.
 
-§ 1. Om voor hun kind te zorgen hebben de personeelsleden, vermeld in artikel 1, het recht om : <br />1° gedurende een periode van drie maanden, de uitvoering van hun arbeidsovereenkomst te onderbreken. Die periode kan naar keuze van de personeelsleden worden opgesplitst in maanden; <br />2° gedurende een periode van zes maanden hun arbeidsprestaties te verminderen tot een halftijdse betrekking, als zij voltijds tewerkgesteld zijn. Die periode kan naar keuze van de personeelsleden worden opgesplitst in periodes van twee maanden of een veelvoud daarvan;<br />3° gedurende een periode van vijftien maanden hun arbeidsprestaties te verminderen met een vijfde als zij voltijds tewerkgesteld zijn. Die periode kan naar keuze van de personeelsleden worden opgesplitst in periodes van vijf maanden of een veelvoud daarvan.<br /><br />De maximumduur van 3 maanden, 6 maanden of 15 maanden wordt evenwel verminderd met de duur van de onderbreking of de vermindering van de arbeidsprestaties die het personeelslid in om het even welke hoedanigheid bij een andere werkgever heeft genoten voor het ouderschapsverlof voor hetzelfde kind.<br /><br />§ 2. De personeelsleden hebben de mogelijkheid om bij het opnemen van hun ouderschapsverlof gebruik te maken van de verschillende voorwaarden, vermeld in § 1. Bij een wijziging van opnamevorm moet rekening worden gehouden met het principe dat een verlof voor de onderbreking van de arbeidsprestaties voor één maand overeenstemt met een verlof voor vermindering van de arbeidsprestaties tot de helft voor twee maanden, of met een verlof voor vermindering van de arbeidsprestaties met één vijfde voor 15 maanden.
+...
 
 ### ART. 29.
 
-De personeelsleden hebben recht op ouderschapsverlof als vermeld in artikel 28, in de volgende gevallen : <br />1° naar aanleiding van de geboorte van hun kind tot het kind twaalf jaar wordt; <br />2° in het kader van de adoptie van een kind, gedurende een periode die loopt vanaf de inschrijving van het kind als deel uitmakend van zijn gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar de personeelsleden hun verblijfplaats hebben, en dit uiterlijk tot het kind twaalf jaar wordt.<br /><br />Aan de voorwaarde van de twaalfde verjaardag moet zijn voldaan uiterlijk gedurende de periode van het ouderschapsverlof. De twaalfde verjaardag kan bovendien worden overschreden als het verlof op verzoek van het centrumbestuur wordt uitgesteld en voor zover de schriftelijke kennisgeving is gebeurd overeenkomstig artikel 32.
+...
 
 ### ART. 30.
 
-Om recht te hebben op ouderschapsverlof moeten de personeelsleden gedurende de vijftien maanden die voorafgaan aan de schriftelijke kennisgeving, vermeld in artikel 32, twaalf maanden door een arbeidsovereenkomst verbonden zijn geweest met het centrumbestuur dat hen tewerkstelt.
+...
 
 ### ART. 31.
 
-De personeelsleden verstrekken uiterlijk op het ogenblik waarop het ouderschapsverlof ingaat, het document of de documenten tot staving van de gebeurtenis die overeenkomstig artikel 29 het recht op ouderschapsverlof doet ontstaan.
+...
 
 ### ART. 32.
 
-§ 1. De personeelsleden die gebruik willen maken van het recht op ouderschapsverlof, doen hun aanvraag overeenkomstig de volgende procedure : <br />1° de personeelsleden brengen ten minste twee maanden en ten hoogste drie maanden vooraf zijn werkgever schriftelijk op de hoogte. Na onderhandelingen in het lokaal comité kan een kortere termijn worden afgesproken.<br />2° de kennisgeving gebeurt door middel van een aangetekende brief of door de overhandiging van de kennisgeving, vermeld in punt 1°, waarvan het duplicaat voor ontvangst wordt ondertekend door het centrumbestuur;<br />3° de kennisgeving, vermeld in punt 1°, vermeldt de begin- en einddatum van het ouderschapsverlof.<br /><br />§ 2. Per aanvraag mag slechts één aaneengesloten periode van ouderschapsverlof worden gevraagd.<br /><br />§ 3. Tenzij anders wordt bepaald, moet aan alle voorwaarden in het kader van dit besluit zijn voldaan op het moment waarop het ouderschapsverlof ingaat.
+...
 
 ### ART. 33.
 
-§ 1. Binnen een maand na de schriftelijke kennisgeving, vermeld in artikel 32, kan de werkgever schriftelijk de uitoefening van het recht op ouderschapsverlof uitstellen om gerechtvaardigde redenen die verband houden met het functioneren van het centrum.<br /><br />§ 2. Met behoud van de toepassing van § 1, gaat het recht op ouderschapsverlof in uiterlijk zes maanden na de maand waarin het gemotiveerde uitstel plaatsheeft.
+...
 
 ## HOOFDSTUK V. Toekenning van de premies
 
 ### ART. 34.
 
-§ 1. Aan de personeelsleden wordt een premie toegekend die samengesteld is uit de volgende bedragen : <br />1° een bedrag dat toegekend wordt, naargelang van het opgenomen stelsel, overeenkomstig de bepalingen van : <br />a) het koninklijk besluit van 12 december 2001 tot uitvoering van hoofdstuk IV van de wet van 10 augustus 2001 betreffende verzoening van werkgelegenheid en kwaliteit van het leven betreffende het stelsel van tijdskrediet, loopbaanvermindering en vermindering van de arbeidsprestaties tot een halftijdse betrekking voor de verloven, vermeld in artikelen 2, 5 en 8;<br />b) het koninklijk besluit van 2 januari 1991 betreffende de toekenning van onderbrekingsuitkeringen, het laatst gewijzigd bij koninklijk besluit van 7 juni 2007 voor het palliatief verlof;<br />c) het koninklijk besluit van 10 augustus 1998 tot invoering van een recht op loopbaanonderbreking voor bijstand of verzorging van een zwaar ziek gezins- of familielid;<br />d) het koninklijk besluit van 29 oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van de onderbreking van de beroepsloopbaan;<br />2° een bedrag dat toegekend wordt overeenkomstig de bepalingen van het besluit van de Vlaamse Regering van 3 mei 2002 tot instelling van de aanmoedigingspremies in de Vlaamse private sociale profit-sector.<br /><br />§ 2. Het recht op de premie, vermeld in § 1, 1°, is bij een verlof voor volledige onderbreking van de arbeidsprestaties beperkt tot één jaar.<br /><br />Het recht op de voormelde premie kan uitgebreid worden tot drie jaar om volgende redenen om : <br />1° zorg te dragen voor een eigen kind tot de leeftijd van 8 jaar. Het verlof moet beginnen voordat het kind de leeftijd van 8 jaar heeft bereikt. Betreft het een adoptiekind, dan mag het verlof aanvangen vanaf de inschrijving in het bevolkingsregister of in het vreemdelingenregister van de gemeente waartoe het personeelslid behoort;<br />2° palliatieve zorgen te verstrekken;<br />3° een zwaar ziek gezins- of familielid tot de tweede graad bij te staan.<br />4° zorg te dragen voor een inwonend en thuis verzorgd gehandicapt kind;<br />5° een de volgende opleidingen te volgen : <br />a) een opleiding, erkend door de gemeenschappen van minstens 360 uren of 27 studiepunten per jaar of 120 uren of 9 studiepunten per schooltrimester of per ononderbroken periode van drie maanden; <br />b) onderwijs, verstrekt in een Centrum voor Basiseducatie of een opleiding, gericht op het behalen van een diploma of getuigschrift van het secundair onderwijs, waarbij de grens wordt vastgesteld op 300 uren per jaar of 100 uren per schooltrimester of per ononderbroken periode van drie maanden.
+...
 
 ### ART. 35.
 
-Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties   en Studietoelagen betaalt de premie maandelijks uit. Het personeelslid verliest   het recht op de premie vanaf de eerste dag van de maand, volgend op de datum   waarop niet meer voldaan is aan de voorwaarden tot het verkrijgen van de premie.   Elke wijziging in de persoonlijke situatie moet onmiddellijk aan het Agentschap   voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen   meegedeeld worden. De onrechtmatig verkregen premies worden   teruggevorderd.
+...
 
 ## HOOFDSTUK VI. Slotbepalingen
 
 ### ART. 36.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2008.
+...
 
 ### ART. 37.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
+...

@@ -2,16 +2,16 @@
   "codex_id": 1018308,
   "title": "Besluit van de Vlaamse Regering van 2009-07-03 betreffende het verlof voor onderbreking of vermindering van de arbeidsprestaties voor sommige personeelsleden van de Centra voor Basiseducatie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018308/VolledigDocument?datum=2015-07-01",
-  "source_sha256": "bb29f51187859013523a785d0690843bb83b449b0b751b4cbad99a44c59a1fe2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018308/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "26bf0b70c071dbc789b3e6c4abfc7186152a69fcb422fe01f8932ad31322e2a4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018308&param=informatie",
-  "as_of": "2015-07-01",
+  "as_of": "2018-01-01",
   "made": "2009-07-03",
   "gazette": "2009-09-03",
   "numac": 2009203802,
   "document_start": "2008-09-01",
   "document_end": "2017-12-31",
-  "in_force": "2015-07-01",
+  "in_force": "2018-01-01",
   "article_versions": 38,
-  "record_form": "consolidated version as in force on 2015-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
