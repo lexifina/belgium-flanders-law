@@ -2,16 +2,16 @@
   "codex_id": 1028809,
   "title": "Samenwerkingsakkoord van 2017-07-17 tussen het Brussels Hoofdstedelijk Gewest, het Vlaams Gewest, het Waals Gewest en de Duitstalige Gemeenschap, met betrekking tot de erkende plaatselijke geloofsgemeenschappen van erkende erediensten waarvan het grondgebied meer dan één deelstaat bestrijkt",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028809/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "1329f5e738f3dd250555d7a34d92210c3fe28f17691c65750ce7d16926c69b12",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028809/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "2eb2254f936aaf2de1f60fc12b1abcef817c9556810fe89e5923fafa5ab7f6b8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028809&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2018-01-01",
   "made": "2017-07-17",
   "gazette": "2017-12-19",
   "numac": 0,
   "document_start": "2017-01-01",
   "document_end": null,
-  "in_force": "2017-01-01",
+  "in_force": "2018-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
