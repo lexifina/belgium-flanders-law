@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029446,
+  "title": "Besluit van de Vlaamse Regering van 2018-05-25 tot wijziging van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap wat betreft de combinatie van rechtstreeks toegankelijke hulp en niet-rechtstreeks toegankelijke ondersteuning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029446/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "45dd2b23c05e0122232cb857575ce204c9357d4439e49626d97eb21c7e3083e3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029446&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2018-05-25",
+  "gazette": "2018-06-21",
+  "numac": 2018012702,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
