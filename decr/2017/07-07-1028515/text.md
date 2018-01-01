@@ -39,6 +39,23 @@ In artikel 35ter van dezelfde wet, ingevoegd bij het decreet van 21 december 199
 15° in paragraaf 6, zevende lid, worden de woorden "de federale overheidsdienst voor Pensioenen" vervangen door de woorden "de federale dienst bevoegd voor de pensioenen";<br>
 16° in paragraaf 9 worden na de woorden "werd vrijgesteld" de woorden "of van het sociaal tarief geniet" toegevoegd.
 
+### ART 7.
+
+Aan dezelfde wet, het laatst gewijzigd bij het decreet van 24 juni 2016, wordt een artikel 35octies/1 toegevoegd, dat luidt als volgt:<br>
+"Art. 35octies/1. § 1. De heffingsplichtige die in het jaar dat voorafgaat aan het heffingsjaar een eigen waterwinning in gebruik neemt, is verplicht dat aan de Maatschappij te melden binnen een termijn van twee maanden vanaf de datum waarop hij van die waterwinning gebruikmaakt.<br>
+<br>
+De heffingsplichtige die het gebruik van een eigen waterwinning stopzet, is verplicht dat aan de Maatschappij te melden binnen een termijn van twee maanden vanaf de datum waarop die waterwinning niet meer wordt gebruikt.<br>
+<br>
+In geval van overschrijding van de termijn, vermeld in het tweede lid, wordt ongeacht de datum van de stopzetting, vermeld in de melding, aangenomen dat de heffingsplichtige pas vanaf de tweede maand vóór de datum van ontvangst van de melding de waterwinning niet meer gebruikt. Tenzij de stopzetting reeds op een eerdere datum werd vastgesteld door de Maatschappij of de toezichthouder bevoegd voor milieuhandhaving, of tenzij een eerdere datum van stopzetting werd vastgelegd in de vergunning waarvoor er geen verdere exploitatie werd vastgesteld.<br>
+<br>
+De melding wordt gedaan met het formulier dat de Maatschappij ter beschikking stelt.<br>
+<br>
+§ 2. In geval van grondwaterwinning bezorgt de Maatschappij de gegevens van de melding van ingebruikname aan het college van burgemeester en schepenen van de gemeente waar de grondwaterwinning zich bevindt.<br>
+<br>
+§ 3. De heffingsplichtige, vermeld in artikel 35quater, § 1, 2°, die in het jaar dat voorafgaat aan het heffingsjaar, gedeeltelijk overschakelt op water, afgenomen van een openbaar waterdistributienet, meldt dat aan de Maatschappij binnen een termijn van twee maanden vanaf de datum dat hij over een aansluiting bij de openbare watervoorzieningsmaatschappij beschikt.<br>
+<br>
+De heffingsplichtige, vermeld in artikel 35quater, § 1, 3°, die in het jaar dat voorafgaat aan het heffingsjaar, volledig overschakelt op water opgenomen uit een eigen waterwinning, meldt dat aan de Maatschappij binnen een termijn van twee maanden vanaf de datum dat hij uitsluitend gebruikmaakt van een eigen waterwinning.".
+
 ### ART 11.
 
 In artikel 35terdecies van dezelfde wet, ingevoegd bij het decreet van 21 december 1990, vervangen bij het decreet van 25 juni 1992, en het laatst gewijzigd bij het decreet van 28 februari 2014, worden de volgende wijzigingen aangebracht:<br>

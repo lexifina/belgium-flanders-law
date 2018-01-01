@@ -2,16 +2,16 @@
   "codex_id": 1028515,
   "title": "Decreet van 2017-07-07 tot wijziging van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer en het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending en houdende delegatie tot coördinatie en codificatie van de waterregelgeving",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028515/VolledigDocument?datum=2017-08-14",
-  "source_sha256": "f66ceb835944088d11fc7ed3548ee8a4b801bd6cab9aad616f74a713f4b9302f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028515/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "6b6b946ebcc4b06d09d4f2e009d10978471cacff052afcd94c35a372fbb80c60",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028515&param=informatie",
-  "as_of": "2017-08-14",
+  "as_of": "2018-01-01",
   "made": "2017-07-07",
   "gazette": "2017-08-04",
   "numac": 2017020502,
   "document_start": "2017-08-14",
   "document_end": null,
-  "in_force": "2017-08-14",
-  "article_versions": 13,
-  "record_form": "consolidated version as in force on 2017-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
