@@ -98,7 +98,7 @@ De oeverzone van elk oppervlaktewaterlichaam, met uitzondering van de   waterweg
 
 ### ART. 11.
 
-Voor de verwerving van onroerende goederen, vereist om de in artikel 5 van dit decreet genoemde doelstellingen van het integraal waterbeleid te verwezenlijken, kan het Vlaamse Gewest overgaan tot een onteigening ten algemene nutte. Ongeacht de bepalingen die andere rechtspersonen bevoegd verklaren tot onteigenen, kunnen eveneens de provincies en gemeenten door de Vlaamse regering hiertoe worden gemachtigd.
+Voor de verwerving van onroerende goederen, vereist om de in artikel 5 van dit decreet genoemde doelstellingen van het integraal waterbeleid te verwezenlijken, kan het Vlaamse Gewest overgaan tot een onteigening ten algemene nutte. Ongeacht de bepalingen die andere rechtspersonen bevoegd verklaren tot onteigenen, kunnen eveneens de provincies en gemeenten tot een onteigening overgaan.
 
 ## ONDERAFDELING 2 RECHT VAN VOORKOOP
 
