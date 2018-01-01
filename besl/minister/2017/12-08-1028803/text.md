@@ -39,9 +39,8 @@ Besluit :<br>
 
 ### ART 1.
 
-In het artikel 25, paragraaf 1, derde lid, paragraaf 2, derde lid, en paragraaf 3, derde lid, van het ministerieel besluit van 22 december 2016 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, gewijzigd bij het ministerieel besluit van 19 juni 2017, worden de woorden "31 december" vervangen door de woorden "30 november".<br>
-&nbsp;
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking op 1 december 2017. Het houdt op van kracht te zijn op 1 januari 2018.
+...
