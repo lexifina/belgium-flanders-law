@@ -42,6 +42,18 @@ In artikel 7, § 1, van hetzelfde besluit worden de volgende wijzigingen aangebr
 In artikel 16, tweede lid, 1°, b), en 2°, van hetzelfde besluit worden de woorden "alle kinderopvanglocaties gezinsopvang die" vervangen door de woorden "alle kinderopvanglocaties die".<br>
 &nbsp;
 
+### ART 4.
+
+In artikel 21 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid, 1°, b), wordt de zinsnede "verzorgingsproducten, het gebruik en de afvalverwerking van luiers," opgeheven;<br>
+2° aan het eerste lid, 1°, wordt een punt h) toegevoegd, dat luidt als volgt:<br>
+"h) verzorgingsproducten, het gebruik van luiers en de afvalverwerking van luiers, die bepaald zijn in het huishoudelijk reglement en in de schriftelijke overeenkomst voor dat kind. Het bijkomende tarief is ofwel beperkt tot maximaal de werkelijk gemaakte kosten, de personeelskosten niet meegerekend, ofwel beperkt tot het volgende forfait:<br>
+1) als het kind gebruikmaakt van luiers van de opvang: maximaal 1,5 euro per volle dag, maximaal 60% van 1,5 euro per halve dag of maximaal 160% van 1,5 euro voor aansluitende dag- en nachtopvang;<br>
+2) als het kind niet gebruikmaakt van luiers van de opvang: maximaal 0,3 euro per volle dag, maximaal 60% van 0,3 euro per halve dag of maximaal 160% van 0,3 euro voor aansluitende dag- en nachtopvang;";<br>
+3° aan het tweede lid wordt de volgende zin toegevoegd:<br>
+"Als de organisator kiest voor het bijkomende tarief, beperkt tot maximaal de werkelijk gemaakte kosten, vermeld in het eerste lid, 1°, h), houdt de organisator de bewijsstukken van de werkelijk gemaakte kosten ter beschikking, ten aanzien van Kind en Gezin en de toezichthouder.".<br>
+&nbsp;
+
 ### ART 5.
 
 In artikel 22/1 van hetzelfde besluit, ingevoegd bij het ministerieel besluit van 24 april 2014, wordt het tweede lid vervangen door wat volgt:<br>
