@@ -264,7 +264,11 @@ Er wordt ambtshalve een wettelijke hypothecaire inschrijving genomen ten voordel
 
 ### ART. 50.
 
-§ 1. Op initiatief van een publiekrechtelijk rechtspersoon of van een   lokale overheid die onteigeningsbevoegdheid bezit, kan de Vlaamse regering   machtiging verlenen om&nbsp; bedrijfsruimten die in de Inventaris zijn   geregistreerd ten algemene nutte te onteigenen. De Vlaamse regering bepaalt de   voorwaarden hiertoe.<BR><BR>§ 2. De onteigening geschiedt overeenkomstig de   spoedprocedure bepaald in de wet van 26 juli 1962 betreffende de onteigening ten   algemene nutte.
+§ 1. Op initiatief van een publiekrechtelijk rechtspersoon&nbsp;kan de Vlaamse regering machtiging verlenen om&nbsp; bedrijfsruimten die in de Inventaris zijn geregistreerd ten algemene nutte te onteigenen. De Vlaamse regering bepaalt de voorwaarden hiertoe.<br>
+<br>
+Een lokale overheid die onteigeningsbevoegdheid bezit, kan bedrijfsruimten die in de inventaris zijn geregistreerd, voor het algemeen nut onteigenen.<br>
+<br>
+§ 2. De onteigening wordt uitgevoerd overeenkomstig de bepalingen van het Vlaams Onteigeningsdecreet van 24 februari 2017.
 
 ## HOOFDSTUK VI SLOTBEPALING
 
