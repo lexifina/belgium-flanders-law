@@ -370,11 +370,11 @@ Een bestedingsplan dat niet tijdig is ingediend of dat niet volledig is,   is on
 
 ### ART. 75.
 
-Het Kunstenloket is het aanspreekpunt voor ondernemerschap voor   kunstenaars en creatieven.<BR>
+...
 
 ### ART. 76.
 
-<P>§ 1. De kerntaken van het Kunstenloket zijn:<BR>1° veldanalyse: op basis van   permanente evaluatie, toegepast onderzoek, informatie en documentatie een   bijdrage leveren aan een continue ontwikkeling van het ondernemerschap bij   kunstenaars en het overheidsbeleid ter zake;<BR>2° informatieverstrekking en   consultatie betreffende de organisatorische, zakelijke en juridische aspecten   van artistieke activiteiten, met inbegrip van de uitbouw van een helpdesk rond   financieringsbegeleiding;<BR>3° begeleiding en opvolging van de implementatie   van het statuut van de kunstenaar;<BR>4° organiseren en stimuleren van vormings-   en opleidingsprojecten die de zakelijke professionalisering van kunstenaars en   creatieven tot doel hebben, die het ondernemerschap bevorderen en die de cultuur   van levenslang leren stimuleren.<BR></P>  <P>§ 2. De Vlaamse Regering kan aanvullende taken toewijzen aan het   Kunstenloket.<BR></P>
+...
 
 ## HOOFDSTUK 3 Algemene bepalingen
 
