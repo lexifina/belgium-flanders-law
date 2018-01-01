@@ -286,6 +286,7 @@ Subsidieerbare sporttakken topsport voor de olympiade Tokyo 2017-2020<br>
 - kano - kajak<br>
 - paardrijden<br>
 - roeien<br>
+- rugby<br>
 - schermen<br>
 - schieten<br>
 - skiën<br>
