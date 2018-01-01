@@ -131,13 +131,21 @@ De Vlaamse Regering kan dat besluit nemen met inachtneming van de volgende crite
 <br>
 De Vlaamse Regering bezorgt het besluit aan het instellingsbestuur binnen een termijn van 30 kalenderdagen na ontvangst van het rapport van het accreditatieorgaan. Het besluit treedt in werking met ingang van de bekendmaking ervan aan de instelling.<br>
 <br>
-Een positief besluit over de aanvraag van een opleiding van het hoger beroepsonderwijs vervalt op het einde van het vierde schooljaar of academiejaar dat volgt op de dag van de start van de opleiding in kwestie.<br>
+Een positief besluit over de aanvraag van een opleiding van het hoger beroepsonderwijs vervalt op het einde van het vijfde academiejaar dat volgt op de dag van de start van de opleiding in kwestie.<br>
 <br>
-Een positief besluit over de aanvraag van een opleiding vervalt automatisch als het instellingsbestuur de opleiding niet start in het tweede schooljaar of academiejaar dat volgt op de bekendmaking aan het instellingsbestuur.<br>
+Een positief besluit over de aanvraag van een opleiding van het hoger beroepsonderwijs vervalt automatisch als het instellingsbestuur de opleiding niet start in het derde academiejaar dat volgt op de bekendmaking aan het instellingsbestuur.<br>
+<br>
+De accreditatieorganisatie kan de geldigheidsduur van een positief besluit over de aanvraag van een opleiding verlengen ter vrijwaring van de gelijktijdige en geclusterde organisatie van externe beoordelingen. De totale duur van de erkenning als nieuwe opleiding kan nooit meer dan acht academiejaren zijn.<br>
+<br>
+In afwijking van het vierde lid bedraagt de geldigheidsduur van de positieve besluiten over de aanvragen van de opleidingen van het hoger beroepsonderwijs die werden verleend tijdens het academiejaar 2014-2015 zes jaar vanaf het academiejaar dat volgt op de bekendmaking aan het instellingsbestuur.<br>
+<br>
+Voor de besluiten die zijn bekendgemaakt tijdens het academiejaar 2017-2018, start de voormelde periode van drie jaar in het academiejaar 2019-2020.<br>
 <br>
 § 2. Als de programmatie van een opleiding van het hoger beroepsonderwijs wordt aangevraagd, moet vanuit die opleiding een verkort of aangepast traject nagestreefd worden in een aansluitende professioneel gerichte bachelor in het hoger onderwijs, indien deze bestaat.<br>
 <br>
-§ 3. Om een programmatie te kunnen aanvragen moet minstens één van de onderwijsinstellingen van het samenwerkingsverband onderwijsbevoegdheid bezitten in het studiegebied waartoe de hbo5-opleiding behoort. De andere onderwijsinstellingen die deze onderwijsbevoegdheid niet hebben maar de opleiding mee organiseren, krijgen de onderwijsbevoegdheid voor de betrokken hbo5-opleiding door de erkenning van de opleiding door de Vlaamse Regering.
+§ 3. Om een programmatie te kunnen aanvragen moet minstens één van de onderwijsinstellingen van het samenwerkingsverband onderwijsbevoegdheid bezitten in het studiegebied waartoe de hbo5-opleiding behoort. De andere onderwijsinstellingen die deze onderwijsbevoegdheid niet hebben maar de opleiding mee organiseren, krijgen de onderwijsbevoegdheid voor de betrokken hbo5-opleiding door de erkenning van de opleiding door de Vlaamse Regering.<br>
+<br>
+§ 4. De programmatie van een opleiding van het hoger beroepsonderwijs kan worden gevraagd om te worden georganiseerd op de vestigingen van de hoge-school en/of op de vestigingsplaatsen van het centrum voor volwassenenonderwijs die de opleiding willen organiseren.
 
 ## Afdeling II. Procedure
 
@@ -215,11 +223,21 @@ Door een opleiding van het hoger beroepsonderwijs op te nemen in de lijst, verme
 <br>
 Bij de vaststelling van het opleidingsprogramma leeft het instellingsbestuur de bij of krachtens de wet, het decreet of de Europese richtlijnen vastgelegde voorwaarden na die de toegang tot bepaalde ambten of beroepen reguleren.<br>
 <br>
-§ 9. Opleidingen, geactualiseerd volgens de procedure van dit artikel, die op een later tijdstip verwant worden verklaard met een of meerdere erkende beroepskwalificaties, waarvoor wordt beslist om een onderwijskwalificatie te ontwikkelen, worden omgevormd volgens de procedure, vermeld in artikel 18.
+§ 9. Opleidingen, geactualiseerd volgens de procedure van dit artikel, die op een later tijdstip verwant worden verklaard met een of meerdere erkende beroepskwalificaties, waarvoor wordt beslist om een onderwijskwalificatie te ontwikkelen, worden omgevormd volgens de procedure, vermeld in artikel 18.<br>
+<br>
+§ 10. Opleidingen, geactualiseerd volgens de procedure, vermeld in paragraaf 1 tot en met 9, kunnen worden georganiseerd op de vestigingen van de hogeschool en/of op de vestigingsplaatsen van het centrum voor volwassenenonderwijs die de opleiding organiseren.<br>
+<br>
+De betrokken onderwijsinstellingen delen hun keuze van vestigingsplaats(en) mee aan de bevoegde dienst van de Vlaamse Regering.
 
 ### ART 21/2.
 
 Opleidingen van het hoger beroepsonderwijs waarvan de bevoegde dienst van de Vlaamse Regering de erkenning van een verwante beroepskwalificatie verwacht vóór 1 januari 2018, worden omgevormd volgens de procedure, vermeld in artikel 18.
+
+### ART 21/3.
+
+Opleidingen van het hoger beroepsonderwijs die worden erkend conform de procedure, vermeld in artikel 18, of geactualiseerd conform de procedure, vermeld in artikel 21/1, tijdens de academiejaren 2017-2018 en 2018-2019, kunnen aangeboden worden vanaf het academiejaar 2019-2020.<br>
+<br>
+De administratief beherende instelling en de inhoudelijk coördinerende instelling is voor de opleidingen, vermeld in het eerste lid, vanaf de start van de opleiding de hogeschool.
 
 ## [Onderafdeling II. Toets nieuwe opleiding - administratieve toets (verv. decr. 12 juli 2013, art. 56, I: 1 juli 2013)]
 
@@ -229,11 +247,13 @@ Opleidingen van het hoger beroepsonderwijs waarvan de bevoegde dienst van de Vla
 
 ### ART. 22/1.
 
-§ 1. Zowel in het toetsingsrapport, zoals vermeld in artikel 22 en het erkenningsbesluit, zoals bedoeld in artikel 18, § 1, 4°, wordt in voorkomend geval melding gemaakt van de opleidingsvarianten die op het tijdstip van de "toets nieuwe hbo5-opleiding" gekend zijn :<br>
-1° de instellingen en de vestigingsplaatsen waar de opleiding aangeboden wordt;<br>
-2° de verschillende doelgroepen die de opleiding wil bereiken en de wijze waarop dit wijzigingen in het programma met zich meebrengt.<br>
-<br>
-§ 2. Het toetsingsrapport, zoals vermeld in artikel 22 en het erkenningsbesluit, zoals bedoeld in artikel 18, § 1, 3°, bevatten een beoordeling van elk van de varianten, vermeld in paragraaf 1.
+Zowel in het toetsingsrapport, vermeld in artikel 22, en het erkenningsbesluit, vermeld in artikel 18, § 1, 3°, worden de volgende gegevens opgenomen:<br>
+1° de bevoegde instelling die de opleiding verzorgt en de vestigingsplaats(en) waar de opleiding wordt aangeboden;<br>
+2° de naam van de opleiding;<br>
+3° in voorkomend geval de afstudeerrichtingen;<br>
+4° de studieomvang van de opleiding, uitgedrukt in studiepunten;<br>
+5° in voorkomend geval de titel die de houders van de graad van die opleiding kunnen voeren;<br>
+6° de vermelding van de onderwijstaal van de opleiding.
 
 ### ART. 22/1.
 
@@ -241,7 +261,17 @@ Opleidingen van het hoger beroepsonderwijs waarvan de bevoegde dienst van de Vla
 
 ### ART. 23.
 
-<P>§ 1. Het accreditatieorgaan adviseert over de "toets nieuwe hbo5-opleiding"   uiterlijk op 15 april voor de aanvragen die uiterlijk op 30 november van het   voorafgaande kalenderjaar zijn ingediend, en uiterlijk op 30 oktober voor de   aanvragen die uiterlijk op 31 mei van hetzelfde kalenderjaar zijn   ingediend.<BR><BR>§ 2. Het accreditatieorgaan bezorgt uiterlijk één maand vóór   het verstrijken van de termijn als vermeld in § 1 een ontwerp van   toetsingsrapport aan de instelling, die de mogelijkheid krijgt om opmerkingen te   formuleren.<BR><BR>§ 3. Het instellingsbestuur kan het onderdeel van de aanvraag   voor de "toets nieuwe hbo5-opleiding" intrekken uiterlijk binnen de termijn van   twintig kalenderdagen, die ingaat de dag na deze van ontvangst van het ontwerp.   Het instellingsbestuur beschikt over een termijn van zestig kalenderdagen om het   onderdeel van de aanvraag voor de "toets nieuwe hbo5-opleiding" opnieuw in te   dienen bij het accreditatieorgaan. De termijn van zestig kalenderdagen gaat in   op de dag na de intrekking van de initiële aanvraag.<BR><BR>De termijnen,   lopende vanaf de datum waarop de aanvraag uiterlijk ingediend moet zijn tot en   met de datum waarop de Commissie en het accreditatieorgaan uiterlijk hun advies   uitbrengen, als vermeld in § 1, en artikel 21, § 1, worden in geval van   intrekking van het onderdeel van de aanvraag voor de "toets nieuwe   hbo5-opleiding" geschorst vanaf de intrekking van het onderdeel van de aanvraag   tot en met de datum van de betekening van de herindiening   ervan.</P>
+<p>§ 1. Het accreditatieorgaan adviseert over de "toets nieuwe hbo5-opleiding" uiterlijk op 15 april voor de aanvragen die uiterlijk op 30 november van het voorafgaande kalenderjaar zijn ingediend, en uiterlijk op 30 oktober voor de aanvragen die uiterlijk op 31 mei van hetzelfde kalenderjaar zijn ingediend.<br>
+<br>
+§ 2. Het accreditatieorgaan bezorgt uiterlijk één maand vóór het verstrijken van de termijn als vermeld in § 1 een ontwerp van toetsingsrapport aan de instelling, die de mogelijkheid krijgt om opmerkingen te formuleren.<br>
+<br>
+§ 3. Het instellingsbestuur kan het onderdeel van de aanvraag voor de "toets nieuwe hbo5-opleiding" intrekken uiterlijk binnen de termijn van twintig kalenderdagen, die ingaat de dag na deze van ontvangst van het ontwerp. Het instellingsbestuur beschikt over een termijn van zestig kalenderdagen om het onderdeel van de aanvraag voor de "toets nieuwe hbo5-opleiding" opnieuw in te dienen bij het accreditatieorgaan. De termijn van zestig kalenderdagen gaat in op de dag na de intrekking van de initiële aanvraag.<br>
+<br>
+De termijnen, lopende vanaf de datum waarop de aanvraag uiterlijk ingediend moet zijn tot en met de datum waarop de Commissie en het accreditatieorgaan uiterlijk hun advies uitbrengen, als vermeld in § 1, en artikel 21, § 1, worden in geval van intrekking van het onderdeel van de aanvraag voor de "toets nieuwe hbo5-opleiding" geschorst vanaf de intrekking van het onderdeel van de aanvraag tot en met de datum van de betekening van de herindiening ervan.<br>
+<br>
+§ 4. Als het besluit over de "toets nieuwe opleiding" in het kader van een omvorming als vermeld in artikel 51, 5°, negatief is, kan het instellingsbestuur nog maximaal één academiejaar de om te vormen hbo5-opleiding aanbieden en hiervoor studenten inschrijven. Het programma van deze opleiding wordt ingericht conform artikelen II.67 en II.69 van de Codex Hoger Onderwijs van 11 oktober 2013.<br>
+<br>
+Een instelling kan na een negatief toetsingsbesluit voor een identieke opleiding nog een keer een aanvraag voor een "toets nieuwe opleiding" indienen. Als het besluit over de "toets nieuwe opleiding" in het kader van een omvorming als vermeld in artikel 51, 5°, opnieuw negatief is, bouwt de instelling de opleiding af of zet ze die stop. Het instellingsbestuur garandeert de voorzieningen die nodig zijn om de ingeschreven studenten hun opleiding te kunnen laten voltooien.</p>
 
 ### ART. 23/1.
 
