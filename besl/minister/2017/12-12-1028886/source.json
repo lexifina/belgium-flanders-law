@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028886,
+  "title": "Ministerieel besluit van 2017-12-12 tot wijziging van artikel 1 van het ministerieel besluit van 20 juli 2015 betreffende de huisartsenzones",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028886/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "37cb6b277023ea8d6c7f40a18daaa60ada77cea687a21d589aae81bf3b27719b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028886&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-12-12",
+  "gazette": "2018-01-16",
+  "numac": 2017032191,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
