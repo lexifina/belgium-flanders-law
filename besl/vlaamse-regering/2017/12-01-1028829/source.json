@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028829,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-01 houdende de regeling van de inwerkingtreding van artikel 13 van het decreet van 7 juli 2017 houdende diverse bepalingen met betrekking tot het beleidsdomein werk en sociale economie, houdende wijziging van artikel 18 van het besluit van de Vlaamse Regering van 10 december 2010 tot uitvoering van het decreet betreffende de private arbeidsbemiddeling en tot wijziging van de besluiten van de Vlaamse Regering betreffende de baggervaartsector, de koopvaardijsector en de zeesleepvaartsector",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028829/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "579ee9836787198bb278b2abe7b0c6579cecf2d30cf3945c139fa4f7c1ec3268",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028829&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-12-01",
+  "gazette": "2017-12-19",
+  "numac": 2017031940,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
