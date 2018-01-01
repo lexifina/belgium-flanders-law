@@ -106,6 +106,38 @@ d) de investering in de renovatie, verbetering of aanpassing van een of meer won
 
 Dit besluit wordt aangehaald als : het Procedurebesluit Wonen van 14 juli 2017.
 
+### ART 3.
+
+§ 1. De normen waaraan sociale woningen en de infrastructuuraanleg voor sociale woonprojecten moeten voldoen, worden vastgesteld onder de vorm van een beveiligd digitaal bestand.<br>
+<br>
+De normen, vermeld in het eerste lid, bevatten :<br>
+1° een inhoudelijke omschrijving en de vereiste dossiersamenstelling voor elk van de volgende ontwerpfasen, zowel van een infrastructuurverrichting als van een bouwverrichting en een investeringsverrichting :<br>
+a) het voorontwerp;<br>
+b) het uitvoeringsdossier, voor investeringsverrichtingen waarvoor geen voorontwerp is vereist;<br>
+c) de basisaanbesteding;<br>
+d) het gunningsdossier;<br>
+2° een simulatietabel om het maximale subsidiabele bedrag voor een bouwverrichting te bepalen;<br>
+3° een simulatietabel om het maximale subsidiabele bedrag voor een investeringsverrichting te bepalen;<br>
+4° het Bouwtechnisch Bestek Woningbouw voor bouwverrichtingen.<br>
+<br>
+De normen zijn te raadplegen op de website van de VMSW, namelijk op http ://www.vmsw.be.<br>
+<br>
+Na advies van de kwaliteitskamer en het Overlegplatform Sociaal Wonen, vermeld in artikel 13 van het besluit van de Vlaamse Regering van 13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de sociale woonactoren in de financiering van de Vlaamse Maatschappij voor Sociaal Wonen, kan de Vlaamse Regering de simulatietabellen, vermeld in het tweede lid, 2° en 3°, wijzigen.<br>
+<br>
+Na advies van de kwaliteitskamer en het Overlegplatform Sociaal Wonen, vermeld in artikel 13 van het besluit van de Vlaamse Regering van 13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de sociale woonactoren in de financiering van de Vlaamse Maatschappij voor Sociaal Wonen, kan de minister de omschrijving en dossiersamenstelling, vermeld in het tweede lid, 1°, en het bestek, vermeld in het tweede lid, 4°, wijzigen.<br>
+<br>
+§ 2. De bouwtechnische en conceptuele richtlijnen voor de realisatie en instandhouding van sociale woningen en voor de infrastructuuraanleg voor sociale woonprojecten worden vastgesteld onder de vorm van een beveiligd digitaal bestand. De richtlijnen waarborgen de kwaliteit en het comfort van de woningen op het vlak van veiligheid, gezondheid, energiezuinigheid, milieuvriendelijkheid en bruikbaarheid.<br>
+<br>
+De bouwtechnische en conceptuele richtlijnen zijn te raadplegen op de website van de VMSW, namelijk op http ://www.vmsw.be.<br>
+<br>
+Na advies van de kwaliteitskamer en het Overlegplatform Sociaal Wonen, vermeld in artikel 13 van het besluit van de Vlaamse Regering van 13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de sociale woonactoren in de financiering van de Vlaamse Maatschappij voor Sociaal Wonen, kan de Vlaamse Regering de bouwtechnische en conceptuele richtlijnen wijzigen.<br>
+<br>
+Op gemotiveerd verzoek van de initiatiefnemer kan de VMSW voor een infrastructuurverrichting, een bouwverrichting of een investeringsverrichting een afwijking op de bouwtechnische en conceptuele richtlijnen toestaan als aan een van de volgende voorwaarden is voldaan :<br>
+1° stedenbouwkundige reglementeringen verhinderen dat de richtlijnen gevolgd worden;<br>
+2° het alternatief waarborgt de veiligheid, gezondheid, energiezuinigheid, milieuvriendelijkheid en bruikbaarheid.<br>
+<br>
+Op gemotiveerd verzoek van de initiatiefnemer kan de kwaliteitskamer, los van een concreet project, een afwijking op de bouwtechnische en conceptuele richtlijnen toestaan op voorwaarde dat het alternatief de veiligheid, gezondheid, energiezuinigheid, milieuvriendelijkheid en bruikbaarheid waarborgt.
+
 ### ART 4.
 
 Na mededeling aan de Vlaamse Regering stelt de minister de volgende zaken vast :<br>
