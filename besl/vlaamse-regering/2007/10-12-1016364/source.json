@@ -2,16 +2,16 @@
   "codex_id": 1016364,
   "title": "Besluit van de Vlaamse Regering van 2007-10-12 tot regeling van een aantal aangelegenheden voor de Centra voor Basiseducatie ter uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016364/VolledigDocument?datum=2012-09-01",
-  "source_sha256": "343c15e19a0dd712f0b7e6f414e15f572f3f31aa89f8e9ab54abe205ae09e28b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016364/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "1ff1db4c76d9eeee32df073a0b690be4e348811afabb216043b8fc4e4730e4d3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016364&param=informatie",
-  "as_of": "2012-09-01",
+  "as_of": "2018-01-01",
   "made": "2007-10-12",
   "gazette": "2007-11-23",
   "numac": 2007037030,
   "document_start": "2007-09-01",
   "document_end": null,
-  "in_force": "2012-09-01",
+  "in_force": "2018-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
