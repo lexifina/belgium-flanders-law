@@ -2,16 +2,16 @@
   "codex_id": 1026148,
   "title": "Ministerieel besluit van 2015-11-16 houdende het instellen van een regelluw kader voor een laatste groep voorzieningen voor meerderjarige personen met een handicap",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026148/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "c4bc00e101546eee1f55482ef965ff4c70e01073bd6488ba3d861d56fecf1ad5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026148/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "b57da7a760c31cae3fdc39b7f016b66658a7636134b0384a5e04588ccd44a3b9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026148&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2018-01-01",
   "made": "2015-11-16",
   "gazette": "2015-12-01",
   "numac": 2015036469,
   "document_start": "2015-01-01",
   "document_end": "2017-12-31",
-  "in_force": "2015-01-01",
+  "in_force": "2018-01-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
