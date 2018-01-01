@@ -40,7 +40,7 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) een arbeidsovereenkomst met inbegrip van een overeenkomst voor tewerkstelling van studenten als vermeld in de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) een overeenkomst met een erkend uitzendbureau over het voorzien in zorg en ondersteuning;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">c) een overeenkomst met een onderneming die door het bevoegde gewest is erkend als een dienstenchequeonderneming over het verlenen van ondersteuning;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">d) een inschrijving bij een plaatselijk werkgelegenheidsagentschap met het oog op het gebruik van PWA-cheques;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">d) een gebruikersovereenkomst met een organisator als vermeld in artikel 3, 4°, van het Wijk-werkendecreet van 7 juli 2017, om wijk-werkcheques te gebruiken;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">e) een overeenkomst met een natuurlijke persoon of een rechtspersoon over het vervoer van de budgethouder;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">f) een overeenkomst met een organisatie die vrijwilligers ter beschikking steltver het verlenen van zorg en ondersteuning;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">g) een overeenkomst over hoogdrempelige individuele bijstand met een bijstandsorganisatie;</span><br>
