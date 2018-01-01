@@ -2,16 +2,16 @@
   "codex_id": 1011434,
   "title": "Decreet van 2003-04-04 houdende bepalingen tot de oprichting van een Universiteit Antwerpen en tot wijziging van het decreet van 22 december 1995 houdende wijziging van diverse decreten met betrekking tot de Universiteit Antwerpen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011434/VolledigDocument?datum=2015-09-01",
-  "source_sha256": "6b1df091390bcc83f1b9081f6f85259ca9e5d180547964c2d1bd18ffa3003e7b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011434/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "8bdcb8f7eaab260d390a5691aee1671fc4aa1a7ea42fa65307b128030e3dbe4a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011434&param=informatie",
-  "as_of": "2015-09-01",
+  "as_of": "2018-01-01",
   "made": "2003-04-04",
   "gazette": "2003-07-14",
   "numac": 2003035745,
   "document_start": "2003-10-01",
   "document_end": null,
-  "in_force": "2015-09-01",
+  "in_force": "2018-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
