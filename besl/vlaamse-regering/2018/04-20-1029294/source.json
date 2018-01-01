@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029294,
+  "title": "Besluit van de Vlaamse Regering van 2018-04-20 tot wijziging van artikel 2 van het besluit van de Vlaamse Regering van 9 mei 2008 tot vaststelling van de programmatie van de door het Departement Werk en Sociale Economie erkende beschutte werkplaatsen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029294/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "0c8525928485a4d11485aa49a99d20d11eef8adcbf2c421d5e3b7a0f88d4c6a8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029294&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2018-04-20",
+  "gazette": "2018-05-16",
+  "numac": 2018012001,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
