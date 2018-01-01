@@ -13,6 +13,32 @@ In artikel 39bis, § 4, van hetzelfde decreet, ingevoegd bij het decreet van 8 m
 2° een punt j) wordt toegevoegd, dat luidt als volgt:<br>
 "j) een terbeschikkingstelling wegens persoonlijke aangelegenheden als vermeld in het besluit van de Vlaamse Regering van 16 oktober 2009 betreffende de terbeschikkingstelling wegens persoonlijke aangelegenheden voor de personeelsleden van het onderwijs, die een personeelslid tot en met 31 augustus 2017 heeft opgenomen.".
 
+### ART 8.
+
+In artikel 44bis van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 1997 en gewijzigd bij de decreten van 18 mei 1999, 14 februari 2003, 15 juli 2005 en 4 juli 2008, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+<br>
+" § 1. De inrichtende macht kan een opdracht in een wervings-, selectie- of bevorderingsambt tijdelijk toewijzen aan een vastbenoemd personeelslid, dat aangesteld is in een instelling als vermeld in artikel 4, § 1, van dit decreet, in een instelling als vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, of in een centrum voor basiseducatie als vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie. Die toewijzing kan alleen na toepassing van de principes van de tijdelijke aanstelling, vermeld in hoofdstuk III, afdeling 2, van dit decreet, voor wat een wervingsambt betreft, of, als vermeld in hoofdstuk IV van dit decreet, voor wat een selectie- of bevorderingsambt betreft.";<br>
+<br>
+2° paragraaf 2 wordt vervangen door wat volgt:<br>
+<br>
+" § 2. Het vastbenoemde personeelslid kan, met zijn instemming, geheel of gedeeltelijk afzien van de uitoefening van de opdracht waarvoor het vastbenoemd is om in een wervings-, selectie- of bevorderingsambt tijdelijk belast te worden met een andere opdracht waarvoor het niet vastbenoemd is. Het vastbenoemde personeelslid vraagt daarvoor aan zijn inrichtende macht een verlof om tijdelijk een andere opdracht uit te oefenen. De inrichtende macht kan dat verlof om tijdelijk een andere opdracht uit te oefenen toestaan.<br>
+<br>
+Het personeelslid kan het verlof om tijdelijk een andere opdracht uit te oefenen, vermeld in het eerste lid, ook aanvragen aan zijn inrichtende macht om een opdracht op te nemen in een centrum voor basiseducatie, in een hogeschool, bij de inspectie of bij de inspectie en begeleiding van de levensbeschouwelijke vakken. De inrichtende macht kan dat verlof om tijdelijk een andere opdracht uit te oefenen toestaan.";<br>
+<br>
+3° in paragraaf 3 worden de woorden "inzake de voorrang" vervangen door de zinsnede "betreffende de tijdelijke aanstelling van doorlopende duur, vermeld in hoofdstuk III, afdeling 2,";<br>
+<br>
+4° in paragraaf 5, tweede lid, wordt de zinsnede "hoofdstuk III. Werving" vervangen door de zinsnede "hoofdstuk III";<br>
+<br>
+5° paragraaf 6 wordt vervangen door wat volgt:<br>
+<br>
+" § 6. In dit artikel wordt met een tijdelijke aanstelling in een wervingsambt altijd een tijdelijke aanstelling van bepaalde duur bedoeld.".
+
+### ART 9.
+
+In artikel 44ter van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 1997, worden tussen de woorden "de vastbenoemde personeelsleden die" en de woorden "tijdelijk belast worden" de woorden "via een verlof om tijdelijk een andere opdracht uit te oefenen" ingevoegd.
+
 ## HOOFDSTUK 3. Wijzigingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991
 
 ### ART 18.
@@ -24,6 +50,34 @@ Aan artikel 42bis, § 4, van hetzelfde decreet, ingevoegd bij het decreet van 8 
 2° een punt k) wordt toegevoegd, dat luidt als volgt:<br>
 <br>
 "k) een terbeschikkingstelling wegens persoonlijke aangelegenheden als vermeld in het besluit van de Vlaamse Regering van 16 oktober 2009 betreffende de terbeschikkingstelling wegens persoonlijke aangelegenheden voor de personeelsleden van het onderwijs, die een personeelslid tot en met 31 augustus 2017 heeft opgenomen.".
+
+### ART 19.
+
+In artikel 55bis van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 1997 en gewijzigd bij de decreten van 18 mei 1999, 14 februari 2003, 15 juli 2005, 13 juli 2007 en 4 juli 2008, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° paragraaf 1 en 2 worden vervangen door wat volgt:<br>
+<br>
+" § 1. De directeur kan een opdracht in een wervingsambt tijdelijk toewijzen aan een vastbenoemd personeelslid of aan een personeelslid dat is toegelaten tot de proeftijd, dat aangesteld is in een instelling als vermeld in artikel 2, § 1, van dit decreet, in een instelling als vermeld in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 of in een centrum voor basiseducatie als vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie. Die toewijzing is alleen mogelijk na toepassing van de principes van de tijdelijke aanstelling, vermeld in hoofdstuk III, afdeling 2, van dit decreet.<br>
+<br>
+De raad van bestuur - voor de pedagogische begeleidingsdienst en het vormingscentrum: de afgevaardigd bestuurder - kan een opdracht in een selectie- of bevorderingsambt tijdelijk toewijzen aan een vastbenoemd personeelslid of een personeelslid dat is toegelaten tot de proeftijd, dat aangesteld is in een instelling als vermeld in artikel 2, § 1, van dit decreet, in een instelling als vermeld in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 of in een centrum voor basiseducatie als vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie. Die toewijzing is alleen mogelijk na toepassing van de principes van de tijdelijke aanstelling, vermeld in hoofdstuk V van dit decreet.<br>
+<br>
+§ 2. Het vastbenoemde personeelslid kan, met zijn instemming, geheel of gedeeltelijk afzien van de uitoefening van de opdracht waarvoor het vastbenoemd is om in een wervings-, selectie- of bevorderingsambt tijdelijk belast te worden met een andere opdracht waarvoor het niet vastbenoemd is. Het vastbenoemde personeelslid vraagt daarvoor aan het college van directeurs van de scholengroep - voor de pedagogische begeleidingsdienst en het vormingscentrum aan de afgevaardigd bestuurder - een verlof om tijdelijk een andere opdracht uit te oefenen. Het college van directeurs van de scholengroep - voor de pedagogische begeleidingsdienst en het vormingscentrum: de afgevaardigd bestuurder - kan dat verlof om tijdelijk een andere opdracht uit te oefenen toestaan.<br>
+<br>
+Het personeelslid kan het verlof om tijdelijk een andere opdracht uit te oefenen, vermeld in het eerste lid, ook aanvragen aan het college van directeurs van de scholengroep - voor de pedagogische begeleidingsdienst en het vormingscentrum aan de afgevaardigd bestuurder - om een opdracht op te nemen in een centrum voor basiseducatie, in een hogeschool, bij de inspectie of bij de inspectie en begeleiding van de levensbeschouwelijke vakken. Het college van directeurs van de scholengroep - voor de pedagogische begeleidingsdienst en het vormingscentrum: de afgevaardigd bestuurder - kan dat verlof om tijdelijk een andere opdracht uit te oefenen toestaan.";<br>
+<br>
+2° in paragraaf 3 wordt de zinsnede "en de voorrang, ofwel de waarnemende aanstelling in selectie- en bevorderingsambten" vervangen door de zinsnede "en de tijdelijke aanstelling van doorlopende duur, vermeld in hoofdstuk III, afdeling 2, ofwel de waarnemende aanstelling in selectie- en bevorderingsambten, vermeld in hoofdstuk V";<br>
+<br>
+3° in paragraaf 5, tweede lid, wordt de zinsnede "hoofdstuk III. Wervingsambten" vervangen door de zinsnede "hoofdstuk III";<br>
+<br>
+4° paragraaf 6 wordt opgeheven;<br>
+<br>
+5° paragraaf 7 wordt vervangen door wat volgt:<br>
+<br>
+" § 7. In dit artikel wordt met een tijdelijke aanstelling in een wervingsambt altijd een tijdelijke aanstelling van bepaalde duur bedoeld.".
+
+### ART 20.
+
+In artikel 55ter van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 1997, worden tussen de woorden "de vastbenoemde personeelsleden die" en de woorden "tijdelijk belast worden" de woorden "via een verlof om tijdelijk een andere opdracht uit te oefenen" ingevoegd.
 
 ## HOOFDSTUK 4. Wijzigingen van het decreet basisonderwijs van 25 februari 1997
 
@@ -94,6 +148,10 @@ In artikel V.299, § 1, en § 2, eerste lid, van dezelfde codex, wordt de zinsne
 ## HOOFDSTUK 16. Wijzigingen van het besluit van de Vlaamse Regering van 22 april 2016 betreffende het tijdelijke project `Schoolbank op de werkplek' rond duaal leren in het secundair onderwijs, bekrachtigd bij het decreet van 10 juni 2016
 
 ## HOOFDSTUK 17. Wijzigingen van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016
+
+### ART 122.
+
+In artikel III.20, § 2, 2°, van dezelfde codificatie wordt het getal "100" vervangen door het getal "110".
 
 ## HOOFDSTUK 18. Wijziging van het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende het tijdelijke project `Schoolbank op de werkplek' rond duaal leren in de leertijd, bekrachtigd bij het decreet van 23 december 2016
 
