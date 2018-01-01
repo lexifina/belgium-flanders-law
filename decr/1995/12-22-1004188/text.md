@@ -176,7 +176,7 @@ Door de Raad van Bestuur wordt een Hoge Raad van de Universiteit Antwerpen opger
 
 ### ART. 22.
 
-[De Universiteit Antwerpen kan, overeenkomstig de wetgeving betreffende de onteigeningen ten algemenen nutte en na machtiging van de Vlaamse regering, overgaan tot onteigening van onroerende goederen die recht-streeks of onrechtstreeks vereist zijn voor het onderwijs, het onderzoek, de wetenschappelijke dienstverlening en de administratie van de universiteit.  <span class="reference">(verv. decr. 4 april 2003, art. 8, I: 1 oktober 2003)</span> ]
+De Universiteit Antwerpen kan,&nbsp;conform het Vlaams Onteigeningsdecreet van 24 februari 2017 en na machtiging van de Vlaamse regering, overgaan tot onteigening van onroerende goederen die recht-streeks of onrechtstreeks vereist zijn voor het onderwijs, het onderzoek, de wetenschappelijke dienstverlening en de administratie van de universiteit.
 
 ### ART. 23.
 
