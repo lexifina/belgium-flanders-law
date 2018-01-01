@@ -4,7 +4,17 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor de bijstand aan personen;<br />2° het agentschap : het Vlaams Agentschap voor Personen met een Handicap;<br />3° het centrum: het centrum voor ontwikkelingsstoornissen dat de opdrachten, bedoeld in artikel 2, vervult ten aanzien van haar clinten;<br />4° de cliënt: de minderjarige bij wie een hoog risico op een ontwikkelingsstoornis blijkt, of bij wie dergelijke stoornis wordt vermoed of vastgesteld en bij wie een multidisciplinair onderzoek wordt opgestart, alsmede zijn/haar ouders of de wettelijke vertegenwoordigers;<br />5° het kind: de minderjarige of verlengd minderjarig verklaarde persoon;<br />6° het multidisciplinair onderzoek: een afgerond geheel van twee of meer gecombineerde deelonderzoeken op medisch, paramedisch, psychologisch, pedagogisch of sociaal vlak met betrekking tot één cliënt, samengevoegd tot een geïntegreerd multidisciplinair verslag; <br />7° de bezetting: het aantal opgestarte multidisciplinaire onderzoeken op jaarbasis;<br />8° het kwaliteitsdecreet: het decreet van 29 april 1997 inzake de kwaliteitszorg in de welzijnsvoorzieningen;<br />9° ... <br />10° het deelonderzoek: het onderzoek op medisch, paramedisch, psychologisch, pedagogisch of sociaal vlak met betrek-king tot één cliënt en uitgevoerd door één persoon. Indien twee of meer personen behorend tot een verschillende discipline een onderzoek uitvoeren bij één cliënt, wordt dit beschouwd als twee of meer deelonderzoeken.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° de Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor de bijstand aan personen;<br>
+2° het agentschap : het Vlaams Agentschap voor Personen met een Handicap;<br>
+3° het centrum: het centrum voor ontwikkelingsstoornissen dat de opdrachten, bedoeld in artikel 2, vervult ten aanzien van haar clinten;<br>
+4° de cliënt: de minderjarige bij wie een hoog risico op een ontwikkelingsstoornis blijkt, of bij wie dergelijke stoornis wordt vermoed of vastgesteld en bij wie een multidisciplinair onderzoek wordt opgestart, alsmede zijn/haar ouders of de wettelijke vertegenwoordigers;<br>
+5° het kind: de minderjarige of verlengd minderjarig verklaarde persoon;<br>
+6° het multidisciplinair onderzoek: een afgerond geheel van twee of meer gecombineerde deelonderzoeken op medisch, paramedisch, psychologisch, pedagogisch of sociaal vlak met betrekking tot één cliënt, samengevoegd tot een geïntegreerd multidisciplinair verslag;<br>
+7° de bezetting: het aantal opgestarte multidisciplinaire onderzoeken op jaarbasis;<br>
+8° ...;<br>
+9° ...;<br>
+10° het deelonderzoek: het onderzoek op medisch, paramedisch, psychologisch, pedagogisch of sociaal vlak met betrek-king tot één cliënt en uitgevoerd door één persoon. Indien twee of meer personen behorend tot een verschillende discipline een onderzoek uitvoeren bij één cliënt, wordt dit beschouwd als twee of meer deelonderzoeken.
 
 ## HOOFDSTUK II DE CENTRA VOOR ONTWIKKELINGS-STOORNISSEN: OPDRACHT, DOELSTELLINGEN EN DOELGROEP
 
@@ -22,7 +32,27 @@ Het centrum richt zich tot de volgende doelgroepen:<br /><br />1° kinderen bij 
 
 ### ART. 4.
 
-Om als centrum voor ontwikkelingsstoornissen erkend te kunnen worden of erkend te kunnen blijven, moet het centrum aan de volgende erkenningsvoorwaarden voldoen:<br />1° het voldoet aan de bepalingen van hoofdstuk II;<br />2° het is opgericht als of door een vereniging die geen winst nastreeft;<br />3° het is verbonden aan een dienst kindergeneeskunde van een universitaire medische faculteit;<br />4° het beschikt over een multidisciplinair team dat bestaat uit ten minste vertegenwoordigers van de medische, psychologische en pedagogische, paramedische en sociale disciplines;<br />5° ... <br />6° a) het een financiële bijdrage vraagt van de cliënt, die niet hoger mag zijn dan 62,88 euro per opgestart multidisciplinair onderzoek;<br />b) uit de rekening van het afgelopen werkjaar van het centrum blijkt dat een gemiddelde bijdrage van meer dan 31,44 euro per opgestart multidisciplinair onderzoek werd geïnd; <br />7° het bevordert de betrokkenheid van de cliënt bij beoordeling, oriëntatie en therapeutische en opvoedkundige aanpak, om na inschatting van de mogelijkheden en de draagkracht van het gezin, in overleg met de betrokkenen te komen tot een optimale verdeling van taken en verantwoordelijkheden tussen het gezin en andere, al dan niet professionele hulpverleners;<br />8° voldoen aan de bepalingen van het kwaliteitsdecreet van 29 april 1997 inzake kwaliteitszorg in de welzijnsvoorzieningen.<br />De Vlaamse minister bepaalt de minimale kwaliteitseisen en de minimale vereisten waaraan het kwaliteitshandboek en het kwaliteitssysteem moeten voldoen.<br />Het centrum moet een kwaliteitshandboek opmaken overeenkomstig de door de Vlaamse minister vastgestelde componenten en moet de sectorspecifieke minimale kwaliteitseisen die de Vlaamse minister heeft vastgesteld, naleven.<br />Vanaf het jaar dat volgt op het jaar waarin het kwaliteitshandboek wordt opgemaakt en voor het eerst in het jaar 2004, bezorgt het centrum voor ontwikkelingsstoornissen jaarlijks vóór 1 april de kwaliteitsplanning voor het lopende jaar aan het agentschap; <br />9° het voert onderzoek uit ongeacht ras, politieke, filosofische of godsdienstige overtuiging van de cliënt;<br />10° de bepalingen over de herkenbaarheid van de financiering door het agentschap, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 6 december 2002 houdende diverse maatregelen inzake de herkenbaarheid van de financiering door het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, nakomen.<br /><br />De Vlaamse minister bepaalt de minimale kwaliteitseisen en de minimale vereisten waaraan het kwaliteitshandboek en het kwaliteitssysteem moeten voldoen.<br /><br />Vanaf het jaar dat volgt op het jaar waarin het kwaliteitshandboek werd ingeleverd, en voor de eerste keer in het jaar 2004, bezorgt het centrum voor ontwikkelingsstoornissen jaarlijks voor 1 april de volgende documenten aan de administratie:<br />1° de kwaliteitsplanning voor het lopende jaar;<br />2° eventuele wijzigingen aan het kwaliteitshandboek.
+Om als centrum voor ontwikkelingsstoornissen erkend te kunnen worden of erkend te kunnen blijven, moet het centrum aan de volgende erkenningsvoorwaarden voldoen:<br>
+1° het voldoet aan de bepalingen van hoofdstuk II;<br>
+2° het is opgericht als of door een vereniging die geen winst nastreeft;<br>
+3° het is verbonden aan een dienst kindergeneeskunde van een universitaire medische faculteit;<br>
+4° het beschikt over een multidisciplinair team dat bestaat uit ten minste vertegenwoordigers van de medische, psychologische en pedagogische, paramedische en sociale disciplines;<br>
+5° ...<br>
+6° a) het een financiële bijdrage vraagt van de cliënt, die niet hoger mag zijn dan&nbsp;69,42 euro per opgestart multidisciplinair onderzoek;<br>
+b) uit de rekening van het afgelopen werkjaar van het centrum blijkt dat een gemiddelde bijdrage van meer dan&nbsp;34,71 euro per opgestart multidisciplinair onderzoek werd geïnd;<br>
+7° het bevordert de betrokkenheid van de cliënt bij beoordeling, oriëntatie en therapeutische en opvoedkundige aanpak, om na inschatting van de mogelijkheden en de draagkracht van het gezin, in overleg met de betrokkenen te komen tot een optimale verdeling van taken en verantwoordelijkheden tussen het gezin en andere, al dan niet professionele hulpverleners;<br>
+8° voldoen aan de bepalingen van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen.<br>
+De Vlaamse minister bepaalt de minimale kwaliteitseisen en de minimale vereisten waaraan het kwaliteitshandboek en het kwaliteitssysteem moeten voldoen.<br>
+Het centrum moet een kwaliteitshandboek opmaken overeenkomstig de door de Vlaamse minister vastgestelde componenten en moet de sectorspecifieke minimale kwaliteitseisen die de Vlaamse minister heeft vastgesteld, naleven.<br>
+Vanaf het jaar dat volgt op het jaar waarin het kwaliteitshandboek wordt opgemaakt en voor het eerst in het jaar 2004, bezorgt het centrum voor ontwikkelingsstoornissen jaarlijks vóór 1 april de kwaliteitsplanning voor het lopende jaar aan het agentschap;<br>
+9° het voert onderzoek uit ongeacht ras, politieke, filosofische of godsdienstige overtuiging van de cliënt;<br>
+10° de bepalingen over de herkenbaarheid van de financiering door het agentschap, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 6 december 2002 houdende diverse maatregelen inzake de herkenbaarheid van de financiering door het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, nakomen.<br>
+<br>
+De Vlaamse minister bepaalt de minimale kwaliteitseisen en de minimale vereisten waaraan het kwaliteitshandboek en het kwaliteitssysteem moeten voldoen.<br>
+<br>
+Vanaf het jaar dat volgt op het jaar waarin het kwaliteitshandboek werd ingeleverd, en voor de eerste keer in het jaar 2004, bezorgt het centrum voor ontwikkelingsstoornissen jaarlijks voor 1 april de volgende documenten aan de administratie:<br>
+1° de kwaliteitsplanning voor het lopende jaar;<br>
+2° eventuele wijzigingen aan het kwaliteitshandboek.
 
 ### ART. 4bis.
 
@@ -36,7 +66,15 @@ De centra voor ontwikkelingsstoornissen berichten het agentschap wanneer zij wer
 
 ### ART. 6.
 
-Een erkenning als centrum voor ontwikkelingsstoornissen kan enkel worden verleend voorzover de programmatienorm niet wordt overschreden en indien het centrum:<br />1° een ontvankelijke aanvraag heeft ingediend;<br />2° voldoet aan de erkenningsvoorwaarden, bedoeld in afdeling 1.<br /><br />De programmatienorm wordt voor het jaar 2008 bepaald op 4 172 multidisciplinaire onderzoeken als maximale totale erkende capaciteit. De programmatienorm wordt vanaf 1 januari 2011 bepaald op 4 582 multidisciplinaire onderzoeken als maximale totale erkende capaciteit. De programmatienorm wordt vanaf 1 januari 2012 bepaald op 4882 multidisciplinaire onderzoeken als maximale totale erkende capaciteit.<br /><br />De programmatienorm wordt vanaf 1 januari 2009 bepaald op 4 322 multidisciplinaire onderzoeken als maximale totale erkende capaciteit.<br />
+Een erkenning als centrum voor ontwikkelingsstoornissen kan enkel worden verleend voorzover de programmatienorm niet wordt overschreden en indien het centrum:<br>
+1° een ontvankelijke aanvraag heeft ingediend;<br>
+2° voldoet aan de erkenningsvoorwaarden, bedoeld in afdeling 1.<br>
+<br>
+De programmatienorm wordt voor het jaar 2008 bepaald op 4 172 multidisciplinaire onderzoeken als maximale totale erkende capaciteit. De programmatienorm wordt vanaf 1 januari 2011 bepaald op 4 582 multidisciplinaire onderzoeken als maximale totale erkende capaciteit. De programmatienorm wordt vanaf 1 januari 2012 bepaald op 4882 multidisciplinaire onderzoeken als maximale totale erkende capaciteit.<br>
+<br>
+De programmatienorm wordt vanaf 1 januari 2009 bepaald op 4 322 multidisciplinaire onderzoeken als maximale totale erkende capaciteit.<br>
+<br>
+De programmatienorm wordt vanaf 1 januari 2018 bepaald op 5.689 multidisciplinaire onderzoeken als maximale totale erkende capaciteit.
 
 ### ART. 7.
 
@@ -70,11 +108,29 @@ Die subsidies worden toegekend op voorwaarde dat het centrum:<br />1° aan alle 
 
 ### ART. 14.
 
-§ 1. De subsidie bestaat uit een enveloppe die wordt bepaald door de vermenigvuldiging van het subsidiebedrag per capaciteitseenheid met de erkende capaciteit.<br /><br />Elk centrum dient jaarlijks minimaal 90 % en maximaal 110 % van de haar toegekende capaciteit te realiseren. Indien een centrum minder dan 90 % realiseert van de haar toegekende capaciteit wordt de subsidie-enveloppe berekend op de gerealiseerde bezetting en niet op de erkende capaciteit.<br /><br />Indien de bezettingsgraad gedurende twee opeenvolgende jaren minder dan 90 % bedraagt, wordt de erkende capaciteit verminderd tot 110 % van de gemiddelde bezetting tijdens deze twee opeenvolgende jaren.<br /><br />§ 2. Het subsidiebedrag per capaciteitseenheid wordt vastgesteld op 760,29 euro.<br /><br />§ 2bis.  ...<br /><br />§ 2ter. Om het effect van de anciënniteitsstijging, namelijk de ontwikkeling van het verloop van de gemiddelde geldelijke anciënniteit die de personeelsleden jaarlijks hebben opgebouwd, op te vangen, kunnen de bedragen, vermeld in § 2 en § 2bis, binnen de perken van de begrotingskredieten, met ingang van 1 januari 2009 aangepast worden, rekening houdend met een anciënniteitsparameter. De stijging van de anciënniteit kan niet meer dan twaalf maanden per jaar bedragen.<br /><br />De anciënniteitsparameter wordt vastgesteld door de Vlaamse minister, bevoegd voor de bijstand aan personen.<br /><br />§ 3. Het agentschap bepaalt per centrum de erkende capaciteit.
+§ 1. De subsidie bestaat uit een enveloppe die wordt bepaald door de vermenigvuldiging van het subsidiebedrag per capaciteitseenheid met de erkende capaciteit.<br>
+<br>
+Elk centrum dient jaarlijks minimaal 90 % en maximaal 110 % van de haar toegekende capaciteit te realiseren. Indien een centrum minder dan 90 % realiseert van de haar toegekende capaciteit wordt de subsidie-enveloppe berekend op de gerealiseerde bezetting en niet op de erkende capaciteit.<br>
+<br>
+Indien de bezettingsgraad gedurende twee opeenvolgende jaren minder dan 90 % bedraagt, wordt de erkende capaciteit verminderd tot 110 % van de gemiddelde bezetting tijdens deze twee opeenvolgende jaren.<br>
+<br>
+§ 2. Het subsidiebedrag per capaciteitseenheid wordt vastgesteld op&nbsp;865,00 euro.<br>
+<br>
+§ 2bis. ...<br>
+<br>
+§ 2ter. Om het effect van de anciënniteitsstijging, namelijk de ontwikkeling van het verloop van de gemiddelde geldelijke anciënniteit die de personeelsleden jaarlijks hebben opgebouwd, op te vangen, kunnen de bedragen, vermeld in § 2 en § 2bis, binnen de perken van de begrotingskredieten, met ingang van 1 januari 2009 aangepast worden, rekening houdend met een anciënniteitsparameter. De stijging van de anciënniteit kan niet meer dan twaalf maanden per jaar bedragen.<br>
+<br>
+De anciënniteitsparameter wordt vastgesteld door de Vlaamse minister, bevoegd voor de bijstand aan personen.<br>
+<br>
+§ 3. Het agentschap bepaalt per centrum de erkende capaciteit.<br>
+<br>
+§ 4. Het bedrag, vermeld in paragraaf 2, bestaat voor 85% uit personeelssubsidies en voor 15% uit werkingssubsidies.
 
 ### ART. 15.
 
-Als de som van de financiële bijdrage, vermeld in artikel 4, 6°, en de subsidies, toegekend met toepassing van artikel 14 meer bedraagt dan de reële uitgaven voor de uitvoering van zijn opdrachten van dat kalenderjaar, bouwt het centrum reserves op. De opgebouwde reserve mag maximum 50 % bedragen van de jaarlijks, conform artikel 14 berekende subsidie. Het deel van deze reserve dat dit percentrage overtreft wordt teruggestort aan het Fonds.<br /><br />De samenstelling en het gebruik van de reserves moet worden aangetoond in het jaarverslag, vermeld in artikel 13, 2°.
+Als de som van de financiële bijdrage, vermeld in artikel 4, 6°, en de subsidies, toegekend met toepassing van artikel 14 meer bedraagt dan de reële uitgaven voor de uitvoering van zijn opdrachten van dat kalenderjaar, bouwt het centrum reserves op. De opgebouwde reserve mag maximum 50 % bedragen van de jaarlijks, conform artikel 14 berekende subsidie. Het deel van deze reserve dat dit percentrage overtreft wordt teruggestort aan het agentschap.<br>
+<br>
+De samenstelling en het gebruik van de reserves moet worden aangetoond in het jaarverslag, vermeld in artikel 13, 2°.
 
 ### ART. 16.
 
@@ -82,7 +138,9 @@ De reserves kunnen uitsluitend worden aangewend om uitgaven te financieren die b
 
 ### ART. 17.
 
-De bedragen, vermeld in artikel 4, 6°, en in artikel 14, § 2, zijn gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2011.<br /><br />De bedragen, vermeld in het eerste lid, worden aangepast overeenkomstig de aanpassing die bepaald is in de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld, voor de toelagen, tegemoetkomingen en vergoedingen, vermeld in artikel 1, § 1, a), 5) en 6), van de voormelde wet.
+De bedragen, vermeld in artikel 4, 6°, en in artikel 14, § 2, zijn gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2018.<br>
+<br>
+De bedragen, vermeld in het eerste lid, worden aangepast overeenkomstig de aanpassing die bepaald is in de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld, voor de toelagen, tegemoetkomingen en vergoedingen, vermeld in artikel 1, § 1, a), 5) en 6), van de voormelde wet.
 
 ### ART. 18.
 
