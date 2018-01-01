@@ -169,6 +169,22 @@ De inhouding zoals bepaald in artikel 19 sexies, § 1, en de vermindering van ar
 
 ## [HOOFDSTUK IIIquater BIJZONDERE BEPALINGEN OVER DE VASTSTELLING VAN DE AANVULLENDE DOTATIE (ing. decr. 22 december 2017, art. 46, I: 1 januari 2018)]
 
+### ART. 19novies.
+
+Vanaf het begrotingsjaar 2018 wordt op de begroting van het Vlaamse Gewest een aanvullende dotatie met betrekking tot het Vlaams Gemeentefonds ingeschreven. De aanvullende dotatie bedraagt 131.009.724,20 euro voor het begrotingsjaar 2018 en wordt niet geïndexeerd.
+
+### ART. 19decies.
+
+De lijst met gemeenten en hun aandelen in de aanvullende dotatie, vermeld in artikel 19novies, waarop ze vanaf het begrotingsjaar 2018 recht hebben, wordt bepaald in bijlage 1, die bij dit decreet is gevoegd.
+
+### ART. 19undecies.
+
+De gemeentelijke aandelen in de aanvullende dotatie, vermeld in artikel 19decies, worden aan de gemeenten uitbetaald voor 50% op het einde van april van het begrotingsjaar, voor 25% op het einde van oktober van het begrotingsjaar en voor 25% op het einde van januari van het volgende begrotingsjaar.
+
+### ART. 19duodecies.
+
+De bepalingen, vermeld in artikel 6 tot en met 15, zijn niet van toepassing op de aanvullende dotatie, vermeld in artikel 19novies.
+
 ## [HOOFDSTUK IIIquinquies Bijzondere bepalingen over de vaststelling van de aanvullende dotatie voor de centrumsteden Antwerpen, Gent, Aalst, Brugge, Genk, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas en Turnhout (ing. Decr. 2 december 2016, art. 3, I: 1 januari 2017)]
 
 ### ART 19ter decies.
@@ -190,6 +206,27 @@ De aandelen in de aanvullende dotatie, vermeld in artikel 19quater decies, worde
 De bepalingen, vermeld in artikel 6 tot en met 13 en artikel 15, zijn niet van toepassing op de aanvullende dotatie, vermeld in artikel 19ter decies.
 
 ## [HOOFDSTUK IIIsexies Bijzondere bepalingen over de vaststelling van de bedragen voor sommige gemeenten ten gevolge van de overname van provinciale instellingen (ing. decr. 22 december 2017, art. 52, I: 1 januari 2018)]
+
+### ART 19septies decies.
+
+Vanaf het begrotingsjaar 2018 worden aan de volgende gemeenten de volgende bedragen toegekend voor een totaal bedrag van 23.819.200 euro:<br>
+1° Antwerpen: 12.578.500,00 euro;<br>
+2° Gent: 853.000,00 euro;<br>
+3° Hasselt: 4.953.000,00 euro;<br>
+4° Kortrijk: 1.064.000 euro;<br>
+5° Waregem: 325.000 euro;<br>
+6° Moerbeke: 5700,00 euro;<br>
+7° Tongeren: 4.040.000,00 euro.<br>
+<br>
+De bedragen, vermeld in het eerste lid, worden vanaf het begrotingsjaar 2019 elk jaar aangepast met een evolutiepercentage. Dat percentage is gelijk aan de procentuele verhouding, berekend tot op een honderdste van de eenheid, tussen het gezondheidsindexcijfer van de maand maart van het jaar dat het begrotingsjaar voorafgaat met dat van de maand maart van het daaraan voorafgaande jaar.
+
+### ART 19duodevicies.
+
+De bedragen vermeld in artikel 19septies decies, worden aan de gemeenten uitbetaald in vier gelijke delen, telkens op het einde van de eerste maand van elk kwartaal.
+
+### ART 19undevicies.
+
+De bepalingen, vermeld in artikel 6 tot en met 15, zijn niet van toepassing op de bedragen, vermeld in artikel 19septies decies.
 
 ## HOOFDSTUK IV OPHEFFINGS- EN OVERGANGSBEPALINGEN
 
@@ -222,3 +259,1562 @@ In afwijking van artikel 12, § 1 moet de beslissing voor het bepalen van het aa
 ### ART. 26.
 
 Dit decreet treedt in werking op 1 januari 2003.
+
+### BIJLAGE
+
+Bijlage 1<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Gemeente</td>
+			<td>Totaal</td>
+			<td>%</td>
+		</tr>
+		<tr>
+			<td>AALST</td>
+			<td>2.048.588,46</td>
+			<td>1,5637 %</td>
+		</tr>
+		<tr>
+			<td>AALTER</td>
+			<td>317.108,10</td>
+			<td>0,2420 %</td>
+		</tr>
+		<tr>
+			<td>AARSCHOT</td>
+			<td>652.107,12</td>
+			<td>0,4978 %</td>
+		</tr>
+		<tr>
+			<td>AARTSELAAR</td>
+			<td>256.707,16</td>
+			<td>0,1959 %</td>
+		</tr>
+		<tr>
+			<td>AFFLIGEM</td>
+			<td>198.715,39</td>
+			<td>0,1517 %</td>
+		</tr>
+		<tr>
+			<td>ALKEN</td>
+			<td>197.154,77</td>
+			<td>0,1505 %</td>
+		</tr>
+		<tr>
+			<td>ALVERINGEM</td>
+			<td>106.642,13</td>
+			<td>0,0814 %</td>
+		</tr>
+		<tr>
+			<td>ANTWERPEN</td>
+			<td>11.704.922,77</td>
+			<td>8,9344 %</td>
+		</tr>
+		<tr>
+			<td>ANZEGEM</td>
+			<td>247.601,29</td>
+			<td>0,1890 %</td>
+		</tr>
+		<tr>
+			<td>ARDOOIE</td>
+			<td>122.044,85</td>
+			<td>0,0932 %</td>
+		</tr>
+		<tr>
+			<td>ARENDONK</td>
+			<td>224.465,98</td>
+			<td>0,1713 %</td>
+		</tr>
+		<tr>
+			<td>AS</td>
+			<td>122.514,94</td>
+			<td>0,0935 %</td>
+		</tr>
+		<tr>
+			<td>ASSE</td>
+			<td>811.055,61</td>
+			<td>0,6191 %</td>
+		</tr>
+		<tr>
+			<td>ASSENEDE</td>
+			<td>211.210,06</td>
+			<td>0,1612 %</td>
+		</tr>
+		<tr>
+			<td>AVELGEM</td>
+			<td>152.406,28</td>
+			<td>0,1163 %</td>
+		</tr>
+		<tr>
+			<td>BAARLE-HERTOG</td>
+			<td>151.130,91</td>
+			<td>0,1154 %</td>
+		</tr>
+		<tr>
+			<td>BALEN</td>
+			<td>349.659,78</td>
+			<td>0,2669 %</td>
+		</tr>
+		<tr>
+			<td>BEERNEM</td>
+			<td>243.678,06</td>
+			<td>0,1860 %</td>
+		</tr>
+		<tr>
+			<td>BEERSE</td>
+			<td>287.710,80</td>
+			<td>0,2196 %</td>
+		</tr>
+		<tr>
+			<td>BEERSEL</td>
+			<td>604.940,96</td>
+			<td>0,4618 %</td>
+		</tr>
+		<tr>
+			<td>BEGIJNENDIJK</td>
+			<td>92.948,87</td>
+			<td>0,0709 %</td>
+		</tr>
+		<tr>
+			<td>BEKKEVOORT</td>
+			<td>78.618,19</td>
+			<td>0,0600 %</td>
+		</tr>
+		<tr>
+			<td>BERINGEN</td>
+			<td>988.512,72</td>
+			<td>0,7545 %</td>
+		</tr>
+		<tr>
+			<td>BERLAAR</td>
+			<td>115.365,69</td>
+			<td>0,0881 %</td>
+		</tr>
+		<tr>
+			<td>BERLARE</td>
+			<td>239.662,33</td>
+			<td>0,1829 %</td>
+		</tr>
+		<tr>
+			<td>BERTEM</td>
+			<td>96.029,45</td>
+			<td>0,0733 %</td>
+		</tr>
+		<tr>
+			<td>BEVER</td>
+			<td>4.947,11</td>
+			<td>0,0038 %</td>
+		</tr>
+		<tr>
+			<td>BEVEREN</td>
+			<td>888.870,10</td>
+			<td>0,6785 %</td>
+		</tr>
+		<tr>
+			<td>BIERBEEK</td>
+			<td>307.558,29</td>
+			<td>0,2348 %</td>
+		</tr>
+		<tr>
+			<td>BILZEN</td>
+			<td>637.566,99</td>
+			<td>0,4867 %</td>
+		</tr>
+		<tr>
+			<td>BLANKENBERGE</td>
+			<td>485.769,06</td>
+			<td>0,3708 %</td>
+		</tr>
+		<tr>
+			<td>BOCHOLT</td>
+			<td>214.060,11</td>
+			<td>0,1634 %</td>
+		</tr>
+		<tr>
+			<td>BOECHOUT</td>
+			<td>216.935,19</td>
+			<td>0,1656 %</td>
+		</tr>
+		<tr>
+			<td>BONHEIDEN</td>
+			<td>265.228,03</td>
+			<td>0,2024 %</td>
+		</tr>
+		<tr>
+			<td>BOOM</td>
+			<td>623.728,19</td>
+			<td>0,4761 %</td>
+		</tr>
+		<tr>
+			<td>BOORTMEERBEEK</td>
+			<td>169.730,27</td>
+			<td>0,1296 %</td>
+		</tr>
+		<tr>
+			<td>BORGLOON</td>
+			<td>239.116,38</td>
+			<td>0,1825 %</td>
+		</tr>
+		<tr>
+			<td>BORNEM</td>
+			<td>638.306,51</td>
+			<td>0,4872 %</td>
+		</tr>
+		<tr>
+			<td>BORSBEEK</td>
+			<td>235.873,11</td>
+			<td>0,1800 %</td>
+		</tr>
+		<tr>
+			<td>BOUTERSEM</td>
+			<td>120.126,63</td>
+			<td>0,0917 %</td>
+		</tr>
+		<tr>
+			<td>BRAKEL</td>
+			<td>149.229,30</td>
+			<td>0,1139 %</td>
+		</tr>
+		<tr>
+			<td>BRASSCHAAT</td>
+			<td>744.628,25</td>
+			<td>0,5684 %</td>
+		</tr>
+		<tr>
+			<td>BRECHT</td>
+			<td>378.970,20</td>
+			<td>0,2893 %</td>
+		</tr>
+		<tr>
+			<td>BREDENE</td>
+			<td>270.601,91</td>
+			<td>0,2066 %</td>
+		</tr>
+		<tr>
+			<td>BREE</td>
+			<td>353.057,97</td>
+			<td>0,2695 %</td>
+		</tr>
+		<tr>
+			<td>BRUGGE</td>
+			<td>2.601.463,44</td>
+			<td>1,9857 %</td>
+		</tr>
+		<tr>
+			<td>BUGGENHOUT</td>
+			<td>217.886,16</td>
+			<td>0,1663 %</td>
+		</tr>
+		<tr>
+			<td>DAMME</td>
+			<td>177.507,39</td>
+			<td>0,1355 %</td>
+		</tr>
+		<tr>
+			<td>DE HAAN</td>
+			<td>217.947,47</td>
+			<td>0,1664 %</td>
+		</tr>
+		<tr>
+			<td>DE PANNE</td>
+			<td>216.534,40</td>
+			<td>0,1653 %</td>
+		</tr>
+		<tr>
+			<td>DE PINTE</td>
+			<td>194.898,15</td>
+			<td>0,1488 %</td>
+		</tr>
+		<tr>
+			<td>DEERLIJK</td>
+			<td>184.038,74</td>
+			<td>0,1405 %</td>
+		</tr>
+		<tr>
+			<td>DEINZE</td>
+			<td>554.897,89</td>
+			<td>0,4236 %</td>
+		</tr>
+		<tr>
+			<td>DENDERLEEUW</td>
+			<td>392.213,84</td>
+			<td>0,2994 %</td>
+		</tr>
+		<tr>
+			<td>DENDERMONDE</td>
+			<td>769.636,35</td>
+			<td>0,5875 %</td>
+		</tr>
+		<tr>
+			<td>DENTERGEM</td>
+			<td>89.255,52</td>
+			<td>0,0681 %</td>
+		</tr>
+		<tr>
+			<td>DESSEL</td>
+			<td>127.880,95</td>
+			<td>0,0976 %</td>
+		</tr>
+		<tr>
+			<td>DESTELBERGEN</td>
+			<td>281.772,04</td>
+			<td>0,2151 %</td>
+		</tr>
+		<tr>
+			<td>DIEPENBEEK</td>
+			<td>265.776,28</td>
+			<td>0,2029 %</td>
+		</tr>
+		<tr>
+			<td>DIEST</td>
+			<td>667.289,30</td>
+			<td>0,5093 %</td>
+		</tr>
+		<tr>
+			<td>DIKSMUIDE</td>
+			<td>386.845,86</td>
+			<td>0,2953 %</td>
+		</tr>
+		<tr>
+			<td>DILBEEK</td>
+			<td>1.191.747,64</td>
+			<td>0,9097 %</td>
+		</tr>
+		<tr>
+			<td>DILSEN-STOKKEM</td>
+			<td>461.441,57</td>
+			<td>0,3522 %</td>
+		</tr>
+		<tr>
+			<td>DROGENBOS</td>
+			<td>25.000,00</td>
+			<td>0,0191 %</td>
+		</tr>
+		<tr>
+			<td>DUFFEL</td>
+			<td>288.298,50</td>
+			<td>0,2201 %</td>
+		</tr>
+		<tr>
+			<td>EDEGEM</td>
+			<td>405.411,04</td>
+			<td>0,3095 %</td>
+		</tr>
+		<tr>
+			<td>EEKLO</td>
+			<td>589.950,13</td>
+			<td>0,4503 %</td>
+		</tr>
+		<tr>
+			<td>ERPE-MERE</td>
+			<td>202.881,57</td>
+			<td>0,1549 %</td>
+		</tr>
+		<tr>
+			<td>ESSEN</td>
+			<td>309.684,61</td>
+			<td>0,2364 %</td>
+		</tr>
+		<tr>
+			<td>EVERGEM</td>
+			<td>615.686,96</td>
+			<td>0,4700 %</td>
+		</tr>
+		<tr>
+			<td>GALMAARDEN</td>
+			<td>128.851,59</td>
+			<td>0,0984 %</td>
+		</tr>
+		<tr>
+			<td>GAVERE</td>
+			<td>198.478,61</td>
+			<td>0,1515 %</td>
+		</tr>
+		<tr>
+			<td>GEEL</td>
+			<td>977.530,39</td>
+			<td>0,7462 %</td>
+		</tr>
+		<tr>
+			<td>GEETBETS</td>
+			<td>77.559,63</td>
+			<td>0,0592 %</td>
+		</tr>
+		<tr>
+			<td>GENK</td>
+			<td>2.190.402,34</td>
+			<td>1,6719 %</td>
+		</tr>
+		<tr>
+			<td>GENT</td>
+			<td>5.665.852,45</td>
+			<td>4,3248 %</td>
+		</tr>
+		<tr>
+			<td>GERAARDSBERGEN</td>
+			<td>737.424,20</td>
+			<td>0,5629 %</td>
+		</tr>
+		<tr>
+			<td>GINGELOM</td>
+			<td>87.670,01</td>
+			<td>0,0669 %</td>
+		</tr>
+		<tr>
+			<td>GISTEL</td>
+			<td>191.923,85</td>
+			<td>0,1465 %</td>
+		</tr>
+		<tr>
+			<td>GLABBEEK</td>
+			<td>142.633,37</td>
+			<td>0,1089 %</td>
+		</tr>
+		<tr>
+			<td>GOOIK</td>
+			<td>132.211,95</td>
+			<td>0,1009 %</td>
+		</tr>
+		<tr>
+			<td>GRIMBERGEN</td>
+			<td>1.093.776,03</td>
+			<td>0,8349 %</td>
+		</tr>
+		<tr>
+			<td>GROBBENDONK</td>
+			<td>180.843,55</td>
+			<td>0,1380 %</td>
+		</tr>
+		<tr>
+			<td>HAACHT</td>
+			<td>223.317,70</td>
+			<td>0,1705 %</td>
+		</tr>
+		<tr>
+			<td>HAALTERT</td>
+			<td>255.619,01</td>
+			<td>0,1951 %</td>
+		</tr>
+		<tr>
+			<td>HALEN</td>
+			<td>128.629,10</td>
+			<td>0,0982 %</td>
+		</tr>
+		<tr>
+			<td>HALLE</td>
+			<td>858.149,47</td>
+			<td>0,6550 %</td>
+		</tr>
+		<tr>
+			<td>HAM</td>
+			<td>227.369,67</td>
+			<td>0,1736 %</td>
+		</tr>
+		<tr>
+			<td>HAMME</td>
+			<td>355.349,87</td>
+			<td>0,2712 %</td>
+		</tr>
+		<tr>
+			<td>HAMONT-ACHEL</td>
+			<td>217.915,85</td>
+			<td>0,1663 %</td>
+		</tr>
+		<tr>
+			<td>HARELBEKE</td>
+			<td>481.178,85</td>
+			<td>0,3673 %</td>
+		</tr>
+		<tr>
+			<td>HASSELT</td>
+			<td>2.199.566,36</td>
+			<td>1,6789 %</td>
+		</tr>
+		<tr>
+			<td>HECHTEL-EKSEL</td>
+			<td>198.828,08</td>
+			<td>0,1518 %</td>
+		</tr>
+		<tr>
+			<td>HEERS</td>
+			<td>140.947,60</td>
+			<td>0,1076 %</td>
+		</tr>
+		<tr>
+			<td>HEIST-OP-DEN-BERG</td>
+			<td>814.046,70</td>
+			<td>0,6214 %</td>
+		</tr>
+		<tr>
+			<td>HEMIKSEM</td>
+			<td>191.640,87</td>
+			<td>0,1463 %</td>
+		</tr>
+		<tr>
+			<td>HERENT</td>
+			<td>361.508,87</td>
+			<td>0,2759 %</td>
+		</tr>
+		<tr>
+			<td>HERENTALS</td>
+			<td>732.438,30</td>
+			<td>0,5591 %</td>
+		</tr>
+		<tr>
+			<td>HERENTHOUT</td>
+			<td>124.872,95</td>
+			<td>0,0953 %</td>
+		</tr>
+		<tr>
+			<td>HERK-DE-STAD</td>
+			<td>221.583,67</td>
+			<td>0,1691 %</td>
+		</tr>
+		<tr>
+			<td>HERNE</td>
+			<td>114.338,25</td>
+			<td>0,0873 %</td>
+		</tr>
+		<tr>
+			<td>HERSELT</td>
+			<td>217.564,26</td>
+			<td>0,1661 %</td>
+		</tr>
+		<tr>
+			<td>HERSTAPPE</td>
+			<td>0,00</td>
+			<td>0,0000 %</td>
+		</tr>
+		<tr>
+			<td>HERZELE</td>
+			<td>269.662,47</td>
+			<td>0,2058 %</td>
+		</tr>
+		<tr>
+			<td>HEUSDEN-ZOLDER</td>
+			<td>993.048,48</td>
+			<td>0,7580 %</td>
+		</tr>
+		<tr>
+			<td>HEUVELLAND</td>
+			<td>121.094,07</td>
+			<td>0,0924 %</td>
+		</tr>
+		<tr>
+			<td>HOEGAARDEN</td>
+			<td>115.561,78</td>
+			<td>0,0882 %</td>
+		</tr>
+		<tr>
+			<td>HOEILAART</td>
+			<td>207.133,08</td>
+			<td>0,1581 %</td>
+		</tr>
+		<tr>
+			<td>HOESELT</td>
+			<td>169.071,52</td>
+			<td>0,1291 %</td>
+		</tr>
+		<tr>
+			<td>HOLSBEEK</td>
+			<td>136.799,47</td>
+			<td>0,1044 %</td>
+		</tr>
+		<tr>
+			<td>HOOGLEDE</td>
+			<td>191.307,34</td>
+			<td>0,1460 %</td>
+		</tr>
+		<tr>
+			<td>HOOGSTRATEN</td>
+			<td>455.704,75</td>
+			<td>0,3478 %</td>
+		</tr>
+		<tr>
+			<td>HOREBEKE</td>
+			<td>3.675,06</td>
+			<td>0,0028 %</td>
+		</tr>
+		<tr>
+			<td>HOUTHALEN-HELCHTEREN</td>
+			<td>823.172,63</td>
+			<td>0,6283 %</td>
+		</tr>
+		<tr>
+			<td>HOUTHULST</td>
+			<td>167.454,84</td>
+			<td>0,1278 %</td>
+		</tr>
+		<tr>
+			<td>HOVE</td>
+			<td>146.747,65</td>
+			<td>0,1120 %</td>
+		</tr>
+		<tr>
+			<td>HULDENBERG</td>
+			<td>131.577,88</td>
+			<td>0,1004 %</td>
+		</tr>
+		<tr>
+			<td>HULSHOUT</td>
+			<td>158.279,83</td>
+			<td>0,1208 %</td>
+		</tr>
+		<tr>
+			<td>ICHTEGEM</td>
+			<td>226.035,86</td>
+			<td>0,1725 %</td>
+		</tr>
+		<tr>
+			<td>IEPER</td>
+			<td>820.643,20</td>
+			<td>0,6264 %</td>
+		</tr>
+		<tr>
+			<td>INGELMUNSTER</td>
+			<td>177.721,55</td>
+			<td>0,1357 %</td>
+		</tr>
+		<tr>
+			<td>IZEGEM</td>
+			<td>513.405,34</td>
+			<td>0,3919 %</td>
+		</tr>
+		<tr>
+			<td>JABBEKE</td>
+			<td>213.661,06</td>
+			<td>0,1631 %</td>
+		</tr>
+		<tr>
+			<td>KALMTHOUT</td>
+			<td>271.579,28</td>
+			<td>0,2073 %</td>
+		</tr>
+		<tr>
+			<td>KAMPENHOUT</td>
+			<td>186.186,44</td>
+			<td>0,1421 %</td>
+		</tr>
+		<tr>
+			<td>KAPELLEN</td>
+			<td>428.699,26</td>
+			<td>0,3272 %</td>
+		</tr>
+		<tr>
+			<td>KAPELLE-OP-DEN-BOS</td>
+			<td>133.637,27</td>
+			<td>0,1020 %</td>
+		</tr>
+		<tr>
+			<td>KAPRIJKE</td>
+			<td>112.465,54</td>
+			<td>0,0858 %</td>
+		</tr>
+		<tr>
+			<td>KASTERLEE</td>
+			<td>264.592,19</td>
+			<td>0,2020 %</td>
+		</tr>
+		<tr>
+			<td>KEERBERGEN</td>
+			<td>201.218,45</td>
+			<td>0,1536 %</td>
+		</tr>
+		<tr>
+			<td>KINROOI</td>
+			<td>195.655,08</td>
+			<td>0,1493 %</td>
+		</tr>
+		<tr>
+			<td>KLUISBERGEN</td>
+			<td>113.793,91</td>
+			<td>0,0869 %</td>
+		</tr>
+		<tr>
+			<td>KNESSELARE</td>
+			<td>122.640,47</td>
+			<td>0,0936 %</td>
+		</tr>
+		<tr>
+			<td>KNOKKE-HEIST</td>
+			<td>658.045,96</td>
+			<td>0,5023 %</td>
+		</tr>
+		<tr>
+			<td>KOEKELARE</td>
+			<td>87.977,76</td>
+			<td>0,0672 %</td>
+		</tr>
+		<tr>
+			<td>KOKSIJDE</td>
+			<td>456.176,11</td>
+			<td>0,3482 %</td>
+		</tr>
+		<tr>
+			<td>KONTICH</td>
+			<td>295.938,84</td>
+			<td>0,2259 %</td>
+		</tr>
+		<tr>
+			<td>KORTEMARK</td>
+			<td>203.573,15</td>
+			<td>0,1554 %</td>
+		</tr>
+		<tr>
+			<td>KORTENAKEN</td>
+			<td>124.522,46</td>
+			<td>0,0950 %</td>
+		</tr>
+		<tr>
+			<td>KORTENBERG</td>
+			<td>290.208,39</td>
+			<td>0,2215 %</td>
+		</tr>
+		<tr>
+			<td>KORTESSEM</td>
+			<td>123.531,80</td>
+			<td>0,0943 %</td>
+		</tr>
+		<tr>
+			<td>KORTRIJK</td>
+			<td>2.212.743,49</td>
+			<td>1,6890 %</td>
+		</tr>
+		<tr>
+			<td>KRAAINEM</td>
+			<td>0,00</td>
+			<td>0,0000 %</td>
+		</tr>
+		<tr>
+			<td>KRUIBEKE</td>
+			<td>240.037,46</td>
+			<td>0,1832 %</td>
+		</tr>
+		<tr>
+			<td>KRUISHOUTEM</td>
+			<td>123.050,36</td>
+			<td>0,0939 %</td>
+		</tr>
+		<tr>
+			<td>KUURNE</td>
+			<td>227.600,49</td>
+			<td>0,1737 %</td>
+		</tr>
+		<tr>
+			<td>LAAKDAL</td>
+			<td>244.442,54</td>
+			<td>0,1866 %</td>
+		</tr>
+		<tr>
+			<td>LAARNE</td>
+			<td>221.932,75</td>
+			<td>0,1694 %</td>
+		</tr>
+		<tr>
+			<td>LANAKEN</td>
+			<td>359.610,31</td>
+			<td>0,2745 %</td>
+		</tr>
+		<tr>
+			<td>LANDEN</td>
+			<td>307.775,48</td>
+			<td>0,2349 %</td>
+		</tr>
+		<tr>
+			<td>LANGEMARK-POELKAPELLE</td>
+			<td>123.853,65</td>
+			<td>0,0945 %</td>
+		</tr>
+		<tr>
+			<td>LEBBEKE</td>
+			<td>264.702,11</td>
+			<td>0,2020 %</td>
+		</tr>
+		<tr>
+			<td>LEDE</td>
+			<td>259.148,82</td>
+			<td>0,1978 %</td>
+		</tr>
+		<tr>
+			<td>LEDEGEM</td>
+			<td>130.741,41</td>
+			<td>0,0998 %</td>
+		</tr>
+		<tr>
+			<td>LENDELEDE</td>
+			<td>108.708,19</td>
+			<td>0,0830 %</td>
+		</tr>
+		<tr>
+			<td>LENNIK</td>
+			<td>130.833,09</td>
+			<td>0,0999 %</td>
+		</tr>
+		<tr>
+			<td>LEOPOLDSBURG</td>
+			<td>511.912,58</td>
+			<td>0,3907 %</td>
+		</tr>
+		<tr>
+			<td>LEUVEN</td>
+			<td>2.321.954,23</td>
+			<td>1,7724 %</td>
+		</tr>
+		<tr>
+			<td>LICHTERVELDE</td>
+			<td>123.453,44</td>
+			<td>0,0942 %</td>
+		</tr>
+		<tr>
+			<td>LIEDEKERKE</td>
+			<td>330.199,12</td>
+			<td>0,2520 %</td>
+		</tr>
+		<tr>
+			<td>LIER</td>
+			<td>925.016,72</td>
+			<td>0,7061 %</td>
+		</tr>
+		<tr>
+			<td>LIERDE</td>
+			<td>113.568,68</td>
+			<td>0,0867 %</td>
+		</tr>
+		<tr>
+			<td>LILLE</td>
+			<td>173.520,02</td>
+			<td>0,1324 %</td>
+		</tr>
+		<tr>
+			<td>LINKEBEEK</td>
+			<td>56.583,80</td>
+			<td>0,0432 %</td>
+		</tr>
+		<tr>
+			<td>LINT</td>
+			<td>181.513,90</td>
+			<td>0,1385 %</td>
+		</tr>
+		<tr>
+			<td>LINTER</td>
+			<td>99.736,90</td>
+			<td>0,0761 %</td>
+		</tr>
+		<tr>
+			<td>LOCHRISTI</td>
+			<td>305.168,49</td>
+			<td>0,2329 %</td>
+		</tr>
+		<tr>
+			<td>LOKEREN</td>
+			<td>982.362,63</td>
+			<td>0,7498 %</td>
+		</tr>
+		<tr>
+			<td>LOMMEL</td>
+			<td>737.879,55</td>
+			<td>0,5632 %</td>
+		</tr>
+		<tr>
+			<td>LONDERZEEL</td>
+			<td>266.238,20</td>
+			<td>0,2032 %</td>
+		</tr>
+		<tr>
+			<td>LO-RENINGE</td>
+			<td>14.406,56</td>
+			<td>0,0110 %</td>
+		</tr>
+		<tr>
+			<td>LOVENDEGEM</td>
+			<td>137.553,31</td>
+			<td>0,1050 %</td>
+		</tr>
+		<tr>
+			<td>LUBBEEK</td>
+			<td>213.165,80</td>
+			<td>0,1627 %</td>
+		</tr>
+		<tr>
+			<td>LUMMEN</td>
+			<td>218.272,89</td>
+			<td>0,1666 %</td>
+		</tr>
+		<tr>
+			<td>MAARKEDAL</td>
+			<td>112.957,96</td>
+			<td>0,0862 %</td>
+		</tr>
+		<tr>
+			<td>MAASEIK</td>
+			<td>527.200,20</td>
+			<td>0,4024 %</td>
+		</tr>
+		<tr>
+			<td>MAASMECHELEN</td>
+			<td>1.049.736,50</td>
+			<td>0,8013 %</td>
+		</tr>
+		<tr>
+			<td>MACHELEN</td>
+			<td>418.475,91</td>
+			<td>0,3194 %</td>
+		</tr>
+		<tr>
+			<td>MALDEGEM</td>
+			<td>359.881,22</td>
+			<td>0,2747 %</td>
+		</tr>
+		<tr>
+			<td>MALLE</td>
+			<td>267.487,80</td>
+			<td>0,2042 %</td>
+		</tr>
+		<tr>
+			<td>MECHELEN</td>
+			<td>2.313.638,95</td>
+			<td>1,7660 %</td>
+		</tr>
+		<tr>
+			<td>MEERHOUT</td>
+			<td>144.981,65</td>
+			<td>0,1107 %</td>
+		</tr>
+		<tr>
+			<td>MEEUWEN-GRUITRODE</td>
+			<td>218.960,27</td>
+			<td>0,1671 %</td>
+		</tr>
+		<tr>
+			<td>MEISE</td>
+			<td>280.365,15</td>
+			<td>0,2140 %</td>
+		</tr>
+		<tr>
+			<td>MELLE</td>
+			<td>181.383,63</td>
+			<td>0,1385 %</td>
+		</tr>
+		<tr>
+			<td>MENEN</td>
+			<td>923.764,76</td>
+			<td>0,7051 %</td>
+		</tr>
+		<tr>
+			<td>MERCHTEM</td>
+			<td>262.667,98</td>
+			<td>0,2005 %</td>
+		</tr>
+		<tr>
+			<td>MERELBEKE</td>
+			<td>386.697,18</td>
+			<td>0,2952 %</td>
+		</tr>
+		<tr>
+			<td>MERKSPLAS</td>
+			<td>126.660,37</td>
+			<td>0,0967 %</td>
+		</tr>
+		<tr>
+			<td>MESEN</td>
+			<td>110.081,92</td>
+			<td>0,0840 %</td>
+		</tr>
+		<tr>
+			<td>MEULEBEKE</td>
+			<td>182.253,79</td>
+			<td>0,1391 %</td>
+		</tr>
+		<tr>
+			<td>MIDDELKERKE</td>
+			<td>340.281,43</td>
+			<td>0,2597 %</td>
+		</tr>
+		<tr>
+			<td>MOERBEKE</td>
+			<td>79.275,43</td>
+			<td>0,0605 %</td>
+		</tr>
+		<tr>
+			<td>MOL</td>
+			<td>933.946,17</td>
+			<td>0,7129 %</td>
+		</tr>
+		<tr>
+			<td>MOORSLEDE</td>
+			<td>179.923,04</td>
+			<td>0,1373 %</td>
+		</tr>
+		<tr>
+			<td>MORTSEL</td>
+			<td>573.140,19</td>
+			<td>0,4375 %</td>
+		</tr>
+		<tr>
+			<td>NAZARETH</td>
+			<td>213.048,22</td>
+			<td>0,1626 %</td>
+		</tr>
+		<tr>
+			<td>NEERPELT</td>
+			<td>290.740,20</td>
+			<td>0,2219 %</td>
+		</tr>
+		<tr>
+			<td>NEVELE</td>
+			<td>199.375,72</td>
+			<td>0,1522 %</td>
+		</tr>
+		<tr>
+			<td>NIEL</td>
+			<td>136.258,34</td>
+			<td>0,1040 %</td>
+		</tr>
+		<tr>
+			<td>NIEUWERKERKEN</td>
+			<td>60.002,49</td>
+			<td>0,0458 %</td>
+		</tr>
+		<tr>
+			<td>NIEUWPOORT</td>
+			<td>224.856,72</td>
+			<td>0,1716 %</td>
+		</tr>
+		<tr>
+			<td>NIJLEN</td>
+			<td>306.440,76</td>
+			<td>0,2339 %</td>
+		</tr>
+		<tr>
+			<td>NINOVE</td>
+			<td>797.977,99</td>
+			<td>0,6091 %</td>
+		</tr>
+		<tr>
+			<td>OLEN</td>
+			<td>204.597,67</td>
+			<td>0,1562 %</td>
+		</tr>
+		<tr>
+			<td>OOSTENDE</td>
+			<td>1.836.124,09</td>
+			<td>1,4015 %</td>
+		</tr>
+		<tr>
+			<td>OOSTERZELE</td>
+			<td>177.235,99</td>
+			<td>0,1353 %</td>
+		</tr>
+		<tr>
+			<td>OOSTKAMP</td>
+			<td>372.226,06</td>
+			<td>0,2841 %</td>
+		</tr>
+		<tr>
+			<td>OOSTROZEBEKE</td>
+			<td>120.541,80</td>
+			<td>0,0920 %</td>
+		</tr>
+		<tr>
+			<td>OPGLABBEEK</td>
+			<td>184.950,26</td>
+			<td>0,1412 %</td>
+		</tr>
+		<tr>
+			<td>OPWIJK</td>
+			<td>233.196,73</td>
+			<td>0,1780 %</td>
+		</tr>
+		<tr>
+			<td>OUDENAARDE</td>
+			<td>411.023,61</td>
+			<td>0,3137 %</td>
+		</tr>
+		<tr>
+			<td>OUDENBURG</td>
+			<td>91.672,10</td>
+			<td>0,0700 %</td>
+		</tr>
+		<tr>
+			<td>OUD-HEVERLEE</td>
+			<td>197.709,65</td>
+			<td>0,1509 %</td>
+		</tr>
+		<tr>
+			<td>OUD-TURNHOUT</td>
+			<td>216.458,63</td>
+			<td>0,1652 %</td>
+		</tr>
+		<tr>
+			<td>OVERIJSE</td>
+			<td>558.309,42</td>
+			<td>0,4262 %</td>
+		</tr>
+		<tr>
+			<td>OVERPELT</td>
+			<td>356.216,67</td>
+			<td>0,2719 %</td>
+		</tr>
+		<tr>
+			<td>PEER</td>
+			<td>268.903,56</td>
+			<td>0,2053 %</td>
+		</tr>
+		<tr>
+			<td>PEPINGEN</td>
+			<td>107.531,36</td>
+			<td>0,0821 %</td>
+		</tr>
+		<tr>
+			<td>PITTEM</td>
+			<td>82.430,93</td>
+			<td>0,0629 %</td>
+		</tr>
+		<tr>
+			<td>POPERINGE</td>
+			<td>311.624,62</td>
+			<td>0,2379 %</td>
+		</tr>
+		<tr>
+			<td>PUTTE</td>
+			<td>257.712,81</td>
+			<td>0,1967 %</td>
+		</tr>
+		<tr>
+			<td>PUURS</td>
+			<td>307.673,91</td>
+			<td>0,2348 %</td>
+		</tr>
+		<tr>
+			<td>RANST</td>
+			<td>268.249,14</td>
+			<td>0,2048 %</td>
+		</tr>
+		<tr>
+			<td>RAVELS</td>
+			<td>235.337,14</td>
+			<td>0,1796 %</td>
+		</tr>
+		<tr>
+			<td>RETIE</td>
+			<td>178.863,10</td>
+			<td>0,1365 %</td>
+		</tr>
+		<tr>
+			<td>RIEMST</td>
+			<td>239.652,22</td>
+			<td>0,1829 %</td>
+		</tr>
+		<tr>
+			<td>RIJKEVORSEL</td>
+			<td>186.356,22</td>
+			<td>0,1422 %</td>
+		</tr>
+		<tr>
+			<td>ROESELARE</td>
+			<td>1.970.633,08</td>
+			<td>1,5042 %</td>
+		</tr>
+		<tr>
+			<td>RONSE</td>
+			<td>773.090,05</td>
+			<td>0,5901 %</td>
+		</tr>
+		<tr>
+			<td>ROOSDAAL</td>
+			<td>188.798,45</td>
+			<td>0,1441 %</td>
+		</tr>
+		<tr>
+			<td>ROTSELAAR</td>
+			<td>242.443,92</td>
+			<td>0,1851 %</td>
+		</tr>
+		<tr>
+			<td>RUISELEDE</td>
+			<td>53.624,15</td>
+			<td>0,0409 %</td>
+		</tr>
+		<tr>
+			<td>RUMST</td>
+			<td>225.399,22</td>
+			<td>0,1720 %</td>
+		</tr>
+		<tr>
+			<td>SCHELLE</td>
+			<td>136.615,28</td>
+			<td>0,1043 %</td>
+		</tr>
+		<tr>
+			<td>SCHERPENHEUVEL-ZICHEM</td>
+			<td>320.384,12</td>
+			<td>0,2445 %</td>
+		</tr>
+		<tr>
+			<td>SCHILDE</td>
+			<td>289.661,97</td>
+			<td>0,2211 %</td>
+		</tr>
+		<tr>
+			<td>SCHOTEN</td>
+			<td>625.232,97</td>
+			<td>0,4772 %</td>
+		</tr>
+		<tr>
+			<td>SINT-AMANDS</td>
+			<td>122.521,09</td>
+			<td>0,0935 %</td>
+		</tr>
+		<tr>
+			<td>SINT-GENESIUS-RODE</td>
+			<td>204.255,84</td>
+			<td>0,1559 %</td>
+		</tr>
+		<tr>
+			<td>SINT-GILLIS-WAAS</td>
+			<td>273.585,86</td>
+			<td>0,2088 %</td>
+		</tr>
+		<tr>
+			<td>SINT-KATELIJNE-WAVER</td>
+			<td>339.771,83</td>
+			<td>0,2593 %</td>
+		</tr>
+		<tr>
+			<td>SINT-LAUREINS</td>
+			<td>114.124,85</td>
+			<td>0,0871 %</td>
+		</tr>
+		<tr>
+			<td>SINT-LIEVENS-HOUTEM</td>
+			<td>161.568,75</td>
+			<td>0,1233 %</td>
+		</tr>
+		<tr>
+			<td>SINT-MARTENS-LATEM</td>
+			<td>123.107,63</td>
+			<td>0,0940 %</td>
+		</tr>
+		<tr>
+			<td>SINT-NIKLAAS</td>
+			<td>2.105.713,25</td>
+			<td>1,6073 %</td>
+		</tr>
+		<tr>
+			<td>SINT-PIETERS-LEEUW</td>
+			<td>624.518,29</td>
+			<td>0,4767 %</td>
+		</tr>
+		<tr>
+			<td>SINT-TRUIDEN</td>
+			<td>1.054.660,92</td>
+			<td>0,8050 %</td>
+		</tr>
+		<tr>
+			<td>SPIERE-HELKIJN</td>
+			<td>38.035,49</td>
+			<td>0,0290 %</td>
+		</tr>
+		<tr>
+			<td>STABROEK</td>
+			<td>262.372,74</td>
+			<td>0,2003 %</td>
+		</tr>
+		<tr>
+			<td>STADEN</td>
+			<td>182.342,56</td>
+			<td>0,1392 %</td>
+		</tr>
+		<tr>
+			<td>STEENOKKERZEEL</td>
+			<td>193.144,61</td>
+			<td>0,1474 %</td>
+		</tr>
+		<tr>
+			<td>STEKENE</td>
+			<td>256.410,05</td>
+			<td>0,1957 %</td>
+		</tr>
+		<tr>
+			<td>TEMSE</td>
+			<td>717.595,44</td>
+			<td>0,5477 %</td>
+		</tr>
+		<tr>
+			<td>TERNAT</td>
+			<td>431.797,16</td>
+			<td>0,3296 %</td>
+		</tr>
+		<tr>
+			<td>TERVUREN</td>
+			<td>503.641,06</td>
+			<td>0,3844 %</td>
+		</tr>
+		<tr>
+			<td>TESSENDERLO</td>
+			<td>383.547,33</td>
+			<td>0,2928 %</td>
+		</tr>
+		<tr>
+			<td>TIELT</td>
+			<td>530.237,35</td>
+			<td>0,4047 %</td>
+		</tr>
+		<tr>
+			<td>TIELT-WINGE</td>
+			<td>193.078,97</td>
+			<td>0,1474 %</td>
+		</tr>
+		<tr>
+			<td>TIENEN</td>
+			<td>798.982,53</td>
+			<td>0,6099 %</td>
+		</tr>
+		<tr>
+			<td>TONGEREN</td>
+			<td>714.902,84</td>
+			<td>0,5457 %</td>
+		</tr>
+		<tr>
+			<td>TORHOUT</td>
+			<td>407.871,65</td>
+			<td>0,3113 %</td>
+		</tr>
+		<tr>
+			<td>TREMELO</td>
+			<td>153.037,01</td>
+			<td>0,1168 %</td>
+		</tr>
+		<tr>
+			<td>TURNHOUT</td>
+			<td>1.536.104,41</td>
+			<td>1,1725 %</td>
+		</tr>
+		<tr>
+			<td>VEURNE</td>
+			<td>222.791,34</td>
+			<td>0,1701 %</td>
+		</tr>
+		<tr>
+			<td>VILVOORDE</td>
+			<td>1.045.124,66</td>
+			<td>0,7977 %</td>
+		</tr>
+		<tr>
+			<td>VLETEREN</td>
+			<td>45.819,97</td>
+			<td>0,0350 %</td>
+		</tr>
+		<tr>
+			<td>VOEREN</td>
+			<td>61.260,21</td>
+			<td>0,0468 %</td>
+		</tr>
+		<tr>
+			<td>VORSELAAR</td>
+			<td>147.606,96</td>
+			<td>0,1127 %</td>
+		</tr>
+		<tr>
+			<td>VOSSELAAR</td>
+			<td>175.896,03</td>
+			<td>0,1343 %</td>
+		</tr>
+		<tr>
+			<td>WAARSCHOOT</td>
+			<td>130.348,70</td>
+			<td>0,0995 %</td>
+		</tr>
+		<tr>
+			<td>WAASMUNSTER</td>
+			<td>217.259,42</td>
+			<td>0,1658 %</td>
+		</tr>
+		<tr>
+			<td>WACHTEBEKE</td>
+			<td>117.606,78</td>
+			<td>0,0898 %</td>
+		</tr>
+		<tr>
+			<td>WAREGEM</td>
+			<td>871.888,82</td>
+			<td>0,6655 %</td>
+		</tr>
+		<tr>
+			<td>WELLEN</td>
+			<td>83.274,15</td>
+			<td>0,0636 %</td>
+		</tr>
+		<tr>
+			<td>WEMMEL</td>
+			<td>305.117,81</td>
+			<td>0,2329 %</td>
+		</tr>
+		<tr>
+			<td>WERVIK</td>
+			<td>327.384,70</td>
+			<td>0,2499 %</td>
+		</tr>
+		<tr>
+			<td>WESTERLO</td>
+			<td>394.520,94</td>
+			<td>0,3011 %</td>
+		</tr>
+		<tr>
+			<td>WETTEREN</td>
+			<td>617.106,70</td>
+			<td>0,4710 %</td>
+		</tr>
+		<tr>
+			<td>WEVELGEM</td>
+			<td>625.633,52</td>
+			<td>0,4775 %</td>
+		</tr>
+		<tr>
+			<td>WEZEMBEEK-OPPEM</td>
+			<td>26.369,76</td>
+			<td>0,0201 %</td>
+		</tr>
+		<tr>
+			<td>WICHELEN</td>
+			<td>183.273,41</td>
+			<td>0,1399 %</td>
+		</tr>
+		<tr>
+			<td>WIELSBEKE</td>
+			<td>129.854,42</td>
+			<td>0,0991 %</td>
+		</tr>
+		<tr>
+			<td>WIJNEGEM</td>
+			<td>140.704,18</td>
+			<td>0,1074 %</td>
+		</tr>
+		<tr>
+			<td>WILLEBROEK</td>
+			<td>550.882,89</td>
+			<td>0,4205 %</td>
+		</tr>
+		<tr>
+			<td>WINGENE</td>
+			<td>228.094,87</td>
+			<td>0,1741 %</td>
+		</tr>
+		<tr>
+			<td>WOMMELGEM</td>
+			<td>131.485,51</td>
+			<td>0,1004 %</td>
+		</tr>
+		<tr>
+			<td>WORTEGEM-PETEGEM</td>
+			<td>80.224,98</td>
+			<td>0,0612 %</td>
+		</tr>
+		<tr>
+			<td>WUUSTWEZEL</td>
+			<td>282.908,75</td>
+			<td>0,2159 %</td>
+		</tr>
+		<tr>
+			<td>ZANDHOVEN</td>
+			<td>196.834,78</td>
+			<td>0,1502 %</td>
+		</tr>
+		<tr>
+			<td>ZAVENTEM</td>
+			<td>767.790,23</td>
+			<td>0,5861 %</td>
+		</tr>
+		<tr>
+			<td>ZEDELGEM</td>
+			<td>314.275,53</td>
+			<td>0,2399 %</td>
+		</tr>
+		<tr>
+			<td>ZELE</td>
+			<td>406.614,87</td>
+			<td>0,3104 %</td>
+		</tr>
+		<tr>
+			<td>ZELZATE</td>
+			<td>246.891,69</td>
+			<td>0,1885 %</td>
+		</tr>
+		<tr>
+			<td>ZEMST</td>
+			<td>407.461,78</td>
+			<td>0,3110 %</td>
+		</tr>
+		<tr>
+			<td>ZINGEM</td>
+			<td>118.661,30</td>
+			<td>0,0906 %</td>
+		</tr>
+		<tr>
+			<td>ZOERSEL</td>
+			<td>348.356,18</td>
+			<td>0,2659 %</td>
+		</tr>
+		<tr>
+			<td>ZOMERGEM</td>
+			<td>131.263,52</td>
+			<td>0,1002 %</td>
+		</tr>
+		<tr>
+			<td>ZONHOVEN</td>
+			<td>307.755,25</td>
+			<td>0,2349 %</td>
+		</tr>
+		<tr>
+			<td>ZONNEBEKE</td>
+			<td>198.222,20</td>
+			<td>0,1513 %</td>
+		</tr>
+		<tr>
+			<td>ZOTTEGEM</td>
+			<td>379.916,93</td>
+			<td>0,2900 %</td>
+		</tr>
+		<tr>
+			<td>ZOUTLEEUW</td>
+			<td>126.712,89</td>
+			<td>0,0967 %</td>
+		</tr>
+		<tr>
+			<td>ZUIENKERKE</td>
+			<td>5.014,44</td>
+			<td>0,0038 %</td>
+		</tr>
+		<tr>
+			<td>ZULTE</td>
+			<td>230.258,05</td>
+			<td>0,1758 %</td>
+		</tr>
+		<tr>
+			<td>ZUTENDAAL</td>
+			<td>126.918,53</td>
+			<td>0,0969 %</td>
+		</tr>
+		<tr>
+			<td>ZWALM</td>
+			<td>122.180,16</td>
+			<td>0,0933 %</td>
+		</tr>
+		<tr>
+			<td>ZWEVEGEM</td>
+			<td>376.999,50</td>
+			<td>0,2878 %</td>
+		</tr>
+		<tr>
+			<td>ZWIJNDRECHT</td>
+			<td>343.621,82</td>
+			<td>0,2623 %</td>
+		</tr>
+		<tr>
+			<td>Totaal</td>
+			<td>131.009.724,20</td>
+			<td>100,0000 %</td>
+		</tr>
+	</tbody>
+</table>
