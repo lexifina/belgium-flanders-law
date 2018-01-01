@@ -1080,7 +1080,9 @@ De vervreemding van onroerende goederen kan door de hogere overheden enkel worde
 
 ### ART. 194.
 
-De Vlaamse Regering kan, na advies van het college van burgemeester en schepenen, de openbare centra voor maatschappelijk welzijn machtigen om over te gaan tot onteigeningen ten algemenen nutte. De onteigeningen ten algemenen nutte kunnen verlopen volgens de versnelde procedure, vermeld in de wet van 26 juli 1962 betreffende de onteigeningen ten algemenen nutte, en de concessies voor de bouw van autosnelwegen, voor zover de Vlaamse Regering het bestuur daartoe gemachtigd heeft.<br /><br />Behalve de ambtenaren van de comités tot aankoop van onroerende goederen voor rekening van de staat, is de provinciegouverneur van de provincie waar de zetel van het openbaar centrum voor maatschappelijk welzijn gevestigd is, evenals de burgemeester van de gemeente die door het openbaar centrum voor maatschappelijk welzijn wordt bediend, bevoegd tot het verlijden van de desbetreffende akte.<br /><br />De vervreemding van de onroerende goederen gebeurt steeds openbaar, behoudens indien er een grondige motivering wordt gegeven voor een afwijking daarvan.
+Behalve de ambtenaren van de comités tot aankoop van onroerende goederen voor rekening van de staat, is de provinciegouverneur van de provincie waar de zetel van het openbaar centrum voor maatschappelijk welzijn gevestigd is, evenals de burgemeester van de gemeente die door het openbaar centrum voor maatschappelijk welzijn wordt bediend, bevoegd tot het verlijden van de desbetreffende akte.<br>
+<br>
+De vervreemding van de onroerende goederen gebeurt steeds openbaar, behoudens indien er een grondige motivering wordt gegeven voor een afwijking daarvan.
 
 ### ART. 195.
 
