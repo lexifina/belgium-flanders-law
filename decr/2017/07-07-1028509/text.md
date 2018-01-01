@@ -90,6 +90,16 @@ In artikel 23 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 23
 
 ## HOOFDSTUK 7 Wijzigingen van het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling
 
+### ART 13.
+
+In artikel 20 van het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling, gewijzigd bij het decreet van 19 december 2014, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, worden de woorden "In de SERV" vervangen door de woorden "Door de Vlaamse Regering";<br>
+2° in paragraaf 1, derde lid, wordt de zinsnede ", na het advies van de SERV," opgeheven;<br>
+3° in paragraaf 2, eerste lid, 4°, worden de woorden "een vertegenwoordiger" vervangen door de woorden "twee vertegenwoordigers";<br>
+4° in paragraaf 2, eerste lid, wordt punt 5° opgeheven;<br>
+5° paragraaf 2, tweede lid, wordt vervangen door wat volgt:<br>
+"De voorzitter en zijn plaatsvervanger zijn onafhankelijk ten opzichte van de representatieve werkgevers- en werknemersorganisaties en worden door de Vlaamse Regering benoemd. Bij afwezigheid van de voorzitter neemt zijn plaatsvervanger het voorzitterschap over.".
+
 ## HOOFDSTUK 8 Aanwervingsincentive voor langdurige werkzoekenden
 
 ### ART 14.
