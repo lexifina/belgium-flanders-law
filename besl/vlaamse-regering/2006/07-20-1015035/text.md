@@ -8,13 +8,13 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 januari 1991 betreff
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° ...<BR>2° ...<BR>3° ...<BR>4°   de minister : de Vlaamse minister, belast met het toezicht op het Agentschap   Innoveren en Ondernemen; bevoegd voor het technologisch innovatiebeleid;<BR>5°   de Commissie : de Commissie van de Europese Unie;<BR>6° innovatiestimulering :   een bundeling van activiteiten die tot doel hebben bedrijven, in het bijzonder   K.M.O.'s, bewust te maken van het belang van innovatie, zowel inzake de   technologische als de niet-technologische aspecten, en hen hierbij te   ondersteunen door eerstelijnszorg en verdere doorverwijzing en, in voorkomend   geval, hen te begeleiden bij de aanvraag en de voortgangscontrole van een   dossier voor het verkrijgen van overheidssteun inzake technologische innovatie.   Die activiteiten kunnen ingevuld worden vanuit een thematische, respectievelijk   (sub)regionale invalshoek;<BR>7° technologisch advies : een bundeling van   activiteiten, verankerd in een technologisch centrum, die tot doel hebben   bedrijven bij te staan bij het oplossen van technologische problemen ten behoeve   van product- en procesinnovatie, door eerstelijnsadvies en doorverwijzing naar   andere competente kenniscentra;<BR>8° collectief onderzoek : onderzoek en   studies, uitgevoerd door een onderzoeksinstelling zonder winstoogmerk, gericht   op het verwerven, het bundelen en het vertalen van kennis naar bruikbare   innovatietoepassingen ten behoeve van een ruime collectiviteit van bedrijven. De   resultaten van het onderzoek moeten leiden tot een aantoonbare economische of   sociale en ecologische meerwaarde en moeten worden gevaloriseerd voor een zo   ruim mogelijke groep van bedrijven, gevestigd in de Europese Unie en in het   Vlaams Gewest in het bijzonder. De resultaten van het onderzoek die geen   aanleiding kunnen geven tot intellectuele eigendomsrechten zullen op grote   schaal verspreid worden. De eventuele inkomsten uit eigendomsrechten op de   onderzoeks- en ontwikkelingsresultaten worden geheel aan het   samenwerkingsverband uitgekeerd;<BR>9° Vlaams Innovatiesamenwerkingsverband : de   gestructureerde samenwerking van in hoofdzaak Vlaamse bedrijven, met al dan niet   een of meer organisaties of kennisinstellingen, met het oog op het uitoefenen   van activiteiten van collectief onderzoek, technologisch advies of   innovatiestimulering, die voldoen aan de ontvankelijkheidsvoorwaarden, vermeld   in dit besluit;<BR>10° kleine of middelgrote onderneming : een onderneming waar   minder dan 250 personen werkzaam zijn en waarvan de jaaromzet 50 miljoen EUR of   het jaarlijkse balanstotaal 43 miljoen EUR niet overschrijdt. Deze criteria   worden berekend zoals omschreven in Aanbeveling 2003/361/EG van de Europese   Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en   micro-ondernemingen, met uitzondering van artikel 3, 3., laatste lid, van   bedoelde Aanbeveling;<BR>11° steunpercentage : het percentage van de kosten die   verband houden met het project dat wordt gedekt door de steun;<BR>12°   brutokosten : het geheel van de kosten die verband houden met het project,   vermeld in de bijlage bij dit besluit;<BR>13° marginale kosten : de werkelijke   aanvullende directe kosten van het project, vermeld in de bijlage bij dit   besluit;<BR>14° standaardkosten : de gemiddelde kosten per type medewerker bij   een project, vemeld in de bijlage bij dit besluit;<BR>15° kosten : op basis van   het specifieke geval, de marginale, bruto- of standaardkosten;<BR>16° de   collectieve centra : instellingen die erkend zijn op basis van de besluitwet van   30 januari 1947 tot vaststelling van het statuut van oprichting en werking van   de Centra, belast met de bevordering en de coördinatie van den technischen   vooruitgang van den verschillende takken van 's lands bedrijfsleven, door het   wetenschappelijk onderzoek;<BR>17° projecten : initiatieven van beperkte omvang   die uitgaan van een of meer innovatiesamenwerkingsverbanden, gericht op een   specifieke doelgroep (projectgebaseerde aanpak);<BR>18° programma : initiatieven   van een voldoende kritische omvang, die uitgaan van een of meer   innovatiesamenwerkingsverbanden waarin verschillende steunbare activiteiten   worden gebundeld tot een coherent, efficiënt en effectief geheel van acties of   projecten (bedrijfsplanmatige aanpak);<BR>19° sociaaleconomische effecten   (positieve externaliteiten) : de sociaaleconomische en ecologische baten die het   gevolg zijn van de uitvoering van een project en die de rechtstreekse voordelen   voor de bedrijven in kwestie overstijgen;<BR>20° stimulerend karakter van steun   (additionaliteit) : de positieve invloed van steunverlening op de   totstandkoming, de omvang en de kwaliteit van het project.<BR>21°   beslissingscomité bij het Hermesfonds: het beslissingscomité, vermeld in artikel   41ter van het decreet van 21 december 2001 houdende bepalingen tot begeleiding   van de begroting 2002.<BR><BR>
+...
 
 ## HOOFDSTUK II Steun ter bevordering van het collectief onderzoek, het technologische advies en de innovatiestimulering
 
 ### ART. 2.
 
-Binnen de perken van de begrotingskredieten wordt steun door het   Agentschap Innoveren en Ondernemen verleend voor innovatiestimulering,   technologisch advies en voor collectief onderzoek op basis van de bepalingen,   vermeld in dit besluit.<BR><BR>
+...
 
 ## HOOFDSTUK III Maximaal steunpercentage en cumulatie met andere steun
 
@@ -22,140 +22,112 @@ Binnen de perken van de begrotingskredieten wordt steun door het   Agentschap In
 
 ### ART. 3.
 
-De steun voor activiteiten van innovatiestimulering, technologisch advies of collectief onderzoek bedraagt ten hoogste 80 % van de kosten die, overeenkomstig de bijlage bij dit besluit, voor een steunbaar project aanvaard kunnen worden. Dat steunpercentage is zowel geldig in de projectmatige benadering als in de programma's, vermeld in artikel 1, 18°.<br>
-&nbsp;
+...
 
 ### ART. 4.
 
-Als de activiteiten verbonden zijn aan een opdracht van publiek belang, dan kan het steunpercentage voor activiteiten van innovatiestimulering worden verhoogd met maximaal 20 %.<br /><br />
+...
 
 ## Afdeling II Cumulatie met andere steun
 
 ### ART. 5.
 
-§ 1. De toekenning van steun voor kosten die reeds gedekt zijn door een andere vorm van steun van de Vlaamse overheid is alleen mogelijk voor zover de maximale steunpercentages, vermeld in artikelen 3 en 4, niet worden overschreden.<br /><br />§ 2. Als een project of een programma financieel wordt gesteund door een publiekrechtelijke persoon die niet ressorteert onder de Vlaamse overheid, zal voor de steun, die berekend is volgens het maximale steunpercentage, vermeld in artikelen 3 en 4, de financiële steun in mindering worden gebracht.<br /><br />Die regeling geldt eveneens voor de projecten die gesteund worden binnen het samenwerkingsakkoord betreffende de financiering van de collectieve centra, of voor andere projecten die gezamenlijk gefinancierd worden met de andere gewesten of de andere overheden.<br /><br />
+...
 
 ### ART. 5bis.
 
-De onrechtstreekse steun aan de beneficianten van de diensten als gevolg van de uitvoering van de binnen dit besluit gesteunde projecten dient per beneficiant beperkt te blijven conform de Europese regels inzake de-minimissteun.
+...
 
 ## HOOFDSTUK IV Procedure voor de behandeling van de aanvragen
 
 ### ART. 6.
 
-§ 1. De aanvragen van Vlaamse Innovatiesamenwerkingsverbanden of van de door dit besluit gelijkgestelde samenwerkingsverbanden moeten worden geformuleerd overeenkomstig de algemene regeling die het beslissingscomité bij het Hermesfonds vaststelt voor elk van de projecttypes of programma's. Het beslissingscomité bij het Hermesfonds kan voorzien in een of meer uiterste indieningsdata in de loop van een werkjaar voor specifieke projecttypes, met het oog op een gegroepeerde beslissing.<br>
-<br>
-Voor elke aanvraag wordt binnen veertien werkdagen na de indiening ervan, een ontvangstmelding bezorgd aan de aanvrager, met een verzoek om verdere informatie als het dossier niet formeel beantwoordt aan de indieningsinstructies van de algemene regeling die vastgesteld is door het beslissingscomité bij het Hermesfonds.<br>
-<br>
-§ 2. Het&nbsp;beslissingscomité bij het Hermesfonds beoordeelt de ontvankelijkheid van de aanvraag van projecten met het oog op de behandeling ten gronde op basis van de formele indieningsvoorwaarden en instructies, vemeld in § 1.<br>
-<br>
-Het beslissingscomité bij het Hermesfonds&nbsp;beoordeelt de ontvankelijkheid van voorstellen van programma's, met het oog op de behandeling ten gronde conform de criteria, vermeld in artikel 9, § 1 en § 4.<br>
-<br>
-§ 3. De aanvragen van projecten die niet ontvankelijk werden verklaard, kunnen door het&nbsp; beslissingscomité bij het Hermesfonds&nbsp;administratief worden afgesloten, als de aanvrager binnen 25 werkdagen na het eerste verzoek van het Agentschap Innoveren en Ondernemen om zijn dossier te vervolledigen niet voldoet aan de formele vereisten van de aanvraag.<br>
-<br>
-De beslissing van het beslissingscomité bij het Hermesfonds wordt samen met de motivering meegedeeld aan de aanvrager.<br>
-<br>
-De aanvraag van een programma dat niet ontvankelijk werd verklaard, kan door het beslissingscomité bij het Hermesfonds administratief worden afgesloten, als de aanvrager binnen 25 werkdagen na het eerste verzoek van het Agentschap Innoveren en Ondernemen om zijn dossier te vervolledigen niet voldoet aan de formele vereisten van de aanvraag.<br>
-<br>
-De beslissing van het beslissingscomité bij het Hermesfonds wordt samen met de motivering meegedeeld aan de aanvrager.<br>
-<br>
-§ 4. Als aanvragen die, binnen veertien werkdagen na een vastgelegde uiterste indieningsdatum die er betrekking op heeft, ontvankelijk worden verklaard, moeten een evaluatieprocedure doorlopen van maximaal 75 werkdagen tot de uiteindelijke beslissing door het beslissingscomité bij het Hermesfonds, te rekenen vanaf de vastgelegde uiterste indieningsdatum.<br>
-<br>
-§ 5. Als de aanvrager tijdens de evaluatieprocedure de aanvullende informatie die gevraagd is niet tijdig levert, kan het beslissingscomité bij het Hermesfonds een beslissing nemen binnen de voorgeschreven termijn op basis van de beschikbare elementen van het dossier, tenzij de aanvrager schriftelijk en gemotiveerd verzoekt om de beslissing uit te stellen. Een volgende uiterste indieningsdatum is dan op die aanvraag van toepassing, of bij onstentenis een latere zitting van het beslissingscomité bij het Hermesfonds.<br>
-<br>
-§ 6. De aanvrager van wie het projectvoorstel bij een gegroepeerde beslissing geen steun werd gegund, kan zijn projectvoorstel opnieuw indienen. In dat geval is de eerstvolgende uiterste indieningsdatum van toepassing. Bij voorkeur zal de aanvrager zijn projectvoorstel (eventueel) verbeteren door rekening te houden met de elementen van de eerste evaluatie.<br>
-&nbsp;
+...
 
 ### ART. 7.
 
-Het beslissingscomité bij het Hermesfonds kan voor elk projectvoorstel of elke groep van projectvoorstellen externe deskundigen aanwijzen die zullen adviseren over de aspecten die de algemene regeling van het beslissingscomité bij het Hermesfonds bepaalt conform artikel 6, § 1.
+...
 
 ### ART. 8.
 
-Het beslissingscomité bij het Hermesfonds beslist op basis van het   dossier, dat in voorkomend geval het advies van het college van deskundigen   bevat, en bepaalt de omvang en de aard van de steun alsmede de bijzondere   voorwaarden en de bepalingen ervan.<BR><BR>
+...
 
 ## HOOFDSTUK V Algemene ontvankelijkheidscriteria ten aanzien van de indieners van projecten of programma's
 
 ### ART. 9.
 
-§ 1. Projecten of programma's kunnen door Vlaamse   Innovatiesamenwerkingsverbanden ingediend worden als ze beantwoorden aan de   volgende criteria :<BR>1° het samenwerkingsverband is een groepering van   bedrijven met al dan niet andere organisaties of instellingen, en is   representatief voor de welomschreven doelgroep van bedrijven;<BR>2° de   toetredingsvoorwaarden tot het samenwerkingsverband zijn gebaseerd op duidelijke   en objectieve criteria, hetgeen moet toelaten het open karakter van het   samenwerkingsverband te waarborgen;<BR>3° de beheersorganen van het   samenwerkingsverband zijn representatief voor de samenstelling ervan;<BR>4° het   samenwerkingsverband laat een of meer waarnemers, aangewezen door het Agentschap   Innoveren en Ondernemen tot alle vergaderingen van de beheersorganen toe;<BR>5°   het samenwerkingsverband beschikt over rechtspersoonlijkheid;<BR>6° het   samenwerkingsverband maakt een jaarlijks activiteitenverslag en een beleidsplan   op;<BR>7° in die mate dat voor de uitvoering van het project of programma   voorzien wordt in de oprichting van een afzonderlijke juridische structuur,   anders dan het samenwerkingsverband zelf, moet die structuur eveneens voldoen   aan de criteria, vermeld in punt 1° tot en met 6°.<BR><BR>§ 2. De volgende   organisaties en instellingen kunnen eveneens projecten of programma's indienen   in het kader van dit besluit :<BR>1° de collectieve centra en de zogenaamde   gelijkgestelde centra : het Belgisch Lasinstituut BIL, het Coatings Research   Instituut CORI en het Centrum voor Research in de Metallurgie CRM;<BR>2° andere   instellingen die door de Vlaamse Regering aanvaard zijn voor de gehele of   gedeeltelijke toepassing van dit besluit.<BR><BR>§ 3. De voormelde indieners   kunnen alleen of in onderlinge samenwerking projecten of programma's indienen en   kunnen een beroep doen op derde kenniscentra voor de uitvoering ervan.<BR><BR>§   4. De initiatieven die worden ingediend als een programma moeten bovendien   voldoen aan de volgende ontvankelijksheidcriteria :<BR>1° de resultaten van een   voorafgaande innovatieverkenning worden voorgelegd, en er wordt voortgebouwd op   beschikbare competenties;<BR>2° het programma heeft een voldoende kritieke   omvang zodat het de reguliere projectvormen overstijgt, door de omvang en door   het bundelende karakter van de activiteiten;<BR>3° een draagvlak van bedrijven,   overeenkomstig de omvang van het programma, ondersteunt het initiatief door   onder andere schriftelijke engagementsverklaringen of financiële   participaties;<BR>4° de meerwaarde van de steun of steunverlening als programma   wordt aangetoond ten aanzien van :<BR>a) bestaande initiatieven;<BR>b)   projectsteun in de reguliere steunkanalen van het Agentschap Innoveren en   Ondernemen, inclusief de projectsteun in het reglementaire   kader.<BR><BR>
+...
 
 ## HOOFDSTUK VI Beslissingsvoorwaarden en -criteria voor projecten of programma
 
 ### ART. 10.
 
-Het beslissingscomité bij het Hermesfonds kan een negatieve beslissing   nemen of aanvullende voorwaarden stellen op basis van de volgende elementen   :<BR>1° bij onvoldoende financiële draagkracht van de aanvrager of eventuele   partners in het project ten behoeve van de uitvoering of het welslagen   ervan;<BR>2° als de aanvrager of partners in het project niet voldoen aan   overige verplichtingen of vergunningen vanwege de overheid;<BR>3° als de   aanvrager of partners in het project blijk hebben gegeven van niet-correct   gedrag naar aanleiding van vorige aanvragen, onder meer inzake   informatieverstrekking, inhoudelijke en financiële verplichtingen of   verslaggeving.<BR><BR>
+...
 
 ### ART. 11.
 
-§ 1. Het beslissingscomité bij het Hermesfonds zal bij zijn beslissing om   aan een project of programma al dan niet steun te verlenen, steunen op de   volgende beoordelingsdimensies :<BR>1° het innovatiepotentieel van het project   of programma, inzonderheid inzake :<BR>a) de omvang van het beoogde   bedrijfsbereik, vatbaar voor de valorisatie van de resultaten van het project-   of programmavoorstel, inzonderheid bij kmo's (bereik);<BR>b) de omvang en de   kwaliteit van de beoogde diensten of onderzoeksresultaten, alsmede de bijdrage   aan competentieverhoging (output);<BR>c) het economische belang van de   potentieel geïnitieerde innovaties bij de valorisatie van de resultaten van het   project- of programmavoorstel in relatie tot de gevraagde steun (Value for   Money) (outcome);<BR>d) de complementariteit van de ontplooide steunbare   activiteiten met de overige activiteiten van het initiatief (synergie);<BR>e) de   resultaten van de projecten of programma's van het Innovatiesamenwerkingsverband   die voorafgaandelijk gesteund zijn, als dat van toepassing is;<BR>2° de   kwaliteit van het project of programma, inzonderheid inzake :<BR>a) de omvang en   de duidelijkheid van het innovatiedoel en de inhoudelijke formulering van het   initiatief;<BR>b) de relevantie van het werkplan en van de haalbaarheid ervan   binnen het bepaalde tijdsbestek en budget;<BR>c) de competenties en de expertise   van de uitvoerders voor het welslagen van het project of programma en de   kwaliteit van de samenwerking tussen de betrokken uitvoerders, als dat van   toepassing is;<BR>d) de omvang en de kwaliteit van de betrokkenheid van de   ondernemingen in het project of programma, en de kwaliteit van de verankering   ervan;<BR>e) het voorziene monitoring- en effectvoortgangscontrolesysteem, zowel   op inhoudelijk als financieel vlak;<BR>3° ten aanzien van een programma gelden   bovendien de volgende aanvullende kwaliteitscritteria :<BR>a) de kwaliteit van   de organisatiestructuur met het oog op het efficiënt en effectief bundelen van   competenties binnen het programma;<BR>b) de formulering van de statuten van het   samenwerkingsverband, met in het bijzonder de open toetredingsvoorwaarden;<BR>c)   de principes van deugdelijke bestuur, door een adequate en efficiënte leiding en   aansturing van de organisatie;<BR>d) de gemaakte IP-afspraken inzake bescherming   en exploitatie van intellectuele eigendom (bescherming en deling van   kennis);<BR>4° de sociaaleconomische effecten en het stimulerende karakter van   steun, inzonderheid inzake :<BR>a) de bijdrage aan duurzame ontwikkeling;<BR>b)   de bijdrage aan overige beleidsdoelstellingen, in het bijzonder die welke   opgenomen zijn in de beheersovereenkomst;<BR>c) het domeinoverschrijdende   karakter van het project;<BR>d) het interregionale of internationale karakter   van het project.<BR><BR>Op basis van die laatste criteria kan bij gelijkwaardige   initiatieven een prioriteitskeuze worden gemaakt, rekening houden met de   budgettaire beperkingen.<BR><BR>§ 2. Het beslissingscomité bij het Hermesfonds   kan zijn beslissing tot verlening van steun bovendien nemen op basis van de   volgende overwegingen :<BR>1° de complementariteit van de projecten   onderling;<BR>2° de spreiding van de projecten over sector- of   technologiedomeinen.<BR><BR>§ 3. Het beslissingscomité bij het Hermesfonds kan   zijn steunverlening beperken tot een deel van het project of programma en kan   specifieke voorwaarden definiëren.<BR><BR>
+...
 
 ### ART. 12.
 
-Het beslissingscomité bij het Hermesfonds zal jaarlijks over de uitvoering van dit besluit omstandig verantwoording afleggen aan de minister met betrekking tot de toekenning van steun en overwegingen die tot die beslissing hebben geleid.<br>
-<br>
-De projecten of programma's hebben een maximale duur van twee keer twee jaar, op voorwaarde dat er een positieve tussentijdse evaluatie is na twee jaar. Projecten kunnen verlengd worden mits ze in een nieuwe oproep ingediend worden. Programma's kunnen worden verlengd, in die mate dat ze voldoen aan de ontvankelijkheidscriteria, vermeld in artikel 9, § 4, inzonderheid als de steun een meerwaarde betekent voor het programma ten opzichte van projectfinanciering.<br>
-<br>
-De aanvaardbare kosten voor de ondersteuning van projecten worden uitgedrukt als marginale of vergelijkbare standaardkosten. De aanvaardbare kosten voor programma's worden uitgedrukt als brutokosten of vergelijkbare standaardkosten, conform de algemene regeling, vermeld in artikel 6, § 1, vastgelegd door het beslissingscomité bij het Hermesfonds. De betreffende aanvaardbare kosten worden nader gespecificeerd in de bijlage bij dit besluit.&nbsp;Het beslissingscomité bij het Hermesfonds kan niet-gespecificeerde kosten aanvaarden op voorwaarde dat ze opgenomen worden in de algemene regeling, vermeld in artikel 6, § 1.<br>
-&nbsp;
+...
 
 ## HOOFDSTUK VII Verzoek tot herziening
 
 ### ART. 13.
 
-Na de beslissing van het beslissingscomité bij het Hermesfonds wordt aan   de aanvrager een afschrift betekend van de gemotiveerde beslissing van het   beslissingscomité bij het Hermesfonds.<BR><BR>Ingeval de beslissing negatief is,   wordt uitdrukkelijk verwezen naar het recht van de aanvrager om, overeenkomstig   , een herziening van de beslissing te vragen   of, overeenkomstig , het project of   programma opnieuw in te dienen.<BR><BR>
+...
 
 ### ART. 14.
 
-§ 1. De aanvrager kan de herziening vragen van de beslissing van&nbsp; het   beslissingscomité bij het Hermesfonds tot weigering van steun, zonder evenwel de   opportuniteit van de beslissing in vraag te kunnen stellen.<BR><BR>De herziening   wordt, op straffe van verval, gevraagd per aangetekende brief binnen een termijn   van dertig werkdagen na de afgifte op de post van de betekening van de   beslissing.<BR><BR>§ 2. Het verzoekschrift tot herziening bevat, op straffe van   onontvankelijkheid, een opgave van de objectief apprecieerbare elementen van het   dossier dat aan het beslissingscomité bij het Hermesfonds ter beslissing werd   voorgelegd, waarvan de aanvrager beweert dat de incorrecte appreciatie kennelijk   bepalend is geweest voor het nemen van de bestreden beslissing, alsmede de   argumenten ter weerlegging van de vermelde appreciatie. De aanvrager beschikt   daartoe over het recht van inzage in het dossier, zoals het ter beslissing is   voorgelegd aan het beslissingscomité bij het Hermesfonds.<BR><BR>§ 3. Als de   beslissing van het beslissingscomité bij het Hermesfonds steunt op een negatief   advies van het college van deskundigen, kan de aanvrager de samenstelling van   een nieuw college van deskundigen vragen. Het beslissingscomité bij het   Hermesfonds oordeelt of dat redelijk is. Het college kan zijn advies beperken   tot de beoordeling van de argumenten die door de aanvrager aangevoerd zijn,   zoals weergegeven in zijn verzoekschrift.<BR><BR>§ 4. Het beslissingscomité bij   het Hermesfonds beslist binnen dertig werkdagen na de ontvangst van het   verzoekschrift tot herziening. Als het beslissingscomité bij het Hermesfonds   beslist om een nieuw college van deskundigen samen te stellen, wordt die termijn   met dertig dagen verlengd.<BR><BR>§ 5. Als de herziening wordt verworpen,   motiveert&nbsp;het beslissingscomité bij het Hermesfonds zijn beslissing onder   verwijzing naar de argumenten, aangebracht door de aanvrager.<BR><BR>Als de   herziening wordt aanvaard, bepaalt het beslissingscomité bij het Hermesfonds de   te volgen procedure en neemt hij een definitieve beslissing over het dossier   binnen vijfenveertig werkdagen na de beslissing tot herziening. De beslissing   van&nbsp;het beslissingscomité bij het Hermesfonds wordt binnen vijf werkdagen   per aangetekende brief betekend aan de aanvrager.
+...
 
 ### ART. 15.
 
-De voorwaarden en bepalingen die de raad van bestuur heeft vastgelegd voor   de steun worden opgenomen in een overeenkomst die het Agentschap Innoveren en   Ondernemen sluit met de aanvrager. Het betreft een typeovereenkomst, goedgekeurd   door het beslissingscomité bij het Hermesfonds.<BR>
+...
 
 ## HOOFDSTUK VIII Aanwending van de steun en toezicht
 
 ### ART. 16.
 
-§ 1. Het Agentschap Innoveren en Ondernemen wordt belast met het toezicht   op de aanwending door de begunstigden van de steun die bij de toepassing van dit   besluit worden toegekend en met de algemene coördinatie van de acties van de   begunstigden.<BR><BR>§ 2. Het Agentschap Innoveren en Ondernemen zal de   inhoudelijke voortgangscontrole van de projecten of programma's waarnemen,   ondermeer door de begunstigden te laten rapporteren over een reeks   performantie-indicatoren.<BR><BR>§ 3. De Vlaamse Innovatiesamenwerkingsverbanden   of de door dit besluit gelijkgestelde samenwerkingsverbanden verbinden zich   ertoe de kosten en financiering van de door hen eventueel uitgeoefende   economische activiteiten duidelijk te onderscheiden van de in het kader van dit   besluit gesteunde activiteiten.
+...
 
 ### ART. 17.
 
-De begunstigde van steun levert schriftelijk verslag aan het Agentschap   Innoveren en Ondernemen betreffende de vordering van het project en/of programma   en de aanwending van de steun telkens als het Agentschap Innoveren en Ondernemen   daarom verzoekt, conform algemeen geldende rapporteringsmodellen. Hij brengt na   de afloop van het project en/of programma een eindverslag uit over het verloop   en de resultaten van het project en/of programma en verleent zijn medewerking   aan de evaluaties ervan.<BR><BR>
+...
 
 ### ART. 18.
 
-De begunstigde die de voorwaarden niet naleeft waaronder de steun werd   toegekend, wordt bij beslissing van&nbsp;het beslissingscomité bij het   Hermesfonds in gebreke gesteld. Vanaf de ingebrekestelling wordt elke verdere   uitbetaling van steun aan de begunstigde geschorst.<BR><BR>De vordering van   terugbetaling van de oneigenlijk aangewende steun wordt ingeleid door het   beslissingscomité bij het Hermesfonds.<BR>
+...
 
 ### ART. 19.
 
-De begunstigde kan in beroep gaan tegen de beslissingen van het beslissingscomité bij het Hermesfonds inzake de ingebrekestelling of vordering tot terugbetaling, vermeld in artikel 18. Dit beroep moet aangetekend bezorgd worden binnen een termijn van dertig werkdagen na de betekening van de beslissing. Het beroep moet door het Agentschap Innoveren en Ondernemen behandeld worden binnen een termijn van dertig werkdagen, waarna het beslissingscomité bij het Hermesfonds een nieuwe beslissing kan bepalen.<br>
-&nbsp;
+...
 
 ### ART. 20.
 
-De personeelsleden van het Agentschap Innoveren en Ondernemen, de leden   van het beslissingscomité bij het Hermesfonds, de leden van het college van   deskundigen, alsmede alle andere personen die ambtshalve kennis krijgen van een   dossier zoals vermeld in dit besluit, zullen de gegevens in kwestie als strikt   vertrouwelijk behandelen, ze niet meedelen aan derden, noch ze voor hun eigen   voordeel aanwenden.<BR><BR>
+...
 
 ## HOOFDSTUK IX Slotbepalingen
 
 ### ART. 21.
 
-Het besluit van de Vlaamse Regering van 24 mei 2002 tot regeling van de steun aan projecten van innovatiestimulering, technologisch advies en collectief onderzoek op verzoek van Vlaamse innovatiesamenwerkingsverbanden, wordt opgegeven.<br /><br />
+...
 
 ### ART. 22.
 
-Dit besluit treedt in werking op 1 juli 2006 en houdt op van kracht te   zijn op 31 december 2017.<BR><BR>
+...
 
 ### ART. 22bis.
 
-In afwijking op artikel 22 van dit besluit zullen de bepalingen van dit   besluit ook na de in artikel 22 van dit besluit genoemde datum van toepassing   zijn op steun die vóór het verstrijken van de geldigheidsduur van dit besluit   wordt toegekend doch waarvan de contractuele voorwaarden zoals bedoeld in   artikel 15 van dit besluit een geldingsduur hebben die langer loopt dan de in   artikel 22 van dit besluit genoemde datum.
+Op de steunaanvragen die worden ingediend vóór 1 januari 2018 blijft dit besluit van toepassing, zoals van kracht vóór 1 januari 2018.
 
 ### ART. 23.
 
-De Vlaamse minister, bevoegd voor het Technologisch Innovatiebeleid, is belast met de uitvoering van dit besluit.<br /><br />
+...
 
 ## Bijlage
 
 ### Tekst
 
-De volgende kosten worden in aanmerking genomen,<BR>1. Brutokosten (voor   programma's)<BR>1° De personeelskosten betreffen de brutosalarissen of -lonen   voor onderzoekers, adviseurs, technici en personeel dat rechtstreeks werk   verricht ten behoeve van het programma, met inbegrip van de verplichte   werknemers- en werkgeversbijdragen en extralegale voordelen voor zover die niet   afwijken van de normale praktijk van de contractant, maar exclusief alle   winstafhankelijke uitkeringen.<BR>2° De werkings- en investeringskosten   betreffen de kosten die rechtstreeks uit de onderzoeks- of   dienstverleningsactiviteiten voortvloeien voor :<BR>a) verbruikte materialen en   hulpmiddelen;<BR>b) kosten, verschuldigd aan derden voor advies en soortgelijke   diensten, die uitsluitend voor onderzoek of dienstverlening worden   gebruikt;<BR>c) reis- en verblijfkosten, alsmede kosten voor deelneming aan   wetenschappelijke symposia en kosten voor de coördinatie van   samenwerkingsverbanden;<BR>d) investeringskosten voor aangeschafte of   gefabriceerde machines, apparatuur, land en gebouwen die :<BR>1) een verwachte   levensduur hebben van ten minste de duur van de werkzaamheden;<BR>2) op de   inventaris van duurzaam materiaal worden geplaatst;<BR>3) volgens de   boekhoudkundige conventies en regels als kapitaalkosten worden geboekt. BTW   wordt in aanmerking genomen voor de initiatieven die BTW niet of slechts   gedeeltelijk kunnen verrekenen.<BR>3° Indirecte kosten betreffen de algemene   kosten die rechtstreeks uit de onderzoeksactiviteiten of   dienstverleningsactiviteiten voortvloeien, maar niet direct toewijsbaar   zijn.<BR>De indirecte kosten kunnen posten omvatten als administratie, beheer,   afschrijvingen van gebouwen en algemene uitrusting, accommodatie, onderhoud,   telefoon, verwarming, verlichting, elektriciteit, post, kantoorartikelen,   personeelsopleidingen en verzekeringen.<BR>De indirecte kosten worden berekend   in overeenstemming met de normale boekhoudkundige regels, principes en   conventies van de betrokken contractant.<BR><BR>2. Marginale kosten   (project)<BR>De marginale kosten zijn de werkelijke, aanvullende directe kosten   van het project die niet gedekt zijn door andere financiële bronnen (subsidies   of andere vormen van financiële steun) of door derden. Ze omvatten de volgende   kosten :<BR>1° De personeelskosten betreffen de directe brutosalarissen of   -lonen voor onderzoekers, adviseurs, technici en ondersteunend personeel dat   rechtstreeks werk verricht ten behoeve van het project, met inbegrip van de   verplichte werknemers- en werkgeversbijdragen en extralegale voordelen voorzover   die niet afwijken van de normale praktijk van de contractant, maar exclusief   alle winstafhankelijke uitkeringen.<BR>2° De directe werkings- en   investeringskosten betreffen de kosten die rechtstreeks uit de onderzoeks- of   dienstverleningsactiviteiten voortvloeien voor :<BR>a) verbruikte materialen en   hulpmiddelen;<BR>b) kosten, verschuldigd aan derden voor advies en soortgelijke   diensten die uitsluitend voor onderzoek of dienstverlening worden   gebruikt;<BR>c) reis- en verblijfkosten, alsmede kosten voor deelneming aan   wetenschappelijke symposia en kosten voor de coördinatie van   samenwerkingsverbanden;<BR>d) investeringskosten voor aangeschafte of   gefabriceerde machines, apparatuur, land en gebouwen die :<BR>1) een verwachte   levensduur hebben van tenminste de duur van de werkzaamheden;<BR>2) op de   inventaris van duurzaam materiaal worden geplaatst;<BR>3) volgens de   boekhoudkundige conventies en regels als kapitaalkosten worden geboekt. Btw   wordt in aanmerking genomen voor de initiatieven die BTW niet kunnen   verrekenen.<BR>De indirecte kosten worden berekend als een vaste bijdrage van   maximaal 50 % van de totale marginale kosten die in aanmerking komen.<BR>Het   beslissingscomité bij het Hermesfonds kan voor de bepaling van het percentage   van de indirecte kosten rekening houden met structurele financiering van de   aanvrager die afkomstig is uit overige overheidsfinanciering of uit verplichte   bedrijfsbijdragen op basis van de wet De Groote.<BR>Het beslissingscomité bij   het Hermesfonds kan voorzien in extra coördinatiekosten om de samenwerking van   de verschillende projecten te bevorderen.<BR><BR>3. Standaardkosten<BR>Het   beslissingscomité bij het Hermesfonds kan de totaal aanvaarde kosten uitdrukken   in standaardkosten, namelijk de gemiddelde kosten per type onderzoeker of   adviseur bij een project of programma. De samenstellende onderdelen van de   standaardkosten, namelijk de personeelskosten, de directe werkingskosten, de   indirecte kosten en eventueel de investeringskosten moeten door het   beslissingscomité bij het Hermesfonds worden vastgesteld op basis van reële   indicatoren en moeten een redelijke weergave zijn van de gemiddelde kosten die   bij dergelijke projecten kunnen worden verwacht.<BR><BR>
+...
