@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028812,
+  "title": "Besluit van de Vlaamse Regering van 2017-11-10 tot wijziging van het besluit van de Vlaamse Regering van 20 juli 2006 tot regeling van de steun aan projecten van innovatiestimulering, technologisch advies en collectief onderzoek op verzoek van Vlaamse Innovatiesamenwerkingsverbanden, wat betreft de aanpassing van de overgangsbepaling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028812/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "11c228fa79f523844c04a3a12be1364e55e4bf3dbc4452bb915180841c71f99a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028812&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-11-10",
+  "gazette": "2017-12-14",
+  "numac": 2017031684,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
