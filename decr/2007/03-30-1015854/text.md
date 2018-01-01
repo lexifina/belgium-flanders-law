@@ -128,11 +128,7 @@ Voor een overdracht van projectgronden die kadert in een Brownfieldconvenant, ka
 <br>
 De Vlaamse Regering kan andere rechtspersonen, die bevoegd zijn om onroerende goederen ten algemenen nutte te onteigenen, machtigen tot onteigening in de gevallen waarin zij oordeelt dat de onroerende goederen vereist zijn voor de realisatie van een Brownfieldproject dat het voorwerp uitmaakt van een Brownfieldconvenant.<br>
 <br>
-§ 2. Het bij het onteigeningsbesluit gevoegde onteigeningsplan bevat naast de identiteit van de onteigenaar ook de omtrek van de te onteigenen goederen, met kadastrale vermelding van de sectie, de nummers, de grootte, de aard van de percelen en de namen van de eigenaars.<br>
-<br>
-Het ontwerp van onteigeningsplan wordt op kosten van de onteigenaar onderworpen aan een vijftiendaags openbaar onderzoek. Vóór de aanvang van dit onderzoek brengt de onteigenaar de eigenaars van de te onteigenen goederen op het adres van hun woonplaats ervan op de hoogte dat het ontwerpplan ter inzage ligt in het gemeentehuis.<br>
-<br>
-Het onteigeningsbesluit dient uiterlijk 5 jaar na het sluiten van het brownfieldconvenant of, indien het projectgebied wordt uitgebreid via een addendum bij het brownfieldconvenant, uiterlijk 5 jaar na het sluiten van voormeld addendum, te worden goedgekeurd.<br>
+§ 2. Het definitieve onteigeningsbesluit dient uiterlijk 5 jaar na het sluiten van het brownfieldconvenant of, indien het projectgebied wordt uitgebreid via een addendum bij het brownfieldconvenant, uiterlijk 5 jaar na het sluiten van voormeld addendum, te worden goedgekeurd.<br>
 <br>
 § 3. Voor de uitvoering van een goedgekeurd onteigeningsplan kan de onteigenaar zich in rechte laten vertegenwoordigen door de afdeling Vastgoedtransacties bij de Vlaamse Belastingdienst conform de artikelen 3 tot en met 5 van het decreet van 19 december 2014 houdende de Vlaamse Vastgoedcodex.<br>
 <br>
