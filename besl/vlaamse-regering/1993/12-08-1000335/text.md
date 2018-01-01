@@ -4,7 +4,13 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op : <br />1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br />2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;<br />3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br />4° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken;<br />5° de werkgevers van de personeelsleden vermeld in punt 1° tot en met 4° van dit artikel.
+Dit besluit is van toepassing op :<br>
+1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;<br>
+3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
+4° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken;<br>
+5° de personeelsleden van de Centra voor Basiseducatie, vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie;<br>
+6° de werkgevers van de personeelsleden vermeld in punt 1° tot en met 5°.
 
 ### ART. 2.
 
@@ -152,7 +158,7 @@ Bij een ongeval buiten dienstverband kan het controleorgaan door het   departeme
 
 ### ART. 21.
 
-Onverminderd de toepassing van artikel 86 van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs of van artikel 60 van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde psycho-medische-sociale centra en onverminderd een eventuele tuchtsanctie opgelegd door de bevoegde inrichtende macht heeft het niet naleven van de bepalingen van de artikelen 5, 6, 7, 8 § 3, 15 § 1, 15bis en 18&nbsp; van dit besluit tot gevolg dat het betrokken personeelslid onwettig afwezig is en het recht op wedde of weddetoelage voor de duur van de afwezigheid verliest.
+Onverminderd de toepassing van artikel 86 van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs of van artikel 60 van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde psycho-medische-sociale centra&nbsp;of van artikel 32 en 41 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie en onverminderd een eventuele tuchtsanctie opgelegd door de bevoegde inrichtende macht heeft het niet naleven van de bepalingen van&nbsp;de artikelen 5, 6, 7, 8 § 3, 15 § 1, 15bis en 18&nbsp; van dit besluit tot gevolg dat het betrokken personeelslid onwettig afwezig is en het recht op wedde of weddetoelage voor de duur van de afwezigheid verliest.
 
 ### ART. 22.
 
