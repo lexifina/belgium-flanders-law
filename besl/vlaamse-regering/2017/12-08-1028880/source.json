@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028880,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-08 tot wijziging van diverse artikelen van het besluit van de Vlaamse Regering van 5 september 2014 tot het verlenen van subsidies voor de uitvoering van agromilieu- en klimaatmaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de periode 2014-2020",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028880/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "87c9adaf3536e944dfb2f57c44111c336050c69615b56563d99a18586ff2e3ec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028880&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-12-08",
+  "gazette": "2018-01-15",
+  "numac": 2017032204,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
