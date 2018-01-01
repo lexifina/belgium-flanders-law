@@ -692,13 +692,25 @@ Het jaarlijks extra aantal te subsidiëren uren gezinszorg bedraagt   minstens 4
 
 ### ART. 10.
 
-De subsidie bestaat uit :<BR>1° een forfaitair bedrag van 23,8295 euro per   gepresteerd uur en per uur bijscholing, als subsidiëring van het verzorgend   personeel en van het bevorderen van de deskundigheid van het verzorgend   personeel; <BR>2° een forfaitair bedrag van 34.785 euro per jaar en per 120   geholpen gebruikers, als subsidiëring van het begeleidend personeel;<BR>3° een   forfaitair bedrag van 19.024 euro per jaar en per 75 VTE verzorgend personeel,   als subsidiëring van het leidinggevend personeel; <BR>4° een forfaitair bedrag   van 26.441 euro per jaar en per 200 geholpen gebruikers als subsidiëring van de   administratie- en coördinatiekosten.<BR><BR>Het bedrag, vermeld in het eerste   lid, 1°, wordt verhoogd met 2 euro per gepresteerd DOP-uur binnen het aantal   toegewezen DOP-uren.<BR><BR>Het bedrag, vermeld in het eerste lid, 2°, wordt   vervangen door 35.194.<BR><BR>Vanaf 2014 wordt het bedrag, vermeld in het eerste   lid, 2°, vervangen door 36.860.<BR><BR>De tijd die een verzorgend personeelslid   nodig heeft om zich van de ene naar de andere gebruiker te verplaatsen, wordt in   aanmerking genomen voor de berekening van de gepresteerde uren, vermeld in het   eerste lid, 1°, op voorwaarde dat die twee hulpverleningsmomenten aansluitend   zijn.<BR><BR>De tijd die een verzorgend personeelslid nodig heeft om zich van   een gebruiker naar een werkvergadering te verplaatsen, of omgekeerd, wordt in   aanmerking genomen voor de berekening van de gepresteerde uren, vermeld in het   eerste lid, 1°, op voorwaarde dat de helft van die tijd in rekening gebracht   wordt bij de gelijkgestelde uren, vermeld in artikel 13, eerste lid,   4°.<BR><BR>Voor alle andere verplaatsingen dan de voormelde verplaatsingen,   bijvoorbeeld het woon-werkverkeer of de verplaatsingen van een gebruiker naar   een bijscholing, wordt de verplaatsingstijd niet in aanmerking genomen voor de   berekening van de gepresteerde uren.
+De subsidie bestaat uit :<br>
+1° een forfaitair bedrag van 23,8310 euro per gepresteerd uur en per uur bijscholing, als subsidiëring van het verzorgend personeel en van het bevorderen van de deskundigheid van het verzorgend personeel;<br>
+2° een forfaitair bedrag van 36.885 euro per jaar en per 120 geholpen gebruikers, als subsidiëring van het begeleidend personeel;<br>
+3° een forfaitair bedrag van 19.024 euro per jaar en per 75 VTE verzorgend personeel, als subsidiëring van het leidinggevend personeel;<br>
+4° een forfaitair bedrag van 26.441 euro per jaar en per 200 geholpen gebruikers als subsidiëring van de administratie- en coördinatiekosten.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 2 euro per gepresteerd DOP-uur binnen het aantal toegewezen DOP-uren.<br>
+<br>
+De tijd die een verzorgend personeelslid nodig heeft om zich van de ene naar de andere gebruiker te verplaatsen, wordt in aanmerking genomen voor de berekening van de gepresteerde uren, vermeld in het eerste lid, 1°, op voorwaarde dat die twee hulpverleningsmomenten aansluitend zijn.<br>
+<br>
+De tijd die een verzorgend personeelslid nodig heeft om zich van een gebruiker naar een werkvergadering te verplaatsen, of omgekeerd, wordt in aanmerking genomen voor de berekening van de gepresteerde uren, vermeld in het eerste lid, 1°, op voorwaarde dat de helft van die tijd in rekening gebracht wordt bij de gelijkgestelde uren, vermeld in artikel 13, eerste lid, 4°.<br>
+<br>
+Voor alle andere verplaatsingen dan de voormelde verplaatsingen, bijvoorbeeld het woon-werkverkeer of de verplaatsingen van een gebruiker naar een bijscholing, wordt de verplaatsingstijd niet in aanmerking genomen voor de berekening van de gepresteerde uren.
 
 ### ART. 11.
 
 § 1. Iedere dienst verleent onregelmatige prestaties afhankelijk van de noodwendigheden. Onregelmatige prestaties zijn uren die binnen het toegekende urencontingent gepresteerd worden, hetzij op weekdagen tussen 20 uur en 7 uur, hetzij op zater-, zon- en feestdagen, met het oog op een continue hulp- en dienstverlening.<br>
 <br>
-§ 2. De subsidie, vermeld in artikel 10, 1°, wordt verhoogd met 30 % voor uren die gepresteerd worden op een zaterdag en voor uren die gepresteerd worden op weekdagen tussen 20 uur en 7 uur. Ze wordt verhoogd met 67 % voor uren die gepresteerd worden op een zon- of feestdag.<br>
+§ 2. De subsidie, vermeld in artikel 10, 1°, wordt verhoogd met 30 % voor uren die gepresteerd worden op een zaterdag en voor uren die gepresteerd worden op weekdagen tussen 20 uur en 7 uur. Ze wordt verhoogd met&nbsp;84,65 % voor uren die gepresteerd worden op een zon- of feestdag.<br>
 <br>
 Het percentage van de verhoging wordt bepaald door de astronomische dag (van 0 tot 24 uur) waarop de uren gepresteerd worden.<br>
 <br>
@@ -706,7 +718,7 @@ Het percentage van de verhoging wordt bepaald door de astronomische dag (van 0 t
 <br>
 Prestaties tussen 22 uur en 7 uur die korter zijn dan 8 uur worden, binnen het urencontingent, gelijkgesteld met een prestatie van 8 uur.<br>
 <br>
-§ 4. De verhogingen, vermeld in paragraaf 2, worden begrensd tot 3,5% van het toegekende urencontingent.<br>
+§ 4. De verhogingen, vermeld in paragraaf 2, worden begrensd tot 3,8% van het toegekende urencontingent.<br>
 <br>
 Binnen de beschikbare begrotingskredieten kunnen de individuele diensten die het percentage, vermeld in het eerste lid, overschrijden, de verhogingen, vermeld in paragraaf 2, ontvangen voor de onregelmatige prestaties die het percentage, vermeld in het eerste lid, overschrijden, voor zover die grens op sectorniveau niet wordt overschreden. De beschikbare middelen worden verdeeld over de betrokken diensten in verhouding tot de onregelmatige prestaties boven het percentage, vermeld in het eerste lid.
 
@@ -728,7 +740,7 @@ De dienst of coördinerende dienst bezorgt in het kader van meerlingenhulp   jaa
 
 ### ART. 14.
 
-§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld van 3.674.025,87 euro tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg.<br>
+§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld van&nbsp;3.668.676,79 euro tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met werkdruk die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -743,7 +755,26 @@ Het bedrag, vermeld in paragraaf 1, is gekoppeld aan het prijsindexcijfer dat be
 
 ### ART. 15.
 
-<P>...</P>
+§ 1. Voor de vergoeding van verplaatsingen met de fiets of bromfiets in opdracht wordt een budget van 156.862,75 euro verdeeld tussen de erkende diensten voor gezinszorg en aanvullende thuiszorg en de erkende diensten voor logistieke hulp.<br>
+<br>
+Het deel van het budget, vermeld in het eerste lid, dat in het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft, aan personeel van gezinszorg is toegekend, stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg wordt verhoogd voor het jaar waarop het budget betrekking heeft.<br>
+<br>
+§ 2. In deze paragraaf wordt verstaan onder:<br>
+1° personeel: het personeel dat gefinancierd wordt met de middelen, vermeld in artikel 10 of artikel 25, § 2, van deze bijlage of artikel 6, § 2, van bijlage II van dit besluit;<br>
+2° fiets: het rijwiel, voortbewegingstoestel of gemotoriseerd rijwiel, vermeld in artikel 2.15.1, 2.15.2 of 2.15.3 van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg;<br>
+3° bromfiets: de bromfiets, vermeld in artikel 2.17 van het voormelde koninklijk besluit.<br>
+<br>
+Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de diensten, vermeld in paragraaf 1, op basis van het aantal kilometers dat door het personeel met een fiets of bromfiets in opdracht heeft afgelegd in het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
+<br>
+De kilometers, vermeld in het tweede lid, bevatten ook de kilometers die het personeel met een fiets of bromfiets van huis naar de eerste gebruiker en van de laatste gebruiker terug naar huis heeft afgelegd.<br>
+<br>
+De kilometers, vermeld in het tweede lid, bevatten niet de verplaatsingen om boodschappen te doen voor de gebruiker.<br>
+<br>
+§ 3. De dienst geeft jaarlijks uiterlijk tegen 1 april aan het agentschap het aantal kilometers van het afgelopen jaar door dat in aanmerking komt conform paragraaf 2.<br>
+<br>
+Het bedrag, vermeld in paragraaf 1, wordt aan de diensten toegekend, samen met hun voorschot voor het derde trimester.<br>
+<br>
+Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 14, § 3, derde lid.
 
 ### ART. 15/1.
 
@@ -751,17 +782,7 @@ Het bedrag, vermeld in paragraaf 1, is gekoppeld aan het prijsindexcijfer dat be
 
 ### ART. 15/2.
 
-§ 1. Voor de maatregel eindejaarspremie wordt een budget van 1.431.368,69 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg. Vanaf 1 januari 2015 stijgt dat budget jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
-<br>
-Vanaf 2013 wordt het bedrag, vermeld in het eerste lid, vervangen door 5.827.783,73 euro.<br>
-<br>
-Vanaf 2014 wordt het bedrag, vermeld in het eerste lid, vervangen door 6.134.893,67 euro.<br>
-<br>
-Vanaf 2015 wordt het bedrag, vermeld in het eerste lid, vervangen door 6.175.507,39 euro.<br>
-<br>
-Vanaf 2016 wordt het bedrag, vermeld in het eerste lid, vervangen door 6.116.196,04 euro.<br>
-<br>
-Vanaf 2017 wordt het bedrag, vermeld in het eerste lid, vervangen door&nbsp;6.233.349,69 euro.<br>
+§ 1. Voor de maatregel eindejaarspremie wordt een budget van 6.376.560,14 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met de eindejaarspremie die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -773,17 +794,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 22.
 
 ### ART. 15/3.
 
-§ 1. Voor de maatregel managementsondersteuning wordt een budget van 183.065,44 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg. Vanaf 1 januari 2014 stijgt dat budget jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
-<br>
-Vanaf 2013 wordt het bedrag, vermeld in het eerste lid, vervangen door 461.777,19 euro.<br>
-<br>
-Vanaf 2014 wordt het bedrag, vermeld in het eerste lid, vervangen door 911.397,36 euro.<br>
-<br>
-Vanaf 2015 wordt het bedrag, vermeld in het eerste lid, vervangen door 917.517,00 euro.<br>
-<br>
-Vanaf 2016 wordt het bedrag, vermeld in het eerste lid, vervangen door 907.869,47 euro.<br>
-<br>
-Vanaf 2017 wordt het bedrag, vermeld in het eerste lid, vervangen door 925.183,78 euro.<br>
+§ 1. Voor de maatregel managementondersteuning wordt een budget van 946.401,23 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van het toegewezen urencontingent gezinszorg van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -900,17 +911,7 @@ De voormelde koppeling aan het indexcijfer wordt evenwel berekend en toegepast o
 
 ### ART. 30/1.
 
-§ 1. Voor de maatregel eindejaarspremie wordt een budget van 414.644,36 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg.<br>
-<br>
-Vanaf 2013 wordt het bedrag, vermeld in het eerste lid, vervangen door 1.492.479,80 euro.<br>
-<br>
-Vanaf 2014 wordt het bedrag, vermeld in het eerste lid, vervangen door 1.574.730,83 euro.<br>
-<br>
-Vanaf 2015 wordt het bedrag, vermeld in het eerste lid, vervangen door 1.647.378,56 euro.<br>
-<br>
-Vanaf 2016 wordt het bedrag, vermeld in het eerste lid, vervangen door 1.706.689,90 euro.<br>
-<br>
-Vanaf 2017 wordt het bedrag, vermeld in het eerste lid, vervangen door 1.715.529,90.<br>
+§ 1. Voor de maatregel eindejaarspremie wordt een budget van 1.720.049,84 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens over de eindejaarspremie die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -922,7 +923,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 22.
 
 ### ART. 31.
 
-§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg en de erkende private diensten voor logistieke hulp, vermeld in bijlage II. Dat budget bedraagt 2.037.153,72 euro.<br>
+§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg en de erkende private diensten voor logistieke hulp, vermeld in bijlage II. Dat budget bedraagt 2.042.502,80 euro.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten, vermeld in paragraaf 1, op basis van de gegevens in verband met werkdruk die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -2644,7 +2645,7 @@ C. Voorwaarden voor de werking<br>
 
 ### ART. 4.
 
-De subsidie-enveloppe voor een vereniging voor gebruikers en mantelzorgers bedraagt 94.953,96 euro per kalenderjaar.
+De subsidie-enveloppe voor een vereniging voor gebruikers en mantelzorgers bedraagt 99.393,81 euro per kalenderjaar.
 
 ### ART. 4/1.
 
