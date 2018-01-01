@@ -13,318 +13,318 @@
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>a) grassen :</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Poaceae (Gramineae)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;1) Agrostis canina L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>kruipend struisgras en heidestruisgras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;2) Agrostis gigantea Roth</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>hoog struisgras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;3) Agrostis stolonifer L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>wit struisgras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;4) Agrostis capillaris L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>gewoon struisgras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;5) Alopecurus pratensis L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>beemdvossenstaart;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;6) Arrhenatherum elatius (L.) P. Beauv. ex J. Presl &amp; C. Presl</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>frans raaigras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;7) Bromus catharticus Vahl.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>paardengras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;8) Bromus sitchensis Trin.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>alaskadravik;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;9) Cynodon dactylon (L.) Pers.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>bermudagras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;10) Dactylis glomerata L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>kropaar;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;11) Festuca arundinacea Schreber.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>rietzwenkgras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;12) Festuca filiformis Pourr.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>fijnbladig schapengras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;13) Festuca ovina L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>schapengras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;14) Festuca pratensis Hudson.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>beemdlangbloem;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;15) Festuca rubra L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>roodzwenkgras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;16) Festuca trachyphylla (Hack.) Krajina</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>hardzwenkgras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;17) Lolium multiflorum Lam.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Westerwolds en Italiaans raaigras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;18) Lolium perenne L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>engels raaigras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;19) Lolium x boucheanum Kunth.</p>
+			<td style="background-color:transparent">
+			<p>&nbsp;19) Lolium x hybridum Hausskn.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>gekruist raaigras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;20) Phalaris aquatica L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>knolrietgras, Phalaris;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;21) Phleum nodosum L</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>klein timotheegras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;22) Phleum pratense L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>timothee;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;23) Poa annua L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>tuintjesgras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;24) Poa nemoralis L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>bosbeemdgras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;25) Poa palustris L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>moerasbeemdgras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;26) Poa pratensis L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>veldbeemdgras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;27) Poa trivialis L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>ruwbeemdgras;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;28) Trisetum flavescens (L.) P. Beauv.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>goudhaver;</p>
 			</td>
 		</tr>
@@ -341,363 +341,273 @@ Onder groenvoedergewassen vallen ook de volgende hybriden die verkregen zijn doo
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;29) xFestulolium Asch. &amp; Graebn.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>hybriden die het gevolg zijn van de kruising van een soort van het geslacht Festuca met een soort van het geslacht Lolium;</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
+&nbsp;
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;b) vlinderbloemigen :</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Fabaceae (Leguminosae)</p>
-			</td>
+			<td><br>
+			b) Fabaceae (Leguminosae)</td>
+			<td>vlinderbloemigen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;1) Galega orientalis Lam.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>voedergalega;</p>
-			</td>
+			<td>1) Biserrula pelecinus L.</td>
+			<td>biserrula</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;2) Hedysarium coronarium L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>esparcette;</p>
-			</td>
+			<td>2) Galega orientalis Lam.</td>
+			<td>voedergalega</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;3) Lotus corniculatus L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rolklaver;</p>
-			</td>
+			<td>3) Hedysarum coronarium L.</td>
+			<td>esparcette</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;4) Lupinus albus L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>witte lupine;</p>
-			</td>
+			<td>4) Lathyrus cicera L.</td>
+			<td>kekerlathyrus</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;5) Lupinus angustifolius L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>blauwe lupine;</p>
-			</td>
+			<td>5) Lotus corniculatus L.</td>
+			<td>rolklaver</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;6) Lupinus luteus L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gele lupine;</p>
-			</td>
+			<td>6) Lupinus albus L.</td>
+			<td>witte lupine</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;7) Medicago lupulina L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>hopperupsklaver;</p>
-			</td>
+			<td>7) Lupinus angustifolius L.</td>
+			<td>blauwe lupine</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;8) Medicago sativa L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>luzerne;</p>
-			</td>
+			<td>8) Lupinus luteus L.</td>
+			<td>gele lupine</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;9) Medicago x varia T. Martyn</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bonte luzerne;</p>
-			</td>
+			<td>9) Medicago doliata Carmign.</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;10) Onobrychis viciifolia Scop.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>steenklaver;</p>
-			</td>
+			<td>10) Medicago italica (Mill.) Fiori</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;11) Pisum sativum L. (partim).</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>voedererwten;</p>
-			</td>
+			<td>11) Medicago littoralis Rohde ex Loisel.</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;12) Trifolium alexandrinum L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Alexandrijnse klaver;</p>
-			</td>
+			<td>12) Medicago lupulina L.</td>
+			<td>hopperupsklaver</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;13) Trifolium hybridum L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bastaardklaver;</p>
-			</td>
+			<td>13) Medicago murex Willd.</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;14) Trifolium incarnatum L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>incarnaatklaver;</p>
-			</td>
+			<td>14) Medicago polymorpha L.</td>
+			<td>ruige rupsklaver</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;15) Trifolium pratense L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rode klaver;</p>
-			</td>
+			<td>15) Medicago rugosa Desr.</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;16) Trifolium repens L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>witte klaver;</p>
-			</td>
+			<td>16) Medicago sativa L.</td>
+			<td>luzerne</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;17) Trifolium resupinatum L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Perzische klaver;</p>
-			</td>
+			<td>17) Medicago scutellata (L.) Mill.</td>
+			<td>slakkenklaver</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;18) Trigonella foenum-graecum L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bokshoorn;</p>
-			</td>
+			<td>18) Medicago truncatula Gaertn.</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;19) Vicia faba L. (partim).</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>veldboon;</p>
-			</td>
+			<td>19) Medicago x varia T. Martyn Sand</td>
+			<td>bonte luzerne</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;20) Vicia pannonica Crantz.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>pannonische wikke;</p>
-			</td>
+			<td>20) Onobrychis viciifolia Scop.</td>
+			<td>steenklaver</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;21) Vicia sativa L.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>voederwikke;</p>
-			</td>
+			<td>21) Ornithopus compressus L.</td>
+			<td>geel vogelpootje</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;22) Vicia villosa Roth</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zachte wikke;</p>
-			</td>
+			<td>22) Ornithopus sativus Brot.</td>
+			<td>serradelle</td>
+		</tr>
+		<tr>
+			<td>23) Pisum sativum L. (partim)</td>
+			<td>voedererwt</td>
+		</tr>
+		<tr>
+			<td>24) Trifolium alexandrinum L.</td>
+			<td>alexandrijnse klaver</td>
+		</tr>
+		<tr>
+			<td>25) Trifolium fragiferum L.</td>
+			<td>aardbeiklaver</td>
+		</tr>
+		<tr>
+			<td>26) Trifolium glanduliferum Boiss.</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>27) Trifolium hirtum All.</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>28) Trifolium hybridum L.</td>
+			<td>bastaardklaver</td>
+		</tr>
+		<tr>
+			<td>29) Trifolium incarnatum L.</td>
+			<td>inkarnaatklaver</td>
+		</tr>
+		<tr>
+			<td>30) Trifolium isthmocarpum Brot.</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>31) Trifolium michelianum Savi</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>32) Trifolium pratense L.</td>
+			<td>rode klaver</td>
+		</tr>
+		<tr>
+			<td>33) Trifolium repens L.</td>
+			<td>witte klaver</td>
+		</tr>
+		<tr>
+			<td>34) Trifolium resupinatum L.</td>
+			<td>perzische klaver</td>
+		</tr>
+		<tr>
+			<td>35) Trifolium squarrosum L.</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>36) Trifolium subterraneum L.</td>
+			<td>onderaardse klaver</td>
+		</tr>
+		<tr>
+			<td>37) Trifolium vesiculosum Savi</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>38) Trigonella foenum-graecum L.</td>
+			<td>bokshoorn</td>
+		</tr>
+		<tr>
+			<td>39) Vicia benghalensis L.</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>40) Vicia faba L.</td>
+			<td>veldboon</td>
+		</tr>
+		<tr>
+			<td>41) Vicia pannonica Crantz</td>
+			<td>pannonische wikke</td>
+		</tr>
+		<tr>
+			<td>42) Vicia sativa L.</td>
+			<td>voederwikke</td>
+		</tr>
+		<tr>
+			<td>43) Vicia villosa Roth</td>
+			<td>zachte wikke</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;c) andere soorten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;1) Brassica napus L. var. Napobrassica (L.) Rchb.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>koolrapen;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;2) Brassica oleracea L. convar. acephala (DC.) Alef. var. medullosa Thell. + var. viridis L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>mergkool;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;3) Phacelia tanacetifolia Benth.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>facelie;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">&nbsp;</td>
+			<td style="background-color:transparent">3bis) Plantago lanceolata L.</td>
+			<td style="background-color:transparent">smalle weegbree</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;4) Raphanus sativus L. var. oleiformis Pers. "</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>bladrammenas,".</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <p>2° prebasiszaad: kwekerszaad van generaties die aan het basiszaad voorafgaan, dat door een tot keuring bevoegde entiteit officieel is onderzocht en goedgekeurd volgens de voor de keuring van basiszaad geldende voorschriften;<br>
 <br>
@@ -763,6 +673,10 @@ b) het leveren van zaaizaad onder bepaalde voorwaarden aan verleners van dienste
 De voorwaarden voor de uitvoering van de bepalingen, bedoeld in het tweede lid, b) worden vastgesteld door de minister, overeenkomstig de beslissingen van de instellingen van de Europese Unie.<br>
 <br>
 § 2. ...</p>
+
+### ART 1/1.
+
+Dit besluit voorziet in de omzetting van richtlijn 66/401/EEG van de Raad van 14 juni 1966 betreffende het in de handel brengen van zaaizaad van groenvoedergewassen.
 
 ### ART. 1/2.
 
@@ -1214,2866 +1128,1521 @@ Het zaaizaad van de onderstaande soorten moet aan de volgende normen of andere v
 -Poa pratensis, rassen als vermeld in bijlage I, punt 4, derde zin, tweede gedeelte. Brassica napus var. napobrassica en Brassica oleracea convar. acephala : 98 %<br>
 - Pisum sativum, Vicia faba :<br>
 -gecertificeerd zaaizaad, eerste vermeerdering : 99 %<br>
--gecertificeerd zaaizaad, tweede vermeerdering : 98 %.<br>
+-gecertificeerd zaaizaad, tweede vermeerdering : 98 %<br>
+- Trifolium subterraneum, Medicago spp., met uitzondering van M. lupulina, M. sativa, M. x varia:<br>
+1° voor de productie van basiszaad: 99,5%;<br>
+2° voor de productie van gecertificeerd zaad voor verdere vermeerdering: 98%;<br>
+3° voor de productie van gecertificeerd zaad: 95%.<br>
 <br>
 Of aan de eisen van minimale raszuiverheid is voldaan, wordt hoofdzakelijk nagegaan door middel van de veldkeuringen, vermeld in bijlage I.<br>
 <br>
 2. Het zaaizaad moet voor kiemkracht, mechanische zuiverheid en gehalte aan zaden van andere plantensoorten, inclusief de aanwezigheid van bittere zaden in zoete rassen van Lupinus spp., aan de volgende normen of andere voorwaarden voldoen.<br>
 <br>
 A. Tabel.<br>
-<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>steenpfr</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>1</o:TotalTime><br>  <o:Created>2010-06-24T13:54:00Z</o:Created><br>  <o:LastSaved>2010-06-24T13:55:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>912</o:Words><br>  <o:Characters>5021</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>41</o:Lines><br>  <o:Paragraphs>11</o:Paragraphs><br>  <o:CharactersWithSpaces>5922</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--></p>
+&nbsp;</p>
 
-<table class="MsoNormalTable" style="mso-cellspacing: 1.5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellpadding="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color: transparent;" rowspan="3">
-			<p style="margin-right: 0cm; margin-left: 0cm;">soort</p>
-			</td>
-			<td style="background-color: transparent;" colspan="2">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">kiemkracht</p>
-			</td>
-			<td style="background-color: transparent;" colspan="8">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">mechanische zuiverheid</p>
-			</td>
-			<td style="background-color: transparent;" colspan="3">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">maximumgehalte aan zaden van andere plantensoorten in een monster, waarvan het gewicht is aangegeven in bijlage III, kolom 4 (totaal per kolom)</p>
-			</td>
-			<td style="background-color: transparent;" rowspan="3">
-			<p style="margin-right: 0cm; margin-left: 0cm;">voorwaarden voor het gehalte aan zaden van Lupinus spp. met een andere kleur en van bittere lupinezaden</p>
-			</td>
+			<td rowspan="2" colspan="1">soort</td>
+			<td colspan="2">kiemkracht</td>
+			<td rowspan="2">minimale mechanische zuiverheid<br>
+			(% van het gewicht)</td>
+			<td colspan="3">maximumgehalte aan zaden van andere plantensoorten<br>
+			(% van het gewicht)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;" rowspan="2">
-			<p style="margin-right: 0cm; margin-left: 0cm;">minimum kiemkracht (% zuiver zaad)</p>
-			</td>
-			<td style="background-color: transparent;" rowspan="2">
-			<p style="margin-right: 0cm; margin-left: 0cm;">maximum-gehalte aan hard-schalige zaden (% zuiver zaad)</p>
-			</td>
-			<td style="background-color: transparent;" rowspan="2">
-			<p style="margin-right: 0cm; margin-left: 0cm;">minimale mechanische zuiverheid (gewichts- %)</p>
-			</td>
-			<td style="background-color: transparent;" colspan="7">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">maximumgehalte aan zaden van andere plantensoorten (gewichts- %)</p>
-			</td>
-			<td style="background-color: transparent;" rowspan="2">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Avena fatua, Avena sterilis</p>
-			</td>
-			<td style="background-color: transparent;" rowspan="2">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Cuscuta spp.</p>
-			</td>
-			<td style="background-color: transparent;" rowspan="2">
-			<p style="margin-right: 0cm; margin-left: 0cm;">andere Rumex spp. dan Rumex acetosella en Rumex maritimus</p>
-			</td>
+			<td>minimum kiemkracht<br>
+			(% zuiver zaad)</td>
+			<td>maximum bestanddeel hardschalige zaden<br>
+			(% zuiver zaad)</td>
+			<td>totaal</td>
+			<td>van één enkele soort</td>
+			<td>Elytrigia repens</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Totaal</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">een enkele soort</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Elytrigia repens</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Alopecurus myosuroides</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Melilotus spp.</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Raphanus raphanistrum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Sinapis arvensis</p>
-			</td>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+			<td>5</td>
+			<td>6</td>
+			<td>7</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td colspan="4">maximumgehalte aan zaden van andere plantensoorten<br>
+			(% van het gewicht)</td>
+			<td colspan="3">maximumgehalte, in aantal, aan zaden van andere plantensoorten in een monster, waarvan het gewicht is aangegeven in bijlage III, kolom 4 (totaal per kolom)</td>
+			<td rowspan="2">eisen voor het gehalte aan lupinezaden van een andere kleur en voor bitterstofhoudende lupinezaden</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">4</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">6</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">7</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">8</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">9</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">11</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">12</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">13</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">14</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">15</p>
-			</td>
+			<td>Alopecurus<br>
+			myosuroides</td>
+			<td>Melilotus spp.</td>
+			<td>Raphanus<br>
+			raphanistrum</td>
+			<td>Sinapis<br>
+			arvensis</td>
+			<td>Avena fatua,<br>
+			Avena sterilis</td>
+			<td>Cuscuta spp.</td>
+			<td>Rumex spp. andere dan Rumex acetosella en Rumex maritimus</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poaceae (Gramineae)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>8</td>
+			<td>9</td>
+			<td>10</td>
+			<td>11</td>
+			<td>12</td>
+			<td>13</td>
+			<td>14</td>
+			<td>15</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+			<td>5</td>
+			<td>6</td>
+			<td>7</td>
+			<td>8</td>
+			<td>9</td>
+			<td>10</td>
+			<td>11</td>
+			<td>12</td>
+			<td>13</td>
+			<td>14</td>
+			<td>15</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis canina</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;90</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>POACEAE (Gramineae)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis capillaris</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;90</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Agrostis canina</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;90</td>
+			<td>2,0</td>
+			<td>1,0</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>2(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis gigantea</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;90</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Agrostis capillaris</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;90</td>
+			<td>2,0</td>
+			<td>1,0</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>2(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis stolonifera</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;90</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Agrostis gigantea</td>
+			<td>80(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;90</td>
+			<td>2,0</td>
+			<td>1,0</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>2(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Alopecurus pratensis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">70 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;75</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0 (f)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Agrostis stolonifera</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;90</td>
+			<td>2,0</td>
+			<td>1,0</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>2(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Arrhenatherum elatius</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;90</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">3,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0 (f)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0 (g)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Alopecurus pratensis</td>
+			<td>70(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;75</td>
+			<td>2,5</td>
+			<td>1,0 (f)</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus catharticus</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;97</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0 (g)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Arrhenatherum elatius</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;90</td>
+			<td>3,0</td>
+			<td>1,0 (f)</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0(g)</td>
+			<td>0(j)(k)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus sitchensis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;97</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0 (g)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Bromus catharticus</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;97</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0(g)</td>
+			<td>0(j)(k)</td>
+			<td>10(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Cynodon dactylon</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">70 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;90</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Bromus sitchensis</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;97</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0(g)</td>
+			<td>0(j)(k)</td>
+			<td>10(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Dactylis glomerata</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;90</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Cynodon dactylon</td>
+			<td>70(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;90</td>
+			<td>2,0</td>
+			<td>1,0</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>2</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca arundinacea</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;95</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Dactylis glomerata</td>
+			<td>80(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;90</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca filiformis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;85</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Festuca arundinacea</td>
+			<td>80(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;95</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca ovina</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;85</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Festuca filiformis</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;85</td>
+			<td>2,0</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca pratensis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;95</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Festuca ovina</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;85</td>
+			<td>2,0</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca rubra</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;90</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Festuca pratensis</td>
+			<td>80(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;95</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca trachyphylla</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;85</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Festuca rubra</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;90</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">X Festulolium</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;96</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Festuca trachyphylla</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;85</td>
+			<td>2,0</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium multiflorum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;96</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>x Festulolium</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;96</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium perenne</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;96</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Lolium multiflorum</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;96</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium x boucheanum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;96</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Lolium perenne</td>
+			<td>80(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;96</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phalaris aquatica</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;96</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Lolium x hybridum</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;96</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum nodosum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;96</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Phalaris aquatica L.</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;96</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>5</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum pratense</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;96</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Phleum nodosum</td>
+			<td>80(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;96</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0 (k)</td>
+			<td>5</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa annua</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;85</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,0 (c)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0 (c)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Phleum pratense</td>
+			<td>80(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;96</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0 (k)</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+			<td>5</td>
+			<td>6</td>
+			<td>7</td>
+			<td>8</td>
+			<td>9</td>
+			<td>10</td>
+			<td>11</td>
+			<td>12</td>
+			<td>13</td>
+			<td>14</td>
+			<td>15</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa nemoralis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;85</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,0 (c)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0 (c)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Poa annua</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;85</td>
+			<td>2,0(c)</td>
+			<td>1,0(c)</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa palustris</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;85</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,0 (c)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0 (c)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Poa nemoralis</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;85</td>
+			<td>2,0(c)</td>
+			<td>1,0(c)</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>2(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa pratensis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;85</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,0 (c)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0 (c)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Poa palustris</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;85</td>
+			<td>2,0(c)</td>
+			<td>1,0(c)</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>2(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa trivialis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;85</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,0 (c)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0 (c)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Poa pratensis</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;85</td>
+			<td>2,0(c)</td>
+			<td>1,0(c)</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>2(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trisetum flavescens</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">70 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;75</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">3,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0 (f)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0 (h)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Poa trivialis</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;85</td>
+			<td>2,0(c)</td>
+			<td>1,0(c)</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>2(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Fabaceae (Leguminosae)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Trisetum flavescens</td>
+			<td>70(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;75</td>
+			<td>3,0</td>
+			<td>1,0(f)</td>
+			<td>0,3</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0(h)</td>
+			<td>0(j)(k)</td>
+			<td>2(n)</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+			<td>5</td>
+			<td>6</td>
+			<td>7</td>
+			<td>8</td>
+			<td>9</td>
+			<td>10</td>
+			<td>11</td>
+			<td>12</td>
+			<td>13</td>
+			<td>14</td>
+			<td>15</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Galega orientalis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">60 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">40</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">97</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (l) (m)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>FABACEAE (Leguminosae)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Hedysarum coronarium</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">95</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Biserrula pelecinus</td>
+			<td>70</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;98</td>
+			<td>0,5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lotus corniculatus</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">40</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">95</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,8 (d)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0 (d)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (l) (m)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Galega orientalis.</td>
+			<td>60 (a)(b)</td>
+			<td>40</td>
+			<td>97</td>
+			<td>2,0</td>
+			<td>1,5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(l)(m)</td>
+			<td>10(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus albus</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">98</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (i)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(o) (p)</p>
-			</td>
+			<td>Hedysarum coronarium</td>
+			<td>75(a)(b)</td>
+			<td>30</td>
+			<td>95</td>
+			<td>2,5</td>
+			<td>1,0</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(k)</td>
+			<td>5</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus angustifolius</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">98</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (i)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(o) (p)</p>
-			</td>
+			<td>Lathyrus cicera</td>
+			<td>80</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;95</td>
+			<td>1</td>
+			<td>0,5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>20</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus luteus</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">98</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (i)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(o) (p)</p>
-			</td>
+			<td>Lotus corniculatus</td>
+			<td>75(a)(b)</td>
+			<td>40</td>
+			<td>95</td>
+			<td>1,8(d)</td>
+			<td>1,0(d)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(l)(m)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago lupulina</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">97</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (l) (m)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Lupinus albus</td>
+			<td>80(a)(b)</td>
+			<td>20</td>
+			<td>98</td>
+			<td>0,5(e)</td>
+			<td>0,3(e)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)</td>
+			<td>5(n)</td>
+			<td>(o)(p)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago sativa</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">40</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">97</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (l) (m)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Lupinus angustifolius</td>
+			<td>75(a)(b)</td>
+			<td>20</td>
+			<td>98</td>
+			<td>0,5(e)</td>
+			<td>0,3(e)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)</td>
+			<td>5(n)</td>
+			<td>(o)(p)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago x varia</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">40</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">97</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (l) (m)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Lupinus luteus</td>
+			<td>80(a)(b)</td>
+			<td>20</td>
+			<td>98</td>
+			<td>0,5(e)</td>
+			<td>0,3(e)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)</td>
+			<td>5(n)</td>
+			<td>(o)(p)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Onobrychis viciifolia</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">95</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago doliata</td>
+			<td>70</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;98</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Pisum sativum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;98</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago italic</td>
+			<td>70(b)</td>
+			<td>20</td>
+			<td>98</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium alexandrinum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">97</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (l) (m)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago littoralis</td>
+			<td>70</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;98</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium hybridum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">97</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (l) (m)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago lupulina</td>
+			<td>80(a)(b)</td>
+			<td>20</td>
+			<td>97</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(l)(m)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium incarnatum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">97</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (l) (m)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago murex</td>
+			<td>70(b)</td>
+			<td>30</td>
+			<td>98</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium pratense</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">97</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (l) (m)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago polymorpha</td>
+			<td>70(b)</td>
+			<td>30</td>
+			<td>98</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium repens</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">40</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">97</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (l) (m)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago rugosa</td>
+			<td>70(b)</td>
+			<td>20</td>
+			<td>98</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium resupinatum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">97</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (l) (m)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago sativa</td>
+			<td>80(a)(b)</td>
+			<td>40</td>
+			<td>97</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(l)(m)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trigonella foenum-graecum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;95</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago scutellata</td>
+			<td>70</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;98</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia faba</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">98</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago truncatula</td>
+			<td>70(b)</td>
+			<td>20</td>
+			<td>98</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia pannonica</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">85 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">98</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (i)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago x varia</td>
+			<td>80(a)(b)</td>
+			<td>40</td>
+			<td>97</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(l)(m)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia sativa</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">85 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">98</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (i)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Onobrychis viciifolia</td>
+			<td>75(a)(b)</td>
+			<td>20</td>
+			<td>95</td>
+			<td>2,5</td>
+			<td>1,0</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(j)</td>
+			<td>5</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia villosa</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">85 (a) (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">98</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (i)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5 (n)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Ornithopus compressus</td>
+			<td>75</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;90</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Andere soorten</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Ornithopus sativus</td>
+			<td>75</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;90</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica napus var. Napobrassica</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;98</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Pisum sativum</td>
+			<td>80(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;98</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(j)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica oleracea convar. acephala (acephala var. medullosa + var. viridis)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">75 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;98</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Trifolium alexandrinum</td>
+			<td>80(a)(b)</td>
+			<td>20</td>
+			<td>97</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(l)(m)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phacelia tanacetifolia</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;96</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j) (k)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Trifolium fragiferum</td>
+			<td>70</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;98</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Raphanus sativus var. oleiformis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;97</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (j)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Trifolium glanduliferum</td>
+			<td>70 (b)</td>
+			<td>30</td>
+			<td>98</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trifolium hirtum</td>
+			<td>70</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;98</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trifolium hybridum</td>
+			<td>80(a)(b)</td>
+			<td>20</td>
+			<td>97</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(l)(m)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trifolium incarnatum</td>
+			<td>75(a)(b)</td>
+			<td>20</td>
+			<td>97</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(l)(m)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trifolium isthmocarpum</td>
+			<td>70</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;98</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trifolium michelianum</td>
+			<td>75 (b)</td>
+			<td>30</td>
+			<td>98</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trifolium pratense</td>
+			<td>80(a)(b)</td>
+			<td>20</td>
+			<td>97</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(l)(m)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trifolium repens</td>
+			<td>80(a)(b)</td>
+			<td>40</td>
+			<td>97</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(l)(m)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trifolium resupinatum</td>
+			<td>80(a)(b)</td>
+			<td>20</td>
+			<td>97</td>
+			<td>1,5</td>
+			<td>1,0</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(l)(m)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trifolium squarrosum</td>
+			<td>75(b)</td>
+			<td>20</td>
+			<td>97</td>
+			<td>1,5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(l)(m)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trifolium subterraneum</td>
+			<td>80(b)</td>
+			<td>40</td>
+			<td>97</td>
+			<td>0,5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trifolium vesiculosum</td>
+			<td>70</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;98</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trigonella foenum-graecum</td>
+			<td>80(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;95</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(j)</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Vicia benghalensis</td>
+			<td>80(b)</td>
+			<td>20</td>
+			<td>97(e)</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Vicia faba</td>
+			<td>80(a)(b)</td>
+			<td>5</td>
+			<td>98</td>
+			<td>0,5</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>0(j)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Vicia pannonica</td>
+			<td>85(a)(b)</td>
+			<td>20</td>
+			<td>98</td>
+			<td>1,0(e)</td>
+			<td>0,5(e)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Vicia sativa</td>
+			<td>85(a)(b)</td>
+			<td>20</td>
+			<td>98</td>
+			<td>1,0(e)</td>
+			<td>0,5(e)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Vicia villosa</td>
+			<td>85(a)(b)</td>
+			<td>20</td>
+			<td>98</td>
+			<td>1,0(e)</td>
+			<td>0,5(e)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0,3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)</td>
+			<td>5(n)</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>ANDERE SOORTEN</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Brassica napus<br>
+			var. napobrassica</td>
+			<td>80(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;98</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0,3</td>
+			<td>0,3</td>
+			<td>0</td>
+			<td>0(j)(k)</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Brassica oleracea convar. acephala (acephala var. medullosa + var. viridis)</td>
+			<td>75(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;98</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0,3</td>
+			<td>0,3</td>
+			<td>0</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phacelia tanacetifolia</td>
+			<td>80(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;96</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0</td>
+			<td>0(j)(k)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Plantago lanceolata</td>
+			<td>75</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;85</td>
+			<td>1,5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(i)</td>
+			<td>0(j)(k)</td>
+			<td>10</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Raphanus sativusvar. oleiformis</td>
+			<td>80(a)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;97</td>
+			<td>1,0</td>
+			<td>0,5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;0,3</td>
+			<td>0,3</td>
+			<td>0</td>
+			<td>0(j)</td>
+			<td>5</td>
+			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p>B. Andere normen of voorwaarden waaraan moet worden voldaan als daarnaar wordt verwezen in de tabel, vermeld in deel I, punt 2, A :<br>
+<p><!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>steenpfr</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>1</o:TotalTime><br>  <o:Created>2010-06-24T13:54:00Z</o:Created><br>  <o:LastSaved>2010-06-24T13:55:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>912</o:Words><br>  <o:Characters>5021</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>41</o:Lines><br>  <o:Paragraphs>11</o:Paragraphs><br>  <o:CharactersWithSpaces>5922</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]-->B. Andere normen of voorwaarden waaraan moet worden voldaan als daarnaar wordt verwezen in de tabel, vermeld in deel I, punt 2, A :<br>
 a) Alle na voorbehandeling niet-gekiemde verse en gezonde zaden worden beschouwd als gekiemde zaden.<br>
 b) Hardschalige zaden worden tot aan het aangegeven maximumpercentage beschouwd als kiemkrachtige zaden.<br>
 c) Een maximaal totaal gewichtspercentage van 0,8 % aan zaden van andere Poa-soorten geldt niet als onzuiverheid.<br>
 d) Een maximaal gewichtspercentage van 1 % aan zaden van Trifolium pratense geldt niet als onzuiverheid.<br>
-e) Een maximaal gewichtspercentage van 0,5 % aan zaden van Lupinus albus, Lupinus angustifolius, Lupinus luteus, Pisum sativum, Vicia faba, Vicia pannonica, Vicia sativa en Vicia villosa in andere relevante soorten geldt niet als onzuiverheid.<br>
+e) een maximaal gewichtspercentage van 0,5 % aan zaden van Lupinus albus, Lupinus angustifolius, Lupinus luteus, Pisum sativum, Vicia faba en Vicia spp. in andere relevante soorten geldt niet als onzuiverheid.<br>
 f) Het voorgeschreven maximale gewichtspercentage aan zaden van een enkele soort geldt niet voor zaden van Poa spp.<br>
 g) De aanwezigheid van maximaal twee zaden van Avena fatua en Avena sterilis in een monster van het voorgeschreven gewicht geldt niet als onzuiverheid als een tweede monster van hetzelfde gewicht vrij is van zaden van die soorten.<br>
 h) De aanwezigheid van één zaadkorrel van Avena fatua en Avena sterilis in een monster van het voorgeschreven gewicht geldt niet als onzuiverheid, als een tweede monster van tweemaal het voorgeschreven gewicht vrij is van zaden van die soorten.<br>
@@ -4099,1590 +2668,843 @@ Of aan de eisen voor minimale raszuiverheid is voldaan, wordt hoofdzakelijk nage
 <br>
 2. Het zaad moet aan de volgende andere normen of voorwaarden voldoen :<br>
 <br>
-A. Tabel :<br>
-<br>
-<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>steenpfr</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>1</o:TotalTime><br>  <o:Created>2010-06-24T13:58:00Z</o:Created><br>  <o:LastSaved>2010-06-24T13:59:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>503</o:Words><br>  <o:Characters>2771</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>23</o:Lines><br>  <o:Paragraphs>6</o:Paragraphs><br>  <o:CharactersWithSpaces>3268</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--></p>
+A. Tabel :<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>steenpfr</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>1</o:TotalTime><br>  <o:Created>2010-06-24T13:58:00Z</o:Created><br>  <o:LastSaved>2010-06-24T13:59:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>503</o:Words><br>  <o:Characters>2771</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>23</o:Lines><br>  <o:Paragraphs>6</o:Paragraphs><br>  <o:CharactersWithSpaces>3268</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--></p>
 
-<table class="MsoNormalTable" style="mso-cellspacing: 1.5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellpadding="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color: transparent;" rowspan="3">
-			<p style="margin-right: 0cm; margin-left: 0cm;">soort</p>
-			</td>
-			<td style="background-color: transparent;" colspan="6">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">maximumgehalte aan zaden van andere plantensoorten</p>
-			</td>
-			<td style="background-color: transparent;" rowspan="3">
-			<p style="margin-right: 0cm; margin-left: 0cm;">andere normen of voorwaarden</p>
-			</td>
+			<td rowspan="3" colspan="1">soorten</td>
+			<td colspan="6">maximumgehalte aan zaden van andere plantensoorten</td>
+			<td rowspan="3">overige normen of eisen</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;" rowspan="2">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Totaal (gewichts- %)</p>
-			</td>
-			<td style="background-color: transparent;" colspan="5">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">aantallen in een monster waarvan het gewicht is aangegeven in bijlage III, kolom 4 (totaal per kolom)</p>
-			</td>
+			<td rowspan="2" colspan="1">totaal<br>
+			(% van het gewicht)</td>
+			<td colspan="5">aantallen in een monster waarvan het gewicht is aangegeven in bijlage II, kolom 4 (totaal per kolom)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">een enkele soort</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">andere Rumex spp. dan Rumex acetosella en Rumex maritimus</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Elytrigia repens</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Alopecurus myosuroides</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Melilotus spp.</p>
-			</td>
+			<td>van één enkele soort</td>
+			<td>Rumex spp.<br>
+			andere dan<br>
+			Rumex acetosella en<br>
+			Rumex maritimus</td>
+			<td>Elytrigia repens</td>
+			<td>Alopecurus<br>
+			myosuroides</td>
+			<td>Melilotus spp.</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">4</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">6</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">7</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">8</p>
-			</td>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+			<td>5</td>
+			<td>6</td>
+			<td>7</td>
+			<td>8</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+			<td>5</td>
+			<td>6</td>
+			<td>7</td>
+			<td>8</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poaceae (Gramineae)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>POACEAE (Gramineae)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis canina</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Agrostis canina</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>1</td>
+			<td>1</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis capillaris</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Agrostis capillaris</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>1</td>
+			<td>1</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis gigantea</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Agrostis gigantea</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>1</td>
+			<td>1</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis stolonifera</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Agrostis stolonifera</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>1</td>
+			<td>1</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Alopecurus pratensis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Alopecurus pratensis</td>
+			<td>0,3</td>
+			<td>20(a)</td>
+			<td>2</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Arrhenatherum elatius</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(i) (j)</p>
-			</td>
+			<td>Arrhenatherum elatius</td>
+			<td>0,3</td>
+			<td>20(a)</td>
+			<td>2</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(i)(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus catharticus</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,4</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Bromus catharticus</td>
+			<td>0,4</td>
+			<td>20</td>
+			<td>5</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus sitchensis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,4</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Bromus sitchensis</td>
+			<td>0,4</td>
+			<td>20</td>
+			<td>5</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Cynodon dactylon</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Cynodon dactylon</td>
+			<td>0,3</td>
+			<td>20(a)</td>
+			<td>1</td>
+			<td>1</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Dactylis glomerata</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Dactylis glomerata</td>
+			<td>0,3</td>
+			<td>20(a)</td>
+			<td>2</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca arundinacea</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Festuca arundinacea</td>
+			<td>0,3</td>
+			<td>20(a)</td>
+			<td>2</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca filiformis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Festuca filiformis</td>
+			<td>0,3</td>
+			<td>20(a)</td>
+			<td>2</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca ovina</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Festuca ovina</td>
+			<td>0,3</td>
+			<td>20(a)</td>
+			<td>2</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca pratensis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Festuca pratensis</td>
+			<td>0,3</td>
+			<td>20(a)</td>
+			<td>2</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca rubra</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Festuca rubra</td>
+			<td>0,3</td>
+			<td>20(a)</td>
+			<td>2</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca trachyphylla</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Festuca trachyphylla</td>
+			<td>0,3</td>
+			<td>20(a)</td>
+			<td>2</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">X Festulolium</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>x Festulolium</td>
+			<td>0,3</td>
+			<td>20(a)</td>
+			<td>2</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium multiflorum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Lolium multiflorum</td>
+			<td>0,3</td>
+			<td>20(a)</td>
+			<td>2</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium perenne</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Lolium perenne</td>
+			<td>0,3</td>
+			<td>20(a)</td>
+			<td>2</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium x boucheanum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (a)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Lolium x hybridum</td>
+			<td>0,3</td>
+			<td>20(a)</td>
+			<td>2</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phalaris aquatica</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Phalaris aquatica</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>5</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum nodosum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Phleum nodosum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>1</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum pratense</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Phleum pratense</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>1</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa annua</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(f) (j)</p>
-			</td>
+			<td>Poa annua</td>
+			<td>0,3</td>
+			<td>20(b)</td>
+			<td>1</td>
+			<td>1</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(f) (j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa nemoralis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(f) (j)</p>
-			</td>
+			<td>Poa nemoralis</td>
+			<td>0,3</td>
+			<td>20(b)</td>
+			<td>1</td>
+			<td>1</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(f) (j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa palustris</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(f) (j)</p>
-			</td>
+			<td>Poa palustris</td>
+			<td>0,3</td>
+			<td>20(b)</td>
+			<td>1</td>
+			<td>1</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(f) (j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa pratensis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(f) (j)</p>
-			</td>
+			<td>Poa pratensis</td>
+			<td>0,3</td>
+			<td>20(b)</td>
+			<td>1</td>
+			<td>1</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(f) (j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa trivialis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (b)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(f) (j)</p>
-			</td>
+			<td>Poa trivialis</td>
+			<td>0,3</td>
+			<td>20(b)</td>
+			<td>1</td>
+			<td>1</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(f) (j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trisetum flavescens</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20 (c)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(i) (j)</p>
-			</td>
+			<td>Trisetum flavescens</td>
+			<td>0,3</td>
+			<td>20(c)</td>
+			<td>1</td>
+			<td>1</td>
+			<td>1</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(i) (j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Fabaceae (Leguminosae)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>FABACEAE (Leguminosae)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Galega orientalis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
-			</td>
+			<td>Biserrula pelecinus</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Hedysarum coronarium</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
-			</td>
+			<td>Galega orientalis</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lotus corniculatus</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(g) (j)</p>
-			</td>
+			<td>Hedysarum coronarium</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus albus</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (d)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(h) (k)</p>
-			</td>
+			<td>Lathyrus cicera</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(d)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus angustifolius</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (d)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(h) (k)</p>
-			</td>
+			<td>Lotus corniculatus</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>(g)(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus luteus</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (d)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(h) (k)</p>
-			</td>
+			<td>Lupinus albus</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(d)</td>
+			<td>(h)(k)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago lupulina</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
-			</td>
+			<td>Lupinus angustifolius</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(d)</td>
+			<td>(h)(k)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago sativa</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
-			</td>
+			<td>Lupinus luteus</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(d)</td>
+			<td>(h)(k)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago x varia</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
-			</td>
+			<td>Medicago doliata</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Onobrychis viciifolia</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (d)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago italic</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Pisum sativum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (d)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago littoralis</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium alexandrinum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
-			</td>
+			<td>Medicago lupulina</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium hybridum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
-			</td>
+			<td>Medicago murex</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium incarnatum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
-			</td>
+			<td>Medicago polymorpha</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium pratense</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
-			</td>
+			<td>Medicago rugosa</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium repens</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
-			</td>
+			<td>Medicago sativa</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium resupinatum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (e)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
-			</td>
+			<td>Medicago scutellata</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trigonella foenum-graecum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (d)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago truncatula</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia faba</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (d)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago x varia</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia pannonica</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (d)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(h)</p>
-			</td>
+			<td>Onobrychis viciifolia</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(d)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia sativa</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (d)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(h)</p>
-			</td>
+			<td>Ornithopus compressus</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia villosa</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0 (d)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">(h)</p>
-			</td>
+			<td>Ornithopus sativus</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Andere soorten</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Pisum sativum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(d)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica napus var. napobrassica</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Trifolium alexandrinum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>(j)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica oleracea convar. acephala (acephala var. medullosa + var. viridis)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;(j)</p>
-			</td>
+			<td>Trifolium fragiferum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phacelia tanacetifolia</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Trifolium glanduliferum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Raphanus sativus var. oleiformis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Trifolium hirtum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trifolium hybridum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>(j)</td>
+		</tr>
+		<tr>
+			<td>Trifolium incarnatum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>(j)</td>
+		</tr>
+		<tr>
+			<td>Trifolium isthmocarpum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
+		</tr>
+		<tr>
+			<td>Trifolium michelianum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trifolium pratense</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>(j)</td>
+		</tr>
+		<tr>
+			<td>Trifolium repens</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>(j)</td>
+		</tr>
+		<tr>
+			<td>Trifolium resupinatum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(e)</td>
+			<td>(j)</td>
+		</tr>
+		<tr>
+			<td>Trifolium squarrosum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Trifolium subterraneum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
+		</tr>
+		<tr>
+			<td>Trifolium vesiculosum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
+		</tr>
+		<tr>
+			<td>Trigonella foenum-graecum</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(d)</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Vicia benghalensis</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>5</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(d)</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Vicia faba</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(d)</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Vicia villosa</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0(d)</td>
+			<td>(h)</td>
+		</tr>
+		<tr>
+			<td>ANDERE SOORTEN</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Brassica napus<br>
+			var. napobrassica</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
+		</tr>
+		<tr>
+			<td>Brassica oleracea convar. acephala (acephala var. medullosa + var. viridis)</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;(j)</td>
+		</tr>
+		<tr>
+			<td>Phacelia tanacetifolia</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Plantago lanceolata</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>3</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Raphanus sativus<br>
+			var. oleiformis</td>
+			<td>0,3</td>
+			<td>20</td>
+			<td>2</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p>B. Andere normen of voorwaarden waaraan moet worden voldaan als daarnaar wordt verwezen in de tabel, vermeld in deel II, punt 2, A :<br>
+<p style="margin-right: 0cm; margin-left: 0cm;">B. Andere normen of voorwaarden waaraan moet worden voldaan als daarnaar wordt verwezen in de tabel, vermeld in deel II, punt 2, A :<br>
 a) De aanwezigheid van in totaal 80 zaden van Poa spp. geldt niet als onzuiverheid.<br>
 b) De voorwaarde, vermeld in kolom 3, is niet van toepassing op zaaizaad van Poa spp. Het totale maximale aantal zaden van andere Poa spp. dan de soort die onderzocht wordt, mag niet meer dan 1 bedragen in een monster van 500 zaden.<br>
 c) De aanwezigheid van in totaal 20 zaden van Poa spp. geldt niet als onzuiverheid.<br>
@@ -5707,922 +3529,542 @@ a) bedraagt de minimale mechanische zuiverheid 97 gewichtspercent;<br>
 b) mag het percentage van het aantal zaden Lupinus spp. van een andere kleur niet meer bedragen dan :<br>
 -in bittere lupinen : 4 %;<br>
 -in andere Lupinus spp. dan bittere lupinen : 2 %.<br>
-7. Voor Vicia spp. geldt een maximaal totaal gewichtspercentage van 6 % aan zaden van Vicia pannonica, Vicia villosa of aanverwante cultuursoorten in andere relevante soorten niet als onzuiverheid.<br>
-8. Voor Vicia pannonica, Vicia sativa en Vicia villosa bedraagt de minimale mechanische zuiverheid 97 gewichtspercent.</p>
+7. Voor Vicia spp. geldt een maximaal totaal gewichtspercentage van 6% aan zaden van Vicia pannonica, Vicia villosa, Vicia benghalensis of aanverwante cultuursoorten in andere relevante soorten niet als onzuiverheid.<br>
+8. Voor Vicia pannonica, Vicia sativa, Vicia villosa en Vicia benghalensis bedraagt de minimale mechanische zuiverheid 97 gewichtspercent.<br>
+9. Voor Lathyrus cicera bedraagt de minimale mechanische zuiverheid 90 gewichtspercent. Een maximaal totaal gewichtspercentage van 5 % aan zaden van vergelijkbare soorten geldt niet als onzuiverheid.</p>
 
 ### BIJLAGE III.
 
-<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>steenpfr</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>0</o:TotalTime><br>  <o:Created>2010-06-24T14:02:00Z</o:Created><br>  <o:LastSaved>2010-06-24T14:02:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>350</o:Words><br>  <o:Characters>1928</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>16</o:Lines><br>  <o:Paragraphs>4</o:Paragraphs><br>  <o:CharactersWithSpaces>2274</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]-->Deze bijlage voorziet in de gedeeltelijke omzetting van uitvoeringsrichtlijn 2012/37/EU van de Commissie van 22 november 2012 tot wijziging van bepaalde bijlagen bij de Richtlijnen 66/401/EEG en 66/402/EEG van de Raad wat betreft de voorwaarden waaraan zaaizaad van Galega orientalis Lam. moet voldoen, het maximumgewicht van een partij zaaizaad van bepaalde soorten groenvoedergewassen en de monstergrootte van Sorghum spp.&nbsp;&nbsp;
-<p>&nbsp;</p>
-
-<table class="MsoNormalTable" style="mso-cellspacing: 1.5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellpadding="0">
+Bijlage III bij het besluit van de Vlaamse Regering van 25 maart 2005 houdende reglementering van de handel in en de keuring van zaaizaad van groenvoedergewassen<br>
+Bijlage III.<br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">soort</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">maximumgewicht van een partij (ton)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">minimumgewicht van een monster dat van een partij wordt genomen (gram)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">gewicht van het monster voor de bepaling van de aantallen, vermeld in bijlage II, deel I, punt 2, A, kolom 12-14, en in bijlage II, deel II, punt 2, A, kolom 3-7 (gram)</p>
-			</td>
+			<td>soort</td>
+			<td>maximum<br>
+			gewicht van een<br>
+			partij<br>
+			(in ton)(a)</td>
+			<td>minimumgewicht van een monster dat van een partij<br>
+			wordt genomen<br>
+			(in g)(b)(c)</td>
+			<td>gewicht van een monster voor de bepaling van de aantallen, bepaald in bijlage II, deel I, punt 2, A, kolom 12-14 en in bijlage II, deel II, punt 2, A, kolom 3-7 (in g)</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">4</p>
-			</td>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poaceae (Gramineae)*</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>POACEAE (Gramineae) *</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis canina</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
+			<td>Agrostis canina</td>
+			<td>10</td>
+			<td>50</td>
+			<td>5</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis capillaris</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
+			<td>Agrostis capillaris</td>
+			<td>10</td>
+			<td>50</td>
+			<td>5</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis gigantea</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
+			<td>Agrostis gigantea</td>
+			<td>10</td>
+			<td>50</td>
+			<td>5</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis stolonifera</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
+			<td>Agrostis stolonifera</td>
+			<td>10</td>
+			<td>50</td>
+			<td>5</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Alopecurus pratensis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
+			<td>Alopecurus pratensis</td>
+			<td>10</td>
+			<td>100</td>
+			<td>30</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Arrhenatherum elatius</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80</p>
-			</td>
+			<td>Arrhenatherum elatius</td>
+			<td>10</td>
+			<td>200</td>
+			<td>80</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus catharticus</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
+			<td>Bromus catharticus</td>
+			<td>10</td>
+			<td>200</td>
+			<td>200</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus sitchensis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
+			<td>Bromus sitchensis</td>
+			<td>10</td>
+			<td>200</td>
+			<td>200</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Cynodon dactylon</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
+			<td>Cynodon dactylon</td>
+			<td>10</td>
+			<td>50</td>
+			<td>5</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Dactylis glomerata</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
+			<td>Dactylis glomerata</td>
+			<td>10</td>
+			<td>100</td>
+			<td>30</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca arundinacea</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
+			<td>Festuca arundinacea</td>
+			<td>10</td>
+			<td>100</td>
+			<td>50</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca filiformis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
+			<td>Festuca filiformis</td>
+			<td>10</td>
+			<td>100</td>
+			<td>30</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca ovina</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
+			<td>Festuca ovina</td>
+			<td>10</td>
+			<td>100</td>
+			<td>30</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca pratensis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
+			<td>Festuca pratensis</td>
+			<td>10</td>
+			<td>100</td>
+			<td>50</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca rubra</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
+			<td>Festuca rubra</td>
+			<td>10</td>
+			<td>100</td>
+			<td>30</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca trachyphylla</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
+			<td>Festuca trachyphylla</td>
+			<td>10</td>
+			<td>100</td>
+			<td>30</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">X Festulolium</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">60</p>
-			</td>
+			<td>x Festulolium</td>
+			<td>10</td>
+			<td>200</td>
+			<td>60</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium multiflorum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">60</p>
-			</td>
+			<td>Lolium multiflorum</td>
+			<td>10</td>
+			<td>200</td>
+			<td>60</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium perenne</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">60</p>
-			</td>
+			<td>Lolium perenne</td>
+			<td>10</td>
+			<td>200</td>
+			<td>60</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium x boucheanum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">60</p>
-			</td>
+			<td>Lolium x hybridum</td>
+			<td>10</td>
+			<td>200</td>
+			<td>60</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phalaris aquatica</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
+			<td>Phalaris aquatica</td>
+			<td>10</td>
+			<td>100</td>
+			<td>50</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum nodosum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
+			<td>Phleum nodosum</td>
+			<td>10</td>
+			<td>50</td>
+			<td>10</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum pratense</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
+			<td>Phleum pratense</td>
+			<td>10</td>
+			<td>50</td>
+			<td>10</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa annua</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
+			<td>Poa annua</td>
+			<td>10</td>
+			<td>50</td>
+			<td>10</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa nemoralis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
+			<td>Poa nemoralis</td>
+			<td>10</td>
+			<td>50</td>
+			<td>5</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa palustris</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
+			<td>Poa palustris</td>
+			<td>10</td>
+			<td>50</td>
+			<td>5</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa pratensis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
+			<td>Poa pratensis</td>
+			<td>10</td>
+			<td>50</td>
+			<td>5</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa trivialis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
+			<td>Poa trivialis</td>
+			<td>10</td>
+			<td>50</td>
+			<td>5</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trisetum flavescens</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
+			<td>Trisetum flavescens</td>
+			<td>10</td>
+			<td>50</td>
+			<td>5</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Fabaceae (Leguminosae)</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>FABACEAE (Leguminosae)</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Galega orientalis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">250</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
+			<td>Biserrula pelecinus.</td>
+			<td>10</td>
+			<td>30</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Hedysarum coronarium</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Galega orientalis Lam.</td>
+			<td>10</td>
+			<td>250</td>
+			<td>200</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">- vruchten</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-			</td>
+			<td>Hedysarum coronarium</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">- zaaizaad</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">400</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">120</p>
-			</td>
+			<td>- vruchten</td>
+			<td>10</td>
+			<td>1.000</td>
+			<td>300</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lotus corniculatus</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
+			<td>- zaaizaad</td>
+			<td>10</td>
+			<td>400</td>
+			<td>120</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus albus</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
+			<td>Lathyrus cicera</td>
+			<td>25</td>
+			<td>1000</td>
+			<td>140</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus angustifolius</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
+			<td>Lotus corniculatus</td>
+			<td>10</td>
+			<td>200</td>
+			<td>30</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus luteus</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
+			<td>Lupinus albus</td>
+			<td>30</td>
+			<td>1.000</td>
+			<td>1.000</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago lupulina</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
+			<td>Lupinus angustifolius</td>
+			<td>30</td>
+			<td>1.000</td>
+			<td>1.000</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago sativa</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
+			<td>Lupinus luteus</td>
+			<td>30</td>
+			<td>1.000</td>
+			<td>1.000</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago x varia</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
+			<td>Medicago doliata</td>
+			<td>10</td>
+			<td>100</td>
+			<td>10</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Onobrychis viciifolia</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Medicago italic</td>
+			<td>10</td>
+			<td>100</td>
+			<td>10</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">- vruchten</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">600</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">600</p>
-			</td>
+			<td>Medicago littoralis</td>
+			<td>10</td>
+			<td>70</td>
+			<td>7</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">- zaaizaad</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">400</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">400</p>
-			</td>
+			<td>Medicago lupulina</td>
+			<td>10</td>
+			<td>300</td>
+			<td>50</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Pisum sativum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
+			<td>Medicago murex</td>
+			<td>10</td>
+			<td>50</td>
+			<td>5</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium alexandrinum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">400</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">60</p>
-			</td>
+			<td>Medicago polymorpha</td>
+			<td>10</td>
+			<td>70</td>
+			<td>7</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium hybridum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
+			<td>Medicago rugose</td>
+			<td>10</td>
+			<td>180</td>
+			<td>18</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium incarnatum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">500</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">80</p>
-			</td>
+			<td>Medicago sativa</td>
+			<td>10</td>
+			<td>300</td>
+			<td>50</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium pratense</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-			</td>
+			<td>Medicago scutellata</td>
+			<td>10</td>
+			<td>400</td>
+			<td>40</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium repens</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
+			<td>Medicago truncatula</td>
+			<td>10</td>
+			<td>100</td>
+			<td>10</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium resupinatum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-			</td>
+			<td>Medicago x varia</td>
+			<td>10</td>
+			<td>300</td>
+			<td>50</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trigonella foenum-graecum</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">500</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">450</p>
-			</td>
+			<td>Onobrychis viciifolia</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia faba</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
+			<td>- vruchten</td>
+			<td>10</td>
+			<td>600</td>
+			<td>600</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia pannonica</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
+			<td>- zaaizaad</td>
+			<td>10</td>
+			<td>400</td>
+			<td>400</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia sativa</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
+			<td>Ornithopus compressus</td>
+			<td>10</td>
+			<td>120</td>
+			<td>12</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia villosa</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-			</td>
+			<td>Ornithopus sativus</td>
+			<td>10</td>
+			<td>90</td>
+			<td>9</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Andere soorten</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
+			<td>Pisum sativum</td>
+			<td>30</td>
+			<td>1.000</td>
+			<td>1.000</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica napus var. napobrassica</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-			</td>
+			<td>Trifolium alexandrinum</td>
+			<td>10</td>
+			<td>400</td>
+			<td>60</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica oleracea convar. acephala</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-			</td>
+			<td>Trifolium fragiferum</td>
+			<td>10</td>
+			<td>40</td>
+			<td>4</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phacelia tanacetifolia</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">40</p>
-			</td>
+			<td>Trifolium glanduliferum</td>
+			<td>10</td>
+			<td>20</td>
+			<td>2</td>
 		</tr>
 		<tr>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Raphanus sativus var. oleiformis</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-			</td>
-			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-			</td>
+			<td>Trifolium hirtum</td>
+			<td>10</td>
+			<td>70</td>
+			<td>7</td>
+		</tr>
+		<tr>
+			<td>Trifolium hybridum</td>
+			<td>10</td>
+			<td>200</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>Trifolium incarnatum</td>
+			<td>10</td>
+			<td>500</td>
+			<td>80</td>
+		</tr>
+		<tr>
+			<td>Trifolium isthmocarpum</td>
+			<td>10</td>
+			<td>100</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>Trifolium michelianum</td>
+			<td>10</td>
+			<td>25</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>Trifolium pratense</td>
+			<td>10</td>
+			<td>300</td>
+			<td>50</td>
+		</tr>
+		<tr>
+			<td>Trifolium repens</td>
+			<td>10</td>
+			<td>200</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>Trifolium resupinatum</td>
+			<td>10</td>
+			<td>200</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>Trifolium squarrosum</td>
+			<td>10</td>
+			<td>150</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>Trifolium subterraneum</td>
+			<td>10</td>
+			<td>250</td>
+			<td>25</td>
+		</tr>
+		<tr>
+			<td>Trifolium vesiculosum</td>
+			<td>10</td>
+			<td>100</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>Trigonella foenum-graecum</td>
+			<td>10</td>
+			<td>500</td>
+			<td>450</td>
+		</tr>
+		<tr>
+			<td>Vicia benghalensis</td>
+			<td>20</td>
+			<td>1000</td>
+			<td>120</td>
+		</tr>
+		<tr>
+			<td>Vicia faba</td>
+			<td>30</td>
+			<td>1.000</td>
+			<td>1.000</td>
+		</tr>
+		<tr>
+			<td>Vicia pannonica</td>
+			<td>30</td>
+			<td>1.000</td>
+			<td>1.000</td>
+		</tr>
+		<tr>
+			<td>Vicia sativa</td>
+			<td>30</td>
+			<td>1.000</td>
+			<td>1.000</td>
+		</tr>
+		<tr>
+			<td>Vicia villosa</td>
+			<td>30</td>
+			<td>1.000</td>
+			<td>1.000</td>
+		</tr>
+		<tr>
+			<td>ANDERE SOORTEN</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Brassica napus var.napobrassica</td>
+			<td>10</td>
+			<td>200</td>
+			<td>100</td>
+		</tr>
+		<tr>
+			<td>Brassica oleracea convar. acephala</td>
+			<td>10</td>
+			<td>200</td>
+			<td>100</td>
+		</tr>
+		<tr>
+			<td>Phacelia tanacetifolia</td>
+			<td>10</td>
+			<td>300</td>
+			<td>40</td>
+		</tr>
+		<tr>
+			<td>Plantago lanceolata</td>
+			<td>5</td>
+			<td>20</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>Raphanus sativus var.oleiformis</td>
+			<td>10</td>
+			<td>300</td>
+			<td>300</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p>Het maximumgewicht van de partij mag niet met meer dan 5 % worden overschreden.<br>
 <br>
-(*) Het maximumgewicht van de partij mag verhoogd worden tot 25 ton als de leverancier daarvoor erkend is door de bevoegde entiteit.</p>
+Het maximumgewicht van de partij mag niet met meer dan 5 % worden overschreden.
 
 ### BIJLAGE IV
 
