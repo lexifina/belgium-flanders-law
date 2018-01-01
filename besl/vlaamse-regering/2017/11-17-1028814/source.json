@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028814,
+  "title": "Besluit van de Vlaamse Regering van 2017-11-17 betreffende het flexibele kortverblijf in een erkende groep van assistentiewoningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028814/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "14fe5407b9b0e9f4bd7a0955f1f4867ad6dd9f617103903d051540e860c32abf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028814&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-11-17",
+  "gazette": "2017-12-14",
+  "numac": 2017040951,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
