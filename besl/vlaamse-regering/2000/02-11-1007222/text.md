@@ -43,7 +43,14 @@ Het personeelslid dat op de dag waarop de door hem aangevraagde volledige terbes
 
 ### ART. 8.
 
-§ 1. Gedurende de volledige terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen mag het personeelslid in het onderwijs of de centra voor leerlingenbegeleiding geen bezoldigde prestaties uitoefenen.<br /><br />§ 2. In afwijking van § 1 mag het personeelslid de onderwijsopdracht die het op de dag voor de ingangsdatum van de terbeschikkingstelling, als bijbetrekking in het volwassenenonderwijs of deeltijds kunstonderwijs uitoefende, verder blijven uitoefenen als bijbetrekking. Het personeelslid mag ook bezoldigde prestaties uitoefenen in het kader van<br />1° de voor- en naschoolse opvang in het basisonderwijs;<br />2° het middagtoezicht in het basisonderwijs;<br />3° de busbegeleiding.<br /><br />§ 3. Buiten het onderwijs mag het betrokken personeelslid geen andere winstgevende activiteit uitoefenen dan de activiteit die toegestaan is bij cumulatie van een rustpensioen met een beroepsactiviteit, zoals bepaald in artikel 4, en artikel 9 van de wet van 5 april 1994 houdende regeling van de cumulatie van pensioenen van de openbare sector met inkomsten voortvloeiend uit de uitoefening van een beroepsactiviteit of met een vervangingsinkomen.
+§ 1. Gedurende de volledige terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen mag het personeelslid in het onderwijs of de centra voor leerlingenbegeleiding geen bezoldigde prestaties uitoefenen.<br>
+<br>
+§ 2. In afwijking van § 1 mag het personeelslid de onderwijsopdracht die het op de dag voor de ingangsdatum van de terbeschikkingstelling, als bijbetrekking in het volwassenenonderwijs of deeltijds kunstonderwijs uitoefende, verder blijven uitoefenen als bijbetrekking. Het personeelslid mag ook bezoldigde prestaties uitoefenen in het kader van<br>
+1° de voor- en naschoolse opvang in het basisonderwijs;<br>
+2° het middagtoezicht in het basisonderwijs;<br>
+3° de busbegeleiding.<br>
+<br>
+§ 3. Buiten het onderwijs mag het betrokken personeelslid geen andere winstgevende activiteit uitoefenen dan de activiteit die toegestaan is bij cumulatie van een rustpensioen met een beroepsactiviteit, zoals bepaald in de artikelen 76, 80, 85, 86 en 89 van titel 8, hoofdstuk 1 van de programmawet van 28 juni 2013.
 
 ### ART. 9.
 
