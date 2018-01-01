@@ -44,9 +44,7 @@ c) het project FCUD bezorgt de aanwezigheidsdagen, de inkomsten, de uitgaven en 
 <br>
 Voor een project FCUD dat als enige opvangactiviteit buitenschoolse opvang heeft, geldt de voorwaarde, vermeld in het eerste lid, 3°, niet, maar geldt als voorwaarde dat de subsidie, vermeld in het eerste lid, 2°, ingezet wordt op een opvanglocatie met een erkenning voor buitenschoolse groepsopvang en die voldoet aan de voorwaarden voor een subsidie voor initiatief buitenschoolse opvang.<br>
 <br>
-Voor een project FCUD dat als enige activiteit regionale coördinatie van buitenschoolse opvang heeft, geldt, boven op de voorwaarde, vermeld in het eerste lid, 3°, dat het project FCUD:<br>
-1° een of meer samenwerkingsovereenkomsten heeft met een organisator van buitenschoolse groepsopvang met een subsidie voor initiatief buitenschoolse opvang of buitenschoolse groepsopvang met een subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte als het project zelf niet gemiddeld vijfhonderd kinderen per dag opvangt. Door middel van de samenwerkingsovereenkomsten moet voldaan worden aan de voorwaarde om per dag gemiddeld meer dan vijfhonderd kinderen op te vangen;<br>
-2° als het geval, vermeld in punt 1°, van toepassing is, een overzicht van de samenwerkingsovereenkomsten bezorgt aan Kind en Gezin, volgens de administratieve richtlijnen van Kind en Gezin.<br>
+Voor een project FCUD dat als enige activiteit regionale coördinatie van buitenschoolse opvang heeft, stopt de subsidie met ingang van 1 januari 2019. Voor een project FCUD dat niet als enige activiteit regionale coördinatie van buitenschoolse opvang heeft, wordt de subsidie voor die regionale coördinatie van buitenschoolse opvang stopgezet met ingang van 1 januari 2019.<br>
 &nbsp;
 
 ## HOOFDSTUK 3 Project gesco
