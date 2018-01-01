@@ -8,7 +8,22 @@ Dit besluit is van toepassing op de diensten van de Vlaamse regering en op   de 
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° budgettair   implementatieplan: plan dat de uitvoering van en het toezicht op de aanwending   regelt van kredieten die ingeschreven zijn op één of meerdere basisallocaties   van de begroting;<BR>2° project: uitgave in de vorm van een overheidsopdracht,   een overeenkomst, een semi-gereglementeerde of facultatieve subsidie;<BR>3°   verrekening: de definitie, vermeld in artikel 2, 18°, van het koninklijk besluit   van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de   overheidsopdrachten en van de concessies voor openbare werken;<BR>4°   semi-gereglementeerde subsidie: een financiële bijdrage die door de bevoegde   overheid aan de aanvrager kan toegekend worden zodra de aanvrager het bewijs   levert dat hij aan alle reglementaire toekenningsvoorwaarden voldaan   heeft;<BR>5° facultatieve subsidie: een financiële bijdrage die door de bevoegde   overheid aan de begunstigde wordt toegekend onder de voorwaarden die in het   subsidiebesluit bepaald worden;<BR>6° budgettair draaiboek: becommentarieerde   rekenbladen die een reglementering of een ander kostenmechanisme analyseren door   per kostensoort de samenstellende parameters en de kostendrijvers ervan te   beschrijven;<BR>7° de functioneel bevoegde minister: de Vlaamse minister die   bevoegd is om de kredieten die ingeschreven zijn op basisallocaties van één of   meerdere programma's van de begroting aan te wenden;<BR>8° coördinator: de   inspecteur van Financiën die door de inspecteurs van Financiën die   geaccrediteerd zijn bij de Vlaamse Gemeenschap gekozen wordt om als woordvoerder   en cordinator van het korps op te treden;<BR>9° het departement Financiën en   Begroting: de entiteit die binnen het Vlaams ministerie van Financiën en   Begroting bevoegd is om de minister, bevoegd voor de begroting, bij te staan,   ondermeer inzake de jaarlijkse begrotingsopmaak en de opmaak van de   meerjarenbegroting, alsook inzake de controle op de uitvoering van de   begroting;<BR>10° bestelling: een concrete opdracht die in het kader van een   raamovereenkomst of een dynamisch aankoopsysteem wordt geplaatst.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° budgettair implementatieplan: plan dat de uitvoering van en het toezicht op de aanwending regelt van kredieten die ingeschreven zijn op één of meerdere basisallocaties van de begroting;<br>
+2° project: uitgave in de vorm van een overheidsopdracht, een overeenkomst, een semi-gereglementeerde of facultatieve subsidie;<br>
+3° verrekening: de definitie, vermeld in artikel 2, 18°, van het koninklijk besluit van 14 januari 2013 tot bepaling van de algemene uitvoeringsregels van de overheidsopdrachten en van de concessies voor openbare werken;<br>
+4° semi-gereglementeerde subsidie: een financiële bijdrage die door de bevoegde overheid aan de aanvrager kan toegekend worden zodra de aanvrager het bewijs levert dat hij aan alle reglementaire toekenningsvoorwaarden voldaan heeft;<br>
+5° facultatieve subsidie: een financiële bijdrage die door de bevoegde overheid aan de begunstigde wordt toegekend onder de voorwaarden die in het subsidiebesluit bepaald worden;<br>
+6° budgettair draaiboek: becommentarieerde rekenbladen die een reglementering of een ander kostenmechanisme analyseren door per kostensoort de samenstellende parameters en de kostendrijvers ervan te beschrijven;<br>
+7° de functioneel bevoegde minister: de Vlaamse minister die bevoegd is om de kredieten die ingeschreven zijn op basisallocaties van één of meerdere programma's van de begroting aan te wenden;<br>
+8° coördinator: de inspecteur van Financiën die door de inspecteurs van Financiën die geaccrediteerd zijn bij de Vlaamse Gemeenschap gekozen wordt om als woordvoerder en cordinator van het korps op te treden;<br>
+9° het departement Financiën en Begroting: de entiteit die binnen het Vlaams ministerie van Financiën en Begroting bevoegd is om de minister, bevoegd voor de begroting, bij te staan, ondermeer inzake de jaarlijkse begrotingsopmaak en de opmaak van de meerjarenbegroting, alsook inzake de controle op de uitvoering van de begroting;<br>
+10° bestelling: een concrete opdracht die in het kader van een raamovereenkomst of een dynamisch aankoopsysteem wordt geplaatst;<br>
+11° wet van 17 juni 2016: de wet van 17 juni 2016 inzake overheidsopdrachten;<br>
+12° prijs: het gunningscriterium prijs, vermeld in artikel 81, § 2, eerste lid, 1°, van de wet van 17 juni 2016;<br>
+13° kosten: het gunningscriterium kosten, vermeld in artikel 81, § 2, eerste lid, 2°, van de wet van 17 juni 2016;<br>
+14° werking en toelage: de begrotingskredieten met het ESR-aggregaat WT;<br>
+15° interne stroom: de begrotingskredieten met het ESR-aggregaat IS.
 
 ## HOOFDSTUK II HET ALGEMEEN BEGROTINGSBELEID
 
@@ -32,7 +47,30 @@ Na raadpleging van de coördinator wijst de Vlaamse regering aan elke inspecteur
 
 ### ART. 6.
 
-§ 1. Ten aanzien van elk voorstel dat ter beslissing aan de Vlaamse   Regering wordt voorgelegd en waardoor ofwel de ontvangsten ofwel de uitgaven   beïnvloed kunnen worden, moet de functioneel bevoegde minister het gemotiveerde   begrotingsakkoord inwinnen van de Vlaamse minister, bevoegd voor de begroting.   Die beslist over het gevraagde begrotingsakkoord binnen een termijn van twaalf   werkdagen na de ontvangst van de aanvraag tot het verlenen van het   begrotingsakkoord. De aanvraag moet het advies van de bevoegde inspecteur van   Financiën bevatten en, in voorkomend geval, een repliek op dat advies.<BR><BR>§   2. Het akkoord van de Vlaamse minister, bevoegd voor de begroting, is eveneens   vereist voor elke verwerving van onroerende goederen met uitzondering van de   verwerving van:<BR>1° onroerende goederen met toepassing van de wet van 28   december 1967 betreffende de onbevaarbare waterlopen;<BR>2° onroerende goederen   voor de uitvoering van het beleid inzake de openbare werken en het vervoer,   zoals vermeld in artikel 6, § 1, X, van de bijzondere wet van 8 augustus 1980   tot hervorming der instellingen, voor zover de budgettaire weerslag van de   verwerving niet meer dan 1 miljoen euro bedraagt;<BR>3° bossen, groengebieden,   natuurgebieden, viswaters en gronden voor de aanleg van openbare groene ruimten,   voor zover de budgettaire weerslag van de verwerving niet meer dan 750 000 euro   bedraagt.<BR><BR>§ 2bis. ... <BR><BR>§ 2ter. Het akkoord van de Vlaamse   minister, bevoegd voor de begroting, is eveneens vereist voor de erkenning van   vorderingen als lasten van het verleden, vermeld in artikel 53, § 2, tweede lid,   1°, van het decreet van 21 december 1994 houdende bepalingen tot begeleiding van   de begroting 1995. <BR><BR>§ 3. De aanvraag tot het verlenen van het   begrotingsakkoord is onontvankelijk als de budgettaire gevolgen voor het lopende   begrotingsjaar en de daaropvolgende jaren niet op een transparante wijze,   inclusief de berekening van de ESR-impact van de voorgestelde maatregelen, zijn   weergegeven.<BR><BR>§ 4. Het departement Financiën en Begroting kan de nodige   informatie opvragen om de budgettaire gevolgen te kunnen inschatten van het   beleid van de functioneel bevoegde minister voor het lopende begrotingsjaar en   de daaropvolgende begrotingsjaren.<BR><BR>§ 5. Het gemotiveerd begrotingsakkoord   is niet vereist indien in toepassing van artikel 15, § 2, geen advies van de   inspecteur van Financiën vereist is, of indien de Inspecteur van Financiën in   zijn advies vaststelt dat noch de uitgaven noch de ontvangsten worden beïnvloed.   <BR><BR>§ 6. Ingeval van een gunstig advies van de Inspecteur van Financiën, is   het gemotiveerd begrotingsakkoord niet vereist over standpuntbepalingen in het   kader van de institutionele samenwerking tussen de federale staat en de   gemeenschappen en gewesten. <BR><BR>§ 7. Indien de Vlaamse minister, bevoegd   voor de begroting, het begrotingsakkoord weigert, of indien hij geen beslissing   heeft meegedeeld binnen de termijn van twaalf werkdagen kan de functioneel   bevoegde minister zijn voorstel ter beslissing voorleggen aan de Vlaamse   Regering.
+§ 1. Ten aanzien van elk voorstel dat ter beslissing aan de Vlaamse Regering wordt voorgelegd en waardoor ofwel de ontvangsten ofwel de uitgaven beïnvloed kunnen worden, moet de functioneel bevoegde minister het gemotiveerde begrotingsakkoord inwinnen van de Vlaamse minister, bevoegd voor de begroting. Die beslist over het gevraagde begrotingsakkoord binnen een termijn van twaalf werkdagen na de ontvangst van de aanvraag tot het verlenen van het begrotingsakkoord. De aanvraag moet het advies van de bevoegde inspecteur van Financiën bevatten en, in voorkomend geval, een repliek op dat advies.<br>
+<br>
+§ 2. Het akkoord van de Vlaamse minister, bevoegd voor de begroting, is eveneens vereist voor elke verwerving van onroerende goederen met uitzondering van de verwerving van:<br>
+1° onroerende goederen met toepassing van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen;<br>
+2° onroerende goederen voor de uitvoering van het beleid inzake de openbare werken en het vervoer, zoals vermeld in artikel 6, § 1, X, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, voor zover de budgettaire weerslag van de verwerving niet meer dan 1 miljoen euro bedraagt;<br>
+3° bossen, groengebieden, natuurgebieden, viswaters en gronden voor de aanleg van openbare groene ruimten, voor zover de budgettaire weerslag van de verwerving niet meer dan 750 000 euro bedraagt.<br>
+<br>
+§ 2bis. ...<br>
+<br>
+§ 2ter. Het akkoord van de Vlaamse minister, bevoegd voor de begroting, is eveneens vereist voor de erkenning van vorderingen als lasten van het verleden, vermeld in artikel 53, § 2, tweede lid, 1°, van het decreet van 21 december 1994 houdende bepalingen tot begeleiding van de begroting 1995.<br>
+<br>
+§ 2quater. Het akkoord van de Vlaamse minister, bevoegd voor de begroting, is ook vereist voor beslissingen waarbij de gewestwaarborg of de gemeenschapswaarborg wordt verleend voor een gecumuleerd bedrag, per natuurlijke persoon of per rechtspersoon, van meer dan 5.000.000 euro.<br>
+<br>
+§ 2quinquies. Het akkoord van de Vlaamse minister, bevoegd voor de begroting, is ook vereist voor het overschrijden van kredieten bij noodwendige of dringende uitgaven.<br>
+<br>
+§ 3. De aanvraag tot het verlenen van het begrotingsakkoord is onontvankelijk als de budgettaire gevolgen voor het lopende begrotingsjaar en de daaropvolgende jaren niet op een transparante wijze, inclusief de berekening van de ESR-impact van de voorgestelde maatregelen, zijn weergegeven.<br>
+<br>
+§ 4. Het departement Financiën en Begroting kan de nodige informatie opvragen om de budgettaire gevolgen te kunnen inschatten van het beleid van de functioneel bevoegde minister voor het lopende begrotingsjaar en de daaropvolgende begrotingsjaren.<br>
+<br>
+§ 5. Het gemotiveerd begrotingsakkoord is niet vereist indien in toepassing van artikel 15, § 2, geen advies van de inspecteur van Financiën vereist is, of indien de Inspecteur van Financiën in zijn advies vaststelt dat noch de uitgaven noch de ontvangsten worden beïnvloed.<br>
+<br>
+§ 6. Ingeval van een gunstig advies van de Inspecteur van Financiën, is het gemotiveerd begrotingsakkoord niet vereist over standpuntbepalingen in het kader van de institutionele samenwerking tussen de federale staat en de gemeenschappen en gewesten.<br>
+<br>
+§ 7. Indien de Vlaamse minister, bevoegd voor de begroting, het begrotingsakkoord weigert, of indien hij geen beslissing heeft meegedeeld binnen de termijn van twaalf werkdagen kan de functioneel bevoegde minister zijn voorstel ter beslissing voorleggen aan de Vlaamse Regering.
 
 ### ART. 7.
 
@@ -86,7 +124,34 @@ In opdracht van de Vlaamse minister, bevoegd voor de begroting, en na overleg me
 
 ### ART. 15.
 
-§ 1. Het voorafgaand advies van de inspecteur van Financiën is verplicht   voor ieder voorstel dat ter beslissing aan de Vlaamse regering wordt voorgelegd.   Het voorafgaand advies van de Inspecteur van Financiën is eveneens verplicht   voor:<BR>1° elk ontwerp van reglementair ministerieel besluit of van omzendbrief   met een budgettaire weerslag;<BR>2° voorstellen die krachtens artikel 6, § 2 en   § 2ter, het begrotingsakkoord vereisen; <BR>3° ontwerpen van reorganisatie- en   personeelsplannen en ontwerpen van ondernemingsplannen;<BR>4° voorstellen met   betrekking tot:<BR>a) de herverdelingen, vermeld in artikel 20, § 1, van het   decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de   toekenning van subsidies en de controle op de aanwending ervan, en de controle   door het Rekenhof;<BR>b) de herverdelingen, vermeld in artikel 20, § 2, van   hetzelfde decreet, als het herverdelingen met betrekking tot kredietverleningen,   deelnemingen en de aflossing van overheidsschuld betreft;<BR>c) de   herverdelingen, vermeld in artikel 20, § 2, van hetzelfde decreet, als het   herverdelingen betreft tussen verschillende programma's die behoren tot   hetzelfde beleidsdomein;<BR>d) de herverdelingen van de vastleggingskredieten,   vermeld in artikel 20, § 3, van hetzelfde decreet;<BR>e) de herverdelingen van   de vereffeningskredieten, vermeld in artikel 20, § 3, van hetzelfde decreet, als   het herverdelingen met betrekking tot kredietverleningen, deelnemingen, de   aflossing van overheidsschuld, het over te dragen saldo en de spijziging van het   reservefonds betreft;<BR>f) de herverdelingen van kredieten of overschrijdingen   van limitatieve kredieten van een Vlaamse rechtspersoon zonder raad van bestuur,   vermeld in artikel 9, § 1, van het besluit van de Vlaamse Regering van 14   oktober 2011 betreffende de begroting en de boekhouding van de Vlaamse   rechtspersonen;<BR>5° het afsluiten van een meerjarige verbintenis als vermeld   in artikel 7, § 4, 2°, van het besluit van de Vlaamse Regering van 8 november   2013 betreffende de algemene regels inzake subsidiëring. <BR><BR>§ 2. In   afwijking van paragraaf 1 moeten de volgende voorstellen van beslissing niet   voor advies worden voorgelegd :<BR>1° beslissingen met betrekking tot de   aanwijzing, voordracht, benoeming, bevordering van personen;<BR>2° beslissingen   met betrekking tot de evaluatie van topambtenaren;<BR>3° ontwerpen van of   wijzigingen aan ruimtelijke structuur- en uitvoeringsplannen.<BR>4° beslissingen   op krachtlijnen die voorafgaan aan een definitieve beslissing, zoals goedkeuring   van conceptnota's, visienota's, groen- of witboeken, op voorwaarde dat die   beslissingen uitdrukkelijk vermelden dat ze nog geen enkel financieel of   budgettair engagement inhouden;<BR>5° beslissingen tot indiening van een beroep   tot vernietiging bij het Grondwettelijk Hof;<BR>6° besluiten houdende de   toekenning van een toelage aan de diensten met afzonderlijk beheer en de   rechtspersonen als vermeld in artikel 4, § 1, van het decreet van 8 juli 2011   houdende regeling van de begroting, de boekhouding, de toekenning van subsidies   en de controle op de aanwending ervan, en de controle door het   Rekenhof.
+§ 1. Het voorafgaand advies van de inspecteur van Financiën is verplicht voor ieder voorstel dat ter beslissing aan de Vlaamse regering wordt voorgelegd. Het voorafgaand advies van de Inspecteur van Financiën is eveneens verplicht voor:<br>
+1° elk ontwerp van reglementair ministerieel besluit of van omzendbrief met een budgettaire weerslag;<br>
+2° voorstellen die krachtens artikel 6, § 2 en § 2ter, het begrotingsakkoord vereisen;<br>
+3° ontwerpen van reorganisatie- en personeelsplannen en het eerste ondernemingsplan van een regeerperiode;<br>
+4° voorstellen met betrekking tot:<br>
+a) de herverdelingen, vermeld in artikel 20, § 1, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof;<br>
+b) de herverdelingen, vermeld in artikel 20, § 2, van hetzelfde decreet, als het herverdelingen met betrekking tot kredietverleningen, deelnemingen en de aflossing van overheidsschuld betreft;<br>
+c) de herverdelingen, vermeld in artikel 20, § 2, van hetzelfde decreet, als het herverdelingen betreft tussen verschillende programma's die behoren tot hetzelfde beleidsdomein;<br>
+d) de herverdelingen van de vastleggingskredieten, vermeld in artikel 20, § 3, van hetzelfde decreet;<br>
+e) de herverdelingen van de vereffeningskredieten, vermeld in artikel 20, § 3, van hetzelfde decreet, als het herverdelingen met betrekking tot kredietverleningen, deelnemingen, de aflossing van overheidsschuld, het over te dragen saldo en de spijziging van het reservefonds betreft;<br>
+f) de herverdelingen van kredieten of overschrijdingen van limitatieve kredieten van een Vlaamse rechtspersoon zonder raad van bestuur, vermeld in artikel 9, § 1, van het besluit van de Vlaamse Regering van 14 oktober 2011 betreffende de begroting en de boekhouding van de Vlaamse rechtspersonen, met uitzondering van de herverdelingen, vermeld in artikel 9/1, § 1, tweede lid, van het voormelde besluit;<br>
+g) de herverdelingen van vastleggingskredieten overheen programma's;<br>
+5° het afsluiten van een meerjarige verbintenis als vermeld in artikel 7, § 4, 2°, van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring;<br>
+6° leningen en kredieten uit te geven, en participaties aan te gaan, vanaf een bedrag groter dan 7000 euro, behalve als dat gebeurt ter uitvoering van een samenwerkingsovereenkomst die al voor advies werd voorgelegd aan de inspecteur van Financiën, of als dat gebeurt in het kader van de toepassing van artikel 12, § 3, 3°, van het besluit van de Vlaams Regering van 25 juli 2014 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering.<br>
+<br>
+Het ondernemingsplan voor het lopende kalenderjaar, dat niet het eerste ondernemingsplan van een regeerperiode is, wordt ter kennisgeving voorgelegd aan de inspecteur van Financiën en de Vlaamse minister, bevoegd voor de begroting.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 moeten de volgende voorstellen van beslissing niet voor advies worden voorgelegd :<br>
+1° beslissingen met betrekking tot de aanwijzing, voordracht, benoeming, bevordering van personen;<br>
+2° beslissingen met betrekking tot de evaluatie van topambtenaren;<br>
+3° ontwerpen van of wijzigingen aan ruimtelijke structuur- en uitvoeringsplannen.<br>
+4° beslissingen op krachtlijnen die voorafgaan aan een definitieve beslissing, zoals goedkeuring van conceptnota's, visienota's, groen- of witboeken, op voorwaarde dat die beslissingen uitdrukkelijk vermelden dat ze nog geen enkel financieel of budgettair engagement inhouden;<br>
+5° beslissingen tot indiening van een beroep tot vernietiging bij het Grondwettelijk Hof;<br>
+6° besluiten houdende de toekenning van een toelage aan de diensten met afzonderlijk beheer en de rechtspersonen als vermeld in artikel 4, § 1, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof;<br>
+7° herverdelingen van een vastleggingskrediet van een werking en toelage naar een interne stroom binnen eenzelfde inhoudelijk structuurelement en binnen hetzelfde programma;<br>
+8° herverdelingen van interne stroom naar werking en toelage als in hetzelfde begrotingsjaar al een herverdeling van werking en toelage naar interne stroom heeft plaatsgevonden tussen de artikels in kwestie, en als de herverdeling het daarbij herverdeelde bedrag niet overschrijdt;<br>
+9° herverdelingen van vastleggingskredieten binnen hetzelfde programma die worden toegestaan in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br>
+10° herverdelingen van vereffeningskredieten die worden toegestaan in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
 
 ### ART. 16.
 
@@ -102,7 +167,78 @@ Onverminderd artikel 15 kan, voor welbepaalde begrotingskredieten, het toezicht 
 
 ### ART. 18.
 
-<P>§ 1. Inzake overheidsopdrachten moet het advies gevraagd worden aan de   inspecteur van Financiën als de geraamde waarde van de opdracht de volgende   drempelbedragen (exclusief btw) bereikt:<BR>1° als de opdracht gegund wordt door   middel van een open of beperkte aanbesteding:<BR>a) voor een opdracht van werken   of van leveringen: 500.000 euro;<BR>b) voor een opdracht van diensten: 250.000   euro;<BR>2° als de opdracht gegund wordt door middel van een open of beperkte   offerteaanvraag:<BR>a) voor een opdracht van werken of van leveringen: 150.000   euro;<BR>b) voor een opdracht van diensten: 85.000 euro;<BR>3° als de opdracht   gegund wordt door middel van een onderhandelingsprocedure met   bekendmaking:<BR>a) voor een opdracht van werken of van leveringen: 150.000   euro;<BR>b) voor een opdracht van diensten: 85.000 euro;<BR>4° als de opdracht   gegund wordt door middel van een onderhandelingsprocedure zonder bekendmaking:   85.000 euro;<BR>5° als de opdracht gegund wordt door middel van een   concurrentiedialoog: 200.000 euro.<BR><BR>§ 2/1. Voor overheidsopdrachten die de   bovenvermelde drempelbedragen bereiken, wordt het advies gevraagd aan de   inspecteur van Financiën over:<BR>1° de motivering voor de principiële   uitvoering van de opdracht en de keuze van de gunningsprocedure;<BR>2° het   ontwerp van bestek of de opdrachtdocumenten;<BR>3° het voorstel tot gunning van   een raamovereenkomst;<BR>4° het voorstel tot gunning op basis van het   vergelijkend gunningsverslag.<BR><BR>§ 2/2. Voor de selectiebeslissing in het   kader van een beperkte procedure, onderhandelingsprocedure met bekendmaking of   concurrentiedialoog en de selectiebeslissing en beoordelingsbeslissing van de   indicatieve offertes in het kader van een dynamisch aankoopsysteem, kan het   advies van de Inspectie van Financiën vrijblijvend aangevraagd   worden.<BR><BR>Het advies van de Inspectie van Financiën dient voor deze   aangelegenheden verplicht aangevraagd als de geraamde waarde van de opdracht de   volgende drempelbedragen (exclusief btw) bereikt:<BR>1° 20.000.000 euro voor   werken;<BR>2° 10.000.000 euro voor leveringen;<BR>3° 5.000.000 euro voor   diensten.<BR><BR>§ 3. Ongeacht de geraamde waarde van de opdracht moeten de   volgende overheidsopdrachten altijd voor advies worden voorgelegd:<BR>1° de   overheidsopdracht die gegund wordt door middel van een open of beperkte   aanbesteding, waarbij de aanbestedende overheid voorstelt de opdracht niet aan   de laagste inschrijver toe te wijzen;<BR>2° elke overheidsopdracht die de raming   met meer dan 20% overschrijdt.<BR><BR>§ 4. Overeenkomsten op basis van een   onderhandelingsprocedure zonder bekendmaking in de zin van artikel 26, § 1,   eerste lid, 2°, 3° en 4°, van de wet van 15 juni 2006 betreffende de   overheidsopdrachten en bepaalde opdrachten voor werken, leveringen en diensten,   die gegund worden aan de opdrachtnemer van de oorspronkelijke opdracht, worden   voor advies voorgelegd aan de inspecteur van Financiën als het drempelbedrag,   vermeld in artikel 18, § 1, 4°, bereikt wordt.<BR><BR>§ 5. Na overleg met de   bevoegde inspecteur van Financiën wordt in een protocol dat gesloten wordt   tussen de Vlaamse minister, bevoegd voor de begroting, en de functioneel   bevoegde minister, bepaald vanaf welk bedrag of vanaf welk relatief aandeel een   wijziging van een opdracht voor voorafgaand advies aan de inspecteur van   Financiën moet worden voorgelegd.<BR><BR>In voorkomend geval kan in dat protocol   bepaald worden in welke mate de termijn van twaalf werkdagen, vermeld in artikel   10, derde lid, ingekort wordt, zonder dat die termijn minder dan vier werkdagen   bedraagt, op voorwaarde dat de interne administratieve behandeling van de   wijziging van een opdracht volgens dezelfde termijn verloopt.<BR><BR>§ 6.   Bestellingen in het kader van een raamovereenkomst waar alle contractuele   voorwaarden vastliggen, moeten voor advies worden voorgelegd aan de inspecteur   van Financiën als de volgende drempelbedragen (exclusief btw) worden   bereikt:<BR>1° 500.000 euro voor werken;<BR>2° 300.000 euro voor   leveringen;<BR>2° 100.000 euro voor diensten.<BR><BR>Als de bestelling bestaat   uit continue prestaties, zoals exploitatie en recurrent onderhoud, slaan de   bovenvermelde drempelbedragen op het geraamde totale bedrag van de bestelling   over twaalf maanden, conform de bepalingen over de raming, vermeld in artikel 24   tot en met 28 van het koninklijk besluit van 15 juli 2011 plaatsing   overheidsopdrachten klassieke sectoren. Indien de looptijd van de prestatie van   de bestelling langer dan twaalf maanden bedraagt, dient de volledige bestelling   afgetoetst aan de drempels van het eerste lid.<BR><BR>§ 7. Bestellingen in het   kader van een raamovereenkomst waar niet alle contractuele voorwaarden   vastliggen of in het kader van een dynamisch aankoopsysteem moeten voor advies   worden voorgelegd aan de inspecteur van Financiën als het drempelbedrag   (exclusief btw) van 85.000 euro wordt bereikt.<BR><BR>Als de bestelling bestaat   uit continue prestaties, zoals exploitatie en recurrent onderhoud, slaat het   bovenvermelde drempelbedrag op het geraamde totale bedrag van de bestelling over   twaalf maanden, conform de bepalingen over de raming, vermeld in artikel 24 tot   en met 28 van het koninklijk besluit van 15 juli 2011 plaatsing   overheidsopdrachten klassieke sectoren. Indien de looptijd van de prestatie van   de bestelling langer dan twaalf maanden bedraagt, dient de volledige bestelling   afgetoetst aan de drempels van het eerste lid.<BR><BR>§ 8. Bestellingen in het   kader van een raamovereenkomst of dynamisch aankoopsysteem, gesloten door een   rechtspersoon die niet onder het toepassingsgebied van dit besluit valt, moeten   voor advies worden voorgelegd aan de inspecteur van Financiën als het   drempelbedrag (exclusief btw) van 85.000 euro wordt bereikt.<BR><BR>Als de   bestelling bestaat uit continue prestaties, zoals exploitatie en recurrent   onderhoud, slaat het bovenvermelde drempelbedrag op het geraamde totale bedrag   van de bestelling over twaalf maanden, conform de bepalingen over de raming,   vermeld in artikel 24 tot en met 28 van het koninklijk besluit van 15 juli 2011   plaatsing overheidsopdrachten klassieke sectoren. Indien de looptijd van de   prestatie van de bestelling langer dan twaalf maanden bedraagt, dient de   volledige bestelling afgetoetst aan de drempels van het eerste lid.<BR><BR>§ 9.   Overeenkomsten die niet als een overheidsopdracht gekwalificeerd worden, moeten   voor advies worden voorgelegd aan de inspecteur van Financiën vanaf een bedrag   van 85.000 euro (exclusief btw).</P>
+<p>§ 1. Voor overheidsopdrachten wordt het advies gevraagd aan de inspecteur van Financiën als de geraamde waarde van de opdracht de volgende drempelbedragen, exclusief btw, bereikt:<br>
+1° als de opdracht wordt geplaatst met een openbare of niet-openbare procedure met als enige gunningscriterium de prijs:<br>
+a) voor een opdracht van werken of van leveringen: 500.000 euro;<br>
+b) voor een opdracht van diensten: 250.000 euro;<br>
+2° als de opdracht wordt geplaatst met een openbare of niet-openbare procedure en met kosten als enige gunningscriterium, of op basis van de beste prijs-kwaliteitsverhouding:<br>
+a) voor een opdracht van werken of van leveringen: 150.000 euro;<br>
+b) voor een opdracht van diensten: 85.000 euro;<br>
+3° als de opdracht wordt geplaatst met een mededingingsprocedure met onderhandeling, een onderhandelingsprocedure met voorafgaande oproep tot mededinging, vereenvoudigde onderhandelingsprocedure met bekendmaking of vereenvoudigde onderhandelingsprocedure met voorafgaande oproep tot mededinging:<br>
+a) voor een opdracht van werken of van leveringen: 150.000 euro;<br>
+b) voor een opdracht van diensten: 85.000 euro;<br>
+4° als de opdracht wordt geplaatst met een onderhandelingsprocedure zonder voorafgaande bekendmaking of een onderhandelingsprocedure zonder voorafgaande oproep tot mededinging: 85.000 euro;<br>
+5° als de opdracht wordt geplaatst met een concurrentiegerichte dialoog of een innovatiepartnerschap: 200.000 euro.<br>
+<br>
+§ 2/1. Voor overheidsopdrachten die de bovenvermelde drempelbedragen bereiken, wordt het advies gevraagd aan de inspecteur van Financiën over:<br>
+1° de motivering voor de principiële plaatsing van de opdracht en de keuze van de plaatsingsprocedure;<br>
+2° het ontwerp van bestek of de opdrachtdocumenten;<br>
+3° het voorstel tot gunning van een raamovereenkomst;<br>
+4° het voorstel tot gunning op basis van het vergelijkend gunningsverslag.<br>
+<br>
+§ 2/2. Voor de selectiebeslissing in het kader van een&nbsp;niet-openbare procedure, mededingingsprocedure met onderhandeling, onderhandelingsprocedure met voorafgaande oproep tot mededinging, concurrentiegerichte dialoog of innovatiepartnerschap en de selectiebeslissing en beoordelingsbeslissing van de indicatieve offertes in het kader van een dynamisch aankoopsysteem, kan het advies van de Inspectie van Financiën vrijblijvend aangevraagd worden.<br>
+<br>
+Het advies van de Inspectie van Financiën dient voor deze aangelegenheden verplicht aangevraagd als de geraamde waarde van de opdracht de volgende drempelbedragen (exclusief btw) bereikt:<br>
+1° 20.000.000 euro voor werken;<br>
+2° 10.000.000 euro voor leveringen;<br>
+3° 5.000.000 euro voor diensten.<br>
+<br>
+§ 3. Ongeacht de geraamde waarde van de opdracht moeten de volgende overheidsopdrachten altijd voor advies worden voorgelegd:<br>
+1° de overheidsopdracht die gegund wordt door middel van een openbare of niet-openbare procedure, met als enig gunningscriterium de prijs, waarbij de aanbestedende overheid voorstelt de opdracht niet aan de laagste inschrijver toe te wijzen;<br>
+2° elke overheidsopdracht die de raming met meer dan 20% overschrijdt.<br>
+<br>
+§ 4. Overeenkomsten op basis van een mededingingsprocedure met onderhandeling waarvoor de bekendmaking niet verplicht is als vermeld in artikel 38, § 1, eerste lid, 2°, van de wet van 17 juni 2016, een onderhandelingsprocedure zonder voorafgaande bekendmaking als vermeld in artikel 42, § 1, eerste lid, 2° tot en met 5°, van de voormelde wet, of een onderhandelingsprocedure zonder voorafgaande oproep tot mededinging als vermeld in artikel 124, § 1, 3° en 6° tot en met 11°, van de voormelde wet, die gegund worden aan de opdrachtnemer van de oorspronkelijke opdracht, worden voor advies voorgelegd aan de inspecteur van Financiën als het drempelbedrag, vermeld in artikel 18, § 1, 4°, bereikt wordt.<br>
+<br>
+§ 5. Na overleg met de bevoegde inspecteur van Financiën moet voor 31 december 2018 een protocol worden afgesloten tussen de Vlaamse minister, bevoegd voor de begroting, en de functioneel bevoegde minister. Dat protocol bepaalt vanaf welk bedrag of vanaf welk relatief aandeel een wijziging van een opdracht voor advies aan de inspecteur van Financiën moet worden voorgelegd.<br>
+<br>
+Als binnen de termijn, vermeld in het eerste lid, geen protocol werd gesloten, wordt, totdat dergelijk protocol wordt gesloten, elke wijziging aan een opdracht zoals een eenzijdige wijziging, een bijakte, een verrekening, een ramingsstaat, of een dading ongeacht of die een impact heeft op de Vlaamse begroting of niet, voor advies voorgelegd aan de inspecteur van Financiën, voor die wijziging wordt aangebracht.<br>
+<br>
+In voorkomend geval kan in dat protocol bepaald worden in welke mate de termijn van twaalf werkdagen, vermeld in artikel 10, derde lid, ingekort wordt, zonder dat die termijn minder dan vier werkdagen bedraagt, op voorwaarde dat de interne administratieve behandeling van de wijziging van een opdracht volgens dezelfde termijn verloopt.<br>
+<br>
+§ 6. Bestellingen waarvoor de raamovereenkomst alle contractuele voorwaarden vastlegt, moeten voor advies worden voorgelegd aan de inspecteur van Financiën als de volgende drempelbedragen (exclusief btw) worden bereikt:<br>
+1° 500.000 euro voor werken;<br>
+2° 300.000 euro voor leveringen;<br>
+2° 100.000 euro voor diensten.<br>
+<br>
+Als de bestelling bestaat uit continue prestaties, zoals exploitatie en recurrent onderhoud, slaan de bovenvermelde drempelbedragen op het geraamde totale bedrag van de bestelling over twaalf maanden, conform de bepalingen over de raming, vermeld in artikel 6 en 7 van het koninklijk besluit plaatsing overheidsopdrachten in de klassieke sectoren van 18 april 2017, en artikel 6 en 7 van het koninklijk besluit plaatsing overheidsopdrachten in de speciale sectoren van 18 juni 2017. Indien de looptijd van de prestatie van de bestelling langer dan twaalf maanden bedraagt, dient de volledige bestelling afgetoetst aan de drempels van het eerste lid.<br>
+<br>
+§ 7. Bestellingen waarvoor de raamovereenkomst niet alle contractuele voorwaarden vastlegt of die worden geplaatst in het kader van een dynamisch aankoopsysteem, worden voor advies voorgelegd aan de inspecteur van Financiën als het drempelbedrag, exclusief btw, van 85.000 euro wordt bereikt.<br>
+<br>
+Als de bestelling bestaat uit continue prestaties, zoals exploitatie en recurrent onderhoud, slaat het bovenvermelde drempelbedrag op het geraamde totale bedrag van de bestelling over twaalf maanden, conform de bepalingen over de raming, vermeld in artikel 6 en 7 van het koninklijk besluit plaatsing overheidsopdrachten in de klassieke sectoren van 18 april 2017, en artikel 6 en 7 van het koninklijk besluit plaatsing overheidsopdrachten in de speciale sectoren van 18 juni 2017. Indien de looptijd van de prestatie van de bestelling langer dan twaalf maanden bedraagt, dient de volledige bestelling afgetoetst aan de drempels van het eerste lid.<br>
+<br>
+§ 8. Bestellingen in het kader van een raamovereenkomst of dynamisch aankoopsysteem, gesloten door een rechtspersoon die niet onder het toepassingsgebied van dit besluit valt, moeten voor advies worden voorgelegd aan de inspecteur van Financiën als het drempelbedrag (exclusief btw) van 85.000 euro wordt bereikt.<br>
+<br>
+Als de bestelling bestaat uit continue prestaties, zoals exploitatie en recurrent onderhoud, slaat het bovenvermelde drempelbedrag op het geraamde totale bedrag van de bestelling over twaalf maanden, conform de bepalingen over de raming, vermeld in artikel 6 en 7 van het koninklijk besluit plaatsing overheidsopdrachten in de klassieke sectoren van 18 april 2017, en artikel 6 en 7 van het koninklijk besluit plaatsing overheidsopdrachten in de speciale sectoren van 18 juni 2017. Indien de looptijd van de prestatie van de bestelling langer dan twaalf maanden bedraagt, dient de volledige bestelling afgetoetst aan de drempels van het eerste lid.<br>
+<br>
+§ 9. Voor occasioneel gezamenlijke opdrachten als vermeld in artikel 48 van de wet van 17 juni 2016, waarbij de betrokken entiteit als aanbestedende overheid optreedt, wordt het advies van de inspecteur van Financiën gevraagd als de drempelbedragen, vermeld in paragraaf 1, worden bereikt.<br>
+<br>
+Voor occasioneel gezamenlijke opdrachten als vermeld in artikel 48 van de voormelde wet, waarbij de betrokken entiteit niet als aanbestedende overheid optreedt, wordt het advies van de inspecteur van Financiën gevraagd als:<br>
+1° het aandeel van de betrokken entiteit in de occasioneel gezamenlijke opdracht de drempelbedragen, vermeld in paragraaf 1, bereikt en het aandeel van de betrokken entiteit kleiner is dan het aandeel van de aanbestedende overheid in de occasioneel gezamenlijke opdracht;<br>
+2° het aandeel van de betrokken entiteit groter is dan het aandeel van de aanbestedende overheid in de occasioneel gezamenlijke opdracht en de waarde van de opdracht de drempelbedragen, vermeld in paragraaf 1, bereikt.<br>
+<br>
+§ 10. Een prijsvraag wordt voor advies voorgelegd als de geraamde waarde van de prijsvraag de volgende bedragen, exclusief btw, bereikt:<br>
+1° in geval van een openbare procedure: 150.000 euro;<br>
+2° in geval van een andere dan de openbare procedure: 85.000 euro.</p>
+
+### ART 18bis.
+
+Overeenkomsten die als een overheidsopdracht worden gekwalificeerd en uitgesloten zijn van de toepassing van de wet van 17 juni 2016 worden voor advies voorgelegd als de geraamde waarde van de overeenkomst 85.000 euro, exclusief btw, bereikt, en dat in voorkomend geval voor:<br>
+1° de principiële beslissing tot het sluiten van de overeenkomst of het plaatsen van dergelijke opdracht;<br>
+2° het ontwerp van overeenkomst of de opdrachtdocumenten;<br>
+3° de beslissing tot aanwijzing van de deelnemers die volgt op de publicatie van de opdracht;<br>
+4° het werkelijk sluiten van de overeenkomst.<br>
+<br>
+Het eerste lid is niet van toepassing op de financiële transacties die de minister bevoegd voor de financiën en de begroting aangaat in het kader van zijn bevoegdheid voor het kas- en schuldbeheer van de middelen van de Vlaamse Gemeenschap. Die overeenkomsten worden evenwel altijd ter kennisgeving bezorgd aan de Inspectie van Financiën.
 
 ### ART. 19.
 
@@ -110,11 +246,23 @@ Elk voorstel tot onteigening vanaf een bedrag van 500 000 euro moet voor advies 
 
 ### ART. 20.
 
-<P>Een ontwerpenwedstrijd moet voor advies worden voorgelegd als de geraamde   waarde van de opdracht van diensten die gegund wordt ter uitvoering van het   resultaat van de ontwerpenwedstrijd, de volgende bedragen (exclusief btw)   bereikt:<BR>1° in geval van een open procedure: 150.000 euro;<BR>2° in geval van   een beperkte procedure: 85.000 euro.</P>
+...
 
 ### ART. 21.
 
-Elke concessie van openbare werken moet voor advies worden voorgelegd.
+Elke concessie van werken en diensten, als vermeld in artikel 2, 7°, van de wet van 17 juni 2016 betreffende de concessieovereenkomsten, wordt voor advies voorgelegd als het geraamde bedrag 200.000 euro, exclusief btw, bereikt, en dat in voorkomend geval voor:<br>
+1° de principiële beslissing tot het sluiten van de overeenkomst of het plaatsen van dergelijke opdracht;<br>
+2° het ontwerp van overeenkomst of de opdrachtdocumenten;<br>
+3° de beslissing tot aanwijzing van de deelnemers volgend op de publicatie van de opdracht;<br>
+4° het werkelijk sluiten van de overeenkomst.
+
+### ART 21bis.
+
+Elke domeinconcessie wordt voor advies voorgelegd als de geraamde concessievergoeding 250.000 euro, exclusief btw, bereikt.
+
+### ART 21ter.
+
+Dadingen als vermeld in artikel 2044 van het Burgerlijk Wetboek, die niet in het kader van een overheidsopdracht worden gesloten, worden voor advies voorgelegd als de geraamde waarde van de dading 85.000 euro, exclusief btw, bereikt.
 
 ### ART. 22.
 
@@ -126,7 +274,9 @@ Inzake de toekenning van subsidies moet het advies van de Inspecteur van Financi
 
 ### ART. 24.
 
-<P>...</P>
+<p>Onder voorbehoud van artikel 18 tot en met 23 worden overeenkomsten die niet als een overheidsopdracht worden gekwalificeerd, voorafgaandelijk voor advies voorgelegd als de geraamde waarde van de overeenkomst 85.000 euro, exclusief btw, bereikt.<br>
+<br>
+Het eerste lid is niet van toepassing op een procedureakkoord als vermeld in artikel 1043 van het Gerechtelijk Wetboek.</p>
 
 ## AFDELING 4 BIJZONDERE AUDITS
 
