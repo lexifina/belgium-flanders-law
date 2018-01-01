@@ -43,45 +43,39 @@ De Vlaamse minister bevoegd voor het promotiebeleid inzake de landbouw, is belas
 - zaailijnzaad;<br>
 - tuinbouwzaden.<br>
 2° "Frituur": elke exploitatie in binnen- of buiteninrichting met of zonder verbruik ter plaatse, waar aan het cliënteel gerechten en voedingswaren verstrekt worden, die gebruikelijk worden verstrekt of verkocht in de frituursector, al dan niet geserveerd met brood of drank, en die uitsluitend opgediend worden in een voor eenmalig gebruik bestemde houder of verpakking van papier, karton of kunststof, eventueel vergezeld van bestek dat eveneens dient voor eenmalig gebruik.<br>
+3° "aardappelproducent": de onderneming die in de verzamelaanvraag het perceel in gebruik heeft met het oog op consumptieaardappelteelt op 31 mei van het aangiftejaar;<br>
+4° "eenheidsbedrag": het bedrag dat de bijdrage vastlegt per eenheid.<br>
 <br>
 2. De verplichte bijdragen bestemd voor het promotiefonds 'Akkerbouwproducten' worden als volgt vastgesteld voor zaaizaden en pootgoed:<br>
-1° Alle verantwoordelijken productie en handel betalen een verplichte bijdrage van 25 euro per op het land goedgekeurde hectare aardappelpootgoed, vermeerderd in Vlaanderen.<br>
+1° Alle verantwoordelijken productie en handel betalen een verplichte bijdrage van 20 euro per op het land goedgekeurde hectare aardappelpootgoed, vermeerderd in Vlaanderen.<br>
 2° Alle in Vlaanderen gevestigde verantwoordelijken voor rassen van zaaizaden en (of) pootgoed betalen een verplichte jaarlijkse bijdrage van 620 euro.<br>
 3° Alle in Vlaanderen gevestigde of actieve leveranciers van zaaizaden betalen een verplichte jaarlijkse bijdrage van 620 euro.<br>
 4° ...<br>
 <br>
-3. De verplichte bijdragen bestemd voor het promotiefonds `Akkerbouwproducten' worden als volgt vastgesteld voor hop:<br>
-Een verplichte jaarlijkse bijdrage van 13 euro is verschuldigd per in Vlaanderen geteelde hectare hop.<br>
-<br>
-Deze bijdrage wordt door VLAM geïnd als volgt:<br>
-- 12 euro via de beroepsverenigingen van hopplanters;<br>
-- 1 euro via de beroepsverenigingen van hophandelaars.<br>
+3. ...<br>
 <br>
 4. De verplichte bijdragen bestemd voor het promotiefonds `Akkerbouwproducten' worden als volgt vastgesteld voor aardappelen:<br>
 1° Alle in Vlaanderen gevestigde aardappelproducenten betalen een verplichte jaarlijkse bijdrage in functie van de teeltoppervlakte, die ze tijdens het voorafgaandelijk kalenderjaar aangewend hebben voor aardappelen:<br>
 - van 1 tot en met 4 hectaren: 25 euro;<br>
-- meer dan 4 hectaren: 6 euro per hectare.<br>
-2° Alle in Vlaanderen gevestigde aardappelproducenten - erkende bereider - verpakkers die uitsluitend teeltareaal uit eigen productie commercialiseren, betalen een verplichte jaarlijkse bijdrage in functie van de teeltoppervlakte, die ze tijdens het voorafgaandelijk kalenderjaar aangewend hebben voor aardappelen:<br>
+- van meer dan 4 hectare: 25 euro + 6 euro per bijkomende hectare.<br>
+2° Alle in Vlaanderen gevestigde aardappelproducenten -&nbsp;bereider - verpakkers die uitsluitend teeltareaal uit eigen productie commercialiseren, betalen een verplichte jaarlijkse bijdrage in functie van de teeltoppervlakte, die ze tijdens het voorafgaandelijk kalenderjaar aangewend hebben voor aardappelen:<br>
 - van 1 tot en met 4 hectaren: 25 euro;<br>
-- van meer dan 4 hectaren tot en met 12 hectaren: 124 euro + 6 euro per hectare met een maximum van 174 euro;<br>
-- meer dan 12 hectaren: 310 euro + 6 euro per hectare.<br>
-3° Alle in Vlaanderen gevestigde schilbedrijven, groothandelaars, makelaars, commissionairs en erkende handelaars-be-reidersverpakkers betalen een verplichte jaarlijkse bijdrage in functie van het aantal ton aardappelen die ze tijdens het voorafgaandelijk kalenderjaar verhandelden:<br>
+- meer dan 4 hectare tot en met 12 hectare: 124 euro + 6 euro per bijkomende hectare met een maximum van 174 euro;<br>
+- van meer dan 12 hectare: 310 euro + 6 euro per bijkomende hectare.<br>
+3° Alle in Vlaanderen gevestigde schilbedrijven, groothandelaars, makelaars, commissionairs en handelaars-bereidersverpakkers betalen een verplichte jaarlijkse bijdrage in functie van het aantal ton aardappelen die ze tijdens het voorafgaandelijk kalenderjaar verhandelden:<br>
 - minder dan 25.000 ton per jaar: 310 euro;<br>
 - vanaf 25.000 ton per jaar: 620 euro.<br>
 4° De verplichte bijdragen sub 1° en 3° zijn cumulatief.<br>
 5° Alle in Vlaanderen gevestigde frituren betalen met ingang van het referentiejaar 2003 een jaarlijkse verplichte bijdrage van 50 euro.<br>
 <br>
-5. De verplichte bijdragen, bestemd voor het promotiefonds Akkerbouwproducten, worden als volgt vastgesteld voor diepgevroren groenten en groenteconserven :<br>
-1° VZW VEGEBE, het Verbond van Groenteverwerkende Bedrijven en Industriegroenten, Groothandelaars en Exporteurs, betaalt aan VLAM een jaarlijkse bijdrage van 65.000 euro;<br>
-2° De bijdrage, vermeld in punt 1°, wordt doorgerekend aan de bedrijven die actief zijn in de verwerking van groenten tot diepgevroren groenten en/of groenteconserven. De bijdrage wordt doorgerekend op basis van de verhouding van het gemiddelde van de toegevoegde waarde van elk betrokken bedrijf van de laatste drie boekjaren waarvoor bij de Balanscentrale van de Nationale Bank de balans werd gedeponeerd, tegenover het totaal van de toegevoegde waarde van al de bedrijven die actief zijn in de sector over dezelfde periode, zoals blijkt uit dezelfde documenten;<br>
-3° De bijdrage, vermeld in punt 1°, geldt voor de referentiejaren 2006 tot en met 2008.<br>
+5. ...<br>
 <br>
 6. Elk jaar worden de bedragen, vermeld in punt 2 tot en met 5, geïndexeerd. Die indexatie gebeurt op basis van de schommelingen van het indexcijfer van de consumptieprijzen volgens de hiernavolgende formule :<br>
 het nieuwe bedrag = basisbedrag x nieuw indexcijfer/aanvangsindexcijfer<br>
 a) het basisbedrag is het bedrag dat geldig is voor jaar x;<br>
 b) het aanvangsindexcijfer is het indexcijfer van de maand oktober van het jaar x-1;<br>
 c) het nieuwe indexcijfer is het indexcijfer van de consumptieprijzen van de maand oktober van het jaar x.<br>
-De bedragen worden afgerond op de euro, waarbij bedragen van 50 cent of hoger worden afgerond naar de hogere euro, beneden de 50 cent naar de lagere euro.<br>
+De bedragen worden afgerond op de euro, waarbij bedragen van 50 cent of hoger worden afgerond naar de hogere euro, beneden de 50 cent naar de lagere euro. Voor de eenheidsbedragen wordt alleen het aan te rekenen bijdragebedrag afgerond.<br>
 De aldus geïndexeerde bijdragen worden van kracht op 1 januari van het jaar x+1.
 
 ## Bijlage II [Verplichte bijdragen in het promotiefonds 'Groenten en fruit'
@@ -132,15 +126,99 @@ Bijlage III. Verplichte bijdragen in het promotiefonds "Niet-eetbare tuinbouwpro
 
 ## Bijlage IV [Verplichte bijdragen in het promotiefonds "Runderen, kalveren en schapen" (verv. BVR 17 november 2017, art. 2, I: 1 januari 2018)]
 
-### Tekst
+### BIJLAGE IV.
 
-1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder:<br />"Openbaar slachthuis": het slachthuis geëxploiteerd door een overheidslichaam of door een vereniging van overheidsli-chamen;<br />"Particulier slachthuis": het slachthuis geëxploiteerd door een natuurlijk persoon of privaatrechtelijk rechtspersoon;<br />"Vlees": het vlees (het spiervlees), het vet, de witte en rode slachtafval van een slachtdier, alsmede het bloed en de beenderen die niet ontvet en niet volledig van spierresten ontdaan zijn; het voor de dood gekeelde dier, het gevilde, van ingewanden ontdane en voor de vleeshouwerij klaargemaakte dier, geschikt voor menselijke consumptie;<br />"Rund": elk huisdier van de rundveesoort, ongeacht het geslacht, met uitsluiting van de kalveren;<br />"Kalf": elk huisdier van de rundveesoort, ongeacht het geslacht, dat zo is opgenomen in de maandstaten van het FAVV; <br />"Paard": elk éénhoevig dier, ongeacht het geslacht of de leeftijd, dat als dusdanig is opgenomen in de maandstaten van het FAVV ;<br />"Schaap": elk huisdier van de schapensoort, ongeacht het geslacht of de leeftijd;<br />"Geit":elk huisdier van de geitensoort, ongeacht het geslacht of de leeftijd;<br />"Rundvlees", "kalfsvlees": alle vers gekoeld, bevroren en diepgevroren vlees, zoals gedefinieerd in art. 2 afkomstig van respectievelijk een rund en een kalf;<br />"FAVV": het Federaal Agentschap voor de Veiligheid van de Voedselketen. <br /><br />2. De verplichte bijdragen bestemd voor het promotiefonds "runderen, kalveren, schapen, geiten en paarden" worden als volgt vastgesteld:<br />1° Wie runderen, kalveren, paarden, schapen of geiten slacht of laat slachten in een openbaar of particulier slachthuis betaalt de volgende bijdrage per geslacht dier, geschikt voor menselijke consumptie, met uitzondering van levend ingevoerde dieren en dieren die hiermee gelijkgesteld worden overeenkomstig artikel 1 van verordening (EEG) nr. 3620/90 van de commissie betreffende het bepalen van de oorsprong van vlees en afvallen, vers, gekoeld of bevroren, van bepaalde huisdieren:<br />- per rund: 2,50 euro;<br />- per kalf: 0,75 euro;<br />- per paard: 0,75 euro;<br />- per schaap: 0,37 euro; <br />- per geit: 0,10 euro.<br /><br />Aan de leveranciers van de dieren wordt daarvan doorgerekend:<br />- per rund: 1,60 euro;<br />- per kalf: 0,375 euro;<br />- per paard: 0,75 euro;<br />- per schaap: 0,25 euro; <br />- per geit: 0,10 euro.<br /><br />Aan de koper van de geslachte dieren wordt daarvan doorgerekend:<br />- per geslacht rund: 0,90 euro of aan de koper van delen van versneden runderen, een daarmee gelijkgesteld bedrag van 0,2 cent per kilogram rundvlees;<br />- per geslacht kalf: 0,375 euro of aan de koper van delen van versneden kalveren, een daarmee gelijkgesteld bedrag van 0,4 cent per kilogram kalfsvlees met been en 0,7 cent per kilogram kalfsvlees zonder been;<br />- per geslacht schaap: 0,12 euro of aan de koper van delen van versneden schapen een daarmee gelijkgesteld bedrag van 0,006 euro per kilogram schapenvlees. <br /><br />2° Wie levend ingevoerde dieren en dieren die hiermee gelijkgesteld worden overeenkomstig artikel 1 van de Verordening (EEG) nr. 3620/90 van de Commissie betreffende het bepalen van de oorsprong van vlees en afvallen, vers, gekoeld of bevroren, van bepaalde huisdieren, slacht of laat slachten in een openbaar of particulier slachthuis, betaalt de volgende bijdrage per geslacht dier, geschikt voor menselijke consumptie:<br />- per geslacht rund: 0,90 euro;<br />- per geslacht kalf: 0,375 euro; <br />- per geslacht slachtlam: 0,12 euro. <br /><br />Deze bijdrage wordt doorgerekend aan de koper van de geslachte dieren. Aan de koper van delen van versneden runderen wordt een hiermee gelijkgesteld bedrag van 0,2 cent per kilogram rundvlees doorberekend; aan de koper van delen van versneden kalveren een hiermee gelijkgesteld bedrag van 0,4 cent per kilogram kalfsvlees met been en 0,7 cent per kilogram kalfsvlees zonder been. Aan de koper van delen van versneden slachtlammen wordt een hiermee gelijk gesteld bedrag van 0,006 euro per kilogram lamsvlees doorgerekend. <br /><br />3° Wie levende runderen, kalveren, schapen of geiten uitvoert, betaalt de volgende bijdrage per levend uitgevoerd dier:<br />- per rund: 1,60 euro;<br />- per kalf: 0,375 euro;<br />- per schaap: <br />- per geit: 0,10 euro.<br /><br />Deze bijdrage wordt doorgerekend naar de leverancier van de dieren.<br /><br />4° De bijdragen sub 1°, 2° en 3° worden afzonderlijk vermeld op de factuur. De bijdragen sub 1° en 2° worden door de openbare en particuliere slachthuizen, zonder aanrekening van inningkosten, doorgestort aan VLAM. De bijdragen sub 3° worden door de uitvoerder van de levende dieren, zonder aanrekening van inningkosten, doorgestort aan VLAM. Bij gebrek aan een aangifte binnen de in artikel 4, §2, gestelde termijn kan VLAM het door te storten bedrag voorlopig factureren op basis van het totaal van de bijdragen die tijdens het voorgaande jaar gefactureerd werden aan het slachthuis of de uitvoerder.<br /><br />Zodra de werkelijke slacht- en/of uitvoergegevens van het jaar waarvoor de bijdragen verschuldigd zijn, bekend zijn, maakt VLAM in voorkomend geval een aanvullende factuur of creditnota ter verrekening van de reeds gefactureerde bijdragen met de totale door te storten bijdragen van dat jaar. <br /><br />5° De provinciale verenigingen van kwekers en houders van rundvee betalen aan VLAM een bijdrage van 0,07 euro per eerste inseminatie die zij verrichten. Dat bedrag mag doorgerekend worden aan de houder van het dier die de inseminatie laat verrichten.<br /><br />6° ...<br /><br />7° De hierna genoemde organisaties verstrekken VLAM op eenvoudige aanvraag al de nodige inlichtingen en gegevens die deze nodig heeft voor de vaststelling van de bijdragen:<br />- de fokverenigingen en stamboeken van rundveerassen;<br />- de provinciale verenigingen van kwekers en houders van rundvee;<br />- de fokmaatschappijen ter verbetering van het paardenras.
+1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder:<br>
+"Openbaar slachthuis": het slachthuis geëxploiteerd door een overheidslichaam of door een vereniging van overheidsli-chamen;<br>
+"Particulier slachthuis": het slachthuis geëxploiteerd door een natuurlijk persoon of privaatrechtelijk rechtspersoon;<br>
+"Vlees": het vlees (het spiervlees), het vet, de witte en rode slachtafval van een slachtdier, alsmede het bloed en de beenderen die niet ontvet en niet volledig van spierresten ontdaan zijn; het voor de dood gekeelde dier, het gevilde, van ingewanden ontdane en voor de vleeshouwerij klaargemaakte dier, geschikt voor menselijke consumptie;<br>
+"Rund": elk huisdier van de rundveesoort, ongeacht het geslacht, met uitsluiting van de kalveren;<br>
+"Kalf": elk huisdier van de rundveesoort, ongeacht het geslacht, dat zo is opgenomen in de maandstaten van het FAVV;<br>
+"Schaap": elk huisdier van de schapensoort, ongeacht het geslacht of de leeftijd;<br>
+"Rundvlees", "kalfsvlees": alle vers gekoeld, bevroren en diepgevroren vlees, zoals gedefinieerd in art. 2 afkomstig van respectievelijk een rund en een kalf;<br>
+"FAVV": het Federaal Agentschap voor de Veiligheid van de Voedselketen.<br>
+<br>
+2. De verplichte bijdragen bestemd voor het promotiefonds "runderen, kalveren en schapen" worden als volgt vastgesteld:<br>
+1° Wie runderen, kalveren of schapen slacht of laat slachten in een openbaar of particulier slachthuis, betaalt de volgende bijdrage per geslacht dier, geschikt voor menselijke consumptie, met uitzondering van levend ingevoerde dieren en dieren die daarmee gelijkgesteld worden overeenkomstig artikel 1 van verordening (EEG) nr. 3620/90 van de Commissie van 14 december 1990 betreffende het bepalen van de oorsprong van vlees en afvallen, vers, gekoeld of bevroren, van bepaalde huisdieren:<br>
+- per rund: 2,50 euro;<br>
+- per kalf: 0,75 euro;<br>
+- per schaap: 0,37 euro.<br>
+<br>
+Aan de leveranciers van de dieren wordt daarvan doorgerekend:<br>
+- per rund: 1,60 euro;<br>
+- per kalf: 0,375 euro;<br>
+- per schaap: 0,25 euro.<br>
+<br>
+Aan de koper van de geslachte dieren wordt daarvan doorgerekend:<br>
+- per geslacht rund: 0,90 euro of aan de koper van delen van versneden runderen, een daarmee gelijkgesteld bedrag van 0,2 cent per kilogram rundvlees;<br>
+- per geslacht kalf: 0,375 euro of aan de koper van delen van versneden kalveren, een daarmee gelijkgesteld bedrag van 0,4 cent per kilogram kalfsvlees met been en 0,7 cent per kilogram kalfsvlees zonder been;<br>
+- per geslacht schaap: 0,12 euro of aan de koper van delen van versneden schapen een daarmee gelijkgesteld bedrag van 0,006 euro per kilogram schapenvlees.<br>
+<br>
+2° Wie levend ingevoerde dieren en dieren die hiermee gelijkgesteld worden overeenkomstig artikel 1 van de Verordening (EEG) nr. 3620/90 van de Commissie betreffende het bepalen van de oorsprong van vlees en afvallen, vers, gekoeld of bevroren, van bepaalde huisdieren, slacht of laat slachten in een openbaar of particulier slachthuis, betaalt de volgende bijdrage per geslacht dier, geschikt voor menselijke consumptie:<br>
+- per geslacht rund: 0,90 euro;<br>
+- per geslacht kalf: 0,375 euro;<br>
+- per geslacht slachtlam: 0,12 euro.<br>
+<br>
+Deze bijdrage wordt doorgerekend aan de koper van de geslachte dieren. Aan de koper van delen van versneden runderen wordt een hiermee gelijkgesteld bedrag van 0,2 cent per kilogram rundvlees doorberekend; aan de koper van delen van versneden kalveren een hiermee gelijkgesteld bedrag van 0,4 cent per kilogram kalfsvlees met been en 0,7 cent per kilogram kalfsvlees zonder been. Aan de koper van delen van versneden slachtlammen wordt een hiermee gelijk gesteld bedrag van 0,006 euro per kilogram lamsvlees doorgerekend.<br>
+<br>
+3° Wie levende runderen, kalveren of schapen uitvoert, betaalt de volgende bijdrage per levend uitgevoerd dier:<br>
+- per rund: 1,60 euro;<br>
+- per kalf: 0,375 euro;<br>
+- per schaap: 0,25 euro.<br>
+<br>
+Deze bijdrage wordt doorgerekend naar de leverancier van de dieren.<br>
+<br>
+4° De bijdragen sub 1°, 2° en 3° worden afzonderlijk vermeld op de factuur. De bijdragen sub 1° en 2° worden door de openbare en particuliere slachthuizen, zonder aanrekening van inningkosten, doorgestort aan VLAM. De bijdragen sub 3° worden door de uitvoerder van de levende dieren, zonder aanrekening van inningkosten, doorgestort aan VLAM. Bij gebrek aan een aangifte binnen de in artikel 4, §2, gestelde termijn kan VLAM het door te storten bedrag voorlopig factureren op basis van het totaal van de bijdragen die tijdens het voorgaande jaar gefactureerd werden aan het slachthuis of de uitvoerder.<br>
+<br>
+Zodra de werkelijke slacht- en/of uitvoergegevens van het jaar waarvoor de bijdragen verschuldigd zijn, bekend zijn, maakt VLAM in voorkomend geval een aanvullende factuur of creditnota ter verrekening van de reeds gefactureerde bijdragen met de totale door te storten bijdragen van dat jaar.<br>
+<br>
+5° De provinciale verenigingen van kwekers en houders van rundvee betalen aan VLAM een bijdrage van 0,07 euro per eerste inseminatie die zij verrichten. Dat bedrag mag doorgerekend worden aan de houder van het dier die de inseminatie laat verrichten.<br>
+<br>
+6° ...<br>
+<br>
+7° De hierna genoemde organisaties verstrekken VLAM op eenvoudige aanvraag al de nodige inlichtingen en gegevens die deze nodig heeft voor de vaststelling van de bijdragen:<br>
+- de fokverenigingen en stamboeken van rundveerassen;<br>
+- de provinciale verenigingen van kwekers en houders van rundvee.
 
 ## Bijlage V [Verplichte bijdragen in het promotiefonds "Varkens"
 
 ### Tekst
 
-1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder:<br />"Openbaar slachthuis": het slachthuis geëxploiteerd door een overheidslichaam of door een vereniging van overheidsli-chamen;<br />"Particulier slachthuis": het slachthuis geëxploiteerd door een natuurlijk persoon of privaatrechtelijk rechtspersoon;<br />"Vlees": het vlees (spiervlees), het vet, de witte en rode slachtafval van een slachtdier, alsmede het bloed en de beenderen die niet ontvet en niet volledig van spierresten ontdaan zijn; het voor de dood gekeelde dier, geschikt voor menselijke consumptie;<br />"Varken": elk huisdier van de varkenssoort, ongeacht de leeftijd of het geslacht;<br />"Varkensvlees": alle vers, gekoeld, bevroren of diepgevroren vlees zoals hierboven gedefinieerd met inbegrip van zwoerd, afkomstig van een varken; <br /><br />2. De verplichte bijdragen bestemd voor het promotiefonds "varkens" worden als volgt vastgesteld:<br /><br />1° Wie varkens slacht of laat slachten in een openbaar of particulier slachthuis betaalt een bijdrage van 0,26 euro per geslacht varken, geschikt voor menselijke consumptie, met uitzondering van de levend ingevoerde varkens en varkens die daarmee gelijk gesteld worden overeenkomstig artikel 1 van Verordening (EEG) nr. 3620/90 van de Commissie betreffende het bepalen van de oorsprong van vlees en afvallen, vers, gekoeld of bevroren, van bepaalde huisdieren.<br /><br />Aan de leverancier van de varkens wordt daarvan 0,13 euro per geslacht varken doorgerekend.<br /><br />Aan de koper van de geslachte varkens wordt daarvan een bijdrage van 0,13 euro per geslacht varken doorgerekend; aan de koper van versneden varkens een daarmee gelijkgesteld bedrag van 2 cent per begonnen schijf van 10 kilogram varkensvlees.<br /><br />2° Wie levend ingevoerde varkens en varkens die hiermee gelijkgesteld worden overeenkomstig artikel 1 van Verordening (EEG) nr. 3620/90 van de Commissie betreffende het bepalen van de oorsprong van vlees en afvallen, vers, gekoeld of bevroren, van bepaalde huisdieren, slacht of laat slachten in een openbaar of particulier slachthuis, betaalt een bijdrage van 0,13 euro per geslacht varken, geschikt voor menselijke consumptie.<br /><br />Deze bijdrage wordt doorgerekend aan de koper van de geslachte varkens. Aan de koper van delen van versneden varkens wordt een hiermee gelijkgesteld bedrag van 2 cent per begonnen schijf van 10 kilogram varkensvlees doorgerekend.<br /><br />3° Wie levende varkens uitvoert, betaalt een bijdrage van 0,13 euro per levend uitgevoerd dier. Deze bijdrage wordt doorgerekend naar de leverancier van de varkens.<br /><br />4° De bijdragen sub 1°, 2° en 3° worden afzonderlijk vermeld op de factuur.<br /><br />5° De bijdragen sub 1° en 2° worden door de openbare en particuliere slachthuizen, zonder aanrekening van inningkosten, doorgestort aan VLAM. De bijdragen sub 3° worden door de uitvoerder van de levende varkens, zonder aanrekening van inningkosten, doorgestort aan VLAM. <br /><br />Bij gebrek aan een aangifte binnen de in artikel 4, § 2, gestelde termijn kan VLAM het door te storten bedrag voorlopig factureren op basis van het totaal van de bijdragen die tijdens het voorgaande jaar gefactureerd werden aan het slachthuis of de uitvoerder.<br /><br />Zodra de werkelijke slacht- en/of uitvoergegevens van het jaar waarvoor de bijdragen verschuldigd zijn, bekend zijn, maakt VLAM in voorkomend geval een aanvullende factuur of creditnota ter verrekening van de reeds gefactureerde bijdragen met de totale door te storten bijdragen van dat jaar. <br /><br />3. Elk jaar worden de bedragen, vermeld in punt 2, geïndexeerd. Die indexatie gebeurt op basis van de schommelingen van het indexcijfer van de consumptieprijzen volgens de hiernavolgende formule :<br />het nieuwe bedrag = basisbedrag x nieuw indexcijfer/aanvangsindexcijfer <br />a) het basisbedrag is het bedrag dat geldig is voor jaar x;<br />b) het aanvangsindexcijfer is het indexcijfer van de maand oktober van het jaar x-1;<br />c) het nieuwe indexcijfer is het indexcijfer van de consumptieprijzen van de maand oktober van het jaar x.<br />De bedragen worden afgerond op de cent, waarbij bedragen van 0,50 cent of hoger worden afgerond naar de hogere cent, beneden de 0,50 cent naar de lagere cent. De aldus geïndexeerde bijdragen worden van kracht op 1 januari van het jaar x+1.
+1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder:<br>
+"Openbaar slachthuis": het slachthuis geëxploiteerd door een overheidslichaam of door een vereniging van overheidsli-chamen;<br>
+"Particulier slachthuis": het slachthuis geëxploiteerd door een natuurlijk persoon of privaatrechtelijk rechtspersoon;<br>
+"Vlees": het vlees (spiervlees), het vet, de witte en rode slachtafval van een slachtdier, alsmede het bloed en de beenderen die niet ontvet en niet volledig van spierresten ontdaan zijn; het voor de dood gekeelde dier, geschikt voor menselijke consumptie;<br>
+"Varken": elk huisdier van de varkenssoort, ongeacht de leeftijd of het geslacht;<br>
+"Varkensvlees": alle vers, gekoeld, bevroren of diepgevroren vlees zoals hierboven gedefinieerd met inbegrip van zwoerd, afkomstig van een varken;<br>
+<br>
+2. De verplichte bijdragen bestemd voor het promotiefonds "varkens" worden als volgt vastgesteld:<br>
+<br>
+1° Wie varkens slacht of laat slachten in een openbaar of particulier slachthuis betaalt een bijdrage van 0,26 euro per geslacht varken, geschikt voor menselijke consumptie, met uitzondering van de levend ingevoerde varkens en varkens die daarmee gelijk gesteld worden overeenkomstig artikel 1 van Verordening (EEG) nr. 3620/90 van de Commissie betreffende het bepalen van de oorsprong van vlees en afvallen, vers, gekoeld of bevroren, van bepaalde huisdieren.<br>
+<br>
+Aan de leverancier van de varkens wordt daarvan de helft van 0,26 euro per geslacht varken doorgerekend.<br>
+<br>
+Aan de koper van de geslachte varkens wordt daarvan de helft van 0,26 euro per geslacht varken doorgerekend; aan de koper van versneden varkens een daarmee gelijkgesteld bedrag van 7,7% van 0,26 euro per begonnen schijf van 10 kilogram varkensvlees.<br>
+<br>
+2° Wie levend ingevoerde varkens en varkens die hiermee gelijkgesteld worden overeenkomstig artikel 1 van Verordening (EEG) nr. 3620/90 van de Commissie betreffende het bepalen van de oorsprong van vlees en afvallen, vers, gekoeld of bevroren, van bepaalde huisdieren, slacht of laat slachten in een openbaar of particulier slachthuis, betaalt een bijdrage van de helft van 0,26 euro per geslacht varken, geschikt voor menselijke consumptie.<br>
+<br>
+Deze bijdrage wordt doorgerekend aan de koper van de geslachte varkens. Aan de koper van delen van versneden varkens wordt een hiermee gelijkgesteld bedrag van 7,7% van 0,26 euro per begonnen schijf van 10 kilogram varkensvlees doorgerekend.<br>
+<br>
+3° Wie levende varkens uitvoert, betaalt een bijdrage van de helft van 0,26 euro per levend uitgevoerd dier. Deze bijdrage wordt doorgerekend naar de leverancier van de varkens.<br>
+<br>
+4° De bijdragen sub 1°, 2° en 3° worden afzonderlijk vermeld op de factuur.<br>
+<br>
+5° De bijdragen sub 1° en 2° worden door de openbare en particuliere slachthuizen, zonder aanrekening van inningkosten, doorgestort aan VLAM. De bijdragen sub 3° worden door de uitvoerder van de levende varkens, zonder aanrekening van inningkosten, doorgestort aan VLAM.<br>
+<br>
+Bij gebrek aan een aangifte binnen de in artikel 4, § 2, gestelde termijn kan VLAM het door te storten bedrag voorlopig factureren op basis van het totaal van de bijdragen die tijdens het voorgaande jaar gefactureerd werden aan het slachthuis of de uitvoerder.<br>
+<br>
+Zodra de werkelijke slacht- en/of uitvoergegevens van het jaar waarvoor de bijdragen verschuldigd zijn, bekend zijn, maakt VLAM in voorkomend geval een aanvullende factuur of creditnota ter verrekening van de reeds gefactureerde bijdragen met de totale door te storten bijdragen van dat jaar.<br>
+<br>
+3. Elk jaar worden de bedragen, vermeld in punt 2, geïndexeerd. Die indexatie gebeurt op basis van de schommelingen van het indexcijfer van de consumptieprijzen volgens de hiernavolgende formule :<br>
+het nieuwe bedrag = basisbedrag x nieuw indexcijfer/aanvangsindexcijfer<br>
+a) het basisbedrag is het bedrag dat geldig is voor jaar x;<br>
+b) het aanvangsindexcijfer is het indexcijfer van de maand oktober van het jaar x-1;<br>
+c) het nieuwe indexcijfer is het indexcijfer van de consumptieprijzen van de maand oktober van het jaar x.<br>
+De bedragen worden afgerond op de cent, waarbij bedragen van 0,50 cent of hoger worden afgerond naar de hogere cent, beneden de 0,50 cent naar de lagere cent. De aldus geïndexeerde bijdragen worden van kracht op 1 januari van het jaar x+1.
 
 ## Bijlage VI [Verplichte bijdragen in het promotiefonds "Pluimvee, eieren en kleinvee"
 
@@ -176,46 +254,67 @@ meer dan 15.000 eieren/uur: 250 euro.<br>
 <br>
 4° Bedrijven die in nevenactiviteit eiproducten vervaardigen betalen een jaarlijkse bijdrage van 40 euro; gespecialiseerde eiproductenbedrijven betalen een jaarlijkse bijdrage van 300 euro.<br>
 <br>
-5° Erkende broeierijen betalen een jaarlijkse bijdrage in functie van hun broedcapaciteit, namelijk:<br>
-minder dan 500.000 eieren: 135 euro;<br>
-van 500.000 tot en met 999.999 eieren: 250 euro;<br>
-1.000.000 of meer eieren: 350 euro.<br>
+5° Erkende broeierijen betalen een jaarlijkse bijdrage op basis van hun broedcapaciteit, namelijk:<br>
+a) minder dan 500.000 eieren: 140 euro;<br>
+b) van 500.000 tot en met 999.999 eieren: 240 euro;<br>
+c) van 1.000.000 tot en met 2.499.999 eieren: 380 euro;<br>
+d) 2.500.000 of meer eieren: 540 euro.<br>
 <br>
-6° Erkende vermeerderingsbedrijven betalen een jaarlijkse bijdrage in functie van hun bedrijfsgrootte, namelijk:<br>
-minder dan 5.000 dieren: 40 euro;<br>
-van 5.000 tot en met 9.999 dieren: 75 euro;<br>
-10.000 of meer dieren: 110 euro.<br>
+6° Erkende vermeerderingsbedrijven betalen een jaarlijkse bijdrage op basis van hun bedrijfsgrootte, namelijk:<br>
+a) minder dan 5000 dieren: 30 euro;<br>
+b) van 5000 tot en met 9999 dieren: 45 euro;<br>
+c) van 10.000 tot en met 14.999 dieren: 60 euro;<br>
+d) van 15.000 tot en met 19.999 dieren: 84 euro;<br>
+e) van 20.000 tot en met 24.999 dieren: 108 euro;<br>
+f) van 25.000 tot en met 29.999 dieren: 132 euro;<br>
+g) van 30.000 tot en met 39.999 dieren: 168 euro;<br>
+h) van 40.000 tot en met 49.999 dieren: 216 euro;<br>
+i) van 50.000 tot en met 74.999 dieren: 300 euro;<br>
+j) van 75.000 tot en met 99.999 dieren: 420 euro;<br>
+k) 100.000 of meer dieren: 480 euro.<br>
 <br>
 7° Invoerders en houders van een erkenning voor het fabriceren van mengvoeders betalen een jaarlijkse bijdrage van 50 euro.<br>
 <br>
-8° Houders van kippen voor de productie van consumptie-eieren, al of niet op ouderdom van de leg en reforme dieren inbegrepen, betalen een jaarlijkse bijdrage in functie van hun bedrijfsgrootte, namelijk:<br>
-van 5.000 tot en met 14.999 dieren: 40 euro;<br>
-van 15.000 tot en met 19.999 dieren: 50 euro;<br>
-van 20.000 tot en met 24.999 dieren: 60 euro;<br>
-van 25.000 tot en met 29.999 dieren: 75 euro;<br>
-van 30.000 tot en met 49.999 dieren: 125 euro;<br>
-50.000 of meer dieren: 225 euro.<br>
+8° Houders van kippen voor de productie van consumptie-eieren, al of niet op ouderdom van de leg en reforme dieren inbegrepen, betalen een jaarlijkse bijdrage op basis van hun bedrijfsgrootte, namelijk:<br>
+a) van 5000 tot en met 19.999 dieren: 50 euro;<br>
+b) van 20.000 tot en met 29.999 dieren: 70 euro;<br>
+c) van 30.000 tot en met 39.999 dieren: 98 euro;<br>
+d) van 40.000 tot en met 49.999 dieren: 126 euro;<br>
+e) van 50.000 tot en met 74.999 dieren: 175 euro;<br>
+f) van 75.000 tot en met 99.999 dieren: 245 euro;<br>
+g) van 100.000 tot en met 149.999 dieren: 350 euro;<br>
+h) van 150.000 tot en met 199.999 dieren: 490 euro;<br>
+i) van 200.000 tot en met 249.999 dieren: 630 euro;<br>
+j) van 250.000 tot en met 299.999 dieren: 770 euro;<br>
+k) 300.000 of meer dieren: 840 euro.<br>
 <br>
-9° Houders van braadkippen, uitgezonderd eendagskuikens, betalen een jaarlijkse bijdrage in functie van hun bedrijfs-grootte, namelijk:<br>
-van 10.000 tot en met 14.999 dieren: 40 euro;<br>
-van 15.000 tot en met 19.999 dieren: 45 euro;<br>
-van 20.000 tot en met 24.999 dieren: 55 euro;<br>
-van 25.000 tot en met 29.999 dieren: 65 euro;<br>
-van 30.000 tot en met 49.999 dieren: 100 euro;<br>
-van 50.000 tot en met 99.999 dieren: 185 euro;<br>
-100.000 of meer dieren: 310 euro.<br>
+9° Houders van braadkippen, uitgezonderd eendagskuikens, betalen een jaarlijkse bijdrage op basis van hun bedrijfsgrootte, namelijk:<br>
+a) van 5000 tot en met 19.999 dieren: 50 euro;<br>
+b) van 20.000 tot en met 29.999 dieren: 67 euro;<br>
+c) van 30.000 tot en met 39.999 dieren: 95 euro;<br>
+d) van 40.000 tot en met 49.999 dieren: 121 euro;<br>
+e) van 50.000 tot en met 74.999 dieren: 169 euro;<br>
+f) van 75.000 tot en met 99.999 dieren: 236 euro;<br>
+g) van 100.000 tot en met 149.999 dieren: 337 euro;<br>
+h) van 150.000 tot en met 199.999 dieren: 472 euro;<br>
+i) van 200.000 tot en met 249.999 dieren: 608 euro;<br>
+j) van 250.000 tot en met 299.999 dieren: 743 euro;<br>
+k) 300.000 of meer dieren: 810 euro.<br>
 <br>
-10° Uitsnijderijen, voor intracommunautair handelsverkeer erkend door het Ministerie van Volksgezondheid, betalen een jaarlijkse bijdrage van 250 euro indien hun capaciteit meer bedraagt dan 3 ton uitgesneden en/of uitgebeend vlees per week. Indien de capaciteit minder of gelijk is aan 3 ton betalen ze een jaarlijkse bijdrage van 75 euro. Uitsnijderijen die een technische eenheid vormen met een slachthuis zijn vrijgesteld van deze bijdrage.<br>
+10° Uitsnijderijen voor intracommunautair handelsverkeer erkend door het Ministerie van Volksgezondheid, betalen een jaarlijkse bijdrage op basis van hun bedrijfsgrootte, namelijk:<br>
+a) 1 tot en met 9 werknemers: 91 euro;<br>
+b) 10 tot en met 49 werknemers: 302 euro;<br>
+c) 50 of meer werknemers: 478 euro.<br>
+Uitsnijderijen die met een slachthuis een technische eenheid vormen, zijn vrijgesteld van die bijdrage.<br>
 <br>
 11° De bijdragen sub 8° en 9° worden vastgesteld op basis van de gegevens over het kalenderjaar dat voorafgaat aan het jaar waarvoor de bijdrage verschuldigd is.<br>
-<br>
-12° Onverminderd de toepassing van punt 2, 1°, betalen de erkende slachthuizen per begonnen schijf van 1.000 braadkippen, geslacht in de periode van 1 januari 2002 tot en met 31 december 2002, een eenmalige bijdrage van 1,25 euro. De uit een andere lidstaat van de Europese Unie levend ingevoerde dieren worden niet in rekening genomen voor de betaling van deze bijdragen.<br>
 <br>
 3. De verplichte bijdragen bestemd voor het promotiefonds "pluimvee, eieren en kleinvee" worden als volgt vastgesteld voor "konijnen" :<br>
 1° a) wie konijnen slacht of laat slachten in een slachthuis, betaalt een bijdrage van 0,0170 euro per geslacht konijn, geschikt voor menselijke consumptie. Aan de leverancier van de konijnen wordt daarvan 0,0025 euro per kilogram levend gewicht doorgerekend. Aan de koper van de geslachte konijnen en van konijnenproducten wordt daarvan 0,0124 euro per kilogram konijnenvlees doorgerekend;<br>
 b) de slachthuizen betalen vastgestelde bijdragen, vermeld in a), aan VLAM en rekenen voor de inning ervan geen kosten aan;<br>
 c) uit de EU-lidstaten levend ingevoerde dieren zijn vrijgesteld van de bijdrage;<br>
-2° wie levende konijnen uitvoert, betaalt een bijdrage van 0,0025 euro per kilogram levend gewicht aan uitgevoerde konijnen. Die bijdrage wordt doorgerekend aan de leverancier van de konijnen;<br>
+d) de bijdragen, vermeld in punt a), worden afzonderlijk vermeld op de factuur;<br>
+2° wie levende konijnen uitvoert, betaalt een bijdrage van 0,0025 euro per kilogram levend gewicht aan uitgevoerde konijnen. Die bijdrage wordt doorgerekend aan de leverancier van de konijnen en wordt afzonderlijk vermeld op de factuur;<br>
 3° wie geslachte konijnen uit derde landen invoert, betaalt een bijdrage van 0,0250 euro per kilogram ingevoerd konijnenvlees, met een maximum van 8.000 euro per jaar. Om de te betalen bijdrage te bepalen, kan VLAM, ter uitvoering van artikel 4, § 2, van dit besluit, de bijdrageplichtigen vragen aangifte te doen van het aantal kilogram uit derde landen ingevoerd konijnenvlees. Wie meer dan 320 000 kilogram konijnenvlees in een bepaald jaar heeft ingevoerd, is vrijgesteld van aangifte voor dat jaar en wordt ambtshalve voor de maximumbijdrage gefactureerd.<br>
 <br>
 4. Elk jaar worden de bedragen, vermeld in punten 2 en 3, geïndexeerd op basis van de schommelingen van het indexcijfer van de consumptieprijzen volgens de hiernavolgende formule :<br>
@@ -268,7 +367,32 @@ d) naam en adres van de natuurlijke of rechtspersonen waaraan de betrokken melk 
 
 ### Tekst
 
-De jaarlijkse verplichte bijdragen, bestemd voor het promotiefonds "visserij en aquacultuur" worden als volgt vastgesteld :<br /><br />1° al wie door het Ministerie van Volksgezondheid gemachtigd is verse of diepgevroren producten uit visserij en aquacultuur te verwerken of te bewerken en alle groothandelaars in verse of diepgevroren producten uit visserij en aquacultuur betalen 403 euro;<br /><br />2° al wie verse producten uit visserij en aquacultuur verkoopt aan de consument betaalt per verkoopspunt 146 euro;<br /><br />3° al wie producten uit visserij en aquacultuur kweekt voor menselijke consumptie betaalt een bijdrage van 146 euro;<br /><br />4° alle reders betalen een bijdrage op basis van de brutotonnenmaat van hun vaartuig, namelijk :<br />a) tot en met 50 ton : 98 euro;<br />b) van 51 tot en met 200 ton : 186 euro;<br />c) meer dan 200 ton : 291 euro.<br /><br />5° De drie Vlaamse vismijnen betalen de volgende bijdrage :<br />a) de Nieuwpoortse Vismijn : 322 euro;<br />b) de Oostendse Vismijn : 806 euro;<br />c) de Zeebrugse Vismijn : 2096 euro. »<br /><br />6° Elk jaar worden de bedragen vermeld in punt 1° tot en met 5° geïndexeerd. Die indexatie gebeurt op basis van de schommelingen van het indexcijfer van de consumptieprijzen volgens de hiernavolgende formule :<br />het nieuwe bedrag = basisbedrag x nieuw indexcijfer/aanvangsindexcijfer<br />a) het basisbedrag is het bedrag dat geldig is voor jaar x;<br />b) het aanvangsindexcijfer is het indexcijfer van de maand oktober van het jaar x-1.<br />c) het nieuwe indexcijfer is het indexcijfer van de consumptieprijzen van de maand oktober van het jaar x.<br /><br />De bedragen worden afgerond op de euro, waarbij bedragen van 50 cent of hoger worden afgerond naar de hogere euro; beneden de 50 cent naar de lagere euro.<br /><br />De aldus geïndexeerde bijdragen worden van kracht op 1 januari van het jaar x+1.
+De jaarlijkse verplichte bijdragen, bestemd voor het promotiefonds "visserij en aquacultuur" worden als volgt vastgesteld :<br>
+<br>
+1° al wie door het Ministerie van Volksgezondheid gemachtigd is verse of diepgevroren producten uit visserij en aquacultuur te verwerken of te bewerken en alle groothandelaars in verse of diepgevroren producten uit visserij en aquacultuur betalen 403 euro;<br>
+<br>
+2° al wie verse producten uit visserij en aquacultuur verkoopt aan de consument betaalt per verkoopspunt 146 euro;<br>
+<br>
+3° al wie producten uit visserij en aquacultuur kweekt voor menselijke consumptie betaalt een bijdrage van 146 euro;<br>
+<br>
+4° alle reders betalen een bijdrage op basis van de brutotonnenmaat van hun vaartuig, namelijk :<br>
+a) tot en met 50 ton : 98 euro;<br>
+b) van 51 tot en met 200 ton : 186 euro;<br>
+c) meer dan 200 ton : 291 euro.<br>
+<br>
+5° De drie Vlaamse vismijnen betalen de volgende bijdrage :<br>
+a) de Nieuwpoortse Vismijn : 322 euro;<br>
+b) de Zeebrugse/Oostendse Vismijn: 2096 euro.<br>
+<br>
+6° Elk jaar worden de bedragen vermeld in punt 1° tot en met 5° geïndexeerd. Die indexatie gebeurt op basis van de schommelingen van het indexcijfer van de consumptieprijzen volgens de hiernavolgende formule :<br>
+het nieuwe bedrag = basisbedrag x nieuw indexcijfer/aanvangsindexcijfer<br>
+a) het basisbedrag is het bedrag dat geldig is voor jaar x;<br>
+b) het aanvangsindexcijfer is het indexcijfer van de maand oktober van het jaar x-1.<br>
+c) het nieuwe indexcijfer is het indexcijfer van de consumptieprijzen van de maand oktober van het jaar x.<br>
+<br>
+De bedragen worden afgerond op de euro, waarbij bedragen van 50 cent of hoger worden afgerond naar de hogere euro; beneden de 50 cent naar de lagere euro.<br>
+<br>
+De aldus geïndexeerde bijdragen worden van kracht op 1 januari van het jaar x+1.
 
 ## Bijlage IX [Verplichte bijdragen in het promotiefonds "Brood en banket"
 
@@ -280,137 +404,131 @@ De jaarlijkse verplichte bijdragen, bestemd voor het promotiefonds "visserij en 
 
 ### Tekst
 
-1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder "producten uit de biologische landbouw": producten waarop aanduidingen voorkomen die verwijzen naar de biologische productiemethode of waarvan het in de bedoeling ligt op die producten dergelijke aanduidingen aan te brengen, zoals bepaald in Verordening (EEG) nr. 2092/91 van de Raad van 24 juni 1991, inzake de biologische productiemethode en aanduidingen dienaangaande op landbouwproducten en levensmiddelen, en de toepasselijke uitvoeringsbepalingen.<br>
+1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder producten uit de biologische landbouw: de producten waarop aanduidingen voorkomen die verwijzen naar de biologische productie of waarop dergelijke aanduidingen aangebracht zullen worden conform de verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91.<br>
 <br>
-2. Wie producten uit de biologische landbouw produceert in de zin van de in punt 1 genoemde verordening, betaalt een jaarlijkse bijdrage van 38 euro. (verv. B.V.R. 6 februari 2004, art. 5, I: 13 maart 2004) ]<br>
+2. De marktdeelnemer die producten uit de biologische landbouw produceert in de zin van de in punt 1 genoemde verordening, betaalt een jaarlijkse bijdrage van 38 euro. (verv. B.V.R. 6 februari 2004, art. 5, I: 13 maart 2004) ]<br>
 <br>
-3. [Wie producten uit de biologische landbouw bereidt in de zin van de in punt 1 vermelde verordening, betaalt een jaarlijkse bijdrage op basis van het omzetcijfer dat betrekking heeft op het kalenderjaar waarvan het jaartal verwijst naar het kalenderjaar dat onmiddellijk datgene voorafgaat waarvoor de bijdragen verschuldigd zijn, namelijk :<br>
+3. De marktdeelnemer die producten uit de biologische landbouw bereidt in de zin van de in punt 1 vermelde verordening, betaalt een jaarlijkse bijdrage op basis van het omzetcijfer dat betrekking heeft op het kalenderjaar waarvan het jaartal verwijst naar het kalenderjaar dat onmiddellijk datgene voorafgaat waarvoor de bijdragen verschuldigd zijn, namelijk :<br>
 Omzet
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:302.4pt">
+			<td style="vertical-align:top; width:302.4pt">
 			<p>Omzet</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:158.2pt">
+			<td style="border-color:windowtext windowtext windowtext currentColor; vertical-align:top; width:158.2pt">
 			<p>Bijdrage</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
+			<td style="border-color:currentColor windowtext windowtext; vertical-align:top; width:302.4pt">
 			<p>Tot en met 125.000 euro</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
+			<td style="border-color:currentColor windowtext windowtext currentColor; vertical-align:top; width:158.2pt">
 			<p>62 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
+			<td style="border-color:currentColor windowtext windowtext; vertical-align:top; width:302.4pt">
 			<p>Meer dan 125.000 euro tot en met 250.000 euro</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
+			<td style="border-color:currentColor windowtext windowtext currentColor; vertical-align:top; width:158.2pt">
 			<p>124 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
+			<td style="border-color:currentColor windowtext windowtext; vertical-align:top; width:302.4pt">
 			<p>Meer dan 250.000 euro tot en met 625.000 euro</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
+			<td style="border-color:currentColor windowtext windowtext currentColor; vertical-align:top; width:158.2pt">
 			<p>248 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
+			<td style="border-color:currentColor windowtext windowtext; vertical-align:top; width:302.4pt">
 			<p>Meer dan 625.000 euro tot en met 1.250.000 euro</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
+			<td style="border-color:currentColor windowtext windowtext currentColor; vertical-align:top; width:158.2pt">
 			<p>620 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
+			<td style="border-color:currentColor windowtext windowtext; vertical-align:top; width:302.4pt">
 			<p>Meer dan 1.250.000 euro tot en met 2.500.000 euro</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
+			<td style="border-color:currentColor windowtext windowtext currentColor; vertical-align:top; width:158.2pt">
 			<p>1 239 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
+			<td style="border-color:currentColor windowtext windowtext; vertical-align:top; width:302.4pt">
 			<p>Meer dan 2.500.000 euro</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
+			<td style="border-color:currentColor windowtext windowtext currentColor; vertical-align:top; width:158.2pt">
 			<p>2 479 euro</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-(verv. B.V.R. 22 juli 2005, art. 8, I : 30 september 2005) ]<br>
-<br>
-4. Wie als groothandel producten uit de biologische landbouw in de handel brengt in de zin van de in punt 1 vermelde verordening betaalt een jaarlijkse bijdrage op basis van het omzetcijfer dat betrekking heeft op het kalenderjaar waarvan het jaartal verwijst naar het kalenderjaar dat onmiddellijk datgene voorafgaat waarvoor de bijdragen verschuldigd zijn, namelijk:<br>
-Omzet
+<p>&nbsp;<br>
+4. De marktdeelnemer die als groothandel producten uit de biologische landbouw in de handel brengt in de zin van de in punt 1 vermelde verordening betaalt een jaarlijkse bijdrage op basis van het omzetcijfer dat betrekking heeft op het kalenderjaar waarvan het jaartal verwijst naar het kalenderjaar dat onmiddellijk datgene voorafgaat waarvoor de bijdragen verschuldigd zijn, namelijk:<br>
+Omzet</p>
+
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:302.4pt">
+			<td style="vertical-align:top; width:302.4pt">
 			<p>Omzet</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:158.2pt">
+			<td style="border-color:windowtext windowtext windowtext currentColor; vertical-align:top; width:158.2pt">
 			<p>Bijdrage</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
+			<td style="border-color:currentColor windowtext windowtext; vertical-align:top; width:302.4pt">
 			<p>Tot en met 250.000 euro</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
+			<td style="border-color:currentColor windowtext windowtext currentColor; vertical-align:top; width:158.2pt">
 			<p>62 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
+			<td style="border-color:currentColor windowtext windowtext; vertical-align:top; width:302.4pt">
 			<p>Meer dan 250.000 euro tot en met 500.000 euro</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
+			<td style="border-color:currentColor windowtext windowtext currentColor; vertical-align:top; width:158.2pt">
 			<p>124 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
+			<td style="border-color:currentColor windowtext windowtext; vertical-align:top; width:302.4pt">
 			<p>Meer dan 500.000 euro tot en met 1.250.000 euro</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
+			<td style="border-color:currentColor windowtext windowtext currentColor; vertical-align:top; width:158.2pt">
 			<p>248 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
+			<td style="border-color:currentColor windowtext windowtext; vertical-align:top; width:302.4pt">
 			<p>Meer dan 1.250.000 euro tot en met 2.500.000 euro</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
+			<td style="border-color:currentColor windowtext windowtext currentColor; vertical-align:top; width:158.2pt">
 			<p>620 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
+			<td style="border-color:currentColor windowtext windowtext; vertical-align:top; width:302.4pt">
 			<p>Meer dan 2.500.000 euro</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
+			<td style="border-color:currentColor windowtext windowtext currentColor; vertical-align:top; width:158.2pt">
 			<p>1 239 euro</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
+<p><br>
+5. De marktdeelnemer die als kleinhandel producten uit de biologische landbouw in de handel brengt in de zin van de in punt 1 genoemde verordening, betaalt per verkooppunt een jaarlijkse bijdrage van 38 euro.<br>
 <br>
-(verv. B.V.R. 22 juli 2005, art. 8, I: 30 september 2005)]<br>
-<br>
-[5. Wie als kleinhandel producten uit de biologische landbouw in de handel brengt in de zin van de in punt 1 genoemde verordening, betaalt per verkooppunt een jaarlijkse bijdrage van 38 euro.<br>
-<br>
-6. De bijdragen uit punt 2 tot en met 5 zijn niet cumulatief. Wie meerdere activiteiten als opgenomen in deze punten uitoefent, betaalt alleen de hoogste verschuldigde bijdrage. (verv. B.V.R. 26 oktober 2001, art. 3, I : 1 januari 2002) ]<br>
-<br>
-7. ...
+6. De bijdragen uit punt 2 tot en met 5 zijn niet cumulatief. Wie meerdere activiteiten als opgenomen in deze punten uitoefent, betaalt alleen de hoogste verschuldigde bijdrage.</p>
