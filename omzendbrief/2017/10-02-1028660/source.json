@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028660,
+  "title": "Omzendbrief van 2017-10-02 FB/VLABEL/2017/1 - Omzendbrief betreffende titel 1 en titel 2, hoofdstuk 4 van de Vlaamse Codex Fiscaliteit van 13 december 2013, gewijzigd bij het decreet van 3 juli 2015 tot invoering van de kilometerheffing en stopzetting van de heffing van het eurovignet en tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013 in dat verband - materieel toepassingsgebied- kilometerheffing",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028660/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "3085ddb4e1b60ea3e0282ef9aba5d91d64bf497e9b4844182d9b86b165424374",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028660&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-10-02",
+  "gazette": "2017-10-11",
+  "numac": 2017013565,
+  "document_start": "2018-01-01",
+  "document_end": "2020-12-31",
+  "in_force": "2018-01-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
