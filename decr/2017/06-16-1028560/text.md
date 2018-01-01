@@ -478,6 +478,31 @@ In artikel 65 van hetzelfde decreet worden volgende wijzigingen aangebracht :<br
 "Als het een aanvraag betreft voor een vestigingsplaats die verder dan 25 km van de hoofdvestigingsplaats van het centrum voor volwassenenonderwijs gelegen is, dan zal een protocol van akkoord van de bevoegde lokale onderhandelingscomités van zowel het overhevelende als het ontvangende centrum, voor de Vlaamse Regering een zeer belangrijk element vormen bij de beoordeling van de aanvraag. De Vlaamse Regering motiveert haar beslissing indien deze afwijkt van het standpunt aangenomen in het protocol.";<br>
 2° in paragraaf 2 en paragraaf 4 wordt de zinsnede "de overdracht van leraarsuren" telkens vervangen door de zinsnede "de overdracht van leraarsuren en/of punten".
 
+### ART V.3.
+
+In artikel 68, § 1, van hetzelfde decreet wordt het woord "functies" vervangen door het woord "ambten".
+
+### ART V.4.
+
+&nbsp;In artikel 85, § 1, van hetzelfde decreet worden de woorden "de functie" vervangen door de woorden "het ambt".
+
+### ART V.5.
+
+In artikel 87 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br>
+1° in paragraaf 1, eerste lid, worden de woorden "voltijdse functie" vervangen door de woorden "voltijds ambt";<br>
+2° in paragraaf 1, derde lid, worden de woorden "de functie" vervangen door de woorden "het ambt" en worden de woorden "deze functie" vervangen door de woorden "dit ambt";<br>
+3° in paragraaf 2 wordt het woord "functies" vervangen door het woord "ambten";<br>
+4° in paragraaf 3, eerste lid, wordt het woord "functies" vervangen door het woord "ambten", worden de woorden "elke functie" vervangen door de woorden "elk ambt" en worden de woorden "de functie" vervangen door de woorden "het ambt";<br>
+5° in paragraaf 3, tweede lid, worden de woorden "elke functie" vervangen door de woorden "elk ambt".
+
+### ART V.6.
+
+In artikel 88, § 1, 1°, van hetzelfde decreet worden de woorden "de functie" vervangen door de woorden "het ambt".
+
+### ART V.7.
+
+In artikel 90 van hetzelfde decreet wordt het woord "functies" vervangen door het woord "ambten".
+
 ### ART V.9.
 
 In artikel 98, § 1, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 23 december 2016, worden de volgende wijzigingen aangebracht :<br>
@@ -660,6 +685,394 @@ In afwijking van het bepaalde in het eerste lid, 1°, worden de bachelor-na-bach
 
 In artikel III.13 van dezelfde codex wordt paragraaf 6 opgeheven.
 
+### ART VI.25.
+
+Artikel III.46 van dezelfde codex, gewijzigd bij het decreet van 25 april 2014, bij besluiten van de Vlaamse Regering van 5 september 2014 en van 19 december 2014 en bij de decreten van 19 juni 2015 en 8 juli 2016, wordt vervangen door wat volgt :<br>
+<br>
+"Art. III.46. § 1. Het bedrag van de investeringskredieten voor de hogescholen, uitgedrukt in euro, wordt als volgt vastgelegd :<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Begrotingsjaar</td>
+			<td>Gesubsidieerde vrije hogescholen</td>
+			<td>Publiekrechtelijke hogescholen</td>
+			<td>Totaal</td>
+		</tr>
+		<tr>
+			<td>2018</td>
+			<td>13.451.707</td>
+			<td>9.480.206</td>
+			<td>22.931.912</td>
+		</tr>
+		<tr>
+			<td>2019</td>
+			<td>13.146.999</td>
+			<td>9.189.141</td>
+			<td>22.336.140</td>
+		</tr>
+		<tr>
+			<td>2020</td>
+			<td>12.842.289</td>
+			<td>8.898.078</td>
+			<td>21.740.369</td>
+		</tr>
+		<tr>
+			<td>2021</td>
+			<td>12.537.581</td>
+			<td>8.607.015</td>
+			<td>21.144.596</td>
+		</tr>
+		<tr>
+			<td>2022</td>
+			<td>12.232.873</td>
+			<td>8.315.952</td>
+			<td>20.548.825</td>
+		</tr>
+		<tr>
+			<td>2023</td>
+			<td>11.928.164</td>
+			<td>8.024.889</td>
+			<td>19.953.053</td>
+		</tr>
+		<tr>
+			<td>Vanaf 2024</td>
+			<td>11.623.456</td>
+			<td>7.733.826</td>
+			<td>19.357.281</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+§ 2. De investeringskredieten zoals vastgelegd in paragraaf 1 worden als volgt verdeeld onder de hogescholen :<br>
+1° de volgende bedragen op basis van de percentages vastgelegd per hogeschool in paragraaf 3 :<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Begrotingsjaar</td>
+			<td>Gesubsidieerde vrije hogescholen</td>
+			<td>Publiekrechtelijke hogescholen</td>
+			<td>Totaal</td>
+		</tr>
+		<tr>
+			<td>2018</td>
+			<td>8.071.024</td>
+			<td>5.688.124</td>
+			<td>13.759.148</td>
+		</tr>
+		<tr>
+			<td>2019</td>
+			<td>6.573.500</td>
+			<td>4.594.570</td>
+			<td>11.168.070</td>
+		</tr>
+		<tr>
+			<td>2020</td>
+			<td>5.136.916</td>
+			<td>3.559.231</td>
+			<td>8.696.148</td>
+		</tr>
+		<tr>
+			<td>2021</td>
+			<td>3.761.274</td>
+			<td>2.582.104</td>
+			<td>6.343.379</td>
+		</tr>
+		<tr>
+			<td>2022</td>
+			<td>2.446.575</td>
+			<td>1.663.190</td>
+			<td>4.109.765</td>
+		</tr>
+		<tr>
+			<td>2023</td>
+			<td>1.192.816</td>
+			<td>802.489</td>
+			<td>1.995.305</td>
+		</tr>
+		<tr>
+			<td>Vanaf 2024</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+2° de volgende bedragen op basis van het verdelingsmechanisme vastgelegd in paragraaf 4 :<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Begrotingsjaar</td>
+			<td>Gesubsidieerde vrije hogescholen</td>
+			<td>Publiekrechtelijke hogescholen</td>
+			<td>Totaal</td>
+		</tr>
+		<tr>
+			<td>2018</td>
+			<td>5.380.683</td>
+			<td>3.792.082</td>
+			<td>9.172.765</td>
+		</tr>
+		<tr>
+			<td>2019</td>
+			<td>6.573.499</td>
+			<td>4.594.571</td>
+			<td>11.168.070</td>
+		</tr>
+		<tr>
+			<td>2020</td>
+			<td>7.705.374</td>
+			<td>5.338.847</td>
+			<td>13.044.221</td>
+		</tr>
+		<tr>
+			<td>2021</td>
+			<td>8.776.307</td>
+			<td>6.024.911</td>
+			<td>14.801.218</td>
+		</tr>
+		<tr>
+			<td>2022</td>
+			<td>9.786.298</td>
+			<td>6.652.762</td>
+			<td>16.439.060</td>
+		</tr>
+		<tr>
+			<td>2023</td>
+			<td>10.735.348</td>
+			<td>7.222.399</td>
+			<td>17.957.747</td>
+		</tr>
+		<tr>
+			<td>Vanaf 2024</td>
+			<td>11.623.456</td>
+			<td>7.733.826</td>
+			<td>19.357.281</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+§ 3. De bedragen vermeld in paragraaf 2, 1°, worden volgens de volgende percentages verdeeld over de hogescholen :<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td colspan=";">Vrije gesubsidieerde hogescholen</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan=";">Arteveldehogeschool</td>
+			<td>10,08 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">LUCA School of Arts</td>
+			<td>9,75 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">Karel de Grote Hogeschool - Katholieke Hogeschool Antwerpen</td>
+			<td>10,85 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">Katholieke Hogeschool Vives Noord</td>
+			<td>4,17 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">Thomas More Kempen</td>
+			<td>9.36 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">UC Leuven</td>
+			<td>10,35 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">UC Limburg</td>
+			<td>6,51 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">Thomas More Mechelen Antwerpen</td>
+			<td>12,01 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">Katholieke Hogeschool Vives Zuid</td>
+			<td>8,84 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">Odisee</td>
+			<td>18,07 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">Totaal vrij gesubsidieerde hogescholen</td>
+			<td colspan=";">100,00 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">&nbsp;</td>
+			<td colspan=";">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan=";">Publiekrechtelijke hogescholen</td>
+			<td colspan=";">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan=";">Erasmushogeschool Brussel</td>
+			<td colspan=";">10,73 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">Artesis Plantijn Hogeschool Antwerpen</td>
+			<td colspan=";">26,04 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">Hogeschool Gent</td>
+			<td colspan=";">37,15 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">Hogeschool West-Vlaanderen</td>
+			<td colspan=";">11,55 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">Hogeschool PXL</td>
+			<td colspan=";">14,54 %</td>
+		</tr>
+		<tr>
+			<td colspan=";">Totaal publiekrechtelijke hogescholen</td>
+			<td colspan=";">100,00 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+§ 4. De verdeling en de toewijzing per hogeschool van de investeringskredieten, vermeld in paragraaf 2, 2°, gebeurt binnen de respectieve enveloppes van de vrije gesubsidieerde hogescholen en de publiekrechtelijke hogescholen op basis van volgende criteria :<br>
+1° voor alle professionele bacheloropleidingen, exclusief het hoger kunstonderwijs : het aantal opgenomen studiepunten door studenten onder diplomacontract ingeschreven in een professioneel gerichte bacheloropleiding of een bachelor-na-bacheloropleiding;<br>
+2° voor het hoger kunstonderwijs : het aantal opgenomen studiepunten door studenten onder diplomacontract ingeschreven in een professioneel gerichte bacheloropleiding, een bachelor-na-bacheloropleiding, een academisch gerichte bacheloropleiding, een initiële masteropleiding, een schakelprogramma of een voorbereidingsprogramma voorafgaand aan een initiële masteropleiding.<br>
+<br>
+Deze opgenomen studiepunten worden per studiegebied of cluster van studiegebieden gewogen met de overeenkomstige puntengewichten :<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Handelswetenschappen en bedrijfskunde</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Sociaal-agogisch werk</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Gezondheidszorg</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Gezondheidszorg - Onderwijs</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Gezondheidszorg - Onderwijs - Sociaal-agogisch werk</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Onderwijs</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>Industriële wetenschappen en technologie</td>
+			<td>2,5</td>
+		</tr>
+		<tr>
+			<td>Nautische wetenschappen</td>
+			<td>2,5</td>
+		</tr>
+		<tr>
+			<td>Architectuur</td>
+			<td>2,5</td>
+		</tr>
+		<tr>
+			<td>Architectuur - Industriële wetenschappen en technologie</td>
+			<td>2,5</td>
+		</tr>
+		<tr>
+			<td>Biotechniek</td>
+			<td>2,5</td>
+		</tr>
+		<tr>
+			<td>Audiovisuele en beeldende kunst</td>
+			<td>2,5</td>
+		</tr>
+		<tr>
+			<td>Muziek en podiumkunsten</td>
+			<td>2,5</td>
+		</tr>
+		<tr>
+			<td>Toegepaste taalkunde</td>
+			<td>2,5</td>
+		</tr>
+		<tr>
+			<td>Productontwikkeling</td>
+			<td>2,5</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Het aantal gewogen opgenomen studiepunten per hogeschool is gelijk aan de som van de producten van het aantal opgenomen studiepunten in ieder studiegebied of cluster van studiegebieden enerzijds en het overeenkomstige bepaalde puntengewicht.<br>
+<br>
+Voor de vaststelling van het gewogen aantal opgenomen studiepunten voor het begrotingsjaar t worden het gemiddelde aantal opgenomen studiepunten in aanmerking genomen over de academiejaren t-7/t-6 tot en met t-3/t-2.<br>
+<br>
+In afwijking van de bovenstaande puntengewichten, wordt voor de opleidingen `Biomedische laboratoriumtechnologie' en `Voedings- en dieetkunde' van het studiegebied Gezondheidszorg het puntengewicht 2,5 toegepast.<br>
+<br>
+§ 5. De bedragen, vermeld in paragraaf 1 en 2, op prijsniveau 2017, worden jaarlijks aangepast als volgt : het bedrag wordt vermenigvuldigd met de gewogen evolutie van het jaarlijks gemiddelde van de index van de Associatie van Belgische Experten (ABEX-index) van de vijf voorlaatste kalenderjaren die voorafgaan aan het begrotingsjaar, uitgedrukt in percenten.<br>
+<br>
+§ 6. Bij eventuele fusies van hogescholen worden de percentages zoals vastgelegd in paragraaf 3 van de fuserende hogescholen samengevoegd en toegekend aan de nieuwe hogeschool.".
+
+### ART VI.26.
+
+Artikel III.46/1 van dezelfde codex, ingevoegd bij het decreet van 25 april 2014, wordt opgeheven.
+
+### ART VI.27.
+
+Aan artikel III.54/1 van dezelfde codex, ingevoegd bij het decreet van 25 april 2014, worden de volgende wijzigingen aangebracht :<br>
+1° paragraaf 1 wordt vervangen door wat volgt :<br>
+" § 1. Ten gevolge van de integratie van de academische hogeschoolopleidingen in de universiteiten worden vanaf het begrotingsjaar 2018 volgende investeringskredieten toegekend aan de universiteiten :<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Begrotingsjaar</td>
+			<td>Bedrag in euro</td>
+		</tr>
+		<tr>
+			<td>2018</td>
+			<td>2.383.088</td>
+		</tr>
+		<tr>
+			<td>2019</td>
+			<td>2.978.860</td>
+		</tr>
+		<tr>
+			<td>2020</td>
+			<td>3.574.631</td>
+		</tr>
+		<tr>
+			<td>2021</td>
+			<td>4.170.404</td>
+		</tr>
+		<tr>
+			<td>2022</td>
+			<td>4.766.175</td>
+		</tr>
+		<tr>
+			<td>2023</td>
+			<td>5.361.947</td>
+		</tr>
+		<tr>
+			<td>Vanaf 2024</td>
+			<td>5.957.719";</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+2° in paragraaf 2 wordt in het eerste lid het woord "investeringsmachtigingen" vervangen door het woord "investeringskredieten";<br>
+3° in paragraaf 3 worden de woorden "De basisbedragen (prijsniveau 2013), vermeld in paragraaf 1," vervangen door de woorden "De bedragen, vermeld in paragraaf 1, zijn op prijsniveau 2017 en".
+
 ### ART VI.28.
 
 Artikel III.67 van dezelfde codex wordt vervangen door wat volgt :<br>
@@ -673,6 +1086,13 @@ In het begrotingsjaar 2017 wordt in het kader van artikel II.117 een bedrag van 
 1° I : de indexformule;<br>
 2° L1/L0 : de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het betreffende begrotingsjaar n en de index van de eenheidsloonkosten op het einde van begrotingsjaar n-1;<br>
 3° Cl/CO : de verhouding tussen de geraamde index van de consumptieprijzen op het einde van het betreffende begrotingsjaar n en de index van de consumptieprijzen op het einde van begrotingsjaar n-1.".
+
+### ART VI.29.
+
+In artikel IV.83 van dezelfde codex, gewijzigd bij decreet van 8 juli 2016 worden aan paragraaf 4 een nieuw tweede en derde lid toegevoegd, die luiden als volgt :<br>
+"Voor de universiteiten wordt de goedkeuring, vermeld in het eerste lid, beschouwd als verworven als de bevoegde regeringscommissaris en de afgevaardigde van financiën in hun analyse van de jaarrekening, rekening houdend met alle relevante informatie, een gunstig advies uitbrengen.<br>
+<br>
+Voor de hogescholen wordt de goedkeuring, vermeld in het eerste lid, beschouwd als verworven als de bevoegde regeringscommissaris in zijn analyse van de jaarrekening, rekening houdend met alle relevante informatie, een gunstig advies uitbrengt.".
 
 ### ART VI.30.
 
