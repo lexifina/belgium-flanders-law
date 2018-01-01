@@ -837,7 +837,13 @@ Afstand van het eigendomsrecht of van de andere zakelijke rechten, vermeld in ar
 
 ### ART. 119.
 
-De overheid die van plan is over te gaan tot onteigening vraagt bij de   OVAM een bodemattest aan betreffende de gronden die ze wil onteigenen.<BR><BR>De   onteigening van een grond waarop blijkens het Grondeninformatieregister   bodemverontreiniging tot stand gekomen is waarvoor het saneringscriterium,   vermeld in artikel 9 of 19, overschreden is, heeft van rechtswege de volgende   gevolgen:<BR>1° een eventuele bestaande saneringsplicht voor die   bodemverontreiniging vervalt op het ogenblik van de onteigening;<BR>2° de   onteigenende overheid wordt saneringsplichtig voor die bodemverontreiniging op   het ogenblik van de onteigening. Dit is niet het geval als de personen, vermeld   in artikel 11 en 21, vóór de onteigening vrijstelling van saneringsplicht hebben   bekomen voor die bodemverontreiniging.<BR><BR>Voor de bodemverontreiniging,   vermeld in het tweede lid, die op het ogenblik van de onteigening niet in het   Grondeninformatieregister opgenomen is, ontstaat de saneringsplicht of wordt de   saneringsplicht gevestigd na de onteigening overeenkomstig artikel 9 en 11 of   artikel 19 en 22.<BR><BR>Bij een onteigening waarbij de onteigenende overheid op   het ogenblik van de onteigening van rechtswege saneringsplichtig wordt als   vermeld in het tweede lid wordt bij het bepalen van de onteigeningsvergoeding   rekening gehouden met de geraamde kosten van het beschrijvend bodemonderzoek of   de bodemsanering. Dit is niet het geval als de saneringsplicht vóór de   onteigening rust op of gevestigd is op de exploitant of op de gebruiker op de te   onteigenen grond. In dat geval kan de onteigenende overheid de kosten van het   beschrijvend bodemonderzoek of de bodemsanering verhalen op de aansprakelijke   overeenkomstig artikel 16 tot en met 18 of 25.<BR>
+De overheid die van plan is over te gaan tot onteigening vraagt bij de OVAM een bodemattest aan betreffende de gronden die ze wil onteigenen.<br>
+<br>
+De onteigening van een grond waarop blijkens het Grondeninformatieregister bodemverontreiniging tot stand gekomen is waarvoor het saneringscriterium, vermeld in artikel 9 of 19, overschreden is, heeft van rechtswege de volgende gevolgen:<br>
+1° een eventuele bestaande saneringsplicht voor die bodemverontreiniging vervalt op het ogenblik van de onteigening;<br>
+2° de onteigenende overheid wordt saneringsplichtig voor die bodemverontreiniging op het ogenblik van de onteigening. Dit is niet het geval als de personen, vermeld in artikel 11 en 21, vóór de onteigening vrijstelling van saneringsplicht hebben bekomen voor die bodemverontreiniging.<br>
+<br>
+Voor de bodemverontreiniging, vermeld in het tweede lid, die op het ogenblik van de onteigening niet in het Grondeninformatieregister opgenomen is, ontstaat de saneringsplicht of wordt de saneringsplicht gevestigd na de onteigening overeenkomstig artikel 9 en 11 of artikel 19 en 22.
 
 ### ART. 119bis.
 
@@ -1169,7 +1175,7 @@ Met behoud van de toepassing van de bestaande regelingen krachtens andere wetten
 
 ### ART. 170.
 
-Om redenen van bodembescherming kan het Vlaamse Gewest onroerende goederen verwerven door onteigening ten algemene nutte en kunnen de gemeenten en de provinciën door de Vlaamse Regering hiertoe worden gemachtigd.
+Om redenen van bodembescherming kunnen het Vlaamse Gewest, de provincies en de gemeenten onroerende goederen verwerven door onteigening voor het algemeen nut.
 
 ## TITEL V Dwangmaatregelen, toezicht, strafbepalingen en verslag aan het Vlaams Parlement
 
