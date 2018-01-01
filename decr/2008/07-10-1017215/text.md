@@ -76,7 +76,15 @@ Elke uitgifte van nieuwe aandelen of van converteerbare obligaties, obligaties m
 
 ### ART. 14.
 
-§ 1. De LOM Oostende-Brugge heeft als doel de duurzame ontwikkeling, de instandhouding, het beheer en het onderhoud van de luchthaveninfrastructuur en de terbeschikkingstelling van die infrastructuur, of een deel ervan, tegen marktconforme vergoeding, aan de LEM Oostende-Brugge, die zorgt voor de commerciële uitbating ervan.<br /><br />De concretisering van de kwalitatieve en kwantitatieve wijze waarop die activiteiten door de LOM Oostende-Brugge zullen worden verricht, zal het voorwerp uitmaken van de beheersovereenkomst die overeenkomstig artikelen 14 tot en met 16 van het Kaderdecreet tussen het Vlaamse Gewest en de LOM Oostende-Brugge zal worden gesloten. Deze beheersovereenkomst zal tevens de taken en verplichtingen concretiseren die de LOM Oostende-Brugge moet opnemen inzake het toezicht op controle-, veiligheids- en beveiligingsdiensten, brandweerdiensten, certificering van de luchthaven, zoals die voortvloeien uit de toepasselijke internationale, Europese en nationale regelgeving. Het Vlaamse Gewest en de LOM Oostende-Brugge zullen in de beheersovereenkomst tevens concretiseren welke hun respectieve taken en verantwoordelijkheden zijn met betrekking tot de uitvoering van de samenwerkingsovereenkomsten inzake luchtverkeer die door het Vlaamse Gewest gebeurlijk met de federale overheid gesloten zijn of nog zullen worden gesloten. Het voorgaande doet geen afbreuk aan de verplichtingen van de LEM Oostende-Brugge krachtens artikel 32, § 3, van dit decreet.<br /><br />§ 2. De LOM Oostende-Brugge kan daarenboven alle handelingen en activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot of verband houden met de verwezenlijking van haar doel als vermeld in § 1. <br /><br />§ 3. De Vlaamse Regering kan aan de leningen, schulden of verplichtingen van de LOM Oostende-Brugge de waarborg van het Vlaamse Gewest verlenen.
+§ 1. De LOM Oostende-Brugge heeft als doel de duurzame ontwikkeling, de instandhouding, het beheer en het onderhoud van de luchthaveninfrastructuur en de terbeschikkingstelling van die infrastructuur, of een deel ervan, tegen marktconforme vergoeding, aan de LEM Oostende-Brugge, die zorgt voor de commerciële uitbating ervan.<br>
+<br>
+De concretisering van de kwalitatieve en kwantitatieve wijze waarop de LOM Oostende-Brugge die activiteiten zal verrichten, zal opgenomen worden in het ondernemingsplan, vermeld in artikel 5/1, § 1, van het Kaderdecreet. Dat ondernemingsplan zal ook de beleids- en beheersdoelstellingen van de LOM Oostende-Brugge bevatten voor het toezicht op controle-, veiligheids-, beveiligings- en brandweerdiensten, en voor de certificering van de luchthaven, zoals die voortvloeien uit de toepasselijke internationale, Europese en nationale regelgeving. De LOM Oostende-Brugge zal in haar ondernemingsplan de respectieve taken en verantwoordelijkheden concretiseren voor de uitvoering van de eventuele samenwerkingsovereenkomsten voor het luchtverkeer die het Vlaamse Gewest met de federale overheid sluit. Het voorgaande doet geen afbreuk aan de verplichtingen van de LEM Oostende-Brugge, vermeld in artikel 32, § 3, van dit decreet.<br>
+<br>
+§ 2. De LOM Oostende-Brugge kan daarenboven alle handelingen en activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot of verband houden met de verwezenlijking van haar doel als vermeld in § 1.<br>
+<br>
+§ 2/1. De LOM Oostende-Brugge kan voor bijstand en ondersteuning, op juridisch, financieel, technisch en administratief vlak, bij de uitvoering van haar decretale opdracht een beroep doen op het Vlaamse Gewest. In voorkomend geval wordt daarvoor een samenwerkingsovereenkomst gesloten waarin wederzijdse afspraken worden vastgelegd.<br>
+<br>
+§ 3. De Vlaamse Regering kan aan de leningen, schulden of verplichtingen van de LOM Oostende-Brugge de waarborg van het Vlaamse Gewest verlenen.
 
 ## ONDERAFDELING II. [... (opgeh. decr. 8 januari 2021, art. 4, I: 15 september 2021)]
 
@@ -120,7 +128,17 @@ De algemene vergadering heeft de bevoegdheid om de statuten te wijzigen, conform
 
 ### ART. 23.
 
-§ 1. De raad van bestuur bestaat uit maximaal negen leden, de onafhankelijke leden uitgezonderd. Daarnaast kan de raad van bestuur overeenkomstig artikel 18, § 2, van het Kaderdecreet onafhankelijke bestuurders coöpteren. <br /><br />De leden van de raad van bestuur, de onafhankelijke bestuurders uitgezonderd, worden door de Vlaamse Regering benoemd. De algemene vergadering van aandeelhouders van de LOM Oostende-Brugge heeft het recht om kandidaten voor te dragen voor benoeming door de Vlaamse Regering, met dien verstande dat de meerderheid van de leden van de raad van bestuur van de LOM Oostende-Brugge steeds moet bestaan uit bestuurders, voorgedragen door het Vlaamse Gewest. <br /><br />De onafhankelijke leden worden benoemd overeenkomstig artikel 18, § 2, van het Kaderdecreet.<br /><br />De benoeming en het ontslag van de bestuurders moeten worden neergelegd en bekendgemaakt overeenkomstig artikel 74 en volgende van het Wetboek van vennootschappen. In die publicatie wordt tevens aangegeven of de betrokken bestuurder benoemd werd op voordracht van het Vlaamse Gewest, op voordracht van de algemene vergadering van de LOM Oostende-Brugge, dan wel als onafhankelijk bestuurder gecoöpteerd werd overeenkomstig artikel 18, § 2, van het Kaderdecreet.<br /><br />De raad van bestuur heeft het recht ad hoc waarnemers uit te nodigen om aanwezig te zijn op de vergaderingen van de raad van bestuur.<br /><br />§ 2. Het mandaat van bestuurder moet beantwoorden aan de onverenigbaarheden, vermeld in artikel 21 van het Kaderdecreet.
+§ 1. De raad van bestuur bestaat uit maximaal negen leden.<br>
+<br>
+De leden van de raad van bestuur worden door de Vlaamse Regering benoemd. De algemene vergadering van aandeelhouders van de LOM Oostende-Brugge heeft het recht om kandidaten voor te dragen voor benoeming door de Vlaamse Regering, met dien verstande dat de meerderheid van de leden van de raad van bestuur van de LOM Oostende-Brugge steeds moet bestaan uit bestuurders, voorgedragen door het Vlaamse Gewest.<br>
+<br>
+De onafhankelijke leden worden benoemd overeenkomstig artikel 5 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector.<br>
+<br>
+De benoeming en het ontslag van de bestuurders moeten worden neergelegd en bekendgemaakt overeenkomstig artikel 74 en volgende van het Wetboek van vennootschappen. In die publicatie wordt tevens aangegeven of de betrokken bestuurder benoemd werd op voordracht van het Vlaamse Gewest of, op voordracht van de algemene vergadering van de LOM Oostende-Brugge.<br>
+<br>
+De raad van bestuur heeft het recht ad hoc waarnemers uit te nodigen om aanwezig te zijn op de vergaderingen van de raad van bestuur.<br>
+<br>
+§ 2. Het mandaat van bestuurder moet beantwoorden aan de onverenigbaarheden, vermeld in artikel 21 van het Kaderdecreet.
 
 ### ART. 24.
 
@@ -248,7 +266,15 @@ Elke uitgifte van nieuwe aandelen of van converteerbare obligaties, obligaties m
 
 ### ART. 47.
 
-§ 1. De LOM Kortrijk-Wevelgem heeft als doel de duurzame ontwikkeling, de instandhouding, het beheer en het onderhoud van de luchthaveninfrastructuur en de terbeschikkingstelling van die infrastructuur, of een deel ervan, tegen marktconforme vergoeding, aan de LEM Kortrijk-Wevelgem, die zorgt voor de commerciële uitbating ervan. <br /><br />De concretisering van de kwalitatieve en kwantitatieve wijze waarop die activiteiten door de LOM Kortrijk-Wevelgem zullen worden verricht, zal het voorwerp uitmaken van de beheersovereenkomst die overeenkomstig artikelen 14 tot en met 16 van het Kaderdecreet tussen het Vlaamse Gewest en de LOM Kortrijk-Wevelgem zal worden gesloten. Deze beheersovereenkomst zal tevens de taken en verplichtingen concretiseren die de LOM Kortrijk-Wevelgem moet opnemen inzake het toezicht op controle-, veiligheids- en beveiligingsdiensten, brandweerdiensten, certificering van de luchthaven zoals die voortvloeien uit de toepasselijke internationale, Europese en nationale regelgeving. Het Vlaamse Gewest en de LOM Kortrijk-Wevelgem zullen in de beheersovereenkomst tevens concretiseren wat hun respectieve taken en verantwoordelijkheden zijn met betrekking tot de uitvoering van de samenwerkingsovereenkomsten inzake luchtverkeer die door het Vlaamse Gewest gebeurlijk met de federale overheid gesloten zijn of nog zullen worden gesloten. Het voorgaande doet geen afbreuk aan de verplichtingen van de LEM Kortrijk-Wevelgem krachtens artikel 65, § 3.<br /><br />§ 2. De LOM Kortrijk-Wevelgem kan daarenboven alle handelingen en activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot of verband houden met de verwezenlijking van haar doel als vermeld in § 1. <br /><br />§ 3. De Vlaamse Regering kan aan de leningen, schulden of verplichtingen van de LOM Kortrijk-Wevelgem de waarborg van het Vlaamse Gewest verlenen.
+§ 1. De LOM Kortrijk-Wevelgem heeft als doel de duurzame ontwikkeling, de instandhouding, het beheer en het onderhoud van de luchthaveninfrastructuur en de terbeschikkingstelling van die infrastructuur, of een deel ervan, tegen marktconforme vergoeding, aan de LEM Kortrijk-Wevelgem, die zorgt voor de commerciële uitbating ervan.<br>
+<br>
+De concretisering van de kwalitatieve en kwantitatieve wijze waarop de LOM Kortrijk-Wevelgem die activiteiten zal verrichten, zal opgenomen worden in het ondernemingsplan, vermeld in artikel 5/1, § 1, van het Kaderdecreet. Dat ondernemingsplan zal ook de beleids- en beheersdoelstellingen van de LOM Kortrijk-Wevelgem bevatten voor het toezicht op controle-, veiligheids-, beveiligings- en brandweerdiensten, en voor de certificering van de luchthaven, zoals die voortvloeien uit de toepasselijke internationale, Europese en nationale regelgeving. De LOM Kortrijk-Wevelgem zal in haar ondernemingsplan de respectieve taken en verantwoordelijkheden concretiseren voor de uitvoering van de eventuele samenwerkingsovereenkomsten voor het luchtverkeer die het Vlaamse Gewest met de federale overheid sluit. Het voorgaande doet geen afbreuk aan de verplichtingen van de LEM Kortrijk-Wevelgem, vermeld in artikel 65, § 3, van dit decreet.<br>
+<br>
+§ 2. De LOM Kortrijk-Wevelgem kan daarenboven alle handelingen en activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot of verband houden met de verwezenlijking van haar doel als vermeld in § 1.<br>
+<br>
+§ 2/1. De LOM Kortrijk-Wevelgem kan voor bijstand en ondersteuning, op juridisch, financieel, technisch en administratief vlak, bij de uitvoering van haar decretale opdracht een beroep doen op het Vlaamse Gewest. In voorkomend geval wordt daarvoor een samenwerkingsovereenkomst gesloten.<br>
+<br>
+§ 3. De Vlaamse Regering kan aan de leningen, schulden of verplichtingen van de LOM Kortrijk-Wevelgem de waarborg van het Vlaamse Gewest verlenen.
 
 ## ONDERAFDELING II. Bevoegdheden
 
@@ -292,7 +318,17 @@ De algemene vergadering heeft de bevoegdheid om de statuten te wijzigen, conform
 
 ### ART. 56.
 
-§ 1. De raad van bestuur bestaat uit maximaal negen leden, de onafhankelijke leden uitgezonderd. Daarnaast kan de raad van bestuur onafhankelijke bestuurders coöpteren overeenkomstig artikel 18, § 2, van het Kaderdecreet.<br /><br />De leden van de raad van bestuur, de onafhankelijke leden uitgezonderd, worden door de Vlaamse Regering benoemd. De algemene vergadering van aandeelhouders van de LOM Kortrijk-Wevelgem heeft het recht om kandidaten voor te dragen voor benoeming, met dien verstande dat de meerderheid van de leden van de raad van bestuur van de LOM Kortrijk-Wevelgem steeds moet bestaan uit bestuurders, voorgedragen door het Vlaamse Gewest. <br /><br />De onafhankelijke leden worden benoemd overeenkomstig artikel 18, § 2, van het Kaderdecreet.<br /><br />De benoeming en het ontslag van de bestuurders moeten worden neergelegd en bekendgemaakt overeenkomstig artikel 74 en volgende van het Wetboek van vennootschappen. In die publicatie wordt tevens aangegeven of de betrokken bestuurder benoemd werd op voordracht van het Vlaamse Gewest of op voordracht van de algemene vergadering van de LOM Kortrijk-Wevelgem, dan wel als onafhankelijk bestuurder gecoöpteerd werd overeenkomstig artikel 18, § 2, van het Kaderdecreet.<br /><br />De raad van bestuur heeft het recht ad hoc waarnemers uit te nodigen om aanwezig te zijn op de vergaderingen van de raad van bestuur.<br /><br />§ 2. Het mandaat van bestuurder moet beantwoorden aan de onverenigbaarheden, vermeld in artikel 21 van het Kaderdecreet.
+§ 1. De raad van bestuur bestaat uit maximaal negen leden.<br>
+<br>
+De leden van de raad van bestuur worden door de Vlaamse Regering benoemd. De algemene vergadering van aandeelhouders van de LOM Kortrijk-Wevelgem heeft het recht om kandidaten voor te dragen voor benoeming, met dien verstande dat de meerderheid van de leden van de raad van bestuur van de LOM Kortrijk-Wevelgem steeds moet bestaan uit bestuurders, voorgedragen door het Vlaamse Gewest.<br>
+<br>
+De onafhankelijke leden worden benoemd overeenkomstig artikel 5 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector.<br>
+<br>
+De benoeming en het ontslag van de bestuurders moeten worden neergelegd en bekendgemaakt overeenkomstig artikel 74 en volgende van het Wetboek van vennootschappen. In die publicatie wordt tevens aangegeven of de betrokken bestuurder benoemd werd op voordracht van het Vlaamse Gewest of op voordracht van de algemene vergadering van de LOM Kortrijk-Wevelgem.<br>
+<br>
+De raad van bestuur heeft het recht ad hoc waarnemers uit te nodigen om aanwezig te zijn op de vergaderingen van de raad van bestuur.<br>
+<br>
+§ 2. Het mandaat van bestuurder moet beantwoorden aan de onverenigbaarheden, vermeld in artikel 21 van het Kaderdecreet.
 
 ### ART. 57.
 
@@ -412,7 +448,15 @@ Elke uitgifte van nieuwe aandelen of van converteerbare obligaties, obligaties m
 
 ### ART. 66/12.
 
-§ 1. De LOM Antwerpen heeft als doel de duurzame ontwikkeling, de instandhouding, het beheer en het onderhoud van de luchthaveninfrastructuur en de terbeschikkingstelling van die infrastructuur, of een deel ervan, tegen marktconforme vergoeding, aan de LEM Antwerpen, die zorgt voor de commerciële uitbating ervan.<br /><br />De concretisering van de kwalitatieve en kwantitatieve wijze waarop die activiteiten door de LOM Antwerpen zullen worden verricht, zal het voorwerp uitmaken van de beheersovereenkomst die overeenkomstig artikelen 14 tot en met 16 van het Kaderdecreet tussen het Vlaamse Gewest en de LOM Antwerpen zal worden gesloten. Deze beheersovereenkomst zal tevens de taken en verplichtingen concretiseren die de LOM Antwerpen moet opnemen inzake het toezicht op controle-, veiligheids- en beveiligingsdiensten, brandweerdiensten, certificering van de luchthaven, zoals die voortvloeien uit de toepasselijke internationale, Europese en nationale regelgeving. Het Vlaamse Gewest en de LOM Antwerpen zullen in de beheersovereenkomst tevens concretiseren welke hun respectieve taken en verantwoordelijkheden zijn met betrekking tot de uitvoering van de samenwerkingsovereenkomsten inzake luchtverkeer die door het Vlaamse Gewest gebeurlijk met de federale overheid gesloten zijn of nog zullen worden gesloten. Het voorgaande doet geen afbreuk aan de verplichtingen van de LEM Antwerpen krachtens artikel 66/30, § 3, van dit decreet.<br /><br />§ 2. De LOM Antwerpen kan daarenboven alle handelingen en activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot of verband houden met de verwezenlijking van haar doel als vermeld in § 1.<br /><br />§ 3. De Vlaamse Regering kan aan de leningen, schulden of verplichtingen van de LOM Antwerpen de waarborg van het Vlaamse Gewest verlenen.
+§ 1. De LOM Antwerpen heeft als doel de duurzame ontwikkeling, de instandhouding, het beheer en het onderhoud van de luchthaveninfrastructuur en de terbeschikkingstelling van die infrastructuur, of een deel ervan, tegen marktconforme vergoeding, aan de LEM Antwerpen, die zorgt voor de commerciële uitbating ervan.<br>
+<br>
+De concretisering van de kwalitatieve en kwantitatieve wijze waarop de LOM Antwerpen die activiteiten zal verrichten, zal opgenomen worden in het ondernemingsplan, vermeld in artikel 5/1, § 1, van het Kaderdecreet. Dat ondernemingsplan zal ook de beleids- en beheersdoelstellingen van de LOM Antwerpen bevatten voor het toezicht op controle-, veiligheids-, beveiligings- en brandweerdiensten, en voor de certificering van de luchthaven, zoals die voortvloeien uit de toepasselijke internationale, Europese en nationale regelgeving. De LOM Antwerpen zal in haar ondernemingsplan de respectieve taken en verantwoordelijkheden concretiseren voor de uitvoering van de eventuele samenwerkingsovereenkomsten voor het luchtverkeer die het Vlaamse Gewest met de federale overheid sluit. Het voorgaande doet geen afbreuk aan de verplichtingen van de LEM Antwerpen, vermeld in artikel 66/30, § 3, van dit decreet.<br>
+<br>
+§ 2. De LOM Antwerpen kan daarenboven alle handelingen en activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot of verband houden met de verwezenlijking van haar doel als vermeld in § 1.<br>
+<br>
+§ 2/1. De LOM Antwerpen kan voor bijstand en ondersteuning, op juridisch, financieel, technisch en administratief vlak, bij de uitvoering van haar decretale opdracht een beroep doen op het Vlaamse Gewest. In voorkomend geval wordt daarvoor een samenwerkingsovereenkomst gesloten waarin wederzijdse afspraken worden vastgelegd.<br>
+<br>
+§ 3. De Vlaamse Regering kan aan de leningen, schulden of verplichtingen van de LOM Antwerpen de waarborg van het Vlaamse Gewest verlenen.
 
 ## [ONDERAFDELING II. Bevoegdheden (ing. decr. 8 mei 2009, art. 3)]
 
@@ -456,7 +500,17 @@ De algemene vergadering heeft de bevoegdheid om de statuten te wijzigen, conform
 
 ### ART. 66/21.
 
-§ 1. De raad van bestuur bestaat uit maximaal negen leden, de onafhankelijke leden uitgezonderd. Daarnaast kan de raad van bestuur overeenkomstig artikel 18, § 2, van het Kaderdecreet onafhankelijke bestuurders coöpteren.<br /><br />De leden van de raad van bestuur, de onafhankelijke bestuurders uitgezonderd, worden door de Vlaamse Regering benoemd. De algemene vergadering van aandeelhouders van de LOM Antwerpen heeft het recht om kandidaten voor te dragen voor benoeming door de Vlaamse Regering, met dien verstande dat de meerderheid van de leden van de raad van bestuur van de LOM Antwerpen steeds moet bestaan uit bestuurders, voorgedragen door hetVlaamse Gewest.<br /><br />De onafhankelijke leden worden benoemd overeenkomstig artikel 18, § 2, van het Kaderdecreet.<br /><br />De benoeming en het ontslag van de bestuurders moeten worden neergelegd en bekendgemaakt overeenkomstig artikel 74 en volgende van het Wetboek van vennootschappen. In die publicatie wordt tevens aangegeven of de betrokken bestuurder benoemd werd op voordracht van het Vlaamse Gewest, op voordracht van de algemene vergadering van de LOM Antwerpen, dan wel als onafhankelijk bestuurder gecoöpteerd werd overeenkomstig artikel 18, § 2, van het Kaderdecreet.<br /><br />De raad van bestuur heeft het recht ad hoc waarnemers uit te nodigen om aanwezig te zijn op de vergaderingen van de raad van bestuur.<br /><br />§ 2. Het mandaat van bestuurder moet beantwoorden aan de onverenigbaarheden, vermeld in artikel 21 van het Kaderdecreet.
+§ 1. De raad van bestuur bestaat uit maximaal negen leden.<br>
+<br>
+De leden van de raad van bestuur &nbsp;worden door de Vlaamse Regering benoemd. De algemene vergadering van aandeelhouders van de LOM Antwerpen heeft het recht om kandidaten voor te dragen voor benoeming door de Vlaamse Regering, met dien verstande dat de meerderheid van de leden van de raad van bestuur van de LOM Antwerpen steeds moet bestaan uit bestuurders, voorgedragen door hetVlaamse Gewest.<br>
+<br>
+De onafhankelijke leden worden benoemd overeenkomstig artikel 5 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector.<br>
+<br>
+De benoeming en het ontslag van de bestuurders moeten worden neergelegd en bekendgemaakt overeenkomstig artikel 74 en volgende van het Wetboek van vennootschappen. In die publicatie wordt tevens aangegeven of de betrokken bestuurder benoemd werd op voordracht van het Vlaamse Gewest of, op voordracht van de algemene vergadering van de LOM Antwerpen.<br>
+<br>
+De raad van bestuur heeft het recht ad hoc waarnemers uit te nodigen om aanwezig te zijn op de vergaderingen van de raad van bestuur.<br>
+<br>
+§ 2. Het mandaat van bestuurder moet beantwoorden aan de onverenigbaarheden, vermeld in artikel 21 van het Kaderdecreet.
 
 ### ART. 66/22.
 
