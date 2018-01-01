@@ -30,7 +30,9 @@ Een evenredig deel van de wachttijd, vermeld in het eerste lid, wordt in aanmerk
 
 ### ART. 2.
 
-De reders, vermeld in artikel 2, § 1, 2°, van de besluitwet   van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden   ter koopvaardij, worden vrijgesteld van de betaling van werkgeversbijdragen aan   de Hulp- en Voorzorgskas voor Zeevarenden voor :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   26,99 % van de globale basiswerkgeversbijdragen, vermeld in artikel 3, § 3, 1°,   van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid   van de zeelieden ter koopvaardij;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de bijdrage aan het Fonds tot vergoeding van de in geval van sluiting van   ondernemingen ontslagen werknemers, vermeld in artikel 58 en 60 van de wet van   26 juni 2002 betreffende de sluiting van ondernemingen.
+De reders, vermeld in artikel 2, § 1, 2°, van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij, worden vrijgesteld van de betaling van werkgeversbijdragen aan de Rijksdienst voor Sociale Zekerheid voor :<br>
+1° 26,99 % van de globale basiswerkgeversbijdragen, vermeld in artikel 3, § 3, 1°, van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij;<br>
+2° de bijdrage aan het Fonds tot vergoeding van de in geval van sluiting van ondernemingen ontslagen werknemers, vermeld in artikel 58 en 60 van de wet van 26 juni 2002 betreffende de sluiting van ondernemingen.
 
 ### ART. 3.
 
@@ -38,7 +40,14 @@ De reders, vermeld in artikel 2, § 1, 2°, van de besluitwet   van 7 februari 1
 
 ### ART. 4.
 
-<P>De reder deelt aan de Hulp- en Voorzorgskas voor Zeevarenden de   volgende gegevens mee :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het aantal dagen waarvoor de sociale zekerheidsbijdragen verschuldigd zijn,   namelijk :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   elke vaart- en bijwerkdag voor de zeevarenden;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   elke arbeidsdag voor de shoregangers;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">c)   elke dag waarvoor de opzeggingsvergoeding door de reder verschuldigd   is;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het maand per maand betaalde brutoloon met betrekking tot de voormelde dagen,   waarop de zeeman ingevolge zijn dienstbetrekking recht heeft.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het eerste lid, 2° wordt verstaan onder brutoloon van de zeeman : de   standaardgage, vermeerderd met de overuren en alle vergoedingen,   opzeggingsvergoedingen inbegrepen.</P>
+<p>De reder deelt aan de&nbsp;Rijksdienst voor Sociale Zekerheid de volgende gegevens mee :<br>
+1° het aantal dagen waarvoor de sociale zekerheidsbijdragen verschuldigd zijn, namelijk :<br>
+a) elke vaart- en bijwerkdag voor de zeevarenden;<br>
+b) elke arbeidsdag voor de shoregangers;<br>
+c) elke dag waarvoor de opzeggingsvergoeding door de reder verschuldigd is;<br>
+2° het maand per maand betaalde brutoloon met betrekking tot de voormelde dagen, waarop de zeeman ingevolge zijn dienstbetrekking recht heeft.</p>
+
+<p>In het eerste lid, 2° wordt verstaan onder brutoloon van de zeeman : de standaardgage, vermeerderd met de overuren en alle vergoedingen, opzeggingsvergoedingen inbegrepen.</p>
 
 ### ART. 5.
 
