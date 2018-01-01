@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028773,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-27 tot wijziging van het besluit van de Vlaamse Regering van 8 december 1993 betreffende de controle op de afwezigheid wegens ziekte en het besluit van de Vlaamse Regering van 15 februari 2008 betreffende het ziekteverlof, het verlof voor verminderde prestaties wegens ziekte, het langdurig verlof voor verminderde prestaties wegens medische redenen en de terbeschikkingstelling wegens ziekte voor bepaalde personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028773/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "7be6fb17088c775c896d5756e45055be03bcb865f5737ea316ad2756ca6aad6b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028773&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-10-27",
+  "gazette": "2017-11-24",
+  "numac": 2017031456,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
