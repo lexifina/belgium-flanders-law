@@ -1278,6 +1278,18 @@ In hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 februari   2013
 
 <P>...</P>
 
+### ART. 204.
+
+<P>In hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 februari   2013, wordt in dezelfde afdeling 5 van titel V, hoofdstuk 4, een artikel 5.4.12   ingevoegd, dat luidt als volgt:<BR>"Art. 5.4.12. § 1. De bevoegde dienst van de   gemeente wordt belast met de coördinatie en de uitvoering van de evaluaties van   ingedeelde inrichtingen of activiteiten die behoren tot projecten waarvoor het   college van burgemeester en schepenen bevoegd is om in eerste administratieve   aanleg over de vergunningsaanvraag een beslissing te nemen.<BR></P>  <P>De Vlaamse Regering bepaalt de gevallen waarin de provinciale   omgevingsvergunningscommissie, vermeld in artikel 16, § 1, eerste lid, van het   decreet van 25 april 2014 betreffende de omgevingsvergunning, voor het uitvoeren   van de evaluaties een advies verleent aan het college van burgemeester en   schepenen.<BR></P>  <P>§ 2. De provinciale en de gewestelijke omgevingsvergunningscommissie, vermeld   in artikel 16, § 1, van het decreet van 25 april 2014 betreffende de   omgevingsvergunning, worden belast met de coördinatie en de uitvoering van de   evaluaties van ingedeelde inrichtingen of activiteiten die behoren tot projecten   waarvoor respectievelijk de deputatie en het Vlaamse Gewest bevoegd zijn om in   eerste administratieve aanleg over de vergunningsaanvraag een beslissing te   nemen.<BR></P>  <P>De adviesinstanties die overeenkomstig artikel 24, eerste lid,&nbsp;van het   decreet van 25 april 2014 betreffende de omgevingsvergunning zijn aangewezen om   voor de ingedeelde inrichting of activiteit een advies te verlenen, verlenen   advies in het kader van een evaluatie van de provinciale of de gewestelijke   omgevingsvergunningscommissie.<BR><BR>§ 3. De Vlaamse Regering stelt de   termijnen vast waarbinnen de in paragraaf 1 en 2 vermelde adviezen moeten worden   uitgebracht. Als geen advies wordt uitgebracht binnen de vastgestelde termijn   wordt de adviesinstantie of de adviserende provinciale   omgevingsvergunningscommissie geacht van oordeel te zijn dat er geen bijstelling   van de milieuvoorwaarden moet plaatsvinden."<BR></P>
+
+### ART. 205.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 februari   2013, wordt in dezelfde afdeling 5 van titel V, hoofdstuk 4, een artikel 5.4.13   ingevoegd, dat luidt als volgt:<BR>"Art. 5.4.13. De bevoegde dienst van de   gemeente, de provinciale en de gewestelijke omgevingvergunningscommissie kunnen   voor de uitvoering van de evaluaties informatie vragen bij de exploitant of bij   de bevoegde toezichthouder, vermeld in titel XVI.".<BR>
+
+### ART. 206.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 februari   2013, wordt in dezelfde afdeling 5 van titel V, hoofdstuk 4, een artikel 5.4.14   ingevoegd, dat luidt als volgt:<BR>"Art. 5.4.14. De Vlaamse Regering bepaalt de   nadere regels voor de uitvoering van de evaluaties.".<BR>
+
 ### ART. 207.
 
 In hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 februari   2013, wordt in titel V, ingevoegd bij artikel 174, een hoofdstuk 5 ingevoegd,   dat luidt als volgt:<BR>"Hoofdstuk 5. - Genetisch gemodificeerde organismen of   pathogene organismen".<BR>
