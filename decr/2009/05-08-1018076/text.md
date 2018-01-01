@@ -56,23 +56,24 @@ Het besluit houdende definitieve vaststelling van het gemeentelijk rooilijnplan 
 
 ### ART. 11.
 
-Het gewest en de gemeenten kunnen de onroerende goederen vereist voor de realisatie van de rooilijnplannen verwerven door onteigening in het algemeen belang.<br /><br />Deze onteigeningen zullen worden gevorderd met toepassing van de gemeenrechtelijke onteigeningsprocedure of van de rechtspleging in hoogdringende omstandigheden.<br /><br />
+Het gewest en de gemeenten kunnen de onroerende goederen vereist voor de realisatie van de rooilijnplannen verwerven door onteigening in het algemeen belang.
 
 ### ART. 12.
 
-De onteigenende overheid moet beschikken over een definitief vastgesteld onteigeningsplan.<br /><br />Het onteigeningsplan moet de omtrek van de te onteigenen goederen aangeven, afzonderlijk of tot stroken samengevoegd, met de kadastrale vermelding van de sectie, de nummers, de grootte en de aard van de percelen, en met de naam van de eigenaars volgens de kadastrale gegevens. Het onteigeningsplan moet voor elk te onteigenen perceel de onteigenende rechtspersoon vermelden.<br /><br />Wat de uit te voeren werken en onroerende verrichtingen betreft, kan het onteigeningsplan zich beperken tot het overnemen van de voorschriften van het rooilijnplan.<br /><br />De eigenaars van de betrokken onroerende goederen, gelegen binnen de omtrek van de te onteigenen percelen worden bij aangetekende brief in hun woonplaats op de hoogte gebracht van de periode dat het rooilijnplan of het onteigeningsplan in het gemeentehuis ter inzage ligt.<br /><br />De onteigenende overheid draagt de kosten van het openbaar onderzoek.<br /><br />Het onteigeningsplan dat gelijktijdig met het rooilijnplan waarvan het de uitvoering beoogt, wordt opgesteld, wordt samen met dit plan onderworpen aan de procedure voor de vaststelling van dat rooilijnplan.<br /><br />Het onteigeningsplan voor de realisatie van het gemeentelijk rooilijnplan wordt aan de Vlaamse Regering voorgelegd. De Vlaamse Regering beslist over het verlenen van de onteigeningsmachtiging.<br /><br />
+...
 
 ### ART. 13.
 
-Bij het bepalen van de waarde van het te onteigenen perceel wordt geen rekening gehouden met de waardevermeerdering die het goed heeft verkregen door onwettig uitgevoerde werken of handelingen.<br /><br />
+...
 
 ### ART. 14.
 
-Wanneer binnen een termijn van vijf jaar, te rekenen vanaf de goedkeuring van het onteigeningsplan de onteigeningsprocedure niet is begonnen, kan de eigenaar van het te onteigenen onroerend goed bij aangetekende brief de onteigenende overheid verzoeken van de onteigening van zijn goed af te zien.<br /><br />De onteigenende overheid brengt de eigenaar per aangetekende brief op de hoogte van zijn beslissing binnen twee maanden na ontvangst van het verzoek.<br /><br />Indien de onteigenende overheid afziet van het voornemen om te onteigenen of bij ontstentenis van een beslissing binnen voormelde termijn, vervalt het onteigeningsplan van rechtswege voor het deel dat betrekking heeft op de goederen van de eigenaar die het verzoek heeft ingediend.<br /><br />Als de onteigenende overheid beslist niet af te zien van het voornemen om te onteigenen dan moet deze binnen twee jaar te rekenen vanaf de aangetekende brief waarmee ze de verzoeker op de hoogte brengt van haar beslissing, de onteigeningsprocedure aanvatten, anders vervalt het onteigeningsplan van rechtswege voor het deel dat betrekking heeft op de goederen van de eigenaar die het verzoek heeft ingediend.<br /><br />
+...
 
 ### ART. 15.
 
-Het besluit van de Vlaamse Regering of de gemeente houdende de definitieve   vaststelling van het rooilijnplan kan bepalen dat het rooilijnplan slechts kan   worden uitgevoerd naarmate de aanvragen voor een omgevingsvergunning voor   stedenbouwkundige handelingen of voor het verkavelen van gronden worden   ingediend. In dat geval is artikel 14 niet van toepassing.<BR><BR>
+Het besluit van de Vlaamse Regering of de gemeente houdende de definitieve vaststelling van het rooilijnplan kan bepalen dat het rooilijnplan slechts kan worden uitgevoerd naarmate de aanvragen voor een omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden worden ingediend. In dat geval is artikel 42 van het Vlaams Onteigeningsdecreet van 24 februari 2017 niet van toepassing.<br>
+&nbsp;
 
 ### ART. 16.
 
