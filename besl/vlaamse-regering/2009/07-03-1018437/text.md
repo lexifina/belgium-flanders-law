@@ -8,7 +8,15 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 1991 betreffen
 
 ### ART. 1.
 
-§ 1. Dit besluit is van toepassing op : <br />1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br />2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br />3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br />4° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br /><br />§ 2. Voor de tijdelijk aangestelde personeelsleden gelden de bepalingen van dit besluit enkel voor de afwezigheid die ligt binnen de periode van hun aanstelling.<br /><br />
+§ 1. Dit besluit is van toepassing op :<br>
+1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
+2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
+3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
+4° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br>
+5° de personeelsleden vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie.<br>
+<br>
+§ 2. Voor de tijdelijk aangestelde personeelsleden gelden de bepalingen van dit besluit enkel voor de afwezigheid die ligt binnen de periode van hun aanstelling.<br>
+&nbsp;
 
 ## HOOFDSTUK II Omstandigheidsverlof en verlof wegens overmacht
 
@@ -76,6 +84,10 @@ Het borstvoedingsverlof dat aanvangt vóór 1 april 2009 en na deze datum eindig
 ### ART. 13.
 
 Personeelsleden die vóór 1 april 2009 borstvoedingsverlof hebben opgenomen voor hun kind, kunnen geen aanspraak maken op onbezoldigd ouderschapsverlof voor datzelfde kind.<br /><br />
+
+### ART 13/1.
+
+De perioden van verlof die door de personeelsleden van de centra voor basiseducatie opgenomen zijn vóór 1 januari 2018 voor dezelfde gebeurtenis, worden in rekening gebracht bij de berekening van het contingent dat vastgelegd is voor dat verlof.
 
 ## HOOFDSTUK VIII Slotbepalingen
 
