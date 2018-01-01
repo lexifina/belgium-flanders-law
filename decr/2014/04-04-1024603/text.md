@@ -112,11 +112,25 @@ De Vlaamse Regering kan nadere regels vaststellen met betrekking tot de opmaak, 
 
 ### ART. 11.
 
-<P>Het huishoudelijk reglement regelt minstens de indeling in kamers, de   toewijzing van dossiers en de wijze van beraadslaging en beslissing van de   algemene vergadering.<BR></P>  <P>Het reglement wordt bekendgemaakt in het Belgisch   Staatsblad.<BR></P>
+<p>Het huishoudelijk reglement regelt minstens de indeling in kamers, waaronder de specialiteit, de toewijzing van dossiers en de wijze van beraadslaging en beslissing van de algemene vergadering.</p>
+
+<p>Het reglement wordt bekendgemaakt in het Belgisch Staatsblad.</p>
 
 ### ART. 12.
 
-<P>De Vlaamse bestuursrechtscolleges worden ingedeeld in kamers.<BR></P>  <P>Een enkelvoudige kamer houdt zitting met één bestuursrechter. Meervoudige   kamers houden zitting met drie bestuursrechters.<BR></P>  <P>De eerste voorzitter bepaalt de samenstelling van de kamers en wijst de   kamervoorzitters aan.<BR></P>  <P>De kamervoorzitter neemt de leiding van de kamer en is belast met de   organisatie ervan. Hij brengt daarover verslag uit bij de eerste   voorzitter.<BR></P>  <P>De kamervoorzitter bewaakt de eenheid van rechtspraak of rechtsvorming in   zijn kamer.<BR></P>  <P>De eerste voorzitter kan aanvullende kamers samenstellen. Hij kan daarbij   afwijken van de regels die zijn vastgesteld in het huishoudelijk   reglement.<BR></P>
+<p>De Vlaamse bestuursrechtscolleges worden ingedeeld in kamers.<br>
+<br>
+Het rechtscollege, zoals bedoeld in artikel 2, § 1, b), heeft een kamer die uitsluitend bevoegd is voor beroepen tegen definitieve onteigeningsbesluiten.<br>
+<br>
+Een enkelvoudige kamer houdt zitting met één bestuursrechter. Meervoudige kamers houden zitting met drie bestuursrechters.<br>
+<br>
+De eerste voorzitter bepaalt de samenstelling van de kamers en wijst de kamervoorzitters aan. Hij houdt daarbij rekening met de kennis van de bestuursrechters, overeenkomstig de kennisdomeinen bepaald in artikel 49, § 1, tweede lid, en wijst aan een gespecialiseerde kamer enkel een bestuursrechter toe voor zover deze over voldoende kennis beschikt in de materies waarin deze kamer gespecialiseerd is.<br>
+<br>
+De kamervoorzitter neemt de leiding van de kamer en is belast met de organisatie ervan. Hij brengt daarover verslag uit bij de eerste voorzitter.<br>
+<br>
+De kamervoorzitter bewaakt de eenheid van rechtspraak of rechtsvorming in zijn kamer.<br>
+<br>
+De eerste voorzitter kan aanvullende kamers samenstellen. Hij kan daarbij afwijken van de regels die zijn vastgesteld in het huishoudelijk reglement.</p>
 
 ## HOOFDSTUK 3 Rechtspleging
 
@@ -558,7 +572,27 @@ De eerste voorzitter bezorgt het jaarverslag aan de voorzitter van het   Vlaams 
 
 ### ART. 49.
 
-<P>§ 1. De Vlaamse Regering benoemt de effectieve bestuursrechters voor het   leven bij een Vlaams bestuursrechtscollege op voordracht van de algemene   vergadering.<BR></P>  <P>De effectieve bestuursrechters voldoen minstens aan de volgende   benoemingsvoorwaarden:<BR>1° houder zijn van het diploma van licentiaat of   master in de rechten;<BR>2° een grondige kennis hebben van en minstens tien jaar   nuttige ervaring hebben in de domeinen van het Vlaamse recht inzake ruimtelijke   ordening en van het Vlaamse milieurecht;<BR>3° een grondige kennis hebben van   procesvoering en rechtsbescherming in bestuurlijke of rechterlijke   aangelegenheden.<BR></P>  <P>§ 2. In afwijking van paragraaf 1, eerste lid, kan de Vlaamse Regering bij   het Vlaams bestuursrechtscollege, vermeld in artikel 2, 1°, c), aanvullende   bestuursrechters benoemen op voordracht van de algemene vergadering voor een   periode van zes jaar, die hernieuwbaar is.<BR></P>  <P>In afwijking van paragraaf 1, tweede lid, kan niemand als aanvullende   bestuursrechter worden benoemd tenzij hij zijn deskundigheid kan aantonen op het   vlak van publiek recht, politieke wetenschappen of   bestuurswetenschappen.<BR></P>  <P>§ 3. De Vlaamse Regering verklaart de functie van bestuursrechter   vacant.<BR></P>  <P>§ 4. De kandidaten worden geselecteerd door een selectiecommissie. De   selectie beoogt de bekwaamheid die vereist is voor de uitoefening van het ambt   van bestuursrechter te beoordelen. De algemene vergadering bepaalt de   samenstelling van de selectiecommissie. De selectiecommissie stelt het programma   van de selectieproef vast en legt dat ter bekrachtiging voor aan de algemene   vergadering.<BR></P>  <P>De algemene vergadering brengt op grond van de beoordeling van de kandidaten   een gemotiveerde voordracht uit aan de Vlaamse Regering, nadat ze de respectieve   aanspraken en verdiensten van de kandidaten, die geslaagd zijn voor de   selectieproef, vermeld in het eerste lid, heeft vergeleken, aangevuld met een   interview met de batig gerangschikte kandidaten.<BR><BR>[... <EM>(vernietigd   Arrest Grondwettelijk Hof nr. 152/2015 van 29 oktober   2015)</EM><STRONG>]</STRONG></P>  <P>§ 5. De Vlaamse Regering bepaalt de nadere regels voor de toepassing van deze   bepalingen, waaronder de nadere regels voor de oproep tot de   kandidaat-bestuursrechters.<BR></P>
+<p>§ 1. De Vlaamse Regering benoemt de effectieve bestuursrechters voor het leven bij een Vlaams bestuursrechtscollege op voordracht van de algemene vergadering.</p>
+
+<p>De effectieve bestuursrechters voldoen minstens aan de volgende benoemingsvoorwaarden:<br>
+1° houder zijn van het diploma van licentiaat of master in de rechten;<br>
+2° een grondige kennis hebben van en minstens tien jaar nuttige ervaring hebben in de domeinen van het Vlaamse recht inzake ruimtelijke ordening en van het Vlaamse milieurecht;<br>
+3° een grondige kennis hebben van procesvoering en rechtsbescherming in bestuurlijke of rechterlijke aangelegenheden;<br>
+4° een grondige kennis hebben van het Vlaams onteigeningsrecht.</p>
+
+<p>§ 2. In afwijking van paragraaf 1, eerste lid, kan de Vlaamse Regering bij het Vlaams bestuursrechtscollege, vermeld in artikel 2, 1°, c), aanvullende bestuursrechters benoemen op voordracht van de algemene vergadering voor een periode van zes jaar, die hernieuwbaar is.</p>
+
+<p>In afwijking van paragraaf 1, tweede lid, kan niemand als aanvullende bestuursrechter worden benoemd tenzij hij zijn deskundigheid kan aantonen op het vlak van publiek recht, politieke wetenschappen of bestuurswetenschappen.</p>
+
+<p>§ 3. De Vlaamse Regering verklaart de functie van bestuursrechter vacant.</p>
+
+<p>§ 4. De kandidaten worden geselecteerd door een selectiecommissie. De selectie beoogt de bekwaamheid die vereist is voor de uitoefening van het ambt van bestuursrechter te beoordelen. De algemene vergadering bepaalt de samenstelling van de selectiecommissie. De selectiecommissie stelt het programma van de selectieproef vast en legt dat ter bekrachtiging voor aan de algemene vergadering.</p>
+
+<p>De algemene vergadering brengt op grond van de beoordeling van de kandidaten een gemotiveerde voordracht uit aan de Vlaamse Regering, nadat ze de respectieve aanspraken en verdiensten van de kandidaten, die geslaagd zijn voor de selectieproef, vermeld in het eerste lid, heeft vergeleken, aangevuld met een interview met de batig gerangschikte kandidaten.<br>
+<br>
+[... <em>(vernietigd Arrest Grondwettelijk Hof nr. 152/2015 van 29 oktober 2015)</em><strong>]</strong></p>
+
+<p>§ 5. De Vlaamse Regering bepaalt de nadere regels voor de toepassing van deze bepalingen, waaronder de nadere regels voor de oproep tot de kandidaat-bestuursrechters.</p>
 
 ### ART. 50.
 
