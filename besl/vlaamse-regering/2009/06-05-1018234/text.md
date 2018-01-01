@@ -229,6 +229,18 @@ De aanmelding, vermeld in artikel 65 van het woonzorgdecreet van 13 maart 2009, 
 
 Een aanmelding bevat de volgende informatie : <br />1° een omschrijving van de aangeboden of georganiseerde woonzorg;<br />2° de identiteitsgegevens van de aanmelder;<br />3° een plan van de gemeente met aanduiding van de exacte inplantingplaats;<br />4° het werkgebied waar de hulp geboden wordt.<br /><br />
 
+### ART 37/1.
+
+De woongelegenheid voor het verblijf van een inwonende persoon conform artikel 53/1 van het Woonzorgdecreet van 13 maart 2009 wordt aangemeld met het aanmeldingsformulier dat het agentschap ter beschikking stelt en dat de volgende gegevens en stukken bevat:<br>
+1° de identiteitsgegevens van de beheersinstantie en van de voorziening;<br>
+2° het aantal aangemelde woongelegenheden;<br>
+3° een brandveiligheidsattest. De capaciteit die vermeld wordt op het attest van de burgemeester omvat zowel de erkende capaciteit van het woonzorgcentrum als de aangemelde capaciteit van de woongelegenheden aangemeld conform artikel 53/1;<br>
+4° een toelichting, waarin de volgende elementen aan bod komen over de aangemelde mantelzorgwoongelegenheden:<br>
+a) het profiel van de voorziening;<br>
+b) een beschrijving van de infrastructuur die aangewend zal worden, waarbij aangetoond wordt dat die infrastructuur voldoet aan de bepalingen, vermeld in artikel 2 en 4 van het besluit van de Vlaamse Regering van 10 november 2017 houdende de bepaling van de normen en de aanmeldingsprocedure voor het verblijf van zelfredzame personen in een woonzorgcentrum buiten de erkende capaciteit;<br>
+c) een toelichting over de financiële afhandeling van het verblijf;<br>
+5° een ondertekende verbintenis om voor de aangemelde mantelzorgwoongelegenheden te voldoen aan de bepalingen, vermeld in artikel 53/1 van het Woonzorgdecreet, en aan de normen, vermeld in het Besluit van de Vlaamse Regering van 10 november 2017 houdende de bepaling van de normen en de aanmeldingsprocedure voor het verblijf van zelfredzame personen in een woonzorgcentrum buiten de erkende capaciteit.
+
 ### ART. 38.
 
 Het agentschap bezorgt de aanmelder een ontvangstmelding.<br /><br />
