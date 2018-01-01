@@ -97,6 +97,11 @@ In artikel VI 30ter, van hetzelfde besluit, ingevoegd bij het besluit van de Vla
 3° in punt 3°, d) wordt de zinsnede "artikel 4 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen" vervangen door de zinsnede "artikel II 2 van de Codex Hoger Onderwijs van 11 oktober 2013".<br>
 &nbsp;
 
+### ART 26.
+
+In artikel VI 59, § 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2008, worden de woorden "de EVA Waterwegen en Zeekanaal" vervangen door de woorden "het agentschap De Vlaamse Waterweg nv."<br>
+&nbsp;
+
 ### ART 35.
 
 In artikel VII 44bis, § 4, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 februari 2014, wordt het woord "functieniveaumatrix" vervangen door het woord "functiematrix".<br>
@@ -105,6 +110,11 @@ In artikel VII 44bis, § 4, van hetzelfde besluit, ingevoegd bij het besluit van
 ### ART 37.
 
 In artikel VII 51, § 1, van hetzelfde besluit, ingevoegd bij het besluit van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 29 mei 2009, wordt de zinsnede "Agentschap voor Hoger Onderwijs, Volwassenenonderwijs en Studietoelagen" telkens vervangen door zinsnede "Agentschap Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen".<br>
+&nbsp;
+
+### ART 38.
+
+&nbsp;In artikel VII 56, § 1, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 13 november 2015, wordt de zinsnede "agentschappen Waterwegen en Zeekanaal, De Scheepvaart" vervangen door de woorden "De Vlaamse Waterweg nv".<br>
 &nbsp;
 
 ### ART 42.
@@ -120,6 +130,18 @@ In artikel VII 109octies, eerste lid, van hetzelfde besluit, ingevoegd bij het b
 ### ART 47.
 
 &nbsp;In artikel VII 126, § 2, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 2 december 2011, wordt het woord "LNE" vervangen door het woord "Omgeving".<br>
+&nbsp;
+
+### ART 48.
+
+&nbsp;In artikel VII 164, § 1, ingevoegd bij het besluit van de Vlaamse Regering van 8 juni 2012 en gewijzigd bij de besluiten van de Vlaamse Regering van 1 februari 2013, 21 februari 2014 en 24 juni 2016, wordt het eerste lid vervangen door wat volgt:<br>
+"De compenserende toelage van 43 euro voor vastbenoemden en van 47,50 euro voor contractuelen blijft behouden voor de personeelsleden van de volgende agentschappen, op voorwaarde dat die personeelsleden er in dienst zijn getreden vóór 1 december 2012 en totdat het personeelslid de entiteit vrijwillig verlaat of ontslagen wordt:<br>
+1° De Vlaamse Waterweg nv of één van zijn rechtsvoorgangers, namelijk Waterwegen en Zeekanaal NV of nv De Scheepvaart;<br>
+2° Vlaams Agentschap voor Internationaal Ondernemen (FIT), met uitzondering van de Vlaamse economische vertegenwoordigers en het ondersteunend personeel in het buitenland;<br>
+3° Openbare Vlaamse Afvalstoffenmaatschappij;<br>
+4° Vlaams Agentschap voor Personen met een Handicap;<br>
+5° Vlaamse Maatschappij voor Sociaal Wonen;<br>
+6° Instituut voor de Aanmoediging van Innovatie door Wetenschap en Technologie in Vlaanderen.".<br>
 &nbsp;
 
 ### ART 52.
