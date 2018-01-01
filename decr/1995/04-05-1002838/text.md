@@ -1249,6 +1249,14 @@ De sectorale milieuvoorwaarden kunnen de algemene milieuvoorwaarden   aanvullen 
 
 De bijzondere milieuvoorwaarden, vermeld in artikel 72 en 113 van het   decreet van 25 april 2014 betreffende de omgevingsvergunning vullen de algemene   en sectorale milieuvoorwaarden aan of stellen bijkomende eisen.<BR><BR>De   voormelde bijzondere milieuvoorwaarden kunnen strenger zijn dan de algemene en   sectorale milieuvoorwaarden, behalve als het andersluidend bepaald is door de   Vlaamse Regering.<BR><BR>De voormelde bijzondere milieuvoorwaarden kunnen om   technische redenen in minder strenge zin afwijken van de algemene en sectorale   milieuvoorwaarden in de gevallen die door de Vlaamse Regering worden bepaald in   de algemene en sectorale milieuvoorwaarden.
 
+### ART. 5.4.6/1.
+
+De omzetting met het oog op de naleving van de beste beschikbare technieken, van nieuwe of bijgewerkte BBT-conclusies en van maatregelen in omzetting van Europese richtlijnen of uit de door de Vlaamse Regering goedgekeurde plannen en programma's voor wat betreft de exploitatie van ingedeelde inrichtingen of activiteiten gebeurt waar mogelijk en bij voorrang door middel van algemene of sectorale milieuvoorwaarden of andere sectorale regelgeving.<br>
+<br>
+Met het oog op de omzetting, vermeld in het eerste lid, stelt de Vlaamse Regering voor de betrokken overheden beleidstaken en richtlijnen vast die aanwijzen welke voorschriften en normen hetzij via algemene of sectorale milieuvoorwaarden hetzij via bijzondere milieuvoorwaarden in de omgevingsvergunning voor de exploitatie van een ingedeelde inrichting of activiteit worden opgelegd.<br>
+<br>
+De richtlijnen over bijzondere milieuvoorwaarden vermelden de criteria in welke gevallen het aangewezen is een gerichte evaluatie uit te voeren met het oog op de eventuele toepassing van artikel 82, eerste lid, 2°, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
+
 ### ART. 5.4.7.
 
 Tenzij anders bepaald door de Vlaamse Regering zijn de algemene en   sectorale milieuvoorwaarden al dan niet na afloop van een door de Vlaamse   Regering te bepalen overgangstermijn van toepassing op inrichtingen en   activiteiten die op de datum van inwerkingtreding van het besluit houdende   milieuvoorwaarden zijn vergund of waarvoor een meldingsakte bestaat. In   afwijking hiervan blijven de strengere bijzondere milieuvoorwaarden uit de op   die datum lopende vergunning of uit de geldende beslissing verder   gelden.
@@ -1271,6 +1279,18 @@ De Vlaamse Regering kan nadere regels vaststellen voor de verplichtingen   van d
 
 ## [Afdeling 5 Evaluaties (ing. decr. 25 april 2014, art. 202)]
 
+### ART. 5.4.11.
+
+§ 1. De milieuvoorwaarden van toepassing op een ingedeelde inrichting of activiteit worden onderworpen aan:<br>
+1° een algemene evaluatie in de gevallen en voor de aspecten die de Vlaamse Regering ter omzetting van Europese regelgeving bepaalt;<br>
+2° een gerichte evaluatie in de gevallen en voor de aspecten die de Vlaamse Regering ter omzetting van Europese regelgeving of in de richtlijnen, vermeld in artikel 5.4.6/1, derde lid, bepaalt.<br>
+<br>
+Bij de uitvoering van een evaluatie, vermeld in het eerste lid, wordt nagegaan of de milieuvoorwaarden moeten worden bijgesteld en hiertoe overeenkomstig artikel 82, 2°, a), van het decreet van 25 april 2014 betreffende de omgevingsvergunning bij de bevoegde overheid een verzoek moet worden ingediend. De conclusie van een evaluatie doet geen afbreuk aan de toepassing van artikel 82, 1°, 2°, b) tot en met f), van het decreet van 25 april 2014 betreffende de omgevingsvergunning.<br>
+<br>
+§ 2. De uitvoering van de algemene evaluaties, vermeld in paragraaf 1, eerste lid, van GPBV-installaties als gevolg van ontwikkelingen op het gebied van beste beschikbare technieken of van de bekendmaking van nieuwe of bijgewerkte BBT-conclusies gebeurt op basis van een voortschrijdend meerjarenprogramma voor vijf opeenvolgende kalenderjaren dat door het Departement Omgeving, wordt vastgesteld. Het voortschrijdend meerjarenprogramma wordt jaarlijks geactualiseerd en afgestemd op de programmatorische aanpak van de milieuhandhaving.<br>
+<br>
+Het voortschrijdend meerjarenprogramma en de uitvoeringsgraad ervan worden jaarlijks openbaar gemaakt op de wijze die de Vlaamse Regering bepaalt.
+
 ### ART. 5.4.12.
 
 § 1. De bevoegde dienst van de gemeente wordt belast met de coördinatie en   de uitvoering van de evaluaties van ingedeelde inrichtingen of activiteiten die   behoren tot projecten waarvoor het college van burgemeester en schepenen bevoegd   is om in eerste administratieve aanleg over de vergunningsaanvraag een   beslissing te nemen.<BR><BR>De Vlaamse Regering bepaalt de gevallen waarin de   provinciale omgevingsvergunningscommissie, vermeld in artikel 16, § 1, eerste   lid, van het decreet van 25 april 2014 betreffende de omgevingsvergunning, voor   het uitvoeren van de evaluaties een advies verleent aan het college van   burgemeester en schepenen.<BR><BR>§ 2. De provinciale en de gewestelijke   omgevingsvergunningscommissie, vermeld in artikel 16, § 1, van het decreet van   25 april 2014 betreffende de omgevingsvergunning, worden belast met de   coördinatie en de uitvoering van de evaluaties van ingedeelde inrichtingen of   activiteiten die behoren tot projecten waarvoor respectievelijk de deputatie en   het Vlaamse Gewest bevoegd zijn om in eerste administratieve aanleg over de   vergunningsaanvraag een beslissing te nemen.<BR><BR>De adviesinstanties die   overeenkomstig artikel 24, eerste lid,&nbsp;van het decreet van 25 april 2014   betreffende de omgevingsvergunning zijn aangewezen om voor de ingedeelde   inrichting of activiteit een advies te verlenen, verlenen advies in het kader   van een evaluatie van de provinciale of de gewestelijke   omgevingsvergunningscommissie.<BR><BR>§ 3. De Vlaamse Regering stelt de   termijnen vast waarbinnen de in paragraaf 1 en 2 vermelde adviezen moeten worden   uitgebracht. Als geen advies wordt uitgebracht binnen de vastgestelde termijn   wordt de adviesinstantie of de adviserende provinciale   omgevingsvergunningscommissie geacht van oordeel te zijn dat er geen bijstelling   van de milieuvoorwaarden moet plaatsvinden.
@@ -1289,7 +1309,15 @@ De Vlaamse Regering bepaalt de nadere regels voor de uitvoering van de   evaluat
 
 ### ART. 5.5.1.
 
-<P>§ 1. Iedere natuurlijke persoon of rechtspersoon die een kennisgevingsdossier   of toelatingsaanvraag met betrekking tot genetisch gemodificeerde organismen,   genetisch gemodificeerde micro-organismen of pathogenen indient, is een   dossiertaks verschuldigd.<BR><BR>De opbrengst van de dossiertaks, vermeld in het   eerste lid, wordt rechtstreeks en integraal in het Fonds voor Preventie en   Sanering inzake Leefmilieu en Natuur gestort.<BR><BR>§ 2. De dossiertaks   bedraagt:<BR>1° voor een toelatingsaanvraag bij een eerste of een volgend   ingeperkt gebruik van niveau 2, 3 of 4: 500 euro;<BR>2° voor een kennisgeving   van een eerste ingeperkt gebruik risiconiveau 1 of een kennisgeving van een   volgend ingeperkt gebruik van risiconiveau 2: 100 euro.<BR><BR>§ 3. De Vlaamse   Regering kan nadere regels inzake de dossiertaks vaststellen.</P>
+<p>§ 1. Iedere natuurlijke persoon of rechtspersoon die een kennisgevingsdossier of toelatingsaanvraag met betrekking tot genetisch gemodificeerde organismen, genetisch gemodificeerde micro-organismen of pathogenen indient, is een dossiertaks verschuldigd.<br>
+<br>
+De opbrengst van de dossiertaks, vermeld in het eerste lid, wordt rechtstreeks en integraal in het Omgevingsfonds gestort.<br>
+<br>
+§ 2. De dossiertaks bedraagt:<br>
+1° voor een toelatingsaanvraag bij een eerste of een volgend ingeperkt gebruik van niveau 2, 3 of 4: 500 euro;<br>
+2° voor een kennisgeving van een eerste ingeperkt gebruik risiconiveau 1 of een kennisgeving van een volgend ingeperkt gebruik van risiconiveau 2: 100 euro.<br>
+<br>
+§ 3. De Vlaamse Regering kan nadere regels inzake de dossiertaks vaststellen.</p>
 
 ### ART. 5.5.2.
 
