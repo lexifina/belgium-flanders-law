@@ -12,6 +12,10 @@ De   Katholieke Universiteit Leuven kan een onderzoeksmaster Research Master of 
 
 De   Universiteit Antwerpen, de Universiteit Gent en de Vrije Universiteit Brussel   kunnen gezamenlijk een onderzoeksmaster Research Master of Philosophy   organiseren van honderdtwintig studiepunten. De onderwijstaal is het   Engels.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 3.
+
+Voor   de financiering van de aangeboden onderzoeksmaster Research Master of   Philosophy, vermeld in artikel 1, ontvangt de Katholieke Universiteit Leuven   overeenkomstig de bepalingen van artikel III.11, § 7, van de Codex Hoger   Onderwijs van 11 oktober 2013, bekrachtigd bij het decreet van 20 december 2013,   een bedrag van 92.394 euro.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
 ### ART. 5.
 
 Artikel   1 treedt in werking vanaf het academiejaar 2016-2017. Artikel 2 treedt in   werking vanaf het academiejaar 2017-2018. Artikel 3 treedt in werking vanaf het   begrotingsjaar 2018. Artikel 4 treedt in werking vanaf het begrotingsjaar   2019.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
