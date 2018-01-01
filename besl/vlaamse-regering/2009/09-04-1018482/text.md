@@ -8,7 +8,13 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de volgende personeelsleden :<br />1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br />2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br />3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br />4° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br /><br />
+Dit besluit is van toepassing op de volgende personeelsleden :<br>
+1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
+2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
+3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
+4° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br>
+<br>
+Dit besluit is eveneens van toepassing op de personeelsleden vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie voor wat de hoofdstukken IV en V betreft.
 
 ### ART. 2.
 
