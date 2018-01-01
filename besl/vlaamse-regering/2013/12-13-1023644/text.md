@@ -113,9 +113,9 @@ Kind en Gezin beslist over de toekenning van de subsidie uiterlijk   vijftien we
 
 ### ART 23/1.
 
-De pedagogische en taalondersteunende organisatie die een projectsubsidie ontving, kan een verlenging van de projectsubsidie krijgen tot en met 31 december 2017, volgens de voorwaarden van dit besluit.<br>
+De pedagogische en taalondersteunende organisatie die een projectsubsidie ontving, kan een verlenging van de projectsubsidie krijgen tot en met 31 december 2018, volgens de voorwaarden van dit besluit.<br>
 <br>
-De verlenging van de projectsubsidie kan gevraagd worden via een melding aan Kind en Gezin. Die melding gebeurt elektronisch en volgens de administratieve richtlijnen van Kind en Gezin.
+De verlenging van de projectsubsidie kan gevraagd worden via een melding aan Kind en Gezin. Die melding gebeurt elektronisch en volgens de administratieve richtlijnen van Kind en Gezin. De melding gebeurt uiterlijk op 31 januari 2018.
 
 ### ART 23/2.
 
@@ -136,6 +136,8 @@ In afwijking van het eerste lid kan Kind en Gezin, bij ernstige problemen bij de
 ### ART 23/5.
 
 De saldoafrekening, zijnde de betaling of de terugvordering van het saldo, gebeurt uiterlijk op 1 april van het jaar dat volgt op het kalenderjaar in kwestie.<br>
+<br>
+In afwijking van het eerste lid gebeurt de saldoafrekening van de projectsubsidie voor de periode van 1 januari 2018 tot en met 31 december 2018, uiterlijk op 1 maart 2019.<br>
 <br>
 Voor de saldoafrekening kan schuldvergelijking op organisatieniveau toegepast worden, waardoor terug te vorderen projectsubsidies van Kind en Gezin verrekend kunnen worden.
 
