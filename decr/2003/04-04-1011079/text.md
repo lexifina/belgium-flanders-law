@@ -4,36 +4,18 @@
 
 ### ART. 1.
 
-Dit decreet regelt een gemeenschapsaangelegenheid.
+...
 
 ### ART. 2.
 
 In dit decreet wordt verstaan onder:<br>
-1° sociaal-cultureel volwassenenwerk: een onderdeel van het beleidsveld sociaal-cultureel werk; het omvat de activiteiten die de ontplooiing van volwassenen n hun maatschappelijke participatie willen bevorderen; personen nemen er vrijwillig deel aan, los van enig schoolverband en los van elke vorm van beroepsopleiding;<br>
-2° sociaal-culturele methodiek: een wijze van denken en handelen, die gesteund is op reflectie, ervaringsdeskundigheid en wetenschappelijke inzichten; die methodiek wordt door sociaal-culturele verenigingen, instellingen en bewegingen en hun vrijwillige en professionele medewerkers gebruikt om individuen en groepen aan te spreken en te activeren in één of meerdere bestaansdimensies en in hun diverse leefsituaties; deze bestaansdimensies kenmerken de mens als zin- en waardezoeker, als kennisverwerker, als vaardige actor of creatieve explorator, als cultuurschepper en sociaal wezen; als doelstellingen staan het ontwikkelen van een eigen identiteit, het bevorderen van sociale integratie en maatschappelijke participatie en de opbouw van een democratische, duurzame en inclusieve samenleving voorop; daartoe worden op bewuste en doordachte wijze open kansen geschapen, die uitnodigen tot ontmoeting en informeel leren; er worden processen van kritische bewustwording, reflexieve verantwoording en persoonlijke bekwaming gestimuleerd; er wordt aangezet tot de ontwikkeling van sociale, culturele en communicatieve competenties en de vorming van sociale netwerken en culturele symbolen; in het scheppen en benutten van deze kansen zijn de betrokken personen en groepen actieve deelnemers, met wie de medewerkers in dialoog treden over de concrete doelen en de aanpak;<br>
-3° gemeenschapsvormende functie: de functie die gericht is op het versterken en vernieuwen van het sociale weefsel en op groepsvorming met het oog op een democratische, solidaire, open en cultureel diverse samenleving;<br>
-4° culturele functie: de functie die, zowel in de brede als de engere zin, gericht is op het verhogen van de participatie aan de cultuur die de samenleving te bieden heeft;<br>
-5° maatschappelijke activeringsfunctie: de functie die gericht is op het organiseren, stimuleren en begeleiden van vormen van maatschappelijk engagement en sociale actie;<br>
-6° educatieve functie: de functie die gericht is op lerende personen en groepen en die gekenmerkt wordt door het organiseren en begeleiden van educatieve programma's op lokaal en bovenlokaal vlak;<br>
-7° niet-formele educatie: een geïnstitutionaliseerde vorm van volwasseneneducatie waarbij de deelnemer kennis, inzicht en vaardigheden vergroot voor zichzelf en anderen, met het oog op persoonsontplooiing en het actief participeren in een democratische samenleving, en waarbij een sociaal-culturele methodiek gehanteerd wordt met zowel open als gesloten doeloriëntaties; de bovenstaande definitie wordt, wat de te subsidiëren activiteiten betreft, verder in dit decreet per werkvorm ingevuld, in relatie tot specifieke sociaal-culturele activiteiten kan de niet-formele educatie leiden tot het afleveren van leer-, competentie- en functiebewijzen;<br>
-7°bis informeel leren : het verwerven van kennis, vaardigheden en attitudes op grond van de ervaringen die men opdoet in de confrontaties met de omgeving; in relatie tot specifieke sociaal-culturele activiteiten kan het informele leren leiden tot het afleveren van leer-, competentie- en functiebewijzen;<br>
-8° vereniging: een netwerk van afdelingen of groepen, dat gericht is op de zingeving en emancipatie van leden en deelnemers, met het oog op persoonlijke en maatschappelijke ontplooiing; de vereniging heeft een gemeenschapsvormende functie, een culturele functie, een maatschappelijke activeringsfunctie en een educatieve functie; ze ontplooit een werking in groepsverband en hanteert een sociaal-culturele methodiek;<br>
-9° beweging: een organisatie met landelijk karakter die gespecialiseerd is in een thema of een cluster van nauw verwante thema's; een beweging organiseert activiteiten op het vlak van sensibilisatie, educatie en sociale actie met het oog op maatschappelijke verandering; ze richt zich daartoe op een ruim publiek; een beweging heeft een educatieve en een maatschappelijke activeringsfunctie en hanteert een sociaal-culturele methodiek;<br>
-10° volkshogeschool: een pluralistische organisatie die tot doel heeft het organiseren, structureren en coördineren van het niet-formele educatieve aanbod in een afgebakende regio; de volkshogeschool heeft naast een culturele en gemeenschapsvormende functie, in hoofdzaak een educatieve functie en hanteert een sociaal-culturele methodiek;<br>
-11° gespecialiseerde vormingsinstelling: een instelling die een vormingsaanbod organiseert met betrekking tot een welbepaald thema of cluster van nauw verwante thema's; de gespecialiseerde vormingsinstelling heeft naast een culturele en een gemeenschapsvormende functie, in hoofdzaak een educatieve functie en hanteert een sociaal-culturele methodiek;<br>
-12° beleidsplan: een document waarin de organisatie haar toekomstig beleid duidelijk maakt voor zichzelf, voor de overheid en voor de buitenwereld; het omvat de missie van de organisatie, de omgevingsanalyse, datgene wat ze op het ogenblik van de opmaak van het beleidsplan doet, datgene wat ze in de volgende beleidsperiode wil bereiken, alsook de wijze waarop ze dit wil realiseren;<br>
-12°bis voortgangsrapport : een document dat jaarlijks een stand van zaken geeft over de uitvoering van het beleidsplan in het voorbije jaar en een vooruitblik op de geplande uitvoering van het beleidsplan in het lopende jaar;<br>
-13° programma: een door de volkshogeschool of gespecialiseerde vormingsinstelling opgezette en vooraf bekendgemaakte reeks educatieve activiteiten rond een duidelijk vooropgesteld onderwerp, die gebracht wordt onder deskundige begeleiding, met een continuïteit in methodische opbouw, deelnemersgroep en groepsbegeleiding;<br>
-14° thema: een onderwerp waarop de werking van een sociaal-culturele organisatie zich richt en dat duidelijk afgebakend kan worden;<br>
-15° open aanbod: een aanbod dat voldoende tijd vooraf openbaar is aangekondigd en waarop ieder persoon zich vrijwillig kan inschrijven;<br>
-16° afdeling of groep: een duurzame zelforganisatie van vrijwilligers die verantwoordelijkheid opneemt voor de bestuurlijke en inhoudelijke werking en hierin professioneel ondersteund wordt door de vereniging;<br>
-17° een landelijk karakter hebben: ofwel activiteiten ontplooien in minstens vier Vlaamse provincies, ofwel een publieksbereik aantonen in minstens vier Vlaamse provincies; voor de toepassing van dit decreet wordt het tweetalige gebied Brussel-Hoofdstad beschouwd als een Vlaamse provincie;<br>
+...<br>
 18° steunpunt: het landelijke steunpunt voor sociaal-cultureel volwassenenwerk;<br>
-19° administratie: de entiteit in het ministerie die bevoegd is voor het sociaal-cultureel volwassenenwerk.
+...
 
 ### ART. 3.
 
-De Vlaamse Gemeenschap wil in het domein van het sociaal-cultureel volwassenenwerk organisaties ondersteunen die een bijdrage leveren tot de vorming van competente en geëmancipeerde personen, en zo de gemeenschapsvorming bevorderen. Die organisaties hebben de vorm van een vereniging, beweging of vormingsinstelling.
+...
 
 ## TITEL II SOCIAAL-CULTURELE VERENIGINGEN
 
@@ -41,7 +23,7 @@ De Vlaamse Gemeenschap wil in het domein van het sociaal-cultureel volwassenenwe
 
 ### ART. 4.
 
-§ 1. Verenigingen worden erkend als ze aan de volgende voorwaarden voldoen:<br />1° ze zijn een vereniging zonder winstoogmerk;<br />2° ze hebben minstens vijftig werkende afdelingen of groepen, gespreid over minstens drie Vlaamse provincies, waarbij in elke provincie minstens tien aangesloten afdelingen of groepen actief zijn; het tweetalige gebied Brussel-Hoofdstad wordt hierbij beschouwd als Vlaamse provincie;<br />3° ze beschikken over een registratiesysteem met betrekking tot de werking van de aangesloten afdelingen of groepen, dat voldoet aan de vereisten die de Vlaamse regering heeft vastgesteld;<br />4° ze hebben doelstellingen waaruit de werking ten aanzien van de maatschappelijke activerings-, de culturele, de educatieve en de gemeenschapsvormende functie blijkt;<br />5° ze onderschrijven de principes en de regels van de democratie en van het Europees Verdrag inzake de Rechten van de Mens en passen ze toe in hun werking;<br />6° in het beheer en het beleid van de vereniging hebben de vrijwilligers een bepalende inbreng;<br />7° ze hebben een democratische en zelfstandige werking.<br /><br />§ 2. Vanaf de tweede beleidsperiode kunnen per beleidsperiode nieuwe verenigingen erkend worden.<br /><br />§ 3. De Vlaamse Regering bepaalt de procedure voor de erkenning van nieuwe verenigingen en voor de intrekking van de erkenning.<br /><br />§ 4. De verenigingen die op het ogenblik van de inwerkingtreding van dit decreet erkend en gesubsidieerd worden krachtens het decreet van 19 april 1995 houdende een subsidieregeling voor verenigingen voor volksontwikkelingswerk, worden automatisch erkend op basis van het aantal afdelingen of groepen waarvoor ze voor het werkjaar 2000 gesub-sidieerd werden. De verenigingen die in 2002 een voorlopige erkenning genieten krachtens voormeld decreet van 19 april 1995 worden automatisch erkend op basis van het aantal afdelingen of groepen dat vereist is om krachtens datzelfde decreet een erkenning te bekomen. Wat de toepassing betreft van artikel 4, § 1, 3°, beschikken de verenigingen die een automatische erkenning bekomen tot eind 2004 over de tijd om aan te tonen dat zij beschikken over een registratiesysteem dat voldoet aan de vereisten.
+...
 
 ## HOOFDSTUK II SUBSIDIËRING
 
@@ -49,15 +31,15 @@ De Vlaamse Gemeenschap wil in het domein van het sociaal-cultureel volwassenenwe
 
 ### ART. 5.
 
-De erkende verenigingen kunnen subsidies krijgen als ze:<br />1° een beleidsplan indienen voor de volgende beleidsperiode;<br />2° ...<br />3° binnen drie maanden na het begin van de beleidsperiode beschikken over een voltijds equivalent personeelslid;<br />4° akkoord gaan om op verzoek van de administratie alle nuttige en noodzakelijke gegevens met betrekking tot de werking te verstrekken, in de gevraagde vorm;<br />5° ervoor zorgen dat in alle aspecten van de werking het Nederlands als voertaal gebruikt wordt.
+...
 
 ### ART. 6.
 
-De vereniging expliciteert in het beleidsplan en het voortgangsrapport hoe zij zich binnen haar werking verhoudt ten overstaan van de hiernavolgende beoordelingselementen : <br />1° de wijze waarop de vier functies, vermeld in artikel 2, 8°, worden gerealiseerd; <br />2° de wijze van begeleiding van de afdelingen of groepen : de ontwikkeling van het afdelingswerk en groepswerk, het aantal afdelingen of groepen; <br />3° het beleid ten aanzien van de vrijwilliger; <br />4° de acties met het oog op de verdieping en verbreding van de participatie; <br />5° de communicatie met de leden; <br />6° het ontwikkelen van acties en activiteiten met een landelijk karakter; <br />7° het ontwikkelen van vernieuwende en bijzondere activiteiten; <br />8° de aanpak van de diversiteit met specifieke aandacht voor interculturaliteit; <br />9° de samenwerking en netwerkvorming met andere organisaties;<br />10° de manier waarop in de werking rekening gehouden wordt met principes van integrale kwaliteitszorg;<br />11° de zorg voor professionalisering en professionaliteit;<br />12° het engagement ten aanzien van de door de Vlaamse Regering geformuleerde beleidsprioriteiten.<br /><br />Deze beoordelingselementen worden door de administratie vanaf de derde beleidsperiode gehanteerd bij de evaluatie van de werking van de vereniging. In de tweede beleidsperiode houdt de administratie bij de evaluatie van de werking van de vereniging rekening met de beoordelingselementen die op het ogenblik van de inhoudelijke en kwaliteitsbeoordeling door de adviescommissie van kracht waren, evenals met de wijze waarop de vereniging in haar werking rekening hield met de opmerkingen die de adviescommissie formuleerde op het punt van de inhoudelijke en kwaliteitsbeoordeling zoals van toepassing op dat ogenblik. <br /><br />Vanaf de derde beleidsperiode hanteert de administratie bij de evaluatie de in het eerste lid vermelde beoordelingselementen op de volgende wijze :<br />1° de beoordelingselementen van het eerste lid, 1° tot en met 11°, worden gehanteerd ten aanzien van de werking die de vereniging in het ingediende beleidsplan vooropstelde;<br />2° het beoordelingselement van het eerste lid, 12°, wordt gehanteerd ten aanzien van de werking die de vereniging in het voortgangsrapport volgend op het beleidsplan op het punt van het engagement ten aanzien van de beleidsprioriteiten vooropstelde.
+...
 
 ### ART. 7.
 
-De Vlaamse Regering bepaalt de procedure voor het indienen van de aanvraag voor subsidiëring en voor de evaluatie van de werking, evenals de regels met betrekking tot de opmaak van het beleidsplan.
+...
 
 ## AFDELING 2 DE SUBSIDIES
 
@@ -65,45 +47,45 @@ De Vlaamse Regering bepaalt de procedure voor het indienen van de aanvraag voor 
 
 ### ART. 8.
 
-§ 1. De subsidies worden toegekend voor een beleidsperiode in de vorm van een jaarlijkse enveloppe.<br /><br />§ 2. De individuele subsidie-enveloppe van de vereniging wordt vastgesteld door de Vlaamse Regering, op voorstel van de administratie. Bij de vaststelling ervan wordt rekening gehouden met de volgende elementen :<br />1° de stijging van de levensduurte;<br />2° het engagement van de vereniging ten aanzien van de door de Vlaamse Regering geformuleerde beleidsprioriteiten;<br />3° het resultaat van de evaluatie van de werking van de vereniging, in overeenstemming met artikel 42.
+...
 
 ## ONDERAFDELING 1bis DE EERSTE BELEIDSPERIODE
 
 ### ART. 9.
 
-Voor de verenigingen, vermeld in artikel 4, § 4, wordt de jaarlijkse subsidie-enveloppe als volgt vastge-steld:<br /><br />1° het aantal afdelingen of groepen wordt vastgelegd op het aantal voor het werkjaar 2000 aanvaarde actieve afdelingen of groepen;<br /><br />2° aan de afdelingen wordt een waarde toegekend: minimaal 2.230 euro voor de eerste 100 afdelingen, minimaal 1.735 euro voor 101 tot 200 afdelingen, en minimaal 990 euro voor de afdelingen boven 200.
+...
 
 ## ONDERAFDELING 1ter DE TWEEDE EN DERDE BELEIDSPERIODE
 
 ### ART. 10.
 
-De erkende verenigingen behouden gedurende de tweede beleidsperiode hetzelfde jaarlijkse subsidiebedrag als in de vorige beleidsperiode.<br /><br />Voor de erkende verenigingen gelden voor de berekening van de jaarlijkse subsidie gedurende de derde beleidsperiode de volgende regels : <br />1° de uitgangspositie is het jaarlijkse subsidiebedrag van de tweede beleidsperiode; <br />2° het in 1° vermeld bedrag kan aangepast worden op basis van de verantwoordingselementen vermeld in artikel 46, tweede en derde lid; de verhoging van de subsidie-enveloppe op grond van het verantwoordingselement vermeld in artikel 46, derde lid, gaat in vanaf het tweede jaar van de beleidsperiode; <br />3° een eindevaluatie met een negatief besluit in overeenstemming met artikel 42 leidt tot een vermindering van de jaarlijkse subsidie-enveloppe met tien procent. <br /><br />Voor de verenigingen die voor de inwerkingtreding van het decreet van 5 maart 2008 houdende wijziging van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk ressorteerden onder de toepassing van artikel 10, § 1, zoals het gold tot bij de inwerkingtreding van hetzelfde decreet van 5 maart 2008, wordt de jaarlijkse subsidievermindering vermeld in het tweede lid, 3°, toegepast op de subsidie, die de vereniging op grond van artikel 9 had moeten krijgen. De grootte van het bedrag van de subsidievermindering wordt vastgesteld op grond van de huidige subsidie-enveloppe.<br /><br />Voor de verenigingen die voor de inwerkingtreding van het decreet van 5 maart 2008 houdende wijziging van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk ressorteerden onder de toepassing van artikel 10, § 2, zoals het gold tot bij de inwerkingtreding van hetzelfde decreet van 5 maart 2008, wordt de jaarlijkse subsidievermindering vermeld in het tweede lid, 3°, toegepast op de subsidie, die de vereniging in het jaar voorafgaand aan de toepassing van artikel 9 ontving. De grootte van het bedrag van de subsidievermindering wordt vastgesteld op grond van de huidige subsidie-enveloppe.<br /><br />Voor de nieuwe verenigingen worden de subsidies berekend op basis van de volgende regels :<br />1° het aantal afdelingen of groepen wordt vastgelegd op het minimale aantal werkende afdelingen of groepen, vereist voor de erkenning; <br />2° voor de afdelingen wordt de waarde toegekend, vermeld in artikel 9, 2°.
+...
 
 ## ONDERAFDELING 2 VANAF DE VIERDE BELEIDSPERIODE
 
 ### ART. 11.
 
-Voor de erkende verenigingen gelden voor de vaststelling van de jaarlijkse subsidie vanaf de vierde beleidsperiode de volgende regels : <br />1° de uitgangspositie is het jaarlijkse subsidiebedrag van de vorige beleidsperiode;<br />2° het in 1° vermelde bedrag kan aangepast worden op basis van de verantwoordingselementen vermeld in artikel 46, tweede en derde lid; de verhoging van de subsidie-enveloppe op grond van het verantwoordingselement vermeld in artikel 46, derde lid, gaat in vanaf het tweede jaar van de beleidsperiode; <br />3° een eindevaluatie met een negatief besluit op het vlak van de toepassing van artikel 6, derde lid, 1°, leidt tot een vermindering van de jaarlijkse subsidie-enveloppe met tien procent; opeenvolgende eindevaluaties met een negatief besluit leiden voor elke volgende betrokken beleidsperiode tot een vermindering van de jaarlijkse subsidie-enveloppe met telkens twintig percent; <br />4° een eindevaluatie met een negatief besluit op het vlak van de toepassing van artikel 6, derde lid, 2°, leidt tot de uitsluiting van de vereniging van de eventuele aanpassing van de subsidie-enveloppe voor de volgende beleidsperiode op grond van het verantwoordingselement vermeld in artikel 46, derde lid; de uitgangspositie voor de vaststelling van de jaarlijkse subsidie-enveloppe is dan het subsidiebedrag dat de vereniging ontving vooraleer de subsidie-enveloppe in de vorige beleidsperiode op basis van het verantwoordingselement vermeld in artikel 46, derde lid, werd aangepast.<br /><br />Voor de verenigingen die voor de inwerkingtreding van het decreet van 5 maart 2008 houdende wijziging van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk ressorteerden onder de toepassing van artikel 10, § 1, zoals het gold tot bij de inwerkingtreding van hetzelfde decreet van 5 maart 2008, wordt de jaarlijkse subsidievermindering vermeld in het eerste lid, 3°, toegepast op de subsidie, die de vereniging op grond van artikel 9 had moeten krijgen. De grootte van het bedrag van de subsidievermindering wordt vastgesteld op grond van de huidige subsidie-enveloppe.<br /><br />Voor de verenigingen die voor de inwerkingtreding van het decreet van 5 maart 2008 houdende wijziging van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk ressorteerden onder de toepassing van artikel 10, § 2, zoals het gold tot bij de inwerkingtreding van hetzelfde decreet van 5 maart 2008, wordt de jaarlijkse subsidievermindering vermeld in het eerste lid, 3°, toegepast op de subsidie, die de vereniging in het jaar voorafgaand aan de toepassing van artikel 9 ontving. De grootte van het bedrag van de subsidievermindering wordt vastgesteld op grond van de huidige subsidie-enveloppe.<br /><br />Voor de verenigingen die voor de inwerkingtreding van het decreet van 14 maart 2008 houdende wijziging van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk ressorteerden onder de toepassing van artikel 10, § 1, zoals het gold tot bij de inwerkingtreding van hetzelfde decreet van 14 maart 2008, kan de jaarlijkse subsidie-enveloppe worden aangevuld met een bedrag dat overeenkomt met het proportioneel aandeel van de vereniging in kwestie in het krediet dat via de begroting bijkomend ter beschikking wordt gesteld voor die verenigingen.<br /><br />Het proportionele aandeel van elke vereniging in kwestie in het bijkomende krediet wordt bepaald door de verhouding per vereniging tussen de subsidie-enveloppe 2004 die, met toepassing van artikel 9 van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk, aan de vereniging toekwam, en de effectief uitgekeerde subsidie-enveloppe 2004.
+...
 
 ### ART. 12.
 
-Voor de nieuwe verenigingen worden de subsidies berekend op basis van de volgende regels :<br />1° het aantal afdelingen of groepen wordt vastgelegd op het minimale aantal werkende afdelingen of groepen, vereist voor de erkenning; <br />2° voor de afdelingen wordt de waarde toegekend, vermeld in artikel 9, 2°.
+...
 
 ## AFDELING 3 DE STARTSUBSIDIE
 
 ### ART. 13.
 
-Verenigingen kunnen een startsubsidie aanvragen als ze voldoen aan artikel 4, § 1, met dien verstande dat ze moeten beschikken over minstens vijfentwintig lokale afdelingen of groepen, gespreid over minstens drie Vlaamse provincies. Het tweetalige gebied Brussel-Hoofdstad wordt beschouwd als een Vlaamse provincie.
+...
 
 ### ART. 14.
 
-§ 1. De startsubsidie bedraagt per vereniging op jaarbasis maximaal 50.000 euro. De toekenning van de subsidie stopt bij het einde van de beleidsperiode in kwestie.<br /><br />§ 2. Een startsubsidie kan slechts eenmaal aan eenzelfde vereniging worden toegekend.<br /><br />§ 3. Aanvragen kunnen worden ingediend in het jaar dat aan elke beleidsperiode voorafgaat, en in het tweede jaar van de beleidsperiode. Telkens kunnen maximaal twee aanvragers een startsubsidie krijgen. <br /><br />§ 4. De Vlaamse regering bepaalt de procedure voor de aanvraag tot het verkrijgen van een startsubsidie.
+...
 
 ## [AFDELING 4 PROJECTSUBSIDIES (ing. Decr. 19 december 2008, art. 40, I: 1 januari 2009)]
 
 ### ART. 14bis.
 
-Jaarlijks wordt een krediet ingeschreven ter beschikking van de financiële ondersteuning van projecten met een experimenteel karakter op het vlak van inhoud, vorm of methodiek die binnen een erkende vereniging opgezet worden.<br /><br />De Vlaamse Regering bepaalt de procedure voor het indienen en afhandelen van de aanvragen.
+...
 
 ## TITEL III [SOCIAAL-CULTURELE BEWEGINGEN (verv. decr. 6 juli 2012, art. 2)]
 
@@ -111,29 +93,29 @@ Jaarlijks wordt een krediet ingeschreven ter beschikking van de financiële onde
 
 ### ART. 15.
 
-§ 1. Bewegingen worden erkend als ze aan de volgende erkenningsvoorwaarden voldoen : <br />1° ze zijn een vereniging zonder winstoogmerk;<br />2° ze hebben statutaire doelstellingen rond één maatschappelijk relevant thema of cluster van nauw verwante thema's;<br />3° ze kunnen aantonen dat ze gedurende minstens twee jaar een werking met landelijk karakter hebben op het vlak van sensibilisatie, maatschappelijke actie en educatie rond het thema of de cluster van nauw verwante thema's waarvoor ze een aanvraag indienen;<br />4° ze kunnen een werking aantonen die zich situeert in het domein van het sociaal-cultureel volwassenenwerk als beweging;<br />5° ze dienen een beleidsplan in waarin ze hun werking en beleid op het vlak van sociaal-cultureel werk voor de komende vijf jaar duidelijk maken en aantonen hoe deze zich verhouden ten aanzien van onderstaande beoordelingselementen :<br />a) de knowhow en expertise van de beweging met betrekking tot het thema of het cluster; de wijze waarop die expertise verder wordt ontwikkeld; de wijze waarop de knowhow wordt ontsloten;<br />b) de aanpak van diversiteit, met specifieke aandacht voor interculturaliteit;<br />c) de wijze waarop het ruime publiek rechtstreeks of onrechtstreeks wordt benaderd, inclusief de inspanning om andere publieksgroepen aan te trekken;<br />d) de creativiteit, de diversiteit en de originaliteit van de gehanteerde methoden, evenals de effectiviteit ervan;<br />e) de communicatie met het publiek, de aandacht voor de media;<br />f) de aard en de omvang van de educatieve activiteiten en de werkmaterialen;<br />g) de acties en de campagnes;<br />h) de samenwerking en netwerkvorming met andere organisaties;<br />i) het engagement van vrijwilligers en bestuurders;<br />j) de zorg voor professionaliteit en professionalisering;<br />k) de manier waarop in de werking rekening wordt gehouden met principes van integrale kwaliteitszorg;<br />6° ze dienen een financieel plan in waarin een financiële raming gemaakt wordt voor de komende vijf jaar;<br />7° ze onderschrijven de principes en de regels van de democratie en van het Europees verdrag van de rechten van de mens en passen deze toe in hun werking;<br />8° ze gaan ermee akkoord om op verzoek van de administratie alle nuttige en noodzakelijke gegevens te verstrekken met betrekking tot de werking en die gegevens in de gevraagde vorm aan te leveren.<br /><br />§ 2. De erkenningsaanvraag bevat de vereiste documenten waaruit de naleving van de criteria bepaald in § 1, blijkt. De aanvraag wordt op inhoud en kwaliteit beoordeeld door een adviescommissie. De adviescommissie betrekt in haar advies de realiteitswaarde van de financiële raming in de aanvraag.<br /><br />§ 3. Vanaf de derde beleidsperiode, die start in 2016, kunnen per beleidsperiode maximaal vijf nieuwe bewegingen erkend worden.<br /><br />§ 4. De bewegingen die op het ogenblik van de inwerkingtreding van dit decreet gesubsidieerd worden krachtens het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk, worden geacht te voldoen aan de voorwaarden zoals vermeld in artikel 15, § 1, en worden als dusdanig ook erkend.
+...
 
 ## HOOFDSTUK II [Subsidiëring (verv. decr. 6 juli 2012, art. 2)]
 
 ### ART. 15bis.
 
-§ 1. Per beleidsperiode kan een erkende beweging aanspraak maken op een subsidie-enveloppe, op voorwaarde dat : <br />1° ze een beleidsplan indient rekening houdend met de bepalingen, zoals beschreven in artikel 15, § 1, 5° ;<br />2° ze een financieel plan indient voor de komende vijf jaar;<br />3° ze binnen drie maanden na het begin van de beleidsperiode over een voltijdsequivalent personeelslid beschikt.<br /><br />§ 2. De jaarlijkse subsidie-enveloppe die voor een beleidsperiode verworven wordt, ligt tussen minimaal 111.500 euro en maximaal 200.000 euro.
+...
 
 ### ART. 16.
 
-§ 1. Bewegingen die erkend en gesubsidieerd zijn, kunnen per nieuwe beleidsperiode bij de administratie een aanvraag indienen voor het verhogen van hun subsidie-enveloppe.<br /><br />§ 2. In de aanvraag tot het verhogen van de subsidie-enveloppe motiveert de erkende organisatie welke meerwaarde ze wil realiseren ten aanzien van de werking tijdens de vorige beleidsperiode met een financieel behoefteplan. <br /><br />§ 3. De vraag voor een hogere subsidie-enveloppe wordt beoordeeld door een adviescommissie op basis van de evaluatie van de werking van de organisatie gedurende de voorbije beleidsperiode door de administratie en op basis van het financieel behoefteplan, waarbij de subsidie-enveloppe van de voorbije beleidsperiode verworven blijft.
+...
 
 ## [HOOFDSTUK III Jaarlijkse opvolging en evaluatie van erkende bewegingen (ing. decr. 6 juli 2012, art. 2)]
 
 ### ART. 17.
 
-§ 1. De erkende en gesubsidieerde beweging dient jaarlijks een voortgangsrapport in.<br /><br />§ 2. De in artikel 15, § 1, 5°, vermelde beoordelingselementen, met uitzondering van a), eerste zinsnede, worden door de administratie gehanteerd bij de evaluatie van de werking van de beweging, zoals bepaald in artikelen 42 en 43.<br /><br />§ 3. Een negatieve eindevaluatie op het einde van de beleidsperiode 2011-2015 resulteert in een vermindering van 10% van het subsidiebedrag voor de beleidsperiode 2016-2020. Vanaf de beleidsperiode 2016-2020 wordt het subsidiebedrag, bij een negatieve eindevaluatie, met 20% verminderd. Twee negatieve eindevaluaties in twee opeenvolgende beleidsperiodes resulteren in de uitsluiting van de beweging voor subsidiëring in de volgende beleidsperiode en intrekking van de erkenning.<br /><br />§ 4. Een eindevaluatie met positief resultaat garandeert het behoud van de erkenning en de subsidiëring in de volgende beleidsperiode voor minimaal hetzelfde bedrag als in de voorbije beleidsperiode, rekening houdend met de beschikbare kredieten.
+...
 
 ## [HOOFDSTUK IV Algemene bepalingen (ing. decr. 6 juli 2012, art. 2)]
 
 ### ART. 18.
 
-§ 1. De Vlaamse Regering bepaalt de procedure voor het indienen van de aanvraag tot erkenning en subsidiëring, voor erkenning en de intrekking van de erkenning, voor de beoordeling van het beleidsplan, voor de evaluatie van de werking, voor de samenstelling van de adviescommissie en bepaalt de regels met betrekking tot de opmaak van het beleidsplan.<br /><br />§ 2. De Vlaamse Regering stelt de adviescommissie samen na een voorafgaand advies over het profiel van de leden ervan door de raad die bevoegd is voor de adviesverstrekking in de sector van het sociaal-cultureel volwassenenwerk.<br /><br />§ 3. De adviezen die leiden tot de beslissing van de Vlaamse Regering betreffende de erkenning en de vaststelling van de subsidies zijn openbaar na het beëindigen van de procedure.
+...
 
 ## TITEL IV SOCIAAL-CULTURELE VORMINGSINSTELLINGEN
 
@@ -143,21 +125,21 @@ Jaarlijks wordt een krediet ingeschreven ter beschikking van de financiële onde
 
 ### ART. 19.
 
-Per regio erkent en subsidieert de Vlaamse regering één volkshogeschool. De Vlaamse regering bepaalt de regio's.
+...
 
 ### ART. 20.
 
-§ 1. Een volkshogeschool wordt erkend als ze aan de volgende voorwaarden voldoet:<br />1° ze is een vereniging zonder winstoogmerk, opgericht door natuurlijke personen; de leden van de vereniging, die niet tot de gesubsidieerde personeelskern kunnen behoren, zijn ofwel personen met een ruime ervaring op het vlak van niet-formele educatie, ofwel personen die als sleutelfiguren uit de representatieve maatschappelijke sectoren beschouwd kunnen worden;<br />2° ze heeft doelstellingen waaruit blijkt dat ze:<br />a) in de regio een eigen aanbod heeft inzake niet-formele educatie;<br />b) het programma-aanbod spreidt over de regio;<br />c) het eigen aanbod bekend maakt bij het brede publiek en samenwerkingen opzet met het oog op het versterken van het niet-formele educatieve aanbod in de regio.<br />3° ze onderschrijft de principes en de regels van de democratie en van het Europees Verdrag inzake de Rechten van de Mens en past ze toe in haar werking.<br /><br />§ 2. De Vlaamse Regering bepaalt de procedure voor de erkenning en de intrekking van de erkenning, voor de aanvraag tot subsidiëring, evenals de regels met betrekking tot de opmaak van het beleidsplan.
+...
 
 ## AFDELING 2 SUBSIDIËRING
 
 ### ART. 21.
 
-Om voor subsidiëring in aanmerking te komen moet de erkende volkshogeschool : <br />1° een beleidsplan indienen voor de komende beleidsperiode; <br />2° binnen drie maanden na het begin van de beleidsperiode beschikken over een professioneel team van medewerkers; <br />3° ermee akkoord gaan om op verzoek van de administratie alle nuttige en noodzakelijke gegevens met betrekking tot de werking te verstrekken, in de gevraagde vorm; <br />4° in overleg treden met de volkshogescholen uit andere regio's; <br />5° jaarlijks een voortgangsrapport, een begroting en een financieel verslag bezorgen. <br /><br />Het niet-formele educatieve programma-aanbod van de volkshogeschool moet in een open aanbod worden aangeboden en plaatsvinden in de autonome levenssfeer van de deelnemer. Hiervan kan worden afgeweken in geval van een programma-aanbod voor doelgroepen met een educatieve achterstand die weinig of niet bereikt kunnen worden in een open aanbod en in hun autonome levenssfeer. De uitzondering moet worden verantwoord vanuit het beleidsplan, en vanuit de strategische en operationele doelstellingen. <br /><br />Ter ondersteuning en ter beoordeling van de werking van de volkshogescholen gelden de volgende beoordelingselementen :<br />1° het publieksbereik; <br />2° de mate waarin de volkshogeschool kansengroepen bereikt, of via het werken met multiplicatoren van betekenis is voor kansengroepen; <br />3° de spreiding van het aanbod over de regio; <br />4° de wijze van bekendmaking van het aanbod;<br />5° de diversiteit van het aanbod; <br />6° de maatschappelijke verantwoording van het aanbod; <br />7° de beschikbare infrastructuur; <br />8° de professionele uitbouw; <br />9° de netwerkvorming; <br />10° de samenwerking met de gespecialiseerde vormingsinstellingen; <br />11° de eigen bijdrage aan het overleg met de volkshogescholen uit de andere regio's; <br />12° de wijze waarop de volkshogeschool de culturele functie invult; <br />13° de wijze waarop de volkshogeschool de gemeenschapsvormende functie invult; <br />14° het aantal uren programma's; <br />15° diversiteit met specifieke aandacht voor interculturaliteit; <br />16° de manier waarop in de werking rekening wordt gehouden met principes van integrale kwaliteitszorg.<br /><br />De beoordelingselementen, vermeld in het derde lid, worden door de administratie vanaf de derde beleidsperiode gehanteerd bij de evaluatie van de werking van de volkshogeschool. In de tweede beleidsperiode houdt de administratie bij de evaluatie van de werking van de volkshogeschool rekening met de beoordelingselementen die op het ogenblik van de inhoudelijke en kwaliteitsbeoordeling door de administratie en adviescommissie van kracht waren, evenals met de wijze waarop de volkshogeschool in haar werking rekening hield met de opmerkingen die de adviescommissie en administratie formuleerden op het punt van de inhoudelijke en kwaliteitsbeoordeling zoals van toepassing op dat ogenblik. <br /><br />De prijszetting voor het programma-aanbod mag niet leiden tot de uitsluiting van personen met een laag inkomen.
+...
 
 ### ART. 22.
 
-De jaarlijkse subsidie-enveloppe van de volkshogeschool bedraagt maximaal een equivalent van zoveel maal 1,5 euro als er inwoners zijn in de betrokken regio. Wat de volkshogeschool bevoegd voor het tweetalige gebied Brussel-Hoofdstad betreft, wordt voor de berekening van dit maximum slechts 30 percent van de inwoners van het tweetalige gebied Brussel-Hoofdstad in aanmerking genomen.
+...
 
 ## HOOFDSTUK II LANDELIJKE VORMINGSINSTELLINGEN
 
@@ -167,29 +149,29 @@ De jaarlijkse subsidie-enveloppe van de volkshogeschool bedraagt maximaal een eq
 
 ### ART. 23.
 
-Gespecialiseerde vormingsinstellingen kunnen een aanvraag indienen voor het verkrijgen van een erkenning. <br /><br />De aanvraag bevat de vereiste documenten waaruit de naleving van de hiernavolgende criteria voor erkenning van de specialiteit blijkt :<br />1° het werken rond een bepaald thema of een cluster van nauw verwante thema's; <br />2° het expliciteren van de maatschappelijke relevantie van het thema of het cluster van nauw verwante thema's; <br />3° het hebben van een uitgeschreven visie op de educatieve opdracht en de vertaling naar een educatief aanbod; <br />4° het aantonen van expertise; <br />5° het hebben van een netwerk rond het thema.<br /><br />De aanvraag bevat tevens de vereiste documenten waaruit blijkt dat de gespecialiseerde vormingsinstelling de hiernavolgende algemene criteria voor erkenning naleeft : <br />1° ze is een vereniging zonder winstoogmerk of een stichting van openbaar nut; <br />2° ze heeft doelstellingen op het vlak van educatie vanuit een thema of cluster van nauw verwante thema's; <br />3° ze heeft een werking waaruit de volgende karakteristieken blijken : <br />a) ze heeft een landelijk karakter; <br />b) ze bestaat minstens twee jaar; <br />c) ze is actief op het domein van de niet-formele educatie met inachtneming van artikel 2, 1°; alleen een programma-aanbod dat via een open aanbod en in de autonome levenssfeer van de deelnemer wordt gebracht, is voorwerp van subsidiëring; <br />d) ze biedt minstens 1000 uren programma's aan;<br />4° ze dient een beleidsplan in; <br />5° ze beschikt bij de aanvraag over minstens één voltijds equivalent personeelslid; <br />6° ze gaat ermee akkoord om op verzoek van de administratie alle nuttige en noodzakelijke gegevens te verstrekken met betrekking tot de werking, in de gevraagde vorm; <br />7° ze onderschrijft de principes en de regels van de democratie en van het Europees Verdrag inzake de Rechten van de Mens en past ze toe in de werking.
+...
 
 ### ART. 24.
 
-In afwijking van artikel 23, derde lid, 3°, c), mag de gespecialiseerde vormingsinstelling :<br />1° een subsidieerbaar programmaanbod ontwikkelen voor kaders en multiplicatoren uit de non-profitsector; die afwijking kan hoogstens twintig percent van de urennorm bedragen, de cultuursector uitgezonderd; dat aanbod wordt vanuit de strategische doelstellingen van het beleidsplan en de operationele doelstellingen en acties van de voortgangsrapporten verantwoord; <br />2° een subsidieerbaar programma-aanbod ontwikkelen voor beperkte doelgroepen met een educatieve achterstand die weinig of niet bereikt kunnen worden in een open aanbod en in hun autonome levenssfeer; die afwijking kan hoogstens 40 percent van de urennorm bedragen; dat aanbod wordt vanuit de strategische doelstellingen van het beleidsplan en de operationele doelstellingen en acties van de voortgangsrapporten verantwoord; de afwijking kan slechts aanvaard worden voor zover de programma's ook in een open aanbod aan het brede publiek worden aangeboden.
+...
 
 ## ONDERAFDELING 2 DE SUBSIDIERING VAN ERKENDE GESPECIALISEERDE VORMINGSINSTELLINGEN
 
 ### ART. 25.
 
-Per beleidsperiode kunnen maximaal drie nieuwe organisaties erkend worden. <br /><br />De gespecialiseerde vormingsinstellingen die op het ogenblik van de inwerkingtreding van dit decreet erkend en gesubsidieerd zijn, blijven verder erkend op voorwaarde van een positief eindresultaat bij de evaluatie van de werking door de administratie in overeenstemming met artikel 23, tweede lid. <br /><br />De Vlaamse Regering bepaalt de procedure voor de aanvraag tot subsidiëring en de regels met betrekking tot de opmaak van het beleidsplan, de procedure voor de erkenning en de intrekking van de erkenning.
+...
 
 ### ART. 26.
 
-§ 1. De gespecialiseerde vormingsinstelling expliciteert in het beleidsplan en het voortgangsrapport hoe zij zich binnen haar toekomstige werking verhoudt ten overstaan van de hiernavolgende beoordelingselementen :<br />1° de landelijke spreiding van het aanbod en/of het publiek; <br />2° het beleid ten aanzien van de deelnemers (bestaande en beoogde doelgroepen) en de link naar het communicatiebeleid;<br />3° de samenwerking met de volkshogescholen; <br />4° de zorg voor professionalisering en professionaliteit; <br />5° het aantal uren programma's; <br />6° de netwerkvorming en samenwerking; <br />7° de manier waarop invulling wordt gegeven aan de culturele functie; <br />8° de manier waarop invulling wordt gegeven aan de gemeenschapsvormende functie; <br />9° de manier waarop in de werking rekening wordt gehouden met principes van integrale kwaliteitszorg; <br />10° de aanpak van de diversiteit met specifieke aandacht voor interculturaliteit; <br />11° het engagement ten aanzien van de door de Vlaamse Regering geformuleerde beleidsprioriteiten.<br /><br />§ 2. Deze beoordelingselementen worden door de administratie vanaf de derde beleidsperiode gehanteerd bij de evaluatie van de werking van de gespecialiseerde vormingsinstelling. <br /><br />In de tweede beleidsperiode houdt de administratie bij de evaluatie van de werking van de gespecialiseerde vormingsinstelling rekening met de beoordelingselementen die op het ogenblik van de inhoudelijke en kwaliteitsbeoordeling door de adviescommissie van kracht waren, evenals met de wijze waarop de gespecialiseerde vormingsinstelling in haar werking rekening hield met de opmerkingen die de adviescommissie formuleerde op het punt van de inhoudelijke en kwaliteitsbeoordeling zoals van toepassing op dat ogenblik. <br /><br />§ 3. Vanaf de derde beleidsperiode hanteert de administratie bij de evaluatie de in § 1 vermelde beoordelingselementen op de volgende wijze :<br />1° de beoordelingselementen van § 1, 1° tot en met 10°, worden gehanteerd ten aanzien van de werking die de gespecialiseerde vormingsinstelling in het ingediende beleidsplan vooropstelde; <br />2° het beoordelingselement van § 1, 11°, wordt gehanteerd ten aanzien van de werking die de gespecialiseerde vormingsinstelling in het voortgangsrapport volgend op het beleidsplan op het punt van het engagement ten aanzien van de beleidsprioriteiten vooropstelde.
+...
 
 ### ART. 27.
 
-De subsidies worden toegekend voor een beleidsperiode in de vorm van een jaarlijkse enveloppe. Voor de eerste beleidsperiode bedraagt de jaarlijkse subsidie-enveloppe 116 euro per uur. De erkende gespecialiseerde vormingsinstellingen behouden gedurende de tweede beleidsperiode hetzelfde jaarlijkse subsidiebedrag als in de vorige beleidsperiode.<br /><br />Vanaf de derde beleidsperiode wordt de individuele subsidie-enveloppe van de gespecialiseerde vormingsinstelling vastgesteld door de Vlaamse Regering op voorstel van de administratie. Bij de vaststelling ervan wordt rekening gehouden met de volgende elementen :<br />1° de stijging van de levensduurte; <br />2° het engagement van de gespecialiseerde vormingsinstelling ten aanzien van de door de Vlaamse Regering geformuleerde beleidsprioriteiten; <br />3° het resultaat van de eindevaluatie van de werking van de gespecialiseerde vormingsinstelling, in overeenstemming met artikel 42.<br /><br />De jaarlijkse subsidie-enveloppe van een nieuwe erkende gespecialiseerde vormingsinstelling bedraagt in de eerste beleidsperiode 116.000 euro. In de volgende beleidsperiodes kan de subsidie-enveloppe aangepast worden in overeenstemming met de regeling vermeld in het tweede lid.<br /><br />Voor de erkende gespecialiseerde vormingsinstelling gelden voor de vaststelling van de jaarlijkse subsidie vanaf de derde beleidsperiode de volgende regels :<br />1° de uitgangspositie is het jaarlijkse subsidiebedrag van de vorige beleidsperiode; <br />2° het in 1° vermeld bedrag kan aangepast worden op basis van de verantwoordingselementen van artikel 46, tweede en derde lid; de verhoging van de subsidie-enveloppe op grond van het verantwoordingselement vermeld in artikel 46, derde lid, gaat in vanaf het tweede jaar van de beleidsperiode; <br />3° een eindevaluatie met een negatief besluit in overeenstemming met artikel 42 leidt tot een vermindering van de jaarlijkse subsidie-enveloppe met tien procent.<br /><br />Voor de erkende gespecialiseerde vormingsinstelling gelden voor de vaststelling van de jaarlijkse subsidie vanaf de vierde beleidsperiode de volgende regels :<br />1° de uitgangspositie is het jaarlijkse subsidiebedrag van de vorige beleidsperiode; <br />2° het in 1° vermelde bedrag kan aangepast worden op basis van de verantwoordingselementen van artikel 46, tweede en derde lid; de verhoging van de subsidie-enveloppe op grond van het verantwoordingselement vermeld in artikel 46, derde lid, gaat in vanaf het tweede jaar van de beleidsperiode;<br />3° een eindevaluatie met een negatief besluit op het vlak van de toepassing van artikel 26, § 3, 1°, leidt tot een vermindering van de jaarlijkse subsidie-enveloppe met tien procent; opeenvolgende eindevaluaties met een negatief besluit leiden voor elke volgende betrokken beleidsperiode tot een vermindering van de jaarlijkse subsidie-enveloppe met telkens twintig percent; <br />4° een eindevaluatie met een negatief besluit op het vlak van de toepassing van artikel 26, § 3, 2°, leidt tot de uitsluiting van de gespecialiseerde vormingsinstelling van de eventuele aanpassing van de subsidie-enveloppe voor de volgende beleidsperiode op grond van het verantwoordingselement vermeld in artikel 46, derde lid; de uitgangspositie voor de vaststelling van de jaarlijkse subsidie-enveloppe is dan het subsidiebedrag dat de gespecialiseerde vormingsinstelling ontving vooraleer de subsidie-enveloppe in de vorige beleidsperiode op basis van het verantwoordingselement vermeld in artikel 46, derde lid, werd aangepast.
+...
 
 ### ART. 28.
 
-De werking van de gespecialiseerde vormingsinstelling die binnen de drie maanden na de inwerkingtreding van het decreet van 5 maart 2008 houdende wijziging van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk een dossier indiende voor subsidiëring, wordt jaarlijks door de administratie getoetst aan artikelen 23, derde lid, 3°, c), en 24. <br /><br />De subsidie-enveloppe waarvoor die gespecialiseerde vormingsinstelling voor de derde beleidsperiode een beleidsplan moet indienen, wordt beperkt tot de uren die volledig beantwoorden aan artikelen 23, derde lid, 3°, c), en 24. De jaarlijkse toetsing door de administratie vormt hiervoor de basis.
+...
 
 ## ONDERAFDELING 3 DE RELATIE TUSSEN GESPECIALISEERDE VORMINGSINSTEL- LINGEN EN VOLKSHOGESCHOLEN
 
@@ -199,37 +181,37 @@ De werking van de gespecialiseerde vormingsinstelling die binnen de drie maanden
 
 ### ART. 30.
 
-De samenwerking tussen de volkshogeschool en de gespecialiseerde vormingsinstelling verloopt volgens de hiernavolgende relatie van complementariteit :<br />1° in de beleidsplannen van de gespecialiseerde vormingsinstelling en van de volkshogeschool wordt, met het oog op een optimale invulling van de vormingsbehoeften, de wederzijdse samenwerking in beeld gebracht; <br />2° de volkshogeschool doet in eerste instantie een beroep op de gespecialiseerde vormingsinstellingen voor die programma's waarvoor ze een vormingsbehoefte vaststelt en waaraan ze wegens het specialistische karakter niet zelf kan voldoen; <br />3° de gespecialiseerde vormingsinstelling zal op eigen initiatief een aanbod doen aan de volkshogeschool, die daar vanuit de eigen contextanalyse en de beleidsopties gebruik van maakt.
+...
 
 ## AFDELING 2 SYNDICALE VORMINGSINSTELLINGEN
 
 ### ART. 31.
 
-§ 1. De syndicale vormingsinstelling is een instelling die, in een open aanbod voor de ruime syndicale beweging, zich specifiek richt tot personen in een arbeidssituatie of tot personen in een situatie van werkloosheid, via vorming die niet-beroepsgericht is en waarbij de deelnemer kennis, inzicht en vaardigheden vergroot voor zichzelf en voor anderen, met het oog op persoonsontplooiing en het functioneren in de samenleving, in het bijzonder op het vlak van de culturele, maatschappelijke en sociaal-economische participatie in het licht van een actief burgerschap. De syndicale vormingsinstelling heeft naast een culturele en een gemeenschapsvormende functie in hoofdzaak een educatieve functie en hanteert een sociaal-culturele methodiek.<br /><br />§ 2. De vormingsinstellingen die op het ogenblik van de inwerkingtreding van dit decreet erkend en gesubsidieerd worden krachtens het decreet van 19 april1995 houdende een subsidieregeling voor instellingen voor volksontwikkelingswerk, en die een werking ontplooien binnen een representatieve vakorganisatie, zijn, met het oog op het verkrijgen van subsidies, verplicht tot samenwerking. Per representatieve vakorganisatie wordt slechts één samenwerkingsverband gesubsidieerd. Dat samenwerkingsverband is een vereniging zonder winstoogmerk.<br /><br />§ 3. De jaarlijkse subsidie-enveloppe bedraagt per syndicale vormingsinstelling de som van de subsidiebedragen die de vormingsinstellingen, bedoeld in § 2, in het kader van het decreet van 19 april 1995 houdende een subsidieregeling voor instellingen voor volksontwikkelingswerk, voor het werkjaar 2001 ontvingen.<br /><br />§ 4. Het door de syndicale vormingsinstelling jaarlijks te presteren minimum aantal uren programma's wordt afgemeten aan haar startsubsidie-enveloppe voor 2004 vanuit de gemiddelde kostprijs van 116 euro voor één uur. <br /><br />§ 5. Om voor subsidiëring in aanmerking te komen, dient de syndicale vormingsinstelling een beleidsplan in. Het wordt opgesteld in overleg met de ledenverenigingen, beoogt de afstemming van het aanbod en geeft aan wie voor welke activiteiten in de subsidieaanvraag betrokken is.<br /><br />§ 6. De syndicale vormingsinstelling expliciteert in het beleidsplan en het voortgangsrapport hoe zij zich binnen haar werking verhoudt ten overstaan van de hiernavolgende beoordelingselementen : <br />1° de landelijke spreiding van het aanbod en/of het publiek; <br />2° het beleid ten aanzien van de deelnemers (bestaande en beoogde doelgroepen) en de link naar het communicatiebeleid; <br />3° de zorg voor professionalisering en professionaliteit; <br />4° het aantal uren programma's; <br />5° de netwerkvorming en samenwerking; <br />6° de manier waarop invulling wordt gegeven aan de culturele functie; <br />7° de manier waarop invulling wordt gegeven aan de gemeenschapsvormende functie; <br />8° de manier waarop in de werking rekening wordt gehouden met principes van integrale kwaliteitszorg; <br />9° de aanpak van de diversiteit met specifieke aandacht voor interculturaliteit.<br />Deze beoordelingselementen worden door de administratie vanaf de derde beleidsperiode gehanteerd bij de evaluatie van de werking van de syndicale vormingsinstelling. In de tweede beleidsperiode houdt de administratie bij de evaluatie van de werking van de syndicale vormingsinstelling rekening met de beoordelingselementen die op het ogenblik van de inhoudelijke en kwaliteitsbeoordeling door de adviescommissie van kracht waren, evenals met de wijze waarop de syndicale vormingsinstelling in haar werking rekening hield met de opmerkingen die de adviescommissie formuleerde op het punt van de inhoudelijke en kwaliteitsbeoordeling zoals van toepassing op dat ogenblik. <br /><br />§ 7. Syndicale vormingsinstellingen die bij de inwerkingtreding van dit decreet in het kader van het decreet van 19 april 1995 houdende een subsidieregeling voor instellingen voor volksontwikkelingswerk, subsidies ontvangen voor een werkingsnorm beneden de 3.000 uren programma's, kunnen gedurende de eerste beleidsperiode groeien tot de norm van 3.000 uren programma's.<br /><br />§ 8. De Vlaamse Regering bepaalt de procedure voor de aanvraag tot subsidiëring en voor de evaluatie van de werking, evenals de regels met betrekking tot de opmaak van het beleidsplan.
+...
 
 ## AFDELING 3 VORMINGSINSTELLINGEN VOOR PERSONEN MET EEN HANDICAP
 
 ### ART. 32.
 
-§ 1. Organisaties die op het ogenblik van de inwerkingtreding van dit decreet erkend en gesubsidieerd zijn voor de werking met de doelgroep van personen met een handicap, kunnen op grond van dit decreet verder subsidies krijgen via de federatie waartoe ze toetreden als ze toetreden tot een federatie van verenigingen zonder winstoogmerk met landelijk karakter. Die federatie heeft de vorm van een vereniging zonder winstoogmerk. Die federatie heeft als doel, via de niet-formele educatie, een sociaal-culturele werking te ontplooien voor personen met een handicap en hun omgeving, op basis van een sociaal-culturele methodiek.<br /><br />§ 2. Het programma-aanbod wordt gebracht via een open aanbod en in de autonome levenssfeer van de deelnemer.<br /><br />§ 3. Het programma-aanbod van de federatie kan, ten belope van vijfentwintig percent van de urennorm, zich richten tot de begeleiders van de doelgroep uit de non-profitsector, de culturele sector uitgezonderd. Dat aanbod wordt vanuit de strategische doelstellingen van het beleidsplan en de operationele doelstellingen en acties van de voortgangsrapporten verantwoord. <br /><br />§ 4. Er kunnen hoogstens drie federaties gesubsidieerd worden.<br /><br />§ 5. In afwijking van § 2 mag de federatie een subsidieerbaar programma ontwikkelen voor personen die door de aard van hun handicap niet in de mogelijkheid zijn om deel te nemen aan het open aanbod in de autonome levenssfeer; de afwijking kan hoogstens twintig percent van de urennorm bedragen; dat aanbod wordt vanuit de strategische doelstellingen van het beleidsplan en de operationele doelstellingen en acties van de voortgangsrapporten verantwoord.
+...
 
 ### ART. 33.
 
-§ 1. De jaarlijkse subsidie-enveloppe van de federatie bestaat uit de optelsom van de subsidiebedragen die de organisaties, vermeld in artikel 32, § 1, voor het werkjaar 2001 ontvingen krachtens het decreet van 19 april 1995 houdende een subsidieregeling voor instellingen voor volksontwikkelingswerk, aangevuld met een forfaitair bedrag van 75.000 euro.<br /><br />§ 2. ...<br /><br />§ 3. Met uitzondering van het forfaitaire bedrag van 75.000 euro, wordt het jaarlijks te presteren minimum aantal uren programma's afgemeten aan de startsubsidie-enveloppe voor 2004 vanuit de gemiddelde kostprijs van 150 euro voor één uur. <br /><br />§ 4. Om voor subsidiëring in aanmerking te komen dient de federatie een beleidsplan in. Dat beleidsplan wordt opgesteld in overleg met de ledenverenigingen. Het beoogt de afstemming van het aanbod en geeft aan wie voor welke activiteiten in de subsidieaanvraag betrokken is.<br /><br />§ 5. De federatie expliciteert in het beleidsplan en het voortgangsrapport hoe zij zich binnen haar werking verhoudt ten overstaan van de hiernavolgende beoordelingselementen : <br />1° de landelijke spreiding van het aanbod en/of het publiek; <br />2° het beleid ten aanzien van de deelnemers (bestaande en beoogde doelgroepen) en de link naar het communicatiebeleid; <br />3° de zorg voor professionalisering en professionaliteit; <br />4° het aantal uren programma's; <br />5° de netwerkvorming en samenwerking; <br />6° de manier waarop invulling wordt gegeven aan de culturele functie; <br />7° de manier waarop invulling wordt gegeven aan de gemeenschapsvormende functie; <br />8° de manier waarop in de werking rekening wordt gehouden met principes van integrale kwaliteitszorg; <br />9° de aanpak van de diversiteit met specifieke aandacht voor interculturaliteit; <br />10° de samenwerking binnen de federatie.<br /><br />Deze beoordelingselementen worden door de administratie vanaf de derde beleidsperiode gehanteerd bij de evaluatie van de werking van de federatie van vormingsinstellingen voor een bijzondere doelgroep. <br /><br />In de tweede beleidsperiode houdt de administratie bij de evaluatie van de werking van de federatie van vormingsinstellingen voor personen met een handicap rekening met de wijze waarop de federatie in haar werking rekening hield met de opmerkingen die de adviescommissie en de administratie formuleerden op het punt van de inhoudelijke en kwaliteitsbeoordeling zoals van toepassing op dat ogenblik.
+...
 
 ### ART. 34.
 
-De Vlaamse regering kan voor elke volgende beleidsperiode de subsidie-enveloppe opnieuw vaststel-len op grond van door de administratie geaggregeerde gegevens uit de evaluaties enerzijds, en uit de eigen beleidsintenties voor de eerstvolgende beleidsperiode anderzijds. De groei van de federaties door aansluiting van nieuwe organisaties voor personen met een handicap kan hiertoe aanleiding geven.
+...
 
 ### ART. 35.
 
-De Vlaamse Regering bepaalt de procedure voor het indienen van de aanvraag tot subsidiëring en voor de evaluatie van de werking, evenals de regels met betrekking tot de opmaak van het beleidsplan.
+...
 
 ## AFDELING 4 DE FEDERATIE VAN VORMINGSDIENSTEN VOOR PERSONEN MET EEN HANDICAP
 
 ### ART. 36.
 
-§ 1. De diensten die onder de toepassing vallen van artikel 61, § 1, behouden, voor zover ze educatieve activiteiten verrichten voor personen met een handicap en hun omgeving, hun subsidie die ze hebben verworven voor het werkjaar 2001, op voorwaarde dat ze zich voor 31 december 2004 federeren tot één federatie. Voor de werking als federatie wordt vanaf 1 januari 2008 75.000 euro toegevoegd aan de subsidie-enveloppe van de federatie. De federatie heeft de vorm van een vereniging zonder winstoogmerk en is actief op het vlak van sensibilisatie, vorming, begeleiding en maatschappelijke activering. <br /><br />§ 2. De federatie is een samenwerkingsverband van lidorganisaties met de hiernavolgende opdrachten :<br />1° op basis van een sociaal-culturele methodiek een werking ontplooien die voornamelijk gericht is op het werken rond het thema handicap en inclusie;<br />2° het ontwikkelen van kennis en deskundigheid en het ontsluiten ervan met als doel de erkenning van personen met een handicap als volwaardige burgers en hen de kans te bieden zich volledig te ontplooien in de samenleving; <br />3° het ontwikkelen van initiatieven die bijdragen tot de integratie van de doelgroep in de samenleving;<br />4° het ijveren voor een correcte beeldvorming over handicap en een samenleving die hierop is afgestemd; <br />5° het bundelen van kennis, inzicht en knowhow op het vlak van kwaliteitszorg, professionaliteit, netwerkverbreding en afstemming. <br /><br />§ 3. Om voor subsidiëring in aanmerking te komen, dient de federatie een beleidsplan in. Het wordt opgesteld in overleg met de ledenverenigingen, beoogt de afstemming van het aanbod en geeft aan wie voor welke activiteiten in de subsidieaanvraag betrokken is. <br /><br />§ 4. De federatie expliciteert in het beleidsplan en het voortgangsrapport hoe zij zich binnen haar werking verhoudt ten overstaan van de hiernavolgende beoordelingselementen : <br />1° de landelijke spreiding van het aanbod en/of het publiek; <br />2° het beleid ten aanzien van de deelnemers (bestaande en beoogde doelgroepen) en de link naar het communicatiebeleid; <br />3° de zorg voor professionalisering en professionaliteit; <br />4° de manier waarop invulling wordt gegeven aan de educatieve functie; <br />5° de netwerkvorming en samenwerking;<br />6° de manier waarop invulling wordt gegeven aan de gemeenschapsvormende functie en aan de maatschappelijke activeringsfunctie; <br />7° de manier waarop in de werking rekening wordt gehouden met principes van integrale kwaliteitszorg; <br />8° de aanpak van de diversiteit met specifieke aandacht voor interculturaliteit; <br />9° de samenwerking binnen de federatie.<br /><br />Deze beoordelingselementen worden door de administratie vanaf de tweede beleidsperiode gehanteerd bij de evaluatie van de werking van de federatie van vormingsdiensten voor personen met een handicap. <br /><br />§ 5. De Vlaamse Regering kan voor elke volgende beleidsperiode de subsidie-enveloppe opnieuw vaststellen op grond van door de administratie geaggregeerde gegevens uit de evaluaties enerzijds, en uit de eigen beleidsintenties voor de eerstvolgende beleidsperiode anderzijds. De groei van de federatie door aansluiting van nieuwe organisaties voor personen met een handicap kan hiertoe aanleiding geven.<br /><br />§ 6. De Vlaamse Regering bepaalt de procedure voor het indienen van de aanvraag tot subsidiëring en voor de evaluatie van de werking, evenals de regels met betrekking tot de opmaak van het beleidsplan.
+...
 
 ## TITEL V STEUNPUNT VOOR HET SOCIAAL- CULTUREEL VOLWASSENENWERK
 
@@ -268,21 +250,21 @@ Het steunpunt legt voor de beleidsperiode een beleidsplan voor waarin de opdrach
 
 ### ART. 42.
 
-Met uitzondering van de sociaal-culturele bewegingen waar deze regel geldt vanaf de eerste beleidsperiode, evalueert de administratie vanaf de tweede beleidsperiode de werking van elke organisatie voor sociaal-cultureel volwassenenwerk die gesubsidieerd wordt met toepassing van dit decreet, door middel van : <br />1° een bezoek ter plaatse vanaf het tweede jaar van de beleidsperiode door een visitatiecommissie. De visitatiecommissie evalueert op basis van het beleidsplan en de ingediende voortgangsrapporten, begrotingen en financiële verslagen; <br />2° de controle van de voortgangsrapporten, de begrotingen en de financiële verslagen. <br /><br />De administratie kan te allen tijde, ter plaatse controle uitoefenen op de realisatie van een activiteit. <br /><br />De activiteiten die de administratie in het kader van de voormelde evaluatie verricht vormen de basis voor het eindevaluatieverslag, dat voor 1 september van het voorlaatste jaar van de beleidsperiode aan de organisatie samen met een mededeling van het positieve of negatieve eindresultaat van de evaluatie wordt toegezonden. Vanaf de derde beleidsperiode vermeldt het eindevaluatieverslag zowel het besluit dat resulteert uit de toepassing van de artikelen 6, derde lid, 1°, en 26, § 3, 1°, als het besluit dat het resultaat is van de toepassing van de artikelen 6, derde lid, 2°, en 26, § 3, 2°.
+...
 
 ### ART. 43.
 
-§1. Voor het uitvoeren van het bezoek ter plaatse, vermeld in artikel 42, eerste lid, 1°, richt de Vlaamse Regering een visitatiecommissie op.<br /><br />De visitatiecommissie deelt haar bevindingen, die het gevolg zijn van de evaluatie, vermeld in artikel 42, eerste lid, 1°, mee aan de organisatie in de vorm van een visitatieverslag. Dit visitatieverslag wordt uiterlijk binnen de drie maanden aan de organisatie toegezonden. De organisatie kan de administratie een schriftelijke commentaar bij dit verslag bezorgen.<br /><br />§ 2. De organisatie heeft de mogelijkheid bij de administratie een bezwaarschrift in te dienen tegen het eindevaluatieverslag, vermeld in artikel 42, derde lid. <br /><br />Als de administratie geen rekening houdt met de inhoud van het ingediende bezwaarschrift deelt zij dit mee aan de organisatie, die in dat geval het dossier aanhangig kan maken bij de beroepscommissie.<br /><br />De beroepscommissie brengt via de administratie advies uit aan de minister. De administratie legt het volledige dossier voor aan de minister die een beslissing neemt voor het einde van het voorlaatste jaar van de beleidsperiode.<br /><br />De eindevaluatieverslagen, vermeld in artikel 42, derde lid, die leidden tot de beslissing van de Vlaamse Regering betreffende de subsidies zijn openbaar na het beëindigen van de procedure.<br /><br />§ 3. Bevindingen die het gevolg zijn van de evaluatieactiviteit, vermeld in artikel 42, tweede lid, worden door de administratie steeds schriftelijk en binnen de drie maanden aan de organisatie meegedeeld. <br /><br />§ 4. De Vlaamse Regering bepaalt de regels met betrekking tot de procedure van de evaluatie, de samenstelling van de visitatiecommissie, de samenstelling van de beroepscommissie evenals de regels met betrekking tot het te hanteren evaluatiemodel bij een bezoek ter plaatse.
+...
 
 ## TITEL VII ALGEMENE BEPALINGEN MET BETREKKING TOT DE UITKERING VAN DE SUBSIDIES
 
 ### ART. 44.
 
-§ 1. De Vlaamse Regering subsidieert via jaarlijkse subsidie-enveloppen de organisaties voor sociaalcultureel volwassenenwerk telkens voor een periode van vijf jaar. De eerste beleidsperiode wordt beperkt tot twee jaar en loopt van 1 januari 2004 tot en met 31 december 2005, behalve voor de sociaal-culturele bewegingen waarvan de beleidsperiode loopt van 1 januari 2005 tot en met 31 december 2010.<br>
+§ 1. ...<br>
 <br>
-§ 2. Nieuwe organisaties kunnen voor de periode van 1 januari 2006 tot en met 31 december 2009 een aanvraag indienen tot het verkrijgen van een jaarlijkse subsidie als sociaal-culturele beweging. Deze aanvragen worden gehonoreerd binnen de beschikbare kredieten.<br>
+§ 2. ...<br>
 <br>
-§ 3. De subsidie-enveloppe bevat de financiële middelen voor de ondersteuning van de jaarlijkse personeels- en werkingskosten van de organisaties.<br>
+§ 3. ...<br>
 <br>
 § 4. De subsidie-enveloppe van een organisatie die in 2011 middelen kreeg vanuit een provincie, wordt, in afwijking van artikelen 8, § 2, 10, 11, 15bis, 17, 22, 27, 31, 34 en 36, verhoogd met 90 % van de bedragen die door de provincie(s) in 2011 werden uitgekeerd als structurele ondersteuning van die organisatie.<br>
 <br>
@@ -290,102 +272,19 @@ Met uitzondering van de sociaal-culturele bewegingen waar deze regel geldt vanaf
 <br>
 Een herverdeling krijgt toepassing in het tweede kalenderjaar na de beslissing van de Vlaamse Regering en op zijn vroegst vanaf het kalenderjaar dat start op 1 januari 2019.<br>
 <br>
-&nbsp;§ 6. In afwijking van paragraaf 1 worden aan de vermelde organisaties in de beleidsperiode die loopt van 1 januari 2016 tot 31 december 2020 vanaf 1 januari 2017 de volgende bedragen bijkomend toegekend:
-<table border="1">
-	<tbody>
-		<tr>
-			<td>Vereniging</td>
-			<td>2017</td>
-			<td>2018</td>
-			<td>2019</td>
-			<td>2020</td>
-		</tr>
-		<tr>
-			<td>Actieve Interculturele Federatie +</td>
-			<td>40.000,00 EUR</td>
-			<td>70.000,00 EUR</td>
-			<td>70.000,00 EUR</td>
-			<td>70.000,00 EUR</td>
-		</tr>
-		<tr>
-			<td>Federatie Marokkaanse en Mondiale Democratische Organisaties</td>
-			<td>40.000,00 EUR</td>
-			<td>110.000,00 EUR</td>
-			<td>110.000,00 EUR</td>
-			<td>110.000,00 EUR</td>
-		</tr>
-		<tr>
-			<td>Federatie van Marokkaanse Verenigingen</td>
-			<td>40.000,00 EUR</td>
-			<td>70.000,00 EUR</td>
-			<td>70.000,00 EUR</td>
-			<td>70.000,00 EUR</td>
-		</tr>
-		<tr>
-			<td>Internationaal Comité</td>
-			<td>40.000,00 EUR</td>
-			<td>110.000,00 EUR</td>
-			<td>110.000,00 EUR</td>
-			<td>110.000,00 EUR</td>
-		</tr>
-		<tr>
-			<td>Turkse Unie van België</td>
-			<td>40.000,00 EUR</td>
-			<td>90.000,00 EUR</td>
-			<td>90.000,00 EUR</td>
-			<td>90.000,00 EUR</td>
-		</tr>
-		<tr>
-			<td>Unie van TurkseVerenigingen</td>
-			<td>40.000,00 EUR</td>
-			<td>80.000,00 EUR</td>
-			<td>80.000,00 EUR</td>
-			<td>80.000,00 EUR</td>
-		</tr>
-		<tr>
-			<td>Vereniging voor Ontwikkeling en Emancipatie van Moslims</td>
-			<td>40.000,00 EUR</td>
-			<td>40.000,00 EUR</td>
-			<td>40.000,00 EUR</td>
-			<td>40.000,00 EUR</td>
-		</tr>
-		<tr>
-			<td>Feniks vzw</td>
-			<td>40.000,00 EUR</td>
-			<td>80.000,00 EUR</td>
-			<td>80.000,00 EUR</td>
-			<td>80.000,00 EUR</td>
-		</tr>
-		<tr>
-			<td>Federatie van Zelforganisaties in Vlaanderen</td>
-			<td>40.000,00 EUR</td>
-			<td>50.000,00 EUR</td>
-			<td>50.000,00 EUR</td>
-			<td>50.000,00 EUR</td>
-		</tr>
-		<tr>
-			<td>Federation of Anglophone Africans in Belgium</td>
-			<td>40.000,00 EUR</td>
-			<td>100.000,00 EUR</td>
-			<td>100.000,00 EUR</td>
-			<td>100.000,00 EUR</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-Deze bedragen zijn niet onderhevig aan de index zoals bedoeld in artikel 47.
+&nbsp;§ 6. ...
 
 ### ART. 45.
 
-§ 1. De subsidie wordt uitbetaald in twee zesmaandelijkse voorschotten. Elk voorschot bedraagt vijfenveertig percent van de vastgestelde financiële enveloppe op jaarbasis. Het saldo van de subsidie wordt uitbetaald voor 1 juli van het jaar dat volgt op het gesubsidieerde kalenderjaar, na goedkeuring door de Vlaamse regering van de in het voorbije jaar gedane uitgaven. Bij de berekening van het saldo wordt rekening gehouden met de uitgekeerde voorschotten. Indien de uitgekeerde voorschotten hoger zijn dan de subsidie, wordt het verschil in mindering gebracht op de voorschotten van het kalenderjaar dat volgt op het jaar waarop de subsidie betrekking heeft.<br /><br />§ 2. De jaarlijkse subsidie wordt verantwoord op basis van het voortgangsrapport, het financieel verslag en de begroting. De Vlaamse regering bepaalt de voorwaarden voor de indiening ervan. De organisatie voor sociaal-cultureel volwassenenwerk legt jaarlijks de rekeningen van het vorige jaar met de nodige bewijsstukken voor, alsook een door de algemene vergadering goedgekeurde sluitende begroting. Uit de afrekening en de balans moet blijken dat de organisatie, rekening houdend met de eigen middelen, sluitend of batig kan werken. Een batig saldo in de resultatenrekening verplicht de organisatie tot het opbouwen van een financiële reserve. Die reserve moet aangewend worden ter financiering van uitgaven die bijdragen tot de realisatie van de doelstellingen van de organisatie.<br /><br />§ 3. Bij afwijking kan de jaarlijkse verantwoording van de subsidie-enveloppe leiden tot de vorming van een subsidiereserve op voorwaarde dat:<br />1° de organisatie deze werkwijze expliciet vaststelt in het ingediende en goedgekeurde beleidsplan;<br />2° de organisatie deze werkwijze telkens expliciet in het voortgangsrapport duidt en verantwoordt;<br />3° de gereserveerde subsidie in één van de volgende jaren van de beleidsperiode in kwestie besteed wordt conform het voortgangsrapport en beleidsplan;<br />4° de subsidie-enveloppe, toegekend voor het totaal van de beleidsperiode, niet overschreden wordt.<br /><br />§ 4. Om subsidies te genieten en te blijven genieten moeten de organisaties voor sociaal-cultureel volwassenenwerk bovendien:<br /><br />1° een boekhouding voeren volgens het genormaliseerde boekhoudkundige stelsel en die zo organiseren dat de financiële controle op de aanwending van de subsidies mogelijk is; de Vlaamse regering kan een specifiek boekhoudkundig plan en bijzondere regels betreffende de boekhouding opleggen;<br /><br />2° aanvaarden dat de administratie de werking en de boekhouding, eventueel ter plaatse, onderzoekt;<br /><br />3° hun bestuurders en hun medewerkers verzekeren tegen de burgerlijke aansprakelijkheid van de organisatie.
+...
 
 ### ART. 46.
 
-De Vlaamse Regering kan de kredieten die per beleidsperiode voor de organisaties ter beschikking zijn, verhogen. Verantwoordingselementen hiervoor zijn de stijging van de levensduurte, de behoeften geformuleerd vanuit de sociaal-culturele sector en de beleidsprioriteiten van de Vlaamse Regering.<br /><br />De stijging die verantwoord wordt door de toename van de levensduurte wordt procentueel verrekend in de vaststelling van de jaarlijkse individuele subsidie-enveloppe van de organisatie. <br /><br />De stijging die zijn verantwoording vindt in het engagement van de organisatie ten aanzien van de beleidsprioriteiten van de Vlaamse Regering evenals in het positieve eindresultaat van de evaluatie van de werking van de organisatie door de administratie, wordt vertaald in een forfaitair bedrag en eveneens verrekend in de vaststelling van de jaarlijkse individuele subsidie-enveloppe van de organisatie. De grootte van het forfaitaire bedrag wordt bepaald door het beschikbare krediet en het aantal in aanmerking komende organisaties.<br /><br />De bepaling van het derde lid geldt enkel voor de organisaties vermeld in titel II en in titel IV, hoofdstuk II, afdeling I.<br /><br />De Vlaamse Regering kan per beleidsperiode de bedragen, vermeld in artikel 9, 2°, artikel 14, § 1, artikel 15bis, artikel 22, artikel 27, eerste en derde lid, artikel 31, § 4, artikel 33, § 1, en artikel 36, § 1, aanpassen.
+...
 
 ### ART. 47.
 
-De in dit decreet bedoelde subsidie-enveloppen worden vanaf 1 januari 2003 gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De subsidie-enveloppen die ten gevolge van de toepassing van artikel 46, vijfde lid, aangepast zijn, worden vanaf 1 januari 2008 gekoppeld aan het prijsindexcijfer.
+...
 
 ## TITEL VIIbis FEDERATIE VAN ORGANISATIES VOOR VOLKSONTWIKKELING
 
@@ -418,27 +317,27 @@ De Vlaamse Regering bepaalt de nadere regels inzake de uitbetaling van de subsid
 
 ### ART. 48.
 
-(niet opgenomen)<br /><br />(Heft het decreet van 19 april 1995 houdende een subsidieregeling voor verenigingen voor volksontwikkelingswerk op)
+...
 
 ### ART. 49.
 
-(niet opgenomen)<br /><br />(Heft het besluit van de Vlaamse regering van 10 mei 1995 betreffende de subsidieregeling van verenigingen van volksontwikkelingswerk op)
+...
 
 ### ART. 50.
 
-(niet opgenomen)<br /><br />(Heft het decreet van 19 april 1995 houdende een subsidieregeling voor instellingen voor volksontwikkelingswerk op)
+...
 
 ### ART. 51.
 
-(niet opgenomen)<br /><br />(Heft het besluit van de Vlaamse regering van 10 mei 1995 betreffende de subsidieregeling van instellingen voor volksontwikkelingswerk op)
+...
 
 ### ART. 52.
 
-(niet opgenomen)<br /><br />(Heft het decreet van 19 april 1995 houdende een subsidieregeling voor diensten voor sociaal-cultureel werk voor volwassenen en houdende een wijziging van het decreet van 2 januari 1976 tot erkenning en subsidiëring van de Nederlandstalige koepelorganisaties voor beleidsvoorbereidend overleg in de sector van het sociaal-cultureel werk voor volwassenen op)
+...
 
 ### ART. 53.
 
-(niet opgenomen)<br /><br />(Heft het besluit van de Vlaamse regering van 10 mei 1995 betreffende de subsidieregeling van diensten voor sociaal-cultureel werk voor volwassenen op)
+...
 
 ## TITEL IX OVERGANGSBEPALINGEN
 
@@ -450,13 +349,13 @@ De Vlaamse Regering bepaalt de nadere regels inzake de uitbetaling van de subsid
 
 ### ART. 55.
 
-§ 1. In afwijking van artikel 9, 1°, wordt de jaarlijkse subsidie-enveloppe van de erkende verenigingen van migranten vastgesteld op basis van het aantal afdelingen of groepen zoals opgegeven voor het werkjaar 2008 of zoals vastgesteld voor het werkjaar 2009.<br /><br />§ 2. De verenigingen van migranten, erkend en gesubsidieerd krachtens het decreet van 19 april 1995 houdende een subsidieregeling voor verenigingen voor volksontwikkelingswerk, beschikken over de eerste, de tweede en de derde beleidsperiode om zich te ontwikkelen tot een sociaal-culturele vereniging conform de bepalingen van artikel 4, § 1. <br /><br />Het steunpunt werkt een actieplan uit om de verenigingen van migranten in hun ontwikkeling te ondersteunen. De verenigingen rapporteren daarover in hun verantwoordingsdocumenten.<br /><br />Verenigingen van migranten kunnen in de derde beleidsperiode onderling of met een erkende sociaal-culturele vereniging een samenwerkingsverband tot stand brengen in de vorm van een vereniging zonder winstoogmerk. De subsidie-enveloppe van het samenwerkingsverband is beperkt tot de optelsom van de subsidie-enveloppen van de samenstellende delen.<br /><br />De jaarlijkse subsidie-enveloppe van de verenigingen van migranten wordt in de derde beleidsperiode vastgesteld op basis van het aantal afdelingen of groepen van het werkjaar 2008, en wordt tot het jaar waarin de erkenning ingaat, met twintig percent verminderd.<br /><br />De aanvraag tot erkenning van de vereniging van migranten kan ten vroegste in 2012 en moet uiterlijk in 2015 worden gedaan. Het onderzoek gebeurt, wat artikel 4, § 1, 2°, betreft, op basis van de werking van de afdelingen of groepen in het jaar voorafgaand aan het jaar waarin de aanvraag gebeurt. De erkenning gaat in op 1 januari van het jaar volgend op de beslissing tot erkenning en de jaarlijkse subsidie-enveloppe wordt vastgesteld op basis van het aantal afdelingen of groepen van het jaar 2008.<br /><br />De verenigingen van migranten komen gedurende de derde beleidsperiode niet in aanmerking voor de toepassing van artikel 46, derde lid.<br /><br />De subsidievereisten, bepaald in artikel 5, 1°, en in artikel 6, zijn niet van toepassing op de verenigingen van migranten zolang zij niet zijn erkend.
+...
 
 ## HOOFDSTUK II SOCIAAL-CULTURELE VORMINGSINSTELLINGEN
 
 ### ART. 56.
 
-De sociaal-culturele vormingsinstellingen die op het ogenblik van de inwerkingtreding van dit decreet erkend en gesubsidieerd zijn krachtens het decreet van 19 april 1995 houdende een subsidieregeling voor instellingen voor volksontwikkelingswerk, behouden, bij gelijke werking, voor het werkjaar 2003 het subsidiebedrag dat ze voor het werkjaar 2001 hebben verworven. De sociaal-culturele vormingsinstellingen, die tengevolge van de toepassing van artikel 3 van het decreet van 24 juni 1997 houdende wijziging van het decreet van 19 april 1995 houdende een subsidieregeling voor instellingen voor volksontwikkelingswerk, voor het werkjaar 2002 een hoger subsidiebedrag bekwamen, behouden voor het werkjaar 2003 het subsidiebedrag van het werkjaar 2002.
+...
 
 ### ART. 57.
 
@@ -468,15 +367,15 @@ De sociaal-culturele vormingsinstellingen die op het ogenblik van de inwerkingtr
 
 ### ART. 59.
 
-De invulling van de personeelskaders en personeelsfuncties van de volkshogescholen verloopt in 2003 en 2004 volgens de hiernavolgende procedures:<br /><br />1° vanaf het ogenblik van de oprichting van de rechtspersoon gaat de volkshogeschool in 2003 over tot de aanwerving van personeelsleden voor de invulling van de functies van coördinator en van administratieve kracht; die aanwerving gebeurt in een eerste fase binnen het bestand van de op basis van het decreet van 19 april 1995 houdende een subsidieregeling voor instellingen voor volksontwikkelingswerk gesubsidieerde personeelsleden; in een tweede fase kan de volkshogeschool, wanneer geen geschikte kandidaten gevonden worden, een aanwerving buiten dit bestand motiveren;<br /><br />2° de personeelsleden die het voorwerp zijn van overdracht hebben een vrije keuze van tewerkstellingsplaats al naargelang de volkshogeschool waarin zij wensen te werken; die keuze wordt aan de administratie kenbaar gemaakt via een schrijven van de betrokken vormingsinstelling; dit schrijven vermeldt de over te dragen personeelsleden uit het gesubsidieerde perso-neelsbestand op het ogenblik van de inwerkingtreding van dit decreet, met vermelding per personeelslid van een lijst van de drie meest prioritaire opties met betrekking tot de toekomstige tewerkstellingsplaats;<br /><br />3° de volkshogescholen zijn verplicht het resultaat van de in 2° vermelde keuzes te respecteren en de betrokken personen een arbeidsovereenkomst aan te bieden en in hun personeelsbestand op te nemen ten belope van een globale loonkost van maximum driekwart van de uiteindelijke subsidie-enveloppe;<br /><br />4° [...  <span class="reference">(opgeh. decr. 19 december 2003, art. 9, I: 1 januari 2004)</span> ]<br /><br />5° de overdracht van personeelsleden naar de volkshogescholen betekent dat in 2003 de vormingsinstelling die bij de overdracht betrokken is, voor de overgedragen educatieve personeelsleden geen uren programma's dient te presteren;<br /><br />6° voor de educatieve personeelsleden die bij hun gespecialiseerde vormingsinstelling, desgevallend tot 30 juni 2004, in overtal zijn, moet de gespecialiseerde vormingsinstelling gedurende die periode geen uren programma's presteren;<br /><br />7° de gespecialiseerde vormingsinstellingen die ten gevolge van de aanwerving bedoeld in 1° personeelsleden zien weggaan, mogen deze vanaf 2004 vervangen, mits deze vervanging gewettigd is door het aantal uren programma's;<br /><br />8° de administratie treedt ten aanzien van de volkshogeschool op als bemiddelaar voor de individuele vraagstelling van de betrokken personeelsleden.
+...
 
 ### ART. 59bis.
 
-§ 1. De sociaal-culturele vormingsinstelling die op het ogenblik van de inwerkingtreding van dit decreet erkend en gesubsidieerd was krachtens het decreet van 19 april 1995 houdende een subsidieregeling voor instellingen voor volksontwikkelingswerk en die op basis van artikel 58, § 5, niet of slechts gedeeltelijk door de Vlaamse regering wordt aanvaard voor een gespecialiseerde werking, kan voor haar personeelsleden, die op 1 januari 2003 voor subsidiëring in aanmerking kwamen en die gelet op de toepassing van het decreet van 4 april 2003 niet langer in aanmer-king komen voor subsidiëring, aan de administratie vóór 15 januari 2004 een lijst overmaken waarin zij per personeelslid de wens aangeeft om hetzij tewerkgesteld te worden in een volkshogeschool of in een bibliotheekvoorziening voor blinden en slechtzienden, hetzij tewerkgesteld te worden in een andere sector in het sociaal-cultureel volwassenenwerk of de sector van de amateurkunsten.<br /><br />§ 2. Voor de personeelsleden die wensen tewerkgesteld te worden in een volkshogeschool wordt tevens een lijst aan de administratie overgemaakt met hierin de drie volkshogescholen in de gewenste volgorde.<br /><br />§ 3. Voor de personeelsleden die opteren om elders dan in een volkshogeschool tewerkgesteld te worden, moet tevens worden aangegeven welke sector en zo mogelijk welke organisatie hun hoofdvoorkeur geniet: hetzij een blindenbibliotheek, hetzij een sociaal-culturele vereniging, hetzij een syndicale vormingsinstelling, hetzij een gespecialiseerde vormingsinstelling, hetzij een vormingsinstelling voor bijzondere doelgroepen, hetzij het steunpunt voor het sociaal-cultureel volwassenenwerk, hetzij een gesubsidieerde organisatie uit de amateurkunsten.<br /><br />§ 4. De personeelsleden, vermeld in § 3, kunnen in tweede orde ook nog in aanmerking komen om tewerkgesteld te worden in een volkshogeschool indien zij deze optie op de lijst ook kenbaar maken.<br /><br />§ 5. De vormingsinstellingen, bedoeld in § 1, kunnen een subsidie krijgen voor de financiering van een ontslagregeling voor de personeelsleden die geen hertewerkstelling, zoals in dit artikel bedoeld, willen en die vóór 15 januari 2004 door deze vormingsinstellingen zijn ontslagen.<br /><br />§ 6. De subsidiëring, bedoeld in § 5, wordt enerzijds beperkt tot een maximale subsidie van 12 maanden die eindigt op 31 december 2004 en gebaseerd is op de subsidiebedragen die verbonden waren aan hun personeelsfunctie in het raam van het decreet van 19 april 1995, en anderzijds door het aantal dienstjaren dat de begunstigde in de vormingsinstelling werkzaam was, gebaseerd op het principe van 3 maanden vergoeding per 5 jaar dienst.<br /><br />§ 7. De organisaties, bedoeld in § 3, kunnen vóór 15 januari 2004 bij de administratie een aanvraag indienen waarin zij te kennen geven personeelsleden wensen aan te werven die geopteerd hebben voor een hertewerkstelling, zoals in dit artikel bedoeld, en dit voor maximum twee personeelsleden gesubsidieerd op basis van de subsidiebedragen die verbonden waren aan hun personeelsfunctie in het raam van het decreet van 19 april 1995.  <span class="reference">(ing. decr. 19 december 2003, art. 10, I: 1 januari 2004)</span> ] [Voor de organisaties vermeld in § 3 wordt, bij aanwerving van personeel binnen de in dit artikel bepaalde voorwaarden, de subsidie-enveloppe vermeerderd met de personeelssubsidies verbonden aan de betrokken personeelsfunctie in het kader van het decreet van 19 april 1995 houdende een subsidieregeling voor instellingen voor volksontwikkelingswerk.  <span class="reference">(ing. decr. 7 mei 2004, art. 2, I: 1 januari 2004)</span> ]<br /><br />[§ 8. De personeelsleden die reeds een keuze hebben gemaakt op basis van artikel 58, § 6, kunnen vóór 15 januari 2004 bij de administratie een voorstel indienen om alsnog tewerkgesteld te worden zoals voorzien in § 3.<br /><br />§ 9. De personeelsleden die gebruik hebben gemaakt van de in dit artikel bepaalde aanvullende maatregelen worden, tot zolang ze een nieuwe arbeidsovereenkomst hebben afgesloten, gesubsidieerd in de vormingsinstelling waarin zij op het ogenblik van de overdracht tewerkgesteld waren en dit tot uiterlijk 30 juni 2004.<br /><br />§ 10. Voor de personeelsleden, bedoeld in § 1 en die geen gebruik hebben gemaakt van de in dit artikel bepaalde aanvullende maatregelen, worden aan de vormingsinstellingen waarin zij zijn tewerksteld, vanaf 1 februari 2004 geen subsidies meer uitgekeerd.  <span class="reference">(ing. decr. 19 december 2003, art. 10, I: 1 januari 2004)</span> ]<br /><br />[§ 11. Indien terzake een collectieve arbeidsovereenkomst wordt afgesloten, kunnen sommige bejaarde werknemers die gevat worden door de keuze van hun vormingsinstelling volgens artikel 58, § 2, of die ontslagen worden als gevolg van de beslissing over het gespecialiseerde karakter in het kader van dit decreet, in 2004 een brugpensioenregeling genieten. De Vlaamse regering is gemachtigd om de concrete uitvoering ervan te regelen bij overeenkomst. Als de brugpensioenregeling doorgang vindt via een overeenkomst met een volkshogeschool, valt de te subsidiëren aanvullende vergoeding buiten de subsidie-enveloppe, bedoeld in artikel 22, § 1.  <span class="reference">(ing. decr. 7 mei 2004, art. 2, I: 1 januari 2004)</span> ]
+...
 
 ### ART. 60.
 
-§ 1. Bij de inwerkingtreding van het decreet wordt voor het jaar 2003 een financiële tussenkomst voorzien voor de kosten verbonden aan de oprichting en verdere uitbouw van de volkshogeschool per regio.<br /><br />§ 2. De Vlaamse regering bepaalt er de modaliteiten van.
+...
 
 ## HOOFDSTUK III DE SOCIAAL-CULTURELE DIENSTEN
 
@@ -488,4 +387,4 @@ De invulling van de personeelskaders en personeelsfuncties van de volkshogeschol
 
 ### ART. 62.
 
-§ 1. De Vlaamse regering evalueert vóór 30 juni 2007 de uitvoering van dit decreet.<br /><br />§ 2. Het decreet treedt in werking op 1 januari 2003 met uitzondering van:<br /><br />1° de volgende artikelen, die in werking treden op 1 januari 2004:<br /><br />a) artikel 5, 2° tot 5°, en artikelen 8 tot 14, §§ 1 en 2, wat betreft de sociaal-culturele verenigingen;<br /><br />b) artikel 18, wat betreft de sociaal-culturele bewegingen;<br /><br />c) artikel 21, § 1, 2° tot 6°, wat betreft de volkshogescholen;<br /><br />d) artikelen 26 tot 28, wat betreft de gespecialiseerde vormingsinstellingen;<br /><br />e) artikel 31, §§ 3, 4 en 7, wat betreft de syndicale vormingsinstellingen;<br /><br />f) artikel 33, §§ 1 tot 3, wat betreft de vormingsinstellingen voor personen met een handicap;<br /><br />g) artikel 36, § 3, wat betreft de vormingsinstelling voor gedetineerden;<br /><br />h) de overgangsbepalingen van Titel IX, met uitzondering van de bepalingen van artikel 54, artikel 56, artikel 60, §§ 1 en 2, en artikel 61, § 1;<br /><br />2° artikel 23, § 1, 2°, 3°, d), e) en f), en artikel 24, die van toepassing zijn drie maanden na de goedkeuring van het decreet.
+...
