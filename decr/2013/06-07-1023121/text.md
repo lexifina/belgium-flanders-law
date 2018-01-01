@@ -20,7 +20,7 @@ a) het centrum, vermeld in artikel 2, 4°, van het decreet van 15 juni 2007 betr
 b) een talencentrum, opgericht door een universiteit als bedoeld in artikel 4 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen;<br>
 c) een erkend centrum voor vorming van zelfstandigen en kleine of middelgrote ondernemingen als vermeld in artikel 36 tot en met 38 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap ``Vlaams Agentschap voor Ondernemingsvorming - Syntra Vlaanderen'';<br>
 d) een centrum voor beroepsopleiding als vermeld in artikel 64 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding.<br>
-5° decreet van 15 juli 2011 : het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd;<br>
+5° ...;<br>
 6° EVA : het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, vermeld in artikel 16;<br>
 7° inburgeraar : een persoon die behoort tot de doelgroep van inburgering, vermeld in artikel 26, § 1;<br>
 8° inburgering : een begeleid traject naar integratie waarbij de overheid aan inburgeraars een specifiek programma op maat aanbiedt, dat hun zelfredzaamheid verhoogt met het oog op participatie op professioneel, educatief en sociaal vlak;<br>
@@ -303,7 +303,20 @@ De regie over een behoeftedekkend en behoeftegericht aanbod Nederlands als   twe
 
 ### ART. 48.
 
-De volgende artikelen zijn niet van toepassing in het tweetalige gebied   Brussel-Hoofdstad : <BR>1° artikel 12;<BR>2° artikel 13;<BR>3° artikel 14;<BR>4°   artikel 25, § 1, eerste lid, 1°;<BR>5° artikel 27;<BR>6° artikel 32, § 1;<BR>7°   artikel 32, § 2, eerste lid;<BR>8° artikel 32, § 3;<BR>9° artikel 33, § 1, derde   lid;<BR>10° artikel 34, derde lid;<BR>11° artikel 35;<BR>12° artikel 39, § 1,   eerste lid, 1°, derde en vierde lid, en § 3;<BR>13° artikel 40.
+De volgende artikelen zijn niet van toepassing in het tweetalige gebied Brussel-Hoofdstad :<br>
+1° artikel 12;<br>
+2° ...;<br>
+3° ...;<br>
+4° artikel 25, § 1, eerste lid, 1°;<br>
+5° artikel 27;<br>
+6° artikel 32, § 1;<br>
+7° artikel 32, § 2, eerste lid;<br>
+8° artikel 32, § 3;<br>
+9° artikel 33, § 1, derde lid;<br>
+10° artikel 34, derde lid;<br>
+11° artikel 35;<br>
+12° artikel 39, § 1, eerste lid, 1°, derde en vierde lid, en § 3;<br>
+13° artikel 40.
 
 ### ART. 50.
 
