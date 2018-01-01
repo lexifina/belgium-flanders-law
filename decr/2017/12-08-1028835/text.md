@@ -108,6 +108,13 @@ De Vlaamse Regering bepaalt de aard, de omvang en de organisatorische voorwaarde
 In artikel 1.2.1, 3°, van dezelfde codex worden de woorden "ruimtelijk structuurplan Vlaanderen" vervangen door de woorden "ruimtelijk structuurplan Vlaanderen of Beleidsplan Ruimte Vlaanderen".<br>
 &nbsp;
 
+### ART 19.
+
+In artikel 1.3.2, § 3, derde lid, van dezelfde codex worden de volgende wijzigingen aangebracht:<br>
+1° in punt 7° wordt het getal "drie" vervangen door het getal "vier";<br>
+2° in punt 8° wordt het getal "acht" vervangen door het getal "zeven" en de zinsnede ", onroerend erfgoed, en cultuur" door de woorden "en onroerend erfgoed".<br>
+&nbsp;
+
 ### ART 20.
 
 &nbsp;In artikel 1.3.3 van dezelfde codex, gewijzigd bij het decreet van 4 april 2014, worden de volgende wijzigingen aangebracht:<br>
