@@ -8,23 +8,44 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 14 februari 2003 betref
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de personeelsleden van de Centra voor Basiseducatie, vermeld in artikel 127, § 1, 1° en 2° van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />
+Dit besluit is van toepassing op de personeelsleden vermeld in artikel 3 van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie.
 
 ## HOOFDSTUK II De functies
 
 ### ART. 2.
 
-In de centra voor basiseducatie kunnen de personeelsleden worden aangesteld in de volgende functies : <br />1° directeur;<br />2° stafmedewerker;<br />3° leraar basiseducatie;<br />4° beleidsondersteunend administratief medewerker;<br />5° uitvoerend administratief medewerker.<br />6° ervaringsdeskundige in de armoede en sociale uitsluiting.<br /><br />
+In de centra voor basiseducatie kunnen de personeelsleden worden aangesteld in de volgende ambten :<br>
+1° bevorderingsambt van directeur<br>
+2° selectieambt van adjunct-directeur<br>
+3° wervingsambten<br>
+a) stafmedewerker;<br>
+b) leraar basiseducatie;<br>
+c) beleidsondersteunend administratief medewerker;<br>
+d) uitvoerend administratief medewerker;<br>
+e) ervaringsdeskundige in de armoede en sociale uitsluiting.
 
 ## HOOFDSTUK III De bekwaamheidsbewijzen
 
 ### ART. 3.
 
-§ 1. De personeelsleden, vermeld in artikel 2, moeten houder zijn van de   volgende bekwaamheidsbewijzen : <BR>1° de directeur : een bekwaamheidsbewijs van   ten minste&nbsp;bachelor&nbsp;+ bewijs van pedagogische bekwaamheid (BPB);<BR>2°   de stafmedewerker : een bekwaamheidsbewijs van ten minste bachelor;<BR>3° de   leraar basiseducatie : een bekwaamheidsbewijs van ten minste bachelor + BPB of   een bekwaamheidsbewijs van ten minste bachelor;<BR>4° de beleidsondersteunend   administratief medewerker : een bekwaamheidsbewijs van ten minste hoger   secundair onderwijs (HSO);<BR>5° de ervaringsdeskundige in de armoede en sociale   uitsluiting : het certificaat of het getuigschrift van de opleiding van   ervaringsdeskundige in de armoede en sociale uitsluiting.<BR><BR>§ 2. Voor de   personeelsleden, aangesteld in de functie van uitvoerend administratief   medewerker, is geen studiebewijs vereist.<BR><BR>
+§ 1. De personeelsleden, vermeld in artikel 2, moeten houder zijn van een van de volgende bekwaamheidsbewijzen :<br>
+1° voldoende geachte bekwaamheidsbewijzen :<br>
+a) de directeur : een bekwaamheidsbewijs van ten minste bachelor + bewijs van pedagogische bekwaamheid (BPB);<br>
+b) de adjunct-directeur : een bekwaamheidsbewijs van ten minste bachelor + bewijs van pedagogische bekwaamheid (BPB);<br>
+c) de stafmedewerker : een bekwaamheidsbewijs van ten minste bachelor;<br>
+d) de leraar basiseducatie : een bekwaamheidsbewijs van ten minste bachelor + BPB; e) de beleidsondersteunend administratief medewerker : een bekwaamheidsbewijs van ten minste hoger secundair onderwijs (HSO);<br>
+f) de ervaringsdeskundige in de armoede en sociale uitsluiting : het certificaat of het getuigschrift van de opleiding van ervaringsdeskundige in de armoede en sociale uitsluiting.<br>
+2° andere bekwaamheidsbewijzen<br>
+a) de directeur : een bekwaamheidsbewijs van ten minste bachelor;<br>
+b) de adjunct-directeur : een bekwaamheidsbewijs van ten minste bachelor;<br>
+c) de leraar basiseducatie : een bekwaamheidsbewijs van ten minste bachelor.<br>
+<br>
+§ 2. Voor de personeelsleden die aangesteld zijn in het ambt van uitvoerend administratief medewerker, is geen studiebewijs vereist.
 
 ### ART. 4.
 
-Voor de bepalingen van dit hoofdstuk zijn artikel 3, § 1 en § 2, artikel   4, § 1 en § 2, artikel 6, 7, 8 en 16vicies van het besluit van de Vlaamse   Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de   salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair   onderwijs van toepassing.<BR><BR>
+Voor de bepalingen van dit hoofdstuk zijn artikel 3, § 1 en § 2, artikel 4, § 1 en § 2, artikel 6, 7, en 8 van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs van toepassing.<br>
+&nbsp;
 
 ### ART. 5.
 
@@ -32,13 +53,30 @@ Naast de studiebewijzen, vermeld in artikel 3, § 2, van het besluit van de Vlaa
 
 ### ART. 6.
 
-De personeelsleden vermeld in artikel 2, kunnen enkel een salaris verkrijgen als ze in het bezit zijn van een van de vereiste bekwaamheidsbewijzen, vermeld in dit hoofdstuk. <br /><br />
+De personeelsleden vermeld in artikel 2, kunnen enkel een salaris verkrijgen als ze voldoen aan artikel 3.<br>
+&nbsp;
 
 ## HOOFDSTUK IV De salarisschalen
 
 ### ART. 7.
 
-§ 1. De personeelsleden die beantwoorden aan de voorwaarden, vermeld in   artikel 6, worden betaald overeenkomstig de volgende salarisschalen : <BR>1° de   directeur : salarisschaal 511;<BR>2° de stafmedewerker : salarisschaal   501;<BR>3° de leraar basiseducatie : <BR>a) salarisschaal 346 : de houders van   een bekwaamheidsbewijs van ten minste bachelor + BPB;<BR>b) salarisschaal 301 :   de houders van een bekwaamheidsbewijs van ten minste bachelor;<BR>4° de   beleidsondersteunend administratief medewerker : salarisschaal 106;<BR>5° de   uitvoerend administratief medewerker : salarisschaal 122;<BR>6° de   ervaringsdeskundige in de armoede en sociale uitsluiting : salarisschaal   122.<BR><BR>§ 2. De salarisschalen vermeld in § 1, zijn vastgesteld bij het   besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen   van bepaalde personeelsleden van het onderwijs.<BR><BR>
+§ 1. De personeelsleden die beantwoorden aan de voorwaarden, vermeld in artikel 3, worden betaald overeenkomstig de volgende salarisschalen :<br>
+1° de directeur :<br>
+a) salarisschaal 511 : de houders van een bekwaamheidsbewijs van ten minste bachelor + BPB;<br>
+b) salarisschaal 502 : de houders van een bekwaamheidsbewijs van ten minste bachelor.<br>
+2° de adjunct-directeur :<br>
+a) salarisschaal 502 : de houders van een bekwaamheidsbewijs van ten minste bachelor+ BPB;<br>
+b) salarisschaal 501 : de houders van een bekwaamheidsbewijs van ten minste bachelor<br>
+3° de stafmedewerker : salarisschaal 501;<br>
+4° de leraar basiseducatie :<br>
+a) salarisschaal 346 : de houders van een bekwaamheidsbewijs van ten minste bachelor+ BPB;<br>
+b) salarisschaal 301 : de houders van een bekwaamheidsbewijs van ten minste bachelor;<br>
+5° de beleidsondersteunend administratief medewerker : salarisschaal 106;<br>
+6° de uitvoerend administratief medewerker : salarisschaal 122;<br>
+7° de ervaringsdeskundige in de armoede en sociale uitsluiting : salarisschaal 122.<br>
+<br>
+§ 2. De salarisschalen vermeld in § 1, zijn vastgesteld bij het besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.<br>
+&nbsp;
 
 ## HOOFDSTUK V Slotbepalingen
 
