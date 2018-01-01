@@ -37,6 +37,14 @@ Besluit :<br>
 
 ## HOOFDSTUK 1 Wijziging van het koninklijk besluit van 27 augustus 1993 tot uitvoering van het Wetboek van de inkomstenbelastingen 1992
 
+### ART 1.
+
+In artikel 6318/15 , § 1, van het koninklijk besluit van 27 augustus 1993 tot uitvoering van het Wetboek van de inkomstenbelastingen 1992, ingevoegd bij het koninklijk besluit van 30 juni 2014, worden de volgende wijzigingen aangebracht:<br>
+1° punt 2° wordt vervangen door wat volgt:<br>
+"2° de aannemer waarborgt dat het voor de isolatie van het dak nieuw geplaatste isolatiemateriaal een thermische weerstand R heeft die gelijk is aan of groter is dan 4,5 vierkante meter kelvin per watt;";<br>
+2° in punt 3°, c), wordt de zinsnede "Ik, ondergetekende .................., bevestig dat het voor de isolatie van het dak gebruikte isolatiemateriaal een thermische weerstand R heeft die gelijk is aan of groter is dan 2,5 vierkante meter Kelvin per watt" vervangen door de zinsnede "Ik ondergetekende, .................., bevestig dat het voor de isolatie van het dak nieuw geplaatste isolatiemateriaal een thermische weerstand R heeft die gelijk is aan of groter is dan 4,5 vierkante meter kelvin per watt".<br>
+&nbsp;
+
 ## HOOFDSTUK 2 Wijzigingen aan titel III van het Energiebesluit van 19 november 2010
 
 ### ART 2.
