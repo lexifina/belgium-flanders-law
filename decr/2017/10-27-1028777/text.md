@@ -81,6 +81,10 @@ In artikel 5.4.4 van het decreet van 5 april 1995 houdende algemene bepalingen i
 2° in het derde lid worden de woorden "deze afdeling" vervangen door de woorden "dit departement".<br>
 &nbsp;
 
+### ART 13.
+
+In artikel 5.4.11, § 2, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 18 december 2015 wordt de zinsnede "de afdeling Milieu, bevoegd voor de omgevingsvergunning" vervangen door de woorden "het Departement Omgeving"
+
 ### ART 14.
 
 In artikel 8.1.2 van hetzelfde decreet, ingevoegd bij het decreet van 14 februari 2014 en gewijzigd bij het decreet van 18 november 2016, wordt punt 1° vervangen door wat volgt :<br>
@@ -242,6 +246,11 @@ In artikel 105, § 2, eerste lid, van hetzelfde decreet, gewijzigd bij het decre
 &nbsp;
 
 ## Afdeling 19 Wijzigingen van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid
+
+### ART 40.
+
+In artikel 21, § 1, van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid wordt de zinsnede "Leefmilieu, Natuur en Energie" vervangen door het woord "Omgeving".<br>
+&nbsp;
 
 ### ART 41.
 
