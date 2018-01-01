@@ -2,16 +2,16 @@
   "codex_id": 1024163,
   "title": "Besluit van de Vlaamse Regering van 2014-05-09 tot erkenning van de VZW [Flanders Make] als strategisch onderzoekscentrum",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024163/VolledigDocument?datum=2015-07-16",
-  "source_sha256": "fdc0255d1279709d3a48ce3d3c205956aa7831da236512bcddd9cd243979758b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024163/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "5b8975d951dff125f44c4ad2652bcd6e859188ae264ecffdead1ad465ba2c582",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024163&param=informatie",
-  "as_of": "2015-07-16",
+  "as_of": "2018-01-01",
   "made": "2014-05-09",
   "gazette": "2014-06-12",
   "numac": 2014035607,
   "document_start": "2014-06-01",
   "document_end": "2017-12-31",
-  "in_force": "2015-07-16",
+  "in_force": "2018-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2015-07-16; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
