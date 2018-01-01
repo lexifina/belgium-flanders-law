@@ -2,16 +2,16 @@
   "codex_id": 1011106,
   "title": "Decreet van 2003-03-21 betreffende de armoedebestrijding",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011106/VolledigDocument?datum=2016-08-29",
-  "source_sha256": "5078c0ef7a89c606b22694fee078a5f2354c7c06231eb268dcfa7f48064651c0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011106/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "a53b8ef6e1a058c6b62d62d6b93582f8dc2e356774d03e734934fb3a71e322ef",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011106&param=informatie",
-  "as_of": "2016-08-29",
+  "as_of": "2018-01-01",
   "made": "2003-03-21",
   "gazette": "2003-06-11",
   "numac": 2003035552,
   "document_start": "2004-01-01",
   "document_end": null,
-  "in_force": "2016-08-29",
+  "in_force": "2018-01-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2016-08-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
