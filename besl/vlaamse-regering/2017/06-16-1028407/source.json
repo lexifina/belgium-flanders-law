@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028407,
+  "title": "Besluit van de Vlaamse Regering van 2017-06-16 houdende wijziging van het besluit van de Vlaamse Regering van 14 september 2012 tot uitvoering van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid, wat betreft de procedure inzake de erkenning van politieke jongerenbewegingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028407/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "a744b598188e472ac799d053c4a91d337b4a81fb03b2594d1a165828a49e1a6f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028407&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-06-16",
+  "gazette": "2017-07-11",
+  "numac": 2017030463,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
