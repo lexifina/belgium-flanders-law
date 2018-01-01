@@ -1,0 +1,113 @@
+# Besluit van de Vlaamse Regering van 2018-07-20 houdende erkenning en subsidiëring van opdrachthouders Consulentenwerking
+
+### Aanhef
+
+DE VLAAMSE REGERING,<br>
+<br>
+Gelet op het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, artikel 8, 2°, gewijzigd bij het decreet van 25 april 2014, en artikel 8, 8°, ingevoegd bij het decreet van 25 april 2014;<br>
+<br>
+Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 15 mei 2018;<br>
+<br>
+Gelet op advies 63.614/1 van de Raad van State, gegeven op 2 juli 2018, met toepassing van artikel 84, § 1, eerste lid, 2°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br>
+<br>
+Op voorstel van de Vlaamse minister van Welzijn, Volksgezondheid en Gezin;<br>
+<br>
+Na beraadslaging,<br>
+<br>
+Besluit :
+
+### ART 1.
+
+In dit besluit wordt verstaan onder agentschap: het Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.
+
+### ART 2.
+
+Het agentschap kan per provincie een opdrachthouder Consulentenwerking erkennen en subsidiëren.
+
+### ART 3.
+
+Een opdrachthouder Consulentenwerking moet aan al de volgende voorwaarden voldoen om erkend te worden en te blijven:<br>
+1° opgericht zijn door een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen, door een vennootschap met rechtspersoonlijkheid en met een sociaal oogmerk, of door een ondergeschikt bestuur zoals een provincie, een gemeente, een intercommunale van gemeenten of een openbaar centrum voor maatschappelijk welzijn dat erkend of vergund is door het agentschap of door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
+2° over expertise beschikken in beeldvorming, begeleiding en kennisverspreiding rond personen met een handicap of met een vermoeden van handicap en bijkomende psychische problemen;<br>
+3° de verbintenis aangaan om op elk verzoek om consulentenwerking als vermeld in artikel 5, in te gaan.
+
+### ART 4.
+
+De dienst of organisatie, vermeld in artikel 3, 1°, dient de aanvraag tot erkenning als opdrachthouder Consulentenwerking in bij het agentschap via de webapplicatie die het agentschap heeft vastgesteld.<br>
+<br>
+Het agentschap onderzoekt de aanvraag en kan, als dat nodig is, bijkomende inlichtingen vragen.<br>
+<br>
+De erkenning wordt verleend voor een periode van minstens een jaar en maximaal vijf jaar.<br>
+<br>
+Het agentschap deelt de beslissing tot erkenning of tot weigering van de erkenning mee aan de dienst of organisatie die de erkenning heeft aangevraagd.<br>
+<br>
+Het agentschap kan de erkenning die het verleend heeft aan een dienst of organisatie als vermeld in artikel 3, 1°, opschorten of intrekken als een van de voorwaarden, vermeld in artikel 3, niet meer vervuld is.<br>
+<br>
+De beslissing tot opschorting of intrekking van de erkenning wordt meegedeeld aan de dienst of organisatie, vermeld in artikel 3, 1°, van dit besluit. Het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap is niet van toepassing, met uitzondering van artikel 17.
+
+### ART 5.
+
+Consulentenwerking omvat de volgende activiteiten:<br>
+1° een probleemanalyse en beeldvorming uitvoeren bij vastgelopen situaties met als doel dat de persoon met een handicap of met een vermoeden van handicap door de ondersteuning vanuit de consulentenwerking in de reguliere woon- en leefsituatie kan blijven of er zo snel mogelijk kan terugkeren, of doorverwezen wordt naar meer gepaste ondersteuning;<br>
+2° een begeleidingsplan opmaken met handvaten rond aanpak en nodige aanpassingen;<br>
+3° ondersteuning bieden bij de implementatie van de adviezen van het begeleidingsplan en vervolgondersteuning bieden als dat aangewezen is;<br>
+4° zorgen voor kennisoverdracht aan andere professionelen uit diverse sectoren.<br>
+<br>
+Consulentenwerking betrekt alle relevante actoren uit de omgeving van de gebruiker bij de uitvoering van de activiteiten, vermeld in het eerste lid.<br>
+<br>
+Consulentenwerking kan zowel ambulant als mobiel geboden worden.
+
+### ART 6.
+
+De doelgroep van Consulentenwerking bestaat uit personen die aan de volgende voorwaarden voldoen:<br>
+1° het agentschap heeft de persoon erkend als een persoon met een handicap of de persoon beschikt over een jeugdhulpverleningsbeslissing als vermeld in artikel 2, 28°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp waarbij een module, als vermeld in artikel 2, 38°, van hetzelfde decreet, voor personen met een handicap is toegewezen of de persoon kan worden beschouwd als een persoon met een vermoeden van handicap;<br>
+2° de persoon heeft bijkomend psychische problemen.
+
+### ART 7.
+
+Om de activiteiten, vermeld in artikel 5, uit te voeren, bouwt de opdrachthouder Consulentenwerking een netwerk uit of werkt hij samen met een bestaand intersectoraal netwerk van organisaties en diensten die actief zijn rond de betrokken doelgroep in de provincie. De opdrachthouder coördineert de consulentenwerking.
+
+### ART 8.
+
+Een aanbieder van zorg en ondersteuning, een persoon met een handicap of met een vermoeden van handicap, of het netwerk van de persoon met een handicap of met een vermoeden van handicap kan consulentenwerking aan de opdrachthouder Consulentenwerking vragen.<br>
+<br>
+Het verzoek om consulentenwerking wordt ingediend bij de opdrachthouder Consulentenwerking die erkend is voor de provincie waarin de persoon met een handicap of met een vermoeden van handicap zijn woonplaats heeft.<br>
+<br>
+Als de persoon met een handicap of met een vermoeden van handicap zijn woonplaats heeft in het tweetalige gebied Brussel-Hoofdstad, wordt het verzoek om consulentenwerking ingediend bij de opdrachthouder Consulentenwerking die erkend is voor de provincie Vlaams-Brabant.
+
+### ART 9.
+
+Het agentschap kent aan een opdrachthouder Consulentwerking een subsidie van maximaal 30.000 euro (dertigduizend euro) per jaar toe.<br>
+<br>
+Het subsidiebedrag, vermeld in het eerste lid, wordt op de volgende wijze uitbetaald:<br>
+1° 80% van het subsidiebedrag, vermeld in het eerste lid, wordt betaald in de tweede maand van het kalenderjaar waarop het subsidiebedrag betrekking heeft;<br>
+2° 20% van het subsidiebedrag wordt betaald in de maand april van het jaar dat volgt op het kalenderjaar waarop het subsidiebedrag betrekking heeft, nadat het agentschap het jaarverslag, vermeld in artikel 10, heeft goedgekeurd.<br>
+<br>
+Een subsidie als vermeld in het eerste lid, kan worden aangewend voor:<br>
+1° personeelskosten voor de coördinatie van de consulentenwerking;<br>
+2° de vergoeding van de leden van het netwerk, vermeld in artikel 7;<br>
+3° de uitvoering van activiteiten als vermeld in artikel 5<br>
+<br>
+Het maximale subsidiebedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met het gezondheidsindexcijfer, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, conform de volgende formule: subsidiebedrag x G-index december 20.. / G-index van de maand vóór de maand waarin dit besluit in werking treedt.
+
+### ART 10.
+
+De opdrachthouder Consulentenwerking maakt jaarlijks een verslag op over de consulentenwerking, vermeld in artikel 5. Het agentschap bepaalt de vorm waarin het jaarverslag wordt opgemaakt.<br>
+<br>
+Het jaarverslag, vermeld in het eerste lid, bevat de volgende elementen:<br>
+1° informatie over de personen met een handicap of een vermoeden van handicap aan wie ondersteuning wordt geboden (doelgroep, leeftijd ...);<br>
+2° de volgende informatie over de geboden ondersteuning:<br>
+a) voortraject;<br>
+b) samenwerking met andere actoren die betrokken zijn bij de ondersteuning van de persoon met een handicap of met een vermoeden van handicap;<br>
+c) in voorkomend geval informatie over de vervolgondersteuning;<br>
+3° een beschrijving van de wijze waarop samenwerking met andere netwerken en organisaties is gerealiseerd.<br>
+<br>
+Het agentschap kan bijkomende elementen bepalen.
+
+### ART 11.
+
+&nbsp;Dit besluit heeft uitwerking met ingang van 1 januari 2018.
+
+### ART 12.
+
+De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.

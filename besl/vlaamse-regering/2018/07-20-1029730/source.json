@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029730,
+  "title": "Besluit van de Vlaamse Regering van 2018-07-20 houdende erkenning en subsidiëring van opdrachthouders Consulentenwerking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029730/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "0cfc43ca9ee385725367fc1dec85170e4554abe8184fe0f118bd8f32e0a53c5d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029730&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2018-07-20",
+  "gazette": "2018-09-12",
+  "numac": 2018040644,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
