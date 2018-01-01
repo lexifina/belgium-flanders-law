@@ -78,7 +78,7 @@ c) alle andere personen dan de personen, vermeld in punt a) en b), met uitzonder
 37° landmeter-expert: de landmeter-expert, ingeschreven op het tableau van de beoefenaars van het beroep als bedoeld in de wet van 11 mei 2003 tot bescherming van de titel en van het beroep van landmeter-expert en op wie het koninklijk besluit van 15 december 2005 tot vaststelling van de voorschriften inzake de plichtenleer van de landmeter-expert van toepassing is.<br>
 38° OCMW-vereniging : een vereniging als vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van openbare centra voor maatschappelijk welzijn;<br>
 39° venale waarde : de prijs die de meestbiedende kandidaat-koper bereid zou zijn te betalen als een onroerend goed te koop gesteld zou worden onder de meest gunstige voorwaarden en na een degelijke voorbereiding;<br>
-40° Vlabinvest apb : het Agentschap voor Grond- en Woonbeleid voor Vlaams-Brabant, opgericht bij artikel 1 van het besluit van de provincieraad van Vlaams-Brabant van 22 oktober 2013.<br>
+40° Vlabinvest apb: het Agentschap voor Woon- en Zorginfrastructuurbeleid voor Vlaams-Brabant, opgericht als het Agentschap voor Grond- en Woonbeleid voor Vlaams-Brabant bij artikel 1 van het besluit van de provincieraad van Vlaams-Brabant van 22 oktober 2013, en omgevormd tot het Agentschap voor Woon- en Zorginfrastructuurbeleid voor Vlaams-Brabant bij besluit van de provincieraad van Vlaams-Brabant.<br>
 <br>
 De Vlaamse regering kan de betekenis van bovengenoemde begrippen nader omschrijven.<br>
 <br>
