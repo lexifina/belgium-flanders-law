@@ -127,7 +127,7 @@ De boekhouding wordt gevoerd overeenkomstig de wetgeving op de boekhouding van d
 
 ### ART. 24.
 
-De projectvereniging kan door de Vlaamse regering gemachtigd worden om in eigen naam en voor eigen rekening tot onteigening over te gaan.
+...
 
 ## AFDELING 3 DIENSTVERLENENDE EN OPDRACHTHOUDENDE VERENIGINGEN
 
@@ -325,7 +325,11 @@ De controle op de financiële toestand, op de jaarrekening en op de regelmatighe
 
 ### ART. 62.
 
-De dienstverlenende of opdrachthoudende vereniging kan bij gemotiveerd besluit van de raad van bestuur leningen aangaan en giften of toelagen ontvangen.<br /><br />De algemene vergadering of de door haar daartoe gemachtigde raad van bestuur van de dienstverlenende of opdrachthoudende vereniging stelt de tarieven vast, met naleving van de wettelijk voorgeschreven formaliteiten.<br /><br />De dienstverlenende of de opdrachthoudende vereniging kan door de Vlaamse regering gemachtigd worden om in eigen naam en voor eigen rekening over te gaan tot de onteigeningen die noodzakelijk zijn voor de verwezenlijking van haar statutaire doelstellingen.
+De dienstverlenende of opdrachthoudende vereniging kan bij gemotiveerd besluit van de raad van bestuur leningen aangaan en giften of toelagen ontvangen.<br>
+<br>
+De algemene vergadering of de door haar daartoe gemachtigde raad van bestuur van de dienstverlenende of opdrachthoudende vereniging stelt de tarieven vast, met naleving van de wettelijk voorgeschreven formaliteiten.<br>
+<br>
+De dienstverlenende of de opdrachthoudende vereniging kan&nbsp;door de gemeenteraad van de gemeente op wiens grondgebied het voorwerp van de onteigening zich bevindt, gemachtigd worden om in eigen naam en voor eigen rekening over te gaan tot de onteigeningen die noodzakelijk zijn voor de verwezenlijking van haar statutaire doelstellingen.
 
 ### ART. 63.
 
