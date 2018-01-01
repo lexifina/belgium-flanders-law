@@ -97,7 +97,7 @@ a) het Departement Kanselarij en Bestuur:<br>
 1) De personeelsleden die belast zijn met het horizontale gelijke-kansen- en integratiebeleid;<br>
 2) de personeelsleden van de Gemeenschappelijke Dienst voor Preventie en Bescherming;<br>
 3) de personeelsleden van de Dienst van de Gouverneurs;<br>
-b) het Departement Informatie Vlaanderen;<br>
+b) ...;<br>
 c) het Departement Omgeving :<br>
 de personeelsleden die alleen of hoofdzakelijk taken vervullen in het kader van het woonbeleid.<br>
 5. De Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn is, wat het specifieke personeelsbeleid betreft, bevoegd voor :<br>
