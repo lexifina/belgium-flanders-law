@@ -24,7 +24,28 @@ Agentschap Sport Vlaanderen heeft als missie: het Vlaamse sportbeleid voor   te 
 
 ### ART. 5.
 
-<P>§ 1. Het agentschap Sport Vlaanderen ondersteunt de Vlaamse Regering, bij de   voorbereiding en de evaluatie van het integrale Vlaamse sportbeleid van   breedtesport tot topsport, met inbegrip van de medisch verantwoorde   sportbeoefening, en voert het beleid uit. De opdracht van het agentschap Sport   Vlaanderen omvat in elk geval :<BR>1° het ondersteunen van sportactoren via   subsidiëring of begeleiding;<BR>2° het ontwikkelen, aanbieden en erkennen van   sportkaderopleidingen en het valoriseren met diploma's of attesten via de   Vlaamse Trainersschool;<BR>3° het adviseren, begeleiden en ondersteunen van de   uitbouw van sportinfrastructuur, met bijzondere aandacht voor   omgevingskwaliteit;<BR>4° het exploiteren en uitbouwen van de eigen   centra;<BR>5° het voeren en coördineren van de sportpromotie op Vlaams   niveau;<BR>6° het uitvoeren van het topsportbeleid;<BR>7° het stimuleren van   gezond en ethisch sporten;<BR>8° het uitvoeren van het antidopingbeleid, conform   de WADA-code;<BR>9° het inzetten op beleidsontwikkeling en -verspreiding voor de   sportsector, en op een Kennis- en Informatiecentrum Sport en het aansturen en   opvolgen van wetenschappelijk onderzoek;<BR>10° het opvolgen van het   internationale sportbeleid;<BR>11° het opzetten van samenwerkingsverbanden   binnen de sportsector of met andere beleidsvelden.<BR><BR>In het eerste lid, 8°,   wordt verstaan onder WADA-code : de Wereldantidopingcode die goedgekeurd is door   het Wereldantidopingagentschap op 5 maart 2003 in Kopenhagen, en alle latere   wijzigingen ervan.<BR><BR>Voor de opdracht, vermeld in het eerste lid, 8°,   geniet NADO Vlaanderen volledige operationele autonomie.<BR><BR>Voor het   vervullen van zijn taak is het agentschap Sport Vlaanderen bevoegd om :<BR>1°   onroerende goederen te verwerven, te vervreemden of er zakelijke rechten op te   vestigen;<BR>2° tot onteigening ten algemenen nutte over te gaan, na machtiging   van de Vlaamse Regering.<BR><BR>§ 2. Binnen het kader van de missie en de taken   van het agentschap Sport Vlaanderen, kan de Vlaamse Regering opdrachten aan het   agentschap toewijzen.</P>
+<p>§ 1. Het agentschap Sport Vlaanderen ondersteunt de Vlaamse Regering, bij de voorbereiding en de evaluatie van het integrale Vlaamse sportbeleid van breedtesport tot topsport, met inbegrip van de medisch verantwoorde sportbeoefening, en voert het beleid uit. De opdracht van het agentschap Sport Vlaanderen omvat in elk geval :<br>
+1° het ondersteunen van sportactoren via subsidiëring of begeleiding;<br>
+2° het ontwikkelen, aanbieden en erkennen van sportkaderopleidingen en het valoriseren met diploma's of attesten via de Vlaamse Trainersschool;<br>
+3° het adviseren, begeleiden en ondersteunen van de uitbouw van sportinfrastructuur, met bijzondere aandacht voor omgevingskwaliteit;<br>
+4° het exploiteren en uitbouwen van de eigen centra;<br>
+5° het voeren en coördineren van de sportpromotie op Vlaams niveau;<br>
+6° het uitvoeren van het topsportbeleid;<br>
+7° het stimuleren van gezond en ethisch sporten;<br>
+8° het uitvoeren van het antidopingbeleid, conform de WADA-code;<br>
+9° het inzetten op beleidsontwikkeling en -verspreiding voor de sportsector, en op een Kennis- en Informatiecentrum Sport en het aansturen en opvolgen van wetenschappelijk onderzoek;<br>
+10° het opvolgen van het internationale sportbeleid;<br>
+11° het opzetten van samenwerkingsverbanden binnen de sportsector of met andere beleidsvelden.<br>
+<br>
+In het eerste lid, 8°, wordt verstaan onder WADA-code : de Wereldantidopingcode die goedgekeurd is door het Wereldantidopingagentschap op 5 maart 2003 in Kopenhagen, en alle latere wijzigingen ervan.<br>
+<br>
+Voor de opdracht, vermeld in het eerste lid, 8°, geniet NADO Vlaanderen volledige operationele autonomie.<br>
+<br>
+Voor het vervullen van zijn taak is het agentschap Sport Vlaanderen bevoegd om :<br>
+1° onroerende goederen te verwerven, te vervreemden of er zakelijke rechten op te vestigen;<br>
+2° ....<br>
+<br>
+§ 2. Binnen het kader van de missie en de taken van het agentschap Sport Vlaanderen, kan de Vlaamse Regering opdrachten aan het agentschap toewijzen.</p>
 
 ## HOOFDSTUK IV BESTUUR EN WERKING
 
