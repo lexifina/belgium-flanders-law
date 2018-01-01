@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028908,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-08 tot wijziging van artikel 1 van het besluit van de Vlaamse Regering van 8 juli 2011 betreffende de volledige tenlasteneming door de werkgever in de onderwijssector van de vervoerskosten voor het openbaar vervoer naar en van het werk en de toekenning van een fietsvergoeding voor het woon-werkverkeer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028908/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "cc94d15fce5d7a49cdd7e21991601daf905954ebb2488dec90d1b18c8364d9cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028908&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2017-12-08",
+  "gazette": "2018-01-23",
+  "numac": 2018030131,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
