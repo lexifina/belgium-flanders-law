@@ -9,6 +9,11 @@ Dit decreet regelt een gewestaangelegenheid.
 Aan artikel 3.1.0.0.4, § 2, van de Vlaamse Codex Fiscaliteit van 13 december 2013 wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 "Als de provincie-, agglomeratie- of gemeenteraad de opcentiemen op de onroerende voorheffing niet heeft vastgesteld of als een van de data of beide data, vermeld in het eerste lid, werden overschreden, zal de onroerende voorheffing worden gevestigd met toepassing van de opcentiemen die voor de provincie, gemeente of agglomeratie in kwestie van toepassing waren voor het voorafgaande aanslagjaar.".
 
+### ART 3.
+
+Aan artikel 3.1.0.0.4, § 2, van hetzelfde decreet wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"Voor de toepassing van het tweede lid wordt uitgegaan van de naleving van de verplichtingen, vermeld in artikel 2.1.4.0.2, § 2 en § 3.".
+
 ### ART 4.
 
 Artikel 2 heeft uitwerking met ingang van het aanslagjaar 2017.
