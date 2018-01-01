@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029279,
+  "title": "Besluit van de Vlaamse Regering van 2018-04-20 houdende maatregelen voor de uitwerking van de persoonsvolgende budgetten die in het kader van de transitie naar persoonsvolgende financiering ter beschikking zijn gesteld",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029279/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "631177bcae9de34daaf486bde49d62ab76b7d103bf4f3f0354311b52a2c38396",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029279&param=informatie",
+  "as_of": "2018-01-01",
+  "made": "2018-04-20",
+  "gazette": "2018-05-09",
+  "numac": 2018030976,
+  "document_start": "2018-01-01",
+  "document_end": null,
+  "in_force": "2018-01-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
