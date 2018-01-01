@@ -2,16 +2,16 @@
   "codex_id": 1029008,
   "title": "Besluit van de Vlaamse Regering van 2017-12-22 houdende de overdracht van personeelsleden binnen de diensten van de Vlaamse overheid ingevolge de rationalisatie van de managementondersteunende functies en de oprichting van drie gemeenschappelijke dienstencentra en tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 14 juli 2017 houdende de overdracht van statutaire en contractuele personeelsleden aan het agentschap Facilitair Bedrijf door de overname van de gebouwverantwoordelijkheid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029008/VolledigDocument?datum=2017-12-01",
-  "source_sha256": "2bba26e22ff6a6211a350d7ab409f9b8c6bc4f0ebd719c263f5aabc8e96296dc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029008/VolledigDocument?datum=2018-01-01",
+  "source_sha256": "770f0255ed3b05d73daf26e7522c72b52c07d3dc0ac39b085e15b623656e9f5d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029008&param=informatie",
-  "as_of": "2017-12-01",
+  "as_of": "2018-01-01",
   "made": "2017-12-22",
   "gazette": "2018-02-13",
   "numac": 2018010614,
   "document_start": "2018-01-01",
   "document_end": null,
-  "in_force": "2017-12-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2017-12-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
 }
