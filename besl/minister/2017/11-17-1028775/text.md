@@ -38,15 +38,8 @@ Besluit :
 
 ### ART 1.
 
-Aan het artikel 27, paragraaf 1, van het ministerieel besluit van 22 december 2016 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, gewijzigd bij de ministeriële besluiten van 11 september 2017 en 25 oktober 2017, worden volgende wijzigingen aangebracht:<br>
-1° in paragraaf 1, vierde en vijfde lid worden de woorden "31 december 2017" telkens vervangen door de woorden "24 november 2017";<br>
-2° een zevende en achtste lid worden toegevoegd, die luiden als volgt:<br>
-"In de periode van 25 november 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
-<br>
-In de periode van 25 november 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in die ICES-gebieden.".<br>
-&nbsp;
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking op 25 november 2017. Het houdt op van kracht te zijn op 1 januari 2018.<br>
-&nbsp;
+...
