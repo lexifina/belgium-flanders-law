@@ -44,7 +44,7 @@ In het eerste lid wordt verstaan onder communautaire zeelieden:<br>
 
 ### ART 2.
 
-De reders, vermeld in artikel 2, § 1, 2°, van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij, worden toegelaten de zeeliedenbijdragen, berekend op basis van een maandloon van een twaalfde van het bedrag, vermeld in artikel 7, derde lid, van het koninklijk besluit nr. 50 van 24 oktober 1967 betreffende het rust en overlevingspensioen voor werknemers, van toepassing gedurende het kalenderjaar dat voorafgaat aan het lopende jaar, te betalen aan de Hulp- en Voorzorgskas voor Zeevarenden, en het bedrag dat overeenstemt met de persoonlijke bijdragen, berekend op het verschil tussen het begrensde loon en het maandelijkse loon, te behouden.
+De reders, vermeld in artikel 2, § 1, 2°, van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij, worden toegelaten de zeeliedenbijdragen, berekend op basis van een maandloon van een twaalfde van het bedrag, vermeld in artikel 7, derde lid, van het koninklijk besluit nr. 50 van 24 oktober 1967 betreffende het rust en overlevingspensioen voor werknemers, van toepassing gedurende het kalenderjaar dat voorafgaat aan het lopende jaar, te betalen aan de Rijksdienst voor Sociale Zekerheid, en het bedrag dat overeenstemt met de persoonlijke bijdragen, berekend op het verschil tussen het begrensde loon en het maandelijkse loon, te behouden.
 
 ### ART 3.
 
@@ -62,7 +62,7 @@ In het eerste lid wordt verstaan onder arbeidsplaats: een vacante plaats geduren
 
 ### ART 4.
 
-De reder deelt aan de Hulp- en Voorzorgskas voor Zeevarenden de volgende gegevens mee:<br>
+De reder deelt aan de Rijksdienst voor Sociale Zekerheid de volgende gegevens mee:<br>
 1° het aantal dagen waarvoor de socialezekerheidsbijdragen verschuldigd zijn, namelijk:<br>
 a) elke vaart- en bijwerkdag voor de zeevarenden;<br>
 b) elke arbeidsdag voor de shoregangers;<br>
