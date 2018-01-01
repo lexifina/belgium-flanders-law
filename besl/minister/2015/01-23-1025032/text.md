@@ -50,7 +50,7 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° besluit van 24 oktober 2014: het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid;<br>
-2° daadwerkelijke en langdurige zeggenschap: beslissingen nemen op het gebied van het beheer, de voordelen en de financiële risico's, alleen of samen met andere landbouwers. Om daadwerkelijke en langdurige zeggenschap aan te tonen, kunnen onder andere facturen, statuten, het aandelenregister, investeringen in roerende of onroerende goederen of contracten, met inbegrip van eigendomscontracten, worden voorgelegd;<br>
+2° daadwerkelijke en langdurige zeggenschap: beslissingen nemen op het gebied van het beheer, de voordelen en de financiële risico's, alleen of samen met andere landbouwers;<br>
 3° GBCS: het geïntegreerd beheers- en controlesysteem dat de bevoegde entiteit beheert conform de regels, vermeld in titel V, hoofdstuk 2, van verordening (EU) nr. 1306/2013, titel II van verordening (EU) nr. 640/2014 en titel II van verordening (EU) nr. 809/2014;<br>
 4° jonge zaakvoerder: een natuurlijk persoon die binnen een rechtspersoon of groepering voldoet aan alle voorwaarden van jonge landbouwer, vermeld in artikel 50 van verordening (EU) nr. 1307/2013;<br>
 5° verklaring van daadwerkelijke en langdurige zeggenschap: een verklaring waarin namens de aanvrager wordt bevestigd dat de zaakvoerder die voldoet aan alle overige voorwaarden om een aanvraag te kunnen indienen om betalingsrechten te ontvangen uit de reserve of om de jonge landbouwerbetaling te krijgen, daadwerkelijke en langdurige zeggenschap over de rechtspersoon of groepering heeft.
@@ -119,29 +119,40 @@ Ter uitvoering van artikel 26, 1°, van het besluit van 24   oktober 2014, zijn 
 
 ### ART. 10.
 
-Ter uitvoering van artikel 26, 3°, van het besluit van 24   oktober 2014, maken de volgende landschapselementen deel uit van het subsidiabel   areaal, op voorwaarde dat ze op gronden liggen die zelf subsidiabel zijn:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de poelen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de houtkanten;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de akkerranden;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de hagen of heggen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de sloten met een breedte van minder of gelijk aan twee meter;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   de geïsoleerde bomen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   de bomenrijen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">8°   de groepen van bomen met een oppervlakte van minder of gelijk aan 0,01   hectare;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">9°   de hoogstamboomgaarden.
+Ter uitvoering van artikel 26, 3°, van het besluit van 24 oktober 2014, maken de volgende landschapselementen deel uit van het subsidiabel areaal, op voorwaarde dat ze op gronden liggen die zelf subsidiabel zijn:<br>
+1° de poelen;<br>
+2° de houtkanten;<br>
+3° ..;<br>
+4° de hagen of heggen;<br>
+5° de sloten met een breedte van minder of gelijk aan twee meter;<br>
+6° de geïsoleerde bomen;<br>
+7° de bomenrijen;<br>
+8° de groepen van bomen met een oppervlakte van minder of gelijk aan 0,01 hectare;<br>
+9° de hoogstamboomgaarden.
 
 ## Onderafdeling 2. Teelttoestemming voor de teelt van hennep
 
 ### ART. 11.
 
 <p>§ 1. In deze onderafdeling wordt verstaan onder<br>
-1° hennep: vezelhennep of hennep voor andere industriële doeleinden met een THC-gehalte dat lager of gelijk is aan 0,2%;<br>
+1° hennep: vezelhennep of hennep met een THC-gehalte dat lager of gelijk is aan 0,2%;<br>
 2° THC-gehalte: gehalte aan delta-9-tetrahydrocannabinol (uitgedrukt in g/100 g analysemonster).</p>
 
-<p>§ 2. Een landbouwer die een teelttoestemming voor de teelt van hennep als vermeld in artikel 21 van het besluit van 24 oktober 2014 wil krijgen, dient bij de bevoegde entiteit een aanvraag in met een bijlage bij de verzamelaanvraag.</p>
+<p>§ 2. Een landbouwer die een teelttoestemming voor de teelt van een hennepras als vermeld in artikel 21 van het besluit van 24 oktober 2014 wil krijgen, dient bij de bevoegde entiteit een aanvraag in met een bijlage bij de verzamelaanvraag.</p>
 
-<p>De aanvraag bevat ten minste de volgende gegevens :<br>
+<p>De aanvraag tot teelttoestemming bevat ten minste de volgende gegevens :<br>
 1° landbouwernummer, voor- en achternaam, adres, telefoonnummer en e-mailadres van de aanvrager;<br>
 2° het teeltjaar waarvoor de teelttoestemming wordt gevraagd;<br>
-3° de henneprassen die ingezaaid worden;<br>
-4° de oppervlakte die ingezaaid wordt en voor ieder gebruikt ras de hoeveelheid hennepzaaizaad, uitgedrukt in kg per hectare;<br>
+3° het hennepras dat wordt ingezaaid;<br>
+4° de oppervlakte die ingezaaid wordt en de hoeveelheid hennepzaaizaad, uitgedrukt in kg per hectare;<br>
 5° de naam van de gemeente waar het perceel ligt en een perceelsidentificatie die bestaat uit het identificatienummer. Als verschillende rassen per perceel worden ingezaaid, voegt de landbouwer een schets met de ligging van iedere ras bij de aanvraag;<br>
-6° een verklaring waarin de aanvrager toestemming geeft aan de bevoegde entiteit om de gegevens van de aanvraag door te geven aan de bevoegde politiediensten.</p>
+6° de vermelding dat de bevoegde entiteit de gegevens van de aanvraag doorgeeft aan de bevoegde politiediensten.</p>
 
-<p>De aanvraag voor teelttoestemming wordt op de uiterste indieningsdatum van de verzamelaanvraag van het jaar in kwestie ingediend. De bevoegde entiteit geeft de teelttoestemming.</p>
+<p>De aanvraag voor teelttoestemming wordt op de uiterste wijzigingsdatum van de verzamelaanvraag van het jaar in kwestie ingediend. De bevoegde entiteit geeft de teelttoestemming.</p>
 
-<p>De landbouwer mag pas starten met de inzaai nadat hij het vergunningsdocument van de bevoegde entiteit heeft ontvangen. Ter uitvoering van artikel 17, lid 7, van uitvoeringsverordening (EG) nr. 809/2014, bezorgt de landbouwer onmiddellijk na de inzaai en uiterlijk op 30 juni van het kalenderjaar in kwestie aan de bevoegde entiteit de officiële etiketten van de zaaizaden die gebruikt zijn voor de uitgezaaide percelen. Die etiketten maken integraal deel uit van de verzamelaanvraag.</p>
+<p>De landbouwer mag pas starten met de inzaai nadat hij&nbsp;de teelttoestemming van de bevoegde entiteit heeft ontvangen. Ter uitvoering van artikel 17, lid 7, van uitvoeringsverordening (EG) nr. 809/2014, bezorgt de landbouwer onmiddellijk na de inzaai en uiterlijk op 30 juni van het kalenderjaar in kwestie aan de bevoegde entiteit de officiële etiketten van de zaaizaden die gebruikt zijn voor de uitgezaaide percelen. Die etiketten maken integraal deel uit van de verzamelaanvraag.<br>
+<br>
+In afwijking van het vierde lid, bezorgt de landbouwer, als hij een hennepras inzaait als nateelt conform artikel 9, lid 6 en 7, van gedelegeerde verordening (EU) nr. 639/2014, onmiddellijk na inzaai en uiterlijk op 31 augustus van het kalenderjaar in kwestie aan de bevoegde entiteit de officiële etiketten van de zaaizaden die gebruikt zijn voor de uitgezaaide percelen. Die etiketten maken integraal deel uit van de verzamelaanvraag.</p>
 
 ### ART. 12.
 
@@ -149,7 +160,7 @@ De landbouwer die met toestemming hennep teelt, brengt de   bevoegde entiteit on
 
 ### ART. 13.
 
-Ter uitvoering van artikel 45, lid 4, van   uitvoeringsverordening (EG) nr. 809/2014, moet de landbouwer die hennep teelt,   het gewas tot tien dagen na het einde van de bloei in normale   groeiomstandigheden onderhouden opdat de bevoegde entiteit de controles op het   THC-gehalte kan uitvoeren. De bevoegde entiteit kan toestemming geven om hennep   te oogsten na het begin van de bloei maar voor het einde van de periode van tien   dagen na het einde van de bloei, op voorwaarde dat de controleurs van de   bevoegde entiteit aangeven op welke representatieve delen van elk perceel in   kwestie het gewas gedurende ten minste tien dagen na het einde van de bloei   verder moet worden geteeld opdat het THC-gehalte gecontroleerd kan   worden.
+Ter uitvoering van artikel 45, lid 4, van uitvoeringsverordening (EG) nr. 809/2014, moet de landbouwer die hennep teelt, het gewas tot tien dagen na het einde van de bloei in normale groeiomstandigheden onderhouden opdat de bevoegde entiteit de controles op het THC-gehalte kan uitvoeren. De bevoegde entiteit kan toestemming geven om hennep te oogsten na het begin van de bloei maar voor het einde van de periode van tien dagen na het einde van de bloei, op voorwaarde dat de controleurs van de bevoegde entiteit aangeven op welke representatieve delen van elk perceel in kwestie het gewas gedurende ten minste tien dagen na het einde van de bloei verder moet worden geteeld opdat het THC-gehalte gecontroleerd kan worden. Die toestemming om hennep vroeger te oogsten kan alleen gegeven worden als hennep niet geteeld wordt als vanggewas conform artikel 9, lid 6 en 7, van gedelegeerde verordening (EU) nr. 639/2014.
 
 ## Onderafdeling 3. Activering, aangifte en overdracht van betalingsrechten
 
@@ -187,7 +198,9 @@ Een jonge landbouwer als vermeld in artikel 17, 1°, die een aanvraag indient vo
 1° voor een natuurlijk persoon: een van de bewijsstukken van vakbekwaamheid, vermeld in artikel 22/1;<br>
 2° voor een rechtspersoon of een groepering:<br>
 a) een van de bewijsstukken van vakbekwaamheid, vermeld in artikel 22/1, met betrekking tot de jonge zaakvoerder van de rechtspersoon of de groepering;<br>
-b) een verklaring van daadwerkelijke en langdurige zeggenschap die betrekking heeft op de jonge zaakvoerder die moet voldoen aan de voorwaarden van jonge landbouwer voor de rechtspersoon.<br>
+b) een verklaring&nbsp;en bewijsstukken van daadwerkelijke en langdurige zeggenschap die betrekking heeft op de jonge zaakvoerder die moet voldoen aan de voorwaarden van jonge landbouwer voor de rechtspersoon.<br>
+<br>
+De stukken, vermeld in het eerste lid, 2°, b), zijn verschillend naargelang de rechtsvorm van het bedrijf. Uit de stukken blijkt de werkelijke financiële inbreng of het werkelijke financiële risico van de jonge zaakvoerder in het bedrijf waarvoor de aanvraag wordt ingediend alsook dat hij het dagdagelijks bestuur van het bedrijf werkelijk opneemt. De stukken kunnen vergunningen, jaarrekeningen, facturen, statuten, het aandelenregister, een samenuitbatingscontract, investeringen in roerende of onroerende goederen of contracten, met inbegrip van eigendomscontracten zijn.<br>
 <br>
 Een jonge landbouwer kan met toepassing van artikel 17, 1°, van dit besluit alleen betalingsrechten uit de reserve ontvangen of een ophoging krijgen van zijn bestaande betalingsrechten uit de reserve op zijn eerste vestiging conform artikel 50, lid 2, a), van verordening (EU) nr. 1307/2013, artikel 49, lid 3, b), van verordening (EU) nr. 639/2014, en artikel 22/2 van dit besluit.
 
@@ -223,7 +236,9 @@ De bevoegde entiteit controleert op basis van de gegevens in het GBCS en de bewi
 1° voor een natuurlijk persoon: een van de bewijsstukken van vakbekwaamheid, vermeld in artikel 22/1;<br>
 2° voor een rechtspersoon of een groepering:<br>
 a) een van de bewijsstukken van vakbekwaamheid, vermeld in artikel 22/1, met betrekking tot de jonge zaakvoerder van de rechtspersoon of de groepering;<br>
-b) een verklaring van daadwerkelijke en langdurige zeggenschap die betrekking heeft op de jonge zaakvoerder die moet voldoen aan de voorwaarden van jonge landbouwer voor de rechtspersoon.<br>
+b) een verklaring en bewijsstukken van daadwerkelijke en langdurige zeggenschap die betrekking heeft op de jonge zaakvoerder die moet voldoen aan de voorwaarden van jonge landbouwer voor de rechtspersoon.<br>
+<br>
+De stukken, vermeld in het eerste lid, 2°, b) zijn verschillend naargelang de rechtsvorm van het bedrijf. Uit de stukken blijkt de werkelijke financiële inbreng of het werkelijke financiële risico van de jonge zaakvoerder in het bedrijf waarvoor de aanvraag wordt ingediend alsook dat hij het dagdagelijks bestuur van het bedrijf werkelijk opneemt. De stukken kunnen vergunningen, jaarrekeningen, facturen, statuten, het aandelenregister, een samenuitbatingscontract, investeringen in roerende of onroerende goederen of contracten, met inbegrip van eigendomscontracten zijn.<br>
 <br>
 § 3. Een jonge landbouwer kan alleen de betaling voor jonge landbouwers ontvangen op zijn eerste vestiging conform artikel 50, lid 2, a), van verordening (EU) nr. 1307/2013, artikel 49, lid 3, b), van verordening (EU) nr. 639/2014 en artikel 22/2 van dit besluit.
 
@@ -251,7 +266,7 @@ De vestiging van een natuurlijk persoon als bedrijfshoofd van een landbouwbedrij
 2° de natuurlijke persoon is voor de eerste keer bestuurder, beherende vennoot of zaakvoerder van een rechtspersoon;<br>
 3° de natuurlijke persoon is voor de eerste keer lid van een groepering.<br>
 <br>
-Als er verschillende jonge zaakvoerders zijn binnen een rechtspersoon of een groepering, wordt het moment van de eerste vestiging in rekening gebracht van de jonge zaakvoerder die als eerste als zaakvoerder binnen de rechtspersoon of groepering is aangewezen, als het zijn eerste vestiging is.
+Als er verschillende jonge zaakvoerders zijn binnen een rechtspersoon of een groepering, wordt het moment van de eerste vestiging in rekening gebracht van de jonge zaakvoerder die als eerste als zaakvoerder binnen de rechtspersoon of groepering is aangewezen.
 
 ## HOOFDSTUK 3. Randvoorwaarden: voorkomen van de uitbreiding van plantensoorten die door hun overwoekerend karakter een bedreiging vormen voor de goede landbouw- en milieuconditie van grond
 
