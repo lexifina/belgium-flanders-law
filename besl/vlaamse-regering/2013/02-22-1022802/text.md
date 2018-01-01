@@ -70,21 +70,25 @@ De personeelssubsidies worden toegekend op basis van de salarisschalen en   de d
 
 <p>(basisbedrag x index december 20../index december voor het jaar van inwerkingtreding).<br>
 <br>
-§ 3. De voorziening kan maximaal 10% van de personeelspunten waarvoor ze is erkend, omzetten in werkingsmiddelen tegen een bedrag per punt.<br>
+§ 3. De voorziening kan maximaal 3% van de personeelspunten waarvoor ze is erkend, omzetten in werkingsmiddelen tegen een bedrag per punt.<br>
 <br>
-Het bedrag per punt, vermeld in het eerste lid, wordt jaarlijks door het agentschap bepaald op basis van de totale gesubsidieerde personeelskosten van de voorzieningen die erkend en gesubsidieerd of vergund zijn door het agentschap.<br>
+Het bedrag per punt bedraagt 834 euro (achthonderdvierendertig euro).<br>
 <br>
 Het bedrag, vermeld in het eerste lid, mag niet aangewend worden voor reservevorming of voor de aanwerving van personeel of voor de vergoeding van personeelskosten. De besteding van het bedrag mag gespreid worden over meer dan een boekhoudkundig jaar.<br>
 <br>
-Het agentschap subsidieert de werkingsmiddelen, vermeld in het eerste lid, op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap of dat er collectieve inspraak als vermeld in artikel 30 van het voormelde besluit, is geweest en dat er een schriftelijke overeenkomst met de werknemersvertegenwoordiging is gesloten, en er aan die overlegkanalen transparantie is geboden over de aanwending.<br>
+Het agentschap subsidieert de werkingsmiddelen, vermeld in het eerste lid, op voorwaarde dat er over de aanwending van het bedrag voorafgaand overleg is gepleegd met het collectieve overlegorgaan, vermeld in artikel 27 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap of dat er collectieve inspraak als vermeld in artikel 30 van het voormelde besluit, is geweest en dat er overleg met de werknemersvertegenwoordiging heeft plaatsgevonden, en er aan die overlegkanalen transparantie is geboden over de aanwending.<br>
 <br>
-Op verzoek van het agentschap bewijst de voorziening, vermeld in artikel 10, het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het schriftelijk akkoord met de werknemersvertegenwoordiging.<br>
+Op verzoek van het agentschap bewijst de voorziening het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het&nbsp;overleg met de werknemersvertegenwoordiging.<br>
 <br>
-Als een voorziening als vermeld in artikel 10, 5% of minder dan 5% van de personeelspunten omzet in werkingsmiddelen, is er geen schriftelijke overeenkomst met de werknemersvertegenwoordiging vereist. In dat geval volstaat voorafgaand overleg met de vermelde overlegkanalen met het oog op transparantie over de aanwending.</p>
+Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).</p>
 
 ### ART. 10.
 
-<P>De subsidies worden per maand betaald voor een bedrag van acht procent van   het bedrag op jaarbasis, dat wordt geraamd op basis van de bekende   personeelsgegevens.<BR></P>  <P>Het financieel verslag wordt uiterlijk ingediend op 30 juni van het jaar dat   volgt op het werkingsjaar. Het agentschap bepaalt de inhoud en de vorm van het   financieel verslag.<BR></P>  <P>Het saldo van de subsidies wordt verrekend na de goedkeuring van het   financieel verslag, binnen achttien maanden die volgen op de datum, vermeld in   het tweede lid.<BR></P>
+<p>De voorschotten op de subsidies worden per maand betaald voor een bedrag van 8 % van de totale subsidie op jaarbasis. De personeelssubsidies worden geraamd op basis van de aan het agentschap bekendgemaakte personeelsgegevens.</p>
+
+<p>Het financieel verslag wordt uiterlijk ingediend op 30 juni van het jaar dat volgt op het werkingsjaar. Het agentschap bepaalt de inhoud en de vorm van het financieel verslag.</p>
+
+<p>Het saldo van de subsidies wordt verrekend na de goedkeuring van het financieel verslag, binnen achttien maanden die volgen op de datum, vermeld in het tweede lid.</p>
 
 ## Afdeling 3 Toepassingsvoorwaarden
 
@@ -94,7 +98,20 @@ Als een voorziening als vermeld in artikel 10, 5% of minder dan 5% van de person
 
 ### ART. 12.
 
-Als de persoon met een handicap&nbsp;met uitzondering van minderjarigen en   van personen die een voortzetting van de jeugdhulpverlening hebben gevraagd als   vermeld in artikel 18, § 3 van het decreet van 12 juli 2013 betreffende de   integrale jeugdhulp een beroep doet op ondersteuning vanuit voorzieningen,   erkend en gesubsidieerd door het agentschap, die niet rechtstreeks toegankelijk   is, kan hij niet gebruikmaken van de rechtstreeks toegankelijke   hulp.<BR>
+Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° besluit van 24 juni 2016: het besluit van de Vlaamse Regering van 24 juni 2016 houdende de transitie van personen met een handicap die gebruikmaken van een persoonlijke-assistentiebudget of een persoonsgebonden budget of die ondersteund worden door een flexibel aanbodcentrum voor meerderjarigen of een thuisbegeleidingsdienst, naar persoonsvolgende financiering en houdende de transitie van de flexibele aanbodcentra voor meerderjarigen en de thuisbegeleidingsdiensten;<br>
+2° budget: een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;<br>
+3° woonondersteuning: de woonondersteuning, vermeld in artikel 1, 23°, van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget.<br>
+<br>
+Als de persoon met een handicap, met uitzondering van minderjarigen en personen die een voortzetting van de jeugdhulpverlening hebben gevraagd als vermeld in artikel 18, § 3, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, een beroep doet op ondersteuning van voorzieningen die erkend en gesubsidieerd zijn door het agentschap, die niet rechtstreeks toegankelijk is, of beschikt over een budget, kan hij niet gebruikmaken van de rechtstreeks toegankelijke hulp.<br>
+<br>
+In afwijking van het tweede lid kunnen de volgende personen met een handicap rechtstreeks toegankelijke hulp combineren met een budget:<br>
+1° het agentschap heeft conform hoofdstuk 2, afdeling 2 of afdeling 3, van het besluit van 24 juni 2016 zorggebonden middelen toegekend aan de persoon met een handicap of heeft conform artikel 13 tot en met artikel 23 van het voormelde besluit zorggebonden punten toegekend;<br>
+2° het agentschap heeft voor de persoon met een handicap geen beslissing genomen over de terbeschikkingstelling van een budget nadat hij de procedure voor de aanvraag van een budget heeft doorlopen conform hoofdstuk 2 en hoofdstuk 3 van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget, of na een aanvraag tot herziening van het budget dat het agentschap heeft toegewezen of ter beschikking heeft gesteld nadat hij de voormelde aanvraagprocedure heeft doorlopen, of na een aanvraag tot herziening van het budget dat het agentschap heeft toegewezen of ter beschikking heeft gesteld met toepassing van het besluit van de Vlaamse Regering van 10 juni 2016 houdende de transitie van personen met een handicap met een actieve zorgvraag naar persoonsvolgende financiering, of na een aanvraag tot herziening van de zorggebonden middelen of de zorggebonden punten die het agentschap met toepassing van het besluit van 24 juni 2016 heeft toegekend.<br>
+<br>
+De personen met een handicap die voldoen aan de voorwaarden, vermeld in het derde lid, kunnen aanspraak maken op maximaal zestig nachten verblijf, al of niet in combinatie met dagopvang, per jaar.<br>
+<br>
+In voorkomend geval wordt het aantal nachten woonondersteuning, dat voor de toepassing van artikel 17 van het besluit van 24 juni 2016 in aanmerking wordt genomen, in mindering gebracht van het maximale aantal nachten verblijf, al of niet in combinatie met dagopvang, vermeld in het derde lid, waarop de persoon met een handicap, vermeld in het tweede lid, aanspraak kan maken.
 
 ### ART. 13.
 
