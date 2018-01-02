@@ -42,17 +42,12 @@ Besluit :
 
 ### ART 1.
 
-Aan artikel 7, paragraaf 1, van het ministerieel besluit van 22 december 2016 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, gewijzigd bij het ministerieel besluit van 27 januari 2017, worden volgende wijzigingen aangebracht:<br>
-1° aan het eerste lid wordt een punt 11° toegevoegd, dat luidt als volgt:<br>
-"11° voor tong: 25 cm aanvoerlengte.";<br>
-2° een vijfde lid wordt toegevoegd, dat luidt als volgt:<br>
-"In de Belgische visafslagen mag de nationale sortering voor tong, gekend als tong 8, met een productgewicht kleiner dan 120 g, en de nationale sortering voor zeeduivelstaarten, gekend onder zeeduivelstaart 6, met een productgewicht kleiner dan 200 g, niet langer gecommercialiseerd worden. De hoeveelheden van de vangsten die onder deze sortering vallen, mogen niet voor menselijke consumptie verkocht worden en dienen gedenatureerd te worden. De onderste instelling van de automatische sorteermachines, die op de afslagen gebruikt worden, wordt vastgelegd op respectievelijk 120 g voor tong en 200 g voor gekopte zeeduivel.".
+...
 
 ### ART 2.
 
-Aan artikel 27 van hetzelfde besluit wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
-" § 4. In de periode van 11 maart 2017 tot en met 31 december 2017 is het in het ICES-gebied VIIe voor een vissersvaartuig verboden bij de golfrogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 40 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dit ICES-gebied.".
+...
 
 ### ART 3.
 
-Dit besluit treedt in werking op 11 maart 2017. Het houdt op van kracht te zijn op 1 januari 2018.
+...
