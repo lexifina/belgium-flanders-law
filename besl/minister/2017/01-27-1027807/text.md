@@ -43,24 +43,16 @@ Besluit :<br>
 
 ### ART 1.
 
-In het artikel 7, paragraaf 1, eerste lid, punt 1° en punt 2° van het ministerieel besluit van 22 december 2016 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, wordt het getal "30" telkens vervangen door het getal "32".
+...
 
 ### ART 2.
 
-Aan artikel 23, paragraaf 1, van hetzelfde besluit, worden volgende wijzigingen aangebracht:<br>
-1° het woord "december" wordt vervangen door het woord "januari";<br>
-2° een tweede lid wordt toegevoegd, dat luidt als volgt:<br>
-"In de periode van 1 februari 2017 tot en met 31 oktober 2017 is het in het ICES-gebied VIIa voor een vissersvaartuig verboden een totale tongvangst te realiseren die groter is dan 500 kg.".<br>
-&nbsp;
+...
 
 ### ART 3.
 
-Aan artikel 28 van hetzelfde besluit wordt een paragraaf 12 toegevoegd:<br>
-" § 12. In de periode van 1 februari 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
-<br>
-In de periode van 1 februari 2017 tot en met 31 december 2017 is het in de ICES-gebieden II, IV voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.".<br>
-&nbsp;
+...
 
 ### ART 4.
 
-Dit besluit treedt in werking op 1 februari 2017. Het houdt op van kracht te zijn op 1 januari 2018.
+...
