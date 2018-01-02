@@ -2,16 +2,16 @@
   "codex_id": 1023986,
   "title": "Besluit van de Vlaamse Regering van 2014-03-14 betreffende proefprojecten over flexibel kortverblijf in groepen van assistentiewoningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023986/VolledigDocument?datum=2014-04-01",
-  "source_sha256": "267d4fb85933a55f615130b0cbcc5187550385f2432cfad2bd6e580c05ea3783",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023986/VolledigDocument?datum=2018-01-02",
+  "source_sha256": "5f606f564d52d06450afeafc67bad15879f85b5ee4ebf9fc63385d7d4568f53d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023986&param=informatie",
-  "as_of": "2014-04-01",
+  "as_of": "2018-01-02",
   "made": "2014-03-14",
   "gazette": "2014-04-07",
   "numac": 2014202064,
   "document_start": "2014-04-01",
   "document_end": "2018-01-01",
-  "in_force": "2014-04-01",
+  "in_force": "2018-01-02",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-02; future article versions excluded; article text as the API gives it"
 }

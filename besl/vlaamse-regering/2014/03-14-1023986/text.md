@@ -18,28 +18,20 @@
 
 ### ART. 1.
 
-Dit besluit heeft betrekking op de uitvoering van een proefproject als vermeld in artikel 2, door elk van de volgende voorzieningen en initiatiefnemers :<br>
-1° WZC Maria Middelares, Pater Lievensstraat 20 in 8890 Moorslede, uitgebaat door de vzw Bejaardenzorg Maria Middelares, gevestigd op hetzelfde adres;<br>
-2° WZC Solidariteit voor het Gezin, Tentoonstellingslaan 70 in 9000 Gent, uitgebaat door de vzw Solidariteit voor het Gezin, gevestigd op hetzelfde adres;<br>
-3° WZC De Goede Tijd, Bosuilplein 1 in 2100 Antwerpen, uitgebaat door het Zorgbedrijf OCMW Antwerpen Vereniging naar Publiek Recht, Lange Gasthuisstraat 33 in 2000 Antwerpen;<br>
-4° WZC Wommelgheem, Selsaetenstraat 50 in 2160 Wommelgem, uitgebaat door de nv Armonea, François Sebrechtslaan 40 in 1080 Sint-Jans-Molenbeek.
+...
 
 ### ART. 2.
 
-Het proefproject bestaat erin dat de initiatiefnemer de erkende woongelegenheden centrum voor kortverblijf die uitgebaat worden in zijn erkend woonzorgcentrum, kan inzetten binnen een erkende groep van assistentiewoningen of serviceflats die in de onmiddellijke nabijheid van het woonzorgcentrum ligt, als voldaan is aan een van de volgende voorwaarden :<br>
-1° de groep van assistentiewoningen of serviceflats wordt uitgebaat door dezelfde initiatiefnemer en vormt functioneel een geheel met het centrum voor kortverblijf;<br>
-2° de groep van assistentiewoningen of serviceflats wordt uitgebaat door een andere initiatiefnemer met wie de initiatiefnemer van het centrum voor kortverblijf een samenwerkingsovereenkomst heeft gesloten.
+...
 
 ### ART. 3.
 
-<p>De initiatiefnemers die instaan voor de uitvoering van de proefprojecten, lijsten na afloop van het project de knelpunten voor de realisatie van kortverblijf in groepen van assistentiewoningen op, waaronder het garanderen van crisis- en overbruggingszorg.</p>
-
-<p>Na afloop van het project bezorgen de initiatiefnemers hun bevindingen over de proefprojecten aan het Vlaams Agentschap Zorg en Gezondheid.</p>
+...
 
 ### ART. 4.
 
-Dit besluit treedt in werking op 1 april 2014 en treedt buiten werking op 1 april 2015.
+...
 
 ### ART. 5.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
+...
