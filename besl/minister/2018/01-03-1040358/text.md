@@ -12,3 +12,53 @@ Gelet op het met redenen omkleed advies van het Hoog Overlegcomité van 13 novem
 Gelet op het advies van de Inspectie van Financiën, gegeven op 20 oktober 2017.<br>
 <br>
 BESLUIT:
+
+### ART 1.
+
+§ 1. Er wordt een tussenoverlegcomité opgericht voor het beleidsdomein Onderwijs en Vorming. Het tussenoverlegcomité wordt benoemd als Beleidsdomeinoverlegcomité Onderwijs en Vorming, afgekort BDOC O&amp;V.<br>
+<br>
+Het BDOC O&amp;V is bevoegd voor volgende entiteiten:<br>
+- het departement Onderwijs en Vorming;<br>
+- het Agentschap voor Infrastructuur in het Onderwijs;<br>
+- het Agentschap voor Onderw1jsd1ensten;<br>
+- het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
+- de Onderwijsinspectie;<br>
+- de Vlaamse Onderwijsraad.<br>
+<br>
+§2. De afvaardiging van de overheid in het beleidsdome1noverlegcomité wordt alsvolgt vastgesteld:<br>
+a) Voorzitter: de voorzitter van het managementcomité van het beleidsdomein Onderwijs en Vorming;<br>
+b) Leden: de leden worden door de voorzitter van hetbeleidsdomeinoverlegcomité gekozen in functie van de punten van de dagorde.<br>
+<br>
+§ 3 De voorzitter van het beleidsdomeinoverlegcomité duidt bij afwezigheid ofverhindering zijn plaatsvervanger aan.
+
+### ART 2.
+
+§ 1. In het gebied van het BDOC O&amp;V wordt er een basisoverlegcomité opgericht voor elk van volgende entiteiten:<br>
+- het departement Onderwijs en Vorming;<br>
+- het Agentschap voor Infrastructuur in het Onderwijs;<br>
+- het Agentschap voor Onderwijsdiensten,<br>
+- het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
+- de Onderw1Jsinspectie;<br>
+- de Vlaamse Onderwijsraad.<br>
+<br>
+Deze basisoverlegcomités worden benoemd als:<br>
+- Entiteitsoverlegcomité departement Onderwijs en Vorming, afgekort EOC dep O&amp;V;<br>
+- Entiteitsoverlegcomité Agentschap voor Infrastructuur in het Onderwijs, afgekort EOC AGIOn;<br>
+- Entiteitsoverlegcomité Agentschap voor Onderwijsdiensten, afgekort EOC AgODi;<br>
+- Ent1teitsoverlegcomité Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, afgekort EOC AHOVOKS;<br>
+- Entiteitsoverlegcomité Onderwijsinspectie, afgekort EOC Onderwijsinspectie;<br>
+- Entiteitsoverlegcomité Vlaamse Onderwijsraad, afgekort EOC VLOR.<br>
+<br>
+§2. De afvaardiging van de overheid in deze entite1tsoverlegcomités wordt als volgt vastgesteld:<br>
+a) Voorzitter: het hoofd van de entiteit;<br>
+b) Leden: de leden worden door de voorzitter van het entiteitsoverlegcomité gekozen in functie van de punten van de dagorde.<br>
+<br>
+§3. De voorzitter van het entiteitsoverlegcomité duidt bij afwezigheid of verhindering zijn plaatsvervanger aan.
+
+### ART 3.
+
+Het ministerieel besluit van 5 maart 2007 houdende oprichting van basis- en tussenoverlegcomités en samenstelling van de overheidsafvaardiging in het Beleidsdomein Onderwijs en Vorming wordt opgeheven.
+
+### ART 4.
+
+Dit besluit treedt inwerking op de datum van de ondertekening ervan.
