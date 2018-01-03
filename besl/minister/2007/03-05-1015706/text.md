@@ -20,20 +20,20 @@ Besluit :
 
 ### ART. 1.
 
-Er wordt een tussenoverlegcomité opgericht, hierna te noemen beleidsdomeinoverlegcomité, voor het beleidsdomein Onderwijs en Vorming, inzonderheid voor volgende entiteiten :<br />- het departement Onderwijs en Vorming;<br />- het Agentschap voor Infrastructuur in het Onderwijs (AGIOn);<br />- het Agentschap voor Onderwijsdiensten (AgODi);<br />- het Onderwijsdienstencentrum Hoger Onderwijs en Volwassenenonderwijs;<br />- het Agentschap voor Onderwijscommunicatie;<br />- de Vlaamse Onderwijsraad (VLOR);<br />- het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming.<br /><br />
+...
 
 ### ART. 2.
 
-In het gebied van het beleidsdomeinoverlegcomité wordt er een basisoverlegcomité opgericht, hierna te noemen entiteitsoverlegcomité, voor elk van de in artikel 1 vermelde entiteiten.<br />
+...
 
 ### ART. 3.
 
-§ 1. De afvaardiging van de overheid in het beleidsdomeinoverlegcomité wordt als volgt vastgesteld :<br />a) Voorzitter<br />- de voorzitter van het managementcomité of bij ontstentenis door een N-functie aangeduid door de beleidsraad.<br />b) Leden<br />- de leden worden door de voorzitter van het beleidsdomeinoverlegcomité gekozen in functie van de punten van de dagorde.<br /><br />§ 2. De voorzitter van het beleidsdomeinoverlegcomité duidt bij afwezigheid of verhindering zijn plaatsvervanger aan.<br /><br />
+...
 
 ### ART. 4.
 
-De afvaardiging van de overheid in een entiteitsoverlegcomité wordt als volgt vastgesteld :<br />a) Voorzitter<br />- hoofd van de entiteit.<br />b) Leden<br />- de leden worden door de voorzitter van het entiteitsoverlegcomité gekozen in functie van de punten van de dagorde.<br /><br />§ 2. De voorzitter van het entiteitsoverlegcomité duidt bij afwezigheid of verhindering zijn plaatsvervanger aan.<br />
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br />
+...
