@@ -2,16 +2,16 @@
   "codex_id": 1018406,
   "title": "Besluit van de Vlaamse Regering van 2009-09-04 tot vastlegging van de erkenningsvoorwaarden voor een producentenorganisatie en tot algemeen verbindendverklaring voor niet-aangeslotenen van de door een erkende producentenorganisatie vastgestelde regels in de sector visserijproducten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018406/VolledigDocument?datum=2009-10-04",
-  "source_sha256": "26785e60b1f09e611ed10cd2ed423a48a220ab80b003d37bbd046819455d5dc0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018406/VolledigDocument?datum=2018-01-06",
+  "source_sha256": "767ca785051a6bd78dcde4cd1fd1ce2315fbc7f0dfc4069b8d549946711a4a7b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018406&param=informatie",
-  "as_of": "2009-10-04",
+  "as_of": "2018-01-06",
   "made": "2009-09-04",
   "gazette": "2009-09-24",
   "numac": 2009035908,
   "document_start": "2009-10-04",
   "document_end": "2018-01-05",
-  "in_force": "2009-10-04",
+  "in_force": "2018-01-06",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2009-10-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-06; future article versions excluded; article text as the API gives it"
 }
