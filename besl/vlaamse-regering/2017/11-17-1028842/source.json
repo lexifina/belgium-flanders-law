@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028842,
+  "title": "Besluit van de Vlaamse Regering van 2017-11-17 tot wijziging van artikel 7bis, 7ter en 11septies van het besluit van de Vlaamse Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028842/VolledigDocument?datum=2018-01-06",
+  "source_sha256": "b0f1106275e3111817f3f0c31929be20bf9eb0e81918129f7b417926e0b3616f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028842&param=informatie",
+  "as_of": "2018-01-06",
+  "made": "2017-11-17",
+  "gazette": "2017-12-27",
+  "numac": 2017031929,
+  "document_start": "2018-01-06",
+  "document_end": null,
+  "in_force": "2018-01-06",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-01-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
