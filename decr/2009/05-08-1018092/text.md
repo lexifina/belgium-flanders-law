@@ -1361,7 +1361,8 @@ Gr gelijk is aan :<br>
 3° 0,168 in 2015;<br>
 4° 0,18 in 2016;<br>
 5° 0,23 in 2017;<br>
-6° 0,205 in 2018 en daarna;<br>
+6° 0,205 in 2018;<br>
+7° 0,215 in 2019 en daarna;<br>
 <br>
 Wanneer een bandingfactor wordt vastgelegd voor een installatie voor de productie van groene stroom met een nominaal elektrisch vermogen van meer dan 20 MW, wordt het aantal in te dienen groenestroomcertificaten geëvalueerd en eventueel verhoogd door de Vlaamse Regering.<br>
 <br>
@@ -1382,9 +1383,9 @@ Het geheel van afnamepunten van afnemers van een na 1 juli 2011 aangelegd net da
 <br>
 In afwijking van het derde en vierde lid wordt het geheel van afnemers die instaan voor het verzorgen van openbaar vervoer niet als één afnamepunt beschouwd.<br>
 <br>
-§ 3/1. Het op ondernemingsniveau verschuldigde bedrag van de door financieringssteun voor hernieuwbare energie ontstane kosten wordt beperkt tot 4% van de bruto toegevoegde waarde van de betrokken onderneming. Voor bedrijven met een elektriciteitsintensiteit van ten minste 20% wordt dit beperkt tot 0,5% van de bruto toegevoegde waarde van de betrokken onderneming.<br>
+§ 3/1. Het op ondernemingsniveau of vestigingsniveau&nbsp;verschuldigde bedrag van de door financieringssteun voor hernieuwbare energie ontstane kosten wordt beperkt tot 4% van de bruto toegevoegde waarde van de betrokken onderneming of vestiging. Voor&nbsp;ondernemingen of vestigingen&nbsp;met een elektriciteitsintensiteit van ten minste 20% wordt dit beperkt tot 0,5% van de bruto toegevoegde waarde van de betrokken onderneming of vestiging. Dit houdt in dat in afwijking van paragraaf 3 de factor Ev, vermeld in paragraaf 2, wordt verminderd met 100% van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt van de betrokken onderneming of vestigingseenheid naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarvan de certificaatplichtige, vermeld in paragraaf 1, toegangshouder was.<br>
 <br>
-De Vlaamse Regering bepaalt de te volgen procedures, alsmede de modaliteiten en voorwaarden waaraan moet worden voldaan voor het verkrijgen van deze vermindering.<br>
+De Vlaamse Regering bepaalt de te volgen procedures, alsmede de modaliteiten en voorwaarden waaraan moet worden voldaan voor het verkrijgen van deze vermindering. De Vlaamse Regering maakt de toepassing van deze paragraaf afhankelijk van het storten van een bijdrage in het Energiefonds in het jaar n-1.<br>
 <br>
 § 4. Het Vlaams Energieagentschap legt een evaluatie van de quota- en productiedoelstellingen, vermeld in § 2, voor aan de Vlaamse Regering indien :<br>
 1° het aantal beschikbare certificaten minder dan 105 % of meer dan 125 % bedraagt van het aantal voor te leggen certificaten;<br>
@@ -1423,9 +1424,7 @@ Cw gelijk is aan het aantal in het jaar n in te dienen warmte-krachtcertificaten
 11° 0,112 als het jaar n gelijk is aan 2016;<br>
 12° 0,112 als het jaar n gelijk is aan 2017;<br>
 13° 0,112 als het jaar n gelijk is aan 2018;<br>
-14° 0,112 als het jaar n gelijk is aan 2019;<br>
-15° 0,093 als het jaar n gelijk is aan 2020;<br>
-16° 0,070 als het jaar n gelijk is aan 2021 en daarna;<br>
+14° 0,112 als het jaar n gelijk is aan 2019 en daarna;<br>
 <br>
 Ev gelijk is aan de totale hoeveelheid elektriciteit, uitgedrukt in MWh die in het jaar n-1 afgenomen werd op afnamepunten in het Vlaamse Gewest waarop de betrokken persoon geregistreerd stond als toegangshouder in het toegangsregister van de betrokken elektriciteitsdistributienetbeheerder, beheerder van een gesloten distributienet, beheerder van het plaatselijke vervoernet van elektriciteit of beheerder van het transmissienet. Daarbij wordt de afname per afnamepunt beperkt tot de afname tijdens de periode waarin de betrokken persoon geregistreerd stond als toegangshouder.<br>
 <br>
