@@ -1,5 +1,9 @@
 # Decreet van 2017-12-22 houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft de aanpassing van de groenestroomdoelstellingen, de WKK-doelstellingen en de energieheffing
 
+### ART 1.
+
+Dit decreet regelt een gewestaangelegenheid.
+
 ### ART 2.
 
 In artikel 1.1.3 van het Energiedecreet van 8 mei 2009, laatst gewijzigd bij het decreet van 10 maart 2017, worden de volgende wijzigingen aangebracht:<br>
@@ -13,6 +17,27 @@ In artikel 1.1.3 van het Energiedecreet van 8 mei 2009, laatst gewijzigd bij het
 "86° /1 middenspanning: een nominaal spanningsniveau van meer dan 1000 volt en lager dan 30 kilovolt;";<br>
 5° er wordt een punt 111° /1 ingevoegd, dat luidt als volgt:<br>
 "111° /1 residentiële afnemer: elke natuurlijke persoon aangesloten op een elektriciteitsdistributienet op laagspanning, die elektriciteit afneemt om te voorzien in zijn behoeften of die van de personen die samen met hem in de woning in kwestie gedomicilieerd zijn, behoudens in het geval dat het leveringscontract voor de levering van elektriciteit op het afnamepunt in kwestie werd gesloten door een onderneming, zoals bedoeld in artikel I.4, 1°, van het Wetboek van Economisch Recht;".<br>
+&nbsp;
+
+### ART 3.
+
+&nbsp;In artikel 7.1.10 van hetzelfde decreet, vervangen bij het decreet van 13 juli 2012 en gewijzigd bij het decreet van 27 november 2015, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 2, tweede lid, wordt punt 6° vervangen door wat volgt:<br>
+"6° 0,205 in 2018;";<br>
+2° in paragraaf 2, tweede lid, wordt een punt 7° hersteld, dat luidt als volgt:<br>
+"7° 0,215 in 2019 en daarna;";<br>
+3° in paragraaf 3/1, eerste lid, wordt na het woord "ondernemingsniveau" de woorden "of vestigingsniveau" ingevoegd;<br>
+4° in paragraaf 3/1, eerste lid, worden telkens na de woorden "de betrokken onderneming" de woorden "of vestiging" toegevoegd;<br>
+5° in paragraaf 3/1, eerste lid, wordt het woord "bedrijven" vervangen door de woorden "ondernemingen of vestigingen";<br>
+6° aan paragraaf 3/1, eerste lid, wordt de zin "Dit houdt in dat in afwijking van paragraaf 3 de factor Ev, vermeld in paragraaf 2, wordt verminderd met 100% van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt van de betrokken onderneming of vestigingseenheid naar rato van de hoeveelheid elektriciteit die werd afgenomen op het afnamepunt gedurende de periode in het jaar n-1 waarvan de certificaatplichtige, vermeld in paragraaf 1, toegangshouder was." toegevoegd;<br>
+7° aan paragraaf 3/1, tweede lid, wordt de zin "De Vlaamse Regering maakt de toepassing van deze paragraaf afhankelijk van het storten van een bijdrage in het Energiefonds in het jaar n-1." toegevoegd.".<br>
+&nbsp;
+
+### ART 4.
+
+In artikel 7.1.11, § 2, van hetzelfde decreet, vervangen bij het decreet van 13 juli 2012, worden de volgende wijzigingen aangebracht:<br>
+1° aan het eerste lid, 14°, wordt de zinsnede "en daarna;" toegevoegd;<br>
+2° in het eerste lid worden punten 15° en 16° opgeheven.<br>
 &nbsp;
 
 ### ART 5.
@@ -86,4 +111,11 @@ In titel XV, hoofdstuk III, van hetzelfde decreet wordt een artikel 15.3.5/11 in
 In afwijking van artikel 14.1.1 wordt het geheel van afnamepunten waarvoor bij de daartoe bevoegde federale overheidsdienst op 1 januari 2018 al een aanvraag tot goedkeuring als een gesloten industrieel net, vermeld in artikel 2, 41°, van de federale Elektriciteitswet, lopende is, behandeld conform artikel 14.1.1, § 2, tweede lid, op voorwaarde dat tegen uiterlijk 1 januari 2021 over deze aanvraag een gunstige beslissing valt.<br>
 <br>
 Indien de afnamepunten, vermeld in het eerste en tweede lid, op 1 januari 2021 echter geen deel uitmaken van een goedgekeurd gesloten distributienet of een goedgekeurd gesloten industrieel net, dan worden zij alsnog voor de periode vanaf 1 januari 2018 tot en met 31 december 2020 belast conform artikel 14.1.1, § 2, eerste lid, en dit aan het tarief, vermeld in artikel 14.1.2, die voor de desbetreffende maandelijkse periodes van toepassing was. In afwijking van artikel 14.2.2 zorgt de Vlaamse Belastingdienst in dat geval tegen uiterlijk 1 juli 2021 voor een bijkomende aanslag. De Vlaamse Regering kan nadere regels vastleggen voor de gegevensoverdracht van de toegangshouders en de netbeheerders aan de Vlaamse Belastingdienst voor de correcte toepassing van dit artikel.".<br>
+&nbsp;
+
+### ART 12.
+
+Artikel 2, 5, 6, 7, 8, 9, 10 en 11 van dit decreet treden in werking op 1 januari 2018.<br>
+<br>
+In afwijking van het eerste lid blijft artikel 7.1.10, § 3/1, van het Energiedecreet van 8 mei 2009, in de lezing voorafgaand aan de inwerkingtreding van artikel 3, 3°, 4°, 5°, 6° en 7°, van toepassing op de inleveringsperiode die eindigt op 31 maart 2018.<br>
 &nbsp;
