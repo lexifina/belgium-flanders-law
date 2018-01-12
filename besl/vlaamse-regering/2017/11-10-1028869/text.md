@@ -83,6 +83,19 @@ In artikel 15 van hetzelfde besluit, gewijzigd bij het decreet van 7 mei 2004 en
 
 ## Afdeling 2 Wijzigingen van het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het intern verzelfstandigd agentschap "agentschap Facilitair Bedrijf"
 
+### ART 3.
+
+In artikel 2 van het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het intern verzelfstandigd agentschap "agentschap Facilitair Bedrijf", gewijzigd bij de besluiten van de Vlaamse Regering van 4 juli 2014 en 13 maart 2015, worden de woorden "voor de beleidsuitvoering inzake archiefbeheer" vervangen door de woorden "het openbare archiefwezen".<br>
+&nbsp;
+
+### ART 4.
+
+In artikel 4 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 4 juli 2014 en 13 maart 2015, worden een vijfde en zesde lid toegevoegd, die luiden als volgt:<br>
+"Het agentschap heeft tot taak het beleid inzake het openbare archiefwezen uit te voeren, te coördineren en te ondersteunen.<br>
+<br>
+Het agentschap ondersteunt de entiteiten van de Vlaamse overheid en van de lokale en provinciale besturen overeenkomstig artikel 10 van het Archiefdecreet van 9 juli 2010, zowel bij het archiefbeheer als de archiefzorg.".<br>
+&nbsp;
+
 ## Afdeling 3 Wijzigingen van het besluit van de Vlaamse Regering van 2 december 2005 houdende het model van aangifte voor de vestiging en de invordering van de GRB-heffingen
 
 ### ART 5.
@@ -249,6 +262,11 @@ In artikel 9 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<b
 
 ## Afdeling 12 Wijziging van het besluit van de Vlaamse Regering van 21 maart 2014 tot regeling van het archiefbeheer
 
+### ART 31.
+
+Artikel 27 van het besluit van de Vlaamse Regering van 21 maart 2014 tot regeling van het archiefbeheer, gewijzigd bij de besluiten van de Vlaamse Regering van 28 april 2017 en 2 juni 2017, wordt opgeheven.<br>
+&nbsp;
+
 ## Afdeling 13 Wijziging van het besluit van de Vlaamse Regering van 6 juni 2014 betreffende de delegatie van de bevoegdheid inzake de goedkeuring van het IMKL en het PMKL en betreffende de inwerkingtreding van het decreet van 17 januari 2014 houdende wijziging van het KLIP-decreet van 14 maart 2008, wat betreft de wijze van het afhandelen van een planaanvraag
 
 ### ART 32.
@@ -269,6 +287,13 @@ In artikel 8, tweede lid, en artikel 9 van hetzelfde besluit wordt het woord "AG
 &nbsp;
 
 ## Afdeling 15 Wijziging van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen
+
+### ART 35.
+
+&nbsp;In artikel 4 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° wordt de zinsnede "dienstenintegratie, elektronisch bestuurlijk gegevensverkeer en het openbare archiefwezen" vervangen door de woorden "dienstenintegratie en elektronisch bestuurlijk gegevensverkeer";<br>
+2° punt 11° en punt 12° worden opgeheven.<br>
+&nbsp;
 
 ## HOOFDSTUK 2 Slotbepalingen
 

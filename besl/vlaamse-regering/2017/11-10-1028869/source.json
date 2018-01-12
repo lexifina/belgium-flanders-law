@@ -2,16 +2,16 @@
   "codex_id": 1028869,
   "title": "Besluit van de Vlaamse Regering van 2017-11-10 houdende aanpassing van diverse besluiten van de Vlaamse Regering naar aanleiding van de ontbinding van het Agentschap Geografische Informatie Vlaanderen en de oprichting van het agentschap Informatie Vlaanderen en het Eigen Vermogen Informatie Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028869/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "88d3b2f95c1a4ae28c1b1e41b8081dd8542fe9784a1b8ff1350db5a41032ed7e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028869/VolledigDocument?datum=2018-01-12",
+  "source_sha256": "e96bcd89a37ed053f9b2faaa87f2d2ad228f91800d74c2501871472276dd2781",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028869&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2018-01-12",
   "made": "2017-11-10",
   "gazette": "2018-01-12",
   "numac": 2017032085,
   "document_start": "2016-01-01",
   "document_end": null,
-  "in_force": "2016-01-01",
-  "article_versions": 35,
-  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-01-12",
+  "article_versions": 39,
+  "record_form": "consolidated version as in force on 2018-01-12; future article versions excluded; article text as the API gives it"
 }
