@@ -140,18 +140,7 @@ Zorgdragers kunnen specifieke selectielijsten voorleggen aan de bevoegde   selec
 
 ### ART. 27.
 
-<p>Een&nbsp;werkgroep binnen het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, wordt opgericht die als doel heeft afstemming te bereiken in de uitvoering van de taken van het steunpunt tussen de beleidsvelden Bestuurszaken, Cultuur en Binnenlandse Aangelegenheden.</p>
-
-<p>De werkgroep, vermeld in het eerste lid, is samengesteld uit een vertegenwoordiger van:<br>
-1° het Agentschap Facilitair Bedrijf;<br>
-2° het Agentschap Binnenlands Bestuur;<br>
-3° het Departement Cultuur, Jeugd en Media.</p>
-
-<p>De werkgroep, vermeld in het eerste lid, kan uitgebreid worden met:<br>
-1° vertegenwoordigers van de zorgdragers;<br>
-2° personen die een grondige expertise bezitten in of betrokken zijn bij de archiefzorg en het archiefbeheer.</p>
-
-<p>Deze hebben een raadgevende stem.</p>
+...
 
 ## HOOFDSTUK 5. Slotbepalingen
 
