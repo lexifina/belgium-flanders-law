@@ -10,7 +10,9 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het   Algemeen D
 
 ### ART. 2.
 
-<P>Binnen het Vlaams Ministerie Kanselarij en Bestuur wordt een intern   verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de   benaming "agentschap Facilitair Bedrijf". Het agentschap wordt opgericht voor de   beleidsondersteuning en beleidsuitvoering inzake facilitaire dienstverlening,   vastgoedbeheer en informatie- en communicatietechnologie en voor de   beleidsuitvoering inzake archiefbeheer.<BR><BR>Het agentschap behoort tot het   beleidsdomein Kanselarij en Bestuur.</P>
+<p>Binnen het Vlaams Ministerie Kanselarij en Bestuur wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming "agentschap Facilitair Bedrijf". Het agentschap wordt opgericht voor de beleidsondersteuning en beleidsuitvoering inzake facilitaire dienstverlening, vastgoedbeheer en informatie- en communicatietechnologie en het openbare archiefwezen.<br>
+<br>
+Het agentschap behoort tot het beleidsdomein Kanselarij en Bestuur.</p>
 
 ### ART. 3.
 
@@ -18,7 +20,29 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het   Algemeen D
 
 ### ART. 4.
 
-<P>Het agentschap heeft tot taak de operationele ondersteuning en uitvoering van   facilitaire diensten in de diverse beleidsdomeinen. Dat omvat de volgende   activiteiten:<BR>1° het uitvoeren van het portefeuille-, ruimte- en   projectbeheer, alsook het optreden als technische studiecel voor het vastgoed   van de Vlaamse administratie;<BR>2° het leveren van ondersteunende   gebouwgebonden diensten op het vlak van technisch onderhoud, verhuizingen,   bekabeling, energiebeheer, beheer van meubilair, beveiliging, catering,   schoonmaak, beheer van vergaderzalen, reprografie, postbedeling, afvalverwerking   in de gebouwen van de Vlaamse administratie;<BR>3° het leveren van   niet-gebouwgebonden facilitaire diensten op het vlak van de aankoop en het   beheer van roerende goederen.<BR><BR>Het agentschap heeft tot taak op te treden   als gemeenschappelijke aankoopcentrale voor het plaatsen van overheidsopdrachten   en raamovereenkomsten met betrekking tot werken, leveringen of diensten die   bestemd zijn voor de departementen en de intern verzelfstandigde agentschappen.   De gemeenschappelijke aankoopcentrale kan die raamovereenkomsten ook plaatsen   voor andere instanties als vermeld in artikel 4, § 1, van het decreet van 26   maart 2004 betreffende de openbaarheid van bestuur, en voor de Vlaamse   Gemeenschapscommissie, die op eigen verantwoordelijkheid kunnen   afnemen.<BR><BR>Het agentschap heeft tot taak de rol te vervullen van een   kenniscentrum overheidsopdrachten met het oog op de professionalisering van de   overheidsopdrachtenpraktijk en de gemeenschappelijke aankoopcentrale. Dat omvat   onder meer de volgende activiteiten:<BR>1° het juridisch ondersteunen van de   gemeenschappelijke aankoopcentrale, de taskforce Duurzame Overheidsopdrachten en   de overheidsopdrachten van de Vlaamse administratie;<BR>2° het verlenen van   juridisch advies aan de Vlaamse administratie met betrekking tot   overheidsopdrachten, het organiseren van het kennisnetwerk overheidsopdrachten   en het verspreiden van modelbestekken en andere instrumentaria onder meer via de   website en door de organisatie van studiedagen, infosessies en   opleidingen;<BR>3° de beleidscoördinatie, -voorbereiding en -uitvoering van het   e-procurementprogramma en de daarmee samenhangende dienstverlening en   projecten;<BR>4° het lidmaatschap van het Vlaams Samenwerkingsforum   Overheidsopdrachten en de federale Commissie voor de overheidsopdrachten;<BR>5°   het meewerken aan de beleidsvoorbereiding en -ondersteuning op het vlak van   overheidsopdrachten binnen een structureel samenwerkingsverband met het   departement Kanselarij en Bestuur.<BR><BR>Het agentschap heeft tot taak diensten   inzake informatie- en communicatietechnologie aan te bieden ter ondersteuning   van de entiteiten van de Vlaamse overheid en van de lokale en provinciale   besturen. Dat omvat de volgende activiteiten:<BR>1° het voorbereiden, uitvoeren   en evalueren van het beleid inzake informatie- en communicatietechnologie;<BR>2°   het aanbieden van een ruime waaier aan ICT-diensten;<BR>3° het investeren in   gemeenschappelijke ICT -omgevingen met het oog op schaalvoordelen en een betere   integratie;<BR>4° het verlenen van advies op basis van intern opgebouwde   expertise.</P>
+<p>Het agentschap heeft tot taak de operationele ondersteuning en uitvoering van facilitaire diensten in de diverse beleidsdomeinen. Dat omvat de volgende activiteiten:<br>
+1° het uitvoeren van het portefeuille-, ruimte- en projectbeheer, alsook het optreden als technische studiecel voor het vastgoed van de Vlaamse administratie;<br>
+2° het leveren van ondersteunende gebouwgebonden diensten op het vlak van technisch onderhoud, verhuizingen, bekabeling, energiebeheer, beheer van meubilair, beveiliging, catering, schoonmaak, beheer van vergaderzalen, reprografie, postbedeling, afvalverwerking in de gebouwen van de Vlaamse administratie;<br>
+3° het leveren van niet-gebouwgebonden facilitaire diensten op het vlak van de aankoop en het beheer van roerende goederen.<br>
+<br>
+Het agentschap heeft tot taak op te treden als gemeenschappelijke aankoopcentrale voor het plaatsen van overheidsopdrachten en raamovereenkomsten met betrekking tot werken, leveringen of diensten die bestemd zijn voor de departementen en de intern verzelfstandigde agentschappen. De gemeenschappelijke aankoopcentrale kan die raamovereenkomsten ook plaatsen voor andere instanties als vermeld in artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, en voor de Vlaamse Gemeenschapscommissie, die op eigen verantwoordelijkheid kunnen afnemen.<br>
+<br>
+Het agentschap heeft tot taak de rol te vervullen van een kenniscentrum overheidsopdrachten met het oog op de professionalisering van de overheidsopdrachtenpraktijk en de gemeenschappelijke aankoopcentrale. Dat omvat onder meer de volgende activiteiten:<br>
+1° het juridisch ondersteunen van de gemeenschappelijke aankoopcentrale, de taskforce Duurzame Overheidsopdrachten en de overheidsopdrachten van de Vlaamse administratie;<br>
+2° het verlenen van juridisch advies aan de Vlaamse administratie met betrekking tot overheidsopdrachten, het organiseren van het kennisnetwerk overheidsopdrachten en het verspreiden van modelbestekken en andere instrumentaria onder meer via de website en door de organisatie van studiedagen, infosessies en opleidingen;<br>
+3° de beleidscoördinatie, -voorbereiding en -uitvoering van het e-procurementprogramma en de daarmee samenhangende dienstverlening en projecten;<br>
+4° het lidmaatschap van het Vlaams Samenwerkingsforum Overheidsopdrachten en de federale Commissie voor de overheidsopdrachten;<br>
+5° het meewerken aan de beleidsvoorbereiding en -ondersteuning op het vlak van overheidsopdrachten binnen een structureel samenwerkingsverband met het departement Kanselarij en Bestuur.<br>
+<br>
+Het agentschap heeft tot taak diensten inzake informatie- en communicatietechnologie aan te bieden ter ondersteuning van de entiteiten van de Vlaamse overheid en van de lokale en provinciale besturen. Dat omvat de volgende activiteiten:<br>
+1° het voorbereiden, uitvoeren en evalueren van het beleid inzake informatie- en communicatietechnologie;<br>
+2° het aanbieden van een ruime waaier aan ICT-diensten;<br>
+3° het investeren in gemeenschappelijke ICT -omgevingen met het oog op schaalvoordelen en een betere integratie;<br>
+4° het verlenen van advies op basis van intern opgebouwde expertise.<br>
+<br>
+Het agentschap heeft tot taak het beleid inzake het openbare archiefwezen uit te voeren, te coördineren en te ondersteunen.<br>
+<br>
+Het agentschap ondersteunt de entiteiten van de Vlaamse overheid en van de lokale en provinciale besturen overeenkomstig artikel 10 van het Archiefdecreet van 9 juli 2010, zowel bij het archiefbeheer als de archiefzorg.</p>
 
 ### ART. 4/1.
 
