@@ -2,16 +2,16 @@
   "codex_id": 1028851,
   "title": "Ministerieel besluit van 2017-12-20 houdende de voor het kalenderjaar 2017 beschikbare middelen voor de vergoedingen voor de opkoop van groenestroomcertificaten en warmte-krachtcertificaten door de elektriciteitsdistributienetbeheerders, vermeld in artikel 6.4.14/2 en artikel 6.4.14/3 van het Energiebesluit van 19 november 2010",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028851/VolledigDocument?datum=2017-12-28",
-  "source_sha256": "5edd05f44a54a5168509f0fb5bf3c9117e69512f0665b26a494c394a79428997",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028851/VolledigDocument?datum=2018-01-15",
+  "source_sha256": "a79ecc4099ff164f6fda10994140510d6f7af643d0b138866b6bd224210e8514",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028851&param=informatie",
-  "as_of": "2017-12-28",
+  "as_of": "2018-01-15",
   "made": "2017-12-20",
   "gazette": "2017-12-28",
   "numac": 2017014374,
   "document_start": "2017-12-28",
   "document_end": "2018-01-14",
-  "in_force": "2017-12-28",
+  "in_force": "2018-01-15",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2017-12-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-15; future article versions excluded; article text as the API gives it"
 }
