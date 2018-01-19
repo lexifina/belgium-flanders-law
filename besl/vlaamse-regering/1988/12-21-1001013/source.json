@@ -2,16 +2,16 @@
   "codex_id": 1001013,
   "title": "Besluit van de Vlaamse Regering van 1988-12-21 houdende goedkeuring van de statuten van de Vlaamse Landmaatschappij",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001013/VolledigDocument?datum=2011-06-05",
-  "source_sha256": "d8432292e40bd337f48db9d1dde5f40e0a30af79115049e477271a33f466d45f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001013/VolledigDocument?datum=2018-01-19",
+  "source_sha256": "74afbf6078f36de6f5ac3c2d10249b0be9a8e33fe33a68b0c0926b545fcb4a05",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001013&param=informatie",
-  "as_of": "2011-06-05",
+  "as_of": "2018-01-19",
   "made": "1988-12-21",
   "gazette": "1990-03-02",
   "numac": 1990029201,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-06-05",
-  "article_versions": 41,
-  "record_form": "consolidated version as in force on 2011-06-05; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-01-19",
+  "article_versions": 45,
+  "record_form": "consolidated version as in force on 2018-01-19; future article versions excluded; article text as the API gives it"
 }
