@@ -1023,16 +1023,12 @@ In afwijking van het eerste lid, kan een werkzoekende een vrijstelling verkrijge
 
 ### ART 111/36.
 
-De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, kan vrijgesteld worden gedurende de periode waarin hij een studie hoger onderwijs volgt die voorbereidt op een beroep waarvoor een significant tekort aan arbeidskrachten bestaat.<br>
-<br>
-De lijst van studies die voorbereiden op een beroep waarvoor er een significant tekort aan arbeidskrachten bestaat als vermeld in het eerste lid, wordt vastgesteld door de raad van bestuur van VDAB.<br>
-<br>
-De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, moet tevens voldoen aan de volgende voorwaarden:<br>
-1° de verplicht ingeschreven werkzoekende voldoet aan de voorwaarden, vermeld in artikel 111/32, § 1;<br>
+De verplicht ingeschreven werkzoekende die werkloosheids- of inschakelingsuitkeringen ontvangt, kan vrijgesteld worden gedurende de periode waarin hij een studie hoger onderwijs volgt, als al de volgende voorwaarden vervuld zijn:<br>
+1° de verplicht ingeschreven werkzoekende voldoet aan de voorwaarden, vermeld in artikel 111/32, § 1, 1°, 2°, 4° en 5° ;<br>
 2° de verplicht ingeschreven werkzoekende is niet als vrije leerling ingeschreven en woont de activiteiten, opgelegd door het studieprogramma, bij;<br>
-3° de studies zijn door een gemeenschap georganiseerd, gesubsidieerd of erkend en behoren tot het hoger onderwijs;<br>
-4° de verplicht ingeschreven werkzoekende beschikt niet over een diploma of getuigschrift dat gelijkwaardig of hoger is dan een diploma van het hoger onderwijs, of beschikt over een diploma of getuigschrift van het hoger onderwijs waarvan VDAB oordeelt dat het weinig kansen biedt op de arbeidsmarkt;<br>
-5° de verplicht ingeschreven werkzoekende heeft zijn studies of leertijd sedert ten minste twee jaar beëindigd op de dag waarop hij de vrijstelling aanvraagt.
+3° de studies zijn door een gemeenschap georganiseerd, gesubsidieerd of erkend, behoren tot het hoger onderwijs en bestaan uit ten minste 27 nieuwe studiepunten, waarbij de lessen niet hoofdzakelijk op zaterdag of na 17 uur worden gegeven;<br>
+4° de verplicht ingeschreven werkzoekende beschikt niet over een diploma of getuigschrift dat gelijkwaardig is aan of hoger is dan een diploma van het hoger onderwijs, of hij beschikt over een diploma of getuigschrift van het hoger onderwijs waarvan de VDAB oordeelt dat het weinig kansen biedt op de arbeidsmarkt;<br>
+5° de verplicht ingeschreven werkzoekende heeft zijn studies of leertijd ten minste twee jaar beëindigd op de dag waarop hij de vrijstelling aanvraagt.
 
 ### ART 111/37.
 
@@ -1094,6 +1090,26 @@ Als tegen de beslissing van VDAB beroep is ingesteld en die beslissing wordt her
 Elke gemotiveerde beslissing van VDAB over de vrijstelling wordt meegedeeld aan de verplicht ingeschreven werkzoekende en vermeldt onder meer de beroepsmogelijkheid, de bevoegde rechtbank, de termijn waarin en de wijze waarop het beroep moet worden ingesteld.<br>
 <br>
 Als een beroep bij de arbeidsrechtbank wordt ingesteld tegen een beslissing van VDAB, wordt de RVA daarvan op de hoogte gebracht.
+
+### ART 111/43.
+
+§ 1. Om volledig te zijn, moet het dossier alle stukken bevatten die dienstig zijn om een beslissing te nemen over de vrijstelling van beschikbaarheid voor het volgen van een studie, opleiding of stage.<br>
+<br>
+De volgende stukken zijn dienstige stukken als vermeld in het eerste lid:<br>
+1° een behoorlijk ingevuld aanvraagformulier;<br>
+2° een behoorlijk ingevuld en ondertekend attest met gegevens over de studie, opleiding of stage. Dat attest wordt ter beschikking gesteld door de VDAB.<br>
+<br>
+De VDAB registreert de datum van ontvangst van alle stukken die bij de aanvraag zijn toegevoegd op elektronische wijze.<br>
+<br>
+De VDAB gaat na of de ingediende stukken behoorlijk zijn ingevuld en of alle stukken die noodzakelijk zijn om een beslissing te nemen over de vrijstelling van beschikbaarheid voor het volgen van een studie, opleiding of stage, zijn ingediend.<br>
+<br>
+§ 2. Als het dossier onvolledig is, brengt de VDAB de werkzoekende daarvan schriftelijk op de hoogte met de vermelding van alle ontbrekende stukken en inlichtingen.<br>
+<br>
+Het vervolledigde dossier moet behoorlijk aangevuld aan de VDAB bezorgd worden binnen een termijn van vier weken, die ingaat de derde werkdag die volgt op de dag waarop de VDAB de werkzoekende daarvan schriftelijk op de hoogte heeft gebracht.<br>
+<br>
+Als het dossier niet binnen de termijn, vermeld in het tweede lid, is aangevuld of vervolledigd, wordt de aanvraag geannuleerd. De werkzoekende wordt daarvan schriftelijk op de hoogte gebracht.<br>
+<br>
+Als het dossier binnen de termijn, vermeld in het tweede lid, is aangevuld of vervolledigd, wordt het dossier afgewerkt. De werkzoekende wordt schriftelijk op de hoogte gebracht van de beslissing over de vrijstelling van beschikbaarheid voor het volgen van een studie, opleiding of stage.
 
 ## TITEL IV. Slotbepalingen
 
