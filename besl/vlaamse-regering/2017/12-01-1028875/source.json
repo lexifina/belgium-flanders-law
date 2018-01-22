@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028875,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-01 tot ontwikkeling van de onderwijskwalificatie graduaat in de elektromechanische systemen en tot opheffing van het besluit van de Vlaamse Regering van 17 januari 2014 tot erkenning van de onderwijskwalificatie \"graduaat industriële onderhoudstechniek\"",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028875/VolledigDocument?datum=2018-01-22",
+  "source_sha256": "7ed7148af582145a8811ee36ee918fcb164ca66c4dedafdd9c8f84957fe42f1b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028875&param=informatie",
+  "as_of": "2018-01-22",
+  "made": "2017-12-01",
+  "gazette": "2018-01-12",
+  "numac": 2017041001,
+  "document_start": "2018-01-22",
+  "document_end": null,
+  "in_force": "2018-01-22",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2018-01-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
