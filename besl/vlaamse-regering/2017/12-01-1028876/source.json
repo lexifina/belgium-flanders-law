@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028876,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-01 tot ontwikkeling van de onderwijskwalificatie graduaat in de voertuigtechnieken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028876/VolledigDocument?datum=2018-01-22",
+  "source_sha256": "91ae2b81ce28514fff720ddbbd6439f3f16705b076f392371db403073265d0b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028876&param=informatie",
+  "as_of": "2018-01-22",
+  "made": "2017-12-01",
+  "gazette": "2018-01-12",
+  "numac": 2017041002,
+  "document_start": "2018-01-22",
+  "document_end": null,
+  "in_force": "2018-01-22",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-01-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
