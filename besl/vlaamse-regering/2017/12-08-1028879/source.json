@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028879,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-08 tot onderwerping van delen van het grondgebied van de stad Brugge aan landinrichting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028879/VolledigDocument?datum=2018-01-25",
+  "source_sha256": "b23926ad1a97b1ed9cfc7465730b9511bd5ee6d9c73e2882b964108de93b5572",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028879&param=informatie",
+  "as_of": "2018-01-25",
+  "made": "2017-12-08",
+  "gazette": "2018-01-15",
+  "numac": 2017031997,
+  "document_start": "2018-01-25",
+  "document_end": null,
+  "in_force": "2018-01-25",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
