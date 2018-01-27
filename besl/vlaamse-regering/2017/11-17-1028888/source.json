@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028888,
+  "title": "Besluit van de Vlaamse Regering van 2017-11-17 tot wijziging van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg, wat betreft de ladingzekering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028888/VolledigDocument?datum=2018-01-27",
+  "source_sha256": "e887a4545f30ca1390bc010c25e6ce89ee1e56881dadb636477ca52ca6c45864",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028888&param=informatie",
+  "as_of": "2018-01-27",
+  "made": "2017-11-17",
+  "gazette": "2018-01-17",
+  "numac": 2018010118,
+  "document_start": "2018-01-27",
+  "document_end": null,
+  "in_force": "2018-01-27",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-01-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
