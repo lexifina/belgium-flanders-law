@@ -115,7 +115,7 @@ De FOD VVVL neemt de kosten voor de technologische ontwikkeling en onderhoud van
 </table>
 
 <p><br>
-De verschuldigde bedragen (hierboven) worden gestort op de rekening 679-2004206-89 van de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu vóór 1 maart 2014. Het overschot van 2014 wordt niet terug gestort aan de voormelde entiteiten maar wordt overgedragen voor de werking van 2015. Het eventuele overschot van 2015 wordt niet terug gestort aan de voormelde entiteiten maar wordt overgedragen voor de werking van 2016.</p>
+De verschuldigde bedragen (hierboven) worden gestort op de rekening 679-2004206-89 van de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu vóór 1 maart 2014. Het overschot van 2014 wordt niet terug gestort aan de voormelde entiteiten maar wordt overgedragen voor de werking van 2015. Het eventuele overschot van 2015 wordt niet terug gestort aan de voormelde entiteiten maar wordt overgedragen voor de werking van 2016. Het overschot van 2016 wordt niet terug gestort aan de voormelde entiteiten maar wordt overgedragen voor de werking van 2017-2018.</p>
 
 <p>De Interministeriële Conferentie kan steeds beslissen om zowel de bijdrage als de hierboven vermelde verdeelsleutel aan te passen mits unanimiteit van de stemmen.</p>
 
@@ -129,4 +129,4 @@ Vlaamse Gemeenschap : 25%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Waals Gewest : 17.4 %&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.220 €<br>
 GGC : 2.5 %&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;750 €<br>
 COCOF : 4.6 %&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.480 €<br>
-Duitstalige gemeenschap : 0,5 %&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;150 €."</p>
+Duitstalige gemeenschap : 0,5 %&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;150 €.</p>

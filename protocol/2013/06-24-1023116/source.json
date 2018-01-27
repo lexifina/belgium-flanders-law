@@ -2,16 +2,16 @@
   "codex_id": 1023116,
   "title": "Protocol van 2013-06-24 akkoord tussen de Federale Regering en de in artikel 128, 130, 135 en 138 van de Grondwet bedoelde overheden inzake de organisatie en financiering van een nationaal contactpunt grensoverschrijdende gezondheidszorg",
   "type": "Protocol",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023116/VolledigDocument?datum=2016-10-02",
-  "source_sha256": "d16edb31b1c2a022c8f0e33d5fb1605afd0b17996a7a0f274f40b02a1f7c0820",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023116/VolledigDocument?datum=2018-01-27",
+  "source_sha256": "ef06cb471751f5941f83996b83f25dffa51cc008c72251eb7ff503f0e7d35785",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023116&param=informatie",
-  "as_of": "2016-10-02",
+  "as_of": "2018-01-27",
   "made": "2013-06-24",
   "gazette": "2013-07-24",
   "numac": 2013024254,
   "document_start": "2013-08-03",
   "document_end": null,
-  "in_force": "2016-10-02",
+  "in_force": "2018-01-27",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2016-10-02; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-01-27; future article versions excluded; article text as the API gives it"
 }
