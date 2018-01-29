@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028897,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-15 houdende gedeeltelijke herverdeling van de provisies CB0-1CB-B-2-AB-PR en CB0-1CB-X-2-AC-PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2017",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028897/VolledigDocument?datum=2018-01-29",
+  "source_sha256": "cf8d3beb90b8e8a3dfefddd4a5ada7c892db0810c9410128803b700eec003815",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028897&param=informatie",
+  "as_of": "2018-01-29",
+  "made": "2017-12-15",
+  "gazette": "2018-01-19",
+  "numac": 2017032254,
+  "document_start": "2018-01-29",
+  "document_end": null,
+  "in_force": "2018-01-29",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
