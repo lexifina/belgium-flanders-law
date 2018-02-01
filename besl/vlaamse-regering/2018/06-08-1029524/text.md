@@ -16,3 +16,7 @@ Besluit :
 ### ART 1.
 
 Bijlage 1 bij het besluit van de Vlaamse Regering van 8 september 2017 betreffende de onderwijsbevoegdheden per vestigingsplaats van centra voor volwassenenonderwijs wordt vervangen door de bijlage die als bijlage 1 bij dit besluit is gevoegd.
+
+### ART 2.
+
+Bijlage 1 bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 19 januari 2018, wordt vervangen door de bijlage die als bijlage 2 bij dit besluit is gevoegd.
