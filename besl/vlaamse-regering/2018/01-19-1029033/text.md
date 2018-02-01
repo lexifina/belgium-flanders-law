@@ -17,6 +17,28 @@ Besluit :
 
 Bijlage 1 bij het besluit van de Vlaamse Regering van 8 september 2017 betreffende de onderwijsbevoegdheden per vestigingsplaats van centra voor volwassenenonderwijs wordt vervangen door de bijlage die als bijlage 1 bij dit besluit is gevoegd.
 
+### ART 2.
+
+Bijlage 1 bij hetzelfde besluit wordt vervangen door de bijlage die als bijlage 2 bij dit besluit is gevoegd.
+
 ### ART 3.
 
 In bijlage 3 bij hetzelfde besluit wordt het woord "Vakbondswerk" telkens vervangen door de woorden "Syndicaal werk".
+
+### ART 4.
+
+Dit besluit treedt in werking op 1 februari 2018.<br>
+<br>
+Artikel 1 en 3 hebben uitwerking met ingang van 1 september 2017.
+
+### ART 5.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/02/20_2.pdf#page=73">Bijlage 1</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/02/20_2.pdf#page=158">Bijlage 2</a>
