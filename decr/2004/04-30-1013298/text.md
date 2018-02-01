@@ -20,7 +20,7 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 9° het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt;<br>
 10° de verordening (EU) Nr. 1303/2013 van het Europees Parlement en de Raad van 17 december 2013 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds, het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Fonds voor maritieme zaken en visserij en algemene bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds en het Europees Fonds voor maritieme zaken en visserij, en tot intrekking van Verordening (EG) nr. 1083/2006 van de Raad;<br>
 11° de verordening (EU) Nr. 1304/2013 van het Europees Parlement en de Raad van 17 december 2013 betreffende het Europees Sociaal Fonds en tot intrekking van Verordening (EG) nr. 1081/2006 van de Raad;<br>
-12° de verordening (EU) Nr. 1309/2013 van het Europees Parlement en de Raad van 17 december 2013 betreffende het Europees fonds voor aanpassing aan de globalisering (2014-2020) en tot intrekking van Verordening (EG) nr. 1927/2006;<br>
+12° de verordening (EU) Nr. 1309/2013 van het Europees Parlement en de Raad van 17 december 2013 betreffende het Europees fonds voor aanpassing aan de globalisering (2014-2020) en tot intrekking van Verordening (EG) nr. 1927/2006;;<br>
 13° de Verordening (EG) nr. 1828/2006 van de Commissie van 8 december 2006 tot vaststelling van uitvoeringsbepalingen van Verordening (EG) nr. 1083/2006 van de Raad houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds, en van de Verordening (EG) nr. 1080/2006 van het Europees Parlement en de Raad betreffende het Europees Fonds voor Regionale Ontwikkeling;<br>
 14° het decreet van 17 januari 2003 houdende instemming met het samenwerkingsakkoord van 7 december 2001 tussen de federale staat, de gewesten en de Duitstalige gemeenschap betreffende de ontwikkeling van buurtdiensten en -banen;<br>
 15° het decreet van 19 december 2003 houdende de bepalingen tot begeleiding van de begroting, inzonderheid artikel 102;<br>
@@ -43,8 +43,9 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 32° het besluit van de Vlaamse Regering van 1 maart 2002 houdende hervorming van het stelsel van de aanmoedigingspremies in de privésector;<br>
 33° het besluit van de Vlaamse Regering van 3 mei 2002 tot instelling van de aanmoedigingspremies in de Vlaamse private sociale profitsector;<br>
 34° het besluit van de Vlaamse Regering van 8 september 2000 houdende een impuls- en ondersteuningsprogramma van de meerwaardeneconomie;<br>
-35° het decreet van 13 maart 2009 betreffende de sectorconvenants in het raam van het Vlaams Werkgelegenheidsbeleid.<br>
-37° het hoofdstuk IV, afdeling 5 en afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, met uitzondering van de bepalingen van artikel 113, 115, 118 en 119;<br>
+35° het decreet van 13 maart 2009 betreffende de sectorconvenants in het raam van het Vlaams Werkgelegenheidsbeleid;<br>
+36° het decreet van 25 april 2014 houdende de werk- en zorgtrajecten;<br>
+37° het hoofdstuk IV, afdeling 5 en afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, met uitzondering van de bepalingen van artikel 113,&nbsp;115, 118 en 119;<br>
 38° de wet van 19 juli 1983 op het leerlingwezen voor beroepen uitgeoefend door werknemers in loondienst;<br>
 39° hoofdstukken V en VII van de wet van 5 september 2001 tot de verbetering van de werkgelegenheidsgraad van de werknemers;<br>
 40° het Wijk-werkendecreet van 7 juli 2017;<br>
