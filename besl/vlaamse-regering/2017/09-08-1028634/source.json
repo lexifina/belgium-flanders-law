@@ -2,16 +2,16 @@
   "codex_id": 1028634,
   "title": "Besluit van de Vlaamse Regering van 2017-09-08 betreffende de onderwijsbevoegdheden per vestigingsplaats van centra voor volwassenenonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028634/VolledigDocument?datum=2017-09-01",
-  "source_sha256": "153e91afc1b66a3118a58567bb42ba0751f770d15e1f61256e769cb090047d1b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028634/VolledigDocument?datum=2018-02-01",
+  "source_sha256": "05b34afaffb26f8017f8bbfbec86075e4ae3a0135d4b72b0183e8f96e6a4abe6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028634&param=informatie",
-  "as_of": "2017-09-01",
+  "as_of": "2018-02-01",
   "made": "2017-09-08",
   "gazette": "2017-10-06",
   "numac": 2017031265,
   "document_start": "2017-09-01",
   "document_end": null,
-  "in_force": "2017-09-01",
+  "in_force": "2018-02-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2017-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-02-01; future article versions excluded; article text as the API gives it"
 }
