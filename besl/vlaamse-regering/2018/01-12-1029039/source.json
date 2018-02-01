@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029039,
+  "title": "Besluit van de Vlaamse Regering van 2018-01-12 tot vaststelling van de projecten die in aanmerking komen tot deelname aan de proefomgeving voor experimentele woonvormen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029039/VolledigDocument?datum=2018-02-01",
+  "source_sha256": "552a7b5c3171ff45567036532930a3481b3beae8ac266e52906befde20442d7a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029039&param=informatie",
+  "as_of": "2018-02-01",
+  "made": "2018-01-12",
+  "gazette": "2018-02-21",
+  "numac": 2018030406,
+  "document_start": "2018-02-01",
+  "document_end": null,
+  "in_force": "2018-02-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2018-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
