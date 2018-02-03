@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028962,
+  "title": "Besluit van de Vlaamse Regering van 2018-01-12 tot wijziging van artikel 32bis van het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto's, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028962/VolledigDocument?datum=2018-02-03",
+  "source_sha256": "67b005f6c4310eb44b0731cc8745604998d1689c7a101cd4e50e7ba89d0bdc08",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028962&param=informatie",
+  "as_of": "2018-02-03",
+  "made": "2018-01-12",
+  "gazette": "2018-02-02",
+  "numac": 2018010360,
+  "document_start": "2018-02-03",
+  "document_end": null,
+  "in_force": "2018-02-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-02-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
