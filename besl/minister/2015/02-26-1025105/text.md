@@ -24,7 +24,9 @@ Besluit :
 
 ### ART. 1.
 
-<P>De kennisgeving, verzending of opvraging op digitale wijze,   vermeld in artikel 3 van het besluit van de Vlaamse Regering van 30 januari 2015   houdende de vaststelling van de wijze van communicatie in het kader van het   bestuurlijk toezicht op de lokale overheid, de provincieoverheid en de   intergemeentelijke overheid, met uitzondering van de kennisgeving, verzending of   opvraging tussen de eengemeentezone of de meergemeentezone, vermeld in de wet   van 7 december 1998 tot organisatie van een geïntegreerde politiedienst,   gestructureerd op twee niveaus, en de toezichthoudende overheid, gebeuren door   gebruik te maken van het digitaal loket.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   digitaal loket, vermeld in het eerste lid, is beschikbaar op de website van het   Agentschap Binnenlands Bestuur.</P>
+<p>De kennisgeving, verzending of opvraging op digitale wijze, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 30 januari 2015 houdende de vaststelling van de wijze van communicatie in het kader van het bestuurlijk toezicht op de lokale overheid, de provincieoverheid en de intergemeentelijke overheid, en de toezichthoudende overheid, verlopen via het digitaal loket.</p>
+
+<p>Het digitaal loket, vermeld in het eerste lid, is beschikbaar op de website van het Agentschap Binnenlands Bestuur.</p>
 
 ### ART. 2.
 
@@ -32,7 +34,9 @@ Het digitaal loket waarborgt de registratie en   raadpleegbaarheid van het tijds
 
 ### ART. 3.
 
-De authenticatie en autorisatie van de gebruikers van het   digitaal loket verlopen op de volgende manier:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de gemeente, het district en de provincie verlenen personen het recht om het   digitaal loket namens de desbetreffende overheid te gebruiken in de toepassing   gebruikersbeheer lokale besturen van de Vlaamse overheid;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het autonoom gemeente- en provinciebedrijf, het Openbaar Centrum voor   Maatschappelijk Welzijn, de vereniging, vermeld in titel VIII, hoofdstuk I, van   het decreet van 19 december 2008 betreffende de organisatie van de openbare   centra voor maatschappelijk welzijn, en het intergemeentelijk   samenwerkingsverband verlenen personen het recht om het digitaal loket namens de   desbetreffende overheid te gebruiken in de toepassing gebruikersbeheer partners   Vlaamse overheid van de Vlaamse overheid;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de toezichthoudende overheid maakt gebruik van het digitaal loket, waarbij de   vereiste veiligheidsmaatregelen worden gewaarborgd.
+De authenticatie en autorisatie van de gebruikers van het digitaal loket verlopen op de volgende manier:<br>
+1° de gemeente, het district, de provincie, het autonoom gemeente- en provinciebedrijf, het openbaar centrum voor maatschappelijk welzijn, de vereniging, vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, het intergemeentelijk samenwerkingsverband, de meergemeentezone, ingesteld door de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, en de hulpverleningszone, ingesteld met toepassing van de wet van 15 mei 2007 betreffende de civiele veiligheid, verlenen personen het recht om het digitaal loket namens de desbetreffende overheid te gebruiken in de toepassing gebruikersbeheer van de Vlaamse overheid;<br>
+2° de toezichthoudende overheid maakt gebruik van het digitaal loket, waarbij de vereiste veiligheidsmaatregelen worden gewaarborgd.
 
 ### ART. 4.
 
