@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028929,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-15 houdende wijziging van het Energiebesluit van 19 november 2010, wat betreft verlengingsaanvragen voor groenestroomcertificaten en overige wijzigingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028929/VolledigDocument?datum=2018-02-05",
+  "source_sha256": "24a9cd4cc5ad7661b884c4e02733c9109943425ee86054783fc5e9d09daf3350",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028929&param=informatie",
+  "as_of": "2018-02-05",
+  "made": "2017-12-15",
+  "gazette": "2018-01-26",
+  "numac": 2018010168,
+  "document_start": "2018-02-05",
+  "document_end": null,
+  "in_force": "2018-02-05",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2018-02-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
