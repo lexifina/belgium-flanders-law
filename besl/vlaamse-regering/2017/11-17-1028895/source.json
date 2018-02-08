@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028895,
+  "title": "Besluit van de Vlaamse Regering van 2017-11-17 tot wijziging van het koninklijk besluit van 24 september 2006 houdende vaststelling van het algemeen politiereglement voor de scheepvaart op de binnenwateren van het Koninkrijk en van het koninklijk besluit van 19 maart 2009 betreffende de technische voorschriften voor binnenschepen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028895/VolledigDocument?datum=2018-02-08",
+  "source_sha256": "799992221a22f4320344dc03bb5d01b2f67b678d07f58ed78228f625d13228ca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028895&param=informatie",
+  "as_of": "2018-02-08",
+  "made": "2017-11-17",
+  "gazette": "2018-01-19",
+  "numac": 2017032100,
+  "document_start": "2018-02-08",
+  "document_end": null,
+  "in_force": "2018-02-08",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2018-02-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
