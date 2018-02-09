@@ -2,16 +2,16 @@
   "codex_id": 1001053,
   "title": "Besluit van de Vlaamse Regering van 1993-03-24 [tot vaststelling van de modaliteiten voor de subsidiëring van de aankoop van apparatuur voor geluidsmetingen door provinciebesturen, gemeentebesturen en politiezones]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001053/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "450c8234c7d6ca0070b49406320c862f5ead6d61f5b945b581baedbeeebf3686",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001053/VolledigDocument?datum=2018-02-09",
+  "source_sha256": "219b761eeadac5d5c11d90d7a2bc3375cb2bc81693501f4f8a918c4a80212a30",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001053&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2018-02-09",
   "made": "1993-03-24",
   "gazette": "1993-08-21",
   "numac": 1993035910,
   "document_start": null,
   "document_end": null,
-  "in_force": "2017-04-01",
+  "in_force": "2018-02-09",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-02-09; future article versions excluded; article text as the API gives it"
 }
