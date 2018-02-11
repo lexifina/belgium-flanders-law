@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028954,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-22 tot vrijstelling van de voorwaarde om een Nederlandstalige equivalente opleiding aan te bieden voor de Master of Biomedical Sciences",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028954/VolledigDocument?datum=2018-02-11",
+  "source_sha256": "a41355f9b91b48b897ec05c3d4cf0163ce869785b44426ea592fbb776f277830",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028954&param=informatie",
+  "as_of": "2018-02-11",
+  "made": "2017-12-22",
+  "gazette": "2018-02-01",
+  "numac": 2018010362,
+  "document_start": "2018-02-11",
+  "document_end": null,
+  "in_force": "2018-02-11",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-02-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
