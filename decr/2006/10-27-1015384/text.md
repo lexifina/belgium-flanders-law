@@ -16,7 +16,65 @@ Dit decreet wordt aangehaald als: Bodemdecreet van 27 oktober   2006.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<BR>1° bodem : vaste deel van de   aarde met inbegrip van het grondwater, en de andere bestanddelen en organismen   die er zich in bevinden;<BR>2° waterbodem : waterbodem, zoals gedefinieerd in   het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<BR>3° OVAM :   Openbare Vlaamse Afvalstoffenmaatschappij;<BR>4° bodemverontreiniging :   aanwezigheid van stoffen of organismen, veroorzaakt door menselijke   activiteiten, op of in de bodem of opstallen, die de kwaliteit van de bodem op   rechtstreekse of onrechtstreekse wijze nadelig beïnvloeden of kunnen   beïnvloeden;<BR>5° ernstige bodemverontreiniging : bodemverontreiniging die een   risico oplevert of kan opleveren tot nadelige beïnvloeding van mens of   milieu.<BR>Bij de evaluatie van de ernst van de bodemverontreiniging wordt in   concreto rekening gehouden met :<BR>a) de kenmerken, functies, bestemmingen en   eigenschappen van de bodem;<BR>b) de aard en de concentratie van de   verontreinigingsfactoren;<BR>c) de mogelijkheid op verspreiding van de   verontreinigingsfactoren;<BR>6° nieuwe bodemverontreiniging :   bodemverontreiniging die tot stand gekomen is na 28 oktober 1995;<BR>7°   historische bodemverontreiniging : bodemverontreiniging die tot stand gekomen is   voor 29 oktober 1995;<BR>8° gemengde bodemverontreiniging : bodemverontreiniging   die tot stand gekomen is gedeeltelijk voor 29 oktober 1995 en gedeeltelijk na 28   oktober 1995;<BR>9° grond : de bodem of de opstallen die zich op of in de bodem   bevinden, met uitzondering van de opstallen die door de Vlaamse Regering worden   bepaald;<BR>10° verontreinigde gronden : gronden waar de bodemverontreiniging   tot stand kwam en gronden waar de verontreinigende stoffen of organismen zich   hebben verspreid of waar de bodemverontreiniging schadelijke gevolgen   heeft;<BR>11° grond waar de bodemverontreiniging tot stand kwam : grond waar een   emissie plaatsvindt of heeft plaatsgevonden die rechtstreeks of onrechtstreeks   de bodem heeft verontreinigd;<BR>12° emissie : elke inbreng door de mens van   verontreinigingsfactoren in de atmosfeer, de bodem of het water;<BR>13°   risicogrond : grond waarop een risico-inrichting gevestigd is of was;<BR>14°   risico-inrichtingen : fabrieken, werkplaatsen, opslagplaatsen, machines,   installaties, toestellen en handelingen die een verhoogd risico op   bodemverontreiniging kunnen inhouden en die voorkomen op een lijst die de   Vlaamse Regering opstelt;<BR>15° site : verzameling van verontreinigde gronden   of potentieel verontreinigde gronden, vastgesteld krachtens dit decreet;<BR>16°   ...;<BR>17° gebruiker :<BR>a) natuurlijke of rechtspersoon die titularis is van   een zakelijk of persoonlijk recht op een grond, met uitzondering van de   eigenaar;<BR>b) vereniging van mede-eigenaars in het kader van een onroerend   geheel dat valt onder het stelsel van gedwongen mede-eigendom, vermeld in   artikel 577-3 van het Burgerlijk Wetboek.<BR>18° overdracht van gronden :<BR>a)   de overdracht onder levenden van het eigendomsrecht op een grond;<BR>b) het   vestigen onder levenden van een recht van vruchtgebruik, een erfpacht of een   opstalrecht op een grond, alsmede het onder de levenden beëindigen van deze op   voormelde wijze gevestigde rechten;<BR>c) het aangaan of het beëindigen van een   concessie op een grond;<BR>d) de overdracht van het eigendomsrecht op een grond   en de beëindiging van een recht als vermeld in b) of c), ingevolge de ontbinding   van een rechtspersoon;<BR>e) de overdracht onder levenden van een recht als   vermeld in b) of c) ;<BR>f) de fusie van rechtspersonen, de splitsing van   rechtspersonen en de met fusie of splitsing gelijkgestelde verrichtingen waarbij   de rechtspersoon of de rechtspersonen waarvan het vermogen zal overgaan eigenaar   is van grond of houder is van een recht als vermeld in b) of c) ;<BR>g) de   inbreng of de overdracht van een algemeenheid of een bedrijfstak, voor zover   daartoe een recht als vermeld in a), b) of c), behoort;<BR>h) het opstellen van   de statuten van het gebouw als vermeld in artikel 577-4 van het Burgerlijk   Wetboek, alsmede het acteren van de instemming van de mede-eigenaars met de   afwijking zoals bedoeld in artikel 577-3, eerste lid, van het Burgerlijk Wetboek   bij eenzijdige wilsuiting.<BR>In afwijking van de voorgaande bepalingen worden   niet beschouwd als een overdracht van gronden :<BR>a) de inbreng in een   gemeenschappelijk huwelijksvermogen van een recht, als vermeld in het eerste   lid, a), b) of c) ;<BR>b) de rechtshandelingen en rechtsfeiten, vermeld in het   eerste lid, met betrekking tot nutsleidingen, en de rechtshandelingen en   rechtsfeiten, vermeld in het eerste lid, met betrekking tot aanhorigheden van   nutsleidingen, voor zover in die aanhorigheden geen risico-inrichting gevestigd   is of was;<BR>c) de overdracht, het vestigen of het aangaan van een recht als   vermeld in het eerste lid, met betrekking tot een grond uitsluitend voor het   oprichten of het gebruik van een opstal die voor de toepassing van dit decreet   niet beschouwd wordt als grond in de zin van artikel 2, 9°, en het beëindigen   van een recht als vermeld in het eerste lid, met betrekking tot een grond waarop   in het kader van dat recht uitsluitend een opstal gevestigd is of was die voor   de toepassing van dit decreet niet beschouwd wordt als grond in de zin van   artikel 2, 9°;<BR>d) de onteigening van gronden; <BR>19° overeenkomsten   betreffende de overdracht van gronden : alle overeenkomsten die een overdracht   van grond in de zin van 18° tot voorwerp hebben, evenals :<BR>a) de inbreng in   een rechtspersoon van een recht als vermeld in 18°, eerste lid, a), b) of c)   ;<BR>b) het fusievoorstel en splitsingsvoorstel waarbij de rechtspersoon of de   rechtspersonen waarvan het vermogen zal overgaan, eigenaar is van grond of   houder is van een recht als vermeld in 18°, eerste lid, b) of c) ;<BR>c) het   voorstel van inbreng of overdracht van algemeenheid of van inbreng of overdracht   van een bedrijfstak, voor zover daartoe een recht als vermeld in 18°, eerste   lid, a), b) of c), behoort;<BR>d) het opstellen van de statuten van het gebouw   als vermeld in artikel 577-4 van het Burgerlijk Wetboek, alsmede het acteren van   de instemming van de mede-eigenaars met de afwijking zoals bedoeld in artikel   577-3, eerste lid, van het Burgerlijk Wetboek bij eenzijdige wilsuiting;<BR>20°   behandelen van bodemverontreiniging : wegnemen, neutraliseren, immobiliseren,   isoleren of afschermen van de bodemverontreiniging;<BR>21° bodemsanering :   behandelen van bodemverontreiniging door :<BR>a) het opstellen van een   bodemsaneringsproject of een beperkt bodemsaneringsproject;<BR>b) het uitvoeren   van bodemsaneringswerken;<BR>c) het uitvoeren van een   eindevaluatieonderzoek;<BR>22° bodemsaneringswerken : werken ter uitvoering van   een bodemsaneringsproject of van een beperkt   bodemsaneringsproject;<BR>23°...;<BR>24° voorzorgsmaatregelen : maatregelen om   mens of milieu tijdelijk te beschermen tegen de risico's van de   bodemverontreiniging in afwachting van bodemsaneringswerken;<BR>25° nazorg :   maatregelen van bewaking, controle en zo nodig herstel om de mens of het milieu   te blijven beschermen tegen de risico's van bodemverontreiniging na   bodemsanering;<BR>26° schadegeval : onvoorziene gebeurtenis die aanleiding geeft   tot bodemverontreiniging;<BR>27° rechtsvoorganger : rechtspersoon die   rechtstreeks of onrechtstreeks verbonden is met een andere rechtspersoon door   wettelijke rechtsopvolging, via fusie, splitsing, met fusie of splitsing   gelijkgestelde verrichtingen, inbreng of overdracht van een algemeenheid,   inbreng of overdracht van een bedrijfstak, of enige gelijkaardige   rechtsfiguur;<BR>28° gemandateerde : diegene die op grond van een lastgeving of   een gerechtelijke beslissing bevoegd is om handelingen te stellen met betrekking   tot het onroerend vermogen van de aangewezen persoon;<BR>29° code van goede   praktijk : door de OVAM aanvaarde en voor het publiek toegankelijke geschreven   regels met betrekking tot de activiteiten en maatregelen vermeld in dit   decreet;<BR>30° bodemsaneringsdeskundige : onafhankelijke deskundige erkend door   de Vlaamse Regering.<BR>31° ...;<BR>32° vermengde bodemverontreiniging: de   bodemverontreiniging waarvoor verschillende personen als saneringsplichtige   werden aangewezen, en waarbij niet exact kan worden bepaald voor welk deel van   de bodemverontreiniging elke plichtige saneringsplichtig is, of waarbij dat wel   kan worden bepaald, maar het niet mogelijk is om door het gebruik van de beste   beschikbare technieken die geen overmatig hoge kosten met zich meebrengen, voor   elk deel van de bodemverontreiniging een afzonderlijk beschrijvend   bodemonderzoek of een afzonderlijke bodemsanering uit te voeren.
+In dit decreet wordt verstaan onder :<br>
+1° bodem : vaste deel van de aarde met inbegrip van het grondwater, en de andere bestanddelen en organismen die er zich in bevinden;<br>
+2° waterbodem : waterbodem, zoals gedefinieerd in het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
+3° OVAM : Openbare Vlaamse Afvalstoffenmaatschappij;<br>
+4° bodemverontreiniging : aanwezigheid van stoffen of organismen, veroorzaakt door menselijke activiteiten, op of in de bodem of opstallen, die de kwaliteit van de bodem op rechtstreekse of onrechtstreekse wijze nadelig beïnvloeden of kunnen beïnvloeden;<br>
+5° ernstige bodemverontreiniging : bodemverontreiniging die een risico oplevert of kan opleveren tot nadelige beïnvloeding van mens of milieu.<br>
+Bij de evaluatie van de ernst van de bodemverontreiniging wordt in concreto rekening gehouden met :<br>
+a) de kenmerken, functies, bestemmingen en eigenschappen van de bodem;<br>
+b) de aard en de concentratie van de verontreinigingsfactoren;<br>
+c) de mogelijkheid op verspreiding van de verontreinigingsfactoren;<br>
+6° nieuwe bodemverontreiniging : bodemverontreiniging die tot stand gekomen is na 28 oktober 1995;<br>
+7° historische bodemverontreiniging : bodemverontreiniging die tot stand gekomen is voor 29 oktober 1995;<br>
+8° gemengde bodemverontreiniging : bodemverontreiniging die tot stand gekomen is gedeeltelijk voor 29 oktober 1995 en gedeeltelijk na 28 oktober 1995;<br>
+9° grond : de bodem of de opstallen die zich op of in de bodem bevinden, met uitzondering van de opstallen die door de Vlaamse Regering worden bepaald;<br>
+10° verontreinigde gronden : gronden waar de bodemverontreiniging tot stand kwam en gronden waar de verontreinigende stoffen of organismen zich hebben verspreid of waar de bodemverontreiniging schadelijke gevolgen heeft;<br>
+11° grond waar de bodemverontreiniging tot stand kwam : grond waar een emissie plaatsvindt of heeft plaatsgevonden die rechtstreeks of onrechtstreeks de bodem heeft verontreinigd;<br>
+12° emissie : elke inbreng door de mens van verontreinigingsfactoren in de atmosfeer, de bodem of het water;<br>
+13° risicogrond : grond waarop een risico-inrichting gevestigd is of was;<br>
+14° risico-inrichtingen : fabrieken, werkplaatsen, opslagplaatsen, machines, installaties, toestellen en handelingen die een verhoogd risico op bodemverontreiniging kunnen inhouden en die voorkomen op een lijst die de Vlaamse Regering opstelt;<br>
+15° site : verzameling van verontreinigde gronden of potentieel verontreinigde gronden, vastgesteld krachtens dit decreet;<br>
+16° ...;<br>
+17° gebruiker :<br>
+a) natuurlijke of rechtspersoon die titularis is van een zakelijk of persoonlijk recht op een grond, met uitzondering van de eigenaar;<br>
+b) vereniging van mede-eigenaars in het kader van een onroerend geheel dat valt onder het stelsel van gedwongen mede-eigendom, vermeld in artikel 577-3 van het Burgerlijk Wetboek.<br>
+18° overdracht van gronden :<br>
+a) de overdracht onder levenden van het eigendomsrecht op een grond;<br>
+b) het vestigen onder levenden van een recht van vruchtgebruik, een erfpacht of een opstalrecht op een grond, alsmede het onder de levenden beëindigen van deze op voormelde wijze gevestigde rechten;<br>
+c) het aangaan of het beëindigen van een concessie op een grond;<br>
+d) de overdracht van het eigendomsrecht op een grond en de beëindiging van een recht als vermeld in b) of c), ingevolge de ontbinding van een rechtspersoon;<br>
+e) de overdracht onder levenden van een recht als vermeld in b) of c) ;<br>
+f) de fusie van rechtspersonen, de splitsing van rechtspersonen en de met fusie of splitsing gelijkgestelde verrichtingen waarbij de rechtspersoon of de rechtspersonen waarvan het vermogen zal overgaan eigenaar is van grond of houder is van een recht als vermeld in b) of c) ;<br>
+g) de inbreng of de overdracht van een algemeenheid of een bedrijfstak, voor zover daartoe een recht als vermeld in a), b) of c), behoort;<br>
+h) het opstellen van de statuten van het gebouw als vermeld in artikel 577-4 van het Burgerlijk Wetboek, alsmede het acteren van de instemming van de mede-eigenaars met de afwijking zoals bedoeld in artikel 577-3, eerste lid, van het Burgerlijk Wetboek bij eenzijdige wilsuiting.<br>
+In afwijking van de voorgaande bepalingen worden niet beschouwd als een overdracht van gronden :<br>
+a) de inbreng in een gemeenschappelijk huwelijksvermogen van een recht, als vermeld in het eerste lid, a), b) of c) ;<br>
+b) de rechtshandelingen en rechtsfeiten, vermeld in het eerste lid, met betrekking tot nutsleidingen, en de rechtshandelingen en rechtsfeiten, vermeld in het eerste lid, met betrekking tot aanhorigheden van nutsleidingen, voor zover in die aanhorigheden geen risico-inrichting gevestigd is of was;<br>
+c) de overdracht, het vestigen of het aangaan van een recht als vermeld in het eerste lid, met betrekking tot een grond uitsluitend voor het oprichten of het gebruik van een opstal die voor de toepassing van dit decreet niet beschouwd wordt als grond in de zin van artikel 2, 9°, en het beëindigen van een recht als vermeld in het eerste lid, met betrekking tot een grond waarop in het kader van dat recht uitsluitend een opstal gevestigd is of was die voor de toepassing van dit decreet niet beschouwd wordt als grond in de zin van artikel 2, 9°;<br>
+d) de onteigening van gronden;<br>
+19° overeenkomsten betreffende de overdracht van gronden : alle overeenkomsten die een overdracht van grond in de zin van 18° tot voorwerp hebben, evenals :<br>
+a) de inbreng in een rechtspersoon van een recht als vermeld in 18°, eerste lid, a), b) of c) ;<br>
+b) het fusievoorstel en splitsingsvoorstel waarbij de rechtspersoon of de rechtspersonen waarvan het vermogen zal overgaan, eigenaar is van grond of houder is van een recht als vermeld in 18°, eerste lid, b) of c) ;<br>
+c) het voorstel van inbreng of overdracht van algemeenheid of van inbreng of overdracht van een bedrijfstak, voor zover daartoe een recht als vermeld in 18°, eerste lid, a), b) of c), behoort;<br>
+d) het opstellen van de statuten van het gebouw als vermeld in artikel 577-4 van het Burgerlijk Wetboek, alsmede het acteren van de instemming van de mede-eigenaars met de afwijking zoals bedoeld in artikel 577-3, eerste lid, van het Burgerlijk Wetboek bij eenzijdige wilsuiting;<br>
+20° behandelen van bodemverontreiniging : wegnemen, neutraliseren, immobiliseren, isoleren of afschermen van de bodemverontreiniging;<br>
+21° bodemsanering : behandelen van bodemverontreiniging door :<br>
+a) het opstellen van een bodemsaneringsproject of een beperkt bodemsaneringsproject;<br>
+b) het uitvoeren van bodemsaneringswerken;<br>
+c) het uitvoeren van een eindevaluatieonderzoek;<br>
+22° bodemsaneringswerken : werken ter uitvoering van een bodemsaneringsproject of van een beperkt bodemsaneringsproject;<br>
+23°...;<br>
+24° voorzorgsmaatregelen : maatregelen om mens of milieu tijdelijk te beschermen tegen de risico's van de bodemverontreiniging in afwachting van bodemsaneringswerken;<br>
+25° nazorg : maatregelen van bewaking, controle en zo nodig herstel om de mens of het milieu te blijven beschermen tegen de risico's van bodemverontreiniging na bodemsanering;<br>
+26° schadegeval : onvoorziene gebeurtenis die aanleiding geeft tot bodemverontreiniging;<br>
+27° rechtsvoorganger : rechtspersoon die rechtstreeks of onrechtstreeks verbonden is met een andere rechtspersoon door wettelijke rechtsopvolging, via fusie, splitsing, met fusie of splitsing gelijkgestelde verrichtingen, inbreng of overdracht van een algemeenheid, inbreng of overdracht van een bedrijfstak, of enige gelijkaardige rechtsfiguur;<br>
+28° gemandateerde : diegene die op grond van een lastgeving of een gerechtelijke beslissing bevoegd is om handelingen te stellen met betrekking tot het onroerend vermogen van de aangewezen persoon;<br>
+29° code van goede praktijk : door de OVAM aanvaarde en voor het publiek toegankelijke geschreven regels met betrekking tot de activiteiten en maatregelen vermeld in dit decreet;<br>
+30° bodemsaneringsdeskundige : onafhankelijke deskundige erkend met toepassing van titel V, hoofdstuk 6, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
+31° ...;<br>
+32° vermengde bodemverontreiniging: de bodemverontreiniging waarvoor verschillende personen als saneringsplichtige werden aangewezen, en waarbij niet exact kan worden bepaald voor welk deel van de bodemverontreiniging elke plichtige saneringsplichtig is, of waarbij dat wel kan worden bepaald, maar het niet mogelijk is om door het gebruik van de beste beschikbare technieken die geen overmatig hoge kosten met zich meebrengen, voor elk deel van de bodemverontreiniging een afzonderlijk beschrijvend bodemonderzoek of een afzonderlijke bodemsanering uit te voeren.
 
 ## HOOFDSTUK II Doelstellingen
 
@@ -58,9 +116,19 @@ De Vlaamse Regering stelt een lijst vast van risicoinrichtingen.<br /><br />
 
 ### ART. 8.
 
-Op de erkenning als bodemsaneringsdeskundige zijn de bepalingen van hoofdstuk IIIbis van het decreet van 28 juni 1985 betreffende de milieuvergunning van toepassing.<br /><br />De OVAM is erkend als bodemsaneringsdeskundige. De Vlaamse Instelling voor Technologisch Onderzoek is erkend als bodemsaneringsdeskundige voor de taken die ze in opdracht van de OVAM uitvoert in het kader van dit decreet. De bepalingen van hoofdstuk IIIbis van het decreet van 28 juni 1985 betreffende de milieuvergunning zijn niet van toepassing op de erkenning van de OVAM en de VITO.
+Op de erkenning als bodemsaneringsdeskundige zijn de bepalingen van titel V, hoofdstuk 6, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid van toepassing.<br>
+<br>
+De OVAM is erkend als bodemsaneringsdeskundige. De Vlaamse Instelling voor Technologisch Onderzoek is erkend als bodemsaneringsdeskundige voor de taken die ze in opdracht van de OVAM uitvoert in het kader van dit decreet. De bepalingen van titel V, hoofdstuk 6, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid zijn niet van toepassing op de erkenning van de OVAM en de VITO.
 
 ## [Afdeling II Kwaliteitsborging (ing. decr. 8 december 2017, art. 7, I: 12 februari 2018)]
+
+### ART 8bis.
+
+De erkende bodemsaneringsdeskundige verleent zijn medewerking aan audits die de OVAM organiseert in de kantoren van de bodemsaneringsdeskundige, op het te onderzoeken terrein of op een plaats die de OVAM bepaalt. De OVAM stelt een verslag op van de uitgevoerde audit. De audits hebben tot doel het kwaliteitssysteem dat de bodemsaneringsdeskundige hanteert bij de uitvoering van zijn taken als bodemsaneringsdeskundige, te toetsen door periodiek het volledige proces van opdrachtinitiatie tot aflevering van het eindproduct door te lichten.<br>
+<br>
+De bodemsaneringsdeskundige geeft op verzoek van de OVAM het nodige gevolg aan het auditverslag en legt in voorkomend geval een plan van aanpak met corrigerende maatregelen en termijnen van uitvoering voor aan de OVAM ter goedkeuring. De bodemsaneringsdeskundige voert de corrigerende maatregelen uit binnen de termijn die vastgelegd is in het goedgekeurde plan van aanpak.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen over de uitvoering van de audit, het auditverslag, de corrigerende maatregelen en het plan van aanpak.
 
 ## HOOFDSTUK III Verplichting om het beschrijvend bodemonderzoek en de bodemsanering uit te voeren en te (pre)financieren
 
@@ -150,7 +218,16 @@ De bepalingen van dit decreet doen geen afbreuk aan de andere rechten, die de pe
 
 ### ART. 22.
 
-<P>Als de OVAM van oordeel is dat een historische bodemverontreiniging als   vermeld in artikel 19, aan een beschrijvend bodemonderzoek of prioritair aan   bodemsanering moet worden onderworpen, maant de OVAM de volgende persoon aan tot   uitvoering ervan:<BR>1° als op de grond waar de bodemverontreiniging tot stand   is gekomen, een inrichting of activiteit gevestigd is die vergunnings- of   meldingsplichtig is krachtens titel V van het decreet van 5 april 1995 houdende   algemene bepalingen inzake milieubeleid: de exploitant vermeld in titel V;<BR>2°   bij gebrek aan een exploitant, of als de exploitant vrijgesteld is van de   verplichting met toepassing van artikel 23, § 1: de gebruiker van de grond waar   de verontreiniging tot stand is gekomen. Als de exploitant vrijgesteld is van de   saneringsplicht voor een deel van de bodemverontreiniging, rust de   saneringsplicht van de gebruiker op dat deel van de bodemverontreiniging;<BR>3°   bij gebrek aan een exploitant en gebruiker, of als de exploitant en gebruiker   vrijgesteld zijn van de verplichting met toepassing van artikel 23, § 1: de   eigenaar van de grond waar de verontreiniging tot stand is gekomen. Als de   exploitant en de gebruiker vrijgesteld zijn van de saneringsplicht voor een deel   van de bodemverontreiniging, rust de saneringsplicht van de eigenaar op dat deel   van de bodemverontreiniging.<BR><BR>De OVAM kan de termijn bepalen waarin het   beschrijvend bodemonderzoek wordt uitgevoerd en het bodemsaneringsproject wordt   opgesteld, en waarin het verslag van het beschrijvend bodemonderzoek en het   bodemsaneringsproject aan haar wordt bezorgd.<BR><BR>Alle belanghebbenden kunnen   tegen de beslissing van de OVAM, vermeld in het eerste en tweede lid, beroep   indienen bij de Vlaamse Regering conform artikel 153 tot en met   155.</P>
+<p>Als de OVAM van oordeel is dat een historische bodemverontreiniging als vermeld in artikel 19, aan een beschrijvend bodemonderzoek of prioritair aan bodemsanering moet worden onderworpen, maant de OVAM de volgende persoon aan tot uitvoering ervan:<br>
+1° als op de grond waar de bodemverontreiniging tot stand is gekomen, een inrichting of activiteit gevestigd is die vergunnings- of meldingsplichtig is krachtens titel V van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid: de exploitant vermeld in titel V;<br>
+2° bij gebrek aan een exploitant, of als de exploitant vrijgesteld is van de verplichting met toepassing van artikel 23, § 1: de gebruiker van de grond waar de verontreiniging tot stand is gekomen. Als de exploitant vrijgesteld is van de saneringsplicht voor een deel van de bodemverontreiniging, rust de saneringsplicht van de gebruiker op dat deel van de bodemverontreiniging;<br>
+3° bij gebrek aan een exploitant en gebruiker, of als de exploitant en gebruiker vrijgesteld zijn van de verplichting met toepassing van artikel 23, § 1: de eigenaar van de grond waar de verontreiniging tot stand is gekomen. Als de exploitant en de gebruiker vrijgesteld zijn van de saneringsplicht voor een deel van de bodemverontreiniging, rust de saneringsplicht van de eigenaar op dat deel van de bodemverontreiniging.<br>
+<br>
+De OVAM kan de termijn bepalen waarin het beschrijvend bodemonderzoek wordt uitgevoerd en het bodemsaneringsproject wordt opgesteld, en waarin het verslag van het beschrijvend bodemonderzoek en het bodemsaneringsproject aan haar wordt bezorgd.<br>
+<br>
+Alle belanghebbenden kunnen tegen de beslissing van de OVAM, vermeld in het eerste en tweede lid, beroep indienen bij de Vlaamse Regering conform artikel 153 tot en met 155.<br>
+<br>
+In afwijking van het eerste lid rust de verplichting tot bodemsanering van rechtswege op de persoon die door de OVAM is aangemaand om een beschrijvend bodemonderzoek uit te voeren als dat bodemonderzoek een ernstige historische bodemverontreiniging tot stand gekomen op de betreffende grond aantoont, met behoud van de toepassing van de vrijstellingsregeling, vermeld in artikel 23.</p>
 
 ## B. Vrijstelling van de saneringsplicht
 
@@ -240,9 +317,9 @@ Een oriënterend bodemonderzoek wordt uitgevoerd op initiatief en op kosten van 
 
 ### ART. 30.
 
-In afwijking van artikel 29 en 102 gebeurt de overdracht van een privatief deel van een gebouw of groep van gebouwen als&nbsp;vermeld in artikel 577-3 van het Burgerlijk Wetboek, enkel in de volgende gevallen een oriënterend bodemonderzoek worden uitgevoerd en de melding van overdracht gebeuren :<br>
+In afwijking van artikel 29 en 102 moet voor de overdracht van een privatief deel van een onroerend goed dat valt onder het stelsel van gedwongen mede-eigendom zoals bedoeld in artikel 577-3 van het Burgerlijk Wetboek of dat valt onder toepassing van artikel 577-2 van het Burgerlijk Wetboek, alleen in de volgende gevallen een oriënterend bodemonderzoek worden uitgevoerd:<br>
 1° in dat privatieve deel is of was een risico-inrichting gevestigd;<br>
-2° in de gemeenschappelijke delen is of was een risico-inrichting gevestigd die uitsluitend bestemd is of was voor dat privatieve deel.<br>
+2° in de gemeenschappelijke delen is of was een risico-inrichting gevestigd, die uitsluitend bestemd is of was voor dat privatieve deel.<br>
 <br>
 Het oriënterend bodemonderzoek wordt uitgevoerd op initiatief en op kosten van de overdrager of desgevallend de gemandateerde.
 
@@ -256,7 +333,30 @@ In de volgende gevallen moet voor een onroerend geheel dat valt onder het stelse
 
 ### ART. 31.
 
-...<BR>
+§ 1. Voor de volgende risicogronden waarop volgens de informatie in het grondeninformatieregister nog geen oriënterend bodemonderzoek is uitgevoerd, moet op initiatief en op kosten van de volgende personen een oriënterend bodemonderzoek worden uitgevoerd:<br>
+1° risicogronden waarop een of meer risico-inrichtingen, aangeduid in bijlage 1 van het VLAREBO-besluit van 14 december 2007 met kenletter `O', worden geëxploiteerd met aanvang van de exploitatie vóór 29 oktober 1995: de exploitant van de risico-inrichting;<br>
+2° risicogronden waarop een of meer risico-inrichtingen, vermeld in bijlage 1 van het VLAREBO-besluit van 14 december 2007, werden geëxploiteerd met aanvang van de exploitatie vóór 29 oktober 1995: de eigenaar van de risicogrond.<br>
+<br>
+De bodemsaneringsdeskundige onder wiens leiding het oriënterend bodemonderzoek werd uitgevoerd, dient het verslag in bij de OVAM.<br>
+<br>
+§ 2. Het oriënterend bodemonderzoek moet worden uitgevoerd en het verslag ervan bij de OVAM worden ingediend voor het volgende tijdstip:<br>
+1° voor de risicogronden, vermeld in paragraaf 1, 1° : vóór 31 januari 2027;<br>
+2° voor de risicogronden, vermeld in paragraaf 1, 2° :<br>
+a) als het gaat om een of meer risico-inrichtingen waarvan minstens één met kenletter `B': vóór 31 december 2021;<br>
+b) als het gaat om een risico-inrichting met kenletter `A', meerdere risico-inrichtingen met allemaal kenletter `A' of meerdere risico-inrichtingen waarvan minstens één met kenletter `A' en geen enkele met kenletter `B': vóór 31 december 2023;<br>
+c) als het gaat om een risico-inrichting met kenletter `O' of meerdere risico-inrichtingen met allemaal kenletter `O': vóór 31 januari 2027.<br>
+<br>
+§ 3. De eigenaar is niet verplicht om het oriënterend bodemonderzoek uit te voeren als de OVAM op basis van het dossier van de grond of het gemotiveerd standpunt van de eigenaar van oordeel is dat cumulatief voldaan is aan de volgende voorwaarden:<br>
+1° de eigenaar heeft de risico-inrichtingen niet zelf geëxploiteerd;<br>
+2° de risico-inrichtingen werden op de grond geëxploiteerd voor hij eigenaar werd van de grond;<br>
+3° sinds de verwerving heeft de eigenaar de grond alleen aangewend voor particulier gebruik;<br>
+4° als de eigenaar het eigendomsrecht op de risicogrond door vererving heeft verworven: in hoofde van de erflater is voldaan aan de vrijstellingsvoorwaarden, vermeld in punt 1° tot en met 3°.<br>
+<br>
+De eigenaar dient zijn aanvraag tot vrijstelling van de plicht tot het uitvoeren van het oriënterend bodemonderzoek met gemotiveerd standpunt in bij de OVAM. Dit kan op elk tijdstip, maar moet op straffe van niet-ontvankelijkheid van de aanvraag gebeuren uiterlijk binnen een termijn van negentig dagen na ontvangst van de brief waarin de OVAM de eigenaar wijst op zijn zelfstandige verplichting om het oriënterend bodemonderzoek uit te voeren. De OVAM onderzoekt het gemotiveerd standpunt van de ontvankelijke aanvraag en oordeelt of de eigenaar voldoet aan de vrijstellingsvoorwaarden. De OVAM stelt de eigenaar in kennis van haar beslissing binnen een termijn van negentig dagen na ontvangst van de aanvraag.<br>
+<br>
+Alle belanghebbenden kunnen tegen de beslissing van de OVAM beroep indienen bij de Vlaamse Regering conform artikel 153 tot en met 155.<br>
+<br>
+§ 4. Als de eigenaar van de risicogrond vrijstelling van de bodemonderzoeksplicht heeft verkregen, gaat die vrijstelling op het moment van de overdracht van de grond van rechtswege over op de verwerver als die de risico-inrichtingen niet zelf heeft geëxploiteerd op de grond.
 
 ## [D. (verv. decr. 12 december 2008, art.107, I: 14 februari 2009)] Sluiting van een risico-inrichting
 
@@ -268,7 +368,8 @@ Een oriënterend bodemonderzoek wordt uitgevoerd op initiatief en op kosten van 
 
 ### ART. 33.
 
-De Vlaamse Regering kan bij algemene regel bepalen dat de exploitanten van bepaalde categorieën van risico-inrichtingen binnen een door haar bepaalde termijn en vervolgens periodiek volgens de door haar bepaalde periodiciteit op eigen initiatief en op eigen kosten een oriënterend bodemonderzoek moeten uitvoeren. Deze verplichting geldt niet voor de exploitanten die voor het voldoen van de verplichting, vermeld in 91, § 1, een beroep doen op een erkende bodemsaneringsorganisatie als vermeld in afdeling II van hoofdstuk VII.<br /><br />
+De Vlaamse Regering kan bij algemene regel bepalen dat de exploitanten van bepaalde categorieën van risico-inrichtingen binnen een door haar bepaalde termijn en vervolgens periodiek volgens de door haar bepaalde periodiciteit op eigen initiatief en op eigen kosten een oriënterend bodemonderzoek moeten uitvoeren.<br>
+&nbsp;
 
 ### ART. 33bis.
 
@@ -556,7 +657,8 @@ Als de doelstellingen van de bodemsanering worden bereikt, levert de OVAM   op b
 
 ### ART. 74.
 
-De bepalingen van deze afdeling zijn enkel van toepassing op   schadegevallen die gemeld worden bij de bevoegde overheid binnen een termijn van   veertien dagen nadat ze zich hebben voorgedaan en waarbij de effectieve   behandeling van de bodemverontreiniging maximaal honderdtachtig dagen   duurt.<BR><BR>
+De bepalingen van deze afdeling zijn enkel van toepassing op schadegevallen die gemeld worden bij de bevoegde overheid binnen een termijn van&nbsp;dertig dagen nadat ze zich hebben voorgedaan en waarbij de effectieve behandeling van de bodemverontreiniging maximaal honderdtachtig dagen duurt.<br>
+&nbsp;
 
 ## Onderafdeling II Bevoegde overheid
 
@@ -662,7 +764,7 @@ Wie overeenkomstig de bepalingen van deze afdeling kosten maakt, kan deze verhal
 
 ### ART. 91.
 
-§ 1. De Vlaamse Regering kan de activiteiten specificeren waarvoor een individueel bodempreventie- en bodembeheersplan moet worden voorgelegd aan de OVAM. Die verplichting rust op diegene die deze activiteit verricht. Hij kan voor de nakoming van deze verplichting een beroep doen op een erkende bodemsaneringsorganisatie als vermeld in afdeling II van hoofdstuk VII.<br /><br />§ 2. Het individueel bodempreventie- en bodembeheersplan dat overeenkomstig § 1 moet worden opgesteld, bevat minstens een opgave van de maatregelen die diegene die de activiteit verricht, zal nemen ter voorkoming en beheersing van bodemverontreiniging die het gevolg is van de activiteit, vermeld in § 1. De Vlaamse Regering stelt de nadere regels vast met betrekking tot de verplichte inhoud, de goedkeuringsprocedure en de periodiciteit van de individuele bodempreventie- en bodembeheersplannen.<br /><br />§ 3. De erkende bodemsaneringsorganisatie, vermeld in afdeling II van hoofdstuk VII, moet voor degenen die er een beroep op doen voor het voldoen van de verplichting, vermeld in § 1, een sectoraal bodempreventie- en bodembeheersplan opstellen. Een dergelijk sectoraal bodempreventie- en bodembeheersplan moet een algemeen en een individueel deel bevatten. Het algemene deel bevat minstens de algemene maatregelen ter voorkoming en beheersing van bodemverontreiniging die het gevolg is van de in § 1 vermelde activiteit. Het individuele deel bevat de eventuele afwijkende of aanvullende maatregelen voor iedereen op wie deze paragraaf van toepassing is. De Vlaamse Regering stelt de nadere regels vast met betrekking tot de verplichte inhoud, de goedkeuringsprocedure en de periodiciteit van de sectorale bodempreventie-en bodembeheersplannen.<br /><br />
+...
 
 ## HOOFDSTUK VII Vrijwillige uitvoering van beschrijvend bodemonderzoek, bodemsanering of andere maatregelen
 
@@ -670,7 +772,14 @@ Wie overeenkomstig de bepalingen van deze afdeling kosten maakt, kan deze verhal
 
 ### ART. 92.
 
-Zolang er krachtens deze titel voor een grond met historische   bodemverontreiniging geen verplichting tot beschrijvend bodemonderzoek of   bodemsanering bestaat, kan elk persoon als saneringswillige een beschrijvend   bodemonderzoek of bodemsanering uitvoeren.<BR><BR>Een ander persoon dan de   plichtige, vermeld in artikel 11 of 22, kan als saneringswillige de verplichting   tot beschrijvend bodemonderzoek of bodemsanering, opgelegd krachtens deze titel,   uitvoeren.<BR><BR>De bepalingen van artikel 16 tot en met 18, artikel 25, en   artikel 38 tot 68 zijn van overeenkomstige toepassing op de vrijwillige   uitvoering van het beschrijvend bodemonderzoek en de bodemsanering, vermeld in   het eerste en tweede lid, met behoud van de bevoegdheid van de OVAM om op een   later tijdstip de andere bepalingen van deze titel toe te passen.<BR><BR>De OVAM   kan als saneringswillige overgaan tot uitvoering van een beschrijvend   bodemonderzoek en bodemsanering als vermeld in het eerste en tweede lid. In   verband met de (pre)financiering van de vrijwillige sanering door de OVAM kan de   Vlaamse Regering een regeling treffen of een overeenkomst   sluiten.<BR><BR>
+Zolang er krachtens deze titel voor een grond met historische bodemverontreiniging geen verplichting tot beschrijvend bodemonderzoek of bodemsanering bestaat, kan elk persoon als saneringswillige een beschrijvend bodemonderzoek of bodemsanering uitvoeren.<br>
+<br>
+Een ander persoon dan de plichtige, vermeld in artikel 11 of 22, kan als saneringswillige de verplichting tot beschrijvend bodemonderzoek of bodemsanering, opgelegd krachtens deze titel, uitvoeren.<br>
+<br>
+De bepalingen van artikel 16 tot en met 18, artikel 25, en artikel 38 tot 68 zijn van overeenkomstige toepassing op de vrijwillige uitvoering van het beschrijvend bodemonderzoek en de bodemsanering, vermeld in het eerste en tweede lid, met behoud van de bevoegdheid van de OVAM om op een later tijdstip de andere bepalingen van deze titel toe te passen.<br>
+<br>
+De OVAM kan als saneringswillige overgaan tot uitvoering van een beschrijvend bodemonderzoek en bodemsanering als vermeld in het eerste en tweede lid.&nbsp;De OVAM kan eveneens als saneringswillige overgaan tot uitvoering van een waterbodemonderzoek of de sanering van een waterbodem. In verband met de (pre)financiering van de vrijwillige sanering door de OVAM kan de Vlaamse Regering een regeling treffen of een overeenkomst sluiten.<br>
+&nbsp;
 
 ### ART. 93.
 
@@ -686,25 +795,47 @@ Een ander persoon dan de plichtige, vermeld in artikel 80, kan als   saneringswi
 
 ### ART. 95.
 
-§ 1. Een bodemsaneringsorganisatie is een rechtspersoon die als maatschappelijk doel heeft het voorkomen en beheersen van bodemverontreiniging, alsook het begeleiden en stimuleren van de sanering van bodemverontreiniging die tot stand is gekomen naar aanleiding van de uitoefening van een activiteit als vermeld in artikel 91, § 1.<br /><br />§ 2. Een bodemsaneringsorganisatie kan door de Vlaamse Regering worden erkend op voorwaarde dat ze mede is opgericht door een of meer organisaties die gezamenlijk minimaal 60% vertegenwoordigen van alle natuurlijke personen of rechtspersonen die de activiteit uitoefenen waarvoor de bodemsaneringsorganisatie is opgericht.<br /><br />De Vlaamse Regering bepaalt de procedure tot erkenning als bodemsaneringsorganisatie. Ze bepaalt tevens de voorwaarden voor het gebruik van de erkenning en kan bijkomende erkenningsvoorwaarden bepalen.<br /><br />
+§ 1. Een bodemsaneringsorganisatie is een rechtspersoon die als maatschappelijk doel heeft het voorkomen en beheersen van bodemverontreiniging, alsook het begeleiden en stimuleren van de sanering van bodemverontreiniging die tot stand is gekomen naar aanleiding van de uitoefening van een activiteit als bepaald door de Vlaamse Regering.<br>
+<br>
+§ 2. Een bodemsaneringsorganisatie kan door de Vlaamse Regering worden erkend op voorwaarde dat ze mede is opgericht door&nbsp;een organisatie die representatief is of verschillende organisaties die samen representatief zijn voor alle natuurlijke personen of rechtspersonen die de activiteit uitoefenen waarvoor de bodemsaneringsorganisatie is opgericht.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure tot erkenning als bodemsaneringsorganisatie. Ze bepaalt tevens de voorwaarden voor het gebruik van de erkenning en kan bijkomende erkenningsvoorwaarden bepalen.<br>
+&nbsp;
 
 ## Onderafdeling II Verplichte taken van erkende bodemsaneringsorganisaties
 
 ### ART. 96.
 
-Een erkende bodemsaneringsorganisatie heeft minstens de volgende taken met betrekking tot de activiteit waarvoor ze is opgericht :<br />1° het opmaken van een sectoraal bodempreventie-en bodembeheersplan overeenkomstig artikel 91,<br />§ 3;<br />2° het stimuleren en optimaliseren van onderzoeks-en saneringsconcepten;<br />3° het verlenen van advies inzake preventie, beheersing, bodemonderzoek en bodemsanering van de bodemverontreiniging, alsook inzake de voorbereiding en opvolging van voorzorgsmaatregelen, aan diegenen die voor de vervulling van hun verplichting, vermeld in artikel 91, § 1, een beroep doen op de erkende bodemsaneringsorganisatie.<br /><br />
+Een erkende bodemsaneringsorganisatie heeft minstens de volgende taken met betrekking tot de activiteit waarvoor ze is opgericht :<br>
+1° het opmaken van een algemeen bodempreventieplan;<br>
+2° het stimuleren en optimaliseren van onderzoeks-en saneringsconcepten;<br>
+3° het verlenen van advies inzake preventie, beheersing, bodemonderzoek en bodemsanering van de bodemverontreiniging, alsook inzake de voorbereiding en opvolging van voorzorgsmaatregelen, aan de personen die met de bodemsaneringsorganisatie een overeenkomst hebben gesloten als vermeld in artikel 97, § 1.<br>
+&nbsp;
 
 ## Onderafdeling III Facultatieve taken van erkende bodemsaneringsorganisaties
 
 ### ART. 97.
 
-§ 1. De persoon, vermeld in artikel 11 of 22, die saneringsplichtig is voor bodemverontreiniging die het gevolg is van een activiteit waarvoor een erkende bodemsaneringsorganisatie is opgericht, kan minstens voor de historische bodemverontreiniging die veroorzaakt is door die activiteit, de verplichting tot het uitvoeren van een beschrijvend bodemonderzoek of bodemsanering aan die erkende bodemsaneringsorganisatie overdragen, op voorwaarde dat hij hiervoor met die erkende bodemsaneringsorganisatie een overeenkomst sluit, volgens de voorwaarden die de Vlaamse Regering vaststelt. Door die overeenkomst komt de plicht tot beschrijvend bodemonderzoek of bodemsanering voor de bodemverontreiniging zoals vervat in de overeenkomst te liggen bij de erkende bodemsaneringsorganisatie. In geval van beëindiging van de overeenkomst keert de plicht tot beschrijvend bodemonderzoek of bodemsanering terug.<br /><br />Een persoon die overeenkomstig de bepalingen van artikel 92 als saneringswillige wenst over te gaan tot beschrijvend bodemonderzoek of bodemsanering, kan dit engagement tot het uitvoeren van een beschrijvend bodemonderzoek of bodemsanering aan de erkende bodemsaneringsorganisatie overdragen, op voorwaarde dat hij hiervoor een overeenkomst sluit met die erkende bodemsaneringsorganisatie, volgens de voorwaarden die de Vlaamse Regering vaststelt. <br /><br />§ 2. De erkende bodemsaneringsorganisatie voert de beschrijvende bodemonderzoeken en de bodemsaneringen waarvoor ze conform § 1 een overeenkomst heeft gesloten uit overeenkomstig de termijnen die opgenomen zijn in het saneringsprogramma dat jaarlijks aan de OVAM ter goedkeuring moet worden voorgelegd. Dat saneringsprogramma omvat minstens de lijst en de prioriteit van alle beschrijvende bodemonderzoeken en bodemsaneringen waartoe de erkende bodemsaneringsorganisatie zich verbonden heeft overeenkomstig § 1. De Vlaamse Regering kan de nadere regels vaststellen met betrekking tot de verplichte inhoud en de goedkeuringsprocedure van het saneringsprogramma.<br /><br />§ 3. Voor de bodemonderzoeken en bodemsaneringen die worden uitgevoerd in het kader van § 2, kan de Vlaamse Regering afwijkingen toestaan op de toepassing van artikel 38 tot en met 68 en van artikel 71.<br /><br />
+§ 1. De persoon, vermeld in artikel 11 of 22, die saneringsplichtig is voor bodemverontreiniging die het gevolg is van een activiteit waarvoor een erkende bodemsaneringsorganisatie is opgericht, kan minstens voor de historische bodemverontreiniging die veroorzaakt is door die activiteit, de verplichting tot het uitvoeren van een beschrijvend bodemonderzoek of bodemsanering aan die erkende bodemsaneringsorganisatie overdragen, op voorwaarde dat hij hiervoor met die erkende bodemsaneringsorganisatie een overeenkomst sluit, volgens de voorwaarden die de Vlaamse Regering vaststelt. Door die overeenkomst komt de plicht tot beschrijvend bodemonderzoek of bodemsanering voor de bodemverontreiniging zoals vervat in de overeenkomst te liggen bij de erkende bodemsaneringsorganisatie. In geval van beëindiging van de overeenkomst keert de plicht tot beschrijvend bodemonderzoek of bodemsanering terug.<br>
+<br>
+Een persoon die overeenkomstig de bepalingen van artikel 92 als saneringswillige wenst over te gaan tot beschrijvend bodemonderzoek of bodemsanering, kan dit engagement tot het uitvoeren van een beschrijvend bodemonderzoek of bodemsanering aan de erkende bodemsaneringsorganisatie overdragen, op voorwaarde dat hij hiervoor een overeenkomst sluit met die erkende bodemsaneringsorganisatie, volgens de voorwaarden die de Vlaamse Regering vaststelt.<br>
+<br>
+De Vlaamse Regering kan een termijn bepalen waarin de overeenkomsten, vermeld in het eerste en het tweede lid, moeten worden gesloten.<br>
+<br>
+§ 2. De erkende bodemsaneringsorganisatie voert de beschrijvende bodemonderzoeken en de bodemsaneringen waarvoor ze conform § 1 een overeenkomst heeft gesloten uit overeenkomstig de termijnen die opgenomen zijn in het saneringsprogramma dat jaarlijks aan de OVAM ter goedkeuring moet worden voorgelegd. Dat saneringsprogramma omvat minstens de lijst en de prioriteit van alle beschrijvende bodemonderzoeken en bodemsaneringen waartoe de erkende bodemsaneringsorganisatie zich verbonden heeft overeenkomstig § 1. De Vlaamse Regering kan de nadere regels vaststellen met betrekking tot de verplichte inhoud en de goedkeuringsprocedure van het saneringsprogramma.<br>
+<br>
+§ 3. Voor de bodemonderzoeken en bodemsaneringen die worden uitgevoerd in het kader van § 2, kan de Vlaamse Regering afwijkingen toestaan op de toepassing van artikel 38 tot en met 68 en van artikel 71.<br>
+&nbsp;
 
 ## Onderafdeling IV Subsidies
 
 ### ART. 98.
 
-<P>De Vlaamse Regering kan subsidies toekennen aan een erkende   bodemsaneringsorganisatie voor de gedeeltelijke financiering van de taken en de   werkingskosten noodzakelijk om die taken uit te voeren inzake historische   bodemverontreiniging die is veroorzaakt door de activiteit waarvoor een erkende   bodemsaneringsorganisatie is opgericht. De subsidies kunnen ook worden toegekend   voor door derden gemaakte en door de erkende bodemsaneringsorganisatie aanvaarde   kosten voor beschrijvende bodemonderzoeken of bodemsaneringen voor dergelijke   historische bodemverontreiniging, volgens de voorwaarden die de Vlaamse Regering   vaststelt.<BR><BR>De bepalingen van het eerste lid zijn van overeenkomstige   toepassing op de gemengde bodemverontreiniging die is veroorzaakt door de   activiteit waarvoor een erkende bodemsaneringsorganisatie is opgericht, wat   betreft het deel dat conform de beslissing over de verdeling, vermeld in artikel   27, § 1, tot stand gekomen is vóór 29 oktober 1995.<BR><BR>De Vlaamse Regering   stelt de nadere regels voor de subsidies vast.</P>
+<p>De Vlaamse Regering kan subsidies toekennen aan een erkende bodemsaneringsorganisatie voor de gedeeltelijke financiering van de taken en de werkingskosten noodzakelijk om die taken uit te voeren inzake historische bodemverontreiniging die is veroorzaakt door de activiteit waarvoor een erkende bodemsaneringsorganisatie is opgericht. De subsidies kunnen ook worden toegekend voor door derden gemaakte en door de erkende bodemsaneringsorganisatie aanvaarde kosten voor beschrijvende bodemonderzoeken of bodemsaneringen voor dergelijke historische bodemverontreiniging, volgens de voorwaarden die de Vlaamse Regering vaststelt.<br>
+<br>
+Het eerste lid is van overeenkomstige toepassing op de gemengde bodemverontreiniging die is veroorzaakt door de activiteit waarvoor een erkende bodemsaneringsorganisatie is opgericht, en waarop de bepalingen voor historische bodemverontreiniging van toepassing zijn conform artikel 27, § 2.<br>
+<br>
+De Vlaamse Regering stelt de nadere regels voor de subsidies vast.</p>
 
 ## Onderafdeling V Toezicht en sancties
 
@@ -734,7 +865,9 @@ Als een erkende bodemsaneringsorganisatie de verplichtingen in deze afdeling nie
 
 § 1. Risicogronden kunnen slechts overgedragen worden als er vooraf een orienterend bodemonderzoek werd uitgevoerd en het verslag ervan aan de OVAM werd bezorgd.<br>
 <br>
-In afwijking van het eerste lid geldt de regeling, vermeld in artikel 30, voor de uitvoering van een oriënterend bodemonderzoek in het kader van de overdracht van een privatief deel van een gebouw of groep van gebouwen als, vermeld in artikel 577-3 van het Burgerlijk Wetboek.<br>
+In afwijking van het eerste lid geldt de regeling, vermeld in artikel 30, voor de uitvoering van een oriënterend bodemonderzoek in het kader van de overdracht van een privatief deel van een onroerend goed dat valt onder het stelsel van gedwongen mede-eigendom zoals bedoeld in artikel 577-3 van het Burgerlijk Wetboek of dat valt onder toepassing van artikel 577-2 van het Burgerlijk Wetboek.<br>
+<br>
+De eigenaar van de risicogrond die een vrijstelling van de bodemonderzoeksplicht, vermeld in artikel 31, § 1, heeft verkregen, is van rechtswege vrijgesteld van de onderzoeksplicht, vermeld in het eerste lid en artikel 29, als sedert de vrijstellingsbeslissing op de risicogrond geen risico-inrichtingen zijn geëxploiteerd.<br>
 <br>
 § 2. Het oriënterend bodemonderzoek wordt uitgevoerd op initiatief en op kosten van de persoon, vermeld in artikel 29 of 30.<br>
 &nbsp;
@@ -757,7 +890,17 @@ In afwijking van het eerste lid geldt de regeling, vermeld in artikel 30, voor d
 
 ### ART. 105.
 
-§ 1. De overdrager of, in voorkomend geval, de gemandateerde is niet   verplicht om het beschrijvend bodemonderzoek uit te voeren of de vereisten,   vermeld in artikel 104, § 2, na te leven, als de OVAM op basis van het dossier   van de grond of op basis van het gemotiveerd standpunt van de overdrager of, in   voorkomend geval, de gemandateerde van oordeel is dat aan een van de volgende   elementen voldaan is:<BR>1° de bodemverontreiniging is niet op de over te dragen   grond tot stand gekomen;<BR>2° de overdrager voldoet cumulatief aan de   voorwaarden, vermeld in artikel 12, § 1, eerste lid, als het gaat om een   overdrager die de hoedanigheid heeft van gebruiker. Als de gebruiker voor een   deel van de verontreiniging cumulatief aan die voorwaarden voldoet, is hij in   het kader van de overdracht vrijgesteld van de saneringsplicht voor dat deel van   de bodemverontreiniging;<BR>3° de overdrager voldoet cumulatief aan de   voorwaarden, vermeld in artikel 12, § 2, eerste lid, als het gaat om een   overdrager die de hoedanigheid heeft van eigenaar. Als de eigenaar voor een deel   van de verontreiniging cumulatief aan die voorwaarden voldoet, is hij in het   kader van de overdracht vrijgesteld van de saneringsplicht voor dat deel van de   bodemverontreiniging. De eigenaar is ook vrijgesteld van de saneringsplicht voor   de bodemverontreiniging of het deel van de bodemverontreiniging waarvoor de   exploitant of de gebruiker die op de over te dragen grond aanwezig is, niet   voldoet aan de voorwaarden, vermeld in artikel 12, § 1.<BR><BR>§ 2. In afwijking   van de bepalingen van § 1 is de overdrager alsnog verplicht het beschrijvend   bodemonderzoek uit te voeren of de verplichtingen, vermeld in artikel 104, § 2,   na te leven als de OVAM een van de volgende elementen aantoont :<BR>1° een   rechtsvoorganger van de overdrager heeft de bodemverontreiniging   veroorzaakt;<BR>2° de bodemverontreiniging is tot stand gekomen tijdens de   periode dat een rechtsvoorganger van de overdrager de grond in exploitatie, in   gebruik of in eigendom had.<BR><BR>
+§ 1. De overdrager of, in voorkomend geval, de gemandateerde is niet verplicht om het beschrijvend bodemonderzoek uit te voeren of de vereisten, vermeld in artikel 104, § 2, na te leven, als de OVAM op basis van het dossier van de grond of op basis van het gemotiveerd standpunt van de overdrager of, in voorkomend geval, de gemandateerde van oordeel is dat aan een van de volgende elementen voldaan is:<br>
+1° de bodemverontreiniging is niet op de over te dragen grond tot stand gekomen;<br>
+2° de overdrager voldoet cumulatief aan de voorwaarden, vermeld in artikel 12, § 1, eerste lid, als het gaat om een overdrager die de hoedanigheid heeft van gebruiker. Als de gebruiker voor een deel van de verontreiniging cumulatief aan die voorwaarden voldoet, is hij in het kader van de overdracht vrijgesteld van de saneringsplicht voor dat deel van de bodemverontreiniging;<br>
+3° de overdrager voldoet cumulatief aan de voorwaarden, vermeld in artikel 12, § 2, eerste lid, als het gaat om een overdrager die de hoedanigheid heeft van eigenaar. Als de eigenaar voor een deel van de verontreiniging cumulatief aan die voorwaarden voldoet, is hij in het kader van de overdracht vrijgesteld van de saneringsplicht voor dat deel van de bodemverontreiniging. De eigenaar is ook vrijgesteld van de saneringsplicht voor de bodemverontreiniging of het deel van de bodemverontreiniging waarvoor de exploitant of de gebruiker die op de over te dragen grond aanwezig is, niet voldoet aan de voorwaarden, vermeld in artikel 12, § 1.<br>
+<br>
+§ 2. In afwijking van de bepalingen van § 1 is de overdrager alsnog verplicht het beschrijvend bodemonderzoek uit te voeren of de verplichtingen, vermeld in artikel 104, § 2, na te leven als de OVAM een van de volgende elementen aantoont :<br>
+1° een rechtsvoorganger van de overdrager heeft de bodemverontreiniging veroorzaakt;<br>
+2° de bodemverontreiniging is tot stand gekomen tijdens de periode dat een rechtsvoorganger van de overdrager de grond in exploitatie, in gebruik of in eigendom had.<br>
+<br>
+§ 3. Op straffe van niet-ontvankelijkheid wordt de gemotiveerde aanvraag tot vrijstelling van de saneringsplicht voor de elementen, vermeld in paragraaf 1, 2° en 3°, bij de OVAM ingediend voor de overdracht van de grond met toepassing van artikel 104 heeft plaatsgevonden.<br>
+&nbsp;
 
 ### ART. 106.
 
@@ -785,7 +928,17 @@ Alle belanghebbenden kunnen tegen de beslissingen van de OVAM, vermeld in artike
 
 ### ART. 110.
 
-§ 1. De overdrager of, in voorkomend geval, de gemandateerde is niet   verplicht om het beschrijvend bodemonderzoek uit te voeren of de vereisten,   vermeld in artikel 109, § 2, na te leven, als de OVAM op basis van het dossier   van de grond of op basis van het gemotiveerd standpunt van de overdrager of, in   voorkomend geval, de gemandateerde van oordeel is dat aan een van de volgende   elementen voldaan is:<BR>1° de bodemverontreiniging is niet tot stand gekomen op   de over te dragen grond;<BR>2° de overdrager voldoet cumulatief aan de   voorwaarden, vermeld in artikel 23, § 1, eerste lid, als het gaat om een   overdrager die de hoedanigheid heeft van gebruiker. Als de gebruiker voor een   deel van de verontreiniging cumulatief voldoet aan die voorwaarden, is hij in   het kader van de overdracht vrijgesteld van de saneringsplicht voor dat deel van   de bodemverontreiniging;<BR>3° de overdrager voldoet cumulatief aan de   voorwaarden, vermeld in artikel 23, § 2, eerste lid, of cumulatief aan de   voorwaarden, vermeld in het tweede lid, als het gaat om een overdrager die de   hoedanigheid heeft van eigenaar. Als de betrokkene voor een deel van de   verontreiniging cumulatief voldoet aan die voorwaarden, is hij in het kader van   de overdracht vrijgesteld van de saneringsplicht voor dat deel van de   bodemverontreiniging. De eigenaar is ook vrijgesteld van de saneringsplicht voor   de bodemverontreiniging of het deel van de bodemverontreiniging waarvoor de   exploitant of de gebruiker die op de over te dragen grond aanwezig is, niet   voldoet aan de voorwaarden, vermeld in artikel 23, § 1.<BR><BR>§ 2. In afwijking   van de bepalingen van § 1 is de overdrager alsnog verplicht het beschrijvend   bodemonderzoek uit te voeren of de vereisten, vermeld in artikel 109, § 2, na te   leven, als de OVAM een van de volgende elementen aantoont :<BR>1° een   rechtsvoorganger van de overdrager heeft de bodemverontreiniging   veroorzaakt;<BR>2° de bodemverontreiniging is tot stand gekomen tijdens de   periode dat een rechtsvoorganger van de overdrager de grond in exploitatie, in   gebruik of in eigendom had.<BR><BR>
+§ 1. De overdrager of, in voorkomend geval, de gemandateerde is niet verplicht om het beschrijvend bodemonderzoek uit te voeren of de vereisten, vermeld in artikel 109, § 2, na te leven, als de OVAM op basis van het dossier van de grond of op basis van het gemotiveerd standpunt van de overdrager of, in voorkomend geval, de gemandateerde van oordeel is dat aan een van de volgende elementen voldaan is:<br>
+1° de bodemverontreiniging is niet tot stand gekomen op de over te dragen grond;<br>
+2° de overdrager voldoet cumulatief aan de voorwaarden, vermeld in artikel 23, § 1, eerste lid, als het gaat om een overdrager die de hoedanigheid heeft van gebruiker. Als de gebruiker voor een deel van de verontreiniging cumulatief voldoet aan die voorwaarden, is hij in het kader van de overdracht vrijgesteld van de saneringsplicht voor dat deel van de bodemverontreiniging;<br>
+3° de overdrager voldoet cumulatief aan de voorwaarden, vermeld in artikel 23, § 2, eerste lid, of cumulatief aan de voorwaarden, vermeld in het tweede lid, als het gaat om een overdrager die de hoedanigheid heeft van eigenaar. Als de betrokkene voor een deel van de verontreiniging cumulatief voldoet aan die voorwaarden, is hij in het kader van de overdracht vrijgesteld van de saneringsplicht voor dat deel van de bodemverontreiniging. De eigenaar is ook vrijgesteld van de saneringsplicht voor de bodemverontreiniging of het deel van de bodemverontreiniging waarvoor de exploitant of de gebruiker die op de over te dragen grond aanwezig is, niet voldoet aan de voorwaarden, vermeld in artikel 23, § 1.<br>
+<br>
+§ 2. In afwijking van de bepalingen van § 1 is de overdrager alsnog verplicht het beschrijvend bodemonderzoek uit te voeren of de vereisten, vermeld in artikel 109, § 2, na te leven, als de OVAM een van de volgende elementen aantoont :<br>
+1° een rechtsvoorganger van de overdrager heeft de bodemverontreiniging veroorzaakt;<br>
+2° de bodemverontreiniging is tot stand gekomen tijdens de periode dat een rechtsvoorganger van de overdrager de grond in exploitatie, in gebruik of in eigendom had.<br>
+<br>
+§ 3. Op straffe van niet-ontvankelijkheid wordt de gemotiveerde aanvraag tot vrijstelling van de saneringsplicht voor de elementen, vermeld in paragraaf 1, 2° en 3°, bij de OVAM ingediend voor de overdracht van de grond met toepassing van artikel 109 heeft plaatsgevonden.<br>
+&nbsp;
 
 ### ART. 111.
 
@@ -813,7 +966,29 @@ De Vlaamse Regering kan nadere regelen vaststellen betreffende de overname van d
 
 ### ART. 115.
 
-§ 1. In afwijking van de bepalingen van artikelen 104, § 2, en 109, § 2,   kan de overdracht toch plaatsvinden op voorwaarde dat de versnelde   overdrachtsprocedure, vermeld in § 2 tot en met § 5, wordt nageleefd.<BR><BR>§   2. De overdrager of de gemandateerde of de verwerver of de persoon die beschikt   over een rechtsgeldige titel om de overdracht te doen uitvoeren, meldt aan de   OVAM zijn bedoeling om de versnelde overdrachtsprocedure toe te   passen.<BR><BR>Zij voegen bij deze melding de volgende documenten :<BR>1° het   verslag van oriënterend en beschrijvend bodemonderzoek of het verslag van   beschrijvend bodemonderzoek, voor zover de OVAM daarvan nog niet in het bezit   is;<BR>2° een kostenraming van de bodemsanering en de eventuele nazorg,   opgemaakt door een bodemsa-neringsdeskundige;<BR>3° ...<BR><BR>§ 3. Binnen een   termijn van zestig dagen na de ontvangst van alle documenten, vermeld in § 2,   spreekt de OVAM zich uit over de conformiteit van het bodemonderzoek en het   verzoek tot toepassing van de versnelde overdrachtsprocedure.<BR><BR>Als de OVAM   zich niet binnen de termijn van zestig dagen heeft uitgesproken, kan de   overdracht plaatsvinden, met behoud van de mogelijkheid om de andere bepalingen   van dit decreet later toe te passen.<BR><BR>§ 4. Als uit het verslag van   beschrijvend bodemonderzoek, uit het verslag van oriënterend en beschrijvend   bodemonderzoek of uit het grondeninformatieregis-ter blijkt dat de grond is   aangetast door een nieuwe bodemverontreinging die de bodemsaneringsnormen   overschrijdt, door een ernstige historische bodemverontreiniging of door een   gemengde bodemverontreiniging die de bodemsaneringsnormen overschrijdt dan wel   een ernstige bodemverontreiniging vormt naargelang de toepasselijke regeling   krachtens de bepalingen van artikel 27, kan de overdracht niet plaatsvinden   vooraleer de verwerver :<BR>1° jegens de OVAM de verbintenis heeft aangegaan om   een bodemsaneringsproject op te stellen en de verdere bodemsanering en de   eventuele nazorg uit te voeren;<BR>2° financiële zekerheden heeft gesteld tot   waarborg van de uitvoering van zijn verplichtingen overeenkomstig 1°. De Vlaamse   Regering bepaalt de wijze waarop deze financiële zekerheden worden   gesteld.<BR><BR>De verplichting om de bodemsanering en de eventuele nazorg uit   te voeren, moet voldaan worden overeenkomstig de voorwaarden van de eenzijdige   verbintenis, vermeld in het eerste lid, 1°.<BR><BR>§ 5. Alle belanghebbenden   kunnen tegen de beslissingen van de OVAM, vermeld in § 3 en § 4, beroep indienen   bij de Vlaamse Regering overeenkomstig de bepalingen van artikel 153 tot en met   155.<BR><BR>
+§ 1. In afwijking van de bepalingen van artikelen 104, § 2, en 109, § 2, kan de overdracht toch plaatsvinden op voorwaarde dat de versnelde overdrachtsprocedure, vermeld in § 2 tot en met § 5, wordt nageleefd.<br>
+<br>
+§ 2. De overdrager of de gemandateerde of de verwerver of de persoon die beschikt over een rechtsgeldige titel om de overdracht te doen uitvoeren, meldt aan de OVAM zijn bedoeling om de versnelde overdrachtsprocedure toe te passen.<br>
+<br>
+Zij voegen bij deze melding de volgende documenten :<br>
+1° het verslag van oriënterend en beschrijvend bodemonderzoek of het verslag van beschrijvend bodemonderzoek, voor zover de OVAM daarvan nog niet in het bezit is;<br>
+2° een kostenraming van de bodemsanering en de eventuele nazorg, opgemaakt door een bodemsa-neringsdeskundige;<br>
+3° ...<br>
+<br>
+§ 3. Binnen een termijn van zestig dagen na de ontvangst van alle documenten, vermeld in § 2, spreekt de OVAM zich uit over de conformiteit van het bodemonderzoek en het verzoek tot toepassing van de versnelde overdrachtsprocedure.<br>
+<br>
+Als de OVAM zich niet binnen de termijn van zestig dagen heeft uitgesproken, kan de overdracht plaatsvinden, met behoud van de mogelijkheid om de andere bepalingen van dit decreet later toe te passen.<br>
+<br>
+§ 4. Als uit het verslag van beschrijvend bodemonderzoek, uit het verslag van oriënterend en beschrijvend bodemonderzoek of uit het grondeninformatieregis-ter blijkt dat de grond is aangetast door een nieuwe bodemverontreinging die de bodemsaneringsnormen overschrijdt, door een ernstige historische bodemverontreiniging of door een gemengde bodemverontreiniging die de bodemsaneringsnormen overschrijdt dan wel een ernstige bodemverontreiniging vormt naargelang de toepasselijke regeling krachtens de bepalingen van artikel 27, kan de overdracht niet plaatsvinden vooraleer de verwerver :<br>
+1° jegens de OVAM de verbintenis heeft aangegaan om een bodemsaneringsproject op te stellen en de verdere bodemsanering en de eventuele nazorg uit te voeren;<br>
+2° financiële zekerheden heeft gesteld tot waarborg van de uitvoering van zijn verplichtingen overeenkomstig 1°. De Vlaamse Regering bepaalt de wijze waarop deze financiële zekerheden worden gesteld.<br>
+<br>
+De verplichting om de bodemsanering en de eventuele nazorg uit te voeren, moet voldaan worden overeenkomstig de voorwaarden van de eenzijdige verbintenis, vermeld in het eerste lid, 1°.<br>
+<br>
+§ 5. Alle belanghebbenden kunnen tegen de beslissingen van de OVAM, vermeld in § 3 en § 4, beroep indienen bij de Vlaamse Regering overeenkomstig de bepalingen van artikel 153 tot en met 155.<br>
+<br>
+§ 6. Artikel 105, § 3, en artikel 110, § 3, zijn van overeenkomstige toepassing op de vrijstelling van de saneringsplicht in de procedure van versnelde overdracht.<br>
+&nbsp;
 
 ## Afdeling III Nietigheid en niet-tegenstelbaarheid
 
@@ -1065,7 +1240,7 @@ Binnen een termijn van veertien dagen na ontvangst van het beroep, wordt de indi
 
 ### ART. 151.
 
-Het beroep is schorsend wanneer het wordt ingediend door het college van   burgemeester en schepenen of de andere overheidsorganen die krachtens artikel 49   advies hebben uitgebracht.<BR><BR>
+Het beroep schorst de uitvoering van de bestreden beslissingen, vermeld in artikel 146, tot de dag na de datum van de betekening van de beslissing.
 
 ### ART. 152.
 
@@ -1095,7 +1270,7 @@ In de andere gevallen beperkt het administratief beroep, vermeld in artikel 153,
 
 ### ART. 156.
 
-...
+In geval van een vrijstelling van de onderzoeksplicht, vermeld in artikel 31, § 1, kan de OVAM beslissen om ambtshalve een oriënterend bodemonderzoek uit te voeren of de grond op te nemen in een site met het oog op de uitvoering van een siteonderzoek.
 
 ### ART. 157.
 
@@ -1119,7 +1294,18 @@ In afwijking van artikel 160 kan de OVAM beslissen af te zien van verhaal   als 
 
 ### ART. 161.
 
-§ 1. Op grond van de beslissing van de OVAM krachtens de bepalingen van   dit decreet om ambtshalve een oriënterend bodemonderzoek, site-onderzoek,   beschrijvend bodemonderzoek, bodemsanering of de andere maatregelen, vermeld in   hoofdstuk VI, uit te voeren, heeft de OVAM tot zekerheid van de voldoening van   de kosten van de ambtshalve uitvoering ervan een algemeen voorrecht op alle   roerende goederen van de personen, vermeld in artikel 160, en kan ze een   wettelijke hypotheek nemen op al de daarvoor vatbare en in het Vlaamse Gewest   gelegen of geregistreerde goederen van deze personen. Hetzelfde geldt als de   OVAM van rechtswege een siteonderzoek uitvoert met toepassing van artikel   141.<BR><BR>§ 2. Het voorrecht neemt rang in onmiddellijk na de voorrechten die   vermeld zijn in de artikelen 19 en 20 van de wet van 16 december 1851 en in   artikel 23 van boek II van het Wetboek van Koophandel.<BR><BR>§ 3. De rang van   de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving   die genomen wordt krachtens de betekende beslissing tot ambtshalve uitvoering   van een oriënterend bodemonderzoek, site-onderzoek, beschrijvend bodemonderzoek,   bodemsanering of andere maatregelen, vermeld in hoofdstuk VI.<BR><BR>§ 4. De   hypotheek wordt ingeschreven op verzoek van de ambtenaar daartoe aangewezen door   de Vlaamse Regering.<BR><BR>De inschrijving heeft plaats, niettegenstaande   beroep, op voorlegging van een afschrift van de beslissing tot ambtshalve   uitvoering van een oriënterend bodemonderzoek, site-onderzoek, beschrijvend   bodemonderzoek, bodemsanering of andere maatregelen, vermeld in hoofdstuk VI,   die eensluidend wordt verklaard door die ambtenaar en die melding maakt van de   betekening ervan.<BR><BR>§ 5. Artikel 19, tweede lid, van de Faillissementswet   van 8 augustus 1997 is niet van toepassing op de wettelijke hypotheek inzake de   verschuldigde kosten van de ambtshalve uitvoering van een oriënterend   bodemonderzoek, site-onderzoek, beschrijvend bodemonderzoek, bodemsanering of   andere maatregelen, vermeld in hoofdstuk VI, waarvoor een beslissing door de   OVAM genomen werd en waarvan de betekening aan de personen, vermeld in artikel   160, is gedaan voor het vonnis van faillietverklaring.<BR><BR>
+§ 1. Op grond van de beslissing van de OVAM tot ambtshalve uitvoering krachtens de bepalingen van dit decreet, heeft de OVAM tot zekerheid van de voldoening van de kosten van de ambtshalve uitvoering ervan een algemeen voorrecht op alle roerende goederen van de personen, vermeld in artikel 160, en kan ze een wettelijke hypotheek nemen op al de daarvoor vatbare en in het Vlaamse Gewest gelegen of geregistreerde goederen van deze personen. Hetzelfde geldt als de OVAM van rechtswege een siteonderzoek uitvoert met toepassing van artikel 141.<br>
+<br>
+§ 2. Het voorrecht neemt rang in onmiddellijk na de voorrechten die vermeld zijn in de artikelen 19 en 20 van de wet van 16 december 1851 en in artikel 23 van boek II van het Wetboek van Koophandel.<br>
+<br>
+§ 3. De rang van de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving die genomen wordt krachtens de betekende beslissing van de OVAM tot ambtshalve uitvoering krachtens de bepalingen van dit decreet.<br>
+<br>
+§ 4. De hypotheek wordt ingeschreven op verzoek van de ambtenaar daartoe aangewezen door de Vlaamse Regering.<br>
+<br>
+De inschrijving heeft plaats, niettegenstaande beroep, op voorlegging van een afschrift van de beslissing van de OVAM tot ambtshalve uitvoering krachtens de bepalingen van dit decreet, die eensluidend wordt verklaard door die ambtenaar en die melding maakt van de betekening ervan.<br>
+<br>
+§ 5. Artikel 19, tweede lid, van de Faillissementswet van 8 augustus 1997 is niet van toepassing op de wettelijke hypotheek inzake de verschuldigde kosten van de ambtshalve uitvoering krachtens de bepalingen van dit decreet, waarvoor een beslissing door de OVAM genomen werd en waarvan de betekening aan de personen, vermeld in artikel 160, is gedaan voor het vonnis van faillietverklaring.<br>
+&nbsp;
 
 ## HOOFDSTUK XVII Retributies
 
