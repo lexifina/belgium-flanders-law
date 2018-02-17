@@ -360,7 +360,21 @@ Het   beheerpakket aanleg en onderhoud erosiedam beoogt de bestrijding van erosi
 
 ### ART. 37.
 
-<P>De   instapvoorwaarden van het beheerpakket aanleg en onderhoud erosiedam   zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de erosiedam ligt op een perceel landbouwgrond dat ligt in het beheergebied voor   erosiebestrijding, vermeld in artikel 17;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het beheerpakket aanleg en onderhoud erosiedam kan gesloten worden<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   ofwel op een beheervoorwerp waarvoor reeds een beheerpakket binnen de   beheerdoelstelling erosiebestrijding werd gesloten, met uitzondering van het   beheerpakket aanleg en onderhoud gemengde grasstrook plus en het beheerpakket   onderhoud gemengde grasstrook plus;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   ofwel op een beheervoorwerp waarvoor gelijktijdig met het sluiten van het   beheerpakket aanleg en onderhoud erosiedam een ander beheerpakket binnen de   beheerdoelstelling erosiebestrijding wordt gesloten met uitzondering van het   beheerpakket aanleg en onderhoud gemengde grasstrook plus en het beheerpakket   onderhoud gemengde grasstrook plus;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de erosiedam wordt aangelegd op de plaats waar het afstromend water en sediment   zich concentreren en de ligging wordt aangeduid in de   beheerovereenkomst.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   beheervoorwaarden van het beheerpakket aanleg en onderhoud erosiedam   zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het beheerpakket wordt toegepast voor de afmetingen vermeld in de   beheerovereenkomst;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de erosiedam wordt aangelegd met strobalen voor 31 mei van het eerste jaar van   de beheerovereenkomst;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de strobalen worden tegen elkaar geplaatst en met minstens 2 palen per strobaal   in de bodem verankerd;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de erosiedam wordt heraangelegd om de twee jaar en van zodra de strobalen geen   aaneengesloten dam met een minimale hoogte van 50 centimeter vormen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   het afgezet slib wordt verwijderd zodat de opvanghoogte van de erosiedam overal   minstens 30 centimeter bedraagt.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   volgende basisnorm geldt bij het beheerpakket aanleg en onderhoud erosiedam: op   het perceel waarvan de afspoeling wordt gebufferd, worden de randvoorwaarden   voor erosiebestrijding, vermeld in artikel 59 van het besluit van de Vlaamse   Regering van 24 oktober 2014, nageleefd.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De instapvoorwaarden van het beheerpakket aanleg en onderhoud erosiedam zijn:<br>
+1° de erosiedam ligt op een perceel landbouwgrond dat ligt in het beheergebied voor erosiebestrijding, vermeld in artikel 17;<br>
+2° het beheerpakket aanleg en onderhoud erosiedam kan gesloten worden<br>
+a) ofwel op een beheervoorwerp waarvoor reeds een beheerpakket binnen de beheerdoelstelling erosiebestrijding werd gesloten, met uitzondering van het beheerpakket aanleg en onderhoud gemengde grasstrook plus en het beheerpakket onderhoud gemengde grasstrook plus;<br>
+b) ofwel op een beheervoorwerp waarvoor gelijktijdig met het sluiten van het beheerpakket aanleg en onderhoud erosiedam een ander beheerpakket binnen de beheerdoelstelling erosiebestrijding wordt gesloten met uitzondering van het beheerpakket aanleg en onderhoud gemengde grasstrook plus en het beheerpakket onderhoud gemengde grasstrook plus;<br>
+3° de erosiedam wordt aangelegd op de plaats waar het afstromend water en sediment zich concentreren en de ligging wordt aangeduid in de beheerovereenkomst.</p>
+
+<p>De beheervoorwaarden van het beheerpakket aanleg en onderhoud erosiedam zijn:<br>
+1° het beheerpakket wordt toegepast voor de afmetingen vermeld in de beheerovereenkomst;<br>
+2° de erosiedam wordt aangelegd met&nbsp;stro- of hooibalen voor 31 mei van het eerste jaar van de beheerovereenkomst;<br>
+3° de balen worden tegen elkaar geplaatst en met minstens 2 palen per baal in de bodem verankerd;<br>
+4° de erosiedam wordt heraangelegd om de twee jaar en van zodra de strobalen geen aaneengesloten dam met een minimale hoogte van 50 centimeter vormen;<br>
+5° het afgezet slib wordt verwijderd zodat de opvanghoogte van de erosiedam overal minstens 30 centimeter bedraagt.</p>
+
+<p>De volgende basisnorm geldt bij het beheerpakket aanleg en onderhoud erosiedam: op het perceel waarvan de afspoeling wordt gebufferd, worden de randvoorwaarden voor erosiebestrijding, vermeld in artikel 59 van het besluit van de Vlaamse Regering van 24 oktober 2014, nageleefd.</p>
 
 ### ART. 38.
 
@@ -392,7 +406,7 @@ De   jaarlijkse beheervergoeding voor het beheerpakket aanleg en onderhoud   str
 3° houtkant: een vrijliggend aaneengesloten lijnvormig landschapselement bestaande uit meerrijig hakhout;<br>
 4° kaphaag: een aaneengesloten lijnvormig landschapselement dat bestaat uit op een rij aangeplant hakhout of op een rij aangeplante halfstammige knotbomen met een plantafstand van maximaal 2 meter;<br>
 5° knotbomenrij: een aaneengesloten lijnvormig landschapselement bestaande uit hoogstammige knotbomen;<br>
-6° houtsingel : een aaneengesloten lijnvormig landschapselement bestaande uit één of meerdere bomenrijen met aan weerszijden een mantelvegetatie bestaande uit struik- en struweelsoorten.</p>
+6° houtsingel : een aaneengesloten lijnvormig landschapselement bestaande uit één of meerdere bomenrijen met&nbsp;een mantelvegetatie bestaande uit struik- en struweelsoorten.</p>
 
 <p>In de tabel, opgenomen in bijlage 6 die bij dit besluit is gevoegd, worden de soorten vermeld die geschikt zijn om voor te komen in een haag, heg, houtkant of knotbomenrij.</p>
 
@@ -410,7 +424,25 @@ Het   beheerpakket onderhoud haag beoogt het onderhoud en de ontwikkeling van   
 
 ### ART. 45.
 
-<P>&nbsp;De instapvoorwaarden van het   beheerpakket onderhoud haag zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de haag ligt voor de volledige lengte op of langs een perceel   landbouwgrond;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de haag maakt geen deel uit van een tuin en kan niet beschouwd worden als   windscherm behorend bij fruit- of sierteelt of als erfbeplanting behorend bij   gebouwen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de haag bestaat voor minstens 75 procent uit soorten die geschikt zijn om voor   te komen in een haag als vermeld in bijlage 6;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de lengte van de haag is minstens 25 meter;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de lengte van de haag mag in verhouding met het perceel landbouwgrond waarop de   haag ligt maximaal 500 meter per hectare bedragen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   de snoeihoogte van de haag bedraagt minstens 0,8 meter;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   als er gaten voorkomen in de haag dan worden deze gaten voor 31 mei van het   eerste jaar van de beheerovereenkomst opgevuld met soorten die geschikt zijn om   voor te komen in een haag als vermeld in bijlage 6.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   beheervoorwaarden van het beheerpakket onderhoud haag zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het beheerpakket wordt toegepast voor de afmetingen vermeld in de   beheerovereenkomst;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de stambasis van de haag wordt beschermd tegen vraatschade door vee;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de haag wordt jaarlijks over de volledige lengte en langs beide zijden geschoren   op een snoeihoogte van minstens 0,8 meter; het gebruik van een klepelmaaier met   aangepast houtrotor is toegelaten voor zover hiermee enkel de jaarlijkse   hergroei wordt verwijderd;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   soorten die niet opgenomen zijn in bijlage 6 worden binnen de eerste vier jaar   van de beheerovereenkomst verwijderd en vervangen door soorten die geschikt zijn   om voor te komen in een haag als vermeld in bijlage 6; voor de bestrijding van   amerikaanse vogelkers, amerikaanse eik en robinia is een gerichte   stobbenbehandeling met herbicide toegelaten;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   afgestorven planten worden in het eerstvolgende plantseizoen vervangen door   soorten die geschikt zijn om voor te komen in een haag als vermeld in bijlage   6.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   basisnormen van het beheerpakket onderhoud haag zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   behoudens het beheer dat in de beheerovereenkomst is opgenomen, wordt geen   enkele activiteit uitgevoerd die de haag of de bijhorende vegetatie beschadigt   of vernietigt;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   vanaf 1 april tot en met 15 juni worden geen werken uitgevoerd aan de haag zodat   broedende vogels niet worden verstoord.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>&nbsp;De instapvoorwaarden van het beheerpakket onderhoud haag zijn:<br>
+1° de haag ligt voor de volledige lengte op of langs een perceel landbouwgrond;<br>
+2° de haag maakt geen deel uit van een tuin en kan niet beschouwd worden als windscherm behorend bij fruit- of sierteelt of als erfbeplanting behorend bij gebouwen;<br>
+3° de haag bestaat voor minstens 75 procent uit soorten die geschikt zijn om voor te komen in een haag als vermeld in bijlage 6;<br>
+4° de lengte van de haag is minstens 25 meter;<br>
+5° de lengte van de haag mag in verhouding met het perceel landbouwgrond waarop de haag ligt maximaal 500 meter per hectare bedragen;<br>
+6° de snoeihoogte van de haag bedraagt minstens 0,8 meter;<br>
+7° er mogen geen gaten voorkomen in de haag.</p>
+
+<p>De beheervoorwaarden van het beheerpakket onderhoud haag zijn:<br>
+1° het beheerpakket wordt toegepast voor de afmetingen vermeld in de beheerovereenkomst;<br>
+2° de stambasis van de haag wordt beschermd tegen vraatschade door vee;<br>
+3° de haag wordt jaarlijks over de volledige lengte en langs beide zijden geschoren op een snoeihoogte van minstens 0,8 meter; het gebruik van een klepelmaaier met aangepast houtrotor is toegelaten voor zover hiermee enkel de jaarlijkse hergroei wordt verwijderd;<br>
+4° soorten die niet opgenomen zijn in bijlage 6 worden binnen de eerste vier jaar van de beheerovereenkomst verwijderd en vervangen door soorten die geschikt zijn om voor te komen in een haag als vermeld in bijlage 6; voor de bestrijding van amerikaanse vogelkers, amerikaanse eik en robinia is een gerichte stobbenbehandeling met herbicide toegelaten;<br>
+5° afgestorven planten worden in het eerstvolgende plantseizoen vervangen door soorten die geschikt zijn om voor te komen in een haag als vermeld in bijlage 6.</p>
+
+<p>De basisnormen van het beheerpakket onderhoud haag zijn:<br>
+1° behoudens het beheer dat in de beheerovereenkomst is opgenomen, wordt geen enkele activiteit uitgevoerd die de haag of de bijhorende vegetatie beschadigt of vernietigt;<br>
+2° vanaf 1 april tot en met 15 juni worden geen werken uitgevoerd aan de haag zodat broedende vogels niet worden verstoord.</p>
 
 ### ART. 46.
 
@@ -424,7 +456,28 @@ Het   beheerpakket onderhoud kaphaag beoogt het onderhoud en de ontwikkeling van
 
 ### ART. 48.
 
-<P>De   instapvoorwaarden van het beheerpakket onderhoud kaphaag zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de kaphaag ligt voor de volledige lengte op of langs een perceel   landbouwgrond;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de kaphaag maakt geen deel uit van een tuin en kan niet beschouwd worden als   windscherm behorend bij fruit- of sierteelt of als erfbeplanting behorend bij   gebouwen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de kaphaag bestaat voor minstens 75 procent uit soorten die geschikt zijn om   voor te komen in een houtkant of uit soorten die geschikt zijn om voor te komen   in een knotbomenrij als vermeld in bijlage 6;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de lengte van de kaphaag is minstens 25 meter;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de lengte van de kaphaag mag in verhouding met het perceel landbouwgrond waarop   de kaphaag ligt maximaal 500 meter per hectare bedragen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   als er gaten voorkomen in de kaphaag dan worden deze gaten voor 31 mei van het   eerste jaar van de beheerovereenkomst opgevuld met soorten die geschikt zijn om   voor te komen in een houtkant of knotbomenrij als vermeld in bijlage   6.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   beheervoorwaarden van het beheerpakket onderhoud kaphaag zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het beheerpakket wordt toegepast voor de afmetingen vermeld in de   beheerovereenkomst;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de stambasis van de kaphaag wordt beschermd tegen vraatschade door   vee;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de kaphaag wordt op de volgende wijze beheerd, waarbij de wijze van beheer wordt   bepaald in de beheerovereenkomst:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   als de kaphaag bestaat uit hakhout wordt minstens 75 procent van de kaphaag   afgezet binnen de eerste vier jaar van de beheerovereenkomst; het afzetten kan   gebeuren hetzij in een keer, hetzij gefaseerd; het gebruik van een klepelmaaier   is niet toegestaan;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   als de kaphaag bestaat uit knotbomen worden alle knotbomen geknot binnen de   eerste vier jaar van de beheerovereenkomst; het knotten kan gebeuren hetzij in   een keer, hetzij gefaseerd; het gebruik van een klepelmaaier is niet   toegestaan;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   soorten die niet opgenomen zijn in bijlage 6 worden binnen de eerste vier jaar   van de beheerovereenkomst verwijderd en vervangen door soorten die geschikt zijn   om voor te komen in een knotbomenrij of houtkant als vermeld in bijlage 6; voor   de bestrijding van amerikaanse vogelkers, amerikaanse eik en robinia is een   gerichte stobbenbehandeling met herbicide toegelaten;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   afgestorven planten worden in het eerstvolgende plantseizoen vervangen door   soorten die geschikt zijn om voor te komen in een houtkant of knotbomenrij als   vermeld in bijlage 6:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   het snoeiafval wordt niet in het landschapselement achtergelaten, ook niet na   het hakselen van het snoeihout;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   als de kaphaag bestaat uit hakhout worden de stobben vrijgemaakt om te voorkomen   dat de hergroei verstikt en de planten afsterven.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   basisnormen van het beheerpakket onderhoud kaphaag zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   behoudens het beheer dat in de beheerovereenkomst is opgenomen, wordt geen   enkele activiteit uitgevoerd die de kaphaag of de bijhorende vegetatie   beschadigt of vernietigt;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   om broedende vogels niet te verstoren, worden werken aan de kaphaag uitgevoerd   in de periode vanaf 1 november tot en met 15 maart.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De instapvoorwaarden van het beheerpakket onderhoud kaphaag zijn:<br>
+1° de kaphaag ligt voor de volledige lengte op of langs een perceel landbouwgrond;<br>
+2° de kaphaag maakt geen deel uit van een tuin en kan niet beschouwd worden als windscherm behorend bij fruit- of sierteelt of als erfbeplanting behorend bij gebouwen;<br>
+3° de kaphaag bestaat voor minstens 75 procent uit soorten die geschikt zijn om voor te komen in een houtkant of uit soorten die geschikt zijn om voor te komen in een knotbomenrij als vermeld in bijlage 6;<br>
+4° de lengte van de kaphaag is minstens 25 meter;<br>
+5° de lengte van de kaphaag mag in verhouding met het perceel landbouwgrond waarop de kaphaag ligt maximaal 500 meter per hectare bedragen;<br>
+6° er mogen geen gaten voorkomen in de kaphaag.</p>
+
+<p>De beheervoorwaarden van het beheerpakket onderhoud kaphaag zijn:<br>
+1° het beheerpakket wordt toegepast voor de afmetingen vermeld in de beheerovereenkomst;<br>
+2° de stambasis van de kaphaag wordt beschermd tegen vraatschade door vee;<br>
+3° de kaphaag wordt op de volgende wijze beheerd, waarbij de wijze van beheer wordt bepaald in de beheerovereenkomst:<br>
+a) als de kaphaag bestaat uit hakhout wordt minstens 75 procent van de kaphaag afgezet binnen de eerste vier jaar van de beheerovereenkomst; het afzetten kan gebeuren hetzij in een keer, hetzij gefaseerd; het gebruik van een klepelmaaier is niet toegestaan;<br>
+b) als de kaphaag bestaat uit knotbomen worden alle knotbomen geknot binnen de eerste vier jaar van de beheerovereenkomst; het knotten kan gebeuren hetzij in een keer, hetzij gefaseerd; het gebruik van een klepelmaaier is niet toegestaan;<br>
+4° soorten die niet opgenomen zijn in bijlage 6 worden binnen de eerste vier jaar van de beheerovereenkomst verwijderd en vervangen door soorten die geschikt zijn om voor te komen in een knotbomenrij of houtkant als vermeld in bijlage 6; voor de bestrijding van amerikaanse vogelkers, amerikaanse eik en robinia is een gerichte stobbenbehandeling met herbicide toegelaten;<br>
+5° afgestorven planten worden in het eerstvolgende plantseizoen vervangen door soorten die geschikt zijn om voor te komen in een houtkant of knotbomenrij als vermeld in bijlage 6:<br>
+6° het snoeiafval wordt niet in het landschapselement achtergelaten, ook niet na het hakselen van het snoeihout;<br>
+7° als de kaphaag bestaat uit hakhout worden de stobben vrijgemaakt om te voorkomen dat de hergroei verstikt en de planten afsterven.</p>
+
+<p>De basisnormen van het beheerpakket onderhoud kaphaag zijn:<br>
+1° behoudens het beheer dat in de beheerovereenkomst is opgenomen, wordt geen enkele activiteit uitgevoerd die de kaphaag of de bijhorende vegetatie beschadigt of vernietigt;<br>
+2° om broedende vogels niet te verstoren, worden werken aan de kaphaag uitgevoerd in de periode vanaf 1 november tot en met 15 maart.</p>
 
 ### ART. 49.
 
@@ -438,7 +491,27 @@ Het   beheerpakket onderhoud heg beoogt het onderhoud en de ontwikkeling van bes
 
 ### ART. 51.
 
-<P>De   instapvoorwaarden van het beheerpakket onderhoud heg zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de heg ligt voor de volledige lengte op of langs een perceel   landbouwgrond;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de heg maakt geen deel uit van een tuin en kan niet beschouwd worden als   erfbeplanting behorend bij gebouwen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de heg bestaat voor minstens 75 procent uit soorten die geschikt zijn om voor te   komen in een heg als vermeld in bijlage 6;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de lengte van de heg is minstens 25 meter;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de lengte van de heg mag in verhouding met het perceel landbouwgrond waarop de   heg ligt maximaal 500 meter per hectare bedragen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   als er gaten voorkomen in de heg dan worden deze gaten voor 31 mei van het   eerste jaar van de beheerovereenkomst opgevuld met soorten die geschikt zijn om   voor te komen in een heg als vermeld in bijlage 6;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   als de heg beschouwd wordt als een windscherm, bestaat de heg uit minstens vijf   soorten die geschikt zijn om voor te komen in een heg als vermeld in bijlage 6;   het aandeel per soort bedraagt maximaal 20 procent van de heg.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   beheervoorwaarden van het beheerpakket onderhoud heg zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het beheerpakket wordt toegepast voor de afmetingen vermeld in de   beheerovereenkomst;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de stambasis van de heg wordt beschermd tegen vraatschade door vee;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de volledige heg wordt tijdens het eerste jaar van de beheerovereenkomst   teruggesnoeid; de daaropvolgende vier jaren wordt de heg niet gesnoeid; het   gebruik van een klepelmaaier is niet toegelaten;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de snoeihoogte van de heg bedraagt minstens 1,5 meter en de snoeibreedte   bedraagt minstens 1 meter;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   het snoeiafval wordt niet in het landschapselement achtergelaten, ook niet na   het hakselen van het snoeihout;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   soorten die niet opgenomen zijn in bijlage 6 worden binnen de eerste vier jaar   van de beheerovereenkomst verwijderd en vervangen door soorten die geschikt zijn   om voor te komen in een heg als vermeld in bijlage 6; voor de bestrijding van   amerikaanse vogelkers, amerikaanse eik en robinia is een gerichte   stobbenbehandeling met herbicide toegelaten;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   afgestorven planten worden in het eerstvolgende plantseizoen vervangen door   soorten die geschikt zijn om voor te komen in een heg als vermeld in bijlage   6.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   basisnormen van het beheerpakket onderhoud heg zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   behoudens het beheer dat in de beheerovereenkomst is opgenomen, wordt geen   enkele activiteit uitgevoerd die de heg of de bijhorende vegetatie beschadigt of   vernietigt;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   om broedende vogels niet te verstoren, worden werken aan de heg uitgevoerd in de   periode vanaf 1 november tot en met 15 maart.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De instapvoorwaarden van het beheerpakket onderhoud heg zijn:<br>
+1° de heg ligt voor de volledige lengte op of langs een perceel landbouwgrond;<br>
+2° de heg maakt geen deel uit van een tuin en kan niet beschouwd worden als erfbeplanting behorend bij gebouwen;<br>
+3° de heg bestaat voor minstens 75 procent uit soorten die geschikt zijn om voor te komen in een heg als vermeld in bijlage 6;<br>
+4° de lengte van de heg is minstens 25 meter;<br>
+5° de lengte van de heg mag in verhouding met het perceel landbouwgrond waarop de heg ligt maximaal 500 meter per hectare bedragen;<br>
+6° er mogen geen gaten voorkomen in de heg;<br>
+7° als de heg beschouwd wordt als een windscherm, bestaat de heg uit minstens vijf soorten die geschikt zijn om voor te komen in een heg als vermeld in bijlage 6; het aandeel per soort bedraagt maximaal 20 procent van de heg.</p>
+
+<p>De beheervoorwaarden van het beheerpakket onderhoud heg zijn:<br>
+1° het beheerpakket wordt toegepast voor de afmetingen vermeld in de beheerovereenkomst;<br>
+2° de stambasis van de heg wordt beschermd tegen vraatschade door vee;<br>
+3° de volledige heg wordt tijdens het eerste jaar van de beheerovereenkomst teruggesnoeid; de daaropvolgende vier jaren wordt de heg niet gesnoeid; het gebruik van een klepelmaaier is niet toegelaten;<br>
+4° de snoeihoogte van de heg bedraagt minstens 1,5 meter en de snoeibreedte bedraagt minstens 1 meter;<br>
+5° het snoeiafval wordt niet in het landschapselement achtergelaten, ook niet na het hakselen van het snoeihout;<br>
+6° soorten die niet opgenomen zijn in bijlage 6 worden binnen de eerste vier jaar van de beheerovereenkomst verwijderd en vervangen door soorten die geschikt zijn om voor te komen in een heg als vermeld in bijlage 6; voor de bestrijding van amerikaanse vogelkers, amerikaanse eik en robinia is een gerichte stobbenbehandeling met herbicide toegelaten;<br>
+7° afgestorven planten worden in het eerstvolgende plantseizoen vervangen door soorten die geschikt zijn om voor te komen in een heg als vermeld in bijlage 6.</p>
+
+<p>De basisnormen van het beheerpakket onderhoud heg zijn:<br>
+1° behoudens het beheer dat in de beheerovereenkomst is opgenomen, wordt geen enkele activiteit uitgevoerd die de heg of de bijhorende vegetatie beschadigt of vernietigt;<br>
+2° om broedende vogels niet te verstoren, worden werken aan de heg uitgevoerd in de periode vanaf 1 november tot en met 15 maart.</p>
 
 ### ART. 52.
 
@@ -458,7 +531,7 @@ Het beheerpakket onderhoud houtkant 75% afzetten beoogt het onderhoud en de ontw
 3° ...;<br>
 4° de oppervlakte van de houtkant is minstens 1 are;<br>
 5° de breedte van de houtkant is maximaal 10 meter;<br>
-6° als er gaten voorkomen in de houtkant dan worden deze gaten voor 31 mei van het eerste jaar van de beheerovereenkomst opgevuld met soorten die geschikt zijn om voor te komen in een houtkant als vermeld in bijlage 6;<br>
+6° er mogen geen gaten voorkomen in de houtkant;<br>
 7° de houtkant wordt jaarlijks als een perceel geregistreerd in de verzamelaanvraag;<br>
 8° de houtkant bestaat voor minstens 75 procent uit soorten die geschikt zijn om voor te komen in een houtkant als vermeld in bijlage 6.</p>
 
@@ -524,7 +597,28 @@ De jaarlijkse beheervergoeding voor het beheerpakket onderhoud houtkant 25 % afz
 
 ### ART. 57.
 
-<P>De   instapvoorwaarden van het beheerpakket omvormingsbeheer houtkant zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de houtkant ligt voor de volledige lengte op of langs landbouwgrond;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de houtkant maakt geen deel uit van een tuin en kan niet beschouwd worden als   windscherm behorend bij fruit- of sierteelt of als erfbeplanting behorend bij   gebouwen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de houtkant wordt jaarlijks als een perceel geregistreerd in de   verzamelaanvraag;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de oppervlakte van de houtkant is minstens 1 are;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de breedte van de houtkant is maximaal 10 meter;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   het omvormingsbeheer gebeurt in het kader van een project dat door de   maatschappij is goedgekeurd en waarin bepaald wordt op welke wijze het   achterstallig onderhoud wordt weggewerkt;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   als er gaten voorkomen in de houtkant dan worden deze gaten voor 31 mei van het   eerste jaar van de beheerovereenkomst opgevuld met soorten die geschikt zijn om   voor te komen in een houtkant als vermeld in bijlage 6.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   beheervoorwaarden van het beheerpakket omvormingsbeheer houtkant zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het beheerpakket wordt toegepast voor de afmetingen vermeld in de   beheerovereenkomst;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de beheerder heeft het beheervoorwerp gedurende de volledige looptijd van de   beheerovereenkomst in gebruik volgens de gegevens opgenomen in het GBCS, tenzij   het beheervoorwerp wordt overgenomen conform artikel 25 van het besluit van de   Vlaamse Regering van 19 september 2014;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de stambasis van de houtkant wordt beschermd tegen vraatschade door   vee;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   afgestorven planten worden in het eerstvolgende plantseizoen vervangen door   soorten die geschikt zijn om voor te komen in een houtkant als vermeld in   bijlage 6:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   het snoeiafval wordt niet in het landschapselement achtergelaten, ook niet na   het hakselen van het snoeihout;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   de stobben worden vrijgemaakt om te voorkomen dat de hergroei verstikt en de   planten afsterven;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   soorten die niet opgenomen zijn in bijlage 6 worden binnen de eerste vier jaar   van de beheerovereenkomst verwijderd en vervangen door soorten die geschikt zijn   om voor te komen in een houtkant als vermeld in bijlage 6; voor de bestrijding   van amerikaanse vogelkers, amerikaanse eik en robinia is een gerichte   stobbenbehandeling met herbicide toegelaten;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">8°   de houtkant wordt beheerd op de wijze en volgens het tijdstip bepaald in het   project, vermeld in het eerste lid, 6°.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   basisnormen van het beheerpakket omvormingsbeheer houtkant zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   behoudens het beheer dat in de beheerovereenkomst is opgenomen, wordt geen   enkele activiteit uitgevoerd die de houtkant of de bijhorende vegetatie   beschadigt of vernietigt;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   om broedende vogels niet te verstoren, worden werken aan de houtkant uitgevoerd   in de periode vanaf 1 november tot en met 15 maart.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De instapvoorwaarden van het beheerpakket omvormingsbeheer houtkant zijn:<br>
+1° de houtkant ligt voor de volledige lengte op of langs landbouwgrond;<br>
+2° de houtkant maakt geen deel uit van een tuin en kan niet beschouwd worden als windscherm behorend bij fruit- of sierteelt of als erfbeplanting behorend bij gebouwen;<br>
+3° de houtkant wordt jaarlijks als een perceel geregistreerd in de verzamelaanvraag;<br>
+4° de oppervlakte van de houtkant is minstens 1 are;<br>
+5° de breedte van de houtkant is maximaal 10 meter;<br>
+6° het omvormingsbeheer gebeurt in het kader van een project dat door de maatschappij is goedgekeurd en waarin bepaald wordt op welke wijze het achterstallig onderhoud wordt weggewerkt;<br>
+7° er mogen geen gaten voorkomen in de houtkant.</p>
+
+<p>De beheervoorwaarden van het beheerpakket omvormingsbeheer houtkant zijn:<br>
+1° het beheerpakket wordt toegepast voor de afmetingen vermeld in de beheerovereenkomst;<br>
+2° de beheerder heeft het beheervoorwerp gedurende de volledige looptijd van de beheerovereenkomst in gebruik volgens de gegevens opgenomen in het GBCS, tenzij het beheervoorwerp wordt overgenomen conform artikel 25 van het besluit van de Vlaamse Regering van 19 september 2014;<br>
+3° de stambasis van de houtkant wordt beschermd tegen vraatschade door vee;<br>
+4° afgestorven planten worden in het eerstvolgende plantseizoen vervangen door soorten die geschikt zijn om voor te komen in een houtkant of heg&nbsp;als vermeld in bijlage 6:<br>
+5° het snoeiafval wordt niet in het landschapselement achtergelaten, ook niet na het hakselen van het snoeihout;<br>
+6° de stobben worden vrijgemaakt om te voorkomen dat de hergroei verstikt en de planten afsterven;<br>
+7° soorten die niet opgenomen zijn in bijlage 6 worden binnen de eerste vier jaar van de beheerovereenkomst verwijderd en vervangen door soorten die geschikt zijn om voor te komen in een houtkant of heg als vermeld in bijlage 6; voor de bestrijding van amerikaanse vogelkers, amerikaanse eik en robinia is een gerichte stobbenbehandeling met herbicide toegelaten;<br>
+8° de houtkant wordt beheerd op de wijze en volgens het tijdstip bepaald in het project, vermeld in het eerste lid, 6°.</p>
+
+<p>De basisnormen van het beheerpakket omvormingsbeheer houtkant zijn:<br>
+1° behoudens het beheer dat in de beheerovereenkomst is opgenomen, wordt geen enkele activiteit uitgevoerd die de houtkant of de bijhorende vegetatie beschadigt of vernietigt;<br>
+2° om broedende vogels niet te verstoren, worden werken aan de houtkant uitgevoerd in de periode vanaf 1 november tot en met 15 maart.</p>
 
 ### ART. 58.
 
@@ -538,7 +632,25 @@ Het   beheerpakket onderhoud knotbomenrij beoogt het onderhoud en de ontwikkelin
 
 ### ART. 60.
 
-<P>De   instapvoorwaarden van het beheerpakket onderhoud knotbomenrij zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de knotbomenrij ligt voor de volledige lengte op of langs   landbouwgrond;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de knotbomenrij maakt geen deel uit van een tuin en kan niet beschouwd worden   als windscherm behorend bij fruit- of sierteelt of als erfbeplanting behorend   bij gebouwen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de knotbomenrij bestaat uit soorten die geschikt zijn om voor te komen in een   knotbomenrij als vermeld in bijlage 6;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de afstand tussen de knotbomen is minimaal 2 meter en maximaal 10   meter;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de knothoogte is minstens 1,8 meter;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   als er gaten voorkomen in de knotbomenrij dan worden deze gaten voor 31 mei van   het eerste jaar van de beheerovereenkomst opgevuld met soorten die geschikt zijn   om voor te komen in een knotbomenrij als vermeld in bijlage 6;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   minstens tien knotbomen in de knotbomenrij voldoen aan de voorwaarden 1° tot en   met 5°.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   beheervoorwaarden van het beheerpakket onderhoud knotbomenrij zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het beheerpakket wordt toegepast voor de afmetingen vermeld in de   beheerovereenkomst;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de stambasis van de knotbomenrij wordt beschermd tegen vraatschade door   vee;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   afgestorven planten worden in het eerstvolgende plantseizoen vervangen door   soorten die geschikt zijn om voor te komen in een knotbomenrij als vermeld in   bijlage 6;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   het snoeiafval wordt niet in het landschapselement achtergelaten, ook niet na   het hakselen van het snoeihout;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de knotbomenrij wordt binnen de eerste vier jaar van de beheerovereenkomst   geknot op een hoogte van minstens 1,8 meter; het knotten kan gebeuren hetzij in   een keer, hetzij gefaseerd; het gebruik van een klepelmaaier is niet   toegestaan.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   basisnormen van het beheerpakket onderhoud knotbomenrij zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   behoudens het beheer dat in de beheerovereenkomst is opgenomen, wordt geen   enkele activiteit uitgevoerd die de knotbomenrij of de bijhorende vegetatie   beschadigt of vernietigt;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   om broedende vogels niet te verstoren worden werken aan de knotbomenrij   uitgevoerd in de periode vanaf 1 november tot en met 15 maart.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De instapvoorwaarden van het beheerpakket onderhoud knotbomenrij zijn:<br>
+1° de knotbomenrij ligt voor de volledige lengte op of langs landbouwgrond;<br>
+2° de knotbomenrij maakt geen deel uit van een tuin en kan niet beschouwd worden als windscherm behorend bij fruit- of sierteelt of als erfbeplanting behorend bij gebouwen;<br>
+3° de knotbomenrij bestaat uit soorten die geschikt zijn om voor te komen in een knotbomenrij als vermeld in bijlage 6;<br>
+4° de afstand tussen de knotbomen is minimaal 2 meter en maximaal 10 meter;<br>
+5° de knothoogte is minstens 1,8 meter;<br>
+6° er mogen geen gaten voorkomen in de knotbomenrij;<br>
+7° minstens tien knotbomen in de knotbomenrij voldoen aan de voorwaarden 1° tot en met 5°.</p>
+
+<p>De beheervoorwaarden van het beheerpakket onderhoud knotbomenrij zijn:<br>
+1° het beheerpakket wordt toegepast voor de afmetingen vermeld in de beheerovereenkomst;<br>
+2° de stambasis van de knotbomenrij wordt beschermd tegen vraatschade door vee;<br>
+3° afgestorven planten worden in het eerstvolgende plantseizoen vervangen door soorten die geschikt zijn om voor te komen in een knotbomenrij als vermeld in bijlage 6;<br>
+4° het snoeiafval wordt niet in het landschapselement achtergelaten, ook niet na het hakselen van het snoeihout;<br>
+5° de knotbomenrij wordt binnen de eerste vier jaar van de beheerovereenkomst geknot op een hoogte van minstens 1,8 meter; het knotten kan gebeuren hetzij in een keer, hetzij gefaseerd; het gebruik van een klepelmaaier is niet toegestaan.</p>
+
+<p>De basisnormen van het beheerpakket onderhoud knotbomenrij zijn:<br>
+1° behoudens het beheer dat in de beheerovereenkomst is opgenomen, wordt geen enkele activiteit uitgevoerd die de knotbomenrij of de bijhorende vegetatie beschadigt of vernietigt;<br>
+2° om broedende vogels niet te verstoren worden werken aan de knotbomenrij uitgevoerd in de periode vanaf 1 november tot en met 15 maart.</p>
 
 ### ART. 61.
 
@@ -558,7 +670,7 @@ De instapvoorwaarden van het beheerpakket onderhoud houtsingel zijn :<br>
 3° de houtsingel bestaat voor minstens 75 procent uit soorten die geschikt zijn om voor te komen in een heg als vermeld in bijlage 6;<br>
 4° de oppervlakte van de houtsingel is minstens 1 are;<br>
 5° de breedte van de houtsingel is maximaal 10 meter;<br>
-6° als er gaten voorkomen in de houtsingel dan worden deze gaten voor 31 mei van het eerste jaar van de beheerovereenkomst opgevuld met soorten die geschikt zijn om voor te komen in een heg als vermeld in bijlage 6;<br>
+6° er mogen geen gaten voorkomen in de houtsingel;<br>
 7° de houtsingel wordt jaarlijks als een perceel geregistreerd in de verzamelaanvraag.<br>
 <br>
 De beheervoorwaarden van het beheerpakket onderhoud houtsingel zijn :<br>
@@ -683,7 +795,27 @@ Het   beheerpakket aanleg en onderhoud bloemenstrook beoogt het tot stand brenge
 
 ### ART. 79.
 
-<P>De   instapvoorwaarden van het beheerpakket aanleg en onderhoud bloemenstrook   zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   minstens 75 procent van de lengte van de bloemenstrook grenst aan een zuidoost   tot zuidwest georiënteerde zijde van een bos of van een houtig landschapselement   als vermeld in respectievelijk punt 2° en 6° van bijlage 4;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de bloemenstrook wordt jaarlijks als een perceel geregistreerd in de   verzamelaanvraag;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de bloemenstrook heeft een gemiddelde breedte van zes tot twaalf   meter.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   beheervoorwaarden van het beheerpakket aanleg en onderhoud bloemenstrook   zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de bloemenstrook wordt tot stand gebracht door de strook jaarlijks voor 31 mei   in te zaaien met een eenjarig bloemenmengsel of door de strook voor 31 mei van   het eerste jaar van de beheerovereenkomst in te zaaien met een meerjarig   bloemenmengsel of klavermengsel; de voorwaarden waaraan het bloemenmengsel of   klavermengsel moet voldoen, zijn opgenomen in bijlage 5, die bij dit besluit is   gevoegd;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de factuur of het aankoopbewijs en het zaaizaadetiket worden bijgehouden tot   drie jaar na afloop van de beheerovereenkomst;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   het beheerpakket wordt toegepast voor de afmetingen vermeld in de   beheerovereenkomst en de bloemenstrook is over de volledige lengte minstens vijf   meter breed;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de beheerder heeft het beheervoorwerp gedurende de volledige looptijd van de   beheerovereenkomst in gebruik volgens de gegevens opgenomen in het GBCS, tenzij   het beheervoorwerp wordt overgenomen conform artikel 25 van het besluit van de   Vlaamse Regering van 19 september 2014;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   behoudens het herinzaaien van een bloemenmengsel of klavermengsel en het maaien   of klepelen, wordt geen enkele activiteit uitgevoerd op de   bloemenstrook;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   op de bloemenstrook worden geen bestrijdingsmiddelen gebruikt, uitgezonderd voor   de manuele pleksgewijze bestrijding van akkerdistel;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   op de bloemenstrook worden geen meststoffen of bodemverbeteringsmiddelen   opgebracht;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">8°   als een meerjarig bloemenmengsel of klavermengsel wordt ingezaaid, wordt de   bloemenstrook als volgt beheerd om zo de betere spreiding van de bloei mogelijk   te maken:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   in het eerste jaar van de beheerovereenkomst wordt de bloemenstrook volledig   gemaaid of geklepeld in de periode vanaf 1 september tot en met 30   september;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   vanaf het tweede jaar van de beheerovereenkomst wordt minstens een derde en   maximaal de helft van de bloemenstrook jaarlijks gemaaid of geklepeld in de   periode vanaf 15 juni tot en met 15 juli;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">9°   als een klavermengsel wordt ingezaaid, wordt de bloemenstrook in het derde jaar   van de beheerovereenkomst heringezaaid met een bloemenmengsel dat voldoet aan de   voorwaarden, vermeld in bijlage 5.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De instapvoorwaarden van het beheerpakket aanleg en onderhoud bloemenstrook zijn:<br>
+1° de ligging van de bloemenstrook is geschikt om het beheerpakket op toe te passen volgens de beoordeling van de maatschappij;<br>
+2° de bloemenstrook wordt jaarlijks als een perceel geregistreerd in de verzamelaanvraag;<br>
+3° de bloemenstrook heeft een gemiddelde breedte van zes tot twaalf meter.</p>
+
+<p>De beheervoorwaarden van het beheerpakket aanleg en onderhoud bloemenstrook zijn:<br>
+1° de bloemenstrook wordt tot stand gebracht door de strook jaarlijks voor 1 mei in te zaaien met een eenjarig bloemenmengsel of door de strook voor 1 mei van het eerste jaar van de beheerovereenkomst in te zaaien met een meerjarig mengsel van vlinderbloemigen. De voorwaarden waaraan het eenjarige bloemenmengsel of het meerjarige mengsel van vlinderbloemigen moet voldoen, zijn opgenomen in bijlage 5, die bij dit besluit is gevoegd;<br>
+2° de factuur of het aankoopbewijs en het zaaizaadetiket worden bijgehouden tot drie jaar na afloop van de beheerovereenkomst;<br>
+3° het beheerpakket wordt toegepast voor de afmetingen vermeld in de beheerovereenkomst en de bloemenstrook is over de volledige lengte minstens vijf meter breed;<br>
+4° de beheerder heeft het beheervoorwerp gedurende de volledige looptijd van de beheerovereenkomst in gebruik volgens de gegevens opgenomen in het GBCS, tenzij het beheervoorwerp wordt overgenomen conform artikel 25 van het besluit van de Vlaamse Regering van 19 september 2014;<br>
+5° op de bloemenstrook mogen alleen de volgende activiteiten worden uitgevoerd:<br>
+a) inzaaien of herinzaaien;<br>
+b) frezen voor de inzaai of herinzaai;<br>
+c) maaien en afvoeren van het maaisel;<br>
+6° op de bloemenstrook worden geen bestrijdingsmiddelen gebruikt, uitgezonderd voor de manuele pleksgewijze bestrijding van akkerdistel;<br>
+7° op de bloemenstrook worden geen meststoffen of bodemverbeteringsmiddelen opgebracht;<br>
+8° als een meerjarig mengsel van vlinderbloemigen wordt ingezaaid, wordt de bloemenstrook als volgt beheerd om de bloei beter te spreiden:<br>
+a) de volledige bloemenstrook wordt jaarlijks gemaaid in de periode vanaf 15 september tot en met 15 oktober, waarbij het maaisel wordt afgevoerd;<br>
+b) vanaf het eerste jaar dat volgt op het jaar van de inzaai, mag de bloemenstrook daarnaast jaarlijks gemaaid worden in de periode vanaf 1 januari tot en met 15 mei, waarbij het maaisel wordt afgevoerd. Als in de voormelde periode gemaaid wordt, moet minimaal de helft van de breedte van de strook behouden blijven;"<br>
+9° als een meerjarig mengsel van vlinderbloemigen wordt ingezaaid, mag de strook in het tweede jaar dat volgt op het jaar van de inzaai van het meerjarige mengsel van vlinderbloemigen, voor 1 mei heringezaaid worden met een eenjarig bloemenmengsel of een meerjarig mengsel van vlinderbloemigen dat voldoet aan de voorwaarden, vermeld in bijlage 5, die bij dit besluit is gevoegd;<br>
+10° als een eenjarig bloemenmengsel wordt ingezaaid, mag de strook in een daaropvolgend jaar voor 1 mei heringezaaid worden met een meerjarig mengsel van vlinderbloemigen dat voldoet aan de voorwaarden, vermeld in bijlage 5, die bij dit besluit is gevoegd.</p>
 
 ### ART. 80.
 
@@ -1010,9 +1142,13 @@ De beheervoorwaarden van het beheerpakket aanleg en onderhoud luzernestrook voge
 3° de luzernestrook wordt tot stand gebracht door een bestaande luzernestrook te behouden of door de strook voor 1 mei van het eerste jaar van de beheerovereenkomst in te zaaien met luzerne of een mengsel van luzerne, rode klaver en voederwikke waarbij het mengsel uit minimaal 75 % luzerne bestaat;<br>
 4° vanaf het derde jaar van de beheerovereenkomst mag de luzernestrook eenmaal opnieuw ingezaaid worden met luzerne of een mengsel van luzerne, rode klaver en voederwikke waarbij het mengsel uit minimaal 75 % luzerne bestaat; de luzernestrook wordt ingezaaid tussen 1 januari en 1 mei;<br>
 5° op de luzernestrook worden geen bestrijdingsmiddelen gebruikt, uitgezonderd voor de manuele pleksgewijze bestrijding van akkerdistel;<br>
-6° de luzernestrook wordt jaarlijks drie keer gemaaid waarbij het maaisel wordt afgevoerd binnen vijftien dagen na het maaien, de eerste maaibeurt wordt uitgevoerd in de periode vanaf 1 mei tot en met 31 mei; de tweede maaibeurt wordt minstens zestig dagen later uitgevoerd dan de eerste maaibeurt en uiterlijk voor 1 september; de derde maaibeurt gebeurt in de periode vanaf 1 oktober tot en met 1 maart van het daaropvolgend kalenderjaar; de derde maaibeurt mag vervangen worden door klepelen of door maaien zonder dat het maaisel afgevoerd wordt; in het eerste jaar van de beheerovereenkomst mag ook de eerste maaibeurt vervangen worden door klepelen of maaien zonder afvoeren van het maaisel;<br>
-7° op de luzernestrook wordt geen enkele activiteit uitgevoerd, behalve maaien of klepelen of het opbrengen van meststoffen;<br>
-8° de beheerder houdt een register bij waarin per luzernestrook alle maaidata en klepeldata worden genoteerd; de data worden ten laatste zeven dagen na het maaien of klepelen in het register genoteerd.<br>
+6° de luzernestrook wordt jaarlijks drie keer gemaaid, waarbij het maaisel wordt afgevoerd binnen vijftien dagen na het maaien. De eerste maaibeurt wordt uitgevoerd in de periode vanaf 1 mei tot en met 31 mei. De tweede maaibeurt wordt minstens zestig dagen later dan de eerste maaibeurt uitgevoerd en uiterlijk voor 1 september. De derde maaibeurt vindt plaats in de periode vanaf 1 oktober tot en met 1 maart van het daaropvolgende kalenderjaar. De derde maaibeurt mag vervangen worden door klepelen of door maaien zonder dat het maaisel afgevoerd wordt. In het eerste jaar van de beheerovereenkomst en in het jaar dat de luzerne heringezaaid wordt, mag ook de eerste maaibeurt vervangen worden door klepelen of maaien zonder afvoer van het maaisel;<br>
+7° op de luzernestrook mogen alleen de volgende activiteiten worden uitgevoerd:<br>
+a) inzaaien of herinzaaien;<br>
+b) frezen voor de inzaai of herinzaai;<br>
+c) maaien of klepelen, en afvoeren van het maaisel;<br>
+8° de beheerder houdt een register bij waarin per luzernestrook alle maaidata en klepeldata worden genoteerd; de data worden ten laatste zeven dagen na het maaien of klepelen in het register genoteerd;<br>
+9° op de luzernestrook worden geen meststoffen of bodemverbeteringsmiddelen opgebracht, behalve voor de inzaai van de luzerne.<br>
 <br>
 De basisnormen van het beheerpakket aanleg en onderhoud luzernestrook vogelakker zijn :<br>
 1° als de luzernestrook in een oeverzone ligt als vermeld in artikel 3, § 2, 43° van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, wordt het verbod op het gebruik van pesticiden vermeld in artikel 10, § 1, 2° van het voormelde decreet nageleefd;<br>
@@ -1083,7 +1219,7 @@ De beheervoorwaarden van het beheerpakket aanleg en onderhoud luzernestrook hams
 7° de luzernestrook wordt in het tweede en het derde jaar van de beheerovereenkomst jaarlijks minstens eenmaal gemaaid of geklepeld in de periode vanaf 1 oktober tot en met 1 maart van het daaropvolgend kalenderjaar;<br>
 8° de luzernestrook wordt in het vierde jaar van de beheerovereenkomst ingezaaid met wintertarwe in de periode vanaf 1 november tot en met 31 december en de wintertarwe wordt gedurende het vijfde jaar van de beheerovereenkomst behouden;<br>
 9° op de luzernestrook wordt geen enkele activiteit uitgevoerd, behoudens maaien of klepelen of het inzaaien van wintertarwe;<br>
-10° de beheerder houdt een register bij waarin per luzernestrook alle maaidata, klepeldata en inzaaidata worden genoteerd; de data worden ten laatste zeven dagen na het inzaaien, maaien of klepelen in het register genoteerd.<br>
+10° de beheerder houdt een register bij waarin per luzernestrook alle maaidata en klepeldata worden genoteerd. De voormelde data worden uiterlijk zeven dagen na het maaien of klepelen in het register genoteerd.<br>
 <br>
 De basisnormen van het beheerpakket aanleg en onderhoud luzernestrook hamster zijn :<br>
 1° de luzernestrook wordt minstens om de twee jaar gemaaid waarbij het maaisel wordt afgevoerd om verruiging en verbossing tegen te gaan;<br>
@@ -1351,7 +1487,7 @@ Dit   besluit heeft uitwerking met ingang van 1 januari 2015.
 
 ### BIJLAGE 2
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/05/13_1.pdf#page=126">Bijlage   2</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/02/07_1.pdf#page=111">Bijlage 2. Beheergebieden voor de beheerdoelstelling botanisch beheer, beheerpakket soortenrijk grasland als vermeld in artikel 10</a>
 
 ### BIJLAGE 3
 
@@ -1359,11 +1495,175 @@ Dit   besluit heeft uitwerking met ingang van 1 januari 2015.
 
 ### BIJLAGE 4
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/05/13_1.pdf#page=131">Bijlage   4</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2015/05/13_1.pdf#page=131">Bijlage 4</a><br>
+<br>
+*Bij MB 12 december 2017, BS 7 februari 2018, wordt met ingang van 17 februari 2018 een punt 10° toegevoegd dat luidt als volgt:<br>
+"10° de beheerder houdt een register bij waarin per luzernestrook alle maaidata en klepeldata worden genoteerd. De voormelde data worden uiterlijk zeven dagen na het maaien of klepelen in het register genoteerd".
 
 ### BIJLAGE 5
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/01/09_1.pdf#page=236">http://www.ejustice.just.fgov.be/mopdf/2017/01/09_1.pdf#page=236</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/01/09_1.pdf#page=236">http://www.ejustice.just.fgov.be/mopdf/2017/01/09_1.pdf#page=236</a><br>
+<br>
+* Bij MB van 12 december 2017, BS 7 februari 2018,&nbsp;worden met ingang van 17 februari 2018 de volgende wijzigingen aangebracht:<br>
+<br>
+1° paragraaf 2 wordt vervangen door wat volgt:<br>
+" § 2. Als in het kader van het beheerpakket aanleg en onderhoud bloemenstrook een bloemenmengsel of mengsel van vlinderbloemigen ingezaaid moet worden, moet voldaan worden aan al de volgende voorwaarden:<br>
+1° de bloemenstrook wordt uitsluitend ingezaaid met een eenjarig bloemenmengsel of meerjarig mengsel van vlinderbloemigen als vermeld in de volgende tabel b);<br>
+2° het eenjarige bloemenmengsel of meerjarige mengsel van vlinderbloemigen wordt ingezaaid volgens de zaaihoeveelheid, vermeld in de volgende tabel b);<br>
+3° de Tübinger- en Brandenburgerbloemenmengsels zijn eenjarige bloemenmengsels;<br>
+4° het meerjarige mengsel van vlinderbloemigen bestaat uit de soorten, vermeld in de volgende tabel b). Het maximale percentage van een soort die opgenomen mag worden in het meerjarige mengsel van vlinderbloemigen, is vermeld in de volgende tabel b);<br>
+5° het eenjarige bloemenmengsel bestaat uit de soorten, vermeld in de volgende tabel b). Het maximale percentage van een soort die opgenomen mag worden in het eenjarige bloemenmengsel is vermeld in de volgende tabel b);<br>
+Tabel b)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Nederlandse benaming bloemenmengsels en mengsels van vlinderbloemigen</td>
+			<td>wetenschappelijke naam</td>
+			<td>zaaihoeveelheid: minimaal gewicht per hectare</td>
+			<td>maximaal percentage van het ingezaaide gewicht</td>
+		</tr>
+		<tr>
+			<td>Tübinger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;kg/ha</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Brandenburger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;10 kg/ha</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>eenjarig bloemenmengsel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;10 kg/ha</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>korenbloem</td>
+			<td>Centaurea cyanus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;15 %</td>
+		</tr>
+		<tr>
+			<td>grote klaproos</td>
+			<td>Papaver rhoeas</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;15 %</td>
+		</tr>
+		<tr>
+			<td>echte kamille</td>
+			<td>Matricaria chamomilla</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;10 %</td>
+		</tr>
+		<tr>
+			<td>groep: kruisbloemigen (minstens twee van de onderstaande soorten en altijd zwarte mosterd):</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>30 %</td>
+		</tr>
+		<tr>
+			<td>koolzaad</td>
+			<td>Brassica napus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>raapzaad</td>
+			<td>Brassica rapa subsp. oleifera</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>zwarte mosterd</td>
+			<td>Brassica nigra</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>groep: vlinderbloemigen (minstens drie van de onderstaande soorten):</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>luzerne</td>
+			<td>Medicago sativa</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>bonte wikke</td>
+			<td>Vicia villosa</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;30 %</td>
+		</tr>
+		<tr>
+			<td>vogelwikke</td>
+			<td>Vicia cracca</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>esparcette</td>
+			<td>Onobrychis viccifolia</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>incarnaatklaver</td>
+			<td>Trifolium incarnatum</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>meerjarig mengsel van vlinderbloemigen</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;15 kg/ha</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>rode klaver</td>
+			<td>Trifolium pratense</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;40 %</td>
+		</tr>
+		<tr>
+			<td>luzerne</td>
+			<td>Medicago sativa</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;10 %</td>
+		</tr>
+		<tr>
+			<td>vogelwikke</td>
+			<td>Vicia cracca</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;15 %</td>
+		</tr>
+		<tr>
+			<td>incarnaatklaver</td>
+			<td>Trifolium incarnatum</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;10 %</td>
+		</tr>
+		<tr>
+			<td>esparcette</td>
+			<td>Onobrychis viccifolia</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;10 %</td>
+		</tr>
+		<tr>
+			<td>bonte wikke</td>
+			<td>Vicia villosa</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;15 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+2° in paragraaf 3, tabel c), wordt het woord "zomertarwe" vervangen door het woord " tarwe" en wordt het woord "zomerhaver" vervangen door het woord "haver".
 
 ### BIJLAGE 6
 
@@ -1383,7 +1683,9 @@ Dit   besluit heeft uitwerking met ingang van 1 januari 2015.
 
 ### BIJLAGE 10
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/01/09_1.pdf#page=241">http://www.ejustice.just.fgov.be/mopdf/2017/01/09_1.pdf#page=241</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/02/07_1.pdf#page=113">Bijlage 10</a><br>
+<br>
+&nbsp;
 
 ### BIJLAGE 11
 
@@ -1391,7 +1693,7 @@ Dit   besluit heeft uitwerking met ingang van 1 januari 2015.
 
 ### BIJLAGE 12
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/08/11_2.pdf#page=83">http://www.ejustice.just.fgov.be/mopdf/2017/08/11_2.pdf#page=83</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/02/07_1.pdf#page=117">Bijlage 12</a>
 
 ### BIJLAGE 13
 
