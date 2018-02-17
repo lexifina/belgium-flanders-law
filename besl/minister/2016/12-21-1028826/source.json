@@ -2,16 +2,16 @@
   "codex_id": 1028826,
   "title": "Ministerieel besluit van 2016-12-21 houdende vaststelling van de praktische modaliteiten in uitvoering van het besluit van de Vlaamse Regering van 30 september 2016 betreffende het Pendelfonds",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028826/VolledigDocument?datum=2017-12-28",
-  "source_sha256": "b30f8e27f25f04e128af827a37648d56f71c9ae572414be2052b5ef3585f3fde",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028826/VolledigDocument?datum=2018-02-17",
+  "source_sha256": "81e85f4193560788a047e4e826b436166944e938cc4423f24c4587ec798af45c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028826&param=informatie",
-  "as_of": "2017-12-28",
+  "as_of": "2018-02-17",
   "made": "2016-12-21",
   "gazette": "2017-12-18",
   "numac": 2017031794,
   "document_start": "2017-12-28",
   "document_end": "2018-02-16",
-  "in_force": "2017-12-28",
+  "in_force": "2018-02-17",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2017-12-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-02-17; future article versions excluded; article text as the API gives it"
 }
