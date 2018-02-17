@@ -71,9 +71,9 @@ In dit besluit wordt verstaan onder:<br>
 4° inspanningsgroep: inspanningsgroep als vermeld in bijlage I van Verordening (EG) nr. 1342/2008 van de Raad van 18 december 2008 tot vaststelling van een langetermijnplan voor kabeljauwbestanden en de bevissing van deze bestanden, en tot intrekking van Verordening (EG) nr. 423/2004;<br>
 5° KVS: klein vlootsegment, waaronder de vissersvaartuigen met een motorvermogen van 221 kW of minder ressorteren;<br>
 6° motorvermogen: het vermogen zoals bepaald in de Officiële lijst der Belgische vissersvaartuigen eventueel verhoogd met het bijkomend motorvermogen, vermeld op de visvergunning;<br>
-7° teruggooiplan Noordzee: teruggooiplan zoals vermeld in gedelegeerde verordening (EU) nr. 2017/ van de Commissie van 20 oktober 2017 tot vaststelling van een teruggooiplan voor bepaalde demersale visserijen in de Noordzee en de wateren van de Unie van ICES-sector IIa voor het jaar 2018;<br>
-8° teruggooiplan noordwestelijke wateren: teruggooiplan zoals bepaald bij gedelegeerde verordening (EU) nr. 2017/ van de Commissie van 20 oktober 2017 tot vaststelling van een teruggooiplan voor bepaalde demersale en diepzeevisserijen in de noordwestelijke wateren voor het jaar 2018;<br>
-9° teruggooiplan zuidwestelijke wateren: teruggooiplan zoals bepaald bij gedelegeerde verordening (EU) nr. 2017/ van de Commissie van 20 oktober 2017 tot wijziging van gedelegeerde verordening (EU) 2016/2374 tot vaststelling van een teruggooiplan voor bepaalde demersale visserijen in de zuidwestelijke wateren;<br>
+7° teruggooiplan Noordzee: het teruggooiplan zoals vermeld in gedelegeerde verordening (EU) nr. 2018/45 van de Commissie van 20 oktober 2017 tot vaststelling van een teruggooiplan voor bepaalde demersale visserijen in de Noordzee en de wateren van de Unie van ICES-sector IIa voor het jaar 2018;<br>
+8° teruggooiplan noordwestelijke wateren: teruggooiplan zoals vermeld in gedelegeerde verordening (EU) nr. 2018/46 van de Commissie van 20 oktober 2017 tot vaststelling van een teruggooiplan voor bepaalde demersale en diepzeevisserijen in de noordwestelijke wateren voor het jaar 2018;<br>
+9° teruggooiplan zuidwestelijke wateren: teruggooiplan zoals vermeld in gedelegeerde verordening (EU) nr. 2016/2374 van de Commissie van 12 oktober 2016 tot vaststelling van een teruggooiplan voor bepaalde demersale visserijen in de zuidwestelijke wateren;<br>
 10° vaartdag: de aanwezigheid op zee van ten minste vier uur in de loop van een dag. Het uitvaren van een vissersschip voor een duur die 24 uur niet overschrijdt, wordt als één vaartdag beschouwd. Het uitvaren van een vissersschip voor een duur die 24 uur of een veelvoud van 24 uur overschrijdt, levert telkens een nieuwe vaartdag op;<br>
 11° vismachtiging: het visdocument, vermeld in artikel 7 van Verordening (EG) nr. 1224/2009 van de Raad van 20 november 2009 tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen, tot wijziging van Verordeningen (EG) nr. 847/96, (EG) nr. 2371/2002, (EG) nr. 811/2004, (EG) nr. 768/2005, (EG) nr. 2115/2005, (EG) nr. 2166/2005, (EG) nr. 388/2006, (EG) nr. 509/2007, (EG) nr. 676/2007, (EG) nr. 1098/2007, (EG) nr. 1300/2008, (EG) nr. 1342/2008 en tot intrekking van Verordeningen (EEG) nr. 2847/93, (EG) nr. 1627/94 en (EG) nr. 1966/2006;<br>
 12° EU-logboek: het visserijlogboek, vermeld in artikel 14 van Verordening (EG) nr. 1224/2009 van de Raad van 20 november 2009 tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen, tot wijziging van Verordeningen (EG) nr. 847/96, (EG) nr. 2371/2002, (EG) nr. 811/2004, (EG) nr. 768/2005, (EG) nr. 2115/2005, (EG) nr. 2166/2005, (EG) nr. 388/2006, (EG) nr. 509/2007, (EG) nr. 676/2007, (EG) nr. 1098/2007, (EG) nr. 1300/2008, (EG) nr. 1342/2008 en tot intrekking van Verordeningen (EEG) nr. 2847/93, (EG) nr. 1627/94 en (EG) nr. 1966/2006;<br>
@@ -131,15 +131,16 @@ In uitvoering van de herstelplannen, gebeuren de aanlandingen van die vissoorten
 7° voor steenbolk: 20 cm aanvoerlengte;<br>
 8° voor gehele zeeduivel: 500 g aanvoergewicht;<br>
 9° voor gekopte zeeduivel: 200 g aanvoergewicht;<br>
-10° voor tong: 25 cm aanvoerlengte.<br>
+10° voor tong: 25 cm aanvoerlengte;<br>
+11° voor schar: 23 cm aanvoerlengte.<br>
 <br>
-Het vissen, het aan boord houden en de aanvoer in de havens van de Europese Unie van die in het eerste lid vermelde soorten is verboden, als ze niet de Europese of Vlaamse minimum instandhoudingsreferentiegroottes hebben.<br>
+Het vissen, het aan boord houden en de aanvoer in de havens van de Europese Unie van die in het eerste lid vermelde soorten is verboden, als ze niet de in de Europese regelgeving en de in het eerste lid vastgestelde minimum instandhoudingsreferentiegroottes hebben.<br>
 <br>
-Het verbod in het tweede lid geldt niet voor die soorten die vallen onder de aanlandingsplicht zoals bepaald in de teruggooiplannen van de Noordzee, de noordwestelijke en de zuidwestelijke wateren.<br>
+Met uitzondering van die soorten waarvoor een verplicht gebruik van de-minimis van toepassing is, zoals vermeld in artikel 8, geldt het verbod in het tweede lid van deze paragraaf niet voor die soorten die vallen onder de aanlandingsplicht zoals bepaald in de teruggooiplannen Noordzee, noordwestelijke en zuidwestelijke wateren.<br>
 <br>
 Het aan boord houden en de aanvoer in havens van de Europese Unie van soorten, in een presentatievorm die controle op de minimum instandhoudingsreferentiegroottes in de Europese of Vlaamse wetgeving onmogelijk maakt, is verboden.<br>
 <br>
-In de Belgische visafslagen mag de nationale sortering voor tong, gekend als tong 8, zijnde met een productgewicht kleiner dan 120 g, en de nationale sortering voor zeeduivelstaarten, gekend onder zeeduivelstaart 6, zijnde met een productgewicht kleiner dan 200 g, niet gecommercialiseerd worden. De hoeveelheden van de vangsten die onder deze sortering vallen, mogen niet voor menselijke consumptie verkocht worden en dienen gedenatureerd te worden. De onderste instelling van de automatische sorteermachines, die op de visafslagen gebruikt worden, wordt vastgelegd op respectievelijk 120 g voor tong en 200 g voor gekopte zeeduivel.<br>
+In de Belgische visafslagen mag de nationale sortering voor tong, gekend als tong 8, zijnde met een productgewicht kleiner dan 120 g, en de nationale sortering voor zeeduivelstaarten, gekend onder zeeduivelstaart 6, zijnde met een productgewicht kleiner dan 200 g, niet gecommercialiseerd worden. De hoeveelheden van de vangsten die onder deze sortering vallen, mogen niet voor menselijke consumptie verkocht worden en dienen voor de aanvang van de veiling of op uitdrukkelijk verzoek van de toezichthouders van de bevoegde entiteit, door de visafslag&nbsp;gedenatureerd te worden. De onderste instelling van de automatische sorteermachines, die op de visafslagen gebruikt worden, wordt vastgelegd op respectievelijk 120 g voor tong en 200 g voor gekopte zeeduivel.<br>
 <br>
 In afwijking van het eerste lid, punt 10°, is de aanvoerlengte van 25 cm voor tong niet van toepassing voor een vissersvaartuig met een motorvermogen van 221 kW of minder en een bruto tonnenmaat van niet meer dan 70 GT en voor visreizen, die volledig in de Noordzee plaatsvinden.<br>
 <br>
@@ -151,11 +152,11 @@ In afwijking van het eerste lid, punt 10°, is de aanvoerlengte van 25 cm voor t
 
 ### ART 8.
 
-Voor de visserij op tong in de ICES-gebieden II, IV, VIId, VIIe, VIIf, g, VIIh, j, k, VIIIa, b, wordt gebruik gemaakt van de de-minimisvoorwaarden beschreven in de teruggooiplannen voor de Noordzee, de noordwestelijke wateren en de zuidwestelijke wateren.<br>
+Voor de visserij op tong in de ICES-gebieden II en IV, VIId, VIIe, VIIfg, VIIhjk en VIIIab wordt gebruik gemaakt van de de-minimisvoorwaarden beschreven in respectievelijk artikel 7, punt a en b, van het teruggooiplan Noordzee, artikel 5, punt f en g van het teruggooiplan noordwestelijke wateren en artikel 3, alinea 1, punt b van het teruggooiplan zuidwestelijke wateren.<br>
 <br>
-Voor de visserij op kabeljauw met vistuig TR2 in het ICES-gebied IVc en de visserij op Noorse kreeft in de ICES-gebieden II, IV wordt gebruik gemaakt van de de-minimisvoorwaarden beschreven in het teruggooiplan voor de Noordzee.<br>
+Voor de visserij op kabeljauw met vistuig TR2 in het ICES-gebied IVc en de visserij op Noorse kreeft in de ICES-gebieden II, IV kan worden gebruik gemaakt van de de-minimisvoorwaarden beschreven in het teruggooiplan voor de Noordzee.<br>
 <br>
-Voor de visserij op wijting in de ICES-gebieden II, IV, VIIb-k wordt gebruik gemaakt van de de-minimisvoorwaarden beschreven in de teruggooiplannen voor de Noordzee en de noordwestelijke wateren.<br>
+Voor de visserij op wijting in de ICES-gebieden II, IV, VIIb-k&nbsp; kan worden gebruik gemaakt van de de-minimisvoorwaarden beschreven in de teruggooiplannen voor de Noordzee en de noordwestelijke wateren.<br>
 <br>
 De teruggegooide hoeveelheden worden in het EU-logboek gerapporteerd.<br>
 <br>
@@ -466,9 +467,9 @@ De beperkingen, vermeld in het eerste lid, zijn niet van toepassing zolang geen 
 <br>
 § 10. De de-minimis voor Noorse kreeft in de ICES-gebied II, IV bedraagt 20 ton.<br>
 <br>
-§ 11. In de periode van 1 januari 2018 tot en met 31 december 2018 is het in de ICES-gebieden II, IV voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 11. In de periode van 1 januari 2018 tot en met 31 december 2018 is het in de ICES-gebieden II, IV voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2018 tot en met 31 december 2018 is het in de ICES-gebieden II, IV voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de tarbot en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.
+In de periode van 1 januari 2018 tot en met 31 december 2018 is het in de ICES-gebieden II, IV voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de tarbot en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.
 
 ## HOOFDSTUK 3. Inruilen van dagen
 
