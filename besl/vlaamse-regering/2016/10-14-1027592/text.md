@@ -124,6 +124,8 @@ Tussen de VARIO en het Departement Economie, Wetenschap en Innovatie wordt een p
 ### ART 14.
 
 De geldelijke vergoeding aan de leden wordt vastgelegd op 250 euro/vergadering. De geldelijke vergoeding aan de voorzitter wordt vastgelegd op 500 euro/vergadering.<br>
+<br>
+De bedragen, vermeld in dit artikel, zijn gekoppeld aan het spilindexcijfer 103,04 (basis 2013).<br>
 &nbsp;
 
 ### ART 14/1.
