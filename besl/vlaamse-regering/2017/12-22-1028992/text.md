@@ -11,8 +11,22 @@ Op voorstel van de Vlaamse minister van Werk, Economie, Innovatie en Sport;<br>
 Na beraadslaging,<br>
 Besluit :
 
+### ART 1.
+
+Aan artikel 14 van het besluit van de Vlaamse Regering van 14 oktober 2016 houdende het oprichten van de Vlaamse Adviesraad voor Innoveren en Ondernemen (VARIO) wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De bedragen, vermeld in dit artikel, zijn gekoppeld aan het spilindexcijfer 103,04 (basis 2013).".
+
 ### ART 2.
 
 In hetzelfde besluit wordt een artikel 14/1 ingevoegd, dat luidt als volgt:<br>
 <br>
 "Art. 14/1. De voorzitter en de leden krijgen voor de verplaatsing naar de vergaderingen een vergoeding van de reiskosten conform artikel VII 80 van het Vlaams personeelsstatuut van 13 januari 2006.".
+
+### ART 3.
+
+Artikel 2 heeft uitwerking met ingang van 1 januari 2017.
+
+### ART 4.
+
+De Vlaamse minister, bevoegd voor het technologisch innovatiebeleid, is belast met de uitvoering van dit besluit.

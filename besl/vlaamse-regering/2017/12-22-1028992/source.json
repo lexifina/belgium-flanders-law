@@ -2,16 +2,16 @@
   "codex_id": 1028992,
   "title": "Besluit van de Vlaamse Regering van 2017-12-22 tot wijziging van artikel 14 van het besluit van de Vlaamse Regering van 14 oktober 2016 houdende het oprichten van de Vlaamse Adviesraad voor Innoveren en Ondernemen (VARIO)",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028992/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "21b6324b8046db52f0bd9228882b57cdb47d831d8788c6305c36724171b0619a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028992/VolledigDocument?datum=2018-02-19",
+  "source_sha256": "9e26cae781c653f01d7213409e0fcc54c419ad77cd4165e3ae2b8360a7547977",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028992&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2018-02-19",
   "made": "2017-12-22",
   "gazette": "2018-02-09",
   "numac": 2018010208,
   "document_start": "2018-02-19",
   "document_end": null,
-  "in_force": "2017-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2017-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-02-19",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-02-19; future article versions excluded; article text as the API gives it"
 }
