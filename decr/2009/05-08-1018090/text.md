@@ -49,7 +49,16 @@ Voor de toepassing van dit decreet wordt verstaan onder :<br>
 38° winnen van aardwarmte : het onttrekken van aardwarmte aan de ondergrond met gebruikmaking van een boorgat, in voorkomend geval met inbegrip van het terugvoeren van bij de winning opgepompt water in hetzelfde geothermische reservoir;<br>
 39° opsporingsvergunning voor aardwarmte : exclusieve schriftelijke toestemming om winbare aardwarmte op te sporen in de diepe ondergrond en om die aardwarmte tijdens de duur van de opsporingsvergunning overeenkomstig de vergunningsvoorwaarden te winnen;<br>
 40° winningsvergunning voor aardwarmte : exclusieve schriftelijke toestemming om aardwarmte te winnen in de diepe ondergrond;<br>
-41° bodembeweging : elke beweging van de aardbodem die geheel of gedeeltelijk toegeschreven kan worden aan activiteiten die onder dit decreet vergund worden, hetzij bodembeweging op lange termijn zoals bodemdaling of bodemstijging, hetzij kortstondige bodembeweging zoals seismiciteit.<br>
+41° bodembeweging : elke beweging van de aardbodem die geheel of gedeeltelijk toegeschreven kan worden aan activiteiten die onder dit decreet vergund worden, hetzij bodembeweging op lange termijn zoals bodemdaling of bodemstijging, hetzij kortstondige bodembeweging zoals seismiciteit;<br>
+42° Algemene Groepsvrijstellingsverordening: verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (Publicatieblad van 26 juni 2014, L 187, blz. 1-78), en de latere wijzigingen ervan;<br>
+43° aquifer: watervoerende laag in de ondergrond;<br>
+44° door het Vlaamse Gewest verzekerbaar geologisch risico: risico op een te laag gerealiseerd vermogen voor zover dit te wijten is aan de afwijkingen van één of meer specifieke aquiferparameters bestaande uit:<br>
+a) de bruto aquiferdikte;<br>
+b) de netto-brutoverhouding van de aquifer;<br>
+c) de aquiferpermeabiliteit;<br>
+d) de diepte van de top van de aquifer;<br>
+e) de saliniteit van het formatiewater;<br>
+f) de geothermische gradiënt.<br>
 &nbsp;
 
 ### ART. 3.
