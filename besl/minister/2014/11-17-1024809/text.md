@@ -20,7 +20,11 @@
 
 ### ART. 2.
 
-Het opleidingstraject verslaggever waarover de opleidingsinstelling moet   beschikken, vermeld in artikel 1, eerste lid, 3°, voldoet aan de volgende   voorwaarden:<BR>1° het opleidingstraject omvat minstens de opleidingsonderdelen   en -aspecten zoals beschreven in bijlage I;<BR>2° de totale tijdsduur van het   opleidingstraject (onderdeel 1 tot en met 9) bedraagt minstens 95 uren, waarbij   de tijdsduur per opleidingsonderdeel minstens het aantal uren bedraagt zoals   vastgelegd in bijlage I;<BR>3° het is niet louter opgebouwd rond de examenvragen   van het centraal examen voor verslaggevers en maakt bij het opmaken van het   opleidingspakket geen expliciet gebruik van die vragen;<BR>4° het omvat   enerzijds de in bijlage I vereiste theorie, en anderzijds oefeningen en   voorbeelden waarin het praktisch toepassen van de theorie in de dagelijkse   bouwpraktijk aan bod komt, en waarbij de opleidingsinstelling zelf de wijze van   lesgeven (theorie, oefening, opdracht) voor de verschillende onderdelen   vastlegt.<BR>
+Het opleidingstraject verslaggever waarover de opleidingsinstelling moet beschikken, vermeld in artikel 1, eerste lid, 3°, voldoet aan de volgende voorwaarden:<br>
+1° het opleidingstraject omvat minstens de opleidingsonderdelen en -aspecten zoals beschreven in bijlage I;<br>
+2° de totale tijdsduur van het opleidingstraject (onderdeel 1 tot en met 9) bedraagt minstens 95 uren, waarbij de tijdsduur per opleidingsonderdeel minstens het aantal uren bedraagt zoals vastgelegd in bijlage I;<br>
+3° ...;<br>
+4° het omvat enerzijds de in bijlage I vereiste theorie, en anderzijds oefeningen en voorbeelden waarin het praktisch toepassen van de theorie in de dagelijkse bouwpraktijk aan bod komt, en waarbij de opleidingsinstelling zelf de wijze van lesgeven (theorie, oefening, opdracht) voor de verschillende onderdelen vastlegt.
 
 ### ART. 3.
 
@@ -126,13 +130,41 @@ Enkel die activiteiten die door een verslaggever gevolgd werden vanaf 1   januar
 
 ### ART 7/1.
 
-Het centraal examen voor verslaggevers, vermeld in artikel 8.7.1 van het Energiebesluit van 19 november 2010, bestaat uit vier onderdelen :<br>
-1° Onderdeel 1 : Regelgeving en verslaggeving;<br>
-2° Onderdeel 2 : bouwkundige gegevens en netto-energiebehoefte;<br>
-3° Onderdeel 3 : installaties;<br>
-4° Onderdeel 4 : hygiënische ventilatie.
+Om erkend te worden als exameninstelling voor een of meer types van opleidingen die aanleiding kunnen geven tot de erkenning als verslaggever vermeld in artikel 8.6.1 van het Energiebesluit van 19 november 2010 moet de opleidingsinstelling een erkenningsformulier indienen bij het Vlaams Energieagentschap dat volgende gegevens bevat:<br>
+1° Gegevens van de aanvrager<br>
+2° Beschrijving van de aanpak en de opbouw van het examen, de inhoud van de examenvragen en de werkwijze voor de beoordeling;<br>
+3° Opsomming van de faciliteiten en hulpmiddelen in overeenstemming met de gekozen aanpak;<br>
+4° Voorbeeldexamen;<br>
+5° Examenreglement;<br>
+6° Werkwijze in geval van fraude, klachten en geschillen;<br>
+<br>
+Het examen voor verslaggevers peilt minstens naar de kennis over de inhoud van de verschillende lesonderdelen van de basisopleiding tot verslaggever zoals opgesomd in bijlage I bij het ministerieel besluit van 17 november 2014 en naar het praktische gebruik van de EPB-software.<br>
+<br>
+De aanvraag voor erkenning tot exameninstelling wordt elektronisch ingediend bij het Vlaams Energieagentschap.<br>
+<br>
+Het Vlaams Energieagentschap onderzoekt de aanvraag en doet binnen een termijn van 60 dagen bij besluit van het hoofd van het agentschap uitspraak over de aanvraag.
 
 ## [HOOFDSTUK 2/5 Kwaliteitsborging exameninstellingen (ing. MB 7 januari 2018, art. 9, I: 24 februari 2018)]
+
+### ART 7/2.
+
+§ 1. Elke wijziging in de gegevens die tot de erkenning van de exameninstelling geleid heeft, wordt zonder verwijl aan het Vlaams Energieagentschap gemeld.<br>
+<br>
+§ 2. Het Vlaams Energieagentschap mag steeds van rechtswege de examens bijwonen.<br>
+<br>
+§ 3. Medewerkers van het Vlaams Energieagentschap worden alle gevraagde inlichtingen meegedeeld en worden alle gevraagde documenten schriftelijk ter beschikking gesteld.<br>
+<br>
+§ 4. Instructies vanwege de minister of het Vlaams Energieagentschap met betrekking tot het examen voor verslaggevers dienen opgevolgd te worden.
+
+### ART 7/3.
+
+Het Vlaams Energieagentschap kan de erkenning van de exameninstelling intrekken in één van volgende gevallen :<br>
+1° indien de exameninstelling niet meer voldoet aan de erkenningsvoorwaarden;<br>
+2° indien de verplichtingen als vastgelegd in dit besluit niet nagekomen worden.<br>
+<br>
+De beslissing tot intrekking van de erkenning wordt met redenen omkleed en wordt slechts genomen nadat de organisator van het examen werd gehoord.<br>
+<br>
+De beslissing tot intrekking van de erkenning wordt bij besluit van het hoofd van het agentschap vastgelegd.
 
 ## HOOFDSTUK 3 Slotbepalingen
 
