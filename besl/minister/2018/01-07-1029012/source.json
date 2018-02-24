@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029012,
+  "title": "Ministerieel besluit van 2018-01-07 houdende wijziging van het ministerieel besluit van 11 maart 2008 betreffende de opleidingen tot energiedeskundige type A en type B, het ministerieel besluit van 7 juni 2007 betreffende de opleiding energiedeskundige type C en het ministerieel besluit van 17 november 2014 betreffende de opleiding tot verslaggever en de opleidingsinstellingen bedoeld in artikel 8.6.1 en 8.6.3 van het Energiebesluit van 19 november 2010, wat betreft de erkenningsregeling van energiedeskundigen en verslaggevers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029012/VolledigDocument?datum=2018-02-24",
+  "source_sha256": "d2005283ef910e4b1511d2338ec83339242cc0f56f75c565e19e4ea0a340704f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029012&param=informatie",
+  "as_of": "2018-02-24",
+  "made": "2018-01-07",
+  "gazette": "2018-02-14",
+  "numac": 2018010451,
+  "document_start": "2018-02-24",
+  "document_end": null,
+  "in_force": "2018-02-24",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2018-02-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
