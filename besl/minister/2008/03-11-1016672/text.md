@@ -23,7 +23,27 @@ De artikelen 1, 7, 8, 9, 10, 11, 12, 17, 18, 19 en 20 van het besluit van de Vla
 
 ### ART. 2.
 
-§ 1. Om voor erkenning in aanmerking te komen, voldoet de opleiding energiedeskundige type A aan volgende minimumvoorwaarden :<br />1° een inhoudelijke opleiding, die tenminste de volgende modules bevat :<br />a) een inleiding tot de bouwfysica; <br />b) een inleiding tot technische installaties, waarbij verwarmingsinstallaties, sanitair warm water, ventilatie, koeling, zonneboiler en fotovoltaïsche cellen aan bod komen;<br />c) het wetgevende kader, met tenminste toelichting van het Energiebesluit van 19 november 2010 en alle ministeriële besluiten die in uitvoering van dit besluit werden genomen, het verschil tussen het energieprestatiecertificaat en de energieaudit, en een toelichting over het doel en de inhoud van het energieprestatiecertificaat;<br />d) het inspectieprotocol, dat dient toegepast te worden bij de verzameling van de gegevens van de wooneenheid;<br />e) het opnameformulier, dat tijdens de inspectie van de woning wordt gebruikt om de gegevens te noteren;<br />f) de werking van de certificatiesoftware, met tenminste een toelichting van alle stappen die moeten doorlopen worden om een wooneenheid in te voeren, door te rekenen en het proefcertificaat op te maken en de aanbevelingen die gegenereerd worden, inclusief praktische oefeningen en een demo;<br />g) de werking van de Energieprestatiedatabank met tenminste een toelichting van de erkenningsprocedure en de manier waarop energieprestatiecertificaten kunnen geraadpleegd en afgedrukt worden, inclusief praktische oefeningen en een demo. <br />2° ...<br /><br />§ 2. De aanvraag voor erkenning van een getuigschrift betreffende de opleiding tot energiedeskundige type A wordt met een aangetekende zending ingediend bij het Vlaams Energieagentschap. Deze aanvraag bevat minstens de volgende gegevens : <br />a) de gegevens van de aanvrager (officiële naam, adres, telefoon- en telefaxnummer); <br />b) de inhoud van het getuigschrift; <br />c) het gedetailleerde programma van de modules;<br />d) de beschrijving van de praktische oefeningen en de demo;<br /><br />De aanvrager is ertoe gehouden alle door het Vlaams Energieagentschap in het kader van haar onderzoek gevraagde aanvullende inlichtingen en documenten te verstrekken.<br /><br />§ 3. Het Vlaams Energieagentschap onderzoekt de aanvraag en doet bij besluit van het hoofd van het agentschap uitspraak over de aanvraag.<br /><br />
+§ 1. Om voor erkenning in aanmerking te komen, voldoet de opleiding energiedeskundige type A aan volgende minimumvoorwaarden :<br>
+1° een inhoudelijke opleiding, die tenminste de volgende modules bevat :<br>
+a) een inleiding tot de bouwfysica;<br>
+b) een inleiding tot technische installaties, waarbij verwarmingsinstallaties, sanitair warm water, ventilatie, koeling, zonneboiler en fotovoltaïsche cellen aan bod komen;<br>
+c) het wetgevende kader, met tenminste toelichting van het Energiebesluit van 19 november 2010 en alle ministeriële besluiten die in uitvoering van dit besluit werden genomen, het verschil tussen het energieprestatiecertificaat en de energieaudit, en een toelichting over het doel en de inhoud van het energieprestatiecertificaat;<br>
+d) het inspectieprotocol, dat dient toegepast te worden bij de verzameling van de gegevens van de wooneenheid;<br>
+e) ...;<br>
+f) de werking van de certificatiesoftware, met tenminste een toelichting van alle stappen die moeten doorlopen worden om een wooneenheid in te voeren, door te rekenen en het proefcertificaat op te maken en de aanbevelingen die gegenereerd worden, inclusief praktische oefeningen en een demo;<br>
+g) de werking van de Energieprestatiedatabank met tenminste een toelichting van de erkenningsprocedure en de manier waarop energieprestatiecertificaten kunnen geraadpleegd en afgedrukt worden, inclusief praktische oefeningen en een demo.<br>
+2° ...<br>
+<br>
+§ 2. De aanvraag voor erkenning van een getuigschrift betreffende de opleiding tot energiedeskundige type A wordt met een aangetekende zending ingediend bij het Vlaams Energieagentschap. Deze aanvraag bevat minstens de volgende gegevens :<br>
+a) de gegevens van de aanvrager (officiële naam, adres, telefoon- en telefaxnummer);<br>
+b) de inhoud van het getuigschrift;<br>
+c) het gedetailleerde programma van de modules;<br>
+d) de beschrijving van de praktische oefeningen en de demo;<br>
+<br>
+De aanvrager is ertoe gehouden alle door het Vlaams Energieagentschap in het kader van haar onderzoek gevraagde aanvullende inlichtingen en documenten te verstrekken.<br>
+<br>
+§ 3. Het Vlaams Energieagentschap onderzoekt de aanvraag en doet bij besluit van het hoofd van het agentschap uitspraak over de aanvraag.<br>
+&nbsp;
 
 ### ART 2/1.
 
@@ -72,9 +92,15 @@ Om in aanmerking te komen als permanente vorming mag de energiedeskundige meerde
 
 ### ART 3/3.
 
-Tijdens het kalenderjaar 2017 volgt de energiedeskundige minstens 6 uur permanente vorming met verplichte inhoud over de wijzigingen aan het toepassingsgebied voor het EPC voor de verkoop en verhuur van bestaande woongebouwen en de wijzigingen 2017 aan het inspectieprotocol residentieel en certificatiesoftware residentieel.<br>
+§ 1. Tijdens het kalenderjaar 2017 volgt de energiedeskundige minstens 6 uur permanente vorming met verplichte inhoud over de wijzigingen aan het toepassingsgebied voor het EPC voor de verkoop en verhuur van bestaande woongebouwen en de wijzigingen 2017 aan het inspectieprotocol residentieel en certificatiesoftware residentieel.<br>
 <br>
 Tijdens het kalenderjaar 2017 is er geen vrij in te vullen vorming verplicht.<br>
+<br>
+De wijzigingen aan het inspectieprotocol worden vooraf door het Vlaams Energieagentschap toegelicht via een overleg waaraan erkende vormingsinstellingen verplicht deelnemen. De energiedeskundige moet de wijzigingen aan het inspectieprotocol kunnen toepassen op praktijkvoorbeelden.<br>
+<br>
+§ 2. Tijdens het kalenderjaar 2018 volgt de energiedeskundige minstens 6 uur permanente vorming met verplichte inhoud over de veelgemaakte fouten en de wijzigingen 2019 aan het inspectieprotocol residentieel, certificatiesoftware en de vorm en inhoud van het energieprestatiecertificaat.<br>
+<br>
+Tijdens het kalenderjaar 2018 is er geen vrij in te vullen vorming verplicht.<br>
 <br>
 De wijzigingen aan het inspectieprotocol worden vooraf door het Vlaams Energieagentschap toegelicht via een overleg waaraan erkende vormingsinstellingen verplicht deelnemen. De energiedeskundige moet de wijzigingen aan het inspectieprotocol kunnen toepassen op praktijkvoorbeelden.
 
@@ -162,11 +188,41 @@ Het Vlaams Energieagentschap kan de erkenning van het getuigschrift betreffende 
 
 ### ART 7/1.
 
-Het centraal examen voor energiedeskundigen, vermeld in artikel 8.3.1 van het Energiebesluit van 19 november 2010, bestaat uit twee onderdelen :<br>
-1° een theoretisch onderdeel;<br>
-2° een praktisch onderdeel.
+Om erkend te worden als exameninstelling voor een opleiding die aanleiding kan geven tot erkenning als energiedeskundige type A, moet de opleidingsinstelling een aanvraag indienen bij het Vlaams Energieagentschap dat volgende gegevens bevat:<br>
+1° Gegevens van de aanvrager<br>
+2° Beschrijving van de aanpak en de opbouw van het examen, de inhoud van de examenvragen en de werkwijze voor de beoordeling;<br>
+3° Opsomming van de faciliteiten en hulpmiddelen in overeenstemming met de gekozen aanpak;<br>
+4° Voorbeeldexamen;<br>
+5° Examenreglement;<br>
+6° Werkwijze in geval van fraude, klachten en geschillen.<br>
+<br>
+Het examen peilt minstens naar de kennis over de onderwerpen zoals opgenomen in artikel 2, § 1, 1° van dit besluit.<br>
+<br>
+De aanvraag voor erkenning tot exameninstelling wordt elektronisch ingediend bij het Vlaams Energieagentschap.<br>
+<br>
+Het Vlaams Energieagentschap onderzoekt de aanvraag en doet binnen een termijn van 60 dagen bij besluit van het hoofd van het agentschap uitspraak over de aanvraag.
 
 ## [HOOFDSTUK VI/2 Kwaliteitsborging exameninstellingen (ing. MB 7 januari 2018, art. 4, I: 24 februari 2018)]
+
+### ART 7/2.
+
+§ 1. Elke wijziging in de gegevens die tot de erkenning van de exameninstelling geleid heeft, wordt zonder verwijl aan het Vlaams Energieagentschap gemeld.<br>
+<br>
+§ 2. Medewerkers van het Vlaams Energieagentschap mogen steeds van rechtswege de examens bijwonen.<br>
+<br>
+§ 3. Aan het Vlaams Energieagentschap worden alle gevraagde inlichtingen meegedeeld en worden alle gevraagde documenten schriftelijk ter beschikking gesteld.<br>
+<br>
+§ 4. Instructies vanwege de minister of het Vlaams Energieagentschap met betrekking tot het examen voor energiedeskundigen dienen opgevolgd te worden.
+
+### ART 7/3.
+
+Het Vlaams Energieagentschap kan de erkenning van de exameninstelling intrekken in één van volgende gevallen :<br>
+1° indien de exameninstelling niet meer voldoet aan de erkenningsvoorwaarden;<br>
+2° indien de verplichtingen als vastgelegd in dit besluit niet nagekomen worden.<br>
+<br>
+De beslissing tot intrekking van de erkenning wordt met redenen omkleed en wordt slechts genomen nadat de organisator van het examen werd gehoord.<br>
+<br>
+De beslissing tot intrekking van de erkenning wordt bij besluit van het hoofd van het agentschap vastgelegd.
 
 ## HOOFDSTUK VII Gebruik van de auditsoftware
 
