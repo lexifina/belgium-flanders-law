@@ -30,7 +30,43 @@ Het Vlaams Energieagentschap kan de erkenning van een getuigschrift betreffende 
 
 ## [HOOFDSTUK II/1 Erkenning van de exameninstellingen voor energiedeskundigen type C (ing. MB 7 januari 2018, art. 5, I: 24 februari 2018)]
 
+### ART 3/1.
+
+Om erkend te worden als exameninstelling voor een opleiding die aanleiding kan geven tot erkenning als energiedeskundige type C, moet de opleidingsinstelling een aanvraag indienen bij het Vlaams Energieagentschap dat volgende gegevens bevat:<br>
+1° Gegevens van de aanvrager<br>
+2° Beschrijving van de aanpak en de opbouw van het examen, de inhoud van de examenvragen en de werkwijze voor de beoordeling;<br>
+3° Opsomming van de faciliteiten en hulpmiddelen in overeenstemming met de gekozen aanpak;<br>
+4° Voorbeeldexamen;<br>
+5° Examenreglement;<br>
+6° Werkwijze in geval van fraude, klachten en geschillen;<br>
+<br>
+Het examen peilt minstens naar de kennis over de onderwerpen zoals opgenomen in artikel 1, § 1, 1° van dit besluit.<br>
+<br>
+De aanvraag voor erkenning tot exameninstelling wordt elektronisch ingediend bij het Vlaams Energieagentschap.<br>
+<br>
+Het Vlaams Energieagentschap onderzoekt de aanvraag en doet binnen een termijn van 60 dagen bij besluit van het hoofd van het agentschap uitspraak over de aanvraag.
+
 ## [HOOFDSTUK II/2 Kwaliteitsborging exameninstellingen (ing. MB 7 januari 2018, art. 6, I: 24 februari 2018)]
+
+### ART 3/2.
+
+§ 1. Elke wijziging in de gegevens die tot de erkenning van de exameninstelling geleid heeft, wordt zonder verwijl aan het Vlaams Energieagentschap gemeld.<br>
+<br>
+§ 2. Medewerkers van het Vlaams Energieagentschap mogen steeds van rechtswege de examens bijwonen.<br>
+<br>
+§ 3. Aan het Vlaams Energieagentschap worden alle gevraagde inlichtingen meegedeeld en worden alle gevraagde documenten schriftelijk ter beschikking gesteld.<br>
+<br>
+§ 4. Instructies vanwege de minister of het Vlaams Energieagentschap met betrekking tot het examen voor energiedeskundigen dienen opgevolgd te worden.
+
+### ART 3/3.
+
+Het Vlaams Energieagentschap kan de erkenning van de exameninstelling intrekken in één van volgende gevallen :<br>
+1° indien de exameninstelling niet meer voldoet aan de erkenningsvoorwaarden;<br>
+2° indien de verplichtingen als vastgelegd in dit besluit niet nagekomen worden.<br>
+<br>
+De beslissing tot intrekking van de erkenning wordt met redenen omkleed en wordt slechts genomen nadat de organisator van het examen werd gehoord.<br>
+<br>
+De beslissing tot intrekking van de erkenning wordt bij besluit van het hoofd van het agentschap vastgelegd.
 
 ## HOOFDSTUK III Slotbepalingen
 
