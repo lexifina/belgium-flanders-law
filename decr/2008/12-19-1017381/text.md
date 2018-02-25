@@ -4,19 +4,19 @@
 
 ### ART. 1.
 
-Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+...
 
 ### ART. 2.
 
-De openbare centra voor maatschappelijk welzijn beogen om op het lokale niveau duurzaam bij te dragen tot het welzijn van de burgers, met behoud van de opdracht, vermeld in artikelen 1 en 57 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, en de andere aangelegenheden die hen door of krachtens een wet of een decreet worden opgelegd.
+...
 
 ### ART. 3.
 
-De openbare centra voor maatschappelijk welzijn verzekeren een burgernabije, democratische, transparante en doelmatige uitoefening van hun bevoegdheden.<br /><br />Ze betrekken de inwoners zo veel mogelijk bij het beleid en zorgen voor openheid van bestuur.
+...
 
 ### ART. 4.
 
-Dit decreet is van toepassing op alle openbare centra voor maatschappelijk welzijn in de gemeenten van het Nederlandse taalgebied onder voorbehoud van de toepassing van de regelingen, vermeld in artikel 5, § 1, II, 2°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.
+...
 
 ## Titel II Het bestuur van het openbaar centrum voor maatschappelijk welzijn
 
