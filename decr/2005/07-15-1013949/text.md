@@ -4,19 +4,19 @@
 
 ### ART. 1.
 
-Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+...
 
 ### ART. 2.
 
-De gemeenten beogen om op het lokale niveau bij te dragen tot het welzijn van de burgers en tot de duurzame ontwikkeling van het gemeentelijk gebied. Overeenkomstig artikel 41 van de Grondwet zijn ze bevoegd voor de aangelegenheden van gemeentelijk belang voor de verwezenlijking waarvan ze alle initiatieven kunnen nemen.<br /><br />Overeenkomstig artikel 6, § 1, VIII, tweede lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en artikel 46 van de gewone wet van 9 augustus 1980 tot hervorming der instellingen en met toepassing van het subsidiariteitsbeginsel, oefenen de gemeenten ook de bevoegdheden uit die hen door of krachtens de wet of het decreet zijn toevertrouwd.<br /><br />Enkel als dat bij decreet uitdrukkelijk is bepaald, kunnen de provincies de medewerking van de gemeenten regelen.
+...
 
 ### ART. 3.
 
-De gemeenten verzekeren een burgernabije, democratische, transparante en doelmatige uitoefening van de gemeentelijke bevoegdheden.<br /><br />Ze betrekken de inwoners zo veel mogelijk bij het beleid en zorgen voor openheid van bestuur.
+...
 
 ### ART. 4.
 
-Dit decreet is van toepassing op alle gemeenten van het Vlaamse Gewest onder voorbehoud van de toepassing van de regelingen, bepaald in artikel 6, § 1, VIII, eerste lid, 1°, eerste streepje, en 4°, eerste lid, a, en artikel 7, § 1, eerste en derde lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.
+...
 
 ## TITEL II Het gemeentebestuur
 
