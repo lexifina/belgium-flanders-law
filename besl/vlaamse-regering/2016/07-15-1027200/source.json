@@ -2,16 +2,16 @@
   "codex_id": 1027200,
   "title": "Besluit van de Vlaamse Regering van 2016-07-15 tot wijziging van diverse besluiten wat betreft de integratie van de opdrachten van het agentschap Inspectie RWO in het departement Leefmilieu, Natuur en Energie en in het agentschap Wonen-Vlaanderen, alsook betreffende de begrotingsfondsen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027200/VolledigDocument?datum=2017-03-31",
-  "source_sha256": "8bd25851cb6ce5ede0df4dfbb0192eb947c1c6c950c51c453ee1097c5d51c3f9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027200/VolledigDocument?datum=2018-03-01",
+  "source_sha256": "43a93d301506e22181ccdf795a0a7bf56aebf0af2ecd2439e6f7f56d5f615c0a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027200&param=informatie",
-  "as_of": "2017-03-31",
+  "as_of": "2018-03-01",
   "made": "2016-07-15",
   "gazette": "2016-09-07",
   "numac": 2016036331,
   "document_start": "2016-09-01",
   "document_end": null,
-  "in_force": "2017-03-31",
+  "in_force": "2018-03-01",
   "article_versions": 59,
-  "record_form": "consolidated version as in force on 2017-03-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-03-01; future article versions excluded; article text as the API gives it"
 }
