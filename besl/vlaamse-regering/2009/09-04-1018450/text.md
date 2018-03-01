@@ -25,7 +25,12 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° Hoge Raad : de Hoge Raad voor het Handhavingsbeleid;<br />2° Minister : de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br />3° permanent secretariaat : het permanent secretariaat van de Hoge Raad, vermeld in artikel 6.1.39 van de Vlaamse Codex Ruimtelijke Ordening;<br />4° vaste secretaris : de vaste secretaris van het permanent secretariaat.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° Hoge Raad : de Hoge Raad voor de Handhavingsuitvoering, vermeld in artikel 6.3.7 van de Vlaamse Codex Ruimtelijke Ordening;<br>
+2° Minister : de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br>
+3° permanent secretariaat : het permanent secretariaat van de Hoge Raad, vermeld in artikel 6.3.16 van de Vlaamse Codex Ruimtelijke Ordening;<br>
+4° vaste secretaris : de vaste secretaris van het permanent secretariaat.<br>
+&nbsp;
 
 ## HOOFDSTUK II Procedure tot aanstelling van de voorzitter en de leden van de Hoge Raad - Verfijning van de selectiecriteria
 
@@ -41,7 +46,14 @@ In dit besluit wordt verstaan onder : <br />1° Hoge Raad : de Hoge Raad voor he
 
 ### ART. 4.
 
-§ 1. De vaste secretaris beheert, onder het gezag van de voorzitter, de werkingsmiddelen die de Vlaamse Regering overeenkomstig artikel 6.1.38 van de Vlaamse Codex Ruimtelijke Ordening ter beschikking stelt.<br /><br />§ 2. De voorzitter, de leden-juristen en de leden-deskundigen van de Hoge Raad ontvangen voor hun werkzaamheden een forfaitaire jaarlijkse vergoeding. Die vergoeding bedraagt : <br />1° voor de voorzitter van de Hoge Raad : 12.500 euro;<br />2° voor de leden-juristen en de leden-deskundigen van de Hoge Raad : 7.500 euro.<br /><br />Aan de voorzitter, de leden-juristen en de leden-deskundigen van de Hoge Raad wordt een presentievergoeding van 100 euro per vergadering toegekend tot maximaal 2.400 euro per jaar.<br /><br />
+§ 1. De vaste secretaris beheert, onder het gezag van de voorzitter, de werkingsmiddelen die de Vlaamse Regering overeenkomstig artikel 6.3.16 van de Vlaamse Codex Ruimtelijke Ordening ter beschikking stelt.<br>
+<br>
+§ 2. De voorzitter, de leden-juristen en de leden-deskundigen van de Hoge Raad ontvangen voor hun werkzaamheden een forfaitaire jaarlijkse vergoeding. Die vergoeding bedraagt :<br>
+1° voor de voorzitter van de Hoge Raad : 12.500 euro;<br>
+2° voor de leden-juristen en de leden-deskundigen van de Hoge Raad : 7.500 euro.<br>
+<br>
+Aan de voorzitter, de leden-juristen en de leden-deskundigen van de Hoge Raad wordt een presentievergoeding van 100 euro per vergadering toegekend tot maximaal 2.400 euro per jaar.<br>
+&nbsp;
 
 ### ART. 5.
 
@@ -61,11 +73,13 @@ De forfaitaire jaarlijkse vergoedingen en de presentievergoedingen worden geïnd
 
 ### ART. 9.
 
-Artikel 5 van dit besluit is niet van toepassing op de leden die met toepassing van artikel 7.7.2 van de Vlaamse Codex Ruimtelijke Ordening van rechtswege worden bekleed met een mandaat in de schoot van de Hoge Raad voor het Handhavingsbeleid.<br /><br />
+Artikel 5 van dit besluit is niet van toepassing op de leden die met toepassing van artikel 7.7.2 van de Vlaamse Codex Ruimtelijke Ordening, zoals van toepassing vóór de inwerkingtreding van het artikel 112 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning,&nbsp;van rechtswege worden bekleed met een mandaat in de schoot van de Hoge Raad voor het Handhavingsbeleid.<br>
+&nbsp;
 
 ### ART. 10.
 
-Het jaarlijks verslagboek, vermeld in artikel 6.1.40 van de Vlaamse Codex Ruimtelijke Ordening, omvat een verslag over het beheer van de werkingsmiddelen.<br /><br />
+Het jaarlijks verslagboek, vermeld in artikel 6.3.17 van de Vlaamse Codex Ruimtelijke Ordening, omvat een verslag over het beheer van de werkingsmiddelen.<br>
+&nbsp;
 
 ## HOOFDSTUK IV Slot- en andere bepalingen
 
