@@ -76,7 +76,24 @@ Het kiesbureau maakt uiterlijk op [15 juni  <span class="reference">(verv. B.V.R
 
 ### ART. 10.
 
-§ 1. Indien het aantal kandidaten per geleding gelijk is aan het aantal te begeven mandaten, zoals bepaald in artikel 31, § 1, 1° en 2° van het bijzonder decreet, worden zij door het kiesbureau als verkozen verklaard.<br /><br />§ 2. Indien er voor de eerste respectievelijk de tweede geleding meer dan vijf kandidaten zijn, zendt het kiesbureau, uiterlijk op [1 juli  <span class="reference">(verv. B.V.R. 3 februari 2006, art. 10, I: 5 maart 2006)</span> ] van de kiesperiode, aan de schooldirecteur:<br /><br />- de lijst met de kandidaten;<br /><br />- een kopie van de kandidaatstellingen (KRR 1);<br /><br />- de nodige stembiljetten (KRR 2 en KRR 3);<br /><br />- de omslagen (KRR 4 en KRR 5);<br /><br />- het formulier voor het opmaken van het proces-verbaal (KRR 6).<br /><br />Uiterlijk op [5 juli  <span class="reference">(verv. B.V.R. 3 februari 2006, art. 10, I: 5 maart 2006)</span> ] van de kiesperiode leggen de schooldirecteurs het document kandidaatstelling (KRR1) en de kandidatenlijst ter inzage van alle kiesgerechtigden.<br /><br />Het kiesbureau plaatst de kandidatenlijst en de documenten kandidaatstelling op de website van de administratieve diensten.<br /><br />§ 3. Indien er voor de eerste, respectievelijk tweede geleding meer dan vijf kandidaten zijn, zendt het kiesbureau, uiterlijk op [1 juli  <span class="reference">(verv. B.V.R. 3 februari 2006, art. 10, I: 5 maart 2006)</span> ] van de kiesperiode, aan de directeurs van de centra voor leerlingenbegeleiding:<br /><br />- de lijst met de kandidaten;<br /><br />- een kopie van de kandidaatstellingen (KRR 1);<br /><br />- een stembiljet (KRR 3);<br /><br />- een omslag (KRR 5).
+§ 1. Indien het aantal kandidaten per geleding gelijk is aan het aantal te begeven mandaten, zoals bepaald in artikel 31, § 1, 1° en 2° van het bijzonder decreet, worden zij door het kiesbureau als verkozen verklaard.<br>
+<br>
+§ 2. Indien er voor de eerste respectievelijk de tweede geleding meer dan vijf kandidaten zijn, zendt het kiesbureau, uiterlijk op&nbsp;15 september&nbsp;van de kiesperiode, aan de schooldirecteur:<br>
+- de lijst met de kandidaten;<br>
+- een kopie van de kandidaatstellingen (KRR 1);<br>
+- de nodige stembiljetten (KRR 2 en KRR 3);<br>
+- de omslagen (KRR 4 en KRR 5);<br>
+- het formulier voor het opmaken van het proces-verbaal (KRR 6).<br>
+<br>
+Uiterlijk op&nbsp;20 september&nbsp;van de kiesperiode leggen de schooldirecteurs het document kandidaatstelling (KRR1) en de kandidatenlijst ter inzage van alle kiesgerechtigden.<br>
+<br>
+Het kiesbureau plaatst de kandidatenlijst en de documenten kandidaatstelling op de website van de administratieve diensten.<br>
+<br>
+§ 3. Indien er voor de eerste, respectievelijk tweede geleding meer dan vijf kandidaten zijn, zendt het kiesbureau, uiterlijk op&nbsp;15 september&nbsp;van de kiesperiode, aan de directeurs van de centra voor leerlingenbegeleiding:<br>
+- de lijst met de kandidaten;<br>
+- een kopie van de kandidaatstellingen (KRR 1);<br>
+- een stembiljet (KRR 3);<br>
+- een omslag (KRR 5).
 
 ## AFDELING 5 DE STEMVERRICHTINGEN
 
@@ -86,11 +103,33 @@ De stemming gebeurt per schoolraad uitgezonderd voor de directeurs van de centra
 
 ### ART. 12.
 
-§ 1. De rechtstreekse verkiezingen hebben plaats tijdens een vergadering   van de schoolraad die doorgaat in de periode van 1 september tot en met 14   september van de kiesperiode.<BR><BR>§ 2. De voorzitter van de schoolraad geeft   aan de kiesgerechtigden voor de respectieve geledingen, zoals bedoeld in artikel   6 het stembiljet (KRR 2 of KRR 3 naargelang het geval) en een omslag (KRR 4 of   KRR 5, naargelang het geval). Stembrieven die om één of andere reden te   onderscheiden zijn van de andere stembrieven worden door de voorzitter van de   schoolraad ongeldig gemaakt door alle kandidaten aan te kruisen en   vernietigd.<BR><BR>§ 3. Elk aanwezig lid van de schoolraad brengt voor de   betreffende geleding zijn stem uit door het stemvak van maximaal vijf kandidaten   aan te kruisen.<BR><BR>§ 4. De kiesgerechtigde brengt zijn stem uit en steekt   het geplooide stembiljet (KRR 2 of KRR 3, naargelang het geval) in de omslag   (KRR 4 of KRR 5, naargelang het geval). Hij kleeft de omslag dicht en geeft hem   af aan de voorzitter van de schoolraad.<BR><BR>§ 5. In geval van vergissing kan   de kiesgerechtigde bij de voorzitter van de schoolraad een nieuwe stembrief   vragen.<BR><BR>De ingeleverde stembrief wordt vooraf door de kiesgerechtigde   ongeldig gemaakt door alle kandidaten aan te kruisen. Hij overhandigt deze   ongeldige stembrief vervolgens aan de voorzitter van de schoolraad, die hem   onmiddellijk vernietigt.<BR><BR>§ 6. Van de stemverrichtingen wordt een   proces-verbaal (KRR 6) opgemaakt.<BR><BR>De aanwezige leden van de schoolraad en   de schooldirecteur(s) ondertekenen het proces-verbaal. Elke door een lid van de   schoolraad of door de schooldirecteur(s) vastgestelde onregelmatigheid moet in   het proces-verbaal worden opgenomen. Het proces-verbaal wordt in twee exemplaren   opgemaakt. Eén exemplaar wordt door de schoolraad in zijn archief   bewaard.<BR><BR>§ 7. Onmiddellijk na het afsluiten van de stemverrichtingen   worden de omslagen met de geldige stembrieven en het tweede exemplaar van het   proces-verbaal (KRR 6) in een gewone verzamelomslag gestoken.<BR><BR>Deze   verzamelomslag wordt uiterlijk op de werkdag volgend op de verkiezingen door de   directeur aangetekend gezonden naar het kiesbureau. <BR><BR>§ 8. De stemming is   vrij en geheim. De voorzitters van de schoolraden en de schooldirecteurs waken   over het geheim van de stemming.<BR><BR>§ 9. Stemmen bij volmacht is   uitgesloten.
+§ 1. De rechtstreekse verkiezingen hebben plaats tijdens een vergadering van de schoolraad die doorgaat in de periode&nbsp;van 1 oktober tot en met 15 oktober van de kiesperiode.<br>
+<br>
+§ 2. De voorzitter van de schoolraad geeft aan de kiesgerechtigden voor de respectieve geledingen, zoals bedoeld in artikel 6 het stembiljet (KRR 2 of KRR 3 naargelang het geval) en een omslag (KRR 4 of KRR 5, naargelang het geval). Stembrieven die om één of andere reden te onderscheiden zijn van de andere stembrieven worden door de voorzitter van de schoolraad ongeldig gemaakt door alle kandidaten aan te kruisen en vernietigd.<br>
+<br>
+§ 3. Elk aanwezig lid van de schoolraad brengt voor de betreffende geleding zijn stem uit door het stemvak van maximaal vijf kandidaten aan te kruisen.<br>
+<br>
+§ 4. De kiesgerechtigde brengt zijn stem uit en steekt het geplooide stembiljet (KRR 2 of KRR 3, naargelang het geval) in de omslag (KRR 4 of KRR 5, naargelang het geval). Hij kleeft de omslag dicht en geeft hem af aan de voorzitter van de schoolraad.<br>
+<br>
+§ 5. In geval van vergissing kan de kiesgerechtigde bij de voorzitter van de schoolraad een nieuwe stembrief vragen.<br>
+<br>
+De ingeleverde stembrief wordt vooraf door de kiesgerechtigde ongeldig gemaakt door alle kandidaten aan te kruisen. Hij overhandigt deze ongeldige stembrief vervolgens aan de voorzitter van de schoolraad, die hem onmiddellijk vernietigt.<br>
+<br>
+§ 6. Van de stemverrichtingen wordt een proces-verbaal (KRR 6) opgemaakt.<br>
+<br>
+De aanwezige leden van de schoolraad en de schooldirecteur(s) ondertekenen het proces-verbaal. Elke door een lid van de schoolraad of door de schooldirecteur(s) vastgestelde onregelmatigheid moet in het proces-verbaal worden opgenomen. Het proces-verbaal wordt in twee exemplaren opgemaakt. Eén exemplaar wordt door de schoolraad in zijn archief bewaard.<br>
+<br>
+§ 7. Onmiddellijk na het afsluiten van de stemverrichtingen worden de omslagen met de geldige stembrieven en het tweede exemplaar van het proces-verbaal (KRR 6) in een gewone verzamelomslag gestoken.<br>
+<br>
+Deze verzamelomslag wordt uiterlijk op de werkdag volgend op de verkiezingen door de directeur aangetekend gezonden naar het kiesbureau.<br>
+<br>
+§ 8. De stemming is vrij en geheim. De voorzitters van de schoolraden en de schooldirecteurs waken over het geheim van de stemming.<br>
+<br>
+§ 9. Stemmen bij volmacht is uitgesloten.
 
 ### ART. 13.
 
-De directeur van het centrum voor leerlingenbegeleiding brengt zijn stem   uit door het stemvak aan te kruisen naast maximum vijf kandidaten en steekt de   geplooide stembrief (KRR 3) in de omslag (KRR 5). Hij kleeft de omslag dicht en   stopt die in een tweede, gewone omslag. De tweede omslag wordt uiterlijk op 14   september&nbsp; van de kiesperiode aangetekend gezonden naar de voorzitter van   het kiesbureau.
+De directeur van het centrum voor leerlingenbegeleiding brengt zijn stem uit door het stemvak aan te kruisen naast maximum vijf kandidaten en steekt de geplooide stembrief (KRR 3) in de omslag (KRR 5). Hij kleeft de omslag dicht en stopt die in een tweede, gewone omslag. De tweede omslag wordt uiterlijk op&nbsp;15 oktober&nbsp; van de kiesperiode aangetekend gezonden naar de voorzitter van het kiesbureau.
 
 ## AFDELING 6 DE VERRICHTINGEN VAN HET KIESBUREAU
 
