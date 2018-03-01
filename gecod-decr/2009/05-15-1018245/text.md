@@ -50,7 +50,7 @@ b) gebieden, aangewezen op ruimtelijke uitvoeringsplannen, en sorterend onder é
 c) het Vlaams Ecologisch Netwerk, bestaande uit de gebiedscategorieën Grote Eenheden Natuur en Grote Eenheden Natuur in Ontwikkeling, vermeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu,<br>
 d) de beschermde duingebieden en de voor het duingebied belangrijke landbouwgebieden, aangeduid krachtens artikel 52, § 1, van de wet van 12 juli 1973 op het natuurbehoud;<br>
 11° stedenbouwkundige ambtenaar : de gewestelijke, de provinciale of de gemeentelijke stedenbouwkundige ambtenaar die bevoegd is voor het geografische gebied waarop zijn taken vermeld in deze codex betrekking hebben;<br>
-12° stedenbouwkundige inspecteur : de gewestelijke stedenbouwkundige inspecteur die bevoegd is voor het geografische gebied waarop zijn taken vermeld in deze codex betrekking hebben;<br>
+12° ...;<br>
 13° stedenbouwkundig voorschrift: een reglementaire bepaling, opgenomen in:<br>
 a) een ruimtelijk uitvoeringsplan;<br>
 b) een plan van aanleg;<br>
@@ -60,7 +60,9 @@ d) het herkenbare onderdeel van een projectbesluit dat geldt als ruimtelijk uitv
 15° (sub)categorie van gebiedsaanduiding : een generieke gebiedsbestemming, vermeld in artikel 2.2.3, § 2;<br>
 16° Vlaamse Belastingdienst : de gewestelijke administratie, bevoegd voor de inning en invordering van de Vlaamse belastingen;<br>
 17° Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen.<br>
-18° voorkeursbesluit : een besluit als vermeld in artikel 2, 19°, van het decreet van 25 april 2014 betreffende complexe projecten.
+18° voorkeursbesluit : een besluit als vermeld in artikel 2, 19°, van het decreet van 25 april 2014 betreffende complexe projecten.<br>
+<br>
+&nbsp;
 
 ### ART. 1.1.3.
 
@@ -238,7 +240,9 @@ De Vlaamse Regering stelt een deontologische code vast. Deze omvat het geheel va
 
 ### ART. 1.4.3.
 
-De Vlaamse Regering bepaalt de aanstellingsprocedure van :<BR>1° de   stedenbouwkundige inspecteurs, belast met taken inzake handhaving, vermeld in   titel VI;<BR>2° de gewestelijke stedenbouwkundige ambtenaren, belast met taken   als vermeld in deze codex.<BR><BR>De Vlaamse Regering bepaalt de voorwaarden   waaraan personen moeten voldoen om als stedenbouwkundige inspecteur of als   gewestelijke stedenbouwkundige ambtenaar te kunnen worden   aangesteld.<BR><BR>
+<p>De Vlaamse Regering bepaalt de aanstellingsprocedure van de gewestelijke stedenbouwkundige ambtenaren, belast met taken inzake lokale ruimtelijke planning en vergunningverlening.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden waaraan personen moeten voldoen om als gewestelijke stedenbouwkundige ambtenaar te kunnen worden aangesteld.</p>
 
 ## Afdeling 2 De provinciale stedenbouwkundige ambtenaren
 
@@ -265,6 +269,12 @@ De Vlaamse Regering bepaalt de aanstellingsprocedure van :<BR>1° de   stedenbou
 ...<BR>
 
 ## [Afdeling 4. De gewestelijke en gemeentelijke stedenbouwkundige inspecteurs (ing. Decr. 25 april 2014, art. 5, I: 1 maart 2018)]
+
+### ART. 1.4.9.
+
+De Vlaamse Regering kan voorwaarden bepalen waaraan personen moeten voldoen om als gewestelijke stedenbouwkundige inspecteur of gemeentelijke stedenbouwkundige inspecteur als vermeld in artikel 6.1.1, 1° en 3°, te kunnen worden aangesteld.<br>
+<br>
+Alleen gewestelijke&nbsp;personeelsleden kunnen worden aangesteld als gewestelijke stedenbouwkundige inspecteur. Voor de aanstelling van de gemeentelijke stedenbouwkundige inspecteur, kan het college van burgemeester en schepenen een beroep doen op eigen personeel of op personeel van een intergemeentelijk samenwerkingsverband.
 
 ## [HOOFDSTUK V Het register van ruimtelijke planners (ing. decr. 8 december 2017, art. 21, I: 30 december 2017)]
 
@@ -2869,7 +2879,11 @@ De gegevens, vermeld in artikel 5.1.2, § 1, tweede en derde lid, worden geregis
 
 ### ART. 5.1.6.
 
-Het plannenregister, het vergunningenregister en de inhouden van beide   registers, worden beschouwd als een bestuursdocument, vermeld in artikel 3, 4°,   van het decreet van 26 maart 2004 betreffende de openbaarheid van   bestuur.<BR><BR>Beide registers zijn toegankelijk voor het publiek in het   gemeentehuis.<BR><BR>Onverminderd hoofdstuk II, afdeling IV, van voormeld   decreet van 26 maart 2004 krijgen de ambtenaren van ruimtelijke ordening,   vermeld in artikel 1.4.3 en 1.4.4, op eerste verzoek, onmiddellijk een kosteloos   uittreksel.
+Het plannenregister, het vergunningenregister en de inhouden van beide registers, worden beschouwd als een bestuursdocument, vermeld in artikel 3, 4°, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur.<br>
+<br>
+Beide registers zijn toegankelijk voor het publiek in het gemeentehuis.<br>
+<br>
+Onverminderd hoofdstuk II, afdeling IV, van voormeld decreet van 26 maart 2004 krijgen de ambtenaren van ruimtelijke ordening,&nbsp;vermeld in de artikelen 1.4.3 en 1.4.9 van deze codex en de artikelen 9/1 en 10 van het decreet van 25 april 2014 betreffende de omgevingsvergunning op eerste verzoek, onmiddellijk een kosteloos uittreksel.
 
 ## HOOFDSTUK II Informatieplichten
 
@@ -2878,11 +2892,11 @@ Het plannenregister, het vergunningenregister en de inhouden van beide   registe
 ### ART. 5.2.1.
 
 § 1. De instrumenterende ambtenaar vermeldt in alle onderhandse en authentieke akten van verkoop of van verhuring voor meer dan negen jaar van een onroerend goed, van een inbreng van een onroerend goed in een vennootschap, en ook in alle akten van vestiging van erfpacht of opstal en in elke andere akte van een eigendomsoverdracht ten bezwarende titel:<br>
-1° of er voor het onroerend goed een omgevingsvergunning voor stedenbouwkundige handelingen is uitgereikt;<br>
+1° of er voor het onroerend goed een omgevingsvergunning voor stedenbouwkundige&nbsp;handelingen is uitgereikt;<br>
 2° de meest recente stedenbouwkundige bestemming van dit onroerend goed met de benamingen gebruikt in het plannenregister;<br>
-3° of er voor het onroerend goed een dagvaarding werd uitgebracht overeenkomstig artikel 6.1.1 of 6.1.41 tot en met 6.1.43 en iedere in de zaak gewezen beslissing;<br>
+3° of het onroerend goed het voorwerp uitmaakt van een maatregel als vermeld in titel VI, hoofdstuk III en IV, dan wel of een procedure voor het opleggen van een dergelijke maatregel hangende is;<br>
 4° of er op het onroerend goed een voorkooprecht rust, vermeld in artikel 2.4.1 of artikel 34 van het decreet van 25 april 2014 betreffende complexe projecten;<br>
-5° of er voor het onroerend goed een omgevingsvergunning voor het verkavelen van gronden van toepassing is;<br>
+5° of er voor het onroerend goed een omgevingsvergunning voor het verkavelen van gronden&nbsp;van toepassing is;<br>
 6° ...;<br>
 7° of het onroerend goed het voorwerp uitmaakt van een voorkeursbesluit of een projectbesluit.<br>
 <br>
@@ -2890,11 +2904,7 @@ In de authentieke akte wordt de verklaring van de verkrijger opgenomen dat hij e
 <br>
 De instrumenterende ambtenaar neemt bovendien een verwijzing naar artikel 4.2.1 van deze codex op in de akte.<br>
 <br>
-Indien op het onroerend goed, ten gevolge van een definitieve rechterlijke beslissing, een verplichting rust om herstelmaatregelen uit te voeren, in de zin van de artikelen 6.1.41 tot en met 6.1.43, dan wordt dit in een afzonderlijke akte vermeld. In deze akte wordt tevens vermeld dat de nieuwe eigenaar, voor zover de tenuitvoerlegging van de door de rechter bevolen herstelmaatregel niet verjaard is, de verbintenis aangaat om de opgelegde herstelmaatregel uit te voeren, onverminderd de verplichting van de oorspronkelijke eigenaar. De instrumenterende ambtenaar stuurt een afschrift van die akte aan de stedenbouwkundige inspecteur.<br>
-<br>
-...<br>
-<br>
-Indien de instrumenterende ambtenaar een onderhandse akte in een authentieke akte dient op te nemen, waarbij de eerste niet beantwoordt aan de voorschriften van artikel 5.2.5, dan wijst hij de partijen bij de opmaak van de akte op artikel 5.2.5, 6.1.1, eerste lid, 4° en 6.3.1 van deze codex.<br>
+Indien de instrumenterende ambtenaar een onderhandse akte in een authentieke akte dient op te nemen, waarbij de eerste niet beantwoordt aan de voorschriften van artikel 5.2.5, dan wijst hij de partijen bij de opmaak van de akte op artikel 5.2.5, 6.2.2, eerste lid, 4° en 6.6.2 van deze codex.<br>
 <br>
 § 1/1. De bepalingen van paragraaf 1 zijn niet van toepassing op:<br>
 1° huwelijkscontracten en hun wijzigingen;<br>
@@ -2933,7 +2943,7 @@ De Vlaamse Regering kan bepalen dat bij een overdracht onder levenden van een ei
 
 ### ART. 5.2.5.
 
-Iedereen die een onderhandse akte van verkoop of van verhuring voor meer dan negen jaar van een onroerend goed, en ook van vestiging van erfpacht of opstal opmaakt, moet vermelden of er voor het onroerend goed een omgevingsvergunning voor stedenbouwkundige handelingen is uitgereikt&nbsp; en moet de meest recente stedenbouwkundige bestemming van dit goed met de benamingen gebruikt in het plannenregister overnemen. In voorkomend geval worden ook vermeld : de dagvaardingen die met betrekking tot het goed werden uitgebracht overeenkomstig artikel 6.1.1 of artikelen 6.1.41 tot en met 6.1.43 alsook iedere in de zaak gewezen beslissing, de op het goed rustende voorkooprechten, vermeld in artikel 2.4.1, respectievelijk het feit dat op het goed een omgevingsvergunning voor het verkavelen van gronden van toepassing is.<br>
+Iedereen die een onderhandse akte van verkoop of van verhuring voor meer dan negen jaar van een onroerend goed, en ook van vestiging van erfpacht of opstal opmaakt, moet vermelden of er voor het onroerend goed een omgevingsvergunning voor stedenbouwkundige&nbsp;handelingen is uitgereikt&nbsp;en moet de meest recente stedenbouwkundige bestemming van dit goed met de benamingen gebruikt in het plannenregister overnemen. In voorkomend geval worden ook vermeld : de maatregelen, vermeld in titel VI, hoofdstuk III en IV, die werden opgelegd met betrekking tot het goed of de hangende procedures die strekken tot het opleggen van dergelijke maatregelen, de op het goed rustende voorkooprechten, vermeld in artikel 2.4.1, respectievelijk het feit dat op het goed een omgevingsvergunning voor het verkavelen van gronden van toepassing is.<br>
 <br>
 De vastgoedmakelaars en andere personen die in de uitoefening van hun beroep of activiteit dergelijke onderhandse akten opmaken, moeten een verwijzing naar artikel 4.2.1 van deze codex opnemen in de akte.<br>
 &nbsp;
@@ -2943,9 +2953,9 @@ De vastgoedmakelaars en andere personen die in de uitoefening van hun beroep of 
 ### ART. 5.2.6.
 
 Iedereen die voor eigen rekening of als tussenpersoon een goed verkoopt, verhuurt voor meer dan negen jaar, inbrengt in een vennootschap, een erfpacht of een opstalrecht overdraagt, of op andere wijze de eigendomsoverdacht met een vergeldend karakter van het goed bewerkstelligt, vermeldt in de hieraan verbonden publiciteit :<br>
-1° of er voor het goed een omgevingsvergunning voor stedenbouwkundige handelingen is uitgereikt;<br>
+1° of er voor het goed een omgevingsvergunning voor stedenbouwkundige&nbsp;handelingen is uitgereikt;<br>
 2° de meest recente stedenbouwkundige bestemming van dit goed met de benamingen gebruikt in het plannenregister;<br>
-3° of er voor het goed een dagvaarding werd uitgebracht overeenkomstig artikelen 6.1.1 of 6.1.41 tot en met 6.1.43 en iedere in de zaak gewezen beslissing;<br>
+3° of het onroerend goed het voorwerp uitmaakt van een maatregel als vermeld in titel VI, hoofdstuk III en IV, dan wel of een procedure voor het opleggen van een dergelijke maatregel hangende is;<br>
 4° of er op het goed een voorkooprecht rust, in de zin van artikel 2.4.1;<br>
 5° of voor het goed een omgevingsvergunning voor het verkavelen van gronden van toepassing is;<br>
 6° ...<br>
@@ -2990,7 +3000,36 @@ De voor de planopmaak bevoegde bestuursniveaus onderzoeken of   planologische op
 
 ### ART. 5.4.3.
 
-§ 1. Tenzij het ruimtelijk uitvoeringsplan, vermeld in artikel 5.4.2,   reeds vóór 1 september 2009 in werking is getreden, geldt in hoofde van   permanente bewoners, ten persoonlijken titel, een tijdelijk woonrecht vanaf de   dag van de inwerkingtreding van voormeld decreet tot en met de inwerkingtreding   van het ruimtelijk uitvoeringsplan. Indien de op grond van het ruimtelijk   uitvoeringsplan planologisch mogelijk geworden permanente bewoning echter pas   kan worden voortgezet op grond van een omgevingsvergunning voor een   functiewijziging naar de functie « wonen », dan wordt het tijdelijk woonrecht   verlengd totdat deze vergunning in laatste administratieve aanleg is afgegeven.   Deze verlenging geldt slechts indien deze vergunning is aangevraagd binnen de   termijn van zes maanden volgend op de inwerkingtreding van het ruimtelijk   uitvoeringsplan.<BR><BR>In hoofde van permanente bewoners waarvoor geen   planologische oplossing geboden wordt, geldt ten persoonlijken titel een   aanvullend woonrecht vanaf de inwerkingtreding van het ruimtelijk   uitvoeringsplan, vermeld in artikel 5.4.2, tot en met 31 december 2029. Indien   het ruimtelijk uitvoeringsplan reeds vóór 1 september 2009 in werking is   getreden, geldt het aanvullend woonrecht vanaf de dag van de inwerkingtreding   van voormeld decreet. Het ruimtelijk uitvoeringsplan, vermeld in artikel 5.4.2,   kan het aanvullend woonrecht verlengen, uiterlijk tot en met 31 december 2039.   Indien het ruimtelijk uitvoeringsplan reeds vóór 1 september 2009 definitief is   vastgesteld, kan het orgaan, bevoegd voor de definitieve vaststelling, een   reglement tot dergelijke verlenging van het aanvullend woonrecht   aannemen.<BR><BR>Het tijdelijk woonrecht en het eventuele daaropvolgende   aanvullend woonrecht worden hiernavolgend beschouwd als één integraal en continu   gegeven, « woonrecht » genoemd.<BR><BR>§ 2. Permanente bewoners zijn ertoe   gehouden in te gaan op het eerste aanbod tot herhuisvesting van overheidswege,   op straffe van verval van hun woonrecht.<BR><BR>Het woonrecht vervalt eveneens   indien en van zodra de permanente bewoner :<BR>1° het weekendverblijf niet   langer als hoofdverblijfplaats betrekt, zulks blijkens het bevolkingsregister of   het vreemdelingenregister van de betrokken gemeente;<BR>2° een andere woning   volledig in volle eigendom of volledig in vruchtgebruik verwerft;<BR>3° na 1   september 2009 met betrekking tot het weekendverblijf een misdrijf, vermeld in   artikel 6.1.1, begaat.<BR><BR>Het woonrecht vervalt ten slotte indien het   weekendverblijf tenietgaat of niet langer voldoet aan de vereisten, vermeld in   artikel 5 van het decreet van 15 juli 1997 houdende de Vlaamse   Wooncode.<BR><BR>§ 3. Het woonrecht houdt in hoofde van de permanente bewoners   en hun gezinsleden het recht in om het weekendverblijf permanent te bewonen   gedurende de periode waarbinnen het woonrecht geldt. De gezinsleden genieten   geen eigenstandig woonrecht en bouwen daartoe geen rechten op.<BR><BR>Gedurende   de uitoefening van het woonrecht :<BR>1° geeft het strijdig gebruik van het   weekendverblijf geen aanleiding tot vorderingen op grond van de artikelen 6.1.1   en 6.1.41 tot en met 6.1.43;<BR>2° worden op het strijdig gebruik van het   weekendverblijf gesteunde vorderingen op grond van de artikelen 6.1.1 en 6.1.41   tot en met 6.1.43, ontstaan vóór de aanvang van het woonrecht, geschorst,   evenals de verjaring van deze vorderingen;<BR>3° worden op het strijdig gebruik   van het weekendverblijf betrekking hebbende herstelmaatregelen, en (de verjaring   van) het recht om tot ambtshalve uitvoering van dergelijke herstelmaatregelen   over te gaan, geschorst;<BR>4° wordt het strijdig gebruik van het   weekendverblijf geacht geen vertraging in de tenuitvoerlegging van een   herstelmaatregel uit te maken, in het geval aan de uitvoering van de   herstelmaatregel een dwangsom is verbonden.<BR><BR>Voor de toepassing van het   tweede lid, wordt onder « het strijdig gebruik van het weekendverblijf »   verstaan : de permanente bewoning van het weekendverblijf door de permanente   bewoners en hun gezinsleden.<BR><BR>§ 4. Het woonrecht staat nimmer in de weg   aan het vaststellen van een onteigeningsplan, het verlenen van een   onteigeningsmachtiging en het uitvoeren van onteigeningsverrichtingen.<BR><BR>§   5. De Vlaamse Regering kan de wijze bepalen waarop het bestaan en het verval van   het woonrecht in een declaratief attest worden vastgesteld.<BR><BR>§ 6. Vanaf   het verstrijken van het woonrecht kan de burgemeester ten aanzien van een   weekendverblijf dat niet gelegen is in een gebied waarin verblijfsrecreatie   toegelaten is, een woonverbod uitspreken en alle nuttige maatregelen nemen om   dat woonverbod te doen naleven, zulks met overeenkomstige toepassing van artikel   135, § 2, van de Nieuwe Gemeentewet.
+§ 1. Tenzij het ruimtelijk uitvoeringsplan, vermeld in artikel 5.4.2, reeds vóór 1 september 2009 in werking is getreden, geldt in hoofde van permanente bewoners, ten persoonlijken titel, een tijdelijk woonrecht vanaf de dag van de inwerkingtreding van voormeld decreet tot en met de inwerkingtreding van het ruimtelijk uitvoeringsplan. Indien de op grond van het ruimtelijk uitvoeringsplan planologisch mogelijk geworden permanente bewoning echter pas kan worden voortgezet op grond van een&nbsp;omgevingsvergunning voor een functiewijziging naar de functie « wonen », dan wordt het tijdelijk woonrecht verlengd totdat deze vergunning in laatste administratieve aanleg is afgegeven. Deze verlenging geldt slechts indien deze vergunning is aangevraagd binnen de termijn van zes maanden volgend op de inwerkingtreding van het ruimtelijk uitvoeringsplan.<br>
+<br>
+In hoofde van permanente bewoners waarvoor geen planologische oplossing geboden wordt, geldt ten persoonlijken titel een aanvullend woonrecht vanaf de inwerkingtreding van het ruimtelijk uitvoeringsplan, vermeld in artikel 5.4.2, tot en met 31 december 2029. Indien het ruimtelijk uitvoeringsplan reeds vóór 1 september 2009 in werking is getreden, geldt het aanvullend woonrecht vanaf de dag van de inwerkingtreding van voormeld decreet. Het ruimtelijk uitvoeringsplan, vermeld in artikel 5.4.2, kan het aanvullend woonrecht verlengen, uiterlijk tot en met 31 december 2039. Indien het ruimtelijk uitvoeringsplan reeds vóór 1 september 2009 definitief is vastgesteld, kan het orgaan, bevoegd voor de definitieve vaststelling, een reglement tot dergelijke verlenging van het aanvullend woonrecht aannemen.<br>
+<br>
+Het tijdelijk woonrecht en het eventuele daaropvolgende aanvullend woonrecht worden hiernavolgend beschouwd als één integraal en continu gegeven, « woonrecht » genoemd.<br>
+<br>
+§ 2. Permanente bewoners zijn ertoe gehouden in te gaan op het eerste aanbod tot herhuisvesting van overheidswege, op straffe van verval van hun woonrecht.<br>
+<br>
+Het woonrecht vervalt eveneens indien en van zodra de permanente bewoner :<br>
+1° het weekendverblijf niet langer als hoofdverblijfplaats betrekt, zulks blijkens het bevolkingsregister of het vreemdelingenregister van de betrokken gemeente;<br>
+2° een andere woning volledig in volle eigendom of volledig in vruchtgebruik verwerft;<br>
+3° na 1 september 2009 met betrekking tot het weekendverblijf een misdrijf of een inbreuk als vermeld in artikel 6.2.1 en 6.2.2., begaat.<br>
+<br>
+Het woonrecht vervalt ten slotte indien het weekendverblijf tenietgaat of niet langer voldoet aan de vereisten, vermeld in artikel 5 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br>
+<br>
+§ 3. Het woonrecht houdt in hoofde van de permanente bewoners en hun gezinsleden het recht in om het weekendverblijf permanent te bewonen gedurende de periode waarbinnen het woonrecht geldt. De gezinsleden genieten geen eigenstandig woonrecht en bouwen daartoe geen rechten op.<br>
+<br>
+Gedurende de uitoefening van het woonrecht :<br>
+1° wordt het strijdige gebruik van het weekendverblijf niet beschouwd als een schending van deze codex;<br>
+2° worden op het strijdig gebruik van het weekendverblijf gesteunde vorderingen, ontstaan vóór de aanvang van het woonrecht, geschorst, evenals de verjaring van deze vorderingen;<br>
+3° worden op het strijdig gebruik van het weekendverblijf betrekking hebbende herstelmaatregelen, en (de verjaring van) het recht om tot ambtshalve uitvoering van dergelijke herstelmaatregelen over te gaan, geschorst;<br>
+4° wordt het strijdig gebruik van het weekendverblijf geacht geen vertraging in de tenuitvoerlegging van een herstelmaatregel uit te maken, in het geval aan de uitvoering van de herstelmaatregel een dwangsom is verbonden.<br>
+<br>
+Voor de toepassing van het tweede lid, wordt onder « het strijdig gebruik van het weekendverblijf » verstaan : de permanente bewoning van het weekendverblijf door de permanente bewoners en hun gezinsleden.<br>
+<br>
+§ 4. Het woonrecht staat nimmer in de weg aan het vaststellen van een onteigeningsplan, het verlenen van een onteigeningsmachtiging en het uitvoeren van onteigeningsverrichtingen.<br>
+<br>
+§ 5. De Vlaamse Regering kan de wijze bepalen waarop het bestaan en het verval van het woonrecht in een declaratief attest worden vastgesteld.<br>
+<br>
+§ 6. Vanaf het verstrijken van het woonrecht kan de burgemeester ten aanzien van een weekendverblijf dat niet gelegen is in een gebied waarin verblijfsrecreatie toegelaten is, een woonverbod uitspreken en alle nuttige maatregelen nemen om dat woonverbod te doen naleven, zulks met overeenkomstige toepassing van artikel 135, § 2, van de Nieuwe Gemeentewet.
 
 ## Afdeling 4 Handelingen betreffende een weekendverblijf waarop een woonrecht rust
 
@@ -3103,27 +3142,21 @@ Een gemeente kan een woonuitbreidingsgebied eerst omzetten naar woongebied door 
 
 ### ART. 6.1.1.
 
-Met een gevangenisstraf van acht dagen tot vijf jaar en met een geldboete van 26 euro tot 400.000 euro of met één van deze straffen alleen, wordt de persoon gestraft die :<br>
-1° de bij de artikelen 4.2.1 en 4.2.15 bepaalde handelingen hetzij zonder voorafgaande stedenbouwkundige vergunning, verkavelingsvergunning, omgevingsvergunning voor stedenbouwkundige handelingen of omgevingsvergunning voor het verkavelen van gronden, hetzij in strijd met de betreffende vergunning, hetzij na verval, vernietiging of het verstrijken van de termijn van de betreffende vergunning, hetzij in geval van schorsing van de betreffende vergunning, uitvoert, voortzet of in stand houdt;<br>
-2° handelingen uitvoert, voortzet of in stand houdt in strijd met een ruimtelijk uitvoeringsplan, vermeld in de titel II, hoofdstuk II, met een ontwerp van ruimtelijk uitvoeringsplan waarvoor toepassing werd gemaakt van artikel 4.3.2 of 4.4.7, § 1, of met de stedenbouwkundige en verkavelingsverordeningen, vermeld in de artikelen 2.3.1 tot en met 2.2.3, tenzij de uitgevoerde handelingen vergund zijn;<br>
-3° als de eigenaar toestaat of aanvaardt dat één van de strafbare feiten, vermeld in punt 1°, 2° en 8°, wordt gepleegd, wordt voortgezet of in stand wordt gehouden;<br>
-4° een inbreuk pleegt op de informatieplicht, vermeld in de artikelen 5.2.1 tot en met 5.2.6;<br>
-5° de handelingen voortzet in strijd met het bevel tot staking, de bekrachtigingsbeslissing of, in voorkomend geval, de beschikking in kortgeding;<br>
-6° een inbreuk op de plannen van aanleg en verordeningen die tot stand zijn gekomen volgens de bepalingen van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996 en die van kracht blijven zolang en in de mate dat ze niet vervangen worden door nieuwe voorschriften uitgevaardigd krachtens onderhavige codex, pleegt na 1 mei 2000, of dit voortzet of in stand houdt, op welke wijze ook, tenzij de uitgevoerde werken, handelingen of wijzigingen vergund zijn;<br>
-7° handelingen die een inbreuk zijn op de bouw- en verkavelingsvergunningen die zijn verleend krachtens het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, uitvoert, voortzet of in stand houdt;<br>
-8° handelingen uitvoert, voortzet of in stand houdt in een conform artikel 5.6.8 aangeduid watergevoelig openruimtegebied die:<br>
-a) of niet zijn toegelaten in artikel 5.6.8, § 3, tenzij deze handelingen vergund of vergund geacht zijn en, voor zover het gebied niet opgeheven wordt met toepassing van artikel 5.6.8, § 7;<br>
-b) of die de voorwaarden die door de Vlaamse Regering worden verbonden aan de schrapping, vermeld in artikel 5.6.8, § 7, derde lid, schenden, tenzij deze handelingen vergund of vergund geacht zijn.<br>
-<br>
-De minimumstraffen zijn echter een gevangenisstraf van vijftien dagen en een geldboete van 2.000 euro, of één van deze straffen alleen, indien de in het eerste lid vermelde misdrijven gepleegd worden door instrumenterende ambtenaren, vastgoedmakelaars en andere personen die in de uitoefening van hun beroep of activiteit onroerende goederen kopen, verkavelen, te koop of te huur zetten, verkopen of verhuren, bouwen of vaste of verplaatsbare inrichtingen ontwerpen en/of opstellen of personen die bij die verrichtingen als tussenpersonen optreden, bij de uitoefening van hun beroep.<br>
-<br>
-De strafsanctie voor het instandhouden van inbreuken, vermeld in het eerste lid, 1°, 2°, 3°, 6°, 7° en 8°, geldt niet voorzover de handelingen, werken, wijzigingen of het strijdige gebruik niet gelegen zijn in de ruimtelijk kwetsbare gebieden. Voor de strafbare instandhouding is uitsluitend vereist dat de wederrechtelijke handelingen op het ogenblik van de instandhouding gelegen zijn in ruimtelijk kwetsbaar gebied.<br>
-<br>
-Een herstelvordering die door de stedenbouwkundige inspecteur of het college van burgemeester en schepenen is ingesteld op grond van de instandhouding van handelingen, kan vanaf 1 september 2009 niet langer worden ingewilligd indien deze instandhouding op het ogenblik van de uitspraak niet meer strafbaar is gesteld.
+<p>In deze titel wordt verstaan onder :<br>
+1° gemeentelijke stedenbouwkundige inspecteur: het personeelslid dat belast is met de uitvoering van de handhaving van de ruimtelijke ordening, vermeld in deze titel, bevoegd voor het grondgebied van een of meer gemeenten die het college of de colleges van burgemeester en schepenen van de gemeente of de gemeenten in kwestie daarvoor als zodanig hebben aangesteld zoals vermeld in artikel 1.4.9, tweede lid;<br>
+2° gewestelijke entiteit: de subentiteit, die de Vlaamse Regering aanwijst om de alternatieve en bestuurlijke geldboete of de exclusieve geldboete op te leggen zoals bedoeld in artikel 16.1.2, 4°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
+3° gewestelijke stedenbouwkundige inspecteur: het gewestelijke personeelslid dat belast is met de uitvoering van de handhaving van de ruimtelijke ordening, vermeld in deze titel, bevoegd voor het geheel of voor onderdelen van het grondgebied van het Vlaamse Gewest, die de Vlaamse Regering als zodanig heeft aangesteld als gewestelijk stedenbouwkundig inspecteur zoals vermeld in artikel 1.4.9, tweede lid;<br>
+4° Handhavingscollege : het administratief rechtscollege, vermeld in artikel 16.4.19 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
+5° openruimtegebied : hetzij de landelijke en recreatiegebieden, aangewezen op plannen van aanleg, voor zover ze geen ruimtelijk kwetsbaar gebied uitmaken, hetzij de gebieden, aangewezen op ruimtelijke uitvoeringsplannen, die vallen onder een van de volgende categorieën :<br>
+a) de categorie van gebiedsaanduiding `landbouw' of `recreatie';<br>
+b) de subcategorie `gemengd openruimtegebied', voor zover het gebied geen onderdeel is van het Vlaams Ecologisch Netwerk;<br>
+6° overtreder : de natuurlijke persoon of de rechtspersoon die het stedenbouwkundige misdrijf of de stedenbouwkundige inbreuk heeft uitgevoerd, er opdracht toe heeft gegeven of er zijn medewerking aan heeft verleend;<br>
+7° Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu : de gewestelijke raad bedoeld in artikel 16.2.2 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
+8° verbalisant ruimtelijke ordening: het personeelslid, bedoeld in artikel 6.2.5/1, dat belast is met de uitvoering van de handhaving van de ruimtelijke ordening vermeld in deze titel.</p>
 
 ### ART. 6.1.2.
 
-Artikel 6.1.1, derde lid, toegevoegd bij decreet van 4 juni 2003 en gedeeltelijk vernietigd bij arrest nr. 14/2005 van 19 januari 2005 van het Grondwettelijk Hof, wordt geïnterpreteerd als volgt :<br />Deze bepaling heft de strafbaarstelling van de vermelde instandhoudingsmisdrijven op.
+<p>De toepassing van deze titel strekt tot vrijwaring van de goede ruimtelijke ordening, bedoeld in artikel 4.3.1, § 2, van deze codex.</p>
 
 ## Afdeling 2 [Omgevingshandhavingsbeleid (verv. Decr. 26 februari 2021, art. 10, I: 1 april 2021)]
 
@@ -3139,7 +3172,7 @@ Artikel 6.1.1, derde lid, toegevoegd bij decreet van 4 juni 2003 en gedeeltelijk
 
 ### ART. 6.1.5.
 
-Onverminderd de bevoegdheden van de agenten en de officieren van gerechtelijke politie, zijn de stedenbouwkundige inspecteurs, de andere door de Vlaamse Regering aangewezen ambtenaren, alsmede de door de gouverneur aangewezen ambtenaren van de provincie en van de gemeenten of intergemeentelijke samenwerkingsverbanden in zijn provincie, bevoegd om de in deze titel omschreven misdrijven op te sporen en vast te stellen door een proces-verbaal. De processen-verbaal waarin de in deze titel omschreven misdrijven worden vastgesteld gelden tot bewijs van het tegendeel.<br /><br />De in het eerste lid vermelde agenten, officieren van de gerechtelijke politie en ambtenaren hebben toegang tot de bouwplaats en de gebouwen om alle nodige opsporingen en vaststellingen te verrichten. Van elk proces-verbaal waarin een misdrijf in de zin van artikel 6.1.1 wordt vastgesteld, wordt een afschrift bezorgd aan de overheden, bedoeld in artikel 6.1.41, § 1, eerste lid.<br /><br />Als deze verrichtingen de kenmerken van een huiszoeking dragen, mogen ze enkel worden uitgevoerd op voorwaarde dat de politierechter daartoe een machtiging heeft verstrekt.<br /><br />Om de in deze titel omschreven misdrijven op te sporen en vast te stellen in een proces-verbaal krijgen de stedenbouwkundige inspecteurs de hoedanigheid van officier van gerechtelijke politie hulpofficier van de procureur des Konings.
+<p>...</p>
 
 ## Afdeling 4 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
@@ -3147,15 +3180,7 @@ Onverminderd de bevoegdheden van de agenten en de officieren van gerechtelijke p
 
 ### ART. 6.1.6.
 
-§ 1. Bij&nbsp;het Vlaams Ministerie van Omgeving wordt een Hoge Raad voor het Handhavingsbeleid opgericht, hierna de Hoge Raad te noemen.<br>
-<br>
-§ 2. De Hoge Raad is een orgaan van actief bestuur.<br>
-<br>
-Zijn adviezen zijn te allen tijde gesteund op motieven die ontleend worden aan :<br>
-1° het recht, met inbegrip van de algemene beginselen van behoorlijk bestuur zoals deze specifiek binnen de ruimtelijke ordening gelden;<br>
-2° de weerslag van inbreuken op de rechten van derden en op de plaatselijke ordening, zijnde het niveau van de goede ruimtelijke ordening van naburige percelen dat zou worden behaald indien zich geen schade ingevolge een misdrijf, vermeld in artikel 6.1.1, zou hebben voorgedaan.<br>
-<br>
-§ 3. De Vlaamse Regering geeft nimmer instructies omtrent de behandeling van concrete dossiers die aan de beoordeling van de Hoge Raad zijn voorgelegd.
+<p><strong><em>...</em></strong></p>
 
 ## Onderafdeling 2 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
@@ -3163,11 +3188,11 @@ Zijn adviezen zijn te allen tijde gesteund op motieven die ontleend worden aan :
 
 ### ART. 6.1.7.
 
-De stedenbouwkundige inspecteur en het college van burgemeester en schepenen kunnen slechts overgaan tot het inleiden van een herstelvordering voor de rechter of tot het ambtshalve uitvoeren van een herstelmaatregel, wanneer de Hoge Raad daartoe voorafgaandelijk een positief advies heeft verleend.
+<p>...</p>
 
 ### ART. 6.1.8.
 
-Het advies, vermeld in artikel 6.1.7, wordt gevraagd bij beveiligde zending.<br /><br />Bij de adviesaanvraag wordt een informatiedossier gevoegd, waarin de feitelijke en juridische historiek van het dossier wordt geduid.
+<p>...</p>
 
 ### ART. 6.1.9.
 
@@ -3175,11 +3200,11 @@ Het advies, vermeld in artikel 6.1.7, wordt gevraagd bij beveiligde zending.<br 
 
 ### ART. 6.1.10.
 
-De plenaire vergadering van de Hoge Raad brengt een advies uit binnen een vervaltermijn van zestig dagen, die ingaat de dag na de dag van de betekening van de adviesaanvraag. <br /><br />Bij het overschrijden van deze termijn, mag aan de adviesvereiste voorbij worden gegaan.<br /><br />De Hoge Raad behandelt bij voorrang de adviesaanvragen waarbij het voorwerp van het betrokken misdrijf gelegen is in een ruimtelijk kwetsbaar gebied.
+<p>...</p>
 
 ### ART. 6.1.11.
 
-Een advies wordt bij beveiligde zending betekend aan het betrokken bestuur. De Hoge Raad bezorgt een afschrift van het advies aan de belanghebbenden, vermeld in artikel 6.1.34, die in de zaak zijn gehoord of van wiens bestaan de Hoge Raad op grond van het dossier op de hoogte is.<br /><br />Een positief advies geldt voor een periode van twee jaar, te rekenen vanaf de datum waarop over het advies wordt beslist.<br /><br />Het betrokken bestuur of een derde-belanghebbende kan bij de Hoge Raad een gemotiveerd verzoek tot heroverweging instellen tegen de afgifte van een negatief advies.
+<p>...</p>
 
 ### ART. 6.1.12.
 
@@ -3189,81 +3214,81 @@ Een advies wordt bij beveiligde zending betekend aan het betrokken bestuur. De H
 
 ### ART. 6.1.13.
 
-Indien de stedenbouwkundige inspecteur of het college van burgemeester en schepenen overeenkomstig artikel 6.1.41, § 4, een herstelvordering heeft voorgelegd aan het Openbaar Ministerie, kan de inspecteur of het college naderhand voor dezelfde inbreuk slechts een herstelvordering inleiden voor de burgerlijke rechter, wanneer de Hoge Raad daartoe voorafgaandelijk een positief advies heeft verleend.<br /><br />Hetzelfde geldt indien een herstelvordering eerst voor de burgerlijke rechter werd ingeleid en vervolgens bij het Openbaar Ministerie aanhangig wordt gemaakt.
+<p>...</p>
 
 ### ART. 6.1.14.
 
-De adviezen, vermeld in artikel 6.1.13, worden gevraagd bij beveiligde zending.<br /><br />Bij de adviesaanvraag wordt een informatiedossier gevoegd, waarin de gronden om de initiële keuze van het bestuur te wijzigen, geduid worden.
+<p>...</p>
 
 ### ART. 6.1.15.
 
-Een advies wordt uitgebracht binnen een vervaltermijn van zestig dagen, die ingaat de dag na deze van de betekening van de adviesaanvraag.<br /><br />Bij het overschrijden van deze termijn, mag aan de adviesvereiste voorbij worden gegaan.
+<p>...</p>
 
 ### ART. 6.1.16.
 
-Een advies wordt bij beveiligde zending betekend aan het betrokken bestuur. De Hoge Raad bezorgt een afschrift van het advies aan de belanghebbenden, vermeld in artikel 6.1.34, die in de zaak zijn gehoord of van wiens bestaan de Hoge Raad op grond van het dossier op de hoogte is.<br /><br />Een positief advies geldt voor een periode van twee jaar, te rekenen vanaf de datum waarop over het advies wordt beslist.<br /><br />Het betrokken bestuur of een derde-belanghebbende kan bij de Hoge Raad een gemotiveerd verzoek tot heroverweging instellen tegen de afgifte van een negatief advies.
+<p>...</p>
 
 ## Sectie 3 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
 ### ART. 6.1.17.
 
-De stedenbouwkundige inspecteur en het college van burgemeester en schepenen winnen het advies in van de Hoge Raad voorafgaand aan de betekening van een vonnis of arrest waarin de rechter het bestuur heeft gemachtigd om ambtshalve in de uitvoering ervan te voorzien, indien, enerzijds, de termijn voor de uitvoering van de herstelmaatregelen op de betekeningsdatum reeds tien jaar of meer is verstreken en, anderzijds, voldaan is aan alle hiernavolgende voorwaarden :<br />1° het voorwerp van het betrokken misdrijf is niet gelegen in een ruimtelijk kwetsbaar gebied;<br />2° het misdrijf dat aanleiding heeft gegeven tot het vonnis of arrest, heeft geen betrekking op het verrichten van handelingen in strijd met een stakingsbevel of in strijd met de stedenbouwkundige voorschriften aangaande de voor het gebied toegelaten bestemmingen;<br />3° aan de overtreder werden na het vonnis of arrest geen nieuwe strafrechtelijke of bestuurlijke sancties of verplichtingen tot schadevergoeding opgelegd uit hoofde van een misdrijf, vermeld in artikel 6.1.1.<br /><br />Het vonnis of het arrest kan eerst worden betekend, indien de Hoge Raad daartoe een positief advies heeft uitgebracht.
+<p>...</p>
 
 ### ART. 6.1.18.
 
-Het advies, vermeld in artikel 6.1.17, wordt gevraagd bij beveiligde zending.<br /><br />Bij de adviesaanvraag wordt een informatiedossier gevoegd, waarin in het bijzonder wordt aangegeven of de overtreder reeds handelingen heeft gesteld om te voldoen aan het vonnis of arrest.
+<p>...</p>
 
 ### ART. 6.1.19.
 
-Een advies wordt uitgebracht binnen een vervaltermijn van zestig dagen, die ingaat de dag na deze van de betekening van de adviesaanvraag.<br /><br />Bij het overschrijden van deze termijn, mag aan de adviesvereiste voorbij worden gegaan.
+<p>...</p>
 
 ### ART. 6.1.20.
 
-Een advies wordt bij beveiligde zending betekend aan het betrokken bestuur.<br /><br />Een positief advies geldt voor een periode van twee jaar, te rekenen vanaf de datum waarop over het advies wordt beslist.<br /><br />Het betrokken bestuur of een derde-belanghebbende kan bij de Hoge Raad een gemotiveerd verzoek tot heroverweging instellen tegen de afgifte van een negatief advies.
+<p>...</p>
 
 ## Sectie 4 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
 ### ART. 6.1.21.
 
-...
+<p>...</p>
 
 ## Sectie 5 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
 ### ART. 6.1.22.
 
-De Hoge Raad is belast met de bemiddelingsopdrachten, vermeld in artikelen 6.1.52 en 6.1.53.<br /><br />De Hoge Raad kan een bemiddelaar aanwijzen onder zijn leden of onder de leden van het permanent secretariaat.
+<p>...</p>
 
 ## Sectie 6 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
 ### ART. 6.1.23.
 
-De Hoge Raad kan advies geven, opmerkingen maken of voorstellen doen over alle aangelegenheden met betrekking tot het handhavingsbeleid, op eigen initiatief of op verzoek van het Vlaams Parlement of de Vlaamse Regering.
+<p>...</p>
 
 ## Onderafdeling 3 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
 ### ART. 6.1.24.
 
-§ 1. De Hoge Raad wordt samengesteld uit een voorzitter, drie leden-juristen en drie leden-deskundigen.<br /><br />De voorzitter en de leden-juristen bezitten de graad van master in de rechten en bezitten ten minste tien jaar nuttige ervaring op het vlak van zowel het Vlaamse ruimtelijkeordeningsrecht als de rechtsbescherming tegen bestuurlijk optreden.<br /><br />De leden-deskundigen bezitten ten minste tien jaar nuttige ervaring op het vlak van de Vlaamse ruimtelijke ordening.<br /><br />§ 2. De Vlaamse Regering kan de selectiecriteria, vermeld in § 1, tweede en derde lid, verfijnen.
+<p>...</p>
 
 ### ART. 6.1.25.
 
-De voorzitter en de overige leden worden door de Vlaamse Regering aangeduid voor een hernieuwbare termijn van vijf jaar.<br /><br />Zij blijven in functie totdat in hun vervanging is voorzien.
+<p>...</p>
 
 ### ART. 6.1.26.
 
-Het mandaat van lid van de Hoge Raad is onverenigbaar met het lidmaatschap van een wetgevende vergadering, een provincieraad, een gemeenteraad, een districtsraad of een raad van een openbaar centrum voor maatschappelijk welzijn.
+<p>...</p>
 
 ### ART. 6.1.27.
 
-Indien een mandaat in de schoot van de Hoge Raad om onverschillig welke reden openvalt, wordt overgegaan tot de vervanging van het lid voor de verdere duur van het mandaat.
+<p>...</p>
 
 ### ART. 6.1.28.
 
-De Vlaamse Regering kan aan de Hoge Raad tijdelijke leden toevoegen om aan uitzonderlijke omstandigheden het hoofd te bieden. De tijdelijke leden voldoen aan de voorwaarden, vermeld in artikel 6.1.24, § 1, tweede of derde lid, desgevallend verfijnd door de Vlaamse Regering op grond van artikel 6.1.24, § 2.<br /><br />Behoudens verlenging eindigt de opdracht van de tijdelijke leden wanneer de termijn waarvoor zij zijn aangewezen, verstreken is. Voor zaken waarover de debatten aan de gang zijn of die in beraad zijn, blijft de opdracht evenwel geldig tot aan de beslissing van de Hoge Raad.
+<p>...</p>
 
 ### ART. 6.1.29.
 
-De leden van de Hoge Raad ontvangen ten laste van het Vlaamse Gewest een vergoeding, presentiegelden en reis- en verblijfskosten, waarvan het bedrag of de berekeningswijze wordt vastgelegd door de Vlaamse Regering.
+<p>...</p>
 
 ## Onderafdeling 4 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
@@ -3273,35 +3298,35 @@ De leden van de Hoge Raad ontvangen ten laste van het Vlaamse Gewest een vergoed
 
 ### ART. 6.1.30.
 
-§ 1. De Hoge Raad vergadert geldig wanneer de meerderheid van de leden aanwezig is.<br /><br />§ 2. De Hoge Raad spreekt zich uit bij gewone meerderheid van stemmen.<br /><br />Bij staking van stemmen wordt een nieuwe stemming gehouden. Indien er bij deze tweede stemming opnieuw staking van stemmen is, beslist de voorzitter.
+<p>...</p>
 
 ## Subsectie 2 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
 ### ART. 6.1.31.
 
-De vergaderingen van de Hoge Raad kunnen worden bijgewoond door :<br />1° de stedenbouwkundige inspecteur, bevoegd voor het Vlaamse Gewest;<br />2° een vertegenwoordiger van het college van burgemeester en schepenen, voor wat betreft die agendapunten die een vordering of een maatregel van de betrokken gemeente betreffen.<br /><br />De besturen, vermeld in het eerste lid, kunnen voorafgaand aan de sluiting van de besprekingen hun standpunt weergeven en een stemadvies geven.
+<p>...</p>
 
 ## Subsectie 3 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
 ### ART. 6.1.32.
 
-Het is de leden van de Hoge Raad en van het permanent secretariaat, vermeld in artikel 6.1.39, verboden deel te nemen aan een beraadslaging of een beslissing over zaken waarbij zij een persoonlijk en rechtstreeks belang hebben, waarbij hun bloed- of aanverwanten tot in de vierde graad of de personen met wie zij een feitelijk gezin vormen en persoonlijk en rechtstreeks belang hebben, of waarbij zij of de rechtspersoon of feitelijke vereniging waarin zij een belang hebben, in een professionele hoedanigheid betrokken zijn of zijn geweest.
+<p>...</p>
 
 ### ART. 6.1.33.
 
-Artikel 458 van het Strafwetboek is van toepassing op de leden van de Hoge Raad voor alle gegevens waarvan zij kennis nemen in het kader van de uitoefening van hun opdrachten in de Hoge Raad.
+<p>...</p>
 
 ## Subsectie 4 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
 ### ART. 6.1.34.
 
-De Hoge Raad kan belanghebbenden schriftelijk horen telkens wanneer hij dit nodig acht voor een zorgvuldige feitenvinding of voor de eerbiediging van het verdedigingsbeginsel. De Hoge Raad kan deze beoordelingsbevoegdheid inzake de organisatie van het schriftelijk horen delegeren aan één of meer van zijn leden.<br /><br />Voor de toepassing van het eerste lid wordt onder « belanghebbenden » verstaan :<br />1° personen die getroffen worden of kunnen worden door de maatregel waaromtrent de Hoge Raad is geadieerd;<br />2° rechtspersonen die voldoen aan de voorwaarden, vermeld in artikel 2 van de wet van 12 januari 1993 betreffende een vorderingsrecht inzake bescherming van het leefmilieu, in zoverre de gediende collectieve belangen bedreigd of geschaad worden door het misdrijf, vermeld in artikel 6.1.1, dat aanleiding geeft tot de maatregel waaromtrent de Hoge Raad is geadieerd;<br />3° derden die in hun rechten worden geraakt door het misdrijf, vermeld in artikel 6.1.1, dat aanleiding geeft tot de maatregel waaromtrent de Hoge Raad is geadieerd.
+<p>...</p>
 
 ## Subsectie 5 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
 ### ART. 6.1.35.
 
-Elke persoon kan zich in het kader van een procedure voor de Hoge Raad doen bijstaan of laten vertegenwoordigen door een raadsman.<br /><br />Indien deze raadsman optreedt als vertegenwoordiger, legt hij een schriftelijke machtiging daartoe voor, behoudens indien de raadsman ingeschreven is als advocaat of als advocaat-stagiair.
+<p>...</p>
 
 ## Sectie 2 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
@@ -3309,121 +3334,93 @@ Elke persoon kan zich in het kader van een procedure voor de Hoge Raad doen bijs
 
 ### ART. 6.1.36.
 
-De Vlaamse Regering stelt een procedure- en werkingsreglement vast op voorstel van de Hoge Raad.<br /><br />Dit reglement kan, al dan niet op straffe van nietigheid of onontvankelijkheid voorgeschreven, vorm- en termijnvoorwaarden opleggen, in het bijzonder wat betreft de aanhangigmaking van zaken, het overmaken van overtuigingsstukken, het inzagerecht van belanghebbenden en het horen van belanghebbenden.<br /><br />Het reglement regelt voorts ten minste :<br />1° de werkverdeling in de schoot van de Hoge Raad;<br />2° de wijze waarop het horen, vermeld in artikel 6.1.34, georganiseerd wordt;<br />3° het verloop van de bemiddeling, vermeld in artikel 6.1.52 en 6.1.54;<br />4° de wijze waarop externe deskundigen bij de werking van de Hoge Raad kunnen worden betrokken voor het onderzoeken van bijzondere vraagstukken.<br /><br />Het reglement treedt in werking op de dag van bekendmaking in het Belgisch Staatsblad.
+<p>...</p>
 
 ## Subsectie 2 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
 ### ART. 6.1.37.
 
-De Hoge Raad neemt een huishoudelijk reglement aan.<br /><br />Het huishoudelijk reglement bevat ten minste de deontologische beginselen, gedragsregels en richtlijnen die de leden van de Hoge Raad tot leidraad dienen bij de uitoefening van hun mandaat.
+<p>...</p>
 
 ## Sectie 3 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
 ### ART. 6.1.38.
 
-De Vlaamse Regering stelt de Hoge Raad binnen de beschikbare begrotingskredieten de nodige werkingsmiddelen ter beschikking.
+<p>...</p>
 
 ### ART. 6.1.39.
 
-§ 1. De Hoge Raad stelt op grond van de werkingsmiddelen een permanent secretariaat samen.<br /><br />Het permanent secretariaat wordt geleid door een vaste secretaris en staat onder het gezag van de voorzitter in voor de algemene administratieve ondersteuning van de Hoge Raad. De vaste secretaris en de overige leden van het permanent secretariaat beschikken niet over enig stemrecht in de Hoge Raad.<br /><br />§ 2. De aanstelling van de vaste secretaris en de overige leden van het permanent secretariaat gebeurt op grond van een detacherings- of arbeidsovereenkomst.
+<p>...</p>
 
 ## Onderafdeling 5 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
 ### ART. 6.1.40.
 
-Onder het gezag van de Hoge Raad brengt het departement jaarlijks een verslagboek uit, waarin een synthese is opgenomen van de overwegingen die tot de advies- en beslissingspraktijk van de Hoge Raad hebben geleid.
+<p>...</p>
 
 ## Afdeling 5 [... (opgeh. Decr. 25 april 2014, art. 22, I: 1 maart 2018)]
 
 ### ART. 6.1.41.
 
-§ 1. Naast de straf kan de rechtbank bevelen de plaats in de oorspronkelijke toestand te herstellen of het strijdige gebruik te staken, en/of bouw- of aanpassingswerken uit te voeren en/of een geldsom te betalen gelijk aan de meerwaarde die het goed door het misdrijf heeft verkregen. Dit gebeurt, onverminderd artikel 6.1.7 en 6.1.18, op vordering van de stedenbouwkundig inspecteur of van het college van burgemeester en schepenen op wier grondgebied de werken, handelingen of wijzigingen, vermeld in artikel 6.1.1, werden uitgevoerd. De herstelvordering wordt ingesteld met inachtneming van volgende regelen :<br />1° voor misdrijven die bestaan, of ondermeer bestaan, uit het verrichten van handelingen in strijd met een stakingsbevel of in strijd met de stedenbouwkundige voorschriften aangaande de voor het gebied toegelaten bestemmingen, voor zover daarvan niet op geldige wijze is afgeweken, wordt gevorderd :<br />a) hetzij de uitvoering van het herstel van de plaats in de oorspronkelijke toestand of de staking van het strijdige gebruik,<br />b) hetzij, zo dit kennelijk volstaat om de plaatselijke ordening te herstellen, de uitvoering van bouw- of aanpassingswerken;<br />c) hetzij, indien het gevolg van het misdrijf kennelijk verenigbaar is met een goede ruimtelijke ordening, het betalen van een geldsom gelijk aan de meerwaarde die het goed door het misdrijf heeft verkregen<br />2° voor andere misdrijven dan deze, vermeld in 1°, wordt de betaling van de meerwaarde gevorderd, tenzij de overheid die de herstelvordering instelt, aantoont dat de plaatselijke ordening hierdoor kennelijk op onevenredige wijze zou worden geschaad, in welk geval één van de maatregelen, vermeld in 1°, wordt gevorderd.<br /><br />Voor de diverse onderdelen van éénzelfde misdrijf kunnen verschillende herstelmaatregelen worden gevorderd, indien deze voldoende individualiseerbaar zijn.<br /><br />§ 2. Indien de vorderingen van de stedenbouwkundig inspecteur en van het college van burgemeester en schepenen niet overeenstemmen, heeft de vordering van eerstgenoemde voorrang.<br /><br />§ 3. De rechtbank bepaalt een termijn voor de uitvoering van de herstelmaatregelen en kan, op vordering van de stedenbouwkundig inspecteur of van het college van burgemeester en schepenen, eveneens een dwangsom bepalen.<br /><br />§ 4. De herstelvordering wordt bij het parket ingeleid bij gewone brief, in naam van het Vlaamse Gewest of van het college van burgemeester en schepenen, door de stedenbouwkundige inspecteurs en de aangestelden van het college van burgemeester en schepenen.<br /><br />§ 5. Het vorderingsrecht van de stedenbouwkundige inspecteur en het college van burgemeester en schepenen verjaart in afwijking van artikel 2262bis, § 1, tweede lid, van het Burgerlijk Wetboek als volgt :<br />1° in ruimtelijk kwetsbare gebieden : door verloop van tien jaren, te rekenen vanaf de dag waarop het misdrijf, vermeld in artikel 6.1.1, gepleegd werd, evenwel met behoud van de toepassing van artikel 6.1.1, derde lid;<br />2° in openruimtegebied : door verloop van tien jaren, te rekenen vanaf de dag waarop het misdrijf, vermeld in artikel 6.1.1, gepleegd werd;<br />3° door verloop van vijf jaren, te rekenen vanaf de dag waarop het misdrijf, vermeld in artikel 6.1.1, gepleegd werd : in de gebieden die niet sorteren onder 1° en 2°.<br /><br />Het eerste lid doet geen afbreuk aan de gemeenrechtelijke schorsings- en stuitingsgronden betreffende burgerlijke rechtsvorderingen volgend uit een misdrijf, en aan de gelding van artikel 26 van de voorafgaande titel van het Wetboek van Strafvordering.<br /><br />Voor de toepassing van het eerste lid, 2°, wordt onder « openruimtegebied » verstaan :<br />1° de landelijke en recreatiegebieden, aangewezen op plannen van aanleg, voor zover zij geen ruimtelijk kwetsbaar gebied uitmaken;<br />2° de gebieden, aangewezen op ruimtelijke uitvoeringsplannen, die sorteren onder :<br />a) de categorie van gebiedsaanduiding « landbouw » of « recreatie », of<br />b) de subcategorie « gemengd openruimtegebied », in zoverre het gebied geen onderdeel is van het Vlaams Ecologisch Netwerk.<br /><br />§ 6. Op straffe van onontvankelijkheid voegt het bestuur het positief advies, vermeld in artikel 6.1.7, aan de herstelvordering toe, onverminderd artikel 6.1.10, tweede lid.<br /><br />De Vlaamse Regering kan nadere formele voorwaarden vastleggen waaraan de herstelvordering op straffe van onontvankelijkheid moet voldoen.<br /><br />§ 7. De rechtbank bepaalt het bedrag van de meerwaarde.<br /><br />Bij een veroordeling tot de betaling van een geldsom gelijk aan de meerwaarde kan de veroordeelde zich op een geldige wijze kwijten door binnen een jaar na de uitspraak de plaats te herstellen in de oorspronkelijke toestand of het strijdige gebruik te staken. Hetzelfde geldt ten aanzien van de veroordeling tot bouw- of aanpassingswerken.<br /><br />De Vlaamse Regering bepaalt de regels voor de berekening van het te vorderen bedrag en de betaling van de meerwaarde.
+<p>...</p>
 
 ### ART. 6.1.42.
 
-Indien de herstelvordering van de burgerlijke partij enerzijds en die van stedenbouwkundige inspecteur of het college van burgemeester en schepenen anderzijds niet overeenstemmen, bepaalt de rechtbank de gevorderde herstelmaatregel die ze passend acht.
+<p>...</p>
 
 ### ART. 6.1.43.
 
-De stedenbouwkundige inspecteur en het college van burgemeester en schepenen kunnen ook voor de rechtbank van eerste aanleg, zetelend in burgerlijke aangelegenheden, in het ambtsgebied waarvan de werken, de handelingen of de wijzigingen, vermeld in artikel 6.1.1, geheel of gedeeltelijk worden uitgevoerd, de herstelmaatregelen vorderen zoals omschreven in artikel 6.1.41, § 1. Artikel 6.1.41, § 1, § 2, § 3, § 5 en § 6, en artikel 6.1.42 zijn van overeenkomstige toepassing.
+<p>...</p>
 
 ### ART. 6.1.44.
 
-Een bestuur dat een herstelvordering aanhangig heeft gemaakt bij het Openbaar Ministerie, kan eerst na positief advies van de Hoge Raad voor dezelfde inbreuk een herstelvordering inleiden voor de burgerlijke rechtbank, onverminderd artikel 6.1.15, tweede lid. Hetzelfde geldt indien een herstelvordering eerst voor de burgerlijke rechter werd ingeleid en vervolgens bij het Openbaar Ministerie aanhangig wordt gemaakt.<br /><br />Het advies van de Hoge Raad wordt ingewonnen op de wijze als bepaald in artikel 6.1.13 tot en met 6.1.16.
+<p>...</p>
 
 ## Afdeling 6 [... (opgeh. Decr. 25 april 2014, art. 23, I: 1 maart 2018)]
 
 ### ART. 6.1.45.
 
-De overtreder brengt de stedenbouwkundige inspecteur en het college van burgemeester en schepenen onmiddellijk, bij aangetekende brief of bij afgifte tegen ontvangstbewijs, op de hoogte indien hij de opgelegde herstelmaatregel vrijwillig heeft uitgevoerd. Daarop wordt door de stedenbouwkundige inspecteur onmiddellijk en na controle ter plaatse een proces-verbaal van vaststelling opgemaakt.<br /><br />De stedenbouwkundige inspecteur zendt een afschrift van het proces-verbaal van vaststelling aan de gemeente en de overtreder.<br /><br />Behoudens bewijs van het tegendeel, geldt enkel het proces-verbaal van vaststelling als bewijs van het herstel en van de datum van het herstel.
+<p>...</p>
 
 ### ART. 6.1.46.
 
-Voor het geval dat de plaats niet binnen de door de rechtbank gestelde termijn in de vorige staat wordt hersteld, dat het strijdige gebruik niet binnen die termijn wordt gestaakt of dat de bouw- of aanpassingswerken niet binnen deze termijn worden uitgevoerd, beveelt het vonnis van de rechter, vermeld in de artikelen 6.1.41 en 6.1.43, dat de stedenbouwkundige inspecteur, het college van burgemeester en schepenen en eventueel de burgerlijke partij, ambtshalve in de uitvoering ervan kunnen voorzien.<br /><br />Onverminderd artikel 6.1.10, tweede lid, kan de stedenbouwkundige inspecteur of het college van burgemeester en schepenen eerst na het verkrijgen van het positief advies, vermeld in artikel 6.1.7, overgaan tot het opstarten van een ambtshalve uitvoering. Voor de toepassing van dit lid wordt onder het opstarten van een ambtshalve uitvoering verstaan :<br />1° hetzij het aanvatten van een gunningsprocedure tot aanwijzing van een particulier die het vonnis of het arrest zal uitvoeren;<br />2° hetzij het schriftelijk of mondeling belasten van een particulier, binnen een raamovereenkomst, tot uitvoering van het vonnis of het arrest;<br />3° hetzij het geven van de nodige instructies aan een ambtenaar of een dienst tot uitvoering van het vonnis of het arrest.<br /><br />De overheid of de particulier die het vonnis of arrest uitvoert, is gerechtigd om de materialen en voorwerpen afkomstig van de herstelling van de plaats of van de staking van het strijdig gebruik te verkopen, te vervoeren en te verwijderen.<br /><br />De overtreder die in gebreke blijft, is verplicht alle uitvoeringskosten, verminderd met de opbrengst van de verkoop der materialen en voorwerpen, te vergoeden op vertoon van een staat, opgesteld door de overheid, vermeld in het tweede lid, of begroot en uitvoerbaar verklaard door de beslagrechter in de burgerlijke rechtbank.<br /><br />De verjaring van de herstelmaatregel neemt een aanvang vanaf het verstrijken van de termijn die de rechtbank, overeenkomstig artikel 6.1.41, § 1, laatste lid, bepaalde voor de tenuitvoerlegging ervan.
+<p>...</p>
 
 ## Afdeling 7 [... (opgeh. Decr. 25 april 2014, art. 24, I: 1 maart 2018)]
 
 ### ART. 6.1.47.
 
-De in artikel 6.1.5 vermelde ambtenaren, agenten of officieren van gerechtelijke politie kunnen mondeling ter plaatse de onmiddellijke staking van het werk, van de handelingen of van het gebruik bevelen indien zij vaststellen dat het werk, de handelingen of de wijzigingen een inbreuk vormen, vermeld in artikel 6.1.1, of wanneer niet voldaan is aan de verplichting van artikel 4.7.19, § 4.<br /><br />Als de in artikel 6.1.5 vermelde ambtenaren, agenten of officieren van gerechtelijke politie ter plaatse niemand aantreffen, dan brengen zij ter plaatse het schriftelijke bevel tot onmiddellijke staking op een zichtbare plaats aan.<br /><br />Het proces-verbaal van de vaststelling wordt binnen acht dagen bij aangetekende brief met bericht van ontvangst of bij gerechtsdeurwaardersexploot ter kennis gebracht van de opdrachtgever, de architect en de persoon of aannemer die de werken of handelingen uitvoert. Betreft het bevel de staking van het gebruik van een goed, dan wordt het proces-verbaal op dezelfde manier ter kennis gebracht van de persoon die het goed gebruikt.<br /><br />Tegelijkertijd wordt bij aangetekende brief een afschrift van het proces-verbaal overgemaakt aan de burgemeester van de gemeente op wier grondgebied deze werken of handelingen werden uitgevoerd en naar de stedenbouwkundige inspecteur.<br /><br />Op straffe van verval moet het bevel tot staking binnen acht dagen na de kennisgeving van het procesverbaal aan de bevoegde stedenbouwkundig inspecteur, door hem worden bekrachtigd. Die bekrachtiging wordt binnen twee werkdagen per aangetekende brief verzonden naar de personen, vermeld in het derde lid.<br /><br />De betrokkene kan in kort geding de opheffing van de maatregel vorderen tegen het Vlaamse Gewest. De vordering wordt gebracht voor de voorzitter van de rechtbank van eerste aanleg in het ambtsgebied waarvan het werk en de handelingen werden uitgevoerd. Boek II, Titel VI van het Gerechtelijk Wetboek is van toepassing op de inleiding en de behandeling van de vordering.
+<p>...</p>
 
 ### ART. 6.1.48.
 
-De in artikel 6.1.5 vermelde ambtenaren en agenten of officieren van gerechtelijke politie zijn gerechtigd tot het nemen van alle maatregelen, met inbegrip van verzegeling, inbeslagname van materiaal en materieel, om het bevel tot staking, de bekrachtigingsbeslissing of, in voorkomend geval, de beschikking in kortgeding onmiddellijk te kunnen toepassen.
+<p>...</p>
 
 ### ART. 6.1.49.
 
-§ 1. Onverminderd de bepalingen van afdeling 1, wordt een administratieve geldboete van 5.000 euro opgelegd aan de persoon die handelingen, werken of wijzigingen voortzet in strijd met een bevel tot staking vanaf het geven van het bevel, behalve als het bevel niet wordt bekrachtigd of als het wordt ingetrokken.<br>
-<br>
-De bekrachtigingsbeslissing vermeldt de bepalingen van het eerste lid.<br>
-<br>
-§ 2. De administratieve geldboete wordt opgelegd door de door de Vlaamse Regering aangewezen ambtenaren.<br>
-<br>
-De betrokkene wordt van de beslissing tot het opleggen van de administratieve geldboete in kennis gesteld bij aangetekende brief met bericht van ontvangst.<br>
-<br>
-De Vlaamse Regering stelt hieromtrent de nadere regels vast.<br>
-<br>
-§ 3. De ambtenaren daartoe aangewezen door de Vlaamse Regering beslissen over de gemotiveerde verzoeken om kwijtschelding, vermindering of uitstel van betaling van de geldboeten, vermeld in § 1, die de betrokkene bij aangetekende brief tot hen richt.<br>
-<br>
-Het verzoek schorst de bestreden beslissing. Als de termijn, vermeld in paragraaf 4, wordt overschreden, blijven de uitvoeringskosten die worden gemaakt na het verstrijken van deze termijn tot aan de ontvangst van de aangetekende brief, vermeld in het eerste lid, verschuldigd door de betrokkene.<br>
-<br>
-§ 4. De verzoeken, vermeld in § 3, worden binnen&nbsp;een ordetermijn van dertig dagen, te rekenen vanaf de datum van de afgifte ter post van de aangetekende brief, vermeld in § 2, tweede lid, gericht aan de daartoe door de Vlaamse Regering aangewezen ambtenaren.<br>
-<br>
-§ 5. De ambtenaren daartoe aangewezen door de Vlaamse Regering nemen een beslissing binnen dertig dagen, te rekenen vanaf de datum van het overmaken van het verzoek, vermeld in § 4.<br>
-<br>
-De beslissing van de bevoegde ambtenaren wordt bij aangetekende brief, met bericht van ontvangst, ter kennis gebracht van de indiener van het verzoekschrift.<br>
-<br>
-Bij met redenen omkleed aangetekend schrijven, gericht aan de indiener van het verzoek, kan de bevoegde ambtenaar de voormelde termijn eenmalig verlengen met dertig dagen.<br>
-<br>
-§ 6. Indien de beslissing niet is overgemaakt binnen de in § 5 gestelde termijn, wordt het verzoek geacht te zijn ingewilligd.<br>
-<br>
-§ 7. De administratieve geldboete moet worden betaald binnen zestig dagen na de kennisgeving van de definitieve beslissing.<br>
-<br>
-§ 8. De vordering tot voldoening van de administratieve geldboete verjaart door verloop van vijf jaar, te rekenen vanaf de dag waarop zij is ontstaan.<br>
-<br>
-De verjaring wordt gestuit op de wijze en onder de voorwaarden bepaald bij de artikelen 2244 en volgende van het Burgerlijk Wetboek.
+<p>...</p>
 
 ### ART. 6.1.50.
 
-§ 1. Bij gebrek aan voldoening van de administratieve geldboete en toebehoren, wordt door de met de invordering belaste ambtenaar een dwangbevel uitgevaardigd.<br /><br />Dit dwangbevel wordt geviseerd en uitvoerbaar verklaard door de daartoe door de Vlaamse Regering aangewezen ambtenaar.<br /><br />§ 2. De betekening van het dwangbevel gebeurt bij gerechtsdeurwaardersexploot of bij aangetekend schrijven.<br /><br />§ 3. Op het dwangbevel zijn de bepalingen van toepassing van deel V van het Gerechtelijk Wetboek houdende bewarend beslag en middelen tot tenuitvoerlegging.<br /><br />§ 4. Binnen een termijn van dertig dagen na de betekening van het dwangbevel kan de betrokkene bij gerechtsdeurwaardersexploot een met redenen omkleed verzet doen, houdende dagvaarding van het Vlaamse Gewest, bij de rechtbank van het arrondissement van de plaats waar de goederen gelegen zijn.<br /><br />Dit verzet schorst de tenuitvoerlegging van het dwangbevel.
+<p>...</p>
 
 ## Afdeling 8 [... (opgeh. Decr. 25 april 2014, art. 25, I: 1 maart 2018)]
 
 ### ART. 6.1.51.
 
-§ 1. Vóór de hypothecaire overschrijving van de dagvaarding voor de correctionele rechtbank op grond van artikel 6.1.1 of het exploot tot inleiding van het geding in de zin van artikelen 6.1.41 tot en met 6.1.43, kan een overtreder de stedenbouwkundige inspecteur per beveiligde zending om een minnelijke schikking verzoeken, indien het gevolg van het misdrijf kennelijk verenigbaar is met een goede ruimtelijke ordening, zo nodig na het uitvoeren van de in de minnelijke schikking besloten bouw- en aanpassingswerken.<br />Een minnelijke schikking is evenwel steeds uitgesloten :<br />1° wanneer de opdrachtgever een professionele hoedanigheid heeft zoals bedoeld in artikel 6.1.1, tweede lid;<br />2° wanneer het misdrijf bestaat, of onder meer bestaat, uit het verrichten van handelingen die in strijd zijn met een stakingsbevel;<br />3° wanneer het misdrijf gepleegd werd in een ruimtelijk kwetsbaar gebied. <br /><br />§ 2. Een minnelijke schikking is een vergelijk tussen de stedenbouwkundige inspecteur en de overtreder waarvan de uitvoering leidt tot het verval van de strafvordering en van de herstelvordering.<br />Het vergelijk betreft :<br />1° de betaling van een geldsom, en/of<br />2° de uitvoering van door de stedenbouwkundige inspecteur opgelegde bouw- of aanpassingswerken, tenzij :<br />a) een regularisatievergunning werd verkregen,<br />b) de overtreder voorafgaandelijk is overgegaan tot het herstel van de plaats in de oorspronkelijke staat, respectievelijk de staking van het strijdige gebruik.<br /><br />§ 3. De stedenbouwkundige inspecteur stemt slechts in met een minnelijke schikking indien hij daartoe het voorafgaand schriftelijk akkoord van de procureur des Konings verkrijgt.<br /><br />Naast het akkoord bedoeld in het eerste lid, is tevens het voorafgaandelijke schriftelijke akkoord vereist van het college van burgemeester en schepenen van de gemeente waarin het voorwerp van de minnelijke schikking gelegen is. Indien het misdrijf echter bestaat, of onder meer bestaat, uit het verrichten van handelingen van algemeen belang, bedoeld in artikel 4.1.1, 5°, wordt dit akkoord verleend door het departement.<br /><br />§ 4. De stedenbouwkundige inspecteur geeft per beveiligde zending kennis van de instemming met een minnelijke schikking, respectievelijk van de weigering van die instemming.<br /><br />§ 5. De minnelijke schikking is uitgevoerd wanneer de geldsom is betaald en/of de stedenbouwkundige inspecteur heeft vastgesteld dat de door hem opgelegde bouw- of aanpassingswerken zijn uitgevoerd.<br /><br />§ 6. De Vlaamse Regering bepaalt de regelen tot vaststelling van het bedrag van de geldsom, vermeld in § 2, tweede lid, 1°, en regelt de betalingsmodaliteiten.<br /><br />Zij kan tevens nadere procedurele regelen vastleggen voor de toepassing van deze bepaling.
+<p>...</p>
 
 ### ART. 6.1.52.
 
-§ 1. Indien de stedenbouwkundige inspecteur een minnelijke schikking weigert om een andere reden dan een niet-akkoord van de procureur des Konings, kan de overtreder de Hoge Raad op gemotiveerde wijze verzoeken om een bemiddelingspoging te ondernemen.<br /><br />Het bemiddelingsverzoek wordt op straffe van onontvankelijkheid overgemaakt per beveiligde zending, binnen een vervaltermijn van dertig dagen, die ingaat de dag na deze van de betekening van de weigeringsbeslissing van de stedenbouwkundige inspecteur.<br /><br />§ 2. De Hoge Raad geeft de aanvrager en de stedenbouwkundige inspecteur per beveiligde zending kennis van de inaanmerkingneming of de niet-inaanmerkingneming van het bemiddelingsverzoek.<br /><br />§ 3. Een bemiddelingspoging neemt een einde indien de stedenbouwkundige inspecteur per beveiligde zending kennis geeft van het feit dat hij, mede rekening houdend met het bemiddelingsproces, alsnog instemt met een minnelijke schikking, of desalniettemin vasthoudt aan de weigering tot instemming met een minnelijke schikking. De stedenbouwkundige inspecteur bezorgt de Hoge Raad een afschrift van deze kennisgeving.<br /><br />Onverminderd het eerste lid, kan de Hoge Raad een bemiddelingspoging te allen tijde beëindigen eens hij vaststelt dat de randvoorwaarden voor een geslaagde bemiddeling niet of niet langer zijn vervuld. De Hoge Raad stelt de overtreder daarvan per beveiligde zending in kennis. Hij bezorgt de stedenbouwkundige inspecteur een afschrift van deze kennisgeving.
+<p>...</p>
 
 ### ART. 6.1.53.
 
-Een aanvraag tot minnelijke schikking schorst de verjaring van de strafvordering en van de herstelvordering. De schorsing vangt aan vanaf de datum van betekening van de aanvraag aan de stedenbouwkundige inspecteur. Zij neemt een einde vanaf :<br />1° hetzij de datum waarop de minnelijke schikking is uitgevoerd in de zin van artikel 6.1.51, § 5;<br />2° hetzij de datum waarop de stedenbouwkundige inspecteur de weigeringsbeslissing overmaakt.<br /><br />Een aanvraag tot bemiddeling door de Hoge Raad schorst eveneens de verjaring van de strafvordering en van de herstelvordering. De schorsing vangt aan vanaf de datum van betekening van de aanvraag aan de Hoge Raad. Zij neemt een einde vanaf :<br />1° hetzij de datum waarop de Hoge Raad de beslissing tot niet-inaanmerkingneming van de aanvraag aan de overtreder overmaakt;<br />2° hetzij de datum waarop de in het kader van de bemiddeling tot stand gekomen minnelijke schikking is uitgevoerd in de zin van artikel 6.1.51, § 5;<br />3° hetzij de datum waarop de stedenbouwkundige inspecteur aan de overtreder een nieuwe weigeringsbeslissing overmaakt;<br />4° hetzij de datum waarop de Hoge Raad aan de overtreder een kennisgeving verstuurt blijkens dewelke de randvoorwaarden voor een geslaagde bemiddeling niet of niet langer zijn vervuld.
+<p>...</p>
 
 ### ART. 6.1.54.
 
-§ 1. In elke stand van het geding kan de reeds geadieerde rechter een bemiddelingspoging door de Hoge Raad bevelen, zolang de zaak niet in beraad is genomen.<br /><br />Indien de bemiddelingspoging bevolen wordt door de strafrechter, geldt artikel 6.1.51, § 3, eerste lid, niet. Indien de bemiddelingspoging bevolen wordt door de burgerlijke rechter, kan voorbij worden gegaan aan de voorwaarde, vermeld in artikel 6.1.51, § 3, eerste lid, met dien verstande dat een minnelijke schikking in dat geval slechts leidt tot het verval van de herstelvordering en niet tot het verval van de strafvordering.<br /><br />De rechterlijke beslissing die een bemiddelingspoging beveelt, legt de duur van de bemiddelingsopdracht van de Hoge Raad vast, zonder dat deze drie maanden kan overschrijden. Zij vermeldt tevens de datum waarop de zaak is verdaagd.<br /><br />§ 2. Bij afloop van zijn bemiddelingsopdracht meldt de Hoge Raad de rechter schriftelijk of de partijen al dan niet tot een vergelijk zijn gekomen.<br /><br />Zo de bemiddeling niet tot een minnelijke schikking heeft geleid, wordt de gerechtelijke procedure op de vastgestelde dag voortgezet. De rechter behoudt niettemin de mogelijkheid om, zo hij dat opportuun acht en zowel de stedenbouwkundige inspecteur als de overtreder ermee instemmen, de bemiddelingsopdracht van de Hoge Raad voor een door hem bepaalde termijn te verlengen.<br /><br />§ 3. Gedurende de bemiddeling blijft de rechter geadieerd en kan hij op elk ogenblik de noodzakelijk geachte maatregel treffen. Op verzoek van de Hoge Raad kan hij ook vóór het verstrijken van de vastgestelde termijn een einde maken aan de bemiddeling.<br /><br />§ 4. Er is geen voorziening mogelijk tegen de beslissing waarbij de bemiddeling wordt bevolen, verlengd of beëindigd.
+<p>...</p>
 
 ## Afdeling 9 [... (opgeh. decr. 18 december 2009, art. 19, I: 1 september 2009)]
 
@@ -3435,19 +3432,17 @@ Een aanvraag tot minnelijke schikking schorst de verjaring van de strafvordering
 
 ### ART. 6.1.56.
 
-<p>De ontvangsten die voortvloeien uit de toepassing van titel VI worden toegewezen aan de DAB Grondfonds, vermeld in artikel 5.6.3.<br>
-<br>
-De in het eerste lid vermelde ontvangsten mogen enkel worden aangewend voor het verrichten van uitgaven die voortvloeien uit de toepassing van titel VI.</p>
+<p>...</p>
 
 ## Afdeling 11 [... (opgeh. Decr. 25 april 2014, art. 27, I: 1 maart 2018]
 
 ### ART. 6.1.57.
 
-De bouw- of aanpassingswerken, vermeld in deze titel, kunnen afwijken van stedenbouwkundige voorschriften of verkavelingsvoorschriften, doch slechts voor zover zulks noodzakelijk is voor het verkrijgen van effectief rechtsherstel.<br /><br />Deze bouw- of aanpassingswerken zijn nimmer vergunnings- of meldingsplichtig. Zij kunnen niettemin leiden tot een regularisatievergunning voor de betrokken constructie indien aan de normale regels daarvoor is voldaan.
+<p>...</p>
 
 ### ART. 6.1.58.
 
-Ten aanzien van niet-geregulariseerde en wederrechtelijk opgerichte of in stand gehouden onderdelen van een goed kunnen stabiliteitswerken, vermeld in artikel 4.1.1, 11°, worden vergund, voor zover de overtreder voldaan heeft aan alle verplichtingen die zijn opgelegd in een minnelijke schikking, of in een vonnis of arrest waarin de uitvoering van bouw-of aanpassingswerken of de betaling van een meerwaardevergoeding bevolen wordt.
+<p>...</p>
 
 ## HOOFDSTUK II [Sancties (verv. Decr. 25 april 2014, art. 28, I: 1 maart 2018)]
 
@@ -3455,19 +3450,62 @@ Ten aanzien van niet-geregulariseerde en wederrechtelijk opgerichte of in stand 
 
 ### ART. 6.2.1.
 
-De dagvaarding voor de correctionele rechtbank op grond van artikel 6.1.1, of het exploot tot inleiding van het geding, vermeld in de artikelen 6.1.41 tot en met 6.1.43, is pas ontvankelijk na overschrijving in het hypotheekkantoor van het gebied waar de goederen gelegen zijn. Indien een ontvankelijk verzoek tot minnelijke schikking aan de stedenbouwkundige inspecteur wordt gericht, kan een overschrijving eerst worden gerealiseerd na het verstrijken van de termijn, vermeld in artikel 6.1.52, § 1, tweede lid, of, indien binnen deze termijn om een bemiddelingspoging bij de Hoge Raad is verzocht, na het beëindigen van deze bemiddelingspoging.<br /><br />Elke eindbeslissing die in de zaak gewezen is, wordt op de kant van de overgeschreven dagvaarding of van het overgeschreven exploot ingeschreven op de wijze, bepaald in artikel 84 van de hypotheekwet. Bij gebrek aan een overschrijving, vermeld in het eerste lid, wordt de eindbeslissing ingeschreven op de kant van de overschrijving van de titel van verkrijging.<br /><br />Hetzelfde geldt voor het proces-verbaal waarbij wordt vastgesteld dat het vonnis is uitgevoerd.<br /><br />De dagvaarding of het exploot vermeldt de kadastrale omschrijving van het onroerend goed dat het voorwerp is van het misdrijf, en identificeert de eigenaar ervan, in de vorm en onder de sanctie, voorgeschreven door de wetgeving inzake de hypotheken.<br /><br />Elke beslissing die in de zaak gewezen is, is steeds tegenstelbaar aan derden-verkrijgers, van wie de titel van verkrijging niet was overgeschreven vóór de in het eerste lid vermelde overschrijving, of vóór de inschrijving van de dagvaarding of het exploot tot inleiding van het geding, op de kant van de overschrijving van een eerdere titel van verkrijging.<br /><br />Wanneer openbare besturen of derden wegens het in gebreke blijven van de veroordeelde gedwongen zijn om het vonnis uit te voeren, wordt de daaruit te hunnen bate voortvloeiende schuldvordering gewaarborgd door een wettelijke hypotheek, die ingeschreven, vernieuwd, verminderd of geheel of gedeeltelijk doorgehaald wordt overeenkomstig de bepalingen in de hoofdstukken IV en V van de hypotheekwet.<br /><br />Die waarborg dekt ook de schuldvordering ten gevolge van de kosten van de hypothecaire formaliteiten, die door hen zijn voorgeschoten en die ten laste komen van de veroordeelde.
+<p>De hierna volgende handelingen en omissies worden stedenbouwkundige misdrijven genoemd, en worden bestraft met een gevangenisstraf van acht dagen tot vijf jaar en met een geldboete van 26 euro tot 400.000 euro of met een van deze straffen alleen :<br>
+1° het uitvoeren van de handelingen, vermeld in artikel 4.2.1 en artikel 4.2.15, hetzij zonder voorafgaande stedenbouwkundige vergunning, verkavelingsvergunning, omgevingsvergunning voor stedenbouwkundige handelingen of omgevingsvergunning voor het verkavelen van gronden, hetzij in strijd met de betreffende vergunning, of het verder uitvoeren van de handelingen, vermeld in artikel 4.2.1 en artikel 4.2.15, hetzij na verval, vernietiging of het verstrijken van de termijn van de betreffende vergunning, hetzij in geval van schorsing van de betreffende vergunning;<br>
+2° het uitvoeren van de handelingen in strijd met een ruimtelijk uitvoeringsplan als vermeld in titel II, hoofdstuk II, of met de stedenbouwkundige en verkavelingsverordeningen, vermeld in artikel 2.3.1 tot en met 2.3.3, tenzij de uitgevoerde handelingen vergund zijn of tenzij het gaat om de handelingen, vermeld in artikel 6.2.2, 6°&nbsp;;<br>
+3° het&nbsp;verder uitvoeren&nbsp;van de handelingen in strijd met het bevel tot staking, de bekrachtigingsbeslissing of, in voorkomend geval, de beschikking in kort geding;<br>
+4° het na 1 mei 2000 plegen van een schending, op welke wijze ook, van de plannen van aanleg en verordeningen die tot stand zijn gekomen volgens de bepalingen van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, en die van kracht blijven zolang en in de mate dat ze niet vervangen worden door nieuwe voorschriften, uitgevaardigd krachtens deze codex, tenzij de uitgevoerde werken, handelingen of wijzigingen vergund zijn of tenzij het gaat om de handelingen, vermeld in artikel 6.2.2, 6° ;<br>
+5° het uitvoeren van handelingen die een schending zijn op de bouw- en verkavelingsvergunningen die zijn verleend krachtens het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996;<br>
+6° het uitvoeren van handelingen in een conform artikel 5.6.8 aangeduid watergevoelig openruimtegebied die:<br>
+a) of niet zijn toegelaten in artikel 5.6.8, § 3, tenzij deze handelingen vergund of vergund geacht zijn en, voor zover het gebied niet opgeheven wordt met toepassing van artikel 5.6.8, § 7;<br>
+b) of die de voorwaarden die door de Vlaamse Regering worden verbonden aan de schrapping vermeld in artikel 5.6.8, § 7, derde lid schenden, tenzij deze handelingen vergund of vergund geacht zijn;<br>
+7° het als eigenaar toestaan of aanvaarden dat een van de misdrijven, vermeld in punt 1° tot en met 6°, worden gepleegd.<br>
+<br>
+De minimumstraffen zijn echter een gevangenisstraf van vijftien dagen en een geldboete van 2000 euro, of een van die straffen alleen, als de misdrijven, vermeld in het eerste lid, gepleegd worden door instrumenterende ambtenaren, vastgoedmakelaars en andere personen die in de uitoefening van hun beroep of activiteit onroerende goederen kopen, verkavelen, te koop of te huur zetten, verkopen of verhuren, bouwen of vaste of verplaatsbare inrichtingen ontwerpen en/of opstellen of personen die bij die verrichtingen als tussenpersonen optreden, bij de uitoefening van hun beroep.</p>
 
 ### ART. 6.2.2.
 
-De dagvaarding voor de correctionele rechtbank op grond van artikel 6.1.1, of het exploot tot inleiding van het geding, vermeld in artikelen 6.1.41 tot en met 6.1.43, wordt in het vergunningenregister van de gemeente waar het onroerend goed gelegen is, ingeschreven op verzoek van de deurwaarder die het exploot heeft opgemaakt.<br /><br />Iedere in de zaak gewezen beslissing wordt ingeschreven in het vergunningenregister.<br /><br />Hetzelfde geldt voor het proces-verbaal waarbij wordt vastgesteld dat het vonnis is uitgevoerd.
+<p>De hierna volgende handelingen en omissies worden stedenbouwkundige inbreuken genoemd, en worden bestraft met een exclusieve bestuurlijke geldboete van maximaal 50.000 euro :<br>
+1° de instandhouding van de illegale gevolgen van de misdrijven, vermeld in artikel 6.2.1, eerste lid, voor zover die gevolgen zich situeren in kwetsbaar gebied;<br>
+2° het schenden van de verplichtingen, vermeld in artikel 6.3.6, § 2, tweede en vierde lid, en artikel 6.4.9, § 2, tweede en vierde lid;<br>
+3° het uitvoeren&nbsp;van de handelingen, vermeld in artikel 4.2.2 en 4.2.5, eerste lid, 3°, die voorafgaan aan de betekening van de meldingsakte, vermeld in artikel&nbsp;6, tweede lid&nbsp;van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
+4° het schenden van de informatieplicht, vermeld in artikel 5.2.1 tot en met 5.2.6;<br>
+5° het uitvoeren&nbsp;van handelingen zonder de controle van een architect als die controle verplicht is met toepassing van artikel 4 van de wet van 20 februari 1939 op de bescherming van den titel en van het beroep van architect en de uitvoeringsbesluiten ervan;<br>
+6° het uitvoeren&nbsp;van de handelingen, vermeld in artikel 4.4.1, § 3, tweede lid, in strijd met bijzondere plannen van aanleg, gemeentelijke uitvoeringsplannen en verkavelingsvergunningen of omgevingsvergunningen voor het verkavelen van gronden, voor zover die plannen of vergunningen, of de relevante delen ervan niet zijn opgenomen in een door de gemeenteraad vastgestelde lijst als vermeld in het voormelde artikel;<br>
+7° het als eigenaar toestaan of aanvaarden dat de inbreuken, vermeld in punt 1°, 3°, 5° en 6°, worden gepleegd.</p>
 
 ## [Afdeling 2. Voorkomen en vaststellen van stedenbouwkundige misdrijven en inbreuken (ing. Decr. 25 april 2014, art.32, I: 1 maart 2018)]
 
 ## [Onderafdeling 1. Raadgeving en aanmaning (ing. Decr. 25 april 2014, art.33, I: 1 maart 2018)]
 
+### ART. 6.2.3.
+
+§ 1. Als verbalisanten ruimtelijke ordening vaststellen dat een stedenbouwkundige inbreuk of een stedenbouwkundig misdrijf dreigt te worden gepleegd, kunnen ze alle raadgevingen geven die ze nuttig achten om dat te voorkomen.
+<p>§ 2. Als de&nbsp;verbalisanten ruimtelijke ordening bij de uitoefening van hun respectieve opdrachten een stedenbouwkundige inbreuk of een stedenbouwkundig misdrijf vaststellen, kunnen ze de vermoedelijke overtreder en eventuele andere betrokkenen ertoe aanmanen om de nodige maatregelen te nemen om de inbreuk of het misdrijf te beëindigen, de gevolgen ervan geheel of gedeeltelijk ongedaan te maken of een herhaling ervan te voorkomen.</p>
+
+<p>Als de adressant van de aanmaning, in voorkomend geval na rappel, nalaat om de gevraagde maatregelen te nemen binnen het daarvoor bepaalde tijdsbestek, geldt een aangifteplicht van het misdrijf of de inbreuk bij de gemeentelijke en gewestelijke stedenbouwkundige inspecteur en bij de burgemeester.</p>
+
+<p>De Vlaamse Regering kan de nadere regels bepalen ter uitvoering van deze onderafdeling.</p>
+
 ## [Onderafdeling 2. Vaststelling van stedenbouwkundige misdrijven (ing. Decr. 25 april 2014, art.35, I: 1 maart 2018)]
 
+### ART. 6.2.4.
+
+Onverminderd de bevoegdheden van de agenten en de officieren van gerechtelijke politie zijn de&nbsp;verbalisanten ruimtelijke ordening bevoegd om de misdrijven, omschreven in dit hoofdstuk, op te sporen en vast te stellen door een proces-verbaal dat ze onmiddellijk bezorgen aan de procureur des Konings bij de rechtbank binnen het rechtsgebied waar het misdrijf is gepleegd. De processen-verbaal waarin de misdrijven, omschreven in dit hoofdstuk, worden vastgesteld, gelden tot bewijs van het tegendeel. Als de vermoedelijke overtreder bekend is, wordt een kopie van het proces-verbaal met een beveiligde zending betekend aan de vermoedelijke overtreder. Die betekening gebeurt binnen een termijn van veertien dagen na de datum van de afsluiting van het proces-verbaal.
+<p>De agenten, officieren van de gerechtelijke politie en de verbalisanten ruimtelijke ordening&nbsp;hebben toegang tot de bouwplaats en de gebouwen om alle nodige opsporingen en vaststellingen te verrichten.</p>
+
+<p>Als deze verrichtingen de kenmerken van een huiszoeking dragen, mogen ze alleen worden uitgevoerd op voorwaarde dat de politierechter daarvoor een machtiging heeft verstrekt.</p>
+
+<p>Een afschrift van een proces-verbaal waarin een misdrijf wordt vastgesteld of van een navolgend proces-verbaal waarin het vrijwillig herstel of de regularisatie wordt vastgesteld, wordt altijd gericht aan de gewestelijke stedenbouwkundige inspecteur, de gewestelijke entiteit en de gemeente van het grondgebied waarop de handelingen hebben plaatsgevonden.</p>
+
 ## [Onderafdeling 3. Vaststelling van stedenbouwkundige inbreuken (ing. Decr. 25 april 2014, art.37, I: 1 maart 2018)]
+
+### ART. 6.2.5.
+
+De verbalisanten ruimtelijke ordening kunnen bij de vaststelling van een stedenbouwkundige inbreuk zonder samenloop met een stedenbouwkundig misdrijf, een verslag van vaststelling opstellen dat ze onmiddellijk bezorgen aan de gewestelijke entiteit. Artikel 6.2.4, tweede en derde lid, zijn van overeenkomstige toepassing. De Vlaamse Regering kan nadere regels bepalen met betrekking tot de vorm van het verslag van vaststelling.
+<p>Een afschrift van het verslag van vaststelling wordt altijd gericht aan de vermoedelijke overtreders, de gewestelijke stedenbouwkundige inspecteur en de gemeente van het grondgebied waarop die handelingen werden uitgevoerd of waar dat gebruik plaatsvond. Als in het verslag van vaststelling feiten worden vastgesteld die milieu-inbreuken uitmaken wegens schending van het decreet van 25 april 2014 betreffende de omgevingsvergunning en van titel V van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid of de uitvoeringsbesluiten ervan, wordt een afschrift bezorgd aan de gewestelijke overheden, belast met de handhaving van die inbreuken. De Vlaamse Regering kan nader bepalen welke van deze gewestelijke overheden al dan niet een afschrift moeten ontvangen.</p>
+
+<p>Als in samenhang met de stedenbouwkundige inbreuk tegelijkertijd een stedenbouwkundig misdrijf wordt vastgesteld, dan wordt de vaststelling van de stedenbouwkundige inbreuk opgenomen in het proces-verbaal, vermeld in artikel 6.2.4.</p>
 
 ## [Onderafdeling 4. Verbalisanten ruimtelijke ordening (ing. Decr. 25 april 2014, art. 38/1, I: 30 december 2017)]
 
@@ -3493,15 +3531,108 @@ Een beëdiging op grond van artikel 106 van het Gemeentedecreet geldt tevens als
 
 ## [Onderafdeling 1. Basisbepalingen (ing. Decr. 25 april 2014, art.40, I: 1 maart 2018)]
 
+### ART. 6.2.6.
+
+De inbreuken, vermeld in artikel 6.2.2, kunnen worden bestraft met een exclusieve bestuurlijke geldboete. De misdrijven, vermeld in artikel 6.2.1, eerste lid, kunnen worden bestraft door de strafrechter of kunnen worden bestraft met een alternatieve bestuurlijke geldboete.
+
+### ART. 6.2.7.
+
+§ 1. De bestuurlijke geldboete is een sanctie waarbij de gewestelijke&nbsp;entiteit een overtreder ertoe verplicht een geldsom te betalen.<br>
+<br>
+De bestuurlijke geldboete wordt vermeerderd met de opdeciemen die van toepassing zijn voor de strafrechtelijke geldboeten. Ze wordt afgestemd op de ernst van het stedenbouwkundige misdrijf of de stedenbouwkundige inbreuk. Er wordt ook rekening gehouden met de frequentie en de omstandigheden waarin de overtreder stedenbouwkundige inbreuken of misdrijven heeft gepleegd of beëindigd.<br>
+<br>
+§ 2. Op vraag van de overtreder, kan de bestuurlijke geldboete worden opgelegd met uitstel van tenuitvoerlegging gedurende een proefperiode die niet minder dan een jaar en niet meer dan drie jaar mag bedragen.<br>
+<br>
+Het uitstel wordt van rechtswege herroepen als gedurende de proeftijd een nieuw stedenbouwkundig misdrijf of een nieuwe stedenbouwkundige inbreuk is gepleegd, met een veroordeling tot een straf of het opleggen van een bestuurlijke geldboete tot gevolg.
+
 ### ART. 6.2.8.
 
 ...
 
+### ART. 6.2.9.
+
+Onverminderd artikel 6.2.13, § 3, derde lid, zijn de regels die van toepassing zijn op het verval van de strafvordering voor stedenbouwkundige misdrijven, van overeenkomstige toepassing op het verval van de mogelijkheid tot het opleggen van een bestuurlijke geldboete.<br>
+<br>
+Met toepassing van het eerste lid verjaart de mogelijkheid tot het opleggen van een bestuurlijke geldboete na verloop van vijf jaar, te rekenen vanaf de dag waarop het stedenbouwkundig misdrijf is gepleegd, of na verloop van drie jaar, te rekenen vanaf de dag waarop de stedenbouwkundige inbreuk is gepleegd. De verjaring wordt gestuit door daden van onderzoek of van vervolging, verricht binnen die termijn.<br>
+<br>
+Voor de toepassing van dit artikel wordt het opstellen van een verslag van vaststelling of een proces-verbaal door een bevoegde verbalisant steeds beschouwd als een daad van onderzoek. Het betekenen van een voornemen om een bestuurlijke geldboete op te leggen, wordt steeds beschouwd als een daad van vervolging.
+
+### ART. 6.2.10.
+
+Voor de toepassing van deze afdeling wordt de betekening met een aangetekende brief geacht te zijn uitgevoerd op de derde werkdag na de afgifte bij de post, behalve in geval van bewijs van het tegendeel.
+
+### ART. 6.2.11.
+
+§ 1. De opgelegde bestuurlijke geldboeten worden door het&nbsp;departement van de Vlaamse overheid geïnd en ingevorderd ten voordele van het Grondfonds. Het voormelde departement is gemachtigd om aan de schuldenaars van opeisbare bestuurlijke geldboetes die bijzondere omstandigheden kunnen bewijzen, uitstel of spreiding van betaling toe te staan.<br>
+<br>
+§ 2. Als de betrokkene in gebreke blijft bij het betalen van de verschuldigde bestuurlijke geldboeten, verhoogd met de invorderingskosten, worden die bedragen bij dwangbevel ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door een ambtenaar die de Vlaamse Regering daarvoor heeft aangewezen.<br>
+<br>
+§ 3. Het dwangbevel wordt aan de schuldenaar bij deurwaardersexploot betekend.<br>
+<br>
+Binnen een termijn van dertig dagen na de ontvangst van het dwangbevel kan de schuldenaar verzet doen door het Vlaamse Gewest te laten dagvaarden.<br>
+<br>
+Het verzet schorst de tenuitvoerlegging. Het Vlaamse Gewest kan de rechter verzoeken om de schorsing van de tenuitvoerlegging op te heffen.<br>
+<br>
+§ 4. Op grond van het uitvoerbaar verklaard dwangbevel en tot zekerheid van de voldoening van de opgelegde bestuurlijke geldboeten, heeft het Vlaamse Gewest een algemeen voorrecht op alle roerende goederen van de schuldenaar en kan het een wettelijke hypotheek nemen op alle daarvoor vatbare en in het Vlaamse Gewest gelegen of geregistreerde goederen van de schuldenaar.<br>
+<br>
+Het voorrecht, vermeld in paragraaf 1, neemt rang in onmiddellijk na de voorrechten, vermeld in artikel 19 en 20 van de Hypotheekwet van 16 december 1851, en in artikel 23 van boek II van het Wetboek van Koophandel.<br>
+<br>
+De rang van de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving die genomen wordt krachtens het uitvoerbaar verklaarde en betekende dwangbevel. De hypotheek wordt ingeschreven op verzoek van de ambtenaar, vermeld in paragraaf 2. De inschrijving heeft plaats, niettegenstaande verzet, betwisting of beroep, op voorlegging van een afschrift van het dwangbevel dat eensluidend wordt verklaard door die ambtenaar en dat melding maakt van de betekening ervan.<br>
+<br>
+Artikel 17 van de Faillissementswet van 8 augustus 1997 is niet van toepassing op de wettelijke hypotheek inzake de opgelegde bestuurlijke geldboeten en, in voorkomend geval, de bijbehorende expertisekosten en de opgelegde voordeelontnemingen waarvoor een dwangbevel werd uitgevaardigd en waarvan betekening aan de schuldenaar is gedaan voor het vonnis van faillietverklaring.<br>
+<br>
+§ 5. De vordering tot betaling van de bestuurlijke geldboete verjaart na verloop van driehonderdvijfenzestig dagen. Die termijn gaat in op de dag die volgt op de dag waarop de bestuurlijke geldboete moest worden betaald. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 en volgende van het Burgerlijk Wetboek.<br>
+<br>
+§ 6. De Vlaamse Regering kan nadere regels bepalen voor de uitvoering van dit artikel.
+
 ## [Onderafdeling 2. Het opleggen van een exclusieve bestuurlijke geldboete voor inbreuken (ing. Decr. 25 april 2014, art.47, I: 1 maart 2018)]
+
+### ART. 6.2.12.
+
+§ 1. Na de ontvangst van een verslag van vaststelling als vermeld in artikel 6.2.5, eerste lid, waaruit het bestaan van een inbreuk blijkt, kan de gewestelijke entiteit binnen een termijn van zestig dagen zijn voornemen om een bestuurlijke geldboete op te leggen met een beveiligde zending betekenen aan de vermoedelijke overtreder of overtreders. Hetzelfde geldt na ontvangst van een proces-verbaal als vermeld in artikel 6.2.5, derde lid, met dien verstande dat de termijn van zestig dagen pas aanvangt na ontvangst van de beslissing van de procureur des Konings, vermeld in artikel 6.2.13, § 3, eerste lid, of, bij gebreke daaraan, na het verstrijken van de termijnen, vermeld in artikel 6.2.13, § 2.
+<p>De vermoedelijke overtreder wordt uitgenodigd om binnen een termijn van dertig dagen die volgt op de betekening, zijn verweer schriftelijk mee te delen. Hij wordt erop gewezen dat hij :<br>
+1° zijn schriftelijk verweer mondeling kan toelichten. De vermoedelijke overtreder richt daarvoor aan de gewestelijke&nbsp;entiteit een aanvraag binnen dertig dagen na de betekening;<br>
+2° op verzoek de documenten waarop het voornemen tot het opleggen van een exclusieve bestuurlijke geldboete berust, kan inzien en er kopieën van kan krijgen.</p>
+
+<p>De gewestelijk entiteit kan een verbalisant ruimtelijke ordening verzoeken om aanvullende inlichtingen te verstrekken.</p>
+
+<p>§ 2. Binnen een termijn van negentig dagen na de betekening van het bericht, vermeld in paragraaf 1, eerste lid, beslist de gewestelijke&nbsp;entiteit over het opleggen van een bestuurlijke geldboete. Die beslissing wordt met een beveiligde zending aan de vermoedelijke overtreder betekend binnen een termijn van tien dagen na de dag waarop ze werd genomen.</p>
+
+<p>§ 3. Met inachtneming van de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen vermeldt de beslissing minstens het eventueel opgelegde bedrag, de beroepsmogelijkheden en de voorwaarden van het beroep, alsook de termijn waarbinnen en de manier waarop de exclusieve bestuurlijke geldboete moet worden betaald.</p>
+
+<p>§ 4. Binnen een termijn van dertig dagen, te rekenen vanaf de datum waarop de vermoedelijke overtreder op de hoogte wordt gebracht van de beslissing van de gewestelijke entiteit tot het opleggen van een exclusieve bestuurlijke geldboete, kan degene aan wie de boete is opgelegd, beroep indienen bij het Handhavingscollege, vermeld in artikel 16.4.19 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, volgens de procedure, vermeld in hoofdstuk 3, afdelingen 1 en 2, en hoofdstuk 4, afdelingen 1, 2 en 4, van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges. Het beroep schorst de bestreden beslissing.</p>
 
 ## [Onderafdeling 3. Het opleggen van een alternatieve bestuurlijke geldboete voor misdrijven (ing. Decr. 25 april 2014, art. 49, I: 1 maart 2018)]
 
+### ART. 6.2.13.
+
+§ 1. Bij de vaststelling van een misdrijf als vermeld in artikel 6.2.1, eerste lid, bezorgt de verbalisant samen met het proces-verbaal een schriftelijk verzoek aan de procureur des Konings, waarin de procureur des Konings gevraagd wordt zich uit te spreken over de al dan niet strafrechtelijke behandeling van het misdrijf.<br>
+<br>
+§ 2. De procureur des Konings beschikt over een periode van honderdtachtig dagen, te rekenen vanaf de dag waarop hij het proces-verbaal heeft ontvangen, om een beslissing over het verzoek te nemen. Voor die periode verstreken is, kan ze gemotiveerd eenmalig verlengd worden met een aanvullende periode van maximaal honderdtachtig dagen. De procureur des Konings brengt de gewestelijke entiteit onmiddellijk op de hoogte van die verlenging. Tijdens die periode van honderdtachtig dagen, eventueel verlengd met een aanvullende periode van maximaal honderdtachtig dagen, kan er geen bestuurlijke geldboete worden opgelegd.<br>
+<br>
+§ 3. De procureur des Konings deelt zijn beslissing mee aan de gewestelijke entiteit, de stedenbouwkundige inspecteur en de burgemeester.<br>
+<br>
+Een beslissing houdende strafrechtelijke behandeling sluit het opleggen van een bestuurlijke geldboete uit. De oplegging van een bestuurlijke geldboete is ook uitgesloten als de procureur des Konings nalaat om tijdig zijn beslissing mee te delen aan de gewestelijke entiteit.<br>
+<br>
+Een beslissing houdende geen strafrechtelijke behandeling van het stedenbouwkundige misdrijf houdt het verval van de strafvordering met betrekking tot dit misdrijf in, maar laat de strafvordering met betrekking tot andere feiten onverminderd bestaan, zelfs in geval van eenheid van opzet.<br>
+<br>
+§ 4. Een alternatieve bestuurlijke geldboete kan worden opgelegd aan alle overtreders. Ze bedraagt maximaal 250.000 euro.<br>
+<br>
+De bestuurlijke geldboete wordt opgelegd en ingevorderd conform artikel 6.2.11 en 6.2.12 met dien verstande dat de termijn waarbinnen de vermoedelijke overtreder op de hoogte moet worden gebracht van het voornemen om een bestuurlijke geldboete op te leggen, dertig dagen bedraagt en pas aanvangt na ontvangst van de beslissing, vermeld in paragraaf 3. De termijn waarbinnen moet worden beslist over het opleggen van een alternatieve bestuurlijke geldboete, bedraagt honderdtachtig dagen.<br>
+<br>
+Binnen een termijn van dertig dagen, te rekenen vanaf de datum waarop de vermoedelijke overtreder op de hoogte wordt gebracht van de beslissing van de gewestelijke entiteit tot het opleggen van een alternatieve bestuurlijke geldboete, kan degene aan wie de boete is opgelegd, beroep indienen bij het Handhavingscollege, vermeld in artikel 16.4.19 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, volgens de procedure, vermeld in hoofdstuk 3, afdelingen 1 en 2, en hoofdstuk 4, afdelingen 1, 2 4, van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges. Het beroep schorst de bestreden beslissing.<br>
+<br>
+§ 5. Wanneer een alternatieve bestuurlijke geldboete wordt opgelegd, wordt de opsteller van het proces-verbaal dat daartoe geleid heeft, daarvan in kennis gesteld.
+
 ## [Afdeling 4. Voorstel tot betaling van een geldsom (ing. Decr. 25 april 2014, art. 51, I: 1 maart 2018)]
+
+### ART. 6.2.14.
+
+De gewestelijke&nbsp;entiteit kan een voorstel tot betaling van een geldsom doen als hij van mening is dat volgens de vaststellingen in het verslag van vaststelling of het proces-verbaal onmiskenbaar vaststaat dat de overtreder de stedenbouwkundige inbreuk of het stedenbouwkundig misdrijf heeft gepleegd. Het voorstel kan, voor wat stedenbouwkundige misdrijven betreft, eerst worden gedaan na kennisname van een tijdige beslissing in de zin van artikel 6.2.13, § 3, derde lid.<br>
+<br>
+De termijn waarin de geldsom betaald moet worden, bedraagt drie maanden. Het voorstel schorst de termijnen, vermeld in artikel 6.2.12, § 1, en artikel 6.2.13, § 4, tweede lid, tot het einde van de betalingstermijn. Na de betaling van de voorgestelde geldsom is het opleggen van een bestuurlijke geldboete niet langer mogelijk.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de uitvoering van dit artikel.
 
 ## HOOFDSTUK III [Rechterlijke maatregelen (verv. Decr. 25 april 2014, art. 53, I: 1 maart 2018)]
 
@@ -3509,15 +3640,206 @@ Een beëdiging op grond van artikel 106 van het Gemeentedecreet geldt tevens als
 
 ### ART. 6.3.1.
 
-De rechtbank kan, op vordering van de kopers of de huurders van het goed, voorwerp van de in de artikelen 6.1.41 tot en met 6.1.43 vermelde vordering, naar gelang van het geval, hun titel van eigendomsverkrijging of van huur op kosten van de veroordeelde vernietigen, onverminderd het recht om vergoeding van de schade te eisen van de schuldige.<br /><br />De vordering tot vernietiging kan niet meer worden ingeroepen indien de inbreuk op de informatieplicht met betrekking tot de publiciteit en de onderhandse overeenkomst is rechtgezet bij de authentieke akteverlening en de informatiegerechtigde in deze akte verzaakt aan de vordering tot nietigverklaring op basis van een inbreuk op de informatieplicht.
+§ 1. Naast de straf beveelt de rechtbank, ambtshalve of op vordering van een bevoegde overheid, een meerwaarde te betalen en/of bouw- of aanpassingswerken uit te voeren en/of de plaats in de oorspronkelijke toestand te herstellen of het strijdige gebruik te staken. Dat gebeurt, met inachtneming van de volgende rangorde :<br>
+1° als het gevolg van het misdrijf kennelijk verenigbaar is met een goede ruimtelijke ordening, het betalen van een meerwaarde;<br>
+2° als dit kennelijk volstaat om de plaatselijke ordening te herstellen, de uitvoering van bouw- of aanpassingswerken;<br>
+3° in de andere gevallen, de uitvoering van het herstel van de plaats in de oorspronkelijke toestand of de staking van het strijdige gebruik.
+<p>Voor de diverse onderdelen van eenzelfde misdrijf kunnen verschillende herstelmaatregelen gecombineerd worden, bevolen volgens de rangorde, vermeld in het eerste lid. Het bevolen herstel dekt steeds de volledige illegaliteit ter plaatse, ook al werd die mee veroorzaakt door stedenbouwkundige misdrijven of inbreuken die niet bij de rechter aanhangig zijn.</p>
+
+<p>§ 2. Onder bevoegde overheid als vermeld in deze afdeling, wordt verstaan: het Openbaar Ministerie, de gewestelijke stedenbouwkundige inspecteur in naam van het Vlaamse Gewest, alsook de gemeentelijke stedenbouwkundige inspecteur en de burgemeester in naam van de gemeente.</p>
+
+<p>§ 3. De herstelvordering van de gewestelijke stedenbouwkundige inspecteur, de gemeentelijke stedenbouwkundige inspecteur of de burgemeester wordt, met naleving van artikel 6.3.10 en respectievelijk in naam van het Vlaamse Gewest of van de gemeente, met een gewone brief ingeleid bij het openbaar ministerie.</p>
+
+<p>De Vlaamse Regering kan nadere formele voorwaarden vastleggen waaraan de herstelvordering op straffe van onontvankelijkheid moet voldoen.</p>
+
+<p>§ 4. De rechtbank bepaalt een termijn voor de uitvoering van de herstelmaatregelen en kan, op vordering van de bevoegde overheid, ook een dwangsom bepalen.</p>
+
+<p>§ 5. De meerwaarde is een vergoeding voor het behoud van een ruimtelijke situatie die volgens de actuele regelgeving, stedenbouwkundige voorschriften of verkavelingsvoorschriften, niet legaliseerbaar is. Zolang sprake is van een illegale ruimtelijke situatie, geldt voor de toepassing van dit artikel een onweerlegbaar vermoeden van niet-legaliseerbaarheid.</p>
+
+<p>De rechtbank bepaalt het bedrag van de meerwaarde. De rechtbank hanteert daarvoor de forfaitaire bedragen, bepaald door de Vlaamse Regering, maar kan het aldus bekomen bedrag ambtshalve of op verzoek verminderen als dat bedrag kennelijk de vergoeding te boven gaat om de schade aan de goede ruimtelijke ordening te herstellen.</p>
+
+<p>Bij een veroordeling tot de betaling van een meerwaarde kan de veroordeelde zich op een geldige wijze kwijten door binnen de termijn, vermeld paragraaf 4, de legaliteit te herstellen door het herstel van de plaats in de oorspronkelijke toestand, het staken van het strijdige gebruik of het verkrijgen van een regularisatievergunning en uitvoering van de daarin begrepen voorwaarden.</p>
+
+<p>De Vlaamse Regering bepaalt de regels voor de betaling van de meerwaarde.</p>
+
+<p>§ 6. De dagvaarding is maar ontvankelijk na overschrijving van de gedinginleidende akte in het hypotheekkantoor van het gebied waar de goederen liggen. Elke eindbeslissing die in de zaak gewezen is, wordt op de kant van de overgeschreven gedinginleidende akte ingeschreven op de wijze, vermeld in artikel 84 van de Hypotheekwet van 16 december 1851. Bij gebrek aan een overschrijving wordt de eindbeslissing ingeschreven op de kant van de overschrijving van de titel van verkrijging.</p>
+
+### ART. 6.3.2.
+
+Als de herstelvordering van de burgerlijke partij niet overeenstemt met de herstelmaatregelen, voorgeschreven met toepassing van artikel 6.3.1, bepaalt de rechtbank de herstelmaatregelen die ze passend acht.
+
+### ART. 6.3.3.
+
+§ 1. De bevoegde overheid kan ook voor de burgerlijke rechtbank de herstelmaatregelen en dwangsom, vermeld in artikel 6.3.1, vorderen, ongeacht of de te herstellen schade veroorzaakt is door stedenbouwkundige misdrijven of inbreuken.
+<p>De herstelvordering wordt met naleving van artikel 6.3.10 bij de burgerlijke rechtbank ingeleid door de gewestelijke stedenbouwkundige inspecteur, de gemeentelijke stedenbouwkundige inspecteur of de burgemeester, respectievelijk in naam van het Vlaamse Gewest of van de gemeente.<br>
+<br>
+De Vlaamse Regering kan nadere formele voorwaarden vastleggen waaraan de herstelvordering op straffe van onontvankelijkheid moet voldoen.</p>
+
+<p>§ 2. De dagvaarding is maar ontvankelijk na de overschrijving van de gedinginleidende akte in het hypotheekkantoor van het gebied waar de goederen liggen. Elke eindbeslissing die in de zaak gewezen is, wordt op de kant van de overgeschreven gedinginleidende akte ingeschreven op de wijze, vermeld in artikel 84 van de Hypotheekwet van 16 december 1851. Bij gebrek aan een overschrijving wordt de eindbeslissing ingeschreven op de kant van de overschrijving van de titel van verkrijging.</p>
+
+<p>§ 3. Het vorderingsrecht van de stedenbouwkundige inspecteur en de burgemeester verjaart als volgt:<br>
+1° in ruimtelijk kwetsbaar gebied: na verloop van tien jaar;<br>
+2° in open ruimtegebied: na verloop van tien jaar;<br>
+3° in de andere gebieden: na verloop van vijf jaar.<br>
+<br>
+Bij herstelvorderingen voor stedenbouwkundige misdrijven nemen de termijnen, vermeld in het eerste lid, een aanvang de dag waarop het misdrijf is voltooid. In afwijking van het eerste lid kunnen herstelvorderingen voor de burgerlijke rechtbank, gebaseerd op stedenbouwkundige misdrijven, nooit verjaren voor het verval van de mogelijkheid tot het opleggen van een bestuurlijke geldboete. Artikel 26 van de voorafgaande titel van het Wetboek van Strafvordering en de gemeenrechtelijke schorsings- en stuitingsgronden betreffende burgerlijke rechtsvorderingen die volgen uit een misdrijf, blijven van toepassing.<br>
+<br>
+Bij herstelvorderingen voor stedenbouwkundige inbreuken voor de burgerlijke rechtbank neemt de verjaringstermijn een aanvang de dag die volgt op de dag waarop de eerste strafbare handeling of omissie, al dan niet deel uitmakend van feiten die door eenheid van opzet zijn verbonden, is gesteld. De gemeenrechtelijke schorsings- en stuitingsgronden, vermeld in de artikelen 2242 en volgende van het Burgerlijk Wetboek, blijven van toepassing.</p>
+
+### ART. 6.3.4.
+
+§ 1. Als de plaats niet binnen de door de rechtbank gestelde termijn in de vorige staat wordt hersteld, als het strijdige gebruik niet binnen die termijn wordt gestaakt of als de bouw- of aanpassingswerken niet binnen die termijn worden uitgevoerd, beveelt het vonnis of arrest altijd dat de stedenbouwkundige inspecteur en de burgemeester ambtshalve in de uitvoering ervan kunnen voorzien in de plaats en op kosten van de veroordeelde.<br>
+Het opstarten van een ambtshalve uitvoering geschiedt met naleving van artikel 6.3.10, § 1. Er wordt onder verstaan :<br>
+1° hetzij het aanvatten van een gunningsprocedure tot aanwijzing van een particulier die het vonnis of het arrest zal uitvoeren;<br>
+2° hetzij het schriftelijk of mondeling belasten van een particulier, binnen een raamovereenkomst, tot uitvoering van het vonnis of arrest;<br>
+3° hetzij het geven van de nodige instructies aan een ambtenaar of een dienst voor de uitvoering van het vonnis of arrest.<br>
+De overheid of de particulier die het vonnis of het arrest uitvoert, is gerechtigd om de materialen en voorwerpen, afkomstig van de herstelling van de plaats of van de staking van het strijdig gebruik te verkopen, te vervoeren en te verwijderen.<br>
+De overtreder die in gebreke blijft, is verplicht alle uitvoeringskosten, verminderd met de opbrengst van de verkoop van materialen en voorwerpen, te vergoeden op vertoon van een staat die de overheid, vermeld in het eerste lid, heeft opgesteld of die de beslagrechter in de burgerlijke rechtbank begroot en uitvoerbaar verklaard heeft.<br>
+De verjaring van het recht op het uitvoeren van de herstelmaatregel neemt een aanvang vanaf het verstrijken van de termijn die de rechtbank heeft bepaald voor de tenuitvoerlegging ervan.<br>
+§ 2. De meerwaarde en de kosten die verbonden zijn aan de ambtshalve uitvoering, vermeld in paragraaf 1, kunnen ook worden verhaald op de titularis van een zakelijk recht, verkregen onder bezwarende titel en middels een authentieke akte, verleden na de inwerkingtreding van dit lid, op het goed dat het voorwerp uitmaakte van het vonnis of arrest.<br>
+Op voorwaarde dat de titel al was overgeschreven vóór de gedinginleidende akte, vermeld in artikel 6.3.1, § 6, en 6.3.3, § 2, blijft het verhaal van de kosten die verbonden zijn aan de ambtshalve uitvoering, vermeld in paragraaf 1, evenwel beperkt tot de verrijking die de titularis van het zakelijk recht ingevolge de uitvoering van de opgelegde herstelmaatregel heeft verkregen.<br>
+§ 3. De meerwaarde en de kosten die verbonden zijn aan de ambtshalve uitvoering, vermeld in paragraaf 1, worden, samen met de invorderingskosten, gewaarborgd door een wettelijke hypotheek, die zich uitstrekt tot alle zakelijke rechten die toebehoren aan de veroordeelde, vermeld in paragraaf 1, en die ingeschreven, vernieuwd, verminderd of geheel of gedeeltelijk wordt doorgehaald conform hoofdstuk IV en V van de Hypotheekwet van 16 december 1851. De hypotheek wordt ingeschreven op voorlegging van een afschrift van de rechterlijke beslissing waarin de herstelmaatregelen worden opgelegd, niettegenstaande beroep of verzet.<br>
+Daarnaast kan een wettelijke hypotheek ingeschreven worden op alle zakelijke rechten van de titularis van een zakelijk recht op het goed dat het voorwerp uitmaakt van de opgelegde herstelmaatregel, vermeld in artikel 6.3.1, § 1, of artikel 6.3.3, § 1, voor zover dit recht verkregen werd onder bezwarende titel en middels een authentieke akte, verleden na de inwerkingtreding van dit lid. Als diens titel echter al overgeschreven was vóór de overschrijving van de gedinginleidende akte, blijft de wettelijke hypotheek, voor de kosten die verbonden zijn aan de ambtshalve uitvoering, vermeld in paragraaf 1, beperkt tot het onroerend goed waarop de maatregel betrekking heeft, en dit ten belope van de verrijking die de titularis ingevolge de uitvoering van die maatregel zal verkrijgen of al verkregen heeft.<br>
+Het bestuur dat belast is met de inschrijving van de wettelijke hypotheek, kan op voorstel van de veroordeelde of de titularis van het zakelijk recht, vermeld in paragraaf 2, een alternatieve zekerheid aanvaarden of het onderpand van de hypotheek inperken, als daarvoor ernstige redenen bestaan en de alternatieve of ingeperkte zekerheid voldoende zijn voor de waarborging van de bedragen, vermeld in het eerste lid.<br>
+§ 4. Het bestuur dat belast is met de invordering van de dwangsom, is ertoe gemachtigd aan de schuldenaars die bijzondere omstandigheden kunnen bewijzen, uitstel of spreiding van betaling toe te staan.<br>
+De gewestelijke stedenbouwkundige inspecteur, de gemeentelijke stedenbouwkundige inspecteur of de burgemeester, vermeld in de betekening van de dwangsomtitel, kan, respectievelijk in naam van het Vlaamse Gewest of de gemeente, ambtshalve of op eenvoudig verzoek beslissen dat een opeisbare dwangsomschuld niet of maar gedeeltelijk wordt ingevorderd, zonder dat die beslissing betrekking kan hebben op de gerechts- en uitvoeringskosten die zijn gemaakt. Er wordt in de beslissing rekening gehouden met de gestelde handelingen en genomen engagementen met het oog op een correcte uitvoering van de hoofdveroordeling, alsook met de gehele of gedeeltelijke realisatie van het herstel.<br>
+<br>
+De Vlaamse Regering kan nadere voorwaarden vastleggen en procedurele regelen bepalen voor de toepassing van het tweede lid.<br>
+<br>
+§ 5. Onverminderd paragraaf 4 kan het Vlaamse Gewest of de gemeente, respectievelijk vertegenwoordigd door de Vlaamse Regering of het college van burgemeester en schepenen, op gemotiveerd verzoek tijdelijk of definitief afzien van verdere inning van een opeisbaar geworden dwangsomschuld. Dat kan voor het geheel of voor een gedeelte van de opeisbare schuldvordering zonder dat het betrekking kan hebben op de gerechts- en uitvoeringskosten die zijn gemaakt. De Vlaamse Regering respectievelijk het college van burgemeester en schepenen kunnen hun beslissingsbevoegdheid delegeren.<br>
+<br>
+Het gemotiveerde verzoek, met inbegrip van eventuele bijlagen, wordt ingediend met een beveiligde zending respectievelijk bij de Vlaamse Regering of haar gemachtigde of bij het college van burgemeester en schepenen of zijn gemachtigde. De verzoeker bezorgt een afschrift van het verzoek aan de gewestelijke stedenbouwkundige inspecteur, de gemeentelijke stedenbouwkundige inspecteur of de burgemeester, vermeld in de betekening van de dwangsomtitel.<br>
+<br>
+Binnen een ordetermijn van negentig dagen vanaf de dag na de ontvangst van de beveiligde zending wordt er uitspraak gedaan, in voorkomend geval, na het schriftelijke advies, vermeld in artikel 6.3.12, van de Hoge Raad voor de Handhavingsuitvoering. De termijn van negentig dagen is geschorst vanaf de adviesaanvraag tot de dag dat het advies wordt verleend of tot de termijn voor het verlenen van advies is verstreken. Het advies is niet bindend.<br>
+<br>
+De verzoeker wordt met een beveiligde zending op de hoogte gebracht van de beslissing. De beslissing wordt ook bezorgd aan de gewestelijke stedenbouwkundige inspecteur, de gemeentelijke stedenbouwkundige inspecteur of de burgemeester, vermeld in de betekening van de dwangsomtitel.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de uitvoering van deze paragraaf.
+
+### ART. 6.3.5.
+
+§ 1. Met betrekking tot definitieve rechterlijke herstelmaatregelen waarvan de uitvoeringstermijn al meer dan vijf jaar overschreden is, kan de bevoegde overheid die de titel heeft doen betekenen met bevel tot uitvoeren, een nieuwe uitvoeringstermijn als vermeld in artikel 6.3.1, § 4, verlenen in de vorm van een dading met de veroordeelden, hun rechtsopvolgers en de rechthebbenden van het onroerend goed waarop de herstelmaatregel rust.<br>
+<br>
+Een nieuwe uitvoeringstermijn impliceert nooit het recht om te handelen in strijd met de bepalingen van dit decreet. Gedurende de nieuwe uitvoeringstermijn blijft de verjaring van het recht op uitvoeren van de definitieve rechterlijke herstelmaatregel geschorst.<br>
+<br>
+§ 2. Die dading is maar mogelijk onder de volgende voorwaarden :<br>
+1° de vaststelling van een nieuwe uitvoeringstermijn staat de tenuitvoerlegging van de herstelmaatregel niet definitief in de weg;<br>
+2° alle personen met een zakelijk recht op het onroerend goed verbinden zich door de dading;<br>
+3° de nieuwe uitvoeringstermijn is niet langer dan vijftien jaar, en verstrijkt van rechtswege zodra het gebruik van het onroerend goed in kwestie wordt stopgezet door alle in de dading geïdentificeerde actuele gebruikers;<br>
+4° de dading bevat een betalingsplan voor de opeisbare dwangsomschuld, onverminderd de toepassing van de bevoegdheid, vermeld in artikel 6.3.4, § 4 en § 5;<br>
+5° het bestuur die de vordering heeft gedaan waarop de rechterlijke herstelmaatregel werd bevolen, gaat akkoord met het sluiten van de dading.<br>
+<br>
+§ 3. De dading wordt binnen een termijn van twee maanden gekantmeld op de overschrijving van de dagvaarding, vermeld in artikel 6.3.1, § 6, of artikel 6.3.3, § 2.<br>
+<br>
+§ 4. De vaststelling bij proces-verbaal dat het in de dading begrepen afbetalingsplan voor opeisbare dwangsomschuld niet werd nageleefd, heeft van rechtswege de ontbinding van de dading tot gevolg.<br>
+<br>
+§ 5. Alle belanghebbenden kunnen verzet aantekenen tegen het verlenen van een nieuwe uitvoeringstermijn bij de rechter die de herstelmaatregel heeft opgelegd. Dat gebeurt door dagvaarding van de overheid die de dading heeft afgesloten.<br>
+<br>
+De rechter kan de uitvoeringstermijn opheffen of verminderen als dat nodig blijkt voor de vrijwaring van de belangen van de partij die verzet aantekent.
+
+### ART. 6.3.6.
+
+§ 1. De veroordeelde brengt de stedenbouwkundige inspecteur of burgemeester die de titel heeft laten betekenen met bevel tot uitvoeren, onmiddellijk met een beveiligde zending ervan op de hoogte als hij de opgelegde herstelmaatregel vrijwillig heeft uitgevoerd.
+<p>Na de kennisgeving, vermeld in het eerste lid, maakt de&nbsp;stedenbouwkundige inspecteur of burgemeester die de titel heeft laten betekenen met bevel tot uitvoeren, een proces-verbaal van vaststelling op.</p>
+
+<p>Bij gebrek aan een betekening met bevel tot uitvoeren is alleen de gewestelijke stedenbouwkundige inspecteur bevoegd om een proces-verbaal van vaststelling op te stellen.</p>
+
+<p>De stedenbouwkundige inspecteur of burgemeester die de titel heeft laten betekenen met bevel tot uitvoeren, zendt een afschrift van het proces-verbaal van vaststelling aan de andere&nbsp;stedenbouwkundige inspecteur of burgemeester, die niet in de akte van betekening vermeld zijn als opdrachtgever de veroordeelde, diens rechtsopvolgers en de personen die zakelijke rechten hebben op het onroerend goed dat het voorwerp uitmaakt van de opgelegde maatregelen.</p>
+
+<p>Behalve in geval van bewijs van het tegendeel, geldt alleen het proces-verbaal van vaststelling als bewijs van het herstel en van de datum van het herstel.</p>
+
+<p>§ 2. Het proces-verbaal van vaststelling, vermeld in paragraaf 1, wordt conform artikel 84 van de Hypotheekwet van 16 december 1851 ingeschreven op de kant van de overschrijving, vermeld in artikel 6.3.1, § 6, en artikel 6.3.3, § 2.</p>
+
+<p>Zolang de inschrijving, vermeld in het eerste lid, niet is gedaan, moet de instrumenterende ambtenaar naar aanleiding van een authentieke akte die strekt tot de overdracht van een zakelijk recht, in een afzonderlijke akte er melding van maken dat voor het onroerend goed bij uitvoerbaar rechterlijk bevel, een verplichting werd uitgesproken om een herstelmaatregel uit te voeren. In die akte wordt bepaald dat de nieuwe titularis, voor zover de tenuitvoerlegging van de door de rechter bevolen herstelmaatregel niet verjaard is, de verbintenis aangaat om de opgelegde herstelmaatregel uit te voeren, onverminderd de verplichting van de veroordeelde.</p>
+
+<p>De kosten verbonden aan de afzonderlijke akte, vermeld in het vorige lid, vallen steeds ten laste van de overdrager van het zakelijk recht.</p>
+
+<p>De instrumenterende ambtenaar stuurt een afschrift van die akte naar de stedenbouwkundige inspecteur en de burgemeester, en is ertoe gehouden de grosse op hun verzoek af te leveren.</p>
 
 ## [Afdeling 2. De Hoge Raad voor de Handhavingsuitvoering (ing. Decr. 25 april 2014, art. 61, I: 1 maart 2018)]
 
 ## [Onderafdeling 1. Algemene bepalingen (ing. Decr. 25 april 2014, art. 62, I: 1 maart 2018)]
 
+### ART. 6.3.7.
+
+§ 1. Bij het Vlaams Ministerie van Omgeving wordt een Hoge Raad voor de Handhavingsuitvoering opgericht, hierna hoge raad te noemen.<br>
+<br>
+§ 2. De Hoge Raad voor de Handhavingsuitvoering is een orgaan van actief bestuur.<br>
+<br>
+De adviezen en beslissingen van de hoge raad zijn te allen tijde gesteund op motieven die ontleend worden aan :<br>
+1° het recht, met inbegrip van de algemene beginselen van behoorlijk bestuur zoals die specifiek binnen de ruimtelijke ordening gelden;<br>
+2° de weerslag van inbreuken op de rechten van derden en op de plaatselijke ordening, meer bepaald het niveau van de goede ruimtelijke ordening van naburige percelen dat zou worden behaald als zich geen schade ten gevolge van een stedenbouwkundig misdrijf of een stedenbouwkundige inbreuk zou hebben voorgedaan.<br>
+<br>
+§ 3. De Vlaamse Regering geeft nooit instructies over de behandeling van concrete dossiers die aan de beoordeling van de hoge raad zijn voorgelegd.
+
+### ART. 6.3.8.
+
+§ 1. De hoge raad wordt samengesteld uit een voorzitter, drie leden-juristen en drie leden-deskundigen.<br>
+<br>
+De voorzitter en de leden-juristen bezitten de graad van master in de Rechten en bezitten ten minste tien jaar nuttige ervaring op het vlak van zowel het Vlaamse ruimtelijkeordeningsrecht als de rechtsbescherming tegen bestuurlijk optreden.<br>
+<br>
+De leden-deskundigen bezitten ten minste tien jaar nuttige ervaring op het vlak van de Vlaamse ruimtelijke ordening.<br>
+<br>
+§ 2. De Vlaamse Regering kan de selectiecriteria, vermeld in paragraaf 1, tweede en derde lid, verfijnen.
+
+### ART. 6.3.9.
+
+§ 1. De voorzitter en de overige leden worden door de Vlaamse Regering aangewezen voor een hernieuwbare termijn van vijf jaar. Ze blijven in functie tot in hun vervanging is voorzien.<br>
+<br>
+§ 2. Het mandaat van lid van de hoge raad is onverenigbaar met het lidmaatschap van een wetgevende vergadering, een provincieraad, een gemeenteraad, een districtsraad of een raad van een openbaar centrum voor maatschappelijk welzijn.<br>
+<br>
+§ 3. Als een mandaat in de hoge raad om welke reden ook vacant verklaard wordt, wordt overgegaan tot de vervanging van het lid voor de verdere duur van het mandaat.<br>
+<br>
+§ 4. De Vlaamse Regering kan aan de hoge raad tijdelijke leden toevoegen om aan uitzonderlijke omstandigheden het hoofd te bieden. De tijdelijke leden voldoen aan de voorwaarden, vermeld in artikel 6.3.8, § 1, tweede of derde lid, in voorkomend geval verfijnd door de Vlaamse Regering met toepassing van artikel 6.3.8, § 2.<br>
+<br>
+Behalve in geval van verlenging eindigt de opdracht van de tijdelijke leden als de termijn waarvoor ze zijn aangewezen, verstreken is. Voor zaken waarover de debatten aan de gang zijn of die in beraad zijn, blijft de opdracht evenwel geldig tot aan de beslissing van de hoge raad.<br>
+<br>
+§ 5. De leden van de hoge raad ontvangen ten laste van het Vlaamse Gewest een vergoeding, presentiegelden en reis- en verblijfskosten, waarvan het bedrag of de berekeningswijze wordt vastgelegd door de Vlaamse Regering.
+
 ## [Onderafdeling 2. Adviesplichten (ing. Decr. 25 april 2014, art. 66, I: 1 maart 2018)]
 
+### ART. 6.3.10.
+
+§ 1. De stedenbouwkundige inspecteur en de burgemeester kunnen pas overgaan tot het inleiden van een herstelvordering bij het openbaar ministerie, tot het vorderen van herstel voor de burgerlijke rechter of tot het opstarten van de ambtshalve uitvoering van een gerechtelijke herstelmaatregel, als de hoge raad daarvoor vooraf een positief advies heeft verleend.<br>
+<br>
+De adviesplicht met betrekking tot de herstelvordering geldt op straffe van onontvankelijkheid.<br>
+<br>
+§ 2. Het inleiden van een herstelvordering bij het openbaar ministerie kan pas worden gevolgd door het vorderen van een herstelvordering voor de burgerlijke rechter of omgekeerd, als daarvoor een nieuw positief advies van de hoge raad werd verkregen.<br>
+<br>
+§ 3. De stedenbouwkundige inspecteur en de burgemeester kunnen pas overgaan tot het betekenen van een vonnis of arrest waarvan de termijn voor de uitvoering van de herstelmaatregelen op de betekeningsdatum al tien jaar of meer is verstreken, als de hoge raad daartoe voorafgaandelijk een positief advies heeft verleend.<br>
+<br>
+Het advies, vermeld in het eerste lid, is niet vereist als voldaan is aan een van de volgende omstandigheden :<br>
+1° voorwerp van het misdrijf in kwestie ligt in een ruimtelijk kwetsbaar gebied;<br>
+2° het misdrijf dat aanleiding heeft gegeven tot het vonnis of arrest, heeft betrekking op het verrichten van handelingen die in strijd zijn met een stakingsbevel of met de stedenbouwkundige voorschriften aangaande de bestemmingen die voor het gebied toegestaan zijn;<br>
+3° aan de overtreder werden na het vonnis of arrest nieuwe strafrechtelijke of bestuurlijke sancties of verplichtingen tot schadevergoeding opgelegd uit hoofde van een stedenbouwkundige inbreuk of een stedenbouwkundig misdrijf.
+
+### ART. 6.3.11.
+
+§ 1. Het advies wordt gevraagd met een beveiligde zending.<br>
+<br>
+Het procedurereglement, vermeld in artikel 6.3.15, bepaalt de vorm en inhoud van de aanvraag nader en vermeldt welke stukken bij de aanvraag gevoegd moeten worden.<br>
+<br>
+§ 2. De plenaire vergadering van de hoge raad brengt een advies uit binnen een vervaltermijn van zestig dagen, die ingaat de dag na de dag van de betekening van de adviesaanvraag.<br>
+<br>
+Bij het overschrijden van de termijn, vermeld in het eerste lid, mag aan de adviesvereiste voorbij worden gegaan.<br>
+<br>
+§ 3. Een advies wordt met een beveiligde zending betekend aan het betrokken bestuur. De hoge raad bezorgt een afschrift van het advies aan de belanghebbenden die in de zaak zijn gehoord of aan de personen die bij de hoge raad op grond van het dossier bekend zijn.<br>
+<br>
+Een positief advies geldt voor een periode van twee jaar, te rekenen vanaf de datum waarop over het advies wordt beslist.<br>
+<br>
+Het betrokken bestuur of een derde-belanghebbende kan bij de hoge raad een gemotiveerd verzoek tot heroverweging instellen tegen de afgifte van een negatief advies.
+
 ## [ Onderafdeling 3. Bevoegdheid inzake advisering bij opeisbare dwangsomschulden en bij beroepen tegen bestuurlijke besluiten (ing. Decr. 25 april 2014, art. 69, I: 1 maart 2018)]
+
+### ART. 6.3.12.
+
+§ 1. In de procedure, vermeld in artikel 6.3.4, § 5, wint respectievelijk de Vlaamse Regering of het college van burgemeester en schepenen een schriftelijk advies in bij de hoge raad over het verzoek om tijdelijk of definitief af te zien van verdere inning van een opeisbaar geworden dwangsomschuld. De hoge raad behandelt die adviesaanvragen bij voorrang.<br>
+<br>
+In zijn advies houdt de hoge raad in het bijzonder rekening met de gestelde handelingen en de genomen engagementen met het oog op een correcte uitvoering van de hoofdveroordeling, alsook met de gehele of gedeeltelijke realisatie van het herstel. De hoge raad toetst zijn advies aan de beleidslijnen die in voorkomend geval opgenomen zijn in het handhavingsprogramma Ruimtelijke Ordening, vermeld in artikel 6.1.3, § 1, vierde lid, 6°.<br>
+<br>
+§ 2. Het advies wordt uitgebracht binnen een vervaltermijn van vijfenveertig dagen vanaf de dag na de ontvangst van de adviesaanvraag door de hoge raad. Als die termijn wordt overschreden, kan aan de adviesvereiste worden voorbijgegaan.<br>
+<br>
+§ 3. De werkingsregels, vermeld in artikel 6.3.13, § 1, en artikel 6.3.14 tot en met 6.3.17, zijn van overeenkomstige toepassing. Het procedure- en werkingsreglement, vermeld in artikel 6.3.14, regelt de nadere procedurele regels.
 
 ### ART 6.3.12/1.
 
@@ -3590,21 +3912,316 @@ De rechter behoudt niettemin de mogelijkheid om, zo hij dat opportuun acht en zo
 
 ## [Onderafdeling 4. Werking (ing. Decr. 25 april 2014, art. 71, I: 1 maart 2018)]
 
+### ART. 6.3.13.
+
+§ 1. De hoge raad vergadert geldig als de meerderheid van de leden aanwezig is. Hij spreekt zich uit bij gewone meerderheid van stemmen. De adviezen en beslissingen vermelden steeds de namen van de leden die aanwezig zijn op de vergadering.<br>
+<br>
+Bij staking van stemmen wordt een nieuwe stemming gehouden. Als er bij die tweede stemming opnieuw staking van stemmen is, beslist de voorzitter.<br>
+<br>
+§ 2. De vergaderingen van de hoge raad kunnen worden bijgewoond door :<br>
+1° de gewestelijke stedenbouwkundige inspecteur;<br>
+2° de gemeentelijke stedenbouwkundige inspecteur en de burgemeester, voor wat betreft die agendapunten die een vordering of een maatregel van de betrokken gemeente betreffen.<br>
+<br>
+De personen, vermeld in het eerste lid, kunnen voorafgaand aan de sluiting van de besprekingen hun standpunt weergeven en een stemadvies geven.<br>
+<br>
+§ 3. De hoge raad kan belanghebbenden schriftelijk horen telkens als hij dat nodig acht voor een zorgvuldige feitenvinding of voor de eerbiediging van het verdedigingsbeginsel. De hoge raad kan deze beoordelingsbevoegdheid inzake de organisatie van het schriftelijk horen delegeren aan een of meer van zijn leden.<br>
+<br>
+In het eerste lid wordt verstaan onder belanghebbenden :<br>
+1° personen die getroffen worden of kunnen worden door de maatregel waarover de hoge raad is geadieerd;<br>
+2° de rechtspersonen die voldoen aan de voorwaarden, vermeld in artikel 2 van de wet van 12 januari 1993 betreffende een vorderingsrecht inzake bescherming van het leefmilieu, voor zover de gediende collectieve belangen bedreigd of geschaad worden door de misdrijven of inbreuken, vermeld in artikel 6.2.1 of 6.2.2 van deze codex, die aanleiding geven tot de maatregel waarover de hoge raad is geadieerd;<br>
+3° derden die in hun rechten worden geraakt door de misdrijven of de inbreuken, vermeld in artikel 6.2.1 of 6.2.2 van deze codex, die aanleiding geven tot de maatregel waarover de hoge raad is geadieerd.
+
+### ART. 6.3.14.
+
+De Vlaamse Regering stelt een procedure- en werkingsreglement vast op voorstel van de hoge raad.<br>
+<br>
+Het reglement, vermeld in het eerste lid, kan, al dan niet op straffe van nietigheid of onontvankelijkheid voorgeschreven, vorm- en termijnvoorwaarden opleggen, in het bijzonder voor de aanhangigmaking van zaken, het overmaken van overtuigingsstukken, het inzagerecht van belanghebbenden en het horen van belanghebbenden.<br>
+<br>
+Het reglement, vermeld in het eerste lid, regelt voorts ten minste :<br>
+1° de werkverdeling;<br>
+2° de wijze waarop het horen georganiseerd wordt.<br>
+<br>
+Het reglement, vermeld in het eerste lid, treedt in werking op de dag van bekendmaking ervan in het Belgisch Staatsblad.
+
+### ART. 6.3.15.
+
+De hoge raad neemt een huishoudelijk reglement aan.<br>
+<br>
+Het huishoudelijk reglement bevat ten minste de deontologische beginselen, gedragsregels en richtlijnen die de leden van de hoge raad tot leidraad dienen bij de uitoefening van hun mandaat.
+
+### ART. 6.3.16.
+
+§ 1. De Vlaamse Regering stelt de hoge raad binnen de beschikbare begrotingskredieten de nodige werkingsmiddelen ter beschikking.<br>
+<br>
+§ 2. De hoge raad stelt op grond van de werkingsmiddelen een permanent secretariaat samen.<br>
+<br>
+Het permanent secretariaat wordt geleid door een vaste secretaris en staat onder het gezag van de voorzitter in voor de algemene administratieve ondersteuning van de hoge raad. De vaste secretaris en de overige leden van het permanent secretariaat beschikken niet over enig stemrecht in de hoge raad.<br>
+<br>
+§ 3. De vaste secretaris en de overige leden van het permanent secretariaat worden aangesteld op grond van een detacherings- of arbeidsovereenkomst.
+
+### ART. 6.3.17.
+
+De hoge raad brengt jaarlijks een verslagboek uit, waarin een synthese is opgenomen van de overwegingen die tot de advies- en beslissingspraktijk van de hoge raad hebben geleid.
+
 ## [HOOFDSTUK IV. Bestuurlijke maatregelen (ing. Decr. 25 april 2014, art. 77, I: 1 maart 2018)]
 
 ## [Afdeling 1. Basisbepalingen (ing. Decr. 25 april 2014, art. 78, I: 1 maart 2018)]
 
+### ART. 6.4.1.
+
+Voor de toepassing van dit hoofdstuk wordt de betekening met een aangetekende brief geacht te zijn geschied op de derde werkdag na de afgifte ter post, behalve in geval van bewijs van het tegendeel.
+
+### ART. 6.4.2.
+
+§ 1. De Vlaamse Regering kan bepaalde stedenbouwkundige misdrijven of inbreuken uitsluiten als grondslag voor de toepassing van bestuursdwang of last onder dwangsom, of de toepassing van bestuursdwang of last onder dwangsom afhankelijk maken van bijkomende voorwaarden.<br>
+<br>
+§ 2. Wie besluit tot toepassing van bestuursdwang of last onder dwangsom, is ook bevoegd die beslissing te wijzigen of in te trekken, zowel ambtshalve als op verzoek van belanghebbenden. De Vlaamse Regering kan nadere regels bepalen tot uitvoering van dit lid.<br>
+<br>
+Buiten de beroepsmogelijkheden, vermeld in deze afdeling, is de intrekking of wijziging alleen mogelijk als het doel van de bestuurlijke maatregel werd bereikt, in geval van gewijzigde omstandigheden die een bijsturing van de opgelegde maatregelen noodzaken of in de gevallen, vermeld in artikel 1133 van het Gerechtelijk Wetboek.<br>
+<br>
+Bestuursdwang en last onder dwangsom kunnen niet gelijktijdig worden toegepast ten aanzien van dezelfde persoon. In afwijking van het tweede lid kan een besluit tot toepassing van bestuursdwang te allen tijde worden vervangen door een besluit tot oplegging van een last onder dwangsom of omgekeerd.
+
+### ART. 6.4.3.
+
+§ 1. Een bestuurlijke maatregel mag geen afbreuk doen aan het gezag van gewijsde van een eerder tussengekomen rechterlijke beslissing die overeenkomstig deze titel werd genomen.<br>
+<br>
+Een bestuurlijke maatregel kan niet worden opgelegd aan de overtreder die voor dezelfde feiten werd gedagvaard voor de strafrechter of naar deze rechter werd verwezen. Hetzelfde geldt voor de overtreder die met toepassing van artikel 6.3.3 voor dezelfde feiten werd gedagvaard voor de burgerlijke rechter.<br>
+<br>
+§ 2. Het recht om een bestuurlijke maatregel op te leggen verjaart als volgt:<br>
+1° in ruimtelijk kwetsbaar gebied: na verloop van tien jaar;<br>
+2° in open ruimtegebied: na verloop van tien jaar;<br>
+3° in de andere gebieden: na verloop van vijf jaar.<br>
+<br>
+Bij bestuurlijke maatregelen voor stedenbouwkundige misdrijven neemt de termijn een aanvang hetzij de dag die volgt op de dag dat de procureur des Konings zijn beslissing, vermeld in artikel 6.2.13, § 3, houdende geen strafrechtelijke behandeling heeft meegedeeld, hetzij, bij gebrek aan een tijdige beslissing van de procureur des Konings, vanaf de dag nadat de termijn, vermeld in artikel 6.2.13, § 2, waarover de procureur des Konings beschikt, is verlopen.<br>
+<br>
+Bij bestuurlijke maatregelen voor stedenbouwkundige inbreuken neemt de verjaringstermijn een aanvang de dag die volgt op de dag dat de eerste strafbare handeling of omissie, al dan niet deel uitmakend van feiten die door eenheid van opzet zijn verbonden, is gesteld.
+
 ## [Afdeling 2. Stakingsbevel (ing. Decr. 25 april 2014, art. 82, I: 1 maart 2018)]
+
+### ART. 6.4.4.
+
+&nbsp;§ 1. De verbalisanten ruimtelijke ordening en de agenten of officieren van de gerechtelijke politie kunnen mondeling ter plaatse de onmiddellijke staking van handelingen bevelen als ze vaststellen dat de handeling voldoet aan de materiële omschrijving van een misdrijf of inbreuk als vermeld in artikel 6.2.1 of 6.2.2. Het stakingsbevel is een preventieve en voorlopige maatregel en is gericht op het voorkomen van schendingen die betrekking hebben op het uitvoeren of voortzetten van de handelingen, vermeld in artikel 4.2.1 of 4.2.15, hetzij zonder voorafgaande stedenbouwkundige vergunning of verkavelingsvergunning, hetzij zonder omgevingsvergunningen voor stedenbouwkundige handelingen of omgevingsvergunningen voor het verkavelen van gronden, en die wat het gebruik en de instandhouding betreft bijkomend:<br>
+a) hetzij een verzwaring van de schade aan de goede ruimtelijke ordening toebrengen;<br>
+b) hetzij door hun impact de ruimtelijke bestemming van het gebied in het gedrang brengen.<br>
+<br>
+Bij schendingen inzake gebruik en instandhouding in ruimtelijk kwetsbare gebieden die onder het eerste lid vallen, kan uiterlijk tot twee jaar vanaf de eerste strafbare handeling of omissie, al dan niet deel uitmakend van feiten die door eenheid van opzet zijn verbonden, een bevel tot staking worden gegeven. Buiten ruimtelijk kwetsbare gebieden is dat beperkt tot uiterlijk een jaar vanaf de eerste strafbare handeling of omissie, al dan niet deel uitmakend van feiten die door eenheid van opzet zijn verbonden.
+<p>Als de&nbsp;verbalisanten ruimtelijke ordening en de agenten of officieren van gerechtelijke politie, vermeld in het eerste lid, ter plaatse niemand aantreffen, wordt ter plaatse een schriftelijk bevel tot onmiddellijke staking op een zichtbare plaats aangebracht, of wordt het stakingsbevel alsnog mondeling gegeven tijdens een verhoor van de overtreder.</p>
+
+<p>§ 2. Het proces-verbaal van de vaststelling wordt binnen acht dagen met een beveiligde zending betekend aan de initiatiefnemer, de architect, de persoon of aannemer die de handelingen uitvoert, en de gebruiker van het goed.</p>
+
+<p>Tegelijkertijd wordt per beveiligde zending een afschrift van het proces-verbaal verzonden naar de gemeente waar de handelingen hebben plaatsgevonden en naar de gewestelijke stedenbouwkundige inspecteur.</p>
+
+<p>§ 3. Het stakingsbevel moet op straffe van verval binnen acht dagen na de betekening van het proces-verbaal door de gewestelijke stedenbouwkundige inspecteur worden bekrachtigd. Die bekrachtiging wordt binnen twee werkdagen met een beveiligde zending verzonden naar de personen, vermeld in paragraaf 2.</p>
+
+<p>§ 4. Elke belanghebbende kan in kort geding de opheffing van de maatregel vorderen tegen de gewestelijke stedenbouwkundige inspecteur, die optreedt namens het Vlaamse Gewest. De vordering wordt gebracht voor de voorzitter van de rechtbank van eerste aanleg in het ambtsgebied waarin de handelingen zijn uitgevoerd of het gebruik heeft plaatsgevonden. Deel IV, boek II, titel VI, van het Gerechtelijk Wetboek is van toepassing op de inleiding en de behandeling van de vordering.</p>
+
+### ART. 6.4.5.
+
+De&nbsp;verbalisanten ruimtelijke ordening en de agenten of officieren van gerechtelijke politie, vermeld in artikel 6.2.4, zijn gerechtigd tot het nemen van alle maatregelen, met inbegrip van verzegeling, inbeslagname van materiaal en materieel, om het bevel tot staking, de bekrachtigingsbeslissing of, in voorkomend geval, de beschikking in kort geding onmiddellijk te kunnen toepassen.
+
+### ART. 6.4.6.
+
+Onverminderd artikel 6.4.4, § 4, kan een stakingsbevel uitsluitend door de gewestelijke stedenbouwkundige inspecteur worden ingetrokken of in omvang worden beperkt, zowel ambtshalve als op verzoek van belanghebbenden. De gewestelijke stedenbouwkundige inspecteur kan daarnaast de toestemming of het bevel geven tot het uitvoeren van beveiligingsmaatregelen. Het bevel neemt de vorm aan van een besluit als vermeld in afdeling 3 of 4.
 
 ## [Afdeling 3. Bestuursdwang (ing. Decr. 25 april 2014, art. 86, I: 1 maart 2018)]
 
+### ART. 6.4.7.
+
+§ 1. De stedenbouwkundige inspecteur of de burgemeester kan beslissen om bestuursdwang toe te passen. Bestuursdwang houdt in dat bestuurlijke maatregelen aan overtreders worden opgelegd door middel van een bestuurlijke beslissing die onmiddellijk uitvoerbaar is en steeds het recht op ambtshalve uitvoering insluit.<br>
+<br>
+De beslissing, vermeld in het eerste lid, wordt op schrift gesteld. De schriftelijke beslissing wordt een besluit genoemd.<br>
+<br>
+§ 2. De bestuurlijke maatregelen, genomen in het kader van bestuursdwang, hebben dezelfde inhoud als de herstelmaatregelen, vermeld in artikel 6.3.1, § 1, en respecteren de rangorde, vermeld in het voormelde artikel.<br>
+<br>
+Het bedrag van de meerwaarde wordt door de stedenbouwkundige inspecteur of de burgemeester vastgesteld conform artikel 6.3.1, § 5, tweede lid.<br>
+<br>
+§ 3. Het besluit bevat minstens :<br>
+1° de kadastrale omschrijving van het onroerend goed dat het voorwerp is van de inbreuk of het misdrijf en de identificatie van de personen die zakelijke rechten hebben op het goed en de overtreders aan wie het besluit zal worden betekend;<br>
+2° een vermelding van de voorschriften die worden of werden geschonden;<br>
+3° een overzicht van de vaststellingen van de inbreuk of het misdrijf;<br>
+4° een omschrijving van de opgelegde bestuurlijke maatregelen;<br>
+5° de vermelding dat tegen het besluit houdende de bestuurlijke maatregelen in beroep kan worden gegaan, alsook een omschrijving van de procedure om in beroep te gaan.<br>
+<br>
+Het besluit wordt bij gerechtsdeurwaardersexploot of met een beveiligde zending betekend aan de overtreders en aan de rechthebbenden op de zaak ten aanzien van wie de bestuursdwang zal worden toegepast.<br>
+<br>
+Een afschrift van het besluit wordt aan de gemeente en de gewestelijke stedenbouwkundige inspecteur gezonden.<br>
+<br>
+§ 4. In het besluit wordt een termijn bepaald waarbinnen de overtreder en de belanghebbenden de tenuitvoerlegging kunnen voorkomen door zelf de bevolen maatregelen uit te voeren. De uitvoeringstermijn kan zo nodig worden gefaseerd of gedifferentieerd per maatregel.<br>
+<br>
+Voor wat de betaling van de meerwaarde betreft, kan de overtreder zich ook op een geldige wijze kwijten door binnen de uitvoeringstermijn de legaliteit te herstellen door het herstel van de plaats in de oorspronkelijke toestand, het staken van het strijdige gebruik of het verkrijgen van een regularisatievergunning en de uitvoering van de daarin begrepen voorwaarden.<br>
+<br>
+De uitvoeringstermijn neemt een aanvang de dag na de betekening.<br>
+<br>
+§ 5. Het besluit wordt binnen een termijn van twee maanden overgeschreven in het hypotheekkantoor van het gebied waar het onroerend goed ligt. De beslissing, vermeld in artikel 6.4.8, § 2, tweede lid, wordt binnen een termijn van twee maanden nadat ze is gewezen, ingeschreven op de kant van die overschrijving, op de wijze, vermeld in artikel 84 van de Hypotheekwet van 16 december 1851. Hetzelfde geldt voor elke rechterlijke beslissing over de schorsing of vernietiging van het besluit of de beslissing, vermeld in artikel 6.4.8, § 2, tweede lid.<br>
+<br>
+§ 6. De beslissing tot toepassing van bestuursdwang en elke volgende beslissing die in de zaak gewezen is, zijn tegenwerpelijk aan alle belanghebbenden, die de gevolgen ervan moeten dragen.
+
+### ART. 6.4.8.
+
+§ 1. Tegen de beslissing tot toepassing van bestuursdwang kan de vermoedelijke overtreder beroep instellen bij de Vlaamse Regering of haar gemachtigde. Bij de beoordeling van de herstelmaatregelen is artikel 6.4.7, § 2, van overeenkomstige toepassing, met inbegrip van de mogelijkheid tot vermindering van de meerwaarde, op verzoek en ambtshalve. Het beroep heeft schorsende werking.
+<p>Het beroep is alleen ontvankelijk als het wordt ingesteld bij een met redenen omklede brief binnen een termijn van dertig dagen, die de dag na de betekening van het besluit aanvangt. Als de verzoeker gehoord wil worden, maakt hij daarvan melding in zijn beroepschrift. Het beroepschrift wordt met een beveiligde zending betekend.</p>
+
+<p>§ 2. Binnen een termijn van negentig dagen na de betekening van het beroepschrift wordt er over het beroep uitspraak gedaan, in voorkomend geval, na schriftelijk advies over de herstelmaatregel van de Hoge Raad voor de Handhavingsuitvoering als vermeld in artikel 6.3.12/1. De termijn van negentig dagen is geschorst vanaf de adviesaanvraag tot de dag dat het advies wordt verleend of tot de termijn voor het verlenen van advies is verstreken.<br>
+<br>
+De termijn van negentig dagen kan op voorwaarde van kennisgeving binnen die termijn aan de vermoedelijke overtreder en de stedenbouwkundige inspecteur of de burgemeester die de beslissing heeft genomen, eenmalig worden verlengd met negentig dagen. Bij gebrek aan een tijdige beslissing over het beroep vervalt de bestuurlijke maatregel. De vermoedelijke overtreder en de stedenbouwkundige inspecteur of de burgemeester die de beslissing heeft genomen, wordt van het verval schriftelijk op de hoogte gebracht. De Vlaamse Regering bepaalt de nadere regels voor de kennisgeving van de beslissing over het beroep en de uitvoering van dit artikel.</p>
+
+<p>§ 3. De dag na de betekening van de beslissing tot verwerping van het beroep begint de door de stedenbouwkundige inspecteur of de burgemeester bepaalde termijn opnieuw te lopen, verminderd met het aantal dagen die al verstreken waren op het ogenblik van het instellen van het beroep.</p>
+
+### ART. 6.4.9.
+
+§ 1. De overtreder brengt de stedenbouwkundige inspecteur of burgemeester die de titel heeft laten betekenen met bevel tot uitvoeren, onmiddellijk met een beveiligde zending op de hoogte van de vrijwillige uitvoering van de opgelegde maatregelen.
+<p>Daarop maakt de stedenbouwkundige inspecteur of burgemeester die de titel heeft laten betekenen met bevel tot uitvoeren, een proces-verbaal van vaststelling op.</p>
+
+<p>Bij gebrek aan een betekening met bevel tot uitvoeren is alleen de gewestelijke stedenbouwkundige inspecteur bevoegd om een proces-verbaal van vaststelling op te stellen.</p>
+
+<p>De stedenbouwkundige inspecteur of burgemeester die de titel heeft laten betekenen met bevel tot uitvoeren, bezorgt met een beveiligde zending een afschrift van het proces-verbaal van vaststelling aan de&nbsp;stedenbouwkundige inspecteur of burgemeester, die niet in de akte van betekening vermeld zijn als opdrachtgever de overtreder, diens rechtsopvolgers en de personen die zakelijke rechten hebben op het onroerend goed dat het voorwerp uitmaakte van de opgelegde maatregelen.</p>
+
+<p>Behalve in geval van bewijs van het tegendeel geldt alleen het proces-verbaal van vaststelling als bewijs van uitvoering van de maatregelen en van de datum van uitvoering.</p>
+
+<p>§ 2. Het proces-verbaal van vaststelling, vermeld in paragraaf 1, wordt conform artikel 84 van de Hypotheekwet van 16 december 1851 ingeschreven op de kant van de overschrijving, vermeld in artikel 6.4.7, § 5.</p>
+
+<p>Zolang de inschrijving, vermeld in het eerste lid, niet is gebeurd, moet de instrumenterende ambtenaar naar aanleiding van een akte die strekt tot de overdracht van een zakelijk recht, er in een afzonderlijke akte melding van maken dat op het onroerend goed ten gevolge van een uitvoerbare beslissing als vermeld in artikel 6.4.7 of 6.4.8, een verplichting rust om maatregelen als vermeld in artikel 6.4.7, § 2, uit te voeren. In die akte wordt ook bepaald dat de nieuwe titularis, voor zover de tenuitvoerlegging van de bestuurlijke herstelmaatregel niet verjaard is, de verbintenis aangaat om de opgelegde maatregelen uit te voeren, onverminderd de verplichting van de overtreder.</p>
+
+<p>De kosten verbonden aan de afzonderlijke akte, vermeld in het vorige lid, vallen steeds ten laste van de overdrager van het zakelijk recht.</p>
+
+<p>De instrumenterende ambtenaar stuurt een afschrift van die akte naar de stedenbouwkundige inspecteur en de burgemeester, en is ertoe gehouden de grosse af te leveren op hun verzoek.</p>
+
+### ART. 6.4.10.
+
+§ 1. Elke overtreder aan wie het besluit, vermeld in artikel 6.4.7, en in voorkomend geval de beslissing, vermeld in artikel 6.4.8, werd betekend, is hoofdelijk gehouden tot het betalen van de meerwaarde en de kosten die verbonden zijn aan de toepassing van bestuursdwang, met inbegrip van de kosten voor de voorbereiding ervan.<br>
+<br>
+Het besluit en de beslissing, vermeld in het eerste lid, maken daarvan melding.<br>
+<br>
+§ 2. De meerwaarde en de kosten, vermeld in paragraaf 1, kunnen ook worden verhaald op de persoon die een zakelijk recht heeft op het goed dat het voorwerp van de bestuursdwang uitmaakte.<br>
+<br>
+Op voorwaarde dat de titel van de houder van het zakelijk recht al was overgeschreven vóór de overschrijving van het besluit, vermeld in artikel 6.4.7, § 5, blijft het verhaal van de kosten evenwel beperkt tot de verrijking die de titularis van het zakelijk recht ten gevolge van de uitvoering van de opgelegde herstelmaatregel heeft verkregen.<br>
+<br>
+§ 3. De meerwaarde en de kosten, vermeld in paragraaf 1 en 2, worden gewaarborgd door een wettelijke hypotheek, met overeenkomstige toepassing van artikel 6.3.4, § 3. De hypotheek wordt ingeschreven op voorlegging van een afschrift van het besluit of de beslissing over beroep.
+
+### ART. 6.4.11.
+
+De stedenbouwkundige inspecteur of de burgemeester die bestuursdwang heeft toegepast, kan van de overtreder bij dwangbevel de verschuldigde kosten, verhoogd met de invorderingskosten, invorderen. Hetzelfde geldt voor de meerwaarde die na het einde van de uitvoeringstermijn nog verschuldigd is. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de ambtenaar die de Vlaamse Regering of het college van burgemeester en schepenen daarvoor heeft aangewezen. Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot of met een beveiligde zending.<br>
+<br>
+Op het dwangbevel, vermeld in het eerste lid, zijn de bepalingen van deel V van het Gerechtelijk Wetboek van toepassing.
+
+### ART. 6.4.12.
+
+Tenzij de tenuitvoerlegging gebeurt met expliciete of impliciete instemming van de gebruiker en de personen die zakelijke rechten hebben op het onroerend goed dat het voorwerp uitmaakt van de beslissing tot toepassing van bestuursdwang, is de uitvoering van handelingen in de plaats en op kosten van de overtreder alleen mogelijk door een gerechtsdeurwaarder na voorafgaande betekening van het uitvoerbare besluit, vermeld in artikel 6.4.7, of, als beroep werd ingesteld tegen het besluit, na voorafgaande betekening van het besluit en de beslissing, vermeld in artikel 6.4.8.<br>
+<br>
+Om aan een beslissing tot toepassing van bestuursdwang uitvoering te geven, hebben personen die daartoe zijn aangewezen door, naar gelang van het geval, de gerechtsdeurwaarder, de stedenbouwkundige inspecteur of de burgemeester, toegang tot elke plaats als dat redelijkerwijs voor de vervulling van hun taak nodig is.
+
+### ART. 6.4.13.
+
+Tot de bevoegdheid tot toepassing van bestuursdwang behoort het verzegelen van gebouwen en terreinen, en wat zich daarin of daarop bevindt, alsook het meevoeren en opslaan van voor bestuursdwang vatbare zaken, als de toepassing van bestuursdwang dat vereist.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de bewaring en de teruggave aan de rechthebbenden van de meegevoerde zaken.
+
 ## [Afdeling 4. Last onder dwangsom (ing. Decr. 25 april 2014, art. 94, I: 1 maart 2018)]
+
+### ART. 6.4.14.
+
+De stedenbouwkundige inspecteur of de burgemeester is bevoegd om aan de overtreder een last onder dwangsom op te leggen. Last onder dwangsom houdt in dat bestuurlijke maatregelen aan overtreders worden opgelegd door middel van een bestuurlijke beslissing, die onmiddellijk uitvoerbaar is en steeds de verbeurte van een dwangsom als sanctie bij negatie insluit.<br>
+<br>
+De beslissing, vermeld in het eerste lid, wordt op schrift gesteld. De schriftelijke beslissing wordt een besluit genoemd.<br>
+<br>
+Artikel 6.4.7, § 2 tot en met § 6, is ook van toepassing op het besluit, vermeld in het eerste lid, met het voorbehoud dat een last onder dwangsom nooit de betaling van een meerwaarde als enig voorwerp kan hebben.<br>
+<br>
+De stedenbouwkundige inspecteur of de burgemeester stelt de dwangsom in het besluit vast op een bedrag ineens, op een bedrag per tijdseenheid waarin de last niet is uitgevoerd of per overtreding van de last, zonder dat die dwangsom betrekking kan hebben op de betaling van de meerwaarde als onderdeel van deze last. De stedenbouwkundige inspecteur of de burgemeester kan een bedrag vaststellen waarboven geen dwangsom meer wordt verbeurd.<br>
+<br>
+Een dwangsom wordt pas verbeurd verklaard na de betekening van het uitvoerbare besluit, vermeld in het eerste lid, in voorkomend geval samen met de beslissing over het beroep.
+
+### ART. 6.4.15.
+
+§ 1. Tegen de beslissing tot het opleggen van een last onder dwangsom kan de vermoedelijke overtreder beroep instellen bij de Vlaamse Regering of haar gemachtigde. Bij de beoordeling van de herstelmaatregelen is artikel 6.4.7, § 2, van overeenkomstige toepassing, met inbegrip van de mogelijkheid tot vermindering van de meerwaarde, op verzoek en ambtshalve. Het beroep heeft schorsende werking.<br>
+<br>
+Het beroep is alleen ontvankelijk als het wordt ingesteld bij een met redenen omklede brief binnen een termijn van dertig dagen, die de dag na de betekening van het besluit aanvangt. Als de verzoeker gehoord wil worden, maakt hij daarvan melding in zijn beroepschrift.<br>
+<br>
+§ 2. Artikel 6.4.8, § 2 en § 3, en artikel 6.4.9 zijn van toepassing op deze onderafdeling.<br>
+<br>
+Artikel 6.4.10 is van toepassing op de meerwaarde die in de last onder dwangsom is begrepen.
+
+### ART. 6.4.16.
+
+De stedenbouwkundige inspecteur of de burgemeester kan de verbeurde dwangsommen en de meerwaarde, verhoogd met de invorderingskosten, invorderen bij dwangbevel. Artikel 6.4.11 is van toepassing op dat dwangbevel.
+<p>De stedenbouwkundige inspecteur of de burgemeester die belast is met de invordering van de dwangsom, is ertoe gemachtigd aan de schuldenaars die bijzondere omstandigheden kunnen bewijzen, uitstel of spreiding van betaling toe te staan.</p>
+
+<p>De gewestelijke stedenbouwkundige inspecteur, de gemeentelijke stedenbouwkundige inspecteur of de burgemeester, vermeld in de betekening van de dwangsomtitel, kan, respectievelijk in naam van het Vlaamse Gewest of de gemeente, ambtshalve of op eenvoudig verzoek beslissen dat een opeisbare dwangsomschuld niet of maar gedeeltelijk wordt ingevorderd, zonder dat die beslissing betrekking kan hebben op de gerechts- en uitvoeringskosten die zijn gemaakt. Er wordt in de beslissing rekening gehouden met de gestelde handelingen en de genomen engagementen met het oog op een correcte uitvoering van de hoofdveroordeling, alsook met de gehele of gedeeltelijke realisatie van het herstel. De Vlaamse Regering kan nadere voorwaarden vastleggen en procedurele regelen bepalen voor de toepassing van dit lid.<br>
+<br>
+Met behoud van de toepassing van het derde lid kan het Vlaamse Gewest of de gemeente, respectievelijk vertegenwoordigd door de Vlaamse Regering of het college van burgemeester en schepenen, op gemotiveerd verzoek tijdelijk of definitief afzien van verdere inning van een opeisbaar geworden dwangsomschuld. Dat kan voor het geheel of voor een gedeelte van de opeisbare schuldvordering zonder dat het betrekking kan hebben op de gerechts- en uitvoeringskosten die zijn gemaakt. De Vlaamse Regering respectievelijk het college van burgemeester en schepenen kunnen hun beslissingsbevoegdheid delegeren.<br>
+<br>
+Het tweede tot en met het vijfde lid van artikel 6.3.4, § 5, zijn van overeenkomstige toepassing.</p>
+
+### ART. 6.4.17.
+
+De rechtbank van eerste aanleg kan op verzoek van de overtreder de dwangsom opheffen, de looptijd ervan voor een bepaalde termijn opschorten of de dwangsom verminderen in geval van blijvende of tijdelijke, gehele of gedeeltelijke onmogelijkheid voor de overtreder om aan zijn verplichtingen te voldoen. De overtreder dagvaardt daarvoor de gewestelijke stedenbouwkundige inspecteur, de gemeentelijke stedenbouwkundige inspecteur of de burgemeester, vermeld in de betekening van het uitvoerbare besluit, die respectievelijk optreedt namens het Vlaamse Gewest of de gemeente.
+
+### ART. 6.4.18.
+
+De vordering tot betaling van verbeurde bedragen verjaart na verloop van zes maanden na de dag waarop de bedragen verbeurd zijn. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 en volgende van het Burgerlijk Wetboek.<br>
+<br>
+De verjaring wordt geschorst door faillissement en ieder ander wettelijk beletsel voor invordering van de dwangsom.
 
 ## [Afdeling 5. Minnelijke schikking (ing. Decr. 25 april 2014, art. 100, I: 1 maart 2018)]
 
+### ART. 6.4.19.
+
+§ 1. De gewestelijke stedenbouwkundige inspecteur, de gemeentelijke stedenbouwkundige inspecteur of de burgemeester kan, respectievelijk in naam van het Vlaamse Gewest of de gemeente, met de overtreder, overtreders of andere belanghebbenden een minnelijke schikking aangaan onder de volgende voorwaarden :<br>
+1° het voorwerp van de minnelijke schikking is in overeenstemming met artikel 6.3.1;<br>
+2° de minnelijke schikking doet geen afbreuk aan het gezag van gewijsde van een overeenkomstig hoofdstuk III tussengekomen rechterlijke beslissing noch aan een beslissing tot toepassing van bestuursdwang of last onder dwangsom;<br>
+3° de zakelijke rechten op het onroerend goed waarop de minnelijke schikking betrekking heeft, behoren toe aan een of meer personen die zich door de minnelijke schikking verbinden;<br>
+4° de termijn voor de uitvoering van de herstelmaatregelen bedraagt niet meer dan vijf jaar.<br>
+<br>
+De miskenning van een van de voorwaarden, vermeld in het eerste lid, heeft van rechtswege de nietigheid van de minnelijke schikking tot gevolg.<br>
+<br>
+§ 2. De minnelijke schikking wordt aangevraagd door de personen die zich door de minnelijke schikking wensen te verbinden, volgens de regels, bepaald door de Vlaamse Regering.<br>
+<br>
+§ 3. Een aanvraag tot minnelijke schikking schorst de verjaring van de herstelvordering. De schorsing vangt aan vanaf de datum van betekening van de aanvraag aan de bevoegde overheid. De schorsing neemt een einde vanaf :<br>
+1° de datum waarop de minnelijke schikking tot stand komt conform artikel 6.4.20;<br>
+2° de datum waarop de minnelijke schikking wordt geweigerd.
+
+### ART. 6.4.20.
+
+De minnelijke schikking wordt op schrift gesteld. De minnelijke schikking wordt ondertekend door de stedenbouwkundige inspecteur of de burgemeester, en door de overtreder of overtreders of andere belanghebbenden met wie de minnelijke schikking wordt aangegaan. De minnelijke schikking wordt binnen een termijn van twee maanden overgeschreven in het hypotheekkantoor van het gebied waarin het onroerend goed gelegen is. Een afschrift van de minnelijke schikking wordt verzonden aan de bevoegde overheden, bedoeld in artikel 6.3.1, § 2.
+
+### ART. 6.4.21.
+
+Artikel 6.4.9 is van toepassing op deze afdeling, met dien verstande dat het proces-verbaal van vaststelling wordt overgeschreven op de kant van de overschrijving, vermeld in artikel 6.4.20.<br>
+<br>
+De uitvoering van de minnelijke schikking, bevestigd in het proces-verbaal van vaststelling, dooft elk verder recht op herstel of vergoeding van schade, geleden door het algemeen belang naar aanleiding van de inbreuken of misdrijven die omschreven zijn in de akte, vermeld in artikel 6.4.20.
+
+### ART. 6.4.22.
+
+De miskenning van de verplichtingen die in de minnelijke schikking zijn opgenomen, vormt ten aanzien van de overtreders of andere belanghebbenden die de minnelijke schikking hebben ondertekend, een grondslag voor de toepassing van bestuursdwang of last onder dwangsom.
+
 ## [HOOFDSTUK V. Inkomsten uit handhaving (ing. Decr. 25 april 2014, art. 105, I: 1 maart 2018)]
 
+### ART. 6.5.1.
+
+De ontvangsten die voortvloeien uit de toepassing van titel VI worden toegewezen aan de DAB Grondfonds, vermeld in artikel 5.6.3.<br>
+<br>
+De in het eerste lid vermelde ontvangsten mogen enkel worden aangewend voor het verrichten van uitgaven die voortvloeien uit de toepassing van titel VI.
+
 ## [HOOFDSTUK VI. Diverse bepalingen (ing. Decr. 25 april 2014, art. 107, I: 1 maart 2018)]
+
+### ART. 6.6.1.
+
+§&nbsp;1. De uitvoering van de maatregelen die krachtens deze titel begrepen zijn in een uitvoerbare rechterlijke of bestuurlijke beslissing, of minnelijke schikking, is nimmer vergunnings- of meldingsplichtig op grond van dit decreet.<br>
+<br>
+§ 2. Vanaf de datum van afgifte van het proces-verbaal van vaststelling van uitvoering, vermeld in artikel 6.3.6, 6.4.9, 6.4.15, § 2, en artikel 6.4.21, kunnen ten aanzien van het voorwerp van de uitgevoerde herstelmaatregelen, stabiliteitswerken als vermeld in artikel 4.1.1, 11°, worden vergund.<br>
+<br>
+§ 3. Vanaf de datum, vermeld in paragraaf 2, kan met betrekking tot het voorwerp van de uitgevoerde herstelmaatregelen, een herstelattest worden verleend. Dat attest bevestigt dat het voorwerp van de uitgevoerde herstelmaatregelen in de door het herstelattest gedocumenteerde staat behouden kan blijven.<br>
+<br>
+Het herstelattest, vermeld in het eerste lid, wordt aangevraagd volgens regels die de Vlaamse Regering bepaalt, en wordt afgegeven door het college van burgemeester en schepenen.
+
+### ART. 6.6.2.
+
+De rechtbank kan de titel van eigendomsverkrijging of van huur vernietigen op vordering van de kopers of de huurders van een goed dat het voorwerp uitmaakt of kan uitmaken van gerechtelijke of bestuurlijke herstelmaatregelen, onverminderd het recht van de kopers of huurders om schadevergoeding te eisen.<br>
+<br>
+De vordering tot vernietiging kan niet meer worden ingeroepen als de inbreuk op de informatieplicht met betrekking tot de publiciteit en de onderhandse overeenkomst is rechtgezet bij de authentieke akteverlening en de informatiegerechtigde in deze akte verzaakt aan de vordering tot nietigverklaring op basis van een inbreuk op de informatieplicht.
+
+### ART. 6.6.3.
+
+De dagvaarding voor de correctionele rechtbank of het exploot tot inleiding van het geding, vermeld in artikel 6.3.1 en 6.3.3, wordt in het vergunningenregister van de gemeente waar het onroerend goed gelegen is, ingeschreven op verzoek van de deurwaarder die het exploot heeft opgemaakt.
 
 ## TITEL VII Diverse temporele en overgangsmaatregelen
 
@@ -3944,11 +4561,20 @@ De aanvragen voor een stedenbouwkundig attest die bij de bevoegde overheid zijn 
 
 ### ART. 7.7.1.
 
-De Hoge Raad voor het Handhavingsbeleid treedt op 1 september 2009 in de plaats van de Hoge Raad voor het Herstelbeleid.<br /><br />De artikelen 6.1.7 tot en met 6.1.23, de artikelen 6.1.30 tot en met 6.1.35, en de artikelen 6.1.52 tot en met 6.1.54, hebben echter eerst gevolg indien en zodra de Vlaamse Regering het procedure- en werkingsreglement, vermeld in artikel 6.1.36, heeft vastgesteld. Die vaststelling geschiedt uiterlijk op 30 november 2009.<br /><br />Voorafgaand aan de vaststelling van het procedure- en werkingsreglement, vermeld in artikel 6.1.36, worden dossiers bij de Hoge Raad aanhangig gemaakt overeenkomstig de materiële en procedurele regelen die golden voorafgaand aan 1 september 2009. De Hoge Raad behandelt deze aanhangig gemaakte dossiers conform die vroegere materiële en procedurele regelen, ook indien het procedure- en werkingsreglement intussen in werking is getreden.
+<p>De strafrechter kan de herstelvordering die regelmatig bij hem aanhangig is gemaakt en die gegrond is op instandhouding, nog steeds inwilligen als de beklaagde hieraan schuldig wordt bevonden en deze instandhouding op het ogenblik van de uitspraak een stedenbouwkundige inbreuk uitmaakt als vermeld in artikel 6.2.2, 1°.<br>
+<br>
+Hetzelfde geldt voor de herstelvordering die gegrond is op het toestaan of aanvaarden door de eigenaar van feiten van instandhouding als vermeld in het eerste lid.<br>
+<br>
+Een herstelvordering die door de stedenbouwkundige inspecteur is ingesteld op grond van instandhouding van handelingen kan vanaf 1 september 2009 niet langer worden ingewilligd als die instandhouding op het ogenblik van de uitspraak geen stedenbouwkundig misdrijf of stedenbouwkundige inbreuk meer uitmaakt.</p>
 
 ### ART. 7.7.2.
 
-De zetelende leden van de Hoge Raad voor het Herstelbeleid worden op 1 september 2009 van rechtswege bekleed met een mandaat in de schoot van de Hoge Raad voor het Handhavingsbeleid, behoudens indien zij daar uitdrukkelijk van afzien. In dat geval wordt het mandaat toegewezen aan een nieuw lid, op grond van de kandidaatstellingen die geschiedden op grond van de oproep tot de kandidaten, verschenen in het Belgisch Staatsblad van 27 mei 2005. Indien op grond van deze kandidaatstellingen geen nieuw lid kan worden aangewezen, wordt voor het openstaande mandaat een specifieke oproep tot de kandidaten georganiseerd. <br /><br />In afwijking van artikel 6.1.25 hebben de mandaten, vermeld in het eerste lid, een duurtijd tot en met 21 juli 2010. Enkel de leden die worden aangeduid op grond van een specifieke oproep tot de kandidaten worden aangeduid voor een volle en hernieuwbare termijn van vijf jaar.
+Als het recht van de stedenbouwkundige inspecteur of de burgemeester om een herstelvordering in te stellen ontstaan is vóór 1 september 2009, beginnen de termijnen voor herstelvorderingen bij stedenbouwkundige misdrijven, vermeld in artikel 6.3.3, § 3, pas te lopen vanaf die datum. De totale duur van de verjaringstermijn mag evenwel niet meer bedragen dan de termijnen, vermeld in artikel 2262bis, § 1, tweede en derde lid, van het Burgerlijk Wetboek.
+<p>Het eerste lid verhindert de toepassing van artikel 26 van de voorafgaande titel van het Wetboek van Strafvordering niet.</p>
+
+<p>Als de herstelvordering bij een in kracht van gewijsde gegane beslissing verjaard is verklaard voor de datum van 1 september 2009, vermeld in het eerste lid, kan de inwerkingtreding van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid niet tot gevolg hebben dat een nieuwe verjaringstermijn begint te lopen.<br>
+<br>
+Als het recht om een herstelvordering in te stellen is ontstaan vóór de inwerkingtreding van artikel 31 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning en op die datum niet of verjaard is of verjaard verklaard is bij een in kracht van gewijsde gegane beslissing, beginnen de verjaringstermijnen voor herstelvorderingen bij stedenbouwkundige inbreuken, vermeld in artikel 6.3.3, § 3, te lopen vanaf de inwerkingtreding van artikel 31 van het voormelde decreet, ongeacht wanneer de eerste strafbare handeling of omissie, al dan niet deel uitmakend van feiten die door eenheid van opzet zijn verbonden, is gesteld. De totale duur van de verjaringstermijn mag evenwel niet meer bedragen dan tien jaar in ruimtelijk kwetsbaar gebied en open ruimtegebied en vijf jaar in alle andere gebieden als het tot inbreuk verworden misdrijf is beëindigd vóór de inwerkingtreding van dat artikel 31.</p>
 
 ### ART. 7.7.3.
 
@@ -3956,7 +4582,25 @@ De zetelende leden van de Hoge Raad voor het Herstelbeleid worden op 1 september
 
 ### ART. 7.7.4.
 
-Wanneer het recht van de stedenbouwkundige inspecteur of het college van burgemeester en schepenen om een herstelvordering in te stellen ontstaan is vóór 1 september 2009, beginnen de termijnen, vermeld in artikel 6.1.41, § 5, eerste lid, slechts te lopen vanaf die datum. De totale duur van de verjaringstermijn mag evenwel niet méér bedragen dan de termijnen, vermeld in artikel 2262bis, § 1, tweede en derde lid, van het Burgerlijk Wetboek.<br /><br />Het eerste lid verhindert de toepassing van artikel 26 van de voorafgaande titel van het Wetboek van Strafvordering niet.<br /><br />Wanneer de herstelvordering bij een in kracht van gewijsde gegane beslissing verjaard is verklaard vóór 1 september 2009, vermeld in het eerste lid, kan de inwerkingtreding van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid niet tot gevolg hebben dat een nieuwe verjaringstermijn begint te lopen.
+<p>Artikel 6.6.1, § 3, is niet van toepassing op processen-verbaal van vaststelling van uitvoering als de uitgevoerde herstelmaatregelen zijn opgelegd voor de inwerkingtreding van artikel 55 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning.</p>
+
+### ART. 7.7.5.
+
+Vanaf de inwerkingtreding van titel VI, hoofdstuk III, afdeling 1, zoals gewijzigd bij artikelen 55 tot en met 61 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning nemen de burgemeester en de gemeentelijke stedenbouwkundige inspecteur de taken en bevoegdheden over die voor de inwerkingtreding door het college van burgemeester en schepenen werden waargenomen in het kader van titel VI van deze codex, en zetten ze de herstelvorderingen voort die door het college van burgemeester en schepenen werden ingeleid bij het openbaar ministerie of voor de burgerlijke rechter.
+
+### ART. 7.7.6.
+
+In afwijking van artikel 6.2.6 wordt de voorzetting van handelingen, werken of wijzigingen die voor de inwerkingtreding van artikel 41 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning zijn vastgesteld, en die in strijd zijn met een stakingsbevel, bestraft conform de bepalingen van artikel 6.1.49 en 6.1.50, zoals van kracht voor de inwerkingtreding van artikel 41 van het voormelde decreet. Titel VI, hoofdstuk I, afdeling 7, zoals van kracht voor de inwerkingtreding van artikel 41 van het voormelde decreet, blijft onverkort van toepassing op die feiten en op de administratieve geldboete die erop gegrond zijn of worden.<br>
+<br>
+Als de voortzetting van de handelingen, werken of wijzigingen in strijd met een bevel tot staking, de bekrachtigingsbeslissing of, in voorkomend geval, de beschikking in kort geding is uitgevoerd voor de inwerkingtreding van artikel 41 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning en wordt vastgesteld na de inwerkingtreding van artikel 41 van het voormelde decreet, wordt er een geldboete opgelegd conform de procedure van onderafdeling 3 van titel VI, hoofdstuk II, afdeling 3, met dien verstande dat de administratieve geldboete niet meer kan bedragen dan bepaald in artikel 6.1.49, zoals van kracht voor de inwerkingtreding van artikel 41 van het voormelde decreet.
+
+### ART 7.7.7.
+
+De bepalingen over bestuursdwang en last onder dwangsom, vermeld in titel VI, hoofdstuk IV, afdeling 3 en 4, zijn niet van toepassing als het recht om een herstelvordering in te stellen is ontstaan vóór de inwerkingtreding van titel VI, hoofdstuk IV.
+
+### ART 7.7.8.
+
+De rechtsgevolgen die verbonden zijn aan een bevel tot staking, dat is gegeven buiten de termijnen, vermeld in artikel 6.4.4, § 1, tweede lid, vervallen van rechtswege vanaf de inwerkingtreding van artikel 6.4.4, tenzij dat wordt tegengesproken door een in kracht van gewijsde gegane rechterlijke beslissing.
 
 ### ART 7.7.9.
 
@@ -3965,6 +4609,18 @@ De aanwijzing door de Vlaamse Regering van de ambtenaren van de entiteit, bevoeg
 De aanwijzing door de Vlaamse Regering van de ambtenaren van andere entiteiten middels een protocol, op grond van artikel 6.1.5, zoals van toepassing vóór de inwerkingtreding van artikel 20 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning, wordt gelijkgesteld met een aanwijzing in artikel 6.2.5/1, § 1, eerste lid, 2°, tot aan een andersluidende beslissing van de Vlaamse Regering.<br>
 <br>
 De aanwijzing door de gouverneur van personeelsleden van een gemeente of van een intergemeentelijk samenwerkingsverband op grond van artikel 6.1.5 zoals van toepassing vóór de inwerkingtreding van artikel 20 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning, wordt gelijkgesteld met een aanwijzing in artikel 6.2.5/1, § 1, eerste lid, 3° en 4°, tot aan een andersluidende beslissing van het college van burgemeester en schepenen.
+
+### ART 7.7.10.
+
+De aanstelling als gewestelijke stedenbouwkundige inspecteur op grond van artikel 1.4.3, eerste lid, 1°, zoals van kracht voor de inwerkingtreding van artikel 4 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning, wordt voor de lopende duurtijd van deze aanstelling gelijkgesteld met de aanwijzing als verbalisant ruimtelijke ordening, bedoeld in artikel 6.2.5/1, § 1, eerste lid, 1°, behoudens een andersluidende beslissing van de Vlaamse Regering tot beëindiging van de aanstelling. De gewestelijke stedenbouwkundige inspecteur behoudt gedurende de gelijkstelling de hoedanigheid van officier van gerechtelijke politie, hulpofficier van de procureur des Konings, die hij eerder verkreeg op grond van artikel 6.1.5, vierde lid, zoals van kracht voor de inwerkingtreding van artikel 4 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning.<br>
+<br>
+De aanstelling als gewestelijke stedenbouwkundige inspecteur op grond van artikel 1.4.3, eerste lid, 1°, zoals van kracht voor de inwerkingtreding van artikel 4 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning, wordt voor de lopende duurtijd van deze aanstelling gelijkgesteld met de aanstelling als gewestelijk stedenbouwkundige inspecteur, bedoeld in artikel 1.4.9, tweede lid, behoudens een andersluidende beslissing van de Vlaamse Regering tot beëindiging van deze aanstelling.
+
+### ART 7.7.11.
+
+De zetelende leden van de Hoge Raad voor het Handhavingsbeleid, worden op de dag van de inwerkingtreding van artikel 61 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning, van rechtswege bekleed met een mandaat in de Hoge Raad voor de Handhavingsuitvoering, behoudens indien zij daar uitdrukkelijk van afzien. In dat geval wordt voor het openstaande mandaat een specifieke oproep tot de kandidaten georganiseerd.<br>
+<br>
+In afwijking van artikel 6.3.9, § 1, hebben de mandaten vermeld in het eerste lid, een duurtijd tot en met 24 juli 2020. Enkel de leden die worden aangeduid op grond van een specifieke oproep tot kandidaten worden aangeduid voor een volle en hernieuwbare termijn van vijf jaar.
 
 ## TITEL VIII Aanhalingswijze
 
