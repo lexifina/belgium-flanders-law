@@ -785,6 +785,11 @@ Aan artikel 5.1.1, § 1, eerste lid, van dezelfde codex, gewijzigd bij het decre
 15° het verval van de projectbesluiten, vermeld in punt 13°. ".<br>
 &nbsp;
 
+### ART 84.
+
+&nbsp;In artikel 5.1.6, derde lid, van dezelfde codex, gewijzigd bij het decreet van 4 april 2014, wordt de zinsnede "vermeld in artikel 1.4.3 en 1.4.4," vervangen door de zinsnede "vermeld in de artikelen 1.4.3 en 1.4.9 van deze codex en de artikelen 9/1 en 10 van het decreet van 25 april 2014 betreffende de omgevingsvergunning".<br>
+&nbsp;
+
 ### ART 85.
 
 Aan artikel 5.2.1, § 1, eerste lid, van dezelfde codex, gewijzigd bij de decreten van 25 april 2014 en 18 december 2015, worden de volgende wijzigingen aangebracht:<br>
@@ -846,34 +851,19 @@ Bij de beoordeling van vergunningsaanvragen wordt rekening gehouden met de actue
 
 ### ART 95.
 
-&nbsp;In artikel 6.1.1 van dezelfde codex, gewijzigd bij het decreet van 3 februari 2017 en te vervangen bij het decreet van 25 april 2014, worden de volgende wijzigingen aangebracht:<br>
-1° in het eerste lid wordt punt 3° vervangen door wat volgt:<br>
-"3° als de eigenaar toestaat of aanvaardt dat één van de strafbare feiten, vermeld in punt 1°, 2° en 8°, wordt gepleegd, wordt voortgezet of in stand wordt gehouden;";<br>
-2° aan het eerste lid wordt een punt 8° toegevoegd, dat luidt als volgt:<br>
-"8° handelingen uitvoert, voortzet of in stand houdt in een conform artikel 5.6.8 aangeduid watergevoelig openruimtegebied die:<br>
-a) of niet zijn toegelaten in artikel 5.6.8, § 3, tenzij deze handelingen vergund of vergund geacht zijn en, voor zover het gebied niet opgeheven wordt met toepassing van artikel 5.6.8, § 7;<br>
-b) of die de voorwaarden die door de Vlaamse Regering worden verbonden aan de schrapping, vermeld in artikel 5.6.8, § 7, derde lid, schenden, tenzij deze handelingen vergund of vergund geacht zijn.";<br>
-3° in het derde lid wordt de zinsnede "en 7° " vervangen door de zinsnede ", 7° en 8° ".<br>
-&nbsp;
+...
 
 ### ART 96.
 
-In artikel 6.1.6, § 2, van dezelfde codex, op te heffen bij het decreet van 25 april 2014, wordt de zinsnede ", evenals de beslissingen, vermeld in artikel 6.1.21," opgeheven.<br>
-&nbsp;
+...
 
 ### ART 97.
 
-In titel VI, hoofdstuk I, afdeling 4, onderafdeling 2, van dezelfde codex, op te heffen bij het decreet van 25 april 2014, wordt sectie 4 opgeheven.<br>
-&nbsp;
+...
 
 ### ART 98.
 
-In artikel 6.1.49 van dezelfde codex, op te heffen bij het decreet van 25 april 2014, worden de volgende wijzigingen aangebracht:<br>
-1° in paragraaf 1, eerste lid, wordt de zinsnede "met een door de stedenbouwkundige inspecteur bekrachtigd bevel tot staking, vermeld in artikel 6.1.47, vijfde lid" vervangen door de zinsnede "met een bevel tot staking vanaf het geven van het bevel, behalve als het bevel niet wordt bekrachtigd of als het wordt ingetrokken";<br>
-2° aan paragraaf 3, tweede lid, wordt de volgende zin toegevoegd:<br>
-"Als de termijn, vermeld in paragraaf 4, wordt overschreden, blijven de uitvoeringskosten die worden gemaakt na het verstrijken van deze termijn tot aan de ontvangst van de aangetekende brief, vermeld in het eerste lid, verschuldigd door de betrokkene.";<br>
-3° in paragraaf 4 wordt het woord "vijftien" vervangen door de woorden "een ordetermijn van dertig".<br>
-&nbsp;
+...
 
 ### ART 99.
 
@@ -899,6 +889,17 @@ De beslissing wordt bij uittreksel gepubliceerd in het Belgisch Staatsblad.<br>
 &nbsp;In artikel 7.6.2, § 1, derde lid, van dezelfde codex, het laatst gewijzigd bij het decreet van 4 april 2014, wordt punt 2° opgeheven.<br>
 &nbsp;
 
+### ART 103.
+
+Aan titel VII, hoofdstuk VII, van dezelfde codex, het laatst gewijzigd bij het decreet van 3 februari 2017, wordt een artikel 7.7.7 toegevoegd, dat luidt als volgt:<br>
+"Art. 7.7.7. De bepalingen over bestuursdwang en last onder dwangsom, vermeld in titel VI, hoofdstuk IV, afdeling 3 en 4, zijn niet van toepassing als het recht om een herstelvordering in te stellen is ontstaan vóór de inwerkingtreding van titel VI, hoofdstuk IV.".
+
+### ART 104.
+
+Aan titel VII, hoofdstuk VII, van dezelfde codex, het laatst gewijzigd bij het decreet van 3 februari 2017, wordt een artikel 7.7.8 toegevoegd, dat luidt als volgt:<br>
+"Art. 7.7.8. De rechtsgevolgen die verbonden zijn aan een bevel tot staking, dat is gegeven buiten de termijnen, vermeld in artikel 6.4.4, § 1, tweede lid, vervallen van rechtswege vanaf de inwerkingtreding van artikel 6.4.4, tenzij dat wordt tegengesproken door een in kracht van gewijsde gegane rechterlijke beslissing.".<br>
+&nbsp;
+
 ### ART 105.
 
 Aan titel VII, hoofdstuk VII, van dezelfde codex, het laatst gewijzigd bij het decreet van 3 februari 2017, wordt een artikel 7.7.9 toegevoegd, dat luidt als volgt:<br>
@@ -907,6 +908,22 @@ Aan titel VII, hoofdstuk VII, van dezelfde codex, het laatst gewijzigd bij het d
 De aanwijzing door de Vlaamse Regering van de ambtenaren van andere entiteiten middels een protocol, op grond van artikel 6.1.5, zoals van toepassing vóór de inwerkingtreding van artikel 20 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning, wordt gelijkgesteld met een aanwijzing in artikel 6.2.5/1, § 1, eerste lid, 2°, tot aan een andersluidende beslissing van de Vlaamse Regering.<br>
 <br>
 De aanwijzing door de gouverneur van personeelsleden van een gemeente of van een intergemeentelijk samenwerkingsverband op grond van artikel 6.1.5 zoals van toepassing vóór de inwerkingtreding van artikel 20 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning, wordt gelijkgesteld met een aanwijzing in artikel 6.2.5/1, § 1, eerste lid, 3° en 4°, tot aan een andersluidende beslissing van het college van burgemeester en schepenen.".<br>
+&nbsp;
+
+### ART 106.
+
+Aan titel VII, hoofdstuk VII, van dezelfde codex, het laatst gewijzigd bij het decreet van 3 februari 2017, wordt een artikel 7.7.10 toegevoegd, dat luidt als volgt:<br>
+"Art. 7.7.10. De aanstelling als gewestelijke stedenbouwkundige inspecteur op grond van artikel 1.4.3, eerste lid, 1°, zoals van kracht voor de inwerkingtreding van artikel 4 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning, wordt voor de lopende duurtijd van deze aanstelling gelijkgesteld met de aanwijzing als verbalisant ruimtelijke ordening, bedoeld in artikel 6.2.5/1, § 1, eerste lid, 1°, behoudens een andersluidende beslissing van de Vlaamse Regering tot beëindiging van de aanstelling. De gewestelijke stedenbouwkundige inspecteur behoudt gedurende de gelijkstelling de hoedanigheid van officier van gerechtelijke politie, hulpofficier van de procureur des Konings, die hij eerder verkreeg op grond van artikel 6.1.5, vierde lid, zoals van kracht voor de inwerkingtreding van artikel 4 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning.<br>
+<br>
+De aanstelling als gewestelijke stedenbouwkundige inspecteur op grond van artikel 1.4.3, eerste lid, 1°, zoals van kracht voor de inwerkingtreding van artikel 4 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning, wordt voor de lopende duurtijd van deze aanstelling gelijkgesteld met de aanstelling als gewestelijk stedenbouwkundige inspecteur, bedoeld in artikel 1.4.9, tweede lid, behoudens een andersluidende beslissing van de Vlaamse Regering tot beëindiging van deze aanstelling.".<br>
+&nbsp;
+
+### ART 107.
+
+Aan titel VII, hoofdstuk VII, van dezelfde codex, het laatst gewijzigd bij het decreet van 3 februari 2017, wordt een artikel 7.7.11 toegevoegd, dat luidt als volgt:<br>
+"Art. 7.7.11. De zetelende leden van de Hoge Raad voor het Handhavingsbeleid, worden op de dag van de inwerkingtreding van artikel 61 van het decreet van 25 april 2014 betreffende de handhaving van de omgevingsvergunning, van rechtswege bekleed met een mandaat in de Hoge Raad voor de Handhavingsuitvoering, behoudens indien zij daar uitdrukkelijk van afzien. In dat geval wordt voor het openstaande mandaat een specifieke oproep tot de kandidaten georganiseerd.<br>
+<br>
+In afwijking van artikel 6.3.9, § 1, hebben de mandaten vermeld in het eerste lid, een duurtijd tot en met 24 juli 2020. Enkel de leden die worden aangeduid op grond van een specifieke oproep tot kandidaten worden aangeduid voor een volle en hernieuwbare termijn van vijf jaar.".<br>
 &nbsp;
 
 ## HOOFDSTUK 8 Wijzigingen van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges
