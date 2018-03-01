@@ -2,16 +2,16 @@
   "codex_id": 1007254,
   "title": "Besluit van de Vlaamse Regering van 2000-04-28 houdende de aanwijzing van ambtenaren die bevoegd zijn om de misdrijven op het gebied van de ruimtelijke ordening en stedenbouw op te sporen en vast te stellen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007254/VolledigDocument?datum=2016-09-01",
-  "source_sha256": "762ae0fb001dec501dcdfd38a8de3d90e4954ee3032fb7198971e14e17c590cf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007254/VolledigDocument?datum=2018-03-01",
+  "source_sha256": "1022d63ecc5b94af1018f9b40ed7c8f791a03ad187f013d6baa7b65132d94bfe",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007254&param=informatie",
-  "as_of": "2016-09-01",
+  "as_of": "2018-03-01",
   "made": "2000-04-28",
   "gazette": "2000-05-13",
   "numac": 2000035452,
   "document_start": "2000-05-01",
   "document_end": "2018-02-28",
-  "in_force": "2016-09-01",
+  "in_force": "2018-03-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-03-01; future article versions excluded; article text as the API gives it"
 }
