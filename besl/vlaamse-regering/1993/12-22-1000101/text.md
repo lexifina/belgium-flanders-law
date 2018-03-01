@@ -14,15 +14,44 @@ Er wordt een personeelsformatie vastgelegd als buitendienst van het&nbsp;Departe
 
 ### ART. 4.
 
-§ 1. Door de Vlaamse regering wordt, op voordracht van de Vlaamse   minister, bevoegd voor cultuur een bestuurscommissie opgericht. Deze commissie   wordt samengesteld volgens artikel 9, c van de wet van 16 juli 1973 waarbij de   bescherming van de ideologische en filosofische strekkingen wordt gewaarborgd en   bestaat uit 13 leden, deskundig om de doelstelling, bepaald in artikel 2 van dit   besluit te realiseren.<BR><BR>§ 2. De leden worden benoemd voor de duur van 4   jaar. Het lid dat benoemd wordt ter vervanging van een lid dat ontslag heeft   genomen of overleden is, voltooit het mandaat van zijn voorganger.<BR><BR>§ 3.   Uit deze leden wijst de Vlaamse regering een voorzitter en twee ondervoorzitters   aan.<BR><BR>§ 4. Uit de bevoegde administratie wordt een verantwoordelijke   ambtenaar aangewezen, die van rechtswege lid is.<BR><BR>§ 5. De directie van het   cultuur- en congrescentrum volgt de vergaderingen met raadgevende stem en neemt   het secretariaat waar.<BR><BR>§ 6. De bestuurscommissie kan afhankelijk van de   agenda andere deskundigen en ambtenaren uitnodigen en in het kader van de   programmering werkgroepen oprichten, bestaande uit eigen leden en   experten.
+§ 1. De Vlaamse Regering richt een bestuurscommissie op, op voordracht van de Vlaamse minister, bevoegd voor de culturele aangelegenheden. Die bestuurscommissie wordt samengesteld conform artikel 9, b), van de wet van 16 juli 1973, waarbij de bescherming van de ideologische en filosofische strekkingen gewaarborgd wordt. De bestuurscommissie bestaat uit tien leden die deskundig zijn om de opdracht, vermeld in artikel 5 van dit besluit, te realiseren.<br>
+<br>
+§ 2. De bestuurscommissie is als volgt samengesteld:<br>
+1° als vertegenwoordigers van de betrokken overheden:<br>
+a) één vertegenwoordiger van het hoofdbestuur van het Departement Cultuur, Jeugd en Media, die voorzitter is van de bestuurscommissie;<br>
+b) één vertegenwoordiger van de stad Bilzen;<br>
+c) één vertegenwoordiger van het agentschap Toerisme Vlaanderen;<br>
+d) één vertegenwoordiger van het Agentschap voor Natuur en Bos;<br>
+e) één vertegenwoordiger van het agentschap Facilitair Bedrijf;<br>
+2° als vertegenwoordigers van de gebruikers:<br>
+a) één vertegenwoordiger van de uitbater van het hotel in Alden Biesen;<br>
+b) één vertegenwoordiger van Musica vzw;<br>
+c) één vertegenwoordiger van Alden Biesen Zomeropera vzw;<br>
+d) één vertegenwoordiger van de projecten van het Strategisch Actieplan voor Limburg in het Kwadraat, die plaatsvinden in Alden Biesen;<br>
+e) één vertegenwoordiger van de andere gebruikers.<br>
+<br>
+§ 3. De leden worden benoemd voor vijf jaar. Het lid dat benoemd wordt ter vervanging van een lid dat ontslag heeft genomen of overleden is, voltooit het mandaat van zijn voorganger.<br>
+<br>
+§ 4. Uit de leden wijst de Vlaamse Regering twee ondervoorzitters aan.<br>
+<br>
+§ 5. De directeur van Alden Biesen volgt de vergaderingen met raadgevende stem en zorgt voor de notulering en het secretariaat.<br>
+<br>
+§ 6. De bestuurscommissie kan afhankelijk van de agenda andere deskundigen en personeelsleden uitnodigen en in het kader van de programmering werkgroepen oprichten die bestaan uit eigen leden en experten.
 
 ### ART. 5.
 
-§ 1. De bestuurscommissie heeft als opdracht:<BR>1. het uitwerken van een   programmering, waardoor de doelstelling van het cultuur- en congrescentrum zoals   bepaald in artikel 2 van dit besluit, gerealiseerd wordt;<BR>2. het vaststellen   van een huurreglement en tarief voor het gebruik van de infrastructuur, indien   de Vlaamse minister, bevoegd voor cultuur hiermee akkoord gaat;<BR>3. het   verlenen van adviezen, hetzij op verzoek hetzij op eigen initiatief, aan de   Vlaamse minister, bevoegd voor cultuur over alle aangelegenheden die op de   werking van het cultuur- en congrescentrum betrekking hebben.
+De bestuurscommissie heeft als opdracht mee invulling te geven aan de doelstellingen van Alden Biesen door:<br>
+1° de richtlijnen te bepalen voor de inplanning van activiteiten op de site met het oog op een optimale bezetting en toe te zien op de toepassing daarvan;<br>
+2° de communicatie te stroomlijnen over de activiteiten op de site van Alden Biesen;<br>
+3° toe te zien op het gebruik van de ruimtes, met speciale aandacht voor de veiligheid en de toegang.<br>
+<br>
+De zorg voor een evenwichtige totaalprogrammatie "Alden Biesen" is bij de invulling van de doelstellingen van Alden Biesen een constante.<br>
+<br>
+De kosten voor de werking van de bestuurscommissie worden aangerekend op de dienst met afzonderlijk beheer "het cultuur- en congrescentrum van de Vlaamse Gemeenschap Landcommanderij Alden Biesen in Bilzen.
 
 ### ART. 6.
 
-Om de opdracht, bepaald in artikel 5 van dit besluit te vervullen,   beschikt het centrum over de volgende middelen:<BR>a) de eigen inkomsten uit de   verhuur van de infrastructuur, de toegangsgelden voor de tuinen en   manifestaties, de opbrengsten van het restaurant en de cafetaria's van het   cultuur- en congrescentrum, de vergoedingen voor concessies, de verkoop van   boeken en souvenirs, de abonnementen op tijdschriften en giften of   sponsorgelden;<BR>b) kredieten op de algemene uitgavenbegroting van de Vlaamse   Gemeenschap met betrekking tot allerhande uitgaven voor de   werking.
+De minister, bevoegd voor de culturele aangelegenheden, kan regels vaststellen voor het gebruik van de infrastructuur van Alden Biesen.
 
 ### ART. 7.
 
