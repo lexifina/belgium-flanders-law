@@ -21,6 +21,11 @@ In artikel 16.2.7, § 2, eerste lid, van het decreet van 5 april 1995 houdende a
 1° in punt 4° worden de woorden "zes leden" vervangen door de woorden "zeven leden";<br>
 2° in punt 5° worden de woorden "twee leden" vervangen door de woorden "een lid".
 
+### ART. 4.
+
+Aan artikel 16.3.8 van hetzelfde decreet, ingevoegd bij het decreet van 21 december 2007 en gewijzigd bij het decreet van 30 april 2009, wordt een paragraaf 3 toegevoegd, die luidt als volgt :<br>
+" § 3. In afwijking van paragraaf 1 kunnen toezichthouders die toezicht uitoefenen op het decreet, met inbegrip van de uitvoeringsbesluiten, vermeld in artikel 16.1.1, eerste lid, 19° ter, en op titel V met inbegrip van de uitvoeringsbesluiten en die belast zijn met de uitvoering van de handhaving op het beleidsveld Ruimtelijke Ordening ook de hoedanigheid hebben van officier van gerechtelijke politie.".
+
 ## HOOFDSTUK 4 Wijzigingen inzake Wonen
 
 ### ART. 5.
@@ -32,6 +37,16 @@ In artikel 20, § 2, eerste lid, van het decreet van 15 juli 1997 houdende de Vl
 In artikel 29bis, § 8, van hetzelfde decreet, ingevoegd bij het decreet van 31 mei 2013, worden de woorden "het agentschap Inspectie RWO" vervangen door de woorden "de entiteit waartoe de toezichthouders behoren".
 
 ## HOOFDSTUK 5 Wijzigingen inzake Onroerend Erfgoed
+
+### ART. 7.
+
+In artikel 16.4.19 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, ingevoegd bij het decreet van 21 december 2007 en gewijzigd bij de decreten van 30 april 2009, 23 december 2010 en 4 april 2014, worden de volgende wijzigingen aangebracht :<br>
+1° het woord "Milieuhandhavingscollege" wordt telkens vervangen door het woord "handhavingscollege";<br>
+2° paragraaf 2 wordt vervangen door wat volgt :<br>
+`` § 2. Het handhavingscollege doet uitspraak over :<br>
+1° de beroepen die worden ingesteld tegen beslissingen van de gewestelijke entiteit over de oplegging van een alternatieve of een exclusieve bestuurlijke geldboete en, in voorkomend geval, een voordeelontneming als vermeld in hoofdstuk IV, afdeling IV;<br>
+2° de beroepen die worden ingesteld tegen beslissingen van de gewestelijke entiteit, vermeld in artikel 6.1.1, 2°, van de Vlaamse Codex Ruimtelijke Ordening, over de oplegging van een exclusieve of een alternatieve bestuurlijke geldboete als vermeld in artikel 6.2.2, 6.2.6 en 6.2.13, § 4, van die codex;<br>
+3° de beroepen die worden ingesteld tegen beslissingen van de inspecteur Onroerend Erfgoed over de oplegging van een exclusieve of een alternatieve bestuurlijke geldboete als vermeld in de artikelen 11.2.5 en 11.2.6 van het Onroerenderfgoeddecreet van 12 juli 2013.".
 
 ### ART. 8.
 
@@ -62,6 +77,11 @@ f) het niet melden van de aanvang van een archeologische opgraving, als vermeld 
 3° in punt 3° wordt de zinsnede "artikel 6.1.6, tweede lid, 1° " vervangen door de zinsnede "artikel 6.1.6, derde lid, 1° ";<br>
 4° punt 4° wordt vervangen door wat volgt :<br>
 "4° het niet melden van een wijziging van bewaarplaats of zakelijk rechthouder, als vermeld in artikel 5.2.2, en het niet melden van het voornemen, als vermeld in artikel 5.2.3.".
+
+### ART. 12.
+
+In artikel 11.2.5 van hetzelfde decreet wordt paragraaf 4 vervangen door wat volgt :<br>
+" § 4. Binnen een termijn van dertig dagen, te rekenen vanaf de datum waarop de beslissing van de inspecteur Onroerend Erfgoed tot het opleggen van een bestuurlijke geldboete aan de vermoedelijke overtreder ter kennis wordt gebracht, kan degene aan wie de boete werd opgelegd, beroep indienen bij het handhavingscollege, vermeld in artikel 16.4.19 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, volgens de procedure voorgeschreven in hoofdstuk 3, afdelingen 1 en 2, en hoofdstuk 4, afdelingen 1 en 2, van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges. Het beroep schorst de bestreden beslissing.''.
 
 ### ART. 13.
 
