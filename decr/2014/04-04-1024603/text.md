@@ -10,7 +10,7 @@ Dit decreet regelt een gemeenschaps- en   gewestaangelegenheid.<BR>
 
 In dit decreet wordt verstaan onder:<br>
 1° Vlaams bestuursrechtscollege: een van de volgende instanties:<br>
-a) het Milieuhandhavingscollege, opgericht bij artikel 16.4.19, § 1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
+a) het handhavingscollege, opgericht bij artikel 16.4.19, § 1, eerste lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
 b) de Raad voor Vergunningsbetwistingen, opgericht bij artikel 4.8.1 van de Vlaamse Codex Ruimtelijke Ordening en waaraan tevens bevoegdheden toegekend worden bij artikel 105 van het decreet van 25 april 2014 betreffende de omgevingsvergunning en artikel 43 van het Vlaams Onteigeningsdecreet van 24 februari 2017;<br>
 c) de Raad voor Verkiezingsbetwistingen, opgericht bij artikel 202 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011;<br>
 2° Vlaamse bestuursrechtscolleges: alle instanties, vermeld in punt 1°, samen;<br>
@@ -303,7 +303,7 @@ Het arrest van de Raad van State wordt door de zorg van de griffie   onmiddellij
 <br>
 § 2. De verzoekende partij die aantoont dat haar inkomsten ontoereikend zijn, is vrijgesteld van de betaling van enig rolrecht.<br>
 <br>
-De verzoekende partij richt daarvoor een verzoek aan het Milieuhandhavingscollege, gelijktijdig met de indiening van haar verzoekschrift.<br>
+De verzoekende partij richt daarvoor een verzoek aan het handhavingscollege, gelijktijdig met de indiening van haar verzoekschrift.<br>
 <br>
 Als de bewijsstukken, vermeld in het eerste lid, ontbreken, vraagt de griffier die bij beveiligde zending op bij de verzoekende partij.<br>
 <br>
@@ -346,7 +346,7 @@ De kosten omvatten:<br>
 <br>
 Wat de Raad voor Vergunningsbetwistingen betreft, omvatten de kosten ook het rolrecht en de rechtsplegingsvergoeding, vermeld in artikel 21, alsook de kosten, vermeld in artikel 42, § 5.<br>
 <br>
-Wat het Milieuhandhavingscollege betreft, omvatten de kosten ook het rolrecht, vermeld in artikel 31/1.</p>
+Wat het handhavingscollege betreft, omvatten de kosten ook het rolrecht, vermeld in artikel 31/1.</p>
 
 ## Afdeling 2 Bepalingen die van toepassing zijn op het [handhavingscollege (verv. decr. 25 april 2014, art. 143)] en de Raad voor Vergunningsbetwistingen
 
@@ -542,7 +542,7 @@ Bij het ontbreken van een bemiddelingsakkoord of als de Raad voor Vergunningsbet
 
 ### ART. 44.
 
-Na gehele of gedeeltelijke vernietiging kan het Milieuhandhavingscollege   zelf een beslissing nemen over het bedrag van de boete en, in voorkomend geval,   over de voordeelontneming, en bepalen dat zijn uitspraak daarover de vernietigde   beslissing vervangt.<BR>
+Na gehele of gedeeltelijke vernietiging kan het handhavingscollege zelf een beslissing nemen over het bedrag van de boete en, in voorkomend geval, over de voordeelontneming, en bepalen dat zijn uitspraak daarover de vernietigde beslissing vervangt.
 
 ## [Afdeling 5 Bepalingen die van toepassing zijn op de Raad voor betwistingen inzake studievoortgangsbeslissingen (ing. decr. 17 maart 2023, art. 23)]
 
@@ -798,7 +798,19 @@ In deel 4, titel 2, hoofdstuk 1, van hetzelfde decreet wordt afdeling 4,   die b
 
 ### ART. 91.
 
-<P>§ 1. De bestuursrechters die op de datum van inwerkingtreding van dit decreet   aangesteld zijn bij het Milieuhandhavingscollege, blijven aangesteld als   effectief of plaatsvervangend bestuursrechter bij hun rechtscollege met behoud   van de mandaatregeling en de bezoldigingsregeling die ze genoten overeenkomstig   de regeling die van toepassing was voor de datum van de inwerkingtreding van dit   decreet, totdat ze op rust worden gesteld, ontslag nemen of ontslag   krijgen.<BR></P>  <P>Uiterlijk negentig dagen voor het mandaat van de bestuursrechters, vermeld in   het eerste lid is verstreken, kan de Vlaamse Regering beslissen om het mandaat   van bestuursrechter niet te verlengen.<BR></P>  <P>De beslissing mag niet indruisen tegen de onafhankelijkheid van het   Milieuhandhavingscollege of van de individuele bestuursrechters ervan, noch   betrekking hebben op de inhoudelijke aspecten van de door het   Milieuhandhavingscollege genomen beslissingen. Als de Vlaamse Regering uiterlijk   negentig dagen voor het mandaat van de bestuursrechters, vermeld in het eerste   lid verstrijkt, geen beslissing neemt om het mandaat niet te verlengen, wordt   het mandaat stilzwijgend verlengd.<BR></P>  <P>§ 2. De bestuursrechters die op de datum van de inwerkingtreding van dit   decreet benoemd zijn bij de Raad voor Vergunningsbetwistingen, blijven benoemd   bij hun rechtscollege als bestuursrechter totdat ze op rust worden gesteld,   ontslag nemen of ontslag krijgen. Ze ontvangen een salaris in de schaal A311,   alsook de toelagen, vergoedingen en sociale voordelen, vermeld in deel VII van   het Vlaams personeelsstatuut van 13 januari 2006, met uitzondering van de   prestatietoelagen.<BR><BR>§ 3. De aanvullende bestuursrechters die op de datum   van inwerkingtreding van dit decreet tijdelijk aangesteld zijn bij de Raad voor   Vergunningsbetwistingen blijven aangesteld bij dit rechtscollege met behoud van   de bezoldigingsregeling die ze genoten overeenkomstig de regeling die van   toepassing was voor de datum van de inwerkingtreding van dit decreet totdat de   achterstand is weggewerkt of totdat ze ontslag nemen.<BR><BR>§ 4. De   voorzitters, de raadsleden en de plaatsvervangers die op de datum van de   inwerkingtreding van dit decreet benoemd zijn bij de Raad voor   Verkiezingsbetwistingen, blijven benoemd bij hun rechtscollege met behoud van de   bezoldigingsregeling die ze genoten overeenkomstig de regeling die van   toepassing was voor de datum van de inwerkingtreding van dit decreet tot 1 maart   van het jaar waarin de lokale en provinciale verkiezingen plaatsvinden.<BR></P>  <P>In afwijking van artikel 49, § 2, kan de Vlaamse Regering de   bestuursrechters, vermeld in het eerste lid van deze paragraaf, vanaf 1 maart   van het jaar waarin de lokale en provinciale verkiezingen plaatsvinden, benoemen   als aanvullend bestuursrechter bij de Raad voor Verkiezingsbetwistingen voor een   periode van zes jaar, die hernieuwbaar is met behoud van de bezoldigingsregeling   die ze genoten overeenkomstig de regeling die van toepassing was voor de datum   van de inwerkingtreding van dit decreet.<BR></P>
+<p>§ 1. De bestuursrechters die op de datum van inwerkingtreding van dit decreet aangesteld zijn bij het handhavingscollege, blijven aangesteld als effectief of plaatsvervangend bestuursrechter bij hun rechtscollege met behoud van de mandaatregeling en de bezoldigingsregeling die ze genoten overeenkomstig de regeling die van toepassing was voor de datum van de inwerkingtreding van dit decreet, totdat ze op rust worden gesteld, ontslag nemen of ontslag krijgen.</p>
+
+<p>Uiterlijk negentig dagen voor het mandaat van de bestuursrechters, vermeld in het eerste lid is verstreken, kan de Vlaamse Regering beslissen om het mandaat van bestuursrechter niet te verlengen.</p>
+
+<p>De beslissing mag niet indruisen tegen de onafhankelijkheid van het handhavingscollege of van de individuele bestuursrechters ervan, noch betrekking hebben op de inhoudelijke aspecten van de door het handhavingscollege genomen beslissingen. Als de Vlaamse Regering uiterlijk negentig dagen voor het mandaat van de bestuursrechters, vermeld in het eerste lid verstrijkt, geen beslissing neemt om het mandaat niet te verlengen, wordt het mandaat stilzwijgend verlengd.</p>
+
+<p>§ 2. De bestuursrechters die op de datum van de inwerkingtreding van dit decreet benoemd zijn bij de Raad voor Vergunningsbetwistingen, blijven benoemd bij hun rechtscollege als bestuursrechter&nbsp;totdat ze op rust worden gesteld, ontslag nemen of ontslag krijgen. Ze ontvangen een salaris in de schaal A311, alsook de toelagen, vergoedingen en sociale voordelen, vermeld in deel VII van het Vlaams personeelsstatuut van 13 januari 2006, met uitzondering van de prestatietoelagen.<br>
+<br>
+§ 3. De aanvullende bestuursrechters die op de datum van inwerkingtreding van dit decreet tijdelijk aangesteld zijn bij de Raad voor Vergunningsbetwistingen blijven aangesteld bij dit rechtscollege met behoud van de bezoldigingsregeling die ze genoten overeenkomstig de regeling die van toepassing was voor de datum van de inwerkingtreding van dit decreet totdat de achterstand is weggewerkt of totdat ze ontslag nemen.<br>
+<br>
+§ 4. De voorzitters, de raadsleden en de plaatsvervangers die op de datum van de inwerkingtreding van dit decreet benoemd zijn bij de Raad voor Verkiezingsbetwistingen, blijven benoemd bij hun rechtscollege met behoud van de bezoldigingsregeling die ze genoten overeenkomstig de regeling die van toepassing was voor de datum van de inwerkingtreding van dit decreet tot 1 maart van het jaar waarin de lokale en provinciale verkiezingen plaatsvinden.<br>
+<br>
+In afwijking van artikel 49, § 2, kan de Vlaamse Regering de bestuursrechters, vermeld in het eerste lid van deze paragraaf, vanaf 1 maart van het jaar waarin de lokale en provinciale verkiezingen plaatsvinden, benoemen als aanvullend bestuursrechter bij de Raad voor Verkiezingsbetwistingen voor een periode van zes jaar, die hernieuwbaar is met behoud van de bezoldigingsregeling die ze genoten overeenkomstig de regeling die van toepassing was voor de datum van de inwerkingtreding van dit decreet.</p>
 
 ### ART. 92.
 
