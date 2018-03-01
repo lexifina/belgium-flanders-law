@@ -2,16 +2,16 @@
   "codex_id": 1007480,
   "title": "Besluit van de Vlaamse Regering van 2000-05-19 tot vaststelling van de voorwaarden waaraan personen moeten voldoen om als ambtenaar van ruimtelijke ordening te kunnen worden aangesteld",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007480/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "78a31c39912d89acba5b89d24ce804a2e4fbdf1b5d5d523e9b6065c3ce7cc13b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007480/VolledigDocument?datum=2018-03-01",
+  "source_sha256": "cf97630d41114d3b59b71960e3db4edd0c57d169bb4dab15a212ee0438b8d206",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007480&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2018-03-01",
   "made": "2000-05-19",
   "gazette": "2000-07-28",
   "numac": 2000035552,
   "document_start": "2000-05-01",
   "document_end": "2017-02-22",
-  "in_force": "2017-04-01",
+  "in_force": "2018-03-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-03-01; future article versions excluded; article text as the API gives it"
 }

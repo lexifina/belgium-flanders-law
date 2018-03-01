@@ -57,11 +57,7 @@ In afwijking van het eerste lid kunnen ook personeelsleden die niet het vereiste
 
 ### ART. 9.
 
-De minister stelt per provincie minstens twee ambtenaren van niveau A aan als gewestelijk stedenbouwkundig inspecteur. Die ambtenaren komen uit de afdeling die belast is met de uitvoering van handhavingstaken op het beleidsveld ruimtelijke ordening en beschikken over een goede kennis van het justitiële apparaat en van het strafprocesrecht.<br>
-<br>
-Het aanstellingsbesluit vermeldt een termijn van maximaal zes jaar en het werkgebied van de aangestelde inspecteurs. Het aanstellingsbesluit wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
-<br>
-De aanstelling is hernieuwbaar. Ze kan op elk ogenblik worden beëindigd, hetzij op verzoek van de betrokkene, hetzij op initiatief van de minister.
+...
 
 ## HOOFDSTUK III DE PROVINCIALE STEDENBOUWKUNDIGE AMBTENAREN
 
