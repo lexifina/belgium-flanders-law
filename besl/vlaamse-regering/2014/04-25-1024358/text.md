@@ -24,17 +24,35 @@ Dit besluit past in de strategische doelstelling om   bedrijfshuisvestingsprojec
 
 ### ART. 3.
 
-<P>§ 1. Een incubator is een rechtspersoon met als uitdrukkelijk maar niet   noodzakelijk enig statutair doel de uitbating van een bedrijfsverzamelgebouw,   gericht op starters die activiteiten ontplooien gerelateerd aan   O&amp;O-activiteiten of starters met een substantieel aandeel   O&amp;O-activiteiten in de bedrijfsactiviteiten. Elke incubator biedt ter   plaatse begeleiding, ondersteuning en vormen van netwerking op maat van de   O&amp;O-starters aan voor de bedrijven die gehuisvest zijn in het   bedrijfsverzamelgebouw van de incubator en voldoet aan minstens één van de twee   volgende voorwaarden :<BR>1° het bedrijfsverzamelgebouw van de incubator bevindt   zich op of grenst aan een wetenschapspark, een campus van een universiteit of   hogeschool, of ligt nabij een kennisinstelling;<BR>2° het bedrijfsverzamelgebouw   van de incubator is mee opgericht en wordt meebeheerd door de beheerder van een   wetenschapspark, een universiteit of een kennisinstelling.<BR></P>  <P>§ 2. Om als medeoprichter en medebeheerder van een incubator respectievelijk   het bedrijfsverzamelgebouw van de incubator als vermeld in paragraaf 1, te   worden beschouwd, is een financiële participatie van minstens 5 % in het   maatschappelijk kapitaal van de incubator vereist, of een contractuele   overeenkomst tussen de incubator en de medeoprichter en medebeheerder waarin de   rol en taken als medebeheerder uitdrukkelijk zijn vermeld.<BR></P>  <P>§ 3. Aan de verplichting van het ter plaatse aanbieden van begeleiding,   ondersteuning of vormen van netwerking zoals vermeld in artikel 3, § 1 wordt   voldaan via een van de volgende mogelijkheden :<BR>1° als deze dienstverlening   wordt aangeboden door de incubator aan de O&amp;O-starters die gehuisvest zijn   in het bedrijfsverzamelgebouw van de incubator;<BR>2° als deze dienstverlening   wordt aangeboden door een medebeheerder van de incubator aan de O&amp;O-starters   die gehuisvest zijn in het bedrijfsverzamelgebouw van de incubator;<BR>3° als   deze dienstverlening wordt aangeboden aan de starters en bedrijven van het   O&amp;O-vestigingsmilieu waar het bedrijfsverzamelgebouw van de incubator deel   van uitmaakt, ongeacht of deze dienstverlening door de incubator zelf of door   een medebeheerder ervan wordt aangeboden.<BR></P>  <P>In het eerste lid wordt verstaan onder O&amp;O-vestigingsmilieu : een   bedrijventerrein, wetenschapspark, campus - al dan niet met een   bedrijfsverzamelgebouw van de incubator erop gevestigd - of een cluster van   bedrijven dat zich doelbewust profileert om onderzoeksintensieve bedrijven aan   te trekken.<BR></P>  <P>§ 4. Niettegenstaande de begeleiding, ondersteuning en de vormen van   netwerking op maat van O&amp;O-starters moeten worden aangeboden, is het   toegelaten in het bedrijfsverzamelgebouw van de incubator een mix van   O&amp;O-starters en meer mature onderzoeksintensieve bedrijven te hebben. Als   dit bedrijfsverzamelgebouw volzet is of dreigt te worden, neemt de incubator   maatregelen om de meer mature bedrijven aan te zetten tot   verhuizen.<BR></P>
+<p>§ 1. Een incubator is een rechtspersoon met als uitdrukkelijk maar niet noodzakelijk enig statutair doel de uitbating van een bedrijfsverzamelgebouw, gericht op starters&nbsp; met een substantieel aandeel O&amp;O-activiteiten in de bedrijfsactiviteiten. Elke incubator biedt ter plaatse begeleiding, ondersteuning en vormen van netwerking op maat van de O&amp;O-starters aan voor de bedrijven die gehuisvest zijn in het bedrijfsverzamelgebouw van de incubator en voldoet aan elk van de volgende voorwaarden:<br>
+1° het bedrijfsverzamelgebouw van de incubator bevindt zich op of grenst aan een wetenschapspark, een campus van een universiteit of hogeschool, of ligt nabij een kennisinstelling;<br>
+2° het bedrijfsverzamelgebouw van de incubator is mee opgericht en wordt meebeheerd door een TechTransferdienst of een Strategisch Onderzoekscentrum;<br>
+3° het bedrijfsverzamelgebouw omvat specifieke infrastructuur waarvan de belangrijkste finaliteit het mogelijk maken van O&amp;O-activiteiten is.</p>
+
+<p>&nbsp;§ 2. Om als medeoprichter van een incubator beschouwd te worden is een financiële participatie van minstens 5% in het maatschappelijk kapitaal van de incubator vereist.<br>
+<br>
+Om als medebeheerder van het bedrijfsverzamelgebouw van de incubator beschouwd te worden moet er een overeenkomst zijn waarin de rol, taken en bijdrage aan de specifieke functie van de incubator uitdrukkelijk worden toegelicht.</p>
+
+<p>§ 3. Aan de verplichting van het ter plaatse aanbieden van begeleiding, ondersteuning of vormen van netwerking zoals vermeld in artikel 3, § 1 wordt voldaan via een van de volgende mogelijkheden :<br>
+1° als deze dienstverlening wordt aangeboden door de incubator aan de O&amp;O-starters die gehuisvest zijn in het bedrijfsverzamelgebouw van de incubator;<br>
+2° als deze dienstverlening wordt aangeboden door een medebeheerder van de incubator aan de O&amp;O-starters die gehuisvest zijn in het bedrijfsverzamelgebouw van de incubator;<br>
+3° als deze dienstverlening wordt aangeboden aan de starters en bedrijven van het O&amp;O-vestigingsmilieu waar het bedrijfsverzamelgebouw van de incubator deel van uitmaakt, ongeacht of deze dienstverlening door de incubator zelf of door een medebeheerder ervan wordt aangeboden.</p>
+
+<p>In het eerste lid wordt verstaan onder O&amp;O-vestigingsmilieu : een bedrijventerrein, wetenschapspark, campus - al dan niet met een bedrijfsverzamelgebouw van de incubator erop gevestigd - of een cluster van bedrijven dat zich doelbewust profileert om onderzoeksintensieve bedrijven aan te trekken.</p>
+
+<p>§ 4. Niettegenstaande de begeleiding, ondersteuning en de vormen van netwerking op maat van O&amp;O-starters moeten worden aangeboden, is het toegelaten in het bedrijfsverzamelgebouw van de incubator een mix van O&amp;O-starters en meer mature onderzoeksintensieve bedrijven te hebben. Als dit bedrijfsverzamelgebouw volzet is of dreigt te worden, neemt de incubator maatregelen om de meer mature bedrijven aan te zetten tot verhuizen.</p>
 
 ### ART. 4.
 
-<P>§ 1. De minister beslist over de erkenning van een incubator op advies van   het agentschap, dat hierover overlegt met het departement. De   administrateur-generaal van het agentschap kan een formulier voor de aanvraag   tot erkenning als incubator vaststellen.<BR></P>  <P>§ 2. Een erkenning kan plaatsvinden naar aanleiding van een aanvraag van een   subsidie voor de oprichting, uitbreiding, modernisering of (her)inrichting van   een incubator. De bekrachtiging van de ontvankelijkheid van de subsidieaanvraag   door de minister geldt als erkenning.<BR></P>  <P>§ 3. Een incubator kan ook een aanvraag tot erkenning indienen zonder dat het   gepaard gaat met een aanvraag van een subsidie.<BR></P>  <P>In dat geval kan de minister de incubator erkennen onder de opschortende   voorwaarde dat er een convenant wordt gesloten tussen minstens de minister en de   aanvrager van de erkenning als incubator. Als de erkenning afhankelijk wordt   gesteld van de voorwaarde van het sluiten van een convenant, kan de minister het   agentschap de opdracht geven een dergelijk convenant voor te bereiden om   informatie uit te wisselen en, in voorkomend geval, afspraken te maken over   :<BR>1° geplande investeringen door de incubator;<BR>2° het beheer van de   incubator met inbegrip van de ombudsfunctie en de ondersteuning, begeleiding en   vormen van netwerking op maat van de O&amp;O-starters die moet worden   aangeboden;<BR>3° de georganiseerde netwerking met andere incubatoren;<BR>4° de   samenwerking met instanties binnen de Vlaamse overheid.<BR></P>
+...
 
 ## Afdeling 2 Begunstigden
 
 ### ART. 5.
 
-De volgende instanties kunnen de subsidie genieten :<BR>1° een erkende   incubator;<BR>2° een universiteit, kennisinstelling of beheerder van een   wetenschapspark die medebeheerder zijn van de incubator voor zover de incubator   nog niet is opgericht of erkend en met dien verstande dat de gesubsidieerde   infrastructuur naderhand wordt overgedragen aan de incubator.<BR>
+De volgende instanties kunnen de subsidie genieten :<br>
+1° een&nbsp;incubator;<br>
+2° een TechTransferdienst of een Strategisch Onderzoekscentrum die medebeheerder zijn van de incubator voor zover de incubator nog niet is opgericht of erkend en met dien verstande dat de gesubsidieerde infrastructuur naderhand wordt overgedragen aan de incubator.
 
 ### ART. 6.
 
@@ -46,7 +64,9 @@ Elke rechtspersoon die voor minimaal 5 % participeert in het   maatschappelijk k
 
 ### ART. 7.
 
-<P>De ruimten en lokalen van de incubator worden via huur of concessie ter   beschikking gesteld van starters en ondernemingen. Deze huurprijs of   concessievergoeding weerspiegelt de marktprijs. Als een gedeelte van de   incubator wordt verhuurd aan andere instanties dan starters en ondernemingen,   wordt het subsidiebedrag pro rata verminderd naargelang de oppervlakte die de   andere instanties in de incubator innemen, tenzij de oppervlakte ingenomen wordt   door onderzoeksinfrastructuur in het kader van een   open-innovatieplatform.<BR></P>  <P>Op straffe van terugvordering van de subsidie blijft de incubator of het   gedeelte ervan waarvoor subsidies zijn toegekend, gedurende minstens vijf jaar   vanaf de datum van de betekening van de toekenning van de subsidie functioneren   als incubator als vermeld in artikel 3.<BR></P>
+<p>De ruimten en lokalen van de incubator worden ter beschikking gesteld aan starters en ondernemingen. De huurprijs of dienstenovereenkomst weerspiegelt de marktprijs. Als een gedeelte van de incubator wordt ter beschikking gesteld via huur of een dienstenovereenkomst aan andere instanties dan starters en ondernemingen, wordt het subsidiebedrag pro rata verminderd naargelang de oppervlakte die de andere instanties in de incubator innemen, tenzij de oppervlakte ingenomen wordt door onderzoeksinfrastructuur in het kader van een open-innovatieplatform.</p>
+
+<p>Op straffe van terugvordering van de subsidie blijft de incubator of het gedeelte ervan waarvoor subsidies zijn toegekend, gedurende minstens vijf jaar vanaf de datum van de betekening van de toekenning van de subsidie functioneren als incubator als vermeld in artikel 3.</p>
 
 ### ART. 8.
 
@@ -56,25 +76,32 @@ Elke rechtspersoon die voor minimaal 5 % participeert in het   maatschappelijk k
 
 ### ART. 9.
 
-<P>Binnen de perken van het beschikbare begrotingskrediet zijn voor de   oprichting, uitbreiding, modernisering of (her)inrichting van een erkende   incubator de geraamde kosten met betrekking tot de volgende werken subsidiabel   :<BR>1° de verwerving van een gebouw, de bouw of verbouwing van het   bedrijfsverzamelgebouw dat als incubator zal fungeren;<BR>2° de inrichting van   de kavel waarop het bedrijfsverzamelgebouw van de incubator is gevestigd zoals   een parkeerterrein enzovoort;<BR>3° de uitrusting en (her)inrichting van het   gebouw en alle (onderzoeks)infrastructuur die onroerend is door   bestemming.<BR></P>  <P>Kosten die dateren van de periode voor de subsidieaanvraag, zijn niet   subsidiabel.<BR></P>
+<p>Binnen de perken van het beschikbare begrotingskrediet zijn voor de oprichting, uitbreiding, modernisering of (her)inrichting van een&nbsp;incubator de geraamde kosten met betrekking tot de volgende werken subsidiabel :<br>
+1° de verwerving van een gebouw, de bouw of verbouwing van het bedrijfsverzamelgebouw dat als incubator zal fungeren;<br>
+2° de inrichting van de kavel waarop het bedrijfsverzamelgebouw van de incubator is gevestigd zoals een parkeerterrein enzovoort;<br>
+3° de uitrusting en (her)inrichting van het gebouw en alle (onderzoeks)infrastructuur die onroerend is door bestemming.</p>
+
+<p>Kosten die dateren van de periode voor de subsidieaanvraag, zijn niet subsidiabel.</p>
 
 ### ART. 10.
 
-<P>Voor de organisatie van het beheer van de erkende incubator, van een   ombudsfunctie en van de ondersteuning, begeleiding en vormen van netwerking op   maat van een O&amp;O-starter die geboden worden aan de bedrijven die er   gehuisvest zijn, kan de minister, binnen de perken van het begrotingskrediet,   een subsidie toekennen voor de personeelskosten, voor zover die kosten   betrekking hebben op het voor het eerst voorzien of het opwaarderen van de   bestaande dienstverlening tot een volwaardig geheel van taken zoals opgesomd in   dit lid.<BR></P>  <P>De incubator rekent voor de ondersteuning, begeleiding en de vormen van   netwerking die aan de O&amp;O-starters in het bedrijfsverzamelgebouw van de   incubator worden aangeboden, de markprijs en indien geen marktprijs kan worden   vastgesteld, een prijs die de directe kosten van de dienstverlening dekt met   daarenboven een redelijke winstmarge.<BR></P>
+...
 
 ## Afdeling 3 Steunpercentage(s) en maximale steun
 
 ### ART. 11.
 
-<P>Voor de aanvaarde subsidiabele werken, vermeld in artikel 9, eerste lid, is   :<BR>1° ofwel een subsidiepercentage van 25 % van toepassing als de incubator   een KMO is in de zin van de Europese KMO-definitie, zoals opgenomen in de   vrijstellingsverordening, of een universiteit, kennisinstelling of beheerder van   een wetenschapspark of de overheid de meerderheidsaandeelhouder is;<BR>2° ofwel   een subsidiepercentage van 15 % van toepassing als de incubator een grote   onderneming is in de zin van de Europese KMO-definitie, zoals opgenomen in de   vrijstellingsverordening.<BR></P>
+<p>Voor de aanvaarde subsidiabele werken, vermeld in artikel 9, eerste lid, is :<br>
+1° een subsidiepercentage van 25 % van toepassing als de incubator een KMO is in de zin van de Europese KMO-definitie, zoals opgenomen in de vrijstellingsverordening, of&nbsp;een TechTransferdienst of een Strategisch Onderzoekscentrum of de overheid de meerderheidsaandeelhouder is;<br>
+2° ofwel een subsidiepercentage van 15 % van toepassing als de incubator een grote onderneming is in de zin van de Europese KMO-definitie, zoals opgenomen in de vrijstellingsverordening.</p>
 
 ### ART. 12.
 
-<P>De subsidie bedraagt maximaal 500.000 euro. Dat plafond kan opgetrokken   worden tot 1.000.000 euro voor een van de volgende erkende incubatoren :<BR>1°   erkende incubatoren met een welbepaalde sectorfocus en daarop gebaseerde   selectieve huisvesting van O&amp;O-starters;<BR>2° erkende incubatoren die ook   fungeren als een open-innovatieplatform.<BR></P>  <P>In geval van uitbreiding, modernisering of herinrichting van een erkende   incubator worden alle subsidiebedragen die op basis van dit besluit toegekend   worden, binnen drie jaar na een initiële of eerdere toekenning, bij elkaar   opgeteld. Het bedrag dat zo verkregen wordt, mag het subsidieplafond niet   overschrijden. De periode van drie jaar is een voortschrijdende periode zodat   telkens alle toegekende steun over drie opeenvolgende jaren samengeteld moet   worden.<BR></P>
+Over een periode van 3 jaar kan maximaal 1.000.000 euro steun toegekend worden. De periode van drie jaar is een voortschrijdende periode zodat telkens alle toegekende steun over drie opeenvolgende jaren samengeteld moet worden.
 
 ### ART. 13.
 
-<P>De minister kan eenmalig, binnen de perken van het begrotingskrediet, een   subsidie toekennen voor het beheer van maximaal 50 % van de bewezen   personeelskosten, vermeld in artikel 10, die de erkende incubator of een of meer   van de medebeheerders gedurende een periode van vijf jaar maken, tot maximaal   100.000 euro. De periode van vijf jaar is vrij te kiezen.<BR></P>  <P>De subsidie voor de kosten van het personeel, vermeld in het eerste lid,   belast met de taken, vermeld in artikel 10, kan niet worden gecumuleerd met de   subsidies die al op basis van andere overheidsreglementeringen of in het kader   van gesubsidieerde projecten voor de personeelskosten worden   genoten.<BR></P>
+...
 
 ## HOOFDSTUK 4 Procedure
 
@@ -82,21 +109,35 @@ Elke rechtspersoon die voor minimaal 5 % participeert in het   maatschappelijk k
 
 ### ART. 14.
 
-<P>De subsidie wordt aangevraagd op voorlegging van een dossier.<BR></P>  <P>De administrateur-generaal van het agentschap kan, in overleg met het   departement, bepalen welke elementen een aanvraagdossier moet bevatten en aan   welke vormvereisten het aanvraagdossier moet voldoen.<BR></P>
+<p>De subsidie wordt aangevraagd op voorlegging van een dossier.</p>
+
+<p>De administrateur-generaal van het agentschap kan bepalen welke elementen een aanvraagdossier moet bevatten en aan welke vormvereisten het aanvraagdossier moet voldoen.</p>
 
 ### ART. 15.
 
-Voor elk aanvraagdossier beslist de minister op advies van het agentschap,   dat hierover overlegt met het departement, over de volgende zaken :<BR>1° de   ontvankelijkheid van het aanvraagdossier;<BR>2° als dat van toepassing is, de   subsidiabele kosten, het subsidiebedrag voor alle subsidiabele kosten en het   totale maximale subsidiebedrag voor de investeringskosten;<BR>3° als dat van   toepassing is, de maximale subsidie voor het beheer;<BR>4° de eventuele   bijkomende voorwaarden.<BR>
+Voor elk aanvraagdossier beslist de minister op advies van het agentschap, over de volgende zaken :<br>
+1° de ontvankelijkheid van het aanvraagdossier;<br>
+2° als dat van toepassing is, de subsidiabele kosten, het subsidiebedrag voor alle subsidiabele kosten en het totale maximale subsidiebedrag voor de investeringskosten;<br>
+3° ...;<br>
+4° de eventuele bijkomende voorwaarden.
 
 ## Afdeling 2 Uitbetaling
 
 ### ART. 16.
 
-<P>Zowel voor de toegekende subsidie voor de investeringskosten als voor de   subsidie voor het beheer en het beheercomité zijn twee voorschotten mogelijk van   telkens 30 % van het toegekende subsidiebedrag.<BR></P>  <P>Het eerste voorschot kan worden aangevraagd onmiddellijk na de betekening van   de subsidie en uiterlijk in het jaar dat volgt op het jaar van de   betekening.<BR></P>  <P>Het tweede voorschot kan worden aangevraagd zodra aangetoond kan worden dat   80 % van het eerste voorschot is besteed.<BR></P>
+<p>Voor de toegekende subsidie voor de investeringskosten zijn twee voorschotten mogelijk van telkens 30% van het toegekende subsidiebedrag.</p>
+
+<p>Het eerste voorschot kan worden aangevraagd onmiddellijk na de start van het project en uiterlijk in het jaar dat volgt op het jaar van de betekening.</p>
+
+<p>Het tweede voorschot kan worden aangevraagd zodra aangetoond kan worden dat 80 % van het eerste voorschot is besteed.</p>
 
 ### ART. 17.
 
-<P>§ 1. Het saldo wordt aangevraagd uiterlijk een jaar na de beëindiging van de   werken voor de investeringskosten en uiterlijk een jaar na het verlopen van de   periode van vijf jaar waarvoor personeelskosten voor het beheer in rekening   worden gebracht.<BR></P>  <P>Het saldo wordt berekend op basis van de reële en bewezen uitgaven. Het saldo   kan geen aanleiding geven tot een overschrijding van de toegekende maximale   subsidie.<BR></P>  <P>§ 2. Indien conform artikel 5, 2° niet de incubator zelf maar een   universiteit, kennisinstelling of beheerder van een wetenschapspark de   begunstigde van de subsidie is, wordt ook na de uitbetaling van het saldo nog   een controle uitgevoerd om te verifiëren dat de gesubsidieerde infrastructuur is   overgedragen aan de incubator.<BR></P>
+<p>§ 1. Het saldo wordt aangevraagd uiterlijk een jaar na de beëindiging van de werken voor de investeringskosten.</p>
+
+<p>Het saldo wordt berekend op basis van de reële en bewezen uitgaven. Het saldo kan geen aanleiding geven tot een overschrijding van de toegekende maximale subsidie.</p>
+
+<p>§ 2. Indien conform artikel 5, 2° niet de incubator zelf maar een Tech Transferdienst of een Strategisch Onderzoekscentrum de begunstigde van de subsidie is, wordt ook na de uitbetaling van het saldo nog een controle uitgevoerd om te verifiëren dat de gesubsidieerde infrastructuur overgedragen is aan de incubator.</p>
 
 ## HOOFDSTUK 5 Slotbepalingen
 
