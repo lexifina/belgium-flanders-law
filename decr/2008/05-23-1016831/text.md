@@ -62,7 +62,7 @@ Er worden fondsen ten belope van 177,52 miljoen euro van de NV Limburgse Reconve
 
 ### ART. 12.
 
-Voor zover de bevoegde organen van de LRM beslissen over te gaan tot een winstuitkering, wordt het bedrag daarvan dat toekomt aan het Vlaamse Gewest overgedragen aan de provincie Limburg.<br /><br />Indien het tot een valorisatie komt van de LRM of één van zijn dochters of bedrijfsunits zal de opbrengst hiervan die toekomt aan het Vlaamse Gewest exclusief voorbehouden worden voor grote maatschappelijke uitdagingen die zich dan aandienen in de provincie Limburg.
+<P>...</P>
 
 ## Afdeling III. Slotbepalingen
 
