@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029005,
+  "title": "Besluit van de Vlaamse Regering van 2018-01-26 tot wijziging van het besluit van de Vlaamse Regering van 19 juli 2002 houdende vaststelling van de kiesprocedure voor de Raad van het Gemeenschapsonderwijs, wat betreft de termijnen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029005/VolledigDocument?datum=2018-03-01",
+  "source_sha256": "99930753c6392e96e389f2ea88b79776663e27fedcb9a32f6f3fa046916efd56",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029005&param=informatie",
+  "as_of": "2018-03-01",
+  "made": "2018-01-26",
+  "gazette": "2018-02-12",
+  "numac": 2018010585,
+  "document_start": "2018-03-01",
+  "document_end": null,
+  "in_force": "2018-03-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2018-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
