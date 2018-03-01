@@ -2139,7 +2139,38 @@ De bevoegde instantie brengt tweejaarlijks, vanaf de datum van inwerkingtreding 
 
 ### ART. 16.1.1.
 
-De bepalingen van deze titel zijn van toepassing op de hiernavolgende   wetten en decreten, wat betreft de bevoegdheden van het Vlaamse Gewest, met   inbegrip van de uitvoeringsbesluiten ervan en de verplichtingen opgelegd   krachtens de volgende wetten en decreten en de uitvoeringsbesluiten ervan :   <BR>1° alle andere titels van dit decreet, met uitzondering van titel I -   Algemene bepalingen, titel II - Besluitvorming en inspraak, titel X -   Agentschappen, titel XI - Strategische Adviesraden en titel VIII -   Klimaat;<BR>2° het Boswetboek van 19 december 1854;<BR>3° de wet van 1 juli 1954   op de riviervisserij;<BR>4° de Jachtwet van 28 februari 1882;<BR>5° de wet van   28 december 1964 betreffende de bestrijding van de luchtverontreiniging;<BR>6°   de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen   verontreiniging, met uitsluiting van hoofdstuk IV, afdeling IV, en hoofdstuk VI,   van deze titel voor wat de overtredingen van hoofdstuk IIIbis en de   uitvoeringsbesluiten ervan betreft;<BR>6°/1 de wet van 2 april 1971 betreffende   de bestrijding van voor planten en plantaardige producten schadelijke   organismen; <BR>7° de wet van 12 juli 1973 op het natuurbehoud;<BR>8° de wet van   18 juli 1973 betreffende de bestrijding van de geluidshinder;<BR>9° de wet van   10 januari 1977 houdende regeling van de schadeloosstelling voor schade   veroorzaakt door het winnen en het pompen van grondwater;<BR>10° het decreet van   23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en   afvalstoffen; <BR>11° de wet van 28 juli 1981 houdende goedkeuring van de   Overeenkomst inzake de internationale handel in bedreigde in het wild levende   dier- en plantensoorten, en van de Bijlagen, opgemaakt te Washington op 3 maart   1973;<BR>12° het decreet van 24 januari 1984 houdende maatregelen inzake het   grondwaterbeheer, met uitsluiting van hoofdstuk IV, afdeling IV, en hoofdstuk   VI, van deze titel voor wat de overtredingen van hoofdstuk IVbis en de   uitvoeringsbesluiten ervan betreft;<BR>13° het decreet van 28 juni 1985   betreffende de milieuvergunning;<BR>13°bis de wet van 12 juli 1985 betreffende   de bescherming van de mens en van het leefmilieu tegen de schadelijke effecten   en de hinder van niet-ioniserende stralingen, infrasonen en ultrasonen;<BR>14°   het Bosdecreet van 13 juni 1990;<BR>15° het Jachtdecreet van 24 juli   1991;<BR>16° het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu;<BR>17° het decreet van 4 april 2003 betreffende de   oppervlaktedelfstoffen;<BR>17°bis het decreet van 18 juni 2003 betreffende het   integraal waterbeleid, wat betreft artikel 8, 10 tot en met 17 en artikel 62 en   70 van titel I; <BR>18° het decreet van 27 oktober 2006 betreffende de   bodemsanering en de bodembescherming;<BR>19° het decreet van 22 december 2006   houdende de bescherming van water tegen de verontreiniging door nitraten uit   agrarische bronnen, met behoud van de toepassing van artikel 61, § 2, van dat   decreet;<BR>19°bis het decreet van 8 mei 2009 betreffende de diepe   ondergrond;<BR>20° de door de Vlaamse Regering aangewezen milieuregelgeving van   de Europese Unie en internationale milieuregelgeving;<BR>21° het decreet van 8   februari 2013 houdende duurzaam gebruik van pesticiden in het Vlaamse   Gewest;<BR>22° het decreet van 28 maart 2014 betreffende de preventie,   surveillance en bestrijding van ziekten bij in het wild levende   dieren.<BR><BR>In afwijking van het eerste lid zijn de hoofdstukken III, IV, V,   Vbis, VI en VII van deze titel pas van toepassing op de in het eerste lid sub   2°, 3°, 4°, 7°, 11°, 14°, 15°, 16°, 17° en 19° vermelde wetten en decreten, met   inbegrip van hun respectieve uitvoeringsbesluiten, op het ogenblik dat de   Vlaamse Regering dit bepaalt.
+De bepalingen van deze titel zijn van toepassing op de hiernavolgende wetten en decreten, wat betreft de bevoegdheden van het Vlaamse Gewest, met inbegrip van de uitvoeringsbesluiten ervan en de verplichtingen opgelegd krachtens de volgende wetten en decreten en de uitvoeringsbesluiten ervan :<br>
+1° alle andere titels van dit decreet, met uitzondering van titel I - Algemene bepalingen, titel II - Besluitvorming en inspraak, titel X - Agentschappen, titel XI - Strategische Adviesraden en titel VIII - Klimaat;<br>
+2° het Boswetboek van 19 december 1854;<br>
+3° de wet van 1 juli 1954 op de riviervisserij;<br>
+4° de Jachtwet van 28 februari 1882;<br>
+5° de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging;<br>
+6° de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, met uitsluiting van hoofdstuk IV, afdeling IV, en hoofdstuk VI, van deze titel voor wat de overtredingen van hoofdstuk IIIbis en de uitvoeringsbesluiten ervan betreft;<br>
+6°/1 de wet van 2 april 1971 betreffende de bestrijding van voor planten en plantaardige producten schadelijke organismen;<br>
+7° de wet van 12 juli 1973 op het natuurbehoud;<br>
+8° de wet van 18 juli 1973 betreffende de bestrijding van de geluidshinder;<br>
+9° de wet van 10 januari 1977 houdende regeling van de schadeloosstelling voor schade veroorzaakt door het winnen en het pompen van grondwater;<br>
+10° het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
+11° de wet van 28 juli 1981 houdende goedkeuring van de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten, en van de Bijlagen, opgemaakt te Washington op 3 maart 1973;<br>
+12° het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer, met uitsluiting van hoofdstuk IV, afdeling IV, en hoofdstuk VI, van deze titel voor wat de overtredingen van hoofdstuk IVbis en de uitvoeringsbesluiten ervan betreft;<br>
+13° het decreet van 28 juni 1985 betreffende de milieuvergunning;<br>
+13°bis de wet van 12 juli 1985 betreffende de bescherming van de mens en van het leefmilieu tegen de schadelijke effecten en de hinder van niet-ioniserende stralingen, infrasonen en ultrasonen;<br>
+14° het Bosdecreet van 13 juni 1990;<br>
+15° het Jachtdecreet van 24 juli 1991;<br>
+16° het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+17° het decreet van 4 april 2003 betreffende de oppervlaktedelfstoffen;<br>
+17°bis het decreet van 18 juni 2003 betreffende het integraal waterbeleid, wat betreft artikel 8, 10 tot en met 17 en artikel 62 en 70 van titel I;<br>
+18° het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming;<br>
+19° het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen, met behoud van de toepassing van artikel 61, § 2, van dat decreet;<br>
+19°bis het decreet van 8 mei 2009 betreffende de diepe ondergrond;<br>
+19° ter : het decreet van 25 april 2014 betreffende de omgevingsvergunning voor zover het projecten betreft bedoeld in artikel 5, 1°, c, en 2°, b.<br>
+20° de door de Vlaamse Regering aangewezen milieuregelgeving van de Europese Unie en internationale milieuregelgeving;<br>
+21° het decreet van 8 februari 2013 houdende duurzaam gebruik van pesticiden in het Vlaamse Gewest;<br>
+22° het decreet van 28 maart 2014 betreffende de preventie, surveillance en bestrijding van ziekten bij in het wild levende dieren.<br>
+<br>
+In afwijking van het eerste lid zijn de hoofdstukken III, IV, V, Vbis, VI en VII van deze titel pas van toepassing op de in het eerste lid sub 2°, 3°, 4°, 7°, 11°, 14°, 15°, 16°, 17° en 19° vermelde wetten en decreten, met inbegrip van hun respectieve uitvoeringsbesluiten, op het ogenblik dat de Vlaamse Regering dit bepaalt.<br>
+<br>
+Hoofdstuk II en hoofdstuk IV, afdeling III en V, van deze titel zijn van toepassing op titel VI van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.
 
 ### ART. 16.1.2.
 
@@ -2300,7 +2331,13 @@ De provinciale toezichthouders kunnen toezicht uitoefenen in de eigen   provinci
 
 ### ART. 16.3.8.
 
-§ 1. Gewestelijke toezichthouders kunnen niet de hoedanigheid hebben van officier van gerechtelijke politie.<br /><br />§ 2. In afwijking van § 1 kunnen de gewestelijke toezichthouders die toezicht uitoefenen op de wetten en decreten, met inbegrip van de uitvoeringsbesluiten, vermeld in artikel 16.1.1, 2°, artikel 16.1.1, 3°, artikel 16.1.1, 4°, artikel 16.1.1, 7°, artikel 16.1.1, 11°, artikel 16.1.1, 14°, artikel 16.1.1, 15°, en artikel 16.1.1, 16°, ook de hoedanigheid hebben van officier van gerechtelijke politie.<br /><br />Deze afwijking geldt evenzeer voor het toezicht op de Europese milieuregelgeving voor zover deze betrekking heeft op de wetten en decreten, met inbegrip van de uitvoeringsbesluiten ervan, vermeld in het eerste lid.<br />
+§ 1. Gewestelijke toezichthouders kunnen niet de hoedanigheid hebben van officier van gerechtelijke politie.<br>
+<br>
+§ 2. In afwijking van § 1 kunnen de gewestelijke toezichthouders die toezicht uitoefenen op de wetten en decreten, met inbegrip van de uitvoeringsbesluiten, vermeld in artikel 16.1.1, 2°, artikel 16.1.1, 3°, artikel 16.1.1, 4°, artikel 16.1.1, 7°, artikel 16.1.1, 11°, artikel 16.1.1, 14°, artikel 16.1.1, 15°, en artikel 16.1.1, 16°, ook de hoedanigheid hebben van officier van gerechtelijke politie.<br>
+<br>
+Deze afwijking geldt evenzeer voor het toezicht op de Europese milieuregelgeving voor zover deze betrekking heeft op de wetten en decreten, met inbegrip van de uitvoeringsbesluiten ervan, vermeld in het eerste lid.<br>
+<br>
+§ 3. In afwijking van paragraaf 1 kunnen toezichthouders die toezicht uitoefenen op het decreet, met inbegrip van de uitvoeringsbesluiten, vermeld in artikel 16.1.1, eerste lid, 19° ter, en op titel V met inbegrip van de uitvoeringsbesluiten en die belast zijn met de uitvoering van de handhaving op het beleidsveld Ruimtelijke Ordening ook de hoedanigheid hebben van officier van gerechtelijke politie.
 
 ## [AFDELING II TOEZICHTOPDRACHTEN (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
 
@@ -2386,7 +2423,15 @@ Als toezichthouders vaststellen dat een milieu-inbreuk of een milieumisdrijf dre
 
 ### ART. 16.3.23.
 
-Bij de vaststelling van een milieu-inbreuk kunnen de toezichthouders een verslag van vaststelling opstellen. Ze bezorgen dat onmiddellijk aan de gewestelijke entiteit. Ze bezorgen gelijktijdig een kopie van het verslag van vaststelling aan de vermoedelijke overtreder.<br /><br />De Vlaamse Regering kan de nadere regels bepalen voor het verslag van vaststelling.
+Bij de vaststelling van een milieu-inbreuk kunnen de toezichthouders een verslag van vaststelling opstellen. Ze bezorgen dat onmiddellijk aan de gewestelijke entiteit. Ze bezorgen gelijktijdig een kopie van het verslag van vaststelling aan de vermoedelijke overtreder.<br>
+<br>
+De Vlaamse Regering kan de vorm van het verslag van vaststelling bepalen, alsook welke andere overheden geïnformeerd kunnen worden over de vastgestelde milieu-inbreuken, vermeld in het eerste lid, en de wijze waarop dat moet gebeuren.
+
+### ART. 16.3.23bis.
+
+De door het college van burgemeester en schepenen aangewezen personeelsleden, vermeld in artikel 6.2.5/1, § 1, eerste lid, 3° en 4°, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, die bevoegd zijn om misdrijven als vermeld in titel VI van de voormelde codex op te sporen en vast te stellen in een proces-verbaal, kunnen milieu-inbreuken die een schending uitmaken van het decreet van 25 april 2014 betreffende de omgevingsvergunning en van titel V van dit decreet vaststellen in een verslag van vaststelling.<br>
+<br>
+Een afschrift van het verslag van vaststelling wordt bezorgd aan de gewestelijke overheden, belast met de handhaving van de inbreuken. De Vlaamse Regering kan nader bepalen welke van deze gewestelijke overheden een afschrift ontvangt.
 
 ## [Onderafdeling III Vaststelling van milieumisdrijven (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
 
@@ -2394,9 +2439,19 @@ Bij de vaststelling van een milieu-inbreuk kunnen de toezichthouders een verslag
 
 De toezichthouders stellen de milieumisdrijven vast in een proces-verbaal,   dat ze onmiddellijk bezorgen aan de procureur des Konings bij de rechtbank   binnen het rechtsgebied waar het milieumisdrijf is gepleegd.<BR><BR>De   toezichthouders kunnen een kopie van het proces-verbaal bezorgen aan de   relevante gewestelijke overheden, die belast zijn met de handhaving van de   regelgeving, vermeld in artikel 16.1.1, eerste lid.<BR><BR>De Vlaamse Regering   kan de nadere voorwaarden bepalen van het proces-verbaal, alsook welke andere   overheden geïnformeerd kunnen worden over de vastgestelde milieumisdrijven en de   wijze waarop dat moet gebeuren.<BR><BR>De Vlaamse Regering kan bepalen in welke   gevallen de toezichthouders een kopie van het proces-verbaal moeten   bezorgen.
 
+### ART. 16.3.24bis.
+
+De door het college van burgemeester en schepenen aangewezen personeelsleden, vermeld in artikel 6.2.5/1, § 1, eerste lid, 3° en 4°, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, die bevoegd zijn om misdrijven als vermeld in titel VI van de voormelde codex op te sporen en vast te stellen in een proces-verbaal, kunnen ook milieumisdrijven die een schending uitmaken van het decreet van 25 april 2014 betreffende de omgevingsvergunning en van titel V van dit decreet vaststellen in een proces-verbaal.<br>
+<br>
+Een afschrift van het proces-verbaal wordt bezorgd aan de gewestelijke overheden, belast met de handhaving van de misdrijven. De Vlaamse Regering kan nader bepalen welke van deze gewestelijke overheden een afschrift ontvangt.
+
 ### ART. 16.3.25.
 
-Het proces-verbaal heeft bewijswaarde tot het tegendeel is   bewezen.<BR><BR>Als de vermoedelijke overtreder bekend is, wordt, op straffe van   verval van de bewijswaarde tot het tegendeel, aan de vermoedelijke overtreder   kennis gegeven van een kopie van het proces-verbaal. Die kennisgeving gebeurt   binnen een termijn van veertien dagen, na de datum van afsluiting van het   proces-verbaal.
+Het proces-verbaal heeft bewijswaarde tot het tegendeel is bewezen.<br>
+<br>
+Als de vermoedelijke overtreder bekend is, wordt, op straffe van verval van de bewijswaarde tot het tegendeel, aan de vermoedelijke overtreder kennis gegeven van een kopie van het proces-verbaal. Die kennisgeving gebeurt binnen een termijn van veertien dagen, na de datum van afsluiting van het proces-verbaal.<br>
+<br>
+De vaststelling van milieumisdrijven door de personeelsleden, vermeld in artikel 16.3.24bis, geldt niet tot bewijs van het tegendeel.
 
 ### ART. 16.3.26.
 
@@ -2532,14 +2587,17 @@ De bestuurlijke dwangsom wordt schriftelijk opgelegd. Het besluit houdende   de 
 
 ### ART. 16.4.19.
 
-§ 1. Er wordt een Milieuhandhavingscollege opgericht.<br>
+§ 1. Er wordt een handhavingscollege opgericht.<br>
 <br>
-Het Milieuhandhavingscollege is een administratief rechtscollege als vermeld in artikel 161 van de Grondwet.<br>
+Het handhavingscollege is een administratief rechtscollege als vermeld in artikel 161 van de Grondwet.<br>
 <br>
-§ 2. Het Milieuhandhavingscollege doet uitspraak over de beroepen die worden ingesteld tegen beslissingen van de gewestelijke entiteit over de oplegging van een alternatieve of een exclusieve bestuurlijke geldboete, en, in voorkomend geval, een voordeelontneming.<br>
+§ 2. Het handhandhavingscollege doet uitspraak over :<br>
+1° de beroepen die worden ingesteld tegen beslissingen van de gewestelijke entiteit over de oplegging van een alternatieve of een exclusieve bestuurlijke geldboete en, in voorkomend geval, een voordeelontneming als vermeld in hoofdstuk IV, afdeling IV;<br>
+2° de beroepen die worden ingesteld tegen beslissingen van de gewestelijke entiteit, vermeld in artikel 6.1.1, 2°, van de Vlaamse Codex Ruimtelijke Ordening, over de oplegging van een exclusieve of een alternatieve bestuurlijke geldboete als vermeld in artikel 6.2.2, 6.2.6 en 6.2.13, § 4, van die codex;<br>
+3° de beroepen die worden ingesteld tegen beslissingen van de inspecteur Onroerend Erfgoed over de oplegging van een exclusieve of een alternatieve bestuurlijke geldboete als vermeld in de artikelen 11.2.5 en 11.2.6 van het Onroerenderfgoeddecreet van 12 juli 2013.;<br>
 <br>
-§ 3. De behandeling van het beroep door het Milieuhandhavingscollege leidt tot één van de volgende uitspraken :<br>
-1° onbevoegdverklaring van het Milieuhandhavingscollege;<br>
+§ 3. De behandeling van het beroep door het handhandhavingscollege leidt tot één van de volgende uitspraken :<br>
+1° onbevoegdverklaring van het handhandhavingscollege;<br>
 2° vaststelling van de onontvankelijkheid van het beroep;<br>
 3° ongegrondverklaring van het beroep;<br>
 4° gegrondverklaring van het beroep.
@@ -2562,7 +2620,7 @@ Het Milieuhandhavingscollege is een administratief rechtscollege als vermeld in 
 
 ### ART. 16.4.23.
 
-De Vlaamse Regering kan aan de leden van het Milieuhandhavingscollege op geen enkele manier instructies geven over de wijze waarop ze hun bevoegdheden moeten uitoefenen.
+De Vlaamse Regering kan aan de leden van het handhavingscollege op geen enkele manier instructies geven over de wijze waarop ze hun bevoegdheden moeten uitoefenen.
 
 ### ART. 16.4.24.
 
@@ -2586,7 +2644,7 @@ Een bestuurlijke geldboete kan de vorm aannemen van een alternatieve bestuurlijk
 
 ### ART. 16.4.28.
 
-Een bestuurlijke geldboete kan niet worden opgelegd als :<br />1° voor het feit in kwestie al eerder, hetzij een bestuurlijke geldboete overeenkomstig dit decreet, hetzij een door een ander hiertoe bevoegde persoon of overheid bepaalde boete werd opgelegd;<br />2° door de strafrechter voor het feit in kwestie al eerder een straf werd opgelegd;<br />3° het feit in kwestie eerder al geleid heeft tot een vrijspraak, een eenvoudige schuldverklaring zonder straf, een opschorting van de uitspraak van de veroordeling of een minnelijke schikking.<br />4° de gewestelijke entiteit oordeelt dat de vermoedelijke overtreder heeft voldaan aan de voorwaarden van het voorstel tot betalen van een geldsom zoals vermeld in artikel 16.4.36, § 3, of in artikel 16.4.41, § 2.
+<p>...</p>
 
 ### ART. 16.4.29.
 
@@ -2632,7 +2690,7 @@ De Vlaamse Regering kan de nadere regels bepalen voor de wijze waarop een dossie
 
 ### ART. 16.4.39.
 
-Tegen de beslissing waarbij de gewestelijke entiteit een alternatieve bestuurlijke geldboete oplegt, in voorkomend geval met voordeelontneming, kan degene aan wie de boete werd opgelegd binnen een termijn van dertig dagen na de kennisgeving van de bestreden beslissing beroep indienen bij het Milieuhandhavingscollege. Het beroep schorst de bestreden beslissing.<br>
+Tegen de beslissing waarbij de gewestelijke entiteit een alternatieve bestuurlijke geldboete oplegt, in voorkomend geval met voordeelontneming, kan degene aan wie de boete werd opgelegd beroep indienen bij het handhavingscollege. Het beroep schorst de bestreden beslissing.<br>
 <br>
 In afwijking van artikel 16.1.3, § 2, eerste lid, wordt de kennisgeving met een aangetekende brief tegen ontvangstbewijs geacht plaats te vinden op de werkdag die valt na de datum van de poststempel van de aangetekende brief tegen ontvangstbewijs, behalve in geval van bewijs van het tegendeel door de geadresseerde. Daarbij geldt alleen de datum van de aanbieding door de postdiensten, en niet de feitelijke kennisneming van de aangetekende brief op een later tijdstip. De datum van de poststempel heeft bewijskracht zowel voor de verzending als voor de ontvangst.<br>
 <br>
@@ -2678,7 +2736,7 @@ Binnen een termijn van negentig dagen na de kennisgeving van het bericht   besli
 
 ### ART. 16.4.44.
 
-Tegen de beslissing waarbij de gewestelijke entiteit een exclusieve bestuurlijke geldboete oplegt, in voorkomend geval met voordeelontneming, kan degene aan wie de boete werd opgelegd binnen een termijn van dertig dagen na de kennisgeving van de bestreden beslissing, beroep indienen bij het Milieuhandhavingscollege. Het beroep schorst de bestreden beslissing.<br>
+Tegen de beslissing waarbij de gewestelijke entiteit een exclusieve bestuurlijke geldboete oplegt, in voorkomend geval met voordeelontneming, kan degene aan wie de boete werd opgelegd, beroep indienen bij het handhavingscollege. Het beroep schorst de bestreden beslissing.<br>
 <br>
 In afwijking van artikel 16.1.3, § 2, eerste lid, wordt de kennisgeving met een aangetekende brief tegen ontvangstbewijs geacht plaats te vinden op de werkdag die valt na de datum van de poststempel van de aangetekende brief tegen ontvangstbewijs, behalve in geval van bewijs van het tegendeel door de geadresseerde. Daarbij geldt alleen de datum van de aanbieding door de postdiensten, en niet de feitelijke kennisneming van de aangetekende brief op een later tijdstip. De datum van de poststempel heeft bewijskracht zowel voor de verzending als voor de ontvangst.<br>
 <br>
@@ -2784,9 +2842,9 @@ In afwijking van artikel 16.1.3, § 2, tweede lid, wordt de kennisgeving door af
 
 ## [HOOFDSTUK V INNING EN INVORDERING VAN VERSCHULDIGDE BEDRAGEN (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
 
-### 23/02/2017ART. 16.5.1.
+### ART. 16.5.1.
 
-§ 1. De opgelegde bestuurlijke geldboeten en, in voorkomend geval, de opgelegde voordeelontnemingen en expertisekosten, vermeld in artikel 16.4.25, worden door&nbsp;het Departement Omgeving van de Vlaamse overheid geïnd en ingevorderd ten voordele van het Minafonds.<br>
+§ 1. De opgelegde bestuurlijke geldboeten, vermeld artikel 44 van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges, en titel XVI, hoofdstuk IV, afdeling IV en, in voorkomend geval, de opgelegde voordeelontnemingen en expertisekosten, vermeld in artikel 16.4.25, worden door&nbsp;het Departement Omgeving van de Vlaamse overheid geïnd en ingevorderd ten voordele van het Minafonds.<br>
 <br>
 De kosten die gemaakt zijn voor de uitvoering van de bestuurlijke maatregelen, vermeld in artikel 16.4.7, § 1, voor de ambtshalve uitvoering van de opgelegde bestuurlijke maatregelen en voor de tenuitvoerlegging van veiligheidsmaatregelen worden eveneens geïnd en ingevorderd door het Vlaams Ministerie van Omgeving ten voordele van het Minafonds. In afwijking hiervan worden de kosten die gemaakt zijn voor de uitvoering en de tenuitvoerlegging van die maatregelen door de toezichthouders van de OVAM die toezicht uitoefenen op de toepassing van het decreet van 27 oktober 2006 betreffende de bodemsanering en haar uitvoeringsbesluiten en op de toepassing van artikelen 12 en 13 van het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen, geïnd en ingevorderd door de OVAM ten voordele van de OVAM.<br>
 <br>
@@ -2852,15 +2910,40 @@ De bijzondere veldwachters vermeld in artikel 61 van het Veldwetboek zijn bevoeg
 
 ### ART. 16.6.1.
 
-§ 1. Elke opzettelijke of door gebrek aan voorzorg of voorzichtigheid   gepleegde schending van de door deze titel gehandhaafde regelgeving is strafbaar   met een gevangenisstraf van een maand tot twee jaar en met een geldboete van 100   euro tot 250.000 euro of met een van die straffen.<BR><BR>Deze straffen gelden   niet voor :<BR>1° de gedragingen die op basis van artikel 16.1.2, 1°, en op   basis van artikel 16.4.27, derde lid, als milieu-inbreuk zijn   gedefinieerd;<BR>2° ...<BR>3°&nbsp;de overtreding van de verplichting tot   aangifte en betaling van de milieuheffingen, vermeld in artikel 50 van het   decreet van 23 december 2011 betreffende het duurzaam beheer van   materiaalkringlopen en afvalstoffen, en de verplichting tot betaling van de   administratieve geldboete, vermeld in artikel 58 van voormeld decreet;<BR>4°   ...<BR>5° het niet voldoen aan administratieve verplichtingen in het kader van   een aanvraagprocedure, zoals een procedure tot aanvraag van een vergunning of   machtiging, tot aanvraag van een subsidie of tot het verkrijgen van een   erkenning, behalve wanneer opzettelijk informatie niet of onvolledig werd   meegedeeld of wanneer opzettelijk onjuiste informatie werd meegedeeld;<BR>6° het   niet voldoen aan de administratieve vormvereisten die bij een melding in acht   genomen moeten worden, met behoud van de toepassing van artikel 16.6.1, § 1,   eerste lid, op het nalaten van enige voorafgaande melding van de betrokken   activiteit.<BR><BR>§ 2. De volgende personen worden bestraft met een   gevangenisstraf van een maand tot een jaar en met een geldboete van 100 euro tot   100.000 euro of met een van die straffen :<BR>1° personen die opzettelijk   opgelegde bestuurlijke maatregelen, bestuurlijke geldboeten,   voordeelontnemingen, veiligheidsmaatregelen of door de rechter opgelegde   maatregelen niet uitvoeren, betalen of negeren;<BR>2° personen die opzettelijk   de in artikel 16.3.10, 1°, 2°, 3°, 4°, en 5°, bedoelde toezichtrechten   schenden;<BR>3° personen die de orde van de zittingen van het   Milieuhandhavingscollege verstoren, zoals blijkt uit het proces-verbaal van de   zitting.
+§ 1. Elke opzettelijke of door gebrek aan voorzorg of voorzichtigheid gepleegde schending van de door deze titel gehandhaafde regelgeving is strafbaar met een gevangenisstraf van een maand tot twee jaar en met een geldboete van 100 euro tot 250.000 euro of met een van die straffen.<br>
+<br>
+Deze straffen gelden niet voor :<br>
+1° de gedragingen die op basis van artikel 16.1.2, 1°, en op basis van artikel 16.4.27, derde lid, als milieu-inbreuk zijn gedefinieerd;<br>
+2° ...<br>
+3°&nbsp;de overtreding van de verplichting tot aangifte en betaling van de milieuheffingen, vermeld in artikel 50 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, en de verplichting tot betaling van de administratieve geldboete, vermeld in artikel 58 van voormeld decreet;<br>
+4° ...<br>
+5° het niet voldoen aan administratieve verplichtingen in het kader van een aanvraagprocedure, zoals een procedure tot aanvraag van een vergunning of machtiging, tot aanvraag van een subsidie of tot het verkrijgen van een erkenning, behalve wanneer opzettelijk informatie niet of onvolledig werd meegedeeld of wanneer opzettelijk onjuiste informatie werd meegedeeld;<br>
+6° het niet voldoen aan de administratieve vormvereisten die bij een melding in acht genomen moeten worden, met behoud van de toepassing van artikel 16.6.1, § 1, eerste lid, op het nalaten van enige voorafgaande melding van de betrokken activiteit.<br>
+<br>
+§ 2. De volgende personen worden bestraft met een gevangenisstraf van een maand tot een jaar en met een geldboete van 100 euro tot 100.000 euro of met een van die straffen :<br>
+1° personen die opzettelijk opgelegde bestuurlijke maatregelen, bestuurlijke geldboeten, voordeelontnemingen, veiligheidsmaatregelen of door de rechter opgelegde maatregelen niet uitvoeren, betalen of negeren;<br>
+2° personen die opzettelijk de in artikel 16.3.10, 1°, 2°, 3°, 4°, en 5°, bedoelde toezichtrechten schenden;<br>
+3° personen die de orde van de zittingen van het handhavingscollege verstoren, zoals blijkt uit het proces-verbaal van de zitting.
 
 ### ART. 16.6.2.
 
-§ 1. Wie opzettelijk, in strijd met de wettelijke voorschriften of in strijd met een vergunning, rechtstreeks of onrechtstreeks, stoffen, micro-organismen, geluid en andere trillingen of stralingen in of op water, bodem of atmosfeer inbrengt of verspreidt, wordt gestraft met een gevangenisstraf van een maand tot vijf jaar en met een geldboete van 100 euro tot 500.000 euro of met een van die straffen.<br /><br />Wie door gebrek aan voorzorg of voorzichtigheid, in strijd met wettelijke voorschriften of in strijd met een vergunning, rechtstreeks of onrechtstreeks, stoffen, micro-organismen, geluid en andere trillingen of stralingen in of op water, bodem of atmosfeer inbrengt of verspreidt, wordt gestraft met een gevangenisstraf van een maand tot drie jaar en met een geldboete van 100 euro tot 350.000 euro of met een van die straffen.<br /><br />§ 2. In afwijking van de straffen vermeld in § 1 kunnen gemeenten voor kleine vormen van openbare overlast gemeentelijke sancties bepalen overeenkomstig artikel 119bis van de Nieuwe Gemeentewet.<br /><br />Wanneer de gemeente geen gemeentelijke sancties overeenkomstig artikel 119bis van de Nieuwe Gemeentewet heeft bepaald, worden in die gemeente deze kleine vormen van openbare overlast gestraft met een geldboete van maximum 45,45 euro.
+§ 1. Wie opzettelijk, in strijd met de wettelijke voorschriften of in strijd met een vergunning, rechtstreeks of onrechtstreeks, stoffen, micro-organismen, geluid en andere trillingen of stralingen in of op water, bodem of atmosfeer inbrengt of verspreidt, wordt gestraft met een gevangenisstraf van een maand tot vijf jaar en met een geldboete van 100 euro tot 500.000 euro of met een van die straffen.<br>
+<br>
+Wie door gebrek aan voorzorg of voorzichtigheid, in strijd met wettelijke voorschriften of in strijd met een vergunning, rechtstreeks of onrechtstreeks, stoffen, micro-organismen, geluid en andere trillingen of stralingen in of op water, bodem of atmosfeer inbrengt of verspreidt, wordt gestraft met een gevangenisstraf van een maand tot drie jaar en met een geldboete van 100 euro tot 350.000 euro of met een van die straffen.<br>
+<br>
+§ 2. In afwijking van de straffen vermeld in § 1 kunnen gemeenten voor kleine vormen van openbare overlast gemeentelijke sancties bepalen overeenkomstig artikel 119bis van de Nieuwe Gemeentewet.<br>
+<br>
+Wanneer de gemeente geen gemeentelijke sancties overeenkomstig artikel 119bis van de Nieuwe Gemeentewet heeft bepaald, worden in die gemeente deze kleine vormen van openbare overlast gestraft met een geldboete van maximum 58 euro.
 
 ### ART. 16.6.3.
 
-§ 1. Wie opzettelijk, in strijd met de wettelijke voorschriften of in strijd met een vergunning, afvalstoffen achterlaat, beheert of overbrengt, wordt gestraft met een gevangenisstraf van een maand tot vijf jaar en met een geldboete van 100 euro tot 500.000 euro of met een van die straffen.<br /><br />Wie door gebrek aan voorzorg of voorzichtigheid, in strijd met de wettelijke voorschriften of in strijd met een vergunning, afvalstoffen achterlaat, beheert of overbrengt, wordt gestraft met een gevangenisstraf van een maand tot drie jaar en met een geldboete van 100 euro tot 350.000 euro of met een van die straffen.<br /><br />§ 2. In afwijking van de straffen vermeld in § 1 kunnen gemeenten voor kleine vormen van openbare overlast gemeentelijke sancties bepalen overeenkomstig artikel 119bis van de Nieuwe Gemeentewet.<br /><br />Wanneer de gemeente geen gemeentelijke sancties overeenkomstig artikel 119bis van de Nieuwe Gemeentewet heeft bepaald, worden in die gemeente deze kleine vormen van openbare overlast gestraft met een geldboete van maximum 45,45 euro.
+§ 1. Wie opzettelijk, in strijd met de wettelijke voorschriften of in strijd met een vergunning, afvalstoffen achterlaat, beheert of overbrengt, wordt gestraft met een gevangenisstraf van een maand tot vijf jaar en met een geldboete van 100 euro tot 500.000 euro of met een van die straffen.<br>
+<br>
+Wie door gebrek aan voorzorg of voorzichtigheid, in strijd met de wettelijke voorschriften of in strijd met een vergunning, afvalstoffen achterlaat, beheert of overbrengt, wordt gestraft met een gevangenisstraf van een maand tot drie jaar en met een geldboete van 100 euro tot 350.000 euro of met een van die straffen.<br>
+<br>
+§ 2. In afwijking van de straffen vermeld in § 1 kunnen gemeenten voor kleine vormen van openbare overlast gemeentelijke sancties bepalen overeenkomstig artikel 119bis van de Nieuwe Gemeentewet.<br>
+<br>
+Wanneer de gemeente geen gemeentelijke sancties overeenkomstig artikel 119bis van de Nieuwe Gemeentewet heeft bepaald, worden in die gemeente deze kleine vormen van openbare overlast gestraft met een geldboete van maximum 58 euro.
 
 ### ART. 16.6.3bis.
 
