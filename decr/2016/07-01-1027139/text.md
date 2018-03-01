@@ -759,7 +759,7 @@
 
 ### ART 48.
 
-In artikel 6.1.1, eerste lid, 2°, van dezelfde codex, gewijzigd bij decreet van 16 juli 2010, en te vervangen bij decreet van 25 april 2014, wordt de zinsnede "artikel 2.2.1 tot en met 2.2.18" vervangen door de zinsnede "titel II, hoofdstuk II".
+...
 
 ### ART 49.
 
