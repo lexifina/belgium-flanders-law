@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029043,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-27 tot erkenning van de beroepskwalificatie animator",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029043/VolledigDocument?datum=2018-03-04",
+  "source_sha256": "6b9738c595a7d6506c02cfa399ffef61ecc9eb1c33b435f2dd2426b5d518de00",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029043&param=informatie",
+  "as_of": "2018-03-04",
+  "made": "2017-10-27",
+  "gazette": "2018-02-22",
+  "numac": 2018010308,
+  "document_start": "2018-03-04",
+  "document_end": null,
+  "in_force": "2018-03-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-03-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
