@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029056,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-27 tot erkenning van de beroepskwalificatie logistiek assistent magazijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029056/VolledigDocument?datum=2018-03-04",
+  "source_sha256": "c00379ce53c52a9066057e96773844d1ff334fd6417d24a837d0422a5963d5e0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029056&param=informatie",
+  "as_of": "2018-03-04",
+  "made": "2017-10-27",
+  "gazette": "2018-02-22",
+  "numac": 2018010297,
+  "document_start": "2018-03-04",
+  "document_end": null,
+  "in_force": "2018-03-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-03-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
