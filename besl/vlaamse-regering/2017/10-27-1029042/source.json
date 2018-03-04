@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029042,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-27 tot erkenning van de beroepskwalificatie audioloog",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029042/VolledigDocument?datum=2018-03-04",
+  "source_sha256": "f6aad33b0fb3048300a17293243de0f3913cb31a85e0c82368009d8c4228ec26",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029042&param=informatie",
+  "as_of": "2018-03-04",
+  "made": "2017-10-27",
+  "gazette": "2018-02-22",
+  "numac": 2018010311,
+  "document_start": "2018-03-04",
+  "document_end": null,
+  "in_force": "2018-03-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-03-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
