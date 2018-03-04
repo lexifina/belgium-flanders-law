@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029041,
+  "title": "Besluit van de Vlaamse Regering van 2017-10-27 tot erkenning van de beroepskwalificatie audicien",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029041/VolledigDocument?datum=2018-03-04",
+  "source_sha256": "1a4569d52f4acdf97754b4dfa950d941ef1064f31b9a0174b1ed6d83e6e5e9f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029041&param=informatie",
+  "as_of": "2018-03-04",
+  "made": "2017-10-27",
+  "gazette": "2018-02-22",
+  "numac": 2018010310,
+  "document_start": "2018-03-04",
+  "document_end": null,
+  "in_force": "2018-03-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-03-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
