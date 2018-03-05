@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029061,
+  "title": "Decreet van 2018-02-02 houdende instemming met de economische partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de SADC-EPO-Staten, anderzijds, ondertekend te Kasane op 10 juni 2016",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029061/VolledigDocument?datum=2018-03-05",
+  "source_sha256": "9bff05d10a4796b345ded58371f9377a637c14bbb7e63bf1151d16751df16dd0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029061&param=informatie",
+  "as_of": "2018-03-05",
+  "made": "2018-02-02",
+  "gazette": "2018-02-23",
+  "numac": 2018030511,
+  "document_start": "2018-03-05",
+  "document_end": null,
+  "in_force": "2018-03-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2018-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
