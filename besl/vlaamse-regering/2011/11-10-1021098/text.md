@@ -56,13 +56,13 @@ De steun wordt toegekend na advies van expertpanels. Het FWO legt projecten die 
 
 ### ART. 8.
 
-Het "Big Science"-programma heeft tot doel internationale onderzoeksprojecten te ondersteunen die worden uitgevoerd aan internationale of supranationale faciliteiten waaraan de federale of de Vlaamse overheid bijdraagt.<br /><br />
+...
 
 ## Afdeling 2 [... (opgeh. BVR 19 januari 2018, art. 18, I: 5 maart 2018)]
 
 ### ART. 9.
 
-§ 1. De subsidie wordt aangewend voor de financiering van de institutionele, operationele en logistieke kosten van Vlaamse onderzoekers die deelnemen aan grootschalige, internationale onderzoeksinfrastructuren, waarvan de Belgische federale of de Vlaamse overheid lid is of waarvoor ze de deelname financiert. <br /><br />De Mercatortelescoop die deel uitmaakt van het Internationaal Sterrenkundig Observatorium voor het Noordelijk Halfrond 'Roque de los Muchachos Observatory' in Santa Cruz de la Palma, wordt eveneens beschouwd als een onderzoeksinfrastructuur, als vermeld in het eerste lid.<br /><br />§ 2. Het FWO draagt er zorg voor dat de onderzoeksinfrastructuur, vermeld in paragraaf 1, eerste lid, openstaat voor onderzoekers die aan Vlaamse universiteiten verbonden zijn.<br /><br />
+...
 
 ## HOOFDSTUK 3 Het programma voor internationale coördinatieacties
 
