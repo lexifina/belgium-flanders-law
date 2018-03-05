@@ -2,16 +2,16 @@
   "codex_id": 1029062,
   "title": "Besluit van de Vlaamse Regering van 2017-12-22 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029062/VolledigDocument?datum=2016-12-16",
-  "source_sha256": "75695b300050aadbb1339d24e3a96f44e70d722548d75d66fae3ed66ef9e509e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029062/VolledigDocument?datum=2018-03-05",
+  "source_sha256": "b7202c33afc6ddcaf089f067ec49c6693016e9b3fc4d61585c923fdee1188cb6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029062&param=informatie",
-  "as_of": "2016-12-16",
+  "as_of": "2018-03-05",
   "made": "2017-12-22",
   "gazette": "2018-02-23",
   "numac": 2018030500,
   "document_start": "2018-03-05",
   "document_end": null,
-  "in_force": "2016-12-16",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2016-12-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-03-05",
+  "article_versions": 77,
+  "record_form": "consolidated version as in force on 2018-03-05; future article versions excluded; article text as the API gives it"
 }
