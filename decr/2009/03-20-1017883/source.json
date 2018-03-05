@@ -2,16 +2,16 @@
   "codex_id": 1017883,
   "title": "Decreet van 2009-03-20 houdende de toegankelijkheid van publieke plaatsen voor personen met een assistentiehond",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017883/VolledigDocument?datum=2013-07-29",
-  "source_sha256": "551fe048be5cdbdaf8194d3306e5b2af3bb2739f4b297e4b73e3577c7f0e0037",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017883/VolledigDocument?datum=2018-03-05",
+  "source_sha256": "a64d4a28575798eaa877accc997b029b97775192a4efeb495664c0fcbd854117",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017883&param=informatie",
-  "as_of": "2013-07-29",
+  "as_of": "2018-03-05",
   "made": "2009-03-20",
   "gazette": "2009-05-08",
   "numac": 2009035400,
   "document_start": "2009-05-18",
   "document_end": null,
-  "in_force": "2013-07-29",
+  "in_force": "2018-03-05",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2013-07-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-03-05; future article versions excluded; article text as the API gives it"
 }

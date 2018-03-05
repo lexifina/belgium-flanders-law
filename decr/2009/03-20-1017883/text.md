@@ -26,4 +26,4 @@ De instantie, die overeenkomstig artikel 4 wordt aangewezen of opgericht,   bepa
 
 ### ART. 5.
 
-<P>Iedereen die een persoon met een assistentiehond het recht op toegang ontzegt   tot een publieke plaats als vermeld in artikel 3, in een ander geval dan de   gevallen, vermeld in artikel 3/1, wordt bestraft met een geldboete van vijftien   euro tot vijfentwintig euro en met een gevangenisstraf van één dag tot zeven   dagen of met een van deze straffen alleen.<BR><BR>Het eerste lid doet geen   afbreuk aan de mogelijkheid van de gemeenten om de inbreuk, vermeld in het   eerste lid, te bestraffen met een gemeentelijke administratieve sanctie, met   overeenkomstige toepassing van de procedures betreffende de samenloop, vermeld   in artikel 119bis, § 8bis, van de Nieuwe Gemeentewet. </P>
+<p>Iedereen die een persoon met een assistentiehond het recht op toegang ontzegt tot een publieke plaats als vermeld in artikel 3, in een ander geval dan de gevallen, vermeld in artikel 3/1, wordt bestraft met een geldboete van vijftien euro tot vijfentwintig euro en met een gevangenisstraf van één dag tot zeven dagen of met een van deze straffen alleen.</p>
