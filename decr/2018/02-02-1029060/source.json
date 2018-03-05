@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029060,
+  "title": "Decreet van 2018-02-02 tot wijziging van artikel 5 van het decreet van 20 maart 2009 houdende de toegankelijkheid van publieke plaatsen voor personen met een assistentiehond",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029060/VolledigDocument?datum=2018-03-05",
+  "source_sha256": "cfd2905dcf1c0e942646ad86937a904f273b7d5ae017900fcb0e2b15a36c7fdd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029060&param=informatie",
+  "as_of": "2018-03-05",
+  "made": "2018-02-02",
+  "gazette": "2018-02-23",
+  "numac": 2018030510,
+  "document_start": "2018-03-05",
+  "document_end": null,
+  "in_force": "2018-03-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2018-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
