@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029077,
+  "title": "Decreet van 2018-01-26 houdende diverse bepalingen tot invoering of verbetering van sommige verplichtingen tot rapportering aan het Vlaams Parlement over de toepassing en interpretatie van decreten door rechterlijke instanties, en over het gevoerde opsporings- en vervolgingsbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029077/VolledigDocument?datum=2018-03-09",
+  "source_sha256": "dbd3b6a00a412ffe2c48b036aeea345c169d59c61b9a60c57fa074844f64b59c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029077&param=informatie",
+  "as_of": "2018-03-09",
+  "made": "2018-01-26",
+  "gazette": "2018-02-27",
+  "numac": 2018010909,
+  "document_start": "2018-03-09",
+  "document_end": null,
+  "in_force": "2018-03-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-03-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
