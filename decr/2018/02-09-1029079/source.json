@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029079,
+  "title": "Decreet van 2018-02-09 houdende instemming met de overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Democratische Volksrepubliek Algerije betreffende het luchtvervoer, gedaan te Brussel, op 27 februari 2017",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029079/VolledigDocument?datum=2018-03-09",
+  "source_sha256": "dc3094d8b96b1d50eb4b413f2a6870dfc2fb36eb270de86448c70172f5c508af",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029079&param=informatie",
+  "as_of": "2018-03-09",
+  "made": "2018-02-09",
+  "gazette": "2018-02-27",
+  "numac": 2018010908,
+  "document_start": "2018-03-09",
+  "document_end": null,
+  "in_force": "2018-03-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-03-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
