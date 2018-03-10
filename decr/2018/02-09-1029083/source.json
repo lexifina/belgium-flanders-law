@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029083,
+  "title": "Decreet van 2018-02-09 houdende instemming met: 1° de overeenkomst tussen de Regering van het Koninkrijk België en de Regering van Canada tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en het protocol, ondertekend te Ottawa op 23 mei 2002, zoals gewijzigd door het protocol ondertekend te Brussel op 1 april 2014, 2° het protocol, ondertekend te Brussel op 1 april 2014 tot wijziging van de onder 1° vermelde overeenkomst",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029083/VolledigDocument?datum=2018-03-10",
+  "source_sha256": "c60c29939592bcde41549dda623d5efe3c43cfc3e64b8dab7f2a25524458af99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029083&param=informatie",
+  "as_of": "2018-03-10",
+  "made": "2018-02-09",
+  "gazette": "2018-02-28",
+  "numac": 2018010888,
+  "document_start": "2018-03-10",
+  "document_end": null,
+  "in_force": "2018-03-10",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2018-03-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
