@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029088,
+  "title": "Besluit van de Vlaamse Regering van 2018-02-02 tot erkenning van de bachelor-na-bacheloropleiding bachelor in het onderwijs: meertalig onderwijs als nieuwe opleiding van UC Leuven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029088/VolledigDocument?datum=2018-03-11",
+  "source_sha256": "e2ad329a702b0a04d7b7a9808b87db0d8e7b16f7e2eb1f36ab55ba8b3579320b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029088&param=informatie",
+  "as_of": "2018-03-11",
+  "made": "2018-02-02",
+  "gazette": "2018-03-01",
+  "numac": 2018030505,
+  "document_start": "2018-03-11",
+  "document_end": null,
+  "in_force": "2018-03-11",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-03-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
