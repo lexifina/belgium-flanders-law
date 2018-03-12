@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029090,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-15 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 25 januari 2013 tot bepaling van de nadere regels betreffende de organisatorische omkadering, de financiering en de samenwerking voor het mobiliteitsbeleid, bl. 18252",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029090/VolledigDocument?datum=2018-03-12",
+  "source_sha256": "431476c4b8ab499f3d09c9ffe33c3cc4c239488954486e176629f1ee5c9d208d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029090&param=informatie",
+  "as_of": "2018-03-12",
+  "made": "2017-12-15",
+  "gazette": "2018-03-02",
+  "numac": 2018010883,
+  "document_start": "2018-03-12",
+  "document_end": null,
+  "in_force": "2018-03-12",
+  "article_versions": 36,
+  "record_form": "consolidated version as in force on 2018-03-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
