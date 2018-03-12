@@ -8,7 +8,20 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° decreet van 20 maart 2009 :   het decreet van 20 maart 2009 betreffende het mobiliteitsbeleid;<BR>2° minister   : de Vlaamse minister bevoegd voor de openbare werken, en de Vlaamse minister,   bevoegd voor het mobiliteitsbeleid en het vervoer;<BR>3° GBC : de Gemeentelijke   Begeleidingscommissie;<BR>4° IGBC : de Intergemeentelijke   Begeleidingscommissie;<BR>5° RMC : de Regionale Mobiliteitscommissie;<BR>6°   startnota : de rapportage over de analyse, de eventuele oplossingsvarianten en   voorkeursoplossing van een project, vermeld in artikel 26/6, eerste lid, 1°, van   het decreet van 20 maart 2009;<BR>7° projectnota : het voorontwerp van project   met verklarende nota, vermeld in artikel 26/6, eerste lid, 2°, van het decreet   van 20 maart 2009;<BR>8° evaluatienota : de rapportage over de uitgevoerde   evaluatie over een project, vermeld in artikel 26/6, tweede lid, van het decreet   van 20 maart 2009;<BR>9° unieke verantwoordingsnota : de rapportage over een   project, vermeld in artikel 26/6, eerste lid, van het decreet van 20 maart 2009,   waarin de start- en projectnota geïntegreerd zijn; <BR>10° RSV : het Ruimtelijk   Structuurplan Vlaanderen;<BR>11° gewestweg : de weg die onder het beheer van het   Vlaamse Gewest valt.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° decreet van 20 maart 2009 : het decreet van 20 maart 2009 betreffende het mobiliteitsbeleid;<br>
+2° minister : de Vlaamse minister bevoegd voor de openbare werken, en de Vlaamse minister, bevoegd voor het mobiliteitsbeleid en het vervoer;<br>
+3° GBC : de Gemeentelijke Begeleidingscommissie;<br>
+4° IGBC : de Intergemeentelijke Begeleidingscommissie;<br>
+5° RMC : de Regionale Mobiliteitscommissie;<br>
+6° startnota : de rapportage over de analyse, de eventuele oplossingsvarianten en voorkeursoplossing van een project, vermeld in artikel 26/6, eerste lid, 1°, van het decreet van 20 maart 2009;<br>
+7° projectnota : het voorontwerp van project met verklarende nota, vermeld in artikel 26/6, eerste lid, 2°, van het decreet van 20 maart 2009;<br>
+8° evaluatienota : de rapportage over de uitgevoerde evaluatie over een project, vermeld in artikel 26/6, tweede lid, van het decreet van 20 maart 2009;<br>
+9° unieke verantwoordingsnota : de rapportage over een project, vermeld in artikel 26/6, eerste lid, van het decreet van 20 maart 2009, waarin de start- en projectnota geïntegreerd zijn;<br>
+10° RSV : het Ruimtelijk Structuurplan Vlaanderen;<br>
+11° gewestweg : de weg die onder het beheer van het Vlaamse Gewest valt;<br>
+12° bovenlokale functionele fietsroutenetwerk: een wensbeeld voor gemeentegrensoverschrijdende fietsinfrastructuur in het Vlaamse Gewest. Het bovenlokale functionele fietsroutenetwerk verbindt woonkernen en attractiepolen, met name zones van tewerkstelling, van onderwijs, van handel, van sport en cultuur en mobiliteitsknooppunten;<br>
+13° fietssnelweg: de ruggengraat van het bovenlokale functionele fietsroutenetwerk, namelijk potentieel intensief te gebruiken doorgaande fietsroutes tussen steden en belangrijke attractiepolen, die met kwalitatief hoogwaardige infrastructuur worden uitgerust. De fietssnelweg biedt een aantrekkelijk alternatief voor verplaatsingen met de auto. Op fietssnelwegen, die herkenbaar zijn, kunnen fietsers veilig en comfortabel doorrijden over langere afstanden.
 
 ## TITEL 2 Organisatorische omkadering van het duurzame lokale mobiliteitsbeleid
 
@@ -38,13 +51,15 @@ In dit besluit wordt verstaan onder :<BR>1° decreet van 20 maart 2009 :   het d
 
 <p>Als voor de uitvoering van een project een omgevingsvergunning voor stedenbouwkundige handelingen is vereist, worden vertegenwoordigers van de instanties die met toepassing van&nbsp;artikel 24, eerste lid, artikel 42, eerste lid, of artikel 59, eerste lid, van het decreet van 25 april 2014 betreffende de omgevingsvergunning, advies verlenen bij de aanvraag tot omgevingsvergunning voor stedenbouwkundige handelingen, uitgenodigd om als variabel lid deel uit te maken van de GBC.</p>
 
-<p>In de volgende gevallen wordt naargelang het geval een vertegenwoordiger van de naamloze vennootschap van publiek recht en autonoom overheidsbedrijf NMBS Holding, de naamloze vennootschap van publiek recht en autonoom overheidsbedrijf Nationale Maatschappij der Belgische Spoorwegen of de naamloze vennootschap van publiek recht en autonoom overheidsbedrijf Infrabel uitgenodigd om als variabel lid deel uit te maken van de GBC :<br>
+<p>In de volgende gevallen wordt naargelang het geval een vertegenwoordiger van&nbsp;de naamloze vennootschap van publiek recht en autonoom overheidsbedrijf Nationale Maatschappij der Belgische Spoorwegen of de naamloze vennootschap van publiek recht en autonoom overheidsbedrijf Infrabel uitgenodigd om als variabel lid deel uit te maken van de GBC :<br>
 1° bij de begeleiding van de voorbereiding en de opmaak van een openbaar vervoerproject;<br>
 2° bij de begeleiding van de voorbereiding en de opmaak van doorstromingsmaatregelen voor het geregeld vervoer;<br>
 3° bij de begeleiding van de voorbereiding en de opmaak van projecten voor de herinrichting van stationsomgevingen;<br>
-4° bij de begeleiding van de voorbereiding en de opmaak van projecten die liggen in de nabijheid van spoorinfrastructuur voor treinverkeer.</p>
-
-<p>§ 3. De variabele leden kunnen deelnemen aan alle vergaderingen van de GBC.</p>
+4° bij de begeleiding van de voorbereiding en de opmaak van projecten die liggen in de nabijheid van spoorinfrastructuur voor treinverkeer.<br>
+<br>
+Voor een project waarvoor subsidies kunnen worden aangevraagd, wordt de bevoegde instantie, vermeld in artikel 37, § 2, altijd uitgenodigd om als variabel lid deel uit te maken van de GBC, als die bevoegde instantie voor het desbetreffende project niet als vast lid deel uitmaakt van de GBC.<br>
+<br>
+§ 3. De variabele leden kunnen deelnemen aan alle vergaderingen van de GBC.</p>
 
 <p>De variabele leden kunnen zonder aanwezig te zijn op de vergaderingen van de GBC voor de beraadslaging binnen de GBC ook hun schriftelijke opmerkingen meedelen aan de GBC. Die opmerkingen worden voorafgaandelijk meegedeeld aan de leden van de GBC.</p>
 
@@ -82,7 +97,11 @@ Artikel 2, § 2 en § 3, en artikel 3 tot en met 8 zijn van overeenkomstige   to
 
 ### ART. 13.
 
-<P>§ 1. De RMC bestaat uit vaste leden, vermeld in artikel 26/4, § 2, eerste   lid, van het decreet van 20 maart 2009, in voorkomend geval aangevuld met andere   leden.<BR></P>  <P>Elk vast lid kan een of meer vertegenwoordigers afvaardigen naar de   vergaderingen van de RMC.<BR></P>  <P>§ 2. De RMC wordt voorgezeten door een vast lid dat daarvoor door de minister   wordt aangewezen. <BR></P>
+<p>§ 1. De RMC bestaat uit vaste leden, vermeld in artikel 26/4, § 2, eerste lid, van het decreet van 20 maart 2009, in voorkomend geval aangevuld met andere leden.</p>
+
+<p>Elk vast lid kan een of meer vertegenwoordigers afvaardigen naar de vergaderingen van de RMC.</p>
+
+<p>§ 2. De RMC wordt voorgezeten door het departement.</p>
 
 ### ART. 14.
 
@@ -94,7 +113,13 @@ Artikel 2, § 2 en § 3, en artikel 3 tot en met 8 zijn van overeenkomstige   to
 
 ### ART. 16.
 
-<P>De RMC kan alleen rechtsgeldig beraadslagen als de voorzitter en ten minste   de helft van de vaste leden, waaronder de initiatiefnemer, aanwezig zijn.   <BR></P>  <P>Het quorum om rechtsgeldig te beraadslagen, vermeld in het eerste lid, wordt   bepaald ongeacht het aantal vertegenwoordigers dat aanwezig is voor het vaste   lid. <BR></P>  <P>Als de RMC niet rechtsgeldig heeft kunnen beraadslagen wordt de agenda van de   vergadering in kwestie hernomen op de eerstvolgende vergadering van de RMC. In   dat geval kan de RMC rechtsgeldig beraadslagen ongeacht het aantal aanwezige   vaste leden.<BR></P>
+<p>De RMC kan alleen rechtsgeldig beraadslagen als de voorzitter en ten minste de helft van de vaste leden, waaronder de initiatiefnemer, aanwezig zijn.</p>
+
+<p>Het quorum om rechtsgeldig te beraadslagen, vermeld in het eerste lid, wordt bepaald ongeacht het aantal vertegenwoordigers dat aanwezig is voor het vaste lid.<br>
+<br>
+In afwijking van het eerste lid kan elk lid van de RMC om het quorum te bereiken een schriftelijke volmacht verlenen aan een ander lid van de RMC.</p>
+
+<p>Als de RMC niet rechtsgeldig heeft kunnen beraadslagen wordt de agenda van de vergadering in kwestie hernomen op de eerstvolgende vergadering van de RMC. In dat geval kan de RMC rechtsgeldig beraadslagen ongeacht het aantal aanwezige vaste leden.</p>
 
 ### ART. 17.
 
@@ -122,11 +147,52 @@ Artikel 2, § 2 en § 3, en artikel 3 tot en met 8 zijn van overeenkomstige   to
 
 ### ART. 21.
 
-<P>§ 1. De infrastructuurgebonden projecten betreffen :<BR>1° de aanleg van   nieuwe gewestwegen of de herinrichting van bestaande gewestwegen, met inbegrip   van de bijhorende kruispunten;<BR>2° de aanleg van nieuwe fietsinfrastructuur of   de herinrichting van bestaande fietsinfrastructuur langs gewestwegen; <BR>3° de   aanleg van nieuwe fietsinfrastructuur of de herinrichting van bestaande   fietsinfrastructuur langs wegen die een alternatief is voor fietsinfrastructuur   langs gewestwegen;<BR>4° de aanleg van nieuwe fietsinfrastructuur of de   herinrichting van bestaande fietsinfrastructuur langs wegen die niet onder het   beheer van het Vlaamse Gewest vallen en die behoren tot het bovenlokaal   functioneel fietsroutenetwerk;<BR>5° de plaatsing van openbare verlichting langs   gewestwegen; <BR>6° de aanleg of herinrichting van wegen die gericht is op de   beveiliging van schoolbuurten; <BR>7° de aanleg of herinrichting van wegen die   gericht is op de duurzame ontsluiting van een tewerkstellings-, winkel- of   dienstenzone van bovenlokaal belang of met een significante mobiliteitsimpact;   <BR>8° de herinrichting van stationsomgevingen;<BR>9° de aanleg, heraanleg of   herinrichting van tram- en busbanen en andere infrastructuurgebonden   doorstromingsmaatregelen voor het geregeld vervoer; <BR>10° de aanleg of de   plaatsing van schermen en gronddammen langs een gewestweg die het   wegverkeerslawaai verminderen.<BR></P>  <P>§ 2 De infrastructuurgebonden projecten, vermeld in paragraaf 1, 1° tot en   met 9°, worden uitgevoerd volgens de methodiek vermeld in artikel 26/6 van het   decreet van 20 maart 2009, op voorwaarde dat :<BR>1° de totale   investeringskosten van de werken ten minste 200.000 euro bedragen;<BR>2° het   geen werken aan of op autosnelwegen betreft;<BR>3° het geen dringende   herstellingen aan bestaande infrastructuur betreft.<BR></P>  <P>De infrastructuurgebonden projecten, vermeld in paragraaf 1, 10°, worden   uitgevoerd volgens de methodiek vermeld in artikel 26/6 van het decreet van 20   maart 2009 op voorwaarde dat :<BR>1° de totale investeringskosten van de werken   ten minste 200.000 euro bedragen;<BR>2° het geen dringende herstellingen aan   bestaande infrastructuur betreft;<BR>3° het geen projecten of maatregelen   betreft die kaderen in de uitvoering van de geluidsactieprogramma's, als vermeld   in artikel 2.2.4.4.1. van het besluit van de Vlaamse Regering houdende algemene   en sectorale bepalingen inzake milieuhygiëne, of opgelegd als milderende   maatregel in het kader van de milieueffectrapportage, vermeld in hoofdstuk II en   III van titel IV van het decreet van 5 april 1995 houdende algemene bepalingen   inzake milieubeleid.<BR></P>  <P>In afwijking van het eerste en tweede lid worden infrastructuurgebonden   projecten, ongeacht het bedrag van de totale investeringskosten, in de volgende   gevallen uitgevoerd volgens de methodiek, vermeld in artikel 26/6 van het   decreet van 20 maart 2009 :<BR>1° als het werken betreft waarvoor een subsidie   wordt aangevraagd op basis van dit besluit;<BR>2° als er een   samenwerkingsovereenkomst als vermeld in artikel 53 van dit besluit, wordt   opgemaakt;<BR>3° op gemotiveerd verzoek van een of meer vaste leden van de GBC   of IGBC.<BR></P>  <P>§ 3. Over de processtappen die overeenkomstig de methodiek, vermeld in   artikel 26/6 van het decreet van 20 maart 2009, moeten worden doorlopen, wordt   gerapporteerd door middel van een onderscheiden start-, project- en   evaluatienota.<BR></P>  <P>In afwijking van het eerste lid kan de initiatiefnemer beslissen om de   processtappen, vermeld in artikel 26/6, eerste lid, van het decreet van 20 maart   2009, met betrekking tot de infrastructuurgebonden projecten te integreren als   de GBC of de IGBC van oordeel is dat voor de uitvoering van het project geen   redelijke alternatieven aanwezig zijn. In dat geval wordt gerapporteerd met een   unieke verantwoordingsnota.<BR></P>  <P>De start-, project-, evaluatie- en unieke verantwoordingsnota worden   opgemaakt volgens de bepalingen, vermeld artikel 24 tot en met   27.<BR></P>
+<p>§ 1. De infrastructuurgebonden projecten betreffen :<br>
+1° de aanleg van nieuwe gewestwegen of de herinrichting van bestaande gewestwegen, met inbegrip van de bijhorende kruispunten;<br>
+2° de aanleg van nieuwe fietsinfrastructuur of de herinrichting van bestaande fietsinfrastructuur langs gewestwegen;<br>
+3° de aanleg van nieuwe fietsinfrastructuur of de herinrichting van bestaande fietsinfrastructuur langs wegen die een alternatief is voor fietsinfrastructuur langs gewestwegen;<br>
+4° de aanleg van nieuwe fietsinfrastructuur of de herinrichting van bestaande fietsinfrastructuur langs wegen die niet onder het beheer van het Vlaamse Gewest vallen en die behoren tot het bovenlokaal functioneel fietsroutenetwerk;<br>
+5° de plaatsing van openbare verlichting langs gewestwegen;<br>
+6° de aanleg of herinrichting van wegen die gericht is op de beveiliging van schoolbuurten;<br>
+7° de aanleg of herinrichting van wegen die gericht is op de duurzame ontsluiting van een tewerkstellings-, winkel- of dienstenzone van bovenlokaal belang of met een significante mobiliteitsimpact;<br>
+8° de herinrichting van stationsomgevingen;<br>
+9° de aanleg, heraanleg of herinrichting van tram- en busbanen en andere infrastructuurgebonden doorstromingsmaatregelen voor het geregeld vervoer;<br>
+10° de aanleg of de plaatsing van schermen en gronddammen langs een gewestweg die het wegverkeerslawaai verminderen;<br>
+11° de aanleg van nieuwe, ongelijkvloers kruisende, gemeentelijke fietsinfrastructuur op trajecten van het bovenlokale functionele fietsroutenetwerk boven of onder gewestwegen.<br>
+<br>
+§ 1/1. Als voor de infrastructuurgebonden projecten, vermeld in paragraaf 1, een plan-MER over plannen en programma's conform titel IV, hoofdstuk II, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, moet worden opgemaakt, vangt de methodiek, vermeld in artikel 26/6 van het decreet van 20 maart 2009, op zijn vroegst aan nadat de bevoegde administratie het plan-MER heeft goedgekeurd conform artikel 4.2.11, § 4, van het voormelde decreet van 5 april 1995.<br>
+<br>
+§ 2 De infrastructuurgebonden projecten, vermeld in paragraaf 1, 1° tot en met 9° en 11° worden uitgevoerd volgens de methodiek vermeld in artikel 26/6 van het decreet van 20 maart 2009, mits voldaan is aan één van de volgende voorwaarden:<br>
+1° de totale investeringskosten van de werken op ten minste 500.000 euro worden geraamd;<br>
+2° het geen werken aan of op autosnelwegen betreft;<br>
+3° het geen dringende herstellingen aan bestaande infrastructuur betreft.</p>
+
+<p>De infrastructuurgebonden projecten, vermeld in paragraaf 1, 10°, worden uitgevoerd volgens de methodiek vermeld in artikel 26/6 van het decreet van 20 maart 2009 mits voldaan is aan één van de volgende voorwaarden:<br>
+1° de totale investeringskosten van de werken op ten minste 500.000 euro worden geraamd;<br>
+2° het geen dringende herstellingen aan bestaande infrastructuur betreft;<br>
+3° het geen projecten of maatregelen betreft die kaderen in de uitvoering van de geluidsactieprogramma's, als vermeld in artikel 2.2.4.4.1. van het besluit van de Vlaamse Regering houdende algemene en sectorale bepalingen inzake milieuhygiëne, of opgelegd als milderende maatregel in het kader van de milieueffectrapportage, vermeld in hoofdstuk II en III van titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.</p>
+
+<p>In afwijking van het eerste en tweede lid worden infrastructuurgebonden projecten, ongeacht het bedrag van de totale investeringskosten, in de volgende gevallen uitgevoerd volgens de methodiek, vermeld in artikel 26/6 van het decreet van 20 maart 2009 :<br>
+1° als het werken betreft waarvoor een subsidie wordt aangevraagd op basis van dit besluit;<br>
+2° als er een samenwerkingsovereenkomst als vermeld in artikel 53 van dit besluit, wordt opgemaakt;<br>
+3° op gemotiveerd verzoek van een of meer vaste leden van de GBC of IGBC.</p>
+
+<p>§ 3. Over de processtappen die overeenkomstig de methodiek, vermeld in artikel 26/6 van het decreet van 20 maart 2009, moeten worden doorlopen, wordt gerapporteerd door middel van een onderscheiden start-, project- en evaluatienota.</p>
+
+<p>In afwijking van het eerste lid kan de initiatiefnemer beslissen om de processtappen, vermeld in artikel 26/6, eerste lid, van het decreet van 20 maart 2009, met betrekking tot de infrastructuurgebonden projecten te integreren als de GBC of de IGBC van oordeel is dat voor de uitvoering van het project geen redelijke alternatieven aanwezig zijn. In dat geval wordt gerapporteerd met een unieke verantwoordingsnota.</p>
+
+<p>De start-, project-, evaluatie- en unieke verantwoordingsnota worden opgemaakt volgens de bepalingen, vermeld in artikel 24 tot en met 27.</p>
 
 ### ART. 22.
 
-<P>De projecten voor de wijziging van het aanbod in het kader van het   netmanagement, vermeld in het besluit van de Vlaamse Regering van 13 december   2002 betreffende het netmanagement, informatieverstrekking over, promotie van en   niet-infrastructuurgebonden maatregelen ten behoeve van het geregeld vervoer,   worden uitgevoerd volgens de methodiek, vermeld in artikel 26/6 van het decreet   van 20 maart 2009, op voorwaarde dat :<BR>1° de totale investeringskosten van de   maatregelen ten minste 200.000 euro per jaar per maatregel bedragen;<BR>2° het   geen versterkingsritten betreft als vermeld in artikel 2 van het besluit van de   Vlaamse Regering van 19 juli 2002 betreffende het geregeld vervoer, de   bijzondere vormen van geregeld vervoer, het vervoer voor eigen rekening en het   ongeregeld vervoer;<BR>3° het geen daling van het aanbod betreft die het gevolg   is van financiële noodwendigheden.<BR></P>  <P>Op gemotiveerd verzoek van de initiatiefnemer kunnen projecten vermeld in het   eerste lid die niet voldoen aan de voorwaarden vermeld in het eerste lid worden   uitgevoerd volgens de methodiek vermeld in artikel 26/6 van het decreet van 20   maart 2009.<BR></P>  <P>Voor de projecten vermeld in het eerste en tweede lid wordt een unieke   verantwoordingsnota opgesteld. De unieke verantwoordingsnota wordt opgemaakt   volgens de bepalingen, vermeld in artikel 26, tweede lid.<BR></P>
+<p>De projecten voor de wijziging van het aanbod in het kader van het netmanagement, vermeld in het besluit van de Vlaamse Regering van 13 december 2002 betreffende het netmanagement, informatieverstrekking over, promotie van en niet-infrastructuurgebonden maatregelen ten behoeve van het geregeld vervoer, worden uitgevoerd volgens de methodiek, vermeld in artikel 26/6 van het decreet van 20 maart 2009, mits voldaan is aan één van de volgende voorwaarden:<br>
+1° de totale investeringskosten van de maatregelen op ten minste 500.000 euro per jaar per maatregel worden geraamd;<br>
+2° het geen versterkingsritten betreft als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 19 juli 2002 betreffende het geregeld vervoer, de bijzondere vormen van geregeld vervoer, het vervoer voor eigen rekening en het ongeregeld vervoer;<br>
+3° het geen daling van het aanbod betreft die het gevolg is van financiële noodwendigheden.</p>
+
+<p>Op gemotiveerd verzoek van&nbsp;een of meer vaste leden van de GBC of IGBC kunnen projecten vermeld in het eerste lid die niet voldoen aan de voorwaarden vermeld in het eerste lid worden uitgevoerd volgens de methodiek vermeld in artikel 26/6 van het decreet van 20 maart 2009.</p>
+
+<p>Voor de projecten vermeld in het eerste en tweede lid wordt een unieke verantwoordingsnota opgesteld. De unieke verantwoordingsnota wordt opgemaakt volgens de bepalingen, vermeld in artikel 26, tweede lid.</p>
 
 ### ART. 23.
 
@@ -146,27 +212,100 @@ De projectnota omvat ten minste :<BR>1° een samenvattende beschrijving van   de
 
 ### ART. 27.
 
-De evaluatienota omvat ten minste :<BR>1° een analyse van het   proces;<BR>2° een analyse van het project en de effecten ervan in het licht van   de probleemstelling en doelstelling;<BR>3° een conclusie, met onder meer :   <BR>a) een omschrijving van de maatregelen die in voorkomend geval zijn vereist   om het project in kwestie te optimaliseren;<BR>b) een omschrijving van de   belangrijkste succesfactoren en leerpunten met betrekking tot vergelijkbare   projecten.<BR>
+De evaluatienota omvat ten minste :<br>
+1° een analyse van het proces;<br>
+2° een analyse van het project en de effecten ervan in het licht van de probleemstelling en doelstelling;<br>
+3° een conclusie, met onder meer :<br>
+a) een omschrijving van de maatregelen die in voorkomend geval zijn vereist om het project in kwestie te optimaliseren, inclusief de financiële impact van die maatregelen;<br>
+b) een omschrijving van de belangrijkste succesfactoren en leerpunten met betrekking tot vergelijkbare projecten.
 
 ### ART. 28.
 
-<P>§ 1. De voorzitter van de GBC of IGBC bezorgt het ontwerp van gemeentelijk of   intergemeentelijk mobiliteitsplan, samen met de resultaten van het openbaar   onderzoek of andere vormen van participatie, aan de voorzitter van de RMC en aan   de kwaliteitsadviseur. <BR></P>  <P>De kwaliteitsadviseur brengt onmiddellijk na de ontvangst van de documenten,   vermeld in het eerste lid, het departement op de hoogte van de datum waarop hij   die documenten heeft ontvangen. De kwaliteitsadviseur wordt in ieder geval   geacht de documenten te hebben ontvangen op de derde werkdag die volgt op de dag   waarop deze aan de postdiensten werden overhandigd, tenzij de kwaliteitsadviseur   het tegendeel bewijst of de documenten worden overhandigd op een andere door de   minister of zijn gemachtigde toegelaten of met de kwaliteitsadviseur vooraf   overeengekomen wijze waarbij de datum van overhandiging met zekerheid kan worden   vastgesteld. <BR></P>  <P>De voorzitter van de RMC roept een vergadering van de RMC samen met   toepassing van artikel 15, tweede lid. De voorzitter van de RMC nodigt de   kwaliteitsadviseur uit voor de vergadering waarop de documenten, vermeld in het   eerste lid, worden besproken in de RMC.<BR></P>  <P>Na bespreking in de RMC verleent de kwaliteitsadviseur zijn schriftelijke en   gemotiveerde advies binnen vijftien werkdagen na de vergadering, vermeld in het   derde lid. Het advies houdt ten minste rekening met de criteria, vermeld in   artikel 19, § 3, tweede lid, van het decreet van 20 maart 2009, en met de   richtinggevende bepalingen van het Mobiliteitsplan Vlaanderen.<BR></P>  <P>De kwaliteitsadviseur bezorgt zijn advies aan de voorzitter van de RMC en aan   het departement. <BR></P>  <P>Als binnen de termijn, vermeld in het vierde lid, geen advies is uitgebracht,   wordt het advies geacht gunstig te zijn. In dat geval brengt het departement de   voorzitter van de RMC en de kwaliteitsadviseur er schriftelijk van op de hoogte   dat er geen advies is uitgebracht binnen de voorgeschreven termijn. <BR></P>  <P>De voorzitter van de RMC bezorgt het advies of de schriftelijke kennisgeving,   vermeld in het zesde lid, aan de vaste leden van de GBC of de IGBC, met   vermelding van de termijn en de procedure om een verzoek tot heroverweging in te   dienen tegen een ongunstig advies. Deze termijn gaat in op de eerste werkdag   volgend op de dag van de ontvangst van het advies of de schriftelijke   kennisgeving. De leden van de GBC of de IGBC worden geacht het advies of de   schriftelijke kennisgeving te hebben ontvangen op de derde werkdag die volgt op   de dag waarop deze aan de postdiensten werd overhandigd, tenzij het betrokken   lid van de GBC of IGBC het tegendeel bewijst of het advies of de schriftelijke   kennisgeving wordt overhandigd op een andere door het huishoudelijk reglement,   vermeld in artikel 8, toegelaten wijze waarbij de datum van overhandiging met   zekerheid kan worden vastgesteld.<BR></P>  <P>De voorzitter van de GBC of IGBC bezorgt het advies of de schriftelijke   kennisgeving, vermeld in het zesde lid, ook aan de voorzitter van de   gemeenteraad. <BR></P>  <P>§ 2. Als de gemeenteraad het ontwerp van gemeentelijk of intergemeentelijk   mobiliteitsplan heeft aangepast aan de punten die aanleiding hebben gegeven tot   het ongunstige advies van de kwaliteitsadviseur, bezorgt de voorzitter van de   gemeenteraad het opnieuw aan de kwaliteitsadviseur. <BR></P>  <P>De kwaliteitsadviseur brengt onmiddellijk na de ontvangst van de documenten,   vermeld in het eerste lid, het departement op de hoogte van de datum waarop hij   die documenten heeft ontvangen. De kwaliteitsadviseur wordt geacht deze   documenten te hebben ontvangen overeenkomstig de bepalingen, vermeld in   paragraaf 1, tweede lid.<BR></P>  <P>De kwaliteitsadviseur brengt zijn schriftelijke en gemotiveerde advies uit   binnen de vijftien werkdagen na de ontvangst van het aangepaste ontwerp van   gemeentelijk of intergemeentelijk mobiliteitsplan. <BR></P>  <P>De bepalingen, vermeld in paragraaf 1, vijfde tot en met achtste lid, zijn   van overeenkomstige toepassing op de mededeling van het advies of de   schriftelijke kennisgeving dat niet binnen de voorgeschreven termijn advies werd   gegeven.<BR></P>
+<p>§ 1. De voorzitter van de GBC of IGBC bezorgt het ontwerp van gemeentelijk of intergemeentelijk mobiliteitsplan, samen met de resultaten van het openbaar onderzoek of andere vormen van participatie, aan de voorzitter van de RMC en aan de kwaliteitsadviseur.</p>
+
+<p>De kwaliteitsadviseur brengt onmiddellijk na de ontvangst van de documenten, vermeld in het eerste lid, de voorzitter van de RMC op de hoogte van de datum waarop hij die documenten heeft ontvangen. De kwaliteitsadviseur wordt in ieder geval geacht de documenten te hebben ontvangen op de derde werkdag die volgt op de dag waarop deze aan de postdiensten werden overhandigd, tenzij de kwaliteitsadviseur het tegendeel bewijst of de documenten worden overhandigd op een andere door de minister of zijn gemachtigde toegelaten of met de kwaliteitsadviseur vooraf overeengekomen wijze waarbij de datum van overhandiging met zekerheid kan worden vastgesteld.</p>
+
+<p>De voorzitter van de RMC roept een vergadering van de RMC samen met toepassing van artikel 15, tweede lid. De voorzitter van de RMC nodigt de kwaliteitsadviseur uit voor de vergadering waarop de documenten, vermeld in het eerste lid, worden besproken in de RMC.</p>
+
+<p>Na bespreking in de RMC verleent de kwaliteitsadviseur zijn schriftelijke en gemotiveerde advies binnen vijftien werkdagen na de vergadering, vermeld in het derde lid. Het advies houdt ten minste rekening met de criteria, vermeld in artikel 19, § 3, tweede lid, van het decreet van 20 maart 2009, en met de richtinggevende bepalingen van het Mobiliteitsplan Vlaanderen.</p>
+
+<p>De kwaliteitsadviseur bezorgt zijn advies aan de voorzitter van de RMC.</p>
+
+<p>Als binnen de termijn, vermeld in het vierde lid, geen advies is uitgebracht, wordt het advies geacht gunstig te zijn. In dat geval brengt&nbsp;de voorzitter van de RMC de kwaliteitsadviseur er schriftelijk van op de hoogte dat er geen advies is uitgebracht binnen de voorgeschreven termijn.</p>
+
+<p>De voorzitter van de RMC bezorgt het advies of de schriftelijke kennisgeving, vermeld in het zesde lid, aan de vaste leden van de GBC of de IGBC, met vermelding van de termijn en de procedure om een verzoek tot heroverweging in te dienen tegen een ongunstig advies. Deze termijn gaat in op de eerste werkdag volgend op de dag van de ontvangst van het advies of de schriftelijke kennisgeving. De leden van de GBC of de IGBC worden geacht het advies of de schriftelijke kennisgeving te hebben ontvangen op de derde werkdag die volgt op de dag waarop deze aan de postdiensten werd overhandigd, tenzij het betrokken lid van de GBC of IGBC het tegendeel bewijst of het advies of de schriftelijke kennisgeving wordt overhandigd op een andere door het huishoudelijk reglement, vermeld in artikel 8, toegelaten wijze waarbij de datum van overhandiging met zekerheid kan worden vastgesteld.</p>
+
+<p>De voorzitter van de GBC of IGBC bezorgt het advies of de schriftelijke kennisgeving, vermeld in het zesde lid, ook aan de voorzitter van de gemeenteraad.</p>
+
+<p>§ 2. Als de gemeenteraad het ontwerp van gemeentelijk of intergemeentelijk mobiliteitsplan heeft aangepast aan de punten die aanleiding hebben gegeven tot het ongunstige advies van de kwaliteitsadviseur, bezorgt de voorzitter van de gemeenteraad het opnieuw aan de kwaliteitsadviseur.</p>
+
+<p>De kwaliteitsadviseur brengt onmiddellijk na de ontvangst van de documenten, vermeld in het eerste lid,&nbsp;de voorzitter van de RMC op de hoogte van de datum waarop hij die documenten heeft ontvangen. De kwaliteitsadviseur wordt geacht deze documenten te hebben ontvangen overeenkomstig de bepalingen, vermeld in paragraaf 1, tweede lid.</p>
+
+<p>De kwaliteitsadviseur brengt zijn schriftelijke en gemotiveerde advies uit binnen de vijftien werkdagen na de ontvangst van het aangepaste ontwerp van gemeentelijk of intergemeentelijk mobiliteitsplan.</p>
+
+<p>De bepalingen, vermeld in paragraaf 1, vijfde tot en met achtste lid, zijn van overeenkomstige toepassing op de mededeling van het advies of de schriftelijke kennisgeving dat niet binnen de voorgeschreven termijn advies werd gegeven.</p>
 
 ### ART. 29.
 
-<P>§ 1. De voorzitter van de GBC of IGBC bezorgt de resultaten van de sneltoets,   vermeld in artikel 20, aan de voorzitter van de RMC en de   kwaliteitsadviseur.<BR></P>  <P>De voorzitter van de RMC roept een vergadering van de RMC samen met   toepassing van artikel 15, tweede lid. De voorzitter van de RMC nodigt de   kwaliteitsadviseur uit voor de vergadering waarop die evaluatie wordt besproken   in de RMC.<BR></P>  <P>Na bespreking in de RMC verleent de kwaliteitsadviseur zijn schriftelijke en   gemotiveerde advies binnen vijftien werkdagen na de vergadering, vermeld in het   tweede lid. Het advies wordt verleend volgens de criteria, vermeld in artikel   28, § 1, vierde lid.<BR></P>  <P>De kwaliteitsadviseur bezorgt zijn advies aan de voorzitter van de RMC en het   departement. <BR></P>  <P>Als binnen de termijn, vermeld in het derde lid, geen advies is uitgebracht,   wordt het advies geacht gunstig te zijn. In dat geval brengt het departement de   voorzitter van de RMC en de kwaliteitsadviseur er schriftelijk van op de hoogte   dat er geen advies is uitgebracht binnen de voorgeschreven termijn. <BR></P>  <P>De voorzitter van de RMC bezorgt het advies of de schriftelijke kennisgeving,   vermeld in het vijfde lid, aan de vaste leden van de GBC of de IGBC, met   vermelding van de termijn en de procedure om een verzoek tot heroverweging in te   dienen tegen een ongunstig advies. Deze termijn gaat in op de eerste werkdag   volgend op de dag van de ontvangst van het advies of de schriftelijke   kennisgeving. De leden van de GBC of de IGBC worden geacht het advies of de   schriftelijke kennisgeving te hebben ontvangen overeenkomstig de bepalingen van   artikel 28, § 1, zevende lid.<BR></P>  <P>§ 2. Als de GBC de sneltoets heeft aangepast aan de punten die aanleiding   hebben gegeven tot het ongunstige advies van de kwaliteitsadviseur, bezorgt de   voorzitter van de GBC het opnieuw aan de kwaliteitsadviseur.<BR></P>  <P>De kwaliteitsadviseur brengt zijn schriftelijk en gemotiveerd advies uit   binnen vijftien werkdagen na de ontvangst van de aangepaste sneltoets. <BR></P>  <P>De bepalingen, vermeld in paragraaf 1, derde tot en met zesde lid, zijn van   overeenkomstige toepassing op de criteria en de mededeling van het advies of de   kennisgeving dat niet binnen de voorgeschreven termijn advies werd   gegeven.<BR></P>
+<p>§ 1. De voorzitter van de GBC of IGBC bezorgt de resultaten van de sneltoets, vermeld in artikel 20, aan de voorzitter van de RMC en de kwaliteitsadviseur.</p>
+
+<p>De voorzitter van de RMC roept een vergadering van de RMC samen met toepassing van artikel 15, tweede lid. De voorzitter van de RMC nodigt de kwaliteitsadviseur uit voor de vergadering waarop die evaluatie wordt besproken in de RMC.</p>
+
+<p>Na bespreking in de RMC verleent de kwaliteitsadviseur zijn schriftelijke en gemotiveerde advies binnen vijftien werkdagen na de vergadering, vermeld in het tweede lid. Het advies wordt verleend volgens de criteria, vermeld in artikel 28, § 1, vierde lid.</p>
+
+<p>De kwaliteitsadviseur bezorgt zijn advies aan de voorzitter van de RMC.</p>
+
+<p>Als binnen de termijn, vermeld in het derde lid, geen advies is uitgebracht, wordt het advies geacht gunstig te zijn. In dat geval brengt de voorzitter van de RMC en de kwaliteitsadviseur er schriftelijk van op de hoogte dat er geen advies is uitgebracht binnen de voorgeschreven termijn.</p>
+
+<p>De voorzitter van de RMC bezorgt het advies of de schriftelijke kennisgeving, vermeld in het vijfde lid, aan de vaste leden van de GBC of de IGBC, met vermelding van de termijn en de procedure om een verzoek tot heroverweging in te dienen tegen een ongunstig advies. Deze termijn gaat in op de eerste werkdag volgend op de dag van de ontvangst van het advies of de schriftelijke kennisgeving. De leden van de GBC of de IGBC worden geacht het advies of de schriftelijke kennisgeving te hebben ontvangen overeenkomstig de bepalingen van artikel 28, § 1, zevende lid.</p>
+
+<p>§ 2. Als de GBC de sneltoets heeft aangepast aan de punten die aanleiding hebben gegeven tot het ongunstige advies van de kwaliteitsadviseur, bezorgt de voorzitter van de GBC het opnieuw aan de kwaliteitsadviseur.</p>
+
+<p>De kwaliteitsadviseur brengt zijn schriftelijk en gemotiveerd advies uit binnen vijftien werkdagen na de ontvangst van de aangepaste sneltoets.</p>
+
+<p>De bepalingen, vermeld in paragraaf 1, derde tot en met zesde lid, zijn van overeenkomstige toepassing op de criteria en de mededeling van het advies of de kennisgeving dat niet binnen de voorgeschreven termijn advies werd gegeven.</p>
 
 ### ART. 30.
 
-<P>§ 1. De initiatiefnemer bezorgt de start- en projectnota of de unieke   verantwoordingsnota en de evaluatienota, telkens samen met de desbetreffende   verslagen van de beraadslagingen van de GBC of de IGBC, aan de   kwaliteitsadviseur, de voorzitter van de RMC en het departement.<BR></P>  <P>§ 2. Als er geen consensus is vastgesteld binnen de GBC of IGBC roept de   voorzitter van de RMC een vergadering van de RMC samen met toepassing van   artikel 15, tweede lid. <BR></P>  <P>§ 3. De initiatiefnemer kan tegelijk met het bezorgen van de documenten,   vermeld in paragraaf 1, de voorzitter van de RMC verzoeken om een beraadslaging   in de RMC. Het verzoek daarvoor wordt schriftelijk ingediend. <BR></P>  <P>Elk verzoek dat nadien door de initiatiefnemer wordt geformuleerd, is niet   ontvankelijk.<BR></P>  <P>Bij tijdig verzoek roept de voorzitter van de RMC een vergadering van de RMC   samen met toepassing van artikel 15, tweede lid. Tezelfdertijd brengt de   voorzitter van de RMC de kwaliteitsadviseur op de hoogte van dat   verzoek.<BR></P>  <P>§ 4. De kwaliteitsadviseur beslist binnen de termijn van vijftien werkdagen   na de ontvangst van de documenten, vermeld in paragraaf 1, of hij om een   beraadslaging in de RMC verzoekt. Het verzoek daarvoor wordt schriftelijk   ingediend. De kwaliteitsadviseur wordt geacht de documenten te hebben ontvangen   overeenkomstig de bepalingen, vermeld in artikel 28, § 1, tweede lid.<BR></P>  <P>De kwaliteitsadviseur richt zijn verzoek, vermeld in het eerste lid, tot de   voorzitter van de RMC. Een afschrift van het verzoek wordt bezorgd aan het   departement. <BR></P>  <P>Elk verzoek dat buiten die termijn door de kwaliteitsadviseur wordt   geformuleerd, is niet ontvankelijk. <BR></P>  <P>Bij tijdig verzoek roept de voorzitter de vergadering van de RMC samen met   toepassing van artikel 15, tweede lid.<BR></P>
+<p>§ 1. De initiatiefnemer bezorgt de start- en projectnota of de unieke verantwoordingsnota en de evaluatienota, telkens samen met de desbetreffende verslagen van de beraadslagingen van de GBC of de IGBC, aan de kwaliteitsadviseur en de voorzitter van de RMC.</p>
+
+<p>§ 2. Als er geen consensus is vastgesteld binnen de GBC of IGBC roept de voorzitter van de RMC een vergadering van de RMC samen met toepassing van artikel 15, tweede lid.</p>
+
+<p>§ 3. De initiatiefnemer kan tegelijk met het bezorgen van de documenten, vermeld in paragraaf 1, de voorzitter van de RMC verzoeken om een beraadslaging in de RMC. Het verzoek daarvoor wordt schriftelijk ingediend.</p>
+
+<p>Elk verzoek dat nadien door de initiatiefnemer wordt geformuleerd, is niet ontvankelijk.</p>
+
+<p>Bij tijdig verzoek roept de voorzitter van de RMC een vergadering van de RMC samen met toepassing van artikel 15, tweede lid. Tezelfdertijd brengt de voorzitter van de RMC de kwaliteitsadviseur op de hoogte van dat verzoek.</p>
+
+<p>§ 4. De kwaliteitsadviseur beslist binnen de termijn van vijftien werkdagen na de ontvangst van de documenten, vermeld in paragraaf 1, of hij om een beraadslaging in de RMC verzoekt. Het verzoek daarvoor wordt schriftelijk ingediend. De kwaliteitsadviseur wordt geacht de documenten te hebben ontvangen overeenkomstig de bepalingen, vermeld in artikel 28, § 1, tweede lid.</p>
+
+<p>De kwaliteitsadviseur richt zijn verzoek, vermeld in het eerste lid, tot de voorzitter van de RMC.</p>
+
+<p>Elk verzoek dat buiten die termijn door de kwaliteitsadviseur wordt geformuleerd, is niet ontvankelijk.</p>
+
+<p>Bij tijdig verzoek roept de voorzitter de vergadering van de RMC samen met toepassing van artikel 15, tweede lid.</p>
 
 ### ART. 31.
 
-<P>§ 1. In de gevallen, vermeld in artikel 30, § 2, § 3, eerste lid, en § 4,   eerste lid, worden de documenten, vermeld in artikel 30, § 1, als bijlage   gevoegd bij de uitnodiging voor de vaste leden en, in voorkomend geval, voor de   andere leden van de RMC. <BR></P>  <P>De voorzitter van de RMC nodigt tegelijkertijd ook de kwaliteitsadviseur uit   voor de vergadering waarop de documenten, vermeld in artikel 30, § 1, worden   besproken in de RMC.<BR></P>  <P>§ 2. De kwaliteitsadviseur formuleert tijdens de vergadering van de RMC   waarop over het project wordt beraadslaagd zijn mondelinge advies. <BR></P>  <P>Binnen een termijn van vijftien werkdagen na de vergadering, vermeld in het   eerste lid, bezorgt de kwaliteitsadviseur de schriftelijke neerslag van zijn   mondeling advies aan het departement, de voorzitter van de RMC en de voorzitter   van de GBC of IGBC. <BR></P>  <P>Als binnen de termijn, vermeld in het tweede lid, geen advies is uitgebracht,   wordt het advies geacht gunstig te zijn. In dat geval brengt het departement de   voorzitter van de RMC en de kwaliteitsadviseur er schriftelijk van op de hoogte   dat er geen advies is uitgebracht binnen de voorgeschreven termijn. <BR></P>  <P>De voorzitter van de RMC bezorgt het advies of de schriftelijke kennisgeving,   vermeld in het derde lid, aan de vaste leden van de GBC of de IGBC, met   vermelding van de termijn en de procedure om een verzoek tot heroverweging in te   dienen. Deze termijn gaat in op de eerste werkdag volgend op de dag van de   ontvangst van het advies of de schriftelijke kennisgeving. De leden van de GBC   of de IGBC worden geacht het advies of de kennisgeving te hebben ontvangen   overeenkomstig de bepalingen, vermeld in artikel 28, § 1, zevende   lid.<BR></P>
+<p>§ 1. In de gevallen, vermeld in artikel 30, § 2, § 3, eerste lid, en § 4, eerste lid, worden de documenten, vermeld in artikel 30, § 1, als bijlage gevoegd bij de uitnodiging voor de vaste leden en, in voorkomend geval, voor de andere leden van de RMC.</p>
+
+<p>De voorzitter van de RMC nodigt tegelijkertijd ook de kwaliteitsadviseur uit voor de vergadering waarop de documenten, vermeld in artikel 30, § 1, worden besproken in de RMC.</p>
+
+<p>§ 2. De kwaliteitsadviseur formuleert tijdens de vergadering van de RMC waarop over het project wordt beraadslaagd zijn mondelinge advies.</p>
+
+<p>Binnen een termijn van vijftien werkdagen na de vergadering, vermeld in het eerste lid, bezorgt de kwaliteitsadviseur de schriftelijke neerslag van zijn mondeling advies aan&nbsp;de voorzitter van de RMC en de voorzitter van de GBC of IGBC.</p>
+
+<p>Als binnen de termijn, vermeld in het tweede lid, geen advies is uitgebracht, wordt het advies geacht gunstig te zijn. In dat geval brengt de voorzitter van de RMC&nbsp;de kwaliteitsadviseur er schriftelijk van op de hoogte dat er geen advies is uitgebracht binnen de voorgeschreven termijn.</p>
+
+<p>De voorzitter van de RMC bezorgt het advies of de schriftelijke kennisgeving, vermeld in het derde lid, aan de vaste leden van de GBC of de IGBC, met vermelding van de termijn en de procedure om een verzoek tot heroverweging in te dienen. Deze termijn gaat in op de eerste werkdag volgend op de dag van de ontvangst van het advies of de schriftelijke kennisgeving. De leden van de GBC of de IGBC worden geacht het advies of de kennisgeving te hebben ontvangen overeenkomstig de bepalingen, vermeld in artikel 28, § 1, zevende lid.</p>
 
 ### ART. 32.
 
-<P>Buiten de gevallen, vermeld in artikel 30, § 2, § 3, eerste lid, en § 4,   eerste lid, bezorgt de kwaliteitsadviseur zijn schriftelijke en gemotiveerde   advies binnen de vijftien werkdagen na de ontvangst van de documenten, vermeld   in artikel 30, § 1, eerste lid, aan het departement, de voorzitter van de RMC en   de voorzitter van de GBC of IGBC. <BR></P>  <P>De kwaliteitsadviseur brengt onmiddellijk na de ontvangst van de documenten,   vermeld in het eerste lid, het departement op de hoogte van de datum waarop hij   die documenten heeft ontvangen. De kwaliteitsadviseur wordt geacht de documenten   te hebben ontvangen overeenkomstig de bepalingen, vermeld in artikel 28, § 1,   tweede lid.<BR></P>  <P>Artikel 31, § 2, derde en vierde lid, zijn van overeenkomstige toepassing op   de mededeling van het advies of de schriftelijke kennisgeving dat niet binnen de   voorgeschreven termijn advies werd gegeven.<BR></P>
+<p>Buiten de gevallen, vermeld in artikel 30, § 2, § 3, eerste lid, en § 4, eerste lid, bezorgt de kwaliteitsadviseur zijn schriftelijke en gemotiveerde advies binnen de vijftien werkdagen na de ontvangst van de documenten, vermeld in artikel 30, § 1, eerste lid, aan&nbsp;de voorzitter van de RMC en de voorzitter van de GBC of IGBC.</p>
+
+<p>De kwaliteitsadviseur brengt onmiddellijk na de ontvangst van de documenten, vermeld in het eerste lid,&nbsp;de voorzitter van de RMC op de hoogte van de datum waarop hij die documenten heeft ontvangen. De kwaliteitsadviseur wordt geacht de documenten te hebben ontvangen overeenkomstig de bepalingen, vermeld in artikel 28, § 1, tweede lid.</p>
+
+<p>Artikel 31, § 2, derde en vierde lid, zijn van overeenkomstige toepassing op de mededeling van het advies of de schriftelijke kennisgeving dat niet binnen de voorgeschreven termijn advies werd gegeven.</p>
 
 ### ART. 33.
 
@@ -190,7 +329,30 @@ Als voor plannen of projecten die op basis van dit besluit een subsidie   verkri
 
 ### ART. 37.
 
-<P>§ 1. De procedure tot aanvraag, behandeling en de betaling van de subsidies   die ter uitvoering van deze titel worden toegekend, verloopt, behalve in geval   van een andersluidende regeling, volgens de bepalingen van dit   hoofdstuk.<BR></P>  <P>§ 2. Een ondertekende subsidieaanvraag wordt aangetekend of elektronisch   verstuurd naar of tegen ontvangstbewijs afgegeven bij de bevoegde   instantie.<BR></P>  <P>De bevoegde instantie is :<BR>1° het departement als de subsidie wordt   aangevraagd voor de volgende projecten : <BR>a) de opmaak of herziening van een   gemeentelijk of intergemeentelijk mobiliteitsplan; <BR>b) de aanleg van nieuwe   fietsinfrastructuur of de herinrichting van bestaande fietsinfrastructuur langs   wegen die niet onder het beheer van het Vlaamse Gewest vallen en die behoren tot   het bovenlokaal functioneel fietsroutenetwerk, vermeld in artikel 21, § 1, 4° ;   <BR>c) de uitvoering van het mobiliteitscharter, vermeld in artikel 51;<BR>2°   het Agentschap Wegen en Verkeer als de subsidie wordt aangevraagd voor de   volgende projecten :<BR>a) de aanleg of herinrichting van wegen die gericht is   op de beveiliging van schoolbuurten, vermeld in artikel 21, § 1, 6° ;<BR>b) de   aanleg of herinrichting van wegen die gericht is op de duurzame ontsluiting van   een tewerkstellings-, winkel- of dienstenzone van bovenlokaal belang of met een   significante mobiliteitsimpact, vermeld in artikel 21, § 1, 7° ;<BR>c) de aanleg   van nieuwe fietsinfrastructuur of de herinrichting van bestaande   fietsinfrastructuur langs wegen als alternatief voor fietsinfrastructuur langs   gewestwegen, vermeld in artikel 21, § 1, 3°. <BR></P>  <P>De minister bepaalt het model van de aanvraag. <BR></P>  <P>§ 3. De bevoegde instantie gaat na of de ingediende aanvraag volledig is en   neemt indien nodig contact op met de aanvrager om eventuele aanvullingen te   verkrijgen. Zolang de aanvrager de aanvullingen niet verstrekt, wordt de   aanvraag niet in behandeling genomen.<BR></P>  <P>De bevoegde instantie bezorgt binnen een ordetermijn van negentig   kalenderdagen vanaf de datum van de ontvangst van de aanvraag of vanaf de datum   van de ontvangst van de aanvullingen, vermeld in het eerste lid, de aanvraag en   een schriftelijk advies aan de minister. <BR></P>  <P>§ 4. De minister neemt binnen een ordetermijn van negentig kalenderdagen na   de ontvangst van het advies, vermeld in paragraaf 3, tweede lid, een beslissing   over de subsidieaanvraag. De beslissing van de minister is gunstig indien uit   het advies van de bevoegde instantie blijkt dat de aanvrager voldoet aan de   subsidievoorwaarden van dit besluit. De bevoegde instantie brengt de aanvrager   schriftelijk op de hoogte van de beslissing van de minister. <BR></P>  <P>Als de beslissing van de minister gunstig is, wordt het subsidiebedrag   betaald aan de aanvrager met toepassing van de bepalingen, vermeld in hoofdstuk   2 en 3. <BR></P>
+<p>§ 1. De procedure tot aanvraag, behandeling en de betaling van de subsidies die ter uitvoering van deze titel worden toegekend, verloopt, behalve in geval van een andersluidende regeling, volgens de bepalingen van dit hoofdstuk.</p>
+
+<p>§ 2. Een ondertekende subsidieaanvraag wordt aangetekend of elektronisch verstuurd naar of tegen ontvangstbewijs afgegeven bij de bevoegde instantie.</p>
+
+<p>De bevoegde instantie is :<br>
+1° het departement als de subsidie wordt aangevraagd voor de volgende projecten :<br>
+a) de opmaak of herziening van een gemeentelijk of intergemeentelijk mobiliteitsplan;<br>
+b) de aanleg van nieuwe fietsinfrastructuur of de herinrichting van bestaande fietsinfrastructuur langs wegen die niet onder het beheer van het Vlaamse Gewest vallen en die behoren tot het bovenlokaal functioneel fietsroutenetwerk, vermeld in artikel 21, § 1, 4° ;<br>
+c) de uitvoering van het mobiliteitscharter, vermeld in artikel 51;<br>
+2° het Agentschap Wegen en Verkeer als de subsidie wordt aangevraagd voor de volgende projecten :<br>
+a) de aanleg of herinrichting van wegen die gericht is op de beveiliging van schoolbuurten, vermeld in artikel 21, § 1, 6° ;<br>
+b) de aanleg of herinrichting van wegen die gericht is op de duurzame ontsluiting van een tewerkstellings-, winkel- of dienstenzone van bovenlokaal belang of met een significante mobiliteitsimpact, vermeld in artikel 21, § 1, 7° ;<br>
+c) de aanleg van nieuwe fietsinfrastructuur of de herinrichting van bestaande fietsinfrastructuur langs wegen als alternatief voor fietsinfrastructuur langs gewestwegen, vermeld in artikel 21, § 1, 3°;<br>
+d) de aanleg van nieuwe, ongelijkvloers kruisende, gemeentelijke fietsinfrastructuur op trajecten van het bovenlokale functionele fietsroutenetwerk boven of onder gewestwegen, vermeld in artikel 21, § 1, 11°.</p>
+
+<p>De minister bepaalt het model van de aanvraag.</p>
+
+<p>§ 3. De bevoegde instantie gaat na of de ingediende aanvraag volledig is en neemt indien nodig contact op met de aanvrager om eventuele aanvullingen te verkrijgen. Zolang de aanvrager de aanvullingen niet verstrekt, wordt de aanvraag niet in behandeling genomen.</p>
+
+<p>De bevoegde instantie bezorgt binnen een ordetermijn van negentig kalenderdagen vanaf de datum van de ontvangst van de aanvraag of vanaf de datum van de ontvangst van de aanvullingen, vermeld in het eerste lid, de aanvraag en een schriftelijk advies aan de minister.</p>
+
+<p>§ 4. De minister neemt binnen een ordetermijn van negentig kalenderdagen na de ontvangst van het advies, vermeld in paragraaf 3, tweede lid, een beslissing over de subsidieaanvraag. De beslissing van de minister is gunstig indien uit het advies van de bevoegde instantie blijkt dat de aanvrager voldoet aan de subsidievoorwaarden van dit besluit. De bevoegde instantie brengt de aanvrager schriftelijk op de hoogte van de beslissing van de minister.</p>
+
+<p>Als de beslissing van de minister gunstig is, wordt het subsidiebedrag betaald aan de aanvrager met toepassing van de bepalingen, vermeld in hoofdstuk 2 en 3.</p>
 
 ## HOOFDSTUK 2 Subsidiëring van het lokale mobiliteitsbeleid
 
@@ -198,7 +360,23 @@ Als voor plannen of projecten die op basis van dit besluit een subsidie   verkri
 
 ### ART. 38.
 
-<P>§ 1. De opmaak en de herziening van gemeentelijke of intergemeentelijke   mobiliteitsplannen worden gesubsidieerd in een van de volgende gevallen :<BR>1°   de gemeente in kwestie beschikt nog niet over een gemeentelijk of   intergemeentelijk mobiliteitsplan, of;<BR>2° uit de sneltoets blijkt dat een   bestaand mobiliteitsplan geheel of gedeeltelijk moet worden herzien   overeenkomstig de bepalingen, vermeld in artikel 20, tweede lid, 1° of 2°.   <BR></P>  <P>§ 2. Bij de opmaak van een eerste gemeentelijk of intergemeentelijk   mobiliteitsplan of als uit de sneltoets blijkt dat het gemeentelijk of   intergemeentelijk mobiliteitsplan geheel moet worden herzien overeenkomstig de   bepalingen, vermeld in artikel 20, tweede lid, 1°, bedraagt de subsidie, vermeld   in paragraaf 1 :<BR>1° 150.000 euro voor de steden Antwerpen en Gent;<BR>2°   75.000 euro voor de gemeenten die :<BR>a) gedeeltelijk in grootstedelijk gebied   liggen, zoals bepaald ter uitvoering van het RSV;<BR>b) die geheel of   gedeeltelijk in regionaalstedelijk gebied of in het Vlaams Strategisch Gebied   rond Brussel liggen, zoals bepaald ter uitvoering van het RSV; <BR>c) die geheel   in kleinstedelijk gebied liggen, zoals bepaald ter uitvoering van het RSV;<BR>3°   30.000 euro voor de overige gemeenten.<BR></P>  <P>Als uit de sneltoets blijkt dat aan het gemeentelijk of intergemeentelijk   mobiliteitsplan een of meer mobiliteitsthema's moeten worden toegevoegd of dat   een of meer mobiliteitsthema's verder moeten worden uitgediept, als vermeld in   artikel 20, tweede lid, 2°, bedraagt de subsidie de helft van het bedrag,   vermeld in het eerste lid.<BR></P>  <P>Bij een intergemeentelijke mobiliteitsplan is de subsidie gelijk aan de som   van de bijdrage voor de gemeenten in kwestie. <BR></P>  <P>Er kan een subsidie worden verkregen telkens als een gemeentelijk of   intergemeentelijk mobiliteitsplan wordt opgemaakt of wordt herzien   overeenkomstig de bepalingen vermeld in artikel 20, tweede lid, 1° of 2°, maar   wordt maximaal één subsidie per lokale bestuursperiode   toegekend.<BR></P>
+<p>§ 1. De opmaak en de herziening van gemeentelijke of intergemeentelijke mobiliteitsplannen worden gesubsidieerd in een van de volgende gevallen :<br>
+1° de gemeente in kwestie beschikt nog niet over een gemeentelijk of intergemeentelijk mobiliteitsplan, of;<br>
+2° uit de sneltoets blijkt dat een bestaand mobiliteitsplan geheel of gedeeltelijk moet worden herzien overeenkomstig de bepalingen, vermeld in artikel 20, tweede lid, 1° of 2°.</p>
+
+<p>§ 2. Bij de opmaak van een eerste gemeentelijk of intergemeentelijk mobiliteitsplan of als uit de sneltoets blijkt dat het gemeentelijk of intergemeentelijk mobiliteitsplan geheel moet worden herzien overeenkomstig de bepalingen, vermeld in artikel 20, tweede lid, 1°, bedraagt de subsidie, vermeld in paragraaf 1 :<br>
+1° 150.000 euro voor de steden Antwerpen en Gent;<br>
+2° 75.000 euro voor de gemeenten die :<br>
+a) gedeeltelijk in grootstedelijk gebied liggen, zoals bepaald ter uitvoering van het RSV;<br>
+b) geheel of gedeeltelijk in regionaalstedelijk gebied of in het Vlaams Strategisch Gebied rond Brussel liggen, zoals bepaald ter uitvoering van het RSV;<br>
+c) geheel in kleinstedelijk gebied liggen, zoals bepaald ter uitvoering van het RSV;<br>
+3° 30.000 euro voor de overige gemeenten.</p>
+
+<p>Als uit de sneltoets blijkt dat aan het gemeentelijk of intergemeentelijk mobiliteitsplan een of meer mobiliteitsthema's moeten worden toegevoegd of dat een of meer mobiliteitsthema's verder moeten worden uitgediept, als vermeld in artikel 20, tweede lid, 2°, bedraagt de subsidie de helft van het bedrag, vermeld in het eerste lid.</p>
+
+<p>Bij een intergemeentelijke mobiliteitsplan is de subsidie gelijk aan de som van de bijdrage voor de gemeenten in kwestie.</p>
+
+<p>Er kan een subsidie worden verkregen telkens als een gemeentelijk of intergemeentelijk mobiliteitsplan wordt opgemaakt of wordt herzien overeenkomstig de bepalingen vermeld in artikel 20, tweede lid, 1° of 2°, maar er wordt maximaal één subsidie per lokale bestuursperiode toegekend.</p>
 
 ### ART. 39.
 
@@ -218,7 +396,7 @@ Projecten zijn alleen subsidiabel als de aanvrager beschikt over een   definitie
 
 ### ART. 42.
 
-Als de studies, vermeld in artikel 43, § 2, 1°, en in artikel 47, § 2, 1°,   en het toezicht, vermeld in artikel 43, § 2, 2°, en in artikel 47, § 2, 2°, met   eigen personeel van de gemeente worden uitgevoerd, wordt de subsidiabele   kostprijs ervan beperkt tot de kosten die berekend zijn tegen de voorwaarden   voor opdrachten van raadgevende ingenieurs van de Belgische Confederatie van   burgerlijke en landbouwkundige ingenieurs (KVIV-FABI), die geldig zijn vanaf 1   januari van het jaar waarop ze zijn gemaakt.<BR>
+Als de studies, vermeld in artikel 43, § 2, 1°, in artikel 47, § 2, 1°, in artikel 48/3, § 3, 1°, en in artikel 49, § 3, 1°, en het toezicht, vermeld in artikel 43, § 2, 2°, in artikel 47, § 2, 2°, in artikel 48/3, § 3, 2°, en in artikel 49, § 3, 2°,&nbsp;met eigen personeel van de gemeente worden uitgevoerd, wordt de subsidiabele kostprijs ervan beperkt tot de kosten die berekend zijn tegen de voorwaarden voor opdrachten van raadgevende ingenieurs van de Belgische Confederatie van burgerlijke en landbouwkundige ingenieurs (KVIV-FABI), die geldig zijn vanaf 1 januari van het jaar waarop ze zijn gemaakt.
 
 ## Onderafdeling 2 Subsidies voor projecten die gericht zijn op de beveiliging van schoolbuurten
 
@@ -244,11 +422,62 @@ Als de studies, vermeld in artikel 43, § 2, 1°, en in artikel 47, § 2, 1°,  
 
 ### ART. 47.
 
-<P>§ 1. De subsidie voor projecten die gericht zijn op de aanleg van nieuwe   fietsinfrastructuur of de herinrichting van bestaande fietsinfrastructuur langs   wegen als alternatief voor fietsinfrastructuur langs gewestwegen, vermeld in   artikel 21, § 1, 3°, bedraagt 100% van de kostprijs voor de aanleg van de nieuwe   fietsinfrastructuur of van de kostprijs voor de herinrichting van de bestaande   fietsinfrastructuur.<BR></P>  <P>De projecten, vermeld in het eerste lid, zijn subsidiabel op voorwaarde dat :   <BR>1° het wegens ruimtelijke beperkingen van het openbaar domein of de   inrichtingsprincipes die verbonden zijn aan de wegcategorisering, niet mogelijk   of niet efficiënt is om fietsinfrastructuur aan te leggen langs de   gewestweg;<BR>2° de gewestweg een genummerde weg is;<BR>3° de nieuw aan te   leggen of te verbeteren infrastructuur zal worden beheerd door de   gemeente.<BR></P>  <P>§ 2. De kostprijs, vermeld in paragraaf 1, eerste lid, omvat :<BR>1° de   studiekosten, namelijk de kosten voor :<BR>a) de opmaak van de start- en   projectnota of de unieke verantwoordingsnota, met inbegrip van de kosten voor de   opmaak van de plannen of bestekken die daarvoor noodzakelijk zijn en de   uitvoering van de nodige opmetingen;<BR>b) de samenstelling van het technische   gedeelte van onteigeningsdossiers;<BR>c) de samenstelling van het dossier voor   de omgevingsvergunning voor stedenbouwkundige handelingen;<BR>d) de begeleiding   van de gunningsprocedure voor de werken;<BR>2° de toezichtskosten, namelijk de   kosten voor :<BR>a) het werftoezicht, met inbegrip van de proefkosten, als het   toezicht werd uitbesteed aan derden;<BR>b) de voorlopige en definitieve   oplevering, als de opmaak en opvolging ervan worden uitbesteed aan derden;<BR>3°   de kosten voor de werken volgens de inschrijvingsprijs van de aannemer, in   voorkomend geval te vermeerderen met de prijsherzieningen, verrekeningen, meer-   of bijwerken. De volgende werken zijn inbegrepen :<BR>a) de aanpassing van de   kruispunten ingevolge de inpassing van de fietsinfrastructuur ter hoogte van de   uitmondende zijstraten;<BR>b) de aanleg en de uitrusting waar nodig van   gelijkvloerse en ongelijkvloerse fietsoversteekplaatsen;<BR>c) de verlenging van   dwarse duikers of onderbruggingen onder de fietsinfrastructuur;<BR>d) als dat   door de aanleg of de verbetering van de fietspaden noodzakelijk is, de   aanpassing, verplaatsing of nieuwe aanleg van een waterafvoersysteem voor   hemelwater dat kan bestaan uit bermsloten, daarin begrepen de duikers,   draineersleuven of RWA-rioolleidingen, met inbegrip van toebehoren. In geval van   nieuw aan te leggen RWA-rioolleidingen komt alleen het deel van de kosten in   aanmerking in verhouding tot de waterafvoer afkomstig van het fietspad. De   vernieuwing of de aanpassing van de DWA-riolering is niet subsidiabel, met   uitzondering van de kostprijs voor het op de juiste hoogte brengen van de   bovenbouw van bestaande inspectieputten in de verharding van de fietspaden en de   levering en plaatsing van geschikte riooldeksels.<BR>4° de kosten die gemaakt   zijn door de gemeente voor de verwerving van de gronden die nodig zijn voor de   realisatie van het project.<BR></P>  <P>§ 3. Het subsidiebedrag, vermeld in paragraaf 1, eerste lid, wordt betaald in   drie schijven :<BR>1° een eerste schijf voor het bedrag van de studiekosten en   de helft van de kosten van werken volgens de inschrijvingsprijs van de aannemer   wordt betaald bij de betekening van de opdracht aan de aannemer van de   werken;<BR>2° een tweede schijf voor het saldo van de kosten van de werken, de   toezichtskosten, de eventuele prijsherzieningen en verrekeningen, meer- of   bijwerken wordt betaald na de voorlopige oplevering van de werken;<BR>3° een   derde schijf wordt uitbetaald na de definitieve oplevering van de werken en   omvat het saldo van het ereloon van de studiekosten. <BR></P>
+<p>§ 1. De subsidie voor projecten die gericht zijn op de aanleg van nieuwe fietsinfrastructuur of de herinrichting van bestaande fietsinfrastructuur langs wegen als alternatief voor fietsinfrastructuur langs gewestwegen, vermeld in artikel 21, § 1, 3°, bedraagt 100% van de kostprijs voor de aanleg van de nieuwe fietsinfrastructuur of van de kostprijs voor de herinrichting van de bestaande fietsinfrastructuur.</p>
+
+<p>De projecten, vermeld in het eerste lid, zijn subsidiabel op voorwaarde dat :<br>
+1° het wegens ruimtelijke beperkingen van het openbaar domein of de inrichtingsprincipes die verbonden zijn aan de wegcategorisering, niet mogelijk of niet efficiënt is om fietsinfrastructuur aan te leggen langs de gewestweg;<br>
+2° de gewestweg een genummerde weg is;<br>
+3° de nieuw aan te leggen of te verbeteren infrastructuur zal worden beheerd door de gemeente.</p>
+
+<p>§ 2. De kostprijs, vermeld in paragraaf 1, eerste lid, omvat :<br>
+1° de studiekosten, namelijk de kosten voor :<br>
+a) de opmaak van de start- en projectnota of de unieke verantwoordingsnota, met inbegrip van de kosten voor de opmaak van de plannen of bestekken die daarvoor noodzakelijk zijn en de uitvoering van de nodige opmetingen;<br>
+b) de samenstelling van het technische gedeelte van onteigeningsdossiers;<br>
+c) de samenstelling van het dossier voor de omgevingsvergunning voor stedenbouwkundige handelingen;<br>
+d) de begeleiding van de gunningsprocedure voor de werken;<br>
+2° de toezichtskosten, namelijk de kosten voor :<br>
+a) het werftoezicht, met inbegrip van de proefkosten, als het toezicht werd uitbesteed aan derden;<br>
+b) de voorlopige en definitieve oplevering, als de opmaak en opvolging ervan worden uitbesteed aan derden;<br>
+3° de kosten voor de werken volgens de inschrijvingsprijs van de aannemer, in voorkomend geval te vermeerderen met de prijsherzieningen, verrekeningen, meer- of bijwerken. De volgende werken zijn inbegrepen :<br>
+a) de aanpassing van de kruispunten ingevolge de inpassing van de fietsinfrastructuur ter hoogte van de uitmondende zijstraten;<br>
+b) de aanleg en de uitrusting waar nodig van gelijkvloerse en ongelijkvloerse fietsoversteekplaatsen;<br>
+c) de verlenging van dwarse duikers of onderbruggingen onder de fietsinfrastructuur;<br>
+d) als dat door de aanleg of de verbetering van de fietspaden noodzakelijk is, de aanpassing, verplaatsing of nieuwe aanleg van een waterafvoersysteem voor hemelwater dat kan bestaan uit bermsloten, daarin begrepen de duikers, draineersleuven of RWA-rioolleidingen, met inbegrip van toebehoren. In geval van nieuw aan te leggen RWA-rioolleidingen komt alleen het deel van de kosten in aanmerking in verhouding tot de waterafvoer afkomstig van het fietspad. De vernieuwing of de aanpassing van de DWA-riolering is niet subsidiabel, met uitzondering van de kostprijs voor het op de juiste hoogte brengen van de bovenbouw van bestaande inspectieputten in de verharding van de fietspaden en de levering en plaatsing van geschikte riooldeksels.<br>
+4° de kosten die gemaakt zijn door de gemeente voor de verwerving van de gronden die nodig zijn voor de realisatie van het project.</p>
+
+<p>§ 3. Het subsidiebedrag, vermeld in paragraaf 1, eerste lid, wordt betaald in drie schijven :<br>
+1° een eerste schijf voor het bedrag van de studiekosten, de kosten die gemaakt zijn door de gemeente voor de verwerving of onteigening van de gronden en de helft van de kosten van de werken&nbsp; volgens de inschrijvingsprijs van de aannemer wordt betaald bij de betekening van de opdracht aan de aannemer van de werken;<br>
+2° een tweede schijf voor het saldo van de kosten van de werken, de toezichtskosten, de eventuele prijsherzieningen en verrekeningen, meer- of bijwerken wordt betaald na de voorlopige oplevering van de werken;<br>
+3° een derde schijf wordt uitbetaald na de definitieve oplevering van de werken en omvat het saldo van het ereloon van de studiekosten.</p>
 
 ### ART. 48.
 
-<P>§ 1. De subsidieaanvraag voor de eerste schijf, vermeld in artikel 47, § 3,   1°, bevat :<BR>1° informatie over de aanvrager, met inbegrip van het   rekeningnummer waarop de subsidie moet worden gestort;<BR>2° de identificatie   van het project;<BR>3° een financiële afrekening die de schuldvordering   omvat;<BR>4° een kopie van de gunningsbeslissing van de gemeenteraad en de   overeenkomst met de opdrachtnemer;<BR>5° de betaalbewijzen met betrekking tot de   studiekosten, vermeld in artikel 47, § 3, 1°. <BR></P>  <P>De subsidieaanvraag voor de tweede schijf, vermeld in artikel 47, § 3, 2°,   bevat :<BR>1° informatie over de aanvrager, met inbegrip van het rekeningnummer   waarop de subsidie moet worden gestort;<BR>2° de identificatie van het   project;<BR>3° een financiële afrekening die de schuldvordering en de   betaalbewijzen met betrekking tot de kosten, vermeld in artikel 47, § 3, 2°,   omvat;<BR>4° een kopie van het proces-verbaal van voorlopige oplevering.<BR></P>  <P>De subsidieaanvraag voor de derde schijf bevat :<BR>1° informatie over de   aanvrager, met inbegrip van het rekeningnummer waarop de subsidie moet worden   gestort;<BR>2° de identificatie van het project;<BR>3° een financiële afrekening   die de schuldvordering omvat en de betaalbewijzen met betrekking tot het saldo   van het ereloon in het kader van de studiekosten;<BR>4° een kopie van het   proces-verbaal van definitieve oplevering.<BR></P>  <P>§ 2. De subsidie, vermeld in artikel 47, § 1, eerste lid, wordt alleen   betaald in een van de volgende gevallen :<BR>1° als de kwaliteitsadviseur een   gunstig advies heeft uitgebracht over de startnota en projectnota of de unieke   verantwoordingsnota van het project dat gericht is op de aanleg van nieuwe   fietsinfrastructuur of de herinrichting van bestaande fietsinfrastructuur;<BR>2°   als uit de kennisgeving, vermeld in artikel 31, § 2, derde lid, van dit besluit,   blijkt dat er geen advies is uitgebracht binnen de voorgeschreven termijn;<BR>3°   als de minister het advies heeft hervormd na de instelling van een verzoek tot   heroverweging als vermeld in artikel 26/9 van het decreet van 20 maart   2009.<BR></P>
+<p>§ 1. De subsidieaanvraag voor de eerste schijf, vermeld in artikel 47, § 3, 1°, bevat :<br>
+1° informatie over de aanvrager, met inbegrip van het rekeningnummer waarop de subsidie moet worden gestort;<br>
+2° de identificatie van het project;<br>
+3° een financiële afrekening die de schuldvordering omvat;<br>
+4° een kopie van de gunningsbeslissing van de gemeenteraad en de overeenkomst met de opdrachtnemer;<br>
+5° de betaalbewijzen met betrekking tot de studiekosten, vermeld in artikel 47, § 3, 1°;<br>
+6° de betaalbewijzen van de kosten voor de verwerving van de gronden, vermeld in artikel 47, § 3, 1°.</p>
+
+<p>De subsidieaanvraag voor de tweede schijf, vermeld in artikel 47, § 3, 2°, bevat :<br>
+1° informatie over de aanvrager, met inbegrip van het rekeningnummer waarop de subsidie moet worden gestort;<br>
+2° de identificatie van het project;<br>
+3° een financiële afrekening die de schuldvordering en de betaalbewijzen met betrekking tot de kosten, vermeld in artikel 47, § 3, 2°, omvat;<br>
+4° een kopie van het proces-verbaal van voorlopige oplevering.</p>
+
+<p>De subsidieaanvraag voor de derde schijf bevat :<br>
+1° informatie over de aanvrager, met inbegrip van het rekeningnummer waarop de subsidie moet worden gestort;<br>
+2° de identificatie van het project;<br>
+3° een financiële afrekening die de schuldvordering omvat en de betaalbewijzen met betrekking tot het saldo van het ereloon in het kader van de studiekosten;<br>
+4° een kopie van het proces-verbaal van definitieve oplevering.</p>
+
+<p>§ 2. De subsidie, vermeld in artikel 47, § 1, eerste lid, wordt alleen betaald in een van de volgende gevallen :<br>
+1° als de kwaliteitsadviseur een gunstig advies heeft uitgebracht over de startnota en projectnota of de unieke verantwoordingsnota van het project dat gericht is op de aanleg van nieuwe fietsinfrastructuur of de herinrichting van bestaande fietsinfrastructuur;<br>
+2° als uit de kennisgeving, vermeld in artikel 31, § 2, derde lid, van dit besluit, blijkt dat er geen advies is uitgebracht binnen de voorgeschreven termijn;<br>
+3° als de minister het advies heeft hervormd na de instelling van een verzoek tot heroverweging als vermeld in artikel 26/9 van het decreet van 20 maart 2009.</p>
+
+## [Onderafdeling 5. De aanleg van nieuwe, ongelijkvloers kruisende, gemeentelijke fietsinfrastructuur op trajecten van het bovenlokale functionele fietsroutenetwerk boven of onder gewestwegen (ing. BVR 15 december 2017, art. 18, I: 12 maart 2018)]
 
 ### ART 48/1.
 
@@ -291,6 +520,29 @@ p) het voorzien in functionele verlichting van wegen die voorbehouden zijn voor 
 1° een eerste schijf voor het bedrag van de studiekosten en de helft van de kosten voor de werken volgens de inschrijvingsprijs van de aannemer wordt betaald bij de betekening van de opdracht aan de aannemer van de werken;<br>
 2° een tweede schijf voor het saldo van de kosten van de werken, de eventuele prijsherzieningen en verrekeningen, meer- of bijwerken wordt betaald na de voorlopige oplevering van de werken;<br>
 3° een derde schijf wordt uitbetaald na de definitieve oplevering van de werken en omvat het saldo van het ereloon van de studiekosten.
+
+### ART 48/2.
+
+De subsidieaanvraag voor de eerste schijf, vermeld in artikel 48/1, § 3, 1°, bevat:<br>
+1° informatie over de aanvrager, met inbegrip van het rekeningnummer waarop de subsidie moet worden gestort;<br>
+2° de identificatie van het project;<br>
+3° een financiële afrekening die de schuldvordering omvat;<br>
+4° een kopie van de gunningsbeslissing van de gemeenteraad en de overeenkomst met de opdrachtnemer;<br>
+5° de betaalbewijzen voor de studiekosten, vermeld in artikel 48/1, § 2, 1°.<br>
+<br>
+De subsidieaanvraag voor de tweede schijf, vermeld in artikel 48/1, § 3, 2°, bevat:<br>
+1° informatie over de aanvrager, met inbegrip van het rekeningnummer waarop de subsidie moet worden gestort;<br>
+2° de identificatie van het project;<br>
+3° een financiële afrekening die de schuldvordering en de betaalbewijzen voor de kosten, vermeld in artikel 48/1, § 3, 2°, omvat;<br>
+4° een kopie van het proces-verbaal van voorlopige oplevering.<br>
+<br>
+De subsidieaanvraag voor de derde schijf, vermeld in artikel 48/1, § 3, 3°, bevat:<br>
+1° informatie over de aanvrager, met inbegrip van het rekeningnummer waarop de subsidie moet worden gestort;<br>
+2° de identificatie van het project;<br>
+3° een financiële afrekening die de schuldvordering omvat en de betaalbewijzen voor het saldo van het ereloon in het kader van de studiekosten;<br>
+4° een kopie van het proces-verbaal van definitieve oplevering.
+
+## [Onderafdeling 6. De aanleg of herinrichting van fietsinfrastructuur op trajecten van het bovenlokale functionele fietsroutenetwerk langs wegen die niet onder het beheer van het Vlaamse Gewest vallen (ing. BVR 15 december 2017, art. 19, I: 12 maart 2018)]
 
 ### ART 48/3.
 
@@ -339,17 +591,94 @@ In afwijking van het eerste lid komen de kosten, vermeld in het eerste lid, 4°,
 1° een eerste schijf voor het bedrag van de studiekosten en de kosten die gemaakt zijn door de gemeente voor de verwerving of onteigening van de gronden, in het geval deze voor subsidie in aanmerking komen, en de helft van de kosten van de werken volgens de inschrijvingsprijs van de aannemer wordt betaald bij de betekening van de opdracht aan de aannemer van de werken;<br>
 2° een tweede schijf voor het saldo van de studiekosten en de toezichtskosten, voor zover deze voor subsidie in aanmerking komen, en het saldo van de kosten van de werken met de eventuele prijsherzieningen en verrekeningen, meer- of bijwerken wordt betaald na de voorlopige oplevering van de werken.
 
+### ART 48/4.
+
+De subsidieaanvraag voor de eerste schijf, vermeld in artikel 48/3, § 4, 1°, bevat:<br>
+1° informatie over de aanvrager, met inbegrip van het rekeningnummer waarop de subsidie moet worden gestort;<br>
+2° de identificatie van het project;<br>
+3° een financiële afrekening die de schuldvordering omvat;<br>
+4° een kopie van de gunningsbeslissing van de gemeenteraad en de overeenkomst met de opdrachtnemer;<br>
+5° de betaalbewijzen voor de studiekosten, vermeld in artikel 48/3, § 3, 1° ;<br>
+6° de betaalbewijzen van de kosten voor de verwerving van de gronden, vermeld in artikel 48/3, § 3, 3°.<br>
+<br>
+De subsidieaanvraag voor de tweede schijf, vermeld in artikel 48/3, § 4, 2°, bevat:<br>
+1° informatie over de aanvrager, met inbegrip van het rekeningnummer waarop de subsidie moet worden gestort;<br>
+2° de identificatie van het project;<br>
+3° een financiële afrekening die de schuldvordering en de betaalbewijzen voor de kosten, vermeld in artikel 48/1, § 3, 4°, omvat;<br>
+4° een financiële afrekening die de schuldvordering en de betaalbewijzen omvat met betrekking tot het saldo van de studiekosten, vermeld in artikel 48/3, § 3, 1°, en de toezichtskosten, vermeld in artikel 48/3, § 3, 2° ;<br>
+4° een kopie van het proces-verbaal van voorlopige oplevering.
+
 ## HOOFDSTUK 3 Samenwerking en subsidiering van het mobiliteitsbeleid op tussenliggend niveau
 
 ## Afdeling 1 Subsidies voor fietsinfrastructuurprojecten gelegen op trajecten van het bovenlokale functionele fietsroutenetwerk
 
 ### ART. 49.
 
-<P>De subsidie aan provincies voor de aanleg of herinrichting van   fietsinfrastructuur op trajecten van het bovenlokale functionele   fietsroutenetwerk bedraagt 40% van de kostprijs voor :<BR>1° de aanleg van   nieuwe fietsinfrastructuur;<BR>2° de verbreding van een eenrichtingsfietspad van   minder dan anderhalve meter breed;<BR>3° de verbreding van een   tweerichtingsfietspad van minder dan twee meter breed; <BR>4° de vervanging van   een tweerichtingsfietspad door de aanleg van eenrichtingsfietspaden per   rijrichting van minimaal anderhalve meter breed;<BR>5° de omvorming van een   aanliggend fietspad tot een gescheiden fietspad, waar de verkeersomstandigheden   dat noodzakelijk maken.<BR></P>  <P>De projecten, vermeld in het eerste lid, zijn subsidiabel op voorwaarde dat   :<BR>1° de fietsinfrastructuur in kwestie op trajecten van het bovenlokale   functionele fietsroutenetwerk ligt op wegen die niet onder het beheer van het   Vlaamse Gewest vallen;<BR>2° de fietsinfrastructuur in kwestie op het   grondgebied van een of meer gemeenten ligt die beschikken over een definitief   vastgesteld gemeentelijk of intergemeentelijk mobiliteitsplan, dat in voorkomend   geval binnen de termijn, vermeld in artikel 16, § 2, tweede lid, van het decreet   van 20 maart 2009, aan een sneltoets is onderworpen;<BR>3° de totale kostprijs   van de werken die voor subsidiëring in aanmerking komen, ten minste 50.000 euro   bedraagt, daarin begrepen de belasting over de toegevoegde waarde.<BR></P>  <P>De kostprijs, vermeld in het eerste lid, omvat de kosten volgens de   inschrijvingsprijs van de aannemer voor de uitvoering van de volgende werken   :<BR>1° de voorbereidende werken, de opbraakwerken en de grondwerken aan de   bermlichamen waarin de fietsinfrastructuur wordt aangelegd, in voorkomend geval   met inbegrip van de bouwkundige verbetering van de ondergrond, met uitsluiting   van eventuele meerkosten die verbonden zijn aan een bodemsanering;<BR>2° de   aanleg en de uitrusting van de fietsinfrastructuur : onderfundering, fundering,   verharding en signalisatie;<BR>3° de afdekking van de strook tussen het fietspad   en de rijbaan, inclusief de verharding, de levering en aanplanting van het groen   en de levering en plaatsing van noodzakelijke scheidende veiligheidselementen in   die strook;<BR>4° de herstelling van de strook tussen de fietsinfrastructuur en   de rooilijn, met uitzondering van bomen en struiken;<BR>5° de constructie van   kantopsluitingen, de straatgoten en de waterslikkers in de straatgoten   inbegrepen;<BR>6° de aanpassing, verplaatsing of aanleg van een   waterafvoersysteem voor hemelwater dat kan bestaan uit bermsloten, daarin   begrepen de duikers, draineersleuven of RWA-rioolleidingen, met inbegrip van   toebehoren. In geval van nieuw aan te leggen RWA-rioolleidingen komt alleen het   deel van de kosten in aanmerking in verhouding tot de waterafvoer die afkomstig   is van de fietsinfrastructuur;<BR>7° de vernieuwing of de aanpassing van de   DWA-riolering is niet subsidiabel, met uitzondering van de kostprijs voor het op   de juiste hoogte brengen van de bovenbouw van bestaande inspectieputten in de   verharding van de fietsinfrastructuur en de levering en plaatsing van geschikte   riooldeksels;<BR>8° de verlenging van dwarse duikers of onderbruggingen onder de   fietsinfrastructuur;<BR>9° kunstwerken langs, over of onder wegen en   onbevaarbare waterlopen die niet vallen onder het beheer van het Vlaamse   Gewest;<BR>10° beschermmiddelen, zoals paaltjes en hekken die dienen om   oneigenlijk gebruik van de fietsinfrastructuur te voorkomen;<BR>11° het   aanbrengen van de bovenlaag van de fietssuggestiestrook over een beperkte lengte   en alleen als projectonderdeel van de aanleg van een volwaardig fietspad;<BR>12°   werfsignalisatie en omleidingssignalisatie tijdens de uitvoering van de   werken;<BR>13° de aanpassing van de kruispunten, ingevolge de aanleg van de   fietsinfrastructuur, ter hoogte van uitmondende zijstraten. Het betreft de   heraanleg van de verharding of de ophoging van de verharding ter hoogte van de   kruispunten;<BR>14° de aanleg en de uitrusting, waar nodig, van gelijkvloerse   fietsoversteekplaatsen;<BR>15° het voorzien in functionele verlichting van wegen   die voorbehouden zijn voor fietsverkeer.<BR></P>  <P>Het subsidiebedrag, vermeld in het eerste lid, wordt betaald in twee schijven   :<BR>1° een eerste schijf van 50% van de subsidie wordt aan de provincie betaald   na voorlegging van bewijsstukken waaruit blijkt dat de provincie al minstens de   helft van de door haar toegezegde subsidies heeft uitbetaald aan de gemeente die   de werken uitvoert. Als de provincie opdrachtgever is van de subsidiabele   werken, wordt de eerste schijf van 50% uitbetaald na de betekening van het   aanvangsbevel aan de aannemer;<BR>2° een tweede schijf van maximaal het saldo   van het subsidiebedrag dat is bepaald bij de subsidieaanvraag van de eerste   schijf, wordt betaald aan de provincie op basis van de goedgekeurde   eindafrekening na de voorlopige oplevering van de werken, in voorkomend geval   met inbegrip van de prijsherzieningen, verrekeningen, meer- of bijwerken, of het   bewijs van betaling van de tweede schijf door de provincie aan de gemeente.   <BR></P>
+§ 1. De subsidie aan provincies voor de aanleg of herinrichting van fietsinfrastructuur op trajecten van het bovenlokale functionele fietsroutenetwerk bedraagt 50% van de kostprijs voor:<br>
+1° de aanleg van nieuwe fietsinfrastructuur;<br>
+2° de verbreding van een eenrichtingsfietspad van minder dan anderhalve meter breed;<br>
+3° de verbreding van een tweerichtingsfietspad van minder dan drie meter breed;<br>
+4° de vervanging van een tweerichtingsfietspad door de aanleg van eenrichtingsfietspaden per rijrichting van minimaal anderhalve meter breed;<br>
+5° de omvorming van een aanliggend fietspad tot een gescheiden fietspad, waar de verkeersomstandigheden dat noodzakelijk maken;<br>
+6° de aanleg van fietssnelwegen die de minister aanwijst conform artikel 48/3, § 1, 6°.<br>
+<br>
+§ 2. De projecten, vermeld in paragraaf 1, zijn subsidiabel als aan al de volgende voorwaarden is voldaan:<br>
+1° de fietsinfrastructuur in kwestie ligt op een traject van het bovenlokale functionele fietsroutenetwerk dat beheerd zal worden door de gemeente;<br>
+2° de fietsinfrastructuur in kwestie ligt op het grondgebied van een of meer gemeenten die beschikken over een definitief vastgesteld gemeentelijk of intergemeentelijk mobiliteitsplan, dat in voorkomend geval binnen de termijn, vermeld in artikel 16, § 2, tweede lid, van het decreet van 20 maart 2009, aan een sneltoets is onderworpen;<br>
+3° er is voor de fietsinfrastructuur in kwestie aan de gemeente geen subsidie toegekend op basis van de subsidieregeling, vermeld in artikel 48/3.<br>
+<br>
+§ 3. De kostprijs, vermeld in paragraaf 1, omvat:<br>
+1° de studiekosten voor de realisatie van de fietsinfrastructuur op fietssnelwegen, namelijk de kosten voor:<br>
+a) de opmaak van de start- en projectnota of de unieke verantwoordingsnota, met inbegrip van de kosten voor de opmaak van de plannen of bestekken die daarvoor noodzakelijk zijn en de uitvoering van de nodige opmetingen;<br>
+b) de samenstelling van het technische gedeelte van de dossiers voor grondverwerving;<br>
+c) de samenstelling van het dossier voor de omgevingsvergunning;<br>
+d) de begeleiding van de gunningsprocedure voor de werken;<br>
+2° de toezichtskosten bij de realisatie van de fietsinfrastructuur op fietssnelwegen, namelijk de kosten voor:<br>
+a) het werftoezicht, met inbegrip van de proefkosten;<br>
+b) de voorlopige oplevering;<br>
+3° de kosten die gemaakt zijn door de gemeente of de provincie voor de verwerving van de gronden die nodig zijn voor de realisatie van de fietsinfrastructuur op fietssnelwegen;<br>
+4° de kosten voor de werken volgens de inschrijvingsprijs van de aannemer voor de uitvoering van de volgende werken:<br>
+a) de voorbereidende werken, de opbraakwerken en de grondwerken aan de bermlichamen waarin de fietsinfrastructuur wordt aangelegd, in voorkomend geval met inbegrip van de bouwkundige verbetering van de ondergrond, met uitsluiting van eventuele meerkosten die verbonden zijn aan een bodemsanering;<br>
+b) de aanleg en de uitrusting van de fietsinfrastructuur: onderfundering, fundering, verharding en signalisatie;<br>
+c) de afdekking van de strook tussen het fietspad en de rijbaan, inclusief de verharding, de levering en aanplanting van het groen en de levering en plaatsing van noodzakelijke scheidende veiligheidselementen in die strook;<br>
+d) de herstelling van de strook tussen de fietsinfrastructuur en de rooilijn, met uitzondering van bomen en struiken;<br>
+e) de constructie van kantopsluitingen, de straatgoten en de waterslikkers in de straatgoten inbegrepen;<br>
+f) de aanpassing, verplaatsing of aanleg van een waterafvoersysteem voor hemelwater dat kan bestaan uit bermsloten, daarin begrepen de duikers, draineersleuven of RWA-rioolleidingen, met inbegrip van toebehoren. In geval van nieuw aan te leggen RWA-rioolleidingen komt alleen het deel van de kosten in aanmerking in verhouding tot de waterafvoer die afkomstig is van de fietsinfrastructuur;<br>
+g) de vernieuwing of de aanpassing van de DWA-riolering is niet subsidiabel, met uitzondering van de kostprijs voor het op de juiste hoogte brengen van de bovenbouw van bestaande inspectieputten in de verharding van de fietsinfrastructuur en de levering en plaatsing van geschikte riooldeksels;<br>
+h) de verlenging van dwarse duikers of onderbruggingen onder de fietsinfrastructuur;<br>
+i) kunstwerken langs, over of onder gemeentewegen, verlaten spoorwegen en onbevaarbare waterlopen;<br>
+j) beschermmiddelen, zoals paaltjes en hekken die dienen om oneigenlijk gebruik van de fietsinfrastructuur te voorkomen;<br>
+k) het aanbrengen van de bovenlaag van de fietssuggestiestrook over een beperkte lengte en alleen als projectonderdeel van de aanleg van een volwaardig fietspad;<br>
+l) werfsignalisatie en omleidingssignalisatie tijdens de uitvoering van de werken;<br>
+m) de aanpassing van de kruispunten, ingevolge de aanleg van de fietsinfrastructuur, ter hoogte van uitmondende zijstraten. Het betreft de heraanleg van de verharding of de ophoging van de verharding ter hoogte van de kruispunten;<br>
+n) de aanleg en de uitrusting, waar nodig, van gelijkvloerse fietsoversteekplaatsen;<br>
+o) het voorzien in functionele verlichting van wegen die voorbehouden zijn voor fietsverkeer.<br>
+<br>
+In afwijking van het eerste lid komen de kosten, vermeld in het eerste lid, 4°, a), en de onderfundering en fundering, vermeld in het eerste lid, 4°, b), niet in aanmerking voor subsidiëring als het gaat om fietsinfrastructuur als vermeld in artikel 2.61 van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg.<br>
+<br>
+§ 4. De subsidie, vermeld in paragraaf 1, wordt betaald in de volgende twee schijven:<br>
+1° een eerste schijf van 50% van de subsidie wordt aan de provincie betaald nadat ze bewijsstukken heeft voorgelegd waaruit blijkt dat de provincie al minstens de helft van de door haar toegezegde subsidies heeft uitbetaald aan de gemeente. Als de provincie opdrachtgever is van de subsidiabele werken, wordt de eerste schijf van 50% uitbetaald na de betekening van het aanvangsbevel aan de aannemer;<br>
+2° een tweede schijf van maximaal het saldo van het subsidiebedrag dat is bepaald bij de subsidieaanvraag van de eerste schijf, wordt betaald aan de provincie op basis van de goedgekeurde eindafrekening na de voorlopige oplevering van de werken, in voorkomend geval met inbegrip van de prijsherzieningen, verrekeningen, meer- of bijwerken, of op basis van het bewijs van betaling van de tweede schijf door de provincie aan de gemeente.
 
 ### ART. 50.
 
-<P>§ 1. De subsidieaanvraag voor de eerste schijf bevat :<BR>1° informatie over   de aanvrager, met inbegrip van het rekeningnummer waarop de subsidie moet worden   gestort;<BR>2° het subsidiebesluit van de provincie, met vermelding van het   maximale subsidiebedrag, waaruit blijkt dat minimaal 80% van de subsidiabele   kosten van de fietsinfrastructuurwerken aan de gemeente wordt toegezegd, of, als   de provincie de opdrachtgever is van de subsidiabele werken, een kopie van de   gunningsbeslissing van de provincieraad of de deputatie en de overeenkomst met   de opdrachtnemer;<BR>3° een kopie van het gunningsbesluit van de gemeenteraad en   de overeenkomst met de opdrachtnemer, tenzij de provincie de opdrachtgever is   van de subsidiabele werken;<BR>4° een verklaring dat de betrokken overheid   eigenaar is van of gebruiksrechten bezit op de grond waarop fietsinfrastructuur   wordt aangelegd of heringericht.<BR></P>  <P>De bevoegde instantie, vermeld in artikel 37, § 2, tweede lid, 1°, kan met   het oog op de beoordeling van de subsidieaanvraag het aanbestedingsdossier met   een duidelijke uitsplitsing van de subsidiabele posten, met inbegrip van de   definitieve plannen, opvragen. Zolang deze aanvullende stukken niet zijn   bezorgd, wordt de behandeling van de aanvraag opgeschort, als vermeld in artikel   37, § 3, eerste lid. <BR></P>  <P>De subsidieaanvraag voor de tweede schijf bevat :<BR>1° een kopie van het   proces-verbaal van voorlopige oplevering;<BR>2° de goedgekeurde eindafrekening   van de werken;<BR>3° als een gemeente opdrachtgever was, het bewijs van betaling   van de tweede schijf van de subsidie door de provincie aan de gemeente.<BR></P>  <P>§ 2. De subsidie wordt alleen betaald in een van de volgende gevallen :<BR>1°   als de kwaliteitsadviseur een gunstig advies heeft uitgebracht over de   projectnota of de unieke verantwoordingsnota; <BR>2° als uit de kennisgeving,   vermeld in artikel 31, § 2, derde lid, van dit besluit, blijkt dat er geen   advies is uitgebracht binnen de voorgeschreven termijn; <BR>3° als de minister   het advies heeft hervormd na de instelling van een verzoek tot heroverweging,   vermeld in artikel 26/9 van het decreet van 20 maart 2009.<BR></P>
+<p>§ 1. De subsidieaanvraag voor de eerste schijf bevat :<br>
+1° informatie over de aanvrager, met inbegrip van het rekeningnummer waarop de subsidie moet worden gestort;<br>
+2° het subsidiebesluit van de provincie, met vermelding van het maximale subsidiebedrag, waaruit blijkt dat minimaal 90% van de subsidiabele kosten van de fietsinfrastructuurwerken, of 100% als het fietssnelwegen, die de minister aanwijst conform artikel 48/3, § 1, 6°, betreft,&nbsp; aan de gemeente wordt toegezegd, of, als de provincie de opdrachtgever is van de subsidiabele werken, een kopie van de gunningsbeslissing van de provincieraad of de deputatie en de overeenkomst met de opdrachtnemer;<br>
+3° een kopie van de gemotiveerde gunningsbeslissing en de overeenkomst met de opdrachtnemer van de opdrachten, vermeld in artikel 49, § 3, of, als de werken worden uitgevoerd voor een opdrachtgever die niet onderhevig is aan de wetgeving over overheidsopdrachten, een kopie van de overeenkomst met de aannemer, tenzij de provincie de opdrachtgever is van de subsidiabele werken;<br>
+4° hetzij een verklaring dat de toekomstige beheerder van de fietsinfrastructuur eigenaar is van de grond waarop de fietsinfrastructuur wordt aangelegd, hetzij een bewijs dat de gemeente of de provincie langdurige gebruiksrechten bezit op de gronden.</p>
+
+<p>De bevoegde instantie, vermeld in artikel 37, § 2, tweede lid, 1°, kan met het oog op de beoordeling van de subsidieaanvraag het aanbestedingsdossier met een duidelijke uitsplitsing van de subsidiabele posten, met inbegrip van de definitieve plannen, opvragen. Zolang deze aanvullende stukken niet zijn bezorgd, wordt de behandeling van de aanvraag opgeschort, als vermeld in artikel 37, § 3, eerste lid.</p>
+
+<p>De subsidieaanvraag voor de tweede schijf bevat :<br>
+1° een kopie van het proces-verbaal van voorlopige oplevering;<br>
+2° de goedgekeurde eindafrekening van de werken;<br>
+3° als een gemeente opdrachtgever was, het bewijs van betaling van de tweede schijf van de subsidie door de provincie aan de gemeente.</p>
+
+<p>§ 2. De subsidie wordt alleen betaald in een van de volgende gevallen :<br>
+1° als de kwaliteitsadviseur een gunstig advies heeft uitgebracht over de projectnota of de unieke verantwoordingsnota;<br>
+2° als uit de kennisgeving, vermeld in artikel 31, § 2, derde lid, van dit besluit, blijkt dat er geen advies is uitgebracht binnen de voorgeschreven termijn;<br>
+3° als de minister het advies heeft hervormd na de instelling van een verzoek tot heroverweging, vermeld in artikel 26/9 van het decreet van 20 maart 2009.</p>
 
 ## Afdeling 2 Subsidiëring van de uitvoering van het provinciaal mobiliteitscharter
 
@@ -367,7 +696,22 @@ In afwijking van het eerste lid komen de kosten, vermeld in het eerste lid, 4°,
 
 ### ART. 53.
 
-<P>&nbsp;§ 1. Voor de volgende projecten waarvan de gezamenlijke   investeringskosten meer dan 200.000 euro bedragen, wordt tussen de betrokken   actoren een samenwerkingsovereenkomst voor de uitvoering ervan gesloten :<BR>1°   de herinrichting van een gewestweg; <BR>2° de aanleg van een rondweg of een   andere nieuwe verbindende of ontsluitende gewestweg;<BR>3° de aanleg of   herinrichting van tram- en busbanen en andere doorstromingsmaatregelen voor het   geregeld vervoer.<BR></P>  <P>In afwijking van het eerste lid kunnen de betrokken actoren beslissen om voor   de projecten, vermeld in het eerste lid, waarvan de gezamenlijke   investeringskosten 200.000 euro of minder bedragen een samenwerkingsovereenkomst   te sluiten met toepassing van de bepalingen van dit besluit. <BR></P>  <P>§ 2. Voor de projecten voor de wijziging van het aanbod in het kader van   netmanagement vermeld in artikel 22, eerste lid, die worden uitgevoerd volgens   de methodiek vermeld in artikel 26/6 van het decreet van 20 maart 2009 wordt een   samenwerkingsovereenkomst voor netmanagement geregeld vervoer, meer specifiek   aanbod, communicatie en doorstroming afgesloten.<BR></P>  <P>§ 3. Ongeacht het bedrag van de gezamenlijke investeringskosten wordt voor de   volgende projecten een samenwerkingsovereenkomst voor de uitvoering van de   werken gesloten tussen de betrokken actoren :<BR>1° de aanleg of herinrichting   van een schoolbuurt aan een gewestweg door de gemeente;<BR>2° de aanleg of de   verbetering van fietsinfrastructuur langs gewestwegen door de gemeente;<BR>3° de   aanleg of herinrichting van een gewestweg ter verbetering van de ontsluiting van   een tewerkstellings-, winkel- of dienstenzone;<BR>4° de plaatsing van aan de   bebouwde omgeving aangepaste openbare verlichting van een gewestweg, geplaatst   door de gemeente;<BR>5° de aanleg of de plaatsing van schermen en gronddammen   langs een gewestweg die het wegverkeerslawaai verminderen, vermeld in artikel   21, § 1, 10°. <BR></P>
+<p>§ 1. Voor de volgende projecten die voldoen aan één van de voorwaarden, vermeld in artikel 21, § 2, eerste lid, wordt tussen de betrokken actoren een samenwerkingsovereenkomst voor de uitvoering ervan gesloten :<br>
+1° de herinrichting van een gewestweg;<br>
+2° de aanleg van een rondweg of een andere nieuwe verbindende of ontsluitende gewestweg;<br>
+3° de aanleg of herinrichting van tram- en busbanen en andere doorstromingsmaatregelen voor het geregeld vervoer.</p>
+
+<p>In afwijking van het eerste lid kunnen de betrokken actoren beslissen om voor de projecten, vermeld in het eerste lid, waarvan de gezamenlijke investeringskosten&nbsp;op 500.000 euro of minder worden geraamd een samenwerkingsovereenkomst te sluiten met toepassing van de bepalingen van dit besluit.</p>
+
+<p>§ 2. Voor de projecten voor de wijziging van het aanbod in het kader van netmanagement vermeld in artikel 22, eerste lid, die worden uitgevoerd volgens de methodiek vermeld in artikel 26/6 van het decreet van 20 maart 2009 wordt een samenwerkingsovereenkomst voor netmanagement geregeld vervoer, meer specifiek aanbod, communicatie en doorstroming afgesloten.</p>
+
+<p>§ 3. Ongeacht het bedrag van de gezamenlijke investeringskosten wordt voor de volgende projecten&nbsp;, die voldoen aan één van de voorwaarden, vermeld in artikel 21, § 2, eerste lid, een samenwerkingsovereenkomst voor de uitvoering van de werken gesloten tussen de betrokken actoren :<br>
+1° de aanleg of herinrichting van een schoolbuurt aan een gewestweg door de gemeente;<br>
+2° de aanleg of de verbetering van fietsinfrastructuur langs gewestwegen door de gemeente;<br>
+3° de aanleg of herinrichting van een gewestweg ter verbetering van de ontsluiting van een tewerkstellings-, winkel- of dienstenzone van bovenlokaal belang of met een significante mobiliteitsimpact;<br>
+4° de plaatsing van aan de bebouwde omgeving aangepaste openbare verlichting van een gewestweg, geplaatst door de gemeente.<br>
+<br>
+Ongeacht het bedrag van de gezamenlijke investeringskosten wordt voor de aanleg of de plaatsing van schermen en gronddammen langs een gewestweg die het wegverkeerslawaai verminderen, vermeld in artikel 21, § 1, 10°, een samenwerkingsovereenkomst voor de uitvoering van de werken gesloten tussen de betrokken actoren, als voldaan is aan één van de voorwaarden, vermeld in artikel 21, § 2, tweede lid.</p>
 
 ### ART. 54.
 
@@ -377,11 +721,54 @@ De volgende modellen van samenwerkingsovereenkomst, die de minimuminhoud   ervan
 
 ### ART. 55.
 
-<P>§ 1. Voorafgaand aan de opmaak van de startnota of de unieke   verantwoordingsnota wordt voor de projecten, vermeld in artikel 53, § 1, eerste   lid, 1° en 2°, en artikel 53, § 3, 1° tot en met 5°, een   samenwerkingsovereenkomst afgesloten ter uitvoering van de studiefase en het   toezicht op de werken, als die uitbesteed worden aan derden. <BR></P>  <P>Tenzij het anders is bepaald in de samenwerkingsovereenkomst, worden de   kosten, opgenomen in de samenwerkingsovereenkomst, vermeld in het eerste lid,   pro rata verdeeld volgens het aandeel van de partijen in de werken ter   uitvoering van het project. <BR></P>  <P>§ 2. Voor de projecten, vermeld in artikel 53, § 3, 3°, worden de kosten,   vermeld in paragraaf 1, tweede lid, volledig gedragen door de partij die voor   het project optreedt als aanbestedende overheid.<BR></P>  <P>§ 3. De studiekosten, vermeld in paragraaf 1, omvatten de kosten voor :<BR>1°   de opmaak van de start- en projectnota of de unieke verantwoordingsnota, met   inbegrip van de kosten voor de opmaak van de plannen of bestekken die daarvoor   noodzakelijk zijn en de uitvoering van de nodige opmetingen;<BR>2° de   samenstelling van het technische gedeelte van de dossiers voor grondverwerving;   <BR>3° de opmaak van het dossier voor de aanvraag van de omgevingsvergunning   voor stedenbouwkundige handelingen;<BR>4° de begeleiding van de   gunningsprocedure voor de werken.<BR></P>  <P>De toezichtskosten, vermeld in paragraaf 1, omvatten de kosten voor :<BR>1°   het werftoezicht, met inbegrip van de proefkosten;<BR>2° de voorlopige en   definitieve oplevering. <BR></P>
+<p>§ 1. Voorafgaand aan de opmaak van de startnota of de unieke verantwoordingsnota wordt voor de projecten, vermeld in artikel 53, § 1, eerste lid, 1° en 2°, en artikel 53, § 3, 1° tot en met 5°, een samenwerkingsovereenkomst afgesloten ter uitvoering van de studiefase en het toezicht op de werken, als die uitbesteed worden aan derden.</p>
+
+<p>Tenzij het anders is bepaald in de samenwerkingsovereenkomst, worden de kosten, opgenomen in de samenwerkingsovereenkomst, vermeld in het eerste lid, pro rata verdeeld volgens het aandeel van de partijen in de werken ter uitvoering van het project.<br>
+<br>
+In afwijking van het eerste lid wordt voor de projecten, vermeld in het eerste lid, geen samenwerkingsovereenkomst gesloten ter uitvoering van de studiefase en het toezicht op de werken als aan al de volgende voorwaarden is voldaan:<br>
+1° het Vlaamse Gewest is de initiatiefnemer en de enige wegbeheerder;<br>
+2° het project wordt volledig buiten de bebouwde kom uitgevoerd;<br>
+3° er worden geen rioleringswerken uitgevoerd.</p>
+
+<p>§ 2. Voor de projecten, vermeld in artikel 53, § 3, 3°, worden de kosten, vermeld in paragraaf 1, tweede lid, volledig gedragen door de partij die voor het project optreedt als beheerder of projectontwikkelaar.<br>
+<br>
+Voor de projecten, vermeld in artikel 53, § 3, eerste lid, 4°, worden de kosten, vermeld in paragraaf 1, tweede lid, volledig gedragen door de gemeente.<br>
+<br>
+§ 3. De studiekosten, vermeld in paragraaf 1, omvatten de kosten voor :<br>
+1° de opmaak van de start- en projectnota of de unieke verantwoordingsnota, met inbegrip van de kosten voor de opmaak van de plannen of bestekken die daarvoor noodzakelijk zijn en de uitvoering van de nodige opmetingen;<br>
+2° de samenstelling van het technische gedeelte van de dossiers voor grondverwerving;<br>
+3° de opmaak van het dossier voor de aanvraag van de omgevingsvergunning voor stedenbouwkundige handelingen;<br>
+4° de begeleiding van de gunningsprocedure voor de werken.</p>
+
+<p>De toezichtskosten, vermeld in paragraaf 1, omvatten de kosten voor :<br>
+1° het werftoezicht, met inbegrip van de proefkosten;<br>
+2° de voorlopige en definitieve oplevering.</p>
 
 ### ART. 56.
 
-<P>§ 1. Voor de toepassing van dit artikel wordt onder de volledige reële   kostprijs verstaan studiekosten, toezichtskosten en kosten voor de uitvoering   van de werken.<BR></P>  <P>§ 2. De procentuele bijdrage van het Vlaamse Gewest zoals bepaald in de   projectspecifieke samenwerkingsovereenkomst, vermeld in artikel 53, § 3, 1° en   2° is van toepassing op de volledige reële kostprijs. <BR></P>  <P>§ 2. De studiekosten, vermeld in paragraaf 1, omvatten de kosten voor :<BR>1°   de opmaak van de start- en projectnota of de unieke verantwoordingsnota, met   inbegrip van de kosten voor de opmaak van de plannen of bestekken die daarvoor   noodzakelijk zijn en de uitvoering van de nodige opmetingen;<BR>2° de   samenstelling van het technische gedeelte van de dossiers voor   grondverwerving;<BR>3° de opmaak van het dossier voor de aanvraag van de   omgevingsvergunning voor stedenbouwkundige handelingen;<BR>4° de begeleiding van   de gunningsprocedure voor de werken.<BR></P>  <P>De toezichtskosten, vermeld in paragraaf 1, omvatten de kosten voor :<BR>1°   het werftoezicht, met inbegrip van de proefkosten;<BR>2° de voorlopige en   definitieve oplevering. <BR></P>
+§ 1. In afwijking van artikel 55 omvat de reële kostprijs in de projectspecifieke samenwerkingsovereenkomsten, vermeld in artikel 53, § 3, eerste lid, 1° en 2°, naast de kosten, vermeld in de projectspecifieke samenwerkingsovereenkomst, de studiekosten, de toezichtskosten en de kosten voor de uitvoering van de werken als die kosten voortvloeien uit een opdracht voor diensten die is gesloten vóór 1 januari 2014.<br>
+<br>
+§ 2. In afwijking van artikel 55 draagt het Vlaamse Gewest de studiekosten en de toezichtskosten van de projectspecifieke samenwerkingsovereenkomst, vermeld in artikel 53, § 1, eerste lid, 1°, met uitzondering van de studiekosten en de toezichtskosten voor de werken die ten laste van de andere partijen vallen, als aan al de volgende voorwaarden is voldaan:<br>
+1° er is een projectspecifieke samenwerkingsovereenkomst als vermeld in artikel 53, § 1, eerste lid, 1°, gesloten;<br>
+2° de gemeente kan aantonen dat de studiekosten en de toezichtskosten zijn gemaakt bij de voorbereiding van een module 10 of een module 13, respectievelijk als bijlage XI en bijlage XIV gevoegd bij het ministerieel besluit van 21 december 2001 betreffende de mobiliteitsconvenants;<br>
+3° de kosten vloeien voort uit een opdracht voor diensten die is gesloten vóór 1 januari 2014;<br>
+4° de resultaten van de studie zijn nuttig en kunnen aangewend worden voor de uitvoering van de werken, gedefinieerd in de projectspecifieke samenwerkingsovereenkomst.<br>
+<br>
+§ 3. De studiekosten, vermeld in paragraaf 1 en 2, omvatten de kosten voor:<br>
+1° de opmaak van de start- en projectnota of de unieke verantwoordingsnota, met inbegrip van de kosten voor de opmaak van de plannen of bestekken die daarvoor noodzakelijk zijn, en de uitvoering van de nodige opmetingen;<br>
+2° de samenstelling van het technische gedeelte van de dossiers voor grondverwerving;<br>
+3° de opmaak van het dossier voor de aanvraag van de omgevingsvergunning;<br>
+4° de begeleiding van de gunningsprocedure voor de werken.<br>
+<br>
+De toezichtskosten, vermeld in paragraaf 1 en 2, omvatten de kosten voor:<br>
+1° het werftoezicht, met inbegrip van de proefkosten;<br>
+2° de voorlopige en definitieve oplevering.<br>
+<br>
+De studiekosten en de toezichtskosten worden verminderd naar rata van de mate waarin de kosten nuttig zijn voor de realisatie van de werken.<br>
+<br>
+§ 4. In geval van de projectspecifieke samenwerkingsovereenkomsten, vermeld in artikel 53, § 3, eerste lid, 1° en 2°, omvat de eerste schijf, vermeld in artikel 7 van de projectspecifieke samenwerkingsovereenkomst, opgenomen als bijlage 5 en 6, die bij dit besluit is gevoegd, de studiekosten en de toezichtskosten.<br>
+<br>
+In geval van de projectspecifieke samenwerkingsovereenkomst, vermeld in artikel 53, § 1, eerste lid, 1°, worden de studiekosten en de toezichtskosten uitbetaald aan de gemeente na de betekening van de opdracht aan de aannemer van de werken.
 
 ## TITEL 4 Slotbepalingen
 
@@ -403,36 +790,36 @@ De Vlaamse minister, bevoegd voor de openbare werken en voor het   mobiliteitsbe
 
 ### BIJLAGE 1
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/02/27_1.pdf#page=18">Bijlage   1</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=35">http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=35</a>
 
 ### BIJLAGE 2
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/02/27_1.pdf#page=26">Bijlage   2</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=41">http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=41</a>
 
 ### BIJLAGE 3
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/02/27_1.pdf#page=35">Bijlage   3</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=47">http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=47</a>
 
 ### BIJLAGE 4
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/02/27_1.pdf#page=56">Bijlage   4</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=60">http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=60</a>
 
 ### BIJLAGE 5
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/02/27_1.pdf#page=79">Bijlage   5</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=74">http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=74</a>
 
 ### BIJLAGE 6
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/02/27_1.pdf#page=89">Bijlage   6</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=81">http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=81</a>
 
 ### BIJLAGE 7
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/02/27_1.pdf#page=98">Bijlage   7</A></P>  <P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/02/27_1_2.pdf#page=1">Bijlage   7</A></P>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=87">http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=87</a>
 
 ### BIJLAGE 8
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/02/27_1_2.pdf#page=8">Bijlage   8</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=94">http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=94</a>
 
 ### BIJLAGE 9
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/02/27_1_2.pdf#page=16">Bijlage   9</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=99">http://www.ejustice.just.fgov.be/mopdf/2018/03/02_1.pdf#page=99</a>
