@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029119,
+  "title": "Ministerieel besluit van 2018-03-01 houdende de vastlegging van de bandingfactoren voor groenestroomcertificaten voor bepaalde groenestroomprojecten met een startdatum vanaf 1 april 2018",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029119/VolledigDocument?datum=2018-03-14",
+  "source_sha256": "ae566377a1e65398068d588406b6ca3f495ebe8da300fa192700dfd325b49708",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029119&param=informatie",
+  "as_of": "2018-03-14",
+  "made": "2018-03-01",
+  "gazette": "2018-03-14",
+  "numac": 2018011264,
+  "document_start": "2018-03-14",
+  "document_end": null,
+  "in_force": "2018-03-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-03-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
