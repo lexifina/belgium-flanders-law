@@ -20,7 +20,7 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 9° het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt;<br>
 10° de verordening (EU) Nr. 1303/2013 van het Europees Parlement en de Raad van 17 december 2013 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds, het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Fonds voor maritieme zaken en visserij en algemene bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds en het Europees Fonds voor maritieme zaken en visserij, en tot intrekking van Verordening (EG) nr. 1083/2006 van de Raad;<br>
 11° de verordening (EU) Nr. 1304/2013 van het Europees Parlement en de Raad van 17 december 2013 betreffende het Europees Sociaal Fonds en tot intrekking van Verordening (EG) nr. 1081/2006 van de Raad;<br>
-12° de verordening (EU) Nr. 1309/2013 van het Europees Parlement en de Raad van 17 december 2013 betreffende het Europees fonds voor aanpassing aan de globalisering (2014-2020) en tot intrekking van Verordening (EG) nr. 1927/2006;;<br>
+12° de verordening (EU) Nr. 1309/2013 van het Europees Parlement en de Raad van 17 december 2013 betreffende het Europees fonds voor aanpassing aan de globalisering (2014-2020) en tot intrekking van Verordening (EG) nr. 1927/2006;<br>
 13° de Verordening (EG) nr. 1828/2006 van de Commissie van 8 december 2006 tot vaststelling van uitvoeringsbepalingen van Verordening (EG) nr. 1083/2006 van de Raad houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds, en van de Verordening (EG) nr. 1080/2006 van het Europees Parlement en de Raad betreffende het Europees Fonds voor Regionale Ontwikkeling;<br>
 14° het decreet van 17 januari 2003 houdende instemming met het samenwerkingsakkoord van 7 december 2001 tussen de federale staat, de gewesten en de Duitstalige gemeenschap betreffende de ontwikkeling van buurtdiensten en -banen;<br>
 15° het decreet van 19 december 2003 houdende de bepalingen tot begeleiding van de begroting, inzonderheid artikel 102;<br>
@@ -45,7 +45,7 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 34° het besluit van de Vlaamse Regering van 8 september 2000 houdende een impuls- en ondersteuningsprogramma van de meerwaardeneconomie;<br>
 35° het decreet van 13 maart 2009 betreffende de sectorconvenants in het raam van het Vlaams Werkgelegenheidsbeleid;<br>
 36° het decreet van 25 april 2014 houdende de werk- en zorgtrajecten;<br>
-37° het hoofdstuk IV, afdeling 5 en afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, met uitzondering van de bepalingen van artikel 113,&nbsp;115, 118 en 119;<br>
+37° het hoofdstuk IV, afdeling 5 en afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale bepalingen, met uitzondering van de bepalingen van artikel 113, 115, 118 en 119;<br>
 38° de wet van 19 juli 1983 op het leerlingwezen voor beroepen uitgeoefend door werknemers in loondienst;<br>
 39° hoofdstukken V en VII van de wet van 5 september 2001 tot de verbetering van de werkgelegenheidsgraad van de werknemers;<br>
 40° het Wijk-werkendecreet van 7 juli 2017;<br>
@@ -66,7 +66,8 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 55° de doelgroepverminderingen, vermeld in titel IV, hoofdstuk 7, afdeling 3, onderafdeling 1 tot en met 3, onderafdeling 5, 5bis, 7, en 10 tot en met 15, van de programmawet (I) van 24 december 2002;<br>
 56° de jongerenbonus non-profit, bepaald in artikelen 79 tot en met 86 van de wet van 23 december 2005 betreffende het generatiepact;<br>
 57° de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers;<br>
-58° de wet van 19 februari 1965 betreffende de uitoefening van de zelfstandige beroepsactiviteiten der vreemdelingen.<br>
+58° de wet van 19 februari 1965 betreffende de uitoefening van de zelfstandige beroepsactiviteiten der vreemdelingen;<br>
+59° de toekenning van transitiepremies voor ondernemers, vermeld in artikel 3 van het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren.<br>
 <br>
 De sociaalrechtelijke inspecteurs zijn tevens bevoegd voor de controle en het toezicht op de regelgeving waarvoor het Vlaamse Gewest gemachtigd is krachtens de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waar in artikel 6, § 1, IX, 2°, de bevoegdheid aan de gewesten wordt gegeven met betrekking tot programma's voor wedertewerk-stelling.<br>
 <br>
@@ -356,6 +357,10 @@ Onder de voorwaarden, vermeld in deze afdeling, kan voor de volgende   inbreuken
 ### ART. 21/1.
 
 Onder de voorwaarden, vermeld in deze afdeling, kan voor de volgende   inbreuken op hoofdstuk IV, afdeling 6, van de herstelwet van 22 januari 1985   houdende sociale bepalingen, een administratieve geldboete opgelegd worden van   50 euro tot 500 euro aan:<BR>1° eenieder die onjuiste inlichtingen verschaft met   het oog op de toepassing van de regels over het educatief verlof, vermeld in   hoofdstuk IV, afdeling 6, van de herstelwet van 22 januari 1985 houdende sociale   bepalingen en de uitvoeringsbesluiten ervan;<BR>2° de werkgever, zijn   aangestelde of lasthebber die, in strijd met hoofdstuk IV, afdeling 6, van de   herstelwet van 22 januari 1985 houdende sociale bepalingen, een werknemer die   naar behoren een aanvraag tot educatief verlof heeft ingediend, het recht   weigert afwezig te zijn met het oog op het volgen van de cursus.<BR><BR>Voor de   inbreuken, vermeld in het eerste lid, 1° en 2°, wordt de geldboete   vermenigvuldigd met het aantal betrokken werknemers. De vermenigvuldigde   geldboete mag evenwel niet meer dan het honderdvoud van de maximumgeldboete   bedragen.
+
+### ART 21/2.
+
+Onder de voorwaarden, vermeld in deze afdeling, kan aan eenieder die onjuiste inlichtingen verschaft met het oog op de toepassing van een transitiepremie voor ondernemers als vermeld in het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren en de uitvoeringsbesluiten ervan, een administratieve geldboete opgelegd worden van 50 euro tot 500 euro.
 
 ### ART. 22.
 
