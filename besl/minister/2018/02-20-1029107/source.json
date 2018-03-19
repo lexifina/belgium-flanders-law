@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029107,
+  "title": "Ministerieel besluit van 2018-02-20 tot wijziging van het Ministerieel besluit van 5 september 2017 tot bepaling van de aard van de investeringen die in aanmerking komen voor een lening door een energiehuis",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029107/VolledigDocument?datum=2018-03-19",
+  "source_sha256": "fadca5c05a35adbe96fbe5e7db29dfdca60865d4fd91faf0af36b83302c5846b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029107&param=informatie",
+  "as_of": "2018-03-19",
+  "made": "2018-02-20",
+  "gazette": "2018-03-09",
+  "numac": 2018030583,
+  "document_start": "2018-03-19",
+  "document_end": null,
+  "in_force": "2018-03-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2018-03-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
