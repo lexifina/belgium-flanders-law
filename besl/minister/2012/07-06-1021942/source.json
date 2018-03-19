@@ -2,16 +2,16 @@
   "codex_id": 1021942,
   "title": "Ministerieel besluit van 2012-07-06 houdende de vaststelling van het formulier waarmee kiezers de terugbetaling van hun reiskosten vragen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021942/VolledigDocument?datum=2012-07-27",
-  "source_sha256": "3999c7e01986eac66b1a3d0267812f93328b1a1c7ae1e9207615d90c629adb77",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021942/VolledigDocument?datum=2018-03-19",
+  "source_sha256": "bcc195e7b1c5b25a3a19d930c1d876dd0473cc5eb854fb27a4859d1939ab7e58",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021942&param=informatie",
-  "as_of": "2012-07-27",
+  "as_of": "2018-03-19",
   "made": "2012-07-06",
   "gazette": "2012-07-17",
   "numac": 2012035816,
   "document_start": "2012-07-27",
   "document_end": "2018-03-18",
-  "in_force": "2012-07-27",
+  "in_force": "2018-03-19",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2012-07-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-03-19; future article versions excluded; article text as the API gives it"
 }
