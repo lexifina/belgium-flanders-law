@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029100,
+  "title": "Decreet van 2018-01-26 houdende wijziging van het decreet basisonderwijs van 25 februari 1997 en de Codex Secundair Onderwijs, wat de onderwijsdoelen betreft (opschrift gewijzigd door de commissie:... tot wijziging van het decreet basisonderwijs van 25 februari 1997 en de Codex Secundair Onderwijs, wat onderwijsdoelen betreft, en tot wijziging van de decreten Rechtspositie onderwijspersoneel)",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029100/VolledigDocument?datum=2018-03-19",
+  "source_sha256": "362f66daf96ea6d2d20fc74378d6d8d767dc83701330f5abc078347ea79dd819",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029100&param=informatie",
+  "as_of": "2018-03-19",
+  "made": "2018-01-26",
+  "gazette": "2018-03-09",
+  "numac": 2018030576,
+  "document_start": "2018-03-19",
+  "document_end": null,
+  "in_force": "2018-03-19",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2018-03-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
