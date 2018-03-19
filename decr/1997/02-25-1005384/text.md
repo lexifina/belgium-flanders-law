@@ -1021,48 +1021,72 @@ In de vrije lagere scholen wordt hetzij onderwijs in één of meer erkende godsd
 
 ### ART. 44.
 
-§ 1. [De ontwikkelingsdoelen voor het gewoon kleuteronderwijs, eindtermen   voor het gewoon lager onderwijs en ontwikkelingsdoelen voor het buitengewoon   basisonderwijs worden vastgelegd door het Vlaams Parle-ment bij wijze van   bekrachtiging van een besluit van de Vlaamse regering, genomen op advies van de   Vlaamse Onderwijsraad.<BR><BR>De Vlaamse regering legt het besluit ten laatste   één maand na de goedkeuring ter bekrachtiging voor aan het Vlaams   Parlement.<BR><BR>De eindtermen en ontwikkelingsdoelen hebben uitwerking vanaf   de datum die het decreet aangeeft.<BR><BR>§ 2. De regering houdt hierbij   rekening met wat volgt:<BR><BR>1° ontwikkelingsdoelen voor het kleuteronderwijs   zijn minimumdoelen op het vlak van kennis, inzicht, vaardigheden en attitudes   die de overheid wenselijk acht voor die leerlingenpopulatie en die de school bij   haar leerlingen moet nastreven;<BR><BR>2° eindtermen voor het lager onderwijs   zijn minimumdoelen die de overheid noodzakelijk en bereikbaar acht voor een   bepaalde leerlingenpopulatie. Met minimumdoelen wordt bedoeld: een minimum aan   kennis, inzicht, vaardigheden en attitudes bestemd voor die   leerlingenpopulatie.<BR><BR>Eindtermen kunnen leergebiedgebonden of   leergebiedoverschrijdend zijn.<BR><BR>Elke school heeft de maatschappelijke   opdracht de leergebiedgebonden eindtermen met betrekking tot kennis, inzicht en   vaardigheden bij de leerlingen te bereiken.<BR><BR>Het bereiken van de   eindtermen zal worden afgewogen tegenover de schoolcontext en de kenmerken van   de schoolpopulatie. De leergebiedgebonden eindtermen met betrekking tot   attitudes dienen door elke school bij de leer-lingen te worden   nagestreefd.<BR><BR>Leergebiedoverschrijdende eindtermen zijn minimumdoelen die   niet specifiek behoren tot één leergebied, maar onder meer door middel van meer   leergebieden of onderwijsprojecten worden nagestreefd. Elke school heeft de   maatschappelijke opdracht de leergebiedoverschrijdende eindtermen bij de   leerlingen na te streven. De school toont aan dat ze met een eigen planning aan   de leergebiedoverschrijdende eindtermen werkt;<BR><BR>De eindtermen worden   ontwikkeld gebruikmakend van descriptorelementen vermeld in artikel 6 van het   decreet van 30 april 2009 betreffende de kwalificatiestructuur.<BR><BR>3°   ontwikkelingsdoelen voor het buitengewoon basisonderwijs zijn doelen op het vlak   van kennis, inzicht, vaardigheden en attitudes die de overheid wenselijk acht   voor zoveel mogelijk leerlingen van de leerlingenpopulatie. In samenspraak met   het centrum voor leerlingenbegeleiding en zo mogelijk in overleg met de ouders   en eventueel andere betrokkenen, kiest de klassenraad de ontwikkelingsdoelen die   aan individuele leerlingen of groepen worden aangeboden en uitdruk-kelijk   nagestreefd. De ontwikkelingsdoelen voor het buitengewoon basisonderwijs kunnen   worden vastgelegd per type;<BR><BR>4° voor het onderwijs in een erkende   godsdienst, een op die godsdienst berustende zedenleer, in de niet-confessionele   zedenleer, de eigen cultuur en religie en de cultuurbeschouwing worden geen   eindtermen of ontwikkelingsdoelen bepaald.  <span class="reference">(verv. decr. 14 februari 2003, art. II. 9, I: 1   september 2004)</span> ]
+§ 1. 1° Ontwikkelingsdoelen voor het gewoon kleuteronderwijs zijn minimumdoelen die het Vlaams Parlement wenselijk acht voor die leerlingenpopulatie. Met minimumdoelen wordt bedoeld: een minimum aan kennis, inzicht, vaardigheden en attitudes, bestemd voor die leerlingenpopulatie.<br>
+Elke school heeft de maatschappelijke opdracht om de ontwikkelingsdoelen met betrekking tot kennis, inzicht, vaardigheden en attitudes op populatieniveau bij de leerlingen na te streven.<br>
+Voor de kwaliteitscontrole in functie van de erkenning en de doorlichting, zoals bedoeld in artikel 32, 1° en 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs, van de scholen voor het gewoon kleuteronderwijs, baseert de onderwijsinspectie zich op het nastreven van de ontwikkelingsdoelen.<br>
+2° Eindtermen voor het gewoon lager onderwijs zijn minimumdoelen die het Vlaams Parlement noodzakelijk en bereikbaar acht voor die leerlingenpopulatie. Met minimumdoelen wordt bedoeld: een minimum aan kennis, inzicht, vaardigheden en attitudes, bestemd voor die leerlingenpopulatie.<br>
+Elke school heeft de maatschappelijke opdracht om de eindtermen met betrekking tot kennis, inzicht, vaardigheden en bepaalde attitudes op populatieniveau bij de leerlingen te bereiken en de eindtermen met betrekking tot bepaalde andere attitudes bij de leerlingen na te streven.<br>
+Voor de kwaliteitscontrole in functie van de erkenning en de doorlichting, zoals bedoeld in artikel 32, 1° en 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs, van de scholen voor het gewoon lager onderwijs, baseert de onderwijsinspectie zich op het bereiken van de eindtermen.<br>
+3° Ontwikkelingsdoelen voor het buitengewoon basisonderwijs zijn doelen op het vlak van kennis, inzicht, vaardigheden en attitudes die het Vlaams Parlement wenselijk acht voor zoveel mogelijk leerlingen van een bepaalde leerlingenpopulatie.<br>
+Elke school heeft de maatschappelijke opdracht om de ontwikkelingsdoelen met betrekking tot kennis, inzicht, vaardigheden en attitudes bij de leerlingen na te streven indien opgenomen in het handelingsplan, zoals bepaald in artikel 46.<br>
+De school kan steeds extra doelen nastreven bij de leerlingen.<br>
+Voor de kwaliteitscontrole in functie van de erkenning en de doorlichting, zoals bedoeld in artikel 32, 1° en 2°, van het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs, van scholen voor het buitengewoon basisonderwijs, baseert de onderwijsinspectie zich op het nastreven van de ontwikkelingsdoelen via het handelingsplan, zoals bepaald in artikel 46.<br>
+4° Voor het onderwijs in godsdienst, niet-confessionele zedenleer en cultuur-beschouwing, zijn er geen ontwikkelingsdoelen of eindtermen.<br>
+<br>
+§ 2. De ontwikkelingsdoelen en eindtermen worden geformuleerd in functie van volgende sleutelcompetenties:<br>
+1. competenties op het vlak van lichamelijk, geestelijk en emotioneel bewustzijn en op vlak van lichamelijke, geestelijke en emotionele gezondheid;<br>
+2. competenties in het Nederlands;<br>
+3. competenties in andere talen;<br>
+4. digitale competentie en mediawijsheid;<br>
+5. sociaal-relationele competenties;<br>
+6. competenties inzake wiskunde, exacte wetenschappen en technologie;<br>
+7. burgerschapscompetenties met inbegrip van competenties inzake samenleven;<br>
+8. competenties met betrekking tot historisch bewustzijn;<br>
+9. competenties met betrekking tot ruimtelijk bewustzijn;<br>
+10. competenties inzake duurzaamheid;<br>
+11. economische en financiële competenties;<br>
+12. juridische competenties;<br>
+13. leercompetenties met inbegrip van onderzoekscompetenties, innovatie-denken, creativiteit, probleemoplossend en kritisch denken, systeemdenken, informatie-verwerking en samenwerken;<br>
+14. zelfbewustzijn en zelfexpressie, zelfsturing en wendbaarheid;<br>
+15. ontwikkeling van initiatief, ambitie, ondernemingszin en loopbaancompetenties;<br>
+16. cultureel bewustzijn en culturele expressie.<br>
+<br>
+Het Vlaams Parlement haakt deze ontwikkelingsdoelen en eindtermen niet vast aan leergebieden. Het zijn de schoolbesturen die de verbinding maken tussen de ontwikkelingsdoelen en eindtermen en de in dit decreet opgenomen leergebieden.<br>
+<br>
+§ 3. De ontwikkeling van eindtermen en ontwikkelingsdoelen wordt gecoördineerd door de regering. De regering stelt daartoe een of meerdere ontwikkelcommissies samen die ten minste bestaan uit leerkrachten uit basis- en secundair onderwijs, de vertegenwoordigers van het Gemeenschapsonderwijs en de verenigingen van schoolbesturen van het gesubsidieerd onderwijs en vak- en andere experten uit het hoger onderwijs. De ontwikkelcommissie formuleert een beperkt aantal van sober geformuleerde, duidelijke, competentiegerichte en evalueerbare eindtermen en ontwikkelingsdoelen waar de aspecten kennis, vaardigheden, inzichten en indien van toepassing attitudes aan bod komen. Ze geeft ook het belang en de uitgangspunten ervan aan.<br>
+<br>
+De ontwikkelde eindtermen en ontwikkelingsdoelen worden vervolgens door de ontwikkelcommissie voorgelegd aan een valideringscommissie. De valideringscommissie bestaat uit leden van de onderwijsinspectie en andere experten. De valideringscommissie valideert of stuurt de ontwikkelde eindtermen of ontwikkelingsdoelen terug naar de ontwikkelcommissie met het oog op bijsturing, waarna ze finaal ter validering aan de valideringscommissie worden voorgelegd. De valideringscommissie bewaakt de coherentie, consistentie en evalueerbaarheid van de eindtermen en ontwikkelingsdoelen.<br>
+<br>
+De ontwikkelingsdoelen en eindtermen worden door de regering als een ontwerp van decreet ingediend bij het Vlaams Parlement. Het Vlaams Parlement kan het initiatief nemen de in het eerste lid voorziene procedure op te starten.<br>
+<br>
+De ontwikkelingsdoelen en eindtermen worden periodiek gescreend op hun actualiteitswaarde en worden zo nodig bijgestuurd. De regering bepaalt de procedure voor deze screening en bijsturing.<br>
+<br>
+§ 4. In afwachting van ontwikkelingsdoelen en eindtermen tot stand gekomen in uitvoering van de bepalingen van dit artikel blijven de bestaande ontwikkelingsdoelen en eindtermen van toepassing.<br>
+<br>
+Bij de ontwikkeling en de implementatie van de ontwikkelingsdoelen en eindtermen wordt rekening gehouden met de coherentie en continuïteit over het kleuter- en lager onderwijs heen en de aansluiting op de eindtermen en ontwikkelingsdoelen van het secundair onderwijs, zonder de eigenheid van het basisonderwijs uit het oog te verliezen.<br>
+<br>
+§ 5. Het Vlaams Parlement keurt een beperkt aantal van sober geformuleerde, duidelijke, competentiegerichte en evalueerbare eindtermen en ontwikkelingsdoelen goed waar kennis telkens geëxpliciteerd wordt en vaardigheden, inzichten en indien van toepassing attitudes aan bod komen.
 
 ### ART. 44bis.
 
-§ 1. Een schoolbestuur kan oordelen dat de conform artikel 44 vastgelegde ontwikkelingsdoelen en/of eindtermen onvoldoende ruimte laten voor zijn eigen pedagogische en onderwijskundige opvattingen en/ of ermee onverzoenbaar zijn. In dat geval dient het schoolbestuur bij de regering een afwijkingsaanvraag in. Deze aanvraag is slechts ontvankelijk indien precies wordt aangegeven waarom de ontwikkelingsdoelen en/of eindtermen voor zijn eigen pedagogische en onderwijskundige opvattingen onvoldoende ruimte laten en/of waarom ze ermee onverzoenbaar zijn. Het schoolbestuur stelt in dezelfde aanvraag vervangende ontwikkelingsdoelen en/of eindtermen voor.<br>
+§ 1. Wanneer een schoolbestuur oordeelt dat de eindtermen of de ontwikkelingsdoelen onvoldoende ruimte laten voor de eigen pedagogische en onderwijskundige opvattingen of ermee onverzoenbaar zijn, dient het bij de regering een aanvraag tot gelijkwaardigheid in door vervangende eindtermen en/of ontwikkelingsdoelen voor te stellen. De indiening gebeurt uiterlijk op 1 september van het schooljaar voorafgaand aan het schooljaar waarin de vervangende eindtermen of ontwikkelingsdoelen zullen gelden.<br>
 <br>
-§ 2. De regering beoordeelt of de aanvraag ontvankelijk is en beslist in voorkomend geval of de vervangende ontwikkelingsdoelen en/of eindtermen in hun geheel gelijkwaardig zijn met die welke conform artikel 44 werden vastgelegd en toelaten gelijkwaardige studiebewijzen en diploma's af te leveren.<br>
+Wanneer de aanvraag gebeurt ingevolge een wijziging van ontwikkelingsdoelen of eindtermen door het Vlaams Parlement, geldt een gedoogperiode van één volledig schooljaar waarbinnen de aanvrager nog met de oude eindtermen of in voorkomend geval oude afwijkende eindtermen mag werken.<br>
 <br>
-De gelijkwaardigheid wordt beoordeeld aan de hand van de volgende criteria :<br>
+De aanvraag is slechts ontvankelijk indien precies wordt aangegeven waarom de eindtermen of de ontwikkelingsdoelen onvoldoende ruimte laten voor de eigen pedagogische en onderwijskundige opvattingen of waarom ze ermee onverzoenbaar zijn. Het schoolbestuur stelt in dezelfde aanvraag vervangende eindtermen of ontwikkelingsdoelen voor.<br>
 <br>
+§ 2. De regering beoordeelt of de aanvraag ontvankelijk is en, zo ja, of de vervangende eindtermen of ontwikkelingsdoelen in hun geheel gelijkwaardig zijn met deze eindtermen of ontwikkelingsdoelen goedgekeurd door het Vlaams Parlement, en bijgevolg toelaten gelijkwaardige studiebewijzen af te leveren. De regering beslist uiterlijk op 31 december van het voorafgaande schooljaar over de aanvraag.<br>
+<br>
+De gelijkwaardigheid wordt beoordeeld aan de hand van de volgende criteria:<br>
 1° het respect voor de fundamentele rechten en vrijheden;<br>
+2° de vereiste inhoud, in functie van de sleutelcompetenties, zoals bepaald in artikel 44;<br>
+3° de formulering<br>
+a) gebeurt onder de vorm van ontwikkelingsdoelen of eindtermen, naargelang van het geval;<br>
+b) laat toe om na te gaan in welke mate bij een leerlingenpopulatie ontwikkelingsdoelen worden nagestreefd of eindtermen worden bereikt.<br>
 <br>
-2° de vereiste inhoud :<br>
-a) het onderwijsaanbod in de ontwikkelingsdoelen voor het kleuteronderwijs omvat minstens inhouden voor lichamelijke opvoeding, muzische vorming, Nederlands, wetenschappen en techniek, mens en maatschappij, wiskundige initiatie;<br>
-b) het onderwijsaanbod in de eindtermen voor het lager onderwijs omvat minstens inhouden voor lichamelijke opvoeding, muzische vorming, Nederlands, wetenschappen en techniek, mens en maatschappij, wiskunde, leren leren, informatie en communicatietechnologie en sociale ontwikkeling of sociale vaardigheden, het onderwijsaanbod omvat ook inhouden voor het leergebied Frans;<br>
-c) het onderwijsaanbod in de ontwikkelingsdoelen voor het buitengewoon basisonderwijs, met uitzondering van het type 2 zoals bepaald in artikel 10 omvat minstens inhouden voor lichamelijke opvoeding, muzische vorming, Nederlands, wetenschappen en techniek, mens en maatschappij, wiskunde, leren leren, informatie en communicatietechnologie en sociale ontwikkeling of sociale vaardigheden.<br>
+Voor de beoordeling van de ontvankelijkheid en van de gelijkwaardigheid wordt het gemotiveerd advies ingewonnen van een commissie van deskundigen en van de onderwijsinspectie en wordt telkens de aanvrager gehoord. De regering bepaalt de verdere regels voor de samenstelling van de commissie van deskundigen en van de procedure.<br>
 <br>
-Deze inhouden moeten enkel in hun geheel evenwaardig zijn met de inhouden waarvoor conform artikel 44 ontwikkelingsdoelen en eindtermen werden vastgelegd;<br>
-<br>
-3° de vervangende ontwikkelingsdoelen en eindtermen slaan op kennis, inzichten, vaardigheden en attitudes;<br>
-<br>
-4° de vervangende ontwikkelingsdoelen en eindtermen zijn geformuleerd in termen wat van leerlingen verwacht kan worden;<br>
-<br>
-5° de vervangende ontwikkelingsdoelen en eindtermen zijn zo geformuleerd dat, afhankelijk van het statuut van de eindtermen, nagegaan kan worden in welke mate de leerlingen deze verwerven of de scholen deze nastreven bij de leerlingen;<br>
-<br>
-6° aangegeven wordt welke eindtermen leergebiedgebonden, leergebiedoverschrijdend of attitudinaal zijn.<br>
-<br>
-Voor de beoordeling van de ontvankelijkheid en van de gelijkwaardigheid, wint de regering het gemotiveerd advies in van de onderwijsinspectie en van een commissie ad hoc.<br>
-<br>
-Voor de samenstelling van deze laatste commissie stelt de regering een lijst op van onafhankelijke deskundigen, na overleg met een gemengde commissie met vertegenwoordigers van de Vlaamse Interuniversitaire Raad en de Vlaamse Hogescholenraad. Deze lijst geldt voor een periode van vier jaar.<br>
-<br>
-Uit voornoemde lijst kiezen de aanvrager en de regering elk één deskundige. Beide deskundigen wijzen binnen acht dagen in gemeen overleg een derde deskundige aan, die tevens voorzitter van de commissie is. Als er geen consensus bereikt wordt, wijst de regering uit de voornoemde lijst de derde deskundige aan.<br>
-<br>
-De regering bepaalt de verdere regels van deze procedure, met dien verstande dat de aanvrager gehoord wordt.<br>
-<br>
-§ 3. Het schoolbestuur dient uiterlijk op 1 september van het schooljaar voorafgaand aan het schooljaar waarin de vervangende ontwikkelingsdoelen/eindtermen zullen gelden, een afwijkingsaanvraag in. De regering beslist uiterlijk op 31 december van het voorafgaande schooljaar over de aanvraag.<br>
-<br>
-De regering legt dit besluit binnen de zes maand ter bekrachtiging voor aan het Vlaams Parlement. Indien het Vlaams Parlement dit besluit niet bekrachtigt, houdt het op rechtskracht te hebben.<br>
-<br>
-§ 4. In afwijking van wat bepaald is in § 3, kan het schoolbestuur een afwijkingsaanvraag indienen binnen een termijn van één maand na de publicatie van een bekrachtigingsdecreet, indien deze publicatie gebeurt na 1 september van het schooljaar voorafgaand aan de inwerkingtreding.<br>
-<br>
-In de gevallen, bedoeld in het eerste lid, is het schoolbestuur gebonden door de eindtermen en ontwikkelingsdoelen vanaf 1 september volgend op de bekrachtiging van de goedkeuring van de afwijkingsaanvraag.
+§ 3. De vervangende eindtermen of ontwikkelingsdoelen die door de regering ontvankelijk en gelijkwaardig zijn beoordeeld, worden binnen zes maanden ter goedkeuring ingediend bij het Vlaams Parlement.
 
 ## [AFDELING 2bis GEBRUIK VAN GEVALIDEERDE TOETSEN VOOR INTERNE KWALITEITSZORG (ing. decr. 16 juni 2017, art. II.6, I: 1 september 2017)]
 
@@ -1078,7 +1102,19 @@ De resultaten van deze toetsafnames zijn gericht op het verkrijgen van informati
 
 ### ART. 45.
 
-§ 1. Met inachtneming van de door de regering opgelegde of gelijkwaardig   verklaarde ontwikkelingsdoelen en eindtermen, maakt ieder schoolbestuur voor   haar gewoon onderwijs, met uitzondering voor wat godsdienst, niet-confessionele   zedenleer en cultuurbeschouwing betreft, een leerplan, zijnde een plan waarin   het vanuit het eigen pedagogisch project in het algemeen of de eigen visie op de   leer-gebieden in het bijzonder de doelen formuleert voor haar leerlingen. In een   leerplan zijn op een herkenbare wijze de leergebiedgebonden eindtermen en   ontwikkelingsdoelen verwerkt.<BR><BR>Leergebiedoverschrijdende eindtermen kunnen   door het schoolbestuur als doelen opgenomen worden in het leerplan.<BR><BR>§ 2.   Met het oog op het waarborgen van het onderwijspeil worden de leerplannen op   advies van de inspectie door de regering goedgekeurd, op basis van criteria die   de regering heeft vastgelegd. De regering spreekt zich niet uit over de   geformuleerde didactische werkvormen of pedagogische methodes.<BR><BR>De   leerplannen voor godsdienst, niet-confessionele zedenleer en cultuurbeschouwing   dienen niet door de regering goedgekeurd te worden.<BR><BR>§ 3. De leerplannen   voor godsdienst, niet-confessionele zedenleer of cultuurbeschouwing zijn in   overeenstemming met de internationale en grondwettelijke beginselen inzake de   rechten van de mens en van het kind in het bijzonder en respecteren de   bekrachtigde eindtermen en ontwikkelingsdoelen.
+§ 1. Vanuit de ontwikkelingsdoelen voor het gewoon kleuteronderwijs en de eindtermen voor het gewoon lager onderwijs, worden door het schoolbestuur in omvang beperkte leerplannen ontwikkeld die voldoende ruimte laten voor de inbreng van scholen, leraren, lerarenteams of leerlingen. In de leerplannen zijn in elk geval alle door het Vlaams Parlement goedgekeurde ontwikkelingsdoelen voor het kleuteronderwijs en eindtermen voor het gewoon lager onderwijs letterlijk opgenomen waarbij transparant het onderscheid gemaakt wordt welke doelen de eindtermen realiseren en met welke doelen de ontwikkelingsdoelen worden nagestreefd. De leerplannen zijn voor de onderwijsinspectie een aanvullend instrument om het kwaliteitsbeleid van een school te kaderen.<br>
+<br>
+Leerplannen worden ter goedkeuring door de onderwijsverstrekkers ingediend bij de onderwijsinspectie. Met het oog op het waarborgen van het studiepeil keurt de Vlaamse Regering volgens de vooraf door haar bepaalde criteria en op advies van de onderwijsinspectie, de leerplannen goed.<br>
+<br>
+§ 2. Alle leerplannen, met inbegrip van de leerplannen godsdienst, niet-confessionele zedenleer en cultuurbeschouwing, zijn in overeenstemming met de internationale en grondwettelijke beginselen inzake de rechten van de mens en van het kind in het bijzonder en respecteren de goedgekeurde eindtermen en ontwikkelingsdoelen. De leerplannen godsdienst, niet-confessionele zedenleer en cultuurbeschouwing respecteren tevens de interlevensbeschouwelijke competenties.<br>
+<br>
+De directeur kan de levensbeschouwelijke leerlingengroepen tijdens de levensbeschouwelijke les bezoeken om administratieve redenen, om algemeen pedagogische redenen, om na te gaan of de grondwettelijke rechten en vrijheden gevrijwaard worden of voor een bespreking met de leerlingen. De directeur - of een ander personeelslid dat aangesteld is als evaluator - kan de les ook bijwonen, gelet op zijn bevoegdheid als evaluator voor niet-vakinhoudelijke en niet-vaktechnische aspecten.<br>
+<br>
+§ 3. In afwijking op paragraaf 1 dienen de leerplannen godsdienst, niet-confessionele zedenleer en cultuurbeschouwing niet door de Vlaamse Regering te worden goedgekeurd. Deze leerplannen worden publiek bekendgemaakt.<br>
+<br>
+§ 4. Over het in overeenstemming zijn met de internationale en grondwettelijke beginselen inzake de rechten van de mens en van het kind in het bijzonder en het respecteren van de goedgekeurde eindtermen en ontwikkelingsdoelen, evenals over de uitvoering van de leerplannen, wordt jaarlijks aan het Vlaams Parlement een stand van zaken gerapporteerd door:<br>
+1° de onderwijsinspectie bedoeld in het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken: over de leerplannen godsdienst en niet-confessionele zedenleer met inbegrip van de interlevensbeschouwelijke competenties;<br>
+2° de onderwijsinspectie bedoeld in het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs: over de leerplannen cultuurbeschouwing.
 
 ### ART. 46.
 
