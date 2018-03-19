@@ -165,7 +165,7 @@ c. Keuring elektriciteitsgedeelte voor zonnepanelen;<br>
 d. Doorvoeren door het dak;<br>
 e. Draagstructuur van de zonnepanelen (+ ballast);<br>
 <br>
-Belangrijke opmerking: om te lenen voor zonnepanelen die elektriciteit opwekken, dient een verklaring op eer gegeven te worden dat de woning (1) een geïsoleerd dak heeft (met Rd-waarde overeenkomstig de minimumeisen voor het bekomen van een premie van de netbeheerders) en (2) geen enkel glas meer heeft. Deze voorwaarden gelden enkel voor de woning. Indien de zonnepanelen zullen geplaatst worden op een bijgebouw van de woning dat niet voor bewoning dienstig is, gelden deze voorwaarden niet voor dit gedeelte.<br>
+Belangrijke opmerking: om te lenen voor zonnepanelen die elektriciteit opwekken, dient een verklaring op eer gegeven te worden dat de woning (1) een geïsoleerd dak heeft en (2) geen enkel glas meer heeft. De Rd- waarde van de dakisolatie moet minimaal 3,5 bedragen. Indien het dak nog over geen isolatie beschikt, of de isolatiewaarde is lager dan 3,5, dient het dak eerst te worden geïsoleerd overeenkomstig de geldende minimumeisen voor het bekomen van een premie van de netbeheerders. Deze voorwaarden gelden enkel voor de woning. Indien de zonnepanelen zullen geplaatst worden op een bijgebouw van de woning dat niet voor bewoning dienstig is, gelden deze voorwaarden niet voor dit gedeelte.<br>
 <br>
 9. Plaatsen van zonneboiler of ander zuinig systeem voor sanitair warm water<br>
 <br>
