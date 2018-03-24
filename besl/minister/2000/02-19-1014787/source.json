@@ -2,16 +2,16 @@
   "codex_id": 1014787,
   "title": "Ministerieel besluit van 2000-02-19 tot vaststelling van de schema's met de voorwaarden waaraan teeltmateriaal van siergewassen en siergewassen moeten voldoen, van de uitvoeringsbepalingen met betrekking tot het toezicht op en de controle van leveranciers van deze materialen, van hun bedrijven en van de laboratoria, van de erkenning van de laboratoria en van aanvullende uitvoeringsbepalingen met betrekking tot de door leveranciers bij te houden lijsten van bovenvermelde gewassen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014787/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "dfedc1b6a108b8f4a4411448a4017e3ae48abdc199c06361e6733b4ab048a621",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014787/VolledigDocument?datum=2018-03-24",
+  "source_sha256": "42526ea0b39b757d86395156dd08cf369c2817d2f512e102adb9d940604a7bac",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014787&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2018-03-24",
   "made": "2000-02-19",
   "gazette": "2000-04-29",
   "numac": 0,
   "document_start": "2000-05-09",
   "document_end": "2018-03-23",
-  "in_force": "2015-01-01",
+  "in_force": "2018-03-24",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-03-24; future article versions excluded; article text as the API gives it"
 }
