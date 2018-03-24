@@ -256,7 +256,7 @@ Behoudens herziening door de bevoegde entiteit bedraagt de minimale toegewezen h
 <br>
 Bij overschrijding van de hoeveelheden tong, vermeld in het vijfde lid, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt toegekend voor 2019.<br>
 <br>
-§ 3. Van 1 januari 2018 tot en met 30 juni 2018 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 10 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
+§ 3. Van 1 januari 2018 tot en met 30 juni 2018 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 1000 kg verhoogd met een hoeveelheid, die gelijk is aan 10 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
 
 ## Afdeling 4. Tong oostelijk Kanaal - ICES-gebied VIId
 
@@ -319,7 +319,29 @@ De hoeveelheid vermeld in het eerste lid wordt verdubbeld voor een vissersvaartu
 
 ### ART 22.
 
-De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa,b is verboden in de periode van 1 januari 2018 tot en met 31 december 2018.
+§ 1. De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa,b is verboden in de periode van 1 januari 2018 tot en met 31 december 2018.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 is het vanaf 1 juni 2018, alleen voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2018" voorkomen, toegestaan om in de ICES-gebieden VIIIa, b aanwezig te zijn.<br>
+<br>
+Om aan de lijst, vermeld in het eerste lid, toegevoegd te kunnen worden, richten de eigenaars van vissersvaartuigen hiertoe voor 8 april 2018 per aangetekende brief, fax of per e-mail een aanvraag tot de bevoegde entiteit.<br>
+<br>
+Ingeval het aantal ingeschreven vaartuigen te hoog is in verhouding tot de beschikbare tongquota of beschikbare bruto tonnage, zal via loting dat aantal worden beperkt.<br>
+<br>
+§ 3. Vanaf 1 juni 2018 tot en met 30 september 2018 is het verboden dat in de ICES-gebieden VIIIa, b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in paragraaf 2, een hoeveelheid overschrijdt die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Als uitgangspunt geldt de situatie op 8 april 2018.<br>
+<br>
+De hoeveelheid vermeld in vorig lid kan door de dienst worden herzien.<br>
+<br>
+§ 4. Ingeval de hoeveelheden tong, vermeld in paragraaf 3, worden overschreden, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt toegekend voor 2019.<br>
+<br>
+§ 5. Voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2018" voorkomen, wordt de toegekende hoeveelheid tong VIIf, g overeenkomstig artikel 16, voor de periode 1 juli 2018 tot 31 oktober 2018 verminderd met 10 kg per kW. Ingeval de toegekende hoeveelheden tong voor de periode 1 juli 2018 tot 31 oktober 2018 ontoereikend zijn, zal het resterende gedeelte gekort worden in op de toegekende hoeveelheden voor de volgende periode 1 november 2018 tot 31 december 2018.<br>
+<br>
+§ 6. Voor de vissersvaartuigen die de bepalingen van paragraaf 1 of 2 niet naleven, wordt het aantal dagen, vermeld in artikel 12, verminderd met tien.<br>
+<br>
+Bovendien zullen de vissersvaartuigen in kwestie niet aanwezig mogen zijn in de ICES-gebieden VIIIa,b gedurende het jaar 2019."<br>
+<br>
+§ 7. Het de minimisquotum voor tong in de ICES-gebieden VIIIa, b wordt vastgelegd op 14.000 kg tong. De drempelwaarde vemeld in artikel 8 wordt voor de tongvisserij in de ICES-gebieden VIIIa,b vastgelegd op maximaal 8% van de reeds in de visreis in kwestie gerealiseerde tongvangst in het gebied in kwestie.<br>
+<br>
+Als het in het eerste lid bepaalde de minimisquotum is opgebruikt, is het voor die vissersvaartuigen tot en met 31 december 2018 verboden nog gebruik te maken van de minimis voor tong afkomstig uit de ICES-gebieden VIIIa, b.
 
 ## HOOFDSTUK 2. Toewijzing van vangstmogelijkheden per zeereis
 
