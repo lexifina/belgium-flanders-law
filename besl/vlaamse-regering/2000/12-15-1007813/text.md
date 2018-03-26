@@ -85,7 +85,14 @@ De budgethouder opent een aparte rekening waarop de PAB-budgetten gestort worden
 <br>
 De budgethouder deelt de opname in een rust- en verzorgingstehuis mee aan het agentschap voor het einde van de eerste maand van het verblijf in het rust- en verzorgingstehuis.<br>
 <br>
-§ 8. Bij overlijden van de budgethouder ten behoeve van wie de assistentie werd ingekocht, kan maximaal een vierde van het maximumbedrag, vermeld in paragraaf 1, besteed worden aan verbrekingsvergoedingen ten voordele van de persoonlijke assistenten. Als aan de hand van kostenstaten bewezen wordt dat het maximumbedrag, vermeld in paragraaf 1, niet volstaat, kan het agentschap maximaal een vierde van dat maximumbedrag extra toekennen om de verbrekingsvergoedingen te betalen. Alleen bewijsbare kosten kunnen ten laste genomen worden.
+§ 8. Bij overlijden van de budgethouder ten behoeve van wie de assistentie werd ingekocht, kan maximaal een vierde van het maximumbedrag, vermeld in paragraaf 1, besteed worden aan verbrekingsvergoedingen ten voordele van de persoonlijke assistenten. Als aan de hand van kostenstaten bewezen wordt dat het maximumbedrag, vermeld in paragraaf 1, niet volstaat, kan het agentschap maximaal een vierde van dat maximumbedrag extra toekennen om de verbrekingsvergoedingen te betalen. Alleen bewijsbare kosten kunnen ten laste genomen worden.<br>
+<br>
+§ 9. De toekenning van een PAB wordt in de volgende gevallen opgeschort:<br>
+1° de betrokken persoon met een handicap heeft een jeugdhulpverleningsbeslissing waarbij jeugdhulpverlening waarvoor de betrokken persoon met een handicap bij de toegangspoort is aangemeld, door een gemandateerde voorziening als vermeld in hoofdstuk 8, afdeling 2, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, wordt omgezet in een of meer modules niet rechtstreeks toegankelijke jeugdhulpverlening;<br>
+2° de betrokken persoon met een handicap heeft een jeugdhulpverleningsbeslissing waarbij jeugdhulpverlening waarvoor een verzoek van de jeugdrechter als vermeld in artikel 55 van het voormelde decreet, is ingediend bij de toegangspoort, wordt omgezet in een of meer modules niet rechtstreeks toegankelijke jeugdhulpverlening;<br>
+3° de betrokken persoon met een handicap is geplaatst door de jeugdrechter.<br>
+<br>
+Het PAB wordt opgeschort met ingang van de eerste dag van de vierde maand die volgt op de aanvangsdatum, vermeld in jeugdhulpbeslissing, of die volgt op de aanvangsdatum van de plaatsing.
 
 ### ART. 8bis.
 
