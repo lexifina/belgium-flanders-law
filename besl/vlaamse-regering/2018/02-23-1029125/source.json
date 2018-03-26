@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029125,
+  "title": "Besluit van de Vlaamse Regering van 2018-02-23 tot wijziging van diverse bepalingen van het koninklijk besluit van 12 maart 1999 houdende de voorwaarden voor het verkrijgen van een afwijking van het verbod honden als last- en trekdier te gebruiken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029125/VolledigDocument?datum=2018-03-26",
+  "source_sha256": "f9b84210c51a914677193750952be02cf0b93a28dd48549c98c26bcc41bc11e0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029125&param=informatie",
+  "as_of": "2018-03-26",
+  "made": "2018-02-23",
+  "gazette": "2018-03-16",
+  "numac": 2018030608,
+  "document_start": "2018-03-26",
+  "document_end": null,
+  "in_force": "2018-03-26",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2018-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
