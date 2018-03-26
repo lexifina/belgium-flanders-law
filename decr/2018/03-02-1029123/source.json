@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029123,
+  "title": "Decreet van 2018-03-02 houdende wijziging van artikel 5.1.4, eerste lid, van het Energiedecreet, wat de preventie, detectie, vaststelling en bestraffing van energiefraude betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029123/VolledigDocument?datum=2018-03-26",
+  "source_sha256": "926af46f98583686ab73f994e6d193a92f7a402e5d8d7599c8490c8ff5db03e2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029123&param=informatie",
+  "as_of": "2018-03-26",
+  "made": "2018-03-02",
+  "gazette": "2018-03-16",
+  "numac": 2018011271,
+  "document_start": "2018-03-26",
+  "document_end": null,
+  "in_force": "2018-03-26",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2018-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
