@@ -1115,7 +1115,7 @@ De Vlaamse Regering kan, na advies van de VREG, richtlijnen uitvaardigen voor de
 
 ### ART 5.1.4.
 
-De netbeheerders mogen de gegevens waarover ze voor de uitoefening van hun taken, vermeld in artikel 4.1.6, beschikken, of de gegevens die voor hen hiertoe toegankelijk zijn of worden gemaakt door het Vlaams Energieagentschap, de VREG, de toegangshouders en leveranciers of gegevens uit het Bevolkingsregister, het Vreemdelingenregister of de Kruispuntbank voor de Ondernemingen, gebruiken om energiefraude te detecteren en vast te stellen via technieken als datamining of profilering.<br>
+De netbeheerders mogen de gegevens waarover ze voor de uitoefening van hun taken, vermeld in artikel 4.1.6, beschikken, of de gegevens die voor hen hiertoe toegankelijk zijn of worden gemaakt door het Vlaams Energieagentschap, de VREG, de toegangshouders en leveranciers of gegevens uit het Rijksregister, de Kruispuntbank Sociale Zekerheid of de Kruispuntbank voor de Ondernemingen, gebruiken om energiefraude te detecteren en vast te stellen via technieken als datamining of profilering.<br>
 <br>
 De netbeheerders die gebruikmaken van technieken als datamining of profilering om energiefraude te detecteren en vast te stellen hanteren proportionele en relevante criteria, die periodiek kunnen variëren, en die ervoor zorgen dat de te verwerken persoonsgegevens zo beperkt mogelijk maar tegelijk relevant zijn om fraudetypologieën te detecteren. De Vlaamse Regering kan nadere regels uitvaardigen met betrekking tot de te hanteren criteria.<br>
 <br>
