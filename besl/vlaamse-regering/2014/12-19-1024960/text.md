@@ -339,7 +339,15 @@ Een organisator geeft voor een bestaande subsidiebelofte of   subsidie elke wijz
 
 ### ART. 56.
 
-<P>De   subsidies, vermeld in artikel 19, 42, 49, 63 en 72, 2° en 3°, van het   Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, worden verdeeld op basis   van de programmatieregels, vastgesteld door de minister.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   minister bepaalt per uitbreidingsronde :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het totaal te verdelen uitbreidingsbudget;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   hoeveel van het te verdelen subsidiebudget bestemd is voor welke   subsidie;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   hoeveel van het te verdelen subsidiebudget bestemd is voor gezinsopvang,   groepsopvang en vakantieopvang;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   of er een voorafname is voor bepaalde gebieden en wat de criteria hiervoor   zijn;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   de criteria die Kind en Gezin hanteert bij de beoordeling;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   de wijze waarop het budget effectief verdeeld wordt, waarbij rekening gehouden   wordt met het beschikbare aanbod en het aantal schoolgaande   kinderen.</P>
+<p>De subsidies, vermeld in artikel 19, 42, 49, 63 en 72, 2° en 3°, van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, worden verdeeld op basis van de programmatieregels, vastgesteld door de minister.</p>
+
+<p>De minister bepaalt per uitbreidingsronde :<br>
+1° het totaal te verdelen subsidiebudget;<br>
+2° hoeveel van het te verdelen subsidiebudget bestemd is voor welke subsidie;<br>
+3° hoeveel van het te verdelen subsidiebudget bestemd is voor gezinsopvang, groepsopvang en vakantieopvang;<br>
+4° of er een voorafname is voor bepaalde gebieden of in functie van specifieke situaties;<br>
+5° de criteria die Kind en Gezin hanteert bij de beoordeling;<br>
+6° de wijze waarop het budget effectief verdeeld wordt, waarbij rekening gehouden wordt met het beschikbare aanbod&nbsp;of het aantal schoolgaande kinderen.</p>
 
 ### ART. 57.
 
