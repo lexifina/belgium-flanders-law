@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029846,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-14 tot wijziging van het Procedurebesluit van 9 mei 2014 en het Procedurebesluit Buitenschoolse Opvang van 19 december 2014, wat betreft de programmatieregels en de procedure bij fusies van gemeenten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029846/VolledigDocument?datum=2018-03-29",
+  "source_sha256": "8cd744b46111c559914dcb257cd27ae4e80c6d79ec61514d2645c9bad65019fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029846&param=informatie",
+  "as_of": "2018-03-29",
+  "made": "2018-09-14",
+  "gazette": "2018-10-23",
+  "numac": 2018040735,
+  "document_start": "2018-11-02",
+  "document_end": null,
+  "in_force": "2018-03-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-03-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
