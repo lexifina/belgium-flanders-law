@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029132,
+  "title": "Besluit van de Vlaamse Regering van 2017-12-22 tot erkenning van de vzw Flanders Make als strategisch onderzoekscentrum",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029132/VolledigDocument?datum=2018-03-29",
+  "source_sha256": "87178da00ee8331a658d1048cb4bdae18a0e1c06241ad751f529f6403b8d94ba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029132&param=informatie",
+  "as_of": "2018-03-29",
+  "made": "2017-12-22",
+  "gazette": "2018-03-19",
+  "numac": 2018030626,
+  "document_start": "2018-03-29",
+  "document_end": null,
+  "in_force": "2018-03-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-03-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
