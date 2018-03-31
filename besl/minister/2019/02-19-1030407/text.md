@@ -135,4 +135,8 @@ In artikel 5 van het ministerieel besluit van 14 december 2016 houdende een opro
 
 ## HOOFDSTUK 18. Wijzigingen van het ministerieel besluit van 13 december 2017 houdende een oproep tot indiening van steunaanvragen als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 april 2015 betreffende steun voor innovaties in de landbouw
 
+### ART 56.
+
+In artikel 5 van het ministerieel besluit van 13 december 2017 houdende een oproep tot indiening van steunaanvragen als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 april 2015 betreffende steun voor innovaties in de landbouw wordt het woord "drie" vervangen door het woord "vier".
+
 ## HOOFDSTUK 19. Slotbepalingen
