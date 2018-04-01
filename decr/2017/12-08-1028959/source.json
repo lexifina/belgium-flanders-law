@@ -2,16 +2,16 @@
   "codex_id": 1028959,
   "title": "Decreet van 2017-12-08 tot wijziging van diverse bepalingen van het Bodemdecreet van 27 oktober 2006 en artikel 38 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, en tot opheffing van diverse bepalingen van het VLAREBO-besluit van 14 december 2007",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028959/VolledigDocument?datum=2018-02-12",
-  "source_sha256": "b9317fc02604ac8d33a4d99b8a15ce35c1a407fd48c9e80ecf5fb8118ca83f35",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028959/VolledigDocument?datum=2018-04-01",
+  "source_sha256": "d24a54412419f29deb1821cdf4e68d4d91562a4bc2bf898726626414f545e816",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028959&param=informatie",
-  "as_of": "2018-02-12",
+  "as_of": "2018-04-01",
   "made": "2017-12-08",
   "gazette": "2018-02-02",
   "numac": 2018030163,
   "document_start": "2018-02-12",
   "document_end": null,
-  "in_force": "2018-02-12",
-  "article_versions": 31,
-  "record_form": "consolidated version as in force on 2018-02-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-04-01",
+  "article_versions": 53,
+  "record_form": "consolidated version as in force on 2018-04-01; future article versions excluded; article text as the API gives it"
 }

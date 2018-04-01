@@ -53,11 +53,46 @@ De bodemsaneringsdeskundige geeft op verzoek van de OVAM het nodige gevolg aan h
 <br>
 De Vlaamse Regering kan nadere regels vaststellen over de uitvoering van de audit, het auditverslag, de corrigerende maatregelen en het plan van aanpak.".
 
+### ART 9.
+
+In artikel 11, eerste lid, van hetzelfde decreet, gewijzigd bij de decreten van 25 mei 2012 en 28 maart 2014, worden de woorden "beschrijvend bodemonderzoek of bodemsanering" vervangen door de woorden "beschrijvend bodemonderzoek en bodemsanering".
+
 ### ART 10.
 
 Aan artikel 22 van hetzelfde decreet, gewijzigd bij het decreet van 28 maart 2014, wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
 <br>
 "In afwijking van het eerste lid rust de verplichting tot bodemsanering van rechtswege op de persoon die door de OVAM is aangemaand om een beschrijvend bodemonderzoek uit te voeren als dat bodemonderzoek een ernstige historische bodemverontreiniging tot stand gekomen op de betreffende grond aantoont, met behoud van de toepassing van de vrijstellingsregeling, vermeld in artikel 23.".
+
+### ART 11.
+
+In artikel 28 van hetzelfde decreet, gewijzigd bij het decreet van 28 maart 2014, wordt paragraaf 2 vervangen door wat volgt:<br>
+<br>
+" § 2. Een oriënterend bodemonderzoek wordt uitgevoerd onder leiding van een bodemsaneringsdeskundige conform de standaardprocedure, vastgesteld door de Vlaamse Regering op voorstel van de OVAM. Een verslag van het oriënterend bodemonderzoek wordt opgemaakt en bij de OVAM ingediend door de bodemsaneringsdeskundige conform de voormelde standaardprocedure.<br>
+<br>
+Een bodemonderzoek dat niet is uitgevoerd conform de standaardprocedure, vermeld in het eerste lid, wordt niet beschouwd als een oriënterend bodemonderzoek.".
+
+### ART 12.
+
+In titel III, hoofdstuk IV, afdeling I, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 28 maart 2014, wordt het opschrift van onderafdeling Ibis vervangen door wat volgt:<br>
+<br>
+"Onderafdeling Ibis. - Beslissingen op basis van het oriënterend bodemonderzoek".
+
+### ART 13.
+
+Artikel 28bis van hetzelfde decreet, ingevoegd bij het decreet van 28 maart 2014, wordt opgeheven.
+
+### ART 14.
+
+Artikel 28ter van hetzelfde decreet, ingevoegd bij het decreet van 28 maart 2014, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 28ter. Binnen een termijn van zestig dagen na de ontvangst van het verslag van het oriënterend bodemonderzoek spreekt de OVAM zich uit over de aard van de bodemverontreiniging. Ze oordeelt ook of er duidelijke aanwijzingen zijn van een ernstige bodemverontreiniging of van een bodemverontreiniging die de bodemsaneringsnormen overschrijdt of dreigt te overschrijden.<br>
+<br>
+De OVAM brengt de opdrachtgever van het oriënterend bodemonderzoek op de hoogte van de beslissingen, vermeld in het eerste lid.<br>
+Alle belanghebbenden kunnen tegen de beslissingen van de OVAM, vermeld in het eerste lid, beroep indienen bij de Vlaamse Regering conform artikel 153 tot en met 155.".
+
+### ART 15.
+
+Artikel 28quater van hetzelfde decreet, ingevoegd bij het decreet van 28 maart 2014, wordt opgeheven.
 
 ### ART 16.
 
@@ -105,6 +140,88 @@ Alle belanghebbenden kunnen tegen de beslissing van de OVAM beroep indienen bij 
 ### ART 19.
 
 In artikel 33 van hetzelfde decreet wordt de zin "Deze verplichting geldt niet voor de exploitanten die voor het voldoen van de verplichting, vermeld in artikel 91, § 1, een beroep doen op een erkende bodemsaneringsorganisatie als vermeld in afdeling II van hoofdstuk VII." opgeheven.
+
+### ART 20.
+
+In artikel 38 van hetzelfde decreet wordt paragraaf 2 vervangen door wat volgt:<br>
+<br>
+" § 2. Een beschrijvend bodemonderzoek wordt uitgevoerd onder leiding van een bodemsaneringsdeskundige conform de standaardprocedure, vastgesteld door de Vlaamse Regering op voorstel van de OVAM. Een verslag van het beschrijvend bodemonderzoek wordt opgemaakt en bij de OVAM ingediend door de bodemsaneringsdeskundige conform de voormelde standaardprocedure.<br>
+<br>
+Een bodemonderzoek dat niet is uitgevoerd conform de standaardprocedure, vermeld in het eerste lid, wordt niet beschouwd als een beschrijvend bodemonderzoek.".
+
+### ART 21.
+
+In titel III, hoofdstuk IV, afdeling II, van hetzelfde decreet, gewijzigd bij de decreten van 28 maart 2014 en 18 december 2015, wordt het opschrift van onderafdeling II vervangen door wat volgt:<br>
+<br>
+"Onderafdeling II. Beslissingen op basis van het beschrijvend bodemonderzoek".
+
+### ART 22.
+
+Artikel 39 van hetzelfde decreet wordt opgeheven.
+
+### ART 23.
+
+In titel III, hoofdstuk IV, afdeling II, van hetzelfde decreet, gewijzigd bij de decreten van 28 maart 2014 en 18 december 2015, wordt het opschrift "Onderafdeling III. Aard en ernst van de bodemverontreiniging" opgeheven.
+
+### ART 24.
+
+Artikel 40 van hetzelfde decreet, gewijzigd bij het decreet van 28 maart 2014, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 40. Binnen een termijn van zestig dagen na de ontvangst van het verslag van het beschrijvend bodemonderzoek spreekt de OVAM zich uit over:<br>
+1° de aard van de bodemverontreiniging;<br>
+2° de aanwezigheid van een bodemverontreiniging die de bodemsaneringsnormen overschrijdt of van een ernstige bodemverontreiniging.<br>
+<br>
+De OVAM brengt de opdrachtgever van het beschrijvend bodemonderzoek op de hoogte van de beslissingen, vermeld in het eerste lid.<br>
+<br>
+Alle belanghebbenden kunnen tegen de beslissingen van de OVAM, vermeld in het eerste lid, beroep indienen bij de Vlaamse Regering conform artikel 153 tot en met 155.".
+
+### ART 25.
+
+In titel III, hoofdstuk IV, afdeling II, van hetzelfde decreet, gewijzigd bij de decreten van 28 maart 2014 en 18 december 2015, wordt het opschrift van onderafdeling IV vervangen door wat volgt:<br>
+<br>
+"Onderafdeling III. - Ambtshalve beschrijvend bodemonderzoek".
+
+### ART 26.
+
+In titel III, hoofdstuk IV, afdeling II, van hetzelfde decreet, gewijzigd bij de decreten van 28 maart 2014 en 18 december 2015, wordt onderafdeling V, die bestaat uit artikel 43, opgeheven.
+
+### ART 27.
+
+In titel III, hoofdstuk IV, afdeling III, van hetzelfde decreet wordt het opschrift "Onderafdeling I. Verslag van het oriënterend en beschrijvend bodemonderzoek" opgeheven.
+
+### ART 28.
+
+Artikel 44 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 44. Het beschrijvend bodemonderzoek kan gelijktijdig of onmiddellijk na het oriënterend bodemonderzoek worden uitgevoerd. In dat geval worden de resultaten van beide onderzoeken in een verslag bij de OVAM ingediend, onder de benaming `Verslag van oriënterend en beschrijvend bodemonderzoek'.<br>
+<br>
+Een oriënterend en beschrijvend bodemonderzoek wordt uitgevoerd onder leiding van een bodemsaneringsdeskundige conform de standaardprocedure, vastgesteld door de Vlaamse Regering op voorstel van de OVAM. Een verslag van oriënterend en beschrijvend bodemonderzoek wordt opgemaakt en bij de OVAM ingediend door de bodemsaneringsdeskundige conform de voormelde standaardprocedure.<br>
+<br>
+Een bodemonderzoek dat niet is uitgevoerd conform de standaardprocedure vermeld in het tweede lid, wordt niet beschouwd als een oriënterend en beschrijvend bodemonderzoek.<br>
+<br>
+Artikel 40 is van overeenkomstige toepassing op de beslissingen over het oriënterend en beschrijvend bodemonderzoek.".
+
+### ART 29.
+
+In titel III, hoofdstuk IV, afdeling III, van hetzelfde decreet wordt onderafdeling II, die bestaat uit artikel 45 en 46, opgeheven.
+
+### ART 30.
+
+Aan titel III, hoofdstuk IV, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 december 2015, wordt een afdeling IV toegevoegd, die luidt als volgt:<br>
+<br>
+"Afdeling IV. - Beoordeling van de conformiteit van bodemonderzoeken".
+
+### ART 31.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 december 2015, wordt aan afdeling IV, toegevoegd bij artikel 30, een artikel 46bis toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 46bis. Binnen een termijn van zestig dagen na de ontvangst van het verslag van een oriënterend bodemonderzoek, een beschrijvend bodemonderzoek, een oriënterend en beschrijvend bodemonderzoek of siteonderzoek kan de OVAM beoordelen of het betreffende bodemonderzoek conform de overeenstemmende standaardprocedure is uitgevoerd. Als de OVAM de conformiteit van het bodemonderzoek beoordeelt, brengt ze de opdrachtgever van het bodemonderzoek op de hoogte van haar beslissing binnen de voormelde termijn van zestig dagen.<br>
+<br>
+Alle belanghebbenden kunnen tegen de beslissing van de OVAM, vermeld in het eerste lid, beroep indienen bij de Vlaamse Regering conform artikel 153 tot en met 155.".
+
+### ART 32.
+
+In artikel 47, § 3, van hetzelfde decreet, gewijzigd bij het decreet van 28 maart 2014, wordt het woord "conformverklaard" opgeheven.
 
 ### ART 33.
 
@@ -181,6 +298,30 @@ In artikel 115, eerste lid, van hetzelfde decreet, gewijzigd bij de decreten van
 ### ART 44.
 
 In titel III van hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2016, worden in het opschrift van hoofdstuk XI de woorden "en vereffening" opgeheven.
+
+### ART 51.
+
+In artikel 142 van hetzelfde decreet, vervangen bij het decreet van 28 maart 2014, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° aan het tweede lid wordt de volgende zin toegevoegd:<br>
+"Een verslag van siteonderzoek wordt opgemaakt en bij de OVAM ingediend door de bodemsaneringsdeskundige conform de voormelde standaard-procedure.";<br>
+<br>
+2° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"Een siteonderzoek dat niet is uitgevoerd conform de standaardprocedure, vermeld in het tweede lid, wordt niet beschouwd als een siteonderzoek.".
+
+### ART 52.
+
+In titel III, hoofdstuk XIV, afdeling II, van hetzelfde decreet, gewijzigd bij het decreet van 28 maart 2014, wordt het opschrift van onderafdeling III vervangen door wat volgt:<br>
+<br>
+"Onderafdeling III. - Beslissingen op basis van het siteonderzoek".
+
+### ART 53.
+
+In artikel 143 van hetzelfde decreet, vervangen bij het decreet van 28 maart 2014, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° het eerste lid wordt opgeheven;<br>
+<br>
+2° in het tweede lid wordt de zinsnede "43 en 45, § 2," vervangen door het getal "40".
 
 ### ART 54.
 
