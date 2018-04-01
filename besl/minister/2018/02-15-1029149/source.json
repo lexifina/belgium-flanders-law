@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029149,
+  "title": "Ministerieel besluit van 2018-02-15 houdende vaststelling van de maatregelen en de modaliteiten tot uitvoering van het natuurinrichtingsproject Torfbroek en de toekenning van de ontheffing van verbodsbepalingen die gelden in het Vlaams Ecologisch Netwerk",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029149/VolledigDocument?datum=2018-04-01",
+  "source_sha256": "67792ac35f025c037c8e88a7895f515e238e37bb111514e0afbd393ede5fec78",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029149&param=informatie",
+  "as_of": "2018-04-01",
+  "made": "2018-02-15",
+  "gazette": "2018-03-22",
+  "numac": 2018011305,
+  "document_start": "2018-04-01",
+  "document_end": null,
+  "in_force": "2018-04-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2018-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
