@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029471,
+  "title": "Decreet van 2018-06-08 tot wijziging van artikel 3 van het decreet van 17 december 1997 betreffende de rustpensioenen toegekend aan de vastbenoemde en tot de stage toegelaten personeelsleden van de Vlaamse Maatschappij voor Watervoorziening en betreffende de overlevingspensioenen toegekend aan de rechtverkrijgenden van die personeelsleden (1)",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029471/VolledigDocument?datum=2018-04-01",
+  "source_sha256": "35f017d25f0d2cd3a0661b9b1f4655087b9e0970e54f8c7decf95beb87453541",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029471&param=informatie",
+  "as_of": "2018-04-01",
+  "made": "2018-06-08",
+  "gazette": "2018-06-28",
+  "numac": 2018012791,
+  "document_start": "2018-04-01",
+  "document_end": null,
+  "in_force": "2018-04-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
