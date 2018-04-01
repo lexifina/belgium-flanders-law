@@ -260,6 +260,28 @@ De attesten A en B van medische geschiktheid, vermeld in artikel 40, § 2, eerst
 
 ## [HOOFDSTUK 5/1 Pedagogische norm (verv. MB 16 november 2023, art. 8, I: 1 januari 2024)]
 
+### ART 20/1.
+
+De norm voor pedagogische kwaliteit, vermeld in artikel 31, § 3, van het Vergunningsbesluit van 22 november 2013, bestaat uit een score op al de volgende dimensies van pedagogische kwaliteit:<br>
+1° het welbevinden van het kind;<br>
+2° de betrokkenheid van het kind;<br>
+3° de emotionele ondersteuning van het kind door de kinderbegeleider;<br>
+4° de educatieve ondersteuning van het kind door de kinderbegeleider;<br>
+5° de omgeving;<br>
+6° gezinnen en diversiteit.<br>
+<br>
+Onder de dimensie omgeving, vermeld in het eerste lid, 5°, wordt verstaan: een toegankelijke en stimulerende indeling van de opvangruimtes voor de kinderen met een gevarieerd aanbod aan materialen en activiteiten en een doeltreffende organisatie van tijd en personeel voor de kinderen zoals regelmaat in de dagindeling en continuïteit in de begeleiding.<br>
+<br>
+Onder de dimensie gezinnen en diversiteit, vermeld in het eerste lid, 6°, wordt verstaan: het samenwerken en communiceren met gezinnen, inspraak geven aan en ondersteunen van gezinnen met respect voor de eigenheid van elk gezin.<br>
+<br>
+De organisator krijgt voor elke dimensie een score 1, 2, 3 of 4 op basis van de volgende schaal:<br>
+1° een score 1 staat voor onvoldoende;<br>
+2° een score 2 staat voor nipt voldoende;<br>
+3° een score 3 staat voor goed;<br>
+4° een score 4 staat voor uitstekend.<br>
+<br>
+De organisator moet voor elke dimensie een score van minstens 2 behalen. Als een organisator op een dimensie een score 2 behaalt, dan levert hij een inspanning om minstens een score 3 te behalen.
+
 ## HOOFDSTUK 6 Slotbepaling
 
 ### ART 21.
