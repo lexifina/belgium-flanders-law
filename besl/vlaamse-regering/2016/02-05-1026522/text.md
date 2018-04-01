@@ -26,7 +26,18 @@
 
 ### ART. 1.
 
-Voor   de toepassing van dit besluit wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   minister: de minister, bevoegd voor het dierenwelzijn;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   verantwoordelijke: de natuurlijke persoon, eigenaar of houder van een kat, die   er gewoonlijk een onmiddellijk beheer of toezicht op uitoefent;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   asiel: een dierenasiel, erkend overeenkomstig de bepalingen van het koninklijk   besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor   dieren en de voorwaarden inzake de verhandeling van dieren;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   erkende kwekerij: een kattenkwekerij, erkend overeenkomstig de bepalingen van   het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor   inrichtingen voor dieren en de voorwaarden inzake de verhandeling van   dieren;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   verhandelen: het in de handel brengen, te koop aanbieden, tentoonstellen met het   oog op verkoop, ruilen, verkopen, of ten kosteloze of bezwarende titel   afstaan.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° minister: de minister, bevoegd voor het dierenwelzijn;<br>
+2° verantwoordelijke: de natuurlijke persoon, eigenaar of houder van een kat, die er gewoonlijk een onmiddellijk beheer of toezicht op uitoefent;<br>
+3° asiel: een dierenasiel, erkend overeenkomstig de bepalingen van het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor dieren en de voorwaarden inzake de verhandeling van dieren;<br>
+4° erkende kwekerij: een kattenkwekerij, erkend overeenkomstig de bepalingen van het koninklijk besluit van 27 april 2007 houdende erkenningsvoorwaarden voor inrichtingen voor dieren en de voorwaarden inzake de verhandeling van dieren;<br>
+5° verhandelen: het in de handel brengen, te koop aanbieden, tentoonstellen met het oog op verkoop, ruilen, verkopen, of ten kosteloze of bezwarende titel afstaan;<br>
+6° sterilisatie :<br>
+a) voor katers : de castratie;<br>
+b) voor kattinnen : de ovariëctomie of de ovariohysterectomie;<br>
+7° identificatie : een individueel, onuitwisbaar en uniek merkteken aanbrengen;<br>
+8° databank : de elektronische gegevensbank, vermeld in artikel 21;<br>
+9° zwerfkatten : zwervende katten die geen verantwoordelijke hebben en die voornamelijk op openbare plaatsen of in leegstaande gebouwen leven.
 
 ### ART. 2.
 
@@ -108,7 +119,9 @@ Na   identificatie van de kat:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0p
 
 ### ART. 19.
 
-<P>Als   de kat verloren, gestolen of dood is, voert de verantwoordelijke of de   dierenarts dat gegeven in de databank in en bevestigt de verantwoordelijke of de   dierenarts de juistheid van dat gegeven door middel van zijn elektronische   identiteitskaart.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   geval van export van de kat naar het buitenland voert de verantwoordelijke of de   dierenarts dat gegeven in de databank in en bevestigt de juistheid van de   gegevens door middel van zijn elektronische identiteitskaart.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Na   sterilisatie van de kat, voert de dierenarts dit gegeven binnen de 24 uur in in   de databank en bevestigt hij de juistheid van dat gegeven door middel van zijn   elektronische identiteitskaart.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Als de kat verloren, gestolen of dood is, voert de verantwoordelijke of de dierenarts dat gegeven in de databank in en bevestigt de verantwoordelijke of de dierenarts de juistheid van dat gegeven door middel van zijn elektronische identiteitskaart.</p>
+
+<p>In geval van export van de kat naar het buitenland voert de verantwoordelijke of de dierenarts dat gegeven in de databank in en bevestigt de juistheid van de gegevens door middel van zijn elektronische identiteitskaart.</p>
 
 ## HOOFDSTUK 5 Opvang van katten in asielen
 
@@ -118,7 +131,59 @@ Na   identificatie van de kat:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0p
 
 ## [HOOFDSTUK 5/1 Sterilisatie van katten (ing. BVR 23 februari 2018, art. 4, I: 1 april 2018)]
 
+### ART 20/1.
+
+De verantwoordelijke laat zijn kat steriliseren vóór de leeftijd van vijf maanden als deze na 31 maart 2018 geboren is. Katten die voor die datum en na 31 augustus 2014 geboren zijn, worden uiterlijk op 1 januari 2020 gesteriliseerd.<br>
+<br>
+Het eerste lid geldt niet voor erkende kwekers en asielen.
+
+### ART 20/2.
+
+Niet-gesteriliseerde katten worden niet verhandeld, tenzij ze bestemd zijn voor een erkende kweker, voor een asiel of voor iemand die in het buitenland of in een ander gewest verblijft.
+
+### ART 20/3.
+
+In de asielen worden alle katten gesteriliseerd vóór de adoptie.
+
+### ART 20/4.
+
+Katten die afkomstig zijn uit het buitenland of uit een ander gewest en die niet bestemd zijn voor een erkende kweker, worden gesteriliseerd vóór de leeftijd van vijf maanden.<br>
+<br>
+Als de katten, vermeld in het eerste lid, de leeftijd van vijf maanden al overschreden hebben op het moment van hun aankomst op het grondgebied van het Vlaamse Gewest, worden ze uiterlijk dertig dagen na hun aankomst gesteriliseerd.
+
+### ART 20/5.
+
+Een dierenarts voert de sterilisatie uit. De dierenarts registreert binnen acht dagen de sterilisatie in de databank. Als de kat nog niet geïdentificeerd en geregistreerd is conform hoofdstuk 3, wordt de kat geïdentificeerd en geregistreerd op het moment dat de sterilisatie geregistreerd wordt.
+
+### ART 20/6.
+
+Het bewijs van de sterilisatie van katten wordt afgeleverd in digitale vorm.
+
 ## [HOOFDSTUK 5/2 Bestrijding van overlast door zwerfkatten (ing. BVR 23 februari 2018, art. 5, I: 1 april 2018)]
+
+### ART 20/7.
+
+De gemeente richt een meldpunt op waar inwoners overlast door zwerfkatten kunnen melden.
+
+### ART 20/8.
+
+De gemeente stelt een plan op voor de bestrijding van overlast door zwerfkatten en voert dit uit. Zij maakt hierbij gebruik van de meest diervriendelijke methoden.
+
+### ART 20/9.
+
+Wanneer zwerfkatten opnieuw worden vrijgelaten, zorgt de gemeente ervoor dat de dieren gecontroleerd gevoederd worden en voldoende beschutting hebben, desgevallend in samenspraak met de omwonenden.
+
+### ART 20/10.
+
+Wanneer een actie voor het vangen van zwerfkatten gepland wordt, verwittigt de gemeente de inwoners die in de omgeving van de vangplaats of vangplaatsen wonen.<br>
+<br>
+Bij de gevangen katten wordt nagegaan of ze een microchip of een ander merkteken dragen. Wanneer ze een microchip of een ander merkteken dragen, worden de dieren vrijgelaten.<br>
+<br>
+Voor de gevangen katten die geen microchip of ander merkteken dragen, wordt de procedure voorzien in het plan, vermeld in artikel 20/8, gevolgd. Zwerfkatten die opnieuw worden vrijgelaten, worden geïdentificeerd met een microchip of een uitwendig merkteken.
+
+### ART 20/11.
+
+De gemeente kan voor het uitvoeren van alle of een deel van de bepalingen van dit hoofdstuk een overeenkomst afsluiten met een asiel of een andere organisatie.
 
 ## HOOFDSTUK 6 De databank
 
@@ -132,7 +197,12 @@ De   volgende personen hebben toegang tot de gegevens in de databank:<BR   style
 
 ### ART. 23.
 
-&nbsp;Het beheer van de databank   omvat:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de ontwikkeling en het onderhoud van de databank;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de beveiliging van de toegang tot de databank;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   het verzekeren van het verband tussen de gegevens van de kat en de   verantwoordelijke van die kat;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   het afleveren van een digitaal bewijs van registratie als vermeld in artikel   7.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+&nbsp;Het beheer van de databank omvat:<br>
+1° de ontwikkeling en het onderhoud van de databank;<br>
+2° de beveiliging van de toegang tot de databank;<br>
+3° het verzekeren van het verband tussen de gegevens van de kat en de verantwoordelijke van die kat;<br>
+4° het afleveren van een digitaal bewijs van registratie als vermeld in artikel 7;<br>
+5° het afleveren van een digitaal bewijs van sterilisatie als vermeld in artikel 20/6.
 
 ### ART. 24.
 
