@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029002,
+  "title": "Besluit van de Vlaamse Regering van 2018-01-12 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft het topkader en een maatregel voor het middenkader",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029002/VolledigDocument?datum=2018-04-01",
+  "source_sha256": "fc36320c8fd09edb094073b9a08cdc6d554474807dc5ca593c67d45f9646278e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029002&param=informatie",
+  "as_of": "2018-04-01",
+  "made": "2018-01-12",
+  "gazette": "2018-02-12",
+  "numac": 2018030304,
+  "document_start": "2018-04-01",
+  "document_end": null,
+  "in_force": "2018-04-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2018-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
