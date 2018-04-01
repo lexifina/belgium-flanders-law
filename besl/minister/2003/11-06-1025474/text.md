@@ -203,13 +203,13 @@ In de inrichtingen die niet onder de toepassing vallen van artikel 12 of   [arti
 § 1. Het bedrag per dag en per rechthebbende zoals bedoeld in artikel 17 wordt aangepast indien in de inrichting, tijdens de referentieperiode of tijdens de periode die zich situeert tussen de referentie- en de factureringsperiode, een wijziging van de erkende bedden plaatsvindt.<br>
 <br>
 Het bedrag van de aanpassing is gelijk aan :<br>
-[(aantal RVT-bedden na aanpassing/totaal aantal bedden na aanpassing) - (aantal RVT-bedden voor aanpassing / totaal aantal bedden voor aanpassing)] x [19,43 euro&nbsp; (verv. MB 16 mei 2013, art. 1, I: 1 juli 2013)] x [(aantal dagen tussen de begindatum van de referentieperiode en de datum van de aanpassing met een maximum van het aantal kalenderdagen in de factureringsperiode) / aantal dagen in de factureringsperiode] +<br>
+[(aantal RVT-bedden na aanpassing/totaal aantal bedden na aanpassing) - (aantal RVT-bedden voor aanpassing / totaal aantal bedden voor aanpassing)] x 15,08 euro&nbsp;&nbsp;x [(aantal dagen tussen de begindatum van de referentieperiode en de datum van de aanpassing met een maximum van het aantal kalenderdagen in de factureringsperiode) / aantal dagen in de factureringsperiode] +<br>
 [(aantal bedden kortverblijf na aanpassing/totaal aantal bedden na aanpassing) - (aantal bedden kortverblijf voor aanpassing / totaal aantal bedden voor aanpassing)] x 5,05 euro x [(aantal dagen tussen de begindatum van de referentieperiode en de datum van de aanpassing met een maximum van het aantal kalenderdagen in de factureringsperiode) / aantal dagen in de factureringsperiode].<br>
 <br>
 § 2. Het bedrag per dag en per rechthebbende zoals bedoeld in artikel 17 wordt aangepast indien tijdens de factureringsperiode een wijziging van de erkende bedden plaatsvindt. Deze aanpassing gebeurt van zodra deze wijziging plaatsvindt.<br>
 <br>
 Het bedrag van de aanpassing is gelijk aan :<br>
-[(aantal RVT-bedden na aanpassing/totaal aantal bedden na aanpassing) - (aantal RVT-bedden voor aanpassing / totaal aantal bedden voor aanpassing)] x [19,43 euro&nbsp; (verv. MB 16 mei 2013, art. 1, I: 1 juli 2013)] +<br>
+[(aantal RVT-bedden na aanpassing/totaal aantal bedden na aanpassing) - (aantal RVT-bedden voor aanpassing / totaal aantal bedden voor aanpassing)] x 15,08 euro&nbsp; +<br>
 [(aantal bedden kortverblijf na aanpassing / totaal aantal bedden na aanpassing) - (aantal bedden kortverblijf voor aanpassing / totaal aantal bedden voor aanpassing)] x 5,05 euro.<br>
 <br>
 § 3. Om het bedrag per dag en per rechthebbende zoals bedoeld in artikel&nbsp;6&nbsp;te berekenen in de inrichtingen die uit een overname, een fusie, een splitsing of een exploitatietransfer op een andere locatie ontstaan zijn, doet de Dienst :<br>
