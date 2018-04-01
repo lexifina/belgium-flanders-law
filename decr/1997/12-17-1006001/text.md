@@ -14,7 +14,13 @@ De Vlaamse Maatschappij voor Watervoorziening verleent een rustpensioen aan haar
 
 ### ART. 3.
 
-De in artikel 2 bedoelde pensioenen worden toegekend onder de voorwaarden en op de wijze bepaald in de pensioenregeling die van toepassing is en zal zijn op de ambtenaren van het federale bestuur van de Staat, behoudens de afwijkingen opgenomen in dit decreet.
+De in artikel 2 bedoelde pensioenen worden toegekend onder de voorwaarden en op de wijze bepaald in de pensioenregeling die van toepassing is en zal zijn op de ambtenaren van het federale bestuur van de Staat, behoudens de afwijkingen opgenomen in dit decreet.<br>
+<br>
+In afwijking van het eerste lid worden de pensioenen van de vastbenoemde en tot de stage toegelaten personeelsleden, vermeld in artikel 2, die op 1 april 2018 overkomen van Vivaqua, en de pensioenen van hun rechtverkrijgenden, toegekend onder de voorwaarden en op de wijze die is bepaald in de pensioenregeling zoals die op 31 maart 2018 bij Vivaqua van toepassing was op die personeelsleden en hun rechtverkrijgenden. Artikel 3/1 en 4 zijn op hen niet van toepassing.<br>
+<br>
+De personeelsleden, vermeld in het tweede lid, die na de overdracht afstand hebben gedaan van hun uitdovende overgangskader conform de rechtspositieregeling van de Vlaamse Maatschappij voor Watervoorziening, zullen vanaf die datum ook geacht worden afstand te hebben gedaan van de afwijkende regeling, vermeld in het tweede lid. Vanaf die datum genieten het personeelslid, vermeld in het tweede lid, en zijn rechtverkrijgenden, de pensioenregeling, vermeld in het eerste lid.<br>
+<br>
+De personeelsleden, vermeld in het tweede lid, die na de overdracht worden bevorderd of gemuteerd op eigen verzoek conform de rechtspositieregeling van de Vlaamse Maatschappij voor Watervoorziening, zullen vanaf de datum van de bevordering of de mutatie automatisch en van rechtswege overgaan van de afwijkende regeling, vermeld in het tweede lid, naar de pensioenregeling, vermeld in het eerste lid.
 
 ### ART. 3/1.
 
