@@ -152,7 +152,13 @@ De Vlaamse Regering kan nadere regels vaststellen over de uitvoering van de audi
 
 ### ART. 11.
 
-De verplichting om in de gevallen, vermeld in artikel 9, met betrekking   tot de verontreinigde gronden een beschrijvend bodemonderzoek of bodemsanering   uit te voeren, rust op de volgende personen :<BR>1° als op de grond waar de   bodemverontreiniging tot stand is gekomen, een inrichting of activiteit   gevestigd is die vergunnings- of meldingsplichtig is krachtens titel V van het   decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid: de   exploitant, vermeld in titel V;<BR>2° bij gebrek aan een exploitant, of als de   exploitant werd vrijgesteld van de verplichting op grond van artikel 12, § 1 :   de gebruiker van de grond waar de bodemverontreiniging tot stand kwam. Als de   exploitant vrijgesteld is van de saneringsplicht voor een deel van de   bodemverontreiniging, rust de saneringsplicht van de gebruiker op dat deel van   de bodemverontreiniging;<BR>3° bij gebrek aan een exploitant en gebruiker, of   als de exploitant en gebruiker werden vrijgesteld van de verplichting op grond   van artikel 12, § 1 : de eigenaar van de grond waar de bodemverontreiniging tot   stand kwam. Als de exploitant en de gebruiker vrijgesteld zijn van de   saneringsplicht voor een deel van de bodemverontreiniging, rust de   saneringsplicht van de eigenaar op dat deel van de   bodemverontreiniging.<BR><BR>Als de zelfstandige saneringsplicht, vermeld in   artikel 9, niet onverwijld wordt uitgevoerd, kan de OVAM de saneringsplichtige,   vermeld in het eerste lid, wijzen op zijn zelfstandige saneringsplicht en   hierbij de termijn bepalen waarbinnen het beschrijvend bodemonderzoek of de   bodemsanering wordt uitgevoerd. Alle belanghebbenden kunnen tegen deze   beslissing van de OVAM een beroep indienen bij de Vlaamse Regering   overeenkomstig de bepalingen van artikel 153 tot en met   155.<BR><BR>
+De verplichting om in de gevallen, vermeld in artikel 9, met betrekking tot de verontreinigde gronden een&nbsp;beschrijvend bodemonderzoek en bodemsanering uit te voeren, rust op de volgende personen :<br>
+1° als op de grond waar de bodemverontreiniging tot stand is gekomen, een inrichting of activiteit gevestigd is die vergunnings- of meldingsplichtig is krachtens titel V van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid: de exploitant, vermeld in titel V;<br>
+2° bij gebrek aan een exploitant, of als de exploitant werd vrijgesteld van de verplichting op grond van artikel 12, § 1 : de gebruiker van de grond waar de bodemverontreiniging tot stand kwam. Als de exploitant vrijgesteld is van de saneringsplicht voor een deel van de bodemverontreiniging, rust de saneringsplicht van de gebruiker op dat deel van de bodemverontreiniging;<br>
+3° bij gebrek aan een exploitant en gebruiker, of als de exploitant en gebruiker werden vrijgesteld van de verplichting op grond van artikel 12, § 1 : de eigenaar van de grond waar de bodemverontreiniging tot stand kwam. Als de exploitant en de gebruiker vrijgesteld zijn van de saneringsplicht voor een deel van de bodemverontreiniging, rust de saneringsplicht van de eigenaar op dat deel van de bodemverontreiniging.<br>
+<br>
+Als de zelfstandige saneringsplicht, vermeld in artikel 9, niet onverwijld wordt uitgevoerd, kan de OVAM de saneringsplichtige, vermeld in het eerste lid, wijzen op zijn zelfstandige saneringsplicht en hierbij de termijn bepalen waarbinnen het beschrijvend bodemonderzoek of de bodemsanering wordt uitgevoerd. Alle belanghebbenden kunnen tegen deze beslissing van de OVAM een beroep indienen bij de Vlaamse Regering overeenkomstig de bepalingen van artikel 153 tot en met 155.<br>
+&nbsp;
 
 ## B. Vrijstelling van de saneringsplicht
 
@@ -291,21 +297,30 @@ Alle belanghebbenden kunnen tegen de beslissingen van de OVAM, vermeld in   arti
 
 ### ART. 28.
 
-§ 1. Een oriënterend bodemonderzoek heeft tot doel uit te maken of er   duidelijke aanwijzingen zijn voor de aanwezigheid van bodemverontreiniging.   <BR><BR>§ 2. Een oriënterend bodemonderzoek wordt uitgevoerd onder leiding van   een bodemsaneringsdeskun-dige conform de standaardprocedure, vastgesteld door de   Vlaamse Regering op voorstel van de OVAM. Bij gebrek aan dergelijke   standaardprocedure wordt het oriënterend bodemonderzoek uitgevoerd volgens een   code van goede praktijk.<BR><BR>De resultaten van het oriënterend bodemonderzoek   worden aan de OVAM meegedeeld binnen dertig dagen na het afsluiten   ervan.<BR><BR>§ 3. ...<BR><BR>§ 4....<BR><BR>
+§ 1. Een oriënterend bodemonderzoek heeft tot doel uit te maken of er duidelijke aanwijzingen zijn voor de aanwezigheid van bodemverontreiniging.<br>
+<br>
+§ 2. Een oriënterend bodemonderzoek wordt uitgevoerd onder leiding van een bodemsaneringsdeskundige conform de standaardprocedure, vastgesteld door de Vlaamse Regering op voorstel van de OVAM. Een verslag van het oriënterend bodemonderzoek wordt opgemaakt en bij de OVAM ingediend door de bodemsaneringsdeskundige conform de voormelde standaardprocedure.<br>
+<br>
+Een bodemonderzoek dat niet is uitgevoerd conform de standaardprocedure, vermeld in het eerste lid, wordt niet beschouwd als een oriënterend bodemonderzoek<br>
+&nbsp;
 
 ## [Onderafdeling Ibis Beslissingen op basis van het oriënterend bodemonderzoek (verv. decr. 8 december 2017, art. 12, I: 1 april 2018)]
 
 ### ART. 28bis.
 
-Binnen een termijn van zestig dagen na de ontvangst van het verslag van   het oriënterend bodemonderzoek spreekt de OVAM zich uit over de conformiteit van   het bodemonderzoek met de bepalingen van deze afdeling. De OVAM verklaart het   bodemonderzoek conform of legt aanvullende onderzoeksverrichtingen op. De OVAM   stelt de opdrachtgever van het bodemonderzoek in kennis van die   beslissing.<BR><BR>Als de OVAM aanvullende onderzoeksverrichtingen oplegt, kan   ze een termijn bepalen waarin de aanvullende onderzoeksverrichtingen worden   uitgevoerd en het verslag ervan bij haar wordt ingediend. Het uitgevoerde   bodemonderzoek wordt dan niet beschouwd als een oriënterend bodemonderzoek tot   op het ogenblik dat de OVAM het bodemonderzoek conform heeft   verklaard.
+...
 
 ### ART. 28ter.
 
-Op het moment van de conformverklaring van het oriënterend bodemonderzoek   spreekt de OVAM zich uit over de aard van de bodemverontreiniging. Ze oordeelt   ook of er duidelijke aanwijzingen zijn van een ernstige bodemverontreiniging of   van een bodemverontreiniging die de bodemsaneringsnormen overschrijdt of dreigt   te overschrijden.
+Binnen een termijn van zestig dagen na de ontvangst van het verslag van het oriënterend bodemonderzoek spreekt de OVAM zich uit over de aard van de bodemverontreiniging. Ze oordeelt ook of er duidelijke aanwijzingen zijn van een ernstige bodemverontreiniging of van een bodemverontreiniging die de bodemsaneringsnormen overschrijdt of dreigt te overschrijden.<br>
+<br>
+De OVAM brengt de opdrachtgever van het oriënterend bodemonderzoek op de hoogte van de beslissingen, vermeld in het eerste lid.<br>
+<br>
+Alle belanghebbenden kunnen tegen de beslissingen van de OVAM, vermeld in het eerste lid, beroep indienen bij de Vlaamse Regering conform artikel 153 tot en met 155.
 
 ### ART. 28quater.
 
-Alle belanghebbenden kunnen tegen de beslissing van de OVAM, vermeld in   artikel 28bis en 28ter, beroep indienen bij de Vlaamse Regering conform artikel   153 tot en met 155.
+...
 
 ## Onderafdeling II Verplichting om een oriënterend bodemonderzoek uit te voeren
 
@@ -405,17 +420,32 @@ Met behoud van de bevoegdheden van de toezichthoudende ambtenaren krachtens ande
 
 ### ART. 38.
 
-§ 1. Een beschrijvend bodemonderzoek wordt uitgevoerd om de ernst van de bodemverontreiniging vast te stellen. Het beoogt een beschrijving te geven van de soort, de aard, de hoeveelheid, de concentratie, de oorsprong en de omvang van de verontreinigende stoffen of organismen, de mogelijkheid op verspreiding ervan en het gevaar op blootstelling eraan van mensen, planten en dieren en van het grond- en oppervlaktewater.<br /><br />Daarnaast kunnen in een beschrijvend bodemonderzoek gegevens worden opgenomen met betrekking tot de inschatting van het gevaar op blootstelling aan de bodemverontreiniging van mensen, planten en dieren en van het grond- en oppervlaktewater bij een potentieel andere bestemming.<br /><br />§ 2. Een beschrijvend bodemonderzoek wordt uitgevoerd onder leiding van een bodemsaneringsdes-kundige conform de standaardprocedure, vastgesteld door de Vlaamse Regering op voorstel van de OVAM. Bij gebrek aan dergelijke standaardprocedure wordt het beschrijvend bodemonderzoek uitgevoerd volgens een code van goede praktijk.<br /><br />§ 3. Een beschrijvend bodemonderzoek kan gefaseerd worden uitgevoerd in de gevallen en overeenkomstig de voorwaarden die worden bepaald in de standaardprocedure, vermeld in § 2.<br /><br />
+§ 1. Een beschrijvend bodemonderzoek wordt uitgevoerd om de ernst van de bodemverontreiniging vast te stellen. Het beoogt een beschrijving te geven van de soort, de aard, de hoeveelheid, de concentratie, de oorsprong en de omvang van de verontreinigende stoffen of organismen, de mogelijkheid op verspreiding ervan en het gevaar op blootstelling eraan van mensen, planten en dieren en van het grond- en oppervlaktewater.<br>
+<br>
+Daarnaast kunnen in een beschrijvend bodemonderzoek gegevens worden opgenomen met betrekking tot de inschatting van het gevaar op blootstelling aan de bodemverontreiniging van mensen, planten en dieren en van het grond- en oppervlaktewater bij een potentieel andere bestemming.<br>
+<br>
+§ 2. Een beschrijvend bodemonderzoek wordt uitgevoerd onder leiding van een bodemsaneringsdeskundige conform de standaardprocedure, vastgesteld door de Vlaamse Regering op voorstel van de OVAM. Een verslag van het beschrijvend bodemonderzoek wordt opgemaakt en bij de OVAM ingediend door de bodemsaneringsdeskundige conform de voormelde standaardprocedure.<br>
+<br>
+Een bodemonderzoek dat niet is uitgevoerd conform de standaardprocedure, vermeld in het eerste lid, wordt niet beschouwd als een beschrijvend bodemonderzoek.<br>
+<br>
+§ 3. Een beschrijvend bodemonderzoek kan gefaseerd worden uitgevoerd in de gevallen en overeenkomstig de voorwaarden die worden bepaald in de standaardprocedure, vermeld in § 2.<br>
+&nbsp;
 
 ## [Onderafdeling II Beslissingen op basis van het beschrijvend bodemonderzoek (verv. decr. 8 december 2017, art. 21, I: 1 april 2018)]
 
 ### ART. 39.
 
-§ 1. Binnen een termijn van zestig dagen na ontvangst van het verslag van het beschrijvend bodemonderzoek spreekt de OVAM zich uit over de conformiteit van het onderzoek met de bepalingen van deze afdeling. De OVAM legt aanvullende onderzoeksverrichtingen op of levert een conformiteitsattest af.<br /><br />§ 2. De Vlaamse Regering stelt nadere regelen vast betreffende de kennisgeving en de conformverklaring van het beschrijvend bodemonderzoek en de inhoud van het conformiteitsattest.<br /><br />
+...
 
 ### ART. 40.
 
-Op het moment van de conformverklaring van het beschrijvend bodemonderzoek   spreekt de OVAM zich tevens uit over :<BR>1° de aard van de   bodemverontreiniging;<BR>2° de aanwezigheid van een bodemverontreiniging die de   bodemsaneringsnormen overschrijdt of van een ernstige   bodemverontreiniging.<BR><BR>
+Binnen een termijn van zestig dagen na de ontvangst van het verslag van het beschrijvend bodemonderzoek spreekt de OVAM zich uit over:<br>
+1° de aard van de bodemverontreiniging;<br>
+2° de aanwezigheid van een bodemverontreiniging die de bodemsaneringsnormen overschrijdt of van een ernstige bodemverontreiniging.<br>
+<br>
+De OVAM brengt de opdrachtgever van het beschrijvend bodemonderzoek op de hoogte van de beslissingen, vermeld in het eerste lid.<br>
+<br>
+Alle belanghebbenden kunnen tegen de beslissingen van de OVAM, vermeld in het eerste lid, beroep indienen bij de Vlaamse Regering conform artikel 153 tot en met 155.
 
 ### ART. 41.
 
@@ -433,7 +463,7 @@ Met behoud van de bevoegdheden van de toezichthoudende ambtenaren krachtens ande
 
 ### ART. 43.
 
-Alle belanghebbenden kunnen tegen de beslissingen van de OVAM, vermeld in   artikel 39&nbsp;en 40, beroep indienen bij de Vlaamse Regering overeenkomstig de   bepalingen van artikel 153 tot en met 155.<BR><BR>
+...
 
 ## Afdeling III Oriënterend en beschrijvend bodemonderzoek
 
@@ -441,19 +471,31 @@ Alle belanghebbenden kunnen tegen de beslissingen van de OVAM, vermeld in   arti
 
 ### ART. 44.
 
-Het beschrijvend bodemonderzoek kan gelijktijdig of onmiddellijk volgend op het oriënterend bodemonderzoek worden uitgevoerd. In dat geval worden de resultaten van beide onderzoeken in een verslag aan de OVAM bezorgd, onder de benaming 'Verslag van oriënterend en beschrijvend bodemonderzoek'.<br /><br />Een oriënterend en beschrijvend bodemonderzoek wordt uitgevoerd onder leiding van een bodemsa-neringsdeskundige conform de standaardprocedure, vastgesteld door de Vlaamse Regering op voorstel van de OVAM. Bij gebrek aan dergelijke standaardprocedure wordt het oriënterend en beschrijvend bodemonderzoek uitgevoerd volgens een code van goede praktijk.<br /><br />
+Het beschrijvend bodemonderzoek kan gelijktijdig of onmiddellijk na het oriënterend bodemonderzoek worden uitgevoerd. In dat geval worden de resultaten van beide onderzoeken in een verslag bij de OVAM ingediend, onder de benaming `Verslag van oriënterend en beschrijvend bodemonderzoek'.<br>
+<br>
+Een oriënterend en beschrijvend bodemonderzoek wordt uitgevoerd onder leiding van een bodemsaneringsdeskundige conform de standaardprocedure, vastgesteld door de Vlaamse Regering op voorstel van de OVAM. Een verslag van oriënterend en beschrijvend bodemonderzoek wordt opgemaakt en bij de OVAM ingediend door de bodemsaneringsdeskundige conform de voormelde standaardprocedure.<br>
+<br>
+Een bodemonderzoek dat niet is uitgevoerd conform de standaardprocedure vermeld in het tweede lid, wordt niet beschouwd als een oriënterend en beschrijvend bodemonderzoek.<br>
+<br>
+Artikel 40 is van overeenkomstige toepassing op de beslissingen over het oriënterend en beschrijvend bodemonderzoek.
 
 ## [... (opgeh. decr. 8 december 2017, art. 29, I: 1 april 2018)]
 
 ### ART. 45.
 
-§ 1. Binnen een termijn van zestig dagen na ontvangst van een verslag van oriënterend en beschrijvend bodemonderzoek spreekt de OVAM zich uit over de conformiteit van het onderzoek met de bepalingen van dit hoofdstuk. De OVAM legt aanvullende onderzoeksverrichtingen op, beschouwt het verslag van oriënterend en beschrijvend bodemonderzoek als een verslag van oriënterend bodemonderzoek of levert een conformiteitsattest af.<br /><br />§ 2. De Vlaamse Regering stelt nadere regelen vast betreffende de kennisgeving en de conformverklaring van het oriënterend en beschrijvend bodemonderzoek en de inhoud van het conformiteitsattest.<br /><br />
+...
 
 ### ART. 46.
 
-De bepalingen van artikel 40 tot en met 43 zijn van overeenkomstige toepassing.<br /><br />
+...
 
 ## [Afdeling IV Beoordeling van de conformiteit van bodemonderzoeken (ing. decr. 8 december 2017, art. 30, I: 1 april 2018)]
+
+### ART 46bis.
+
+Binnen een termijn van zestig dagen na de ontvangst van het verslag van een oriënterend bodemonderzoek, een beschrijvend bodemonderzoek, een oriënterend en beschrijvend bodemonderzoek of siteonderzoek kan de OVAM beoordelen of het betreffende bodemonderzoek conform de overeenstemmende standaardprocedure is uitgevoerd. Als de OVAM de conformiteit van het bodemonderzoek beoordeelt, brengt ze de opdrachtgever van het bodemonderzoek op de hoogte van haar beslissing binnen de voormelde termijn van zestig dagen.<br>
+<br>
+Alle belanghebbenden kunnen tegen de beslissing van de OVAM, vermeld in het eerste lid, beroep indienen bij de Vlaamse Regering conform artikel 153 tot en met 155.
 
 ## HOOFDSTUK V Bodemsanering
 
@@ -463,7 +505,14 @@ De bepalingen van artikel 40 tot en met 43 zijn van overeenkomstige toepassing.<
 
 ### ART. 47.
 
-§ 1. Een bodemsaneringsproject stelt de wijze vast waarop   bodemsaneringswerken worden uitgevoerd en de eventuele nazorg wordt   verzekerd.<BR><BR>§ 2. Een bodemsaneringsproject wordt opgesteld onder leiding   van een bodemsaneringsdeskundige conform de standaardprocedure, vastgesteld door   de Vlaamse Regering op voorstel van de OVAM. Bij gebrek aan dergelijke   standaardprocedure wordt het bodemsaneringsproject opgesteld volgens een code   van goede praktijk.<BR><BR>§ 3. Het bodemsaneringsproject steunt op de   resultaten van een conformverklaard beschrijvend bodemonderzoek. Als de OVAM van   oordeel is dat de resultaten van dit bodemonderzoek onvoldoende actueel zijn om   een accuraat beeld van de verontreinigingssituatie te geven en op zorgvuldige   wijze een bodemsaneringsproject op te stellen, legt ze aan de opdrachtgever van   het bodemsaneringsproject de verplichting op om binnen een welbepaalde termijn   het beschrijvend bodemonderzoek te actualiseren.<BR><BR>§ 4. Een   bodemsaneringsproject kan gefaseerd worden opgesteld in de gevallen en   overeenkomstig de voorwaarden bepaald in de standaardprocedure, vermeld in §   2.<BR><BR>
+§ 1. Een bodemsaneringsproject stelt de wijze vast waarop bodemsaneringswerken worden uitgevoerd en de eventuele nazorg wordt verzekerd.<br>
+<br>
+§ 2. Een bodemsaneringsproject wordt opgesteld onder leiding van een bodemsaneringsdeskundige conform de standaardprocedure, vastgesteld door de Vlaamse Regering op voorstel van de OVAM. Bij gebrek aan dergelijke standaardprocedure wordt het bodemsaneringsproject opgesteld volgens een code van goede praktijk.<br>
+<br>
+§ 3. Het bodemsaneringsproject steunt op de resultaten van een&nbsp;beschrijvend bodemonderzoek. Als de OVAM van oordeel is dat de resultaten van dit bodemonderzoek onvoldoende actueel zijn om een accuraat beeld van de verontreinigingssituatie te geven en op zorgvuldige wijze een bodemsaneringsproject op te stellen, legt ze aan de opdrachtgever van het bodemsaneringsproject de verplichting op om binnen een welbepaalde termijn het beschrijvend bodemonderzoek te actualiseren.<br>
+<br>
+§ 4. Een bodemsaneringsproject kan gefaseerd worden opgesteld in de gevallen en overeenkomstig de voorwaarden bepaald in de standaardprocedure, vermeld in § 2.<br>
+&nbsp;
 
 ### ART. 47bis.
 
@@ -975,7 +1024,7 @@ Zij voegen bij deze melding de volgende documenten :<br>
 2° een kostenraming van de bodemsanering en de eventuele nazorg, opgemaakt door een bodemsa-neringsdeskundige;<br>
 3° ...<br>
 <br>
-§ 3. Binnen een termijn van zestig dagen na de ontvangst van alle documenten, vermeld in § 2, spreekt de OVAM zich uit over de conformiteit van het bodemonderzoek en het verzoek tot toepassing van de versnelde overdrachtsprocedure.<br>
+§ 3. Binnen een termijn van zestig dagen na de ontvangst van alle documenten, vermeld in § 2, spreekt de OVAM zich uit over het verzoek tot toepassing van de versnelde overdrachtsprocedure.<br>
 <br>
 Als de OVAM zich niet binnen de termijn van zestig dagen heeft uitgesproken, kan de overdracht plaatsvinden, met behoud van de mogelijkheid om de andere bepalingen van dit decreet later toe te passen.<br>
 <br>
@@ -1192,13 +1241,17 @@ De bepalingen van dit hoofdstuk zijn niet van toepassing op het gebruik van prim
 
 ### ART. 142.
 
-<P>Een siteonderzoek wordt uitgevoerd op een site om de bodemverontreiniging of   potentiële bodemverontreiniging die afkomstig is van de bodemverontreinigende   activiteit waarvoor de site is vastgesteld, in kaart te brengen en om de ernst   ervan vast te stellen. Het siteonderzoek voldoet aan de doelstellingen van een   oriënterend en beschrijvend bodemonderzoek voor de bodemverontreinigende   activiteit waarvoor de site is vastge- steld.<BR><BR>Een siteonderzoek wordt   uitgevoerd onder leiding van een bodemsaneringsdeskundige conform de   standaardprocedure, vermeld in artikel 44, tweede lid, voor de bodem   verontreinigende activiteit waarvoor de site is vastgesteld. Bij gebrek aan een   dergelijke standaardprocedure wordt het siteonderzoek uitgevoerd volgens een   code van goede praktijk.</P>
+<p>Een siteonderzoek wordt uitgevoerd op een site om de bodemverontreiniging of potentiële bodemverontreiniging die afkomstig is van de bodemverontreinigende activiteit waarvoor de site is vastgesteld, in kaart te brengen en om de ernst ervan vast te stellen. Het siteonderzoek voldoet aan de doelstellingen van een oriënterend en beschrijvend bodemonderzoek voor de bodemverontreinigende activiteit waarvoor de site is vastgesteld.<br>
+<br>
+Een siteonderzoek wordt uitgevoerd onder leiding van een bodemsaneringsdeskundige conform de standaardprocedure, vermeld in artikel 44, tweede lid, voor de bodem verontreinigende activiteit waarvoor de site is vastgesteld. Bij gebrek aan een dergelijke standaardprocedure wordt het siteonderzoek uitgevoerd volgens een code van goede praktijk. Een verslag van siteonderzoek wordt opgemaakt en bij de OVAM ingediend door de bodemsaneringsdeskundige conform de voormelde standaard-procedure.<br>
+<br>
+Een siteonderzoek dat niet is uitgevoerd conform de standaardprocedure, vermeld in het tweede lid, wordt niet beschouwd als een siteonderzoek.</p>
 
 ## [Onderafdeling III Beslissingen op basis van het siteonderzoek (verv. decr. 8 december 2017, art. 52, I: 1 april 2018)]
 
 ### ART. 143.
 
-Binnen een termijn van zestig dagen na de ontvangst van het verslag van   het siteonderzoek spreekt de OVAM zich uit over de conformiteit van het   onderzoek met de bepalingen van dit hoofdstuk. De OVAM legt aanvullende   onderzoeksverrichtingen op of levert een conformiteitsattest af.<BR><BR>De   bepalingen van artikel 43 en 45, § 2, zijn van overeenkomstige   toepassing.<BR>
+De bepalingen van artikel&nbsp;40 zijn van overeenkomstige toepassing.
 
 ## [Afdeling III Verplichting om bodemsanering uit te voeren op een site (ing. decr. 28 maart 2014, art. 80, I: 1 januari 2015)]
 
