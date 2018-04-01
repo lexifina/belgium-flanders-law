@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029148,
+  "title": "Ministerieel besluit van 2018-02-15 houdende vaststelling van de maatregelen en de modaliteiten tot uitvoering van het natuurinrichtingsproject Vrieselhof en de toekenning van de ontheffing van de verbodsbepalingen die gelden in het Vlaams Ecologisch Netwerk",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029148/VolledigDocument?datum=2018-04-01",
+  "source_sha256": "9859c2b3f75b62cb8d76fa821ba8a8c7f4ab12b0385f7ac0f6526ad1e2dedf1d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029148&param=informatie",
+  "as_of": "2018-04-01",
+  "made": "2018-02-15",
+  "gazette": "2018-03-22",
+  "numac": 2018011306,
+  "document_start": "2018-04-01",
+  "document_end": null,
+  "in_force": "2018-04-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
