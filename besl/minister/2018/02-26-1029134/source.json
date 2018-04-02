@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029134,
+  "title": "Ministerieel besluit van 2018-02-26 houdende bepaling van de ziekenhuisdagen voor de toekenning van infrastructuursubsidies aan woonzorgcentra",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029134/VolledigDocument?datum=2018-04-02",
+  "source_sha256": "c6b996aa833af666c40d4fb17b87edbe04a0f8d0ecf2fb1df53e7b2920f134c7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029134&param=informatie",
+  "as_of": "2018-04-02",
+  "made": "2018-02-26",
+  "gazette": "2018-03-19",
+  "numac": 2018011272,
+  "document_start": "2018-04-02",
+  "document_end": null,
+  "in_force": "2018-04-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-04-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
