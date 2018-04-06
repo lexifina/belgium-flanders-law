@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029234,
+  "title": "Ministerieel besluit van 2018-04-05 betreffende de uitvaardiging van bepalingen met betrekking tot het indienen van aanvragen voor projectsubsidies voor de oproep 2018 `iedereen verdient vakantie'",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029234/VolledigDocument?datum=2018-04-06",
+  "source_sha256": "433d801be94c0a4cc289314cc7957da8c35e798e1d11410eaf35ef1b2fe368ab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029234&param=informatie",
+  "as_of": "2018-04-06",
+  "made": "2018-04-05",
+  "gazette": "2018-04-16",
+  "numac": 2018040084,
+  "document_start": "2018-04-06",
+  "document_end": null,
+  "in_force": "2018-04-06",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2018-04-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
