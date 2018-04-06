@@ -2,16 +2,16 @@
   "codex_id": 1020871,
   "title": "Ministerieel besluit van 2011-10-19 houdende de samenstelling van de begeleidingscommissie in uitvoering van het besluit van de Vlaamse Regering van 24 november 2006 betreffende het pendelfonds",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020871/VolledigDocument?datum=2013-07-12",
-  "source_sha256": "38ce100162c029ea0e849de1c24437d2c8a420a82c26b4c59d58d21aa9eb63b2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020871/VolledigDocument?datum=2018-04-06",
+  "source_sha256": "15b1f9171c68a77d6c1a5c99fdf051c0e51d38c9a00257af27ca40c61d7ca1e7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020871&param=informatie",
-  "as_of": "2013-07-12",
+  "as_of": "2018-04-06",
   "made": "2011-10-19",
   "gazette": "2011-10-25",
   "numac": 2011205477,
   "document_start": "2011-11-04",
   "document_end": "2018-04-05",
-  "in_force": "2013-07-12",
+  "in_force": "2018-04-06",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2013-07-12; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-04-06; future article versions excluded; article text as the API gives it"
 }
