@@ -51,4 +51,4 @@
 
 ### ART 8.
 
-<span style="color: rgb(0, 0, 0);">Dit decreet treedt buiten werking op 31 maart 2018.</span>
+<span style="color: rgb(0, 0, 0);">Dit decreet treedt buiten werking op 31 maart 2019.</span>
