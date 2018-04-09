@@ -339,7 +339,9 @@ De leden van de Vlaamse Regering kunnen hun bevoegdheden, gedelegeerd   overeenk
 
 ### ART. 15.
 
-De besluiten van de Vlaamse Regering en de samenwerkingsakkoorden van de   Vlaamse Gemeenschap of het Vlaamse Gewest met de Staat of met andere gewesten of   gemeenschappen worden namens de Vlaamse Regering ondertekend door de   minister-president en door het lid aan wie de aangelegenheid in kwestie   toegewezen is.
+De besluiten van de Vlaamse Regering en de samenwerkingsakkoorden van de Vlaamse Gemeenschap of het Vlaamse Gewest met de Staat of met andere gewesten of gemeenschappen worden namens de Vlaamse Regering ondertekend door de minister-president en door het lid aan wie de aangelegenheid in kwestie toegewezen is.<br>
+<br>
+De notificaties van de beslissingen van de Vlaamse Regering worden namens de Vlaamse Regering ondertekend door de secretaris van de Vlaamse Regering.
 
 ### ART. 16.
 
