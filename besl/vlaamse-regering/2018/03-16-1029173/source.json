@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029173,
+  "title": "Besluit van de Vlaamse Regering van 2018-03-16 tot erkenning van de professioneel gerichte bacheloropleiding bachelor in digital design & development als nieuwe opleiding van de Erasmushogeschool Brussel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029173/VolledigDocument?datum=2018-04-09",
+  "source_sha256": "26d1c5815f77f82caefcced7abf514fa77e2596b7850c1da25d47a57813d3eda",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029173&param=informatie",
+  "as_of": "2018-04-09",
+  "made": "2018-03-16",
+  "gazette": "2018-03-30",
+  "numac": 2018030684,
+  "document_start": "2018-04-09",
+  "document_end": null,
+  "in_force": "2018-04-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-04-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
