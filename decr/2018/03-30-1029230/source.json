@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029230,
+  "title": "Decreet van 2018-03-30 houdende wijziging van de wet van 19 juni 1978 betreffende het beheer van het Linkerscheldeoevergebied ter hoogte van Antwerpen en houdende maatregelen voor het beheer en de exploitatie van de haven van Antwerpen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029230/VolledigDocument?datum=2018-04-13",
+  "source_sha256": "c0ba56184828fa6804f0a107767fb739934aae16c56f398bbf0feeee02d7fd40",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029230&param=informatie",
+  "as_of": "2018-04-13",
+  "made": "2018-03-30",
+  "gazette": "2018-04-13",
+  "numac": 2018040031,
+  "document_start": "2018-04-13",
+  "document_end": null,
+  "in_force": "2018-04-13",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2018-04-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
