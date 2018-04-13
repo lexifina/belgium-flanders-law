@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029232,
+  "title": "Besluit van de Vlaamse Regering van 2018-03-02 tot verlening van een opsporingsvergunning voor aardwarmte aan VITO nv in de regio Mol-Dessel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029232/VolledigDocument?datum=2018-04-13",
+  "source_sha256": "6dc88b8a2df5bfc7633eb71f1369e950b31a3cb3c99a9d5df5722577b489ef36",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029232&param=informatie",
+  "as_of": "2018-04-13",
+  "made": "2018-03-02",
+  "gazette": "2018-04-13",
+  "numac": 2018030770,
+  "document_start": "2018-04-13",
+  "document_end": null,
+  "in_force": "2018-04-13",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2018-04-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
