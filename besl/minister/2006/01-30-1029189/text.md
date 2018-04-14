@@ -22,16 +22,16 @@ Besluit :<br>
 
 ### ART 2.
 
-Een uitgewerkt programma van de jaarlijkse opleiding voorzien in artikel 14 van het koninklijk besluit van 11 mei 2004 betreffende de voorwaarden voor erkenning van scholen voor het besturen van motorvoertuigen wordt elk jaar overgemaakt aan de Federale Overheidsdienst Mobiliteit en Vervoer, Mobiliteit en Verkeersveiligheid, directie [Certificatie en Inspectie <em>(verv. MB 8 november 2010, art. 1, I:1 december 2010)</em>].<br>
+Een uitgewerkt programma van de jaarlijkse opleiding voorzien in artikel 14 van het koninklijk besluit van 11 mei 2004 betreffende de voorwaarden voor erkenning van scholen voor het besturen van motorvoertuigen wordt elk jaar overgemaakt aan het departement binnen het homogene beleidsdomein, vermeld in artikel 28, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
 &nbsp;
 
 ### ART 3.
 
-Het uitgewerkt programma wordt goedgekeurd door de Minister tot wiens bevoegdheid de verkeersveiligheid behoort of de&nbsp;[Adviseur-generaal Certificatie en Inspectie <em>(verv. MB 8 november 2010, art. 2, I: 1 december 2010)</em>]&nbsp;van de Federale Overheidsdienst Mobiliteit en Vervoer.<br>
+Het uitgewerkt programma wordt goedgekeurd door de Vlaamse minister, bevoegd voor het verkeersveiligheidsbeleid, of zijn gemachtigde.<br>
 <br>
-Colloquia en seminaries kunnen beschouwd worden als opleidingen voor zover het programma goedgekeurd werd door de Minister.<br>
+Colloquia en seminaries kunnen beschouwd worden als opleidingen voor zover het programma goedgekeurd werd door de Vlaamse minister, bevoegd voor het verkeersveiligheidsbeleid, of zijn gemachtigde.<br>
 <br>
-Het programma, om goedgekeurd te kunnen worden, moet minimum één maand voor het plaatsgrijpen, bij de Federale Overheidsdienst Mobiliteit en Vervoer,&nbsp;[Directie Certificatie en Inspectie <em>(verv. MB 8 november 2010, art. 2, I: 1 december 2010)</em>]&nbsp;&nbsp; toekomen.<br>
+Het programma, om goedgekeurd te kunnen worden, moet minimum één maand voor het plaatsgrijpen, bij&nbsp;het departement binnen het homogene beleidsdomein, vermeld in artikel 28, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie toekomen.<br>
 &nbsp;
 
 ### ART 4.
@@ -57,7 +57,7 @@ De opleiding die voor het verkrijgen van een ander brevet gevolgd werd, wordt ni
 
 De rijschooldirecteur ziet erop toe dat elke adjunct-rijschooldirecteur en elke instructeur die onder zijn toezicht geplaatst is, de in dit besluit bedoelde opleiding volgt. Hij houdt een lijst bij met alle namen van de adjunct-rijschooldirecteurs en de instructeurs met vermelding van fulltime of parttime (kleiner of gelijk aan 50 %) die de opleiding hebben gevolgd, met vermelding van de datum en de uren. Deze lijst vermeldt ook zijn naam.<br>
 <br>
-Deze lijst wordt elk jaar voor 15 januari overgemaakt aan de Federale Overheidsdienst Mobiliteit en Vervoer, [Directie Certificatie en Inspectie <em>(verv. MB 8 november 2010, art. 4, I: 1 december 2010)</em>]&nbsp;met de bewijsstukken van de personeelsleden die de opleiding hebben gevolgd.<br>
+Deze lijst wordt elk jaar voor 15 januari overgemaakt aan&nbsp;het departement binnen het homogene beleidsdomein, vermeld in artikel 28, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie&nbsp;met de bewijsstukken van de personeelsleden die de opleiding hebben gevolgd.<br>
 &nbsp;
 
 ### ART 8.
