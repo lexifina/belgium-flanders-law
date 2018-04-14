@@ -13,12 +13,12 @@ Besluit :<br>
 
 ### ART 1.
 
-Het programma van de voorafgaande opleiding vóór de deelname aan het examen voorzien in artikel 26, § 2 van het koninklijk besluit van 11 mei 2004 betreffende de voorwaarden voor erkenning van scholen voor het besturen van motorvoertuigen wordt elk jaar door de instellingen opgericht of erkend door de overheden bevoegd voor de materie voorzien in artikel 4, 16°, van de speciale wet voor institutionele hervormingen van 8 augustus 1980, overgemaakt aan de Federale Overheidsdienst Mobiliteit en Vervoer, Mobiliteit en Verkeersveiligheid, directie Verkeersveiligheid, dienst Rijbewijs.<br>
+Het programma van de voorafgaande opleiding vóór de deelname aan het examen voorzien in artikel 26, § 2 van het koninklijk besluit van 11 mei 2004 betreffende de voorwaarden voor erkenning van scholen voor het besturen van motorvoertuigen wordt elk jaar door de instellingen opgericht of erkend door de overheden bevoegd voor de materie voorzien in artikel 4, 16°, van de speciale wet voor institutionele hervormingen van 8 augustus 1980, overgemaakt aan het departement binnen het homogene beleidsdomein, vermeld in artikel 28, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br>
 &nbsp;
 
 ### ART 2.
 
-&nbsp;Het programma wordt goedgekeurd door de Minister tot wiens bevoegdheid de Verkeersveiligheid behoort of de Directeur Verkeersveiligheid van de Federale Overheidsdienst Mobiliteit en Vervoer om recht te geven op een vermindering tot een kwart van de in artikel 33, § 1, van het koninklijk besluit van 11 mei 2004 betreffende de voorwaarden voor erkenning van scholen voor het besturen van motorvoertuigen vermelde stage uren.<br>
+Het programma wordt goedgekeurd door de&nbsp;Vlaamse minister, bevoegd voor het verkeersveiligheidsbeleid, of zijn gemachtigde om recht te geven op een vermindering tot een kwart van de in artikel 33, § 1, van het koninklijk besluit van 11 mei 2004 betreffende de voorwaarden voor erkenning van scholen voor het besturen van motorvoertuigen vermelde stage uren.<br>
 &nbsp;
 
 ### ART 3.

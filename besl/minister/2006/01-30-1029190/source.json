@@ -2,16 +2,16 @@
   "codex_id": 1029190,
   "title": "Ministerieel besluit van 2006-01-30 tot bepaling van de leerstof van de voorafgaande opleiding bedoeld in artikel 26, § 2 van het koninklijk besluit van 11 mei 2004 betreffende de voorwaarden voor erkenning van scholen voor het besturen van motorvoertuigen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029190/VolledigDocument?datum=2006-03-01",
-  "source_sha256": "85e5569ceb00f369ed44cb68e2857cc5240192c395da73610ac10577ab2f4dea",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029190/VolledigDocument?datum=2018-04-14",
+  "source_sha256": "fcee9bfe4937358ef5c811005d29f7146d073e77baf2a6b911d206851ebee3e7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029190&param=informatie",
-  "as_of": "2006-03-01",
+  "as_of": "2018-04-14",
   "made": "2006-01-30",
   "gazette": "2018-04-04",
   "numac": 2006014019,
   "document_start": "2006-03-01",
   "document_end": null,
-  "in_force": "2006-03-01",
+  "in_force": "2018-04-14",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2006-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-04-14; future article versions excluded; article text as the API gives it"
 }
