@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029193,
+  "title": "Decreet van 2018-03-16 houdende wijziging van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029193/VolledigDocument?datum=2018-04-15",
+  "source_sha256": "dc21345aef5dfd202e4176b998ccdfa7100118fad7f494882b61d5f44e1d5f0f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029193&param=informatie",
+  "as_of": "2018-04-15",
+  "made": "2018-03-16",
+  "gazette": "2018-04-05",
+  "numac": 2018011580,
+  "document_start": "2018-04-15",
+  "document_end": null,
+  "in_force": "2018-04-15",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2018-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
