@@ -2,16 +2,16 @@
   "codex_id": 1022838,
   "title": "Besluit van de Vlaamse Regering van 2013-03-01 betreffende de rapportering over de uitvoering van de saneringsverplichting door de exploitant van een openbaar waterdistributienetwerk of de gemeente, het gemeentebedrijf, de intercommunale of het intergemeentelijk samenwerkingsverband of de door de gemeente na marktbevraging aangestelde entiteit",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022838/VolledigDocument?datum=2013-04-12",
-  "source_sha256": "a5cf0294ef21b57b0bc71360e076f621c4da8d67dcc80788d8cc7f1c54514e5d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022838/VolledigDocument?datum=2018-04-15",
+  "source_sha256": "4cad89c184c1c4c5f29ab1ea53390eb793a630c4dd168bc313f65578177819a7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022838&param=informatie",
-  "as_of": "2013-04-12",
+  "as_of": "2018-04-15",
   "made": "2013-03-01",
   "gazette": "2013-04-02",
   "numac": 2013035280,
   "document_start": "2013-04-12",
   "document_end": "2024-04-17",
-  "in_force": "2013-04-12",
+  "in_force": "2018-04-15",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2013-04-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-04-15; future article versions excluded; article text as the API gives it"
 }

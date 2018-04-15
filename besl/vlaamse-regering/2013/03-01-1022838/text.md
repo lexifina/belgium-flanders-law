@@ -34,8 +34,211 @@ De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, is   belast
 
 ### BIJLAGE 1a
 
-<P>Bijlage 1 bij het besluit van de Vlaamse Regering van 1 maart 2013   betreffende de rapportering over de uitvoering van de saneringsverplichting door   de exploitant van een openbaar waterdistributienetwerk of de gemeente, het   gemeentebedrijf, de intercommunale of het intergemeentelijk samenwerkingsverband   of de door de gemeente na marktbevraging aangestelde entiteit<BR>Bijlage 1a.   Rapportering door de exploitanten van een openbaar waterdistributienetwerk, het   gemeentebedrijf, de intercommunale of het intergemeentelijk samenwerkingsverband   of de door de gemeente na marktbevraging aangestelde entiteit over de uitvoering   van de gemeentelijke saneringsverplichting<BR>I. Opbrengsten van de   gemeentelijke saneringsactiviteiten<BR>1° Opbrengsten uit dienstverlening (excl.   saneringsbijdrage en -vergoeding)<BR>a) aansluiting onroerend goed op   riolering/IBA :<BR>opbrengsten die de gemeente/rioolbeheerder genereert door   nieuwe aansluitingen van woningen of inrichtingen op riolering en IBA's.<BR>b)   andere dienstverleningen :<BR>opbrengsten andere dan de saneringsbijdrage en   -vergoeding en opbrengsten uit aansluitingen, die het gevolg zijn van   dienstverleningen rechtstreeks verbonden aan de gemeentelijke   saneringsactiviteiten.<BR>2° Financiële opbrengsten<BR>a) afschrijvingen op   subsidies overeenkomstig artikel 32duodecies van de wet van 26 maart 1971   :<BR>de verrekeningen van subsidies, ontvangen voor gemeentelijke   rioleringsprojecten, IBA's en KWZI's en die in het jaar waarover gerapporteerd   wordt, geboekt zijn.<BR>b) andere financiële opbrengsten :<BR>andere dan de in   3° bedoelde financiële opbrengsten, voor zover ze het gevolg zijn van de   gemeentelijke saneringsactiviteiten.<BR>3° Andere opbrengsten<BR>a) financiële   tegemoetkoming gemeente :<BR>de bijpassingen door de gemeentevennoten in geval   van tekorten verbonden aan de gemeentelijke saneringsactiviteiten.<BR>b) andere   bedrijfsopbrengsten :<BR>enkel de aan de gemeentelijke saneringsactiviteiten   verbonden andere bedrijfsopbrengsten.<BR>4° Uitzonderlijke opbrengsten   :<BR>enkel de aan de gemeentelijke saneringsactiviteiten verbonden   uitzonderlijke opbrengsten.<BR>II. Kosten van de gemeentelijke   saneringsactiviteiten<BR>1° (Afschrijvings-)kosten van investeringen<BR>a)   nieuwbouw en renovatie :<BR>de jaarlijkse (afschrijvings-)kost van nieuwbouw- en   renovatieprojecten, zijnde (druk-)rioleringen, installaties (IBA's, KWZI's,   hydraulische structuren,...) en regenwaterafvoer of -buffering (grachten,   WADI's, wachtbekkens).<BR>b) infrastructuur overgenomen van de gemeente :<BR>de   jaarlijkse afschrijvingskost van de overgenomen gemeentelijke   saneringsinfrastructuur.<BR>c) activa die nodig zijn voor de exploitatie van de   infrastructuur (rollend materieel, meubilair en kantoor, werkplaatsuitrusting,   software,...) :<BR>de jaarlijkse (afschrijvings-)kost van rollend materieel,   meubilair en kantoor, werkplaatsuitrusting, software,... nodig voor de   exploitatie van de gemeentelijke saneringsinfrastructuur.<BR>d) aansluiting   onroerend goed riolering :<BR>de jaarlijkse (afschrijvings-)kosten van   aansluitingen op riolen<BR>e) aansluiting onroerend goed IBA :<BR>de jaarlijkse   (afschrijvings-)kosten van aansluitingen op IBA's<BR>f)   inventarisaties/modelleringen/studies :<BR>de jaarlijkse (afschrijvings-)kost   van inventarisaties, modelleringen en studies verbonden aan de gemeentelijke   saneringsinfrastructuur.<BR>g) oprichtingskosten rioolbeheerder :<BR>de   jaarlijkse afschrijvingskost van de oprichting en herstructurering van de   vennootschap.<BR>2° Waardeverminderingen :<BR>per saldo in te vullen, totaal van   de toevoegingen en de terugnemingen, voor zover deze toewijsbaar zijn aan de   gemeentelijke saneringsactiviteiten.<BR>3° Voorzieningen voor risico's en kosten   :<BR>per saldo in te vullen, de toevoegingen verminderd met de   bestedingen/aanwendingen en de terugnemingen, voor zover deze toewijsbaar zijn   aan de gemeentelijke saneringsactiviteiten.<BR>4° Financiële kosten   :<BR>rentelasten op leningen aangegaan ter financiering van de gemeentelijke   saneringsactiviteiten en andere financiële kosten.<BR>5° Exploitatie (riolen,   pompstations, IBA, KWZI, grachten) :<BR>kosten voor onderhoud, herstelling en   uitbating van de riolen, pompstations, IBA, KWZI en grachten. De bedragen   omvatten de aankopen en voorraadwijzigingen van goederen en diensten en de   directe personeelskosten rechtstreeks toewijsbaar aan de exploitatie van de   gemeentelijke saneringsinfrastructuur.<BR>6° Indirecte personeelskosten :<BR>de   indirecte personeelskosten, al dan niet op basis van een verdeelsleutel,   toewijsbaar aan de gemeentelijke saneringsactiviteiten.<BR>7° Overheadkosten   :<BR>alle overige indirecte kosten, al dan niet op basis van een verdeelsleutel,   toewijsbaar aan de gemeentelijke saneringsactiviteiten.<BR>8° Andere   bedrijfskosten<BR>a) aanmoedigingspremies :<BR>alle toegestane werkingssubsidies   en premies die de uitvoering van de gemeentelijke saneringsverplichting   aanmoedigen. Dit zijn subsidies voor IBA's en subsidies in het kader van   afkoppeling, buffering en infiltratie van het regenwater. Het betreffen alleen   subsidies die rechtstreeks door de gemeente worden toegekend (dus geen   gewestelijke subsidies die via de gemeente aan de burger worden   toegekend).<BR>b) andere bedrijfskosten :<BR>enkel de aan de gemeentelijke   saneringsactiviteiten verbonden andere bedrijfskosten.<BR>9° Uitzonderlijke   kosten :<BR>alle uitzonderlijke kosten toewijsbaar aan de   saneringsactiviteiten.<BR>III. Resultaatverwerking <BR>De opsomming van de   verschillende wijzen waarop het boekhoudkundig resultaat (overschot of tekort)   verwerkt wordt met de bijbehorende bedragen. Voorbeelden zijn overdracht naar   het volgend boekjaar, toevoeging aan de reserves en vergoeding van het kapitaal   (dividenden), bestuurders en andere rechthebbenden.<BR>IV. Informatie over de   aanleg of vervanging van de gemeentelijke saneringsinfrastructuur (per project   voor zover deze niet met subsidies van het Vlaams Gewest gefinancierd   worden)<BR>1° Type investering (uitbreidingsinvesteringen of   vervangingsinvesteringen)<BR>Uitbreidingsinvesteringen : elke investering   waarbij voorafgaandelijk geen gemeentelijke saneringsinfrastructuur aanwezig   was.<BR>Vervangingsinvesteringen : elke investering waarbij (een deel van) de   bestaande gemeentelijke saneringsinfrastructuur in zijn geheel wordt   vervangen.<BR>2° Inhoudelijk<BR>a) Aantal lopende meter weg uitbreiding of   vervanging :<BR>het aantal lopende meter weg, dus niet de totale lengte van de   buizen.<BR>b) Tijdsduur project (begin- en einddatum der werken) :<BR>Begindatum   der werken : de datum waarop de uitvoering van een project start.<BR>Einddatum   der werken : de datum van voorlopige oplevering van een project.<BR>c) Reële   investeringsuitgaven :<BR>de werkelijk aangerekende bedragen (vorderingsstaten   of facturen), inclusief de uitgaven voor het herstel van de omgeving in zijn   oorspronkelijke staat, exclusief verfraaiingswerken.<BR>d) Aantal nieuwe   aansluitingen gerealiseerd :<BR>het aantal nieuwe aansluitingen dat een project   omvat.<BR>e) Aantal nieuwe IBA's geplaatst :<BR>het aantal nieuwe IBA's dat een   project omvat.<BR>V. Informatie over de aanwezige gemeentelijke   saneringsinfrastructuur (ter onderbouwing van de kosten in II - indien niet   exact gekend, wordt een inschatting gemaakt)<BR>1° Aantal meter weg riolering   :<BR>het aantal lopende meter weg, dus niet de totale lengte van de   buizen.<BR>2° Aantal pompstations :<BR>het totaal aantal pompstations aanwezig   in het werkingsgebied van de rioolbeheerder.<BR>3° Aantal IBA's :<BR>het totaal   aantal IBA's aanwezig in het werkingsgebied van de rioolbeheerder.<BR>4° Aantal   KWZI's :<BR>het totaal aantal KWZI's aanwezig in het werkingsgebied van de   rioolbeheerder.<BR>5° Aantal meter grachten :<BR>het totaal aantal meter   grachten aanwezig in het werkingsgebied van de rioolbeheerder.<BR>6° Percentage   van de totale rioleringslengte dat werd geïnventariseerd/gemodelleerd (o.b.v.   het aantal inwoners) :<BR>percentage dat aangeeft welk deel van de riolering   geïnventariseerd/gemodelleerd is in het werkingsgebied van de   rioolbeheerder.<BR>7° Aantal aansluitingen onroerend goed :<BR>het totaal aantal   aansluitingen aanwezig in het werkingsgebied van de   rioolbeheerder.<BR></P>
+<p>Bijlage 1 bij het besluit van de Vlaamse Regering van 1 maart 2013 betreffende de rapportering over de uitvoering van de saneringsverplichting door de exploitant van een openbaar waterdistributienetwerk of de gemeente, het gemeentebedrijf, de intercommunale of het intergemeentelijk samenwerkingsverband of de door de gemeente na marktbevraging aangestelde entiteit<br>
+<br>
+Bijlage 1a. Rapportering door de exploitanten van een openbaar waterdistributienetwerk, het gemeentebedrijf, de intercommunale of het intergemeentelijk samenwerkingsverband of de door de gemeente na marktbevraging aangestelde entiteit over de uitvoering van de gemeentelijke saneringsverplichting<br>
+<br>
+I. Opbrengsten van de gemeentelijke saneringsactiviteiten<br>
+1° Opbrengsten uit dienstverlening (excl. saneringsbijdrage en -vergoeding)<br>
+a) aansluiting onroerend goed op riolering/IBA :<br>
+opbrengsten die de gemeente/rioolbeheerder genereert door nieuwe aansluitingen van woningen of inrichtingen op riolering en IBA's.<br>
+b) andere dienstverleningen :<br>
+opbrengsten andere dan de saneringsbijdrage en -vergoeding en opbrengsten uit aansluitingen, die het gevolg zijn van dienstverleningen rechtstreeks verbonden aan de gemeentelijke saneringsactiviteiten.<br>
+2° Financiële opbrengsten<br>
+a) afschrijvingen op subsidies overeenkomstig artikel 32duodecies van de wet van 26 maart 1971 :<br>
+de verrekeningen van subsidies, ontvangen voor gemeentelijke rioleringsprojecten, IBA's en KWZI's en die in het jaar waarover gerapporteerd wordt, geboekt zijn.<br>
+b) andere financiële opbrengsten :<br>
+andere dan de in 3° bedoelde financiële opbrengsten, voor zover ze het gevolg zijn van de gemeentelijke saneringsactiviteiten.<br>
+3° Andere opbrengsten<br>
+a) financiële tegemoetkoming gemeente :<br>
+de bijpassingen door de gemeentevennoten in geval van tekorten verbonden aan de gemeentelijke saneringsactiviteiten.<br>
+b) andere bedrijfsopbrengsten :<br>
+enkel de aan de gemeentelijke saneringsactiviteiten verbonden andere bedrijfsopbrengsten.<br>
+4° Uitzonderlijke opbrengsten :<br>
+enkel de aan de gemeentelijke saneringsactiviteiten verbonden uitzonderlijke opbrengsten.<br>
+<br>
+II. Kosten van de gemeentelijke saneringsactiviteiten<br>
+1° (Afschrijvings-)kosten van investeringen<br>
+a) nieuwbouw en renovatie :<br>
+de jaarlijkse (afschrijvings-)kost van nieuwbouw- en renovatieprojecten, zijnde (druk-)rioleringen, installaties (IBA's, KWZI's, hydraulische structuren,...) en regenwaterafvoer of -buffering (grachten, WADI's, wachtbekkens).<br>
+b) infrastructuur overgenomen van de gemeente :<br>
+de jaarlijkse afschrijvingskost van de overgenomen gemeentelijke saneringsinfrastructuur.<br>
+c) activa die nodig zijn voor de exploitatie van de infrastructuur (rollend materieel, meubilair en kantoor, werkplaatsuitrusting, software,...) :<br>
+de jaarlijkse (afschrijvings-)kost van rollend materieel, meubilair en kantoor, werkplaatsuitrusting, software,... nodig voor de exploitatie van de gemeentelijke saneringsinfrastructuur.<br>
+d) aansluiting onroerend goed riolering :<br>
+de jaarlijkse (afschrijvings-)kosten van aansluitingen op riolen<br>
+e) aansluiting onroerend goed IBA :<br>
+de jaarlijkse (afschrijvings-)kosten van aansluitingen op IBA's<br>
+f) inventarisaties/modelleringen/studies :<br>
+de jaarlijkse (afschrijvings-)kost van inventarisaties, modelleringen en studies verbonden aan de gemeentelijke saneringsinfrastructuur.<br>
+g) oprichtingskosten rioolbeheerder :<br>
+de jaarlijkse afschrijvingskost van de oprichting en herstructurering van de vennootschap.<br>
+2° Waardeverminderingen :<br>
+per saldo in te vullen, totaal van de toevoegingen en de terugnemingen, voor zover deze toewijsbaar zijn aan de gemeentelijke saneringsactiviteiten.<br>
+3° Voorzieningen voor risico's en kosten :<br>
+per saldo in te vullen, de toevoegingen verminderd met de bestedingen/aanwendingen en de terugnemingen, voor zover deze toewijsbaar zijn aan de gemeentelijke saneringsactiviteiten.<br>
+4° Financiële kosten :<br>
+rentelasten op leningen aangegaan ter financiering van de gemeentelijke saneringsactiviteiten en andere financiële kosten.<br>
+5° Exploitatie (riolen, pompstations, IBA, KWZI, grachten) :<br>
+kosten voor onderhoud, herstelling en uitbating van de riolen, pompstations, IBA, KWZI en grachten. De bedragen omvatten de aankopen en voorraadwijzigingen van goederen en diensten en de directe personeelskosten rechtstreeks toewijsbaar aan de exploitatie van de gemeentelijke saneringsinfrastructuur.<br>
+6° Indirecte personeelskosten :<br>
+de indirecte personeelskosten, al dan niet op basis van een verdeelsleutel, toewijsbaar aan de gemeentelijke saneringsactiviteiten.<br>
+7° Overheadkosten :<br>
+alle overige indirecte kosten, al dan niet op basis van een verdeelsleutel, toewijsbaar aan de gemeentelijke saneringsactiviteiten.<br>
+8° Andere bedrijfskosten<br>
+a) aanmoedigingspremies :<br>
+alle toegestane werkingssubsidies en premies die de uitvoering van de gemeentelijke saneringsverplichting aanmoedigen. Dit zijn subsidies voor IBA's en subsidies in het kader van afkoppeling, buffering en infiltratie van het regenwater. Het betreffen alleen subsidies die rechtstreeks door de gemeente worden toegekend (dus geen gewestelijke subsidies die via de gemeente aan de burger worden toegekend).<br>
+b) andere bedrijfskosten :<br>
+enkel de aan de gemeentelijke saneringsactiviteiten verbonden andere bedrijfskosten.<br>
+9° Uitzonderlijke kosten :<br>
+alle uitzonderlijke kosten toewijsbaar aan de saneringsactiviteiten.<br>
+<br>
+III. Resultaatverwerking<br>
+De opsomming van de verschillende wijzen waarop het boekhoudkundig resultaat (overschot of tekort) verwerkt wordt met de bijbehorende bedragen. Voorbeelden zijn overdracht naar het volgend boekjaar, toevoeging aan de reserves en vergoeding van het kapitaal (dividenden), bestuurders en andere rechthebbenden.<br>
+<br>
+IV. Informatie over de aanleg of vervanging van de gemeentelijke saneringsinfrastructuur (per project voor zover deze niet met subsidies van het Vlaams Gewest gefinancierd worden)<br>
+1° Type investering (uitbreidingsinvesteringen of vervangingsinvesteringen)<br>
+Uitbreidingsinvesteringen : elke investering waarbij voorafgaandelijk geen gemeentelijke saneringsinfrastructuur aanwezig was.<br>
+Vervangingsinvesteringen : elke investering waarbij (een deel van) de bestaande gemeentelijke saneringsinfrastructuur in zijn geheel wordt vervangen.<br>
+2° Inhoudelijk<br>
+a) Aantal lopende meter weg uitbreiding of vervanging :<br>
+het aantal lopende meter weg, dus niet de totale lengte van de buizen.<br>
+b) Tijdsduur project (begin- en einddatum der werken) :<br>
+Begindatum der werken : de datum waarop de uitvoering van een project start.<br>
+Einddatum der werken : de datum van voorlopige oplevering van een project.<br>
+c) Reële investeringsuitgaven :<br>
+de werkelijk aangerekende bedragen (vorderingsstaten of facturen), inclusief de uitgaven voor het herstel van de omgeving in zijn oorspronkelijke staat, exclusief verfraaiingswerken.<br>
+d) Aantal nieuwe aansluitingen gerealiseerd :<br>
+het aantal nieuwe aansluitingen dat een project omvat.<br>
+e) Aantal nieuwe IBA's geplaatst :<br>
+het aantal nieuwe IBA's dat een project omvat.<br>
+<br>
+V. Informatie over de aanwezige gemeentelijke saneringsinfrastructuur (ter onderbouwing van de kosten in II - indien niet exact gekend, wordt een inschatting gemaakt)<br>
+1° Aantal meter weg riolering :<br>
+het aantal lopende meter weg, dus niet de totale lengte van de buizen.<br>
+2° Aantal pompstations :<br>
+het totaal aantal pompstations aanwezig in het werkingsgebied van de rioolbeheerder.<br>
+3° Aantal IBA's :<br>
+het totaal aantal IBA's aanwezig in het werkingsgebied van de rioolbeheerder.<br>
+4° Aantal KWZI's :<br>
+het totaal aantal KWZI's aanwezig in het werkingsgebied van de rioolbeheerder.<br>
+5° Aantal meter grachten :<br>
+het totaal aantal meter grachten aanwezig in het werkingsgebied van de rioolbeheerder.<br>
+6° Percentage van de totale rioleringslengte dat werd geïnventariseerd/gemodelleerd (o.b.v. het aantal inwoners) :<br>
+percentage dat aangeeft welk deel van de riolering geïnventariseerd/gemodelleerd is in het werkingsgebied van de rioolbeheerder.<br>
+7° Aantal aansluitingen onroerend goed :<br>
+het totaal aantal aansluitingen aanwezig in het werkingsgebied van de rioolbeheerder.<br>
+<br>
+[Bij MB van 20 februari 2018 wordt de lijst van bijlage 1 a met ingang van 15 april 2018 als volgt aangevuld:<br>
+<br>
+De lijst met opgevraagde gegevens in bijlage 1a bij het besluit van 1 maart 2013 wordt als volgt verder aangevuld :<br>
+1° De kasstromen van de gemeentelijke saneringsactiviteiten worden aan de rapportering toegevoegd. De rapportering omvat alle inkomsten en uitgaven die rechtstreeks voortkomen uit de gemeentelijke saneringsactiviteiten of daar redelijkerwijs aan toegewezen kunnen worden, voor zover die inkomsten en uitgaven geactiveerd worden, over meerdere boekjaren verrekend worden en op die manier niet of onvolledig in de resultatenrekening van het jaar in kwestie opgenomen worden. De rapportering omvat minstens de gerealiseerde inkomsten en uitgaven van het voorgaande jaar en de gebudgetteerde inkomsten en uitgaven voor het huidige jaar en de vijf daaropvolgende jaren. Daarbij maakt de rioolbeheerder minstens een onderscheid tussen de volgende onderverdelingen :<br>
+a) inkomsten :<br>
+i) ontvangen middelen van het Vlaams Gewest (overeenkomstig art. 32duodecies van de wet van 26 maart 1971) : de gewestsubsidies die in het jaar waarover gerapporteerd wordt, ontvangen zijn voor de aanleg en de verbetering van openbare riolen (en daaraan gerelateerde buffer-, retentie- en infiltratievoorzieningen), IBA's en KWZI's;<br>
+ii) ontvangen middelen van gemeentevennoten : de kapitaal-, intrest- of werkingssubsidies en andere tussenkomsten van de gemeentevennoten die in het jaar waarover gerapporteerd wordt, ontvangen zijn voor de financiering van de gemeentelijke saneringsactiviteiten;<br>
+iii) andere inkomsten : alleen de andere inkomsten die verbonden zijn aan de gemeentelijke saneringsactiviteiten;<br>
+b) uitgaven :<br>
+i) investeringsuitgaven : de investeringsuitgaven voor de (her)aanleg van (druk-)rioleringen, installaties (IBA's, KWZI's, hydraulische structuren ...) en regenwaterafvoer of -buffering (grachten, WADI's, wachtbekkens) alsook de investeringsuitgaven voor de productie of aanschaf van andere (immateriële of materiële) activa in het kader van de gemeentelijke saneringsactiviteiten;<br>
+ii) uitgekeerde middelen aan gemeentevennoten : de middelen die in het jaar waarover gerapporteerd wordt, aan de gemeentevennoten uitgekeerd zijn;<br>
+iii) andere uitgaven : alleen de andere uitgaven die verbonden zijn aan de gemeentelijke saneringsactiviteiten.<br>
+2° De niet-kasopbrengsten en niet-kaskosten worden aan de rapportering toegevoegd. Dat zijn respectievelijk alle opbrengsten van de gemeentelijke saneringsactiviteiten die geen inkomsten impliceren en alle kosten van de gemeentelijke saneringsactiviteiten die geen uitgaven impliceren.<br>
+3° De gebudgetteerde opbrengsten en kosten van de gemeentelijke saneringsactiviteiten worden gerapporteerd voor het huidige jaar en de vijf daaropvolgende jaren. Dat gebeurt voor alle gegevens met betrekking tot I. Opbrengsten van de gemeentelijke saneringsactiviteiten en II. Kosten van de gemeentelijke saneringsactiviteiten.<br>
+4° De operationele en boekhoudkundige karakteristieken van de rioolbeheerder worden aan de rapportering toegevoegd.<br>
+5° Onder I.2° Financiële opbrengsten worden, naast de afschrijvingen op subsidies zoals bedoeld onder het punt a) afschrijvingen op subsidies overeenkomstig artikel 32duodecies van de wet van 26 maart 1971 : de verrekeningen van subsidies, die ontvangen zijn voor gemeentelijke rioleringsprojecten, IBA's en KWZI's en die in het jaar waarover gerapporteerd wordt, geboekt zijn, ook de andere afschrijvingen op kapitaalsubsidies gerapporteerd die ontvangen zijn in het kader van de gemeentelijke saneringsactiviteiten.<br>
+6° Onder I.3° Andere opbrengsten worden, naast de financiële tegemoetkomingen door de gemeentevennoten zoals bedoeld onder het punt a) financiële tegemoetkoming gemeente : de bijpassingen door de gemeentevennoten in geval van tekorten die verbonden zijn aan de gemeentelijke saneringsactiviteiten, ook de andere werkingssubsidies en compenserende bedragen gerapporteerd die ontvangen zijn in het kader van de gemeentelijke saneringsactiviteiten.<br>
+7° Onder II.1° (Afschrijvings-)kosten van investeringen worden, naast de afschrijvingskosten van inventarisaties, modelleringen en studies zoals bedoeld onder het punt f) inventarisaties/modelleringen/studies : de jaarlijkse (afschrijvings)kost van inventarisaties, modelleringen en studies verbonden aan de gemeentelijke saneringsinfrastructuur, ook de (afschrijvings)kosten van andere immateriële activa gerapporteerd die nodig zijn in het kader van de gemeentelijke saneringsactiviteiten.<br>
+8° Naast de afschrijvingskosten zoals bedoeld onder het punt II.1° (Afschrijvings)kosten van investeringen, worden ook de afschrijvingskosten van andere materiële activa gerapporteerd die nodig zijn in het kader van de gemeentelijke saneringsactiviteiten.<br>
+9° Onder II.8° Andere bedrijfskosten worden, naast de aanmoedigingspremies zoals bedoeld onder het punt a) aanmoedigingspremies, ook de andere werkingssubsidies en premies gerapporteerd die toegestaan zijn in het kader van de gemeentelijke saneringsactiviteiten].</p>
 
 ### BIJLAGE 1b
 
-<P>Bijlage 1b. Rapportering door de gemeente over de uitvoering van de   gemeentelijke saneringsverplichting<BR>I. Opbrengsten van de gemeentelijke   saneringsactiviteiten<BR>1° Opbrengsten uit de werking (excl. saneringsbijdrage   en -vergoeding) :<BR>opbrengsten andere dan de saneringsbijdrage en -vergoeding,   die het gevolg zijn van dienstprestaties rechtstreeks verbonden aan de   gemeentelijke saneringsactiviteiten.<BR>2° Fiscale opbrengsten<BR>a) aansluiting   onroerend goed op riolering/IBA :<BR>opbrengsten die de gemeente/rioolbeheerder   genereert door nieuwe aansluitingen van woningen of inrichtingen op riolering en   IBA's.<BR>b) andere fiscale opbrengsten :<BR>andere fiscale opbrengsten, voor   zover ze toewijsbaar zijn aan de saneringsactiviteiten.<BR>3° Financiële   opbrengsten<BR>a) afschrijvingen op subsidies overeenkomstig artikel 32duodecies   van de wet van 26 maart 1971 :<BR>de verrekeningen van subsidies ontvangen voor   gemeentelijke rioleringsprojecten, IBA's en KWZI's en die in het jaar waarover   gerapporteerd wordt, geboekt zijn.<BR>b) andere financiële opbrengsten   :<BR>andere dan de in 4° bedoelde financiële opbrengsten, voor zover ze het   gevolg zijn van de gemeentelijke saneringsactiviteiten.<BR>4° Andere   operationele opbrengsten :<BR>enkel de aan de gemeentelijke   saneringsactiviteiten verbonden operationele opbrengsten.<BR>5° Uitzonderlijke   opbrengsten :<BR>enkel de aan de gemeentelijke saneringsactiviteiten verbonden   uitzonderlijke opbrengsten.<BR>II. Kosten van de gemeentelijke   saneringsactiviteiten<BR>1° (Afschrijvings)kosten van investeringen<BR>a)   nieuwbouw en renovatie :<BR>de jaarlijkse (afschrijvings-)kost van nieuwbouw- en   renovatieprojecten, zijnde (druk-)rioleringen, installaties (IBA's, KWZI's,   hydraulische structuren,...) en regenwaterafvoer of -buffering (grachten,   WADI's, wachtbekkens).<BR>b) activa die nodig zijn voor de exploitatie van de   infrastructuur (rollend materieel, meubilair en kantoor, werkplaatsuitrusting,   software,...) :<BR>de jaarlijkse (afschrijvings-)kost van rollend materieel,   meubilair en kantoor, werkplaatsuitrusting, software,... nodig voor de   exploitatie van de gemeentelijke saneringsinfrastructuur.<BR>c) aansluiting   onroerend goed riolering :<BR>de jaarlijkse (afschrijvings-)kosten van   aansluitingen op riolen, voor zover ze als investering (buitengewone dienst)   beschouwd worden.<BR>d) aansluiting onroerend goed IBA :<BR>de jaarlijkse   (afschrijvings-)kosten van aansluitingen op IBA's, voor zover ze als investering   (buitengewone dienst) beschouwd worden.<BR>e)   inventarisaties/modelleringen/studies :<BR>de jaarlijkse (afschrijvings-)kost   van inventarisaties, modelleringen en studies verbonden aan de gemeentelijke   saneringsinfrastructuur.<BR>2° Waardeverminderingen :<BR>per saldo in te vullen,   totaal van de toevoegingen en de terugnemingen, voor zover deze toewijsbaar zijn   aan de gemeentelijke saneringsactiviteiten.<BR>3° Voorzieningen voor risico's en   kosten :<BR>per saldo in te vullen, de toevoegingen verminderd met de   bestedingen/aanwendingen en de terugnemingen, voor zover deze toewijsbaar zijn   aan de gemeentelijke saneringsactiviteiten.<BR>4° Financiële kosten   :<BR>rentelasten op leningen aangegaan ter financiering van de gemeentelijke   saneringsactiviteiten en andere financiële kosten. Indien deze niet   rapporteerbaar zijn, wordt een forfaitaire kost berekend.<BR>5° Exploitatie   (riolen, pompstations, IBA, KWZI, grachten) :<BR>kosten voor onderhoud,   herstelling en uitbating van de riolen, pompstations, IBA, KWZI en grachten. De   bedragen omvatten de aankopen en voorraadwijzigingen van goederen en diensten en   de directe personeelskosten rechtstreeks toewijsbaar aan de exploitatie van de   gemeentelijke saneringsinfrastructuur.<BR>6° Indirecte personeelskosten :<BR>de   indirecte personeelskosten, al dan niet op basis van een verdeelsleutel,   toewijsbaar aan de gemeentelijke saneringsactiviteiten.<BR>7° Overheadkosten   :<BR>alle overige indirecte kosten, al dan niet op basis van een verdeelsleutel,   toewijsbaar aan de gemeentelijke saneringsactiviteiten.<BR>8° Andere   operationele kosten<BR>a) aanmoedigingspremies :<BR>alle toegestane   werkingssubsidies en premies die de uitvoering van de gemeentelijke   saneringsverplichting aanmoedigen. Dit zijn subsidies voor IBA's en subsidies in   het kader van afkoppeling, buffering en infiltratie van het regenwater. Het   betreffen alleen subsidies die rechtstreeks door de gemeente worden toegekend   (dus geen gewestelijke subsidies die via de gemeente aan de burger worden   toegekend).<BR>b) andere bedrijfskosten :<BR>andere operationele kosten die het   gevolg zijn van de gemeentelijke saneringsactiviteiten.<BR>9° Uitzonderlijke   kosten :<BR>alle uitzonderlijke kosten toewijsbaar aan de   saneringsactiviteiten.<BR>III. Resultaatverwerking<BR>De opsomming van de   verschillende wijzen waarop het boekhoudkundig resultaat (overschot of tekort)   verwerkt wordt met de bijbehorende bedragen. Voorbeelden zijn overdracht naar   het volgend boekjaar en toevoeging aan de reserves.<BR>IV. Informatie over de   aanleg of vervanging van de gemeentelijke saneringsinfrastructuur (per project   voor zoverdeze niet met subsidies van het Vlaams Gewest gefinancierd   worden).<BR>1° Type investering (uitbreidingsinvesteringen of   vervangingsinvesteringen)<BR>Uitbreidingsinvesteringen : elke investering   waarbij voorafgaandelijk geen gemeentelijke saneringsinfrastructuur aanwezig   was.<BR>Vervangingsinvesteringen :elke investeringwaarbij (een deel van) de   bestaande gemeentelijke saneringsinfrastructuur in zijn geheel wordt   vervangen.<BR>2° Inhoudelijk<BR>f) Aantal lopende meter weg uitbreiding of   vervanging :<BR>het aantal lopende meter weg, dus niet de totale lengte van de   buizen.<BR>g) Tijdsduur project (begin- en einddatum der werken) :<BR>Begindatum   der werken : de datum waarop de uitvoering van een project start.<BR>Einddatum   der werken : de datum van voorlopige oplevering van een project.<BR>h) Reële   investeringsuitgaven :<BR>de werkelijk aangerekende bedragen (vorderingsstaten   of facturen), inclusief de uitgaven voor het herstel van de omgeving in zijn   oorspronkelijke staat, exclusief verfraaiingswerken.<BR>i) Aantal nieuwe   aansluitingen gerealiseerd :<BR>het aantal nieuwe aansluitingen dat een project   omvat.<BR>Aantal nieuwe IBA's geplaatst :<BR>het aantal nieuwe IBA's dat een   project omvat.<BR>V. Informatie over de aanwezige gemeentelijke   saneringsinfrastructuur (ter onderbouwing van de kosten in II) (indien niet   exact gekend, wordt een inschatting gemaakt)<BR>1° Aantal meter weg riolering   :<BR>het aantal lopende meter weg, dus niet de totale lengte van de   buizen.<BR>2° Aantal pompstations :<BR>het totaal aantal pompstations aanwezig   in het werkingsgebied van de rioolbeheerder.<BR>3° Aantal IBA's :<BR>het totaal   aantal IBA's aanwezig in het werkingsgebied van de rioolbeheerder.<BR>4° Aantal   KWZI's :<BR>het totaal aantal KWZI's aanwezig in het werkingsgebied van de   rioolbeheerder.<BR>5° Aantal meter grachten :<BR>het totaal aantal meter   grachten aanwezig in het werkingsgebied van de rioolbeheerder. <BR>6° Percentage   van de totale rioleringslengte dat werd geïnventariseerd/ gemodelleerd (o.b.v.   het aantal inwoners) :<BR>percentage dat aangeeft welk deel van de riolering   geïnventariseerd/gemodelleerd is in het werkingsgebied van de   rioolbeheerder.<BR>7° Aantal aansluitingen onroerend goed :<BR>het totaal aantal   aansluitingen aanwezig in het werkingsgebied van de   rioolbeheerder.<BR></P>
+<p>Bijlage 1b. Rapportering door de gemeente over de uitvoering van de gemeentelijke saneringsverplichting<br>
+I. Opbrengsten van de gemeentelijke saneringsactiviteiten<br>
+1° Opbrengsten uit de werking (excl. saneringsbijdrage en -vergoeding) :<br>
+opbrengsten andere dan de saneringsbijdrage en -vergoeding, die het gevolg zijn van dienstprestaties rechtstreeks verbonden aan de gemeentelijke saneringsactiviteiten.<br>
+2° Fiscale opbrengsten<br>
+a) aansluiting onroerend goed op riolering/IBA :<br>
+opbrengsten die de gemeente/rioolbeheerder genereert door nieuwe aansluitingen van woningen of inrichtingen op riolering en IBA's.<br>
+b) andere fiscale opbrengsten :<br>
+andere fiscale opbrengsten, voor zover ze toewijsbaar zijn aan de saneringsactiviteiten.<br>
+3° Financiële opbrengsten<br>
+a) afschrijvingen op subsidies overeenkomstig artikel 32duodecies van de wet van 26 maart 1971 :<br>
+de verrekeningen van subsidies ontvangen voor gemeentelijke rioleringsprojecten, IBA's en KWZI's en die in het jaar waarover gerapporteerd wordt, geboekt zijn.<br>
+b) andere financiële opbrengsten :<br>
+andere dan de in 4° bedoelde financiële opbrengsten, voor zover ze het gevolg zijn van de gemeentelijke saneringsactiviteiten.<br>
+4° Andere operationele opbrengsten :<br>
+enkel de aan de gemeentelijke saneringsactiviteiten verbonden operationele opbrengsten.<br>
+5° Uitzonderlijke opbrengsten :<br>
+enkel de aan de gemeentelijke saneringsactiviteiten verbonden uitzonderlijke opbrengsten.<br>
+II. Kosten van de gemeentelijke saneringsactiviteiten<br>
+1° (Afschrijvings)kosten van investeringen<br>
+a) nieuwbouw en renovatie :<br>
+de jaarlijkse (afschrijvings-)kost van nieuwbouw- en renovatieprojecten, zijnde (druk-)rioleringen, installaties (IBA's, KWZI's, hydraulische structuren,...) en regenwaterafvoer of -buffering (grachten, WADI's, wachtbekkens).<br>
+b) activa die nodig zijn voor de exploitatie van de infrastructuur (rollend materieel, meubilair en kantoor, werkplaatsuitrusting, software,...) :<br>
+de jaarlijkse (afschrijvings-)kost van rollend materieel, meubilair en kantoor, werkplaatsuitrusting, software,... nodig voor de exploitatie van de gemeentelijke saneringsinfrastructuur.<br>
+c) aansluiting onroerend goed riolering :<br>
+de jaarlijkse (afschrijvings-)kosten van aansluitingen op riolen, voor zover ze als investering (buitengewone dienst) beschouwd worden.<br>
+d) aansluiting onroerend goed IBA :<br>
+de jaarlijkse (afschrijvings-)kosten van aansluitingen op IBA's, voor zover ze als investering (buitengewone dienst) beschouwd worden.<br>
+e) inventarisaties/modelleringen/studies :<br>
+de jaarlijkse (afschrijvings-)kost van inventarisaties, modelleringen en studies verbonden aan de gemeentelijke saneringsinfrastructuur.<br>
+2° Waardeverminderingen :<br>
+per saldo in te vullen, totaal van de toevoegingen en de terugnemingen, voor zover deze toewijsbaar zijn aan de gemeentelijke saneringsactiviteiten.<br>
+3° Voorzieningen voor risico's en kosten :<br>
+per saldo in te vullen, de toevoegingen verminderd met de bestedingen/aanwendingen en de terugnemingen, voor zover deze toewijsbaar zijn aan de gemeentelijke saneringsactiviteiten.<br>
+4° Financiële kosten :<br>
+rentelasten op leningen aangegaan ter financiering van de gemeentelijke saneringsactiviteiten en andere financiële kosten. Indien deze niet rapporteerbaar zijn, wordt een forfaitaire kost berekend.<br>
+5° Exploitatie (riolen, pompstations, IBA, KWZI, grachten) :<br>
+kosten voor onderhoud, herstelling en uitbating van de riolen, pompstations, IBA, KWZI en grachten. De bedragen omvatten de aankopen en voorraadwijzigingen van goederen en diensten en de directe personeelskosten rechtstreeks toewijsbaar aan de exploitatie van de gemeentelijke saneringsinfrastructuur.<br>
+6° Indirecte personeelskosten :<br>
+de indirecte personeelskosten, al dan niet op basis van een verdeelsleutel, toewijsbaar aan de gemeentelijke saneringsactiviteiten.<br>
+7° Overheadkosten :<br>
+alle overige indirecte kosten, al dan niet op basis van een verdeelsleutel, toewijsbaar aan de gemeentelijke saneringsactiviteiten.<br>
+8° Andere operationele kosten<br>
+a) aanmoedigingspremies :<br>
+alle toegestane werkingssubsidies en premies die de uitvoering van de gemeentelijke saneringsverplichting aanmoedigen. Dit zijn subsidies voor IBA's en subsidies in het kader van afkoppeling, buffering en infiltratie van het regenwater. Het betreffen alleen subsidies die rechtstreeks door de gemeente worden toegekend (dus geen gewestelijke subsidies die via de gemeente aan de burger worden toegekend).<br>
+b) andere bedrijfskosten :<br>
+andere operationele kosten die het gevolg zijn van de gemeentelijke saneringsactiviteiten.<br>
+9° Uitzonderlijke kosten :<br>
+alle uitzonderlijke kosten toewijsbaar aan de saneringsactiviteiten.<br>
+III. Resultaatverwerking<br>
+De opsomming van de verschillende wijzen waarop het boekhoudkundig resultaat (overschot of tekort) verwerkt wordt met de bijbehorende bedragen. Voorbeelden zijn overdracht naar het volgend boekjaar en toevoeging aan de reserves.<br>
+IV. Informatie over de aanleg of vervanging van de gemeentelijke saneringsinfrastructuur (per project voor zoverdeze niet met subsidies van het Vlaams Gewest gefinancierd worden).<br>
+1° Type investering (uitbreidingsinvesteringen of vervangingsinvesteringen)<br>
+Uitbreidingsinvesteringen : elke investering waarbij voorafgaandelijk geen gemeentelijke saneringsinfrastructuur aanwezig was.<br>
+Vervangingsinvesteringen :elke investeringwaarbij (een deel van) de bestaande gemeentelijke saneringsinfrastructuur in zijn geheel wordt vervangen.<br>
+2° Inhoudelijk<br>
+f) Aantal lopende meter weg uitbreiding of vervanging :<br>
+het aantal lopende meter weg, dus niet de totale lengte van de buizen.<br>
+g) Tijdsduur project (begin- en einddatum der werken) :<br>
+Begindatum der werken : de datum waarop de uitvoering van een project start.<br>
+Einddatum der werken : de datum van voorlopige oplevering van een project.<br>
+h) Reële investeringsuitgaven :<br>
+de werkelijk aangerekende bedragen (vorderingsstaten of facturen), inclusief de uitgaven voor het herstel van de omgeving in zijn oorspronkelijke staat, exclusief verfraaiingswerken.<br>
+i) Aantal nieuwe aansluitingen gerealiseerd :<br>
+het aantal nieuwe aansluitingen dat een project omvat.<br>
+Aantal nieuwe IBA's geplaatst :<br>
+het aantal nieuwe IBA's dat een project omvat.<br>
+V. Informatie over de aanwezige gemeentelijke saneringsinfrastructuur (ter onderbouwing van de kosten in II) (indien niet exact gekend, wordt een inschatting gemaakt)<br>
+1° Aantal meter weg riolering :<br>
+het aantal lopende meter weg, dus niet de totale lengte van de buizen.<br>
+2° Aantal pompstations :<br>
+het totaal aantal pompstations aanwezig in het werkingsgebied van de rioolbeheerder.<br>
+3° Aantal IBA's :<br>
+het totaal aantal IBA's aanwezig in het werkingsgebied van de rioolbeheerder.<br>
+4° Aantal KWZI's :<br>
+het totaal aantal KWZI's aanwezig in het werkingsgebied van de rioolbeheerder.<br>
+5° Aantal meter grachten :<br>
+het totaal aantal meter grachten aanwezig in het werkingsgebied van de rioolbeheerder.<br>
+6° Percentage van de totale rioleringslengte dat werd geïnventariseerd/ gemodelleerd (o.b.v. het aantal inwoners) :<br>
+percentage dat aangeeft welk deel van de riolering geïnventariseerd/gemodelleerd is in het werkingsgebied van de rioolbeheerder.<br>
+7° Aantal aansluitingen onroerend goed :<br>
+het totaal aantal aansluitingen aanwezig in het werkingsgebied van de rioolbeheerder.<br>
+<br>
+[Bij MB van 20 februari 2018 wordt de lijst van bijlage 1&nbsp;b met ingang van 15 april 2018 als volgt aangevuld:<br>
+<br>
+4° De operationele en boekhoudkundige karakteristieken van de rioolbeheerder worden aan de rapportering toegevoegd.<br>
+5° Onder I.3° Financiële opbrengsten worden, naast de afschrijvingen op subsidies zoals bedoeld onder het punt a) afschrijvingen op subsidies overeenkomstig artikel 32duodecies van de wet van 26 maart 1971 : de verrekeningen van subsidies, die ontvangen zijn voor gemeentelijke rioleringsprojecten, IBA's en KWZI's en die in het jaar waarover gerapporteerd wordt, geboekt zijn, ook de andere afschrijvingen op kapitaalsubsidies gerapporteerd die ontvangen zijn in het kader van de gemeentelijke saneringsactiviteiten.<br>
+6° Onder II.1° (Afschrijvings)kosten van investeringen worden, naast de afschrijvingskosten van inventarisaties, modelleringen en studies zoals bedoeld onder het punt f) inventarisaties/modelleringen/studies : de jaarlijkse (afschrijvings)kost van inventarisaties, modelleringen en studies verbonden aan de gemeentelijke sanering, ook de (afschrijvings)kosten van andere immateriële activa gerapporteerd die nodig zijn in het kader van de gemeentelijke saneringsactiviteiten.<br>
+7° Naast de afschrijvingskosten zoals bedoeld onder het punt II.1° (Afschrijvings)kosten van investeringen, worden ook de afschrijvingskosten van andere materiële activa die nodig zijn in het kader van de gemeentelijke saneringsactiviteiten, toegevoegd aan de rapportering.<br>
+8° Onder II.8° Andere bedrijfskosten worden, naast de aanmoedigingspremies zoals bedoeld onder het punt a) aanmoedigingspremies, ook de andere werkingssubsidies en premies gerapporteerd die toegestaan zijn in het kader van de gemeentelijke saneringsactiviteiten].</p>
