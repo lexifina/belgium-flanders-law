@@ -8,7 +8,22 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<br />1° behandelingspleegzorg : een vorm van pleegzorg waarbij een dienst voor pleegzorg al dan niet in combinatie met een andere typemodule buiten de pleegzorg of een andere vorm van hulp- en dienstverlening of in samenwerking met een psychiatrische ziekenhuisdienst wat de psychiatrische gezinsverpleging betreft, voorziet in een behandeling voor een pleegkind of een pleeggast en een intensieve training en begeleiding van de pleegzorger;<br />2° bestandspleeggezin : een pleeggezin dat een pleegkind of een pleeggast opvangt die voordien geen deel uitmaakte van het eigen familiale of sociale netwerk;<br />3° module : een afgebakende eenheid van hulpverlening of zorg, gebaseerd op één typemodule;<br />4° netwerkpleeggezin : een pleeggezin dat een pleegkind of een pleeggast uit het eigen familiale of sociale netwerk opvangt;<br />5° ondersteunende pleegzorg : een vorm van pleegzorg ter ondersteuning van het gezin van het pleegkind of de pleeggast, hetzij voor een korte aaneengesloten periode, hetzij met afwisselend verblijf in dit gezin en in het pleeggezin voor meerdere korte periodes;<br />6° perspectiefbiedende pleegzorg : pleegzorg met een continu en langdurig karakter;<br />7° perspectiefzoekende pleegzorg : een vorm van pleegzorg gedurende een periode van maximaal zes maanden, eenmalig verlengbaar met maximaal zes maanden, waarbij een duidelijk perspectief voor het pleegkind of de pleeggast wordt ontwikkeld;<br />8° pleeggast : elke meerderjarige voor wie pleegzorg wordt georganiseerd;<br />9° pleeggezin : het gezin van de pleegzorger;<br />10° pleegkind : elke minderjarige voor wie pleegzorg wordt georganiseerd;<br />11° pleegzorg : zorg waarbij een pleegzorger vrijwillig, onder begeleiding van een dienst voor pleegzorg en tegen een kostenvergoeding, een of meerdere pleegkinderen en/of pleeggasten opvangt;<br />12° pleegzorger : een meerderjarige natuurlijke persoon die een of meer pleegkinderen en/of pleeggasten in het eigen gezin opvangt;<br />13° psychiatrische gezinsverpleging : de functie zoals bedoeld in het koninklijk besluit van 10 april 1991 houdende vaststelling van de normen waaraan de functie van psychiatrische gezinsverpleging moet voldoen om te worden erkend;<br />14° typemodule : een eenheid van hulpverlening of zorg, gebaseerd op een functie of op een specifiek omschreven kernproces van hulpverlening of zorg.<br /><br />
+In dit decreet wordt verstaan onder :<br>
+1° behandelingspleegzorg: een vorm van pleegzorg waarbij een dienst voor pleegzorg al dan niet in combinatie met een andere typemodule buiten de pleegzorg of met een andere vorm van hulp- en dienstverlening, of in samenwerking met een psychiatrische ziekenhuisdienst voor wat de psychiatrische gezinsverpleging betreft, voorziet in een behandeling voor een pleegkind of pleeggast of voorziet in training en begeleiding van de pleegzorger of van de gezinnen waarvan de ouders of wettelijke vertegenwoordigers van de pleegkinderen of pleeggasten deel uitmaken. Die behandeling of training en begeleiding komt boven op de begeleiding, vermeld in artikel 7, 10°, 11° en 12°, die verstrekt wordt door de dienst voor pleegzorg. Die behandeling of training en begeleiding is duidelijk beschreven en wetenschappelijk onderbouwd, en is specifieker en intensiever dan wat de begeleiding, vermeld in artikel 7, 10°, 11° en 12°, beoogt;<br>
+2° bestandspleeggezin : een pleeggezin dat een pleegkind of een pleeggast opvangt die voordien geen deel uitmaakte van het eigen familiale of sociale netwerk;<br>
+3° module : een afgebakende eenheid van hulpverlening of zorg, gebaseerd op één typemodule;<br>
+4° netwerkpleeggezin : een pleeggezin dat een pleegkind of een pleeggast uit het eigen familiale of sociale netwerk opvangt;<br>
+5° ondersteunende pleegzorg : een vorm van pleegzorg ter ondersteuning van het gezin van het pleegkind of de pleeggast, hetzij voor een korte aaneengesloten periode, hetzij met afwisselend verblijf in dit gezin en in het pleeggezin voor meerdere korte periodes;<br>
+6° perspectiefbiedende pleegzorg : pleegzorg met een continu en langdurig karakter;<br>
+7° perspectiefzoekende pleegzorg : een vorm van pleegzorg gedurende een periode van maximaal een jaar, eenmalig verlengbaar met maximaal zes maanden, waarbij een duidelijk perspectief voor het pleegkind of de pleeggast wordt ontwikkeld;<br>
+8° pleeggast : elke meerderjarige, met uitzondering van de meerderjarigen voor wie tot een voortzetting van de jeugdhulpverlening als vermeld in artikel 18, § 3, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp wordt beslist, voor wie pleegzorg wordt georganiseerd;<br>
+9° pleeggezin : het gezin van de pleegzorger;<br>
+10° pleegkind: een persoon voor wie pleegzorg wordt georganiseerd in het kader van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+11° pleegzorg: zorg waarbij een pleeggezin vrijwillig, onder begeleiding van een dienst voor pleegzorg en tegen een kostenvergoeding, een of meer pleegkinderen en/of pleeggasten opvangt, met behoud van de toepassing van artikel 16, derde lid;;<br>
+12° pleegzorger : een meerderjarige natuurlijke persoon die een of meer pleegkinderen en/of pleeggasten in het eigen gezin opvangt;<br>
+13° psychiatrische gezinsverpleging : de functie zoals bedoeld in het koninklijk besluit van 10 april 1991 houdende vaststelling van de normen waaraan de functie van psychiatrische gezinsverpleging moet voldoen om te worden erkend;<br>
+14° typemodule : een eenheid van hulpverlening of zorg, gebaseerd op een functie of op een specifiek omschreven kernproces van hulpverlening of zorg.<br>
+&nbsp;
 
 ## HOOFDSTUK 2 Aanbod van pleegzorg
 
@@ -67,13 +82,44 @@ De Vlaamse Regering bepaalt de vergunningsprocedure, die de mogelijkheid bevat o
 
 § 1. De Vlaamse Regering subsidieert de vergunde diensten voor pleegzorg op basis van de reëel ingezette typemodules en het aantal begeleidingen als bedoeld in artikel 7, § 2.<br /><br />De Vlaamse Regering kan bijkomende subsidievoorwaarden bepalen, met dien verstande dat enkel voor de behandelingspleegzorg een maximaal subsidieerbare inzet van typemodules en modules als bedoeld in artikel 3 kan worden bepaald.<br /><br />§ 2. De Vlaamse Regering kan een investeringssubsidie en een investeringswaarborg zoals bedoeld in artikel 2, 5° en 6°, van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden toekennen aan een vergunde dienst voor pleegzorg.<br /><br />
 
+### ART 13/1.
+
+Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering naast de subsidie, vermeld in artikel 13, aan de vergunde diensten voor pleegzorg of aan de partnerorganisatie een subsidie verlenen om tijdelijke projecten uit te voeren. De Vlaamse Regering kan daarvoor de nadere regels bepalen.<br>
+<br>
+In dit artikel wordt verstaan onder project: bijzondere initiatieven die zich richten tot een specifieke doelgroep of op een bijzondere probleemsituatie.
+
 ## HOOFDSTUK 4 Pleegzorgers en pleeggezinnen
 
 ## Afdeling 1 Screening
 
 ### ART. 14.
 
-§ 1. Per pleegkind of pleeggast moet een kandidaat-pleegzorger of pleegzorger beschikken over een attest om dit pleegkind of deze pleeggast te kunnen opvangen.<br /><br />Het attest wordt uitgereikt door de vergunde dienst voor pleegzorg in wiens werkingsgebied de kandidaat-pleegzorger of pleegzorger zijn hoofdverblijfplaats heeft.<br /><br />§ 2. De dienst voor pleegzorg neemt op basis van de in artikel 7, § 2, eerste lid, 3°, vermelde screening binnen een redelijke termijn een schriftelijke gemotiveerde beslissing over de toekenning of de weigering van een attest. Hierbij geldt dat de dienst een attest toekent indien het kandidaat-pleeggezin of pleeggezin aan de volgende voorwaarden voldoet :<br />1° voor alle meerderjarige leden van het kandidaat-pleeggezin of het pleeggezin wordt een recent uittreksel uit het strafregister volgens model 2 aan de dienst voor pleegzorg voorgelegd, waaruit blijkt dat er in hoofde van deze personen geen elementen bestaan die onverzoenbaar zijn met pleegzorg;<br />2° het pleeggezin heeft voldoende draagkracht om het pleegkind of de pleeggast een stabiel leefklimaat te bieden;<br />3° de leden van het gezin van de kandidaat-pleegzorger of de pleegzorger worden betrokken bij de kandidaatstelling door de kandidaat-pleegzorger of de pleegzorger.<br /><br />De dienst voor pleegzorg bezorgt een afschrift van de beslissing zoals bedoeld in het eerste lid aan de kandidaat-pleegzorger of pleegzorger.<br /><br />§ 3. In afwijking van § 1 kan een netwerkpleeggezin een pleegkind of een pleeggast opvangen in het kader van pleegzorg zonder dat de pleegzorger beschikt over een attest van een vergunde dienst voor pleegzorg wanneer :<br />1° een pleegkind aan een pleeggezin wordt toegewezen door de jeugdrechtbank;<br />2° de onmiddellijke opvang van een pleegkind of een pleeggast door een pleeggezin noodzakelijk is in het belang van het pleegkind of de pleeggast; <br />3° het pleegkind of de pleeggast reeds verblijft bij het netwerkpleeggezin.<br /><br />In alle gevallen bepaald in het eerste lid moet de pleegzorger uit het netwerkpleeggezin zo snel mogelijk en uiterlijk binnen zes weken beschikken over een attest van een vergunde dienst voor pleegzorg.<br /><br />§ 4. De pleegzorger meldt een wijziging van de gezinssamenstelling tijdens de pleegzorg aan de dienst voor pleegzorg. Voor elke meerderjarige die buiten de pleegzorg om lid wordt van het pleeggezin tijdens de pleegzorg moet worden voldaan aan § 2.<br /><br />De dienst voor pleegzorg kan te allen tijde, indien hij oordeelt dat het pleeggezin niet langer voldoende draagkracht heeft om een pleegkind of een pleeggast op te vangen, een attest intrekken met een schriftelijke gemotiveerde beslissing. De dienst voor pleegzorg bezorgt een afschrift van deze beslissing aan de pleegzorger.<br /><br />§ 5. Bij een weigering of een intrekking van een attest kan een kandidaat-pleegzorger of een pleegzorger een herscreening vragen bij een andere dienst voor pleegzorg die wordt aangeduid volgens een jaarlijks wisselend rotatiesysteem dat door de diensten voor pleegzorg wordt bepaald. Deze andere dienst kan het attest alsnog toekennen of opnieuw toekennen volgens de voorwaarden bepaald in § 2.<br /><br />De Vlaamse Regering bepaalt de regels om een bezwaarschrift in te dienen tegen de weigering van een attest naar aanleiding van een herscreening als bedoeld in het eerste lid. Het bezwaarschrift wordt behandeld door de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin als bedoeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Weizijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin.<br /><br />
+§ 1. Per pleegkind of pleeggast moet een kandidaat-pleeggezin of pleeggezin beschikken over een attest om dit pleegkind of deze pleeggast te kunnen opvangen.<br>
+<br>
+Het attest wordt uitgereikt door de vergunde dienst voor pleegzorg in wiens werkingsgebied de kandidaat-pleeggezin of pleeggezin zijn hoofdverblijfplaats heeft.<br>
+<br>
+§ 2. De dienst voor pleegzorg neemt op basis van de in artikel 7, § 2, eerste lid, 3°, vermelde screening binnen een redelijke termijn een schriftelijke gemotiveerde beslissing over de toekenning of de weigering van een attest. Hierbij geldt dat de dienst een attest toekent indien het kandidaat-pleeggezin of pleeggezin aan de volgende voorwaarden voldoet :<br>
+1° voor alle meerderjarige leden van het kandidaat-pleeggezin of het pleeggezin wordt een recent uittreksel uit het strafregister volgens model 2 aan de dienst voor pleegzorg voorgelegd, waaruit blijkt dat er in hoofde van deze personen geen elementen bestaan die onverzoenbaar zijn met pleegzorg;<br>
+2° het pleeggezin heeft voldoende draagkracht om het pleegkind of de pleeggast een stabiel leefklimaat te bieden;<br>
+3° de leden van het&nbsp;kandidaat-pleeggezin of het pleeggezin worden betrokken bij de kandidaatstelling door het kandidaat-pleeggezin of het pleeggezin.<br>
+<br>
+De dienst voor pleegzorg bezorgt een afschrift van de beslissing zoals bedoeld in het eerste lid aan het kandidaat-pleeggezin of het pleeggezin.<br>
+<br>
+§ 3. In afwijking van § 1 kan een netwerkpleeggezin een pleegkind of een pleeggast opvangen in het kader van pleegzorg zonder dat het netwerkpleeggezin beschikt over een attest van een vergunde dienst voor pleegzorg wanneer :<br>
+1° een pleegkind aan een pleeggezin wordt toegewezen door de jeugdrechtbank;<br>
+2° de onmiddellijke opvang van een pleegkind of een pleeggast door een pleeggezin noodzakelijk is in het belang van het pleegkind of de pleeggast;<br>
+3° het pleegkind of de pleeggast reeds verblijft bij het netwerkpleeggezin.<br>
+<br>
+In alle gevallen bepaald in het eerste lid moet het netwerkpleeggezin zo snel mogelijk en uiterlijk binnen zes weken beschikken over een attest van een vergunde dienst voor pleegzorg.<br>
+<br>
+§ 4. Het pleeggezin meldt een wijziging van de gezinssamenstelling tijdens de pleegzorg aan de dienst voor pleegzorg. Voor elke meerderjarige die buiten de pleegzorg om lid wordt van het pleeggezin tijdens de pleegzorg moet worden voldaan aan § 2.<br>
+<br>
+De dienst voor pleegzorg kan te allen tijde, indien hij oordeelt dat het pleeggezin niet langer voldoende draagkracht heeft om een pleegkind of een pleeggast op te vangen, een attest intrekken met een schriftelijke gemotiveerde beslissing. De dienst voor pleegzorg bezorgt een afschrift van deze beslissing aan het pleeggezin.<br>
+<br>
+§ 5. Bij een weigering of een intrekking van een attest kan een kandidaat-pleeggezin of een pleeggezin een herscreening vragen bij een andere dienst voor pleegzorg die wordt aangeduid volgens een jaarlijks wisselend rotatiesysteem dat door de diensten voor pleegzorg wordt bepaald. Deze andere dienst kan het attest alsnog toekennen of opnieuw toekennen volgens de voorwaarden bepaald in § 2.<br>
+<br>
+De Vlaamse Regering bepaalt de regels om een bezwaarschrift in te dienen tegen de weigering van een attest naar aanleiding van een herscreening als bedoeld in het eerste lid. Het bezwaarschrift wordt behandeld door de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin als bedoeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Weizijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin.<br>
+&nbsp;
 
 ### ART. 15.
 
@@ -83,7 +129,16 @@ Een dienst voor pleegzorg meldt de weigering of intrekking van een attest aan de
 
 ### ART. 16.
 
-De Vlaamse Regering kent per pleegkind of pleeggast en per opvangdag in het pleeggezin een forfaitaire kostenvergoeding toe aan de pleegzorgers met een attest als bedoeld in artikel 14, § 1. Deze kostenvergoeding kan onder meer verschillen op basis van :<br />- de leeftijd van het pleegkind of de pleeggast;<br />- de vormen van pleegzorg en de typemodules binnen de pleegzorg als bedoeld in artikel 3;<br />- de beschikbaarheid in hoofde van de pleegzorgers over de gezinsbijslag ten voordele van het pleegkind of de pleeggast.<br /><br />Voor de maximale periode van zes weken als bedoeld in artikel 14, § 3, kent de Vlaamse Regering eveneens een forfaitaire kostenvergoeding toe als bedoeld in het eerste lid wanneer aan de pleegzorger uit het netwerkpleeggezin bij het aflopen van deze periode een attest wordt toegekend door een vergunde dienst voor pleegzorg.<br /><br />
+De Vlaamse Regering kent per pleegkind of pleeggast en per opvangdag in het pleeggezin een forfaitaire kostenvergoeding toe aan de een of meer pleeggezinnen met een attest als bedoeld in artikel 14, § 1. Deze kostenvergoeding kan onder meer verschillen op basis van :<br>
+- de leeftijd van het pleegkind of de pleeggast;<br>
+- de vormen van pleegzorg en de typemodules binnen de pleegzorg als bedoeld in artikel 3;<br>
+- de beschikbaarheid in hoofde van de een of meer pleeggezinnen over de gezinsbijslag ten voordele van het pleegkind of de pleeggast;<br>
+- het aantal pleeggezinnen die het pleegkind opvangen.<br>
+<br>
+Voor de maximale periode van zes weken als bedoeld in artikel 14, § 3, kent de Vlaamse Regering eveneens een forfaitaire kostenvergoeding toe als bedoeld in het eerste lid wanneer aan&nbsp;het netwerkpleeggezin bij het aflopen van deze periode een attest wordt toegekend door een vergunde dienst voor pleegzorg.<br>
+<br>
+Vanaf de dag dat er een verzoekschrift tot adoptie als vermeld in artikel 1231.3 van het Gerechtelijk Wetboek is neergelegd, wordt de betaling van de forfaitaire kostenvergoeding geschorst. Als de adoptie niet doorgaat, wordt de forfaitaire kostenvergoeding met terugwerkende kracht terugbetaald.<br>
+&nbsp;
 
 ### ART. 17.
 
@@ -97,7 +152,30 @@ De Vlaamse Regering kan regels bepalen voor het innen, per opvangdag, van   een 
 
 ### ART. 19.
 
-§ 1. De Vlaamse Regering sluit in het kader van haar beleid met betrekking tot pleegzorg, op basis van een oproep voor een partnerorganisatie, een convenant met één rechtspersoon zonder winstoogmerk.<br /><br />Deze rechtspersoon voldoet aan de volgende voorwaarden :<br />1° hij beschikt over deskundigheid op het vlak van pleegzorg, ontwikkelt deze en draagt deze uit;<br />2° hij vertegenwoordigt de pleegkinderen, de pleeggasten, de pleegzorgers, de gezinnen waarvan de ouders of wettelijke vertegenwoordigers van de pleegkinderen of de pleeg-gasten deel uitmaken en de diensten voor pleegzorg;<br />3° hij verbindt zich in het convenant om minstens volgende taken te vervullen :<br />a) het sensibiliseren rond en bekendmaken van pleegzorg;<br />b) het ondersteunen van de diensten voor pleegzorg;<br />c) het opzetten van steungroepen voor pleegkinderen en pleegzorgers;<br />4° hij treedt op als structurele gesprekspartner voor de pleegzorg met de Vlaamse Gemeenschap.<br /><br />De Vlaamse Regering kan bijkomende voorwaarden bepalen waaraan de rechtspersoon als bedoeld in het eerste lid moet voldoen om als partnerorganisatie een convenant te kunnen afsluiten met de Vlaamse Regering.<br /><br />§ 2. Het convenant geldt voor minimaal drie en maximaal vijf jaar en omvat het beleidsplan voor de duurtijd van het convenant.<br /><br />Het beleidsplan bevat de resultaatgebieden voor de uitvoering van het convenant en de evaluatiecriteria met betrekking tot de resultaatgebieden om onder meer de uitvoering van het convenant te kunnen evalueren.<br /><br />De Vlaamse Regering kan bijkomende voorwaarden bepalen waaraan het convenant en het beleidsplan moeten voldoen.<br /><br />§ 3. De Vlaamse Regering bepaalt de subsidie en de subsidievoorwaarden voor de partnerorganisatie.<br /><br />
+§ 1. De Vlaamse Regering sluit in het kader van haar beleid met betrekking tot pleegzorg, op basis van een oproep voor een partnerorganisatie, een convenant met één rechtspersoon zonder winstoogmerk.<br>
+<br>
+Deze rechtspersoon voldoet aan de volgende voorwaarden :<br>
+1° hij beschikt over deskundigheid op het vlak van pleegzorg, ontwikkelt deze en draagt deze uit;<br>
+2° hij vertegenwoordigt de pleegkinderen, de pleeggasten, de pleegzorgers, de gezinnen waarvan de ouders of wettelijke vertegenwoordigers van de pleegkinderen of de pleeg-gasten deel uitmaken en de diensten voor pleegzorg;<br>
+3° hij verbindt zich in het convenant om minstens volgende taken, in nauwe samenwerking met de diensten voor pleegzorg,&nbsp;&nbsp;te vervullen :<br>
+a) het sensibiliseren rond en bekendmaken van pleegzorg;<br>
+b) het ondersteunen van de diensten voor pleegzorg;<br>
+c) registratie van beleidsrelevante parameters;<br>
+4° hij treedt op als structurele gesprekspartner voor de pleegzorg met de Vlaamse Gemeenschap.<br>
+In het geval, vermeld in punt 3°, c), worden de beleidsrelevante parameters jaarlijks vastgelegd in een bijlage bij de convenant. De beleidsrelevante parameters worden bepaald op basis van de jaarlijkse monitoring.<br>
+<br>
+De Vlaamse Regering kan bijkomende voorwaarden bepalen waaraan de rechtspersoon als bedoeld in het eerste lid moet voldoen om als partnerorganisatie een convenant te kunnen afsluiten met de Vlaamse Regering.<br>
+<br>
+De Vlaamse Regering kan aan de partnerorganisatie aanvullende taken opleggen.<br>
+<br>
+§ 2. Het convenant geldt voor minimaal drie en maximaal vijf jaar en omvat het beleidsplan voor de duurtijd van het convenant.<br>
+<br>
+Het beleidsplan bevat de resultaatgebieden voor de uitvoering van het convenant en de evaluatiecriteria met betrekking tot de resultaatgebieden om onder meer de uitvoering van het convenant te kunnen evalueren.<br>
+<br>
+De Vlaamse Regering kan bijkomende voorwaarden bepalen waaraan het convenant en het beleidsplan moeten voldoen.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de subsidie en de subsidievoorwaarden voor de partnerorganisatie.<br>
+&nbsp;
 
 ## HOOFDSTUK 6 Gegevensverwerking en -uitwisseling
 
