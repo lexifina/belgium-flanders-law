@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029198,
+  "title": "Besluit van de Vlaamse Regering van 2018-03-16 tot wijziging van het VLAREBO-besluit van 14 december 2007, wat betreft bodemsaneringsorganisaties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029198/VolledigDocument?datum=2018-04-15",
+  "source_sha256": "f577049cfc75ed33160c31009c726e96fe24d273725ef20fef040f61e0c6aac9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029198&param=informatie",
+  "as_of": "2018-04-15",
+  "made": "2018-03-16",
+  "gazette": "2018-04-05",
+  "numac": 2018011613,
+  "document_start": "2018-04-15",
+  "document_end": null,
+  "in_force": "2018-04-15",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2018-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
