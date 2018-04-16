@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029208,
+  "title": "Ministerieel besluit van 2018-03-23 tot vaststelling van de urencontingenten gezinszorg 2018 van de private diensten voor gezinszorg en aanvullende thuiszorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029208/VolledigDocument?datum=2018-04-16",
+  "source_sha256": "f278c15f7a3bb397b8ed55d4b21a7c913338af0f5a36ee07026e71b1e4f44d09",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029208&param=informatie",
+  "as_of": "2018-04-16",
+  "made": "2018-03-23",
+  "gazette": "2018-04-06",
+  "numac": 2018011643,
+  "document_start": "2018-04-16",
+  "document_end": null,
+  "in_force": "2018-04-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-04-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
