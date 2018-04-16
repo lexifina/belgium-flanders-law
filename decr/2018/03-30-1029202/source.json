@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029202,
+  "title": "Decreet van 2018-03-30 betreffende het beheer en de exploitatie van het havengebied van Gent en tot specifieke afwijkingen van het Havendecreet voor het havengebied van Gent",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029202/VolledigDocument?datum=2018-04-16",
+  "source_sha256": "69d7a25e2b6af7818261c43b1c1f7311816ddebf004c764ce14016136eb96fad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029202&param=informatie",
+  "as_of": "2018-04-16",
+  "made": "2018-03-30",
+  "gazette": "2018-04-06",
+  "numac": 2018030753,
+  "document_start": "2018-04-16",
+  "document_end": null,
+  "in_force": "2018-04-16",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-04-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
