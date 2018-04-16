@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029204,
+  "title": "Besluit van de Vlaamse Regering van 2018-03-16 houdende de wijziging van diverse bepalingen van het koninklijk besluit van 12 december 2001 betreffende de dienstencheques",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029204/VolledigDocument?datum=2018-04-16",
+  "source_sha256": "f473ae5427ea6e3478ca5e079d68a6b7a800a0c2d104f672ad3fff702e40311f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029204&param=informatie",
+  "as_of": "2018-04-16",
+  "made": "2018-03-16",
+  "gazette": "2018-04-06",
+  "numac": 2018030717,
+  "document_start": "2018-04-16",
+  "document_end": null,
+  "in_force": "2018-04-16",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2018-04-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
