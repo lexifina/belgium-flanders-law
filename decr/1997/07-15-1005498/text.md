@@ -1413,7 +1413,27 @@ Bij ontstentenis van een toewijzingsreglement gelden de door de Vlaamse Regering
 
 ### ART. 97.
 
-De huurder stelt bij de toewijzing van de sociale huurwoning een waarborg   ter nakoming van zijn verbintenissen. De opbrengst van de waarborg is bestemd   voor de huurder. De Vlaamse regering bepaalt de voorwaarden   dienaangaande.<BR><BR>De Vlaamse regering bepaalt, met inachtneming van de   navolgende bepalingen, welke kosten en vergoedingen ten laste van de verhuurder   en de huurder kunnen worden gelegd en welke regels gelden voor de inning en de   controle erop.<BR><BR>Alle kosten en vergoedingen die betrekking hebben op   diensten of leveringen aan de huurder, die in de huur-overeenkomst zijn   omschreven, komen ten laste van de huurder ten bedrage van de reële uitgaven   waarmee ze overeenstemmen. Ze zijn niet begrepen in de huurprijs.<BR><BR>Alle   lasten die betrekking hebben op het bezit en de uitoefening van zakelijke   rechten op het onroerend goed komen ten laste van de verhuurder.<BR><BR>De   verhuurder of een door hem aangestelde onafhankelijke deskundige stelt een   omstandige plaatsbeschrijving op zowel bij de aanvang als bij de beëindiging van   de huur overeenkomst. De plaatsbeschrijving bij de aanvang wordt bij de   huurovereenkomst gevoegd. De plaatsbeschrijving wordt tegensprekelijk door   ondertekening door de verhuurder en de huurder. Als de partijen geen   overeenstemming bereiken, kan de vrederechter een deskundige aanwijzen die een   plaatsbeschrijving opmaakt. Het vonnis is uitvoerbaar niettegenstaande verzet en   is niet vatbaar voor hoger beroep.<BR><BR>De huurder betaalt maximaal de helft   van de kosten van de plaatsbeschrijving, vermeld in het vijfde lid,   geplafonneerd tot een bedrag dat de Vlaamse Regering vaststelt.
+§ 1. De huurder stelt bij de toewijzing van de sociale huurwoning een waarborg ter nakoming van zijn verbintenissen. De opbrengst van de waarborg is bestemd voor de huurder. De Vlaamse Regering bepaalt de voorwaarden dienaangaande.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt, met inachtneming van de navolgende bepalingen, welke kosten en vergoedingen ten laste van de verhuurder en de huurder kunnen worden gelegd en welke regels gelden voor de inning en de controle erop.<br>
+<br>
+Alle kosten en vergoedingen die betrekking hebben op diensten of leveringen aan de huurder, die in de huurovereenkomst zijn omschreven, komen ten laste van de huurder ten bedrage van de reële uitgaven waarmee ze overeenstemmen. Ze zijn niet begrepen in de huurprijs.<br>
+<br>
+Alle lasten die betrekking hebben op het bezit en de uitoefening van zakelijke rechten op het onroerend goed komen ten laste van de verhuurder.<br>
+<br>
+§ 3. De verhuurder kan een billijk deel van het financiële voordeel dat de huurder geniet door het gebruik van hernieuwbare energiebronnen als vermeld in artikel 1.1.3, 65°, van het Energiedecreet van 8 mei 2009, recupereren via een periodieke vergoeding. Die vergoeding kan pas worden aangerekend nadat de installatie in gebruik is genomen.<br>
+<br>
+De periodieke vergoeding, vermeld in het eerste lid, mag nooit meer bedragen dan het werkelijke voordeel dat de huurder in diezelfde periode heeft genoten en kan forfaitair berekend worden op basis van een installatie die afgestemd is op een normaal verbruik.<br>
+<br>
+De periodieke vergoeding is maximaal de som van de jaarlijkse lineaire afschrijving van de investering over de verwachte levensduur van de installatie, en de jaarlijkse financierings-, beheers-, onderhouds- en herstellingskosten naar verhouding van de periode die wordt aangerekend.<br>
+<br>
+Als de verhuurder een vergoeding ontvangt die hoger is dan het maximale bedrag, vermeld in het tweede en derde lid, betaalt hij het te veel geïnde bedrag terug aan de huurder.<br>
+<br>
+De Vlaamse Regering bepaalt de berekeningswijze van de periodieke vergoeding, alsook de gevallen waarbij de periodieke vergoeding verminderd of niet aangerekend wordt.<br>
+<br>
+§ 4. De verhuurder of een door hem aangestelde onafhankelijke deskundige stelt een omstandige plaatsbeschrijving op zowel bij de aanvang als bij de beëindiging van de huurovereenkomst. De plaatsbeschrijving bij de aanvang wordt bij de huurovereenkomst gevoegd. De plaatsbeschrijving wordt tegensprekelijk door ondertekening door de verhuurder en de huurder. Als de partijen geen overeenstemming bereiken, kan de vrederechter een deskundige aanwijzen die een plaatsbeschrijving opmaakt. Het vonnis is uitvoerbaar niettegenstaande verzet en is niet vatbaar voor hoger beroep.<br>
+<br>
+De huurder betaalt maximaal de helft van de kosten van de plaatsbeschrijving, vermeld in het eerste lid, geplafonneerd tot een bedrag dat de Vlaamse Regering vaststelt.
 
 ### ART 97bis.
 
