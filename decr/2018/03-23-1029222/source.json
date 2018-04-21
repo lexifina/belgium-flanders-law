@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029222,
+  "title": "Decreet van 2018-03-23 houdende wijziging van artikel 97 van de Vlaamse Wooncode, wat het stimuleren van hernieuwbare energie betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029222/VolledigDocument?datum=2018-04-21",
+  "source_sha256": "69170bd8f1fb3969d25ef70968383773ea70691050308921111b1718327073bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029222&param=informatie",
+  "as_of": "2018-04-21",
+  "made": "2018-03-23",
+  "gazette": "2018-04-11",
+  "numac": 2018030724,
+  "document_start": "2018-04-21",
+  "document_end": null,
+  "in_force": "2018-04-21",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2018-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
