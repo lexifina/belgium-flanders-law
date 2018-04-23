@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029231,
+  "title": "Besluit van de Vlaamse Regering van 2018-03-23 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 9 september 2005 betreffende de geografische indeling van watersystemen en de organisatie van het integraal waterbeleid in uitvoering van Titel I van het decreet van 18 juli 2003 betreffende het integraal waterbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029231/VolledigDocument?datum=2018-04-23",
+  "source_sha256": "be96a041683d3c60cf145e3a14030a2cfbeb4c4bce78cc830d89f65ee41b5e78",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029231&param=informatie",
+  "as_of": "2018-04-23",
+  "made": "2018-03-23",
+  "gazette": "2018-04-13",
+  "numac": 2018030797,
+  "document_start": "2018-04-23",
+  "document_end": null,
+  "in_force": "2018-04-23",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2018-04-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
