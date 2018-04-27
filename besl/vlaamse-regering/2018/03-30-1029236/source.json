@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029236,
+  "title": "Besluit van de Vlaamse Regering van 2018-03-30 houdende de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2018 in het kader van bijkomende middelen voor BSO vrachtwagenchauffeur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029236/VolledigDocument?datum=2018-04-27",
+  "source_sha256": "9c8bb34df50eefb754068e45bce11002668e6d5d24e7c061072df11eabab757c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029236&param=informatie",
+  "as_of": "2018-04-27",
+  "made": "2018-03-30",
+  "gazette": "2018-04-17",
+  "numac": 2018030801,
+  "document_start": "2018-04-27",
+  "document_end": null,
+  "in_force": "2018-04-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-04-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
