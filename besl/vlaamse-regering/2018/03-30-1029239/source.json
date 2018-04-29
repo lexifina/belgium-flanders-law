@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029239,
+  "title": "Besluit van de Vlaamse Regering van 2018-03-30 houdende goedkeuring van de aanvragen tot kwijtschelding van de leningsschuld van de energiehuizen, voor het begrotingsjaar 2018",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029239/VolledigDocument?datum=2018-04-29",
+  "source_sha256": "0f9c6dab671eb2f24a1351885f49ec8138c720cd93194f1db04f03708b7e52cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029239&param=informatie",
+  "as_of": "2018-04-29",
+  "made": "2018-03-30",
+  "gazette": "2018-04-19",
+  "numac": 2018040116,
+  "document_start": "2018-04-29",
+  "document_end": null,
+  "in_force": "2018-04-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-04-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
