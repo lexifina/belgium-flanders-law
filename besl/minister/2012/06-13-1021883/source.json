@@ -2,16 +2,16 @@
   "codex_id": 1021883,
   "title": "Ministerieel besluit van 2012-06-13 tot vaststelling van de modellen van de onderrichtingen voor de kiezer voor de gelijktijdige verkiezingen van de gemeenteraden, de stadsdistrictsraden, de rechtstreekse verkiezingen van de raden voor maatschappelijk welzijn en de verkiezingen van de provincieraden",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021883/VolledigDocument?datum=2012-07-12",
-  "source_sha256": "266c92d35fd666c6b5ad7bb412b192cc3c7061a4ed2077ef40bdea5d68b4c572",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021883/VolledigDocument?datum=2018-04-29",
+  "source_sha256": "3a3e5d227ffa8360fac42bf8877fa117bf13fe886371cfe06d612962d92876ea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021883&param=informatie",
-  "as_of": "2012-07-12",
+  "as_of": "2018-04-29",
   "made": "2012-06-13",
   "gazette": "2012-07-02",
   "numac": 2012035688,
   "document_start": "2012-07-12",
   "document_end": "2018-04-28",
-  "in_force": "2012-07-12",
+  "in_force": "2018-04-29",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2012-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-04-29; future article versions excluded; article text as the API gives it"
 }
