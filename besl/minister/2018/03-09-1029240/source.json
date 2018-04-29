@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029240,
+  "title": "Ministerieel besluit van 2018-03-09 tot vaststelling van de modellen van de onderrichtingen voor de kiezers voor de gelijktijdige verkiezingen van de gemeenteraden, de stadsdistrictsraden, de rechtstreekse verkiezingen van de raden voor maatschappelijk welzijn en de verkiezingen van de provincieraden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029240/VolledigDocument?datum=2018-04-29",
+  "source_sha256": "fa1be6af091e765176c14e940e45f4b459c556be52d9d8e7dec32179749d0bc0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029240&param=informatie",
+  "as_of": "2018-04-29",
+  "made": "2018-03-09",
+  "gazette": "2018-04-19",
+  "numac": 2018040077,
+  "document_start": "2018-04-29",
+  "document_end": "2024-02-29",
+  "in_force": "2018-04-29",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2018-04-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
