@@ -1354,7 +1354,33 @@ De vastbenoemde personeelsleden van het Hoger Instituut voor Readaptatiewetensch
 
 ### ART. 84undevicies.
 
-Met het oog op een vaste benoeming op 1 juli 2015 moet een inrichtende   macht de volgende betrekkingen in afwijking van de geldende regelgeving in   aanmerking nemen voor een vaste benoeming :<BR>1° betrekkingen in het gewoon   secundair onderwijs die de school inricht met uren-leraar die de school in   toepassing van artikel 21 van de Codex Secundair Onderwijs of van artikel 90, §   1, 9°, van het decreet van 10 juli 2008 betreffende het stelsel van leren en   werken in de Vlaamse Gemeenschap tijdens het schooljaar 2013-2014 heeft   overgedragen;<BR>2° betrekkingen in het buitengewoon secundair onderwijs die de   school inricht met lesuren die de school in toepassing van artikel 21 van de   Codex Secundair Onderwijs tijdens het schooljaar 2013-2014 heeft   overgedragen;<BR>3° betrekkingen die een school voor gewoon secundair onderwijs   inricht met uren-leraar die ze heeft ontvangen van een andere school van   hetzelfde schoolbestuur of van een ander schoolbestuur binnen hetzelfde net   volgens artikel 19 of volgens artikel 20 van de Codex Secundair Onderwijs;<BR>4°   betrekkingen die een school voor buitengewoon secundair onderwijs inricht met   lesuren die ze heeft ontvangen van een andere school van hetzelfde schoolbestuur   of van een ander schoolbestuur binnen hetzelfde net volgens artikel 19 of   volgens artikel 20 van de Codex Secundair Onderwijs.
+§ 1. Met het oog op een vaste benoeming op 1 oktober 2018 deelt de inrichtende macht volgende betrekkingen in een wervingsambt van het bestuurs- en onderwijzend personeel mee als vacante betrekkingen :<br>
+1° het deel van de betrekking van een vastbenoemd personeelslid waarvoor dat personeelslid op 1 mei 2018 een verlof wegens verminderde prestaties vanaf de leeftijd van 55 jaar geniet als vermeld in artikel 5, § 1, 3°, van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties;<br>
+2° het deel van de betrekking van een vastbenoemd personeelslid waarvoor dat personeelslid op 1 mei 2018 een gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 50 of 55 jaar geniet als vermeld in artikel 9 van het besluit van de Vlaamse Regering van 9 september 2011 betreffende de loopbaanonderbreking van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding.<br>
+<br>
+De mededeling van deze vacante betrekkingen gebeurt voor 10 september 2018.<br>
+<br>
+§ 2. Onverminderd artikel 33, § 1 en § 4, moet de inrichtende macht met het oog op een vaste benoeming op 1 januari 2019 bijkomend ook betrekkingen als vacante betrekkingen meedelen die beantwoorden aan de volgende voorwaarden :<br>
+1° de betrekking is ingericht in een wervingsambt van het bestuurs- en onderwijzend personeel;<br>
+2° de vastbenoemde titularis van de betrekking, vermeld in punt 1°, is voor zijn volledige opdracht of voor een deel van zijn opdracht voor een volledig schooljaar afwezig omwille van een of meer van volgende verlofstelsels :<br>
+a) verlof wegens bijzondere opdracht zoals bepaald in artikel 51quater van dit decreet;<br>
+b) verlof wegens opdracht zoals bepaald in artikel 51quater van dit decreet;<br>
+c) verlof voor vakbondsopdrachten zoals bepaald in artikel 53 van het decreet van 5 april 1995 tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs of zoals bepaald in het koninklijk besluit van 16 december 1981 betreffende het syndicaal verlof in het Gesubsidieerd onderwijs;<br>
+d) verlof om een ambt uit te oefenen in een ministerieel kabinet zoals bepaald in het besluit van de Vlaamse Regering van 28 juli 1995 betreffende het verlof om een ambt uit te oefenen in een ministerieel kabinet van een lid van een gemeenschaps- of gewestregering, van een lid van de Federale Regering of van een gewestelijk staatssecretaris, en bij een secretariaat, de cel algemene beleidscoördinatie en een cel algemeen beleid bij een lid van de Federale Regering door personeelsleden van het onderwijs en van de centra voor leerlingenbegeleiding;<br>
+e) verlof erkende politieke groepen zoals bepaald in het besluit van de Vlaamse Regering van 19 december 1991 betreffende het verlof dat aan de personeelsleden van het onderwijs en de psycho-medisch-sociale centra wordt verleend voor het verrichten van bepaalde prestaties ten behoeve van in de wetgevende vergaderingen van de Staat en van de Gemeenschappen en of de Gewesten erkende politieke groepen, respectievelijk ten behoeve van de voorzitters van die groepen;<br>
+f) politiek verlof zoals bepaald in artikel 29 tot en met 36bis van het decreet van 28 april 1993 betreffende het onderwijs IV;<br>
+g) verlof voor verminderde prestaties zoals bepaald in hoofdstuk II van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties;<br>
+h) afwezigheid voor verminderde prestaties zoals bepaald in hoofdstuk III van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof en de afwezigheid voor verminderde prestaties.<br>
+<br>
+Van het totale volume van de opdrachten waarvoor de personeelsleden onder de voorwaarden, vermeld in het eerste lid, afwezig zijn, moet de inrichtende macht 33 procent vacant verklaren en mag hij maximum 50 procent vacant verklaren. Deze bepaling geldt telkens apart :<br>
+- voor het geheel van de instellingen van het deeltijds kunstonderwijs;<br>
+- voor het geheel van de instellingen van het volwassenenonderwijs;<br>
+- in het basisonderwijs voor het geheel van de instellingen die tot een scholengemeenschap behoren enerzijds en voor de scholen die niet tot een scholengemeenschap behoren anderzijds;<br>
+- in het secundair onderwijs voor het geheel van de instellingen die tot een scholengemeenschap behoren enerzijds en voor de scholen die niet tot een scholengemeenschap behoren anderzijds.<br>
+<br>
+Als een scholengemeenschap in het basisonderwijs of secundair onderwijs instellingen bevat van meerdere inrichtende machten maakt de scholengemeenschap afspraken over de vaststelling van dit percentage.<br>
+<br>
+Deze betrekkingen worden toegevoegd aan de mededeling van de vacante betrekkingen, vermeld in artikel 33, § 1.
 
 ## TITEL III ANDERE BEPALINGEN
 
