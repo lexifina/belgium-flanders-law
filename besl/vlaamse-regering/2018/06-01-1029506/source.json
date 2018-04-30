@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029506,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-01 tot wijziging van het koninklijk besluit van 9 juni 1999 houdende uitvoering van de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers, wat betreft de invoering van de gecombineerde procedure, en tot opheffing van het koninklijk besluit van 3 augustus 2012 betreffende de regels voor het indienen van de aanvragen en het afleveren van voorlopige arbeidsvergunning in het kader van de aanvraag door een buitenlandse werknemer ter verkrijgen van een \"Europese blauwe kaart\"",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029506/VolledigDocument?datum=2018-04-30",
+  "source_sha256": "7513801e14f8cd4593b530940b4d9dd11ac3036fa915f147ebd63640d25afb90",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029506&param=informatie",
+  "as_of": "2018-04-30",
+  "made": "2018-06-01",
+  "gazette": "2018-07-09",
+  "numac": 2018040177,
+  "document_start": "2018-04-30",
+  "document_end": null,
+  "in_force": "2018-04-30",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2018-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
