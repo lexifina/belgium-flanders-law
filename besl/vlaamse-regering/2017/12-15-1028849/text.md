@@ -23,6 +23,16 @@ Besluit :<br>
 
 ## HOOFDSTUK 1 Wijzigingen aan titel VIII van het Energiebesluit van 19 november 2010
 
+### ART 1.
+
+...<br>
+(Dit artikel werd vernietigd bij arrest 245.148 van de Raad van State van 10 juli 2019)
+
+### ART 2.
+
+...<br>
+(Dit artikel werd vernietigd bij arrest 245.148 van de Raad van State van 10 juli 2019)
+
 ## HOOFDSTUK 2 Wijzigingen van titel IX van het Energiebesluit van 19 november 2010
 
 ### ART 3.
