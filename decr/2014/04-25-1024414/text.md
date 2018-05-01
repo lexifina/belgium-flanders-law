@@ -372,6 +372,22 @@ Als de casemanager Werk en de casemanager Zorg op basis van een evaluatie vastst
 
 ## HOOFDSTUK 5 Arbeidsmatige activiteiten
 
+### ART. 35.
+
+<p>Het aanbod aan arbeidsmatige activiteiten wordt door de Vlaamse Regering nader gedefinieerd, met name wat betreft de invulling van de begeleiding en de zorg die er deel van uitmaken.</p>
+
+<p>De Vlaamse Regering bepaalt ook minimale kwaliteitsvoorwaarden voor het aanbod.</p>
+
+### ART. 36.
+
+<p>Deelname aan arbeidsmatige activiteiten is mogelijk voor onbepaalde duur tenzij de evaluatie uitwijst dat deelname niet meer nodig of opportuun is.</p>
+
+<p>De Vlaamse Regering bepaalt de modaliteiten voor de toegang tot arbeidsmatige activiteiten, alsook voor de evaluatieprocedure.</p>
+
+### ART. 37.
+
+De Vlaamse Regering bepaalt erkennings- en subsidiëringsvoorwaarden voor het aanbod aan arbeidsmatige activiteiten.
+
 ## HOOFDSTUK 6 Registratie en gegevensdeling
 
 ### ART. 38.
