@@ -464,7 +464,116 @@ De informatiegegevens die betrekking hebben op de naleving van de voorwaarden va
 
 ## Afdeling 1 Doelgroep en toegang tot arbeidsmatige activiteiten
 
+### ART 44.
+
+Personen, ouder dan 18 jaar en jonger dan 65 jaar, voor wie betaalde beroepsarbeid, met of zonder ondersteuning, op middellange termijn niet, nog niet of niet meer mogelijk is door een of meer belemmeringen van medische, mentale, psychische, psychiatrische of sociale aard, kunnen deelnemen aan arbeidsmatige activiteiten, als ze behoren tot een van de volgende categorieën:<br>
+1° niet-werkende werkzoekenden, vermeld in artikel 1, 8°, van het besluit van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding, die toegeleid worden door de VDAB;<br>
+2° personen met een leefloon die de toelating hebben van het OCMW om deel te nemen aan arbeidsmatige activiteiten;<br>
+3° personen die arbeidsongeschikt erkend zijn in de zin van de uitkeringsverzekering voor werknemers en/of de uitkeringsverzekering voor zelfstandigen en meewerkende echtgenoten en die de toelating van de adviserend arts van het ziekenfonds hebben gekregen om arbeidsmatige activiteiten te verrichten;<br>
+4° personen die een inkomensvervangende tegemoetkoming of integratietegemoetkoming ontvangen.<br>
+<br>
+De arbeidszorgmedewerkers, vermeld in artikel 1, 15°, van het besluit van de Vlaamse Regering van 8 december 1998 tot uitvoering van het decreet inzake sociale werkplaatsen, en de arbeidszorgmedewerkers tewerkgesteld in arbeidszorginitiatieven die door de Vlaamse Minister, bevoegd voor de sociale economie, jaarlijks facultatief worden ondersteund, kunnen niet deelnemen aan arbeidsmatige activiteiten.<br>
+&nbsp;
+
 ## Afdeling 2 Aanbod van arbeidsmatige activiteiten
+
+### ART 45.
+
+De deelnemer arbeidsmatige activiteiten verricht onbezoldigd arbeidsmatige activiteiten bij een werkpost.<br>
+&nbsp;
+
+### ART 46.
+
+§ 1. De arbeidsmatige activiteiten worden verricht onder begeleiding van een erkende begeleider arbeidsmatige activiteiten.<br>
+<br>
+Het Departement WVG erkent de begeleiders arbeidsmatige activiteiten, als aan de volgende voorwaarden wordt voldaan:<br>
+1° het gaat om een van de volgende voorzieningen:<br>
+a) een centrum voor algemeen welzijnswerk;<br>
+b) een dienst maatschappelijk werk van het ziekenfonds, erkend conform het Woonzorgdecreet van 13 maart 2009;<br>
+c) een centrum voor geestelijke gezondheidszorg;<br>
+d) een initiatief voor beschut wonen;<br>
+e) een psychiatrisch ziekenhuis;<br>
+f) een psychiatrische afdeling van een algemeen ziekenhuis;<br>
+g) een welzijns- en zorgvoorziening, erkend of vergund door het Vlaams Agentschap voor Personen met een Handicap of het agentschap Jongerenwelzijn, om ondersteuning te bieden;<br>
+h) een revalidatiecentrum;<br>
+i) een OCMW;<br>
+j) een onderwijsinstelling, erkend door de Vlaamse Gemeenschap;<br>
+k) een sociale werkplaats, vermeld in artikel 3 van het decreet van 14 juli 1998 inzake sociale werkplaatsen;<br>
+m) een beschutte werkplaats, vermeld in artikel 79 van het decreet van 23 december 2005 tot begeleiding van de begroting 2006;<br>
+n) een maatwerkbedrijf, vermeld in artikel 3 van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling.<br>
+2° de voorzieningen, vermeld in punt 1°, hebben, om de opdrachten in het kader van de begeleiding, vermeld in artikel 47 van dit besluit, uit te voeren, een of meer medewerkers in dienst die minimaal een medisch, paramedisch, sociaal, psychologisch of pedagogisch diploma op bachelorniveau of minimaal twee jaar ervaring in het verlenen van zorg, gedefinieerd in artikel 2, 32°, van het decreet van 25 april 2014, aan de doelgroep, vermeld in artikel 44, eerste lid, van dit besluit, bezitten;<br>
+3° de voorzieningen, vermeld in punt 1°, hebben een burgerlijke aansprakelijkheidsverzekering afgesloten ter dekking van de risico's die verbonden zijn aan het uitvoeren van de opdrachten in het kader van de begeleiding, vermeld in artikel 47 van dit besluit.<br>
+<br>
+§ 2. Om erkend te worden, dient de voorziening een erkenningsaanvraag in bij het Departement WVG. Het Departement WVG stelt daarvoor een model van aanvraagformulier ter beschikking.<br>
+<br>
+Het formulier, vermeld in het eerste lid, bevat minstens de identiteitsgegevens van de voorziening en van de beheersinstantie.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid, bepalen het model van het aanvraagformulier.<br>
+<br>
+De erkenningsaanvraag is ontvankelijk als de voorziening de aanvraag indient bij het Departement WVG op de wijze die de minister bevoegd voor bijstand aan personen en de minister bevoegd voor het gezondheidsbeleid bepalen, en als ze al de volgende gegevens en stukken bevat:<br>
+1° het volledige en correct ingevulde aanvraagformulier, vermeld in het eerste lid;<br>
+2° het bewijs dat het aanvraagformulier door de rechtsgeldige vertegenwoordiger is ondertekend;<br>
+3° het bewijs dat er voldaan wordt aan de erkenningsvoorwaarden, vermeld in paragraaf 1, tweede lid, 2° en 3°.<br>
+<br>
+Het Departement WVG onderzoekt de ontvankelijkheid van de aanvraag. Binnen een termijn van dertig dagen na de ontvangst van de erkenningsaanvraag, brengt het Departement WVG de aanvrager op de hoogte van het ontvankelijk of het niet ontvankelijk zijn van de erkenningsaanvraag. In het geval van de niet ontvankelijkheid, vermeldt die kennisgeving de motivering en de mogelijkheid om een nieuwe aanvraag in te dienen. Na het verstrijken van die termijn, wordt de aanvraag geacht ontvankelijk te zijn.<br>
+<br>
+Het Departement WVG onderzoekt de gegrondheid van de ontvankelijke aanvraag. Binnen vijfenveertig dagen na afloop van de termijn, vermeld in het vijfde lid, brengt het Departement WVG de aanvrager op de hoogte van zijn beslissing. Als er geen beslissing is genomen binnen vijfenveertig dagen, wordt de aanvraag geacht gegrond te zijn.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid, kunnen de wijze van kennisgeving, vermeld in het zesde lid, bepalen.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid, kunnen de wijze bepalen waarop het bewijs, vermeld in het vierde lid, 2°, verstrekt wordt.<br>
+<br>
+De beslissing om de erkenning toe te kennen aan de voorziening bevat al de volgende gegevens:<br>
+1° de naam en het adres van de voorziening;<br>
+2° de duurtijd van de erkenning;<br>
+3° de omschrijving van de opdrachten van een begeleider arbeidsmatige activiteiten;<br>
+4° de subsidiëring;<br>
+5° de niet-overdraagbaarheid van de erkenning.<br>
+<br>
+De erkenning wordt toegekend voor een periode van vijf jaar en kan verlengd worden. De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid, kunnen de nadere regels daarvoor bepalen.<br>
+&nbsp;
+
+### ART 47.
+
+De begeleiding door de erkende begeleider arbeidsmatige activiteiten houdt al de volgende opdrachten in:<br>
+1° een intake- en oriënteringsgesprek houden met de persoon die arbeidsmatige activiteiten wil verrichten, waarbij onder meer wordt nagegaan of de persoon in aanmerking komt om deel te nemen aan arbeidsmatige activiteiten als vermeld in artikel 44, eerste lid van dit besluit, en zoeken naar een passende werkpost en passende arbeidsmatige activiteiten voor de deelnemer arbeidsmatige activiteiten;<br>
+2° de deelnemer arbeidsmatige activiteiten begeleiden bij de start op de werkpost en opvolgen tijdens de duur van de arbeidsmatige activiteiten;<br>
+3° de rol van aanspreekpunt vervullen bij de arbeidsmatige activiteiten van de deelnemer;<br>
+4° het afsluiten van verzekeringen die de deelnemer arbeidsmatige activiteiten verzekeren voor:<br>
+a) lichamelijke ongevallen bij de werkpost, inclusief tijdens de verplaatsingen naar en van de werkpost;<br>
+b) burgerlijke aansprakelijkheid;<br>
+5° jaarlijks evalueren of de arbeidsmatige activiteiten passend zijn voor de deelnemer, in dialoog met de deelnemer en met de instanties, vermeld in artikel 44, eerste lid, 1°, 2° en 3° van dit besluit.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid, kunnen bijkomende opdrachten bepalen.<br>
+&nbsp;
+
+### ART 48.
+
+§ 1. Binnen de perken van het jaarlijks goedgekeurde begrotingskrediet, wordt aan de erkende begeleiders arbeidsmatige activiteiten voor de uitvoering van de opdrachten, vermeld in artikel 47, een subsidie toegekend van maximaal 840 euro per begeleide deelnemer arbeidsmatige activiteiten per kalenderjaar, op basis van de reëel gepresteerde begeleidingsperiode.<br>
+<br>
+De subsidie wordt berekend volgens de volgende formule: 70 x aantal maanden begeleiding. Elke begonnen maand wordt als een volledige maand gerekend.<br>
+<br>
+De subsidie, vermeld in het eerste lid, is uitgedrukt tegen 100 % van de spilindex die van toepassing is op 1 juli 2018. De looncomponent van dat bedrag wordt, binnen de beschikbare begrotingskredieten, geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+§ 2. Om in aanmerking te komen voor subsidiëring moet de erkende begeleider arbeidsmatige activiteiten aan al de volgende voorwaarden beantwoorden:<br>
+1° de erkenningsvoorwaarden naleven, vermeld in artikel 46, § 1, tweede lid;<br>
+2° de gegevens verstrekken, bepaald door de Vlaamse minister, bevoegd voor de bijstand aan personen en de Vlaamse minister, bevoegd voor het gezondheidsbeleid<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen en de Vlaamse minister, bevoegd voor het gezondheidsbeleid kunnen de nadere regels en bijkomende subsidievoorwaarden bepalen betreffende het moment en de wijze waarop de gegevens vermeld in het eerste lid, 2°, moeten verstrekt worden.<br>
+<br>
+§ 3. De subsidie, vermeld in paragraaf 1, wordt uiterlijk betaald voor 1 mei van het volgende kalenderjaar.<br>
+<br>
+Er wordt jaarlijks, uiterlijk op 1 juni, aan elke erkende begeleider arbeidsmatige activiteiten een voorschot betaald van 672 euro per deelnemer arbeidsmatige activiteiten die door de begeleider arbeidsmatige activiteiten begeleid wordt op 1 april van dat jaar.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid kunnen de nadere regels bepalen.<br>
+&nbsp;
+
+### ART 49.
+
+De arbeidsmatige activiteiten komen tot stand door een overeenkomst te sluiten tussen de deelnemer arbeidsmatige activiteiten, de erkende begeleider arbeidsmatige activiteiten en de werkpost.<br>
+<br>
+Deze overeenkomst bevat de vermeldingen en de bepalingen, vermeld in de bijlage, die bij dit besluit is gevoegd. De originele overeenkomsten, vermeld in het eerste lid, en de bewijzen van de afgesloten verzekeringen, vermeld in artikel 47, eerste lid, 4°, worden voor controle ter beschikking gehouden.<br>
+&nbsp;
 
 ## [HOOFDSTUK 3/1 Arbeidsmatige activiteiten in de sociale economie (ing. BVR 8 januari 2021, art. 5, I: 1 april 2021)]
 
