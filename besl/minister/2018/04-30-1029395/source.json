@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029395,
+  "title": "Ministerieel besluit van 2018-04-30 tot wijziging van diverse bepalingen van het ministerieel besluit van 3 april 2014 tot delegatie van bepaalde bevoegdheden aan de leidend ambtenaar van het Departement internationaal Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029395/VolledigDocument?datum=2018-05-01",
+  "source_sha256": "ac79a56815e13f01c15c2fa200375d781b2ce7cee8807e74f05f7fc1c31b15f5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029395&param=informatie",
+  "as_of": "2018-05-01",
+  "made": "2018-04-30",
+  "gazette": "2018-06-11",
+  "numac": 2018012403,
+  "document_start": "2018-05-01",
+  "document_end": null,
+  "in_force": "2018-05-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2018-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
