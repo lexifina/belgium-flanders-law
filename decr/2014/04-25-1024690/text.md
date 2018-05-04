@@ -65,6 +65,8 @@ Met behoud van de toepassing van artikel 5.2.1, § 3 en § 4, van het DABM,   ge
 
 <P>De initiatiefnemer kan ter voorbereiding van een vergunningsaanvraag, als een   realistische projectstudie voorhanden is, de bevoegde overheid, vermeld in   artikel 15, verzoeken een projectvergadering te organiseren met de   adviesinstanties, aangewezen met toepassing van artikel 24.<BR></P>  <P>De projectvergadering beoogt de procedurele afstemming tussen de betrokken   overheden en de bespreking van de eventueel nodig of nuttig geachte   projectbijsturingen.<BR></P>  <P>De bevoegde overheid, vermeld in artikel 15, kan op eigen initiatief of op   verzoek van de initiatiefnemer, derde belanghebbenden uitnodigen op een   projectvergadering.<BR></P>  <P>De Vlaamse Regering kan nadere regels bepalen inzake de projectvergadering en   kan hierbij het toepassingsgebied beperken.<BR></P>
 
+## [Afdeling 4 Aanwijzing gemeentelijke, provinciale en gewestelijke omgevingsambtenaar (verv. decr. 8 december 2017, art. 114, I: 4 mei 2018)]
+
 ### ART. 9.
 
 <p>§ 1. Iedere gemeente wijst bij gemeenteraadsbeslissing minimaal één gemeentelijke omgevingsambtenaar aan. De gemeente kan daarvoor een beroep doen op eigen personeel of op personeel van een intergemeentelijk samenwerkingsverband.</p>
@@ -76,6 +78,14 @@ Met behoud van de toepassing van artikel 5.2.1, § 3 en § 4, van het DABM,   ge
 <p>§ 3. Als er geen gemeentelijke omgevingsambtenaar binnen de gemeente of het intergemeentelijk samenwerkingsverband beschikbaar is, oefent de gemeentesecretaris voor een periode van maximum 12 maanden de taken van de gemeentelijke omgevingsambtenaar uit of wijst hij een waarnemende gemeentelijke omgevingsambtenaar aan die de taken van de gemeentelijke omgevingsambtenaar uitoefent.</p>
 
 <p>§ 4. Binnen de perken van de begrotingskredieten kan de Vlaamse Regering financiële of andere ondersteuning verlenen aan de gemeenten voor de opleiding en loonkosten van de gemeentelijke omgevingsambtenaar.</p>
+
+### ART 9/1.
+
+Iedere provincie wijst bij provincieraadsbeslissing minimaal één provinciale omgevingsambtenaar aan.<br>
+<br>
+De provincie zorgt ervoor dat de aangestelde personeelsleden gezamenlijk voldoende kennis van zowel de ruimtelijke ordening als het milieu in zich verenigen. De Vlaamse Regering kan de kwaliteitseisen vastleggen waaruit deze kennis blijkt.<br>
+<br>
+De provinciale omgevingsambtenaar oefent de taken, vermeld in dit decreet, onafhankelijk en neutraal uit. Hij mag geen nadeel ondervinden van de uitoefening hiervan.
 
 ### ART. 10.
 
