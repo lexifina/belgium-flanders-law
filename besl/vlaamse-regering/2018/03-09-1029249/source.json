@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029249,
+  "title": "Besluit van de Vlaamse Regering van 2018-03-09 tot wijziging van diverse besluiten naar aanleiding van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid en het decreet van 8 december 2017 houdende diverse bepalingen inzake ruimtelijke ordening, milieu en omgeving",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029249/VolledigDocument?datum=2018-05-04",
+  "source_sha256": "5e8d4da6076da20cc876b9d2a9df4cce0170527e46007b1d92714ecda7813004",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029249&param=informatie",
+  "as_of": "2018-05-04",
+  "made": "2018-03-09",
+  "gazette": "2018-04-24",
+  "numac": 2018040074,
+  "document_start": "2018-05-04",
+  "document_end": null,
+  "in_force": "2018-05-04",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2018-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
