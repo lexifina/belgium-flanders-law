@@ -208,7 +208,7 @@ Bij een bemiddelingsopdracht, uitgevoerd door een externe bemiddelaar, wordt het
 
 <p>De vergoeding voor de afgifte of zending van een afschrift of uittreksel bedraagt 50 eurocent per bladzijde, tenzij het eerste lid bepaalt dat die afgifte of zending kosteloos is. Als de griffier het afschrift of uittreksel per post opstuurt, is een aanvullende vergoeding verschuldigd die gelijk is aan de kosten van het frankeertarief aan het loket van een niet-aangetekende brief van genormaliseerd formaat.</p>
 
-<p>De&nbsp;gewestelijke omgevingsambtenaar, de leidend ambtenaar van het Departement Omgeving, of bij diens afwezigheid, de gemachtigde van die leidend ambtenaar, die om de afgifte van een afschrift of een uittreksel van een uitspraak verzoekt, is vrijgesteld van de betaling van de vergoedingen, vermeld in deze paragraaf.</p>
+<p>De gewestelijke omgevingsambtenaren, of bij hun afwezigheid de personen die door hen gemachtigd zijn, zijn vrijgesteld van de betaling van de vergoedingen, vermeld in deze paragraaf.</p>
 
 <p>§ 2. Het verschuldigde bedrag wordt gestort op de rekening van het Fonds Bestuursrechtscolleges, met de vermelding van het dossiernummer en de naam van de persoon die het afschrift of uittreksel aanvraagt. Pas na de storting reikt de griffier het afschrift of het uittreksel uit.</p>
 
