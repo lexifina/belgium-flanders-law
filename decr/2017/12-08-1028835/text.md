@@ -969,6 +969,22 @@ In artikel 2 van het decreet van 25 april 2014 betreffende de omgevingsvergunnin
 2° in punt 2° wordt tussen de zinsnede "vermeld in artikel 4.2.2" en de zinsnede "van de VCRO" de zinsnede "en artikel 4.2.4" ingevoegd.<br>
 &nbsp;
 
+### ART 114.
+
+&nbsp;In hoofdstuk 1 van hetzelfde decreet, gewijzigd bij het decreet van 3 februari 2017, wordt het opschrift van afdeling 4 vervangen door wat volgt:<br>
+"Afdeling 4. Aanwijzing gemeentelijke, provinciale en gewestelijke omgevingsambtenaar".<br>
+&nbsp;
+
+### ART 115.
+
+&nbsp;In hetzelfde decreet, het laatst gewijzigd bij het decreet van 3 februari 2017, wordt een artikel 9/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 9/1. Iedere provincie wijst bij provincieraadsbeslissing minimaal één provinciale omgevingsambtenaar aan.<br>
+<br>
+De provincie zorgt ervoor dat de aangestelde personeelsleden gezamenlijk voldoende kennis van zowel de ruimtelijke ordening als het milieu in zich verenigen. De Vlaamse Regering kan de kwaliteitseisen vastleggen waaruit deze kennis blijkt.<br>
+<br>
+De provinciale omgevingsambtenaar oefent de taken, vermeld in dit decreet, onafhankelijk en neutraal uit. Hij mag geen nadeel ondervinden van de uitoefening hiervan.".<br>
+&nbsp;
+
 ### ART 116.
 
 &nbsp;In artikel 15 van hetzelfde decreet, gewijzigd bij het decreet van 18 december 2015, worden de volgende wijzigingen aangebracht:<br>
