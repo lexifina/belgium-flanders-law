@@ -32,6 +32,7 @@ De Vlaamse minister, bevoegd voor de ruimtelijke ordening, en   de Vlaamse minis
 In deze bijlage wordt verstaan onder aanvragen:<br>
 1° de aanvragen voor stedenbouwkundige handelingen met inbegrip van de voor het functioneren noodzakelijke aanhorigheden en de eventueel met het project inherent verbonden natuur- en waterbergingscompensaties en landschappelijke integratiemaatregelen;<br>
 2° de aanvragen voor het exploiteren van ingedeelde inrichtingen of activiteiten.<br>
+<br>
 De Vlaamse Regering is bevoegd om in eerste administratieve aanleg een beslissing te nemen over aanvragen die minstens een van de volgende punten omvatten:<br>
 1° aanvragen door of in opdracht van de wegbeheerder met betrekking tot autosnelwegen en gewestwegen, met uitzondering van aanvragen die louter strekken tot het vellen van bomen langs die wegen;<br>
 2° aanvragen met betrekking tot de volgende spoorwegen:<br>
@@ -61,7 +62,7 @@ c) installaties voor het opwekken van elektriciteit door windenergie vanaf vijf 
 19° aanvragen met betrekking tot gebouwen of gebouwencomplexen met een totale nuttige vloeroppervlakte, met uitsluiting van de nuttige vloeroppervlakte met de functies wonen, landbouw in de ruime zin en industrie en bedrijvigheid, van minstens 50.000 m², gelegen buiten gemeenten met meer dan 200.000 inwoners;<br>
 20° aanvragen met betrekking tot golfterreinen van 18 holes of meer;<br>
 21° aanvragen met betrekking tot infrastructuur met openbaar karakter voor al dan niet draadloze communicatienetwerken voor radiocommunicatie, telefoonverkeer, televisie, internet of andere, die als een bovenlokaal netwerk functioneren;<br>
-22° aanvragen op het grondgebied van twee of meer provincies;<br>
+22° ...<br>
 23° aanvragen ingediend door de militaire overheid.</p>
 
 ### BIJLAGE
@@ -83,4 +84,4 @@ c) golfterreinen met meer dan 8 holes en minder dan 18 holes;<br>
 4° aanvragen met betrekking tot ontginningsgebieden;<br>
 5° aanvragen met betrekking tot gebouwen of gebouwencomplexen met een totale nuttige vloeroppervlakte van het deel met de functie handel van minstens 15.000 m², gelegen buiten de gemeenten Aalst, Antwerpen, Brugge, Genk, Gent, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas en Turnhout;<br>
 6° aanvragen met betrekking tot installaties voor het opwekken van elektriciteit door windenergie tot en met vier windturbines per aanvraag, met een vermogen per windturbine van meer dan 1.500 kW, buiten de grenzen van de zeehavens van Oostende, Zeebrugge, Gent en Antwerpen, zoals afgebakend in een ruimtelijk uitvoeringsplan;<br>
-7° aanvragen op het grondgebied van twee of meer gemeenten binnen een provincie.
+7° ....
