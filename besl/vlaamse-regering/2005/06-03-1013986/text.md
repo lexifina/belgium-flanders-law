@@ -256,7 +256,7 @@ De taken die conform artikel 30 aan de departementen worden toevertrouwd, behore
 2° Vlaamse Milieumaatschappij;<br>
 3° Openbare Vlaamse Afvalstoffenmaatschappij;<br>
 4° Vlaamse Landmaatschappij;<br>
-5° Vlaamse Regulator van de Elektriciteits- en Gasmarkt.<br>
+5° ....<br>
 <br>
 § 3. De strategische adviesraden die tot het beleidsdomein Omgeving behoren, zijn:<br>
 1° Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br>
