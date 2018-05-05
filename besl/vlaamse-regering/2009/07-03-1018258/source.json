@@ -2,16 +2,16 @@
   "codex_id": 1018258,
   "title": "Besluit van de Vlaamse Regering van 2009-07-03 tot vaststelling van een deontologische code voor de leden van de [... ] provinciale en gemeentelijke commissies voor ruimtelijke ordening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018258/VolledigDocument?datum=2016-07-24",
-  "source_sha256": "2c79762a82249642f05efca4b419d5fed9e0be024bb32e648b06e4371b8281a8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018258/VolledigDocument?datum=2018-05-05",
+  "source_sha256": "2dcd2aceab19cd956c8f55ec34b5a211239115b771a41a1b4dd457054b04732c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018258&param=informatie",
-  "as_of": "2016-07-24",
+  "as_of": "2018-05-05",
   "made": "2009-07-03",
   "gazette": "2009-08-25",
   "numac": 2009035779,
   "document_start": "2009-09-01",
   "document_end": null,
-  "in_force": "2016-07-24",
+  "in_force": "2018-05-05",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2016-07-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-05; future article versions excluded; article text as the API gives it"
 }
