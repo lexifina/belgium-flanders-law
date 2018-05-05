@@ -110,6 +110,10 @@ De evaluatie, vermeld in artikel 16, wordt uitgevoerd aan de hand van   minstens
 
 De minister bepaalt de aanvangsdatum van het proefproject.
 
+### ART 18/1.
+
+Voor de toepassing van artikel 6 en 7, 1°, van dit besluit wordt ook na de vervanging van het Ruimtelijk Structuurplan Vlaanderen door het Beleidsplan Ruimte Vlaanderen, vermeld in artikel 2.1.5 van de Vlaamse Codex Ruimtelijke Ordening, gebruikgemaakt van de wegenselecties, opgenomen in het Ruimtelijk Structuurplan Vlaanderen zoals het tot dan toe gold.
+
 ### ART. 19.
 
 Dit besluit treedt in werking op dezelfde datum als het besluit van de   Vlaamse Regering betreffende handhaving inzake de bescherming van de   verkeersinfrastructuur in geval van bijzonder wegtransport.
