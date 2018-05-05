@@ -7,71 +7,35 @@
 Voor de toepassing van dit besluit wordt verstaan onder:<br>
 1° de minister: de minister, bevoegd voor de ruimtelijke ordening;<br>
 2° departement : het Departement&nbsp;Omgeving.<br>
-3° de aanvrager: de gemeente die een subsidie aanvraagt voor de opmaak van een gemeentelijk ruimtelijk structuurplan, een gemeentelijk ruimtelijk uitvoeringsplan of een gemeentelijk plan van aanleg.
+3° de aanvrager: de gemeente die een subsidie aanvraagt voor de opmaak van&nbsp;een gemeentelijk ruimtelijk uitvoeringsplan.
 
 ### ART. 2.
 
-Afhankelijk van de beschikbare kredieten op de begroting van de Vlaamse Gemeenschap kunnen subsidies worden toegekend aan gemeenten voor de opmaak van gemeentelijke ruimtelijke structuurplannen, gemeentelijke ruimtelijke uitvoeringsplannen en gemeentelijke plannen van aanleg onder de in dit besluit gestelde voorwaarden.<br /><br />De subsidie wordt toegekend in de volgorde waarin de aanvragen die aan de gestelde voorwaarden voldoen, worden ingediend.<br />
+Afhankelijk van de beschikbare kredieten op de begroting van de Vlaamse Gemeenschap kunnen subsidies worden toegekend aan gemeenten voor de opmaak van&nbsp;gemeentelijke ruimtelijke uitvoeringsplannen&nbsp;onder de in dit besluit gestelde voorwaarden.<br>
+<br>
+De subsidie wordt toegekend in de volgorde waarin de aanvragen die aan de gestelde voorwaarden voldoen, worden ingediend.
 
 ## HOOFDSTUK II [... (opgeh. BVR 30 maart 2018, art. 70, I: 5 mei 2018)]
 
 ### ART. 3.
 
-§ 1. De subsidie voor de opmaak van het gemeentelijk ruimtelijk structuurplan bedraagt:<br>
-<br>
-1° [30.000 euro (verv. B.V.R. 14 december 2001, art. 2, I: 1 januari 2002) ] voor gemeenten met minder dan 10.000 inwoners;<br>
-<br>
-2° [45.000 euro (verv. B.V.R. 14 december 2001, art. 2, I: 1 januari 2002) ] voor gemeenten met 10.000 tot 30.000 inwoners;<br>
-<br>
-3° [65.000 euro (verv. B.V.R. 14 december 2001, art. 2, I: 1 januari 2002) ] voor gemeenten met 30.000 tot 50.000 inwoners;<br>
-<br>
-4° [100.000 euro (verv. B.V.R. 14 december 2001, art. 2, I: 1 januari 2002) ] voor gemeenten met 50.000 tot 100.000 inwoners;<br>
-<br>
-5° [125.000 euro (verv. B.V.R. 14 december 2001, art. 2, I: 1 januari 2002) ] voor gemeenten met 100.000 tot 200.000 inwoners;<br>
-<br>
-6° [150.000 euro (verv. B.V.R. 14 december 2001, art. 2, I: 1 januari 2002) ] voor gemeenten met 200.000 tot 300.000 inwoners;<br>
-<br>
-7° [175.000 euro (verv. B.V.R. 14 december 2001, art. 2, I: 1 januari 2002) ] voor gemeenten met meer dan 300.000 inwoners.<br>
-<br>
-Voor de toepassing van het eerste lid worden de meest recent gepubliceerde gegevens van het Nationaal Instituut voor de Statistiek gehanteerd.<br>
-<br>
-§ 2. Er wordt een correctie doorgevoerd in functie van de oppervlakte van de gemeente.<br>
-<br>
-1° het subsidiebedrag wordt vermenigvuldigd met 0,8 voor gemeenten met een oppervlakte van minder dan 2.000 hectare;<br>
-<br>
-2° het subsidiebedrag wordt vermenigvuldigd met 1,2 voor gemeenten met een oppervlakte tussen 5.000 en 10.000 hectare;<br>
-<br>
-3° het subsidiebedrag wordt vermenigvuldigd met 1,6 voor gemeenten met een oppervlakte van meer dan 10.000 hectare.<br>
-<br>
-§ 3. Er wordt een tweede correctie doorgevoerd in functie van het al dan niet behoren van de volledige gemeente of delen ervan tot een stedelijk gebied zoals beschreven in het ruimtelijk structuurplan Vlaanderen.<br>
-<br>
-1° het subsidiebedrag wordt vermenigvuldigd met 0,8 voor een gemeente waarvan volgens het ruimtelijk structuurplan Vlaanderen geen delen behoren tot een stedelijk gebied;<br>
-<br>
-2° het subsidiebedrag wordt vermenigvuldigd met 1,3 voor een gemeente waarvan delen volgens het ruimtelijk structuurplan Vlaanderen behoren tot een regionaalstedelijk gebied;<br>
-<br>
-3° het subsidiebedrag wordt vermenigvuldigd met 1,5 voor een gemeente waarvan delen volgens het ruimtelijk structuurplan Vlaanderen behoren tot een grootstedelijk gebied.<br>
-<br>
-[§ 4. Als voor gemeenten met minder dan 10.000 inwoners het subsidiebedrag na toepassing van de correctiefactoren minder dan 24.000 euro bedraagt, wordt het subsidiebedrag opgetrokken tot 24.000 euro. (ing. B.V.R. 10 oktober 2003, art. 1, I: 13 november 2003) ]
+...
 
 ### ART. 4.
 
-De aanvraag tot subsidie moet door het college van burgemeester en schepenen aangetekend of tegen ontvangstbewijs bij het departement ingediend worden, onmiddellijk na de voorlopige vaststelling van het ontwerp van het gemeentelijk ruimtelijk structuurplan.<br /><br />De aanvraag tot subsidie moet een afschrift van de gemeenteraadsbeslissing bevatten waarin het ontwerp van het gemeentelijk ruimtelijk structuurplan voorlopig wordt vastgesteld.
+...
 
 ### ART. 5.
 
-De minister of zijn gemachtigde verleent de subsidie. De beslissing wordt aan de aanvrager betekend door middel van een aangetekende brief en vermeldt het bedrag van de subsidie op basis van de in artikel 3 vermelde categorieën.
+...
 
 ### ART. 6.
 
-De uitbetaling van de subsidie gebeurt in twee schijven:<br>
-<br>
-1° de eerste helft wordt uitbetaald onmiddellijk na het verlenen van de beslissing tot subsidie;<br>
-<br>
-2° de tweede helft wordt uitbetaald na de goedkeuring van het gemeentelijk ruimtelijk structuurplan door de minister of de bestendige deputatie.
+...
 
 ### ART. 7.
 
-Een gemeente kan de subsidie voor de opmaak van een gemeentelijk ruimtelijk structuurplan slechts éénmaal aanvragen.
+...
 
 ## HOOFDSTUK III SUBSIDIËRING VAN GEMEENTELIJKE RUIMTELIJKE UITVOERINGSPLANNEN
 
@@ -133,21 +97,17 @@ Het departement voert de controle uit op de naleving van de voorwaarden gesteld 
 
 ### ART. 14.
 
-[De tweede schijf van de subsidie, bedoeld in artikel 6, wordt niet uitbetaald als het gemeentelijk ruimtelijk structuurplan niet wordt goedgekeurd binnen een periode van twee jaar na de datum van de beslissing tot toekenning van de subsidie. (verv. B.V.R. 10 oktober 2003, art. 5, I: 13 november 2003) ]
+...
 
 ## HOOFDSTUK V OVERGANGS- EN SLOTBEPALINGEN
 
 ### ART. 15.
 
-In afwijking van artikel 4 kan een subsidie worden verleend voor de opmaak van gemeentelijke ruimtelijke structuurplannen waarvan de procedure lopende is op het moment van de inwerkingtreding van dit besluit.<br>
-<br>
-Er is een lopende procedure in de zin van deze bepaling indien het ontwerp structuurplan voorlopig is vastgesteld door de gemeenteraad In dat geval wordt de subsidie aangevraagd en uitbetaald overeenkomstig de aanvragen, bedoeld in hoofdstuk II van dit besluit.<br>
-<br>
-Bovendien kan een subsidie worden aangevraagd voor gemeentelijke ruimtelijke structuurplannen waarvan de procedure reeds werd beëindigd op het moment van de inwerkingtreding van dit besluit. De aanvraag moet een afschrift bevatten van de gemeenteraadsbeslissing waarin de subsidie wordt aangevraagd. De subsidie wordt in één schijf uitbetaald, onmiddellijk na het verlenen van de beslissing tot subsidie. De aanvraag moet ten laatste 6 maanden na de inwerkingtreding van dit besluit worden ingediend.
+...
 
 ### ART. 16.
 
-In afwijking van artikels 2, 8 en 9 kan de subsidie tot 1 januari 2003 worden aangevraagd voor de opmaak van gemeentelijke plannen van aanleg die qua concept en doelstellingen overeenkomen met de in artikel 8 bedoelde ruimtelijke uitvoeringsplannen, op voorwaarde dat er een ruimtelijke afweging gebeurt op basis van de principes en ontwikkelingsperspectieven van het ruimtelijke structuurplan Vlaanderen en op voorwaarde dat de gemeenteraad beslist heeft tot het opmaken van een gemeentelijk ruimtelijk structuurplan. De opmaak van het plan van aanleg moet in voorko-mend geval verantwoord worden op basis van de bepalingen van het voorontwerp of ontwerp van gemeentelijk ruimtelijk structuurplan. De bedragen, vermeld in artikel 9, worden evenwel gehalveerd. De aanvraag tot subsidie en de uitbetaling worden voor het overige ingediend en behandeld op dezelfde manier als de aanvragen, bedoeld in hoofdstuk III van dit besluit.<br /><br />Er kan ook een subsidie worden verleend voor de opmaak van plannen, zoals bedoeld in het eerste lid, waarvoor de procedure lopend is op het ogenblik van de inwerkingtreding van dit besluit. Er is een lopende procedure in de zin van deze bepaling indien het plan van aanleg of het plan tot herziening van een bestaand plan voorlopig is aangenomen door de gemeenteraad. In dat geval wordt de subsidie aangevraagd en uitbetaald overeenkomstig de aanvragen, bedoeld in hoofd-stuk III van dit besluit.<br /><br />De aanvraag tot subsidie moet ingediend worden bij het departement ten laatste de dertigste dag na de publicatie in het Belgisch Staatsblad van de goedkeuring van het betrokken plan. Indien de subsidie wordt aangevraagd na de publicatie in het Belgisch Staatsblad van de goedkeuring van het betrokken plan, wordt de subsidie in één keer uitbetaald, onmiddellijk na het verlenen van de beslissing tot subsidie.<br /><br />Geen subsidie wordt verleend voor bijzondere plannen van aanleg met betrekking tot bedrijventerreinen of gegroepeerde woningbouw die zich beperken tot het aangeven van de bestaande toestand en de grenzen van het gebied.<br /><br />De wijziging van een bijzonder plan van aanleg wordt voor de toepassing van dit besluit gelijkgesteld met de opmaak van een dergelijk plan. Er kan evenwel geen subsidie worden toegekend voor de herziening van een plan waarvan de opmaak of een vroegere herziening reeds overeenkomstig dit besluit is gesubsidieerd.
+...
 
 ### ART. 17.
 
