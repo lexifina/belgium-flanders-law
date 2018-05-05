@@ -55,7 +55,7 @@ Als de grondbeleidsmaatregel, vermeld in het eerste lid, een grondaankoop betref
 1° de grond komt onmiddellijk in aanmerking voor bebouwing;<br>
 2° de grond komt niet onmiddellijk voor bebouwing in aanmerking omdat :<br>
 a) de grond in een woonuitbreidingsgebied ligt als vermeld in het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en gewestplannen;<br>
-b) volgens de huidige bestemming van het gewestplan de grond niet onmiddellijk voor woningbouw in aanmerking komt, maar een ruimtelijk structuurplan of een ontwerp van ruimtelijk uitvoeringsplan een woonbestemming op basis van een principebeslissing van een gemeente, provincie of de Vlaamse overheid in het vooruitzicht stelt;<br>
+b) volgens de huidige bestemming van het gewestplan de grond niet onmiddellijk voor woningbouw in aanmerking komt, maar een ruimtelijk structuurplan, een ruimtelijk beleidsplan&nbsp;of een ontwerp van ruimtelijk uitvoeringsplan een woonbestemming op basis van een principebeslissing van een gemeente, provincie of de Vlaamse overheid in het vooruitzicht stelt;<br>
 c) de grond gelegen is in een ontsluitbare woonzone.<br>
 <br>
 Onder een hoogwaardige woonkwaliteit wordt de kwaliteit van de woningen en de woonomgeving verstaan, waarbij aan elk van volgende voorwaarden is voldaan :<br>
