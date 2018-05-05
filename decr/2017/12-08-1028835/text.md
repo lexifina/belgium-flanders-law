@@ -143,6 +143,140 @@ In dezelfde codex, het laatst gewijzigd bij het decreet van 3 februari 2017, wor
 "Art. 1.5.1. De Vlaamse Regering legt een register aan waarin vermeld wordt welke personen voor de toepassing van deze codex als ruimtelijk planner worden beschouwd. Alleen natuurlijke personen kunnen conform deze codex als ruimtelijke planner worden beschouwd. De Vlaamse Regering bepaalt de voorwaarden voor opname in het register en de modaliteiten ervan.".<br>
 &nbsp;
 
+### ART 23.
+
+&nbsp;In titel II van dezelfde codex, het laatst gewijzigd bij het decreet van 15 juli 2016, wordt hoofdstuk I, dat bestaat uit artikel 2.1.1 tot en met 2.1.19, vervangen door wat volgt:<br>
+"Hoofdstuk I. - Ruimtelijke beleidsplannen<br>
+<br>
+Afdeling 1. - Algemene bepalingen<br>
+<br>
+Art. 2.1.1. § 1. Een ruimtelijk beleidsplan bestaat uit een strategische visie en een of meer beleidskaders die samen het kader aangeven voor de gewenste ruimtelijke ontwikkeling. Het ruimtelijk beleidsplan is erop gericht samenhang te brengen in de voorbereiding, de vaststelling en de uitvoering van beslissingen in de ruimtelijke ordening. Het is realisatiegericht.<br>
+<br>
+De strategische visie omvat een langetermijnvisie voor de ruimtelijke ontwikkeling.<br>
+<br>
+Een beleidskader bevat operationele beleidskeuzes voor de middellange termijn en actieprogramma's voor een thema of voor een gebiedsdeel. Beleidskaders beschrijven onder meer hoe en met wie de gewenste ruimtelijke ontwikkeling wordt gerealiseerd. De Vlaamse Regering kan nadere regels bepalen met betrekking tot de inhoud van een beleidskader.<br>
+<br>
+Het ruimtelijk beleidsplan maakt deel uit van een cyclisch planningsproces. Dat betekent dat:<br>
+1° het door onderzoek onderbouwd wordt;<br>
+2° het opgemaakt of herzien wordt met inspraak van de bevolking en via overleg tussen onder meer bestuursniveaus, beleidsdomeinen of diensten en middenveldorganisaties;<br>
+3° de uitvoering ervan gemonitord wordt;<br>
+4° het in de eerste helft van elke regeer- of bestuursperiode geëvalueerd wordt;<br>
+5° het te allen tijde geheel of gedeeltelijk herzien kan worden.<br>
+<br>
+De vaststelling van een strategische visie en een of meer beleidskaders kan worden gevolgd door de vaststelling van aanvullende beleidskaders die vervolgens integraal deel uitmaken van het ruimtelijk beleidsplan.<br>
+<br>
+De strategische visie kan niet worden opgeheven, ze kan alleen geheel of gedeeltelijk worden herzien. Een beleidskader kan worden opgeheven, met inachtneming van de vereisten en de procedure die gelden voor de opmaak of herziening.<br>
+<br>
+§ 2. Er worden ruimtelijke beleidsplannen opgemaakt op de volgende niveaus:<br>
+1° door het Vlaamse Gewest voor het grondgebied van het Vlaamse Gewest: het Beleidsplan Ruimte Vlaanderen;<br>
+2° door een provincie voor het grondgebied van de provincie: het provinciaal beleidsplan ruimte;<br>
+3° door een of meer gemeenten voor het grondgebied van de gemeente of de betrokken gemeenten: het gemeentelijk of intergemeentelijk beleidsplan ruimte.<br>
+<br>
+Op gemeentelijk niveau kunnen zowel de strategische visie als de beleidskaders afzonderlijk, intergemeentelijk zijn. Voor de toepassing van de bepalingen van dit hoofdstuk wordt een intergemeentelijk beleidsplan ruimte, een intergemeentelijke strategische visie en een intergemeentelijk beleidskader gelijkgesteld met respectievelijk een gemeentelijk beleidsplan ruimte, een gemeentelijke strategische visie en een gemeentelijk beleidskader, telkens voor de beleidskeuzes die op het eigen gemeentelijk grondgebied betrekking hebben of de engagementen van de eigen gemeente ten aanzien van de andere gemeenten. De beslissingen van de respectieve gemeenteraden geven uitdrukkelijk aan op welk onderdeel of welke onderdelen van het intergemeentelijk beleidsplan de beslissing betrekking heeft.<br>
+<br>
+§ 3. In elk ruimtelijk beleidsplan wordt aangegeven hoe het zich verhoudt tot de ruimtelijke beleidsplannen van de andere niveaus.<br>
+<br>
+Bij het formuleren van keuzes, doelstellingen, eigen engagementen en verwachtingen ten aanzien van andere actoren die in het ruimtelijk beleidsplan worden opgenomen, wordt rekening gehouden met de bevoegdheidsbepalende regels uit het Gemeentedecreet, het Provinciedecreet, het decreet van 25 april 2014 betreffende de omgevingsvergunning en andere regelgeving die relevant is voor het thema in kwestie.<br>
+<br>
+Art. 2.1.2. § 1. Geen van de onderdelen van een beleidsplan heeft verordenende kracht.<br>
+<br>
+§ 2. Een beleidskader schikt zich naar de strategische visie van het niveau in kwestie.<br>
+<br>
+§ 3. Bij het vaststellen of herzien van ruimtelijke uitvoeringsplannen en stedenbouwkundige verordeningen, bij het nemen van een voorkeursbesluit of projectbesluit als vermeld in het decreet van 25 april 2014 betreffende complexe projecten, en bij het aanvragen van vergunningen voor eigen projecten mogen de Vlaamse Regering, de provincieraad, de deputatie, de gemeenteraad, het college van burgemeester en schepenen en de instellingen die ressorteren onder elk van die organen, niet afwijken van de beleidskaders van het niveau in kwestie, behalve in geval van:<br>
+1° onvoorziene ontwikkelingen van de ruimtelijke behoeften van de verschillende maatschappelijke activiteiten;<br>
+2° dringende sociale, economische of budgettaire redenen.<br>
+<br>
+Als er met toepassing van de redenen, vermeld in het eerste lid, wordt afgeweken van een beleidskader, wordt dat uitdrukkelijk gemotiveerd. Daarbij wordt aangetoond dat het plan, de verordening, het besluit of de vergunningsaanvraag het nastreven van de strategische visie van het niveau in kwestie niet hypothekeert.<br>
+<br>
+Art. 2.1.3. Het ontwerp van ruimtelijk beleidsplan wordt opgemaakt onder de verantwoordelijkheid van een of meer ruimtelijke planners.<br>
+<br>
+De Vlaamse Regering kan bepalen dat een ruimtelijk beleidsplan door verschillende personen in een samenwerkingsverband moet worden opgemaakt, waaronder minstens één ruimtelijke planner. Ze kan daarbij de vereiste deskundigheden specificeren.<br>
+<br>
+Art. 2.1.4. Binnen de perken van de begroting kan de Vlaamse Regering subsidies verlenen aan provincies, gemeenten, verenigingen van gemeenten, openbare instellingen en aan private rechtspersonen die betrokken zijn bij een samenwerkingsverband voor het opzetten, coördineren en realiseren van een strategisch project ter uitvoering van de doelstellingen, geformuleerd in de strategische visie of in een beleidskader van het Beleidsplan Ruimte Vlaanderen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels daarvoor.<br>
+<br>
+Afdeling 2 Het Beleidsplan Ruimte Vlaanderen<br>
+<br>
+Art. 2.1.5. § 1. De Vlaamse Regering beslist tot de opmaak van het Beleidsplan Ruimte Vlaanderen en neemt de nodige maatregelen voor de opmaak en de vaststelling ervan.<br>
+<br>
+§ 2. De opmaak en de vaststelling van het Beleidsplan Ruimte Vlaanderen omvatten minstens de volgende stappen:<br>
+1° de raadpleging in verschillende fasen van het opmaakproces van:<br>
+a) de strategische adviesraad;<br>
+b) de Sociaal-Economische Raad van Vlaanderen;<br>
+c) de Milieu- en Natuurraad van Vlaanderen;<br>
+d) de Strategische Adviesraad voor Landbouw en Visserij;<br>
+e) de Mobiliteitsraad van Vlaanderen;<br>
+2° overleg tussen de verschillende bestuursniveaus in verschillende fasen van het opmaakproces;<br>
+3° de raadpleging van het publiek in verschillende fasen van het opmaakproces, met inbegrip van een openbaar onderzoek over een voorlopig vastgestelde visie en een voorlopig vastgesteld beleidskader;<br>
+4° wat de strategische visie betreft:<br>
+a) een voorlopige vaststelling van de visie door de Vlaamse Regering;<br>
+b) een standpunt van het Vlaams Parlement over de voorlopig vastgestelde visie, vermeld in punt a);<br>
+c) een definitieve vaststelling van de visie door de Vlaamse Regering;<br>
+d) de bekrachtiging door het Vlaams Parlement van de definitief vastgestelde visie, vermeld in punt c);<br>
+5° wat de beleidskaders betreft:<br>
+a) een voorlopige vaststelling door de Vlaamse Regering;<br>
+b) een definitieve vaststelling door de Vlaamse Regering.<br>
+<br>
+Bij de definitieve vaststelling van beleidskaders kan de Vlaamse Regering onderdelen van provinciale of gemeentelijke beleidskaders omschrijven of aanduiden die niet meer geldig zijn. De Vlaamse Regering wint hiervoor het advies in van de betrokken provincieraad of de gemeenteraad, al naargelang.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de nadere regels voor de opmaak en de vaststelling van het Beleidsplan Ruimte Vlaanderen.<br>
+<br>
+Art. 2.1.6. Bekrachtigde besluiten houdende definitieve vaststelling van een Vlaamse strategische visie of besluiten houdende definitieve vaststelling van een Vlaams beleidskader worden bij uittreksel bekendgemaakt in het Belgisch Staatsblad. Ze treden in werking veertien dagen na de bekendmaking ervan.<br>
+<br>
+De Vlaamse Regering stuurt een afschrift van de strategische visie of het beleidskader naar elke gemeente, waar die documenten kunnen worden ingezien.<br>
+<br>
+Het geldende Beleidsplan Ruimte Vlaanderen is raadpleegbaar op de website van het departement. Op dezelfde website wordt documentatie bijgehouden over aspecten van het cyclische planningsproces, vermeld in artikel 2.1.1, § 1, vierde lid, wat betreft het Beleidsplan Ruimte Vlaanderen.<br>
+<br>
+Art. 2.1.7. De regels voor de opmaak en de vaststelling van het Beleidsplan Ruimte Vlaanderen zijn van toepassing op de herziening ervan. De herziening kan gedeeltelijk zijn.<br>
+<br>
+Afdeling 3 Het provinciaal beleidsplan ruimte<br>
+<br>
+Art. 2.1.8. § 1. De provincieraad besluit tot de opmaak van een provinciaal beleidsplan ruimte. De deputatie neemt de nodige maatregelen voor de opmaak en de vaststelling ervan.<br>
+<br>
+§ 2. De opmaak van een provinciaal beleidsplan ruimte omvat minstens de volgende stappen:<br>
+1° de raadpleging in verschillende fasen van het opmaakproces van de provinciale commissie voor ruimtelijke ordening;<br>
+2° overleg tussen de verschillende bestuursniveaus in verschillende fasen van het opmaakproces;<br>
+3° de raadpleging van het publiek in verschillende fasen van het opmaakproces, met inbegrip van een openbaar onderzoek over een voorlopig vastgestelde visie en een voorlopig vastgesteld beleidskader;<br>
+4° een voorlopige vaststelling en een definitieve vaststelling door de provincieraad.<br>
+<br>
+Bij de definitieve vaststelling van beleidskaders kan de provincieraad onderdelen van gemeentelijke beleidskaders omschrijven of aanduiden die niet meer geldig zijn. De provincieraad wint hiervoor het advies in van de betrokken gemeenteraad.<br>
+<br>
+De Vlaamse Regering kan, naar aanleiding van de definitieve vaststelling van het provinciaal beleidsplan ruimte, een voorbehoud maken bij bepaalde opties uit het plan. Dat voorbehoud is voldoende precies.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de opmaak en de vaststelling van een provinciaal beleidsplan ruimte, en voor de toepassing van het derde lid.<br>
+<br>
+Art. 2.1.9. Besluiten houdende definitieve vaststelling van een provinciale strategische visie of een provinciaal beleidskader worden bij uittreksel bekendgemaakt in het Belgisch Staatsblad. Ze treden in werking veertien dagen na de bekendmaking ervan.<br>
+<br>
+De deputatie stuurt een afschrift van de strategische visie of het beleidskader naar elke gemeente, waar die documenten kunnen worden ingezien.<br>
+<br>
+Het geldende provinciaal beleidsplan ruimte is raadpleegbaar op de website van de provincie. Op dezelfde website wordt documentatie bijgehouden over aspecten van het cyclische planningsproces, vermeld in artikel 2.1.1, § 1, vierde lid, wat betreft het provinciaal beleidsplan ruimte.<br>
+<br>
+Art. 2.1.10. De regels voor de opmaak en de vaststelling van het provinciaal beleidsplan ruimte zijn van toepassing op de herziening ervan. De herziening kan gedeeltelijk zijn.<br>
+<br>
+Afdeling 4 Het gemeentelijk beleidsplan ruimte<br>
+<br>
+Art. 2.1.11. § 1. De gemeenteraad besluit tot de opmaak van een gemeentelijk beleidsplan ruimte. Het college van burgemeester en schepenen neemt de nodige maatregelen voor de opmaak en de vaststelling ervan.<br>
+<br>
+§ 2. De opmaak van een gemeentelijk beleidsplan ruimte omvat minstens de volgende stappen:<br>
+1° de raadpleging in verschillende fasen van het opmaakproces van de gemeentelijke commissie voor ruimtelijke ordening;<br>
+2° overleg tussen de verschillende bestuursniveaus in verschillende fasen van het opmaakproces;<br>
+3° de raadpleging van het publiek in verschillende fasen van het opmaakproces, met inbegrip van een openbaar onderzoek over een voorlopig vastgestelde visie en een voorlopig vastgesteld beleidskader;<br>
+4° een voorlopige vaststelling en een definitieve vaststelling door de gemeenteraad.<br>
+<br>
+De Vlaamse Regering en de deputatie kunnen, naar aanleiding van de definitieve vaststelling van het gemeentelijk beleidsplan ruimte, een voorbehoud maken bij bepaalde opties uit het plan. Dat voorbehoud is voldoende precies.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de opmaak en de vaststelling van een gemeentelijk beleidsplan ruimte, en voor de toepassing van het tweede lid.<br>
+<br>
+Art. 2.1.12. Besluiten houdende definitieve vaststelling van een gemeentelijke strategische visie of een gemeentelijk beleidskader worden bij uittreksel bekendgemaakt in het Belgisch Staatsblad. Ze treden in werking veertien dagen na de bekendmaking ervan.<br>
+<br>
+De strategische visie of het beleidskader kunnen worden ingezien op de gemeente.<br>
+<br>
+Het geldende gemeentelijk beleidsplan ruimte is raadpleegbaar op de website van de gemeente. Op dezelfde website wordt documentatie bijgehouden over aspecten van het cyclische planningsproces, vermeld in artikel 2.1.1, § 1, vierde lid, wat betreft het gemeentelijk beleidsplan ruimte.<br>
+<br>
+Art. 2.1.13. De regels voor de opmaak en de vaststelling van het gemeentelijk beleidsplan ruimte zijn van toepassing op de herziening ervan. De herziening kan gedeeltelijk zijn.".<br>
+&nbsp;
+
 ### ART 24.
 
 In artikel 2.2.3 van dezelfde codex, vervangen bij het decreet van 1 juli 2016, wordt het derde lid opgeheven.<br>
