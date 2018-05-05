@@ -278,7 +278,9 @@
 
 <span style="color: rgb(0, 0, 0);">De minister is ervoor bevoegd de voormelde opgesomde maritieme toegangswegen en bestanddelen van de haveninfrastructuur, vermeld in artikel 2, 3, 4, 5, 7, 9, 10 en 12, aan te vullen en te wijzigen naargelang van de uitbouw van de havens.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0);">Aanvullingen op of wijzigingen in het bestand van de ontsluitingswegen van en naar het havengebied, vermeld in artikel 5, worden gedaan op basis van de categorisering volgens het Ruimtelijk Structuurplan Vlaanderen of de respectieve provinciale ruimtelijke structuurplannen.</span>
+<span style="color: rgb(0, 0, 0);">Aanvullingen op of wijzigingen in het bestand van de ontsluitingswegen van en naar het havengebied, vermeld in artikel 5, worden gedaan op basis van de categorisering volgens het Ruimtelijk Structuurplan Vlaanderen of de respectieve provinciale ruimtelijke structuurplannen.<br>
+<br>
+Na de vervanging van het Ruimtelijk Structuurplan Vlaanderen door het Beleidsplan Ruimte Vlaanderen, vermeld in artikel 2.1.5 van de Vlaamse Codex Ruimtelijke Ordening of de vervanging van provinciale ruimtelijke structuurplannen door provinciale ruimtelijke beleidsplannen als vermeld in artikel 2.1.8 van de voormelde codex, worden de wijzigingen of aanvullingen gedaan op basis van de principes die vastgelegd zijn in de nieuwe ruimtelijke beleidsplannen en de mobiliteitsplannen, gemaakt op grond van artikel 6 van het decreet van 20 maart 2009 betreffende het mobiliteitsbeleid.</span>
 
 ## HOOFDSTUK IV SLOTBEPALINGEN
 
