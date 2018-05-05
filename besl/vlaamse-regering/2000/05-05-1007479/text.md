@@ -42,11 +42,11 @@ Het register ligt permanent ter inzage bij het departement en wordt gepubliceerd
 
 ### ART. 9.
 
-Een ontwerp van gewestelijk, provinciaal en gemeentelijk ruimtelijk structuurplan wordt steeds opgemaakt onder de verantwoordelijkheid van minstens twee ruimtelijke planners.
+Een ontwerp van gewestelijk, provinciaal en gemeentelijk ruimtelijk structuurplan of ruimtelijk beleidsplan&nbsp;wordt steeds opgemaakt onder de verantwoordelijkheid van minstens twee ruimtelijke planners.
 
 ### ART. 10.
 
-Personen die overeenkomstig hoofdstuk IV van titel I van de Vlaamse Codex   Ruimtelijke Ordening als ambtenaar van ruimtelijke ordening zijn aangesteld,   kunnen niet als ruimtelijk planner verantwoordelijk zijn voor de opmaak van een   ruimtelijk structuurplan of ruimtelijk uitvoeringsplan, tenzij dat plan geheel   of gedeeltelijk opgemaakt wordt door het departement of door de desbetreffende   provinciale of gemeentelijke administratie.<BR>
+Personen die overeenkomstig hoofdstuk IV van titel I van de Vlaamse Codex Ruimtelijke Ordening als ambtenaar van ruimtelijke ordening zijn aangesteld, kunnen niet als ruimtelijk planner verantwoordelijk zijn voor de opmaak van een ruimtelijk structuurplan, ruimtelijk beleidsplan&nbsp;of ruimtelijk uitvoeringsplan, tenzij dat plan geheel of gedeeltelijk opgemaakt wordt door het departement of door de desbetreffende provinciale of gemeentelijke administratie.
 
 ## HOOFDSTUK IV OVERGANGS- EN SLOTBEPALINGEN
 
