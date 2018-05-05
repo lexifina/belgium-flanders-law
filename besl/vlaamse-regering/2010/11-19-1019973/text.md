@@ -3605,7 +3605,7 @@ a) discipline mens :<br>
 3.4. impactmodellering.<br>
 4) deeldomein ruimtelijke aspecten :<br>
 4.1. stedenbouwkunde :<br>
-4.2. ruimtelijke planning : ruimtelijke structuurplannen, ruimtelijke uitvoeringsplannen, planschade, planbaten;<br>
+4.2. ruimtelijke planning : ruimtelijke structuurplannen, ruimtelijke beleidsplannen, ruimtelijke uitvoeringsplannen, planschade, planbaten;<br>
 4.3. ruimtelijke ordening en planologie;<br>
 4.4. milderende maatregelen met betrekking tot het deeldomein ruimtelijke aspecten.<br>
 4.5. geografische informatiesystemen.<br>
