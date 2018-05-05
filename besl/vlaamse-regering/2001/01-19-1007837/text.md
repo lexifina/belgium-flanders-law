@@ -144,7 +144,7 @@ Het ondernemingsplan voor het lopende kalenderjaar, dat niet het eerste ondernem
 § 2. In afwijking van paragraaf 1 moeten de volgende voorstellen van beslissing niet voor advies worden voorgelegd :<br>
 1° beslissingen met betrekking tot de aanwijzing, voordracht, benoeming, bevordering van personen;<br>
 2° beslissingen met betrekking tot de evaluatie van topambtenaren;<br>
-3° ontwerpen van of wijzigingen aan ruimtelijke structuur- en uitvoeringsplannen.<br>
+3° ontwerpen van of wijzigingen aan ruimtelijke beleids- en uitvoeringsplannen.<br>
 4° beslissingen op krachtlijnen die voorafgaan aan een definitieve beslissing, zoals goedkeuring van conceptnota's, visienota's, groen- of witboeken, op voorwaarde dat die beslissingen uitdrukkelijk vermelden dat ze nog geen enkel financieel of budgettair engagement inhouden;<br>
 5° beslissingen tot indiening van een beroep tot vernietiging bij het Grondwettelijk Hof;<br>
 6° besluiten houdende de toekenning van een toelage aan de diensten met afzonderlijk beheer en de rechtspersonen als vermeld in artikel 4, § 1, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof;<br>
