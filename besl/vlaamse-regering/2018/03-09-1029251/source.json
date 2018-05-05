@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029251,
+  "title": "Besluit van de Vlaamse Regering van 2018-03-09 houdende de samenvoeging met beperkte grensaanpassing van de Polder van Ettenhoven en de Polder van Muisbroek tot een nieuwe polder met als naam Polder van Ettenhoven en Muisbroek, bl. 36270.",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029251/VolledigDocument?datum=2018-05-05",
+  "source_sha256": "576d77740f18966d60f6af9a0c93177f948576262b8874f308e9564843c98aa4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029251&param=informatie",
+  "as_of": "2018-05-05",
+  "made": "2018-03-09",
+  "gazette": "2018-04-25",
+  "numac": 2018011715,
+  "document_start": "2018-05-05",
+  "document_end": null,
+  "in_force": "2018-05-05",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2018-05-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
