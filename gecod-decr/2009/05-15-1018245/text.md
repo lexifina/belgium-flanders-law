@@ -292,219 +292,179 @@ De Vlaamse Regering legt een register aan waarin vermeld wordt welke personen vo
 
 ### ART. 2.1.1.
 
-Onder ruimtelijk structuurplan wordt verstaan een beleidsdocument dat het kader aangeeft voor de gewenste ruimtelijke structuur. Het geeft een langetermijnvisie op de ruimtelijke ontwikkeling van het gebied in kwestie. Het is erop gericht samenhang te brengen in de voorbereiding, de vaststelling en de uitvoering van beslissingen die de ruimtelijke ordening aanbelangen.<br /><br />Er worden ruimtelijke structuurplannen op de volgende niveaus opgemaakt :<br />1° door het Vlaamse Gewest voor het grondgebied van het Vlaamse Gewest : het ruimtelijk structuurplan Vlaanderen dat de structuurbepalende elementen van gewestelijk belang bevat en taakstellingen met betrekking tot de uitvoering ervan, met aanduiding van de onderdelen die door het Vlaamse Gewest, de provincies of de gemeenten moeten worden uitgevoerd;<br />2° door een provincie voor het grondgebied van de provincie : het provinciaal ruimtelijk structuurplan dat de structuurbepalende elementen van provinciaal belang bevat en taakstellingen met betrekking tot de uitvoering ervan, met aanduiding van de onderdelen die door de provincie of de gemeenten moeten worden uitgevoerd;<br />3° door een gemeente voor het grondgebied van de gemeente : het gemeentelijk ruimtelijk structuurplan dat de structuurbepalende elementen van gemeentelijk belang bevat en taakstellingen met betrekking tot de uitvoering ervan door de gemeente.<br /><br />Aangrenzende gemeenten kunnen voor de totaliteit van hun grondgebieden een gezamenlijk ruimtelijk structuurplan opmaken, met structuurbepalende elementen en taakstellingen van zowel gemeentegrensoverstijgend als gemeentelijk niveau. Voor de toepassing van deze codex wordt het gezamenlijk ruimtelijk structuurplan echter geacht te bestaan uit afzonderlijke gemeentelijke ruimtelijke structuurplannen per gemeentelijk grondgebied, onverminderd artikel 7.2.1, § 2.<br /><br />De structuurbepalende elementen zijn de elementen die de hoofdlijnen van de ruimtelijke structuur van het niveau in kwestie beschrijven.<br /><br />De Vlaamse Regering kan nadere regels vaststellen met betrekking tot bovenvermelde structuurbepalende elementen en tot invulling van de structuurbepalende elementen voor de drie niveaus.<br /><br />
+§ 1. Een ruimtelijk beleidsplan bestaat uit een strategische visie en een of meer beleidskaders die samen het kader aangeven voor de gewenste ruimtelijke ontwikkeling. Het ruimtelijk beleidsplan is erop gericht samenhang te brengen in de voorbereiding, de vaststelling en de uitvoering van beslissingen in de ruimtelijke ordening. Het is realisatiegericht.<br>
+<br>
+De strategische visie omvat een langetermijnvisie voor de ruimtelijke ontwikkeling.<br>
+<br>
+Een beleidskader bevat operationele beleidskeuzes voor de middellange termijn en actieprogramma's voor een thema of voor een gebiedsdeel. Beleidskaders beschrijven onder meer hoe en met wie de gewenste ruimtelijke ontwikkeling wordt gerealiseerd. De Vlaamse Regering kan nadere regels bepalen met betrekking tot de inhoud van een beleidskader.<br>
+<br>
+Het ruimtelijk beleidsplan maakt deel uit van een cyclisch planningsproces. Dat betekent dat:<br>
+1° het door onderzoek onderbouwd wordt;<br>
+2° het opgemaakt of herzien wordt met inspraak van de bevolking en via overleg tussen onder meer bestuursniveaus, beleidsdomeinen of diensten en middenveldorganisaties;<br>
+3° de uitvoering ervan gemonitord wordt;<br>
+4° het in de eerste helft van elke regeer- of bestuursperiode geëvalueerd wordt;<br>
+5° het te allen tijde geheel of gedeeltelijk herzien kan worden.<br>
+<br>
+De vaststelling van een strategische visie en een of meer beleidskaders kan worden gevolgd door de vaststelling van aanvullende beleidskaders die vervolgens integraal deel uitmaken van het ruimtelijk beleidsplan.<br>
+<br>
+De strategische visie kan niet worden opgeheven, ze kan alleen geheel of gedeeltelijk worden herzien. Een beleidskader kan worden opgeheven, met inachtneming van de vereisten en de procedure die gelden voor de opmaak of herziening.<br>
+<br>
+§ 2. Er worden ruimtelijke beleidsplannen opgemaakt op de volgende niveaus:<br>
+1° door het Vlaamse Gewest voor het grondgebied van het Vlaamse Gewest: het Beleidsplan Ruimte Vlaanderen;<br>
+2° door een provincie voor het grondgebied van de provincie: het provinciaal beleidsplan ruimte;<br>
+3° door een of meer gemeenten voor het grondgebied van de gemeente of de betrokken gemeenten: het gemeentelijk of intergemeentelijk beleidsplan ruimte.<br>
+<br>
+Op gemeentelijk niveau kunnen zowel de strategische visie als de beleidskaders afzonderlijk, intergemeentelijk zijn. Voor de toepassing van de bepalingen van dit hoofdstuk wordt een intergemeentelijk beleidsplan ruimte, een intergemeentelijke strategische visie en een intergemeentelijk beleidskader gelijkgesteld met respectievelijk een gemeentelijk beleidsplan ruimte, een gemeentelijke strategische visie en een gemeentelijk beleidskader, telkens voor de beleidskeuzes die op het eigen gemeentelijk grondgebied betrekking hebben of de engagementen van de eigen gemeente ten aanzien van de andere gemeenten. De beslissingen van de respectieve gemeenteraden geven uitdrukkelijk aan op welk onderdeel of welke onderdelen van het intergemeentelijk beleidsplan de beslissing betrekking heeft.<br>
+<br>
+§ 3. In elk ruimtelijk beleidsplan wordt aangegeven hoe het zich verhoudt tot de ruimtelijke beleidsplannen van de andere niveaus.<br>
+<br>
+Bij het formuleren van keuzes, doelstellingen, eigen engagementen en verwachtingen ten aanzien van andere actoren die in het ruimtelijk beleidsplan worden opgenomen, wordt rekening gehouden met de bevoegdheidsbepalende regels uit het Gemeentedecreet, het Provinciedecreet, het decreet van 25 april 2014 betreffende de omgevingsvergunning en andere regelgeving die relevant is voor het thema in kwestie.
 
 ### ART. 2.1.2.
 
-§ 1. Ieder ruimtelijk structuurplan bevat een bindend, een richtinggevend   en een informatief gedeelte.<BR><BR>§ 2. Bij het opmaken van een ruimtelijk   structuurplan duidt de instantie die het plan definitief vaststelt de onderdelen   ervan aan die bindend zijn.<BR><BR>Voor het ruimtelijk structuurplan Vlaanderen   zijn deze onderdelen bindend voor het Vlaamse Gewest, de diensten van de Vlaamse   Regering, de instellingen die ressorteren onder het Vlaamse Gewest en de   besturen die onder het administratief toezicht staan van het Vlaamse Gewest en   de vennootschappen die een erkenning hebben van de instellingen die ressorteren   onder het Vlaamse Gewest.<BR><BR>Voor het provinciaal ruimtelijk structuurplan   zijn deze onderdelen bindend voor de provincie en de gemeenten op haar   grondgebied en voor de instellingen die eronder ressorteren.<BR><BR>Voor het   gemeentelijk ruimtelijk structuurplan zijn deze onderdelen bindend voor de   gemeente en voor de instellingen die eronder ressorteren. Van het bindend   gedeelte van het gemeentelijk ruimtelijk structuurplan wordt afgeweken indien   zulks genoodzaakt wordt door maatregelen die vereist zijn voor de   verwezenlijking van het bindend sociaal objectief, vermeld in artikel 4.1.2 van   het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.<BR><BR>§   3. Het richtinggevend gedeelte van een ruimtelijk structuurplan is het deel van   het ruimtelijk structuurplan waarvan een overheid bij het nemen van beslissingen   niet mag afwijken, tenzij omwille van onvoorziene ontwikkelingen van de   ruimtelijke behoeften van de verschillende maatschappelijke activiteiten of   omwille van dringende sociale, economische of budgettaire redenen. De   uitzonderingsgronden voor een afwijking worden uitgebreid gemotiveerd. Ze mogen   in geen geval een aanleiding zijn om de duurzame ruimtelijke ontwikkeling, de   ruimtelijke draagkracht en de ruimtelijke kwaliteit van welk gebied ook in het   gedrang te brengen. Onverminderd voormelde uitzonderingsgronden wordt tevens van   het richtinggevend gedeelte van een gemeentelijk ruimtelijk structuurplan   afgeweken indien zulks genoodzaakt wordt door maatregelen die vereist zijn voor   de verwezenlijking van het bindend sociaal objectief, vermeld in artikel 4.1.2   van het decreet van 27 maart 2009 betreffende het grond- en   pandenbeleid.<BR><BR>Dit deel bevat ten minste :<BR>1° de doelstellingen en de   prioriteiten inzake ruimtelijke ontwikkeling;<BR>2° een beschrijving van de   gewenste ruimtelijke structuur uitgaande van de bestaande ruimtelijke structuur   en van behoeften en gevolgen op economisch, sociaal, cultureel en agrarisch   gebied, en op gebied van mobiliteit, natuur en milieu, met inbegrip van   veiligheid, in het bijzonder vermeld in artikelen 2 en 24 van het   samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaamse, het   Waalse en het Brusselse Hoofdstedelijke Gewest betreffende de beheersing van de   gevaren van zware ongevallen waarbij gevaarlijke stoffen betrokken zijn;<BR>3°   de maatregelen, middelen, instrumenten en acties tot uitvoering van het   ruimtelijk structuurplan.<BR><BR>§ 4. Het informatief deel bevat ten minste   :<BR>1° een beschrijving, analyse en evaluatie van de bestaande fysische   ruimtelijke toestand;<BR>2° een onderzoek naar de toekomstige ruimtelijke   behoeften van de verschillende maatschappelijke activiteiten;<BR>3° het verband   met het hogere ruimtelijk structuurplan of, in voorkomend geval, met de plannen   van aanleg en de ruimtelijke uitvoeringsplannen;<BR>4° de mogelijke   alternatieven om de gewenste ruimtelijke structuur te bereiken.<BR><BR>§ 5. Het   actieprogramma van het Grond- en pandenbeleidsplan Vlaanderen, vermeld in   artikel 2.2.1, § 2, 3°, van het decreet van 27 maart 2009 betreffende het grond-   en pandenbeleid, wordt geïntegreerd in het bindend en het richtinggevend   gedeelte van het ruimtelijk structuurplan Vlaanderen, uiterlijk op het ogenblik   van de voorlopige vaststelling van dat structuurplan.<BR><BR>Provincie- en   gemeenteraden kunnen in hun ruimtelijke structuurplannen de beleidskeuzen   vastleggen met betrekking tot de door de lokale besturen behartigde aspecten van   het grond- en pandenbeleid.<BR><BR>§ 6. Na de vaststelling van een ruimtelijk   structuurplan neemt de overheid die het structuurplan heeft vastgesteld de   nodige maatregelen om de ruimtelijke uitvoeringsplannen in kwestie in   overeenstemming te brengen met het ruimtelijk structuurplan.<BR><BR>§ 7. De   ruimtelijke structuurplannen vormen geen beoordelingsgrond voor aanvragen tot   stedenbouwkundig attest of omgevingsvergunning, behalve voor wat betreft de   toepassing van artikel 68, tweede lid, 7°, a), van het decreet van 25 april 2014   betreffende de omgevingsvergunning.<BR><BR>§ 8. De Vlaamse Regering kan de   voorwaarden bepalen waaraan één of meer fysieke personen of rechtspersonen, of   een gewestelijk, provinciaal of gemeentelijk bestuur moeten voldoen om te kunnen   worden aangewezen om een ontwerp van ruimtelijk structuurplan op te maken. Die   voorwaarden kunnen onder meer variëren naar gelang van het planningsniveau of   naar gelang van de grootte en de aard van de gemeente voor wat het gemeentelijke   niveau betreft.<BR><BR>De opmaak van het ontwerp van ruimtelijk structuurplan   gebeurt onder de verantwoordelijkheid van één of meerdere ruimtelijk   planners.<BR><BR>De Vlaamse Regering legt een register aan waarin vermeld wordt   welke personen conform deze codex als ruimtelijk planner worden beschouwd. Enkel   natuurlijke personen kunnen conform deze codex als ruimtelijke planner worden   beschouwd. De opname in het register geldt voor een periode van drie jaar. De   Vlaamse Regering bepaalt de voorwaarden voor opname in het register.<BR><BR>De   Vlaamse Regering kan bepalen dat een ruimtelijk structuurplan door meerdere   personen in een samenwerkingsverband dient te worden opgemaakt, waaronder   minstens één ruimtelijke planner, en ze kan hierbij de vereiste deskundigheden   specificeren.<BR><BR>§ 9. Er wordt vooroverleg gepleegd tussen de betrokken   overheden en instellingen die afhangen van het Vlaamse Gewest over de   voorontwerpen van ruimtelijke structuurplannen.<BR><BR>De Vlaamse Regering   bepaalt welke overheden en instellingen bij het vooroverleg betrokken zijn en   kan nadere regels vaststellen met betrekking tot de organisatie van het   vooroverleg.<BR><BR>§ 10. Ter uitvoering van de doelstellingen van het   Ruimtelijk Structuurplan Vlaanderen kan de Vlaamse Regering, binnen de perken   van de begroting, subsidies verlenen aan provincies, gemeenten, verenigingen van   gemeenten, openbare instellingen en aan private rechtspersonen die betrokken   zijn bij een samenwerkingsverband voor het opzetten, coördineren en realiseren   van een strategisch project.<BR><BR>
+§ 1. Geen van de onderdelen van een beleidsplan heeft verordenende kracht.<br>
+<br>
+§ 2. Een beleidskader schikt zich naar de strategische visie van het niveau in kwestie.<br>
+<br>
+§ 3. Bij het vaststellen of herzien van ruimtelijke uitvoeringsplannen en stedenbouwkundige verordeningen, bij het nemen van een voorkeursbesluit of projectbesluit als vermeld in het decreet van 25 april 2014 betreffende complexe projecten, en bij het aanvragen van vergunningen voor eigen projecten mogen de Vlaamse Regering, de provincieraad, de deputatie, de gemeenteraad, het college van burgemeester en schepenen en de instellingen die ressorteren onder elk van die organen, niet afwijken van de beleidskaders van het niveau in kwestie, behalve in geval van:<br>
+1° onvoorziene ontwikkelingen van de ruimtelijke behoeften van de verschillende maatschappelijke activiteiten;<br>
+2° dringende sociale, economische of budgettaire redenen.<br>
+<br>
+Als er met toepassing van de redenen, vermeld in het eerste lid, wordt afgeweken van een beleidskader, wordt dat uitdrukkelijk gemotiveerd. Daarbij wordt aangetoond dat het plan, de verordening, het besluit of de vergunningsaanvraag het nastreven van de strategische visie van het niveau in kwestie niet hypothekeert.
 
 ### ART. 2.1.3.
 
-§ 1. De Vlaamse Regering besluit tot het opmaken van het ruimtelijk structuurplan Vlaanderen en neemt de nodige maatregelen tot opmaak.<br>
+Het ontwerp van ruimtelijk beleidsplan wordt opgemaakt onder de verantwoordelijkheid van een of meer ruimtelijke planners.<br>
 <br>
-§ 2. De Vlaamse Regering stelt het ontwerp van het ruimtelijk structuurplan voorlopig vast na advies van de strategische adviesraad.<br>
-<br>
-§ 3. De Vlaamse Regering onderwerpt het ontwerp van het ruimtelijk structuurplan Vlaanderen aan een openbaar onderzoek dat binnen dertig dagen na de voorlopige vaststelling, vermeld in § 2, minstens wordt aangekondigd door :<br>
-1° aanplakking in elke gemeente van het Vlaamse Gewest;<br>
-2° een bericht in het Belgisch Staatsblad en in ten minste drie dagbladen die in het Vlaamse Gewest worden verspreid;<br>
-3° een bericht dat driemaal door de openbare radio en televisie wordt uitgezonden;<br>
-4° een bericht op de website van het departement.<br>
-<br>
-Deze aankondiging vermeldt minstens :<br>
-1° waar het ontwerp ter inzage ligt;<br>
-2° de begin- en einddatum van het openbaar onderzoek;<br>
-3° het adres waarop de adviezen, opmerkingen en bezwaren, vermeld in § 5, dienen toe te komen of kunnen worden afgegeven, en de vermelding dat opmerkingen en bezwaren ook kunnen worden afgegeven op het gemeentehuis.<br>
-<br>
-Het openbaar onderzoek start uiterlijk op de dertigste dag na deze waarop de aankondiging ervan in het Belgisch Staatsblad verschenen is. Deze termijn is een termijn van orde.<br>
-<br>
-De Vlaamse Regering kan nadere regels voor het openbaar onderzoek vaststellen.<br>
-<br>
-§ 4. Na de aankondiging wordt het ontwerp van het ruimtelijk structuurplan Vlaanderen gedurende negentig dagen ter inzage van de bevolking gelegd in het gemeentehuis van elke gemeente van het Vlaamse Gewest en wordt het ontwerp van het ruimtelijk structuurplan Vlaanderen onmiddellijk opgestuurd naar het Vlaams Parlement.<br>
-<br>
-De Vlaamse Regering organiseert in elke provincie ten minste één informatie- en inspraakvergadering.<br>
-<br>
-§ 5. De bezwaren en opmerkingen worden uiterlijk de laatste dag van de termijn van negentig dagen, vermeld in § 4, eerste lid, aan de Vlaamse Regering bezorgd per beveiligde zending.<br>
-<br>
-De bezwaren en opmerkingen kunnen ook uiterlijk de laatste dag van die termijn aan het gemeentehuis van elke gemeente van het Vlaamse Gewest, worden afgegeven tegen ontvangstbewijs. De gemeente bezorgt in dat geval uiterlijk de derde werkdag na het openbaar onderzoek, de bezwaren en opmerkingen aan de Vlaamse Regering. Met bezwaren en opmerkingen die laattijdig aan de Vlaamse Regering worden bezorgd, moet geen rekening worden gehouden. De Vlaamse Regering kan nadere regels vaststellen met betrekking tot het ontvangen en bijhouden van bezwaren en opmerkingen door de gemeente en met betrekking tot de wijze waarop deze aan de Vlaamse Regering worden bezorgd.<br>
-<br>
-De provincieraden, de gemeenteraden en de door de Vlaamse Regering aan te wijzen gewestelijke diensten bezorgen hun advies aan de Vlaamse Regering binnen dezelfde termijn.<br>
-<br>
-Wanneer er geen advies is verleend binnen deze termijn, mag aan de adviesvereiste worden voorbijgegaan.<br>
-<br>
-§ 6. De Vlaamse Regering brengt binnen een termijn van zestig dagen na het einde van het openbaar onderzoek verslag uit over het openbaar onderzoek bij het Vlaams Parlement. Dat verslag wordt ook bezorgd aan de strategische adviesraad, de Sociaal-Economische Raad van Vlaanderen en de Milieu- en Natuurraad.<br>
-<br>
-Op gemotiveerd verzoek van het departement beslist de Vlaamse Regering over de verlenging met zestig dagen van de termijn, vermeld in het eerste lid.<br>
-<br>
-§ 7. Binnen een termijn van honderdtachtig dagen, tweehonderdveertig dagen in geval van verlenging van de termijn zoals beschreven in paragraaf 6, tweede lid, vanaf het begin van het openbaar onderzoek, kan het Vlaams Parlement bij de Vlaamse Regering een standpunt uitbrengen over het ontwerp van het ruimtelijk structuurplan Vlaanderen.<br>
-<br>
-De strategische adviesraad, de Sociaal-Economische Raad van Vlaanderen en de Milieu- en Natuurraad van Vlaanderen kunnen eveneens, binnen de termijnregeling, vermeld in het eerste lid, een standpunt uitbrengen over het ontwerp van het ruimtelijk structuurplan Vlaanderen.<br>
-<br>
-§ 8. ...<br>
-<br>
-§ 9. De Vlaamse Regering stelt binnen tweehonderd veertig dagen na de begindatum van het openbaar onderzoek, driehonderd dagen in geval van verlenging van de termijn, vermeld in paragraaf 6, tweede lid, het ruimtelijk structuurplan Vlaanderen definitief vast.<br>
-<br>
-Bij de definitieve vaststelling van het plan kunnen ten opzichte van het voorlopig vastgestelde plan slechts wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit de tijdens het openbaar onderzoek geformuleerde bezwaren en opmerkingen of de adviezen, ingewonnen op grond van een bij of krachtens deze codex vastgestelde adviesverplichting.<br>
-<br>
-§ 10. Het bindend gedeelte dient, na de definitieve vaststelling, binnen zestig dagen bekrachtigd te worden door het Vlaams Parlement.<br>
-&nbsp;
+De Vlaamse Regering kan bepalen dat een ruimtelijk beleidsplan door verschillende personen in een samenwerkingsverband moet worden opgemaakt, waaronder minstens één ruimtelijke planner. Ze kan daarbij de vereiste deskundigheden specificeren.
 
 ### ART. 2.1.4.
 
-Het besluit houdende definitieve vaststelling van het ruimtelijk structuurplan Vlaanderen wordt door de Vlaamse Regering bij uittreksel bekendgemaakt in het Belgisch Staatsblad. Het ruimtelijk structuurplan Vlaanderen treedt in werking veertien dagen na de bekendmaking ervan.<br /><br />De Vlaamse Regering stuurt een afschrift van het ruimtelijk structuurplan Vlaanderen, van het advies van de strategische adviesraad en van het besluit houdende de definitieve vaststelling naar elke gemeente, waar deze documenten kunnen worden ingezien.<br /><br />
+Binnen de perken van de begroting kan de Vlaamse Regering subsidies verlenen aan provincies, gemeenten, verenigingen van gemeenten, openbare instellingen en aan private rechtspersonen die betrokken zijn bij een samenwerkingsverband voor het opzetten, coördineren en realiseren van een strategisch project ter uitvoering van de doelstellingen, geformuleerd in de strategische visie of in een beleidskader van het Beleidsplan Ruimte Vlaanderen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels daarvoor.
 
 ## [Afdeling 2 Het Beleidsplan Ruimte Vlaanderen (verv. decr. 8 december 2017, art. 23, I: 5 mei 2018)]
 
 ### ART. 2.1.5.
 
-§ 1. Het ruimtelijk structuurplan Vlaanderen wordt vastgesteld voor een termijn van vijf jaar. Het blijft in ieder geval van kracht tot het door een nieuw definitief vastgesteld ruimtelijk structuurplan Vlaanderen is vervangen.<br /><br />De bindende bepalingen van de bestaande provinciale en gemeentelijke ruimtelijke structuurplannen die strijdig zijn met de bindende bepalingen van het nieuw vastgestelde ruimtelijk structuurplan Vlaanderen, worden limitatief opgesomd of omschreven in het bindend deel van het nieuw vastgestelde ruimtelijk structuurplan Vlaanderen en zijn hierdoor van rechtswege opgeheven. De Vlaamse Regering kan tevens een termijn opleggen voor de herziening van de ruimtelijke structuurplannen die tegenstrijdige bindende bepalingen bevatten.<br /><br />§ 2. Het ruimtelijk structuurplan Vlaanderen kan te allen tijde geheel of gedeeltelijk worden herzien.<br /><br />§ 3. De regels voor de opmaak van het ruimtelijk structuurplan Vlaanderen zijn eveneens van toepassing op de herziening ervan.<br /><br />§ 4. Elke provincieraad, op voorstel van de deputatie, en elke gemeenteraad, op voorstel van het college van burgemeester en schepenen, kan een gemotiveerd verzoek richten aan de Vlaamse Regering om het ruimtelijk structuurplan Vlaanderen te herzien. Binnen negentig dagen vanaf de verzending van dit verzoek dient de Vlaamse Regering dit verzoek gemotiveerd te beantwoorden.<br /><br />
+§ 1. De Vlaamse Regering beslist tot de opmaak van het Beleidsplan Ruimte Vlaanderen en neemt de nodige maatregelen voor de opmaak en de vaststelling ervan.<br>
+<br>
+§ 2. De opmaak en de vaststelling van het Beleidsplan Ruimte Vlaanderen omvatten minstens de volgende stappen:<br>
+1° de raadpleging in verschillende fasen van het opmaakproces van:<br>
+a) de strategische adviesraad;<br>
+b) de Sociaal-Economische Raad van Vlaanderen;<br>
+c) de Milieu- en Natuurraad van Vlaanderen;<br>
+d) de Strategische Adviesraad voor Landbouw en Visserij;<br>
+e) de Mobiliteitsraad van Vlaanderen;<br>
+2° overleg tussen de verschillende bestuursniveaus in verschillende fasen van het opmaakproces;<br>
+3° de raadpleging van het publiek in verschillende fasen van het opmaakproces, met inbegrip van een openbaar onderzoek over een voorlopig vastgestelde visie en een voorlopig vastgesteld beleidskader;<br>
+4° wat de strategische visie betreft:<br>
+a) een voorlopige vaststelling van de visie door de Vlaamse Regering;<br>
+b) een standpunt van het Vlaams Parlement over de voorlopig vastgestelde visie, vermeld in punt a);<br>
+c) een definitieve vaststelling van de visie door de Vlaamse Regering;<br>
+d) de bekrachtiging door het Vlaams Parlement van de definitief vastgestelde visie, vermeld in punt c);<br>
+5° wat de beleidskaders betreft:<br>
+a) een voorlopige vaststelling door de Vlaamse Regering;<br>
+b) een definitieve vaststelling door de Vlaamse Regering.<br>
+<br>
+Bij de definitieve vaststelling van beleidskaders kan de Vlaamse Regering onderdelen van provinciale of gemeentelijke beleidskaders omschrijven of aanduiden die niet meer geldig zijn. De Vlaamse Regering wint hiervoor het advies in van de betrokken provincieraad of de gemeenteraad, al naargelang.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de nadere regels voor de opmaak en de vaststelling van het Beleidsplan Ruimte Vlaanderen.
 
 ### ART. 2.1.6.
 
-De Vlaamse Regering kan gewestelijke ruimtelijke uitvoeringsplannen   opmaken en herzien en andere passende initiatieven nemen ter uitvoering van het   ruimtelijk structuurplan Vlaanderen.<BR><BR>De Vlaamse Regering kan tevens   optreden in de plaats van de provincies of de gemeenten indien ze de krachtens   het ruimtelijk structuurplan Vlaanderen opgedragen taken niet   uitvoeren.
+Bekrachtigde besluiten houdende definitieve vaststelling van een Vlaamse strategische visie of besluiten houdende definitieve vaststelling van een Vlaams beleidskader worden bij uittreksel bekendgemaakt in het Belgisch Staatsblad. Ze treden in werking veertien dagen na de bekendmaking ervan.<br>
+<br>
+De Vlaamse Regering stuurt een afschrift van de strategische visie of het beleidskader naar elke gemeente, waar die documenten kunnen worden ingezien.<br>
+<br>
+Het geldende Beleidsplan Ruimte Vlaanderen is raadpleegbaar op de website van het departement. Op dezelfde website wordt documentatie bijgehouden over aspecten van het cyclische planningsproces, vermeld in artikel 2.1.1, § 1, vierde lid, wat betreft het Beleidsplan Ruimte Vlaanderen.
 
 ### ART. 2.1.7.
 
-De provincie stelt hetzij uit eigen beweging, hetzij binnen de termijn die haar door de Vlaamse Regering wordt opgelegd, een provinciaal ruimtelijk structuurplan vast. Het provinciaal ruimtelijk structuurplan richt zich naar het ruimtelijk structuurplan Vlaanderen en kan slechts van het richtinggevend deel afwijken op grond van de motieven, bepaald in artikel 2.1.2, § 3. Van de als bindend aangeduide onderdelen kan niet worden afgeweken.<br /><br />
+De regels voor de opmaak en de vaststelling van het Beleidsplan Ruimte Vlaanderen zijn van toepassing op de herziening ervan. De herziening kan gedeeltelijk zijn.
 
 ## [Afdeling 3 Het provinciaal beleidsplan ruimte (verv. decr. 8 december 2017, art. 23, I: 5 mei 2018)]
 
 ### ART. 2.1.8.
 
-§ 1. Onverminderd artikel 2.1.7, beslist de provincieraad tot het opmaken van een provinciaal ruimtelijk structuurplan.<br /><br />§ 2. De Vlaamse Regering kan een gemotiveerd verzoek richten aan de provincieraad om een provinciaal ruimtelijk structuurplan op te maken of te herzien.<br /><br />Binnen negentig dagen vanaf de verzending van dit verzoek dient de provincieraad dit verzoek gemotiveerd te beantwoorden.<br /><br />§ 3. Bij ontstentenis van een antwoord of bij een onvoldoend gemotiveerd antwoord, kan de Vlaamse Regering een termijn opleggen waarbinnen het provinciaal ruimtelijk structuurplan moet worden opgemaakt. Als de provincieraad deze termijn laat verstrijken, kan de Vlaamse Regering zelf het provinciaal ruimtelijk structuurplan laten opmaken en vaststellen op kosten van de provincie, overeenkomstig de regels voor de opmaak van een provinciaal ruimtelijk structuurplan, met dien verstande dat ze in de plaats treedt van de provincieraad, of de deputatie al naargelang van het geval, voor elke beslissing die met betrekking tot deze opmaak moet worden genomen.<br /><br />§ 4. De gemeenteraad van een gemeente gelegen binnen de provincie kan, op voorstel van het college van burgemeester en schepenen, een gemotiveerd verzoek richten aan de provincieraad om een provinciaal ruimtelijk structuurplan te herzien. Binnen negentig dagen vanaf de verzending van dit verzoek dient de provincieraad dit verzoek gemotiveerd te beantwoorden.<br /><br />
+§ 1. De provincieraad besluit tot de opmaak van een provinciaal beleidsplan ruimte. De deputatie neemt de nodige maatregelen voor de opmaak en de vaststelling ervan.<br>
+<br>
+§ 2. De opmaak van een provinciaal beleidsplan ruimte omvat minstens de volgende stappen:<br>
+1° de raadpleging in verschillende fasen van het opmaakproces van de provinciale commissie voor ruimtelijke ordening;<br>
+2° overleg tussen de verschillende bestuursniveaus in verschillende fasen van het opmaakproces;<br>
+3° de raadpleging van het publiek in verschillende fasen van het opmaakproces, met inbegrip van een openbaar onderzoek over een voorlopig vastgestelde visie en een voorlopig vastgesteld beleidskader;<br>
+4° een voorlopige vaststelling en een definitieve vaststelling door de provincieraad.<br>
+<br>
+Bij de definitieve vaststelling van beleidskaders kan de provincieraad onderdelen van gemeentelijke beleidskaders omschrijven of aanduiden die niet meer geldig zijn. De provincieraad wint hiervoor het advies in van de betrokken gemeenteraad.<br>
+<br>
+De Vlaamse Regering kan, naar aanleiding van de definitieve vaststelling van het provinciaal beleidsplan ruimte, een voorbehoud maken bij bepaalde opties uit het plan. Dat voorbehoud is voldoende precies.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de opmaak en de vaststelling van een provinciaal beleidsplan ruimte, en voor de toepassing van het derde lid.
 
 ### ART. 2.1.9.
 
-§ 1. De deputatie is belast met het opmaken van het provinciaal ruimtelijk structuurplan en neemt de nodige maatregelen tot opmaak.<br /><br />§ 2. De provincieraad stelt, na advies van de provinciale commissie voor ruimtelijke ordening, het ontwerp van provinciaal ruimtelijk structuurplan voorlopig vast.<br /><br />Tevens stuurt hij het onmiddellijk op naar de Vlaamse Regering.<br /><br />
+Besluiten houdende definitieve vaststelling van een provinciale strategische visie of een provinciaal beleidskader worden bij uittreksel bekendgemaakt in het Belgisch Staatsblad. Ze treden in werking veertien dagen na de bekendmaking ervan.<br>
+<br>
+De deputatie stuurt een afschrift van de strategische visie of het beleidskader naar elke gemeente, waar die documenten kunnen worden ingezien.<br>
+<br>
+Het geldende provinciaal beleidsplan ruimte is raadpleegbaar op de website van de provincie. Op dezelfde website wordt documentatie bijgehouden over aspecten van het cyclische planningsproces, vermeld in artikel 2.1.1, § 1, vierde lid, wat betreft het provinciaal beleidsplan ruimte.
 
 ### ART. 2.1.10.
 
-§ 1. De deputatie onderwerpt het ontwerp van provinciaal ruimtelijk structuurplan aan een openbaar onderzoek dat binnen dertig dagen na de voorlopige vaststelling, vermeld in artikel 2.1.9, § 2, minstens wordt aangekondigd door :<br>
-1° aanplakking in elke gemeente van de provincie;<br>
-2° een bericht in het Belgisch Staatsblad en in ten minste drie dagbladen die in de provincie worden verspreid;<br>
-3° een bericht op de website van de provincie.<br>
-<br>
-Deze aankondiging vermeldt minstens :<br>
-1° waar het ontwerp ter inzage ligt;<br>
-2° de begin- en einddatum van het openbaar onderzoek;<br>
-3° het adres van de provinciale commissie voor ruimtelijke ordening waar adviezen, opmerkingen en bezwaren, vermeld in § 3, dienen toe te komen of kunnen worden afgegeven, en de vermelding dat opmerkingen en bezwaren ook kunnen worden afgegeven op het gemeentehuis.<br>
-<br>
-Het openbaar onderzoek start uiterlijk op de dertigste dag na deze waarop de aankondiging ervan in het Belgisch Staatsblad verschenen is. Deze termijn is een termijn van orde.<br>
-<br>
-De deputatie kan nadere regels voor het openbaar onderzoek vaststellen.<br>
-<br>
-De deputatie organiseert ten minste één informatie- en inspraakvergadering.<br>
-<br>
-§ 2. Na de aankondiging wordt het ontwerp van provinciaal ruimtelijk structuurplan gedurende negentig dagen ter inzage van de bevolking gelegd in het gemeentehuis van elke gemeente van de provincie en wordt het onmiddellijk aan de provincieraad bezorgd.<br>
-<br>
-§ 3. De bezwaren en opmerkingen worden uiterlijk bij het verstrijken van de termijn van negentig dagen, vermeld in § 2, eerste lid, aan de provinciale commissie voor ruimtelijke ordening bezorgd per beveiligde zending.<br>
-<br>
-De bezwaren en opmerkingen kunnen ook uiterlijk de laatste dag van die termijn aan het gemeentehuis van elke gemeente van de provincie, worden afgegeven tegen ontvangstbewijs. De gemeente bezorgt in dat geval uiterlijk de derde werkdag na het openbaar onderzoek, de bezwaren en opmerkingen aan de provinciale commissie voor ruimtelijke ordening. Met bezwaren en opmerkingen die laattijdig aan de provinciale commissie voor ruimtelijke ordening worden bezorgd, moet geen rekening worden gehouden. De Vlaamse Regering kan nadere regels vaststellen met betrekking tot het ontvangen en bijhouden van bezwaren en opmerkingen door de gemeente en met betrekking tot de wijze waarop deze aan de provinciale commissie voor ruimtelijke ordening worden bezorgd.<br>
-<br>
-De gemeenteraden van de gemeenten in kwestie bezorgen binnen dezelfde termijn hun advies aan de provinciale commissie voor ruimtelijke ordening.<br>
-<br>
-De provincieraden van de aanpalende provincies van het Vlaamse Gewest en de gemeenteraden van de gemeenten van het Vlaamse Gewest die aan de provincie grenzen, alsook de door de Vlaamse Regering aan te wijzen gewestelijke diensten kunnen ook binnen diezelfde termijn een advies sturen naar de provinciale commissie voor ruimtelijke ordening.<br>
-<br>
-De Vlaamse Regering brengt, na raadpleging van de strategische adviesraad, binnen honderdtwintig dagen na de begindatum van het openbaar onderzoek een advies uit inzake de overeenstemming van het ontwerp van provinciaal ruimtelijk structuurplan met het ruimtelijk structuurplan Vlaanderen.<br>
-<br>
-Wanneer er binnen deze termijnen geen advies is verleend, mag aan de adviesvereiste worden voorbijgegaan.<br>
-<br>
-§ 4. De provinciale commissie voor ruimtelijke ordening bundelt en coördineert alle adviezen, bezwaren en opmerkingen en brengt binnen zestig dagen na het einde van het openbaar onderzoek een gemotiveerd advies uit bij de provincieraad. Dit advies bevat het integrale advies van de Vlaamse Regering.<br>
-<br>
-§ 5. Op gemotiveerd verzoek van de provinciale commissie voor ruimtelijke ordening beslist de deputatie over de verlenging met zestig dagen van de termijn, vermeld in § 4. Het verzoek moet worden ingediend uiterlijk de dertigste dag na het beëindigen van het openbaar onderzoek. Bij ontstentenis van een beslissing binnen een termijn van dertig dagen na de ontvangst van het verzoek wordt de verlenging geacht te zijn toegekend.<br>
-<br>
-Wanneer de provinciale commissie voor ruimtelijke ordening geen advies heeft verleend binnen de gestelde termijn, mag aan de adviesvereiste worden voorbijgegaan. In dat geval bezorgt ze onmiddellijk de gebundelde adviezen, opmerkingen en bezwaren aan de provincieraad.<br>
-<br>
-§ 6. De provincieraad stelt binnen tweehonderdtien dagen na de begindatum van het openbaar onderzoek, tweehonderdzeventig dagen in geval van verlenging van de termijn, vermeld in § 5, het provinciaal ruimtelijk structuurplan definitief vast.<br>
-<br>
-Bij de definitieve vaststelling van het plan kunnen ten opzichte van het voorlopig vastgestelde plan slechts wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit de tijdens het openbaar onderzoek geformuleerde bezwaren en opmerkingen of de adviezen, ingewonnen op grond van een bij of krachtens deze codex vastgestelde adviesverplichting.<br>
-<br>
-§ 7. Na de behandeling van het provinciaal ruimtelijk structuurplan beschikt de Vlaamse Regering over een termijn van zestig dagen om het al dan niet goed te keuren. Bij de goedkeuring onderzoekt de Vlaamse Regering of het provinciaal ruimtelijk structuurplan formeel en inhoudelijk in overeenstemming is met het ruimtelijk structuurplan Vlaanderen. De goedkeuring kan gedeeltelijk zijn. Als de Vlaamse Regering nalaat binnen die termijn van zestig dagen een beslissing te nemen, kan de deputatie bij aangetekende brief de Vlaamse Regering rappelleren.<br>
-<br>
-Als de Vlaamse Regering geen beslissing heeft verstuurd binnen twintig dagen met ingang van de dag waarop de rappelbrief is verstuurd, wordt het door de provincieraad vastgesteld provinciaal ruimtelijk structuurplan geacht te zijn goedgekeurd.<br>
-&nbsp;
+De regels voor de opmaak en de vaststelling van het provinciaal beleidsplan ruimte zijn van toepassing op de herziening ervan. De herziening kan gedeeltelijk zijn.
 
 ## [Afdeling 4 Het gemeentelijk beleidsplan ruimte (verv. decr. 8 december 2017, art. 23, I: 5 mei 2018)]
 
 ### ART. 2.1.11.
 
-Het goedkeuringsbesluit van de Vlaamse Regering wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt. Het provinciaal ruimtelijk structuurplan treedt in werking veertien dagen na de bekendmaking.<br /><br />Bij ontstentenis van een beslissing van de Vlaamse Regering, in de zin van artikel 2.1.10, § 7, tweede lid, treedt het plan in werking veertien dagen na de bekendmaking bij uittreksel in het Belgisch Staatsblad van de provincieraadsbeslissing houdende definitieve vaststelling van het plan. De deputatie meldt de Vlaamse Regering dat een uittreksel van de provincieraadsbeslissing voor bekendmaking in het Belgisch Staatsblad werd verzonden. Deze melding gebeurt tegelijkertijd met de verzending.<br /><br />De deputatie stuurt een afschrift van het provinciaal ruimtelijk structuurplan, van het advies van de provinciale commissie voor ruimtelijke ordening, van het vaststellingsbesluit en van het goedkeuringsbesluit naar elke gemeente, waar deze documenten kunnen worden ingezien.<br /><br />
+§ 1. De gemeenteraad besluit tot de opmaak van een gemeentelijk beleidsplan ruimte. Het college van burgemeester en schepenen neemt de nodige maatregelen voor de opmaak en de vaststelling ervan.<br>
+<br>
+§ 2. De opmaak van een gemeentelijk beleidsplan ruimte omvat minstens de volgende stappen:<br>
+1° de raadpleging in verschillende fasen van het opmaakproces van de gemeentelijke commissie voor ruimtelijke ordening;<br>
+2° overleg tussen de verschillende bestuursniveaus in verschillende fasen van het opmaakproces;<br>
+3° de raadpleging van het publiek in verschillende fasen van het opmaakproces, met inbegrip van een openbaar onderzoek over een voorlopig vastgestelde visie en een voorlopig vastgesteld beleidskader;<br>
+4° een voorlopige vaststelling en een definitieve vaststelling door de gemeenteraad.<br>
+<br>
+De Vlaamse Regering en de deputatie kunnen, naar aanleiding van de definitieve vaststelling van het gemeentelijk beleidsplan ruimte, een voorbehoud maken bij bepaalde opties uit het plan. Dat voorbehoud is voldoende precies.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de opmaak en de vaststelling van een gemeentelijk beleidsplan ruimte, en voor de toepassing van het tweede lid.
 
 ### ART. 2.1.12.
 
-§ 1. Het provinciaal ruimtelijk structuurplan wordt vastgesteld voor een termijn van vijf jaar. Het blijft in ieder geval van kracht tot het door een nieuw goedgekeurd provinciaal ruimtelijk structuurplan is vervangen, behoudens de bindende bepalingen die van rechtswege opgeheven zijn ingevolge artikel 2.1.5, § 1, tweede lid.<br /><br />De bindende bepalingen van de bestaande gemeentelijke ruimtelijke structuurplannen van de gemeenten binnen het grondgebied van de provincie, die strijdig zijn met de bindende bepalingen van het nieuw vastgestelde provinciaal ruimtelijk structuurplan, worden limitatief opgesomd in het bindend deel van het nieuw vastgestelde provinciaal ruimtelijk structuurplan en zijn hierdoor van rechtswege opgeheven. De provincieraad kan tevens een termijn opleggen voor de herziening van de gemeentelijke ruimtelijke structuurplannen die tegenstrijdige bindende bepalingen bevatten.<br /><br />§ 2. Het provinciaal ruimtelijk structuurplan kan te allen tijde geheel of gedeeltelijk worden herzien.<br /><br />§ 3. De regels voor de opmaak van het provinciaal ruimtelijk structuurplan zijn eveneens van toepassing op de herziening ervan.<br /><br />
+Besluiten houdende definitieve vaststelling van een gemeentelijke strategische visie of een gemeentelijk beleidskader worden bij uittreksel bekendgemaakt in het Belgisch Staatsblad. Ze treden in werking veertien dagen na de bekendmaking ervan.<br>
+<br>
+De strategische visie of het beleidskader kunnen worden ingezien op de gemeente.<br>
+<br>
+Het geldende gemeentelijk beleidsplan ruimte is raadpleegbaar op de website van de gemeente. Op dezelfde website wordt documentatie bijgehouden over aspecten van het cyclische planningsproces, vermeld in artikel 2.1.1, § 1, vierde lid, wat betreft het gemeentelijk beleidsplan ruimte.
 
 ### ART. 2.1.13.
 
-De provincie kan provinciale ruimtelijke uitvoeringsplannen opmaken en herzien ter uitvoering van het provinciaal ruimtelijk structuurplan en van dat deel van het ruimtelijk structuurplan Vlaanderen waarvan de uitvoering aan de provincie werd toegewezen.<br /><br />De provincieraad kan tevens optreden in de plaats van de gemeenten indien ze de krachtens het provinciaal ruimtelijk structuurplan opgedragen taken niet uitvoeren.<br /><br />
+De regels voor de opmaak en de vaststelling van het gemeentelijk beleidsplan ruimte zijn van toepassing op de herziening ervan. De herziening kan gedeeltelijk zijn.
 
 ### ART. 2.1.14.
 
-Voor elke gemeente wordt een gemeentelijk ruimtelijk structuurplan vastgesteld. Het gemeentelijk ruimtelijk structuurplan richt zich naar het ruimtelijk structuurplan Vlaanderen en het provinciaal ruimtelijk structuurplan van de provincie waarbinnen de gemeente ligt. Het kan van het richtinggevend deel van het ruimtelijk structuurplan Vlaanderen en van het provinciaal ruimtelijk structuurplan slechts afwijken op grond van de motieven, bepaald in artikel 2.1.2, § 3. Van de als bindend aangeduide onderdelen kan niet worden afgeweken.<br /><br />
+...
 
 ### ART. 2.1.15.
 
-§ 1. De gemeenteraad beslist tot het opmaken van een gemeentelijk ruimtelijk structuurplan.<br /><br />§ 2. Zonder afbreuk te doen aan de bevoegdheden toegewezen door het gemeentedecreet, kan de Vlaamse Regering een gemotiveerd verzoek richten tot de gemeenteraad om een gemeentelijk ruimtelijk structuurplan op te maken of te herzien.<br /><br />Binnen negentig dagen nadat de gemeente het verzoek ontvangen heeft, beslist de gemeenteraad welk gevolg hij aan dit verzoek geeft.<br /><br />§ 3. Bij ontstentenis van een antwoord of bij een onvoldoende gemotiveerd antwoord, kan de Vlaamse Regering aan de gemeente een termijn opleggen waarbinnen het gemeentelijk ruimtelijk structuurplan moet worden opgemaakt.<br /><br />Als de gemeenteraad deze termijn laat verstrijken, kan de Vlaamse Regering zelf het gemeentelijk ruimtelijk structuurplan laten opmaken en vaststellen op kosten van de gemeente, overeenkomstig de regels voor de opmaak van een gemeentelijk ruimtelijk structuurplan, met dien verstande dat ze in de plaats treedt van de gemeenteraad, of van het college van burgemeester en schepenen al naargelang van het geval, voor elke beslissing die met betrekking tot deze opmaak moet worden genomen.<br /><br />
+...
 
 ### ART. 2.1.16.
 
-§ 1. Het college van burgemeester en schepenen is belast met het opmaken van het gemeentelijk ruimtelijk structuurplan en neemt de nodige maatregelen tot opmaak.<br>
-<br>
-§ 2. De gemeenteraad stelt, na advies van de gemeentelijke commissie voor ruimtelijke ordening, het ontwerp van gemeentelijk ruimtelijk structuurplan voorlopig vast.<br>
-<br>
-Tevens stuurt hij het onmiddellijk op naar de deputatie van de provincie en naar de Vlaamse Regering.<br>
-<br>
-§ 3. Het college van burgemeester en schepenen onderwerpt het ontwerp van gemeentelijk ruimtelijk structuurplan aan een openbaar onderzoek dat binnen dertig dagen na de voorlopige vaststelling, vermeld in § 2, minstens wordt aangekondigd door :<br>
-1° aanplakking in de gemeente;<br>
-2° door een bericht in het Belgisch Staatsblad en in ten minste drie dagbladen die in de provincie worden verspreid;<br>
-3° een bericht op de website van de gemeente.<br>
-<br>
-Deze aankondiging vermeldt minstens :<br>
-1° waar het ontwerp ter inzage ligt;<br>
-2° de begin- en einddatum van het openbaar onderzoek;<br>
-3° het adres waarop de aan de gemeentelijke commissie voor ruimtelijke ordening gerichte adviezen, opmerkingen en bezwaren, vermeld in § 5, dienen toe te komen of kunnen worden afgegeven.<br>
-<br>
-Het openbaar onderzoek start uiterlijk op de dertigste dag na deze waarop de aankondiging ervan in het Belgisch Staatsblad verschenen is. Deze termijn is een termijn van orde.<br>
-<br>
-Het college van burgemeester en schepenen kan nadere regels voor het openbaar onderzoek vaststellen.<br>
-<br>
-Het college van burgemeester en schepenen organiseert ten minste één informatie- en inspraakvergadering.<br>
-<br>
-§ 4. Het ontwerp van gemeentelijk ruimtelijk structuurplan wordt gedurende negentig dagen ter inzage van de bevolking gelegd in het gemeentehuis en het wordt onmiddellijk aan de gemeenteraad bezorgd.<br>
-<br>
-§ 5. De bezwaren en opmerkingen worden uiterlijk bij het verstrijken van de termijn van negentig dagen, vermeld in § 4, aan de gemeentelijke commissie voor ruimtelijke ordening bezorgd per beveiligde zending.<br>
-<br>
-De gemeenteraden van de aanpalende gemeenten in het Vlaamse Gewest en de provincieraden van de aanpalende provincies in het Vlaamse Gewest sturen binnen dezelfde termijn hun advies naar de bevoegde gemeentelijke commissie voor ruimtelijke ordening.<br>
-<br>
-De deputatie brengt, na raadpleging van de provinciale commissie voor ruimtelijke ordening, binnen honderdtwintig dagen na de begindatum van het openbaar onderzoek een advies uit over de overeenstemming van het ontwerp van gemeentelijk ruimtelijk structuurplan met het provinciaal ruimtelijk structuurplan.<br>
-<br>
-Wanneer er binnen deze termijnen geen advies is verleend, mag aan de adviesvereiste worden voorbijgegaan.<br>
-<br>
-§ 6. De gemeentelijke commissie voor ruimtelijke ordening bundelt en coördineert alle adviezen, bezwaren en opmerkingen en brengt binnen zestig dagen na het einde van het openbaar onderzoek een gemotiveerd advies uit bij de gemeenteraad. Dit advies bevat het integrale advies van de deputatie.<br>
-<br>
-§ 7. Op gemotiveerd verzoek van de gemeentelijke commissie voor ruimtelijke ordening beslist het college van burgemeester en schepenen over de verlenging met zestig dagen van de termijn, vermeld in § 6. Het verzoek moet worden ingediend uiterlijk de dertigste dag na het beëindigen van het openbaar onderzoek. Bij ontstentenis van een beslissing binnen een termijn van dertig dagen na de ontvangst van het verzoek wordt de verlenging geacht te zijn toegekend.<br>
-<br>
-Wanneer de gemeentelijke commissie voor ruimtelijke ordening geen advies heeft verleend binnen de gestelde termijn, mag aan de adviesvereiste worden voorbijgegaan. In dat geval bezorgt ze onmiddellijk de gebundelde adviezen, opmerkingen en bezwaren aan de gemeenteraad.<br>
-<br>
-§ 8. De gemeenteraad stelt binnen tweehonderdtien dagen na de begindatum van het openbaar onderzoek, tweehonderdzeventig dagen in geval van verlenging van termijn, vermeld in § 7, het gemeentelijk ruimtelijk structuurplan definitief vast. Het college van burgemeester en schepenen betekent binnen een termijn van dertig dagen het definitief vastgestelde gemeentelijk ruimtelijk structuurplan aan de deputatie en aan de Vlaamse Regering.<br>
-<br>
-Bij de definitieve vaststelling van het plan kunnen ten opzichte van het voorlopig vastgestelde plan slechts wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit de tijdens het openbaar onderzoek geformuleerde bezwaren en opmerkingen of de adviezen, ingewonnen op grond van een bij of krachtens deze codex vastgestelde adviesverplichting.<br>
-<br>
-§ 9. Als er een provinciaal ruimtelijk structuurplan bestaat, beslist de deputatie binnen zestig dagen na ontvangst van het gemeentelijk ruimtelijk structuurplan om het al dan niet goed te keuren. De goedkeuring kan gedeeltelijk zijn. Als de deputatie nalaat binnen die termijn een beslissing te nemen, kan de gemeente bij aangetekend schrijven de deputatie rappelleren. Als geen beslissing wordt genomen binnen twintig dagen met ingang van de dag waarop de rappelbrief ter post is afgegeven, kan de gemeente het gemeentelijk ruimtelijk structuurplan voorleggen aan de Vlaamse Regering. De Vlaamse Regering beslist binnen zestig dagen na ontvangst van het gemeentelijk ruimtelijk structuurplan om het al dan niet goed te keuren. Bij ontstentenis van beslissing van de Vlaamse Regering binnen deze termijn kan de gemeente bij aangetekend schrijven de Vlaamse Regering rappelleren. Als geen beslissing wordt genomen binnen twintig dagen met ingang van de dag waarop de rappelbrief ter post is afgegeven, wordt het gemeentelijk ruimtelijk structuurplan geacht te zijn goedgekeurd.<br>
-<br>
-Bij de goedkeuring onderzoekt de deputatie, of in voorkomend geval de Vlaamse Regering, of het gemeentelijk ruimtelijk structuurplan formeel en inhoudelijk in overeenstemming is met het provinciaal ruimtelijk structuurplan en met het ruimtelijk structuurplan Vlaanderen. De goedkeuring kan gedeeltelijk zijn.<br>
-&nbsp;
+...
 
 ### ART. 2.1.17.
 
-Het goedkeuringsbesluit van de deputatie of van de Vlaamse Regering wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt. Het gemeentelijk ruimtelijk structuurplan treedt in werking veertien dagen na de bekendmaking.<br /><br />Bij ontstentenis van een goedkeuringsbesluit, in de zin van artikel 2.1.16, § 9, eerste lid, laatste zin, treedt het plan in werking veertien dagen na de bekendmaking bij uittreksel in het Belgisch Staatsblad van de gemeenteraadsbeslissing houdende definitieve vaststelling van het plan. Het college van burgemeester en schepenen meldt de deputatie en de Vlaamse Regering dat een uittreksel van de gemeenteraadsbeslissing voor bekendmaking in het Belgisch Staatsblad werd verzonden. Deze melding gebeurt tegelijkertijd met de verzending.<br /><br />Het gemeentelijk ruimtelijk structuurplan, het advies van de gemeentelijke commissie voor ruimtelijke ordening, het vaststellingsbesluit en het goedkeuringsbesluit worden ter inzage gelegd in de gemeente.<br /><br />
+...
 
 ### ART. 2.1.18.
 
-§ 1. Het gemeentelijk ruimtelijk structuurplan wordt vastgesteld voor een termijn van vijf jaar. Het blijft in ieder geval van kracht totdat het door een nieuw goedgekeurd gemeentelijk ruimtelijk structuurplan is vervangen, behoudens de bindende bepalingen die van rechtswege opgeheven zijn ingevolge artikel 2.1.5, § 1, tweede lid en artikel 2.1.12, § 1, tweede lid.<br /><br />§ 2. Het gemeentelijk ruimtelijk structuurplan kan te allen tijde geheel of gedeeltelijk worden herzien.<br /><br />§ 3. De regels voor de opmaak van het gemeentelijk ruimtelijk structuurplan zijn eveneens van toepassing op de herziening ervan.<br /><br />§ 4. Binnen de perken van de begrotingskredieten kan de Vlaamse Regering (ook financiële) ondersteuning verlenen aan de gemeenten voor het vervullen van hun taken met betrekking tot de ruimtelijke structuurplannen.<br /><br />De Vlaamse Regering bepaalt de voorwaarden en nadere regels hiertoe.<br /><br />
+...
 
 ### ART. 2.1.19.
 
-De gemeente kan gemeentelijke ruimtelijke uitvoeringsplannen opmaken en herzien ter uitvoering van het gemeentelijk ruimtelijk structuurplan en van die delen van het ruimtelijk structuurplan Vlaanderen en van het provinciaal ruimtelijk structuurplan waarvan de uitvoering aan de gemeente werd toegewezen.<br /><br />
+...
 
 ## HOOFDSTUK II Ruimtelijke uitvoeringsplannen
 
