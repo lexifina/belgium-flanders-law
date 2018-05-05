@@ -776,6 +776,10 @@ In geval van de projectspecifieke samenwerkingsovereenkomst, vermeld in artikel 
 
 De volgende regelingen worden opgeheven :<BR>1° het besluit van de Vlaamse   Regering van 19 juni 2009 betreffende het provinciale mobiliteitscharter;<BR>2°   het ministerieel besluit van 21 december 2001 betreffende de   mobiliteitsconvenants.<BR>
 
+### ART 57/1.
+
+Voor de toepassing van artikel 38, § 2, eerste lid, 2°, van dit besluit wordt ook na de vervanging van het RSV door het Beleidsplan Ruimte Vlaanderen, vermeld in artikel 2.1.5 van de Vlaamse Codex Ruimtelijke Ordening, gebruikgemaakt van de bepalingen over stedelijke gebieden, opgenomen in het RSV zoals het tot dan gold.
+
 ### ART. 58.
 
 Dit besluit treedt in werking op 1 maart 2013. <BR>
