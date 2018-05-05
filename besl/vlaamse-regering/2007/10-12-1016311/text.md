@@ -129,6 +129,7 @@ e) hoofdtransportwegen:<br>
 1) wegverkeer: de wegen behorende tot de categorieën 'hoofdwegen' en 'primaire wegen van categorie I' uit het Ruimtelijk Structuurplan Vlaanderen;<br>
 2) spoorwegverkeer: de spoorwegen behorende tot de categorie 'hoofdspoorwegen voor het personenvervoer' uit het Ruimtelijk Structuurplan Vlaanderen;<br>
 3) luchthavenverkeer in verband met het luchthaventerrein van Zaventem;<br>
+Voor de toepassing van 1) en 2) wordt ook na de vervanging van het Ruimtelijk Structuurplan Vlaanderen door het Beleidsplan Ruimte Vlaanderen, vermeld in artikel 2.1.5 van de Vlaamse Codex Ruimtelijke Ordening, gebruikgemaakt van de wegenselecties, opgenomen in het Ruimtelijk Structuurplan Vlaanderen zoals het tot dan toe gold;<br>
 f) externe gevarenbron: een element in de omgeving die de oorzaak kan vormen van een zwaar ongeval bij een Seveso-inrichting zoals pijpleidingen, windturbines, hoogspanningsleidingen, LPG-tankstations,...<br>
 zal het Departement Omgeving geraadpleegd worden;<br>
 - als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele gelegen zijn in de kustzone zal de afdeling Kust van het Agentschap voor Maritieme Dienstverlening en Kust (MOW) geraadpleegd worden;<br>
@@ -137,7 +138,7 @@ zal het Departement Omgeving geraadpleegd worden;<br>
 - als het voorgenomen plan of programma invloed kan hebben op de afwikkeling van het vliegverkeer van een regionale luchthaven zal de afdeling Algemeen Beleid (MOW) geraadpleegd worden;<br>
 <br>
 2° inzake ruimtelijke ordening:<br>
-- als het voorgenomen plan of programma uitvoering geeft aan een ruimtelijk structuurplan zal het Departement Omgeving geraadpleegd worden;<br>
+- als het voorgenomen plan of programma uitvoering geeft aan een ruimtelijk structuurplan of een ruimtelijk beleidsplan zal het Departement Omgeving geraadpleegd worden;<br>
 - als het voorgenomen plan of programma mogelijke effecten kan hebben op de ruimtelijke ordening zal het Departement Omgeving geraadpleegd worden;<br>
 - als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele bestemd zijn als industriegebied, bedrijventerrein of een ermee vergelijkbaar gebied, zullen de Entiteit Ruimtelijke Economie (EWI) én het Departement Omgeving geraadpleegd worden;<br>
 - als de gronden, gelegen binnen het voorgenomen plan of programma of binnen het studiegebied ervan, geheel of ten dele bestemd zijn als ontginningsgebied of een ermee vergelijkbaar gebied, zullen de Entiteit Ruimtelijke Economie (EWI), en het Departement Omgeving geraadpleegd worden;<br>
