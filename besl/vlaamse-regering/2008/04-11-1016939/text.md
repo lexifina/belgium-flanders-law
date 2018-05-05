@@ -313,7 +313,21 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 18 mei 1999 houdende de
 
 ### ART. 1.
 
-Bij de opmaak van gewestelijke, provinciale of gemeentelijke ruimtelijke uitvoeringsplannen worden volgende categorieën van gebiedsaanduidingen als uitgangspunt gehanteerd :<br />1° wonen;<br />2° bedrijvigheid;<br />3° recreatie;<br />4° landbouw;<br />5° bos;<br />6° reservaat en natuur;<br />7° overig groen;<br />8° lijninfrastructuur;<br />9° gemeenschapsvoorzieningen en nutsvoorzieningen;<br />10° ontginning en waterwinning.<br /><br />In elk stedenbouwkundig voorschrift van een ruimtelijk uitvoeringsplan wordt aangegeven onder welke categorie van de voormelde gebiedsaanduidingen het valt.<br /><br />De minister bevoegd voor ruimtelijke ordening kan richtlijnen uitvaardigen voor het toewijzen van gebiedsaanduidingen aan categorieën van de ruimteboekhouding van het ruimtelijk structuurplan Vlaanderen.
+Bij de opmaak van gewestelijke, provinciale of gemeentelijke ruimtelijke uitvoeringsplannen worden volgende categorieën van gebiedsaanduidingen als uitgangspunt gehanteerd :<br>
+1° wonen;<br>
+2° bedrijvigheid;<br>
+3° recreatie;<br>
+4° landbouw;<br>
+5° bos;<br>
+6° reservaat en natuur;<br>
+7° overig groen;<br>
+8° lijninfrastructuur;<br>
+9° gemeenschapsvoorzieningen en nutsvoorzieningen;<br>
+10° ontginning en waterwinning.<br>
+<br>
+In elk stedenbouwkundig voorschrift van een ruimtelijk uitvoeringsplan wordt aangegeven onder welke categorie van de voormelde gebiedsaanduidingen het valt.<br>
+<br>
+De minister bevoegd voor ruimtelijke ordening kan richtlijnen uitvaardigen voor het toewijzen van gebiedsaanduidingen aan categorieën van een ruimteboekhouding.
 
 ### ART. 2.
 
