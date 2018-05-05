@@ -70,6 +70,10 @@ Een aanvraag van een planologisch attest is niet ontvankelijk in de   volgende g
 
 De bepalingen van de hoofdstukken II tot V van dit besluit zijn van   toepassing op aanvragen die ingediend worden vanaf de inwerkingtreding van dit   besluit. Aanvragen van een planologisch attest die ingediend zijn vóór de datum   van inwerkingtreding van dit besluit, worden afgehandeld overeenkomstig de   regeling die gold voorafgaand aan die datum.<BR>
 
+### ART 12/1.
+
+Voor de toepassing van artikel 5, § 1, 2°, b) en c), en artikel 7, § 1, tweede en derde lid, van dit besluit wordt ook na de vervanging van het Ruimtelijk Structuurplan Vlaanderen door het Beleidsplan Ruimte Vlaanderen, vermeld in artikel 2.1.5 van de Vlaamse Codex Ruimtelijke Ordening of de vervanging van provinciale ruimtelijke structuurplannen door provinciale ruimtelijke beleidsplannen als vermeld in artikel 2.1.8 van de voormelde codex, gebruikgemaakt van de selecties, opdrachten of afbakeningen, opgenomen in of uitgevoerd op grond van het Ruimtelijk Structuurplan Vlaanderen of de provinciale ruimtelijke structuurplannen zoals ze tot dan toe golden.
+
 ### ART. 13.
 
 Het besluit van de Vlaamse Regering van 4 juni 2004 tot bepaling van de   nadere regels voor de aanvraag en de afgifte van het planologisch attest,   gewijzigd bij de besluiten van de Vlaamse Regering van 23 juni 2006, 7 juli 2006   en 29 mei 2009, wordt opgeheven.<BR>
