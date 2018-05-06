@@ -34,7 +34,7 @@ In dit besluit wordt verstaan onder :<BR>1° aanvrager : een natuurlijke   perso
 
 ### ART. 2.
 
-De secretaris-generaal van het Departement internationaal Vlaanderen en de   personeelsleden onder zijn gezag die hij aanwijst, vormen de bevoegde dienst   voor de toepassing van verordening 428/2009 en van dit   besluit.<BR>
+De secretaris-generaal van het Departement Buitenlandse Zaken en de personeelsleden onder zijn gezag die hij aanwijst, vormen de bevoegde dienst voor de toepassing van verordening 428/2009 en van dit besluit.
 
 ## HOOFDSTUK 2 Uitvoer, doorvoer en overbrenging van producten voor tweeërlei gebruik
 
@@ -42,7 +42,11 @@ De secretaris-generaal van het Departement internationaal Vlaanderen en de   per
 
 ### ART. 3.
 
-<P>De vergunningen voor uitvoer en doorvoer, vermeld in artikel 3, 6 en 9 van   verordening 428/2009, worden door het Vlaamse Gewest verleend als de aanvrager   zijn woonplaats of maatschappelijke zetel in het Vlaamse Gewest heeft. <BR></P>  <P>De vergunningen voor overbrenging, vermeld in artikel 22 van verordening   428/2009, worden door het Vlaamse Gewest verleend als de producten voor   tweeërlei gebruik zullen worden overgebracht uit het Vlaamse Gewest.   <BR></P>
+<p>De vergunningen voor uitvoer en doorvoer, vermeld in artikel 3, 6 en 9 van verordening 428/2009, worden door het Vlaamse Gewest verleend als de aanvrager zijn woonplaats of maatschappelijke zetel in het Vlaamse Gewest heeft.</p>
+
+<p>De vergunningen voor overbrenging, vermeld in artikel 22 van verordening 428/2009, worden door het Vlaamse Gewest verleend als de producten voor tweeërlei gebruik zullen worden overgebracht uit het Vlaamse Gewest.<br>
+<br>
+De vergunningen, vermeld in het eerste en tweede lid, worden toegekend door de minister die gezag uitoefent over de bevoegde dienst na advies van de bevoegde dienst.</p>
 
 ### ART. 4.
 

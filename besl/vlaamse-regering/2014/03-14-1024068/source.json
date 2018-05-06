@@ -2,16 +2,16 @@
   "codex_id": 1024068,
   "title": "Besluit van de Vlaamse Regering van 2014-03-14 tot regeling van de uitvoer, doorvoer en overbrenging van producten voor tweeërlei gebruik en het verlenen van technische bijstand",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024068/VolledigDocument?datum=2014-05-12",
-  "source_sha256": "2c3ed325851351792ba9e04c1646eaad39f3d2ec2f64e97e61f4d69e5cff497f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024068/VolledigDocument?datum=2018-05-06",
+  "source_sha256": "cae04178b85f02c9b19c88040206a17c4fa543437d207d1508ca744436021a1b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024068&param=informatie",
-  "as_of": "2014-05-12",
+  "as_of": "2018-05-06",
   "made": "2014-03-14",
   "gazette": "2014-05-02",
   "numac": 2014035413,
   "document_start": "2014-05-12",
   "document_end": "2026-02-04",
-  "in_force": "2014-05-12",
+  "in_force": "2018-05-06",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2014-05-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-06; future article versions excluded; article text as the API gives it"
 }
