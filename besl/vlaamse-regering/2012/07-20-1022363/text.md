@@ -16,19 +16,41 @@ Dit besluit voorziet in de verdere omzetting, voor wat betreft de bevoegdheden v
 
 ### ART. 3.
 
-In dit besluit wordt verstaan onder : <br />1° bevoegde dienst : de secretaris-generaal van het Departement internationaal Vlaanderen en de personeelsleden onder zijn gezag die hij aanwijst;<br />2° gemeenschappelijke EU-lijst van militaire goederen : lijst van goederen waarop Gemeenschappelijk Standpunt 2008/944/GBVB van de Raad tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is, zoals die laatst is gepubliceerd in het Publicatieblad van de Europese Unie;<br />3° minister : de Vlaamse minister die gezag uitoefent over de bevoegde dienst, vermeld in punt 1°;<br />4° niet-essentiële onderdelen : de onderdelen, vermeld in de gemeenschappelijke EU-lijst van militaire goederen, waarvan de aard en betekenis in relatie tot de defensiegerelateerde producten waarin ze geïntegreerd zullen worden, beperkt zijn.
+In dit besluit wordt verstaan onder :<br>
+1° bevoegde dienst : de secretaris-generaal van het Departement Buitenlandse Zaken en de personeelsleden onder zijn gezag die hij aanwijst;<br>
+2° gemeenschappelijke EU-lijst van militaire goederen : lijst van goederen waarop Gemeenschappelijk Standpunt 2008/944/GBVB van de Raad tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is, zoals die laatst is gepubliceerd in het Publicatieblad van de Europese Unie;<br>
+3° minister : de Vlaamse minister die gezag uitoefent over de bevoegde dienst, vermeld in punt 1°;<br>
+4° niet-essentiële onderdelen : de onderdelen, vermeld in de gemeenschappelijke EU-lijst van militaire goederen, waarvan de aard en betekenis in relatie tot de defensiegerelateerde producten waarin ze geïntegreerd zullen worden, beperkt zijn.
 
 ### ART. 4.
 
-De vergunningen, voorafgaande machtigingen, certificaten van gecertificeerd persoon, voorlopige adviezen en schriftelijke bevestigingen, vermeld in artikelen 9, 10, 15, 16, 22 en 23, 34, 36, § 2, 38 en 39, § 2, van het Wapenhandeldecreet, worden toegekend, geweigerd, geschorst, ingetrokken en beperkt door de minister, na advies van de bevoegde dienst.<br /><br />Een vergunning, een voorafgaande machtiging, een certificaat van gecertificeerd persoon, een voorlopig advies en een schriftelijke bevestiging worden door de bevoegde dienst met een gewone of aangetekende brief meegedeeld.<br /><br />De minister kan evenwel bepalen dat de documenten, vermeld in het eerste lid, ook via elektronische weg meegedeeld kunnen worden.
+De vergunningen, voorafgaande machtigingen, certificaten van gecertificeerd persoon, voorlopige adviezen en schriftelijke bevestigingen, vermeld in artikelen 9, 10, 15, 16, 22 en 23,&nbsp;34 en 38 van het Wapenhandeldecreet, worden&nbsp;toegekend en geweigerd door de minister, na advies van de bevoegde dienst.<br>
+<br>
+Een vergunning, een voorafgaande machtiging, een certificaat van gecertificeerd persoon, een voorlopig advies en een schriftelijke bevestiging worden door de bevoegde dienst met een gewone of aangetekende brief meegedeeld.<br>
+<br>
+De minister kan evenwel bepalen dat de documenten, vermeld in het eerste lid, ook via elektronische weg meegedeeld kunnen worden.<br>
+<br>
+De vergunningen, voorafgaande machtigingen, certificaten van gecertificeerd persoon, voorlopige adviezen en schriftelijke bevestigingen worden geschorst, ingetrokken en beperkt conform artikel 46 tot en met 49.
 
 ### ART. 5.
 
-§ 1. Om ontvankelijk te zijn, moet een aanvraag van een vergunning, een voorafgaande machtiging, een certificaat van gecertificeerd persoon, een voorlopig advies of een schriftelijke bevestiging en een kennisgeving of registratie met een gewone of aangetekende brief ingediend worden bij de bevoegde dienst.<br /><br />Een kennisgeving kan ook per fax of elektronisch gebeuren, als dat een ontvangstbewijs van de geadresseerde oplevert.<br /><br />De minister kan bepalen dat een aanvraag van een vergunning, een voorafgaande machtiging, een certificaat van gecertificeerd persoon, een voorlopig advies of een schriftelijke bevestiging of een registratie ook via elektronische weg ingediend kan worden.<br /><br />In geval van een elektronische indiening verstrekt de bevoegde dienst, na de ontvangst van een volledige aanvraag of kennisgeving, aan de betrokken persoon een ontvangstmelding per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert.<br /><br />§ 2. De bevoegde dienst stelt op de website van de Vlaamse overheid formulieren ter beschikking op basis waarvan een vergunning, een voorafgaande machtiging, een certificaat van gecertificeerd persoon, een voorlopig advies en een schriftelijke bevestiging aangevraagd moeten worden en op basis waarvan een kennisgeving of registratie moet gebeuren.
+§ 1. Om ontvankelijk te zijn, moet een aanvraag van een vergunning, een voorafgaande machtiging, een certificaat van gecertificeerd persoon, een voorlopig advies of een schriftelijke bevestiging en een kennisgeving of registratie met een gewone of aangetekende brief ingediend worden bij de bevoegde dienst.<br>
+<br>
+Een kennisgeving of een aanvraag voor een open vergunning&nbsp;kan ook per fax of elektronisch gebeuren, als dat een ontvangstbewijs van de geadresseerde oplevert.<br>
+<br>
+De minister kan bepalen dat een aanvraag van een&nbsp; ander soort vergunning, een voorafgaande machtiging, een certificaat van gecertificeerd persoon, een voorlopig advies of een schriftelijke bevestiging of een registratie ook via elektronische weg ingediend kan worden.<br>
+<br>
+In geval van een elektronische indiening verstrekt de bevoegde dienst, na de ontvangst van een volledige aanvraag of kennisgeving, aan de betrokken persoon een ontvangstmelding per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert.<br>
+<br>
+§ 2. De bevoegde dienst stelt op de website van de Vlaamse overheid formulieren ter beschikking op basis waarvan een vergunning, een voorafgaande machtiging, een certificaat van gecertificeerd persoon, een voorlopig advies en een schriftelijke bevestiging aangevraagd moeten worden en op basis waarvan een kennisgeving of registratie moet gebeuren.
 
 ### ART. 6.
 
 Als de bevoegde dienst dat met het oog op toezicht op de naleving van het Wapenhandeldecreet, van dit en andere uitvoeringsbesluiten ervan of van handelingen op basis daarvan gesteld nuttig acht, kan hij een kennisgeving van de volgende handelingen bezorgen aan andere relevante overheidsinstanties, waaronder de vergunningsdiensten van de andere gewesten, de Administratie der Douane en Accijnzen van de FOD Financiën, de Federale Wapendienst van de FOD Justitie, de Veiligheid van de Staat, de Proefbank voor Vuurwapens, de procureur des Konings van het arrondissement waar de betrokken persoon gevestigd is, de federale politie, de lokale politie, de provinciegouverneur van de provincie waar de betrokken persoon gevestigd is, en ter zake bevoegde internationale en buitenlandse autoriteiten : <br />1° aanvragen, toekenningen en weigeringen van vergunningen, voorafgaande machtigingen en certificaten van gecertificeerd persoon;<br />2° bevestigingen van kennisgevingen en registraties; <br />3° afgegeven voorlopige adviezen en schriftelijke bevestigingen;<br />4° uitgesproken schorsingen, intrekkingen en beperkingen van de documenten, vermeld in punt 1°, en de eventuele verlenging, opheffing of beperking daarvan;<br />5° uitgesproken tijdelijke uitsluitingen en de eventuele verlenging, opheffing of beperking daarvan;<br />6° opgelegde administratieve sancties.
+
+### ART 6/1.
+
+&nbsp;De bevoegdheid die aan de Vlaamse Regering is gedelegeerd, met toepassing van artikel 3, § 5, van het Wapenhandeldecreet, wordt gedelegeerd aan de minister.
 
 ## DEEL 2. In-, uit- en doorvoer en overbrenging van defensiegerelateerde producten en ander materiaal dat dienstig is voor militair gebruik, en ordehandhavingsmateriaal
 
@@ -38,7 +60,13 @@ Als de bevoegde dienst dat met het oog op toezicht op de naleving van het Wapenh
 
 ### ART. 7.
 
-Met toepassing van artikel 3, § 1, derde lid, van het Wapenhandeldecreet zijn de in-, uit-, doorvoer en overbrenging verboden van de defensiegerelateerde producten, ordehandhavingsmateriaal, civiele vuurwapens, onderdelen, munitie en andere goederen, vermeld in de lijst, opgenomen in bijlage 1 van dit besluit.<br /><br />Met toepassing van artikel 7, § 2, tweede lid, van het voormelde decreet is voor de overbrenging naar het Vlaamse Gewest van de defensiegerelateerde producten, vermeld in de lijst, opgenomen in bijlage 2 van dit besluit, een voorafgaande kennisgeving vereist.<br /><br />Met toepassing van artikel 8, § 3, tweede lid, van het voormelde decreet is voor de invoer van de defensiegerelateerde producten en het ordehandhavingsmateriaal, vermeld in de lijst, opgenomen in bijlage 2 van dit besluit, een vergunning vereist.<br /><br />Met toepassing van artikel 8, § 1, tweede lid, van het voormelde decreet is voor de uit- en doorvoer van ordehandhavingsmateriaal, vermeld in de lijst, opgenomen in bijlage 3 van dit besluit, een vergunning vereist.
+Met toepassing van artikel 3, § 1, derde lid, van het Wapenhandeldecreet zijn de in-, uit-, doorvoer en overbrenging verboden van de defensiegerelateerde producten, ordehandhavingsmateriaal, civiele vuurwapens, onderdelen, munitie en andere goederen, vermeld in de lijst, opgenomen in bijlage 1 van dit besluit.<br>
+<br>
+Met toepassing van artikel 7, § 2, tweede lid, van het voormelde decreet is voor de overbrenging naar het Vlaamse Gewest van de defensiegerelateerde producten, vermeld in de lijst, opgenomen in bijlage 2 van dit besluit, een voorafgaande kennisgeving vereist.<br>
+<br>
+Met toepassing van artikel 8, § 3, tweede lid, van het voormelde decreet is voor de invoer van de defensiegerelateerde producten en het ordehandhavingsmateriaal, vermeld in de lijst, opgenomen in bijlage 2 van dit besluit, een vergunning vereist.<br>
+<br>
+Met toepassing van artikel 8, § 1, tweede lid, en § 2/1,&nbsp;van het voormelde decreet is voor de uit- en doorvoer van ordehandhavingsmateriaal, vermeld in de lijst, opgenomen in bijlage 3 van dit besluit, een vergunning vereist.
 
 ### ART. 8.
 
@@ -48,11 +76,72 @@ De minister is ertoe gemachtigd om in de lijsten, vermeld in artikel 7, de opgen
 
 ### ART. 9.
 
-§ 1. Met toepassing van artikel 14, § 2, van het Wapenhandeldecreet kunnen onder de in paragraaf 2 en 3 vermelde voorwaarden op basis van de algemene vergunningen opgenomen in bijlage 5 tot en met 9 van dit besluit, de daarin bepaalde defensiegerelateerde producten rechtstreeks en zonder verdere vergunning overgebracht worden naar andere lidstaten van de EU.<br /><br />§ 2. Met toepassing van artikel 12, § 1, van het voormeld decreet zijn de volgende voorwaarden en beperkingen aan het gebruik van de algemene vergunningen vermeld in paragraaf 1 verbonden : <br />1° de algemene vergunningen mogen niet gebruikt worden voor de overbrenging voor toegelaten doeleinden van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het voormelde decreet;<br />2° de algemene vergunningen mogen niet gebruikt worden voor de definitieve overbrenging van defensiegerelateerde producten als het op het moment van de voorgenomen overbrenging vaststaat dat het eindgebruik van de defensiegerelateerde producten zich zal afspelen buiten de Europese Unie en de eindgebruiker buiten de Europese Unie op dat moment bekend is, tenzij :<br />a) die eindgebruiker formeel deel uitmaakt van de strijdkrachten van een lidstaat van de EU of de NAVO;<br />b) de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit;<br />c) het land van eindgebruik een lidstaat van de NAVO is, een lidstaat van het Wassenaar Arrangement, vermeld in artikel 16 van dit besluit, of een bevriend land of bondgenoot als vermeld in artikel 26, § 4, eerste lid, van het voormelde decreet;<br />d) de overbrenging niet-essentiële onderdelen betreft die geen niet-essentiële onderdelen van gevoelige goederen zijn, die de bestemmeling volledig zal integreren in zijn eigen product;<br />3° defensiegerelateerde producten die op basis van een algemene vergunning naar een andere lidstaat worden overgebracht, mogen niet aangewend worden in of uitgevoerd worden naar een land buiten de Europese Unie voor integratie in, gebruik met of de ontwikkeling of productie van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het voormelde decreet;<br />4° defensiegerelateerde producten die op basis van een algemene vergunning tijdelijk naar een andere lidstaat worden overgebracht moeten uiterlijk drie jaar na de tijdelijke overbrenging weer naar het Vlaamse Gewest overgebracht worden.<br /><br />Personen die gebruikmaken van een algemene vergunning in het geval, vermeld in het eerste lid, 2°, b), houden een schriftelijk bewijs bij dat de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementele samenwerkingsprogramma waarbij de betreffende overbrenging aansluit.<br /><br />Personen die gebruikmaken van een algemene vergunning in het geval, vermeld in het eerste lid, 2°, d), houden een schriftelijke verklaring van de bestemmeling bij waarin die verklaart dat de betreffende onderdelen geïntegreerd zullen worden in zijn eigen product.<br /><br />Personen die gebruikmaken van een algemene vergunning in het geval, vermeld in het eerste lid, 4°, houden een schriftelijk bewijs van wederoverbrenging bij.<br /><br />§ 3. Naast de voorwaarden vermeld in paragraaf 2, zijn ook de voorwaarden en beperkingen vermeld in artikelen 10, 14 en 49 van het Wapenhandeldecreet, en in artikel 5, 10, 11, 12, 29, 30, 31, 57, 58 en 60 van dit besluit aan het gebruik van de algemene vergunningen vermeld in paragraaf 1 verbonden.
+§ 1. Met toepassing van artikel 14, § 2, van het Wapenhandeldecreet kunnen onder de in paragraaf 2 en 3 vermelde voorwaarden op basis van de algemene vergunningen opgenomen in bijlage 5 tot en met 9 van dit besluit, de daarin bepaalde defensiegerelateerde producten rechtstreeks en zonder verdere vergunning overgebracht worden naar andere lidstaten van de EU.<br>
+<br>
+§ 2. Met toepassing van artikel 12, § 1, van het voormeld decreet zijn de volgende voorwaarden en beperkingen aan het gebruik van de algemene vergunningen vermeld in paragraaf 1 verbonden :<br>
+1° de algemene vergunningen mogen niet gebruikt worden voor de overbrenging voor toegelaten doeleinden van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het voormelde decreet;<br>
+2° de algemene vergunningen mogen niet gebruikt worden voor de definitieve overbrenging van defensiegerelateerde producten als het op het moment van de voorgenomen overbrenging vaststaat dat het eindgebruik van de defensiegerelateerde producten zich zal afspelen buiten de Europese Unie en de eindgebruiker buiten de Europese Unie op dat moment bekend is, tenzij :<br>
+a) die eindgebruiker formeel deel uitmaakt van de strijdkrachten van een lidstaat van de EU of de NAVO;<br>
+b) de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit;<br>
+c) het land van eindgebruik een lidstaat van de NAVO is, een lidstaat van het Wassenaar Arrangement, vermeld in artikel 16 van dit besluit, of een bevriend land of bondgenoot als vermeld in artikel 26, § 4, eerste lid, van het voormelde decreet;<br>
+d) de overbrenging niet-essentiële onderdelen betreft die de bestemmeling volledig zal integreren in zijn eigen product;<br>
+3° defensiegerelateerde producten die op basis van een algemene vergunning naar een andere lidstaat worden overgebracht, mogen niet aangewend worden in of uitgevoerd worden naar een land buiten de Europese Unie voor integratie in, gebruik met of de ontwikkeling of productie van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het voormelde decreet;<br>
+4° defensiegerelateerde producten die op basis van een algemene vergunning tijdelijk naar een andere lidstaat worden overgebracht moeten uiterlijk drie jaar na de tijdelijke overbrenging weer naar het Vlaamse Gewest overgebracht worden.<br>
+<br>
+Personen die gebruikmaken van een algemene vergunning in het geval, vermeld in het eerste lid, 2°, b), houden een schriftelijk bewijs bij dat de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementele samenwerkingsprogramma waarbij de betreffende overbrenging aansluit.<br>
+<br>
+Personen die gebruikmaken van een algemene vergunning in het geval, vermeld in het eerste lid, 2°, d), houden een schriftelijke verklaring van de bestemmeling bij waarin die verklaart dat de betreffende onderdelen geïntegreerd zullen worden in zijn eigen product.<br>
+<br>
+Personen die gebruikmaken van een algemene vergunning in het geval, vermeld in het eerste lid, 4°, houden een schriftelijk bewijs van wederoverbrenging bij.<br>
+<br>
+Als een persoon die gebruikmaakt van een algemene vergunning, binnen drie jaar na een definitieve overbrenging op basis van die algemene vergunning informatie verkrijgt over de wijziging van het doel, de bestemming of de uitvoer van de overgebrachte goederen, brengt hij of zij de bevoegde dienst daarvan op de hoogte.<br>
+<br>
+§ 3. Naast de voorwaarden vermeld in paragraaf 2, zijn ook de voorwaarden en beperkingen vermeld in artikelen 10, 14 en 49 van het Wapenhandeldecreet, en in artikel 5, 10, 11, 12, 29, 30, 31, 57, 58 en 60 van dit besluit aan het gebruik van de algemene vergunningen vermeld in paragraaf 1 verbonden.
 
 ### ART. 10.
 
-§ 1. Om ontvankelijk te zijn, moet de bevoegde dienst de registratie, vermeld in artikel 14, § 6, van het Wapenhandeldecreet, uiterlijk twintig werkdagen voor de eerste voorgenomen overbrenging op basis van de betreffende algemene vergunning ontvangen.<br /><br />De registratie bevat minstens de volgende gegevens : <br />1° de gegevens van de betrokken persoon;<br />2° indien van toepassing, de gegevens van de vertegenwoordiger van de betrokken persoon;<br />3° het nummer van de algemene vergunning waarvoor de registratie wordt gevraagd;<br />4° de technische gegevens van de defensiegerelateerde producten waarvoor de betrokken persoon de algemene vergunning wil gebruiken : <br />a) een technische beschrijving van de producten;<br />b) een initiële classificatie van de producten volgens de categorieën van de gemeenschappelijke EU-lijst van militaire goederen;<br />5° de aanwending van de defensiegerelateerde producten, namelijk een beschrijving van het gebruik waarvoor de producten werden ontworpen of aangepast;<br />6° indien van toepassing, een beschrijving van de mogelijke toepasselijkheid van artikel 9, § 2, eerste lid, 2°, d), van dit besluit;<br />7° de handtekening van de aangewezen personen die persoonlijk verantwoordelijk zijn voor in-, uit-, doorvoer en overbrenging;<br />8° de verbintenis van die personen om : <br />a) aan de betreffende defensiegerelateerde producten een bestemming te geven in overeenstemming met de voorwaarden en beperkingen die verbonden zijn aan het gebruik van de algemene vergunningen;<br />b) indien van toepassing, de verplichtingen na te komen die de douaneregelgeving, de Wapenwet van 8 juni 2006 en de uitvoeringsbesluiten ervan, en andere toepasselijke regelgeving aan de betreffende overbrenging verbinden.<br /><br />§ 2. Bij de aanvraag wordt alle nuttige informatie gevoegd over de technische eigenschappen en mogelijkheden van de betreffende defensiegerelateerde producten en over de mogelijke aanwending daarvan.<br /><br />Bij de registratie worden ook de volgende documenten gevoegd : <br />1° een kopie van de voorafgaande machtiging van de aanvrager, vermeld in artikel 10 van het Wapenhandeldecreet;<br />2° indien van toepassing, de documenten die de mogelijke toepasselijkheid van artikel 9, § 2, eerste lid, 2°, d), van dit besluit aantonen.<br /><br />§ 3. Na ontvangst van een volledige registratie verstrekt de bevoegde dienst aan de betrokken persoon een ontvangstmelding.<br /><br />§ 4. Binnen tien werkdagen na de datum van de ontvangstmelding, vermeld in paragraaf 3, bezorgt de bevoegde dienst aan de betrokken persoon met een gewone of aangetekende brief een bevestiging van zijn registratie.<br /><br />De bevestiging van de registratie bevat minstens de volgende gegevens : <br />1° de gegevens van de bevoegde dienst;<br />2° een registratienummer dat vermeld moet worden op alle handelsbescheiden die gevoegd zijn bij leveringen op basis van de betreffende algemene vergunning;<br />3° de gegevens van de betrokken persoon;<br />4° indien van toepassing, de gegevens van de vertegenwoordiger van de betrokken persoon;<br />5° de aanduiding van de defensiegerelateerde producten waarvoor de registratie geldt : <br />a) een technische beschrijving van de producten;<br />b) de classificatie van de producten volgens de categorieën van de gemeenschappelijke EU-lijst van militaire goederen;<br />c) de toekenning van een productcode per product, op basis waarvan de rapportering, vermeld in artikel 49 van het Wapenhandeldecreet, en in artikel 57, 58 en 60 van dit besluit, moet gebeuren;<br />6° indien van toepassing, de bevestiging dat de defensiegerelateerde producten daadwerkelijk onder de toepassing van artikel 9, § 2, eerste lid, 2°, d), van dit besluit vallen;<br />7° indien van toepassing, een verwijzing naar de voorwaarden en beperkingen die verbonden zijn aan het gebruik van de algemene vergunning, vermeld in artikel 9 en 12 van dit besluit;<br />8° indien van toepassing, een verwijzing naar de beperkingen die met toepassing van artikel 43 van het Wapenhandeldecreet aan het gebruik van de algemene vergunning verbonden worden, als vermeld in artikel 13 van dit besluit.<br /><br />Als verder onderzoek van de mogelijke toepasselijkheid van artikel 9, § 2, eerste lid, 2°, d), van dit besluit, nodig wordt geacht, bezorgt de bevoegde dienst, indien van toepassing, de bevestiging, vermeld in tweede lid, 6°, ten hoogste dertig werkdagen of, na motivatie van de noodzaak, negentig werkdagen na de datum van de ontvangstmelding, vermeld in paragraaf 3.
+§ 1. Om ontvankelijk te zijn, moet de bevoegde dienst de registratie, vermeld in artikel 14, § 6, van het Wapenhandeldecreet, uiterlijk twintig werkdagen voor de eerste voorgenomen overbrenging op basis van de betreffende algemene vergunning ontvangen.<br>
+<br>
+De registratie bevat minstens de volgende gegevens :<br>
+1° de gegevens van de betrokken persoon;<br>
+2° indien van toepassing, de gegevens van de vertegenwoordiger van de betrokken persoon;<br>
+3° het nummer van de algemene vergunning waarvoor de registratie wordt gevraagd;<br>
+4° de technische gegevens van de defensiegerelateerde producten waarvoor de betrokken persoon de algemene vergunning wil gebruiken :<br>
+a) een technische beschrijving van de producten;<br>
+b) een initiële classificatie van de producten volgens de categorieën van de gemeenschappelijke EU-lijst van militaire goederen;<br>
+5° de aanwending van de defensiegerelateerde producten, namelijk een beschrijving van het gebruik waarvoor de producten werden ontworpen of aangepast;<br>
+6° indien van toepassing, een beschrijving van de mogelijke toepasselijkheid van artikel 9, § 2, eerste lid, 2°, d), van dit besluit;<br>
+6° /1 een beschrijving van het intergouvernementele samenwerkingsprogramma waarbij voorgenomen overbrengingen aansluiten als dat van toepassing is;<br>
+7° de handtekening van de aangewezen personen die persoonlijk verantwoordelijk zijn voor in-, uit-, doorvoer en overbrenging;<br>
+8° de verbintenis van die personen om :<br>
+a) aan de betreffende defensiegerelateerde producten een bestemming te geven in overeenstemming met de voorwaarden en beperkingen die verbonden zijn aan het gebruik van de algemene vergunningen;<br>
+b) indien van toepassing, de verplichtingen na te komen die de douaneregelgeving, de Wapenwet van 8 juni 2006 en de uitvoeringsbesluiten ervan, en andere toepasselijke regelgeving aan de betreffende overbrenging verbinden.<br>
+<br>
+§ 2. Bij de aanvraag wordt alle nuttige informatie gevoegd over de technische eigenschappen en mogelijkheden van de betreffende defensiegerelateerde producten en over de mogelijke aanwending daarvan.<br>
+<br>
+Bij de registratie worden ook de volgende documenten gevoegd :<br>
+1° een kopie van de voorafgaande machtiging van de aanvrager, vermeld in artikel 10 van het Wapenhandeldecreet;<br>
+2° indien van toepassing, de documenten die de mogelijke toepasselijkheid van artikel 9, § 2, eerste lid, 2°, d), van dit besluit aantonen;<br>
+3° een bewijs van het intergouvernementele samenwerkingsprogramma waarbij voorgenomen overbrengingen aansluiten als dat van toepassing is.<br>
+<br>
+§ 3. Na ontvangst van een volledige registratie verstrekt de bevoegde dienst aan de betrokken persoon een ontvangstmelding.<br>
+<br>
+§ 4. Binnen tien werkdagen na de datum van de ontvangstmelding, vermeld in paragraaf 3, bezorgt de bevoegde dienst aan de betrokken persoon met een gewone of aangetekende brief een bevestiging van zijn registratie.<br>
+<br>
+De bevestiging van de registratie bevat minstens de volgende gegevens :<br>
+1° de gegevens van de bevoegde dienst;<br>
+2° een registratienummer dat vermeld moet worden op alle handelsbescheiden die gevoegd zijn bij leveringen op basis van de betreffende algemene vergunning;<br>
+3° de gegevens van de betrokken persoon;<br>
+4° indien van toepassing, de gegevens van de vertegenwoordiger van de betrokken persoon;<br>
+5° de aanduiding van de defensiegerelateerde producten waarvoor de registratie geldt :<br>
+a) een technische beschrijving van de producten;<br>
+b) de classificatie van de producten volgens de categorieën van de gemeenschappelijke EU-lijst van militaire goederen;<br>
+c) de toekenning van een productcode per product, op basis waarvan de rapportering, vermeld in artikel 49 van het Wapenhandeldecreet, en in artikel 57, 58 en 60 van dit besluit, moet gebeuren;<br>
+6° indien van toepassing, de bevestiging dat de defensiegerelateerde producten daadwerkelijk onder de toepassing van artikel 9, § 2, eerste lid, 2°, d), van dit besluit vallen;<br>
+7° indien van toepassing, een verwijzing naar de voorwaarden en beperkingen die verbonden zijn aan het gebruik van de algemene vergunning, vermeld in artikel 9 en 12 van dit besluit;<br>
+8° indien van toepassing, een verwijzing naar de beperkingen die met toepassing van artikel 43 van het Wapenhandeldecreet aan het gebruik van de algemene vergunning verbonden worden, als vermeld in artikel 13 van dit besluit.<br>
+<br>
+Als verder onderzoek van de mogelijke toepasselijkheid van artikel 9, § 2, eerste lid, 2°, d), van dit besluit, nodig wordt geacht, bezorgt de bevoegde dienst, indien van toepassing, de bevestiging, vermeld in tweede lid, 6°, ten hoogste dertig werkdagen of, na motivatie van de noodzaak, negentig werkdagen na de datum van de ontvangstmelding, vermeld in paragraaf 3.
 
 ### ART. 11.
 
@@ -60,13 +149,36 @@ Als een bepaalde overbrenging onder het toepassingsgebied van verschillende alge
 
 ### ART. 12.
 
-§ 1. De algemene vergunning voor het geval, vermeld in artikel 14, § 2, 3°, van het voormelde decreet, mag alleen gebruikt worden voor tijdelijke overbrengingen met het oog op demonstratie, evaluatie of expositie.<br /><br />Bij de demonstratie, evaluatie of expositie mogen de betreffende defensiegerelateerde producten geen deel uitmaken van een productieproces en niet voor hun beoogde bestemming gebruikt worden, tenzij dat alleen het geval is in een minimale mate die vereist is voor effectieve demonstratie-, evaluatie- of expositiedoeleinden.<br /><br />Na de demonstratie, evaluatie of expositie moeten de betreffende defensiegerelateerde producten in de oorspronkelijke staat weer naar het Vlaamse Gewest overgebracht worden, zonder dat een component of software is verwijderd, gekopieerd of verspreid, met uitzondering van schade die voortvloeit uit het normale gebruik van de producten met het oog op demonstratie, evaluatie of expositie.<br /><br />In het eerste, tweede en derde lid wordt verstaan onder : <br />1° demonstratie : een besloten presentatie van defensiegerelateerde producten in een niet-publieke ruimte aan een specifieke eventuele bestemmeling of verschillende specifieke eventuele bestemmelingen;<br />2° evaluatie : het gebruiken van defensiegerelateerde producten voor hun beoogde bestemming in de minimale mate die vereist is om de technische en operationele eigenschappen en capaciteiten van de betreffende producten te beoordelen met het oog op de eventuele aankoop, huur of lease van de betreffende producten;<br />3° expositie : een publieke presentatie van defensiegerelateerde producten in het kader van een commercieel evenement van een bepaalde duur waar verschillende exposanten hun producten voorstellen aan bezoekende handelaren of aan het grote publiek.<br /><br />§ 2. De algemene vergunning voor het geval, vermeld artikel 14, § 2, 4°, van het voormelde decreet, mag alleen gebruikt worden voor tijdelijke overbrengingen met het oog op onderhoud of herstelling en voor de wederoverbrenging na onderhoud of herstelling in het Vlaamse Gewest. <br /><br />Onderhoud of herstelling kan gepaard gaan met toevallige verbetering van de oorspronkelijke producten, bijvoorbeeld door het gebruik van moderne reserveonderdelen of door de toepassing van een recentere norm om betrouwbaarheids- of veiligheidsredenen, mits dat niet tot gevolg heeft dat de functionele mogelijkheden van de betreffende defensiegerelateerde producten vergroot worden of de producten van nieuwe of extra functies voorzien worden.
+§ 1. De algemene vergunning voor het geval, vermeld in artikel 14, § 2, 3°, van het voormelde decreet, mag alleen gebruikt worden voor tijdelijke overbrengingen met het oog op demonstratie, evaluatie of expositie.<br>
+<br>
+Bij de demonstratie, evaluatie of expositie mogen de betreffende defensiegerelateerde producten geen deel uitmaken van een productieproces en niet voor hun beoogde bestemming gebruikt worden, tenzij dat alleen het geval is in een minimale mate die vereist is voor effectieve demonstratie-, evaluatie- of expositiedoeleinden.<br>
+<br>
+Na de demonstratie, evaluatie of expositie moeten de betreffende defensiegerelateerde producten in de oorspronkelijke staat weer naar het Vlaamse Gewest overgebracht worden, zonder dat een component of software is verwijderd, gekopieerd of verspreid, met uitzondering van schade die voortvloeit uit het normale gebruik van de producten met het oog op demonstratie, evaluatie of expositie.<br>
+<br>
+In het eerste, tweede en derde lid wordt verstaan onder :<br>
+1° demonstratie : een besloten presentatie van defensiegerelateerde producten in een niet-publieke ruimte aan een specifieke eventuele bestemmeling of verschillende specifieke eventuele bestemmelingen;<br>
+2° evaluatie : het gebruiken van defensiegerelateerde producten voor hun beoogde bestemming in de minimale mate die vereist is om de technische en operationele eigenschappen en capaciteiten van de betreffende producten te beoordelen met het oog op de eventuele aankoop, huur of lease van de betreffende producten;<br>
+3° expositie : een publieke presentatie van defensiegerelateerde producten in het kader van een commercieel evenement van een bepaalde duur waar verschillende exposanten hun producten voorstellen aan bezoekende handelaren of aan het grote publiek.<br>
+<br>
+§ 2. De algemene vergunning voor het geval, vermeld artikel 14, § 2, 4°, van het voormelde decreet, mag alleen gebruikt worden voor tijdelijke overbrengingen met het oog op onderhoud of herstelling en voor de wederoverbrenging na onderhoud of herstelling in het Vlaamse Gewest.<br>
+<br>
+Onderhoud of herstelling kan gepaard gaan met toevallige verbetering van de oorspronkelijke producten, bijvoorbeeld door het gebruik van moderne reserveonderdelen of door de toepassing van een recentere norm om betrouwbaarheids- of veiligheidsredenen, mits dat niet tot gevolg heeft dat de functionele mogelijkheden van de betreffende defensiegerelateerde producten vergroot worden of de producten van nieuwe of extra functies voorzien worden.<br>
+<br>
+§ 3. De algemene vergunning voor het geval, vermeld artikel 14, § 2, 5°, van het Wapenhandeldecreet, mag alleen gebruikt worden als bevoegde dienst heeft bevestigd dat de vergunning van toepassing is op het intergouvernementele samenwerkingsprogramma waarbij de voorgenomen overbrengingen aansluiten.
 
 ### ART. 13.
 
 § 1. Met toepassing van artikel 12, par. 1 van voormelde decreet verbindt de minister ook de voorwaarden en beperkingen aan het gebruik van de algemene vergunningen die hij noodzakelijk acht in het licht van de criteria, vermeld in artikel 26 en 28 van het voormelde decreet.<br /><br />§ 2. Met toepassing van artikel 43 van het Wapenhandeldecreet en artikelen 46 tot en met 49 van dit besluit kunnen de algemene vergunningen, vermeld in artikel 9, § 1, van dit besluit geschorst worden of beperkt worden in gebruik.
 
 ## [HOOFDSTUK 3. Afwijkingen van de vergunningsplicht bij doorvoer als vermeld in artikel 8, § 2/1, derde lid, van het Wapenhandeldecreet (ing. BVR 9 maart 2018, art. 9, I: 6 mei 2018)]
+
+### ART 13/1.
+
+Aanvullend op de afwijking van de vergunningsplicht bij doorvoer, vermeld in artikel 8, § 2/1, derde lid, van het Wapenhandeldecreet, geldt de afwijking in kwestie ook voor de volgende lidstaten van de NAVO of van het Wassenaar Arrangement: Argentinië, Australië, Canada, Japan, Montenegro, Nieuw-Zeeland, de Verenigde Staten van Amerika, Zuid-Korea en Zwitserland.<br>
+<br>
+De minister kan bepalen dat de afwijking ook geldt voor bepaalde andere of nieuwe lidstaten van de NAVO of van het Wassenaar Arrangement als hij oordeelt dat het exportbeleid in die lidstaten en de omstandigheden die een belangrijk effect kunnen hebben op de toets, vermeld in artikel 26 en 28 van het voormelde decreet, van hetzelfde niveau zijn als het exportbeleid en de omstandigheden in de lidstaten, vermeld in het eerste lid.<br>
+<br>
+De minister kan de afwijking voor de lidstaten, vermeld in het eerste en tweede lid, opheffen als hij oordeelt dat in de lidstaten in kwestie gewijzigde omstandigheden hebben plaatsgevonden die een dermate belangrijk negatief effect kunnen hebben op het exportbeleid van die lidstaten of op de toets, vermeld in artikel 26 en 28 van het voormelde decreet, dat deze niet langer van hetzelfde niveau zijn als het exportbeleid en de omstandigheden in de andere lidstaten, vermeld in het eerste lid.
 
 ## TITEL 2. Procedures en nadere regels
 
@@ -78,7 +190,97 @@ Als een bepaalde overbrenging onder het toepassingsgebied van verschillende alge
 
 ### ART. 14.
 
-§ 1. De aanvraag van een vergunning, vermeld in artikel 15, 16, 22 of 23, van het Wapenhandeldecreet, bevat minstens de volgende gegevens : <br />1° de gegevens van de aanvrager;<br />2° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br />3° het type van de aanvraag : <br />a) in-, uit-, doorvoer of overbrenging;<br />b) tijdelijke of definitieve in-, uit-, doorvoer of overbrenging;<br />c) individuele, globale of gecombineerde vergunning;<br />4° de gegevens van de afzender of afzenders en van de bestemmeling of bestemmelingen;<br />5° de gegevens van de eindgebruiker of eindgebruikers, als die verschillend zijn van de gegevens van de bestemmeling of bestemmelingen;<br />6° het land of de landen van oorsprong van de defensiegerelateerde producten, het ander voor militair gebruik dienstig materiaal, of het ordehandhavingsmateriaal;<br />7° het land of de landen van afzending;<br />8° het land of de landen van bestemming en het land of de landen van eindgebruik, als dat verschillend is of die verschillend zijn van het land of de landen van bestemming;<br />9° de technische gegevens van de defensiegerelateerde producten, het ander voor militair gebruik dienstig materiaal, of het ordehandhavingsmateriaal : <br />a) een technische beschrijving van de goederen;<br />b) indien van toepassing, een initiële classificatie van de defensiegerelateerde producten volgens de categorieën van de gemeenschappelijke EU-lijst van militaire goederen;<br />c) het gewicht of het aantal van de goederen;<br />d) de waarde in euro's en de tariefcode van de goederen;<br />10° de aanwending van de defensiegerelateerde producten, het ander voor militair gebruik dienstig materiaal, of het ordehandhavingsmateriaal : <br />a) een beschrijving van het gebruik waarvoor de goederen zijn ontworpen of aangepast;<br />b) een beschrijving van het voorgenomen gebruik van de goederen door de bestemmeling of bestemmelingen en door de eindgebruiker of eindgebruikers, als die verschillend is of zijn van de bestemmeling of bestemmelingen;<br />11° de handtekening van de aangewezen personen die persoonlijk verantwoordelijk zijn voor de in-, uit-, doorvoer en overbrenging;<br />12° de verbintenis van die personen om : <br />a) aan de betreffende goederen een bestemming te geven in overeenstemming met de aangevraagde vergunning;<br />b) indien van toepassing, de verplichtingen na te komen die de douaneregelgeving, de Wapenwet van 8 juni 2006 en de uitvoeringsbesluiten ervan, en andere toepasselijke regelgeving aan de betreffende in-, uit-, doorvoer of overbrenging verbinden.<br /><br />§ 2. Bij de aanvraag wordt alle nuttige informatie gevoegd over de technische eigenschappen en mogelijkheden van de goederen en over de mogelijke aanwending daarvan.<br /><br />Indien toepasselijk wordt bij de aanvraag een kopie gevoegd van het document dat de titel bevat op basis waarvan de aanvrager volgens de Wapenwet van 8 juni 2006 en de uitvoeringsbesluiten ervan gerechtigd is om de goederen voorhanden te hebben of te verwerven als vermeld in artikel 31, § 1, eerste lid, van het voormelde decreet.<br /><br />Bij de aanvraag van een vergunning voor uit-, doorvoer of overbrenging naar een andere lidstaat van de EU moeten ook de volgende documenten gevoegd worden : <br />1° een kopie van de voorafgaande machtiging van de aanvrager, vermeld in artikel 10 van het voormelde decreet;<br />2° een document dat de eindgebruiker en het eindgebruik vermeldt, vermeld in artikelen 19, § 2, en 24, § 2, van het voormelde decreet;<br />3° indien van toepassing, een verklaring van de eindgebruiker waarin deze zich er toe verbindt om bij een eventuele wederuitvoer de toestemming van de Vlaamse Regering te vragen, vermeld in artikel 19, § 3, tweede lid, en 24, § 3, tweede lid van het voormelde decreet;<br />4° indien van toepassing, de documenten die aantonen dat de aanvrager van een uitvoervergunning voor defensiegerelateerde producten die vanuit een andere lidstaat van de EU zijn overgebracht en waaraan uitvoerbeperkingen zijn verbonden, heeft voldaan aan de voorwaarden van die uitvoerbeperkingen, vermeld in artikel 25 van het voormelde decreet;<br />5° indien van toepassing, een verklaring als vermeld in artikel 20, § 2, 2°, van dit besluit.<br /><br />Bij de aanvraag van een vergunning voor doorvoer moet, indien van toepassing, ook een document gevoegd worden waaruit blijkt dat de bevoegde autoriteiten van het land van herkomst van de goederen de uitvoer hebben toegestaan, als vermeld in artikel 24, § 4, van het voormelde decreet.
+§ 1. De aanvraag van een vergunning, vermeld in artikel 15, 16, 22 of 23, van het Wapenhandeldecreet, bevat minstens de volgende gegevens :<br>
+1° de gegevens van de aanvrager;<br>
+2° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br>
+3° het type van de aanvraag :<br>
+a) in-, uit-, doorvoer of overbrenging;<br>
+b) tijdelijke of definitieve in-, uit-, doorvoer of overbrenging;<br>
+c) individuele, globale of gecombineerde vergunning;<br>
+4° de gegevens van de afzender of afzenders en van de bestemmeling of bestemmelingen;<br>
+5° de gegevens van de eindgebruiker of eindgebruikers, als die verschillend zijn van de gegevens van de bestemmeling of bestemmelingen;<br>
+6° het land of de landen van oorsprong van de defensiegerelateerde producten, het ander voor militair gebruik dienstig materiaal, of het ordehandhavingsmateriaal;<br>
+7° het land of de landen van afzending;<br>
+8° het land of de landen van bestemming en het land of de landen van eindgebruik, als dat verschillend is of die verschillend zijn van het land of de landen van bestemming;<br>
+9° de technische gegevens van de defensiegerelateerde producten, het ander voor militair gebruik dienstig materiaal, of het ordehandhavingsmateriaal :<br>
+a) een technische beschrijving van de goederen;<br>
+b) indien van toepassing, een initiële classificatie van de defensiegerelateerde producten volgens de categorieën van de gemeenschappelijke EU-lijst van militaire goederen;<br>
+c) het gewicht of het aantal van de goederen;<br>
+d) de waarde in euro's en de tariefcode van de goederen;<br>
+10° de aanwending van de defensiegerelateerde producten, het ander voor militair gebruik dienstig materiaal, of het ordehandhavingsmateriaal :<br>
+a) een beschrijving van het gebruik waarvoor de goederen zijn ontworpen of aangepast;<br>
+b) een beschrijving van het voorgenomen gebruik van de goederen door de bestemmeling of bestemmelingen en door de eindgebruiker of eindgebruikers, als die verschillend is of zijn van de bestemmeling of bestemmelingen;<br>
+11° de handtekening van de aangewezen personen die persoonlijk verantwoordelijk zijn voor de in-, uit-, doorvoer en overbrenging;<br>
+12° de verbintenis van die personen om :<br>
+a) aan de betreffende goederen een bestemming te geven in overeenstemming met de aangevraagde vergunning;<br>
+b) indien van toepassing, de verplichtingen na te komen die de douaneregelgeving, de Wapenwet van 8 juni 2006 en de uitvoeringsbesluiten ervan, en andere toepasselijke regelgeving aan de betreffende in-, uit-, doorvoer of overbrenging verbinden.<br>
+<br>
+De verplichting, vermeld in het eerste lid, 9°, c) en d), is niet van toepassing op de aanvraag van de vergunning, vermeld in artikel 16 van het voormelde decreet.<br>
+<br>
+De aanvraag voor een vergunning voor de uitvoer, de doorvoer of de overbrenging naar een andere lidstaat van de EU bevat naast de gegevens, vermeld in het eerste lid, de volgende gegevens:<br>
+1° de gegevens van andere betrokken partijen als dat van toepassing is, zoals een nakomende bestemmeling, een tussenpersoon, een expediteur, een douaneagent, een uitvoerder of een vervoerder;<br>
+2° een beschrijving van de vooropgestelde wijze van vervoer en het vooropgestelde uitklaringskantoor;<br>
+3° een beschrijving van die voorwaarden of beperkingen in geval van goederen die eerder vanuit een ander land zijn overgebracht of ingevoerd en waaraan uitvoervoorwaarden of -beperkingen zijn verbonden.<br>
+<br>
+§ 2. Bij de aanvraag wordt alle nuttige informatie gevoegd over de technische eigenschappen en mogelijkheden van de goederen en over de mogelijke aanwending daarvan.<br>
+<br>
+Indien toepasselijk wordt bij de aanvraag een kopie gevoegd van het document dat de titel bevat op basis waarvan de aanvrager volgens de Wapenwet van 8 juni 2006 en de uitvoeringsbesluiten ervan gerechtigd is om de goederen voorhanden te hebben of te verwerven als vermeld in artikel 31, § 1, van het Wapenhandeldecreet.<br>
+<br>
+Bij de aanvraag van een vergunning voor uit-, doorvoer of overbrenging naar een andere lidstaat van de EU moeten ook de volgende documenten gevoegd worden :<br>
+1° een kopie van de voorafgaande machtiging van de aanvrager, vermeld in artikel 10 van het voormelde decreet;<br>
+2° een verklaring van de eindgebruiker als vermeld in artikel 19, § 2, en artikel 24, § 2, en, als die van toepassing zijn, artikel 19, § 3, tweede lid, en 24, § 3, tweede lid, van het voormelde decreet;<br>
+3° een internationaal invoercertificaat of een kopie van de invoervergunning van het land van bestemming als dat van toepassing is;<br>
+4° de documenten die aantonen dat de aanvrager heeft voldaan aan die voorwaarden of beperkingen in geval van goederen die eerder vanuit een ander land zijn overgebracht of ingevoerd en waaraan uitvoervoorwaarden of -beperkingen zijn verbonden;<br>
+5° indien van toepassing, een verklaring als vermeld in artikel 20, § 2, 2°, van dit besluit;<br>
+6° een kopie van de overbrengings- of uitvoervergunning van het land van bestemming als het land van eindgebruik verschillend is van het land van bestemming en als die kopie voorhanden is;<br>
+7° de gegevens van het contract of de factuur waarop de overbrenging, de uitvoer of de doorvoer betrekking heeft als die gegevens bekend zijn.<br>
+<br>
+Bij de aanvraag van een vergunning voor doorvoer moet, indien van toepassing, ook een document gevoegd worden waaruit blijkt dat de bevoegde autoriteiten van het land van herkomst van de goederen de uitvoer hebben toegestaan, als vermeld in artikel 24, § 4, van het voormelde decreet.<br>
+<br>
+Bij de aanvraag voor een vergunning voor de uitvoer of doorvoer van vuurwapens die geen civiele vuurwapens zijn, inclusief onderdelen en munitie ervan, wordt ook een document gevoegd waaruit de toestemming van de eventuele landen van doorvoer blijkt, met uitzondering van de lidstaten van de EU als vermeld in artikel 6 en 40, § 4, van het voormelde decreet.
+
+### ART 14/1.
+
+§ 1. De verklaring van de eindgebruiker, vermeld in artikel 19, § 2, en artikel 24, § 2, van het Wapenhandeldecreet, bevat minstens al de volgende gegevens:<br>
+1° de gegevens van de volgende betrokken partijen:<br>
+a) de afzender;<br>
+b) de bestemmeling;<br>
+c) de eindgebruiker, als die verschillend is van de bestemmeling;<br>
+d) de nakomende bestemmeling en de tussenpersoon als dat van toepassing is;<br>
+2° het land van eindgebruik;<br>
+3° de volgende technische gegevens van de defensiegerelateerde producten, het ander voor militair gebruik dienstig materiaal, of het ordehandhavingsmateriaal:<br>
+a) een technische beschrijving van het type en de aard van de goederen;<br>
+b) het gewicht en het aantal van de goederen;<br>
+c) de waarde van de goederen;<br>
+4° een beschrijving van het voorgenomen gebruik van de goederen door de eindgebruiker;<br>
+5° de locatie waar het eindgebruik van de goederen zal plaatsvinden als dat bekend is;<br>
+6° de gegevens van het contract of de factuur waarop de overbrenging, de uitvoer of de doorvoer betrekking heeft als die bekend zijn;<br>
+7° de gegevens die met toepassing van artikel 19, § 3, of artikel 24, § 3, van het voormelde decreet van de eindgebruiker geëist worden als dat van toepassing is.<br>
+<br>
+§ 2. De verklaring, vermeld in paragraaf 1, bevat naast de gegevens, vermeld in paragraaf 1, al de volgende verbintenissen:<br>
+1° de verbintenis om de goederen alleen te gebruiken voor de doeleinden die in de verklaring omschreven zijn en om ze niet te gebruiken voor een van de volgende activiteiten:<br>
+a) een activiteit die verband houdt met chemische, biologische of nucleaire wapens, of raketten die dergelijke wapens naar hun doel kunnen voeren;<br>
+b) een activiteit die verband houdt met nucleaire explosieactiviteiten of splijtstofkringloopactiviteiten;<br>
+c) een activiteit die verband houdt met andere goederen als vermeld in artikel 3, § 1, eerste lid, van het Wapenhandeldecreet;<br>
+2° de verbintenis om de goederen niet te gebruiken, over te dragen of uit te voeren in strijd met relevante beperkende maatregelen van de VN, de EU en de OVSE of in strijd met de beperkingen waarvan de eindgebruiker door de exporteur op de hoogte gebracht is;<br>
+3° de verbintenis om de goederen niet aan een andere persoon over te dragen voor activiteiten als vermeld in punt 1° en 2°, en, tijdens de geldigheidsduur van de vergunning, niet als dusdanig uit te voeren naar een ander land buiten de EU zonder nakomende kennisgeving aan de Vlaamse Regering;<br>
+4° de verbintenis om de goederen alleen als dusdanig aan een andere persoon over te dragen op voorwaarde dat die persoon de verbintenissen, vermeld in punt 1° tot en met 3°, schriftelijk als bindend voor zichzelf aanvaardt en op voorwaarde dat is nagegaan dat die persoon bekend is als betrouwbaar in de nakoming van dergelijke verbintenissen.<br>
+<br>
+Als de eindgebruiker de goederen zal aanwenden voor operationeel gebruik, bevat de verklaring van de eindgebruiker naast de gegevens, vermeld in paragraaf 1, en de verbintenissen, vermeld in het eerste lid, de verbintenis om de goederen niet te gebruiken en niet aan een andere persoon over te dragen voor schendingen van:<br>
+1° de rechten van de mens;<br>
+2° het internationaal humanitair recht;<br>
+3° het verbod op het gebruik van geweld, vermeld in artikel 2 van het Handvest van de Verenigde Naties;<br>
+4° de verdragen van de Verenigde Naties over terrorisme en grensoverschrijdende georganiseerde criminaliteit.<br>
+<br>
+Als de eindgebruiker de goederen zal aanwenden voor integratie in andere goederen, bevat de verklaring van de eindgebruiker naast de gegevens, vermeld in paragraaf 1, en de verbintenissen, vermeld in het eerste lid, de volgende twee verbintenissen:<br>
+1° de verbintenis om de goederen effectief te integreren in de eigen goederen;<br>
+2° de verbintenis om de eigen goederen in kwestie alleen over te dragen, over te brengen of uit te voeren conform de geldende exportregelgeving in het land van eindgebruik.<br>
+<br>
+Als dat van toepassing is, bevat de verklaring van de eindgebruiker naast de gegevens, vermeld in paragraaf 1, en de verbintenissen, vermeld in het eerste lid, al de eisen voor de eindgebruiker, vermeld in artikel 19, § 3, of artikel 24, § 3, van het voormelde decreet.<br>
+<br>
+§ 3. De verklaring, vermeld in paragraaf 1, wordt ondertekend door een persoon die de bevoegdheid heeft om in naam van de eindgebruiker juridische verbintenissen aan te gaan voor handelingen voor de invoer, uitvoer, doorvoer en overbrenging van defensiegerelateerde producten, ander voor militair gebruik dienstig materiaal en ordehandhavingsmateriaal.<br>
+<br>
+§ 4. De bevoegde dienst stelt op zijn website een sjabloon ter beschikking voor de opmaak van de verklaring van de eindgebruiker.
 
 ## Onderafdeling 2. Nadere regels voor het eisen van bijkomende informatie of garanties en voor het opleggen van toekenningsvoorwaarden
 
@@ -96,7 +298,42 @@ Bijkomend aan de uitzondering voor de overbrenging en uitvoer naar lidstaten van
 
 ### ART. 17.
 
-§ 1. De vergunningen, vermeld in artikel 15, 16, 22 en 23 van het Wapenhandeldecreet, bevatten minstens de volgende gegevens : <br />1° de gegevens van de bevoegde dienst;<br />2° de laatste dag van de geldigheid;<br />3° de gegevens van de aanvrager;<br />4° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br />5° het type van de aanvraag : <br />a) in-, uit-, doorvoer of overbrenging;<br />b) tijdelijke of definitieve in-, uit-, doorvoer of overbrenging;<br />c) individuele, globale of gecombineerde vergunning;<br />6° de technische gegevens van de defensiegerelateerde producten, het ander voor militair gebruik dienstig materiaal, of het ordehandhavingsmateriaal : <br />a) een technische beschrijving van de goederen;<br />b) het gewicht of het aantal van de goederen;<br />c) de waarde in euro's en de tariefcode van de goederen;<br />7° de voorwaarden en bedingen, vermeld in paragraaf 2.<br /><br />De vergunningen voor invoer of overbrenging naar het Vlaamse Gewest bevatten naast de gegevens, vermeld in het eerste lid, ook de volgende gegevens : <br />1° de gegevens van de afzender of afzenders;<br />2° het land of de landen van afzending.<br /><br />De vergunningen voor uitvoer of overbrenging naar een andere lidstaat van de EU bevatten naast de gegevens, vermeld in het eerste lid, ook de volgende gegevens : <br />1° de gegevens van de bestemmeling of bestemmelingen;<br />2° het land of de landen van bestemming;<br />3° indien verschillend, het land of de landen van eindgebruik;<br />4° indien van toepassing, het land of de landen van doorvoer.<br /><br />De vergunningen voor doorvoer bevatten naast de gegevens, vermeld in het eerste lid, ook de volgende gegevens : <br />1° de gegevens van de bestemmeling;<br />2° het land van afzending;<br />3° het land van bestemming;<br />4° indien verschillend, het land of de landen van eindgebruik.<br /><br />§ 2. De vergunningen bevatten, indien van toepassing, de voorwaarden en beperkingen die met toepassing van artikel 12 van het voormelde decreet aan het gebruik ervan zijn verbonden.<br /><br />De vergunningen bevatten ook een beding dat stelt dat, indien van toepassing, het gebruik van de vergunning alleen rechtmatig is als de aanvrager de verplichtingen nakomt die de douaneregelgeving en de Wapenwet van 8 juni 2006 en de uitvoeringsbesluiten ervan aan de betreffende in-, uit-, doorvoer of overbrenging verbinden.
+§ 1. De vergunningen, vermeld in artikel 15, 16, 22 en 23 van het Wapenhandeldecreet, bevatten minstens de volgende gegevens :<br>
+1° de gegevens van de bevoegde dienst;<br>
+2° de laatste dag van de geldigheid;<br>
+3° de gegevens van de aanvrager;<br>
+4° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br>
+5° het type van de aanvraag :<br>
+a) in-, uit-, doorvoer of overbrenging;<br>
+b) tijdelijke of definitieve in-, uit-, doorvoer of overbrenging;<br>
+c) individuele, globale of gecombineerde vergunning;<br>
+6° de technische gegevens van de defensiegerelateerde producten, het ander voor militair gebruik dienstig materiaal, of het ordehandhavingsmateriaal :<br>
+a) een technische beschrijving van de goederen;<br>
+b) het gewicht of het aantal van de goederen;<br>
+c) de waarde in euro's en de tariefcode van de goederen;<br>
+7° de voorwaarden en bedingen, vermeld in paragraaf 2.<br>
+<br>
+De verplichting, vermeld in het eerste lid, 6°, b) en c), is niet van toepassing op de aanvraag van de vergunning, vermeld in artikel 16 van het voormelde decreet.<br>
+<br>
+De vergunningen voor invoer of overbrenging naar het Vlaamse Gewest bevatten naast de gegevens, vermeld in het eerste lid, ook de volgende gegevens :<br>
+1° de gegevens van de afzender of afzenders;<br>
+2° het land of de landen van afzending.<br>
+<br>
+De vergunningen voor uitvoer of overbrenging naar een andere lidstaat van de EU bevatten naast de gegevens, vermeld in het eerste lid, ook de volgende gegevens :<br>
+1° de gegevens van de bestemmeling of bestemmelingen;<br>
+2° het land of de landen van bestemming;<br>
+3° indien verschillend, het land of de landen van eindgebruik;<br>
+4° indien van toepassing, het land of de landen van doorvoer.<br>
+<br>
+De vergunningen voor doorvoer bevatten naast de gegevens, vermeld in het eerste lid, ook de volgende gegevens :<br>
+1° de gegevens van de bestemmeling;<br>
+2° het land van afzending;<br>
+3° het land van bestemming;<br>
+4° indien verschillend, het land of de landen van eindgebruik.<br>
+<br>
+§ 2. De vergunningen bevatten, indien van toepassing, de voorwaarden en beperkingen die met toepassing van artikel 12 van het voormelde decreet aan het gebruik ervan zijn verbonden.<br>
+<br>
+De vergunningen bevatten ook een beding dat stelt dat, indien van toepassing, het gebruik van de vergunning alleen rechtmatig is als de aanvrager de verplichtingen nakomt die de douaneregelgeving en de Wapenwet van 8 juni 2006 en de uitvoeringsbesluiten ervan aan de betreffende in-, uit-, doorvoer of overbrenging verbinden.
 
 ## Onderafdeling 2. Geldigheidsduur, verlenging en afhandeling
 
@@ -114,7 +351,13 @@ Bijkomend aan de uitzondering voor de overbrenging en uitvoer naar lidstaten van
 
 ### ART. 20.
 
-§ 1. Als de aanvraag de overbrenging van onderdelen, vermeld in de gemeenschappelijke EU-lijst van militaire goederen, betreft, wordt bij de overweging van voorwaarden of beperkingen als vermeld in artikel 12 van het Wapenhandeldecreet, rekening gehouden met de gevoeligheid van de overbrenging.<br /><br />Een overbrenging wordt als niet-gevoelig beschouwd als de bevoegde dienst oordeelt dat ze niet-essentiële onderdelen betreft en dat de aard van de niet-essentiële onderdelen in relatie tot het eventuele eindgebruik van de producten waarin ze geïntegreerd zullen worden, geen aanleiding tot bezorgdheid zou kunnen geven op basis van de criteria, vermeld in artikel 26 en 28 van het voormelde decreet.<br /><br />§ 2. Met uitzondering van de overbrenging van niet-essentiële onderdelen van gevoelige goederen worden in ieder geval geen beperkingen op het eindgebruik van de goederen of op de uitvoer na de overbrenging opgelegd als : <br />1° de bevoegde dienst op basis van paragraaf 1 oordeelt dat de overbrenging niet gevoelig is; en<br />2° de aanvrager een verklaring van de bestemmeling voorlegt dat de betreffende onderdelen zullen worden geïntegreerd in zijn eigen product en, behalve voor onderhoud of herstelling, niet als zodanig kunnen worden overgebracht of uitgevoerd.
+§ 1. Als de aanvraag de overbrenging van onderdelen, vermeld in de gemeenschappelijke EU-lijst van militaire goederen, betreft, wordt bij&nbsp;de al dan niet toekenning van de vergunning en bij de overweging van voorwaarden of beperkingen als vermeld in artikel 12 van het Wapenhandeldecreet, rekening gehouden met de gevoeligheid van de overbrenging.<br>
+<br>
+Een overbrenging wordt als niet-gevoelig beschouwd als de bevoegde dienst oordeelt dat ze niet-essentiële onderdelen betreft en dat de aard van de niet-essentiële onderdelen in relatie tot het eventuele eindgebruik van de producten waarin ze geïntegreerd zullen worden, geen aanleiding tot bezorgdheid zou kunnen geven op basis van de criteria, vermeld in artikel 26 en 28 van het voormelde decreet.<br>
+<br>
+§ 2. De vergunning, vermeld in artikel 15 en 16 van het Wapenhandeldecreet, wordt in ieder geval niet geweigerd, noch worden beperkingen op het eindgebruik van de goederen of op de uitvoer na de overbrenging opgelegd als :<br>
+1° de bevoegde dienst op basis van paragraaf 1 oordeelt dat de overbrenging niet gevoelig is; en<br>
+2° de aanvrager een verklaring van de bestemmeling voorlegt dat de betreffende onderdelen zullen worden geïntegreerd in zijn eigen product en, behalve voor onderhoud of herstelling, niet als zodanig kunnen worden overgebracht of uitgevoerd.
 
 ## HOOFDSTUK 2. Nadere regels voor de kennisgeving, vermeld in artikel 7, § 2, van het Wapenhandeldecreet
 
@@ -130,7 +373,13 @@ Bijkomend aan de uitzondering voor de overbrenging en uitvoer naar lidstaten van
 
 ### ART. 22.
 
-§ 1. De aanvraag van een voorlopig advies bevat minstens de gegevens, vermeld in artikel 14, § 1, 1°, 2°, 3°, 7°, 8°, 9°, a) en b), 10°, a), en 11°.<br /><br />Als die gegevens bekend zijn, uiterlijk op het moment van de afgifte van het voorlopige advies, deelt de aanvrager in zijn aanvraag of later ook de gegevens, vermeld in artikel 14, § 1, 4°, 5°, 6°, 9°, c) en d), en 10°, b), mee.<br /><br />Ingeval bij uit-, doorvoer of overbrenging naar een andere lidstaat van de EU bij de aanvraag en uiterlijk op het moment van de afgifte van het voorlopige advies de specifieke eindgebruiker nog niet bekend zijn is, deelt de aanvrager in ieder geval mee op welke van volgende categorie van eindgebruikers zijn aanvraag van een voorlopig advies betrekking heeft : (1) defensiegerelateerde industrie; (2) andere industrie; (3) handelaar; (4) particulier; (5) internationale organisatie; (6) krijgsmacht; (7) ordehandhavingsinstantie of; (8) andere overheid.<br /><br />§ 2. Een aanvraag van een voorlopig advies wordt getoetst aan de criteria, vermeld in artikel 11 of artikelen 26 en 28 van het Wapenhandeldecreet, naargelang het geval.
+§ 1. De aanvraag van een voorlopig advies bevat minstens de gegevens, vermeld in&nbsp;artikel 14, § 1, eerste lid, 1°, 2°, 3°, 7°, 8°, 9°, a) en b), 10°, a), en 11°.<br>
+<br>
+Als die gegevens bekend zijn, uiterlijk op het moment van de afgifte van het voorlopige advies, deelt de aanvrager in zijn aanvraag of later ook de gegevens, vermeld in artikel 14, § 1, eerste lid, 4°, 5°, 6°, 9°, c) en d), en 10°, b),&nbsp;&nbsp;en § 1, derde lid, mee.<br>
+<br>
+Ingeval bij uit-, doorvoer of overbrenging naar een andere lidstaat van de EU bij de aanvraag en uiterlijk op het moment van de afgifte van het voorlopige advies de specifieke eindgebruiker nog niet bekend zijn is, deelt de aanvrager in ieder geval mee op welke van volgende categorie van eindgebruikers zijn aanvraag van een voorlopig advies betrekking heeft : (1) defensiegerelateerde industrie; (2) andere industrie; (3) handelaar; (4) particulier; (5) internationale organisatie; (6) krijgsmacht; (7) ordehandhavingsinstantie of; (8) andere overheid.<br>
+<br>
+§ 2. Een aanvraag van een voorlopig advies wordt getoetst aan de criteria, vermeld in artikel 11 of artikelen 26 en 28 van het Wapenhandeldecreet, naargelang het geval.
 
 ## Onderafdeling 2. Inhoud van het voorlopige advies
 
@@ -162,7 +411,9 @@ Als de minister van oordeel is dat de goederen waarover de schriftelijke bevesti
 
 ### ART. 27.
 
-Een schriftelijke bevestiging is één jaar geldig vanaf de datum van de afgifte.<br /><br />Op het moment van het verstrijken van de geldigheidsduur van de schriftelijke bevestiging kan op voorlegging van de oorspronkelijke schriftelijke bevestiging de geldigheidsduur ervan met dezelfde termijn verlengd worden.
+Een schriftelijke bevestiging is&nbsp;drie jaar geldig vanaf de datum van de afgifte.<br>
+<br>
+Op het moment van het verstrijken van de geldigheidsduur van de schriftelijke bevestiging kan op voorlegging van de oorspronkelijke schriftelijke bevestiging de geldigheidsduur ervan met dezelfde termijn verlengd worden.
 
 ## Onderafdeling 4. Weigering
 
@@ -176,19 +427,56 @@ Als de minister van oordeel is dat de goederen waarover de schriftelijke bevesti
 
 ### ART. 29.
 
-§ 1. De aanvraag van een voorafgaande machtiging moet minstens de volgende gegevens bevatten : <br />1° de gegevens van de aanvrager;<br />2° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br />3° indien de aanvrager een rechtspersoon is, de gegevens van iedere bestuurder, zaakvoerder, commissaris van de rechtspersoon en elke bijzondere gemachtigde van de rechtspersoon die bevoegd is voor in-, uit-, doorvoer en overbrenging;<br />4° een beschrijving van de relevante activiteiten van de aanvrager in defensiegerelateerde producten, ander materiaal dat dienstig is voor militair gebruik, of ordehandhavingsmateriaal; <br />5° de technische gegevens van de defensiegerelateerde producten, het ander voor militair gebruik dienstig materiaal, of het ordehandhavingsmateriaal waarop die activiteiten betrekking hebben : <br />a) een technische beschrijving van de goederen;<br />b) indien van toepassing, een initiële classificatie van de defensiegerelateerde producten volgens de categorieën van de gemeenschappelijke EU-lijst van militaire goederen;<br />6° een beschrijving van het gebruik waarvoor de betreffende defensiegerelateerde producten, het ander voor militair gebruik dienstig materiaal, of het ordehandhavingsmateriaal zijn ontworpen of aangepast;<br />7° als dat voorhanden is, een beschrijving van het interne programma tot naleving van de overbrengings- en uitvoercontroleprocedure of het uitvoerbeheerssysteem van de aanvrager;<br />8° de handtekening van de aangewezen personen die persoonlijk verantwoordelijk zijn voor de in-, uit-, doorvoer en overbrenging.<br /><br />Bij de aanvraag moeten minstens de volgende documenten gevoegd worden : <br />1° de documenten die de relevante activiteiten van de aanvrager en de technische gegevens van de goederen, vermeld in het eerste lid, aantonen;<br />2° als dat voorhanden is, de documenten die het interne programma tot naleving van de overbrengings- en uitvoercontroleprocedure of het uitvoerbeheerssyteem van de aanvrager, vermeld in het eerste lid, aantonen;<br />3° een uittreksel uit het strafregister of een gelijkwaardig document, dat uiterlijk één maand oud is op het moment van de aanvraag, van de aanvrager en, als de aanvrager een rechtspersoon is, van iedere bestuurder, zaakvoerder, commissaris van de rechtspersoon en elke bijzondere gemachtigde van de rechtspersoon die bevoegd is voor in-, uit-, doorvoer en overbrenging;<br />4° als de aanvrager een rechtspersoon is, een afschrift van de statuten van de rechtspersoon.<br /><br />§ 2. Op basis van een evaluatie van de gegevens, documenten en adviezen, vermeld in paragraaf 1 van dit artikel en in artikel 10, § 2, tweede lid, van het Wapenhandeldecreet kan de voorafgaande machtiging beperkt worden tot bepaalde activiteiten van uit- of doorvoer of van overbrenging, en tot bepaalde categorieën van goederen.
+§ 1. De aanvraag van een voorafgaande machtiging moet minstens de volgende gegevens bevatten :<br>
+1° de gegevens van de aanvrager;<br>
+2° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br>
+3° indien de aanvrager een rechtspersoon is, de gegevens van iedere bestuurder, zaakvoerder, commissaris van de rechtspersoon en elke bijzondere gemachtigde van de rechtspersoon die bevoegd is voor in-, uit-, doorvoer en overbrenging;<br>
+4° een beschrijving van de relevante activiteiten van de aanvrager in defensiegerelateerde producten, ander materiaal dat dienstig is voor militair gebruik, of ordehandhavingsmateriaal;<br>
+5° de technische gegevens van de defensiegerelateerde producten, het ander voor militair gebruik dienstig materiaal, of het ordehandhavingsmateriaal waarop die activiteiten betrekking hebben :<br>
+a) een technische beschrijving van de goederen;<br>
+b) indien van toepassing, een initiële classificatie van de defensiegerelateerde producten volgens de categorieën van de gemeenschappelijke EU-lijst van militaire goederen;<br>
+6° een beschrijving van het gebruik waarvoor de betreffende defensiegerelateerde producten, het ander voor militair gebruik dienstig materiaal, of het ordehandhavingsmateriaal zijn ontworpen of aangepast;<br>
+7°&nbsp;een beschrijving van het interne programma tot naleving van de overbrengings- en uitvoercontroleprocedure of het uitvoerbeheerssysteem van de aanvrager;<br>
+8° als de aanvrager een rechtspersoon is: de gegevens en handtekening van het directielid van de aanvrager dat wordt benoemd als persoonlijk verantwoordelijk voor in-, uit-, doorvoer en overbrenging, vermeld in artikel 10, § 2, derde lid, van het Wapenhandeldecreet van 15 juni 2012, en van de personen, vermeld in punt 3°, die worden benoemd als zijn of haar plaatsvervanger(s) in geval van tijdelijke afwezigheid of verhindering.<br>
+<br>
+Bij de aanvraag moeten minstens de volgende documenten gevoegd worden :<br>
+1° de documenten die de relevante activiteiten van de aanvrager en de technische gegevens van de goederen, vermeld in het eerste lid, aantonen;<br>
+2° de documenten die het interne programma tot naleving van de overbrengings- en uitvoercontroleprocedure of het uitvoerbeheerssyteem van de aanvrager, vermeld in het eerste lid, aantonen;<br>
+3° een uittreksel uit het strafregister of een gelijkwaardig document, dat uiterlijk één maand oud is op het moment van de aanvraag, van de aanvrager en, als de aanvrager een rechtspersoon is, van iedere bestuurder, zaakvoerder, commissaris van de rechtspersoon en elke bijzondere gemachtigde van de rechtspersoon die bevoegd is voor in-, uit-, doorvoer en overbrenging;<br>
+4° als de aanvrager een rechtspersoon is, een afschrift van de statuten van de rechtspersoon.<br>
+<br>
+§ 2. Op basis van een evaluatie van de gegevens en de documenten, vermeld in paragraaf 1, en van de adviezen, vermeld in artikel 10, § 2, tweede lid, van het Wapenhandeldecreet, kan:<br>
+1° de machtiging beperkt worden tot bepaalde activiteiten van uitvoer, doorvoer of overbrenging;<br>
+2° de machtiging beperkt worden tot bepaalde goederen of categorieën van goederen;<br>
+3° een aanpassing geëist worden van het interne programma tot naleving van de overbrengings- en uitvoercontroleprocedure of het uitvoerbeheerssysteem van de aanvrager en de benoeming van een directielid dat persoonlijk verantwoordelijk is voor in-, uit-, doorvoer en overbrenging.
 
 ## Afdeling 2. Inhoud van de voorafgaande machtiging
 
 ### ART. 30.
 
-De voorafgaande machtiging bevat minstens de volgende gegevens : <br />1° de gegevens van de bevoegde dienst;<br />2° de gegevens van de aanvrager;<br />3° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br />4° de activiteiten van uit- of doorvoer of van overbrenging en de categorieën van goederen waarvoor de voorafgaande machtiging is toegekend.
+De voorafgaande machtiging bevat minstens de volgende gegevens :<br>
+1° de gegevens van de bevoegde dienst;<br>
+2° de gegevens van de aanvrager;<br>
+3° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br>
+4° de activiteiten van uit- of doorvoer of van overbrenging en de categorieën van goederen waarvoor de voorafgaande machtiging is toegekend;<br>
+5° de gegevens van de personen, vermeld in artikel 29, § 1, eerste lid, 8°, als de aanvrager een rechtspersoon is;<br>
+6° de verplichting voor de aanvrager om de bevoegde dienst op de hoogte te brengen van elke relevante verandering van de industriële of commerciële activiteit in defensiegerelateerde producten, ander voor militair gebruik dienstig materiaal of ordehandhavingsmateriaal, of van de interne organisatie van de aanvrager.
 
 ## Afdeling 3. Driejaarlijkse evaluatie
 
 ### ART. 31.
 
-Met het oog op de driejaarlijkse evaluatie van de voorafgaande machtiging, vermeld in artikel 10, § 3, van het Wapenhandeldecreet, bezorgt de houder van een voorafgaande machtiging aan de bevoegde dienst om de drie jaar vanaf het moment van de toekenning van de machtiging een geactualiseerde weergave van de gegevens en documenten, vermeld in artikel 29, § 1, van dit besluit. <br /><br />Ook kan het advies gevraagd worden van de procureur des Konings van het arrondissement waar de aanvrager is gevestigd, van de Veiligheid van de Staat en van de federale politie.
+§ 1. Met het oog op de driejaarlijkse evaluatie van de voorafgaande machtiging, vermeld in artikel 10, § 3, van het Wapenhandeldecreet, bezorgt de houder van een voorafgaande machtiging aan de bevoegde dienst om de drie jaar vanaf het moment van de toekenning van de machtiging een geactualiseerde weergave van de gegevens en documenten, vermeld in artikel 29, § 1, van dit besluit.<br>
+<br>
+Ook kan het advies gevraagd worden van de procureur des Konings van het arrondissement waar de aanvrager is gevestigd, van de Veiligheid van de Staat, van de Administratie der Douane en Accijnzen van de FOD Financiën en van de federale politie.<br>
+<br>
+§ 2. Aanvullend op de driejaarlijkse evaluatie, vermeld in paragraaf 1, kan de minister op elk moment aan de bevoegde dienst de opdracht geven tot herevaluatie van de naleving van de voorwaarden die aan de voorafgaande machtiging verbonden zijn, en van de criteria, vermeld in artikel 10, § 2, tweede en derde lid, van het Wapenhandeldecreet.<br>
+<br>
+Een herevaluatie als vermeld in het eerste lid, wordt telkens uitgevoerd bij:<br>
+1° relevante veranderingen van de industriële of commerciële activiteit in defensiegerelateerde producten, ander voor militair gebruik dienstig materiaal of ordehandhavingsmateriaal, of van de interne organisatie van de aanvrager;<br>
+2° aanwijzingen dat de aanvrager niet langer voldoet aan de relevante voorwaarden en criteria.<br>
+<br>
+Als de aanvrager niet meer voldoet aan de relevante voorwaarden en criteria, kan de voorafgaande machtiging conform artikel 43 van het voormelde decreet en artikel 46 tot en met 49 van dit besluit geschorst, ingetrokken of in gebruik beperkt worden, of kunnen maatregelen genomen worden die erop gericht zijn bij te dragen tot de naleving van de relevante voorwaarden en criteria.
 
 ## HOOFDSTUK 5. Procedure voor de aanvraag en toekenning en de nadere regels voor het certificaat van gecertificeerd persoon
 
@@ -196,23 +484,81 @@ Met het oog op de driejaarlijkse evaluatie van de voorafgaande machtiging, verme
 
 ### ART. 32.
 
-§ 1. De aanvraag van een certificaat van gecertificeerd persoon bevat minstens de volgende gegevens : <br />1° de gegevens van de aanvrager;<br />2° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br />3° indien de aanvrager een rechtspersoon is, de gegevens van iedere bestuurder, zaakvoerder, commissaris van de rechtspersoon en elke bijzondere gemachtigde van de rechtspersoon die bevoegd is voor in-, uit-, doorvoer en overbrenging;<br />4° de gegevens van de verschillende productie-eenheden van de aanvrager waarvoor een certificaat wordt aangevraagd;<br />5° een beschrijving van de relevante activiteiten en ervaring van de aanvrager in defensiegerelateerde producten, vermeld in artikel 14, § 3, eerste lid, 1° en 2°, van het Wapenhandeldecreet, en van de doeleinden waarvoor ontvangen defensiegerelateerde producten worden aangewend;<br />6° de technische gegevens van de defensiegerelateerde producten waarop die activiteiten betrekking hebben : <br />a) een technische beschrijving van de defensiegerelateerde producten;<br />b) een initiële classificatie van de defensiegerelateerde producten volgens de categorieën van de gemeenschappelijke EU-lijst van militaire goederen;<br />7° een beschrijving van het gebruik waarvoor de betreffende defensiegerelateerde producten zijn ontworpen of aangepast;<br />8° een beschrijving van het interne programma tot naleving van de overbrengings- en uitvoercontroleprocedure of het uitvoerbeheerssyteem van de aanvrager, vermeld in artikel 14, § 3, eerste lid, 5°, van het voormelde decreet.; <br />9° de gegevens en handtekening van het directielid van de aanvrager dat wordt benoemd als persoonlijk verantwoordelijk voor overbrengingen en uitvoer als vermeld in artikel 14, § 3, eerste lid, 3°, van het voormelde decreet.<br /><br />Bij de aanvraag worden minstens de volgende documenten gevoegd : <br />1° de documenten die de relevante activiteiten en ervaring van de aanvrager en de technische gegevens van de goederen, vermeld in het eerste lid, aantonen;<br />2° de documenten die het interne programma tot naleving van de overbrengings- en uitvoercontroleprocedure of het uitvoerbeheerssyteem van de aanvrager, vermeld in het eerste lid, aantonen;<br />3° een uittreksel uit het strafregister of een gelijkwaardig document van de aanvrager, dat uiterlijk één maand oud is op het moment van de aanvraag, en, als de aanvrager een rechtspersoon is, van iedere bestuurder, zaakvoerder, commissaris van de rechtspersoon en elke bijzondere gemachtigde van de rechtspersoon die ter zake bevoegd is;<br />4° als de aanvrager een rechtspersoon is, een afschrift van de statuten van de rechtspersoon;<br />5° de verklaring, vermeld in artikel 14, § 3, eerste lid, 4°, van het voormelde decreet.<br /><br />Ook kan het advies gevraagd worden van de procureur des Konings van het arrondissement waar de aanvrager is gevestigd, van de Veiligheid van de Staat, van de federale politie en van de autoriteiten van de andere lidstaten van de EU die ter zake bevoegd zijn.<br /><br />§ 2. In voorkomend geval kan de bevoegde dienst oordelen dat bijkomend een bezoek aan de gebouwen van de aanvrager noodzakelijk is.<br /><br />In geval van een dergelijk plaatsbezoek zijn de bepalingen van artikel 46, § 2, van het voormelde decreet en artikel 53 van dit besluit van toepassing.
+§ 1. De aanvraag van een certificaat van gecertificeerd persoon bevat minstens de volgende gegevens :<br>
+1° de gegevens van de aanvrager;<br>
+2° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br>
+3° indien de aanvrager een rechtspersoon is, de gegevens van iedere bestuurder, zaakvoerder, commissaris van de rechtspersoon en elke bijzondere gemachtigde van de rechtspersoon die bevoegd is voor in-, uit-, doorvoer en overbrenging;<br>
+4° de gegevens van de verschillende productie-eenheden van de aanvrager waarvoor een certificaat wordt aangevraagd;<br>
+5° een beschrijving van de relevante activiteiten en ervaring van de aanvrager in defensiegerelateerde producten, vermeld in artikel 14, § 3, eerste lid, 1° en 2°, van het Wapenhandeldecreet, en van de doeleinden waarvoor ontvangen defensiegerelateerde producten worden aangewend;<br>
+6° de technische gegevens van de defensiegerelateerde producten waarop die activiteiten betrekking hebben :<br>
+a) een technische beschrijving van de defensiegerelateerde producten;<br>
+b) een initiële classificatie van de defensiegerelateerde producten volgens de categorieën van de gemeenschappelijke EU-lijst van militaire goederen;<br>
+7° een beschrijving van het gebruik waarvoor de betreffende defensiegerelateerde producten zijn ontworpen of aangepast;<br>
+8° een beschrijving van het interne programma tot naleving van de overbrengings- en uitvoercontroleprocedure of het uitvoerbeheerssyteem van de aanvrager, vermeld in artikel 14, § 3, eerste lid, 5°, van het voormelde decreet.;<br>
+9° de gegevens en handtekening van het directielid van de aanvrager dat wordt benoemd als persoonlijk verantwoordelijk voor overbrengingen en uitvoer als vermeld in artikel 14, § 3, eerste lid, 3°, van het voormelde decreet en van de personen, vermeld in punt 3°, die worden benoemd als zijn of haar plaatsvervanger(s) in geval van tijdelijke afwezigheid of verhindering.<br>
+<br>
+Bij de aanvraag worden minstens de volgende documenten gevoegd :<br>
+1° de documenten die de relevante activiteiten en ervaring van de aanvrager en de technische gegevens van de goederen, vermeld in het eerste lid, aantonen;<br>
+2° de documenten die het interne programma tot naleving van de overbrengings- en uitvoercontroleprocedure of het uitvoerbeheerssyteem van de aanvrager, vermeld in het eerste lid, aantonen;<br>
+3° een uittreksel uit het strafregister of een gelijkwaardig document van de aanvrager, dat uiterlijk één maand oud is op het moment van de aanvraag, en, als de aanvrager een rechtspersoon is, van iedere bestuurder, zaakvoerder, commissaris van de rechtspersoon en elke bijzondere gemachtigde van de rechtspersoon die ter zake bevoegd is;<br>
+4° als de aanvrager een rechtspersoon is, een afschrift van de statuten van de rechtspersoon;<br>
+5° de verklaring, vermeld in artikel 14, § 3, eerste lid, 4°, van het voormelde decreet.<br>
+<br>
+Ook kan het advies gevraagd worden van de procureur des Konings van het arrondissement waar de aanvrager is gevestigd, van de Veiligheid van de Staat,&nbsp;van de Administratie der Douane en Accijnzen van de FOD Financiën, van de federale politie en van de autoriteiten van de andere lidstaten van de EU die ter zake bevoegd zijn.<br>
+<br>
+§ 2. In voorkomend geval kan de bevoegde dienst oordelen dat bijkomend een bezoek aan de gebouwen van de aanvrager noodzakelijk is.<br>
+<br>
+In geval van een dergelijk plaatsbezoek zijn de bepalingen van artikel 46, § 2, van het voormelde decreet en artikel 53 van dit besluit van toepassing.
 
 ### ART. 33.
 
-Op basis van een evaluatie van de gegevens en documenten, vermeld in artikel 14, § 3, van het Wapenhandeldecreet en artikel 32, § 1, van dit besluit, en van de adviezen en, indien van toepassing, het plaatsbezoek, vermeld in artikel 32, § 2, van dit besluit kan : <br />1° het certificaat beperkt worden tot bepaalde categorieën van defensiegerelateerde producten;<br />2° een verklaring van de aanvrager geëist worden waarbij die zich ertoe verbindt : <br />a) de ontvangen defensiegerelateerde producten te gebruiken voor zijn eigen productie;<br />b) de ontvangen defensiegerelateerde producten niet als zodanig opnieuw over te brengen of uit te voeren, behalve voor onderhoud of herstelling.
+Op basis van een evaluatie van de gegevens en documenten, vermeld in artikel 14, § 3, van het Wapenhandeldecreet en artikel 32, § 1, van dit besluit, en van de adviezen en, indien van toepassing, het plaatsbezoek, vermeld in artikel 32, § 2, van dit besluit kan :<br>
+1° het certificaat beperkt worden tot bepaalde categorieën van defensiegerelateerde producten;<br>
+2° een verklaring van de aanvrager geëist worden waarbij die zich ertoe verbindt :<br>
+a) de ontvangen defensiegerelateerde producten te gebruiken voor zijn eigen productie;<br>
+b) de ontvangen defensiegerelateerde producten niet als zodanig opnieuw over te brengen of uit te voeren, behalve voor onderhoud of herstelling;<br>
+3° een aanpassing geëist worden van het interne programma tot naleving van de overbrengings- en uitvoercontroleprocedure of het uitvoerbeheerssysteem van de aanvrager en de elementen, vermeld in artikel 14, § 3, eerste lid, van het voormelde decreet.
 
 ## Afdeling 2. Inhoud van het certificaat van gecertificeerd persoon
 
 ### ART. 34.
 
-Het certificaat bevat minstens de volgende gegevens : <br />1° de gegevens en de handtekening van de bevoegde dienst;<br />2° de datum van afgifte en de laatste dag van geldigheid;<br />3° de gegevens van de aanvrager;<br />4° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br />5° de bevestiging dat de aanvrager voldoet aan de criteria vermeld in artikel 14, § 3 van het Wapenhandeldecreet;<br />6° de adressen van eventuele productie-eenheden van de aanvrager, waarvoor het certificaat ook is toegekend;<br />7° de categorieën van defensiegerelateerde producten die op basis van het certificaat mogen worden afgenomen op basis van algemene vergunningen die gepubliceerd zijn door andere lidstaten van de EU;<br />8° de verplichting voor de aanvrager om de bevoegde dienst op de hoogte te brengen van alle feiten en gebeurtenissen die zich na de toekenning van het certificaat voordoen en die de geldigheid of inhoud van het certificaat kunnen beïnvloeden, namelijk : <br />a) elke relevante verandering van de industriële activiteit in defensiegerelateerde producten of de interne organisatie van de aanvrager;<br />b) elke verandering van het adres waar de gegevens over de ontvangen defensiegerelateerde producten toegankelijk zijn voor de bevoegde dienst.
+Het certificaat bevat minstens de volgende gegevens :<br>
+1° de gegevens en de handtekening van de bevoegde dienst;<br>
+2° de datum van afgifte en de laatste dag van geldigheid;<br>
+3° de gegevens van de aanvrager;<br>
+3° /1 de gegevens van de personen, vermeld in artikel 32, § 1, eerste lid, 9° ;<br>
+4° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br>
+5° de bevestiging dat de aanvrager voldoet aan de criteria vermeld in artikel 14, § 3 van het Wapenhandeldecreet;<br>
+6° de adressen van eventuele productie-eenheden van de aanvrager, waarvoor het certificaat ook is toegekend;<br>
+7° de categorieën van defensiegerelateerde producten die op basis van het certificaat mogen worden afgenomen op basis van algemene vergunningen die gepubliceerd zijn door andere lidstaten van de EU;<br>
+8° de verplichting voor de aanvrager om de bevoegde dienst op de hoogte te brengen van alle feiten en gebeurtenissen die zich na de toekenning van het certificaat voordoen en die de geldigheid of inhoud van het certificaat kunnen beïnvloeden, namelijk :<br>
+a) elke relevante verandering van de industriële activiteit in defensiegerelateerde producten of de interne organisatie van de aanvrager;<br>
+b) elke verandering van het adres waar de gegevens over de ontvangen defensiegerelateerde producten toegankelijk zijn voor de bevoegde dienst.
 
 ## Afdeling 3. Geldigheidsduur, verlenging en herevaluatie
 
 ### ART. 35.
 
-§ 1. Een certificaat van gecertificeerd persoon is drie jaar geldig vanaf de datum van de afgifte.<br /><br />Op het moment van het verstrijken van de geldigheidsduur van het certificaat kan op voorlegging van het oorspronkelijke document de geldigheidsduur ervan met dezelfde termijn verlengd worden.<br /><br />In dergelijk geval wordt de naleving geëvalueerd van de voorwaarden die aan het certificaat verbonden zijn, en van de criteria, vermeld in artikel 14, § 3, eerste lid, van het Wapenhandeldecreet.<br /><br />Met het oog daarop bezorgt de aanvrager aan de bevoegde dienst een geactualiseerde weergave van de gegevens en documenten, vermeld in artikel 32 van dit besluit.<br /><br />§ 2. Bijkomend aan de driejaarlijkse evaluatie, vermeld in paragraaf 1, derde lid, kan de minister op elk moment aan de bevoegde dienst de opdracht geven tot herevaluatie van de naleving van de voorwaarden die aan het certificaat verbonden zijn, en van de criteria, vermeld in artikel 14, § 3, eerste lid, van het voormelde decreet.<br /><br />Een herevaluatie wordt telkens uitgevoerd in geval van : <br />1° relevante veranderingen van de industriële activiteit in defensiegerelateerde producten of de interne organisatie van de aanvrager;<br />2° aanwijzingen dat de aanvrager niet langer voldoet aan de relevante voorwaarden en criteria.<br /><br />Als de aanvrager niet meer voldoet aan de relevante voorwaarden en criteria, kan het certificaat met toepassing van artikel 43 van het voormelde decreet en artikel 46 tot en met 49 van dit besluit geschorst, ingetrokken of beperkt worden in gebruik of kunnen maatregelen genomen worden die erop gericht zijn bij te dragen tot de naleving van de relevante voorwaarden en criteria.<br /><br />§ 3. In geval van een herevaluatie als vermeld in paragrafen 1 en 2, zijn de bepalingen van artikel 32, § 1, derde lid, en artikel 32, § 2, van dit besluit ook van toepassing.
+§ 1. Een certificaat van gecertificeerd persoon is drie jaar geldig vanaf de datum van de afgifte.<br>
+<br>
+Op het moment van het verstrijken van de geldigheidsduur van het certificaat kan op voorlegging van het oorspronkelijke document de geldigheidsduur ervan met dezelfde termijn verlengd worden.<br>
+<br>
+In dergelijk geval wordt de naleving geëvalueerd van de voorwaarden die aan het certificaat verbonden zijn, en van de criteria, vermeld in artikel 14, § 3, eerste lid, van het Wapenhandeldecreet.<br>
+<br>
+Met het oog daarop bezorgt de aanvrager aan de bevoegde dienst een geactualiseerde weergave van de gegevens en documenten, vermeld in artikel 32 van dit besluit.<br>
+<br>
+Ook kan het advies gevraagd worden van de procureur des Konings van het arrondissement waar de aanvrager is gevestigd, van de Veiligheid van de Staat, van de Administratie der Douane en Accijnzen van de FOD Financiën en van de federale politie.<br>
+<br>
+§ 2. Bijkomend aan de driejaarlijkse evaluatie, vermeld in paragraaf 1, derde lid, kan de minister op elk moment aan de bevoegde dienst de opdracht geven tot herevaluatie van de naleving van de voorwaarden die aan het certificaat verbonden zijn, en van de criteria, vermeld in artikel 14, § 3, eerste lid, van het voormelde decreet.<br>
+<br>
+Een herevaluatie wordt telkens uitgevoerd in geval van :<br>
+1° relevante veranderingen van de industriële activiteit in defensiegerelateerde producten of de interne organisatie van de aanvrager;<br>
+2° aanwijzingen dat de aanvrager niet langer voldoet aan de relevante voorwaarden en criteria.<br>
+<br>
+Als de aanvrager niet meer voldoet aan de relevante voorwaarden en criteria, kan het certificaat met toepassing van artikel 43 van het voormelde decreet en artikel 46 tot en met 49 van dit besluit geschorst, ingetrokken of beperkt worden in gebruik of kunnen maatregelen genomen worden die erop gericht zijn bij te dragen tot de naleving van de relevante voorwaarden en criteria.<br>
+<br>
+§ 3. In geval van een herevaluatie als vermeld in paragrafen 1 en 2, zijn de bepalingen van artikel 32, § 1, derde lid, en artikel 32, § 2, van dit besluit ook van toepassing.
 
 ## Afdeling 4. Publicatie lijst van gecertificeerde personen
 
@@ -228,6 +574,14 @@ Een lijst van gecertificeerde personen wordt gepubliceerd op de website van de V
 
 Met toepassing van artikel 30, § 2, van het Wapenhandeldecreet zijn de in-, uit-, doorvoer en overbrenging van de civiele vuurwapens, onderdelen en munitie, vermeld in de lijst, opgenomen in bijlage 4, van dit besluit, vrijgesteld van vergunning.
 
+### ART 37/1.
+
+Aanvullend op de afwijking van de vergunningsplicht bij doorvoer, vermeld in artikel 30, § 1, vierde lid, van het Wapenhandeldecreet, geldt de afwijking in kwestie ook voor de volgende lidstaten van de NAVO of van het Wassenaar Arrangement: Argentinië, Australië, Canada, Japan, Montenegro, Nieuw-Zeeland, de Verenigde Staten van Amerika, Zuid-Korea en Zwitserland.<br>
+<br>
+De minister kan bepalen dat de afwijking ook geldt voor bepaalde andere of nieuwe lidstaten van de NAVO of van het Wassenaar Arrangement als hij oordeelt dat het exportbeleid in die lidstaten en de omstandigheden die een belangrijk effect kunnen hebben op de toets, vermeld in artikel 26 en 28 van het voormelde decreet, van hetzelfde niveau zijn als het exportbeleid en de omstandigheden in de lidstaten, vermeld in het eerste lid.<br>
+<br>
+De minister kan de afwijking voor de lidstaten, vermeld in het eerste en tweede lid, opheffen als hij oordeelt dat in de lidstaten in kwestie gewijzigde omstandigheden hebben plaatsgevonden die een dermate belangrijk negatief effect kunnen hebben op het exportbeleid van die lidstaten of op de toets, vermeld in artikel 26 en 28 van het voormelde decreet, dat deze niet langer van hetzelfde niveau zijn als het exportbeleid en de omstandigheden in de andere lidstaten, vermeld in het eerste lid.
+
 ## TITEL 2. Procedures en nadere regels
 
 ## HOOFDSTUK 1. Procedure voor de aanvraag en toekenning van en de nadere regels voor vergunningen als vermeld in [artikel 34 en 38 (verv. BVR 9 maart 2018, art. 24, I: 6 mei 2018)] van het Wapenhandeldecreet
@@ -238,7 +592,90 @@ Met toepassing van artikel 30, § 2, van het Wapenhandeldecreet zijn de in-, uit
 
 ### ART. 38.
 
-§ 1. De aanvraag van een vergunning als vermeld in artikelen 34, 36, § 2, 38 of 39, § 2, van het Wapenhandeldecreet, bevat minstens de volgende gegevens : <br />1° de gegevens van de aanvrager;<br />2° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br />3° het type van de aanvraag : <br />a) in-, uit-, doorvoer of overbrenging;<br />b) tijdelijke of definitieve in-, uit-, doorvoer of overbrenging;<br />c) individuele of meervoudige vergunning;<br />4° de gegevens van de afzender en van de bestemmeling;<br />5° de gegevens van de eindgebruiker, als die verschillend is van de bestemmeling;<br />6° het land of de landen van oorsprong van de civiele vuurwapens, onderdelen of munitie;<br />7° het land van afzending;<br />8° het land van bestemming en het land van eindgebruik, als dat verschillend is van het land van bestemming;<br />9° de technische gegevens van de civiele vuurwapens, onderdelen of munitie : <br />a) een beschrijving van de aard van de goederen;<br />b) een beschrijving van de essentiële kenmerken, vermeld in artikel 31, § 2, tweede lid, van het voormelde decreet;<br />c) indien van toepassing, een vermelding van de op de vuurwapens aangebrachte markering;<br />d) indien van toepassing, de classificatie van de civiele vuurwapens volgens de categorieën van Verordening 258/2012 van het Europees Parlement en de Raad van 14 maart 2012 tot uitvoering van artikel 10 van het Protocol van de Verenigde Naties tegen de illegale vervaardiging van en handel in vuurwapens, hun onderdelen, componenten en munitie, tot aanvulling van het Verdrag van de Verenigde Naties ter bestrijding van grensoverschrijdende georganiseerde misdaad (VN-protocol inzake vuurwapens), en tot vaststelling van uitvoervergunningen voor vuurwapens, hun onderdelen, componenten en munitie en maatregelen betreffende de invoer en doorvoer ervan;<br />e) het aantal goederen;<br />f) de waarde in euro's en de tariefcode van de goederen;<br />10° de aanwending van de civiele vuurwapens, onderdelen of munitie : <br />a) een beschrijving van het voorgenomen gebruik van de goederen door de bestemmeling en door de eindgebruiker, als die verschillend is van de bestemmeling;<br />b) de mededeling of de goederen gebruikt zullen worden voor activiteiten van civiele aard dan wel militaire of paramilitaire aard;<br />11° de handtekening van de aangewezen personen die persoonlijk verantwoordelijk zijn voor de in-, uit-, doorvoer en overbrenging;<br />12° de verbintenis van die personen om : <br />a) aan de betreffende goederen een bestemming te geven in overeenstemming met de aangevraagde vergunning;<br />b) indien van toepassing, de verplichtingen na te komen die de douaneregelgeving, de Wapenwet van 8 juni 2006 en de uitvoeringsbesluiten ervan en andere toepasselijke regelgeving aan de betreffende in-, uit-, doorvoer of overbrenging verbinden.<br /><br />De aanvraag van een vergunning voor overbrenging naar een andere lidstaat van de EU of voor uit- of doorvoer moet ook de volgende gegevens bevatten : <br />1° de wijze waarop de civiele vuurwapens, onderdelen of munitie zullen worden overgebracht of uit- of doorgevoerd;<br />2° de beoogde datum van overbrenging, uit- of doorvoer en de vermoedelijke datum van aankomst van de civiele vuurwapens, onderdelen of munitie in het land van bestemming.<br /><br />§ 2. Bij de aanvraag moeten minstens de volgende documenten gevoegd worden : <br />1° een kopie van het document dat de titel bevat op basis waarvan de aanvrager volgens de Wapenwet van 8 juni 2006 en de uitvoeringsbesluiten ervan gerechtigd is om het vuurwapen, het onderdeel of de munitie voorhanden te hebben of te verwerven als vermeld in artikel 31, § 1, eerste lid, van het voormelde decreet;<br />2° bij uit-, doorvoer en overbrenging naar een andere lidstaat van de EU, een document waaruit de voorafgaande toestemming van het land van eindgebruik voor de invoer of overbrenging blijkt, of waaruit blijkt dat de vergunning toegekend kan worden zonder die voorafgaande toestemming, vermeld in artikel 37 en 40, § 2, van het voormelde decreet;<br />3° indien van toepassing, bij invoer in of overbrenging naar het Vlaamse Gewest, een gegronde motivering waarom de aanvrager een vergunningsaanvraag indient zonder opgave van de serienummers van de betreffende civiele vuurwapens, onderdelen of munitie als vermeld in artikel 31, § 2, derde lid, van het voormelde decreet.<br /><br />Bij de aanvraag van een vergunning voor uit- of doorvoer moeten ook de volgende documenten gevoegd worden : <br />1° als dat niet vermeld wordt in het document, vermeld in het eerste lid, 3°, van deze paragraaf, een document dat de eindgebruiker en het eindgebruik vermeldt als vermeld in artikel 40, § 2, tweede lid, van het voormelde decreet;<br />2° indien van toepassing, een verklaring van de eindgebruiker waarin deze zich er toe verbindt om bij een eventuele wederuitvoer de toestemming van de Vlaamse Regering te vragen, vermeld in artikel 40, § 3, tweede lid, van het voormelde decreet;<br />3° indien van toepassing, een document waaruit de toestemming van de eventuele landen van doorvoer blijkt, met uitzondering van de lidstaten van de EU als vermeld in artikel 40, § 4, van het voormelde decreet.<br /><br />Bij de aanvraag van een vergunning voor doorvoer moet, indien van toepassing, ook een document gevoegd worden waaruit blijkt dat de bevoegde autoriteiten van het land van herkomst van de goederen de uitvoer hebben toegestaan, als vermeld in artikel 40, § 5, van het voormelde decreet.
+§ 1. De aanvraag van een vergunning als vermeld in&nbsp;artikel 34 en 38 van het Wapenhandeldecreet, bevat minstens de volgende gegevens :<br>
+1° de gegevens van de aanvrager;<br>
+2° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br>
+3° het type van de aanvraag :<br>
+a) in-, uit-, doorvoer of overbrenging;<br>
+b) tijdelijke of definitieve in-, uit-, doorvoer of overbrenging;<br>
+c) ...;<br>
+4° de gegevens van de afzender en van de bestemmeling;<br>
+5° de gegevens van de eindgebruiker, als die verschillend is van de bestemmeling;<br>
+6° het land of de landen van oorsprong van de civiele vuurwapens, onderdelen of munitie;<br>
+7° het land van afzending;<br>
+8° het land van bestemming en het land van eindgebruik, als dat verschillend is van het land van bestemming;<br>
+9° de technische gegevens van de civiele vuurwapens, onderdelen of munitie :<br>
+a) een beschrijving van de aard van de goederen;<br>
+b) een beschrijving van de essentiële kenmerken, vermeld in artikel 31, § 2, tweede lid, van het voormelde decreet;<br>
+c) indien van toepassing, een vermelding van de op de vuurwapens aangebrachte markering;<br>
+d) indien van toepassing, de classificatie van de civiele vuurwapens volgens de categorieën van Verordening 258/2012 van het Europees Parlement en de Raad van 14 maart 2012 tot uitvoering van artikel 10 van het Protocol van de Verenigde Naties tegen de illegale vervaardiging van en handel in vuurwapens, hun onderdelen, componenten en munitie, tot aanvulling van het Verdrag van de Verenigde Naties ter bestrijding van grensoverschrijdende georganiseerde misdaad (VN-protocol inzake vuurwapens), en tot vaststelling van uitvoervergunningen voor vuurwapens, hun onderdelen, componenten en munitie en maatregelen betreffende de invoer en doorvoer ervan;<br>
+e) het aantal goederen;<br>
+f) de waarde in euro's en de tariefcode van de goederen;<br>
+10° de aanwending van de civiele vuurwapens, onderdelen of munitie :<br>
+a) een beschrijving van het voorgenomen gebruik van de goederen door de bestemmeling en door de eindgebruiker, als die verschillend is van de bestemmeling;<br>
+b) de mededeling of de goederen gebruikt zullen worden voor activiteiten van civiele aard dan wel militaire of paramilitaire aard;<br>
+11° de handtekening van de aangewezen personen die persoonlijk verantwoordelijk zijn voor de in-, uit-, doorvoer en overbrenging;<br>
+12° de verbintenis van die personen om :<br>
+a) aan de betreffende goederen een bestemming te geven in overeenstemming met de aangevraagde vergunning;<br>
+b) indien van toepassing, de verplichtingen na te komen die de douaneregelgeving, de Wapenwet van 8 juni 2006 en de uitvoeringsbesluiten ervan en andere toepasselijke regelgeving aan de betreffende in-, uit-, doorvoer of overbrenging verbinden.<br>
+<br>
+De aanvraag van een vergunning voor overbrenging naar een andere lidstaat van de EU of voor uit- of doorvoer moet ook de volgende gegevens bevatten :<br>
+1° de wijze waarop de civiele vuurwapens, onderdelen of munitie zullen worden overgebracht of uit- of doorgevoerd;<br>
+2° de beoogde datum van overbrenging, uit- of doorvoer en de vermoedelijke datum van aankomst van de civiele vuurwapens, onderdelen of munitie in het land van bestemming.<br>
+<br>
+§ 2. Bij de aanvraag moeten minstens de volgende documenten gevoegd worden :<br>
+1° een kopie van het document dat de titel bevat op basis waarvan de aanvrager volgens de Wapenwet van 8 juni 2006 en de uitvoeringsbesluiten ervan gerechtigd is om het vuurwapen, het onderdeel of de munitie voorhanden te hebben of te verwerven als vermeld in artikel 31, § 1, eerste lid, van het Wapenhandeldecreet;<br>
+2° ...;<br>
+3° in geval van een vergunningsaanvraag zonder opgave van de serienummers van de civiele vuurwapens, onderdelen of munitie in kwestie: een bewijs van de toepasselijkheid van een van de gevallen, vermeld in artikel 31, § 2, derde lid, van het voormelde decreet.<br>
+<br>
+Bij de aanvraag van een vergunning voor uit- of doorvoer moeten ook de volgende documenten gevoegd worden :<br>
+1° als het document, vermeld in het eerste lid, 3°, de eindgebruiker en het eindgebruik niet vermeldt: een verklaring van de eindgebruiker als vermeld in artikel 40, § 2, tweede lid, en, als dat van toepassing is, artikel 40, § 3, tweede lid, van het voormelde decreet;<br>
+2° indien van toepassing, een verklaring van de eindgebruiker waarin deze zich er toe verbindt om bij een eventuele wederuitvoer de toestemming van de Vlaamse Regering te vragen, vermeld in artikel 40, § 3, tweede lid, van het voormelde decreet;<br>
+3° indien van toepassing, een document waaruit de toestemming van de eventuele landen van doorvoer blijkt, met uitzondering van de lidstaten van de EU als vermeld in artikel 40, § 4, van het voormelde decreet.<br>
+<br>
+Bij de aanvraag van een vergunning voor doorvoer moet, indien van toepassing, ook een document gevoegd worden waaruit blijkt dat de bevoegde autoriteiten van het land van herkomst van de goederen de uitvoer hebben toegestaan, als vermeld in artikel 40, § 5, van het voormelde decreet.
+
+### ART 38/1.
+
+§ 1. De verklaring van de eindgebruiker, vermeld in artikel 40, § 2, tweede lid, van het Wapenhandeldecreet, bevat minstens de volgende gegevens:<br>
+1° de gegevens van de volgende betrokken partijen:<br>
+a) de afzender;<br>
+b) de bestemmeling;<br>
+c) de eindgebruiker, als die verschillend is van de bestemmeling;<br>
+d) de nakomende bestemmeling en de tussenpersoon als dat van toepassing is;<br>
+2° het land van eindgebruik;<br>
+3° de volgende technische gegevens van de civiele vuurwapens, onderdelen of munitie:<br>
+a) een beschrijving van de aard van de goederen;<br>
+b) een beschrijving van de essentiële kenmerken, vermeld in artikel 31, § 2, tweede lid, van het voormelde decreet;<br>
+c) een vermelding van de markering die is aangebracht op de vuurwapens als dat van toepassing is;<br>
+d) het aantal goederen;<br>
+e) de waarde van de goederen;<br>
+4° een beschrijving van het voorgenomen gebruik van de goederen door de eindgebruiker;<br>
+5° de locatie waar het eindgebruik van de goederen zal plaatsvinden als dat bekend is;<br>
+6° de gegevens van het contract of de factuur waarop de overbrenging, uitvoer of doorvoer betrekking heeft als die bekend zijn;<br>
+7° de gegevens die met toepassing van artikel 40, § 3, van het voormelde decreet van de eindgebruiker geëist worden als die bekend zijn.<br>
+<br>
+§ 2. De verklaring van de eindgebruiker bevat naast de gegevens, vermeld in paragraaf 1, al de volgende verbintenissen:<br>
+1° de verbintenis om de goederen alleen te gebruiken voor de doeleinden die omschreven zijn in de verklaring en niet voor enige activiteit die verband houdt met de goederen vermeld in artikel 3, § 1, eerste lid, van het Wapenhandeldecreet;<br>
+2° de verbintenis om de goederen niet te gebruiken, over te dragen of uit te voeren in strijd met relevante beperkende maatregelen van de VN, de EU en de OVSE, of in strijd met de beperkingen waarvan de eindgebruiker door de exporteur op de hoogte gebracht is;<br>
+3° de verbintenis om de goederen niet aan een andere persoon over te dragen voor activiteiten als vermeld in punt 1° en 2°, en om die goederen tijdens de geldigheidsduur van de vergunning niet als dusdanig uit te voeren naar een ander land buiten de EU zonder nakomende kennisgeving aan de Vlaamse Regering;<br>
+4° de verbintenis om de goederen alleen als dusdanig aan een andere persoon over te dragen op voorwaarde dat die persoon de verbintenissen, vermeld in punt 1° tot en met 3°, schriftelijk als bindend voor zichzelf aanvaardt en op voorwaarde dat is nagegaan dat die persoon bekend is als betrouwbaar in de nakoming van dergelijke verbintenissen.<br>
+<br>
+Als de eindgebruiker de goederen zal aanwenden voor operationeel gebruik, bevat de verklaring van de eindgebruiker naast de gegevens, vermeld in paragraaf 1, en de verbintenissen, vermeld in het eerste lid, de verbintenis om de goederen niet te gebruiken en niet aan een andere persoon over te dragen voor schendingen van:<br>
+1° de rechten van de mens;<br>
+2° het internationaal humanitair recht;<br>
+3° het verbod op het gebruik van geweld, vermeld in artikel 2 van het Handvest van de Verenigde Naties;<br>
+4° de verdragen van de Verenigde Naties over terrorisme en grensoverschrijdende georganiseerde criminaliteit.<br>
+<br>
+Als de eindgebruiker de goederen zal aanwenden voor integratie in andere goederen, bevat de verklaring van de eindgebruiker naast de gegevens, vermeld in paragraaf 1, en de verbintenissen, vermeld in het eerste lid, de volgende twee verbintenissen:<br>
+1° de verbintenis om de goederen effectief te integreren in de eigen goederen;<br>
+2° de verbintenis om de eigen goederen in kwestie alleen over te dragen, over te brengen of uit te voeren in overeenstemming met de geldende exportregelgeving in het land van eindgebruik.<br>
+<br>
+Als dat van toepassing is, bevat de verklaring van de eindgebruiker naast de gegevens, vermeld in paragraaf 1, en de verbintenissen, vermeld in het eerste lid, de verbintenissen die met toepassing van artikel 40, § 3, van het voormelde decreet van de eindgebruiker geëist worden.<br>
+<br>
+§ 3. De verklaring wordt ondertekend door een persoon die de bevoegdheid heeft om in naam van de eindgebruiker juridische verbintenissen aan te gaan voor de handelingen voor de invoer, uitvoer, doorvoer en overbrenging van civiele vuurwapens, onderdelen of munitie.<br>
+<br>
+§ 4. De bevoegde dienst stelt op zijn website een sjabloon ter beschikking voor de opmaak van de verklaring van de eindgebruiker.
 
 ## Onderafdeling 2. Nadere regels voor het eisen van bijkomende informatie of garanties en voor het opleggen van toekenningsvoorwaarden
 
@@ -256,13 +693,58 @@ Bijkomend aan de uitzondering die bepaald is voor de overbrenging en uitvoer naa
 
 ### ART. 41.
 
-§ 1. De vergunningen, vermeld in artikelen 34, 36, § 2, 38 en 39, § 2 van het Wapenhandeldecreet, bevatten minstens de volgende gegevens : <br />1° de gegevens van de bevoegde dienst;<br />2° de laatste dag van de geldigheid;<br />3° de gegevens van de aanvrager;<br />4° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br />5° het type van de aanvraag : <br />a) in-, uit-, doorvoer of overbrenging;<br />b) tijdelijke of definitieve in-, uit-, doorvoer of overbrenging;<br />c) individuele of meervoudige vergunning;<br />6° de technische gegevens van de civiele vuurwapens, onderdelen of munitie : <br />a) een beschrijving van de essentiële kenmerken, vermeld in artikel 31, § 2, tweede lid, van het voormelde decreet;<br />b) het aantal goederen;<br />c) de waarde in euro's en de tariefcode van de goederen;<br />7° de voorwaarden en bedingen, vermeld in paragraaf 2.<br /><br />De vergunningen voor invoer in of overbrenging naar het Vlaamse Gewest bevatten naast de gegevens, vermeld in het eerste lid, ook de volgende gegevens : <br />1° de gegevens van de afzender;<br />2° het land van afzending.<br /><br />De vergunningen voor uitvoer of overbrenging naar een andere lidstaat van de EU bevatten naast de gegevens, vermeld in het eerste lid, ook de volgende gegevens : <br />1° de gegevens van de bestemmeling;<br />2° het land van bestemming;<br />3° indien verschillend, het land van eindgebruik;<br />4° indien van toepassing, het land of de landen van doorvoer;<br />5° de wijze waarop de civiele vuurwapens, onderdelen of munitie zullen worden overgebracht of uitgevoerd;<br />6° de beoogde datum van overbrenging of uitvoer en de vermoedelijke datum van aankomst van de civiele vuurwapens, onderdelen of munitie in het land van bestemming.<br /><br />De vergunningen voor doorvoer bevatten naast de gegevens, vermeld in het eerste lid, ook de volgende gegevens : <br />1° de gegevens van de bestemmeling;<br />2° het land van afzending;<br />3° het land van bestemming;<br />4° indien verschillend, het land of de landen van eindgebruik;<br />5° de wijze waarop de civiele vuurwapens, onderdelen of munitie zullen worden doorgevoerd;<br />6° de beoogde datum van doorvoer en de vermoedelijke datum van aankomst van de civiele vuurwapens, onderdelen of munitie in het land van bestemming.<br /><br />§ 2. De vergunningen bevatten, indien van toepassing, de voorwaarden en beperkingen die met toepassing van artikel 33 van voormelde decreet, aan het gebruik ervan zijn verbonden.<br /><br />De vergunningen bevatten ook een beding dat stelt dat, indien van toepassing, het gebruik van de vergunning alleen rechtmatig is als de aanvrager de verplichtingen nakomt die de douaneregelgeving en de Wapenwet van 8 juni 2006 en de uitvoeringsbesluiten ervan aan de betreffende in-, uit-, doorvoer of overbrenging verbinden.
+§ 1. De vergunningen, vermeld in&nbsp;artikel 34 en 38 van het Wapenhandeldecreet, bevatten minstens de volgende gegevens :<br>
+1° de gegevens van de bevoegde dienst;<br>
+2° de laatste dag van de geldigheid;<br>
+3° de gegevens van de aanvrager;<br>
+4° indien van toepassing, de gegevens van de vertegenwoordiger van de aanvrager;<br>
+5° het type van de aanvraag :<br>
+a) in-, uit-, doorvoer of overbrenging;<br>
+b) tijdelijke of definitieve in-, uit-, doorvoer of overbrenging;<br>
+c) ...;<br>
+6° de technische gegevens van de civiele vuurwapens, onderdelen of munitie :<br>
+a) een beschrijving van de essentiële kenmerken, vermeld in artikel 31, § 2, tweede lid, van het voormelde decreet;<br>
+b) het aantal goederen;<br>
+c) de waarde in euro's en de tariefcode van de goederen;<br>
+7° de voorwaarden en bedingen, vermeld in paragraaf 2.<br>
+<br>
+De vergunningen voor invoer in of overbrenging naar het Vlaamse Gewest bevatten naast de gegevens, vermeld in het eerste lid, ook de volgende gegevens :<br>
+1° de gegevens van de afzender;<br>
+2° het land van afzending.<br>
+<br>
+De vergunningen voor uitvoer of overbrenging naar een andere lidstaat van de EU bevatten naast de gegevens, vermeld in het eerste lid, ook de volgende gegevens :<br>
+1° de gegevens van de bestemmeling;<br>
+2° het land van bestemming;<br>
+3° indien verschillend, het land van eindgebruik;<br>
+4° indien van toepassing, het land of de landen van doorvoer;<br>
+5° de wijze waarop de civiele vuurwapens, onderdelen of munitie zullen worden overgebracht of uitgevoerd;<br>
+6° de beoogde datum van overbrenging of uitvoer en de vermoedelijke datum van aankomst van de civiele vuurwapens, onderdelen of munitie in het land van bestemming.<br>
+<br>
+De vergunningen voor doorvoer bevatten naast de gegevens, vermeld in het eerste lid, ook de volgende gegevens :<br>
+1° de gegevens van de bestemmeling;<br>
+2° het land van afzending;<br>
+3° het land van bestemming;<br>
+4° indien verschillend, het land of de landen van eindgebruik;<br>
+5° de wijze waarop de civiele vuurwapens, onderdelen of munitie zullen worden doorgevoerd;<br>
+6° de beoogde datum van doorvoer en de vermoedelijke datum van aankomst van de civiele vuurwapens, onderdelen of munitie in het land van bestemming.<br>
+<br>
+§ 2. De vergunningen bevatten, indien van toepassing, de voorwaarden en beperkingen die met toepassing van artikel 33 van voormelde decreet, aan het gebruik ervan zijn verbonden.<br>
+<br>
+De vergunningen bevatten ook een beding dat stelt dat, indien van toepassing, het gebruik van de vergunning alleen rechtmatig is als de aanvrager de verplichtingen nakomt die de douaneregelgeving en de Wapenwet van 8 juni 2006 en de uitvoeringsbesluiten ervan aan de betreffende in-, uit-, doorvoer of overbrenging verbinden.
 
 ## Onderafdeling 2. Geldigheidsduur, verlenging en afhandeling
 
 ### ART. 42.
 
-§ 1. De vergunningen, vermeld in artikel 34, 36, § 2, 38 en 39, § 2 van het Wapenhandeldecreet, zijn één jaar geldig vanaf de datum van de toekenning.<br /><br />Bij uit-, doorvoer en overbrenging naar andere lidstaten van de EU mag de geldigheidsduur van de vergunning de geldigheidsduur van de vergunning of toestemming voor de invoer of overbrenging van het land van bestemming echter niet overschrijden.<br /><br />§ 2. Na het verstrijken van de geldigheidsduur van de vergunning of nadat het geheel van de toegestane hoeveelheid van goederen is in-, uit-, doorgevoerd of overgebracht, stuurt de aanvrager de originele vergunning terug naar de bevoegde dienst en rapporteert hij over het gebruik daarvan als vermeld in artikel 49 van het Wapenhandeldecreet. <br /><br />§ 3. Als op het moment van het verstrijken van de geldigheidsduur van de vergunning de toegestane hoeveelheid goederen nog niet helemaal is in-, uit-, doorgevoerd of overgebracht, kan op overhandiging van de originele vergunning aan de bevoegde dienst de geldigheidsduur ervan met dezelfde termijn verlengd worden voor het resterende gedeelte.<br /><br />Een verzoek tot verlenging wordt net als de oorspronkelijke aanvraag getoetst aan de criteria, vermeld in artikelen 26 en 28, of in artikel 32 van het voormelde decreet, naargelang het geval.
+§ 1. De vergunningen, vermeld in&nbsp;artikel 34 en 38 van het Wapenhandeldecreet, zijn één jaar geldig vanaf de datum van de toekenning.<br>
+<br>
+Bij uit-, doorvoer en overbrenging naar andere lidstaten van de EU mag de geldigheidsduur van de vergunning de geldigheidsduur van de vergunning of toestemming voor de invoer of overbrenging van het land van bestemming echter niet overschrijden.<br>
+<br>
+§ 2. Na het verstrijken van de geldigheidsduur van de vergunning of nadat het geheel van de toegestane hoeveelheid van goederen is in-, uit-, doorgevoerd of overgebracht, stuurt de aanvrager de originele vergunning terug naar de bevoegde dienst en rapporteert hij over het gebruik daarvan als vermeld in artikel 49 van het Wapenhandeldecreet.<br>
+<br>
+§ 3. Als op het moment van het verstrijken van de geldigheidsduur van de vergunning de toegestane hoeveelheid goederen nog niet helemaal is in-, uit-, doorgevoerd of overgebracht, kan op overhandiging van de originele vergunning aan de bevoegde dienst de geldigheidsduur ervan met dezelfde termijn verlengd worden voor het resterende gedeelte.<br>
+<br>
+Een verzoek tot verlenging wordt net als de oorspronkelijke aanvraag getoetst aan de criteria, vermeld in artikelen 26 en 28, of in artikel 32 van het voormelde decreet, naargelang het geval.
 
 ## Onderafdeling 3. Vergunningen voor tijdelijke in-, uitvoer of overbrenging
 
@@ -278,35 +760,153 @@ Vergunningen voor tijdelijke in-, uitvoer of overbrenging worden toegekend onder
 
 ## HOOFDSTUK 3. Nadere regels [voor de open vergunning en de kennisgeving, vermeld in artikel 36, § 1, eerste lid, van het Wapenhandeldecreet, en de kennisgeving, vermeld in artikel 39, § 2, eerste lid, van het voormelde decreet (verv. BVR 9 maart 2018, art. 29, I: 6 mei 2018)]
 
+### ART 44/1.
+
+De aanvraag voor een open vergunning, vermeld in artikel 36, § 1, eerste lid, van het Wapenhandeldecreet, bevat minstens de volgende gegevens en documenten:<br>
+1° de gegevens van de aanvrager;<br>
+2° een afschrift van het getuigschrift van erkenning als wapenhandelaar, vermeld in artikel 36, § 1, eerste lid, van het voormelde decreet;<br>
+3° een afschrift van de statuten van de rechtspersoon als de aanvrager een rechtspersoon is.
+
 ### ART. 45.
 
-§ 1. Om ontvankelijk te zijn, moet de bevoegde dienst de kennisgeving, vermeld in artikel 36, § 1, eerste lid, van het Wapenhandeldecreet, uiterlijk twee werkdagen voor de voorgenomen overbrenging ontvangen.<br /><br />De kennisgeving moet minstens de gegevens bevatten, vermeld in artikel 38, § 1, eerste lid, 1°, 2°, 4°, 8°, 9°, 11° en 12° van dit besluit.<br /><br />Bij de kennisgeving moeten minstens de volgende documenten gevoegd worden : <br />1° een afschrift van de open vergunning van de betrokken wapenhandelaar als vermeld in artikel 36, § 1, van het voormelde decreet;<br />2° een document waaruit de voorafgaande toestemming van het land van bestemming voor de overbrenging blijkt, of waaruit blijkt dat de vergunning toegekend kan worden zonder die voorafgaande toestemming.<br /><br />§ 2. Zodra de bevoegde dienst een volledige kennisgeving ontvangt, worden de gegevens daarvan gecontroleerd en krijgt de betrokken persoon een gecertificeerd afschrift van zijn kennisgeving per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert.<br /><br />Een gecertificeerd afschrift wordt ook bezorgd aan de bevoegde autoriteiten in het land van bestemming.
+§ 1. Om ontvankelijk te zijn, moet de bevoegde dienst de kennisgeving, vermeld in artikel 36, § 1, eerste lid, en artikel 39, § 2, tweede lid, van het Wapenhandeldecreet, uiterlijk twee werkdagen voor de voorgenomen overbrenging, in- of uitvoer ontvangen.<br>
+<br>
+De kennisgeving moet minstens de gegevens bevatten, vermeld in artikel 38, § 1, eerste lid, 1°, 2°, 4°, 8°, 9°, 11° en 12° van dit besluit.<br>
+<br>
+Bij de kennisgeving moeten minstens de volgende documenten gevoegd worden :<br>
+1° een afschrift van de open vergunning van de betrokken wapenhandelaar als vermeld in artikel 36, § 1, van het voormelde decreet;<br>
+2° een document waaruit de voorafgaande toestemming van het land van bestemming voor de invoer of overbrenging blijkt, of waaruit blijkt dat de invoer of overbrenging kan plaatsvinden zonder die voorafgaande toestemming;<br>
+3° in geval van definitieve overbrenging naar een wapenhandelaar: een afschrift van de open vergunning of het getuigschrift van erkenning als wapenhandelaar van de wapenhandelaar in het land van bestemming;<br>
+4° in geval van tijdelijke overbrenging, in- of uitvoer: een bewijs dat de betrokken persoon de vuurwapens, onderdelen of munitie daadwerkelijk wil overbrengen, of in- of uitvoeren voor de doeleinden, vermeld in artikel 36 van het voormelde decreet.<br>
+<br>
+§ 2. Zodra de bevoegde dienst een volledige kennisgeving ontvangt, worden de gegevens daarvan gecontroleerd en krijgt de betrokken persoon een gecertificeerd afschrift van zijn kennisgeving per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert.<br>
+<br>
+Een gecertificeerd afschrift wordt ook bezorgd aan de bevoegde autoriteiten in het land van bestemming.
 
 ## DEEL 4. Schorsing, intrekking en beperking van vergunningen, machtigingen, certificaten, voorlopige adviezen en schriftelijke bevestigingen
 
 ### ART. 46.
 
-§ 1. Als de minister oordeelt dat hij met toepassing van artikel 43 van het Wapenhandeldecreet moet overgaan tot een schorsing, intrekking of beperking van vergunningen of voorlopige adviezen bij wijze van algemene maatregel, geeft hij aan de bevoegde dienst de opdracht om dat met een aangetekende brief, per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert, aan alle aanvragers van de betreffende vergunningen of voorlopige adviezen mee te delen of, in geval van de schorsing, intrekking of beperking die betrekking heeft op een algemene vergunning als vermeld in artikel 14, § 2, van het voormelde decreet, aan alle personen die zich hebben geregistreerd voor het gebruik van de betreffende algemene vergunning. De betrokken personen worden op de hoogte gebracht van de volgende elementen : <br />1° een beschrijving van de situatie, vermeld in artikel 43, § 1, eerste lid, 1° tot en met 3°, van het voormelde decreet, waarop de schorsing, intrekking of beperking gebaseerd is;<br />2° indien van toepassing, een beschrijving van de beperking van de vergunningen, of voorlopige adviezen;<br />3° indien van toepassing, de bijkomende maatregelen die aan de schorsing, intrekking of beperking verbonden zijn.<br /><br />Er wordt ook een kennisgeving van de schorsing, intrekking of beperking, met inbegrip van de elementen, vermeld in het eerste lid, 1° tot en met 3°, gepubliceerd op de website van de Vlaamse overheid.<br /><br />§ 2. Tenzij de minister het anders bepaalt, heeft de schorsing, intrekking of beperking gevolgen vanaf de datum van de ontvangst van de kennisgeving, vermeld in paragraaf 1, eerste lid.<br /><br />Tenzij de minister het anders bepaalt, is een schorsing of beperking telkens van onbepaalde duur.
+§ 1. De Vlaamse Regering beslist over de schorsing, beperking of intrekking van vergunningen en voorlopige adviezen bij wijze van algemene maatregel, en over de verlenging of aanpassing daarvan, op voorstel van de minister en na advies van de bevoegde dienst.<br>
+<br>
+Het advies van de bevoegde dienst behandelt minstens de volgende elementen:<br>
+1° de toepassing van de criteria, vermeld in artikel 26, 28, 41 en 42 van het Wapenhandeldecreet;<br>
+2° geldende embargo's of andere beperkende maatregelen van de VN, de EU of de OVSE en eventueel lopende discussie daarover;<br>
+3° het overbrengings-, uit- en doorvoerbeleid van de andere gewesten en andere EU-lidstaten.<br>
+<br>
+§ 2. Als de Vlaamse Regering oordeelt dat een schorsing, beperking of intrekking van vergunningen of voorlopige adviezen bij wijze van algemene maatregel moet worden uitgesproken, geeft de minister aan de bevoegde dienst de opdracht om dat mee te delen aan alle aanvragers van de vergunningen of voorlopige adviezen in kwestie, of, in geval van de schorsing, beperking of intrekking die betrekking heeft op een algemene vergunning als vermeld in artikel 14, § 2, van het Wapenhandeldecreet, dat mee te delen aan alle personen die zich hebben geregistreerd voor het gebruik van de algemene vergunning in kwestie. Die informatie wordt meegedeeld met een aangetekende brief, per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert.<br>
+<br>
+De personen in kwestie worden op de hoogte gebracht van de volgende elementen:<br>
+1° een beschrijving van de situaties, vermeld in artikel 43, § 1, eerste lid, 1° tot en met 3°, van het voormelde decreet, waarop de schorsing, beperking of intrekking gebaseerd is;<br>
+2° een beschrijving van de beperking van de vergunningen, of voorlopige adviezen als dat van toepassing is;<br>
+3° de bijkomende maatregelen die aan de schorsing, beperking of intrekking verbonden zijn als dat van toepassing is;<br>
+4° de beoogde initiële duur van de schorsing of beperking en de mogelijkheid tot verlenging daarvan als dat van toepassing is;<br>
+<br>
+De beoogde initiële duur van de schorsing of beperking mag niet langer zijn dan zes maanden.<br>
+<br>
+Tenzij de Vlaamse Regering het anders bepaalt, heeft de schorsing, beperking of intrekking gevolgen vanaf de datum van de ontvangst van de kennisgeving van de beslissing, vermeld in paragraaf 1, eerste lid.<br>
+<br>
+Er wordt ook een kennisgeving van de schorsing, beperking of intrekking, met inbegrip van de elementen, vermeld in het tweede lid, 1° tot en met 3°, bekendgemaakt op de website van de bevoegde dienst.<br>
+<br>
+§ 3. Als de Vlaamse Regering op basis van de situaties, vermeld in artikel 43, § 1, eerste lid, 1° tot en met 3°, van het Wapenhandeldecreet, van oordeel is dat een uitgesproken schorsing of beperking verlengd of aangepast moet worden, of dat de vergunningen of voorlopige adviezen in kwestie moeten worden ingetrokken, wordt een kennisgeving van de beslissing van de Vlaamse Regering tot verlenging of aanpassing van de schorsing of beperking, of tot de intrekking van de vergunningen of voorlopige adviezen in kwestie, bekendgemaakt op de website van de bevoegde dienst, met vermelding van de elementen, vermeld in paragraaf 1, 1° tot en met 3°, en, als dat van toepassing is, de duur van de verlenging van de schorsing of beperking, die telkens niet langer mag zijn dan zes maanden.<br>
+<br>
+Ook van de beslissing tot niet-verlenging van een uitgesproken schorsing of beperking wordt een kennisgeving op de website van de bevoegde dienst bekendgemaakt.
 
 ### ART. 47.
 
-§ 1. Als de minister oordeelt dat hij met toepassing van artikel 43 van het Wapenhandeldecreet ten aanzien van de vergunningen, machtigingen, certificaten, voorlopige adviezen of schriftelijke bevestigingen van een bepaalde persoon of bepaalde personen moet overgaan tot een schorsing, intrekking of beperking bij wijze van individuele maatregel, geeft hij aan de bevoegde dienst de opdracht om, met een aangetekende brief met bericht van ontvangst, aan de betrokken persoon of personen mee te delen dat een schorsing, intrekking of beperking van de vergunningen, machtigingen, certificaten, voorlopige adviezen of schriftelijke bevestigingen overwogen wordt, en om de betrokken persoon of personen op de hoogte te brengen van de volgende elementen : <br />1° een beschrijving van de situatie, vermeld in artikel 43, § 1, eerste lid, 1° tot en met 3°, van het voormelde decreet, waarop de schorsing, intrekking of beperking gebaseerd is;<br />2° indien van toepassing, een beschrijving van de beperking van de vergunningen, machtigingen, certificaten, voorlopige adviezen of schriftelijke bevestigingen;<br />3° indien van toepassing, de bijkomende maatregelen die aan de schorsing, intrekking of beperking verbonden zijn;<br />4° het recht van de betrokken personen om hun verweermiddelen mee te delen en te vragen om gehoord te worden, eventueel bijgestaan door een raadsman van hun keuze.<br /><br />De beoogde schorsing, intrekking of beperking heeft, bij wijze van voorlopige maatregel, gevolgen vanaf de datum van de ontvangst van de aangetekende brief, vermeld in het eerste lid, tot definitief over de beoogde schorsing, intrekking of beperking beslist wordt.<br /><br />§ 2. De betrokken personen beschikken over een termijn van tien werkdagen vanaf de ontvangst van de aangetekende brief, vermeld in paragraaf 1, eerste lid, om met een aangetekende brief hun verweermiddelen aan de bevoegde dienst mee te delen en te vragen om gehoord te worden.<br /><br />Indien van toepassing hoort de bevoegde dienst de betrokken personen, eventueel bijgestaan door een raadsman van hun keuze, en brengt daarover verslag uit aan de minister.<br /><br />Binnen twintig werkdagen na de datum van de aangetekende brief, vermeld in paragraaf 1, eerste lid, of indien toepasselijk, binnen tien werkdagen na de datum van de ontvangst van de aangetekende brief, vermeld in het eerste lid van deze paragraaf, of na de datum van de hoorzitting, vermeld in het tweede lid van deze paragraaf, bevestigt de minister, als daarvoor grond bestaat, de beoogde schorsing, intrekking of beperking, en geeft hij, indien van toepassing, een beschrijving van de beperking van de vergunningen, machtigingen, certificaten, voorlopige adviezen of schriftelijke bevestigingen en stelt hij, indien van toepassing, de bijkomende maatregelen vast die aan de schorsing, intrekking of beperking verbonden zijn. Hij geeft aan de bevoegde dienst de opdracht om de betrokken persoon daarvan onmiddellijk op de hoogte te brengen met een aangetekende brief.<br /><br />Als de minister verder onderzoek van de voorgelegde verweermiddelen nodig acht, kan de termijn tot ten hoogste dertig werkdagen of, na motivatie van de noodzaak, tot negentig werkdagen verlengd worden. <br /><br />§ 3. Tenzij de minister het anders bepaalt, is een schorsing of beperking telkens van onbepaalde duur.
+§ 1. De minister beslist over de schorsing, beperking of intrekking van de vergunningen, machtigingen, certificaten, voorlopige adviezen of schriftelijke bevestigingen van een bepaalde persoon of bepaalde personen bij wijze van individuele maatregel, en over de verlenging of aanpassing daarvan, na advies van de bevoegde dienst.<br>
+<br>
+§ 1/1. Als de minister oordeelt dat hij met toepassing van artikel 43 van het Wapenhandeldecreet ten aanzien van de vergunningen, machtigingen, certificaten, voorlopige adviezen of schriftelijke bevestigingen van een bepaalde persoon of bepaalde personen moet overgaan tot een schorsing, intrekking of beperking bij wijze van individuele maatregel, geeft hij aan de bevoegde dienst de opdracht om, met een aangetekende brief met bericht van ontvangst, aan de betrokken persoon of personen mee te delen dat een schorsing, intrekking of beperking van de vergunningen, machtigingen, certificaten, voorlopige adviezen of schriftelijke bevestigingen overwogen wordt, en om de betrokken persoon of personen op de hoogte te brengen van de volgende elementen :<br>
+1° een beschrijving van de situatie, vermeld in artikel 43, § 1, eerste lid, 1° tot en met 3°, van het voormelde decreet, waarop de schorsing, intrekking of beperking gebaseerd is;<br>
+2° indien van toepassing, een beschrijving van de beperking van de vergunningen, machtigingen, certificaten, voorlopige adviezen of schriftelijke bevestigingen;<br>
+3° indien van toepassing, de bijkomende maatregelen die aan de schorsing, intrekking of beperking verbonden zijn;<br>
+4° het recht van de betrokken personen om hun verweermiddelen mee te delen en te vragen om gehoord te worden, eventueel bijgestaan door een raadsman van hun keuze.<br>
+<br>
+De beoogde schorsing, intrekking of beperking heeft, bij wijze van voorlopige maatregel, gevolgen vanaf de datum van de ontvangst van de aangetekende brief, vermeld in het eerste lid, tot definitief over de beoogde schorsing, intrekking of beperking beslist wordt.<br>
+<br>
+§ 2. De betrokken personen beschikken over een termijn van tien werkdagen vanaf de ontvangst van de aangetekende brief, vermeld in paragraaf 1/1, eerste lid, om met een aangetekende brief hun verweermiddelen aan de bevoegde dienst mee te delen en te vragen om gehoord te worden.<br>
+<br>
+Indien van toepassing hoort de bevoegde dienst de betrokken personen, eventueel bijgestaan door een raadsman van hun keuze, en brengt daarover verslag uit aan de minister.<br>
+<br>
+Binnen twintig werkdagen na de datum van de aangetekende brief, vermeld in paragraaf 1/1, eerste lid, of indien toepasselijk, binnen tien werkdagen na de datum van de ontvangst van de aangetekende brief, vermeld in het eerste lid van deze paragraaf, of na de datum van de hoorzitting, vermeld in het tweede lid van deze paragraaf, bevestigt de minister, als daarvoor grond bestaat, de beoogde schorsing, intrekking of beperking, en geeft hij, indien van toepassing, een beschrijving van de beperking van de vergunningen, machtigingen, certificaten, voorlopige adviezen of schriftelijke bevestigingen en stelt hij, indien van toepassing, de bijkomende maatregelen vast die aan de schorsing, intrekking of beperking verbonden zijn. Hij geeft aan de bevoegde dienst de opdracht om de betrokken persoon daarvan onmiddellijk op de hoogte te brengen met een aangetekende brief.<br>
+<br>
+Als de minister verder onderzoek van de voorgelegde verweermiddelen nodig acht, kan de termijn tot ten hoogste dertig werkdagen of, na motivatie van de noodzaak, tot negentig werkdagen verlengd worden.<br>
+<br>
+§ 3. Tenzij de minister het anders bepaalt, is een schorsing of beperking telkens van onbepaalde duur.
 
 ### ART. 48.
 
-§ 1. De tijdelijke schorsing bij wijze van een eenvoudige kennisgeving in uitzonderlijke omstandigheden, vermeld in artikel 43, § 2, van het Wapenhandeldecreet, wordt uitgesproken door de bevoegde dienst.<br /><br />De bevoegde dienst brengt de betrokken persoon of personen met een aangetekende brief, per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert, op de hoogte van de tijdelijke schorsing en van de elementen, vermeld in artikel 46, § 1, eerste lid, 1° en 3°, of artikel 47, § 1, eerste lid, 1° en 3°, van dit besluit, en stelt de duur van de tijdelijke schorsing vast.<br /><br />§ 2. Tenzij het anders bepaald is, heeft de tijdelijke schorsing gevolgen vanaf de datum van ontvangst van de kennisgeving, vermeld in paragraaf 1, tweede lid.<br /><br />De bevoegde dienst brengt de minister onmiddellijk van de tijdelijke schorsing op de hoogte om hem toe te laten, als daarvoor grond bestaat, de procedure, vermeld in artikel 46 of 47 van dit besluit, toe te passen.
+§ 1. De tijdelijke schorsing bij wijze van een eenvoudige kennisgeving in uitzonderlijke omstandigheden, vermeld in artikel 43, § 2, van het Wapenhandeldecreet, wordt uitgesproken door de bevoegde dienst.<br>
+<br>
+De bevoegde dienst brengt de betrokken persoon of personen met een aangetekende brief, per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert, op de hoogte van de tijdelijke schorsing en van de elementen, vermeld in artikel 46, § 1, eerste lid, 1° en 3°, of artikel 47, § 1/1, eerste lid, 1° en 3°, van dit besluit, en stelt de duur van de tijdelijke schorsing vast.<br>
+<br>
+§ 2. Tenzij het anders bepaald is, heeft de tijdelijke schorsing gevolgen vanaf de datum van ontvangst van de kennisgeving, vermeld in paragraaf 1, tweede lid.<br>
+<br>
+De bevoegde dienst brengt de minister onmiddellijk van de tijdelijke schorsing op de hoogte om hem toe te laten, als daarvoor grond bestaat, de procedure, vermeld in artikel 46 of 47 van dit besluit, toe te passen.
 
 ### ART. 49.
 
-§ 1. Als de schorsing, intrekking of beperking bij wijze van individuele maatregel is uitgesproken, kunnen de betrokken personen de minister om een gehele of gedeeltelijke opheffing of beperking van een uitgesproken schorsing, intrekking of beperking verzoeken als ze over verweermiddelen beschikken die in de procedure voor het uitspreken van de schorsing, intrekking of beperking niet konden worden voorgelegd.<br /><br />Ze delen daarvoor met een aangetekende brief hun nieuwe verweermiddelen aan de bevoegde dienst mee en kunnen ook vragen om opnieuw gehoord te worden.<br /><br />Indien van toepassing hoort de bevoegde dienst de betrokken personen, eventueel bijgestaan door een raadsman van hun keuze, en brengt daarover verslag uit aan de minister.<br /><br />Binnen tien werkdagen na de datum van de ontvangst van de aangetekende brief, vermeld in het tweede lid, of, indien toepasselijk, na de datum van de hoorzitting, vermeld in het derde lid, beslist de minister over de intrekking of beperking van de schorsing, intrekking of beperking en geeft hij aan de bevoegde dienst de opdracht om de betrokken personen onmiddellijk op de hoogte te brengen van zijn beslissing met een aangetekende brief. <br /><br />Als de minister verder onderzoek van de voorgelegde middelen nodig acht, kan de termijn tot ten hoogste dertig werkdagen of, na motivatie van de noodzaak, tot negentig werkdagen verlengd worden.
+Als de schorsing, intrekking of beperking bij wijze van individuele maatregel is uitgesproken, kunnen de betrokken personen de minister om een gehele of gedeeltelijke opheffing of beperking van&nbsp;de uitgesproken schorsing of beperking, of, in geval van intrekking, om een nieuwe beslissing verzoeken als ze over verweermiddelen beschikken die in de procedure voor het uitspreken van de schorsing, intrekking of beperking niet konden worden voorgelegd.<br>
+<br>
+Ze delen daarvoor met een aangetekende brief hun nieuwe verweermiddelen aan de bevoegde dienst mee en kunnen ook vragen om opnieuw gehoord te worden.<br>
+<br>
+Indien van toepassing hoort de bevoegde dienst de betrokken personen, eventueel bijgestaan door een raadsman van hun keuze, en brengt daarover verslag uit aan de minister.<br>
+<br>
+Binnen tien werkdagen na de datum van de ontvangst van de aangetekende brief, vermeld in het tweede lid, of, indien toepasselijk, na de datum van de hoorzitting, vermeld in het derde lid, beslist de minister over de intrekking of beperking van de schorsing of beperking, of, in geval van intrekking, over een mogelijke nieuwe vergunning, machtiging, certificaat, voorlopig advies of schriftelijke bevestiging en geeft hij aan de bevoegde dienst de opdracht om de betrokken personen onmiddellijk op de hoogte te brengen van zijn beslissing met een aangetekende brief.<br>
+<br>
+Als de minister verder onderzoek van de voorgelegde middelen nodig acht, kan de termijn tot ten hoogste dertig werkdagen of, na motivatie van de noodzaak, tot negentig werkdagen verlengd worden.
 
 ## [DEEL 4/1. Algemene beperkende maatregelen (ing. BVR 9 maart 2018, art. 36, I: 6 mei 2018)]
+
+### ART 49/1.
+
+§ 1. De Vlaamse Regering beslist over het toepassen van de maatregel, vermeld in artikel 43/1, § 1, van het Wapenhandeldecreet, en over de verlenging of aanpassing daarvan, op voorstel van de minister en na advies van de bevoegde dienst.<br>
+<br>
+Het advies van de bevoegde dienst behandelt minstens de volgende elementen ten aanzien van het land of de eindgebruiker in kwestie:<br>
+1° de toepassing van de criteria, vermeld in artikel 26, 28, 41 en 42 van het voormelde decreet;<br>
+2° geldende embargo's of andere beperkende maatregelen van de VN, de EU of de OVSE en eventueel lopende discussie daarover;<br>
+3° het overbrengings-, uit- en doorvoerbeleid van de andere gewesten en andere EU-lidstaten.<br>
+<br>
+§ 2. Als de Vlaamse Regering oordeelt dat de maatregel, vermeld paragraaf 1, moet worden toegepast, geeft de minister aan de bevoegde dienst de opdracht om op de website van de bevoegde dienst een kennisgeving bekend te maken die al de volgende elementen bevat:<br>
+1° een beschrijving van de omstandigheden, vermeld in artikel 43/1, § 1, eerste lid, van het Wapenhandeldecreet, waarop de maatregel gebaseerd is;<br>
+2° een beschrijving van de genomen maatregel;<br>
+3° de beoogde initiële duur van de genomen maatregel en de mogelijkheid tot verlenging daarvan, vermeld in artikel 43/1, § 2, van het voormelde decreet.<br>
+<br>
+De maatregel heeft gevolgen vanaf de datum van de bekendmaking op de website van de bevoegde dienst.<br>
+<br>
+De bevoegde dienst bezorgt de kennisgeving ook aan alle aanvragers van wie aanvragen van vergunningen of voorlopige adviezen voor het land of de eindgebruiker in kwestie op dat moment in behandeling zijn. Hij doet dat met een aangetekende brief, per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert.<br>
+<br>
+§ 3. Als de Vlaamse Regering oordeelt dat de genomen maatregel met toepassing van artikel 43/1, § 2, van het Wapenhandeldecreet, moet worden verlengd of aangepast, wordt een kennisgeving van de beslissing van de Vlaamse Regering tot verlenging of aanpassing van de maatregel bekendgemaakt op de website van de bevoegde dienst, met vermelding van de elementen, vermeld in paragraaf 2, eerste lid, 1° tot en met 3°.<br>
+<br>
+Ook van de beslissing tot niet-verlenging van een genomen maatregel wordt een kennisgeving op de website van de bevoegde dienst bekendgemaakt.
 
 ## DEEL 5. Tijdelijke uitsluiting van aanvragers
 
 ### ART. 50.
 
-§ 1. Als de minister oordeelt dat hij ten aanzien van een bepaalde persoon artikel 44 van het Wapenhandeldecreet moet toepassen, geeft hij aan de bevoegde dienst de opdracht om aan de betrokken persoon met een aangetekende brief met bericht van ontvangst mee te delen dat een maatregel van tijdelijke uitsluiting overwogen wordt, en om de betrokken persoon op de hoogte te brengen van de volgende elementen : <br />1° de aanwijzingen waarover hij beschikt dat de betrokken persoon een of meer van de handelingen, vermeld in artikel 44, § 1, 1° tot en met 6°, van het voormelde decreet, stelt of heeft gesteld;<br />2° de activiteiten van in-, uit- of doorvoer of van overbrenging, en de categorieën van goederen, vermeld in het voormelde decreet, waarop de tijdelijke uitsluiting beoogd wordt van toepassing te zijn;<br />3° de beoogde initiële duur van de tijdelijke uitsluiting;<br />4° het recht van de betrokken persoon om zijn verweermiddelen mee te delen en te vragen om gehoord te worden, eventueel bijgestaan door een raadsman van zijn keuze.<br /><br />De betrokken persoon beschikt vervolgens over een termijn van tien werkdagen vanaf de ontvangst van de aangetekende brief, vermeld in het eerste lid, om met een aangetekende brief zijn verweermiddelen aan de bevoegde dienst mee te delen en te vragen om gehoord te worden.<br /><br />Indien van toepassing hoort de bevoegde dienst de betrokken persoon, eventueel bijgestaan door een raadsman van zijn keuze, en brengt daarover verslag uit aan de minister.<br /><br />Binnen twintig werkdagen na de datum van de aangetekende brief, vermeld in het eerste lid, of indien toepasselijk, binnen tien werkdagen na de datum van de ontvangst van de aangetekende brief, vermeld in het tweede lid, of na de datum van de hoorzitting, vermeld in het derde lid, neemt de minister, als daarvoor grond bestaat, de beoogde uitsluitingsmaatregel, stelt hij de activiteiten van in-, uit- of doorvoer of van overbrenging en de categorieën van goederen waarop de uitsluitingsmaatregel van toepassing is en de duur ervan vast en geeft hij aan de bevoegde dienst de opdracht om de betrokken persoon daarvan onmiddellijk op de hoogte te brengen met een aangetekende brief.<br /><br />Als de minister verder onderzoek van de voorgelegde verweermiddelen nodig acht, kan de termijn tot ten hoogste dertig werkdagen of, na motivatie van de noodzaak, tot negentig werkdagen verlengd worden. <br /><br />De uitsluitingsmaatregel heeft, bij wijze van voorlopige maatregel, gevolgen vanaf de datum van de ontvangst van de aangetekende brief, vermeld in het eerste lid, tot definitief over de beoogde tijdelijke uitsluiting beslist wordt.<br /><br />§ 2. Als een uitsluitingsmaatregel als gevolg van de instelling van een strafrechtelijk vooronderzoek of van de strafvordering met toepassing van artikel 44, § 3, van het voormelde decreet, verlengd wordt, brengt de bevoegde dienst de betrokken persoon daarvan louter op de hoogte met een aangetekende brief met bericht van ontvangst. <br /><br />Als de minister oordeelt dat een uitsluitingsmaatregel van minder dan zes maanden verlengd moet worden omdat dezelfde aanwijzingen die geleid hebben tot de uitsluitingsmaatregel, nog altijd gelden, maar naar of voor de betreffende onrechtmatigheden nog geen strafrechtelijk vooronderzoek of strafvordering is ingesteld, kan de uitsluitingsmaatregel alleen tot ten hoogste zes maanden verlengd worden op basis van de procedure, vermeld in paragraaf 1.<br /><br />Als aan de betrokken persoon met een aangetekende brief wordt meegedeeld dat een verlenging van de uitsluitingsmaatregel overwogen wordt, blijft de uitsluitingsmaatregel, bij wijze van voorlopige maatregel, vanaf de datum van de ontvangst daarvan van kracht tot definitief over de beoogde verlenging beslist wordt.
+§ 1. De minister beslist over de tijdelijke uitsluiting van een bepaalde persoon, vermeld in artikel 44 van het Wapenhandeldecreet, en over de verlenging of aanpassing daarvan na advies van de bevoegde dienst.<br>
+<br>
+§ 1/1. Als de minister oordeelt dat hij ten aanzien van een bepaalde persoon artikel 44 van het Wapenhandeldecreet moet toepassen, geeft hij aan de bevoegde dienst de opdracht om aan de betrokken persoon met een aangetekende brief met bericht van ontvangst mee te delen dat een maatregel van tijdelijke uitsluiting overwogen wordt, en om de betrokken persoon op de hoogte te brengen van de volgende elementen :<br>
+1° de aanwijzingen waarover hij beschikt dat de betrokken persoon een of meer van de handelingen, vermeld in artikel 44, § 1, 1° tot en met 6°, van het voormelde decreet, stelt of heeft gesteld;<br>
+2° de activiteiten van in-, uit- of doorvoer of van overbrenging, en de categorieën van goederen, vermeld in het voormelde decreet, waarop de tijdelijke uitsluiting beoogd wordt van toepassing te zijn;<br>
+3° de beoogde initiële duur van de tijdelijke uitsluiting;<br>
+4° het recht van de betrokken persoon om zijn verweermiddelen mee te delen en te vragen om gehoord te worden, eventueel bijgestaan door een raadsman van zijn keuze.<br>
+<br>
+De betrokken persoon beschikt vervolgens over een termijn van tien werkdagen vanaf de ontvangst van de aangetekende brief, vermeld in het eerste lid, om met een aangetekende brief zijn verweermiddelen aan de bevoegde dienst mee te delen en te vragen om gehoord te worden.<br>
+<br>
+Indien van toepassing hoort de bevoegde dienst de betrokken persoon, eventueel bijgestaan door een raadsman van zijn keuze, en brengt daarover verslag uit aan de minister.<br>
+<br>
+Binnen twintig werkdagen na de datum van de aangetekende brief, vermeld in het eerste lid, of indien toepasselijk, binnen tien werkdagen na de datum van de ontvangst van de aangetekende brief, vermeld in het tweede lid, of na de datum van de hoorzitting, vermeld in het derde lid, neemt de minister, als daarvoor grond bestaat, de beoogde uitsluitingsmaatregel, stelt hij de activiteiten van in-, uit- of doorvoer of van overbrenging en de categorieën van goederen waarop de uitsluitingsmaatregel van toepassing is en de duur ervan vast en geeft hij aan de bevoegde dienst de opdracht om de betrokken persoon daarvan onmiddellijk op de hoogte te brengen met een aangetekende brief.<br>
+<br>
+Als de minister verder onderzoek van de voorgelegde verweermiddelen nodig acht, kan de termijn tot ten hoogste dertig werkdagen of, na motivatie van de noodzaak, tot negentig werkdagen verlengd worden.<br>
+<br>
+De uitsluitingsmaatregel heeft, bij wijze van voorlopige maatregel, gevolgen vanaf de datum van de ontvangst van de aangetekende brief, vermeld in het eerste lid, tot definitief over de beoogde tijdelijke uitsluiting beslist wordt.<br>
+<br>
+§ 2. Als een uitsluitingsmaatregel als gevolg van de instelling van een strafrechtelijk vooronderzoek of van de strafvordering met toepassing van artikel 44, § 3, van het voormelde decreet, verlengd wordt, brengt de bevoegde dienst de betrokken persoon daarvan louter op de hoogte met een aangetekende brief met bericht van ontvangst.<br>
+<br>
+Als de minister oordeelt dat een uitsluitingsmaatregel van minder dan zes maanden verlengd moet worden omdat dezelfde aanwijzingen die geleid hebben tot de uitsluitingsmaatregel, nog altijd gelden, maar naar of voor de betreffende onrechtmatigheden nog geen strafrechtelijk vooronderzoek of strafvordering is ingesteld, kan de uitsluitingsmaatregel alleen tot ten hoogste zes maanden verlengd worden op basis van de procedure, vermeld in paragraaf 1/1.<br>
+<br>
+Als aan de betrokken persoon met een aangetekende brief wordt meegedeeld dat een verlenging van de uitsluitingsmaatregel overwogen wordt, blijft de uitsluitingsmaatregel, bij wijze van voorlopige maatregel, vanaf de datum van de ontvangst daarvan van kracht tot definitief over de beoogde verlenging beslist wordt.
 
 ### ART. 51.
 
@@ -316,7 +916,20 @@ Tenzij de uitsluitingsmaatregel werd verlengd als gevolg van de instelling van e
 
 ### ART. 52.
 
-Als een aanvraag van een vergunning, machtiging of certificaat geweigerd wordt, deelt de bevoegde dienst dat met een aangetekende brief met bericht van ontvangst aan de aanvrager mee en brengt hem op de hoogte van de volgende elementen : <br />1° de redenen waarom de aanvraag werd geweigerd;<br />2° het recht van de aanvrager om zijn verweermiddelen mee te delen en te vragen om gehoord te worden, eventueel bijgestaan door een raadsman van zijn keuze;<br />3° het recht van de aanvrager om tegen de weigeringsbeslissing beroep in te stellen bij de Raad van State binnen zestig dagen na de kennisgeving ervan.<br /><br />De aanvrager beschikt vervolgens over een termijn van tien werkdagen vanaf de ontvangst van de aangetekende brief, vermeld in het eerste lid, om met een aangetekende brief zijn verweermiddelen aan de bevoegde dienst mee te delen en te vragen om gehoord te worden.<br /><br />Indien van toepassing hoort de bevoegde dienst de aanvrager, eventueel bijgestaan door een raadsman van zijn keuze, en brengt daarover verslag uit aan de minister.<br /><br />Binnen tien werkdagen na de datum van ontvangst van de aangetekende brief, vermeld in het tweede lid, of na de datum van de hoorzitting, vermeld in het derde lid, beslist de minister of hij zijn weigeringsbeslissing al dan niet herziet en geeft hij aan de bevoegde dienst de opdracht om zijn beslissing onmiddellijk mee te delen aan de aanvrager met een aangetekende brief. <br /><br />Als de minister verder onderzoek van de voorgelegde verweermiddelen nodig acht, kan de termijn tot ten hoogste dertig werkdagen of, na motivatie van de noodzaak, tot negentig werkdagen verlengd worden. <br /><br />De kennisgeving vermeldt het recht van de aanvrager om tegen de beslissing beroep in te stellen bij de Raad van State binnen zestig dagen na de kennisgeving ervan.
+Als een aanvraag van een vergunning,&nbsp;machtiging, certificaat of schriftelijke bevestiging geweigerd wordt, deelt de bevoegde dienst dat met een aangetekende brief met bericht van ontvangst aan de aanvrager mee en brengt hem op de hoogte van de volgende elementen :<br>
+1° de redenen waarom de aanvraag werd geweigerd;<br>
+2° het recht van de aanvrager om zijn verweermiddelen mee te delen en te vragen om gehoord te worden, eventueel bijgestaan door een raadsman van zijn keuze;<br>
+3° het recht van de aanvrager om tegen de weigeringsbeslissing beroep in te stellen bij de Raad van State binnen zestig dagen na de kennisgeving ervan.<br>
+<br>
+De aanvrager beschikt vervolgens over een termijn van tien werkdagen vanaf de ontvangst van de aangetekende brief, vermeld in het eerste lid, om met een aangetekende brief zijn verweermiddelen aan de bevoegde dienst mee te delen en te vragen om gehoord te worden.<br>
+<br>
+Indien van toepassing hoort de bevoegde dienst de aanvrager, eventueel bijgestaan door een raadsman van zijn keuze, en brengt daarover verslag uit aan de minister.<br>
+<br>
+Binnen tien werkdagen na de datum van ontvangst van de aangetekende brief, vermeld in het tweede lid, of na de datum van de hoorzitting, vermeld in het derde lid, beslist de minister of hij zijn weigeringsbeslissing al dan niet herziet en geeft hij aan de bevoegde dienst de opdracht om zijn beslissing onmiddellijk mee te delen aan de aanvrager met een aangetekende brief.<br>
+<br>
+Als de minister verder onderzoek van de voorgelegde verweermiddelen nodig acht, kan de termijn tot ten hoogste dertig werkdagen of, na motivatie van de noodzaak, tot negentig werkdagen verlengd worden.<br>
+<br>
+De kennisgeving vermeldt het recht van de aanvrager om tegen de beslissing beroep in te stellen bij de Raad van State binnen zestig dagen na de kennisgeving ervan.
 
 ## DEEL 7. Toezichts- en strafbepalingen
 
@@ -324,21 +937,53 @@ Als een aanvraag van een vergunning, machtiging of certificaat geweigerd wordt, 
 
 ### ART. 53.
 
-De secretaris-generaal van het Departement internationaal Vlaanderen wijst de personeelsleden, vermeld in artikel 46, § 1, van het Wapenhandeldecreet, aan die gemachtigd zijn toezicht te houden op de naleving van het voormelde decreet en de uitvoeringsbesluiten ervan.<br /><br />De vorm en de inhoud van de legitimatiekaarten van de aangewezen personen zijn conform de bepalingen van het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de legitimatiekaarten van de personeelsleden van de diensten van de Vlaamse overheid die belast zijn met inspectie- of controlebevoegdheden.
+§ 1. De secretaris-generaal van het&nbsp;Departement Buitenlandse Zaken wijst de personeelsleden, vermeld in artikel 46, § 1, van het Wapenhandeldecreet, aan die gemachtigd zijn toezicht te houden op de naleving van het voormelde decreet en de uitvoeringsbesluiten ervan.<br>
+<br>
+De vorm en de inhoud van de legitimatiekaarten van de aangewezen personen zijn conform de bepalingen van het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de legitimatiekaarten van de personeelsleden van de diensten van de Vlaamse overheid die belast zijn met inspectie- of controlebevoegdheden.<br>
+<br>
+§ 2. De secretaris-generaal van het Departement Buitenlandse Zaken kent ook de hoedanigheid van officier van gerechtelijke politie toe aan een of meer toezichthouders die over de vereiste kwalificaties en eigenschappen beschikken.
 
 ## TITEL 2. Procedure voor het opleggen van administratieve sancties en de nadere regels van de uitvoering ervan
 
 ### ART. 54.
 
-De administratieve sancties, vermeld in artikel 48 van het Wapenhandeldecreet, worden namens de Vlaamse Regering opgelegd door de secretaris-generaal van het Departement internationaal Vlaanderen overeenkomstig de procedure, vermeld in artikel 55.<br /><br />De secretaris-generaal van het Departement internationaal Vlaanderen kan die bevoegdheid delegeren aan een of meer personeelsleden van zijn departement.
+De administratieve sancties, vermeld in artikel 48 van het Wapenhandeldecreet, worden namens de Vlaamse Regering opgelegd door de secretaris-generaal van het Departement Buitenlandse Zaken overeenkomstig de procedure, vermeld in artikel 55.<br>
+<br>
+De secretaris-generaal van het Departement Buitenlandse Zaken kan die bevoegdheid delegeren aan een of meer personeelsleden van zijn departement.
 
 ### ART. 55.
 
-§ 1. Als de secretaris-generaal oordeelt dat hij aan een bepaalde persoon een administratieve sanctie moet opleggen, deelt hij met een aangetekende brief met bericht van ontvangst aan de betrokken persoon mee dat een administratieve sanctie overwogen wordt en brengt hij de betrokken persoon op de hoogte van de volgende elementen : <br />1° het proces-verbaal van overtreding dat ten laste van de persoon is opgesteld;<br />2° het feit dat binnen twee maanden na de vaststelling van de inbreuk op het voormelde decreet of dit besluit in dat proces-verbaal door de bevoegde procureur des Konings geen strafvordering werd ingesteld;<br />3° de beoogde administratieve sanctie;<br />4° het recht van de betrokken persoon om zijn verweermiddelen mee te delen en te vragen om gehoord te worden, eventueel bijgestaan door een raadsman van zijn keuze.<br /><br />De betrokken persoon beschikt vervolgens over een termijn van tien werkdagen vanaf de ontvangst van de aangetekende brief, vermeld in het eerste lid, om met een aangetekende brief zijn verweermiddelen aan de minister mee te delen en te vragen om gehoord te worden.<br /><br />De betrokken persoon, eventueel bijgestaan door een raadsman van zijn keuze, wordt gehoord, indien van toepassing.<br /><br />§ 2. Binnen twintig werkdagen na de datum van de aangetekende brief, vermeld in paragraaf 1, eerste lid, of indien toepasselijk, binnen tien werkdagen na de datum van de ontvangst van de aangetekende brief, vermeld in paragraaf 1, tweede lid, of na de datum van de hoorzitting, vermeld in paragraaf 1, derde lid, legt de secretaris-generaal, als daarvoor grond bestaat, de beoogde administratieve sanctie op en brengt hij de betrokken persoon daarvan onmiddellijk op de hoogte met een aangetekende brief. <br /><br />Als een activiteitenverbod wordt opgelegd, vermeldt de beslissing de activiteiten van in-, uit- of doorvoer of van overbrenging en de categorieën van goederen waarop het verbod van toepassing is en de duur ervan.<br /><br />Als een administratieve geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarin die moet worden betaald.
+§ 1. Als de secretaris-generaal oordeelt dat hij aan een bepaalde persoon een administratieve sanctie moet opleggen, deelt hij met een aangetekende brief met bericht van ontvangst aan de betrokken persoon mee dat een administratieve sanctie overwogen wordt en brengt hij de betrokken persoon op de hoogte van de volgende elementen :<br>
+1° het proces-verbaal van overtreding&nbsp;of, naargelang het geval, het verslag van vaststelling, dat ten laste van de persoon is opgesteld;<br>
+2° in geval van een misdrijf of poging tot misdrijf als vermeld in artikel 47, § 1, van het Wapenhandeldecreet: het feit dat binnen twee maanden na de vaststelling van de inbreuk op het voormelde decreet of dit besluit in dat proces-verbaal door de bevoegde procureur des Konings geen strafvordering werd ingesteld;<br>
+3° de beoogde administratieve sanctie;<br>
+4° het recht van de betrokken persoon om zijn verweermiddelen mee te delen en te vragen om gehoord te worden, eventueel bijgestaan door een raadsman van zijn keuze.<br>
+<br>
+De betrokken persoon beschikt vervolgens over een termijn van tien werkdagen vanaf de ontvangst van de aangetekende brief, vermeld in het eerste lid, om met een aangetekende brief zijn&nbsp;verweermiddelen en verzachtende omstandigheden aan de secretaris-generaal mee te delen en te vragen om gehoord te worden.<br>
+<br>
+De betrokken persoon, eventueel bijgestaan door een raadsman van zijn keuze, wordt gehoord, indien van toepassing.<br>
+<br>
+§ 2. Binnen twintig werkdagen na de datum van de aangetekende brief, vermeld in paragraaf 1, eerste lid, of indien toepasselijk, binnen tien werkdagen na de datum van de ontvangst van de aangetekende brief, vermeld in paragraaf 1, tweede lid, of na de datum van de hoorzitting, vermeld in paragraaf 1, derde lid, legt de secretaris-generaal, als daarvoor grond bestaat, de beoogde administratieve sanctie op en brengt hij de betrokken persoon daarvan onmiddellijk op de hoogte met een aangetekende brief.<br>
+<br>
+Als een activiteitenverbod wordt opgelegd, vermeldt de beslissing de activiteiten van in-, uit- of doorvoer of van overbrenging en de categorieën van goederen waarop het verbod van toepassing is en de duur ervan.<br>
+<br>
+Als een administratieve geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarin die moet worden betaald.<br>
+<br>
+Als een activiteitenverbod of een administratieve geldboete met uitstel wordt opgelegd, vermeldt de beslissing de duur van de proefperiode.
 
 ### ART. 56.
 
-§ 1. De personeelsleden van de Vlaamse Belastingdienst worden ermee belast om de onbetwiste en opeisbare administratieve geldboetes en eventuele invorderingskosten op de betrokken personen te verhalen.<br /><br />De personeelsleden, vermeld in het eerste lid, zijn ertoe gemachtigd om een dwangbevel uit te vaardigen.<br /><br />Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de personeelsleden, vermeld in het eerste lid, en wordt betekend bij exploot van een gerechtsdeurwaarder.<br /><br />§ 2. De personeelsleden, vermeld in paragraaf 1, eerste lid, zijn ertoe gemachtigd om aan de schuldenaars van onbetwiste en opeisbare administratieve geldboetes die bijzondere omstandigheden kunnen bewijzen, uitstel van betaling toe te staan en gedeeltelijke betalingen eerst op het kapitaal aan te rekenen.<br /><br />De personeelsleden, vermeld in paragraaf 1, eerste lid, kunnen gehele of gedeeltelijke kwijtschelding van de schuld in interesten verlenen als de schuldenaar kennelijk onvermogend is.<br /><br />In de gevallen waarin de toestand van de schuldenaar dat te goeder trouw wettigt, kan de Vlaamse Regering met hem dadingen aangaan.
+§ 1. De personeelsleden van de Vlaamse Belastingdienst worden ermee belast om de onbetwiste en opeisbare administratieve geldboetes en eventuele invorderingskosten op de betrokken personen te verhalen.<br>
+<br>
+De personeelsleden, vermeld in het eerste lid, zijn ertoe gemachtigd om een dwangbevel uit te vaardigen.<br>
+<br>
+Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de personeelsleden, vermeld in het eerste lid, en wordt betekend bij exploot van een gerechtsdeurwaarder.<br>
+<br>
+§ 2. De personeelsleden, vermeld in paragraaf 1, eerste lid, zijn ertoe gemachtigd om aan de schuldenaars van onbetwiste en opeisbare administratieve geldboetes die bijzondere omstandigheden kunnen bewijzen, uitstel van betaling toe te staan en gedeeltelijke betalingen eerst op het kapitaal aan te rekenen.<br>
+<br>
+De personeelsleden, vermeld in paragraaf 1, eerste lid, kunnen gehele of gedeeltelijke kwijtschelding van de schuld in interesten verlenen als de schuldenaar kennelijk onvermogend is.<br>
+<br>
+In de gevallen waarin de toestand van de schuldenaar&nbsp;te goeder trouw dat wettigt, kan de Vlaamse Regering met hem dadingen aangaan.
 
 ## DEEL 8. Rapportering door aanvragers
 
@@ -346,7 +991,11 @@ De administratieve sancties, vermeld in artikel 48 van het Wapenhandeldecreet, w
 
 ### ART. 57.
 
-De rapportering aan de bevoegde dienst over het gebruik van algemene, globale, individuele en meervoudige vergunningen voor overbrengingen binnen de Europese Unie, vermeld in artikelen 14, 15, 16, 34 en 36, § 2, van het Wapenhandeldecreet, gebeurt op basis van een elektronisch formulier dat via elektronische weg aan de bevoegde dienst wordt bezorgd.<br /><br />De bevoegde dienst stelt aan elke persoon die zich registreert voor het gebruik van een algemene vergunning het elektronische formulier ter beschikking op basis waarvan de rapportering moet gebeuren.<br /><br />De elektronische formulieren voor de rapportering over het gebruik van de andere vergunning vermeld in het eerste lid worden ter beschikking gesteld op de website van de Vlaamse overheid.
+De rapportering aan de bevoegde dienst over het gebruik van&nbsp;algemene, globale en individuele vergunningen voor overbrengingen binnen de Europese Unie, vermeld in artikel 14, 15, 16 en 34 van het Wapenhandeldecreet, gebeurt op basis van een elektronisch formulier dat via elektronische weg aan de bevoegde dienst wordt bezorgd.<br>
+<br>
+De bevoegde dienst stelt aan elke persoon die zich registreert voor het gebruik van een algemene vergunning het elektronische formulier ter beschikking op basis waarvan de rapportering moet gebeuren.<br>
+<br>
+De elektronische formulieren voor de rapportering over het gebruik van de andere vergunning vermeld in het eerste lid worden ter beschikking gesteld op de website van de Vlaamse overheid.
 
 ### ART. 58.
 
@@ -354,21 +1003,71 @@ De rapportering aan de bevoegde dienst over het gebruik van algemene, globale, i
 
 ### ART. 59.
 
-§ 1. Het elektronische formulier voor de rapportering over het gebruik van de individuele en meervoudige vergunningen, vermeld in artikelen 34 en 36, § 2, van het Wapenhandeldecreet, wordt opgemaakt per vergunning en wordt gebaseerd op de overzichten, vermeld in artikel 49, § 3, van het voormelde decreet.<br /><br />De overzichten bevatten per verrichte overbrenging op basis van de vergunning minstens één document waarin telkens de elementen, vermeld in artikel 49, § 3, van het voormelde decreet, aangegeven zijn, en waaraan per overbrenging een referentienummer wordt gegeven.<br /><br />§ 2. Het elektronische formulier voor de rapportering over het gebruik van de betreffende individuele en meervoudige vergunningen bevat minstens de volgende gegevens : <br />1° de gegevens van de betrokken persoon;<br />2° indien van toepassing, de gegevens van de vertegenwoordiger van de betrokken persoon;<br />3° het nummer van de betreffende vergunning;<br />4° de data van de verrichte overbrengingen;<br />5° de waarde in euro en de hoeveelheid van de vergunde civiele vuurwapens, onderdelen of munitie, per overbrenging;<br />6° de referentienummers van de documenten, vermeld in paragraaf 1, tweede lid.<br /><br />In geval van toepassing van artikel 31, § 2, derde lid, van het voormelde decreet, bevat het formulier ook de serienummers van de civiele vuurwapens, onderdelen of munitie.
+§ 1. Het elektronische formulier voor de rapportering over het gebruik van de individuele vergunningen, vermeld in artikel 34 van het Wapenhandeldecreet, wordt opgemaakt per vergunning en wordt gebaseerd op de overzichten, vermeld in artikel 49, § 3, van het voormelde decreet.<br>
+<br>
+De overzichten bevatten per verrichte overbrenging op basis van de vergunning minstens één document waarin telkens de elementen, vermeld in artikel 49, § 3, van het voormelde decreet, aangegeven zijn, en waaraan per overbrenging een referentienummer wordt gegeven.<br>
+<br>
+§ 2. Het elektronische formulier, vermeld in paragraaf 1, bevat minstens de volgende gegevens :<br>
+1° de gegevens van de betrokken persoon;<br>
+2° indien van toepassing, de gegevens van de vertegenwoordiger van de betrokken persoon;<br>
+3° het nummer van de betreffende vergunning;<br>
+4° de data van de verrichte overbrengingen;<br>
+5° de waarde in euro en de hoeveelheid van de vergunde civiele vuurwapens, onderdelen of munitie, per overbrenging;<br>
+6° de referentienummers van de documenten, vermeld in paragraaf 1, tweede lid.
 
 ### ART. 60.
 
-§ 1. Een afschrift van de overzichten, vermeld in artikel 49, paragrafen 2 en 3, van het Wapenhandeldecreet wordt altijd tegelijk met het elektronische formulier aan de bevoegde dienst bezorgd.<br /><br />De betrokken persoon bewaart de authentieke overzichten gedurende zeven jaar en legt die op verzoek voor aan de bevoegde dienst.<br /><br />§ 2. De rapportering over het gebruik van de algemene vergunningen vindt halfjaarlijks plaats, respectievelijk over de periode van januari tot en met juni en over de periode van juli tot en met december. Daarvoor worden de elektronische formulieren, vermeld in artikel 58, § 2, uiterlijk twee maanden na de betreffende periode aan de bevoegde dienst bezorgd.<br /><br />De rapportering over het gebruik van globale vergunningen vindt jaarlijks plaats vanaf de datum van de toekenning van de vergunning. Daarvoor worden de elektronische formulieren, vermeld in artikel 58, § 3, uiterlijk twee maanden na de betreffende periode aan de bevoegde dienst bezorgd.<br /><br />De rapportering over het gebruik van individuele en meervoudige vergunningen vindt plaats na het verstrijken van de geldigheidsduur van de vergunning of nadat het geheel van de toegestane hoeveelheid of het toegestane gewicht van goederen is overgebracht. Daarvoor worden de elektronische formulieren, vermeld in respectievelijk artikel 58, § 3, en artikel 59, § 2, uiterlijk twee maanden na het betreffende tijdstip aan de bevoegde dienst bezorgd.
+§ 1. Een afschrift van de overzichten, vermeld in artikel 49, paragrafen 2 en 3, van het Wapenhandeldecreet wordt altijd tegelijk met het elektronische formulier aan de bevoegde dienst bezorgd.<br>
+<br>
+De betrokken persoon bewaart de authentieke overzichten gedurende zeven jaar en legt die op verzoek voor aan de bevoegde dienst.<br>
+<br>
+§ 2. De rapportering over het gebruik van de algemene vergunningen vindt halfjaarlijks plaats, respectievelijk over de periode van januari tot en met juni en over de periode van juli tot en met december. Daarvoor worden de elektronische formulieren, vermeld in artikel 58, § 2, uiterlijk twee maanden na de betreffende periode aan de bevoegde dienst bezorgd.<br>
+<br>
+De rapportering over het gebruik van globale vergunningen vindt jaarlijks plaats over de periode van januari tot en met december. Daarvoor worden de elektronische formulieren, vermeld in artikel 58, § 3, uiterlijk twee maanden na de betreffende periode aan de bevoegde dienst bezorgd.<br>
+<br>
+De rapportering over het gebruik van individuele&nbsp;vergunningen vindt plaats na het verstrijken van de geldigheidsduur van de vergunning of nadat het geheel van de toegestane hoeveelheid of het toegestane gewicht van goederen is overgebracht. Daarvoor worden de elektronische formulieren, vermeld in respectievelijk artikel 58, § 3, en artikel 59, § 2, uiterlijk twee maanden na het betreffende tijdstip aan de bevoegde dienst bezorgd.<br>
+<br>
+Als de vergunning tijdens de periode in kwestie niet gebruikt werd, wordt ook dat uiterlijk twee maanden na de periode in kwestie aan de bevoegde dienst gemeld.
 
 ## TITEL 2. Rapportering over het gebruik van [individuele en gecombineerde vergunningen (verv. BVR 9 maart 2018, art. 47, I: 6 mei 2018)] voor in-, uit- en doorvoer
 
 ### ART. 61.
 
-§ 1. De rapportering aan de bevoegde dienst over het gebruik van de individuele, gecombineerde en meervoudige vergunningen voor in-, uit- en doorvoer, vermeld in artikelen 22, 23, 38 en 39, § 2, van het Wapenhandeldecreet, gebeurt op basis van de afschrijving van de betreffende vergunningen door de daarvoor bevoegde diensten van de Administratie der Douane en Accijnzen van de FOD Financiën.<br /><br />§ 2. De overzichten, vermeld in artikel 49, § 3, van het voormelde decreet, bevatten per verrichte zending op basis van de vergunning minstens één document waarin telkens de elementen, vermeld in artikel 49, § 3, aangegeven zijn, en waaraan per zending een referentienummer wordt gegeven.<br /><br />Een afschrift van die overzichten wordt samen met de vergunning aan de bevoegde dienst bezorgd, uiterlijk twee maanden na het verstrijken van de geldigheidsduur van de vergunning of nadat het geheel van de toegestane hoeveelheid of het toegestane gewicht van goederen is in-, uit- of doorgevoerd. <br /><br />De betrokken persoon bewaart de authentieke overzichten gedurende zeven jaar en legt die op verzoek voor aan de bevoegde dienst.
+§ 1. De rapportering aan de bevoegde dienst over het gebruik van de individuele en gecombineerde vergunningen voor in-, uit- en doorvoer, vermeld in artikel 22, 23 en 38 van het Wapenhandeldecreet, gebeurt op basis van de afschrijving van de betreffende vergunningen door de daarvoor bevoegde diensten van de Administratie der Douane en Accijnzen van de FOD Financiën.<br>
+<br>
+§ 2. De overzichten, vermeld in artikel 49, § 3, van het voormelde decreet, bevatten per verrichte zending op basis van de vergunning minstens één document waarin telkens de elementen, vermeld in artikel 49, § 3, aangegeven zijn, en waaraan per zending een referentienummer wordt gegeven.<br>
+<br>
+Een afschrift van die overzichten wordt samen met de vergunning aan de bevoegde dienst bezorgd, uiterlijk twee maanden na het verstrijken van de geldigheidsduur van de vergunning of nadat het geheel van de toegestane hoeveelheid of het toegestane gewicht van goederen is in-, uit- of doorgevoerd.<br>
+<br>
+De betrokken persoon bewaart de authentieke overzichten gedurende zeven jaar en legt die op verzoek voor aan de bevoegde dienst.<br>
+<br>
+Als de vergunning tijdens de periode in kwestie niet gebruikt werd, wordt ook dat uiterlijk twee maanden na de periode in kwestie aan de bevoegde dienst gemeld.
 
 ### ART. 62.
 
-§ 1. In afwijking van artikel 61 moet in de volgende gevallen over het gebruik van de vergunningen, vermeld in artikel 61, § 1, bijkomend op basis van een elektronisch formulier gerapporteerd worden : <br />1° de afschrijvingen, vermeld in artikel 61, § 1, bevatten niet alle gegevens als vermeld in artikel 59, § 2;<br />2° de bevoegde dienst is in voorkomend geval van oordeel dat de elektronische rapportering noodzakelijk is om voldoende toezicht te houden op het gebruik van de vergunningen die toegekend zijn aan een specifieke aanvrager.<br /><br />De minister kan ook bepalen dat in het kader van een volledige digitalisering van de rapporteringsprocedure ook de rapportering over het gebruik van individuele, gecombineerde en meervoudige vergunningen voor in-, uit- en doorvoer telkens op basis van een elektronisch formulier moet gebeuren.<br /><br />In het geval, vermeld in het eerste lid, 2°, wordt die verplichting met toepassing van artikel 12, § 1, 5°, van het Wapenhandeldecreet als voorwaarde aan de vergunning verbonden. <br /><br />§ 2. Het elektronische formulier, vermeld in paragraaf 1, wordt opgemaakt per vergunning en wordt gebaseerd op de overzichten, vermeld in artikel 49, § 3, van het Wapenhandeldecreet.<br /><br />Het elektronische formulier bevat minstens de volgende gegevens : <br />1° de gegevens van de betrokken persoon;<br />2° indien van toepassing, de gegevens van de vertegenwoordiger van de betrokken persoon;<br />3° het nummer van de betreffende vergunning;<br />4° de data van de verrichte zendingen;<br />5° de waarde in euro en de hoeveelheid van de vergunde defensiegerelateerde producten, het vergunde ordehandhavingsmateriaal of ander materiaal dat dienstig is voor militair gebruik, of van de vergunde civiele vuurwapens, onderdelen of munitie, per zending;<br />6° de referentienummers van de documenten, vermeld in artikel 61, § 2 van dit besluit.<br /><br />De bevoegde dienst stelt op de website van de Vlaamse overheid de elektronische formulieren ter beschikking op basis waarvan de rapportering moet gebeuren.<br /><br />§ 3. Het elektronische formulier, vermeld in paragraaf 1, wordt samen met de vergunning aan de bevoegde dienst bezorgd, uiterlijk twee maanden na het verstrijken van de geldigheidsduur van de vergunning of nadat het geheel van de toegestane hoeveelheid of het toegestane gewicht van goederen is in-, uit- of doorgevoerd.
+§ 1. In afwijking van artikel 61 moet in de volgende gevallen over het gebruik van de vergunningen, vermeld in artikel 61, § 1, bijkomend op basis van een elektronisch formulier gerapporteerd worden :<br>
+1° de afschrijvingen, vermeld in artikel 61, § 1, bevatten niet alle gegevens als vermeld in artikel 59, § 2;<br>
+2° de bevoegde dienst is in voorkomend geval van oordeel dat de elektronische rapportering noodzakelijk is om voldoende toezicht te houden op het gebruik van de vergunningen die toegekend zijn aan een specifieke aanvrager.<br>
+<br>
+De minister kan ook bepalen dat in het kader van een volledige digitalisering van de rapporteringsprocedure ook de rapportering over het gebruik van&nbsp;individuele en gecombineerde vergunningen voor in-, uit- en doorvoer telkens op basis van een elektronisch formulier moet gebeuren.<br>
+<br>
+In het geval, vermeld in het eerste lid, 2°, wordt die verplichting met toepassing van artikel 12, § 1, 5°, van het Wapenhandeldecreet als voorwaarde aan de vergunning verbonden.<br>
+<br>
+§ 2. Het elektronische formulier, vermeld in paragraaf 1, wordt opgemaakt per vergunning en wordt gebaseerd op de overzichten, vermeld in artikel 49, § 3, van het Wapenhandeldecreet.<br>
+<br>
+Het elektronische formulier bevat minstens de volgende gegevens :<br>
+1° de gegevens van de betrokken persoon;<br>
+2° indien van toepassing, de gegevens van de vertegenwoordiger van de betrokken persoon;<br>
+3° het nummer van de betreffende vergunning;<br>
+4° de data van de verrichte zendingen;<br>
+5° de waarde in euro en de hoeveelheid van de vergunde defensiegerelateerde producten, het vergunde ordehandhavingsmateriaal of ander materiaal dat dienstig is voor militair gebruik, of van de vergunde civiele vuurwapens, onderdelen of munitie, per zending;<br>
+6° de referentienummers van de documenten, vermeld in artikel 61, § 2 van dit besluit.<br>
+<br>
+De bevoegde dienst stelt op de website van de Vlaamse overheid de elektronische formulieren ter beschikking op basis waarvan de rapportering moet gebeuren.<br>
+<br>
+§ 3. Het elektronische formulier, vermeld in paragraaf 1, wordt samen met de vergunning aan de bevoegde dienst bezorgd, uiterlijk twee maanden na het verstrijken van de geldigheidsduur van de vergunning of nadat het geheel van de toegestane hoeveelheid of het toegestane gewicht van goederen is in-, uit- of doorgevoerd.<br>
+<br>
+Als de vergunning tijdens de periode in kwestie niet gebruikt werd, wordt ook dat uiterlijk twee maanden na de periode in kwestie aan de bevoegde dienst gemeld.
 
 ## DEEL 9. Slotbepalingen
 
@@ -398,11 +1097,135 @@ Lijst van civiele vuurwapens, onderdelen en munitie die in-, uit- en doorgevoerd
 
 ### BIJLAGE
 
-Algemene vergunning voor de overbrenging van defensiegerelateerde producten naar strijdkrachten als vermeld in artikel 14, § 2, 1°, van het Wapenhandeldecreet en artikel 9, § 1, van het Wapenhandelbesluit (Algemene Vergunning nr. 1)<br /><br />§ 1. Defensiegerelateerde producten<br /><br />1. Deze algemene vergunning geldt voor alle defensiegerelateerde producten en productcategorieën, opgenomen in de gemeenschappelijke EU-lijst van militaire goederen.<br /><br />§ 2. Bestemmingen en bestemmelingen<br /><br />2. Deze algemene vergunning geldt voor de overbrenging door personen met woonplaats of maatschappelijke zetel in het Vlaamse Gewest naar bestemmelingen die formeel deel uitmaken van de strijdkrachten van een andere lidstaat van de EU, of naar een aanbestedende dienst op het gebied van defensie die voor het exclusieve gebruik van die strijdkrachten aankopen verricht, met uitzondering van de strijdkrachten van het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg.<br /><br />§ 3. Voorwaarden voor het gebruik van de algemene vergunning<br /><br />3. Personen die willen gebruikmaken van deze algemene vergunning voor definitieve overbrengingen, moeten houder zijn van een voorafgaande machtiging als vermeld in artikel 10, § 1, van het Wapenhandeldecreet en in artikel 29 tot en met 31 van het Wapenhandelbesluit.<br /><br />4. Voor een persoon van deze algemene vergunning kan gebruikmaken, moet hij zich registreren bij de dienst Controle Strategische Goederen, vermeld in artikel 14, § 6, van het Wapenhandeldecreet en in artikel 10 van het Wapenhandelbesluit. Hij kan pas overbrengingen op basis van deze algemene vergunning verrichten als hij van de dienst Controle Strategische Goederen een bevestiging van de registratie heeft ontvangen.<br /><br />5. Voor de eerste overbrenging naar een bepaalde bestemmeling op basis van deze algemene vergunning moet geverifieerd worden dat de bestemmeling daadwerkelijk formeel deel uitmaakt van de strijdkrachten van een andere lidstaat van de EU of een aanbestedende dienst op het gebied van defensie is die voor het exclusieve gebruik van die strijdkrachten aankopen verricht, en moet daarvan een schriftelijk bewijs bijgehouden worden.<br /><br />6. Bij elke overbrenging op basis van deze algemene vergunning moet op de handelsbescheiden die bij de levering gevoegd zijn, aangegeven worden dat wordt gebruikgemaakt van deze algemene vergunning, en moet het verkregen registratienummer vermeld worden, vermeld in artikel 10, § 4, tweede lid, 2°, van het Wapenhandelbesluit.<br /><br />7. Uiterlijk op het moment van de overbrenging moet de bestemmeling op de hoogte gebracht worden van de beperkingen, vermeld in paragraaf 5 van deze vergunning, als vermeld in artikel 12, § 2, tweede lid, van het Wapenhandeldecreet, en moet daarvan een schriftelijk bewijs bijgehouden worden.<br /><br />8. De defensiegerelateerde producten die op basis van deze algemene vergunning tijdelijk naar een andere lidstaat worden overgebracht, moeten uiterlijk drie jaar na de tijdelijke overbrenging weer naar het Vlaamse Gewest overgebracht worden, als vermeld in artikel 9, § 2, 4° van het Wapenhandelbesluit. Van de wederoverbrenging wordt een schriftelijk bewijs bijgehouden.<br /><br />9. Personen die gebruikmaken van deze algemene vergunning, moeten van hun overbrengingen op basis van de vergunning minstens zeven jaar een gedetailleerd en volledig overzicht bijhouden als vermeld in artikel 49, § 2, van het Wapenhandeldecreet en in artikelen 58, § 1, en 60, § 1, van het Wapenhandelbesluit.<br /><br />10. Op basis van de overzichten, vermeld in punt 9, moeten personen die gebruikmaken van deze algemene vergunning, om de zes maanden over hun overbrengingen rapporteren aan de dienst Controle Strategische Goederen, vermeld in artikel 49, § 1, van het Wapenhandeldecreet en in artikel 57, 58 en 60 van het Wapenhandelbesluit.<br /><br />§ 4. Uitzonderingen en beperkingen op het gebruik van de algemene vergunning, als vermeld in 14, § 7, tweede lid, van het Wapenhandeldecreet en artikel 9, § 2, en 11 van het Wapenhandelbesluit<br /><br />11. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging voor toegelaten doeleinden van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het Wapenhandeldecreet.<br /><br />12. Deze algemene vergunning mag niet gebruikt worden voor de definitieve overbrenging van defensiegerelateerde producten als het op het moment van de voorgenomen overbrenging vaststaat dat het eindgebruik van de defensiegerelateerde producten zich zal afspelen buiten de Europese Unie en de eindgebruiker buiten de Europese Unie op dat moment bekend is, tenzij : <br />1° de eindgebruiker formeel deel uitmaakt van de strijdkrachten van een lidstaat van de EU of de NAVO; <br />2° de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit;<br />3° het land van eindgebruik een lidstaat van de NAVO is, een lidstaat van het Wassenaar Arrangement, vermeld in artikel 16 van het Wapenhandelbesluit, of een bevriend land of een bondgenoot als vermeld in artikel 26, § 4, eerste lid, van het voormelde decreet; <br />4° de overbrenging andere niet-essentiële onderdelen als vermeld in artikel 3, 4°, van het Wapenhandelbesluit, betreft, dan niet-essentiële onderdelen van gevoelige goederen, die de bestemmeling volledig zal integreren in zijn eigen product, vermeld in artikel 9, § 2, eerste lid, 2°, d), van het Wapenhandelbesluit.<br /><br />Personen die gebruikmaken van de algemene vergunning in het geval, vermeld in punt 12, 2°, houden een schriftelijk bewijs bij dat de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit.<br /><br />Personen die gebruikmaken van de algemene vergunning in het geval, vermeld in punt 12, 4°, houden een schriftelijke verklaring van de bestemmeling bij waarin die verklaart dat de betreffende onderdelen geïntegreerd zullen worden in zijn eigen product.<br /><br />13. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging van defensiegerelateerde producten voor doeleinden ten aanzien waarvan het gebruik van de algemene vergunning met toepassing van artikel 14, § 7, tweede lid, en artikel 43 van het Wapenhandeldecreet en artikel 46 tot en met 49 van het Wapenhandelbesluit werd beperkt.<br /><br />14. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging van defensiegerelateerde producten voor doeleinden die onder het toepassingsgebied vallen van algemene vergunningen nr. 3, 4 en 5, als vermeld in artikel 11 van het Wapenhandelbesluit.<br /><br />§ 5. Beperkingen op eindgebruik en uitvoer naar landen buiten de Europese Unie, als vermeld in artikel 9, § 2, van het Wapenhandelbesluit<br /><br />15. Defensiegerelateerde producten die op basis van deze algemene vergunning naar een andere lidstaat worden overgebracht, mogen niet aangewend worden in of uitgevoerd worden naar een land buiten de Europese Unie voor gebruik met of de ontwikkeling of productie van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het Wapenhandeldecreet.<br /><br />§ 6. Schorsing en beperking van de algemene vergunning, als vermeld in artikel 13 van het Wapenhandelbesluit<br /><br />16. Met toepassing van artikel 43 van het Wapenhandeldecreet en artikel 46 tot en met 49 van het Wapenhandelbesluit kan deze algemene vergunning geschorst worden of beperkt worden in gebruik.<br /><br />§ 7. Tijdelijke uitsluiting van personen die gebruikmaken van de algemene vergunning <br /><br />17. Met toepassing van artikel 44 van het Wapenhandeldecreet en artikel 50 en 51 van het Wapenhandelbesluit kan een persoon tijdelijk van het gebruik van deze algemene vergunning uitgesloten worden.<br /><br />§ 8. Inwerkingtreding<br /><br />18. Deze algemene vergunning treedt in werking op 30 juni 2012.
+Algemene vergunning voor de overbrenging van defensiegerelateerde producten naar strijdkrachten als vermeld in artikel 14, § 2, 1°, van het Wapenhandeldecreet en artikel 9, § 1, van het Wapenhandelbesluit (Algemene Vergunning nr. 1)<br>
+<br>
+§ 1. Defensiegerelateerde producten<br>
+<br>
+1. Deze algemene vergunning geldt voor alle defensiegerelateerde producten en productcategorieën, opgenomen in de gemeenschappelijke EU-lijst van militaire goederen.<br>
+<br>
+§ 2. Bestemmingen en bestemmelingen<br>
+<br>
+2. Deze algemene vergunning geldt voor de overbrenging door personen met woonplaats of maatschappelijke zetel in het Vlaamse Gewest naar bestemmelingen die formeel deel uitmaken van de strijdkrachten van een andere lidstaat van de EU, of naar een aanbestedende dienst op het gebied van defensie die voor het exclusieve gebruik van die strijdkrachten aankopen verricht, met uitzondering van de strijdkrachten van het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg.<br>
+<br>
+§ 3. Voorwaarden voor het gebruik van de algemene vergunning<br>
+<br>
+3. Personen die willen gebruikmaken van deze algemene vergunning voor definitieve overbrengingen, moeten houder zijn van een voorafgaande machtiging als vermeld in artikel 10, § 1, van het Wapenhandeldecreet en in artikel 29 tot en met 31 van het Wapenhandelbesluit.<br>
+<br>
+4. Voor een persoon van deze algemene vergunning kan gebruikmaken, moet hij zich registreren bij de dienst Controle Strategische Goederen, vermeld in artikel 14, § 6, van het Wapenhandeldecreet en in artikel 10 van het Wapenhandelbesluit. Hij kan pas overbrengingen op basis van deze algemene vergunning verrichten als hij van de dienst Controle Strategische Goederen een bevestiging van de registratie heeft ontvangen.<br>
+<br>
+5. Voor de eerste overbrenging naar een bepaalde bestemmeling op basis van deze algemene vergunning moet geverifieerd worden dat de bestemmeling daadwerkelijk formeel deel uitmaakt van de strijdkrachten van een andere lidstaat van de EU of een aanbestedende dienst op het gebied van defensie is die voor het exclusieve gebruik van die strijdkrachten aankopen verricht, en moet daarvan een schriftelijk bewijs bijgehouden worden.<br>
+<br>
+6. Bij elke overbrenging op basis van deze algemene vergunning moet op de handelsbescheiden die bij de levering gevoegd zijn, aangegeven worden dat wordt gebruikgemaakt van deze algemene vergunning, en moet het verkregen registratienummer vermeld worden, vermeld in artikel 10, § 4, tweede lid, 2°, van het Wapenhandelbesluit.<br>
+<br>
+7. Uiterlijk op het moment van de overbrenging moet de bestemmeling op de hoogte gebracht worden van de beperkingen, vermeld in paragraaf 5 van deze vergunning, als vermeld in artikel 12, § 2, tweede lid, van het Wapenhandeldecreet, en moet daarvan een schriftelijk bewijs bijgehouden worden.<br>
+<br>
+8. De defensiegerelateerde producten die op basis van deze algemene vergunning tijdelijk naar een andere lidstaat worden overgebracht, moeten uiterlijk drie jaar na de tijdelijke overbrenging weer naar het Vlaamse Gewest overgebracht worden, als vermeld in artikel 9, § 2, 4° van het Wapenhandelbesluit. Van de wederoverbrenging wordt een schriftelijk bewijs bijgehouden.<br>
+<br>
+9. Personen die gebruikmaken van deze algemene vergunning, moeten van hun overbrengingen op basis van de vergunning minstens zeven jaar een gedetailleerd en volledig overzicht bijhouden als vermeld in artikel 49, § 2, van het Wapenhandeldecreet en in artikelen 58, § 1, en 60, § 1, van het Wapenhandelbesluit.<br>
+<br>
+10. Op basis van de overzichten, vermeld in punt 9, moeten personen die gebruikmaken van deze algemene vergunning, om de zes maanden over hun overbrengingen rapporteren aan de dienst Controle Strategische Goederen, vermeld in artikel 49, § 1, van het Wapenhandeldecreet en in artikel 57, 58 en 60 van het Wapenhandelbesluit.<br>
+<br>
+§ 4. Uitzonderingen en beperkingen op het gebruik van de algemene vergunning, als vermeld in 14, § 7, tweede lid, van het Wapenhandeldecreet en artikel 9, § 2, en 11 van het Wapenhandelbesluit<br>
+<br>
+11. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging voor toegelaten doeleinden van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het Wapenhandeldecreet.<br>
+<br>
+12. Deze algemene vergunning mag niet gebruikt worden voor de definitieve overbrenging van defensiegerelateerde producten als het op het moment van de voorgenomen overbrenging vaststaat dat het eindgebruik van de defensiegerelateerde producten zich zal afspelen buiten de Europese Unie en de eindgebruiker buiten de Europese Unie op dat moment bekend is, tenzij :<br>
+1° de eindgebruiker formeel deel uitmaakt van de strijdkrachten van een lidstaat van de EU of de NAVO;<br>
+2° de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit;<br>
+3° het land van eindgebruik een lidstaat van de NAVO is, een lidstaat van het Wassenaar Arrangement, vermeld in artikel 16 van het Wapenhandelbesluit, of een bevriend land of een bondgenoot als vermeld in artikel 26, § 4, eerste lid, van het voormelde decreet;<br>
+4° de overbrenging&nbsp;niet-essentiële onderdelen als vermeld in artikel 3, 4°, van het Wapenhandelbesluit, betreft,&nbsp;die de bestemmeling volledig zal integreren in zijn eigen product, vermeld in artikel 9, § 2, eerste lid, 2°, d), van het Wapenhandelbesluit.<br>
+<br>
+Personen die gebruikmaken van de algemene vergunning in het geval, vermeld in punt 12, 2°, houden een schriftelijk bewijs bij dat de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit.<br>
+<br>
+Personen die gebruikmaken van de algemene vergunning in het geval, vermeld in punt 12, 4°, houden een schriftelijke verklaring van de bestemmeling bij waarin die verklaart dat de betreffende onderdelen geïntegreerd zullen worden in zijn eigen product.<br>
+<br>
+13. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging van defensiegerelateerde producten voor doeleinden ten aanzien waarvan het gebruik van de algemene vergunning met toepassing van artikel 14, § 7, tweede lid, en artikel 43 van het Wapenhandeldecreet en artikel 46 tot en met 49 van het Wapenhandelbesluit werd beperkt.<br>
+<br>
+14. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging van defensiegerelateerde producten voor doeleinden die onder het toepassingsgebied vallen van algemene vergunningen nr. 3, 4 en 5, als vermeld in artikel 11 van het Wapenhandelbesluit.<br>
+<br>
+§ 5. Beperkingen op eindgebruik en uitvoer naar landen buiten de Europese Unie, als vermeld in artikel 9, § 2, van het Wapenhandelbesluit<br>
+<br>
+15. Defensiegerelateerde producten die op basis van deze algemene vergunning naar een andere lidstaat worden overgebracht, mogen niet aangewend worden in of uitgevoerd worden naar een land buiten de Europese Unie voor gebruik met of de ontwikkeling of productie van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het Wapenhandeldecreet.<br>
+<br>
+15/1 Als een persoon die gebruikmaakt van die algemene vergunning binnen drie jaar na een definitieve overbrenging op basis daarvan informatie verkrijgt over de wijziging van het doel, de bestemming of de uitvoer van de overgebrachte goederen, brengt hij of zij de bevoegde dienst daarvan op de hoogte als vermeld in artikel 9, § 2, vijfde lid, van dit besluit.<br>
+<br>
+§ 6. Schorsing en beperking van de algemene vergunning, als vermeld in artikel 13 van het Wapenhandelbesluit<br>
+<br>
+16. Met toepassing van artikel 43 van het Wapenhandeldecreet en artikel 46 tot en met 49 van het Wapenhandelbesluit kan deze algemene vergunning geschorst worden of beperkt worden in gebruik.<br>
+<br>
+§ 7. Tijdelijke uitsluiting van personen die gebruikmaken van de algemene vergunning<br>
+<br>
+17. Met toepassing van artikel 44 van het Wapenhandeldecreet en artikel 50 en 51 van het Wapenhandelbesluit kan een persoon tijdelijk van het gebruik van deze algemene vergunning uitgesloten worden.<br>
+<br>
+§ 8. Inwerkingtreding<br>
+<br>
+18. Deze algemene vergunning treedt in werking op 30 juni 2012.
 
 ### BIJLAGE
 
-Algemene vergunning voor de overbrenging van defensiegerelateerde producten naar gecertificeerde personen als vermeld in artikel 14, § 2, 2°, van het Wapenhandeldecreet en artikel 9, § 1, van het Wapenhandelbesluit (Algemene Vergunning nr. 2)<br /><br />§ 1. Defensiegerelateerde producten<br /><br />1. Deze algemene vergunning geldt voor alle defensiegerelateerde producten en productcategorieën, opgenomen in de gemeenschappelijke EU-lijst van militaire goederen, met uitzondering van de defensiegerelateerde producten die vallen onder de definitie van gevoelige goederen, als vermeld in artikel 14, § 4, tweede lid, van het Wapenhandeldecreet.<br /><br />§ 2. Bestemmingen en bestemmelingen<br /><br />2. Deze algemene vergunning geldt voor de overbrenging door personen met woonplaats of maatschappelijke zetel in het Vlaamse Gewest naar gecertificeerde personen als vermeld in artikel 2, 8°, van het Wapenhandeldecreet, die gevestigd zijn in de lidstaten van de Europese Unie, met uitzondering van het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg.<br /><br />§ 3. Voorwaarden voor het gebruik van de algemene vergunning<br /><br />3. Personen die willen gebruikmaken van deze algemene vergunning voor definitieve overbrengingen, moeten houder zijn van een voorafgaande machtiging als vermeld in artikel 10, § 1, van het Wapenhandeldecreet en in artikel 29 tot en met 31 van het Wapenhandelbesluit.<br /><br />4. Voor een persoon van deze algemene vergunning kan gebruikmaken, moet hij zich registreren bij de dienst Controle Strategische Goederen, vermeld in artikel 14, § 6, van het Wapenhandeldecreet en in artikel 10 van het Wapenhandelbesluit. Hij kan pas overbrengingen op basis van deze algemene vergunning verrichten als hij van de dienst Controle Strategische Goederen een bevestiging van deze registratie heeft ontvangen.<br /><br />5. Voor de eerste overbrenging naar een bepaalde bestemmeling op basis van deze algemene vergunning moet aan de hand van de lijst van gecertificeerde personen op de betreffende website van de EU geverifieerd worden dat de bestemmeling daadwerkelijk beschikt over een geldig certificaat van gecertificeerd persoon.<br /><br />6. Bij elke overbrenging op basis van deze algemene vergunning moet op de handelsbescheiden die bij de levering gevoegd zijn, aangegeven worden dat wordt gebruikgemaakt van deze algemene vergunning, en moet het verkregen registratienummer vermeld worden, vermeld in artikel 10, § 4, tweede lid, 2°, van het Wapenhandelbesluit.<br /><br />7. Uiterlijk op het moment van de overbrenging moet de bestemmeling op de hoogte gebracht worden van de beperkingen, vermeld in paragraaf 5 van deze vergunning, als vermeld in artikel 12, § 2, tweede lid, van het Wapenhandeldecreet, en moet daarvan een schriftelijk bewijs bijgehouden worden.<br /><br />8. De defensiegerelateerde producten die op basis van deze algemene vergunning tijdelijk naar een andere lidstaat worden overgebracht, moeten uiterlijk drie jaar na de tijdelijke overbrenging weer naar het Vlaamse Gewest overgebracht worden, als vermeld in artikel 9, § 2, 4° van het Wapenhandelbesluit. Van de wederoverbrenging wordt een schriftelijk bewijs bijgehouden.<br /><br />9. Personen die gebruikmaken van deze algemene vergunning, moeten van hun overbrengingen op basis van de vergunning minstens zeven jaar een gedetailleerd en volledig overzicht bijhouden als vermeld in artikel 49, § 2, van het Wapenhandeldecreet en in artikelen 58, § 1, en 60, § 1, van het Wapenhandelbesluit.<br /><br />10. Op basis van de overzichten, vermeld in punt 9, moeten personen die gebruikmaken van deze algemene vergunning om de zes maanden over hun overbrengingen rapporteren aan de dienst Controle Strategische Goederen, vermeld in artikel 49, § 1, van het Wapenhandeldecreet en in artikelen 57, 58 en 60 van het Wapenhandelbesluit.<br /><br />§ 4. Uitzonderingen en beperkingen op het gebruik van de algemene vergunning, als vermeld in 14, § 7, tweede lid, van het Wapenhandeldecreet en artikelen 9, § 2, en 11 van het Wapenhandelbesluit<br /><br />11. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging voor toegelaten doeleinden van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het Wapenhandeldecreet.<br /><br />12. Deze algemene vergunning mag niet gebruikt worden voor de definitieve overbrenging van defensiegerelateerde producten als het op het moment van de voorgenomen overbrenging vaststaat dat het eindgebruik van de defensiegerelateerde producten zich zal afspelen buiten de Europese Unie en de eindgebruiker buiten de Europese Unie op dat moment bekend is, tenzij : <br />1° de eindgebruiker formeel deel uitmaakt van de strijdkrachten van een lidstaat van de EU of de NAVO;<br />2° de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit;<br />3° het land van eindgebruik een lidstaat van de NAVO is, een lidstaat van het Wassenaar Arrangement, vermeld in artikel 16 van het Wapenhandelbesluit, of een bevriend land of een bondgenoot als vermeld in artikel 26, § 4, eerste lid, van het voormelde decreet;<br />4° de overbrenging andere niet-essentiële onderdelen als vermeld in artikel 3, 4°, van het Wapenhandelbesluit, betreft, dan niet-essentiële onderdelen van gevoelige goederen, die de bestemmeling volledig zal integreren in zijn eigen product, vermeld in artikel 9, § 2, eerste lid, 2°, d), van het Wapenhandelbesluit.<br /><br />Personen die gebruikmaken van de algemene vergunning in het geval, vermeld in punt 12, 2°, houden een schriftelijk bewijs bij dat de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit.<br /><br />Personen die gebruikmaken van de algemene vergunning in het geval, vermeld in punt 12, 4°, houden een schriftelijke verklaring van de bestemmeling bij waarin die verklaart dat de betreffende onderdelen geïntegreerd zullen worden in zijn eigen product.<br /><br />13. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging van defensiegerelateerde producten naar gecertificeerde personen of voor doeleinden ten aanzien waarvan het gebruik van de algemene vergunning met toepassing van artikel 14, § 7, tweede lid, en artikel 43 van het Wapenhandeldecreet en artikel 46 tot en met 49 van het Wapenhandelbesluit werd beperkt.<br /><br />14. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging van defensiegerelateerde producten voor doeleinden die onder het toepassingsgebied vallen van algemene vergunningen nrs. 3, 4 en 5, als vermeld in artikel 11 van het Wapenhandelbesluit.<br /><br />§ 5. Beperkingen op eindgebruik en uitvoer naar landen buiten de Europese Unie, als vermeld in artikel 9, § 2, van het Wapenhandelbesluit<br /><br />15. Defensiegerelateerde producten die op basis van deze algemene vergunning naar een andere lidstaat worden overgebracht, mogen niet aangewend worden in of uitgevoerd worden naar een land buiten de Europese Unie voor gebruik met of de ontwikkeling of productie van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het Wapenhandeldecreet.<br /><br />§ 6. Schorsing en beperking van de algemene vergunning, als vermeld in artikel 13 van het Wapenhandelbesluit<br /><br />16. Met toepassing van artikel 43 van het Wapenhandeldecreet en artikelen 46 tot en met 49 van het Wapenhandelbesluit kan deze algemene vergunning geschorst worden of beperkt worden in gebruik.<br /><br />§ 7. Tijdelijke uitsluiting van personen die gebruikmaken van de algemene vergunning <br /><br />17. Met toepassing van artikel 44 van het Wapenhandeldecreet en artikelen 50 en 51 van het Wapenhandelbesluit kan een persoon tijdelijk van het gebruik van deze algemene vergunning uitgesloten worden.<br /><br />§ 8. Inwerkingtreding<br /><br />18. Deze algemene vergunning treedt in werking op 30 juni 2012.
+Algemene vergunning voor de overbrenging van defensiegerelateerde producten naar gecertificeerde personen als vermeld in artikel 14, § 2, 2°, van het Wapenhandeldecreet en artikel 9, § 1, van het Wapenhandelbesluit (Algemene Vergunning nr. 2)<br>
+<br>
+§ 1. Defensiegerelateerde producten<br>
+<br>
+1. Deze algemene vergunning geldt voor alle defensiegerelateerde producten en productcategorieën, opgenomen in de gemeenschappelijke EU-lijst van militaire goederen, met uitzondering van de defensiegerelateerde producten die vallen onder de definitie van gevoelige goederen, als vermeld in artikel 14, § 4, tweede lid, van het Wapenhandeldecreet.<br>
+<br>
+§ 2. Bestemmingen en bestemmelingen<br>
+<br>
+2. Deze algemene vergunning geldt voor de overbrenging door personen met woonplaats of maatschappelijke zetel in het Vlaamse Gewest naar gecertificeerde personen als vermeld in artikel 2, 8°, van het Wapenhandeldecreet, die gevestigd zijn in de lidstaten van de Europese Unie, met uitzondering van het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg.<br>
+<br>
+§ 3. Voorwaarden voor het gebruik van de algemene vergunning<br>
+<br>
+3. Personen die willen gebruikmaken van deze algemene vergunning voor definitieve overbrengingen, moeten houder zijn van een voorafgaande machtiging als vermeld in artikel 10, § 1, van het Wapenhandeldecreet en in artikel 29 tot en met 31 van het Wapenhandelbesluit.<br>
+<br>
+4. Voor een persoon van deze algemene vergunning kan gebruikmaken, moet hij zich registreren bij de dienst Controle Strategische Goederen, vermeld in artikel 14, § 6, van het Wapenhandeldecreet en in artikel 10 van het Wapenhandelbesluit. Hij kan pas overbrengingen op basis van deze algemene vergunning verrichten als hij van de dienst Controle Strategische Goederen een bevestiging van deze registratie heeft ontvangen.<br>
+<br>
+5. Voor de eerste overbrenging naar een bepaalde bestemmeling op basis van deze algemene vergunning moet aan de hand van de lijst van gecertificeerde personen op de betreffende website van de EU geverifieerd worden dat de bestemmeling daadwerkelijk beschikt over een geldig certificaat van gecertificeerd persoon.<br>
+<br>
+6. Bij elke overbrenging op basis van deze algemene vergunning moet op de handelsbescheiden die bij de levering gevoegd zijn, aangegeven worden dat wordt gebruikgemaakt van deze algemene vergunning, en moet het verkregen registratienummer vermeld worden, vermeld in artikel 10, § 4, tweede lid, 2°, van het Wapenhandelbesluit.<br>
+<br>
+7. Uiterlijk op het moment van de overbrenging moet de bestemmeling op de hoogte gebracht worden van de beperkingen, vermeld in paragraaf 5 van deze vergunning, als vermeld in artikel 12, § 2, tweede lid, van het Wapenhandeldecreet, en moet daarvan een schriftelijk bewijs bijgehouden worden.<br>
+<br>
+8. De defensiegerelateerde producten die op basis van deze algemene vergunning tijdelijk naar een andere lidstaat worden overgebracht, moeten uiterlijk drie jaar na de tijdelijke overbrenging weer naar het Vlaamse Gewest overgebracht worden, als vermeld in artikel 9, § 2, 4° van het Wapenhandelbesluit. Van de wederoverbrenging wordt een schriftelijk bewijs bijgehouden.<br>
+<br>
+9. Personen die gebruikmaken van deze algemene vergunning, moeten van hun overbrengingen op basis van de vergunning minstens zeven jaar een gedetailleerd en volledig overzicht bijhouden als vermeld in artikel 49, § 2, van het Wapenhandeldecreet en in artikelen 58, § 1, en 60, § 1, van het Wapenhandelbesluit.<br>
+<br>
+10. Op basis van de overzichten, vermeld in punt 9, moeten personen die gebruikmaken van deze algemene vergunning om de zes maanden over hun overbrengingen rapporteren aan de dienst Controle Strategische Goederen, vermeld in artikel 49, § 1, van het Wapenhandeldecreet en in artikelen 57, 58 en 60 van het Wapenhandelbesluit.<br>
+<br>
+§ 4. Uitzonderingen en beperkingen op het gebruik van de algemene vergunning, als vermeld in 14, § 7, tweede lid, van het Wapenhandeldecreet en artikelen 9, § 2, en 11 van het Wapenhandelbesluit<br>
+<br>
+11. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging voor toegelaten doeleinden van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het Wapenhandeldecreet.<br>
+<br>
+12. Deze algemene vergunning mag niet gebruikt worden voor de definitieve overbrenging van defensiegerelateerde producten als het op het moment van de voorgenomen overbrenging vaststaat dat het eindgebruik van de defensiegerelateerde producten zich zal afspelen buiten de Europese Unie en de eindgebruiker buiten de Europese Unie op dat moment bekend is, tenzij :<br>
+1° de eindgebruiker formeel deel uitmaakt van de strijdkrachten van een lidstaat van de EU of de NAVO;<br>
+2° de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit;<br>
+3° het land van eindgebruik een lidstaat van de NAVO is, een lidstaat van het Wassenaar Arrangement, vermeld in artikel 16 van het Wapenhandelbesluit, of een bevriend land of een bondgenoot als vermeld in artikel 26, § 4, eerste lid, van het voormelde decreet;<br>
+4° de overbrenging&nbsp;niet-essentiële onderdelen als vermeld in artikel 3, 4°, van het Wapenhandelbesluit, betreft,&nbsp; die de bestemmeling volledig zal integreren in zijn eigen product, vermeld in artikel 9, § 2, eerste lid, 2°, d), van het Wapenhandelbesluit.<br>
+<br>
+Personen die gebruikmaken van de algemene vergunning in het geval, vermeld in punt 12, 2°, houden een schriftelijk bewijs bij dat de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit.<br>
+<br>
+Personen die gebruikmaken van de algemene vergunning in het geval, vermeld in punt 12, 4°, houden een schriftelijke verklaring van de bestemmeling bij waarin die verklaart dat de betreffende onderdelen geïntegreerd zullen worden in zijn eigen product.<br>
+<br>
+13. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging van defensiegerelateerde producten naar gecertificeerde personen of voor doeleinden ten aanzien waarvan het gebruik van de algemene vergunning met toepassing van artikel 14, § 7, tweede lid, en artikel 43 van het Wapenhandeldecreet en artikel 46 tot en met 49 van het Wapenhandelbesluit werd beperkt.<br>
+<br>
+14. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging van defensiegerelateerde producten voor doeleinden die onder het toepassingsgebied vallen van algemene vergunningen nrs. 3, 4 en 5, als vermeld in artikel 11 van het Wapenhandelbesluit.<br>
+<br>
+§ 5. Beperkingen op eindgebruik en uitvoer naar landen buiten de Europese Unie, als vermeld in artikel 9, § 2, van het Wapenhandelbesluit<br>
+<br>
+15. Defensiegerelateerde producten die op basis van deze algemene vergunning naar een andere lidstaat worden overgebracht, mogen niet aangewend worden in of uitgevoerd worden naar een land buiten de Europese Unie voor gebruik met of de ontwikkeling of productie van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het Wapenhandeldecreet.<br>
+<br>
+15/1 Als een persoon die gebruikmaakt van die algemene vergunning binnen drie jaar na een definitieve overbrenging op basis daarvan informatie verkrijgt over de wijziging van het doel, de bestemming of de uitvoer van de overgebrachte goederen, brengt hij of zij de bevoegde dienst daarvan op de hoogte als vermeld in artikel 9, § 2, vijfde lid, van dit besluit.<br>
+<br>
+§ 6. Schorsing en beperking van de algemene vergunning, als vermeld in artikel 13 van het Wapenhandelbesluit<br>
+<br>
+16. Met toepassing van artikel 43 van het Wapenhandeldecreet en artikelen 46 tot en met 49 van het Wapenhandelbesluit kan deze algemene vergunning geschorst worden of beperkt worden in gebruik.<br>
+<br>
+§ 7. Tijdelijke uitsluiting van personen die gebruikmaken van de algemene vergunning<br>
+<br>
+17. Met toepassing van artikel 44 van het Wapenhandeldecreet en artikelen 50 en 51 van het Wapenhandelbesluit kan een persoon tijdelijk van het gebruik van deze algemene vergunning uitgesloten worden.<br>
+<br>
+§ 8. Inwerkingtreding<br>
+<br>
+18. Deze algemene vergunning treedt in werking op 30 juni 2012.
 
 ### BIJLAGE
 
@@ -414,4 +1237,70 @@ Algemene vergunning voor de tijdelijke overbrenging van defensiegerelateerde pro
 
 ### BIJLAGE
 
-Algemene vergunning voor de overbrenging van defensiegerelateerde producten in het kader van een intergouvernementeel samenwerkingsprogramma als vermeld in artikel 14, § 2, 5°, van het Wapenhandeldecreet en artikel 9, § 1, van het Wapenhandelbesluit (Algemene Vergunning nr. 5)<br /><br />§ 1. Defensiegerelateerde producten<br /><br />1. Deze algemene vergunning geldt voor alle defensiegerelateerde producten en productcategorieën, opgenomen in de gemeenschappelijke EU-lijst van militaire goederen.<br /><br />§ 2. Bestemmingen en bestemmelingen<br /><br />2. Deze algemene vergunning geldt voor de overbrenging door personen met woonplaats of maatschappelijke zetel in het Vlaamse Gewest naar bestemmelingen die gevestigd zijn in de lidstaten van de Europese Unie die deelnemen aan een intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit, met uitzondering van bestemmelingen die gevestigd zijn in het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg.<br /><br />§ 3. Toegelaten doeleinden voor het gebruik van de algemene vergunning<br /><br />3. Deze algemene vergunning mag alleen gebruikt worden voor overbrengingen die noodzakelijk zijn voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit.<br /><br />§ 4. Voorwaarden voor het gebruik van de algemene vergunning<br /><br />4. Personen die willen gebruikmaken van deze algemene vergunning voor definitieve overbrengingen, moeten houder zijn van een voorafgaande machtiging als vermeld in artikel 10, § 1, van het Wapenhandeldecreet en in artikel 29 tot en met 31 van het Wapenhandelbesluit.<br /><br />5. Voor een persoon van deze algemene vergunning kan gebruikmaken, moet hij zich registreren bij de dienst Controle Strategische Goederen, vermeld in artikel 14, § 6, van het Wapenhandeldecreet en in artikel 10 van het Wapenhandelbesluit. Hij kan pas overbrengingen op basis van deze algemene vergunning verrichten als hij van de dienst Controle Strategische Goederen een bevestiging van de registratie heeft ontvangen.<br /><br />6. Voor de eerste overbrenging naar een bepaalde bestemmeling op basis van deze algemene vergunning moet geverifieerd worden dat de bestemmeling daadwerkelijk deelneemt aan het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit, en moet daarvan een schriftelijk bewijs bijgehouden worden.<br /><br />7. Bij elke overbrenging op basis van deze algemene vergunning moet op de handelsbescheiden die bij de levering gevoegd zijn, aangegeven worden dat wordt gebruikgemaakt van deze algemene vergunning en moet het verkregen registratienummer vermeld worden, vermeld in artikel 10, § 4, tweede lid, 2°, van het Wapenhandelbesluit.<br /><br />8. Uiterlijk op het moment van de overbrenging moet de bestemmeling op de hoogte gebracht worden van de beperkingen, vermeld in paragraaf 6 van deze vergunning, als vermeld in artikel 12, § 2, tweede lid, van het Wapenhandeldecreet, en moet daarvan een schriftelijk bewijs bijgehouden worden.<br /><br />9. De defensiegerelateerde producten die op basis van deze algemene vergunning tijdelijk naar een andere lidstaat worden overgebracht, moeten uiterlijk drie jaar na de tijdelijke overbrenging weer naar het Vlaamse Gewest overgebracht worden, als vermeld in artikel 9, § 2, 4° van het Wapenhandelbesluit. Van de wederoverbrenging wordt een schriftelijk bewijs bijgehouden.<br /><br />10. Personen die gebruikmaken van deze algemene vergunning, moeten van hun overbrengingen op basis van de vergunning minstens zeven jaar een gedetailleerd en volledig overzicht bijhouden als vermeld in artikel 49, § 2, van het Wapenhandeldecreet en in artikel 58, § 1, en 60, § 1, van het Wapenhandelbesluit.<br /><br />11. Op basis van de overzichten, vermeld in punt 10, moeten personen die gebruikmaken van deze algemene vergunning, om de zes maanden over hun overbrengingen rapporteren aan de dienst Controle Strategische Goederen, als vermeld in artikel 49, § 1, van het Wapenhandeldecreet en in artikel 57, 58 en 60 van het Wapenhandelbesluit.<br /><br />§ 5. Uitzonderingen en beperkingen op het gebruik van de algemene vergunning, als vermeld in 14, § 7, tweede lid, van het Wapenhandeldecreet en artikelen 9, § 2, en 11 van het Wapenhandelbesluit<br /><br />12. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging voor toegelaten doeleinden van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het Wapenhandeldecreet.<br /><br />13. Deze algemene vergunning mag niet gebruikt worden voor de definitieve overbrenging van defensiegerelateerde producten als het op het moment van de voorgenomen overbrenging vaststaat dat het eindgebruik van de defensiegerelateerde producten zich zal afspelen buiten de Europese Unie en de eindgebruiker buiten de Europese Unie op dat moment bekend is, tenzij : <br />1° de eindgebruiker formeel deel uitmaakt van de strijdkrachten van een lidstaat van de EU of de NAVO; <br />2° de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit;<br />3° het land van eindgebruik een lidstaat van de NAVO is, een lidstaat van het Wassenaar Arrangement, vermeld in artikel 16 van het Wapenhandelbesluit, of een bevriend land of een bondgenoot als vermeld in artikel 26, § 4, eerste lid, van het voormelde decreet;<br />4° de overbrenging andere niet-essentiële onderdelen als vermeld in artikel 3, 4°, van het Wapenhandelbesluit, betreft, dan niet-essentiële onderdelen van gevoelige goederen, die de bestemmeling volledig zal integreren in zijn eigen product, vermeld in artikel 9, § 2, eerste lid, 2°, d), van het Wapenhandelbesluit.<br /><br />Personen die gebruikmaken van de algemene vergunning in het geval, vermeld in punt 13, 2°, houden een schriftelijk bewijs bij dat de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit.<br /><br />Personen die gebruikmaken van de algemene vergunning in het geval, vermeld in punt 13, 4°, houden een schriftelijke verklaring van de bestemmeling bij waarin die verklaart dat de betreffende onderdelen geïntegreerd zullen worden in zijn eigen product.<br /><br />14. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging van defensiegerelateerde producten naar personen of voor doeleinden ten aanzien waarvan het gebruik van de algemene vergunning met toepassing van artikel 14, § 7, tweede lid, en artikel 43 van het Wapenhandeldecreet en artikelen 46 tot en met 49 van het Wapenhandelbesluit werd beperkt.<br /><br />15. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging van defensiegerelateerde producten voor doeleinden die onder het toepassingsgebied vallen van algemene vergunningen nrs. 3 en 4, als vermeld in artikel 11 van het Wapenhandelbesluit.<br /><br />§ 6. Beperkingen op eindgebruik en uitvoer naar landen buiten de Europese Unie, als vermeld in artikel 9, § 2, van het Wapenhandelbesluit<br /><br />16. Defensiegerelateerde producten die op basis van deze algemene vergunning naar een andere lidstaat worden overgebracht, mogen niet aangewend worden in of uitgevoerd worden naar een land buiten de Europese Unie voor gebruik met of de ontwikkeling of productie van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het Wapenhandeldecreet.<br /><br />§ 7. Verdere voorwaarden, schorsing en beperking van de algemene vergunning, als vermeld in artikel 13 van het Wapenhandelbesluit <br /><br />17. Met toepassing van artikel 43 van het Wapenhandeldecreet en artikel 46 tot en met 49 van het Wapenhandelbesluit kan deze algemene vergunning geschorst worden of beperkt worden in gebruik.<br /><br />§ 8. Tijdelijke uitsluiting van personen die gebruikmaken van de algemene vergunning <br /><br />18. Met toepassing van artikel 44 van het Wapenhandeldecreet en artikel 50 en 51 van het Wapenhandelbesluit kan een persoon tijdelijk van het gebruik van deze algemene vergunning uitgesloten worden.<br /><br />§ 9. Inwerkingtreding<br /><br />19. Deze algemene vergunning treedt in werking op 30 juni 2012.
+Algemene vergunning voor de overbrenging van defensiegerelateerde producten in het kader van een intergouvernementeel samenwerkingsprogramma als vermeld in artikel 14, § 2, 5°, van het Wapenhandeldecreet en artikel 9, § 1, van het Wapenhandelbesluit (Algemene Vergunning nr. 5)<br>
+<br>
+§ 1. Defensiegerelateerde producten<br>
+<br>
+1. Deze algemene vergunning geldt voor alle defensiegerelateerde producten en productcategorieën, opgenomen in de gemeenschappelijke EU-lijst van militaire goederen.<br>
+<br>
+§ 2. Bestemmingen en bestemmelingen<br>
+<br>
+2. Deze algemene vergunning geldt voor de overbrenging door personen met woonplaats of maatschappelijke zetel in het Vlaamse Gewest naar bestemmelingen die gevestigd zijn in de lidstaten van de Europese Unie die deelnemen aan een intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit, met uitzondering van bestemmelingen die gevestigd zijn in het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg.<br>
+<br>
+§ 3. Toegelaten doeleinden voor het gebruik van de algemene vergunning<br>
+<br>
+3. Deze algemene vergunning mag alleen gebruikt worden voor overbrengingen die noodzakelijk zijn voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit.<br>
+<br>
+§ 4. Voorwaarden voor het gebruik van de algemene vergunning<br>
+<br>
+4. Personen die willen gebruikmaken van deze algemene vergunning voor definitieve overbrengingen, moeten houder zijn van een voorafgaande machtiging als vermeld in artikel 10, § 1, van het Wapenhandeldecreet en in artikel 29 tot en met 31 van het Wapenhandelbesluit.<br>
+<br>
+5. Voor een persoon van deze algemene vergunning kan gebruikmaken, moet hij zich registreren bij de dienst Controle Strategische Goederen, vermeld in artikel 14, § 6, van het Wapenhandeldecreet en in artikel 10 van het Wapenhandelbesluit. Hij kan pas overbrengingen op basis van deze algemene vergunning verrichten als hij van de dienst Controle Strategische Goederen een bevestiging van de registratie heeft ontvangen.<br>
+<br>
+6. Voor de eerste overbrenging naar een bepaalde bestemmeling op basis van deze algemene vergunning moet&nbsp;de gebruiker aan de bevoegde dienst een schriftelijke bewijs voorleggen dat de bestemmeling daadwerkelijk deelneemt aan het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit.<br>
+<br>
+7. Bij elke overbrenging op basis van deze algemene vergunning moet op de handelsbescheiden die bij de levering gevoegd zijn, aangegeven worden dat wordt gebruikgemaakt van deze algemene vergunning en moet het verkregen registratienummer vermeld worden, vermeld in artikel 10, § 4, tweede lid, 2°, van het Wapenhandelbesluit.<br>
+<br>
+8. Uiterlijk op het moment van de overbrenging moet de bestemmeling op de hoogte gebracht worden van de beperkingen, vermeld in paragraaf 6 van deze vergunning, als vermeld in artikel 12, § 2, tweede lid, van het Wapenhandeldecreet, en moet daarvan een schriftelijk bewijs bijgehouden worden.<br>
+<br>
+9. De defensiegerelateerde producten die op basis van deze algemene vergunning tijdelijk naar een andere lidstaat worden overgebracht, moeten uiterlijk drie jaar na de tijdelijke overbrenging weer naar het Vlaamse Gewest overgebracht worden, als vermeld in artikel 9, § 2, 4° van het Wapenhandelbesluit. Van de wederoverbrenging wordt een schriftelijk bewijs bijgehouden.<br>
+<br>
+10. Personen die gebruikmaken van deze algemene vergunning, moeten van hun overbrengingen op basis van de vergunning minstens zeven jaar een gedetailleerd en volledig overzicht bijhouden als vermeld in artikel 49, § 2, van het Wapenhandeldecreet en in artikel 58, § 1, en 60, § 1, van het Wapenhandelbesluit.<br>
+<br>
+11. Op basis van de overzichten, vermeld in punt 10, moeten personen die gebruikmaken van deze algemene vergunning, om de zes maanden over hun overbrengingen rapporteren aan de dienst Controle Strategische Goederen, als vermeld in artikel 49, § 1, van het Wapenhandeldecreet en in artikel 57, 58 en 60 van het Wapenhandelbesluit.<br>
+<br>
+§ 5. Uitzonderingen en beperkingen op het gebruik van de algemene vergunning, als vermeld in 14, § 7, tweede lid, van het Wapenhandeldecreet en artikelen 9, § 2, en 11 van het Wapenhandelbesluit<br>
+<br>
+12. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging voor toegelaten doeleinden van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het Wapenhandeldecreet.<br>
+<br>
+13. Deze algemene vergunning mag niet gebruikt worden voor de definitieve overbrenging van defensiegerelateerde producten als het op het moment van de voorgenomen overbrenging vaststaat dat het eindgebruik van de defensiegerelateerde producten zich zal afspelen buiten de Europese Unie en de eindgebruiker buiten de Europese Unie op dat moment bekend is, tenzij :<br>
+1° de eindgebruiker formeel deel uitmaakt van de strijdkrachten van een lidstaat van de EU of de NAVO;<br>
+2° de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit;<br>
+3° het land van eindgebruik een lidstaat van de NAVO is, een lidstaat van het Wassenaar Arrangement, vermeld in artikel 16 van het Wapenhandelbesluit, of een bevriend land of een bondgenoot als vermeld in artikel 26, § 4, eerste lid, van het voormelde decreet;<br>
+4° de overbrenging&nbsp;niet-essentiële onderdelen als vermeld in artikel 3, 4°, van het Wapenhandelbesluit, betreft,&nbsp;die de bestemmeling volledig zal integreren in zijn eigen product, vermeld in artikel 9, § 2, eerste lid, 2°, d), van het Wapenhandelbesluit.<br>
+<br>
+Personen die gebruikmaken van de algemene vergunning in het geval, vermeld in punt 13, 2°, houden een schriftelijk bewijs bij dat de uitvoer noodzakelijk is voor de uitvoering van het intergouvernementeel samenwerkingsprogramma tussen lidstaten van de EU voor de ontwikkeling, de productie en het gebruik van een of meer defensiegerelateerde producten waarbij de betreffende overbrenging aansluit.<br>
+<br>
+Personen die gebruikmaken van de algemene vergunning in het geval, vermeld in punt 13, 4°, houden een schriftelijke verklaring van de bestemmeling bij waarin die verklaart dat de betreffende onderdelen geïntegreerd zullen worden in zijn eigen product.<br>
+<br>
+14. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging van defensiegerelateerde producten naar personen of voor doeleinden ten aanzien waarvan het gebruik van de algemene vergunning met toepassing van artikel 14, § 7, tweede lid, en artikel 43 van het Wapenhandeldecreet en artikelen 46 tot en met 49 van het Wapenhandelbesluit werd beperkt.<br>
+<br>
+15. Deze algemene vergunning mag niet gebruikt worden voor de overbrenging van defensiegerelateerde producten voor doeleinden die onder het toepassingsgebied vallen van algemene vergunningen nrs. 3 en 4, als vermeld in artikel 11 van het Wapenhandelbesluit.<br>
+<br>
+§ 6. Beperkingen op eindgebruik en uitvoer naar landen buiten de Europese Unie, als vermeld in artikel 9, § 2, van het Wapenhandelbesluit<br>
+<br>
+16. Defensiegerelateerde producten die op basis van deze algemene vergunning naar een andere lidstaat worden overgebracht, mogen niet aangewend worden in of uitgevoerd worden naar een land buiten de Europese Unie voor gebruik met of de ontwikkeling of productie van defensiegerelateerde producten waarvan de overbrenging verboden is op basis van artikel 3, § 1, eerste lid, van het Wapenhandeldecreet.<br>
+<br>
+16/1 Als een persoon die gebruikmaakt van die algemene vergunning binnen drie jaar na een definitieve overbrenging op basis daarvan informatie verkrijgt over de wijziging van het doel, de bestemming of de uitvoer van de overgebrachte goederen, brengt hij of zij de bevoegde dienst daarvan op de hoogte als vermeld in artikel 9, § 2, vijfde lid, van dit besluit.<br>
+<br>
+§ 7. Verdere voorwaarden, schorsing en beperking van de algemene vergunning, als vermeld in artikel 13 van het Wapenhandelbesluit<br>
+<br>
+17. Met toepassing van artikel 43 van het Wapenhandeldecreet en artikel 46 tot en met 49 van het Wapenhandelbesluit kan deze algemene vergunning geschorst worden of beperkt worden in gebruik.<br>
+<br>
+§ 8. Tijdelijke uitsluiting van personen die gebruikmaken van de algemene vergunning<br>
+<br>
+18. Met toepassing van artikel 44 van het Wapenhandeldecreet en artikel 50 en 51 van het Wapenhandelbesluit kan een persoon tijdelijk van het gebruik van deze algemene vergunning uitgesloten worden.<br>
+<br>
+§ 9. Inwerkingtreding<br>
+<br>
+19. Deze algemene vergunning treedt in werking op 30 juni 2012.
