@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029266,
+  "title": "Ministerieel besluit van 2018-03-15 houdende de aanwijzing van de fietssnelwegen, in uitvoering van het besluit van de Vlaamse Regering van 25 januari 2013 tot bepaling van de nadere regels betreffende de organisatorische omkadering, de financiering en de samenwerking voor het mobiliteitsbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029266/VolledigDocument?datum=2018-05-10",
+  "source_sha256": "b78487b991c3f82e701a794d89c70f235802e607bb9563cab5d26502e8b0a06e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029266&param=informatie",
+  "as_of": "2018-05-10",
+  "made": "2018-03-15",
+  "gazette": "2018-04-30",
+  "numac": 2018011747,
+  "document_start": "2018-05-10",
+  "document_end": null,
+  "in_force": "2018-05-10",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2018-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
