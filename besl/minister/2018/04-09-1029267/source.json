@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029267,
+  "title": "Ministerieel besluit van 2018-04-09 tot delegatie van sommige bevoegdheden voor de toepassing van diverse ministeriële besluiten inzake de rijopleiding en het rijexamen aan het hoofd van het Departement Mobiliteit en Openbare Werken",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029267/VolledigDocument?datum=2018-05-10",
+  "source_sha256": "7fccc53579dbb8e6d8f85bfa92a73d75e6e1ed9ee3080c8c8f8af8dff952b790",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029267&param=informatie",
+  "as_of": "2018-05-10",
+  "made": "2018-04-09",
+  "gazette": "2018-04-30",
+  "numac": 2018030865,
+  "document_start": "2018-05-10",
+  "document_end": null,
+  "in_force": "2018-05-10",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2018-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
