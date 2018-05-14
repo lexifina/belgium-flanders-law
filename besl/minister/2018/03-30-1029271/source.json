@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029271,
+  "title": "Ministerieel besluit van 2018-03-30 tot vaststelling van het model en de afmetingen van de stembiljetten bij de lokale en provinciale verkiezingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029271/VolledigDocument?datum=2018-05-14",
+  "source_sha256": "2715bf3b53581acafe941258837bd749766e5afa300e467ab46ab5a8486ce490",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029271&param=informatie",
+  "as_of": "2018-05-14",
+  "made": "2018-03-30",
+  "gazette": "2018-05-04",
+  "numac": 2018011849,
+  "document_start": "2018-05-14",
+  "document_end": "2024-05-09",
+  "in_force": "2018-05-14",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2018-05-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
