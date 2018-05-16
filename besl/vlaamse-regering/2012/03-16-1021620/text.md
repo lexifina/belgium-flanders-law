@@ -36,60 +36,60 @@ Besluit :
 
 ### ART. 1.
 
-Het aantal te verkiezen gemeenteraadsleden en het maximumaantal schepenen per gemeente worden vastgesteld zoals opgenomen in bijlage 1, die bij dit besluit is gevoegd.
+...
 
 ### ART. 2.
 
-Het aantal te verkiezen leden van de raad voor maatschappelijk welzijn in de Vlaamse randgemeenten en in Voeren wordt vastgesteld zoals opgenomen in bijlage 2, die bij dit besluit is gevoegd.
+...
 
 ### ART. 3.
 
-Het aantal te verkiezen stadsdistrictsraadsleden en het maximumaantal leden van het stadsdistrictscollege voor de stadsdistricten in Antwerpen worden vastgesteld zoals opgenomen in bijlage 3, die bij dit besluit is gevoegd.
+...
 
 ### ART. 4.
 
-Het aantal te verkiezen provincieraadsleden per provincie van het Vlaamse Gewest wordt vastgesteld zoals opgenomen in bijlage 4, die bij dit besluit is gevoegd.
+...
 
 ### ART. 5.
 
-Het aantal te verkiezen provincieraadsleden per provinciedistrict wordt vastgesteld zoals opgenomen in bijlage 5, die bij dit besluit is gevoegd.
+...
 
 ### ART. 6.
 
-Het besluit van de Vlaamse Regering van 28 april 2006 tot vaststelling van het aantal te verkiezen gemeenteraadsleden per gemeente, het aantal te verkiezen leden van de raden voor maatschappelijk welzijn van de randgemeenten en van de gemeente Voeren, het aantal te verkiezen districtsraadsleden in Antwerpen en van het aantal te begeven schepenmandaten per gemeente en het aantal leden van de districtscolleges in Antwerpen, gewijzigd bij het besluit van de Vlaamse Regering van 15 december 2006, wordt opgeheven.
+...
 
 ### ART. 7.
 
-Het besluit van de Vlaamse Regering van 9 juni 2006 tot verdeling van de provincieraadsleden over de kiesdistricten wordt opgeheven.
+...
 
 ### ART. 8.
 
-Het besluit van de Vlaamse Regering van 9 juni 2006 tot vaststelling van het aantal te verkiezen provincieraadsleden per provincie van het Vlaamse Gewest wordt opgeheven.
+...
 
 ### ART. 9.
 
-Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad.
+...
 
 ### ART. 10.
 
-De Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, is belast met de uitvoering van dit besluit.
+...
 
 ### BIJLAGE
 
-I. Lijst van de gemeenten op basis van artikel 5, § 3, en artikel 44, § 2, van het Gemeentedecreet :<br />aantal gemeenteraadsleden en maximumaantal schepenen op basis van het bevolkingsaantal van de gemeente<br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/04/30_1.pdf#page=38" title=" Bijlage 1" target="_blank" class="pdf">Bijlage 1</a> <br /><br />II. Lijst van de aantallen te verkiezen gemeenteraadsleden en van de maximumaantallen schepenen ter uitvoering van artikel 5, § 3, en artikel 44, § 2, van het Gemeentedecreet<br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/04/30_1.pdf#page=38" title=" Bijlage 1" target="_blank" class="pdf">Bijlage 1</a> <br />
+...
 
 ### BIJLAGE
 
-Lijst van de te verkiezen OCMW-raadsleden in de Vlaamse randgemeenten en Voeren op basis van het OCMW-decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, artikel 5 en 6, § 1, en op basis van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, artikel 17bis: aantal raadsleden van het OCMW en aantal leden van het vast bureau op basis van het bevolkingsaantal<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/04/30_1.pdf#page=46" title=" Bijlage 2" target="_blank" class="pdf">Bijlage 2</a> <br /><br />
+...
 
 ### BIJLAGE
 
-Lijst van de stadsdistricten op basis van artikel 273 en 274 van het Gemeentedecreet: aantal leden van de stadsdistrictraden en maximum aantal leden van het stadsdistrictcollege op basis van het  bevolkingsaantal<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/04/30_1.pdf#page=46" title=" Bijlage 3" target="_blank" class="pdf">Bijlage 3</a>
+...
 
 ### BIJLAGE
 
-Lijst van de aantallen te verkiezen provincieraadsleden op basis van artikel 5, § 3, van het Provinciedecreet<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/04/30_1.pdf#page=47" title=" Bijlage 4" target="_blank" class="pdf">Bijlage 4</a>
+...
 
 ### BIJLAGE
 
-Lijst van de aantallen te verkiezen provincieraadsleden per provinciedistrict overeenkomsig artikel 6, § 1, van het Provinciedecreet<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/04/30_1.pdf#page=48" title=" Bijlage 5" target="_blank" class="pdf">Bijlage 5</a>
+...
