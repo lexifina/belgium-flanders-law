@@ -2,16 +2,16 @@
   "codex_id": 1020481,
   "title": "Decreet van 2011-07-08 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020481/VolledigDocument?datum=2017-06-02",
-  "source_sha256": "b1765483a9ab2bede84523367cfb420f93b8a75a5bc5c5bbe3c03259b4ca7088",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020481/VolledigDocument?datum=2018-05-18",
+  "source_sha256": "75ae37c308c45f6f9be7d9698a9d2114a186e9d26a0a5461edd9b0bbad7a93f2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020481&param=informatie",
-  "as_of": "2017-06-02",
+  "as_of": "2018-05-18",
   "made": "2011-07-08",
   "gazette": "2011-08-05",
   "numac": 2011035642,
   "document_start": "2012-01-01",
   "document_end": "2019-12-31",
-  "in_force": "2017-06-02",
-  "article_versions": 90,
-  "record_form": "consolidated version as in force on 2017-06-02; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-05-18",
+  "article_versions": 91,
+  "record_form": "consolidated version as in force on 2018-05-18; future article versions excluded; article text as the API gives it"
 }

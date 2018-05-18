@@ -364,6 +364,10 @@ De toekenning van een subsidie is gebaseerd op een wederzijdse verbintenis waarb
 
 Een subsidie kan toegekend worden in een van de volgende vormen :<br />1° als een algemene werkingssubsidie die toegekend wordt ter ondersteuning van de personeels- en werkingskosten voortvloeiend uit een structurele activiteit die een continu en permanent karakter vertoont.<br />Een algemene werkingssubsidie kan betrekking hebben op een van de volgende activiteiten :<br />a) de volledige activiteit van de begunstigde;<br />b) een afgescheiden deelactiviteit;<br />2° als een investeringssubsidie die toegekend wordt ter ondersteuning van de investeringen ten behoeve van een structurele activiteit die een continu en permanent karakter vertoont;<br />3° als een projectsubsidie die toegekend wordt ter ondersteuning van de specifieke kosten voortvloeiend uit een activiteit die zowel qua opzet of doelstelling als in tijd kan worden afgebakend.<br /><br />Afhankelijk van de opzet of de doelstelling van een project kan de subsidie betrekking hebben op een van de volgende kosten :<br />a) specifieke personeels- en werkingskosten;<br />b) een specifieke investering.<br />
 
+### ART 56bis.
+
+De geplande terugbetaling van een voorfinanciering, inclusief rente-vergoeding, verricht door een impactinvesteerder in het kader van een SIO-project als vermeld in het decreet van 20 april 2018 houdende de invoering van sociale-impactobligaties, is een bijzondere vorm van projectsubsidie.
+
 ### ART. 57.
 
 De Vlaamse Regering stelt de regels vast voor de toekenning, de terugvordering en de verantwoording van de subsidies, de indiening van aanvragen en verantwoordingsstukken, de eenmalige gegevensopvraging en voor de onverenigbaarheden. Ze kan de voorwaarden bepalen voor het elektronisch aanvragen en het elektronisch indienen van verantwoordingsstukken en stelt ook de procedure voor de controle op de aanwending van de subsidies vast.
