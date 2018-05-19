@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029278,
+  "title": "Besluit van de Vlaamse Regering van 2018-04-20 houdende tot het niet-toepasselijk verklaren van het koninklijk besluit van 4 juni 1958 betreffende de vrije stroken langs de autosnelwegen A201 en R0 op het grondgebied van de gemeenten Zaventem en Diegem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029278/VolledigDocument?datum=2018-05-19",
+  "source_sha256": "58f1e1346dcd4b63f99bf9be2e0f567644aaedfc124090052c3c0d8a0b9e9719",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029278&param=informatie",
+  "as_of": "2018-05-19",
+  "made": "2018-04-20",
+  "gazette": "2018-05-09",
+  "numac": 2018030931,
+  "document_start": "2018-05-19",
+  "document_end": null,
+  "in_force": "2018-05-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-05-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
