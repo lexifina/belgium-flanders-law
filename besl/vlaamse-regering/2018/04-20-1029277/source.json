@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029277,
+  "title": "Besluit van de Vlaamse Regering van 2018-04-20 houdende tot het niet-toepasselijk verklaren van het koninklijk besluit van 4 juni 1958 betreffende de vrije stroken langs de autosnelweg A12 op het grondgebied van de gemeenten Meise en Grimbergen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029277/VolledigDocument?datum=2018-05-19",
+  "source_sha256": "68dd593048b789a8731c52087f5721ecc9c174d0929b159efa20a9daa8d1019a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029277&param=informatie",
+  "as_of": "2018-05-19",
+  "made": "2018-04-20",
+  "gazette": "2018-05-09",
+  "numac": 2018030930,
+  "document_start": "2018-05-19",
+  "document_end": null,
+  "in_force": "2018-05-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-05-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
