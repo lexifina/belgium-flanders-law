@@ -26,7 +26,15 @@ Op weekbasis worden in de onderscheiden fasen, met uitzondering van de integrati
 
 ### ART. 6.
 
-§ 1. De integratiefase in de vorm van alternerende beroepsopleiding   bestaat uit 2 dagen vorming op school en 3 dagen werkervaring in een regulier   bedrijf. Ze omvat wekelijks ten minste 14 lesuren op school en 24 uren   werkervaring in een regulier bedrijf.<BR><BR>Zowel algemene en sociale vorming   als beroepsgerichte vorming moet worden georganiseerd. De verhouding tussen deze   componenten mag vrij worden vastgelegd, in functie van de individuele behoeften   van de leerling.<BR><BR>De vorming op school of de werkervaring kan   uitzonderlijk gedurende een langere periode zonder onderbreking georganiseerd   worden, met een maximum van 3 weken. Afwijkingen kunnen door de   onderwijsinspectie worden toegestaan.<BR><BR>§ 2. ...<BR><BR>§ 3.   ...
+§ 1. De integratiefase in de vorm van alternerende beroepsopleiding bestaat uit 2 dagen vorming op school en 3 dagen werkervaring in een regulier bedrijf. Ze omvat wekelijks ten minste 14 lesuren op school en 24 uren werkervaring in een regulier bedrijf.<br>
+<br>
+Zowel algemene en sociale vorming als beroepsgerichte vorming moet worden georganiseerd. De verhouding tussen deze componenten mag vrij worden vastgelegd, in functie van de individuele behoeften van de leerling.<br>
+<br>
+De vorming op school of de werkervaring kan uitzonderlijk gedurende een langere periode zonder onderbreking georganiseerd worden, met een maximum van drie weken, als de klassenraad daarvoor een bijkomende motivering opstelt.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. ...
 
 ### ART. 7.
 
