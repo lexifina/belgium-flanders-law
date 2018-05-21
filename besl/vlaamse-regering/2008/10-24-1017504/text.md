@@ -234,11 +234,11 @@ De volgende certificaten gelden als een bewijs van beroepskwalificatie :<br>
 
 ### ART. 17.
 
-De aanvullende werkingsmiddelen voor het schooljaar 2017-2018, toegekend aan een centrum voor deeltijds beroepssecundair onderwijs als vermeld in artikel 86, § 1, 3°, van het decreet, worden als volgt vastgesteld:<br>
-1° 50 euro per jongere die minimaal 96 uur effectief in een voortraject heeft gepresteerd in het schooljaar 2016-2017 en voor zover als dusdanig door de organisator geregistreerd in de chronologische fiche en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd;<br>
-2° 0,50 euro per jongere per effectief gepresteerd uur in een brugproject in het schooljaar 2016-2017 met een maximum van achthonderd uur en voor zover als dusdanig door de organisator geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd;<br>
-3° 20 euro per jongere die deelneemt aan het project `intensieve begeleiding alternerend leren' in het schooljaar 2016-2017, en voor zover als dusdanig geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br>
-4° 2,25 euro per kalenderdag voor leerplichtige jongeren die in het schooljaar 2016-2017 contractueel in de fase arbeidsdeelname zitten, en 0,25 euro per kalenderdag voor niet-leerplichtige jongeren die in het schooljaar 2016-2017 contractueel in de fase arbeidsdeelname zitten, en voor zover als dusdanig geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding. Voor arbeidsdeelname, die inhoudelijk moet aansluiten bij de component leren, komen de volgende contracten in aanmerking:<br>
+De aanvullende werkingsmiddelen voor het schooljaar 2018-2019, toegekend aan een centrum voor deeltijds beroepssecundair onderwijs als vermeld in artikel 86, § 1, 3°, van het decreet, worden als volgt vastgesteld:<br>
+1° 50 euro per jongere die minimaal 96 uur effectief in een voortraject heeft gepresteerd in het schooljaar 2017-2018 en voor zover als dusdanig door de organisator geregistreerd in de chronologische fiche en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd;<br>
+2° 0,50 euro per jongere per effectief gepresteerd uur in een brugproject in het schooljaar 2017-2018 met een maximum van achthonderd uur en voor zover als dusdanig door de organisator geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd;<br>
+3° 20 euro per jongere die deelneemt aan het project `intensieve begeleiding alternerend leren' in het schooljaar 2017-2018, en voor zover als dusdanig geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br>
+4° 2,25 euro per kalenderdag voor leerplichtige jongeren die in het schooljaar 2017-2018 contractueel in de fase arbeidsdeelname zitten, en 0,25 euro per kalenderdag voor niet-leerplichtige jongeren die in het schooljaar 2017-2018 contractueel in de fase arbeidsdeelname zitten, en voor zover als dusdanig geregistreerd in Mijn Loopbaan van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding. Voor arbeidsdeelname, die inhoudelijk moet aansluiten bij de component leren, komen de volgende contracten in aanmerking:<br>
 a) deeltijds arbeidscontract;<br>
 b) werknemersleercontract;<br>
 c) contract individuele beroepsopleiding van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
@@ -249,7 +249,7 @@ g) werkervaringsproject cfr. tewerkstelling in het kader van artikel 60, § 7, v
 h) een overeenkomst van alternerende opleiding zoals bedoeld in artikel 3, 1°, van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen;<br>
 i) een stageovereenkomst alternerende opleiding zoals bedoeld in artikel 3, 2°, van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen.<br>
 <br>
-Een jongere waarvoor tijdens de looptijd van zijn contract in het schooljaar 2016-2017 de leerplicht eindigt, wordt voor de toepassing van deze bepaling beschouwd als een leerplichtige jongere.<br>
+Een jongere waarvoor tijdens de looptijd van zijn contract in het schooljaar 2017-2018 de leerplicht eindigt, wordt voor de toepassing van deze bepaling beschouwd als een leerplichtige jongere.<br>
 <br>
 De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair onderwijs worden gevoegd bij het voorschot op het werkingsbudget.
 
@@ -261,7 +261,7 @@ De aanvullende werkingsmiddelen voor de centra voor deeltijds beroepssecundair o
 
 ### ART. 19.
 
-De aanvullende werkingsmiddelen voor het schooljaar 2017-2018, toegekend aan Syntra Vlaanderen als vermeld in artikel 93, § 2, van het decreet, worden als volgt vastgesteld: 50 euro per jongere die minimaal 96 uur effectief in een voortraject heeft gepresteerd in het schooljaar 2016-2017 en voor zover als dusdanig door de organisator geregistreerd in de chronologische fiche en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd.
+De aanvullende werkingsmiddelen voor het schooljaar 2018-2019, toegekend aan Syntra Vlaanderen als vermeld in artikel 93, § 2, van het decreet, worden als volgt vastgesteld: 50 euro per jongere die minimaal 96 uur effectief in een voortraject heeft gepresteerd in het schooljaar 2017-2018 en voor zover als dusdanig door de organisator geregistreerd in de chronologische fiche en door de opdrachthouder van de bevoegde dienst van het Vlaams Ministerie van Onderwijs en Vorming geverifieerd.
 
 ## HOOFDSTUK XIII. [... (opgeh. BVR 16 juli 2021, art. 43, I: 1 september 2021)]
 
