@@ -2,16 +2,16 @@
   "codex_id": 1027453,
   "title": "Besluit van de Vlaamse Regering van 2016-08-30 [betreffende de organisatie van stages en sociaal-maatschappelijke trainingen in het buitengewoon secundair onderwijs (verv. BVR 7 juli 2017, art. 27, I: 1 september 2017)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027453/VolledigDocument?datum=2017-09-01",
-  "source_sha256": "a4f74081aa6dca3a2f0ff680ebe504a72bdb85166eea88701e5b4e5249abeb2b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027453/VolledigDocument?datum=2018-05-21",
+  "source_sha256": "ebe0a8f25501d0a159ed4717853f1e00bf2a514dae91e1be9454ed9349d4f30b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027453&param=informatie",
-  "as_of": "2017-09-01",
+  "as_of": "2018-05-21",
   "made": "2016-08-30",
   "gazette": "2016-10-05",
   "numac": 2016036410,
   "document_start": "2016-09-01",
   "document_end": null,
-  "in_force": "2017-09-01",
+  "in_force": "2018-05-21",
   "article_versions": 37,
-  "record_form": "consolidated version as in force on 2017-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-21; future article versions excluded; article text as the API gives it"
 }
