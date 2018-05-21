@@ -132,12 +132,13 @@ Bovendien geldt als bijzondere toelatingsvoorwaarde voor onderstaande opleidinge
 Bovendien geldt als bijzondere toelatingsvoorwaarde voor onderstaande opleidingen waarin de leerling rechtstreeks met voedingswaren of -stoffen in aanraking komt en die waren kan verontreinigen of besmetten, dat de leerling medisch geschikt moet zijn bevonden. Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding, tenzij er een aanleiding is om de geschiktheid te herevalueren. Een ongeschiktheidsverklaring in de loop van het schooljaar impliceert de beslissing van de betrokken personen om de leerling uiterlijk op het einde van dat schooljaar de opleiding te laten stopzetten:<br>
 1° brood- en banketbakkerij duaal;<br>
 2° chocolatier duaal;<br>
-3° slagerij duaal.<br>
+3° slagerij duaal;<br>
+4° hotelreceptionist duaal.<br>
 <br>
 Bovendien gelden als bijzondere toelatingsvoorwaarden, rekening houdend met beroepsuitoefeningsvoorwaarden, voor de opleiding kinderbegeleider duaal:<br>
 1° van onberispelijk gedrag zijn, zoals dat blijkt uit een uittreksel uit het strafregister dat niet langer dan drie maanden voor de effectieve start van de opleiding door de betrokken leerling werd afgegeven;<br>
 2° uiterlijk op 30 september van het betrokken schooljaar in het bezit zijn van een attest van kennis van levensreddend handelen bij kinderen;<br>
-3° minimaal 18 jaar zijn.
+3° achttien jaar worden uiterlijk in het schooljaar waarin met de opleiding kinderbegeleider duaal wordt gestart.
 
 ### ART 5.
 
@@ -161,7 +162,7 @@ Voor de vaststelling van het pakket uren-leraar in het voltijds gewoon secundair
 
 Aan de scholen en centra in het secundair onderwijs die door de uitbreiding van het project worden gevat, wordt zowel voor het schooljaar 2017-2018 als voor het schooljaar 2018-2019 een financiële incentive toegekend voor zover de school of het centrum in kwestie op de eerste lesdag van oktober ten minste één regelmatige leerling telt in een duale opleiding.<br>
 <br>
-De incentive moet aantoonbaar voor de realisatie van de duale opleiding worden aangewend. Ze bedraagt voor elke school of centrum 10.000 euro. Indien het jaarlijks beschikbare krediet niet volledig is aangewend, kan het resterende krediet gelijkmatig verdeeld worden over de deelnemende scholen en centra tot een maximale incentive per school of centrum van 12.500 euro.
+De incentive moet aantoonbaar voor de realisatie van de duale opleiding worden aangewend. Ze bedraagt voor elke school of centrum 10.000 euro per duale opleiding.
 
 ## HOOFDSTUK 2 Wijziging van het besluit van de Vlaamse Regering van 31 juli 1990 tot vastlegging van het pakket "uren-leraar" in het voltijds secundair onderwijs
 
