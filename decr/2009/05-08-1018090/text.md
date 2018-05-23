@@ -840,7 +840,27 @@ Voor een opsporings- of winningsvergunning voor aardwarmte is artikel 32 van ove
 
 ## [Onderafdeling I. Toepassingsgebied (ing. decr. 2 maart 2018, art. 4, I: 23 mei 2018)]
 
+### ART 63/25/1.
+
+De Vlaamse Regering kan een gewestwaarborg verlenen aan de houder van een opsporingsvergunning voor aardwarmte of van een winningsvergunning voor aardwarmte om het korte termijn geologisch risico van een aardwarmteproject in de diepe ondergrond af te dekken onder de voorwaarden, vermeld in de Algemene Groepsvrijstellingsverordening, dit decreet en de uitvoeringsbesluiten ervan.
+
 ## [Onderafdeling II. Steunintensiteit en nadere regels (ing. decr. 2 maart 2018, art. 5, I: 23 mei 2018)]
+
+### ART 63/25/2.
+
+De steunintensiteit bij de waarborgpremie, zoals bepaald in artikel 63/25/3, wordt berekend als een percentage van de in aanmerking komende kosten. De in aanmerking komende kosten worden bepaald conform artikel 41 (6) van de Algemene Groepsvrijstellingsverordening. De steunintensiteit mag de maximale percentages, zoals opgenomen in artikel 41, (7) en (8), van de Algemene Groepsvrijstellingsverordening, niet overtreffen.
+
+### ART 63/25/3.
+
+In afwijking van artikel 8, vijfde lid, van het decreet van 7 mei 2004 houdende bepalingen inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest, betaalt de ontvanger van de waarborg bij de aanvraag en dus voorafgaand aan de start van het aardwarmteproject in de diepe ondergrond een premie als percentage van het maximale uitkeringsbedrag.
+
+### ART 63/25/4.
+
+De Vlaamse Regering bepaalt de regels voor de aanvraagprocedure om een waarborg te verkrijgen, de vormelijke en inhoudelijke voorwaarden waaraan een dergelijke aanvraag moet voldoen, de maximale steunintensiteit, het premiepercentage, de in aanmerking komende kosten, de implementatietermijn voor het aardwarmteproject in de diepe ondergrond, de gevallen waarin de steun kan worden teruggevorderd, en de termijn waarbinnen het door het Vlaamse Gewest verzekerbaar geologisch risico moet vastgesteld worden om in aanmerking te komen voor een gewestwaarborg.
+
+### ART 63/25/5.
+
+De Vlaamse Regering bepaalt het jaarlijkse waarborgplafond en de manier waarop dit tussen verschillende aanvragen wordt verdeeld. Het maximale steunbedrag per onderneming per investeringsproject mag hierbij in elk geval de drempel zoals bepaald in artikel 4, (1), (s), van de Algemene Groepsvrijstellingsverordening niet overtreffen.
 
 ## [HOOFDSTUK III/2 Structuurvisie inzake de diepe ondergrond (ing. Decr.25 maart 2016, art. 37, I: te bepalen door de Vlaamse Regering)]
 
