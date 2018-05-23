@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029302,
+  "title": "Besluit van de Vlaamse Regering van 2018-04-20 tot wijziging van het besluit van de Vlaamse Regering van 15 juli 2011 tot uitvoering van het decreet van 8 mei 2009 betreffende de diepe ondergrond en tot wijziging van diverse besluiten, wat betreft de waarborgregeling voor het opsporen en winnen van aardwarmte in de diepe ondergrond",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029302/VolledigDocument?datum=2018-05-23",
+  "source_sha256": "f3eb191ad2066fd29baeb6e8d242554e8235b792037b876f98e2e758a39c1ca8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029302&param=informatie",
+  "as_of": "2018-05-23",
+  "made": "2018-04-20",
+  "gazette": "2018-05-22",
+  "numac": 2018031024,
+  "document_start": "2018-05-23",
+  "document_end": null,
+  "in_force": "2018-05-23",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-05-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
