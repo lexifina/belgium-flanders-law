@@ -34,7 +34,11 @@ Hij mag, zelfs buiten het ambt, rechtstreeks noch via een tussenpersoon, giften,
 
 ### ART. 7.
 
-De arrondissementscommissaris heeft het recht zijn persoonlijk dossier te raadplegen.<br /><br />Het persoonlijk dossier bevat ten minste de administratieve stukken zoals bepaald in bijlage 1.<br /><br />Aanbevelingen waaruit een levensbeschouwelijke, ideologische of politieke overtuiging blijkt, mogen niet voorkomen in het persoonlijk dossier.
+De arrondissementscommissaris heeft het recht zijn persoonlijk dossier te raadplegen overeenkomstig de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+Het persoonlijk dossier bevat ten minste de administratieve stukken zoals bepaald in bijlage 1.<br>
+<br>
+Aanbevelingen waaruit een levensbeschouwelijke, ideologische of politieke overtuiging blijkt, mogen niet voorkomen in het persoonlijk dossier.
 
 ## DEEL III DE BENOEMING EN DE INDIENSTTREDING
 
@@ -132,7 +136,16 @@ De gouverneur roept, binnen vijftien kalenderdagen die volgen op de datum van he
 
 ### ART. 26.
 
-§ 1. De bevoegde overheid roept de arrondissementscommissaris met een aangetekende brief op om hem in zijn verdediging te horen.<br /><br />De oproeping moet de volgende elementen vermelden:<br /><br />1. de ten laste gelegde feiten;<br /><br />2. de tuchtstraf die de overheid voorstelt;<br /><br />3. de plaats, de dag en het uur van het verhoor;<br /><br />4. het recht van de betrokkene om zich te laten bijstaan door een raadgever of zich te laten vertegenwoordigen door een raadgever bij gewettigde verhindering;<br /><br />5. de plaats waar en de termijn waarbinnen de arrondissementscommissaris het tuchtdossier kan inzien en het recht om gratis fotokopieën te maken.<br /><br />§ 2. De arrondissementscommissaris en zijn raadgever mogen het tuchtdossier op hun verzoek raadplegen voor de hoorzitting. Zij beschikken voor de inzage van het dossier over een termijn van ten minste vijftien kalenderdagen nadat zij de oproepingsbrief ontvangen hebben.
+§ 1. De bevoegde overheid roept de arrondissementscommissaris met een aangetekende brief op om hem in zijn verdediging te horen.<br>
+<br>
+De oproeping moet de volgende elementen vermelden:<br>
+1. de ten laste gelegde feiten;<br>
+2. de tuchtstraf die de overheid voorstelt;<br>
+3. de plaats, de dag en het uur van het verhoor;<br>
+4. het recht van de betrokkene om zich te laten bijstaan door een raadgever of zich te laten vertegenwoordigen door een raadgever bij gewettigde verhindering;<br>
+5. de plaats waar en de termijn waarbinnen de arrondissementscommissaris het tuchtdossier kan inzien en het recht om gratis fotokopieën te maken.<br>
+<br>
+§ 2. De arrondissementscommissaris en zijn raadgever mogen het tuchtdossier op hun verzoek raadplegen voor de hoorzitting. Met toepassing van artikel 23, lid 1, i), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) beschikken ze, in afwijking van artikel 12, lid 3, van de voormelde verordening, voor de inzage van het dossier over een termijn van ten minste vijftien kalenderdagen nadat ze de oproepingsbrief ontvangen hebben.
 
 ### ART. 27.
 
