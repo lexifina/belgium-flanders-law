@@ -130,7 +130,25 @@ Als de informatie, vermeld in artikel 8 tot en met 12, verandert na ingave   in 
 
 ### ART. 15.
 
-<P>In het kader van het GIPOD zullen er persoonsgegevens verwerkt   worden.<BR></P>  <P>Het agentschap wordt daarbij aangewezen als de verantwoordelijke voor de   verwerking, vermeld in artikel 1, § 4, eerste lid, van de wet van 8 december   1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de   verwerking van persoonsgegevens.<BR></P>  <P>In het kader van het GIPOD worden persoonsgegevens verwerkt om het doel van   het GIPOD, vermeld in artikel 4, te realiseren en om de taken uit te voeren die   door dit decreet aan het agentschap worden toegewezen.<BR></P>
+<p>In het kader van het GIPOD zullen er persoonsgegevens verwerkt worden.</p>
+
+<p>Het agentschap wordt daarbij aangewezen als de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).</p>
+
+<p>In het kader van het GIPOD worden persoonsgegevens verwerkt om het doel van het GIPOD, vermeld in artikel 4, te realiseren en om de taken uit te voeren die door dit decreet aan het agentschap worden toegewezen.</p>
+
+### ART 15/1.
+
+Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kan het agentschap beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het tweede tot en met het zesde lid.<br>
+<br>
+De mogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van het agentschap, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+Het agentschap moet de beslissing, vermeld in het eerste lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het eerste lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag het agentschap op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan het agentschap heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijst het agentschap hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.
 
 ## HOOFDSTUK 10 Handhaving
 
