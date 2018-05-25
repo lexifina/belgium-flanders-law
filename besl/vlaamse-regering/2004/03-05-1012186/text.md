@@ -34,7 +34,11 @@ Hij mag, zelfs buiten het ambt, rechtstreeks noch via een tussenpersoon, giften,
 
 ### ART. 7.
 
-De gouverneur heeft het recht zijn persoonlijk dossier te raadplegen.<br /><br />Het persoonlijk dossier bevat ten minste de administratieve stukken zoals bepaald in bijlage 1.<br /><br />Aanbevelingen waaruit een levensbeschouwelijke, ideologische of politieke overtuiging blijkt, mogen niet voorkomen in het persoonlijk dossier.
+De gouverneur heeft het recht zijn persoonlijk dossier te raadplegen overeenkomstig de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+Het persoonlijk dossier bevat ten minste de administratieve stukken zoals bepaald in bijlage 1.<br>
+<br>
+Aanbevelingen waaruit een levensbeschouwelijke, ideologische of politieke overtuiging blijkt, mogen niet voorkomen in het persoonlijk dossier.
 
 ## DEEL III DE BENOEMING
 
