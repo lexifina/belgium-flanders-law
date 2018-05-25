@@ -2,16 +2,16 @@
   "codex_id": 1017896,
   "title": "Decreet van 2009-03-13 Woonzorgdecreet",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017896/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "23f088235184108c1fe53aa90620de6612b431e83a17f18935b89a4163fa0209",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017896/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "f23673037029d6e96968af7682527dffaad8238d8b14a8b67cf6a1e2b002f9a5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017896&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2018-05-25",
   "made": "2009-03-13",
   "gazette": "2009-05-14",
   "numac": 2009202091,
   "document_start": "2010-01-01",
   "document_end": null,
-  "in_force": "2018-01-01",
+  "in_force": "2018-05-25",
   "article_versions": 88,
-  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
 }
