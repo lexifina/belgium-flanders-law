@@ -313,11 +313,15 @@ Het initiatief voor dat overleg wordt genomen door de partij die een wijziging o
 
 ### ART. 23.
 
-De gebruiker heeft recht op een dossier dat door de voorziening zorgvuldig wordt bijgehouden en veilig wordt bewaard.<br /><br />Het opstellen, het bewaren en het gebruik van het dossier zijn onderworpen aan de verplichtingen die voortvloeien uit de wetgeving over de verwerking van persoonsgegevens, en aan de verplichtingen, opgenomen in deze afdeling.<br /><br />
+De gebruiker heeft recht op een dossier dat door de voorziening zorgvuldig wordt bijgehouden en veilig wordt bewaard.<br>
+<br>
+Het opstellen, het bewaren en het gebruik van het dossier zijn onderworpen aan de verplichtingen die voortvloeien uit de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, en aan de verplichtingen, opgenomen in deze afdeling.<br>
+&nbsp;
 
 ### ART. 24.
 
-In het dossier worden in voorkomend geval de persoonsgegevens over de gezondheid van de gebruiker apart bijgehouden. De verwerking van en de toegang tot die gegevens is onderworpen aan de relevante bepalingen uit de wet van 22 augustus 2002 betreffende de rechten van de patiënt en de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.<br /><br />
+In het dossier worden in voorkomend geval de persoonsgegevens over de gezondheid van de gebruiker apart bijgehouden. De verwerking van en de toegang tot die gegevens is onderworpen aan de relevante bepalingen uit de wet van 22 augustus 2002 betreffende de rechten van de patiënt en de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
+&nbsp;
 
 ### ART. 25.
 
