@@ -39,7 +39,9 @@ De participanten brengen de gegevens inzake leefmilieu-informatie waarover zij m
 
 ### ART. 8.
 
-Onverminderd de toepassing van artikel 33 van VLAREM I, zijn de participanten van een relationele databank ertoe gehouden de gegevens van de databank als confidentieel te behandelen. Het is onder geen beding toegelaten de gegevens - al dan niet op gemagnetiseerde drager - aan niet-participanten over te dragen of door te geven, zonder voorafgaandelijke toelating van de stuurgroep, en rekening houdend met de wetgeving inzake privacy.<br /><br />De participanten hebben echter consultatie-recht in alle segmenten van de drie relationele databanken die deel uitmaken van de milieu-databank.
+Onverminderd de toepassing van artikel 33 van VLAREM I, zijn de participanten van een relationele databank ertoe gehouden de gegevens van de databank als confidentieel te behandelen. Het is onder geen beding toegelaten de gegevens - al dan niet op gemagnetiseerde drager - aan niet-participanten over te dragen of door te geven, zonder voorafgaandelijke toelating van de stuurgroep, en rekening houdend met de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
+<br>
+De participanten hebben echter consultatie-recht in alle segmenten van de drie relationele databanken die deel uitmaken van de milieu-databank.
 
 ### ART. 9.
 
