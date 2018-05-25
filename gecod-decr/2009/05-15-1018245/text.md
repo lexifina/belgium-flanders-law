@@ -4183,6 +4183,22 @@ De vordering tot vernietiging kan niet meer worden ingeroepen als de inbreuk op 
 
 De dagvaarding voor de correctionele rechtbank of het exploot tot inleiding van het geding, vermeld in artikel 6.3.1 en 6.3.3, wordt in het vergunningenregister van de gemeente waar het onroerend goed gelegen is, ingeschreven op verzoek van de deurwaarder die het exploot heeft opgemaakt.
 
+### ART 6.6.4.
+
+§ 1. In dit artikel wordt verstaan onder de hiertoe bevoegde overheid : de handhavende personeelsleden en de entiteiten, vermeld in artikel 6.1.1, 1°, 2°, 3°, 4°, 7° en 8°, die hun bevoegdheden uitoefenen in het kader van titel VI, alsook de andere overheden waaraan titel VI rechtstreeks taken inzake handhaving toebedeelt, met inbegrip van de burgemeester.<br>
+<br>
+§ 2. Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kan de hiertoe bevoegde overheid beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan wordt aan de voorwaarden, vermeld in het tweede tot en met het zesde lid.<br>
+<br>
+De mogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de hiertoe bevoegde overheid, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+De hiertoe bevoegde overheid moet de beslissing, vermeld in het eerste lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het eerste lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de hiertoe bevoegde overheid op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan de hiertoe bevoegde overheid heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het eerste lid, en tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijst de hiertoe bevoegde overheid hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.
+
 ## TITEL VII Diverse temporele en overgangsmaatregelen
 
 ## HOOFDSTUK I Algemene beginselen
