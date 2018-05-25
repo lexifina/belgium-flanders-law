@@ -62,7 +62,7 @@ Het verzoek tot deelname bevat al de volgende gegevens:<br>
 2° de identiteitsgegevens van de actoren die voor rekening van de kandidaat-deelnemer een verzoek tot deelname registreren of indienen, als vermeld in artikel 4, tweede lid, van het decreet van 25 april 2014;<br>
 3° het medisch-diagnostisch materiaal dat de belemmeringen van medische, mentale, psychische, psychiatrische of sociale aard aantoont die de kandidaat-deelnemer verhinderen om betaalde beroepsarbeid uit te voeren en dat de deelname aan een activeringstraject ondersteunt;<br>
 4° een beschrijving van het functioneren van de kandidaat-deelnemer en de drempels tot de arbeidsmarkt aan de hand van het ICF-instrument;<br>
-5° de toestemming van de kandidaat-deelnemer om gegevens te verwerken en uit te wisselen met welzijns- en zorgvoorzieningen en werkactoren met het oog op een mogelijke deelname aan een activeringstraject.<br>
+5° ....<br>
 <br>
 § 2. Bij registratie of indiening van een verzoek tot deelname door een van de actoren, vermeld in artikel 4, tweede lid, 2° en 3°, van het decreet van 25 april 2014, bezorgt die actor het ingevulde formulier.<br>
 &nbsp;
