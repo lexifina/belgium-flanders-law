@@ -195,16 +195,281 @@ Bijlage 1. Omschrijving en operationele definitie van de term persoonlijkheidson
 
 ### BIJLAGE
 
-Bijlage 2. De gedragscode private arbeidsbemiddeling, vermeld in artikel 19<br /><br />1° Deze gedragscode is van toepassing op alle activiteiten van private arbeidsbemiddeling, met uitzondering van outplacementactiviteiten en uitzendactiviteiten.<br /><br />2° Het bureau weigert elke opdracht die in strijd is met de gedragscode.<br /><br />3° Het bureau aanvaardt slechts opdrachten voor vacatures die bestaan of binnen voorzienbare termijn zullen ontstaan, evenals opdrachten van werknemers en werkzoekenden bij het zoeken van een nieuwe tewerkstelling.<br /><br />4° Het bureau mag tijdens de procedure geen onderscheid maken op grond van handicap, gezondheidstoestand of seksuele geaardheid, behalve als dat wettelijk is vereist of toegelaten.<br /><br />5° Het bureau verbindt er zich toe naar aanleiding van de private arbeidsbemiddelingsactiviteiten geen maximumleeftijdsgrens te stellen.<br /><br />6° Het bureau is ertoe gehouden de bepalingen na te leven van de wetgeving betreffende de gelijke behandeling van mannen en vrouwen ten aanzien van de arbeidsvoorwaarden, de toegang tot het arbeidsproces, de beroepsopleiding en de promotiekansen voor de toegang tot een zelfstandig beroep.<br /><br />7° Het bureau is ertoe gehouden de bepalingen na te leven van de wet van 30 juli 1981 tot bestraffing van bepaalde door racisme of xenofobie ingegeven daden.<br /><br />8° Het bureau is ertoe gehouden de bepalingen na te leven van de wet van 24 mei 1921 tot waarborging der vrijheid van vereniging.<br /><br />9° Het bureau mag geen activiteiten verrichten die leiden tot werkzaamheden die worden verboden krachtens de wetgeving op de kinderarbeid.<br /><br />10° Het bureau verbindt er zich toe geen werknemers te werven voor of te plaatsen in arbeidsplaatsen die onaanvaardbare risico's en gevaren inhouden voor de werknemers of waarin de werknemers het slachtoffer dreigen te worden van misbruik of van een discriminerende behandeling.<br /><br />11° Alle kosten die verbonden zijn aan de opdracht, vallen ten laste van de opdrachtgever en het bureau.<br /><br />12° De medewerking van de kandidaten moet berusten op overleg en vrijwilligheid.<br /><br />Het bureau zal een bijzondere discretie en omzichtigheid hanteren als het kandidaten benadert bij de uitoefening van hun professionele activiteiten.<br /><br />13° Het bureau geeft aan de kandidaten een duidelijk en objectief beeld van zijn diensten en werkwijze. Het verduidelijkt zijn doelstellingen, methoden en de context van zijn optreden. Het stelt de kandidaat op zijn vraag in kennis van de gedragscode.<br /><br />Het bureau verstrekt aan de kandidaten voldoende informatie over de openstaande arbeidsplaats. De volgende gegevens worden zo snel mogelijk uitdrukkelijk vermeld :<br />a) de naam en de aard van de functie en de functievereisten;<br />b) de naam, het adres en het werkdomein van de opdrachtgever;<br />c) de plaats waar de functie verricht moet worden, behalve als dat vooraf niet kan worden vastgesteld of indien het gaat om functies die niet aan een bepaalde plaats van tewerkstelling gebonden zijn;<br />d) de naam en het telefoonnummer van een contactpersoon;<br />e) de bijzondere arbeidsvoorwaarden en -omstandigheden;<br />f) de aard, een indicatie van de tijdsduur en het verloop van de bemiddelingsprocedure;<br />g) eventueel, de afname van psychologische en/of medische onderzoeken;<br />h) eventueel, de opname in een geautomatiseerd bestand.<br /><br />Bij arbeidsbemiddeling van werknemers in het buitenland moet die informatie ook worden verstrekt in hun eigen taal of in een taal die ze begrijpen.<br /><br />14° Het bureau verbindt er zich toe de bemiddeling binnen een redelijke termijn te laten verlopen. Het bureau dient zich in het bijzonder houden aan de concrete afspraken die gemaakt zijn bij het opstellen van de opdracht.<br /><br />15° Het bureau waarborgt alle verstrekte inlichtingen op vertrouwelijke wijze te behandelen.<br /><br />Informatie over een kandidaat kan slechts aan derden worden doorgegeven na uitdrukkelijke toestemming van de kandidaat.<br /><br />Verder dient het bureau de volgende gedragsregels terzake respecteren :<br />1° het bureau waakt erover dat alle personeelsleden de vertrouwelijkheid van de persoonlijke gegevens respecteren;<br />2° persoonlijke gegevens moeten in principe verkregen worden van de werknemer zelf; als het bureau het noodzakelijk acht persoonlijke gegevens in te winnen bij derden, dient de werknemer daarvan vooraf op de hoogte gebracht en moet hij daarvoor zijn toestemming verlenen. De werknemer ondertekent daarvoor een verklaring waarvan hij de draagwijdte duidelijk kan begrijpen en die minimum volgende gegevens bevat : de identiteit van de persoon, de identiteit van de organisaties of personen, de aard van de gegevens, de redenen voor opvraging van de gegevens en de periode waarin de toestemming zal worden gebruikt. Als het curriculum vitae uitdrukkelijk naar een referentiepersoon wordt verwezen, geldt dat als impliciete toestemming van de werknemer;<br />3° er worden geen persoonlijke gegevens ingewonnen en opgeslagen die niet noodzakelijk zijn voor de opdracht;<br />4° de persoonlijke gegevens worden bewaard en gecodeerd op een wijze die de werknemer kan begrijpen en die hem geen enkel kenmerk toedicht met een mogelijk discriminerend effect tot gevolg;<br />5° de werknemer kan op elk moment zijn toestemming intrekken om gegevens die tot de persoonlijke levenssfeer behoren, op te vragen en te gebruiken.<br /><br />Het bureau verbindt er zich toe dossiers met persoonsgegevens slechts bij te houden zolang de kandidaat dat wenst of zolang dat nodig is voor de concrete opdracht.<br /><br />Het bureau is ertoe gehouden de in het dossier van de opdrachtgever of de werknemer bijgehouden gegevens te corrigeren als de opdrachtgever of de werknemer daarom verzoekt.<br /><br />16° Het bureau mag medische gegevens slechts inwinnen als dat noodzakelijk is om te bepalen of de werknemer in staat is een bepaalde functie uit te oefenen of te voldoen aan de eisen van gezondheid en veiligheid.<br /><br />17° Het bureau mag geen genetische testen verrichten of laten verrichten.<br /><br />18° Het bureau verbindt zich ertoe om alle kandidaten schriftelijk op de hoogte te brengen van de beslissing die over hen genomen is en dit binnen een redelijke termijn.<br /><br />In geval van afwijzing van de kandidaat vermeldt het bureau uitdrukkelijk de redenen hiervan.<br /><br />De kandidaat heeft, op aanvraag, recht op informatie over de resultaten van interviews, tests en praktische proeven.<br /><br />19° Het bureau verbindt er zich toe geen schadevergoeding te vragen van werknemers die de procedure vroegtijdig stopzetten of niet ingaan op de vacature waarvoor zij zich kandidaat hebben gesteld.<br /><br />20° De overlegging van gezegelde afschriften van diploma's, getuigschriften, attesten en andere stukken mogen door het bureau pas gevraagd worden na afloop van de bemiddelingsprocedure.<br /><br />21° Het bureau verbindt er zich toe in bemiddelingsactiviteiten het Nederlands te gebruiken conform de bepalingen van de taalwetgeving.<br /><br />22° Als een sollicitant die onderworpen is aan de werklozencontrole, aan een selectieprocedure deelneemt, is het bureau ertoe gehouden op verzoek van de sollicitant een bewijsschrift te overhandigen waarop de datum en het uur van het bezoek wordt vermeld.<br /><br />23° Het bureau organiseert de selectie zo dat de verplaatsingen van de sollicitanten zoveel mogelijk worden beperkt.<br /><br />24° Als de selectieprocedure een productieve praktische proef omvat, mag die proef niet langer duren dan nodig is om de bekwaamheid van de sollicitant te onderzoeken.<br /><br />25° Het bureau dat activiteiten van arbeidsbemiddeling van schouwspelartiesten verricht en waar de private arbeidsbemiddeling wordt aangeboden samen met andere diensten, moet :<br />1° in de overeenkomst met de opdrachtgever - de betreffende gegevens (onder meer beschrijving van de werkwijze, honoraria, onkosten, betalingswijze en indicatie van de tijdsduur) met betrekking tot de bemiddelingsopdracht, afzonderlijk vermelden;<br />2° de opdrachtgever wijzen op zijn sociale en fiscale verplichtingen, en de opdracht weigeren indien blijkt dat de opdrachtgever die verplichtingen niet nakomt.<br /><br />26° Het bureau dat activiteiten van arbeidsbemiddeling van sportbeoefenaars verricht, informeert de werknemer onverwijld en gedetailleerd over alle initiatieven die worden genomen voor de werkgevers en over de initiatieven die door de werkgevers werden genomen voor het bureau.
+Bijlage 2. De gedragscode private arbeidsbemiddeling, vermeld in artikel 19<br>
+<br>
+1° Deze gedragscode is van toepassing op alle activiteiten van private arbeidsbemiddeling, met uitzondering van outplacementactiviteiten en uitzendactiviteiten.<br>
+<br>
+2° Het bureau weigert elke opdracht die in strijd is met de gedragscode.<br>
+<br>
+3° Het bureau aanvaardt slechts opdrachten voor vacatures die bestaan of binnen voorzienbare termijn zullen ontstaan, evenals opdrachten van werknemers en werkzoekenden bij het zoeken van een nieuwe tewerkstelling.<br>
+<br>
+4° Het bureau mag tijdens de procedure geen onderscheid maken op grond van handicap, gezondheidstoestand of seksuele geaardheid, behalve als dat wettelijk is vereist of toegelaten.<br>
+<br>
+5° Het bureau verbindt er zich toe naar aanleiding van de private arbeidsbemiddelingsactiviteiten geen maximumleeftijdsgrens te stellen.<br>
+<br>
+6° Het bureau is ertoe gehouden de bepalingen na te leven van de wetgeving betreffende de gelijke behandeling van mannen en vrouwen ten aanzien van de arbeidsvoorwaarden, de toegang tot het arbeidsproces, de beroepsopleiding en de promotiekansen voor de toegang tot een zelfstandig beroep.<br>
+<br>
+7° Het bureau is ertoe gehouden de bepalingen na te leven van de wet van 30 juli 1981 tot bestraffing van bepaalde door racisme of xenofobie ingegeven daden.<br>
+<br>
+8° Het bureau is ertoe gehouden de bepalingen na te leven van de wet van 24 mei 1921 tot waarborging der vrijheid van vereniging.<br>
+<br>
+9° Het bureau mag geen activiteiten verrichten die leiden tot werkzaamheden die worden verboden krachtens de wetgeving op de kinderarbeid.<br>
+<br>
+10° Het bureau verbindt er zich toe geen werknemers te werven voor of te plaatsen in arbeidsplaatsen die onaanvaardbare risico's en gevaren inhouden voor de werknemers of waarin de werknemers het slachtoffer dreigen te worden van misbruik of van een discriminerende behandeling.<br>
+<br>
+11° Alle kosten die verbonden zijn aan de opdracht, vallen ten laste van de opdrachtgever en het bureau.<br>
+<br>
+12° De medewerking van de kandidaten moet berusten op overleg en vrijwilligheid.<br>
+<br>
+Het bureau zal een bijzondere discretie en omzichtigheid hanteren als het kandidaten benadert bij de uitoefening van hun professionele activiteiten.<br>
+<br>
+13° Het bureau geeft aan de kandidaten een duidelijk en objectief beeld van zijn diensten en werkwijze. Het verduidelijkt zijn doelstellingen, methoden en de context van zijn optreden. Het stelt de kandidaat op zijn vraag in kennis van de gedragscode.<br>
+<br>
+Het bureau verstrekt aan de kandidaten voldoende informatie over de openstaande arbeidsplaats. De volgende gegevens worden zo snel mogelijk uitdrukkelijk vermeld :<br>
+a) de naam en de aard van de functie en de functievereisten;<br>
+b) de naam, het adres en het werkdomein van de opdrachtgever;<br>
+c) de plaats waar de functie verricht moet worden, behalve als dat vooraf niet kan worden vastgesteld of indien het gaat om functies die niet aan een bepaalde plaats van tewerkstelling gebonden zijn;<br>
+d) de naam en het telefoonnummer van een contactpersoon;<br>
+e) de bijzondere arbeidsvoorwaarden en -omstandigheden;<br>
+f) de aard, een indicatie van de tijdsduur en het verloop van de bemiddelingsprocedure;<br>
+g) eventueel, de afname van psychologische en/of medische onderzoeken;<br>
+h) eventueel, de opname in een geautomatiseerd bestand.<br>
+<br>
+Bij arbeidsbemiddeling van werknemers in het buitenland moet die informatie ook worden verstrekt in hun eigen taal of in een taal die ze begrijpen.<br>
+<br>
+14° Het bureau verbindt er zich toe de bemiddeling binnen een redelijke termijn te laten verlopen. Het bureau dient zich in het bijzonder houden aan de concrete afspraken die gemaakt zijn bij het opstellen van de opdracht.<br>
+<br>
+15° Het bureau waarborgt alle verstrekte inlichtingen op vertrouwelijke wijze te behandelen.<br>
+<br>
+Informatie over een kandidaat kan slechts aan derden worden doorgegeven na uitdrukkelijke toestemming van de kandidaat.<br>
+<br>
+Verder dient het bureau de volgende gedragsregels terzake respecteren :<br>
+1° het bureau waakt erover dat alle personeelsleden de vertrouwelijkheid van de persoonsgegevens respecteren;<br>
+2° persoonsgegevens moeten in principe verkregen worden van de werknemer zelf; als het bureau het noodzakelijk acht persoonsgegevens in te winnen bij derden, dient de werknemer daarvan vooraf op de hoogte gebracht en moet hij daarvoor zijn toestemming verlenen. De werknemer ondertekent daarvoor een verklaring waarvan hij de draagwijdte duidelijk kan begrijpen en die minimum volgende gegevens bevat : de identiteit van de persoon, de identiteit van de organisaties of personen, de aard van de gegevens, de redenen voor opvraging van de gegevens en de periode waarin de toestemming zal worden gebruikt. Als het curriculum vitae uitdrukkelijk naar een referentiepersoon wordt verwezen, geldt dat als impliciete toestemming van de werknemer;<br>
+3° er worden geen persoonsgegevens ingewonnen en opgeslagen die niet noodzakelijk zijn voor de opdracht;<br>
+4° de persoonsgegevens worden bewaard en gecodeerd op een wijze die de werknemer kan begrijpen en die hem geen enkel kenmerk toedicht met een mogelijk discriminerend effect tot gevolg;<br>
+5° de werknemer kan op elk moment zijn toestemming intrekken om gegevens die tot de persoonlijke levenssfeer behoren, op te vragen en te gebruiken.<br>
+<br>
+Het bureau verbindt er zich toe dossiers met persoonsgegevens slechts bij te houden zolang de kandidaat dat wenst of zolang dat nodig is voor de concrete opdracht.<br>
+<br>
+Het bureau is ertoe gehouden de in het dossier van de opdrachtgever of de werknemer bijgehouden gegevens te corrigeren als de opdrachtgever of de werknemer daarom verzoekt.<br>
+<br>
+16° Het bureau mag gegevens over gezondheid als vermeld in artikel 4, 15), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), slechts inwinnen als dat noodzakelijk is om te bepalen of de werknemer in staat is een bepaalde functie uit te oefenen of te voldoen aan de eisen van gezondheid en veiligheid.<br>
+<br>
+17° Het bureau mag geen genetische testen verrichten of laten verrichten.<br>
+<br>
+18° Het bureau verbindt zich ertoe om alle kandidaten schriftelijk op de hoogte te brengen van de beslissing die over hen genomen is en dit binnen een redelijke termijn.<br>
+<br>
+In geval van afwijzing van de kandidaat vermeldt het bureau uitdrukkelijk de redenen hiervan.<br>
+<br>
+De kandidaat heeft, op aanvraag, recht op informatie over de resultaten van interviews, tests en praktische proeven.<br>
+<br>
+19° Het bureau verbindt er zich toe geen schadevergoeding te vragen van werknemers die de procedure vroegtijdig stopzetten of niet ingaan op de vacature waarvoor zij zich kandidaat hebben gesteld.<br>
+<br>
+20° De overlegging van gezegelde afschriften van diploma's, getuigschriften, attesten en andere stukken mogen door het bureau pas gevraagd worden na afloop van de bemiddelingsprocedure.<br>
+<br>
+21° Het bureau verbindt er zich toe in bemiddelingsactiviteiten het Nederlands te gebruiken conform de bepalingen van de taalwetgeving.<br>
+<br>
+22° Als een sollicitant die onderworpen is aan de werklozencontrole, aan een selectieprocedure deelneemt, is het bureau ertoe gehouden op verzoek van de sollicitant een bewijsschrift te overhandigen waarop de datum en het uur van het bezoek wordt vermeld.<br>
+<br>
+23° Het bureau organiseert de selectie zo dat de verplaatsingen van de sollicitanten zoveel mogelijk worden beperkt.<br>
+<br>
+24° Als de selectieprocedure een productieve praktische proef omvat, mag die proef niet langer duren dan nodig is om de bekwaamheid van de sollicitant te onderzoeken.<br>
+<br>
+25° Het bureau dat activiteiten van arbeidsbemiddeling van schouwspelartiesten verricht en waar de private arbeidsbemiddeling wordt aangeboden samen met andere diensten, moet :<br>
+1° in de overeenkomst met de opdrachtgever - de betreffende gegevens (onder meer beschrijving van de werkwijze, honoraria, onkosten, betalingswijze en indicatie van de tijdsduur) met betrekking tot de bemiddelingsopdracht, afzonderlijk vermelden;<br>
+2° de opdrachtgever wijzen op zijn sociale en fiscale verplichtingen, en de opdracht weigeren indien blijkt dat de opdrachtgever die verplichtingen niet nakomt.<br>
+<br>
+26° Het bureau dat activiteiten van arbeidsbemiddeling van sportbeoefenaars verricht, informeert de werknemer onverwijld en gedetailleerd over alle initiatieven die worden genomen voor de werkgevers en over de initiatieven die door de werkgevers werden genomen voor het bureau.
 
 ### BIJLAGE
 
-Bijlage 3. De gedragscode outplacementactiviteiten, vermeld in artikel 19<br /><br />1° Deze gedragscode is van toepassing op outplacementactiviteiten.<br /><br />2° Het bureau weigert elke opdracht die in strijd is met de gedragscode.<br /><br />3° Het bureau mag tijdens de procedure geen onderscheid maken op grond van handicap, gezondheidstoestand of seksuele geaardheid, behalve als dat wettelijk is vereist of toegelaten.<br /><br />4° Het bureau verbindt er zich toe naar aanleiding van de private arbeidsbemiddelingsactiviteiten geen maximumleeftijdsgrens te stellen.<br /><br />5° Het bureau is ertoe gehouden de bepalingen na te leven van de wetgeving betreffende de gelijke behandeling van mannen en vrouwen ten aanzien van de arbeidsvoorwaarden, de toegang tot het arbeidsproces, de beroepsopleiding en de promotiekansen voor de toegang tot een zelfstandig beroep.<br /><br />6° Het bureau is ertoe gehouden de bepalingen na te leven van de wet van 30 juli 1981 tot bestraffing van bepaalde door racisme of xenofobie ingegeven daden.<br /><br />7° Het bureau is ertoe gehouden de bepalingen na te leven van de wet van 24 mei 1921 tot waarborging der vrijheid van vereniging.<br /><br />8° Alle kosten die verbonden zijn aan de opdracht, vallen ten laste van de opdrachtgever en het bureau.<br /><br />9° Het bureau geeft aan de kandidaten een duidelijk en objectief beeld van zijn diensten en werkwijze. Het verduidelijkt zijn doelstellingen, methoden en de context van zijn tussenkomst. Het brengt de kandidaat op de hoogte van de gedragscode.<br /><br />De begeleiding mag slechts aangevat worden als de betrokken kandidaat voorafgaand, na bespreking, schriftelijke toestemming daartoe heeft gegeven.<br /><br />Het vermelde document met de toestemming van de kandidaat bevat de volgende gegevens :<br />a) de aanvangsdatum en voorziene duur van de begeleiding;<br />b) een nauwkeurig gespecificeerd programma van de kandidaat tijdens de begeleiding;<br />c) het soort outplacement : individueel of groepsoutplacement;<br />d) de naam van het bureau;<br />e) de plaats van de activiteiten;<br />f) eventueel, de opname in een geautomatiseerd bestand.<br /><br />10° Het bureau verbindt zich ertoe om de bepalingen van CAO nr. 51 en CAO nr. 82 na te leven en wijst de opdrachtgever in voorkomend geval op zijn verplichtingen.<br /><br />11° Het bureau licht de opdrachtgever geregeld in over het verloop van de opdracht. De kandidaat mag kennisnemen van die mededelingen.<br /><br />12° Iedere kandidaat heeft bij de verwerking van persoonsgegevens die op hem betrekking hebben, recht op eerbiediging van zijn persoonlijke levenssfeer.<br /><br />13° Bij outplacementbegeleiding in groep dient het bureau de kwaliteit van de outplacementbegeleiding te waarborgen als het aantal werknemers vermindert ingevolge de plaatsing van werknemers.
+Bijlage 3. De gedragscode outplacementactiviteiten, vermeld in artikel 19<br>
+<br>
+1° Deze gedragscode is van toepassing op outplacementactiviteiten.<br>
+<br>
+2° Het bureau weigert elke opdracht die in strijd is met de gedragscode.<br>
+<br>
+3° Het bureau mag tijdens de procedure geen onderscheid maken op grond van handicap, gezondheidstoestand of seksuele geaardheid, behalve als dat wettelijk is vereist of toegelaten.<br>
+<br>
+4° Het bureau verbindt er zich toe naar aanleiding van de private arbeidsbemiddelingsactiviteiten geen maximumleeftijdsgrens te stellen.<br>
+<br>
+5° Het bureau is ertoe gehouden de bepalingen na te leven van de wetgeving betreffende de gelijke behandeling van mannen en vrouwen ten aanzien van de arbeidsvoorwaarden, de toegang tot het arbeidsproces, de beroepsopleiding en de promotiekansen voor de toegang tot een zelfstandig beroep.<br>
+<br>
+6° Het bureau is ertoe gehouden de bepalingen na te leven van de wet van 30 juli 1981 tot bestraffing van bepaalde door racisme of xenofobie ingegeven daden.<br>
+<br>
+7° Het bureau is ertoe gehouden de bepalingen na te leven van de wet van 24 mei 1921 tot waarborging der vrijheid van vereniging.<br>
+<br>
+8° Alle kosten die verbonden zijn aan de opdracht, vallen ten laste van de opdrachtgever en het bureau.<br>
+<br>
+9° Het bureau geeft aan de kandidaten een duidelijk en objectief beeld van zijn diensten en werkwijze. Het verduidelijkt zijn doelstellingen, methoden en de context van zijn tussenkomst. Het brengt de kandidaat op de hoogte van de gedragscode.<br>
+<br>
+De begeleiding mag slechts aangevat worden als de betrokken kandidaat voorafgaand, na bespreking, schriftelijke toestemming daartoe heeft gegeven.<br>
+<br>
+Het vermelde document met de toestemming van de kandidaat bevat de volgende gegevens :<br>
+a) de aanvangsdatum en voorziene duur van de begeleiding;<br>
+b) een nauwkeurig gespecificeerd programma van de kandidaat tijdens de begeleiding;<br>
+c) het soort outplacement : individueel of groepsoutplacement;<br>
+d) de naam van het bureau;<br>
+e) de plaats van de activiteiten;<br>
+f) eventueel, de opname in een geautomatiseerd bestand.<br>
+<br>
+10° Het bureau verbindt zich ertoe om de bepalingen van CAO nr. 51 en CAO nr. 82 na te leven en wijst de opdrachtgever in voorkomend geval op zijn verplichtingen.<br>
+<br>
+11° Het bureau licht de opdrachtgever geregeld in over het verloop van de opdracht. De kandidaat mag kennisnemen van die mededelingen.<br>
+<br>
+12° Iedere kandidaat heeft recht op de bescherming van zijn persoonsgegevens conform de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
+<br>
+13° Bij outplacementbegeleiding in groep dient het bureau de kwaliteit van de outplacementbegeleiding te waarborgen als het aantal werknemers vermindert ingevolge de plaatsing van werknemers.
 
 ### BIJLAGE
 
-Bijlage 4. De gedragscode uitzendactiviteiten, vermeld in artikel 19<br /><br />1° Deze gedragscode is van toepassing op uitzendactiviteiten.<br /><br />2° Het bureau weigert elke opdracht die in strijd is met de gedragscode.<br /><br />3° Het bureau mag tijdens de procedure geen onderscheid maken op grond van handicap, gezondheidstoestand of seksuele geaardheid, behalve als dat wettelijk is vereist of toegelaten.<br /><br />4° Het bureau verbindt er zich toe naar aanleiding van de private arbeidsbemiddelingsactiviteiten geen maximumleeftijdsgrens te stellen.<br /><br />5° Het bureau is ertoe gehouden de bepalingen na te leven van de wetgeving betreffende de gelijke behandeling van mannen en vrouwen ten aanzien van de arbeidsvoorwaarden, de toegang tot het arbeidsproces, de beroepsopleiding en de promotiekansen voor de toegang tot een zelfstandig beroep.<br /><br />6° Het bureau is ertoe gehouden de bepalingen na te leven van de wet van 30 juli 1981 tot bestraffing van bepaalde door racisme of xenofobie ingegeven daden.<br /><br />7° Het bureau is ertoe gehouden de bepalingen na te leven van de wet van 24 mei 1921 tot waarborging der vrijheid van vereniging.<br /><br />8° Het bureau mag geen activiteiten verrichten die leiden tot werkzaamheden die worden verboden krachtens de wetgeving op de kinderarbeid.<br /><br />9° Het bureau verbindt er zich toe geen werknemers te werven voor of te plaatsen in arbeidsplaatsen die onaanvaardbare risico's en gevaren inhouden voor de werknemers of waarin de werknemers het slachtoffer dreigen te worden van misbruik of van een discriminerende behandeling.<br /><br />10° Het bureau waarborgt zijn uitzendkrachten de correcte en onverkorte toepassing van de integrale reglementering inzake uitzendarbeid, zowel de reglementering die uitgevaardigd is door de federale en regionale overheden als die welke gebaseerd is op algemeen verbindend verklaarde akkoorden tussen de sociale partners.<br /><br />11° Het bureau onthoudt zich van elke vorm van publiciteit die potentiële uitzendkrachten kan misleiden.<br /><br />12° In personeelsadvertenties die het aanwerven van uitzendkrachten beogen geeft het bureau correcte, volledige en objectieve informatie. Uit de personeelsadvertenties moet altijd duidelijk blijken dat het om uitzendarbeid gaat. De benaming waaronder het uitzendbureau is erkend, wordt altijd vermeld.<br /><br />13° Het bureau verbindt zich ertoe alle (kandidaat) uitzendkrachten op een objectieve, respectvolle en niet-discriminerende wijze te onthalen en professioneel te begeleiden.<br /><br />Er wordt van de (kandidaat) uitzendkrachten geen enkele financiële of andere bijdrage gevraagd voor de dienstverlening van het bureau. Een uitzendkracht is vrij om in dienst te treden bij een gebruiker.<br /><br />14° Het bureau verschaft aan alle (kandidaat) uitzendkrachten correcte, volledige en objectieve informatie over de reglementering inzake uitzendarbeid en over de opdrachten die hen worden aangeboden, zodat zij op de hoogte zijn van hun rechten en plichten en met kennis van zaken kunnen oordelen.<br /><br />Daarbij wordt een intentieverklaring gesloten tussen het bureau en de uitzendkracht moet daarbij gesloten worden, waarbij de betrokken werkzoekende bevestigt dat hij bereid is om uitzendarbeid te verrichten.<br /><br />Uitzendkrachten zijn volledig vrij een opdracht te weigeren. De weigering van een opdracht heeft voor hen geen nadelige gevolgen.<br /><br />15° Het bureau waarborgt alle verstrekte inlichtingen op vertrouwelijke wijze te behandelen.<br /><br />Informatie over een uitzendkracht kan slechts aan derden worden doorgegeven na de uitdrukkelijke toestemming van de uitzendkracht.<br /><br />Verder moet het bureau de volgende gedragsregels ter zake respecteren :<br />a) het bureau waakt erover dat alle personeelsleden de vertrouwelijkheid van de persoonlijke gegevens respecteren;<br />b) persoonlijke gegevens worden in principe van de werknemer zelf verkregen;<br />c) als het bureau het noodzakelijk acht persoonlijke gegevens in te winnen bij derden, dient daarvan vooraf op de hoogte gebracht en moet hij daarvoor zijn toestemming verlenen. De uitzendkracht ondertekent daarvoor een verklaring waarvan hij de draagwijdte duidelijk kan begrijpen en die minstens de volgende gegevens bevat : de identiteit van de persoon, de identiteit van de organisaties of personen, de aard van de gegevens, de redenen voor de opvraging van de gegevens en de periode waarin de toestemming zal worden gebruikt. Als het curriculum vitae uitdrukkelijk naar een referentiepersoon wordt verwezen, geldt dit als impliciete toestemming van de uitzendkracht;<br />d) er worden geen persoonlijke gegevens ingewonnen en opgeslagen die niet noodzakelijk zijn voor de opdracht;<br />e) de persoonlijke gegevens worden bewaard en gecodeerd op een wijze die de uitzendkracht begrijpt en die hem/haar geen enkel kenmerk toedicht met een mogelijk discriminerend effect tot gevolg;<br />f) de uitzendkracht kan op elk moment zijn/haar toestemming intrekken om gegevens die tot de persoonlijke levenssfeer behoren, op te vragen en te gebruiken.<br /><br />Het bureau verbindt er zich toe dossiers met persoonsgegevens slechts bij te houden zolang de uitzendkracht dat wenst of zolang dat nodig is voor de concrete opdracht.<br /><br />Het bureau is ertoe gehouden de in het dossier van de opdrachtgever of de uitzendkracht bijgehouden gegevens te corrigeren als de opdrachtgever of de uitzendkracht daarom verzoekt.<br /><br />16° Het bureau verbindt er zich toe een veiligheidsbeleid te voeren en bijzondere aandacht te besteden aan de arbeidsveiligheid van de uitzendkrachten en aan hun welzijn op het werk.<br /><br />De uitzendkrachten krijgen alle nodige informatie om hun werkzaamheden in optimale omstandigheden te kunnen uitvoeren.<br /><br />Het bureau wijst de gebruikers op de noodzaak van een degelijke begeleiding van de uitzendkrachten inzake veiligheid zodat ongevallen en incidenten, alsook de daaruit voortvloeiende schade, vermeden worden.<br /><br />17° Als het uitzendbureau ook andere vormen van arbeidsbemiddelingsactiviteiten uitoefent, moeten de volgende principes gerespecteerd worden :<br />- het moet zowel voor (kandidaat) uitzendkrachten als voor werkgevers duidelijk zijn welke activiteit wordt aangeboden. Dit impliceert dat juiste, tijdige en volledige informatie verstrekt moet worden over welke activiteit (arbeidsbemiddeling of terbeschikkingstelling) aangeboden wordt;<br /><br />18° Het bureau mag medische gegevens slechts inwinnen in de mate dat dit noodzakelijk is om te bepalen of de (kandidaat) uitzendkracht in staat is een bepaalde functie uit te oefenen of te voldoen aan de eisen van gezondheid en veiligheid.<br /><br />19° Het bureau mag geen genetische testen van (kandidaat) uitzendkrachten verrichten of laten verrichten.<br /><br />20° Het bureau mag geen referenties en gegevens vragen bij de huidige of vroegere werkgever zonder voorafgaande en uitdrukkelijke toestemming van de (kandidaat) uitzendkracht.<br /><br />21° Het bureau verbindt er zich toe in bemiddelingsactiviteiten het Nederlands te gebruiken conform de bepalingen van de taalwetgeving.
+Bijlage 4. De gedragscode uitzendactiviteiten, vermeld in artikel 19<br>
+<br>
+1° Deze gedragscode is van toepassing op uitzendactiviteiten.<br>
+<br>
+2° Het bureau weigert elke opdracht die in strijd is met de gedragscode.<br>
+<br>
+3° Het bureau mag tijdens de procedure geen onderscheid maken op grond van handicap, gezondheidstoestand of seksuele geaardheid, behalve als dat wettelijk is vereist of toegelaten.<br>
+<br>
+4° Het bureau verbindt er zich toe naar aanleiding van de private arbeidsbemiddelingsactiviteiten geen maximumleeftijdsgrens te stellen.<br>
+<br>
+5° Het bureau is ertoe gehouden de bepalingen na te leven van de wetgeving betreffende de gelijke behandeling van mannen en vrouwen ten aanzien van de arbeidsvoorwaarden, de toegang tot het arbeidsproces, de beroepsopleiding en de promotiekansen voor de toegang tot een zelfstandig beroep.<br>
+<br>
+6° Het bureau is ertoe gehouden de bepalingen na te leven van de wet van 30 juli 1981 tot bestraffing van bepaalde door racisme of xenofobie ingegeven daden.<br>
+<br>
+7° Het bureau is ertoe gehouden de bepalingen na te leven van de wet van 24 mei 1921 tot waarborging der vrijheid van vereniging.<br>
+<br>
+8° Het bureau mag geen activiteiten verrichten die leiden tot werkzaamheden die worden verboden krachtens de wetgeving op de kinderarbeid.<br>
+<br>
+9° Het bureau verbindt er zich toe geen werknemers te werven voor of te plaatsen in arbeidsplaatsen die onaanvaardbare risico's en gevaren inhouden voor de werknemers of waarin de werknemers het slachtoffer dreigen te worden van misbruik of van een discriminerende behandeling.<br>
+<br>
+10° Het bureau waarborgt zijn uitzendkrachten de correcte en onverkorte toepassing van de integrale reglementering inzake uitzendarbeid, zowel de reglementering die uitgevaardigd is door de federale en regionale overheden als die welke gebaseerd is op algemeen verbindend verklaarde akkoorden tussen de sociale partners.<br>
+<br>
+11° Het bureau onthoudt zich van elke vorm van publiciteit die potentiële uitzendkrachten kan misleiden.<br>
+<br>
+12° In personeelsadvertenties die het aanwerven van uitzendkrachten beogen geeft het bureau correcte, volledige en objectieve informatie. Uit de personeelsadvertenties moet altijd duidelijk blijken dat het om uitzendarbeid gaat. De benaming waaronder het uitzendbureau is erkend, wordt altijd vermeld.<br>
+<br>
+13° Het bureau verbindt zich ertoe alle (kandidaat) uitzendkrachten op een objectieve, respectvolle en niet-discriminerende wijze te onthalen en professioneel te begeleiden.<br>
+<br>
+Er wordt van de (kandidaat) uitzendkrachten geen enkele financiële of andere bijdrage gevraagd voor de dienstverlening van het bureau. Een uitzendkracht is vrij om in dienst te treden bij een gebruiker.<br>
+<br>
+14° Het bureau verschaft aan alle (kandidaat) uitzendkrachten correcte, volledige en objectieve informatie over de reglementering inzake uitzendarbeid en over de opdrachten die hen worden aangeboden, zodat zij op de hoogte zijn van hun rechten en plichten en met kennis van zaken kunnen oordelen.<br>
+<br>
+Daarbij wordt een intentieverklaring gesloten tussen het bureau en de uitzendkracht moet daarbij gesloten worden, waarbij de betrokken werkzoekende bevestigt dat hij bereid is om uitzendarbeid te verrichten.<br>
+<br>
+Uitzendkrachten zijn volledig vrij een opdracht te weigeren. De weigering van een opdracht heeft voor hen geen nadelige gevolgen.<br>
+<br>
+15° Het bureau waarborgt alle verstrekte inlichtingen op vertrouwelijke wijze te behandelen.<br>
+<br>
+Informatie over een uitzendkracht kan slechts aan derden worden doorgegeven na de uitdrukkelijke toestemming van de uitzendkracht.<br>
+<br>
+Verder moet het bureau de volgende gedragsregels ter zake respecteren :<br>
+a) het bureau waakt erover dat alle personeelsleden de vertrouwelijkheid van de persoonsgegevens respecteren;<br>
+b) persoonsgegevens worden in principe van de werknemer zelf verkregen;<br>
+c) als het bureau het noodzakelijk acht persoonsgegevens in te winnen bij derden, dient daarvan vooraf op de hoogte gebracht en moet hij daarvoor zijn toestemming verlenen. De uitzendkracht ondertekent daarvoor een verklaring waarvan hij de draagwijdte duidelijk kan begrijpen en die minstens de volgende gegevens bevat : de identiteit van de persoon, de identiteit van de organisaties of personen, de aard van de gegevens, de redenen voor de opvraging van de gegevens en de periode waarin de toestemming zal worden gebruikt. Als het curriculum vitae uitdrukkelijk naar een referentiepersoon wordt verwezen, geldt dit als impliciete toestemming van de uitzendkracht;<br>
+d) er worden geen persoonsgegevens ingewonnen en opgeslagen die niet noodzakelijk zijn voor de opdracht;<br>
+e) de persoonsgegevens worden bewaard en gecodeerd op een wijze die de uitzendkracht begrijpt en die hem/haar geen enkel kenmerk toedicht met een mogelijk discriminerend effect tot gevolg;<br>
+f) de uitzendkracht kan op elk moment zijn/haar toestemming intrekken om persoonsgegevens, op te vragen en te gebruiken.<br>
+<br>
+Het bureau verbindt er zich toe dossiers met persoonsgegevens slechts bij te houden zolang de uitzendkracht dat wenst of zolang dat nodig is voor de concrete opdracht.<br>
+<br>
+Het bureau is ertoe gehouden de in het dossier van de opdrachtgever of de uitzendkracht bijgehouden gegevens te corrigeren als de opdrachtgever of de uitzendkracht daarom verzoekt.<br>
+<br>
+16° Het bureau verbindt er zich toe een veiligheidsbeleid te voeren en bijzondere aandacht te besteden aan de arbeidsveiligheid van de uitzendkrachten en aan hun welzijn op het werk.<br>
+<br>
+De uitzendkrachten krijgen alle nodige informatie om hun werkzaamheden in optimale omstandigheden te kunnen uitvoeren.<br>
+<br>
+Het bureau wijst de gebruikers op de noodzaak van een degelijke begeleiding van de uitzendkrachten inzake veiligheid zodat ongevallen en incidenten, alsook de daaruit voortvloeiende schade, vermeden worden.<br>
+<br>
+17° Als het uitzendbureau ook andere vormen van arbeidsbemiddelingsactiviteiten uitoefent, moeten de volgende principes gerespecteerd worden :<br>
+- het moet zowel voor (kandidaat) uitzendkrachten als voor werkgevers duidelijk zijn welke activiteit wordt aangeboden. Dit impliceert dat juiste, tijdige en volledige informatie verstrekt moet worden over welke activiteit (arbeidsbemiddeling of terbeschikkingstelling) aangeboden wordt;<br>
+<br>
+18° Het bureau mag gegevens over gezondheid als vermeld in artikel 4, 15), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) slechts inwinnen in de mate dat dit noodzakelijk is om te bepalen of de (kandidaat) uitzendkracht in staat is een bepaalde functie uit te oefenen of te voldoen aan de eisen van gezondheid en veiligheid.<br>
+<br>
+19° Het bureau mag geen genetische testen van (kandidaat) uitzendkrachten verrichten of laten verrichten.<br>
+<br>
+20° Het bureau mag geen referenties en gegevens vragen bij de huidige of vroegere werkgever zonder voorafgaande en uitdrukkelijke toestemming van de (kandidaat) uitzendkracht.<br>
+<br>
+21° Het bureau verbindt er zich toe in bemiddelingsactiviteiten het Nederlands te gebruiken conform de bepalingen van de taalwetgeving.
 
 ### BIJLAGE
 
-Bijlage 5. Tekst met de rechten en de verplichtingen van de werknemer en   van het bureau als vermeld in artikel 3<BR><BR>1. Het bureau mag onder geen   beding enige vergoeding van de werknemer vragen of ontvangen.<BR><BR>2. Het   bureau moet alle betrokkenen op een objectieve, respectvolle en   niet-discriminerende wijze behandelen en mag geen personeelsadvertenties   opstellen of publiceren die aanleiding kunnen geven tot discriminatie.<BR><BR>3.   Het bureau moet de persoonlijke levenssfeer van de werknemers eerbiedigen en mag   de gegevens die tot de persoonlijke levenssfeer behoren, alleen vragen en   gebruiken met toestemming en in het belang van de werknemer in het kader van   zijn professionele inschakeling en met inachtneming van de regelgeving   betreffende de verwerking van persoonsgegevens en het vrij verkeer van die   gegevens.<BR><BR>4. Het bureau moet inzage verlenen aan de opdrachtgever en de   werknemers betreffende de over hen opgeslagen gegevens en moet hen, op hun   verzoek, na beëindiging van de opdracht, een afschrift van hun dossier   bezorgen.<BR><BR>5. Het bureau mag informatie over de opdrachtgevende werkgever   en de werknemers enkel opvragen en gebruiken in het kader van de   bemiddelingsactiviteiten.<BR><BR>6. Het bureau dient de opdrachtgevende   werkgever en de werknemers juiste, tijdige en volledige informatie te   verstrekken over de bemiddelingsactiviteiten en over de aard van de   tewerkstelling.<BR><BR>7. Persoonlijkheidsonderzoeken en psychologische tests   kunnen enkel plaatsvinden door of onder de verantwoordelijkheid van een   psycholoog.<BR><BR>8. Het uitzendbureau mag geen bemiddelingsactiviteiten   uitoefenen voor vacatures waar geen reëel jobaanbod tegenover staat.<BR><BR>9.   Het bureau mag geen activiteiten uitoefenen die leiden tot een tewerkstelling   die strijdig is met de openbare orde of waarvan het bureau duidelijk kan   vaststellen dat ze een inbreuk inhouden op de sociale of fiscale   wetgeving.<BR><BR>10. Het uitzendbureau mag geen bemiddelingsactiviteiten   uitoefenen voor zover deze verband houden met een staking, uitsluiting of een   schorsing van een arbeidsovereenkomst, ten gevolge van het slechte weer of bij   gebrek aan werk wegens economische oorzaken.<BR><BR>11. Het bureau mag voor   werknemers van vreemde nationaliteit bemiddelen als de reglementering inzake de   tewerkstelling van vreemde arbeidskrachten wordt nageleefd.<BR><BR>12. Het   bureau mag niet in de plaats treden van de opdrachtgevende werkgever bij de   aanwervings- of ontslagbeslissing of de onderhandelingen daarover.<BR><BR>13.   Het uitzendbureau mag geen uitzendactiviteiten verrichten door middel van een   exclusiviteitsclausule.<BR><BR>14.1. Bemiddelingsbureaus van schouwspelartiesten   en van betaalde sportbeoefenaars mogen slechts erelonen, commissielonen,   bijdragen, toelatings- of inschrijvingsgelden, hierna commissielonen te noemen,   ontvangen als aan de volgende voorwaarden is voldaan :<BR>1° het commissieloon   wordt vooraf vastgelegd in een schriftelijke overeenkomst tussen het bureau en   de opdrachtgever. Als de private arbeidsbemiddeling wordt aangeboden samen met   andere diensten, wordt het commissieloon voor de verschillende diensten   afzonderlijk vastgelegd;<BR>2° de werknemer stemt uitdrukkelijk en voorafgaand   in met het commissieloon;<BR>3° de partijen beschikken ieder over een origineel   exemplaar van deze overeenkomst.<BR><BR>14.2. Het commissieloon voor de   bemiddeling van de schouwspelartiest wordt berekend op de vergoeding die de   schouwspelartiest zal ontvangen voor zijn prestatie.<BR><BR>Het commissieloon   voor de bemiddeling van de betaalde sportbeoefenaar wordt berekend op het   voorziene totale brutojaarinkomen van de betaalde sportbeoefenaar, en dit op de   totale duur van het contract.<BR><BR>15. Elk uitzendbureau moet over een   erkenning beschikken.<BR><BR>16. Het uitzendbureau moet bij zijn externe   communicatie, dit wil zeggen : in zijn overeenkomsten, offertes, facturen,   briefwisseling, emailverkeer, personeelsadvertenties die worden gepubliceerd via   geschreven of visuele media en op zijn websites, melding maken van zijn   erkenningsnummer.<BR><BR>17. Het bureau moet deze tekst overhandigen aan   iedereen die een beroep doet op private arbeidsbemiddeling of moet deze tekst in   extenso aanplakken in de voor het publiek toegankelijke lokalen van het bureau,   op de plaats waar deze tekst het best kan worden gelezen.<BR><BR>18. Bureaus die   als activiteiten hebben het bekendmaken van werkaanbiedingen via de geschreven,   auditieve of visuele media (tv, kranten, internet, radio, enzovoort), moeten   deze tekst in extenso kenbaar maken via het betrokken medium ofwel uitdrukkelijk   de locatie (bijv. internetadres) vermelden waar deze tekst wordt ter beschikking   wordt gesteld. Deze tekst moet op eenvoudig verzoek gratis ter beschikking   worden gesteld door het bureau.<BR><BR>19. Het bureau moet de gedragscode   onderschrijven en naleven. De gedragscode maakt integraal deel uit van deze   tekst.<BR><BR>20. Klachten wegens vermeende inbreuk op de   arbeidsbemiddelingwetgeving kunnen worden ingediend bij :<BR>Departement Werk en   Sociale Economie<BR>Dienst Migratie en   Arbeidsbemiddelingbureaus<BR>Ellipsgebouw<BR>Koning Albert II-laan 35, bus   21<BR>1030 Brussel<BR>telefoon : 02-553 44 73<BR>fax :02-553 44 22<BR>e-mail :   arbeidsbemiddeling@vlaanderen.be<BR><BR>Om ontvankelijk te zijn, moet de klacht   gemotiveerd zijn en op duidelijke wijze omschrijven welke de vermeende inbreuk   is. De anonimiteit van de klager wordt gewaarborgd.<BR><BR>21. Klachten kunnen   ook worden ingediend bij :<BR>Departement Werk en Sociale Economie<BR>Afdeling   Inspectie<BR>Ellipsgebouw<BR>Koning Albert II-laan 35, bus 20<BR>1030   Brussel<BR>telefoon : 02 553 08 88<BR>fax : 02-553 42 71<BR>e-mail :   werkgelegenheid.inspectie@vlaanderen.be<BR><BR>22. De volgende dienst is belast   met het toezicht op en de handhaving van het arbeidsbemiddelingsdecreet en zijn   uitvoeringsbesluiten :<BR>Departement Werk en Sociale Economie<BR>Afdeling   Inspectie<BR>Ellipsgebouw<BR>Koning Albert II-laan 35, bus 20<BR>1030   Brussel<BR>telefoon : 02-553 08 88<BR>fax : 02-553 42 71<BR>e-mail :   werkgelegenheid.inspectie@vlaanderen.be
+Bijlage 5. Tekst met de rechten en de verplichtingen van de werknemer en van het bureau als vermeld in artikel 3<br>
+<br>
+1. Het bureau mag onder geen beding enige vergoeding van de werknemer vragen of ontvangen.<br>
+<br>
+2. Het bureau moet alle betrokkenen op een objectieve, respectvolle en niet-discriminerende wijze behandelen en mag geen personeelsadvertenties opstellen of publiceren die aanleiding kunnen geven tot discriminatie.<br>
+<br>
+3. Het bureau moet de persoonlijke levenssfeer van de werknemers eerbiedigen en mag de persoonsgegevens, alleen vragen en gebruiken met toestemming en in het belang van de werknemer in het kader van zijn professionele inschakeling en met inachtneming van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
+<br>
+4. Het bureau moet inzage verlenen aan de opdrachtgever en de werknemers betreffende de over hen opgeslagen gegevens en moet hen, op hun verzoek, na beëindiging van de opdracht, een afschrift van hun dossier bezorgen.<br>
+<br>
+5. Het bureau mag informatie over de opdrachtgevende werkgever en de werknemers enkel opvragen en gebruiken in het kader van de bemiddelingsactiviteiten.<br>
+<br>
+6. Het bureau dient de opdrachtgevende werkgever en de werknemers juiste, tijdige en volledige informatie te verstrekken over de bemiddelingsactiviteiten en over de aard van de tewerkstelling.<br>
+<br>
+7. Persoonlijkheidsonderzoeken en psychologische tests kunnen enkel plaatsvinden door of onder de verantwoordelijkheid van een psycholoog.<br>
+<br>
+8. Het uitzendbureau mag geen bemiddelingsactiviteiten uitoefenen voor vacatures waar geen reëel jobaanbod tegenover staat.<br>
+<br>
+9. Het bureau mag geen activiteiten uitoefenen die leiden tot een tewerkstelling die strijdig is met de openbare orde of waarvan het bureau duidelijk kan vaststellen dat ze een inbreuk inhouden op de sociale of fiscale wetgeving.<br>
+<br>
+10. Het uitzendbureau mag geen bemiddelingsactiviteiten uitoefenen voor zover deze verband houden met een staking, uitsluiting of een schorsing van een arbeidsovereenkomst, ten gevolge van het slechte weer of bij gebrek aan werk wegens economische oorzaken.<br>
+<br>
+11. Het bureau mag voor werknemers van vreemde nationaliteit bemiddelen als de reglementering inzake de tewerkstelling van vreemde arbeidskrachten wordt nageleefd.<br>
+<br>
+12. Het bureau mag niet in de plaats treden van de opdrachtgevende werkgever bij de aanwervings- of ontslagbeslissing of de onderhandelingen daarover.<br>
+<br>
+13. Het uitzendbureau mag geen uitzendactiviteiten verrichten door middel van een exclusiviteitsclausule.<br>
+<br>
+14.1. Bemiddelingsbureaus van schouwspelartiesten en van betaalde sportbeoefenaars mogen slechts erelonen, commissielonen, bijdragen, toelatings- of inschrijvingsgelden, hierna commissielonen te noemen, ontvangen als aan de volgende voorwaarden is voldaan :<br>
+1° het commissieloon wordt vooraf vastgelegd in een schriftelijke overeenkomst tussen het bureau en de opdrachtgever. Als de private arbeidsbemiddeling wordt aangeboden samen met andere diensten, wordt het commissieloon voor de verschillende diensten afzonderlijk vastgelegd;<br>
+2° de werknemer stemt uitdrukkelijk en voorafgaand in met het commissieloon;<br>
+3° de partijen beschikken ieder over een origineel exemplaar van deze overeenkomst.<br>
+<br>
+14.2. Het commissieloon voor de bemiddeling van de schouwspelartiest wordt berekend op de vergoeding die de schouwspelartiest zal ontvangen voor zijn prestatie.<br>
+<br>
+Het commissieloon voor de bemiddeling van de betaalde sportbeoefenaar wordt berekend op het voorziene totale brutojaarinkomen van de betaalde sportbeoefenaar, en dit op de totale duur van het contract.<br>
+<br>
+15. Elk uitzendbureau moet over een erkenning beschikken.<br>
+<br>
+16. Het uitzendbureau moet bij zijn externe communicatie, dit wil zeggen : in zijn overeenkomsten, offertes, facturen, briefwisseling, emailverkeer, personeelsadvertenties die worden gepubliceerd via geschreven of visuele media en op zijn websites, melding maken van zijn erkenningsnummer.<br>
+<br>
+17. Het bureau moet deze tekst overhandigen aan iedereen die een beroep doet op private arbeidsbemiddeling of moet deze tekst in extenso aanplakken in de voor het publiek toegankelijke lokalen van het bureau, op de plaats waar deze tekst het best kan worden gelezen.<br>
+<br>
+18. Bureaus die als activiteiten hebben het bekendmaken van werkaanbiedingen via de geschreven, auditieve of visuele media (tv, kranten, internet, radio, enzovoort), moeten deze tekst in extenso kenbaar maken via het betrokken medium ofwel uitdrukkelijk de locatie (bijv. internetadres) vermelden waar deze tekst wordt ter beschikking wordt gesteld. Deze tekst moet op eenvoudig verzoek gratis ter beschikking worden gesteld door het bureau.<br>
+<br>
+19. Het bureau moet de gedragscode onderschrijven en naleven. De gedragscode maakt integraal deel uit van deze tekst.<br>
+<br>
+20. Klachten wegens vermeende inbreuk op de arbeidsbemiddelingwetgeving kunnen worden ingediend bij :<br>
+Departement Werk en Sociale Economie<br>
+Dienst Migratie en Arbeidsbemiddelingbureaus<br>
+Ellipsgebouw<br>
+Koning Albert II-laan 35, bus 21<br>
+1030 Brussel<br>
+telefoon : 02-553 44 73<br>
+fax :02-553 44 22<br>
+e-mail : arbeidsbemiddeling@vlaanderen.be<br>
+<br>
+Om ontvankelijk te zijn, moet de klacht gemotiveerd zijn en op duidelijke wijze omschrijven welke de vermeende inbreuk is. De anonimiteit van de klager wordt gewaarborgd.<br>
+<br>
+21. Klachten kunnen ook worden ingediend bij :<br>
+Departement Werk en Sociale Economie<br>
+Afdeling Inspectie<br>
+Ellipsgebouw<br>
+Koning Albert II-laan 35, bus 20<br>
+1030 Brussel<br>
+telefoon : 02 553 08 88<br>
+fax : 02-553 42 71<br>
+e-mail : werkgelegenheid.inspectie@vlaanderen.be<br>
+<br>
+22. De volgende dienst is belast met het toezicht op en de handhaving van het arbeidsbemiddelingsdecreet en zijn uitvoeringsbesluiten :<br>
+Departement Werk en Sociale Economie<br>
+Afdeling Inspectie<br>
+Ellipsgebouw<br>
+Koning Albert II-laan 35, bus 20<br>
+1030 Brussel<br>
+telefoon : 02-553 08 88<br>
+fax : 02-553 42 71<br>
+e-mail : werkgelegenheid.inspectie@vlaanderen.be
