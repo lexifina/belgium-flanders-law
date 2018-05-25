@@ -850,7 +850,13 @@ De opbouw van de kruispuntdatabank Betaalbaar Wonen wordt aangestuurd door een s
 
 ### ART. 4.3.3.
 
-De kruispuntdatabank Betaalbaar Wonen wordt na oplevering ervan eigendom van het Vlaamse Gewest.<br /><br />De Vlaamse Regering sluit met de beherende instelling of organisatie een concessieovereenkomst, waarin ten minste volgende elementen zijn opgenomen :<br />1° garanties omtrent de raadpleegbaarheid van de databank in elke gemeente;<br />2° technische en organisatorische maatregelen betreffende de eerbiediging van de privacy en de bescherming van persoonsgegevens;<br />3° de vergoedingen die de beherende instelling of organisatie voor het gebruik van de databank kan vragen.<br /><br />
+De kruispuntdatabank Betaalbaar Wonen wordt na oplevering ervan eigendom van het Vlaamse Gewest.<br>
+<br>
+De Vlaamse Regering sluit met de beherende instelling of organisatie een concessieovereenkomst, waarin ten minste volgende elementen zijn opgenomen :<br>
+1° garanties omtrent de raadpleegbaarheid van de databank in elke gemeente;<br>
+2° passende technische en organisatorische maatregelen betreffende de eerbiediging van de persoonlijke levenssfeer en de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens;<br>
+3° de vergoedingen die de beherende instelling of organisatie voor het gebruik van de databank kan vragen.<br>
+&nbsp;
 
 ## BOEK 5 WONEN IN EIGEN STREEK
 
