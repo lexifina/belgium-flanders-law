@@ -2,16 +2,16 @@
   "codex_id": 1024571,
   "title": "Besluit van de Vlaamse Regering van 2014-05-16 houdende de voorwaarden voor erkenning en attest van toezicht en het kwaliteitsbeleid voor buitenschoolse gezinsopvang en groepsopvang [Citeeropschrift: \"Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014\"]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024571/VolledigDocument?datum=2016-12-04",
-  "source_sha256": "47f2df5dec1e1ddef2be3b7ba9f9f037daf715552797f5ee8b56d4937cd33118",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024571/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "3f91991e993adab9964c031cf3e788ec65ba02e87d7d9c8fabc6366c1071c2b7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024571&param=informatie",
-  "as_of": "2016-12-04",
+  "as_of": "2018-05-25",
   "made": "2014-05-16",
   "gazette": "2014-09-17",
   "numac": 2014035880,
   "document_start": "2014-04-01",
   "document_end": "2021-12-31",
-  "in_force": "2016-12-04",
+  "in_force": "2018-05-25",
   "article_versions": 76,
-  "record_form": "consolidated version as in force on 2016-12-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
 }

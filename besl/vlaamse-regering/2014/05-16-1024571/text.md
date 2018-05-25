@@ -246,7 +246,7 @@ i) de afwezigheid van een kind;<br>
 a) op toegang tot alle ruimtes waar het kind wordt opgevangen;<br>
 b) om klachten te uiten, bij voorkeur eerst bij de organisator via de procedure voor klachtenbehandeling, vermeld in artikel 50, en bij Kind en Gezin via de Klachtendienst van Kind en Gezin. Het adres, e-mailadres en het telefoonnummer van de Klachtendienst van Kind en Gezin worden daarbij vermeld;<br>
 c) op een fiscaal attest voor de verleende opvangprestatie;<br>
-d) op respect voor de privacy, meer bepaald met betrekking tot het verwerken van persoonsgegevens als vermeld in de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens. Daarbij zijn de volgende bepalingen opgenomen:<br>
+d) op respect voor de privacy en de bescherming van natuurlijke personen bij de verwerking van hun gegevens, meer bepaald met betrekking tot de verwerking van persoonsgegevens als vermeld in verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming). Daarbij zijn de volgende bepalingen opgenomen:<br>
 1) een bepaling over kennisgeving, meer bepaald dat de persoonsgegevens van de kinderen en de gezinnen alleen gebruikt worden in het kader van buitenschoolse opvang, en dat die gegevens op elk moment kunnen worden ingekeken en verbeterd door de betrokkenen, en dat die gegevens na de buitenschoolse opvang worden vernietigd;<br>
 2) een vertrouwelijkheidsverklaring, meer bepaald dat de organisator zich ertoe verbindt om de veiligheid en het vertrouwelijke karakter van de persoonsgegevens te waarborgen;<br>
 4° de verwijzing naar:<br>
@@ -267,7 +267,11 @@ De organisator zorgt ervoor dat de bepalingen van het huishoudelijk   reglement 
 
 ### ART. 28.
 
-De organisator heeft, met het oog op de veiligheid van de kinderen, voor   elk opgevangen kind een actuele inlichtingenfiche waarin de volgende bepalingen   zijn opgenomen en waarvoor de contracthouder de toestemming geeft om ze te   verwerken in het kader van de naleving van de voorwaarden van dit besluit:<BR>1°   de identificatiegegevens van het kind en het gezin;<BR>2° de   bereikbaarheidsgegevens van het gezin en de behandelende arts;<BR>3° de   specifieke aandachtspunten, onder meer over de gezondheid of de manier van   omgaan met het kind;<BR>4° de personen die het kind mogen   ophalen.<BR>
+De organisator heeft, met het oog op de veiligheid van de kinderen, voor elk opgevangen kind een actuele inlichtingenfiche waarin de volgende bepalingen zijn opgenomen:<br>
+1° de identificatiegegevens van het kind en het gezin;<br>
+2° de bereikbaarheidsgegevens van het gezin en de behandelende arts;<br>
+3° de specifieke aandachtspunten, onder meer over de gezondheid of de manier van omgaan met het kind;<br>
+4° de personen die het kind mogen ophalen.
 
 ### ART. 29.
 
