@@ -125,7 +125,10 @@ Het agentschap is niet aansprakelijk voor foutieve, laattijdige of   ontbrekende
 
 ### ART. 16.
 
-In het kader van het KLIP zullen er persoonsgegevens verwerkt worden. Het   agentschap wordt hierbij aangewezen als de verantwoordelijke voor de verwerking   in de zin van artikel 1, § 4, eerste lid, van de wet van 8 december 1992 tot   bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van   persoonsgegevens.<BR><BR>In het kader van het KLIP worden persoonsgegevens   verwerkt om het doel van het KLIP, vermeld in artikel 3, te realiseren en om de   taken uit te voeren die door dit decreet aan het agentschap worden   toegewezen.<BR><BR>
+In het kader van het KLIP zullen er persoonsgegevens verwerkt worden. Het agentschap wordt hierbij aangewezen als de verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+In het kader van het KLIP worden persoonsgegevens verwerkt om het doel van het KLIP, vermeld in artikel 3, te realiseren en om de taken uit te voeren die door dit decreet aan het agentschap worden toegewezen.<br>
+&nbsp;
 
 ## HOOFDSTUK IX Handhaving
 
