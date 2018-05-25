@@ -57,7 +57,9 @@ Katten,   afkomstig uit het buitenland, worden binnen acht dagen na hun aankomst
 
 ### ART. 6.
 
-<P>De   gegevens van de geregistreerde katten en hun verantwoordelijke worden verzameld   en bijgehouden in een databank. Die databank heeft tot doel katten te kunnen   identificeren, ze te herenigen met hun verantwoordelijke en de handel in en het   verkeer van katten te controleren.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   databank wordt beheerd door de overheidsdienst die bevoegd is voor   dierenwelzijn. Die dienst kan voor het geheel of een deel van die taak een   beroep doen op een dienstverlenend bedrijf.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De gegevens van de geregistreerde katten en hun verantwoordelijke worden verzameld en bijgehouden in een databank. Die databank heeft tot doel katten te kunnen identificeren, ze te herenigen met hun verantwoordelijke en de handel in en het verkeer van katten te controleren.</p>
+
+<p>De databank wordt beheerd door de overheidsdienst die bevoegd is voor dierenwelzijn. Die dienst kan voor het geheel of een deel van die taak een beroep doen op een dienstverlenend bedrijf dat dan optreedt als verwerker, als vermeld in artikel 4, 8), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).</p>
 
 ### ART. 7.
 
