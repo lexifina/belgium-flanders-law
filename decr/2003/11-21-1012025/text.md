@@ -278,7 +278,7 @@ Een dergelijke toestemming kan door de Vlaamse regering verleend worden nadat mi
 
 ### ART. 34.
 
-De gegevensuitwisseling, bedoeld in artikel 32, moet gebeuren in overeenstemming met de bepalingen van het decreet betreffende het gezondheidsinformatiesysteem.
+De gegevensuitwisseling, bedoeld in artikel 32, moet gebeuren in overeenstemming met de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.
 
 ### ART 34/1.
 
@@ -353,7 +353,7 @@ In principe is de melding, bedoeld in het eerste lid, naamloos. Met het oog op d
 <br>
 § 2. De gemelde gegevens worden aangewend met het oog op het nemen van initiatieven, als bedoeld in artikel 44, § 2, en in het bijzonder met het oog op het nemen van de maatregelen, als bedoeld in artikel 44, § 3, 2°.<br>
 <br>
-Deze gegevens kunnen ook worden verwerkt voor statistische of beleidsondersteunende doeleinden voorzover de identiteit van de betrokkenen niet achterhaald kan worden.<br>
+Deze gegevens kunnen ook worden verwerkt voor statistische of beleidsondersteunende doeleinden voorzover de betrokkenen niet of niet meer identificeerbaar zijn.<br>
 <br>
 Deze gegevens worden voor geen andere doeleinden gebruikt dan voor die welke vermeld zijn in het eerste en tweede lid.<br>
 <br>
