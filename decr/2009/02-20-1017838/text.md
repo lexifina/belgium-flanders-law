@@ -8,7 +8,9 @@ Dit decreet regelt een gewest- en gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-Dit decreet regelt onder meer de omzetting van richtlijn 2007/2/EG van het Europees Parlement en de Raad van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Europese Gemeenschap (INSPIRE).<br /><br />Dit decreet doet op geen enkele wijze afbreuk aan de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens en het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.
+Dit decreet regelt onder meer de omzetting van richtlijn 2007/2/EG van het Europees Parlement en de Raad van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Europese Gemeenschap (INSPIRE).<br>
+<br>
+Dit decreet doet op geen enkele wijze afbreuk aan de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.
 
 ### ART. 3.
 
@@ -159,7 +161,7 @@ De instellingen en organen van de Europese Gemeenschap en iedere natuurlijke per
 2° de openbare veiligheid en de nationale defensie;<br>
 3° de rechtspleging in een strafrechtelijk, burgerlijk, administratief of sociaalrechtelijk rechtsgeding.<br>
 <br>
-§ 2. Wanneer de geografische gegevens informatie van geïdentificeerde of identificeerbare natuurlijke personen bevatten, moeten deze gegevens als persoonsgegevens in de zin van artikel 1, § 1, van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens worden gekwalificeerd. De toegang tot die geografische persoonsgegevens gebeurt overeenkomstig artikelen 8 en 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br>
+§ 2. Wanneer de geografische gegevens informatie van geïdentificeerde of identificeerbare natuurlijke personen bevatten, moeten deze gegevens als persoonsgegevens in de zin van artikel 4, 1), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) worden gekwalificeerd. De toegang tot die geografische persoonsgegevens gebeurt met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.<br>
 <br>
 De toegang tot geografische persoonsgegevens door instanties wordt in ieder geval uitsluitend verleend voor zover de latere verwerking kadert binnen of verenigbaar is met de wettelijk of reglementair bepaalde taken van de instantie in kwestie die de toegang tot of het gebruik van de betreffende gegevens vraagt.
 
