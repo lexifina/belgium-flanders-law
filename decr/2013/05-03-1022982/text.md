@@ -119,7 +119,30 @@ In geval van overmacht of van een onverwachte hindernis mag er van de   opgelegd
 
 ### ART. 16.
 
-<P>Onverminderd de bevoegdheid van andere personen houden de wegeninspecteurs   die de Vlaamse Regering aanwijst, toezicht op de naleving van dit decreet en de   uitvoeringsbesluiten ervan. De Vlaamse Regering bepaalt de kentekens van hun   functie.<BR></P>  <P>De wegeninspecteurs kunnen in het kader van de uitoefening van hun opdracht   :<BR>1° bevelen geven aan de bestuurders;<BR>2° inlichtingen inwinnen en   controle uitoefenen door personen te ondervragen en inzage te nemen van   documenten en andere informatiedragers;<BR>3° het vastgestelde overtollige   gewicht en/of de te hoge, te brede of te lange lading doen afladen of   herverdelen;<BR>4° de bijstand van de politie vorderen;<BR>5° de vergunning,   bedoeld in artikel 4, eerste lid, of artikel 7, § 1, inhouden totdat de   overtreding ophoudt te bestaan.<BR></P>  <P>De wegeninspecteurs zijn bovendien bevoegd om inbreuken op dit decreet of de   uitvoeringsbesluiten ervan vast te stellen bij proces-verbaal met bewijswaarde   tot bewijs van het tegendeel. Binnen veertien dagen na de vaststelling van de   inbreuk wordt een afschrift van het proces-verbaal aan de overtreder en, in   voorkomend geval, aan de onderneming toegestuurd.<BR></P>  <P>De onderneming verklaart, binnen acht dagen na de ontvangst van het afschrift   van het proces-verbaal aan de wegeninspecteur-controleur of ze, overeenkomstig   artikel 1384 van het Burgerlijk Wetboek, burgerrechtelijk aansprakelijk is voor   de overtreder.<BR></P>
+<p>Onverminderd de bevoegdheid van andere personen houden de wegeninspecteurs die de Vlaamse Regering aanwijst, toezicht op de naleving van dit decreet en de uitvoeringsbesluiten ervan. De Vlaamse Regering bepaalt de kentekens van hun functie.</p>
+
+<p>De wegeninspecteurs kunnen in het kader van de uitoefening van hun opdracht :<br>
+1° bevelen geven aan de bestuurders;<br>
+2° inlichtingen inwinnen en controle uitoefenen door personen te ondervragen en inzage te nemen van documenten en andere informatiedragers;<br>
+3° het vastgestelde overtollige gewicht en/of de te hoge, te brede of te lange lading doen afladen of herverdelen;<br>
+4° de bijstand van de politie vorderen;<br>
+5° de vergunning, bedoeld in artikel 4, eerste lid, of artikel 7, § 1, inhouden totdat de overtreding ophoudt te bestaan.</p>
+
+<p>De wegeninspecteurs zijn bovendien bevoegd om inbreuken op dit decreet of de uitvoeringsbesluiten ervan vast te stellen bij proces-verbaal met bewijswaarde tot bewijs van het tegendeel. Binnen veertien dagen na de vaststelling van de inbreuk wordt een afschrift van het proces-verbaal aan de overtreder en, in voorkomend geval, aan de onderneming toegestuurd.</p>
+
+<p>De onderneming verklaart, binnen acht dagen na de ontvangst van het afschrift van het proces-verbaal aan de wegeninspecteur-controleur of ze, overeenkomstig artikel 1384 van het Burgerlijk Wetboek, burgerrechtelijk aansprakelijk is voor de overtreder.<br>
+<br>
+Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de wegeninspecteurs beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan wordt aan de voorwaarden, vermeld in zesde tot en met het tiende lid.<br>
+<br>
+De mogelijkheid, vermeld in vijfde lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de wegeninspecteurs, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+De wegeninspecteurs moeten de beslissing, vermeld in het vijfde lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het vijfde lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mogen de wegeninspecteurs op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan de wegeninspecteurs heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het vijfde lid, tijdens de periode, vermeld in het zesde lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijzen de wegeninspecteurs hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.</p>
 
 ## HOOFDSTUK 4 Administratieve geldboete en procedure
 

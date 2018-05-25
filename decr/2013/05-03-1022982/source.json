@@ -2,16 +2,16 @@
   "codex_id": 1022982,
   "title": "Decreet van 2013-05-03 betreffende de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022982/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "e869c965d684372a790cbf9e9968b3d56c5981c397d2de186765a7e5d0ff0275",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022982/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "81e72bf3776ad6ccb65e10557af5c5ef134fe1742a1ecb3e7dc99ceeee19f601",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022982&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2018-05-25",
   "made": "2013-05-03",
   "gazette": "2013-06-13",
   "numac": 2013035499,
   "document_start": "2014-03-01",
   "document_end": null,
-  "in_force": "2018-01-01",
+  "in_force": "2018-05-25",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
 }
