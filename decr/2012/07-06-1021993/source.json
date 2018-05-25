@@ -2,16 +2,16 @@
   "codex_id": 1021993,
   "title": "Decreet van 2012-07-06 betreffende het vervoer van gevaarlijke goederen over de binnenwateren",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021993/VolledigDocument?datum=2012-08-11",
-  "source_sha256": "4c67147205c313afbd3065321a47fad9a7158f79d74a6d700882ee7eae38dfbd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021993/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "ef2131889dbbf0672448d71ad81790735e45adcee8ae4da13106b1a0c6a0a2d1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021993&param=informatie",
-  "as_of": "2012-08-11",
+  "as_of": "2018-05-25",
   "made": "2012-07-06",
   "gazette": "2012-08-01",
   "numac": 2012204382,
   "document_start": "2012-08-11",
   "document_end": "2022-05-31",
-  "in_force": "2012-08-11",
+  "in_force": "2018-05-25",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2012-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
 }

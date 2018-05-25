@@ -30,7 +30,29 @@ De inbreuken op de in uitvoering van dit decreet genomen besluiten en de overtre
 
 ### ART. 8.
 
-Onverminderd de bevoegdheden van de officieren van de gerechtelijke politie, houden de ambtenaren die de Vlaamse Regering aanwijst toezicht op de naleving van dit decreet en de uitvoeringsbesluiten. <br /><br />Ze zijn ervoor bevoegd om inbreuken op dit decreet en op de uitvoeringsbesluiten ervan vast te stellen bij proces-verbaal met bewijswaarde tot bewijs van het tegendeel. Een afschrift van het proces-verbaal wordt naar de overtreders gestuurd binnen een maand na de vaststelling van de inbreuk.<br /><br />Ze kunnen in het kader van de uitoefening van hun opdracht : <br />1° lokalen, terreinen en vervoermiddelen betreden;<br />2° inlichtingen en kopieën vorderen door personen te ondervragen en inzage krijgen in documenten en andere informatiedragers;<br />3° zich laten vergezellen door personen die daarvoor door hen zijn aangewezen op grond van hun deskundigheid;<br />4° de bijstand van de politie vorderen.<br /><br />Men is verplicht aan de personen die belast zijn met het toezicht, binnen de door hen gestelde redelijke termijn, alle medewerking te verlenen die ze redelijkerwijs kunnen vorderen bij de uitoefening van hun bevoegdheden.
+Onverminderd de bevoegdheden van de officieren van de gerechtelijke politie, houden de ambtenaren die de Vlaamse Regering aanwijst toezicht op de naleving van dit decreet en de uitvoeringsbesluiten.<br>
+<br>
+Ze zijn ervoor bevoegd om inbreuken op dit decreet en op de uitvoeringsbesluiten ervan vast te stellen bij proces-verbaal met bewijswaarde tot bewijs van het tegendeel. Een afschrift van het proces-verbaal wordt naar de overtreders gestuurd binnen een maand na de vaststelling van de inbreuk.<br>
+<br>
+Ze kunnen in het kader van de uitoefening van hun opdracht :<br>
+1° lokalen, terreinen en vervoermiddelen betreden;<br>
+2° inlichtingen en kopieën vorderen door personen te ondervragen en inzage krijgen in documenten en andere informatiedragers;<br>
+3° zich laten vergezellen door personen die daarvoor door hen zijn aangewezen op grond van hun deskundigheid;<br>
+4° de bijstand van de politie vorderen.<br>
+<br>
+Men is verplicht aan de personen die belast zijn met het toezicht, binnen de door hen gestelde redelijke termijn, alle medewerking te verlenen die ze redelijkerwijs kunnen vorderen bij de uitoefening van hun bevoegdheden.<br>
+<br>
+Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de ambtenaren die de Vlaamse Regering aanwijst, vermeld in het eerste lid, beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan wordt aan de voorwaarden, vermeld in het zesde tot en met het tiende lid.<br>
+<br>
+De mogelijkheid, vermeld in het vijfde lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de ambtenaren die de Vlaamse Regering aanwijst, vermeld in het eerste lid, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+De ambtenaren die de Vlaamse Regering aanwijst, vermeld in het eerste lid, moeten de beslissing, vermeld in het vijfde lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het vijfde lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mogen de ambtenaren die de Vlaamse Regering aanwijst, vermeld in het eerste lid, op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan de ambtenaren die de Vlaamse Regering aanwijst, vermeld in het eerste lid, heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het vijfde lid, tijdens de periode, vermeld in het zesde lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijzen de ambtenaren die de Vlaamse Regering aanwijst, vermeld in het eerste lid, hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.
 
 ### ART. 9.
 
