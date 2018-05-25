@@ -94,7 +94,7 @@ Om de nationaliteit, hoofdverblijfplaats en de toestand van de leefeenheid te be
 
 ### ART. 8.
 
-<p>De afdeling Studietoelagen kan alle inlichtingen inwinnen die noodzakelijk zijn voor de toepassing van dit decreet. De afdeling Studietoelagen kan eveneens gegevens uitwisselen met de voor studiefinanciering bevoegde overheden uit het buitenland, voor zover deze informatieuitwisseling noodzakelijk is voor de toepassing van de buitenlandse regelgeving en berust op een schriftelijk afsprakenkader tussen de betrokken overheidsdiensten, met inachtname van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.<br>
+<p>De afdeling Studietoelagen kan alle inlichtingen inwinnen die noodzakelijk zijn voor de toepassing van dit decreet. De afdeling Studietoelagen kan eveneens gegevens uitwisselen met de voor studiefinanciering bevoegde overheden uit het buitenland, voor zover deze informatieuitwisseling noodzakelijk is voor de toepassing van de buitenlandse regelgeving en berust op een schriftelijk afsprakenkader tussen de betrokken overheidsdiensten, met inachtname van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
 <br>
 De aanvrager, de persoon die de toelage ontvangt of de persoon die in het onderhoud van de leerling of student voorziet, moet de afdeling Studietoelagen op de hoogte brengen van nieuwe gegevens die relevant zijn voor de behandeling van het dossier.</p>
 
