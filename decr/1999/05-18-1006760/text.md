@@ -62,7 +62,7 @@ Het centrum voor geestelijke gezondheidszorg legt voor elke patiënt aan wie zor
 
 ### ART. 14.
 
-De regering bepaalt de regels voor de samenstelling, het bijhouden, het vermenigvuldigen en de vernietiging van het patiëntendossier evenals de procedure voor de eventuele raadpleging en eventuele overdracht van het dossier. Ze houdt hierbij rekening met de geldende regels inzake het beroepsgeheim, de deontologie en de bescherming van de persoonlijke levenssfeer.
+De regering bepaalt de regels voor de samenstelling, het bijhouden, het vermenigvuldigen en de vernietiging van het patiëntendossier evenals de procedure voor de eventuele raadpleging en eventuele overdracht van het dossier. Ze houdt hierbij rekening met de geldende regels inzake het beroepsgeheim, de deontologie en de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.
 
 ### ART. 15.
 

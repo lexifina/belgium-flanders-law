@@ -2,16 +2,16 @@
   "codex_id": 1006760,
   "title": "Decreet van 1999-05-18 betreffende de [centra voor] geestelijke gezondheidszorg",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006760/VolledigDocument?datum=2016-08-29",
-  "source_sha256": "d8f8fac2080839724f81b437afb1bba3594f022909026838d7d3e1e2cfe706d4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006760/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "61d74a4853d7d32d0ed70ac19a6fbc89bad6aff7b365fc3a8e0e8353b7e6147e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006760&param=informatie",
-  "as_of": "2016-08-29",
+  "as_of": "2018-05-25",
   "made": "1999-05-18",
   "gazette": "1999-07-17",
   "numac": 1999035843,
   "document_start": "2000-01-01",
   "document_end": null,
-  "in_force": "2016-08-29",
+  "in_force": "2018-05-25",
   "article_versions": 39,
-  "record_form": "consolidated version as in force on 2016-08-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
 }
