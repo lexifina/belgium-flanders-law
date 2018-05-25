@@ -105,7 +105,21 @@ Schendingen van artikel 16 van dit decreet en de besluiten ter uitvoering van di
 
 ### ART. 19.
 
-Onverminderd de bevoegdheden van de agenten en de officieren van gerechtelijke politie, zijn de door de Vlaamse Regering aangewezen ambtenaren, bevoegd om de misdrijven op te sporen en vast te stellen door een proces-verbaal dat geldt tot bewijs van het tegendeel.<br /><br />Daartoe hebben zij toegang tot de bouwplaats en de gebouwen om alle nodige opsporingen en vaststellingen te verrichten. Als deze verrichtingen de kenmerken van een huiszoeking dragen, mogen ze enkel worden uitgevoerd op voorwaarde dat de politierechter daartoe een machtiging heeft verstrekt.<br /><br />
+Onverminderd de bevoegdheden van de agenten en de officieren van gerechtelijke politie, zijn de door de Vlaamse Regering aangewezen ambtenaren, bevoegd om de misdrijven op te sporen en vast te stellen door een proces-verbaal dat geldt tot bewijs van het tegendeel.<br>
+<br>
+Daartoe hebben zij toegang tot de bouwplaats en de gebouwen om alle nodige opsporingen en vaststellingen te verrichten. Als deze verrichtingen de kenmerken van een huiszoeking dragen, mogen ze enkel worden uitgevoerd op voorwaarde dat de politierechter daartoe een machtiging heeft verstrekt.<br>
+<br>
+Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de door de Vlaamse Regering aangewezen ambtenaren, vermeld in het eerste lid, beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan wordt aan de voorwaarden, vermeld in het vierde tot en met het achtste lid.<br>
+<br>
+De mogelijkheid, vermeld in het derde lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de door de Vlaamse Regering aangewezen ambtenaren, vermeld in het eerste lid, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+De door de Vlaamse Regering aangewezen ambtenaren, vermeld in het eerste lid, moeten de beslissing, vermeld in het derde lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het derde lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mogen de door de Vlaamse Regering aangewezen ambtenaren, vermeld in het eerste lid, op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan de door de Vlaamse Regering aangewezen ambtenaren, vermeld in het eerste lid, heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het derde lid, tijdens de periode, vermeld in het vierde lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijzen de door de Vlaamse Regering aangewezen ambtenaren, vermeld in het eerste lid, hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.
 
 ## HOOFDSTUK V Slotbepalingen
 
