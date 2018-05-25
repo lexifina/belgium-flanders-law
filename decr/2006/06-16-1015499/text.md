@@ -58,7 +58,12 @@ Het financieel beheer van de Vlaamse Grondenbank is gescheiden van het algemeen 
 
 ### ART. 9.
 
-De administratieve overheden van het Vlaamse Gewest stellen, op vraag van de Vlaamse Grondenbank, alle informatie waarover zij beschikken en die nodig is voor de toepassing van dit decreet, ter beschikking van de Vlaamse Grondenbank. Voor zover dit is opgenomen in een samenwerkingsakkoord, kan ook de Federale Staat informatie aanleveren.<br /><br />De administratieve overheden van het Vlaamse Gewest en de federale staat blijven aansprakelijk voor de door hen al of niet geleverde informatie. De Vlaamse Grondenbank is aansprakelijk voor de verwerking van de aangeleverde informatie.<br /><br />De Vlaamse Regering kan nadere regels stellen betreffende de uitvoering van dit artikel.<br /><br />
+De administratieve overheden van het Vlaamse Gewest stellen, op vraag van de Vlaamse Grondenbank, alle informatie waarover zij beschikken en die nodig is voor de toepassing van dit decreet, ter beschikking van de Vlaamse Grondenbank. Voor zover dit is opgenomen in een samenwerkingsakkoord, kan ook de Federale Staat informatie aanleveren.<br>
+<br>
+Met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens blijven de administratieve overheden van het Vlaamse Gewest en de Federale Staat aansprakelijk voor de door hen al of niet geleverde informatie.&nbsp;De Vlaamse Grondenbank is aansprakelijk voor de verwerking van de aangeleverde informatie.<br>
+<br>
+De Vlaamse Regering kan nadere regels stellen betreffende de uitvoering van dit artikel.<br>
+&nbsp;
 
 ## TITEL IV VERWERVEN, BEHEREN EN OVERDRAGEN
 
