@@ -54,7 +54,17 @@ Iedereen die met toepassing van dit decreet in contact komt met gebruikers, eerb
 
 ### ART. 10.
 
-De centra die aan gebruikers hulp- en dienstverlening aanbieden in het kader van problemen ten gevolge van gebeurtenissen als vermeld in artikel 2, 1°, verwerken persoonsgegevens en wisselen onder elkaar en met derden persoonsgegevens uit opdat aan die gebruikers verantwoorde hulp- en dienstverlening als geregeld bij of krachtens dit decreet, kan worden verstrekt en opdat de continuïteit van de hulp- en dienstverlening aan die gebruikers kan worden gegarandeerd. Die persoonsgegevens bevatten ook persoonsgegevens als vermeld in artikel 6, 7 en 8 van de wet van 8 december 1992 betreffende de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.<br /><br />Met behoud van de toepassing van de verplichtingen en beperkingen die voortvloeien uit de wet van 8 december 1992 betreffende de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens of uit de regelgevingen van de sectoren, is die gegevensuitwisseling onderworpen aan de volgende voorwaarden : <br />1° de gegevensuitwisseling heeft alleen betrekking op gegevens die noodzakelijk zijn voor het algemeen welzijnswerk;<br />2° de gegevens worden alleen uitgewisseld in het belang van de gebruikers;<br />3° de derden met wie de gegevens worden uitgewisseld moeten betrokken zijn bij de hulp- en dienstverlening;<br />4° behoudens overmacht of dringende noodzaak, dient de gebruiker op wie de gegevens betrekking hebben, zijn geïnformeerde en volgehouden instemming te geven met de gegevensuitwisseling op de tijdstippen en wijze zoals bepaald door de Vlaamse Regering.<br /><br />De Vlaamse Regering bepaalt nadere regels met betrekking tot de vorm waarin en de wijze waarop de persoonsgegevens worden verwerkt en uitgewisseld. Ze kan aanwijzen wie al of niet in aanmerking komt voor de uitwisseling van persoonsgegevens als derde, zoals bedoeld in het eerste lid en het tweede lid, 3°.
+De centra die aan gebruikers hulp- en dienstverlening aanbieden in het kader van problemen ten gevolge van gebeurtenissen als vermeld in artikel 2, 1°, verwerken persoonsgegevens en wisselen onder elkaar en met derden persoonsgegevens uit opdat aan die gebruikers verantwoorde hulp- en dienstverlening als geregeld bij of krachtens dit decreet, kan worden verstrekt en opdat de continuïteit van de hulp- en dienstverlening aan die gebruikers kan worden gegarandeerd. Die persoonsgegevens bevatten ook persoonsgegevens als vermeld in artikel 9, lid 1, en artikel 10 van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+Met behoud van de toepassing van de verplichtingen en beperkingen die voortvloeien uit de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens of uit de regelgevingen van de sectoren, is die gegevensuitwisseling onderworpen aan de volgende voorwaarden :<br>
+1° de gegevensuitwisseling heeft alleen betrekking op gegevens die noodzakelijk zijn voor het algemeen welzijnswerk;<br>
+2° de gegevens worden alleen uitgewisseld in het belang van de gebruikers;<br>
+3° de derden met wie de gegevens worden uitgewisseld moeten betrokken zijn bij de hulp- en dienstverlening;<br>
+4° behoudens overmacht of dringende noodzaak, dient de gebruiker op wie de gegevens betrekking hebben, zijn instemming te geven met de gegevensuitwisseling, op de wijze die door de Vlaamse Regering kan worden bepaald.<br>
+<br>
+In het tweede lid, 4°, wordt verstaan onder instemming : elke vrije, specifieke, geïnformeerde en uitdrukkelijke wilsuiting.<br>
+<br>
+De Vlaamse Regering bepaalt nadere regels met betrekking tot de vorm waarin en de wijze waarop de persoonsgegevens worden verwerkt en uitgewisseld. Ze kan aanwijzen wie al of niet in aanmerking komt voor de uitwisseling van persoonsgegevens als derde, zoals bedoeld in het eerste lid en het tweede lid, 3°.
 
 ### ART. 11.
 
@@ -88,7 +98,11 @@ De Vlaamse Regering kan initiatieven organiseren met het oog op intersectorale a
 
 ### ART. 18.
 
-Het algemeen welzijnswerk wordt in een registratie opgenomen. Om het hulpaanbod van het algemeen welzijnswerk systematisch vraaggericht te kunnen bijsturen, bezorgen de centra gecodeerde persoonsgegevens en gegevens over verantwoorde hulp- en dienstverlening aan de Vlaamse overheid. <br /><br />De Vlaamse Regering bepaalt welke gegevens worden bezorgd en de vorm waarin dat gebeurt, alsook de wijze waarop en de periodiciteit waarmee de gegevens worden bezorgd. Ze bepaalt tevens de wijze waarop de gegevens worden gecodeerd.
+Het algemeen welzijnswerk wordt in een registratie opgenomen. Om het hulpaanbod van het algemeen welzijnswerk systematisch vraaggericht te kunnen bijsturen, bezorgen de centra gecodeerde persoonsgegevens en gegevens over verantwoorde hulp- en dienstverlening aan de Vlaamse overheid.<br>
+<br>
+In het eerste lid wordt verstaan onder gecodeerde persoonsgegevens : de persoonsgegevens die alleen met een code in verband kunnen worden gebracht met een geïdentificeerde of identificeerbare persoon.<br>
+<br>
+De Vlaamse Regering bepaalt welke gegevens worden bezorgd en de vorm waarin dat gebeurt, alsook de wijze waarop en de periodiciteit waarmee de gegevens worden bezorgd. Ze bepaalt tevens de wijze waarop de gegevens worden gecodeerd.
 
 ## HOOFDSTUK IV. Projecten en ondersteuning
 
