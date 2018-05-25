@@ -114,7 +114,7 @@
 <br>
 <span style="color: rgb(0, 0, 0);">De communicatie van de Vlaamse overheid is gemakkelijk te raadplegen voor het beoogde doelpubliek. Documenten en formulieren zijn zoveel mogelijk digitaal op te vragen via de centrale website van de Vlaamse overheid of worden op eenvoudig verzoek verstuurd.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0);">Informatievragen worden gratis beantwoord. Onverminderd de bepalingen van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie, kan de Vlaamse overheid voor het bezorgen van documenten op welke drager ook een bedrag aanrekenen op basis van een redelijke kostprijs.</span><br>
+<span style="color: rgb(0, 0, 0);">Informatievragen worden gratis beantwoord. Onverminderd de bepalingen van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie, kan de Vlaamse overheid voor het bezorgen van documenten op welke drager ook een bedrag aanrekenen op basis van een redelijke kostprijs, met behoud van de toepassing van artikel 12, lid 5, en artikel 15, lid 3, van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).</span><br>
 &nbsp;
 
 ## HOOFDSTUK 3 Opheffingsbepalingen
