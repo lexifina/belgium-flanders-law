@@ -178,7 +178,7 @@ De organisator van wijk-werken heeft de volgende taken:<br>
 8° informatie verlenen over wijk-werken;<br>
 9° het jaarlijks informeren van de gemeente over de uitvoering van het wijk-werken in de betrokken gemeente.<br>
 <br>
-Om de taken, vermeld in het eerste lid, uit te voeren, maakt de organisator gebruik van het platform, vermeld in afdeling 9. De organisator voert de taken uit, vermeld in het eerste lid, conform de regelgeving over de privacy en de verwerking van persoonsgegevens.<br>
+Om de taken, vermeld in het eerste lid, uit te voeren, maakt de organisator gebruik van het platform, vermeld in afdeling 9. De organisator voert de taken uit, vermeld in het eerste lid, conform de regelgeving over de&nbsp;bescherming van de persoonlijke levenssfeer en de verwerking van persoonsgegevens.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere voorwaarden en regels in verband met het toepassingsgebied, de aard en de inhoud van de organisatie van het wijk-werken, de taken van de organisatie, de controle en het toezicht.
 
