@@ -181,11 +181,20 @@ De Vlaamse Regering kan bijkomende voorwaarden bepalen waaraan het convenant en 
 
 ### ART. 20.
 
-De vergunde diensten voor pleegzorg verwerken relevante gegevens over de pleegzorg, inclusief de gegevens als bedoeld in de artikelen 6, 7 en 8, van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.<br /><br />Deze gegevensverwerking heeft tot doel de vergunde diensten voor pleegzorg te laten beschikken over gegevens die relevant en noodzakelijk zijn om hun opdracht en taken als bedoeld in artikel 7 te kunnen uitvoeren en gebeurt steeds in het belang van de personen tot wie de pleegzorg zich richt. Ze heeft eveneens tot doel aan de Vlaamse Gemeenschap anonieme of gecodeerde gegevens te bezorgen om haar in staat te stellen haar beleid op het vlak van pleegzorg te evalueren en bij te sturen.<br /><br />
+De vergunde diensten voor pleegzorg verwerken relevante gegevens over de pleegzorg, inclusief de&nbsp;bijzondere categorieën van persoonsgegevens, vermeld in artikel 9 en 10 van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).<br>
+<br>
+Deze gegevensverwerking heeft tot doel de vergunde diensten voor pleegzorg te laten beschikken over gegevens die relevant en noodzakelijk zijn om hun opdracht en taken als bedoeld in artikel 7 te kunnen uitvoeren en gebeurt steeds in het belang van de personen tot wie de pleegzorg zich richt. Ze heeft eveneens tot doel aan de Vlaamse Gemeenschap anonieme of gecodeerde gegevens te bezorgen om haar in staat te stellen haar beleid op het vlak van pleegzorg te evalueren en bij te sturen.<br>
+&nbsp;
 
 ### ART. 21.
 
-De vergunde diensten voor pleegzorg wisselen onder elkaar persoonsgegevens uit met het oog op de uitvoering van de opdracht en taken, als bedoeld in artikel 7.<br /><br />Met behoud van de toepassing van de verplichtingen en beperkingen die voortvloeien uit de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens, is deze gegevensuitwisseling onderworpen aan de volgende voorwaarden : <br />1° de gegevensuitwisseling heeft enkel betrekking op gegevens die noodzakelijk zijn voor de pleegzorg;<br />2° de gegevens worden enkel uitgewisseld in het belang van de personen tot wie de pleegzorg zich richt;<br />3° de vergunde diensten voor pleegzorg trachten, in de mate van het mogelijke, de geïnformeerde instemming met de gegevensuitwisseling te verkrijgen van de persoon op wie de persoonsgegevens betrekking hebben.<br /><br />
+De vergunde diensten voor pleegzorg wisselen onder elkaar persoonsgegevens uit met het oog op de uitvoering van de opdracht en taken, als bedoeld in artikel 7.<br>
+<br>
+Met behoud van de toepassing van de verplichtingen en beperkingen die voortvloeien uit de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, is deze gegevensuitwisseling onderworpen aan de volgende voorwaarden :<br>
+1° de gegevensuitwisseling heeft enkel betrekking op gegevens die noodzakelijk zijn voor de pleegzorg;<br>
+2° de gegevens worden enkel uitgewisseld in het belang van de personen tot wie de pleegzorg zich richt;<br>
+3° de vergunde diensten voor pleegzorg trachten, in de mate van het mogelijke, de geïnformeerde instemming met de gegevensuitwisseling te verkrijgen van de persoon op wie de persoonsgegevens betrekking hebben.<br>
+&nbsp;
 
 ### ART. 22.
 
