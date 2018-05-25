@@ -396,11 +396,14 @@ De casemanager Werk, de casemanager Zorg en de dienstverleners registreren de ac
 
 ### ART. 39.
 
-Bij het registreren van gegevens in het elektronische dossier van de   kandidaat-deelnemer en de deelnemer eerbiedigen de casemanager Werk, de   casemanager Zorg en de dienstverleners de privacy en beschermen zij de   persoonlijke levenssfeer.<BR>
+Bij het registreren van gegevens in het elektronische dossier van de kandidaat-deelnemer en de deelnemer eerbiedigen de casemanager Werk, de casemanager Zorg en de dienstverleners de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.
 
 ### ART. 40.
 
-De gegevensdeling tussen de casemanager Werk, de casemanager Zorg en de   dienstverleners is onderworpen aan de volgende voorwaarden:<BR>1° de   gegevensdeling heeft alleen betrekking op gegevens die noodzakelijk zijn in het   kader van de werk- en zorgtrajecten;<BR>2° de gegevens worden uitgewisseld in   het belang van de deelnemer;<BR>3° de deelnemer moet zijn instemming geven met   de gegevensdeling en heeft op elk moment inzicht in zijn elektronische   dossier.<BR>
+De gegevensdeling tussen de casemanager Werk, de casemanager Zorg en de dienstverleners is onderworpen aan de volgende voorwaarden:<br>
+1° de gegevensdeling heeft alleen betrekking op gegevens die noodzakelijk zijn in het kader van de werk- en zorgtrajecten;<br>
+2° de gegevens worden uitgewisseld in het belang van de deelnemer;<br>
+3° ...
 
 ## HOOFDSTUK 7 Rapportering
 
