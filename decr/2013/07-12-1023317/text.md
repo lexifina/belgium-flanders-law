@@ -1322,6 +1322,20 @@ De uitvoering van handelingen overeenkomstig de maatregelen, besloten in   een m
 
 De maatregelen, krachtens dit hoofdstuk begrepen in een uitvoerbare   rechterlijke of bestuurlijke beslissing of minnelijke schikking, zijn nimmer   vergunnings-, meldings- of machtigingsplichtig op grond van dit decreet of de   Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<BR>
 
+### ART 11.7.2.
+
+Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de verbalisanten, vermeld in artikel 11.3.3 van dit decreet, en de entiteit waartoe ze behoren beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan wordt aan de voorwaarden, vermeld in het tweede tot en met het zesde lid.<br>
+<br>
+De mogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de verbalisanten, vermeld in artikel 11.3.3 van dit decreet, en de entiteit waartoe ze behoren, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+De verbalisanten, vermeld in artikel 11.3.3 van dit decreet, en de entiteit waartoe ze behoren, moeten de beslissing, vermeld in het eerste lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het eerste lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mogen de verbalisanten, vermeld in artikel 11.3.3 van dit decreet, en de entiteit waartoe ze behoren, op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan de verbalisanten, vermeld in artikel 11.3.3 van dit decreet, en de entiteit waartoe ze behoren heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijzen de verbalisanten, vermeld in artikel 11.3.3 van dit decreet, en de entiteit waartoe ze behoren hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.
+
 ## [HOOFDSTUK 11/1. Verwerking van persoonsgegevens (ing. decr. 10 juni 2022, art. 53, I:1 januari 2023)]
 
 ## HOOFDSTUK 12 Wijzigings-, opheffings-, overgangs- en inwerkingtredingsbepalingen
