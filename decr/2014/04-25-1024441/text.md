@@ -13,7 +13,7 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br>
 2° administratie: de administratie van de diensten van de Vlaamse Regering die bevoegd is voor het gezondheids- of welzijnsbeleid, met uitzondering van het Agentschap;<br>
 3° Agentschap: het publiekrechtelijk vormgegeven extern verzelfstandigd Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg, opgericht bij artikel 27;<br>
 4° authentieke gegevensbron: een authentieke gegevensbron als vermeld in artikel 2, 2°, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
-5° Commissie voor de bescherming van de persoonlijke levenssfeer: de commissie, opgericht bij artikel 23 van de Wet Verwerking Persoonsgegevens;<br>
+5° ...<br>
 6° dienstenintegrator: een instantie als vermeld in artikel 2, 3°, van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator;<br>
 7° gegevensdeling: het elektronisch delen, meedelen of uitwisselen van gegevens;<br>
 8° gezondheidsbeleid: het beleid met betrekking tot het geheel van aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is;<br>
@@ -22,8 +22,8 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br>
 11° Kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
 12° persoonsgegevens: iedere informatie betreffende een geïdentificeerde of identificeerbare natuurlijke persoon als vermeld in artikel 1, § 1, van de wet Verwerking Persoonsgegevens;<br>
 13° privacyregelgeving: het geheel van de geldende regelgeving ter bescherming van de persoonlijke levenssfeer;<br>
-14° Sectoraal Comité van het Rijksregister: het sectoraal comité, opgericht binnen de Commissie voor de bescherming van de persoonlijke levenssfeer overeenkomstig artikel 15 van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen;<br>
-15° Sectoraal Comité van de Sociale zekerheid en van de Gezondheid: het sectoraal comité, opgericht binnen de Commissie voor de bescherming van de persoonlijke levenssfeer overeenkomstig artikel 37, § 1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+14° ...<br>
+15° ...<br>
 16° toezichtcommissie: de Vlaamse Toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer, opgericht bij artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
 17° verzorgingsinstellingen: de instellingen, vermeld in respectievelijk de wet op de ziekenhuizen, gecoördineerd op 10 juli 2008, en in artikel 22, 6°, 34, 12° en 21°, 63 en 65 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
 18° Vlaamse sociale bescherming: de rechten, vermeld in artikel 4 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
@@ -114,11 +114,9 @@ Met behoud van de toepassing van artikel 16, § 4, van de wet Verwerking Persoon
 
 ### ART. 11.
 
-<p>§ 1. Iedere voorziening wijst, al dan niet onder zijn medewerkers, een veiligheidsconsulent aan, overeenkomstig artikel 8, § 2, en 10 van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen. Iedere voorziening die ook een instantie is in de zin van artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, kan deze veiligheidsconsulent pas aanstellen na gunstig advies van de toezichtcommissie, overeenkomstig artikel 2, § 2, van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de veiligheidsconsulenten, vermeld in artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.</p>
-
-<p>Iedere veiligheidsconsulent van of aangesteld door een voorziening voldoet aan de bepalingen van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de veiligheidsconsulenten, vermeld in artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, zelfs als de voorziening niet onder het toepassingsgebied van dit besluit valt.</p>
-
-<p>§ 2. Iedere voorziening stelt een veiligheidsbeleid op dat voortwerkt op het ontwerp van veiligheidsplan, overeenkomstig artikel 10 van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de veiligheidsconsulenten, vermeld in artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Dat veiligheidsbeleid wordt aangevuld met de wijze waarop de zorggebruiker geïnformeerd wordt over zijn rechten in het kader van dit decreet en de rol die de veiligheidsconsulent opneemt.</p>
+<p>§ 1. Iedere voorziening wijst, al dan niet onder zijn medewerkers, een veiligheidsconsulent aan, overeenkomstig artikel 8, § 2, en 10 van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen. Iedere voorziening die ook een instantie is in de zin van artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, kan deze veiligheidsconsulent pas aanstellen overeenkomstig artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische gegevensverkeer en zijn uitvoeringsbepalingen.<br>
+<br>
+§ 2. Iedere voorziening stelt een veiligheidsbeleid op dat voortwerkt op het ontwerp van veiligheidsplan, overeenkomstig artikel 10 van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de veiligheidsconsulenten, vermeld in artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Dat veiligheidsbeleid wordt aangevuld met de wijze waarop de zorggebruiker geïnformeerd wordt over zijn rechten in het kader van dit decreet en de rol die de veiligheidsconsulent opneemt.</p>
 
 <p>De Vlaamse Regering bepaalt na advies van het Agentschap en de toezichtcommissie de voorwaarden waaronder dat veiligheidsbeleid wordt bekendgemaakt.</p>
 
@@ -140,9 +138,7 @@ Voor de gegevensdeling via het netwerk worden de volgende identificatiemiddelen 
 
 ### ART. 13.
 
-<p>Elke gegevensmededeling van persoonsgegevens via het netwerk vereist een principiële machtiging van de afdeling Gezondheid van het Sectoraal Comité van de Sociale Zekerheid en van de Gezondheid, behalve het identificatienummer van het Rijksregister, vermeld in artikel 2, tweede lid, van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen, en de informatiegegevens, vermeld in artikel 3 van dezelfde wet, die bij gebruik een principiële machtiging van het Sectoraal Comité van het Rijksregister vereisen, overeenkomstig artikel 5 en 8 van dezelfde wet.</p>
-
-<p>Indien de afdeling Gezondheid van het Sectoraal Comité van de Sociale Zekerheid en van de Gezondheid de machtigingsaanvraag, vermeld in het eerste lid, weigert of koppelt aan voorwaarden, kan de Vlaamse Regering, na advies van de toezichtcommissie, over de machtigingsaanvraag of over de beraadslaging van de afdeling Gezondheid beslissen, met uitzondering van de gegevens die door of ter uitvoering van een federale wet aan de bevoegdheid van de afdeling Gezondheid zijn toevertrouwd.</p>
+<p>Elke gegevensmededeling van persoonsgegevens via het netwerk gebeurt met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.</p>
 
 ## Onderafdeling 2 Werking van het netwerk voor gegevensdeling tussen de actoren in de zorg
 
@@ -255,12 +251,12 @@ Het netwerk wordt beheerd door het Agentschap.
 
 <p>Het Agentschap vervult voor het beheer van het netwerk minstens de volgende taken:<br>
 1° het verzekeren van de dagelijkse werking van het netwerk;<br>
-2° het organiseren van de opmaak en het gebruik van het gebruikers- en toegangsbeheer met betrekking tot de individuele elektronisch deelbare dossiers die via het netwerk worden ontsloten, na machtiging van de afdeling Gezondheid van het Sectoraal Comité van de Sociale Zekerheid en van de Gezondheid, in samenspraak met de dienstenintegratoren en met vertegenwoordigers van de zorgverleners, de hulpverleners, de voorzieningen en de zorggebruikers;<br>
-3° het organiseren van de opmaak en het gebruik van een verwijzingsrepertorium waarbij wordt aangeduid welke zorgverleners, hulpverleners en voorzieningen welk type gegevens bewaren met betrekking tot welke zorggebruikers, na machtiging van de afdeling Gezondheid van het Sectoraal Comité van de Sociale Zekerheid en van de Gezondheid, in samenspraak met de dienstenintegratoren en met vertegenwoordigers van de zorgverleners, de hulpverleners, de voorzieningen en de zorggebruikers;<br>
+2° het organiseren van de opmaak en het gebruik van het gebruikers- en toegangsbeheer met betrekking tot de individuele elektronisch deelbare dossiers die via het netwerk worden ontsloten,&nbsp;met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd, in samenspraak met de dienstenintegratoren en met vertegenwoordigers van de zorgverleners, de hulpverleners, de voorzieningen en de zorggebruikers;<br>
+3° het organiseren van de opmaak en het gebruik van een verwijzingsrepertorium waarbij wordt aangeduid welke zorgverleners, hulpverleners en voorzieningen welk type gegevens bewaren met betrekking tot welke zorggebruikers,&nbsp;met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd, in samenspraak met de dienstenintegratoren en met vertegenwoordigers van de zorgverleners, de hulpverleners, de voorzieningen en de zorggebruikers;<br>
 4° het verzekeren van de optimale gegevensdeling tussen het Agentschap, de zorgverleners, de hulpverleners, de voorzieningen en de dienstenintegratoren;<br>
 5° het formuleren van adviezen voor een verdere optimalisering van het netwerk;<br>
 6° het adviseren aan de Vlaamse Regering met betrekking tot het vastleggen en verzekeren van een gecoördineerd veiligheidsbeleid en -beheer voor het netwerk ten behoeve van de zorggebruiker;<br>
-7° het overleggen en samenwerken met de toezichtcommissie en de bevoegde sectorale comités.</p>
+7° het overleggen en samenwerken met de toezichtcommissie.</p>
 
 <p>Het Agentschap kan, als dat nog niet door de dienstenintegrator, vermeld in artikel 8, § 2, eerste lid, 1°, is gebeurd, nagaan of softwarepakketten voor het beheer van elektronisch deelbare dossiers voldoen aan de vastgelegde ICT-gerelateerde functionele of technische normen, standaarden, specificaties, en basisarchitectuur, en die softwarepakketten registreren. Het Agentschap bepaalt daarvoor, na goedkeuring van het ontwerp door de Vlaamse Regering, de nadere regels.</p>
 
@@ -325,7 +321,7 @@ f) vijf vertegenwoordigers van de ziekenfondsen en de zorgkassen;<br>
 
 <p>Met behoud van de toepassing van artikel 21 van het Kaderdecreet moet de kandidaat aan de volgende voorwaarden voldoen om tot lid benoemd te kunnen worden en lid te kunnen blijven:<br>
 1° de burgerlijke en politieke rechten genieten;<br>
-2° geen lid zijn van de toezichtcommissie of een bevoegd sectoraal comité;<br>
+2° geen lid zijn van de toezichtcommissie en de Gegevensbeschermingsautoriteit, vermeld in artikel 3 van de wet van 3 december 2017 tot oprichting van de Gegevensbeschermingsautoriteit;<br>
 3° niet betrokken zijn bij de productie van gecommercialiseerde ICT-software of -hardware.<br>
 <br>
 Aan de raad van bestuur kan een vertegenwoordiger van het eHealth-platform en van de Vlaamse Dienstenintegrator deelnemen. Deze vertegenwoordigers hebben een raadgevende stem.<br>
@@ -436,7 +432,20 @@ De Vlaamse Regering stelt aan het Agentschap onroerende goederen ter beschikking
 
 ### ART. 43.
 
-<P>Er wordt een personenregister opgericht, hierna "Personenregister WVG" te   noemen, dat de volgende gegevens bevat:<BR>1° de informatiegegevens, vermeld in   artikel 3, eerste lid, 1° tot en met 10°, en tweede lid, van de wet van 8   augustus 1983 tot regeling van het Rijksregister van de natuurlijke   personen;<BR>2° het identificatienummer van het Rijksregister, als het om   gegevens gaat die betrekking hebben op een natuurlijke persoon die in het   Rijksregister opgenomen is;<BR>3° het identificatienummer van de Kruispuntbank   van de Sociale Zekerheid, vermeld in de wet van 15 januari 1990 houdende   oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid, als   het om gegevens gaat die betrekking hebben op een natuurlijke persoon die niet   in het Rijksregister opgenomen is.<BR></P>  <P>De administratie gebruikt het Personenregister WVG ter uitvoering van haar   reglementaire taken, na machtiging door het Sectoraal comité van het   Rijksregister.<BR></P>  <P>De actoren in de zorg kunnen het Personenregister WVG, na machtiging door het   Sectoraal comité van het Rijksregister, gebruiken om hun taken uit te   voeren.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere voorwaarden met betrekking tot het   Personenregister WVG.<BR></P>  <P>De verantwoordelijke voor de verwerking van het Personenregister WVG is het   Departement Welzijn, Volksgezondheid en Gezin. Het Departement Welzijn,   Volksgezondheid en Gezin gaat voor elke toegang tot het Personenregister WVG na   of de betrokken actor hiertoe gemachtigd is.<BR></P>  <P>Het gebruik van het Personenregister WVG wordt elke vijf jaar geëvalueerd.   Deze evaluatie gebeurt na het inwinnen van het advies van de toezichtcommissie,   het Sectoraal Comité van het Rijksregister en de Vlaamse Dienstenintegrator.   Indien deze adviezen unaniem negatief zijn, wordt het Personenregister WVG   afgeschaft. De Vlaamse Regering beslist bij tegenstrijdige adviezen over het   voortbestaan van het Personenregister WVG.<BR></P>
+<p>Er wordt een personenregister opgericht, hierna "Personenregister WVG" te noemen, dat de volgende gegevens bevat:<br>
+1° de informatiegegevens, vermeld in artikel 3, eerste lid, 1° tot en met 10°, en tweede lid, van de wet van 8 augustus 1983 tot regeling van het Rijksregister van de natuurlijke personen;<br>
+2° het identificatienummer van het Rijksregister, als het om gegevens gaat die betrekking hebben op een natuurlijke persoon die in het Rijksregister opgenomen is;<br>
+3° het identificatienummer van de Kruispuntbank van de Sociale Zekerheid, vermeld in de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid, als het om gegevens gaat die betrekking hebben op een natuurlijke persoon die niet in het Rijksregister opgenomen is.</p>
+
+<p>De administratie gebruikt het Personenregister WVG ter uitvoering van haar reglementaire taken, met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.</p>
+
+<p>De actoren in de zorg kunnen het Personenregister WVG, met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd, gebruiken om hun taken uit te voeren.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere voorwaarden met betrekking tot het Personenregister WVG.</p>
+
+<p>De verantwoordelijke voor de verwerking van het Personenregister WVG is het Departement Welzijn, Volksgezondheid en Gezin. Het Departement Welzijn, Volksgezondheid en Gezin gaat voor elke toegang tot het Personenregister WVG na of de betrokken actor hiertoe gemachtigd is.</p>
+
+<p>Het gebruik van het Personenregister WVG wordt elke vijf jaar geëvalueerd. Deze evaluatie gebeurt na het inwinnen van het advies van de toezichtcommissie en de Vlaamse Dienstenintegrator. Indien deze adviezen unaniem negatief zijn, wordt het Personenregister WVG afgeschaft. De Vlaamse Regering beslist bij tegenstrijdige adviezen over het voortbestaan van het Personenregister WVG.</p>
 
 ## HOOFDSTUK 6 Administratieve sancties
 
