@@ -90,13 +90,13 @@ Het agentschap zal de verworven kennis en expertise ter beschikking stellen van 
 <br>
 Het agentschap zal haar dienstverlening permanent optimaliseren en vernieuwen op basis van actuele ontwikkelingen inzake kennis en expertise.<br>
 <br>
-In het kader van zijn missie, vermeld in artikel 4, § 1, kan het agentschap de persoonsgegevens verwerken van alle pasgeboren kinderen en hun ouders die noodzakelijk zijn om de taken inzake preventieve gezinsondersteuning, vermeld in artikel 7, uit te voeren. De concrete gegevensstromen die hiertoe noodzakelijk zijn, dienen vooraf te worden gemachtigd door het bevoegde sectoraal comité of een andere instantie of toezichthouder met een machtigingsbevoegdheid in het kader van de toepassing van de regelgeving tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.<br>
+In het kader van zijn missie, vermeld in artikel 4, § 1, kan het agentschap de persoonsgegevens verwerken van alle pasgeboren kinderen en hun ouders die noodzakelijk zijn om de taken inzake preventieve gezinsondersteuning, vermeld in artikel 7, uit te voeren. De concrete gegevensstromen die hiertoe noodzakelijk zijn, moeten beantwoorden aan de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.<br>
 <br>
 Het agentschap registreert en verwerkt alle gegevens, met inbegrip van persoonsgegevens met betrekking tot zijn cliënteel, die noodzakelijk zijn om:<br>
 1° de taken, bedoeld in artikelen 5, 6, 7, 7/1 en 8 uit te voeren;<br>
 2° de beleidsgerichte input als bedoeld in artikel 4, § 3, van het kaderdecreet te leveren.<br>
 <br>
-De Vlaamse regering bepaalt de nadere regels met betrekking tot de gegevensregistratie en verwerking, onverminderd de toepassing van de regelgeving tot bescherming van de persoonlijke levenssfeer voor de verwerking van de persoonsgegevens.
+De Vlaamse regering bepaalt de nadere regels met betrekking tot de gegevensregistratie en verwerking, onverminderd de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.
 
 ### ART. 11.
 
