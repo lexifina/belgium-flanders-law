@@ -8,7 +8,14 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° decreet van 20 januari 2012 :   het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie   van kinderen;<BR>2° kanaal : de adoptiesamenwerking in het herkomstland, dit   omvat zowel de natuurlijke en rechtspersonen waarmee samengewerkt wordt als de   procedure volgens dewelke gewerkt zal worden;<BR>3° kandidaat-adoptant : de   persoon die of het koppel dat een kind wil adopteren;<BR>4° minister : de   Vlaamse minister, bevoegd voor de bijstand aan personen;<BR>5° subsidiariteit :   de vaststelling, na behoorlijk onderzoek van de mogelijkheden tot plaatsing van   het kind in zijn herkomstland, dat een interlandelijke adoptie het hoogste   belang van het kind dient;<BR>6° werkdag : elke kalenderdag met uitsluiting van   de zaterdagen, zondagen en wettelijke feestdagen.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° decreet van 20 januari 2012 : het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen;<br>
+2° kanaal : de adoptiesamenwerking in het herkomstland, dit omvat zowel de natuurlijke en rechtspersonen waarmee samengewerkt wordt als de procedure volgens dewelke gewerkt zal worden;<br>
+3° kandidaat-adoptant : de persoon die of het koppel dat een kind wil adopteren;<br>
+4° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+5° subsidiariteit : de vaststelling, na behoorlijk onderzoek van de mogelijkheden tot plaatsing van het kind in zijn herkomstland, dat een interlandelijke adoptie het hoogste belang van het kind dient;<br>
+6° werkdag : elke kalenderdag met uitsluiting van de zaterdagen, zondagen en wettelijke feestdagen;<br>
+7° algemene verordening gegevensbescherming : verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).
 
 ## HOOFDSTUK 2 Adoptiesamenwerking in het buitenland
 
@@ -364,11 +371,26 @@ Het bezwaar wordt behandeld volgens de regels die zijn vastgesteld bij of   ter 
 
 ### ART. 69.
 
-<P>§ 1. Het inzagerecht heeft betrekking op de gegevens van de geadopteerde.   Hieronder wordt begrepen :<BR>1° de afkomst van de geadopteerde;<BR>2° de   gegevens van de identiteit van de biologische ouders van de geadopteerde;<BR>3°   de medische gegevens van de geadopteerde;<BR>4° de medische gegevens van de   biologische ouders van de geadopteerde;<BR>5° de situatie van de geadopteerde op   het ogenblik van de afstand;<BR>6° de aanleiding van de afstand;<BR>7° de   situatie van de biologische ouders op het ogenblik van de afstand;<BR>8° de   officiële documenten over de geadopteerde van zowel het herkomstland als van   België met betrekking tot de adoptieprocedure;<BR>9° de nazorgrapporten over de   geadopteerde.<BR></P>  <P>§ 2. Er is geen inzagerecht met betrekking tot gegevens van de adoptanten of   gegevens uit het maatschappelijk onderzoek, vermeld in artikel 1231.29 van het   Gerechtelijk Wetboek. Gegevens in de nazorgrapporten die geen betrekking hebben   op de geadopteerde vallen niet onder het inzagerecht.<BR></P>  <P>In de gegevens, vermeld in het eerste lid, kan enkel inzage verleend worden   met instemming van degene over wie de gegevens handelen. Daarvoor richt de   Vlaamse adoptieambtenaar een aangetekend schrijven aan de betrokkenen. Als de   betrokkenen niet antwoorden binnen drie maanden na verzending van dit   aangetekend schrijven, wordt een weigering van toestemming vermoed. Het   aangetekend schrijven vermeldt duidelijk dat niet antwoorden gelijk staat met   een weigering.<BR></P>
+<p>§ 1. Het inzagerecht heeft betrekking op de gegevens van de geadopteerde. Hieronder wordt begrepen :<br>
+1° de afkomst van de geadopteerde;<br>
+2° de gegevens van de identiteit van de biologische ouders van de geadopteerde;<br>
+3° de medische gegevens van de geadopteerde;<br>
+4° de gegevens over de gezondheid, vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming van de biologische ouders van de geadopteerde;<br>
+5° de situatie van de geadopteerde op het ogenblik van de afstand;<br>
+6° de aanleiding van de afstand;<br>
+7° de situatie van de biologische ouders op het ogenblik van de afstand;<br>
+8° de officiële documenten over de geadopteerde van zowel het herkomstland als van België met betrekking tot de adoptieprocedure;<br>
+9° de nazorgrapporten over de geadopteerde.</p>
+
+<p>§ 2. Er is geen inzagerecht met betrekking tot gegevens van de adoptanten of gegevens uit het maatschappelijk onderzoek, vermeld in artikel 1231.29 van het Gerechtelijk Wetboek. Gegevens in de nazorgrapporten die geen betrekking hebben op de geadopteerde vallen niet onder het inzagerecht.</p>
+
+<p>In de gegevens, vermeld in het eerste lid, kan enkel inzage verleend worden met instemming van degene over wie de gegevens handelen. Daarvoor richt de Vlaamse adoptieambtenaar een aangetekend schrijven aan de betrokkenen. Als de betrokkenen niet antwoorden binnen drie maanden na verzending van dit aangetekend schrijven, wordt een weigering van toestemming vermoed. Het aangetekend schrijven vermeldt duidelijk dat niet antwoorden gelijk staat met een weigering.</p>
 
 ### ART. 70.
 
-<P>De adoptiedienst garandeert de betrokkenen toegang tot hun dossier   overeenkomstig de bepalingen van de wet van 8 december 1992 tot bescherming van   de persoonlijke levenssfeer ten opzichte van de verwerking van   persoonsgegevens.<BR></P>  <P>De adoptiedienst die een verzoek tot inzage van een geadopteerde krijgt,   meldt dit aan de Vlaamse adoptieambtenaar. De adoptiedienst meldt aan de   geadopteerde dat de vraag tot inzage schriftelijk gemeld moet worden aan de   Vlaamse adoptieambtenaar.<BR></P>
+<p>De adoptiedienst garandeert de betrokkenen toegang tot hun dossier overeenkomstig de bepalingen van de algemene verordening gegevensbescherming.</p>
+
+<p>De adoptiedienst die een verzoek tot inzage van een geadopteerde krijgt, meldt dit aan de Vlaamse adoptieambtenaar. De adoptiedienst meldt aan de geadopteerde dat de vraag tot inzage schriftelijk gemeld moet worden aan de Vlaamse adoptieambtenaar.</p>
 
 ### ART. 71.
 
