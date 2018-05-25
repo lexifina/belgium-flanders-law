@@ -47,6 +47,22 @@ De raad van bestuur van het agentschap kan beslissen één of meer regionale ves
 
 De VDAB heeft als missie om, in het belang van werkgevers, werknemers en   werkzoekenden, enerzijds de arbeidsbemiddeling en anderzijds de begeleiding en   de opleiding met het oog op de levenslange en duurzame inschakeling op de   arbeidsmarkt van werkzoekenden en werknemers te verzekeren, te organiseren en te   bevorderen.<BR><BR>De missie, vermeld in het eerste lid, houdt ook de controle   op de beschikbaarheid voor de arbeidsmarkt van de verplicht ingeschreven   werkzoekende in.
 
+### ART 4/1.
+
+De VDAB verwerkt persoonsgegevens van werkzoekenden om de arbeidsbemiddeling, de begeleiding en de opleiding voor een levenslange en duurzame inschakeling op de arbeidsmarkt te verzekeren, te organiseren en te bevorderen. De volgende gegevens worden verwerkt :<br>
+1° identificatiegegevens;<br>
+2° studie- en beroepsverleden;<br>
+3° beroepskwalificaties met de eventuele vermelding van de behaalde titel of titels van beroepsbekwaamheid;<br>
+4° beroepsaspiraties;<br>
+5° ervaring en verworven competenties;<br>
+6° elementen om de afstand tot de arbeidsmarkt, de beschikbaarheid voor de arbeidsmarkt, de evaluatie van het pad naar werk en de randvoorwaarden die een belemmering zijn bij de zoektocht naar werk, in te schatten.<br>
+<br>
+De VDAB wisselt persoonsgegevens uit met dienstverleners als vermeld in artikel 22/2, vierde lid.<br>
+<br>
+Voor de gegevensuitwisseling gebruiken de VDAB en de dienstverleners, vermeld in artikel 22/2, vierde lid, de volgende identificatiemiddelen :<br>
+1° het identificatienummer van het Rijksregister, als het om gegevens gaat die betrekking hebben op een natuurlijke persoon die in het Rijksregister opgenomen is;<br>
+2° het identificatienummer van de Kruispuntbank van de Sociale Zekerheid, vermeld in de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid, als het om gegevens gaat die betrekking hebben op een natuurlijke persoon die niet in het Rijksregister opgenomen is.
+
 ### ART. 5.
 
 § 1. Teneinde de in artikel 4 bedoelde missie waar te maken, vervult de VDAB de volgende taken:<br>
@@ -252,7 +268,7 @@ In het kader van zijn taken van universele dienstverlening beheert de VDAB een e
 <br>
 Elk individu heeft de keuze om al dan niet een persoonlijk bestand op het elektronische platform aan te leggen.<br>
 <br>
-Dienstverleners, met inbegrip van de VDAB, kunnen om bepaalde diensten inzake arbeidsbemiddeling, trajectbegeleiding, loopbaanbegeleiding of competentieontwikkeling te verstrekken, de betrokkene opleggen om een persoonlijk bestand aan te maken. De betrokkene kan in dat geval het aangemaakte bestand laten verwijderen zodra het voor de dienstverstrekking niet meer nodig is.<br>
+Als een individu bepaalde diensten inzake arbeidsbemiddeling, trajectbegeleiding, loopbaanbegeleiding of competentieontwikkeling vraagt, kunnen dienstverleners, met inbegrip van de VDAB, de betrokkene opleggen om een persoonlijk bestand aan te maken.<br>
 <br>
 In het derde lid wordt onder dienstverleners verstaan : alle publieke of private organisaties of personen die activiteiten aanbieden op het vlak van beroepskeuzevoorlichting, competentieontwikkeling, trajectbegeleiding, loopbaanbegeleiding, arbeidsbemiddeling of erkenning van verworven competenties.
 
@@ -264,7 +280,7 @@ Het elektronische platform heeft in het bijzonder tot doel :<br>
 3° herkenning en erkenning van competenties door werkgevers en overheden te bevorderen in functie van de loopbaan en perspectieven op de arbeidsmarkt;<br>
 4° ondersteuning te bieden aan de VDAB bij de uitvoering van zijn taken van universele dienstverlening.<br>
 <br>
-Elke werkzoekende heeft ook recht op een basisdossier, waarin de VDAB de gegevens die relevant zijn voor de dienstverlening, uit het persoonlijke bestand kan overnemen. De Vlaamse Regering bepaalt welke gegevens uit het persoonlijk bestand in het basisdossier overgenomen worden.
+Elke werkzoekende heeft ook recht op een basisdossier, waarin de VDAB de gegevens die relevant zijn voor de dienstverlening, uit het persoonlijke bestand kan overnemen.
 
 ### ART. 22/4.
 
@@ -302,7 +318,7 @@ De Vlaamse Regering bepaalt de nadere voorwaarden voor de toegang en het gebruik
 
 ### ART. 22/8.
 
-De VDAB neemt als verantwoordelijke voor de verwerking de nodige maatregelen voor een correcte toepassing van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten aanzien van de verwerking van persoonsgegevens door hemzelf, door derden en door het betrokken individu.
+...
 
 ### ART. 22/9.
 
