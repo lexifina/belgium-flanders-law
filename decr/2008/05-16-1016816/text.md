@@ -82,7 +82,9 @@ Wanneer de Vlaamse Regering of de gemeente een aanvullend reglement vaststellen 
 
 ### ART. 10/2.
 
-Met het oog op het innen van de parkeerretributies of -belastingen kunnen concessies of beheersovereenkomsten worden afgesloten.<br /><br />De Vlaamse Regering, de steden en de gemeenten en hun concessiehouders en de gemeentelijke verzelfstandigde agentschappen zijn gemachtigd om de identiteit van de houder van de nummerplaat op te vragen bij de overheid die belast is met de inschrijving van de voertuigen in overeenstemming met de wet tot bescherming van de persoonlijke levenssfeer.
+Met het oog op het innen van de parkeerretributies of -belastingen kunnen concessies of beheersovereenkomsten worden afgesloten.<br>
+<br>
+De Vlaamse Regering, de steden en de gemeenten en hun concessiehouders en de gemeentelijke verzelfstandigde agentschappen vragen, met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd, de identiteit van de houder van de nummerplaat op bij de overheid die belast is met de inschrijving van de voertuigen.
 
 ### ART. 10/3.
 
