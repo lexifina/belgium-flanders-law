@@ -280,7 +280,7 @@ Kind en Gezin beheert het budget dat voortkomt uit de bestuurlijke geldboeten, v
 
 Kind en Gezin verwerkt in uitvoering van dit decreet en de uitvoeringsbesluiten ervan minstens de volgende soorten persoonsgegevens :<br>
 1° van het kind en van het gezin van het kind :<br>
-a) medische gegevens van het kind in het kader van de handhaving van de vergunnings- en subsidievoorwaarden en in het kader van de beleidsvoorbereiding en -evaluatie;<br>
+a) de gegevens over gezondheid, vermeld in artikel 4, 15), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming), van het kind in het kader van de handhaving van de vergunnings- en subsidievoorwaarden en in het kader van de beleidsvoorbereiding en -evaluatie;<br>
 b) identificatiegegevens in het kader van de handhaving van de vergunnings- en subsidievoorwaarden, de aanwezigheidsregistratie, het kenbaar maken van genomen maatregelen met betrekking tot de vergunning of subsidiëring, en de facturatie;<br>
 c) gegevens over de vraag naar kinderopvang in het kader van de handhaving van vergunnings- en subsidievoorwaarden, de beleidsvoorbereiding en -evaluatie en de programmatie;<br>
 d) gegevens over het gebruik van de kinderopvanglocatie door gezinnen in het kader van de handhaving van de vergunnings- en subsidievoorwaarden, de beleidsvoorbereiding en -evaluatie, de facturatie, de programmatie en de aanwezigheidsregistratie;<br>
@@ -289,7 +289,7 @@ f) gegevens over de omgang met crisissituaties in de kinderopvanglocatie;<br>
 g) gegevens over de behandeling van klachten over de kinderopvanglocatie;<br>
 h) gegevens over de maatschappelijke kwetsbaarheid in het kader van de handhaving van de subsidievoorwaarden en de beleidsvoorbereiding en -evaluatie;<br>
 2° van de organisatoren, de verantwoordelijken, de kinderbegeleiders en eventuele andere medewerkers in het kader van de handhaving van de vergunnings- en subsidievoorwaarden, minstens :<br>
-a) de medische en de gerechtelijke gegevens, minstens een attest van medische geschiktheid en een uittreksel uit het strafregister;<br>
+a) de gegevens over gezondheid, vermeld in artikel 4, 15), van de voormelde verordening, en de persoonsgegevens, vermeld in artikel 10 van de voormelde verordening, minstens een attest van medische geschiktheid en een uittreksel uit het strafregister;<br>
 b) de identificatiegegevens en de opleidingsgegevens;<br>
 c) de gegevens over crisissituaties in de kinderopvanglocatie;<br>
 d) de gegevens over de behandeling van klachten over de kinderopvanglocatie;<br>
@@ -297,14 +297,14 @@ d) de gegevens over de behandeling van klachten over de kinderopvanglocatie;<br>
 <br>
 De organisator verwerkt ter uitvoering van dit decreet en de uitvoeringsbesluiten ervan minstens de volgende soorten persoonsgegevens :<br>
 1° van het kind en van het gezin van het kind :<br>
-a) de medische gegevens in het kader van de vergunnings- en subsidievoorwaarden;<br>
+a) de gegevens over gezondheid, vermeld in artikel 4, 15), van de voormelde verordening in het kader van de vergunnings- en subsidievoorwaarden;<br>
 b) de identificatiegegevens in het kader van de vergunnings- en subsidievoorwaarden, de aanwezigheidsregistratie en de facturatie;<br>
 c) de gegevens over de vraag naar kinderopvang in het kader van de vergunnings- en subsidievoorwaarden en het beleid van de organisator met betrekking tot de kinderopvanglocatie;<br>
 d) de gegevens over het gebruik van de kinderopvanglocatie door gezinnen in het kader van de vergunnings- en subsidievoorwaarden, de aanwezigheidsregistratie, de facturatie en het beleid van de kinderopvanglocatie;<br>
 e) de financiële gegevens en de gegevens over de gezinssituatie in het kader van de vergunnings- en subsidievoorwaarden, de facturatie en de bepaling van de prijs van de kinderopvang voor de gezinnen;<br>
 f) de gegevens over de maatschappelijke kwetsbaarheid in het kader van de subsidievoorwaarden en het beleid van de organisator met betrekking tot de kinderopvanglocatie;<br>
 2° van de verantwoordelijken, de kinderbegeleiders en eventuele andere medewerkers in het kader van de vergunnings- en subsidievoorwaarden, minstens :<br>
-a) de medische en de gerechtelijke gegevens, minstens een attest van medische geschiktheid en een uittreksel uit het strafregister;<br>
+a) de gegevens over gezondheid, vermeld in artikel 4, 15), van de voormelde verordening, en de persoonsgegevens, vermeld in artikel 10 van de voormelde verordening, minstens een attest van medische geschiktheid en een uittreksel uit het strafregister;<br>
 b) de identificatiegegevens, de opleidingsgegevens en de gegevens over de draagkracht van de kinderbegeleiders;<br>
 3° van de personen, vermeld in punt 1° en 2° :<br>
 a) de gegevens over de omgang met crisissituaties in de kinderopvanglocatie;<br>
