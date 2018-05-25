@@ -73,7 +73,7 @@ Het agentschap registreert en verwerkt alle nodige gegevens voor:<br>
 1° de uitvoering van de taken, genoemd in artikelen 5, 6 en 7;<br>
 2° het verstrekken van de beleidsgerichte input, als genoemd in artikel 4, § 3, van het kaderdecreet.<br>
 <br>
-De Vlaamse regering bepaalt de nadere regels voor de registratie en verwerking van gegevens, onverminderd de toepassing van de regelgeving tot bescherming van de persoonlijke levenssfeer voor de verwerking van de persoonsgegevens.
+De Vlaamse regering bepaalt de nadere regels voor de registratie en verwerking van gegevens, met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.
 
 ### ART. 12.
 
@@ -192,7 +192,13 @@ De Vlaamse regering regelt de werking van het agentschap voor zover deze regelin
 
 ### ART. 23.
 
-Het agentschap stelt alle gegevens ter beschikking, waar de entiteit om   verzoekt die door de regering is belast met inspectie. Tussen het agentschap en   deze entiteit wordt een samenwerkingsovereenkomst gesloten. De Vlaamse regering   bepaalt de nadere regels voor deze samenwerkingsovereenkomst.<BR><BR>De Vlaamse   Regering organiseert het toezicht op de naleving van de bepalingen van dit   decreet en de uitvoeringsbesluiten ervan, met behoud van de toepassing van de   bepalingen van de wet van 8 december 1992 tot bescherming van de persoonlijke   levenssfeer.<BR><BR>De door het agentschap erkende of vergunde organisaties of   voorzieningen stellen aan de personeelsleden die met toezicht belast zijn alle   gegevens ter beschikking die voor het toezicht noodzakelijk zijn. Ze staan die   personeelsleden toe om ter plaatse de naleving van de bepalingen, vermeld in het   tweede lid, te verifiëren en alle stappen te ondernemen die daarvoor nodig zijn.   Deze bevoegdheden worden uitgeoefend met het oog op het toezicht op de naleving   van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan. De   personeelsleden die met het toezicht belast zijn, staan ervoor in dat de   middelen die worden aanwend, passend en noodzakelijk zijn voor het toezicht op   de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten   ervan.<BR><BR>Van hun vaststellingen maken de personeelsleden, vermeld in het   derde lid, een verslag op. Het verslag heeft bewijswaarde tot het tegenbewijs.   Van het verslag wordt een afschrift gestuurd naar de betrokkene.
+Het agentschap stelt alle gegevens ter beschikking, waar de entiteit om verzoekt die door de regering is belast met inspectie. Tussen het agentschap en deze entiteit wordt een samenwerkingsovereenkomst gesloten. De Vlaamse regering bepaalt de nadere regels voor deze samenwerkingsovereenkomst.<br>
+<br>
+De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan, met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
+<br>
+De door het agentschap erkende of vergunde organisaties of voorzieningen stellen aan de personeelsleden die met toezicht belast zijn alle gegevens ter beschikking die voor het toezicht noodzakelijk zijn. Ze staan die personeelsleden toe om ter plaatse de naleving van de bepalingen, vermeld in het tweede lid, te verifiëren en alle stappen te ondernemen die daarvoor nodig zijn. Deze bevoegdheden worden uitgeoefend met het oog op het toezicht op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan. De personeelsleden die met het toezicht belast zijn, staan ervoor in dat de middelen die worden aanwend, passend en noodzakelijk zijn voor het toezicht op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan.<br>
+<br>
+Van hun vaststellingen maken de personeelsleden, vermeld in het derde lid, een verslag op. Het verslag heeft bewijswaarde tot het tegenbewijs. Van het verslag wordt een afschrift gestuurd naar de betrokkene.
 
 ### ART. 24.
 
