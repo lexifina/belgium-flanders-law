@@ -45,7 +45,16 @@ Het&nbsp;stuurorgaan Vlaams Informatie- en ICT-beleid bepaalt in welke mate de g
 
 ### ART. 3.
 
-Per gegevensbron die in aanmerking komt om als een authentieke gegevensbron of als een authentieke geografische gegevensbron te worden erkend, wijst de Vlaamse Regering tevens de beheersinstantie aan die verantwoordelijk is voor :<br />1° het respecteren van de bepalingen, vermeld in artikel 2;<br />2° het verzorgen van de samenwerking met de gebruikers van de gegevensbron in kwestie;<br />3° het opzetten van de gepaste organisatorische structuren om de gegevens te verwerken in de gegevensbron;<br />4° het invoeren van de gepaste processen om de gegevens te verwerken in de gegevensbron;<br />5° het opzetten van de juiste infrastructuur om de gegevens te verwerken in de gegevensbron;<br />6° het aanwijzen van een meldingspunt dat meldingen van onnauwkeurige, onvolledige of onjuiste gegevens, vermeld in artikel 6, § 2, laatste lid, van het decreet van 18 juli 2008, registreert en onderzoekt. Indien uit dat onderzoek blijkt dat de melding gegrond is, wordt het gegeven in kwestie verbeterd of aangevuld. Het meldingspunt bezorgt aan degene die een onnauwkeurig, onvolledig of onjuist gegeven heeft gemeld, het resultaat van het onderzoek. <br /><br />De beheersinstantie kan een of meer van de bovenvermelde taken uitbesteden. De eventuele uitbesteding gebeurt op verzoek, onder controle en verantwoordelijkheid van de beheersinstantie. De onderaannemer moet zich er formeel toe verbinden de bepalingen van artikel 16, § 1, 1°, van de privacywet, het decreet van 18 juli 2008 en zijn uitvoeringsbesluiten te respecteren en neemt daartoe de nodige maatregelen die hij meedeelt aan de beheersinstantie waarvoor hij als onderaannemer optreedt.<br /><br />
+Per gegevensbron die in aanmerking komt om als een authentieke gegevensbron of als een authentieke geografische gegevensbron te worden erkend, wijst de Vlaamse Regering tevens de beheersinstantie aan die verantwoordelijk is voor :<br>
+1° het respecteren van de bepalingen, vermeld in artikel 2;<br>
+2° het verzorgen van de samenwerking met de gebruikers van de gegevensbron in kwestie;<br>
+3° het opzetten van de gepaste organisatorische structuren om de gegevens te verwerken in de gegevensbron;<br>
+4° het invoeren van de gepaste processen om de gegevens te verwerken in de gegevensbron;<br>
+5° het opzetten van de juiste infrastructuur om de gegevens te verwerken in de gegevensbron;<br>
+6° het aanwijzen van een meldingspunt dat meldingen van onnauwkeurige, onvolledige of onjuiste gegevens, vermeld in artikel 6, § 2, laatste lid, van het decreet van 18 juli 2008, registreert en onderzoekt. Indien uit dat onderzoek blijkt dat de melding gegrond is, wordt het gegeven in kwestie verbeterd of aangevuld. Het meldingspunt bezorgt aan degene die een onnauwkeurig, onvolledig of onjuist gegeven heeft gemeld, het resultaat van het onderzoek.<br>
+<br>
+De beheersinstantie kan een of meer van de bovenvermelde taken uitbesteden. De eventuele uitbesteding gebeurt op verzoek, onder controle en verantwoordelijkheid van de beheersinstantie. De onderaannemer moet zich er formeel toe verbinden artikel 28, lid 3, van de algemene verordening gegevensbescherming en de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens te respecteren en neemt daartoe de nodige maatregelen die hij meedeelt aan de beheersinstantie waarvoor hij als onderaannemer optreedt.<br>
+&nbsp;
 
 ### ART. 4.
 

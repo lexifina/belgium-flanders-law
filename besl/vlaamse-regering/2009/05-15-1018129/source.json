@@ -2,16 +2,16 @@
   "codex_id": 1018129,
   "title": "Besluit van de Vlaamse Regering van 2009-05-15 [houdende de uitvoering van artikel III.66, III.67 en III.68 van het bestuursdecreet van 7 december 2018 (verv. BVR 10 mei 2019, art. 105, I: 1 januari 2019)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018129/VolledigDocument?datum=2017-09-26",
-  "source_sha256": "9f50a24306e9bbf2d320798e0c91397627cf14780a9927c8c55a0b143486a06f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018129/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "1b1ea538bf4b1286a50e55e2fb5514403f1e82e046ad4908837314be8bc034ec",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018129&param=informatie",
-  "as_of": "2017-09-26",
+  "as_of": "2018-05-25",
   "made": "2009-05-15",
   "gazette": "2009-07-14",
   "numac": 2009035665,
   "document_start": "2009-07-14",
   "document_end": null,
-  "in_force": "2017-09-26",
+  "in_force": "2018-05-25",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2017-09-26; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
 }
