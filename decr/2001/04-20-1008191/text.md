@@ -342,7 +342,28 @@ De exploitant, die door het bevoegde college ertoe gemachtigd wordt een dienst v
 
 ### ART. 64.
 
-§ 1. Onverminderd de bevoegdheden die toevertrouwd worden aan de andere officieren of agenten van gerechtelijke politie en aan de leden van het operationeel kader van de lokale en federale politie, kent de Vlaamse Regering de hoedanigheid van agent of officier van gerechtelijke politie toe aan de beëdigde personeelsleden die ze aanwijst om toezicht te houden op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan. <br /><br />§ 2. In het kader van de uitoefening van hun opdracht kunnen de personen, bedoeld in artikel 64, § 1: <br />1° bevelen geven aan de bestuurders;<br />2° inlichtingen inwinnen en controle uitoefenen door het ondervragen van personen en het inzage nemen van documenten en andere informatiedragers.<br />3° ... <br /><br />§ 3. De personeelsleden, bedoeld in artikel 64, § 1, kunnen de bijstand vorderen van de lokale en federale politie. <br /><br />§ 4. De Vlaamse regering bepaalt de kentekens van de functie van de personeelsleden, bedoeld in artikel 64, § 1.
+§ 1. Onverminderd de bevoegdheden die toevertrouwd worden aan de andere officieren of agenten van gerechtelijke politie en aan de leden van het operationeel kader van de lokale en federale politie, kent de Vlaamse Regering de hoedanigheid van agent of officier van gerechtelijke politie toe aan de beëdigde personeelsleden die ze aanwijst om toezicht te houden op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan.<br>
+<br>
+§ 2. In het kader van de uitoefening van hun opdracht kunnen de personen, bedoeld in artikel 64, § 1:<br>
+1° bevelen geven aan de bestuurders;<br>
+2° inlichtingen inwinnen en controle uitoefenen door het ondervragen van personen en het inzage nemen van documenten en andere informatiedragers.<br>
+3° ...<br>
+<br>
+Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de personeelsleden, vermeld in paragraaf 1, beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan wordt aan de voorwaarden, vermeld in het derde tot en met het zevende lid.<br>
+<br>
+De mogelijkheid, vermeld in het tweede lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de personeelsleden, vermeld in paragraaf 1, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+De personeelsleden, vermeld in paragraaf 1, moeten de beslissing, vermeld in het tweede lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het tweede lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mogen de personeelsleden, vermeld in paragraaf 1, op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan de personeelsleden, vermeld in paragraaf 1, heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het tweede lid, tijdens de periode, vermeld in het derde lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijzen de personeelsleden, vermeld in paragraaf 1 hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.<br>
+<br>
+§ 3. De personeelsleden, bedoeld in artikel 64, § 1, kunnen de bijstand vorderen van de lokale en federale politie.<br>
+<br>
+§ 4. De Vlaamse regering bepaalt de kentekens van de functie van de personeelsleden, bedoeld in artikel 64, § 1.
 
 ### ART. 65.
 
