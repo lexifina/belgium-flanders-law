@@ -27,6 +27,8 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 16° dossier: alle gegevens die op een systematische wijze met betrekking tot een minderjarige worden verzameld en bijgehouden;<br>
 17° sector: een bevoegdheidsdomein dat geregeld wordt door regelgeving, vermeld in artikel 3, § 1, van het decreet integrale jeugdhulp, of toepasselijk verklaard krachtens artikel 3, § 2, van dat decreet;<br>
 18° ondersteuningscentrum Jeugdzorg : een orgaan als vermeld in artikel 33 van het decreet&nbsp;integrale jeugdhulp.<br>
+19° algemene verordening gegevensbescherming : de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
+20° gegevens over gezondheid : de gegevens over gezondheid, vermeld in artikel 4, 15), van de algemene verordening gegevensbescherming.<br>
 <br>
 § 2. Bij verwijzing naar personen wordt in dit decreet de mannelijke vorm gebruikt.
 
@@ -34,7 +36,11 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 3.
 
-§ 1. Onverminderd de wetgeving betreffende de rechten van de patiënt en   behoudens afwijkingen waarin dit decreet voorziet, regelt dit decreet de rechten   van minderjarigen ten aanzien van de jeugdhulpaanbieders, de toegangspoort en   het ondersteuningscentrum Jeugdzorg.<BR><BR>Het is van toepassing vanaf het   eerste contact dat een minderjarige heeft met een jeugdhulpaanbieder, de   toegangspoort of het ondersteuningscentrum Jeugdzorg, ongeacht op welke wijze en   door wie dit contact geïnitieerd wordt.<BR><BR>§ 2. Dit decreet doet geen   afbreuk aan wettelijke, decretale of reglementaire bepalingen, die aan   minderjarigen ruimere rechten toekennen.
+§ 1. Onverminderd de wetgeving betreffende de rechten van de patiënt en behoudens afwijkingen waarin dit decreet voorziet, regelt dit decreet de rechten van minderjarigen ten aanzien van de jeugdhulpaanbieders, de toegangspoort en het ondersteuningscentrum Jeugdzorg.<br>
+<br>
+Het is van toepassing vanaf het eerste contact dat een minderjarige heeft met een jeugdhulpaanbieder, de toegangspoort of het ondersteuningscentrum Jeugdzorg, ongeacht op welke wijze en door wie dit contact geïnitieerd wordt.<br>
+<br>
+§ 2. Dit decreet doet geen afbreuk aan wettelijke, decretale of reglementaire bepalingen, die aan minderjarigen ruimere rechten toekennen, met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens en de uitzonderingen die met toepassing van deze laatste regelgeving in dit decreet voorzien zijn.
 
 ## HOOFDSTUK III BEKWAAMHEID VAN DE MINDERJARIGE
 
@@ -128,26 +134,28 @@ De jeugdhulpvoorzieningen beschikken over een regeling met betrekking tot de ins
 
 ### ART. 20.
 
-De minderjarige heeft recht op een dossier dat door de   jeugdhulpvoorziening, de toegangspoort en het ondersteuningscentrum Jeugdzorg   zorgvuldig wordt bijgehouden en veilig wordt bewaard.<BR><BR>Het opstellen, het   bewaren en het gebruik van het dossier zijn onderworpen aan de verplichtingen   die voortvloeien uit de wetgeving betreffende de verwerking van   persoonsgegevens, aan de verplichtingen die voortvloeien uit de regelgeving van   de sectoren en aan de supplementaire of specifieke verplichtingen, bepaald in   deze Afdeling. Als deze verplichtingen onderling tegenstrijdig zijn, hebben de   verplichtingen die voor de minderjarige het gunstigst zijn,   voorrang.
+De minderjarige heeft recht op een dossier dat door de jeugdhulpvoorziening, de toegangspoort en het ondersteuningscentrum Jeugdzorg zorgvuldig wordt bijgehouden en veilig wordt bewaard.<br>
+<br>
+Het opstellen, het bewaren en het gebruik van het dossier zijn onderworpen aan de verplichtingen die voortvloeien uit de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, aan de verplichtingen die voortvloeien uit de regelgeving van de sectoren en aan de supplementaire of specifieke verplichtingen, bepaald in deze Afdeling. Als deze verplichtingen onderling tegenstrijdig zijn, hebben de verplichtingen die voor de minderjarige het gunstigst zijn, voorrang, met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens en de uitzonderingen die daar in voorkomend geval op bepaald zijn.
 
 ### ART. 21.
 
-In het dossier worden de persoonsgegevens betreffende de gezondheid apart bijgehouden. De verwerking van en de toegang tot die gegevens is onderworpen aan de relevante bepalingen uit de wetgeving tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens en betreffende de rechten van de patiënt.
+In het dossier worden de gegevens&nbsp;over de gezondheid apart bijgehouden. De verwerking van en de toegang tot die gegevens is onderworpen aan de relevante bepalingen uit de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens en betreffende de rechten van de patiënt.
 
 ### ART. 22.
 
-§ 1. Dit artikel is van toepassing op de dossiergegevens die geen persoonsgegevens betreffende de gezondheid uitmaken.<br>
+§ 1. Dit artikel is van toepassing op de dossiergegevens die geen gegevens over de gezondheid uitmaken.<br>
 <br>
 § 2. De minderjarige heeft recht op toegang tot de gegevens die hem betreffen.<br>
 <br>
-Het toegangsrecht geldt niet voor de volgende gegevens:<br>
+Met toepassing van artikel 23, lid 1, i), van de algemene verordening gegevensbescherming, gelden de rechten en de verplichtingen, vermeld in artikel 12 tot en met 22 van de algemene verordening gegevensbescherming, niet voor de volgende gegevens :<br>
 1° de gegevens die werden verstrekt door derden zonder dat zij daartoe verplicht werden en die zij als vertrouwelijk hebben bestempeld, tenzij zij zich akkoord verklaren met de toegang;<br>
 2° de stukken die werden opgesteld ten behoeve van de gerechtelijke overheden;<br>
 3° de gegevens waarover de minderjarige, met toepassing van artikel 11, § 2, niet werd geïnformeerd. De persoon, bedoeld in artikel 24, heeft wel recht op toegang tot deze gegevens.<br>
 <br>
 De minderjarige heeft recht op toelichting bij de gegevens waartoe hij toegang heeft.<br>
 <br>
-Behoudens afwijkende bepalingen, wordt het recht op toegang en toelichting verleend ten laatste binnen vijftien dagen na ontvangst van het verzoek.<br>
+Met toepassing van artikel 23, lid 1, i), van de voormelde verordening wordt, in afwijking van artikel 12, lid 3, van de voormelde verordening, uiterlijk binnen vijftien dagen na ontvangst van het verzoek gevolg verleend aan het recht op toegang en toelichting.<br>
 <br>
 § 3. De toegang tot de gegevens wordt verstrekt door inzage.<br>
 <br>
@@ -169,7 +177,9 @@ Voor de toepassing van deze paragraaf bestaat het cliëntsysteem uit de volgende
 <br>
 Het recht op toegang wordt uitgeoefend door de ouders.<br>
 <br>
-De ouder kan zich niet beroepen op de toepassing van § 4 wat betreft de contextuele gegevens die het kind en een ander persoon dan de ouder zelf betreffen. Hij heeft geen toegang tot de gegevens, bedoeld in artikel 23.<br>
+Met toepassing van artikel 23, lid 1, i), van de algemene verordening gegevensbescherming, gelden de rechten en de verplichtingen, vermeld in artikel 12 tot en met 22 van de algemene verordening gegevensbescherming - waaronder het toegangsrecht - voor de ouders die in het kader van deze paragraaf optreden niet voor de volgende gegevens :<br>
+1° de contextuele gegevens die het kind en een andere persoon dan de ouder zelf betreffen;<br>
+2° de gegevens, vermeld in artikel 23 van dit decreet.<br>
 <br>
 Ingeval er tegenstrijdige belangen zijn met de ouders of als die het toegangsrecht niet uitoefenen, kan het toegangsrecht van de minderjarige worden uitgeoefend door de persoon, bedoeld in artikel 24.<br>
 <br>
@@ -177,7 +187,7 @@ Ingeval er tegenstrijdige belangen zijn met de ouders of als die het toegangsrec
 <br>
 De minderjarige heeft het recht om zijn versie te geven van de feiten die vermeld zijn in zijn dossier.<br>
 <br>
-§ 7. De minderjarige heeft recht op een afschrift van de gegevens van zijn dossier waartoe hij toegang heeft door inzage en op een rapport van de gegevens van zijn dossier waartoe hij toegang heeft op een andere wijze dan door inzage.<br>
+§ 7. De minderjarige heeft recht op een afschrift van de gegevens van zijn dossier waartoe hij toegang heeft door inzage. Met toepassing van artikel 23, lid 1, i), van de algemene verordening gegevensbescherming heeft de minderjarige voor de gegevens waartoe hij toegang heeft op een andere wijze dan door inzage, alleen recht op een rapport.<br>
 <br>
 Ieder afschrift en ieder rapport is persoonlijk en vertrouwelijk, en mag enkel worden aangewend voor doeleinden van jeugdhulp. De dossierhouder die een afschrift of rapport bezorgt, wijst de minderjarige hierop en voegt een toelichting in die zin bij het afschrift of rapport.<br>
 <br>

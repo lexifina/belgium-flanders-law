@@ -2,16 +2,16 @@
   "codex_id": 1013455,
   "title": "Decreet van 2004-05-07 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp [en binnen het kader van het decreet betreffende het jeugddelinquentierecht (ing. decr. 15 maart 2019, art. 3, I: 1 september 2019)]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013455/VolledigDocument?datum=2017-03-01",
-  "source_sha256": "fd6fd9b0fff3a4ea9a9dca205354c485f73411163470a2f30aa96df0a27eac64",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013455/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "e046fa9506b13320c2db6532cf052ecb70967fb90a5d860d71006cc154cc7084",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013455&param=informatie",
-  "as_of": "2017-03-01",
+  "as_of": "2018-05-25",
   "made": "2004-05-07",
   "gazette": "2004-10-04",
   "numac": 2004036491,
   "document_start": null,
   "document_end": null,
-  "in_force": "2017-03-01",
+  "in_force": "2018-05-25",
   "article_versions": 33,
-  "record_form": "consolidated version as in force on 2017-03-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
 }
