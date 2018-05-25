@@ -32,7 +32,13 @@ Een centrum dat, in het kader van het algemeen welzijnswerk, vermeld in   artike
 
 ### ART. 5.
 
-<P>De hulp- en dienstverlening van het centrum voor teleonthaal beantwoordt aan   de volgende voorwaarden : <BR>1° het centrum stelt aan de gebruikers en   potentiële gebruikers informatie ter beschikking over alle relevante aspecten   van het hulp- en dienstverleningsaanbod en het gehanteerde   hulpverleningsconcept; <BR>2° de hulp- en dienstverlening beoogt een zo   preventief en duurzaam mogelijk effect;<BR>3° het centrum beschikt over een   procedure voor het omgaan met situaties waarbij de integriteit van de gebruiker   of van andere personen in gevaar is; <BR>4° het centrum garandeert het   klachtenrecht aan de gebruiker door een procedure voor klachtenregistratie en   -behandeling, die voldoet aan de verplichtingen die voortvloeien uit de   wetgeving betreffende de bescherming van de persoonlijke levenssfeer ten   opzichte van de verwerking van persoonsgegevens. <BR></P>  <P>De procedure, vermeld in het eerste lid, 4°, beschrijft op welke wijze de   gebruiker zijn klacht kenbaar kan maken, op welke wijze de klacht wordt   beoordeeld op ontvankelijkheid, op welke wijze de klacht wordt behandeld en op   welke wijze de gebruiker wordt geïnformeerd over het resultaat van zijn   klacht.</P>
+<p>De hulp- en dienstverlening van het centrum voor teleonthaal beantwoordt aan de volgende voorwaarden :<br>
+1° het centrum stelt aan de gebruikers en potentiële gebruikers informatie ter beschikking over alle relevante aspecten van het hulp- en dienstverleningsaanbod en het gehanteerde hulpverleningsconcept;<br>
+2° de hulp- en dienstverlening beoogt een zo preventief en duurzaam mogelijk effect;<br>
+3° het centrum beschikt over een procedure voor het omgaan met situaties waarbij de integriteit van de gebruiker of van andere personen in gevaar is;<br>
+4° het centrum garandeert het klachtenrecht aan de gebruiker door een procedure voor klachtenregistratie en -behandeling, die voldoet aan de verplichtingen die voortvloeien uit de&nbsp;regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.</p>
+
+<p>De procedure, vermeld in het eerste lid, 4°, beschrijft op welke wijze de gebruiker zijn klacht kenbaar kan maken, op welke wijze de klacht wordt beoordeeld op ontvankelijkheid, op welke wijze de klacht wordt behandeld en op welke wijze de gebruiker wordt geïnformeerd over het resultaat van zijn klacht.</p>
 
 ## Onderafdeling 3. Voorwaarden voor de centra voor algemeen welzijnswerk
 
@@ -66,7 +72,23 @@ Het centrum voor algemeen welzijnswerk kan voor specifieke doelgroepen de   func
 
 ### ART. 13.
 
-<P>De hulp- en dienstverlening van het centrum voor algemeen welzijnswerk   beantwoordt aan de volgende voorwaarden : <BR>1° het centrum is rechtstreeks en   zonder afspraak bereikbaar op de data en uren en op de wijze die het aan het   publiek kenbaar maakt;<BR>2° het centrum besteedt aandacht aan de bereikbaarheid   en de toegankelijkheid buiten de kantooruren;<BR>3° het centrum stelt aan de   gebruikers en potentiële gebruikers informatie ter beschikking over alle   relevante aspecten van het hulp- en dienstverleningsaanbod en het gehanteerde   hulpverleningsconcept; <BR>4° de hulp- en dienstverlening kan plaatsvinden in   een ambulante of residentiële context in het centrum of in de eigen leefomgeving   van de gebruiker;<BR>5° de hulp- en dienstverlening kan tot stand komen zowel op   initiatief van de gebruiker als door een actieve benadering vanuit het centrum   die al dan niet aanklampend kan zijn;<BR>6° de aanwezige krachten van de   gebruiker en zijn leefomgeving worden actief ondersteund;<BR>7° bij de afweging   tussen verschillende mogelijke hulpverleningsvormen wordt gekozen voor de minst   ingrijpende hulpverlening;<BR>8° de hulpverlening beoogt een zo preventief en   duurzaam mogelijk effect;<BR>9° de verwijzing of toeleiding van de gebruiker   naar andere hulp- en dienstverlenende organisaties gebeurt steeds met instemming   van de gebruiker en met een afspraak met de gebruiker over de opvolging van de   hulp- en dienstverlening; <BR>10° het centrum bepaalt op welke manier een   gebruikersdossier wordt bijgehouden. Het gebruikersdossier voldoet aan de   verplichtingen die voortvloeien uit de wetgeving betreffende de bescherming van   de persoonlijke levenssfeer ten opzichte van de verwerking van   persoonsgegevens;<BR>11° het centrum beschikt over een procedure voor het omgaan   met situaties waarbij de integriteit van de gebruiker of van andere personen in   gevaar is; <BR>12° het centrum garandeert het klachtenrecht aan de gebruiker   door een procedure voor klachtenregistratie en -behandeling, die voldoet aan de   verplichtingen die voortvloeien uit de wetgeving betreffende de bescherming van   de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens;   <BR>13° het centrum bouwt het hulpaanbod zodanig uit dat het ook toegankelijk is   voor mensen met een beperking;<BR>14° de hulp- en dienstverlening van het   centrum aan de gebruiker verloopt in de Nederlandse taal. Als hulp- en   dienstverlening in het Nederlands echter niet mogelijk is, verloopt, in de mate   van het mogelijke, de hulp- en dienstverlening in de taal van de gebruiker of in   een taal die de gebruiker begrijpt.<BR></P>  <P>De procedure, vermeld in het eerste lid, 12°, beschrijft op welke wijze de   gebruiker zijn klacht kenbaar kan maken, op welke wijze de klacht wordt   beoordeeld op ontvankelijkheid, op welke wijze de klacht wordt behandeld en op   welke wijze de gebruiker wordt geïnformeerd over het resultaat van zijn   klacht.</P>
+<p>De hulp- en dienstverlening van het centrum voor algemeen welzijnswerk beantwoordt aan de volgende voorwaarden :<br>
+1° het centrum is rechtstreeks en zonder afspraak bereikbaar op de data en uren en op de wijze die het aan het publiek kenbaar maakt;<br>
+2° het centrum besteedt aandacht aan de bereikbaarheid en de toegankelijkheid buiten de kantooruren;<br>
+3° het centrum stelt aan de gebruikers en potentiële gebruikers informatie ter beschikking over alle relevante aspecten van het hulp- en dienstverleningsaanbod en het gehanteerde hulpverleningsconcept;<br>
+4° de hulp- en dienstverlening kan plaatsvinden in een ambulante of residentiële context in het centrum of in de eigen leefomgeving van de gebruiker;<br>
+5° de hulp- en dienstverlening kan tot stand komen zowel op initiatief van de gebruiker als door een actieve benadering vanuit het centrum die al dan niet aanklampend kan zijn;<br>
+6° de aanwezige krachten van de gebruiker en zijn leefomgeving worden actief ondersteund;<br>
+7° bij de afweging tussen verschillende mogelijke hulpverleningsvormen wordt gekozen voor de minst ingrijpende hulpverlening;<br>
+8° de hulpverlening beoogt een zo preventief en duurzaam mogelijk effect;<br>
+9° de verwijzing of toeleiding van de gebruiker naar andere hulp- en dienstverlenende organisaties gebeurt steeds met instemming van de gebruiker en met een afspraak met de gebruiker over de opvolging van de hulp- en dienstverlening;<br>
+10° het centrum bepaalt op welke manier een gebruikersdossier wordt bijgehouden. Het gebruikersdossier voldoet aan de verplichtingen die voortvloeien uit de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens;<br>
+11° het centrum beschikt over een procedure voor het omgaan met situaties waarbij de integriteit van de gebruiker of van andere personen in gevaar is;<br>
+12° het centrum garandeert het klachtenrecht aan de gebruiker door een procedure voor klachtenregistratie en -behandeling, die voldoet aan de verplichtingen die voortvloeien uit de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens;<br>
+13° het centrum bouwt het hulpaanbod zodanig uit dat het ook toegankelijk is voor mensen met een beperking;<br>
+14° de hulp- en dienstverlening van het centrum aan de gebruiker verloopt in de Nederlandse taal. Als hulp- en dienstverlening in het Nederlands echter niet mogelijk is, verloopt, in de mate van het mogelijke, de hulp- en dienstverlening in de taal van de gebruiker of in een taal die de gebruiker begrijpt.</p>
+
+<p>De procedure, vermeld in het eerste lid, 12°, beschrijft op welke wijze de gebruiker zijn klacht kenbaar kan maken, op welke wijze de klacht wordt beoordeeld op ontvankelijkheid, op welke wijze de klacht wordt behandeld en op welke wijze de gebruiker wordt geïnformeerd over het resultaat van zijn klacht.</p>
 
 ### ART. 14.
 
@@ -104,7 +126,9 @@ Het centrum voor algemeen welzijnswerk kan voor specifieke doelgroepen de   func
 
 ### ART. 21.
 
-<P>Binnen de voorwaarden, vermeld in artikel 10 van het decreet van 8 mei 2009,   hanteert het centrum voor de uitwisseling van persoonsgegevens, de werkwijze,   vermeld in het tweede en het derde lid. <BR></P>  <P>Het centrum onderzoekt in dialoog met de gebruiker in welke mate het   uitwisselen van persoonsgegevens wenselijk of noodzakelijk is en ondersteunt de   gebruiker om in de mate van het mogelijke deze gegevens zelf te communiceren. De   uitwisseling van persoonsgegevens beantwoordt aan de bijzondere voorwaarden die   zijn opgenomen in hoofdstuk III van het koninklijk besluit van 13 februari 2001   ter uitvoering van de wet van 8 december 1992 tot bescherming van de   persoonlijke levenssfeer ten opzicht van de verwerking van de   persoonsgegevens.<BR></P>  <P>De schriftelijke instemming van de gebruiker moet voorafgaand aan   uitwisseling van persoonsgegevens verleend worden.</P>
+<p>Binnen de voorwaarden, vermeld in artikel 10 van het decreet van 8 mei 2009, hanteert het centrum voor de uitwisseling van persoonsgegevens, de werkwijze, vermeld in het tweede lid.</p>
+
+<p>Het centrum onderzoekt in dialoog met de gebruiker in welke mate het uitwisselen van persoonsgegevens wenselijk of noodzakelijk is en ondersteunt de gebruiker om in de mate van het mogelijke deze gegevens zelf te communiceren.</p>
 
 ## Afdeling 2. De erkenningsprocedure
 
