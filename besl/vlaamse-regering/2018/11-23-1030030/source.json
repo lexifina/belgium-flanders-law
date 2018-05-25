@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030030,
+  "title": "Besluit van de Vlaamse Regering van 2018-11-23 betreffende de functionarissen voor gegevensbescherming, vermeld in artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische gegevensverkeer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030030/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "940b5841cc99480a83d333eb605909f94f2790007f233e60a52c9c10e1af3f48",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030030&param=informatie",
+  "as_of": "2018-05-25",
+  "made": "2018-11-23",
+  "gazette": "2018-12-21",
+  "numac": 2018015351,
+  "document_start": "2018-05-25",
+  "document_end": null,
+  "in_force": "2018-05-25",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2018-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
