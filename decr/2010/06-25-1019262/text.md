@@ -94,7 +94,7 @@ Als de bevoegde autoriteit kennisneemt van een gedraging, ernstige en specifieke
 
 ### ART. 22.
 
-Bij de uitwisseling van informatie in het kader van dit hoofdstuk respecteren de bevoegde autoriteit en de regionale coördinator de bepalingen van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens, de bepalingen van de wetten van 13 juni 2005 betreffende de elektronische communicatie en van 24 augustus 2005 tot omzetting van verschillende bepalingen van de richtlijn Financiële Diensten op Afstand en van de richtlijn Privacy en Elektronische Communicatie en de bepalingen van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.
+Bij de uitwisseling van informatie in het kader van dit hoofdstuk respecteren de bevoegde autoriteit en de regionale coördinator de bepalingen van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, de bepalingen van de wetten van 13 juni 2005 betreffende de elektronische communicatie en van 24 augustus 2005 tot omzetting van verschillende bepalingen van de richtlijn Financiële Diensten op Afstand en van de richtlijn Privacy en Elektronische Communicatie en de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.
 
 ## HOOFDSTUK 5. Verplichtingen van gemeenten, openbare centra voor maatschappelijk welzijn en provincies
 

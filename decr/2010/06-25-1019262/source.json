@@ -2,16 +2,16 @@
   "codex_id": 1019262,
   "title": "Decreet van 2010-06-25 tot gedeeltelijke omzetting van Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende diensten op de interne markt",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019262/VolledigDocument?datum=2009-12-28",
-  "source_sha256": "951626657fb2e30de5a9e187cced97afdeb96086519c597afb15aa46bf51e31e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019262/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "b00677b3051f1822fc226f537cde979bddcb4ee5fc61ac318c8c9b88b1eb12a5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019262&param=informatie",
-  "as_of": "2009-12-28",
+  "as_of": "2018-05-25",
   "made": "2010-06-25",
   "gazette": "2010-08-02",
   "numac": 2010203878,
   "document_start": "2009-12-28",
   "document_end": null,
-  "in_force": "2009-12-28",
+  "in_force": "2018-05-25",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2009-12-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
 }
