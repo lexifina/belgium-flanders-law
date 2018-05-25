@@ -2,16 +2,16 @@
   "codex_id": 1026220,
   "title": "Decreet van 2015-11-27 betreffende lage-emissiezones",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026220/VolledigDocument?datum=2016-03-01",
-  "source_sha256": "226e5db2cd0bdc5dcc12b33abe1ea6a522fc6cf6d9e28699831b952c73a5be8e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026220/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "a01c1711d0c6e12ceea9447ffae3d3d9e2fed74d2bcf5efda2e974c659f1aa6e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026220&param=informatie",
-  "as_of": "2016-03-01",
+  "as_of": "2018-05-25",
   "made": "2015-11-27",
   "gazette": "2015-12-18",
   "numac": 2015036551,
   "document_start": "2016-03-01",
   "document_end": null,
-  "in_force": "2016-03-01",
+  "in_force": "2018-05-25",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2016-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
 }
