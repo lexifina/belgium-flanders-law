@@ -70,7 +70,17 @@ De wegeninspecteurs verplaatsen zich in een dienstvoertuig, voorzien van   de ke
 
 ### ART. 10.
 
-<P>Binnen dertig dagen na het instellen van het bezwaar, vermeld in artikel 19,   § 2, van het decreet van 3 mei 2013, nodigt de wegeninspecteur-controleur de   overtreder en, in voorkomend geval, de onderneming uit op een   hoorzitting.<BR></P>  <P>Binnen dertig dagen na het instellen van het beroep, vermeld in artikel 19, §   3, van het decreet van 3 mei 2013, nodigt het hoofd van het Agentschap Wegen en   Verkeer de overtreder en, in voorkomend geval, de onderneming uit op een   hoorzitting.<BR></P>  <P>De uitnodiging, vermeld in het eerste en het tweede lid, vermeldt dag, plaats   en uur van de hoorzitting. De hoorzitting mag op zijn vroegst dertig dagen na de   verzending van de uitnodiging plaatsvinden.<BR></P>  <P>Als de overtreder of de onderneming geen woonplaats of vaste verblijfplaats   in België heeft, wordt de termijn, vermeld in het derde lid, verlengd tot 45   dagen.<BR></P>  <P>De uitnodiging vermeldt ten slotte de plaats waar en de periode waarin het   dossier kan worden ingezien. Het dossier ligt ter inzage vanaf de datum van   verzending van de uitnodiging. Een afschrift kan verkregen worden tegen een   vergoeding die overeenstemt met de kostprijs.<BR></P>  <P>De overtreder en de onderneming kunnen op de hoorzitting een nota indienen.   Ze mogen zich laten bijstaan of vertegenwoordigen door een raadsman. Van de   hoorzitting wordt een verslag opgemaakt.<BR></P>
+<p>Binnen dertig dagen na het instellen van het bezwaar, vermeld in artikel 19, § 2, van het decreet van 3 mei 2013, nodigt de wegeninspecteur-controleur de overtreder en, in voorkomend geval, de onderneming uit op een hoorzitting.</p>
+
+<p>Binnen dertig dagen na het instellen van het beroep, vermeld in artikel 19, § 3, van het decreet van 3 mei 2013, nodigt het hoofd van het Agentschap Wegen en Verkeer de overtreder en, in voorkomend geval, de onderneming uit op een hoorzitting.</p>
+
+<p>De uitnodiging, vermeld in het eerste en het tweede lid, vermeldt dag, plaats en uur van de hoorzitting. De hoorzitting mag op zijn vroegst dertig dagen na de verzending van de uitnodiging plaatsvinden.</p>
+
+<p>Als de overtreder of de onderneming geen woonplaats of vaste verblijfplaats in België heeft, wordt de termijn, vermeld in het derde lid, verlengd tot 45 dagen.</p>
+
+<p>De uitnodiging vermeldt ten slotte de plaats waar en de periode waarin het dossier kan worden ingezien. Het dossier ligt ter inzage vanaf de datum van verzending van de uitnodiging. De overtreder kan verzoeken om een elektronisch afschrift.</p>
+
+<p>De overtreder en de onderneming kunnen op de hoorzitting een nota indienen. Ze mogen zich laten bijstaan of vertegenwoordigen door een raadsman. Van de hoorzitting wordt een verslag opgemaakt.</p>
 
 ### ART. 11.
 

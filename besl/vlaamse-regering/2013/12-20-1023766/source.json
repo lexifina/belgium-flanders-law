@@ -2,16 +2,16 @@
   "codex_id": 1023766,
   "title": "Besluit van de Vlaamse Regering van 2013-12-20 betreffende handhaving inzake de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023766/VolledigDocument?datum=2014-03-01",
-  "source_sha256": "2028429130aeb8ff7307b557920d4cac120a3bfd3c92d1ec994a1dfe76ecd026",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023766/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "66990fc7f88d2fb5e350b114442bf12d01092cf25a6f680fa8bea1493dd0225d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023766&param=informatie",
-  "as_of": "2014-03-01",
+  "as_of": "2018-05-25",
   "made": "2013-12-20",
   "gazette": "2014-02-04",
   "numac": 2014035035,
   "document_start": "2014-03-01",
   "document_end": "2021-01-26",
-  "in_force": "2014-03-01",
+  "in_force": "2018-05-25",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2014-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
 }
