@@ -114,7 +114,18 @@ De gegevens worden bewaard zolang ze nodig zijn om de administratieve taken van 
 
 ### ART. 17.
 
-Elke gemeentelijke omgevingsambtenaar en elke gemeentelijke ambtenaar,   bevoegd voor de opmaak van het register, is gemachtigd het register te   consulteren of te actualiseren voor zijn gebied.<BR><BR>Elke gewestelijke   stedenbouwkundige&nbsp;ambtenaar, respectievelijk elke provinciale ambtenaar,   bevoegd voor de ruimtelijke ordening of het grond- en pandenbeleid, is   gemachtigd het register te consulteren voor zijn gebied.<BR><BR>De gewestelijke   coördinator van het register is gemachtigd om het register te consulteren of te   actualiseren.<BR><BR>De Vlaamse minister bevoegd voor de ruimtelijke ordening,   of zijn gemachtigde kan gewestelijke ambtenaren aanwijzen die het register   geheel of gedeeltelijk mogen consulteren om hun taken te vervullen.<BR><BR>Het   register kan worden aangewend voor beleidsgericht wetenschappelijk onderzoek. De   Vlaamse minister, bevoegd voor de ruimtelijke ordening, of zijn gemachtigde kan   daartoe toegang verlenen binnen de perken van de opdrachten en met inachtneming   van de wetgeving die betrekking heeft op de bescherming van de persoonlijke   levenssfeer.<BR><BR>Afgeleide statistische informatie kan in geaggregeerde vorm   worden gebruikt om het publiek te informeren.<BR><BR>
+Elke gemeentelijke omgevingsambtenaar en elke gemeentelijke ambtenaar, bevoegd voor de opmaak van het register, is gemachtigd het register te consulteren of te actualiseren voor zijn gebied.<br>
+<br>
+Elke gewestelijke stedenbouwkundige&nbsp;ambtenaar, respectievelijk elke provinciale ambtenaar, bevoegd voor de ruimtelijke ordening of het grond- en pandenbeleid, is gemachtigd het register te consulteren voor zijn gebied.<br>
+<br>
+De gewestelijke coördinator van het register is gemachtigd om het register te consulteren of te actualiseren.<br>
+<br>
+De Vlaamse minister bevoegd voor de ruimtelijke ordening, of zijn gemachtigde kan gewestelijke ambtenaren aanwijzen die het register geheel of gedeeltelijk mogen consulteren om hun taken te vervullen.<br>
+<br>
+Het register kan worden aangewend voor beleidsgericht wetenschappelijk onderzoek. De Vlaamse minister, bevoegd voor de ruimtelijke ordening, of zijn gemachtigde kan daartoe toegang verlenen binnen de perken van de opdrachten en met inachtneming van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
+<br>
+Afgeleide statistische informatie kan in geaggregeerde vorm worden gebruikt om het publiek te informeren.<br>
+&nbsp;
 
 ## HOOFDSTUK IV Slotbepalingen
 

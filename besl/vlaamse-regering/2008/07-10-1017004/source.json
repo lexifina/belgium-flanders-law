@@ -2,16 +2,16 @@
   "codex_id": 1017004,
   "title": "Besluit van de Vlaamse Regering van 2008-07-10 houdende bepaling van de nadere regels voor de opmaak, de actualisering en de financiering van het register van de onbebouwde percelen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017004/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "e7c36ea659fbdd878dee29e7909b623dd5a07a4d2cfa8b40dd98fa07ffe6225a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017004/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "f0923817b238c05f801bdc2dbda895a61b60031fb848f4c0d72c2f5ebec6b249",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017004&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2018-05-25",
   "made": "2008-07-10",
   "gazette": "2008-08-28",
   "numac": 2008036023,
   "document_start": "2008-09-01",
   "document_end": null,
-  "in_force": "2017-04-01",
+  "in_force": "2018-05-25",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
 }
