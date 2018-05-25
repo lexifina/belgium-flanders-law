@@ -2,16 +2,16 @@
   "codex_id": 1018127,
   "title": "Besluit van de Vlaamse Regering van 2009-05-15 betreffende de veiligheidsconsulenten, vermeld in artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018127/VolledigDocument?datum=2009-07-14",
-  "source_sha256": "c6cc98c1133897f5f05279edae3a925c490b6e678f437943f4811554b7c69a04",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018127/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "8aa754ad85e525250e9c1d2695a65b63475b206665d8e99922598ffb27c0a906",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018127&param=informatie",
-  "as_of": "2009-07-14",
+  "as_of": "2018-05-25",
   "made": "2009-05-15",
   "gazette": "2009-07-13",
   "numac": 2009203137,
   "document_start": "2009-07-14",
   "document_end": "2018-05-24",
-  "in_force": "2009-07-14",
+  "in_force": "2018-05-25",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2009-07-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
 }
