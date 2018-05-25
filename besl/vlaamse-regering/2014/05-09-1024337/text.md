@@ -644,7 +644,21 @@ De aanvraag van een subsidietoekenning bij wijziging van de organisator   wordt 
 
 ### ART. 92.
 
-<P>De aanvraag van een subsidie voor individuele inclusieve kinderopvang wordt   ingediend, per opgevangen kind met specifieke zorgbehoefte, met het   aanvraagformulier van Kind en Gezin, dat de volgende gegevens bevat:<BR>1° de   datum vanaf wanneer de organisator de subsidies effectief wil laten   ingaan;<BR>2° de identiteitsgegevens en de contactgegevens van de organisator,   waaronder de naam, de rechtsvorm, het adres, het rekeningnummer en het   ondernemingsnummer van de organisator. Als de organisator een feitelijke   vereniging is, moet het rekeningnummer slaan op de feitelijke vereniging   zelf;<BR>3° de identiteitsgegevens en de contactgegevens van de persoon die meer   informatie kan geven over de aanvraag, waaronder de voor- en achternaam, het   telefoonnummer en het e-mailadres van die persoon;<BR>4° de gegevens over de   kinderopvanglocatie waar het kind opgevangen wordt, waaronder de opvangvorm, het   dossiernummer, de naam en het adres;<BR>5° de identiteitsgegevens van het kind   voor wie de subsidie wordt aangevraagd, waaronder de voor- en achternaam, de   geboortedatum en de datum waarop de kinderopvang start. Als er al een kindcode   is toegekend voor het kind : de kindcode;<BR>6° ...;<BR>7° de omschrijving van   de specifieke zorg die het kind nodig heeft, met een verwijzing naar artikel 42   van het Subsidiebesluit van 22 november 2013;<BR>8° de vermelding dat het gezin   ingelicht is over de verwerking van de persoonsgegevens van het kind en de   toestemming daarvoor;<BR>9° een verklaring op erewoord over:<BR>a) het feit dat   de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de   organisator;<BR>b) de kennisname van de voorwaarden voor de specifieke   dienstverlening, vermeld in het Subsidiebesluit van 22 november 2013;<BR>10° de   datum en de handtekening van de organisator.<BR><BR>Naast het aanvraagformulier,   vermeld in het eerste lid, bezorgt de organisator onder gesloten enveloppe een   attest van een professioneel deskundige, die niet verbonden is met de   organisator, waarin uitleg gegeven wordt over de problematiek van het kind. Op   die enveloppe staat de naam van het kind, het dossiernummer van de organisator   en de aanvraagdatum.<BR></P>
+<p>De aanvraag van een subsidie voor individuele inclusieve kinderopvang wordt ingediend, per opgevangen kind met specifieke zorgbehoefte, met het aanvraagformulier van Kind en Gezin, dat de volgende gegevens bevat:<br>
+1° de datum vanaf wanneer de organisator de subsidies effectief wil laten ingaan;<br>
+2° de identiteitsgegevens en de contactgegevens van de organisator, waaronder de naam, de rechtsvorm, het adres, het rekeningnummer en het ondernemingsnummer van de organisator. Als de organisator een feitelijke vereniging is, moet het rekeningnummer slaan op de feitelijke vereniging zelf;<br>
+3° de identiteitsgegevens en de contactgegevens van de persoon die meer informatie kan geven over de aanvraag, waaronder de voor- en achternaam, het telefoonnummer en het e-mailadres van die persoon;<br>
+4° de gegevens over de kinderopvanglocatie waar het kind opgevangen wordt, waaronder de opvangvorm, het dossiernummer, de naam en het adres;<br>
+5° de identiteitsgegevens van het kind voor wie de subsidie wordt aangevraagd, waaronder de voor- en achternaam, de geboortedatum en de datum waarop de kinderopvang start. Als er al een kindcode is toegekend voor het kind : de kindcode;<br>
+6° ...;<br>
+7° de omschrijving van de specifieke zorg die het kind nodig heeft, met een verwijzing naar artikel 42 van het Subsidiebesluit van 22 november 2013;<br>
+8° de vermelding dat het gezin ingelicht is over de verwerking van de persoonsgegevens van het kind;<br>
+9° een verklaring op erewoord over:<br>
+a) het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
+b) de kennisname van de voorwaarden voor de specifieke dienstverlening, vermeld in het Subsidiebesluit van 22 november 2013;<br>
+10° de datum en de handtekening van de organisator.<br>
+<br>
+Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de organisator onder gesloten enveloppe een attest van een professioneel deskundige, die niet verbonden is met de organisator, waarin uitleg gegeven wordt over de problematiek van het kind. Op die enveloppe staat de naam van het kind, het dossiernummer van de organisator en de aanvraagdatum.</p>
 
 ### ART. 93.
 
