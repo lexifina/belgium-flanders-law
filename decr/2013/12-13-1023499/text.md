@@ -3633,7 +3633,9 @@ De belasting wordt gevestigd op zicht van de aangifte, vermeld in artikel 3.3.1.
 
 ### ART. 3.1.0.0.3.
 
-De gegevens en de documenten die de bevoegde entiteit van de Vlaamse   administratie heeft ontvangen, opgesteld of verzonden in het kader van de   toepassing van de bepalingen van deze codex, met inbegrip van de door de   belastingplichtigen ingediende aangiften, alsook de daarbij gevoegde documenten   en bewijsstukken, en die fotografisch, optisch, elektronisch of volgens elke   andere informatica- of telegeleidingstechniek worden geregistreerd, bewaard of   weergegeven, alsook de weergave ervan op een leesbare drager, hebben   bewijskracht voor de toepassing van de bepalingen van deze   codex.<BR>
+§ 1. De gegevens en de documenten die de bevoegde entiteit van de Vlaamse administratie heeft ontvangen, opgesteld of verzonden in het kader van de toepassing van de bepalingen van deze codex, met inbegrip van de door de belastingplichtigen ingediende aangiften, alsook de daarbij gevoegde documenten en bewijsstukken, en die fotografisch, optisch, elektronisch of volgens elke andere informatica- of telegeleidingstechniek worden geregistreerd, bewaard of weergegeven, alsook de weergave ervan op een leesbare drager, hebben bewijskracht voor de toepassing van de bepalingen van deze codex.<br>
+<br>
+§ 2. De bevoegde entiteit van de Vlaamse administratie kan persoonsgegevens verwerken als dat noodzakelijk is voor de vervulling van een taak van algemeen belang, meer bepaald om de juiste heffing en inning van alle belastingen, vermeld in deze codex, te kunnen verzekeren.
 
 ### ART. 3.1.0.0.4.
 
@@ -4847,6 +4849,20 @@ Elke inlichting, elk stuk, elk proces-verbaal of elke akte, door een   bevoegde 
 ### ART. 3.13.1.1.4.
 
 <P>§ 1. In de gevallen, vermeld in artikel 3.13.1.3.1, § 2, en 3.13.1.4.1, § 3,   tweede lid, stelt de bevoegde entiteit van de Vlaamse administratie de   belastingschuldige in kennis van de aanwijzing of de aanwijzingen van   belastingontduiking die een vraag om inlichtingen bij een financiële instelling   rechtvaardigen. Deze kennisgeving gebeurt bij aangetekende brief, gelijktijdig   met het verzenden van de voormelde vraag om inlichtingen.<BR></P>  <P>Het eerste lid is niet van toepassing als de rechten van het Vlaamse Gewest   in gevaar zijn. De kennisgeving gebeurt desgevallend post factum bij   aangetekende brief, uiterlijk 30 dagen na het verzenden van de in het eerste lid   vermelde vraag om inlichtingen.<BR></P>  <P>§ 2. De bevoegde entiteit van de Vlaamse administratie bezorgt de Vlaamse   minister van Financiën eenmaal per jaar een verslag dat onder meer volgende   informatie bevat :<BR>1° het aantal keren dat in overeenstemming met artikel   3.13.1.2.5, tweede lid, een onderzoek is gevoerd bij financiële instellingen en   gegevens zijn gebruikt met het oog op het belasten van hun cliënten;<BR>2° het   aantal keren dat in overeenstemming met artikel 3.13.1.3.1, § 2, en 3.13.1.4.1,   § 3, tweede lid, een onderzoek is gevoerd en gegevens zijn opgevraagd bij   financiële instellingen.<BR></P>  <P>Dit verslag wordt openbaar gemaakt door de Vlaamse minister van Financiën en   overgezonden aan het Vlaamse Parlement.<BR></P>
+
+### ART 3.13.1.1.5.
+
+Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kan de bevoegde entiteit van de Vlaamse administratie beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan wordt aan de voorwaarden, vermeld in het tweede tot en met het zesde lid.<br>
+<br>
+De mogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de bevoegde entiteit van de Vlaamse administratie, op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+De bevoegde entiteit van de Vlaamse administratie moet de beslissing, vermeld in het eerste lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het eerste lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde entiteit van de Vlaamse administratie op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan de bevoegde entiteit van de Vlaamse administratie heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijst de bevoegde entiteit van de Vlaamse administratie hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.
 
 ## Onderafdeling 2 Plichten van de belastingplichtige
 
