@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029287,
+  "title": "Besluit van de Vlaamse Regering van 2018-04-20 houdende de wijziging en de bijzondere bepalingen voor het jaar 2018 van het Onroerenderfgoedbesluit van 16 mei 2014, wat betreft projectsubsidies",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029287/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "178cc0b3373d1ef9ecc6133f7dac27599d737a10376eb56889215a0829f9d25d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029287&param=informatie",
+  "as_of": "2018-05-25",
+  "made": "2018-04-20",
+  "gazette": "2018-05-15",
+  "numac": 2018011925,
+  "document_start": "2018-05-25",
+  "document_end": null,
+  "in_force": "2018-05-25",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2018-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
