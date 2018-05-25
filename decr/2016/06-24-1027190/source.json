@@ -2,16 +2,16 @@
   "codex_id": 1027190,
   "title": "Decreet van 2016-06-24 houdende de Vlaamse sociale bescherming",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027190/VolledigDocument?datum=2017-06-02",
-  "source_sha256": "68a707d985a89f2846d046c305fa1209be6750df1c7c44b7f62e4bcbd2e0eab2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027190/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "42b6917482195a920b901618c48129f77061f962307eb3492a77d2be5d54fc0f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027190&param=informatie",
-  "as_of": "2017-06-02",
+  "as_of": "2018-05-25",
   "made": "2016-06-24",
   "gazette": "2016-09-06",
   "numac": 2016036210,
   "document_start": "2017-01-01",
   "document_end": "2018-12-31",
-  "in_force": "2017-06-02",
+  "in_force": "2018-05-25",
   "article_versions": 91,
-  "record_form": "consolidated version as in force on 2017-06-02; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
 }
