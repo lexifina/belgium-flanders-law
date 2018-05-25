@@ -176,4 +176,160 @@ De Vlaamse minister, bevoegd voor de beroepsomscholing en -bijscholing, de Vlaam
 
 ### Tekst
 
-Gedragscode voor het herkennen en beoordelen van competenties (besluit van de Vlaamse Regering betreffende het verwerven van een titel van beroepsbekwaamheid)<br /><br />In deze code gebruiken we meestal de mannelijke vorm 'hij' om te verwijzen naar een persoon. Die mannelijke vorm verwijst zowel naar mannen als vrouwen.<br /><br />Inleiding<br /><br />De gedragscode gebruikt de termen 'aanvrager' en 'beoordelaar' als volgt:<br /><br />- aanvrager: de persoon die het beoordelingsproces van zijn of haar verworven competenties instapt en doorloopt;<br /><br />- begeleider: zowel de persoon die binnen de beoordelingsinstantie begeleiding biedt bij het reflecteren over competenties en bij het invullen van de talentenpas, als de organisatie die de beoordeling van verworven competenties aanbiedt en waarbinnen die persoon werkt;<br /><br />- beoordelaar: zowel de persoon die zorgt voor de eigenlijke beoordeling, als de organisatie die de beoordeling van verworven competenties aanbiedt en waarbinnen die persoon werkt.<br /><br />Elke erkende beoordelingsinstantie biedt naast de beoordeling ook begeleiding bij het reflecteren over competenties en bij het invullen van de talentenpas. Hiervoor wordt een begeleider ingezet. Naast de beoordelaar moet ook de begeleider de gedragscode hanteren.<br /><br />1. De houding en de rol van de begeleider en de beoordelaar<br /><br />De beoordeling van competenties is doelgericht met als duidelijke doelstelling competenties beoordelen volgens een methode die voldoet aan alle gestelde criteria, op objectieve en neutrale (in het bijzonder gender- en cultuurneutrale) wijze, en een advies hierover aan de aanvrager verstrekken.<br /><br />De begeleider of beoordelaar gaat een vertrouwensrelatie aan met de aanvrager. Hij moet er aanhoudend over waken dat de vertrouwelijkheid van de verzamelde gegevens niet wordt geschaad.<br />De begeleider of beoordelaar is in geen geval opleider-instructeur geweest van de aanvrager.<br /><br />2. Het vereiste profiel van de begeleider en de beoordelaar<br /><br />De erkende beoordelingsinstantie streeft een dienstverlening na van een zo hoog mogelijke kwaliteit. De instantie garandeert dat de begeleiders en beoefenaars hun beroep uitoefenen op een deskundige en verantwoorde wijze, en ziet erop toe dat ze de eigen professionele competenties op peil houden en verder uitbouwen.<br /><br />Dat vereist in hoofde van de begeleiders of de beoordelaars de volgende kwalificaties:<br /><br />- de aanwezigheid van een degelijke vooropleiding en basiskwalificaties. De dienstverlener is terdege voorbereid om begeleiding bij herkenning of een beoordeling uit te voeren en een advies te formuleren. Elke begeleider of beoordelaar heeft een of meer professioneel relevante opleidingen met succes doorlopen en kan dat bewijzen met de nodige diploma's of certificaten, of hij kan aantonen dat hij beschikt over een gelijkgestelde professionele ervaring;<br /><br />- minimale aantoonbare beroepservaring in het beoordelen van competenties voor bepaalde titels. De beoordelaar met minder dan één jaar beroepservaring wordt geleid en gevolgd door een meer ervaren beoordelaar die ook de eindverantwoordelijkheid draagt voor het verloop van de beoordeling;<br /><br />- zelfkennis. De begeleider of beoordelaar erkent zijn professionele en persoonlijke beperkingen en doet indien nodig een beroep op professioneel advies en professionele ondersteuning. Hij hanteert enkel de methoden waarvoor hij de vereiste competenties heeft;<br /><br />- vormingsengagement. De beoordelingsinstantie ziet erop toe dat de begeleiders of beoordelaars voorafgaand aan de dienstverlening een passende training hebben doorlopen die gericht is op de ontwikkeling van de eigen deskundigheid met betrekking tot het vervullen van de begeleidings- of beoordelingsopdrachten van de beoordelingsinstantie.<br /><br />3. Informatie-uitwisseling bij de aanvang van de dienstverlening<br /><br />Transparantie van de dienstverlening. De beoordelingsinstantie zorgt ervoor dat elke aanvrager die gebruikmaakt van de dienstverlening van bij de start een duidelijk beeld heeft van de mogelijkheden en de beperkingen ervan.<br /><br />Bij de aanvang van de beoordeling zorgt de begeleider of beoordelaar ervoor dat de aanvrager een volledig begrip kan hebben van:<br /><br />- de doelstellingen van de beoordeling van competenties;<br /><br />- de standaarden op basis waarvan wordt beoordeeld, met inbegrip van de wegingsfactoren die desgevallend worden gehanteerd voor de verschillende kerncompetenties;<br /><br />- de diensten die geleverd worden door de beoordelingsinstantie en de planning ervan;<br /><br />- het bedrag dat de aanvrager moet betalen voor de dienstverlening;<br /><br />- de betalingswijze, de mogelijkheid en de voorwaarden om opleidingscheques voor werknemers te gebruiken;<br /><br />- de hoeveelheid tijd die de aanvrager zal moeten investeren om te kunnen komen tot een volwaardige beoordeling van zijn competenties;<br /><br />- de stappen van het beoordelingsproces zelf;<br /><br />- de methodieken die in het beoordelingsproces worden gebruikt;<br /><br />- het afrondingsmoment van de beoordeling, het beoordelingsadvies;<br /><br />- de deontologische regels die de begeleider of beoordelaar tijdens de dienstverlening moet volgen;<br /><br />- de klachtenmogelijkheid en de beroepsmogelijkheid over die dienstverlening.<br />De aanvrager krijgt er een mondelinge toelichting over.<br /><br />4. De beoordeling<br /><br />Bij de beoordeling worden de nodige garanties ingebouwd zodat recht wordt gedaan aan het volledige spectrum van competenties die iemand heeft verworven, in de mate dat ze relevant zijn voor het betreffende beroep:<br /><br />- zowel formele als in- en niet-formele competenties;<br /><br />- zowel competenties die in een Vlaamse context werden verworven als competenties die in andere regio's of in het buitenland werden verworven;<br /><br />- zowel competenties die via onderwijs, opleiding, beroepservaring werden verworven als competenties die werden verworven, bijvoorbeeld via het verenigingsleven of via vrijetijdsbeoefening (cfr. IAO-aanbeveling human resources 2004, art. 11).<br /><br />5. Het contact tussen de dienstverlener en de aanvrager tijdens de dienstverlening<br /><br />5.1 De eigen verantwoordelijkheid en de autonomie van de aanvrager<br /><br />Tijdens het beoordelingsproces respecteert de begeleider of beoordelaar de eigen verantwoordelijkheid en de autonomie van de aanvrager. Dat uit zich als volgt.<br /><br />- De aanvrager neemt vrijwillig deel aan de beoordeling van zijn competenties. De zelfbeschikking van de aanvrager komt tot uiting in het recht om de professionele relatie met de begeleider of beoordelaar al dan niet aan te gaan, voort te zetten of te beëindigen. De begeleider of beoordelaar laat de dienstverlening niet langer duren dan nodig is voor de aanvrager.<br /><br />- Elke aanvrager verbindt er zich toe de nodige informatie die de begeleider of beoordelaar nodig heeft om zijn professioneel handelen te waarborgen, te verstrekken.<br /><br />- De begeleider of beoordelaar legt een zekere terughoudendheid aan de dag. Hij dringt niet verder door in de persoonlijke levenssfeer van de aanvrager dan noodzakelijk is om de begeleiding of beoordeling te doen slagen.<br /><br />- De begeleider of beoordelaar neemt voldoende professionele afstand. Hij vermengt geen professionele en niet-professionele rollen om te vermijden dat hij niet in staat is een professionele afstand tot de aanvrager te bewaren waardoor de belangen van de aanvrager kunnen worden geschaad.<br /><br />- De begeleider of beoordelaar zal in het kader van de dienstverlening geen contacten leggen met derden (organisaties, natuurlijke personen, de werkgever) zonder de uitdrukkelijke toestemming van de aanvrager. De aanvrager kan die toestemming immers pas geven nadat het voor hem duidelijk is waarom dat contact met derden wordt gelegd en wat ervan wordt verwacht.<br /><br />De beoordelaar neemt de nodige voorzorgsmaatregelen met betrekking tot het voldoende verzekeren van eventuele ongevallen of schade, ongeacht die door de aanvrager werden berokkend tijdens zijn beoordeling.<br /><br />5.2. Onafhankelijke doorverwijzing<br /><br />De begeleider of beoordelaar zal zich bij doorverwijzingen (bijvoorbeeld naar opleiding, loopbaandienstverlening of arbeidsbemiddeling) op geen enkele wijze laten leiden door de belangen of behoeften van de eigen organisatie of van andere organisaties.<br /><br />5.3. Vertrouwelijkheid in de samenwerking<br /><br />De begeleider of beoordelaar gaat een vertrouwensrelatie aan met de aanvrager. Dat dwingt hem tot geheimhouding over alles wat hij verneemt door de uitoefening van de dienstverleningsfunctie. Dat betekent dat:<br /><br />- de begeleider of beoordelaar in overeenstemming met de regels en principes van de bescherming van de persoonlijke levenssfeer moet handelen;<br /><br />- de begeleider of beoordelaar alle informatie van de aanvrager strikt vertrouwelijk moet behandelen en die onder geen beding mag doorgeven of meedelen aan derden, tenzij de aanvrager daar vooraf uitdrukkelijk toestemming voor gegeven heeft. Dat is enkel mogelijk als het voor de aanvrager duidelijk is waarom die informatie moet worden gegeven en nadat hij de desbetreffende informatie (rapport, dossier,...) heeft kunnen inkijken;<br /><br />- enkel de gegevens zullen worden geregistreerd die relevant zijn voor het onderbouwen van het advies en die noodzakelijk zijn voor de dienstdoelstellingen van de beoordelaar. Als de resultaten worden verwerkt, zal dat volstrekt anoniem verlopen;<br /><br />- de aanvrager altijd inzagerecht heeft in de gegevens die tijdens de beoordeling over hem werden verzameld;<br /><br />- na afloop van de dienstverlening de geheimhoudingsplicht van de begeleider of beoordelaar blijft bestaan;<br /><br />- alle verzamelde informatie (testresultaten, gespreksinhoud enzovoort) na afloop van de beoordeling aan de aanvrager wordt bezorgd.<br /><br />5.4. Uitzonderingen op de vertrouwelijkheid<br /><br />In de volgende gevallen wordt een uitzondering op de vertrouwelijkheid gemaakt:<br /><br />- gegevens, namelijk identificatiegegevens en beoordelingsadvies, die moeten worden meegedeeld aan de erkenningsinstantie zodat die de titel van beroepsbekwaamheid aan de aanvrager zou kunnen uitreiken;<br /><br />- gegevens die moeten worden geregistreerd voor en kunnen worden opgevraagd door de subsidiërende instantie. In dat geval bezorgt de begeleider of beoordelaar uitsluitend identificatiegegevens, trajectbeschrijvende data en het resultaat van de beoordeling aan de subsidiërende instantie;<br /><br />- een beperkte interne gegevensdoorstroming in de gesubsidieerde beoordelingsinstantie die noodzakelijk is voor een adequaat management van de dienstverlening;<br /><br />- gegevens die noodzakelijk zijn voor de monitoringsopdracht van de interdepartementale stuurgroep. De gegevens moeten anoniem zijn zodat het onmogelijk is om vast te stellen op welke persoon ze betrekking hebben.<br /><br />Alle andere informatie kan pas aan derden meegedeeld worden na expliciete voorafgaande toestemming van de aanvrager.<br /><br />5.5. Gelijke behandeling en non-discriminatie<br /><br />De instantie garandeert de naleving van de bepalingen van het decreet van 8 mei 2002 betreffende de evenredige participatie op de arbeidsmarkt en zijn uitvoeringsbesluiten.<br /><br />In het bijzonder garandeert de beoordelingsinstantie een gelijke behandeling en non-discriminatie tijdens de procedure van beoordeling van competenties, in het bijzonder:<br /><br />- door bij de uitwerking van de EVC-procedures garanties in te bouwen dat volwaardig rekening wordt gehouden met de competenties en kwalificaties die in het buitenland worden verworven (IAO-aanbeveling 2004, art. 12);<br /><br />- door het gebruik van methodieken en testmethoden die genderneutraal zijn (IAO-aanbeveling 2004, art 18, g) ;<br /><br />- door het gebruik van methodieken en testmethoden die de grootst mogelijke garanties inhouden dat ze niet onbewust tot discriminatie leiden van allochtonen;<br /><br />- door de methodieken en testmethoden zoveel als mogelijk toegankelijk te maken en te houden voor kortgeschoolden en/of laaggeletterden.<br /><br />5.6. Eigendom<br /><br />De instantie garandeert dat de resultaten van de beoordeling het eigendom zijn van het individu.<br /><br />5.7. Onpartijdigheid<br /><br />De instantie moet garanderen dat de beoordeling, in alle fasen, onpartijdig gebeurt.<br /><br />5.8. Handvest van de werkzoekende<br /><br />De instantie moet garanderen dat bij de dienstverlening naar werkzoekenden de bepalingen van het decreet van 30 april 2004 houdende het Handvest van de werkzoekende en zijn uitvoeringsbesluiten volledig worden nageleefd.<br /><br />6. Klachten<br /><br />Op het niveau van de beoordelingsinstantie is er een eerstelijnsbehandeling voor klachten over het niet-naleven van deze gedragscode voor de beoordeling van competenties, over een concrete al dan niet verrichte handeling of over de werking van de organisatie. De klacht wordt in ieder geval behandeld door een persoon die niet bij de feiten waarop de klacht betrekking heeft, betrokken is geweest. De persoon die de klacht behandelt, is verplicht het beroepsgeheim te respecteren en een strikte neutraliteit in acht te nemen. De beoordelingsinstantie stelt de klant bij de aanvang van de dienstverlening schriftelijk op de hoogte van die interne klachtenbehandeling.
+Gedragscode voor het herkennen en beoordelen van competenties (besluit van de Vlaamse Regering betreffende het verwerven van een titel van beroepsbekwaamheid)<br>
+<br>
+In deze code gebruiken we meestal de mannelijke vorm 'hij' om te verwijzen naar een persoon. Die mannelijke vorm verwijst zowel naar mannen als vrouwen.<br>
+<br>
+Inleiding<br>
+<br>
+De gedragscode gebruikt de termen 'aanvrager' en 'beoordelaar' als volgt:<br>
+<br>
+- aanvrager: de persoon die het beoordelingsproces van zijn of haar verworven competenties instapt en doorloopt;<br>
+<br>
+- begeleider: zowel de persoon die binnen de beoordelingsinstantie begeleiding biedt bij het reflecteren over competenties en bij het invullen van de talentenpas, als de organisatie die de beoordeling van verworven competenties aanbiedt en waarbinnen die persoon werkt;<br>
+<br>
+- beoordelaar: zowel de persoon die zorgt voor de eigenlijke beoordeling, als de organisatie die de beoordeling van verworven competenties aanbiedt en waarbinnen die persoon werkt.<br>
+<br>
+Elke erkende beoordelingsinstantie biedt naast de beoordeling ook begeleiding bij het reflecteren over competenties en bij het invullen van de talentenpas. Hiervoor wordt een begeleider ingezet. Naast de beoordelaar moet ook de begeleider de gedragscode hanteren.<br>
+<br>
+1. De houding en de rol van de begeleider en de beoordelaar<br>
+<br>
+De beoordeling van competenties is doelgericht met als duidelijke doelstelling competenties beoordelen volgens een methode die voldoet aan alle gestelde criteria, op objectieve en neutrale (in het bijzonder gender- en cultuurneutrale) wijze, en een advies hierover aan de aanvrager verstrekken.<br>
+<br>
+De begeleider of beoordelaar gaat een vertrouwensrelatie aan met de aanvrager. Hij moet er aanhoudend over waken dat de vertrouwelijkheid van de verzamelde gegevens niet wordt geschaad.<br>
+De begeleider of beoordelaar is in geen geval opleider-instructeur geweest van de aanvrager.<br>
+<br>
+2. Het vereiste profiel van de begeleider en de beoordelaar<br>
+<br>
+De erkende beoordelingsinstantie streeft een dienstverlening na van een zo hoog mogelijke kwaliteit. De instantie garandeert dat de begeleiders en beoefenaars hun beroep uitoefenen op een deskundige en verantwoorde wijze, en ziet erop toe dat ze de eigen professionele competenties op peil houden en verder uitbouwen.<br>
+<br>
+Dat vereist in hoofde van de begeleiders of de beoordelaars de volgende kwalificaties:<br>
+<br>
+- de aanwezigheid van een degelijke vooropleiding en basiskwalificaties. De dienstverlener is terdege voorbereid om begeleiding bij herkenning of een beoordeling uit te voeren en een advies te formuleren. Elke begeleider of beoordelaar heeft een of meer professioneel relevante opleidingen met succes doorlopen en kan dat bewijzen met de nodige diploma's of certificaten, of hij kan aantonen dat hij beschikt over een gelijkgestelde professionele ervaring;<br>
+<br>
+- minimale aantoonbare beroepservaring in het beoordelen van competenties voor bepaalde titels. De beoordelaar met minder dan één jaar beroepservaring wordt geleid en gevolgd door een meer ervaren beoordelaar die ook de eindverantwoordelijkheid draagt voor het verloop van de beoordeling;<br>
+<br>
+- zelfkennis. De begeleider of beoordelaar erkent zijn professionele en persoonlijke beperkingen en doet indien nodig een beroep op professioneel advies en professionele ondersteuning. Hij hanteert enkel de methoden waarvoor hij de vereiste competenties heeft;<br>
+<br>
+- vormingsengagement. De beoordelingsinstantie ziet erop toe dat de begeleiders of beoordelaars voorafgaand aan de dienstverlening een passende training hebben doorlopen die gericht is op de ontwikkeling van de eigen deskundigheid met betrekking tot het vervullen van de begeleidings- of beoordelingsopdrachten van de beoordelingsinstantie.<br>
+<br>
+3. Informatie-uitwisseling bij de aanvang van de dienstverlening<br>
+<br>
+Transparantie van de dienstverlening. De beoordelingsinstantie zorgt ervoor dat elke aanvrager die gebruikmaakt van de dienstverlening van bij de start een duidelijk beeld heeft van de mogelijkheden en de beperkingen ervan.<br>
+<br>
+Bij de aanvang van de beoordeling zorgt de begeleider of beoordelaar ervoor dat de aanvrager een volledig begrip kan hebben van:<br>
+<br>
+- de doelstellingen van de beoordeling van competenties;<br>
+<br>
+- de standaarden op basis waarvan wordt beoordeeld, met inbegrip van de wegingsfactoren die desgevallend worden gehanteerd voor de verschillende kerncompetenties;<br>
+<br>
+- de diensten die geleverd worden door de beoordelingsinstantie en de planning ervan;<br>
+<br>
+- het bedrag dat de aanvrager moet betalen voor de dienstverlening;<br>
+<br>
+- de betalingswijze, de mogelijkheid en de voorwaarden om opleidingscheques voor werknemers te gebruiken;<br>
+<br>
+- de hoeveelheid tijd die de aanvrager zal moeten investeren om te kunnen komen tot een volwaardige beoordeling van zijn competenties;<br>
+<br>
+- de stappen van het beoordelingsproces zelf;<br>
+<br>
+- de methodieken die in het beoordelingsproces worden gebruikt;<br>
+<br>
+- het afrondingsmoment van de beoordeling, het beoordelingsadvies;<br>
+<br>
+- de deontologische regels die de begeleider of beoordelaar tijdens de dienstverlening moet volgen;<br>
+<br>
+- de klachtenmogelijkheid en de beroepsmogelijkheid over die dienstverlening.<br>
+De aanvrager krijgt er een mondelinge toelichting over.<br>
+<br>
+4. De beoordeling<br>
+<br>
+Bij de beoordeling worden de nodige garanties ingebouwd zodat recht wordt gedaan aan het volledige spectrum van competenties die iemand heeft verworven, in de mate dat ze relevant zijn voor het betreffende beroep:<br>
+<br>
+- zowel formele als in- en niet-formele competenties;<br>
+<br>
+- zowel competenties die in een Vlaamse context werden verworven als competenties die in andere regio's of in het buitenland werden verworven;<br>
+<br>
+- zowel competenties die via onderwijs, opleiding, beroepservaring werden verworven als competenties die werden verworven, bijvoorbeeld via het verenigingsleven of via vrijetijdsbeoefening (cfr. IAO-aanbeveling human resources 2004, art. 11).<br>
+<br>
+5. Het contact tussen de dienstverlener en de aanvrager tijdens de dienstverlening<br>
+<br>
+5.1 De eigen verantwoordelijkheid en de autonomie van de aanvrager<br>
+<br>
+Tijdens het beoordelingsproces respecteert de begeleider of beoordelaar de eigen verantwoordelijkheid en de autonomie van de aanvrager. Dat uit zich als volgt.<br>
+<br>
+- De aanvrager neemt vrijwillig deel aan de beoordeling van zijn competenties. De zelfbeschikking van de aanvrager komt tot uiting in het recht om de professionele relatie met de begeleider of beoordelaar al dan niet aan te gaan, voort te zetten of te beëindigen. De begeleider of beoordelaar laat de dienstverlening niet langer duren dan nodig is voor de aanvrager.<br>
+<br>
+- Elke aanvrager verbindt er zich toe de nodige informatie die de begeleider of beoordelaar nodig heeft om zijn professioneel handelen te waarborgen, te verstrekken.<br>
+<br>
+- De begeleider of beoordelaar legt een zekere terughoudendheid aan de dag. Hij dringt niet verder door in de persoonlijke levenssfeer van de aanvrager dan noodzakelijk is om de begeleiding of beoordeling te doen slagen.<br>
+<br>
+- De begeleider of beoordelaar neemt voldoende professionele afstand. Hij vermengt geen professionele en niet-professionele rollen om te vermijden dat hij niet in staat is een professionele afstand tot de aanvrager te bewaren waardoor de belangen van de aanvrager kunnen worden geschaad.<br>
+<br>
+- De begeleider of beoordelaar zal in het kader van de dienstverlening geen contacten leggen met derden (organisaties, natuurlijke personen, de werkgever) zonder de uitdrukkelijke toestemming van de aanvrager. De aanvrager kan die toestemming immers pas geven nadat het voor hem duidelijk is waarom dat contact met derden wordt gelegd en wat ervan wordt verwacht.<br>
+<br>
+De beoordelaar neemt de nodige voorzorgsmaatregelen met betrekking tot het voldoende verzekeren van eventuele ongevallen of schade, ongeacht die door de aanvrager werden berokkend tijdens zijn beoordeling.<br>
+<br>
+5.2. Onafhankelijke doorverwijzing<br>
+<br>
+De begeleider of beoordelaar zal zich bij doorverwijzingen (bijvoorbeeld naar opleiding, loopbaandienstverlening of arbeidsbemiddeling) op geen enkele wijze laten leiden door de belangen of behoeften van de eigen organisatie of van andere organisaties.<br>
+<br>
+5.3. Vertrouwelijkheid in de samenwerking<br>
+<br>
+De begeleider of beoordelaar gaat een vertrouwensrelatie aan met de aanvrager. Dat dwingt hem tot geheimhouding over alles wat hij verneemt door de uitoefening van de dienstverleningsfunctie. Dat betekent dat:<br>
+<br>
+- de begeleider of beoordelaar in overeenstemming met de regels en principes van de bescherming van de persoonlijke levenssfeer en de regels over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens moet handelen;<br>
+<br>
+- de begeleider of beoordelaar alle informatie van de aanvrager strikt vertrouwelijk moet behandelen en die onder geen beding mag doorgeven of meedelen aan derden, tenzij de aanvrager daar vooraf uitdrukkelijk toestemming voor gegeven heeft. Dat is enkel mogelijk als het voor de aanvrager duidelijk is waarom die informatie moet worden gegeven en nadat hij de desbetreffende informatie (rapport, dossier,...) heeft kunnen inkijken;<br>
+<br>
+- enkel de gegevens zullen worden geregistreerd die relevant zijn voor het onderbouwen van het advies en die noodzakelijk zijn voor de dienstdoelstellingen van de beoordelaar. Als de resultaten worden verwerkt, zal dat volstrekt anoniem verlopen;<br>
+<br>
+- de aanvrager altijd inzagerecht heeft in de gegevens die tijdens de beoordeling over hem werden verzameld;<br>
+<br>
+- na afloop van de dienstverlening de geheimhoudingsplicht van de begeleider of beoordelaar blijft bestaan;<br>
+<br>
+- alle verzamelde informatie (testresultaten, gespreksinhoud enzovoort) na afloop van de beoordeling aan de aanvrager wordt bezorgd.<br>
+<br>
+5.4. Uitzonderingen op de vertrouwelijkheid<br>
+<br>
+In de volgende gevallen wordt een uitzondering op de vertrouwelijkheid gemaakt:<br>
+<br>
+- gegevens, namelijk identificatiegegevens en beoordelingsadvies, die moeten worden meegedeeld aan de erkenningsinstantie zodat die de titel van beroepsbekwaamheid aan de aanvrager zou kunnen uitreiken;<br>
+<br>
+- gegevens die moeten worden geregistreerd voor en kunnen worden opgevraagd door de subsidiërende instantie. In dat geval bezorgt de begeleider of beoordelaar uitsluitend identificatiegegevens, trajectbeschrijvende data en het resultaat van de beoordeling aan de subsidiërende instantie;<br>
+<br>
+- een beperkte interne gegevensdoorstroming in de gesubsidieerde beoordelingsinstantie die noodzakelijk is voor een adequaat management van de dienstverlening;<br>
+<br>
+- gegevens die noodzakelijk zijn voor de monitoringsopdracht van de interdepartementale stuurgroep. De gegevens moeten anoniem zijn zodat het onmogelijk is om vast te stellen op welke persoon ze betrekking hebben.<br>
+<br>
+Alle andere informatie kan pas aan derden meegedeeld worden na expliciete voorafgaande toestemming van de aanvrager.<br>
+<br>
+5.5. Gelijke behandeling en non-discriminatie<br>
+<br>
+De instantie garandeert de naleving van de bepalingen van het decreet van 8 mei 2002 betreffende de evenredige participatie op de arbeidsmarkt en zijn uitvoeringsbesluiten.<br>
+<br>
+In het bijzonder garandeert de beoordelingsinstantie een gelijke behandeling en non-discriminatie tijdens de procedure van beoordeling van competenties, in het bijzonder:<br>
+<br>
+- door bij de uitwerking van de EVC-procedures garanties in te bouwen dat volwaardig rekening wordt gehouden met de competenties en kwalificaties die in het buitenland worden verworven (IAO-aanbeveling 2004, art. 12);<br>
+<br>
+- door het gebruik van methodieken en testmethoden die genderneutraal zijn (IAO-aanbeveling 2004, art 18, g) ;<br>
+<br>
+- door het gebruik van methodieken en testmethoden die de grootst mogelijke garanties inhouden dat ze niet onbewust tot discriminatie leiden van allochtonen;<br>
+<br>
+- door de methodieken en testmethoden zoveel als mogelijk toegankelijk te maken en te houden voor kortgeschoolden en/of laaggeletterden.<br>
+<br>
+5.6. Eigendom<br>
+<br>
+De instantie garandeert dat de resultaten van de beoordeling het eigendom zijn van het individu.<br>
+<br>
+5.7. Onpartijdigheid<br>
+<br>
+De instantie moet garanderen dat de beoordeling, in alle fasen, onpartijdig gebeurt.<br>
+<br>
+5.8. Handvest van de werkzoekende<br>
+<br>
+De instantie moet garanderen dat bij de dienstverlening naar werkzoekenden de bepalingen van het decreet van 30 april 2004 houdende het Handvest van de werkzoekende en zijn uitvoeringsbesluiten volledig worden nageleefd.<br>
+<br>
+6. Klachten<br>
+<br>
+Op het niveau van de beoordelingsinstantie is er een eerstelijnsbehandeling voor klachten over het niet-naleven van deze gedragscode voor de beoordeling van competenties, over een concrete al dan niet verrichte handeling of over de werking van de organisatie. De klacht wordt in ieder geval behandeld door een persoon die niet bij de feiten waarop de klacht betrekking heeft, betrokken is geweest. De persoon die de klacht behandelt, is verplicht het beroepsgeheim te respecteren en een strikte neutraliteit in acht te nemen. De beoordelingsinstantie stelt de klant bij de aanvang van de dienstverlening schriftelijk op de hoogte van die interne klachtenbehandeling.
