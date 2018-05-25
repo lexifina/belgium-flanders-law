@@ -2357,6 +2357,20 @@ Bij de uitvoering van hun toezichtopdrachten beschikken toezichthouders over de 
 
 Toezichthouders maken van hun toezichtrechten alleen gebruik voor zover dat redelijkerwijs nuttig wordt geacht voor de vervulling van hun toezichtopdrachten.
 
+### ART 16.3.11bis.
+
+Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de bevoegde entiteiten waartoe de toezichthouders, vermeld in artikel 16.3.1, § 1, van dit decreet, behoren, beslissen de verplichtingen en de rechten, vermeld artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan wordt aan de voorwaarden, vermeld in het tweede tot en met het zesde lid.<br>
+<br>
+De mogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de bevoegde entiteiten waartoe de toezichthouders, vermeld in artikel 16.3.1, § 1, van dit decreet, behoren, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+De bevoegde entiteit waartoe de toezichthouder, vermeld in artikel 16.3.1, § 1, van dit decreet, behoort, moet de beslissing, vermeld in het eerste lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het eerste lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde entiteit waartoe de toezichthouder, vermeld in artikel 16.3.1, § 1, van dit decreet, behoort, op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan de bevoegde toezichthouder, vermeld in artikel 16.3.1, § 1, van dit decreet, heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijst de bevoegde entiteit waartoe de toezichthouder, vermeld in artikel 16.3.1, § 1, van dit decreet, behoort hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.
+
 ## [Onderafdeling II Recht op toegang (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
 
 ### ART. 16.3.12.
@@ -2399,7 +2413,7 @@ Bij de uitoefening van hun toezichtrechten mogen toezichthouders zich   laten bi
 
 ### ART. 16.3.19.
 
-Zonder afbreuk te doen aan de regelgeving inzake privacy zoals onder meer bepaald door artikel 8 van het Europees Verdrag voor de Rechten van de Mens en door de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens en haar uitvoeringsbesluiten, kunnen de toezichthouders vaststellingen doen met audiovisuele middelen.
+Zonder afbreuk te doen aan de regelgeving over de bescherming van de persoonlijke levenssfeer, waaronder artikel 8 EVRM, en de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, kunnen de toezichthouders vaststellingen doen met audiovisuele middelen.
 
 ## [Onderafdeling VIII Recht op bijstand (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
 
