@@ -261,6 +261,14 @@ Voor de uitvoering van de oriënterende stage wordt tussen de VDAB, de werkzoeke
 
 De VDAB helpt de werkgevers bij de preselectie van de meest geschikte kandidaten.
 
+### ART 45/1.
+
+De VDAB en partnerorganisaties kunnen van een werkgever feedback krijgen over de sollicitatie van een werkzoekende.
+
+### ART 45/2.
+
+Werkgevers, de VDAB en partnerorganisaties wisselen persoonsgegevens uit over werkzoekenden en werknemers als dat noodzakelijk is om arbeidsbemiddeling, begeleiding en opleiding aan te bieden.
+
 ### ART. 46.
 
 De werkgevers delen in hun werkaanbieding de volgende informatie mee :<br />1° de aard van de functie;<br />2° de aard van het aangeboden contract;<br />3° de arbeidsduur en arbeidstijdregeling;<br />4° de bezoldiging;<br />5° de vereiste competenties, de vereiste titel of titels van beroepsbekwaamheid;<br />6° de plaats waar de functie verricht moet worden, behalve als dat vooraf niet kan worden vastgesteld of als het gaat om functies die niet aan een bepaalde plaats van tewerkstelling gebonden zijn;<br />7° eventueel de bedoeling om een wervingsreserve aan te leggen;<br />8° de wijze waarop gesolliciteerd kan worden;<br />9° de aanwervings- en selectieprocedure.
