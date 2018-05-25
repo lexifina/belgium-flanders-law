@@ -20,9 +20,9 @@ Voor de toepassing van dit decreet wordt verstaan onder :<br>
 9° identificator : een taalkundig onafhankelijke opeenvolging van karakters die toelaat om datgene waarmee ze wordt geassocieerd, op een unieke en permanente wijze te identificeren;<br>
 10° CRAB-straatnaamcode : identificator die wordt toegekend aan elke straatnaam die is opgenomen in het Centraal Referentieadressenbestand, afgekort CRAB;<br>
 11° GRB : Grootschalig Referentie Bestand, vermeld in artikel 2, 3°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand;<br>
-12° Privacywet : de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens en de uitvoeringsbesluiten ervan;<br>
-13° verwerken : iedere verwerking, vermeld in artikel 1, § 2, van de Privacywet;<br>
-14° mededeling : een of meer van de handelingen, vermeld in artikel 1, § 2, van de Privacywet, die slaan op het verstrekken van gegevens door middel van doorzending, het verspreiden, en het op welke andere wijze ook ter beschikking stellen van gegevens, voor zover dat op systematische en georganiseerde wijze gebeurt. De mededeling aan de personen op wie de gegevens betrekking hebben, aan hun wettelijke vertegenwoordigers, alsook aan degenen die door hen uitdrukkelijk werden gemachtigd om de gegevens te verwerken, wordt niet als mededeling in de betekenis van dit decreet beschouwd;<br>
+12° algemene verordening gegevensbescherming : verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
+13° verwerken : de verwerking, vermeld in artikel 4, 2), van de algemene verordening gegevensbescherming;<br>
+14° mededeling : een of meer van de bewerkingen, vermeld in artikel 4, 2), van de algemene verordening gegevensbescherming, die slaan op het verstrekken van gegevens door doorzending, het verspreiden, en het op welke andere wijze ook ter beschikking stellen van gegevens, als dat op systematische en georganiseerde wijze gebeurt. De mededeling aan de personen op wie de gegevens betrekking hebben, aan hun wettelijke vertegenwoordigers, alsook aan degenen die door hen uitdrukkelijk werden gemachtigd om de gegevens te verwerken, wordt niet als mededeling in de betekenis van dit decreet beschouwd;<br>
 15° authentieke geografische gegevensbron : geografische gegevensbron als vermeld in hoofdstuk V van het decreet van 20 februari 2009 betreffende de Geografische Data-Infrastructuur Vlaanderen;<br>
 16° GDI-Vlaanderen : de Geografische Data-Infrastructuur Vlaanderen, vermeld in artikel 4 van het decreet van 20 februari 2009 betreffende de Geografische Data-Infrastructuur Vlaanderen;<br>
 17° deelnemer aan GDI-Vlaanderen : iedere instantie in de zin van artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur;<br>
@@ -43,7 +43,11 @@ Er wordt een Centraal Referentieadressenbestand, afgekort CRAB, opgericht dat de
 
 ### ART. 4.
 
-Het CRAB heeft in het bijzonder tot doel :<br />1° een technisch en organisatorisch kader te bieden voor de gecoördineerde verwerking van adressen in het Vlaamse Gewest;<br />2° een samenwerking tot stand te brengen tussen alle initiators;<br />3° ervoor te zorgen dat de adressen volgens overeengekomen specificaties worden verwerkt;<br />4° correcte informatie over adressen ter beschikking te stellen van deelnemers aan GDI-Vlaanderen, instanties die niet deelnemen aan GDI-Vlaanderen en derde partijen die de gegevens op rechtmatige wijze mogen verwerken met naleving van de Privacywet.
+Het CRAB heeft in het bijzonder tot doel :<br>
+1° een technisch en organisatorisch kader te bieden voor de gecoördineerde verwerking van adressen in het Vlaamse Gewest;<br>
+2° een samenwerking tot stand te brengen tussen alle initiators;<br>
+3° ervoor te zorgen dat de adressen volgens overeengekomen specificaties worden verwerkt;<br>
+4° correcte informatie over adressen ter beschikking te stellen van deelnemers aan GDI-Vlaanderen, instanties die niet deelnemen aan GDI-Vlaanderen en derde partijen die de gegevens op rechtmatige wijze mogen verwerken met naleving van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.
 
 ### ART. 5.
 
@@ -149,7 +153,7 @@ Voor de elektronische mededeling van gegevens uit het CRAB is de regeling van ar
 
 ### ART. 22.
 
-Ten aanzien van de verwerking van persoonsgegevens ter uitvoering van dit decreet is de gemeente respectievelijk het agentschap, ieder voor zover die verwerking onder de eigen verantwoordelijkheid plaatsvindt, verantwoordelijke als vermeld in artikel 1, § 4, eerste lid, van de Privacywet.
+Ten aanzien van de verwerking van persoonsgegevens ter uitvoering van dit decreet is de gemeente respectievelijk het agentschap, ieder voor zover die verwerking onder de eigen verantwoordelijkheid plaatsvindt, verwerkingsverantwoordelijke als vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
 
 ### ART. 23.
 
