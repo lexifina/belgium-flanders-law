@@ -130,7 +130,9 @@ Het Vlaams Expertisecentrum voor Opvoedingsondersteuning kan lokale   samenwerki
 
 ### ART. 19.
 
-<P>Met het oog op ofwel wetenschappelijk of statistisch onderzoek, inzonderheid   met het oog op de beleidsvoorbereiding, beleidsevaluatie en -programmatie, ofwel   met het oog op de handhaving van de erkennings- en subsidievoorwaarden, vermeld   in dit decreet, en zijn uitvoeringsbesluiten, kan Kind en Gezin van elke actor   binnen het Huis van het Kind gegevens opvragen, inclusief   persoonsgegevens.<BR></P>  <P>Kind en Gezin is de verantwoordelijke voor de verwerking van de opgevraagde   persoonsgegevens, vermeld in het eerste lid, en bepaalt welke categorieën van   gegevens verwerkt worden en desgevallend de vorm waarin.<BR></P>
+<p>Met het oog op ofwel wetenschappelijk of statistisch onderzoek, inzonderheid met het oog op de beleidsvoorbereiding, beleidsevaluatie en -programmatie, ofwel met het oog op de handhaving van de erkennings- en subsidievoorwaarden, vermeld in dit decreet, en zijn uitvoeringsbesluiten, kan Kind en Gezin van elke actor binnen het Huis van het Kind gegevens opvragen, inclusief persoonsgegevens.</p>
+
+<p>Kind en Gezin is de&nbsp;verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming van de opgevraagde persoonsgegevens, vermeld in het eerste lid, en bepaalt welke categorieën van gegevens verwerkt worden en desgevallend de vorm waarin.</p>
 
 ## Hoofdstuk 6 Toezicht
 
