@@ -50,7 +50,45 @@ d) de toekenning van steun voor de beoefening van landbouw-, zeevisserij-, en aq
 
 ### ART. 7.
 
-<P>§ 1. De gegevens die binnen het toepassingsgebied, vermeld in artikel 3, aan   een entiteit van het beleidsdomein Landbouw en Visserij worden verstrekt, kunnen   aan de andere entiteiten van het beleidsdomein ter beschikking worden gesteld   als die terbeschikkingstelling aansluit bij het toepassingsgebied, vermeld in   artikel 3.<BR></P>  <P>Binnen het beleidsdomein Landbouw en Visserij kunnen gegevens uitgewisseld   worden voor de volgende doeleinden : <BR>1° studie en analyse in het kader van   wetenschappelijk onderzoek; <BR>2° studie en analyse in het kader van   beleidsvoorbereiding; <BR>3° studie en analyse in het kader van   beleidsondersteuning; <BR>4° studie en analyse in het kader van   beleidsuitvoering; <BR>5° studie en analyse in het kader van   beleidsevaluatie;<BR>6° opmaak van landbouwimpactstudies; <BR>7° opmaak van   landbouweffectenrapportages;<BR>8° beheer van de databank voor de-minimissteun,   vermeld in artikel 6; <BR>9° bijhouden van bedrijfseconomische boekhoudingen;   <BR>10° inning van promotieheffingen;<BR>11° communicatie met de beoefenaars van   de activiteiten, vermeld in artikel 3, § 1, eerste lid, andere overheden, het   middenveld en de maatschappij; <BR>12° bepaling van de gebruikswaardendaling;   <BR>13° advisering in het kader van ruimtelijke ordening; <BR>14° organiseren   van voorlichtingsactiviteiten;<BR>15° uitvoeren door de entiteiten van de aan   hen toevertrouwde opdrachten; <BR>16° administratieve vereenvoudiging.<BR></P>  <P>§ 2. De entiteiten van het beleidsdomein Landbouw en Visserij, kunnen   gegevens die ze nodig hebben voor welbepaalde, uitdrukkelijk omschreven en   gerechtvaardigde doeleinden of voor de uitvoering van de aan hen toevertrouwde   opdrachten rechtstreeks opvragen bij derden.<BR></P>  <P>Na instemming van het Federaal Agentschap voor de Veiligheid van de   Voedselketen, kunnen de entiteiten van het beleidsdomein Landbouw en Visserij,   de volgende gegevens opvragen bij het Federaal Agentschap voor de Veiligheid van   de Voedselketen : <BR>1° identificatie- en registratiegegevens uit de dierlijke   sector in het kader van rechtstreekse EU-inkomenssteun, van steun in het kader   van plattelandsontwikkeling en van de biologische productie;<BR>2°   controlegegevens uit de dierlijke en de plantaardige sector in het kader van de   controle op de randvoorwaarden als voorwaarde voor de toekenning van steun, in   het kader van rechtstreekse EU-inkomenssteun en in het kader van steun voor   plattelandsontwikkeling;<BR>3° gegevens uit de plantaardige sector in het kader   van de handel van teeltmateriaal van siergewassen, groenteplan ten, fruitplanten   en bosbouwkundig teeltmateriaal en in het kader van het toezicht op de handels-   en kwaliteitsvoorschriften van producenten en leveranciers;<BR>4° alle   informatie die voortvloeit uit de vaststellingen die het Federaal Agentschap   voor de Veiligheid van de Voedselketen heeft gedaan of heeft ontvangen via het   Rapid Alert System, die van dien aard is dat fraude in de sectoren van de   biologische en de geïntegreerde productie aan het licht worden gebracht;<BR>5°   controlegegevens van de conformiteitscontroles met betrekking tot de   handelsnormen voor groenten en fruit.<BR></P>  <P>Na instemming van de bevoegde overheid kunnen de entiteiten van het   beleidsdomein Landbouw en Visserij fiscale gegevens opvragen bij de bevoegde   overheid.<BR></P>  <P>§ 3. De gegevens die in het toepassingsgebied, vermeld in artikel 3, aan een   entiteit van het beleidsdomein Landbouw en Visserij worden verstrekt, kunnen, na   akkoord van de entiteit die de gegevens verstrekt, aan derden ter beschikking   worden gesteld voor de verwerking door die derden voor welbepaalde,   uitdrukkelijk omschreven en gerechtvaardigde doeleinden.<BR></P>  <P>De gegevens, vermeld in paragraaf 2, tweede lid, kunnen doorgegeven worden   aan de erkende controleorganen biologische productie, de centra ter bevordering   van meer duurzame landbouwproductiemethoden en andere organen die de Vlaamse   Regering heeft aangewezen.<BR></P>  <P>§ 4. Als bij de uitwisseling van de gegevens, vermeld in artikel 6 en in dit   artikel, persoonsgegevens elektronisch worden uitgewisseld, kan dit slechts mits   machtiging van de mededeling van persoonsgegevens op basis van de wet van 8   december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van   de verwerking van persoonsgegevens of van het decreet van 18 juli 2008   betreffende het elektronische bestuurlijke   gegevensverkeer.<BR></P>
+<p>§ 1. De gegevens die binnen het toepassingsgebied, vermeld in artikel 3, aan een entiteit van het beleidsdomein Landbouw en Visserij worden verstrekt, kunnen aan de andere entiteiten van het beleidsdomein ter beschikking worden gesteld als die terbeschikkingstelling aansluit bij het toepassingsgebied, vermeld in artikel 3.</p>
+
+<p>Binnen het beleidsdomein Landbouw en Visserij kunnen gegevens uitgewisseld worden voor de volgende doeleinden :<br>
+1° studie en analyse in het kader van wetenschappelijk onderzoek;<br>
+2° studie en analyse in het kader van beleidsvoorbereiding;<br>
+3° studie en analyse in het kader van beleidsondersteuning;<br>
+4° studie en analyse in het kader van beleidsuitvoering;<br>
+5° studie en analyse in het kader van beleidsevaluatie;<br>
+6° opmaak van landbouwimpactstudies;<br>
+7° opmaak van landbouweffectenrapportages;<br>
+8° beheer van de databank voor de-minimissteun, vermeld in artikel 6;<br>
+9° bijhouden van bedrijfseconomische boekhoudingen;<br>
+10° inning van promotieheffingen;<br>
+11° communicatie met de beoefenaars van de activiteiten, vermeld in artikel 3, § 1, eerste lid, andere overheden, het middenveld en de maatschappij;<br>
+12° bepaling van de gebruikswaardendaling;<br>
+13° advisering in het kader van ruimtelijke ordening;<br>
+14° organiseren van voorlichtingsactiviteiten;<br>
+15° uitvoeren door de entiteiten van de aan hen toevertrouwde opdrachten;<br>
+16° administratieve vereenvoudiging.</p>
+
+<p>§ 2. De entiteiten van het beleidsdomein Landbouw en Visserij, kunnen gegevens die ze nodig hebben voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden of voor de uitvoering van de aan hen toevertrouwde opdrachten rechtstreeks opvragen bij derden.</p>
+
+<p>Na instemming van het Federaal Agentschap voor de Veiligheid van de Voedselketen, kunnen de entiteiten van het beleidsdomein Landbouw en Visserij, de volgende gegevens opvragen bij het Federaal Agentschap voor de Veiligheid van de Voedselketen :<br>
+1° identificatie- en registratiegegevens uit de dierlijke sector in het kader van rechtstreekse EU-inkomenssteun, van steun in het kader van plattelandsontwikkeling en van de biologische productie;<br>
+2° controlegegevens uit de dierlijke en de plantaardige sector in het kader van de controle op de randvoorwaarden als voorwaarde voor de toekenning van steun, in het kader van rechtstreekse EU-inkomenssteun en in het kader van steun voor plattelandsontwikkeling;<br>
+3° gegevens uit de plantaardige sector in het kader van de handel van teeltmateriaal van siergewassen, groenteplan ten, fruitplanten en bosbouwkundig teeltmateriaal en in het kader van het toezicht op de handels- en kwaliteitsvoorschriften van producenten en leveranciers;<br>
+4° alle informatie die voortvloeit uit de vaststellingen die het Federaal Agentschap voor de Veiligheid van de Voedselketen heeft gedaan of heeft ontvangen via het Rapid Alert System, die van dien aard is dat fraude in de sectoren van de biologische en de geïntegreerde productie aan het licht worden gebracht;<br>
+5° controlegegevens van de conformiteitscontroles met betrekking tot de handelsnormen voor groenten en fruit.</p>
+
+<p>Na instemming van de bevoegde overheid kunnen de entiteiten van het beleidsdomein Landbouw en Visserij fiscale gegevens opvragen bij de bevoegde overheid.<br>
+<br>
+De entiteiten van het beleidsdomein Landbouw en Visserij kunnen de gegevens die noodzakelijk zijn voor het beheer van het landbouwmonitoringsnetwerk en voor het bieden van beleidsondersteuning door onder meer het opmaken van studies, rapporten en cijfermateriaal, rechtstreeks opvragen bij derden.</p>
+
+<p>§ 3. De gegevens die in het toepassingsgebied, vermeld in artikel 3, aan een entiteit van het beleidsdomein Landbouw en Visserij worden verstrekt, kunnen, na akkoord van de entiteit die de gegevens verstrekt, aan derden ter beschikking worden gesteld voor de verwerking door die derden voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden.</p>
+
+<p>De gegevens, vermeld in paragraaf 2, tweede lid, kunnen doorgegeven worden aan de erkende controleorganen biologische productie, de centra ter bevordering van meer duurzame landbouwproductiemethoden en andere organen die de Vlaamse Regering heeft aangewezen.</p>
+
+<p>§ 4. Als bij de uitwisseling van de gegevens, vermeld in artikel 6 en in dit artikel, persoonsgegevens elektronisch worden uitgewisseld, kan dit slechts met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.<br>
+&nbsp;</p>
 
 ### ART. 8.
 
@@ -273,6 +311,20 @@ Deze onderafdeling is ook van toepassing op de andere afdelingen van   hoofdstuk
 ### ART. 45.
 
 <P>De Vlaamse Regering kan de toezichtopdracht voor de door haar bepaalde   aangelegenheden toevertrouwen aan één of meer controleorganen.<BR></P>  <P>De Vlaamse Regering kan de erkenning van de controleorganen en het toezicht   op die controleorganen nader regelen en de opdrachten van de controleorganen   vaststellen.<BR></P>  <P>De resultaten van controles uitgevoerd in het kader van de toezichtopdracht   kunnen doorgegeven worden aan entiteiten van het beleidsdomein Landbouw en   Visserij, aan de controleorganen en aan derden. De Vlaamse Regering kan hiervoor   nadere modaliteiten bepalen.<BR></P>
+
+### ART 45/1.
+
+Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kan de bevoegde toezichthouder of het bevoegd controleorgaan, vermeld in hoofdstuk 3 van dit decreet, beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan wordt aan de voorwaarden, vermeld in het tweede lid tot en met het zesde lid.<br>
+<br>
+De mogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de bevoegde toezichthouder of het bevoegd controleorgaan, vermeld in hoofdstuk 3 van dit decreet, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+De bevoegde toezichthouder of het bevoegd controleorgaan, vermeld in hoofdstuk 3 van dit decreet, moet de beslissing, vermeld in het eerste lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het eerste lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde toezichthouder of het bevoegd controleorgaan, vermeld in hoofdstuk 3 van dit decreet, op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan de bevoegde toezichthouder of het bevoegd controleorgaan, vermeld in hoofdstuk 3 van dit decreet, heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijst de bevoegde toezichthouder of het bevoegd controleorgaan, vermeld in hoofdstuk 3 van dit decreet, hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.
 
 ### ART. 46.
 
