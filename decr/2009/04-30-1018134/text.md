@@ -340,7 +340,16 @@ Met het oog op informatieverstrekking aan individuen, instellingen en overheden 
 
 ### ART. 20.
 
-Met het oog op het verlenen van diensten of met het oog op beleidsontwikkeling worden alle door de Vlaamse Gemeenschap erkende of gelijkwaardig verklaarde leer- en ervaringsbewijzen samen met de bijhorende minimale identificatiegegevens van de houder van de leer- en ervaringsbewijzen in kwestie, in een leer- en ervaringsbewijzendatabank geregistreerd bij de bevoegde diensten van de Vlaamse Regering.<br /><br />Deze registratie gebeurt door de instantie die de leer- en ervaringsbewijzen in kwestie heeft uitgereikt of door de instantie die de gegevens inzake de leer- en ervaringsbewijzen in kwestie heeft ingezameld bij instanties die leer- en ervaringsbewijzen uitreiken, of op basis van een geregistreerde verklaring op eer.<br /><br />Een leerbewijs is een bewijs dat wordt uitgereikt bij het succesvol beëindigen van een afgerond geheel van onderwijs-, vormings- of opleidingsactiviteiten nadat door middel van een toets werd nagegaan of de voorafbepaalde competenties verworven zijn.<br /><br />Een ervaringsbewijs is een bewijs zoals bedoeld in artikel 4 van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid. <br /><br />De bevoegde diensten van de Vlaamse Regering beheren de databank. Het ontsluiten van deze databank gebeurt door tussenkomst van de coördinatiecel Vlaams e-government die tussenbeide komt bij de mededeling van gegevens uit de leer- en ervaringsbewijzendatabank mits naleving van artikel 8 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br /><br />
+Met het oog op het verlenen van diensten of met het oog op beleidsontwikkeling worden alle door de Vlaamse Gemeenschap erkende of gelijkwaardig verklaarde leer- en ervaringsbewijzen samen met de bijhorende minimale identificatiegegevens van de houder van de leer- en ervaringsbewijzen in kwestie, in een leer- en ervaringsbewijzendatabank geregistreerd bij de bevoegde diensten van de Vlaamse Regering.<br>
+<br>
+Deze registratie gebeurt door de instantie die de leer- en ervaringsbewijzen in kwestie heeft uitgereikt of door de instantie die de gegevens inzake de leer- en ervaringsbewijzen in kwestie heeft ingezameld bij instanties die leer- en ervaringsbewijzen uitreiken, of op basis van een geregistreerde verklaring op eer.<br>
+<br>
+Een leerbewijs is een bewijs dat wordt uitgereikt bij het succesvol beëindigen van een afgerond geheel van onderwijs-, vormings- of opleidingsactiviteiten nadat door middel van een toets werd nagegaan of de voorafbepaalde competenties verworven zijn.<br>
+<br>
+Een ervaringsbewijs is een bewijs zoals bedoeld in artikel 4 van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid.<br>
+<br>
+De bevoegde diensten van de Vlaamse Regering beheren de databank. Die databank wordt ontsloten door tussenkomst van de Vlaamse dienstenintegrator, vermeld in artikel 3 van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator, die tussenbeide komt bij de mededeling van gegevens uit de leer- en ervaringsbewijzendatabank met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.<br>
+&nbsp;
 
 ## HOOFDSTUK VI Wijzigingsbepalingen
 
