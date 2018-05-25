@@ -2,16 +2,16 @@
   "codex_id": 1021768,
   "title": "Besluit van de Vlaamse Regering van 2012-05-04 tot instelling van een tegemoetkoming voor kandidaat-huurders",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021768/VolledigDocument?datum=2016-09-01",
-  "source_sha256": "829484c88157cd772fa875e27e261610017f3e6ab3707a139a9f54e76e7e5f3e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021768/VolledigDocument?datum=2018-05-25",
+  "source_sha256": "bacc51dda72f154260da571d3e8229dbc58097259edf4d45907f3236386d64ae",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021768&param=informatie",
-  "as_of": "2016-09-01",
+  "as_of": "2018-05-25",
   "made": "2012-05-04",
   "gazette": "2012-05-25",
   "numac": 2012035542,
   "document_start": "2012-08-01",
   "document_end": "2020-12-31",
-  "in_force": "2016-09-01",
+  "in_force": "2018-05-25",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
 }
