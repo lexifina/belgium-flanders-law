@@ -60,7 +60,46 @@ De Vlaamse Regering zorgt in het kader van de ondersteuning van de archiefzorg e
 
 ### ART. 14.
 
-§ 1. In afwijking van artikelen 13, § 2, kan elke zorgdrager toegang verlenen tot archiefdocumenten als om toegang wordt verzocht voor wetenschappelijke doeleinden. De zorgdrager kan de toegang onderwerpen aan bijzondere en specifieke voorwaarden.<br /><br />§ 2. De aanvraag tot toegang bevat minstens :<br />1° een bewijs van de identiteit van de aanvrager;<br />2° een vermelding van de te raadplegen archiefdocumenten;<br />3° een omstandige motivering en beschrijving van de wetenschappelijke doeleinden en de onderzoeksmethoden die gebruikt zullen worden.<br /><br />De aanvraag is gericht aan de zorgdrager waaronder de archiefdocumenten in kwestie naar hun aard bestemd zijn om te berusten. Ze wordt schriftelijk of elektronisch ingediend, of door persoonlijke overhandiging.<br /><br />§ 3. De beslissing over de aanvraag wordt gebaseerd op de volgende criteria :<br />1° het wetenschappelijke karakter van de onderzoeksmethode;<br />2° de wetenschappelijke meerwaarde van de doeleinden;<br />3° de mogelijkheid voor de zorgdrager om het ongepubliceerde onderzoeksresultaat in te kijken;<br />4° de mate van verspreiding van het onderzoeksresultaat;<br />5° de wijze waarop gevoelige gegevens verwerkt worden;<br />6° de wijze waarop persoonsgegevens geanonimiseerd worden;<br />7° de mate waarin afbreuk gedaan wordt aan de beperkingen die bij wet of decreet gesteld worden aan de openbaarheid van bestuur.<br /><br />§ 4. De beslissing over de aanvraag wordt, onverminderd delegatie, genomen door :<br />1° voor de administratieve rechtscolleges : de griffier;<br />2° voor de zorgdragers, vermeld in artikel 4, § 1, 2° : de ambtenaar-generaal;<br />3° voor de gemeenten en de districten : de secretaris;<br />4° voor de provincies : de griffier;<br />5° voor de zorgdragers, vermeld in artikel 4, § 1, 5° : de voorzitter van de vereniging;<br />6° voor de zorgdragers, vermeld in artikel 4, § 1, 6° : de secretaris van het O.C.M.W. of de leidend ambtenaar van de vereniging;<br />7° voor de zorgdragers, vermeld in artikel 4, § 1, 7° : de voorzitter;<br />8° voor de polders en de wateringen : de dijkgraaf van de polder of de voorzitter van de watering;<br />9° voor de zorgdragers, vermeld in artikel 4, § 1, 9° : de voorzitter van de raad van bestuur.<br /><br />§ 5. Tenzij hij de toestemming heeft van de betrokkenen, weigert de zorgdrager de toegang voor wetenschappelijke doeleinden evenwel indien de archiefdocumenten :<br />1° onderhevig zijn aan geheimhoudingsbepalingen;<br />2° informatie bevatten die door derden vrijwillig is verstrekt en uitdrukkelijk als vertrouwelijk is bestempeld;<br />3° vertrouwelijke commerciële en industriële informatie bevatten, die om een gelegitimeerd economisch belang te vrijwaren beschermd wordt;<br />4° op contractuele basis werden verworven en waarvan de tijdelijke geheimhouding werd gestipuleerd.<br /><br />§ 6. De aanvraag wordt door de zorgdrager zo spoedig mogelijk en uiterlijk binnen zestig kalenderdagen schriftelijk of elektronisch beantwoord. De negatieve of gedeeltelijk positieve beslissing bevat de reden voor de weigering. De motiveringsverplichting mag evenwel niet :<br />1° de uitwendige veiligheid van de Staat in het gedrang brengen;<br />2° de openbare orde verstoren;<br />3° afbreuk doen aan de eerbied voor het privéleven;<br />4° afbreuk doen aan de bepalingen over de zwijgplicht.
+§ 1. In afwijking van artikelen 13, § 2, kan elke zorgdrager toegang verlenen tot archiefdocumenten als om toegang wordt verzocht voor wetenschappelijke doeleinden. De zorgdrager kan de toegang onderwerpen aan bijzondere en specifieke voorwaarden.<br>
+<br>
+§ 2. De aanvraag tot toegang bevat minstens :<br>
+1° een bewijs van de identiteit van de aanvrager;<br>
+2° een vermelding van de te raadplegen archiefdocumenten;<br>
+3° een omstandige motivering en beschrijving van de wetenschappelijke doeleinden en de onderzoeksmethoden die gebruikt zullen worden.<br>
+<br>
+De aanvraag is gericht aan de zorgdrager waaronder de archiefdocumenten in kwestie naar hun aard bestemd zijn om te berusten. Ze wordt schriftelijk of elektronisch ingediend, of door persoonlijke overhandiging.<br>
+<br>
+§ 3. De beslissing over de aanvraag wordt gebaseerd op de volgende criteria :<br>
+1° het wetenschappelijke karakter van de onderzoeksmethode;<br>
+2° de wetenschappelijke meerwaarde van de doeleinden;<br>
+3° de mogelijkheid voor de zorgdrager om het ongepubliceerde onderzoeksresultaat in te kijken;<br>
+4° de mate van verspreiding van het onderzoeksresultaat;<br>
+5° de wijze waarop bijzondere categorieën persoonsgegevens verwerkt worden conform artikel 9 van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
+6° de wijze waarop persoonsgegevens geanonimiseerd worden;<br>
+7° de mate waarin afbreuk gedaan wordt aan de beperkingen die bij wet of decreet gesteld worden aan de openbaarheid van bestuur.<br>
+<br>
+§ 4. De beslissing over de aanvraag wordt, onverminderd delegatie, genomen door :<br>
+1° voor de administratieve rechtscolleges : de griffier;<br>
+2° voor de zorgdragers, vermeld in artikel 4, § 1, 2° : de ambtenaar-generaal;<br>
+3° voor de gemeenten en de districten : de secretaris;<br>
+4° voor de provincies : de griffier;<br>
+5° voor de zorgdragers, vermeld in artikel 4, § 1, 5° : de voorzitter van de vereniging;<br>
+6° voor de zorgdragers, vermeld in artikel 4, § 1, 6° : de secretaris van het O.C.M.W. of de leidend ambtenaar van de vereniging;<br>
+7° voor de zorgdragers, vermeld in artikel 4, § 1, 7° : de voorzitter;<br>
+8° voor de polders en de wateringen : de dijkgraaf van de polder of de voorzitter van de watering;<br>
+9° voor de zorgdragers, vermeld in artikel 4, § 1, 9° : de voorzitter van de raad van bestuur.<br>
+<br>
+§ 5. Tenzij hij de toestemming heeft van de betrokkenen, weigert de zorgdrager de toegang voor wetenschappelijke doeleinden evenwel indien de archiefdocumenten :<br>
+1° onderhevig zijn aan geheimhoudingsbepalingen;<br>
+2° informatie bevatten die door derden vrijwillig is verstrekt en uitdrukkelijk als vertrouwelijk is bestempeld;<br>
+3° vertrouwelijke commerciële en industriële informatie bevatten, die om een gelegitimeerd economisch belang te vrijwaren beschermd wordt;<br>
+4° op contractuele basis werden verworven en waarvan de tijdelijke geheimhouding werd gestipuleerd.<br>
+<br>
+§ 6. De aanvraag wordt door de zorgdrager zo spoedig mogelijk en uiterlijk binnen zestig kalenderdagen schriftelijk of elektronisch beantwoord. De negatieve of gedeeltelijk positieve beslissing bevat de reden voor de weigering. De motiveringsverplichting mag evenwel niet :<br>
+1° de uitwendige veiligheid van de Staat in het gedrang brengen;<br>
+2° de openbare orde verstoren;<br>
+3° afbreuk doen aan de eerbied voor het privéleven;<br>
+4° afbreuk doen aan de bepalingen over de zwijgplicht.
 
 ### ART. 15.
 
